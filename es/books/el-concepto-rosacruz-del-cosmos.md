@@ -8,11 +8,13 @@ original_source_file: 'Not yet available'
 
 # El Concepto Rosacruz del Cosmos
 
+o Ciencia Oculta Cristiana
+
 Título Original: "The Rosicrucian Cosmo-Conception"
 
 Tratado elemental sobre la evolución pasada del hombre, su constitución actual y su futuro desarrollo
 
-![Foto de Max Heindel](../assets/max-heindel.jpg)
+![Foto de Max Heindel](../../assets/max-heindel.jpg)
 
 por Max Heindel [1865-1919]
 
@@ -25,7 +27,7 @@ Una mente pura
 ```
 
 <img 
-  src="../assets/rosicrucian-emblem.svg" 
+  src="../../assets/rosicrucian-emblem.svg" 
   alt="Emblema Rosacruz" 
   width="300"
 />
@@ -37,8 +39,10 @@ Oceanside, CA. 92049-0713 USA
 Copyright by The Rosicrucian Fellowship
 
 ## Índice
+
 - [Credo o Cristo](#creed-or-christ)
-- [Una palabra al sabio](#word-to-the-wise)
+- [Una palabra al sabio](#a-word-to-the-wise)
+- [Introducción](#introduction)
 - [PRIMERA PARTE: Constitución actual del hombre y método de su desarrollo](#part-1)
   - [Capítulo I - Los mundos visibles e invisibles](#chapter-1)
   - [Capítulo II - Los cuatro reinos](#chapter-2)
