@@ -8,6 +8,8 @@ original_source_file: 'Not yet available'
 
 # El Concepto Rosacruz del Cosmos
 
+Título Original: "The Rosicrucian Cosmo-Conception"
+
 Tratado elemental sobre la evolución pasada del hombre, su constitución actual y su futuro desarrollo
 
 ![Foto de Max Heindel](../assets/max-heindel.jpg)
@@ -21,8 +23,6 @@ Una mente pura
     Un corazón noble  
         Un cuerpo sano  
 ```
-
-Título Original: "The Rosicrucian Cosmo-Conception"
 
 <img 
   src="../assets/rosicrucian-emblem.svg" 
