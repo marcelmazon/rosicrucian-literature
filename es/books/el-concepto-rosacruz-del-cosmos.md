@@ -37,10 +37,30 @@ Oceanside, CA. 92049-0713 USA
 Copyright by The Rosicrucian Fellowship
 
 ## Índice
-- [Credo o Cristo](#credo-o-cristo)
-- [Una palabra al sabio](#una-palabra-al-sabio)
-- [PRIMERA PARTE: Constitución actual del hombre y método de su desarrollo](#primera-parte)
-  - [Capitulo I - Los mundos visibles e invisibles](#capitulo-1)
+- [Credo o Cristo](#creed-or-christ)
+- [Una palabra al sabio](#word-to-the-wise)
+- [PRIMERA PARTE: Constitución actual del hombre y método de su desarrollo](#part-1)
+  - [Capítulo I - Los mundos visibles e invisibles](#chapter-1)
+  - [Capítulo II - Los cuatro reinos](#chapter-2)
+  - [Capítulo III - El hombre y el método de evolución](#chapter-3)
+  - [Capítulo IV - Renacimiento y ley de consequencia](#chapter-4)
+- [SEGUNDA PARTE: Cosmogenesis y antropogenesis](#part-2)
+  - [Capítulo V - La relación del hombre con dios](#chapter-5)
+  - [Capítulo VI - Esquema de la evolución](#chapter-6)
+  - [Capítulo VII - El camino de la evolución](#chapter-7)
+  - [Capítulo VIII - La obra de la evolución](#chapter-8)
+  - [Capítulo IX - Rezagados y principiantes](#chapter-9)
+  - [Capítulo X - El período terrestre](#chapter-10)
+  - [Capítulo XI - La evolución de nuestro sistema solar](#chapter-11)
+  - [Capítulo XII - Evolución de la tierra](#chapter-12)
+  - [Capítulo XIII - Hacia la biblia](#chapter-13)
+  - [Capítulo XIV - La caída del hombre](#chapter-14)
+- [TERCERA PARTE: Futuro desarrollo e iniciación del hombre](#part-3)
+  - [Capítulo XV - Cristo y su misión](#chapter-15)
+  - [Capítulo XVI - Desarrollo futuro e iniciación](#chapter-16)
+  - [Capítulo XVII - Método para adquirir el conocimiento directo](#chapter-17)
+  - [Capítulo XVIII - Constitución de la tierra y erupciones volcánicas](#chapter-18)
+  - [Capítulo XIX - Cristian Rosenkreuz y la orden de los rosacruces](#chapter-19)
 
 ### CREDO o CRISTO
 
