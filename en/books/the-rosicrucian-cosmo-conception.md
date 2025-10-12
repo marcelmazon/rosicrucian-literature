@@ -25,21 +25,171 @@ A Sane Mind
         A Sound Body
 ```
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters
-Mt. Ecclesia
-Oceanside, California, 91054, USA
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+Oceanside, California, 91054, USA  
 
-## Index
+## List of Contents
 
 - [Creed or Christ](#creed-or-christ)
 - [A Word to the Wise](#a-word-to-the-wise)
-- [Introduction](#introduction)
-- [PART ONE: ](#part-1)
-
-- [PART TWO: ](#part-2)
-
-- [PART THREE: ](#part-3)
+- [PART I: MAN'S PRESENT CONSTITUTION AND METHOD OF DEVELOPMENT](#part-1)
+  - [Diagram: The Four Kingdoms](#diagram-the-four-kingdoms)
+  - [Introduction](#introduction)
+  - [Chapter I - The Visible and Invisible Worlds](#chapter-1)
+    - [Chemical Region of the Physical World](#chemical-region-of-the-physical-world)
+    - [Etheric Region of the Physical World](#etheric-region-of-the-physical-world)
+    - [The Desire World](#the-desire-world)
+    - [The World of Thought](#the-world-of-thought)
+    - [Diagram 1. The Material World a Reverse Reflection of the Spiritual Worlds](#diagram-1-the-material-world-a-reverse-reflection-of-the-spiritual-worlds)
+    - [Diagram 2. The Seven Worlds](#diagram-2-the-seven-worlds)
+  - [CHAPTER II - The Four Kingdoms](#the-four-kingdoms)
+    - [Diagram 3. The Vehicles of the Four Kingdoms](#diagram-3-the-vehicles-of-the-four-kingdoms)
+    - [Diagram 4. The Consciousness of the Four Kingdoms](#diagram-4-the-consciousness-of-the-four-kingdoms)
+  - [CHAPTER III - Man and the Method of Evolution.](#chapter-3)
+    - [Activities of Life; Memory and Soul-growth]()
+    - [The Constitution of the Seven-fold Man]()
+    - [Diagram 5. The Three-fold Spirit, the Three-fold Body and the Three-fold Soul]()
+    - [Death and Purgatory]()
+    - [Diagram 5 1/2. The Silver Cord]()
+    - [The Borderland]()
+    - [The First Heaven]()
+    - [The Second Heaven]()
+    - [The Third Heaven]()
+    - [Preparations for Rebirth]()
+    - [Birth of the dense body]()
+    - [Birth of the vital body and Growth]()
+    - [Birth of the desire body and Puberty ]()
+    - [Birth of the Mind and Majority]()
+    - [The Blood; the Vehicle of the Ego]()
+    - [A Life Cycle (diagram)]()
+  - [CHAPTER IV. Rebirth and the Law of Consequence]()
+    - [Wine as a Factor in Evolution]()
+    - [A Remarkable Story]()
+- [PART II: COSMOGENESIS AND ANTHROPOGENESIS]()
+  - [CHAPTER V - The Relation of Man to God]()
+    - [Diagram 6. The Supreme Being, the Cosmic Planes and God]()
+  - [CHAPTER VI - The Scheme of Evolution. ]()
+    - [The Beginning]()
+    - [The Seven Worlds]()
+    - [The Seven Periods]()
+    - [Diagram 7. The Saturn Period]()
+  - [CHAPTER VII - The Path of Evolution]()
+    - [Revolutions and Cosmic Nights]()
+    - [Diagram 8. The Seven Worlds, Seven Globes and Seven Periods]()
+  - [CHAPTER VIII - The Work of Evolution.]()
+    - [Ariadne's Thread]()
+    - [The Saturn Period]()
+    - [Recapitulation]()
+    - [The Sun Period]()
+    - [The Moon Period]()
+    - [Diagram 9. The Twelve Creative Hierarchies]()
+  - [CHAPTER IX - Stragglers and Newcomers]()
+    - [Classes of Beings at the Beginning of the Moon Period]()
+    - [Diagram 10. Classes at the Beginning of Earth Period]()
+  - [CHAPTER X - The Earth Period]()
+    - [Saturn Revolution of the Earth Period]()
+    - [Sun Revolution of the Earth Period]()
+    - [Moon Revolution of the Earth Period]()
+    - [Rest Periods Between Revolutions]()
+    - [The Fourth Revolution of the Earth Period]()
+  - [CHAPTER XI - Genesis and Evolution of Our Solar System.]()
+    - [Chaos]()
+    - [The Birth of the Planets]()
+    - [Diagram 11. Aspects of God and Man]()
+    - [Table of Vibrations]()
+    - [Diagram 12. A Man's Past, Present and Future Form]()
+  - [CHAPTER XII. Evolution on the Earth.]()
+    - [The Polarian Epoch]()
+    - [The Hyperborean Epoch]()
+    - [The Moon; the Eighth Sphere]()
+    - [The Lemurian Epoch]()
+    - [Birth of the Individual]()
+    - [Separation of the Sexes]()
+    - [Influence of Mars]()
+    - [The Races and Their Leaders]()
+    - [Influence of Mercury]()
+    - [The Lemurian Race]()
+    - [The Fall of Man]()
+    - [The Lucifer Spirits]()
+    - [The Atlantean Epoch]()
+    - [The Aryan Epoch]()
+    - [The Sixteen Paths to Destruction]()
+  - [CHAPTER XIII - Back to the Bible]()
+  - [CHAPTER XIV - Occult Analysis of Genesis.]()
+    - [Limitations of the Bible]()
+    - [In the Beginning]()
+    - [The Nebular Theory]()
+    - [The Creative Hierarchies]()
+    - [The Saturn Period]()
+    - [The Sun Period]()
+    - [The Moon Period]()
+    - [The Earth Period]()
+    - [Jehovah and His Mission]()
+    - [Involution, Evolution and Epigenesis]()
+    - [A Living Soul?]()
+    - [Adam's Rib]()
+    - [Guardian Angels]()
+    - [Mixing Blood in Marriage]()
+    - [The Fall of Man]()
+    - [Diagram 13. The Beginning and End of Sex]()
+- [PART III: MAN'S FUTURE DEVELOPMENT AND INITIATION]()
+  - [Diagram. The Seven Days of Creation]()
+  - [CHAPTER XV - Christ and His Mission]()
+    - [The Evolution of Religion]()
+    - [Jesus and Christ-Jesus]()
+    - [Diagram 14. The Father, the Son and the Holy Spirit]()
+    - [Not Peace but a Sword]()
+    - [The Star of Bethlehem]()
+    - [The Heart an Anomaly]()
+    - [The Mystery of Golgotha]()
+    - [The Cleansing Blood]()
+    - [Diagram, "As Above, so Below"]()
+  - [CHAPTER XVI - Future Development and Initiation]()
+    - [The Seven Days of Creation]()
+    - [Diagram 15. The Symbolism of the Caduceus]()
+    - [Radiates, Mollusks, Articulates and Vertebrates]()
+    - [Spirals within Spirals]()
+    - [Alchemy and Soulgrowth]()
+    - [The Creative Word]()
+  - [CHAPTER XVII - The Method of Acquiring First-Hand Knowledge]()
+    - [The First Steps]()
+    - [Western Methods for Western People]()
+    - [The Science of Nutrition]()
+    - [Table of Food Values, Part I]()
+    - [Table of Food Values, Part II]()
+    - [The Law of Assimilation]()
+    - [Live and Let Live]()
+    - [The Lord's Prayer]()
+    - [Diagram 16. The Lord's Prayer]()
+    - [The Vow of Celibacy]()
+    - [The Pituitary Body and the Pineal Gland]()
+    - [Diagram 17. Path of the Unused Sex Currents]()
+    - [Esoteric Training]()
+    - [How the Inner Vehicle is Built]()
+    - [Concentration]()
+    - [Meditation]()
+    - [Observation]()
+    - [Discrimination]()
+    - [Contemplation]()
+    - [Adoration]()
+  - [CHAPTER XVIII - The Constitution of the Earth and Volcanic Eruptions]()
+    - [The Number of the Beast]()
+    - [Diagram 18. The Constitution of the Earth]()
+  - [CHAPTER XIX - Christian Rosenkreuz and the Order of Rosicrucians]()
+    - [Ancient Truths in Modern Dress]()
+    - [Initiation]()
+    - [The Rosicrucian Fellowship]()
+    - [Correspondence Courses]()
+    - [Symbolism of Rose Cross]()
+- [Topical Index]()
+  - [Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant ]()
+  - [Concerning the Origin of the Fellowship Teachings ]()
+  - [Addendum B: Footnote to Chapter III]()
+  - [Addendum C: Footnote to Chapter XIII (Regarding Race)]()
+  - [For Further Study]()
+  - [Addendum D: Footnote to "Our Buildings" ]()
 
 ### CREED OR CHRIST
 
@@ -89,333 +239,68 @@ That way is human sympathy and love.
 
 The founder of the Christian Religion stated an occult maxim when He said: "Whosoever shall not receive the kingdom of God as a little child shall not enter therein" (Mark X:15). All occultists recognize the far-reaching importance of this teaching of Christ, and endeavor to "live" it day by day. 
 
-
 When a new philosophy is presented to the world it is met in different ways by different people. 
-
 
 One person will grasp with avidity any new philosophical effort in an endeavor to ascertain how far it supports his own ideas. To such an one the philosophy itself is of minor importance. Its prime value will be its vindication of his ideas. If the work comes up to expectation in that respect, he will enthusiastically adopt it and cling to it with a most unreasoning partisanship; if not, he will probably lay the book down in disgust and disappointment, feeling as if the author had done him an injury. 
 
-
 Another adopts an attitude of skepticism as soon as he discovers that it contains something which he has not previously read, heard, or originated in his own thought. He would probably resent as extremely unjustified the accusation that his mental attitude is the acme of self-satisfaction and intolerance; such is nevertheless the case; and thus he shuts his mind to any truth which may possibly be hidden in that which he offhand rejects. 
-
 
 Both these classes stand in their own light. "Set" ideas render them impervious to rays of truth. "A little child" is the very opposite of its elders in that respect. It is not imbued with an overwhelming sense of superior knowledge, nor does it feel compelled to look wise or to hide its nescience of any subject by a smile or a sneer. It is frankly ignorant, unfettered by preconceived opinions and therefore eminently teachable. It takes everything with that beautiful attitude of trust which we have designated "childlike faith," wherein there is not the shadow of a doubt. There the child holds the teaching it receives until proven or disproven. 
 
-
 In all occult schools the pupil is first taught to forget all else when a new teaching is being given, to allow neither preference nor prejudice to govern, but to keep the mind in a state of calm, dignified waiting. As skepticism will blind us to truth in the most effective manner, so this calm, trustful attitude of the mind will allow the intuition, or "teaching from within," to become aware of the truth contained in the proposition. That is the only way to cultivate an absolutely certain perception of truth. 
-
 
 The pupil is not required to believe offhand that a given object which he has observed to be white, is really black, when such a statement is made to him; but he must cultivate an attitude of mind which "believeth all things" as possible. That will allow him to put by for the time being even what are generally considered "established facts," and investigate if perchance there be another viewpoint hitherto unobserved by him whence the object referred to would appear black. Indeed, he would not allow himself to look upon anything as "an established fact," for he realizes thoroughly the importance of keeping his mind in the fluidal state of adaptability which characterizes the little child. He realizes in every fiber of his being that "now we see through a glass, darkly," and Ajax-like he is ever on the alert, yearning for "Light, more Light." 
 
-[7] 
 The enormous advantage of such an attitude of mind when investigating any given subject, object or idea must be apparent. Statements which appear positively and unequivocally contradictory, which have caused an immense amount of feeling among the advocates of opposite sides, may nevertheless be capable of perfect reconciliation, as shown in one such instance mentioned in the present work. The bond of concord is only discovered by the open mind, however, and though the present work may be found to differ from others, the writer would bespeak an impartial hearing as the basis of subsequent judgment. If the book is "weighed and found wanting," the writer will have no complaint. He only fears a hasty judgment based upon lack of knowledge of the system he advocates--a hearing wherein the judgment is "wanting" in consequence of having been denied an impartial "weighing." He would further submit, that the only opinion worthy of the one who expresses it must be based upon knowledge. 
-
 
 As a further reason for care in judgment we suggest that to many it is exceedingly difficult to retract a hastily expressed opinion. Therefore it is urged that the reader withhold all expressions of either praise or blame until study of the work has reasonably satisfied him of its merit or demerit. 
 
-
 The Rosicrucian Cosmo-Conception is not dogmatic, neither does it appeal to any other authority than the reason of the student. It is not controversial, but is sent forth in the hope that it may help to clear some of the difficulties which have beset the minds of students of the deeper philosophies in the past. In order to avoid serious misunderstanding, it should be firmly impressed upon the mind of the student, however, that there is no infallible revelation of this complicated subject, which includes everything under the sun and above it also. 
-
 
 An infallible exposition would predicate omniscience upon the part of the writer, and even the Elder Brothers tell us that they are sometimes at fault in their judgment, so a book which shall say the last word on the World-Mystery is out of the question, and the writer of the present work does not pretend to give aught but the most elementary teachings of the Rosicrucians. 
 
-
 The Rosicrucian Brotherhood has the most far-reaching, the most logical conception of the World-Mystery of which the writer has gained any knowledge during the many years he has devoted exclusively to the study of this subject. So far as he has been able to investigate, their teachings have been found in accordance with facts as he knows them. Yet he is convinced that the Rosicrucian Cosmo-Conception is far from being the last word on the subject; that as we advance greater vistas of truth will open to us and make clear many things which we now "see through a glass, darkly." At the same time he firmly believes that all other philosophies of the future will follow the same main lines, for they appear to be absolutely true.
-
 
 In view of the foregoing it will be plain that this book is not considered by the writer as the Alpha and Omega, the ultimate of occult knowledge, and even though is entitled "The Rosicrucian Cosmo-Conception," the writer desires to strongly emphasize that is not to be understood as a "faith once for all delivered" to the Rosicrucians by a founder of the Order or by any other individual. It is emphatically stated that this work embodies only the writer's understanding of the Rosicrucian teachings concerning the World-Mystery, strengthened by his personal investigations of the inner Worlds, the antenatal and postmortem states of man, etc. The responsibility upon one who wittingly or unwittingly leads others astray is clearly realized by the writer, and he wishes to guard as far as possible against that contingency, and also to guard others against going wrong inadvertently. 
 
-
 What is said in this work is to be accepted or rejected by the reader according to his own discretion. All care has been used in trying to make plain the teaching; great pains have been taken to put it into words that shall be easily understood. For that reason only one term has been used throughout to convey each idea. The same word will have the same meaning wherever used. When any word descriptive of an idea is first used, the clearest definition possible to the writer is given. None but English terms and the simplest language have been used. The writer has tried to give as exact and definite descriptions of the subject under consideration as possible; to eliminate all ambiguity and to make everything clear. How far he has succeeded must be left to the student to judge; but having used every possible means to convey the teaching, he feels obliged to guard also against the possibility of this work being taken as a verbatim statement of the Rosicrucian teachings. Neglect of this precaution might give undue weight to this work in the minds of some students. That would not be fair to the Brotherhood nor to the reader. It would tend to throw the responsibility upon the Brotherhood for the mistakes which must occur in this as in all other human works. Hence the above warning. 
-
-[10] 
+ 
 During the four years which have elapsed since the foregoing paragraphs were written, the writer has continued his investigations of the invisible worlds, and experienced the expansion of consciousness relative to these realms of nature which comes by practice of the precepts taught in the Western Mystery School. Others also who have followed the method of soul-unfoldment herein described as particularly suited to the Western peoples, have likewise been enabled to verify for themselves many things here taught. Thus the writer's understanding of what was given by the Elder Brothers has received some corroboration and seems to have been substantially correct, therefore he feels it a duty to state this for the encouragement of those who are still unable to see for themselves. 
-
 
 If we said that the vital body is built of prisms instead of points, it would have been better, for it is by refraction through these minute prisms that the colorless solar fluid changes to a rosy hue as observed by other writers beside the author. 
 
+Other new and important discoveries have also been made; for instance, we know now that the Silver Cord is grown anew in each life, that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that both parts meet in the seed atom of the vital body in the solar plexus, and that this union of the higher and lower vehicles causes the quickening. Further development of the cord between the heart and solar plexus during the first seven years has an important bearing on the mystery of childlife, likewise its fuller growth from the liver to the solar plexus, which takes place during the second septenary period, is a contributory cause of adolescence. Completion of the Silver Cord marks the end of childlife, and from that time the solar energy which enters through the spleen and is tinted by refraction through the prismatic seed atom of the vital body located in the solar plexus, commences to give a distinctive and individual coloring to the aura which we observe in adults.
 
-Other new and important discoveries have also been made; for instance, we know now that the Silver Cord is grown anew in each life, that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that both parts meet in the seed atom of the vital body in the solar plexus, and that this union of the higher and lower vehicles causes the quickening. Further development of the cord between the heart and solar plexus during the first seven years has an important bearing on the mystery of childlife, likewise its fuller growth from the liver to the solar plexus, which takes place during the second septenary period, is a contributory cause of adolescence. Completion of the Silver Cord marks the end of childlife, and from that time the solar energy which enters through the spleen and is tinted by refraction through the prismatic seed atom of the vital body located in the solar plexus, commences to give a distinctive and individual coloring to the aura which we observe in adults. 
+<h2 id="part-1">PART I: Man's Present Constitution and
+Method of Development</h2>
 
-[11] 
-LIST OF CONTENTS
-
-
-PART I
-
-
-MAN'S PRESENT CONSTITUTION AND METHOD OF DEVELOPMENT
-
-
-A Word to the Wise - Page 5 
-The Four Kingdoms, diagram - Page 16 
-Introduction - Page 17 
-
-
-CHAPTER I. The Visible and Invisible Worlds - Page 24 
-Chemical Region of the Physical World - Page 29 
-Etheric Region of the Physical World - Page 34 
-The Desire World - Page 38 
-The World of Thought - Page 48 
-Diagram 1. The Material World a Reverse Reflection of the Spiritual Worlds - Page 52 
-Diagram 2. The Seven Worlds - Page 54 
-
-
-CHAPTER II. The Four Kingdoms - Page 56 
-Diagram 3. The Vehicles of the Four Kingdoms - Page 73 
-Diagram 4. The Consciousness of the Four Kingdoms - Page 74 
-
-
-CHAPTER III. Man and the Method of Evolution. 
-Activities of Life; Memory and Soul-growth - Page 87 
-The Constitution of the Seven-fold Man - Page 88 
-Diagram 5. The Three-fold Spirit, the Three-fold Body and the Three-fold Soul -Page 95 
-Death and Purgatory - Page 96 
-Diagram 5 1/2. The Silver Cord - Page 98 
-The Borderland - Page 112 
-The First Heaven - Page 113 
-The Second Heaven - Page 121 
-The Third Heaven - Page 129 
-Preparations for Rebirth - Page 133 
-Birth of the dense body - Page 139 
-Birth of the vital body and Growth - Page 141 
-Birth of the desire body and Puberty - Page 142 
-Birth of the Mind and Majority - Page 142 
-The Blood; the Vehicle of the Ego - Page 143 
-A Life Cycle (diagram) - Page 146 
-
-
-CHAPTER IV. Rebirth and the Law of Consequence - Page 147 
-Wine as a Factor in Evolution - Page 165 
-A Remarkable Story - Page 172 
-[12] 
-
-PART II.
-COSMOGENESIS AND ANTHROPOGENESIS.
-
-
-CHAPTER V. The Relation of Man to God - Page 177 
-Diagram 6. The Supreme Being, the Cosmic Planes and God - Page 178 
-
-
-CHAPTER VI. The Scheme of Evolution. - Page 183 
-The Beginning - Page 183 
-The Seven Worlds - Page 186 
-The Seven Periods - Page 188 
-Diagram 7. The Saturn Period - Page 193 
-
-
-CHAPTER VII. The Path of Evolution - Page 194 
-Revolutions and Cosmic Nights - Page 195 
-Diagram 8. The Seven Worlds, Seven Globes and Seven Periods - Page 197 
-
-
-CHAPTER VIII. The Work of Evolution. - Page 201 
-Ariadne's Thread - Page 201 
-The Saturn Period - Page 204 
-Recapitulation - Page 208 
-The Sun Period - Page 209 
-The Moon Period - Page 213 
-Diagram 9. The Twelve Creative Hierarchies - Page 221 
-
-
-CHAPTER IX. Stragglers and Newcomers - Page 223 
-Classes of Beings at the Beginning of the Moon Period - Page 226 
-Diagram 10. Classes at the Beginning of Earth Period - Page 230 
-
-
-CHAPTER X. The Earth Period - Page 233 
-Saturn Revolution of the Earth Period - Page 236 
-Sun Revolution of the Earth Period - Page 240 
-Moon Revolution of the Earth Period - Page 242 
-Rest Periods Between Revolutions - Page 243 
-The Fourth Revolution of the Earth Period - Page 245 
-
-
-CHAPTER XI. Genesis and Evolution of Our Solar System. - Page 246 
-Chaos - Page 246 
-The Birth of the Planets - Page 252 
-Diagram 11. Aspects of God and Man 
-Table of Vibrations 
-Diagram 12. A Man's Past, Present and Future Form - Page 257 
-
-
-CHAPTER XII. Evolution on the Earth. - Page 261 
-The Polarian Epoch - Page 261 
-The Hyperborean Epoch - Page 262 
-The Moon; the Eighth Sphere - Page 264 
-The Lemurian Epoch - Page 265 
-[13] 
-
-Birth of the Individual - Page 266 
-Separation of the Sexes - Page 267 
-Influence of Mars - Page 268 
-The Races and Their Leaders - Page 270 
-Influence of Mercury - Page 273 
-The Lemurian Race - Page 275 
-The Fall of Man - Page 282 
-The Lucifer Spirits - Page 286 
-The Atlantean Epoch - Page 291 
-The Aryan Epoch - Page 304 
-The Sixteen Paths to Destruction - Page 306 
-
-
-CHAPTER XIII. Back to the Bible - Page 308 
-
-
-CHAPTER XIV. Occult Analysis of Genesis. - Page 317 
-Limitations of the Bible - Page 317 
-In the Beginning - Page 321 
-The Nebular Theory - Page 322 
-The Creative Hierarchies - Page 325 
-The Saturn Period - Page 327 
-The Sun Period - Page 328 
-The Moon Period - Page 328 
-The Earth Period - Page 329 
-Jehovah and His Mission - Page 333 
-Involution, Evolution and Epigenesis - Page 336 
-A Living Soul? - Page 344 
-Adam's Rib - Page 346 
-Guardian Angels - Page 347 
-Mixing Blood in Marriage - Page 352 
-The Fall of Man - Page 360 
-Diagram 13. The Beginning and End of Sex - Page 364 
-
-
-PART III
-MAN'S FUTURE DEVELOPMENT AND INITIATION
-
-
-Diagram. The Seven Days of Creation - Page 366 
-
-
-CHAPTER XV. Christ and His Mission - Page 367 
-The Evolution of Religion - Page 367 
-Jesus and Christ-Jesus - Page 374 
-Diagram 14. The Father, the Son and the Holy Spirit - Page 377 
-Not Peace but a Sword - Page 383 
-The Star of Bethlehem - Page 388 
-The Heart an Anomaly - Page 393 
-The Mystery of Golgotha - Page 400 
-The Cleansing Blood - Page 406 
-Diagram, "As Above, so Below" - Page 410 
-
-
-CHAPTER XVI. Future Development and Initiation. - Page 411 
-The Seven Days of Creation 
-Diagram 15. The Symbolism of the Caduceus - Page 413 
-Radiates, Mollusks, Articulates and Vertebrates - Page 416 
-Spirals within Spirals - Page 420 
-[14] 
-
-Alchemy and Soulgrowth - Page 421 
-The Creative Word - Page 425 
-
-
-CHAPTER XVII. The Method of Acquiring First-Hand Knowledge. Page 430 
-The First Steps - Page 430 
-Western Methods for Western People - Page 437 
-The Science of Nutrition - Page 441 
-Table of Food Values, Part I - Page 450 
-Table of Food Values, Part II - Page 451 
-The Law of Assimilation - Page 457 
-Live and Let Live - Page 460 
-The Lord's Prayer - Page 462 
-Diagram 16. The Lord's Prayer - Page 464a 
-The Vow of Celibacy - Page 467 
-The Pituitary Body and the Pineal Gland - Page 473 
-Diagram 17. Path of the Unused Sex Currents - Page 475 
-Esoteric Training - Page 477 
-How the Inner Vehicle is Built - Page 480 
-Concentration - Page 486 
-Meditation - Page 489 
-Observation - Page 492 
-Discrimination - Page 493 
-Contemplation - Page 494 
-Adoration - Page 495 
-
-
-CHAPTER XVIII. The Constitution of the Earth and Volcanic Eruptions - Page 498 
-The Number of the Beast - Page 499 
-Diagram 18. The Constitution of the Earth - Page 509 
-
-
-CHAPTER XIX. Christian Rosenkreuz and the Order of Rosicrucians - Page 515 
-Ancient Truths in Modern Dress - Page 515 
-Initiation - Page 524 
-The Rosicrucian Fellowship - Page 530 
-Correspondence Courses - Page 533 
-Symbolism of Rose Cross - Page 534 
-Topical Index 
-Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant 
-
-
-Concerning the Origin of the Fellowship Teachings 
-
-
-Addendum B: Footnote to Chapter III 
-
-
-Addendum C: Footnote to Chapter XIII (Regarding Race) 
-
-
-For Further Study 
-
-
-Addendum D: Footnote to "Our Buildings" 
-[15] 
-
-PART I
-
-Man's Present Constitution and
-Method of Development
-[16] 
-
-
-
-
-[17] 
-
-INTRODUCTION
-
+<h3 id="introduction">INTRODUCTION</h3>
 
 The Western world is undoubtedly the vanguard of the human race, and, for reasons given in the following pages, it is held by the Rosicrucian that neither Judaism nor "popular Christianity," but true Esoteric Christianity is to be its world-religion. 
 
 Buddha, great, grand and sublime, may be the "light of Asia," but Christ will yet be acknowledged the "Light of the World." As the sun outshines the brightest star in the heavens, dispels every vestige of darkness and gives life and light to all beings, so, in a not too distant future, will the true religion of Christ supersede and obliterate all other religions, to the eternal benefit of mankind. 
 
-
 In our civilization the chasm that stretches between mind and heart yawns deep and wide and, as the mind flies on from discovery to discovery in the realms of science, the gulf becomes ever deeper and wider and the heart is left further and further behind. The mind loudly demands and will be satisfied with nothing less than a materially demonstrable explanation of man and his fellow-creatures that make up the phenomenal world. The heart feels instinctively that there is something greater, and it yearns for that which it feels is a higher truth than can be grasped by the mind alone. The human soul would fain soar upon ethereal pinions of intuition; would fain love in the eternal fount of spiritual light and love; but modern scientific views have shorn its wings and it sits fettered and mute, unsatisfied longings gnawing at its tendrils as the vulture of Prometheus' liver. 
 
-[18] 
 Is this necessary? Is there no common ground upon which head and heart may meet, each assisting the other, each by the help of the other becoming more effective in the search for universal truth, and each receiving equal satisfaction? 
-
 
 As surely as the preexisting light created the eye whereby the light is seen; as surely as the primordial desire for growth created the digestive and assimilative system for the attainment of that end; as surely as thought existed before the brain and built and still is building the brain for its expression; as surely as the mind is now forging ahead and wringing her secrets from nature by the very force of its audacity, just so surely will the heart find a way to burst its bonds and gratify its longings. At present it is shackled by the dominant brain. Some day it will gather strength to burst its prison bars and become a power greater than the mind.
 
-
 It is equally certain that there can be no contradiction in nature, therefore the heart and the mind must be capable of uniting. To indicate this common ground is precisely the purpose of this book. To show where and how the mind, helped by the intuition of the heart, can probe more deeply into the mysteries of being than either could do alone; where the heart, by union with the mind, can be kept from going astray; where each can have full scope for action, neither doing violence to the other and where both mind and heart can be satisfied. 
-
 
 Only when that cooperation is attained and perfected will man attain the higher, truer understanding of himself and of the world of which he is a part; only that can give him a broad mind and a great heart. 
 
-[19] 
 At every birth what appears to be a new life comes among us. We see the little form as it lives and grows, becoming a factor in our lives for days, months or years. At last there comes a day when the form dies and goes to decay. The life that came, whence we know not, has passed to the invisible beyond, and in sorrow we ask ourselves, Whence came it? What was it here? and Whither has it gone? 
-
 
 Across every threshold the skeleton form of Death throws his fearsome shadow. Old or young, well or ill, rich or poor, all, all alike must pass out into that shadow and throughout the ages has sounded the piteous cry for a solution of the riddle of life--the riddle of death. 
 
-
 So far as the vast majority of people are concerned the three great questions, Whence have we come? Why are we here? Whither are we going? remain unanswered to this day. It has unfortunately come to be the popularly accepted opinion that nothing can be definitely known about these matters of deepest interest to humanity. Nothing could be more erroneous than such an idea. Each and every one, without exception, may become capable of obtaining firsthand, definite information upon this subject; may personally investigate the state of the Human Spirit, both before birth and after death. There is no favoritism, nor are special gifts required. Each of us has inherently the faculty for knowing all of these matters; but!--Yes, there is a "but," and a "BUT" that must be written large. These faculties are present in all, though latent in most people. It requires persistent effort to awaken them and that seems to be a powerful deterrent. If these faculties, "awake and aware," could be had for a monetary consideration, even if the price were high, many people would pay it to gain such immense advantage over their fellowmen, but few indeed are those willing to live the life that is required to awaken them. That awakening comes only by patient, persistent effort. It cannot be bought; there is no royal road to it. 
-
 
 It is conceded that practice is necessary to learn to play the piano, and that it is useless to think of being a watchmaker without being willing to serve an apprenticeship. Yet when the matter of the soul, of death and the beyond, of the great causes of being, are the questions at issue, many think they know as much as anyone and have an equal right to express an opinion, though they may never have given the subject an hour's study. 
 
-
 As a matter of fact, no one unless qualified by study of the subject should expect serious consideration for an opinion. In legal cases, where experts are called to testify, they are first examined as to their competency. The weight of their testimony will be nil, unless they are found to be thoroughly proficient in the branch of knowledge regarding which their testimony is sought. 
 
-
 If, however, they are found to be qualified--by study and practice--to express an expert opinion, it is received with the utmost respect and deference; and if the testimony of one expert is corroborated by others equally proficient, the testimony of each additional man adds immensely to the weight of the previous evidence. 
-
 
 The irrefutable testimony of one such man easily counterbalances that of one or a dozen or a million men who know nothing of that whereof they speak, for nothing, even though multiplied by a million, will still remain nothing. This is as true of any other subject as of mathematics. 
 

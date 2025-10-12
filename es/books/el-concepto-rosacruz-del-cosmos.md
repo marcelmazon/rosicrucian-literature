@@ -42,8 +42,8 @@ Copyright by The Rosicrucian Fellowship
 
 - [Credo o Cristo](#creed-or-christ)
 - [Una palabra al sabio](#a-word-to-the-wise)
-- [Introducción](#introduction)
 - [PRIMERA PARTE: Constitución actual del hombre y método de su desarrollo](#part-1)
+  - [Introducción](#introduction)
   - [Capítulo I - Los mundos visibles e invisibles](#chapter-1)
   - [Capítulo II - Los cuatro reinos](#chapter-2)
   - [Capítulo III - El hombre y el método de evolución](#chapter-3)
@@ -150,6 +150,8 @@ Se han hecho otros nuevos e importantes descubrimientos; por ejemplo, ahora sabe
 
 -- Max Heindel 
 
+<h2 id="primera-parte">PRIMERA PARTE: CONSTITUCIÓN ACTUAL DEL HOMBRE Y MÉTODO DE SU DESARROLLO</h2>
+
 ### INTRODUCCIÓN
 
 El mundo occidental forma, indudablemente, la vanguardia de la raza humana, y, por razones que se indicarán más adelante, los rosacruces sostienen, que ni el Judaísmo ni el "Cristianismo popular", sino el verdadero Cristianismo Esotérico, será la Religión del mundo. 
@@ -212,9 +214,7 @@ Si no se poseen estas cualidades, especialmente la última, en parte por lo meno
 
 Cristo dijo: "la verdad os libertará"; pero la verdad no se encuentra en seguida y para siempre. La verdad es eterna y su investigación debe ser eterna también. El ocultismo sabe que no se puede dar una creencia de una ves para siempre. Hay ciertas verdades básicas que permanecen siempre las mismas, pero que pueden ser miradas desde muchos puntos de vista, dando cada uno su aspecto particular que complementa los anteriores; por lo tanto, en lo que por el momento se nos alcanza, no hay tal acabamiento posible de arribar a la última verdad. 
 
-Aunque este trabajo difiera de otras obras filosóficas, las variaciones son debidas al diferente punto de vista, y respetuosamente nos inclinamos ante las conclusiones y las ideas emitidas por otros investigadores. Nuestro mayor deseo es que estos conocimientos amplíen y engrandezcan las ideas de los estudiantes y las complementen y ensanchen. 
-
-<h2 id="primera-parte">PRIMERA PARTE: CONSTITUCIÓN ACTUAL DEL HOMBRE Y MÉTODO DE SU DESARROLLO</h2>
+Aunque este trabajo difiera de otras obras filosóficas, las variaciones son debidas al diferente punto de vista, y respetuosamente nos inclinamos ante las conclusiones y las ideas emitidas por otros investigadores. Nuestro mayor deseo es que estos conocimientos amplíen y engrandezcan las ideas de los estudiantes y las complementen y ensanchen.
 
 <h3 id="capitulo-1">CAPÍTULO I: LOS MUNDOS VISIBLES E INVISIBLES</h3>
 
