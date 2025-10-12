@@ -184,12 +184,12 @@ Oceanside, California, 91054, USA
     - [Correspondence Courses]()
     - [Symbolism of Rose Cross]()
 - [Topical Index]()
-  - [Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant ]()
-  - [Concerning the Origin of the Fellowship Teachings ]()
+  - [Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant]()
+  - [Concerning the Origin of the Fellowship Teachings]()
   - [Addendum B: Footnote to Chapter III]()
   - [Addendum C: Footnote to Chapter XIII (Regarding Race)]()
   - [For Further Study]()
-  - [Addendum D: Footnote to "Our Buildings" ]()
+  - [Addendum D: Footnote to "Our Buildings"]()
 
 ### CREED OR CHRIST
 
@@ -235,7 +235,7 @@ That way is human sympathy and love.
 
 -- Max Heindel.
 
-<h3 id="a-word-to-the-wise">A Word to the Wise</h3>
+### <h3 id="a-word-to-the-wise">A Word to the Wise</h3>
 
 The founder of the Christian Religion stated an occult maxim when He said: "Whosoever shall not receive the kingdom of God as a little child shall not enter therein" (Mark X:15). All occultists recognize the far-reaching importance of this teaching of Christ, and endeavor to "live" it day by day. 
 
