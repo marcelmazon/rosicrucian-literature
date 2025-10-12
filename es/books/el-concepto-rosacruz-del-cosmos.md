@@ -110,7 +110,7 @@ Este camino es: humana compasión y amor.
 
 -- Max Heindel  
 
-### UNA PALABRA AL SABIO
+### <h3 id="a-word-to-the-wise">UNA PALABRA AL SABIO</h3>
 
 El fundador de la Religión Cristiana emitió una máxima oculta cuando dijo: "Cualquiera que no reciba el reino de Dios como un niño pequeño no entrará en él." (San Mateo X:15). Todos los ocultistas reconocen la inmensa importancia de esta enseñanza de Cristo y tratan de vivirla de día en día. 
 
