@@ -150,13 +150,13 @@ Se han hecho otros nuevos e importantes descubrimientos; por ejemplo, ahora sabe
 
 -- Max Heindel 
 
-<h2 id="primera-parte">PRIMERA PARTE: CONSTITUCIÓN ACTUAL DEL HOMBRE Y MÉTODO DE SU DESARROLLO</h2>
+## <h2 id="primera-parte">PRIMERA PARTE: CONSTITUCIÓN ACTUAL DEL HOMBRE Y MÉTODO DE SU DESARROLLO</h2>
 
-### INTRODUCCIÓN
+### <h3 id="introduction">INTRODUCCIÓN</h3>
 
 El mundo occidental forma, indudablemente, la vanguardia de la raza humana, y, por razones que se indicarán más adelante, los rosacruces sostienen, que ni el Judaísmo ni el "Cristianismo popular", sino el verdadero Cristianismo Esotérico, será la Religión del mundo. 
 
-Buda, grande y sublime, podrá haber sido la " Luz del Asia" pero puede afirmarse que Cristo será la "Luz del Mundo." Así como la luz del Sol desvanece la de las más brillantes estrellas y borra todo vestigio de oscuridad iluminando y vivificando a todos los seres, así también, en un futuro no muy lejano, la verdadera religión de Cristo sobrepasará y anulará todas las otras religiones para eterno beneficio de la humanidad. 
+Buda, grande y sublime, podrá haber sido la "Luz del Asia" pero puede afirmarse que Cristo será la "Luz del Mundo." Así como la luz del Sol desvanece la de las más brillantes estrellas y borra todo vestigio de oscuridad iluminando y vivificando a todos los seres, así también, en un futuro no muy lejano, la verdadera religión de Cristo sobrepasará y anulará todas las otras religiones para eterno beneficio de la humanidad. 
 
 En nuestra civilización, el abismo que se interpone entre la mente y el corazón se hace más grande cada día, y, mientras la mente vuela de un descubrimiento a otro en los dominios de la ciencia, el vacío se hace más grande y oscuro, y el corazón se ve dejado atrás cada vez más. La mente pide a gritos y se satisface solamente con explicaciones materialmente demostrables acerca del hombre y de los demás seres que forman el mundo fenomenal. 
 
@@ -216,7 +216,7 @@ Cristo dijo: "la verdad os libertará"; pero la verdad no se encuentra en seguid
 
 Aunque este trabajo difiera de otras obras filosóficas, las variaciones son debidas al diferente punto de vista, y respetuosamente nos inclinamos ante las conclusiones y las ideas emitidas por otros investigadores. Nuestro mayor deseo es que estos conocimientos amplíen y engrandezcan las ideas de los estudiantes y las complementen y ensanchen.
 
-<h3 id="capitulo-1">CAPÍTULO I: LOS MUNDOS VISIBLES E INVISIBLES</h3>
+### <h3 id="chapter-1">CAPÍTULO I: LOS MUNDOS VISIBLES E INVISIBLES</h3>
 
 El primer paso en ocultismo es el estudio de los mundos invisibles. Estos mundos son invisibles para la mayoría de los hombres, debido a que los sentidos sutiles y elevados, por los cuales pueden percibirse, están dormidos. Estos sentidos sutiles permitirán observar aquellos mundos de la misma manera que percibimos el Mundo Físico por medio de nuestros sentidos físicos. La mayoría de los hombres se encuentran respecto a los mundos suprafísicos en parecidas condiciones a las que el que ha nacido ciego se encuentra en este mundo de los sentidos: aunque la luz y el color estén en torno suyo, es incapaz de percibirlos. Para el no existen y son incomprensibles, simplemente porque carece del sentido de la vista que le permitiera verlos. Los objetos que puede tocar le parecen reales, pero la luz y el color están mas allá de su alcance. 
 
@@ -258,7 +258,7 @@ De esta manera, la ideación se convierte en una realidad. El materialista afirm
 
 Habiendo visto, pues, lo razonable de la existencia de tales mundos, que existen en torno nuestro y habiéndonos satisfecho sobre su realidad, permanencia y utilidad de conocerlos, los examinaremos distinta y separadamente, empezando por el Mundo Físico. 
 
-#### REGIÓN QUÍMICA DEL MUNDO FÍSICO.
+#### <h4 id="chemical-region-of-the-physical-world">REGIÓN QUÍMICA DEL MUNDO FÍSICO.</h4>
 
 En la Doctrina Rosacruz el universo se divide en siete mundos o estados de materia diferentes, como sigue: 
 
@@ -300,7 +300,7 @@ Es casi seguro que habrá necesidad de nuevas modificaciones antes de que la má
 
 Esto se aplica igualmente a todas las condiciones de la vida, sociales, mercantiles o filantrópicas. Muchos proyectos parecen excelentes a los que los conciben, y muchos siguen pareciendo buenos después de llevarlos al papel; pero cuando se experimentan en el terreno de la práctica, también son muchos los que fracasan. Esto, sin embargo, no debe desanimarnos. Es muy cierto que "nosotros aprendemos más de nuestros errores que de nuestros éxitos" y la verdadera luz a través de la cual debemos contemplar el Mundo Físico es considerarlo como una valiosa escuela experimental, en la que aprendemos lecciones de la mayor importancia. 
 
-#### LA REGION ETÉRICA DEL MUNDO FISICO
+#### <h4 id="the-etheric-region-of-the-physical-world">LA REGIÓN ETÉRICA DEL MUNDO FISICO</h4>
 
 Tan pronto como entramos en este reino de la Naturaleza, nos encontramos en el mundo invisible e intangible, donde ya no sirven nuestros sentidos ordinarios y, por consiguiente, esta parte del Mundo Físico está prácticamente inexplorada por la ciencia material. 
 
@@ -332,7 +332,7 @@ El Eter Reflector tiene este nombre por más de una razón, por que los recuerdo
 
 Este éter es también el agente por el cual el pensamiento impresiona el cerebro humano. Está íntimamente ligado con la cuarta subdivisión del Mundo del Pensamiento, que es la más elevada de las cuatro subdivisiones contenidas en la Región del Pensamiento Concreto y la patria de la mente humana. Allí se encuentra una visión mucho más clara de la Memoria de la Naturaleza, que la que existe en el Eter Reflector. 
 
-#### EL MUNDO DEL DESEO
+#### <h4 id="the-desire-world">EL MUNDO DEL DESEO</h4>
 
 Como el Mundo Físico y cualquier otro reino de la Naturaleza, el Mundo del deseo tiene siete subdivisiones denominadas "regiones" ; pero no tiene, como el Mundo Físico, las grandes divisiones correspondientes a las Regiones Química y Etérica. La materia pasional o de deseos es la que persiste a través de siete subdivisiones o regiones como material para la "incorporación" o para formar el cuerpo del deseo. Sí como la Región Química es el reino de la forma, así como la Región Etérica es el dominio de las fuerzas que producen las actividades de la vida y de las formas, permitiendo a estas vivir, moverse y propagarse, así también las fuerzas del Mundo del Deseo, trabajando activamente en el cuerpo denso, lo impelen a moverse en tal o cual dirección. 
 
@@ -390,7 +390,7 @@ Los mundos Físico y del Deseo, no están separados uno del otro por el espacio.
 
 El Mundo del Deseo con sus habitantes innumerables compenetra el Mundo Físico - como las lineas de fuerza del agua -, invisibles, pero presentes por doquier y potentes como causas de todo lo del Mundo Físico. 
 
-#### EL MUNDO DEL PENSAMIENTO
+#### <h4 id="the-world-of-thought">EL MUNDO DEL PENSAMIENTO</h4>
 
 El Mundo del Pensamiento también se compone de siete Regiones de cualidades diversas y de diferente densidad, y, semejantemente al Mundo Físico, el Mundo del Pensamiento se divide en dos grandes divisiones: la Región del pensamiento Concreto, que comprende las cuatro subdivisiones más densas, y la Región del Pensamiento Abstracto, que comprende las tres subdivisiones superiores y más sutiles. El Mundo del pensamiento es el mundo central de los cinco de donde el hombre obtiene sus vehículos. En el se encuentran y unen el espíritu y el cuerpo. Este Mundo es también el más elevado de los tres en los que progresa actualmente la evolución humana, siendo los otros dos Mundos superiores prácticamente como una esperanza realizable en el futuro, en cuanto concierne al hombre en general. 
 
@@ -430,7 +430,7 @@ Cada uno de los planetas de nuestro sistema solar tiene tres Mundos que se inter
 
 De parecida manera a la que nos relaciona el Mundo del Espíritu de Vida con los otros planetas de nuestro sistema solar, el Mundo del Espíritu Divino nos correlaciona con los otros sistemas solares. Podemos considerar los sistemas solares como esponjas separadas, sumergidas en el Mundo del Espíritu Divino, y entonces comprenderemos que para viajar de un sistema solar a otro es necesario poder actuar conscientemente en el vehículo más elevado del hombre, el Espíritu Divino. 
 
-### CAPÍTULO II: LOS CUATRO REINOS
+### <h3 id="chapter-2">CAPÍTULO II: LOS CUATRO REINOS</h3>
 
 Los tres mundos de nuestro planeta son actualmente el campo donde se desarrolla la evolución para cierto número de reinos de vida, en varios grados de desarrollo. Unicamente cuatro de estos nos interesan por el momento: el mineral, el vegetal, el animal y el humano. 
 
@@ -599,9 +599,9 @@ El animal, que está simbolizado por el madero horizontal de la cruz, está entr
 
 Ningún animal puede permanecer constantemente en posición recta vertical, porque en ese caso las corrientes del espíritu-grupo no pueden guiarlo, y si no estuviera suficientemente individualizado como para soportar las corrientes espirituales que penetran a través de la médula espinal humana, moriría. Es necesario que el vehículo para la expresión de un Ego individual posea tres cosas: marcha en posición vertical, a fin de que pueda ponerse en contacto con las corrientes mencionadas; laringe vertical, porque únicamente tal laringe es capaz de hablar (los loros y estorninos son ejemplos del efecto de laringe vertical); y debido a las corrientes solares, debe tener sangre caliente. Esto último es de la mayor importancia para el Ego y será explicado más tarde. Estos requisitos se mencionan aquí simplemente como punto final sobre los cuatro reinos en sus relaciones con los diversos Mundos entre sí. 
 
-### CAPÍTULO III: EL HOMBRE Y EL MÉTODO DE EVOLUCIÓN
+### <h3 id="chapter-3">CAPÍTULO III: EL HOMBRE Y EL MÉTODO DE EVOLUCIÓN</h3>
 
-#### ACTIVIDADES DE LA VIDA; MEMORIA Y CRECIMIENTO ANÍMICO
+#### <h4 id="activities-of-life-memory-and-soul-growth">ACTIVIDADES DE LA VIDA; MEMORIA Y CRECIMIENTO ANÍMICO</h4>
 
 El estudio que hemos hecho de los siete Mundos o estados de materia nos ha mostrado que cada uno sirve para realizar un propósito definido en la economía de la Naturaleza y que Dios, el Gran Espíritu, en quien efectivamente y en "realidad vivimos, nos movemos y tenemos nuestro ser", es el Poder que compenetra y sustenta todo el Universo con Su Vida; pero en tanto que esa vida fluye y es inmanente en cada uno de los seis Mundos inferiores y todo lo contenido en ellos, en el séptimo, el más elevado, el Dios Trino solo ES. 
 
@@ -617,17 +617,19 @@ De estas imágenes mentales formamos nuestras conclusiones en la Región del Pen
 
 La mente es como los lentes proyectores de un estereoscopio. Proyecta la imagen en una de las tres direcciones, de acuerdo con la voluntad del pensador, la que anima al pensamiento-forma. 
 
-1. Puede proyectarse contra el cuerpo de deseos con el fin de despertar el sentimiento que impela a la acción inmediata.
+1) Puede proyectarse contra el cuerpo de deseos con el fin de despertar el sentimiento que impela a la acción inmediata.
 
-    a. Si el pensamiento produce Interés, se despertará una de las dos fuerzas gemelas: Atracción o Repulsión. Si la Atracción, la fuerza centrípeta se despierta, toma el pensamiento, lo impulsa hacia el cuerpo de deseos, presta vitalidad a la imagen y la envuelve en materia de deseos. Entonces el pensamiento puede obrar sobre el cerebro etérico e impulsar la fuerza vital hacia los apropiados centros cerebrales, nervios y músculos que ejecutarán la acción necesaria. En esta forma se gasta la fuerza del pensamiento y la imagen subsiste en el éter del cuerpo vital como memoria del acto y del sentimiento causado por él. 
+    a. Si el pensamiento produce Interés, se despertará una de las dos fuerzas gemelas:
+    
+    Atracción o Repulsión. Si la Atracción, la fuerza centrípeta se despierta, toma el pensamiento, lo impulsa hacia el cuerpo de deseos, presta vitalidad a la imagen y la envuelve en materia de deseos. Entonces el pensamiento puede obrar sobre el cerebro etérico e impulsar la fuerza vital hacia los apropiados centros cerebrales, nervios y músculos que ejecutarán la acción necesaria. En esta forma se gasta la fuerza del pensamiento y la imagen subsiste en el éter del cuerpo vital como memoria del acto y del sentimiento causado por él. 
 
     b. La Repulsión es la fuerza centrífuga, y si esta es despertada por el pensamiento, habrá una lucha entre la fuerza espiritual (la voluntad humana), dentro del pensamiento-forma y el cuerpo de deseos. Esa batalla es la que se entabla entre la conciencia y el deseo; entre la naturaleza superior y la inferior. La fuerza espiritual, a pesar de la resistencia, tratará de envolver el pensamiento-forma en la materia del cuerpo de deseos necesaria para manipular el cerebro y los músculos. La Fuerza de Repulsión tratará de dispersar la materia apropiada y expulsarla del pensamiento. Si la energía espiritual es fuerte, puede abrirse camino hasta los centros cerebrales y mantener su envoltura de materia de deseos mientras manipula la fuerza vital, compeliéndola así a la acción, y entonces dejará sobre la memoria una impresión vívida de la batalla y de la victoria. Si la energía espiritual se gasta antes de que se haya producido el acto, será sobrepasada por la fuerza de Repulsión y será archivado en la memoria como todos los demás pensamientos-formas cuando han agotado su energía. 
 
     c. Si la forma de pensamiento produce el sentimiento neutral de indiferencia, depende de la energía espiritual contenida en aquella el compeler a la acción o dejar simplemente una impresión débil sobre el éter reflector del cuerpo vital, después de haber agotado su fuerza cinemática. 
 
-  2) Cuando las imágenes mentales o los impactos del exterior no provocan una acción inmediata, entonces aquellas imágenes pueden proyectarse directamente sobre el éter Reflector, junto con los pensamientos originados por las mismas, para ser empleados en el futuro. El espíritu que trabaja a través de la mente tiene acceso instantáneo al archivo de la memoria consciente y puede resucitar en cualquier tiempo cualquiera de las imágenes que allí se encuentran, y vigorizarlas con nueva fuerza espiritual y proyectarlas contra el cuerpo de deseos compeliéndolo a la acción. Cada vez que tales imágenes se emplean, ganan en fuerza, eficiencia y nitidez, y compelerán a la acción en el sentido apropiado más eficientemente que en las ocasiones previas, porque abre canales en el cerebro, por así decirlo, y produce el fenómeno del crecimiento y vigorización del pensamiento por la repetición. 
+2) Cuando las imágenes mentales o los impactos del exterior no provocan una acción inmediata, entonces aquellas imágenes pueden proyectarse directamente sobre el éter Reflector, junto con los pensamientos originados por las mismas, para ser empleados en el futuro. El espíritu que trabaja a través de la mente tiene acceso instantáneo al archivo de la memoria consciente y puede resucitar en cualquier tiempo cualquiera de las imágenes que allí se encuentran, y vigorizarlas con nueva fuerza espiritual y proyectarlas contra el cuerpo de deseos compeliéndolo a la acción. Cada vez que tales imágenes se emplean, ganan en fuerza, eficiencia y nitidez, y compelerán a la acción en el sentido apropiado más eficientemente que en las ocasiones previas, porque abre canales en el cerebro, por así decirlo, y produce el fenómeno del crecimiento y vigorización del pensamiento por la repetición. 
 
-  3) La tercera forma de emplear el pensamiento es cuando el pensador lo proyecta hacia otra mente para que actúe como sugestión para proporcionarle informaciones, etc., como en la telepatía, por ejemplo; o puede ser dirigido contra el cuerpo de deseos de otra persona para compelerla a la acción, como en el caso de un hipnotizador que influye sobre su víctima a distancia. Entonces obrará precisamente de la misma manera como si fuera el propio pensamiento de la víctima. Si está de acuerdo con la idiosincracia de ésta, obrará en la misma forma que en párrafo 1. Si es contrario a su naturaleza, obrará como se describió en el párrafo 1b o 1c. 
+3) La tercera forma de emplear el pensamiento es cuando el pensador lo proyecta hacia otra mente para que actúe como sugestión para proporcionarle informaciones, etc., como en la telepatía, por ejemplo; o puede ser dirigido contra el cuerpo de deseos de otra persona para compelerla a la acción, como en el caso de un hipnotizador que influye sobre su víctima a distancia. Entonces obrará precisamente de la misma manera como si fuera el propio pensamiento de la víctima. Si está de acuerdo con la idiosincracia de ésta, obrará en la misma forma que en párrafo 1. Si es contrario a su naturaleza, obrará como se describió en el párrafo 1b o 1c. 
 
 Cuando el acto designado por esa forma de pensamiento ha sido realizado o se ha agotado su energía en vanas tentativas para realizar su objeto, gravita nuevamente en torno de su creador, llevando consigo el recuerdo indeleble de la jornada. Su éxito o fracaso se imprime en los átomos negativos del éter Reflector del cuerpo vital de su creador, donde forma esa parte de la memoria de la vida del pensador que se denomina algunas veces la mente subconsciente. 
 
@@ -667,7 +669,7 @@ El Alma Intelectual aumenta el poder del Espíritu de Vida, porque el Alma Intel
 
 El Alma Consciente aumenta la conciencia del Espíritu Divino, porque aquélla es el extracto del cuerpo denso, y este último es la contraparte del Espíritu Divino. 
 
-#### MUERTE Y PURGATORIO
+#### <h4 id="death-and-purgatory">MUERTE Y PURGATORIO</h4>
 
 En esa forma construye y siembra el hombre hasta el momento en que la muerte llega. Entonces, la hora de la siembra y los períodos de crecimiento y madurez han pasado. Cuando viene el espectro esquelético de la Muerte ha llegado el tiempo de la recolección. La forma de la Muerte con su guadaña y su reloj de arena es un buen símbolo. El esqueleto simboliza la parte relativamente permanente del cuerpo. La guadaña representa el hecho de que esa parte permanente que está a punto de ser recolectada por el espíritu es el fruto de la vida que ahora termina. El reloj de arena en su mano indica que la hora no sonará hasta que todo el curso haya pasado en armonía con leyes invariables. Cuando llega ese momento, los vehículos se separan. Como su vida en el Mundo Físico ha terminado por ahora, ya no es necesario para el hombre el retener su cuerpo denso. El cuerpo vital, que como ya explicamos, pertenece al Mundo Físico, se retira por la cabeza, dejando al cuerpo denso inanimado. 
 
@@ -767,13 +769,13 @@ El arrepentimiento y la reforma son también factores poderosos para acortar la 
 
 Muchos progresos ordinariamente reservados para las vidas futuras serán hechos por el hombre que se tome el trabajo de examinar y juzgarse a sí mismo, desalojando los vicios y reformando su carácter. Esta práctica es muy recomendable. Es quizás la enseñanza más importante de esta obra. 
 
-#### LA REGION FRONTERIZA 
+#### <h4 id="the-borderland">LA REGION FRONTERIZA</h4>
 
 El purgatorio ocupa las tres regiones inferiores del Mundo del Deseo. El primer cielo está en las tres regiones superiores. La Región central es una especie de territorio neutral o limítrofe, ni cielo, ni infierno. En esta región encontramos personas rectas y honestas que no injuriaron a nadie, pero que estaban tan sumergidas en los negocios que nada pensaron sobre la vida superior. Para ellos el Mundo del Deseo es un estado de la más indescriptible monotonía. No hay ningún "negocio" en ese mundo, ni hay allí, para un hombre de esa clase, nada que pueda substituirlo. Y pasa un tiempo muy penoso hasta que aprende a pensar en otras cosas que no sean sus letras de cambio o sus cheques. El hombre que ha pensado sobre el problema de la vida y llega a la conclusión de que "todo acaba con la muerte", que niega la existencia de las cosas que están más allá de los sentidos materiales, ese hombre sentirá también esa espantosa monotonía. Ha esperado la aniquilación de la conciencia, pero en vez de eso se encuentra con una percepción aumentada de las personas y cosas que están en torno suyo. Se ha acostumbrado a negar esas cosas tan vehementemente que muy a menudo cree que el Mundo del Deseo es una alucinación y se les puede oír exclamando con la más profunda desesperación: ¿Cuándo acabará esto? ¿Cuándo acabará esto? 
 
 Tales personas se encuentran realmente en un estado lastimoso. Están más allá de todo socorro y de toda ayuda y sufren mucho más que cualquier otro. Además, tienen muy poca vida en el Mundo Celeste, donde se efectúa la construcción de los cuerpos para futuros usos, así que ponen todos sus pensamientos cristalizantes en los cuerpos que construyen para la vida siguiente. y así se forma un cuerpo que tiene las terribles tendencias que vemos, por ejemplo, en la consunción. Algunas veces el sufrimiento de tales cuerpos decrépitos tornará los pensamientos de las almas que los animan hacia Dios, y entonces pueden seguir su evolución; pero en la mente materialista yace el peligro de perder todo contacto con el espíritu y convertirse en un rezagado. Por lo tanto, los Hermanos Mayores se han visto seriamente obligados a intervenir en el destino del Mundo occidental durante la última centuria, y si no hubiera sido por su ayuda benefactora, hubiéramos tenido un cataclismo social, comparado con el cual la Revolución francesa hubiera sido un juego infantil. El clarividente desarrollado puede ver cuán dificultosamente se ha escapado la humanidad de desastres tan devastadores, que continentes enteros hubieran sido barridos al mar. Se encontrará una exposición más detallada de la relación del materialismo con las erupciones volcánicas en el Capítulo XVIII, en el que la lista de las erupciones del Vesubio parece corroborar dicha relación, a menos de que se atribuyan a simples "coincidencias", como generalmente lo hacen los escépticos cuando se encuentran frente a hechos y números que no pueden explicar. 
 
-#### EL PRIMER CIELO
+#### <h4 id="the-first-heaven">EL PRIMER CIELO</h4>
 
 Cuando la existencia en el purgatorio ha terminado, el espíritu se eleva hasta el primer cielo, que está situado en las tres regiones más elevadas del Mundo del Deseo, donde los resultados de su sufrimiento se incorporan en el átomo- simiente del cuerpo de deseos, impartiéndole así la cualidad de la rectitud, la que actuará como impulso para el bien y repulsión para el mal en el futuro. Aquí, nuevamente el panorama del pasado se desarrolla hacia atrás; pero en este caso las buenas obras de la vida son las bases del sentimiento. Cuando llegamos a escenas en las que ayudamos a otros, comprendemos de nuevo toda la alegría que esto nos proporcionó, y además sentimos toda la gratitud emitida por aquel a quien ayudamos, y cuando vemos de nuevo escenas en las que fuimos ayudados por otros, volvemos a sentir toda la gratitud que emitimos hacia nuestro bienhechor. Y de esta manera vemos la importancia de apreciar los favores que nos han hecho, porque la gratitud produce crecimiento anímico. Nuestra dicha en el cielo depende de la felicidad que hayamos proporcionado a otros y al valor que demos a lo que otros han hecho por nosotros. 
 
@@ -785,22 +787,7 @@ Una mirada cariñosa, expresiones de confianza, la simpatía, la ayuda benévola
 
 La ética de dar, con el efecto sobre el dador como una lección espiritual, está hermosísimamente descripta en la "Visión de Sir Launfal", de Lowells. El joven y ambicioso caballero Sir Launfal, envuelto en una brillante armadura y llevando lujosos vestidos, parte de su castillo para buscar el "Santo Grial." En su estandarte lleva la cruz, el símbolo de la benignidad y de la ternura de nuestro Salvador, el amante y humilde, pero el corazón del caballero está lleno de orgullo y desdén para el pobre y necesitado. Y encuentra a un leproso, y desdeñosamente le arroja una moneda de oro como si arrojara un hueso a un perro hambriento. 
 
-The lepper raised the gold from the dust,  
-Better to me the poor man's crust,  
-Better the blessing of the poor,  
-Through I turn empty from his door.  
-That is no true alms which the hand can hold;  
-He gives only the worthless gold  
-Who gives from a sense of duty;  
-But he who gives from a slender mite,  
-And gives to that which is out of sight -  
-That thread of all - sustaining Beauty  
-Which runs through all and doth all unite, -  
-The hand cannot clasp the whole of his alms,  
-The heart outstretches its eager palms,  
-For a god goes with it and makes it store  
-To the soul that was starving in darkness before.  
-Traducción:  
+```
 "El leproso no alzó el oro del polvo (y dijo):  
 Mejor para mí es la corteza del pan del pobre;  
 Mejor la bendición de este,  
@@ -816,78 +803,48 @@ La mano no puede abarcar toda su limosna,
 El corazón ansioso extiende sus brazos,  
 Porque un dios acompaña y provee  
 al alma que antes estaba pereciendo en la obscuridad."  
+```
 
 A su regreso Sir Launfal encuentra a otro en posesión de su castillo y se dirige hacia la puerta. 
 
-An old bent man, worn out and frail  
-He came back from seeking the Holy Grail;  
-Little he recked of his earldom's loss,  
-No more on his surcoat was blazoned the cross,  
-But deep in his heart the sign he wore  
-The badge of the suffering and the poor.  
-Traducción:  
+```
 "Ya viejo y doblegado, gastado y débil  
 Volvió de su busca del Santo Grial;  
 Poco caso hacía de la pérdida de su señorío;  
 Ya no lucía en su capa la cruz,  
 Pero en lo profundo de su corazón llevaba el signo,  
 La divisa del pobre y del que sufre."  
+```
 
 De nuevo encuentra al leproso, quien nuevamente le pide una limosna. Esta vez el caballero responde diferentemente. 
 
-And Sir Launfal said: "I behod in thee  
-An image of Him who died on the tree;  
-Thou also hast had thy crown of thorns,  
-Thou also hast had the world's buffets and scorns,  
-Traducción:  
+```
 "Y Sir Launfal dijo: "veo en ti  
 La imagen de Aquel que murió en el madero;  
 Tú también has tenido tu corona de espinas,  
 Tu también has sufrido los escarnios y desprecios del mundo, 
 
-And to thy life were not denied  
-The wounds in the hands and feet and side;  
-Mild Mary's Son,acknowledge me;  
-Behold, through him I give to Thee!  
-Traducción:  
 Y a tu vida no faltaron  
 Las heridas en las manos, en los pies, y en el costado;  
 !Hijo de la clemente María, reconóceme;  
 Mira, por Él te doy a ti!."  
+```
 
 Mira al leproso y sus ojos le traen recuerdos y le reconoce, y 
 
-The heart with him was ashes and dust;  
-He parted in twain his single crust,  
-He broke the ice on the stremalet's brink,  
-And gave the leper to eat and drink.  
-Traducción:  
+```
 "El corazón se le hizo ceniza y polvo;  
 Partió e dos su única corteza de pan,  
 Rompió el hielo en la orilla del arroyuelo,  
 Y dio de comer y de beber al leproso.  
+```
 
 Y una transformación se opera: 
 
-The leper no longer crouched by his side  
-But stood before him glorified  
-And the Voice that was softer than silence said:  
-"Lo, it is I, be not afraid!  
-In many lands without avail,  
-Thou hast spent thy life for the Holy Grail;  
-Behold, it is here! - This cup which thou  
-Did'st fill at the streamlet for me but now;  
-This crust is my body broken for thee,  
-This water the blood I shed on the tree;  
-The Holy Supper is kept, indeed,  
-In whatso we share with another's need;  
-Not what we give, but what me share.  
-For the gift without the giver is bare;  
-Who gives himself with his alms feeds three:  
-Himself, his hungering neighbour, and me."  
-Traducción:  
+```
 "El leproso no estaba ya acurrucado a su lado  
 Glorioso estaba ante él  
+. . . . . . . . . . . . . . . . . . . . . . . . . .  
 Y la Voz aún más dulce que el silencio dijo:  
 "¡Mira, soy yo, no temas!  
 En muchas tierras gastaste tu vida sin provecho  
@@ -900,7 +857,8 @@ La Sagrada Cena se efectúa ciertamente,
 En cualquier cosa cuando participamos de las necesidades de otro.  
 Pues la dádiva sin el dador es estéril;  
 El que da su propio ser, alimenta a tres con sus limosnas:  
-Así mismo, a su prójimo hambriento y a mí."  
+A sí mismo, a su prójimo hambriento y a mí."  
+```
 
 El primer cielo es un lugar de alegría sin mezcla alguna de amargura. El espíritu está más allá de la influencia de las condiciones materiales y terrestres, y asimila todo el bien contenido en su vida pasada conforme lo revive de nuevo. Todos los designios nobles a los que el hombre aspiró se realizan aquí ampliamente. Es un lugar de reposo, y cuanto más dura ha sido la vida, tanto más intenso será el descanso de que se gozará. La enfermedad, la tristeza y el dolor son cosas desconocidas. Esta es, por decirlo así, la tierra de veraneo de los espiritualistas, la tierra de promisión. Los pensamientos del devoto cristiano han construido allí la nueva Jerusalén. Hermosas casas, flores, etc., son el premio de los que a ellas aspiraron: ellos las construyen por medio del pensamiento en la sutilísima materia de deseos. Sin embargo, estas cosas son tan reales y tangibles como lo son para nosotros nuestras casas materiales. Todos obtienen aquí la satisfacción de que carecieron en su vida terrestres. 
 
@@ -912,15 +870,12 @@ Cuando un niño muere hay siempre alguno de su familia que lo está esperando, o
 
 Este cielo es también un lugar de progreso para todos los que han sido estudiosos, artistas o altruistas. El filósofo y el estudiante tienen acceso instantáneo a todas las librerías del mundo. El pintor observa con inefable delicia los colores siempre cambiantes. Muy pronto aprende que su pensamiento forma y moldea esos colores a voluntad. Sus creaciones viven y brillan con una vida imposible de comprender para los que trabajan con los pesados y densos materiales terrestres. Está, por así decirlo, pintando con materiales vivientes y puede ejecutar sus ideas con una facilidad que lo llena de deleite. El músico no ha llegado aún al lugar en el que su arte se expresará a si mismo en toda su extensión. El Mundo Físico es el Mundo de la forma. El Mundo del Deseo, donde esta el purgatorio y el primer cielo, es especialmente el mundo del color; pero el Mundo del Pensamiento, donde están los cielos segundo y tercero, es la esfera del sonido. La música celeste es un hecho y una mera figura del lenguaje. Pitágoras no se equivocaba cuando hablaba de la música de las esferas, porque cada una de las estrellas tiene su tono definido y juntas forman la sinfonía celestial que Goethe también menciona en el prólogo de su "Fausto", en la escena que se desarrolla en el cielo. El Arcángel Rafael dice: 
 
-The Sun intones his ancient song  
-'Mid rival chant of brother spheres  
-His prescribed course he speeds along  
-In thund'rous way throughout the years.  
-Traducción:  
+```
 El sol canta su cántico antiguo  
 Canto suave y rival de las esferas hermanas  
 Su curso prescrito él cruza veloz  
 En atronadora carrera por los años de los años.  
+```
 
 Los ecos de esta música celeste nos llegan hasta este Mundo Físico. Son nuestra posesión más preciosa, aunque son tan fugaces como la espuma y no pueden crearse permanentemente, como pueden crearse otras obras de arte: una estatua, un cuadro, un libro. En el Mundo Físico el sonido muere tan pronto como nace. En el Primer cielo los ecos son, por supuesto, mucho más hermosos y más permanentes, así que allí los oídos del músico gozan de melodías que nunca oyeron en su vida terrestre. 
 
@@ -936,7 +891,7 @@ La fuerza es el mismo espíritu no cristalizado aún.
 
 Esto ya se ha dicho anteriormente, pero no puede recalcarse demasiado en la mente. La ilustración del caracol ayudará mucho a comprender eso. La materia que es espíritu cristalizado corresponde a la concha del caracol, cuya concha es la babosa misma cristalizada. La fuerza química que mueve la materia, haciéndola apta para la construcción de la forma, y el caracol que mueve su casa, se corresponden también. Lo que actualmente es la babosa en un tiempo será materia, cuando se haya cristalizado. El proceso inverso de resolver la materia en espíritu se produce también de continuo. La fase más grosera de este proceso que vemos como decaimiento, es cuando un hombre abandona sus vehículos tras sí y entonces el espíritu de un átomo se puede separar fácilmente del espíritu más denso que ha estado manifestándose como materia. 
 
-#### EL SEGUNDO CIELO
+#### <h4 id="the-second-heaven">EL SEGUNDO CIELO</h4>
 
 Por último, el hombre, el Ego, el triple espíritu, penetra en e segundo cielo. Está envuelto en su cuerpo mental que contiene los tres átomos-simientes, la quintaescencia de los tres vehículos abandonados. 
 
@@ -986,7 +941,7 @@ Todos los hombres trabajan inconscientemente en la construcción de sus cuerpos 
 
 Vemos, pues, que el hombre aprende a construir sus vehículos en el Mundo Celeste, y a usarlos en el Mundo Físico. La naturaleza suministra toda clase de experiencias de manera tan maravillosa y con tan consumada sabiduría, que cuanto más profundamente penetramos en sus secretos, vamos siendo cada vez más impresionados por nuestra insignificancia, creciendo nuestra reverencia hacia Dios, de Quien la Naturaleza es su símbolo visible. Cuanto más sabemos de sus maravillas, más comprendemos que este sistema mundial no es la vasta y perpetua máquina en movimiento, mecánica, que el materialismo nos ha hecho creer. Sería enteramente tan lógico como pensar que si arrojamos al aire una caja de tipos, los caracteres se arreglarían por si mismos formando un hermoso poema cuando llegaran al suelo. Cuanto más grande es la complejidad del plan, más poderoso es el argumento en favor de la teoría de un Autor Divino Inteligente. 
 
-#### EL TERCER CIELO
+#### <h4 id="the-third-heaven">EL TERCER CIELO</h4>
 
 Habiendo asimilado todos los frutos de su vida pasada y alterado la apariencia de la Tierra de tal manera que pueda proporcionarle el alrededor ambiente requerido para su próximo paso hacia la perfección; habiendo también aprendido por el trabajo en los cuerpos de otros, a construir un cuerpo apropiado a través del cual pueda manifestarse en el Mundo Físico, y habiendo, por último, disuelto la mente en la esencia que construye el triple espíritu, el espíritu puro individual asciende a la más elevado Región del Mundo del Pensamiento: el tercer cielo. Aquí, por medio de la armonía inefable de este mundo superior, se fortalece para su próxima inmersión en la materia. 
 
@@ -1012,7 +967,7 @@ El hombre también está en la escuela: la escuela de la experiencia. Y debe vol
 
 Y además, si no hubiera vuelta a la Tierra, ¿qué utilidad tendría la vida? ¿Por qué luchar por nada? ¿Por qué una vida de felicidad en un cielo eterno debería ser la recompensa de una buena vida? ¿Qué beneficio podría producir una buena vida en un cielo donde todo el mundo es ya feliz? Seguramente en un lugar donde todo el mundo es feliz y está contento no hay necesidad alguna de simpatía, de sacrificios ni de buenos consejos. Nadie los precisaría; pero en la Tierra hay muchos que los necesitan y esas cualidades humanitarias y altruistas son de la mayor utilidad para la humanidad que lucha. Por lo tanto, la Gran Ley que trabaja para el bien, hace que el hombre vuelva al mundo para beneficio de sí mismo y de los demás, con sus tesoros adquiridos, en vez de permitir que se estropeasen o desperdiciasen en el cielo, donde nadie los necesita. 
  
-#### PREPARATIVOS PARA EL RENACIMIENTO
+#### <h4 id="preparations-for-rebirth">PREPARATIVOS PARA EL RENACIMIENTO</h4>
 
 Habiendo visto, pues, la necesidad del renacimiento repetido, consideremos ahora el método bajo el cual se cumple este propósito. 
 
@@ -1028,10 +983,10 @@ Es muy importante recordar ese hecho. Existe una gran tendencia a pensar que tod
 
 El destino de un individuo generado bajo la ley de consecuencia, es de gran complejidad e involucra la asociación con Egos en y fuera de encarnación en todo tiempo. Aun los encarnados en un tiempo dado pueden no estar viviendo en la misma localidad, así que es imposible para el destino de un individuo el que pueda ser cumplido en una sola vida o en un solo lugar. El Ego es llevado, por lo tanto, a un cierto alrededor ambiente y a cierta familia con la que esté en alguna forma relacionado. Por lo que atañe al destino que debe cumplirse, como a veces las condiciones necesarias son indecisas en alguno de los alrededores ambientes en los que se encarna el Ego, se le permite elegir, en lo posible, pero una vez que el Ego ha elegido, los agentes de los Señores del Destino los vigilan invisiblemente, a fin de que ningún acto de su libre voluntad frustre el cumplimiento de la porción de destino que haya elegido. Si obramos de tal manera que nuestros actos vayan encaminados a eludirlo, nos harán ejecutar otro movimiento que forzosamente nos obligará al cumplimiento de nuestro destino. Nunca se repetirá demasiado, sin embargo, que esto no convierte al hombre en un prisionero, sin ayuda. La misma ley gobierna esto, que la que rige cuando disparamos un tiro. Una vez disparado no podemos detener la bala ni desviarla de su camino de ninguna manera. Su dirección fue determinada por la posición en que mantuvimos la pistola al hacer fuego. Pudimos haber cambiado esa posición en cualquier momento antes de apretar el gatillo, y hasta ese instante teníamos pleno dominio. Y esto se aplica igualmente a las nuevas acciones que producen el nuevo destino. Podemos, hasta cierto punto, modificar y hasta contrabalancear ciertas causas ya puestas en movimiento, pero una vez lanzadas, sin tomar otras medidas o ejecutar otro acto, llegará un tiempo en que se pondrán fuera de nuestro alcance. A esto se le llama destino " maduro" y es al destino de esta clase al que nos referimos al decir que los Señores del Destino gobiernan para evitar tentativas que lo eludan. Respecto a nuestro pasado estamos desamparados en gran extensión, pero en cuanto a los actos futuros tenemos pleno dominio, salvo en lo que nos hayamos limitado por nuestras acciones anteriores. Poco a poco, sin embargo, conforme aprendemos que somos la causa de nuestras aflicciones y alegrías, vamos también comprendiendo la necesidad de ordenar nuestras vidas mas en armonía con las leyes divinas, y de esta manera nos elevamos sobre las leyes del Mundo Físico. Esta es la clave de la emancipación. Como dice Goethe: 
 
-From every power that all the world enchains
-Man frees himself when self-control he gains.
-
-o sea que "el hombre se libera de todos los poderes que encadenan al mundo cuando adquiere el dominio de si mismo." 
+```
+El hombre se libera de todos los poderes que encadenan al mundo
+cuando adquiere el dominio de si mismo.
+```
 
 El cuerpo vital, habiendo sido modelado por los Señores del Destino, proporcionará la forma del cuerpo denso órgano por órgano. Este patrón o molde es colocado entonces en la matriz de la futura madre. El átomo-simiente para el cuerpo denso está en la cabeza triangular de uno de los espermatozoides del semen del padre. Este espermatozoide únicamente, hace posible la fecundación y en esto está la explicación de por qué son estériles muchas veces las uniones sexuales. Los constituyentes químicos del fluido seminal y del óvulo son los mismos de siempre, y si fueran éstos los únicos requisitos requeridos, la explicación de la esterilidad no se encontraría buscándola solamente en el mundo físico, material y visible. Se explica claramente, sin embargo, cuando comprendemos que así como las moléculas del agua se hielan a lo largo de lineas de fuerza que en ella se encuentran, manifestándose como cristales de hielo en vez de congelarse como una masa homogénea, como sería el caso si no hubiera líneas de fuerza previas a la coagulación, así tampoco puede formarse cuerpo denso alguno hasta que haya un cuerpo vital en el cual pueda construirse el material físico. También debe haber un átomo simiente para el cuerpo denso, para que actúe como determinador de la cantidad y calidad de la materia con la que se forma el cuerpo físico. Aunque en el presente estado de desarrollo no hay nunca armonía en los materiales del cuerpo, porque eso significaría un cuerpo perfecto, sin embargo, la inarmonía no debe ser tan grande como para que sea un disolvente del organismo. 
 
@@ -1041,7 +996,7 @@ Salvo en el caso de un ser de elevado desarrollo, este trabajo del Ego es casi n
 
 Cuando la impregnación del óvulo ha tenido lugar, el cuerpo de deseos de la madre trabaja sobre él durante un período de dieciocho a veintiún días, permaneciendo el Ego fuera, en su cuerpo de deseos y concha mental. Al expirar ese tiempo el Ego entra en el cuerpo de la madre. Los vehículos en forma de campana se absorbe a través de la cabeza del cuerpo vital, y la "campana" se cierra por la parte inferior. Desde entonces el Ego incuba su cuerpo venidero hasta el nacimiento del niño y entonces comienza la nueva vida terrestre. 
 
-#### NACIMIENTO DEL CUERPO DENSO
+#### <h4 id="birth-of-the-dense-body">NACIMIENTO DEL CUERPO DENSO</h4>
 
 Los vehículos del recién nacido no se hacen activos inmediatamente. El cuerpo denso está completamente desamparado durante largo tiempo después del nacimiento. Y razonando por analogía podemos ver fácilmente que lo mismo debe suceder con los vehículos superiores. El ocultista científico lo ve, pero aún sin necesidad de la clarividencia, la razón nos demostrará que debe ser así. Así como el cuerpo de denso se prepara lentamente para la vida separada e individual dentro de la cubierta protectora de la matriz, así también los demás cuerpos van naciendo gradualmente y puestos en actividad, poco a poco, y si bien los tiempos dados en la descripción que seguirá no son sino aproximados, son, sin embargo, bastante exactos como para servir los propósitos generales de probar la relación entre el individuo y el mundo. 
 
@@ -1059,21 +1014,21 @@ Cada vehículo va madurando gradualmente por la actividad del correspondiente ve
 
 Desde el principio hasta el séptimo año, el cuerpo vital va creciendo y madurando lentamente dentro de la matriz del cuerpo vital macrocósmico y debido a la gran sabiduría de este vehículo macrocósmico, el cuerpo vital del niño está mejor formado y mejor organizado que en el resto de la vida. 
 
-#### NACIMINETO DEL CUERPO VITAL
+#### <h4 id="birth-of-the-vital-body">NACIMINETO DEL CUERPO VITAL</h4>
 
 Mientras el cuerpo vital macrocósmico guía el crecimiento del cuerpo del niño, lo protege de los peligros que posteriormente lo acecharán cuando el ignorante cuerpo vital individual haga su obra solo. Esto ocurre el séptimo año, cuando comienza el período de crecimiento excesivo y peligroso, crecimiento que continúa así en los siguientes siete años. Durante ese intervalo el cuerpo de deseos macrocósmico desempeña la función de matriz para el cuerpo de deseos individual. 
 
 Si el cuerpo vital continuara en libertad, sin restricción, como sucede en el vegetal, el hombre alcanzaría un tamaño enorme. Hubo un tiempo en el pasado en el que el hombre estuvo constituido semejantemente a las plantas, teniendo solamente un cuerpo denso y un cuerpo vital. Las tradiciones de la mitología y las leyendas de todo el mundo respecto a los gigantes de antiquísimos tiempos son absolutamente ciertas, pues entonces los hombres crecían tanto como los árboles, por las razones expuestas. 
 
-#### NACIMIENTO DEL CUERPO DE DESEOS
+#### <h4 id="birth-of-the-desire-body">NACIMIENTO DEL CUERPO DE DESEOS</h4>
 
 El cuerpo vital de la planta va formando hoja tras hoja, creciendo el tronco cada vez más. Si no fuera por el cuerpo de deseos macrocósmico, continuaría así indefinidamente, pero el cuerpo de deseos macrocósmico lo restringe en cierto punto y gobierna todo crecimiento ulterior. La fuerza que ya no se necesita para el crecimiento, es entonces utilizable con otros propósitos para construir la flor y formar la simiente. De parecida manera el cuerpo vital humano, cuando comienza a obrar libremente, después del séptimo año, hace crecer el cuerpo rápidamente, pero a los catorce años nace el cuerpo de deseos individual; entonces, puede trabajar libremente en el cuerpo denso. El crecimiento excesivo es gobernado entonces, y la fuerza utilizada anteriormente con aquel objeto se puede utilizar para la propagación, para que la planta humana pueda florecer y producir fruto. De ahí que el nacimiento del cuerpo de deseos personal marque el período de la pubertad. Desde entonces comienza a sentirse la atracción por el sexo opuesto atracción que obra especialmente desenfrenada y activa en el tercer período septenario de la vida -- desde los catorce hasta los veintiún años --, debido a que la mente refrenadora no ha nacido aún. 
 
-#### NACIMIENTO DE LA MENTE
+#### <h4 id="birth-of-the-mind">NACIMIENTO DE LA MENTE</h4>
 
 Después de los catorce años, la mente empieza a ser nutrida por la mente macrocósmica, desarrollando sus posibilidades latentes y haciéndola capaz de generar pensamientos originales. Las fuerzas de los diferentes vehículos individuales no han madurado hasta el punto que puedan emplearse todas en su evolución, y por lo tanto solamente a los veintiún años es cuando el Ego toma posesión de su vehículo completo. Esto lo efectúa por medio del calor de su sangre y desarrollando sangre individual; cosa que se realiza mediante el pleno desarrollo del Eter Luminoso. 
 
-#### LA SANGRE: EL VEHICULO DEL EGO
+#### <h4 id="the-blood-the-vehicle-of-the-ego">LA SANGRE: EL VEHICULO DEL EGO</h4>
 
 Desde la infancia hasta los catorce años, la médula de los huesos no forma todos los corpúsculos sanguíneos. La mayoría de ellos los suministra la glándula thymus, que es mayor en el feto, y gradualmente va disminuyendo conforme se va desarrollando la facultad individual del producir sangre, al crecer el niño. La glándula thymus contiene, por así decirlo, cierta existencia de corpúsculos proporcionados por los padres y, por consiguiente, el niño toma la sangre de esa fuente que comprende su individualidad. Hasta que el niño mismo no haga su sangre, no pensará de sí mismo como que es un "yo", pero cuando la glándula thymus desaparece a los catorce años, entonces el sentimiento del "yo" se expresa completamente, pues entonces la sangre es producida y dominada enteramente por el Ego. Lo siguiente hará clara esta idea del cuerpo vital, y que dicho cuerpo vital se liberta a los siete años, y su lógica. 
 
@@ -1093,9 +1048,7 @@ El calor apropiado para la expresión real del Ego no está presente hasta que l
 
 En el presente estado de desarrollo de la humanidad, el hombre atraviesa esos diversos grados en cada ciclo de vida, de un nacimiento al siguiente. 
 
-### CAPÍTULO IV
-
-#### RENACIMIENTO Y LEY DE CONSECUENCIA
+### <h3 id="chapter-4">CAPÍTULO IV: RENACIMIENTO Y LEY DE CONSECUENCIA</h3>
 
 Unicamente tres teorías de valor se han emitido para resolver el enigma de la vida y de la muerte. 
 
@@ -1181,43 +1134,22 @@ En el libro de la Revelación encontramos estas palabras: "al que venciere le ha
 
 Oliver Wendell Holmes, en su hermosísimo poema "The Chambered Nautilus" ("El caracol en su concha") ha encerrado esa idea de constante progresión en vehículos cada vez mejores y la final liberación. El caracol construye su concha espiral con departamentos seccionales y va abandonando constantemente los más pequeños para ocupar el último de los que ha construido. 
 
-Year after year beheld the silent toil1    
-That spread his lustrous coil;  
-Still, as the spiral grew,  
-He left the past year's dwelling for the new,  
-Stole with solft step its shinning archway through,  
-Built up its idle door,  
-Stretched in his last-found home, and new the old no more,  
-Thanks for the heavenly message brought by thee,  
-Child of the wandering sea,  
-Cast from her lap forlon!  
-From thy dead lips a clearer note is born  
-Than ever Triton blew from wreathed horn!  
-While on mine ears rings,  
-Through the deep caves of thought I hear a voice that sings:  
-Traducción:  
+```
 "Año tras año contempló su labor silenciosa  
 Que desplegó su lustrosa espiral;  
 Más al crecer la espiral,  
 Abandonó la que fue su morada en los años pasados, por la nueva,   deslizándose bajo el brillante arco con suave paso,  
 Y construye una puerta innecesaria,  
 Y se amolda a su nuevo hogar, sin conocer más el antiguo,  
+
 Gracias por el celestial mensaje que me traes,  
 Hijo del inquieto mar,  
 Expulsado de tus orígenes los olvidas.  
 De tus mudos labios sale una nota más elocuente  
 Que las emitidas por el cuento enroscado de Tritón;  
 Mientras suena en mis oidos  
-A través de las profundas grutas del pensamiento, yo oigo una voz que   canta:
+A través de las profundas grutas del pensamiento, yo oigo una voz que canta:
 
-Build thee more satetely mansions, O my Soul!  
-As the swift seasons roll!  
-Leave thy low-vaulted past!  
-Let each new temple, nobler than the last,  
-Shut thee from heaven with a dome more wast,  
-Till thou at length art free,  
-Leaving thine outgrown shell by life's unresting sea!  
-Traducción:  
 "Construye mansiones más duraderas ¡alma mía!  
 Según las veloces estaciones ruedan.  
 Abandona tus criptas ya surcadas.  
@@ -1225,6 +1157,7 @@ Haz que cada templo nuevo sea más noble que el pasado,
 Abarca un espacio celeste más ancho  
 Hasta que por fin te liberes  
 Arrojando tu concha subterrána, por el océano movedizo de la vida."  
+```
 
 La necesidad ya mencionada de obtener organismos de naturaleza específica trae a la mente una frase muy interesante de las leyes de Renacimiento y de Consecuencia. Estas leyes están relacionadas con el movimiento de los cuerpos cósmicos, el Sol, los planetas y los signos del Zodiaco. Todos se mueven en armonía con esas leyes, guiados en sus órbitas por sus Inteligencias Espirituales internas: los Espíritus Planetarios. 
 
@@ -1256,23 +1189,17 @@ Las estrellas pueden ser llamadas, por lo tanto, el Reloj del Destino." Los doce
 
 Nunca se explicará bastante que si bien hay algunos casos que no pueden eludirse, el hombre tiene hasta cierto punto el poder de modificar ciertas causas ya puestas en movimiento. Como dijo el poeta: 
 
-One ship sails east and another sails west  
-With the self-same winds that blow.  
-`Tis the set of the sail and not the gale  
-Which determines the way they go.  
-As the winds of the sea are the ways of the fate  
-As we voyage along trough life.  
-`Tis the act of soul that determines the goal,  
-And not the calm or the strife.  
-Traducción:  
+```
 "Un barco zarpa para el Este y otro para el Oeste  
 Con el mismísimo viento para los dos.  
 Es la posición de la vela (el rumbo) y no el viento  
 El que determina el camino que llevan.  
+
 Y como los vientos del mar son los caminos del destino  
 Así navegamos durante toda la vida.  
 Es el obrar del alma lo que determina la victoria,  
 Y no la calma o la tempestad."  
+```
 
 Lo importante de comprender es que nuestras obras actuales son las que determinan las condiciones futuras. 
 
@@ -1284,7 +1211,7 @@ Además, por llamarla doctrina idólatra no se comprueba su falsedad. Y el que t
 
 Todas las demás religiones no han hecho más que conducir a la religión cristiana. Ha habido religiones básicas que contienen únicamente en parte lo que el Cristianismo tiene en mayor grado. El verdadero Cristianismo Esotérico no ha sido enseñado todavía públicamente, ni lo será tampoco hasta que la humanidad haya pasado del estado materialista en que se encuentra ahora y esté mejor preparada para recibirlo. Las leyes del Renacimiento y de Consecuencia han sido enseñadas secretamente en todo tiempo; pero por orden del mismo Cristo, como veremos, esas dos leyes no han sido enseñadas públicamente durante los últimos dos mil años. 
 
-#### EL VINO COMO FACTOR DE LA EVOLUCIÓN
+#### <h4 id="wine-as-a-factor-in-evolution">EL VINO COMO FACTOR DE LA EVOLUCIÓN</h4>
 
 Para comprender la razón de esta omisión y de los medios empleados para obscurecer sus enseñanzas, debemos ir hasta el principio de la historia humana y ver como, para su bien, ha sido guiada por el Gran Instructor de la humanidad. 
 
@@ -1340,7 +1267,7 @@ Finalmente, aunque la mayoría de la gente no recuerda sus vidas pasadas, hay al
 
 Cuando una persona muere en la infancia de una vida, recuerda frecuentemente su vida en la próxima encarnación, porque los niños menores de catorce años no pasan por todo el ciclo completo de vida y por lo tanto no precisan un nuevo juego de vehículos completo. Simplemente pasan a las regiones superiores del Mundo del Deseo y allí esperan una nueva encarnación, la que generalmente tiene lugar dentro de los veinte años después de la muerte. Cuando renacen llevan consigo los antiguos cuerpos mental y de deseos, y si escucháramos la charla de los niños muy a menudo podríamos reconstruir y descubrir historias tales como la que sigue: 
 
-#### UNA HISTORIA NOTABLE
+#### <h4 id="a-remarkable-story">UNA HISTORIA NOTABLE</h4>
 
 Un día, en Santa Bárbara, California, un hombre llamado Roberts fue a ver a un clarividente que es también conferenciante teosófico y le pidió ayuda para un caso muy intrincado. Mr. Roberts se encontraba paseando por la calle el día anterior cuando una nena de unos tres años se abrazó a él llamándolo papá. Mr. Roberts se indignó, creyendo que alguien trataba de atribuirle la paternidad de la nena a él. Pero la madre de ésta, que vino rápidamente, se extrañó tanto como Mr. Roberts y trató de llevársela. La nena, sin embargo, insistía en ir con Mr. Roberts, diciendo que era su padre. Debido a las circunstancias que se mencionarán más tarde, Mr. Roberts no pudo quitarse esa escena de la cabeza y fue en busca del clarividente, en cuya compañía fue a casa de los padres de la niña. Esta, al verlo corrió nuevamente hacia él tornando a llamarlo papá. El clarividente, que llamaremos X, tomó primeramente a la niña y la llevó junto a la ventana para notar si el iris de su pupila se distendía o contraía conforme la retiraba o acercaba a la luz, con objeto de comprobar si alguna otra entidad que no fuera su propio poseedor estaba en posesión del cuerpo de la nena, puesto que el ojo es la ventana del alma y ninguna entidad "obsesora" puede dominar esa parte del cuerpo. Mr. X comprobó que la nena era normal y en seguida procedió a hacer preguntas a la pequeña, cuidadosamente. Después de un paciente trabajo efectuado con intermitencias durante la tarde, para no fatigar a la niña, contestó esta lo siguiente: 
 
@@ -1352,9 +1279,9 @@ Antes de que las autoridades hicieran caso de sus constantes ruegos para que fue
 
 Mr. Roberts proporcionó entonces algunas fotografías de su esposa e hija, las que por consejo de Mr. X fueron mezcladas con cierto número de otros retratos y mostrados todos a la nena, la que sin vacilar señaló las fotografías de sus antiguos padres, aunque éstas diferían mucho del aspecto actual de Mr. Roberts. 
 
-## SEGUNDA PARTE: COSMOGENESIS Y ANTROPOGENESIS
+## <h2 id="part-2">SEGUNDA PARTE: COSMOGENESIS Y ANTROPOGENESIS</h2>
 
-### CAPÍTULO V: LA RELACION DEL HOMBRE CON DIOS
+### <h3 id="chapter-5">CAPÍTULO V: LA RELACION DEL HOMBRE CON DIOS</h3>
 
 En los capítulos precedentes hemos considerado al hombre en sus relaciones con los tres mundos que forman el campo de su evolución. Hemos descrito parcialmente esos mundos y señalado los diferentes vehículos de conciencia por medio de los cuales está correlacionado a ellos. Hemos estudiado también su relación con los otros tres reinos -- mineral, vegetal y animal -- indicando las diferencias de sus vehículos y la consiguiente diferencia de conciencia entre el hombre y cada uno de sus reinos. Hemos seguido al hombre a través de todo un ciclo de vida en los tres mundos y examinado la operación de las leyes de Consecuencia y Renacimiento en su acción sobre la evolución humana. 
 
@@ -1400,9 +1327,9 @@ Puede agregarse, además, que por lo menos en el esquema planetario al que perte
 
 Lo que sigue son las enseñanzas relativas a todos los Sistemas Solares, pero referidas especialmente al Sistema particular al que pertenecemos. Son las enseñanzas que todo clarividente suficientemente desarrollado puede obtener por sí mismo, mediante la investigación personal, en la memoria de la Naturaleza. 
 
-### CAPÍTULO VI: ESQUEMA DE LA EVOLUCION
+### <h3 id="chapter-6">CAPÍTULO VI: ESQUEMA DE LA EVOLUCION</h3>
 
-#### El Principio
+#### <h4 id="the-beginning">El Principio</h3>
 
 En armonía con el axioma hermético: "Como arriba es abajo" y viceversa, los Sistemas Solares nacen, mueren y tornan a nacer nuevamente, siguiendo ciclos de actividad y reposo, semejante al hombre. 
 
@@ -1430,7 +1357,7 @@ La Fuerza interna del ser evolucionante que hace de la evolución lo que es y no
 
 Muchas de las filosofías avanzadas de los tiempos modernos reconocen la involución y la evolución. La ciencia solo reconoce la última, porque la ciencia trata únicamente de la línea de manifestación de la forma. La involución pertenece a la línea de la Vida; pero los hombres de ciencia más avanzados consideran la Epigénesis como un hecho demostrable. El Concepto Rosacruz del Cosmos combina las tres, pues son necesarias para comprender bien el pasado, el presente y el futuro desarrollo del sistema al que pertenecemos. 
 
-#### Los Mundos
+#### <h4 id="the-worlds">Los Mundos</h4>
 
 Podemos emplear un buen ejemplo para ilustrar la construcción de un Cosmos. Supongamos un hombre que desea hacer una casa para habitarla. En primer término elegirá un sitio apropiado, y entonces procederá a construir la casa, dividiéndola en varias habitaciones destinadas a ciertos propósitos. Hace una cocina, un comedor, dormitorios y curto de baño, y las arregla de manera que sirvan para el objeto a que están destinadas. 
 
@@ -1452,7 +1379,7 @@ Debe recordarse constantemente que estos Mundos no están separados por el espac
 
 Los Mundos Superiores (más sutiles, finos y etéreos) son los que se crean primero y los últimos que se eliminan, mientras que los tres mundos más densos, en los que se efectúa nuestra actual fase de evolución, son, comparativamente hablando, fenómenos fugaces, simples incidentes de la inmersión del Espíritu en la materia. 
 
-#### Los Siete Períodos
+#### <h4 id="the-seven-periods">Los Siete Períodos</h4>
   
 El esquema evolutivo se lleva a cabo a través de esos cinco Mundos en siete grandes Períodos de Manifestación, durante los cuales los espíritus virginales o vidas evolucionantes se convierten primero en hombres, y después en dioses. 
 
@@ -1492,11 +1419,11 @@ Que tal conocimiento es de la mayor importancia, creemos que será reconocido po
 
 Por lo tanto, cuanto más conozcamos los métodos de trabajo de la Naturaleza, que en último término no es sino un símbolo del invisible Dios, mejor podremos aprovecharnos de las oportunidades y ventajas que se nos pueden ofrecer para nuestro crecimiento y poder: Para la emancipación de todo límite y para la elevación al dominio y poder. 
 
-### CAPÍTULO VII: EL CAMINO DE LA EVOLUCION
+### <h3 id="chapter-7">CAPÍTULO VII: EL CAMINO DE LA EVOLUCION</h3>
 
 No estará de más aquí una recomendación respecto a los diagramas empleados con el propósito de ilustración. El estudiante debe recordar que todo lo que se refiere a otra dimensión no puede ser nunca exacto. El dibujo de una casa significaría poco o nada para nosotros si nunca hubiéramos visto una casa. En este caso no veríamos en el dibujo nada más que líneas y manchas. No nos sugeriría significado alguno. Y los diagramas empleados para ilustrar las cosas suprafísicas son representaciones mucho menos verdaderas que en el caso del dibujo citado, por la sencilla razón de que en el caso del dibujo la casa de tres dimensiones ha sido reducida solo a dos, mientras que en el caso de los diagramas sobre períodos, mundos y globos, las realidades poseen de cuatro a siete dimensiones, y los diagramas de dos dimensiones, por medio de los cuales se ha intentado representar a aquéllos, están mucho más lejos de la realidad que lo citado en primer término. Debemos mantener siempre en la mente la verdad de que esos mundos se interpenetran, y que en la forma en que aparecen en los diagramas, es algo parecido a haber sacado todas las ruedas de un reloj, colocándolas una al lado de las otras con el fin de mostrar su modo de indicar la hora. Si estos diagramas han de ser de alguna utilidad para el estudiante, es necesario que los conciba espiritualmente. En caso contrario, solo servirán para confundir más bien que para iluminar. 
 
-#### REVOLUCIONES Y NOCHES COSMICAS
+#### <h4 id="revolutions-and-cosmic-nights">REVOLUCIONES Y NOCHES COSMICAS</h4>
 
 El período de Saturno es el primero de los siete períodos, y en este primer estado los espíritus virginales dieron su primer paso hacia la evolución de la conciencia y de la forma. Refiriéndonos al diagrama 7, se verá que este impulso evolutivo da siete vueltas alrededor de los siete globos, A, B, C, D, E, F y G, mostrando la espiral la dirección. 
 
@@ -1522,7 +1449,9 @@ El resultado de todo esto es que, como se ve en el diagrama 8, en el Período So
 
 La oleada de vida circula ahora siete veces en torno de los siete globos durante el Período Solar, bajando y subiendo siete veces a través de los cuatro mundos o regiones en los que están situados esos globos. Y se efectúan siete Revoluciones en el Período Solar, lo mismo que en el de Saturno. 
 
-Cuando la oleada de vida abandona el globo A en el Período Solar, por última vez, ese globo comienza a disgregarse. Sus fuerzas son transferidas a la Región del Pensamiento Abstracto, más densa, donde forman un planeta que será utilizado en el Período Lunar. De la misma manera, las fuerzas de los demás globos son transferidas y sirven de núcleos para los globos del Período Lunar, tal como lo muestra el diagrama 8, siendo el proceso el mismo exactamente que cuando los globos pasaron de sus sitios del Período de Saturno a las posiciones ocupadas durante el Período Solar. De esta manera los globos del Período Lunar se encuentran un grado más abajo en la materia que en el Período Solar, estando situado el globo más inferior (el D) en la Región Etérica del Mundo Físico. Después del intervalo de Noche Cósmica entre el Período Solar y Período Lunar, la oleada de vida comienza su curso en el globo A de la última, completando a su debido tiempo sus siete revoluciones, como anteriormente. Entonces hay otra Noche Cósmica, durante la cual quedan los globos transferidos un grado más abajo, y entonces el globo más denso está situado en la Región Química del Mundo Físico, como lo muestra el citado diagrama 8. 
+Cuando la oleada de vida abandona el globo A en el Período Solar, por última vez, ese globo comienza a disgregarse. Sus fuerzas son transferidas a la Región del Pensamiento Abstracto, más densa, donde forman un planeta que será utilizado en el Período Lunar. De la misma manera, las fuerzas de los demás globos son transferidas y sirven de núcleos para los globos del Período Lunar, tal como lo muestra el diagrama 8, siendo el proceso el mismo exactamente que cuando los globos pasaron de sus sitios del Período de Saturno a las posiciones ocupadas durante el Período Solar. De esta manera los globos del Período Lunar se encuentran un grado más abajo en la materia que en el Período Solar, estando situado el globo más inferior (el D) en la Región Etérica del Mundo Físico. 
+
+Después del intervalo de Noche Cósmica entre el Período Solar y Período Lunar, la oleada de vida comienza su curso en el globo A de la última, completando a su debido tiempo sus siete revoluciones, como anteriormente. Entonces hay otra Noche Cósmica, durante la cual quedan los globos transferidos un grado más abajo, y entonces el globo más denso está situado en la Región Química del Mundo Físico, como lo muestra el citado diagrama 8. 
 
 Este es el Período Terrestre y el globo inferior y más denso (el D) es nuestra Tierra actual. 
 
@@ -1538,9 +1467,9 @@ Cuando la oleada de vida haya completado su trabajo en el Período Terrestre, y 
 
 Otras evoluciones más grandes seguirán entonces, pero solo podemos hablar de los siete Períodos ya descriptos. 
 
-### CAPÍTULO VIII: LA OBRA DE LA EVOLUCION
+### <h3 id="chapter-8">CAPÍTULO VIII: LA OBRA DE LA EVOLUCION</h3>
 
-#### El Hilo de Ariadna
+#### <h4 id="ariadnes-thread">El Hilo de Ariadna</h4>
 
 Habiendo estudiado los Mundos, los Globos y las Revoluciones que constituyen el sendero de la evolución durante los siete Períodos, podemos ahora considerar la obra efectuada en cada Período, así como los métodos empleados para realizarla. 
 
@@ -1562,7 +1491,7 @@ Este libro, y especialmente este capítulo, no puede leerse así a la ligera. Ca
 
 Ninguna obra de esta clase, que trate de los aspectos más profundos del Gran Misterio del Mundo que la mente humana en su estado actual de desarrollo es capaz de comprender, puede escribirse de manera tal que sea posible leerla ligeramente. Y aún así, las fases más profundas que podemos comprender por el momento no son más que el abecé del esquema, como se nos revelará cuando nuestras mentes sean capaces de comprender más, en los posteriores estados de desarrollo, como superhombres. 
 
-#### EL PERÍODO DE SATURNO
+#### <h4 id="the-saturn-period">EL PERÍODO DE SATURNO</h4>
   
 Los globos del período de Saturno estaban formados por substancia mucho más fina y sutil que nuestra Tierra, como se evidenciará estudiando los diagramas 7 y 8, que el estudiante debiera tener muy a mano, como referencia mientras estudia el asunto. El Globo más denso de ese período estaba situado en la misma porción del Mundo del Pensamiento, ocupada por los globos más sutiles del período actual, la Región del Pensamiento Concreto. Estos globos no tenían consistencia, tal como generalmente podemos sentir. El "Calor" es lo que más se aproxima a la verdadera idea de lo que era el antiguo Período de Saturno. Era muy obscuro; y si una persona hubiera podido penetrar en el espacio ocupado por él no hubiera visto nada. En torno suyo, suyo todo hubiera sido obscuridad, pero hubiera podido sentir su calor. 
 
@@ -1590,7 +1519,7 @@ Repetimos nuevamente que una Noche Cósmica no debe ser considerada como un per�
 
 Quizá la mejor idea de la naturaleza de esta actividad nos la puede proporcionar la observación de lo que ocurre cuando una fruta madura cae bajo tierra. La fermentación y la desintegración es lo que se presenta primero; pero de todo ese caos brota la nueva planta, surgiendo hacia el aire y a la luz del Sol. Y así, también, cuando termina un período, todo se resuelve en un caos conglomerado, a primera vista imposible de ordenarlo. Pero a su debido tiempo, sin embargo, se forman los globos de un nuevo período y se convierte en Mundos habitables por el hombre. Después la vida evolucionante se transfiere a los cinco globos obscuros que atraviesa durante la Noche Cósmica, para comenzar las actividades de un nuevo día creador, pero en medio de un ambiente distinto, preparado y exteriorizado durante el transcurso y por medio de las actividades desplegadas en la Noche Cósmica. Así como las fuerzas producidas por la fermentación de la fruta estimulan la semilla y fertilizan la tierra en la que crece, así también los Señores de la Llama estimulan el germen del espíritu divino, especialmente durante la Noche Cósmica entre los períodos de Saturno y Solar, continuando en su actividad hasta la mitad de la primera revolución del Período Solar. 
 
-#### RECAPITULACION
+#### <h4 id="recapitulation">RECAPITULACION</h4>
 
 Antes de comenzar la actividad en cualquier período, se hace una recapitulación de todo lo que ya se ha hecho antes. Debido al sendero en espiral de la evolución esta actividad tiene lugar cada vez en un grado más elevado que el estado de progreso que se está recapitulando. Esta necesidad se comprenderá cuando se describa el trabajo actual de esa recapitulación. 
 
@@ -1606,7 +1535,7 @@ En el último de los siete períodos -el Período de Vulcano- únicamente la úl
 
 Y, además (y esto ayudará muy especialmente la memoria del estudiante), la Revolución de Saturno en cualquier período se refiere siempre al desarrollo de algún rasgo nuevo del cuerpo denso, pues éste comenzó su desarrollo en una primera revolución; y cualquier séptima revolución, o Revolución de Vulcano, desarrolla especialmente alguna actividad relacionada con el espíritu divino, cuyo desarrollo comenzó en una séptima revolución. De la misma manera veremos que hay siempre una relación entre las diferentes revoluciones y todos los vehículos humanos. 
 
-#### EL PERIODO SOLAR
+#### <h4 id="the-sun-period">EL PERIODO SOLAR</h4>
 
 Las condiciones del Período Solar difieren radicalmente de las del Período de Saturno. En vez de los "Globos de Calor" del último, los globos del Período Solar eran esferas luminosas de gran brillo y de consistencia análoga a la de los gases. Estas grandes esferas gaseosas contenían todo lo que se había desarrollado en el Período de Saturno, y análogamente a éste, las Jerarquías creadoras estaban en su atmósfera. 
 
@@ -1638,7 +1567,7 @@ De la misma manera, y por razones análogas, puede decirse que, en el Período S
 
 Cuando terminó el Período Solar hubo otra Noche Cósmica de asimilación junto con la actividad subjetiva necesaria para la iniciación del Período Lunar. Aquélla fue de igual duración que el período de manifestación objetiva que la había precedido. 
 
-#### EL PERIODO LUNAR
+#### <h4 id="the-moon-period">EL PERIODO LUNAR</h4>
 
 Así como la característica principal de los obscuros globos del Período de Saturno fue descripta por el término "Calor" y la de los globos del Período Solar como "Luz" o calor resplandecientes, así también la característica principal de los globos lunares puede describirse como "humedad." No existía el aire tal como lo conocemos. En el centro estaba la costra ígnea ardiente. Próxima a ella, y en consecuencia en contacto también con el frío del espacio exterior, había una humedad densa. Por el contacto con la costra ígnea central, esa humedad densa se transformó en vapor caliente, que ascendía hasta la periferia enfriándose y tornaba al centro nuevamente. Por lo tanto, los ocultistas llaman a los globos Período Lunar "Agua" y describen su atmósfera como si fuera de "Niebla Ignea." Este fue el escenario del próximo paso de la vida evolucionante. 
 
@@ -1704,7 +1633,9 @@ Los Arcángeles se especializaron en la construcción del cuerpo de deseos: La m
 
 Los Angeles están perfectamente experimentados para construir el cuerpo vital, porque en el Período Lunar, en el que ellos eran humanos, el éter era el estado más denso de la materia. Debido a esta capacidad, son los instructores apropiados del hombre, animales y vegetales respecto a sus funciones vitales: Propagación, nutrición, etcétera. 
 
-### CAPÍTULO IX: REZAGADOS Y PRINCIPIANTES(*)
+### <h3 id="chapter-9">CAPÍTULO IX: REZAGADOS Y PRINCIPIANTES(*)</h3>
+
+(*) En la edición original en inglés, el título que lleva este capítulo es: Stragglers and Newcomers, que literalmente significa "Rezagados y y recién venidos." El texto esclarecerá el título. (N. del T.) 
 
 Al seguir, en el capítulo anterior, la evolución de la vida, de la consciencia y de la forma - la triple fase de manifestación del espíritu virginal -- que es la vida que, juntándose a la forma, obtiene conciencia por su intermedio, hemos hablado como si solo hubiera una clase de éstos; como si todos los espíritus virginales, sin excepción, hubieran hecho un progreso constante y uniforme. 
 
@@ -1715,8 +1646,6 @@ En la escuela existen todos los años algunos que no pueden adelantar lo necesar
 Ya en el Período de Saturno hubo algunos que no pudieron alcanzar el desarrollo necesario para pasar al próximo grado. En aquel estado, los Seres Superiores estuvieron trabajando con la vida, que era inconsciente en sí misma, pero cuya inconsciencia no era óbice para el retardamiento de algunos de los espíritus virginales que no eran ni tan flexibles y ni tan adaptables como los demás. 
 
 En esa palabra, "Adaptabilidad", tenemos el gran secreto del retraso o del progreso. Todo adelanto depende de la flexibilidad y adaptabilidad del ser evolucionante, de que sea capaz de acomodarse por sí mismo a las nuevas condiciones o de que se cristalice y estacione, haciéndose incapaz de toda alteración. La adaptación es la cualidad que hace progresar, sea en un grado superior o inferior de la evolución. La falta de ella es causa de retraso para el espíritu y de retrogradación para la forma. Esto se aplica al pasado, al presente y al futuro, y la calificación o descalificación se exacta e impersonalmente, con toda justicia, por la ley de Consecuencia. Nunca ha habido ni habrá una distinción arbitraria entre las "ovejas" y las "cabras."
-
-(*) En la edición original en inglés, el título que lleva este capítulo es: Stragglers and Newcomers, que literalmente significa "Rezagados y y recién venidos." El texto esclarecerá el título. (N. del T.) 
 
 La obtusa condición receptora de algunos de los seres de Saturno impidió el despertar del espíritu divino en ellos, y, por lo tanto, permanecieron como simples minerales, pues todo lo que tenían era el cuerpo denso en germen. 
 
@@ -1790,7 +1719,7 @@ Al final del Período Lunar, esas clases poseían los vehículos indicados en el
 
 En esta forma han adquirido las diferentes clases los vehículos indicados para ellos en el diagrama 3, al que remitimos nuevamente al lector. 
 
-### CAPÍTULO X: EL PERIODO TERRESTRE
+### <h3 id="chapter-10">CAPÍTULO X: EL PERIODO TERRESTRE</h3>
 
 Los globos del Período Terrestre están situados en los cuatro estados más densos de materia: La Región del Pensamiento Concreto, el Mundo del Deseo y las Regiones Química y Etérica (Veáse el diagrama 8). El globo más denso (D) es nuestra Tierra actual. 
 
@@ -1812,7 +1741,7 @@ Cuando se podía dividir el cuerpo de deseos, entonces la parte superior se conv
 
 Conforme el cuerpo de deseos admitía la división, así el cuerpo denso iba adquiriendo gradualmente la posición vertical, sacando así su espina dorsal del alcance de las corrientes del Mundo del Deseo por medio de las cuales obra el espíritu-grupo sobre el animal, a través de la espina dorsal horizontal. El Ego podía entonces entrar dentro, obrando y expresándose a sí mismo por medio de la espina dorsal vertical y construir la laringe vertical, así como el cerebro para su expresión adecuada en el cuerpo denso. La laringe horizontal está también bajo el dominio del espíritu-grupo. Si bien es cierto que algunos animales, tales como los estorninos, cotorras, loros, etc., ya mencionados, pueden emitir palabras, por poseer laringe vertical, no pueden emitirlas inteligentemente. El emplear palabras para expresar el pensamiento es el más alto privilegio de la humanidad, y solo puede ser efectuado por una entidad que piense y razone, análoga al hombre. Si el estudiante fija bien esto en su mente, le será muy fácil seguir los diferentes grados que conducen a ese resultado. 
 
-#### LA REVOLUCION DE SATURNO DEL PERIODO TERRESTRE
+#### <h4 id="the-saturn-revolution-of-the-earth-period">LA REVOLUCION DE SATURNO DEL PERIODO TERRESTRE</h4>
 
 Esta es la revolución durante la cual se reconstruye el cuerpo denso en cualquier período. Esta vez se le dio la capacidad de formar un cerebro, convirtiéndose así en vehículo para el germen mental que se le dio posteriormente. Este agregado constituyó la reconstrucción final del cuerpo denso, haciéndolo capaz de alcanzar la mayor eficiencia posible. 
 
@@ -1840,7 +1769,7 @@ El trabajo principal de tal reconstrucción fue ejecutado por los Señores de la
 
 El Período Terrestre es eminentemente el Período de la Forma, porque aquí es donde la forma, o la parte material de la evolución está en su grado más elevado o en un estado más pronunciado. Aquí es donde el espíritu está más abandonado y cohibido, y la forma es el factor más dominante. Y de aquí el predominio de los Señores de la Forma. 
 
-#### LA REVOLUCION SOLAR DEL PERIODO TERRESTRE 
+#### <h4 id="the-sun-revolution-of-the-earth-period">LA REVOLUCION SOLAR DEL PERIODO TERRESTRE</h4>
  
 Durante esta revolución se reconstruyó el cuerpo vital con objeto de acomodarlo a la mente germinal. El cuerpo vital tomó una forma más parecida al cuerpo denso, de manera que se encontrara en las condiciones necesarias para poder ser empleado como el más denso vehículo durante el Período de Júpiter, cuando el cuerpo denso se haya espiritualizado, como se explicará más tarde en esta obra. 
 
@@ -1854,7 +1783,7 @@ Desde entonces el cuerpo vital se entretejió mucho más firmemente con el cuerp
 
 En el Período de Júpiter, el hombre funcionará en su cuerpo vital de igual manera como funciona ahora en su cuerpo denso; y como ningún desarrollo es súbito en la Naturaleza, el proceso de separar los dos cuerpos ha comenzado ya. El cuerpo vital alcanzará un grado mucho mayor de eficiencia que el que tiene actualmente el cuerpo denso. Como que es un vehículo mucho más flexible, el espíritu podrá, entonces, usarlo de una manera imposible de realizar con nuestro vehículo denso actual. 
 
-#### LA REVOLUCION LUNAR DEL PERIODO TERRESTRE
+#### <h4 id="the-moon-revolution-of-the-earth-period">LA REVOLUCION LUNAR DEL PERIODO TERRESTRE</h4>
 
 En él se recapituló el Período Lunar y muchas de sus condiciones prevalecen (aunque en grado superior) como las obtenidas en el globo D de aquel período. Hubo la misma neblina ígnea como atmósfera; el mismo centro ardiente; la misma división del globo en dos partes, con objeto de permitir que los seres más altamente evolucionados tuvieran una oportunidad para progresar al paso y calidad apropiados, que seres como nuestra humanidad no hubieran podido igualar. 
 
@@ -1866,7 +1795,7 @@ Los Arcángeles continuaron obrando sobre la parte inferior del cuerpo de deseos
 
 Durante el Período Terrestre se reconstruyó el cuerpo de deseos con objeto de hacerlo capaz de quedar interpenetrado por la mente germinal, cosa que se efectuó en todos aquellos cuerpos de deseos que admitían la división ya mencionada. Como se explicó ya anteriormente, el cuerpo de deseos es un ovoide inorganizado que tiene el cuerpo denso en su centro como una mancha oscura, así como la clara del huevo rodea a la yema. Hay cierto número de centros sensoriales (perceptores) que han ido apareciendo desde el principio del Período Terrestre. En el hombre ordinario esos centros parecen remolinos en una corriente, y no están despertados, y, por consiguiente, su cuerpo de deseos no tiene utilidad alguna para él como vehículo independiente o separado de conciencia; pero cuando esos órganos sensoriales (perceptores) se despiertan, entonces brillan como vórtices en rapidísima rotación. 
 
-#### PERIODO DE REPOSO ENTRE REVOLUCIONES
+#### <h4 id="rest-periods-between-revolutions">PERIODO DE REPOSO ENTRE REVOLUCIONES</h4>
 
 Anteriormente hemos hablado únicamente de las Noches Cósmicas, que tienen lugar entre los Períodos. Sabemos que hubo un intervalo de reposo y asimilación entre los Períodos de Saturno y Solar; otra Noche Cósmica entre los Períodos Solar y Lunar, etc. Pero además de éstas hay también intervalos de reposo entre revoluciones. 
 
@@ -1880,15 +1809,15 @@ Libre ya de la energía cristalizante del espíritu evolucionante, las fuerzas q
 
 Así que al final de la Revolución Lunar del Período Terrestre todos los globos y toda la vida volvieron al Caos, remergiendo de allí al comenzar la Cuarta Revolución. 
 
-#### LA CUARTA REVOLUCION DEL PERIODO TERRESTRE
+#### <h4 id="the-fourth-revolution-of-the-earth-period">LA CUARTA REVOLUCION DEL PERIODO TERRESTRE</h4>
 
 En la siempre creciente complejidad del esquema evolutivo, hay siempre espirales dentro de espirales, ad infinitum. Así que no debe sorprendernos el saber que en cada revolución el trabajo de recapitulación y reposo se aplica a los diferentes globos. Cuando la oleada de vida reapareció en el Globo A, en esta Revolución, recapituló el desarrollo del Período de Saturno; después de un reposo que, sin embargo, no implicó la destrucción completa del Globo, sino únicamente una alteración, apareció en el Globo B, donde se recapituló la obra del Período Solar. Después de otro reposo, la vida pasó al Globo C, y se repitió el trabajo del Período Lunar. Finalmente, la oleada de vida llegó al Globo D, que es nuestra Tierra actual, y hasta entonces no comenzó el verdadero trabajo del Período Terrestre. 
 
 Aún entonces, las espirales dentro de espirales, impidieron que principiara inmediatamente después de la llegada de la oleada de vida del Globo C, porque el germen de la mente nos e obtuvo hasta la cuarta época, siendo las tres primeras épocas ulteriores recapitulaciones de los Períodos de Saturno, Solar y Lunar, pero siempre en grado superior. 
 
-### CAPÍTULO XI: Y EVOLUCION DE NUESTRO SISTEMA SOLAR
+### <h3 id="chapter-11">CAPÍTULO XI: Y EVOLUCION DE NUESTRO SISTEMA SOLAR</h3>
 
-#### CAOS 
+#### <h4 id="chaos">CAOS</h4>
 
 En las páginas anteriores no hemos dicho nada sobre nuestro Sistema Solar y sobre los diferentes planetas que lo componen, porque hasta que se llegó al Período Terrestre no se hizo la diferenciación actual. El Período Terrestre es el pináculo de la diversificación, y aunque solo hemos hablado de una sola clase de espíritus virginales - aquellos que en sentido más estricto y limitado están relacionados con la evolución terrestre - existen en realidad siete "Rayos" o corrientes de vida; todas éstas prosiguen diferentes evoluciones, si bien perteneciendo a la clase original de espíritus virginales a la que también pertenece nuestra humanidad. 
 
@@ -1920,15 +1849,12 @@ El Caos no es un estado que haya existido en el pasado y que ahora haya desapare
 
 Es axiomático que "cuanto más a menudo morimos, tanto mejor vivimos." El Poeta-Iniciado, Goethe, dijo: 
 
-Who has not this--  
-Ever dying and bringing to birth--  
-Will aye remain a sorry guest  
-Upon this dismal earth.  
-Traducción:  
+``` 
 Quien no ha experimentado esto--  
 De morir y nacer a la vida sin interrupción--  
 Siempre será un huésped sombrío  
 Sobre este valle de lágrimas terrestre.  
+```
 
 Y San Pablo dijo: "Yo muero diariamente." 
 
@@ -1952,7 +1878,7 @@ Debemos aprender a pensar en el Caos como si fuera Espíritu de Dios, que compen
 
 En todos los reinos aparece. Es la expresión del espíritu progresivo del hombre, del animal, de la planta. El Caos es, por lo tanto, un nombre santo; un nombre que significa la causa de todo lo que vemos en la naturaleza e inspira un sentimiento de devoción a todo ocultista probado, desarrollado, sincero. El contempla el mundo visible de los sentidos como una revelación de las potencialidades ocultas del Caos. 
 
-#### NACIMIENTO DE LOS PLANETAS
+#### <h4 id="the-birth-of-the-planets">NACIMIENTO DE LOS PLANETAS</h4>
 
 Para que el hombre pudiera expresarse en el Mundo Físico denso, era necesario desarrollar un cuerpo denso apropiado. En un mundo como éste, su cuerpo debe tener piernas, órganos diversos y un sistema muscular que le permita moverse, así como un cerebro que dirija y coordine sus movimientos. Si las condiciones hubieran sido diferentes, el cuerpo se hubiera modificado en armonía con ellas. 
 
@@ -2006,9 +1932,9 @@ Neptuno y sus satélites no pertenecen propiamente a nuestro Sistema Solar. Los 
 
 Cuando los rezagados que han estado evolucionando desterrados en alguna Luna han alcanzado su puesto correspondiente, y han vuelto al planeta paterno, o cuando una retrogradación continuada ha causado la completa desintegración de sus vehículos, la Luna abandonada comienza también a disolverse. El impulso inicial del elemento espiritual que la lanzó a una órbita fija por milenios también después de haber sido abandonada, y desde el punto de vista físico o material, puede parecer aún un satélite del planeta que rodea. No obstante, según transcurra el tiempo y la fuerza de atracción ejercida por el planeta padre disminuya, su órbita se ensanchrá hasta alcanzar el límite del sistema solar. Entonces estalla en el espacio interplanetario y se disuelve en el Caos. La expulsión de tales mundos, que son semejantes a la escoria, es análoga a la manera en que un cuerpo extraño y duro introducido en el sistema humano, se escurre y sale a través de los músculos hacia la piel. Los asteroides ilustran este punto. Son fragmentos de Lunas que un día rodearon a Venus y Mercurio. Los seres confinados un día sobre ellos son conocidos esotéricamente con los nombres de "Señores de Venus" y "Señores de Mercurio", y han alcanzado su perdido desarrollo en su mayor parte por el servicio efectuado con la humanidad, como después será relatado, y ahora se hallan salvos en su planeta progenitor, mientras que las Lunas que ellos habitaron provisionalmente han sido desintegradas parcialmente y se hallan ya fuera de la órbita de la Tierra. Hay otras lunas aparentes en nuestro sistema; pero el Concepto Rosacruz del Cosmos no las tiene en cuenta, por hallarse más allá del campo de la evolución. 
 
-### CAPÍTULO XII: EVOLUCION DE LA TIERRA
+### <h3 id="chapter-12">CAPÍTULO XII: EVOLUCION DE LA TIERRA</h3>
 
-#### LA EPOCA POLAR
+#### <h4 id="la-epoca-polar">LA EPOCA POLAR</h4>
 
 Mientras el material que ahora forma la Tierra era todavía parte del Sol, se encontraba, por supuesto, en estado ígneo, ardiente; pero como el fuego no quema el espíritu, la evolución humana comenzó en seguida, estando confinada especialmente a la Región Polar del Sol. 
 
@@ -2022,7 +1948,7 @@ Este órgano ha degenerado ahora en lo que se llama glándula pineal. Algunas ve
 
 En los primeros grados, de los que estamos hablando ahora, había una especie de propagación. Aquellas inmensas y abotagadas criaturas se dividían por la mitad, de modo muy semejante a la división de las células, por escisión, pero las porciones separadas no crecían, permaneciendo cada mitad tan grande como la forma original. 
 
-#### LA EPOCA HIPERBOREA
+#### <h4 id="the-hyperborean-epoch">LA EPOCA HIPERBOREA</h4>
 
 En diferentes puntos del globo incandescente comenzaron a formarse con el transcurso del tiempo costras o islas en medio del mar de fuego. 
 
@@ -2040,7 +1966,7 @@ Ya hicimos mención de los rezagados de varios períodos, que en estos últimos 
 
 Al principio de la Epoca Lemúrica, esos "fracasados" (nótese que eran fracasados y no meramente rezagados) habían cristalizado la parte de la Tierra ocupada por ellos hasta tal punto que ésa formaba como una inmensa escoria sobre la Tierra blanda e ígnea. Habíanse convertido, pues, en un obstáculo y una obstrucción, y entonces, ellos, junto con la parte de la Tierra que habían cristalizado, fueron arrojados al espacio. Esa es la génesis de la Luna. 
 
-#### LA LUNA: LA OCTAVA ESFERA
+#### <h4 id="the-moon-the-eighth-sphere">LA LUNA: LA OCTAVA ESFERA</h4>
 
 Los siete Globos, del A al G, ambos inclusive, son el campo de la evolución. La luna es el campo de la desintegración. 
 
@@ -2048,7 +1974,7 @@ Si la Tierra no hubiese sido desprendida del globo original que ahora es el Sol,
 
 El Sol obra sobre el cuerpo vital, y es la fuerza que trabaja por la vida, y lucha contra las fuerzas lunares que trabajan por la muerte. 
 
-#### LA EPOCA LEMURICA
+#### <h4 id="the-lemurian-epoch">LA EPOCA LEMURICA</h4>
 
 En esta Epoca aparecieron los Arcángeles (la humanidad del Período Solar) y los Señores de la Mente (humanidad del Período de Saturno). Los Señores de la Forma, que tenían a su cargo el Período Terrestre, ayudaron a aquellas jerarquías. Además ayudaron al hombre a construir su cuerpo de deseos, y los Señores de la Mente les dieron el germen mental a la mayor parte de los adelantados o precursores que formaban la clase 1, de acuerdo con la clasificación del diagrama 10. 
 
@@ -2058,7 +1984,7 @@ Los señores de la Mente se hicieron cargo de la parte superior del cuerpo de de
 
 Debemos a los Señores de la Mente la personalidad individual con todas las posibilidades de experiencia y crecimiento que ella puede proporcionarnos. Este punto marca el nacimiento del individuo. 
 
-#### NACIMIENTO DEL INDIVIDUO
+#### <h4 id="birth-of-the-individual">NACIMIENTO DEL INDIVIDUO</h4>
 
 El diagrama 1 mostrará el hecho de que la personalidad es la imagen reflejada del Espíritu, siendo la mente el espejo o foco. 
 
@@ -2070,7 +1996,7 @@ DIAGRAMA 11A !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Sin embargo no debemos imaginarnos que una vez alcanzado esto el hombre llegó a su estado actual de evolución haciéndose consciente de sí, ser pensante, etc., como lo es hoy. Antes de que alcanzara ese punto tuvo que recorrer un largo y pesado camino, porque en ese entonces los órganos estaban en su estado más rudimentario y no había cerebro alguno que pudiera emplearse como medio de expresión. De aquí que la conciencia fuera entonces lo más pequeña imaginable. En una palabra, el hombre de aquel entonces estaba lejos de ser tan inteligente como nuestros animales actuales. El primer paso hacia el mejoramiento fue la construcción del cerebro para usarlo como instrumento de la mente en el Mundo Físico. Y esto se realizó separando a la humanidad en sexos. 
 
-#### SEPARACION DE LOS SEXOS
+#### <h4 id="separation-of-the-sexes">SEPARACION DE LOS SEXOS</h4>
 
 Contrariamente a la idea generalmente aceptada, el Ego es bisexual. Si el Ego fuera asexual, el cuerpo sería necesariamente asexual también, porque el cuerpo no es más que el símbolo externo del espíritu interno. 
 
@@ -2080,7 +2006,7 @@ Cuando la materia con que se formaron después la Tierra y la Luna era todavía 
 
 Cuando la Tierra se separó del Sol y poco después de haber arrojado a la Luna, las fuerzas de las dos luminarias no encontraron modo de expresarse con igualdad, como anteriormente. Algunos cuerpos se hicieron mejores conductores de las unas y otros de las otras. 
 
-#### INFLUENCIA DE MARTE
+#### <h4 id="influence-of-mars">INFLUENCIA DE MARTE</h4>
 
 En la parte del Período Terrestre que precedió a la separación de los sexos - durante las tres revoluciones y media que tuvieron lugar entre la diferenciación de Marte y el comienzo de la Epoca Lemúrica- Marte viajaba siguiendo una órbita distinta de la que ahora sigue, y su aura (esa parte de los vehículos sutiles que se extiende más allá del planeta denso) compenetró el cuerpo del planeta central y polarizó el hierro que en él había. 
 
@@ -2102,7 +2028,7 @@ Como resultado de este cambio, únicamente una parte de la fuerza esencial para 
 
 En esta forma, la entidad evolucionante obtuvo la conciencia cerebral del mundo externo a costa de la mitad de su poder creador. Antes de entonces el individuo usaba en sí las dos partes de ese poder para exteriorizar otro ser. Como resultado de esa modificación, adquirió, sin embargo, el poder de crear y de expresar pensamientos. Antes de ello era un creador en el Mundo Físico solamente; después obtuvo la capacidad de crear en los tres mundos. 
 
-#### LAS RAZAS Y SUS GUIAS
+#### <h4 id="the-races-and-their-leaders">LAS RAZAS Y SUS GUIAS</h4>
 
 Ante se entrar a considerar en detalle la evolución de los lemures, será conveniente dar un vistazo general a las Razas y sus Guías. 
 
@@ -2128,7 +2054,7 @@ Cuando bajo la dirección de esos Seres llegó la humanidad a cierto grado de pr
 
 En ese tiempo un Regente era como una verdad sagrada para educar y ayudar a su pueblo, para aliviar y sostener la equidad y el bienestar. De ahí que mientras reinaron esos reyes todo prosperaba y fuera ciertamente una Edad de Oro. Sin embargo, conforme sigamos la evolución del hombre en detalle, veremos que la fase o período presente de desarrollo, aunque no puede llamarse una edad de oro como no sea en sentido material, es, sin embargo, necesaria, con objeto de llevar al hombre hasta el punto en el que pueda guiarse a sí mismo, porque el dominio de sí mismo es el fin y el objeto de toda reglamentación. Ningún hombre puede subsistir seguro y salvo sin gobierno si no ha aprendido a dominarse a sí mismo, y en el actual grado de desenvolvimiento ésta es la tarea más fuerte que se le puede proporcionar. Es muy fácil ordenar a los otros o dominarlos; lo difícil es obligarse a obedecer así mismo. 
 
-#### INFLUENCIA DE MERCURIO
+#### <h4 id="influence-of-mercury">INFLUENCIA DE MERCURIO</h4>
 
 El propósito de los Señores de Mercurio durante todo este tiempo, así como el objeto de todos los Hierofantes de los Misterios desde entonces y el de todas las escuelas ocultistas y el de nuestros días, era y es el de enseñar al candidato el arte de dominarse a sí mismo. En proporción directa a la capacidad que el hombre tenga para dominarse a sí mismo, únicamente en esa proporción, estará calificado para gobernar a los demás. Si nuestros actuales legisladores o directores de las masas pudieran dominarse a sí mismos, tendríamos nuevamente el Milenio o Edad de Oro. 
 
@@ -2146,7 +2072,7 @@ Por lo tanto, la ciencia oculta habla del Período Terrestre como Marte- Mercuri
 
 Estando Mercurio actualmente postergado, ejerce muy poca influencia sobre nosotros, pero está emergiendo del período de reposo planetario, y conforme vaya pasando el tiempo, su influencia se irá haciendo más y más evidente como factor de nuestra evolución. Las razas venideras obtendrán mucha ayuda de los mercurianos, y los pueblos que las sigan en Epocas y Revoluciones posteriores obtendrán aún más. 
 
-#### LA RAZA LEMURICA
+#### <h4 id="the-lemurian-race">LA RAZA LEMURICA</h4>
 
 Nos encontramos ahora en condiciones de comprender las indicaciones que siguen referentes a las entidades humanas que vivieron en la última parte de la Epoca Lemúrica, a quienes podemos llamar la Raza Lemúrica. La atmósfera de la Lemuria era todavía muy densa, un tanto parecida a la niebla ígena del Período Lunar, pero más densa. La corteza terrestre entonces comenzaba a adquirir dureza y solidez en algunas partes, mientras que en otras todavía estaba en fusión, y entre esas islas de corteza dura había un mar de agua en ebullición. Erupciones volcánicas y cataclismos marcaron el tiempo en el que los fuegos ardientes luchaban contra la formación de la corteza que los rodeaba y que los iba aprisionando. 
 
@@ -2192,7 +2118,7 @@ Pero el plan de Dios no puede ser llevado a la nada, sin embargo. Cada acto es u
 
 Por lo tanto, la "Caída" con su consiguiente dolor y sufrimiento no es sino un estado temporal que vemos como a través de un cristal empañado, pero pronto nos encontraremos frente a frente con Dios, a quien perciben los puros de corazón, dentro y fuera de sí mismos. 
 
-#### LA CAIDA DEL HOMBRE
+#### <h4 id="the-fall-of-man">LA CAIDA DEL HOMBRE</h4>
 
 Esta es, cabalísticamente descripta, la experiencia de una pareja, la que, por supuesto, representa a la humanidad. La clave se encuentra en el versículo en el que el Mensajero de los Dioses dice a la mujer: "Parirás a tus hijos con dolor"; la misma se encuentra en la sentencia de morir que fue pronunciada al mismo tiempo. 
 
@@ -2222,7 +2148,7 @@ Los Angeles lo ayudaron a propagarse aún después de la subversión de parte de
 
 Si este régimen hubiera subsistido, el hombre hubiera seguido siendo un autómata guiado por Dios, y nunca se habría convertido en una personalidad, un individuo. El que se haya convertido en individuo ha sido debido a una clase de entidades mucho más malignas, llamadas los Espíritus Luciferes. 
 
-#### LOS ESPIRITUS LUCIFERES
+#### <h4 id="the-lucifer-spirits">LOS ESPIRITUS LUCIFERES</h4>
 
 Estos espíritus eran una clase de rezagados de la oleada de vida de los Angeles. En el Período Lunar se encontraban mucho más allá de la gran masa de aquellos que actualmente son nuestra más avanzada humanidad. No han progresado tanto como los Angeles, que eran la humanidad adelantada de la Luna; pero, sin embargo, estaban mucho más avanzados que nuestra humanidad actual, y, por lo tanto, era imposible para ellos tomar un cuerpo denso como el que hemos tomado nosotros; no obstante, no podían tener conocimiento sin un órgano interno, un cerebro físico. Estaban, por decirlo así, a mitad de camino entre el hombre, que tiene cerebro, y los Angeles, que no necesitan nada. En una palabra, eran semidioses. 
 
@@ -2256,7 +2182,7 @@ Se ha dicho contra los de la raza blanca que dondequiera que ellos van desaparec
 
 La ciencia habla únicamente de la evolución. Pero no considera las líneas de Degeneración, que, con lentitud pero seguramente, están destruyendo los cuerpos que se han cristalizado tanto que no pueden ya mejorarse. 
 
-#### LA EPOCA ATLANTE 
+#### <h4 id="the-atlantean-epoch">LA EPOCA ATLANTE</h4>
 
 Los cataclismos volcánicos destruyeron la mayor parte del continente lemúrico, y en su lugar surgió el continente Atlántico, en el sitio que actualmente ocupa el océano del mismo nombre. 
 
@@ -2316,9 +2242,9 @@ Esta pérdida de su poder sobre las fuerzas vitales fue, sin embargo, la que hiz
 
 Los Semitas originales regulaban sus deseos hasta cierto punto por medio de la mente, y en vez de simples deseos mostraban astucia y malicia, medios por los cuales este pueblo trataba de realizar sus fines egoístas. Si bien era un pueblo muy turbulento, aprendieron a refrenar sus pasiones en gran extensión y a realizar sus propósitos por medio de la astucia, más sutil y potente que la simple fuerza bruta. Y descubrieron por vez primera que el cerebro es superior al músculo.(*) 
 
-En el transcurso de la existencia de esta raza, la atmósfera de la Atlántida comenzó a aclararse definitivamente, y el punto ya mencionado del cuerpo vital se puso en correspondencia con su compañero del cuerpo denso. La combinación de los sucesos dio al hombre la capacidad de ver los objetos con claridad y nitidez, con contornos bien definidos; pero esto también se obtuvo a expensas de su visión de los mundos internos. 
+(*) En Inglés: that "brain" is superior to "brawn." 
 
-(*)En Inglés: that "brain" is superior to "brawn." 
+En el transcurso de la existencia de esta raza, la atmósfera de la Atlántida comenzó a aclararse definitivamente, y el punto ya mencionado del cuerpo vital se puso en correspondencia con su compañero del cuerpo denso. La combinación de los sucesos dio al hombre la capacidad de ver los objetos con claridad y nitidez, con contornos bien definidos; pero esto también se obtuvo a expensas de su visión de los mundos internos. 
 
 Así que podemos ver y es bueno definir la siguiente ley: Nunca se puede hacer el menor progreso sino a costa de alguna facultad que se poseía previamente, la que se re-obtiene de nuevo después en una forma más elevada. 
 
@@ -2362,7 +2288,7 @@ Conforme las pesadas neblinas de la Atlántida se condensaban más y más, la cr
 
 Pero un gran número se salvó del continente que se sumergía bajo las inundaciones y ganaron la Europa. Las Razas mogólicas son las descendientes de esos refugiados atlantes. Los negros y las razas salvajes de pelo duro y motoso son los últimos remanentes de los lemures. 
 
-#### LA EPOCA ARIA
+#### <h4 id="the-aryan-epoch">LA EPOCA ARIA</h4>
 
 El Asia Central fue la patria de las razas arias, descendientes de los semitas originales. De estos partieron todas ellas. Es innecesario describirlas aquí, pues las investigaciones históricas han revelado suficientemente sus principales rasgos. 
 
@@ -2374,11 +2300,13 @@ Al final de nuestra Epoca actual el más elevado Iniciado aparecerá públicamen
 
 Los nombres de las razas que han aparecido sobre la Tierra, durante la Quinta Epoca hasta ahora, son los siguientes: 
 
-1. -La Aria, que fue hacia el sur de la India.
-2. -La Babilonio-Asirio-Caldea.
-3. -La Perso-Greco-Laina.
-4. -La Céltica.
-5. -La Teutónico-Anglo-Sajona (a la que pertenecemos).(*)
+1. La Aria, que fue hacia el sur de la India.
+2. La Babilonio-Asirio-Caldea.
+3. La Perso-Greco-Laina.
+4. La Céltica.
+5. La Teutónico-Anglo-Sajona (a la que pertenecemos).(*)
+
+(*) Así dice el original Inglés, refiriéndose sin duda el autor al área racial en la cual se difundió primeramente esta obra. (N. del T.). 
 
 De la mezcla de las diferentes nacionalidades que actualmente tiene lugar en los Estados Unidos, vendrá la "simiente" para la última raza, al comenzar la Sexta Epoca. 
 
@@ -2386,19 +2314,21 @@ Dos razas más se desarrollarán en nuestra Epoca actual, siendo una de ellas la
 
 De los eslavos descenderá un pueblo que formará la última de las siete razas de la Epoca Aria; y del pueblo de los Estados Unidos descenderá la última de todas las razas de este esquema evolutivo, que comenzará su curso al principio de la Sexta Epoca. 
 
-#### LOS DIECISEIS SENDEROS DE DESTRUCCION
+#### <h4 id="the-sixteen-paths-to-destruction">LOS DIECISEIS SENDEROS DE DESTRUCCION</h4>
 
 Las dieciséis razas son llamadas los "dieciséis senderos de destrucción", porque siempre hay en cada raza el peligro de que el alma pueda adherirse demasiado a la raza; de que se sumerja tanto en las características raciales que no pueda sobrepasar la idea de raza, y fracasaría entonces en su progreso; hay el peligro de que se cristalice tanto en esa raza que se confine a los cuerpos de la misma, cuando éstos comiencen a degenerar, como sucedió con los judíos. 
 
-(*)Así dice el original Inglés, refiriéndose sin duda el autor al área racial en la cual se difundió primeramente esta obra. (N. del T.). 
-
 En los Períodos, Revoluciones y Epocas en los que no hay razas, hay mucho más tiempo y la probabilidad de fosilizarse no es tan grande ni tan frecuente. Pero las dieciséis razas nacen y mueren en un tiempo tan relativamente corto, que existe el peligro muy grave de adherirse demasiado a condiciones que deben dejarse atrás. 
 
-Cristo es el Gran Guía Unificador de la Sexta Epoca, y enunció esta ley cuando emitió esas poco comprendidas palabras: "Si alguien viene a mí y no odia a su padre y a su madre y a sus hijos, y a sus hermanos, y a sus hermanas, y hasta su propia vida también, no puede ser mi discípulo." "Y cualquiera que no lleve su cruz y venga tras mí, no puede ser mi discípulo"... "quienquiera que no abandone todo lo que tenga, no puede ser mi discípulo." 
+Cristo es el Gran Guía Unificador de la Sexta Epoca, y enunció esta ley cuando emitió esas poco comprendidas palabras: "Si alguien viene a mí y no odia a su padre y a su madre y a sus hijos, y a sus hermanos, y a sus hermanas, y hasta su propia vida también, no puede ser mi discípulo." 
+
+"Y cualquiera que no lleve su cruz y venga tras mí, no puede ser mi discípulo"
+
+". . . quienquiera que no abandone todo lo que tenga, no puede ser mi discípulo." 
 
 Esto no quiere decir que debemos dejar o desestimar los lazos familiares, sino que debemos elevarnos más allá de ellos. Padre y madre son "cuerpos"; todas las relaciones son parte de la raza que pertenece a la Forma. Las almas deben reconocer que no son cuerpos ni razas, sino Egos que están luchando por la perfección. Si un hombre se olvida de esto y se identifica con la raza -adhiriéndose a ella con patriotismo fanático- es lo mismo que fosilizarse en ella cuando sus compañeros hayan pasado a otras alturas del Sendero de Realización. 
 
-### CAPÍTULO XIII: HACIA LA BIBLIA
+### <h3 id="chapter-13">CAPÍTULO XIII: HACIA LA BIBLIA</h4>
 
 En nuestros tiempos el espíritu misionero es muy fuerte. La Iglesias occidentales están enviando continuamente misioneros a todo el mundo para convertir a los pueblos de todas las naciones a sus credos; ni son ellos solos tampoco en sus esfuerzos de proselitismo. El Oriente ha comenzado también con una fuerte invasión en los campos occidentales, y muchos cristianos que estaban descontentos con los credos y dogmas de los clérigos y que estaban buscando la verdad que satisficiera las ansias de su inteligencia por una explicación adecuada de los problemas de la vida, se han familiarizado y en muchos casos han aceptado las enseñanzas orientales del Budismo, Hinduismo, etc. 
 
@@ -2438,8 +2368,9 @@ Esos espíritus, de todos los países de la tierra, que se han esforzado en segu
 
 Vemos, pues, que la Biblia contiene las enseñanzas que necesitan especialmente los pueblos occidentales, quienes pueden aprender una lección del ejemplo horrendo de la raza judía, tal como se relata en el Antiguo Testamento, y pueden aprender a vivir las enseñanzas que Cristo da en el Nuevo Testamento, ofreciendo voluntariamente sus cuerpos como un sacrificio viviente sobre el altar de la Fraternidad y del Amor. 
 
-### CAPÍTULO XIV: ANALISIS OCULTO DEL GENESIS
-#### LIMITACIONES DE LA BIBLIA 
+### <h3 id="chapter-14">CAPÍTULO XIV: ANALISIS OCULTO DEL GENESIS</h3>
+
+#### <h4 id="limitations-of-the-bible">LIMITACIONES DE LA BIBLIA</h4>
 
 En nuestro trabajo anterior al Capítulo XIII hemos hecho relativamente pocas referencias a la Biblia, pero ahora dedicaremos nuestra atención a ella en el resto del trabajo. No intentamos vindicarla (en la forma en la que comúnmente se conoce actualmente) como la única, verdadera e inspirada palabra de Dios; pero, sin embargo, es muy cierto que contiene muchos conocimientos ocultos inestimables. Este conocimiento está oculto, en gran extensión, debido a las interpolaciones y confusiones, y por haberse separado ciertas partes arbitrariamente, pretendiendo que eran "apócrifas." Los ocultistas, que saben lo que se quiso significar, pueden, por supuesto, ver fácilmente qué proporciones son originales y cuáles las que han sido interpoladas. Aún así, si tomamos el primer capítulo del Génesis tal como está en las mejores traducciones que poseemos, encontraremos que desarrolla el mismo esquema evolutivo que hemos aplicado en la porción anterior de esta obra y que armoniza perfectamente con las enseñanzas ocultistas respecto a los Períodos, Revoluciones, Razas, etc. El bosquejo que allí se da es necesariamente condensado y brevísimo, mencionándose un Período en unas cuantas palabras; pero, sin embargo, el bosquejo subsiste. 
 
@@ -2471,7 +2402,7 @@ El Talmud estuvo en posesión de la escuela Masorética, la que desde el año 59
 
 Este texto masotérico es el que usaremos en la siguiente dilucidación del Génesis, y no confiando sobre la obra de un solo traductor, será complementada con una traducción alemana, obra de tres eminentes literatos Hebreos: H. Arnheim, M. Sachs y Jul Furst, quienes cooperaron con un cuarto, y el Dr. Zunz, que fue también el editor. 
 
-#### EN EL PRINCIPIO
+#### <h4 id="in-the-beginning">EN EL PRINCIPIO</h4>
 
 La primera sentencia del Génesis es un buen ejemplo de lo que ya se ha indicado acerca de la interpretación del texto Hebreo, interpretación que no puede cambiarse colocando diferentemente las vocales y dividiendo las palabras de otra manera. 
 
@@ -2481,7 +2412,7 @@ Mucho se ha dicho y escrito acerca de cuál de estas dos interpretaciones es cor
 
 El mismo hecho de que esta sentencia, así como muchas otras del Thorah, puedan tener muchos significados, si bien es confundible para el no iniciado, es por el contrario iluminadora para aquel que tiene la clave, y mediante ella se ve la sabiduría trascendental y la maravillosa inteligencia de los que inspiraron el Thorah. Si se hubieran insertado las vocales y se hubieran dividido las palabras, hubiera habido únicamente una sola manera de leerlo, y estos grandes y sublimes misterios no hubieran podido ser ocultados en ellas. Esa hubiera sido la forma más natural de escribir, si los autores se hubieran propuesto escribir un libro "abierto" sobre Dios, pero no fue ése su propósito. Fue escrito únicamente para los iniciados, y únicamente puede ser bien comprendido por ellos. Se hubiera necesitado mucha menos destreza para escribir un libro claramente, que para encubrir su significado. Pero ningún trabajo es mal empleado, sin embargo, para dar informaciones, a su debido tiempo, a aquellos que están capacitados para ellas, al mismo tiempo que se ocultan a aquellos que aún no han ganado el derecho de poseerlas. 
 
-#### LA TEORÍA NEBULAR
+#### <h4 id="the-nebular-theory">LA TEORÍA NEBULAR</h4>
 
 Considerada bajo esta nueva fase la génesis y evolución de nuestro sistema, es bien claro que ambas interpretaciones de la primera sentencia del Libro del Génesis son necesarias para al comprensión del asunto. La primera nos dice que hubo un comienzo de nuestra evolución en el que fueron creados los cielos; la otra interpretación complementa la primera, añadiendo que los cielos y la tierra fueron creados de la "siempre existente esencia", no sacada de la "nada", como indica burlonamente el materialista. La Substancia-Raíz Cósmica se mantiene unida y puesta en movimiento. Los círculos formados por la inercia de las masas en revolución se separan de la parte central, formando planetas, etc., tal como la ciencia moderna lo ha imaginado. La ciencia oculta y la ciencia moderna están completamente de acuerdo en lo que respecta al modus operandi. En estas afirmaciones no hay nada en desacuerdo con las dos teorías, como se demostrará. La ciencia oculta enseña que Dios originó el proceso de formación y está constantemente guiando al Sistema por un sendero definido. La ciencia moderna, para refutar lo que ella llama idea absurda y para demostrar que no es necesario Dios, toma una vasija con agua y echa un poco de aceite en ella. El agua y el aceite representan el espacio y la masa ígnea, respectivamente. Entonces se comienza a hacer girar el aceite por medio de una aguja, hasta que toma la forma de una esfera. Esto, según dice ella, representa al Sol Central. Conforme el aceite va girando más y más rápido, se curva más por el ecuador y despide un anillo; el anillo se rompe y los fragmentos se juntan, formando un globito pequeño, que gira en torno de la masa central así como un planeta gira alrededor del Sol. Entonces la ciencia pregunta piadosamente al ocultista: ¿No veis como se hace? No hay la menor necesidad de Dios, ni de ninguna fuerza sobrenatural. 
 
@@ -2497,7 +2428,7 @@ Cuando se manifiesta como Voluntad de crear el primer aspecto del Dios Triuno, s
 
 Por lo tanto vemos que la primera sentencia del libro del Génesis nos dice que en el principio el movimiento ordenado, rítmico, en la Sabiduría-Raíz Cósmica, formó el Universo. 
 
-#### LAS JERARQUÍAS CREADORAS
+#### <h4 id="the-creative-hierarchies">LAS JERARQUÍAS CREADORAS</h4>
 
 La segunda interpretación de la primera sentencia también nos da una idea completa de Dios cuando habla de la doble energía", indicando las fases positiva y negativa del Espíritu Uno de Dios en manifestación. De acuerdo con las enseñanzas de la ciencia oculta, se representa a Dios como un Ser compuesto. Esto se acentúa aún más en los siguientes versículos del capítulo. 
 
@@ -2517,7 +2448,7 @@ Después de describir cada parte del trabajo de la creación, se dice: "y Elohim
 
 Se indica después que en el séptimo día "Elohim descansó." Esto está completamente de acuerdo con nuestras enseñanzas ocultas sobre la parte que cada jerarquía efectuó en el trabajo de la evolución hasta el Período actual. También se dice que en la Epoca actual los Dioses y las Jerarquías creadoras se han retirado de toda participación activa, para que el hombre pueda trabajar por su propia salvación, dejando la dirección o guía necesaria de la humanidad ordinaria en manos de los "Hermanos Mayores", que son ahora los mediadores entre el hombre y los Dioses. 
 
-#### EL PERIODO DE SATURNO
+#### <h4 id="the-saturn-period">EL PERIODO DE SATURNO</h4>
 
 Habiendo visto, pues, que el principio de nuestro sistema y la obra de las Jerarquías creadoras, tal como lo describe la ciencia oculta, armoniza con las enseñanzas de la Biblia, examinaremos ahora las enseñanzas de la Biblia sobre los diferentes "Días de la Creación" y veremos como concuerdan con las enseñanzas ocultistas relativas a los Períodos de Saturno, Solar y Lunar; las tres y media revoluciones del Período Terrestre, y las Epocas Polar, Hiperbórea, Lemúrica y Atlante, que han precedido a la presente Epoca Aria. 
 
@@ -2525,19 +2456,19 @@ Naturalmente, no puede darse una descripción detallada en pocas líneas como en
 
 En el segundo versículo dice: "La Tierra era vasta y deshabitada, y la obscuridad era sobre la faz del abismo y los Espíritus de los Elohim flotaban sobre el abismo." Al principio de la manifestación, lo que actualmente es la Tierra, estaba en el Período de Saturno, exactamente en la condición descrita, como puede verse apelando a la descripción ya dada sobre ese Período. No era "vacía e informe", como dice la versión del Rey Jaime. Era caliente, y por lo tanto bien definida y separada del abismo del espacio, que era frío. Es cierto que era obscura, pero podía ser obscura y al mismo tiempo caliente, porque el calor "obscuro" precede necesariamente al calor brillante y visible. Sobre esa Tierra obscura del Período de Saturno flotaban las Jerarquías creadoras. Obraron sobre ella desde afuera y la moldearon. Y la Biblia, refiriéndose a ellas, las llama los "Espíritus de los Elohim." 
 
-#### EL PERIODO SOLAR
+#### </h4 id="the-sun-period">EL PERIODO SOLAR</h4>
 
 El Período Solar está bien descrito también en el tercer versículo que dice: "Y los Elohim dijeron: Hágase la luz; y la luz fue hecha." Este pasaje se ha prestado a muchas burlas, lo más ridículamente absurdas. Se ha hecho la siguiente pregunta: ¿Cómo pudo haber luz en la Tierra cuando el Sol no fue creado hasta el cuarto día? El narrador de la Biblia no está hablando de la Tierra solamente. Está hablando de la "masa ígnea" central, de la que se formaron los planetas de nuestro sistema, incluso la Tierra. Así que cuando la nebulosa alcanzó el estado de fuego brillante y luminoso, como en el Período Solar, no había la menor necesidad de una iluminación externa: La luz estaba dentro. 
 
 En el cuarto versículo se lee: "Los Elohim separaron la luz de la obscuridad." Necesariamente, porque el espacio exterior era obscuro, distinguiéndose de la brillantísima nebulosa que existió en el Período Solar. 
 
-#### EL PERIODO LUNAR
+#### </h4 id="the-moon-period">EL PERIODO LUNAR</h4>
 
 El Período Lunar es descrito en el sexto versículo como sigue: "Y los Elohim dijeron: Haya una expansión (traducido "Firmamento" en otras versiones) en las aguas, para que el agua se divida del agua." Esto describe exactamente las condiciones del Período Lunar cuando el calor de la masa ígnea brillante y el frío del espacio exterior formaron una cubierta de agua en torno del centro radiante. El contacto del fuego con el agua generó el vapor, que es agua en expansión, como lo describe el versículo. Era diferente del agua relativamente fría, que constantemente gravitaba hacia el centro ígneo, ardiente, para reemplazar el vapor que surgía. Por lo tanto había una circulación constante del agua en suspensión, y también una expansión, como el vapor, que surgía hacia afuera, formando una neblina ardiente que se condensaba al ponerse en contacto con el espacio externo, volviendo nuevamente al centro para volverse a calentar y realizar otro nuevo ciclo. Así que había dos clases de agua y una división entre ellas, como lo describe la Biblia. El agua más densa estaba más próxima al centro incandescente; el agua en expansión o vapor estaba fuera. 
 
 Esto también concuerda con la teoría científica de los tiempos modernos. Primero calor obscuro; después nebulosa brillantísima; por último, humedad externa y calor interno; y finalmente, solidificación. 
 
-#### EL PERIODO TERRESTRE
+#### <h4 id="the-earth-period">EL PERIODO TERRESTRE</h4>
 
 El Período Terrestre está descrito a continuación. Pero antes de hacer su descripción, debemos, sin embargo, tratar de las recapitulaciones. Los versículos citados, así como las descripciones hechas, también corresponden a los períodos recapitulatorios. Así que lo que dice del Período de Saturno describe también la condición del Sistema cuando emerge de cualquiera de los períodos de reposo. Las descripciones de los Períodos de Saturno, Solar y Lunar, corresponderían, por lo tanto, a las tres primeras revoluciones de nuestro presente Período Terrestre y lo siguiente correspondería a las condiciones de la Tierra en nuestra actual revolución. 
 
@@ -2573,7 +2504,7 @@ La Epoca Aria corresponde al séptimo día de la Creación, cuando los Elohim de
 
 Así termina la historia de la manera en que se produjeron las formas. En el capítulo siguiente se cuenta la historia desde un punto de vista que trata algo más del aspecto de la Vida de la creación. 
 
-#### JEHOVA Y SU MISIÓN
+#### <h4 id="jehovah-and-his-mission">JEHOVA Y SU MISIÓN</h4>
 
 Ha habido muchas discusiones eruditas respecto a la discrepancia (y especialmente de sus autores) entre la historia de la creación del primer capítulo y lo que se dice en el cuarto versículo del segundo capítulo. Se afirma que los dos relatos han sido escritos por diferentes hombres, porque el Ser o Seres, cuyo nombre han traducido los traductores por "Dios" en el primer y segundo capítulos de la versión Inglesa, se denominan, en el texto Hebreo, Elohim en el primer capítulo y "Jehová" en el segundo. Se arguye al efecto que el mismo narrador no hubiera nombrado a Dios de dos maneras distintas. 
 
@@ -2595,7 +2526,7 @@ Los nacidos de esos cruzamientos fueron los primogénitores de los judíos del p
 
 La ciencia oculta conviene, con los que dicen que eso es una mera mutilación de las escrituras originales de la Biblia. Muchas partes de ella se asegura que son completamente invenciones y no se hace la menor tentativa para probar su autenticidad como conjunto, en la forma en que actualmente la poseemos. Nuestro esfuerzo actual es una simple tentativa para exhumar algunos pedazos de verdad oculta de esa masa de malentendidos e interpretaciones incorrectas bajo las cuales han sido enterradas, por los diversos traductores y revisores. 
 
-#### INVOLUCION, EVOLUCION Y EPIGENESIS
+#### <h4 id="involution-evolution-and-epigenesis">INVOLUCION, EVOLUCION Y EPIGENESIS</h4>
 
 Habiendo desenmarañado en los párrafos anteriores de entre la confusión general la identidad y misión de Jehová, puede ser que consigamos ahora armonizar esos dos relatos aparentemente contradictorios sobre la creación del hombre, según se cuenta en el primero y en el segundo capítulo del Génesis. En el primero se dice que él fue el último, en tanto que en el segundo se afirma que fue creado antes que todas las demás cosas vivientes. 
 
@@ -2671,7 +2602,7 @@ Por otro lado, la Vida que emplea el óvulo humano tuvo su existencia mineral en
 
 Cuando la Epigénesis no actúa o se hace inactiva en el individuo, la familia, la nación o la raza cesa la evolución y comienza la degeneración. 
 
-#### ¿UN ALMA VIVIENTE?
+#### <h4 id="a-living-soul">¿UN ALMA VIVIENTE?</h4>
 
 De suerte que los dos relatos sobre la Creación, armonizan perfectamente. 
 
@@ -2695,7 +2626,7 @@ En ese entonces el hombre naciente no había comenzado aún a respirar por medio
 
 La obra de Jehová fue construir huesos duros y densos dentro de la substancia blanda de los cuerpos ya existentes. Anteriormente a este tiempo, es decir, durante las Epocas Polar e Hiperbórea, ni el hombre ni el animal tenían huesos. 
 
-#### LA COSTILLA DE ADAN
+#### <h4 id="adams-rib">LA COSTILLA DE ADAN</h4>
 
 La manera grotesca e imposible en que se dice se realizó la separación de los sexos (tal como se describe en las versiones comunes de la Biblia, y, en este caso particular, en el texto masorético también) es otro ejemplo de lo que puede hacerse cambiando las vocales en el antiguo texto Hebreo. Leído de una manera, la palabra es "costilla"; pero leído en otra, que merece muy bien el ser considerada, con la ventaja de que tiene sentido común, dice "lado." Si interpretamos esto como queriendo significar que el hombre era macho-hembra y que Jehová hizo que un lado o sexo de cada ser se hiciera latente, no violentaremos nuestra razón si aceptamos la historia de la costilla. 
 
@@ -2703,7 +2634,7 @@ Las enseñanzas ocultas armonizan con las de la Biblia en lo que concierne a est
 
 Aparentemente el narrador de la Biblia no deseó dar en ese segundo relato de la creación una ilustración sencilla del conjunto de la evolución, sino que más bien se particularizó un poco más sobre lo que ya había dicho en el primer capítulo. Nos dice que el hombre no respiró siempre como ahora; que hubo un tiempo en que no estaban separados los sexos; y que Jehová fue quien efectuó ese cambio, fijando así el tiempo del acontecimiento. Conforme sigamos, veremos que ulteriormente se da mucha más información. 
 
-#### LOS ANGELES GUARDIANES
+#### <h4 id="guardian-angels">LOS ANGELES GUARDIANES</h4>
 
 Durante las primeras Epocas y Períodos, las grandes Jerarquías trabajaron sobre la humanidad conforme ésta evolucionaba inconscientemente. Había entonces únicamente una conciencia común a todos los seres humanos; un espíritu-grupo para toda la humanidad, por así decirlo. 
 
@@ -2743,7 +2674,7 @@ Anteriormente al advenimiento de Jehová, cuando la Tierra era todavía parte de
 
 Jehová vino con sus Angeles y Arcángeles e hizo la primera gran división en Razas, dando a cada grupo, como guía, la influencia de un Espíritu de Raza, un Arcángel. Y destinó para cada Ego un Angel para que actuara como guardián hasta que el espíritu individual fuera suficientemente fuerte para emanciparse de toda influencia externa. 
 
-#### LA MEZCLA DE SANGRES EN EL MATRIMONIO
+#### <h4 id="mixing-blood-in-marriage">LA MEZCLA DE SANGRES EN EL MATRIMONIO</h4>
 
 Cristo vino para preparar el camino de la emancipación de la humanidad, libertándola de la influencia de los Espíritus de Raza o de Familia y para unir a todo el género humano en Una Fraternidad Universal. 
 
@@ -2769,7 +2700,7 @@ Los semitas originales fueron los primeros en desarrollar la Voluntad, y en segu
 
 Más tarde, le fue dado al hombre libre albedrío. Había llegado el tiempo en el que debía prepararse para la individualización. La primitiva conciencia "común", la clarividencia involuntaria o segunda-vista que constantemente mantenía ante los hombres de la tribu los sucesos de las vidas de sus antecesores, visión que los hacía sentirse íntimamente identificados con su tribu o familia, debía ser reemplazada entonces por una conciencia estrictamente individual, confinada al mundo material, para deshacer así las naciones en individuos, para que la Fraternidad Humana pudiera establecerse sin tener en cuenta las circunstancias exteriores.
 
-(*)Highlander: Es el que vive en las montañas o sitios elevados. (N. del T.). 
+(*) Highlander: Es el que vive en las montañas o sitios elevados. (N. del T.). 
 
 Esto es lo mismo que si tuviéramos cierto número de edificios y quisiéramos convertirlos en uno mucho más grande; sería necesario que deshiciéramos aquéllos, ladrillo por ladrillo. Unicamente entonces podríamos edificar el otro. 
 
@@ -2795,13 +2726,13 @@ Conforme el hombre atravesó esos estados y perdió gradualmente su contacto con
 
 Las cuatro causas que contribuyeron a esto, fueron: 
 
-1- La aclaración de la atmósfera de neblinas del continente Atlántico. 
+1. La aclaración de la atmósfera de neblinas del continente Atlántico. 
 
-2- La entrada del cuerpo vital en el físico, de manera que el punto que se encuentra en la raíz de la nariz, correspondiera con el mismo punto del cuerpo vital. 
+2. La entrada del cuerpo vital en el físico, de manera que el punto que se encuentra en la raíz de la nariz, correspondiera con el mismo punto del cuerpo vital. 
 
-3- La eliminación de la endogamia y su consiguiente substitución por el matrimonio entre tribus o familias. 
+3. La eliminación de la endogamia y su consiguiente substitución por el matrimonio entre tribus o familias. 
 
-4- El empleo de estimulantes tóxicos. 
+4. El empleo de estimulantes tóxicos. 
 
 Los Espíritus de Razas existen aún y trabajan con el hombre, pero cuanto más avanzada es una nación, más libertad tiene el individuo. En los países en los que el pueblo está más atrasado, el Espíritu de Raza es más fuerte. Cuanto más en armonía está el hombre con la ley del Amor, cuanto más elevados son sus ideales, más se liberta a sí mismo del Espíritu de Raza. El patriotismo, si bien es bueno en sí mismo, es una cadena del Espíritu de Raza. El ideal de Fraternidad Universal, que no se identifica con ningún país ni raza, es el único camino que conduce a la emancipación. 
 
@@ -2809,7 +2740,7 @@ Cristo vino para reunir las diferentes razas en paz y buena voluntad, de manera 
 
 El Cristianismo actual no es ni siquiera una sombra de la verdadera religión de Cristo. Y aquél permanecerá así hasta que todo el sentimiento de raza se haya borrado. En la Sexta Epoca no habrá más que una Fraternidad Universal bajo la dirección del Cristo que habrá vuelto, pero el día y hora en que volverá no lo sabe ningún hombre, porque aún no se ha fijado, pues depende del tiempo en que un número suficiente de hombres haya comenzado a vivir una vida de fraternidad y de amor, que será la señal de la nueva dispensación. 
 
-### LA CAIDA DEL HOMBRE
+#### <h4 id="the-fall-of-man">LA CAIDA DEL HOMBRE</h4>
 
 Relacionado con el análisis del Génesis, podemos agregar algunas palabras más sobre "La Caída", que es la base del Cristianismo popular. si no hubiera habido caída alguna, no hubiera hecho falta ningún "plan de salvación." 
 
@@ -2843,11 +2774,11 @@ El hombre será entonces un creador en verdad. No en la forma relativa y convenc
 
 Todo cuanto se manifestó durante el período descendente de la involución subsiste hasta que se alcanza el punto correspondiente del arco descendente. Los actuales órganos de generación degenerarán y se atrofiarán. Los órganos femeninos fueron los primeros en existir como unidad separada y, de acuerdo con la ley de que "los últimos serán los primeros" y de que los "primeros serán los últimos", serán los últimos en atrofiarse. Los órganos masculinos comenzaron a diferenciarse después, y aún ahora ya comienzan a dividirse del cuerpo. El diagrama 13 ilustrará este punto. 
 
-## TERCERA PARTE: FUTURO DESARROLLO E INICIACIÓN DEL HOMBRE
+## <h2 id="part-3">TERCERA PARTE: FUTURO DESARROLLO E INICIACIÓN DEL HOMBRE</h2>
 
-### CAPÍTULO XV: CRISTO Y SU MISION
+### <h3 id="chapter-15">CAPÍTULO XV: CRISTO Y SU MISION</h3>
 
-#### EVOLUCION DE LA RELIGION
+#### <h4 id="the-evolution-of-religion">EVOLUCION DE LA RELIGION</h4>
 
 En las dos partes anteriores de esta obra nos hemos familiarizado con el plan, bajo el cual nuestro actual mundo externo vino a la existencia y como desarrolló el hombre su complicado organismo mediante el cual se relaciona con las condiciones exteriores. Hemos también estudiado, hasta cierto punto, la Religión de la Raza Judía. Consideraremos ahora la más grande y divina medida tomada para la salvación de la humanidad, esto es, el Cristianismo, que será Religión Universal del futuro. 
 
@@ -2903,7 +2834,7 @@ Este fue un paso largo y trabajoso. Era comparativamente fácil llevar una oveja
 
 Esta doctrina es rechazada por algunos filósofos muy avanzados que colocan a la ley de "Consecuencia" como suprema ley. Si sucediera que el lector estuviera de acuerdo con ellos, le rogamos que espere la explicación que aquí se dará, demostrando que ambas forman parte del esquema de mejoramiento o perfeccionamiento. Baste decir, por el momento, que esta doctrina de reconciliación da a tantas almas fervorosas la fuerza necesaria para luchar, a pesar de los repetidos fracasos, por conseguir la subyugación de la naturaleza inferior. Recordamos que, por las razones ya indicadas, cuando hemos discutido las leyes del Renacimiento y de Consecuencia, la humanidad occidental no conocía nada prácticamente de esas leyes. Con un ideal tan grande ante ella como el de Cristo, y creyendo que no tenía más que un corto número de años para realizar tan elevado grado de desenvolvimiento, ¿no hubiera sido la mayor crueldad imaginable dejar la humanidad sin esa ayuda? Por lo tanto, el gran sacrificio del Calvario si bien ha servido para otros propósitos que se indicarán - se convirtió ciertamente en el áncora de la Esperanza para todas las almas fervorosas que luchaban para realizar lo imposible: para efectuar en una sola y corta vida le perfección exigida por la religión Cristiana. 
 
-#### JESUS Y CRISTO-JESUS
+#### <h4 id="jesus-and-christ-jesus">JESUS Y CRISTO-JESUS</h4>
 
 Para obtener algún ligero vislumbre del Gran Misterio del Gólgota, y para comprender la Misión de Cristo como fundador de la Religión Universal del futuro, es necesario que reconozcamos primero su naturaleza exacta, e incidentalmente con la de Jehová, que es la cabeza de tales religiones de raza como el Taoísmo, Budismo, Hinduismo, Judaísmo, etc.; así como también la identidad de "El Padre" a Quien Cristo entregará el reino a su debido tiempo. 
 
@@ -2975,7 +2906,7 @@ Cristo es único entre todos los Seres en los Siete Mundos. Unicamente Él posee
 
 Así, pues, ya conocemos la naturaleza de Cristo. Él es el Iniciado más elevado del Período Solar, que tomó los cuerpos vital y denso de Jesús para poder funcionar directamente en el Mundo Físico y aparecer como un hombre entre los hombres. Si hubiera aparecido de una manera milagrosa hubiera sido contrario al plan evolutivo, porque al final de la Época Atlante la humanidad obtuvo la libertad de obrar bien o mal. Para que aprendiera a dominarse a sí misma no podía emplearse coerción alguna. Antes de entonces la humanidad había sido conducida voluntariamente o no; pero después se les dio a los hombres la libertad, bajo las diferentes Religiones de Raza, estando cada religión adaptada a las necesidades de su Tribu o Nación particular. 
 
-#### NO PAZ, SINO GUERRA
+#### <h4 id="not-peace-but-a-sword">NO PAZ, SINO GUERRA</h4>
 
 Todas las Religiones de Raza son del Espíritu Santo. Son insuficientes, porque están basadas en la ley, lo que produce el pecado y acarrea la muerte, el dolor y la tristeza. 
 
@@ -3009,13 +2940,16 @@ Existe aparentemente una contradicción aparente entre las palabras y los actos 
 
 Análogamente, debemos tener presente que el tiempo transcurrido desde la venida de Cristo Jesús no es más que un momento comparado con la duración de un solo Día de Manifestación. Debemos aprender a conocer, como Whitman, "la amplitud del tiempo" y mirar más allá de las pasadas y presentes crueldades y de los celos de las sectas en guerra hacia la edad de la Fraternidad Universal, que marcará el gran nuevo paso del progreso humano en su larga y gloriosa jornada desde el barro hasta Dios, desde el protoplasma hasta la consciente unidad con el Padre, ese 
 
-...one far-off divine event To which the whole creation moves(*) 
-
-Podemos agregar que el pastor mencionado, durante la ceremonia de recibir a sus discípulos en la iglesia, les dijo que Jesús Cristo era un individuo compuesto; que Jesús era la parte humana mortal, mientras que Cristo era el Espíritu inmortal y divino. Creemos que si el asunto se le hubiera discutido, no habría sostenido la afirmación, a pesar de que al afirmarlo emitió un hecho oculto. 
+```
+...one far-off divine event 
+To which the whole creation moves(*) 
+```
 
 (*) Ese acontecimiento lejano hacia el que se mueve la creación entera. (N. del T.). 
 
-#### LA ESTRELLA DE BELÉN
+Podemos agregar que el pastor mencionado, durante la ceremonia de recibir a sus discípulos en la iglesia, les dijo que Jesús Cristo era un individuo compuesto; que Jesús era la parte humana mortal, mientras que Cristo era el Espíritu inmortal y divino. Creemos que si el asunto se le hubiera discutido, no habría sostenido la afirmación, a pesar de que al afirmarlo emitió un hecho oculto. 
+
+#### <h4 id="the-star-of-bethlehem">LA ESTRELLA DE BELÉN</h4>
 
 La unificante influencia del Cristo ha sido simbolizada en la hermosa leyenda de la adoración de los tres magos o "sabios del Oriente", tan hermosamente descriptos por el general Lew Wallace en su encantador relato "Ben Hur." 
 
@@ -3023,36 +2957,25 @@ Los tres sabios - Gaspar, Melchor y Baltasar - son los representantes de las raz
 
 Se dice que la Estrella de Belén apareció al nacer Jesús y guió a los tres sabios hacia el Salvador. 
 
- Muchas especulaciones se han hecho sobre la naturaleza de esa estrella. La mayoría de los hombres de ciencia materialista la han declarado un mito, en tanto que otros han dicho que si fuera algo más que un mito, solo sería una simple coincidencia": dos soles muertos que al chocar hubieran producido una conflagración. No obstante, todo místico conoce la "Estrella" - si, y la "Cruz" también - no solamente como símbolos relacionados con la vida de Jesús y de Cristo, sino en sus experiencias personales. San Pablo dijo: "Hasta que Cristo nazca en vosotros..."; y el místico Angelus Silesius, escribe: 
+Muchas especulaciones se han hecho sobre la naturaleza de esa estrella. La mayoría de los hombres de ciencia materialista la han declarado un mito, en tanto que otros han dicho que si fuera algo más que un mito, solo sería una simple coincidencia": dos soles muertos que al chocar hubieran producido una conflagración. No obstante, todo místico conoce la "Estrella" - si, y la "Cruz" también - no solamente como símbolos relacionados con la vida de Jesús y de Cristo, sino en sus experiencias personales. San Pablo dijo: "Hasta que Cristo nazca en vosotros..."; y el místico Angelus Silesius, escribe: 
 
-
-Though Christ a thousand times in Bethlehem be born  
-And not within thyself, thy soul will be forlorn.  
-The Cross on Golgotha thou lookest to un vain  
-Unless within thyself it be set up again.  
-Traducción:  
+```
 Aunque Cristo naciere mil veces en Belén  
 Si no nace en ti mismo tu alma será perdida.  
 Mirarás en vano la cruz del Gólgota  
 Hasta que se levante en tí mismo.  
+```
 
 Ricardo Wagner muestra su conocimiento intuitivo de artista cuando a la pregunta de Parsifal: "¿Quién es el Grial?", contesta Gurnemanz: 
 
-That tell we not;  
-But if thou hast by Him been bidden,  
-Traducción:  
+```
 Eso no lo decimos;  
 Pero si tú has sido invitado por Él,  
-
-From thee the truth will not stay hidden.  
-...The land to Him no path leads through,  
-And search but severs from Him wider  
-When He Himself is not the Guider.  
-Traducción:  
 La verdad no quedará oculta para ti.  
 ...Ningún sendero conduce por la campiña a Él,  
 Y la búsqueda solo te aparta de Él a mayor distancia aún  
 Si Él mismo no es el Guía.  
+```
 
 Bajo la "antigua dispensación" el sendero de la Iniciación no estaba abierto. Era únicamente para los pocos elegidos. Algunos podían buscar el sendero, pero únicamente los que eran guiados al Templo por los Hierofantes podían encontrar la entrada. Antes del advenimiento de Cristo no había invitación alguna parecida a la actual de que "Todo el que quiera puede venir." 
 
@@ -3064,9 +2987,9 @@ Esta energía solar, física, alcanza su más elevada expresión a mediados del 
 
 Por otro lado, en diciembre(*), durante las largas noches de invierno, la fuerza física solar estará adormecida y las fuerzas espirituales alcanzan su grado máximo de intensidad. 
 
-La Noche entre el 24 y el 25 de diciembre es la Noche Santa por excelencia de todo el año. El signo zodiacal de la inmaculada Virgen celestial está sobre el horizonte oriental hacia la medianoche, y el Sol del año nuevo entonces comienza su jornada desde el punto más austral, hacia el hemisferio norte, para salvar a esa parte de la humanidad (físicamente) de la oscuridad y del hambre que resultarían inevitablemente si permaneciera permanentemente al sur del ecuador. 
+(*) Téngase en cuenta que aquí se está hablando con referencia al hemisferio boreal. En el hemisferio austral quedan invertidos esos términos. (N. del T.). 
 
-(*)Téngase en cuenta que aquí se está hablando con referencia al hemisferio boreal. En el hemisferio austral quedan invertidos esos términos. (N. del T.). 
+La Noche entre el 24 y el 25 de diciembre es la Noche Santa por excelencia de todo el año. El signo zodiacal de la inmaculada Virgen celestial está sobre el horizonte oriental hacia la medianoche, y el Sol del año nuevo entonces comienza su jornada desde el punto más austral, hacia el hemisferio norte, para salvar a esa parte de la humanidad (físicamente) de la oscuridad y del hambre que resultarían inevitablemente si permaneciera permanentemente al sur del ecuador. 
 
 Para los pueblos del hemisferio norte, donde han nacido todas las religiones actuales, el Sol está directamente bajo la Tierra, y las influencias espirituales son fortísimas, en el norte, en la medianoche del 24 de diciembre. 
 
@@ -3090,7 +3013,7 @@ En los tiempos presentes existe la tendencia de irse al otro extremo, exaltando 
 
 El estado de desenvolvimiento en que el hombre siente que es una unidad absolutamente separada, un Ego, que persigue su camino independientemente, es un estado necesario. La unidad nacional, de tribu o de familia, debe romperse antes de que la Fraternidad Universal pueda ser un hecho. El régimen de la paternidad (o patriarcado) ha sido ya ampliamente sustituido por el reinado del Individualismo. Y estamos experimentando los males del último más y más, conforme nuestra civilización va avanzando. Nuestro desordenado método de distribuir los productos del trabajo, la rapacidad de los pocos y la explotación de las masas, son crímenes sociales, pues provocan consunción física, depresiones industriales y perturbaciones obreras que destruyen la paz interna. La guerra industrial de nuestros días es mucho peor y más destructiva que las guerras militares de las naciones. 
 
-#### EL CORAZON ES UNA ANOMALIA
+#### <h4 id="el-corazon-es-una-anomalia">EL CORAZON ES UNA ANOMALIA</h4>
 
 Ninguna lección, aunque su verdad pueda fundarse superficialmente, es de valor real como principio activo de la vida hasta que el corazón la haya aprendido por la aspiración y la amargura, y la lección que el hombre debe aprender así, es que lo que no beneficia a todos, no beneficia realmente a nadie. Durante cerca de 2000 años hemos convenido con los sabios en que debemos gobernar y obrar en nuestra vida de acuerdo con la máxima "devolved bien por mal." El corazón pide benevolencia y amor, pero la Razón pide beligerancia y medidas punitorias, si no como venganza, como medio de prevenir una repetición de hostilidades. Este divorcio entre el corazón y la cabeza es el que impide el crecimiento del verdadero sentimiento de Fraternidad Universal y la adopción de las enseñanzas de Cristo: el Señor del Amor. 
 
@@ -3130,6 +3053,8 @@ Hay en la cabeza tres puntos, cada uno de los cuales es el asiento particular de
 
 El cuerpo de deseos es la expresión pervertida del Ego. Convierte la "individualidad" del espíritu en "egoísmo"(*). La individualidad no busca lo suyo a expensas de los demás. El egoísmo busca la adquisición sin tener en cuenta a los demás. El asiento del Espíritu Humano es primariamente la glándula pineal y secundariamente el cerebro y el sistema cerebro-espinal, que domina a los músculos voluntarios. 
 
+(*) En inglés: It converts the "Selfhood" of the spirit into the "Selfishness" (N. del T.) 
+
 El amor y la unidad en el Mundo del Espíritu de Vida encuentra su contraparte ilusoria en la Región Etérica, a la que está correlacionado por el cuerpo vital, siendo este último el que produce el amor y la unión sexual. El Espíritu de Vida tiene su asiento en el corazón, que es el regente de la sangre que nutre los músculos. 
 
 El inactivo Espíritu Divino -El Obsevador Silencioso- encuentra su expresión material en el pasivo, inerte e insensible esqueleto del cuerpo denso, que es el obediente instrumento de los otros cuerpos, pero que tiene el poder de actuar por propia iniciativa. El Espíritu Divino tiene su fortaleza en el impenetrable punto de la raíz de la nariz. 
@@ -3137,8 +3062,6 @@ El inactivo Espíritu Divino -El Obsevador Silencioso- encuentra su expresión m
 En realidad, no hay más que un solo espíritu: el Ego; pero, mirándolo desde el Mundo Físico, se refracta en tres aspectos, que obran en la forma indicada. 
 
 Conforme la sangre pasa por el corazón, ciclo tras ciclo, hora tras hora, toda la vida, graba los recuerdos que lleva sobre los átomos- simientes, mientras están aquéllos aún frescos, haciendo así un archivo fidelísimo de la vida que se imprimirá después indeleblemente sobre el alma en su existencia post -mortem. Está siempre en estrecho contacto con el espíritu de vida, el espíritu del amor y de la unidad; por lo tanto, el corazón es el foco del amor altruista. 
-
-(*) En inglés: It converts the "Selfhood" of the spirit into the "Selfishness" (N. del T.) 
 
 Conforme esos recuerdos pasan al Mundo del Espíritu de Vida, en el que se encuentra la verdadera memoria de la Naturaleza, no pasan a través de los sentidos físicos inferiores, sino directamente a través del cuarto éter contenido en el aire que respiramos. En el mundo del Espíritu de Vida este espíritu puede ver mucho más claramente que en los mundos más densos. En su elevado hogar está en contacto con la Sabiduría Cósmica, y en cualquier situación sabe inmediatamente lo que hay que hacer y envía su mensaje de acción hacia el corazón, que instantáneamente lo retransmite al cerebro por medio del nervio pneumogástrico, resultando así las "primeras impresiones", los impulsos intuitivos, que son siempre buenos, porque emanan directamente de la fuente de la Sabiduría y del Amor Cósmicos. 
 
@@ -3154,9 +3077,9 @@ Las fibras latitudinales del corazón pueden formarse mediante ciertos ejercicio
 
 Como dijimos al principio de este capítulo, todas las personas deseosas del conocimiento superior pueden tener la más absoluta confianza de que si lo buscan encontrarán el camino abierto para llegar a él. El mismo Cristo preparó el camino para "cualquiera que quisiera." El ayudará y bendecirá a todo investigador verdadero, que esté deseoso de trabajar por la Fraternidad Universal. 
 
-#### EL MISTERIO DEL GÓLGOTA
+#### <h4 id="the-mystery-of-golgotha">EL MISTERIO DEL GÓLGOTA</h4>
 
-Durante los últimos 2000 años mucho se ha escrito sobre la "sangre purificadora." La sangre de Cristo ha sido ensalzada desde el púlpito como el remedio soberano del pecado; el único medio de salvación y redención. 
+Durante los últimos 2000 años mucho se ha escrito sobre la "sangre purificadora." La sangre de Cristo ha sido ensalzada desde el púlpito como el remedio soberano del pecado; el único medio de salvación y redención.
 
 Pero si las leyes del Renacimiento y de Consecuencia obran de tal manera que los seres evolucionados recogen lo que han sembrado, y si el impulso evolutivo está constantemente elevando a la humanidad cada vez más alto hasta alcanzar por último la perfección ¿dónde está, pues, la necesidad de redención o de salvación? Y si aún la necesidad existiere, ¿cómo puede la muerte de un individuo ayudar al resto? ¿No será más noble que sufra las consecuencias de sus propios actos que ocultarse tras otro? Estas son algunas de las objeciones que se hacen a la doctrina de la reparación de los pecados por la substitución y redención por la sangre de Cristo Jesús. Trataremos de contestarlas antes de demostrar la armonía lógica que existe entre la operación de la ley de Consecuencia y la expiación de Cristo. 
 
@@ -3212,7 +3135,7 @@ Cristo Jesús llegó a ese estado en el Monte de la Transfiguración. Es sumamen
 
 Ser matado es muy diferente de morir. La sangre que había sido el vehículo del Espíritu de Raza debía fluir y ser purificada de toda influencia contaminadora. El amor al padre y a la madre con exclusión de todos los demás padres y madres debía abandonarse, pues de otra manera la Fraternidad Universal y el Amor altruista que todo lo abarca no podrían nunca convertirse en hechos reales. 
 
-#### LA SANGRE PURIFICADORA
+#### <h4 id="the-cleansing-blood">LA SANGRE PURIFICADORA</h4>
 
 Cuando el Salvador, Cristo Jesús, fue crucificado, su cuerpo fue herido en cinco sitios: en los cinco centros en los que fluyen las corrientes del cuerpo vital; y la presión de la corona de espinas produjo un flujo en el sexto centro también. (Esto es un vislumbre para los que ya conocen esas corrientes. Una dilucidación amplia de esto no puede darse públicamente por ahora.) 
 
@@ -3246,20 +3169,21 @@ Puedan sus esfuerzos ser coronados por el éxito y apresurar el día en el que l
 
 DIAGRAMA 15 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-### CAPÍTULO XVI DESARROLLO FUTURO E INICIACIÓN
+### <h3 id="chapter-16">CAPÍTULO XVI DESARROLLO FUTURO E INICIACIÓN</h3>
 
-#### LOS SIETE DIAS DE LA CREACIÓN
+#### <h3 id="the-seven-days-of-creation">LOS SIETE DIAS DE LA CREACIÓN</h3>
 
 Los rosacruces llaman al Período Terrestre, Marte-Mercurio. Los Grandes Días de Manifestación creadores están significados en los nombres de los días de la semana, porque éstos han sido denominados según los estados evolutivos por los que han pasado los espíritus virginales en su peregrinación a través de la materia. 
 
-DIA CORRESPONDE AL ESTA REGIDO POR  
-Sábado Período de Saturno Saturno  
-Domingo Período Solar El Sol  
-Lunes Período Lunar La Luna  
-Martes Primera mitad del Período Terrestre Marte  
-Miércoles Segunda mitad del Período Terrestre Mercurio  
-Jueves Período de Júpiter Júpiter  
-Viernes Período de Venus Venus  
+| DIA       | CORRESPONDE AL                      | ESTA REGIDO POR |
+| --------- | ----------------------------------- | --------------- |
+| Sábado    | Período de Saturno                  | Saturno         |  
+| Domingo   | Período Solar                       | El Sol          |
+| Lunes     | Período Lunar                       | La Luna         |
+| Martes    | Primera mitad del Período Terrestre | Marte           |
+| Miércoles | Segunda mitad del Período Terrestre | Mercurio        |
+| Jueves    | Período de Júpiter                  | Júpiter         |
+| Viernes   | Período de Venus                    | Venus           |
 
 El Período de Vulcano es el último Período de nuestro plan evolutivo. La quintaesencia de todos los períodos precedentes es extraída por la recapitulación, espiral tras espiral. Ningún nuevo trabajo se realiza hasta la última Revolución en el último Globo, y entonces únicamente en la Séptima Epoca. Por lo tanto, el Período de Vulcano puede decirse que corresponde a la semana, que incluye todo lo de los siete días. 
 
@@ -3275,9 +3199,11 @@ Estos nombres de los Períodos no tienen nada que ver con los planetas físicos,
 
 La ciencia oculta nos dice que hay 777 encarnaciones, pero no quiere significar que la Tierra sufra 777 metamorfosis. Lo que significa es que la vida evolucionante hace: 
 
+```
 7 Revoluciones en torno de los  
 7 Globos de los  
-7 Períodos Mundiales.  
+7 Períodos Mundiales.
+```  
 
 Este peregrinaje de la involución y de la evolución, incluyendo el camino recto de la Iniciación, está significado en el Caduceo o "Cetro de Mercurio" (véase el diagrama 15), así llamado porque ese símbolo oculto indica el sendero de la Iniciación, que quedó abierto únicamente desde el principio de la mitad-mercurial del Período Terrestre. Algunos de los misterios menores les fueron dados a los primitivos lemures y atlantes, pero no las Cuatro Grandes Iniciaciones. 
 
@@ -3327,7 +3253,7 @@ Al finalizar el Período de Venus, podrá emplear su propia fuerza para dar vida
 
 Muy poco podemos decir acerca de la elevada consciencia espiritual que será alcanzada al finalizar el Período de Vulcano; estaría mucho más allá de nuestra comprensión actual. 
 
-#### ESPIRALES DENTRO DE ESPIRALES
+#### <h4 id="spirals-within-spirals">ESPIRALES DENTRO DE ESPIRALES</h4>
 
 No debe suponerse que esos estados de consciencia comienzan al principio de los Períodos a los que pertenecen y que duran hasta su final. Hay siempre la recapitulación, y por lo tanto deben existir los correspondientes estados de consciencia en escala ascendente. La Revolución de Saturno de cualquier Período, la estada en el Globo A y la primera Epoca de cualquier Globo es una repetición de los estados de desenvolvimiento del Período de Saturno. La Revolución Solar, la estada en el Globo B y la segunda Epoca de cualquier Globo son recapitulaciones de los estados de desarrollo del Período Solar, y así sucesivamente, durante todo el sendero. Se comprenderá, pues, que la consciencia que deba ser el resultado especial y peculiar de cualquier Período no comienza a desarrollarse hasta que se han efectuado todas las recapitulaciones. La consciencia de vigilia del Período Terrestre no comenzó hasta la cuarta revolución, cuando la oleada de vida había llegado al cuarto globo (D) y estaba en la cuarta o Epoca Atlante en ese globo. 
 
@@ -3339,18 +3265,19 @@ El tiempo requerido para pasar a través de esos respectivos Períodos varían g
 
 Los diversos estados de consciencia de los diferentes períodos son los siguientes: 
 
-PERIODOS CONSCIENCIA CORRESPONDIENTE  
-Saturno Inconsciencia, correspondiente al trance profundo.  
-Solar Inconsciencia, correspondiente al sueño sin ensueños.  
-Lunar Consciencia pictórica correspondiente al sueño con ensueños.  
-Terrestre Consciencia de vigilia, objetiva.  
-Júpiter Consciencia propia y de imágenes conscientes.  
-Venus Consciencia objetiva, yo-cosnciente, creadora.  
-Vulcano La más elevada Consciencia Espiritual.  
+| PERIODOS  | CONSCIENCIA CORRESPONDIENTE                                 |
+| --------- | ----------------------------------------------------------- |
+| Saturno   | Inconsciencia, correspondiente al trance profundo           |
+| Solar     | Inconsciencia, correspondiente al sueño sin ensueños        |  
+| Lunar     | Consciencia pictórica correspondiente al sueño con ensueños |  
+| Terrestre | Consciencia de vigilia, objetiva                            |  
+| Júpiter   | Consciencia propia y de imágenes conscientes                |  
+| Venus     | Consciencia objetiva, yo-consciente, creadora               | 
+| Vulcano   | La más elevada Consciencia Espiritual                       |
 
 Habiendo estudiado en general los estados de consciencia que se desarrollarán en los tres Períodos y medio restantes, estudiaremos ahora los medios de conseguirlos. 
 
-#### ALQUIMIA Y CRECIMIENTO DEL ALMA
+#### <h4 id="alchemy-and-soul-growth">ALQUIMIA Y CRECIMIENTO DEL ALMA</h4>
 
 El cuerpo denso comenzó a desarrollarse en el Período de Saturno, pasando a través de varias transformaciones en los Períodos Solar y Lunar, y alcanzará su mayor grado de desenvolvimiento en el Período Terrestre. 
 
@@ -3394,7 +3321,7 @@ El Alma Intelectual será absorbida por el Espíritu de Vida en la sexta revoluc
 
 El Alma Emocional será absorbida por el Espíritu Humano en la quinta revolución del Período de Vulcano. 
 
-#### LA PALABRA CREADORA
+#### <h4 id="the-creative-word">LA PALABRA CREADORA</h4>
 
 La mente es el instrumento más importante de los poseídos por el espíritu, es un instrumento especial en la obra de la creación. La laringe espiritualizada y perfecta hablará la Palabra Creadora, pero la mente perfeccionada decidirá en cuanto a la forma particular y volumen de vibraciones, y será por lo tanto el factor determinante. La Imaginación será la facultad espiritualizada que dirigirá la creación. 
 
@@ -3432,9 +3359,9 @@ Período de Vulcano, porque el último estará entonces dentro del Espíritu Div
 
 Entonces seguirá un largo intervalo de actividad subjetiva, durante el cual los espíritus virginales absorberán todos los frutos del Período septenario de Manifestación. Pasado este intervalo se sumergirán en Dios, de Quien vinieron, para re-emerger al alborear otra Gran Día, como Uno de sus Gloriosos Colaboradores. Durante la pasada evolución sus posibilidades latentes fueron transmutadas en poderes dinámicos. Habrán adquirido Poder de Alma y Mente Creadora, como fruto de su peregrinaje a través de la materia. Habrán avanzado de la impotencia a la Omnipotencia, de la nesciencia a la Omnisciencia. 
 
-### CAPÍTULO XVII: METODO PARA ADQUIRIR EL CONOCIMIENTO DIRECTO
+### <h3 id="chapter-17">CAPÍTULO XVII: METODO PARA ADQUIRIR EL CONOCIMIENTO DIRECTO</h3>
 
-#### Los Primeros Grados
+#### <h4 id="the-first-steps">Los Primeros Grados</h4>
 
 Ha llegado el tiempo de que indiquemos los medios para que cada individuo pueda investigar por sí mismo todos los hechos que estudiamos anteriormente. Como indicamos al principio, no se hacen a nadie "dones" especiales. Todos pueden saber por sí mismos las verdades relacionadas con el peregrinaje del alma, la evolución pasada y el destino futuro del mundo, sin necesitar depender de la veracidad de otro. Hay un método mediante el cual puede adquirirse esa facultad inestimable, y capacitarse para investigar esos dominios suprafísicos; un método por el cual, si se sigue persistentemente, pueden desarrollarse los poderes de un Dios. 
 
@@ -3500,7 +3427,7 @@ Así que todos los sistemas de gobierno patriarcales están cambiando en todo el
 
 Estos son los medios por los cuales se purifican a la larga los diferentes cuerpos de la humanidad; pero el aspirante al conocimiento superior trabaja conscientemente para alcanzar esos fines, por métodos bien definidos, de acuerdo con su constitución. 
 
-#### METODOS OCCIDENTALES PARA LOS OCCIDENTALES
+#### <h4 id="western-methods-for-western-people">METODOS OCCIDENTALES PARA LOS OCCIDENTALES</h4>
 
 En la India se emplean diversos métodos bajo los diferentes sistemas de Yoga. Yoga significa Unión, y, como en el Occidente, el objeto del aspirante es la unión con el Yo Superior; pero, para ser eficaces, los métodos de buscar esa unión deben ser diferentes. Los vehículos de un hindú están diferentemente constituidos de los de un caucásico. Los hindúes han vivido durante muchos años en un ambiente y clima totalmente diferente del nuestro. Han perseguido diferentes métodos de pensamiento, y su civilización, aunque de orden muy elevado, es diferente de la nuestra en sus efectos. Por lo tanto, sería inútil para nosotros adoptar sus métodos, que son producto de los más elevados conocimientos ocultos y perfectamente conveniente para ellos, pero de todo punto inadaptables al occidental, como una comida de avena para un león. 
 
@@ -3528,7 +3455,7 @@ Por otro lado, si a despecho de las incomodidades se cultiva un temperamento ecu
 
 El tratar de cultivar las emociones también reacciona sobre los otros vehículos y los mejora. 
 
-#### LA CIENCIA DE LA NUTRICION
+#### <h4 id="the-science-of-nutrition">LA CIENCIA DE LA NUTRICION</h4>
 
 Si comenzamos con el vehículo denso y consideramos los medios físicos para mejorarlo y convertirlo en el mejor instrumento posible del espíritu, y después estudiamos los medios espirituales conducentes al mismo fin, comprenderemos en nuestro estudio a todos los demás vehículos, y por lo tanto, será éste el método que seguiremos. 
 
@@ -3612,13 +3539,15 @@ La caloría es la simple unidad de calor, y la tabla muestra el número que de e
 
 El número de calorías necesarias para sustentar al cuerpo bajo las distintas condiciones, se muestra la tabla siguiente: 
 
-El hombre con trabajo muscular muy fuerte.......................5.500 calorías  
-El hombre con trabajo muscular moderadamente fuerte.......4.150 "  
-El hombre con trabajo muscular moderadamente activo.......3.400 "  
-El hombre con trabajo moderadamente liviano....................3.050 "  
-El hombre con trabajo sedentario....................................2.700 "  
-El hombre que no hace ejercicio muscular.........................2.450 "  
-La mujer con trabajo manual liviano o moderado.................2.450 "  
+|                                                     |                |
+| --------------------------------------------------- | -------------- |
+| El hombre con trabajo muscular muy fuerte           | 5.500 calorías |
+| El hombre con trabajo muscular moderadamente fuerte | 4.150 "        |
+| El hombre con trabajo muscular moderadamente activo | 3.400 "        |     
+| El hombre con trabajo moderadamente liviano         | 3.050 "        |
+| El hombre con trabajo sedentario                    | 2.700 "        |
+| El hombre que no hace ejercicio muscular            | 2.450 "        |
+| La mujer con trabajo manual liviano o moderado      | 2.450 "        |
 
 De acuerdo con la Tabla de Valores Alimentarios, es evidente que el chocolate es el alimento más nutritivo que tenemos, así como el cacao en polvo es el más peligroso de todos los alimentos, conteniendo tres veces más cenizas que la mayoría de los demás, y diez veces más que muchos de ellos. Es un alimento poderoso y también un veneno poderoso; porque endurece el sistema mucho más rápidamente que cualquier otra substancia. 
 
@@ -3640,19 +3569,20 @@ Es por lo tanto, de la mayor importancia que el aspirante que quiera usar su cue
 
 La siguiente tabla muestra la proporción de ácido fosfórico en unos cuantos artículos: 
 
-100.000 partes de  
-Cebada seca. contienen de ácido fosfórico 210 partes  
-Alubias (porotos, fríjoles, judías) 292 "  
-Remolacha 167 "  
-Remolacha, hojas de 690 "  
-Alforfón (trigo sarraceno) 170 "  
-Zanahorias secas 395 "  
-Zanahorias, hojas de 963 "  
-Linaza 880 "  
-Lino, tallos de 118 "  
-Chirivía 111 "  
-Chirivía, hojas de 1.784 "  
-Guisantes 190 "  
+| 100.000 partes de                   | contienen de ácido fosfórico |
+| ----------------------------------- | ---------------------------- |
+| Cebada seca.                        | 210 partes                   |
+| Alubias (porotos, fríjoles, judías) | 292 "                        |
+| Remolacha                           | 167 "                        |
+| Remolacha, hojas de                 | 690 "                        |
+| Alforfón (trigo sarraceno)          | 170 "                        |
+| Zanahorias secas                    | 395 "                        |
+| Zanahorias, hojas de                | 963 "                        |
+| Linaza                              | 880 "                        |
+| Lino, tallos de                     | 118 "                        |
+| Chirivía                            | 111 "                        |
+| Chirivía, hojas de                  | 1.784 "                      |
+| Guisantes                           | 190 "                        |
 
 La substancia de las indicaciones precedentes puede resumirse así: 
 
@@ -3670,13 +3600,13 @@ El primer cuidado del médico es siempre comprobar si las excreciones se efectú
 
 En conclusión, el aspirante debe elegir el alimento que pueda digerir mejor, porque cuanto más fácilmente se efectúe esa función, tanto mayor es la energía extraída del alimento y tanto más tiempo tendrá el sistema para recuperarse antes de que sea necesario comer de nuevo. La leche no debe beberse nunca como si uno bebiera un vaso de agua. Debe tomarse a sorbitos, como el té o el café. Entonces formará muchos glóbulos pequeños en el estómago que serán fácilmente asimilados. Tomada debidamente, es uno de los mejores artículos posibles de la dieta. Las frutas cítricas(*) son poderosos antisépticos; y los cereales, especialmente el arroz, son antitoxinas de gran eficacia. 
 
+(*) Limones, naranjas, etc. (N. del T.) 
+
 Habiendo explicado, pues, lo que es necesario al cuerpo denso desde el punto de vista material, puramente físico, consideraremos ahora el asunto desde el punto de vista oculto, tomando en consideración el efecto que se produce sobre los dos cuerpos invisibles que interpenetran al cuerpo denso. 
 
 El punto de asidero especial del cuerpo de deseos está en los músculos y en el sistema nervioso cerebroespinal, como dijimos anteriormente. La energía desplegada por una persona cuando trabaja bajo una excitación u odio, es un buen ejemplo de ello. En tales ocasiones, todo el sistema muscular está en tensión y ninguna labor, por dura que sea, es tan extenuante como un "acceso de ira." Este puede a veces dejar al cuerpo extenuado durante semanas enteras. Puede, pues, verse la imprescindible necesidad de mejorar el cuerpo denso gobernando el carácter, evitando así los sufrimientos que resultan de la acción desordenada del cuerpo de deseos. 
 
-Mirando el asunto desde el punto de vista oculto, toda conciencia del Mundo Físico es el resultado de la guerra constante entre los cuerpos de deseos y vital. 
-
-(*) Limones, naranjas, etc. (N. del T.) 
+Mirando el asunto desde el punto de vista oculto, toda conciencia del Mundo Físico es el resultado de la guerra constante entre los cuerpos de deseos y vital.
 
 La tendencia del cuerpo vital es la de ablandar y construir. Su expresión principal se encuentra en la sangre y en las glándulas, así como en el sistema nervioso simpático, habiendo obtenido ingreso en la plaza fuerte del cuerpo de deseos (los sistemas muscular y nerviosos voluntarios), cuando comenzó a convertir el corazón en músculo voluntario. 
 
@@ -3690,7 +3620,7 @@ Hubo un tiempo muy lejano, mucho más antiguo que aquel en el que creamos las pr
 
 Ese es el mayor desarrollo del cuerpo denso. Esto no significa que los animales que tienen un esqueleto similar al hombre, en cuanto a perfección, posean espíritu interno. No lo tienen, pues pertenecen a una corriente diferente de evolución. 
 
-#### LA LEY DE ASIMILACION
+#### <h4 id="the-law-of-assimilation">LA LEY DE ASIMILACION</h4>
 
 La ley de asimilación no permite que ninguna partícula entre a formar parte de nuestro cuerpo si nosotros, como espíritus, no la hemos dominado y sujetado a nosotros mismos. Las fuerzas activa en ello, son, como recordaremos, principalmente nuestros "muertos", que ya han entrado en el "cielo" y que están allí aprendiendo a construir cuerpos para usarlos aquí; pero trabajan de acuerdo con ciertas leyes que no está en su poder tergiversar. En toda partícula de alimento que ingerimos hay vida, y antes de que podamos agrupar esa vida en nuestro cuerpo por el proceso de asimilación, es necesario que la dominemos y sujetemos a nosotros mismos. En caso contrario no podría haber armonía en el cuerpo. Cada parte obraría independientemente, como lo hace cuando la vida coordinadora se retira del cuerpo. Eso es lo que llamamos desintegración, que es, precisamente, lo opuesto de asimilación. Cuanto más individualizada está la partícula que hay que asimilar, tanta mayor energía se requiere para dirigirla y tanto menos tiempo permanecerá sin buscarle alguna salida para libertarse. 
 
@@ -3704,42 +3634,30 @@ Por lo tanto, si la carne obtenida de los hervíboros es una dieta tan inestable
 
 Si la carne de un herbívoro fuera la esencia de lo bueno que tienen las plantas, entonces, lógicamente, la carne de los carnívoros sería la quintaesencia. La carne de los lobos y de los buitres sería pues, la crema de la crema, y mucho más deseable. Pero sabemos que no es ése el caso, sino al revés completamente. Cuanto más nos aproximamos al reino vegetal, tanta más energía derivamos de nuestro alimento. Si el reverso fuera el caso, la carne de los animales carnívoros sería muy buscada por otros animales de presa; pero ejemplos tales como de que "el perro que se coma al perro" son rarísimos en la Naturaleza. 
 
-#### VIVID Y DEJAD VIVIR
+#### <h4 id="live-and-let-live">VIVID Y DEJAD VIVIR</h4>
 
 La primera ley de la ciencia oculta es "no matarás", y esto debe tenerlo muy en cuenta el aspirante a la vida superior. No podemos crear ni siquiera una partícula de barro, y, por lo tanto, no tenemos derecho a destruir ni la más mínima forma. Todas las formas son expresiones de la Vida Una, de la Vida de Dios. No tenemos derecho a destruir la Forma por medio de la cual está la Vida adquiriendo experiencia y obligarla a construirse un nuevo vehículo. 
 
 Ella Wheeler Wilcox con la verdadera compasión de todas las almas avanzadas, campeones de la máxima ocultista, escribió las siguientes hermosísimas palabras: 
 
-I am the voice of the voiceless  
-Through me the dumb shall speak  
-Till a deaf world's ear  
-Shall be made to hear  
-The wrongs of the wordless weak.  
-The same force formed the sparrow  
-That fashioned man, the king.  
-The God of the Whole  
-Gave a spark of soul  
-To furred and feathered thing.  
-And I am my brother's keeper;  
-And will figth his fight  
-And speak the word  
-For beast and bird  
-Till the world shall set things right."  
-Traducción:  
+```
 "Yo soy la voz de los que no hablan  
 Y por mí hablarán los que son mudos  
 Y mi voz resonará en los oidos del mundo hasta el cansancio  
 Hasta escuche y sepa los errores que comete con los débiles que carecen de palabra.  
+
 El mismo poder formó el gorrión  
 El hombre, y el rey.  
 El Dios del todo dio  
 Una chispa anímica  
 A todos los seres de pelo o pluma.  
+
 Yo soy el guardían de mi hermano;  
 Y yo libraré su batalla  
 Y hablaré en defensa  
 Del animal y del ave,  
-Hasta que el mundo haga las cosas como se debe.  
+Hasta que el mundo haga las cosas como se debe.
+``` 
 
 Algunas veces se objeta que también tomamos la vida cuando comemos vegetales y frutas; pero esta objeción está basada sobre una mal entendida comprensión de los hechos. Cuando la fruta está madura, ya ha realizado su propósito, que es como matriz para la simiente. Si no se come se pudre y pierde. Además, está destinada a servir de alimento del animal y al hombre, proporcionando así a la simiente una oportunidad para crecer al caer en un suelo fértil. Además, de igual manera que el óvulo y el semen de los seres humanos es estéril sin el átomo-simiente del Ego reencarnante y sin la matriz del cuerpo vital, así también cualquier huevo o semilla en sí misma está desprovista de vida. Si se le proporcionan las condiciones necesarias de incubación o tierra, la vida del espíritu-grupo entra en ella, aprovechando así la oportunidad para asegurarse la producción de un cuerpo denso. Si al huevo o a la se les aplasta, se cocinan o no se les proporcionan las condiciones necesarias para la vida, la oportunidad se pierde, y eso es todo. 
 
@@ -3747,11 +3665,11 @@ En el estado actual de nuestra jornada evolutiva, todos sabemos ya que está mal
 
 ¡Cuánto más hermoso no sería para el hombre el jugar su papel de amigo y protector del débil! ¿A quién no le agrada visitar el Parque Central de Nueva York y acariciar y dar de comer a los centenares de ardillas que corren de un lado para otro, teniendo la seguridad de que no serán molestadas? ¿Y quién no se alegra al ver el letrero que dice: "Se matará a todo perro que se encuentre persiguiendo a las ardillas" (*) Esto es duro para los perros, pero es una evidencia del creciente sentimiento de favorecer y proteger al débil contra la fuerza irracional y egoísta del fuerte. Nada se dice en aquel letrero sobre si las ardillas pudieran ser molestadas por los hombres, porque eso sería imposible. Tan fuerte es la influencia de la confianza de los pequeños y alegres animalitos en la bondad del hombre, que éste no la violaría. 
 
-#### EL PADRE NUESTRO
+(*) "Dogs found chasing the squirrels will be shot." (N. del T.) 
+
+#### <h4 id="the-lords-prayer">EL PADRE NUESTRO</h4>
 
 Volviendo a nuestra consideración de las ayudas espirituales para el progreso humano, podemos considerar al Padre Nuestro como una fórmula algebraica, abstracta, para el mejoramiento y la purificación de todos los vehículos del hombre. La idea de prestar el cuidado necesario al cuerpo denso está expresada en las palabras: "El pan nuestro de cada día dánosle hoy." 
-
-(*) "Dogs found chasing the squirrels will be shot." (N. del T.) 
 
 La oración que se refiere a las necesidades del cuerpo vital es: "Perdónanos nuestras deudas, así como nosotros perdonamos a nuestros deudores." 
 
@@ -3801,7 +3719,7 @@ La introducción, "Padre nuestro que estás en los cielos", es, sencillamente, c
 
 El diagrama 16 ilustrará la explicación antecedente de una forma fácil y sencilla, mostrando la relación entre las diferentes oraciones y los vehículos correspondientes. 
 
-#### EL VOTO DE CASTIDAD
+#### <h4 id="the-vow-of-celibacy">EL VOTO DE CASTIDAD</h4>
 
 La perversión sexual, o la erotomanía, es una prueba de la afirmación que hacen los ocultistas de que una parte de la fuerza sexual construye el cerebro. El erotómano se convierte en un idioma, incapaz de pensar, debido a que exterioriza no solamente la parte negativa o positiva de la fuerza sexual (según sea macho o hembra) que se emplea normalmente por los órganos sexuales para la generación, sino que además exterioriza parte de la fuerza que organizaría el cerebro, haciéndolo apto para pensar; y de ahí las deficiencias mentales de aquél. 
 
@@ -3843,7 +3761,7 @@ Puede añadirse, además, que es peor estar sufriendo el hálito abrasador del d
 
 El aspirante a la vida superior puede triunfar solamente en proporción directa a la subyugación de su naturaleza inferior, pero debe guardarse muy bien de irse al otro extremo. 
 
-#### EL CUERPO PITUITARIO Y LA GLANDULA PINEAL
+#### <h4 id="the-pituitary-body-and-the-pineal-gland">EL CUERPO PITUITARIO Y LA GLANDULA PINEAL</h4>
 
 En el cerebro, aproximadamente en la posición indicada en el diagrama 17, existen dos pequeños órganos llamados el cuerpo pituitario y la glándula pineal. La ciencia médica no sabe casi nada acerca de ellos, así como tampoco de otras glándulas del cuerpo. Aquélla denomina a la glándula pineal "el tercer ojo atrofiado", pero, sin embargo, ni la una ni el otro están atrofiándose. Esto es manantial de perplejidades para los científicos, pues la Naturaleza no conserva nada inútil. En todo el cuerpo encontramos órganos que están desarrollándose o atrofiándose, siendo éstos algo así como piedras milenarias en el sendero que el hombre ha seguido hasta llegar a su estado actual de desenvolvimiento, indicando éstas los futuros perfeccionamientos y desarrollos. Por ejemplo, los músculos que los animales emplean para mover las orejas se hallan también en el hombre, pero como se están atrofiando, muy pocas personas pueden moverlas. El corazón pertenece a la clase de los que prometen desarrollo futuro, y como ya indicamos, se está convirtiendo en un músculo voluntario. 
 
@@ -3867,7 +3785,7 @@ Para volver a obtener el contacto con los mundos internos, todo lo que hay que h
 
 El despertar de esos órganos se efectúa mediante la educación o entrenamiento esotérico, que describiremos ahora, en lo que puede hacerse públicamente. 
 
-#### EDUCACION ESOTERICA
+#### <h4 id="esoteric-training">EDUCACION ESOTERICA</h4>
 
 En la mayoría de los hombres, la mayor parte de la fuerza sexual que legítimamente puede usarse por los órganos de generación se emplea para la gratificación de los sentidos; por lo tanto, en esos hombres hay muy poca corriente ascendente a la que hace referencia el diagrama 17. 
 
@@ -3889,7 +3807,7 @@ Como ya indicamos en el comienzo de esta obra, el neófito debe aprender a ver e
 
 Hay también otra distinción importantísima que hacer. El poder que le permite a uno percibir los objetos de un mundo no es idéntico al poder de entrar en ese mundo y funcionar en él. El clarividente voluntario, aún cuando haya recibido algún entrenamiento y pueda distinguir lo verdadero de lo falso en el Mundo del Deseo, está prácticamente en la misma relación como un prisionero tras la enrejada ventana que los separa del mundo externo; puede verlo, pero no puede funcionar en él. Por lo tanto, la educación o ejercitamiento esotérico no solamente abre la visión interna del aspirante, sino que a su debido tiempo se le dan ejercicios que le suministran un vehículo en el cual puede funcionar en los mundos internos de una manera perfectamente consciente. 
 
-#### COMO SE ORGANIZAN LOS VEHÍCULOS INTERNOS
+#### <h4 id="how-the-inner-vehicle-is-built">COMO SE ORGANIZAN LOS VEHÍCULOS INTERNOS</h4>
 
 En la vida corriente, la mayoría de la gente vive para comer, beben, satisfacen su pasión sexual de la manera más desenfrenada y pierden la cabeza a la más ligera provocación. Aunque exteriormente esa gente pueda ser muy "respetable", están produciendo casi todo el día la mayor confusión en su organismo. El período todo del sueño lo necesitan los cuerpos vital y de deseos para reparar los estragos producidos en el día, no quedando tiempo alguno para trabajar internamente en nada. Pero conforme el individuo comienza a sentir las necesidades de la vida superior, a dominar la fuerza sexual y el carácter y a cultivar una disposición serena, se producen menos perturbaciones en los vehículos durante las horas de vigilia; por consiguiente, entonces se requiere menos tiempo para reparar los desgastes durante el sueño. Y entonces es posible abandonar el cuerpo denso durante largos períodos, en las horas dedicadas al sueño, pudiendo funcionar en los mundos internos con sus vehículos superiores. Como el cuerpo de deseos y la mente no están organizados todavía, no pueden emplearse como vehículos separados a consciencia. Y como el cuerpo vital no puede abandonar tampoco el cuerpo denso porque eso produciría la muerte de ese último, es evidente que habrá algún medio para proporcionar un vehículo organizado que sea fluídico y construido en forma tal que satisfaga las necesidades del Ego en los mundos internos, así como el cuerpo denso las satisface en el Mundo Físico. 
 
@@ -3921,7 +3839,7 @@ No se pueden dar promiscuamente indicaciones específicas para libertar a los ve
 
 El tiempo más favorable para ejercitarla es al despertar por la mañana, antes de que las molestias y cuidados de la vida diaria hayánse apoderado de la mente. En ese momento acaba uno de dejar los mundos internos y, por lo tanto, puede volver a ponerse en contacto con ellos con más facilidad que en cualquier otra hora del día. No esperéis a vestiros o sentaros en la cama, sino relájese el cuerpo perfectamente, y que el ejercicio sea el primer pensamiento del día. La relajación o laxación no significa simplemente una posición confortable; es posible mantener todos los músculos tensos con expectación, y ese solo hecho frustra el objeto, porque en ese estado el cuerpo de deseos está presionando a los músculos. No puede ser de otra manera hasta que calmemos la mente. 
 
-#### CONCENTRACIÓN
+#### <h4 id="concentration">CONCENTRACIÓN</h4>
 
 Lo primero que hay que practicar es mantener los propios pensamientos sobre un ideal y mantenerlos así sin permitir que se desvíen. Es una tarea sumamente difícil, pero debe ser realizada en alguna extensión, por lo menos, antes de que pueda hacerse algún progreso ulterior. El pensamiento es el poder que empleamos para formar imágenes mentales, pensamientos-forma o idea-ciones, de acuerdo con nuestras ideas internas. Es nuestro poder principal y tenemos que aprender mantenerlo bajo nuestro absoluto dominio, de manera que lo que produzcamos no sean fugaces ilusiones inducidas por las circunstancias exteriores, sino verdaderas imaginaciones generadas por el espíritu desde el interior (Véase el diagrama 1.) 
 
@@ -3947,7 +3865,7 @@ Cuando el aspirante puede formar tales imaginaciones y cuando ha conseguido mant
 
 Durante largo tiempo puede no aparecer nada y el aspirante debe guardarse cuidadosamente de crearse visiones él mismo, pero si guarda esa actitud puntual y pacientemente todas las mañanas, vendrá un día que en el momento de desaparecer aquella imagen en algo así como un relámpago, se desplegará el Mundo del Deseo de su alrededor ante su visión interna. Al principio puede ser nada más que una vislumbre, pero es una vislumbre de lo que vendrá más tarde. 
 
-#### MEDITACIÓN
+#### <h4 id="meditation">MEDITACIÓN</h4>
 
 Cuando el aspirante ha practicado la concentración durante algún tiempo, enfocando la mente sobre un mismo objeto, construyendo un pensamiento-forma viviente por medio de la facultad imaginativa, aprenderá, por medio de la Meditación, todo lo referente al objeto así creado. 
 
@@ -3957,7 +3875,7 @@ Cuando la imagen de la mesa se ha formado claramente en la mente, tratad de pens
 
 De esta manera, por medio de la meditación, nos hemos familiarizado con varias ramas de la industria, necesarias para convertir un árbol del bosque en una pieza de moblaje. Hemos visto todas las máquinas y hombres y observado las peculiaridades de los diferentes lugares visitados. Hemos seguido además el proceso de la vida por el cual surgió el árbol de la delicada semilla, y hemos aprendido que tras toda apariencia, por común que sea, hay una historia interesante en sumo grado. Un alfiler; el fósforo con el que encendemos el gas; el gas mismo; y la habitación en la que encendemos ese gas, todos tienen historias muy interesantes que bien vale la pena de aprender. 
 
-#### OBSERVACIÓN
+#### <h4 id="observation">OBSERVACIÓN</h4>
 
 Uno de los más poderosos auxiliares del aspirante en sus esfuerzos es la observación. La mayoría de los hombres van por el mundo casi ciegos. De ellos es literalmente cierto el que "tiene ojos y no ven... tienen oídos y no oyen." En la mayor parte de la humanidad hay una falta deplorable de observación. 
 
@@ -3967,7 +3885,7 @@ Es muy importante para el aspirante a la vida superior el que pueda ver todas la
 
 Si el estado de la vista requiere el empleo de dos focos, no debe contentarse con tener dos pares de anteojos, uno para las cosas próximas y otro para las lejanas, porque eso necesita cambios muy frecuentes. Y no solamente se necesita cambiarlos con frecuencia, sino que puede olvidárselos uno en casa al salir. Pueden tenerse los dos focos en un par de lentes bifocales, y éstos son los que deben usarse para facilitar la observación en los menores detalles. 
 
-#### DISCERNIMIENTO
+#### <h4 id="discernimiento">DISCERNIMIENTO</h4>
 
 Cuando el aspirante ha atendido ya a su vista, debe observar sistemáticamente todas las cosas y a todo el mundo, deduciendo conclusiones de los actos, para cultivar la facultad de razonamiento lógico. La lógica es el mejor instructor en el Mundo Físico, así como el guía más seguro en cualquier mundo. 
 
@@ -3983,13 +3901,13 @@ Esos dos ejercicios mentales se refieren en la más profunda manera imaginable a
 
 El nombre de este estado es Contemplación. 
 
-#### CONTEMPLACIÓN
+#### <h4 id="contemplation">CONTEMPLACIÓN</h4>
 
 En la contemplación no se necesita imaginar o pensar para conseguir la información deseada, como en la meditación. Aquélla consiste simplemente en mantener el objeto ante la visión mental y dejar que el alma de aquél nos hable. Reposamos tranquilamente sobre el lecho -no negativamente, sino perfectamente alerta- esperando la información que vendrá con toda seguridad si hemos ya alcanzado el debido grado de desenvolvimiento. Entonces la Forma del objeto parece desvanecerse y vemos únicamente a la Vida en trabajo. La contemplación nos enseñará todo lo referente al aspecto vital, así como la meditación nos enseñó lo referente a la forma. 
 
 Cuando llegamos a este estado y tenemos ante nosotros por ejemplo a un árbol del bosque, perdemos de vista a la forma por completo y solo vemos la Vida, que en ese caso es un espíritu-grupo. Nos encontraremos entonces, para nuestro asombro, con que el espíritu-grupo del árbol comprende también a los diversos insectos que de él se alimentan; que el parásito y su presa son emanaciones del mismo espíritu-grupo, porque cuanto más ascendemos en los dominios de lo invisible, hay menos formas separadas y distintas, y la Vida Una predomina más completamente, imprimiendo sobre el investigador el hecho supremo, de que no hay sino Una vida -la Vida Universal de Dios, en Quien en realidad "vivimos, nos movemos y tenemos nuestro Ser"-. Los minerales, las plantas, los animales y el hombre -todos sin excepción- son manifestaciones de Dios, y este hecho suministra las bases de la Fraternidad, una fraternidad que lo incluye todo, desde el átomo hasta el Sol, porque todos son emanaciones de Dios. El concepto de fraternidad que se basa sobre otra fundación cualquiera, tal como las distinciones de clases, afinidades de raza, ocupación similar, etc., fracasarían, porque el ocultista comprende claramente que la Vida Universal fluye en todo lo que existe. 
 
-#### ADORACIÓN
+#### <h4 id="adoration">ADORACIÓN</h4>
 
 Cuando se ha alcanzado esa altura por medio de la contemplación, cuando el aspirante ha comprendido que es verdad que Dios sustenta toda vida penetrando en todas las cosas, hay que dar aún el paso más elevado, la Adoración, por medio de la cual se unirá él mismo con la Fuente de todas las cosas, alcanzando por ese acto la mayor altura posible de realización para el hombre, hasta que llegue el tiempo en el que esa unión permanente tenga lugar al final del gran Día de Manifestación. 
 
@@ -3999,7 +3917,7 @@ El tiempo requerido para producir resultados por medio de los diversos ejercicio
 
 Desde entonces -despierto o dormido, a través de todo lo que el hombre vida y de lo que llama muerte- su conciencia será ininterrumpida. Llevará una existencia continua consciente, beneficiándose de todas las condiciones que permiten un avance más rápido hacia puestos de mayor responsabilidad, para ser empleados en beneficio de la humanidad. 
 
-### CAPÍTULO XVIII: CONSTITUCIÓN DE LA TIERRA Y ERUPCIONES VOLCANICAS
+### <h3 id="chapter-18">CAPÍTULO XVIII: CONSTITUCIÓN DE LA TIERRA Y ERUPCIONES VOLCANICAS</h3>
 
 Aun entre los ocultistas se considera como uno de los más difíciles problemas el investigar la misteriosa construcción de la Tierra. Todo ocultista sabe que es mucho más fácil investigar el Mundo del Deseo y la Región del Pensamiento Abstracto y traer los resultados de dicha investigación al Mundo físico, que el investigar completamente los secretos de nuestro planeta Físico, porque para hacer eso plenamente, debe uno haber pasado por las nueve Iniciaciones o Misterios menores y la primera de las Grandes Iniciaciones. 
 
@@ -4011,7 +3929,7 @@ Las diferentes clases de cuarzos, los metales, la disposición de los varios est
 
 El conocer los diversos estratos de la Tierra y las posiciones relativas de los planetas en el firmamento sin conocer su empleo y significado en la vida y el objeto del Cosmos, es tan inútil como conocer únicamente las posiciones de los huesos, músculos, nervios, etcétera, sin comprender las funciones que desempeñan en la economía del cuerpo. 
 
-#### EL NÚMERO DE LA BESTIA
+#### <h4 id="the-number-of-the-beast">EL NÚMERO DE LA BESTIA</h4>
 
 Ante la visión educada del clarividente, iniciado en los varios grados de Misterios, la Tierra se presenta como compuesta de estratos, semejante a una cebolla, estando cada capa o estrato sobre otro. Hay nueve estratos y la costra central; diez en total. Cada estrato se le va haciendo accesible con cada iniciación, así que al final de las nueve iniciaciones, domina todas las capas, pero no tiene acceso a los secretos del corazón central. 
 
@@ -4039,21 +3957,21 @@ En las diversas escuelas de ciencia oculta, los ritos iniciáticos varían así 
 
 El diagrama 18 dará una idea de la posición de los estratos terrestres, omitiéndose indicar el corazón central, para mostrar más claramente la formación de corrientes en forma de 8 en el noveno estrato. En el diagrama, esos estratos están representados como si tuvieran igual espesor, aunque en realidad unos son mucho más delgados que otros. Empezando con el más exterior, aparecen en el orden siguiente: 
 
-1) Tierra Mineral: Esa es la cubierta o costra externa de la Tierra, de la que trata la Geología en todo lo que ha podido penetrarla. 
+(1) Tierra Mineral: Esa es la cubierta o costra externa de la Tierra, de la que trata la Geología en todo lo que ha podido penetrarla. 
 
-2) Estrato Fluídico: La materia de este estrato es más fluídica que la de la costra exterior, pero no es líquida, sino más bien parecida a una pasta viscosa y espesa. Tiene la cualidad de expansión, como la de un gas excesivamente explosivo, y queda mantenida en su lugar por la enorme presión de la corteza exterior. Si ésta se quitara, todo el estrato fluídico desaparecería en el espacio produciendo una explosión formidable. Esos estratos corresponden a las Regiones Química y Etérica del Mundo Físico. 
+(2) Estrato Fluídico: La materia de este estrato es más fluídica que la de la costra exterior, pero no es líquida, sino más bien parecida a una pasta viscosa y espesa. Tiene la cualidad de expansión, como la de un gas excesivamente explosivo, y queda mantenida en su lugar por la enorme presión de la corteza exterior. Si ésta se quitara, todo el estrato fluídico desaparecería en el espacio produciendo una explosión formidable. Esos estratos corresponden a las Regiones Química y Etérica del Mundo Físico. 
 
-3) Estrato Vaporoso: En los estratos primero y segundo, no hay realmente vida consciente. Pero en este estrato existe siempre una corriente de vida fluyendo continuamente, vibrante, como en el Mundo del Deseo, rodeando e interpretando nuestra Tierra. 
+(3) Estrato Vaporoso: En los estratos primero y segundo, no hay realmente vida consciente. Pero en este estrato existe siempre una corriente de vida fluyendo continuamente, vibrante, como en el Mundo del Deseo, rodeando e interpretando nuestra Tierra. 
 
-4) Estrato Acuoso: En este estrato están todas las posibilidades germinales de todo lo que existe sobre la superficie de la Tierra. Aquí están las fuerzas arquetípicas que se ocultan tras los espíritus-grupo, así como las fuerzas arquetípicas de los minerales, porque ésta es la expresión física directa de la Región del Pensamiento Concreto. 
+(4) Estrato Acuoso: En este estrato están todas las posibilidades germinales de todo lo que existe sobre la superficie de la Tierra. Aquí están las fuerzas arquetípicas que se ocultan tras los espíritus-grupo, así como las fuerzas arquetípicas de los minerales, porque ésta es la expresión física directa de la Región del Pensamiento Concreto. 
 
-5) Estrato Germinal: Los científicos materialistas se han visto burlados en sus esfuerzos para descubrir el origen de la vida, como surgieron cosas vivientes de la materia antes muerta. En realidad, de acuerdo con la explicación oculta de la evolución, la cuestión debería ser: Cómo se originaron las cosas "muertas." La Vida fue anterior a las Formas muertas. Ella construyó sus cuerpos de la substancia vaporosa y sutil, mucho antes de condenarse en la corteza sólida de la Tierra. Unicamente cuando la Vida ha abandonado a las formas pueden éstas cristalizarse, endurecerse y morir. 
+(5) Estrato Germinal: Los científicos materialistas se han visto burlados en sus esfuerzos para descubrir el origen de la vida, como surgieron cosas vivientes de la materia antes muerta. En realidad, de acuerdo con la explicación oculta de la evolución, la cuestión debería ser: Cómo se originaron las cosas "muertas." La Vida fue anterior a las Formas muertas. Ella construyó sus cuerpos de la substancia vaporosa y sutil, mucho antes de condenarse en la corteza sólida de la Tierra. Unicamente cuando la Vida ha abandonado a las formas pueden éstas cristalizarse, endurecerse y morir. 
 
 El carbón de piedra no es nada más que cuerpos vegetales cristalizados; el coral es también la cristalización de formas animales. La vida abandona a las formas y las formas mueren. La vida nunca entra en una forma para despertarla a la vida. La vida salió de las formas y las formas murieron. De esta manera es como las cosas "muertas" vinieron a ser. 
 
 En este quinto estrato yace la fuente primordial de la vida, de la que vino el ímpetu que construyó todas las formas de la Tierra. Corresponde a la Región del Pensamiento Abstracto. 
 
-6) Estrato Igneo: Por extraño que parezca, este estrato posee sensación. El placer y el dolor, la simpatía y la antipatía, tienen aquí su efecto sobre la Tierra. Generalmente se supone que la Tierra no puede tener sensación alguna bajo ninguna circunstancia. El ocultista, sin embargo, cuando ve segar el grano maduro o arrancar las frutas de los árboles en el otoño, o el cortar las flores, sabe el placer que experimenta la Tierra misma en ello. Es parecido al placer que siente la vaca cuando el ternero vacía sus ubres repletas. La Tierra experimenta un gran placer por haber nutrido a su progenie de Formas, alcanzando ese placer su mayor grado en el tiempo de la siega. 
+(6) Estrato Igneo: Por extraño que parezca, este estrato posee sensación. El placer y el dolor, la simpatía y la antipatía, tienen aquí su efecto sobre la Tierra. Generalmente se supone que la Tierra no puede tener sensación alguna bajo ninguna circunstancia. El ocultista, sin embargo, cuando ve segar el grano maduro o arrancar las frutas de los árboles en el otoño, o el cortar las flores, sabe el placer que experimenta la Tierra misma en ello. Es parecido al placer que siente la vaca cuando el ternero vacía sus ubres repletas. La Tierra experimenta un gran placer por haber nutrido a su progenie de Formas, alcanzando ese placer su mayor grado en el tiempo de la siega.
 
 Por otro lado, cuando se arrancan las plantas de raíz, es evidente que el ocultista que la Tierra siente un dolor. Por esa razón aquél no come los alimentos vegetales que crecen bajo la Tierra. En primer lugar, están llenos de fuerza terrestre y carecen de fuerza solar, además de estar envenenados por haber sido extraídos por las raíces. La única excepción a esta regla es la patata, de la que come con prudencia, porque originalmente crecía en la superficie de la Tierra y solo en tiempos relativamente recientes comenzó a crecer bajo el suelo. Los ocultistas tratan de alimentar sus cuerpos con los frutos que crecen bajo el Sol, porque contienen más fuerza solar y de calidad superior, y no causan sufrimiento alguno a la Tierra con ello. No debe creerse que los trabajos de labranza produzcan dolor alguno a la Tierra, pues es al revés. Toda desintegración de la corteza dura de ella le produce un sentimiento de libertad, de comodidad, como cuando a uno le sacan un peso de encima, y toda solidificación es fuente de dolor. Cuando en una montaña el torrente lava el suelo y lo lleva a la llanura, la Tierra se siente más libre. Cuando la materia desintegrada se deposita de nuevo, como en la barra que se forma frente a la boca de los ríos, se produce un sentimiento de incomodidad. 
 
@@ -4061,15 +3979,15 @@ Así como la sensación de los animales y del hombre es debida a sus cuerpos vit
 
 Conforme prosiga la evolución y el hombre aprenda las lecciones pertenecientes a este pináculo de concreción, entonces la Tierra se irá haciendo más blanda y su espíritu se irá liberando. A esto se refiere San Pablo cuando habla de que toda la creación está moviéndose y gimiendo, esperando por el día de la liberación. 
 
-7) Estrato Reflector: Esta parte de la Tierra corresponde al Mundo del Espíritu Divino. Existen en la ciencia oculta lo que se conoce bajo el nombre de "Los Siete Secretos Indecibles." Para aquellos que no están familiarizados con esos secretos, o que no tengan por lo menos un vislumbre de su importancia, las propiedades de este estrato les parecerán particularmente absurdas y grotescas. En él, todas las fuerzas que conocemos como "Leyes de la Naturaleza", existen como fuerzas morales o, más bien, inmorales. Al principio de la marcha consciente del hombre, esas fuerzas eran peores que ahora. Pero parece que conforme la humanidad progresa moralmente, esas fuerzas mejoran en proporción, y además cualquier falla en moral tiene tendencia a aguijonear esas fuerzas de la Naturaleza, produciendo perturbaciones sobre la Tierra; mientras que la lucha por elevados ideales hace a esas fuerzas menos enemigas del hombre. 
+(7) Estrato Reflector: Esta parte de la Tierra corresponde al Mundo del Espíritu Divino. Existen en la ciencia oculta lo que se conoce bajo el nombre de "Los Siete Secretos Indecibles." Para aquellos que no están familiarizados con esos secretos, o que no tengan por lo menos un vislumbre de su importancia, las propiedades de este estrato les parecerán particularmente absurdas y grotescas. En él, todas las fuerzas que conocemos como "Leyes de la Naturaleza", existen como fuerzas morales o, más bien, inmorales. Al principio de la marcha consciente del hombre, esas fuerzas eran peores que ahora. Pero parece que conforme la humanidad progresa moralmente, esas fuerzas mejoran en proporción, y además cualquier falla en moral tiene tendencia a aguijonear esas fuerzas de la Naturaleza, produciendo perturbaciones sobre la Tierra; mientras que la lucha por elevados ideales hace a esas fuerzas menos enemigas del hombre. 
 
 Las fuerzas de este estrato son, pues, un reflejo exacto del estado moral de la humanidad. Desde el punto de vista oculto, la "mano de Dios" que castigó a Sodoma y Gomorra no es una tonta superstición, porque así como hay una responsabilidad individual ante la Ley de Consecuencia que acarrea a cada persona el justo resultado de sus obras, buenas o malas, así también hay una responsabilidad comunal o nacional que acarrea sobre los grupos colectivos de hombres resultados equivalentes a sus actos colectivos. Las fuerzas naturales son los agentes generales de tal justicia retributiva, produciendo inundaciones o terremotos o la beneficiosa formación de aceites y carbones de varias clases, de acuerdo con sus merecimientos. 
 
-8) Estrato Atómico: Este es el nombre dado por los rosacruces al octavo estrato de la Tierra, que es la expresión del Mundo de los Espíritus Virginales. Parece tener la propiedad de multiplicar todas las cosas que están en él; esto se aplica, sin embargo, únicamente a las cosas que ya han sido formadas definitivamente. Una pieza informe de madera o piedra no tiene exitencia allí, pero cualquier cosa que haya sido formada, que tenga forma o vida, como una flor o un cuadro, queda multiplicada en este estrato en grado maravilloso. 
+(8) Estrato Atómico: Este es el nombre dado por los rosacruces al octavo estrato de la Tierra, que es la expresión del Mundo de los Espíritus Virginales. Parece tener la propiedad de multiplicar todas las cosas que están en él; esto se aplica, sin embargo, únicamente a las cosas que ya han sido formadas definitivamente. Una pieza informe de madera o piedra no tiene exitencia allí, pero cualquier cosa que haya sido formada, que tenga forma o vida, como una flor o un cuadro, queda multiplicada en este estrato en grado maravilloso. 
 
-9) Expresión Material del Espíritu Terrestre: Hay allí corrientes en forma de 8 que están íntimamente relacionadas con el cerebro, corazón y órganos sexuales de la raza humana. Corresponde al Mundo de Dios. 
+(9) Expresión Material del Espíritu Terrestre: Hay allí corrientes en forma de 8 que están íntimamente relacionadas con el cerebro, corazón y órganos sexuales de la raza humana. Corresponde al Mundo de Dios. 
 
-10) Centro del Ser del Espíritu Terrestre: Nada puede decirse sobre él actualmente, salvo que es la última simiente de todo cuanto está en o sobre la Tierra y corresponde al Absoluto. 
+(10) Centro del Ser del Espíritu Terrestre: Nada puede decirse sobre él actualmente, salvo que es la última simiente de todo cuanto está en o sobre la Tierra y corresponde al Absoluto. 
 
 Desde el sexto estrato, el ígneo, hasta la superficie de la Tierra, hay cierto número de orificios o agujeros en diferentes lugares. Su extremo exterior se llama "cráter volcánico." Cuando las fuerzas de la Naturaleza del séptimo estrato son aguijoneadas, pueden expresarse a través de los cráteres volcánicos, poniendo en movimiento al sexto estrato, el ígneo, exteriorizándose la agitación en forma de erupciones, en la boca del volcán. El material explosivo se toma de la substancia del segundo estrato, porque éste es la contraparte densa del sexto estrato, así como el cuerpo vital, el segundo vehículo del hombre, es la contraparte del Espíritu de Vida, el sexto principio. Este estrato fluídico, de calidad expansiva y sumamente explosivo, asegura un suministro ilimitado de material en el punto de la erupción. El contacto con la atmósfera exterior endurece la parte que no se volatiza en el espacio, formando así la lava y el barro, de la misma manera que la sangre que fluye de una herida se coagula y restaña, y esa misma lava cierra el camino a las partes internas de la Tierra. 
 
@@ -4109,9 +4027,9 @@ Hay muchas teorías semejantes. La teoría de Copérnico no es del todo exacta, 
 
 Para muchos, las afirmaciones hechas en las páginas anteriores serán consideradas como fantásticas. Sea así. Tiempo vendrá en el que todos poseerán los conocimientos que aquí se han dado. Este libro es solamente para los pocos que, habiendo liberado sus mentes de las garras de la ciencia o de la religión ortodoxa, están prontos para aceptarlo provisionalmente hasta que comprueben su verdad o mentira. 
 
-### CAPÍTULO XIX: CRISTIAN ROSENKREUZ Y LA ORDEN DE LOS ROSACRUCES
+### <h3 id="chapter-19">CAPÍTULO XIX: CRISTIAN ROSENKREUZ Y LA ORDEN DE LOS ROSACRUCES</h3>
 
-#### ANTIGUAS VERDADES CON ROPAJES MODERNOS
+#### <h4 id="ancient-truths-in-modern-dress">ANTIGUAS VERDADES CON ROPAJES MODERNOS</h4>
 
 Habiendo encontrado entre el público un gran deseo de saber algo sobre la Orden de los Rosacruces, y como en nuestra civilización occidental, y quizás hasta entre nuestros estudiantes, no se comprende bien el importante lugar ocupado por los Hermanos de la Rosa Cruz, es conveniente dar algunas informaciones auténticas sobre el asunto. 
 
@@ -4149,9 +4067,11 @@ Trabajó con los Alquimistas durante varios siglos antes del advenimiento de la 
 
 Su mismo nombre es la encarnación de la manera como el hombre actual se transformará en Divino Superhombre. Ese símbolo, 
 
+```
 "Cristian Rosen Kreuz"
 Cristián (o) Rosa Cruz 
-  
+```
+
 muestra el fin y objeto de la evolución humana, el sendero que debe recorrer y los medios por los cuales se alcanzará. La Cruz blanca, los tallitos gemelos, verdes, de la planta, que enroscan la cruz, las espinas y las rosas rojo-sangre, ocultan la solución del Misterio del Mundo: la evolución pasada, la constitución presente y especialmente el secreto del futuro desarrollo del Hombre. 
 
 La oculta del profano, pero la revela al Iniciado, tanto más claramente, cuanto más trabaja un día tras otro labrando para sí la más preciosa de todas las gemas, la Piedra Filosofal, mucho más preciosa que el Vellocinio; más preciosa aún que todas las riquezas terrestres. Recuerda como la humanidad está malgastando ahora, en su ignorancia, el material concreto que podría emplear en la formación de ese tesoro inestimable. 
@@ -4188,7 +4108,7 @@ La cabeza de la Orden está oculta al mundo externo por los doce Hermanos como l
 
 Alrededor de los Hermanos de la Rosa Cruz, como discípulos suyos, hay cierto número de "hermanos legos", quienes viven en diversas partes del mundo occidental, pero que pueden dejar sus cuerpos conscientemente, atender a los servicios y participar en la obra espiritual del Templo, habiendo sido "iniciados" todos y cada uno de ellos por alguno de los Hermanos Mayores. La mayoría puede recordar todo cuanto les sucede, pero hay algunos casos en los que la facultad de dejar el cuerpo se adquirió en alguna encarnación anterior y ahora alguna enfermedad o el hábito de tomar drogas ha inhabilitado al cerebro para recibir impresiones del trabajo ejecutado por el Ego fuera del cuerpo. 
 
-#### INICIACIÓN
+#### <h4 id="initiation">INICIACIÓN</h4>
 
 La idea general que se tiene sobre la iniciación es que esta no es más que una ceremonia que convierte a uno en miembro de una sociedad secreta, cosa que puede conferirse con tal de que se pague cierto precio, una suma de dinero en la mayoría de los casos. 
 
@@ -4236,7 +4156,7 @@ Ahora ha llegado el tiempo, sin embargo, en el que los esfuerzos secretos deben 
 
 Pero, y éste es un "Pero" muy importante, los Rosacruces no consideran la comprensión intelectual de Dios y del Universo como un fin en sí mismo; lejos de ello: cuanto mayor es el intelecto, tanto mayor es el peligro de su mal uso. Por lo tanto, esta enseñanza científica, lógica y completa se da para que el hombre pueda creer en su corazón, lo que su cabeza ha sancionado, y para que comience a vivir una vida religiosa. 
 
-#### LA FRATERNIDAD ROSACRUZ
+#### <h4 id="the-rosicrucian-fellowship">LA FRATERNIDAD ROSACRUZ</h4>
 
 Con el objeto de promulgar esta enseñanza, se ha formado la Fraternidad Rosacruz, y cualquiera puede inscribirse como estudiante escribiendo al Secretario General, siempre que no sea hipnotista, medium, vidente, quiromántico o astrólogo profesional. No hay cuotas iniciales, ni compromisos. El dinero no puede comprar esas enseñanzas; el avance depende del mérito. 
 
@@ -4254,9 +4174,11 @@ Aun las reuniones en que se mantenga una actitud mental positiva no son aconseja
 
 Por lo tanto todo Probacionista de la Fraternidad Rosacruz ejecuta sus ejercicios(*) en la soledad de su habitación. Los resultados se obtendrán más lentamente siguiendo este sistema, pero cuando aparezcan, se manifestarán como poderes cultivados por uno mismo empleables independientemente de los demás. Además los métodos Rosacruces construyen el carácter al mismo tiempo que desarrollan las facultades espirituales, y de esta manera resguardan al discípulo de la tentación de prostituir sus poderes divinos por prestigios mundanos. 
 
+(*) Véase la Instrucción XI del libro "Cristianismo Rosacruz."
+
 Cuando el Probacionista ha cumplido con los requisitos exigidos y completado el término de prueba, puede solicitar instrucciones individuales de los Hermanos Mayores por medio del Secretario General. 
 
-#### LA SEDE INTERNACIONAL DE LA FRATERNIDAD ROSACRUZ
+#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">LA SEDE INTERNACIONAL DE LA FRATERNIDAD ROSACRUZ</h4>
 
 Habiéndose constituido THE ROSICRUCIAN FELLOWSHIP (La Fraternidad Rosacruz) con el propósito de promulgar las enseñanzas impartidas en este libro y ayudar a los aspirantes en el sendero de realización, se hizo necesario hallar una residencia permanente y facilitar los medios para efectuar la labor. Con este objeto fue comprado un amplio solar en la ciudad de Oceanside (California), situado a noventa millas al sur de Los Angeles y a cuarenta millas al norte de San Diego, la ciudad más al sudoeste de los Estados Unidos. 
 
@@ -4264,9 +4186,7 @@ Dicho terreno ocupa un sitio prominente, teniendo por el lado oeste una de las m
 
 La parte sur de California es una región que ofrece excepcionales oportunidades para el desarrollo espiritual debido a que el éter de su atmósfera es más denso que en ninguna otra parte del mundo, y Mount Ecclesia, como se denomina la sede central de la Fraternidad Rosacruz, está particularmente favorecida e este respecto. 
 
-(*) Véase la Instrucción XI del libro "Cristianismo Rosacruz." 
-
-#### EDIFICIOS
+#### <h4 id="our-buildings">EDIFICIOS</h4>
 
 La labor fue iniciada al finalizar el año 1911. Desde entonces se ha construido un Santuario, donde se realizan las ceremonias Rosacruces, un Templo de Curación y un edificio administrativo de dos pisos. Este último dispone en el segundo piso de oficinas para los diversos ejecutivos, una espaciosa oficina general y los departamentos de publicaciones y editorial. En el primer piso se encuentra ubicada una gran y bien instalada imprenta que posee una linotipo, máquinas de impresión a cilindro y prensa, plegadora mecánica, cortadora de papel y equipo completo de encuadernación, todo lo cual nos permite preparar nuestras publicaciones desde su composición hasta el acabado final. En este departamento se imprime la revista mensual "Rays from The Rose Cross" y también todas las otras publicaciones de la Fraternidad Rosacruz. 
 
@@ -4274,7 +4194,7 @@ Se dispone de un moderno comedor con capacidad para ciento veinte comensales a u
 
 El lugar se hermosea año tras año, pues cientos de palmeras y profusión de flores, tales como se ven únicamente en California, coayudan a la inspiración y hacen maravillosamente atractivo este lugar. 
 
-#### CURSO POR CORRESPONDENCIA
+#### <h4 id="curso-por-correspondencia">CURSO POR CORRESPONDENCIA</h4>
 
 Entre otras actividades, la Fraternidad Rosacruz mantiene un curso por correspondencia de cartas e instrucciones mensuales, para los estudiantes. Estas lecciones van en forma de pequeños folletos. Además se edita en inglés una revista de mérito excepcional, titulada The Rosicrucian Magazine. En las cartas se consideran y desarrollan algunos puntos de la instrucción, la que, de esta manera, se imprime perfectamente en la mente del estudiante. 
 
@@ -4293,7 +4213,7 @@ Oceanside, CA. 92049-0713 U.S.A.
 
 ICONO ROSACRUZ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-#### EL SIMBOLISMO DE LA ROSA CRUZ
+#### <h4 id="the-symbolism-of-the-rose-cross">EL SIMBOLISMO DE LA ROSA CRUZ</h4>
 
 Cuando se busca el significado de cualquier mito, leyenda o símbolo de valor oculto, es de absoluta necesidad que comprendamos que, como cualquier otro objeto del mundo tridimensional, puede, o mejor dicho, debe ser considerado desde todos los puntos de vista para obtener una comprensión plena y completa de él, porque todo símbolo tiene cierto número de aspectos. Cada punto de vista revela un aspecto diferente de los demás, y todos tienen el mismo derecho a que se los tenga en cuenta. 
 
@@ -4574,12 +4494,11 @@ Tabla del contenido de fósforo - 389
 
   
 
-EJERCICIOS MATUTINO Y VESPERTINO
-PARA EL ASPIRANTE ROSACRUZ.
+### EJERCICIOS MATUTINO Y VESPERTINO PARA EL ASPIRANTE ROSACRUZ.
 
 #### EL EJERCICIO VESPERTINO
-(Mencionado en la pagina 97)
-El ejercicio vespertino, la retrospección es de mayor eficacia que cualquier otro método para que el aspirante avance en el sendero de la realización. Tiene tan gran efecto que le permite a uno aprender ahora, no ya las lecciones de esta vida, sino también lecciones ordinariamente reservadas para las vidas futuras. 
+
+(Mencionado en la pagina 97) El ejercicio vespertino, la retrospección es de mayor eficacia que cualquier otro método para que el aspirante avance en el sendero de la realización. Tiene tan gran efecto que le permite a uno aprender ahora, no ya las lecciones de esta vida, sino también lecciones ordinariamente reservadas para las vidas futuras. 
 
 Después de acostarse por la noche, se relaja el cuerpo y el aspirante comienza a examinar los sucesos del día en orden invertido, empezando por los sucesos de la noche, siguiendo con los de la tarde, del mediodía y de la mañana. Debe tratar de imaginarse cada escena con la mayor fidelidad posible, tratar de reproducir ante su ojo mental todo cuanto tuvo lugar en cada escena, con el objeto de juzgar sus actos y comprobar si sus palabras significaban lo que él quería o si dieron impresiones falsas, si exageró o se reprimió al relatar experiencias a los otros. Debe examinar su actitud moral en relación con cada escena. En las comidas: ¿comió para vivir o vivió para comer? ¿o lo hizo para gratificar su paladar? Debe juzgarse a sí mismo criticándose si así lo merece y alabándose si lo hecho fuera digno de elogio. 
 
@@ -4589,11 +4508,9 @@ El valor de la retrospección es enorme, inmenso, más allá de todo lo imaginab
 
 "Los puros verán a Dios" dijo Cristo, y el instructor abrirá prontamente nuestros ojos cuando estemos preparados para entrar en el "Templo del Saber", el Mundo del Deseo, donde obtendremos nuestras primeras experiencias de vida consciente sin el cuerpo denso. 
 
-  
-
 #### EL EJERCICIO MATINAL
-(Mencionado en la pagina 417)
-La concentración, el segundo ejercicio, se realiza por la mañana apenas se despierta el aspirante. No hay necesidad de levantarse ni de ejecutar ningún otro acto innecesario. Si el cuerpo se siente confortable, debe inmediatamente laxarlo y comenzarse a concentrar. Esto es muy importante porque como el Espíritu acaba recién de venir del Mundo del Deseo en el momento de despertarse, entonces puede obtenerse contacto consciente con ese, mundo con mucha mayor facilidad que en cualquier otro momento del día. 
+
+(Mencionado en la pagina 417) La concentración, el segundo ejercicio, se realiza por la mañana apenas se despierta el aspirante. No hay necesidad de levantarse ni de ejecutar ningún otro acto innecesario. Si el cuerpo se siente confortable, debe inmediatamente laxarlo y comenzarse a concentrar. Esto es muy importante porque como el Espíritu acaba recién de venir del Mundo del Deseo en el momento de despertarse, entonces puede obtenerse contacto consciente con ese, mundo con mucha mayor facilidad que en cualquier otro momento del día. 
 
 Si el cuerpo no está confortable el aspirante debe levantarse para librarse de lo que le incomode en su ejercicio, pero con esa demora se pierde buena parte su eficacia. 
 
@@ -4613,7 +4530,7 @@ Una antigua leyenda dice: "el que busca tesoros debe hacerlo en la calma de la n
 
 Finalmente guardémonos de mirar esos ejercicios como tarea fastidiosa, y estimémoslos en su verdadero valor, pues son nuestros privilegios más elevados. Únicamente cuando se consideran así podemos hacerles justicia y recoger todo el beneficio que ellos pueden darnos. 
 
-¿QUE ES LA VERDAD?
+### ¿QUE ES LA VERDAD?
 
 Pilatos preguntó: ¿Que es la verdad? y siendo incapaz de sabelo por sí mismo, no recibió respuesta. 
 
@@ -4637,9 +4554,9 @@ El místico, viendo la luz de la aurora cada dí, llega a sentir dentro de su al
 
 Todos hemos hollado las diferentes sendas de la vida en alguna ocasión. En determinado momento recorrimos la senda de la Vida bajo el rayo de Marte con su actividad y pasión sin preocuparnos por los sufrimientos de otros o de lo qaue a ellos pudiera pasar. En otra vida estuvimos bajo el rayo suave del color de Venus y recorrimos la senda de la vida a lo largo del lado amoroso de este rayo. Más tarde incluso pasamos por la senda del azul produndo del rayo de Saturno y en otra ocasión por el suave azul del rayo de Júpiter. Todos estamos esperando ansiosamente percibir la alta influencia que llega desde el rayo amarillo de Urano, aunque pocos de nosotros actualmente pueden lograrlo, deben contentarse por ahora con el amarillo más oscuro del rayo de Mercurio. Todos estamos trabajando gradualmente hacia la luz blanca que viene del Sol, que es la unión de todos los colores. A esto debemos todos aspirar ya que la luz de cualquier otro rayo es una luz secundaria. Desde la gran Fuente central vienen todas las cosas. 
 
-"Y ahora, ¿qué hay acerca de la oscuridad?" alguien pregunta, "¿es esto el mal?" No, no hay nada malo en el universo de Dios. Durante el día percibimos la luz del Sol, la gloria de esa pequeña Tierra, que gira en el espacio, y si hubiera solamente luz, no divisaríamos nada más allá de esa Tierra y permaneceríamos ignorantes de que existe algo más que el Sol y la Luna. Pero cuando llega la noche y las glorias del día se han desvanecido, cuando el Sol no ilumina más el cielo, podemos darnos cuenta, hasta cierto punto, por lo menos, de la inmensidad del espacio. Podemos ver mjundos que están a millones y millones de millas de distancia, y el Espíritu es inducido a una devoción maravillosa, mientras pesistimos sobre la Verdad de que DIOS ES TODO EN TODO. -Max Heindel 
+"Y ahora, ¿qué hay acerca de la oscuridad?" alguien pregunta, "¿es esto el mal?" No, no hay nada malo en el universo de Dios. Durante el día percibimos la luz del Sol, la gloria de esa pequeña Tierra, que gira en el espacio, y si hubiera solamente luz, no divisaríamos nada más allá de esa Tierra y permaneceríamos ignorantes de que existe algo más que el Sol y la Luna. Pero cuando llega la noche y las glorias del día se han desvanecido, cuando el Sol no ilumina más el cielo, podemos darnos cuenta, hasta cierto punto, por lo menos, de la inmensidad del espacio. Podemos ver mjundos que están a millones y millones de millas de distancia, y el Espíritu es inducido a una devoción maravillosa, mientras pesistimos sobre la Verdad de que DIOS ES TODO EN TODO. - Max Heindel 
 
-#### CONCERNIENTE AL ORIGEN DE LA FRATERNIDAD ROSACRUZ
+### CONCERNIENTE AL ORIGEN DE LA FRATERNIDAD ROSACRUZ
 
 Aunque la palabra "Rosacruz" es usada por varias organizaciones, la Fraternidad Rosacruz (The Rosicrucian Fellowship) no tiene conexiones con ninguna de ellas. 
 
@@ -4647,23 +4564,6 @@ En los años 1907-1908, después de haber sido probado sobre la sinceridad de in
 
 Bajo la dirección de los Hermanos de la Rosa Cruz, gigantes espirituales de la raza humana, Max Heindel escribió El Concepto Rosacruz del Cosmos, un libro trascendental, que ahora ha llegado a ser, en ocultismo, el libro de texto más importante del Mundo Occidental. Por medio de su propio desarrollo espiritual, él estuvo capacitado para verificar mucho de lo que fue dado en El Concepto Rosacruz del Cosmos, así como de adquirir conocimiento adicional que posteriormente fue incorporado en sus numerosos libros. 
 
-Una de las condiciones básicas sobre las que las Enseñanzas de la Sabiduría Occidental fueron dadas a Max Heindel, era que no se les debía poner precio. Esta condición fue fielmente observada por él hasta el fin de su vida, y ha sido desde entonces cuidadosamente observada por aquellos que dirigen los asuntos de la Fraternidad Rosacruz. Aunque los libros de la Fraternidad sedan vendidos, los Curfsos por Correspondencia y el servicio de nuestro Departamente de Curación han sido mantenidos sobre la base de contribuciones voluntarias. No existen cuotas para se miembro. 
+Una de las condiciones básicas sobre las que las Enseñanzas de la Sabiduría Occidental fueron dadas a Max Heindel, era que no se les debía poner precio. Esta condición fue fielmente observada por él hasta el fin de su vida, y ha sido desde entonces cuidadosamente observada por aquellos que dirigen los asuntos de la Fraternidad Rosacruz. Aunque los libros de la Fraternidad sedan vendidos, los Curfsos por Correspondencia y el servicio de nuestro Departamente de Curación han sido mantenidos sobre la base de contribuciones voluntarias. No existen cuotas para ser miembro. 
 
-  
-
-Fin 
-Click aquí para ir al Índice de Libros 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Fin
