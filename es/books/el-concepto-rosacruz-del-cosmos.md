@@ -3,7 +3,7 @@ title: 'El Concepto Rosacruz del Cosmos'
 language: 'es'
 original_title: "The Rosicrucian Cosmo-Conception"
 original_language: 'en'
-original_source_file: 'Not yet available'
+original_work_source_file: 'Not yet available'
 ---
 
 # El Concepto Rosacruz del Cosmos
@@ -38,33 +38,169 @@ Oceanside, CA. 92049-0713 USA
 
 Copyright by The Rosicrucian Fellowship
 
-## Índice
+## Índice de Materias
 
 - [Credo o Cristo](#creed-or-christ)
 - [Una palabra al sabio](#a-word-to-the-wise)
 - [PRIMERA PARTE: Constitución actual del hombre y método de su desarrollo](#part-1)
   - [Introducción](#introduction)
   - [Capítulo I - Los mundos visibles e invisibles](#chapter-1)
+    - [Región Química del Mundo Físico]()
+    - [Región Etérica del Mundo Físico ]()
+    - [El Mundo del Deseo]()
+    - [El Mundo del Pensamiento]()
+    - [Diagrama 1 (Permanencia relativa de los Mundos visibles e invisibles)]()
+    - [Diagrama 2 (Los Siete Mundos)]()
   - [Capítulo II - Los cuatro reinos](#chapter-2)
-  - [Capítulo III - El hombre y el método de evolución](#chapter-3)
-  - [Capítulo IV - Renacimiento y ley de consequencia](#chapter-4)
-- [SEGUNDA PARTE: Cosmogenesis y antropogenesis](#part-2)
-  - [Capítulo V - La relación del hombre con dios](#chapter-5)
-  - [Capítulo VI - Esquema de la evolución](#chapter-6)
-  - [Capítulo VII - El camino de la evolución](#chapter-7)
-  - [Capítulo VIII - La obra de la evolución](#chapter-8)
-  - [Capítulo IX - Rezagados y principiantes](#chapter-9)
-  - [Capítulo X - El período terrestre](#chapter-10)
-  - [Capítulo XI - La evolución de nuestro sistema solar](#chapter-11)
-  - [Capítulo XII - Evolución de la tierra](#chapter-12)
-  - [Capítulo XIII - Hacia la biblia](#chapter-13)
-  - [Capítulo XIV - La caída del hombre](#chapter-14)
-- [TERCERA PARTE: Futuro desarrollo e iniciación del hombre](#part-3)
-  - [Capítulo XV - Cristo y su misión](#chapter-15)
-  - [Capítulo XVI - Desarrollo futuro e iniciación](#chapter-16)
-  - [Capítulo XVII - Método para adquirir el conocimiento directo](#chapter-17)
-  - [Capítulo XVIII - Constitución de la tierra y erupciones volcánicas](#chapter-18)
-  - [Capítulo XIX - Cristian Rosenkreuz y la orden de los rosacruces](#chapter-19)
+    - [Diagrama "Los Cuagtro Reinos]()
+    - [Diagrama de las Corrientes del Cuerpo de Deseos en el Hombre Ordinario]()
+    - [Diagrama de las Corrientes del Cuerpo de Deseos en el Clarividente Voluntario]()
+    - [Diagrama de las Corrientes del Cuerpo de Deseos en el Clarividente Involuntario]()
+    - [Diagrama 3 (Vehículos de cada Reino)]()
+    - [Diagrama 4 (Estados de Conciencia en cada Reino)]()
+  - [Capítulo III: El Hombre y el Método de Evolución ]()
+    - [Actividades de la vida; memoria y crecimineto anímico ]()
+    - [Diagrama "Constitución séptuple del Hombre"]()
+    - [Diagama 5 (Constitución décuple del Hombre)]()
+    - [Muerte y Purgatorio]()
+    - [Diagrama 5a (El Cordón Plateado)]()
+    - [La Región Fronteriza]()
+    - [El Primer Cielo]()
+    - [El Segundo Cielo]()
+    - [El Tercer Cielo]()
+    - [Preparativos para el nacimiento]()
+    - [Nacimiento del cuerpo denso]()
+    - [Nacimiento del cuerpo vital]()
+    - [Nacimiento del cuerpo de deseos]()
+    - [Nacimiento de la mente]()
+    - [La Sangre: el vehículo del Ego]()
+    - [Diagrama "Un ciclo de vida"]()
+  - [Capítulo IV: Renacimiento y Ley de Consecuencia]()
+    - [El vino como factor de la evolución]()
+    - [Una historia notable]()
+- [SEGUNDA PARTE: Cosmogénesis y Antropogénesis]()
+  - [Capítulo V: La Relación del Hombre con Dios]()
+    - [Diagrama 6 (El Ser Supremo, los Planos Cósmicos y Dios)]()
+  - [Capítulo VI: Esquema de la evolución ]()
+    - [El Principio]()
+    - [Los Mundos]()
+    - [Los Siete Períodos]()
+    - [Nombres de los Siete Périodos]()
+  - [Capítulo VII: El Camino de la Evolución]()
+    - [Revoluciones y Noches Cósmicas]()
+    - [Diagrama 7 (El Período de Saturno)]()
+    - [Diagrama 8 (Los Siete Mundos, los Siete Globos y los Siete Períodos)]()
+  - [Capítulo VIII: La obra de la evolución]()
+    - [El hilo de Ariadna]()
+    - [El Período de Saturno]()
+    - [Recapitulación]()
+    - [El Período Solar]()
+    - [El Período Lunar]()
+    - [Diagrama 9 (Las Doce Grandes Jerarquías Creadoras)]()
+  - [Capítulo IX: Rezagados y Principiantes]()
+    - [Clases de seres al principio del Período Lunar]()
+    - [Diagrama 10 (Clases al principio del Período Terrestre)]()
+  - [Capítulo X: El Período Terrestre]()
+    - [La revolución de Saturno del Período Terrestre]()
+    - [La revolución Solar del Período Terrestre]()
+    - [La revolutión Lunar del Período Terrestre]()
+    - [Períodos de reposo entre revoluciones]()
+    - [La cuarta revolución del Período Terrestre]()
+  - [Capítulo XI: Génesis y evolución de nuestro Sistema Solar]()
+    - [Caos]()
+    - [Diagrama 11 (Los 1, 3, 7 y 10 Aspectos de Dios y del Hombre)]()
+    - [Nacimiento de los planetas]()
+    - [Diagrama 12 (Forma pasada, actual y futura del hombre)]()
+  - [Capítulo XII: Evolución de la Tierra]()
+    - [La Época Polar]()
+    - [La Época Hiperbórea]()
+    - [La Luna: la octava esfera]()
+    - [La Época Lemúrica]()
+    - [Nacimiento del individuo]()
+    - [Diagama (Tabla de vibraciones)]()
+    - [Separación de los sexos]()
+    - [Influencia de Marte]()
+    - [Las razas y sus guías]()
+    - [Influencia de Mercurio]()
+    - [La raza Lemúrica]()
+    - [La caída del hombre]()
+    - [Los Espíritus Luciferes]()
+    - [La Época Atlante]()
+    - [La Época Aria]()
+    - [Los Dieciseis Senderos de Destrucción]()
+  - [Capítulo XIII: Hacia la Biblia ]()
+  - [Capítulo XIV: Análisis oculto del Génesis]()
+    - [Limitaciones de la Biblia]()
+    - [En el Principio]()
+    - [La Teoría Nebular]()
+    - [Las Jerarquías Creadoras]()
+    - [El Período de Saturno]()
+    - [El Período Solar]()
+    - [El Período Lunar]()
+    - [El Período Terrestre]()
+    - [Jehová y su Misión]()
+    - [Involución, Evolución y Epigénesis]()
+    - [¿Un Alma viviente?]()
+    - [La Costilla de Adan]()
+    - [Los Angeles Guardianes]()
+    - [La mezcla de sangre en el Matrimonio]()
+    - [La Caída del Hombre]()
+    - [Diagrama 13 (El principio y el fin de los sexos)]()
+- [TERCERA PARTE: Futuro Desarrollo e Iniciación del Hombre]()
+  - [Capítulo XV: Cristo y su Misión]()
+    - [Evolución de la Religión]()
+    - [Diagrama "Los siete Días de la Creación"]()
+    - [Jesús y Cristo-Jesús]()
+    - [Inciados Más Elevados de los Períodos]()
+    - [Diagrama 14 (Los Vehículoss de los Iniciados)]()
+    - [No Paz, sino Guerra]()
+    - [La Estrella de Belén]()
+    - [El Corazón es una anomalía]()
+    - [El misterio del Gólgota]()
+    - [La Sangre Purificadora]()
+    - [Diagrama 15 Caduceo o Cetro de Mercurio (Los siete Días de la Creación y las cuatro Grandes Iniciaciones)]()
+  - [Capítulo XVI: Desarrollo Futuro e Iniciación]()
+    - [Los Siete Días de la Creación]()
+    - [Diagrama "Como arriba es abajo"]()
+    - [Radiados y Moluscos, Articulados y Vertebrados]()
+    - [Espirales dentro de espirales]()
+    - [Períodos y Consciencia correspondiente]()
+    - [Alquimia y Crecimiento del Alma]()
+    - [La Palabra Creadora]()
+  - [Capítulo XVII: Método para adquirir el Conocimiento Directo]()
+    - [Los Primeros Grados]()
+    - [Métodos Occidentales para los Occidentales]()
+    - [La Ciencia de la Nutrición]()
+    - [Calorías que se necesitan según la índole de trabajo]()
+    - [Tabla de Valores Alimentarios]()
+    - [Tabla de contenido de fósforo]()
+    - [La Ley de la Asimilación]()
+    - [Vivid y dejad vivir]()
+    - [El Padre Nuestro]()
+    - [Diagrama 16 (El Padre Nuestro)]()
+    - [El voto de Castidad ]()
+    - [Diagrama 17 (Transmutación de las corrientes sexuales)]()
+    - [El Cuerpo Pituitario y la Glándula Pineal]()
+    - [Educación Esotérica]()
+    - [Como se organizan los vehículos internos]()
+    - [Concentración]()
+    - [Meditación]()
+    - [Observación]()
+    - [Discernimiento]()
+    - [Contemplación]()
+    - [Adoración]()
+  - [Capítulo XVIII: Constitución de la Tierra y Erupciones Volcánicas]()
+    - [El Número de la Bestia]()
+    - [Diagrama 18 (La Constitución de la Tierra)]()
+  - [Capítulo XIX: Cristián Rosenkreuz y la Orden de los Rosacruces]()
+    - [Antiguas Verdades en Ropajes Modernos]()
+    - [Iniciación]()
+    - [La Fraternidad Rosacruz]()
+    - [La Sede de la Fraternidad Rosacruz]()
+    - [El Simbolismo de la Rosa Cruz]()
+    - [Ejercicios Matutinos y Vespertinos para el aspirante Rosacruz]()
+- [¿Que es la Verdad?]()
+
 
 ### CREDO o CRISTO
 
@@ -4239,214 +4375,7 @@ Por lo tanto, los Rosacruces esperan ardientemente el día en el que las rosas f
 
 San Juan habla de su purificación (1a epíst., III,9), y dice que aquel que nace de Dios no puede pecar, porque guarda dentro de él su semilla. Es una necesidad absoluta para progresar que el aspirante sea casto. Debe tenerse muy presente que la castidad absoluta no se le exige al hombre hasta que a alcanzado la preparación necesaria para las grandes iniciaciones, y que es un deber que tenemos para con el todo el perpetuar la raza. Si somos capaces mental, moral, física y financieramente, podemos ejecutar el acto de la generación como un santo sacrificio ofrecido en el altar de la humanidad, pero no para gratificar el placer sensual. Y tampoco debe realizarse austeramente, en una repulsiva disposición mental, sino gustosamente, dándonos a nosotros mismos y haciendo uso del privilegio de suministrar a algún amigo, que esté deseando renacer, un cuerpo apropiado para su desarrollo. De esta manera también lo ayudaremos a que florezcan las rosas sobre su cruz. 
 
-ÍNDICE DE MATERIAS
 
-Credo o Cristo 
-Una Palabra Al Sabio 
-Introducción
-  
-
-PRIMERA PARTE: CONSTITUCIÓN ACTUAL DEL HOMBRE Y MÉTODO DE SU DESARROLLO
-  
-CAPÍTULO I: Los Mundos Visibles e Invisibles 
-Región Química del Mundo Físico 
-Región Eté del Mundo Físico 
-El Mundo del Deseo
-El Mundo del Pensamiento 
-Diagrama 1 (Permanencia relativa de los Mundos visibles e invisibles)
-Diagrama 2 (Los Siete Mundos)
-  
-
-CAPÍTULO II: Los Cuatro Reinos
-Diagrama "Los Cuagtro Reinos
-Diagrama de las Corrientes del Cuerpo de Deseos en el Hombre Ordinario - 58a 
-Diagrama de las Corrientes del Cuerpo de Deseos en el Clarividente Voluntario - 58b 
-[464] 
-
-Diagrama de las Corrientes del Cuerpo de Deseos en el Clarividente Involuntario - 58c 
-Diagrama 3 (Vehículos de cada Reino) - 64 
-Diagrama 4 (Estados de Conciencia en cada Reino - 65 
-  
-
-CAPÍTULO III: El Hombre y el Método de Evolución  
-Actividades de la vida; memoria y crecimineto anímico 
-Diagrama "Constitución séptuple del Hombre" 
-Diagama 5 (Constitución décuple del Hombre) 
-Muerte y Purgatorio 
-Diagtrama 5a (El Cordón Plateado) 
-La Región Fronteriza 
-El Primer Cielo 
-El Segundo Cielo 
-El Tercer Cielo 
-Preparativos para el nacimiento 
-Nacimiento del cuerpo denso 
-Nacimiento del cuerpo vital 
-Nacimiento del cuerpo de deseos
-Nacimiento de la mente 
-La Sangre: el vehículo del Ego 
-Diagrama "Un ciclo de vida" 
-  
-
-CAPÍTULO IV: Renacimiento y Ley de Consecuencia 
-El vino como factor de la evolución 
-Una historia notable 
-  
-
-SEGUNDA PARTE
-COSMOGÉNESIS Y ANTROPOGÉNESIS
-  
-
-CAPÍTULO V
-La Relación del Hombre con Dios 
-Diagrama 6 (El Ser Supremo, los Planos Cósmicos y Dios - 157 
-
-CAPÍTULO VI: Esquema de la evolución 
-El Principio 
-Los Mundos 
-Los Siete Períodos 
-Nombres de los Siete Périodos 
-  
-
-CAPÍTULO VII: El Camino de la Evolución 
-Revoluciones y Noches Cósmicas 
-Diagrama 7 (El Período de Saturno)
-Diagrama 8 (Los Siete Mundos, los Siete Globos y los Siete Períodos)
-  
-
-CAPÍTULO VIII: La obra de la evolución 
-El hilo de Ariadna
-El Período de Saturno
-Recapitulación
-El Período Solar
-El Período Lunar
-Diagrama 9 (Las Doce Grandes Jerarquías Creadoras)
-  
-
-CAPÍTULO IX: Rezagados y Principiantes 
-Clases de seres al principio del Período Lunar - 196 
-Diagrama 10 (Clases al principio del Período Terrestre) - 200 
-  
-
-CAPÍTULO X: El Período Terrestre 
-La revolución de Saturno del Período Terrestre
-La revolución Solar del Período Terrestre
-La revolutión Lunar del Período Terrestre 
-Períodos de reposo entre revoluciones 
-La cuarta revolución del Período Terrestre 
-  
-CAPÍTULO XI: Génesis y evolución de nuestro Sistema Solar 
-Caos
-Diagrama 11 (Los 1, 3, 7 y 10 Aspectos de Dios y del Hombre) 
-Nacimiento de los planetas 
-Diagrama 12 (Forma pasada, actual y futura del hombre) 
-  
-
-CAPÍTULO XII: Evolución de la Tierra 
-La Época Polar
-La Época Hiperbórea
-La Luna: la octava esfera  
-La Época Lemúrica 
-Nacimiento del individuo  
-Diagama (Tabla de vibraciones) 
-Separación de los sexos 
-Influencia de Marte 
-Las razas y sus guías  
-Influencia de Mercurio  
-La raza Lemúrica 
-La caída del hombre 
-Los Espíritus Luciferes
-La Época Atlante 
-La Época Aria 
-Los Dieciseis Senderos de Destrucción 
-  
-
-CAPÍTULO XIII: Hacia la Biblia 
-
-CAPÍTULO XIV: Análisis oculto del Génesis 
-Limitaciones de la Biblia
-En el Principio
-La Teoría Nebular
-Las Jerarquías Creadoras
-El Período de Saturno
-El Período Solar 
-El Período Lunar
-El Período Terrestre 
-Jehová y su Misión 
-Involución, Evolución y Epigénesis 
-¿Un Alma viviente?
-La Costilla de Adan
-Los Angeles Guardianes 
-La mezcla de sangre en el Matrimonio
-La Caída del Hombre
-Diagrama 13 (El principio y el fin de los sexos
-  
-
-TERCERA PARTE
-FUTURO DESARROLLO E INICIACIÓN DEL HOMBRE
-
-
-  
-
-CAPÍTULO XV
-Cristo y su Misión 
-Evolución de la Religión
-Diagrama "Los siete Días de la Creación" 
-Jesús y Cristo-Jesús 
-Inciados Más Elevados de los Períodos 
-Diagrama 14 (Los Vehículoss de los Iniciados) 
-No Paz, sino Guerra
-La Estrella de Belén 
-El Corazón es na anomalía
-El misterio del Gólgota 
-La Sangre Purificadora
-Diagrama 15 Caduceo o Cetro de Mercurio (Los siete Días de la Creación y las cuatro Grandes Iniciaciones) 
-  
-CAPÍTULO XVI
-Desarrollo Futuro e Iniciación 
-Los Siete Días de la Creación 
-Diagrama "Como arriba es abajo" 
-Radiados y Moluscos, Articulados y Vertebrados 
-Espirales dentro de espirales 
-Períodos y Consciencia correspondiente 
-Alquimia y Crecimiento del Alma 
-La Palabra Creadora 
-  
-
-CAPÍTULO XVII: Método para adquirir el Conocimiento Directo 
-Los Primeros Grados 
-Métodos Occidentales para los Occidentales 
-La Ciencia de la Nutrición 
-Calorías que se necesitan según la índole de trabajo 
-Tabla de Valores Alimentarios 
-Tabla de contenido de fósforo
-La Ley de la Asimilación 
-Vivid y dejad vivir 
-El Padre Nuestro 
-Diagrama 16 (El Padre Nuestro)
-El voto de Castidad 
-Diagrama 17 (Transmutación de las corrientes sexuales) 
-El Cuerpo Pituitario y la Glándula Pineal 
-Educación Esotérica 
-Como se organizan los vehículos internos 
-Concentración 
-Meditación 
-Observación
-Discernimiento 
-Contemplación 
-Adoración 
-
-CAPÍTULO XVIII: Constitución de la Tierra y Erupciones Volcánicas 
-El Número de la Bestia 
-Diagrama 18 (La Constitución de la Tierra) 
-  
-CAPÍTULO XIX: Cristián Rosenkreuz y la Orden de los Rosacruces 
-Antiguas Verdades en Ropajes Modernos 
-Iniciación 
-La Fraternidad Rosacruz 
-La Sede de la Fraternidad Rosacruz 
-El Simbolismo de la Rosa Cruz 
-Ejercicios Matutinos y Vespertinos para el aspirante Rosacruz 
-¿Que es la Verdad? -
 
 ÍNDICE DE DIAGRAMAS Y TABLAS
 
