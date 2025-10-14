@@ -3,6 +3,7 @@ title: 'The Web of Destiny'
 language: 'en'
 original_title: "The Web of Destiny"
 original_language: 'en'
+author: 'Max Heindel'
 original_source_file: 'self'
 ---
 

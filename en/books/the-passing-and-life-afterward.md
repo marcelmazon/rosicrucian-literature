@@ -12,10 +12,10 @@ original_source_file: 'self'
 
 by Max Heindel [1865-1919] 
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters Mt. Ecclesia
-P.O. Box 713
-Oceanside, California, 92054, USA
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
 ## CONTENTS
 

@@ -3,12 +3,13 @@ title: 'The Web of Destiny'
 language: 'en'
 original_title: "The Web of Destiny"
 original_language: 'en'
+author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
 # THE WEB OF DESTINY 
 
-How Is Made And Unmade
+How It Is Made And Unmade
 
 Also
 
@@ -22,11 +23,11 @@ by Max Heindel [1865-1919]
 
 A Series of Lessons upon the Hidden Side fo Life, Showing the Occult Forces Which Shape Our Destiny
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters
-Mt. Ecclesia
-P.O. Box 713
-Oceanside, California, 92054, U.S.A.
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, U.S.A.  
 
 ## TABLE OF CONTENTS
 
@@ -60,7 +61,6 @@ Oceanside, California, 92054, U.S.A.
         - [THE FINAL CLIMAX](#the-final-climax)
 
 - [PRACTICAL METHODS OF ACHIEVING SUCCESS BASED UPON CONSERVATION OF SEX FORCE](#practical-methods-of-achieving-success-based-upon-conservation-of-sex-force)
-
 
 ### <h3 id="foreword">FOREWORD</h3>
 

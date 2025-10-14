@@ -3,6 +3,7 @@ title: 'The Rosicrucian Cosmo-Conception'
 language: 'en'
 original_title: "The Rosicrucian Cosmo-Conception"
 original_language: 'en'
+author: 'Max Heindel'
 original_source_file: 'self'
 edition_source: '28th Edition'
 ---
@@ -162,7 +163,7 @@ Oceanside, California, 91054, USA
     - [The Law of Assimilation](#the-law-of-assimilation)
     - [Live and Let Live](#live-and-let-live)
     - [The Lord's Prayer](#the-lords-prayer)
-    - [Diagram 16. The Lord's Prayer](#diagram-16-the-lord's-prayer)
+    - [Diagram 16. The Lord's Prayer](#diagram-16-the-lords-prayer)
     - [The Vow of Celibacy](#the-vow-of-celibacy)
     - [The Pituitary Body and the Pineal Gland](#the-pituitary-body-and-the-pineal-gland)
     - [Diagram 17. Path of the Unused Sex Currents](#diagram-17-path-of-the-unused-sex-currents)
