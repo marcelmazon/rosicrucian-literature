@@ -6,7 +6,7 @@ original_language: 'en'
 original_source_file: 'self'
 ---
 
-# THE VITAL BODY
+<h1 id="the-vital-body">THE VITAL BODY</h1>
 
 by Max Heindel [1865-1919] 
 
@@ -15,7 +15,7 @@ MT. ECCLESIA
 P.O. BOX 713
 OCEANSIDE, CALIFORNIA, U.S.A., 92054
 
-## CONTENTS
+<h2 id="contents">CONTENTS</h2>
 
 - [Foreword](#foreword)
 - [Introduction](#introduction)
@@ -29,44 +29,36 @@ OCEANSIDE, CALIFORNIA, U.S.A., 92054
     - [Chapter III: In Sleep and Dreams](#part-2-chapter-3)
     - [Chapter IV: At Death and in Invisible Worlds](#part-2-chapter-4)
     - [Chapter V: On Way to Rebirth](#part-2-chapter-5)
-    - [Chapter VI: Of Children](#part-2-chapter-5)
+    - [Chapter VI: Of Children](#part-2-chapter-6)
 
-PART III: VITAL BODY OF ANIMALS AND PLANTS 
-Chapter I: General Nature and Function 
+- [PART III: VITAL BODY OF ANIMALS AND PLANTS](part-3)
+    - [Chapter I: General Nature and Function](part-3-chapter-1)
 
-PART IV: RELATION OF VITAL BODY TO SPIRITUAL DEVELOPMENT 
-Chapter I: An Important Factor 
-Chapter II: Effect of Prayer, Rituals, and Exercises 
-Chapter III: Ancient Initiation 
-Chapter IV: Positive and Negative Development 
+- [PART IV: RELATION OF VITAL BODY TO SPIRITUAL DEVELOPMENT](#part-4)
+    - [Chapter I: An Important Factor](#part-4-chapter-1)
+    - [Chapter II: Effect of Prayer, Rituals, and Exercises](#part-4-chapter-2)
+    - [Chapter III: Ancient Initiation](#part-4-chapter-3)
+    - [Chapter IV: Positive and Negative Development](#part-4-chapter-4)
 
-PART V: THE VITAL BODY OF JESUS 
-Chapter I: As a Vehicle for the Christ 
+- [PART V: THE VITAL BODY OF JESUS](#part-5)
+    - [Chapter I: As a Vehicle for the Christ](#part-5-chapter-1)
 
-FOREWORD
+### <h3 id="foreword">FOREWORD</h3>
 
 The Western Wisdom School teaches as its fundamental maxim that "all occult development begins with the vital body," stated Max Heindel initiate of the Order of the Rose Cross. It is therefore with the purpose of presenting in a concise and easily understood form all the important information which the founder of The Rosicrucian Fellowship wrote in his various letters, lessons, and books concerning the etheric vehicle that this compiled material is published in book form. To the layman in occult study, as well as to the advanced student, it offers much of practical value. 
 
 A number of earnest students of the Western Wisdom Teachings have given unselfishly and lovingly of their time and efforts in preparing this material for publication, and it is their prayer that a copy of the volume may carry its message of light and inspiration to every spiritual aspirant who is endeavoring to follow the Way of the Christ. 
 
-
-
-INTRODUCTION
+### <h3 id="introduction">INTRODUCTION</h3>
 
 The Rosicrucian Philosophy teaches that man is a threefold Spirit, possessing a mind by means of which he governs a threefold body, which he emanated from himself to gather experience. This threefold body he transmutes into a threefold soul, upon which he nourishes himself from impotence to omnipotence. The Divine Spirit emanates from itself the dense body, extracting as pabulum the Conscious Soul; the Life Spirit emanates from itself the vital body, extracting as pabulum the Intellectual Soul; the Human Spirit emanates from itself the desire body, extracting as pabulum the Emotional Soul. The vital body is made of ether and pervades the visible body as ether permeates all other forms, except that human beings specialize a greater amount of the universal ether than other forms. That ethereal body is our instrument for specializing the vital energy of the Sun. 
 
 It is also taught in the Rosicrucian Philosophy that our evolutionary scheme is carried through five of the seven Worlds or states of matter (Physical, Desire, Thought, World of Life Spirit, and the World of Divine Spirit) in seven great Periods of Manifestation (Saturn, Sun, Moon, Earth, Jupiter, Venus, and Vulcan Periods), during which the Virgin Spirit, or evolving life, becomes first, a man--then, a God. We are now in the fourth, or Earth Period, which is divided into seven Revolutions, as well as the following seven Epochs: the Polarian, Hyperborean, Lemurian, Atlantean, and Aryan Epochs, and the New Galilee and the Kingdom of God yet to come. (See The Rosicrucian Cosmo-Conception, pages 177-364.) At the commencement of the Saturn Period twelve great Creative Hierarchies were active in the work of evolution. Two of these Hierarchies did some work to help at the very beginning....and then withdrew from limited existence into liberation. Three more of the Creative Hierarchies followed them at the beginning of the Earth Period: the Lords of Flame, the Cherubim, and the Seraphim, leaving seven Hierarchies in active service when the Earth Period began: the Lords of Wisdom, the Lords of Individuality, the Lords of Form, the Lords of Mind, the Archangels, the Angels, and the Virgin Spirits. 
 
-[9] 
+<h2 id="part-1">PART I: PAST EVOLUTION OF MAN'S VITAL BODY</h2>
 
-PART I
+### <h3 id="part-1-chapter-1">CHAPTER I: DURING PERIODS AND REVOLUTIONS</h3>
 
-PAST EVOLUTION OF MAN'S VITAL BODY
-[11] 
-
-CHAPTER I
-
-DURING PERIODS AND REVOLUTIONS 
 The evolution of the vital body and the Life Spirit of which it is a counterpart was started in the second or Sun Period of the Seven Great Days of Manifestation. It has since been reconstructed and will reach perfection in the Jupiter Period. In a future stage mankind will no longer need this vehicle, but nevertheless, its quintessence will be retained. 
 
 The Life Spirit and the vital body started their evolution in the Sun Period and are consequently the particular charges of the Son. 
@@ -74,8 +66,6 @@ The Life Spirit and the vital body started their evolution in the Sun Period and
 They (the Lords of Flame) had previously given the germ of the dense body and, in the first half of the Saturn Revolution of the Sun Period, were concerned with certain improvements to be made upon it. 
 
 In the Sun Period the formation of the vital body was to be commenced, with all thereby implied of capability for assimilation, growth, propagation, glands, etc. 
-
-[12] 
 
 The Lords of Flame incorporated in the germ of the dense body only the capability of evolving sense organs. At the time now under consideration it became necessary to change the germ in such a way as to allow of interpenetration by a vital body, also capability of evolving glands and an alimentary canal. This was done by the joint action of the Lords of Flame, who gave the original germ, and the Lords of Wisdom, who took charge of material evolution in the Sun Period. 
 
@@ -85,13 +75,9 @@ We also note that, as the first, or Saturn Revolution, of any period is concerne
 
 It may be said that in the Sun Period man went through the plant existence. He had a dense body and a vital body, as plants have, and his consciousness, like theirs, was that of dreamless sleep. 
 
-[13] 
-
 Thus there were two classes, or kingdoms in the Sun Period, i.e., the stragglers of the Saturn Period, who were still mineral, and the pioneers of the Saturn Period, who were capable of receiving the germ of a vital body and becoming plant-like. 
 
 In the middle of the seventh Revolution of the Sun Period, the Lords of Wisdom took charge of the germinal Life Spirit given by the Cherubim in the sixth Revolution of the Sun Period. They did this for the purpose of linking it to the Divine Spirit. Their greatest activity in this work was reached in the Cosmic Night intervening between the Sun and the Moon Periods. In the first dawn of the Moon Period, as the life wave started upon its new pilgrimage, the Lords of Wisdom reappeared, bearing with them the germinal vehicles of the evolving man. In the first or Saturn Revolution of the Moon Period, they cooperated with the "Lords of Individuality," who had special charge of the material evolution of the Moon Period. Together, they reconstructed the germ of the dense body, brought over from the Sun Period. This germ had unfolded embryonic sense organs, digestive organs, glands, etc., and was interpenetrated by a budding vital body which diffused a certain degree of life into the embryonic dense body. Of course, it was not solid and visible as it is now, yet in a crude sort of way it was somewhat organized and is perfectly distinguishable to the trained clairvoyant sight of the competent investigator who searches the memory of nature for scenes in that far-off past. 
-
-[14] 
 
 In the second, or Sun Revolution of the Moon Period, the vital body was modified to render it capable of being interpenetrated by the desire body, also of accommodating itself to the nervous system, muscle, skeleton, etc. The Lords of Wisdom, who were the originators of the vital body, also helped the Lords of Individuality with this work. 
 
@@ -101,24 +87,15 @@ The pioneers of the new Life Wave had been going through a low stage of plant ex
 
 Thus, the three last named all possessed the same vehicles at the beginning of the Earth Period, although only the two first named belong to our life wave, and have a chance of even yet overtaking us if they pass the critical point which will come in the next Revolution of the Earth Period. Those who cannot pass that point will be held over until some future evolution reaches a stage where they can drop in and proceed with their development in a new human period. They will be debarred from going forward with our humanity because it will be advanced so far beyond their status that it would prove a serious clog to our progress to drag them along. They will not be destroyed, but simply held in waiting for another period of evolution. 
 
-[15] 
-
-
-
-
 At the end of the Moon Period these classes possessed the vehicles as they are classified in Diagram 10, above (taken from page 230 of the Cosmo-Conception), and started with them in the beginning of the Earth Period. During the time which has elapsed since then, the human kingdom has been evolving the link of mind, and has thereby attained full waking consciousness. The animals have obtained a desire body; the plants a vital body; the stragglers of the life wave which entered evolution in the Moon Period have escaped the hard and fast conditions of rock formation and now their dense bodies compose our softer soils; while the life wave that entered evolution here in the Earth Period forms the hard rocks and stones. 
 
 Thus we see that at the close of the Moon Period man possessed a threefold body in varying stages of development; and also the germ of the three-fold Spirit. He had dense, vital, and desire bodies, and divine, life and human Spirit. All he lacked was the link to connect them. 
 
 Another creative Hierarchy had special care of the three germs of the dense, vital, and desire bodies as they were evolving. They were the ones who, under the direction of the higher orders, actually did the principle work on these bodies, using the evolving life as a kind of instrument. This Hierarchy is called the "Lords of Form." They were now evolved so far that they were given charge of the third aspect of the Spirit in man--the Human Spirit--in the coming Earth Period. 
 
-[16] 
-
 Let us, therefore, analyze the matter and see what we have the right to expect from one who lays claim to being a teacher. To do this we may first ask ourselves, What is the purpose of existence in the material universe? And we may answer that question by saying that it is evolution of consciousness. During the Saturn Period, when we were mineral-like in our constitution, our consciousness was like that of the medium expelled from her body by Spirit controls at a materializing seance, where a large part of the ethers composing the vital body has been removed. The physical body is then in a very deep trance. In the Sun Period, when our constitution was plant-like, our consciousness was like that of dreamless sleep, where the desire body, mind, and Spirit are outside, leaving the physical and vital bodies upon the bed. In the Moon Period, we had a picture consciousness like that which we have in dreams, where the desire body is only partially removed from the dense vehicle and the vital body. Here in the Earth Period our consciousness has been enlarged to cover objects outside ourselves by placing all our vehicles in a concentric position, as is the case when we are awake. 
 
 The Earth Period is preeminently the Period of Form, for here the form or matter side of evolution reaches its greatest and most pronounced state. Here Spirit is more helpless and suppressed and Form is the most dominant factor--hence the prominence of the Lords of Form. 
-
-[17] 
 
 During this Revolution (the second or Sun Revolution of the Earth Period) the vital body was reconstructed to accommodate the germinal mind. The vital body was fashioned more in the likeness of the dense body, so that it could become fitted for use as the densest vehicle during the Jupiter Period, when the dense body will have become spiritualized. 
 
@@ -128,11 +105,7 @@ While not desiring to criticize, and admitting that this contention is justified
 
 During those epochs of our Earth's history which have already been mentioned as the Lemurian and the Atlantean, man was involuntarily clairvoyant, and it was precisely this looseness of connection between the dense and the vital bodies that made him so. (The Initiators of that time helped the candidate to loosen the connection still further, as in the voluntary clairvoyant.) 
 
-[18] 
-
-Since then the vital body has become much more firmly interwoven with the dense body in the majority of people, but in all sensitives it is loose. It is that looseness which constitutes the difference between the psychic and the ordinary person who is unconscious of all but the vibrations contacted by means of the five senses. All human beings have to pass through this period of close connection of the vehicles and experience the consequent limitation of consciousness. There are, therefore, two classes of sensitives, those who have not become firmly enmeshed in matter, such as the majority of the Hindus, the Indians, etc., who possess a certain low grade of clairvoyance, or are sensitive to the sounds of nature, and those who are in the vanguard of evolution. The latter are emerging from the acme of materiality, and are again divisible into two kinds, one of which develops in a passive, weak-willed manner. By the help of others they re-awaken the solar plexus or other organs in connection with the involuntary nervous system. These are therefore involuntary clairvoyants, mediums who have no control of their faculty. They have retrograded. The other kind is made up of those who by their own wills, unfold the vibratory powers of organs now connected with the voluntary nervous system and thus become trained occultists, controlling their own bodies and exercising the clairvoyant faculty as they will to do. They are called voluntary or trained clairvoyants. 
-
-[19] 
+Since then the vital body has become much more firmly interwoven with the dense body in the majority of people, but in all sensitives it is loose. It is that looseness which constitutes the difference between the psychic and the ordinary person who is unconscious of all but the vibrations contacted by means of the five senses. All human beings have to pass through this period of close connection of the vehicles and experience the consequent limitation of consciousness. There are, therefore, two classes of sensitives, those who have not become firmly enmeshed in matter, such as the majority of the Hindus, the Indians, etc., who possess a certain low grade of clairvoyance, or are sensitive to the sounds of nature, and those who are in the vanguard of evolution. The latter are emerging from the acme of materiality, and are again divisible into two kinds, one of which develops in a passive, weak-willed manner. By the help of others they re-awaken the solar plexus or other organs in connection with the involuntary nervous system. These are therefore involuntary clairvoyants, mediums who have no control of their faculty. They have retrograded. The other kind is made up of those who by their own wills, unfold the vibratory powers of organs now connected with the voluntary nervous system and thus become trained occultists, controlling their own bodies and exercising the clairvoyant faculty as they will to do. They are called voluntary or trained clairvoyants.  
 
 In the Jupiter Period the man will function in his vital body as he now does in his dense body; and as no development in nature is sudden, the process of separating the two bodies has already commenced. The vital body will then attain a much higher degree of efficiency than the dense body of today. As it is a much more pliable vehicle, the Spirit will then be able to use it in a manner impossible of realization in the case of the present dense vehicle. 
 
@@ -142,22 +115,15 @@ Nothing in Nature is wasted. In the Jupiter Period the forces of the dense body 
 
 Similarly, Globe D of the Venus Period is located in the Desire World, hence neither a dense nor a vital body could be used as an instrument of consciousness. Therefore the essences of the perfected dense and vital bodies are incorporated in the completed desire body, the latter thus becoming a vehicle of transcendent qualities, marvelously adaptable and so responsive to the slightest wish of the indwelling Spirit that in our present limitations it is beyond our utmost conception. 
 
-[20] 
-
 Yet the efficiency of even this splendid vehicle will be transcended when in the Vulcan Period its essence, together with the essences of the dense and vital bodies, are added to the mind body, which becomes the highest of man's vehicles, containing within itself the quintessence of all that was best in all the vehicles. The vehicle of the Venus Period being beyond our present power of conception, how much more so is that which will be at the service of the divine beings of the Vulcan Period! 
 
-[21] 
+### <h3 id="part-1-chapter-2">CHAPTER II: DURING EPOCHS</h3>
 
-CHAPTER II
-
-DURING EPOCHS 
 The Polarian, Hyperborean, Lemurian, and Atlantean Epochs were recapitulations of the stages through which the Virgin Spirits had passed. Consequently, the vital body underwent changes during those epochs. 
 
 When man first came upon this earth the dense body was built in the Polarian Epoch, and was vitalized by the interpenetration of a vital body in the Hyperborean Epoch. At that time man was like the Angels, male-female, a complete creative unit, able to create from himself, by projecting his whole creative force--which is love. 
 
 When the earth came out of chaos, it was at first in the dark red stage known as the Polarian Epoch. There humanity first evolved a dense body, not at all like our present vehicle, of course. When the condition of the earth became fiery, as in the Hyperborean Epoch, the vital body was added and man became plant-like, that is to say, he had the same vehicles as our plants have today, and also a similar consciousness, or rather, unconsciousness, to that which we have in dreamless sleep when the dense and vital bodies are left upon the bed. 
-
-[22] 
 
 The Lords of Form appeared (in the Hyperborean Epoch) with the Angels (humanity of the Moon Period), and clothed man's dense form with a vital body. 
 
@@ -168,8 +134,6 @@ By absorbing the crystalloids prepared by plants he evolved a vital body during 
 In the second, or Hyperborean Epoch, a vital body made of ether was added, and man-in-the-making had then a body constituted as are those of the present plants; he was not a plant but was plantlike. Cain, the man of that time, is described as an agriculturist; his food was derived solely from vegetation, for plants contain more ether than any other structure. 
 
 Cain is described as an agriculturist. He symbolizes the man of the Second Epoch. He had a vital body like the plants which sustained him. 
-
-[23] 
 
 In the second or Hyperborean Epoch, God said: "Let there be Light," the hot gas became a luminous firemist as it was in the Sun Period, and man's dense body was clothed with a vital body and it floated hither and thither above the fiery Earth as a large, baggy thing. Man was then plant-like because of having the same vehicles as the plant has now and the Angels were his helpers in organizing his vital body, and remain so to the present day. 
 
@@ -185,8 +149,6 @@ Thus, in the Hyperborean Epoch, when man was similar to the plants in constituti
 
 Thwarted in its effort to build the one form taller, it became necessary for the creative force in the vital body to seek a new channel whereby it might continue its upward growth in another human being. Then man became hermaphrodite, capable of generating a new body from himself. 
 
-[25] 
-
 Then we come to the second, the Hyperborean Epoch, where man has a dense and a vital body; that was the plant stage. His food was the plants, and we hear of Cain as an agriculturist. Next comes the Lemurian Epoch, and man gets the desire body. He has three vehicles, like the animals. 
 
 Then we have that stage where he is to have food of a nature that will feed all three bodies. This he gets from living animals, as when Abel was a shepherd. 
@@ -195,46 +157,36 @@ When we obtained our vital bodies in Hyperborea, the Sun, Moon, and Earth were s
 
 Thus dissolution became only a question of time, particularly as the constructive energy of the vital body was also necessarily divided, one part or pole being used in the vital functions of the body, the other to replace a vehicle lost by death. But as the two poles of a magnet or dynamo are requisite to manifestation, so also two single-sexed beings became necessary for generation; thus marriage and birth were necessarily inaugurated to offset the effect of death. Death, then, is the price we pay for consciousness in the present world; marriage and repeated births are our weapons against the king of terrors until our constitution shall change and we become as angels. 
 
-[26] 
-
 The higher vehicles of the early Atlanteans were not drawn into a concentric position in relation to the dense body, as are ours. The Spirit was not quite an indwelling Spirit; it was partially outside, therefore could not control its vehicles with as great facility as though it dwelt entirely inside. The head of the vital body was outside of and held a position far above the physical head. There is a point between the eyebrows and about a half inch below the surface of the skin, which has a corresponding point in the vital body. This point is not the pituitary body, which lies much deeper in the head of the dense body. It might be called "the root of the nose." When these two points in the dense and the vital bodies come into correspondence, as they do in man today, the trained clairvoyant sees them as a black spot, or rather as a vacant space, like the invisible core of a gas flame. This is the seat of the indwelling Spirit in the man--the Holy of Holies in the temple of the human body, barred to all but that indwelling human Ego whose home it is. The trained clairvoyant can see with more or less distinctness, according to his capacity and training, all the different bodies which form the aura of man. This spot alone is hidden from him. This is the "Isis" whose veil none may lift. Not even the highest evolved being on earth is capable of unveiling the Ego of the humblest and least developed creature. That, and that alone upon earth, is so sacred that it is absolutely safe from intrusion. 
-
-[27] 
 
 These two points just spoken of--the one in the dense body and its counterpart in the vital body--were far apart in the men of the early Atlantean days, as they are in the animals of our day. The head of the horse's vital body is far outside the head of its dense body. The two points are closer together in the dog than in any other animal except, perhaps, the elephant. When they come into correspondence we have an animal prodigy, able to count, spell, etc. 
 
 On account of the distance between these two points, the Atlantean's power of perception or vision was much keener in the inner worlds than in the dense Physical World, obscured by its atmosphere of thick, heavy fog. In the fullness of time, however, the atmosphere slowly became clearer; at the same time, the point spoken of in the vital body came closer and closer to the corresponding point in the dense body. As the two approached each other, man gradually lost touch with the inner worlds. They became dimmer as the dense Physical World became clearer in outline. Finally, in the last third of the Atlantean Epoch, the point in the vital body was united to the corresponding point in the dense body. Not until then did man become fully awake in the Physical World; but at the same time that full sight and perception in the Physical World were gained, the capability of perceiving the inner worlds was gradually lost to most of the people. 
 
-[28] 
-
 During the existence of this Race (the Original Semites) the atmosphere of Atlantis commenced to clear definitely, and the previously mentioned point in the vital body came into correspondence with its companion point in the dense body. The combination of events gave man the ability to see objects clearly with sharp well-defined contours; but it also resulted in loss of the sight pertaining to the inner worlds. 
 
 In the ages that have passed since the Lemurian Epoch humanity has been gradually building the cerebrospinal nervous system, which is under control of the will. In the latter part of the Atlantean Epoch, this was so far evolved that it became possible for the Ego to take full possession of the dense body. That was the time (previously described) when the point in the vital body came in correspondence with the point at the root of the nose in the dense body and the indwelling Spirit became awake in the Physical World but, so far as the greater part of humanity was concerned, lost consciousness of the inner worlds. 
 
-[29] 
+<h2 id="part-2">PART II: MAN'S VITAL BODY IN PRESENT ARYAN EPOCH</h2>
 
-PART II
+### <h3 id="part-2-chapter-1">CHAPTER I: GENERAL NATURE AND FUNCTION</h3>
 
-MAN'S VITAL BODY IN PRESENT ARYAN EPOCH 
-[31] 
-
-CHAPTER I
-
-GENERAL NATURE AND FUNCTION 
 Mankind is now evolving in the Aryan Epoch. His vital body has functions, color, form, atomic structure and polarity. Its existence can be proved. 
 
 We have seen that man is a very complex organism, consisting of: 
 
-The dense body, which is his tool in action. 
-The vital body, a medium of "vitality" which makes action possible. 
-The desire body, whence comes desire and which compels action. 
-The mind, a brake on impulse, giving purpose to action. 
-The Ego, which acts and gathers experience from action. 
+The dense body, which is his tool in action.  
+The vital body, a medium of "vitality" which makes action possible.  
+The desire body, whence comes desire and which compels action.  
+The mind, a brake on impulse, giving purpose to action.  
+The Ego, which acts and gathers experience from action.  
+
 The purpose of life is to transform the powers latent in the Ego into dynamic energy, whereby it may perfectly control its different vehicles and act as It pleases. We know that it does not have full sway now, or there would be no warfare in our breasts, as we say, between the Spirit and the flesh, but in reality, as we should say, between the Spirit and the desire body. It is this warfare that develops the spiritual muscle, as wrestling builds the physical muscle. It is easy to bid others do this and that, but to enforce obedience from oneself is the hardest task in the world, and it has been truly said that "the man who conquers himself is greater than he who takes a city." Goethe, the great initiate poet, gives us the reason why in the lines: 
 
-
+```
 From every pow'r that holds the world in chains,
 Man frees himself when self-control he gains.
+```
 
 In addition to the visible body of man which we see with our physical eyes, there are other and finer vehicles that are unseen by the great majority of mankind. Nevertheless they are not superfluous appendages to the physical body, but are indeed much more important from the fact that they are the springs of all action. Without these finer vehicles the physical body would be inert, senseless, and dead. 
 
@@ -242,21 +194,15 @@ The first of these vehicles we call the vital body because it is the avenue of v
 
 When our present visible body first germinated in the Spirit, it was a thought-form, but gradually it has become denser and more concrete until it is now a chemical crystallization. The vital body was next emanated by the Spirit as a thought-form and is in the third stage of concretion which is etheric. 
 
-[33] 
-
 Besides the dense body which is visible to all of us, there are finer vehicles which interpenetrate this organism and which are the springs to its activities. One is the vital body, composed of ether and concerned in building the dense body by the food which we take into the system. It controls all the vital functions, such as respiration, digestion, assimilation, etc., and works through the sympathetic nervous system. Another, still finer vehicle, is called the desire body. This is the vehicle of our emotions, feelings, and desires which expends the energies stored in the dense body by the vital processes through control of the cerebrospinal or voluntary nervous system. In its activities this desire body is constantly destroying and breaking down tissue built up by the vital body and it is the war between these two vehicles which causes what we call consciousness in the Physical World. The etheric forces in the vital body act in such a manner that they convert as much of the food as possible into blood, and this is the highest expression of the vital body. 
 
 Propagation is a faculty of the vital body which is the shadow of the Life Spirit, the second aspect of the threefold Spirit in man. 
 
 Cherubim are described as having been put on guard with a flaming sword when man was driven out from Eden, lest he eat of the Tree of Life and become immortal, for they are the great creative Hierarchy which had charge over the Earth in the Sun Period, when the vital body germinated and the Life Spirit was awakened. 
 
-[34] 
-
 In our Bible there is a description of the first people upon earth. They are called Adam and Eve; but properly interpreted this means the human race, which gradually arrogated to itself the power of procreation and thereby became free agents. Humanity was thus given its freedom and made responsible to the Law of Consequence, for it had arrogated to itself the power to create new bodies, and was then separated from the Tree of Life and the state which we are now cognizant of as etheric. When we learn that we have a vital body made of ether, and that it is the tree of life to everyone of us and furnishes us the vitality whereby we are enabled to make the movements of the body, we may understand why the power to recreate and regenerate ourselves was taken away from us lest we learn how to vitalize the imperfect dense body; and we also see why, as stated in the Bible, there were placed at the gate of the Garden of Eden Cherubim with flaming swords to guard that region. 
 
 It was for a good purpose that this power was taken away. It was not through malice in order that man should suffer in sorrow and pain, but because it was only by repeated existences in an inferior body that we could learn to build for ourselves such a vehicle as would be fit to immortalize. Man gradually came down from the etheric state to the present solid condition. He could dwell in the etheric state as easily then as he can today dwell in the present three elements of the Physical World. In the past etheric state he contacted internally the life currents that we now contact unconsciously. He was then able to center the energy of the Sun in his body and draw it in a manner different from that at present used. This power was gradually taken away from him as he entered the more solid state of the present. 
-
-[35] 
 
 That body of ours which is composed of ether is called the vital body in Western Mystery Schools, for, as we have already seen, ether is the avenue of ingress for vital force from the Sun and the field of agencies in nature which promote such vital activities as assimilation, growth, and propagation. 
 
@@ -266,33 +212,23 @@ The spleen is the entrance gate of forces which vitalize the body. In the etheri
 
 During the daytime the vital body specializes the colorless solar fluid which is all about us, through the organ we call the spleen. The vitality permeates the whole body and is seen by the clairvoyant as a fluid of a pale rose color, having been transmuted upon entering the physical body. It flows along every nerve, and when it is sent out by the brain centers in particularly large quantities it moves the muscles to which the nerves lead. 
 
-[36] 
-
 During the waking state there is a constant war between the vital body and the desire body. The desires and impulses from the desire body are constantly impinging upon the dense body, impelling it to action, regardless of any damage resulting to the latter instrument, so that desire is gratified. It is the desire vehicle that urges the drunkard to fill his system with liquor, so that the chemical combustion of spirit may raise the vibrations of the dense body to such a pitch as to make it the willing tool of every mad impulse, wasting its stored energy with reckless prodigality. The vital body, on the other hand, has no other interest than the preservation of the dense vehicle. By way of the spleen it specializes the colorless solar energy which pervades space, and by some strange chemical process transforms it into a vital fluid of a beautiful pale rose color, sending it along every nerve and fiber of the body. The vital body ever aims to husband the energy it has stored in the dense body. It is constantly concerned in rebuilding the tissues when they are broken down and destroyed by the powerful onslaughts of the rampant desire body. 
 
 Four of these colors are quite indescribable, but the fifth--the middle one of the five--is similar to the tint of an new blown peach blossom. It is in fact the color of the vital body. 
 
 Man's dense and vital bodies have straightened, but his higher vehicles still retain their ovoid form. 
 
-[37] 
-
 It has been determined by physical science that the atoms in our dense body are constantly changing so that all the material which composes our present vehicle at this moment will have disappeared in a few years, but it is common knowledge that scars and other blemishes perpetuate themselves from childhood to old age. The reason for this is that the prismatic ether atoms which compose our vital body remain unchanged from the cradle to the grave. They are always in the same relative position--that is to say, the prismatic ether atoms which vibrate the physical atoms in the toes or in the fingers do not get to the hands, legs, or any other part of the body, but remain in exactly the same place where they were placed in the beginning. A lesion of the physical atoms involves a similar impression on the prismatic ether atoms. The new physical matter molded over them continues to take on shape and texture similar to those which originally obtained. 
 
 The foregoing remarks apply only to the prismatic ether atoms which correspond to solids and liquids in the Physical World, because they assume a certain definite shape which they preserve. But in addition each human being at this stage of evolution has a certain amount of the light and reflecting ethers, which are the vehicles of sense perception and memory, intermingled in his vital body. We may say that the light ether corresponds to the gases in our Physical World; perhaps the best description that can be given of the reflecting ether is to call it hyperetheric. It is a vacuous substance of a bluish color resembling in appearance the blue core of a gas flame. It appears transparent and seems to reveal everything that is within it, but nevertheless it hides all the secrets of nature and humanity. In it is found one record of the Memory of Nature. 
-
-[38] 
 
 The light and reflecting ethers are of an exactly opposite nature to that of the stationary prismatic ethers atoms. They are volatile and migratory. However much or little a man possesses of this material, it is an accretion, a fruitage, derived from his experiences in life. Inside the body it mingles with the blood stream and when it has grown by service and sacrifice in life's school so that it can no longer be contained within the body, it is seen on the outside as a soul body of gold and blue. Blue shows the highest type of spirituality, therefore it is smallest in volume and may be compared to the blue core of the gas flame, while the golden hue forms the larger part and corresponds to the yellow light which surrounds the core in the gas ring. The blue color does not appear outside the dense body save in the very greatest of saints--only yellow is usually observable there. At death this part of the vital body is etched into the desire body with the life panorama which it contains. The quintessence of all our life experience is then eventually impressed upon the seed atom as conscience or virtue which urges us to avoid evil and to do good in a coming life. 
 
 When we analyze the human being, we find that in him all four ethers are dynamically active in the highly organized vital body. By means of the activities of the chemical ether he is able to assimilate food and to grow; the forces at work in the life ether enable him to propagate his species; the forces in the light ether supply the dense body with heat, work on the nervous system and the muscles, thus opening the doors of communication with the outside world by way of the senses; and the reflecting ether enables the Spirit to control its vehicles by means of thought. This ether also stores past experience as memory. 
 
-[39] 
-
 The vital body of plant, animal, and man, extends beyond the periphery of the dense body as the Etheric Region, which is the vital body of the planet, extends beyond its dense part, showing again the truth of the Hermetic axiom "as above, so below." The distance of this extension of the vital body of man is about an inch and a half. The part which is outside the dense body is very luminous and about the color of a new-blown peach blossom. It is often seen by persons having very slight involuntary clairvoyance. The writer has found, when speaking with such persons, that they frequently are not aware that they see anything unusual and do not know what they see. 
 
 The dense body is built into the matrix of this vital body during ante-natal life, and with one exception, it is an exact copy, molecule for molecule, of the vital body. As the lines of force in freezing water are the avenues of formation for ice crystals, so the lines of force in the vital body determine the shape of the dense body. All through life the vital body is the builder and restorer of the dense form. Were it not for the etheric heart the dense heart would break quickly under the constant strain we put upon it. All the abuses to which we subject the dense body are counteracted, so far as lies in its power, by the vital body, which is continually fighting against the death of the dense body. 
-
-[40] 
 
 The exception mentioned above is that the vital body of a man is female or negative, while that of a woman is male or positive. In that fact we have the key to numerous puzzling problems of life. That woman gives way to her emotions is due to the polarity noted, for her positive vital body generates an excess of blood and causes her to labor under an enormous internal pressure that would break the physical casement were not a safety valve provided in the periodical flow, and another in the tears which relieve the pressure on special occasions--for tears are "white bleeding." 
 
@@ -301,8 +237,6 @@ Man may have and has as strong emotions as woman, but he is usually able to supp
 Unlike the higher vehicles of humanity, the vital body does not ordinarily leave the dense body until the death of the latter. Then the chemical forces of the dense body are no longer held in check by the evolving life. They proceed to restore the matter to its primordial condition by disintegration so that it may be available for the formation of other forms in the economy of nature. Disintegration is thus due to the activity of the planetary forces in the chemical ether. 
 
 In texture the vital body may be crudely compared to one of those picture frames made of hundreds of little pieces of wood which interlock and present innumerable points to the observer. The vital body presents millions of points to the observer. These points enter into the hollow centers of the dense atoms, imbuing them with vital force that sets them vibrating at a rate higher than that of the mineral of the earth which is not thus accelerated and ensouled. 
-
-[41] 
 
 When a person is drowning, or falling from a height, or freezing, the vital body leaves the dense body, the atoms of which become temporarily inert in consequence, but at resuscitation it re-enters the dense body and the "points" are again inserted in the dense atoms. The inertia of the atoms causes them to resist the resumption of vibration, and that is the cause of the intense prickly pain and the tingling sensation noted at such times, but not ordinarily, for the same reason that we become conscious of the starting or stopping of a clock, but are oblivious to its tick when it is running. 
 
@@ -316,25 +250,17 @@ Thus the point of the prism penetrates the physical atom at the narrowest point,
 
 The light and reflecting ethers are avenues of consciousness and memory. They are somewhat attenuated in the average individual and have not yet taken definite form; they interpenetrate the atom as air interpenetrates a sponge, and they form a slight auric atmosphere outside each atom. 
 
-[43] 
-
 If we had said that the vital body is built of prisms instead of points, it would have been better, for it is by refraction through these minute prisms that the colorless solar fluid changes to a rosy hue as observed by other writers beside the author. 
 
 Other new and important discoveries have also been made; for instance, we know now that the silver cord is grown anew in each life, that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that both parts meet in the seed atom of the vital body in the solar plexus, and that this union of the higher and lower vehicles causes the quickening. Further development of the cord between the heart and solar plexus during the first seven years has an important bearing on the mystery of child-life, likewise its fuller growth from the liver to the solar plexus, which takes place during the second septenary period, and is a contributory cause of adolescence. Completion of the silver cord marks the end of child-life, and from that time the solar energy which enters through the spleen and is tinted by refraction through the prismatic seed atom of the vital body located in the solar plexus, commences to give a distinctive and individual coloring to the aura which we observe in adults. 
-
-[44] 
 
 As the ether carries to the sensitive film in the camera an accurate impression of the surrounding landscape, taking in the minutest detail regardless of whether the photographer has observed it or not, so the ether contained in the air we inspire carries with it an accurate and detailed picture of all our surroundings. Not only of material things, but also the conditions existing each moment within our aura. The slightest thought, feeling, or emotion is transmitted to the lungs, where it is injected into the blood. The blood is one of the highest products of the vital body, as it is the carrier of nourishment to every part of the body and the direct vehicle of the Ego. The pictures it contains are impressed upon the negative atoms of the vital body, to serve as arbiters of the man's destiny in the post-mortem state. 
 
 In many women, in whom the vital body is positive, and in advanced people of either sex where the vital body has been sensitized by a pure and holy life, by prayer and concentration, this superconscious memory inherent in the Life Spirit is occasionally, to some extent, above the necessity of clothing itself in mind stuff and desire matter in order to compel action. It does not always need to incur the danger of being subjected to and perhaps overruled by a process of reasoning. Sometimes, in the form of intuition or teaching from within, it impresses itself directly upon the reflecting ether of the vital body. The more readily we learn to recognize it and follow its dictates, the oftener it will speak, to our eternal welfare. 
 
-[45] 
-
 By their activities during waking hours the desire body and the mind are constantly destroying the dense vehicle. Every thought and movement breaks down tissue. On the other hand, the vital body faithfully endeavors to restore harmony and build up what the other vehicles are tearing down. It is not able, however, to withstand entirely the powerful onslaughts of the impulses and thoughts. It gradually loses ground and at last there comes a time when it collapses. Its "points" shrivel up, so to say. The vital fluid ceases to flow along the nerves in sufficient quantity; the body becomes drowsy, the Thinker is hampered by its drowsiness and forced to withdraw, taking the desire body with him. This withdrawal of the higher vehicles leaves the dense body interpenetrated by the vital body in the senseless state we call sleep. 
 
 Like a wise general, the Ego followed a similar course of action. It did not commence its campaign by getting control of one of the glands, for they are expressions of the vital body; nor was it possible to get control of the voluntary muscles, for they are too well garrisoned by the enemy. That part of the involuntary muscular system which is controlled by the sympathetic nervous system would also be useless for the purpose. It must get into a more direct touch with the cerebrospinal nervous system. To do this, and secure a base of operations in the enemy's country, it must control a muscle which is involuntary, and yet connected with the voluntary nervous system. Such a muscle is the heart. 
-
-[46] 
 
 The blood is the highest expression of the vital body, for it nourishes the entire physical organism. It is also, in a sense, the vehicle of the subconscious memory, and in touch with the Memory of Nature, situated in the highest division of the Etheric Region. The blood carries the pictures of life from ancestors to descendants for generations, where there is a common blood, as produced by inbreeding. 
 
@@ -343,8 +269,6 @@ The love and unity in the World of the Life Spirit find their illusory counterpa
 Looking at the matter from an occult standpoint, all consciousness in the Physical World is the result of the constant war between the desire and the vital bodies. 
 
 The tendency of the vital body is to soften and build. Its chief expression is the blood and the glands, also the sympathetic nervous system, having obtained ingress into the stronghold of the desire body (the muscular and the voluntary nervous systems) when it began to develop the heart into a voluntary muscle. 
-
-[47] 
 
 We ourselves, as Egos, function directly in the subtle substance of the Region of Abstract Thought, which we have specialized within the periphery of our individual aura. Thence we view the impressions made by the outer world upon the vital body through the senses, together with the feelings and emotions generated by them in the desire body, and mirrored in the mind. 
 
@@ -355,8 +279,6 @@ The Sun works in the vital body and is the force which makes for life, and wars 
 As when reflected in a pond, the images of trees appear inverted, the foliage seeming to be the deepest down in the water, so the highest aspect of the Spirit (the Divine Spirit) finds its counterpart in the lowest of the three bodies (the dense body). The next highest Spirit (the Life Spirit) is reflected in the next lowest body (the vital body). The third Spirit (the Human Spirit) and its reflection, the third body (the desire body), appear closest of all to the reflecting mirror, which is the mind, the latter corresponding to the surface of the pond--the reflecting medium in our analogy. 
 
 In the same way that the planetary vital and desire bodies interpenetrate the dense material of the Earth, so the vital and desire bodies interpenetrate the dense body of plant, animal, and man. 
-
-[48] 
 
 A vital body made of ether pervades the visible body as ether permeates all other forms, except that human beings specialize a greater amount of the universal ether than other forms. That ethereal body is our instrument for specializing the vital energy of the Sun. 
 
@@ -372,8 +294,6 @@ Woman has the positive vital body and as a result is intuitively in touch with t
 
 We said in the beginning of this description that the vital body is an exact counterpart of the dense body with one exception: it is of the opposite sex, or perhaps we should rather say polarity. As the vital body nourishes the dense vehicle, we may readily understand that blood is its highest visible expression, and also that a positively polarized vital body would generate more blood than a negative one. Woman who is physically negative has a positive vital body, hence, she generates a surplus of blood which is relieved by the periodical flow. She is also more prone to tears, which are white bleeding, than man, whose negative vital body does not generate more blood than he can comfortably take care of. Therefore it is not necessary for him to have the outlets which relieve excess of blood in woman. 
 
-[51] 
-
 The Angels, who were the humanity of the Moon Period, work with man, animal, and plant, for in the Moon Period the universe was of the consistency of "ether" and the vital bodies of the three kingdoms named are formed of that material. The Angels are, therefore, properly helpers in the vital functions such as assimilation, growth, and propagation, and in their work with humanity they are family spirits. They cause the increase in the family, in man's cattle, and in the yield of his fields. 
 
 Since this ancient time the lunar Angels have taken charge principally of the moist, aqueous vital body composed of the four ethers and concerned in the propagation and nourishment of the species, while the Lucifer Spirits are singularly active in the dry and fiery desire vehicles. The function of the vital body is to build and sustain the dense body, while that of the desire body involves destruction of the tissues. Thus, there is a constant war going on between the desire and vital bodies, and it is this war in heaven that causes our physical consciousness on earth. 
@@ -388,8 +308,6 @@ The threefold Spirit cast a threefold shadow into the realm of matter, and thus 
 
 There are a number of ways to prove the existence and reality of the vital body....In the first place, there is the camera. Perhaps you can find in your town among the Spiritualists one able to take Spirit photographs. Though there are tricks well known to photographers whereby such pictures may be produced, it is nevertheless a fact that under conditions where there was absolutely no fraud, photographs have been taken of people who have passed into the beyond. They have been able to clothe themselves in ether, the material whereof the vital body is constructed, and which is visible to the eye of the lens. The writer himself was once caught by the camera when he traveled in his vital body from Los Angeles to San Pedro to see a friend off on a steamer. It so happened that he came between this friend and the camera of another friend who was just taking a snapshot of the ship, and the likeness was so good that it was recognized by a number of people. 
 
-[54] 
-
 Then we have the phenomenon of dogs following certain persons by the scent obtained from clothing they have worn. This clothing is impregnated by the ether from the vital body, which latter protrudes about an inch and a half beyond the periphery of the dense body. Hence also at every step we take the earth is penetrated by this invisible, radiating fluid. But it has been found that blood hounds following the fleeing criminal were baffled and lost the scent because the fugitive had put on skates and made his way over the ice. This raised him above the ground so that the vital body protruding below his feet did not impregnate the ice and therefore there was no scent whereby the bloodhounds could trace him. Similar results have been obtained by a person walking on stilts from the place of his crime. 
 
 Then there is the case of the magnetic healer who draws from his patient the diseased parts of the vital body which are then replaced by fresh ethers that allow the life forces to course through the diseased physical organ and thereby affect a cure. If the magnetic healer is not careful to throw off the black, jelly-like, miasmatic, etheric fluid which he has drawn into his own body, he in turn will become ill, and if there were no such invisible fluid as we speak of, the phenomena of the patient's recovery and the magnetic healer's illness could not take place. 
@@ -398,18 +316,13 @@ Finally, we may say that if you can find the conditions and are to go to the tro
 
 Though science has not directly observed this vital body of man, it has upon several occasions postulated the existence of such a vehicle as necessary to account for facts in life and the radiations have been observed by a number of scientists at different times and under varying conditions. Blondlot and Charpentier have called them N-rays after the city of Nantes, where the radiations were observed by these scientists, others have named them "the Odic fluid." Scientific investigators who have conducted researches into psychic phenomena have even photographed it when it has been extracted through the spleen by materializing Spirits. Dr. Hotz, for instance, obtained two photographs of a materialization through the German medium, Minna-Demmler. On one a cloud of ether is seen oozing out through the left side of the medium, shapeless and without form. The second picture, taken a few moments later, shows the materialized Spirit standing at the medium's side. Other photographs obtained by scientists from the Italian medium Eusapio Palladino show a luminous cloud over-hanging her left side. 
 
-[57] 
+### <h3 id="part-2-chapter-2">CHAPTER II: IN HEALTH AND SICKNESS</h3>
 
-CHAPTER II
-
-IN HEALTH AND SICKNESS 
 The vital body plays an important part in health and in sickness. It is affected by amputation, accidents, anesthetics, drowning, shock, regret and remorse. When it is not in a concentric position, in relation to the Ego's other vehicles, insanity and idiocy may result. 
 
 If strict attention is paid to hygiene and diet, the dense body is the one principally affected, but at the same time there is also an effect on the vital body and the desire body for, as purer and better materials are built into the dense body, the particles are enveloped in pure planetary ether and desire-stuff also. Therefore the planetary parts of the vital and desire bodies become purer. If attention is paid to food and hygiene only, the personal vital and desire bodies may remain almost as impure as before, but it has become just a little easier to get into touch with the good than if gross food were used. 
 
 On the other hand if, despite annoyances, an equable tempter is cultivated, also literary and artistic tastes, the vital body will produce an effect of daintiness and fastidiousness in physical matters and will also engender ennobling feelings and emotions in the desire body. 
-
-[58] 
 
 Seeking to cultivate the emotions also reacts upon the other vehicles and helps to improve them. 
 
@@ -427,21 +340,15 @@ Sickness shows itself first in the desire body and in the vital body, which beco
 
 When a seer examines one who is about to become ill, he will find that the vital body is actually becoming more attenuated, and when it has reached a point of tenuity where it can no longer support the physical body, the latter commences to manifest signs of what we call disease. Again, some time before we see physical recovery, the vital body gradually becomes more dense in structure; then the period of convalescence commences. 
 
-[60] 
-
 During ill health the vital body specializes but little solar energy. Then, for a time, the visible body seems to feed upon the vital body as it were, so that the vehicle becomes more transparent and attenuated at the same rate as the visible body exhibits a state of emaciation. The cleansing Odic radiations are almost entirely absent during sickness, therefore complications set in so easily. 
 
 Man, who has the positive physical body, has a negative vital body. Thus he is not able to resist disease as well as woman, who has a negative physical body, but a positive vital vehicle. For that reason woman is able to endure a siege of sickness that would kill a man twice her weight and apparent vitality. She suffers more keenly than man, but bears pain with more fortitude. When the favorable turn comes, her positively polarized vital body seems to suck in, as with a million mouths, the solar energy. It swells and begins almost immediately to radiate the streamers so characteristic of health, with the result that the physical body recuperates apace. 
 
 On the other hand, when a man has been brought very low by sickness and the turn of the tide sets in, his negatively polarized vital body is like a sponge. It will absorb all the solar energy it can get, but the avidity noticeable in the vital body of the woman is lacking. Therefore he lingers a long while in the shadow of death, and as it is easier to give up than fight, he succumbs oftener. 
 
-[61] 
-
 When one looks with the spiritual sight at a person who is diseased, the patient's vital body looks thin and emaciated in proportion to the ravages made by the disease. There are no radiating lines from it as when the body is in health, but a sickly emanation which curls up in eddies and spirals that hang close to the dense body. Instead of being pinkish-purple it is usually a dull grey in most places, and the part that is particularly diseased is enveloped in something which resembles a mass of black jelly. That is what we might call the vibrations of disease, and at the time when the person receives a magnetic healing treatment it is this black poisonous mass which is absorbed into the hands of the healer. When he or she throws it off by a vigorous movement of the arms it sinks to the floor. Then if the patient happens to step close to that place where it lies he or she will reabsorb it. Therefore, it has always been the writer's practice to throw these emanations either out of the window or into a fireplace where they may be burned. Then they can do no harm. 
 
 So long as an organ is diseased it generates this poison stuff which hangs about it and prevents the currents of the vital body from coursing through it. What a magnetic healer does is simply to cleanse this organ for the time being and thus he opens the way for the influx of life-giving and health-promoting currents. The relief is usually only temporary, for the weak and diseased organ continue to generate the poison "miasma," as we call it, so that shortly it requires another cleansing by the magnetic healer. 
-
-[62] 
 
 This continues until the vital currents finally become sufficiently strong to over-master and throw off the poison stuff and cleanse the organ themselves. Then health returns. 
 
@@ -459,15 +366,11 @@ In the case of one who is really nearly ready for initiation, the pitch of vibra
 
 If such a person at this critical period meets someone who ignorantly or unscrupulously gives him breathing exercises, and if he follows the instructions accurately in the hope of getting quick results, he will get them quickly but in a manner he has not looked for, since the vibratory rate of the atoms in his body will in a very short time become accelerated to such a pitch that it will seem to him as if he were walking on air; then also an improper cleavage of the vital body may take place, and either consumption or insanity follows. 
 
-[65] 
-
 When anesthetics are used the vital body is partially driven out, along with the higher vehicles, and if the application is too strong and the life ether is driven out, death ensues. This same phenomenon may also be observed in the case of materializing mediums. In fact the difference between a materializing medium and an ordinary man or woman is just this: In the ordinary man or woman the vital body and the dense body are, at the present stage of evolution, quite firmly interlocked, while in the medium they are loosely connected. It has not always been so, and the time will again come when the vital body may normally leave the dense vehicle, but that is not normally accomplished at present. When a medium allows his or her vital body to be used by an entity from the Desire World who wishes to materialize, the vital body generally oozes from the left side--through the spleen, which is its particular "gate." Then the vital forces cannot flow into the body as they do normally, the medium becomes greatly exhausted, and some of them resort to stimulants to counteract the effects, in time becoming incurable drunkards. 
 
 The vital force from the Sun, which surrounds us as a colorless fluid, is absorbed by the vital body through the etheric counterpart of the spleen, wherein it undergoes a curious transformation of color. It becomes pale rose-hued and spreads along the nerves all over the dense body. It is to the nervous system what the force of electricity is to a telegraph system. Though there be wires, instruments, and telegraph operators all in order, if the electricity is lacking no message can be sent. The Ego, the brain, and the nervous system may be in seemingly perfect order, but if the vital body be lacking to carry the message of the Ego through the nerves to the muscles, the dense body will remain inert. This is exactly what happens when part of the dense body becomes paralyzed. The vital body has become diseased and the vital force can no longer flow. In such cases, as in most sickness, the trouble is with the finer invisible vehicles. In conscious or unconscious recognition of this fact, the most successful physicians use suggestion--which works upon the higher vehicles--as an aid to medicine. The more a physician can imbue his patient with faith and hope, the speedier disease will vanish and give place to perfect health. 
 
 During health the vital body specializes in super-abundance of vital force, which, after passing through a dense body, radiates in straight lines in every direction from the periphery thereof, as the radii of a circle do from the center; but during ill health, when the vital body becomes attenuated, it is not able to draw to itself the same amount of force and in addition the dense body is feeding upon it. Then the lines of the vital fluid which pass out from the body are crumpled and bent, showing the lack of force behind them. In health the great force of these radiations carries with it germs and microbes which are inimical to the health of the dense body; but in sickness, when the vital force is weak, these emanations do not so readily eliminate disease germs. Therefore the danger of contracting disease is much greater when the vital forces are low than when on is in robust health. 
-
-[67] 
 
 In cases where parts of the dense body are amputated, only the planetary ether accompanies the separated part. The separate vital body and the dense body disintegrate synchronously after death. So with the etheric counterpart of the amputated limb. It will gradually disintegrate as the dense member delays, but in the meantime the fact that the man still possesses the etheric limb accounts for his assertion that he can feel his fingers or suffer pain in them. There is also a connection with a buried member, irrespective of distance. A case is on record where a man felt a severe pain, as if a nail had been driven into the flesh of an amputated limb, and he persisted until the limb was exhumed, when it was found that a nail had been driven into it at the time it was boxed for burial. The nail was removed and the pain instantly stopped. It is also in accordance with these facts that people complain of pain in a limb for perhaps two or three years after amputation. The pain will then cease. This is because the disease remains in the still undetached etheric limb, but as the amputated part disintegrates, the etheric limb follows suit and the pain ceases. 
 
@@ -477,13 +380,9 @@ When a falling body has attained a certain velocity, the higher ethers leave the
 
 From these facts we came to the conclusion that it is the normal air pressure which holds the vital body within the dense. When we move with an abnormal velocity, the pressure is removed from some parts of the body and a partial vacuum is formed, with the further result that the ethers leave the body and flow into this vacuum. The two higher ethers, which are most loosely bound, are the first to disappear and leave the man senseless after they have produced the panorama of life in a flash. Then if the fall continues to increase the air pressure in front of the body and the vacuum behind, the more closely bound lower ethers are also forced out, and the body is dead before it reached the ground. 
 
-[69] 
-
 It was found by examining a number of people in normal health that each of the prismatic atoms composing the lower ethers radiated from itself the lines of force which set spinning the physical atom in which it is inserted, enduing the whole body with life. The united trend of all these units of force is toward the periphery of the body, where they constitute what has been called the "Odic Fluid," also designated by other names. When the air pressure from without is lowered by residence in a high altitude, a tendency to nervousness becomes manifest because the etheric force from within rushes outward unchecked; and were the man not able to shut off the outflow of solar energy in part by an effort of will to overcome the difficulty, no one could live in such places. 
 
 Now comes the crux of our explanation. Ether is physical matter, and while people shot with small arms in a minor engagement may sometimes be seen walking away somewhat dazed but nevertheless conscious, the awful detonations of the big guns used so extensively have the effect of throwing the prismatic ether atoms topsy-turvy, and shattering (not scattering) the auric envelope of light and reflecting ethers which is the basis of sense-perception and memory. Until this resolves itself into its original relativity, the man remains in a stunned, comatose condition which often lasts for weeks. Under such conditions this fine etheric stuff does not lend itself to the formation of pictures of the past life--it is congealed to a certain extent. 
-
-[70] 
 
 During accidents by drowning or asphyxiation the person feels very clam and restful after the first struggle, though he realizes his peril in a measure. The vital body is extracted before the silver cord has parted, so it retains the properties of attracting matter from the Physical World. Therefore, people who died by drowning and asphyxiation, have been seen by their relatives many thousand miles away perhaps for an instant, lifelike in the extreme. An inclination or desire to be with their friends from whom they were separated had been in their minds for a long time, perhaps, and being themselves free from the fetters of the body, they are at once borne thither upon the wings of desire. Arrived in the place, the vital body attracted to itself sufficient of the particles of the atmosphere to be visible to the person visited. Then perhaps at that moment the silver cord broke, the vital body collapsed and the vision was gone. 
 
@@ -495,8 +394,6 @@ Indiscriminate breathing exercises do not effect this cleavage, but tend to lift
 
 The writer was at one time quite apprehensive of the effect which war might have in respect to locking the desire and vital bodies together and bringing to birth legions of monsters to afflict future generations. 
 
-[72] 
-
 But it is with great thankfulness that he records his conviction that we need have no fear on that score. Only when people are premeditatively malicious and vindictive, and persistently harbor a desire and a purpose to get even with some one, only when such feelings are hugged, nursed, and entertained do they harden the vital body and cause the interlocking grip of these vehicles. We know from the records of the great war that the rank and file have no such sentiments against one another, but that enemies meet as friends whenever chance brings them into such relationship that they may converse one with another. So, though war is responsible for the awful mortality now and will cause deplorable infant mortality in a future age, it will be blameless with regard to the dreadful diseases engendered by obsession and the crimes suggested by these demoniacal sin bodies. 
 
 Though mental disabilities, when congenital, are generally traceable to abuse of the creative function in a past life, there is at least one notable exception to this rule, namely, cases such as mentioned in The Rosicrucian Cosmo-Conception and elsewhere in our literature, and described as follows: Where a Spirit, who has a particularly hard life before, it, comes down to rebirth and feels upon entering the womb that the panorama of the coming life then shown it marks an existence too hard for it to undergo, it sometimes tries to run away from the school of life. At that time the Recording Angels or their agents have already made the connection between the vital body and the sense centers of the brain in the forming fetus; therefore the effort of the Spirit to escape from the mother's womb is frustrated, but the wrench that is given by the Ego deranges the connection between the etheric and physical sense centers, so that the vital body is not concentric with the physical, causing the etheric head to extend above the physical cranium. Thus it is impossible for the Spirit to use the dense vehicle; it is tied to a mindless body which it cannot use, and the embodiment is practically wasted. 
@@ -505,15 +402,11 @@ We also find cases where a great shock later if life causes the Spirit to endeav
 
 Insanity is always caused by a break in the chain of vehicles between the Ego an the physical body. This break may occur between the brain centers an the vital body, or it may be between the vital and the desire body, between the desire body and the mind, or between the mind and the Ego. The rupture may be complete or only partial. 
 
-[74] 
-
 When the break is between the brain centers and the vital body, or between that and the desire body, we have the idiots. When the break is between the desire body and the mind, the violent and impulsive desire body rules and we have the raving maniac. When the break is between the Ego and the mind, the mind is the ruler over the other vehicles and we have the cunning maniac, who may deceive his keeper into believing that he is perfectly harmless until he has hatched some diabolical, cunning scheme. Then he may suddenly show his deranged mentality and cause a dreadful catastrophe. 
 
 There is one cause of insanity that it may be well to explain, as it is sometimes possible to avoid it. When the Ego is returning from the invisible world toward re-embodiment, it is shown the various incarnations available. It sees the coming life in its great and general events, much as a moving picture passing before its vision. Then it is given the choice, usually, of several lives. It sees at that time the lessons it has to learn, the fate it has generated for itself in past lives, and what part of that fate it will have to liquidate in each of the embodiments offered. Then it makes its choice and is guided by the agent of the Recording Angeles to the country and family where it is to live its coming life. 
 
 This panoramic view is seen in the Third Heaven where the Ego is naked and feels spiritually above sordid material considerations. It is much wiser then than it appears here on earth, where it is blinded by the flesh to an inconceivable extent. Later, when conception has taken place and the Ego draws into the womb of its mother, on about the eighteenth day after that event, it comes in contact with the etheric mold of its new physical body which has been made by the Recording Angels to give the brain formation that will impress upon the Ego the tendencies necessary to work out its destiny. 
-
-[75] 
 
 There the Ego sees again the pictures of the coming life, as the drowning man perceives the pictures of his past life --in a flash. At that time the Ego is already partially blind to its spiritual nature, so that if the coming life seems to be a hard one, it will oftentimes shrink from entering the womb and making the proper brain connections. It may endeavor to draw itself out quickly and then, instead of being concentric as the vital and the dense bodies should be, the vital body formed of ether may be drawn partially above the head of the dense body. It that case the connection between the sense centers of the vital body and the dense body are disrupted and the result is congenital idiocy, epilepsy, St. Vitus dance, and similar nervous disorders. 
 
@@ -535,26 +428,19 @@ At this time, the Ego is already so much blinded by the veil of matter that it d
 
 As a vampire sucks the ether from the vital body of its victim and feeds upon it, so perpetual thoughts of regret and remorse concerning certain things become a desire-elemental which acts as a vampire and draws the very life from the poor soul who has shaped it, and by the attraction of like for like, it fosters continuance of this morbid habit of regret. 
 
-[79] 
-
 If we indulge in regrets and remorse during every waking hour as some do, we are outdoing Purgatory, for though the time there is spent in eradication of evil, the consciousness turns from each picture when it has been torn out by the force of repulsion. Here, because of the interlocking of the desire and vital bodies, we are enabled to revivify a picture in memory as oft as we please, and while the desire body is gradually dissolved in Purgatory by the expurgation of the panorama of life, a certain small amount is added while we are living in the Physical World, to take the place of that which is ejected by remorse. Thus, remorse and regret when continually indulged in have the same effect on the desire body as excessive bathing has on the vital body. Both vehicles are depleted of strength by excessive cleansing, and for that reason it is as dangerous to the moral and spiritual health to indulge indiscriminately in feelings of regret and remorse as it is fatal to physical well being to bathe too much. Discrimination should govern in both cases. 
 
 As the force latent in gunpowder and kindred explosive substances may be used to further the greatest objects of civilization or to outdo the most savage acts of barbarism, so also, this emotion of remorse may be misused in such a manner that it becomes a detriment and a hindrance to the Ego instead of a help. When we indulge in remorse daily and hourly, we are actually wasting a great power which might be used for the most noble ends of life, for the constant indulgence of regret affects the desire body in a manner similar to that which follows excessive bathing of the physical body. . . . . Water has a great affinity for ether and absorbs it most greedily . . . . . When we take a bath under normal conditions it removes a great deal of poisonous miasmatic ether from our vital bodies, providing we stay in the water a reasonable length of time. After a bath the vital body becomes somewhat attenuated and consequently gives us a feeling of weakness, but if we are in our usual good health and have not stayed in the bath too long, the deficiency is soon made good by the stream of force which flows into the body through the spleen. When this influx of fresh ether has replaced the poisoned substance carried off in the water, we feel renewed vigor which we rightly attribute to the bath, though usually without realizing the full facts as here stated. 
 
 But when a person who is not in perfect health makes a habit of bathing every day, perhaps even twice or three times, an excess of ether is taken from the vital body. The supply entering by way of the spleen is also diminished on account of the loss of tone of the seed atom located in the solar plexus and the attenuated condition of the vital body. Thus it is impossible for such people to recuperate between such oft repeated depletions, and as a consequence the health of the dense body suffers; they lose strength continually and are apt to become confirmed invalids. 
 
-[81] 
+### <h3 id="part-2-chapter-3">CHAPTER III: IN SLEEP AND DREAMS</h3>
 
-CHAPTER III
-
-IN SLEEP AND DREAMS 
 The vital body is active in sleep as well as in the waking state and may be acted upon by the power of suggestion. Sleep may be induced by hypnosis. 
 
 We have in our body two nervous systems, the voluntary and the involuntary. The first named is operated directly by the desire body, and controls the movements of the body, tends to break down and destroy, only partially restrained in its ruthless task by the mind. The involuntary system has its particular vantage ground in the vital body; it governs the digestive and respiratory organs, which rebuild and restore the dense body. 
 
 It is this war between the vital body and the desire body which produces consciousness in the Physical World, but did not the mind act as a brake on the desire body, our waking hours would be very short, and so would our lives, for the vital body would soon be overridden in its beneficent offices by the reckless desire body, as evidenced in the exhaustion which follows a fit of temper, for temper is a condition where the man has "lost control" and the desire body rules unchecked. 
-
-[82] 
 
 In spite of all its efforts, however, the vital body slowly loses ground as the day goes along, the poisons of decaying tissue accumulate and impede the flow of the vital fluid, its motion become more and more sluggish. In consequence the visible body shows signs of exhaustion. At last the vital body, so to say, collapses, the vital fluid ceases to flow along the nerves in sufficient quantity to maintain the poise of the dense body, and that renders it unconscious and therefore unfit for the use of the Spirit. That is sleep. 
 
@@ -562,23 +448,17 @@ So also with the temple of the Ego, our dense body, when that has been exhausted
 
 The process of restoration now begins. In a fight in the Physical World the injuries are never all on one side; the winner always has some lesions. The fiercer the fight, and the more evenly the combatants are matched, the more lesions go to each. So with the combating vital and desire bodies, the desire body wins every time, yet its victory is always a defeat, for it is then forced to leave the battle field and the prize, the dense body, in the hands of the vanquished vital body and withdraw to repair its own shattered harmony. 
 
-[83] 
-
 When it withdraws from the sleeping body it enters that sea of force and harmony called the Desire World. Here it lives over the scenes of the day, but in reverse order, from effects to causes, straightening out the tangles of the day, forming true pictures to replace the wrong impressions due to the limitations of the life in the dense body, and as the harmonies of the Desire World pervade it, and wisdom and truth replace error, it regains its rhythm and its tone, the time required to restore it varying according to how illusive, impulsive, and strenuous had been the life of the day. 
 
 Then, and then only, does the work of restoring the vehicles left on the bed commence, and the restored desire body starts to revive the vital body, pumping rhythmic energy into it, and that in turn starts to work upon the dense body, eliminating the products of decay, principally by means of the sympathetic nervous system, with the result that the dense body is restored and overflowing with life when the desire body, mind, the Ego enter in the morning and cause it to wake. 
 
 It sometimes happens, however, that we have become so absorbed and interested in the affairs of our mundane existence that even after the vial body has collapsed and rendered the dense body unconscious we cannot make up our minds to leave it and commence the work of restoration; the desire body will cling like grim death, is dragged perhaps only half out by the Ego, and starts to ruminate over the happenings of the day in that position. 
 
-[84] 
-
 During the waking state, when the Ego is functioning consciously in the Physical World, its various vehicles are concentric--they occupy the same space--but at night, when the body is laid down to sleep, a separation takes place. the Ego, clothed in the mind and desire body, extricates itself from the dense body and the vital body, which are left upon the bed. The higher vehicles hover above or near. They are connected to the denser vehicles by the silver cord, a thin, glistening thread which take the shape of two figure sixes, one end being attached to the seed atom in the heart and the other to the center vortex of the desire body. 
 
 During sleep the Ego also withdraws from the dense body, but the vital body remains with the dense body and the silver cord is left intact. 
 
 The Desire World is an ocean of wisdom and harmony. Into this the Ego takes the mind and the desire body when the lower vehicles have been left in sleep. There the first care of the Ego is the restoration of the rhythm and harmony of the mind and the desire body. This restoration is accomplished gradually as the harmonious vibrations of the Desire World flow through them. There is an essence in the Desire World corresponding to the vital fluid which permeates the dense body by means of the vital body. The higher vehicles, as it were, steep themselves in this elixir of life. When strengthened, they commence work on the vital body, which was left with the sleeping dense body. Then the vital body begins to specialize the solar energy anew, rebuilding the dense body, using particularly the chemical ether as its medium in the process of restoration. 
-
-[85] 
 
 In the waking state, the different vehicles of the Ego, the mind, desire body, vital body, and dense body are all concentric. They occupy the same space, and the Ego functions outwardly in the Physical World. But at night, during the dreamless sleep, the Ego, clothed in the desire body and the mind, withdraws, leaving the physical and the vital body upon the bed, there being no connection between the higher and lower vehicles, save a thin, glistening thread, called the silver cord. It happens, however, that at times the Ego has been working so interestedly in the Physical World and the desire body has become so stirred up that it refuses to leave the lower vehicles and is only half withdrawn. Then the connection between the sense centers of the desire body and the sense centers of the physical brain are partly ruptured. The Ego sees the sights and scenes of the Desire World which, in themselves, are extremely fantastic and illusory, and they are transmitted to the brain centers without being connected by reason. From this condition come all the foolish and fantastic dreams which we have. 
 
@@ -588,25 +468,17 @@ The vital body may be said to be built of points which stick out in all directio
 
 The vital body leaves the dense body in a similar manner when a person is dying. Drowning persons who have been resuscitated experience an intense agony caused by the entrance of these points, which they feel as a prickling sensation. 
 
-[87] 
-
 During the daytime, when the solar fluid is being absorbed by the man in great quantities, these points of the vital body are blown out or distended, as it were, by the vital fluid, but as the day advances and poisons of decay clog the physical body more and more, the vital fluid flows less rapidly; in the evening there comes a time when the points in the vital body do not get a full supply of the life-giving fluid; they shrivel up and the atoms of the body move more sluggishly in consequence. Thus the Ego feels the body to be heavy, dull, and tired. At last there comes a time when, as it were, the vital body collapses and the vibrations of the dense atoms become so slow that the Ego can no longer move the body. It is forced to withdraw in order that its vehicle may recuperate. Then we say the body has gone to sleep. 
 
 Sleep is not an inactive state, however; if it were there would be no difference in feeling in the morning and no restorative power in sleep. The very word restoration implies activity. 
 
 When a building has become dilapidated from constant wear and tear and it is necessary to renovate and restore it, the tenants must move out to give the workmen full play. For similar reasons the Ego moves out of its tenement at night. As the workmen work upon the building, to make it fit for re-occupancy, so the Ego must work upon its building before it will be fit to re-enter. And such a work is done by us during the nighttime, although we are not conscious of it in our waking state. It is this activity which removes the poisons from the system, and as a result the body is fresh and vigorous in the morning when the Ego enters at the time of waking. 
 
-[88] 
-
 It depends upon the manner in which we have used our dense bodies in the daytime as to how long the desire body requires to perform the work of restoration of rhythm to the vital body and the dense body. If we have used our bodies strenuously during the previous day, inharmonies will, of course, be correspondingly prominent, and it will take the desire body most of the night to restore harmony and rhythm. Thus the man will be tied to his body day and night. But when he learns skill in action, controls his energy in the daytime, and ceases to waste his strength on unnecessary words and actions, when he commences to govern his temper and to stop inharmony due to incorrect observation, the desire body will not be occupied during the entire time of sleep in restoring the dense body. A part of the night may be used for work outside. If the sense centers of the desire body are sufficiently evolved, as they are with most of the intelligent class, the man may and does then slip the cable and soar into the Desire World. He takes in the sights and scenes there, though he does not usually remember them until he has effected a cleavage between the higher and lower parts of the vital body, as previously explained. 
 
 In the natural sleep the Ego, clothed in the mind and desire body, draws outside the physical body and usually hovers over the body, or at any rate remains close to it, connected by the silver cord, while the vital body and the dense body are resting upon the bed. 
 
-[89] 
-
 It is then possible to influence the person by instilling into his brain the thoughts and ideas we wish to communicate. Nevertheless, we cannot then get him to do anything or to entertain any idea except that which is in line with his natural proclivities. It is impossible to command him to do anything and to enforce obedience, the same as it is when he has been driven out by the passes of the hypnotist, for it is the brain which moves the muscles, and during the natural sleep his brain is interpenetrated by his own vital body and he is in perfect control of himself, while during the hypnotic sleep the passes of the hypnotist have driven the ether of which its vital body is composed out of the brain, down to the shoulders of the victim, where it lies around his neck and resembles the collar of a sweater. The dense brain is then open to the ether from the hypnotist's vital body, which displaces that of the proper owner. Thus in the hypnotic sleep the victim has no choice whatever as to the ideas he entertains or the movements he makes with his body, but in the ordinary sleep he is still a free agent. In fact, this method of suggestion during sleep is something which mothers will find extremely beneficial in treating refractory children, for if the mother will sit by the bed of the sleeping child, hold its hand, speak to it as she would speak when it is awake, instill into his brain ideas of such a nature as she would wish it to entertain, she will find that in the waking state many of these ideas will have taken root. Also in dealing with a person who is sick or is addicted to drink, if the mother, nurse, or others use this method, they will find it possible to instill hope and healing, materially furthering recovery or aiding self-mastery. 
-
-[90] 
 
 This method may of course be used for evil, but we cannot refrain from publishing it, as we believe that the good which can be done in this way will much more than offset the few cases where some misguided person may use it for the wrong purpose. 
 
@@ -614,15 +486,10 @@ Looked at from the standpoint of one life, such methods as for instance those em
 
 But looking at it from the deeper standpoint of the occultist, who views this life as only one in many, and looking at it from the effect it has upon the invisible vehicles of man, the case is vastly different. When a man is put into a hypnotic sleep, the hypnotist makes passes over him which have the effect of expelling the ether from the head of his dense body and substituting the ether of the hypnotist. The man is then under the perfect domination of another; he has no free will, and, therefore, the so-called "suggestions" are in reality commands which the victim has no choice but to obey. Besides, when the hypnotist withdraws his ether and wakens the victim he is unable to remove all the ether he put into him. To use a simile, as a small part of the magnetism infused into an electric dynamo before it can be started for the first time is left behind and remains as residual magnetism 
 
-[91] 
-
 to excite the fields of the dynamo every time it is started up, so also there remains a small part of the ether of the hypnotist's vital body in the medulla oblongata of the victim, which is a club the hypnotist holds over him all his life, and it is due to this fact that suggestions to be carried out at a period subsequent to the awakening of the victim are invariably followed. 
 
-[92] 
+### <h3 id="part-2-chapter-4">CHAPTER IV: AT DEATH AND IN INVISIBLE WORLDS</h3>
 
-CHAPTER IV
-
-AT DEATH AND IN INVISIBLE WORLDS 
 At death, there is a cleavage of the vital body and the higher parts enter the invisible worlds. Its seed atom is retained by the Ego when passing through the heaven worlds to be used as a nucleus for the vital body of a future embodiment. 
 
 This life on Earth lasts until the course of events foreshadowed in the wheel of life, the horoscope, has been run; and when the Spirit again reaches the realm of Samael, the Angel of Death, the mystic eighth house, the silver cord is loosed, and the Spirit returns to God who gave it, until the dawn of another life-day in the School of Earth beckons it to a new birth that it may acquire more skill in the arts and crafts of temple-building. 
@@ -631,15 +498,13 @@ By the fact of death if has been possible for the Angels to teach humanity betwe
 
 During life the collapse of the vital body at night terminates our view of the world about us, and causes us to lose ourselves in the unconsciousness of sleep. When the vital body collapses just subsequent to death, and the panorama of life is terminated, we also lose consciousness for a time which varies according to the individual. A darkness seems to fall upon the Spirit. Then after a while it wakes up and begins dimly to perceive the light of the other world, but is only gradually accustomed to the altered conditions. It is an experience similar to that which we have when coming out of a darkened room into sunlight, which blinds us by its brilliancy, until the pupils of our eyes have contracted so that they admit a quantity of light bearable to our organism. 
 
-[94] 
-
 When the man passes out a death, he takes with him the mind, desire body and vital body, the latter being the storehouse of the pictures of his past life. And during the three and one-half days following death these pictures are etched into the desire body to form the basis of the man's life in Purgatory and the First Heaven where evil is expurgated and the good assimilated. The experience of the life itself is forgotten, as we have forgotten the process of learning to write, but have retained the faculty. So the cumulative extract of all his experiences in Purgatory and the various heavens, are retained by the man and form his stock in trade in the next birth. The pains he has sustained speak to him as the voice of conscience, the good he has done gives him a more and more altruistic character. 
 
 No matter how long we may keep the Spirit from passing out, however, at last there will come a time then no stimulant can hold it and the last breath is drawn. Then the silver cord, of which the Bible speaks, and which holds the higher and the lower vehicles together, snaps the heart and causes that organ to stop. That rupture releases the vital body, and that, with the desire body and mind, floats above the visible body for from one to three and one-half days while the Spirit is engaged in reviewing the past life, an exceedingly important part of its post-mortem experience. Upon what review depends its whole existence from death to a new birth. 
 
 All ancient people, whether in the East or in the West, know much about birth and death which has been forgotten in modern times, because second sight was more prevalent then. To this day, for instance, many peasants in Norway assert ability to see the Spirit passing out of the body at death, as a long narrow white cloud, which is, of course, the vital body; and the Rosicrucian teaching--that the deceased hover around their earthly abode for some time after death, that they assume a luminous body and are sorely afflicted by the grief of dear ones--was common knowledge among the ancient Norsemen. When the deceased King Helfe of Denmark materialized to assuage the grief of his widow, and she exclaimed in anguish, "The dew of death has bathed his warrior body," he answered: 
 
-
+```
 'Tis thou, Sigruna
 Art cause alone,
 That Helge is bathed
@@ -649,6 +514,7 @@ Nor dry the bitter tears.
 Each bloody tear
 Falls on my breast,
 Icy cold. They will not let me rest.
+```
 
 When she (the author of The Ministry Of Angels) was about eighteen years of age, a girl friend called Maggie was suddenly taken very ill and died in her arms. Immediately after her heart had ceased to beat, she says, "I distinctly saw ascend from her body something in appearance like smoke or steam as it rises from a kettle in which water is boiling. The emanation rose only a little distance and there resolved itself into a form like that of my friend who had just died. This form, shadowy at first, gradually changed until it become well defined and clad in a pearly white, cloud-like robe, beneath which the outlines of the figure were distinctly visible. The face was that of my friend, but glorified with no trace upon it of the spasm of pain which had seized her just before she died." 
 
@@ -670,13 +536,9 @@ At death a separation takes place; the seed atom is withdrawn from the apex of t
 
 This process is attended with more or less violence according to the cause of death. An aged person whose vitality has been slowly ebbing may fall asleep and wake up on the other side of the veil without the slightest consciousness of how the change took place; a devout and religious person who has been prepared by prayer and meditation on the beyond would also be able to make an easy egress; people who freeze to death meet with what the writer believes to be the easiest of accidental deaths, drowning being next. 
 
-[100] 
-
 But when a person is young and healthy, especially if of an irreligious or atheistic turn of mind, the prismatic ether atom is so tightly entwined by the physical atom that a considerable wrench is required to separate the vital body. When the separation of the physical body from the higher vehicles has been accomplished and the person is dead, as we say, the light and reflecting ethers are separated from the prismatic atom. It is this stuff, as described in the Cosmo-Conception, which is molded into pictures of the past life and etched into the desire body, which then begins to feel whatever there was of pain or pleasure in the life. The part of the vital body composed of the prismatic chemical and life ethers then returns to the physical body, hovering above the grave and disintegrating synchronously with it. 
 
 The higher vehicles--vital body, desire body and mind--are seen to leave the dense body with a spiral movement, taking with them the soul of one dense atom. Not the atom itself, but the forces that played through it. The results of the experiences passed through in the dense body during the life just ended have been impressed upon this particular atom. While all other atoms of the dense body have been renewed from time to time, this permanent atom has remained. It has remained stable, not only through one life, but it has been a part of every dense body ever used by a particular Ego. It is withdrawn at death only to re-awaken at the dawn of another physical life, to serve again as the nucleus around which is built the new dense body to be used by the same Ego. It is therefore called the seed atom. During life the seed atom is situated in the left ventricle of the heart, near the apex. At death it rises to the brain by way of the pneumogastric nerve, leaving the dense body, together with the higher vehicles, by way of the sutures between the parietal and occipital bones. 
-
-[101] 
 
 When the higher vehicles have left the dense body they are still connected with it by a slender, glistening, silvery cord shaped much like two figure sixes reversed, one upright and one horizontally placed, the two connected at the extremities of the hooks. 
 
@@ -688,8 +550,6 @@ The silver cord snaps at the point where the sixes unite, half remaining with th
 
 In the beginning of 1906 Dr. McDougall made a series of experiments in the Massachusetts General Hospital, to determine, if possible, whether anything not ordinarily visible left the body at death. For this purpose he constructed a pair of scales capable of registering differences of one-tenth of an ounce. 
 
-[102] 
-
 The dying person and his bed were placed on one of the platforms of the scale, which was then balanced by weights placed on the opposite platform. In every instance it was noted that at the precise moment when the dying person drew the last breath, the platform containing the weights dropped with a startling suddenness, lifting the bed and the body, thus showing that something invisible, but having weight, had left the body. Thereupon the newspapers all over the country announced in glaring headlines that Dr. McDougall had "weighed the soul." 
 
 Occultism hails with joy the discoveries of modern science, as they invariably corroborate what occult science has long taught. The experiments of Dr. McDougall showed conclusively that something invisible to ordinary sight left the body at death, as trained clairvoyants had seen, and as had been stated in lectures and literature for many years previous to Dr. McDougall's discovery. 
@@ -698,15 +558,11 @@ But this invisible "something" is not the soul. There is a great difference. The
 
 It was the vital body which the scientists weighted. It is formed of the four ethers and they belong to the Physical World. 
 
-[103] 
-
 As we have seen, a certain amount of this ether is "superimposed" upon the ether which envelopes the particles of the human body and is confined there during physical life, adding in a slight degree to the weight of the dense body of plant, animal, and man. In death it escapes; hence the diminution in weight noticed by Dr. McDougall when the persons with whom he experimented expired. 
 
 This feature of life after death is similar to that which takes place when one is drowning or falling from a height. In such cases the vital body also leaves the dense body and the man sees his life in a flash, because he loses consciousness at once. Of course the silver cord is not broken, or there could be no resuscitation. 
 
 When the endurance of the vital body has reached its limit, it collapses in the way described when we were considering the phenomenon of sleep. During physical life, when the Ego controls its vehicles, this collapse terminates the waking hours; after death the collapse of the vital body terminates the panorama and forces man to withdraw into the Desire World. The silver cord breaks at the point where the sixes unite, and the same division is made as during sleep, but with this important difference, that though the vital body returns to the dense body, it no longer interpenetrates it, but simply hovers over it. It remains floating over the grave, decaying synchronously with the dense vehicle. Hence, to the trained clairvoyant, a graveyard is a nauseating sight and if only more people could see it as he does, little argument would be necessary to induce them to change from the present unsanitary method of disposing of the dead to the more rational method of cremation, which restores the elements to other primordial condition without the objectionable features incident to the process of slow decay. 
-
-[104] 
 
 In leaving the vital body the process is much the same as when the dense body is discarded. The life forces of one atom are taken, to be used as a nucleus for the vital body of a future embodiment. Thus, upon his entrance into the Desire World, the man has the seed atoms of the dense and the vital bodies, in addition to the desire body and the mind. 
 
@@ -714,23 +570,17 @@ When a man dies, he at once seems to swell out in his vital body; he appears to 
 
 When the man dies and loses his dense and vital bodies there is the same condition as when one falls asleep. The desire body, as has been explained, has no organs ready to use. It is now transformed from an ovoid to a figure resembling the dense body which has been abandoned. We can easily understand that there must be an interval of unconsciousness resembling sleep and then the man awakes in the Desire World. It not infrequently happens, however, that such people are, for a long time, unaware of what has happened to them. They do not realize that they have died. They know that they are able to move and think. It is sometimes even a very hard matter to get them to believe that they are really "dead." They realize that something is different, but they are not able to understand what it is. 
 
-[105] 
-
 When the moment arrives which marks the completion of life in the Physical World, the usefulness of the dense body has ended, and the Ego withdraws from it by way of the head, taking with it the mind and the desire body, as it does every night during sleep, but now the vital body is useless, so that too is withdrawn, and when the "silver cord" which united the higher to the lower vehicles snaps, it can never be repaired. 
 
 We remember that the vital body is composed of ether, superimposed upon the dense bodies of plant, animal, and man during life. Ether is physical matter, and therefore has weight. The only reason why the scientists cannot weight it is because they are unable to gather a quantity and put it upon a scale. But when it leaves the dense body at death a diminution in weight will take place in every instance, showing that something having weight, yet invisible, leaves the dense body at that time. 
 
 The "silver cord" which units the higher and lower vehicles terminates at the seed-atom in the heart. When material life comes to an end in the natural manner the forces in the seed-atom disengage themselves, pass outward along the pneumogastric nerve, the back of the head and along the silver cord, together with the higher vehicles. It is this rupture in the heart which marks physical death, but the connecting silver cord is not broken at once, in some cases not for several days. 
 
-[106] 
-
 In lecture No. 3 we say that the vital body is the storehouse of both the conscious and subconscious memory; upon the vital body is branded indelibly every act and experience of the past life, as the scenery upon an exposed photographic plate. When the Ego has withdrawn it from the dense body, the whole life, as registered by the subconscious memory, is laid open to the eye of mind. It is the partial loosening of the vital body which causes a drowning person to see his whole past life, but then it is only like a flash, preceding unconscious; the silver cord remains intact, or there could be no resuscitation. In the case of a Spirit passing out at death, the movement is slower; the man stands as a spectator while the pictures succeed one another in the order from death to birth, so that he sees first the happenings just prior to death, the years of manhood or womanhood unroll themselves; youth, childhood, and infancy follow, until it terminates at birth. The man, however, has no feeling about them at that time. The object is merely to etch the panorama into the desire body, which is the seat of feeling, and from that impress the feeling will be realized when the Ego enters the Desire World, but we may note here that the intensity of feeling realized depends upon the length of time consumed in the process of etching, and the attention given thereto by the man. If he was undisturbed for a long period by noise and hysteria, a deep, clear-cut impress will be made upon the desire body. He will feel the wrong he did more keenly in Purgatory and be more abundantly strengthened in his good qualities in Heaven, and though the experience will be lost in a future life, the feelings will remain, as the "still, small voice." Where the feelings have been strongly indented upon the desire body of an Ego, this voice will speak in no vague and uncertain terms. It will impel him beyond gainsaying, forcing him to desist from that which caused pain in the life before, and compel him to yield to that which is good. Therefore the panorama passes backward, so that the Ego sees first the effects, and then the underlying causes. 
 
 As to what determines the length of the panorama, we remember that it was the collapse of the vital body which forced the higher vehicles to withdraw, so after death, when the vital body collapses, the Ego has to withdraw, and thus the panorama comes to an end. The duration of the panorama depends, therefore, upon the time the person could remain awake if necessary. Some people can remain awake only a few hours, others can endure for a few days, depending on the strength of their vital body. 
 
 When the Ego has left the vital body, the latter gravitates back to the dense body, remaining hovering above the grave, decaying as the dense body does, and it is indeed a noisome sight to the clairvoyant to pass through a cemetery and behold all those vital bodies whose state of decay clearly indicates the state of decomposition of the remains in the grave. If there were more clairvoyants, incineration would soon be adopted as a measure of protection to our feelings, if not for sanitary reasons. 
-
-[108] 
 
 Our latest investigations indicate that where a man spiritualizes his vehicles, the constitution of the vital body, made of ether, is most materially changed. In the ordinary man there is always a preponderance of the two lower ethers--the chemical and life ethers--which have to do with the upbuilding and propagation of the physical body, and a minimum of light and reflecting ethers, which are concerned with sense perception and the higher spiritual qualities. After death the body of the ordinary man is laid in the grave and the vital body hovers about two feet above the mound, gradually disintegrating. The dense body disintegrates simultaneously. However, when we say it decays, we really mean that it becomes much more alive than it was while man inhabited it, for each little molecule is now taken charge of by a separate, individual life. It begins to associate with its neighbors; the unity of an individual life is superseded by a community of many lives. 
 
@@ -740,11 +590,7 @@ These were cases where the body was rapidly returned to the elements, and when t
 
 However, so long as the archetype of the physical body persists, it endeavors to draw to itself physical materials which it then shapes according to the form of the vital body. Thus it is difficult for the Invisible Helper who passes out of his body to refrain from materializing. The moment his will to keep away from himself all physical impediments is relaxed, materials from the surrounding atmosphere attach themselves to him as iron filings are drawn to a magnet, and he becomes visible and tangible to whatever extent he desires. Thus he is enabled to do actual physical work wherever it is necessary, no matter if he be thousands of miles away from his body. Therefore the Spirits who pass away from this earth life are unable to materialize save through a medium where they extract her living vital body, drape themselves therewith and thus attract the physical substances necessary to make themselves visible to the sitters. 
 
-[110] 
-
 During life and in the waking state of consciousness, the vehicles of the Ego are all together and concentric, but at death the Ego, clothed in the mind and desire body, withdraws from the dense body, and as the vital functions are at an end, the vital body also is taken out of the dense body, leaving it inanimate upon the bed. One little atom in the heart is taken out and the rest of the body disintegrates in due course. But at that time there is an extremely important process going on, and those who attend the passing Spirit in the death chamber should be very careful that the utmost quiet reigns there and in the whole house, for the pictures of the whole past life which have been stored in the vital body are passing before the eye of the Spirit in a slow and orderly progression, in reverse order, from death back to birth. This panorama of the past life lasts from a few hours to three and one-half days. The time is dependent upon the strength of the vital body which determines how long a man could keep awake under the most severe stress. Some persons can work for fifty, sixty, and seventy hours before they fall down exhausted, while others are capable of keeping awake only a few hours. The reason why it is important that there should be quiet in the house of death during the three and one half days immediately following death is this: During that time the panorama of the past life is being etched upon the desire body which will be the man's vehicle while he stays in Purgatory and the First Heaven, where he is reaping the good or ill that he has sown, according to the deeds done in the body. 
-
-[111] 
 
 Now, where the life has been full of events and the man's vital body is strong, a longer time will be given to this etching than under conditions where the vital body is weak, but during all that time the dense body is connected with the higher vehicles by the silver cord and any hurt to the dense body is felt in a measure by the spirit, so that embalming, post-mortem examinations and cremation are all felt. Therefore, these should be avoided during the first three and one-half days after the time of death, for when the panorama has been fully etched into the desire body, then the silver cord is broken, the vital body gravitates back to the dense body and there is no more connection with the Spirit, which is then free to go on with its higher life. 
 
@@ -774,24 +620,15 @@ Earthbound Spirits, such as previously mentioned, gravitate to the lower regions
 
 The red cloud of hate is lifting, the black veil of despair is gone, there are no volcanic outbursts of passion in either the living or the dead, but so far as the writer is able to read the signs of the times in the aura of the nations, there is a settled purpose to play the game to the end. Even in homes bereaved of many members, this seems to hold good. There is an intense longing for the friends beyond, but no hatred for the earthly foe. This longing is shared by the friends in the unseen and many are piercing the veil, for the intensity of their longing is awakening in the "dead" the power to manifest by attracting a quantity of ether and gas which often is taken from the vital body of a "sensitive" friend, as materializing Spirits use the vital body of an entranced medium. Thus the eyes blinded by tears are often opened by a yearning heart so that loved ones now in the spirit world are met again face to face, heart to heart. This is Nature's method of cultivating the sixth sense which will eventually enable all to know that man is an immortal Spirit and continuity of life a fact in nature. 
 
-[119] 
-
 At every death the tears that are shed serve to dissolve the veil that hides, the invisible world from our longing gaze. The deep-felt yearning and the sorrow at the parting of loved and loving ones on both sides of the veil are tearing this apart, and at some not far distant day the accumulated effect of all this will reveal the fact that there is no death, but that those who have passed beyond are as much alive as we. The potency of these tears, this sorrow, this yearning is not equal in all cases, however, and the effects differ widely according to whether the vital body has been awakened in any given person by acts of unselfishness and service according to the occult maxim that all development along spiritual lines begins with the vital body. This is the basis, and no superstructure can be built until the foundation has been laid. 
 
-[120] 
+### <h3 id="part-2-chapter-5">CHAPTER V: ON WAY TO REBIRTH</h3>
 
-CHAPTER V
-
-ON WAY TO REBIRTH 
 When an Ego is on its way to rebirth the seed atom of the vital body gathers new material. The polarity of this material determines its sex during the coming life. 
 
 The seed atom of the vital body is next aroused into activity, but here the process of formation is not so simple as in the case of the mind and the desire body, for it must be remembered that those vehicles were comparatively unorganized, while the vital body and the dense body are more organized and very complicated. The material, of a given quantity and quality, is attracted in the same manner and under the operation of the same law as in the case of the higher bodies, but the building of the new body and the placement in the proper environment is done by four great Beings of immeasurable wisdom, which are the Recording Angels, the "Lords of Destiny." They impress the reflecting ether of the vital body in such a way that the pictures of the coming life are reflected in it. It (the vital body) is built by the inhabitants of the heaven world and the elemental spirits in such a manner as to form a particular type of brain. But mark this, the returning Ego itself incorporates therein the quintessence of its former vital bodies and in addition to this also does a little original work. This is done that in the coming life there may be some room for original and individual expression, not predetermined by past action. 
 
-[121] 
-
 The vital body, having been molded by the Lords of Destiny, will give form to the dense body, organ for organ. This matrix or mold is then placed in the womb of the future mother. The seed atom for the dense body is in the triangular head of one of the spermatozoa in the semen of the father. This alone makes fertilization possible and here is the explanation of the fact that so many times sex-unions are unfruitful. The chemical constituents of the seminal fluid and the ova are the same at all times and were these the only requirements, the explanation of the phenomenon of infertility, if sought in the material, visible world alone, would not be found. It becomes plain, however, when we understand that as the molecules of water freeze only along the lines of force in the water and manifest as ice crystals instead of freezing into a homogeneous mass, as would be the case if there can be no dense body built until there is a vital body into which to build the material; also there must be a seed atom for the dense body, to act as gauge of the quality and quantity of the matter which is to be built into that dense body. Although at the present stage of development there is never full harmony in the materials of the body, because that would be a perfect body, yet the discord must not be so great as to be disruptive of the organism. 
-
-[122] 
 
 When the impregnation of the ovum has taken place, the desire body of the mother works upon it for a period of from eighteen to twenty-one days, the Ego remaining outside in its desire body and mind sheath, yet always in close touch with the mother. Upon the expiration of that time the Ego enters the mother's body. The bell-shaped vehicles draw themselves down over the head of the vital body and the bell closes at the bottom. From this time the Ego broods over its coming instrument until the birth of the child and the new earth life of the returning Ego commences. 
 
@@ -801,26 +638,19 @@ When the Ego is on its way to rebirth through the Region of Concrete Thought, th
 
 The silver cord which has grown from the seed atom of the dense body (located in the heart) since conception, is welded to the part that has sprouted from the central vortex of the desire body, (located in the liver), and when the silver cord is tied by the seed atom of the vital body, (located in the solar plexus), the Spirit dies to life in the supersensible world, and quickens the body it is to use in its coming Earth life. 
 
-[124] 
+### <h3 id="part-2-chapter-6">CHAPTER VI: OF CHILDREN</h3>
 
-CHAPTER VI
-
-OF CHILDREN 
 A child's vital body at birth is unorganized. Up until about the age of seven, when the individual vital body is born, it draws from the microcosmic vital body. 
 
 In the period immediately following birth the different vehicles interpenetrate one another, as, in our previous illustration, the sand penetrates the sponge and the water both sand and sponge. But, though they are all present, as in adult life, they are merely present. None of their positive faculties are active. The vital body cannot use the forces which operate along the positive pole of ethers. Assimilation, which works along the positive pole of the chemical ether, is very dainty during childhood and what there is of it is due to the macrocosmic vital body, the ethers of which act as a womb for the child's vital body until the seventh year, gradually ripening it during that period. The propagative faculty, which works along the positive pole of the life ether, is also latent. The heating of the body--which is carried on along the positive pole of the light ether--and the circulation of the blood are due to the macrocosmic vital body, the ethers acting on the child and slowly developing it to the point where it can control these functions itself. The forces working along the negative pole of ethers are so much the more active. The excretion of solids, carried on along the negative pole of the chemical ether (corresponding to the solid subdivision of the Chemical Region), is too unrestrained, as is also the excretion of fluid, which is carried on along the negative pole of the life ether (corresponding to the second or fluid subdivision of the Chemical Region). The passive sense perception, which is due to the negative forces of the light ether, is also exceedingly prominent. The child is very impressionable and it is "all eyes and ears." 
 
 Although the vital body of an infant is still comparatively unorganized at the time of birth, the ether which is to be used for its completion is within the aura, ready to be assimilated, and if anyone in its surroundings happens to be weak and anemic, and unconscious vampire, he or she draws from the unassimilated store of ether of the infant much more easily than from that of an adult whose vital body is fully organized. Naturally the weak person draws more easily ether that is negatively polarized, as in the body of a boy baby, than the positive ether of the girl baby. . .Massage of the spleen and stimulation of the splanchnic nerves, carefully and conservatively practiced will aid the etheric counterpart of that organ in its activity of specializing the solar energy upon which the vital processes are as dependent as the lungs are on air. 
 
-[126] 
-
 We usually think that when a child is born it is born and that is the end of it; but as during the period of gestation the dense body is shielded from the impact of the outside world by being placed within the protecting womb of the mother until it has arrived at sufficient maturity to meet the outside conditions, so are also the vital body, desire body, and mind in a state of gestation and are born at later periods because they have not had as long an evolution behind them as the dense body and, therefore, it takes a longer time for them to arrive at a sufficient state of maturity to become individualized. The vital body is born at the seventh year, when the period of excessive growth marks its advent. 
 
 Only a small portion of the ether appropriated by a certain Ego is thus used, and the remainder of the child's vital body, or rather the material from which that vehicle will eventually be made, is thus outside the dense body. For that reason the vital body of a child protrudes much farther beyond the periphery of the dense body than does that of the adult. During the period of growth this store of ether atoms is drawn upon to vitalize the accretions within the body until, at the time when the adult age is reached, the vital body protrudes only from one to one and a half inches beyond the periphery of the dense body. 
 
 From the first to the seventh year the vital body grows and slowly matures within the womb of the macrocosmic vital body and because of the greater wisdom of this vehicle of the macrocosm, the child's body is more rounded and well-built than in later life. 
-
-[127] 
 
 While the macrocosmic vital body guides the growth of the child's body it is guarded from the dangers which later threaten it when the unwise individual vital body takes unchecked charge. This happens in the seventh year, when the period of excessive, dangerous growth begins, and continues through the next seven years. During this time the macrocosmic desire body performs the function of a womb for the individual desire body. 
 
@@ -838,16 +668,10 @@ When the vital body is born at the age of seven a period of growth begins and a 
 
 Children who die before the seventh year have been born only so far as the dense and vital bodies are concerned and are not responsible to the Law of Consequence. Even up to twelve or fourteen years the desire body is in process of gestation, as will be more fully explained in the next lecture, and as that which has not been quickened cannot die, the dense and vital bodies alone go to decay when a child dies. It retains its desire body and mind to the next birth. Therefore it does not go around the whole path which the Ego usually traverses in a life cycle, but only ascends to the First Heaven to learn needed lessons, and after a wait of from one to twenty years it is reborn, often in the same family as a younger child. 
 
-[131] 
+<h2 id="part-3">PART III: VITAL BODY OF ANIMALS AND PLANTS</h2>
 
-PART III
+### <h3 id="part-3-chapter-1">Chapter I: GENERAL NATURE AND FUNCTION</h3>
 
-VITAL BODY OF ANIMALS AND PLANTS 
-[133] 
-
-Chapter I
-
-GENERAL NATURE AND FUNCTION 
 Animals and plants have a vital body, too. Although this vehicle is lacking in the mineral, the disintegration of hard rock, etc., affects the vital body of the Earth. 
 
 When we consider plant, animal, and man in relation to the Etheric Region we note that each has a separate vital body in addition to being penetrated by the planetary ether which forms the Etheric Region. There is a difference, however, between the vital bodies of the plants and the vital bodies of animal and man. In the vital body of the plant only the chemical and the life ethers are fully active. Hence the plant can grow by the action of the chemical ether and propagate its species through the activity of the life ether of the separate vital body which it possesses. The light ether is present, but is partially latent or dormant and the reflecting ether is lacking. Therefore it is evident that the faculties of sense-perception and memory, which are the qualities of these ethers, cannot be expressed by the plant kingdom. 
@@ -860,8 +684,6 @@ When an animal is to be born, the Group Spirit, helped by nature spirits and Ang
 
 The animal has no "individual" Spirit yet, but has a so-called Group Spirit, which informs all the members of a species. The separate animals have three bodies--a dense, a vital, and a desire body--but lack one link in the chain: mind. Hence animals do not ordinarily think, but as we "induce" electricity in a wire by bringing it close to another which is charged, so in a similar way by contact with man a semblance of thought has been "induced" in the higher domestic animals, such as the dog, horse, and elephant. The other animals obey the prompting (which we call instinct) of the animal Group Spirit. They do not see objects in such clear outlines as does man; in the lower species the animal consciousness resolves itself more and more into an internal "picture-consciousness," resembling man's dream state, except that their pictures are not confused, but convey perfectly to the animal the promptings of the Group Spirit. 
 
-[136] 
-
 The animal Spirit has in its descent reached only the Desire World. It has not yet evolved to the point where it can "enter" a dense body. Therefore the animal has no individualized indwelling Spirit, but a Group Spirit, which directs it from without. The animal has the dense body, the vital body, and the desire body, but the Group Spirit which directs it is outside. The vital body and the desire body of an animal are not entirely within the dense body, especially where the head is concerned. For instance, the etheric head of a horse projects far beyond and above the dense physical head. When, as in rare cases it happens, the etheric head of a horse draws into the head of the dense body, that horse can learn to read, count, and work examples in elementary arithmetic. To this peculiarity is also due the fact that horses, dogs, cats, and other domestic animals sense the Desire World, though not always realizing the difference between it and the Physical World. A horse will shy at the sight of a figure invisible to the driver; a cat will go through the motions of rubbing itself against invisible legs. The cats sees the ghost, however, without realizing that it has no dense legs available for frictional purposes. The dog, wiser than cat or horse, will often sense that there is something he does not understand about the appearance of a dead master whose hands it cannot lick. It will howl mournfully and slink into a corner with its tails between its legs. 
 
 Dr. McDougall also tried his scales in weighing dying animals. No diminution was found here, though one of the animals was a large St. Bernard dog. That was taken to indicate that animals have no souls. A little later, however, Professor La V. Twining, head of the Science Department of the Los Angeles Polytechnic School, experimented with mice and kittens, which he enclosed in hermetically sealed glass flasks. His scales were the most sensitive procurable and were enclosed in a glass case from which all moisture had been removed. It was found that all the animals observed lost weight at death. A good sized mouse, weighing 12.886 grams, suddenly lost 3.1 milligrams at death. 
@@ -871,8 +693,6 @@ A kitten used in another experiment lost one hundred milligrams while dying and 
 Thus the teaching of occult science in regard to the possession of vital bodies by animals was also vindicated when sufficiently fine scales were used, and the case where the rather insensitive scales did not show diminution in the weight of the St. Bernard dog shows that the vital bodies of animals are proportionately lighter than in man. 
 
 The Angels are particularly active in the vital bodies of the plants, for the stream of life ensouling that kingdom started its evolution in the Moon Period, when the Angels were human, and they worked with the plants as we are now working with our minerals. There is therefore a particular affinity between Angels and plant Group Spirit. Thus we can account for the enormous assimilation, growth, and fecundity of the plants. Man also grew to an enormous size in the second or Hyperborean Epoch, where the Angeles had principal charge. So does the child in its second septenary epoch of life, because then the Angels have full sway, and at the end of that epoch, at fourteen, the child has reached puberty and is able to reproduce its kind; also due to the work of the Angels. 
-
-[138] 
 
 They were the molds which drew to themselves the dense material forming the plant-bodies of the present day and also of the plant-forms of the past, which are embedded in the geological strata of our Earth globe. 
 
@@ -884,15 +704,11 @@ The plants have only a dense body and a vital body; hence they can neither feel 
 
 The mineral has only a dense body. It lacks three links to connect it with its Group Spirit. It therefore is inert and its unconscious resembles that of the dense human body in the "trance" state when the human spirit, the Ego, has passed correspondingly beyond it. 
 
-[139] 
-
 In conclusion, let us note that the three worlds in which we live are not separated by space. They are all about us, as light and color, imbedded in the physical matter; as lines of cleavage in the mineral. If we let a dish of water freeze, and examine it under a microscope, we shall see the ice crystals divided off from one another by lines. These were present though unseen in the water as lines of force, invisible until the proper condition brought them out. So one world lies imbedded in the next above, unseen to us until we provide the proper conditions; but when we have fitted ourselves, Nature, who is ever ready to unfold to us her wonders, expresses ardent joy over everyone who as a helper in evolution thus attains to citizenship in the invisible realms. 
 
 As we saw in Lecture No. 3, the plants have a dense and a vital body, which enables them to do this work; their consciousness we also saw, was as a deep, dreamless sleep. Thus it is easy for the Ego to overpower the vegetable cells and keep then in subjection for a long time, hence the great sustaining power of the vegetables. 
 
 To function in any world, and express the qualities peculiar to it, we must first possess a vehicle made of its material. In order to function in the dense Physical World, it is necessary to have a dense body, adapted to our environment. Otherwise we should be ghosts, as they are commonly called, and be invisible to most physical beings. So we must have a vital body before we can express life, grow, or externalize the other qualities peculiar to the Etheric Region. 
-
-[140] 
 
 When we examine the four kingdoms in relation to the Etheric Region, we find that the mineral does not possess a separate vital body, and at once we see the reason why it cannot grow, propagate, or show sentient life. 
 
@@ -902,16 +718,10 @@ As sensation in animals and men is due to their separate vital bodies, so the fe
 
 The vital body of the plant is composed only of the two densest ethers--the Chemical Ether and the Life Ether--which enable the plant to grow and propagate, but it lacks the two higher ethers--the Light Ether and Reflecting Ether. Hence it has no sensation or memory of what passes around it. Therefore, amputation of a limb will not be felt by the plant, and in the case of the cliff which is blasted, only the Chemical Ether is present, so that the crystals will have no feelings at all. Still, it would be wrong to infer that there is no feeling in either of these cases, for though the plants and the minerals have no individual means of feeling, they are enveloped and interpenetrated by the ethers and the Desire World of the planet, and the Planetary Spirit feels everything, on the same principle that our finger, having no individual desire body, cannot feel, but we, the indwelling Spirits inhabiting the body, feel any hurt done to the finger. 
 
-[143] 
+<h2 id="part-4">PART IV: RELATION OF VITAL BODY TO SPIRITUAL DEVELOPMENT</h2>
 
-PART IV
+### <h3 id="part-4-chapter-1">CHAPTER I: AN IMPORTANT FACTOR</h3>
 
-RELATION OF VITAL BODY TO SPIRITUAL DEVELOPMENT
-[144] 
-
-CHAPTER I
-
-AN IMPORTANT FACTOR 
 In order to progress spiritually, man must further develop his vital body. 
 
 We are now getting ready for the fast approaching Aquarian Age with its great intellectual and spiritual development. This requires an awakening of the dormant vital body, whose keyword is repetition. 
@@ -919,8 +729,6 @@ We are now getting ready for the fast approaching Aquarian Age with its great in
 The Ego has several instruments: a dense body, a vital body, a desire body, and a mind. These are its tools and upon their quality and condition depends how much or how little it can accomplish in its work of gathering experience in each life. If the instruments are poor and dull there will be but little spiritual growth and the life will be a barren one, so far as the Spirit is concerned. 
 
 The higher life (initiation) does not commence, however, until the work on the vital body begins. The means used for bringing that into activity is Love, or rather Altruism. The former word has been so abused that it no longer conveys the meaning here required. 
-
-[145] 
 
 The second help which humanity now has is the Religion of the Son--the Christian religion, the object of which is union with Christ by purification and control of the vital body. 
 
@@ -934,8 +742,6 @@ Through these ethers the bodily functions, such as respiration, etc., are carrie
 
 According to our doings in this present life we thus increase or decrease that which we brought with us at birth. If we are born with a good character, expressed in these two higher ethers, it will not be easy for us to change this because the vital body has become very, very set during the myriads of years through which we have evolved it. On the other hand, if we have been lazy and negligent and indulgent in the habits which we call evil, if we have formed a bad character in past lives, then it is difficult to overcome because of this set nature of the vital body, and it will require years of constant effort to change its structure. This is the reason the Western Wisdom Teaching says that all mystic development begins with the vital body. 
 
-[147] 
-
 Each time we give ourselves in service to others we add to the luster of our soul bodies which are built of ether. It is the Christ ether that now floats this sphere of ours, and let us remember that if we ever want to work for His liberation, we must in sufficient numbers evolve our own soul bodies to the point where they may float the earth. Thus we may take up His burden and save Him the pain of physical existence. 
 
 Apart from the fact that the Eastern School of Occultism bases its teachings on Hinduism, while the Western Wisdom School espouses Christianity, the religion of the West, there is one great fundamental, irreconcilable discrepancy between the teachings of the modern representatives of the East and those of the Rosicrucians. According to the version of Eastern Occultism the vital body--which is called linga sharira--is comparatively unimportant, for it is incapable of development as a vehicle of consciousness. It serves only as an avenue for the solar force, "prana," and as a link between the physical body and the desire body, which is called kama rupa, also the "astral body." This, they say, is the vehicle of the Invisible Helper. 
@@ -944,13 +750,9 @@ The Western Wisdom School teaches as its fundamental maxim that all occult devel
 
 We have here the account of how the stigmata or punctures were produced in the Hero of the Gospels, though the location is not quite correctly described, and the process is represented in a narrative form differing widely from the manner in which these things really happen. But we stand here before one of the mysteries which must remain sealed for the profane, though the underlying mystical facts are as plain as daylight to those who know. The physical body is not by any means the real man. Tangible, solid, and pulsating with life as we find it, it is really the most dead part of the human being, crystallized into a matrix of finer vehicles which are invisible to our ordinary physical sight. If we place a basin of water in a freezing temperature, the water soon congeals into ice, and when we examine the ice, we find that it is made up of innumerable little crystals having various geometrical forms and lines of demarcation. There are etheric lines of forces which were present in the water before it congealed. 
 
-[149] 
-
 As the water was hardened and molded along these lines, so our physical bodies have congealed and solidified along the etheric lines of force of our invisible vital body, which is thus in the ordinary course of life inextricably bound to the physical body, waking or sleeping, until death brings dissolution of the tie. But as initiation involves the liberation of the real man from the body of sin and death that he may soar into the subtler spheres at will and return to the body at his pleasure, it is obvious that before that can be accomplished, before the object of initiation can be attained, the interlocking grip of the physical body and the etheric vehicle which is so strong and rigid in ordinary humanity, must be dissolved. As they are most closely bound together in the palms of the hands, the arches of the feet, and the head, occult schools concentrate their efforts upon severing the connection at these three points, and produce the stigmata invisibly. 
 
 Exoteric Masonry, which is only the husks of the Mystic Order formed by the Sons of Cain, has in modern times attracted the masculine element with its positively polarized physical vehicles, and educated them in industry and statecraft, thus controlling the material development of the world. The sons of Seth, constituting themselves the Priestcraft, have worked their spell over the positive vital bodies, of the feminine element to dominate spiritual development. And whereas, the sons of Cain, working through Freemasonry and kindred movements, have openly fought for the temporal power, the priestcraft has fought as strenuously and perhaps more effectively by stealth to retain their hold upon spiritual development of the feminine element. 
-
-[150] 
 
 As mankind advances in evolution, the vital body becomes more permanently positively polarized, giving to both sexes a greater desire for spirituality, and though we change from the masculine to feminine in alternate embodiments, positive polarity of the vital body is becoming more pronounced regardless of sex. This accounts for the growing tendency towards Altruism which is even being brought out by the suffering entailed by the great war we are now fighting (1918), for all agree that the nations are seeking to obtain a lasting peace where the swords may be made into plowshares, and the spears into pruning hooks. 
 
@@ -959,8 +761,6 @@ We know that our dense body gravitates towards the center of the Earth, therefor
 Repetition is the keynote of the vital body and the extract of the vital body is the Intellectual Soul, which is the pabulum of the Life Spirit, the true Christ Principle in man. As it is the particular work of the Western World to evolve this Christ Principle, to form the Christ within that it may shine through the material darkness of the present time, reiteration of ideas is absolutely essential. 
 
 A very small impact is made upon the vital body when ideas and ideals filter into it through the auric envelope, but whatever it gets from study, sermons, lectures, or reading is of a more lasting nature, and many impacts in the same direction create impressions which are powerful for good or for ill according to their nature. 
-
-[152] 
 
 From the Angels she could get no information; they work with the dense body, but not directly; they use the vital body as transmitter, and cannot make themselves understood to a reasoning brain-being. They get their knowledge without reasoning, for they send out their whole love in their work and cosmic wisdom flows in in return. Man also creates by love, but his love is selfish; he loves because he desires cooperation in generation; the other half he selfishly keeps to build his own organ of thought, the brain, and he also uses that half selfishly to think, because he desires knowledge. Hence he must work and reason to gain wisdom, but in time he will arrive at a much higher stage than either Angel or Archangel. He will then have passed beyond the need of the lower creative organs; he will create by means of the larynx, and be able to "make the word flesh." 
 
@@ -984,8 +784,6 @@ Since Christ came and "took away the sin of the World" (not of the individual), 
 
 The finer part of the desire body, which constitutes the Emotional Soul, is capable of separation in most people (in fact, it possessed that capability even before Christ came) and thus when, by concentration and the use of the proper formula, the finer parts of the vehicles have been segregated for use during sleep, or at any other time, the lower parts of the desire and vital bodies are still felt to carry on the processes of restoration in the dense vehicle, the mere animal part. 
 
-[157] 
-
 That part of the vital body which goes out is highly organized, as we have seen. It is an exact counterpart of the dense body. The desire body and the mind, not being organized, are of use only because they are connected with the highly organized dense body. When separated from it they are but poor instruments, therefore before man can withdraw from the dense body, the sense-centers of the desire body must be awakened. 
 
 The aspirant to the higher life cultivates the faculty of becoming absorbed at will in any subject he chooses, or rather not a subject usually, but a very simple object, which he imagines. Thus when the proper condition or point of absorption has been reached where his senses are absolutely still, he concentrate his thought upon the different sense-centers of the desire body and they start to revolve. 
@@ -996,11 +794,8 @@ We have all become so much more impregnated with materialism than we realize, an
 
 When Christianity shall have fully spiritualized the vital body a still higher step will be the Religion of the Father, who as the highest Initiate of the Saturn Period will help man to spiritualize the dense body which was started in the Saturn Period. Then even brotherhood will be transcended; there will be neither me nor thee, for all will be consciously One in God, and man will have been emancipated by the help of Angels, Archangels, and higher Powers. 
 
-[159] 
+### <h3 id="part-4-chapter-2">CHAPTER II: EFFECT OF PRAYER, RITUALS, AND EXERCISES</h3> 
 
-CHAPTER II
-
-EFFECT OF PRAYER, RITUALS, AND EXERCISES 
 Prayer, rituals, and exercises are of value in spiritualizing the vital body. 
 
 If, by continual prayer, we obtain forgiveness for the injuries we have inflicted upon others and if we make all the restitution possible, purify our vital bodies by forgiving those who have wronged us, and eliminate all ill feeling, we save ourselves much post-mortem misery, besides preparing the way for Universal Brotherhood, which is particularly dependent upon the victory of the vital body over the desire body. In the form of memory, the desire body impresses upon the vital body the idea of revenge. An even temper amid the various annoyances of daily life indicates such a victory, therefore the aspirant should cultivate control of the temper, as it includes work on both bodies. The Lord's Prayer includes this also, for when we see that we are injuring others, we look about and try to find the cause. Loss of temper is one of the causes and it originates in the desire body. 
@@ -1013,8 +808,6 @@ The prayer dealing with the needs of the vital body is "Forgive us our trespasse
 
 The vital body is the seat of memory. In it are stored the subconscious records of all the past events of our life, good or ill, including all injuries inflicted or sustained and benefits received, or bestowed. We remember that the record of the life is taken from those pictures immediately after leaving the dense body at death, and that all the sufferings of post-mortem existence are the results of events these pictures portray. 
 
-[161] 
-
 The vital body being the storehouse of the panorama of our life, our own sins and the wrong we have suffered at the hands of others are there inscribed, hence the fifth prayer, "Forgive us our trespasses as we forgive those who trespass against us," enunciated the needs of the vital body, and be it noted that this prayer teaches the doctrine of the remission of sins in the words, forgive us, and the Law of Consequence in the words, as we forgive, making our own attitude to others the measure of our emancipation. 
 
 That (The Rosicrucian Prayer) is the kind of a prayer that lifts, that ennobles a man, and the more a man or woman cultivates that attitude of mind, and entertains those lofty aspirations, the more he or she is lifting the two higher ethers out of the vital body. The churches say, "pray, pray, pray," and they are well within the occult teaching, for in that way the vital body is being worked upon by the constant repetition of lofty aspirations. 
@@ -1025,15 +818,11 @@ Law is a curb on the desire nature, but where occult or rather spiritual advance
 
 When the Protestants left the Catholic Church they truly left many of the abuses behind, but they also left almost everything of value. They abandoned the ritual which everyone may know and understand regardless of poor enunciation upon the party of the preacher. Knowing the ritual, the laity could send their thoughts in the same direction as the thought of the priest who was reading, and thus an enormous volume of identical spiritual thought was massed together and projected upon the community for good or evil. 
 
-[163] 
-
 Those who go to a Catholic church understanding the ritual are still today able to unite their thoughts in spiritual conclave and keep within memory that which has been gone through. Thus they are every time adding a little to the spiritualization of their vital bodies, while the Protestant church members have been affected only in their emotional natures, and that effect is soon thrown out. The Bible tells us to pray without ceasing, and many have scoffed saying that if God is omniscient He knows whereof we have need without our prayer, and if He is not, He can most likely not be omnipotent, and therefore our prayers are not granted, so that it is useless to pray. But that command was indited from a knowledge of the nature of the vital body, which needs that repetition in order that it may be spiritualized. 
 
 Before a ritual can have its maximum effect, however, those who are to grow thereby must become attuned to it. This involves work on their vital bodies while those vehicles are still in the making. 
 
 It is a matter of occult knowledge that birth is a fourfold event, and that birth of the physical body is only one step in the process. The vital body also undergoes a development analogous to the intrauterine growth of the dense body. It is born about the seventh year of life. During the next seven years the desire body is ripened and comes to birth at about the fourteenth year, when adolescence is reached, and the mind is born at twenty-one, when the age of manhood and womanhood commences. 
-
-[164] 
 
 These occult facts are well known to the Catholic Hierarchy, and while the Protestant ministers work upon the emotional nature, which is ever seeking something new and sensational without realizing the futility of the struggle and the fact that it is this most rampant vehicle that drives people from the churches in search of something more new and more sensational, the occultly informed Catholic Hierarchy concentrates its effort upon the children. "Give us the child up to its seventh year and it is ours forever," they say, and they are right. During these important seven years they impregnate the plastic vital bodies of their charge with their views by means of repetition. The repeated prayers, the time and tune of the various chants, and the incense, all have a powerful effect on the growing vital body. 
 
@@ -1043,11 +832,7 @@ During sleep the currents of the desire body flow, and its vortices move and spi
 
 The latter (concentration and retrospection) will prove barren of result, unless accompanied by constant acts of love, for love will be the keynote of the coming age as law is of the present order. The intense expression of the former quality increases the phosphorescent luminosity and density of the ethers in our vital bodies, the fiery streams sever the tie to the mortal coil, and the man, once born of water upon his emergence from Atlantis, is now born of the spirit into the kingdom of God. The dynamic force of his love has opened a way to the land of love, and indescribable is the rejoicing among those already there when new invaders arrive, for each new arrival hastens the coming of the Lord and the definite establishment of the Kingdom. 
 
-[166] 
-
 It is a mystic maxim that "all spiritual development begins with the vital body." This is next in density to our dense body. Its keynote is repetition, and it is the vehicle of habits, hence somewhat difficult to change or influence, but once a change has been effected and a habit acquired by repetition, its performance becomes automatic to a certain extent. This characteristic is both good and bad in respect to prayer, for the impression registered in the ethers of this vehicle will impel the aspirant to faithful performance of his devotions at stated times, even though he may have lost interest in the exercise and his prayers are mere forms. If it were not for this habit forming tendency of the vital body, aspirants would wake up to their danger as soon as the real love began to wane, and it would then be easier to retrieve the loss and keep on the Path. Therefore the aspirant should carefully examine himself from time to time to see if he still has wings and power wherewith swiftly and surely to lift himself to his Father in Heaven. The wings are two in number; love and aspiration are their names, and the irresistible power which propels them in intense earnestness. Without these and an intelligent understanding to direct the invocation, prayer is only a babble; properly performed it is the most powerful method of soul growth known. 
-
-[167] 
 
 The atoms in such backward race bodies are vibrating at an exceedingly low rate, and when the course of time one of these people develops to a point where it is possible to further him upon the path of attainment, it is necessary to raise this vibratory pitch of the atom so that the vital body, which is the medium of occult growth, may to a certain extent be liberated from the deadening force of the physical atom. This result is attained by means of breathing exercises, which in time accelerate the vibration of the atom, and allow the spiritual growth necessary to the individual to take place. 
 
@@ -1055,11 +840,8 @@ Years ago, when the writer started on the Path and was imbued with the character
 
 The vital body is like a mirror or, rather, like the film of a moving picture; it pictures alike the world without according to our faculty of observation, and the ideas of the indwelling Spirit from within according to the clarity and training of the mind. Devotion and discrimination, otherwise emotion and intellect, decide our attitude toward these pictures, and their balanced action leads to a well rounded development. When evolved to a certain point they inevitably bring about a process of purification. The man will realize that in order to attain the goal he must lay aside whatever clogs the wheels of progress. A good mechanic aims to have the best tools and keep them in perfect order, for he knows their value in producing good work. Our bodies are tools of the Spirit, and in proportion as they are clogged they hinder its manifestation. Discrimination teaches us what hinders, and devotion to the higher life helps to eliminate undesirable habits or traits of character by superseding mere desire. 
 
-[169] 
+### <h3 id="part-4-chapter-3">CHAPTER III: ANCIENT INITIATION</h3>
 
-CHAPTER III
-
-ANCIENT INITIATION 
 In ancient times, certain ceremonies were performed in the Temples to bring about the cleavage of the vital body. 
 
 In the ancient Mystery Temples the main truths now taught by The Rosicrucian Fellowship concerning the vital body were given to the aspirant to initiation. He learned that this vehicle was composed of the four ethers: the chemical ether, which is necessary to assimilation; the life ether, which furthers growth and propagation; the light ether, which is the vehicle of sense perception; and the reflecting ether, which is the receptacle of memory. 
@@ -1078,15 +860,10 @@ The Race Spirit took special care of certain sects of people, for example the Le
 
 When Parsifal started to go with Gurnemanz to the Castle of the Grail, he asked Gurnemanz: "Who is the Grail?" "That tell we not, but if thou hast been of him bidden, From thee the truth will not stay hidden. The search but severs from him wider when he himself is not its guider." That means that in the olden times, in the time before Christ came, only a chosen few could follow the path of initiation. Nobody could seek that path--nobody could get beyond the point where the rest of humanity were--save a few chosen ones, such as were the priests and the Levites. These were brought to the temples, and there herded together. They were married to one another in a certain way; certain people were mated with a definite end in view, namely, that they might develop the proper laxity between the vital body and the dense body that is necessary to initiation. A separation has to take place in order that we may lift the two higher ethers out, and leave the other two. That could not be done with the ordinary humanity. They were yet much in bondage to the desire body. They must wait until a later time. 
 
-[173] 
-
 As ether is the avenue of vital, creative forces, and as Angels are such expert builders of ether, we may readily understand that they are eminently fitted to be warders of the propagative forces in plant, animal, and man. All through the Bible we find them thus engaged: Two angels came to Abraham and announced the birth of Isaac, they promised a child to the man who had obeyed God. Later these same angels destroyed Sodom for abuse of the creative force. Angels foretold to the parents of Samuel and Samson, the birth of these giants of brain and brawn. To Elizabeth came the angel (not Archangel) Gabriel and announced the birth of John. Later he appeared also to Mary with the message that she was chosen to bear Jesus. 
 
-[174] 
+### <h3 id="part-4-chapter-4">CHAPTER IV: POSITIVE AND NEGATIVE DEVELOPMENT</h3>
 
-CHAPTER IV
-
-POSITIVE AND NEGATIVE DEVELOPMENT 
 Spiritual development may be positive, as in Adepts, Initiates, and Invisible Helpers; or negative, as in the case of mediumship. 
 
 The vital body of every Initiate is always positively polarized, as that makes it better and more receptive instrument for the vibrations which come from the Life Spirit, whose counterpart the vital body is. 
@@ -1107,13 +884,9 @@ But these faculties, though valuable when exercised under full control of the hu
 
 Those who have the true spirituality do not feel saved one day, in the seventh heaven of ecstasy, and the next feel themselves down in the dumps and miserable sinners that can never be forgiven; for their religion is not based upon the emotional nature which feels these things, but is rooted in the vital body which is the vehicle of reason, set and persistent in the path it has once chosen. As new forms are propagated through the second ether of the vital body, so the higher self, the Christ within, is formed through this same vehicle of generation, the vital body, in its higher aspects embodied in the two upper ethers. 
 
-[179] 
-
 But as a child that is born into the world requires nourishment, so also the Christ that is born within is a babe and requires to be nourished to the full stature of manhood. And as the physical body grows by a continual assimilation of material from the Chemical Region, the solids, liquids, and gases, so also, as the Christ grows, will the two higher ethers grow in volume and form a luminous cloud around the man or woman sufficiently discerning to set his or her face heavenward; it will invest the pilgrim with light so brilliant that he walks in the light, as a matter of actual fact. By the exercises given in the Western Mystery School of the Rosicrucians, it becomes possible in time to detach the two higher ethers, and the man may then step away from his physical body, leaving it for a time invested and vitalized only by the two lower ethers; he is then what we call an Invisible Helper. 
 
 You will remember that Christ gave not the cup to the multitude but to His disciples who were His messengers and servants of the Cross. At the present time those who drink from the cup of self-abnegation that they may use their force in the service of others, are building that organ (an etheric organ in the throat and head) together with the soul body which is the Wedding Garment. They are learning to use it in a small way as Invisible Helpers when they are out of their bodies at night, for then they are taught to speak the word of power which removes disease and builds in healthy tissue. 
-
-[180] 
 
 There is another class of people in whom the connection between the dense and the vital bodies is more or less loose, so that the ether of their vital bodies vibrates at a higher rate then in the first class mentioned. These people are therefore more or less sensitive to the spiritual world. 
 
@@ -1123,19 +896,13 @@ The other class of sensitive are strong positive characters, who act only from w
 
 No Spirit can work in any world without a vehicle made of the material of that world. To function in the Physical World, to fetch and carry, we must have a dense body and a vital body; both are made of various grades of physical matter, solids, liquids, gas, and ether. We may obtain such vehicles in the ordinary way, by going through the womb to birth, or we may extract ether from the body of a medium and temporarily use that to materialize, or we may use the fumes of incense. 
 
-[181] 
-
 This remnant of the hypnotist's vital body is also the storehouse for commands to be carried out at a future time, involving the performance of a certain act, on a certain day, at a certain hour. When the time arrives the impulse is released like the spring of an alarm clock, and the victim must carry out the command, even to murder, yet has no idea that he is influenced by someone else. Therefore, hypnotism is the greatest crime on earth and the greatest danger to society. 
 
 It is sometimes contended that hypnotism may be used benevolently for the cure of drunkenness and other vices, and it is readily admitted that, viewed solely from the material standpoint, that appears to be true. But from the viewpoint of occult science it is far otherwise. Like all other desires, the craving for liquor is in the desire body, and it is the duty of the Ego to master it by will power. That is why he is in the school of experience called life, and no man can do his moral growing for him, any more than he can digest another's dinner for him. Nature is not to be cheated; each must solve his own problems, overcome his own faults by his own will. If, therefore, a hypnotist overpowers the desire body of a drunkard, the Ego in the drunkard will have to learn its lesson in a future life, if he dies before the hypnotist. But if the hypnotist dies first the man will inevitably turn to drink again, for then the part of the hypnotist's vital body which held the evil desire in check gravitates back to its source, and the cure is nil. The only way permanently to master a vice is by one's own will. 
 
-[182] 
-
 The modus operandi of the invisible manipulator is simply to push the higher vehicles out of the lower bodies of the unresisting medium, step in himself and take control. When he leaves, he also takes part of the medium's vital body to use as a key or lever next time. 
 
 When a materializing medium is used by Spirits for the purpose of showing themselves to an audience, they first extract the vital body, or as much thereof as they dare, from the medium, leaving the dense body in the cabinet in a fearful shrunken state. That is dreadful for people unused to such phenomena to see. With this vital body--which, by the way, has been photographed by scientists, as the camera will register rays that are invisible to the eye--they produce the desired phenomena readily, because it is a living thing and attracts matter greedily so long as it has not collapsed in the manner that it does shortly after death. They interpolate physical atoms of the surrounding atmosphere after making a matrix (mold) of the vital body of the medium, and thereby shape a body into any form that suits the Spirit materializing to take upon itself. The vital body of a medium may be used by any number of Spirits during a seance, each one clothing itself in the plastic substance and filling out with atoms from the surrounding atmosphere, even borrowing from the sitters who very often feel much exhausted upon leaving a seance room. 
-
-[183] 
 
 In the case of the materializing medium, we may say that the influence is always injurious. The materializing Spirit entrances the victim and then draws the ether of the vital body out through the spleen, for the difference between the materializing medium and the ordinary person is the fact that the connection between the vital body and the dense body is exceedingly lax, so that it is possible to withdraw this vital body to a very great extent. The vital body is the vehicle whereby the solar currents which give us vitality are specialized. Deprived of the vitalizing principle, the body of the medium at the time of a materialization sometimes shrinks to almost one-half its usual size; the flesh becomes flabby and the spark of life burns very low. When the seance is over and the vital body replaced, the medium is awakened and in normal consciousness. He then experiences a feeling of the most terrible exhaustion and sometimes, unfortunately, resorts to drink to revive the vital forces. In that case, of course, the health will very soon suffer and the medium will become a total wreck. At any rate, mediumship should be avoided, for apart from this danger to the instrument there are other and far more serious considerations in connection with the more subtle bodies, and particularly in connection with the after-death state. 
 
@@ -1145,39 +912,27 @@ When the connection between the vital body and the dense body of a man is somewh
 
 If a person has this slight laxity between the vital and dense bodies, and is of a negative temperament, he is liable to become the prey of discarnate Spirits, as a medium. Where the connection between the vital and dense bodies is very lax, so that it may be withdrawn, and the man is positive, he may become an Invisible Helper, capable of taking the two higher ethers away from his dense body at will and using them as a vehicle for sense perception and memory. He can then function consciously in the spiritual world and bring back a recollection of everything he has done there, so that, for instance, when he leaves his body at night he takes up the life in the invisible world in a fully conscious manner, as we do here when we wake up in the morning after sleep and perform our various duties in the visible world. When a person has this lax connection between the vital body and the dense body and is of a negative temperament, the Spirits which are earth-bound and seek to manifest here may withdraw his vital body by way of the spleen and temporarily use the ether of which it is composed to materialize spirit forms, returning the ether to the medium after the seance is over. 
 
-[185] 
-
 It is these elementals who are the originators of many of the spiritualistic phenomena, where more intelligence is displayed than can be accounted for by the action of soul-less shells, particularly at materializations. Though shells may take part, phenomena are always directed by a being with intelligence. The difference between a materializing medium and an ordinary person is that the connection between the dense body and the vital body is more lax in the medium, so that from the latter a part of the vital body can be withdrawn, and also some of the gases and even liquids of the medium's dense body may be used to form the bodies of apparitions. This withdrawal and the process of clothing the shells is generally performed by the elemental who extracts the vital body of the medium out through the spleen. As a rule, the body of the medium shrinks horribly in consequence. When the dense body is thus deprived of its vital principle, it becomes terribly exhausted, and unfortunately the medium often seeks to restore the equilibrium by strong drink, becoming a confirmed drunkard. 
 
 God is the Grand Architect of the Universe and the Initiates of the White Schools are also archetektons, builders from the primordial essence in their beneficent work for humanity. These Invisible Helpers require a nucleus from the patient's vital body, which is, as students of The Rosicrucian Fellowship know, given to them in the effluvia from the hand, which impregnates the paper when the patient makes application for health and healing. With this nucleus of the patient's vital body they are able to draw upon virgin matter for whatever they need to restore health by building up and strengthening the organism. 
 
 The Black Magicians are despoilers, actuated by hatred and malice. They also need a nucleus for their nefarious operations, and this they obtain most easily from the vital body at spiritualistic or hypnotic seances, where the sitters relax, put themselves into a negative frame of mind, drop their jaws, and sink their individualities by other distinctly mediumistic practices. Even people who do not frequent such places are not immune, for there are certain products of the vital body which are ignorantly scattered by all and which may be used effectively by the Black Magicians. Chief in this category are the hair and finger nails. The Negroes in their voodoo magic use the placenta for similar evil purposes. One particularly evil man, whose practice were exposed a decade ago, obtained from boys the vital fluid which he used for his demoniac acts. Even so innocent a thing as a glass of water placed in close proximity to certain parts of the body of the prospective victim, while the Black Magician converses with him can be made to absorb a part of the victim's vital body. This will give the Black Magician the requisite nucleus, or it may be obtained from a piece of the person's clothing. The same invisible emanation contained in the garment, which guides the bloodhound upon the track of a certain person, will also guide the magician, white or black, to the abode of that person and furnish the magician with a key to the person's system whereby the former may help or hurt according to his inclination. 
 
-[189] 
+<h2 id="part-5">PART V: THE VITAL BODY OF JESUS</h2>
 
-PART V
+### <h3 id="part-5-chapter-1">CHAPTER I: AS A VEHICLE FOR THE CHRIST</h3>
 
-THE VITAL BODY OF JESUS
-[190] 
-
-CHAPTER I
-
-AS A VEHICLE FOR THE CHRIST 
 The vital body of Jesus is very highly developed and was used by the Christ during His three years of ministry. 
 
 We know that at death, or at any time when we have to leave this Physical World, we give up our dense body, and our vital body, because they belong to the Physical World. And so Jesus, when he had come to the age of thirty, when he had made his instrument fit for the use of the Great Being, gladly, willingly gave it away. He left it at the Baptism as he would have stepped out at death, that the Christ might step in, and that was seen to descend upon him as a dove. 
 
 Christ, as an Archangel, had learned to build down to the desire body, but he vital body and the dense body He had never learned to build. The Archangels had worked on humanity from without before, as Group Spirits do; but that was not enough. The help had to come from within. That was made possible by the combination of Christ and Jesus, and therefore it is true, in the very highest sense, in the most literal sense, when Paul says: "There is but one mediator between God and man--Christ Jesus, the righteous." 
 
-[191] 
-
 It is one of our illusions that the body which we inhabit is alive. As a matter of fact it is nothing of the sort. At least there is such a very small portion of this body which can really be said to be alive that our statement is practically true. The larger portion is absolutely asleep if not entirely dead. That is a fact well-known to science, and something that reason must teach us is so. That is because our spiritual power is so weak that it cannot furnish this vehicle with life to a sufficient extent. In the measure that we fail thus to vitalize the body, it seems like a heavy clod of clay, which we must laboriously drag along with us, until after a few years it crystallizes to such an extent that it is impossible for us any longer to keep up the vibratory motion. Then we are forced to leave the body and it is said to die. A slow process of disintegration takes place to restore the atoms to their original free state. 
 
 Contrast now that state of affairs when one of these same earth bodies is taken possession of by a powerful Spirit like that of Christ. You will find an analogy in the case of a man being resuscitated from drowning. There the vital body has been extracted, and the vibratory action of the physical atoms has ceased almost, if not altogether. Then when the vital body is again caused to permeate the physical body it begins to prod every atom into action and vibration. 
 
 This attempt to awaken the sleeping atoms causes the intensely disagreeable prickling sensation which persons who have been resuscitated from drowning describe, and this sensation does not cease until the physical atoms have attained a rate of vibration one octave below that of the vital body. Then they are insensate and nothing is felt save as we ordinarily feel. 
-
-[192] 
 
 Take now the case of Christ entering the dense body of Jesus. There the atoms were moving at a speed much lower than the vibratory forces of the Christ Spirit. Consequently the acceleration had to take place, and during the three years' ministry this marked acceleration of the vibration of these atoms would have shattered the body had not the powerful will of the Master assisted by the skill of the Essences held it together. Had the atoms been asleep at the time when the Christ left the body of Jesus, the same as our atoms are asleep when we leave our bodies, a long process of purification would have been required to disintegrate the body. They were, however, as we said, highly sensitized and alive, and therefore it was impossible to keep them in bondage when the Spirit had fled. In future ages when we learn to keep our bodies alive we shall not change atoms and, therefore, bodies so often. Nor when we do, will it take so long as at present to complete the process of purification. The tomb was not hermetically sealed, and would not offer obstruction to the passage of atoms. 
 
@@ -1186,8 +941,6 @@ This (rapid disintegration of the physical body of spiritual people) the writer 
 Upon the death of the dense body of Christ Jesus, the seed atom was returned to the original owner, Jesus of Nazareth, who for some time afterward, while functioning in a vital body which he had gathered temporarily, taught the nucleus of the new faith which Christ had left behind. Jesus of Nazareth has since had the guidance of the esoteric branches which sprang up all over Europe. 
 
 Upon the death of the dense body of Jesus, the seed atoms were returned to the original owner. During the three years' interval between the Baptism, where he gave up his vehicles, and the Crucifixion, which brought the return of the seed atoms, Jesus gathered a vehicle of ether, as an Invisible Helper gathers physical matter whenever it is necessary to materialize all or part of the body. However, material not matched with the seed atom cannot be permanently appropriated. It disintegrates as soon as the will power assembled in it is withdrawn, and this was, therefore, only a makeshift. When the seed atom of the vital body was returned, a new body was formed, and in that vehicle Jesus has been functioning since, working with the churches. 
-
-[194] 
 
 In 1st Thes. 5:23, Paul states that man's whole being consists of Spirit, soul, and body. When we shed the dense body finally as Christ did, we shall function in a body called soma psuchicon (soul body) in 1st Cor. 15:44. This is the "vital body" in our literature, a vehicle made of ether, capable of levitation, and of the same nature as the body which Christ used after the Crucifixion. This vehicle is not subject to death in the same sense as our physical body, and it is eventually transmuted to Spirit as taught in our literature and as required by 1st Cor., 15th chapter. 
 
@@ -1199,16 +952,10 @@ Christ was free to choose His vehicle of entrance into the Earth where He is now
 
 In the meantime Jesus has been the loser of all the soul growth accomplished during his thirty years on earth prior to the Baptism and contained in the vehicle given the Christ. This was and is a great sacrifice made for us, but like all good deeds, it will rebound to a greater glory in the future. This vehicle will be used by Christ when He comes to establish and perfect the Kingdom of God, and it will be so spiritualized and glorified that when it is again restored to Jesus at the time when Christ turns the Kingdom over to the Father it will be the most wonderful of all human vehicles. 
 
-[196] 
-
 Of course, the Earth Spirit is not to be thought of as larger man, or as having physical form other than the Earth itself. The vital body of Jesus, in which the Christ Spirit was focused prior to its actual ingress into the earth, has the ordinary human form; it is preserved and is shown to the candidate at a certain point in his progression. Some day in the far future it will again house the benevolent Christ Spirit upon His return from the center of the earth, when we shall have become etheric, and when He is ready to ascend to higher spheres, leaving us to be taught of the Father, whose religion will be higher than the Christian religion. 
 
 Now we come to a point involving an important cosmic law which underlies various spiritualistic phenomena and also supports the unique teaching of The Rosicrucian Fellowship (and the Bible), that Christ will not return in a dense body but in a vital body. It also shows why He must return. 
 
 Before A.D. 33 Jehovah guided our planet in its orbit and mankind on the path of evolution from without. On Golgotha, Christ entered the earth which he now guides from within, and will until a sufficient number of our humanity have evolved the soul power necessary to float the earth and guide our younger brothers. This requires ability to live in vital bodies, capable of levitation. The vital body of Jesus through which Christ entered the earth is His only avenue of return to the Sun. Hence the Second Advent will be in Jesus' vital body. 
 
-End of
-
-The Vital Body 
-Table of Contents 
-Click here to return to Index Page 
+End of The Vital Body
