@@ -13,21 +13,48 @@ How Is Made And Unmade
 Also
 
 The Occult Effect Of Our Emotions  
-Prayer--a Magic Invocation  
+Prayer - a Magic Invocation  
 Practical Methods Of Achieving Success  
 
+![Picture of Max Heindel](../../assets/max-heindel.jpg)
 
 by Max Heindel [1865-1919]
 
-
-A SERIES OF LESSONS UPON THE HIDDEN SIDE OF LIFE, SHOWING THE OCCULT FORCES WHICH SHAPE OUR DESTINY. 
-
+A Series of Lessons upon the Hidden Side fo Life, Showing the Occult Forces Which Shape Our Destiny
 
 THE ROSICRUCIAN FELLOWSHIP
 International Headquarters
 Mt. Ecclesia
 P.O. Box 713
 Oceanside, California, 92054, U.S.A.
+
+## TABLE OF CONTENTS
+
+- [Foreword](#foreword)
+
+- [THE WEB OF DESTINY](#the-web-of-destiny)
+    - [Part I: Spiritual Research - The Soul Body](#the-web-of-destiny-part-1)
+    - [Part II: The Christ Within - The Memory of Nature](#the-web-of-destiny-part-2)
+    - [Part III: "The Dweller on the Threshold" - Earthbound Spirits](#the-web-of-destiny-part-3)
+    - [Part IV: The Sin Body - Possession of by Self-Made Demons - Elementals](#the-web-of-destiny-part-4)
+    - [Part V: Obsession of Man and of Animals](#the-web-of-destiny-part-5)
+    - [Part VI: The Creation of Environment - The Genesis of Mental and Physical Disabilities](#the-web-of-destiny-part-6)
+    - [Part VII: The Cause of Disease - Efforts of the Ego to Escape from the Body - Effects of Lasciviousness](#the-web-of-destiny-part-7)
+    - [Part VIII: The Christ Rays Constitute the "Inner Urge" - Etheric Sight--Collective Destiny](#the-web-of-destiny-part-8)
+
+- [THE OCCULT EFFECT OF OUR EMOTIONS](#the-occult-effect-of-our-emotions)
+    - [Part I: The Function of Desire](#the-occult-effect-of-our-emotions-part-1)
+    - [Part II: The Color Effects of Emotion in Assemblages of People - The Isolating Effect of Worry](#the-occult-effect-of-our-emotions-part-2)
+    - [Part III: Effect of War Upon the Desire Body - The Vital Body as Affected by Detonations of Big Guns](#the-occult-effect-of-our-emotions-part-3)
+    - [Part IV: The Nature of Ether Atoms - The Necessity for Poise](#the-occult-effect-of-our-emotions-part-4)
+    - [Part V: The Effects of Remorse - The Dangers of Excessive Bathing](#the-occult-effect-of-our-emotions-part-5)
+
+- [PRAYER-A MAGIC INVOCATION](#prayer-a-magic-invocation)
+    - [Part I: The Nature of and Preparation for Prayer](#prayer-a-magic-invocation-part-1)
+    - [Part II: The Wings and the Power - The Invocation - The Climax](#prayer-a-magic-invocation-part-2)
+
+- [PRACTICAL METHODS OF ACHIEVING SUCCESS BASED UPON CONSERVATION OF SEX FORCE](#practical-methods-of-achieving-success-based-upon-conservation-of-sex-force)
+
 
 FOREWORD
 
@@ -36,38 +63,6 @@ The series of seventeen lessons printed in this volume are a part of the ninety-
 These books contain the priceless treasures of the latest investigations of this great mystic, and carry a message of Christian love mingled with divine wisdom, which only the Initiate into the deeper mysteries can give. 
 
 We hope these lesson may be the means of leading many back to God and strengthening their reverence and love for the Christ. 
-
-[5] 
-
-TABLE OF CONTENTS
-
-Foreword 
-Part I: Spiritual Research--The Soul Body 
-Part II: The Christ Within--The Memory of Nature 
-Part III: "The Dweller on the Threshold"--Earthbound Spirits 
-Part IV: The Sin Body--Possession of by Self-Made Demons--Elementals 
-Part V: Obsession of Man and of Animals 
-Part VI: The Creation of Environment--The Genesis of Mental and Physical Disabilities 
-Part VII: The Cause of Disease--Efforts of the Ego to Escape from the Body--Effects of Lasciviousness 
-Part VIII: The Christ Rays Constitute the "Inner Urge"--Etheric Sight--Collective Destiny 
-[6] 
-
-THE OCCULT EFFECT OF OUR EMOTIONS 
-Part I: The Function of Desire 
-Part II: The Color Effects of Emotion in Assemblages of People--The Isolating Effect of Worry 
-Part III: Effect of War Upon the Desire Body--The Vital Body as Affected by Detonations of Big Guns 
-Part IV: The Nature of Ether Atoms--The Necessity for Poise 
-Part V: The Effects of Remorse--The Dangers of Excessive Bathing 
-
-
-PRAYER--A MAGIC INVOCATION 
-Part I: The Nature of and Preparation for Prayer 
-Part II: The Wings and the Power--The Invocation--The Climax 
-
-
-PRACTICAL METHODS OF ACHIEVING SUCCESS 
-Based Upon Conversation of Sex Force 
-[7] 
 
 THE WEB OF DESTINY
 
