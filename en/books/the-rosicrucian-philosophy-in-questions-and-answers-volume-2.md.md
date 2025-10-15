@@ -222,8 +222,6 @@ The questions contained in this book were answered by Max Heindel in Rays From T
 
 For the benefit of those not familiar with the teachings given in The Rosicrucian Cosmo-Conception, we give the following information concerning the Western Wisdom Teachings and the terms used. With these basic facts, it will be easy for anyone to understand the answers to the questions. It may also be in place to state here that each question has been answered regardless of what has been said in answer to any other question, so that each answer is complete in itself. This has occasioned repetition of some things said in answer to one question when replying to another which is similar, but it will be found that in all cases where there is such a repetition it presents a new aspect of the subject, thus giving added information. 
 
-[6] 
-
 The Rosicrucian Philosophy teaches that man is a complex being, an Ego, or threefold Spirit possessing: 
 
 (1) A Dense Body, composed of the solids, liquids and gases of the Physical World. It is the visible instrument he uses here in this world to fetch and carry--the body people ordinarily think of as the whole man. 
@@ -236,45 +234,27 @@ The Rosicrucian Philosophy teaches that man is a complex being, an Ego, or three
 
 The Ego is the threefold Spirit which uses these vehicles to gather experience in the school of life and transmute it into soul power. 
 
-[7] 
+<h2 id="section-1">SECTION I: QUESTIONS DEALING WITH LIFE AFTER DEATH</h2>
 
-SECTION I
+### <h3 id="question-1">Question No. 1: THE PURGATORIAL EXISTENCE</h3>
 
-QUESTIONS DEALING WITH LIFE AFTER DEATH 
-[8] 
-
-
-
-
-[9] 
-
-THE PURGATORIAL EXISTENCE
-Question No. 1. 
 Does the purgatorial experience of the Ego continue from death until the panorama reaches the birth of the life just ended, or are there periods of respite between the end of suffering for this, that, or the other deed and the beginning of suffering for the next? 
 
 Answer: Nature, which is God in manifestation, always aims at the conservation of energy, attaining the greatest results with the least expenditure of force and the least waste of energy. The Law of Analogy applies to this case. If we study the effect of change in the physical world, we shall learn something of its consequence in the realm above us. A person who is here suffering acutely for a short time usually feels pain very intensely; whereas those who suffer for years in succession, though the pain which is inflicted upon them may be as severe, do not seem to feel the suffering in the same measure. They have, as it were, grown used thereto, and their frame has in a certain sense become emaciated and adjusted to pain; hence suffering is not felt as keenly by these as by the person in the first case. 
-
-[10] 
 
 It is similar in the purgatorial experience. When a person (man or woman) has been very hard and harsh in life, when he has thought nothing of the feelings of others, when he has inflicted severe pain here, there, and everywhere on whatever occasion offered, we shall find that his suffering in purgatory will be very severe, intensified of course by the fact that the purgatorial experience is shorter than the life lived upon earth; but the pain is intensified in proportion. Now, therefore, it is evident that if his experience were continuous, if the pain engendered by one act were followed immediately by the next, much of the effect of the suffering would be lost upon the soul because it would not feel its full intensity. Therefore the experiences, as it were, come to them in waves so that there is a period of respite after each period of suffering in order that the full intensity of the next may be felt. 
 
 Some may think, of course, that this is cruel, and that it is inflicting pain needlessly, taking advantage of every finesse to make the suffering as acute as possible. This is not so, however. While the effect is there, the motive is a greater good, for nature, or God, never seeks to revenge or avenge any wrong, but only to teach those who permit themselves to do wrong not to repeat the act, by giving the wrong-doer exactly pain for pain. The tendency in a future life is to cause him to respect the feelings of others and so be merciful to all the world. Thus the very highest intensity in pain is necessary for the conservation of energy, and to make him good and pure sooner than would be the case if the pain were continuous and the suffering correspondingly lessened. 
 
-[11] 
+### <h3 id="question-2">Question No. 2: HOW ARE THE "DEAD" CLOTHED?</h3>
 
-HOW ARE THE "DEAD" CLOTHED?
-Question No. 2 
 How do the so-called dead appear as to outer apparel? How are they clad? Does their thought mold the ethereal matter into garments or anything they desire? One would judge so from what is said in the Cosmo about the desire world. Does the desire body take the shape of the dense body immediately after the silver cord is severed? 
 
 Answer: It is possible for the so-called dead to form by their thoughts any article of clothing they desire. They usually think of themselves as being clothed in the conventional garb of the country in which they lived prior to their passing into the Desire World, and therefore they appear so clothed without any particular effort of thought. But when they desire to obtain something new or an unusual article of clothing, naturally they have to use their will power to bring that thing into existence; and such an article of clothing will last as long as the person thinks of himself as being clad in that apparel. 
 
 But this amenability of desire stuff to the molding power of thought is also used in other directions. Generally speaking, when a person leaves the present world in consequence of an accident, he thinks of himself as being disfigured by that accident in a certain manner, perhaps minus a leg or arm or with a hole in the head. This does not inconvenience him at all; he can move about there of course just as easily without arms or legs as with them; but it shows the tendency of thought to shape the desire body. At the beginning of the war when great numbers of soldiers passed over into the Desire World with lesions of the most horrible nature, the Elder Brothers and their pupils taught these men that by merely holding the thought that they were sound of limb and body, they would at once be healed of their disfiguring wounds. This they immediately did. Now all newcomers, when they are able to understand matters over there, are at once healed of their wounds and amputations in this manner, so that to look at them nobody would think they had passed over in consequence of an accident in the physical world. 
 
-As a result this knowledge has become so general that many people who have passed over since have availed themselves of this property of desire stuff and have molded it by thought in case they wanted to change their bodily appearance. Some times those who are very corpulent want to appear more slim and, vice versa, those who are very thin want to appear as if they had more flesh. This change or transformation is not permanently successful, however, on account of the archetype. The extra flesh put on a thin person or the quantity taken off one who is corpulent does not stay on or off permanently, but after a while the man who was originally thin returns to this original stature, while the person who tries to take off flesh 
-
-[13] 
-
-finds himself putting it back on by degrees, and then has to go through the process anew. It is similar with people who attempt to mold their features and change them to an appearance that suits them better than their original one. However, changes affecting the features are less permanent because the facial expression there as here is an indication of the nature of the soul; therefore whatever is sham is quickly dispersed by the habitual thought of the person. 
+As a result this knowledge has become so general that many people who have passed over since have availed themselves of this property of desire stuff and have molded it by thought in case they wanted to change their bodily appearance. Some times those who are very corpulent want to appear more slim and, vice versa, those who are very thin want to appear as if they had more flesh. This change or transformation is not permanently successful, however, on account of the archetype. The extra flesh put on a thin person or the quantity taken off one who is corpulent does not stay on or off permanently, but after a while the man who was originally thin returns to this original stature, while the person who tries to take off flesh finds himself putting it back on by degrees, and then has to go through the process anew. It is similar with people who attempt to mold their features and change them to an appearance that suits them better than their original one. However, changes affecting the features are less permanent because the facial expression there as here is an indication of the nature of the soul; therefore whatever is sham is quickly dispersed by the habitual thought of the person. 
 
 With regard to the second part of the question, we may say that during physical life the desire body is shaped more or less like an ovoid cloud surrounding the dense body. But as soon as the person gains consciousness in the Desire World and begins to think of himself as having the shape of the dense body, then the desire body begins to assume that form. This transformation is facilitated by the fact that the soul body, composed of the two higher ethers, the light and the reflecting ether, is still with the man the Ego. To put it more clearly and bring in a helpful comparison, we may remember that at the time when the Ego is coming down to rebirth the two lower ethers gathered around the seed atom of the vital body are molded into a matrix by the Lords of Destiny--the Recording Angels and their agents. This matrix is placed in the womb of the mother, where the physical particles are embedded in it so that they gradually form the body of the child, which is then born. At that time the child has no soul body. Whatever there may be of the two higher ethers is not assimilated until later in life and is built upon by deeds that are good and true. When the soul body has reached a certain density, it is possible for the person to function in it as an Invisible Helper, and during his soul flights the desire body molds itself readily into this prepared matrix. When he returns to the physical body, the effort of will whereby he enters it automatically dissolves the intimate connection between the desire body and the soul body. Later on when the life in the physical world has been finished and the two lower ethers discarded with the dense body, the luminous soul body or "golden wedding garment" still remains with the higher vehicles, and into this matrix the desire body is molded at its birth into the Invisible World. So as the body of the child was made in conformity to the matrix of the two lower ethers before coming to physical birth, similarly the birth into the Invisible World which follows death in the physical region is attended by an impregnation with desire stuff of the matrix formed of the two higher ethers, to form the vehicle that will be used in that world. 
 
@@ -282,8 +262,8 @@ But the so-called dead are not the only ones who have the power thus to mold des
 
 Thus a man may take an elemental and form it into any shape he desires and use it to do his bidding. The beings thus created with his life and will power and given a certain mission to do will faithfully obey his orders, and according to the intensity which he puts into that work will the thing last for a longer or shorter time. In this manner many so-called spooks have been created and given a mission lasting for centuries after the person who originally started the spell had gone into the higher Heaven World. That is probably the origin of the "white lady" who warns the Hohenzollerns of impending death. She and kindred apparitions which have given rise to so much speculation have been created by the superlative intensity of desire of a human being launched into the Desire World under particularly painful or distressing circumstances, which wrought the required magic spell unconsciously to the person himself. 
 
-A SHORT CUT TO HEAVEN
-Question No. 3. 
+### <h3 id="question-3">Question No. 3: A SHORT CUT TO HEAVEN</h3>
+
 Some writers seem to teach that it is possible to go straight from the Physical World to the higher spiritual world without having to pass through the lower regions of the Desire World, thus escaping all the noisome sights which are peculiar to that region. You, on the other hand, always speak as if it were necessary to pass through every realm of nature in succession. Why this discrepancy? 
 
 Answer: We are well aware that some people make statements as above relative to the transition from the physical to the higher spiritual realms by way of what they learnedly call the "atomic subplanes." For guidance as to who is right, we refer you to the Law of Analogy, "As above so below," which is the master key to all mysteries, spiritual or physical, for this law is one in whatever realm of Nature we investigate. You know it is impossible for a diver to get to the bottom of the sea without starting at the surface and descending through the intervening water. It is also evident that it is impossible for an airplane to ascend above the clouds without first passing through the intervening space of air between the earth and the clouds. Similarly the Ego after death gradually ascends through the various spiritual realms to the Third Heaven, and at the time of rebirth it gradually descends through the Region of Concrete Thought, the Desire World, and the Ether to the physical plane. These are facts known to many who have investigated, and are beyond dispute or argument to the occult scientist as much as it is beyond argument to the material scientist that the earth moves on its axis; anyone who contends otherwise is simply mistaken. 
@@ -292,65 +272,47 @@ Nor does the writer say this solely upon the basis of his own experience, for he
 
 Furthermore, even if there were such a short cut as that mentioned from the physical world to the highest spiritual realms, do you think that one of God's helpers would ever make use of it for the sake of escaping the noisome sights and the suffering to be found in Purgatory? Most assuredly not! The Christ never turned in disgust from a leper or anyone else in sorrow and affliction. He always sought them out in order that He might heal and help them. What work do you think an Invisible Helper could do in the First Heaven and the Region of Concrete Thought, where there is no sorrow, suffering, or misery, but where all is happiness and joy? There he is not needed by any means. His work lies in the very regions which these writers profess to be able to skip, and if there were such a short cut as mentioned, no true Invisible Helper would ever want to make use of it; but as a matter of fact there is no such byway to heaven. 
 
-[19] 
-
-EARTH-BOUND SPIRITS
-Question No. 4. 
+### <h3 id="question-4">Question No. 4: EARTH-BOUND SPIRITS</h3>
+ 
 Why do you say that some person after they have passed into the other life are earth-bound? Is there anything we can do here by which such a condition can be avoided hereafter? 
 
 Answer: Yes, indeed! People who are earth-bound have their treasures on earth instead of in heaven. They have all left something behind. It may not always be money; they may have other ties on earth, somebody that they think they own--their wife, their husband, their children. Their idea is that because I love you, you must do just as I want you to do. They don't regard the person they love as having any rights at all. Later when they pass out, that relation continues, and they endeavor to impress their loved ones, to keep close to them and be in their company as much as they can. People who have houses and lands and such things and are very much attached to them are the worst off. We see such a person sometimes watching a safe where he has a lot of stock and bonds. Then the heirs will come and take the bonds out and laugh at the old fool for hoarding his money. Or it may be people who have lived for society. They have jewels, dresses, and other things. They still love them and feel they cannot part with them, therefore they are bound to earth as long as they have that feeling. 
 
-[20] 
-
 The best way is to give everything away. Of course we have to watch that we do not put ourselves in a position where people that we give such things to would put us out in the street and cause us to be entirely destitute in old age. But if we use judgment, when we see that we have lived our life to the end of usefulness, we may say: here are things that I have no more use for, and I know I am getting towards the end; where can I do most good with them, who will enjoy them most, or whom can I help to establish in business so he can do something for himself? Or we may find other similar ways of disposing of things. Also with regard to the affections: we should hold ourselves in check so that we do not love anybody with an inordinate love--such as that which makes idols of others and puts them before everything else. If we thus get ourselves free from all earthly ties so we are ready to go, then we are like the ripe kernel falling out of the ear of grain. If we are free from all earthly ties whether financial, personal, or whatever they may be, we cannot be kept earth-bound. If, however, people have committed crimes, they are sometimes unavoidably earth-bound by association with the places where they were committed and by trying to undo the wrong that was done. 
 
-[21] 
+### <h3 id="question-5">Question No. 5: REUNION OF LOVERS IN HEAVEN</h3>
 
-REUNION OF LOVERS IN HEAVEN
-Question No. 5. 
 If there is a strong attraction between two people which cannot reach a legitimate consummation in marriage because of previous ties and one of them passes out of his life with that longing in mind, will they be reunited in heaven, and will they meet and mate in a future earth life? 
 
 Answer: Yes, in all probability the attraction they feel for each other and which cannot find expression now will in many such cases bring them together even before the next life; for though there is no marriage in Heaven, those who love each other and are therefore in a sense necessary to each other's happiness, are united in a bond of closest friendship during the stay in the First Heaven if they pass out at or near the same time. But if one remains in the body for a number of years after the other has passed over, the one who is in the Heaven World will with his or her loving thought create an image of the other and endow it with life for we must remember that the Desire World is so constituted that we are able to give bodily shape to whatever we think of. Thus, although this image will only be ensouled by his thought and the thoughts of the other person still living in the physical region, it embodies all the conditions that are necessary to fill the cup of happiness of this inhabitant of the Heaven World. 
-
-[22] 
 
 Similarly, when the second person passes on, if the first person has progressed into the Second Heaven, his or her shell, so-called (the disintegrating desire body in which he or she lived), will answer the purpose and seem perfectly real to the second lover until his or her life in this realm is ended. Then when they both pass into the Second and Third Heavens, forgetfulness of the past comes over them, and they may part for one or more lives without loss. But some time, somewhere, they will meet again, and the dynamic force which they have generated in the past by their yearnings for each other will unvaryingly draw them together so that their love may reach its legitimate consummation. 
 
 This applies not only to lovers in the generally accepted sense of the word, but the love existing between brothers and sisters, parents and children, or friends who are not related by blood will also work itself out in a similar manner. Our life in the First Heaven is always blessed and filled by the presence of those we love. If they are not in the spirit world and thus actually present, their images will be; and it must not be thought that these are pure illusion, for they are ensouled by the love and the friendship sent out by the absent ones toward the person of whose heaven life they are a part. 
 
-[23] 
-
-STUDY IN THE INVISIBLE WORLD
-Question No. 6. 
+### <h3 id="">Question No. 6: STUDY IN THE INVISIBLE WORLD</h3>
+ 
 On page 118, last paragraph, of the Cosmo it is stated regarding the First Heaven: "The student and the philosopher have instant access to all the libraries of the world." Is the knowledge retained which is obtained there? Is it held by the mind and brought to earth at the next birth? Can study be continued there and we reap the reward of that study in the next or some following earth life? 
 
 Answer: We have great opportunities if we have a mind to take them after we pass over into the Invisible World. But the great majority of people seem to live almost as they lived here. They do not need to eat, but they do eat, as the spiritualists say; and they do have houses over there, and they do seem to live in other respects exactly as they lived here, just having as good and easy a time as they possibly can and enjoying themselves in that way. That class of people are not getting any great good out of their post-mortem existence. 
 
 But those who are studious and try to study humanity there have a great field. They can do a wonderful lot of work, and it helps them. It doesn't seem to bring soul growth in the same sense that it does here; but just the same it promotes their standing, gives them greater spirituality, and helps them in their evolution to a wonderful extent. Thus the essence of the knowledge gained there is retained and brought to earth at the next birth. 
 
-[24] 
+### <h3 id="question-7">Question No. 7: QUIET IMMEDIATELY AFTER DEATH</h3>
 
-QUIET IMMEDIATELY AFTER DEATH
-Question No. 7. 
 It is said that the body should not be cremated within three and one-half days after death. Is there a detrimental effect experienced from a burial at any time within three and one-half days? 
 
 Answer: No, not from the burial of the body in itself if it is not molested in any other way. But of course a burial cannot usually take place without more or less commotion and the body being more or less disturbed; therefore it is best to wait until after the period mentioned has passed. Of course any incision in the body such as used for the purpose of embalming, or anything like that, is felt by the Spirit. Just as the spirit dimly feels the cutting when a doctor performs an operation upon a person under ether, so a post-mortem operation causes enough sensation to make the Spirit feel uncomfortable; therefore we should avoid these things if we possibly can. There should be as much quiet as possible around the body during these three and one-half days, as whatever is done to disturb its rest and peace is really detrimental to the Ego. 
 
-[25] 
+### <h3 id="question-8">Question No. 8: EFFECT OF EMBALMING</h3>
 
-EFFECT OF EMBALMING
-Question No. 8. 
 In embalming the blood is drawn from the body while it is still warm and a fluid forced into the arteries. What is the effect of this operation? 
 
 Answer: The Spirit feels pain from embalming and consequently is disturbed in that most important of all things, the meditation over the panorama of life. We should realize that at the time of death the harvest is beginning; we have been sowing all through life, and when death comes the reaping begins. The first and most important fruitage comes from the study of the panorama of life as it unrolls in reverse order, showing first the events of the past life and then the causes that produced them. If the body is disturbed at that time by the lamentations of relatives or by moving it out to be buried, then the Spirit is disturbed in the same degree. And naturally a post-mortem examination or embalming will have far more detrimental effects. Therefore it is wrong to do either. 
 
-[26] 
+### <h3 id="question-9">Question No. 9: HELPING FRIENDS WHO ARE IN PURGATORY</h3>
 
-HELPING FRIENDS WHO ARE IN PURGATORY
-Question No. 9. 
 My only brother died last November and must now find himself in one of the lowest regions of the Desire World. Would you advise me to let him know that by a simple effort of the will he can prevent the matter of the desire body from forming itself into concentric layers, as it were, the coarser matter on the outside and the finer within? I mean to say that by an effort of will he could make the matter of the seven regions of the Desire World which form his desire body, come to the surface of that body, and by this means he would be able to contact at once all the seven regions of the Desire World instead of only the lower regions. There is, I believe, no serious objection to this use of will power. 
-
-[27] 
 
 Answer: This question refers to the fact that when death has taken place and man finds himself in the Desire World, the magnetic powers of the seed atom are spent, the archetype is dissolving, and therefore the centrifugal force of Repulsion forces the desire stuff of the desire body outward towards its periphery. The matter belonging to the lower regions is thrown off first by the process of purgation, which cleanses the man from all the evil acts of his past life. This is the result of the same natural law that in the physical world causes a sun to throw off matter which then becomes planets. To interfere with this law would be disastrous to any human being even supposing it were possible, which it is not. So it is useless to attempt to help your brother in that manner. 
 
@@ -360,15 +322,11 @@ But there is another way in which we may help someone near and dear to us provid
 
 The same result can be accomplished by prayer; also by kind thoughts, thoughts of upliftment and helpfulness, for these have the same effect on those who are out of the body as kind words and helpful acts have on people who live in this world. 
 
-[29] 
+### <h3 id="question-10">Question No. 10: DISFIGUREMENT IN THE INVISIBLE WORLD</h3>
 
-DISFIGUREMENT IN THE INVISIBLE WORLD
-Question No. 10. 
 At present so many deplorable casualties are occurring daily and hourly, and people are being hurled into the next world in a hideously maimed and disfigured condition. Do those who pass into that world under the ordinary peaceful deathbed conditions have to face these horrible sights on the other side? 
 
 Answer: Conditions there are not quite so bad now as they were in the beginning of the war (World War I). At that time the Spirits who passed over thought of themselves as being maimed, and they had no way of correcting that impression; therefore they carried about with them the wounds on the various parts of their bodies and appeared minus limbs, etc. Often they suffered very acutely, believing themselves to be still afflicted with the physical pain. But the Invisible Helpers have not been idle; a system of education has been inaugurated and systematized so that nearly everybody is now aware of the fact that physical disabilities are not necessarily permanent on the other side. They have learned that a hand which has been shot off may be replaced in the desire body by the mere thought of having a hand and its being complete. This word has been passed from one to another so that now everyone who goes to the other side with a gunshot wound or minus arms or legs or even a head, is at once instructed in the fact that desire stuff is readily molded by thought and will, and as a result almost everyone there is perfect in body. 
-
-[30] 
 
 In fact, those who now pass from this life halt, lame, hunchbacked or in any other way physically disfigured have taken a leaf out of this book, and whereas in years before the war one would find as many hunchbacked and halt people there as in the physical world, one will now find nearly everyone with a perfect body. It is amusing, to say the least, to see people who were vain in the earth life, now molding their faces and bodies in harmony with their conceptions of beauty by a mere effort of will. This makes it a little more difficult than it used to be to find people there, for those who were tall and skinny but who had a keen desire to be more fleshy have changed their appearance in accordance with their wish, and conversely those who were fleshy and suffered from a superabundance of fat have often made themselves slender as sylphs. Thus the knowledge which before the war was largely confined to the occultist has now become general property in the other world, and has caused the inhabitants there to change their shapes insofar as this has not been prevented by the purgatorial experience. 
 
@@ -376,10 +334,8 @@ The great majority of recent arrivals have nothing of the above nature to divert
 
 We may therefore expect to see spiritualism flourish as it never did before in the world's history. This involves the development of mediumship, which is a very dangerous phase of psychic unfoldment. Neptune, the planet of psychism, is now entering Leo, the sign of the heart, and the heartstrings of love and desire for intercommunication will pull the people in the two worlds together. This will establish the spiritual verities beyond cavil. But we should prepare ourselves to go there consciously and not allow them to come back here through mediumship, much less draw them on, for that is retrogression for them. Instead, if we cultivate our latent sixth sense we shall be able to see them, and to speak with those who have passed over just as well as we did when they were with us in the flesh. 
 
-[32] 
+### <h3 id="question-11">Question No. 11: EXPERIENCES OF AN EARTH-BOUND SUICIDE</h3>
 
-EXPERIENCES OF AN EARTH-BOUND SUICIDE
-Question No. 11.
 (In a letter to Max Heindel from Puerto Rico) 
 You remember Outram Court, a one-time student of yours who committed suicide? Well, I have taken my mind entirely off him lately, because I supposed by this time he was safe in his own place. But one of my peons has just told me he attended a spiritualist meeting a few nights ago and Outram Court came. To prove his identity he insisted upon speaking English although he spoke Spanish just as well, and as none of those present understood English there was a delay until they found a spirit who understood both languages. Outram said he was still living at my neighbor's where he killed himself; that he was suffering torture from hunger, and wanted them to give him food. Later in the interview he changed to Spanish. 
 
@@ -387,19 +343,13 @@ Now, I wonder what I can do. The worst of it is I cannot bring back the memory o
 
 Answer: This question opens up the vast subject of abnormal transition into the beyond, both by accident and design, together with the feelings experienced by people who have thus passed the gate of death, and their communications through mediums; also the curious fact that many of the people we call dead are unaware that they have lost their physical body. 
 
-[33] 
-
 To elucidate it is necessary first to state a few of the salient facts concerning man and the world in which we live. Everyday observation as well as scientific researches prove that matter exists and moves in states which we cannot see. Water is evaporated by the sun's heat and again condensed as rain; ether is as necessary to transmit light and electricity as air is to the transmission of sound. The invisible wind, which is air in motion, is as surely a cosmic force as the electricity moving in the still finer realm of ether. In short, we are surrounded by an invisible world of force and matter, as real as, or more so than, the world we know through our physical senses. 
 
 And as we eat the substances of this gross, dense world to sustain our visible bodies, we assimilate a certain amount of matter belonging to the invisible ethereal worlds, which forms a garment for the Spirit when it has dropped the mortal coil. "The wind bloweth where it listeth, and thou hearest the sound thereof, but knoweth now whence it cometh or whither it goeth; so is everyone who is born of the spirit. 
 
-[34] 
-
 Under normal conditions the exit of the Spirit from its outgrown body is like the falling of the seed from the ripe fruit. But when the Spirit severs the tie before the appointed harvest time of death, the unripe spiritual vehicle cannot ascend to the higher realms; it hovers close to its earthly haunts, as hungry for more physical sustenance as the kernel forcibly extracted from the unripe fruit. In the nature of things this cannot be gratified, and therefore intense unsatisfied hunger causes the suicide the most excruciating torture. He sometimes obtains a little temporary surcease by inhaling the fumes of highly flavored dishes. 
 
 Furthermore, as the flesh clings to the kernel when it is forcibly torn from unripe fruit, so also some of the lower ethers and even gases of the slain body cling to the higher vehicles of the suicide, with the result that he is very nearly material, and is susceptible to gross, sensual suggestions in a manner and to a measure not felt by humanity in the body. If his nature is such that he would entertain and take pleasure in such things he may here wallow in the deepest mire of the darkest hell, with very serious detriment to his spiritual welfare. But if he dislikes the coarse and sensual, the atmosphere of bestiality in which the suicide finds himself will jar upon his sensibilities in proportion to his refinement; as several have expressed it to the writer, the orthodox hell with its devil would be a mild form of amusement by comparison. Some describe the pain which we have compared to unsatisfied hunger as a gnawing, throbbing toothache, with the difference that the pain is felt all over the body instead of being confined to the dental region. 
-
-[35] 
 
 The experience of Outram Court bears out the foregoing teachings of the Rosicrucians. He is still earth-bound in the same house where he formerly lived, and his desire body evidently remains very dense, so dense that at times he cannot realize that he has passed over because he sees clearly the physical world and the people in it; he probably sits at their tables and endeavors to partake of their food, or at least to feed upon the odor. Nor is it strange that he frequents the spiritualistic meetings of the peons, for these people are at a low stage of development, very sensual, and practice without being aware of it a good deal of black magic under the guise of spirit communication. 
 
@@ -409,43 +359,33 @@ The other method, for those who are not trained in concentration, is prayer. Thi
 
 We always advise a combination of these two methods for the untrained. Pray for those you want to help, whether they are in the body or out (living or dead). Think out all you would like to say to them just before going to sleep. When you meet in "Dreamland," if you are not yet conscious and cannot either plead or argue, your feelings in the matter will make some impression at least, and if kept up for some time the effect will certainly be noticeable. 
 
-[37] 
-
 Our friend says in his letter that the mother of Outram Court does not know she is dead. No one who has lost the dense body thinks of himself as "dead"; as a matter of fact the so-called "dead" feel themselves much more alive than we do. When they pass out normally they know neither sickness nor pain, and they cannot therefore be expected to take our view, who think of the physical body as the man, when it is only a garment we wear and wear out. Their consciousness is focussed entirely in their spiritual bodies, with nothing to remind them of the discarded dense vesture. On the other hand, the suicide feels every moment the sensation of hunger occasioned by the attempt of the archetypal body to draw physical material to itself, and his feeling that he is not dead springs therefore from a very different root than the similar idea of the general run of people who now live in the invisible world. 
 
-OUR RESPONSIBILITY TO THE DEAD
-Question No. 12. 
+### <h3 id="question-12">Question No. 12: OUR RESPONSIBILITY TO THE DEAD</h3>
+
 Will you please tell me just how we may best help those who have passed on? 
 
 Answer: We have often expressed our appreciation of the science of birth with its efficient methods of helping both the mother and the child when the latter is entering our earth-life, but we have also heartily deplored the lack of a science of death which would teach people how to help intelligently the Ego that is passing from earth-life into the unseen realms of nature. At such times we usually stand helplessly by, and often do in our ignorance the very things which are detrimental to the comfort of the Spirit then in transition. If people could only know how their moans and hysterical outbursts affect their dear departing ones, unselfish consideration would probably change their attitude and quiet their manner. 
 
 So far as the body is concerned it is not really dead until about three and one-half days after the Spirit has passed out of it, for the silver cord still connects it with the higher vehicles. During this time anything in the nature of a post-mortem examination, embalming, or cremation is felt by the Spirit almost a keenly as if still within the body. These are facts well known to all students of the Rosicrucian Philosophy, but they have perhaps not received the emphasis they deserve. We should remember that our attitude after that time continues to affect the Spirit, for our friends do not usually leave their accustomed places right away. Many stay in or near the home for a number of months after they have left the body and can feel conditions there even more keenly than when in earth-life. If we sigh, mourn, and moan for them we transfer to them the gloom we ourselves carry about with us or else we bind them to the home because of their efforts to cheer us. 
 
-[39] 
-
 In either case we are a hindrance and a stumbling block in the way of their spiritual progress, and while this may be forgiven in those who are ignorant of the facts concerning life and death, people who have studied the Rosicrucian Philosophy or kindred teachings are incurring a very grave responsibility when they indulge in such practices. We are well aware that custom used to demand the wearing of mourning and that people were not considered respectable if they did not put on a sable garb as a token of their sorrow. But fortunately times are changing and a more enlightened view is being taken of the matter. The transition to the other world is quite serious enough in itself, involving as it does a process of adjustment to strange conditions all around, and the passing Spirit is further hampered by the sorrow and anguish of the dear ones whom it continues to see about itself. When it finds them surrounded by a cloud of black gloom, clothed in garments of the same color and nursing their sorrow for months or years, the effect cannot be anything but depressing. 
 
 How much better then the attitude to those who have learned the Rosicrucian Teachings and have taken them to heart. Their attitude when a dear one makes the transition is cheerful, hopeful, and encouraging. The selfish grief at the loss is controlled in order that the passing Spirit may receive all the encouragement possible. Usually the survivors in the family dress in white at the funeral and a cheerful, genial spirit prevails throughout. The thought of the survivors is not, "What shall I do now that I have lost him (or her)? All the world seems empty for me." but the thought is, "I hope he (or she) may find himself (or herself) to rights under the new conditions as quickly as possible and that he (or she) will not grieve at the thought of leaving us behind." Thus by the good-will, intelligence, unselfishness, and love of the remaining friends the passing Spirit is enabled to enter the new conditions under much more favorable circumstances, and students of the Rosicrucian Philosophy cannot do better than to spread this teaching as widely as possible. According to the Bible the redeemed of the Lord will finally vanquish the last enemy, DEATH, and they will then exclaim "O Death, where is thy sting? O Grave, where is thy victory?" For those who have evolved spiritual sight there is of course no death, but even those who have studied the Rosicrucian Teachings may in a measure be said to have attained this great victory. 
 
-[41] 
-
-POST-MORTEM STATE OF A MISER
-Question No. 13. 
+### <h3 id="question-13">Question No. 13: POST-MORTEM STATE OF A MISER</h3>
+ 
 The Cosmo states that the dead miser in the lower Desire World can see his gold and his heirs squandering it, when he has no sense organs or any material coarse enough in vibration to be in harmony with the dense physical world. We cannot see the Desire World until we evolve the centers of the desire body; how then can those in the Desire World see us when they have discarded the physical sense organs? 
 
 Answer: You understand, of course, that the Desire World, the Ethers, and the Physical World interpenetrate one another so that the miser is right here among us just the same as he was when he had a physical body to wear. It is not generally understood, however, that the densest desire stuff of which the lower regions of the Desire World are composed, and the Chemical Ether which is the lowest of the four ethers, and even the physical gases, are exceedingly closely knit and form the outside layer of all Spirits which have just been released from the physical body. They are therefore living in the lower region of the Desire World in such close touch with the physical that it is amazing to the writer that people cannot see them going about among us. They are like the man who has left a room on a bright sunny day: the sunshine blinds him, but he can see clearly things inside the room when he turns towards it. 
-
-[42] 
 
 Thus the miser and all others who have just left the physical body see the people in this world much more clearly than they see the things of the Desire World where they are; for as the man who goes out in the sunshine must first accustom himself to see things by adjusting the focus of his eyes, so also the Spirits which have just entered the Desire World after death, require a little time for this readjustment. And the densest material in their being, which is thrown out toward the periphery by the centrifugal force of Repulsion, keeps them earthbound for a longer or a shorter time until they have shed this coarsest material and are able to contact the finer vibrations of the higher regions. For that reason the miser, the drunkard, the sensualist, and similar people whose desires are naturally low and vicious, remain in these nether regions, which may well be called hell, for a much longer time than people with high ideals and spiritual aspirations who have endeavored during life to eradicate their vices and to subdue their lower nature. Their desire bodies contain comparatively little coarse material and that is soon worn away, leaving them free to soar to higher spheres. 
 
 With regard to the question as to how the miser can see the physical things when he has no sense organs, we may say that there are no specialized sense organs in the finer vehicles, but just as we feel with the whole surface of our body, so the Spirits see and hear, not only with the surface, but with every single atom of their spiritual body, inside and out. What they perceive is not really the physical things which we see with our physical eyes, but every chair, desk, or others physical implement, is interpenetrated by both ethers and desire stuff--it is this that they perceive, and that to them is as real and tangible as the physical forms are to our senses. 
 
-POST-MORTEM STATE OF A DRUNKARD
-Question No. 14. 
-It is stated in the Cosmo that the drunkard in the lower Desire World cannot gratify his desires, but it is also stated that the spirits in the First Heaven which is located in the upper Desire World, can actually mold desire stuff into real environment according to their desires and ideas. Why cannot the drunkard do such in the lower Desire World and create real conditions of vice suitable to his temperament? 
+### <h3 id="question-14">Question No. 14: POST-MORTEM STATE OF A DRUNKARD</h3>
 
-[44] 
+It is stated in the Cosmo that the drunkard in the lower Desire World cannot gratify his desires, but it is also stated that the spirits in the First Heaven which is located in the upper Desire World, can actually mold desire stuff into real environment according to their desires and ideas. Why cannot the drunkard do such in the lower Desire World and create real conditions of vice suitable to his temperament? 
 
 Answer: It has been remarked by many students of The Rosicrucian Cosmo-Conception that it always anticipates and answers the questions which may come up in the reader's mind, and if you will turn to page forty-two, the last paragraph, you may there read: "In the finest and rarest substance of the three higher Regions of the Desire World the force of attraction alone holds sway, but it is also present in some degree in the denser matter of the three lower Regions, where it works against the force of repulsion, which is dominant there. The disintegrating force of Repulsion would soon destroy every form coming into these three lower regions were it not at that it is thus counteracted. In the densest or lowest region, where it is strongest, it tears and shatters the forms built there in a way dreadful to see. Yet it is not a vandalistic force. Nothing in nature is vandalistic. All that appears so is but working towards good. So with this force in its work in the lowest Region of the Desire World. The forms here are demoniac creations, built by the coarsest passions and desires of man and beast." 
 
@@ -455,11 +395,9 @@ As a matter of fact, the drunkards in the Desire World usually attempt to manufa
 
 They also say that they get considerable satisfaction from the fumes carried by the breath of drunkards in the physical body and the more heavy and pungent the atmosphere is in the bar-rooms, the nearer they come to finding the satisfaction for which they are seeking. If only the poor weaklings who visit such places could see and understand the disgusting tactics of the invisible reprobates hanging about such places, surely it would be an awakening which would probably help those who are not too far gone to retrace their steps to the path of decency and honest living. But, thank God (both for the visible and invisible drunkards) it is impossible for them to create a den of vice in the desire stuff because the force of Repulsion tends to destroy it as fast as they can bring it into existence. 
 
-RESULTS OF SUDDEN DEATH
-Question No. 15. 
+### <h3 id="question-15">Question No. 15: RESULTS OF SUDDEN DEATH</h3>
+ 
 In the November, 1917, issue of Rays From The Rose Cross there was a story called, "Facing the Firing Squad," stating how a spy was placed against a wall and shot. Immediately afterwards he, being in full possession of his consciousness, converses with a Rosicrucian and in his company travels thousands of miles to visit his sister. Is not this contrary to what is taught in the Rosicrucian Philosophy? It is there stated that after the seed atom in the heart has been removed and the silver cord ruptured, a period of unconsciousness lasting about three and one-half days follows, during which time the spirit reviews the panorama of its past life. 
-
-[47] 
 
 Answer: Yes, it is so stated in The Rosicrucian Cosmo-Conception, and that holds good under all ordinary circumstances. However, it is also stated in explanation of the law of infant mortality that when a person passes out under untoward circumstances, such as a fire or a railway accident, or suddenly as by a fall from a building or a mountain, or on a battlefield, or when the lamentations of relatives around the bedside of the newly dead make it impossible for him to concentrate upon the life-panorama, then the etching in the two higher ethers, the light ether and the reflecting ether, and their amalgamation with the desire body, does not take place. Man does not then lose consciousness, and because there is no etching on the finer vehicles such as is normally the case, he has no purgatorial existence; that is to say, he does not reap what he has sown, there is no suffering in consequence of his wrong-doings and no feeling of joy and love on account of the good he has done. The fruitage of the life has been lost. 
 
@@ -467,10 +405,8 @@ To offset this great disaster the Spirit on entering its next earth life is caus
 
 There is in this consideration a great deal of food for thought. The large percentage of infant mortality today has its root in the wars of former ages. The loss of life was comparatively slight, though the toll of national wars must have been greatly increased by the deaths which occurred in duels, feuds, and common quarrels, where deadly weapons were used in those days. Nevertheless, the sum total of these casualties seems insignificant when compared with the awful carnage which is now going on, and if this is to be corrected in the same manner, then a future generation will certainly reap a harvest of tears on account of the epidemics which will devastate the homes of their children. But as we have pointed out at other times, every tear shed because of the loss of some loved one is wearing away the scales from our eyes until one day we shall see with sufficient clarity to penetrate the veil that now separates us from those we mistakenly call dead, but who are really much more alive than we are. Then shall come to pass the victory over death, and we shall be able to exclaim: "O, Death, where is thy sting? O, Grave, where is thy victory?" 
 
-[49] 
-
-GHOSTS OF THE LIVING
-Question No. 16. 
+### <h3 id="question-16">Question No. 16: GHOSTS OF THE LIVING</h3>
+ 
 I was in our talking shop a few days ago when our most radical member was urging the granting of a lapsed scholarship to a poor boy who had won one when legally too young to receive it, and who being sick at this particular examination was beaten by another boy. Still he was pronounced by the examiners in England as morally entitled to this scholarship. 
 
 While listening to the debate some one sitting by my side touched me and said: "Look, Mr. Mac!" I looked in the direction pointed out to me, and there was one of the college masters, Mr. Mac, standing behind the government secretary, listening intently to the debate. I told the person that Mr. Mac and I were schoolmates and that I had not seen him for years, yet he did not seem to grow old. 
@@ -483,32 +419,20 @@ How could such an emaciated person appear as begin in the full vigor of manhood?
 
 Answer: Yes, indeed, there are a considerable number of cases of phantasms of the living. All that is required is that the body should be in a very deep state of sleep or unconsciousness, such as usually occurs when the person is near the door of death. It may be in the act of drowning, or when induced by the fall from a horse, automobile, or similar conditions, or after receiving a blow on the head, or on the sickbed, when the physical body is very emaciated and frail and close to dissolution, as in the case mentioned by our correspondent. Then most of the ether constituting the vital body may be drawn out of the physical vehicle, which is left in a trance-like condition that may last only a few minutes, but as space is no barrier in the invisible worlds, the desire of the person thus momentarily liberated may carry him to the ends of the world and cause him to appear to some loved one many thousands of mile from the place where his body is lying. 
 
-[51] 
-
 It is much easier for such a Spirit to materialize than for those who have left the body at death, because with these phantasms of the living the silver cord is still intact--connection with the seed atom in the heart has not been broken. Thus it is quite possible that the youngster whose scholarship was under discussion was a favorite of Mr. MacF., as was supposed by our correspondent, and when he felt himself liberated by a sinking spell on that afternoon, his desire to be well and about his work in the college took him to his familiar haunts and made him listen to the debate concerning the boy's title to receive the benefit. 
 
 With regard to the question how a man who is so emaciated could appear in full vigor, we may state that it is a law in the Desire World that as a man thinketh, so is he--literally and without qualification. Should he think of himself as aged, worn, and decrepit, he would shape his vehicle along those lines and appear so to all others, but the gentlemen in question was evidently thinking of regaining his health and vigor so that he might take up his work anew. Consequently he appeared in perfect health when seen by our correspondent, and the person who pointed him out. 
 
-[52] 
+<h2 id="question-2">SECTION II: QUESTIONS DEALING WITH REBIRTH</h3>
 
-
-
-
-[53] 
-
-SECTION II
-
-QUESTIONS DEALING WITH REBIRTH
-[54] 
-
-FREQUENCY OF REBIRTH
-Question No. 17. 
+### <h3 id="questino-17">Question No. 17: FREQUENCY OF REBIRTH</h3>
+ 
 Do those now passing over come to rebirth again before the Aquarian Age? If they still have lessons to learn to fit them to live in that age, can they come back and learn them? 
 
 Answer: That all depends. the usual time between two births is a thousand years, so as to give people a chance of being embodied once as a man and once as a woman while the sun is passing through each sign of the zodiac by precession, which takes about 2,100 years. This is done because the lesson during that period are so many and so different that they cannot all be effectively learned in the same sexual type of body. Experiences are very different from the standpoint of a man and that of a woman. But this law is like all other laws of nature, it is not blind. It is under the dominion of four great Beings called the Recording Angels, and they have to do with all the details of human evolution. They see that everyone gets a chance to obtain as much experience as he or she can stand. If it is necessary for a person to remain the whole one thousand years in the invisible worlds, he remains. If not, he comes back sooner. Some people come back within a few hundred years because they have evolved to the point where they learn quickly. People who "live the life" as Probationers, who have assimilated their life experience before they leave here and are already doing a good deal of work in the invisible worlds, will not need to spend such a long time on the other side. They have put themselves definitely on the side of the laws of God, and are therefore given greater opportunities for evolution by service. 
 
-MAN'S RESPONSIBILITY TO ANIMALS
-Question No. 18. 
+### <h3 id="question-18">Question No. 18: MAN'S RESPONSIBILITY TO ANIMALS</h3>
+
 When a man lives a life of sorrow and suffering we may account for it by the fact that he is reaping now what he has sown in former lives, but how can we reconcile the awful suffering and torture of animals with the justice of God? What will be the fate of those who now mistreat animals? 
 
 Answer: To view life from the standpoint of present conditions alone is just as inconsistent a it is to look upon a man as having neither childhood behind him nor old age before him. Our present life, and many lives before that, have made us what we are now, and from that past is determined in a large measure the direction which we shall follow in future lives. At the beginning of manifestation the Spirit was free and like the Father save in one thing, namely that it had no self-consciousness, and the pilgrimage through matter was undertaken in order that this might be gained. To further this object the Spirit was crystallized into vehicles during the process of involution. A physical, a vital, and a desire body were gradually drawn around it to limit it and shut it off from all other spirits. Then by the gift of mind the Ego or individual was finally formed. Imprisoned in the various veils mentioned, the Spirit can no longer contact the outside world directly, but turning its gaze inward it sees itself and recognizes itself as "I." At the same time, however, it feels its limitations; it recognizes the fact that it is feeding upon husks and that it is necessary to return to the Father's house in order to take again its place as a Son of God. 
@@ -517,63 +441,47 @@ The resolution to return to the Father is made more intense by the fact that pai
 
 The path of evolution is not a circle but a spiral. We are a better humanity than the angels were when they were human during the Moon Period, and the animals which will be human during the Jupiter Period will be a better humanity than we. As the lowest globe at that time will be in the Etheric Region, only a vehicle made of ether will then be used by any being. The finer forces of nature will be available to all during that time, and the humanity of the Jupiter Period as well as ourselves will be able to wield the lightning. Therefore it is necessary that they should know by experience the nature of pain which may be inflicted by the misuse of a superior power. To give them the necessary compassion they have been made in certain respects like ourselves, capable of feeling the pain and suffering incident to physical existence. Thus from the present evil there will come good to both man and beast. 
 
-[58] 
-
 The fact must nevertheless be taken into consideration that there is woe in store for him by whom evil comes. The lower kingdoms act as stepping-stones for the higher. Did not the mineral exist, plant life would be an impossibility, for it could not take root and obtain the sustenance necessary for growth. If there were no plants, animal and man would have no means of obtaining earth bodies. The service rendered by the lower to the higher as stepping-stones can only be paid for by service. The higher owes the lower a debt of gratitude. Christ recognized this, that without pupils there could be no teacher, and in gratitude for the privilege of teaching and bringing into the world the wonderful Christian religion He washed His disciples' feet. In future aeons the lower kingdoms now action as stepping-stones and a means of growth and experience to us will need help and service, which must then be given by us. Thus the human race, which now abuses the animals, will then have to act as their servitors, aiding them to attain the very utmost from the school of evolution as it will be carried on in that day. The animal spirits whose bodies we now torture and destroy will in that day become our pupils, and it will be our duty as their guardians to help them grow and propagate the life we now deprive them of. 
 
-[59] 
-
-THE NECESSITY OF REBIRTH
-Question No. 19. 
+### <h3 id="question-19">Question No. 19: THE NECESSITY OF REBIRTH</h3>
+ 
 For those brought up in the teachings of Spiritualism and Swedenborgianism it is easy enough to accept the fact of life hereafter and of incidental purgatorial experience therein, but it is not easy for them to understand why it is not feasible for the individual to obtain all the experience necessary for progression in the spiritual world without returning to the physical plane for rebirth in new bodies. If there is an imperative reason for periodical returns to the flesh as Rosicrucianism sees it, will you not state this briefly but explicitly? 
 
 Answer: The necessity for rebirth has two phases, one physical and one spiritual. If the mineral components of our bodies did not crystallize, and it were thus possible for us to keep them young and pliable for millions of years, it would not be necessary to take rebirth; we could learn the lessons of life through the unbroken stretch of ages. But on account of our ignorance and abuse of this body it does not usually last a great deal more than three score and ten years, as the tradition is, and probably not much more than half that time as an average. Hence if we lived here only one short life of thirty or forty years, we would be unable to learn all the lessons which should be taught us in this environment, and that would be a waster of energy. We, as human beings, would not think of building an elaborate school and furnishing all the equipment for teaching the pupils and then graduate them after one day's attendance; but that would be exactly analogous to a cosmic system which would require the attendance of pupils at the school of life during only one life-day. When the first school day is over we send the child home to assimilate his lesson and prepare for the next day's schooling, and so on through many days and years. 
 
 Similarly, the divine Hierarchies who guide our evolution send us to school on earth each life-day, and at the close thereof we are called to our heavenly home to rest and prepare for the schooling of the next life-day. It would be an absolute impossibility for our schoolmasters to cram all the wisdom to be leaned in the school into the head of any pupil, were he ever so precocious, if the time were limited to one day. But given many successive days, which in the end amount to years, they are able to impart gradually all their knowledge to him. Similarly in life's school: cosmic wisdom and cosmic love cannot be taught in a short time; it takes age, for the divine qualities are not mushroom growths which can be attained over night. They resemble rather the sturdy oak which requires a century to develop, but which has a sturdiness and strength not even remotely approached by the mushroom. 
 
-[61] 
-
 Furthermore, the constitution of and conditions in the spiritual worlds render them unsuitable for the phases of progression which man must learn in the physical world. At the present time mankind is developing the mind by the use of right thought, which has to be turned into right action, and this can best be done in a realm where conditions are firm and rigid. When an inventor visualizes a machine or contrivance it may seem to work splendidly in his mind, but the wheels which revolve so nicely in his the mental world where interpenetration is the law are often found to rub against each and be in each other's way when the model is made in physical material. This shows that his thought was wrong, and he is then forced to go to work and correct the mistake or abandon his project. Thus the physical condition acts as a corrective, and by showing him his mistake makes it possible for him to learn gradually to evolve the right thought and embody it in a machine that will work. Similarly, a man who undertakes a business project thinks out in detail how it should work, but subsequent developments often teach him that he has miscalculated. Thus he also, by his mistakes, is shown where his thought was wrong, and is given the opportunity to correct it. 
 
 These things cannot be learned in the spiritual world, where one goes out of a window or up the chimney, just as easily as through a door, because there everything is fluidic and plastic. Being divine, we have infinite possibilities latent in us, we are gods in the making. Thought is a creative power, and unless we learn how to use it in the right manner it will prove a curse instead of a blessing, both to ourselves and the creatures who are to be helped by us in future ages. In that case we should be unable to help them in the creation of suitable vehicles, as we have been helped and are being helped by other higher than we in the scale of evolution, and we would create monstrosities. Therefore the school of earth is an absolute necessity to teach us to think right, and thereby create right in both the denser and the finer cosmic substances with which we have to work. 
 
-REBIRTH OF CHILDREN
-Question No. 20. 
-It is stated in the Rosicrucian teachings that children who die in infancy are brought to rebirth in from one to twenty years. Do they return to the same station in life, or do they sometimes return to a different environment, more or less desirable, from wealth to poverty, or vice versa? 
+### <h3 id="question-20">Question No. 20: REBIRTH OF CHILDREN</h3>
 
-[63] 
+It is stated in the Rosicrucian teachings that children who die in infancy are brought to rebirth in from one to twenty years. Do they return to the same station in life, or do they sometimes return to a different environment, more or less desirable, from wealth to poverty, or vice versa? 
 
 Answer: This question was asked years ago when the writer was a novice in the investigation of the spiritual world, and it was answered correctly at that time. But later investigations make it possible to give more detail based upon what has actually happened in a considerable number of cases. Notes were made of the results at the time of the investigations, but these have been mislaid. Nevertheless, according to our recollection, it was found that out of twenty children we watched who came to rebirth within five years of the time of death, fifteen or sixteen went back into the same family. It can be seen at the time when a child dies whether it will be a long or a short time in the invisible worlds. We therefore selected another group of twenty which are still in the invisible world and not expected to take rebirth until ten or more years have passed. But the tendencies are already quite plainly shown, for when a Spirit seeks rebirth it is usually drawn to the prospective mother years before it enters the womb, and sometimes women still unmarried are surrounded by their prospective children even before they have become engaged. Judging from this fact what the results will be, we find that out of the group of twenty only three are staying with their former mothers; the other seventeen are scattered among other families, and two of them are keeping company with small girls, showing that they are waiting for them to grow up and become their mothers. 
 
 This tendency of Spirits who are seeking embodiment to follow their prospective mothers around for years sometimes gives rise to laughable and embarrassing situations in connections with mediums who do not understand the conditions. We remember the case of a young lady who went to a seance and was told that she had a child in spirit land who was standing beside her and calling her mother. Naturally she denied the allegation indignantly, and arose and left the meeting. So there was a case where both were right through making diametrically opposite statements; each thought the other dishonest because each lacked the knowledge to reconcile the seemingly irreconcilable. 
 
-DO TWO WRONGS MAKE A RIGHT?
-Question No. 21. 
+### <h3 id="question-21">Question No. 21: DO TWO WRONGS MAKE A RIGHT?</h3>
+ 
 You state that from the spiritual point of view all things are good, or words to that effect. But take, for instance the unspeakably vile and dastardly crimes being inflicted on the helpless civilian population of some of the nations in the war zone. The theory of rebirth might argue that these wretched people thus suffering may have committed similar atrocities in previous existences, but even so do two wrongs make a right? In view of such conditions one feels almost driven at times to take refuge behind that philosophical doctrine which teaches that the report of the senses is illusory, the bad-dream theory, as an explanation of the evil in the world; or simple materialism, which of course, from its nature does not need to make any of the explanations expected of spiritual teaching. Is there another solution to the problem? 
 
-[65] 
-
 Answer: Yes, indeed, there is, for although we with our finite minds are unable to grasp the intricate details of the tangled web of destiny, still the broad outline of the law of love which works for good through what seems to be evil may be readily discerned by every one. But before we enter into direct discussion of the question, allow us to correct our correspondent. We do not say that all things are good, for if that were true it would be well to continue these atrocities of which our correspondent speaks. Instead, we have always maintained and do still assert that every evil is really good in the making-that is to say, out of that condition something good will come. We do not shrink from calling a cloud a cloud, but we also point to the silver lining which shows that beyond and back of the cloud the Sun still shines as beautifully as ever. And if the sorrow and suffering caused by this war are the means of finally abolishing wars from the face of the earth, surely the cost is not too great. 
-
-[66] 
 
 From you remark that the theory of rebirth argues that the wretched people mentioned may have committed kindred atrocities in previous existences, it is evident that you are under the common misconception that all present conditions must be referred to actions in past lives, and that you are either unaware of or have failed to take into consideration the fact that every moment of our lives we are generating new destiny at the same time that we are working out our old scores. This great and important fact was set forth in the ancient Greek mythology, where the Fates are represented as three-past, present, and future; also in the Norse mythology, where the three Norns, Urda, Skuld, and Verdande, are spinning the thread of fate and unraveling it again. Nor is fate simply a measure to get even. If in one life A stole from B and ruined him, we must not assume that a following life B is going to become dishonest and steal from A. That would indeed be a bad solution of the problem, for it is surely better for a man to lose his money altogether than to retrieve it at the expense of his honesty. 
 
 Similarly, supposing that in a previous existence, as suggested, the present victims of military atrocity were guilty of atrocities against those who are now causing them suffering, it would have been far better for their soul growth if they had no revenge rather than in this present life to be made into savage beasts. If the latter were the way the law works, then cruelties and atrocities would multiply, and one could only shudder to think of what is in store for humanity in the next life when the injured civilian of today wreaks vengeance upon the heads of the present military aggressors. 
 
-[67] 
-
 But, thank God, that is not so, A study of the Memory of Nature has shown conclusively the truth of the spiritual teaching that hate ceases not by hate, but by love and service. It has been found in all the cases investigated by the writer-and they number hundreds-that whenever in one life a person has injured another, the suffering brought upon himself by the act during the purgatorial expiation following death has compelled realization and repentance, at least in a measure. he is then placed in a position where he may render some service to the one he injured when both return to physical life. If he grasps the opportunity, well and good; then both parties are benefited; peace on earth and good will are fostered. If he refuses he is placed in a position where coals of fire are heaped upon his head, and then in the third life he may be induced to pay the debt of service. Or he may be made the victim of some one else's wrong-doing and thus learn the sympathy and fellow feeling which induces the required service. But whatever the method, and the possible methods are legion, in some way or other the debt of hate will eventually be repaid by love, for that is the only way that humanity can grow better. 
 
 Applying these ideas to the present problem of the sufferings of the civilian population in the war zone (War World I), and while admitting that the past may have something to do with it in some cases, it is undoubtedly a fact that a vast amount of new destiny is now being generated, both by the aggressors and the victims. Neither should it be forgotten that the aggressors are suffering great tribulations themselves as well as their victims. It is a time of suffering all around, and the purgatorial experiences of those who are now allowing their lower nature to run riot will be exceedingly severe. Then when a new life begins and they are placed in a position where they meet their victims, the subconscious memory of the purgatorial suffering will engender the vast majority a desire to make adequate amend, so that out of the fiery furnace of the present affliction there will come a reign of peace on earth and good will among men. 
 
-REBIRTH AND SEX
-Question No. 22. 
+### <h3 id="question-22">Question No. 22: REBIRTH AND SEX</h3>
+ 
 While Theosophy, representing the wisdom of the East, and the Rosicrucian Philosophy, the wisdom of the West, agree in many respects, there are certain points in which there is a difference between the teachings of these two schools of occultism. One of these points is concerning rebirth. Theosophy teaches that the interval between earth lives of the average ego is about five thousand years, while the Rosicrucians hold that it is about one thousand years. With reference to the sex of the Ego the Rosicrucians teach that male and female embodiments alternate, while Theosophy holds that the alternation of sex is not in individual lives but by series; that is, a series of seven male embodiments alternates with a female series of equal number. Will you kindly explain these discrepancies? 
 
 Answer: It is our invariable rule never to criticize or belittle the teachings of any other spiritual movement. Therefore we can only say that your are correct with respect to the teachings of the Rosicrucians, that the Ego is ordinarily reborn twice during the time it takes the sun by precession to go through a sign of the zodiac, namely 2,100 years. It is also taught that these embodiments are alternately male and female because the conditions on earth do not so appreciably change during two thousand years, and the purpose is to give the Ego all the lessons that can be drawn from experiences on earth under each sign, these varying from the man and the woman. Thus if the Ego is born once as a man and the next time as a woman under the same sign, it will learn practically all the lessons that can be extracted from the conditions existing on earth under such planetary vibrations. 
-
-[70] 
 
 Each neophyte is given the proof of this shortly after Initiation: he is first told to watch a certain Ego who is passing out of the body. Then he continues to watch its life in the invisible world for a year or two, and when an embodiment is found for it he knows the absolute truth of the doctrine of rebirth. He is always given for this demonstration an Ego which passes out as a child, and therefore seeks a quick re-embodiment. 
 
@@ -581,12 +489,10 @@ When that lesson has been learned and he knows from first-hand knowledge that re
 
 The Law of Rebirth is not a blind law. It is under the administration of four great Beings of wonderful knowledge and power. They are called the Recording Angels in the Christian terminology. When it is necessary to vary the interval between death and rebirth in the case of a certain Ego, the necessary modifications are made so that it may be a much longer or a much shorter time before it is reborn. 
 
-[71] 
-
 It has been published in the newspaper reports of lectures given by Mrs. Besant, and it is also generally stated by her followers, that she claims to have been Hypatia in ancient Alexandria, a woman. It is also said that later she was born as Giordana Bruno in Rome, and at the present time she is again in a female embodiment. This, if true, would bear out the teaching of the Rosicrucians rather than that of the school which, as you say, claims there are a series of seven male embodiments followed by a series of seven of the other sex. 
 
-OUR DEBT OF DESTINY
-Question No. 23. 
+### <h3 id="question-23">Question No. 23: OUR DEBT OF DESTINY</h3>
+ 
 If a person has a life full of hardship at present and strives to the best of his or her ability to fulfill all duties, will the next life be lived under easier and more bearable circumstances; or if he is an advanced soul must he have hardships in order to learn to help and heal humanity? 
 
 Answer: During the earlier part of its evolution mankind committed the most atrocious crimes because actuated entirely by selfishness and disregard for other people's feelings. In those early lives we were cunning, cruel, and seldom did a good deed. In fact, it is recorded that at that time man spent the whole of the interval between earth lives in the purgatorial regions expiating the crimes he had committed during his physical life, and there was not heaven life to speak of. That was the condition spoken of in the Bible as "lost in trespasses of sin," which made it necessary for the Christ to enter the earth and attempt the task of raising the vibrations, so that altruism might gradually conquer egoism and give us a heaven life upon which promotion and progression in our evolutionary career could be based. 
@@ -597,20 +503,14 @@ It is said, and said truly, that though "the mills of God grind slowly, they gri
 
 The light of occultism upon the problem of sorrow is one of the strongest rays of hope to the one who is blessed with this knowledge. It should give us all heart to bear up under all affliction. Whatever comes to us we have earned, and if we are only careful to learn the lesson and to render the help and the service required of us in each particular case, then we may be sure that we are not only liquidating debts of the past, but also laying up for ourselves treasures in heaven which will revert to us as usable soul power to keep us on the path of rectitude in future lives. 
 
-[74] 
-
-DETERMINATION OF SEX
-Question No. 24. 
+### <h3 id="question-24">Question No. 24: DETERMINATION OF SEX</h3>
+ 
 It is stated in The Rosicrucian Cosmo-Conception that a matrix made of ether is placed in the womb of the mother which an Ego is to be reborn, and that the seed atom of the dense body comes from the spermatozoon received from the father. If this is always so should not this method produce children of one sex, with negative or positive vital body from the mother and positive or negative dense body from the father? If not, how do you explain the difference of sex at birth? 
 
-Answer: It is also stated in The Rosicrucian Cosmo-Conception that the vital body of a woman is positive and the vital body of a man is negative. When the agents of the Recording Angels are assisting an Ego to come to birth, the matter of sex has already been determined, either by law of alternation or a modification of that law by specific circumstances in the individual life of the Spirit, and the Ego is then helped to draw to itself a sufficient amount of the different kinds of ether as required by its development. These materials are all of certain polarity, either positive or negative. When a matrix made solely from positive etheric atoms is placed in the womb of the prospective mother, these atoms will unerringly draw to themselves negative physical atoms, and the resultant child body 
+Answer: It is also stated in The Rosicrucian Cosmo-Conception that the vital body of a woman is positive and the vital body of a man is negative. When the agents of the Recording Angels are assisting an Ego to come to birth, the matter of sex has already been determined, either by law of alternation or a modification of that law by specific circumstances in the individual life of the Spirit, and the Ego is then helped to draw to itself a sufficient amount of the different kinds of ether as required by its development. These materials are all of certain polarity, either positive or negative. When a matrix made solely from positive etheric atoms is placed in the womb of the prospective mother, these atoms will unerringly draw to themselves negative physical atoms, and the resultant child body becomes female in consequence. If, on the other hand, the matrix which is placed in the mother's womb is composed of negative etheric atoms, it will attract the positive dense atoms with the result that the male sex organ is most developed and the sex therefore masculine. Life, like electricity, requires both positive and negative expression, otherwise it cannot manifest. 
 
-[75] 
+### <h3 id="question-25">Question No. 25: MEMORY OF PAST LIVES</h3>
 
-becomes female in consequence. If, on the other hand, the matrix which is placed in the mother's womb is composed of negative etheric atoms, it will attract the positive dense atoms with the result that the male sex organ is most developed and the sex therefore masculine. Life, like electricity, requires both positive and negative expression, otherwise it cannot manifest. 
-
-MEMORY OF PAST LIVES
-Question No. 25 
 If an individual has attained a high degree of spiritual sight in this life, and then dies, to be reborn at a later period, will he remember who he was, and retain spiritual power as in the former life, or will be have to cultivate the faculty anew? 
 
 Answer: When spiritual sight has been cultivated consciously in one life it remains, so far as we know, a faculty of the Spirit in all future lives, improving in scope and power with each existence, under normal circumstances. But there is a case known to the writer where a person has possessed the spiritual sight, along with the faculty of leaving the body and remembering what happened on his soul flights outside the body, in one life, and in the next he made it impossible for himself to exercise these faculties by the use of drink, drugs, and cigarettes, which so addled his brain that it was impossible for the Spirit to impress upon it memories of what happened when it was free from the body. 
@@ -619,41 +519,31 @@ Out of the body he can still rove about the world where he chooses and take his 
 
 As for the memory of past lives it is not necessary to wait till a future existence for the development of that faculty, when the spiritual sight has been cultivated, with the aid of the proper teachers, such as the Elder Brothers of the Rosicrucian Order. For the neophytes are taught from the beginning to read the Memory of Nature in order to know and differentiate between truth and delusion, first in the record that is kept in the fourth or reflecting ether, which requires only a very slight extension of the physical sight. Then by degree, if they live the life and are diligent, the extension of sight is raised to the records kept in the archetypal region. These are usually opened to them within a few years, and there they can easily investigate their own past. However, we do not believe that that is generally done, for no one goes so deeply into the work without becoming so absorbed in the system of service to others that he has no time to attend to his own selfish inclinations. 
 
-RIPE DESTINY
-Question No. 26 
+### <h3 id="question-26">Question No. 26: RIPE DESTINY</h3>
+ 
 It is taught in the Philosophy that every evil act in life is expunged in the purgatorial state after death. It is also stated that death does no liquidate an injury any more than moving to another city pays a contracted debt, that ripe fate has its root in a former life and that we cannot escape from this debt of the past. How can these statements be reconciled? Surely we are not made to suffer twice for the same thing. 
-
-[78] 
 
 Answer: You are right. God does not want us even to pay back once, if by thorough repentance and reform suffering is made unnecessary. But the problem of liquidating a chain of causes in a life is much more complicated than to pay a bill for good received. There are many sides to each case. Let us take as an illustration a drunkard who makes a beast of himself and at the same times abuses his children, depriving them of the necessities of life and the education which they ought to have, who beats his wife, setting the children an example they may follow, and generally lowering their moral standard. 
 
 After death than man will feel in purgatory, first, the tortures of a craving for a drink, which he is not able to satisfy, and second, he will feel all the suffering which he inflicted upon his family. He has then paid for his wrong doing, and it is true that he comes back to rebirth with a perfectly clean slate so far as the actual suffering which he caused them is concerned. But he took a vow to love and cherish the woman who became his wife, and by the performance of the creative act and furnishing the nucleus for a body he assumed the responsibilities of fatherhood toward the children which came to him for help and a suitable environment. These parental responsibilities he also neglected to fulfill, and there is consequently a tie between him and the members of his family. He still owes them a debt of love and service which must be rendered at some future time and therefore in a later life these souls will be brought together and so placed that he may have an opportunity for doing good toward them. If he does not then take the opportunity, he may in a still later life render an adequate service to some one else. It is for his sake that service must be rendered so that the love nature may be evolved and expanded to become universal and all inclusive. 
 
-[79] 
-
 The same rule holds good in all other cases and as the extreme conditions make the best illustrations, we may take as another instance the relationship between a murderer and his victim. After death he suffered in purgatory and the actual debt is there wiped out. But a tie has been established between these two Egos, and in a future life they will again meet so that the murderer may have the opportunity of serving his erstwhile victim, that they may become reconciled as friends. Fellow feeling must become universal, since it is the basic principle in the kingdom of God. 
 
 To sum up then we may say that all our debts are paid in purgatory, so far as the commission of wrong is concerned; our debts of love, friendship, and service remain for liquidation in later lives. 
 
-[80] 
-
-POST-MORTEM FATE OF VIVISECTORS
-Question No. 27. 
+### <h3 id="question-27">Question No. 27: POST-MORTEM FATE OF VIVISECTORS</h3>
+ 
 Does a surgeon feel in Purgatory all the pains his patients have felt in the operations he has performed? This would seem unfair in cases of constructive surgery. 
 
 Answer: Certainly not. The sufferings in Purgatory are the results of moral delinquencies, and the resentment of those who are injured thereby. A surgeon who performs a constructive operation in doing a service which merits the gratitude of the person operated upon and the picture of such an operation in the panorama of life will react upon him in the First Heaven with the gratitude of the person he helped. It will make him more ambitious to serve his fellow men. 
 
 On the other hand, those unscrupulous surgeons who persuade people to have operations performed for the love of experimentation, or who take them out of charitable institutions for that purpose will certainly be as severely dealt with as they deserve. As for the vivisectionist's purgatory, we have seen some cases compared with which the orthodox hell with its devil and pitchfork is a place of mild amusement. Yet there are no exterior agents of outraged nature to punish such an one--only the agonies of the tortured animal contained in his life panorama reacting upon him with three-fold intensity (because the purgatorial existence is only one third the duration of the physical life). Those people do not realize in the slightest degree what they are storing up for themselves, or the torture chambers would soon be emptied and there would be one horror less in the world. 
 
-[81] 
-
-INFANT MORTALITY
-Question No. 28. 
+### <h3 id="question-28">Question No. 28: INFANT MORTALITY</h3>
+ 
 According to an article in a recent medical journal, girl babies seems to have a greater power of resistance with respect to the inimical influences which ravage the ranks of infants during the first years of life. It is stated: "Speaking generally, it may perhaps be said that the boy reacts more violently to disease than the girl, is more easily knocked over than the latter, does not recuperate as quickly when the illness takes a favorable turn, and does not offer as much resistance when suffering from chronic ailments." Can you explain this? 
 
 Answer: To the occultist versed in the Rosicrucian Teachings concerning the polarity of the vital body the seeming anomaly is easily accounted for, with many other facts known to the medical profession, but not explained by them. 
-
-[82] 
 
 Man, who has the positive physical body, has a negative vital body. Thus he is not able to resist disease as well as a woman, who has a negative physical body, but a positive vital vehicle. For that reason woman is able to endure a siege of sickness that would kill a man twice her weight and apparent vitality. She suffers more keenly than man, but bears pain with more fortitude. When the favorable turn comes, her positively polarized vital body seems to suck in, as with a million mouths, the solar energy. It swells and begins almost immediately to radiate the streamers so characteristics of health, with the result that the physical body recuperates space. 
 
@@ -661,27 +551,19 @@ On the other hand, when a man has been brought very low by sickness and the turn
 
 There is also another reason for greater mortality among boy babies. Students of the Rosicrucian Philosophy are acquainted with the law governing infant mortality, namely, that when the Ego which passes out at death is very much disturbed by the loud and hysterical lamentations of relatives, the turmoil incident to death through railway accidents, fires, wars, and the like, it cannot concentrate its attention on the panorama of life which then passes in review, much as a picture film thrown on a screen. 
 
-[83] 
-
 This panorama should be etched into the desire body to form the basis of feelings of pain or pleasure in Purgatory and the First Heaven, the pain being transmuted to conscience to warn the Ego in future lives not to commit again the mistakes of the past. The pleasure felt on account of goods deeds in life generates virtue to spur the Ego on to better things in later lives. When the Ego is seriously disturbed in its concentration on the life panorama, the etching does not work on the feelings as it should, and thus the life experience would be lost did not the higher Powers interfere and let it die in infancy when next it comes to rebirth. The subtle vehicles are not born at the same time as the physical body. The fruits of the former life are then incorporated into them, after death in infancy, and in a few years the Ego seeks a new embodiment and lives its normal span of time on earth. 
 
 Under this arrangement an enormous number of children are predestined to die in infancy, for wars and wakes over the dead, with lamentation, have deprived millions of Egos of peace at the time of death. This present war (1916) will add more millions. Thus infant mortality must continue to grieve our hearts until we learn the science of death and how to help the passing Ego as we have learned to care for the incoming babe. We, with our small and finite minds, have already learned to use the lines of least resistance to attain our ends. We have studied the conservation of energy, 
-
-[84] 
 
 and we may be sure that the great Divine Hierarchs who have charge of evolution make use of similar methods with greater efficiency. Hence, as babies must die for the reasons given, what more natural than to let as many as those predestined take a male body with a negative vital body which will more easily succumb to the rigors of physical existence? 
 
 It is not to be denied, however, that a great many deaths in infancy are due to lack of understanding of the complex constitution of a human being which includes subtler vehicles than the one seen and commonly believed to constitute the whole organism. Although the vital body of an infant is still comparatively unorganized at the time of birth, the ether which is to be used for its completion is within the aura, ready to be assimilated, and if anyone in its surroundings happens to be weak and anemic, an unconscious vampire, he or she draws from the unassimilated store of ether of the infant much more easily than from that of an adult whose vital body is fully organized. Naturally the weak person draws more easily ether that is negatively polarized, as in the body of a boy baby, than the positive ether of the girl baby. Hence also in this way the greater mortality of boy babies is to be accounted for, together with many deaths not due to the law as stated. 
 
-[85] 
-
 If this were known and believed a long step would have been taken to save infants, for precautions could then be adopted. In the first place, infants should sleep in a crib as far from the mother as she can reach, so that her aura does not mingle with that of the child. A weak mother should not nurse her child, but obtain, if possible, milk fresh and warm from healthy well fed cows, or better still, goats, for fresh milk is supercharged with the ether of the animal and has a vital energy not appreciated by the chemist who makes a merely physical analysis of its chemical constituents. And last, but not least, massage of the spleen and stimulation of the splanchnic nerves, carefully and conservatively practiced will aid the etheric counterpart of that organ in its activity of specializing the solar energy upon which the vital processes are as dependent as the lungs are on air. 
 
-IMMORTALITY OF THE SOUL
-Question No. 29. 
-It is commonly assumed that each individual soul has had a beginning, but is nevertheless so constituted that it is imperishable. This idea was questioned by one who believes that death ends all and I should like to find some argument or passages from the Bible so that I may convince him he is wrong. Will you please help me? 
+### <h3 id="questino-29">Question No. 29: IMMORTALITY OF THE SOUL</h3>
 
-[86] 
+It is commonly assumed that each individual soul has had a beginning, but is nevertheless so constituted that it is imperishable. This idea was questioned by one who believes that death ends all and I should like to find some argument or passages from the Bible so that I may convince him he is wrong. Will you please help me? 
 
 Answer: While there a number of ways in which it is possible to demonstrate that death does not end all, we are afraid that no amount of argument will convince one who is not willing to be shown. You remember the parable Christ told about the rich man and Lazarus who dies, and when the rich man desired that Lazarus be allowed to return from the dead to warn his brothers, Christ said: "If they will not believe Moses and the prophets, neither would they believe if one rose form the dead." And that is the point. We have heard so-called scientists say that they would not be convinced of life after death even though they actually saw a ghost, for having settled by reason and logic to their own complete satisfaction that there are no ghosts, they would consider themselves suffering from a hallucination if they were actually to see an apparition. 
 
@@ -689,13 +571,9 @@ Neither is it possible to give you authoritative statements from the Bible. The 
 
 Were the soul inherently and intrinsically imperishable that would be an impossibility. Nor can we prove immortality from the Bible by passages as John 3:16: "God so loved the world that He sent His only begotten Son that whose believeth on Him should not perish but have everlasting life." If we rely upon that word to prove that the soul is without end, possessed of interminable life, we must also accept the passages which state that the souls are doomed to everlasting torment as claimed by some of the orthodox sects. But as a matter of fact these passages do not prove a life of unending bliss or torment. If you will take Liddel and Scott's Greek dictionary and look up the word you will find that the word translated everlasting in the Bible is a Greek word "aionian," which means for a "little while," "an age," "a little time," "a life time." You will readily see that in the case of Onesimus concerning whom Paul writes to Philemon, "for perhaps he therefore departed for a season that thou shouldst receive him forever." This word forever could only mean the few years of Onesimus' life on earth, and not infinite duration. 
 
-[88] 
-
 What then is the solution? Is immortality only a figment of the fancy and incapable of proof? By no means, but we must differentiate sharply between the soul and the Spirit. These two words are too often taken as synonymous and they are not. We have in the Bible the Hebrew word ruach, and the Greek word pneuma, both meaning Spirit, while the Hebrew word neshammah and the Greek word psuke mean soul. In addition to these we have the Hebrew word nephesh, which means breath, but has been translated life in some places and soul in others, as suited the purpose of the translators of the Bible. And that is what creates confusion. For instance, we are told in Genesis that Jehovah formed man from the dust of the earth and blew into his nostrils the breath (nephesh) and man become a breathing creature (nephese chayim), not a living soul. 
 
 Regarding death we are told in Ecclesiastes 3:19-20, also in other places, that there is no difference between the man and the animal, "as the one dieth so dieth the other, for they have all one breath," (nephesh again). Thus is indicated that man has no pre-eminence above the beast and all go unto one place. But there is a very definite distinction made between the spirit and the body, for we are told that "when the silver cord is loosed then shall the body return to the dust whence it was taken and the Spirit to God who gave it." The word death is nowhere connected with the Spirit, and the doctrine of the immortality of the Spirit is taught definitely at least once in the Bible: Matthew 11-14, where the Christ said concerning John the Baptist, "This is Elijah." The Spirit which had ensouled the body of Elijah was reborn as John the Baptist. It must therefore have survived bodily death and have been capable of continuity of life. 
-
-[89] 
 
 For the deeper and more definite teachings concerning this matter we must however go to the mystic teaching, and we learn from The Rosicrucian Cosmo-Conception that the Virgin Spirits sent out into the wilderness of the world as Lightrays from the Divine Flame, which is our Father in heaven, first underwent a process of involution into matter, each ray crystallizing itself into a threefold body. Then mind was given, and became the fulcrum upon which the involution turns to evolution, and epigenesis, the divine creative ability inherent in the indwelling Spirit, is the lever by which the threefold body is spiritualized into the threefold soul and amalgamated with the threefold Spirit, soul being the extract of experience whereby the Spirit is nourished from ignorance to omniscience, from impotence to omnipotence, and thus finally becomes like its Father in heaven. 
 
@@ -705,15 +583,11 @@ If the questions asked why we do not remember our previous existences if we have
 
 But as Paul says very properly in the fifteenth chapter of First Corinthians, "if the dead rise not, then our faith is vain and we are of all men the most miserable." Therefore the neophyte who has passed the door of initiation into the invisible world is always brought to the bedside of a dying child. He sees the Spirit pass out and is told to watch that Spirit in the invisible world until it seeks new embodiment. For this purpose a child is generally selected which is destined to seek rebirth within a year or two. Thus within a comparatively short time the neophyte sees for himself how a Spirit passed out through the portal of death and enters physical life again through the womb. Then he has the proof. Reason and faith must suffice those who are not prepared to pay the price for firsthand knowledge, which is not to be bought for gold. The price is paid in one's lifeblood. 
 
-[91] 
-
-FATE OR FREE WILL?
-Question No. 30. 
+### <h3 id="question-30">Question No. 30: FATE OR FREE WILL?</h3>
+ 
 Can we by force of will control the aspects shown in our horoscope? Have we any right thus to change the destiny brought over form our last life? 
 
 Answer: Can we by force of will control the aspects in our horoscope? That is a pretty big question, but we may say that if the aspects in one's horoscope can't be controlled, and we have to do thus and so, then we might as well lie down and take our medicine and drift along. If fate rules and we are helpless on the sea of life, what in the world would be the use of studying astrology? What would be the one factor that is not shown in the horoscope, and that is the will of man. That is what makes all the difference. 
-
-[92] 
 
 Let us suppose that two people have the same aspects coming on in their horoscopes; they may have been born close to the same time and may get horoscopes that are very much alike in some respects. They have the same sign rising and the same planets are in conjunction. Suppose they have the same afflictions coming on to one of the major planets, and one sits down and says, "I can't help it. Here it is. I have simply got to go through with it. There is no use fighting." And the other would say, "I am not going to submit. I am going to stand up in my boots and fight." The mental attitude of the latter would change events entirely for him. 
 
@@ -721,21 +595,15 @@ That is why we never can predict with absolute certainty. In ninety-nine cases o
 
 However, there is this great comfort: the stars impel but they cannot compel. That is the basis upon which we should work with the stars to bring out all the good of our horoscope. When we see the good aspects coming, something that makes for soul growth, try to work with it by all means. People are too often prone to let good aspects take care of themselves, as well as the evil. Whether we are going to take up our part, is something that can't be foretold. 
 
-[93] 
-
 Have we any right to change destiny brought over? Certainly, that is what we are supposed to do. In a former life we drifted into a certain stellar position, and we had to bring it over with us. Now we are here just for the purpose of learning to guide ourselves and rule our stars, and that is just what the science of astrology is given to us for. We must try to do the best we can with this knowledge, otherwise it may become a curse. There are people who constantly watch their horoscopes with the attitude of: "I am going to be sick and I can see death is certain," etc. If that is the way they are going to use it, it is better not to study astrology. 
 
-INTERFERING WITH KARMA
-Question No. 31 
-Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our godhood? 
+### <h3 id="question-31">Question No. 31: INTERFERING WITH KARMA</h3>
 
-[94] 
+Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our godhood? 
 
 Answer: A question like the above was asked Mr. Heindel at one of his recent lectures in Los Angeles, and he answered about as follows: While all great religions are God-given, there is a Western religion for the Western people as well as Hinduism for the people of India, and I can see no good reason why we should copy their terminology and force people here to learn Sanskrit when we have an excellent language of our own, with terms capable of explaining everything. To make the matter clear, we will take an instance which occurred a number of years ago. There was at that time a controversy in a certain society which makes the mistake of promulgating Eastern teachings and using their terms here in the West. The dispute was about the word "Avyaktam." 
 
 Not even the Hindus are certain about the meaning of their terminology. Tons of paper and barrels of ink were used to settle the controversy and the following seems to be the definition upon which they finally compromised: "Avyaktam" is Parabraham clothed in Mulaprakriti, from which its Upahhis are made during the Manvantara, and into which they are again resolved on arrival of the Arolaya." Mr. Heindel then said that he hoped the audience understood the meaning of "Avyaktam." When the audience laughed and shook their heads, the speaker expressed himself as being sorry for their lack of understanding of such a highly learned explanation, he would try the ordinary, garden variety of English and see if that would explain. "Avyaktam is Deity clothed in Cosmic Root Substance, from which its vehicles are made during the Day of Manifestation, and into which they again resolve on arrival of the Cosmic Night." 
-
-[95] 
 
 When the audience had declared they comprehended this explanation, Mr. Heindel said it is the same with the word "karma." Everybody in the U.S. and a large part of the world besides, knows what a "debt of destiny" is without explanation, and there are a number of other English words which may be used with better effect than the Hindu word karma, which is meaningless to the majority of Westerners. The speaker also held that such words as "astral" and "incarnation" were out of place because they have been conceived to mean something not warranted. He was sorry that the word "incarnation" had been used in our earliest literature, notably in the Cosmo. The Elder Brothers who gave him the teaching in German always used the word "Wiedergeburt" which means rebirth, and there is a great deal of difference between the two terms which may not appear at first sight. 
 
@@ -745,52 +613,41 @@ However, these influences will tend to bring our actions in line with the destin
 
 That is it will unless we exert ourselves. Yes, there is an unless, thank God, for if it were not so, if there were no possibility of changing destiny, then we might as well sit down and say, "Let us eat, drink, and be merry, for tomorrow we die." We should then be in the hands of inexorable fate, and unable to help ourselves. But, thank God, there is one chance which is not shown in the horoscope, namely, that the human Will may assert itself and frustrate Fate. You remember that beautiful little poem in the Cosmo: 
 
-[97] 
-
-
+```
 "One ship sails east and another sails west
 With the self same wind that blows.
 "Tis the set of the sail, and not the gale
 Which determines the way they go."
+```
 
 It is of the utmost importance that we set the sails of the barque of our lives as we want and never scruple about interfering with fate. 
 
 This disposes also of the idea of "affirmations" as a factor in life. This in itself is folly. It is work and action that we need in life, as you will readily see by an illustration. Suppose a little seed of those beautiful carnations were endowed with speech, and it came to us saying, "I am a carnation." Would you not answer: "No, you are not a carnation, you foolish little thing. You have the potentiality in you, but you will have to go out into the garden and bury yourself for a while and grow. By that process alone can you become a carnation, never by affirmation." Similarly with ourselves. All the "affirmations" of Divinity are in vain unless accompanied by actions of a divine character. Deeds will prove our divinity as words never can. 
 
-[98] 
-
-THE FRUIT OF EVOLUTION
-Question No. 32. 
+### <h3 id="question-32">Question No. 32: THE FRUIT OF EVOLUTION</h3>
+ 
 What is it we bring back after our evolutionary journey? If spirit is perfect in the beginning, what can we add? 
 
 Answer: We are taught that in the beginning of manifestation God, the Great Spirit, differentiates within Himself (not from Himself) a number of Spirits which are as sparks from a flame, partakers of the divine nature, yet no one will contend that a spark is as good and as illuminative as the flame, though of the same substance. Before the differentiation these Spirits possessed and partook of the divine all-consciousness, omniscience, and other attributes. These divine faculties are latent in them, and the pilgrimage through matter, the evolutionary journey, is designed for the purpose of fanning these sparks into flames and unfolding the attributes which are in latency to potency, so that they may become dynamic powers, ready for use by each individual Spirit. 
 
 However, there is something more gained. When the wind blows over a new-mown hay field it absorbs and carries with itself the fragrance of the myriad of flowers. It is laden with the incense peculiar to that field. In another place, where the wind blows through a garden of roses or of orange blossom, it gathers a different scent. Similarly with the evolving Spirits. 
 
-[99] 
-
 Each one, during the fanning process in the evolutionary field, gathers the aroma of its individual experience, and at the end of evolution when, as Prodigal Sons, we return to the bosom of the Father, each one of us will carry with him or her the aroma of his particular and individual experience upon the evolutionary journey. This composite essence, then, will be amalgamated with the great Divine Spirit of the Father; we shall then all be partakers of one another's experience, and the Father will be partaker of all of our experience. Thus there will be a distinct gain to all concerned, for besides having evolved our own individuality we shall learn and partake of the knowledge and experience gathered by all the other Spirits in our life wave. 
 
-ROSICRUCIAN VIEWPOINT OF CAPITAL PUNISHMENT
-Question No. 33. 
-Do the Rosicrucians believe in capital punishment, and if so, please state the reasons why. When a man has been executed, does he come under the law of infant mortality in his next life and die as a child the same as victims of accidents? 
+### <h3 id="question-33">Question No. 33: ROSICRUCIAN VIEWPOINT OF CAPITAL PUNISHMENT</h3>
 
-[100] 
+Do the Rosicrucians believe in capital punishment, and if so, please state the reasons why. When a man has been executed, does he come under the law of infant mortality in his next life and die as a child the same as victims of accidents? 
 
 Answer: The Rosicrucian Teachings are never in conflict with the Christian religion, and we know that according to the doctrine of Christ the principle of retaliation, "an eye for an eye, a tooth for a tooth," is absolutely wrong. Besides, from the occult standpoint there are other good and sufficient reasons why capital punishment is emphatically the worst possible manner of dealing with a dangerous man. So long as such a man is in the physical body it is easy to restrain him and put him in a place where he cannot do society any harm, but when we hang or electrocute him we actually set him at liberty in the Desire World where it is possible for him to influence others to a much greater extent than here. 
 
 Such people who are a menace to society are not slow in finding out their possibilities and taking advantage of them. They incite others who have a grievance against the community to do their work by encouraging them to wreck buildings, commit murder or rape, or perhaps gratify a personal grievance against some enemy by taking his life. Thus one murder will result in a number of other crimes by the practice of capital punishment. On the other hand, if the murderer were imprisoned for the safety of the community it is possible that during the years of his life in such an institution he would change his views. A great many of them do repent of their crimes, and then when released from the body and sent out into the Desire World at death they are no longer a menace to society and will not have an evil influence upon others. 
 
-[101] 
-
 For these reasons capital punishment is really subversive of the purpose for which it is meted out. It does not act as a deterrent to others, but actually fosters crime. Thus, even apart from the facts that the practice of retaliation is absolutely wrong, that we have no right to take a life which we cannot give, and that at times the wrong man is found guilty and executed for a crime he never committed while the real murderer goes free, capital punishment should be abolished to lessen crime. 
 
 Referring to your question as to whether a murderer who has been executed will have to die as a child in the next life, we may answer, yes. According to the law of infant mortality, anyone who dies under horrible circumstances so that he does not attend to the panorama of his life, which is reviewed just after death, does not reap the fruits of his past life. When a person is executed, the shock, the anger, and the resentment he feels--the horrors of the whole proceeding--deprive him of the peace and quiet necessary to the post-mortem work so that he will not obtain a record of the life just ended. Therefore, this lack will have to be supplied by educational work done after he has died as a child in the next life exactly on the lines we have shown in other places in our literature where the law of infant mortality is explained. 
 
-[102] 
-
-YOUNG SOULS AND OLD
-Question No. 34. 
+### <h3 id="question-34">Question No. 34: YOUNG SOULS AND OLD</h3>
+ 
 You speak of young souls. were not all started into this earth life at the same time, or did some come on a previous life wave? 
 
 Answer: The detailed explanation of this great question is given in The Rosicrucian Cosmo-Conception, particularly in the chapter on stragglers and newcomers, but we may say briefly that the human life wave now in evolution on the earth comprises about six billion spirits. At the present time about 1,500 million are embodied, so that there are about three-fourths of the human life wave in the invisible worlds. At certain periods of our development as many as 50 per cent inhabit the earth, clothed in the earthen vessel of physical bodies. It must also be remembered that in addition to these, which belong to the earth ray only, there are other hosts inhabiting Mars, Mercury, Venus, and the other planets. 
@@ -799,42 +656,34 @@ However, the whole vast company of Virgin Spirits commenced their evolution in o
 
 It should be noted, however, that this is the general rule only. There are many young souls drawn to the West by ties of kindness and service, or by hate and the desire of vengeance on account of association in past lives. We also find old souls born among the so-called lower races for the purpose of helping them to rise to a higher level. Therefore, the color of the skin is no certain indication of the age of the soul any more than the color of the cover of a book reveals its nature. It should also be understood that the terms "higher and lower races" and "older and younger souls" are not to be considered in any wise as reflecting or indicating superiority and inferiority. The Lords of Venus and the Lords of Mercury who helped us in our evolution are also Spirits belonging to our life wave and they have evolved so immeasurably far beyond our present status that they may look upon us as a grown young man regards his baby sister or brother. 
 
-[104] 
-
-SOUL AGE
-Question No. 35. 
+### <h3 id="question-35">Question No. 35: SOUL AGE</h3>
+ 
 You sometimes speak of young souls and old souls. were we not all started in this earth life at the same time, or did some come on a previous life wave? Are not all the white people of the same soul age? 
 
 Answer: Yes, we started at the same time as the Virgin Spirits on our pilgrimage of evolution, but from the very start there were some who were more adaptable to their environment than others. Therefore from the very beginning there have been some who have straggled behind in life's school, just the same as we find children in our schools at the present day. Some are more precocious than others, and these precocious ones in life's schools are naturally able to pass into phases of evolution carrying with them a higher degree of consciousness than others. 
 
 Thus the life wave which is now human has been automatically divided into a number of classes which we now see as white, black, red, and yellow people, and the lowest of the school are now the anthropoid apes. On the other hand there are also some who have been particularly precocious and who have taken higher steps in evolution than the majority of mankind. They are, comparatively speaking, very few, however, and we find them as Initiates, Adepts, and Elder Brothers of humanity who stand at the top of the ladder of the human life wave. Therefore, it is true that we have all been on the road of evolution the same length of time, but some have been more adaptable, more diligent. Consequently they have gathered for themselves a greater amount of experience. That is what really makes the soul age, so that those who have attained the highest amount of knowledge may probably be called "old souls," while those who are behind them are comparatively speaking "young souls." Those Spirits who inhabit the anthropoids we may say are "soulless." 
 
-JUDGING SOUL AGE
-Question No. 36 
+### <h3 id="question-36">Question No. 36: JUDGING SOUL AGE</h3>
+
 I should like to ask a question regarding a statement made by Mr. Heindel in some of his writings to the effect that when the ascendant is in Aries it shows that the native is a young soul, or in other words, as it were, in the beginning of material manifestation. Opposing this, Mr. Heindel also says that whenever the ascendant occurs in Scorpio, it indicates that dissolution has taken place as a beginning. 
 
 Now while the Aries aspect indicates a physical proposition, the Scorpio aspect leaves one in doubt. Is this Scorpio aspect related to the physical alone and in what manner? Does dissolution follow immediately or is it of a gradual nature, finally culminating in the passing of the sign Pisces? 
-
-[106] 
 
 Mr. Heindel also states that the chart of a seven months' child is difficult to handle in that it seems out of line with the native concerned. I am a seven months' example and can vouchsafe for the truth of this statement, but taking the forepart of this letter into consideration, I am at a loss as to just how I can reconcile conditions in my home as regards the ascendant of each member and the apparent indication and inclination of each as opposed to myself. 
 
 Answer: Even if it were true that we have made the statement you ascribe to us that those who have Aries on the Ascendant at birth are young souls, that would be no guide in your case, because you admit being a seven months' child. Therefore, the general principles could not be applied in your case, but as a matter of fact we have never made such a statement. If you look up the passage to which you have reference, you will find that your memory played you a trick. What we have said, and still, say, is that the Spirit is born under all the twelve signs in order that it may gain the experience which comes from each and it may be taken on general principles that those who are born with Aries on the ascendant have just entered upon a new life cycle, a higher spiral on their path of evolution. 
 
-[107] 
-
 Thus it is evident that others in their immediate family or environment may have any of the other eleven signs rising and still be one or more rungs or spirals below or above the one who has Aries on the Ascendant. When this is understood you will also readily realize that when a person reaches Scorpio, the sign of death and dissolution, the fruits of all the lives under the various preceding signs are beginning to ripen and dissolve, so that when the Spirit progresses through Capricorn, Aquarius, and Pisces, these fruits are gradually assimilated and the seed ripens for the entrance of the soul into Aries and the commencement of a new life cycle. 
 
 It should also be understood that the number of births under any particular sign varies according to the adaptability of the Spirit and the readiness wherewith it learns the lessons that have been set for it by the divine Hierarchies. There may be only one birth under Aries in a certain life cycle and perhaps five or ten under other signs, and vice versa, so that if two Spirits were to enter birth under the sign Aries on the same spiral of evolution and one were diligent in learning his lessons in the school of life, he might be promoted to the Taurus or even the Gemini class before the other left Aries. Then he having a particular liking for Gemini work might speed on past the other who would be slow in the Cancer path, and so on. There are no definite rules. Everything depends upon the inherent quality of the Ego, and what one does is no criterion whatever for what another may do. Thus you cannot judge the status of any one merely by examining his Ascendant. 
-
-[108] 
 
 There is only one method that gives an approximate solution of the problem and shows what is the intention of the divine Hierarchs concerning a particular life, and that is by comparing the relative progression of the Ascendant and the Midheaven. When you do this you will note that one of them moves faster than the other. Supposing, for instance, that you progress the horoscope of a person for forty years. Let us say that one degree of Aries is on the Midheaven and one degree of Cancer on the Ascendant at birth. Suppose, then, that at the age of forty the Midheaven has progressed to Taurus 5 and the Ascendant to Leo 15. This shows that the Midheaven has traveled 35 degrees while the Ascendant has traveled 45. The Midheaven denotes the spiritual tendencies and opportunities in life, while the Ascendant shows the material side. Thus is it evident that the opportunities placed before the Ego have been mainly material and the tendency of his evolution in the particular life under consideration would be of the earth, earthly. 
 
 But, mark this: the horoscope, as we have repeatedly reiterated, shows only tendencies, and it is quite possible for a person with such a horoscope to determine to go his own way and cultivate all the spiritual opportunities he possibly can. If he has sufficient will power to do this he may change his life entirely. Another, who Midheaven progresses faster than his Ascendant, might find it difficult to attain material success, but would have all the opportunities for soul growth he could wish placed in his path. He also may determine that he will rule his stars and succeed in worldly things, but whether he does or not depends upon the strength of his will pitted against the suasion of the stars. 
 
-SPIRITUAL ASPECTS OF BIRTH CONTROL
-Question No. 37 
+### <h3 id="question-37">Question No. 37: SPIRITUAL ASPECTS OF BIRTH CONTROL</h3>
+
 Will you please explain the Rosicrucian viewpoint toward birth control? 
 
 Answer: In the first place we should remember that there are about sixty billion Spirits in our life wave, going the cycle of life and death, living part of the time in the visible and part in the invisible worlds. At the present time there are only fifteen hundred million people in physical existence. This is about the lowest ebb, and that usually happens at the end of an age. During the million years or more since we came out of Atlantis the average has been fifty to sixty million people. It may also be stated that the Western people are the cream of this evolution, and therefore it has fallen to our lot to grapple with the great problems which are always incidental to a transition stage. 
@@ -845,85 +694,51 @@ We who are now in the body will be followed by groups of Spirits still more evol
 
 This does not mean that we cannot or should not exercise birth control in some degree as suggested by those who are responsible for that movement. It is also true that one must help people where they are and not where they ought to be. The Rosicrucian teachings emphasize the fact that like attracts like, and therefore it is a duty upon the part of those who are well developed physically, morally, and mentally to provide an environment for as many incoming Spirits as their physical and financial circumstances will permit. This duty is still more binding upon those who are also spiritually developed, for a high spiritual entity cannot enter into physical existence through a vile parentage. But when a couple has reached the point where it is deemed either dangerous to the health of the mother to bear more children, or where the financial burden would be above their means, then they should live a life of continence, not indulging the passional nature and seeking by artificial means to bar the way for incoming Egos to take advantage of the opportunity for rebirth offered them by the sexual indulgence of such a couple. 
 
-[112] 
-
 This naturally requires considerable spiritual advancement and self-control. There are few who are capable of living such a life, and one might as well preach continence to a stone wall as to the average specimen of humanity. He cannot understand that it is necessary. He even believes that it would interfere with his health, for false statements about the necessity of exercising the natural function has led to many deplorable results. Even if he could be persuaded that he ought to deny himself for the good of his mate and the children he has already brought into the world, he would probably be utterly unable to restrain himself, particularly because people in such moderate circumstances can usually not afford to have separate sleeping quarters. Therefore it may be necessary to teach these people birth control by scientific means. However, we submit that though they are unable to understand the reason why continence should be practiced, and unable to practice it because of lack of self-control, the spiritual teachings should be given repeatedly so that as the steady drop wears the stone, in time the coming generations will learn to depend on their own will power to accomplish the object of keeping their lower nature in check. Without this educational feature looking towards a spiritual emancipation, information concerning physical methods of limiting the birth rate in families that are overburdened is dangerous in the extreme. 
-
-[113] 
 
 There is another phase of the matter which deserves elucidation. It has been said that, "the attitude of the mother's mind just prior to the reception of the seed atom is all-important in determining what sort of child she will bring into the world. A fit of temper or violent passion at this sacred moment leaves the gateway unguarded and invites the wrong sort of entity to enter." Besides the people in the world we see, the whole atmosphere about us teems with different other entities who are attracted to beings of a like nature. Just as musicians congregate in music halls, sportsmen in yacht clubs and on race tracks, etc., so do these entities gather around people of a nature similar to their own. As drunkards and gangsters gather around our physical saloons, as immoral men and women meet in so-called redlight districts, so also immoral spirits gather around a home where the passions of the lower nature are indulged perhaps many times during the night or day. 
 
 There is a certain class of beings, male or female demons living in the ether, who were called by the ancient alchemists incubi and succubi, which feed upon the passions of others. What chance has a mother in such an environment of attracting desirable Spirit to take rebirth through her? And although conception is almost never synchronous with the union of the parents, but may take place at any moment within two weeks or more of that event, a mother surrounded by such influences in the home is never free from them. Some of the religions of some of the people we call savages require to this day that the generative act be performed in the temple, and that is as it should be. There is no more important act in life, and instead of being condemned as a shame it ought to be exalted to the dignity of a sacrament and performed under the holiest and most inspiring circumstances possible. Were this done today as in the so-called Golden Age, we should find an upliftment and an improvement in the conditions of the world as we would not deem possible to accomplish in centuries. 
 
-[115] 
+<h2 id="section-3">SECTION III: QUESTIONS DEALING WITH HEALTH AND HEALING</h3>
 
-SECTION III
+### <h3 id="question-38">Question No. 38: PROCEDURE WITH SO-CALLED INCURABLE DISEASES</h3>
 
-QUESTIONS DEALING WITH HEALTH AND HEALING 
-[116] 
-
-
-
-
-[117] 
-
-PROCEDURE WITH SO-CALLED INCURABLE DISEASES
-Question No. 38. 
 Do you think it advisable to ask for treatment in such cases of consumption, cancer, sclerosis and the like, or should we accept these diseases as incurable, the result of some cause in the past, and wait for a more efficient body in another life? 
 
 Answer: Cancer and consumption are often seemingly incurable, yet there is always a possibility that they may yield, and they certainly will yield if the force directed against them is sufficient. Like all other physical manifestations they are the result of a spiritual cause, and if we can get at that, offset it with something of an opposite nature, there is a chance of recovery; whereas the attitude of resignation and non-assistance will certainly never bring the patient out of his condition. Life in a salubrious climate, a strong desire for health, a hope that neither knows nor permits of discouragement, and a simple nutritious diet will cure even the worst case of consumption. 
-
-[118] 
 
 As for cancer, no one can ever tell when the debt of destiny which has caused the trouble has been paid. There are many cases on record where cancer has been cured; that is to say, in its milder forms. But even in an advanced stage there is no reason for giving up hope as long as there is life. In the case of sclerosis there are several methods of curing it, and the patient may become as well as ever particularly if he can be brought to recognize the breach of the laws of nature which caused the disease in his particular case. 
 
 It is to this end that we should always labor, for whether any disease be cured or not, if the patient can be taught what laws have been transgressed and how, if he can be led to see what is the spiritual cause of the disease, and learn to walk in the way of virtue according to the laws of God, then in the future there will be no disease for him. It is that which we are laboring for, that we may hasten the day of Liberation, and bring all mankind toward the full realization of health. 
 
-MORPHINE AND THE POST-MORTEM CONSCIOUSNESS
-Question No. 39. 
+### <h3 id="question-39">Question No. 39: MORPHINE AND THE POST-MORTEM CONSCIOUSNESS</h3>
+ 
 What is the effect of morphine on those who are addicted to its use? When a person who has been very ill for a long time, and who, because of the severe suffering, has been kept unconscious by large doses of morphine for many days, passes from earth life in that condition, does the released spirit become conscious when it leaves the body? What is its condition compared to that of one who dies suddenly and in full possession of all faculties? 
-
-[119] 
 
 Answer: The use of morphine and other narcotics in very small doses such as are generally taken by the ordinary drug addict has a deadening effect upon the nerves, so that the Spirit feels less sensitive in the body and more like the freed Spirit which left the physical vehicle. Under such conditions the mental faculties are better, and the person feels such an ease of mind and body that it is like heaven itself until the reaction sets in; then he begins to suffer the tortures of hell, and consequently takes more in order to restore his previous sense of well-being. 
 
-When morphine is given in large doses, it produces a condition similar to that of a person who passes out while under an anesthetic. The writer has met a number of the latter, but has never seen one who passed out under the action of morphine; therefore he cannot give the direct information asked for. But these people who died under an anesthetic were just as conscious as the ordinary human being after the silver cord has been severed. They went through their life panorama in about the same way as the person who passes out normally, and had no different experiences. Therefore we should say that one who passes out under morphine probably has no extra-unpleasant 
+When morphine is given in large doses, it produces a condition similar to that of a person who passes out while under an anesthetic. The writer has met a number of the latter, but has never seen one who passed out under the action of morphine; therefore he cannot give the direct information asked for. But these people who died under an anesthetic were just as conscious as the ordinary human being after the silver cord has been severed. They went through their life panorama in about the same way as the person who passes out normally, and had no different experiences. Therefore we should say that one who passes out under morphine probably has no extra-unpleasant experience on account of the morphine given him before his transition; and the first feeling would be one of great relief that he had escaped from the suffering incident to severe illness preceding death of the physical body. This feeling of relief is common to all who have suffered, no matter whether consciously or unconsciously. They are all exceedingly grateful that this is past, and can scarcely realize that there is no sickness in the land of the living dead to which they go after leaving this world. 
 
-[120] 
-
-experience on account of the morphine given him before his transition; and the first feeling would be one of great relief that he had escaped from the suffering incident to severe illness preceding death of the physical body. This feeling of relief is common to all who have suffered, no matter whether consciously or unconsciously. They are all exceedingly grateful that this is past, and can scarcely realize that there is no sickness in the land of the living dead to which they go after leaving this world. 
-
-IDIOCY AND INSANITY
-Question No. 40 
+### <h3 id="question-40">Question No. 40: IDIOCY AND INSANITY</h3>
+ 
 Are doctors justified in allowing a child to die that is bound to be an idiot and physically helpless when an operation would enable it to live. Does an idiot or an insane person gain any worth-while experience during life? Is the Ego within aware of the physical disability of the mind and body during such a life, and does it learn thereby? Can insanity be classed among the hereditary diseases? 
-
-[121] 
 
 Answer: Suppose a child met with an accident while playing, a blow on the head, and hence became abnormal, or perhaps was put into a state of coma; no one would hesitate for a moment to have the operation of trepanning performed so that by taking the pressure off the skull from the brain the child might be restored to its normal state of consciousness. They why should a weak-minded child not receive the same care, and have everything done for it that is possible? It would be considered criminal to allow a normal child to die for lack of care, and it is just as indefensible in the case of a child born to be an idiot, for when the Ego has gone through the womb in order to gain the experiences of this physical life, we are in duty bound to support its efforts in every possible manner. 
 
 The Ego does gain experience by a life of insanity, for the Ego itself is never insane. It is improper connection between its various vehicles, the mind, desire body, vital body, and dense body, which makes insanity. When the connection between the brain centers and the vital body is imperfect, we have what is called the idiot, often melancholy but generally perfectly harmless. When the faulty connection is between the vital body and the desire body, the conditions are somewhat similar, but include the class whose muscular control is defective, as in epilepsy., St Vitus dance, etc. When the connection is broken or faulty between the desire body and the mind, we have a raving maniac who is violent and dangerous. And when the connection is defective between the Ego and the mind, we have what we might call a soulless man, the most dangerous of all, gifted with a cunning that is usually at some unexpected time put to a most diabolical use. 
 
-[122] 
-
 If we consider the body, or the different bodies, as musical instruments upon which the Ego is playing, then when every connection is perfect the Ego can bring out more or less beautiful symphony of life according to its state in evolution. But when the connections are faulty or broken the Ego is like a musician forced to exercise his talent with an instrument lacking a number of strings, and he is therefore unable to bring out anything but discord. To the musician it would be torture to be forced to play on such a defective instrument; and it is the same with the Ego which is immured in a body cut off from its normal control. For reasons to be sought in past lives it is forced to stay with a body that it cannot control, and it suffers more or less acutely according to its stage in evolution; thus, however, it is learning a certain lesson in the school of life which is required to make it perfect. It is a sad condition, but though a lifetime appears to be very long, it is but a fleeting moment in the unending life of the Spirit; and we may console ourselves with the knowledge that when such an Ego comes back to earth it will have a normal body, provided of course that the lesson has been learned. 
-
-[123] 
 
 With respect to the last part of the question as to whether insanity is hereditary, we may answer in the affirmative or the negative according to which phase of the problem we are considering. From the spiritual point of view it is not hereditary for, as already stated, insanity is not a defect in the Ego. Because of a twist in its character it cannot build a normal body, hence by association it is drawn to a family that is similarly afflicted. This is on the very same principle that people of like character always seek one another's company; as the old saying goes, "birds of a feather flock together." Musicians congregate in music halls, at concerts, and similar places. They also seek birth in families of musicians because there the instruments needed, long slender fingers and an ear in which the semicircular canals are properly placed, can be obtained, which will give them the ability to express music. Sporting men and gamblers flock together at race tracks and in gambling dens. Thieves have their resorts, and so on. Similarly, those with a certain defect in their character are attracted to families which have the same defect. Hence if we view the problem of insanity from the form side, it may be said that it is hereditary. 
 
-Scientists who view the matter entirely from the form side are of the opinion that by limiting the reproduction of defectives they may stamp out disease. But just as the soft juices of the snail's body are gradually set out and crystallized into the hard and flinty shell it carries upon its back, so it is also the acts of the Ego which gradually crystallize themselves into a body wherein the Spirit must dwell until they are worked out. Relief will never be obtained by working with and upon the physical 
+Scientists who view the matter entirely from the form side are of the opinion that by limiting the reproduction of defectives they may stamp out disease. But just as the soft juices of the snail's body are gradually set out and crystallized into the hard and flinty shell it carries upon its back, so it is also the acts of the Ego which gradually crystallize themselves into a body wherein the Spirit must dwell until they are worked out. Relief will never be obtained by working with and upon the physical body alone, any more than operating upon the shell would cure a sick snail. Emerson said truly that "a sick man is a scoundrel who has been found out, breaking the laws of nature." The insane are in that category, and if we wish to cure them we must use spiritual means of education. All other methods are simply palliative; they do not reach the source of the disease. 
 
-[124] 
-
-body alone, any more than operating upon the shell would cure a sick snail. Emerson said truly that "a sick man is a scoundrel who has been found out, breaking the laws of nature." The insane are in that category, and if we wish to cure them we must use spiritual means of education. All other methods are simply palliative; they do not reach the source of the disease. 
-
-EFFECTS OF AMPUTATION
-Question No. 41. 
+### <h3 id="question-41">Question No. 41: EFFECTS OF AMPUTATION</h3>
+ 
 When an arm or a limb is amputated does that exist independently in the Desire World after the amputation? And after death does a person appear minus a hand or foot in the Desire World? I have known people to suffer pain in a limb long after amputation, even years. How is this accounted for? 
 
 Answer: When an arm, limb, or any organ has been removed from the physical body by any means of a surgical operation, only the dense part of the organ permeated by the planetary ether is taken away. The four ethers which constitute the vital body of the man or woman thus operated upon remain; but there is a certain magnetic connection between the part decaying in the grave and the etheric counterpart which remains with the person. 
-
-[125] 
 
 Therefore, he or she feels the pain and suffering in the part removed for some time after an operation, until decay has taken place, and the etheric counterpart has disintegrated. 
 
@@ -931,64 +746,43 @@ You will find some interesting cases demonstrating this point and some further t
 
 In the World War this was very noticeable, for all the soldiers who passed out with wounds which they could see and which they knew how to determine the effect of, reproduced these wounds in their desire bodies. They felt pain similar to what they would have felt if they had still been in the physical body, because they fancied that there must be pain connected with it. However, they were very quickly assisted by one another and by those who had been helped by the Elder Brothers to see the matter right: that there was no actual pain. As soon as they were convinced that their wounds were but illusions and taught that they could shape their bodies in the normal and health state, they could quickly remedy the condition. 
 
-[126] 
-
-DESTROYING SICK VIBRATIONS
-Question No. 42 
+### <h3 id="question-42">Question No. 42: DESTROYING SICK VIBRATIONS</h3>
+ 
 The following is sent in by a doctor of osteopathy: At the time of treatment can one destroy sick vibrations so that they will not return after treatment? 
 
 Answer: If we read between the lines of this question we shall sense two very common difficulties in the practice of Osteopathy and kindred methods of treatment by the laying on of hands. In this process there are two distinct operations. One is taking away from the patient something that is poisonous and injurious, provocative of disease; and there is also a giving out of vital force by the doctor himself or herself. Everybody who has done any work of this kind knows this because it has been felt and is felt by everybody who is successful. Now, unless the doctor or healer is bubbling over with radiant health, two things are liable to happen: either the human miasma taken away from the patient may so overwhelm him or her that, to use a common expression, "he takes on the condition" of the patient, or he may give too much of his own vital force, and thus become entirely depleted. Both of these conditions may combine, and then there comes a day when the physician or healer finds himself or herself run down and forced to rest up. 
-
-[127] 
 
 Magnetic healers who are frankly unscientific, often escape the first-mentioned condition by "throwing off the magnetism," as they say, but all are liable to be run down. That is something that nobody can escape, save one who can see the etheric effluvia he takes and the vital fluid he gives. Most people are vampires when they are sick, and the stronger and more robust they are ordinarily, the worst they are usually when sickness has put them in bed. I have never been so sick as I was after treating a giant who was suffering from intense inflammation of the kidneys and had been in bed from this cause for more than two weeks. It was dreadful to see his agony, and I gave myself wholly, with the result that I was prostrated. The patient, however, was up the next morning and as well as ever. He had my vitality, I had his disease, or at least the effluvia from it, and it took me three days to get rid of it. That was, of course, before I was able to see spiritually. 
 
 Since then I have gained considerable knowledge in this department, and the questioner will find the following hint of value in keeping away these undesirable conditions: First, fix your thought firmly in such a manner that you will not allow this miasmatic effluvia which leaves the patient's body to enter your body farther than the elbow; second, when you are giving treatment leave the patient once in a while and wash your hands in running water if possible; but at any rate wash in water, and change the water as frequently as possible. The water has a twofold effect. In the first place, the effluvia leaving the patient's body has an affinity for water. In the second place, the moisture which stays upon your hands enables you to get the miasma from the patient in a larger measure than you otherwise would. 
 
-[128] 
-
 This is on the very same principle that if you take the electrodes of an electrical battery and put them into water, you will find the effect of the electricity is many times intensified if you try to touch the water. 
 
 So also with yourself: you are the electric battery in the case, and your hands being moistened, the miasma will be drawn to yourself in a much greater measure than otherwise. If conditions are such that you cannot get water you may try to throw off the magnetism, but then it is necessary to be careful, because when the magnetism is thrown away from you it is attracted to the earth because it is subject to gravity. To the spiritual vision it is a dark or rather a black, jelly-like fluid. It lies shimmering and shivering on the floor. If now the patient gets up relieved from the couch where the treatment has been given, and goes over the place where this magnetism has been thrown away, then the miasma will re-enter the body and he or she will be in a worse condition that before you started the treatment. Therefore, it is the best policy to throw such miasma out of the window, or better still, put it into a fireplace and then set fire to it. 
 
-[129] 
-
 From the foregoing, it is evident that this laying on of hands is something that should not be done indiscriminately by any one who has not been trained in one of the many properly equipped schools of Osteopathy, Chiropractic, etc. In the School of the Rosicrucians, Probationers who live worthy lives are trained under the special guidance of the Elder Brothers. 
 
-DESTROYING DISEASE PRODUCTS
-Question No. 43
+### <h3 id="question-43">Question No. 43: DESTROYING DISEASE PRODUCTS</h3>
 
 At the time of treating a patient, can one destroy the vibrations of disease so that once they have been removed from the patient they do not return after the treatment is over? 
 
 Answer: We suppose you refer to magnetic treatment for disease, and we may say that this method of healing consists wholly in removing vibrations of disease by absorption into the body of the healer, who must have sufficient vitality to throw them off himself or he will become ill in turn. This has been explained before in our literature, but perhaps taking the subject up from another angle may not prove uninteresting or uninstructive. 
 
-[130] 
-
 When one looks with the spiritual sight at a person who is diseased, the patient's vital body looks thin and emaciated in proportion to the ravages made by the disease. There are no radiating lines from it as when the body is in health, but a sickly emanation which curls up in eddies and spirals that hang close to the dense body. Instead of being pinkish-purple it is usually a dull grey in most places, and the part that is particularly diseased is enveloped in something which resembles a mass of black jelly. That is what we might call the vibrations of disease, and at the time when the person receives a magnetic healing treatment it is this black poisonous mass which is absorbed into the hands of the healer. When he or she throws it off by a vigorous movement of the arms it sinks to the floor. Then if the patient happens to step close to that place where it lies he or she will reabsorb it. Therefore, it has always been the writer's practice to either throw these emanations out of the window or into a fire place where they may be burned. Then they can do no harm. 
 
 But while we are upon this subject it may be well to bring home another phase of this matter and the method of healing. So long as an organ is diseased it generates this poison stuff which hangs about it and prevents the currents of the vital body from coursing through it. What a magnetic healer does is simply to cleanse this organ for the time being and thus he opens the way for the influx of life-giving and health-promoting currents. The relief is usually only temporary, for the weak and diseased organ continues to generate the poison "miasma," as we call it, so that shortly it requires another cleansing by the magnetic healer. This continues until the vital currents finally become sufficiently strong to over-master and throw off the poison stuff and cleanse the organ themselves. Then health returns. 
 
-[131] 
-
 The osteopathic physician goes at the matter from the opposite angle by manipulation of the nerves for the vital currents. This strengthens these currents and they begin to scatter the miasma in the diseased part of the body. However, it usually requires a number of treatments from him also before health is restored, because the poison miasma blocks up the nerves again shortly after he has ceased manipulations. Therefore, it would seem to the writer, though he has never tried it, that a combination of the two methods: opening up the nerve currents and strengthening them by means of osteopathic treatments, at the same time removing the poison miasma by magnetic healing, being careful either to burn or otherwise dispose of the effluvia, ought to facilitate the treatment of disease wonderfully. 
 
-[132] 
-
-HEALING THE SICK
-Question No. 44
+### <h3 id="question-44">Question No. 44: HEALING THE SICK</h3>
 
 How does an Initiate heal the sick? By invocation of a higher power or concentration of his own? Is there any difference between the first and the last method? If so, what is it? 
 
 Answer: As the question stands it is difficult to answer. While we know certain methods of healing, we also believe that the choice is a matter of temperament, and the different methods of healing are probably used at different times by all Initiates as the occasion demands. We know that on certain occasions the Christ addressed Himself to the Father when performing a cure. At other times when He was in a crowd and someone touched Him, He observed that the virtue had gone out from Him and doubtless healed the one who had drawn the force from Him. All who have followed in His steps have no doubt varied their methods to suit the occasion. But in the final analysis the healing power is the same, for it emanates from our Father in heaven who is the Great Physician, and each Initiate or healer absorbs as much of His divine power as he is capable of containing, giving it out as required to each suffering one that comes before Him. 
 
-[133] 
-
 If you look up the article "How We heal the Sick" in the Healing Department of "Rays from the Rose Cross" for September, 1915, you will find there a description of our method which will throw considerable light upon the subject. (See page 105 of Occult Principles of Health and Healing.) There is also in the same magazine an article by Stuart Leech, M.D., showing how he saved himself the necessity of performing a surgical operation by visiting the patient at night when he was out of his body, materializing hands within the body of the patient, and straightening out the trouble, so that the next morning the patient was cured beyond the necessity of having the knife applied. This will probably make it clear that there is considerable scope and latitude to the Initiate and Invisible Helper in dealing with the morbid conditions of the body. As said before, the healing balm comes from our Father in heaven, and no matter who does the work or what method he uses to bring health to the ailing, the glory and honor belong to God alone. 
 
-[134] 
-
-REMOVING DISEASED ORGANS
-Question No. 45
+### <h3 id="question-45">Question No. 45: REMOVING DISEASED ORGANS</h3>
 
 When we are afflicted in this life and have a surgical operation performed and the diseased organ removed, does that heal us permanently or do we return in a future body with a similar ailment? 
 
@@ -996,15 +790,11 @@ Answer: Christ said: "As a man thinketh in his heart so is he," and this covers 
 
 To make the point clear let us remember that during childhood days we go through the most dreadful contortions in learning to write. The letters we form are grotesque in the extreme, but by and by in the course of time with persistent effort we acquire the faculty of writing a legible hand. Then as the years pass by we forget our difficulties in learning to write but the faculty remains with us. Similarly, the embodied Spirit forgets all that has gone before, but the faculty of doing certain things remains with it. 
 
-[135] 
-
 Therefore, it is has formed a body weak in a certain place in one life and has suffered the pain incident to that weakness and disease, even to the removal of an organ, we may be very sure that though the event will be forgotten in a coming existence the Spirit will remember the fact when it is molding the archetype and coming to rebirth. It will then endeavor to build a better organ so that it may save itself the pain which it endured in a previous life and thus, instead of perpetuating the diseased organ, it is very safe to say that an organ that was diseased in one life will be sound in the next. Gradually mankind is thus learning by past mistakes to build a better and sounder body. 
 
 To take another illustration, we may consider how an architect would act who had built a house and by living in it found certain discomforts. If he sold this house and built himself another, he would remember the discomforts he had in his previous dwelling and endeavor to build a house that would be free from those inconveniences. Then perhaps he would find other developments that were not to his taste in the new house and on selling that would build a third house that would be better than the two previous and so on. We may infer that the case is similar with the house of the Spirit which it builds anew in each life. Oliver Wendell Holmes put that so very beautifully in the last verse of his "Chambered Nautilus," which had built larger and larger chambers as it grew and finally had left the outgrown shell. He says: 
 
-[136] 
-
-
+```
 "Build thee more stately mansions, O my soul,
 As the swift seasons roll.
 Leave thy low vaulted past!
@@ -1012,91 +802,65 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast,
 Till thou at length art free,
 Leaving thine outgrown shell by life's unresting sea."
+```
 
-REMOVING THE SPLEEN
-Question No. 46
+### <h3 id="question-46">Question No. 46: REMOVING THE SPLEEN</h3>
 
 There has been brought to my notice a case where a woman had been operated upon and the spleen removed. According to the Rosicrucian teachings the spleen is the entrance gate of the solar forces which vitalize the body, and in the etheric counterpart of that organ the solar energy is transmuted to a vital fluid of a pale rose color, which from thence spreads all over the nervous system. We also learn that the rays of the Sun are transmitted either directly or reflected by way of the planets, or by way of the Moon. The direct rays from the Sun give spiritual illumination, those received from the planets produce intelligence, morality, and soul growth. In a case like the above described, will the etheric counterpart continue to perform its work after the dense organ has been removed, or will it disintegrate as does the etheric counterpart of an arm or leg that has been amputated, and if so what is the effect upon the person so operated on? 
-
-[137] 
 
 Answer: You are right in your statement of the Rosicrucian Teachings, except where you say that the solar energy is transmuted in the spleen to a pale rose colored fluid. The spleen is the gate of the solar forces, but the transmutation you speak about takes place in the solar plexus, where the prismatic seed-atom of the vital body is located. 
 
 With respect to what takes place after the spleen has been removed, it will help us to recall that the physical body accommodates itself so far as possible to altered conditions. If a wound in a certain part of the body makes it impossible for the blood to flow in the normal channels, it finds another set of veins by which it may take its circuit. But an organ never atrophies so long as it can serve any useful purpose. It is similar with the vital body composed of the ethers. When an arm or a limb has been amputated, the etheric counterpart of that member is no longer required in the economy of the body, therefore it gradually wastes away. But in the case of an organ like the spleen where the etheric counterpart has an important functions as gateway for the solar energy, naturally no such disintegration will take place. 
 
-[138] 
-
 It should also be remembered that whenever disease manifests in the physical vehicle that part of the vital body has first become thin, attenuated, and diseased, and it was its failure to supply the necessary vital energy that caused the manifestation of physical symptoms of ill-health. Conversely, when health returns, the vital body is the first to pick up and this convalescence is then manifested in the dense body. Therefore, if the physical spleen is diseased, it is a foregone conclusion that the etheric counterpart is also in subnormal health, and the wisdom of removing the organ is doubtful. However, if it is done, the body will seek to accommodate itself to the new conditions and the etheric counterpart of the spleen with continue to function as before. 
 
-INVISIBLE HELPERS
-Question No. 47.
+### <h3 id="question-47">Question No. 47: INVISIBLE HELPERS</h3>
 
 When one who has been working unconsciously as an Invisible Helper leaves the body at death, will he recognize those in the spirit world with whom he has been working at night, or will those experiences leave no record? 
 
-[139] 
-
 Answer: The experiences of an Invisible Helper who works unconsciously in the invisible worlds during the time when the body is asleep may be likened to a dream which he does not remember upon awakening. However, the experiences are nevertheless stored in the seed atom and will form part of the panorama of life, so that when he leaves the body at death he will see all that has happened to him, awake or asleep, during the time when he lived in the body. Thus his recollection of what has happened will not be quite the same as if he had gone through it consciously, but he will nevertheless obtain from the life-panorama a knowledge and an idea of what has been done. Thus, though he will not have the same feeling as if he had been going through the experience consciously, he will soon adjust himself to believe and understand that what seemed a dream is nevertheless a perfectly true experience. 
 
-PROTECTION AGAINST VAMPIRISM
-Question No. 48.
+### <h3 id="question-48">Question No. 48: PROTECTION AGAINST VAMPIRISM</h3>
 
 I have always been weak and anemic, and I find that other people vampirize my strength. Must I stop helping people by concentrating for them, or can you give some safe method of protection? I know of several people who would be helped by your answer. 
-
-[140] 
 
 Answer: If you will study what is said on pages 89 and 90 in The Rosicrucian Cosmo-Conception about the way thoughts are generated in the mind and then projected upon others to do their work, you will learn a great deal concerning the science of concentration and how to do the work you are trying to perform for humanity. Incidentally, you will probably realize that the thought forms you send out for the purpose of helping others take away only a small part of your own desire body which is immediately replaced by desire stuff of an even higher grade than that sent out, owing to the high rate of vibration always generated by unselfish effort. However, it takes nothing away from your vital body and it is upon the condition of this vehicles that your physical health depends. 
 
 Thus you are never vampirized by concentrating upon anyone else when you yourself are alone, but it is the contact with other people that is apt to hurt you if you are in a weakened condition. If you are at all sensitive you probably know who draws upon you, and while walking and visiting with such people it is best if possible to keep a few feet away from them. If you are sitting in a room with them and talking with them, cross your limbs at the ankles and fold your hands. Then you form a magnetic circuit on the floor or ground when your are in magnetic rapport with any person who happens to be near you. 
 
-[141] 
-
 These measures are, however, only precautions which you may use with advantage until you get yourself in hand. That should be your first consideration, for it is useless to apply palliative treatments to the effect while the cause is still there. According to the conditions we get from your letter you need iron and ether. If it is possible for you to get milk directly it has been milked from the cow that will be a wonderful help to you, for at that time the milk is surcharged with the healthy animal ether. However if you cannot get it that way there are other means. 
 
 Relative to their size, the plants have the strongest vital bodies composed of the two lower ethers, which have to do with the assimilation of physical nutriment. Therefore, green vegetables even though they have been in the market for some time are surcharged with ether. Lettuce, spinach, tomatoes, and strawberries are among the plants which abound in iron. If you will refrain from cooking, merely putting them in water an hour before meals to make them crisp, you will in a short time increase the ether in your body and the iron in your system. The you will not be anemic and in danger of vampirism. 
 
-[142] 
-
-SELFISHNESS THE CAUSE OF ALL SICKNESS
-Question No. 49. 
+### <h3 id="question-49">Question No. 49: SELFISHNESS THE CAUSE OF ALL SICKNESS</h3>
+ 
 In Tannhauser you say sickness attends soul growth to a greater or less extent. I also see in Lecture No. 11, Spiritual Sight and Insight, that you say disease is a manifestation of ignorance, and that in proportion that the Christ is formed in us we attain to health. These two passages don't seem reconcilable to my mind. 
 
 Answer: They are nevertheless very much reconcilable. Until the Christ life illumines us from within we do not comprehend, neither do we follow, the laws of nature, and consequently we contract diseases by our ignorant contravention of these laws. As Emerson puts it, a man who is sick is a scoundrel in the act of being found out; he has broken the laws of nature. That is why it is necessary that the gospel of Christ should be preached. All of us should learn to love our God with our whole heart and our whole soul and our brother as ourselves, for all our trouble in the world, whether we recognize it or not, comes from the one great fact of our selfishness. If the alimentative function is deranged, what is the reason? Is it not that we have overtaxed our system because we have been angered and exhausted our nervous force by trying to get someone to serve our selfish ends, and we feel resentful because we have not succeeded? In every case selfishness is the prime cause of diseases, sorrows, and pains. Selfishness is the supreme besetting sin of ignorance. 
 
-[143] 
+### <h3 id="question-50">Question No. 50: NATURE OF WHITE BLOOD CORPUSCLES</h3>
 
-NATURE OF WHITE BLOOD CORPUSCLES
-Question No. 50 
 You say in the Cosmo that the white blood corpuscles are not the policemen of the system. What then is their origin and mission? 
 
 Answer: To make this clear to the average reader it is first necessary to say that besides the dense body which is visible to all of us, there are finer vehicles which interpenetrate this organism and which are the springs to its activities. One is the vital body, composed of ether and concerned in building the dense body by the food which we take into the system. It controls all the vital functions, such as respiration, digestion, assimilation, etc., and works through the sympathetic nervous system. Another, still finer vehicle, is called the desire body. This is the vehicle of our emotions, feelings, and desires which expands the energies stored in the dense body by the vital processes through control of the cerebrospinal or voluntary nervous system. In its activities this desire body is constantly destroying and breaking down tissue built up by the vital body and it is the war between these two vehicles which causes what we call consciousness in the physical world. The etheric forces in the vital body act in such a manner that they convert as much of the food as possible into blood, and this is the highest expression of the vital body. 
 
 In the lower animals, from the birds on downward, which are entirely under the guidance of an invisible guardian called the Group Spirit, the blood is nucleated, but in the higher mammals which are upon the threshold of individualization, and particularly in man, who has become an individual, indwelling Spirit, there are no nuclei in the blood corpuscles. Even in the fetus, which is formed under the sole guidance of the mother during the first three weeks, and therefore has nucleated blood corpuscles in that period, they cease to be formed as soon as the Ego which is to live in the body enters. This happens about twenty-one days after conception, and by the time of the quickening the indwelling Ego in the fetus has destroyed all the nucleated corpuscles. From henceforth none are formed, for the Ego must be master of its vehicle. That is the case where there is a nucleus or center in the blood corpuscles which affords a foothold for another Spirit. It is easily demonstrated that the life is in the blood, for while we may sometimes with impunity amputate an arm or limb, we cannot deplete the body of blood without also killing it. 
 
-[145] 
-
 Thus the blood is the particular vehicle of the Ego, and as in the past aeons of development we have crystallized matter in order to form our dense body, so also it is destined that now we must etherealize our vehicles in order that we may lift ourselves and the world out of the realm of materiality and into the spiritual. Naturally, therefore, the Ego aims first to make the blood gaseous, and to the spiritual sight, this red unnucleated blood is not a fluid, but a gas, It is not argument against this assertion that the moment we prick our skin the blood comes out as a liquid. The moment we open up the try-cock of a steam boiler the gas also condenses into a liquid, but if we make a model steam engine of glass and look at the way steam works there we shall see only the piston move backward and forward, driven by an invisible agent, live steam. Similarly as the live steam direct from the boiler is invisible and gaseous, so also the live blood in the human body is a gas, and the higher the state of development of any given Ego, the more ethereal it is able to make the blood. 
 
 When by the vital processes, food has reached this highest alchemical state, the process of condensation begins and the blood-gas is formed into tissue in the various organs to replace what has been wasted or destroyed by the activities of the body. The spleen is the gateway of the vital body. There the solar force which abounds in the surrounding atmosphere enters in a constant stream, to aid us in the vital processes, and there also the war between the desire body and the vital body is waged most fiercely. 
 
-[146] 
-
 Thoughts of worry, fear, and anger interfere with the processes of evaporation in the spleen. A speck of plasm is the result, and this is at once seized upon by a thought elemental which forms a nucleus and embodies itself therein. Then it commences to live a life of destruction, coalescing with other waste products and decaying elements whenever formed, making the body a charnel house instead of the temple of an indwelling living Spirit. We may therefore say that every white corpuscle which has been taken by an outside entity is to the Ego a lost opportunity. The more of these lost opportunities there are in the body, the less is the body under control of the Ego. Therefore, we find them present in larger numbers in diseased people than in those possessing health. It may also be said that the person of a jovial good nature or one who is devoutly religious and has an absolute faith and trust in divine providence and love, will register many less lost opportunities, or white blood corpuscles, than those who are always worrying and fretting. 
 
-[147] 
-
-THE CAUSE AND CURE OF COLDS
-Question No. 51. 
+### <h3 id="question-51">Question No. 51: THE CAUSE AND CURE OF COLDS</h3>
+ 
 Will you kindly give us your view concerning the cause and cure of colds? 
 
 Answer: We live in an age of germs and serums. Every disease is supposed to have its micro-organism and an antidote is given either as a preventive or a curative. One may even be inoculated for a cold, and it is claimed that if the operation is successful one is henceforth immune. Perhaps some day all the different antidotes may be compounded into a elixir-vitae which will make us immune from the whole horde of dreaded germs! Seriously, what an anomaly this condition is. Man has conquered the whole world and stricken terror into the hearts of all the creatures which he can reach by the various devices he has made for their destruction. Even the largest of creatures fly before him in fear, but he himself is afraid of creatures so minute that he can see them only by the help of the most powerful microscope. These little microbes are so dreaded that some of the ablest men of the world spend their whole lives in efforts to restrain the ravages of the minute foe. 
 
-[148] 
-
 It is true that micro-organisms exist, but it is also true that they cannot obtain a foothold in any organism which is in a state of normal health. It is only when from other causes our bodies have become debilitated that disease germs are able to get a foothold at all and commence their destructive processes. Those who are in radiant health, and we use this phrase literally, may go without fear into any plague camp, even if there are more germs on a square inch of the patient's bodies than there are people in all the world. So long as the man is in radiant health they cannot affect him. 
 
 To make our meaning clear concerning this phrase, radiant health, we must reiterate the fact so often insisted upon, a fact which science is beginning to discover, that our bodies are interpenetrated by the ether in such volume that under most conditions it radiates from the body. One who is endowed with the spiritual sight sees within the dense physical body another vehicle resembling it exactly, organ for organ, and formed of ether. He sees also that through the spleen there is a continued influx of etheric life force which undergoes a chemical change in the solar plexus and is then circulated through the whole body as a pale rose-colored fluid with a slight purple tinge. This etheric fluid radiates from the whole periphery of the body through every pore of the skin, carrying with it an enormous amount of the poisonous gases which are generated by the food we take into our systems, selected usually because it pleases either the eyes or the palate, rather than for the nutritional value which it contains. 
-
-[149] 
 
 So long as this vital radiation of the etheric life-force is sufficiently strong it not only carries away the poisons from the body, but keeps deleterious organisms from entering, on the same principle which makes it impossible for flies or other insects to find entrance into a building through an aperture where an exhaust fan is sending a current outward. But the moment the exhaust fan is stopped, the way is opened for the various classes of insects which infest our buildings. Similarly, if for any reason the human organism becomes unable to assimilate a sufficient amount of vital force to keep up this radiating emanation it is also possible for the dreaded micro-organisms to enter and obtain a foothold in the body where they then commence their ravages, to the further detriment of health. In view of these facts the prevention of disease narrows itself down to the problem of how to keep the system from becoming clogged so that the radiant life-force may have an unimpeded flow. When the diseased conditions have set in the curative process must have the effect of opening the clogged channels to be successful. 
 
@@ -1104,11 +868,7 @@ Dr. Harvey W. Wiley, former chief of the Bureau of Chemistry at Washington, is r
 
 Baron Munchausen, the celebrated champion prevaricator, relates how when he visited the Moon he found that the people cooked their food as we do, but instead of sitting down to the table and eating it bit by bit they simple opened the door in the left side and put the food into their stomachs. We have not reached that point at present, but we are very close to it. The way in which the average American bolts his food is deplorable to say the least. The quick lunch rooms with their uncomfortable stools where it is impossible to rest and relax while partaking of the so-called food are a national menace. Everyone who sits down at one of these places seems intent upon setting a record for swallowing the greatest amount of food in the shortest possible time. And the abominable methods of preserving everything on ice for many months in order that certain middle men and large wholesalers may make prices soar for their personal profits is adding in no small measure to the dangers of ill-health which threaten every community in the so-called civilized world where these questionable modern methods are in vogue. From these "pure" foods surcharged with poisons, we endeavor to build our bodies and this, as is well-known, as accomplished by transforming as much thereof as possible to blood while the rest is to be eliminated as waste. 
 
-[151] 
-
 It is custom of the medical profession to see that the proper elimination of waste takes place, no matter what the nature of the disease may be. Anyone who attempts to break up a cold must necessarily imitate this wise method and see that the proper excretory function is stimulated to the highest possible degree, for that is one important method of freeing the system and enabling the life-force to flow through it again. The other part of the food which is transformed into blood does not remain in the fluid state but is evaporated or even etherealized according to the development of the Ego in whose it flows. It surges through the whole body as steam through a boiler, and when it comes in contact with the cold air through pores clogged by a surplus amount of food poison and partly anesthetized so as to be unresponsive to the nervous impulse which otherwise closes them partially against the chill, the blood is liquefied or partly liquefied and becomes a burden and a clog to that part of the blood stream which is not affected. As a result, micro-organisms are generated which form the pus we sense as a cold. 
-
-[152] 
 
 A person who is injured and loses a quantity of blood feels weak. So does the person whose blood has been chilled within him and for the same reason, but he who has a cold must further expend effort to get rid of the deleterious waste before he can be cured. Gluttony, bad food, and faulty mastication are not the only causes of colds. It is a fact well-known to every occultist that all that is in the visible world is a manifestation of something that was pre-existent in the invisible realms of nature, and cold is no exception. When we know that there is an immutable law of cause and effect and that there can be no effect without an underlying and adequate cause, we may easily realize the truth of this statement. It is also certain that nothing can come to us which we have not in some way deserved, and therefore if we look for causes in the invisible realm, we shall find that they must naturally have to do with ourselves. 
 
@@ -1122,15 +882,11 @@ Proper attention should also be paid to the matter of elimination, and when it i
 
 To sum up in a sentence: be cheerful, be temperate in food. Cheerfulness, temperance in food, and right elimination are a compound which would cure almost all the ills to which flesh is the heir. 
 
-[154] 
-
-THE FOOD OF THE FUTURE
-Question No. 52. 
+### <h3 id="question-52">Question No. 52: THE FOOD OF THE FUTURE</h3>
+ 
 Since evolutionary progress demands changes in man's food from time to time, will you kindly indicate some characteristics of the food of the future? 
 
 Answer: At the present time food taken internally is broken down and decomposed by heat inside the body. Thus the chemical ether permeating each particle of food combines with the chemical ether of our vital body. The food magnetized by the Sun working in the plant is thereby assimilated, and remains with us until this magnetism is exhausted. The more directly food comes to us from the soil, the more solar magnetism it contains. Consequently, it "stays with us" the longest when eaten uncooked. When food has gone through the process of cooking, a part of the ether it contained is lost, as a number of the finer particles are dissolved by heat and ascend in the kitchen as odor from whatever food it comes. Consequently the cells of cooked food remain a shorter time as a part of our body than in the case of an uncooked food, and food which has already been assimilated by the animal has very little chemical ether of its own (except milk which is obtained by a vital process and has a greater quantity of ether than any other food). Hence with regard to the flesh of animals it may be said that most of the chemical ether in the fodder has gone into the vital body of the animal before it was killed, and at its death the vital body leaves the carcass. Therefore flesh putrefies very much quicker than vegetables and "stays with us" only a short time after we eat it. 
-
-[155] 
 
 Death and disease are largely due to the fact that we subsist on food composed of cells robbed of their individual chemical ether obtained during plant assimilation. This is different and not to be confused with the planetary chemical ether which permeates mineral, plant, animal, and man. But the flesh food deprived by death of the individual vital body which ensouled the animal during life is really reduced to its chemical mineral form and as such is of small value in vital processes. In fact, it is a detriment thereto and ought to be eliminated from the system as quickly as possible. But being mineral, these particles of flesh are dead and difficult to move. Therefore, they accumulate gradually. Even a part of the plant food which is ash and mineral stays in our system, so there is a gradual process of clogging which we describe as growth. This is because we rob the plant or other food of its chemical ether. Were we like the plants and capable of impregnating the mineral with ether we would really be able to assimilate it and grow to giant statures, but as it is, the dead material accumulates more and more until finally growth is stopped, because our powers of assimilation become less and less efficient. 
 
@@ -1138,20 +894,10 @@ In the future we shall not digest our food inside the body, but extract the chem
 
 Science is gradually learning the truths previously taught by occult science and their attention is being more and more directed to the ductless glands which will give them the solution of many mysteries. However, they do not seem to be aware as yet that there is a physical connection between the pituitary, the principal organ for assimilation, and therefore of growth, and the adrenals, which eliminate the waste and assimilate the proteins. These are also physically connected both with the spleen and the thymus and thyroid glands. It is significant in this connection from the astrological point of view, that the pituitary body is ruled by Uranus, which is the higher octave of Venus, the ruler of the solar plexus where the seed atom of the vital body is located. Thus Venus keeps the gate of the vital fluid coming direct from the Sun through the spleen, and Uranus is warder of the gate where vitality enters through the physical food. It is the blending of these two streams which produces the latent power stored up in our vital body until converted to dynamic energy by the martial desire nature. 
 
-[157] 
+<h2 id="section-4">SECTION IV: QUESTIONS DEALING WITH INVISIBLE WORLDS</h2>
 
-SECTION IV
-
-QUESTIONS DEALING WITH INVISIBLE WORLDS 
-[158] 
-
-
-
-
-[159] 
-
-CONSCIOUSNESS IN THE INVISIBLE WORLD
-Question No. 53. 
+### <h3 id="question-53">Question No. 53: CONSCIOUSNESS IN THE INVISIBLE WORLD</h3>
+ 
 Will you please tell me if Mr. Heindel can function on the plane of the Ego? If so will be communicate with my Ego and bring me the following information; I want to know who my Ego is, and what it intends to do with this earth life, also how I can obtain daily and uninterrupted consciousness with it. 
 
 Answer: While awake during earth life the Ego functions in the visible world as an indwelling Spirit, but during the hours of sleep the Ego is in the Desire World, where it also remains for a period after death. Later stages in the post-mortem existence are lived in the Region of Concrete Thought which is the Second Heaven. Above that is the Region of Abstract Thought, which is called the Third Heaven, the home of the Ego, who takes excursions into earth life for the purpose of gaining experience and soul growth. 
@@ -1160,76 +906,54 @@ While here on earth ties are formed with others which under the Law of Causation
 
 This entity meets the aspirant at the door between the visible and the invisible world. When he dares to step out into this world which he has previously only seen by spiritual sight, he is confronted by this Dweller on the Threshold and cannot pass until he has acknowledged it. Each neophyte must face this gruesome spectator as Glyndon did in Bulwer Lytton's novel, "Zanoni." It is hidden from ordinary humanity, even between death and rebirth, but the neophyte, as said, must not only face it, acknowledge if, and dare to pass it. He must take a solemn vow to do the things necessary to liquidate the debt of which that is an embodiment, also the vow of silence concerning all therein involved. 
 
-[161] 
-
 When you ask to know who your Ego is, you are asking for just the information which the Dweller on the Threshold to the invisible world hides from you, under the beneficent law of nature which no one is privileged to break. Until you have attained the spiritual strength to pass him and learn for yourself, this must therefore remain hidden from you. Even then there will not be an uninterrupted conscious intercourse between the higher self and the personality. That belongs to a much later stage in evolution when we shall have fully spiritualized our vehicles into soul essence. Therefore, there is only one way for you to find out, and that is by earnest application to the problem yourself. If you continue to seek you shall find, but remember, there is no royal road to this knowledge. No one can give it to you ready-made, or sell it to you, and all we who have gone before can do for anyone is to show him the way and encourage him to walk it regardless of all set backs and obstacles, confident that what man had done, man can do. Each has the same divine power and is as able to succeed as anyone else. 
 
-[162] 
+### <h3 id="question-54">Question No. 54: PEOPLE IN THE DESIRE WORLD SEE THE SUN</h3>
 
-PEOPLE IN THE DESIRE WORLD SEE THE SUN
-Question No. 54. 
 Do the people of the Desire World or Etheric Region see the Sun we see, and do not these regions go round with the world at its atmosphere? If so, why would it not make darkness and day there also? 
 
 Answer: The reason why we have day and night, light and darkness, is that the Earth is opaque to our physical sight. Therefore, when the Sun is on the opposite side of the earth we cannot look through this physical globe and see the light, nor can we perceive the light-rays which penetrate through it, by our physical sight, though there is such an invisible light by which psychometers and clairvoyants see just as well in that which we call darkness as in that which we call light. It is true that the atmosphere of the earth revolves with it, and so does the desire stuff which constitutes the Desire World of our planet. However, those who have shed the mortal could and are in the Desire World see through the earth just as easily as we see through a pane of glass. Furthermore, the greater part of them are usually so far outside the physical earth that even the direct rays of the Sun would not be obstructed by the mineral globe upon which we live in our physical bodies. For these reason there is neither day nor night there. Neither are there seasons which depend in a measure upon what we call day, but there is everlasting day and everlasting light in those worlds. 
 
-[163] 
-
-A DREAM PROBLEM
-Question No. 55. 
+### <h3 id="question-55">Question No. 55: A DREAM PROBLEM</h3>
+ 
 A gentlemen in sound physical and mental health has had a dream almost every night for some time, and in the dream state he addresses an assembly composed mainly of his friends and acquaintances. In the course of his speech he explains that he is dreaming and that all the people before him are creatures of his dreams. Some one in the audience asks him what proof he has to give that he is right in his assertion, and to this he replies that he will think over the question when he wakes, and states that he will explain his reasons when he meets them in dreamland the next time. They all laugh at him and call him a lunatic. This dream puzzles him considerably and he is anxious to know how he may convince those dream creatures that the experience is really a dream. 
 
 Answer: In order to be able to judge intelligently concerning the various states of consciousness of man--waking, dream sleep, etc.--it is necessary to know the constitution and the function of various finer vehicles which, with the dense body, make up that complex being which we call man. 
 
 We find in the world four kingdoms: the mineral, which is practically devoid of feeling though it may respond to and react to stimuli, can feel neither love nor hate. Under the steam hammer or in the furnace its form and composition may be changed, but it gives no sign of emotion whatever. Its consciousness is like that of the human being in the deepest trance or in death, when only the physical body is present. 
 
-[164] 
-
 The plant is different. It lives and breathes. It inhales carbon dioxide which forms a large part of its body. It exhales the life giving oxygen. The sap flows in its stem and leaves. In short, it exhibits the same phenomena of life that we do in dreamless sleep, because in that state our dense body is interpenetrated by a vital body composed of ether and a similar vehicle interpenetrates the physical stem, leaves, and branches of the plant. But the plant knows no emotion neither. Love, hate, joy, and sorrow are foreign to it, for it has no desire body such as that possessed by animal or man. Because of the possession of these vehicles animal and man are also able to move about and to aim to gratify their desires. To this end man uses mind, a vehicle not possessed by the animal, and in the waking state all his vehicles are concentric, interpenetrating one another, enable him to live, move, and reason. But the very act of going to sleep means a reversion to the consciousness of the plant, and therefore it necessarily involves a separation of the higher and lower vehicles. The Ego clothed in the mind and the desire body withdraws, leaving the physical body interpenetrated by the vital body, upon the bed. 
-
-[165] 
 
 There are times, however, when we have become so absorbed in our daily affairs, or when we have been tired out, that the Ego cannot accomplish a complete separation of the higher vehicles from the lower. Then the desire body still interpenetrates the brain centers, because the relative position of the various vehicles, so to speak, askew. 
 
 In that condition reason is out of the question, and the human consciousness is similar to that of the animal which has no mind and is therefore constitutionally incapable of logic. That is why even the most grotesque and absurd things seem perfectly natural to the dreamer, who accepts them without question just as the animal does, and dreams experienced in that relative condition of man's vehicles are usually absurd in the extreme. But as civilization progresses and egoism becomes superseded by altruism, a different division of the vehicles is made. A part of the vital body composed of the two higher ethers, which are vehicles of sense perception and memory, is taken along during the night. Then the illusory stage of dreamland ceases, and man becomes, as it were, a creature of two existences--one lived out of the body in dreamland, where he comports himself in a reasonable manner, using judgment concerning his own actions, and those of other people whom he may meet. As he has not learned to focus his consciousness when leaving or entering the body, he is not able at all times to accomplish the proper separation of his vehicles, nor to bring back a reliable memory picture of what has occurred. Initiation into the inner spheres alone supplies the necessary knowledge. 
 
-[166] 
-
 Evidently the gentleman in question has his reasoning faculties with him in dreamland, but is not yet aware of the facts concerning that world. He is mistaken in supposing that the audience which he addresses is simply a "creature of his dreams," and is not at all impossible, if he were to gather courage and ask some of those whom he has seen in his dreams if they attended such and such a gathering, that the answer would be in the affirmative. Moreover, if at the time this reply reaches him it is still possible for him to get together with the people whom he saw in his dreams and prepare them for the question before he puts it to them in the day time, he will almost certainly find someone who will remember and who has carried through this identical experience of which he has been writing. 
 
 Seeing then that dream life is not an illusory existence but a reality, there is no way of proving to the people of dreamland that it is an illusion. 
 
-[167] 
-
-THE TRANCE STATE
-Question No. 56. 
+### <h3 id="question-56">Question No. 56: THE TRANCE STATE</h3>
+ 
 If it is possible to produce artificially by drugs or otherwise, as I have read, the various mystic states, how is the aspirant to know the genuine from the counterfeit? How distinguish between spiritual enlightenment and psychic intoxication? 
 
 Answer: Many scientific investigators engaged in psychic research have frustrated their object by carrying skepticisms to an absurd extreme, so that, as one expressed it in the hearing of the writer, he would not believe in ghosts even if he were to see one, because there are no ghosts and he would know that the thing which he thought to be a ghost must be only an hallucination. They are like the redoubtable Celt who professed to have an open mind willing to be convinced and then added with all the intensity he could put into the phrase: "But show me the man who can do it." 
 
 This much good the Psychic Research Movement has done, however: it has collected an immense amount of facts, which are highly valuable in the study of the hidden phases of life when we examine them apart from the construction which the scientific investigators have put upon them. 
 
-[168] 
-
 Among other things it has been noticed in a number of cases where the medium was to all appearance entirely ignorant and uneducated that the trance condition brought out accomplishments which astonished those present beyond words. There is one case on record where a servant girl, who in the normal state was most stupid and uneducated, delivered a discourse in Hebrew of a most scholarly nature while under the trance condition, and the question presents itself as to how these things are possible. There is only one theory which can give an adequate explanation covering all the facts in every case, namely, that we have all come up to our present status in the scale of evolution through many days in the great school of life; each life we have learned some lessons, and we are constantly learning more. Thus we have in the course of time acquired a vast amount of knowledge which is growing day by day and life by life. 
 
 Our vehicles also have become better, more sensitive and refined, but no body on earth is capable of expressing all that the indwelling Spirit knows. Nor is it intended by divine Hierarchies who guide our evolution that it should, for this versatility would prevent us from concentrating our efforts upon the particular lessons we need to learn here in a particular environment. Take, for instance, the case quoted of the stupid servant girl whom the trance medium showed to be a scholar. Judging from the facts of the case she had, in the opinion of the writer, a brilliant mind in a former existence, but was probably proud, arrogant, and overbearing. Hence it became necessary to teach her a lesson in humility, and she was born in a humble environment where no educational advantages were offered her. Therefore the brain because dull and she drifted into the condition of servitude little short of slavery, which is so prevalent in Central Europe, that she might learn a much needed lesson in humanity. 
-
-[169] 
 
 This class of cases shows then a possession of a much greater amount of knowledge and experience which lies latent and hidden in every individual and which is accessible when the normal sense of the body has been stilled for the time being. 
 
 We may also note that this phenomenon differs very sharply and radically from the psychic activities observable under Spirit control. According to the writer's observation of hundreds of cases, when a medium is controlled by the Spirit, the Ego of the medium clothed in its finer vehicles is driven out of the body, and the controlling Spirit then stands behind the victim manipulating the tongue and the limbs through the medulla oblongata, causing it to move or to speak just as desired. The "light of life" is then seen as a flaming torch rising from the spinal canal and the medulla, where is heard a sound somewhat resembling the humming of an alternating current arc light. Another sounding light projected by the controlling Spirit overshadows and overwhelms the first light and by that means holds the physical body in an unconscious condition. But it is really painful to hear the frantic buzzing of the victim's light of life, struggling against the aggressor. 
 
-[170] 
-
 This phenomenon is absent in the class of cases where the trance is induced by suggestion or auto-suggestion. There also the Ego is driven out of its dense body, and may be seen standing against it manipulating the limbs and the organs of speech and using the body according to its desire, as well as this extraneous position permits. But in this class of cases the light of life hums its song serenely and contentedly; there is no warring influence perceptible such as where there is an obsessing or controlling Spirit. Thus the person with spiritual sight may easily differentiate between this class and the other. Nor does the phenomenon of trance differ in this respect when it has been induced by drugs, at least as far as the writer has been able to observe, except in this particular, of course, that it is impossible for the Spirit to return to its vehicle until the drug has worn off. 
 
 "But how is the aspirant to know the genuine from the counterfeit, how distinguish between genuine spiritual enlightenment and psychic intoxication?" asks our correspondent. The trance state is never a mark of spiritual enlightenment, no matter how induced. It is a morbid and abnormal condition, not to be emulated by anyone seeking spiritual enlightenment. There is only one true path to firsthand knowledge, only one right way to spiritual enlightenment, and that is by cultivation of your own soul powers. Build your soul body by patient persistence in well doing, enlighten others who know less than you who wish the little knowledge you now possess, look for opportunities to serve others in the small and menial things, as well as in the greater, according to your ability and opportunity. Then some day you will cease to see through a glass darkly and you will know for yourself without depending upon others. 
 
-[171] 
-
-CONTACT WITH RELATIVES DURING SLEEP
-Question No. 57. 
+### <h3 id="question-57">Question No. 57: CONTACT WITH RELATIVES DURING SLEEP</h3>
+ 
 During sleep does one actually come in contact with relatives and friends who have been out of the body for twenty years, or is it simply the working of memory? 
 
 Answer: The usual time of duration of one's stay in the Desire World, after leaving the body at death, is one-third the length of the life lived in the body, but this measure is only a general guide. There are many cases in which the stay is shortened or lengthened. For instance, if a person follows The Rosicrucian Fellowship exercises, particularly the retrospection in the evening, he may in this scientific manner, provided he is very earnest and sincere in performance thereof, entirely obviate the necessity of a purgatorial experience. The pictures of scenes where he wronged someone would have been wiped away from the seed atom in his heart by contrition, and thus there would be, for him, no purgatorial expiation. where he had done something commendable, that would be absorbed as pabulum for the soul, and this would materially shorten, if not entirely free to devote himself to the service of humanity in the beyond, and as such he might remain in these lower regions. However, they would not, for him, constitute Purgatory or the First Heaven. Many of the most devout disciples do this humanitarian work for a number of years after passing over. 
@@ -1238,23 +962,17 @@ There are some, however, who go the Second Heaven at once. The soul growth attai
 
 There are other classes who, so to speak, become immortal in evil. Not quite that, but the interlocking of their vital and desire bodies forces them to stay in the lower regions of the invisible world nearest to the physical world in which we live, thoroughly explained in the series of lessons which we are issuing to students on The Web Of Destiny. 
 
-[173] 
-
 This class may consequently be met with for a considerable number of years after they have passed away from the body. It is indeed a curious fact that sometimes these evil persons are sought by former friends who have passed out of the body and need help to contact the physical world. The writer remembers such an instance occurring a few years ago, when an aged relative was about to pass over to the other side. She looked forward very anxiously to seeing her mate who had gone on before her. But as he had already reached the First Heaven, his arms and body had passed away, and only the head remained. Therefore he would scarcely be able to show himself to her when she had passed over, much less influence conditions at the time of the passing, and these were far from being to his liking. Certain things were being done to retard the severance of the Spirit from the flesh and considerable distress was occasioned to the passing person thereby. 
 
 In his anxiety over this condition the husband of the lady secured assistance from a friend whose interlocking vital and desire body made it easy for him to manifest. This Spirit took a heavy cane standing in the room, and knocked a book out of the hand of the passing lady's daughter, which so frightened those present that they stopped their demonstration, allowing the mother to pass out. The poor man who performed this phenomenon had already been more than twenty years in the invisible world, and so far as the writer can perceive there seemed to be no sign of dissolution of the sin body wherein he had clothed himself; he may remain there for perhaps twice or three times as long. 
 
-[174] 
-
-NATURE OF CREATURES SEEM IN DELIRIUM TREMENS
-Question No. 58. 
+### <h3 id="question-58">Question No. 58: NATURE OF CREATURES SEEM IN DELIRIUM TREMENS</h3>
+ 
 What is the nature of the grotesque and hideous things seen by persons suffering from delirium tremens? Are they only temporary creatures of the imagination, or have they actual existence in the lower part of the Desire World? And how comes it that drunkard is endowed with spiritual sight? 
 
 Answer: We will take the latter part of the question first, for then it will also appear what the things are which are seen in delirium tremens. 
 
 In the first place, let us realize that there are several kinds of Spirits. There is the Ego, a true spark from the Divine Fire, now hidden beneath a number of opaque coverings: mind, desire body, vital body, and last but not least, the most opaque of them all, the dense body--the veil of flesh which most effectively shuts out the Spirit from the divine consciousness and confines it to the narrow limits of a brain and body. 
-
-[175] 
 
 By the process of evolution these vehicles are being spiritualized. Their vibrations are being raised, and by degrees the Ego is beginning to find itself, as the prodigal found himself, far away from the Father, and desirous of returning. Then by certain definite processes, he is gradually re-awakening cosmic consciousness. The divine power of organs which have served him as spiritual media in the far past, are re-awakened to new activity. This is particularly the case with the pituitary body and pineal gland. When he has learned to vibrate these little organs, he has developed a new sense which we may call spiritual vision, for then he sees the Invisible World and the occupants thereof. There are other steps by which he may, after awhile, become a full-fledged citizen of these realms while still living in the physical body, which he can then leave or re-enter at will. With this phase of the subject we are not at the present time concerned. Be it noted, however, that only a Spirit can set these little organs in vibration, or re-awaken their latent activities. 
 
@@ -1262,10 +980,8 @@ Where there is coin there is usually an imitation base metal. The Spirit also ha
 
 Therefore, when a person has so saturated himself with this spurious spirit of alcohol that the little organs of spiritual vision have had their vibratory rate accelerated to such a degree that the Spirit world can be perceived, he naturally sees that which is akin to him. As tuning forks, when struck, set other tuning forks of identical pitch into vibration, so also everyone is attracted to others of the same nature. These grotesque and hideous figures are really etheric and interetheric, between the Desire World and the ether, penetrating both. They are not a product of his imagination, but realities of a more or less lasting nature created by the drunkards and sensualists of the two worlds. 
 
-[177] 
-
-CELESTIAL VISITORS
-Question No. 59. 
+### <h3 id="question-59">Question No. 59: CELESTIAL VISITORS</h3>
+ 
 Why is it that clairvoyants give such differing views and ideas of what they see in the invisible worlds that it is utterly impossible to reconcile their accounts? 
 
 Answer: This question has been thoroughly explained in The Rosicrucian Cosmo-Conception. It hinges to a considerable extent upon the fact that in the invisible world forms are so plastic that they can change their shape in the twinkling of an eye, thus giving the untrained seer an entirely wrong idea. Hence training is absolutely necessary to observation there as here, but you are mistaken in the idea that all disagree. There are a considerable number of people who have developed the spiritual sight, or perhaps have acquired it involuntarily, but who nevertheless see things alike and thus corroborate one another's statements. We have, for instance before us the review of a book written by a hospital nurse who had been present at many deathbeds and there observed exactly the same thing that we have written in our various books for the last ten years. The book is called, "The Ministry of Angels," a term which the author applies not only to the great Hierarchy next above humanity, as the term is used in The Rosicrucian Cosmo-Conception, but to all human beings who have passed beyond the veil. However, apart from that the book is full of experiences which have been duplicated by the writer in thousands of instances. We may take a few instances from the resume of this book, given in The Occult Review, to show the similarity of the experiences of this lady with our teachings as set forth in the Rosicrucian literature. 
@@ -1274,23 +990,17 @@ When she was about eighteen years of age, a girl friend called Maggie was sudden
 
 This is just as we have taught: at the moment of death, when the silver cord has been ruptured in the heart, the vital body rises out through the sutures in the skull and hovers a few feet above the body. Writing on the subject of deathbeds of the patients she nursed, she remarks that often, irrespective of the physical condition or frame of mind of the dying, just before the end came they would seem to recognize someone who was not of them at the bedside and who was unseen by them. 
 
-[179] 
-
 "I have seen," she says, "a woman who had been in a comatose state for hours, suddenly open her eyes with a look of glad surprise, stretch forth her hands as though to grasp invisible hands outstretched toward her, and then with what seemed a sigh of relief, expire. I have seen a man who had been writhing in agony, suddenly grow calm, direct his eyes with an expression of joyful recognition to what to those observing him was only vacancy and, uttering a name in tones of greeting, breathe his last breath. 
 
 "I recall the death of a woman who was the victim of that most dread disease, malignant cancer. Her sufferings were excruciating and she prayed earnestly that death might speedily come to her. In her agony suddenly her suffering appeared to cease, the expression of the face which a moment before had been distorted by pain changed to one of radiant joy. Leaping upwards with a glad light in her eyes, she raised her hands and exclaimed. 'Oh, Mother dear, you have come to take me home. I am so glad,' and in another moment her physical life had ceased." 
 
-At first the author was not able to see these invisible beings herself, but gradually she developed the spiritual sight, so that she actually did see those who came to meet the dying from the realms of Spirit life and to welcome them into another state of experience. 
-
-[180] 
+At first the author was not able to see these invisible beings herself, but gradually she developed the spiritual sight, so that she actually did see those who came to meet the dying from the realms of Spirit life and to welcome them into another state of experience.  
 
 "The first time I received the ocular proof," she says, "was at the death of L., a sweet girl of seventeen, who was a personal friend of mine. She was a victim of consumption. She suffered no pain, but the weariness that comes from extreme weakness and debility was heavy upon her and she yearned for rest. 
 
 "A short time before she expired I became aware that two Spirit forms were standing by the bedside, one on either side of it. I did not notice them enter the room. They were standing by the bedside when they first became visible to me, but I could see them as distinctly as I could see any of the human occupants of the room. In my own heart I have always called these bright beings from another world angels, and as such I shall hereafter speak of them. I recognized their faces as those of two girls who had been the closest friends of the girl who was dying. They had passed away a year before and were then about her own age. 
 
 "Just before they appeared, the dying girl exclaimed, 'It has grown suddenly dark, I cannot see anything,' but she recognized them immediately, a smile beautiful to see lit up her face as she stretched forth her hands and in joyful tones exclaimed, 'Oh, you have come to take me away; I am glad, for I am very tired.' 
-
-[181] 
 
 "The two angels extended each a hand, one grasping the dying girl's right hand, the other her left. Their faces were illumined by a smile more radiantly beautiful even than that of the face of the girl who was so soon to find the rest for which she longed. She did not speak again but for nearly a minute her hands remained outstretched, grasped by the hands of the angels, and she continued to gaze at them with the glad light in her eyes and the smile on her face. The angels seemed to relax their grasp of the girl's hands which then fell back on the bed. A sigh came from her lips such as one might give who resigns himself gladly to a much needed sleep, and in another moment she was what the world calls dead. That sweet smile with which she at first recognized the angels was still stamped upon her features." 
 
@@ -1318,15 +1028,11 @@ Arrived at the home of his sister they found her seated in a comfortable living 
 
 Thus there are a thousand and one points of agreement between a number of people who are capable of functioning both in the visible and the invisible worlds. Moreover, this war is greatly increasing the number of those who can perform this feat and eventually we shall all be able to do so, from the least to the greatest. It will be as normal a faculty as sight or hearing. Thus gradually we are becoming more and more acquainted with the invisible worlds and the points of agreement are already far in excess of the points of divergence. Hence there should be no difficulty in accepting the stories from the unseen on that account. 
 
-[188] 
-
-WHY GROUP SPIRITS SUFFER
-Question No. 60. 
+### <h3 id="question-60">Question No. 60: WHY GROUP SPIRITS SUFFER</h3>
+ 
 Animals both wild and domestic suffer many things, and we are taught that the Group Spirits suffer more intensely. Why is this? Do Group Spirits, like us, suffer from their own misdeeds? 
 
 Answer: It seems very difficult to conceive that such glorious beings as the Archangels--who are Group Spirits and Race Spirits--can do wrong, at least in the sense that we with our limited understanding attach to that word. Christ is the highest Initiate among the Archangels, and as we know that "He suffered in all things as we, being tempted, yet without sin," there is evidently a higher law. What that is we shall sense when we consider the relation of the Group Spirits to the animals of their species in the light of the law of analogy, which is the master-key to all mysteries. 
-
-[189] 
 
 The following illustration from the Cosmo will probably make the difference clear between man with his indwelling Spirit and the animal with its Group Spirit: 
 
@@ -1334,43 +1040,33 @@ Let us imagine a room divided by means of a curtain representing the Desire Worl
 
 The latter sees the fingers that are thrust through the curtain. He observes that they all move, but he cannot see the connection between them. To him it appears as if they were all separate and distinct from one another. He cannot see that they are the fingers of the man behind the veil, and are governed in their movements by his intelligence. If he hurts one of the fingers he does not hurt them as much as the man on the other side of the curtain. If an animal is hurt it suffers, but not to the extent that the Group Spirit does, because it has no individualized consciousness. 
 
-[190] 
-
 The dense body in which we function is composed of numerous cells, each having separate cell-consciousness, though of a very low order. While these cells form part of our body they are subject to and dominated by our consciousness. An animal Group Spirit functions in a spiritual body which consists of a varying number of Virgin Spirits imbued for the time being with the consciousness of the Group Spirit. The latter directs them, watching over them and helping them to evolve. As its wards progress the Group Spirit also evolves, undergoing a series of metamorphoses, in a manner similar to that in which we grow and gain experience by taking into our bodies the cells of the food we eat, thereby also raising their consciousness by enduing them with ours for a time. 
 
 This Group Spirit dominates the action of the animals in its charge until the Virgin Spirits shall have gained self-consciousness and become human. Then they will gradually manifest wills of their own, gaining more and more freedom from the Group Spirit and becoming responsible for their own actions. The Group Spirit will continue to influence them, although in a decreasing degree, as Race, Tribe, Community, and Family Spirits until each individual has become capable of acting in full harmony with Cosmic Law. Then each Ego will be free and independent of interference, and the Group Spirits will enter a higher phase of evolution. 
-
-[191] 
 
 In the light of the foregoing elucidation of the relationship between the Group Spirit and the animals, it is evident that the sufferings experienced through its proxies have the same purpose as the sufferings we experience on account of our direct mistakes, namely, to teach it to avoid whenever possible undesirable conditions which are productive of pain. The man without a gun sees lots of animals when he walks about the fields; they flock to Mt. Ecclesia and other places where the Group Spirit tells them they are safe. The man with the gun truly has to hunt, for the Group Spirit warns its charges of his approach. Besides, the Group Spirit clothes its species in fur or feathers colored to resemble the ground, the trees, or leaves, so as to render them as inconspicuous as possible to those who would hunt them and thereby cause them pain. Thus, because of the desire to avoid pain to itself it exercises its ingenuity to guard its charges. We are not prepared, however, to aver that the desire to escape pain is the prime motive of the Group Spirit in guarding its charges, but the two are linked together as the cause and effect. 
 
 But what about the animals slaughtered for food, and the poor creatures tortured in the vivisection hells? How about the poor horses starved and beaten by inhuman drivers? What is the Group Spirit doing to protect them and save itself the pain incident to their condition? It can educate the wild animals of the field to save themselves by various methods, but domestic animals must present a problem of considerable difficulty to the Group Spirit. It has the power to withhold the seed atom necessary to fertilization to preserve the purity of its tribe, and does so in the case of hybrids. However, the prime purpose of existence is experience, so it is forced to admit the Spirits under its guardianship to birth through their legitimate channels even though they are thereby exposed to atrocious treatment at the hands of man. Man must and will help the animals at some future time to atone for his present wrong-doing, and he will have to help the present minerals when they have become animals. The Law of Consequence is just and can be depended upon to balance the scales. In the meantime, the Group Spirits are learning sympathy and compassion. The Race Spirits are learning the same thing through human suffering caused by industrial and national warfare. Eventually the day will come when the lion will lie down with the lamb, eating grass with the ox, when the child may play unharmed with the serpent, when men will beat their swords into plowshares and their spears into pruning hooks, when there will be "peace on earth and good will among men." True, that will require great changes, mental, moral, and physical, but "though the mills of the Gods grind slowly, they grind exceeding small." Divine power has wrought cosmos from chaos; we have therefore reason to trust in its benevolent purpose and believe in its omnipotence to overcome all obstacles in the way of realizing what now appears utopian. 
 
-[193] 
-
-NATURE OF THE DESIRE WORLD
-Question No. 61. 
+### <h3 id="question-61">Question No. 61: NATURE OF THE DESIRE WORLD</h3>
+ 
 The Cosmo says that the Desire World is fluid, and composed of everchanging light and color. Is it not correct to picture the darkest colors at the lowest regions gradually blending into the lighter colors and in the Region of Soul Power finding pure white light? 
 
 Answer: Yes, in one sense you are right. Color depends upon vibration, the rapidity of the rate and wave length. For instance, in the colors of the spectrum red has a much longer wave length and a slower rate of vibration than violet, which is at the other end of the solar spectrum, but the colors in the Desire World are not at all the same colors that we see here. Here color is caused by the reflection of the Sun's rays in the atmosphere. There light is a property of matter. One might almost say that from the viewpoint of that world desire stuff is light and light is desire stuff. That is not quite correct, but almost so. 
 
 Furthermore, the colors which we would call dark there are brighter than the brightest sunlight here. That is why we do not see them. Our eyes cannot respond to that rate of vibration. You should not consider the Desire World being above and higher than the Physical World in the sense of space being involved. The desire matter is here. It interpenetrates every physical atom. Even the ether is pervaded by it, and the dark, to the spiritual sight almost black, chemical ether, seems almost inseparable from the lowest grade of desire stuff. They are so dense that they seem nearly gaseous, and it has often been a wonder to the writer that people cannot see them and the beings moving therein. 
 
-ATTITUDE OF GROUP SPIRITS TO EACH OTHER
-Question No. 62 
+### <h3 id="question-62">Question No. 62: ATTITUDE OF GROUP SPIRITS TO EACH OTHER</h3>
+
 Are Group Spirits enemies on the spiritual plane as their charges such as wolves and sheep are on this plane? 
 
 Answer: No, there is no enmity connected with the whole matter, either in the visible or invisible world. The wolf does not hate the sheep it eats any more than the ox hates the grass. It is simply a question of obtaining the food wherewith to sustain life, and the work of the Group Spirits with their charges is furthered in no small measure by the resulting game of hide and seek, played by the beasts of prey and their quarries. 
 
-[195] 
-
 The main object of existence is the evolution of consciousness, and the ingenuity displayed by one class of animals in capturing another, the patient concentration of the cat watching the mouse hole, and the many varied schemes used by other animals to catch the unwary, are easily counterbalanced by the vigilance displayed by the animals preyed upon in their wild state, when they are totally dependent upon the group Spirits to save them from their pursuers. If there were not this struggle for existence the evolution of consciousness would be much more long-drawn than it is and therefore the predatory habits of the carnivorous animals serve a good purpose in nature as well as all other seeming anomalies. 
 
-UNDINES AND MERMAIDS
-Question No. 63. 
+### <h3 id="question-63">Question No. 63: UNDINES AND MERMAIDS</h3>
+ 
 Is there any foundation for the belief in mermaids? If so, what is their origin? What purpose do they serve? 
-
-[196] 
 
 Answer: Undines, mermaids, and mermen are not figments of the fancy. They are real. We are so fond of looking upon this world as a great big perpetual motion machine, and we try to explain everything on one scientific theory or another. People will say that the sun heats up the ocean, that the water evaporates, rises into colder strata, and there condenses into clouds, which are moved over the lands by wind, and when condensed sufficiently, the seawater falls as rain. Then it runs back to the sea as rivers, and that is all there is to it. 
 
@@ -1380,61 +1076,37 @@ In the case of human beings, those who are in the Second heaven are preparing to
 
 The impulse is spiritual for there is no physical activity going on in nature at that time. On the other hand, in summer all is activity in the world. The summer solstice is the apex of the physical impulse, and it is at that time that the nature spirits have their festival. They do enjoy themselves, and glory and feel thankful that they have brought forth and that they have helped to work this miracle of fecundation and expression of all physical things that have come to birth. At that time the fructification begins, the fruit begins to ripen, and then we go down towards the harvest, which is at the fall equinox. So these nature spirits have a great work to do. It is not only true that they are, but they play a very, very important part in the world's work. 
 
-[199] 
+<h2 id="section-5">SECTION V: QUESTIONS DEALING WITH SPIRITUAL SIGHT</h2>
 
-SECTION V
-
-QUESTIONS DEALING WITH SPIRITUAL SIGHT 
-[200] 
-
-
-
-
-[201] 
-
-THE METHOD OF SPIRITUAL COGNITION
-Question No. 64. 
+### <h3 id="question-64">Question No. 64: THE METHOD OF SPIRITUAL COGNITION</h3>
+ 
 Will you please discuss the problem of cognition? How does the seer know on the higher planes? By this I mean, (a) How can he distinguish between a thought form emanating from his own mind and (b) The thought form emanating from some other person either in the body or out, and (c) Objective spiritual entities? 
 
 Answer: Contrary to the opinion of people who do not know anything about the matter this is purely a matter of training. It is absolutely wrong to suppose that because a person who has developed the spiritual sight and is able to see things in the worlds which are usually invisible to the ordinary human view in the present stage of evolution he therefore by the same faculty knows everything. As a matter of fact he does not know anything until he has acquired the knowledge by investigation. The law of analogy, which is the master key to all mysteries, should make this clear. "As above, so below," and "as below, so above." We see the telephone hanging on the wall; we know how to operate it by taking down the receiver, placing it to our ear and talking through the transmitter. We know even in a vague way that it is operated by electricity, but the mechanism is a mystery to the great majority. 
-
-[202] 
 
 Similarly, we may turn an electric switch, see the lights flash on, and the motors begin to whirl. We see the phenomenon, but we do not know the underlying forces until by investigation we have fitted ourselves and acquired the knowledge. The very same conditions obtain in the Desire World to an even greater degree, because of the superlative plasticity of the desire stuff and the ease wherewith it is changed into different forms by the ensouling Spirit, whether superhuman or elemental. On that account even the person who has voluntary control of his spiritual sight requires a thorough training and must cultivate the faculty of seeing beyond the form to the ensouling life. It is only when he has cultivated that faculty that he is free from delusion and able to distinguish the true nature and status of all the things and beings which he sees in the invisible world. To do this in the most efficient manner and have the certainty of escaping illusion it is necessary to cultivate the grade of spiritual sight pertaining to the concrete region of the World of Thought, where the archetypes which are the ensouling life can be seen. 
 
 To make this clear we may call to mind that the physical sight varies so that there are certain beings which see perfectly under conditions which to us appear as darkness. For instance owls and bats. The eyes of fishes are constructed so that they see under water. The organs of spiritual sight are also capable of being attuned to different vibrations. Each rate of vibration produces a different grade of sight and opens up to the investigator a certain realm of nature. By an exceedingly slight extension of the physical sight the ethers and the beings therein become plainly visible. This grade of sight may be likened to the X-ray, for objects which appear solid to the physical sight are most easily penetrated by the etheric sight or vision. 
 
-[203] 
-
 When one looks at a house with etheric vision he sees right through the wall. If he wants to find out what is taking place in a room on the farther side of the house from where he stands, the etheric rays from his eyes to the object in that room pierce the walls and all other intervening objects, and he sees them just as plainly as if the whole house were made of glass. This grade of sight may be applied to the human body, and it is possible with its help to look through the whole organic structure and watch its functions in actual operation. The writer also had the idea until recently that the common trick of reading a letter which is enclosed in a sealed envelope, perhaps in the pocket of another person was done in the same manner. However, stimulated by the articles on psychometry in our magazine, he one day took a letter addressed to himself and tried the experiment, which succeeded beautifully, showing the person who had written the letter sitting in his room, and giving the whole contents very nicely. Immediately afterward he tried another letter with etheric sight to ascertain how the result would differ, and it was then found to be very difficult to disentangle the writing on account of the letter having been folded up. There seemed to be a conglomerate mass of ink streaks, and it required the use of the next higher grade of sight which penetrates to the Desire World before the letter could be distinguished and read. 
-
-[204] 
 
 When one looks at an object with the sight necessary to see the Desire World, even the most solid objects are also seen through and through, but with the difference that one sees them as it were from all directions. Thought forms such as spoken of by the enquirer would probably be clothed in this material because no thought form can compel action save through the medium of this force--matter which we call desire stuff, and no one who has not made a study of it can guess how many people are actuated by thought forms which they think are their own, but which as a matter of fact, originated in the brain of some one else. It is in this way that what we call public opinion is formed. Strong thinkers who have certain definite ideas about a particular thing radiate those thought forms from themselves, and others less positive and not antagonistic to the view expressed in these wandering thought forms catch them up and think that these thoughts have originated within themselves. Thus gradually the sentiment grows until that which was originally started by one man has been accepted by a large part of the community. 
 
 To learn positively the origin of such stray thought forms would necessitate examination by means of the grade of sight necessary to function in the Region of Concrete Thought where the idea first took shape. There all solid objects appear as vacuous cavities from which a basic keynote is continually sounded and thus whoever sees a thing also hears from itself 
 
-[205] 
-
 the whole history of its being. Thought forms which have not yet crystallized into physical action or being do not present themselves to the observer as a cavity, but there thoughts are not silent. They speak in a language which is unmistakable and convey far more accurately than words can, what is their intent until the force which their originator expended to bring them into being has been spent. As they sing in the key peculiar to the person who gave them birth it is a comparatively easy matter for the trained occultist to trace them to their source. 
 
 Regarding section "c" of your question is it not quite clear what you mean. If you want to know how we can distinguish the thoughts of objective spiritual entities from our own thoughts, the foregoing method may be applied to all beings without any distinction whatever. But if you mean how can we distinguish objective spiritual entities from thought forms, the answer is that thought forms lack spontaneity. They are more or less like automatons. They move and act in one direction only, according to the will of the thinker which is the motive power within them. The actions of objective spiritual entities are spontaneous and changeable in the same way that our actions or tactics are, whenever we wish or it seems desirable to change them. 
 
-[206] 
-
-THE FOURTH DIMENSION
-Question No. 65. 
+### <h3 id="question-65">Question No. 65: THE FOURTH DIMENSION</h3>
+ 
 It is stated in the Cosmo, page 126, that the faculty of space perception is connected with the delicate adjustment of the three semicircular canals in the ear, pointing in the three dimensions of space. Logical thought and mathematical ability are in proportion to the accuracy of their adjustment. 
 
 It seems that the perception of the fourth dimension has been arrived at by mathematicians of a very high degree. Can you tell me if there is any change in the arrangement of these semi-circular canals, or what is the process that leads up to the fourth dimension consciousness? 
 
 It would also seem that nature spirits and elementals have this fourth dimensional consciousness which is a higher degree of consciousness than that which we now possess, and possibly the bee or the Elberfeld horses. Will you please supply the missing link? What makes man or humanity superior to these beings, and what is the arrangement of these semi-circular canals in the case of the bees and these gifted horses? 
 
-Answer: To the majority of mankind figures are exceedingly tedious, for we are used to living an outward life among other people and friends where we give expression to our desires, feelings, and emotions. The more these are stirred the more interesting we find life, and contrariwise, the things 
-
-[207] 
-
-that do not cause a ripple of emotion are held to be dull and uninteresting. Therefore, the majority do not take to mathematics or anything else that will sharpen the mind without at the same time arousing the emotional nature. 
+Answer: To the majority of mankind figures are exceedingly tedious, for we are used to living an outward life among other people and friends where we give expression to our desires, feelings, and emotions. The more these are stirred the more interesting we find life, and contrariwise, the things that do not cause a ripple of emotion are held to be dull and uninteresting. Therefore, the majority do not take to mathematics or anything else that will sharpen the mind without at the same time arousing the emotional nature. 
 
 We know that God geometrizes, that all the processes of nature are founded upon systematic calculation which argues the great Master-mind. When God as the great Architect of the universe has built the whole world upon mathematical lines, we may know that consciously or unconsciously the mathematician is reaching out in a direction in which eventually he will find himself face to face with God, and this in itself argues an expansion of consciousness. When we consider the fact that each of the semi-circular canals is in fact a supersensitive spirit level adjusted so as to indicate to our consciousness the motion of our body through the length, breadth, or depth of space we may easily understand that their actual adjustment is necessary to space perception. If they are true, then the space perception of the person is perfect, and if he takes up the study of mathematics, then his theories will agree with what he sees in the world as actual facts. This in some high minds engenders an actual love of figures so that they may rest such a mind instead of being a source of fatigue as they are to most people. The love of figures may arouse in such a person the latent spiritual faculties, but not through any change in the semi-circular canals. These are bony structures and not easily changed during the life time. There is no doubt, however, that one who has a taste for music or mathematics will later build these canals more accurately in the Second Heaven between death and a new birth. 
 
@@ -1446,43 +1118,25 @@ The undines which live in the water and the sylphs of the air are also subject t
 
 The consciousness of the gnomes is too dull to take the initiative, but they not infrequently become accomplices of the other nature spirits by opening passages which favor explosions in the rock. However, this has no connection at all with the Elberfeld horses or kindred animal prodigies. These are the wards of their respective Group Spirits and it is probably the last time they will seek embodiment in an animal form. When that happens, such Spirits are relegated to Chaos where they must wait during the Cosmic night for their less gifted brothers until the time when it is possible to begin their human evolution in the Jupiter Period. 
 
-[210] 
+### <h3 id="question-66">Question No. 66: THE MEMORY OF NATURE</h3>
 
-THE MEMORY OF NATURE
-Question No. 66. 
 How do the records in the Memory of Nature appear to the spiritual vision? That is, how are the acts of a person in a former life represented? 
 
 Answer: That depends upon where you read the Memory of Nature. There are, in the reflecting ether, pictures of all that has happened in the world, at least several hundred years back, perhaps in some cases much more. And they appear almost as the pictures on a screen, with this difference, that the scene shifts backward. Thus if we wish to study the life of Luther or Calvin in the Memory of nature we may by concentration call up any certain points in their lives and start there, and we may hold that scene wherewith we start, or any other scene, as long as we desire, by simply willing so to do. However, we shall find that the picture rolls backward, so if we start with the scene where Luther is said to have thrown the ink bottle against the wall to oust his Satanic Majesty, and if we want to know what happened after that, we shall find ourselves foiled in our purpose. We will then have presented to us all the scenes that went before, and in order to get the information we want we must start at a point later in time than that event. Then the scenes will roll backward in orderly sequence until we come to the episode with the ink bottle, and we may later reconstruct the whole picture in the progressional manner which obtains in ordinary every day physical life. 
 
-[211] 
-
 But if we read in the Memory of Nature in the next higher realm where it is kept, namely, the highest subdivision of the Region of Concrete Thought, we obtain a vastly different view in quite another manner. By concentrating our thought upon Luther we shall there call up in our mind at one flash the whole record of his life. There will be neither beginning nor end, but we shall obtain at once the aroma or essence of his whole existence. Neither will this picture or thought or knowledge be outside ourselves, so that we stand as spectators and look at the life of Luther, but the picture will be, so to speak, within ourselves, and we shall feel ourselves as if we were actually Luther. This picture will speak to our inner consciousness and give us a thorough understanding of his life and purpose, not to be gained by an exterior view. We shall know whatever he knew, for the time being. We shall feel whatever he felt, and though there will be no audible word spoken, we shall obtain a perfect understanding of what the man was from the cradle to the grave. Every thought, no matter how secret, and every act, no matter how well concealed, will be known to us with all the motives and everything that led up to the event, and thus we shall obtain a most thorough understanding of the life of Luther, so intimate that probably not he himself during life, realized himself as perfectly as we shall then. 
-
-[212] 
 
 Now it would seem that having obtained such an intimate and thorough knowledge of Luther, Calvin, Napoleon, or any other man or event in history, or before the date when history was written, we should be able to write books that would explain all these things in the most wonderful manner. Anyone who has tried to read in the Memory of Nature as kept in that high region will testify with the writer that they have felt just that way when they left their investigation and returned to their ordinary brain consciousness. But, alas and alack! Thought must be manifested through the brain and to be intelligible to others it must be translated into sentences consecutively unfolding the ideas to be conveyed, and no one who has not felt this limitation on coming back from the Heaven World with such valuable information can realize the chagrin and despair which one feels when he endeavors to do this. In that highest subdivision of the Region of Concrete Thought, all things are included in an eternal here and now; there is neither time nor space, beginning nor end, and to arrange that which is there seen, heard, and felt, into consecutively arranged ideas is next to impossible. It simply seems to refuse to filter through the brain. We who have seen and heard know what we have seen and what we have heard, but we are unable to utter it. There is no human language or tongue that can translate these things in an adequate manner and give to another anything but the faintest feeling, the most attenuated shadow of the glorious reality. 
 
 There is still another record of the Memory of Nature in the World of Life Spirit, which is said by the Elder Brothers of the Rosicrucians to cover events from the earliest dawn of our present manifestation and to be so sublime and wonderful that we have no word that will give even the slightest idea thereof. There are a number of misguided people who deceive themselves and others into thinking that they are able to read this record, but the fact is, according to the Elder Brothers, that only they and other hierarchs of the other Mystery Schools, together with the Adepts who have graduated from these institutions, are able to do so. 
 
-[214] 
+<h2 id="section-6">SECTION VI: QUESTIONS DEALING WITH INITIATION</h2>
 
-
-
-
-[215] 
-
-SECTION VI
-
-QUESTIONS DEALING WITH INITIATION
-[216] 
-
-THE PLANE OF INITIATION
-Question No. 67. 
+### <h3 id="question-67">Question No. 67: THE PLANE OF INITIATION</h3>
+ 
 Is it possible to be initiated on another plane without going through a corresponding initiation on the physical plane? If so, should the memory of the initiation on first waking be an indication that one has taken place, or would it be only a dream? 
 
 Answer: Mankind as a whole is progressing by a process which we call evolution from impotence to omnipotence. During this pilgrimage we, who were once altogether spiritual, have become gradually crystallized into the various vehicles we now possess. In those by-gone days we were all-conscious upon the spiritual plane, and though we had in time become enmeshed in a physical body, we knew it not. Gradually, however, some became conscious of the physical body. As the Bible says, "They saw themselves, their eyes were opened and they saw that they were naked." These pioneers who had thus been initiated into the mystery of the physical body commenced to go around telling the others, "We have a body." At first, of course there were very few who would believe them, but gradually a larger number became initiated into the mystery of the body. They received their physical sight, and saw something which was not patent to their brethren. Finally the whole of humanity had evolved the physical senses, and became capable of cognizing the material world in which we now live. 
-
-[217] 
 
 Today it is the other way. Humanity has become so engrossed in the material world that the great majority are unaware that they have finer vehicles, and that there is a spiritual world which may be cognized by a sixth sense which has been evolved by a few, but is latent in the majority of people. These pioneers who by the unfoldment of a sixth sense have become initiated into the mystery of the soul are now busy going about telling to others the good news that we have a soul and a latent sense whereby to perceive it. 
 
@@ -1490,50 +1144,36 @@ From this explanation it should be clear that initiation consists partly of help
 
 That is true at least of the spiritual process of initiation. In that far bygone Lemurian Epoch when the first pioneers discovered that we have a body, it would not have helped anyone not ready to have gone with them through a ceremony no matter how elaborate; the uplift to be obtained by initiation was the opening of the eyes and the perception of the physical body in the physical world. Similarly, it will help no one to go through ceremonies from morning until night and study this man's book or that man's method. The object is to evolve that sixth sense whereby the invisible world and the invisible vehicles of men are perceived. This is a process of slow growth; it involves a becoming of something that the person is not now. 
 
-[218] 
-
 The method of awakening this latent sense best suited to the Western world has been given in The Rosicrucian Cosmo-Conception under the caption The Method of Acquiring First-hand Knowledge, and also in the pamphlet called Spiritual Sight and Insight; Its Culture, Control, and Legitimate Use. When the physical life lived by any person has fitted him for initiation, the Teacher always appears to him, while he is wide awake and in full physical consciousness. The candidate is told that he has evolved a vehicle necessary to function in the invisible world, and is then offered the help to make the first or "initial" transition safely. This is an offer which he may refuse if he will, and no one of the White Brothers would urge him against his will, should he decide not to go. Certain physical preparations are necessary, and throughout the whole process, from the time he leaves his body until he returns, the candidate remains in full consciousness and has an uninterrupted memory of all that takes place. Thus it is impossible for any one who has really gone through the process of initiation to be in doubt of it or think that it may have been a dream. 
 
-[219] 
+### <h3 id="question-68">Question No. 68: THE TESTS OF INITIATION</h3>
 
-THE TESTS OF INITIATION
-Question No. 68. 
 What are the tests of initiation, which it is said the candidate must pass before he is initiated? 
 
 Answer: The candidate for initiation very often does not know that he is a candidate. Usually he is simply living the spiritual life of service to his fellow men because that is the only life that appeals to him, and he has no ulterior thought or object in so doing. But, nevertheless, he is being tested and tried all the time unconsciously to himself for that is part of the process. No candidate is ever taken into an initiation chamber and tried or tested. The tests come in the daily life and in the small things which are seemingly very unimportant, but really are of prime significance. If a man cannot be faithful in little things, how could he ever be expected to be faithful in the great? Furthermore, the Elder Brothers of humanity who have charge of this work with respect to their younger brothers, are always sure to pick out his most vulnerable point, because if he is tried, tempted, and falls, this serves to call his attention to the weakness in his character. Thus he has an opportunity of correcting it which he would not have if temptation were not placed before him. 
 
-[220] 
-
 Thus the tests are not wholly made for the purpose of seeing whether he would keep the trust, but also for the purpose of giving him the chance to strengthen his weak points. The tests are therefore never the same in the case of any two candidates, for what would be a temptation to one would pass the other absolutely without making any impression upon him whatever. By the life of unselfish service, and through the strength gained by passing the various tests, the candidate weaves the golden wedding garment of the soul body which prepares him to enter the invisible worlds and the process of initiation consists then in simply showing him how to make use of the power which he has accumulated within himself by his own work. No one can initiate anyone else unless he has the power within, any more than an empty shell can be exploded. 
 
-CREATING A NEW BODY
-Question No. 69. 
+### <h3 id="question-69">Question No. 69: CREATING A NEW BODY</h3>
+ 
 How can an initiate create a new adult body ready to wear before he relinquishes his old one? 
 
 Answer: You will understand in the first place that it is not everyone who has just become aware of the invisible worlds and perhaps learned to function in the soul body that is capable of performing this feat. This requires vastly more spiritual development, and only those who are very highly developed at our present time are able to perform the feat. However, the method is said to be as follows: 
-
-[221] 
 
 When food is taken into the body of anyone, be he Adept or ignoramus, the law of assimilation is that he must first overcome each particle and conform it to himself. He must subdue and conquer the individual cell life before it can become part of his body. When this has been done, the cell will stay with him for a longer or shorter time according to the constitution and the place in evolution of the life that dwells within it. The cell composed of tissue that has once been incorporated in an animal body and has been interpenetrated by a desire body has the most evolved life. Therefore, this life quickly reasserts itself and leaves the body into which it has been assimilated. 
 
 Hence one who lives upon a flesh diet must replenish his food supply very often. Such material would therefore be unsuitable for the purpose of building a body that has to wait for a while before the Adept enters it. Food consisting of vegetables, fruits, and nuts, particularly when these are ripe and fresh, is interpenetrated by a great deal of the ether which composes the vital body of the plant. They are much easier to subdue and incorporate into the polity of body. Also, they stay longer there before the individual cell life asserts itself. Therefore the Adept who wishes to build a body ready to wear before he leaves the old one, naturally builds it from fresh vegetables, fruits, and nuts, taking them into the body which he uses daily where they become subjected to his will--a part of himself. 
 
-[222] 
-
 The soul body of such a man is naturally very large and very powerful. He takes a part of it, and makes a mold or a matrix into which he may build each day particles superfluous to the nourishment of the body he is using. Thus by degrees, having assimilated a considerable surplus of new material, he may also draw upon the vehicle he is wearing for material that can be incorporated into the new body. Thus, in the course of time he gradually transmutes one body into the other. When the point is reached where emaciation of the old body would be observed by the outside world and cause comment, he will have balanced matters so that the new body is ready to wear. He can step out of the old and into the new. But he does not do that merely for the purpose of living on in the same community. It is possible for him by reason of his great knowledge to use the same body for many years in such a manner that it would seem still young, for there is no wear and tear upon it such as we ordinary mortals cause by our passions, emotions, and desires. However, when he does create a new body, it is always, as far as the writer knows, for the purpose of leaving that environment and taking up his work in a new. 
 
 It is for reason of this fact that we hear in history of men like Cagliostro, St. Germain, and others who one day appeared in a certain environment, took up an important work, and then disappeared. nobody knew whence they had come or whither they had gone, but everyone who knew these people were ready to testify to their remarkable qualities, whether for the purpose of vilification or praise. 
-
-[223] 
 
 It is taught by the Elder Brothers that Christian Rosenkreuz has a physical body, or perhaps he has had a series of bodies which he has worn continually since the order was founded in the fourteenth Century. But though the writer has spoken to Lay Brothers of high degree, none has ever admitted that he has seen Christian Rosenkreuz. We all understand that he is the thirteenth member of the Order, and he is felt at meetings in the temple as a presence, but is neither seen or heard, so far as anyone whom the writer had dared to question, knows. 
 
 The manner of the Elder Brothers when speaking of their illustrious head has been one of reticence, and it would seem undue inquisitiveness to ask anything further than they are prepared to tell. It is known, however, that his work is with the governments of the world. And though we are unable to point to any character on the world stage now who may be this great Spirit we are certain he is there and taking his proper part. It has been said that he wore the garment of a lady of the French Court prior to the revolution and worked hard and earnestly to prevent that impending catastrophe, though without success. Although we believe this is true, it is mere hearsay. Were we to point him out at the present time we should rather look for him as the power behind the throne somewhere rather than the actual incumbent of one of the seats of power in the world today. 
 
-[224] 
+### <h3 id="question-70">Question No. 70: MASTERS AND INITIATION</h3>
 
-MASTERS AND INITIATION
-Question No. 70.
 Why do the occultists speak to us of masters and initiations, while other schools--mystics--seem to teach that man may teach himself and reach God without the necessity of initiation and masters? Cannot man reach the consciousness of the "I" without these things? Do the initiations refer solely to the unfoldment of latent powers in man? Are there initiations in mysticism? Are they the same as in occultism? 
 
 Answer: If everybody was born with the same temperament it would be necessary to have only one path for them. Everybody would need the same experiences in order to raise his consciousness to union with God. However, as every one is fundamentally different from all others, the experiences necessarily differ and certain great lines of demarcation are necessary in order to obtain the desired results for all. Therefore, strictly speaking, there are as many paths to God as there are separate spirits in evolution. 
@@ -1542,19 +1182,13 @@ Broadly speaking, there are two: one which leads to union by faith, and the othe
 
 Likewise, also in the mystic life. There are some who have progressed farther than others, who have visited the land of the soul and who have attained the mystic union with God, and their help is of inestimable value to those who are endeavoring to tread the path. Having gone before, they are able to direct the seeker intelligently, though of course he (the seeker) must walk every step of the way. The steps upon the path are commonly known as initiation. An illustration will help to make the matter clear. Let us suppose that God is at the pinnacle of a very high mountain, and that humanity is scattered over the plain below. From the foot of the mountain a spiral circles toward the goal at the top. This is the path of evolution followed by a great majority of mankind, who thus gradually climb the steep sides toward the top without perceptible effort. However, there is also a stair leading straight from the bottom to the summit. This is the path of Initiation which is climbed only by great and conscious effort. 
 
-[226] 
-
 The spiral path of evolution goes past the stairway of initiation at different points. Thus some who are still upon the path of evolution, the pioneers, for instance, may be more advanced toward truth than those who have advanced along the path of Initiation from a lower spiral. But the latter, of course, will soon attain a higher point if they keep on. The more backward races of the East enter the path of initiation at a lower point than that already attained through evolution by the pioneers of the West. Being younger, and therefore more feeble, it is really more necessary for them to have a Master who can help them over the first part of the rugged road, than it is for those who have attained to the evolutionary state common among the Western people. Also, the higher we climb, either by evolution or initiation, the clearer we see the light which shines upon the top, which is God, the more we are strengthened thereby, and the better we are fitted to walk and climb alone. 
 
 Therefore, after a time, it is unnecessary to have Masters to help us, and their place is then taken by the Elder Brothers, known in the West as friends and advisers. The Master of the East urges his pupil, praises him when he does well, punishes him when he has been neglectful. In the West, the Elder Brothers never urge, never praise, and never blame. The urge must come from within the pupil, and they teach him to judge himself. At certain stages upon the path they require him to write impartial opinions of his own conduct, so that it may be known how far he has learned to judge correctly. Thus in every respect they educate him to stand upon his own feet without leaning on them or anyone else. For the higher we attain, the greater would be the disaster of a fall; and only as we cultivate equipoise and self-reliance coupled with zeal of devotion, are we really fitted to go on. 
 
-[227] 
-
 Now with respect to these initiations: There is no ceremony of any kind connected with the true initiation. The elaborate ceremonial of pseudo-occult orders as today seen in the visible world, of fraternal orders, or of churches, does not in any particular resemble the true initiation. That does not take place in the physical realm at all, and there is absolutely no ceremony connected with it. Neither does it consist of a ritual, read by anyone else, nor of lectures or preaching or anything of that nature. Not a single word is spoken during the process. That I know to be true in the lower degrees, which I myself has passed, and it would be contrary to reason to suppose such means should be used in the higher degrees. Furthermore, having had conversations with the Lay Brothers who have passed into higher degrees, the truth of this supposition is corroborated by their word. 
 
 In this fact you have a very good reason why the secrets of true initiation cannot be revealed. It is not an outward ceremonial but an inward experience. The Initiator, having evolved the external, picture consciousness of the Jupiter Period, fixes his attention upon certain cosmic facts, and the candidate, who has become fitted for initiation by evolving within himself certain powers, (which are still latent, however), is like a tuning fork of identical pitch with the vibration 
-
-[228] 
 
 of the ideas sent out by the Initiator in pictures. Therefore, he not only sees the pictures--anyone might see them--but he is able to respond to the vibration. Vibrating to the ideal presented by the Initiator, he has the latent power within him then converted into dynamic energy and his consciousness lifted to the next step upon the ladder of initiation. 
 
@@ -1562,51 +1196,31 @@ This may sound abstruse upon first reading, but if you will read and re-read unt
 
 Now with respect to the difference between initiation along the occult lines, and those of the mystic. You will find from what has been said from the beginning, that they are, and must be, exactly opposite. The occultist, who takes his initiation from the intellectual side is shown the connection of spiritual causes with material facts, while the consciousness of the mystic, who has received the spiritual facts is directed to their connection with the effects of the material plane. All this with the view of blending both sides and developing man normally. The Rosicrucian initiations, being designed for the present pioneers of humanity, endeavor to blend the mystic with the occult. However, as the Western world has developed the intellect to the detriment of the feelings, a little more stress is laid perhaps upon the mystic side. Here the Elder Brothers always direct their pupils to look to Christ, but though the genuine Eastern Masters are as devoted in the service of humanity, they cannot thus teach their pupils, because from the standpoint of the Eastern aspirant the Christ Light is yet invisible. Hence they are forced to teach their charges to do exactly as they say, and in the course of time when they have ascended to our level Christ will appear to them, also. 
 
-[230] 
+### <h3 id="question-71">Question No. 71: WHY MOST INITIATES ARE MEN</h3>
 
-WHY MOST INITIATES ARE MEN
-Question No. 71. 
 If woman, possessing the positive vital body, reaches the point in evolution where she can have the choice of body and she selects the positive physical body, where does the negative side come in as a balance? 
 
 Answer: To understand the point you wish to have cleared up, you must first realize that man and woman are appellations to be applied only to the physical body, for sex is not expressed in the same manner in the higher vehicles. Fix also firmly in your mind that the Spirit which manifests in the bodies of the two sexes which we call male and female is itself sexless. However, two of the Spirit's attributes are particularly in evidence when it creates its vehicles: Will and Imagination, positive and negative, and they manifest as male and female respectively when the Spirit reaches the Physical World and builds the body in which it will function under the divine guidance of the Creative Hierarchies. The Spirit expresses alternately, will and imagination, so that it may be evenly developed, and therefore it manifests in male and female bodies. Being imperfect, the balance is struck for it by giving it a positive physical body together with a negative vital body, and vice versa. 
 
-[231] 
-
 However, when the time comes that the Spirit has evolved through aeons in school of life and learned its lessons to such an extent that it becomes fairly self-controlled or balanced, it is no longer necessary to secure the full equilibrium by means of opposite polarity in the body. Therefore the Spirit can and does take to itself both a positive vital and a positive physical body. This is the case with the great majority of initiates except where for special reasons they find it advantageous to make use of a negative physical body. The vital body, however, in every initiate is always positively polarized, as that makes it a better and more receptive instrument for the vibrations which come from the Life Spirit, whose counterpart the vital body is. 
 
-[232] 
+<h2 id="section-7">SECTION VII: QUESTIONS DEALING WITH THE BIBLE</h2>
 
-
-
-
-[233] 
-
-SECTION VII
-
-QUESTIONS DEALING WITH THE BIBLE 
-[234] 
-
-NEW AND OLD TESTAMENT TEACHINGS CONCERNING JEHOVAH
-Question No. 72. 
+### <h3 id="question-72">Question No. 72: NEW AND OLD TESTAMENT TEACHINGS CONCERNING JEHOVAH</h3>
+ 
 The teaching of the New Testament as touching the Holy Spirit, the Comforter, so winsome and so gracious, makes it difficult to identify the Holy Spirit with the vengeful Jehovah of the Old Testament. How is this to be reconciled? 
 
 Answer: It was the mission of Jehovah and His Angels to multiply whatever is upon the earth. In other words, He was the giver of children. Take the announcement of the angel to Mary: "The Holy Spirit shall come upon you and you shall conceive." There you have already a connecting link; but just as there are two sides to every question, so there are two sides also to the Holy Spirit. One phase of His work is done from the outside as a giver of law, and law when it is applied without, is a taskmaster that drives us to do this or that or prohibits us from doing other things. It demands an eye for an eye and a tooth for a tooth. There is Jehovah, the author of the law; but when the time comes that we have received the law within and are not driven from without, the taskmaster becomes the Comforter. The whole universe is governed by law. Everything in the world rests upon law, and it is our safeguard as well as our taskmaster. 
-
-[235] 
 
 In the morning we leave our homes without concern, depending upon the law of gravity to keep them in place during our absence. We know that upon our return we shall find them where we have left them, although our planet is rushing along in its orbit at the rate of 65,000 miles per hour. We rely upon the expansion of gases for our motive power. In fact, everything in nature is based upon laws, and whether we know it or not, we are their slaves until by knowledge we learn to use them, to cooperate with them, and thus make them do our bidding and save us labor. 
 
 Similarly it is with the moral laws given by Jehovah upon Mt. Sinai. They were designed to bring us to Christ, and when Christ is born within, the law of the Holy Spirit also enters in. Man then is symbolized by the Ark that stood in the Holy of Holies and had within it the tables of the law. You will notice that the Comforter who came to the men of old was not an outside Comforter, but one who worked within, one who entered into them and became a part of them. When the Spirit of Law, the Holy Spirit, enters into us, He is the Comforter, because we do willingly the things which are prompted by this inner urge, while we resented and begrudged doing the bidding of the exterior taskmaster. 
 
-[236] 
-
-RAISING THE DEAD
-Question No. 73. 
+### <h3 id="question-73">Question No. 73: RAISING THE DEAD</h3>
+ 
 In Questions And Answers you state that Christ did not raise the dead. In St. John, Chapter two, verse 11, Christ said, "Our friend Lazarus sleepeth," and then in the 14th verse Jesus said unto them plainly, "Lazarus is dead." It seems as if the Christ must have been mistaken in the first place, according to this. Which is right? Again in St. Matthew, the 10th Chapter, 8th verse, the apostles were told to raise the dead, etc. 
 
 Answer: Most of the trouble and misinterpretation of what the Gospels really mean comes from the great misunderstanding of most people who believe that they are intended to relate the life story of an individual named Jesus Christ. It is perfectly true that they have been patterned after the life of Jesus, and it speaks for his greatness that his life should be taken as a pattern by the recorders of four different Schools of Initiation. However, what these men really wanted to write was the formulae of initiation, and the four Gospels therefore embody, hidden beneath an outer coating of blinds and nonessentials, the formulae of initiation of four different Mystery Schools. 
-
-[237] 
 
 The instance mentioned, the raising of Lazarus, or the widow's son of Naim, does not involve calling a departed Spirit back to its discarded vehicle. That is not done. "When once the silver cord is loosed the Spirit returns to God who gave it and the dust whence it was taken." When a candidate comes to a point where he is to be raised up to a higher level and a greater power than he possessed before, then he must first die to things that are past and behind him. The path becomes narrower and narrower with every step, and he cannot enter into the straight gate which leads to a higher realm in nature until he has shed the body that correlated him to the next lower realm. Therefore, in that sense it is said of him at the moment when he is ready for the transition that he is dead. 
 
@@ -1614,15 +1228,11 @@ If you will read Freemasonry And Catholicism, you will find that Lazarus had pre
 
 In a similar manner, and upon a smaller scale, the Apostles were given power to raise the dead. To the babes they gave only milk, but to those who were strong they gave the meat of the doctrine, and instructed them in the mysteries, until they had reached a certain point where, by living the life, they died and were raised up to a more abundant life in a larger sphere of usefulness. However, as already said, these deaths did not involve what we usually call the death of the body. 
 
-[238] 
-
-NATURAL RICHES AND SPIRITUALITY
-Question No. 74. 
+### <h3 id="question-74">Question No. 74: NATURAL RICHES AND SPIRITUALITY
+ 
 The Bible says: "Blessed are the poor for theirs is the kingdom of heaven." It also states that it is more difficult for a rich man to enter heaven than for a camel to go through the eye of a needle. Many other passages seem to show that poverty is a blessing and that riches are a curse. Why then to the churches solicit money and acquire riches, and why is the Rosicrucian Fellowship starting to do the same? 
 
 Answer: We are well aware that a superficial reading of the Bible may and does give a semblance of justification for ideas as set forth in the above question, but even by applying common sense apart from Scripture it is self evident that poverty cannot be regarded as a virtue in itself. Neither are riches as such to be classed as a vice. The passage quoted from Luke: "Blessed are the poor for theirs is the Kingdom of God," requires a qualification. This Matthew gives when he writes: "Blessed are the poor in spirit for theirs if the Kingdom of Heaven." 
-
-[239] 
 
 In the beginning mankind was set on the earth to till it, make it fruitful, to have dominion over everything there. In other words, they were to labor, and naturally the fruits of their labor must accrue. As time went on possessions had accumulated and also man's desire for possessions. Therefore instead of man having dominion over the world and over things therein, as Emerson said: "Things are in the saddle and ride humanity." Many and many a man thinks that he owns a store, a business, or factory, but if he were to sit down and take actual and unbiased account of his things he would find that the factory and the store own him, that he is a slave to his possessions, that they demand his time and the joy of life which might otherwise be his. He lives in constant fear that he may be robbed, or that a business failure may take away his possessions. He is never at peace, always afraid because of his riches. Such a condition is all too common, and under that condition riches are certainly a curse. 
 
@@ -1630,53 +1240,39 @@ That man, however, is not poor in spirit. Another may legally own a factory, giv
 
 Similarly, churches may acquire great riches on earth and gain treasure in heaven if they use them well for the alleviation of suffering. That does not mean either, that we should give to everyone indiscriminately. Discrimination is certainly a great factor in soul growth, and we have every precedence and incentive to use that faculty in giving as well as in all other departments of life. Indiscriminate giving often makes paupers of people who would otherwise be useful. Certainly the Bible is not so illogical that it would hold that poverty in itself is a virtue, for then we could all lead a life of idleness, which attitude is unfortunately all too common among people who profess to follow the higher life. As a matter of fact, many poor people may have to give an account of the reason they are poor. Opportunities come to each and every one of us, and if we have failed to grasp them, if we have been spendthrifts of time and of the little material means we have had and thereby prevented ourselves from getting more wherewith to do good, we shall certainly have to render an account for our actions. On the other hand, the rich man who has used his riches well may be commended for the way he has conducted his Father's business. 
 
-[241] 
-
 As for the reference to The Rosicrucian Fellowship, it is scarcely worth answering, for, of course, anyone who uses discrimination knows that The Rosicrucian Fellowship as such has not been soliciting funds for the Ecclesia or anything else. Certain members within the Fellowship have started an agitation for funds, and there is no reason why that may not go on among themselves. The paraphernalia wherewith to do the work has to be obtained, and if the members feel that need, and want to supply it, it is certainly their privilege. The writer has absolutely no right to interfere. Therefore, the letters are published and the opinions that are expressed are in order. Only if instigated in any sense by the writer, would they be out of place and detrimental to the work of the Fellowship, for, as is often said, it is not permitted to him to solicit contributions for anything whatever. 
 
-RESURRECTION OF THE BODY
-Question No. 75. 
+### <h3 id="question-75">Question No. 75: RESURRECTION OF THE BODY</h3>
+ 
 What is meant in the Apostles' Creed and in the Bible by the resurrection of the body? 
 
 Answer: The Apostles' Creed was not composed until centuries after the Apostles had passed away, and then it was taken to embody what they had believed. Neither they nor the Bible teach the resurrection of the body. That phrase is not to be found in the Good Book at all. In King James' version we read (Job 19:26) that "though after my skin, worms destroy this body, yet in my flesh shall I see God;" and this passage is the chief reliance of those who endeavor to establish this absurd doctrine. However, the translators appointed by King James were poor Hebrew scholars, and most of them died before the translation was completed. In the Revised Version you find another interpretation as follows: 
 
 "And after my skin, even this body is destroyed; then without my flesh shall I see God." Flesh and blood cannot inherit the Kingdom of God; therefore, what in the world would be the use of having a body such as we have now? Furthermore, this body must be perpetuated at the present time, and we are told that in the resurrection there shall be neither marrying nor giving in marriage--another argument which shows that a vehicle of another kind from the flesh will be used. Besides, it is a well-known, well-established scientific fact that the atoms in our bodies are constantly coming and going. Now, if there is to be a resurrection of the body, which sets of atoms is it to be that shall come forth in this resurrected body? Or if every atom that ever was in our body from birth to death is to be in that resurrected body, would it not be an enormous conglomeration, since we should then have immense bodies composed of layers? It would in fact be a scientific conundrum. Now, as Paul says, the seed is put in the ground each time to gather a new body. (See I Cor., 15). 
 
-[243] 
-
-THE IMMACULATE CONCEPTION
-Question No. 76. 
+### <h3 id="question-76">Question No. 76: THE IMMACULATE CONCEPTION</h3>
+ 
 On page 472 of The Rosicrucian Cosmo-Conception is the following paragraph: "The vow of absolute celibacy applies to the greater initiations only, and even then a single act of fecundation may sometimes be necessary, as an act of sacrifice, as was the case of providing the body for Christ." The Christian Religion teaches that Jesus, the Christ, was born of a virgin, which is otherwise expressed as an Immaculate Conception. Are such teachings, and in its strictest adherence to the definition "divine," is the birth of Jesus so considered by the Rosicrucians? 
 
 Answer: According to the teachings of the Rosicrucians it is necessary to distinguish very sharply between the Christ and Jesus. When we search the Memory of Nature we find that the Spirit born into the body of Jesus was a very advanced Ego, which had reached a most sublime spirituality through many lives of holy, self-sacrificing service, and it is possible to trace the previous births of that Ego as easily as we may seek out the past experiences of any other entity belonging to the human race. However, we shall search in vain for any previous embodiment of the Christ because He does not belong to our evolution at all. He was the highest Initiate of the Sun Period, and the ordinary humanity of that far distant past have now evolved to a state of high spirituality. We may call them Archangels. 
-
-[244] 
 
 Until 2,000 years ago the earth was ruled with an iron hand by Jehovah and His Angels, who were the evolutionary product of a past period. Under His regime the fear of the law was pitted against the desires of the flesh. Every transgression required an eye for an eye, a tooth for a tooth. This, however, left no scope for the evolution of love and altruism. "Perfect love casteth out all fear," and Christ came into the world to save humanity from law and egoism by cultivation of love and altruism. 
 
 However, it is an inexorable law in nature that no one can build a body of material which, by evolution, he has not learned to manipulate, and in the far distant past, when the Archangels were at the human stage, the world which they inhabited was made of desire stuff. Hence, as our dense physical body is made from the chemical constituents of our present earth, so the densest body of an Archangel is made of desire stuff. For many centuries before He actually came into our midst, the Christ Spirit worked on the earth from the outside, to purify the earth's desire body that we might gain materials wherefrom to build purer and better desires and emotions. Obviously this could be done much better by an indwelling Spirit if a way could be provided to secure for it an entrance into the earth. It was the mission of Joseph, Mary, and Jesus to provide this vehicle, consisting of a dense and vital body, to which the desire body and higher vehicles of the Christ could link themselves for a brief period while He accomplished His mission. 
 
-[245] 
-
 When the generative act is performed in a low, brutal manner, when it is tainted with lust and passion it certainly degrades below the level of beasts those who participate in this act of desecration. On the other hand, when prospective parents prepare themselves by prayer and lofty aspirations to perform the act as a sacrament, regardless of self-gratification, the conception is immaculate. It is evident that it is not the physical virginity that counts as a virtue, for every one is at that stage during the early years of life. It is the purity, the chastity of the soul, which makes the pure virgin, both father and mother. 
 
 According to the teachings of the Rosicrucians, backed up by research in the Memory of Nature, such was the condition of Joseph and Mary when the body which formed around the seed atom of Jesus was conceived. The Sun Spirit, Christ, could not construct such a vehicle. Besides it would have been a useless expenditure of valuable energy for such a great Spirit to pass through the womb and bring a body up through the years of childhood until it had arrived at the age of maturity where it could be used. Therefore, this task was delegated to Jesus who used the body until the time of the Baptism, when we are told the Spirit descended upon it as a dove. There Jesus left his body which was inhabited from that time to the end by the Christ Spirit, and we have thus, during the three years' ministry, to deal with a composite entity, Jesus the Christ. 
 
-[246] 
-
 It should be understood that the great Hierarchies who have aided us in our evolution always work with the laws which they have given for our guidance and not against them, and having once evolved the method of building a body by the union of man and woman, they would not think of suspending that law any more than they would for a single moment think of suspending the law of gravitation. We can easily imagine what chaos would result if people, houses, street cars, and everything else not securely anchored to the earth, would tumble into the air, and the disasters to our social structure which would follow the suspension of the law of fecundation can also be imagined. In fact the interpolated accounts also make it clear that Joseph intended to put Mary away. Such a course would naturally follow a miracle not known or believed by the ordinary husband. As a further evidence of tampering by the translators you will also notice that the genealogy of Jesus is traced to Joseph, and if he were not the father this would be foolish; then also Jesus could not have been said to have sprung from the root of David. 
 
 There are ways, however, of making a body available to the Adept without going through the womb. Before describing this method let it be thoroughly understood that the term "Adept" is not to be applied to the egotists or charlatans who thus style themselves in newspaper advertising or among a coterie of dupes. The true Adept is one who has reached a high stage of spirituality, and what that stage is, we shall understand by comparing the ordinary seer and the Initiate with him. 
-
-[247] 
 
 The seer is one who has developed the spiritual sight. If he has no control over the faculty, he sees things in the invisible world when they present themselves before him. He has choice neither as to what he sees nor when, nor the power to shut off any scene that may be disagreeable to him. The voluntary seer is one who, at will, can call up sights and scenes from the invisible worlds and can turn his spiritual vision upon any object or even for as long or as short a time as he desires. 
 
 It is commonly believe among most people who have not given the subject thought, that when any one is able to see things in the invisible worlds he is, so to speak, omniscient, and knows about everything there. As a matter of fact, the ability to see things in the invisible worlds does not carry with it the faculty of understanding all about them, any more than the ability to see a machine here gives us the knowledge how to operate it. 
 
 The Initiate is one who has not only the ability to see things in the invisible worlds, but also the faculty of leaving his body consciously and operating or investigating these things. Thus by degrees he acquires a knowledge of their inner workings and how to link these forces, which we call laws of nature, to the chariot of evolutionary progress. 
-
-[248] 
 
 The Adept is one who sees and knows, and has, in addition, become proficient in the use of the laws of nature for the production of what, to the ordinary person, seems magic, but which is in reality only the higher application of the same laws that govern in the ordinary course of life. 
 
@@ -1688,8 +1284,6 @@ We also waste bodily tissue by indulging in pleasures, by unnecessary motions an
 
 The Adept is different. He knows how to control his actions and emotions, thus saving all unnecessary strain upon the body. He also knows the exact elements required to keep up his body, and the proper proportion in which to take them. Thus he secures the maximum nutrition and a minimum of waste. 
 
-[249] 
-
 For that reason he may keep his body in a state of youthful appearance and vigorous health for hundreds of years. It is said among the lay-brothers of the Rosicrucians that Christian Rosenkreuz is today using a body which has been thus preserved for several centuries. This may or may not be so, the writer has no means of knowing, for our august leader is never seen by any of the lay brothers who gather at the Temple for the midnight Service. His presence is only felt, and is the signal for beginning the work. However, in conversation with some of the lay brothers who have been connected with the temple for twenty, thirty, and forty years in this life, it has developed that the Elder Brothers, of whom we speak as our Teachers, look just about the same today as they did thirty or forty years ago. Judging by the standards of ordinary men we should say that the Elder Brothers seem now to be about forty years of age and this lends color to the statement of teaching as given in the foregoing. 
 
 We see then that the Adepts are able to preserve their bodies for centuries, maybe millenniums, but they are also able to create a new vehicle if for any reason that becomes expedient, and this is one of the ways described by the Elder Brother. 
@@ -1698,29 +1292,19 @@ It is a law in nature that the cell life inherent in any particle of food must b
 
 The use of this method is the solution to the mystery surrounding the early life and antecedents of such men as Count St. Germain, Cagliostro, etc. They were Adepts who stepped out of an environment when they had outgrown their usefulness into a new field. The bodies they had left behind bore no names, and no one suspected that the Spirit which had inhabited them had not taken the usual post-mortem course. 
 
-[251] 
-
 It is also a law in nature that no one can make a vehicle unless he has learned by evolution how to do it. Great and mighty as was the Cosmic Sun Spirit, Christ, He could not build a dense body, either in the womb, or by the magical method last described, for he never had the experience in the heaven life where the archetypes of bodies are built, nor has He gone through the actual experiences such as have been the lot of mankind for ages. Therefore, it was necessary that someone be chosen to build a body for Him. That honor and privilege fell to Joseph, Mary and Jesus, who furnished the dense body and cared for it during the years of growth until maturity had been reached, together with the vital body necessary to keep the dense instrument alive and to complete the link of the desire body of Christ. 
 
 Thus, when properly understood, it is true that Jesus was born of a virgin and that the conception was immaculate. The mistake lies in confusing Jesus with Christ. Mark that the Angel Gabriel commanded that his name should be called Jesus. Christos means "anointed," and refers to an office, a function, and not to a person. Therefore, it is not until after the Baptism when he has been anointed with the Spirit that he is spoken of as Jesus Christ, or in English, the anointed Jesus. It is also a mistake to regard the birth of Jesus as unique. We have the word of Christ that the things which He did, shall we also do and greater. The Immaculate Conception, the Baptism (the christening or anointing), the period of service and ministry, the Cross and the Crown, will in their turn become personal experiences to every one among us, for we are all Christs-in-the-making and must sometime grow to the full stature of Divinity. 
 
-[252] 
-
-WHY THE JEWS KEEP THE SABBATH
-Question No. 77. 
+### <h3 id="question-77">Question No. 77: WHY THE JEWS KEEP THE SABBATH</h3>
+ 
 The Rosicrucians teach that Christ is the Sun-spirit, and it seems therefore perfectly logical that we keep Sunday sacred to his worship in Christian lands. however, Jehovah is the ruler of the Moon. Why then were not the Jews taught to keep Monday holy instead of Saturn's day, which is now their Sabbath? 
 
 Answer: There is an esoteric connection between Saturn, the Sun, and the Moon, which rule Saturday, Sunday, and Monday. The Sun and Saturn are ministers of life and death, and the Moon is, so to speak, the shuttle-cock on which mankind is constantly being thrown from one pole to another while the web of experience is being woven. The Moon's north Node, which we call the Dragon's Head, partakes of the nature of the life-giving Sun and ushers humanity into the period of physical activity. The South Node ushers us into the rest of death by the saturnine forces of the Dragon's Tail. In other words, both Saturn and the Moon are gates of entrance an exit from the invisible world, or Chaos, the Moon in a planetary capacity and Saturn in the cosmic sense. 
 
-[253] 
-
 When a great Creative Day of Manifestation is ushered in, time always begins with a Saturn Period, and at that time the life waves of Spirits which have been undergoing the subjective phase of evolution during the preceding Cosmic Night are ushered into active manifestation, and this takes place during the Saturn Revolution of every Period. In the smaller earth-sphere of our present activity when an Ego is ready for rebirth into terrestrial life the Moon marks the time of both conception and birth, thus taking over the saturnine function of ushering in evolving Egos from the dark Cosmic Night of death to the solar universe of life and light. There are, however, some Egos who do not evolve, but are stragglers upon the path of evolution. For them there comes a time when they are finally ejected to the Moon and are denied the opportunity and privilege of rebirth in the present evolutionary class. They then remain upon the Moon until the vehicles they have crystallized by lack of action are finally dissolved, and as they cannot go forward with the stream of evolution, there is only one other way open to them, viz., to gravitate back through the gate of Saturn into Chaos, or Cosmic Night, where they must await another opportunity of manifestation in a later life stream. 
 
-Jehovah is not Ruler of the Jews to the exclusion of all other people. He is the Law-giver and Cosmic Lord of fecundation. Therefore, He has a special mission to perform for all pioneer people of any epoch or period where a great host of Spirits are to be furnished with vehicles of a new type. It is He who multiplies the pioneer people 
-
-[254] 
-
-abundantly, gives them the laws appropriate to their evolution and thus starts them upon a new period of development. If we remember this fact and also bear in mind that the first part of an epoch is saturnine, then we shall understand that although the original Semites who were the forbears of the Aryan race were multiplied as the sands on the seashore and given their laws by Jehovah, they were also living in the Saturn part of the Aryan epoch and therefore were logically taught to keep Saturn's day as a day of rest. 
+Jehovah is not Ruler of the Jews to the exclusion of all other people. He is the Law-giver and Cosmic Lord of fecundation. Therefore, He has a special mission to perform for all pioneer people of any epoch or period where a great host of Spirits are to be furnished with vehicles of a new type. It is He who multiplies the pioneer people abundantly, gives them the laws appropriate to their evolution and thus starts them upon a new period of development. If we remember this fact and also bear in mind that the first part of an epoch is saturnine, then we shall understand that although the original Semites who were the forbears of the Aryan race were multiplied as the sands on the seashore and given their laws by Jehovah, they were also living in the Saturn part of the Aryan epoch and therefore were logically taught to keep Saturn's day as a day of rest. 
 
 The Bible says that the law was supreme until the advent of the great Sun Spirit. Christ started a new phase of evolution under the principle of love, and regeneration. This ended the regime of Jehovah and the sway of Saturn, not abruptly of course, for there is always an overlapping of the old and the new. However, from that time we, the pioneer Christian people, have entered upon the second, or Sun part of the Aryan Epoch, and are therefore now substituting the Sun's day for the day of Saturn, as a day of worship. 
 
@@ -1730,8 +1314,6 @@ Ordinary humanity who follow the path of evolution are led to the Kingdom of Chr
 
 Stragglers who fail to keep up with the procession retrograde to the Kingdom of Jehovah, the Moon Spirit. 
 
-[255] 
-
 The advance guard of humanity, the Initiates who have passed both the lesser and greater Initiations and appear before the Liberator (the great Being in charge of evolution on Earth), are given the choice of staying here an helping their brothers in this world or of going to Jupiter and preparing the conditions under which humanity may evolve in the future Jupiter Period. 
 
 Advanced souls who misuse their powers as black magicians eventually retrograde directly to Saturn and are forced into Chaos by dissolution of their vehicles. 
@@ -1739,8 +1321,6 @@ Advanced souls who misuse their powers as black magicians eventually retrograde 
 Saturn has a preponderance of the fourth or reflecting ether. Hence its pale light, and the Egos who go there leave a record of their lives and are then propelled outward toward Chaos by way of Saturn's moons. 
 
 Jupiter has a preponderance of the third or light ether. Hence its brilliancy, and the advanced Egos who come to Jupiter from the outside go inward through the moons and then begin, as said, a constructive work for the Jupiter Period. 
-
-[256] 
 
 MEANING OF THE LETTERS I.N.R.I.
 Question No. 78. 
