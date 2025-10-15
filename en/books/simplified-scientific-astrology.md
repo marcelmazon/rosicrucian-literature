@@ -1,3 +1,12 @@
+---
+title: 'Simplified Scientific Astrology'
+language: 'en'
+original_title: "Simplified Scientific Astrology"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
+
 <h1 id="simplified-scientific-astrology">SIMPLIFIED SCIENTIFIC ASTROLOGY</h1>
 
 A Complete Textbook On The Art Of Erecting A Horoscope 
