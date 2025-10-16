@@ -1322,8 +1322,8 @@ Saturn has a preponderance of the fourth or reflecting ether. Hence its pale lig
 
 Jupiter has a preponderance of the third or light ether. Hence its brilliancy, and the advanced Egos who come to Jupiter from the outside go inward through the moons and then begin, as said, a constructive work for the Jupiter Period. 
 
-MEANING OF THE LETTERS I.N.R.I.
-Question No. 78. 
+### <h3 id="question-78">Question No. 78: MEANING OF THE LETTERS I.N.R.I.</h3>
+ 
 What is the meaning of the letters I.N.R.I. sometimes placed over the cross? 
 
 Answer: We are told in the gospel story that Pilate placed a sign reading, "Jesus Nazarenus Rex Judaeorum," and His Cross, and this is translated in the authorized version to mean "Jesus of Nazareth, King of the Jews." But the four initials, I.N.R.I., placed upon the Cross represent the names of the four elements in Hebrew: Iam, water; Nour, fire; Ruach, spirit or vital air; and Iabeshah, earth. This is the occult key to the mystery of crucifixion, for it symbolizes in the first place the Salt, Sulphur, Mercury, and Azoth which were used by the ancient alchemists to make the Philosopher's Stone, the universal solvent, the elixir-vitae. 
@@ -1338,28 +1338,22 @@ Nour, the Hebrew word signifying fire, is a symbolic representation of the heat-
 
 Ruach, the Hebrew word for Spirit, or vital air, is an excellent symbol of the Ego clothed in the mercurial mind which makes man man, and enables him to control and direct his bodily vehicles and activities in a rational manner. 
 
-[258] 
-
 Iabeshah is the Hebrew word for earth, representing the solid fleshy part which makes up the cruciform earthy body, crystallized within the finer vehicles at birth and severed from them in the ordinary course of things at death, or in the extraordinary event that we learn to die the mystic death and ascend to the glories of higher spheres for a time. 
 
 This stage of the Christian Mystic's spiritual development therefore involves a reversal of the creative force from its ordinary downward course through the tripartite spinal cord where the three segments are ruled by the Moon, Mars, and Mercury, respectively, and where the ray of Neptune then lights the regenerative Spinal Spirit-fire which, mounting upward, sets the pituitary body and the pineal gland into vibration. This, opening up the spiritual sight and striking the frontal sinus, starts the crown of thorns throbbing with pain as the bond with the physical body is burned by the sacred spirit-fire which wakes this center from its age long sleep to a throbbing, pulsating life, sweeping onward to the other centers in the five-pointed stigmatic star. They are also vitalized and the whole vehicle becomes aglow with a golden glory. Then with a final wrench the great vortex of the desire body located in the liver is liberated, and the martial energy contained in that vehicle propels upward and sidereal vehicle (so-called because the stigmata in the head, hands, and feet are located in the same relative position to one another as the points in the five-pointed star), which ascends through the skull (Golgotha), while the crucified Christian utters his triumphant cry, "Consummatum est" (it has been accomplished), and soars into the subtler spheres to seek Jesus whose life he has imitated with such success and from whom he is henceforth inseparable. Jesus is his Teacher and his guide to the Kingdom of Christ where all shall be united in one body to learn and to practice the religion of the Father to whom the Kingdom will eventually revert that He may be All in All. 
 
-THE MIRACULOUS DRAFT OF FISHES
-Question No. 79.
+### <h3 id="question-79">Question No. 79: THE MIRACULOUS DRAFT OF FISHES</h3>
+
 If we should not eat meat, I presume fish is included. what then is the answer to the miraculous draft of fishes as told in the Bible? No doubt these were wanted for food. 
 
 Answer: We have often stated, that while the Gospels are true versions of the life of the man Jesus, they are also manuals of initiation. The Sun, as visible in the heavens, is the physical light bearer which is the "light of the world," but behind it there is the invisible Sun carrying also spiritual light. The initiate who follows the path of initiation is in the same sense a light burner or enlightener of the people. Therefore, his life is inseparably connected with the Sun, which in its yearly course goes through the twelve signs of the zodiac by direct motion from Aries, the ram, to Pisces, the fishes, and in its course ripens the grain and the grape which feed mankind physically. There is also another motion of the Sun known by astronomers as the precession of the equinox, whereby the Sun goes through each sign in about 2,100 years. This is connected with the spiritual progress of humanity, and therefore the symbol of the savior of any age is always that of the sign through which the Sun at that particular time is moving by precession. 
 
 To keep within historic times, we may say, that at the time when the Sun by precession went through the sign Taurus, the Bull or Calf was worshiped among the most advanced human nations. We find the Bull, Apis, among the Egyptians, and Mithras, the Persian Christ, riding upon a Bull. However, when the Sun by precession moved from Taurus, the Bull, into Aries, the sign of the Ram or Lamb, God's people went out of Egypt at the passover, or vernal equinox, when the Sun passes over the equator. It then became idolatry to worship the Bull or Calf, and they were taught to worship the Ram or Lamb of God. At the time of the advent of Christ the Sun by precession was in about seven degrees of Aries and within orb of the next sign, Pisces, the fishes. He was the Savior of the coming dispensation. Therefore He sought fishermen, and as He took them from their vocation, He stated He would make them fishers of men. All through the New Testament you will find this continual allusion to fishes. 
 
-[261] 
-
 At the time when the Christian religion was being established after His death, there was controversy whether the symbol of this Savior should be the Lamb or the Fish. Therefore, as a relic of that controversy we have even to the present day the bishops wearing a mitre shaped as the head of a fish. At the same time the functionaries of that church also have the staff of the Shepherd, signifying the connection with Aries, the lamb. It was not until several centuries after the crucifixion of Christ Jesus that the Lamb was used as His symbol. Pisces, the sign of the fishes, is a watery sign, and therefore we see at the doors of the Catholic Church the holy water wherewith the worshipers make the sign. They are taught that on Fridays they must abstain from the use of meat and take FISH instead, and also during Lenten season fish is the main food. All this because the Sun by precession is going through the sign Pisces. It is now nearing Aquarius, the sign of the Son of Man, and in that day and age the symbol of the savior will be different. A different phase of the Christian religion will also have its vogue to meet the needs of the more advanced generations which will then inhabit the earth. In fact, that is the object of the Rosicrucian Teachings. 
 
-[262] 
-
-"THERE SHALL BE NO MORE SEA"
-Question No. 80. 
+### <h3 id="question-80">Question No. 80: "THERE SHALL BE NO MORE SEA"</h3>
+ 
 In the Apocalypse John says, "There shall be no more sea." What does that mean? 
 
 Answer: It means just what it says, for the earth itself is going through a number of stages of evolution which furnish the conditions necessary for our development. There was the dark age during which the material for our planet was gathered together in a fermentative and germinative condition which produced heat so that at a certain point when the creative fiat, "Let there be light" was uttered, this material became a luminous fire mist, revolving upon its axis and heating the surrounding atmosphere which was then cooled by contact with outer space. Thus moisture was generated, and it fell upon the glowing planet, with the result that a steam went outward, a fire fog. 
@@ -1368,30 +1362,24 @@ For aeons of time this evaporation and condensation went on until the earth was 
 
 "Many authorities recognize the fact that the earth is slowly losing its moisture. How this can occur is partially explained, we are told by C.F. von Hermann, in Science (New York), by the action of electrical discharges in decomposition vapor. One of the component gases, hydrogen, is very light and rises to the upper limits of the earth's atmosphere, where it is ultimately thrown off. This loss of hydrogen means in the long run a loss of water. The decomposition of the earth's moisture, with final loss, is also brought about by other agencies, notably the effect of the light-rays of the upper part of the spectrum. Mr. von Hermann quotes a writer in Umschau, Dr. Karl Stoeckel, as saying: 'It is believed that the ultra-violet rays of sunlight which fall upon the water vapor suspended in the lower strata of the earth's atmosphere decompose a small part of it to produce hydrogen, which rises to great heights." 
 
-[264] 
-
 On this Mr. von Hermann comments as follows: "I do not think it has been pointed out before that the earth's surface must be continuously losing hydrogen through the decomposition of water vapor by every flash of lightning. Pickering and others have recognized the hydrogen lines in the spectrum of lightning, and the larger works on meteorology mention the fact that lightning flashes decompose some water . . . The hydrogen formed by every lightning flash rises rapidly to the upper atmosphere and is lost to the earth. Considering the frequency of thunderstorms during the summer season in both hemispheres and at all times in the equatorial regions, the loss of hydrogen in this way cannot be considered as insignificant. As long as conditions upon the earth remain such as to render thunderstorms possible, the slow dessication of the earth must continue." 
 
 Thus the teachings of the Bible are being vindicated on every essential point as science advances. The facts discovered show how the past and the present have been described with accuracy. This gives us reason for our faith that the future developments will also be found in line with the truths taught in the Bible. 
 
-[265] 
-
-COLORS OF THE TABERNACLE VEIL
-Question No. 81. 
+### <h3 id="question-81">Question No. 81: COLORS OF THE TABERNACLE VEIL</h3>
+ 
 Why were the colors of the veil in the Tabernacle purple, scarlet, and white? Why were not the three primary colors, blue, red, and yellow represented? 
 
 Answer: Blue is the color of the Father who rules over the whole universe continually from the beginning of manifestation to the end thereof, omnipresent in everything that lives, breathes, and has its being. Red or scarlet is the color of the Holy Spirit which generates living creatures. When life takes a wrong expression, if restrained by a code of laws, the Holy Spirit thus becomes Jehovah, the Law-giver. Yellow is the color of Christ, the Lord of Love, who by that divine Principle supersedes the law and brings us again in direct contact and harmony with the Father. 
 
 Thus you will see that under the ancient regime it was impossible to have included the yellow and made all three primary colors emblematic of the Temple. For the time being the Father and Jehovah reigned. The blue and the scarlet, their colors, were on the Temple, and purple, which is the color resulting from the intermingling of the two primaries before named, was also there, showing not only their separate existence but their unity. In the last place there was the white space emblematic of the fact that still something remained unmanifested, and that was the third color, yellow. 
 
-[266] 
-
 From the time of Christ, the true Western Mystery School, the Rosicrucians, have had as their emblem the Red Roses, emblematic of the purification of the desire nature; the golden star, showing that the Christ is born within the disciple and radiates from the five points which represent the head and the four limbs. This is reflected upon the blue background emblematic of the Father. Thus it shows that the manifestation of God, Unity in Trinity, has been accomplished. 
 
 I have often thought that there was one lack in the literature of the Rosicrucian Fellowship, namely, a devotional book, and thousands of our students have probably felt the same. To supply this lack many have taken up books of Eastern origin, which is a very bad practice. Many lives ago, when we of the Western world were in Eastern bodies, at a time when there was no Western world, as we know it today, these things fitted us, but today we have advanced beyond, and should rather look to our Christian saints for guidance on the path of Devotion. My own special book has been The Imitation Of Christ by Thomas a'Kempis. It is a wonderful volume. There is not a case in life that cannot find some fitting passage in this book; and the more one reads it the more one loves it. You probably know the residents on Mt. Ecclesia take turns alphabetically at reading during the morning and evening services. Whenever it comes my turn I pick up Thomas a' Kempis and read a chapter, starting at the beginning and going through to the end. Then one can begin over again. There is never a dull moment in the whole book, and it would be well for students who feel the desire for something to accelerate their devotional nature, to take up this little book as a reading. It can, I believe be procured from most book sellers all over the world. 
 
-THE TEMPLE VEIL AND THE PRIEST'S ROBES
-Question No. 82. 
+### <h3 id="question-82">Question No. 82: THE TEMPLE VEIL AND THE PRIEST'S ROBES</h3>
+ 
 Why were the colors of the veil of the Temple and the priest's robes as spoken of in Exodus, blue, purple, and scarlet, instead of the three primary colors? 
 
 Answer: The Tabernacle in the Wilderness was the first church ever erected on earth. When humanity had been driven away from the basins of the earth by the condensation of the waters which had previously hung like a dense mist over the earth, the spiritual sight which had hitherto guided them became a hindrance to physical development. Thus it waned, and man's senses became focused in the physical world. This change involved a severance from the Divine Hierarchies who had hitherto guided man on the path of evolution. They became invisible and man missed them. Then there arose in his heart a longing for God which was met by giving him the Tabernacle in the Wilderness and prescribing certain divine laws for his guidance. Jehovah was the Law-maker and the particular Genius of the Original Semites who were the seed race of the coming Aryan Epoch; and behind Him stood the Most High, the Father. You will find this in such passages as Deuteronomy 32, verses 8 and 9, where it is stated that the Most High divided the people into nations and gave a certain portion to the Lord, who guided them and brought them out of Egypt, the land where the Bull was worshiped, into the Aryan Rainbow Age. This was inaugurated by using the blood of the Lamb, Aries [sign], at the Passover accomplished by Noah and giving them laws by Moses which were all symbolically shown in the Tabernacle in the Wilderness. 
@@ -1400,10 +1388,8 @@ The color of the Most High, the Father, is a spiritual blue. The color of Jehova
 
 In the new dispensation there is therefore no veil on which the color of the Initiator may be displayed. A better way has been found of marking those that are Christ's with His golden color individually, and thus it is that those who follow the path of service and self-sacrifice evolve within their own aura the golden Christ color, which is the third of the primary colors. This is the priestly robe of the new dispensation without which no one can ever enter the Kingdom, and no robe obtained at pseudo initiations can ever take its place, no matter what price is paid. 
 
-[270] 
-
-SPIRITUAL HERMAPHRODITES
-Question No. 83. 
+### <h3 id="question-83">Question No. 83: SPIRITUAL HERMAPHRODITES</h3>
+ 
 In your esoteric explanation of the opera Tannhauser, you state that man must find the woman in himself. Just what do you mean? 
 
 Answer: It is taught both in the Bible and esoterically that there was a time when mankind was male-female, hermaphrodite, or bisexual. At that time each was able to perpetuate the species without the assistance of anyone else. Man was then a complete unit, capable of self-fertilization. However, in order to become a perfect vehicle for the Spirit it was necessary that a brain should be evolved, together with a larynx, so that man might be able to think and express himself in words. In order to accomplish this one half the creative force was directed upward to build these organs and enable man to turn his creative consciousness outward and people the world with things of his fancy, such as we see in ships, houses, railways, telephones, and all other things made by the hand of man, which have first been conceived in thought, then objectified in the world. 
@@ -1412,35 +1398,25 @@ Thus man became a creator on two planes, the physical and the mental, but we kno
 
 At that time we shall use both the hemispheres of our cerebrum and not one as is now the case. When that day has come man will have found the woman within himself, and woman will have found the man within herself. Then it will not any longer be necessary to seek a mate in order to perpetuate our bodies, for we shall then be able to conceive in our brain a vehicle fit for our expression and objectify it as we now clothe our other ideas in physical form. It is by this power that Adepts perpetuate their physical existence and create a new body before they leave the old, but they have two spinal cords and use both hemispheres of the brain. 
 
-[272] 
-
-MAN A HERMAPHRODITE
-Question No. 84. 
+### <h3 id="question-84">Question No. 84: MAN A HERMAPHRODITE</h3>
+ 
 Please explain the following seeming contradiction in Questions And Answers: "Man had first been like the gods, made in their image--male-female, a hermaphrodite, and later one side was taken away so that he became divided in two sexes." "Each spirit is complete in itself. It takes upon itself a male or a female body at different times in order to learn the lessons of life and it is only in the present stage of development that there is such a function as sex." The first quotation seems to imply that man was one and became divided into two parts while the latter quotation implies that man always was one and is not divided into two parts. 
 
 Answer: Both quotations are right, but the first refers to that which is now the physical body. During the stage of crystallization in the Hyperborean Epoch when man-in-the-making was plantlike, the physical body was like many plants in being able to fructify itself and create a new body, but later on in the Lemurian Epoch when it became necessary for man's evolution that he should have an instrument of thought and speech wherewith to express himself, one half of the sex force was diverted for the purpose of building a larynx and brain. Thus the physical body of one group of mankind retains the negative or feminine polarity for procreation, while another part of humanity has the positive or masculine gender developed in the physical body. 
 
-[273] 
-
 However, it should also be understood that it would have been impossible to divide humanity into sexes even for a time, were not the creative energy of the Spirit be bipolar. This dual creative force is used in all magic, and it expresses itself as Will and Imagination, masculine and feminine, positive and negative. Whether set in motion by God, the Architect of all the solar universe, or by an Initiate of any degree, the process is the same. It involves, first, the exercise of the feminine quality of Imagination whereby the thing to be created is pictured and molded in mind stuff to the minutest detail and forms an archetype for the thing to be created; and second, when this work has been done it requires a powerful effort of the masculine creative force, the concentrated Will, to gather and build into this archetype created by the imagination such material as is necessary for its manifestation in the world to which it belongs and wherein it has to function. The same process takes place when an Initiate has to mold a vehicle for himself wherein he may operate and materialize, or when a magician of the lower order desires to create a flower or a similar article for demonstration. Each one must then be able to exercise the feminine function of imagination in order to mold in the invisible world the object to be found. The odor and everything about it must be complete--color, shading, etc. Then the powerful effort of will marshals the physical atoms into the matrix and the object is manifested in the physical world. 
-
-[274] 
 
 A similar process also takes place in the creation of a new body under the present system. The powerful feminine imagination of the mother is necessary to mold the embryo into human shape during the period of gestation, and it is the concentrated will of the father during the moment of copulation which gives the needed impulse and furnishes the motive power during the time until the Ego is able to begin its own work. 
 
 It should not be forgotten either that humanity is still bisexual so far as the physical body is concerned, for though one sex is developed to completion, the other remains latent and in embryo, so to speak. Thus there is no contradiction between the quotations, for one refers to the physical body particularly and the other to the Spirit. 
 
-[275] 
-
-THE CROWN OF THORNS
-Question No. 85. 
+### <h3 id="question-85">Question No. 85: THE CROWN OF THORNS</h3>
+ 
 Does it serve any real purpose to recall each year the suffering of Christ? If not, why does not the Christian Church omit the Passion and the Crown of Thorns, and concentrate its efforts upon celebrating Easter as a time of joy? 
 
 Answer: The gospel story as it is usually read by people in the churches is only the story of Jesus, a unique character, the Son of God in a special sense, who was once born in Bethlehem, lived once upon the earth for the short space of thirty-three years, who died once for mankind after much suffering, and is now permanently exalted to the right hand of the Father. Thence they expect Him to return to judge the quick and the dead, and they celebrate his birth and his death at certain time of the year, because they are supposed to have taken place on definite dates, the same as the birthday of Lincoln, Washington, or the Battle of Gettysburg. 
 
 While these explanations satisfy the multitudes who are not very deep in their inquiries concerning the truth, there is another side which is very patent to the mystic. This is a story of divine love and perpetual sacrifice that fills him with devotion to the cosmic Christ, who is born periodically in order that we may live and have an opportunity to evolve in this environment for he understands from that viewpoint that without such recurring annual sacrifice, this earth and its present conditions of advancement would be an impossibility. 
-
-[276] 
 
 At the time when the Sun is in the celestial sign Virgo (the Virgin) the Immaculate Conception takes place. A wave of solar Christ light and life is focused upon the earth. Gradually this light penetrates deeper into the earth, until the turning point is reached on the longest and the darkest night of the year, which we call Christmas. This is the mystic birth of a cosmic Life Impulse which impregnates and fertilizes the earth. It is the basis of all terrestrial life. Without it no seed would germinate, no flower would appear upon the face of the earth, neither man nor beast could exist, and life would soon become extinct. Therefore, there is a very, very valid reason for the joy that is felt at Christmas time. As the divine Author of our being, our Father in heaven, has given the greatest of all gifts to man, the Son, so men also are impelled to give gifts to one another. There reigns upon earth, joy, good will, and peace, no matter whether man understands the mystic and annually recurrent reasons therefor. 
 
@@ -1452,54 +1428,42 @@ To understand this mystery it is necessary to view the matter from the Christ vi
 
 You remember the description of initiation given in The Rosicrucian Cosmo-Conception. It is there stated that at the Service held every night at midnight, the etheric Temple in Germany is the focus of all the thoughts of hate and disturbance in the Western world which it serves, that these thoughts are there disintegrated and transmuted, and that this is the basis of social progress in the world. It is also known that saintly Spirits grieve and suffer greatly at disturbances in the world, at the discord and the hate, that they send out from themselves individually thoughts of love and kindness. The associated efforts of such orders as that of the Rosicrucians are directed in the same channels of effort when the world is still, so far as physical exertions are concerned, and is therefore more receptive to the spiritual influence, namely, midnight. At that time they endeavor to attract and transmute these thought arrows of hate and discord, suffering thus their small share while trying to lift a few of the thorns from the Savior's crown. 
 
-[279] 
-
 Considering the foregoing, you will understand that the Christ Spirit in the earth is, as St. Paul says, actually groaning and travailing, waiting for the day of liberation. Thus He gathers all the darts of hate and anger. These are the crown of thorns. 
 
 In everything that lives, the vital body radiates streamers of light from the force that has spent itself in building the dense body. During health they carry away all poison from the body and keep it clean. Similar conditions prevail in the vital body of the earth which is the vehicle of Christ. The poisonous an destructive forces generated by our passions are carried away by the life forces of the Christ, but every evil thought or act brings Him its own proportion of pain, and therefore becomes a part of the Crown of Thorns--the crown because the head is always thought of as the seat of consciousness. We should realize that every single evil act of ours reacts upon the Christ in the manner stated and adds another thorn of suffering. 
 
 In view of the foregoing we can realize with what relief He speaks the final words at the time of liberation from the earthly cross: "Consummatum est." Why the annual recurrence of suffering, you ask? As we take into our bodies continually the life giving oxygen to go through its cycle to vitalize and energize the whole body, as that oxygen dies to the outside world for the time being, while it is living in the body, as it is charged there with poisons and waste products, and finally exhaled as carbon dioxide, as poisonous gas, so it is necessary for the Savior annually to enter into the great body which we call the earth and take upon Himself all the poison that is generated by ourselves, to cleanse and purify, and to give it a new lease of life before He finally is resurrected and rises to His Father. 
 
-MEETING THE LORD IN THE AIR
-Question No. 86. 
+### <h3 id="question-86">Question No. 86: MEETING THE LORD IN THE AIR</h3>
+
 What is meant by the elect being caught up in the air to meet the Lord? Does that refer to a physical uprising? 
 
 Answer: this passage occurs in First Thessalonians, 4:17, and in the fifth Chapter of the same Epistle, 23rd verse we find it stated: 
 
 "And the very God of peace sanctify you wholly, and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ." 
 
-[281] 
-
 Thus Paul recognizes that man is a composite being consisting of three parts, the Spirit, the soul, and the body. If you will now turn to the fifteenth Chapter of First Corinthians you will find there that he says, "Flesh and blood cannot inherit the kingdom of God." Speaking to them further concerning the same mystery, he says: "Behold! I shew you a mystery. We shall not all sleep but we shall be changed, in a moment, in the twinkling of an eye," and in the forty-fourth verse which has been mistranslated, he tells them that there is a spiritual body and a soul body; soma psuchicon. 
 
 This is a very important point. You will find it nowhere but in the Rosicrucian literature. All others have passed over or overlooked this important mistranslation, and read the text as a "natural" body instead of a "soul" body. This soul body is composed of ether and capable of levitation. Without this faculty it would be impossible for us to meet the Lord in the air, or to become a citizen of the kingdom of the heavens preached by Christ Jesus and His apostles. Let is be thoroughly understood that mankind has always traveled outward from the center of the earth in its evolution. Adam, the primitive man, was made of the red (hot) earth, for at that time our globe was still in a cooling condition, aglow with the red fires of the forming crust. Next we are told that a mist went up from the cooling planet, and mankind at that time lived as "children of the mist" in the valleys of the earth. 
 
-[282] 
-
 Later when the mist condensed into water, and falling, filled the earth's basins, man moved to the highlands, his present abode, above the waters, and when he had dropped the dense earthy fleshy body, which Paul says cannot inherit the kingdom of God, he will ascend into the air in the glorious soma psuchicon, or soul body, to take up a new phase of evolution. There we shall not deal with concrete things in the same sense as we do now, but we shall learn to work with life instead of with dead things. Thus the Bible says exactly what it means when it tells us we are to be caught up in the air, in the twinkling of an eye, so that we may be fit inhabitants of the new Jerusalem when that "comes out of the heavens," or becomes visible. It should also be understood that this kingdom is now being prepared, though it is invisible to most people. It is nevertheless in course of construction, waiting for the time when we shall have learned the lessons of concrete existence and fitted ourselves for the discrete occupations which we shall then learn. 
 
-[283] 
-
-MEETING THE CHRIST IN THE AIR
-Question No. 87. 
+### <h3 id="question-87">Question No. 87: MEETING THE CHRIST IN THE AIR</h3>
+ 
 If a few advanced Egos will meet the Christ in the air, will they return to this earth to live again as ordinary mortals? 
 
 Answer: The idea is, "I saw a new Jerusalem coming down from heaven." The new Jerusalem or New Age involves living in the air or ether as we are now living on the solid ground; that is not the Aquarian Age. They must not be confused. The New Age is a condition in which we shall live in our soul body. That is now being formed within us, and we shall not live under the same material conditions as we have now. We shall not need to take material sustenance. We shall be able to live on the substance of the air and ether, and we shall be able to live and have our being entirely in the aerial. Nor is this reserved for a few advanced Egos, for the majority of the human race will have been brought to perfection in the soul body by the time the Christ returns. 
 
-[284] 
-
-THE KEYS OF HEAVEN AND HELL
-Question No. 88. 
+### <h3 id="question-88">Question No. 88: THE KEYS OF HEAVEN AND HELL</h3>
+ 
 Did Christ really give Peter the keys of heaven and hell, or what does that passage mean? 
 
 Answer: Undoubtedly, Christ gave them to Peter and to others as well, but they were not keys such as we sue to unlock doors. Yet no man can enter either place unless he has these keys. They are musical "keys," or incantations, such as are used in all occult orders and for all occult purposes. The modern Masons have something similar, for they furnish the lodge differently for each degree. They use different passwords and different grips, so that a Mason, though he may be initiated in some degrees is as effectually barred from all others as a stranger because he has not the "keys" that unlock the doors. 
 
 In the occult orders, like the Rosicrucians, the keynote of the incantation intoned at each degree is of a different vibratory measure from the keynote of all the other degrees, and one who has not the key and is unable to attune himself to it is halted as it were by an invisible wall of vibration which surrounds the Temple. In the substance of the lower Desire World, surrounding the earth, which constitutes hell, there is a different vibration from that which prevails in the part of our atmosphere constituting the upper Desire World and the Region of Concrete Thought. This rate of vibration again differs from the pitch of these states of matter which is inside the earth, in each of the nine subterranean strata. Therefore each of these divisions of the invisible world also requires a different keynote, which is gradually taught initiates as they progress upon the path towards Adeptship. It was the "key"-note to one or more of these various realms that was given to Peter and others by Christ, who was the Initiator in their case. The same "keys" are now given to His followers by His successors, who initiate worthy ones into the mysteries that they may serve their fellow men better in a larger sphere of endeavor. Thus music has a greater mission than simply to provide enjoyment for us. In fact, the harmony of the spheres is the basis of all evolution. Without that there could be no progress, and when once our ears have become attuned to that, we have the "key" to all advancement. 
 
-[286] 
+### <h3 id="question-89">Question No. 89: THE ESSENCE OF CHRISTIANITY</h3>
 
-THE ESSENCE OF CHRISTIANITY
-Question No. 89. 
 What is the essence or particular teaching of real Christianity? 
 
 Answer: In the opening chapters of the Bible we find a commandment given to infant humanity, who had been permitted the freedom of the Garden of Eden, a state of bliss. Only one restriction was placed upon them, viz., "of the Tree of knowledge thou shalt not eat." When we analyze this command in the light of such sentences as, "Adam knew Eve and she bore Cain"; "Adam knew Eve and she bore Seth"; and Mary's question, "How shall I conceive, seeing I know not a man?" we readily understand that humanity was prohibited from indulging the passional nature. The esoteric teaching supplies us with a further knowledge that this function was exercised only at certain times of the year under the guidance of the angels, when the interplanetary lines of force were propitious, and consequently, parturition was painless. 
@@ -1508,10 +1472,8 @@ In view of this knowledge we can also understand the so-called curse, "in pain s
 
 Thus the essence of the Christian teaching is that the law of sin and death may be overcome by love, which will restore immortality. 
 
-[288] 
-
-CHANGING WATER TO WINE
-Question No. 90. 
+### <h3 id="question-90">Question No. 90: CHANGING WATER TO WINE</h3>
+ 
 Please tell me what Jesus meant when he said to his mother, Mary: "Woman, what have I to do with thee, mine hour is not yet come." (John 2:4). 
 
 Answer: This is another case where the Bible translators mistranslated the Greek text in a most unwarrantable manner. The remark was made on the occasion of the marriage of Cana, when Mary, the mother of Jesus, is said to have come to him saying there was no wine. Jesus then answered in the following Greek words: "It emoi kai soi gunai." Translated literally this is, "What (is that) to me and to thee, O woman? My time has not yet come." Even apart from the esoteric significance of the remark this seems very much nicer than the coarse answer attributed to Jesus in the popular version of King James. It should also be remembered that the Christ was not the son of Mary in the same sense that Jesus was, and that although He used the body of Jesus, He did not recognize physical relationship to Mary and was therefore perfectly justified in addressing her as "woman." 
@@ -1519,8 +1481,6 @@ Answer: This is another case where the Bible translators mistranslated the Greek
 However, there is another and deeper significance to the whole proceeding of the marriage at Cana. It has been taught in the Rosicrucian literature that the Gospels are not histories of the life of an individual called Christ or Jesus, who was unique among mankind. Although the Jesus of the Gospels did live, the Gospels themselves are stories or formulae of initiation, and the marriage at Cana at which Christ performed His first great miracle was something far greater than a mere marriage ceremony of a man and woman in ordinary life. It was, in fact, a mystic marriage of the higher and lower self under the new order of Temple Service then inaugurated by Christ. In the Atlantean Epoch water had been used in the temples, but for the Aryan Epoch wine was essential. 
 
 Different races have lived upon earth at various times, and they have been differently constituted than we are today. The first human race is symbolized in the Bible by the name Adam. They were of the earth, earthy. That is to say, they had only a mineral body, for they were formed of the mineral earth. The second race is symbolized under the name Cain. They had both a dense mineral body and also an etheric or vital body. Therefore, they were plantlike, and a plant food was given them to eat. Hence, we hear that Cain tilled the soil and planted grain. The third race also evolved a desire body, and because of this emotional and passional nature they became animal life. Therefore animal food or flesh was given them to eat, and we read that Nimrod was a mighty hunter. Lastly, the mind was added as a link between the threefold body and the threefold Spirit. The Spirit then entered the body and became indwelling, an Ego. 
-
-[290] 
 
 In order that this Ego might learn the lesson on earth it must forget for the time being its heavenly spiritual origin To this end a new food was given it, and wine, a spirit fermented outside the body was first used by Noah, the Atlantean Hierarch, to deaden the true Spirit dwelling in the body. Under the intoxicating influence of this pseudo spirit man gradually forgot his divine origin and focused his whole attention upon the lessons to be learned in this world. However, although humanity indulged in this new article of nutrition, wine, despite even the orgies that were held in exoteric services, the sanctuaries of all the ancient dispensations were served by water, and the highest and the holiest of their priests never allowed wine to pass their lips. Hence they were not blind leaders of the blind, but saw clearly the invisible world and knew the sacred mystery of life. 
 
@@ -1538,8 +1498,6 @@ The new wine cup mentioned as an ideal for the future epoch, The New Galilee (wh
 
 The present word is generated by clumsy muscular motion which adjusts the larynx, tongue, and lips, so that the air passing from the lungs makes certain sounds, but air is a heavy medium, difficult to move in comparison with Nature's finer forces like electricity which move in the ether. When this new organ has been evolved it will have the power to speak the word of life, to infuse vitality in substances that were hitherto inert. This organ we are now building by service. 
 
-[294] 
-
 You will remember that Christ gave not the cup to the multitude, but to His disciples who were His messengers and servants of the Cross. At the present time those who drink from the cup of self-abnegation that they may use their force in the service of others, are building that organ, together with the soul body which is the wedding garment. They are learning to use it in a small way as Invisible Helpers when they are out of their body at night, for then they are taught to speak the word of power which removes disease and builds in healthy tissues. 
 
 When the Atlantean Age was drawing to a close and mankind left its childhood home where it had been under the direct guidance of the divine teachers, the old covenant was made, giving them flesh and wine, and these two, together with the unrestrained use of the sex force, has made the Aryan Age an age of death and destruction. We are now drawing to the end of that era. 
@@ -1550,20 +1508,16 @@ It is noteworthy in this connection that all the clergy of the various countries
 
 This attitude of the European clergy does not imply, however, that they are degraded, nor to be censured in any respect whatever. Humanity has still many lessons to learn which can be learned only in the age of wine. When the need of the counterfeit spirit has passed it will get into disuse without need of legislative measures, which generally do not good, for it is absolutely impossible to legislate morality into people. Until the consent to a law is given from within, they are bound to break it to secure the gratification of their desires, regardless of restrictive measures. 
 
-[296] 
-
-WAS TEMPTATION NECESSARY FOR CHRIST JESUS?
-Question No. 91. 
+### <h3 id="question-91">Question No. 91: WAS TEMPTATION NECESSARY FOR CHRIST JESUS?</h3>
+ 
 Why was it necessary for Christ to enter the body of Jesus and be tempted in order to have compassion for us? Could not such a great being have compassion without that? 
 
 Answer: Evidently not. Temptation to be temptation requires that the person tempted see something desirable in the object which is to tempt him. Lacking this there can be no temptation. Meat cannot tempt the writer, for even the thought of eating it is nauseating. Therefore, there is no virtue in abstaining. He does not have to overcome the desire for flesh, but would have to overcome his disgust in order to eat it. The great Sun Spirit, Christ, in His own nature could have felt no temptation to turn stones to bread in order to still hunger. He would not have felt it as a sacrifice to refuse allegiance to a power that would place Him as a sovereign over our little earth, but just as we, when we look through a colored glass see everything tinted with that hue, so also when the Christ-consciousness was focussed in Jesus' body it perceived the things of this world through the eyes of Jesus, a human being. From the viewpoint of such an one, bread seemed eminently desirable when hunger was felt. Hence it constitute a temptation. 
 
 Power also seems desirable to the majority of mankind. Hence the knowledge that by power within Himself He could gratify this desire would constitute a temptation. Only from the human viewpoint of Jesus could Gethsemane have seemed so terrible that He wanted to avoid the ordeal before Him. We may judge on the principle that no one knows where the shoe pinches as well as the one it is on, that the Christ Spirit learned through the bodily limitations of Jesus to have compassion for our frailties in a manner which could not have been equaled by observation from without. Having once worn a body and felt the frailty of the flesh, He knows better how to help us than anyone else and is therefore rightly the Supreme Mediator between God and man. 
 
-[298] 
-
-REASON FOR CALLING CHRIST "THE SON OF MAN"
-Question No. 92. 
+### <h3 id="question-92">Question No. 92: REASON FOR CALLING CHRIST "THE SON OF MAN"</h3>
+ 
 If Christ was divine and an archangel, the highest initiate of the Sun Period, as you say, why then was he called "The Son of Man"? 
 
 Answer: To understand properly this title: "The Son of Man," it is necessary to know the Masonic legend of the creation of the world and man upon it, as well as the Biblical story. As not all present students have read the lessons on Freemasonry And Catholicism, we will repeat this legend, or rather the more salient features of it. 
@@ -1572,34 +1526,24 @@ In the beginning the Elohim Jehovah, created Eve, and the Elohim Samael, who is 
 
 However, his offerings were not pleasing to the God Jehovah, who saw in him a possible rival--one not to be entirely domineered. As a consequence there was war between Cain and Abel, and their blood was shed. Then Adam again united with Eve, and from this union Seth was born. Since then there has always been in the world two classes of people: The Sons of Cain and the Sons of Seth. From one was born the long line of kings, which held their office "by the Grace of God," and which culminated in Solomon. This line is the son of men. That is to say, they were born of a human father and a human mother; namely, Adam and Eve, both created by God and amenable to his dictates--both of them thoroughly and entirely human. In this respect the Sons of Seth differ radically, very radically from the Sons of Cain. Cain was virtually the Son of a Widow, because Eve had been left by her divine husband, Samael, at the moment fertilization was accomplished. He had never taken the part of a husband or a father, therefore, his offspring was as said, the son of a widow. 
 
-[300] 
-
 From this semi-divine progeny, Cain, there has descended a long line of sons who have originated all the industries, as you will see by consulting the Bible. They invented all the arts and all the sciences. To them all the material progress of the world has been due, and their line culminated at the time when Solomon, the son of man, sat upon the throne of Israel, in the birth of a son of a widow, called Hiram Abiff, which you will also find chronicled in the Bible. I do not mean Hiram of Tyre, but Hiram, the master workman, who was sent by King Hiram of Tyre to build the Temple of Solomon. He, then, was "the widow's son," and Solomon was the "son of man." At a later time both of these characters in the world drama were reborn. Solomon became Jesus of Nazareth, the Son of Man; Hiram Abiff became Lazarus. He was also the Widow's Son of Nain, and the two resurrections recorded are one event, referring to Initiation. 
 
 Since then these two characters, the Son of Man and the Son of a Widow, have worked for the same ends, but in different spheres. Jesus, the Son of man, has worked among the churches, and is doing so still. Christian Rosenkreuz is the later name of Hiram Abiff and Lazarus, the Son of a Widow. Jesus, the Son of Man, stands as the genius and protector of all church craft, whereby religion is fostered and man is brought back to God along the heart path of devotion. Christian Rosenkreuz, the Son of the Widow, works with the world powers, the industries, and science, in order to bring about the union of the temporal and spiritual power, the head and the heart, which must take place before Christ, the Son of God, can come again. 
 
-[301] 
-
 By the way, about this union, I said in the Cosmo that the second coming of Christ would take place at a time when the State and the Church had been united, but that was not exactly a happy expression to use. You will remember that the teachings were given to me in German, and in such volume that it was very difficult to find the proper English expression for everything right off. I therefore occasionally translated too literally. The words state and church, as used by the Teacher, were meant to convey the idea that at some time the temporal and ecclesiastical power must work hand in hand and become more and more united; for at the time toward which we are looking, the Kingdom of Christ, there shall be only one ruler. He will then be both King and Priest, and therefore, naturally, the human race must be educated to such a point where their human rulers approach that ideal more and more, being wise enough to rule a state, and good enough to guide the hearts of men. Thus and thus alone can we approach the Kingdom of God, and that therefore, is the condition which Christian Rosenkreuz and Jesus are now endeavoring to bring about in the church and state. 
 
-[302] 
-
-THE SON OF MAN
-Question No. 93. 
+### <h3 id="question-93">Question No. 93: THE SON OF MAN</h3>
+ 
 Why was Jesus called "The Son of Man"? 
 
 Answer: He was not really called that; he called himself that. "Who do people say that I the Son of Man am?" He was called the Son of Man in the respect that He had the human body, but there is a hidden reference there to the sign Aquarius which we are soon to enter. Then the Son of Man shall come again. There was a time when humanity worshiped the Bull, at the time when the Sun by precession went through the sign of the Bull--Taurus. Every year the Sun comes northward and about the 21st of march it reaches the equator. That is then called the first degree of Aries. Then it goes around the circle, at the next 21st of March coming again to the equator, but it comes a little bit earlier--it precedes. The vernal equinox, when the Sun passes the equator, will be a little previous to the first of Aries of last year, and so by precession it goes all around the signs. When it went through the sign of the Bull as said, people worshiped the Bull. Then it went into the sign of Aries and it became a deadly sin to worship the golden calf. God called to His people: "Come out of Egypt. Do not worship the Bull, but by the blood of the Lamb shall you pass over." Therefore, the door posts were sprinkled with the blood of the lamb and they passed over the blood of the Lamb. 
 
-[303] 
-
 Then Christ was born, and He tells those that He wants to be His disciples, "Come away from that place where they worship the lamb. I am going to have you fishers of men." He thus prepared for this age when the Sun goes through the sign of the fishes, which it has been transiting the last 2,000 years. During these 2,000 years we have been eating fish on Fridays, during the season of Lent, etc. Just after the time of Christ there was a great controversy: Should His symbol be a lamb or should it be a fish? Hence we see the bishop wears a mitre on his head and the form of a fish's head. Thus the Savior is indicated by the sign the Sun goes through by precession. It is now coming close to the cusp of Aquarius, the great intellectual sign. It is soon leaving the devotional sign Pisces where people have lived by blind faith. We are nearing Aquarius and we are beginning to feel its influence, the great intellectual sign of the Son of Man. If we read our Bible right and without preconceived opinions, we shall find that the first miracle He did was to change water to wine at the marriage of Cana. However, when He had come to the end of His ministry He abrogated the old covenant, by sending His disciples to a place where He would eat the passover. He said to them: 
-
-[304] 
 
 "Go into that city and walk around until you find a man bearing a pitcher of water (that is the symbol of Aquarius); follow him wherever he goes; in that house (the house of Aquarius) will I eat the pass over." They did as He told them, and He went there and broke the bread and gave thanks. He passed the cup and said, "Take, drink, this is the sacrament of the new covenant, I will no more drink to the fruit of the vine." There is the point. He told them to look for a man with a pitcher of water--the sign of Aquarius. There is only one sign in the whole zodiac that is a man, and Aquarius sits there with the urn pouring out the water. Christ Jesus called Himself the Son of Man because He brought the religion of the Aquarian Age. 
 
-DID CHRIST JESUS EAT AFTER THE RESURRECTION?
-Question No. 94. 
+### <h3 id="question-94">Question No. 94: DID CHRIST JESUS EAT AFTER THE RESURRECTION?</h3>
+ 
 In the 24th chapter of Luke it is stated that after the resurrection, Christ appeared to his disciples, saying "handle me"; also that He ate. How is this possible when he appeared in the vital body? 
 
 Answer: The answer to this question involves an understanding of the principles of materialization. When a materializing medium is used by Spirits for the purpose of showing themselves to an audience, they first extract the vital body, or as much thereof as they dare, from the medium, leaving the dense body in the cabinet in a fearful shrunken state. That is dreadful for people unused to such phenomena to see. With this vital body--which, by the way, has been photographed by scientists, as the camera will register rays that are invisible to the eye--they produce the desired phenomena readily, because it is a living thing and attracts matter greedily so long a it has not collapsed in the manner that it does shortly after death. They interpolate physical atoms of the surrounding atmosphere after making a matrix (mold) of the vital body of the medium, and thereby shape a body into any form that suits the Spirit materializing to take upon itself. 
@@ -1610,83 +1554,63 @@ During accidents by drowning or asphyxiation the person feels very calm and rest
 
 Thus we see that it is a property of the vital body to attract to itself physical matter, and it is much easier for one who leaves the body unconsciously to allow the physical particles to flow into his soul body than to keep them away. The soul body, of course, is not subject to death, decay, or collapse. Therefore it is very easily understood that the Christ could use that vehicle to go through the walls into the room where the Disciples were gathered and there draw about Him the necessary material to show Himself in a physical vehicle which was disintegrated the moment He wanted to leave. However, it is noteworthy, that it is the disintegration that calls forth an effort and not attraction of physical matter. 
 
-[307] 
-
-CAN SPIRIT SUFFER?
-Question No. 95. 
+### <h3 id="question-95">Question No. 95: CAN SPIRIT SUFFER?</h3>
+ 
 I find difficulty in arriving at Mr. Heindel's true meaning about Christ re-entering the Earth every Christmas, there to suffer until Easter. Can spirit suffer? Kindly explain what you mean by Christ being in the center of the Earth and that when a sufficient number of disciples have been perfected, the Christ will be freed and the disciples will then have control of the Earth. This theory would seem to involve the necessity of different hierarchies to control different planets. 
 
 Answer: This question has been considerably abbreviated, but the main points are given. The first question seems to be, "Can Spirit suffer?" This is surely very easy to answer. You know that when a person has been run over by a street car and a limb has been severed that limb will not suffer. It has been removed from the vital body and all feeling is gone. On the other hand, the MAN who has lost the limb is sure to suffer intensely, and if he is of a highstrung nervous temperament, he will stand small chance of recovering, compared with one whose sensibility is slight and who perhaps knows nerves by name only. But physical suffering is slight compared to mental anguish. Who would not rather suffer the most severe headache than the pangs of remorse for some deed done on the impulse of the moment? This is pain that Spirit can suffer, both from physical and spiritual causes. 
 
-[308] 
-
 Now, can you understand what it means, to be a free Spirit and have to draw consciously into a certain vehicle of limitation? Perhaps that is impossible for anyone who has not experienced the feeling, but we assure you that when the Invisible Helpers who retain their consciousness while out and away from the body return to re-enter it in the morning, the body which we prize so highly, which we look upon as being so precious, creates in him who views it from without a sense of the most intense disgust. He feels repugnant in having to enter that cold, clammy dead thing there on the bed, and only the very highest sense of duty can compel him to enter. As soon as he enters, that feeling leaves him, for the viewpoint has altered. Nevertheless it is there as a memory all through the day. Similarly the Cosmic Christ enters the earth annually at the winter solstice, though not in the same full sense as we enter our body. Rather it is by a projection of a part of Its consciousness, which is then imprisoned in the earth and labors for the etherealization of our planet. It suffers and feels everything that a consciousness can feel in a physical body. It feels the lack of morality as well as the physical surroundings, and therefore the lot of Christ is so much harder. Therefore, also, is our moral responsibility so much the greater, for by our conduct we are either prolonging or shortening the time when He must continue to bear our burdens and suffer for our wrong doings. 
-
-[309] 
 
 You have surely read in the Bible about the Seven Spirits before the Throne. They are the Seven Star Angels, very easily identified in symbolism. To elucidate this matter fully would take far more space than can be given here, but you will find the explanation in The Cosmo-Conception. You know Paul speaks of the Christ being born within you. Angelus Silesius also says: 
 
-
-"Though Christ a thousand times in Bethlehem
-be born,
+```
+"Though Christ a thousand times in Bethlehem be born,
 And not within thyself, thy soul will be forlorn;
 The Cross on Golgotha thou lookest to in vain,
 Unless within thyself it be set up again."
+```
 
 This Christ-Principle we must all evolve within (ourselves); this also is the Golden Wedding Garment in which those who are "the bride" will meet their Lord when He comes. The name of the garment is soma psuchicon, in 1st Corinthians, 15:44. The English translation rends it "natural" body, words which should be taken out and translated "soul" body. It is said that we shall meet the (our) Lord in the air (etherealized earth). Truly, flesh and blood cannot inherit the Kingdom of God, but when we have the soul body which is made of ether, we can meet Christ in the air. We can also support the earth in its orbit, for that requires only a sufficiently buoyant ethereal body, which is now supplied by our Lord, and must be until we can take His place. 
 
-[310] 
-
-WHEREABOUTS OF THE DESIRE BODY OF JESUS
-Question No. 96. 
+### <h3 id="question-96">Question No. 96: WHEREABOUTS OF THE DESIRE BODY OF JESUS</h3>
+ 
 What became of the dense body of Jesus which was placed in the tomb, but was not found easter morning? If the vital body of Jesus is preserved to be used again by Christ, what does Jesus do in the meantime for a vital body? Why would it not have been more practical to have obtained a new vital body for Christ at the Second Coming? 
 
 Answer: Study of the Scriptures will reveal the fact that it was the custom of Christ to draw apart from His disciples, an they knew not whither He went--or if they did, no mention has been made. However, the reason was that, being so glorious a Spirit, His vibrations were too high for even the best and purest of physical vehicles. It was therefore necessary to leave it frequently for a period of complete rest so that the atoms might be slowed down to their customary pitch. Consequently the Christ was wont to go to the Essenes and leave the body in their care. They were experts, and the Christ knew nothing about handling such vehicles as He had received from Jesus. Had not this rest and care been given, the dense body of Jesus would have disintegrated long before the three years' ministry was ended, and Golgotha would never have been reached. 
-
-[311] 
 
 When the time was ripe, and the earthly ministry was ended, the Essenes ceased to interfere. Then things took their natural course, and the tremendous vibratory force imparted to the atoms scattered them to the four winds, with the result that when the grave was opened a few days later no trace of the body was found. 
 
 This is in perfect harmony with natural laws known to us by their operation in the physical world. Electric currents of low potential burn and kill, while a voltage of many times the strength passes through the body without harmful effect. Light, which has tremendous vibratory rate, is pleasant and beneficial to the body, but when focused through a lens the vibratory rate is lowered and we have force which destroys. Likewise, when Christ, the great Sun Spirit, came into the dense body of Jesus, the vibratory rate, being lowered by the resistance of the dense matter, must burn up the body, as in cremation, if not interfered with. The force was the same, the result identical--save that as it was true, invisible fire which burned up the body of Jesus, and not fire clothed in flame, as in ordinary manifestation of fire, there were no ashes. In this connection it is well to remember that fire sleeps invisibly in everything. We do not see it in the plant or the animal, nor in the stone, yet it is there, visible to the inner vision and capable of manifesting at any time when it takes a garment of flame from physical substance. 
 
-[312] 
-
 Considering that the author of The Rosicrucian Cosmo-Conception had practically no help when proof reading, it is cause for congratulation that no more mistakes were noticed. On page 408, the second line of the last paragraph, is one which has a bearing on the present subject. It has been corrected in the 4th edition, where the words "seed atoms" have been substituted for "other vehicles." These sentence then reads: "Upon the death of the dense body of Jesus, the seed atoms were returned to the original owner." During the three years' interval between the Baptism, where he gave up his vehicles, and the Crucifixion, which brought the return of the seed atoms, Jesus gathered a vehicle of ether, as an Invisible Helper gathers physical matter whenever it is necessary to materialize all or part of the body. However, material not matched with the seed atom cannot be permanently appropriated. It disintegrates as soon as the will power assembled in it is withdrawn, and this was, therefore, only a makeshift. When the seed atom of the vital body was returned, a new body was formed, and in that vehicle Jesus has been functioning since, working with the churches. He has never taken a dense body since, though perfectly able to do so. This is presumably because his work is entirely unconnected with material things, and differs diametrically from the work of Christian Rosenkreuz which has been with state, industrial, and political problems. The latter therefore needed a physical body in which to appear before the public. 
-
-[313] 
 
 The reason why the vital body of Jesus is preserved for the Second Coming of Christ, instead of a new vehicle being provided, is given in Faust which is a myth, setting forth in pictorial terms great spiritual truth of inestimable value to the seeking soul. Faust, by endeavoring to obtain spiritual power before he has earned it attracts a Spirit ready to pander to his desire--for a consideration, for unselfishness is a virtue singularly lacking in such. When Lucifer turns to leave, he is dismayed to see a pentagram before the door, its one point turned toward him. He asks Faust to remove the symbol so that he may withdraw, and the latter inquires why he does not go out through the window or chimney. Lucifer then reluctantly admits that, "For ghosts and Spirits it is the law, that where we enter we must withdraw." 
 
 When in the natural course of events, the Spirit comes to birth, it enters its dense body by way of the head, bringing with it the higher vehicles. On leaving the body at night, it leaves the same way, to re-enter in the morning in like manner. The Invisible Helper also withdraws and re-enters his body by way of the head, and when at length our life on earth has been lived we soar out of the body for the last time by way of the head, which is thus seen to be the natural gateway of the body. Therefore the pentagram with one point up is the symbol of white magic which works in harmony with the law of progression. 
 
-[314] 
-
 The black magician who works against nature subverts the life force and turns it downward through the lower organs. The gate of the head is closed to him, but he withdraws by way of the feet, the silver cord protruding through the lower organs. Therefore, it was easy for Lucifer to enter the study of Faust, for the pentagram turned with two horns toward him represented the symbol of black magic. However, on trying to leave he finds the one point facing him, and cringes before the sign of white magic. He can leave only by the door because he entered that way, and thus he is caught when he finds that the way is blocked. Similarly Christ was free to choose His vehicle of entrance into the earth where He is now confined, but once having chosen the vehicle of Jesus, he is bound to leave by the same way. Were that vehicle destroyed, Christ must remain in the cramping surroundings till Chaos dissolves the earth. This would be a great calamity, and therefore, the vehicle He once used is most jealously guarded by the Elder Brothers. 
 
 In the meantime Jesus has been the loser of all the soul growth accomplished during his thirty years on earth prior to the Baptism and contained in the vehicle given the Christ. This was and is a great sacrifice made for us, but like all good deeds, it will rebound to a greater glory in the future. This vehicle will be used by Christ when He comes to establish and perfect the Kingdom of God, and it will be so spiritualized and glorified that when it is again restored to Jesus at the time when Christ turns the Kingdom over to the Father it will be the most wonderful of all human vehicles. Although it has not been taught, the writer believes that Jesus will be the highest fruitage of the Earth Period on that account, and that Christian Rosenkreuz will come next. "Greater love hath no man than that he lay down his life," and giving not only the dense body but also the vital body, and for so long a time, is surely the ultimate of sacrifice. 
 
-DISINTEGRATION OF JESUS' BODY
-Question No. 97. 
+### <h3 id="question-97">Question No. 97: DISINTEGRATION OF JESUS' BODY</h3>
+ 
 I am very grateful for the answers about the body of Jesus and its real relation to Christ, but am still in the dark as to how the body of Jesus could be scattered by the vibratory forces of the Christ spirit after that had left; also how the atoms could pass out of the tomb when that was sealed. 
 
 Answer: It is one of our illusions that the body which we inhabit is alive. As a matter of fact it is nothing of the sort. At least there is such a very small portion of this body which can really be said to be alive that our statement is practically true. The larger portion is absolutely asleep if not entirely dead. That is a fact well-known to science, and something that reason must teach us is so. That is because our spiritual power is so weak that it cannot furnish this vehicle with life to a sufficient extent. In the measure that we fail thus to vitalize the body, it seems like a heavy clod of clay, which we must laboriously drag along with us, until after a few years it crystallizes to such an extent that it is impossible for us any longer to keep up the vibratory action. Then we are forced to leave the body and it is said to die. A slow process of disintegration takes place to restore the atoms to their original free state. 
 
 Contrast now that state of affairs when one of these same earth bodies is taken possession of by a powerful Spirit like that of Christ. You will find an analogy in the case of a man being resuscitated from drowning. There the vital body has been extracted, and the vibratory action of the physical atoms has ceased almost, if not altogether. Then when the vital body is again caused to permeate the physical body, it begins to prod every atom into action and vibration. This attempt to awaken the sleeping atoms causes the intensely disagreeable prickling sensation which persons who have been resuscitated from drowning describe, and this sensation does not cease until the physical atoms have attained a rate of vibration one octave below that of the vital body. Then they are insensate and nothing is felt save as we ordinarily feel. 
 
-[317] 
-
 Take now the case of Christ entering the dense body of Jesus. There the atoms were moving at a speed much lower than the vibratory forces of the Christ Spirit. Consequently the acceleration had to take place, and during the three years' ministry this marked acceleration of the vibration of these atoms would have shattered the body had not the powerful will of the Master assisted by the skill of the Essenes held it together. Had the atoms been asleep at the time when the Christ left the body of Jesus, the same as our atoms are asleep when we leave our bodies, a long process of purification would have been required to disintegrate the body. They were, however, as we said, highly sensitized and alive, and therefore it was impossible to keep them in bondage when the Spirit had fled. In future ages when we learn to keep our bodies alive we shall not change atoms and, therefore, bodies so often. Nor when we do, will it take so long as at present to complete the process of purification. The tomb was not hermetically sealed, and would not offer obstruction to the passage of atoms. 
 
-[318] 
-
-LOSS OF EXPERIENCE BY JESUS
-Question No. 98. 
+### <h3 id="question-98">Question No. 98: LOSS OF EXPERIENCE BY JESUS</h3>
+ 
 Why should Jesus lose the experience of his thirty years previous to his giving up his vehicles, since he occupied these vehicles and the seed atoms were returned to him after the Christ had finished using them? 
 
 Answer: This question grows out of previous statements that when Jesus left his vehicle in charge of the Christ, he thereby lost the experience of the thirty years which he had lived, and that is true. The experiences are really indented upon the seed atom, and when Jesus received these seed atoms upon the death of the body on Golgotha he thereby received a record of the experience, but the vital body had received the impact from the experiences. Jesus had lived his heaven and hell day by day, as every true probationer does, and wrought the experience into the soul body which was surrendered to Christ. The soul body, the two higher ethers that had been growing during the life upon earth, including of course the three years when Christ occupied it, Jesus is still minus. That will not be returned until the Day of Liberation and the Millennium has come and gone, so that the Christ will be entirely finished with the vital body He received from Jesus. Then, of course, the soul growth that was made upon it by the Christ will fall to Jesus, drawn by the law of attraction, and therefore he will become manifold richer than he would have been if he had not thus sacrificed his body. For that reason I stated as my opinion that he would be the highest one on earth on that account. 
 
-CHRIST THE SPIRIT OF OUR EARTH
-Question No. 99. 
+### <h3 id="question-99">Question No. 99: CHRIST THE SPIRIT OF OUR EARTH</h3>
+ 
 Is Christ (the individual of the Sun Period) the Spirit of our Earth? As the Earth was hardly a dead mass up to 2,000 years ago, where is the previous occupant? If it is only a ray of the Cosmic Christ, which as a purifying source is working in and through the Earth, is there any other spirit whose body our Earth is? When the spirit of the Christ is released from its bondage, who will be the indwelling spirit? 
 
 Answer: The law of analogy hold good everywhere. It is the master key to all mysteries, and you will find that what applies to the microcosmic man also applies to the macrocosmic God or the Divine Power. The animals now are guided by Spirits from without. At a later period they will become indwelling spirits, and learn to guide their vehicles without assistance from any source. Similarly it was with the earth as stated in the Cosmo and various other parts of our literature. Up to 2,000 years ago Jehovah had charge and guided our earth from without as the animals are guided by the Group Spirits. thus the earth was held in its orbit by His power, and He was up to that time the Supreme God. 
@@ -1697,17 +1621,13 @@ Christ is the highest initiate of the Sun Period and as such has His dwelling pl
 
 Thus, for a time, His energy is imparted to this picture as a focus, and while really being in the Sun, the Cosmic Christ feels everything that is going on in the earth, as if He were actually here present. That picture within, which it must be thoroughly understood, is not a picture in the ordinary sense of the word, is a counterpart, a part of the Solar Christ, and through it he knows and feels and senses everything upon the earth as if He were actually present. I have repeated this, but it might be repeated time and time again without detriment, as it is something that should be very thoroughly understood. That is what is really meant by omnipresence. Thus while the Christ is the indwelling Spirit of the Sun, He is also the indwelling Spirit of the earth, and must continue to hold this office of helpfulness for us--feeling everything, enduring everything that goes or would go with an actual presence, for our sake. 
 
-[322] 
-
 Let us consider for a moment what that which we call the earth is--that is to say, its origin. The solidification commenced in the Sun Period, when we were unable to vibrate at the high rate demanded to remain here. Thus we gradually worked ourselves out of the Sun and were projected into space. The rate of vibration was gradually lowered until the middle of the Atlantean Epoch, and thus the earth crystallized into a mass of stone, we might say. Thus we ourselves made the earth what it was, and if no help had been given we should have been unable to extricate our selves from the meshes of matter. Jehovah from without endeavored to help us by laws. To know the law and to follow it would have in time aided us, provided we had the requisite strength. However, no man is justified by the law, and by the law all spirit must become further enmeshed. Therefore, there had to be given a new impulse which would inscribe the law into men's hearts. There is a great difference between what we do, because we must, for fear of an outside master who metes out a just retribution for every offense, and the inner urge which impels us to do right because it is right. We recognize what is right, when the law is inscribed in our hearts, and then we obey its dictates unquestionably, even though it may cause our whole being to vibrate in pain. 
 
 Thus we are collectively the Spirits of the earth. We must some day guide the vehicle we have created. Jehovah guided it from without by means of laws. However, as this was not sufficient to bring us to the point of individualization where we shall be able to take care of ourselves, Christ came in as a Savior, and is helping us until the time comes when we shall have evolved within ourselves a love nature sufficient to float the earth. So there have been no other Spirits IN the earth. The Christ is here only temporarily to help us, and in time it will be our privilege to take up the task for ourselves and guide our planet as we want and as we should. The increased vibratory force has already made the earth much less dense, much lighter, and in time it will become ethereal again as it once was. It will cease to be dead in sin (self). It will become alive in love. 
 
-THE MISSION OF CHRIST
-Question No. 100. 
+### <h3 id="question-100">Question No. 100: THE MISSION OF CHRIST</h3>
+ 
 If the world is a training school and we must all evolve some time, why was it necessary for Christ to die for our salvation? 
-
-[324] 
 
 Answer: If you have studied The Rosicrucian Cosmo-Conception, you will remember that at different periods in the development of the world there were certain stragglers who did not come up to the requirements needed to go into the next class, as it were. This is on the same principle that we see in our schools of today. In every class of children there are some who do not apply themselves as much as others, and therefore, when the time of examination comes, they are not ready to go into a higher class and must consequently be left behind. Under the regime of Jehovah egoism was instilled into early mankind to evolve humanity. In early Atlantis the Spirit had just entered the body, and all felt universal kinship as children of the great Father. However, they were designed to conquer the world and evolve individuality, and to this end they were divided into nations and families. 
 
@@ -1715,39 +1635,29 @@ Having been given dominion over all things, they were encouraged to acquire poss
 
 To escape such a calamity another influence was necessary, and the seer who can read the Memory of Nature sees that ages before the actual advent of Christ His benefic influence was exercised from without. He was preparing to act as Indwelling Spirit of our planet and thereby raise the vibration so as to purify the moral atmosphere and change the motto, "An eye for an eye, a tooth for a tooth," to "Love your enemies." Jehovah is the ruler of all the satellites in our solar system. In order to stir the backward class of Spirits which are contained on these moons, it is necessary to use the most strenuous means indefinitely, but as soon as a sufficiently enlightened stage has been reached by the people on a planet the Cosmic Christ takes them in hand to save them from the law by love. He generates in them and the planetary atmosphere the altruistic vibrations of brotherhood. 
 
-[326] 
-
 Sinking His consciousness in such low and material conditions with sufficient concentration to effect His object involves a temporary death to the higher, spiritual realms; but this is necessary, and therefore Christ must die to save the world. 
 
-JESUS AFTER THE BAPTISM
-Question No. 101. 
+### <h3 id="question-101">Question No. 101: JESUS AFTER THE BAPTISM</h3>
+ 
 Where was the man Jesus after the Christ took his lower vehicles? Was he present but in abeyance throughout the Christ's ministry? 
 
-Answer: Jesus was in the invisible world and has been working from there with the churches ever since. 
+Answer: Jesus was in the invisible world and has been working from there with the churches ever since.  
 
-[327] 
-
-JESUS AND CHRIST JESUS
-Question No. 102 
+### <h3 id="question-102">Question No. 102: JESUS AND CHRIST JESUS</h3>
+ 
 How does the Rosicrucian teaching agree with the Bible in the following particulars: You say "saviors" and speak of Jesus as a savior, and class him with Buddha and Mohammed; the Bible says Jesus is God's Only Begotten Son (John 3:36); the Bible also says there is no other name under heaven given among men where by we must be saved (Acts 4:12); Jesus said "No man cometh to the Father but by me." (John 14:8). 
 
 Answer: If you will read the Rosicrucian Teachings carefully you will find that a distinction is made between Jesus and Christ. Jesus was a man among men. When we look in the Memory of Nature we can find his previous lives just the same as other human beings, though he is probably the grandest and most noble soul that has ever lived in a human body. Christ is the Highest Initiate of the Sun Period and had never lived in an earthly body before He took the body of Jesus at the Baptism, to teach men directly the way to the Kingdom of God. Thus both Jesus and Christ are vastly above the grand and noble world teachers such as Buddha, Mohammed, Confucius, and others. 
 
-[328] 
-
 You are right in stating that the authorized version of the Bible says that Christ is god's only begotten Son, but to understand that it is not enough to rely upon the English translation. The phrase used in the Greek is ton monogene, and it may be translated as "the Alone Begotten," the same as in plants where monogenesis takes place. That is to say, many plants have both male and female flowers and are capable of fertilizing their own seed, so that these seed will grow up into plants like the parent. We know from the Bible that man was male-female, a hermaphrodite, and he was then capable of begetting from himself another being without the cooperation of another, as is now the case, because of the division of sexes. Therefore, the idea which the Bible wishes to convey is not that the Christ was the sole and only One begotten by the Father. That may be the case, or it may not. We have no knowledge concerning this matter, but what we do know from the Bible passage is that the Christ was begotten by the Father Himself without any other intermediary--by monogenesis, the same process by which a plant possessing male and female flowers, as already said, can reproduce its kind. This does not apply to the physical body, however, for the dense garment Christ wore during His ministry among us was the body of Jesus, born in the usual way and traced back to David as the ancestor of his race by the historians of the genealogy found in the Bible. 
-
-[329] 
 
 It is also true what the Bible says, that there is no other name under heaven given among men whereby we must be saved, and that Jesus said, "No man cometh unto the Father but by me." However, we must also remember that both these sayings have regard to the indwelling Christ Spirit whereby the body of Jesus was informed during the years of the ministry. 
 
-JOB AND REBIRTH
-Question No. 103. 
+### <h3 id="question-103">Question No. 103: JOB AND REBIRTH</h3>
+ 
 How do you know the Ego is conscious after death? Please refer to Job, chapter 14:12, which reads: "So man lieth down, and riseth not; till the heavens be no more, they shall not wake, nor be raised out of their sleep." 
 
 Answer: When you are reading a book you do not take everything it contains literally, if the strain of the book is poetical. You see the absurdity of this literal interpretation of the Bible when it come to such passages which say that the trees sing or that the hills dance, for you know that as a matter of actual fact the hills do not dance nor the trees sing and laugh. You enter into the sentiment of the poet, but discount such expressions a poetical terms, not meant to be taken literally. 
-
-[330] 
 
 It is similar with other statements that are contrary to what is actually known to be the facts. When one has evolved the spiritual sight, it is a fact patent to him that consciousness does not begin with birth nor end with death. In reality the waking consciousness in the physical world which we think so paramount and important during life is really very limited when compared with the spiritual consciousness. We are more conscious before birth and after death, because we are closely in touch with the spiritual Source of our being in whom is all consciousness. 
 
@@ -1755,21 +1665,17 @@ The Spiritualists and the Society for Psychic Research have done a great deal to
 
 Both biblical and historical instances, such a that of Joan of Arc, the French liberator, who was an ignorant peasant maid, but guided by the Spirit voices intelligently out-maneuvered the English generals and brought victory to the French armies, prove that those who pass out of this life are not in a state of unconsciousness and do not lose their intelligence to any degree whatever. 
 
-[331] 
-
 Besides, it is not necessary to rely on Spirits from the other side of the veil of death to communicate to us the facts of existence there. Each one of us has latent within himself or herself a sixth sense which, when cultivated, enables us consciously to penetrate that field and to see, know, and function upon that plane of life and existence together with those Spirits who have passed out of the present life. We may then talk with them, walk with them, and in all things enter into their lives, so that we may know for ourselves without depending upon anyone else that the consciousness which we have in life is augmented, if anything, by the shuffling off of this mortal coil. 
 
 It requires exercise and labor, however, to awaken that spiritual faculty an use that sense, just as it requires time, labor, and application to acquire the art of playing upon a piano or making a watch. However, everyone has the faculty latent within and may develop it if he or she so wills. 
 
 In the course of time every human being will have that faculty in addition or our present five senses. That is what is meant in Revelation when it is said that in the new heaven and the new earth there shall be no death. Job speaks of the body and the present heavens. These pass away, but Revelation speaks about a New Heaven and a new Earth where dwelleth righteousness. The last enemy that is conquered is death. When we have evolved that spiritual faculty so that it is possible for us at any moment to focus our vision upon that plane of existence where those whom we call "dead" are now living, we see them as they were before and we realize that there is in reality no death. That is the best proof. 
 
-BIBLICAL PROOF OF REBIRTH
-Question No. 104. 
+### <h3 id="question-104">Question No. 104: BIBLICAL PROOF OF REBIRTH</h3>
+ 
 Can you prove from the Bible that the Ego is born and reborn till it is fit to be in God's presence? 
 
 Answer: There are some people who believe that the Bible is absolutely true, word for word, from cover to cover. Moreover, in controversy they seem to argue as though it had originally been written in English and every word meant just what is said and nothing else. 
-
-[333] 
 
 As a matter of fact, the Bible has been translated, transcribed, edited, and re-edited so many times that interpolations have, of course, crept in. Some have been inserted unintentionally, due to the fact that a copyist will make a slip with the pen occasionally. There have also been cases where interpolations were put in to support a certain doctrine in which the copyist believed and which was not clearly enunciated. Among scholars it is well recognized that only a general outline of the original teachings remains with us today. 
 
@@ -1777,21 +1683,15 @@ In all religions an exoteric side was always given to the multitude. This contai
 
 Among these mysteries was the doctrine of rebirth, which you will see He must have taught from the following conversation. He asked them: "Who do men say that I , the son of man, am?" They answered and said: "Some say that you are John the Baptist, some Elijah, and some that you are Jeremiah, or one of the prophets." These personages had all died and their bodies must have decayed in the grave. Yet we find people believing that Jesus was one of them reborn. If this principle of rebirth had been wrong, it would have been His duty as a teacher to have set His disciples right, and He would probably have said: "What nonsense! How can I be one of those? They have been gone for centuries." Instead He asks, "Who do you say that I am?" 
 
-[334] 
-
 In the case of Elijah He taught this doctrine outright, for he said to His disciples concerning John the Baptist: "This is Elijah if you will receive it." There is no equivocation, but a straight forward statement: "This is Elijah." This statement was reiterated later on when they left the Mount of Transfiguration, for on that occasion Christ said to His disciples: "Elijah has come and they have done to him as they listed." Then they knew that He spoke of John the Baptist. 
 
-NATURE OF JESUS' BODY AFTER DEATH
-Question No. 105.
-If, as you say, Jesus' body was scattered to the four winds at the time of the burial, how then did Thomas touch Jesus after death? How did he say: "Handle me and see, for a spirit has not flesh and bones as ye see me have"? Later on it is said that he ate fish and honey. Is it possible for a spirit without a fleshy body to eat and to be touched? 
+### <h3 id="question-105">Question No. 105: NATURE OF JESUS' BODY AFTER DEATH</h3>
 
-[335] 
+If, as you say, Jesus' body was scattered to the four winds at the time of the burial, how then did Thomas touch Jesus after death? How did he say: "Handle me and see, for a spirit has not flesh and bones as ye see me have"? Later on it is said that he ate fish and honey. Is it possible for a spirit without a fleshy body to eat and to be touched? 
 
 Answer: This question is one that occurs very often. We might refer you to the back files where it has been answered, but as so many new people come in constantly, it seems that perhaps it is better to take it up anew. As the writer never refers to back numbers himself, he will each time take up these matters from a different angle which may give new points even to those who have had them answered before, and thus the reiteration will not be without benefit. 
 
 Our latest investigations indicate that where a man spiritualizes his vehicles, the constitution of the vital body, made of ether, is most materially changed. In the ordinary man there is always a preponderance of the two lower ethers--the chemical and life ethers--which have to do with the upbuilding and propagation of the physical body, and a minimum of the light and the reflecting ethers, which are concerned with sense perception and the higher spiritual qualities. After death the body of the ordinary man is laid in the grave and the vital body hovers about two feet above the mound, gradually disintegrating. The dense body disintegrates simultaneously. However, when we say it decays, we really mean that it becomes much more alive than it was while man inhabited it, for each little molecule is now taken charge of by a separate, individual life. It begins to associate with its neighbors; the unity of an individual life is superseded by a community of many lives. 
-
-[336] 
 
 Therefore we speak of such decaying corpses as alive with worms. The denser and the more gross this vehicle is, the longer time it will require for disintegration, because the vital body hovering above has a tenacious magnetic hold that keeps the dense molecules in check. The two higher ethers vibrate at a much more rapid rate than the lower, and where a man by spiritual thoughts has massed around him a great volume of this ether, which then composes his vital body, the vibrations of the dense body also become more intense. Consequently, when the man leaves his body at death there is little or nothing of the vital body left behind to keep the components of the physical body in check. The disintegration is therefore very rapid. This we cannot easily prove because very few people are sufficiently spiritual to make the difference noticeable, but you will recall that in the Bible it is said of certain characters that they were translated. Also, that the body of Moses was so vibrant that it shone, and his body was not found, etc. 
 
@@ -1803,52 +1703,32 @@ There is a third class, namely, the initiated Invisible Helpers who have passed 
 
 The Christ naturally was at the head of this class and consequently able to pass through a wall in His vital body, for as the ether interpenetrates every physical molecule, so also the vital body, made of ether, may likewise pass through physical obstructions. Once in the room with His disciples, He attracted to Himself by an exercise of will sufficient physical matter to clothe Himself in a dense body. Then it was possible for His disciples to touch and handle Him as stated in the Gospels. 
 
-[338] 
-
 Respecting the eating of the fish and honey, there is a mystic significance to this which will be taken up in the Astral Ray department at a later date. You will note that fish is very, very prominent in all the Gospels. The disciples were fishermen and had miraculous drafts of fishes. Parables were told of them and people were fed with loaves and fishes. The story of Jonah and the whale and all other such narratives have an esoteric and astrological significance that will be brought out in the articles of which we speak, so we will not go into that part of the question at the present time. We will just answer the last part of your question: "Is it possible for a Spirit without a fleshly body to eat and drink?" In the lowest regions of the Desire World which interpenetrate the Etheric Region of the Physical World there are classes of Spirits of whom we hear a great deal in spiritualistic literature. They live in houses, they eat and drink. They have, in fact, all relations of life exactly as we have them here and continue very much the same manner of existence as they did when among us in the visible world. It is also possible for a materialized Spirit or for an initiate who materializes to eat and drink, but it would then be necessary to dispose of the materials taken into the body in a different method than by the ordinary process of assimilation. 
 
-[339] 
+### <h3 id="question-106">Question No. 106: THE BIRTH OF JESUS</h3>
 
-THE BIRTH OF JESUS
-Question No. 106. 
 How do you reconcile the statement of the Bible that Joseph knew not Mary until she had brought forth her first-born, Jesus, who was thus conceived of the Holy Spirit, with the Rosicrucian teaching that Jesus was the son of a human father, Joseph, and Mary, his mother? 
 
 Answer: If you look at the genealogies of Jesus given in Matthew and Luke, you will find that the parentage is traced through Joseph to Adam; not one word is spoken about Mary. As we indicated in a previous answer, a copyist may have interpolated the passage to prove the materialistic sense of the Immaculate Conception. 
 
 If you take the esoteric doctrine of the Immaculate Conception no such judging is necessary. Jehovah, the Holy Spirit, the leader of the Angels, is everywhere in the Bible shown as the giver of children. His messengers came to Sarah to announce the birth of Isaac to her; to Hannah to announce the birth of Samuel; to Mary to announce the advent of Jesus, whose vehicles were later given to the Christ. The power of the Holy Spirit fructifies the human ovum as well as the kernel of grain in the earth, and the original sin occurred when Adam knew his wife contrary to the approbation of Jehovah. 
 
-[340] 
-
 That transgression brought the stain of sin upon a sacred function, but when a holy life has made pure the desires, a man becomes filled with a holy spirit and it is possible to perform the generative function without passion. Hence the conception is immaculate. The child born under such conditions is naturally superior, because the conception then is a sacred rite of self-sacrifice and not an act of self-gratification. 
 
-[341] 
+<h2 id="section-8">SECTION VIII: QUESTIONS DEALING WITH ASTROLOGY</h2>
 
-SECTION VIII
-
-QUESTIONS DEALING WITH ASTROLOGY 
-[342] 
-
-
-
-
-[343] 
-
-ASTROLOGICAL ORIGIN OF CONSCIENTIOUSNESS
-Question No. 107. 
+### <h3 id="question-107">Question No. 107: ASTROLOGICAL ORIGIN OF CONSCIENTIOUSNESS</h3>
+ 
 In the astrological readings you frequently refer to Jupiter as the planet of law, order, and ethics, and also to Saturn as the planet of system, justice, and virtue. 
 
 May I ask with just what planets and signs the sentiment of conscientiousness is most intimately associated, whether there is any one or more preeminent in that sentiment? Conscientiousness is of course at the root of law, ethics, justice, virtue, etc. 
 
 Answer: According to the Rosicrucian Teachings, when the Spirit has passed out of the physical life at death, it sees the panorama of its past live passing before it in reverse order. At that time the pictures which make up this life story are etched into the finer vehicles, which the Ego takes with it into the invisible worlds. It is the reaction from the pictures where the Spirit has done some wrong, which causes the suffering that constitutes its purgatorial experience. This eradicates the pictures from the life panorama, but leaves an aroma--that which we call conscience--to warn the Spirit in its next life not to do the things which previously caused the purgatorial suffering. Conscientiousness is the positive quality of the negative conscience. Conscience prompts us not to do the things which are wrong; conscientiousness prompts us to do the things that are right. 
 
-[344] 
-
 Mythologically, Saturn is the reaper with his scythe and hourglass, the angel of death, who ushers us from active life into the purgatorial existence where we reap what we have sown. Therefore, in that sense Saturn is at the root of conscience. He always warns us, saying "don't, don't, don't," and if by listening to his voice in the past we have him in a position where in this life he aspects the other planets well, notably Jupiter, the planet of law, order, ethics, and also the Sun, which gives us our loftiest ideals, then we have the conscientious man or woman, who always fulfills every duty in life, no matter how arduous the task and what perseverance and persistence is required, or what self-sacrifice is involved. Thus conscientiousness is not given by one planet alone but requires a combination of the highest virtues in several of the planets to bring it to its highest and most noble expression. Of course there are many people who are conscientious because of minor benefic configurations (astrologically speaking), but the highest phase requires the cooperation of the Sun, Jupiter, and Saturn. 
 
-[345] 
-
-PLANTS AFFECTED BY PLANETS
-Question No. 108. 
+### <h3 id="question-108">Question No. 108: PLANTS AFFECTED BY PLANETS</h3>
+ 
 Are plants under the domination of planets and the signs? If so please explain how and why? 
 
 Answer: There are, as we know four different kingdoms now upon earth: the mineral, vegetable or plant, animal, and human kingdoms. The Spirits in these four life waves are evolving under the guidance and with the help of the other invisible hierarchies. 
@@ -1858,8 +1738,6 @@ The Lords of Mind make their densest body of mind stuff from the Region of Concr
 The Archangels make their densest body of desire stuff. They are adapts in the manipulation of this substance, and therefore they are especially fitted to aid less evolved beings who have vehicles made of that material. Hence they work with animal and man, who possess desire bodies. 
 
 The Angels make their densest body of ether, so they are well versed in the working of this grade of matter and eminently fitted to help others who are not so expert. Hence they exercise an influence for good over plants, animals, and men, who have vital bodies made of ether. 
-
-[346] 
 
 Human beings make their densest body of the chemical and mineral constituents of the earth, and ages of accumulated experience have fitted us to a certain degree to work with beings who have mineral bodies, such as the plants, animals, and human beings. 
 
@@ -1871,61 +1749,43 @@ The Archangels inhabit the Sun, and the Angels are located on the moons of the s
 
 There are also certain signs that are more favorable than others to plant growth because they have certain affinities with the lunar vibrations. The watery signs, Scorpio and Pisces, are fruitful signs for that reason, and seeds planted while the Moon, the queen of the water, goes through one of these signs will produce better results than when the Moon is in the fiery signs, Aries, Leo, and Sagittarius. These are Sun signs and therefore calculated to burn up the vital spark in the seed. Much more might be said on this subject but the foregoing will probably give the information required. 
 
-[348] 
-
-INFLUENCE OF THE PLEIADES AND ORION
-Question No. 109. 
+### <h3 id="question-109">Question No. 109: INFLUENCE OF THE PLEIADES AND ORION</h3>
+ 
 I find in the Bible in the book of Job the words: "Canst thou bind the sweet influence of the Pleiades or loose the bands of Orion?" Is there any influence of these stars upon men? 
 
 Answer: Yes, there is no doubt that all the stars in the universe have an influence upon men, and some astrologers also make the positions of a number of fixed stars when they cast a horoscope. To our minds that is only a waste of time and work, for the average human mind is now put to a sufficiently severe test to balance the interacting influences of houses, signs, and aspecting planets in such a manner as to read accurately the full message of the stars as shown by these elementary factors. It may be stated, however, with respect to the Pleiades that it is one of three nebulous spots in the zodiac which has been found to exert an evil influence upon the eyes under certain horoscopic configurations of the Sun or Moon with Saturn, Mars, Uranus, and Neptune. 
 
-[349] 
-
-THE TIME OF THE AQUARIAN AGE
-Question No. 110. 
+### <h3 id="question-110">Question No. 110: THE TIME OF THE AQUARIAN AGE</h3>
+ 
 Many people realize these days that we are entering, or about to enter, a new age. Some understand that it is the Aquarian Age, and to a certain extend what it stands for. However, I have not as yet heard an intelligible explanation of just when our Earth or solar system would enter this age, and whether the Aquarian Age coincides with the passage of the Sun through the constellation Aquarius or through the zodiacal division by that name. 
 
 Answer: In this paragraph our correspondent takes up a number of points, and on the principle that "the last shall be first," we shall first consider the last part of his interrogation, where he makes a distinction between the constellation Aquarius and the zodiacal division by that name. This, in itself, is a great difficulty to many people, who do not know how to differentiate between the zodiacal constellations and the so-called intellectual zodiac. The explanation is as follows: 
 
 A certain group of stars in the heavens is called Aries; another group, located close to them, is called Taurus; a third group of fixed stars is called Gemini, and so on. These twelve constellations, or groups of stars, as seen in the heavens, always remain in the same relative position, and they are therefore unchangeable. 
 
-[350] 
-
 Through all the centuries of which we have record, these stars have remained in the same group and in about the same relative position, one to another. Through these constellations the Sun circles from year to year with unvarying precision, but owing to the fact that the axis of the earth inclines toward the Sun and has a wobbling motion, similar to that of a spinning top which has almost spend its force, the motion of the Sun appears to be uneven. Each year, when it enters the constellation Aries, crossing the earth's equator, it is a little earlier than the year before. It precedes. Thus the point where the Sun crosses the equator at the vernal equinox moves backwards from year to year at the rate of one degree in seventy-two years, and the whole twelve signs in twenty-five thousand eight hundred and fifty-six years. This latter period is called a Great Sidereal year. 
 
 It has been observed that no matter where in the zodiac the Sun crosses the equator, a certain physical effect takes place. The flowers begin to sprout out of the earth, the birds begin to mate, the mute earth awakens to new life, new hope, and new song. Also the spiritual effects following the Sun's entrance into the Northern hemisphere at the vernal equinox has been observed to remain unchanged. Therefore the first thirty degrees from that point, where the Sun crosses the equator, are called Aries, the next thirty degrees are called Taurus, the third thirty degrees are called Gemini, and so on through the twelve signs. 
-
-[351] 
 
 This intellectual division of the circle of the zodiac coincides with the constellations in the heavens only once in twenty-five thousand eight hundred and fifty-six years. During all the rest of the time the intellectual zodiac moves backwards, as explained, on account of the precession of the equinox. The last time when the starting point in the intellectual zodiac agreed with the zodiacal constellations was about 500 A.D. A year after these points were in exact agreement, the Sun crossed the equator about fifty seconds of space in the constellation Pisces. The year following it was one minute and forty seconds of space into Pisces, and it has been creeping backwards ever since, until at the present time the Sun crosses the equator in about ten degrees of the constellation Pisces. It will thus be about 700 years before it actually crosses the celestial equator in the constellation Aquarius. 
 
 The Aquarian Age may be said to start at the time when the Sun enters, by precession, the 30th degree of the constellation Aquarius, and it lasts 2,100 years, while the Sun moves backwards through the thirty degrees until it comes to the first degree of Aquarius. There is, however, no definite and sharp cut-off such as we make when we say we enter the year 1915, which begins at twelve o'clock on the night of the 31st of December, 1914, and lasts until the 31st of December, 1915 at 12 o'clock midnight. That is a mathematical division of time. The various epochs of human existence depend upon vital influences in life, and are conditions of mind rather than divisions of time, though the two are linked. 
 
-[352] 
-
 Therefore, astrologers recognize what is called an "orb of influence." To understand this, we must realize that every human being is something more than that which we see; that he has surrounding him an aura, an invisible atmosphere, a something which radiates from him and which partakes of his distinct and personal nature. We very often feel the effect of this aura though we do not understand the reason why. Suppose that someone has his whole mind concentrated upon his work so that he neither hears not sees what happens about him. Gradually he becomes aware that someone else has entered the room--is, in fact, standing behind him--and he turns around to find a friend there. He had not heard the friend enter on account of absorption in his work, but he felt him, because the aura of the friend intermingled with his own auric atmosphere. Thus, though there was no physical contact, he knew that someone was close by. 
 
 The constellations are groups of great Spirits who have immured themselves in these starry bodies, for the sake of less advanced intelligence to again the experience of evolution. Each of the fixed stars in a constellation also has its invisible bodies, which extend from one to the other, intermingle, and overlap. Therefore, when the Sun reached the tenth degree of Pisces, it touched the fringe of the influence of the constellation Aquarius, though we are still in the Piscean Age. 
-
-[353] 
 
 That this influence is making itself felt, a glance of retrospection will soon show. We readily recognize the Piscean influence during the last two thousand years. The dark ages, the superstition and intellectual bondage then prevalent, are not entirely routed, but since the middle of the last century, when the Aquarian influence first began to make itself felt, an irresistible intellectual impulse has been instilled into our everyday life. Science has made such strides as never before. Invention has electrified the world and is now conquering the air, etc. This scientific intellectual influence will make itself felt more and more during the centuries which will pass before we definitely enter the constellation Aquarius by precession of the equinox. As the narrow, conservative Piscean influence diminishes, so will the broadening, inquiring Aquarian influence increase. 
 
 Regarding what the Aquarian Age stands for spiritually, we may realize that Aquarius is the only figure in the zodiac representing the full stature of a man. All the principal characters of the Old Testament were shepherds, having reference to "Aries," the sheep, ram or lamb. In the New Testament they are fishermen, referring to Pisces, the sign of the fishes, but the Son of Man is the subject of prophecy: of something yet to come. He is to usher in a glorious age, and therefore we may look for developments of a startling nature to take place in the nearest centuries before us. 
 
-[354] 
-
 Moreover, each of the foregoing ages has had its teachers. Osiris and Mithras were worshiped in Egypt and Persia, while the Sun was going through Taurus, the sign of the Bull. The Lamb was slain from the foundation of the Christian world, by Moses, while the Sun was going through the sign Aries. There was a great controversy concerning the symbol of Christ, on account whereof the Bishop's mitre is still made in the form of a fish, to symbolize the fact that the phase of the Christian religion then inaugurated was to hold sway during the Piscean or Fish Age, in which we now are. Later the ideal of the Son of Man, or Superman, will furnish inspiration for the Aquarian Age, which is now being ushered in. 
 
 The Aquarian Age is not to be confounded with the kingdom of Christ, who is to come again. Neither is the Aquarian Age to be confounded with the Sixth (Galilean) Epoch, for to quote the words of Christ, "Of that day and hour (when He comes), knows no man; neither the angels in heaven, nor the Son, but only the Father." It is absolutely preposterous and a mark of ignorance for anyone to predict that the coming of Christ will take place at a certain, specified time. Perhaps it is even presumptuous to guess at the approximate time when the Second Advent will take place, but the writer has the idea that, as the precessional cycles, so far as they are connected with the evolution of man, seem to commence with the Sun's entrance into Capricorn, there may be a development at that time. If that is correct, the Advent cannot take place for at least three thousand years. 
 
-[355] 
-
-THE ACTUALITY OF THE AQUARIAN AGE
-Question No. 111. 
+### <h3 id="question-111">Question No. 111: THE ACTUALITY OF THE AQUARIAN AGE</h3>
+ 
 A correspondent sends us a newspaper clipping in which someone asks the editor what is really the Aquarian Age, and the question is answered as follows: "There is no Aquarian Age; this fake was started by a professional faker by teaching that the solar system entered Aquarius recently. Not one tells when, and they write asking me the real date. The solar system is going directly away from Aquarius with the speed of twelve and a half miles per second. The solar system never has been and never can be anywhere near Aquarius. Yet pamphlets and monthly magazines are constantly issuing articles saying the same old thing, that the solar system has just entered Aquarius and great changes are coming to this human race, all of which is totally false." 
-
-[356] 
 
 Answer: Our correspondent wants our ideas on the matter, as we believe in and advocate the view that the Aquarian Age is at hand. We are therefore also among the class of publishers denounced by this editor as "fakers," but have no hesitation in complying with the request of our correspondent to shed more light on the subject of the Aquarian Age on that score. We are not disturbed by the attack when we consider the source. 
 
@@ -1933,17 +1793,11 @@ The question is one which depends upon the point of view, in one of its phases. 
 
 In the meantime students of occult philosophies ought to familiarize themselves with the astronomical facts so that they may be able to give an intelligent reason for their beliefs. It cannot be denied that when students who have studied the higher philosophy and thereby acquired a knowledge of super-physical facts are found wanting in their knowledge of the facts that are close at hand, such as given by astronomy and physiology, they do not impress the hearers very well. When we speak so learnedly about man's finer vehicles we ought also to know at least the main facts concerning the dense body which everyone sees, and when we speak about the influence of the stars we ought also to know something of the facts concerning the mechanical motions of the heavens as understood and known by astronomers. In order therefore that students who have not familiarized themselves with these things may gain an insight into the matter we will elucidate briefly. For a more thorough explanation the student is referred to our Simplified Scientific Astrology. The subject is there dealt with in the Philosophic Encyclopedia under the heading "The Intellectual Zodiac," and elsewhere. 
 
-[358] 
-
 When the earth moves in its annual orbit around the Sun it seems, when viewed from the earth, that the Sun travels through the heavens in a narrow belt consisting of twelve constellations or groups of stars which have been given certain names: Aries, Taurus, Gemini, etc. If the axis of the earth were as stationary as the axle of a wheel the Sun would always be found at the same place in the constellation where it was on the same day the year before, but the axis of the earth has a wobbling motion somewhat resembling that of a spinning top, whose momentum is about spent. This changes the apparent position of the Sun as viewed from the earth in such a manner that it appears to reach any given position a little too early. It precedes, and therefore astronomers speak of the "precession of the equinox." That is to say, the Sun appears to cross the equator at the vernal equinox each year a short distance before it reaches the point where it crossed the preceding year. Thus if one year it crossed in the first degree of Aries, the next year it would cross slightly within the limits of the constellation Pisces. The following year it would still be farther away in Pisces from the first point of Aries and so on. This backward motion, however, is so slow that it takes nearly twenty-six thousand years to go backwards through the twelve signs, or twenty-one hundred years to go through one sign, or seventy years to move through one degree. 
-
-[359] 
 
 Astronomers usually speak of "degrees of right ascension," by which they divide the circle of the heavens into the usual number of three hundred and sixty degrees, starting with the point where the Sun crosses the equator at the next preceding vernal equinox. But they also call the first thirty degrees from the point Aries, the second thirty degrees, Taurus, etc., the same as the astrologer. Thus there is the Natural Zodiac composed of the twelve constellations or actual groups of stars in the heavens which change so little that it is imperceptible in one lifetime or even in several hundred years, and the Intellectual Zodiac which starts from the point of the vernal equinox for any given year. 
 
 Seeing that the Sun by precession travels backwards among the signs of the zodiac, it will be understood that there must come a time when the vernal equinox occurs in the first point of Aries; and thus during that year the intellectual and natural zodiac agree. This occurred the last time about the year 500 A.D., and as the Sun has been traveling backwards at its accustomed rate of one degree in about seventy years, it is evident that at the present time the vernal equinox occurs in about ten degrees of Pisces. Thus, it will be about A. D. 2,600, or seven hundred years, before it actually enters the Constellation Aquarius. Or, to be in line with scientific facts, let us say, before it appears from the earth as if the Sun crosses the equator in the constellation Aquarius. During the twenty-one hundred years from the time, it will appear as if the Sun were in the constellation Aquarius every year at the time when it crosses the vernal equinox. Thus it may be said that the Aquarian Age comprises the twenty-one hundred years counting from about A. D., 2,600, during which the Sun by precession appears to be in the constellation Aquarius at the time when it crosses the equator and vernal equinox. 
-
-[360] 
 
 Has the reader ever sat quietly absorbed in a book or perhaps in writing or some other task, and then suddenly become aware that someone was standing behind his or her back, the approach of whom had been undetected because of absorption in the book or other matters? If so, though the person did not speak or move, the presence was felt more and more keenly until it made you turn. Surely this experience is so common that everyone is personally aware of the fact, but what is the explanation? It is simply this: besides the physical body which we all see, man has certain vehicles which are invisible to ordinary vision. These subtle sheaths extend beyond the physical body so that when we stand close to another person the ethereal bodies intermingle, and at times when we are very quiet and passive these subtle influences are more readily felt that at other times, though they exist and are powerful factors in our lives at all times. 
 
@@ -1951,18 +1805,14 @@ Has the reader ever sat quietly absorbed in a book or perhaps in writing or some
 
 Aquarius has an intellectual influence which is original, inventive, psychic, scientific, altruistic, and religious. If we apply the Biblical standard, "By their fruits ye shall know them," to this problem, we would expect to see that the Aquarian Age would be ushered in by original endeavors along all lines connected with science, religion, mysticism, and altruism, and we can now look back upon a period of about seventy years in which the Sun by precession has traveled one degree in the orb towards Aquarius. During that time we find that there has been a very marked change in all lines of thought and endeavor from that which history records throughout the past two millennia. Almost all the inventions which make our life today what it is have been made during that time. The telegraph, the telephone, the use of electricity, the conquest of air and steam, the gas engine, which is superseding steam, and other inventions too numerous to mention are marking the Aquarian progress in the physical world. 
 
-[362] 
-
 We also note the rapid rate at which all the movements of liberal thought in religious matters are superseding the old creed bound conditions and the increasing number of those who have developed the spiritual sight and are investigating the trend of evolution in the higher phase. Note the rapidity with which the science of astrology is gaining ground, and in this respect we may mention that one firm which deals in astrological ephemerides used only for astrological calculations is reported to sell about half a million a year. 
 
 All these things show, or give an inkling of, what may be expected to happen during the Aquarian Age. When such great strides have been made during seventy years while the Sun is just beginning to transmit the influence from the outskirts of Aquarius, what then may be expected when it enters the sign itself? Both the possibilities and the probabilities are far beyond the range of the wildest imagination, and this applies both to the physical and the psychical side of life. It is the opinion of the writer that spiritual sight be possessed by at least the majority of mankind, if not by all, so that the sting of death will be removed at least partly by the companionship that will exist with our friends and relatives who have passed out of the body. We shall then continue to see them a while and have time to get used to the fact that they are going to higher realms. We shall not grieve at all for the little children who die and retain their vital bodies, for they will probably remain with their parents until it is time for them to take a new embodiment. This often occurs in the same family. In those cases there would be absolutely no sense of loss. 
 
 When this point in evolution is reached mankind will also be so much more enlightened that it will avoid many of the pitfalls which cause trouble today, and it therefore favors a much happier existence than has been the rule up to the present stage. The added intellect will help us solve the social problems in such a manner that it will be equitable to all, and the use of continually improving machinery will emancipate mankind from physical toil to a great extent and leave more room for intellectual and spiritual improvement. 
 
-[364] 
-
-THE BEGINNING OF THE AQUARIAN AGE
-Question No. 112. 
+### <h3 id="question-112">Question No. 112: THE BEGINNING OF THE AQUARIAN AGE</h3>
+ 
 Why do some astrologers give the year 1912 as the beginning of the Aquarian Age? 
 
 Answer: We have seen that statement made, but no reason is given. You don't need astrology for that calculation, for ordinary astronomy will give it very clearly. The vernal equinox at the present time is in 10 degrees of the Constellation Pisces, and that of course is called by astronomers the first degree of Aries. They have the system we use in astrology of differentiating between the two zodiacs. They always start with the first point of Aries, which they call 0 degrees of longitude, at the same time when the Sun passes over the equator every year. They know and measure precession, at the rate of about fifty seconds of space ever year. When we go back that fifty seconds of space every year it amounts to one degree in about 72 years, and one sign in about 2,100 years, so that is the same measurement we are using in astrology. 
@@ -1973,23 +1823,19 @@ If we will consider the fact that Spirit is the sign of invention, originality, 
 
 It is usual for a great teacher to come in each age, and we may expect him to come through the Rosicrucian Fellowship, because the Rosicrucian Fellowship is the herald of the Aquarian Age as John the Baptist was the herald of the Piscean Age. 
 
-PLANETARY HOUR TABLES
-Question No. 113. 
+### <h3 id="question-113">Question No. 113: PLANETARY HOUR TABLES</h3>
+ 
 Is it right to use the guidance of the planetary hour tables for the purpose of pecuniary gain, or to gain the advantage over another person? 
 
 Answer: It is certainly very wrong to use any means to get the advantage over another person, it doesn't matter what the reason is. If on the other hand, we want to help somebody--let us say that a person is sick and we want to pour out our vitality and give him all that we can spare--then we can do that best in the hours of Mars, the planet of dynamic energy. If we want to help somebody obtain a position, and we use the hour of the Sun to go and ask for a position for him, the Sun signifying an employer, then we are more likely to be successful than at another time. We are using it legitimately, also, if we have to go and face somebody that may harm us. If we can find a good hour it is all right. 
 
 The editor was in Germany in 1908, and over there in peace times everybody had to register. Those who were strangers had to register at the police station and go in person to show their papers and give a good account of themselves. The police secured a good description of them, asked about their religion, whether married or single, and how long they intended to stay. These and many more questions had to be answered, and if one moved around the corner to another place, the process had to be repeated. These officers were very brusque and it was not very pleasant to face them. So we thought we would go in the hour of the Sun when the Sun was well aspected, and everything was as harmonious as possible. We were treated very politely, and everything went beautifully. However, later we moved. That time we couldn't find an auspicious hour of the Sun, so went in another hour. They were so brusque that we were relived, pleased, and thankful to get out of the station with a whole skin. So planetary hours do have some effect, if that experience counts. 
 
-[368] 
-
-ASTROLOGICAL SYMBOLS
-Question No. 114. 
+### <h3 id="question-114">Question No. 114: ASTROLOGICAL SYMBOLS</h3>
+ 
 Would you tell us what was the origin of the symbols, and the shapes of these symbols representing the different signs of the zodiac, also the planets? Why are some quite easy to decipher, while others are just the reverse? 
 
 Answer: There seem to be about three factors in the symbols for the planets. There is a circle which means spirit, the half circle which we may take as a symbol of the soul, and the cross which we take as a symbol of matter. If we apply that key, we have in the Sun symbol a circle which stands as a symbol of Spirit. Then we have Mars which is composed of the circle and the cross above. The Spirit is under the cross, which we may take to mean that the Spirit is in bondage to matter and to the body. Thus we find the martial people very material. They usually do not believe in anything supernatural, as they call it--only what they can see, and might is right with them. The higher, finer, and nobler feeling are held in abeyance; there is mainly the physical side expressed. Everything is for self. Mars always asks: "What can I get for myself and how much pleasure can I get? What is the best I can do for myself and how can I oust everybody else?" 
-
-[369] 
 
 Venus is just the reverse. Mars will fight, but Venus doesn't fight. Her symbol has the Spirit above the cross of matter. The Spirit has the balance of power and therefore she is the planet of love. She says, "How much can I do for somebody else? I want to help somebody. I want to attract everybody to myself that I may do them some good." 
 
@@ -1999,41 +1845,31 @@ When you take the opposite combination, you have Jupiter, the soul above the cro
 
 We also have the half circle by itself, the Moon, but that is just the soul. The lunar people are emotional, but they haven't much backbone. Finally, we have the planetary symbol composed of all three factors. This is the planet of mind, Mercury, uniting all the attributes of body, soul, and Spirit. It is the pivot. Mercury enhances the good of both the reason and the reasoning mind, but is of no value except as colored by the other planets. 
 
-[370] 
-
 If we combine the planets symbolism is also seen. The Moon with Mars makes the person still more foolhardy and harebrained than he would otherwise be. The Moon together with Venus, makes that person more emotional and devotional than otherwise. If Mercury is with Mars, it gives a keener intelligence and reasoning power; with Saturn it gives him deeper thought and a grasping and selfish mind. Jupiter with Mercury enhances the good of both the reason and benevolence and they work together for philanthropic purposes. So with all the planets, because they are composed of these constituent parts of the symbols. 
 
-EGYPTIAN ASTROLOGERS
-Question No. 115. 
+### <h3 id="question-115">Question No. 115: EGYPTIAN ASTROLOGERS</h3>
+ 
 Why did the ancient priests of Egypt study astrology so thoroughly? 
 
 Answer: Why, the whole fate of humanity is bound up by the stars. It doesn't matter whether we go to our own Bible or the textbook of any other religion. Everywhere we shall find that the stars are given a more prominent place. In our own Bible we know that they are called the Seven Spirits before the Throne. They are the Seven Star Angels as known particularly to the Catholic Church, the Seven Planetary Spirits that have had to do with our evolution every since humanity began to evolve on this planet. Therefore, naturally the course of the stars and their configurations are time markers in the history of humanity. 
-
-[371] 
 
 We hear Pythagoras speak of the music of the spheres. Most people think that a poetical expression. It is not; it is a fact. Anywhere we go we shall find there is a sound distinct from the sounds of other places. The rustle of the trees when the wind is blowing, the babbling brooks, all have peculiar sounds. No two brooks will give the same sound. Musicians who have a trained ear can hear the difference. If we go into a city there is a conglomerate noise, but all that noise blends into the tone of the city. The composite of all the sounds all over the world, the rustle of the winds in the trees, and all the noises are heard in space as a certain single tone--the tone of the earth. 
 
 These stellar orbs travel around, as is well known to astrologers, but not in a circle. They don't stay in one order, but come into different configurations with one another. The same is true of the Seven tones in the octave, which are the replica of the Seven Planetary Spirits. Just as they can be brought into different connections and make different chords, so also these different tones of the worlds that are moving through space make up the harmony of the spheres, and according to the change in these vibrations humanity is evolving. There is a different vibration every single moment of time, and as a new being comes into existence, these varying vibrations act upon him and make him different from all others. Therefore he has a certain fate. 
 
-[372] 
-
 It is the same in the microcosm and the macrocosm, the little world and the big world. We all have to do with the stars. Everyone is bound up with the stars, without them there is nothing done or made. That is why the ancient priest of Egypt who knew, took up that phase of religion. That is why they studied astrology so thoroughly, and the day will come when a great many more people will study it. The science of astrology will be revived when we grow wiser. 
 
-ASTROLOGY A RELIGION
-Question No. 116. 
+### <h3 id="question-116">Question No. 116: ASTROLOGY A RELIGION</h3>
+ 
 In some of your literature you say, "To us, astrology is a phase of religion." Please tell us wherein astrology coordinates with the Christian teachings. 
 
 Answer: The preceding question ought to answer this. The Seven Spirits before the Throne are the Planetary Spirits of the marching orbs. We cannot separate them from religion. Even in the earliest times we find everywhere the stars are a part of religion and without them there could be no religion. 
 
-[373] 
-
-HAIRBREADTH ESCAPES
-Question No. 117. 
+### <h3 id="question-117">Question No. 117: HAIRBREADTH ESCAPES</h3>
+ 
 Can you explain the precise way in which astrological influences acts? It seems extraordinary that because a man's horoscope contains no evidence of a violent death he can have such miraculous escapes. For example, in the present European war there are scores of instances of men exposing themselves most recklessly in the midst of a perfect hail of bullets and coming though unscathed. There was a French general, so fat that he could scarcely walk, who would perch himself on a camp stool outside the trench and be potted at for quite long periods. He was never hurt. Again, a British aviator descended quite low over the German trenches, and competent observers say that although for ten minutes thousands of shells were fired at him, he was untouched. In what mysterious way is such protection as this afforded by stellar influences? 
 
 Answer: Astrologers who have investigated the horoscopes of a number of victims of accidents like those of the "Eastland" and the "General Slocum" always have been able to find serious afflictions in the victim's horoscope, and one of the European astrologers, we believe it was "Sepharial" recently compared the horoscope of forty people slain on the battle field in the same engagement. The result showed severe afflictions in every case, and it is equally certain that anyone who has a miraculous escape must be under good directions at the time. 
-
-[374] 
 
 A study of the nativities reveals that fact that while certain people are immune from accidents all their lives, other people are subject to them at every turn. A third class will have many hairbreadth escapes from the cradle to the grave. In The Rosicrucian Cosmo-Conception we cite the case of a man belonging to the class which is always meeting with accidents. He was not by any means a reckless or careless man. On one occasion he was hurt while climbing into a buggy. On the occasion cited in The Rosicrucian Cosmo-Conception he was riding on a street car and could not be blamed for the misfortune which overtook him. However, both of these accidents and others were foreshown very clearly in his horoscope. It was further seen that this was the result of an inexorable fate, for the writer had warned him and predicted the exact date of the railroad accident months before. The poor man was anxious to escape and had stayed at home on the day preceding the accident under the impression that that was the fateful day. Afterwards it was found that he had become confused on the date and therefore fell a victim. 
 
@@ -2043,47 +1879,35 @@ There must be a similar configurations in the cases of those mentioned by our fr
 
 Nor should this surprise us when we consider that the stars are living, pulsating bodies of great Intelligences which are the ministers of God. If a puny wireless plant made with human hands can send wireless waves thousands of miles into space and there move a lever, light a lamp, or operate a telegraph key, according to the will of the sender, why should it be impossible for the dynamic energy of such great Spirits to send abroad in the universe rays of force or potency capable of operating many millions of miles away from them? Whether we realize it or whether we believe it, the fact remains, nevertheless, and all the skeptic needs to do to find evidence is to watch the movements of the Moon and Mars. 
 
-[376] 
-
 These two planets play a very considerable part at the present time, for people have allowed themselves to yield to their impulses for the last two years. It is true that we strengthen our characters by ruling our stars and fortifying ourselves against their impelling influences. It is also a fact that the more readily we yield to them at one time, the more potent we shall feel their influences the next. 
 
-NEPTUNE THE OCTAVE OF MERCURY
-Question No. 118. 
+### <h3 id="question-118">Question No. 118: NEPTUNE THE OCTAVE OF MERCURY</h3>
+ 
 Why do you call Neptune the higher octave of Mercury? 
 
 Answer: Mercury is usually associated with reason and intelligence; to him is ascribed ruler over the nervous system, which is the medium of transmission between the embodied Spirit and the world without. Thus, as Neptune signifies the sub and superhuman intelligences who live and move in the spiritual realms of the universe, but who work with and upon us, so Mercury indicates the human intelligence focused upon the terrestrial physical world wherein we live from birth to death. Therefore, it may be said that Neptune is the octave of Mercury, but there is a deeper sense. 
-
-[377] 
 
 Reference to a textbook of anatomy or physiology will show that lengthwise fissures in the spinal cord divide it into three parts, which enclose a hollow tube. Each of these columns is ruled by one of the Hierarchies in closest touch with us, the lunar, martial or mercurial, predominating, according to the stage in evolution of the individual. In the spinal canal the rays of Neptune kindle the spinal Spirit Fire whereby the Human Spirit is enabled to pierce the veil of flesh and contact the worlds beyond. This vision is colored according to the column of the cord most actively excited. 
 
 In the childhood days of mankind the creative force which is now turned outwards to build ships, houses, railways, telephones, etc., was used inwardly to build the organs of our body, and as the surrounding physical world is photographed upon the table of a camera obscura, so the spiritual world is reflected in the spinal canal. There man beheld first the lunar God, Jehovah, whose Angels were then his tutors. Later, Angels who had fallen behind the standard of their compeers, and whose evolutionary requirements were therefore different, forced entrance to the spinal cord of man. The spiritual inner vision of mankind faded when "their eyes were opened and they saw they were naked." 
 
-[378] 
-
 Then they lost touch with the higher self. They saw only the person, and the docile creature of Jehovah was soon transformed to a savage and a brute under the impulse of Lucifer Spirits, the hierarchy of Mars. However, by their promptings man has also learned to conquer material obstacles, to build outwardly and become architect of the world. To counteract the unmitigated selfishness bred by the martial Angels and to make mankind humane, our Elder Brothers from Mercury, human like ourselves, whose high state of evolution required the higher vibration generated and prevailing in close proximity to the Sun, were required to invest the spinal cord of mankind also. Through their labors civilization has taken on a different form. Mankind is again beginning to look inwards, and when the mercurial rays meets the ray of Neptune in the spinal canal, man finds again his higher self--the Christ is born within. 
 
 Thus there is a connection between the Moon, Mercury, and Neptune. Those who come in touch with Neptune through the Moon may become irresponsible mediums, victims of obsession, etc., but where Mercury is the gate, reason and understanding guide the aspiring Spirit. An afflicted Mercury may sometimes tempt seekers to enter by the wrong door, and mental trouble may result. If aware of the danger, however, continual care and persistence usually unlock the door of the temple, for the good forces are in the ascendancy now and grow stronger as time passes. 
 
-[379] 
-
-EFFECT OF VENUS IN THE TWELFTH HOUSE
-Question No. 119. 
+### <h3 id="question-119">Question No. 119: EFFECT OF VENUS IN THE TWELFTH HOUSE</h3>
+ 
 I noticed in the magazine for April just to hand you welcome queries relating to discrepancies in astrological delineations, so I should be pleased if you would point out the line of thought to make the following statements agree. 
 
 In the horoscope for Doris A., in the February rays, you say she is going to have an easy life, for there is not a single bad aspect in the figure. Now, Venus is in the twelfth house, and in The Message of the Stars it is stated, speaking of Venus in the house of sorrow, presumably the twelfth, "There the smile of love is drowned in tears." 
 
 Answer: When you judge the effect of planets in any horoscope you should remember in the first place that no single aspect or position is sufficient to cause any important effects in the life, but that the general tenor of the horoscope must always be taken into consideration. In the next place it is important to remember that aspects between the planets have a stronger effect than mere house or sign position. If the general indications of a horoscope show a good and easy life, Venus placed in the twelfth house will not alone be able to change the validity of this judgment. If she were afflicted by a square or opposition of Saturn, the case would be different, and the general judgment must be modified to conform to this fact. 
 
-[380] 
-
 However, if she were to receive a trine from the Sun or Jupiter, the mere fact of her placement in the twelfth house would be almost nil in comparison with the effect of such powerful aspects. So if you will just keep these points in mind and remember that the influences of an unaspected planet is weak, no matter where it is placed in the horoscope, and that no single aspect is decisive at any time, you will have no difficulty in reconciling our statements. 
 
-USE OF ASTROLOGY TRAINING CHILDREN
-Question No. 120. 
+### <h3 id="question-120">Question No. 120: USE OF ASTROLOGY TRAINING CHILDREN</h3>
+ 
 In training children it is advised that parents get an astrological reading of the child's potentialities so as to inhibit detrimental tendencies and strengthen the beneficent. Does this pay? Is it not necessary and ultimately beneficial for the child to pass through the so-called adverse moods and experiences? Will not the spiritual nature be stronger when they are overcome? Is not acquired virtue better than innocence or purity through evasion? 
-
-[381] 
 
 Answer: No, we do not advise parents to get an astrological reading for their children. We advise them to study astrology for themselves so as to be able to study and read their children's horoscopes. We do this because although strange astrologers, professional or otherwise, may be much more competent to read the children's horoscopes than the parents, they lack the keen vital interest and the sympathy which will intuitively guide the parent to a much better understanding of what is contained in that little figure than ever an outsider can. 
 
@@ -2091,33 +1915,25 @@ The parent will have a much keener appreciation of what is shown in the child's 
 
 Now our correspondent asks does this pay. Is the child not going to be much better off by just simply wading through the mire and blundering along than by avoiding the pitfalls that are shown? Surely not. What would we think of a captain of a ship who set out on a voyage without either chart or compass because he though it would be far better to learn by experience than to avoid the rocks and shoals already charted by others? We should call him a foolhardy man, and be surprised if he did not put his ship on the rocks and smash it to pieces. If everyone refused to take the experience of others as contained in books and the general knowledge now available in the world, how limited would be the experience of each! All the world would commit the same blunders over and over again. 
 
-[382] 
-
 We find the same thing in our colleges as compared with the manually trained mechanics. The boy who goes into a shop and learns only by practice what work is done there may become fairly proficient in his trade during the time another spends in a technical school, but once the technical student has graduated and entered the ship, he not only quickly catches up with the man who has learned only by experience, but soon passes him and goes to the top. Such is the universal experience in all parts and departments of life, that by adding the practical experience of others contained in books and taught in school to our experience we acquire a vast amount of knowledge that could not be obtained in any other way. 
 
 It is the same in the school of life with respect to ethics and morals. If someone who is interested in us knows just at what point we fall short, is able to supply the needed training or encourage us to train ourselves in that particular branch of morals and ethics, or is ready to help and restrain us when we would rush headlong into a pit, he may help us acquire the same faculties and qualities in a different way than would be the case if we were left to our own devices and forced to learn by experience. Thus we shall be able to advance upon the path of evolution much better than if we had to learn through our own sin and suffering. 
-
-[383] 
 
 If we see in the horoscope of a little child a tendency toward drunkenness, and we take it during its years of childhood when the nature is sympathetic and sensitive, to places where others are making beasts of themselves, to homes where children are being beaten by a drunken father, and to any other place where an object lesson that will appeal to the sympathies of the child may be had, the changes are that we may instill in such a little on a horror for a drink that will last throughout life and keep it on the straight path so far as that vice is concerned. Then the child has learned the lesson equally as well by the sorrows of others as if it had to go through the mire itself, and the object has been attained. 
 
 Besides, the parent or guardian who has done the child such a wonderful service will have laid up for himself a treasure in heaven that is precious beyond all that words can express. Therefore we shall continue to urge parents and guardians to study the science of astrology and apply it in the training of children. By our simplified system it is easy to do the mathematical part, nor is the reading difficult when love points the way. 
 
-[384] 
+### <h3 id="question-121">Question No. 121: THE EFFECT OF ENVIRONMENT</h3>
 
-THE EFFECT OF ENVIRONMENT
-Question No. 121. 
 In drawing a horoscope does one take into consideration the conditions and environment which affect the life of a certain person or are the rules laid down in astrological books correct as applied to any person, and at any time of his or her life? 
 
 Answer: No, the readings are not correct as applied to any time of life. We must always say that such and such aspects and configurations in a horoscope give such and such tendencies. Just as a plant has to have time to grow and unfold its various little leaves and flowers, so also the human plant must grow, and things that are latent at birth will be gradually unfolded in the course of life. That is to say, as far as his or her environment permits. 
 
 Aspects means something different to people placed in different circumstances. To name a historical case, if memory serves correctly, a child was born at the very same minute in the lower part of the city as George III was born in the palace at Windsor. These two children grew up and each entered an independent career on the same day, that is, one became a monarch and the other went into business. They married on the same day, had the same number of children (but that could be only coincident, because children are dependent upon the other party's horoscope also), and they also died on the same day. Thus the main events of their lives were similar, yet they were different because of being placed in different environments. One was a king, the other an ironmonger. If you will read the article in The Message Of The Stars, "The Measure of Amenability to Planetary Vibrations," you will see that humanity learns to respond to one after another of the planets. Many of us are beginning to respond to Uranus, but very few people respond to the vibrations of Neptune. 
 
-WHY MERCURY IS COLORLESS AND NEUTRAL
-Question No. 122. 
+### <h3 id="question-122">Question No. 122: WHY MERCURY IS COLORLESS AND NEUTRAL</h3>
+ 
 You say that Mercury is colorless and neutral in its influence. Would not that indicate that the humanity of Mercury is at a very low stage of development, and if so how can they have an influence upon the mind of humanity in such a manner that it promotes reason? 
-
-[386] 
 
 Answer: During the first three and a half Revolutions of the Earth Period the influence of Mars had been paramount to galvanize humanity into action, but since the middle of the Atlantean Epoch when mind had been given to all, Evolution and Epigenesis (the exercise of man's own original creative talent) are gradually bringing us Godward. While the influence of Mars was paramount as said, the mercurial influence was almost nil, for the planet Mercury had been in obscuration, undergoing one of the periodical planetary rests from which it began to emerge during the Atlantean Epoch, when the Lords of Mercury were called upon by Jehovah to aid Him in counterbalancing the influence of the Lucifer Spirits upon humanity. Since that time the influence of Mercury has been constantly increasing, but it will probably take many millennia before its full influence is felt. There are no sudden processes in nature and it takes a long time for a planet to go to rest or come out from a period of obscuration. It must not be forgotten either that we are not mentally qualified to take full advantage of the Mercurial vibrations as they exist at the present time, for the humanity of Mercury is far beyond our stage of development, though they as well as all the other planets are following different lines of evolution from that which is going on upon the Earth. 
 
@@ -2127,15 +1943,11 @@ The whole Region of Concrete Thought is basically a dazzling, brilliant white, o
 
 Perhaps the whole matter can be best explained by the illustration of field glass. If we take one that is of poor quality, we shall find that the glass is not quite clear and that it shows a number of colors in the lenses. Thus the objects upon which this glass it focused are seen but indistinctly, their colors not being shown up true, but when we obtain a first class instrument it is, as we say, chromatic. It will not show any colors in the glass, and therefore it can properly transmit the true colors of objects upon which it is focused. Being perfectly clear and absolutely neutral it may be focused upon distant objects. The mercurial rays are singularly well adapted to express the mental faculty for the similar reason that they are colorless themselves. 
 
-[388] 
-
-PREMATURE BIRTH
-Question No. 123. 
+### <h3 id="question-123">Question No. 123: PREMATURE BIRTH</h3>
+ 
 Will you kindly explain in the astral ray this apparent discrepancy of statement: In the current number of Rays, page 110, last lines of first paragraph, it is stated, ". . .and that when we seem to delay or accelerate birth we really are aiding nature to takes its predetermined course. . ." Whereas in your article on the triplets last year it was written: ". . .it would be absolutely wrong if a physician hurried someone across the threshold when he was about to die. . . it is in no way different from what the physician does when he hurries the birth of a child. . . then we may see a reason for the fact that certain people do not seem to fit into their environment. They were hurried into the world under a planetary vibration that was not at all intended for them." I had fixed firmly in my mind the admonition contain in the "triplet" article, but these later remarks seem to modify it. 
 
 There are also two other points on which I am seeking light. In this same article in the February number it is said: ". . .it is better to be born when the Moon is increasing in light. . .the growing Moon always increases vitality and furthers our affairs." But in several past reading it has been pointed out that the conjunction of the Moon with the Sun is one of the best augurs for health and general prosperity. How do you reconcile these statements? 
-
-[389] 
 
 In a recent vocational reading, writing of the square of Saturn and Mercury, it is said: "This makes you critical and sarcastic, particularly to those you work with." Saturn is, however, the planet of diplomacy, and in former readings it was stated: ". . .while if Mercury is in the Saturnine signs Capricorn and Aquarius, or Saturn is in the Mercurial signs Gemini and Virgo, or Saturn and Mercury are configurated, it gives the person caution, tact, and diplomacy." 
 
@@ -2145,25 +1957,19 @@ This is an abnormal case which comes near being in the same category as a Seven 
 
 We think that it is sometimes possible for an astrologer to give advice which may interfere with the ripe destiny of someone else, and we may cite in illustration of this the case mentioned in the Cosmo where the editor warned a man of an accident on a railway which would happen on a certain day. The man went on the railway, however, and was hurt according to the prediction. He thought that the twenty-eighth was the twenty-ninth, and we believe to counteract the prediction of the editor the Lords of Destiny or their agents made the man forget. Thus we believe that they interfere in all things which are not to be altered by human interference, and on that account we think the mother of the triplets was provided with someone who would allow nature to take its course. Special cases are taken care of in a special manner, there probably being a reason for the untimely birth, but we have never had the time or the opportunity to investigate that. 
 
-[391] 
-
 With respect to the point brought up in the second paragraph, it is perfectly true that we have said all these things, and there is no reason to modify any of them. The conjunction of the Sun and the Moon is one of the best augurs for health and general success. At a conjunction the Moon begins to increase in light and continues to do so until the time of the full Moon. Truly, it is better to be born while the Moon is increasing in light than from the full Moon to the next conjunction when the light of the Moon is on the wane. 
 
 With respect to the matter mentioned in the last paragraph, the student should realize that the virtues conveyed by a planet are brought out by its favorable aspects, the sextile or trine, in particular, while the vices of a planet are expressed by the square or opposition, which are unfavorable aspects. If now we set some of the virtues of Saturn down as tact and diplomacy, we could not expect to find them under a square of Saturn and Mercury, but we would look for the vices of Saturn and conclude that a person with that configuration must be cynical, critical, and sarcastic. We do not recollect where the reading is in which we said that if Mercury is in the saturnine sign Capricorn or Aquarius, or Saturn in the mercurial sign Gemini or Virgo, or Saturn and Mercury are configurated, it gives the person caution, tact, and diplomacy. However, that is true if they are configurated by favorable aspects. Then the virtues of Saturn are brought out, but if the configuration is by adverse aspects, as the square and opposition, it brings out the vices. We may have been speaking of a good aspect in that case and had forgotten to mention also the modifying effect of a bad aspect. If so we trust that the foregoing will make it clear. 
 
 In conclusion we may say that we are very glad to have the students bring up any points where they think there is a discrepancy, or where we have not made ourselves clear. In that way we shall get the most benefit out of these studies. 
 
-[393] 
-
-THE BEST TIME TO BE BORN
-Question No. 124 
+### <h3 id="question-124">Question No. 124: THE BEST TIME TO BE BORN</h3>
+ 
 According to astrology, when is the best time to be born? 
 
 Answer: In the light of occult investigation of some of the modern methods it appears that birth is an event we are powerless to control. When we seem to do so in a slight degree we are really agents of destiny to accelerate or delay it till the proper moment has arrived. This view is also justified by the author's experience in horary astrology. The philosophy of horary astrology is that at the time one is impelled to ask a question concerning an important matter the heavens contain also the answer, and a figure set for that time will contain the solution to the problem. But it should be particularly noted that the time to set the figure is when the inquirer asks the question of the astrologer, when this is done in person. When it is done by mail the astrologer sets the figure for the time he reads the question in the letter. 
 
 On a number of occasions we have received letters containing questions which bore marks of having been delayed by flood or fire, but the figure cast for the moment of reading gave the answer, showing that the delay had a part in the plan. Nor should it surprise us that the great Intelligences which are the ministers of destiny, foresee and make allowance for contingencies beyond the grasp of the human mind. When the Infinite Mind bestows equal care when designing the anatomy of a fly, a mouse, or a lion, may we not conclude that a similar attention to the minutiae prevails in all departments of life? When we seem to delay or accelerate birth are we not really aiding nature to takes it predetermined course, as said in the opening sentence of this article? 
-
-[394] 
 
 Nevertheless, people often ask the astrologer when is the best time to be born. Young astrologers also frequently want to know--not that they have any idea of controlling birth, but so that on seeing a horoscope, or being told a person's time of birth, they may make a quick mental calculation to determine whether he has a so-called good or bad horoscope. Such a judgment would of course be founded only on the position of the Sun by sign, and approximate house, hence general in the extreme. It may be said, however, that other planetary positions being equal, it is better to be born when the Moon is increasing in light, from the new to the full, than when she is decreasing, from the full to the new, for the growing Moon also increases vitality and furthers our affairs. 
 
@@ -2177,42 +1983,30 @@ We may therefore sum up our conclusions by saying that it is best to be born at 
 
 Finally, it should always be born in mind that there is no "luck" in the commonly accepted sense, but that what we have or lack in any respect is due to our own actions in the past and that in the future we may have what we now lack by proper application. 
 
-THE BALANCE OF JOY AND SORROW
-Question No. 125. 
+### <h3 id="question-125">Question No. 125: THE BALANCE OF JOY AND SORROW</h3>
+ 
 Is sorrow necessary in the great scheme of things? Is it not a part of God's plan for us to be joyful? 
-
-[396] 
 
 Answer: When Tannhauser, driven by his unholy passion for the noble, pure , and virtuous Elizabeth, wandered into the mountain and was attracted to the cave of Venus as steel to a magnet, he was not only allowed, but encouraged to gratify his sensual desires to the fullest extent. Naturally, he was soon satiated with passion and he prayed to be released from the goddess Venus and to be allowed to return to the earth. In the course of his plea he utters the truism that at the present stage of development man requires both joy and sorrow for his proper development. In the philosophic mind this sentiment evokes instant assent, for although we are all human enough to crave joy and dread sorrow, we cannot upon proper thought fail to realize the fact that a life of constant joy without the slightest sorrow to mar it would be absolutely insipid and colorless. It is the proper blend of light and shadow that gives beauty to a picture or landscape, and a similar arrangement of sorrow and joy is required to lend zest to life and make it worthwhile. 
 
 From the astrological standpoint the light and the shadow of life is furnished by the position and aspects of Jupiter and Saturn at birth, together with their progression and transits in respect to the horoscope of any person. The joy and laughter come from Jupiter, the planet of benevolence and optimism, who bestows upon us the favors of the gods in the measure which we have deserved their bounties. On the other hand, Saturn, the planet of pessimism and obstruction, is the dispenser of disfavors which we have incurred by actions inharmonious with the law, and as we are still ignorant of how to work in harmony with God's great plan of the universe, 
 
-[397] 
-
 it is small wonder that the switch of Saturn is needed to whip us into line when we have departed from the path of virtue. However, it is a most significant sign of our Father's love that Jupiter travels three times around the horoscope, making aspects and bringing opportunities for good, to every revolution of Saturn, which brings to us the experiences which are called evil by those who lack understanding. 
 
 What a wonderful blessing astrology is, giving us an insight into the infinite plan of evolution, whereby we are all slowly being educated from ignorance to omniscience! Saturn is one of the main factors in this process of enlightenment. To those who do not know astrology it may seem as if sorrows come upon them for no reason that they can discover, and they very often envy those who are more fortunate seemingly than themselves. However, once they have learned to look for light through astrology the whole viewpoint of life is changed. It then becomes evident that we are there not for pleasure but for experience, and no matter how sad or how disastrous these experiences may be the true student of astrology welcomes them and seeks to find out the reason from the astrological viewpoint, and the lessons to be learned. Furthermore, he derives the comfort from his knowledge that the aspects which produce disastrous effects are only passing and that in due season, which he can definitely calculate, the whiplash of Saturn will disappear and the benefic ray of Jupiter will again dispel the saturnine gloom and heal the hurt. This knowledge naturally gives him courage to bear up in the days of trial and keeps him in a hopeful attitude of mind looking forward to the time when the tribulation will be over. 
 
-[398] 
-
 When we live in ignorance of God's great plan and have no conception of the cyclic ministrations of sorrow and joy brought into our lives for our good by Saturn and Jupiter, we are pat to become too elated and overjoyed when Jupiter showers the good gifts of the gods--health, wealth, friends, success, and prosperity--upon us. We are also prone to become unduly downcast when under the scourge of Saturn we are deprived of all that makes life worth living. However, when the book of life has been opened up to us by the sacred science of astrology and we recognize therein the benevolent purpose of God and His ministers toward us, we gradually learn to keep our balance so that when the joys of Jupiter come our way we are not too joyous, but receive them in a chastened spirit and learn to consider ourselves stewards of all good things that are thus given into our hands. We learn that we are to use them, not for our own selfish interests and purposes, but for the good of all, and that some day an accounting will be required of us where we must show how we have used the stores of our Lord. 
-
-[399] 
 
 On the other hand, the whiplash of Saturn will not be long or often applied to one who uses self-examination to see wherein he is falling short and to find the fault that is causing him tribulation whereunder he is suffering. That lesson will certainly be found by the sincere seeker and when it has been discovered the joy at having found a valuable pearl of knowledge will far overbalance the pain involved in learning the lesson. In the course of years there will be evolved that most valuable of all the Ego's possession, equipoise, which lifts the man who has it above the surging sea of emotions into the realm of eternal peace that passes all understanding. When he has arrived at that point in his development neither Saturn, Jupiter, nor any other Planetary Spirits will have the power to move him, for he has then learned to rule his stars and regulate his fate according to his own divine will. 
 
-PLANETARY POLARITY
-Question No. 126. 
+### <h3 id="question-126">Question No. 126: PLANETARY POLARITY</h3>
+ 
 Speaking of planetary polarity for marriage, Moon and Venus being significators in a man's horoscope and Sun and Mars in a woman's, you say that if these planets are harmoniously configurated, etc., harmony will prevail. Does the configuration referred to mean the configuration of Moon to Venus and of Mars to Sun in the respective horoscopes, or if Moon and Venus in one horoscope to Sun and Mars in the other? How would it be if the man's Sun antagonized his own Moon but harmonized with the prospective mate's Moon? In the case the Asc is not known, what is the best basis for estimating capability? Is it the harmony or otherwise of the two Moon signs? 
-
-[400] 
 
 Answer: It really means both to have harmony. A person with Mars square to Venus will not be very successful in love affairs, but if Mars in a woman's horoscope be in the place of Venus in a man's horoscope, then it is a case of love at first sight. However, that love is of the earth earthy--it is the lower phase of love. The Sun of one person on the other's Moon brings a very spiritually harmonious condition. It is also true that even the opposition of the two luminaries from one horoscope to another will bring harmony, because they are opposite. It doesn't act that way with the squares, but the opposition we have found to produce harmony. The Sun and Moon square always renders a man vacillating. He never knows his own mind. He is torn between two ideas all the time. Nevertheless, he may be very harmonious with somebody else of the other sex, if his Moon is in the place of the woman's Sun, or trine. That would certainly bring spiritual harmony. 
 
-[401] 
-
-THE PURPOSE OF TEMPTATION
-Question No. 127 
+### <h3 id="question-127">Question No. 127: THE PURPOSE OF TEMPTATION</h3>
+ 
 Would it always be running a great risk to put temptation in the way of a person whose horoscope shows either Mercury or Neptune afflicted by Saturn, regardless of counterbalancing testimonies? 
 
 Answer: That is just what we are here for, to have temptation. Did you ever realize that temptation is one of the greatest blessings that we possibly can have, because if we stand firm for the good then we have won and we have acquired a definite virtue. If we do not, we will suffer the consequences and will learn by the pain that will come to us. 
@@ -2221,51 +2015,32 @@ There is in the Bible an instance in point. In one place we are told how King Da
 
 An examination before a school board is held to see if the pupil understands. If he doesn't, the teacher wants to find it out so he may know how to teach him later on. Satan in the Bible does not mean a monster that goes around with horns and tail, but it means an adversary. Christ called Peter, Satan, when Peter said: "Oh, no Lord, you shall not go up to Jerusalem to suffer." He was an adversary. At the examination the teacher as an adversary of the pupil. God said to David, "Go and number your men because there is going to be a fight with the Moabites," and He expected David would say, "What is the use of numbering the people of Israel, men do not count. It is you, Lord, that counts. It is you we trust, not our own strength." If he had learned to do that then he would have learned his lesson. Instead of that he went and numbered Israel and perhaps he felt, "Well, I guess we will be able to wipe out these Moabites, and I don't think we need the Lord so much anyway." The Lord had to show both him and the Israelites that they weren't fit to trust in themselves--that they did need the Lord--and in one night he cut off many thousands and reduced them to a handful. Then He said, "Now, I will go out and fight for you, and you will know it is I who gave you the victory." Thus temptation is for good, to test whether we are strong enough in character and whether we have learned our lesson. So whether a person puts a glass of liquor before you or tempts you some other way doesn't matter. If one is weak enough so that he can be tempted he has a lesson to learn in that respect. 
 
-[404] 
 
+<h2 id="section-9">SECTION IX: QUESTIONS DEALING WITH MISCELLANEOUS SUBJECTS</h2> 
 
-
-
-[405] 
-
-SECTION IX
-
-QUESTIONS DEALING WITH MISCELLANEOUS SUBJECTS 
-[406] 
-
-MOTHER LOVE AS A FACTOR IN MATERIALIZATION
-Question No. 128. 
+### <h3 id="question-128">Question No. 128: MOTHER LOVE AS A FACTOR IN MATERIALIZATION</h3>
+ 
 Is it possible for a mother who has passed into the invisible world to help her children directly or indirectly? Does she make hands of flesh with which to work, or in what way does she aid them? 
 
 Answer: The Society for Physical Research has investigated a number of cases where it has been shown that the mother has materialized in order to save her small children from disaster or accidents. There is no doubt that many young mothers are earth-bound for a long time by the love they bear their small and helpless children. We feel certain that if they were able they would often manifest to give them help and comfort, but, the seed atom having been ruptured at the time of death, they are not able to draw to themselves even the most attenuated gaseous matter that would make them visible, except in a very few cases where the need is so great that it begets in the mother a desire of such dynamic intensity that for a moment or two it compels the physical atoms to marshal themselves into her body and enables her to do that which she desires. Thus she performs a magical feat, without knowing how she has done it, and of course she cannot repeat it unless it happens under similar circumstances. 
 
-[407] 
-
 In this respect the people who have passed into the invisible worlds differ radically from the Invisible Helpers who leave their body at will. The silver cord is intact in their case, and this gives them a continuous connection with the physical seed atom. Its magnetism is therefore exerted and it requires a subconscious effort on the part of the Invisible Helper to keep the physical particles from flowing into the etheric vehicle in which he travels. On the other hand, when he desires to aid anyone who may be in distress, or to perform a certain work, he materializes a hand or an arm with the greatest of ease simply by consciously allowing the physical atoms in his closest environment to flow into the etheric matrix. When he has performed the desired task, another effort of thought scatters the strange atoms and dematerializes the hand or arm. Thus, for instance, when working inside the body of a patient to manipulate a diseased organ or stanch the blood in an artery, fingers are made temporarily from the flesh of the patient without causing him the least discomfort, and are as readily dissolved when the work is done. 
 
-[408] 
-
-ATLANTEANS WHO HAD NOT EVOLVED LUNGS
-Question No. 129. 
+### <h3 id="question-129">Question No. 129: ATLANTEANS WHO HAD NOT EVOLVED LUNGS</h3>
+ 
 What become of the people who had not evolved lungs at the time of the flood? Were they given an opportunity to build later? 
 
 Answer: This refers to the people in the Atlantean Epoch when the mists were beginning to condense. At that time humanity lived down in the mist-filled basins of the earth. They were the Niebelung, or children of the mist, and they breathed by gill clefts. We find this in the Memory of Nature, and we find it also in the prenatal development of the child in the stage when it breathe by gill clefts. In order to come up here on the highlands to live in the purified atmosphere we have today, it was necessary they should build lungs, otherwise they would be asphyxiated. Some worked with the law of evolution and built the lungs, others did not. 
 
 During the time when we went through these various periods there was the growth of the threefold body. This work was carried on until we came to the Atlantean Epoch, which was the time of involution. At that time we didn't see outwardly as we see now, but we saw inwardly. All our forces were turned inward and we built organs at that time. That was our means of evolution. Now we are turning that creative force outward and building ships, houses, and such things, and we are growing on in that direction. However, at that time we had to build the organs, and those who did not build the organs were left behind. 
 
-[409] 
-
 Now comes the question as to what became of them. Why, they have to wait until they can catch up. They will get a chance to build later on, for they are among the lower races. Whether they will catch up and be fit to go into the next epoch when we build the vital body we don't know. We are transforming the world by epigenesis. We are going along the line of evolution and being lifted out of matter and we are spiritualizing these bodies into soul. By the services we are doing, voluntary service, we are building a soul body, and those who have not evolved it will be left behind. As we read in the Bible, those who have not the golden wedding garment cannot come in to the feast. Thus these people were left behind, and some of them are the Spirits spoken of by Peter that were left behind and to whom Christ preached during the time between the bodily death of Jesus and what is known as the Resurrection. Whether they will catch up is a question. We don't know, but it is to be hoped they will. 
 
-[410] 
+### <h3 id="question-130">Question No. 130: THE CAUSE AND CURE OF SLEEPWALKING</h3>
 
-THE CAUSE AND CURE OF SLEEPWALKING
-Question No. 130 
 Please tell what sleepwalking really is and if there is any way to help those who are subject to that condition. 
 
 Answer: Rosicrucian Christianity Lecture No. 4 deals with dreams, sleep, hypnotism, mediumship, and insanity. That is to say, the abnormal conditions of consciousness, and in that Lecture a very thorough explanation has been given of these various conditions with the exception of sleepwalking, which however, resembles dreams in a great measure. We cannot give so full an explanation here, but suffice it to say that during the daytime the physical body which we call man is surrounded by an auric atmosphere composed of his finer vehicles just as the yolk of an egg is surrounded by the white. These finer vehicles interpenetrate the physical body so that in the evening it, so to say, collapses and the finer vehicles draw out of it leaving it helpless, sleeping upon the bed. When this complete separation has taken place the sleep is dreamless. 
-
-[411] 
 
 However, sometimes the Ego becomes so intent upon the things in the physical world that it is with great difficulty that it can tear itself loose from the physical vehicle. It may then be half in and half out of the body. Thus the normal connection between the Ego and the brain is wrenched but not fully ruptured. Under these circumstances the Ego sees the things of the physical world, and this accounts for those fantastic and foolish dreams which we sometimes have. Under such a condition the body may toss about on the bed, It may even speak and gesticulate, and from that condition it is only a step to sleepwalking where the Ego compels the vehicle to leave the bed and wander about, sometimes aimlessly, but at other times with a definite purpose in view. 
 
@@ -2273,10 +2048,8 @@ If we remember that when the Ego is outside its physical vehicle during the hour
 
 As to the remedy for this trouble we would suggest the practice of conscious relaxation of the body. It is the desire body which keeps a grip on the dense vehicle, and during relaxation this desire body is taught to let go and leave the dense body inert so that if an arm or a limb is lifted it drops immediately to the bed. This practice will in time stop sleepwalking, but in the meantime if wet towels are placed on the floor, they will probably have the effect of awakening the person the moment he steps out of bed. The higher vehicles of a nature somewhat akin to electricity, and we know that water has a wonderful drawing effect with respect to the electric current. Similarly, when the feet of the body contact the wet towels on the floor, the finer vehicles are drawn into the central position with respect to the body and consciousness is restored. Thus the body is awakened and the danger of sleepwalking is averted for the time being. 
 
-[413] 
+### <h3 id="question-131">Question No. 131: PROVING EXISTENCE OF VITAL BODY</h3>
 
-PROVING EXISTENCE OF VITAL BODY
-Question No. 131 
 It seems perfectly logical to me that there must be a finer body such as you call the vital body, but is there any way that one may prove this to a friend who is very skeptical and argumentative? 
 
 Answer: "A man convinced against his will is of the same opinion still," says an old proverb, and it is true. So long as your friend is still in the argumentative stage and not inclined to examine the proofs with an open mind it is a waste of time to try to change his opinion. We would suggest that you stop arguing; he may then become anxious and want to find out some more. When he does, there are a number of ways to prove the existence and reality of the vital body. We can mention a few. 
@@ -2285,23 +2058,20 @@ In the first place, there is the camera. Perhaps you can find in your town among
 
 Then we have the phenomenon of dogs following certain persons by the scent obtained from clothing they have worn. This clothing is impregnated by the ether from the vital body, which latter protrudes about an inch and a half beyond the periphery of the dense body. Hence also at every step we take the earth is penetrated by this invisible, radiating fluid. But it has been found that blood hounds following the fleeing criminal were baffled and lost the scent because the fugitive had put on skates and made his way over the ice. This raised him above the ground so that the vital body protruding below his feet did not impregnate the ice and therefore there was not scent whereby the bloodhounds could trace him. Similar results have been obtained by a person walking on stilts from the place of his crime. 
 
-Then there is the case of the magnetic healer who draws from his patient the diseased parts of the vital body which are then replaced by fresh ethers that allow the life forces to course through the diseased physical organ and thereby effect a cure. If the magnetic healer is not careful to throw off the black-jelly like, miasmatic, etheric fluid which he has drawn into his own body, he in turn will become ill, and if there were not such invisible fluid as we speak of, the phenomena of the patient's recovery and the magnetic healer's illness could not take place. 
-
-[415] 
+Then there is the case of the magnetic healer who draws from his patient the diseased parts of the vital body which are then replaced by fresh ethers that allow the life forces to course through the diseased physical organ and thereby effect a cure. If the magnetic healer is not careful to throw off the black-jelly like, miasmatic, etheric fluid which he has drawn into his own body, he in turn will become ill, and if there were not such invisible fluid as we speak of, the phenomena of the patient's recovery and the magnetic healer's illness could not take place.  
 
 Finally, we may say that if you can find the conditions and care to go to the trouble, there is one way and one condition under which a very large number of people are able to see the vital body for themselves. This is not easily accomplished in southern countries where the dead bodies are buried quickly after demise. Select a time as close of the full Moon as possible. Then watch the papers for funeral notice and go to the cemetery in the evening following the funeral of someone who has died within twenty-four hours. You will then probably see above the newly made grave, flickering in the moonlight, the filmy form of the vital body which remains there and decays synchronously with the body in the grave. This may be seen at any time by the seer, but it is only dense enough to be visible to ordinary people on the first night after the funeral. If you do not see it at first, walk around the grave and look steadfastly at it from different angles. Then you probably get the most convincing ocular proof for your friend. 
 
-[416] 
-
-HAPPINESS IN THE HIGHER LIFE
-Question No. 132. 
+### <h3 id="question-132">Question No. 132: HAPPINESS IN THE HIGHER LIFE</h3>
+ 
 Why is it that in your writings there is always a note of somberness, always the dark thread, so little joy and happiness? Is there no happiness to be found in the higher life? Contentment, satisfaction, peace--yes, but is there no joy? 
 
 Answer: 
 
-
+```
 "O wad some power the giftie gie us,
 To see ourselv's as others see us."
+```
 
 So sang Robert Burns, and he was certainly correct in his presumption that none of us can see ourselves as we are. The writer was not aware that there is a dark thread and a somberness over all his writings, but perhaps the point is well taken, though it would be wrong to draw the conclusion that there is no joy and happiness in the higher life. There is an unspeakable joy and a happiness that cannot be told, in the privilege of being allowed to help the thousands that come to us for aid and advice or spiritual comfort. 
 
@@ -2311,26 +2081,20 @@ This may be a very good point for those students to consider who are inordinatel
 
 Our personality would always best be kept in the background, but if students will take this to heart perhaps the answer to this question may serve a good purpose. 
 
-[418] 
-
-THE WEDDING GARMENT
-Question No. 133. 
+### <h3 id="question-133">Question No. 133: THE WEDDING GARMENT</h3>
+ 
 What will be the condition of those who have not prepared the Wedding Garment when Christ comes? Will they still live on earth and go on evolving? 
 
 Answer: That is very difficult to say. A great number of those who were left behind in Atlantis because they had not evolved lungs so they could live in our atmosphere, have not been able to catch up with us yet. There is quite a grave doubt if people who have not evolved the Wedding Garment to the point where they have some real growth will be able to live in that Age. They may have to live at a later time and apart from us. 
 
-THE ELDER BROTHERS
-Question No. 134. 
+### <h3 id="question-134">Question No. 134: THE ELDER BROTHERS</h3>
+ 
 Please give a clear description of the Elder Brothers and say if they function on this plane in a material body, also of the Lay Brothers, etc. 
-
-[419] 
 
 Answer: As far as the Elder Brothers are concerned they have a material body just as you and I, and they live in a house which you might think the house of some well-to-do but not ostentatious people. They seem to hold offices of distinction in the community where they live, but it is only a blind that they have these positions so as to give a reason for their presence and not create any question as to what they are or who they are or that there is anything out of the ordinary about them. Outside of that house and in that house and through that house there is what may be called the Temple. It is etheric and is different from our ordinary buildings. It might be likened to the auric atmosphere that is around our Pro-Ecclesia at Headquarters, which is etheric and is much larger than the building. Manson's word picture of the spiritual church he built gives an idea of what structures are. They are around buildings and churches where people are very spiritual and of course they differ in color. This Rosicrucian Temple is superlative and not to be compared to anything else, but it surrounds and permeates the house in which the Elder Brothers live. The house is so permeated with spirituality that most people wouldn't feel very comfortable there. And the Lay Brothers, have they a material body? Certainly. The editor is not very ethereal and may serve as an illustration of the average. 
 
-[420] 
-
-PRAYER, CONCENTRATION AND MEDITATION
-Question No. 135. 
+### <h3 id="question-135">Question No. 135: PRAYER, CONCENTRATION AND MEDITATION</h3>
+ 
 What is prayer? Is it equivalent to concentration and meditation, or is it only a petition to God? 
 
 Answer: Unfortunately, as it is commonly practiced it is too often a petition to God to interfere on behalf of the supplicant and enable him to attain a selfish object. It is certainly a disgrace that people engage in violating the commandment of God, "Thou shalt not kill," and pray for victory over their enemies. If we measure the majority of prayers offered up today by the standard set by Christ in the Lord' Prayer they certainly do not deserve the name prayer. They are blasphemies, and it were a thousand times better were they never uttered. 
@@ -2339,13 +2103,9 @@ The Lord's Prayer having been given us as a pattern, we shall do well to analyze
 
 This is a view diametrically opposite from the common idea of prayer, which takes the view that as God is our Father we may go to Him in prayer and He is bound to give us our heart's desire. If we do not get it the first time, we need only keep praying, and because of our very importunity, our wish will be granted. Such a view is repellent to the enlightened mystic, and if we bring the matter down to a practical basis it is evident that a wise father having a son able to provide for himself would naturally resent it if this son should appear before him several times a day with importunate request for this, that, and the other thing, which he could easily obtain by going to work and earning. Prayer, no matter how earnest and sincere, can never take the place of work. If we work for a good purpose with our whole heart, soul, and body, and at the same time pray God to bless our work, there is no doubt but that the petition will be granted every time. However, unless we put our shoulder to the wheel we have no right to call on the Deity for assistance. 
 
-[422] 
-
 As said previously, the burden of our prayers should be praise to God "from whom all blessings flow," for our desire bodies are formed from materials of all seven regions of the Desire World in proportion to our requirements as determined by the nature of our thoughts. Every thought clothes itself in desire stuff congruous to its nature. This applies to the thoughts formed and expressed in prayer. If selfish, they attract to themselves an envelope composed of the substance of the lower regions of the Desire World, but if they are noble, unselfish, and altruistic, they vibrate to the higher pitch of the regions of soul-light, soul-life, and soul-power. They clothe themselves in this material, giving added life and light to our spiritual nature. Even when we pray for others it is detrimental to ask for anything material or worldly. It is permissible to ask for health, but not for economic prosperity. "Seek ye first the Kingdom of God and His Righteousness" is the commandment. When we comply with that command we may rest assured that "all these things" will also be given. Therefore, when we pray for a friend let us put our whole heart and soul into the petition that he may permanently seek the Way, the Truth, and the Life, for having once found that greatest of all treasures no real necessity will ever be denied. 
 
 Nor is this theory, at all. Thousands of people, the writer included, have found that "Our Father in Heaven" will take care of our material needs when we endeavor to live the spiritual life. However, in the final analysis it is not the spoken prayer that helps. There are people who can lead a congregation in a prayer that is perfection both in language and poetical. 
-
-[423] 
 
 They may even conform their prayers to the principles laid down by the Lord as enunciated in our opening paragraphs, and yet that prayer may be an abomination because it lacks the one essential requirement. Unless our whole life is a prayer we cannot be pleasing to God no matter how beautiful our petitions may be. On the other hand, if we strive from day to day and from year to year to live according to His will, then even though we ourselves know that we fall far short of our ideal, and even though we, like the publican in the Temple, are of halting speech and can only smite our breast saying, "God be merciful to me a sinner," we shall find that the Spirit itself, knowing our needs, makes intercession for us with unutterable groanings, and that our modest supplication before the Throne of Grace will avail more than all the flowery speeches we could possibly make. 
 
@@ -2357,18 +2117,16 @@ Prayer is similar to concentration in certain points but differs radically in ot
 
 Meditation is the method of gathering by spiritual power knowledge of things with which we are not ordinarily familiar. 
 
-[425] 
-
 There is in The Rosicrucian Cosmo-Conception a chapter which deals very thoroughly with the method of acquiring firsthand knowledge, elucidating these points at length, and we would advise a thorough study of this chapter. 
 
-THE SILVER CORD
-Question No. 136. 
+### <h3 id="question-136">Question No. 136: THE SILVER CORD</h3>
+ 
 If the silver cord is attached to the seed atom in the heart at one end and the central vortex in the desire body at the other, what organ in the physical body does that central vortex correspond with--heart, head, forehead, or what? 
 
 Answer: That end of the silver cord which is anchored to the seed atom in the heart remains there immovable until death, but the other end, and the point where the two halves of the cord meet, as shown on page 98 in the Cosmo, are movable. During the day time that central vortex where the silver cord is anchored in the desire body is placed directly in the liver, and you will find in the Cosmo some very illuminating material if you will look for "liver" in the main index. The point where the two halves of the silver cord meet is placed in the solar plexus during the day time. That, you know, is a very, very vital spot, and the seed atom of the vital body is just at the meeting point of these two halves of the silver cord. When that is in the solar plexus the fluid which comes from the Sun through the spleen passes the seed atom of the vital body, and is there refracted into the rose-colored fluid that we speak of in our literature. Thus the three great centers in one body connected with the silver cord are: the central vortex in the liver--the principle point in the desire body; the solar plexus--which is the stronghold of the vital body; and the heart, which is the center of the dense body. 
 
-THE THREE PARTS OF THE SILVER CORD
-Question No. 137. 
+### <h3 id="question-137">Question No. 137: THE THREE PARTS OF THE SILVER CORD</h3>
+ 
 Will you please describe the silver cord and explain its function in both man and animal? 
 
 Answer: To answer this question fully we must refer to earlier evolutionary conditions. 
@@ -2379,21 +2137,13 @@ From the great firmament of cloud depends millions of cords, each with its fetal
 
 Since then the Manna (Manas, Mens, Mensch, or Man) has fallen from heaven, from the bosom of the Father, and is now tied by the silver cord to the concrete body during his waking hours, and even in sleep it forms the connecting link between the higher and lower vehicles. This connection is broken only at death. 
 
-[428] 
-
 The cord is quite complex in its construction. One end is rooted in the seed atom in the heart; that part is made of ether. A second part, made of desire-stuff, grows from the great vortex of the desire body located in the liver, and when these two parts of the silver cord join in the seed atom of the vital body located in the solar plexus, this junction of the three seed atoms marks the quickening of the fetus. 
 
 But there is still another part of the silver cord, which is made of mind stuff and grows from the seed atom of the mind located at a point which may roughly be described as the frontal sinus where the human Spirit has its seat. It passes between the pituitary body and the pineal gland, thence downwards, connecting with the thyroid and thymus glands, the spleen, and the adrenals, and finally joins the second part of the silver cord in the seed atom of the desire body in the great vortex of that vehicle which is located in the liver. The path along which this part of the silver cord will grow is indicated in the archetype, but it requires approximately twenty-one years to complete the junction. The union of the first and the second parts of the silver cord marks the physical quickening which depends on the complete destruction of the nucleated blood corpuscles carrying the life of the physical mother, and the emancipation from her interference by gasification of the blood which is thenceforth the direct vehicle of the Ego. The junction of the second and third parts of the silver cord marks a mental quickening and a consequent emancipation from mother Nature, who has then completed the gestatory process necessary to start the foundation and framework for the temple of the Spirit, which may subsequently build as it chooses, limited only by its past actions. 
 
-[429] 
-
 During the daytime when we are awake in the physical world, the threefold silver cord is coiled in a spiral within the dense body, principally about the solar plexus (epigastrium), but at night when the Ego withdraws and leaves the dense and vital bodies on the bed to recuperate after the labors of the day, the silver cord protrudes from the skull. The ovoid desire body floats above, or near the sleeping form, resembling a captive balloon. There, so far as the child and the undeveloped persons are concerned, the Ego remains, ruminating over the occurrences of the day, until impacts from the physical world, such as the ring of an alarm clock, a call, or the like, vibrates the silver cord and draws the attention of the Ego to its discarded vehicle and causes it to enter. 
 
-No occult development is possible until the third part of the silver cord has been developed, but after that event the Ego may leave its dense body and roam the wide world, either consciously after proper training and imitation, or unconsciously, with the help of others, or accidentally, as a sleepwalker leaves his bed and returns unaware of where he went or what he did. In either case the third part of the silver cord, which is made of ductile, elastic mind stuff, serves as a link with the lower vehicles. The quality of the consciousness of the Ego when thus away from its dense body 
-
-[430] 
-
-depends upon whether it has formed a soul body of Light and Reflecting Ether, which is the vehicle of sense perception and memory, sufficiently stable to take along. If it has, the process of initiation will have taught it how to proceed, and the Ego will have a complete consciousness while away from the body and a dependable memory of what occurred on the soul-flight when it returns; if not, both consciousness and memory are bound to be lacking or faulty to a degree. 
+No occult development is possible until the third part of the silver cord has been developed, but after that event the Ego may leave its dense body and roam the wide world, either consciously after proper training and imitation, or unconsciously, with the help of others, or accidentally, as a sleepwalker leaves his bed and returns unaware of where he went or what he did. In either case the third part of the silver cord, which is made of ductile, elastic mind stuff, serves as a link with the lower vehicles. The quality of the consciousness of the Ego when thus away from its dense body depends upon whether it has formed a soul body of Light and Reflecting Ether, which is the vehicle of sense perception and memory, sufficiently stable to take along. If it has, the process of initiation will have taught it how to proceed, and the Ego will have a complete consciousness while away from the body and a dependable memory of what occurred on the soul-flight when it returns; if not, both consciousness and memory are bound to be lacking or faulty to a degree. 
 
 Having acquainted ourselves with the construction and function of the silver cord as a link between the Ego and its vehicles, we shall next study its make-up and use in connection with the animal and its Group Spirit. It has been taught in the Cosmo that habits, tastes, likes, and dislikes of each species are due to the fact that they are actuated by a common Group Spirit. All squirrels hoard a store of nuts for a winter period of hibernation, all lions crave flesh, horses without exception eat hay, but ones man's meat is another's poison. If we know the habits of one animal we know the habits of all belonging to the same family, but it would be futile to investigate the elder Edison to ascertain the source of Thomas A.'s genius. A treatise on the habits of a horse will apply to all horses, but the biography of one man differs entirely from that of every other human being because each acts under the dictates of an individual indwelling Spirit. The animals of a certain group are directed by a common intelligence, the Group Spirit, by means of the silver cord. Each animals has its own individual silver cord, so far as the two parts are concerned which connect the dense, vital, and desire bodies, but the third part which is connected to the central vortex of the desire body, located in the liver, is the cord of the Group Spirit. By means of this elastic bond it governs the animals of its tribe, without regard to where in the world they may be, with equal facility. Distance is nonexistent from the viewpoint of the inner worlds, and as the animals have no mind of their own, they obey the suggestions of the Group Spirit unquestioningly. 
 
@@ -2403,25 +2153,20 @@ But though man is now individualized, and emancipated from direct interference w
 
 As times flies and we advance, we shall also be emancipated from the Race Spirit which has lived in our breath since the time Jehovah Elohim blew nephesh--the vital air--into our nostrils. These Spirits work in the desire body and the Human Spirit, fostering selfishness and egoism. When we learn to build the glorious wedding garment, called the soul body, which is woven by loving self-forgetting service, and the mystic marriage is consummated--when the Christ is immaculately born within--Universal Love will emancipate us forever from Universal Law, and we shall be perfect as our Father in Heaven is perfect. 
 
-
+```
 "From every power that holds the world in chains,
 Man liberates himself, when self-control he gains."
+```
 
-[433] 
-
-EFFECTS OF ALCOHOL AND TOBACCO
-Question No. 138. 
+### <h3 id="question-138">Question No. 138: EFFECTS OF ALCOHOL AND TOBACCO</h3>
+ 
 Why is it wrong for a Probationer to use alcohol and tobacco? 
 
 Answer: This questions applies not only to Probationers, but to every one who endeavors to live the higher life. Therefore we answer it in the Echoes so that all students may know that it is not merely sentiment which dictates our ideas that we should not use any intoxicants or drugs which muddle the brain. That organ is the greatest and most important instrument whereby we are doing our work in the physical world and unless it is in good condition we cannot expect to make progress. 
 
 Flesh and alcohol have a tendency to make man ferocious and to turn his spiritual sight away from the higher worlds and focus vision upon the present material plane. Therefore, the Bible tells us that at the beginning of the Rainbow Age, the age where we live in an atmosphere of clear and pure air, so different from the misty atmospheric conditions of Atlantis spoken of in the second chapter of Genesis, Noah first brewed the wine. Material development has taken place in consequence of the present focusing of our energies upon the material world, which resulted from partaking of meat and wine. Christ's first miracle changed water into wine. He had received the universal spirit at the Baptism, and had no need of artificial stimulants. He changed water to wine to give others less advanced. 
 
-[434] 
-
 But no wine bibbers can inherit the Kingdom of God. The esoteric reason is this: while the lower ethers vibrate to the seed atoms in the solar plexus and the heart, and thus keep the physical body alive, the higher ether, vibrate the pituitary body and pineal gland. By imbibing this false rebellious spirit that is fermented outside the body and is different from the spirit that is fermented inside, by sugar, these organs are temporarily dazed and cannot vibrate to higher worlds. If he takes too much of this spirit of alcohol, the organs named may be slightly awakened so that he sees the lowest realm of the Desire World and all the evil things therein; that happens in the disease known as delirium tremens. To sum up, as the evolution of the soul depends upon the acquisition of the two higher ethers from which the beautiful wedding garment is made, and as these ethers are attuned to the organs named in the same manner that the lower ethers are attuned to the seed atom in the heart and the seed atom in the solar plexus, you will readily understand the deadly effects to the spiritual man of alcohol and drugs. To elucidate I quote an incident of life. 
-
-[435] 
 
 There is an old saying: "Once a Mason, always a Mason." That means that when anyone has received an initiation in the Masonic order, and by virtue of that becomes a Mason, he cannot resign, for he cannot give up that knowledge and the secrets which he has learned any more than a person who goes to college can give back his learning received at that institution. Therefore, "once a Mason always a Mason," and likewise once a pupil, a lay brother, of a mystery school, always a pupil and a lay brother of that same mystery school. But though that holds good and life after life we come back connected with the same order that we have been affiliated with in previous lives, we may in any one life so conduct ourselves that it is impossible for us to realize this in our physical brains. I will, as said, cite for the benefit of all students a case which is very much to the point. 
 
@@ -2431,20 +2176,16 @@ When I arrived at the city where he was, I was told by mutual friends that he ha
 
 On the day of our physical meeting, after a few moment's conversation I said something which caused his to stare at me blankly. I had referred to some incident of our meeting in the Temple, and he showed plainly that he knew nothing whatever about it. I had, however, said so much that I was forced to say more, or appear foolish; so I told him he had professed to remember everything. This he denied, and at the end of the interview he begged me very earnestly to endeavor to find out why it was that he was a lay brother of the Rosicrucian Order, yet could not remember that which took place during his absence from the body. He was as I knew at various Temple services. He took part, and yet in his physical brain he was absolutely ignorant of what took place. The mystery was solved a little later when I learned from him, out of the body, the fact that he smoked cigarettes and used drugs which clouded his brain to such an extent that it had become impossible for him to carrying anything through of his psychic experiences. 
 
-[437] 
-
 When I told him that, while in the body, he made a valiant effort to rid himself of this habit which he acknowledged. However, after some time of abstinence, he found he could not do without the drugs and cigarettes, and therefore, he has been up to the present time shut out from any consciousness of the higher life. This is a very pitiful case, and no doubt there are more. They illustrate how careful we should be to be clean in our habits, to regard this body of ours as the Temple of God, and refrain from defiling it as we would refrain from defiling a House of God built of stone and mortar, which is not one millionth part as holy as the body wherewith we have been endowed. 
 
-WHAT IS IDOLATRY?
-Question No. 139. 
+### <h3 id="question-139">Question No. 139: WHAT IS IDOLATRY?</h3>
+ 
 It has been stated that when the "Son of Man" is mentioned in the New Testament the Sun Spirit is intended. Sun worshipers have been considered idolaters. Would we of the white race be considered as such? 
-
-[438] 
 
 Answer: Everybody is an idolater who is not up to the present standard. At the time when the Sun by precession left the constellation Taurus and went into Aries, the command went forth, "Don't worship the golden calf, that is idolatry." Later when the Christian era came there was a new covenant and they were not to practice Judaism with its burnt offerings, because the Christ had come and was a sacrifice once for all. To perform the ancient sacrifice was idolatry. There is no other name under heaven given whereby we must be saved but by the name of Jesus Christ. Later, when Christ has given everything into the Father's hands, there will be a new standard and it will be idolatry to revert to our present ideals. 
 
-THE LOST WORD
-Question No. 140 
+### <h3 id="question-140">Question No. 140: THE LOST WORD</h3>
+ 
 In occult literature we find mention of the Temple of Lhassa, Tibet. of what brotherhood or order is this temple, and is it true, as reported, that it is guarded? 
 
 Answer: According to all reports, and so far as the writer himself knows from contact with the members of that community in the invisible world, the spiritual attainment of some of the brothers comprising this order is of a very high grade. They are doing a noble work with their people in the East, but like any other institution in the physical world, which is perceived by the senses and open to visitors, however great the restrictions, it is not a mystery school. The mystery schools are all etheric and are only visited by initiates who have learned to leave their physical bodies behind. 
@@ -2457,43 +2198,29 @@ The voluntary clairvoyant who is able simply to see and hear is very much subjec
 
 Higher still in the scale of spiritual attainment stands the Adept, who not only is able to see and to know, but also has a power over the things in the invisible world. He is a graduate of the mystery school and has learned to use the Creative Word, the word of power, which was lost by humanity in its descent into matter. There may be one or more of these Adepts at the Temple of Lhassa in Tibet, as well as in other places of the world. If so, these people naturally have the word of power and they carefully guard it, for it is a dangerous secret, a two-edged sword, which would certainly be suicidal in the hands of one not evolved to the point where he is spiritually fitted to have it. 
 
-[440] 
-
-CHARITY BEGINS AT HOME
-Question No. 141. 
+### <h3 id="question-141">Question No. 141: CHARITY BEGINS AT HOME</h3>
+ 
 If we lovingly work with plants and animals to aid in their development and evolution, will we have "bread to shew" in the Temple, or is that gained only by service to humanity? 
 
 Answer: No, every kind act to another creature and every thought of love which we send out to other beings, no matter to what kingdom they belong, reacts upon us in such a manner that it becomes a factor in our soul growth. However, it should be noted that if we bestow kindness and give our love to plants and to animals, while withholding it from our human brothers and sisters, we are making a grave mistake, for true charity begins at home. What would we think of a man who neglected his own family and bestowed his love and care upon the family of some one else? Surely, we would not lack words to characterize such conduct, and the same argument may be applied to anyone who devotes his love to animals or to a garden full of flowers, but who neglects to do the same for the children of his neighborhood. 
 
-[442] 
-
 We remember a case in point: There was a very wealthy man among our Probationers a few years ago, who was always complaining of his spiritual progress being so slow. He moved in society and took part in all their social functions at the same time he was aspiring to follow the meek and lowly Christ. When we showed him his inconsistency he excused himself with the plea that he would have to do this on account of his wife's desire. He had married her and could not break up the relationship, which would be the result if he refused to accompany her to social functions. We asked him what then he was doing to promote soul growth, what interest he was taking in those not so well situated as he. Was he giving anything to charity, or better still, was he doing something in a personal way to help those not so well placed and who needed his aid? He admitted that he was not, but then, evidently ashamed at being unable to show that he was doing something for others and trying to earn the right to work in a higher sphere, he said apologetically: "Sometimes I see a dog that is hungry. It has happened once or twice that I have fed it, and I am very fond of my dog here and bestow quite a lot of time upon its training." 
-
-[443] 
 
 Now you will readily understand that whatever love this man may have shown toward his own dog and the expenditure of perhaps a few cents for scraps to feed a hungry dog once or twice while neglecting the opportunity to feed the hungry souls of his human brothers and sisters is not going to give this man soul growth, and of course like so many others who discover that there is no royal road, he dropped his interest in the matter. It will not promote soul growth to pay for missionaries to go to China and convert the heathen there while your own immediate family is in darkness. It would not help you if you fed all the dogs and cats in your town and cared for all the gardens which are there neglected, while omitting to look after your human children. If you have done all that you can to let your own immediate family see the light, then it is good to send missionaries to China also, if you have the means. If you have done all you can to bring love into the lives of the children in your own home and in your own town, then it is good to care for the cats and dogs and gardens. We can never do too much, but much or little, we should make sure first that we expend our efforts in the proper and legitimate sphere. 
 
-[444] 
-
-DETERMINING THE TIME OF EASTER
-Question No. 142 
+### <h3 id="question-142">Question No. 142: DETERMINING THE TIME OF EASTER</h3>
+ 
 I am a Mason and would like to know what determines the time of Easter each year. Also, what is the connection between the resurrection of Christ at Easter and the resurrection of Hiram Abiff in the Masonic ritual? 
 
 Answer: The Masonic legend says that in the beginning Jehovah created Eve, and the Lucifer Spirit, Samael, united with her and from this union Cain was born. Then Samael left Eve and she became virtually a widow. Cain was thus the son of a widow, and from him descended all the draftsman of the world, including Hiram Abiff, the grand master workman on Solomon's temple, who is therefore also called "son of a widow," as are all Freemasons to this day. After Samael had left Eve, Jehovah created Adam, and he united with Eve, with the result that Abel was born. Thus Cain was semi-divine, inspired by his own inherent creative genius which is seen in his sons to this day in statecraft and all industrial inventions which go to make the civilized world, while Abel was the child of two human beings. He did not know how to create but tended docilely the flock already created for him by the author of his being, Jehovah. 
-
-[445] 
 
 Jehovah slighted the sacrifice of Cain, who had made two blades of grass grow where formally there was one. He would rather have a docile automation like Abel who could be depended upon to obey implicitly His commands than an original thinker like Cain. So there was enmity between Cain and Abel, with the result that the latter was slain. Then Seth was born, and from him have descended all those who follow blindly the dictates of their creator and are known as the priestcraft and their followers. Among them was Solomon, the king. To him Jehovah revealed the design for his Temple, but Solomon was unable to execute the design and therefore was compelled to engage Hiram Abiff, a cunning craftsman, a Son of Cain, and therefore the Son of a Widow. 
 
 High mystic Mason recognize the fact that from the cosmic viewpoint Hiram Abiff is symbolized by the Sun. While the Sun (Hiram) is in the northern signs, Aries, Taurus, Gemini, Cancer, Leo, and Virgo, he is among faithful friends and followers, but when in the course of the year he enters the southern signs, Libra, Scorpio, and Sagittarius, he is assaulted by the three conspirators as recorded in the Masonic legend and finally slain at the winter solstice to be again resurrected as he climbs towards the equator, which he crosses at the vernal equinox. The Masonic legend relates that the Queen of Sheba journeyed from afar to see the wise Solomon of whom she had heard so much. She was also shown the beautiful temple and wanted to see the cunning craftsman, the master builder and his workmen who had wrought such a marvel. 
 
-[446] 
-
 But there had always been enmity between the sons of Cain and the sons of Seth. Even when they have cooperated they have never trusted each other fully, and Solomon feared that his beautiful fiance might become enamored of Hiram Abiff. Therefore he endeavored to call the workmen himself, but none responded. They "knew the voice of their shepherd," Hiram Abiff (the Sun in Aries, the sign of the Lamb). They were trained to obey his call and would heed no their voice. Therefore, Solomon was finally forced to send for Hiram Abiff and request that he call his artisans, and the moment he lifted his hammer (Aries, which is the sign of his authority and exaltation), they came in a multitude that could not be numbered, each one eager to do his will. 
 
 In the spring the Sun (Hiram) enters Aries, the sign of his exaltation. This sign is shaped like the hammer which Hiram raised, and all the workmen on the temple (the universe) rush to do his bidding and carry on his work when he ascends to the throne of his dignity and authority in the northern heavens. He is their shepherd because at the vernal equinox he enters Aries, the sign of the ram or lamb. Him they hear but these nature forces take command from no other than the Sun in Aries, the Eastern Sun. 
-
-[447] 
 
 This is the cosmic interpretation, but according to the law of analogy Hiram, the son of Cain, must also be raised to a higher degree of initiation. Only the Sun Spirit about to soar into the heavens could accomplish this feat. Hence Hiram was reborn as Lazarus and raised by the strong grip of the Lion's Paw. He had been a leader of the craftsmen during the regime of Jehovah and His creature Solomon. By this initiation he was raised up for the purpose of being a leader in the Kingdom of Christ and helping the same people on into a higher phase of their evolution. Therefore, he became a Christian charged to explain the mysteries of the CROSS, and a symbol of this mystery the rose was added thereto, and this mission was embodied in his symbolic name, Christian Rosenkreuz. 
 
@@ -2505,26 +2232,18 @@ The rule in present use for determining the time of Easter is that it falls on t
 
 Thus Easter is now held upon the same day as required by the occult tradition to symbolize properly the cosmic significance of the event, and in this respect both the Sun and the Moon are necessary factors, since Easter is not merely a solar festival. The Sun must go not only past the equator, as it does on the 21st of March, but the full Moon after the vernal equinox must also be passed. Then the following Sunday is Easter, the day of Resurrection. The light of the vernal Sun must be reflected by a full Moon before that day can dawn on earth, and there is as said a deep meaning behind that method of determining Easter, viz., that humanity was not sufficiently evolved to have the Religion of the Sun, the Christian Religion of universal brotherhood, until they had been fully prepared through the religions of the Moon which segregated and separated humanity into groups, nations, and races. This is symbolized by the annual rise of the Sun Spirit at Easter being deferred until the Jehovistic Moon has thrown back and fully reflected the light of the Easter Sun. 
 
-[450] 
-
 All the founders of race religions, Hermes, Buddha, Moses, etc., were initiates in the Jehovistic mysteries. They were Sons of Seth. At their initiation they became ensouled by their particular Race Spirit, and this Spirit, speaking through the mouth of such an initiate gave laws to his people, as for instance, the Decalogue of Moses, the laws of Manu, the noble truths of Buddha, etc. These laws manifested sin because the people did not and could not keep them at their stage of evolution. So they made a certain debt of destiny in consequence. This destiny the human initiate founder of the religion had to take upon himself and so had to be born again and again to help his people. Thus Buddha was born as Shankaracharya and had a number of other rebirths. Moses was reborn as Elijah and John the Baptist, but Christ, on the other hand, did not need to take birth in the first place. He did it of His own free will to help humanity, to abrogate the law that brings sin, and emancipate humanity from the law of sin and death. 
 
 The Race religions of the lunar God, Jehovah, conveyed the will of God to mankind in an indirect manner through seers and prophets who were but imperfect instruments, as the lunar rays reflect the light of the Sun. 
-
-[451] 
 
 The mission of these religions was to prepare mankind for the universal religion of the Sun Spirit, Christ, who manifested among us without an intermediary as the light which comes direct from the Sun, and "we behold His glory as the Alone Begotten of the Father," when He taught the gospel of love. The Christian religion gives no laws, but preaches love as the fulfillment of the law. Therefore no debts of destiny are generated under it, and Christ, who was under no necessity to be born in the first place, will not be drawn to rebirth under the Law of Causation as were the founders of the lunar race religions, who must bear from time to time the sins of their followers. When He appears it will be in a body made of the two higher ethers: the light and reflecting ethers, the golden wedding garment called soma psuchicon or soul body by Paul, who is very emphatic in his assertion that "flesh and blood cannot inherit the Kingdom of God. He asserts that we shall be changed and be like Christ, and if we cannot enter the kingdom in a fleshy body it would be absurd to suppose that the King of Glory would wear such a coarse, cumbersome garment. 
 
 The priestcraft from which Jehovah drew His representatives, the prophets and founders of religions and spiritual temple builders, are the Sons of Seth. The Sons of Cain still feel in their breasts the divine nature of their ancestor. They repudiate the indirect method of salvation by faith of the church and insist upon finding the light of wisdom themselves by direct methods of work, perfecting themselves in the arts and crafts and building the temple of material civilization by industry and statecraft according to the plan of God, the Grand Architect of the Universe, Christ being "the Chief Corner Stone" and each mystic Mason a "living stone." 
 
-[452] 
+In time, however, these two great streams of the Sons of Seth and the Sons of Cain must unite in order to reach the portals of the kingdom of Christ. Before His time there was no way in which such an amalgamation could take place; but when Christ, the great Sun Spirit, came, Solomon was reborn as Jesus, into his lower vehicles the Christ Spirit entered at the Baptism; and Hiram Abiff was reborn as Lazarus. When Lazarus was raised up by the strong grip of the Lion of Judah's paw, Hiram and Solomon, the former antagonists, sank their differences as prompted by Christ Spirit, and both are working now for the establishment of the Kingdom of Christ. It was this the Pharisees in some way sensed or surmised and hence their fears that this Jesus would initiate many people and subvert them from the race religion to which they (the Pharisees) were wedded. 
 
-In time, however, these two great streams of the Sons of Seth and the sons of Cain must unite in order to reach the portals of the kingdom of Christ. Before His time there was no way in which such an amalgamation could take place; but when Christ, the great Sun Spirit, came, Solomon was reborn as Jesus, into his lower vehicles the Christ Spirit entered at the Baptism; and Hiram Abiff was reborn as Lazarus. When Lazarus was raised up by the strong grip of the Lion of Judah's paw, Hiram and Solomon, the former antagonists, sank their differences as prompted by Christ Spirit, and both are working now for the establishment of the Kingdom of Christ. It was this the Pharisees in some way sensed or surmised and hence their fears that this Jesus would initiate many people and subvert them from the race religion to which they (the Pharisees) were wedded. 
-
-[453] 
-
-REASONS FOR THE TRIALS OF THE ASPIRANT
-Question No. 143. 
+### <h3 id="question-143">Question No. 143: REASONS FOR THE TRIALS OF THE ASPIRANT</h3>
+ 
 Since I have commenced to study the Rosicrucian teachings and am trying to live a better life, it seems as if trouble piles upon me in a manner which I have never experienced before, and it seems as if those who are closest to me by relation are the ones who particularly try me. Sometimes I feel as if I were growing, at other times it seems that life is a failure. What is the real status, and what is the reason for these trials? 
 
 Answer: When a ship is drifting down a river with the tide, the engines go around without seeming effort, and it makes great headway. Likewise, when an automobile goes down hill the engine is able to carry the load without effort and good progress is made. But when a ship must stem the tide and force its way against the current, or when an auto must climb a hill, it means considerable expenditure of effort, and progress is not so rapid. There are obstacles to be overcome. Every little rock is felt, etc. 
@@ -2533,34 +2252,24 @@ It is likewise with the Spirit. So long as we drift with the stream of life and 
 
 When you have walked by the sea shore you have noticed how rounded and smooth, yes even polished, the stones on the beach have become by the constant tituration--by friction against the other stones. For ages and ages all the rough corners have been worn off, and they have that beautiful surface that is so peculiar to stones along the beach. We may liken these stones to humanity in general. By the friction against one another for ages and ages, the worst corners will be worn off, and at last we will become rounded out, smooth, polished, and beautiful as the beach stones are. But take a diamond in the rough. It is not allowed to attain its polish by the ordinary slow process, like the beach stone. The lapidary takes it in hand and grinds it, and there is a screeching noise every time the stone is put to the wheel. 
 
-[455] 
-
 However, every time a screech of pain comes from it there is a rough piece of the surface worn off, and a brilliant polished part appears instead. Likewise, it is with the Ego who aspires to higher things. God there is the lapidary, who polishes the stone, and it is not pleasant when the rough portion is being taken off of us, when we are being pressed against the grindstone of sorrow and calamity. Nevertheless, from out of it all we shall come shining and brilliant as diamonds. Let not your heart, therefore, be troubled, for the sorrows and tribulations which now beset your path are but the grinding against the stone by the lapidary. You may be sure that whatever is the present feeling, the outcome will be all right, for God is love. Although He applies the severest measures at the present time, in the future it will bring you out polished and resplendent. 
 
-[456] 
-
-FINDING THE WOMAN WITHIN
-Question No. 144. 
+### <h3 id="question-144">Question No. 144: FINDING THE WOMAN WITHIN</h3>
+ 
 In part four of Tannhauser you state, "The man must find the woman within himself." Also, that we must confront the Dweller On The Threshold. Will you kindly make these two points clear? 
 
 Answer: As a matter of fact the Spirit is neither male nor female, but during the present state of manifestation it became necessary to devote one half of the creative force to the development of the brain, wherewith we may create mental images which we then reproduce in concrete matter of the Physical World. This, therefore, necessitated developing a physical organism with two sexes--one expressive of one quality of the spirit, Will, and therefore male; the other expressive of Imagination, which is female. 
 
 As each Spirit is born alternately in a male and a female body, it expresses also alternately the twin faculties of the Spirit--will and imagination. One of these qualities predominates in each life, and accordingly makes the manifestation of the masculine or feminine. But as the Spirit returns day after day, or life after life, to the Great School, it becomes more and more soulful and consequently more capable of expressing the two qualities of the Spirit simultaneously and in an even measure. Thus by degrees the man finds the finer feminine qualities in himself, and the woman finds the noblest traits of the man. When that point has come where there is a perfect balance, the mystic marriage takes place. 
 
-[457] 
-
 You know it is said that in heaven there is neither marriage nor giving in marriage, because there the Spirit is untrammeled by the fetter of the flesh. There sex plays no part. There the dual soul qualities are usable, and consequently the marriage of one to another is unnecessary. Each there creates the archetype of his or her coming body without the assistance of anyone else, save the divine Hierarchies, and thus provides for the future embodiment. It is only when we leave the realm of soul, and enter into the realm of sex that the cooperation of someone else is needed for the formation of a concrete physical vehicle to fit into the archetype which was in the first place made by the Spirit itself in heaven. Now the sooner we learn to see in ourselves a whole creative unit, the more we preserve our own creative force, and send it upward for spiritual purposes, the sooner we shall find the man or woman within ourselves. The mystic marriage will then have been performed, and this links the two poles and leaves us with a consciousness which is creative in all realms of nature. 
 
 At the same time, let it be understood that while we are here in this physical world, and have lessons to learn here, we must have instruments wherein to learn. We ourselves have by the sacrifice of others attained to this privilege. They have helped to give us a body, and we should never shirk the responsibility of giving someone else the opportunity of obtaining a body through our services, provided we are in proper health, and other circumstances are right. Also we should feel that we can give the Spirit which comes to us the proper environment in which to grow. 
 
-[458] 
-
 About the Dweller on the Threshold: It was said that it is always manifested as being of opposite sex, because all of our temptations and the evil we do, everything that is reprehensible, comes from the hidden side in us, and in each life this hidden side takes shape as of opposite sex. Through the opposite sex we are tempted to commit the sin which drove mankind out of the state of purity called symbolically, the Garden of Eden. It dwells upon the threshold of higher realms, and each one who dares seek entrance must first vanquish this demon. 
 
-[459] 
-
-THE THEOSOPHICAL TEMPLE OF THE ROSY CROSS
-Question No. 145. 
+### <h3 id="question-145">Question No. 145: THE THEOSOPHICAL TEMPLE OF THE ROSY CROSS</h3>
+ 
 It is claimed by some Theosophists that their Temple Of The Rosy Cross is the only genuine order and that the Rosicrucian Fellowship is a branch thereof. Please tell us what is the true status of that order, and what connection it has with the Rosicrucian Fellowship. 
 
 Answer: It is an unfortunate fact lamented by all leaders of societies that misinformed members make extravagant statements which have no foundation whatever in facts. It has always been the policy of The Rosicrucian Fellowship to live in peace with all other religious societies, to speak well of them and their leaders on all occasions, and we would never think of violating our ideal of fellowship by an attack on anyone. 
@@ -2569,13 +2278,9 @@ The leaders of The Theosophical Society follow similar principles. We have never
 
 We have sold many thousands of copies of this work to members of The Theosophical Society. Large lodges like those of London and Chicago have bought five hundred copies at a time; others like Boston and Washington bought several hundred copies at a time and repeated their order several times. At one time the Theosophical Book Concern negotiated for the whole edition then on the press, but as we needed most of it right away to fill large orders from jobbers in New York and London the deal fell through. Thousands of copies have been sold direct from our Headquarters to individual Theosophists, and letters redolent with praise have been sent in by many hundreds of Theosophical Society members. Lodge leaders have written enthusiastically to Mr. Heindel of the great value of the book as a text book in their classes, and reviewers in many of their publications have praised it in the highest terms. The last review we have seen is by Mr. Wedgwood in the official organ of The Theosophical Society, The Theosophist, February, 1915. Mr. Wedgwood there reviews another book and for the sake of comparison mentions a number of writers, among others, "Max Heindel, author of a fascinating and really able book, The Rosicrucian Cosmo-Conception." 
 
-[461] 
-
 He comes to the conclusion that, "Heindel's is probably the most able of these books. It sets forth a fairly rational and coherent scheme, and while certain of his points seem to invite doubt, others call forth from the intuition a flash of ready recognition which is unmistakable. Clearly the book represents a definite occult tradition. It touches upon many interesting points which so far have not been considered by Mrs. Besant, Mr. Leadbeater, or Mr. Sinnett." 
 
 The Theosophist is, as said, the official organ of The Theosophical Society and is edited by Mrs. Besant. Thus two of the highest officials of The Theosophical Society and founder of the Theosophical Temple of the Rosy Cross have officially endorsed The Rosicrucian Cosmo-Conception as a book which "clearly represents a definite occult tradition." They are great souls who do not feel the need to bolster up a foolish pride and vanity by a supercilious sneer at another organization, as some who are not worthy to be called their followers, do. They have, moreover, minds which can discover merit in others and generosity to acknowledge the fact. This is also the case with the great body of the membership of The Theosophical Society, or they would neither have bought The Rosicrucian Cosmo-Conception nor acknowledged its merits, and the small minority who make the claim that the Theosophical Temple of the Rosy Cross is the only genuine order and that The Rosicrucian Fellowship is a branch--Well! They will learn. 
-
-[462] 
 
 Regarding the origin of the Theosophical Temple of the Rosy Cross, we are informed by the Secretary of the American Section of The Theosophical Society, Mr. A. P. Warrington, in the May issue, 1913, of The American Theosophist: 
 
@@ -2585,15 +2290,11 @@ Regarding the origin of the Theosophical Temple of the Rosy Cross, we are inform
 
 "'While recognizing that there is but one true Occultism they will seek to find it in its Western Manifestation in order to enrich, not to supplant, its Eastern aspects. 
 
-[463] 
-
 "'In choosing the name Temple Of The Rosy Cross, the founders had in mind various ancient organizations; one was the famous Order of the Knights Templars, which was formed to protect pilgrims traveling in the Holy Land...In like manner the present Templars of the Rosy Cross desire that they may prove worthy to gather around the Bodhisatva when he comes again, and defend the mysteries with a sword of the spirit.'" 
 
 This is a straightforward and obviously honest statement that, feeling the need of ceremonial as an incentive to spiritual aspiration, they organized The Theosophical Society Order of the Rosy Cross in the hope that it might make them more fit servants in their Master's vineyard, and who would not bid them Godspeed? They do not claim to have received occult instruction to start such a temple from the Brothers of the Rosy Cross. In fact, they confess they do not know if there is such a temple, at least Mr. Wedgwood does--and Mrs. Besant prints it in the same review where he speaks of The Rosicrucian Cosmo-Conception. He wonders what is the source of such books and asks the question: 
 
 "Are there schools of Western occultism still existing on the physical plane? The repository, perhaps, of the alchemy of the Rosy Cross, and wherein the lesser mysteries still are celebrated? Or do these teachings emanate from superphysical lodges of teachers out of incarnation who still cherish the doctrine of medieval monastic occultism, blended as it often was, with a stronger tincture of orthodox Christianity? It would be interesting and well to know." 
-
-[464] 
 
 Max Heindel states there is such a temple and his contention is supported by the fact that he has written The Rosicrucian Cosmo-Conception which has found ready endorsement from many thousands of thinkers in The Theosophical Society and out. Most of them are gifted with intuition, like Mr. Wedgwood, and some with spiritual vision. To doubt his modest claim to be the messenger of The Rosicrucian Order in the face of the fact that he has this book, involves the greater difficulty of believing him its originator, for a monumental scheme of unfoldment of the world and man, such as this book reveals, was never hatched in a human brain. Hence there is but one tenable conclusion: that Max Heindel tells the truth when he says he visited the Temple of the Rosy Cross, that he was there initiated into the mysteries and given the teachings contained in The Rosicrucian Cosmo-Conception, which he was enjoined to publish and promulgate. 
 
@@ -2607,20 +2308,16 @@ The Rosicrucian Fellowship is the Herald of the Aquarian Age, promulgating the W
 
 We are sorry to say there can be no connection between The Rosicrucian Fellowship and the Theosophical Temple of the Rosy Cross, or any other Theosophical Society Order. We have a high opinion of their membership, and a sincere regard for many with whom we are personally acquainted, but we have espoused the Western Wisdom Religion. We thoroughly believe in Western methods for Western people, and are therefore forced by the laws of logic to take the position that our Theosophical friends, however sincere, are mistaken in their efforts to promulgate among the people of the West a religion divinely given to the people of the East. 
 
-[466] 
-
 We did indeed rejoice when we first heard that a Temple of the Rosy Cross had been founded by the leaders of the Theosophical Society, for we took this to be an indication that they had seen the true Christ Light, in the West, and were preparing to emulate the "Wise Men of the East" who traveled westward following the Christ Star to Bethlehem. However, we were sadly disappointed to note their statement of motive in studying the Western occultism, Rosicrucianism, etc., as contemplated, in this new temple: "in order to enrich, not to supplant, its eastern aspects." 
 
 Thus the aim of The Theosophical Society and their subsidiary Orders are diametrically opposed to The Rosicrucian Fellowship, as East is to West, and however sincere our personal regard for individual members, we cannot work with them as a society. 
 
 It does not follow that we are obligated to attack them, however, or that we would retaliate when a misguided member of The Theosophical Society makes statements which we consider derogatory to the dignity of our Association. Let us be careful, rather, not to bring up subjects which may provoke such remarks. Let us quietly but persistently continue to promulgate the Western Wisdom Religion and emphasize the fact that it is the western method for the western people. So shall we further the work of the Elder Brothers better than by idle arguments which waste our time and convince no one, for conviction comes from within. 
 
-[467] 
-
 Note: Since the foregoing was written, The Theosophical Temple of the Rose Cross has been disbanded, and the building at their American Headquarters turned into a Catholic church where the former Templars are now worshiping. Had their "Temple of the Rose Cross" been originated by the Elder Brothers who are the Hierarchies of the Western Wisdom School it would have endured for centuries instead of a year or two. 
 
-LETTING DEFECTIVE CHILDREN DIE
-Question No. 146. 
+### <h3 id="question-146">Question No. 146: LETTING DEFECTIVE CHILDREN DIE</h3>
+ 
 From the occult point of view is it right or wrong to let a defective infant die, as was done in the Bolinger case? Please let us have your view on the matter. 
 
 Answer: When we consider the defectives as a class, it is first necessary to realize that the Spirit is not defective. It has had innumerable past lives during which it has sown certain seeds and reaped appropriate experiences therefrom. Experiences which could not be reaped in one life have been held over until the next life or later lives, and have there attained their fruition. None of us, however, are capable of expressing in one body all of the attainments that we have acquired in our many previous lives, therefore we have many seeming anomalies brought to light in the investigation of psychical researchers who have found that ignorant people in the peasant class in this life, have been able under the spell of hypnosis or in trance to speak Greek and Hebrew, also to discourse learnedly on abstruse subjects. Thus it is evident that the Spirit may be likened to a diamond in the rough which is being gradually ground upon the grindstone of experience. In each life a new facet permits the light to enter and adds that light to the light already obtained through facets ground in many previous lives. By this process we shall eventually attain to the perfect light which makes us divine. 
@@ -2629,21 +2326,15 @@ Because of our limited perception, we call certain actions evil and certain othe
 
 As a matter of fact, the normal body is the result of a certain mode of life in previous existences which was then standard. But the so-called defective minds and defective bodies are the results of the efforts of Spirits to be free to move along what we would call unconventional lines of thought or action. Therefore genius and idiocy have always been twin brothers, and any doctor who attempts to cut short the life of one he may think a defective is just as liable to deprive the world of a great genius as he is to rid it of a poor creature that would be a burden to himself and others during his miserable existence. Thus, even from that point of view it would be absolutely contrary to the interest of society to allow any one to decide arbitrarily whether a child should live or die. It is the duty of every doctor to do all in his or her power to prolong life in the body so that the Spirit may gain the experience it has come for. If that life is to be cut off nature will take care to do that herself. 
 
-[470] 
-
 Investigation of the Bolinger case shows that that Ego had lived its previous life as a nun, and was burned at the stake. The result was that it lost the fruit of that life, and under the law of infant mortality it was therefore necessary for the new body to die soon after birth. Thus no operation could have saved the life in this instance, but that does not do away with the fact that the doctor was negligent of duty in not endeavoring to preserve the life. It would not do to speak in a public magazine of the causes in that previous existence which led to the tragedy which terminated it and had a bearing upon the present birth as a so-called defective. Sufficient to say that the Spirit has now gone into the First Heaven and will there receive the moral training which will restore to it the fruits of experience garnered during that past unhappy life. Thus when it is reborn in the course of a few years it will probably have a perfectly normal body. 
 
-[471] 
-
-THE NATURE OF PSYCHOMETRY
-Question No. 147. 
+### <h3 id="question-147">Question No. 147: THE NATURE OF PSYCHOMETRY</h3>
+ 
 Will you kindly explain just what is meant by psychometry? 
 
 Answer: It is well known to all scientists that the history of the earth during the ages may be read by anyone trained in the art. Prehistoric animals and plants may be reconstructed from their fossil remains. The cataclysmic effects of great volcanic eruptions may be traced. The paths of glaciers melted many millennia ago are as plain as if they were now moving towards the sea. The erosion by water of rocks now found in dry deserts tells its tale of changing topographical and climatic conditions as plainly, or more so, than if the record were written on the pages of a book. 
 
 But to those who see with the spirit eye there is accessible a deeper record which coincides with and completes the chain of facts revealed by geology. The marks left on the rocks, by the grinding glacier and the rushing river, are as scars of strife on the soldier's body, from which a keen observer may draw conclusions concerning the conflict, which caused them according to the pitch of his imagination. These deductions may fit the facts, but it is more than probable that errors will creep in. At any rate, if the soldier can be persuaded to tell the tale of how he received the scars we shall certainly secure a more complete and authentic account than if we rely entirely on deduction. 
-
-[472] 
 
 Similarly, if nature can be made to supply the story of past events, we shall have a true tale of the things that have taken place in past periods with their varied flora and fauna. 
 
@@ -2653,37 +2344,29 @@ Another class has cultivated the faculty of reading the Memory of Nature at will
 
 Much has been given out in the Rosicrucian Teachings concerning the Memory of Nature, and a great deal of our information has been obtained from that source by the latter method of positive investigation. We hardly need warn our readers of the danger of attempting to awaken the passive phase of this faculty. 
 
-[473] 
-
-RESULTS OF BURNING SPICES
-Question No. 148. 
+### <h3 id="question-148">Question No. 148: RESULTS OF BURNING SPICES</h3>
+ 
 Will it raise the vibrations of a room to burn spices, and if so what kind of spices should be used? 
 
 Answer: When disembodied Spirits wish to influence those who are still enmeshed in the mortal coil, it is necessary for them to have a vehicle of sufficient density to impinge upon the brain centers, or under certain circumstances upon the coordinating mechanism of the cerebellum. Given such a vehicle these Spirits can and do impress their victims physically, morally, or mentally, according to their disposition. 
 
 It is a self-evident truth that one does not gather grapes of thorns, and because a Spirit has no dense body is not a sign that it is a philanthropist. There are more weeds in the physical world than flowers, and there are more evil (because undeveloped) Spirits in the invisible world than there are good and noble ones. 
 
-[474] 
-
 When one burns incense in a room, the smoke and the odor which we see and sense is material of such density that it may be made use of by certain classes of Spirits which are attuned to the vibratory rate of that incense which is being burned. When a reputable occultist, who has evolved spiritual sight and is able to see the various entities in the invisible world, has compounded an incense which he finds offers a vehicle only for Spirits of a helpful nature who incline to raise the vibrations of those who breathe the incense and the Spirits with it, then it may be an aid during periods of prayer to raise the consciousness of the devotees to a union with the Divine. 
 
 On the other hand, if the incense has been compounded by some one ignorant of occultism, perhaps by one who has a selfish motive in view, then it is a vehicle for Spirits of a similar nature who clothe themselves in the smoke and odor, enter the bodies of those who are present where the incense is being burned and incite them to acts of debauchery and sensualism. The Chinese punk sticks are a good example of this variety. It is also possible that when this practice has been indulged in for some time the obsessing Spirits may obtain such control over their victims that they incite them to frenzy, causing them to exhibit the symptoms of epilepsy, frothing at the mouth, etc., or they may interfere with the bodily movements in a manner similar to that exhibited in the so-called St. Vitus dance. Therefore, the practice of burning incense is very dangerous, and ought to be strenuously discouraged. 
 
-[475] 
-
-RESPONSIBILITY OF RULERS
-Question No. 149. 
+### <h3 id="question-149">Question No. 149: RESPONSIBILITY OF RULERS</h3>
+ 
 In a recent lesson we were told that the Race Spirit influenced different persons to take a part in great world movements. If the part was unjust, is the person responsible for it? Would he suffer for it? 
 
 Answer: The statement was made in the Students' Lesson for September, "Our Invisible Government," that the divine hierarchs who guide evolution from the invisible worlds always find an Ego who is strong, either for good or evil, and use that one when progress demands the fall of an old nation or the raising of a new. However, it would be impossible to induce a Spirit of a brutal and tyrannical nature to play a self-sacrificing and noble part. He cannot change his character overnight any more than the leopard can change his spots, and vice versa, a Spirit of a noble nature will not consent to play the part of a tyrant or autocrat. 
 
 Each one will act in harmony with his basic nature, and therefore the divine hierarchs always choose some one who is of a character fitted to the part they want him to play in the coming crises, and place him in such a position that he has the power to carry out his designs, whether for good or ill. On that account he becomes at least partly responsible for his acts and the consequences thereof. If he does well, and by his acts of nobility, justice, and altruism aid a nation to rise, guiding it through the rocks and shoals of its infancy, as did George Washington, for instance, then great honor and glory will naturally be his in some future life where he will be given dominion over others whom he may help. On the other hand, if he plays the part of a Nero in breaking up a great empire, doing as it is said of one of the kings of Israel, "evil with both hands greedily," naturally sorrow and suffering will result. He probably cannot be made to feel all the pain which he inflicted any more than a George Washington can receive all the joy which has come to the millions who have benefited through his wisdom and altruism, but each will certainly receive as much as it is possible to give him, or at any rate as much as is required to make one a good man and the other a better. 
 
-THE PURPOSE OF PHYSICAL EXISTENCE
-Question No. 150. 
+### <h3 id="question-150">Question No. 150: THE PURPOSE OF PHYSICAL EXISTENCE</h3>
+ 
 I see quite clearly how we can learn great lessons concerning this physical expression of life, but do not see why the Physical World is necessary to teach us ethics or morals. If it were possible to learn ethics and morals in the higher worlds, just why is a Physical World, or what we call the physical expression, necessary? 
-
-[477] 
 
 Answer: Yes, and no. All other worlds are not by any means physical, even to those who inhabit them. It is perfectly true that one feels the handclasp of a friend in the invisible worlds just as we do here, but that is because we think resistance into the hand of the other party and our own. We do this quite unconsciously, of course, but the effect is the same. It lends a resistance to our hands, and our hand stops where it meets the other's, just as it would be stopped by the solid flesh and bone here in this world. However, did we not, when we clap our friend on the back in the first joy of greeting, think this resistance, our hand would go straight through his body, and we can at any time we wish interpolate our own body into his or any one else's without inconvenience to ourselves or to them. Here in the physical world such a thing is of course impossible. Here everything is rigid and solid, comparatively speaking, but it is this very quality that imparts value to the physical world as a school in right and accurate thinking, for that is what it is, as has been explained in The Rosicrucian Cosmo-Conception. 
 
@@ -2691,16 +2374,12 @@ The illustration was there given of how an inventor may mould in his mind, from 
 
 Had there been no physical world he would have had no means of correcting his inaccurate conception of what that machine should be, and it is very important that he should learn to think accurately and correctly. By and by when we are sufficiently evolved we shall not stand laboriously and fashion things with our hands, but we shall conceive the idea of what we want to create in our minds and then we shall speak the word that will bring it into being. Nor will these creations be mere machines. They will be living things. Therefore, if we do not learn to think correctly, we shall create monstrosities that will have to be destroyed because of the evil nature they would develop in whatever Spirit inhabits them. 
 
-[479] 
-
 That brings us to your question about ethics and morals. It is said that "handsome is as handsome does," and also that "beauty is only skin deep." At the same time it cannot be denied that the face is an expression of the soul. We all speak about someone as having a good face, and others as having an evil expression, showing the power of thought to mold the flesh in accordance with the morals and ethics of the person. Therefore, we are learning morals and ethics here, and must learn them in order to understand how to use them to mold the form and features of the things that we shall create. In order to become thoroughly efficient tools, however, our morals and ethics must be intensified a thousand fold, just as we have already seen is the case with thought. Thought is all-powerful in its own subtle realms, but is hampered when working in the resistant material of the physical world. Similarly morals and ethics are also handicapped. They are, however, being developed by exercise as the muscle grows, and there could be no exercise if they were not used in a world where there is resistance. That is a slow process but it makes for efficiency. 
 
 If you remember the law of infant mortality, you will also recollect that the little children, who die because an accident or other unfortunate circumstance prevented them from living their purgatory, are taken straight into the First Heaven and there taught by compassionate ones the moral lessons that they should have learned in their previous purgatory. Let us suppose that one of the lessons an Ego had to learn was sympathy, because it had been cruel and hard in its previous life. Perhaps it had tortured animals physically or human beings mentally and found great pleasure in so doing. Such a little child would then be taken to purgatory at a time when an Ego of similar propensities was living its purgatory and expiating acts of cruelty. The child's body would then probably be interpolated into the desire body of the other one and it would feel what he or she would feel--the suffering of the tortured animals on account of their physical pain and the sufferings of his human victims in mental anguish. Thus the child would pick up very quickly the lessons that had to be learned, and be made ready for rebirth in a short time. Thus both the invisible and the visible worlds play their part in teaching us ethics and morals, and there is no doubt that both are indispensable, or the wise beings who guide us on the path of evolution would find other means of more efficiency to teach us the needed lessons. 
 
-[481] 
-
-LOST SOULS
-Question No. 151. 
+### <h3 id="question-151">Question No. 151: LOST SOULS</h3>
+ 
 Is there any basis in fact for the teaching of some schools of occultism regarding lost souls and stragglers? I have read a book which vividly describes a place called Avitchi, where the souls reside when in the last stages of disintegration. The school in question it seems holds that some souls undergo progressive retrogression, becoming lower and lower in each successive embodiment until ultimately extinguished as individual souls by absorption in the Cosmic Soul. Now, as I understand the Rosicrucian teachings, all souls without exception are on the upward spiral, and while there may be a retrogression as between two successive lives in the Physical World, yet the ultimate outcome is progress, not retrogression. I do not believe that it is any part of the true Rosicrucian teachings that some souls deteriorate until annihilated. The above remarks also apply to stragglers. Kindly advise the correct teaching on this subject. 
 
 Answer: The Rosicrucians teach that life is a great school where there are pupils in all different stages of development. In the most advanced class there are some who have learned almost all the lessons that it is possible to teach in our present condition and environment, and these are about to graduate into other conditions where they will be afforded a larger opportunity for advancement. There are also backward Spirits in the lower classes which have, so to speak, been lazy and neglected to grasp opportunities for advancement. Between the lowest and the highest classes there are a great number of gradations, and certain tests for examination are made of humanity as a whole at different points in the evolutionary career, just the same as in a school examinations of the pupils are held at certain times of the year for the purpose of determining if they are fitted to advance into a next higher grade. Those who pass this examination are promoted, while those who fail are required to pass another term in the class where they are so that they may learn the required lessons necessary as a basis for further advancement. Those who pass the examination are saved, and those who fail are lost to the class as a whole. However, this is only temporary, and those who have been backward may catch up gain and at the following examination pass those who were promoted the year before. Then these erstwhile stragglers are saved and the others lost. 
@@ -2709,24 +2388,20 @@ So it is also in the school of life. Those who fail to pass the examination at o
 
 It is said that there is no rule without exception, and there is one condition which almost gives a foundation for the teaching concerning Avitchi promulgated by the Eastern schools. According to their philosophy, there are two states (not places, but states) of consciousness, Avitchi and Nirvana. They say that when the Spirit by repeated embodiments and lives lived in the most noble manner has reached a state of sublime spirituality, it is absorbed by the Cosmic Soul as the dewdrop is swallowed up in the sea. Its individual consciousness plus the fruitage of all its lives is swallowed up by the Universal Spirit, this being according to the Eastern teaching a state of the highest bliss. Conversely, those who by lives of continued evil pass a certain point, commence to sink lower and lower on the scale of attainment, and as their consciousness has been so saturated in evil that there was no room for good, individual consciousness is gradually purged from them in the effort to eradicate the evil, until at last the Spirit stands naked and unconscious. It is then absorbed in the Cosmic Soul, bringing with it only sorrow and disappointment of the most intense nature. But this teaching regarding both good and evil is as already said, contrary to the Western Mystery Teachings, and may at least only apply in such a case as an exceedingly evil black magician. In no case, however, is the Spirit lost, but only the fruitage of its pilgrimage. As we have eternity for our evolution, we may be certain that even such a Spirit would have opportunities later to enter the pilgrimage of evolution which will make it a self-conscious creative intelligence. 
 
-EUTHANASIA
-Question No. 152. 
+### <h3 id="question-152">Question No. 152: EUTHANASIA</h3>
+ 
 Is "legalized Euthanasia," or lawful execution of the aged, infirm, or suffering persons who desire death, such as I read is being considered in a certain city, legitimate in your opinion? 
-
-[485] 
 
 Answer: At first blush and from the standpoint of people not versed in the teachings of occultism such a measure would seem to have considerable claim to commendation. Most people on seeing an animal suffering agonies and beyond hope of recovery would feel prompted by humane instincts to put it out of its misery, and the questions, "Why should we not do as much for our fellow men and women? Why should we keep them alive in excruciating suffering maybe for months or years when we know they have no chance of regaining their health and that they are looking and longing for death to put them out of pain?" seem from the common point of view to call for acquiescence. However, when we have a knowledge of the law of consequence and are sure that what we sow we reap, if not in this life then in some future existence, the matter appears in a different light. 
 
 We cannot escape our just dues. The suffering that comes to us is needed to teach us a lesson or mellow our character. The only way to shorten such suffering is by an endeavor to understand why we are in the condition that brings us pain. If it is cancer of the stomach, then how have we abused that organ? By overindulgence of food of a nature not suited to our system? Is it the heart? How many times have we lost our tempers and raged like mad, putting a tremendous strain on this part of the body? Or are the other organs of our system weak and debilitated? We may be sure that in some way, either in this life or a previous one, we have abused our body in such a manner as to cause these ailments. Otherwise we would not now be suffering, and the sooner we take the lesson to heart and commence to live a better life more in harmony with the laws of nature we have broken, the sooner our suffering will cease. 
 
-[486] 
-
 It is always in our own grasp to alter conditions, though of course we cannot remedy in a day what it has taken years or lives to break down, but certainly there is no other way in which a permanent cure can be effected. Even if now, by the enactment of such a law as contemplated, the suffering is shortened, we may be sure that when the person so released from his body is reborn his new vehicle will have the tendency to develop the same disease from which he escaped in such an untoward manner. Besides, as has been thoroughly explained in The Rosicrucian Cosmo-Conception, this physical body of ours is fashioned in an invisible mold which is called the archetype, and so long as that archetype persists our physical body remains alive. When death occurs from natural causes, or even in the so-called accidents, (which usually are not accidents at all but events used to terminate a life according to the design of the invisible guardians of human affairs) the archetype is disrupted and the Spirit flees. 
 
 A suicide, however, is different. In this case the archetype persists after death for a number of years until death should have occurred according to natural events, and being unable to draw to itself the physical atoms it imparts to the suicide during those years of his post-mortem existence a continuous aching feeling, something like a gnawing hunger, or a dull but exceedingly painful toothache. If the plan you mention becomes a law and people are allowed to obtain the services of others to commit suicide (for that is what it really amounts to), there is no doubt that they will suffer in their post-mortem existence in the same manner as the suicide who prescribed his own poison, or cut his own throat. It is a very dangerous plan in other respects, also, and we trust no such practice will be sanctioned by law. 
 
-NATURE OF THE HIGHER SELF
-Question No. 153. 
+### <h3 id="question-153">Question No. 153: NATURE OF THE HIGHER SELF</h3>
+ 
 What part of the threefold Spirit is the Higher Self? Is it the Divine Spirit? 
 
 In the Cosmo it is stated that the Human Spirit is the Ego. Is the Life Spirit not a part of the Ego? 
@@ -2737,41 +2412,29 @@ Answer: The higher self is the threefold Spirit: Divine, Life, and Human Spirit,
 
 When the Human Spirit draws around itself for better expression the lower and more concrete vehicles--the mind, the desire body, the vital body--by sinking itself in them, by descending even to the Physical World, it again obtains consciousness of outward things. Then having lost knowledge of the World of God whence it originally came, it commences to conquer the physical world and subdue it to its own ends. 
 
-[489] 
-
 In this respect it differs radically from the Spirits of the other three kingdoms--mineral, vegetable, and animal. The Group Spirit of the mineral has as yet descended only to the Region of Abstract Thought. Therefore the consciousness of the mineral resembles the deepest trance state. The Group Spirit of the vegetable and plant kingdom has descended to the Region of Concrete Thought. Therefore the consciousness of the plant kingdom is akin to that which we have in the deepest dreamless sleep. The Group Spirits of the animals are found in the Desire World, which is next to the world in which we live. Hence the consciousness of the animal is an internal picture consciousness, similar to that which we have in dreams, the pictures being sent by the Group Spirits to the animals to impress upon them what they are to do under certain circumstances. That which we call instinct is thus the wisdom of the Group Spirits, which impresses the animal concerning how it shall act. The Human Spirit alone in all the kingdoms of evolving life on earth is an individualized Ego, and descends into the vehicles which are all gathered in the physical world during the waking hours of the day. Thus we attain to the waking consciousness whereby we are fully aware and awake to all things pertaining to the world in which we then function, are able to use our own reason, express our desires and emotions, and act as dictated by our individual Higher Self--the indwelling Spirit, the Ego. 
 
-[490] 
-
-SOWING WITHOUT REAPING
-Question No. 154. 
+### <h3 id="question-154">Question No. 154: SOWING WITHOUT REAPING</h3>
+ 
 In the first lecture sent by Mr. Heindel he says something about having engagements with our destiny and being able to cancel them under certain circumstances. Now what I want to know is this: What are those certain circumstances? I realize that now I can build for the future and that things that take place within my own consciousness I can control according to the amount of will that I have and the desire back of that will to try to do what is right. But what about the efforts along the line of wrong influence? What if one pursues the life of the ordinary person and blunders into evil ways? Is he not starting something from which it is impossible to escape? Or can he, by striving to overcome the lower nature, and building a better character, forego the consequences of his own misdeeds? This is a question a friend and I have had many arguments over. She holds to the idea that if we see we are due for an accident or trouble of any kind we can avoid those things by staying away from where they are likely to happen, but it does not seem likely to me that we can escape the past. If we could, we would not build character by running away from anything. Of course, that is a more or less fatalistic view of the matter, but I believe in taking my medicine like a man. Though I kick against the pricks, at the same time I feel disgusted that I am such a weakling. 
-
-[491] 
 
 Answer: There is one important point in the matter which it seems you fail to take into consideration, though it has been plainly and emphatically stated in our literature. "All the laws of nature, including the law of consequence in its application to human life, are under the administration of great Beings of sublime spirituality and superlative wisdom." This law does not work blindly on the principle of an eye for an eye and a tooth for a tooth, but these great Beings and their agents administer all things with a wisdom that is beyond the comprehension of our finite minds. It has been found, however, that where there is a desire or tendency or possibility of running away from a harvest of sorrow which has accrued from certain RIPE destiny, such plans are always circumvented by another move on the part of the invisible administrators of this law. 
 
 If you will read again the case cited in The Rosicrucian Cosmo-Conception of a certain lecturer who was warned by Mr. Heindel that if he went out of his house on a certain day he would meet with an accident to certain parts of his body, and how he forgot and thought the 28th was the 29th, took a trip to another town to lecture and was injured, as foretold, in a railway collision. This case will perhaps illustrate our points. The man had been forewarned, he believed in the warning and intended to heed it, but undoubtedly the suffering accruing from that accident was due to him in expiation of certain wrongdoings. Therefore the agents of the law of causation caused him to forget the day of the month. 
 
-[492] 
-
 This principle works also in another way. You seem to think that there is no way of escaping the harvest of the past but there is. We have also repeatedly emphasized the fact that God, or nature, or the agents of this great law, do not aim to "get even" with us. We are here in this great school of life, safeguarded by these laws of nature. They are made for our benefit and not for our hurt, although they limit us in a certain way just as we limit our children's liberties for the purpose of guarding them against dangers of indiscretion. When by our past actions we have laid up a certain store of retribution for ourselves which is to be worked out at some future time, and then see our mistake, turn over a new leaf, and live in harmony with the law we had previously broken, then by that action we wipe the slate clean with respect to our previous peccadillos. The agents of the great law, seeing that we have ceased from wrongdoing in that particular respect, would not wantonly inflict suffering upon us. Bear this fact in mind: all the laws of nature are under similar divine, intelligent administration, for that is the difference between the fatalistic and the spiritual viewpoints. The hand of God, through His agents, is everywhere, from the greatest things, such as the travel of a planet in its orbit, to the most trivial detail like the falling of a sparrow. It is an actual fact that in God we live and move and have our being. We are under His loving care in everything and therefore nothing can happen to us that is not in harmony with His great divine plan. That plan certainly cannot be fatalistic! 
 
-[493] 
-
-MOTHER SHIPTON'S PROPHECIES
-Question No. 155. 
+### <h3 id="question-155">Question No. 155: MOTHER SHIPTON'S PROPHECIES</h3>
+ 
 Do you consider Mother Shipton's prophecies authentic? 
 
 Answer: Half a century before America was discovered, "Mother Shipton," the Yorkshire seeress, prophesied the discovery of an unknown land in which gold would abound. She saw the automobiles and railroads of today with the many accidents they would cause, the telephone and the telegraph, divers, submarines, airships, and the great iron ships which have superseded vessels of wood. She foresaw the great political upheavals in the world, notably in France, her alliance with England and an amalgamation of the Anglo-Saxon races which may yet come to pass, notwithstanding their present strife. She beheld the emancipation of the Jew and his preferment to positions of prominence, and unprecedented spread of knowledge among those of even the most lowly estate, ending with the prediction of certain upheavals of the earth's crust whereby old lands will become submerged and new land appear, and in 1991 she foresees the end of the world. 
-
-[494] 
 
 The last named prophecies will probably cause most of us to shake our heads in a skeptical manner, but if we give the matter a little thought the idea may not seem so farfetched. We know that upheavals of the earth have taken place in the past, and earthquakes and volcanic outbursts show us that the subterranean activities are not suspended by any means. The writer has seen for a number of years great subterranean caverns filled with oil and gas which run in a general direction from Maine across the American continent in a southwesterly direction, beneath Southern California and far out into the South Pacific Ocean. Their explosion would make a great gap in the earth. At the same time he sees an archetype in the process of construction which shows the shape the earth will take at that place when a cataclysm or series of cataclysms have broken up the present shape of this continent and the adjoining ocean. Perhaps it is hazardous to set a time when this remodeling of the earth will begin, but the archetype or matrix molded in mind stuff, and representing the creative thought of the Grand Architect and His builders, seems so nearly complete that, judging by the progress made during the years the writer has watched its construction, it seems safe to say that by the middle of the present century (1950), if not before, the upheavals will have started. It is not at all incredible that there may be one of such magnitude in 1991 that the ancient seeress was justified in judging it the end of the world. However, perhaps the writer is premature in judging that the upheavals will start in the middle of the century. They may be deferred to the end. Only time can decide, but certain it is that preparations for a great change have been going on for centuries and are now nearing completion in the invisible world. Therefore, we may expect soon to see Mother Shipton's prophecy concerning this matter fulfilled as the ones mentioned in the beginning our note have been. 
 
 We append the prophecy so that our readers may judge for themselves: 
 
-
+```
 Carriages without horses shall go,
 And accidents fill the world with woe;
 Primrose Hill in London shall be,
@@ -2789,9 +2452,6 @@ Under water men shall walk,
 Shall ride, shall sleep, shall talk
 In the air men shall be seen,
 In white, in black, and in green.
-
-[496] 
-
 
 A great man shall come and go!
 Iron in water shall float
@@ -2834,22 +2494,15 @@ Houses shall appear in the vales below.
 And covered by hail and snow.
 The world then to an end shall come,
 Nineteen hundred and ninety-one.
+```
 
-[497] 
-
-THE GOVERNING RAY
-Question No. 156. 
+### <h3 id="question-156">Question No. 156: THE GOVERNING RAY</h3>
+ 
 In the Cosmo it is stated: "All occult schools belong to one of the Seven Planetary Rays, and one can join only the school of the ray to which he belongs. To what ray does the Rosicrucian Fellowship belong? And does this mean that anyone applying for admission thereto, if not of the same ray, would be rejected? Understanding of this point is rendered still more difficult because of the statement, I think, in the astrology books, that our father star is not known until the last initiation. 
 
-Answer: There are two sets of people in the world, spoken of in the Masonic Legend as the Sons of Seth and the Sons of Cain, and represented in our modern times by Freemasonry and Catholicism, statecraft and priestcraft--those who listen to the voice of intellect and follow the head, and those who obey the voice of the heart and follow their emotions and feelings. The Sons of Seth, people who go along the devotional path and follow their religion in whatever country they may be, do not come in touch with any Mystery School at any time of their existence. They have followed their spiritual teachers, docile as lambs, as water flows gently in an artificial canal, and among their leaders, from the time of Abel, the shepherd, we find great lights like Solomon, who was later reborn as Jesus, 
-
-[498] 
-
-and is now the invisible spiritual pillar of the Church, which he will eventually guide into the haven of the Kingdom of Christ. These people are the divine prototypes, Adam and Eve, created by Jehovah, the regent of Luna, the Queen of the waters of the world and the emotions of men. Our emotions are as unstable as water, which is governed in its periodical ebb and flow by the Moon. 
+Answer: There are two sets of people in the world, spoken of in the Masonic Legend as the Sons of Seth and the Sons of Cain, and represented in our modern times by Freemasonry and Catholicism, statecraft and priestcraft--those who listen to the voice of intellect and follow the head, and those who obey the voice of the heart and follow their emotions and feelings. The Sons of Seth, people who go along the devotional path and follow their religion in whatever country they may be, do not come in touch with any Mystery School at any time of their existence. They have followed their spiritual teachers, docile as lambs, as water flows gently in an artificial canal, and among their leaders, from the time of Abel, the shepherd, we find great lights like Solomon, who was later reborn as Jesus, and is now the invisible spiritual pillar of the Church, which he will eventually guide into the haven of the Kingdom of Christ. These people are the divine prototypes, Adam and Eve, created by Jehovah, the regent of Luna, the Queen of the waters of the world and the emotions of men. Our emotions are as unstable as water, which is governed in its periodical ebb and flow by the Moon. 
 
 The other stream of humanity, called the Sons of Cain, is that class in whom the divine essence, the Ego, makes itself felt as a burning fire. The original creative instinct is keen within them, for when humanity was in its cradle, they listened to the voice of the Lucifer Spirits and ate of the Tree of Knowledge; hence they became enlightened. The mind prospered at the expense of the heart, and from Cain, Tubal-Cain, and Methuselah have come all the craftsmen of the world. They were the ones who built Solomon's Temple under the leadership of Hiram Abiff, the Master Mason, who was later reborn as the Widow's Son of Naim, raised by the strong grip of the Lion of Judah, and is now working through industry and statecraft under the name of Christian Rosenkreuz to bring his kindred into the kingdom of Christ where the two streams will unite--where there will be neither priests nor kings, but one, even Christ, who will fill the dual office of King and Priest. 
-
-[499] 
 
 In every vast company of men there are always some behind and some in advance, and we may find individuals, belonging to each of these two streams of humanity among the lowest types as well as among the most highly civilized people on earth. All along the path of evolution, there are, as we might say, gates which lead to the path of initiation and which may be unlocked by anyone who has the proper key. The locks are different at different points on the path of evolution, and they are becoming more complicated, for we are all by evolution now learning lessons which were in by-gone ages taught in the process of initiation in the Mystery Schools. 
 
@@ -2859,8 +2512,6 @@ Children born with the same Greenwich Mean Time in Madrid, New York, or Honolulu
 
 Generally speaking, it may be said that all the people of the Western World belong to the Western Wisdom School of the Rosicrucians, and that they make a mistake when they endeavor to enter a school belonging to or teaching the Eastern philosophy. When Moses led the Israelites out of Egypt, the land of the Bull, where the animal was worshiped when the Sun by precession was in the sign Taurus, he gave the people under his guidance a new symbol, the Lamb. From the time when the Sun by precession went through the sign Aries, the Lamb, it has been and is idolatry to worship the golden Calf (Taurus), or bow down before the serpents and scorpions, which were the priests of that dispensation (because Scorpio is the opposite sign from Taurus). Then came Christ, the Lamb of God, so-called, to inaugurate a new religion; and we hear of a judgment when He shall come again under the sign Libra, the scales, which is opposite Aries, to judge all of the world. 
 
-[501] 
-
 Later, by precession, the Sun passed through the sign Pisces, the fishes, and for two thousand years we have been abstaining from meat on certain days and eating fish, while we worshiped the opposite sign Virgo, the immaculate Virgin. Now the Sun is entering, by precession, within orb of the celestial sign Aquarius, the Son of Man, and in the coming Aquarian Age we shall have an entirely different standard from what we have had before. As a matter of fact, we must learn to worship the Christ within, and this Christ is not the same for each one of us. This is the savior that is to lead us out of our present condition. The difference is the basic planetary ray that is in each and every one of us. So there is the horoscopic ray, governed by the planet which is ruler of our horoscope in each life; there is the individual ray, which is governed by the sub-ray of our Father Fire or Father Star, under which we originated; and, finally, there is the Father Fire or Ray itself. It is this latter which is not revealed until the last initiation. our individual ray is discovered unto us at the time we receive the discipleship instruction, and the horoscopic ray is evident as soon as we cast the figure and know how to read it. 
 
 To clear up this point from another angle, let us illustrate by colors. There are seven colors in the spectrum: red, orange, yellow, etc. But within the red we shall also find seven sub-rays, which are red-red, red-orange, red-yellow, etc. The same with the yellow ray--we shall find there yellow-red, yellow-yellow, etc. Similarly under the ray of Mars there are some who are Mars-Saturn, others who are Mars-Sun, others again who are Mars-Venus, and so on. Mars is then the Father Star, while the name of the other planet designates the individual Ray, and therefore we find in the Mystery Schools, all over the world, people who are born with any one of the twelve signs rising and any one of the planets ruling. Also people with individual rays of the Sun, Venus, Mars, Mercury, etc., are found in both the Eastern and Western Mystery Schools. But the Mystery School itself is colored by the deep, overpowering planetary influence of the Father Fire, the Father Star, under which it originated. 
@@ -2869,15 +2520,11 @@ You will understand that as the Father Fire is not revealed until the last initi
 
 There are plenty of people who claim that they know all and who will smile mysteriously, or give out misinformation which cannot be controverted and proven false, because it concerns the secrets of initiation. The writer has always made it a rule to say honestly and without hesitation whenever a question was asked to which he could not give an answer: "I do not know." To profess omniscience is equivalent to a profession of divinity. Though the writer has met quite a number of "professors," he has met very few, if any, "possessors," and you will have to wait for the answer to that question until you come to the proper point in initiation. 
 
-[503] 
-
 Even in the case of the individual ray, which is given to the disciples at the time they enter the path of discipleship, it has been found that people under the sign Gemini, for instance, which would be supposed to be ruled by Mercury, had in their individual ray all the different other planets; and the same with every one of the other signs. The writer has given time and study, endeavoring to find a rule, but it has proven absolutely futile. There is only the one explanation, given by the Elder Brothers, that the individual ray is retained by the Spirit throughout its whole series of lives, and perfectly independent of the horoscopical rays which change according to its birth, environment, and the lessons to be learned in each life. 
 
-WHEREABOUTS OF CHRISTIAN ROSENKREUZ
-Question No. 157. 
+### <h3 id="question-156">Question No. 157: WHEREABOUTS OF CHRISTIAN ROSENKREUZ</h3>
+ 
 Can you tell us anything about Christian Rosenkreuz, his person, habitat, environment, or what part of the world he is in? It has been said that he is on the western coast. Please tell me if it is permissible to know. 
-
-[504] 
 
 Answer: No, it is not permissible to know. The whereabouts and the movements of the august head of the Rosicrucian Order are always shrouded in mystery. If you have read about Rosicrucian initiation as explained in the Cosmo you will remember that he does not even appear in the body at the Temple services so far as the lay brothers are able to determine, for though the Temple is built of ether and the twelve Elder Brothers together with the lay brothers function in their soul bodies during the Temple service, the majority among us are able to see a body built of even so tenuous substance as mind-stuff. Hence it is evident that the presence of the head of the Order is altogether spiritual, and it is said that he manifests only to the twelve who like him are able to function in the highest vehicles. 
 
@@ -2891,8 +2538,6 @@ The following clipping from a newspaper sent by a correspondent is one of a numb
 
 "An incredible reign has just ended at Petrograd. It was the reign of a monk. A simple peasant was Grigori Rasputin when he first appeared in the Russian capital a half score years ago. He came from Eastern Russia--the Russia that merges into Asia and shares its mysticism. This monk trod a path of victory to power. How great this power was over the lives of 180,000,000 people will never be known. 
 
-[507] 
-
 "It is known, however, that Grigori Rasputin--'Saint Grigori' they called him toward the last--sent explicit orders to ministers, and these orders were obeyed. It is known that his levees in the palace once occupied by the Grand Duke Alexis were attended by the nobility of Russia--by high-born ladies of the palace, by generals in glittering uniforms, by all the high and the mighty of the empire. The poorest also came with prayers and petitions, which were granted with the initialed order of Rasputin to heads of governments. 
 
 "It is also said that this saint who came from Asia exercised a mysterious power over the conscience of the Czar; that the Czarina bowed her imperial head to his decrees; that rulers were elevated to the skies or humbled to the dust at his word. 
@@ -2901,45 +2546,33 @@ The following clipping from a newspaper sent by a correspondent is one of a numb
 
 "Again and again has the Duma denounced the 'dark forces' which dominated the palace. Yet so powerful was this exalted peasant from Tomsk that he could defy the unanimous vote of the Duma demanding his elimination from the life of Russia. So strongly was he entrenched in the seat of the mighty that he could issue a decree commanding the Russian press to cease its clamor--and he could enforce his command. 
 
-[508] 
-
 "There is no parallel to the twilight rule of this monk except in the Middle Ages or in the 'Forbidden City' of Peking. In the Forbidden City, the walled stronghold of the Manchus, a concubine in our times rose to be empress dowager of 400,000,000 yellow persons. Her rule was absolute. The shadowy figure of the nominally-reigning emperor was blotted out by the empress dowager's actual power. Tzu-Hsi, with her enamelled face and her gorgeous finery, uttered the words that meant life or death to courtiers, governors, and viceroys. 
 
 "What went on behind the walls of the Forbidden City none knew. One or two European women were admitted to that domain of slaves and eunuchs. What they reported was exceedingly interesting. It afforded a glimpse into a world which the Europeans believed to have passed forever with the advent of gunpowder, the railroad, and the telegraph. But the machinery that moved that government by women and slaves remained a mystery. The power that controlled the lives of 400,000,000 people remained a shadow. 
 
 "The story of Rasputin is more amazing than the story of the dowager empress, Tzu-Hsi. The holy man from Tomsk dominated, not a scheduled oriental harem surrounded by high walls of brick and tradition, but one of the most brilliant courts of Europe--the Europe of today, the Europe that is dealing with tragic facts. The empire that Rasputin swayed with his strange pretensions to a divine mission and divine powers is one of the deciding factors of a decisive period in the history of civilization. The anachronism might well be regarded as incredible. 
 
-[509] 
-
 "And yet this man undoubtedly played, or tried to play, a master's part in the affairs, not only of Russia, but of Europe. All Russia believes that eight years ago Rasputin, by his mysterious powers prevented the outbreak of war between Russia and Austria-Hungary at the moment when the Bosnia-Herzegovina question stirred the fires of international hatred and suspicion to a fresh blaze. 
 
 "In the present crisis, amid the solemn surroundings of the Russian Parliament, Rasputin has been accused of seeking to sell his country to the enemy by trying to bring about a separate peace on humiliating terms between Russia and the Central Powers. The crime that brought an end to his mystic overlordship of the imperial mind and conscious has been greeted in the Duma and by the Russian press as an act of national deliverance." 
 
-[510] 
-
-HUMANITY'S AVERSION TO SNAKES
-Question No. 158. 
+### <h3 id="question-158">Question No. 158: HUMANITY'S AVERSION TO SNAKES
+ 
 Why is humanity averse to a snake? Is the Group Spirit of the snake man's enemy? 
 
 Answer: You are mistaken in your supposition that humanity as a whole is averse to the snake. Many species of snakes are altogether harmless, and very useful animals. Placed in the basement of the house they will keep it perfectly clear of vermin, mice, and rats. In the garden they eliminate destructive animals such as gophers and field mice, which do considerable damage. Therefore the wise farmer looks upon them with very friendly eyes. But the question of aversion is not by any means confined to the snakes. Millions of people are afraid of a mouse, a beetle, a spider, or other harmless animals. it is simply a question of temperament, and no Group Spirit is an enemy of humanity or of any other species of animals. Whatever may seem to indicate that is a wrong view of the matter. 
 
-[511] 
-
-THE SOUL AND THE SOUL BODY
-Question No. 159. 
+### <h3 id="question-159">Question No. 159: THE SOUL AND THE SOUL BODY</h3>
+ 
 What is the difference between the soul and the soul body? 
 
 Answer: This is one of the most intimate questions which has ever been asked, and it cannot be answered directly, but only by illustration. As children learn certain intellectual truths beyond their grasp by a pictorial illustration, infant humanity learned deep religious truths through myths and allegories. 
 
 The vital body is composed of four ethers. The two lower ethers are particular avenues of growth and propagation. In the vital body of a person whose chief concern is with the physical life, who lives as it were, entirely for the sensual enjoyment, these two ethers predominate, whereas in a person who is rather indifferent to the material enjoyment of life, but who seeks to advance spiritually, the two higher ethers form the bulk of the vital body. They are then what Paul calls the "soma psuchicon," or soul body, which remains with man during his experiences in Purgatory and the First Heaven where the essence of the life lived is extracted. This extract is the soul, whose two chief qualities are conscience and virtue. The feeling of conscience is the fruit of mistakes in past earth lives, which will in future guide the Spirit aright and teach it how to avoid similar missteps. 
 
-[512] 
-
 Virtue is the essence of all that was good in former lives, and acts as an encouragement to keep the Spirit ardently striving upon the path of aspiration. In the Third Heaven this amalgamates thoroughly with the Spirit and becomes a part thereof. Thus in the course of his lives man becomes more soulful, and the soul qualities of conscience and virtue becomes more strongly operative as guiding principles of conduct. 
 
 But we can perhaps gain a better idea of the difference between soul and soul body if we consider the allegory contained in the ancient Atlantean Mystery Temple, the Tabernacle in the Wilderness. This God-given symbol was furnished with all the implements of soul growth necessary for the development of man. Among them there was in the sanctuary the Table of Shewbread. Upon this table there were twelve little cakes made into two piles of six each and on each pile there was a little heap of incense. Now will you remember, please, that the grain from which these cakes were made was given by God to man, but it was necessary for man to plant it, to till the soil, to water and to nourish the tiny plants. He must also harvest them, thresh the grain and crush it into flour. He must knead the dough and bake the read before he could bring it into the temple and have bread to shew as a product of this labor with the God-given grain. 
-
-[513] 
 
 This God-given grain represents opportunity. Twelve kinds of opportunities come to man each year through the twelve departments of life represented by the twelve houses in his horoscope. But many may neglect these opportunities, as the ancient Israelites might have thrown their grain in a corner and let it lie. If so, he will have no bread to shew to the Lord. He will be like the servant with one talent who went and buried it. On the other hand, if he tilled the soil and nourished the grain of opportunity for service in the Lord's vineyard, then there will be an increase which he may harvest and prepare to bring into the Lord's temple at the proper time to shew that he had faithfully cultivated every opportunity for service, and made the most thereof according to ability. 
 
@@ -2951,11 +2584,9 @@ The two little piles of incense were therefore taken to the altar of incense in 
 
 Thus the Spirit carries with itself the aroma of all its past lives. A younger soul which has had only a few existences from which to draw experiences and soul growth, is cruel and selfish for it has not performed service to others. But one who has gone through many lives, who has learned by sorrow and suffering to feel and to do for others, responds instantly to the cry of pain, because the soul in him or her is the quintessence of service and therefore always ready to aid others regardless of personal comforts and enjoyment. 
 
-RELATION BETWEEN SOUL AND MIND.
-Question No. 160. 
-We have had some discussion in our classes regarding the soul. Some confusion of opinion exists. What is the relation between the soul and the mind? Are the forces of both permanently united to the spirit? Which body will be used in the later stages of development, the mental or the soul body? 
+### <h3 id="question-160">Question No. 160: RELATION BETWEEN SOUL AND MIND.</h3>
 
-[516] 
+We have had some discussion in our classes regarding the soul. Some confusion of opinion exists. What is the relation between the soul and the mind? Are the forces of both permanently united to the spirit? Which body will be used in the later stages of development, the mental or the soul body? 
 
 Answer: We will turn for our answer to page 366 of the Cosmo. There we find a chart which embodies the whole scheme of involution and evolution. It is not a very complicated chart, either, and the student who wishes to master the mystery of existence would do well to memorize thoroughly this diagram. 
 
@@ -2964,8 +2595,6 @@ Reading on the left side thereof, we learn that during a stage of unconscious ev
 In order to make this more clear, we will turn to page 421 where there is a chapter on alchemy and soul growth. There we read as follows: 
 
 "The dense body was started in the Saturn Period, passed through various transformations in the Sun and Moon Periods, and will reach its highest development in the Earth Period. 
-
-[517] 
 
 The vital body was started in the Sun Period, was reconstructed in the Moon and Earth Periods, and will reach perfection in the Jupiter Period, which is its fourth stage, as the Earth Period is the fourth stage for the dense body. 
 
@@ -2977,15 +2606,11 @@ The desire body was started in the Moon Period, reconstructed in the Earth Perio
 
 "Similarly, Globe D of the Venus Period is located in the Desire World (see diagram 8). Hence neither a dense nor vital body could be used as an instrument of consciousness. Therefore the essences of the perfected dense and vital bodies are incorporated in the completed desire body, the latter thus becoming a vehicle of transcendent qualities, marvelously adaptable and so responsive to the slightest wish of the indwelling Spirit that in our present limitations it is beyond our utmost conception. 
 
-[518] 
-
 Yet the efficiency of even this splendid vehicle will be transcended when in the Vulcan Period its essence, together with the essences of the dense and vital bodies, are added to the mind, which becomes the highest of man's vehicles, containing within itself the quintessence of all that was best in all the vehicles. The vehicle of the Venus Period being beyond our present power of conception, how much more so is that which will be at the service of the divine beings of the Vulcan Period! 
 
 During involution the creative Hierarchies assisted man to arouse into activity the threefold Spirit, the Ego, to build the threefold body, and to acquire the link of mind. Now, however, on the seventh day (to use the language of the Bible), God rests. Man must work out his own salvation. The threefold Spirit must complete the working out of the plan begun by the Gods. 
 
 The Human Spirit, which was awakened during involution in the Moon Period, will be the most prominent of the three aspects of the Spirit in the evolution of the Jupiter Period, which is the corresponding Period on the upward arc of the spiral. The Life Spirit, which was started into activity in the Sun Period will manifest its principal activity during the corresponding Venus period, and the particular influences of the Divine Spirit will be strongest in the Vulcan Period, because it was vivified in the corresponding Saturn Period. 
-
-[519] 
 
 All three aspects of the Spirit are active all the time during evolution, but the principal activity of each aspect will be unfolded in those particular periods, because the work to be done there is its special work. 
 
@@ -2996,8 +2621,6 @@ As much of the vital body as has been worked upon by the Life Spirit becomes the
 As much of the dense body as has been worked upon by the Divine Spirit becomes the conscious soul, because the dense body is its material emanation. 
 
 The conscious soul grows by action, external impacts, and experience. 
-
-[520] 
 
 The emotional soul grows by the feelings and emotions generated by actions and experiences. 
 
@@ -3013,8 +2636,6 @@ The emotional soul will be absorbed by the Human Spirit in the fifth revolution 
 
 So much for the evolution of soul. We will now turn to the mind and the various stages which brings it to perfection. 
 
-[521] 
-
 We read on page 426 of the Cosmo: "At the present time, however, the mind is not focused in a way that enables it to give a clear and true picture of what the Spirit imagines. It is not one pointed. It gives misty and clouded pictures. Hence the necessity of experiment to show the inadequacies of the first conception, and bring about new imaginings and ideas until the image produced by the Spirit in mental substance has been reproduced in physical substance. 
 
 At the best, we were able to shape through the mind only such images as have to do with form, because the human mind was not started until the Earth Period, and therefore is now in its "form" or "mineral" stage. Hence in our operations we are confined to forms, to minerals. We can imagine ways and means of working with the mineral forms of the three lower kingdoms, but can do little or nothing with living bodies. We may indeed graft living branches to a live tree, or a living part of animal or man to another living part, but it is not life with which we are working. It is form only. We are making different conditions, but the life which already inhabited the form continues to do so still. To create life is beyond man's power until the mind has become alive. 
@@ -3022,8 +2643,6 @@ At the best, we were able to shape through the mind only such images as have to 
 In the Jupiter Period the mind will be vivified to some extent and man can then imagine forms which will live and grow, like plants. 
 
 In the Venus period, when his mind has acquired "feeling," he can create living, growing, and feeling things. 
-
-[522] 
 
 When he reaches perfection, at the end of the Vulcan Period, he will be able to "imagine" into existence creatures that will live, grow, feel, and think. 
 
@@ -3037,25 +2656,19 @@ Our present humanity will have to work with the new life wave which entered evol
 
 In the Jupiter Period we shall guide the evolution of the plant kingdom, for that which is at present mineral will then have a plantlike existence and we must work with it there as the angels are now doing with our plant kingdom. Our faculty of imagination will be so developed that we shall have the ability, not only to create forms by means of it, but to endow those forms with vitality. 
 
-[523] 
-
 "In the Venus Period our present mineral life wave shall have advanced another step, and we shall be doing for the animals of that period what the archangels are now doing for our animals--giving them living and feeling forms. 
 
 "Lastly in the Vulcan Period it will be our privilege to give them a germinal mind, as the Lords of Mind did to us. The present mineral will then have passed through stages similar to those through which the Angels and Archangels are now passing. We shall then have reached a point in evolution a little higher than that of the present Lords of Mind, for remember there is never an exact reproduction anywhere, but always progressive improvement, because of the spiral. 
 
 "The Divine Spirit will absorb the Human Spirit at the close of the Jupiter Period; the Life Spirit at the close of the Venus Period, and the perfected mind, embodying all that it has garnered during its pilgrimage through all the seven Periods, will be absorbed by the Divine Spirit at the close of the Vulcan Period." 
 
-[524] 
-
 From the foregoing it will be clear that there is a distinct evolution of soul and another equally distinct evolution of the mind. Yet they are not at all independent of one another, but work in perfect unison, as for instance, the heart and lungs work together to keep up the rhythm of the body. Therefore it will be neither the mental, nor the soul body that we shall use in the later stages of our development, but a composite vehicle containing increasingly the essence of all our bodies, which will then be a composite garment of the Spirit, so wonderful and glorious that it is beyond even our faintest conception at the present time. 
 
-HOW TO FOSTER FAITH
-Question No. 161 
+### <h3 id="question-161">Question No. 161: HOW TO FOSTER FAITH</h3>
+
 There seems to have been a great decline of faith in recent years. What remedy is there for this from the occult viewpoint? 
 
 Answer: There is an occult reason for the decline of faith, and it is useless to discuss a remedy until a cause has been found. No haphazard measure will turn humanity permanently back to the path of rectitude. Let us first consider some of the causes commonly given, and then we shall understand the occult scientific reason all the better. 
-
-[525] 
 
 We often hear it sneeringly said that the reason the churches stand empty is that the minister has no new message, but is continually rehashing the old Bible stories. The reproach loses its force the moment the question is asked: "Have we learned the Bible by heart?" We expect a child to repeat the multiplication table indefinitely until he knows and can apply it. It is more important that we should know the Bible thoroughly than that the child should remember the table; hence repetition is necessary. 
 
@@ -3065,17 +2678,11 @@ The reproach of the empty pews rests particularly upon the Protestant churches o
 
 Let us first look into the ordinary Protestant church, where the minister strives to give the people the gospel. Many of the pews are empty. Among those present the ladies outnumber the men by six to one or more. The minister is usually earnest and strives to be eloquent when he addressed the Deity in prayer, but he has heard the reproach of repetition so often that he is always afraid of having one service resemble another in the slightest degree. A new prayer, a new sermon, a new song from the choir, everything as new as possible, so as to escape that dreadful reproach. He is almost a nervous wreck because of the haunting thought that his people may think him "stale." 
 
-[526] 
-
 Next, let us go to a "popular" church and see what methods they use. The minister in these churches is always "progressive" and "up-to-date." There is often a gymnasium and a physical culture instructor attached to the establishment. Every night in the week there is a meeting connected with this, that, or the other club. There are picnics, lawn parties, and dances in the summer, and church suppers in the winter. Meetings for men and meetings for women are usually sandwiched in, so that the whole is one dazzling phantasmagoria with never a dull moment during the week, and on Sunday--ah, that is the real treat, the great attraction--then the pastor entertains, as only he knows how. He is assisted by a matchless choir of high priced artists trained by an equally high priced conductor. The music is not particularly religious, save as all good music fresh from the heaven world speaks to the spiritual man, and awakens the memories of our eternal home. But it is a treat to the music lover and draws hundreds on that account. 
-
-[527] 
 
 Between the opening and the closing parts of the musical program comes the so-called "sermon." One of our contributors relates that once she was horrified on entering a church to see on the pulpit this inscription: "I preach not the gospel." The words of the context: "Woe unto me if," were hidden on the other side of the pulpit, and the effect must have been startling to say the least. However, it is a motto that might be on the pulpit of more than one "progressive" church, for though the "sermon" may open with a quotation from the Bible, that is usually the only reference to the word of God. The rest is an excellent oration on whatever topic may be the most live local or national issue, or if there be a dearth from the general social and political sources, there are always the temperance and purity problems. True, they are worn, like the Gospels, but by taking a bottle of beer on the pulpit, working up a frenzy and smashing the cursed thing, it is still possible to make an appeal to the jaded taste for sensationalism which is ultimately developed by most of the pastor's hearers. But by that time the "progressive" pastor gets a call to go and build up another church elsewhere. 
 
 This much is admitted universally: under the continued pastorate of one man the churchgoers lose interest. However, this is not because their ministers are not sincere and hard working. The great majority are exemplary in every way, but somehow they cannot keep their hold on the people. Some denominations allot the churches under their jurisdiction to their ministers for a certain term, and at the end of that time transfer them to another section to work there awhile. 
-
-[528] 
 
 Much may be said both for and against these various schemes, but that is beside the present discussion. Only one remedy for lack of interest seems to have a potency sufficiently powerful to meet the general approval as a producer of at least temporary enthusiasm: the revival. 
 
@@ -3085,13 +2692,9 @@ But, alas, only for a while. It is a fact needing no more than the bare statemen
 
 This state of affairs has become so notorious that comparatively few young men enter the seminaries. There is thus a decline in both churchgoers and ministers, which, if continued, can have but one ending--the extinction of the Protestant church. 
 
-[529] 
-
 When we investigate the methods of the Catholic church for the sake of comparison and to arrive at the correct conclusion regarding its power of attraction, we should first note the absolute contrast between the service there and that in the Protestant churches. If we listen for a moment at the door of a dozen of the edifices of protestant denominations, we shall find that each minister has a different topic, but we may go to any Catholic church in the wide world, and we shall find that they are all using the same ritual at the altar on a given day. What the priest may say from the pulpit is negligible in face of that all-important fact, for words are vibrations. They are creative, as demonstrated when sand and spores form geometrical figures in response to the voice of a singer, and the Mass chanted in countless Catholic churches scattered all over the world reverberates with cumulative power through the universe as one mighty anthem, affecting all who are in tune therewith, raising their religious fervor and loyalty to their church in a manner unapproachable by the isolated and haphazard efforts of individuals, no matter how sincere. 
 
 In corroboration of this assertion regarding the cumulative power of a ritual, we may mention the phenomenal hold of Christian Science on its followers. The Christian Scientists have no high priced preachers. Their music is not out of the ordinary. Yet their churches are filled to the doors, and they are branching out at a wonderful rate because they have, first, a message of vital interest, health, and wealth; and second, the occult effect of concentrated effort obtained by using identical readings in every Christian Science church in the world, so that the cumulative effect may be felt by every Christian Scientist who is in tune. This effect would be much stronger if the service were really occult, and chanted to a certain strain as is the Mass. 
-
-[530] 
 
 Thus, to sum up this phase of the matter, the persistently continued individual attempts of Protestant preachers to guide their people by new and original sermons are a failure, while concerted efforts centered in uniform rituals repeated year after year, as put forth by Roman Catholics and Christian Scientists, and even by the Freemasons and Fraternal Orders, hold the audience. 
 
@@ -3101,29 +2704,19 @@ In addition to the visible body of man which we see with our physical eyes, ther
 
 The first of these vehicles we call the vital body because it is the avenue of vitality which leavens the dead lump of the mortal coil in the years of life, and gives us the power to move. 
 
-[531] 
-
 The second is the desire body, which is the basis of our emotions and feelings, and which galvanizes this visible body into action. These three vehicles together with the mind constitute the personality which is then informed by the Spirit. Each of the bodies we have named has its own essential nature, and we may say that the keynote of the physical body is "inertia," as it never moves unless impelled through these finer invisible bodies. The key note of the vital body is "repetition." That is easily understood,, when we consider that although it has power to move the body, such movements result only from repeated impulses of the same kind. It is taught to coordinate the movements of the body as the Spirits wills. If we go to the organ for the first time and endeavor to play, we are not at once able to move the fingers in the desired manner to produce the proper tones. It requires repeated efforts to execute even the simplest coordinated movements of the fingers requisite to making the proper harmony. Because of this necessity for repetition it is an occult maxim that all occult development begins with the training of the vital body. 
 
 The desire body, which we sense as our emotional nature, on the other hand, is always seeking something new. This desire for change of condition, change of scene, change of mood, love of emotion and sensation is due to the activities of the desire body, which is like the sea in a storm, full of waves, tossing hither and thither, at random and without design, each one powerful and destructive when unbridled and without allegiance to the central directing power. 
-
-[532] 
 
 The mind, indeed, is the focus through which the Spirit endeavors to subdue the lower personality and guide it according to the ability acquired during its evolutionary period. But at the present time it is so vague a quantity that among the great majority of people it cannot be reckoned with, and they are therefore led principally by their feelings and emotions, without much amenability to reason or thought. 
 
 Recognizing the great and wonderful power of the emotional body and its amenability to "rhythm," which may be said to be its keynote, progressive theology has addressed itself to and focused its efforts upon appeals to this vehicle. It is this part of our nature which enjoys the entertainments of the sensational vaudeville pastor. This vehicle it is that sways and groans under the rhythmic rant of the revivalist, itself vibrant with emotion, rising and falling in the well calculated measure of the speaker's voice. Unity of pitch is soon established, a state of actual hypnosis where the victim can no more help going to "the mourners bench," than water can refrain from running down hill. They realize powerfully for the time being the enormity of their sins and they are equally anxious to start a better life. Alas, however, the next wave of attraction to their emotional nature washes away all the preacher has said, as well as all their resolutions, and they stand exactly where they were before, much to the chagrin and sorrow of the evangelist concerned. 
 
-[533] 
-
 Thus all efforts to elevate humanity by work upon the unstable desire body are and must always prove futile. This the occult schools of all ages have recognized and they have therefore addressed themselves to the changing of the vital body by working with its keynote, which is repetition. For that purpose, they have written various rituals suited to humanity at the different stages of its development and in that way they have fostered soul growth, slowly but surely, and regardless of whether man was aware that he was being worked upon in that manner or not. The Ancient Atlantean Mystery Temple, which we speak of as the Tabernacle in the Wilderness, had certain rites prescribed in the mount by the Divine Hierarch who was their particular teacher. Certain rites were performed during week days. Other rites were used on the Sabbath, and again other rites at the times of the new moons and on the great solar festivals. Nor was it within the province of any one from the high priest down, to alter this ritual, under pain and penalty of death. 
 
 Also among other ancient people do we find evidence of a ritual--the Hindus, the Chaldeans, and the Egyptians all used it in their religious services. Among the latter we have, for instance, the so-called Book Of The Dead, as an evidence of the occult value and the scope of such ritualistic services. Even among the Greeks, though they were notoriously individualistic and anxious to give expression to their own conception, we find the ritual in the mysteries, and after during the so-called Christian Era we have the same occultly inspired ritual in the Catholic Church, as a means of fostering soul growth by work on the vital body. 
 
-[534] 
-
 It is not contended that there were no abuses within these various systems of religion, that the priests were always holy men, and that their hands were clean and spotless when they ministered at the sacrifice or ritual. It is indeed true that abuse at times became so great that re-organizations were necessary, and the Protestant movement was inaugurated by Martin Luther in order to get away from the abuses that had sprung up within the Catholic church. However, all these systems had in them the kernel of truth and power in the fact that they worked for the development of the vital body, and therefore, no matter how corrupt the priests might be, the ritual always retained its great power. Hence when the reformers left the ritual behind them, they were in exactly the same position as the Athenians on Mars Hill--they were forced to seek something new. In each denomination there is a desire for truth. Each of the sects today is struggling to solve the problem of life in its own way, but each is striking a new note in a haphazard manner, and therefore they are all failing, while the Catholic church with all its abuses still holds a wonderful sway over its adherents because of the concerted power of the ritual. 
-
-[535] 
 
 In order that we may learn from them how to fill our churches and foster the soul growth in our Protestant people, we must first realize the fact that "in unity there is strength." We must cease our senseless disputes about details. Whether we "sprinkle," or "immerse," whether we are "predestined" or "free"--what does it really matter? None was ever saved because of this hair splitting. The words of Abraham Lincoln, "In essentials unity, in non-essentials liberty, in all things charity," must be adopted before anything else can be done. Agreement to that proposition in true consecration to the great object must be the cornerstone, and on that basic principle a Federation of the Protestant churches could thus be formed. The details of government could be worked out by the membership. 
 
@@ -3132,8 +2725,6 @@ Having attained this point, the important question of ritual could be worked out
 (1). It could consist of certain readings from the Bible arranged in such a manner that they would form a connected and consecutive service. A number of such rituals could be written so that each would be suitable for a certain feast, and on ordinary Sundays another ritual could be used in all the Protestant churches of the world. 
 
 (2). The ritual of the Episcopal church could be adopted as it is, or in a modified form. 
-
-[536] 
 
 (3). An occultist capable of getting in touch with the cosmic sources of knowledge might be found and persuaded to write a ritual that would have in it a power unattainable in any other way. 
 
@@ -3147,15 +2738,11 @@ These occult facts are well known to the Catholic Hierarchy, and while the Prote
 
 Some Catholics have turned against the Catholic church, but subconsciously and at heart they have remained Catholic to their dying day, for the vital body is exceedingly difficult to change, and the lines of force build into it during its gestatory period are stronger than almost any individual will. 
 
-[538] 
-
 It follows, therefore, that if we would change the tendency of the world to pursue pleasure and sense gratification to the exclusion of religion, we would do well to begin with the small children. If we gather them at the altar and teach them to love God's house and incorporate certain universal prayers and parts of the ritual in their forming vital bodies, avoiding even the semblance of a "church supper," but cultivating in all who enter the ideal of reverence for a holy place, we shall by degrees build around the physical stone structure an invisible temple of Light and Life, such as described by Manson in "The Servant in the House." 
 
-THE SALT OF ALCHEMISTRY
-Question No. 162 
-In the Rosicrucian Philosophy we are told that in the phraseology of the alchemists the Moon forces were spoken of as salt. Has this any significance with regard to the following quotation from Mark 9:49-50: "For every one shall be salted with fire, and every sacrifice shall be salted with salt. Salt is good; but if the salt have lost its saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another"? 
+### <h3 id="question-162">Question No. 162: THE SALT OF ALCHEMISTRY</h3>
 
-[539] 
+In the Rosicrucian Philosophy we are told that in the phraseology of the alchemists the Moon forces were spoken of as salt. Has this any significance with regard to the following quotation from Mark 9:49-50: "For every one shall be salted with fire, and every sacrifice shall be salted with salt. Salt is good; but if the salt have lost its saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another"? 
 
 Answer: Every sacrifice shall be salted with salt. That was a commandment in the Mosaic law, Judaism as we may call it, and was originated by Jehovah. However, the salt has another and deeper significance. The idea is that if the salt is put upon the sacrifice it causes a chemical fire, and that was symbolical of that burning sensation we must feel by remorse for misdeeds we have done. Every transgression shall be punished and expiated by a certain sacrifice. The salt and burning of the sacrifice were symbols of something better to come. The people at that time could not themselves be living sacrifices. They could not have denied themselves anything, but they did love their possessions very, very dearly. Many children they wanted, and much land and much cattle, and therefore if the cattle and the things that they prized most highly were taken from them on account of sin and transgression, they felt it as they could not have felt an injury done to themselves. 
 
@@ -3163,10 +2750,8 @@ Thus this sacrifice was a sort of vicarious atonement, and it stood as a symbol 
 
 The salting of the sacrifices in ancient times may have had something to do with the idea that Jehovah is the Spirit of the Moon and therefore rules the chemical element salt, but the salt of the alchemist was not the ordinary salt. That was the salt of tears and contrition, and the alchemists did not profess to make base metal into gold, either. What they proposed to do was to make the base elements of the body taken from the earth into the gold of the soul, that golden wedding garment that shines around every one who attains to spirituality and becomes a brighter light as he lives a higher and nobler life. 
 
-[541] 
-
-THE PHILOSOPHY OF WAR
-Question No. 163 
+### <h3 id="question-163">Question No. 163: THE PHILOSOPHY OF WAR</h3>
+ 
 From the Rosicrucian viewpoint, can war be said to be right? What should be the stand of the Rosicrucian student in the present conflict? (World War I) 
 
 Answer: In the great crises of life we are brought face to face with certain issues and called upon to make decisions of such importance that they often require reversion of ideas and ideals, even of our most cherished principles as hitherto conceived. When such a crisis comes it will be nothing short of mental, moral, and spiritual suicide to shirk or evade the issue, no matter what the cost. Consistency is said to be a jewel, but if we would be truly wise we must be ready to change or revise our ideas whenever occasion really demands. 
@@ -3175,15 +2760,11 @@ The Rosicrucian teaching has always been in conformity with the Bible dictum, "T
 
 But while it is possible thus to deal with the individual murderer, the case is different when an entire nation runs amuck against another, committing wholesale murder, arson, destruction, and pillage. It is then impossible to imprison a whole nation and more drastic means of self-defense must be found. 
 
-[543] 
-
 In civil life we recognize the law of self-defense, which gives the intended victim of a would-be murderer the right to slay rather than to be slain, and it would be specious to contend that this right is lost because a million murderers dress themselves in uniform or because they go out boldly and brazenly, proclaiming their intention to kill, or because they lie in ambush by companies instead of singly. Being the aggressors, they are murderers, and their intended victims have an unquestionable moral right to defend their own lives by slaying these murderers. Furthermore, there rests upon the strong the sacred duty of protecting the lives of those who are too weak to protect themselves. Even that involves the slaying of the murderers. 
 
 From the spiritual standpoint, therefore, the right or wrong of war hinges upon the question: Who is the aggressor and who is the victim? 
 
 This question is easily answered where war is started for the purpose of conquest, or when war is waged for an altruistic purpose such as the emancipation of a subjected people from physical, industrial, and religious bondage. It needs no argument to show that in such cases the oppressor is also the aggressor and the liberator is the defender of inalienable human rights. He is performing a sacred duty as his "brother's keeper." 
-
-[544] 
 
 When this is once understood we cannot be deceived by the jack-o-lanterns of diplomacy, for we have a true light, a simple standard of right and wrong. 
 
@@ -3195,25 +2776,19 @@ Nor is this great privilege of sacrifice confined to those of brawn and broad sh
 
 Furthermore, when the occasion arises where defense of others or self-defense becomes unavoidable, the harder the campaign is pushed, the shorter and more successful it will be. Therefore, no half measures should be tolerated, and neutrality under such circumstances must be regarded at least as a sin of omission. 
 
-[545] 
-
 It is well understood by students of occultism that wars are instigated and inspired by the divine hierarchies who thus use one nation to punish another for its sins. Even a superficial study of the Bible will furnish many instances. This does not always mean that the victor is altogether righteous, but it does show that the vanquished nation has done wrong and merits the punishment inflicted, usually on account of its arrogance and godlessness. Nor is it a sign that because it is victorious for a long time and extremely difficult to conquer, it enjoys divine favor--at least in a measure. Such a course may be brought about by the invisible army who support the arms of the aggressor and prolong the struggle for the purpose of making the final defeat more thorough and disastrous; also to teach the defenders a lesson that could not be learned in a short decisive struggle. 
 
 Such, briefly, is the philosophy of war from the spiritual viewpoint, regardless of who are the nations involved. If we apply these principles and tests to the present war (World War I) it must be apparent to everyone who is not biased and will approach the subject with a broad and open mind that the militarists of the Central Empires have been preparing for this war for generations, and on the fifth of July, 1914, at the notorious Potsdam Conference which is now acknowledged by them, they agreed to start the war after a few weeks during which the bankers of these nations were so manipulating the markets as to amass the greatest possible financial resources. This stamps the Austro-German war parties as the aggressors, who under the spell of the Race Spirits have marshaled their millions against all the other nations of the world. In the beginning of the conflict France and England, who were the immediate neighbors of the outraged Belgians, made her cause their own and acted in that respect as their brother's keeper. However, being unprepared, they have been unable to bring the struggle to a decisive termination. Therefore it became necessary for America to enter the conflict and turn the balance, so that peace may be restored and safety secured to those who are too weak to protect themselves. 
 
 It has been a matter for rejoicing that whenever the United States has been forced to enter upon a military campaign it has always been either in self-defense or in the still more altruistic role of defender and emancipator of the weak. Were this a war of conquest or aggression, it would be better for any spiritually minded person to face a firing squad as already stated than to participate in such an unrighteous undertaking. On the other hand, seeing that the present struggle which is waged for the purpose of crushing the militarism of Central Europe has taken such a terrible toll of human life with the strength of the allied defenders nearly spent, it is the sacred duty of everyone to aid to the very limit according to his spiritual, mental, moral, or physical capacity, either at the front or behind the lines wherever the judgment of those in charge may require his or her service. 
 
-[547] 
-
 Therefore we would urge each and every one of the students of the Rosicrucian Fellowship, of whatever country now defending the cause of humanity against the militarist party of the Central Powers, to support his or her government to the very best of his ability that we may soon see "Peace on earth and among men good will." 
 
-THE ROSICRUCIAN FELLOWSHIP
-Question No. 164 
+### <h3 id="question-164">Question No. 164: THE ROSICRUCIAN FELLOWSHIP</h3>
+ 
 Is the teaching of the Rosicrucians available for everyone? If so, how is it made available? 
 
 Answer: In order to promulgate this teaching The Rosicrucian Fellowship has been formed, and anyone who is not a hypnotist, professional medium, clairvoyant, palmist, or astrologer, may enroll as a Preliminary Course Student by writing to the General Secretary. There is no fee for initiation, or dues. Money cannot buy our teaching. Advancement depends upon merit. 
-
-[548] 
 
 After completing the Preliminary Course one is put on the Regular Student list for a period of two years, after which if he has become so imbued with the verity of the Rosicrucian teachings that he is prepared to sever his connection with all other occult or religious orders--the Christian Churches and Fraternal Orders are excepted--he may assume the Obligation which admits him to the degree of Probationer. 
 
@@ -3223,15 +2798,11 @@ The world is an aggregate of opportunities, but to take advantage of any one of 
 
 The Rosicrucian method of attainment differs from other systems in one especial particular: It aims, even at the very start, to emancipate the pupil from dependence upon others, to make him self-reliant to the very highest degree, so that he may be able to stand alone under all circumstances and cope with all conditions. Only one who is thus strongly poised can help the weak. 
 
-[549] 
-
-NATURE OF THE MYTH
-Question No. 165 
+### <h3 id="question-165">Question No. 165: NATURE OF THE MYTH</h3>
+ 
 Do you consider the ancient myths of actual value, or are they largely figments of the imagination? 
 
 Answer: They contain profound occult truths. The contest between light and darkness is described in innumerable myths which are alike in the main features, though circumstances vary according to the evolutionary stage of the people among whom they are found. Generally the appear fantastic to the normal mind because the picture drawn is highly symbolical, and therefore out of tune with the concrete realities of the material world. However, embodied in these legends are great truths which appear when they are stripped of their scale of materialism. 
-
-[550] 
 
 In the first place it should be borne in mind that the contest between light and darkness, as fought here in the physical world, is but the manifestation of a similar contest fought also in the moral, mental, and spiritual realms. This is a fundamental truth, and he who would know truth should realize that the concrete world, with all the things which we now think so real, solid, and enduring is but an evanescent manifestation created by the divine thought, and it will dissolve into dust millions of years before the other worlds which we think of us unreal and intangible are similarly dissolved and we once more return to the bosom of the Father, to rest until the dawn of another and greater Cosmic Day. 
 
@@ -3243,15 +2814,9 @@ It is in such a myth that we learn of the origin of the mistletoe, a tale which 
 
 In ancient days when the Gods of Olympus reigned over the Southland, Wotan with his company of Gods, held sway in Valhalla where the icicles reflected the winter Sun in all tints of the rainbow and the beautiful coverlet of snow made light the darkest night eve without the aid of the flaming Aurora Borealis. They were a wonderful company; Tyr, the God of War, still lives in memory among us, for him we have named Tuesday. Wotan, the wisest among them, is remembered in Wednesday; Thor still is with us as the God of Thursday. He was the hammer swinger. When he threw his hammer after the giants, the enemies of God and man, he made thunder and lightning by the terrific force with which his hammer struck the clouds. The gentle Freya, the Goddess of beauty, for whom we have named Friday, and the treacherous Loke, whose name lives in the Scandinavian Saturday, are other present-day fragments of a forgotten faith. 
 
-[552] 
-
 But there was no one like Baldur. He was the second son of Odin and Freya. He was the noblest and most gentle of the Gods, beloved of everything in nature. He exceeded all beings, not only in gentleness, but in prudence and eloquence, also, and was so fair and graceful that light radiated from him. In a dream it was revealed to him that his life was in danger and this weighted so heavily on his Spirit that he shunned the society of the Gods. His mother Freya, having at length prevailed upon him to tell her the cause of his melancholy, called a council of the Gods, and all were filled with sad forebodings, for they knew that the death of Baldur would be the forerunner of their downfall--the first victory of the giants, or powers of darkness. 
 
-Wotan therefore cast Runes, magic characters, which were used to foretell the future, but all seemed dark to him. He could gain no insight. The "Vessel of Wisdom," which might have served them in their need was in the keeping of one of the Norns, the Goddesses of Fate, so that could not help them now. Ydun, the Goddess of health, whose golden apples kept the Gods ever young, had been betrayed into the powers of the giants by the trickery of Loke, the spirit of evil, but a delegation was sent to her, in order that she might be consulted on the nature of the sickness which 
-
-[553] 
-
-threatened Baldur, if such it be. However, she only answered with tears, and finally after a solemn council held by all the Gods, it was determined that all the elements, and everything in nature should be bound by an oath not to harm the gentle God. This was done and a pledge was obtained from everything, except one insignificant plant which grew westward of the Palace of the Gods; this seemed so frail and fragile that the Gods deemed it to be innocuous. 
+Wotan therefore cast Runes, magic characters, which were used to foretell the future, but all seemed dark to him. He could gain no insight. The "Vessel of Wisdom," which might have served them in their need was in the keeping of one of the Norns, the Goddesses of Fate, so that could not help them now. Ydun, the Goddess of health, whose golden apples kept the Gods ever young, had been betrayed into the powers of the giants by the trickery of Loke, the spirit of evil, but a delegation was sent to her, in order that she might be consulted on the nature of the sickness which threatened Baldur, if such it be. However, she only answered with tears, and finally after a solemn council held by all the Gods, it was determined that all the elements, and everything in nature should be bound by an oath not to harm the gentle God. This was done and a pledge was obtained from everything, except one insignificant plant which grew westward of the Palace of the Gods; this seemed so frail and fragile that the Gods deemed it to be innocuous. 
 
 However, Wotan's mind still misgave him that all was not right. It seemed to him that the Norns of good fortune had flown away. Therefore, he resolved to visit the home of a celebrated prophetess by the name of Vala. This is the spirit of the earth, and from her he would learn the Fate in store for the Gods, but he received no comfort from her and returned to Valhalla more cast down than formerly. 
 
@@ -3259,11 +2824,9 @@ Loke, the spirit of evil, and treachery, was in reality one of the giants, or po
 
 Loke acknowledged the truth of this and professed his readiness to aid his brethren by all means in his power. The Giant King then told him that the moment was now at hand when he might seal the Fate of the Gods; that if Baldur was slain their destruction must sooner or later follow and that the gentle God's life was at that time threatened by some as yet undiscovered danger. Loke replied that the anxiety of the Gods was already at an end, for Freya had bound everything in nature by oath not to injure her son. The dark monarch said that one thing only had been omitted. However, what that was lay concealed in the breast of the Goddess and was known to no other. He then sank down again to his dark abyss and left Loke to his darker thoughts. 
 
-[555] 
-
 Loke then, having assumed the figure of an old woman, appeared to Freya and by his cunning drew from her the fatal secret; that presuming on the insignificant nature of the mistletoe she had omitted to obtain from it the pledge wherewith she had bound everything else. Loke lost no time in reappearing to the place where the mistletoe grew, and tearing it up by the roots, gave it to the dwarfs, who were cunning smiths, to form into a spear. This weapon was made with many incantations, and when the spear was completed one called for blood to temper it. A child free from all taint was brought in, the dwarf plunged the spear into its breast and sang: 
 
-
+```
 "The death-grasp hear,
 Ho! Ho!--now 'tis o'er--
 Soon hardens the spear
@@ -3272,10 +2835,9 @@ Now the barbed head feel,
 Whilst the veins yet bleed,
 Such a deed--such a deed--
 Might harden e'en steel."
+```
 
-In the meantime the Gods and the dead braves, who are with them assembled for a tournament, in order to convince Baldur how groundless were his apprehensions, now that his life was deemed to be charmed, made him the butt of all their weapons. 
-
-[556] 
+In the meantime the Gods and the dead braves, who are with them assembled for a tournament, in order to convince Baldur how groundless were his apprehensions, now that his life was deemed to be charmed, made him the butt of all their weapons. ] 
 
 Loke reappeared there also with the fatal spear and seeing the blind and strong God, Hoedur, standing apart from the rest, asked him why he did not honor his brother Baldur by tilting with him, also. Hoedur excused himself on account of his blindness and because he had no weapon. Loke then put the enchanted spear into his hands and Hoedur, unsuspicious of malice, pierced Baldur through the breast with the spear made from the mistletoe, so that he fell lifeless to the ground to the unspeakable grief of all creatures. 
 
@@ -3283,23 +2845,22 @@ Baldur is the summer Sun, beloved by everything in nature, and in the blind God,
 
 The legend of Baldur's death teaches the same cosmic Truth as all other myths of kindred nature, namely, that the Spirit of the Sun must die to the glories of the Universe while, as Christ, it enters the earth to bring it the renewed life, without which all physical manifestations on our planet must cease. As death here precedes a birth into the spiritual realms, so also there is a death upon the spiritual plane of existence before a birth can take place into the physical body. As Osiris in Egypt is slain by Typhon, before Horus, the Sun of the New Year, may be born, so also Christ die to the higher world before He can be born into the earth and bring to us the needed annual spiritual impulse; but our Holy Season commemorates no greater manifestation of Love than that of which the mistletoe is emblematical. Being physically the extreme of weakness, it clings to the oak which is the symbol of strength. It is the very weakness of the weakest of beings that pierces the heart of the noblest and gentlest of Gods so that, compelled by his love for the lowly, he descends to the shades in the underworld, even as Christ for our sake dies to the spiritual world each year and is born into our planet that He may permeate it anew with His radiant Life and Energy. 
 
-PRAYER
-Question No. 166. 
+### <h3 id="question-166">Question No. 166: PRAYER</h3>
+ 
 What is the Rosicrucian attitude toward prayer, in the light of Biblical admonitions? 
 
 Answer: In one place the Bible directs us to pray without ceasing. In another Christ repudiates the practice, saying that we should not imitate those who believe they are heard for their many words. There can, of course, be no contradiction between the words of Christ and those of His disciples, and we must therefore reconstruct our ideas of prayer in such a manner that we may pray always and yet without voluminous verbal or mental expression. Emerson said: 
 
-
+```
 "Although your knees were never bent,
 To heaven your hourly prayers are sent,
 And be they formed for good or ill,
 Are registered and answered still."
+```
 
 In other words, every act is a prayer, which, under the law of cause and effect, brings to us adequate results. We get exactly what we want. Expression in words is unnecessary, but sustained action along a certain line indicates what we wish, even if we ourselves do not realize it, and in time, longer or shorter, according to the intensity of our desire, there comes that which we have thus prayed for. 
 
 The things thus gained or achieved may not be what we really and consciously want. In fact, sometimes we may get something we would far sooner be without, something that is a curse and a scourge, but the prayer-act has brought them to us and we must keep them until we can legitimately get rid of them. If we throw a stone into the air, the act is not complete until the reaction has carried the stone back to the earth. In that case the effect follows the cause so speedily that it is not difficult to connect the two. 
-
-[559] 
 
 However, if we wind the spring of an alarm clock, the power is stored up in the spring until a certain mechanism releases it. Then comes the effect--the ringing of a bell--and although we may have been sleeping the sleep of forgetfulness, the reaction or unwinding of the spring took place just the same. Similarly, acts which we have forgotten will sometime or another produce their results regardless, and thus the prayer of action is answered. 
 
@@ -3307,8 +2868,4 @@ However, there is the true mystic prayer--the prayer where we meet God face to f
 
 The Christ taught us to say, "Our Father who are in heaven," etc. That prayer is the most sublime that can be given utterance in words, but this prayer of which I am speaking may at the moment of union give itself utterance in the one unspoken word, "Father." The devotee, when he is truly in the mood of prayer, never gets any farther. He makes no requests, for what is the use? Has he not the promise, "The Lord is my Shepherd, I shall not want"? Has he not been told to seek first the kingdom of heaven and all other things shall be added? His attitude can perhaps best be understood if we take the simile of a faithful dog looking with dumb devotion into its master's face, its whole soul pouring itself out through its eyes in love. Likewise, only of course with much greater intensity, does the true mystic look to the God within and pour himself or herself out in voiceless adoration. In this way we may pray without ceasing, inwardly, while we work as zealous servants in the world without; for let us always remember that it is not intended that we should dream our lives away. While we pray to God within, we must also work for God without. 
 
-End of
-
-The Rosicrucian Philosophy in Questions and Answers, Volume II 
-Table of Contents 
-Click here to return to Index Page 
+End of The Rosicrucian Philosophy in Questions and Answers, Volume II
