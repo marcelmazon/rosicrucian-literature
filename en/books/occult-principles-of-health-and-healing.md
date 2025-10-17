@@ -28,7 +28,6 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
 - [Foreword](#foreword)
 
 - [PART I - MAN AND HIS VEHICLES](#part-1)
-
   - [Chapter I: The Dense Body](#chapter-1)
     - [Introduction](#chapter-1-introduction)
     - [Evolution](#evolution)
@@ -42,7 +41,6 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
   - [Chapter III: The Desire Body and the Mind](#chapter-3)
 
 - [PART II - DISEASE](#part-2)
-
   - [Chapter IV: General Causes of Disease](#chapter-4)
     - [Introduction](#chapter-4-introduction)
     - [Causes of Mental Disabilities](#causes-of-mental-disabilities)
@@ -59,7 +57,6 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
   - [CHAPTER VII: Effects of Alcohol and Tobacco](#chapter-7)
 
 - [PART III - HEALING](#part-3)
-
   - [Chapter VIII: Origin and Development of Healing](#chapter-8)
     - [Curing vs. Healing](#curing-vs-healing)
   - [Chapter IX: The Rosicrucian Fellowship Method of Healing](#chapter-9) 
@@ -97,7 +94,6 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
     - [Taking Medicine](#taking-medicine)
     - [Laying on of Hands](#laying-on-of-hands)
     - [Vaccination and Antitoxin](#vaccination-and-antitoxin)
-
   - [Chapter XIX: The Scope of Healing](#chapter-19)
     - [The Law of Destiny](#the-law-of-destiny)
     - [Relation of Spirituality to Health](#relation-of-spirituality-to-health)
@@ -108,7 +104,6 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
     - [Healing Service Inaugurated](#healing-service-inaugurated)
 
 - [PART IV - "THERE IS NO DEATH"](#part-4)
-
   - [Chapter XXI: The Real Nature of Death](#chapter-21)
   - [Chapter XXII: Effects of Suicide](#chapter-22)
   - [Chapter XXIII: Causes of Death During Infancy](#chapter-23)
