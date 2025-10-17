@@ -1,56 +1,201 @@
-[1] 
+---
+title: "The Message of the Stars"
+language: 'en'
+original_title: "The Message of the Stars"
+original_language: 'en'
+author: 'Max Heindel, Augusta Foss Heindel'
+original_source_file: 'self'
+---
 
-THE MESSAGE OF THE STARS
+<h1 id="the-message-of-the-stars">THE MESSAGE OF THE STARS</h1>
 
-by
+by Max Heindel and Augusta Foss Heindel
 
-Max Heindel
+![PHOTO OF MAX AND AUGUSTA FOSS HEINDEL]()
 
+AN ESOTERIC EXPOSITION OF NATAL AND MEDICAL ASTROLOGY EXPLAINING THE ARTS OF READING THE HOROSCOPE AND DIAGNOSING DISEASE
 
-and
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+PO Box 713  
+Oceanside, California, 92049, U.S.A.  
 
+<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
-Augusta Foss Heindel
+---
 
-Click here for the graphics printed book cover.
-Click here for the photograph of Max Heindel.
+- [CHAPTER I: Evolution as Shown in the Zodiac](#chapter-1)
+    - [Early Atlantean Epoch [Cancer-Capricorn]](#early-atlantean-epoch) 
+    - [Middle Atlantean Epoch [Gemini-Sagittarius]](#middle-atlantean-epoch)
+    - [Later Atlantean Epoch [Taurus-Scorpio]](#later-atlantean-epoch)
+    - [Aryan Epoch [Aries-Libra]](#aryan-epoch)
+    - [Piscean Age [Pisces-Virgo]](#piscean-age)
+    - [Aquarian Age [Aquarius-Leo]](#aquarian-age)
+- [CHAPTER II: The Measure of Amenability to Planetary Vibrations](#chapter-2)
+- [CHAPTER III: Were You Born Under a Lucky Star?](#chapter-3)
+    - [Amulets, Birthstones and Planetary Colors](#amulets-birthstones-and-planetary-colors)
+    - [When Is the Best Time to Be Born?](#when-is-the-best-time-to-be-born)
+- [CHAPTER IV: Reading the Horoscope](#chapter-4)
+    - [Introductory](#introductory)
+    - [Mundane Houses](#mundane-houses)
+    - [Signs of the Zodiac](#signs-of-the-zodiac)
+    - [Cardinal Signs](#cardinal-signs)
+    - [Fixed Signs](#fixed-signs)
+    - [Common Signs](#common-signs)
+    - [Comparative Effect of Cardinal, Fixed and Common Signs on the Angles](#comparative-effect-of-cardinal-fixed-and-common-signs-on-the-angles)
+    - [Triplicities](#triplicities)
+    - [Sun, Moon and Ascendant](#sun-moon-and-ascendant)
+    - [The Rising Sign](#the-rising-sign)
 
+- [CHAPTER V: Influence of the Twelve Signs When Rising](#chapter-5)
+- [CHAPTER VI: Intrinsic Nature of the Planets](#chapter-6)
+    - [How to Test the Horoscope](#how-to-test-the-horoscope)
+- [CHAPTER VII: Children of the Twelve Signs](#chapter-7)
+- [CHAPTER VIII: The Sun, Giver of Life](#chapter-8)
+    - [Sun in the Twelve Houses](#sun-in-the-twelve-houses)
+    - [Sun in the Twelve Signs](#sun-in-the-twelve-signs)
+    - [Sun in Aspect with Other Planets](sun-in-aspect-with-other-planets)
+- [CHAPTER IX: Venus, the Planet of Love](#chapter-9)
+    - [Venus in the Twelve Houses](#venus-in-the-twelve-houses)
+    - [Venus in the Twelve Signs](#venus-in-the-twelve-signs)
+    - [Venus in Aspect with Other Planets](#venus-in-aspect-with-other-planets)
+- [CHAPTER X: Mercury, the Planet of Reason](#chapter-10)
+    - [Mercury in the Twelve Houses](#mercury-in-the-twelve-houses)
+    - [Mercury in the Twelve Signs](#mercury-in-the-twelve-signs)
+    - [Mercury in Aspect with Other Planets](#mercury-in-aspect-with-other-planets)
+- [CHAPTER XI: The Moon, the Planet of Fecundation](#chapter-11)
+    - [Moon in the Twelve Houses](#moon-in-the-twelve-houses)
+    - [Moon in the Twelve Signs](#moon-in-the-twelve-signs)
+    - [Moon in Aspect with Other Planets](#moon-in-aspect-with-other-planets)
+- [CHAPTER XII: Saturn, the Planet of Sorrow](#chapter-12)
+    - [Saturn in the Twelve Houses](#saturn-in-the-twelve-houses)
+    - [Saturn in the Twelve Signs](#saturn-in-the-twelve-signs)
+    - [Saturn in Aspect with Other Planets](#saturn-in-aspect-with-other-planets)
+- [CHAPTER XIII: Jupiter, the Planet of Benevolence](#chapter-13)
+    - [Jupiter in the Twelve Houses](#jupiter-in-the-twelve-houses)
+    - [Jupiter in the Twelve Signs](#jupiter-in-the-twelve-signs)
+    - [Jupiter in Aspect with Other Planets](#jupiter-in-aspect-with-other-planets)
+- [CHAPTER XIV: Mars, the Planet of Action](#chapter-14)
+    - [Mars in the Twelve Houses](#mars-in-the-twelve-houses)
+    - [Mars in the Twelve Signs](#mars-in-the-twelve-signs)
+    - [Mars in Aspect with Other Planets](#mars-in-aspect-with-other-planets)
+- [CHAPTER XV: Planetary Octaves: Neptune-Mercury and Uranus-Venus](#chapter-15)
+- [CHAPTER XVI: Uranus, the Planet of Altruism](#chapter-16)
+    - [Uranus in the Twelve Houses](#uranus-in-the-twelve-houses)
+    - [Uranus in the Twelve Signs](#uranus-in-the-twelve-signs)
+    - [Uranus in Aspect with Other Planets](#uranus-in-aspect-with-other-planets)
+- [CHAPTER XVII: Neptune, the Planet of Divinity](#chapter-17)
+    - [Neptune in the Twelve Houses](#neptune-in-the-twelve-houses)
+    - [Neptune in the Twelve Signs](#neptune-in-the-twelve-signs)
+    - [Neptune in Aspect with Other Planets](#neptune-in-aspect-with-other-planets)
+- [CHAPTER XVIII: Doctrine of Delineation in a Nutshell](#chapter-18)
+    - [Table of Planetary Keywords](#table-of-planetary-keywords)
+    - [Elevation, Exaltation and Critical Degrees](#elevation-exaltation-and-critical-degrees)
+    - [Mercury Before or After the Sun](#mercury-before-or-after-the-sun)
+    - [Are You Helping Your Stars?](#are-you-helping-your-stars)
+- [CHAPTER XIX: Mind and the Ruling Planet](#chapter-19)
+    - [Influence of Ruling Planets, Well Aspected](#influence-of-ruling-planets-well-aspected)
+    - [Influence of Ruling Planets, Afflicted](#influence-of-ruling-planets-afflicted)
+    - [Signs as Mental Significators](#signs-as-mental-significators)
+    - [Mental Effects of Rising Sign](#mental-effects-of-rising-sign)
 
-AN ESOTERIC EXPOSITION OF
-NATAL AND MEDICAL ASTROLOGY
-EXPLAINING THE ARTS OF
-READING THE HOROSCOPE AND DIAGNOSING
-DISEASE
+- [CHAPTER XX: Your Luck in Life](#chapter-20)
+    - [Health and Disease](#health-and-disease)
+    - [Social and Financial Fortunes](#social-and-financial-fortunes)
+    - [Vocation](#vocation)
+- [CHAPTER XXI: Marriage and Offspring](#chapter-21)
+    - [Harmony and Discord](#harmony-and-discord)
+    - [Men's Marriages](#mens-marriages)
+    - [Women's Marriages](#womens-marriages)
+    - [Happiness, Sorrow and Bereavement](#happiness-sorrow-and-bereavement)
+    - [Second Marriages](#second-marriages)
+    - [Description of the Husband or Wife](#description-of-the-husband-or-wife)
+    - [Children](#children)
+- [CHAPTER XXII: Progression of the Horoscope--Fate and Freewill](#chapter-22)
+- [CHAPTER XXIII: Different Methods of Progression](#chapter-23)
+    - [Adjusted Calculation Date](#adjusted-calculation-date)
+    - [Progression of the Angles](#progression-of-the-angles)
+    - [Some Important Points](#some-important-points)
+- [CHAPTER XXIV: Progressed Solar Directions](#chapter-24)
+- [CHAPTER XXV: Progressed Lunar Directions](#chapter-25)
+- [CHAPTER XXVI: Mutual Aspects of the Planets](#chapter-26)
+- [CHAPTER XXVII: Transits](#chapter-27)
+    - [The Moon Increasing or Decreasing](#the-moon-increasing-or-decreasing)
 
+- [PART II: MEDICAL ASTROLOGY](#part-2)
 
+- [CHAPTER XXVIII: Astro-Diagnosis of Disease](#chapter-28)
+    - [An Important Warning](#an-important-warning)
+    - [Planetary Polarities](#planetary-polarities)
+- [CHAPTER XXIX: Law of Correspondences](#chapter-29)
+    - [Signs, Pathogenic Effects of](#signs-pathogenic-effects-of)
+    - [Sun, Pathogenic Effects of](#sun-pathogenic-effects-of)
+    - [Venus, Pathogenic Effects of](#venus-pathogenic-effects-of)
+    - [Mercury, Pathogenic Effects of](#mercury-pathogenic-effects-of)
+    - [Moon, Pathogenic Effects of](#moon-pathogenic-effects-of)
+    - [Saturn, Pathogenic Effects of](#saturn-pathogenic-effects-of)
+    - [Jupiter, Pathogenic Effects of](#jupiter-pathogenic-effects-of)
+    - [Mars, Pathogenic Effects of](#mars-pathogenic-effects-of)
+    - [Uranus, Pathogenic Effects of](#uranus-pathogenic-effects-of)
+    - [Neptune, Pathogenic Effects of](#neptune-pathogenic-effects-of)
+    - [The Ductless Glands](#the-ductless-glands)
+- [CHAPTER XXX: Thirty-six Example Horoscopes](#chapter-30)
+    - [Sex as a Factor in Disease](#sex-as-a-factor-in-disease)
+    - [The Guardian of the Threshold](#the-guardian-of-the-threshold)
+    - [Disease of the Eyes](#disease-of-the-eyes)
+    - [Subtile Indications of Spiritual Sight](#subtile-indications-of-spiritual-sight)
+    - [Disease of the Ears](#disease-of-the-ears)
+    - [Thirty-six Example Horoscopes](#thirty-six-example-horoscopes)
+        No. 1. Conception in a Drunken Debauch
+        No. 2. Elemental Possession 
+        No. 3. Heart and Eye Trouble, Spiritual Sight 
+        No. 4. Eye Trouble 
+        No. 5. Eye Trouble 
+        Dragon's Head and Tail 
+        No. 6. Broken Femur 
+        No. 7. Ear Disease 
+        No. 8. Ear Disease, Kidney Trouble, Constipation 
+        No. 9. 10. and 11. Throat and Genitals 
+        Disorders of the Mind 
+        No. 12. Melancholy, Suicidal Tendency 
+        No. 13. St. Vitus Dance and Adolescence 
+        No. 14. Suicide and Alcoholism 
+        No. 15. St. Vitus Dance and Tuberculosis 
+        No. 16. Tuberculosis 
+        No. 17. Digestive Disorder and Asthma 
+        No. 18. Digestive Disorder 
+        No. 19. Heart Trouble 
+        No. 20. Curvature of the Spine 
+        No. 21. Kidney Trouble, Accidents 
+        No. 22. Accidental Fractures 
+        No. 23. Insanity and Spirit Control 
+        No. 24. Heart Failure, Spasms 
+        No. 25. Heart, Lung and Kidney Trouble 
+        No. 26. Tuberculosis 
+        No. 27. Adenoids and Constipation 
+        No. 28. Accidents to Head 
+        No. 29. Goiter 
+        No. 30. Eye and Ear Trouble, Weak Back 
+        No. 31. Eye and Ear Trouble, Poor Circulation 
+        No. 32. Blindness, Hemorrhoids 
+        No. 33. Heart Trouble, Dropsy 
+        No. 34. Diseased Throat and Genitals 
+        No. 35. Solitary Vice, Tuberculosis 
+        No. 36. Horny Venereal Growths 
+        Planetary Hours 
 
-[2] 
+### <h3 id="chapter-1">CHAPTER I: EVOLUTION AS SHOWN IN THE ZODIAC</h3>
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters
-PO Box 713
-Oceanside, California, 92049, U.S.A.
-
-
-
-Table of Contents
-[3] 
-
-CHAPTER I 
-EVOLUTION AS SHOWN IN THE ZODIAC 
 It is a matter of common knowledge among mystics that the evolutionary career of mankind is indissolubly bound up with the divine hierarchies who rule the planets and the signs of the Zodiac, and that passage of the Sun and the planets through the twelve signs of the Zodiac, marks man's progress in time and in space. Therefore it is not to be wondered at, that in the course of their investigations into the spiritual development of mankind, the writers have also encountered much that deals with the Zodiac which is the boundary of our evolutionary sphere at the present time. So much has been perceived in the Memory of Nature that sheds light upon obscure passages of the Bible, that notes have been made from time to time of different points, but how to collect and collage these dissociated writings into a united whole, has been a great problem for a long time. Even now, the writers know and feel that what they are bringing forth is only a very, very weak attempt to set before the students that great body of facts which have come to them through the memory of nature. They feel, however, that this will give a new and more profound meaning to the old symbols, and that by passing on what has been found they put themselves in line to receive more light. 
 
-[4] 
-
 Concerning the future evolution of planets; the Rosicrucian Cosmo-Conception teaches, on page 256, that "when the beings upon a planet have evolved to a sufficient degree, the planet becomes a Sun, the fixed center of the Solar System. When the beings there have evolved to a still greater degree, and consequently it has reached its maximum of brilliancy, it breaks up into a Zodiac and becomes, so to speak, the womb of a new Solar System. Thus the Great hosts of Divine beings who, until then, were confined upon that Sun gain freedom of actions upon a great number of stars whence they can affect, in different ways, the system which grows up within their sphere of influence. The planets or many-bearing worlds within the Zodiac are constantly being worked upon by these forces but in various ways according to the stage they have reached in evolution. Our Sun could not have become a Sun until it set out from itself all the beings who were not sufficiently evolved to endure the high rate of vibration and the great luminosity of the beings who were qualified for that evolution. All the beings upon the different planets would have been consumed had they remained in the Sun. This visible Sun, however, though it is a place of evolution for beings vastly above man, is not by any means, the Father of other planets, as material science supposes. On the contrary, it is itself an emanation from the central Sun, which is the invisible source of all that is in our solar system." 
-
-[5] 
 
 "Our visible Sun is but the mirror in which are reflected the Rays of energy from the Spiritual Sun, the real Sun is as invisible as the real man." 
 
 From this teaching it is apparent that the great spiritual hierarchies which are now guiding our evolution, have had their training for this path in previous schemes of manifestation, also that what they are now doing, we shall some day do for others. Already the foremost among our race are treading the path of initiation, and have thereby advanced into stages, far beyond the general status of our present humanity. It has been learned that those who have gone through the Mercurial School of the lesser Mysteries, and have graduated from the School of the Greater Mysteries are now preparing human evolution for the Jupiter Period. They have entered the planet Jupiter, by way of one of the Moons, which serves as a stepping stone. Others there are, unfortunately, who have gone the other way. We read in the Rosicrucian Cosmo-Conception, that even as the whole population of the earth was at one time expelled from the present Sun because of their inability to keep up with the vibrations of the beings thereon, thus hindering them and being hindered themselves, so also it becomes necessary in the Lemurian Epoch, to expel a number of the stragglers from earth. Thus the Moon was cast out into space to revolve as a Satellite around our present planet. Those unfortunates are gradually degenerating and the time will come when they will all go to the planet Saturn, which is the door to Chaos. Thence they will be expelled to inter-planetary space to await the time when, in a new system, there will be a favorable condition for their further evolution. 
 
-THE GATE OF LIFE AND DEATH 
+#### <h4 id="the-gate-of-life-and-death">THE GATE OF LIFE AND DEATH</h4>
+
 Thus the Zodiac and the planets are as a book in which we may read the history of Humanity during past ages, and they also give a key to the future which is in store for us. In the famous Zodiac in the Temple of Denderah, Cancer is not pictured as we have it in modern days. There it is a beetle, a scarab. This was the emblem of the soul, and Cancer has always been known in ancient times, as well as among modern mystics, to be the sphere of the soul, the Gate of Life in the Zodiac whence the spirits coming into rebirth, enter our sub-lunary conditions. It is therefore aptly ruled by the Moon which is the planet of fecundation, and it is noteworthy that we find Capricorn, which is its opposite, ruled by Saturn the planet of death and Chaos, who is mystically depicted as "the reaper with his scythe and hour glass in hand." These two opposite signs are therefore turning points in the soul's career. Cancer and Capricorn respectively mark the highest ascent of the Sun into the Northern Hemisphere, and its lowest descent into the South. We observe that during the summer when the Sun is in the sphere of Cancer and allied signs, fecundation and growth are the order of the day. But when the Sun is in the South, in Capricorn, we have winter, when nature is dead. The fruits of the summer are then consumed and assimilated by us. As a circle dance of the Sun among the twelve signs determines the seasons of the year when direct, causing the germination of myriads of seeds cast in the earth, also the mating of the fauna, which then makes the world alive with the sights and sounds of manifested life, and at another time leaves the world dumb, dull and drear in winter's gloom, under the sway of Saturn, so by the slower backward movement, known as the Precession of the Equinox, does it produce the great changes which we know as Evolution. In fact, this precessional measure of the Sun marks the birth and death of races, nations and their religions, for the pictorial Zodiac is a symbolical presentation of our past, present and future development. 
 
 CAPRICORN 
@@ -294,9 +439,10 @@ Moreover it should always be kept in mind that the stars impel but do not compel
 
 Thus we have seen that man is amenable to the planetary rays in an increasing measure as he advances through evolution, but the more highly he becomes developed spiritually the less he will allow the planets to dominate him, while the younger soul is driven unresistingly along the tide of life in whatever direction of the planetary vibrations impel him. It is the mark of the advanced soul that he keeps the true course regardless of the planetary vibrations. Between these two extremes there are naturally all graduations, some amenable to the rays of one planet, some to another. The bark of life of men and women is often driven upon the rocks of sorrow and suffering, that they may learn to evolve within themselves the will power that finally frees them from all domination by the ruling stars. As Goethe, the great mystic, said, 
 
-
+```
 "From every power that holds the world in chains, 
 Man frees himself when self-control he gains." 
+```
 
 And it may be asked, have we run the gamut of vibrations when we have learned to respond to all the seven planets which are mythically represented as the seven strings on Apollo's Lyre? In other words is Neptune the highest vibration to which we shall yet respond? The Western Wisdom Teachings tell us that there are two more planets in the universe which will be known in future ages and that these will have an influence in developing qualities of so transcendent a nature that we cannot now understand them. The number of Adam, man or humanity, is nine, and there are nine rungs upon the stellar ladder by which he is ascending to God; up to the present time he has climbed only five of these rungs; Mercury, Venus, Mars, Jupiter and Saturn, and not even the vibration of these has he by any means learned; Uranus and Neptune are slowly coming into our lives; they will not become active in the same manner and to the same degree that for instance, the Moon and Mars are at the present time until many ages have passed. But even when we have learned to respond to them there are two more which we shall know something later on; it is the opinion of the writers that these are probably not felt by any except those who have graduated from the Greater Mystery School and by the Hierophants of that sublime institution. 
 
@@ -4867,179 +5013,4 @@ We have now given an exposition of the methods we use in diagnosis of disease. T
 IMPORTANT NOTICE 
 Despite all we can say, many people write enclosing money for horoscopes, forcing us to spend valuable time writing letters of refusal and giving us the inconvenience of returning their money. Please do not thus trouble us, as it will avail nothing. We use Astrology only for healing purposes. If you are sick we will gladly help you, but we do not advise people in worldly affairs either gratis or for pay. 
 
-[682] 
 
-TABLE OF CONTENTS
-CHAPTER I: Evolution as Shown in the Zodiac 
-Early Atlantean Epoch [Cancer-Capricorn] 
-Middle Atlantean Epoch [Gemini-Sagittarius] 
-Later Atlantean Epoch [Taurus-Scorpio] 
-Aryan Epoch [Aries-Libra] 
-Piscean Age [Pisces-Virgo] 
-Aquarian Age [Aquarius-Leo] 
-CHAPTER II 
-The Measure of Amenability to Planetary Vibrations 
-Mystery of Light, Color and Consciousness 
-CHAPTER III: Were You Born Under a Lucky Star? 
-Amulets, Birthstones and Planetary Colors 
-When Is the Best Time to Be Born? 
-CHAPTER IV: Reading the Horoscope. Introductory
-Mundane Houses 
-Signs of the Zodiac 
-Cardinal Signs 
-Fixed Signs 
-Common Signs 
-Comparative Effect of Cardinal, Fixed and Common Signs on the Angles 
-Triplicities 
-Sun, Moon and Ascendant 
-The Rising Sign 
-[683] 
-
-CHAPTER V: Influence of the Twelve Signs When Rising 
-CHAPTER VI: Intrinsic Nature of the Planets 
-How to Test the Horoscope 
-CHAPTER VII: Children of the Twelve Signs 
-CHAPTER VIII: Sun, the Giver of Life 
-Sun in the Twelve Houses 
-Sun in the Twelve Signs 
-Sun in Aspect with Other Planets 
-CHAPTER IX: Venus, the Planet of Love 
-Venus in the Twelve Houses 
-Venus in the Twelve Signs 
-Venus in Aspect with Other Planets 
-CHAPTER X: Mercury, the Planet of Reason 
-Mercury in the Twelve Houses 
-Mercury in the Twelve Signs 
-Mercury in Aspect with Other Planets 
-CHAPTER XI 
-Moon, the Planet of Fecundation 
-Moon in the Twelve Houses 
-Moon in the Twelve Signs 
-Moon in Aspect with Other Planets 
-CHAPTER XII: Saturn, the Planet of Sorrow 
-Saturn in the Twelve Houses 
-Saturn in the Twelve Signs 
-Saturn in Aspect with Other Planets 
-[684] 
-
-CHAPTER XIII: Jupiter, the Planet of Benevolence 
-Jupiter in the Twelve Houses 
-Jupiter in the Twelve Signs 
-Jupiter in Aspect with Other Planets 
-CHAPTER XIV: Mars, the Planet of Action 
-Mars in the Twelve Houses 
-Mars in the Twelve Signs 
-Mars in Aspect with Other Planets 
-CHAPTER XV: Planetary Octaves: Neptune-Mercury and Uranus-Venus 
-CHAPTER XVI: Uranus, the Planet of Altruism 
-Uranus in the Twelve Houses 
-Uranus in the Twelve Signs 
-Uranus in Aspect with Other Planets 
-CHAPTER XVII: Neptune, the Planet of Divinity 
-Neptune in the Twelve Houses 
-Neptune in the Twelve Signs 
-Neptune in Aspect with Other Planets 
-CHAPTER XVIII: Doctrine of Delineation in a Nutshell 
-Table of Planetary Keywords 
-Elevation, Exaltation and Critical Degrees 
-Mercury Before or After the Sun 
-Are You Helping Your Stars? 
-CHAPTER XIX: Mind and the Ruling Planet 
-Influence of Ruling Planets, Well Aspected 
-Influence of Ruling Planets, Afflicted 
-Signs as Mental Significators 
-Mental Effects of Rising Sign 
-[685] 
-
-CHAPTER XX: Your Luck in Life 
-Health and Disease 
-Social and Financial Fortunes 
-Vocation 
-CHAPTER XXI: Marriage and Offspring 
-Harmony and Discord 
-Men's Marriages 
-Women's Marriages 
-Happiness, Sorrow and Bereavement 
-Second Marriages 
-Description of the Husband or Wife 
-Children 
-CHAPTER XXII: Progression of the Horoscope--Fate and Freewill 
-CHAPTER XXIII: Different Methods of Progression 
-Adjusted Calculation Date 
-Progression of the Angles 
-Some Important Points 
-CHAPTER XXIV: Progressed Solar Directions 
-CHAPTER XXV: Progressed Lunar Directions 
-CHAPTER XXVI: Mutual Aspects of the Planets 
-CHAPTER XXVII: Transits 
-The Moon Increasing or Decreasing 
-[686] 
-
-PART II
-MEDICAL ASTROLOGY 
-CHAPTER XXVIII: Astro-Diagnosis of Disease 
-An Important Warning 
-Planetary Polarities 
-CHAPTER XXIX: Law of Correspondences 
-Signs, Pathogenic Effects of 
-Sun, Pathogenic Effects of 
-Venus, Pathogenic Effects of 
-Mercury, Pathogenic Effects of 
-Moon, Pathogenic Effects of 
-Saturn, Pathogenic Effects of 
-Jupiter, Pathogenic Effects of 
-Mars, Pathogenic Effects of 
-Uranus, Pathogenic Effects of 
-Neptune, Pathogenic Effects of 
-The Ductless Glands 
-CHAPTER XXX: Thirty-six Example Horoscopes 
-Sex as a Factor in Disease 
-The Guardian of the Threshold 
-Disease of the Eyes 
-Subtile Indications of Spiritual Sight 
-Disease of the Ears 
-Thirty-six Example Horoscopes 
-No. 1. Conception in a Drunken Debauch 
-No. 2. Elemental Possession 
-No. 3. Heart and Eye Trouble, Spiritual Sight 
-No. 4. Eye Trouble 
-No. 5. Eye Trouble 
-Dragon's Head and Tail 
-No. 6. Broken Femur 
-No. 7. Ear Disease 
-No. 8. Ear Disease, Kidney Trouble, Constipation 
-No. 9. 10. and 11. Throat and Genitals 
-Disorders of the Mind 
-[687]
-
-
-No. 12. Melancholy, Suicidal Tendency 
-No. 13. St. Vitus Dance and Adolescence 
-No. 14. Suicide and Alcoholism 
-No. 15. St. Vitus Dance and Tuberculosis 
-No. 16. Tuberculosis 
-No. 17. Digestive Disorder and Asthma 
-No. 18. Digestive Disorder 
-No. 19. Heart Trouble 
-No. 20. Curvature of the Spine 
-No. 21. Kidney Trouble, Accidents 
-No. 22. Accidental Fractures 
-No. 23. Insanity and Spirit Control 
-No. 24. Heart Failure, Spasms 
-No. 25. Heart, Lung and Kidney Trouble 
-No. 26. Tuberculosis 
-No. 27. Adenoids and Constipation 
-No. 28. Accidents to Head 
-No. 29. Goiter 
-No. 30. Eye and Ear Trouble, Weak Back 
-No. 31. Eye and Ear Trouble, Poor Circulation 
-No. 32. Blindness, Hemorrhoids 
-No. 33. Heart Trouble, Dropsy 
-No. 34. Diseased Throat and Genitals 
-No. 35. Solitary Vice, Tuberculosis 
-No. 36. Horny Venereal Growths 
-Planetary Hours 
-
-
-Table of Contents 
-Click here to return to Index Page 
