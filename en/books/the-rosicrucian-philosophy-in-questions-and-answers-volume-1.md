@@ -1,3 +1,12 @@
+---
+title: 'The Rosicrucian Philosophy in Questions and Answers Volume I'
+language: 'en'
+original_title: "The Rosicrucian Philosophy in Questions and Answers Volume I"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
+
 <h1 id="the-rosicrucian-philosophy-in-questions-and-answers-volume-1">The Rosicrucian Philosophy In Questions and Answers - Volume I</h1>
 
 by Max Heindel [1865-1919]

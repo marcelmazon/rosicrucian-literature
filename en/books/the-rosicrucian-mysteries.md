@@ -11,60 +11,52 @@ original_source_file: 'self'
 
 by Max Heindel [1865-1919] 
 
-
 AN ELEMENTARY EXPOSITION OF THEIR SECRET TEACHINGS 
 
+THE ROSICRUCIAN FELLOWSHIP  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-THE ROSICRUCIAN FELLOWSHIP
-Mt. Ecclesia
-P.O. Box 713
-Oceanside, California, 92054, USA
+## LIST OF CONTENTS
+
+- [CHAPTER I: THE ORDER OF ROSICRUCIANS AND THE ROSICRUCIAN FELLOWSHIP](#chapter-1)
+- [CHAPTER II: THE PROBLEM OF LIFE AND ITS SOLUTION](#chapter-2)
+    - [Three Theories of Life](#three-theories-of-life)
+    - [We Are Eternal (Poem by the Author)](#we-are-eternal)
+- [CHAPTER III: THE VISIBLE AND THE INVISIBLE WORLDS](#chapter-3)
+    - [The Chemical Region](#the-chemical-region)
+    - [The Etheric Region](#the-etheric-region)
+    - [The Desire World](#the-desire-world)
+    - [The World of Thought](#the-world-of-thought)
+    - [Creed or Christ (Poem by the Author)](#creed-or-christ)
+- [CHAPTER IV: THE CONSTITUTION OF MAN](#chapter-4)
+    - [The Vital Body](#the-vital-body)
+    - [The Desire Body](#the-desire-body)
+    - [The Mind](#the-mind)
+- [CHAPTER V: LIFE AND DEATH](#chapter-5)
+    - [Invisible Helpers and Mediums](#invisible-helpers-and-mediums)
+    - [Death](#death) 
+    - [The Panorama of Past Life](#the-panorama-of-past-life)
+    - [Purgatory](#purgatory)
+    - [The First Heaven](#the-first-heaven)
+    - [The Second Heaven](#the-second-heaven)
+    - [The Third Heaven](#the-third-heaven)
+    - [Birth and Child-Life](#birth-and-child-life)
+    - [The Mystery of Light, Color and Consciousness](#the-mystery-of-light-color-and-consciousness)
+    - [Education of Children](#education-of-children)
+    - [Mount Ecclesia](#mount-ecclesia)
 
 
+### <h3 id="chapter-1">CHAPTER I: THE ORDER OF ROSICRUCIANS AND THE ROSICRUCIAN FELLOWSHIP</h3>
 
-[3] 
-
-LIST OF CONTENTS
-CHAPTER I: THE ORDER OF ROSICRUCIANS AND THE ROSICRUCIAN FELLOWSHIP 
-CHAPTER II: THE PROBLEM OF LIFE AND ITS SOLUTION 
-Three Theories of Life 
-We Are Eternal (Poem by the Author) 
-CHAPTER III: THE VISIBLE AND THE INVISIBLE WORLDS 
-The Chemical Region 
-The Etheric Region 
-The Desire World 
-The World of Thought 
-Creed or Christ (Poem by the Author) 
-CHAPTER IV: THE CONSTITUTION OF MAN 
-The Vital Body 
-The Desire Body 
-The Mind 
-[4] 
-
-
-
-CHAPTER V: LIFE AND DEATH 
-Invisible Helpers and Mediums 
-Death 
-The Panorama of Past Life 
-Purgatory 
-The First Heaven 
-The Second Heaven 
-The Third Heaven 
-Birth and Child-Life 
-The Mystery of Light, Color and Consciousness 
-Education of Children 
-Mount Ecclesia 
-[5] 
-
-CHAPTER I
-
-THE ORDER OF ROSICRUCIANS AND THE ROSICRUCIAN FELLOWSHIP 
 Our Message and Mission:
 
+```
 A SANE MIND
 A SOFT HEART
 A SOUND BODY
+```
 
 Before entering upon an explanation of the teachings of the Rosicrucians, it may be well to say a word about them and about the place they hold in the evolution of humanity. 
 
@@ -74,19 +66,13 @@ These various religions have been given to each group of humanity by the exalted
 
 When we study the history of the ancient nations we shall find that at about six hundred years B.C. a great spiritual wave had its inception on the Eastern shores of the Pacific Ocean where the great Confucian religion accelerated the progress of the Chinese nation, then also the religion of the Buddha commenced to win its millions of adherents in India, and still further West we have the lofty philosophy of Pythagoras. Each system was suited to the needs of the particular people to whom it was sent. Then came the period of the Skeptics, in Greece, and later, traveling westward the same spiritual wave is manifested as the Christian religion of the so-called "Dark Ages" when the dogma of a dominant church compelled belief from the whole of Western Europe. 
 
-[7] 
-
 It is a law in the universe that a wave of spiritual awakening is always followed by a period of doubting materialism; each phase is necessary in order that the Spirit may receive equal development of heart and intellect without being carried too far in either direction. The great Beings aforementioned, who care for our progress, always take steps to safeguard humanity against that danger, and when they foresaw the wave of materialism which commenced in the sixteenth century with the birth of our modern science, they took steps to protect the West as they had formerly safeguarded the East against the skeptics who were held in check by the Mystery Schools. 
 
 In the fourteenth century there appeared in central Europe a great spiritual teacher whose symbolical name was Christian Rosenkreuz or Christian Rose Cross, who founded the mysterious Order of the Rosy Cross, concerning which so many speculations have been made and so little has become known to the world at large, for it is the Mystery School of the West and is open only to those who have attained the stage of spiritual unfoldment necessary to be initiated in its secrets concerning the Science of Life and Being. 
 
-[8] 
-
 If we are so far developed that we are able to leave our dense physical body and take a soul flight into interplanetary space we shall find that the ultimate physical atom is spherical in shape like our earth; it is a ball. When we take a number of balls of even size and group them around one, it will take just twelve balls to hide a thirteenth within. Thus the twelve visible and the one hidden are numbers revealing a cosmic relationship and as all Mystery Orders are based upon cosmic lines, they are composed of twelve members gathered around a thirteenth who is the invisible head. 
 
 There are seven colors in the spectrum: red, orange, yellow, green, blue, indigo, and violet. But between the violet and the red there are still five other colors which are invisible to the physical eye but reveal themselves to the spiritual sight. In every Mystery Order there are also seven Brothers who at times go out into the world and there perform whatever work may be necessary to advance the people among whom they serve, but five are never seen outside the temple. They work with and teach those alone who have passed through certain stages of spiritual unfoldment and are able to visit the temple in their spiritual bodies, a feat taught in the first initiation which usually takes place outside the temple as it is not convenient for all to visit that place physically. 
-
-[9] 
 
 Let not the reader imagine that this initiation makes the pupil a Rosicrucian, it does not, any more than admission to a high school makes a boy a member of the faculty. Nor does he become a Rosicrucian even after having passed through all the nine degrees of this or any other Mystery School. The Rosicrucians are Hierophants of the Lesser Mysteries, and beyond them there are still schools wherein greater Mysteries are taught. Those who have advanced through the Lesser Mysteries are called Adepts, but even they have not reached the exalted standpoint of the twelve Brothers of the Rosicrucian Order or the Hierophants of any other Lesser Mystery School any more than the freshman at college has attained to the knowledge and position of a teacher in the high school from which he has just graduated. 
 
@@ -98,17 +84,14 @@ With the commencement of the twentieth century a further step was taken. It was 
 
 In order to give the world a teaching so blended that it will satisfy both the mind and heart, a messenger must be found and instructed. Certain unusual qualifications were necessary, and the first one chosen failed to pass a certain test after several years had been spent to prepare him for the work to be done. 
 
-[11] 
-
 It is well said that there is a time to sow, and a time to reap, and that there are certain times for all the works of life, and in accordance with this law of periodicity each impulse in spiritual uplift must also be undertaken at an appropriate time to be successful. The first and sixth decades of each century are particularly propitious to commence the promulgation of new spiritual teachings. Therefore the Rosicrucians were much concerned at this failure, for only five years were left of the first decade of the twentieth century. 
 
 Their second choice of a messenger fell upon the present writer, though he knew it not at the time, and by shaping circumstances about him they made it possible for him to begin a period of preparation for the work they desired him to do. Three years later, when he had gone to Germany, also because of circumstances shaped by the invisible Brotherhood, and was on the verge of despair at the discovery that the light which was the object of his quest, was only a jack-o-lantern, the Brothers of the Rosicrucian Order applied the test to see whether he would be a faithful messenger and give the teachings they desired to entrust to him, to the world. And when he had passed the trial they gave him the monumental solution of the problem of existence first published in The Rosicrucian Cosmo-Conception in November, 1909, more than a year before the expiration of the first decade of the twentieth century. This book marked a new era in so-called "occult" literature, and the many editions which have since been published as well as the thousands of letters which continue to come to the author, are speaking testimonies to the fact that people are finding in this teaching a satisfaction they have sought elsewhere in vain. 
 
-[12] 
-
 The Rosicrucians teach that all great religions have been given to the people among whom they are found, by Divine Intelligences who designed each system of worship to suit the needs of the race or nation to whom it was given. A primitive people cannot respond to a lofty and sublime religion, and vice versa. What helps one race would hinder another, and in pursuance of the same policy there has been devised a system of soul-unfoldment suited especially to the Western people, who are racially and temperamentally unfit to undergo the discipline of the Eastern school, which was designed for the more backward Hindus. 
 
-THE ROSICRUCIAN FELLOWSHIP 
+#### <h4 id="the-rosicrucian-fellowship">THE ROSICRUCIAN FELLOWSHIP</h4>
+
 For the purpose of promulgating the Rosicrucian Teachings in the Western World, the Rosicrucian Fellowship was founded in 1909. It is the herald of the Aquarian Age, when the Sun by its precessional passage through the constellation Aquarius, will bring out all the intellectual and spiritual potencies in man which are symbolized by that sign. As heat from a fire warms all objects within the sphere of its radiations, so also the Aquarian ray will raise the earth's vibrations to a pitch we are as yet unable to comprehend, though we have demonstrations of the material workings of this force in the inventions which have revolutionized life within the memory of the present generation. We have wondered at the X-ray, which sees through the human body, but each one has a sense latent which when evolved will enable him to see through any number of bodies or to any distance. We marvel at the telephone conversations across the continent of America, but each has within a latent sense of speech and hearing that is far more acute; we are surprised at the exploits of ships under sea and in the sky, but we are all capable of passage under water or through the sky; nay, more we may pass unscathed through the solid rock and the raging fire, if we know how, and lightning itself is slow compared to the speed with which we may travel. This sounds like a fairy tale today, as did Jules Verne's stories a generation ago, but the Aquarian Age will witness the realization of these dreams, and ever so much more that we still do not even dream of. Such faculties will then be the possessions of large numbers of people who will have gradually evolved them as previously the ability to walk, speak, hear, and see, were developed. 
 
 Therein lies a great danger, for, obviously, anyone endowed with such faculties may use them to the greatest detriment of the world at large, unless restrained by a spirit of unselfishness and an all-embracing altruism. Therefore religion is needed today as never before, to foster love and fellow-feeling among humanity so that it may be prepared to use the great gifts in store for it wisely and well. This need of religion is specially felt in a certain class where the ether is more loosely knit to the physical atoms than in the majority, and on that account they are now beginning to sense the Aquarian vibrations. 
@@ -119,22 +102,15 @@ The other group does not care for knowledge, but feels an inner urge God-ward, a
 
 Certain dangers confront each of the two groups. If the occultist obtains illumination and evolves within himself the latent spiritual faculties, he may use them for the furtherance of his personal objects, to the great detriment of his fellow-men. That is black magic, and the punishment which it automatically calls down upon the head of the perpetrator is so awful that it is best to draw the veil over it. The mystic may also err because of ignorance, and fall into the meshes of nature's law, but being actuated by love, his mistakes will never be very serious, and as he grows in grace the soundless voice within his heart will speak more distinctly to teach him the way. 
 
-[15] 
-
 The Rosicrucian Fellowship endeavors to prepare the world in general, and the sensitives of the two groups in particular, for the awakening of the latent powers in man, so that all may be guided safely through the danger-zone and be as well fitted as possible to use these new faculties. Effort is made to blend the love without which Paul declared a knowledge of all mysteries worthless, with a mystic knowledge rooted and grounded in love, so that the pupils of this school may become living exponents of this blended soul-science of the Western Wisdom School, and gradually educate humanity at large in the virtues necessary to make the possession of higher powers safe. 
 
-[16] 
+### <h3 id="chapter-2">CHAPTER II: THE PROBLEM OF LIFE AND ITS SOLUTION</h3>
 
-CHAPTER II
+#### <h4 id="the-problem-of-life">THE PROBLEM OF LIFE</h4>
 
-THE PROBLEM OF LIFE AND ITS SOLUTION
-
-THE PROBLEM OF LIFE 
 Among all the vicissitudes of life, which vary in each individual's experience, there is one event which sooner or later comes to everyone--Death! No matter what our station in life, whether the life lived has been a laudable one or the reverse, whether great achievements have marked our path among men; whether health or sickness has been our lot, whether we have been famous and surrounded by a host of admiring friends or have wandered unknown through the years of our life, at some time there comes a moment when we stand alone before the portal of death and are forced to take the leap into the dark. 
 
 The thought of this leap and of what lies beyond must inevitably force itself upon every thinking person. In the years of youth and health, when the bark of our life sails upon seas of prosperity, when all appears beautiful and bright, we may put the thought behind us, but there will surely come a time in the life of every thinking person when the problem of life and death forces itself upon his consciousness and refuses to be set aside. Neither will it help him to accept the ready-made solution of anyone else without thought and in blind belief, for this is a basic problem which every one must solve for himself or herself in order to obtain satisfaction. 
-
-[17] 
 
 Upon the eastern edge of the Desert of Sahara there stands the world-famous Sphinx with its inscrutable face turned toward the East, ever greeting the Sun as its rising rays herald the newborn day. It was said in the Greek myth that it was the wont of this monster to ask a riddle of each traveler. She devoured those who could not answer, but when Oedipus solved the riddle she destroyed herself. 
 
@@ -146,24 +122,21 @@ Raphael in his famous painting, "The School of Athens," has most aptly pictured 
 
 The question who is right is still an open one with the majority of mankind. Millions of tons of paper and printer's ink have been used in futile attempts to settle it by argument, but it will always remain open to all who have not solved the riddle themselves, for it is a basic problem, a part of the life experience of every human being to settle that question, and therefore no one can give us the solution ready-made for our acceptance. All that can be done by those who have really solved the problem, is to show to others the line along which they have found the solution, and thus direct the inquirer how he also, by his own efforts, may arrive at a conclusion. 
 
-[19] 
-
 That is the aim of this little book; not to offer a solution to the problem of life to be taken blindly, on faith in the author's ability of investigation. The teachings herein set forth are those handed down by the Great Western Mystery School of the Rosicrucian Order and are the result of the concurrent testimony of a long line of trained Seers given to the author and supplemented by his own independent investigation of the realms traversed by the Spirit in its cyclic path from the invisible world to this plane of existence and back again. 
 
 Nevertheless, the student is warned that the writer may have misunderstood some of the teachings and that despite the greatest care he may have taken a wrong view of that which he believes to have been seen in the invisible world where the possibilities of making a mistake are legion. Here in the world which we view about us the forms are stable and do not easily change, but in the world around us which is perceptible only by the spiritual sight, we may say that there is in reality no form, but that all is life. At least the forms are so changeable that the metamorphosis recounted in fairy stories is discounted there to an amazing degree, and therefore we have the surprising revelations of mediums and other untrained clairvoyants who, though they may be perfectly honest, are deceived by illusions of FORM which is evanescent, because they are incapable of viewing the LIFE that is the permanent basis of that form. 
 
 We must learn to see in this world. The new-born babe has no conception of distance and will reach for things far, far beyond its grasp until it has learned to gauge its capacity. A blind man who acquires the faculty of sight, or has it restored by an operation will at first be inclined to close his eyes when moving from place to place, and declare that it is easier to walk by feeling than by sight; that is because he has not learned to use his newly acquired faculty. Similarly the man whose spiritual vision has been newly opened requires to be trained; in fact, he is in much greater need thereof than the babe and the blind man already mentioned. Denied that training, he would be like a new-born babe placed in a nursery where the walls are lined with mirrors of different convex and concave curvatures, which would distort its own shape and the forms of its attendants. If allowed to grow up in such surroundings and unable to see the real shapes of itself and its nurses it would naturally believe that it saw many different and distorted shapes, when in reality the mirrors were responsible for the illusion. Were the persons concerned in such an experiment and the child taken out of the illusory surroundings, it would be incapable of recognizing them until the matter had been properly explained. There are similar dangers of illusion to those who have developed spiritual sight, until they have been trained to discount the refraction and view the life which is permanent and stable, disregarding the form which is evanescent and changeable. The danger of getting things out of focus always remains, however, and is so subtle that the writer feels an imperative duty to warn his readers to take all statements concerning the unseen world with the proverbial grain of salt, for he has no intention to deceive. He is therefore inclined rather to magnify than to minimize his limitations and would advise the student to accept nothing from the author's pen without reasoning it out for himself. Thus, if he is deceived, he will be self-deceived and the author is blameless. 
 
-THREE THEORIES OF LIFE
+#### <h4 id="three-theories-of-life">THREE THEORIES OF LIFE</h4>
+
 Only three noteworthy theories have been offered as solutions to the riddle of existence and in order that we may be able to make the important choice between them, we will state briefly what they are and give some of the arguments which lead us to advocate the Doctrine of Rebirth as the method which favors soul-growth and the ultimate attainment of perfection, thus offering the best solution to the problem of life. 
 
-1) The Materialistic theory teaches that life is but a short journey from the cradle to the grave; that there is no higher intelligence in the universe than man; that his mind is produced by certain correlations of matter and that therefore death and dissolution of the body terminate existence. 
+1 - The Materialistic theory teaches that life is but a short journey from the cradle to the grave; that there is no higher intelligence in the universe than man; that his mind is produced by certain correlations of matter and that therefore death and dissolution of the body terminate existence. 
 
 There was a day when the arguments of materialistic philosophers seemed convincing, but as science advances it discovers more and more that there is a spiritual side to the universe. That life and consciousness may exist without being able to give us a sign, has been amply proven in the cases where a person who was entranced and thought dead for days has suddenly awakened and told all that had taken place around the body. Such eminent scientist as Sir Oliver Lodge, Camille Flammarion, Lombroso, and other men of highest intelligence and scientific training, have unequivocally stated as the result of their investigations, that the intelligence which we call man survives death of the body and lives on in our midst as independently of whether we see them or not, as light and color exist all about the blind man regardless of the fact that he does not perceive them. These scientist have reached their conclusion after years of careful investigation. They have found that the so-called dead can, and under certain circumstances do, communicate with us in such a manner that mistake is out of the question. We maintain that their testimony is worth more than the argument of materialism to the contrary, for it is based on years of careful investigation, it is in harmony with such well established laws as the law of conservation of matter and the law of conservation of energy. Mind is a form of energy, and immune from destruction as claimed by the materialist. Therefore we disbar the materialistic theory as unsound because out of harmony with the laws of nature and with well established facts. 
 
-2) The theory of Theology claims that just prior to each birth a soul is created by God and enters into the world where it lives for a time varying from a few minutes to a few score years; that at the end of this short span of life it returns through the portal of death to the invisible beyond, where it remains forever in a condition of happiness or misery according to the deeds done in the body during the few years it lived here. 
-
-[23] 
+2 - The theory of Theology claims that just prior to each birth a soul is created by God and enters into the world where it lives for a time varying from a few minutes to a few score years; that at the end of this short span of life it returns through the portal of death to the invisible beyond, where it remains forever in a condition of happiness or misery according to the deeds done in the body during the few years it lived here. 
 
 Plato insisted upon the necessity of a clear definition of terms as a basis of argument and we contend that that is as necessary in discussing the problem of life from the Bible point of view as in arguments from the platonic standpoint. According to the Bible man is a composite being consisting of body, soul, and Spirit. The two latter are usually taken to be synonymous but we insist that they are not interchangeable and present the following to support our dictum. 
 
@@ -177,20 +150,18 @@ In the post-mortem existence the breath-record is disposed of. The good acts of 
 
 The record of our evil acts is also derived from our breath in the moments when they were committed. The pain and suffering they bring cause the Spirit to expel the breath-record from its being in Purgatory. As that cannot exist independently of the life-giving Spirit, the breath-record of our sins disintegrates upon expurgation, and thus we see that "the soul that sinneth, it shall die." The memory of the suffering incidental to expurgation, however, remains with the Spirit as conscience, to deter from repetition of the same evil in later lives. 
 
-[25] 
-
 Thus both our good and evil acts are recorded through the agency of the breath, which is therefore the basis of the soul, but while the breath-record of good acts amalgamates with the Spirit and lives on forever as an immortal soul, the breath-record of evil deeds is disintegrated; it is the soul that sinneth and dies. 
 
 While the Bible teaches that immortality of the soul is conditional upon well-doing, it makes no distinction in respect of the Spirit. The statement is clear and emphatic when...."The silver cord be loosed...then shall the dust return to the earth as it was and the spirit shall return to God who gave it." 
 
 Thus the Bible teaches that the body is made of dust and returns thereto, that a part of the soul generated in the breath is perishable, but that the Spirit survives bodily death and persists forever. Therefore a "lost soul" in the common acceptance of that term is not a Bible teaching, for the Spirit is uncreated and eternal as God Himself, and therefore the orthodox theory cannot be true. 
 
-3) The theory of Rebirth: which teaches that each Spirit is an integral part of God, that it enfolds all divine possibilities as the acorn enfolds the oak; that by means of many existences in an earthly body of gradually improving texture its latent powers are being slowly unfolded and become available as dynamic energy; that none can be lost but that all will ultimately attain to perfection and reunion with God, each bringing with it the accumulated experiences which are the fruitage of its pilgrimage through matter. 
-
-[26] 
+3 - The theory of Rebirth: which teaches that each Spirit is an integral part of God, that it enfolds all divine possibilities as the acorn enfolds the oak; that by means of many existences in an earthly body of gradually improving texture its latent powers are being slowly unfolded and become available as dynamic energy; that none can be lost but that all will ultimately attain to perfection and reunion with God, each bringing with it the accumulated experiences which are the fruitage of its pilgrimage through matter. 
 
 Or, as we may poetically express it: 
 
+
+<pre id="we-are-eternal">
 WE ARE ETERNAL
 
 On whistling stormcloud; on Zephyrus wing, 
@@ -222,8 +193,7 @@ Thus in time we shall know, if only we do
 What lifts, ennobles, is right and true. 
 With kindness to all, with malice to none, 
 That in and through us God's will may be done. 
-
-[27] 
+</pre>
 
 We venture to make the assertion that there is but one sin: Ignorance, and but one salvation: Applied knowledge. Even the wisest among us know but little of what may be learned, however, and no one has attained to perfection, or can attain in one single short life, but we note that everywhere in nature slow persistent unfoldment makes for higher and higher development of everything, and we call this process evolution. 
 
@@ -233,7 +203,7 @@ This earth may, in fact, be likened to a school to which we return life after li
 
 We are not here then by the caprice of God. He has not placed one in clover and another in a desert, nor has He given one a healthy body so that he may live at ease from pain and sickness, while He placed another in poor circumstances with never a rest from pain. But what we are, we are on account of our own diligence or negligence, and what we shall be in the future depends upon what we will to be and not upon divine caprice or upon inexorable fate. No matter what the circumstances, it lies with us to master them, or to be mastered as we will. Sir Edwin Arnold puts the teaching most beautifully in his "Light of Asia:" 
 
-
+```
 The Books say well, my Brothers! each man's life 
 The outcome of his former living is; 
 The bygone wrongs bring forth sorrows and woes, 
@@ -247,12 +217,11 @@ Who toiled, a slave, may come anew a prince
 For gentle worthiness and merit won, 
 Who ruled, a king, may wander earth in rags 
 For things done or undone. 
-
-[29] 
+```
 
 Or, as Ella Wheeler Wilcox says: 
 
-
+```
 "One ship sails East and another sails West 
 With the self same winds that blow. 
 'Tis the set of the sail, and not the gale, 
@@ -262,12 +231,11 @@ As the winds of the sea are the ways of fate
 As we voyage along through life. 
 'Tis the act of the soul, which determines the goal 
 And not the calm or the strife." 
+```
 
 When we wish to engage someone to undertake a certain mission we choose someone whom we think particularly fitted to fulfill the requirements, and we must suppose that a Divine Being would use at least as much common sense and not choose anyone to do his errand who was not fitted therefor. So when we read in the Bible that Samson was foreordained to be the slayer of the Philistines and that Jeremiah was predestined to be a prophet, it is but logical to suppose that they must have been particularly suited to such occupations. John the Baptist, also, was born to be a herald of the coming Saviour and to preach the Kingdom of God which is to take the place of the kingdom of men. 
 
 Had these people had no previous training, how could they have developed such a fitness to fulfill their various missions, and if they had been fitted, how else could they have received their training if not in earlier lives? 
-
-[30] 
 
 The Jews believed in the Doctrine of Rebirth or they would not have asked John the Baptist if he were Elijah, as recorded in the first chapter of John. The Apostles of Christ also held the belief as we may see from the incident recorded in the Sixteenth chapter of Matthew where the Christ asked them the question: "Whom do men say that I, the Son of Man, am?" The Apostles replied: "Some say that thou art John the Baptist; some, Elias; and others Jeremiah or one of the Prophets." Upon this occasion the Christ tacitly assented to the teaching of Rebirth because He did not correct the disciples as would have been His plain duty in His capacity as teacher, when the pupils entertained a mistaken idea. 
 
@@ -275,21 +243,15 @@ But to Nicodemus He said unequivocally: "Except a man be born again, he cannot s
 
 Thus we maintain that the Doctrine of Rebirth offers the only solution to the problem of life which is in harmony with the laws of nature, which answers the ethical requirements of the case and permits us to love God without blinding our reason to the inequalities of life and the varying circumstances which give to a few the ease and comfort, the health and wealth, which are denied to the many. 
 
-[31] 
-
 The theory of heredity advanced by materialists applies only to the FORM, for as a carpenter uses material from a certain pile of lumber to build a house in which he afterward lives, so does the Spirit take the substance wherewith to build its house from the parents. The carpenter cannot build a house of hard wood from spruce lumber, and the Spirit also must build a body which is like those from which the material was taken. But the theory of heredity does not apply upon the moral plane, for it is a known fact that in the rogues galleries of America and Europe there is no case where both father and son are represented. Thus the sons of criminals, though they have the tendencies to crime, keep out of the clutches of the law. Neither will heredity hold good upon the plane of the intellect, for many cases may be cited where a genius and an idiot spring from the same stock. The great Cuvier, whose brain was of about the same weight, as Daniel Webster's, and whose intellect was as great, had five children who all died of paresis; the brother of Alexander the Great was an idiot; and thus we hold that another solution must be found to account for the facts of life. 
 
 The Law of Rebirth coupled with its companion law, the Law of Causation, does that. When we die after one life, we return to earth later, under circumstances determined by the manner in which we lived before. The gambler is drawn to pool parlors and race tracks to associate with others of like taste, the musician is attracted to the concert halls and music studios where there are congenial Spirits, and the returning Ego also carries with it likes and dislikes which cause it to seek parents among the class to which it belongs. 
-
-[32] 
 
 But then someone will point to cases where we find people of entirely opposite tastes living lives of torture, because grouped in the same family, and forced by circumstances to stay there contrary to their wills. But that does not vitiate the law in the slightest. In each life we contract certain obligations which cannot then be fulfilled. Perhaps we have run away from a duty such as the care of an invalid relative and have met death without coming to a realization of our mistake. That relative on the other hand may have suffered severely from our neglect, and have stored up a bitterness against us before death terminates the suffering. Death and the subsequent removal to another environment does not pay our debts in this life, any more than the removal from the city where we now live to another place will pay the debts we have contracted prior to our removal. It is therefore quite possible that the two who have injured each other as described, may find themselves members of the same family. Then, whether they remember the past grudge or not, the old enmity will assert itself and cause them to hate anew until the consequent discomfort force them to tolerate each other, and perhaps later they may learn to love where they hated. 
 
 The question also arises in the mind of inquirers: If we have been here before why do we not remember? And the answer is that while most people are not aware of how their previous existences were spent, there are others who have very distinct recollection of previous lives. A friend of the writer for instance, when living in France, one day started to read to her son about a certain city where they were then going upon a bicycle tour, and the boy exclaimed: "You do not need to tell me about that, Mother. I know that city. I lived there and was killed!" He then commenced to describe the city and also a certain bridge. Later he took his mother to that bridge and showed her the spot where he had met death centuries before. Another friend traveling in Ireland saw a scene which she recognized, and she also described to the party the scene around the bend of the road which she had never seen in this life, so it must have been a memory from a previous life. Numerous other instances could be given where such minor flashes of memory reveal to us glimpses from a past life. The verified case in which a little three year old girl in Santa Barbara described her life and death has been given in The Rosicrucian Cosmo-Conception. It is perhaps the most conclusive evidence as it hinges on the veracity of a child too young to have learned deception. 
 
 This theory of life does not rest upon speculation, however. It is one of the first facts of life demonstrated to the pupil of a Mystery School. He is taught to watch a child in the act of dying, also, to watch it in the invisible world from day to day, until it comes to a new birth a year or two later. Then he knows with absolute certainty that we return to Earth to reap in a future life what we now sow. 
-
-[34] 
 
 The reason for taking a child to watch in preference to an adult is that the child is reborn very quickly, for its short life on Earth has borne but few fruits and these are soon assimilated, while the adult who has lived a long life and had much experience remains in the invisible worlds for centuries, so that the pupil could not watch him from death to rebirth. The cause of infant mortality will be explained later; here we merely desire to emphasize the fact that it is within the range of possibilities of every one without exception to become able to know at first hand that which is here taught. 
 
@@ -299,7 +261,7 @@ The Great Leaders of evolution always obtain the maximum benefit from each condi
 
 Oliver Wendell Holmes has so beautifully voiced that aspiration and its consummation in the lines: 
 
-
+```
 "Build thee more stately mansions, O my soul, 
 As the swift seasons roll! 
 Leave thy low-vaulted past; 
@@ -307,17 +269,13 @@ Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast, 
 Till thou at length art free, 
 Leaving thine outgrown shell by life's unresting sea!" 
+```
+ 
+### <h3 id="chapter-3">CHAPTER III: THE VISIBLE AND THE INVISIBLE WORLDS</h3>
 
-[36] 
+#### <h4 id="the-chemical-region">THE CHEMICAL REGION</h4>
 
-CHAPTER III
-
-THE VISIBLE AND THE INVISIBLE WORLDS
-
-THE CHEMICAL REGION
 If one who is capable of consciously using his spiritual body with the same facility that we now use our physical vehicles should glide away from the Earth into interplanetary space, the Earth and the various other planets of our solar system would appear to him or her to be composed of three kinds of matter, roughly speaking. The densest matter, which is our visible Earth, would appear to him as being the center of the ball as the yolk is in the center of an egg. Around that nucleus he or she would observe a finer grade of matter similarly disposed in relation to the central mass, as the white of the egg is disposed outside the yolk. Upon a little closer investigation he would also discover that this second kind of substance permeates the solid Earth to the very center, even as the blood percolates through the more solid parts of our flesh. Outside both of these mingling layers of matter he would observe a still finer, third layer corresponding to the shell of the egg, except that this third layer is the finest, most subtle of the three grades of matter, and that it interpenetrates both of the two inner layers. 
-
-[37] 
 
 As already said, the central mass, spiritually seen, is our visible world, composed of solids, liquids, and gases. They constitute the Earth, its atmosphere, and also the ether, of which physical science speaks hypothetically as permeating the atomic substance of all chemical elements. The second layer of matter is called the Desire World and the outermost layer is called the World of Thought. 
 
@@ -325,13 +283,9 @@ A little reflection upon the subject will make clear that just such a constituti
 
 All forms are impelled into motion by desire: the bird and the animal roam land and air in their desire to secure food and shelter, or for the purpose of breeding. Man is also moved by these desires, but has in addition other and higher incentives to spur him to effort; among them is desire for rapidity of motion which led him to construct the steam engine and other devices that move in obedience to his desire. 
 
-[38] 
-
 If there were no iron in the mountains man could not build machines. If there were no clay in the soil, the bony structure of the skeleton would be an impossibility, and if there were no Physical World at all, with its solids, liquids, and gases, this dense body of ours could never have come into existence. Reasoning along similar lines it must be at once apparent that if there were no Desire World composed of desire-stuff, we should have no way of forming feelings, emotions, and desires. A planet composed of the materials we perceive with our physical eyes and of no other substances, might be the home of plants which grow unconsciously, but have no desires to cause them to move. The human and animal kingdoms, however, would be impossibilities. 
 
 Furthermore, there is in the world a vast number of things, from the simplest and most crude instruments, to the most intricate and cunning devices which have been constructed by the hand of man. These reveal the fact of man's thought and ingenuity. Thought must have a source as well as form and feeling. We saw that it was necessary to have the requisite material in order to build a steam engine or a body and we reasoned from the fact that in order to obtain material to express desire there must also be a world composed of desire stuff. Carrying our argument to its logical conclusion, we also hold that unless a World of Thought provides a reservoir of mind stuff upon which we may draw, it would be impossible for us to think and invent the things which we see in even the lowest civilization. 
-
-[39] 
 
 Thus it will be clear that the division of a planet into worlds is not based on fanciful metaphysical speculation, but is logically necessary in the economy of nature. Therefore it must be taken into consideration by any one who would study and aim to understand the inner nature of things. When we see the street cars moving along our streets, it does not explain to say that the motor is driven by electricity of so many amperes at so many volts. These names only add to our confusion until we have thoroughly studied the science of electricity; and then we shall find that the mystery deepens, for while the street car belongs to the world of inert form perceptible to our vision, the electric current which moves it is indigenous to the realm of force, the invisible Desire World, and the thought which created and guides it, comes from the still more subtle World of Thought which is the home world of the human Spirit, the Ego. 
 
@@ -339,28 +293,21 @@ It may be objected that this line of argument makes a simple matter exceedingly 
 
 The youngest lawyer, fresh from law school, knows more about the most intricate cases, in his or her own estimation, than the judges upon the Supreme Court bench who spend long hours, weeks and months, seriously deliberating over their decisions. But those who, without having studied, think they understand and are fitted to discourse upon the greatest of all sciences, the science of Life and Being, make a greater mistake. After years of patient study, of holy life spent in close application, a man is oftentimes perplexed at the immensity of the subject he studies. He finds it to be so vast in both the direction of the great and small that it baffles description, that language fails, and that the tongue must remain mute. Therefore we hold (and we speak from knowledge gained through years of close study and investigation) that the finer distinctions which we have made, and shall make, are not at all arbitrary, but absolutely necessary as are divisions and distinctions made in anatomy or chemistry. 
 
-[41] 
-
 No form in the physical world has feeling in the true sense of that word. It is the indwelling life which feels, as we may readily see from the fact that a body which responds to the lightest touch while instinct with life, exhibits no sensation whatever even when cut to pieces after the life has fled. Demonstrations have been made by scientists, particularly by Professor Bose of Calcutta, to show that there is feeling in dead animal tissue and even in tin and other metal, but we maintain that the diagrams which seem to support his contentions in reality demonstrate only a response to impacts similar to the rebound of a rubber ball, and that must not be confused with such feelings as love, hate, sympathy and aversion. Goethe also, in his novel. "Elective Affinities," (Wahlverwandtschaft), brings out some beautiful illustrations wherein he makes it seem as if atoms loved and hated, from the fact that some elements combine readily while other substances refuse to amalgamate, a phenomenon produced by the different rates of speed at which various elements vibrate and an unequal inclination of their axes. Only where there is sentient life can there be feelings of pleasure and pain, sorrow or joy. 
 
-[42] 
+#### <h4 id="the-etheric-region">THE ETHERIC REGION</h4>
 
-THE ETHERIC REGION 
 In addition to the solids, liquids, and gases which compose the CHEMICAL REGION of the Physical World there is also a finer grade of matter called ether, which permeates the atomic structure of the earth and its atmosphere substantially as science teaches. Scientists have never seen, nor have they weighed, measured, or analyzed this substance, but the infer that it must exist in order to account for transmission of light and various other phenomena. If it were possible for us to live in a room from which the air had been exhausted, we might speak at the top of our voices, we might ring the largest bell, or we might even discharge a cannon close to our ear and we should hear no sound, for air is the medium which transmits sound vibrations to the tympanum of our ear, and that would be lacking. But if an electric light were lighted, we should at once perceive its rays; it would illumine the room despite the lack of air. Hence there must be a substance capable of being set into vibration, between the electric light and our eyes. That medium scientists call ether, but it so subtle that no instrument has been devised whereby it may be measured or analyzed, and therefore the scientists are without much information concerning it, though forced to postulate its existence. 
 
 We do not seek to belittle the achievements of modern scientists. We have the greatest admiration for them and we entertain high expectations of what ambitions they may yet realize, but we perceive a limitation in the fact that all discoveries of the past have been made by the invention of wonderful instruments applied in a most ingenious manner to solve seemingly insoluble and baffling problems. The strength of science lies vested in its instruments, for the scientist may say to anyone: "Go, procure a number of glasses ground in a certain manner, insert them in a tube, direct that tube toward a certain point in the sky where now nothing appears to your naked eye. You will then see a beautiful star called Uranus." If his directions are followed, anyone is quickly and without preparation able to demonstrate for himself the truth of the scientist's assertion. But while the instruments of science are its tower of strength, they also mark the end of its field of investigation, for it is impossible to contact the spirit world with physical instruments; so the research of occultists begins where the physical scientist finds his limit and is carried on by spiritual means. 
 
 These investigations are as thorough and as reliable as researches by material scientists, but not as easily demonstrable to the general public. Spiritual powers lie dormant within every human being, and when awakened, they compensate for both telescope and microscope, they enable their possessor to investigate, instanter, things beyond the veil of matter, but they are only developed by a patient application and continuance in well doing extended over years, and few are they who have faith to start upon the path to attainment or perseverance to go through with the ordeal. Therefore the occultist's assertions are not generally credited. 
 
-[44] 
-
 We can readily see that long probation must precede attainment, for a person equipped with spiritual sight is able to penetrate walls of houses as easily as we walk through the atmosphere, able to read at will the innermost thoughts of those about him, and if not actuated by the most pure and unselfish motives, would become a scourge to humanity. Therefore that power is safeguarded as we would withhold the dynamite bomb from an anarchist and from the well-intentioned but ignorant person, or, as we withhold match and powder barrel from a child. 
 
 In the hands of an experienced engineer the dynamite bomb may be used to open a highway of commerce, and an intelligent farmer may use gunpowder to good account in clearing his field of tree-stumps, but in the hands of an ill-intentioned criminal or ignorant child an explosive may wreck much property and end many lives. The force is the same, but used differently, according to the ability or intention of the user, it may produce results of a diametrically opposite nature. So it is also with spiritual powers, there is a time-lock upon them, as upon a bank safe, which keeps out until they have earned the privilege and the time is ripe for its exercise. 
 
 As already said, the ether is physical matter and responsive to the same laws which govern other physical substances upon this plane of existence. Therefore it requires but a slight extension of physical sight to see ether (which is disposed in four grades of density); the blue haze seen in mountain canyons is in fact ether of the kind known to occult investigators as Chemical Ether. Many people who see this ether unaware that they are possessed of a faculty not enjoyed by all. Others, who have developed spiritual sight are not endowed with etheric vision, a fact which seems an anomaly until the subject of clairvoyance is thoroughly understood. 
-
-[45] 
 
 The reason is, that as ether is physical matter, etheric sight depends upon the sensitiveness of the optic nerve, while spiritual sight is acquired by developing latent vibratory powers in two little organs situated in the brain: the pituitary body and the pineal gland. Even near-sighted people may have etheric vision. Though unable to read the print in a book, they may be able to "see through a wall," owing to the fact that their optic nerve responds more rapidly to fine than to coarse vibrations. 
 
@@ -370,15 +317,11 @@ If he has developed the grade of spiritual vision which opens the Desire World t
 
 But if his spiritual sight has been developed in such a measure that he is capable of viewing the sewing machine with the vision peculiar to the World of Thought, he will behold a cavity where he had previously seen the form. 
 
-[46] 
-
 Things seen with etheric vision are very much alike in color. They are nearly reddish-blue, purple or violet, according to the density of the ether, but when we view any object with the spiritual sight pertaining to the Desire World, it scintillates and coruscates in a thousand ever changing colors so indescribably beautiful that they can only be compared to living fire. The writer therefore calls this grade of vision color sight, but when the spiritual vision of the World of Thought is the medium of perception, the seer finds that in addition to still more beautiful colors, there issues from the cavity described a constant flow of a certain harmonious tone. Thus this world wherein we now consciously live and which we perceive the world of form, the Desire World is particularly the world of color, and the World of Thought is the realm of tone. 
 
 Because of the relative proximity or distance of these worlds, a statue, a form withstands the ravages of time for millenniums, but the colors upon a painting fade in far shorter time, for they come from the Desire World; and music, which is native to the world farthest removed from us, the World of Thought, is like a will-o-the-wisp which none may catch or hold; it is gone again as soon as it has made its appearance. But there is in color and music a compensation for this increasing evanescence. 
 
 The statue is cold and dead as the mineral of which it is composed and has attractions for but few though its form is a tangible reality. 
-
-[47] 
 
 The forms upon a painting are illusory, yet they express life, on account of the color which has come from a region where nothing is inert and lifeless. Therefore the painting is enjoyed by many. 
 
@@ -396,15 +339,11 @@ The Light Ether transmits the motive power of the Sun along the various nerves o
 
 The Reflecting Ether receives an impression of all that is, lives and moves. It also records each change, in a similar manner as the film upon a moving picture machine. In this record mediums and psychometrists may read the past, upon the same principle as, under proper conditions, moving pictures are reproduced time and again. 
 
-[48] 
-
 We have been speaking of ether as an avenue of forces, a word which conveys no meaning to the average mind, because force is invisible. But to an occult investigator the forces are not merely names such as steam, electricity, etc. He finds them to be intelligent beings of varying grades, both sub- and superhuman. What we call "laws of nature," are great Intelligences which guide more elemental beings in accordance with certain rules designed to further their evolution. 
 
 In the Middle Ages, when many people were still endowed with a remnant of negative clairvoyance, they spoke of gnomes, elves, and fairies, which roamed about the mountains and forests. These were the earth spirits. They also told of the undines or water sprites, which inhabited rivers and streams, and of sylphs which were said to dwell in the mists above moat and moor as air spirits. But not much was said of the salamanders, as they are fire spirits, and therefore not so easily detected, or so readily accessible to the majority of people. 
 
 The old folk stories are now regarded as superstitions, but as a matter of fact, one endowed with etheric vision may yet perceive the little gnomes building green chlorophyll into the leaves of plants and giving to flowers the multiplicity of delicate tints which delight our eyes. 
-
-[49] 
 
 Scientists have attempted time and again to offer an adequate explanation of the phenomenon of wind and storm but have failed signally, nor can they succeed while they seek a mechanical solution to what is really a manifestation of life. Could they see the hosts of sylphs winging their way hither and thither, they would know who and what is responsible for the fickleness of the wind; could they watch a storm at sea from the etheric viewpoint, they would perceive that the saying "the war of the elements" is not an empty phrase, for the heaving sea is truly then a battlefield of sylphs and undines and the howling tempest is the war cry of spirits in the air. 
 
@@ -414,40 +353,29 @@ The classes of beings which we have mentioned are still sub-human, but will all 
 
 To arrive at a better understanding of what these various beings are and their relation to us, we may take an illustration: Let us suppose that a mechanic is making an engine, and meanwhile a dog is watching him. It sees the man at his labor, and how he uses various tools to shape his materials, also how, from the crude iron, steel, brass, and other metals the engine slowly take shape. The dog is a being from a lower evolution and does not comprehend the purpose of the mechanic but it sees both the workman, his labor, and the result thereof which manifests as an engine. 
 
-[50] 
-
 Let us now suppose that the dog were able to see the materials which slowly change their shape, assemble, and become an engine, but that it is unable to perceive the workman and to see the work he does. The dog would then be in the same relation to the mechanic as we are to the great Intelligences we call laws of nature, and their assistants, the nature spirits, for we behold the manifestations of their work as force moving matter in various ways but always under immutable conditions. 
 
 In the ether we may also observe the Angels, whose densest body is made of that material, as our dense body is formed of gases, liquids, and solids. These Beings are one step beyond the human stage, as we are a degree in advance of the animal evolution. We have never been animals like our present fauna, however, but at a previous stage in the development of our planet we had an animal-like constitution. Then the Angels were human, though they have never possessed a dense body such as ours, nor ever functioned in any material denser than ether. At some time, in a future condition, the Earth will again become ethereal. Then man will be like the Angels. Therefore the Bible tells us that man was made a little lower than the Angels. (Hebrews 2:7). 
 
-[51] 
-
 As ether is the avenue of vital, creative forces, and as Angels are such expert builders of ether, we may readily understand that they are eminently fitted to be warders of the propagative forces in plant, animal, and man. All through the Bible we find them thus engaged: Two Angels came to Abraham and announced the birth of Isaac, they promised a child to the man who had obeyed God. Later these same Angeles destroyed Sodom for abuse of the creative force. Angels foretold to the parents of Samuel and Samson the birth of these giants of brain and brawn. To Elizabeth came the Angel (not Arch-angel) Gabriel and announced the birth of John; later he appeared also to Mary with the message that she was chosen to bear Jesus. 
 
-THE DESIRE WORLD
+#### <h4 id="the-desire-world">THE DESIRE WORLD</h4>
+
 When spiritual sight is developed so that it becomes possible to behold the Desire World, many wonders confront the newcomer, for conditions there are so widely different from what they are here that a description must sound quite as incredible as a fairy tale to anyone who has not himself seen them. 
 
 Many cannot believe that such a world exists, and that other people can see that which is invisible to them, yet some people are blind to the beauties of this world which we see. A man who was born blind, may say to us: "I know that this world exists. I can hear, I can smell, I can taste, and above all I can feel, but when you speak of light and of color, they are non-existent to me. You say that you see these things. I cannot believe it for I cannot see myself. You say that light and color are all about me, but none of the senses at my command reveal them to me and I do not believe that the sense you call sight exists. I think you suffer from hallucinations." We might sympathize very sincerely with the poor man who is thus afflicted, but his skepticisms, reasonings, objections, and sneers notwithstanding, we would be obliged to maintain that we perceive light and color. 
 
 The man or woman whose spiritual sight has been awakened is in a similar position with respect to those who do not perceive the Desire World of which he speaks. If the blind man acquires the faculty of sight by an operation, his eyes are opened and he will be compelled to assert the existence of light and color which he formerly denied, and when spiritual sight is acquired by anyone, he also perceives for himself the facts related by others. Neither is it an argument against the existence of spiritual realms that seers are at variance in their descriptions of conditions in the invisible world. We need but to look into books on travel and compare stories brought home by explorers of China, India, or Africa; we shall find them differing widely and often contradictory, because each traveler saw things from his own standpoint, under other conditions than those met by his brother authors. We maintain that the man who has read most widely these varying tales concerning a certain country and wrestled with the contradictions of narrators, will have a more comprehensive idea of the country or people of whom he has read, than the man who has read only one story assented to by all the authors. Similarly, the varying stories of visitors to the Desire World are of value, because giving a fuller view, and more rounded, than if all had seen things from the same angle. 
 
-[53] 
-
 In this world matter and force are widely different. The chief characteristic of matter here is inertia: the tendency to remain at rest until acted upon by a force which sets it in motion. In the Desire World, on the contrary, force and matter are almost indistinguishable one from the other. We might almost describe desire-stuff as force-matter, for it is in incessant motion, responsive to the slightest feeling of a vast multitude of beings which populate this wonderful world in nature. We often speak of the "teeming millions" of China and India, even of our vast cities, London, New York, Paris, or Chicago; we consider them overcrowded in the extreme, yet even the densest population of any spot on Earth is sparsely inhabited compared with the crowded conditions of the Desire World. No inconvenience is felt by any of the denizens of that realm, however, for, while in this world two things cannot occupy the same space at the same time, it is different there. A number of people and things may exist in the same place at the same time and be engaged in most diverse activities, regardless of what others are doing, such is the wonderful elasticity of desire-stuff. As an illustration we may mention a case where the writer, while attending a religious service, plainly perceived at the altar certain beings interested in furthering that service and working to achieve that end. At the same time there drifted through the room and the altar, a table at which four persons were engaged in playing cards. They were as oblivious to the existence of the beings engaged in furthering our religious service, as though these did not exist. 
-
-[54] 
 
 The Desire World is the abode of those who have died, for some time subsequent to that event, and we may mention in the above connection that the so-called "dead" very often stay for a long while among their still living friends. Unseen by their relatives they go about the familiar rooms. At first they are often unaware of the condition mentioned: That two persons may be in the same place at the same time, and when they seat themselves in a chair or at the table, a living relative may take the supposedly vacant seat. The man we mistakenly call dead will at first hurry out of his seat to escape being sat upon, but he soon learns that being sat upon does not hurt him in his altered condition, and that he may remain in his chair regardless of the fact that his living relative is also sitting there. 
 
 In the lower regions of the Desire World the whole body of each being may be seen, but in the highest regions only the head seems to remain. Raphael, who like many other people in the Middle Ages was gifted with a so-called second sight, pictured that condition for us in his Sistine Madonna, now in the Dresden Art Gallery, where Madonna and the Christ-child are represented as floating in a golden atmosphere and surrounded by a host of genie-heads: conditions which the occult investigator knows to be in harmony with actual facts. 
 
-[55] 
-
 Among the entities who are, so to speak, "native" to that realm of nature, none are perhaps better known to the Christian world than the Archangels. These exalted Beings were human at a time in the Earth's history when we were yet plant-like. Since then we have advanced two steps; through the animal and to the human stage of development. The present Archangels have also made two steps in progression; one, in which they were similar to what the Angels are now, and another step which made them what we call Archangels. 
 
 Their densest body, though differing from ours in shape, and made of desire-stuff, is used by them as a vehicle of consciousness in the same manner that we use our body. They are expert manipulators of forces in the Desire World, and these forces, as we shall see, move all the world to action. Therefore the Archangels work with humanity industrially and politically as arbitrators of the destiny of peoples and nations. The Angels may be said to be Family Spirits, whose mission is to unite a few Spirits as members of a family, and cement them with ties of blood and love of kin, while the Archangels may be called race and national spirits, as they unite whole nations by patriotism or love of home and country. They are responsible for the rise and fall of nations, they give war or peace, victory or defeat, as it serves the best interest of the people they rule. This we may see, for instance, from the book of Daniel, where the Archangel Michael is called the prince of the children of Israel. Another Archangel tells Daniel (in the tenth chapter) that he intends to fight the prince of Persia by means of the Greeks. 
-
-[56] 
 
 There are varying grades of intelligence among human beings; some are qualified to hold lofty positions entirely beyond the ability of others. So it is also among higher beings. Not all Archangels are fitted to govern a nation and rule the destiny of a race, people, or tribe; some are not fitted to rule human beings at all, but as the animals also have a desire nature, these lower grades of Archangels govern the animals as Group Spirits and evolve to higher capacity thereby. 
 
@@ -455,15 +383,11 @@ The work of the Race Spirit is readily observable in the people it governs. The 
 
 The ancient Egyptians knew of these animal Group spirits and sketched many of them, in a crude way, upon their temples and tombs. Such figures with a human body and an animal head actually live in the Desire World. They may be spoken to, and will be found much more intelligent than the average human being. 
 
-[58] 
-
 That statement brings up another peculiarity of conditions in the Desire World in respect of language. Here in this world human speech is so diversified that there are countries where people who live only a few miles apart speak a dialect so different that they understand each other with great difficulty, and each nation has its own language that varies altogether from the speech of other peoples. 
 
 In the lower regions of the Desire World, there is the same diversity of tongues as on Earth, and the so-called "dead" of one nation find it impossible to converse with those who lived in another country. Hence linguistic accomplishments are of great value to the Invisible Helpers, of whom we shall hear later, as their sphere of usefulness is enormously extended by that ability. 
 
 Even apart from differences of language our mode of speech is exceedingly productive of misunderstandings. The same words often convey most opposite ideas to different minds. If we speak of a "body of water," one person may think we mean a lake of small dimensions, the thoughts of another may be directed to the Great Lakes, and a third person's thoughts may be turned towards the Atlantic or Pacific Ocean. If we speak of a "light," one may think of a gaslight, another of an electric arc-lamp, or if we say "red," one person may think we mean a delicate shade of pink and another gets the idea of crimson. The misunderstandings of what words mean goes even farther, as illustrated in the following. 
-
-[59] 
 
 The writer once opened a reading room in a large city where he lectured, and invited his audience to make use thereof. Among those who availed themselves of the opportunity was a gentleman who had for many years been a veritable "metaphysical tramp," roaming from lecture to lecture, hearing the teachings of everybody and practicing nothing. Like the Athenians on Mars' Hill, he was always looking for something "new," particularly in the line of phenomena, and his mind was in that seething chaotic state which is one of the most prominent symptoms of "mental indigestion." 
 
@@ -471,23 +395,15 @@ Having attended a number of our lectures he knew from the program that: "The lec
 
 In the higher Regions of the Desire World the confusion of tongues gives place to a universal mode of expression which absolutely prevents misunderstandings of our meaning. There each of our thoughts takes a definite form and color perceptible to all, and this thought-symbol emits a certain tone, which is not a word, but it conveys our meaning to the one we address no matter what language we spoke on earth. 
 
-[60] 
-
 To arrive at an understanding of how such a universal language becomes possible and is at once comprehended by all, without preparation, we may take as an illustration the manner in which a musician reads music. A German or a Polish composer may write an opera. Each has his own peculiar terminology and expresses it in his own language. When that opera is to be played by an Italian bandmaster, or by a Spanish or American musician, it need not be translated; the notes and symbols upon the page are a universally understood language of symbols which is intelligible to musicians of no matter what nationality. Similarly with figures, the German counts: ein, zwei, drei; the Frenchman says: un, deux, trois, and in English we use the words: one, two, three, but the figures: 1,2,3, though differently spoken, are intelligible to all and mean the same. There is no possibility of misunderstanding in the cases of either music or figures. Thus it is also with the universal language peculiar to the higher regions of the Desire World and the still more subtle realms in nature, it is intelligible to all, an exact mode of expression. 
 
 Returning to our description of the entities commonly met with in the lower Desire World, we may note that other systems of religion than the Egyptian, already mentioned, has spoken of various classes of beings native to these realms. The Zoroastrian religion, for instance, mentions Seven Amshaspands and the Izzards as having dominion over certain days in the month and certain months in the year. The Christian religion speaks of Seven Spirits before the Throne, which are the same beings the Persians called 
-
-[61] 
 
 Amshaspands. Each of them rules over two months in the year while the seventh: Michael, the highest, is their leader, for he is ambassador from the Sun to the Earth; the others are ambassadors from the planets. The Catholic religion with its abundant occult information takes most notice of these "star-angels" and knows considerable about their influence upon the affairs of the earth. 
 
 The Amshaspands, however, do not inhabit the lower regions of the Desire World but influence the Izzards. According to the old Persian legend these beings are divisible into two groups: one of twenty-eight classes, and the other of three classes. Each of these classes has dominion over, or takes the lead of all the other classes on one certain day of the month. They regulate the weather conditions on that day and work with animal and man in particular. At least the twenty-eight classes do that, the other group of three classes has nothing to do with animals, because they have only twenty-eight pairs of spinal nerves, while human beings have thirty-one. Thus animals are attuned to the lunar month of twenty-eight days, while man is correlated to the solar month of thirty or thirty-one days. The ancient Persians were astronomers but not physiologists; they had no means of knowing the different nervous constitution of animal and man, but they saw clairvoyantly these superphysical beings; they noted and recorded their work with animal and men, and our own anatomical investigations may show us the reason for these divisions of the classes of Izzards recorded in that ancient system of philosophy. 
 
-[62] 
-
 Still another class of beings should be mentioned: those who have entered the Desire World through the gate of death and are now hidden from our physical vision. These so-called "dead" are in fact much more alive than any of us, who are tied to a dense body and subject to all its limitations, who are forced slowly to drag this clog along with us at the rate of a few miles an hour, who must expend such an enormous amount of energy upon propelling that vehicle that we are easily and quickly tired, even when in the best of health, and who are often confined to a bed, sometimes for years, by the indisposition of this heavy mortal coil. But when that is once shed and the freed Spirit can again function in its spiritual body, sickness is an unknown condition, and distance is annihilated, or at least practically so, for though it was necessary for the Saviour to liken the freed Spirit to the wind which blows where it listeth, that simile gives but a poor description of what actually takes place in soul flights. Time is non-existent there, as we shall presently explain, so the writer has never been able to time himself, but has on several occasions timed others when he was in the physical body and they speeding through space upon a certain errand. Distances such as from the Pacific Coast to Europe, the delivery of a short message there and the return to the body has been accomplished in slightly less than one minute. Therefore our assertion, that those whom we call dead are in reality much more alive than we, is well founded in facts. 
-
-[63] 
 
 We spoke of the dense body in which we now live, as a "clog" and a "fetter." It must not be inferred, however, that we sympathize with the attitude of certain people who, when they have learned with what ease soul-flights are accomplished, go about bemoaning the fact that they are now imprisoned. They are constantly thinking of, and longing for, the day when they shall be able to leave this mortal coil behind and fly away in their spiritual body. Such an attitude of mind is decidedly mistaken; the great and wise Beings who are invisible leaders of our evolution have not placed us here to no purpose. Valuable lessons are to be learned in this visible world wherein we dwell, lessons that cannot be learned in any other realm of nature, and the very conditions of density and inertia whereof such people complain, are factors which make it possible to acquire the knowledge this world is designed to give. This fact was so amply illustrated in a recent experience of the writer: 
 
@@ -499,8 +415,6 @@ At this she exclaimed impatiently: "Oh, yes! Of course I attend the classes. I h
 
 The physical body was an anchor to her, and it is that to all of us. Being dense, it is also to a great extent impervious to disturbing influences from which the more subtle spiritual bodies do not shield us. It enables us to bring our ideas to a logical conclusion with far less effort at concentration 
 
-[65] 
-
 than is necessary in that realm where all is in such incessant and turbulent motion. Thus we are gradually developing the faculty of holding our thoughts to a center by existence in this world, and we should value our opportunities here, rather than deplore the limitations which help in one direction more than they fetter in another. In fact, we should never deplore any condition, each has its lesson. If we try to learn what that lesson is and to assimilate the experience which may be extracted therefrom, we are wiser than those who waste time in vain regrets. 
 
 We said there is no time in the Desire World, and the reader will readily understand that such must be the case from the fact, already mentioned, that nothing there is opaque. 
@@ -509,12 +423,11 @@ In this world the rotation of the opaque earth upon its axis is responsible for 
 
 When the occult investigator wishes to study an event in the past history of man, he may most readily call up the picture from the Memory of Nature, but if he desires to fix the time of the incident, he will be obliged to count backwards by the motion of the heavenly bodies. For that purpose he generally uses the measure provided by the Sun's precession: each year the Sun crosses the Earth's equator about the twenty-first of March. Then day and night are of even length, therefore this is called the vernal equinox. But on account of a certain wobbling motion (nutation) of the Earth's axis, the Sun does not cross over at the same place in the zodiac. It reaches the equator a little too early, it precedes, year by year it moves backwards a little. At the time of the birth of Christ, for instance, the vernal equinox was in about seven degrees of the zodiacal sign Aries. During the two thousand years which have intervened between that event and the present time, the Sun has moved backwards about twenty-seven degrees, so that it is now in about ten degrees of the sign Pisces. It moves around the circle of the zodiac in about 25,868 years. The occult investigator may therefore count back the number of signs, or whole circles, which the Sun has preceded between the present day and the time of the event he is investigating. Thus he has by the use of the heavenly time keepers an approximately correct measure of time even though he is in the Desire World, and that is another reason for studying the stellar science. 
 
-THE WORLD OF THOUGHT
+#### <h4 id="the-world-of-thought">THE WORLD OF THOUGHT</h4>
+
 When we have attained the spiritual development necessary consciously to enter the World of Thought and leave the Desire World, which is the realm of light and color, we pass through a condition which the occult investigator calls The Great Silence. 
 
 As previously stated, the higher regions of the Desire World exhibit the marked peculiarity of blending form and sound, but when one passes through the Great Silence, all the world seems to disappear and the Spirit has the feeling of floating in an ocean of intense light, utterly alone, yet absolutely fearless, because imbued with a sense of its impregnable security, no longer subject to form or sound, past or future; all is one eternal NOW. 
-
-[68] 
 
 There seems to be neither pleasure nor pain and yet there is no absence of feeling but it all seems to center in the one idea: "I AM!" The human Ego, stands face to face with itself, as it were, and for the time being all else is shut out. This is the experience of anyone who passes that breach between the Desire World and the World of Thought, whether involuntarily, in the course of an ordinary cyclic pilgrimage of the Spirit, which we shall later elucidate when speaking of the post-mortem existence, or by an act of the will, as in the case of the trained occult investigator; all have the same experience in transition. 
 
@@ -522,10 +435,9 @@ There are two main divisions in the Physical World: the Chemical Region and the 
 
 As we specialize the material of the Physical World and shape it into a dense body, and as we form the force-matter of the Desire World into a desire body, so also do we appropriate a certain amount of mind-stuff from the Region of Concrete Thought; but we, as Spirits, clothe ourselves in spirit-substance from the Region of Abstract Thought and thereby we become individual, separate Egos. 
 
-THE REGION OF CONCRETE THOUGHT 
-The Region of Concrete Thought is neither shadowy nor illusory. It is the acme of reality, and this world which we mistakenly regard as the only verity, is but an evanescent replica of that region. 
+#### <h4 id="the-region-of-concrete-thought">THE REGION OF CONCRETE THOUGHT</h4>
 
-[69] 
+The Region of Concrete Thought is neither shadowy nor illusory. It is the acme of reality, and this world which we mistakenly regard as the only verity, is but an evanescent replica of that region. 
 
 A little reflection will show the reasonableness of this statement and prove our contention that all we see here is really crystallized thought. Our houses, our machinery, our chairs and tables, all that has been made by the hand of man is the embodiment of a thought. As the juices in the soft body of the snail gradually crystallize into the hard and flinty shell which it carries upon its back and which hides it, so everything used in our civilization is a concretion of invisible, intangible mind-stuff. The thought of James Watt in time congealed into a steam engine and revolutionized the world. Edison's thought was condensed into an electric generator which has turned night to day, and had it not been for the thought of Morse and Marconi, the telegraph would not have annihilated distances as it does today. An earthquake may wreck a city and demolish the lighting plant and telegraph station, but the thoughts of Watt, Edison, and Morse remain, and upon the basis of their indestructible ideas new machinery may be constructed and operations resumed. Thus thoughts are more permanent than things. 
 
@@ -535,30 +447,23 @@ Sound from a vacuum cannot be heard in the Physical World, but the harmony which
 
 That "keynote" is a direct manifestation of the Higher Self which uses it to impress and govern the personality it has created. But, alas, part of its life has been infused into the material side of its being, which has thus obtained a certain will of its own and only too often are the two sides of our nature at war. 
 
-[71] 
-
 At last there comes a time when the Spirit is too weary to strive with the recalcitrant flesh; when "the Voice of the Silence" ceases. No matter how much earthly nourishment we may seek to give, it will not avail to sustain a form when this harmonious sound, this "word from heaven" no longer reverberates through the empty void of the celestial archetype. "Man lives not by bread alone," but by the Word, and the last sound-vibration of the "keynote" is the death-knell of the physical body. 
 
 In this world we are compelled to investigate and to study a thing before we know about it, and although the facilities for gaining information are in some respects much greater in the Desire World, a certain amount of investigation is necessary, nevertheless, to acquire knowledge. In the World of Thought, on the contrary, it is different. When we wish to know about any certain thing there, and we turn our attention thereto, then that thing speaks to us, as it were. The sound it emits at once gives us a most luminous comprehension of every phase of its nature. We attain to a realization of its past history; the whole story of its unfoldment is laid bare and we seem to have lived through all of those experiences together with the thing we are investigating. 
 
 Were it not for one enormous difficulty, the story thus obtained would be exceedingly valuable; but all this information, this life-picture, flows in upon us with an enormous rapidity, in a moment, in the twinkling of an eye, so that it has neither beginning nor end, for, as said, in the World of Thought, all is one great now; time does not exist. 
 
-[72] 
-
 Therefore, when we want to use the archetypal information in the Physical World, we must disentangle and arrange it in chronological order with beginning and ending before it becomes intelligible to beings living in a realm where TIME is a prime factor. That rearrangement is a most difficult task as all words are coined with relation to the three dimensions of space and the evanescent unit of time, the fleeting moment, hence much of that information remains unavailable. 
 
 Among the denizens of this Region of Concrete Thought we may note particularly two classes. One is called the Powers of Darkness by Paul, and the mystic investigator of the Western World knows them as Lords of Mind. They were human at the time when the Earth was in a condition of darkness such as worlds-in-the-making go through before they become luminous and reach the firemist-stage. At that time we were in our mineral evolution. That is to say: the human Spirit which has now awakened was encrusted in the ball of mindstuff, which was then the Earth. At that time the present human Spirits were as much asleep as is the life which ensouls our minerals of today, and as we are working with the mineral chemical constituents of the earth, molding them into houses, railways, steamboats, chairs, etc., etc., so those Beings, who are now Lords of Mind, worked with us when we were mineral-like. They have since advanced three steps, through stages similar to that of the Angels and Archangels, before they attained their present position and became creative Intelligences. They are expert builders of mind-stuff, as we are builders of the present mineral substances, and therefore they have given us necessary help to acquire a mind which is the highest development of the human being. 
-
-[73] 
 
 According to the foregoing explanation it seems to be an anomaly when Paul speaks of them as evil and exhorts us to withstand them. The difficulty disappears, however, when we understand that good and evil are but relative qualities. An illustration will make the point clear: Let us suppose that an expert organ builder has constructed a wonderful organ, a masterpiece. Then he has followed his vocation in the proper manner, and is therefore to be commended for the good which he has done. But if he is not satisfied to leave well enough alone, if he refuses to give up his product to the musician who understands how to play upon the instrument, if he intrudes his presence into the concert hall, he is out of place and to be censured as evil. Similarly the Lords of Mind did the greatest possible service to humanity when they helped us to acquire our mind, but many subtle thought influences come from them, and are to be resisted, as Paul very properly emphasizes. 
 
 The other class of beings which must be mentioned are called Archetypal Forces by the Western School of occultism. They direct the energies of the creative archetypes native to this realm. They are a composite class of beings of many different grades of intelligence, and there is one stage in the cyclic journey of the human Spirit when it also labors in, and is part of, that great host of beings. For the human Spirit is also destined to become a great creative Intelligence at some future time, and if there were no school wherein it could gradually learn to create, it would not be able to advance, for nothing in nature is done suddenly. An acorn planted in the soil does not become a majestic oak overnight, but many years of slow, persistent growth are required before it attains to the stature of a giant of the forest. A man does not become an Angel by the mere fact of dying and entering a new world any more than an animal advances to be a man by the same process. But in time all that lives, mounts the ladder of Being from the clod to the God. There is no limitation possible to the Spirit, and so at various stages in its unfoldment the human Spirit works with the other nature forces, according to the stage of intelligence which it has attained. It creates, changes, and remodels the Earth upon which it is to live. Thus, under the great Law of Cause and Effect, which we observe in every realm of nature, it reaps upon earth what it has sown in heaven, and vice versa. It grows slowly but persistently and advances continually. 
 
-THE REGION OF ABSTRACT THOUGHT 
-Various religious systems have been given to humanity at different times, each suited to meet the spiritual needs of the people among whom it was promulgated, and, coming from the same divine source: God; all religions exhibit similar fundamentals of first principles. 
+#### <h4 id="the-region-of-abstract-thought">THE REGION OF ABSTRACT THOUGHT</h4>
 
-[75] 
+Various religious systems have been given to humanity at different times, each suited to meet the spiritual needs of the people among whom it was promulgated, and, coming from the same divine source: God; all religions exhibit similar fundamentals of first principles. 
 
 All systems teach that there was a time when darkness reigned supreme. Everything which we now perceive was then non-existent. Earth, sky, and the heavenly bodies were uncreate, so were the multitudinous forms which live and move upon the various planets. All, all, was yet in a fluidic condition and the Universal Spirit brooded quiescent in limitless Space as the One Existence. 
 
@@ -568,8 +473,6 @@ The Christian Mystic obtains a deeper comprehension when he opens his Bible and 
 
 As he reverently opens his aspiring heart to acquire understanding of those sublime mystical teachings he transcends the form-side of nature, comprising various realms of which we have been speaking, and finds himself "in the spirit," as did the prophets in olden times. He is then in the Region of Abstract Thought and sees the eternal verities which also Paul beheld in this, the Third Heaven. 
 
-[76] 
-
 For those among us who are unable to obtain knowledge save by reasoning upon the matter, however, it will be necessary to examine the fundamental meaning of words used by St. John to clothe his wonderful teachings. It was originally given in the Greek language, a much simpler matter than is commonly supposed, for Greek words have been freely introduced into our modern languages, particularly in scientific terms, and we shall show how this ancient teaching is supported by the latest discoveries of modern science. 
 
 The opening verse of the Gospel of St. John is as follows: "In the beginning was the Word and the Word was with God, and the Word was God." We will examine the words: "beginning," "Word," and "God." We may also note that in the Greek version the concluding sentence reads: "and God was the Word," a difference which makes a great distinction. 
@@ -577,8 +480,6 @@ The opening verse of the Gospel of St. John is as follows: "In the beginning was
 It is an axiomatic truth that "out of nothing, nothing comes," and it has often been asserted by scoffers that the Bible teaches generation "from nothing." We readily agree that translations into the modern languages promulgate this erroneous doctrine, but we have shown in The Rosicrucian Cosmo-Conception (chapter on "The Occult Analysis of Genesis"), that the Hebrew text speaks of an ever-existing essence, as the basis whence all forms, the Earth and the heavenly lights included, were first created, and John also gives the same teaching. 
 
 The Greek word arche, in the opening sentence of the Gospel of St. John has been translated the beginning, and it may be said to have meaning, but it also has other valid interpretations, vastly more significant of the idea John wished to convey. It means: an elementary condition, a chief source, a first principle, primordial matter. 
-
-[77] 
 
 There was a time when science insisted that the elements were immutable, that is to say, that an atom of iron had been an atom of iron since the earth was formed and would so remain to the end of time. The alchemists were sneered at as fanciful dreamers or madmen, but since Professor J. J. Thomson's discovery of the electron, the atomic theory of matter, is no longer tenable. The principle of radio-activity has later vindicated the alchemists. Science and the Bible agree in teaching that all that is has been formed from one homogeneous substance. 
 
@@ -588,39 +489,29 @@ Thus we see that when the opening sentence of St. John's Gospel is properly tran
 
 That is the identical condition which the earlier Greeks called Chaos. A little thought will make it evident that we are not arbitrary in finding fault with the translation of the gospel, for it is self-evident that a word 
 
-[78] 
-
 cannot be the beginning, a thought must precede the word, and a thinker must originate thought before it can be expressed as a word. When properly translated the teaching of John fully embodies that idea, for the Greek term logos means both the reasonable thought (we also say logic) and the word which expresses this (logical) thought. 
 
-1) In the primordial substance was thought, and the thought was with God, And God was the word, 
+1 - In the primordial substance was thought, and the thought was with God, And God was the word, 
 
-2) That (The Word), also was with God in the primal state. 
+2 - That (The Word), also was with God in the primal state. 
 
 Later the divine Word, the Creative Fiat, reverberates through space and segregates the homogeneous virgin substance into separate forms. 
 
-3) Every thing has come into existence because of that prime fact, (The Word of God), and no thing exists apart from that fact. 
+3 - Every thing has come into existence because of that prime fact, (The Word of God), and no thing exists apart from that fact. 
 
-4) In that was Life. 
+4 - In that was Life. 
 
 In the alphabet we have a few elementary sounds from which words may be constructed. They are basic elements of expression, as bricks, iron, and lumber are raw materials of architecture, or as a few notes are component parts of music. 
 
-But a heap of bricks, iron, and lumber, is not a house, neither is a jumbled mass of notes music, nor can we call a haphazard arrangement of alphabetical sounds a word. These raw materials are prime necessities in construction of architecture, music, literature, or poetry, but the contour of the finished product and the purpose is will serve depends upon the 
-
-[79] 
-
-arrangement of the raw materials, which is subject to the constructor's design. Building materials may be formed into prison or palace; notes may be arranged as fanfare or funeral dirge; words may be indicted to inspire passion or peace, all according to the will of the designer. So also the majestic rhythm of the Word of God has wrought the primal substance, arche, into the multitudinous forms which comprise the phenomenal world, according to His will. 
+But a heap of bricks, iron, and lumber, is not a house, neither is a jumbled mass of notes music, nor can we call a haphazard arrangement of alphabetical sounds a word. These raw materials are prime necessities in construction of architecture, music, literature, or poetry, but the contour of the finished product and the purpose is will serve depends upon the arrangement of the raw materials, which is subject to the constructor's design. Building materials may be formed into prison or palace; notes may be arranged as fanfare or funeral dirge; words may be indicted to inspire passion or peace, all according to the will of the designer. So also the majestic rhythm of the Word of God has wrought the primal substance, arche, into the multitudinous forms which comprise the phenomenal world, according to His will. 
 
 Did the reader ever stop to consider the wonderful power of the human word? Coming to us in the sweet accents of love, it may lure us from paths of rectitude to shameful ignominy and wreck our life with sorrow and remorse, or it may spur us on in noblest efforts to acquire glory and honor, here or hereafter. According to the inflection of the voice a word may strike terror into the bravest heart or lull a timid child to peaceful slumber. The word of an agitator may rouse the passions of a mob and impel it to awful bloodshed, as in the French Revolution, where dictatorial mandates of mob-rule killed and exiled at pleasure, or, the strain of "Home, Sweet Home" may cement the setting of a family-circle beyond possibility of rupture. 
 
 Right words are true and therefore free; they are never bound or fettered by time or space; they go to farthest corners of earth, and when the lips that spoke them first have long since moldered in the grave, other voices take up with unwearying enthusiasm their message of life and love, as for instance, the mystical "Come unto me" which has sounded from unnumbered tongues and brought oceans of balm to troubled hearts. 
 
-[80] 
-
 Words of peace have been victorious where war would have meant defeat, and no talent is more to be desired than ability always to say the right word at the auspicious time. 
 
 Considering thus the immense power and potency of the human word, we may perhaps dimly apprehend the potential magnitude of the Word of God, the Creative Fiat, when, as a mighty dynamic force it first reverberated through space and commenced to form primordial matter into worlds, as sound from a violin bow molds sand into geometrical figures. Moreover, the Word of God still sounds to sustain the marching orbs and impel them onwards in their circle paths; the Creative Word continues to produce forms of gradually increasing efficiency, as media expressing life and consciousness. The harmonious enunciation of consecutive syllables in the Divine Creative Word mark successive stages in the evolution of the world and man. When the last syllable has been spoken and the complete word has sounded, we shall have reached perfection as human beings. Then time will be at an end, and with the last vibration of the Word of God, the worlds will be resolved into their original elements. Our life will then be "hid with Christ in God," until the Cosmic Night, Chaos, is over, and we wake to do "greater things" in a "new heaven and a new earth." 
-
-[81] 
 
 According to the general idea Chaos and Cosmos are superlative antitheses of each other. Chaos being regarded as a past condition of confusion and disorder which has long since been entirely superseded by the cosmic order which now prevails. 
 
@@ -630,8 +521,6 @@ We speak of thoughts as being "conceived by the mind," but as both father and mo
 
 Thus we see that ideas are embryonic thoughts, nuclei of spirit-substance from the Region of Abstract Thought. Improperly conceived in a diseased mind they become vagaries and delusions, but when gestated in a sound mind and formed into rational thoughts they are the basis of all the material, moral, and mental progress. The closer our touch with Chaos, the better will be our Cosmos, for in that realm of abstract realities truth is not obscured by matter, it is self-evident. 
 
-[82] 
-
 Pilate asked "What is Truth?" but no answer is recorded. We are incapable of cognizing truth in the abstract while we live in the phenomenal world, for the inherent nature of matter is illusion and delusion, and we are constantly making allowances and corrections whether we are conscious of the fact or not. The sunbeam which proceeds for 90 millions of miles in a straight line is refracted or bent as soon as it strikes our dense atmosphere, and according to the angle of its refraction, it appears to have one color or another. The straightest stick appears crooked when partly immersed in water, and the truths which are so self-evident in the higher worlds are likewise obscured, refracted or twisted out of all semblance under the illusory conditions of this material world. 
 
 "The truth shall set you free," said Christ, and the more we turn our aspirations from material acquisitiveness and seek to lay up treasure above, the more we aim to rise, the oftener we "get in the spirit," the more readily we "shall know truth" and reach liberation from the fetter of flesh which binds us to a limited environment, and attain to a sphere of greater usefulness. 
@@ -640,20 +529,16 @@ Study of philosophy and science has a tendency to further perception of truth, a
 
 In this place we are dealing with worlds in particular, and will therefore defer comment upon the remainder of the first five verse of St. John's Gospel: 
 
-
-And Life became Light in man, 
-5) and Light shines in Darkness. 
+And Life became Light in man,  
+5 - and Light shines in Darkness.  
 
 We have now seen that the Earth is composed of three worlds which interpenetrate one another so that it is perfectly true when Christ said that "heaven is within you" or, as the translation should rather have been, among you. We have also seen that of these three realms two are subdivided. It has also been explained that each division serves a great purpose in the unfoldment of various forms of life which dwell in each of these worlds, and we may note in conclusion, that the lower regions of the Desire World constitute what the Catholic religion calls Purgatory, a place where the evil of a past life is transmuted to good, usable by the Spirit as conscience in later lives. The higher regions of the Desire World are the First Heaven where all the good a man has done is assimilated by the Spirit as soul power. The Region of Concrete Thought is the Second Heaven, where, as already said, the Spirit prepares its future environment on Earth, and the Region of Abstract Thought is the Third Heaven, but as Paul said, it is scarcely lawful to speak about that. 
 
 Some will ask: Is there then no hell? No! The Mercy of God tends as greatly towards the principle of good as the inhumanity of man towards cruelty, so that he would consign his brother men to flames of hell during eternity for the puerile mistakes committed during a few years, or perhaps for a slight difference in belief. The writer has heard of a minister who wished to impress his "flock" with the reality of an eternity of hell flames, and to demonstrate the fallacy of a heretical notion entertained by some of his parishioners: that when sinners go to hell they burn to ashes and that is the end. 
 
-He took with him an alcohol lamp and some asbestos into the pulpit and told his audience that God would burn their souls into a substance resembling asbestos. He showed them that though the asbestos were heated red hot it did not decompose into ashes. Fortunately, the day of the hell preacher has gone by, and if we believe the Bible which says that "in God we live and move and have our being," we can readily understand that 
+He took with him an alcohol lamp and some asbestos into the pulpit and told his audience that God would burn their souls into a substance resembling asbestos. He showed them that though the asbestos were heated red hot it did not decompose into ashes. Fortunately, the day of the hell preacher has gone by, and if we believe the Bible which says that "in God we live and move and have our being," we can readily understand that a lost soul would be an impossibility, for were one single soul (Spirit) lost, then logically a part of God Himself would be lost. No matter what our color, our race, or our creed, we are all equally the children of God and in our various ways we shall obtain satisfaction. Let us therefore rather look to Christ and forget creed. 
 
-[85] 
-
-A lost soul would be an impossibility, for were one single soul (Spirit) lost, then logically a part of God Himself would be lost. No matter what our color, our race, or our creed, we are all equally the children of God and in our various ways we shall obtain satisfaction. Let us therefore rather look to Christ and forget creed. 
-
+<pre id="creed-or-christ">
 CREED OR CHRIST?
 
 No man loves God who hates his kind; 
@@ -681,9 +566,6 @@ To save the world, nailed to the tree?
 Then why divisions here at all? 
 Christ's love enfolds both you and me. 
 
-[86] 
-
-
 His pure sweet love is not confined 
 By creeds which segregate and raise a wall, 
 His love enfolds, embraces human kind, 
@@ -698,29 +580,24 @@ There`s but one thing the world has need to know;
 There`s but one balm for all our human woe. 
 There`s but one way that leads to heaven above--
 That way is human sympathy and love. 
+</pre>
 
-[87] 
+### <h3 id="chapter-4">CHAPTER IV: THE CONSTITUTION OF MAN</h3>
 
-CHAPTER IV
+#### <h4 id="vital-body-desire-body-mind">VITAL BODY - DESIRE BODY - MIND</h4>
 
-THE CONSTITUTION OF MAN 
-
-VITAL BODY--DESIRE BODY--MIND 
 Our chapter head, "The Constitution of Man," may surprise a reader who has not previously studied the Mystery Teachings, or he may imagine that we intend to give an anatomical dissertation, but such is not our intention. We have spoken of the Earth upon which we live as being composed of several invisible realms in addition to the world we perceive by means of our senses. We have also spoken of man as being correlated to these various divisions in nature, and a little thought upon the subject will quickly convince us that in order to function upon the various planes of existence described, it is necessary that a man should have a body composed of their substance, or at least have specialized for his or her own use, some of the material of each of these worlds. 
 
 We have said that finer matter, called desire-stuff and mind-stuff, permeates our atmosphere and the solid Earth, even as blood percolates through all parts of our flesh. But that is not a sufficient explanation to account for all facts of life. If that were all, then minerals, which are interpenetrated by the World of Thought and the World of Desire, would have thoughts and desires as well as man. This is not the case, so something more than mere interpenetration must be requisite to acquire the faculties of thought and feeling. 
-
-[88] 
 
 We know that in order to function in this world, to live as a physical being among other like beings, we must have a physical body all our own, built of the chemical constituents of this visible world. When we lose it at death, it profits us nothing that the world is full of just the very chemicals needed to build such a body. We cannot then specialize them, and therefore we are invisible to all others. Similarly, if we did not possess a special body made of ether, we should be unable to grow and to propagate. That is the case with the mineral. Had we no separate individual desire body, we should be unable to feel desires and emotions, there would be no incentive to move from one place to another. We should then be stationary as plants, and did we not possess a mind, we should be incapable of thought, and act upon impulse and instinct as animals do. 
 
 Some one may of course object to this last statement, and contend that animals do think. So far as our domesticated animals are concerned that is partially true, but it is not quite in the same way that we think and reason. The difference may perhaps best be understood if we take an illustration from the electrical field. When an electric current of high voltage is passed through a coiled copper wire, and another wire is placed in the center of the coils, that wire will become charged with electricity of a lower voltage; so also the animal, when brought within the sphere of human thoughts, evolves a mental activity of a lower order. 
 
-[89] 
-
 Paul, in his writings, also mentions the Natural Body and the Spiritual Body while the man himself is a Spirit inhabiting those vehicles. We will briefly note the constitution of the various bodies of man invisible to the physical sight but as objective to spiritual sight as the dense body to ordinary vision. 
 
-THE VITAL BODY
+#### <h4 id="the-vital-body">THE VITAL BODY</h4>
+
 That body of ours which is composed of ether is called the Vital Body in Western Mystery Schools, for, as we have already seen, ether is the avenue of ingress for vital force from the Sun and the field of agencies in nature which promote such vital activities as assimilation, growth, and propagation. 
 
 This vehicle is an exact counterpart of our visible body, molecule for molecule, and organ for organ, with one exception, which we shall note later. But it is slightly larger, extending about one and one-half inches beyond the periphery of our dense vehicle. 
@@ -735,8 +612,6 @@ The solar, stellar, and lunar rays are all three-colored, and in the lunar which
 
 The various kingdoms absorb this life-force differently, according to their constitution. Animals have only 28 pairs of spinal nerves. They are keyed to the lunar month of 28 days and therefore dependent upon a Group Spirit for an infusion of stellar rays necessary to produce consciousness. They are altogether incapable of absorbing the direct ray of the Sun. 
 
-[91] 
-
 Man is in a transition stage, he has 31 pairs of spinal nerves which keys him to the solar month, but the nerves in the so-called cauda-equina (literally, horse-tail) at the end of our spinal cord are still too undeveloped to act as avenues for the spiritual ray of the Sun. In proportion as we draw our creative force upward by spiritual thought we develop these nerves and awaken dormant faculties of the Spirit. But it is dangerous to attempt that development except under guidance of a qualified teacher, and the reader is earnestly warned not to use any method published in books, nor sold, for their practice usually leads to insanity. The safe method is never sold for money or any earthly consideration however large or small; it is always freely given as a reward of merit. "Ask and ye shall receive, seek and ye shall find, knock and it shall be opened," said the Christ. If our life is a prayer for illumination, the search will not be uncertain, nor the knock without response. 
 
 When solar energy has been transmuted in the spleen it traverses the whole nervous system of the body, glowing with a most beautiful color of a delicate rosy hue. It answers the same purpose as electricity in a telegraph system. We may string wires between cities, erect telegraph stations, install receivers and transmitters. We may even have operators ready at the keys, but until electric fluid is turned into our wires, the telegraph keys will refuse to click. 
@@ -747,8 +622,6 @@ When we are in health, we specialize solar energy in such great quantities that 
 
 It is a curious and most astounding sight when one first observes how, from exposed parts of the body such as hands and face, there suddenly commences to flow a stream of stars, cubes, pyramids, and a variety of other geometrical forms. The writer has more than once rubbed his eyes when he first perceived the phenomenon, for it seemed that he must be suffering from hallucinations. The forms observed are chemical atoms, however, which have served their purpose in the body and are expelled through the pores. 
 
-[93] 
-
 When one has eaten a meal, vital fluid is consumed by the body in great quantities, for it is the cement whereby nature's forces build our food into the body. Therefore the radiations are weakest during the period of digestion. If the meal has been heavy, the outflow is very perceptibly diminished, and does not then cleanse our body as thoroughly as when the food has been digested, nor are the radiations as potent in keeping out inimical germs. Therefore one is most liable to catch cold or other diseases by overeating. 
 
 During ill health the vital body specializes but little solar energy. Then, for a time, the visible body seems to feed upon the vital body, as it were, so that the vehicle becomes more transparent and attenuated at the same rate as the visible body exhibits a state of emaciation. The cleansing odic radiations are almost entirely absent during sickness, therefore complications set in easily. 
@@ -757,29 +630,23 @@ Though science has not directly observed this vital body of man, it has upon sev
 
 We said in the beginning of this description that the vital is an exact counterpart of the dense body with one exception: it is of the opposite sex, or perhaps we should rather say polarity. As the vital body nourishes the dense vehicle, we may readily understand that blood is its highest visible expression, and also that a positively polarized vital body would generate more blood than a negative one. Woman, who is physically negative, has a positive vital body, hence she generates a surplus of blood which is relieved by the periodic flow. She is also more prone to tears, which are white bleeding, than man, whose negative vital body does not generate more blood than he can comfortably take care of. Therefore it is not necessary for him to have the outlets which relieve excess of blood in woman. 
 
-[95] 
+#### <h4 id="the-desire-body">THE DESIRE BODY</h4>
 
-THE DESIRE BODY
 In addition to the visible body and the vital body we also have a body made of desire stuff from which we form our feelings and emotions. This vehicle also impels us to seek sense gratification. But while the two instruments of which we have already spoken are well organized, the desire body appears to spiritual sight as an ovoid cloud extending from sixteen to twenty inches beyond the physical body. It is above the head and below the feet so that our dense body sits in the center of this egg-shaped cloud as the yolk is in the center of an egg. 
 
 The reason for the rudimentary state of this vehicle is that it has been added to the human constitution more recently than the bodies previously mentioned. Evolution of form may be likened to the manner in which the juices in the snail first condense into flesh and later become a hard shell. When our present visible body first germinated in the Spirit, it was a thought-form, but gradually it has become denser and more concrete until it is now a chemical crystallization. The vital body was next emanated by the Spirit as a thought-form, and is in the third stage of concretion which is etheric. The desire body is a still later acquisition. That also was a thought-form at its inception, but has now condensed to desire-stuff, and the mind, which we have only recently received, is still but a mere cloudy thought-form. 
 
 Arms and limbs, ears and eyes are not necessary to use the desire body, for it can glide through space more swiftly than wind without such means of locomotion as we require in this visible world. 
 
-[96] 
-
 When viewed by spiritual sight, it appears that there are in this desire body a number of whirling vortices. We have already explained that it is a characteristic of desire-stuff to be in constant motion, and from the main vortex in the region of the liver, there is a constant outwelling flow which radiates toward the periphery of this egg-shaped body and returns to the center through a number of other vortices. The desire body exhibits all the colors and shades which we know and a vast number of others which are indescribable in earthly language. Those colors vary in every person according to his or her characteristics and temperament, and they also vary from moment to moment as passing moods, fancies, or emotions are experienced by him. There is, however, in each one a certain basic color dependent upon the ruling star at the moment of his or her birth. The man in whose horoscope Mars is peculiarly strong usually has a crimson tint in his aura; where Jupiter is the strongest planet the prevailing tint seems to be a bluish tone; and so on with the other planets. 
 
 There was a time in the Earth's past history when incrustation was not yet complete, and human beings of that time lived upon islands here and there, amid boiling seas. They had not yet evolved eyes or ears, but a little organ: the pineal gland, which anatomists have called the Third Eye, protruded through the back of the head and was a localized organ of feeling. It warned the man when he came too near a volcanic crater and thus enabled him to escape destruction. Since then the cerebral hemispheres have covered the pineal gland, and instead of a single organ of feeling, the whole body inside and out is sensitive to impacts, which of course is a much higher state of development. 
 
-[97] 
-
 In the desire body every particle is sensitive to vibrations similar to those which we call sight, sounds, and feelings, and every particle is in incessant motion, rapidly swirling about so that in the same instant it may be at the top and bottom of the desire body and impart at all points to all the other particles a sensation of that which it has experienced. Thus every particle of desire-stuff in this vehicle of ours will instantly feel any sensation experienced by any single particle. Therefore the desire body is of an exceedingly sensitive nature, capable of most intense feelings and emotions. 
 
-THE MIND
-This is the latest acquisition of the human Spirit, and in most people who have not yet accustomed themselves to orderly, consecutive thought, it is a mere inchoate cloud disposed particularly in the region of the head. When looking at a person clairvoyantly there appears to be an empty space in the center of the forehead just above and between the eyebrows. It looks like the blue part of a gas flame. That is mind-stuff which veils the human Spirit, or Ego, and the writer has been told that not even the most gifted seer can penetrate that veil, said to have been spoken of in ancient Egypt as "The Veil of Isis." None may lift it and live, for behind that veil is the Holy of Holies, the temple of our body, where the Spirit is to be left secure from all intrusion. 
+#### <h4 id="the-mind">THE MIND</h4>
 
-[98] 
+This is the latest acquisition of the human Spirit, and in most people who have not yet accustomed themselves to orderly, consecutive thought, it is a mere inchoate cloud disposed particularly in the region of the head. When looking at a person clairvoyantly there appears to be an empty space in the center of the forehead just above and between the eyebrows. It looks like the blue part of a gas flame. That is mind-stuff which veils the human Spirit, or Ego, and the writer has been told that not even the most gifted seer can penetrate that veil, said to have been spoken of in ancient Egypt as "The Veil of Isis." None may lift it and live, for behind that veil is the Holy of Holies, the temple of our body, where the Spirit is to be left secure from all intrusion. 
 
 To those who have not previously studied the deeper philosophies the question may occur: But why all these divisions? Even the Bible speaks only of soul and body, for most people believe soul and Spirit to be synonymous terms. We can only answer that this division is not arbitrary but necessary, and founded upon facts in nature. Neither is it correct to regard the soul and the Spirit as synonymous. Paul himself speaks of the Natural Body which is composed of physical substances: solids, liquids, gases, and ethers; he mentions a Spiritual Body, the vehicle of the Spirit, composed of the mind and desire body, and the Spirit Itself, which is called Ego in Latin or "I" in English. 
 
@@ -787,13 +654,10 @@ That term "I" is an application which can be made only by the human Spirit of it
 
 Thus we see that the constitution of man is more complex than appears upon the surface, and we will now proceed to note the effect upon this multiplex being of various conditions of life. 
 
-[99] 
+### <h3 id="chapter-5">CHAPTER V: LIFE AND DEATH</h3>
 
-CHAPTER V
+#### <h4 id="invisible-helpers-and-mediums">INVISIBLE HELPERS AND MEDIUMS</h4>
 
-LIFE AND DEATH 
-
-INVISIBLE HELPERS AND MEDIUMS
 There are two classes of people in the world. In one class the vital and dense bodies are so firmly cemented that the ethers cannot be extracted under any circumstances but remain with the dense body at all times and under all conditions from birth to death. Those people are insensible to any supersensuous sights or sounds. They are therefore usually exceedingly skeptical, and believe nothing exists but what they can see. 
 
 There is another class of people in whom the connection between the dense and the vital bodies is more or less loose, so that the ether of their vital bodies vibrates at a higher rate than in the first class mentioned. These people are therefore more or less sensitive to the spiritual world. 
@@ -814,40 +678,23 @@ There are times, of course, when dreams are prophetic and come true, but such dr
 
 It also happens that the Spirit goes upon a soul flight and omits to perform its part of the work of restoration; then the body will not be fit to re-enter in the morning, so it sleeps on. The Spirit may thus roam afield for a number of days, or even weeks, before it again enters its physical body and assumes the normal routine of alternating waking and sleeping. This condition is called trance, and the Spirit may remember upon its return what it has seen and heard in the super-physical realm, or it may have forgotten, according to the stage of its development and the depth of the trance condition. When the trance is very light, the Spirit is usually present in the room where its body lies all the time, and upon its return to the body it will be able to recount to relatives all they said and did while its body lay unconscious. Where the trance is deeper, the returning Spirit will usually be unconscious of what happened around its body, but may recount experiences from the invisible world. 
 
-[103] 
-
 A few years ago a little girl by the name of Florence Bennett in Kankakee, Illinois, fell into such a trance. She returned to the body every few days, but stayed within only a few hours each time, the whole trance lasting three weeks, more or less. During the returns to her body she told relatives that in her absence she seemed to be in a place inhabited by all the people who had died. But she stated that none of them spoke about dying and no one among them seemed to realize that they were dead. Among those she had seen was a locomotive engineer who had been accidently killed. His body was mangled in the accident which caused death. The little girl perceived him there walking about minus arms, and with lesions upon his head, all of which is in line with facts usually seen by mystic investigators. Persons who have been hurt in accidents go about thus, until they learn that a mere wish to have their body made whole will supply a new arm or limb; for desire-stuff is most quickly and readily molded by thought. 
 
-DEATH
-After a longer or shorter time there comes in each life a point when the experiences which a Spirit can gain from its present environment have been exhausted, and life terminates in death. Death may be sudden and seemingly unexpected, as for instance by earthquake, upon the battle-field, or by accident, as we call it, though in reality death is never accidental or unforeseen by Higher Powers. Not a sparrow falls to the ground without divine 
+#### <h4 id="death">DEATH</h4>
 
-[104] 
-
-will. There are along life's path partings of the way, as it were; on one side the main line of life continues onward, the other path leads into what we might call a blind alley. If the man takes the latter path, it soon ends in death. We are here in life for the sake of gaining experience and each life has a certain harvest to reap. If we order our life in such a manner that we gain the knowledge it is intended we should acquire, we continue in life, and opportunities of different kinds constantly come our way. But if we neglect them, and the life goes into paths which are not congruous to our individual development, it would be a waste of time to let us stay in such an environment. Therefore the great and wise Beings who are behind the scene of evolution, terminate our life, that we may have a fresh start in a different sphere of influence. The Law of Conservation of Energy is not confined to the Physical World, but operates in the spiritual realms also. There is nothing in life that has not its purpose. We do wrong to rail against circumstances, no matter how disagreeable. We should rather endeavor to learn the lessons which are contained therein, that we may live a long and useful life. Some one may object and say: "You are inconsistent in your teachings. You say there is really no death; that we go into a brighter existence, and that we have to learn other lessons there in a different sphere of usefulness! Why then aim to live a long life?" 
-
-[105] 
+After a longer or shorter time there comes in each life a point when the experiences which a Spirit can gain from its present environment have been exhausted, and life terminates in death. Death may be sudden and seemingly unexpected, as for instance by earthquake, upon the battle-field, or by accident, as we call it, though in reality death is never accidental or unforeseen by Higher Powers. Not a sparrow falls to the ground without divine will. There are along life's path partings of the way, as it were; on one side the main line of life continues onward, the other path leads into what we might call a blind alley. If the man takes the latter path, it soon ends in death. We are here in life for the sake of gaining experience and each life has a certain harvest to reap. If we order our life in such a manner that we gain the knowledge it is intended we should acquire, we continue in life, and opportunities of different kinds constantly come our way. But if we neglect them, and the life goes into paths which are not congruous to our individual development, it would be a waste of time to let us stay in such an environment. Therefore the great and wise Beings who are behind the scene of evolution, terminate our life, that we may have a fresh start in a different sphere of influence. The Law of Conservation of Energy is not confined to the Physical World, but operates in the spiritual realms also. There is nothing in life that has not its purpose. We do wrong to rail against circumstances, no matter how disagreeable. We should rather endeavor to learn the lessons which are contained therein, that we may live a long and useful life. Some one may object and say: "You are inconsistent in your teachings. You say there is really no death; that we go into a brighter existence, and that we have to learn other lessons there in a different sphere of usefulness! Why then aim to live a long life?" 
 
 It is very true that we make these claims, and they are perfectly consistent with the other assertions just mentioned. However, there are lessons to be learned here which cannot be learned in the other worlds, and we have to bring up this physical body through the useless years of childhood, through hot and impulsive youth, to the ripeness of manhood or womanhood, before it becomes of true spiritual use. The longer we live after maturity has been attained, when we have commenced to look upon the serious side of life and started truly to learn lessons which make for soul-growth, the more experience we shall gather and the richer our harvest will be. Then, in a later existence, we shall be much more advanced and capable of taking up tasks that would be impossible with less length of life and breadth of activity. Besides, to die is hard for the man in the prime of life with a wife and growing family whom he loves, with ambitions of greatness unfulfilled, with hosts of friends about him, and with interests all centered upon the material plane of existence. It is sad for the woman whose heart is bound up in home and the little ones she has reared to leave them, perhaps without anyone to care for them; to know that they have to fight their way alone through the early years when tender care is needed and perhaps to see those little ones abused, and she unable to lift a hand, though her heart may bleed as freely as it would in Earth life. All these things are sad, and they bind the spirit to earth for a much longer time than ordinarily; they hinder it from reaping the experiences it should reap upon the other side of death, and they make it desirable, along with other reasons already mentioned, to live a long life before passing onwards. 
 
-[106] 
-
 The difference between those who pass out at a ripe old age and one who leaves this Earth in the prime of life may be illustrated by the manner in which the seed clings to a fruit in an unripe state. A great deal of force is necessary to tear the stone from a green peach; it has such a tenacious hold upon the fruit that shreds of pulp adhere to it when forcibly removed. So also the Spirit clings to the flesh in middle life and a certain part of its material interest remains and binds it to Earth after death. On the other hand, when a life has been lived to the full, when the spirit has had time to realize its ambitions or to find out their futility, when the duties of life has been misspent and the pangs of conscience have worked upon the man, and shown him his mistakes; when, in fact, the Spirit has learned the lessons of life, as it must have to come to old age, then it may be likened to the seed of the ripe fruit which falls out clean, without a vestige of flesh clinging thereto, at the moment the encasing pulp is opened. Therefore we say, as before, that though there is a brighter existence in store for those who have lived well, it is nevertheless best to live a long life and to live it to the fullest extent possible. 
-
-[107] 
 
 We also maintain that no matter what may be the circumstances of a man's death, it is not accidental; it has either been brought about by his own neglect to embrace opportunities of growth or else life has been lived to the ultimate possible. There is one exception to that rule, and that is due to man's exercise of his divine prerogative of interference. If we lived according to schedule, if we all assimilated the experiences designed for our growth by the Creative Powers, we should live to the ultimate length, but we ourselves usually shorten our lives by not taking advantage of opportunities. It also happens that other men may shorten our lives and cut them off as suddenly as the so-called accident whereby the divine rulers terminate our life here. In other words, murder, or fatal accidents brought about by human carelessness are in reality the only termination to life not planned by invisible leaders of humanity. No one is ever compelled to do murder or other evil, or there could not come to them a just retribution for their acts. The Christ said that evil must come but woe unto him by whom it cometh, and to harmonize that with the law of divine justice, "as a man soweth, so shall he also reap," there must at least be absolute free will in respect to evil acts. 
 
 There are also cases where a person lives such a full and good life of such vast benefit to humanity and to himself that his days are lengthened beyond the ultimate, as they are shortened by neglect, but such cases are of course too few to allow of their being dwelt upon at length. 
 
-Where death is not sudden as in the case of accidents, but occurs at home after an illness, quietly and peacefully, dying persons usually experience a falling upon them as of a pall of great darkness before 
-
-[108] 
-
-termination of life. Many pass out from the body under that condition and do not see the light again until they have entered the superphysical realms. There are many other cases, however, where the darkness lifts before the final release from the body. Then the dying person views both worlds at once, and is cognizant of the presence of both dead and living friends. Under such circumstances it very often happens that a mother sees some of her children who have gone before, and she will exclaim joyously: "Oh, there is Johnny standing at the foot of the bed: my, but hasn't he grown!" The living relatives may feel shocked and uneasy, thinking the mother is suffering from hallucinations, while in reality she is more clear-sighted than they. She perceives those who have passed beyond the veil, who have come to greet and assist her to find herself at home in the new world she is entering. 
+Where death is not sudden as in the case of accidents, but occurs at home after an illness, quietly and peacefully, dying persons usually experience a falling upon them as of a pall of great darkness before termination of life. Many pass out from the body under that condition and do not see the light again until they have entered the superphysical realms. There are many other cases, however, where the darkness lifts before the final release from the body. Then the dying person views both worlds at once, and is cognizant of the presence of both dead and living friends. Under such circumstances it very often happens that a mother sees some of her children who have gone before, and she will exclaim joyously: "Oh, there is Johnny standing at the foot of the bed: my, but hasn't he grown!" The living relatives may feel shocked and uneasy, thinking the mother is suffering from hallucinations, while in reality she is more clear-sighted than they. She perceives those who have passed beyond the veil, who have come to greet and assist her to find herself at home in the new world she is entering. 
 
 Each human being is an individual, separate and apart from all others, and as experiences in the life of each differ from those of all others in the interval from the cradle to the grave, so we may also reasonably infer that the experiences of each Spirit when it passes through the gates of birth and death. We print what purports to be a spirit message communicated by the late professor James of Harvard at the Boston Spirit Temple, and in which he describes sensations which he felt when passing through the gate of death. We do not vouch for its authenticity as we (the writer) have not investigated the matter personally. 
-
-[109] 
 
 Professor James had promised to communicate after death with his friends in this life, and the whole world of psychic research was and still is on watch for a word from him. Several mediums have claimed that Professor James has communicated through them, but the most remarkable are those given through the Boston Spirit temple as follows: 
 
@@ -865,33 +712,25 @@ One of the saddest sights witnessed by the seer at a death-bed is the tortures t
 
 Probably there is no form of torture more commonly inflicted upon the dying than that which is caused by administering stimulants. Such potions have the effect of drawing a departing Spirit into its body with the force of a catapult, to remain and to suffer for some time longer. Investigators of conditions beyond have heard many complaints of such treatment. When it is seen that death must inevitably ensue, let not selfish desire to keep a departing Spirit a little longer prompt us to inflict such tortures upon them. The death chamber should be a place of the utmost quiet, a place of peace and of prayer, for at that time, and for three and one-half days after the last breath, the Spirit is passing through a Gethsemane and needs all the assistance that can be given. The value of the life that has just been passed depends greatly upon conditions which then prevail about the body; yes, even the conditions of its future life are influenced by our attitude during that time, so that if ever we were our brother's keeper in life, we are a thousand times more so at death. 
 
-[112] 
-
 Post-mortem examinations, embalming, and cremation during the period mentioned, not only disturb the passing Spirit mentally, but are even productive of a certain amount of pain, there still being a slight connection with the discarded vehicle. If sanitary laws require us to prevent decomposition while thus keeping the body for cremation, it may be packed in ice till the three and one-half days have passed. After that time the Spirit will not suffer, no matter what happens to the body. 
 
-THE PANORAMA OF A PAST LIFE
+#### <h4 id="the-panorama-of-a-past-life">THE PANORAMA OF A PAST LIFE</h4>
+
 No matter how long we may keep the Spirit from passing out, however, at last there will come a time when no stimulant can hold it and the last breath is drawn. Then the silver cord of which the Bible speaks, and which holds the higher and the lower vehicles together, snaps in the heart and causes that organ to stop. That rupture releases the vital body, and it, with the desire body and mind, floats above the visible body for from one to three and one-half days, while the Spirit is engaged in reviewing the past life, an exceedingly important part of its post-mortem experience. Upon that review depends its whole existence from death to a new birth. 
 
 The question may arise in the student's mind: "How can we review our past life from the cradle to the grave, when we do not even remember what we did a month ago? To form a proper basis for our future life, this record ought to be very accurate, but even the best memory is faulty." When we understand the difference between the conscious and subconscious memory and the manner in which the latter operates, the difficulty vanishes. This difference and the manner in which the subconscious memory keeps an accurate record of our life experiences may be best understood by an illustration, as follows: When we go into a field and view the surrounding landscape, vibrations in the ether carry to us a picture of everything within the range of our vision. It is as sad as it is true, however, that "we have eyes and see not," as the Saviour said. These vibrations impinge upon the retina of our eyes, even to the very smallest details, but they usually do not penetrate to our consciousness, and therefore are not remembered. Even the most powerful impressions fade in the course of time, so that we cannot call them back at will when they are stored in our conscious memory. 
 
 When a photographer goes afield with his camera, the results which he obtains are different. The ether vibrations emanating from all things upon which his camera is focused, transmit to the sensitive plate an impression of the landscape, true to the minutest detail; and, mark this well, this true and accurate picture is in no wise dependent upon whether the photographer is observant or not. It will remain upon the plate and may be reproduced under proper conditions. Such is the subconscious memory, and it is generated automatically by each of us during every moment of time, independently of our volition, in the following manner. 
 
-[114] 
-
 From the first breath which we draw after birth to our last dying gasp we inspire air which is charged with pictures of our surroundings, and the same ether which carries that picture to the retina of our eye is inhaled into our lungs where it enters the blood. Thus it reaches the heart in due time. In the left ventricle of that organ, near the apex, there is one little atom which is particularly sensitized and which remains in the body all through life. It differs in this respect from all other atoms which come and go, for it is the particular property of God,and of a certain Spirit. This atom may be called the book of the Recording Angel, for as the blood passes through the heart, cycle after cycle, the pictures of our good and evil acts are inscribed thereon to the minutest detail. This record may be called the subconscious memory. It forms the basis of our future life when reproduced as a panorama just subsequent to death. By removal of the seed atom--which corresponds to the sensitized plate in a camera--the reflecting ether of the vital body serves as a focus, and as the life unrolls slowly, backwards, from death to birth the pictures thereof are etched into the desire body, which will be our vehicle during our sojourn in Purgatory and the First Heaven where evil is eradicated and good assimilated, so that in a future life the former may serve as conscience to withhold the man from repeating mistakes of the past, and the latter will spur him to greater good. 
 
-A phenomenon similar to the panorama of life usually takes place where a person is drowning. People who have been resuscitated speak of having seen their whole life in a flash. That is because under such conditions the vital 
-
-[115] 
-
-body also leaves the dense body. Of course there is no rupture of the silver cord, or life could not be restored. Unconsciousness follows quickly in drowning, while in the usual post-mortem review the consciousness continues until the vital body collapses in the same manner that it does when we go to sleep. Then consciousness ceases for a while and the panorama is terminated. Therefore also the time occupied by the panorama varies with different persons, according to whether the vital body was strong and healthy, or had become thin and emaciated by protracted illness. The longer the time spent in review, and the more quiet and peaceful the surroundings, the deeper will be the etching which is made in the desire body. As already said, that has a most important and far-reaching effect, for then the sufferings which the Spirit will realize in Purgatory on account of bad habits and misdeeds will be much keener than if there is only a slight impression, and in a future life the still small voice of conscience will warn much more insistently against mistakes which caused sufferings in the past. 
+A phenomenon similar to the panorama of life usually takes place where a person is drowning. People who have been resuscitated speak of having seen their whole life in a flash. That is because under such conditions the vital body also leaves the dense body. Of course there is no rupture of the silver cord, or life could not be restored. Unconsciousness follows quickly in drowning, while in the usual post-mortem review the consciousness continues until the vital body collapses in the same manner that it does when we go to sleep. Then consciousness ceases for a while and the panorama is terminated. Therefore also the time occupied by the panorama varies with different persons, according to whether the vital body was strong and healthy, or had become thin and emaciated by protracted illness. The longer the time spent in review, and the more quiet and peaceful the surroundings, the deeper will be the etching which is made in the desire body. As already said, that has a most important and far-reaching effect, for then the sufferings which the Spirit will realize in Purgatory on account of bad habits and misdeeds will be much keener than if there is only a slight impression, and in a future life the still small voice of conscience will warn much more insistently against mistakes which caused sufferings in the past. 
 
 When conditions are such at the time of death that the Spirit is disturbed by outside conditions, as for instance the din and turmoil of a battle, the harrowing conditions of an accident, or the hysterical wailings of relatives, the distraction prevents it from realizing an appropriate depth in the etching upon the desire body. Consequently its post-mortem existence becomes vague and insipid; the Spirit does not harvest the fruits of experience as it should have done had it passed out of the body in peace and under normal conditions. It would therefore lack incentive to do good in a future life, and miss the warning against evil which a deep etching of the panorama of life would have given. Thus its growth would be retarded in a very marked degree, but the beneficent Powers in charge of evolution take certain steps to compensate for our ignorant treatment of the dying and other untoward circumstances mentioned. What these steps are, we shall discuss when considering the life of children in heaven; for the present let it be sufficient to say that in God's kingdom every evil is always transmuted to a greater good, though the process may not be at once apparent. 
 
-PURGATORY
-During life the collapse of the vital body at night terminates our view of the world about us, and causes us to lose ourselves in the unconsciousness of sleep. When the vital body collapses just subsequent to death, and the panorama of life is terminated, we also lose consciousness for a time which varies according to the individual. A darkness seems to fall upon the Spirit; then after a while it wakes up and begins dimly to perceive the light of the other world, but is only gradually accustomed to the altered conditions. It is an experience similar to that which we have when coming out of a darkened room into sunlight, which blinds us by its brilliancy, until the pupils of our eyes have contracted so that they admit a quantity of light bearable to our organism. 
+#### <h4 id="purgatory">PURGATORY</h4>
 
-[117] 
+During life the collapse of the vital body at night terminates our view of the world about us, and causes us to lose ourselves in the unconsciousness of sleep. When the vital body collapses just subsequent to death, and the panorama of life is terminated, we also lose consciousness for a time which varies according to the individual. A darkness seems to fall upon the Spirit; then after a while it wakes up and begins dimly to perceive the light of the other world, but is only gradually accustomed to the altered conditions. It is an experience similar to that which we have when coming out of a darkened room into sunlight, which blinds us by its brilliancy, until the pupils of our eyes have contracted so that they admit a quantity of light bearable to our organism. 
 
 If under such a condition we turn momentarily from the bright sunlight and look back into the darkened room, objects there will be much plainer to our vision than things outside which are illumined by the powerful rays of the Sun. So it is also with the Spirit; when it has first been released from the body it perceives sights, scenes, and sounds of the material world which it has just left much more readily than it observes the sights of the world it is entering. Wordsworth in his Ode To Immortality noted a similar condition in the case of newborn children, who are all clairvoyant and much more awake to the spiritual world than to this present plane of existence. Some lose the spiritual sight very early, others retain it for a number of years, and a few keep it all through life, but as the birth of a child is a death in the spiritual world and it retains the spiritual sight for a time, so also death here is a birth upon the spiritual plane, and the newly dead retain a consciousness of this world for some time subsequent to demise. 
 
@@ -899,15 +738,11 @@ When one awakes in the Desire World after having passed through aforementioned e
 
 There is also a feeling of relief for those who have been ill. Sickness, such as we know it, does not exist there. Neither is it necessary to seek food and shelter, for in that world there is neither heat nor cold. Nevertheless, there are many in the purgatorial region who go to all the bothers of housekeeping, eating and drinking just as we do here. George Du Maurier in his novel, Peter Ibbetson, gives a very good idea of this condition, in his life lived between the hero and the Countess of Towers. This novel also illustrates splendidly what has been said of the subconscious memory, for George Du Maurier has somewhere, somehow discovered an easy method which anyone may apply to do what he calls "dreaming true." By taking a certain position in going to sleep, it is possible, after a little practice, to compel the appearance, in a dream, of any scene in our past life, which we desire to live over again. The book is well worth reading on that account. 
 
-[119] 
-
 When a fiery nebulae has been formed in the sky and commences to revolve, a little matter in the center where motion is slowest commences to crystallize. When it has reached a certain density it is caught in the swirl, and whirled nearer, and nearer to the outward extremity of what has, by that time, become the equator of a revolving globe. Then it is hurled into space and discarded from the economy of the revolving Sun. 
 
 This process is not accomplished automatically as scientists would have us believe, an assertion which has been proven in The Rosicrucian Cosmo-Conception and other places in our literature. Herbert Spencer rejected the nebular theory because it required a First cause, which he denied (though unable to form a better hypothesis of the formation of solar systems), but it is accomplished through the activity of a Great Spirit, which we may call God or any other name we choose. As above, so below, says the Hermetic axiom. Man, who is a lesser Spirit, also gathers about himself spirit-substance, which crystallizes into matter and becomes the visible body which the spiritual sight reveals as placed inside an aura of finer vehicles. The latter are in constant motion. When the dense body is born as a child it is extremely soft and flexible. 
 
 Childhood, youth, maturity, and old age are but so many different stages of crystallization, which goes on until at last a point is reached where the Spirit can no longer move the hardened body and it is thrown out from the Spirit as the planet is expelled from the Sun. That is death--the commencement of a disrobing process which continues in Purgatory. The low evil passions and desires we cultivated during life have crystallized the desire-stuff in such a manner that also must be expelled. Thus the Spirit is purged of evil under the same law that a sun is purged of the matter which later forms a planet. If the life has been a reasonably decent one, the process of purgation will not be very strenuous nor will the evil desires thus expurgated persist for a long time after having been freed, but they quickly disintegrate. If, on the other hand, an extremely vile life has been led, the part of the expurgated desire nature may persist even to the time when the Spirit returns to a new birth for further experience. It will then be attracted to him and haunt him as a demon, inciting him to evil deeds which he himself abhors. The story of Dr. Jekyll and Mr. Hyde is not a mere fanciful idea of Robert Louis Stevenson, but is founded upon facts well known to spiritual investigators. Such cases are extremes, of course, but they are nevertheless possible, and we unfortunately have laws which convert such possibilities to probabilities in the case of a certain class of so-called criminals. We refer to laws which decree capital punishment as penalty for murder. 
-
-[121] 
 
 When a man is dangerous he should of course be restrained, but even apart from the question of the moral right of a community to take the life of anyone--which we deny--society by its very act of retaliatory murder defeats the very end it would serve. If the vicious murderer is restrained under whatever discipline is necessary in a prison, for a number of years until his natural death, he will have forgotten his bitterness against his victim and against society, and when he stands as a free Spirit in the Desire World, he may even by prayer have obtained forgiveness and have become a good Christian. He will then go on his way rejoicing, and will in the future life seek to help those whom he hurt here. 
 
@@ -927,7 +762,7 @@ In our explanation concerning the subconscious memory we noted that a record of 
 
 The Rosicrucian Mystery Teaching gives a scientific method whereby an aspirant to the higher life may purge himself continually, and thus be able entirely to avoid existence in Purgatory. Each night after retiring the pupil reviews his or her life during the day in reverse order. He starts to visualize as clearly as possible the scene which took place just before retiring. He then endeavors to view impartially his actions in that scene, examining them to see whether he did right or wrong. If the latter, he endeavors to feel and realize as vividly as possible that wrong. For instance, if he spoke harshly to someone, and upon later consideration finds it was not merited, he will endeavor to feel exactly as that one felt whom he wronged and at the very earliest opportunity to apologize for the hasty expression. Then he will call up the next scene in backward succession which may perhaps be the supper table. In respect of that scene he will examine himself as to whether he ate to live, sparingly and of foods prepared without suffering to other creatures of God (such as flesh foods that cannot be obtained without taking life). If he finds that he allowed his appetite to run away with him and that he ate gluttonously, he will endeavor to overcome these habits, for to live a clean life we must have a clean body, and no one can live to his highest possibilities while making his stomach a graveyard for the decaying corpses of murdered animals. In this respect there occurs to the writer a little poem by Ella Wheeler Wilcox: 
 
-
+```
 "I am the voice of the voiceless; 
 Through me the dumb shall speak, 
 Till a deaf world's ear 
@@ -940,41 +775,32 @@ The God of the whole
 Gave a spark of soul 
 To furred and feathered thing. 
 
-[127] 
-
-
 And I am my brother's keeper 
 And I will fight his fight, 
 And speak the word 
 For beast and bird 
 Till the world shall set things right. 
+```
 
 Thus the pupil will continue to review each scene in reverse order from night till morning, and to feel really sorry for whatever he has done amiss. He will not neglect to feel glad either when he comes to a scene where he has done well, and the more intensely he can feel, the more thoroughly he will eradicate the record upon the tablet of the heart and sharpen his conscience, so that as time goes on from year to year, he will find less cause for blame and enhance his soul power enormously. Thus he will grow in a measure impossible by any less systematic method, and there will be no necessity for his stay in Purgatory after death. 
 
 This evening exercise, and another for the morning, if persistently performed day by day will in time awaken the spiritual vision as they improve life. This matter has, however, been so thoroughly treated in number 11 of the Lecture series "Spiritual Sight and Insight" that it is unnecessary to dwell upon the matter further in this place. 
 
-[128] 
+#### <h4 id="the-first-heaven">THE FIRST HEAVEN</h4>
 
-THE FIRST HEAVEN
 In the First Heaven, which is located in the higher regions of the Desire World, the panorama of life again unrolls and reveals every scene where we aimed to help or benefit others. They were not felt at the time the Spirit was in the lower regions, for higher desires cannot express themselves in the coarse matter composing the lower regions of the Desire World; but when the Spirit ascends to the First Heaven it reaps from each scene all the good which it expressed in life. It will feel the gratitude poured out by those whom it helped; if it comes to a scene where itself received a favor from others and was grateful, it will experience the gratitude anew. The sum of all these feelings is there amalgamated into the Spirit to serve in a future life as incentives to good. 
 
 Thus the Spirit is purged from evil in Purgatory and strengthened in good in the First Heaven. In one region the extract of sufferings become conscience to deter us from doing wrong, in the other region the quintessence of good is transmuted to benevolence and altruism, which are the basis of all true progress. Moreover, Purgatory is far from being a place of punishment. It is perhaps the most beneficent realm in nature, for because of purgation we are born innocent life after life. The tendencies to commit the same evil for which we suffered remain with us, and temptations to commit the same wrongs will be placed in our path until we have consciously overcome the evil here. Temptation is not sin, however, the sin is in yielding. 
 
 Among the inhabitants of the invisible world there is one class which lives a particularly painful life, sometimes for a great many years, namely, the suicide who tried to play truant from the school of life. Yet it is not an angry God or a malevolent devil who administers punishment, but an immutable law which proportions the sufferings differently to each individual suicide. 
 
-[129] 
-
 We learned previously, when considering the World of Thought, that each form in this visible world has its archetype there--a vibrating hollow mold which emits a certain harmonious sound. That sound attracts and forms physical into the shape we behold, much in the same manner as when we place a little sand upon a glass plate and rub the edge with a violin bow; the sand is shaped into different geometrical figures which change as the sound changes. 
 
 The little atom in the heart is the sample and the center around which the atoms in our body gather. When that is removed at death, the center is lacking, and although the archetype keeps on vibrating until the limit of the life has been reached--as also previously explained--no matter can be drawn into the hollow shape of the archetype. Therefore the suicide feels a dreadful gnawing pain as if he were hollowed out, a torture which can only be likened to the pangs of hunger. In his case, the intense suffering will continue for exactly as many years as he should have lived in the body. At the expiration of that time, the archetype collapses as it does when death comes naturally. Then the pain of the suicide ceases, and he commences his period of purgation as do those who die a natural death. But the memory of sufferings experienced in consequence of the act of suicide will remain with him in future lives and deter him from a similar mistake. 
 
-[130] 
-
 In the First Heaven there is a class who have not had any purgatorial existence and who lead a particularly joyous life: the children. Our home may be saddened almost beyond endurance when the little flower is broken and the sunshine it brought has gone. But could we see the beautiful existence which these little ones lead, and did we understand the great benefits which accrue to a child from its limited stay there, our sorrow would be at least ameliorated in a great measure, and the wound upon our heart would heal more quickly. Besides, as nothing else in the world happens without a cause, so there is also a much deeper cause for infant mortality than we are usually aware of, and as we awake to the facts of the case, we shall be able to avoid in future the sorrow incident to loss of our little ones. 
 
 To understand the case properly we must revert to the experiences of the dying in the death hour. We remember that the panorama of the past life is etched upon the desire body during a period varying from a few hours to three and one-half days just subsequent to demise. We recall also that upon the depth of this etching depends the clearness of the picture, and that the more vivid this panorama of life, the more intensely will the Spirit suffer in Purgatory and feel the joys of heaven; also, that the greater the suffering Purgatory the stronger the conscience in the next life. 
-
-[131] 
 
 It was explained how the horrors of death upon the battle field, in an accident, or other untoward circumstances would prevent the Spirit from giving all its attention to the panorama of life, with the result that there would be a light etching in the desire body, followed by a vague and insipid existence in Purgatory and the First Heaven. It was also stated that hysterical lamentations in the death chamber would produce the same effect. 
 
@@ -982,27 +808,23 @@ A Spirit which had thus escaped suffering proportionate to its misdeeds, and whi
 
 As the First Heaven is located in the Desire World (which is the realm of light and color), where matter is shaped most readily by thought, the little ones are given wonderful toys impossible of construction here. They are taught to play with colors, which work upon their moral character in exactly the manner each child requires. Anyone who is at all sensitive is affected by the color of his clothing and surroundings. Some colors have a depressing effect, while others inspire us with energy, and others again soothe and comfort us. In the Desire World the effect of colors is much more intense; they are much more potent factors of good and evil there than here. In this color play, the child imbibes unconsciously the qualities which it did not acquire on account of accident or lamentations of relatives. Often it also falls to the lot of such relatives to care for a child and see it die. Thus they receive just retribution for the wrong committed. As wars cease, and man learns to be more careful of life, also how to care for the dying, infant mortality, which now is so appalling, will decrease. 
 
-THE SECOND HEAVEN
+#### <h4 id="the-second-heaven">THE SECOND HEAVEN</h4>
+
 When both the good and evil of a life have been extracted, the Spirit discards its desire body and ascends to the Second Heaven. The desire body then commences to disintegrate as the physical body and the vital body have done, but it is a peculiarity of desire-stuff that, once it has been formed and inspired with life, it persists for a considerable time. Even after that life has fled it lives a semiconscious, independent life. Sometimes it is drawn by magnetic attraction to relatives of the Spirit whose clothing it was, and at spiritualistic seances these shells generally impersonate the departed Spirit and deceive its relatives. As the panorama of the past life is etched into the shells, they have a memory of incidents in connection with these relatives, which facilitates the deception. But as the intelligence has fled, they are of course unable to give any true counsel, and that accounts for the inane, goody-goody nonsense of which these things deliver themselves. 
 
 When passing from the First to the Second Heaven, the Spirit experiences the condition known and described previously as the Great Silence, where it stands utterly alone, conscious only of its divinity. When that silence is broken there floats in upon the Spirit celestial harmonies of the World of Tone where the Second Heaven is located. It seems then to lave in an ocean of sound and to experience a joy beyond all description and words, as it nears its heavenly home--for this is the first of the truly spiritual realms from which the Spirit has been exiled during its Earth life and the subsequent post-mortem existence. In the Desire World its work was corrective, but in the World of Thought the human Spirit becomes one with the nature forces and its creative activity begins. 
 
 Under the Law of Causation we reap exactly what we sow, and it would be wrong to place one Spirit in an environment where there is a scarcity of the necessities of life, where a scorching sun burns the crop and millions die from famine, or where the raging flood sweeps away primitive habitations not built to withstand its ravages, and to bring another Spirit to birth in a land of plenty, with fertile soil which yields a maximum of increase with a minimum of labor, where the earth is rich in minerals that may be used in industry to facilitate transportation of products of the soil from one point to another. 
 
-[134] 
-
 If we were thus placed without action or acquiescence upon our part, there would be no justice, but as our post-mortem existence in Purgatory and the First Heaven is based upon our moral attitude in this life, so our activities in the Second Heaven are determined by our mental aspirations. They produce our future physical environment, for in the Second Heaven, the Spirit becomes part of the nature forces which work upon the earth and change its climate, flora, fauna. A Spirit of an indolent nature, who indulges in daydreams and metaphysical speculations here, is not transformed by death respecting its mental attitude any more than regarding its moral propensities. It will dream away time in heaven, glorying in its sights and sounds. Thus it will neglect to work upon its future country and return to a barren and arid land. Spirits, on the other hand, whose material aspirations lead them to desire so-called solid comforts of hearth and home, who aim to promote great industries, and whose mind is concerned in trade and commerce, will build in heaven a land that will suit their purpose: fertile, mineralized, with navigable rivers and sheltered harbors. They will return in time to enjoy upon Earth the fruits of their labors in the Second Heaven, as they reap the result of their life upon Earth in Purgatory and the First Heaven. 
 
-[135] 
+#### <h4 id="the-third-heaven">THE THIRD HEAVEN</h4>
 
-THE THIRD HEAVEN
 In the Third Heaven most people have very little consciousness, for reasons explained in connection with the Region of Abstract Thought, for there the Third Heaven is located. It is therefore more of a place of waiting where the Spirit rests between the time when its labors in the Second Heaven have been completed and the time when it again experiences the desire for rebirth. But from this realm inventors bring down their original ideas, there the philanthropist obtains the clearest vision of how to realize his utopian dreams, and the spiritual aspirations of the saintly minded are given renewed impetus. 
 
 In time the desires of the Spirit for further experiences draw it back to rebirth, and the great celestial Beings who are known in the Christian Religion as Recording Angels, assist the Spirit to come to birth in the place best suited to give it the experience necessary further to unfold its powers and possibilities. 
 
 We have all been here many times and in different families, we have had relations of varying nature with many different people, and usually there are several families among whom we may seek re-embodiment to work out our self-generated destiny and reap what we have sown in former lives. If there are no special reasons why we should take birth in any particular family among certain friends or foes, the Spirit is allowed to choose its own place of birth. Thus it may be said that most of us are in our present places by our own prenatal choice. 
-
-[136] 
 
 In order to assist us in making that choice the Recording Angels call up before the Spirit's vision a panorama in general outlines of each of the offered lives. This panorama will show what part of our past debts we are to pay, and what fruits we may be expected to reap in the coming life. 
 
@@ -1012,29 +834,23 @@ When the Spirit has made its choice, it descends into the Second Heaven where it
 
 In the Region of Concrete Thought, the Spirit also draws to itself materials for a new mind. As a magnet draws iron filings but leaves other substances alone, so also each Spirit draws only the kind of mind-stuff which it used in its former life, plus that which it has learned to use in its present post-mortem state. Then it descends into the Desire World where it gathers materials for a new desire body such as will express appropriately its moral characteristics. Later it attracts a certain amount of ether which is built into the mold of the archetype constructed in the Second Heaven and acts as cement between the solids, liquids, and gaseous material from the bodies of parents which form the dense physical body of a child, and in due time the latter is brought to birth. 
 
-[138] 
+#### <h4 id="birth-and-childhood">BIRTH AND CHILDHOOD</h4>
 
-BIRTH AND CHILDHOOD
 It must not be imagined, however, that when the little body of a child has been born, the process of birth is completed. The dense physical body has had the longest evolution, and as a shoemaker who has worked at his trade for a number of years is more expert than an apprentice and can make better shoes and quicker, so also the Spirit which has built many physical bodies produces them quickly, but the vital body is a later acquisition of the human being. Therefore we are not so expert in building that vehicle. Consequently, it takes longer to construct it from the materials not used in making the lining of the archetype, and the vital body is not born until the seventh year. Then the period of rapid growth commences. The desire body is a still later addition of composite man, and is not brought to birth until the fourteenth year, when the desire nature expresses itself most strongly during the so-called "hot" youth, and the mind, which makes man, does not come to birth until the twenty-first year. In law that age is recognized as the earliest time he is fitted to exercise a franchise. 
 
 This knowledge is of the utmost importance to parents, as a proper understanding of the development which should take place in each of the septenary epochs enables the educator to work intelligently with nature and thus fulfill more thoroughly the trust of a parent than those who are ignorant of the Western Mystery Teaching. We shall therefore devote the remaining pages to an elucidation of this matter and to the importance of the knowledge of astrology upon the part of the parent. 
 
-[139] 
+#### <h4 id="the-mystery-of-light-color-and-consciousness">MYSTERY OF LIGHT, COLOR, AND CONSCIOUSNESS</h4>
 
-MYSTERY OF LIGHT, COLOR, AND CONSCIOUSNESS
 "God is Light," says the Bible, and we are unable to conceive of a grander simile of His omnipresence, or the mode of His manifestation. Even the greatest telescopes have failed to reach the boundaries of light, though they reveal to us stars millions of miles from the Earth, and we may well ask ourselves, as did the Psalmist of old: "Whither shall I flee from thy presence? If I ascend into heaven Thou art there, if I make my bed in the grave Thou art there, if I take the wings of the morning and dwell in the uttermost parts of the sea. Even there shall thy hand lead me." 
 
 When, in the dawn of Being, God The Father enunciated the Word, and The Holy Spirit moved upon the sea of homogeneous virgin matter, primeval darkness was turned to light. That is therefore, the prime manifestation of Deity, and a study of the principles of Light will reveal to the mystic intuition a wonderful source of spiritual inspiration. As it would take us too far afield from our subject we shall not enter into an elucidation of that theme here, except so far as to give an elementary idea of how divine Life energizes the human frame, and stimulates to action. 
-
-[140] 
 
 Truly, God is One and undivided. He unfolds within His being all that is, as the white light embraces all colors. But He appears threefold in manifestation, as the white light is refracted in three primary colors: blue, yellow, and red. Wherever we see these colors they are emblematical of the Father, Son, and Holy Spirit. These three primary rays of divine Life are diffused or radiated through the Sun and produce Life, Consciousness, and Form upon each of the seven light-bearers, the planets, which are called "the Seven Spirits before the Throne." Their names are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, and Uranus. Bode's Law proves that Neptune and Pluto do not "belong" to our solar system. See Simplified Scientific Astrology by the present writer for mathematical demonstration of this conception. 
 
 Each of the seven planets receives the light of the Sun in a different measure, according to its proximity to the central orb and the constitution of its atmosphere, and the beings upon each, according to their stage of development, have affinity for some of the solar rays. They absorb the colors congruous to them, and reflect the remainder upon the other planets. This reflected ray bears with it an impulse of the nature of the beings with which it has been in contact. 
 
 Thus the divine Light and Life comes to each planet, either directly from the Sun, or reflected from its sister planets, and as the summer breeze which has been wafted over blooming fields carries upon its silent invisible wings the blended fragrance of a multitude of flowers, so also the subtle influences from the garden of God bring to us the co-mingled impulses of all the Spirits, and in that varicolored light we live and move and have our being. 
-
-[141] 
 
 The rays which come directly from the Sun are productive of spiritual illumination, the reflected rays from other planets make for added consciousness and moral development, and the rays reflected by way of the Moon give physical growth. 
 
@@ -1044,36 +860,23 @@ From a horoscopic figure in mystic script we may learn our own strength and weak
 
 As we have already said, man returns to Earth to reap that which he has sown in previous lives and to sow anew the seeds which make for future experience. The stars are the heavenly time keepers which measure the year; the Moon indicates the month when the time will be propitious to harvest or to sow. 
 
-[142] 
-
 The child is a mystery to us all. We can know its propensities only as they slowly develop into characteristics, but it is usually too late to check when evil habits have been formed and the youth is upon the downward grade. A horoscope cast for the time of birth in a scientific manner shows the tendencies to good or evil in the child, and if a parent will take the time and trouble necessary to study the science of the stars, he or she may do the child entrusted to his or her care an inestimable service by fostering tendencies to good and repressing the evil bent of a child before it has crystallized into habit. Do not imagine that a superior mathematical knowledge is necessary to erect a horoscope. Many construct a horoscope in such an involved manner, so "fearfully and wonderfully made," that it is unreadable to themselves or others, while a simple figure, easy of reading, may be constructed by anyone who knows how to add and subtract. This method has been thoroughly elucidated in Simplified Scientific Astrology, which is a complete text book, though small and inexpensive, and parents who have the welfare of their children thoroughly at heart should endeavor to learn the stellar science for themselves. Even though their ability may not compare with that of a professional astrologer, their intimate knowledge of the child and their deep interest will more than compensate for such lack and enable them to see most deeply into the child's character by means of its horoscope. 
 
-[143] 
+#### <h4 id="education-of-children">EDUCATION OF CHILDREN</h4>
 
-EDUCATION OF CHILDREN 
 Respecting the birth of the various vehicles and the influence which that has upon life, we may say that during the time from birth to the seventh year the lines of growth of the physical body are determined, and as it has been noted that sound is builder both in the great and small, we may well imagine that rhythm must have an enormous influence upon the growing and sensitive little child's organism. The apostle John in the first chapter of his Gospel expresses this idea mystically in the beautiful words: "In the beginning was the WORD...and without it was not anything made that was made... and the word became flesh." The Word is a rhythmic sound, which issued from the Creator, reverberated through the universe and marshaled countless millions of atoms into the multiplex variety of shapes and forms which we see about us. The mountain, the mayflower, the mouse, and the man are all embodiments of the great Cosmic Word which is still sounding through the universe and which is still building and ever building though unheard by our insensitive ears. But though we do not hear that wonderful celestial sound, we may work upon the little child's body by terrestrial music, and though the nursery rhymes are without sense, they are nevertheless bearers of a wonderful rhythm. The more a child is taught to say, sing, and repeat them, to dance and to march to them, the more music is incorporated into a child's daily life, the stronger and healthier will be its body in future years. 
-
-[144] 
 
 There are two mottoes which apply during this period, one to the child and the other to the parent: Example and imitation. No creature under heaven is more imitative than a little child, and its conduct in after years will depend largely upon the example set by its parents during its early life. It is no use to tell the child "not to mind." It has no mind wherewith to discriminate, but follows its natural tendency, as water flows down a hill, when it imitates. Therefore it behooves every parent to remember from morning till night that watchful eyes are upon him all the time, waiting but for him to act in order to follow his example. 
 
 It is of the utmost importance that the child's clothing should be very loose, particularly the clothing of little boys, as chafing garments often product vices which follow a man through life. 
 
-If anyone should attempt forcibly to extract a babe from the protecting womb of its mother, the outrage would result in death, because the babe had not yet arrived at a maturity sufficient to endure impacts of the Physical World. In the three septenary periods which follow birth, the invisible vehicles are still in the womb of Mother Nature. If we teach a child of tender years to memorize, or to think, or if we arouse its feelings and emotions, we are in fact opening the protecting womb of nature, and the results are equally as disastrous in other respects as a forced premature birth. Child 
-
-[145] 
-
-prodigies usually become men and women of less than ordinary intelligence. We should not hinder the child from learning or thinking of his own volition, but we should not goad them on as parents often do to nourish their own pride. 
+If anyone should attempt forcibly to extract a babe from the protecting womb of its mother, the outrage would result in death, because the babe had not yet arrived at a maturity sufficient to endure impacts of the Physical World. In the three septenary periods which follow birth, the invisible vehicles are still in the womb of Mother Nature. If we teach a child of tender years to memorize, or to think, or if we arouse its feelings and emotions, we are in fact opening the protecting womb of nature, and the results are equally as disastrous in other respects as a forced premature birth. Child prodigies usually become men and women of less than ordinary intelligence. We should not hinder the child from learning or thinking of his own volition, but we should not goad them on as parents often do to nourish their own pride. 
 
 When the vital body is born at the age of seven a period of growth begins and a new motto, or rather a new relation, is established between parent and child. This may be expressed by the two words Authority and Discipleship. In this period the child is taught certain lessons which it takes upon faith in the authority of its teachers, whether at home or at school, and as memory is a faculty of the vital body it can now memorize what is learned. It is therefore eminently teachable; particularly because it is unbiased by preconceived opinions which prevent most of us from accepting new views. At the end of this second period, from about twelve to fourteen, the vital body has been so far developed that puberty is reached. At the age of fourteen we have the birth of the desire body, which marks the commencement of self-assertion. In earlier years the child regards itself more as belonging to a family, and subordinate to the wishes of its parents than after the fourteenth year. The reason is this: In the throat of the fetus and the young child there is a gland called the thymus gland, which is largest before birth, then gradually diminishes through the years of childhood and finally disappears at ages which vary according to the characteristics of the child. 
-
-[146] 
 
 Anatomists have been puzzled as to the function of this organ and have not yet come to any settled conclusion, but it has been suggested that before development of the red marrow bones, the child is not able to manufacture its own blood, and that therefore the thymus gland contains an essence, supplied by the parents, upon which the child may draw during infancy and childhood, till able to manufacture its own blood. That theory is approximately true, and as the family blood flows in the child, it looks upon itself as part of the family and not as an Ego. But the moment it commences to manufacture its own blood, the Ego asserts itself; it is no longer papa's girl or mama's boy; it has an "I"-dentity of its own. 
 
 Then comes the critical age when parents reap what they have sown. The mind has not yet been born, nothing holds the desire nature in check, and much, very much, depends upon how the child has been taught in earlier years and what example the parents have set. At this point in life self-assertion, the feeling "I Am Myself," is stronger than at any other time, and therefore authority should give place to advice. The parent should practice the utmost tolerance, for at no time in life is a human being as much in need of sympathy as during the seven years from fourteen to twenty-one when the desire nature is rampant and unchecked. 
-
-[147] 
 
 It is a crime to inflict corporal punishment upon a child at any age. Might is never right, and as the stronger, parents should always have compassion for the weaker. But there is one feature of corporal punishment which makes it particularly dangerous to apply it to the youth: namely, that it wakens the passional nature which is already perhaps beyond the control of the growing boy. 
 
@@ -1083,16 +886,13 @@ At the twenty-first year the birth of the mind transforms the youth into an adul
 
 Thus we have followed the human Spirit around a life cycle from death to birth and maturity; we have seen how immutable law governs its every step and how it is ever encompassed by the loving care of the great and glorious Beings who are the ministers of God. The method of his future development will be explained in a later work which will deal with the Christian Mystic Initiation. 
 
-[148] 
+#### <h4 id="mount-ecclesia">MOUNT ECCLESIA</h4>
 
-MOUNT ECCLESIA
+##### <h5 id="a-description-of-the-headquartes-of-the-rosicrucian-fellowship">A DESCRIPTION OF THE HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP</h4>
 
-A DESCRIPTION OF THE HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP 
 Work in the Physical World requires physical means of accomplishment; therefore a tract of land was bought in 1911 in the town of Oceanside, ninety miles south of Los Angeles, California. Southern California was selected because of the abundance of ether in the atmosphere there, and this spot was found to be particularly favored in that respect. 
 
 On this commanding site having a wide view of the great Pacific Ocean, of snow capped mountains and smiling valleys, we began to establish our Headquarters in the latter part of 1911. Soon after this we erected a sanctuary, the Pro-Ecclesia, where the Rosicrucian Temple Service is held at appropriate times. The Rose Cross Healing Circle holds its meetings there to help sufferers, and it is the place appointed for the united morning and evening devotions of the workers. In the latter half of 1920 we built an Ecclesia, which is designed to be a Temple of Healing. The building, a beautiful domed structure, is of steel and reinforced concrete. It is twelve sided in shape, corresponding to the twelve signs of the zodiac. At the present writing, January, 1921, the final work upon it is just being completed. The esoteric work of the Fellowship will be carried on here. 
-
-[149] 
 
 We have also built a two-story Administration Building to house the general office, the book department, the correspondence school in Christian Mysticism which links Headquarters with students all over the world, and the editorial offices of our monthly publications, notably The Rosicrucian Fellowship Magazine--Rays From The Rose Cross. We have also an astrological department which conducts a correspondence school. Its offices are located on the second floor. 
 
@@ -1102,21 +902,15 @@ In October, 1920, a Training School was established for the preparation of candi
 
 A Dining Hall with seating capacity for over one hundred people affords ample accommodation for workers, students, and patients. The scientific meatless diet served there preserves or restores health, as required in each case. Furthermore, it improves the vitality and mentality to an astonishing degree. A large dormitory, and a number of cottages and tents provide living quarters for all. 
 
-[150] 
-
 By the liberal use of water and the expenditure of much labor, Mount Ecclesia is gradually being transformed into a luxuriant tropical park. There is a deep spiritual purpose in this attempt to make the visible center of the new world movement beautiful, for it fosters in the workers a poise and peace which are absolutely essential to the proper performance of their work. Without that they cannot escape being disturbed by the flood of sorrow and trouble which flows in Headquarters from members all over the world; without that they cannot continue to put heart into the letters of help, hope, and cheer which continually go out to souls who are groaning under the burden of sickness; but by bathing their souls in the beauty of the surroundings, whether consciously or not, they gain in strength and grow in grace; they become better and better fitted for the Great Work in the Master's Vineyard. 
 
 In order to aid those who feel the upward urge to prepare intelligently and reverently for the unfoldment of their inner latent spiritual powers, The Rosicrucian Fellowship maintains two correspondence courses which furnish instruction to students all over the world. One deals with Astrology, the other with Christian Mysticism (The Rosicrucian Philosophy). 
-
-[151] 
 
 The astrology to which we refer is not to be confounded with fortune-telling; it is a phase of the mystic religion, as sublime as the stars with which it deals. To the mystic the stars are not dead bodies moving in space in obedience to so-called blind natural law, but they are the embodiments of the Seven Spirits Before The Throne, mighty Star-Angels who use their benevolent influences to guide other less exalted beings, humanity included, upon the path of evolution. 
 
 There is a side of the Moon which we never see, but that hidden half is as potent a factor in creating the ebb and flow as the part of the Moon which is visible. Similarly, there is an invisible part of man which exerts a powerful influence in life, and as the tides are measured by the motion of Sun and Moon, so also the eventualities of existence are measured by the circling stars, which may therefore be called The Clock of Destiny, and knowledge of their import is an immense power; to the competent astrologer a horoscope reveals every secret of life. 
 
 Thus, when you have given an astrologer the data of your birth, you have given him the key to your innermost soul, and there is no secret that he may not ferret out. This knowledge may be used for good or ill, to help or hurt, according to the nature of the man. Only a friend should be trusted with this key to your soul, and it should never be given to anyone base enough to prostitute a spiritual science for material gain. 
-
-[152] 
 
 To the medical man astrology is invaluable in diagnosing disease and prescribing a remedy, for it reveals the hidden cause of all ailments in a manner that has often perplexed the sceptic and dumbfounded the scoffer. 
 
@@ -1126,43 +920,38 @@ If you are a parent, the horoscope will aid you to detect the evil latent in you
 
 In order to aid those who are willing to help themselves we maintain a Correspondence Class in Astrology, but make no mistake, we do not teach fortune-telling. If that is what you are looking for, we have nothing for you. 
 
-[153] 
+##### <h5 id="our-lessons-are-sermons">OUR LESSONS ARE SERMONS</h5>
 
-OUR LESSONS ARE SERMONS 
 They embody the highest moral and spiritual principles, together with the loftiest system of ethics, for astrology is, to us, a phase of religion; we never look at a horoscope without feeling that we are in a holy presence, face to face with an immortal Spirit, and our attitude is one of prayer for light to guide that Spirit aright. 
 
-WE DO NOT CAST HOROSCOPES 
+##### <h5 id="we-do-not-cast-horoscapes">WE DO NOT CAST HOROSCOPES</h5>
+
 Despite all we can say, many people write enclosing money for horoscopes, forcing us to spend valuable time writing letters of refusal and giving us the trouble of returning their money. Please do not annoy us; it will avail you nothing. 
 
-THE COURSE IN CHRISTIAN MYSTICISM 
+##### <h5 id="the-course-in-christian-mysticism">THE COURSE IN CHRISTIAN MYSTICISM</h5>
+
 Christ, taught the multitude in parables, but explained the mysteries to His disciples. 
 
 Paul gave milk to the babes, but meat to the strong. 
 
 Max Heindel, the founder and leader of The Rosicrucian Fellowship, endeavored to follow in their steps and give to interested and devoted students a deeper teaching than that promulgated in public. 
 
-[154] 
-
 For that purpose we conduct a correspondence course in Christian Mysticism. The General Secretary may admit applicants to the preliminary course, but advancement into the deeper degrees depends upon merit. It is for those alone who have been tried, and found true. 
 
-HOW TO APPLY FOR ADMISSION 
+##### <h5 id="how-to-apply-for-admission">HOW TO APPLY FOR ADMISSION</h5>
+
 Anyone who is not engaged in fortune-telling or similar methods of commercializing spiritual knowledge will, upon request, receive an application blank from the General Secretary, Rosicrucian Fellowship. When this blank is returned properly filled, he may admit the applicant to instruction in either or both correspondence courses. 
 
-THE COST OF THE COURSES 
+##### <h5 id="the-cost-of-the-courses">THE COST OF THE COURSES</h5>
+
 There are no fixed fees; no esoteric instruction is ever put in the balance against coin. At the same time, it cannot be given free, for nothing, for those who work to promulgate it must have the necessities of life. Type , paper, machinery, and postage also cost money, and unless you pay your part someone else must pay for you. 
 
 There are a few who cannot contribute, and who need these Teachings as much or more than those who may take comfort from financial ease or affluence. If they make their condition known, they will receive as much attention as the largest contributors, but others are expected to contribute for their own good as well as for the good of the work. Remember, a closed hand that does not give cannot receive. 
 
-[155] 
+##### <h5 id="addenda">ADDENDA</h5>
 
-ADDENDA 
 At the time of the printing of this edition, 1966, The Rosicrucian Fellowship Headquarters continues to carry forward its purpose of disseminating the Western Wisdom Teachings along the lines started by Max Heindel. In addition to the Philosophy and Astrology Courses given by Correspondence, a Course of twenty-eight lessons in Bible Interpretation, is now offered. A number of additional books by Max Heindel have been added to our list of publications, and also those on Bible Interpretation by Corinne Heline (an early pupil of Max Heindel). The number of volumes shipped out from Mt. Ecclesia to all parts of the world increases each year, and several new buildings have been erected since 1921, including more modern living quarters for workers. 
 
 A day school is conducted every summer for at least four weeks during which classes in the Rosicrucian Philosophy, Spiritual Astrology (including erecting of the chart, delineation, and astro-analysis), and Bible Interpretation are taught by teachers well versed in their subjects. Anyone interested in the New Age Teachings is eligible to enroll, provided he or she is not a hypnotist, or professionally engaged as a medium, a palmist, or an astrologer. 
 
-End of
-
-The Rosicrucian Mysteries 
-Table of Contents 
-Click here to return to Index Page 
-
+End of The Rosicrucian Mysteries
