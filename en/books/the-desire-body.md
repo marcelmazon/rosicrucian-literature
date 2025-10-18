@@ -1,68 +1,62 @@
-[1] 
+---
+title: "The Desire Body"
+language: 'en'
+original_title: "The Desire Body"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
 
-THE DESIRE BODY 
-by 
-Max Heindel 
-[1865-1919] 
+<h1 id="the-desire-body">THE DESIRE BODY</h1>
 
+by Max Heindel [1865-1919] 
 
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Mt. Ecclesia
-Oceanside, California, 92054, USA
+THE ROSICRUCIAN FELLOWSHIP  
+P.O. Box 713  
+Mt. Ecclesia  
+Oceanside, California, 92054, USA  
 
+<h3 id="foreword">FOREWORD</h3>
 
-
-[3] 
-
-FOREWORD
 Man, the indwelling Spirit, has at his present stage of development four vehicles through which he functions: the dense body, the vital body, the desire body, and the mind. Although these bodies are closely interrelated and are affected by each other, it is helpful to the student in understanding thoroughly their functions and possibilities to study each one separately and intensively. To facilitate such study Max Heindel's material concerning the desire body has been collected and published in this one convenient volume. 
 
 The desire body of man is his vehicle of feelings, desires, wishes, and emotions. It is responsible for all his actions, reveling in unrestrained motion. If unbridled it makes the body do all the unnecessary and undignified things which are so detrimental to soul growth. However, that temper which is such a great menace when it takes control, may be as effective for service under proper guidance. Hence the temper of the desire body must be controlled but not by any means killed. 
 
 The Western Wisdom Teachings therefore emphasize the transmuting of the lower desires into higher ones through service motivated by devotion to high ideals. This generates the Emotional Soul, essential nourishment for the evolving spirit. 
 
-[5] 
+<h3 id="contents">CONTENTS</h3>
 
-CONTENTS 
-Foreword 
-PART I: THE PLANETARY DESIRE WORLD 
-Chapter I: Its Relationship to Mineral, Plant, Animal, and Man 
-PART II: ORIGIN AND DEVELOPMENT OF MAN'S DESIRE BODY 
-Chapter I: Through the Septenary Periods 
-PART III: MAN'S DESIRE BODY IN THE PHYSICAL WORLD 
-Chapter I: From Infancy to Puberty 
-Chapter II: Its Appearance and Functions 
-Chapter III: Effect of Emotions on Contour and Color 
-Chapter IV: Influence of Thought 
-Chapter V: Relationship to Consciousness 
-Chapter VI: During Sleep 
-[6] 
+- [Foreword](#foreword)
+- [PART I: THE PLANETARY DESIRE WORLD](#part-1)
+    - [Chapter I: Its Relationship to Mineral, Plant, Animal, and Man](#part-1-chapter-1)
+- [PART II: ORIGIN AND DEVELOPMENT OF MAN'S DESIRE BODY](#part-2)
+    - [Chapter I: Through the Septenary Periods](#part-2-chapter-1)
+- [PART III: MAN'S DESIRE BODY IN THE PHYSICAL WORLD](#part-3)
+    - [Chapter I: From Infancy to Puberty](#part-3-chapter-1)
+    - [Chapter II: Its Appearance and Functions](#part-3-chapter-2)
+    - [Chapter III: Effect of Emotions on Contour and Color](#part-3-chapter-3)
+    - [Chapter IV: Influence of Thought](#part-3-chapter-4)
+    - [Chapter V: Relationship to Consciousness](#part-3-chapter-5)
+    - [Chapter VI: During Sleep](#part-3-chapter-6)
+- [PART IV: MAN'S DESIRE BODY IN THE INVISIBLE WORLD](#part-4)
+    - [Chapter I: At Time of Death](#part-4-chapter-1)
+    - [Chapter II: Causes of Infant Mortality](#part-4-chapter-2)
+    - [Chapter III: Purgatory](#part-4-chapter-3)
+    - [Chapter IV: Earthbound Spirits and Their Prey](#part-4-chapter-4)
+    - [Chapter V: The Borderland](#part-4-chapter-5)
+    - [Chapter VI: The First Heaven](#part-4-chapter-6)
+    - [Chapter VII: The Second Heaven](#part-4-chapter-7)
+    - [Chapter VIII: On the Way to Rebirth](#part-4-chapter-8)
+- [PART V: SPIRITUALIZATION OF MAN'S DESIRE BODY](#part-5)
+    - [Chapter I: Higher Beings as Factors](#part-5-chapter-1)
+    - [Chapter II: Unreliability of Desire Body](#part-5-chapter-2)
+    - [Chapter III: Preparation for the Higher Life](#part-5-chapter-3)
 
-PART IV: MAN'S DESIRE BODY IN THE INVISIBLE WORLD 
-Chapter I: At Time of Death 
-Chapter II: Causes of Infant Mortality 
-Chapter III: Purgatory 
-Chapter IV: Earthbound Spirits and Their Prey 
-Chapter V: The Borderland 
-Chapter VI: The First Heaven 
-Chapter VII: The Second Heaven 
-Chapter VIII: On the Way to Rebirth 
-PART V: SPIRITUALIZATION OF MAN'S DESIRE BODY 
-Chapter I: Higher Beings as Factors 
-Chapter II: Unreliability of Desire Body 
-Chapter III: Preparation for the Higher Life 
+<h2 id="part-1">PART I: THE PLANETARY DESIRE WORLD</h2>
 
 
-[7] 
+CHAPTER I: ITS RELATIONSHIP TO MINERAL, PLANT, ANIMAL, AND MAN
 
-PART I
-
-THE PLANETARY DESIRE WORLD 
-[8] 
-
-CHAPTER I 
-ITS RELATIONSHIP TO MINERAL, PLANT, ANIMAL, AND MAN 
 In the Rosicrucian teaching the universe is divided into seven different Worlds, or states of matter, as follows: 
 
 World of God. 
