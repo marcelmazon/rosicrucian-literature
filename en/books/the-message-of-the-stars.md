@@ -2104,9 +2104,8 @@ When the student has mastered the meaning of the positions and aspects of the va
 
 In a similar manner students may combine the key-words of all the other planets and aspects from this Table and elaborate on them as they can. This will enable them to give a good reading of any horoscope with a little practice. For further practical demonstration of this method students are advised to study the children's horoscopes in Rays from the Rose Cross, where the writer makes use of it every month. These horoscopes are a mine of instruction which no student desiring to perfect himself in the stellar science can afford to be without. The key-words will bring to his mind what has been said about the general nature of the planets under consideration; this he may combine with the nature of the signs and houses where the planets are placed if a very full reading is desired. 
 
-[407] 
+#### <h4 id="table-of-planetary-key-words">TABLE OF PLANETARY KEY-WORDS</h4>
 
-TABLE OF PLANETARY KEY-WORDS 
 Sun sextile or trine - The vital, venturesome, dignified and authoritative Sun. 
 
 Sun square or opposition - The lazy, ambitionless, despotic and cowardly Sun. 
@@ -2124,8 +2123,6 @@ Moon sextile or trine - The magnetic, imaginative, plastic and changeable Moon.
 Moon square or opposition - The negative, procrastinating, dreamy, vacillating, visionary, frivolous, childish and worrisome Moon. 
 
 Saturn sextile or trine - The cautious, deliberate, methodical, persevering, tactful, thoughtful and thrifty Saturn. 
-
-[408] 
 
 Saturn square or opposition - The malicious, materialistic, melancholy, pessimistic, avaricious, obstructive, secretive and worrisome Saturn. 
 
@@ -2145,29 +2142,25 @@ Neptune sextile or trine - The occult, prophetic, inspirational, spiritual, devo
 
 Neptune square or opposition - The fraudulent, vague, deceptive, dishonest and mediumistic Neptune. 
 
-[409] 
+#### <h4 id="the-strength-and-weakness-of-the-planets-shown-by-elevation-exaltation-critical-degrees-etc">THE STRENGTH AND WEAKNESS OF THE PLANETS SHOWN BY ELEVATION, EXALTATION, CRITICAL DEGREES, ETC.
 
-THE STRENGTH AND WEAKNESS OF THE PLANETS
-SHOWN BY ELEVATION, EXALTATION, CRITICAL DEGREES, ETC.
 The foregoing delineation of the effects and influences of the planets in the various houses and signs, also by aspect and position such as parallel and conjunction, sextile, square, trine and opposition, are subject to wide modification according to the other configurations of the horoscope, and according to whether the planets are essentially dignified or in their detriment, exalted or in fall, or placed in critical degrees. The following table of planetary powers will show at a glance the signs in which the various planets are strong or weak; and when the student known in what sign a planet rules or is exalted it is only necessary to remember that it has its fall or detriment in the opposite sign. Thus the Sun rules Leo and is exalted in Aries. Hence it is very powerful in those signs, and as the opposite signs are Aquarius and Libra it is at once apparent that when placed in these signs the Sun is comparatively weak. Another important factor which it is necessary to take into consideration is elevation. The closer a planet is to the Midheaven, the more highly it is elevated and the more powerful it is. Consulting the table of planetary powers we find that Mars rules Aries and is exalted in Capricorn. Let us suppose that in a horoscope, Mars is found placed close to the Midheaven in Aries or Capricorn and square to the Sun which is near the Ascendant. Then the evil will be very much greater than if Mars were in Libra or Cancer, the signs of his fall and detriment, and the Sun placed in the Midheaven elevated above Mars. Similarly, if the Sun were placed in Aries, its exaltation sign, close to the Midheaven in high elevation and trine to Jupiter in its own sign, Sagittarius, then both planets are very strong and their effect would be much more marked than if they were placed in the signs of their fall and debility. By memorizing this table and bearing in mind the matter of elevation, the student will be able to form a much more accurate judgment of the effect of planets in any particular horoscope than if this is not taken into consideration. 
 
+| Planet  | Rules               | Detriment           | Exaltation    | Fall      |
+| ------- | ------------------- | ------------------- | ------------- | --------- |
+| Sun     | Leo                 | Aquarius            | Aries 19 Deg. | Libra     |
+| Venus   | Taurus, Libra       | Scorpio, Aries      | Pisces 27     | Virgo     |
+| Mercury | Gemini, Virgo       | Sagittarius, Pisces | Virgo 15      | Pisces    |
+| Moon    | Cancer              | Capricorn           | Taurus 3      | Scorpio   |
+| Saturn  | Capricorn, Aquarius | Cancer, Leo         | Libra 21      | Aries     |
+| Jupiter | Pisces, Sagittarius | Virgo, Gemini       | Cancer 15     | Capricorn |
+| Mars    | Aries, Scorpio      | Libra, Taurus       | Capricorn 28  | Cancer    |
+| Uranus  | Aquarius            | Leo                 | Scorpio       | Taurus    |
+| Neptune | Pisces              | Virgo               | Cancer        | Capricorn |
 
-TABLE OF PLANETARY POWERS 
 
-PLANET      RULES             DETRIMENT              EXALTATION       FALL
-SUN         LEO               AQUARIUS               ARIES 19 DEG.    LIBRA 
-VENUS       TAURUS, LIBRA     SCORPIO, ARIES         PISCES 27        VIRGO 
-MERCURY     GEMINI, VIRGO     SAGITTARIUS, PISCES    VIRGO 15         PISCES 
-MOON        CANCER            CAPRICORN              TAURUS 3         SCORPIO 
-SATURN      CAPRIC., AQUAR.   CANCER, LEO            LIBRA 21         ARIES 
-JUPITER     PISCES, SAGIT.    VIRGO, GEMINI          CANCER 15        CAPRICORN 
-MARS        ARIES, SCORPIO    LIBRA, TAURUS          CAPRICORN 28     CANCER 
-URANUS      AQUARIUS          LEO                    SCORPIO          TAURUS 
-NEPTUNE     PISCES            VIRGO                  CANCER           CAPRICORN 
+#### <h4 id="critical-degrees">CRITICAL DEGREES</h4>
 
-[411] 
-
-CRITICAL DEGREES 
 Another division of the Zodiac which it is easy to remember and important to take into consideration is based upon the passage of the Moon from the first degree of Aries through the twelve signs. It takes the Moon about 28 days to go around the Zodiac and she moves with an average velocity of 13 degrees. Thus if we start with the first point of Aries and measure one day's travel, the second day will commence at the 13th degree and the third at the 26th; the fourth commences at 9 degrees of Taurus and the fifth day she starts at 21 degrees of the same sign; on the sixth day she reaches 4 degrees of Gemini; on the seventh day she starts at 17 degrees of Gemini and completes the first quarter by reaching the cusp of Cancer on the morning of the eighth day. It is evident that she will strike the same degrees of the signs composing the other three quarters during the three weeks it takes her to complete the circuit, and thus we may easily memorize the critical degrees in the following manner: 
 
 IN THE CARDINAL SIGNS--Aries, Cancer, Libra and Capricorn, the first, thirteenth, and twenty-sixth degrees are critical. 
@@ -2176,37 +2169,27 @@ IN THE FIXED SIGNS--Taurus, Leo, Scorpio and Aquarius, the ninth and twenty-firs
 
 IN THE COMMON SIGNS--Gemini, Virgo, Sagittarius and Pisces, the fourth and seventeenth degrees are critical. 
 
-[412] 
-
 It has been found that when a planet is within orb of three degrees of one of these critical points it exercises a much stronger influence in the life than it would otherwise. Therefore students will also do well to remember this and should a planet be in a sign of fall or detriment, but in a critical degree, it is thereby strengthened and will do more good or bad according to its nature and the aspect it has. On the other hand, if a planet is in its exaltation sign, highly elevated and in a critical degree, its aspects will be exceedingly powerful and make themselves felt much more in the life than would otherwise be the case. 
 
-MERCURY BEFORE AND AFTER THE SUN
+#### <h4 id="mercury-before-and-after-the-sun">MERCURY BEFORE AND AFTER THE SUN</h4>
+
 Another important point which is only too often overlooked is the position of Mercury with regard to the Sun. When Mercury is in a lower degree of the same sign as occupied by the Sun, or in any degree of a preceding sign, he rises before the Sun and, so to speak, carries the rays of the Day Star forward. But when he is placed in a higher degree of the same sign as the Sun or in the sign following that occupied by the Sun, then he rises after the Orb of Day and is, so to speak, overshadowed. Therefore it has been found that when Mercury, the planet of mind, logic and reason, rises before the Sun, it gives a keener, better intellect than when he follows the luminary. 
 
-[413] 
+#### <h4 id="are-you-helping-your-stars">ARE YOU HELPING YOUR STARS?</h4>
 
-ARE YOU HELPING YOUR STARS? 
 One not infrequently hears students of Astrology express their annoyance at the way the stars work. They complain that the evil directions are always on time and marked in their effect, while very often the good directions seem to have little or no influence and they wonder why. Have you ever realized that you cannot possibly get something for nothing, any more than you can create something out of nothing. This holds good whether you want a loaf of bread, a position, favors, or anything else. If at any time you seem to get something without paying for it, you will have to settle later, and settle with interest, for it is nature's law of Justice that nothing is given for nothing. There must be an equivalent in one way or another; the scales may be tipped in one direction for a long time, but as surely as the pendulum swings equally to one side of the neutral point, so surely will the scales of justice swing, and swing until the balance is reached. 
 
 This holds good in Astrology; it is said that "God helps the man who helps himself;" you may also say that the stars help the man who helps himself, for they are God's ministers and it should always be remembered that the stars show tendencies, they mark times when opportunities are ripe, but they never under any circumstances compel anyone to act in this, that or the other manner. But neither are the directions haphazard events, they are lessons and experiences for us, of which we may avail ourselves, or not, as we choose within certain limits. For instance, the Moon comes to a square of Mars, and it will bring to us an opportunity to lose our temper, and get into trouble thereby, then when the trouble is over and we sit down to reflect on the occurrence we will most likely say to ourselves: Well, what fools we were to allow a little thing like that to play havoc with our happiness. On the other hand if the Astrological student uses his knowledge in the proper manner, then he should know what the effect of the Moon square Mars will be, he should resolve beforehand to be calm and say: Here is an opportunity for me to rule my stars. I am going to keep my temper well under control so that no matter what happens, I shall maintain my equilibrium. Then, when the opportunity comes along to lose his temper he may stand firm. Although he may feel the passions surging within, he may stand outwardly quiet, keep a cool head and when the danger is past he will have gained a victory and learned the lesson which it was intended he should learn. Or suppose it is a square of the Moon to Saturn; this will cause people to worry and look upon the dark side of life, but the astrological student may say to himself when such a configuration is approaching: No, I am not going to worry; worry will not help matters, it hinders, because it takes from me all my strength, wherewith otherwise I could overcome conditions. I am going to look at the bright side of the matter and see what I can do to remedy this trouble. 
 
-[415] 
-
 As a matter of fact most of the things we worry about never come to pass, and if the student can learn under this planetary direction to keep his equilibrium, to stop worrying, then he has ruled his stars and learned an important lesson. Thus, if he helps his stars by learning the lessons which they are endeavoring to teach him, the evil directions will not have the same power over him as if he simply sits down and folds his hands saying: "Well, I cannot help it, I am under the evil directions and naturally things are bound to go wrong in every particular ." There is in the horoscope a dominant factor, namely, the Individual Will; bear in mind that the horoscope shows only tendencies and it has no power whatever to compel you; compulsion is from within yourself. You, in the final analysis, are the dominant factor in that horoscope, and can by an exercise of sufficient will power rule your stars. It is admitted that we are all weak, and therefore not able to exercise the necessary will power at all times; but that is exactly why these evil directions are sent to us, to enable us to cultivate a stronger will to do the right thing at the right time and it depends upon ourselves whether we shall be compelled by circumstances from without or by our own will from within. Surely that is the proper way, and astrological students above all other people ought to be able to guide their lives safely amid the rocks and shoals of existence, because they have proper warning, they know what is coming, and they should prepare for it. 
-
-[416] 
 
 On the other hand it is asked: Why do the good directions not bring a corresponding measure of benefit? And the answer to that question is, for the same lack of cooperation. It is as absolutely necessary to help our stars in one direction as to hinder them in the other. Are you out of a position with perhaps the family exchequer running low and no means in sight wherewith to replenish it; but your hopes centered upon a strong favorable direction such as perhaps a trine of the progressed Moon to the ruler of the Sixth House or the Sun? Under these conditions you feel sure, from an astrological standpoint, that you are going to obtain a good position which will put you on easy street. Very well, you may be sure that the opportunity will come, but do not expect it to be laid in your lap without a single effort on your part; if a thing is worth having it is worth going after, it is worth making the very best efforts to get it; do not neglect any detail, dress yourself carefully, but not showily when you go to see the person who has it in his power to bestow the favor, remember, first impressions are important; have all your ammunition ready in the shape of recommendations and everything else that you would have were you not depending upon an astrological aspect to help you get the position. Use every proper means if impressing the prospective employer with your ability and you may depend that your effort will be successful, for you have helped your stars, you have grasped your opportunity. Or, are you about to embark in a business venture with some one else and you feel very confident because the Moon is trine to the Sun and Venus in the Seventh House? Be careful that you do not lay aside your caution on that account, thinking that under such a direction no one can come into your partnership who is not all right. If you do, you neglect your part and you will have no reason whatever to blame the stars if later on it is shown that the person is not all you expected him to be. Nothing is needed in the world today in the same degree that we need common sense, and this applies to the department of astrology, as well as to every other department of life. Opportunity may be likened to a toboggan slide between ourselves and our desires; it is necessary for us to make an adequate initial effort in order to launch our sled upon this incline, but once we have done our part, then everything will go along swimmingly under favorable directions, for then the stars are with us to impress others in our behalf, or to strengthen our penetrative power so that we may know what is best for us. 
 
 If you want to know positively the power of directions, even transits, as we call the actual position of the stars in the sky, take an ephemeris and note the Moon's aspects for the current month. When the Moon is in opposition to Mars you will find in people a general lack of energy and ambition, they would rather tear down than build. When we have a conjunction of Mars and the Moon, people will be active and energetic, but impulse rather than common sense will govern, hence they will accomplish little good, and may do harm without intention. But when the Moon and Mars are trine, there will be a general desire among people to do something of a constructive nature, and they will meet with success in such efforts. And last, but not least, when the Moon is square to Mars it will make people irritable, quarrelsome, destructive, ready to fly at each other, unreasonable and unmanageable. 
 
-[419] 
+### <h3 id="chapter-19">CHAPTER XIX: MIND AND THE RULING PLANET</h3>
 
-CHAPTER XIX 
-MIND AND THE RULING PLANET 
 When we wish to study the character, disposition and temperament of anyone we must first realize that the mind is the keystone of the arch of the human personality. But character, disposition and temperament do not depend so much upon the quality of mind, whether it be keen, sharp, and alert or slow and plodding, as upon what channels it takes for its expression. Intellects of the first magnitude are sometimes put to perverted use to the detriment of the community and the individual who thus misuses his divine heritage, while a slow and very inferior mind may minister to many in lowly but loving meekness and reap sheaves of soul-growth thereby. Thus it is not sufficient to determine the quality of the mentality; we must also ascertain what is the channel of its expression. To judge that or any other matter thoroughly really involves consideration of the horoscope as a whole, separately and apart from its bearing upon all other matters. But in a general way the character and disposition may be learned from the Sun, Moon, Mercury, Ascendant and the ruling planets. 
-
-[420] 
 
 It has become the custom of many astrologers to take the lord of the rising sign as the ruler of the horoscope. That is correct in Medical Astrology because the Ascendant represents the body, but when we want to judge the character which is the combination of all the forces focused through the horoscopical wheel of life the matter is different. Then we must find what planet has the most dominant influence in the life and that is then the life ruler regardless of whether or not it is the ruler of the Ascendant. To find that planet look first to the lord of the Ascendant. If he is elevated, essentially dignified or angular and strongly aspected, remember, it matters not whether the aspects are good or bad as long as they are close and plentiful (for if it were only the good aspects that made the ruler then there would be only good people in the world. But we know that there are people of all shades of character and therefore it is necessary to select the ruler according to the aspects, regardless of whether they are good or bad), and above all, if the aspects are close, then the lord of the Ascendant is also the ruling planet, for he will exercise the most potent influence in the life. 
 
@@ -2214,89 +2197,94 @@ On the other hand if another planet is more highly elevated than the ruler of th
 
 But if there are two planets running neck-and-neck in the race for rulership, so to speak, with no strongly marked difference in favor of one or the other so that it is difficult to make a choice, do not utterly discard one and choose the other, for then they will both be very active in the life and must be classed as co-rulers. 
 
-[421] 
+#### <h4 id="the-influence-of-ruling-planets">THE INFLUENCE OF RULING PLANETS - WELL ASPECTED</h4> 
 
-THE INFLUENCE OF RULING PLANETS
-WELL ASPECTED 
-THE SUN AS RULING PLANET 
+THE SUN AS RULING PLANET
+
 When the vital, courageous and ambitious well aspected Sun is ruler, it gives dignity to the whole nature, a lofty price that would not stoop to do anything small, mean or degrading, a fine and noble courage that may show itself on occasion as much by disdainfully ignoring the attacks of an adversary whom he considers too far beneath his notice as by a fight to the death for a principle. There is an intense craving for recognition and leadership which will make it very difficult for him to occupy a subordinate position; also an intense warm-hearted, affectionate and demonstrative nature. 
 
-VENUS AS RULING PLANET 
+VENUS AS RULING PLANET
+
 When the refined, luxurious and musical well aspected Venus is ruler of the horoscope it gives tender, loving, even amorous nature which craves love as we all desire air, for love is the very life breath of such people. They are extremely fond of children and usually have many pets which serve as avenues for their expression of love. They are also pleasure-loving and fond of social intercourse, neat and artistic in their ideas and in the decoration of their homes. They love jewelry and anything else that adds beauty to the life; they are luxurious in all their tastes, very amiable and much beloved by all; their greatest faults is an inordinate love of ease and an aversion to soiling their hands. 
 
-MERCURY AS RULING PLANET 
+MERCURY AS RULING PLANET
+
 When Mercury the planet of reason, expression and dexterity is the well aspected life ruler it gives a keen, quick-witted mind which craves knowledge as a thirsty man craves water and absorbs it as readily, a mind that solves, apparently without effort, the most intricate problems. Thus there is ability in the various branches of mental endeavor, science and literature, but these people are also very apt and forceful orators and have an extraordinary dexterity so that they can usually turn their hands to anything. They are fond of traveling and very successful as salesmen and agents. 
 
-[423] 
+THE MOON AS RULING PLANET
 
-THE MOON AS RULING PLANET 
 When the romantic, imaginative and restless well aspected Moon is the life ruler, the people born under its influence are indeed rolling stones and far fields always look greenest to them. Therefore they have an overwhelming desire for travel and change which generally does not permit them to stay in one place longer than necessary to earn the money which will enable them to go to the next. They have a most vivid and fanciful imagination and a romantic nature entirely foreign to any practical endeavor; listless, restless and unstable as the tide that comes and goes, flotsam and jetsam upon the sea of life. They are generally mediumistic, though usually unconsciously so, but are otherwise quite harmless through utterly irresponsible and untrustworthy where anything requiring an effort is concerned. 
 
-SATURN AS RULING PLANET 
+SATURN AS RULING PLANET
+
 When the serious, sagacious and profound well aspected Saturn is life ruler, the people born under its influence are of a profoundly thoughtful, serious nature. They have a keen sense of responsibility and are full of forethought, hence trustworthy and reliable advisors; they are systematic, orderly, and have good executive ability, frugal in their tastes, thrifty and saving; just to a degree, but their justice is cruel, hard and untempered by the slightest degree of mercy. They are chaste, sober and exemplary in their lives but they have neither mercy nor pity for those who are unable to overcome faults or habits or who otherwise become delinquent to the laws of society. They care little or nothing for pleasure or the society of others and generally keep their own counsel and company; they are highly respected, esteemed and trusted in the community but neither care for nor merit the love of their fellow men. 
 
-JUPITER AS RULING PLANET 
+JUPITER AS RULING PLANET
+
 When the jovial, genial and generous well aspected Jupiter is life ruler, the people born under his influence are ensouled by a great desire for honor, respect and esteem in their community. Therefore they aspire to be pillars in the church, legal lights, or to fill an honored position in the pulpit; failing this they enter by preference one of the professions as lawyer or doctor. They are cordial, genial people with a jovial smile and a hearty handshake that make one glad to meet them wherever the go, so they are always welcome. They are law-abiding and just but inclined to temper their justice with mercy; and while they themselves live lives beyond reproach they are kind, forgiving and lenient to those of a weaker morality whose lives are smirched by sin and crime, hence they are philanthropic and always ready to give to charity and benevolent work. They are not only respected and esteemed but beloved in the community where they reside. 
 
-[425] 
+MARS AS THE RULING PLANET
 
-MARS AS THE RULING PLANET 
 When the enthusiastic, energetic, constructive and militant Mars is the well aspected life ruler, the people born under the influence of this dynamic rays are eager for the fray and battle of life. They are ensouled with an ardent desire to conquer the world. To them it does not so much matter what they do so long as it affords an adequate outlet for the constructive energy which, figuratively speaking, threatens to burst them unless released. The bigger and more difficult the undertaking, the more they exult; hence they become the pioneers and pathfinders of civilization, the engineers and contractors who build our cities and the highways and byways that connect them, who develop the resources of the world and turn them over to others to use. They are extremely impatient of restraint and will brook no interference with their plans or methods. These people govern others and bend them to their will by the whiplash of sheer force for they have neither tact nor diplomacy but win by the merit of might. They earn money easily and spend it as lavishly and foolishly. They are extremely extravagant and when reverses come they are down and out for the time being but they never stay down, the indomitable inner force soon accomplishes rehabilitation and with it the old reckless ways of living reassert themselves. They are generally foolhardy to a degree, hence liable to accidents and a violent end. 
 
-URANUS AS RULING PLANET 
+URANUS AS RULING PLANET
+
 When the original, romantic and eccentric well aspected Uranus is life ruler the character is idealistic, unconventional and utopian. These people are generally out of patience with the conventional ways of living and determined in their efforts and endeavors to break the shackles of society and live a bohemian life. They are full of fads and given to usually beliefs, too advanced for the majority. At the same time they are pioneers of a new age in which many of the ideas we now consider utopian will be modified so that they will be held by all. These people are also the inventors of the world, in touch with the higher worlds where ideas merge from the Divine Mind to impinge upon the minds of those who are sufficiently sensitive to grasp them and bring them to birth for the use of humanity. The Uranians are very headstrong and always ready with an argument to defend their ideas and secure a convert to their cults; odd in dress, in food, in ideas, they are a class apart. 
 
-NEPTUNE AS RULING PLANET 
+NEPTUNE AS RULING PLANET
+
 When the occult and mystical well aspected Neptune is life ruler we have a person of a most peculiar power whose chief mark is a strange expression of the eye which must be seen to be appreciated. It is as if he looked right through and through whatever is before him, but it is not necessary to discuss this type for there are so few that they are very seldom encountered by the average astrologer and only an occultist can know and judge another occultist. 
 
-[427] 
+#### <h4 id="the-influence-of-the-afflicted-ruling-planets">THE INFLUENCE OF THE AFFLICTED RULING PLANETS</h4>
 
-THE INFLUENCE OF THE AFFLICTED RULING PLANETS
 When the life rulers are afflicted by the conjunction, parallel, square, or opposition from the other planets, especially from the malefics--Saturn, Mars, Uranus and Neptune--they affect the life in an inimical manner which may be outlined as follows: 
 
-THE SUN AS RULING PLANET 
+THE SUN AS RULING PLANET
+
 When the cowardly and arrogant afflicted Sun is life ruler, people born under his debilitating influence are egotistical in the extreme, full of swagger, self-importance and arrogance. If they obtain authority over anyone whom they think they can overawe, they will rule such dependent with a rod of iron, trample upon his tenderest feelings without a twinge of conscience or compunction, but if they themselves come under the authority of another these spineless weaklings will then cringe, creep and cater to the slightest whim of their master though they hate him with an intense hatred that is only kept in check by their fear. They whine and wheedle at the faintest frown though ready to spring and devour him if only they dared. It is the signature of one of the most despicable characters in the gamut. 
 
-VENUS AS RULING PLANET 
+VENUS AS RULING PLANET
+
 When the slovenly, slothful and lazy afflicted Venus is ruler of the horoscope the persons are sensual and profligate, untidy and slatternly, of depraved, perverted tastes and utterly disreputable in their conduct; they are social parasites. They use loud and obscene language and are fond of music of a clanging, jarring nature. They love revelry and debauch, their affection expresses itself in coarse lusts, unbridled passion, free love and moral perversion. They revel in spangles and tinsel, loud, clashing colors and cheap imitations of beauty and worth. 
 
-MERCURY AS RULING PLANET 
+MERCURY AS RULING PLANET
+
 When the untruthful, dishonest and clumsy afflicted Mercury is life ruler the people under his influence are either entirely mentally unsound so that they must be confined for their own good in proper institutions, or they are so cunning that they are able to hide their mental bias and prey upon society as thieves, pick-pockets, defaulters and criminals of similar nature. They are notoriously untruthful and prefer misleading others to telling the truth, even where it is of no benefit to them. They are either dull of comprehension or of such consummate cunning that they seem to be driven by a resistless force to get the nest of some unsuspecting person. They excel as confidence men, badgers and in similar unsavory occupations. They are thoroughly unreliable and dishonest in all their dealings; neurotic and perverted, scabs on society. These people are also inveterate talkers and always ready to criticize, slander or ruin the reputation of others. They are a menace to society in all their activities. 
 
-THE MOON AS RULING PLANET 
+THE MOON AS RULING PLANET
+
 When the changeable and visionary afflicted Moon is life ruler it makes the persons extremely restless and averse to labor of any kind, fidgety and always on the move; if they cannot travel from one city to another, they move from one house to another and from one situation to another as often as possible and they infuse the same restlessness into whosoever they come in contact with. If the afflictions are very severe the mind suffers and their mental phases coincide with the changes of the orb of night. 
 
-[430] 
+SATURN AS RULING PLANET
 
-SATURN AS RULING PLANET 
 When the morbid, melancholy and malicious afflicted Saturn is life ruler he robs life of all joy and brightness so that these people become recluses and melancholy misanthropes; so miserly and avaricious that they will starve themselves and forego the comforts of life even when they have ample means to satisfy them. They are cruel, hard and suspicious of the acts and motives of others and if they take up work as a detective they become human ferrets, blood-hounds who will hound their prey to death and gloat over his misery. If anyone frustrates such people they will hold spite forever and aim to get even, if it takes a lifetime. But the end of these people is always bad, sometime or other they overreach and fall into the trap they have set for others. They usually die an ignoble death and the world gives a sigh of relief when they pass out. 
 
-JUPITER AS RULING PLANET 
+JUPITER AS RULING PLANET
+
 When the indolent, bombastic and egotistical afflicted Jupiter is the life ruler the person is often a parasite on the social tree, a gambler, confidence man and speculator, sporty, fond of display and ostentation; he wears loud clothing, paste diamonds and cheap jewelry. He is usually met with in pool rooms, on race tracks and in similar places; playing poker or playing the ponies are among his favorite means of earning a living; he is very loud and egotistical anxious to attract attention no matter how; he often figures in court proceedings on account of shady transactions or immoral conduct or unpaid bills, for he is an adept at obtaining credit for everything he wants and never pays the price of his expensive tastes if there is any way of avoiding a settlement of his debts. Among the laboring class he usually figures as a demagogue and agitator, inciting to strikes and riots, but he is always ready to sell out a striking union to the employers. We find them among the typical Italian padrones, as keepers of sweat-shops, and in similar occupations. 
 
-MARS AS RULING PLANET 
+MARS AS RULING PLANET
+
 When the arrogant, egotistical and foolhardy afflicted Mars is life ruler the person is an egotist of the first order, bound to attain to his wishes by force or destruction if other means fail; in fact he prefers to bulldoze others to do his will rather than to have them submit without a struggle. He is a first-rate slave driver, section boss on the railway, in a construction camp and similar places, a liar, braggart, bouncer, or pugilist, a daredevil willing to risk his life and the lives of others at any moment and in any undertaking. 
 
-[432] 
+URANUS AS RULING PLANET
 
-URANUS AS RULING PLANET 
 When the stubborn, erratic and independent afflicted Uranus is life ruler the mentality is usually so obsessed in one direction or another that such people become fanatics and generally also there is an excessive sensuality and perverted taste. They are always ready and anxious for an argument as a means of airing their ideas but they are so hypnotized by their own particular fad that they are never convinced and can never see when the argument goes against them. They always espouse the most radical and unconventional ideas. 
 
-NEPTUNE AS RULING PLANET 
+NEPTUNE AS RULING PLANET
+
 When the mediumistic, neurotic and self-indulgent afflicted Neptune is life ruler, the persons are of a dreamy, neurotic and negative nature, apt to become the medium of disembodied spirits or even obsessed by them. They are likely to evolve psychic powers of a low grade such as involuntary clairvoyance, crystal gazing, etc., and if they are unable to develop these faculties they often simulate mediumship and other psychic gifts for the purpose of duping or defrauding others. They have a strong faculty of imitation and easily become adepts at deception. 
 
-[433] 
+THE SIGNS AS MENTAL SIGNIFICATORS
 
-THE SIGNS AS MENTAL SIGNIFICATORS 
 When the Cardinal Signs, Aries, Cancer, Libra and Capricorn, are on the angles, that is to say, the Ascendant, Midheaven, Fourth and Seventh Houses, it is a general indication that the person is mentally alert, quick to grasp an idea, active and enthusiastic in whatever work he undertakes; one who has organizing and executive ability and is capable of carrying whatever enterprise he may start to success; a bold, brave indomitable spirit. This is especially true when many planets are in Cardinal Signs and these people may be classed as the business men of the world. 
 
 When the Fixed Signs, Taurus, Leo, Scorpio and Aquarius are on the angles it indicates a thoughtful but slow and plodding type of mind which requires time to come to a decision. They always look before they leap but when they have made up their minds they adhere to the course mapped out with a remarkable patience and perseverance which in the end insure success. They are very reliable and can be depended upon to keep their word and meet their obligations. Their principal fault is that they are too apt to get into a rut and become narrow-minded. They are very original and may be classed as the inventors of the world. These delineations are especially true when many planets are in Fixed Signs. 
 
 When the Common Signs, Gemini, Virgo, Sagittarius and Pisces, are on the angles the mind is flighty and superficial, wavering and versatile. These people are often very quick to grasp a point and form a decision, but just as ready to forget and change their minds. They are adepts at imitation and often pretend to virtues or abilities entirely foreign to their nature. They are easily swayed by the winds of emotion; one moment they may be highly elated over some small matter and the next a trifling trouble bows them down to earth. They are inconstant and unreliable in all their dealings with others because they do not know their minds two minutes in succession. They constitute the agents and middlemen of the world, where they occupy a subordinate or serving position. These delineations are particularly apt when many planets are in Common Signs. 
 
-[434] 
+#### <h4 id="mental-effect-of-the-rising-sign">MENTAL EFFECT OF THE RISING SIGN</h4>
 
-MENTAL EFFECT OF THE RISING SUN
 When there are no planets on the Ascendant the rising sign has considerable influence on the type of mind. 
 
 ARIES rising gives an energetic, enthusiastic and ambitious type of mind, but inclined to rash and impulsive acts and a quick temper. 
@@ -2305,8 +2293,6 @@ TAURUS rising gives a stubborn, headstrong and selfish nature, envious, covetous
 
 GEMINI rising gives a quick, alert and versatile mind, easily adaptable to conditions but so fluidic that it lacks the ability absolutely essential to sustained effort and lasting success. 
 
-[435] 
-
 CANCER rising gives a negative, imaginative and receptive type of mind, sometimes of a rather morbid nature, reserved and mistrustful; but when such a person has made up his mind to do something he is usually very tenacious in his adherence to his ideas; sympathetic, hospitable and kind. 
 
 LEO rising gives a frank, open, ambitious mind; a powerful will and a proud, honorable and kind disposition but inclined to be hasty, quick-tempered, sensual and apt to go to extremes. 
@@ -2314,8 +2300,6 @@ LEO rising gives a frank, open, ambitious mind; a powerful will and a proud, hon
 VIRGO gives a critical, scheming and ingenious mind, able to evolve ideas galore but usually lacking the initiative to carry them out unless prodded by others. These people are very selfish, self-centered and reserved. They do not take other people into their confidence and they seldom become really familiar with anyone. 
 
 LIBRA rising gives an easy-going but kindly and sympathetic type of mind which is unable to grasp or cope with the exigencies of existence. Therefore these people drift along the stream of life, taking as much of the sweet as they can get and using every effort to avoid the bitter. They crave approbation and in return adore their friends and are usually bound up in them. 
-
-[436] 
 
 SCORPIO rising gives a dual type of mind. This is one of the most mystical of the twelve signs. Some times it is symbolized as an eagle representing the lofty, aspiring type soaring as does the eagle into the ether. At other times it is typified as a serpent which crawls in the dust, and again as a scorpion. There is also considerable occult significance in the fact that the serpent has the sting in its head and the scorpion has it in its tail. But for the present purpose we will judge the two latter as one. 
 
@@ -2327,29 +2311,25 @@ SAGITTARIUS rising gives an energetic, aspiring, benevolent mind but rather lack
 
 CAPRICORN rising gives a tactful, diplomatic, deep and thoughtful type of mind but selfish, envious and covetous. These people are apt to get into a rut and become very narrow, and when they are crossed they hold spite and plan revenge. They are self-reliant and persistent in whatever they undertake. 
 
-[437] 
-
 AQUARIUS rising gives a good intellect, a friendly, sympathetic and humane disposition, but these people are very original and independent; they will brook no interference with their vagaries and pursue their own course regardless of what others say or think, sometimes even against their own reason and just to assert their independence. 
 
 PISCES rising gives a sentimental and romantic type of mind, inclined to worry and restlessness, apt to turn to the occult, and to mystical ideas. The mind is very sensitive and often takes in the conditions of others with the effect of unsettling and troubling the person. 
 
-[438] 
+### <h3 id="chapter-20">CHAPTER XX: YOUR LUCK IN LIFE</h3>
 
-CHAPTER XX 
-YOUR LUCK IN LIFE 
 Health, wealth and happiness are to most people the prime objects of life, and whoever has them is rightly considered lucky, though as we have endeavored to show, luck is very closely linked to merit, and we have earned what we have either in this or former lives and what we lack in fortune or ability we may acquire in this or later lives by good use of our opportunities. 
 
 Thus health and disease, vocational ability, social and financial fortunes, marriage, etc., are shown in the horoscope as outlined in the following pages. 
 
-HEALTH AND DISEASE
+#### <h4 id="health-and-disease">HEALTH AND DISEASE</h4>
+
 The subject of health and disease is thoroughly elucidated in that part of the book which deals with medical astrology, but those who do not care to go into the depths of the subject will find the following general hints helpful in determining the matter for ordinary purposes. 
 
 The main indicators of health and disease are the Sun, Moon and Ascendant, together with the planets in the First House or just above the Ascendant. The twelve signs of the Zodiac confer a vitality of differing degrees and when there are no planets near the rising sign it is of much greater importance than otherwise. The signs may be classified as follows: 
 
-
-Aries, Taurus, Leo, Scorpio and Sagittarius are strongly vital signs. 
-Gemini, Virgo, Libra and Aquarius are moderately vital. 
-Cancer, Capricorn and Pisces are signs of weak vitality.
+Aries, Taurus, Leo, Scorpio and Sagittarius are strongly vital signs.  
+Gemini, Virgo, Libra and Aquarius are moderately vital.   
+Cancer, Capricorn and Pisces are signs of weak vitality.  
 
 Both the Sun and the Moon affect health in all horoscopes, but the Sun is the particular significator of health for men and the Moon has the same function in a woman's horoscope. Thus, if a boy is born at a New Moon which is a total eclipse, he will have very poor chances of surviving. The same may be said of a girl born at the Full Moon when that is eclipsed. 
 
@@ -2367,27 +2347,22 @@ The afflictions from Cardinal Signs, Aries, Cancer, Libra and Capricorn, indicat
 
 The afflictions from Fixed Signs, Taurus, Leo, Scorpio and Aquarius, indicate organic or hereditary tendencies which are difficult to conquer and usually become chronic. 
 
-[441] 
-
 The diseases indicated by Common Signs, Gemini, Virgo, Sagittarius and Pisces, are convertible. They may be entirely overcome or run their course until they become chronic, according to the mental temperament of the person in whose figure these are found. 
 
 The places of the malefics, Saturn, Mars, Uranus or Neptune always indicate weak points in the anatomy and the place of Saturn is particularly sensitive; no matter whether he is afflicted or not it is always a danger point. By knowing the parts of the body which are ruled by the different signs it is easy to see where the weak limits in the chain of human health are located: 
 
-
-Aries rules the head and face. 
-Taurus rules the neck and throat. 
-Gemini rules the lungs, arms and shoulders. 
-Cancer rules the breast and stomach. 
-Leo rules the heart and dorsal region of the back. 
-Virgo rules the abdominal parts. 
-Libra rules the kidneys and loins. 
-Scorpio rules the genitals and rectum. 
-Sagittarius rules the hips and thighs. 
-Capricorn rules the knees. 
-Aquarius rules the ankles. 
-Pisces rules the feet. 
-
-[442] 
+Aries rules the head and face.  
+Taurus rules the neck and throat.  
+Gemini rules the lungs, arms and shoulders.  
+Cancer rules the breast and stomach.  
+Leo rules the heart and dorsal region of the back.  
+Virgo rules the abdominal parts.  
+Libra rules the kidneys and loins.  
+Scorpio rules the genitals and rectum.  
+Sagittarius rules the hips and thighs.  
+Capricorn rules the knees.  
+Aquarius rules the ankles.  
+Pisces rules the feet.  
 
 Thus if Saturn is placed in Leo it will indicate that the person is subject to heart trouble. If it is in Pisces it will indicate cold feet. The hot and inflammatory Mars afflicted in Aries, the sign which rules the head, would indicate a tendency to fevers, and so on with the other planets. 
 
@@ -2395,9 +2370,8 @@ There are three nebular spots located in the Zodiac, namely: The Pleiades in 29 
 
 With these general indications the ordinary student should be able to judge a horoscope with respect to health and disease and should a more thorough examination be desired, a study of the matter in the part dealing with Medical Astrology will give the necessary information. 
 
-[443] 
+#### <h4 id="the-social-and-financial-fortunes">THE SOCIAL AND FINANCIAL FORTUNES</h4>
 
-THE SOCIAL AND FINANCIAL FORTUNES
 The vocation, financial fortune and social standing, like all other matters, should be judged from the whole horoscope, but the Second, the Sixth, the Eighth and the Tenth Houses with their lords are the chief significators. 
 
 THE SECOND HOUSE indicates what the person earns by his efforts. When Jupiter, Venus, the Sun, the Moon or Mars are well aspected and placed in the Second House or lord thereof they attract wealth commensurate with the number and closeness of their aspects and their position as to dignity, exaltation or elevation. But if Saturn, Mars, Uranus or Neptune are elevated and afflict the Sun and Moon it is a sure sign of financial misfortune. 
@@ -2406,9 +2380,8 @@ Jupiter in the Second House is moderately generous but Mars makes a free spender
 
 THE EIGHTH HOUSE: The planetary influences which bring financial fortune through the person's own efforts when operating through the Second House bring money through the marriage partnership or legacy when operating through the Eighth House. Thus Jupiter in the Eighth House indicates money by marriage or partnership if well aspected by the Sun, Moon, Venus or the lord of the Seventh House. But if aspected by Saturn or Uranus it shows a legacy. Mars in the Eighth House well aspected shows a husband, wife or partner with good earning capacity but too free a spender. The other indications enumerated as acting through the Second House may be similarly applied to the Eighth. 
 
-[444] 
+#### <h4 id="vocation">VOCATION</h4>
 
-VOCATION
 When the majority of the planets are well aspected and above the Earth or when the Sun is in good aspect to the Moon and Mars it is generally easy for the person to obtain a situation and when the Sun is in good aspect to Jupiter it gives promise of a lucrative occupation. But when the majority of the planets are below the Earth, weak and afflicted, or when the Sun is in bad aspect to the Moon, Mars or Jupiter, it is usually difficult for the person to find employment. 
 
 To find the employment in which the person will be most likely to succeed consider the nature and significance of the Houses and Signs which hold the majority of the planets. 
@@ -2425,8 +2398,6 @@ The ruling planet also has an important bearing on the life-work, and the occupa
 
 THE SUN as life ruler indicates a leader--it may be of a state as king or president, or of a province or city as governor or mayor, or as head of a corporation, whether large or small. Thus when the Sun is life ruler, especially if it is in the Tenth House, it indicates a government position or employment in an executive capacity. 
 
-[446] 
-
 VENUS as life ruler indicates employment in an artistic capacity as a musician, singer, actor, theatrical agent, manufacturer or dealer in millinery or fancy goods, laces, embroidery and women's clothing; candy and confections, flowers or ornaments, etc. 
 
 MERCURY as life ruler indicates success in literature or on a lecture platform; as printers, publishers, or bookkeepers; as school teachers, express agents, mail carriers, commercial travelers, stenographers, secretaries, office workers and all other clerical and traveling occupations. 
@@ -2434,8 +2405,6 @@ MERCURY as life ruler indicates success in literature or on a lecture platform; 
 THE MOON as life ruler signifies success as traveling salesmen, railroad employees, ticket agents and other positions concerned with the transportation of the public; car builders, hotel keepers, dealers in fluidic commodities, nurses, obstetricians, fishermen, sailors and others employed on shipboard and in the shipping trades. 
 
 SATURN as life ruler signifies all employment connected with the earth such as agriculture, gardening, mines, building and building materials; diplomats, judges, politicians, police, jailers, detectives, secret service agents and all whose work is accomplished by stealth and strategy; night workers and those engaged in slow, plodding, laborious work. 
-
-[447] 
 
 JUPITER as life ruler signifies success in the professions, as lawyers, judges, clergymen, ambassadors, cabinet officers, senators, congressmen or other positions of public trust; bankers, financial agents, physicians, benevolent or social workers. 
 
@@ -2445,30 +2414,23 @@ URANUS as life ruler signifies employment in which air, electricity, thought pow
 
 NEPTUNE as life ruler indicates occupations involving the occult, watery and psychic elements; also those in which fraud and deception are rampant because the genuine psychic article is so rare. These occupations include those of astrologers, mediums and clairvoyants. Neptune also produces some highly inspirational musicians. 
 
-[448] 
+### <h3 id="chapter-21">CHAPTER XXI: MARRIAGE AND OFFSPRING</h3>
 
-CHAPTER XXI 
-MARRIAGE AND OFFSPRING 
 There was a time when man-in-the-making was male-female and able to beget children without the assistance of another, but when one pole of the creative force was directed upward to build the brain and the larynx mankind ceased to be bisexual and thenceforth each male or female had to seek its complement to accomplish the begetting of children. Therefore marriage was instituted by the angels as a sacrament and the sacred rite of generation was performed under their supervision in great temples at certain times of the year when the interplanetary lines of force were propitious for propagation. The rest of the time all lived together in the paradisiacal bliss of chase companionship. Therefore parturition was painless and sickness and sorrow were unknown. 
 
 But when, under the guidance of the fallen angels, the Lucifer spirits, mankind commenced to exercise the creative function for pleasure regardless of the stellar ray, death entered and the woman began to bring forth her children in sorrow and suffering. For though a minister may legally marry people, he, being ignorant of the stellar script, cannot see if the basic harmony necessary to truly mate two souls is present. Therefore, alas, most marriages fail to bring the happiness and satisfaction of soul which mark the companionship of true mates. Besides there is the pain of parturition incidental to mismating and the increased suffering of the ego which is building its body under inharmonious prenatal conditions. Surely, a heavy toll to pay for ignorance of the stellar science! Worse still, in the great majority of cases where people do know astrology or where they are informed of its pronouncement in their case, they refuse to heed its warning voice when it is contrary to their desires. They often even hate the astrologer who has the temerity to tell them that sorrow is in store if they wed. Therefore it is at best a thankless task. 
 
 But this matter is so important at our present stage of evolution, it has such far-reaching consequences both for the individual and for society, that it is really criminal to leave to chance the choice of a mate. Fortunately we are nearing the Aquarian Age and there is no doubt that people will then study the stellar script; perhaps they will institute matrimonial bureaus maintained by the church or state, with a view to guiding the growing generation in the right direction. If children whose nativities are harmonious could visit at each others' homes and become playmates the attachment would undoubtedly ripened into love with the years. Then marriage would not end the romance as it unfortunately does in the majority of unions consummated at the present time, but it would intensify love and happiness year by year. The bond of affection would grow stronger and aid the soul growth of those under its magic spell as no other relation can. 
 
-[450] 
-
 Children would not be accidents then. They would be loved into life and they would scarcely miss the heaven they had left for they would find in their homes a heaven on earth. Therefore we pray that the time may soon come when each community will have its matrimonial bureau conducted upon the astrological basis where parents may send their child's birth data and receive in return the name and address of another child who will be harmonious as a mate. If the parents of both feel satisfied with respect to family connections, etc., the children could be made acquainted,; if not, other names could be submitted by the bureau until one suitable according to both the social and astrological standards was found. The children could then become playmates, and there is no doubt that in time their affection would grow into a love that would satisfy the youthful sentiments of romance. Later an ideal marriage would crown their happiness. 
 
 Nor should we wait for the church or state to take the initiative. If parents who believe in astrology would form associations, maintaining a central bureau where horoscopes of their children could be kept on file, grouped and classified with a view to finding true mates for them, it would give such a practical demonstration of the worth of astrology that in twenty five years enough cases could be pointed out to arrest the attention of conservative people. 
 
-[451] 
+#### <h4 id="harmony-and-discord">HARMONY AND DISCORD</h4>
 
-HARMONY AND DISCORD
 Man is, as Paul says, spirit, soul and body. Therefore the blending of two beings in perfect harmony requires that they be in accord on the spiritual, moral and physical planes, symbolized in the horoscope by the Sun and Moon (Spirit or Ego), Mars and Venus (soul or sex) and the Ascendant governing the physical body. These significators taken together with the sign on the Seventh House and the planet therein show the innate agreement or discord between people so far as the matrimonial relationship is concerned. 
 
 The physical harmony is judged by comparison of the rising sign of the two persons involved. Fiery signs agree, so do earthy, airy or watery signs. But a person with a fiery sign rising cannot successfully mate with one who has a watery or earthy sign on the Ascendant. It is like mixing fire and water, or heaping earth upon fire. Fire will only combine with fire and air. People having a watery sign on the Ascendant may harmonize with a person having an earthy sign rising, or vice versa. But neither the earthy nor watery signs will mix with the fiery triplicity. 
-
-[452] 
 
 On the moral plane the relationship is governed by Mars and Venus. If Venus in the horoscope of one person is the same sign and degree as Mars in the horoscope of another person, there will be love at first sight when they meet, but the attraction will be sexual and unless there are other powerful signs of harmony, Mars will dominate Venus, especially if Mars is situated in the Seventh House or highly elevated above Venus in the other person's horoscope. 
 
@@ -2478,9 +2440,8 @@ The ideal marriage requires the blending of the two charts in all these particul
 
 The following will explain the indications for marriage in the individual horoscope of both sexes. 
 
-[453] 
+#### <h4 id="mens-marriages">MEN'S MARRIAGES</h4>
 
-MEN'S MARRIAGES
 An early marriage is indicated in a man's horoscope: 
 
 (1) When he is born in the light of the Moon, at the time she is progressing from the new to the full, provided she is placed in the Fourth, Fifth, Sixth, Tenth, Eleventh, or Twelfth House. 
@@ -2505,8 +2466,6 @@ A late marriage is shown in a man's horoscope:
 
 (4) When the Moon is square or opposition to Venus or Jupiter they bring trouble in courtship and consequent delays of the marriage. 
 
-[454] 
-
 Marriage is denied or is accomplished with great difficulty: 
 
 (1) When Saturn is in Scorpio which rules the genitals, or if the Moon is there parallel, conjunction, square or opposition to Saturn the planet of obstruction, for then there is little or no desire for sexual intercourse, hence such people generally remain bachelors. 
@@ -2517,9 +2476,8 @@ Marriage is denied or is accomplished with great difficulty:
 
 (4) When the Moon is in the last degrees of a sign she is said to be void of course, and if at the same time she makes no aspect to other planets, it shows a lack of attraction to the opposite sex, which will probably prevent the person entering the marriage relation. 
 
-[455] 
+#### <h4 id="womens-marriages">WOMEN'S MARRIAGES</h4>
 
-WOMEN'S MARRIAGES
 An early marriage is indicated in a woman's horoscope: 
 
 (1) When she is born in the light of the Moon, that is to say, when the orb of night is going from the new to the full, and the Sun is placed in the Fourth, Fifth, Sixth, Tenth, Eleventh, or Twelfth House. 
@@ -2538,8 +2496,6 @@ A late marriage is shown in a woman's horoscope:
 
 (1) When she is born in the dark of the Moon; that is to say, when the Moon is going from the full to the new, and the Sun is placed in the First, Second, Third, Seventh, Eighth, or Ninth Houses. 
 
-[456] 
-
 (2) When the Sun or Venus are afflicted by Saturn, Mars, Uranus or Neptune, especially if placed in the Fifth or Seventh Houses, which govern marriage and courtship. 
 
 (3) When Saturn, Mars, Uranus or Neptune are in the Fifth or Seventh Houses. 
@@ -2554,36 +2510,32 @@ Marriage is denied or accomplished only with great difficulty:
 
 (2) When the Sun, or Venus the planet of love, is afflicted in the Saturnine sign Capricorn, particularly if the affliction comes from Saturn, the planet of obstruction, there will be many obstacles to marriage and it is very doubtful if under the circumstances a marriage will result. 
 
-[457] 
-
 (3) When the Sun and Moon are afflicting each other by square or opposition it makes the person vacillating on any subject, and if the Sun, which is significator of marriage for a woman, is placed in the First, Second, Third, Seventh, Eighth, or Ninth Houses, the will make it particularly difficult to come to a decision regarding marriage. Should there be at the same time an affliction between the Sun and Saturn it will eventually prevent the person from making up her mind, hence marriage will not be consummated. 
 
 (4) When the Sun by progression makes no aspect to the other planets it indicates a lack of attraction to the opposite sex, which will probably prevent her from entering the marriage relation. 
 
-[458] 
+#### <h4 id="happiness-sorrow-and-bereavement">HAPPINESS, SORROW AND BEREAVEMENT</h4>
 
-HAPPINESS, SORROW AND BEREAVEMENT
 The masculine Sun is the particular significator of the marriage partner in a woman's horoscope, and the feminine Moon signifies the spouse in a man's chart. Hence when the Sun and Moon are in good aspect to each other, or to Venus, the planet of love, or Jupiter, the planet of benevolence, happiness and joy are assured in the married relationship, particularly if these planets are placed in the Seventh House. 
 
 On the other hand, Saturn, Mars, Uranus or Neptune, afflicting the Sun in a female figure, or the Moon in a man's chart, indicate sorrow and trouble through the marriage relation. If they are placed in the Seventh House the testimony is all the more potent, and it is also foreshown that the marriage will be dissolved. 
 
 In this respect, Saturn and Mars indicate death of the marriage partner; Uranus may also bring about this ending if afflicted by Saturn or Mars, but otherwise it points rather to a clandestine relationship which will probably bring about the dissolution of marriage by desertion or divorce. 
 
-SECOND MARRIAGES
+#### <h4 id="second-marriages">SECOND MARRIAGES</h4>
+
 If one or more of the malefics, Saturn, Mars, Uranus, and Neptune, are found in the Seventh House, and the Sun or Moon are in a fruitful sign, Cancer, Scorpio, or Pisces, or in the double-bodies signs, Gemini or Sagittarius, it is likely that the person will marry several times, and probably to his sorrow. 
 
 If the Sun or Moon are aspected to a number of planets placed in double-bodies signs, Gemini, Sagittarius, or Pisces, especially if these signs are on the Seventh House, two or more marriages are likely to occur. When the ruler of the Ascendant is placed in the Seventh House well aspected to other planets and in a double-sided sign, Gemini, Sagittarius, or Pisces, it indicates a plurality of marriages. 
 
-[459] 
+#### <h4 id="description-of-the-husband-or-wife">DESCRIPTION OF THE HUSBAND OR WIFE</h4>
 
-DESCRIPTION OF THE HUSBAND OR WIFE
 In a man's horoscope the planets to which the Moon makes an aspect by progression after birth, indicate the women to whom he will be attracted, together with their character and disposition, which are determined by the signs that the planets are in and the aspects which they make. For illustration, let us suppose that the Moon in a certain person's horoscope comes first to a sextile of the Sun in Leo, and that the Sun is aspected by a trine to Jupiter, then we shall find the description of the wife by looking up the disposition, a noble character, a blonde and of florid complexion. If on the other hand, we find that the Moon after birth makes a square to Mars in Scorpio, and Mars in turn square to Venus, then it would show a woman of a very lewd, slothful and slovenly nature who would be domineering, quarrelsome, extremely difficult to get along with. Similarly for the other planets. 
 
 In a woman's horoscope the husband is described by the planets to which the Sun makes an aspect by progression, these planets to be taken in connection with the sign where they are found and the planets with which they in turn form configurations, and the method is the same as indicated in the case of the Moon in a man's horoscope. It should be remarked, however, that when the significator of the marriage partner, aspected by the Sun or Moon, is retrograde or weak by sign, as Saturn in Aries or Jupiter in Gemini, the attraction is not strong enough to culminate in a marriage but will probably indicate only a passing attraction. Therefore the student must use his judgment in these respects. 
 
-[460] 
+#### <h4 id="children">CHILDREN</h4>
 
-CHILDREN
 Whether a person will have children or not cannot be judged from his or her individual horoscope with any degree of accuracy for this matter is not dependent on one only, therefore the horoscope of the prospective parents should be compared and the individuals indications blended, then if both horoscopes show a fruitful nature many children will be born, but if both are only moderately fertile, or if one is very fruitful and the other barren, the forecast must be made accordingly. 
 
 The indications shown in the individual horoscope may be interpreted as follows: 
@@ -2598,12 +2550,10 @@ But when the Moon is in Aries, Leo, or Capricorn, and afflicted by one of the ma
 
 If there is a difference in the testimonies of the Fifth and Eleventh Houses the judgment must be modified accordingly. 
 
-[462] 
+### <h3 id="chapter-22">CHAPTER XXII: PROGRESSION OF THE HOROSCOPE</h3>
 
-CHAPTER XXII 
-PROGRESSION OF THE HOROSCOPE
+#### <h4 id="fate-or-free-will">FATE OR FREE WILL</h4>
 
-FATE OR FREE WILL 
 When a chain is subjected to strain, imperfections in any of its links become manifest, and the weakest link will break first. Similarly, in the case of the body, there are certain inherent weak points and these are indicated in the horoscope. From the moment of birth we subject the body to a constant strain, and in time the weakness of the various points becomes manifest as disease. The movement of the planets after birth measures the time when any particular link is liable to break. This motion of the planets in the horoscope is called "Progression." Study and practice of medical Astrology require knowledge of how to progress the planets in the horoscope, and we shall therefore take up that subject in connection with the message of the stars relative to disease. 
 
 When the Sun rises in the East the day is young and the labors allotted to each are still before us. Gradually the Sun progresses across the arched vault of the heavens, and mark the time set for the performance of our various duties, for keeping our appointments, for taking nourishment, rest and recreation, and when it has run it course through the day and has ceased to illuminate our sphere of action, its absence invites sleep until the dawn of a new day shall present opportunities for continuation of the activities left in abeyance from the previous day. If the Sun remained stationary at any certain point of the sky it would not serve as a time marker but as it is, all events of our lives are fixed by its progression. 
@@ -2620,7 +2570,7 @@ The horoscope shows this difference in the texture of the soul and the aspects i
 
 A beautiful little poem by Ella Wheeler Wilcox gives the idea in a most pleasing form: 
 
-
+```
 "One ship sails East and another sails West, 
 With the selfsame winds that blow; 
 'Tis the set of the sail 
@@ -2632,11 +2582,10 @@ As we voyage along through Life;
 'Tis the act of the soul 
 That determines the goal' 
 And not the calm or the strife." 
+```
 
-[467] 
+### <h3 id="chapter-23">CHAPTER XXIII: DIFFERENT METHODS OF PROGRESSION AND THE REASON FOR THEM</h3>
 
-CHAPTER XXIII 
-DIFFERENT METHODS OF PROGRESSION AND THE REASON FOR THEM
 Besides the physical world in which we live, move and have our being at the present time, where sunshine and rain, storm and snow, heat and cold affect our physical being in various ways, a world of finer substance permeates the denser matter, and the forces indigenous to that realm impinge upon our souls, as feelings, desires and emotions, because the soul is clothed in substance from that world. Mystics therefore call this realm in nature the Desire World. A still more subtle substance, an ocean of Thought, pervades both the Desire World and the Physical World, and as the mind is composed of substance from that region, it senses the waves of thought generated by other spirits endowed with mind. 
 
 Here in the physical world, Time and Space are prime factors of existence, but in the Desire World distance is practically eliminated because spirits having dropped the mortal coil travel with the speed of lightning, and as spiritual sight pierces the densest substance, light there is never obscured, so there is no night, neither does heat and cold affect the soul, hence there is no seasonal division either, to mark time as definitely as in the physical world. But nevertheless, there is a certain sequence of events. In soulflights from place to place on the globe, we sense the nature of intervening country in spite of speed, but in the World of Thought, to think of a place, is to be there instanter, neither is there past or future; events are not separated by time, or places by space, but all is one eternal here and now. 
@@ -2644,8 +2593,6 @@ Here in the physical world, Time and Space are prime factors of existence, but i
 As the science of Astrology is founded in cosmic fact, there are also three stages in progression from incipient events in the World of Thought, to accomplished facts in the Physical World, and there are two methods of horoscopic progression pertaining to the finer realms besides the actual movement of planets observable in the Heavens. 
 
 Suppose a pole billions of miles long stuck into the earth at the Equator, and at right angles to the poles, then, as the earth turns upon its axis, the end of the pole would describe a circle in the heavens; this the Astronomers call the "Celestial Equator," and the position of a heavenly body on this line is measured in degrees and minutes of "Right Ascension," from the point where the Sun crosses the equator at the vernal equinox. This axial rotation of the earth brings a new degree to the zenith, or Meridian about every four minutes, and by the rules of one system of progression we may calculate how many degrees of Right Ascension come to the Meridian position from birth to the formation of a certain aspect. The intervening degrees are then converted to time at the rate of 1 degree equals 1 year. 
-
-[469] 
 
 The other system of progression is founded upon the orbital revolution of the earth, but in this system the positions of the planets are expressed in degrees of Longitude and measured on the ecliptic or Sun's path, from Aries 0 degrees to Pisces 29. The measure of time is the same as in the system first mentioned: 1 degree equals 1 year, but there is this important difference, that while the earth takes only 4 minutes to turn 1 degree upon it axis, it requires 24 hours to move 1 degree in its orbit. 
 
@@ -2657,33 +2604,23 @@ Thus coming events cast their shadows before, but the shadows varies in length a
 
 From the sublime height of the World of Thought, where all things have their inception in the eternal, the progression of events in a life are silhouetted upon the screen of Time while the infant is still upon the threshold of birth, but the shadow is so short, 1-360 part of a day being equivalent to a year, that an error of 4 minutes in the given time of birth would throw predictions out a whole year. Few people know their birth hour to the minute, therefore this systems of progression is of little use and little used. 
 
-[470] 
-
 Shadows of events projected from the denser Desire World are longer and more definite; it does not require great delicacy or precision to calculate progression at the rate of 1-360 part of a year equal to 1 year. By this method an error of 2 hours in the given time of birth would only cause an error of 1 month in predictions; this system therefore gives universal satisfaction, and is most commonly used. In the following pages we shall explain a simplified method of this system of prediction, whereby mathematical calculation of events for a whole life may be performed in a few minutes by any intelligent child who can add and subtract. 
 
-[471] 
+#### <h4 id="the-adjusted-calculation-date">THE ADJUSTED CALCULATION DATE</h4>
 
-THE ADJUSTED CALCULATION DATE
 When a child is born at 7 A.M., in New York, and another at 6 A.M., in Chicago, a third at 1 P.M., in Berlin, a fourth at 2 P.M., in St. Petersburg and a fifth at 12 noon in London, the Observatory clock at Greenwich would point to noon, at the exact moment when all these children were born, hence though the clocks in their several birthplaces pointed to different hours, the Greenwich Mean Time of their births would be identical:--noon. And as the planets' places in the ephemeris are calculated for Greenwich, noon, it would be unnecessary to make corrections; we should simply place each planet in the natal horoscopes as tabulated in the ephemeris. This would be most convenient, but the saving of calculation in a natal horoscope where the G.M.T. is noon, fades into insignificance before the facility this gives in progressing the planets for years subsequent to birth, as required to predict events, for in natal horoscopes where the G.M.T. is before or after noon, the places of the planets must be calculated for each year just the same as at birth. We have evolved the following simple method of saving this calculation and of copying the progressed planets direct from the ephemeris into any horoscope. 
 
+THEOREM I
 
-
-THEOREM I 
 If the Greenwich Mean Time of birth was before noon, it is evident that the planets' places in the ephemeris are calculated for a later time and also that, as they progress at the rate of a day (of 24 hours) for a year, they will reach the Longitude given in the ephemeris some day within a year after birth. 
 
+THEOREM II
 
-
-THEOREM II 
 If the G. M. T. of birth was after noon, it is plainly to be seen that the planets' places in the ephemeris for the year of birth are calculated for an earlier time than birth, and that the position there given corresponds to a certain day in the twelve-month before birth. 
-
-[472] 
 
 Furthermore, if we can find the date in the twelve-month before birth, or after as the case may be, when the planets were in the degree and minute of longitude registered in the ephemeris, we may use that date as a starting point of calculation instead of the birthday, and as aspects formed during the travel of the planets from the position given on any noon to the noon next following, indicate events in the corresponding year of life, the same starting date may be used for any year. Therefore, once that adjusted calculation date has been found, no further calculations is required to progress the planets in that horoscope; they may be simply copied from the ephemeris. It is only necessary to bear in mind that the horoscope thus erected does not apply to the year from birthday to birthday, but from the adjusted calculation date of one year to the same date of the next. There are two methods of finding this date; the first is the more difficult and not so accurate, but it shows the philosophy of the correction better than the second method, and we therefore give examples of both. 
 
 We will use the figure No. 26 (Medical Astrology Section), which is the horoscope of a man who died of hemorrhages in June, 1918, to illustrate how the adjusted calculation date is found, but defer description of the case and its crises. The man was born April 24, 1884, Longitude 95 W., Latitude 42 N., at 2 P.M., True Local Time. We first find the G. M. T. by adding to the local time of birth 4 minutes for each degree the birthplace is west of Greenwich. 
-
-[473] 
-
 
 True local time of birth, April 24......................2:00 P.M. 
 Correction for 95 degrees W. Long.......................6:20 
@@ -2709,12 +2646,9 @@ Adjusted Calculation Date...............................December 19, 1883
 
 We may, however, find the Adjusted Calculation Date much more accurately and with less labor by the following fourfold rule: 
 
+RULE
 
-
-RULE 
 (1) Find the interval from G.M.T. to the following noon. 
-
-[474] 
 
 (2) To this interval add the Sidereal Time for Greenwich noon on the birthday, as given in the ephemeris. The sum of these is the Sidereal Time of the Adjusted Calculation Date. 
 
@@ -2750,8 +2684,6 @@ Now, that we have arrived at the point where we are to make use of our A.C.D. to
 
 Write in the margin of your ephemeris for 1884 opposite the birthday (April 24), December 19, 1883. Opposite April 25 write December 19, 1884. 
 
-[476] 
-
 Opposite April 26 write December 19, 1885, and so on, as shown below. Every day after birth corresponds to a certain year of life which starts on the day written in the margin, and the planets in line with any A.C.D. indicate the events for twelve months from that date. 
 
 
@@ -2765,16 +2697,11 @@ The motion of the Sun and planets from day to day is slow, and as we count a day
 
 Planetary aspects alone do not operate, however; an aspect of the progressed Moon or a New Moon is required to focus the hidden forces. Therefore crises shown by the planets are sometimes retarded beyond the time when the aspect culminated and we may think we have safely escaped, but the first aspect of the Moon which excites it will prove that "though the mills of the gods grind slowly, they grind exceeding fine." The finer forces lose none of their intensity by lying latent in Nature's lock-box of events. 
 
-[477] 
-
 Now let us see how the planets worked in the horoscope we have just given. In the year 1915 we find the progressed Sun, the life-giver, had reached the conjunction of the Midheaven, Gemini 5-0. The New Moon on May 2, 1916 fell in Taurus 11-44, square to the radical Mars; on the 31st of May the second New Moon was in Gemini 9-40 in conjunction with the radical Saturn in the M.C., which latter had been obstructing the capillaries of the lungs; thus hemorrhages resulted. At this time the young man, who had become a very efficient astrologer, began to realize that he was entering a critical period and did all possible to overcome its influence. But a succession of lunations during the year 1916 afflicted his Midheaven and Saturn by square and opposition in the sign ruling the lungs, Gemini, made a constant struggle necessary. With the negative sign of Virgo on the Ascendant, with Uranus in the First House square to Venus in Gemini, and with Jupiter afflicted by a square of the Moon, both the venous and arterial circulations were restricted, preventing deep breathing and complete oxygenation of the blood in the lungs. 
-
-[478] 
 
 In the Spring of 1918 this young man, after consulting his own horoscope, unfortunately made up his mind that he would pass out on a certain day, and made all necessary arrangements for his funeral. This state of mind was very dangerous to one in his weakened condition and to one with his negative Ascendant. He precipitated the crisis even before its normal time, as we will show. 
 
 We will now proceed to find what brought about the crises that terminated the life on June 1, 1918. We first find where the progressed planets were at that time. We take the date May 28, 1884 for the places of the progressed planets on the Adjusted Calculation Date, Dec. 19, 1917. We now progress the Sun and Moon 5 1-2 months beyond this date to June 1, 1918. If we subtract the Moon's longitude on a given day from its place on the following day, the difference is its motion during the 24 hours intervening, which corresponds to a year of life in progression. Division of this by 12 gives us the rate of its monthly travel. 
-
 
 Moon's place on A.C.D. Dec. 19, 1917,
     (May 28 in ephemeris for 1884)...Cancer 27.11 
@@ -2784,10 +2711,7 @@ Moon's place on A.C.D. Dec. 19, 1918,
 Moon's travel by progression 
 from Dec. 19, 1917 to Dec. 19, 1918 .......... 14.03 
 
-[479] 
-
 Dividing 14 degrees 3 minutes by 12 gives the Moon's monthly travel as 1 degree 10 minutes. This we add to its place for each month as shown in the following table: 
-
 
 Dec 19, 1917 CANCER...27.11      Mar 19, 1918 LEO...0.41 
 Jan 19, 1918 CANCER...28.21      Apr 19, 1918 LEO...1.51 
@@ -2801,11 +2725,9 @@ The New Moon on May 10, 1918 fell in Taurus 19.00, conjunction to the radical Ne
 
 Thus we see that we cannot base judgment upon merely one affliction. We must look to the progressed planets, the strong transiting planets, and particularly to the New Moon to excite a natal affliction. 
 
-[480] 
-
 PROGRESSION OF THE ANGLES
-Besides the progression of planets which we trust has been sufficiently elucidated, we must also note a similar forward movement of the houses, but these must be calculated by the same method as when casting a natal figure, save that we use the Sidereal Time for the day which corresponds to the year for which we wish to progress the horoscope. In relation to the man's horoscope we have studied, the critical year was 1918, and May 28 in the ephemeris for 1884 corresponds. We bear in mind that birth occurred at 2:00 P.M., True Local Time, in Lat. 42 N., Long. 95 W., for these factors are used in placing the degrees on the houses just as in the natal chart; the only change is using the S.T. of the progressed birth day. 
 
+Besides the progression of planets which we trust has been sufficiently elucidated, we must also note a similar forward movement of the houses, but these must be calculated by the same method as when casting a natal figure, save that we use the Sidereal Time for the day which corresponds to the year for which we wish to progress the horoscope. In relation to the man's horoscope we have studied, the critical year was 1918, and May 28 in the ephemeris for 1884 corresponds. We bear in mind that birth occurred at 2:00 P.M., True Local Time, in Lat. 42 N., Long. 95 W., for these factors are used in placing the degrees on the houses just as in the natal chart; the only change is using the S.T. of the progressed birth day. 
 
 S.T. at noon previous to progressed birthday, 1918    H. M. S. (see 
 ephemeris for 1884, May 28)......................   4 25  0 
@@ -2816,8 +2738,6 @@ Correction of 10 secs. per hr. of interval............0  0 20
                                                     -- -- --
 Sidereal Time of progressed birth.....................6 26 23 
 
-[481] 
-
 With this S.T. we turn to the Tables of Houses for the Latitude of birth place, and erect a horoscope with twelve Houses in the usual manner; we may further insert the planets' places on the A.C.D. for 1918, then we shall have a complete separate horoscope for the year, which we may compare with the natal chart. Some Astrologers use that method, but we advise another, which we think facilitates comparison and judgment of aspects between the natal and progressed position of the planets in a degree unattainable by any other system; it is illustrated in the various figures used in this book. 
 
 We write the natal chart in ink, as that is unchanged during life; we also draw a large circle outside it, to contain the progressed position of the planets. These and the houses we write in their proper places, but lightly, and with pencil, so that they may be easily erased and the horoscope erected for another year without the necessity of rewriting the natal chart. 
@@ -2827,8 +2747,6 @@ But no matter how placed, two full horoscopes with 24 houses, 18 planets, a coup
 If this be granted, the question presents itself: What are the essentials and what may be eliminated with advantage to clear the progressed horoscope of useless, befogging elements? 
 
 First, with regard to the progressed houses, only two vital points produce results when aspected: the Midheaven, which is spiritual in nature, and the Ascendant, which is a significator in material matters. We shall treat that subject later; for the present we confine ourselves to the argument that it will facilitate judgment of the progressed horoscope if we leave the ten unessential cusps out, and draw two dotted lines with pencil to mark the progressed Midheaven and Ascendant. 
-
-[483] 
 
 In the second place, the student may readily convince himself by looking through the columns of any ephemeris, that the motion of Neptune, Uranus, Saturn and Jupiter, during the two months which represent progression for a life of 60 years, is so slow that they seldom form an aspect not registered in the natal chart. In rare cases where an important aspect is formed, the fact is easily seen, and the planet should then be entered in the outer ring of the progressed horoscope, but in the great majority of cases it is better to leave these planets out, and enter only the progressed positions of the Sun, Moon, Mars, Venus and Mercury. 
 
@@ -2842,12 +2760,9 @@ The other important point we had in mind is the necessity of being definite in r
 
 On the same principle, never predict that an event will happen when a person is so and so old; that also is ambiguous and gives them no satisfaction; give the year and month; never hedge; never predict anything of which you are in doubt; when you are satisfied a prediction is justified, speak fearlessly, but tactfully; believe in the stars, and the stars will fully justify your faith. 
 
-[485] 
-
 SOME IMPORTANT POINTS
-When judging the effects of directions it is of the greatest importance to bear in mine the tenor of the nativity, for even weak aspects which are in harmony with the tendencies foreshown in the natal figure will be much more active than a strong aspect which is contrary to the radical indications. Supposing, for instance, that there are strong testimonies of sickness and accident, as Mars in Sagittarius in the Midheaven square the Sun in Pisces in the Twelfth House and square Saturn in Virgo in the Sixth House; then the progression of Mars to square of the radical Ascendant would undoubtedly precipitate an accident or a fever of a serious nature, but if the Sun were trine Mars and Jupiter the effect of Mars square Ascendant would produce little if any discomfort. Similarly with all the other directions, and if the student neglects to take into consideration this all-important point, he is likely sometime to make a great mistake and wonder why a seemingly powerful direction produced no result in one case, while in another a very weak aspect had such a far-reaching effect. Aspects between two progressed planets are unimportant. 
 
-[486] 
+When judging the effects of directions it is of the greatest importance to bear in mine the tenor of the nativity, for even weak aspects which are in harmony with the tendencies foreshown in the natal figure will be much more active than a strong aspect which is contrary to the radical indications. Supposing, for instance, that there are strong testimonies of sickness and accident, as Mars in Sagittarius in the Midheaven square the Sun in Pisces in the Twelfth House and square Saturn in Virgo in the Sixth House; then the progression of Mars to square of the radical Ascendant would undoubtedly precipitate an accident or a fever of a serious nature, but if the Sun were trine Mars and Jupiter the effect of Mars square Ascendant would produce little if any discomfort. Similarly with all the other directions, and if the student neglects to take into consideration this all-important point, he is likely sometime to make a great mistake and wonder why a seemingly powerful direction produced no result in one case, while in another a very weak aspect had such a far-reaching effect. Aspects between two progressed planets are unimportant. 
 
 Another important point to remember is that aspects of the progressed to the radical planets operate in proportion to the power of the radical planet in the nativity. Let us suppose, for illustration, that in a certain figure the Sun is elevated in Leo and aspected to a number of the other planets--it matters not whether the aspects are good or bad so long as they are close--then even a weak aspect from a progressed planet to the Sun will have a marked result. On the other hand, if the Sun in that horoscope received no aspect, or only one or two weak ones, then even a strong aspect of a progressed planet would have little effect. 
 
@@ -2857,258 +2772,196 @@ The third important point to remember when judging the effects of directions is 
 
 It also happens that in cases where the event indicated by an aspect involves two people the aspects of the planets by progression may be complete in one person's horoscope and fertilized by a harmonious aspect without producing a result, because the aspect in the other person's horoscope has not yet matured. In this connection we remember the horoscope of a lady whose Venus was placed in the Eighth House showing a late marriage. In her 45th year the progressed Sun reached conjunction Venus but neither engagement nor marriage resulted; then the Sun and Venus came into conjunction in the horoscope of a gentleman of her acquaintance bringing an engagement quickly followed by marriage. Thus one had waited for the other, and unless such a contingency is taken into consideration the astrologer is most liable to meet his Waterloo when forecasting events. 
 
-[488] 
+### <h3 id="chapter-24">CHAPTER XXIV: PROGRESSED SOLAR DIRECTIONS</h3>
 
-CHAPTER XXIV 
-PROGRESSED SOLAR DIRECTIONS
 When the Sun forms a conjunction, sextile, square, trine or opposition to one of the planets by progression the influence begins to manifest when the Sun is 1 1/2 degrees from the exact aspect, and it is felt until the Sun is 1 1/2 degrees past the point of culmination. And as the Sun moves about one degree a day, and the time measure of directions is that one day equals a year, we may say that the influence of the solar aspects is felt for a period of three years. Their effects are particularly strong at times during this period when aspects of the progressed Moon or lunations vivify them. 
 
 The parallel is different from the other aspects. In the case of the slow-moving planets it lasts for a considerable number of years so that a parallel of the Sun and Saturn may operate for ten or more years, and a parallel of the Sun and Jupiter nearly as long. 
 
 It may also be noted that the conjunction and parallel act principally upon the health, while the other aspects also affect the business, social standing, etc. Thus under the parallel of the Sun and Saturn there would be a very protracted state of ill-health, while the parallel of the Sun and Jupiter would strengthen the constitution materially. 
 
-[489] 
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION, SEXTILE OR TRINE TO RADICAL VENUS. 
+
 If the radical Venus was well aspected these directions will bring a three-year period of unusual pleasure and enjoyment into the life. If the person is not already married an attachment will be formed and ripen into marriage of an ideal nature. If the horoscope shows artistic ability, this will receive a great impetus during the activity of this direction, and it will bring honor and social preferment. 
 
+THE SUN PROGRESSED SQUARE OR OPPOSITION TO RADICAL VENUS.
 
-
-THE SUN PROGRESSED SQUARE OR OPPOSITION TO RADICAL VENUS. 
 If the radical Venus was afflicted, these directions will bring a period of petty annoyances, social disgrace, trouble and sorrow, with a tendency to be slovenly and to look upon the dark side of life, but it can be overcome if the person will strive to be careful of his morals and personal appearance. "Where there's a will there's a way." 
 
-
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION OR SEXTILE RADICAL MERCURY. 
+
 If Mercury was well aspected at birth this will mark a period of unusual mental activity, so that the person will be able to further his ambitions and succeed in business by new ventures. If the natal figure shows literary ability this is the time to make all efforts to produce something worth while. It is a good and profitable time to travel either for pleasure, in search of inspiration, or for the good of whatever business he may follow. Advertising will be found a most effective way of promotion business success under this direction. 
 
-
-
 THE SUN PROGRESSED SQUARE TO RADICAL MERCURY.
+
 The Sun cannot reach the square of Mercury until late in life, and in comparatively few lives at that, therefore its effects can only be conjectured and it has no importance. 
 
-
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION, SEXTILE, OR TRINE TO RADICAL MOON. 
+
 If the Moon was well aspected at birth these directions bring a period of success and popularity. It increases the honor and esteem which the person enjoys in his environment, it brings favors from influential persons, employers, or the authorities, and if marriage has not already been contracted, this direction will most likely bring about a successful union. It is also an excellent time to form partnerships. 
 
-[491] 
+THE SUN PROGRESSED SQUARE OR OPPOSITION TO RADICAL MOON.
 
-THE SUN PROGRESSED SQUARE OR OPPOSITION TO RADICAL MOON. 
 If the Moon was afflicted at birth this marks a very evil period, replete with domestic unhappiness if the person is married; discredit among the people with whom he is associated in business or socially, perhaps imprisonment; loss by dishonesty of the partner, financial stricture or even bankruptcy. He is also likely to suffer severely from ill health, and if either the Sun or Moon are in Cancer, Scorpio or Pisces he may become a chronic drunkard. 
 
-
-
 THE SUN PROGRESSED SEXTILE OR TRINE TO RADICAL SATURN.
+
 If Saturn is well aspected in the nativity these directions will bring a steadying and consolidating influence into the life so that the person will be able to discharge his duties in a most effective, systematic and tactful manner. He will have greater opportunities for advancement than before, and will be able to assume the added responsibilities with credit. Much benefit may be expected from older people who will be drawn to him will full confidence. Investments in land, mines, houses, and similar things will prove profitable when made under this direction, and in general it gives a very deep insight into all problems of life. 
 
-[492] 
-
-
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION TO RADICAL SATURN. 
+
 If Saturn was afflicted in the natal chart these directions mark a period of very evil influence. This is especially true of the parallel, which lasts about ten years; the other aspects are only active during the usual three years. Under these directions the person suffers disappointments and delays in everything he undertakes. No matter how carefully he may plan, something is sure to crop up to thwart him, and this is apt to breed a spirit of worry and pessimism which makes life seem a hopeless battle, with everyone conspiring to checkmate him. Financial difficulties make matters harder, and he is liable to incur the opposition of employers or the authorities. To crown it all, the health suffers, especially under the parallel; his vitality will be very low, and the recuperative power almost nil. All will depend on whether he can look for the silver lining to the cloud, and strive to learn the intended lessons, or whether he simply sinks down under the load and gives up. Forewarned is forearmed and students of Astrology have at least the knowledge that these trials are only passing. They know when brighter days will come. 
 
-[493] 
-
-
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION, SEXTILE OR TRINE JUPITER. 
+
 If Jupiter is well aspected at birth these aspects are among the most fortunate in the whole gamut of directions, for they indicate a period of financial prosperity, where every undertaking succeeds, hence speculation, investments, and new ventures in business will bring success and gain, the person will rise in popularity and esteem in the community or his immediate sphere of associations, he may gain much credit in connection with philanthropic or charitable undertakings, and he will enjoy much social success and domestic happiness. There is a tendency to travel or changes which will bring both pleasure and profit, and ambitions that for years seemed impossible of realization are likely to be gratified. Under these directions lasting friendships of benefit to the person are often formed. They also strengthen the constitution and bring radiant health, but the exuberance of animal spirits may later, under evil directions, bring disease. If this is guarded against the increased flow of vital fluid given by these directions will have a lasting beneficial effect on the health. 
 
-
-
 THE SUN PROGRESSED SQUARE OR OPPOSITION TO RADICAL JUPITER. 
+
 If Jupiter is afflicted at birth these directions denote a period of trouble and trials. Someone near and dear will pass out of the person's life, either by estrangement or death; lawsuits, financial losses and social disaster are threatened, with much opposition from other people. If he invests money or speculates each venture will prove a failure because of deception and misrepresentation of those with whom he deals. If he makes a change of business or travels to another city he will meet with worse conditions, the health will suffer and domestic infelicity will result. 
 
-
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION TO RADICAL MARS. 
+
 If Mars is afflicted at birth these aspects mark an extended period of a very evil nature. There is a state of rash and reckless excitement which is apt to lead the person to do the most foolhardy things, hence a liability to squander his money, wreck his prospects in life, become crippled by an accident, or indulge in excesses which bring on fevers, boils, or inflammatory complaints. He should be particularly careful not to handle fire, hot water, explosives or firearms, and be guarded by insurance against loss by fire, sickness or accident. The reputation is also likely to suffer by scandal, therefore he should exert all his energy and will power to act with all the discretion possible to him and so endeavor to rule his stars. 
 
-[495] 
-
-
-
 THE SUN PROGRESSED SEXTILE OR TRINE TO RADICAL MARS.
+
 If Mars is well aspected at birth these directions indicate a period of adventure when the person will be imbued with a powerful spirit of activity, enterprise and industry; he will become acquainted with people of a pioneering instinct or in some way receive an impulse that will start him upon a new venture in life which will bring him success, friends, and prosperity. He is likely to travel in search of new fields and to be very restless in seeking an outlet for the energy which threatens to burst him, but he is also too prone to squander the money which seems to come so easily. If he were wise he would be a little less generous, for when this aspect passes off, it is likely that the golden days are over. 
 
-
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION TO RADICAL URANUS. 
+
 If Uranus is afflicted at birth these aspects mark a very critical period in the life. The person becomes very irritable and short-tempered. He is liable to tax the patience of friends and relatives to the breaking point so that a separation or estrangement occurs. He will be repellent to others, rash, erratic, liable to do the most strange and unexpected things. He may rush into litigation when he has not the shadow of a case or cause, just for the mere insane love of quarreling. Thus he is likely to disgrace himself permanently in the eyes of all who know him, or, depending upon what other aspects are in force at the time, it may be someone close to him who causes the disgrace which then reflects upon him on account of the friendship or relationship. 
 
-
-
 THE SUN PROGRESSED SEXTILE OR TRINE TO RADICAL URANUS. 
+
 If Uranus is well aspected at birth and the person is of a sufficiently advanced type to respond to this influence, these aspects mark a period of great spiritual and mental acceleration; the originating, organizing, and inventive faculties become greatly enhanced, so that he is able to formulate ideas, perfect inventions, and organize enterprises in a most surprisingly efficient manner, with little or no effort. There may be sudden and unexpected gains through inventions, investment or speculation, and if he is not already interested in advanced thought or occultism he will most likely be attracted during this period and obtain a good start before the aspect wears off. 
 
-
-
 THE SUN PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION TO RADICAL NEPTUNE. 
+
 If Neptune is afflicted at birth these aspects mark a critical time for those who can respond to the spiritual influence. They are then hypersensitive and likely to develop an undesirable phase of involuntary spiritual sight or apt to become entranced or obsessed by spirits from the invisible world who seek a medium to gratify their desires, which are usually bad. The person may also most easily become the victim of a hypnotist and get into trouble through fraud, deception and disadvantageous changes, or loss by speculation in large companies where the stock is watered. 
 
-
-
 THE SUN PROGRESSED SEXTILE OR TRINE TO RADICAL NEPTUNE. 
+
 If Neptune is well aspected at birth these aspects mark a period of spiritual awakening, when the person may receive an initiation which will develop his spiritual powers and open the invisible worlds to him, if he is sufficiently developed. For others it may develop the faculty of inspirational music, and yet other people may experience a period of unexampled love and bliss, but the majority cannot respond to this influence. 
 
+THE SUN PROGRESSED PARALLEL, CONJUNCTION, SEXTILE OR TRINE TO RADICAL MIDHEAVEN.
 
-
-THE SUN PROGRESSED PARALLEL, CONJUNCTION, SEXTILE OR TRINE TO RADICAL MIDHEAVEN. 
 These aspects bring a period of profit, preferment, honor and recognition, favors from the authorities or employers, added social prestige, and a general advancement of the worldly affairs. 
-
-[498] 
 
 This is a good time to make special effort for obtaining an increase of income for all endeavors in that direction will have a favorable stellar influence behind them and are therefore more likely to succeed than at other times. 
 
-
-
 THE SUN PROGRESSED SQUARE OR OPPOSITION TO RADICAL MIDHEAVEN. 
+
 These aspects mark a period of discredit when slander and enmity threaten the honor and social standing. It is therefore best for the person to be very circumspect in all he does or says, for trouble with the authorities may result in imprisonment, or if with employers it may bring loss of position. Financial fortunes are also threatened. 
 
-
-
 THE SUN PROGRESSED, PARALLEL, CONJUNCTION, SEXTILE OR TRINE RADICAL ASCENDANT. 
+
 These aspects mark a period of general good fortune, radiant health and happiness. Whatever the person undertakes seems to prosper. 
 
-
-
 THE SUN PROGRESSED SQUARE OF OPPOSITION TO RADICAL ASCENDANT. 
+
 These aspects mark a period of ill-health, especially in a woman's horoscope. There is also a great deal of trouble and general so-called "bad luck." 
 
-[499] 
+### <h3 id="chapter-25">CHAPTER XXV: PROGRESSED LUNAR DIRECTIONS</h3>
 
-CHAPTER XXV 
-PROGRESSED LUNAR DIRECTIONS
 The Moon travels through the Zodiac at an average rate of between twelve and thirteen degrees a day, and as the day in the art of progression is taken as a time measure equivalent to a year, we may say that the Moon by progression from birth to death travels at the rate of between twelve and thirteen degrees a year, or about one degree per month. Thus in the course of about twenty-eight years she circles the whole horoscope and forms all the aspects that can be formed to all the planets in the radical figure, and she may thus travel two or three times around the horoscope in the life of the average man or woman. It is her passage around the horoscope that makes the life fruitful of events for the aspects of the planets themselves which indicate the year when a certain influence is ready to be reaped as ripe destiny and produce events in the life, do not of themselves cause either good or ill effects unless an aspect of the progressed Moon or a lunation brings the matter to a focus and marks the month when the occurrence will take place. Therefore sometimes even strong aspects between the Sun and planets, or between the planets themselves, are barren in effect when not fortified by a progressed lunar aspect or a lunation of the same nature. 
-
-[500] 
 
 Neither do the lunar aspects have an influence of their own, or at least if they have, it is not very marked unless the lunar aspect agrees in nature with the primary direction then in force. 
 
 These are important points which the student should always bear in mind. It should also be noted that the aspects of the progressed Moon to progressed planets produce little or no effect and the influences set down below are with respect to the radical planets. 
 
-
-
 THE MOON PROGRESSED PARALLEL, CONJUNCTION, SEXTILE OR TRINE TO RADICAL SUN. 
+
 These aspects mark a rather prosperous period in life, bringing important changes for the better. Not infrequently marriage results which is both successful and happy. An increase of business if the person is an employer, or a raise in salary if he is an employee, may be looked for at this time, for superiors and those in a position to bestow favors are in a generous mood and ready to give the person credit for all that is good in him. 
 
-
-
 THE MOON PROGRESSED SQUARE OR OPPOSITION TO RADICAL SUN. 
+
 These aspects indicate a time of trouble and loss. There is a tendency to difficulty with employers or customers which will bring loss of employment or business; the mind is vacillating so that the person cannot make up his mind what to do, and thus he is apt to lose opportunities which might bring gain and instead they bring loss. He will experience trouble with the opposite sex, particularly the marriage partner if he is in the state of matrimony. The health will suffer and there is a change for the worse in all the affairs of life. 
 
-
-
 THE MOON PROGRESSED PARALLEL, CONJUNCTION, SEXTILE, OR TRINE TO RADICAL VENUS. 
+
 If Venus is strong and well aspected in the natal chart this period will be one of pleasure and profit both, for the person will make new friends and have opportunities to advance himself both socially and financially. These aspects also frequently indicate the commencement of courtship or the culmination of courtship in marriage, in a man's horoscope. They bring good health and a happy, cheerful frame of mind, so that the whole world seems bathed in sunshine. This is, in short, a period of general success and happiness. 
 
-
-
 THE MOON PROGRESSED SQUARE OR OPPOSITION TO RADICAL VENUS. 
+
 If Venus was afflicted at birth this marks a period of considerable trouble and disappointment. A courtship may be broken off or a marriage dissolved by separation. The financial fortunes are likely to suffer and the health is apt to be poor. Snubs and ostracism may be expected in the social relation and the person should be particularly careful with the opposite sex, for while this direction is operative there is considerable liability to trouble from that source. Knowing what is doing and the nature and duration of the influence, he should try to rule his stars by keeping as cheerful a frame of mind as possible, schooling himself to act wisely in the matters which are particularly shown as danger points. 
 
-
-
 THE MOON PROGRESSED PARALLEL, CONJUNCTION, SEXTILE OR TRINE TO RADICAL MERCURY. 
+
 If Mercury was well aspected at birth, these directions will bring out the mental powers and it is therefore a favorable time to take up any study which the person may feel attracted to. If any important changes have been in contemplation this is the time to make the move, for under these directions success is sure to attend in a much larger measure than under less favorable influences, and if he has any important matters to settle with brothers, sisters or neighbors, he will reach a favorable conclusion with them much more quickly than at any other time. 
 
-[503] 
-
-
-
 THE MOON PROGRESSED SQUARE OR OPPOSITION TO RADICAL MERCURY. 
+
 If Mercury was afflicted at birth the person will need to exercise a great deal of care during the operation of these planetary influences, for there will be a tendency to rash and indiscreet speech; thereby the person may lay himself liable for libel or slander. It is also likely that if any deeds or legal papers are signed during this time it will be to the person's detriment and will later regret it. He should also be very careful of his expressions in correspondence and if he is a literary man he should be doubly careful or his writings will be more than likely to cause trouble for himself or others. The mind will be much disturbed and he should neither travel nor make changes but endeavor to keep himself as quiet as possible during this time. 
 
-
-
 THE MOON PROGRESSED PARALLEL OR CONJUNCTION RADICAL SATURN. 
+
 If Saturn was afflicted in the natal chart this is a very critical period. In a woman's horoscope it indicates ill-health, worry and trouble. In the horoscope of a man, if he is married, it indicates domestic difficulties or ill-health of the wife. There is trouble, delay and disappointment in all the affairs of life and a tendency to worry over things and become morbid and melancholy. 
 
-[504] 
-
 THE MOON PROGRESSED SQUARE OR OPPOSITION TO RADICAL SATURN. 
+
 If Saturn is afflicted at birth, these aspects mark a very evil time, particularly with respect to health and the conditions in the home. They produce a disturbed frame of mind with irritability and a tendency to worry, a pessimistic outlook on life; gloom and despondency seem to be the rule, the financial affairs also suffer and care should be taken to make no changes or investments at this time. The only remedy is to try to keep as philosophical an attitude as possible, looking for the silver lining of the cloud and endeavoring to learn the lessons that are to be taught during this period. 
 
-
-
 THE MOON PROGRESSED SEXTILE OR TRINE TO RADICAL SATURN. 
+
 If Saturn was well aspected in the natal chart these aspects mark a successful and prosperous period when one will gain recognition of a lasting nature in his sphere of life. He will be able to take on added responsibilities and acquit himself of the trust with credit. If any investments in houses, lands or mines are contemplated this will be a very favorable period to undertake such matters. This time will be epoch-making in the life when a new, solid and stable foundation for success will be laid, upon which the edifice of a successful life may be reared. 
 
-[505] 
-
 THE MOON PROGRESSED PARALLEL, CONJUNCTION, SEXTILE OR TRINE TO RADICAL JUPITER. 
+
 If Jupiter was well aspected at birth, these aspects mark a period of success and general good fortune. The health is excellent, or if the person has been sick improvement may be looked for at this time. The frame of mind will be happy and he will enjoy all the pleasures of life. It is a particularly good time to travel for he will meet a friendly and cordial reception everywhere. The financial fortunes will be benefited if investments are made under these directions, or if the business is pushed to the best of his ability. This is an epoch when things take a decided turn for the better, and if the person takes proper advantage of the opportunities then presented to him this time will be long felt in the life. 
 
-
-
 THE MOON PROGRESSED SQUARE OR OPPOSITION TO RADICAL JUPITER. 
+
 If Jupiter was afflicted at birth the person should be very careful of his diet during the time when these aspects last, for there is a tendency to excesses which will cause disease by making the blood impure. He should also be very careful not to lose his temper because if there is any danger of apoplexy shown in the natal figure it is more likely to manifest under these stellar influences than at any other time. Keep as cool as possible and avoid all stimulating food and liquors. Do not under any circumstances undertake to speculate while these directions last for loss is certain and there is a liability to be deceived or defrauded by others. There is also a danger of domestic troubles and loss by lawsuits or similar matters. The social prestige is likely to suffer on account of haughty, bombastic and overbearing manners, therefore the person should be careful and moderate in everything and also hold himself well in check. 
 
+THE MOON PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION RADICAL MARS.
 
-
-THE MOON PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION RADICAL MARS. 
 If the radical Mars was afflicted these aspects mark a very evil period. In a woman's horoscope they indicate, for one thing, bad health, and in a man's, violent quarrels in the home. There is a tendency to be quarrelsome, foolhardy and reckless, with the result that the person may sustain bodily injuries or accidents, also a tendency to the over-indulgence of the lower passional nature which may bring trouble in its train, therefore he should be very careful in his dealings with those of the opposite sex. Unless great care is taken slander and social discredit are sure to result. These directions also make the person very reckless and extravagant in financial matters, liable to form hasty and erroneous judgments, therefore if papers are signed at this time disaster is very to follow. These directions are among the most reliable in operation and the person rarely escapes without suffering loss or injury in some manner, therefore the greatest care should be taken during this period. 
 
-
-
 THE MOON PROGRESSED SEXTILE OR TRINE RADICAL MARS. 
+
 If Mars was well aspected at birth these aspects mark a period of considerable activity in the life which will be to the benefit of the person involved. A great deal of vital energy is accumulated and this dynamic force naturally must have an outlet in some way, hence this is a good time for the expansion of business or undertaking new enterprises; they are sure to succeed if the person is not too precipitate in his efforts but uses a grain of caution in the expenditure of this great energy. These aspects are particularly active among those who work with or deal in the martial elements of iron and fire, such as soldiers, surgeons and engineers; to them they bring honor and promotion. 
 
+THE MOON PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION RADICAL URANUS.
 
-
-THE MOON PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION RADICAL URANUS. 
 If Uranus was afflicted at birth these aspects mark a very critical period, when the person is apt to make a sudden and unexpected change which will have a disadvantageous effect upon the life, therefore he should guard carefully against such a contingency. There is also a liability to the formation of a clandestine relationship which will bring sorrow and trouble to the person, hence he should avoid association with the opposite sex and when this is unavoidable he should be very circumspect in his manner and behavior, for under these directions people are very likely to judge him severely for the slightest semblance of wrong-doing. There is a tendency to irritability and cruelty of speech which is likely to cause domestic unhappiness and the loss of friends that will later be regretted very much, therefore the person should endeavor to curb himself; in fact it would be better to avoid his friends as much as possible during this time. 
 
-
-
 THE MOON PROGRESSED SEXTILE OR TRINE TO RADICAL URANUS. 
+
 These are excellent aspects for those who are sufficiently advanced to respond. If Uranus was well aspected at birth, the original, intuitive and inventive faculties will find an outlet at this time which may be very advantageous to the person. If he is interested in the study of advanced thought or occultism this is a particularly good time to pursue such subjects, for an expansion of consciousness may most easily result under these directions, friendships are formed with advanced people who will be of benefit to the person, and advantageous changes or removals may be made, hence it marks an epoch in the life which is likely to leave a permanent mark for good. 
 
-[509] 
-
 THE MOON PROGRESSED PARALLEL, CONJUNCTION, SQUARE OR OPPOSITION TO RADICAL NEPTUNE. 
-If Neptune was afflicted in the natal chart these directions mark a period of weird and uncanny experiences, when the person is likely to come under the spell of hypnotism or mediumship or have visions or begin to hear voices, but all these experiences are of an undesirable character and should therefore be guarded against as much as possible. It would be very unwise under these directions to enter the seance room of a spiritualistic meeting where the conditions favor such manifestations, and if the aspects occur from water signs--Cancer, Scorpio, or Pisces--there is a strong tendency to form a drink or drug habit which may operate to the sorrow and trouble of the person for all the rest of his life. As these aspects produce a mental and physical lassitude, when the vital forces are low and the person negative, such undesirable influences are particularly apt to gain a foothold. There is also a danger from plots by secret 
 
-[510] 
+If Neptune was afflicted in the natal chart these directions mark a period of weird and uncanny experiences, when the person is likely to come under the spell of hypnotism or mediumship or have visions or begin to hear voices, but all these experiences are of an undesirable character and should therefore be guarded against as much as possible. It would be very unwise under these directions to enter the seance room of a spiritualistic meeting where the conditions favor such manifestations, and if the aspects occur from water signs--Cancer, Scorpio, or Pisces--there is a strong tendency to form a drink or drug habit which may operate to the sorrow and trouble of the person for all the rest of his life. As these aspects produce a mental and physical lassitude, when the vital forces are low and the person negative, such undesirable influences are particularly apt to gain a foothold. There is also a danger from plots by secret 
 
 enemies which tend to bring the person into discredit and trouble. He may even suffer imprisonment or be confined in a hospital through ill-health, for Neptune rules prisons, hospitals, insane asylums, and similar places. Great care should be taken in all dealings with others. 
 
-
-
 THE MOON PROGRESSED SEXTILE OR TRINE TO RADICAL NEPTUNE. 
+
 If Neptune was well aspected at birth these directions may bring a slight extension of consciousness and if the solar aspects to Neptune are also in force at the same time an initiation may be looked for by those who are sufficiently advanced to respond to this influence. But to the majority of people it will probably mean only a pleasant time, a feast of music or some similar experience. 
 
-
-
 THE MOON PROGRESSED PARALLEL OR CONJUNCTION RADICAL ASCENDANT OR MIDHEAVEN. 
+
 These aspects bring changes in the life, but whether these are good or bad depends upon the other influences operating in the horoscope at the time. 
 
-
-
 THE MOON PROGRESSED SEXTILE OR TRINE TO RADICAL MIDHEAVEN.
+
 If other influences agree this is a time of beneficial changes, preferment and honor, and general success in the various departments of life. 
 
-[511] 
-
 THE MOON PROGRESSED SQUARE OR OPPOSITION TO RADICAL MIDHEAVEN. 
+
 These aspects indicate loss of prestige, trouble and anxiety, financial loss, especially if dealing with women. It is a bad time to travel or make changes. 
 
-
-
 THE MOON PROGRESSED SEXTILE OR TRINE TO RADICAL ASCENDANT. 
+
 These aspects bring beneficial changes, financial prosperity, and general good fortune. 
 
-
-
 THE MOON PROGRESSED SQUARE OR OPPOSITION TO RADICAL ASCENDANT. 
+
 These aspects mark a period of trouble. Ill-health may be looked for, and if any changes or removals are made they will be to the person's disadvantage. 
 
-[512] 
+### <h3 id="chapter-26">CHAPTER XXVI: MUTUAL PLANETARY DIRECTIONS</h3>
 
-CHAPTER XXVI 
-MUTUAL PLANETARY DIRECTIONS 
 Aspects between two progressed planets have little or no potency, but when a planet by progression comes into aspect with a radical planet it operates for good or ill, according to its nature and the power of the radical planet in the horoscope. 
 
 In the following paragraphs we have set down these tendencies, and it matters not whether Venus progresses to a good aspect with radical Saturn, or Saturn progresses to a good aspect with radical Venus, the effects are as noted in the first paragraph, and similarly with the other aspects following. 
@@ -3117,15 +2970,11 @@ VENUS AND SATURN IN GOOD ASPECT BY PROGRESSION indicate a period of financial su
 
 VENUS AND SATURN IN EVIL ASPECT BY PROGRESSION indicate a period of sorrow and trouble. Both the health and reputation suffer; delays, disappointment and losses are frequent and annoying. Others will seek to impose upon the person; death or separation from loved ones, and other disagreeable experiences are met. The mind is gloomy and inclined to worry. 
 
-[513] 
-
 MERCURY AND SATURN IN GOOD ASPECT BY PROGRESSION mark a good time to undertake new responsibilities, make investments in houses, mines, lands, or similar property, undertake study or research work of a deeper nature, and make important contracts which will prove of lasting benefit to the person. It is a good time to deal with agents and elderly persons, or to undertake journeys for a serious purpose. 
 
 MERCURY AND SATURN AFFLICTED BY PROGRESSION indicate a time of delays and disappointments with a tendency to look upon the dark side of things. It is a bad time to undertake new responsibilities, deal with elderly people or sign legal papers. The person is liable to slander and loss of reputation. 
 
 MARS AND SATURN IN GOOD ASPECT BY PROGRESSION mark a period when the person will be very enterprising yet tactful and diplomatic, courageous but not foolhardy, strong and dignified, better able to shoulder the responsibilities of life than at any other time. If he makes proper use of these qualities he will gain financially, also in honor and respect among his associates. 
-
-[514] 
 
 MARS AND SATURN IN BAD ASPECT BY PROGRESSION make the person very foolhardy and impulsive, hence there is a liability to accident under these directions. Occasionally when the horoscope shows violence there is a tendency to crime and bloodshed which may result in imprisonment. All the vices of the character seem to come to the fore at this time, and loss of temper is the least among them. The greatest care should be taken to keep the animal nature down and hold a firm check upon all the undesirable traits in the character. 
 
@@ -3133,29 +2982,21 @@ VENUS AND JUPITER IN GOOD ASPECT BY PROGRESSION bring financial benefits, and a 
 
 VENUS AND JUPITER AFFLICTING EACH OTHER BY PROGRESSION indicate a period of mild domestic trouble, small financial losses and a tendency to extravagance and wastefulness, pecuniary difficulties on that account, and possibly lawsuits. There is also some loss of prestige in the social circle or the person's environment. 
 
-[515] 
-
 MERCURY AND JUPITER IN GOOD ASPECT BY PROGRESSION indicate a very successful period in the life. The person will probably travel with both pleasure and profit to himself. He will have good health and be in the best of spirits, so that life in general will take on a very rosy hue. There are indications of gain by investments and in the general course of his business, and it is a good time to enter into contracts and agreements, especially for literary work. 
 
 MERCURY AND JUPITER AFFLICTED BY PROGRESSION mark a troublesome time, when the person is liable to become involved in lawsuits and lose thereby. He should be very careful not to sign papers or enter into agreements, for there will be trouble and misunderstanding, involving financial loss; also if he lends money to other people they will endeavor to impose upon him and defraud him, and dealings with agents and commission men should be particularly avoided. 
 
 MARS AND JUPITER IN GOOD ASPECT BY PROGRESSION mark a period in life when the usual conservatism of Jupiter is blended with the Martian enthusiasm, hence the person will become more enthusiastic and enterprising so that he is likely to extend his business and be successful in gaining an added income thereby. He should be careful, however, not to overreach himself at this time. These aspects also work upon the devotional nature and may sometimes express themselves as religious enthusiasm when the person turns over a new leaf and becomes a better man or woman than before. 
 
-[516] 
-
 MARS AND JUPITER IN EVIL ASPECT BY PROGRESSION mark a danger point in the life when the person is liable to wreck his whole career by acts which are definitely criminal, or by losses due to ostentatious display and extravagance, or he may become interested in some wildcat mining scheme or speculate upon the stock exchange in such a reckless manner that he loses all he has and becomes a pauper. The health is also likely to suffer under this direction; impurities of the blood may cause growths, tumors, boils, and kindred afflictions. Altogether it is a very evil time and the person should guard himself very carefully against yielding to any of these influences. 
 
 VENUS AND MARS IN GOOD ASPECT BY PROGRESSION mark a period of pleasure and enjoyment when an attachment of a lasting nature may be formed with someone through an enthusiastic courtship. There are also indications of financial gain and an increase of popularity. 
-
-[517] 
 
 VENUS AND MARS IN EVIL ASPECT BY PROGRESSION mark a period of impulse and recklessness when the person is likely to act in a most indiscreet manner that may cause great trouble in life. If married there will be some domestic unhappiness. Financial losses and discredit are also shown, therefore the person should endeavor to hold himself in check and avoid any temptations that may come in his path. 
 
 MERCURY AND MARS IN GOOD ASPECT BY PROGRESSION mark a time when the person is generally successful in all affairs of life, especially where the mental qualities are called into action, for this will make him keen, shrewd and sharp, quick to see a point and grasp an advantage, hence financial gain is also indicated. This is a good time for advertising and extending the person's business, entering contracts and agreements, and dealing with agents and middlemen. It is good for literary work of a lighter nature, and an excellent time to travel. The health is good and there is a feeling of cheerfulness, joy and optimism. 
 
 MERCURY AND MARS IN EVIL ASPECT BY PROGRESSION. This is a critical time when the person is liable to act on impulse, to speak and act impulsively without due deliberation and forethought, hence he is likely to get into trouble or suffer loss through the sharp practices of other people. He should therefore be very careful not to sign papers or enter into agreements, and there is danger of accident and trouble if the person travels. It is a bad time for changes or extensions of business. 
-
-[518] 
 
 MARS AND URANUS IN GOOD ASPECT BY PROGRESSION indicate a good period for perfecting inventions or starting new and original enterprises. Friendships of a beneficial nature are often made under these directions, and not infrequently a psychic awakening takes place through associations with people, or groups of people, of a Uranian nature. 
 
@@ -3165,8 +3006,6 @@ MARS AND NEPTUNE IN GOOD ASPECT BY PROGRESSION mark a time of good health and hi
 
 MARS AND NEPTUNE IN EVIL ASPECT BY PROGRESSION produce a neurotic condition in those who can respond to its influence. There is also a liability to be defrauded or victimized in some unaccountable manner. 
 
-[519] 
-
 VENUS AND URANUS IN GOOD ASPECT BY PROGRESSION give a probability of some financial gain and it is likely that the person will have what he considers a good time, involving probably a romantic love affair, but it is likely to leave a sting behind. This direction insures the aid of friends and increases the popularity of the person for the time being. 
 
 VENUS AND URANUS IN EVIL ASPECT BY PROGRESSION are a fruitful cause of domestic unhappiness and divorce. This direction is likely to bring about a scandal on account of immoral conduct. Lawsuits and financial loss are also threatened, and the person is likely to act in a most erratic manner. 
@@ -3174,8 +3013,6 @@ VENUS AND URANUS IN EVIL ASPECT BY PROGRESSION are a fruitful cause of domestic 
 VENUS AND NEPTUNE IN GOOD ASPECT BY PROGRESSION indicate a period of success in social matters, happiness and enjoyment of life for those who can respond to this direction. The person is particularly apt to indulge in the building of air castles and the concoction of roseate daydreams which are of no particular avail but serve to make the period thoroughly enjoyable. 
 
 VENUS AND NEPTUNE IN EVIL ASPECT BY PROGRESSION are likely to bring some psychic experience of a disagreeable nature connected with mediumship or hypnotism. There is a tendency to sensuality and immorality, occasionally the indulgence in drinks or drugs which will cause sorrow and trouble to come to the person. 
-
-[520] 
 
 MERCURY AND URANUS IN GOOD ASPECT BY PROGRESSION make the native active mentally, bring unexpected pleasures, give impulse to mental work, make the mind keen and give a desire for occult investigation. Many are attracted to and become interested in altruistic and humanitarian work under this aspect. 
 
@@ -3187,20 +3024,17 @@ MERCURY AND NEPTUNE IN BAD ASPECT BY PROGRESSION. Persons under this influence s
 
 SATURN, JUPITER, URANUS, AND NEPTUNE seldom form aspects by progression on account of their slow motion. 
 
-[521] 
+### <h3 id="chapter-27">CHAPTER XXVII: TRANSITS</h3>
 
-CHAPTER XXVII 
-TRANSITS 
 The progressed positions of planets are the principal significators of events, but the transitory positions of the planets in space at the actual time of events strengthen or weaken effects of aspects in the progressed horoscope, according to whether they are akin in nature or not. The New Moons are particularly potent. These so-called Transits are seen in the ephemeris for the actual year of events. 
 
-THE INCREASING OR DECREASING MOON 
+THE INCREASING OR DECREASING MOON
+
 Among the points in Astrology which bother the beginner, is when the Moon is increasing in light or decreasing. Astrological works frequently use these expressions when tabulating the effects of various configurations. But so far as we know, no explanation has been given elsewhere, and we trust the following may make the subject clear to students. 
 
 Each month the Moon comes into conjunction with the Sun, and this conjunction of the luminaries is called a Lunation or New Moon. After the conjunction or New Moon, she may be seen in the western sky close to the horizon as a tiny crescent; day by day the lighted surface grows larger; at the time of the opposition to the Sun she has increased her light to the fullest capacity, and at that time we speak of her as a full Moon; she then rises in the eastern sky at the same time as the Sun sets in the west. From that time for another fortnight it will be observed that she rises later and later in the night; at the same time the illuminated part of her disc decreases until just before the next conjunction or new Moon, early risers may observe her in the eastern sky just before sunrise as a tiny crescent upon the vault of heaven. Thus the Moon is increasing in light from the time of its conjunction or new Moon to the opposition, or full Moon, and from the full Moon to the next New Moon it is decreasing in light. The times of the New Moon, Full Moon and eclipses are given each month in our Simplified Scientific Ephemeris, which see. 
 
 Transits of Neptune, Uranus, Saturn and Jupiter are important, and when the student has become familiar with the mysteries of the progressed horoscope but not before, he may profitably write the ephemeral position of these planets outside the progressed horoscope and watch their effect, also the aspects of the New Moons. But be sure, at first, to keep the progressed horoscope down to first principles, for fancy aspects are "the stuff dreams are made of," the warp and woof of astrological romances which fade away into moonshine and leave the astrologer discomfited. It is comparatively easy to wield the shuttle of imagination with natal, progressed and transiting planets, each set with its corresponding houses, and a multitude of aspects to choose from, but simple judgment based upon the prime essentials of a horoscope is almost invariably justified by events. 
-
-[523] 
 
 SATURN TRANSITING THE RADICAL SUN, MOON, VENUS OR JUPITER. These transits lower the vitality and act as a damper on the spirits of the person; there is a tendency to colds, gloom and melancholy, delays and disappointments, and if Saturn should turn retrograde passing and repassing these points, quite a long time of trouble and anxiety results. 
 
@@ -3210,17 +3044,13 @@ SATURN TRANSITING SEXTILE OR TRINE THE RADICAL SUN, MOON, VENUS OR JUPITER. Thes
 
 SATURN TRANSITING SEXTILE OR TRINE THE RADICAL MERCURY. These aspects steady the mind and make it more capable of concentration when Saturn is direct, or when he is retrograde, but aspecting Mercury by square or opposition, fear, worry, melancholy, gloom and trouble result; then it is also dangerous to travel. 
 
-[524] 
-
 SATURN TRANSITING RADICAL MARS, URANUS OR NEPTUNE. These transits always mark a time of trouble, no matter what the aspect, but the nature of the trouble is best determined by the house and sign where the afflicted planet is located. 
 
 SATURN TRANSITING THE RADICAL MIDHEAVEN. This aspect always produces slander, discredit and loss of prestige. 
 
 SATURN TRANSITING THE SIXTH OR TWELFTH HOUSE OR THE ASCENDANT. These positions have an inimical effect on the health, according to the signs which are on the cusps of these houses. 
 
-JUPITER TRANSITING SEXTILE OR TRINE THE RADICAL SUN, VENUS, MERCURY OR MOON. These aspects bring health, happiness and financial benefit in accordance with the radical indications. If Jupiter retrogrades he is not so active but the period of good is protracted by his repeated direct passage over the good aspects. 
-
-[525] 
+JUPITER TRANSITING SEXTILE OR TRINE THE RADICAL SUN, VENUS, MERCURY OR MOON. These aspects bring health, happiness and financial benefit in accordance with the radical indications. If Jupiter retrogrades he is not so active but the period of good is protracted by his repeated direct passage over the good aspects.  
 
 JUPITER TRANSITING SQUARE OR OPPOSITION RADICAL SUN, VENUS, MERCURY OR MOON. These aspects are not very evil because evil is out of harmony with the basic nature of Jupiter. 
 
@@ -3230,29 +3060,22 @@ URANUS TRANSITING RADICAL SUN OR VENUS. These transits produce romantic attachme
 
 URANUS TRANSITING RADICAL MARS, MOON OR MERCURY. These aspects of Uranus to the radical Mars, Moon or Mercury have a tendency to make the person rash, reckless, foolhardy and erratic, sometimes to the point of insanity if other testimonies in the horoscope concur, the phase of the mental disturbance varying from violence when induced by Mars, to mild idiocy when produced by the Moon. 
 
-[526] 
-
 URANUS TRANSITING OR IN EVIL ASPECT TO RADICAL SATURN, MARS OR NEPTUNE. These transits cause trouble according to the house and sign where Uranus is located. Good aspects produce no benefit as far as we have observed. 
 
 NEPTUNE TRANSITING RADICAL MERCURY OR MOON. These aspects bring a spiritual awakening accompanied by dreams and visions of an elevating nature. These aspects are also good for travel, but the bad aspects make the mind unclean, polluted and criminal if the radical horoscope allows, so that the person may commit a crime and suffer imprisonment. Mediumship is also often the result of these transits. 
 
-[527] 
+<h2 id="part-2">PART II: MEDICAL ASTROLOGY</h2>
 
-PART II MEDICAL ASTROLOGY 
 AFTER AN EXTENSIVE PRACTICE OF MANY YEARS, THE FOLLOWING TREATISE IS SUBMITTED AS EMBODYING THE AUTHORS' EXPERIENCE, GAINED BY SUCCESSFUL DIAGNOSIS OF MANY THOUSANDS OF HOROSCOPES 
 [But we want to make it clearly understood that we do not cast horoscopes for money, or tell fortunes. Our work is a strictly humanitarian undertaking. To us, Astrology is a phase of religion.] 
 
-[528] 
+### <h3 id="chapter-28">CHAPTER XXVIII: ASTRO-DIAGNOSIS OF DISEASE</h3>
 
-CHAPTER XXVIII 
-ASTRO-DIAGNOSIS OF DISEASE
 Parents have an exceptional opportunity and may lay up much treasure in heaven by judicious care of growing children based upon knowledge of tendencies to disease revealed by the horoscope. The writers rely implicitly upon the horoscope's testimony and though in a few cases doubts have been expressed as to the correctness of our diagnosis, because it varied from that of practitioners in personal touch with the patient, subsequent developments have invariable vindicated our judgment and proved the far-reaching penetration of Astrology which is as much in advance of the X-Ray as that is superior to a candle, for even though the X-Ray were capable of illuminating the entire body to such an extent that we could see each individual cell in activity, it could only show the conditions of the body at a given moment. But the horoscope shows incipient disease from the cradle to the grave, thus it gives us ample time to apply the ounce of prevention, and maybe escape an illness, or at least, ameliorate its severity when disease has overtaken us. It indicates to the day when crises are due. Thus forewarned, we may take extra precautionary measures to tide over the critical point. It indicates when the inimical influences will wane and fortifies us to bear present suffering with strength born of the knowledge that recovery at a specific time is certain. Thus Astrology offers help and hope in a manner obtainable by no other method; for its scope is wider than all other systems, and it penetrates to the very soul of Being. 
 
-[529] 
+#### <h4 id="an-important-warning">AN IMPORTANT WARNING</h4>
 
-AN IMPORTANT WARNING
 If letters of fire that would burn themselves into the consciousness of the reader were obtainable, we would spare no effort to procure them for the purpose of warning students on some particular points in connection with the practice of medical Astrology; these are: 
-
 
 Never tell a patient a discouraging fact. 
 Never tell him when impending crises are due. 
@@ -3261,36 +3084,27 @@ Never, never predict death.
 
 It is a grave mistake, almost a crime, to tell sick persons anything discouraging, for it robs them of strength that should be husbanded with the utmost care to facilitate recovery. It is also wrong to suggest sickness to a well person, for it focuses the mind on a specific disease at a certain time, and such a suggestion is liable to cause sickness. It is a well known fact that many students in medical colleges feel the symptoms of every disease they study, and suffer greatly in consequence of auto-suggestion, but the idea of impending disease implanted by one in whom the victim has faith is much more dangerous; therefore it behooves the medical astrologer to be very cautious. If you cannot say anything encouraging, be silent. 
 
-[530] 
-
 This warning applies with particular force when treating patients having Taurus or Virgo rising or the Sun or Moon in those signs. These positions predispose the mind to center on disease, often in a most unwarranted manner. The Taurean fears sickness to an almost insane degree, and prediction of disease is fatal to this nature. The Virgos court disease, in order to gain sympathy, and though professing to long for recovery, they actually delight in nursing disease. They beg to know their symptoms, the crises, and delight in probing the matter to the depths; they will plead ability to stand full knowledge and profess that it will help them; but if the practitioner allows himself to be enticed by their protestations, and does tell them, they wilt like a flower. They are the most difficult people to help in any case, and extra care should be taken not to aggravate their chances by admissions of the nature indicated. 
 
 Besides, though the writers have used medical Astrology for many years and with astonishing success, and though Astrology, as a science, is absolutely exact and infallible, it must not be forgotten that there remains nevertheless the chance of mistaken judgment on the part of the practitioner and the chance that the person whose horoscope he is judging may assert his will to such an extent that it overrules the indication in the horoscope. He may change his mode of life without knowing what would have happened if he had gone on as before, and thus he may be in no danger at the time when the tendency to sickness shown by the horoscope arrives; it is cruel to unsettle his mind in any case. Naturally, the young student would be most liable to make a mistake in judgment, but no one is immune. We remember a case that came to our notice recently. One of the most prominent European astrologers predicted for a client in South Africa that on a certain date he would have a severe hemorrhage of the lungs. The poor man wrote to us for help, but though liability to colds in the lungs was shown, we saw no serious trouble at the time predicted, nor has hemorrhage been experienced in the year elapsed between that time and the present writing. 
 
 Some students have a morbid desire to know the time of their own death, and probe into this matter in a most unwarranted manner; but no matter how they may seek to deceive themselves there are very few who have the mental and moral stamina to live life in the same manner, if they knew with absolute certainty that on a certain date their earthly existence would be terminated. That is one of the points most wisely hidden until we are to see on both sides of the veil, and we do wrong, no matter what our ground, to seek to wrest that knowledge from the horoscope. 
 
-[532] 
-
 Moreover, it has been well said that "the doctor who prescribes for himself has a fool for a patient," and this applies to diagnosis of one's own horoscope with tenfold force, for there we are all biased; either we make too light of conditions, or we take them too seriously, particularly if we investigate the time and mode of death. We remember a case where an intellectual women, principal of a private school in New York, wrote asking for admission to our correspondence class, "if we thought it worth while, as she was going to die the first week in March." She gave us all the aspects upon which she based her judgment, and as one of the writers had just emerged hale and hearty from similar configurations, she gave the lady in question a good talking to that straightened her out; she told the lady she (the writer) expected to live to a ripe age. Now that lady is thinking of a useful life, she has learned to forget death. Astrology is too sacred to be thus misused. Let the student forget about his own horoscope and devote his knowledge to helping others; then it will aid him in accumulating treasure in heaven as no other line of spiritual endeavor will. 
 
-[533] 
+#### <h4 id="planetary-polarities">PLANETARY POLARITIES</h4>
 
-PLANETARY POLARITIES 
 When we study magnetism we are dealing with an invisible force; and ordinarily we can at best state the way it manifests in the physical world, as is the case whenever we deal with any force. The physical world is the world of effects; the causes are hidden from our sight, though they are nearer than hands or feet. Force is all about us, invisible and only seen by the effects it produces. 
 
 If we take a dish of water, for illustration, and allow it to freeze, we shall see a myriad of ice crystals, beautiful geometrical figures. These show the lines along which the water congealed and these lines are lines of force which were present before the water congealed; but they were invisible until the proper conditions were furnished them and they became manifest. In the same way there are lines of force going between the two poles of a magnet; they are neither seen nor felt until we bring iron or iron filings into the place where they are, when they will manifest by arranging the filings in an orderly pattern. By making the proper conditions we may cause any of the nature forces to show their effects--moving our street cars, carrying messages with lightning speed over thousands of miles, etc., etc.; but the force itself is ever invisible. We know that magnetism travels always at right angles to the electric current with which it manifests; we know the difference between the manifestations of the electric and the magnetic current, so dependent upon one another, but we have never seen either; though they are about the most valuable servants we have today. 
 
 Magnetism may be divided into "mineral" and "animal" magnetism, though in reality they are one, but the former has very little influence upon animal tissue, while the latter is generally impotent in working with minerals. 
 
-[534] 
-
 The mineral magnetism is derived directly from lodestones which are used to magnetize iron, and this process gives to the metal thus treated the property of attracting iron. This kind of magnet is very little used, however, as its magnetism becomes depleted, is too weak in proportion to its bulk, and principally because the magnetic force cannot be controlled in such a so-called "permanent" magnet. 
 
 The "electromagnet" is also a "mineral" magnet. It is simply a piece of iron wound around with many turns of electric wire; the strength of the magnet varies as the number of turns of wire, and the strength of the electric current that is passed through it. 
 
 Electricity is all about us in a diffused state, of no use for industrial purposes until it is compressed and forced through the electric wires by the powerful electromagnets. We must have magnetism in the first place before we can get any electricity. Before a new electric generator is started the "fields," which are nothing but electromagnets, must be magnetized. If that is not done they may turn it till the crack of doom, at any rate of speed they please, and it will never light a single lamp nor move a grain of weight; all depends upon the magnetism being there first. After this magnetism is once started it will leave a little behind when the generator is shut down, and this so-called "residual magnetism" will be the nucleus of force to be built up each time the generator is started afresh. 
-
-[535] 
 
 All bodies of plants, animals and men are but transformed mineral. They have all come from the mineral kingdom in the first place, and chemical analysis of the plant, animal and human bodies brings out the fact beyond cavil. Moreover, we know that the plants get their sustenance from the mineral soil, and both animal and man are eating mineral when they consume the plants as food; even when man eats the animals he is nevertheless eating mineral compounds, and therefore he gets with his food both the mineral substances and the magnetic force which they contain. 
 
@@ -3300,15 +3114,11 @@ To understand this, we must acquaint ourselves a little closer with the way magn
 
 There are always two fields or a multiple of two fields in a generator or motor, every alternate "field" or magnet being "north-pole" and every other one, "south-pole." If we wish to run two or more generators "in multiple" and force their electricity into the same wire, the first requisite is that the magnetic current in the field-magnets should run in the same direction. 
 
-[536] 
-
 If that were not the case, they would not run together; they would generate currents going in opposite directions, blowing their fuses. That would be because the poles in one generator, which should have attracted, repelled, and vice-versa. The remedy is to change the ends of the wire which magnetizes the fields; then the magnetic current in one generator will become like the current of the other, and both will run smoothly together. 
 
 Similar conditions prevail in magnetic healing; a certain vibratory pitch and magnetic polarity were infused into each of us when the stellar forces surged through our bodies and gave us our planetary baptism at the moment when we drew our first complete breath. These are modified during our pilgrimage of life, but in the main their initial impulse remains undisturbed and therefore the horoscope at birth retains the most vital power in life to determine our sympathies and antipathies as well as all other matters. Nay more, its pronouncements are more reliable than our conscious likes and dislikes. 
 
 Sometimes we may meet and learn to like a person, although we have a feeling that he has an inimical influence on us for which we cannot account, and therefore strive to put aside; but a comparison of his horoscope with our own will reveal the reason and if we are wise we heed its warning, or as surely as the circling stars move in their orbits around the Sun we will live to regret our disregard of this handwriting on the wall. 
-
-[537] 
 
 But there are also many cases when we do not sense the antipathy between ourselves and a certain person, though the horoscope reveals it, and if we see the signs when comparing the two horoscopes we may feel inclined to trust our feelings rather than the stellar script of the horoscopes. That also will in time lead to trouble, for the planetary polarity is certain to manifest in time unless both parties are sufficiently evolved to rule their stars in a large measure. Such people are few and far between at our present stage of evolution. Therefore we shall do well if we use our knowledge of the stellar script to compare our horoscopes with those at least who come intimately into our lives. This may save both them and us much misery and heartache. We would advise this course particularly with regard to a healer and his patients, and with reference to a prospective marriage partner. 
 
@@ -3322,15 +3132,12 @@ It is also necessary to see that Saturn in the horoscope of the nurse or healer 
 
 With respect to marriage the planetary polarity is shown principally by a consideration of the feminine Moon and Venus in a man's horoscope, for they describe his attractions towards the opposite sex, and in a woman's horoscope the masculine Sun and Mars have a similar significance. If these planets are harmoniously configurated and the signs on the cusps of the Seventh Houses of the prospective partners agree, harmony will prevail, especially if the Sun, Venus or Jupiter of one person is placed in the Seventh House of the other. But if the planets mentioned afflict one another, or the Seventh Houses of the parties are out of harmony, or if Saturn, Mars, Uranus or Neptune of one is in a degree included in the Seventh House of the other, it is the handwriting on the wall which indicates that the planetary polarities are inharmonious and that sorrow is in store for them if they allow their evanescent emotions to draw them together in a bond of unhappiness; for it is easy to change the field wires on two electric generators so that their polarities will agree, but it is extremely difficult to reverse the planetary polarity of one person to make it agree with that received by another at his planetary baptism. 
 
-[540] 
+### <h3 id="chapter-29">CHAPTER XXIX: THE LAW OF CORRESPONDENCES</h3>
 
-CHAPTER XXIX 
-THE LAW OF CORRESPONDENCES
 It is said in the Bible that God made man in His likeness, and from hoary antiquity seers and sages have noted a correspondence between the Macrocosm, the great world, and the Microcosm, the little world, or man. This is again expressed in the hermetic axiom which is the master-key to all mysteries: "As above, so below." Therefore we may note that the various parts of the human body are correlated to different divisions of the vaulted arch of heaven and the marching orbs that move through it. As the creative forces within the womb act upon the ovum and gradually build the fetus, so also the stellar rays from the macrocosmic body of mother nature are active upon man. It is their activity which we note in the process of evolution whereby that which is now man has come up through the lower kingdoms to his present stage of completion, and it is by the same rays that he will gradually evolve to the divine stature where he will indeed be like the Father in Heaven, consequently we may note the correspondences between the signs and planets and the different divisions of the human body as follows: 
 
-[541] 
+#### <h4 id="pathogenic-effects-of-the-twelve-signs">PATHOGENIC EFFECTS OF THE TWELVE SIGNS</h4>
 
-PATHOGENIC EFFECTS OF THE TWELVE SIGNS
 ARIES rules the head, the cerebral hemispheres, the various organs within the head, and the eyes, but the nose is under the rulership of Scorpio. 
 
 Thus any affliction in Aries will react upon the head, producing headaches, neuralgia, coma and trance conditions, diseases of the brain and cerebral hemorrhages. 
@@ -3343,8 +3150,6 @@ GEMINI rules the arms and hands, shoulders, lungs, and the thymus gland, also th
 
 CANCER rules the esophagus, stomach, diaphragm, pancreas, the mammae, lacteals, upper lobes of liver, and thoracic duct, hence afflictions in Cancer produce indigestion, gas in the stomach, cough, hiccough, dropsy, gloom, hypochondria, hysteria, gall stones, and jaundice. 
 
-[542] 
-
 LEO rules the heart, the dorsal region of the spine, the spinal cord, and the aorta, therefore the afflictions in Leo cause regurgitation, palpitation, faintings, aneurysm, spinal meningitis, and curvature of the spine, also arteriosclerosis and angina pectoris, hyperaemia, anemia and hydraemia. 
 
 VIRGO rules the abdominal region, the large and small intestines, the lower lobes of the liver, and the spleen, therefore afflictions in Virgo produce peritonitis, tapeworm, malnutrition, interference with the absorption of the chyle, typhoid fever, cholera, and appendicitis. 
@@ -3352,8 +3157,6 @@ VIRGO rules the abdominal region, the large and small intestines, the lower lobe
 LIBRA rules the kidneys, the suprarenals, the lumbar region of the spine, the vasomotor system and the skin, hence afflictions in Libra produce polyuria, or suppression of the urine, inflammation of the ureters which connect the kidneys with the bladder, Bright's disease, lumbago, eczema and other skin diseases. 
 
 SCORPIO rules the bladder, urethra, and genital organs in general, also the rectum and the descending colon, the sigmoid flexure, the prostate gland, and the nasal bones; hence afflictions in Scorpio produce nasal catarrh, adenoids, and polypi, diseases of the womb and ovaries, various venereal diseases, stricture, and enlargement of the prostate gland, irregularities of the menses, leucorrhoea, rupture, renal stones and gravel. 
-
-[543] 
 
 SAGITTARIUS rules the hips and thighs, the femur, ilium, the coccygeal and sacral regions of the spine, the iliac arteries and veins, sciatic nerves, hence afflictions to Sagittarius produce locomotor ataxia, sciatica, rheumatism, and hip diseases. Furthermore, as each sign has an influence upon its opposite, afflictions in Sagittarius may also cause pulmonary troubles. It is also noteworthy that broken bones are caused by this sign. 
 
@@ -3363,9 +3166,8 @@ AQUARIUS rules the ankles, the limbs from the knees to the ankles, and has also 
 
 PISCES rules the feet and toes. It also has a reflex effect on the abdominal region governed by the opposite sign, Virgo, hence afflictions in this sign indicate trouble and deformities of the feet, intestinal diseases and dropsy. It also produces a desire for drink and drugs which may bring about delirium tremens. Consumption is sometimes found to be a secondary result of cold in the feet contracted by an afflicted Pisces. 
 
-[544] 
+#### <h4 id="pathogenic-effects-of-the-sun">PATHOGENIC EFFECTS OF THE SUN</h4>
 
-PATHOGENIC EFFECTS OF THE SUN 
 The Sun rules in the very first place the vital fluid which is specialized through the spleen, transferred to the solar plexus, and thence distributed over the whole body. This vital fluid is invisible to ordinary humanity, but to those gifted with the spiritual sight it appears as a rose-colored fluid which is like the electricity in the wires of a telephone or telegraph system. When the wires designed to carry electricity are minus the electric fluid they are dead and the telephone or telegraph instruments do not respond. Similarly, when for some reason the invisible vital fluid ceases to flow through any part of the human organism in sufficient quantity, that part of the body will not perform its proper function, and therefore disease results, continuing until some obstruction has been removed and the path cleared for the vital fluid. On that account an afflicted Sun always causes disease, particularly in a man's horoscope, and in a woman's nativity the Moon, which is the collector of solar forces, takes the same office or function. The heart and the pons varolii, or vital knot, situated in the brain, are the principal parts of the body ruled by the Sun. When the Sun is well aspected in Leo or Aries radiant health may be looked for. But on the other hand, when he is afflicted he produces the various ailments according to the sign wherein he is placed at the time. These disabilities may be set down as follows: 
 
 THE SUN AFFLICTED IN ARIES, the sign which rules the head, gives a tendency to aphasia, loss of identity, brain fever, cerebral hemorrhage, and meningitis, cerebral anemia or congestion of the blood, faintings and headaches. 
@@ -3377,8 +3179,6 @@ THE SUN AFFLICTED IN GEMINI gives a tendency to pleurisy, bronchitis, and hypera
 THE SUN AFFLICTED IN CANCER gives a tendency to anemia, dropsy, dyspepsia, and gastric fever. 
 
 THE SUN AFFLICTED IN LEO gives a tendency to palpitation of the heart, backache, and spinal affections. In the Ascelli (Leo 6), eye trouble. 
-
-[546] 
 
 THE SUN AFFLICTED IN VIRGO gives a tendency to interference with the assimilation, peritonitis, typhoid fever, and dysentery. 
 
@@ -3394,9 +3194,8 @@ THE SUN AFFLICTED IN AQUARIUS gives a tendency to varicose veins, dropsy, palpit
 
 THE SUN AFFLICTED IN PISCES gives a tendency to perspiration of the feet, also intestinal troubles, typhoid fever, etc. 
 
-[547] 
+#### <h4 id="pathogenic-effects-of-venus">PATHOGENIC EFFECTS OF VENUS</h4>
 
-PATHOGENIC EFFECTS OF VENUS
 On account of her rulership of Taurus and Libra, Venus is responsible for a number of affections of the throat and kidneys, also maladies due to gastronomical indiscretions, lack of exercise, sedentary habits, poor circulation of the venous blood, excess of amorous indulgence and dissolute living, hence she brings obesity, tumors, cysts, poor circulation, venereal diseases, tonsillitis, and various other disorders. Her general effect when placed in the twelve signs may be classed as follows: 
 
 VENUS AFFLICTED IN ARIES gives a tendency to catarrh in the head, mucus, and, by reflex action in Libra congestion of the kidneys. 
@@ -3408,8 +3207,6 @@ VENUS AFFLICTED IN GEMINI gives a tendency to corrupt blood, pulmonary inefficie
 VENUS AFFLICTED IN CANCER gives a tendency to distended stomach, gastric tumor, and nausea. 
 
 VENUS AFFLICTED IN LEO gives a tendency to spinal affections, backache and enlarged heart. 
-
-[548] 
 
 VENUS AFFLICTED IN VIRGO gives a tendency to weakened peristaltic action of the intestines, tumors, tapeworm, and worms in children. 
 
@@ -3425,9 +3222,8 @@ VENUS AFFLICTED IN AQUARIUS gives a tendency to varicose veins, and, by reflex a
 
 VENUS AFFLICTED IN PISCES gives a tendency to tender feet, bunions, chilblains, gout, and, by reflex action in Virgo, abdominal tumors and intestinal disorders. 
 
-[549] 
+#### <h4 id="pathogenic-effects-of-mercury">PATHOGENIC EFFECTS OF MERCURY</h4>
 
-PATHOGENIC EFFECTS OF MERCURY 
 Mercury rules Gemini and Virgo, therefore his afflictions manifest in diseases related to these signs, as bronchitis, pulmonary and respiratory troubles. He also rules the right cerebral hemisphere, the motor segment of the spinal cord, and the vocal cords, hence locomotor ataxia and nervous and vocal disorders are among his manifestations; so is deafness. The following effects may be noted when he is afflicted in the twelve signs: 
 
 MERCURY AFFLICTED IN ARIES gives a tendency to brain fever, nervous headache, vertigo, neuralgia, and, by reflex action in Libra, nervous disorders of the kidneys, and lumbago. 
@@ -3439,8 +3235,6 @@ MERCURY AFFLICTED IN GEMINI gives a tendency to gout in head, arms, and shoulder
 MERCURY AFFLICTED IN CANCER gives a tendency to nervous indigestion, phlegm, flatulence, and drunkenness. 
 
 MERCURY AFFLICTED IN LEO gives a tendency to pain in the back, fainting, and palpitation of the heart. 
-
-[550] 
 
 MERCURY AFFLICTED IN VIRGO gives a tendency to flatulence, wind colic, short breath, and nervous debility. 
 
@@ -3456,9 +3250,8 @@ MERCURY AFFLICTED IN AQUARIUS gives a tendency to shooting or gnawing pains in t
 
 MERCURY AFFLICTED IN PISCES gives a tendency to gout in the feet, or they are tender and subject to cramp, or, by reflex action in Virgo, a general weakness, lassitude, worry, and sometimes tuberculosis, deafness. 
 
-[551] 
+#### <h4 id="pathogenic-effects-of-the-moon">PATHOGENIC EFFECTS OF THE MOON</h4>
 
-PATHOGENIC EFFECTS OF THE MOON 
 The Moon rules the esophagus and stomach, the uterus and ovaries, the lymphatics and the sympathetic nervous system, the synovial fluid. When afflicted she produces dropsical and menstrual troubles, uterine and ovarian afflictions, dyspepsia, eye trouble, and lunacy, according to the sign, house and nature of the afflicting planet. She has particular rule over the mother during pregnancy. 
 
 THE MOON AFFLICTED IN ARIES gives a tendency to insomnia, headache, lethargy, and weak eyes. 
@@ -3470,8 +3263,6 @@ THE MOON AFFLICTED IN GEMINI gives a tendency to catarrh of the lungs, asthma, b
 THE MOON AFFLICTED IN CANCER gives a tendency to cancer of the stomach, dropsy, obesity, bloating, digestive troubles, and epilepsy. 
 
 THE MOON AFFLICTED IN LEO gives a tendency to backache, disturbed circulation, convulsions, and heart trouble; if in Leo 6, eye trouble. 
-
-[552] 
 
 THE MOON AFFLICTED IN VIRGO gives a tendency to disorders in the bowels, abdominal tumors, dysentery, and peritonitis. 
 
@@ -3487,14 +3278,11 @@ THE MOON AFFLICTED IN AQUARIUS gives a tendency to varicose veins, ulcers of the
 
 THE MOON AFFLICTED IN PISCES gives a tendency to drink, drug habits, tender feet, and, by reflex action in Virgo, abdominal disorders of various kinds. 
 
-[553] 
+#### <h4 id="pathogenic-effects-of-saturn">PATHOGENIC EFFECTS OF SATURN</h4>
 
-PATHOGENIC EFFECTS OF SATURN 
 Saturn is the planet of obstruction, crystallization and atrophy. By his action the circulation or passage of bodily fluids, such as the blood, lymph, or urine, is impeded, and by this stagnation waste materials are retained instead of being eliminated. Thus they form various deposits in the body, building the skeleton, which is constructive, hardening the arteries and articulations, which is destructive. Saturn rules the gall bladder, where he forms the painful gallstones, and by virtue of his exaltation power in Libra he crystallizes the renal stones and gravel which cause such suffering to those who have these concretions. By retention of the urea he causes the painful rheumatism and gout which often manifest in deformity of the joints that so often disfigures and disables the sufferers therefrom. He rules the pneumogastric nerve, and by his restrictive action through that medium he may at any moment slow down the heart action, stop digestion, suppress the urine and stool under the emotions of fear and worry generated by him. Thus he has the power to bring every bodily function to a standstill. 
 
 Saturn also rules the teeth and the skin. By his action the teeth decay, leading to malnutrition, the synovial membranes are hardened, making the spine and limbs rigid; he makes the skin tough as the years go by. Saturn is at home in Capricorn, and by his reflex action in Cancer he interferes with the peristaltic action which is necessary in the digestion of food; he then causes antiperistalsis, or vomiting. His general activities in the body are destructive and tend to end the life of the organism. 
-
-[554] 
 
 Saturn generally hurts by falls, bruises, and colds. He predisposes to chronic and deep-seated ailments, and his victims are difficult to reach because he imbues them with fear, worry, and pessimism, so that they refuse to believe in the possibility of a cure and cannot be induced to take a cheerful look on life. 
 
@@ -3505,8 +3293,6 @@ SATURN IN ARIES gives a tendency to headache, colds, catarrh, deafness, and chil
 SATURN IN TAURUS gives a tendency to phlegm, diphtheria, quinsy, mumps, croup, decay of the lower teeth, choking, and by reflex action in Scorpio, stricture, constipation and similar disorders. 
 
 SATURN IN GEMINI gives a tendency to rheumatic pains in shoulders and arms, bronchitis, pulmonary consumption, asthma, and, by reflex action in Sagittarius, sciatica and hip diseases. 
-
-[555] 
 
 SATURN IN CANCER gives a tendency to pyorrhea, dyspepsia, gastric ulcer and cancer, nausea and belching, scurvy, jaundice, gallstones, anemia, and stricture of the esophagus. 
 
@@ -3526,9 +3312,8 @@ SATURN IN AQUARIUS gives a tendency to weak ankles, easily sprained, and, by ref
 
 SATURN IN PISCES gives a tendency to cold feet, rheumatism and bunions, also tuberculosis due to cold and wet feet, and, by reflex action in Virgo, dropsy. 
 
-[556] 
+#### <h4 id="pathogenic-effects-of-jupiter">PATHOGENIC EFFECTS OF JUPITER</h4>
 
-PATHOGENIC EFFECTS OF JUPITER 
 The liver is the great center of the Jupiterian activity; there he forms glycogen from the waste products of the portal blood-stream. The great central vortex of the desire body is also in the liver, and when an extra effort is to be made, Mars draws upon the glycogen storehouse of Jupiter for fuel. Saturn too is active in the liver, forming the gall, urea, and uric acid. 
 
 It is somewhat difficult for the average student to segregate and combine the varied functions of this organ, but if we bear in mind that Cancer is the exaltation sign of Jupiter and the opposite sign Capricorn is the home of Saturn and the exaltation sign of Mars, we shall more readily understand that the great benefic, Jupiter, endeavors to store in the liver the glycogen so necessary to the bodily activity. This, Mars, the opposing exaltation ruler, recklessly scatters by expenditure of muscular energy, and he is aided and abetted in his destructive activities by Saturn, who produces gall and urea which he deposits during the muscular work as uric acid in the various parts of the body where it manifests as gout and rheumatism. Saturn also makes the liver torpid and causes constipation. 
@@ -3540,8 +3325,6 @@ The following effects may be noted when Jupiter is afflicted in the twelve signs
 JUPITER AFFLICTED IN ARIES gives a tendency to dizziness, cerebral congestion, sleepiness, thrombosis, fainting, ulcerated gums of upper jaw, and, by reflex action in Libra, diabetes and depression due to lack of adrenal secretion. 
 
 JUPITER AFFLICTED IN TAURUS gives a tendency to gourmandize, hence plethora and apoplexy, ringworm and carbuncles follow; also ulcerated gums of mandible; by reflex action in Scorpio, catarrh of the nose and nosebleed. 
-
-[558] 
 
 JUPITER AFFLICTED IN GEMINI gives a tendency to pleurisy, blood affections, congestion of the lungs, pulmonary apoplexy; by reflex action in Sagittarius, broken bones, gout and rheumatism in hips and thighs. 
 
@@ -3563,22 +3346,17 @@ JUPITER AFFLICTED IN AQUARIUS gives a tendency to milk-leg, swollen ankles, and,
 
 JUPITER AFFLICTED IN PISCES gives a tendency to swollen, perspiring feet, and, by reflex action in Virgo, enlarged liver, abdominal tumors, jaundice, and diseased intestines. 
 
-[559] 
+#### <h4 id="pathogenic-effects-of-mars">PATHOGENIC EFFECTS OF MARS</h4>
 
-PATHOGENIC EFFECTS OF MARS 
 The ancient Egyptian sages called Cancer the sphere of the soul, and when the mystic Sun of life goes through this moist, fruitful lunar sign the seed-atom of the ego's physical body is planted. While the embryonic body grows unconsciously as a plant grows, the mystic Sun of life passes through Leo, Virgo, and Libra. In the fourth month of gestation it passes through the second of the water signs, Scorpio. Then the spirit dies to its heavenly home and is immured in its earthly prison house by Mars, who chains it with the silver cord and thus brings about the quickening. Then the Sun of life proceeds through Sagittarius, Capricorn, Aquarius, and when after the nine months have been completed it has passed through the last of the watery signs, Pisces, the flood-gates of the womb are opened and the ego is launched upon the sea of life under the auspices of the martial sign Aries, where the giver of life, the Sun, is exalted. 
 
 During the gestatory period Mars has given to the body iron, especially in the form of hemoglobin, and with the first breath oxidation of this substance commences to produce the heat so necessary to life and consciousness. This operation is continued all through life, and thus to the Martian ray falls the important task of supplementing the Sun in the maintenance of the vital spark until the mystic Sun of life has completed its circle and reached the sign where the quickening took place. Then Scorpio gives the body its death-sting, Mars and his friend Saturn cut the silver cord, and the free soul soars as an eagle into the empyrean seeking the celestial spheres which are its true home. Therefore Scorpio is symbolized both by a scorpion and an eagle. 
 
 On account of his mission as aide to the Sun in the maintenance of life, Mars every aims to cleanse the body of filth and waste accumulation so that the fires of life may burn brightly, hence, when the gourmandizing habits of Jupiter and Venus have clogged the system, or the obstructive tendencies of Saturn have poisoned the body by stoppage of elimination, Mars lights the fire of fever and inflammation to burn out the refuse and give the system a new lease on life and energy. Thus many of the pathogenic effects of Mars aim at a constructive end. 
 
-[561] 
-
 But Mars not only aids the vital process of the life-giving Sun, who is exaltation ruler of Aries; he is himself exaltation ruler of Capricorn, where Saturn, the planet of death, holds sway, and between those two thieves the Sun, the Lord of Life, is crucified, suffers and dies, while they part his physical garment. The role of Saturn in this process has been described in the appropriate chapter, and of Mars it may be said that by his recklessness he predisposes to accidents by burning, scalding, wounds, or gunshot. He rules the genitals through Scorpio, and depletes the vitality and causes genital disorders by passional excesses, hemorrhage, rupture of blood vessels. Excessive menses and hemorrhoid show his activities in the blood; hernia and contagious diseases are also manifestations of the Martian ray. As Mars is a malefic, his presence in any sign or house constitutes an affliction in itself, regardless of his aspects, but naturally his pathogenic effects are worse when he is aspected by square or opposition than when he is fortified by sextile or trine. 
 
 His effects in the twelve signs may be more specifically stated as follows: 
-
-[562] 
 
 MARS IN ARIES gives a tendency to sunstroke, cerebral hemorrhages or congestion, inflammation of the brain, brain fever and delirium, shooting pains in the head, insomnia, and wounds in the head; by reflex action in Libra, inflammation of the kidneys, renal hemorrhage and renal calculi. 
 
@@ -3592,8 +3370,6 @@ MARS IN LEO gives a tendency to muscular rheumatism in the back, overheating of 
 
 MARS IN VIRGO gives a tendency to typhoid, inflammation of the bowels, peritonitis, worms, diarrhea, cholera, and ventral hernia, appendicitis. 
 
-[563] 
-
 MARS IN LIBRA gives a tendency to inflammation of the kidneys, excess of urine, hemorrhage of the kidneys, and renal stones; by reflex action in Aries, brain-fever, sunstroke, pains in the head. 
 
 MARS IN SCORPIO gives a tendency to excessive menses, scalding urine, gravel, sand, and renal stones, inflammation and ulceration of the ovaries and uterus, also of the vagina and urethra, varicocele, enlargement of the prostate gland, stricture and strangury, venereal ulcers and hemorrhoid; by reflex action in Taurus, inflamed tonsils or larynx and nosebleed. 
@@ -3606,16 +3382,13 @@ MARS IN AQUARIUS gives a tendency to varicose veins, fracture of the leg and blo
 
 MARS IN PISCES gives a tendency to deformities of the feet, or accidents to them, corns, bunions and perspiring feet; by reflex action in Virgo, ventral hernia, inflammation of the bowels and diarrhea. 
 
-[564] 
+#### <h4 id="pathogenic-effects-of-uranus">PATHOGENIC EFFECTS OF URANUS</h4>
 
-PATHOGENIC EFFECTS OF URANUS 
 Uranus rules the ether which is the medium by which the light rays are transmitted, hence he has considerable influence over the eyes and is responsible, when afflicting the Sun or Moon, for various diseases of the eyes, or even blindness. This is especially the case when the Sun or Moon is placed in the Pleiades (Taurus 29), or the Ascelli (Leo 6) or Antares (Sagittarius 8). 
 
 Modern astrologers have not yet had time to tabulate the full effects of Uranus in all the signs, and as for the pathogenic effects still less is known, but he is said to be exalted in Scorpio and our own experience seems to indicate that Uranus has a very marked evil influence on the sex which is ruled by this sign, producing most deep-seated venereal diseases. By reflex action or affliction to planets in Taurus (ruled by Venus) where the organ of coordinated action is located, he produces erratic movements, as seen in St. Vitus dance, contortions, spasms, tetanus, cramps, hiccough and hysteria. 
 
 As ruler of the ether and gases he is responsible for injury and shock by electricity which travels through the ether. Nitrogen, a gas, is the base of a number of compounds whose characteristic Uranian instability makes them highly explosive, and Uranus is thus responsible for such deaths and injuries as occur on that account, especially if placed in the Eighth House. 
-
-[565] 
 
 URANUS IN TAURUS gives a tendency to diminished pituitary secretion and consequent abnormal growth. 
 
@@ -3633,61 +3406,45 @@ URANUS IN SCORPIO gives a tendency to miscarriages, abortions, and venereal dise
 
 URANUS IN CAPRICORN usually works by reflex action in Cancer, but as the children with this position are still young (this is written in 1918) the full effects are as yet unknown. 
 
-[566] 
+#### <h4 id="pathogenic-effects-of-neptune">PATHOGENIC EFFECTS OF NEPTUNE</h4>
 
-PATHOGENIC EFFECTS OF NEPTUNE 
 Neptune, the octave of Mercury, works principally upon the nervous system (ruled by Mercury) and at times produces frenzy where the person is beside himself on account of religious or other excitement. At other times he produces lethargy, coma, catalepsy, trance or mediumship, where the bodily energies are in abeyance while the psychic powers are in a state of hyperactivity. He rules the spinal canal, which is filled with ether during life. (It is true that surgeons tap it and draw out a fluid, but they may also draw water from a steam boiler because the steam condenses to water.) This luminous gas is called the spinal Spirit Fire by occultists, and by vibrating the pineal gland, also ruled by Neptune, spiritual sight is produced, but it depends upon the rate and pitch of these vibrations what the person sees. By prayer, concentration and meditation, a state of ecstasy may be produced where he sees the celestial hosts, or if a lower rate of super-normal vibration is produced by drink or drugs he sees demoniac shapes as related by sufferers of delirium, which is due to Neptune, especially in the watery sign Pisces. The pathogenic influence of Neptune is most evil in the Sixth House (or the sixth sign, Virgo) indicating disease, or in the Twelfth House (or the twelfth sign, Pisces) which governs sorrow, trouble and self-undoing. If these two houses are occupied by Taurus and Scorpio, the signs ruling the throat and genitals, there is an abnormal and perverted passional desire which gives a tendency to self-abuse, and perversion of a still worse nature. The mind, ruled by Mercury, the lower octave of Neptune, is morbid in its brooding upon unsavory subjects, and parents with children having Neptune in the Sixth or Twelfth Houses will do well to watch them carefully, especially if Neptune is in opposition to Uranus; that covers a number of those who are now, in 1918, reaching puberty, for Neptune has been going through the psychic sign Cancer while Uranus was in the opposite sign Capricorn. 
 
 We have found that Neptune square Saturn and Jupiter brought mental disturbances; Neptune conjunction Mars in Aries, square Uranus and the Moon in Cancer caused temporary instability of a periodic nature; Neptune conjunction Moon square Uranus caused spirit control. We have also seen many other indications, but the full effects of Neptune have not yet been systematically observed. We are working to that end, however, and hope in future years to be able to present a fairly full tabulation. 
 
-[568] 
+#### <h4 id="the-ductless-glands-their-role-and-rulers">THE DUCTLESS GLANDS - THEIR ROLE AND RULERS</h4>
 
-THE DUCTLESS GLANDS
-
-THEIR ROLE AND RULERS 
 It is well known to the esoteric astrologer that the human body has an immense period of evolution behind it and that this splendid organism is the result of a slow process of gradual upbuilding which is still continuing and will make each generation better than the previous until in some far distant future it shall have reached a stage of completion of which we cannot even dream. It is also understood by the deeper students that in addition to the physical body man has finer vehicles which are not yet seen by the great majority of human beings, though all have within them latent a sixth sense whereby they will in time cognize these finer sheaths of the soul. The occultist speaks of these finer vehicles as the vital body, made of ether, and the desire body, made of desire stuff, the material whence we draw our feelings and emotions, and with the addition of the sheath of mind and the physical body these complete what may be termed the personality which is the evanescent part distinct from the immortal spirit that uses these vehicles for its expression. These finer vehicles interpenetrate the dense physical body as air permeates water and have particular dominion over certain parts thereof, because the physical body itself is a crystallization of these finer vehicles in the same manner and upon the same principle that the soft fluids of a snail's body gradually crystallize into the hard and flinty shell which it carries upon its back. For the purpose of this dissertation we may say broadly that the softer parts of our bodies which we commonly call flesh may be divided into two kinds, glands and muscles. The vital body was started in the Sun Period. Crystallization from that time on in that vehicle has developed what we now call glands and to this day they and the blood are the special manifestations of the vital body within the physical vehicle, and therefore the glands as a whole may be said to be under the rule of the life-giving Sun and the great benefic, Jupiter. For it is the function of the vital body to build and restore the tone of the muscles when tense and tired by the work imposed upon them by the restless desire body which was started in the Moon Period. The muscles are therefore ruled by the wandering Moon, which is the present vantage point of the angels, the humanity of the Moon Period, and by the impulsive and turbulent Mars, where the so-called "Fallen Angels," the Lucifer spirits, dwell; that is to say as a whole, for the student must carefully note that individual glands and particular groups of muscles are under the rulership of other planets as well. It is as when we say that all who live within the United States of America are citizens of that country, but some are subject to the laws of California, others to those of Maine. 
-
-[570] 
 
 We know the Hermetic axiom, "As above, so below," which is the master key to all mysteries, and as there are upon the earth, the macrocosm, a great many undiscovered places, so also in the microcosm of the body do we find unknown countries that are a closed book to the scientific explorers. Chief among them has been a small group of the so-called "ductless glands," seven in number, namely: 
 
-
-The PITUITARY BODY, ruled by Uranus. 
-The PINEAL GLAND, ruled by Neptune. 
-The THYROID GLAND, ruled by Mercury. 
-The THYMUS GLAND, ruled by Venus. 
-The SPLEEN, ruled by the Sun. 
-The two ADRENALS. ruled by Jupiter. 
+The PITUITARY BODY, ruled by Uranus.  
+The PINEAL GLAND, ruled by Neptune.  
+The THYROID GLAND, ruled by Mercury.  
+The THYMUS GLAND, ruled by Venus.  
+The SPLEEN, ruled by the Sun.  
+The two ADRENALS. ruled by Jupiter.  
 
 They have a great and particular interest for occultists, and they may be termed in a certain sense "the seven roses" upon the Cross of the body, for they are intimately connected with the occult development of humanity. Four of them, the Thymus Gland, the Spleen and the two Adrenals, are connected with the personality. The Pituitary Body and the Pineal Gland are particularly correlated with the spiritual side of our nature and the Thyroid Gland forms the link between. The astrological rule over these seven glands is as follows: 
 
-[571] 
-
 The Spleen is the entrance gate of the solar forces specialized by each human being and circulated through the body as the vital fluid, without which no being can live. This organ is therefore governed by the Sun. The two Adrenals are under the rulership of Jupiter, the great benefic, and exert a calming, quieting and soothing effect when the emotional activities of the Moon and Mars or Saturn have destroyed the poise. When the obstructive hand of Saturn has awakened the melancholy emotions and laid its restraint upon the heart, the Adrenals' secretions are carried by the blood to the heart and act as a powerful stimulant in its effort to keep up the circulation, while the Jovial optimism struggles against the Saturnine worries or against the impulse of Mars, which stirs the desire body into turbulent emotions of anger, rendering the muscles tense and trembling, dissipating the energy of the system; then the secretion of the Adrenals comes to the rescue, releasing the glycogen of the liver in a more abundant measure than usual to cope with the emergency until the equipoise has been again attained, and similarly during whatever other stress or strain. It was the knowledge of this occult fact that prompted the ancient astrologers to place the kidneys under the rulership of Libra, the Balance, and in order to avoid confusion of ideas we may say the kidneys themselves play an important part in the nutrition of the body, being under the rulership of Venus, the Lady of Libra, but Jupiter governs the Adrenals, with which we are now particularly engaged. 
 
-[572] 
-
 Both Venus and her higher octave, Uranus, govern the functions of nutrition and growth, but in different ways and for different purposes. Therefore Venus rules the Thymus Gland, which is the link between the parents and the child until the latter has reached puberty. This gland is located immediately behind the sternum or breast bone; it is largest in ante-natal life and through childhood while growth is excessive and rapid. During that time the vital body of the child does its most effective work, for the child is not then subject to the passions and emotions generated by the desire body after that comes to birth at or about the fourteenth year. But during the years of growth the child cannot manufacture the red blood corpuscles as does the adult, for the unborn, unorganized desire body does not then act as an avenue for the Martian forces which assimilate the iron from the food and transmute it into hemoglobin. To compensate for this lack there is stored in the Thymus Gland a spiritual essence drawn from the parents, who are symbolized by Venus, the ruler, and with this essence provided by the love of the parents the child is able to accomplish the alchemistry of blood temporarily until its desire body becomes dynamically active. Then the Thymus Gland atrophies and the child draws from its own desire body the necessary Martian force. From that time, under normal conditions, Uranus, the octave of Venus, and ruler of the Pituitary Body, takes charge of the function of growth and assimilation in the following manner: 
-
-[573] 
 
 It is well known that all things, our food included, radiate from themselves continuously small particles which given an index of the thing whence they emanate, its quality included. Thus when we lift the food to our mouth a number of these invisible particles enter the nose and by excitation of the olfactory tract convey to us a knowledge of whether the food we are about to take is suitable for this purpose or not, the sense of smell warning us to discard such foods as have a noxious odor, etc. But besides those particles which attract or repel us from food by their action upon the olfactory tract through the sense of smell, there are others which penetrate the Sphenoid bone, impinge upon the Pituitary Body and start the Uranian alchemistry by which a secretion is formed and injected into the blood. This furthers assimilation through the chemical ether, thus affecting the normal growth and well-being of the body through life. Sometimes this Uranian influence of the Pituitary Body is eccentric and therefore responsible for strange and abnormal growths which produce the unfortunate freaks of nature we occasionally meet. 
 
 But besides being responsible for the spiritual impulses which generate the before-mentioned physical manifestations of growth, Uranus, working through the Pituitary Body, is also responsible for the spiritual phases of growth which aid awakened man in his efforts to penetrate the veil into the Invisible Worlds. In this work it is, however, associated with Neptune, the ruler of the Pineal Gland, and it will therefore be necessary, in order to properly elucidate, that we study the functions of the Thyroid Gland, ruled by Mercury, and of the Pineal Gland, which is under the domination of his higher octave, Neptune, simultaneously. 
 
-[574] 
-
 That the Thyroid Gland is under the rule of Mercury, the planet of reason, is readily realized when we understand the effect which the degeneration of this gland has upon the mind, as shown in the diseases of Cretinism and Myxedema. The secretions of this gland are as necessary to the proper functioning of the mind as ether is to the transmission of electricity, that is to say, upon the physical plane of existence where the brain transmutes thought into action. Contact with and expression in the invisible worlds depends upon the functional ability of the Pineal Gland, which is altogether spiritual in function, and is therefore ruled by the octave of Mercury, Neptune, the planet of spirituality. But Neptune operates in conjunction with the Pituitary Body ruled by Uranus, the planet of wisdom, as has already been stated. 
 
 Scientists have wasted much time in speculation upon the nature and function of these two little bodies, the Pituitary Body and the Pineal Gland, but without avail, and principally because, as Mephistopheles says so sarcastically to the young man who wants to study science under Faust: 
 
-[575] 
-
-
+```
 "Who e'er would know and treat of aught alive 
 Seeks first the living spirit thence to drive; 
 Then are the lifeless fragments in his hand; 
 He lacks, alas! the vital spirit band." 
+```
 
 No one can really and truly observe the physiological functions of any organ under such conditions as exist in the laboratory, on the operating table, or in the dissection or vivisection chamber. To arrive at an adequate understanding one must necessarily see these organs exercising their physiological functions in the living body, and that can only be done by means of the spiritual sight. There are a number of organs which are either atrophying or developing; the former show the path we have already traveled during our past evolution, the latter are finger-posts, indicating our future development. But there is still another class of organs which are neither degenerating nor evolving; they are simply dormant at the present time. Physiologists believe that the Pituitary Body and the Pineal Gland are atrophying because they find these organs more developed in some of the lowest classes of life, such as worms, but as a matter of fact they are wrong in their ideas; these organs are only dormant. Some have also suspected that the Pineal Gland is in some way connected with the mind, because it contains certain crystals after death, and the quantity was much less in those who were mentally defective than in people of normal mentality. This conclusion is right, but the Seer knows that the spinal canal of the living is not filled with fluid; that the blood is not liquid, and that these organs have no crystals in them when the body is alive; these assertions are made with full knowledge of the fact that the blood and the spinal essence are liquid when drawn out of the physical body, living or dead, and the contents of the Pituitary Body and the Pineal Gland appear crystalline when the brain is dissected; but the reason is similar to that which causes steam drawn from a steam boiler to condense immediately upon contact with the atmosphere, and molten metal drawn from a smelter's furnace to crystallize immediately upon withdrawal therefrom. 
 
@@ -3695,23 +3452,18 @@ All these substances are purely spiritual essences when inside the body; they ar
 
 Since then the Pineal Gland and the Pituitary Body have become temporarily dormant to make man oblivious to the invisible world while he learns the lessons afforded by the material world; but the Pituitary Body has manifested the Uranian influence sporadically in abnormal physical growth, producing freaks and monstrosities of various kinds, while Neptune, working also abnormally through the Pineal Gland, has been responsible for the abnormal spiritual growth of medicine men, witches and mediums of spirit controls. When they are awakened to normal activities these two ductless glands will open the door to the inner worlds in a sane and safe manner, but in the meantime the Thyroid Gland, ruled by Mercury, the planet of reason, holds the secretion necessary to give the brain balance. 
 
-[578] 
-
 In the future the ductless glands are destined to play a prominent role; their development will accelerate evolution greatly, for their effects are mainly mental and spiritual. We are now nearing the Aquarian Age; the Sun is therefore beginning to transmit the highly intellectual vibrations of this sign which accounts for the intuitions, premonitions and telepathic transmission now so prevalent. In the final analysis these phenomena are due to the awakening of the Pituitary Body, ruled by Uranus, the lord of Aquarius, and every passing year will make them more manifest. 
 
-[579] 
+### <h3 id="chapter-30">CHAPTER XXX: THIRTY-SIX EXAMPLE HOROSCOPES</h3>
 
-CHAPTER XXX 
-THIRTY-SIX EXAMPLE HOROSCOPES 
 In order to further aid the student of the stellar science we present a number of horoscopes of people who have come to us for help in their trouble. We therefore know these cases to be authentic and trust that our delineation of their various ailments by means of astro-diagnosis may prove a true guide. 
 
 We have made an attempt at classification of these horoscopes, but as there are generally symptoms of several diseases in each horoscope it has been impossible to draw hard and fast lines in the grouping, and the student will therefore have to rely mainly on the headlines for indications of what the figure shows. 
 
 The first 22 horoscopes are found on pages 624-634 The last 14 figures are attached to their respective readings, pages 635-678 
 
-[580] 
+#### <h4 id="chapter">SEX AS A FACTOR IN DISEASE</h4>
 
-SEX AS A FACTOR IN DISEASE 
 It is our earnest conviction, that the less we dwell upon sex, the less we read about it and think about it, the purer we shall be mentally, and also less liable to danger of morbid habits, for these are often formed by overstudy of the sex question, and persons having a tendency in that direction should be discouraged in attempts to discuss the matter at all. In planning this chapter we had at one time thought it possible to escape mention of the subject, but more mature thought based upon much study of health and disease from the mystical standpoint has convinced us that we must go back to the allegorical Garden of Eden for the starting-point of pain and sorrow, as fully explained in our literature. The effects of continued transgression are with us today as a matter of actual fact, abuse of sex is in the most literal sense the primal source of sorrow, disease and degeneracy under which the world is groaning, and in a work of this nature it is obligatory to show the causes so that the remedy may be found and applied. Therefore we shall attempt to show the prenatal influences revealed by the horoscope as a warning to parents that marriage is a sacrament, and not a license to sex abuse, and that "the sins of the fathers are indeed visited upon the children." At the same time, of course, an innocent child is not born with the tendency to a certain disease, its former living has made it liable to a specific weakness, and for that reason it is drawn by the Law of Association to parents from whom it may obtain a body subject to that particular ailment. Thus parents are only instruments in fulfilling the self-made destiny of the child. If we thoroughly realize that fact, and can be persuaded to live pure and wholesome lives, so that we may draw to ourselves souls of a kindred virtuous nature, how much better for all the world. To drive this point home, the writers undertake to paint the loathsome picture of degeneracy, that the picture of purity may be the more attractive by contrast. 
 
 In this connection we present first figure No. 1, which is that of a boy, in 1912 about 16 years of age. The Fourth and Tenth Houses, the planets in them and their rulers show the parents. The parent who most influences the life is shown by the Tenth House configurations, and the Fourth House indicates the one lease concerned in the child's destiny. 
@@ -3720,25 +3472,19 @@ In this figure Gemini is on the Midheaven, and Mercury, its ruler, is square the
 
 The mother's part is described by Sagittarius on the Fourth House. Jupiter, the ruler is in Leo in conjunction with the Dragon's Tail, (the Moon's Western Node), which has an influence similar to Saturn. It is also square to Saturn and Uranus, these being in conjunction in Scorpio. This describes her as being a lewd woman; degenerate, committed to the dreadful theory of soul-mates, affinities, free love and all kindred abuses. 
 
-[582] 
-
 These lewd tendencies she imparted to the boy. The affliction to Leo affects the heart, and as Saturn is the embodiment of obstruction, restraint and suppression, we may know that the heart action is very weak, (had the affliction come from Mars his dynamic energy would have caused palpitation). Scorpio has rule over the sex organ, Uranus and Saturn there give tendency to self-abuse, and on the well known principle that mutilation of that organ affects the voice, we have in this configuration an added reason for the poor boy's inability to speak. The affliction coming from fixed signs shows the deep rooted constitutional nature of the evil, and what may come of conception during a drunken debauch. 
 
-THE GUARDIAN OF THE THRESHOLD 
-Horoscope No. 2 shows one of the most remarkable psychic conditions we have ever come across. Its portents in some respects are plain to any astrologer, but investigation by one of the writers into this person's past life adds sidelights and gives depth to the meaning of configurations not otherwise obtainable; also to the writer, who made the spiritual investigation two years before the horoscope was cast, it was a revelation to note how the mystic facts he remembered so well, were inscribed in this little wheel of life. To enable the student to properly appreciate the remarkable case we relate the story of how we came into connection with the person, what we attempted to do, and what actually happened. 
+#### <h4 id="the-guardian-of-the-threshold">THE GUARDIAN OF THE THRESHOLD</h4>
 
-[583] 
+Horoscope No. 2 shows one of the most remarkable psychic conditions we have ever come across. Its portents in some respects are plain to any astrologer, but investigation by one of the writers into this person's past life adds sidelights and gives depth to the meaning of configurations not otherwise obtainable; also to the writer, who made the spiritual investigation two years before the horoscope was cast, it was a revelation to note how the mystic facts he remembered so well, were inscribed in this little wheel of life. To enable the student to properly appreciate the remarkable case we relate the story of how we came into connection with the person, what we attempted to do, and what actually happened. 
 
 In the fall of 1910, a friend told us the sad case of a young boy confined to his bed, lying upon his stomach and elbows, persistently gazing at a certain spot in a corner of the room, as if fascinated, his whole frame continually shaking with sobs and moans. At request of the friend we visited the unfortunate boy, and found that the object which drew his gaze, with a power similar to that whereby the snake charms a bird into its fangs, was an elemental of the most horrible type we have ever seen. Standing by the bedside we directed a stream of force towards the base of the poor victim's brain, and thus drew him towards us in an endeavor to break the spell, but the fiend held the consciousness charmed to such a degree that there was evident danger of rupture of body and soul. We therefore desisted, and, with the fearlessness born of inexperience, decided to fight the elemental upon his own plane of being. But the Elder Brother who is our Mentor sought us that evening; he advised caution, and investigation of the genesis of the monster before we took action. 
 
 Research of the memory of nature developed the fact that in its last life the spirit embodied in the youth had been an initiate of the Order of Jesus, a Jesuit, and a zealot of the most ardent type, cruel and unfeeling in the highest degree, yet perfectly impersonal, with no other aim in life save to further the interests of his Holy Order. The health, wealth, reputation or life of others he sacrificed without qualm of conscience, so that the order was benefited; he would have offered himself up as freely, for he was sincere to the core. Love was as foreign to his nature as hate, but sex was rampant; it tore his strong soul to shreds, yet it never mastered him; he was too proud to show his passion even to one who could have gratified it, and so he developed the secret habit. It must not be supposed that he became an abject slave in that respect; he, the immortal spirit, fought his lower nature by prayer, castigations, fastings and every other conceivable means; sometimes he thought he had conquered, but when he least expected it the beast in him rallied, and the war waged as fiercely as ever. Many times he was tempted to mutilate himself, but he scorned such a course as unworthy a man, especially when that man had taken the vows of priesthood. At last he succumbed to the strain; vigorous manhood was succeeded by a middle age of delicate health, constant pain increased his mental anguish and sympathy was born of suffering; he was no longer indifferent to the tortures of victims of the Holy Office. Being by nature a zealot and enthusiast in whatever direction his energies were exerted, the pendulum soon swung to the other extreme, Paul-like, he fought to protect whom he had previously persecuted, he incurred the enmity of the Holy Office, and finally, broken in body, but dauntless of spirit he fell a victim to the torture to which he had subjected so many. 
 
-[585] 
-
 By the sincerity of his nature, and his later life he earned the right of admission to a Mystery School and prepared for the privilege of working as an Invisible Helper in future lives. The Law of Association drew him to birth in an American family who were former friends, and from them he received a nervous organization tuned to the high pitch required for his experience. 
 
-Saturn opposes the life-giving Sun, suppresses the nervous energy of Mercury, and obstructs the Venus (venous) circulation, by hindering secretion of urine and elimination of poisonous matter through the kidneys which are ruled by Libra, the sign of Saturn's exaltation where he is placed in this natal figure. As the planets which he opposes are placed in Aries, ruler of the head, his disordering influence manifests through the brain and mind, as well as the genito-urinary system. The morbid condition of these parts caused by Saturn's repressive influence on the kidneys is further accentuated by Uranus conjunction the Moon in the Sixth House which indicates the health, under the sign ruling the generative organs, Scorpio. As the horoscope shows tendencies resulting from our actions in past lives, it is evident that the self-abuse of this person must bring him to birth under a stellar ray affecting the health in that particular manner, for when the soul has been overcome by any particular besetting sin in any life, death does not pay all any more than removal to another city pays our debts in our present abode. When we return, temptation will again confront us until we conquer our weakness. It is the task of this poor soul to extract the essence of virtue and chastity from the burning embers of passion and secret vice. May God help him and strengthen his arm in the terrible combat. Only Astrology, the Master Key of Compassion, can adequately reveal to us the struggle and anguish of the soul, and save us from the crime of despising 
-one in conditions of depravity. 
+Saturn opposes the life-giving Sun, suppresses the nervous energy of Mercury, and obstructs the Venus (venous) circulation, by hindering secretion of urine and elimination of poisonous matter through the kidneys which are ruled by Libra, the sign of Saturn's exaltation where he is placed in this natal figure. As the planets which he opposes are placed in Aries, ruler of the head, his disordering influence manifests through the brain and mind, as well as the genito-urinary system. The morbid condition of these parts caused by Saturn's repressive influence on the kidneys is further accentuated by Uranus conjunction the Moon in the Sixth House which indicates the health, under the sign ruling the generative organs, Scorpio. As the horoscope shows tendencies resulting from our actions in past lives, it is evident that the self-abuse of this person must bring him to birth under a stellar ray affecting the health in that particular manner, for when the soul has been overcome by any particular besetting sin in any life, death does not pay all any more than removal to another city pays our debts in our present abode. When we return, temptation will again confront us until we conquer our weakness. It is the task of this poor soul to extract the essence of virtue and chastity from the burning embers of passion and secret vice. May God help him and strengthen his arm in the terrible combat. Only Astrology, the Master Key of Compassion, can adequately reveal to us the struggle and anguish of the soul, and save us from the crime of despising one in conditions of depravity. 
 
 The before-mentioned aspects were from Cardinal and Fixed signs, which indicate that which is almost unalterable destiny. But Neptune near the Ascendant, in a Common sign, Gemini, points to a condition in the making. He is trine to Saturn, the afflicter of the mind, and supported by the dynamic energy of Mars. 
 
@@ -3746,19 +3492,17 @@ Neptune indicates the invisible spiritual hierarchies which work with and upon u
 
 There being so many good aspects to help him, it is not likely that he will succumb, and when the Sun reaches conjunction of Jupiter's place in the natal figure and the Moon has passed the square to the Sun's natal place, a distinct turn for the better may be looked for. In the meanwhile the poor soul must struggle alone with its self-made demon. Had not the secret habit sapped vitality in the former life, birth under a stronger sign would have given greater power of physical endurance and rendered victory more certain. 
 
-[588] 
+#### <h4 id="disease-of-the-eyes">DISEASE OF THE EYES</h4>
 
-DISEASE OF THE EYES 
 This malady is due to rays from certain nebulous parts of the Zodiac; the Pleiades in Taurus 29, the Ascelli in Leo 6, and Antares in Sagittarius 8. When the Sun or Moon is in orb of one of these places, and afflicted by Saturn, Mars or Uranus, or vice versa, when Saturn, Uranus or Mars is in these nebulous parts afflicting the Sun or Moon, trouble is indicated, but if care is taken in the case of children having this tendency to disease it may be greatly modified or entirely avoided. The light in schoolrooms calls for attention on general principles, but where a child has incipient eye trouble the parent ought to request proper placement of the child in a modified light; reading by lamplight or in the dusk should not be permitted, and window shades in the home ought to be of a soothing color. With civilization and life in cities the eyes have become habituated to short focus and cannot quickly adjust themselves to variation of range as can those of sailors and plainsmen. When a child's horoscope indicates weak eyes, residence in a rural district, if possible, may be of immense value in preserving the vision, for exercise of the eye muscles by frequent adjustment of focus from short to long range, and vice versa, will materially aid to strengthen the eyes. It is a fact, that much eye strain is due to congestion of the ciliary muscle, which adjusts the lens to range of objects, and of the muscle which contracts the iris. Each time the latter fails to act quickly too much light enters the retina is hurt. Life in the open while the child's muscles are still limber will do wonders towards correcting such defects, and even grown persons may derive vast benefit from outdoor life provided the eyes are properly shaded at first. Careful osteopathic treatment of the eyes has also a most beneficial effect of stimulating circulation and limbering the muscles. 
 
-SUBTILE INDICATIONS OF SPIRITUAL SIGHT 
+#### <h4 id="subtile-indications-of-spiritual-sight">SUBTILE INDICATIONS OF SPIRITUAL SIGHT</h4>
+
 It is a well know scientific fact, that sensation depends on ability to feel and interpret vibration in air and ether, according to the sense involved. Ancient seers devised the Staff of Mercury as a symbol of its effects, and among other spiritual secrets embodied in the undulating forms of the twin serpents, is also this, that Mercury is the originator of all vibratory movement. Hence he is a prime factor in production of sensation and mental processes arising in the consciousness as a result. An elevated, well aspected Mercury therefore makes our senses acute and the mind keen; and afflicted Mercury either dulls the senses, or makes the person hypersensitive; in either case an abnormal state of the brain mind is produced which causes suffering according to house, sign and affliction; even a good aspect of a so-called evil planet, though it brings out the virtue of that planet, also carries with it a touch of the darker side because even the best of us have something in our inner natures which vibrates to that phase of the planet's nature. 
 
 But, besides this roundabout way of acquiring knowledge through vibrations in the air and ether inaugurated by Mercury and interpreted by slow processes in the brain mind where spirit and matter meet, there is a direct path to knowledge symbolized by the staff around which the serpents twine. This is the ray of Neptune, the octave of Mercury, which puts us in touch with the spiritual worlds. But, observe this, the staff and the serpents are not separate, the staff goes through the winding forms of the serpents, and thus we learn that in our present condition spiritual knowledge is dependent on the brain mind for concrete expression, and through the brain mind the latter is colored according to the aspects of Neptune. 
 
 Experience has proved that the afflicted stellar ray from certain parts of the Zodiac already mentioned, interferes with the etheric vibration sensed by the retina of the eye, and thus impairs the physical sight. If, in the same figure, Neptune is focused through one of these places, the so-called "blind spot," which is blind because unresponsive to the etheric mercurial vibrations is sensitized by the spiritual ray of Neptune, and thus it may be that a person physically near sighted, or even blind, may view the spiritual worlds hidden from people whose sight is focused by mercurial vibrations. The aspect of Neptune determines the grade and nature of the spiritual sight evolved, as illustrated in various horoscopes herewith. These were picked to demonstrate other points, but it occurred to us that the phase just mentioned is worthy of notice. It may be well, however, to warn students against absurd conclusions; we do not say that everyone afflicted with eye trouble by Antares, Ascelli or the Pleiades is gifted in return with spiritual sight. The woman in horoscope No. 5 is much afflicted physically, but Neptune is out of orb, and she derives no vision from his ray. Spiritual vision may also be undeveloped in many who have the aspect well defined, but in those cases it is in process of unfoldment, and will yield EASILY to proper exercises. Where this aspect is a square or opposition it is wise, however, to refrain from any attempt to seek illumination, for in those aspects lurk great danger from spirit controls, elementals, etc., which is amply illustrated in horoscope No. 2, where the opposition of Neptune to Antares is responsible for the awful vision of the Guardian of the Threshold. There the physical sight is not impaired, but in horoscope No. 3, defective eyesight is shown by affliction from the Ascelli and like trouble comes from Antares in No. 4. In one the trine from Neptune produces voluntary vision of the super-physical realms, but in the other his focus is square, hence the spiritual sight obtained is intermittent and not under control. 
-
-[592] 
 
 We have spoken of Mercury as originator of all sense vibrations, auditory, olfactory, visual, etc., and of Neptune as its octave; to forestall questions we may say that in the spiritual world separateness ceases, sensations merge, so that sound and sight, voice and vision are one. The Neptune ray carries both, but undeveloped seers suffering from the involuntary faculty, "see" or "hear" as it suits the entities which obtain admission to them through this ray. 
 
@@ -3768,10 +3512,9 @@ In horoscope No. 5 we see the Moon in the Sixth House, about three degrees from 
 
 Horoscope No. 4 is the most afflicted of all; the Dragon's Tail, the Sun and Antares are in conjunction. That alone is sufficiently severe; the condition is further aggravated, however, by a close square of Neptune and Mars to the Sun, and the affliction to the eyes is increased by a conjunction of Saturn with the Pleiades which occurs in the Twelfth House. Thus this horoscope shows the person when born to have very weak eyes, and as a matter of fact she can scarcely read even when holding book or paper a few inches from the eyes and using a magnifying glass; but the square of Neptune to Antares has opened her spiritual senses to a certain extent so that she hears spirit voices and at times has visions. These manifestations, being uncontrolled by her, are very unsatisfactory of course, but prove the effect of Neptune aspecting these points in the Zodiac. 
 
-THE DRAGON'S "HEAD" AND "TAIL" 
-As it has often been a sore puzzle to students what are the "Dragon's Head" and "Tail" (called the Moon's nodes in the ephemeris), and why one is supposed to be good and to further all that comes under its benefic ray, while the other is considered extremely evil, it may be well to show the reasonableness of the philosophy. 
+#### <h4 id="the-dragons-head-and-tail">THE DRAGON'S "HEAD" AND "TAIL"</h4>
 
-[595] 
+As it has often been a sore puzzle to students what are the "Dragon's Head" and "Tail" (called the Moon's nodes in the ephemeris), and why one is supposed to be good and to further all that comes under its benefic ray, while the other is considered extremely evil, it may be well to show the reasonableness of the philosophy. 
 
 First, let us say for the information of students not versed in astronomical terms, that "nodes" are points where a planet, traveling in its orbit, crosses the Sun's path; as for instance, the earth does at the equinoxes. This is explained from both the astronomical and mystic sides in our Simplified Scientific Astrology, and also the revolution of the Moon's Nodes. 
 
@@ -3780,8 +3523,6 @@ Speaking from the convenient geocentric viewpoint, the Sun crosses its eastern n
 The Moon rises about 50 minutes later each night; applying the same measure, 50 minutes of time correspond to about 3 minutes of space, and the Moon's nodes recede just that much every day. 
 
 Thus the Sun travels around the circle of the Zodiac in one year, but requires 27 times as many thousands (27,000 years), to complete the precessional circle of its nodes, the equinoctial points. the swift moving Moon circles the Zodiac in 27 days and its nodes make a full revolution in 1000 weeks or 19 years. (These figures are only approximate.) 
-
-[596] 
 
 In the case of the Sun the place where it crosses the earth's equator in the east is always regarded as the first point of Aries, no matter where in the constellations it falls because of precession. This procedure is perfectly justified because the life-giving qualities ascribed to the Sun in Aries are observable as soon as it has crossed the equator; then the seeds sprout, the mating season commences and the whole creation seems stirred by the solar ray to bring forth. Therefore astrologers say that the Sun is exalted in Aries, and Aries is understood to be the first 30 degrees from the equinoctial point, the eastern node of the Sun, where he crosses the equator at the vernal equinox. 
 
@@ -3793,14 +3534,10 @@ Horoscope No. 6 shows its part in breaking the femur (thigh bone) of a woman. It
 
 The Moon's nodes are tabulated in our Simplified Scientific Ephemeris, the position being given for every day; their places at birth are found by simple proportion, and the diagram herewith will explain that these points are called the "Dragon's Head" and the "Dragon's Tail" because the paths of Sun and planets appear serpentine when drawn upon a plane surface.
 
-[598] 
-
 (DIAGRAM: THE SERPENTINE PATH OF SUN, MOON, AND PLANETS) 
- 
 
-[599] 
+#### <h4 id="disease-of-the-ears">DISEASE OF THE EARS</h4>
 
-DISEASE OF THE EARS 
 The Twelfth House indicates the confining influences in life. Mercury there in conjunction with the Sun limits the spirit, and deafness hampers its search after knowledge. The same happens if Saturn, Mars, Uranus or Neptune afflict, also when the mercurial signs, Gemini or Virgo, are on the twelfth cusp and Mercury is afflicted, (no matter where in the figure it is placed). We append horoscopes of people who are suffering from this malady; No. 7 is the horoscope of a woman who is gradually losing here hearing. Mercury, Venus and the Sun are in close conjunction in Pisces, the twelfth sign, which is in the Twelfth House. Blood, lymph and the invisible vital fluid, called "nerve force" by science, are the builders of our bodies; each planet, except Uranus and Neptune, has dominion over one of their constituent parts. 
 
 MERCURY rules the nerves, particularly the cerebrospinal system, and the invisible rose colored vital fluid which flows in the visible nerve sheath. 
@@ -3808,8 +3545,6 @@ MERCURY rules the nerves, particularly the cerebrospinal system, and the invisib
 THE MOON also rules the nerves in a general way, but has special dominion over the nerve sheaths of the body, the sympathetic system and the lymph. 
 
 JUPITER governs the arterial circulation. 
-
-[600] 
 
 VENUS rules the venous blood. 
 
@@ -3823,20 +3558,15 @@ When a planet is in very close conjunction to the Sun, three degrees or less, it
 
 Horoscope No. 7 has both Venus and Mercury combust in the Twelfth House; we may therefore conclude that there is a lack of nerve force or vital fluid, and that the venous circulation of the ear is obstructed. Thus congestion is inevitable, and the hearing becomes less and less acute. Osteopathy is excellently equipped to deal successfully with a case like this; were the configuration in a fixed sign we might not feel optimistic, but flexibility is the salient characteristic of the common signs, so we see no reason why with patience and perseverance a cure may not be consummated. 
 
-[601] 
-
 As said, Saturn rules the earthly mineral matter carried by our blood; from this the bony structure is formed, also concretions in the softer tissues. Therefore the skeleton is also under the dominion of Saturn. 
 
 In horoscope No. 8, the auditory disability comes through the fixed signs Leo and Scorpio; this makes it more difficult to remedy, particularly as Saturn is the afflicter and throws his malefic ray upon Mercury from an angle. Science thought at one time that the tympanum was the only, or at least the main factor in hearing, but realizes now that as much or more depends upon the bony structure. It is the nature of Saturn to obstruct and as Scorpio rules the organs of excretion, we may easily see that this important function is impaired, and that waste products have difficulty in passing kidneys and colon. The whole system becomes clogged in consequence, and as Mercury in the Twelfth House marks the ears as weak, it is only natural that the auditory nerve becomes clogged and the bony parts of the ear grow denser in the course of time. 
 
 Sour milk or buttermilk has a particularly wholesome influence in clearing up a clogged system. Many people rebel against the use of milk in quantity because of an idea that it aggravates constipation: that is true in the beginning, but after a short time the system will accommodate itself to the diet, which will be then found superlatively cleansing, wholesome and nutritious. Greens and fruits will also aid a person afflicted as in horoscope No. 8 to eliminate the waste and effect a cure in time. 
 
-[602] 
+#### <h4 id="disease-of-the-vocal-organs">DISEASE OF THE VOCAL ORGANS</h4>
 
-DISEASE OF THE VOCAL ORGANS 
 Among the subjects germane to thorough knowledge of Astrology are the similar effects of intrinsically opposite factors; Saturn is called evil, and Jupiter good, but when Saturn is well fortified in a horoscope it has an exceedingly desirable effect, and an afflicted Jupiter is the very reverse of beneficial. Thus there is a good side to each so-called "evil" plant, and every "good" planet has also an undesirable phase. The signs of the Zodiac are said to rule certain parts of the body, but each sign has also subsidiary dominion over the part ruled by its opposite sign; affliction of Gemini may cause bronchitis, or weaken the arms and shoulders, but sciatica, a Sagittarius disease, may also result. Taurus rules the throat; it has great sympathy with Scorpio, the sign that rules the generative organs, hence we note the change of voice in boys at the time of puberty; also woman, when she forsakes the path of chastity and lives a life of debauch acquires a coarser voice. Taurus rules the larynx, but Mercury governs the air which stirs the vocal chords to vibration; thus organic affliction is indicated by affliction of Taurus and Scorpio, but functional disability by the position and aspect of Mercury. There is a similar relation between Taurus (ruling the vocal organs) and Mercury (ruling the air which passes through the larynx) as between instrument and player. 
-
-[603] 
 
 If Taurus (and Scorpio) are unafflicted the vocal organ is in good condition, but an afflicted Mercury may nevertheless cause a functional disorder of the speech. The reverse may also happen, namely, that a well fortified Mercury partially overrides the effect of a Taurus affliction. This is well exemplified in horoscope No. 9; Saturn, Neptune and the Sun conjoined in Taurus cause a throat affection, but Mercury is in a sign of voice, Gemini, (Libra and Aquarius are the other signs of voice) and in conjunction with Jupiter. The woman suffers constantly from throat trouble, but as a good musician draws melody from a dilapidated instrument, so, by the aid of her well placed Mercury, this woman is able to express herself better than many whose vocal organs are sound; in fact, she teaches elocution. 
 
@@ -3844,24 +3574,17 @@ Horoscope No. 3 has a singularly well fortified Mercury; there is no affliction 
 
 It follows as a matter of course that disabilities of speech are more easily remedied that those that are organic; patience, practice of vocal and breathing exercises such as teachers of voice culture give, (these are entirely different from the dangerous Hindu breathing exercises) are almost sure to restore normal conditions. 
 
-[604] 
-
 Horoscopes Nos. 9, 10, and 11 have Saturn and Neptune conjoined in Taurus; as a consequence all have throat trouble, and also a disorder of the genital organs. Nos. 10 and 11 have both undergone operations for removal of certain parts, and Mercury in Scorpio centers the thoughts of No. 10 upon sex, causing intense torture, as it is impossible to gratify the craving. Saturn in a fixed sign is certainly a sore afflicter, the reaper of fruits from a past life, and if there is to be any solace it must come through knowledge of the cause, prayer, and the patience engendered thereby. 
 
-DISORDERS OF THE MIND 
+#### <h4 id="disorders-of-the-mind">DISORDERS OF THE MIND</h4>
+
 Before closing discussion of maladies peculiar to the head, mention must be made of insanity, though the underlying causes can only be hinted at in a work of this kind; but the student is referred to The Rosicrucian Cosmo-Conception for a thorough explanation, and a key to the astrological correspondences. Here we only give the essential facts. 
 
 The brain and larynx were first built by the angelic host from the Moon (Luna), who used part of the sex force for that purpose, hence the intimate connection between these organs. "Lunacy" is often induced by misuse of the sex force, and "lunatics" frequently have a flaw in the speech. When boys reach puberty the voice changes; the speech of a fast woman becomes coarse, and degenerate men acquire effeminate voices. In Italy singers anxious to cultivate high tenor voices have become eunuchs to achieve their purpose. 
 
-[605] 
-
 Into the system thus built by the lunar host under Jehovah, rebel Angels led by Lucifer, the Spirit of Mars, insinuated themselves, and inculcated passion, sex abuse and rebellion against the rulership of the Angels of Jehovah. To offset their influence our Elder Brothers from Mercury were commissioned to foster reason that many may in time learn to guide himself. All the great Hierarchies work in our bodies constantly, but the three mentioned have particular dominion over sex and sense; each invests one of the three segments of the spinal cord. The sublimely spiritual hierarchy of Neptune works in the spinal canal and cerebral ventricles to awaken spiritual senses, which when evolved, enable the imprisoned spirit to pierce the veil of flesh and contact super-physical realms. The Lucifer Spirits dominate the left cerebral hemisphere, which now is our principal organ of thought. The Mercurians have domain over the right hemisphere, which will come into activity in the future and elevate mankind to a higher, nobler plane of life, give us the power over the lower nature and make us Christlike. The lunar Angels hold sway in the cerebellum which is the instrument of coordination. In this veritable "Tree of Knowledge" the fight is fought between forces which make for emancipation of man and agencies which aim to keep him dependent, as explained in Rosicrucian Christianity Lectures, Lecture No. 14, "Lucifer, Tempter or Benefactor?" 
 
-[606] 
-
 Such are the teachings which explain the deep reason back of astrological dicta, and any qualified seer may easily perceive the various agencies at work in the human body; such are few, however, and the student of Astrology has reason to thank God day by day for the blessed science which is of greater benefit than any measure of spiritual sight. Though the writers are firm believers in the law of compensation which gives to each exactly what he has earned, neither more nor less, we cannot free ourselves from the feeling that our measure of spiritual faculties has been heaped and shaken down. We feel very, very grateful for the privilege and added usefulness in service which this gives us. Nevertheless, were the alternatives placed before us involving choice between loss of spiritual faculties and loss of our knowledge of Astrology, we should not hesitate one moment, but decide at once in favor of our beloved science, neither ought this surprise anyone who will give the matter a moment's thought. It is true that spiritual sight, even in its rudimentary form enables us to see the condition of the human body to the minutest detail, and thus affords a much easier means of diagnosis than Astrology, but though it penetrates to the innermost core of the bone, mere clairvoyance is superficial compared to Astrology for it shows only present conditions of the body. To find the causes which led up to that state and judge of future tendencies, it is necessary to consult the memory of nature. We should have to do that personally, and this, time would not permit, as were are handling hundreds of cases, but a simple astrological figure, which we may commission one of our students to case, reveals as much at a glance. There are delineated the causes of mental, moral and physical disorders; it shows accurately the stages that have been passed and the crises yet to come. It also indicates the direction from which a remedy may be looked for and the most favorable time for administering the same. It helps people Here and Now, and the astrologer who lives up to his privilege has a mission so high and so holy that the office of priest (in the esoteric sense) pales into insignificance by comparison. Let the aspirant to this great knowledge remember that he stands upon holier ground that Moses before the burning bush, when he looks at a horoscope. Through that circle symbol of infinity an immortal soul is laid bare, and woe to him who dares to look with profane gaze, for no matter how that soul may have been smirched in its pilgrimage through matter, it is essentially divine and dear the Father, yea, perhaps even more precious, than the righteous who does not need mercy and compassion. This has been somewhat of a digression, but we have no apologies to offer, for we preach Astrology as a religion and feel the necessity of emphasizing this phase in season and out, if by any means we may inculcate in others the reverence which we ourselves feel for this divine science. 
-
-[608] 
 
 Returning to the astrological consideration of insanity, and in view of what has been said we may note that the horoscope shows how, in the spinal canal, rays of the various hierarchies blend, and Astrology tabulates the resultant mental conditions as follows: 
 
@@ -3869,21 +3592,15 @@ People not congenitally affected, who have cardinal signs rising, particularly i
 
 When a Fixed sign rises at birth of a normal child, chances of insanity in later life are so exceedingly remote as to be almost negligible, especially if a Fixed or Cardinal sign is also on the Midheaven. 
 
-[609] 
-
 In our extended practice, we know of no exception; the rigid, set and inflexible nature of the Fixed signs seems to protect the mind under all exigencies of stress. 
 
 It therefore follows that the mentally unbalanced come principally from those born with Common signs on the angles. The intrinsic nature of these signs if flexibility; as a reed in the wind people under these signs are swayed hither and thither by circumstances; they have no stamina or stability, and take reverses much to heart, while they last. Sorrow seems to overwhelm them and balance is easily lost. 
 
 It is a distinctive feature of the Rosicrucian teachings that pupils in the Western world must be given every dictum, so as to forestall criticism as much as possible, for it retards development every time it is indulged. The Rosicrucian teachings therefore aim to forestall questions at every point by giving reasons for every dictum, so that the critical mind may be weaned away from this attitude. We are ardently looking for the day and reign of Christ, the Friend of man; we do not know when He will come, no man knows, but Paul said that when He comes we shall be like Him. Adverse criticism and skepticism were not traits of His character and any things that will aid to eradicate these undesirable characteristics hastens the glad day of universal friendship. 
 
-[610] 
-
 The reason has been given in Simplified Science Astrology why the Ascendant rules the body as a whole; it (or its opposite) is the place of the Moon at conception. In the Bible angels are mentioned as heralds of birth and their lunar home is the focus whence the spirits enter our terrestrial sphere on their return to physical life. They fashion the etheric mould for our present instrument, and direct the growth of the fetus. Therefore the Ascendant and the Moon show the organic disabilities which lead to mental disorder. The congenital idiocy resulting from lack of proper adjustment between the vital body and the physical vehicle has been thoroughly described in the Rosicrucian Cosmo-Conception, together with causes producing the same during prenatal life. Astrologically this condition is produced by an affliction of the Ascendant, that is to say, the Moon's place at conception, which throws the angle of the stellar ray out of parallax to the mother's body and the physical vehicle is built in such a manner that the head of the vital body is several inches above the skull. Thus the nerve centers are askew, preventing the ego from properly controlling its instrument. This is one of the configuration which produce idiocy and St. Vitus' dance. Uranus and Neptune are especially concerned in producing this latter phenomenon. 
 
 Saturn is the cause of melancholy and depression. Mars and Uranus produce the muscular and violent forms of insanity. Horoscopes 13 and 14 illustrate these peculiarities. No. 13 also shows the connection between puberty and the mental state. Gemini is rising, with Taurus and Mars intercepted in the Six and Twelfth Houses, from whence come disease and confinement. The Moon is in Taurus, which rules the larynx; she is in conjunction with Neptune, square to Mercury, and Mars is in Scorpio, which rules the generative organs. There we have at once the tendencies to a disease, which further accentuated by the fact that Neptune in Taurus squares the Sun in Leo, and Leo has rule over the heart, and is the prime factor in circulation upon which the life of the body depends; thus the threatened illness may be set down to trouble with the blood, produced by a nervous affection. Puberty occurs at the time when the Moon is in the opposite quarter from its place at birth. She entered Scorpio, the opposite of Taurus which held her at birth, at the time when the child was nearly twelve years of age. Up to that time the little girl had been bright, but the conjunction with Mars in Scorpio precipitated the period and robbed the growing child of vitality sorely needed at that time. The initial periods were few, but left her depleted of strength to withstand the square to Mercury and the opposition of the Moon to its radical place. (The radical place of a planet is its position at birth.) This affliction of Mercury, the ruler, by Moon at birth, was thus excited and insanity showed itself in consequence. As the affliction comes from fixed signs, we may judge it will be impossible to overcome, and the best that can be done for the poor soul is to pray for the day of its release, that it may have a better chance in a future embodiment. 
-
-[612] 
 
 No. 14 is the horoscope of a young man. The common sign, Gemini, is rising, the ruler, Mercury, is in the Eighth House, the house of death, and Uranus and the Moon are in opposition to Mercury. This configuration, is similar to that of No. 12, and has the same significance, namely, suicidal tendencies under nervous strain, and this augur is all the more dangerous as it comes from fixed signs. Mars and Neptune in Taurus give a desire for drink and the Sun in a watery sign accentuates this tendency. Under such circumstances the man has several times tried to end his life in a most extraordinary manner. Jupiter and Sagittarius, square to Saturn in Pisces, increases the looseness of his morals and makes him dishonest. He will forge and steal in order to satisfy his passion and craving for drink and questionable society. Leo on the Second House with Uranus and the Moon in close conjunction, shows that he spends what he gets in dissolute living. 
 
@@ -3891,9 +3608,8 @@ There is one redeeming feature in the horoscope: Venus in the Midheaven sextile 
 
 In conclusion the student's attention is directed to the Third and Ninth Houses, which will also have an influence on the mind. Planets therein act according to the intrinsic nature expressed in the key word of each. 
 
-[613] 
+#### <h4 id="pulmonary-diseases">PULMONARY DISEASES</h4>
 
-PULMONARY DISEASES 
 Horoscope No. 15 is the chart of a woman who, among other things, was afflicted with pulmonary trouble. 
 
 Virgo is rising and Mercury, the ruler, is trine at birth, but unfortunately he is combust, a term which has been previously explained as the meaning that the heat of the Sun burns up the ray of any planet placed too close thereto. The disease was not congenital however, although the Moon was square to the Ascendant. But Virgo people, we have seen, are extremely fond of being sick. When once they have had a little pain, they magnify and nurse it and are loath to let it go. The square of Neptune in Aries to Uranus caused St. Vitus' dance at about the age of four years when the Moon reached the conjunction of Saturn (which is 21:15 Capricorn) and the opposition to Uranus. This was the beginning of her illness. She afterwards regarded herself as an invalid and nursed sickness. Saturn in opposition to Jupiter added to the trouble by restricting the arterial circulation. At the time of puberty the Moon was in Gemini in opposition to its place at birth. This excited the above mentioned square between the radical Moon and the Ascendant; it also caused the periods to be irregular and troublesome. The blood must have an outlet and the square of Neptune to Jupiter in Cancer, which rules the stomach, causes hemorrhages when the Moon came into conjunction with the Dragon's Tail in Sagittarius (the opposite sign to Gemini), and the radical square of the Ascendant and the Moon were again excited. Then also the lungs became affected. In April, 1909, the progressed Moon squared the natal positions of Saturn, Jupiter, and Uranus. This inimical force from the house of death, the Eighth, ended the life. 
@@ -3902,15 +3618,15 @@ As we feel that this cannot be reiterated too often, we repeat our injunction to
 
 Horoscope No. 16 shows the natal configuration of an actress. Sagittarius is rising; Jupiter and the Moon are in close conjunction in Gemini, a mercurial sign, and are supported by a trine of the Sun; thus she had a most healthy constitution at birth, so far as the lung power is concerned. Mars and Mercury are also in an airy sign, giving energy to respiration and it thus seems as though this person were singularly well fortified against pulmonary trouble. But Saturn, Neptune and the Dragon's Tail in Taurus in the Sixth House, give a tendency to colds and contraction of the throat. Uranus in Virgo produces convulsive movements of the diaphragm and abdominal region; he is square to Jupiter and the Moon, and thus we see how graphically the stellar script pictures the tendency to convulsive coughing and hemorrhages which nearly brought the young woman to an early grave when Mars, by progression, came into conjunction with the radical Sun and vivified the square to Saturn. We rejoice to say that the good aspects first mentioned enabled the young woman to weather the storm; but close attention to diet, regular living and above all absolute continence are required to regain full physical strength, for there is much evidence to show that license played an important part in reducing the life forces and robbing her of the needed strength at the critical period. 
 
-DISEASES OF THE STOMACH 
+#### <h4 id="diseases-of-the-stomach">DISEASES OF THE STOMACH</h4>
+
 Horoscope No. 17 presents a number of diseases, but all have their root in an insatiable appetite fostered by the fact that the person is a professional chef. Venus in Taurus gives discrimination in food, and the sextile to Mercury in Cancer causes the mind to run in the direction of preparations wherewith to tickle the palate. But the Moon being ruler of Cancer, the rising sign, which has dominion over the stomach, shows that over-indulgences of the appetite will result disastrously. The distended stomach presses upon the heart, of which the Sun, our life-giver, is ruler. This planet is in Gemini, the sign which has dominion over the lungs, square to Mars in Pisces. Mars rules the iron in the blood and the Sun gives us oxygen, thus this square shows that the blood will lack in the life-giving element. The conjunction of the Sun with Uranus in Gemini produces spasmodic motion of the lungs and labored inspiration to obtain sufficient oxygen wherewith to supply the system; thus we have the condition called asthma. Saturn and Jupiter are in Virgo which rules the abdomen, square to the Sun and Uranus in Gemini, showing a lack of circulation and a tendency to ulcerous growths, and there is a general lack of nutrition in the whole system because of the great energy required to eliminate waste from the enormous quantities of food which this person consumes. Sad to say, however, persons in that occupation protest that they cannot help tasting, and that in spite of all ills they must eat to excess. It were wiser of course, to see another profession and train the system to moderation. 
 
 In horoscope No. 18 we have the natal configurations of another chef; they are similar to those delineated in No. 17. Cancer, the sign of the stomach, is rising, with Mars and the Sun close to the Ascendant; thus the forces of this individual will be directed principally toward the stomach, and the opposition of the Moon shows disastrous results which eventually resulted from gratifying his ravenous appetite. The Sun is life and motion, Mars is dynamic energy, and the excessive activity centered in the stomach to take care of digestion causes this organ to be inflamed. Nature is not a jerry-builder; she builds substantially and well, or our bodies could never stand the abuse we give them as well as they do, but even the healthiest organism must give way in time under such dreadful strain. As indicated by the Sun and Mars, an ulcer developed from the internal heat, ate through the stomach and relieved the poor soul of its misused body. Neptune in Taurus, the sign of the palate, was of course also a contributing factor. It is not to be supposed however, that anyone who has Cancer rising or many planets in Cancer, is necessarily going to die of the disease to which that name has been given, but it would be the part of wisdom to train children with such conditions to abstain from overeating, for it is a truism that more people die from overeating than from starvation. 
 
-DISEASES OF THE HEART 
-As the heart is the seat of physical life, its natural ruler is the Sun. The solar sign is Leo. But it is a mistake to think that palpitation of the heart is necessarily shown by an affliction to the sign Leo. Indeed, there are many cases where overindulgence of the appetite indicated by the sign Cancer distends the stomach, which presses upon the heart producing what the person then believes to be heart trouble. This was the case in horoscopes Nos. 17 and 18; both believed their heart trouble to be the primal cause of the illness under which they were suffering, while in reality it was only one of the effects. 
+#### <h4 id="diseases-of-the-heart">DISEASES OF THE HEART</h4>
 
-[618] 
+As the heart is the seat of physical life, its natural ruler is the Sun. The solar sign is Leo. But it is a mistake to think that palpitation of the heart is necessarily shown by an affliction to the sign Leo. Indeed, there are many cases where overindulgence of the appetite indicated by the sign Cancer distends the stomach, which presses upon the heart producing what the person then believes to be heart trouble. This was the case in horoscopes Nos. 17 and 18; both believed their heart trouble to be the primal cause of the illness under which they were suffering, while in reality it was only one of the effects. 
 
 But No. 3 shows a case of organic weakness of the heart. The Sun is at home in the fixed sign Leo and receives a square from Saturn the reaper; thus it is evident that the heart was a weak link in the constitution and would cause trouble in time, unless care was taken. Unfortunately of course, parents knew less about Astrology a generation ago than today, when the science is coming to the fore. The energy of which this horoscope is full, was allowed to spend itself unrestrained with no thought given to coming disaster. 
 
@@ -3922,9 +3638,8 @@ Leo also rules the spinal cord and malefic configurations there may produce hunc
 
 Horoscope No. 20 is the figure of a beautiful boy, well formed and healthy, who became afflicted with curvature of the spine. Here we find the Moon in conjunction with the Dragon's Tail in the Twelfth House, square to Saturn and Uranus in Scorpio. At five and one half years of age the Moon had progressed to the square of its own place; this and the conjunction with Saturn and Uranus in Scorpio, brought on his affliction. After enduring eight years of torture he died, having been taken from one free dispensary to another and used by the doctors to practice on. Each doctor tried a new cure. He was plaster casts for years but to no purpose. The mothers is represented by Neptune in conjunction with Mars, careless and of dissolute habits; she was glad of the opportunity to place the boy anywhere in order to shirk the responsibility of caring for him. The boy died when the Moon had progressed to an opposition of its own place; it was also then in square to Uranus and Saturn. 
 
-[620] 
+#### <h4 id="diseases-of-the-kidneys">DISEASES OF THE KIDNEYS</h4>
 
-DISEASES OF THE KIDNEYS 
 The kidneys are ruled by Libra and Scorpio both. That is to say, the functional activity of secretion of urine comes from Libra, but the bladder and urethra through which elimination takes place are ruled by Scorpio. Renal stones and gravel would result from an affliction to Libra, for they are formed in the peduncle of the kidneys. These would also result from an affliction to Scorpio, causing faulty elimination and consequent retention of calcareous matter in the system. Diseases of the ureters are under Libra. 
 
 Horoscopes Nos. 3 and 21 are examples of how the stars indicate diseases of the kidneys. In both cases Saturn is in or near an angle and square to the Sun, and in his sign of exaltation. Libra, which rules the kidneys, is also elevated. This latter point may not be apparent to beginners who look at No. 3 and find Saturn, as they would say, down in the Fourth House, but the nadir of the birth place is Midheaven or Zenith of an opposite point on the earth, and planets at either of these points are found to have an added power. 
@@ -3933,13 +3648,13 @@ In the two examples mentioned, Saturn, the planet of obstruction, prevents secre
 
 In horoscope No. 7 we find Saturn in Scorpio square to Mars. Saturn produces the obstruction of the blood known as hemorrhoids, and the dynamic energy of Mars causes rupture of the congested places, thus we have the painful bleeding well known to so many sufferers. As a secondary result constipation adds to the malady, because persons afflicted with the first named disease shrink from the added pain of the stool, and do not respond to nature's call. A prolonged rest seems to be the only physical means which is really effective. Nature however, will be very much aided by proper osteopathic manipulations, and a diet consisting principally of milk. 
 
-ACCIDENTS TO HIPS AND ARMS 
+#### <h4 id="accidents-to-hips-and-arms">ACCIDENTS TO HIPS AND ARMS</h4>
+
 Sagittarius rising, or in the Sixth or Twelfth House is responsible for broken bones and accidents. Under the chapter on the Dragon's Tail we saw how the person described in horoscope No. 6 fell upon the ice and broke her hip. No. 21 has even stronger indications of accidents and probably the life will end in an untoward manner. Sagittarius is rising, Saturn is exalted in the Midheaven exactly square to the Sun, and Neptune is elevated at the nadir also squaring the Moon; thus both luminaries are afflicted. As the Sun is lord of the house of death these auguries presage an untimely end. The only hope lies in the sextile of Jupiter to the Sun which gives hair-breadth escapes. This man's life has been jeopardized many times in railroad wrecks, automobile accidents, etc., but although he has thus been near the gate of death many times, the benefic ray of Jupiter has so far preserved his life and no bones have yet been broken. The woman described in horoscope No. 22 has not been so fortunate; her arms and legs have been accidentally broken several times, for Mars and the Moon are in Sagittarius in the Twelfth House, also in opposition to Jupiter. The Sun and Mercury are in the Eighth House in opposition to Neptune and these planets are square the first mentioned positions. Saturn, her ruler, is square to Venus so that she attracts accidents and never escapes being hurt. 
 
-DISEASES OF THE LIMBS 
-In horoscope No. 7 we find Mars in Aquarius square to Saturn, and from this affliction it is evident that there is an obstruction of the blood in the lower limbs, which produces varicose veins. Horoscope No. 17 shows Mars in the sign Pisces in opposition to Saturn and Jupiter. It is the nature of Saturn to obstruct, and his conjunction with Jupiter shows that the circulation is poor. Mars in Pisces produces heat, inflammation and swelling of the feet, because of the stagnated blood. We have already seen that the person there described is gluttonously inclined, and therefore it is no wonder that stagnation of the blood produces such painful afflictions as indicated by these configurations. The remedy of course if self-evident; it is moderation. 
+#### <h4 id="diseases-of-the-limbs">DISEASES OF THE LIMBS</h4>
 
-[624] 
+In horoscope No. 7 we find Mars in Aquarius square to Saturn, and from this affliction it is evident that there is an obstruction of the blood in the lower limbs, which produces varicose veins. Horoscope No. 17 shows Mars in the sign Pisces in opposition to Saturn and Jupiter. It is the nature of Saturn to obstruct, and his conjunction with Jupiter shows that the circulation is poor. Mars in Pisces produces heat, inflammation and swelling of the feet, because of the stagnated blood. We have already seen that the person there described is gluttonously inclined, and therefore it is no wonder that stagnation of the blood produces such painful afflictions as indicated by these configurations. The remedy of course if self-evident; it is moderation. 
 
 THIRTY-SIX EXAMPLE HOROSCOPES
 
@@ -3966,8 +3681,6 @@ MC:  24 AQUARIUS   MOON: 9:55 SCORPIO    URANUS: 9:44R SCORPIO
 2H:  10 CANCER     MARS: 3:56 GEMINI 
 3H:   0 LEO        JUPITER: 2:03 TAURUS 
 
-[625]
-
     CHART #3: 
 
 HOUSE CUSPS:       PLANETS: 
@@ -3990,8 +3703,6 @@ MC:   9 AQUARIUS   MOON: 10:08 CAPRICORN        URANUS: 9:27R TAURUS
 12H: 16 ARIES      VENUS: 26:50 CAPRICORN      
 2H:  26 GEMINI     MARS: 6:48 VIRGO 
 3H:  17 CANCER     JUPITER: 0:10 SAGITTARIUS 
-
-[626]
 
     CHART #5: 
 
@@ -4017,8 +3728,6 @@ MC:  12 PISCES     MOON: 12:08 TAURUS      URANUS: 27:26 AQUARIUS
 2H:  24 CANCER     MARS: 5:25 CANCER 
 3H:  16 LEO        JUPITER: 3:45 GEMINI 
 
-[627]
-
     CHART #7: 
 
 HOUSE CUSPS:      PLANETS: 
@@ -4041,8 +3750,6 @@ MC:  17 TAURUS  MOON: 3:22 SAGITTARIUS  URANUS: 9:19 CANCER
 12H: 24 CANCER  VENUS: 29:36 GEMINI 
 2H:  16 VIRGO   MARS: 11:57 VIRGO 
 3H:  14 LIBRA   JUPITER: 7:09R PISCES 
-
-[628]
 
     CHART #9: 
 
@@ -4067,8 +3774,6 @@ MC:  15 LIBRA           MOON: 10:45 GEMINI      URANUS: 16:17 VIRGO
 2H:  28 CAPRICORN       MARS: 7:38 CANCER 
 3H:   9 PISCES          JUPITER: 25:04R TAURUS 
 
-[629]
-
     CHART #11: 
 
 HOUSE CUSPS:      PLANETS: 
@@ -4092,8 +3797,6 @@ MC:   9 SCORPIO       MOON: 2:51 VIRGO      URANUS: 22:44 GEMINI
 2H:  27 AQUARIUS      MARS: 16:44R ARIES 
 3H:   8 ARIES         JUPITER: 4:45 LIBRA 
 
-[630]
-
     CHART #13: 
 
 HOUSE CUSPS:      PLANETS: 
@@ -4116,8 +3819,6 @@ MC:  18 ARIES      MOON: 20:02 LEO          URANUS: 16:46 LEO
 2H:   2 LEO        MARS: 6:43 TAURUS 
 3H:  13 VIRGO      JUPITER: 1:52 SAGITTARIUS 
 
-[631]
-
     CHART #15: 
 
 ASC: 3:33 VIRGO  SUN: 5:47 TAURUS        URANUS: 27:21 CANCER 
@@ -4136,8 +3837,6 @@ MC:  20 VIRGO           MOON: 18:50 GEMINI       URANUS: 22:18R VIRGO
 12H: 12 SCORPIO         VENUS: 10:35 CAPRICORN 
 2H:   3 CAPRICORN       MARS: 10:22 AQUARIUS 
 3H:  12 AQUARIUS        JUPITER: 21:21 GEMINI 
-
-[632]
 
     CHART #17: 
 
@@ -4158,8 +3857,6 @@ MC:   4 PISCES     MOON: 12:22 CAPRICORN  URANUS: 8:55 LEO
 2H:  23 CANCER     MARS: 9:42 CANCER 
 3H:  11 LEO        JUPITER: 24:20 VIRGO 
 
-[633]
-
     CHART #19: 
 
 ASC: 21:36 LIBRA     SUN: 4:19 GEMINI       SATURN: 27:38 LEO 
@@ -4178,8 +3875,6 @@ MC:  12 GEMINI    MOON: 23:14 LEO        URANUS: 22:14 SCORPIO
 12H: 16 LEO       VENUS: 3:50 SCORPIO    DRAGON'S HEAD: 21:53 AQUARIUS
 2H:  10 LIBRA     MARS: 23:53 GEMINI      
 3H:  10 SCORPIO   JUPITER: 1:00 VIRGO 
-
-[634]
 
     CHART #21: 
 
@@ -4200,8 +3895,6 @@ MC:  17 SCORPIO       MOON: 26:26 SAGITTARIUS  URANUS: 3:20R GEMINI
 2H:   0 PISCES        MARS: 18:59 SAGITTARIUS 
 3H:  20 ARIES         JUPITER: 20:37 GEMINI 
 
-[635] 
-
 NO. 23--INSANITY AND SPIRIT CONTROL
 
             CHART #23: 
@@ -4221,8 +3914,6 @@ During aspects like the above, they would have an excellent chance to use this p
 
 The question them comes: What can we do for a person in that condition? We have a good aspect to the Moon and Neptune, which is the sextile of Venus. Neptune rules music--classical string music in particular--and Venus in Aquarius gives the person a love of just that kind of music, which will soothe the mind. This configuration also gives a love of bright colors and sunshine which will help to tone the system. She should not be allowed books, but should have a complete rest from all mental effort, the brightest conversation possible, and a vegetarian diet. With these there is a probability that the evil configuration may be overcome and the person restored to mental health, though that will never be robust. 
 
-[638] 
-
 NO. 24--HEART TROUBLE, INSUFFICIENT OXYGENATION, EYE TROUBLE, DEATH 
 
             CHART #24:
@@ -4238,17 +3929,11 @@ GOOD ASPECTS: Mars trine the Moon, sextile Saturn; Uranus trine Neptune; Jupiter
 
 BAD ASPECTS: The Moon conjunction Antares, opposition Saturn and Venus; the Sun conjunction Dragon's Tail, square Jupiter; Mercury square Mars. 
 
-[639] 
-
 The Moon on the Ascendant in Sagittarius makes the patient restless and unstable, but not shiftless, because the Moon is also trine to Mars. This gives her much more energy than usually possessed by Sagittarians. Even the opposition of the Moon to Saturn and Venus, which robs life of its joys and makes her melancholy, is, in a certain sense, help; it gives her a persistence and resistance that will not allow her to give in to disease. Mercury square Mars shows that she has a very quick temper, and as Mercury is in Taurus, the sign of voice, the unfortunate characteristic will find expression in an unbridled tongue. This will hurt her very seriously from a physical standpoint (not to speak of the even more deplorable spiritual injuries), for Mars is in Leo, the sign of the heart, and that always predisposes to palpitation. He is sextile to Saturn, but even good aspects to Saturn are physically inimical. The Sun, which is ruler of the heart, is in conjunction with the saturnine Dragon's Tail. The nerves also are affected by the square of Mars to Mercury, hence the heart is far from normally balanced, and the outbursts of temper which this person is apt to indulge in on the slightest provocation may cause heart failure at some time, by putting an undue strain on this organ and interfering with the already sluggish circulation, which is shown by the square of Jupiter to the Sun and the Dragon's Tail, also by the conjunction of Venus with Saturn, and their opposition to the Moon; Jupiter and Venus being governors respectively of the arterial and venous circulations. 
-
-[640] 
 
 The head is particularly congested because the Sun conjunction the saturnine Dragon's Tail occurs in Aries, the sign of the head, and Saturn, the planet of obstruction, is in Gemini, the sign of the lungs, in conjunction with Venus. This shows interference with the circulation of the venous blood in the lungs. The Moon, which governs the tidal air, is in opposition, showing that an insufficient amount of air is inspired into the lungs to cleanse the blood of its poisonous carbon dioxide, and the presence of Saturn shows a hardening of the tissues, which is apt to develop into tuberculosis. You will also notice that Jupiter, the ruler of the Ascendant, is in the Eight House square to the Sun and the saturnine Dragon's Tail in the Fourth House, and all are in Cardinal signs. This is a strong testimony of an accidental death, and Mars in the Eighth House, in the sign Leo, which rules the heart, shows that hemorrhages may be the cause which will end the physical life. 
 
 If this person had been taken hold of in time and taught self-control, this serious condition could probably have been avoided; even now a frank statement concerning the great danger that undue excitement may cause, should help her govern her temper, and thus lengthen life. 
-
-[641] 
 
 The Moon conjunction Antares, and opposition to Saturn shows that the eyes are in danger also, and Saturn in Gemini, which is a mercurial sign, shows nervous affection. The conjunction with Venus would suggest a congestion of the muscles of the eyes, which may be greatly relieved by osteopathic treatment. 
 
@@ -4265,19 +3950,13 @@ MC:  21 GEMINI    MOON: 26:15 LIBRA   URANUS: 15:41 GEMINI
 2H:  18 LIBRA     MARS: 23:58 LEO
 3H:  19 SCORPIO   JUPITER: 3:26 VIRGO 
 
-[642] 
-
 We judge first the mental caliber of our patient. Four Common signs are on the angles, and this at once describes the nature as weak and vacillating. Mercury square the Moon further accentuates this wavering and flightiness of her mind, and Saturn conjunction Venus and Jupiter in the Twelfth House robs life of its joy, making this woman subject to melancholy and morbid fear. This characteristic is somewhat ameliorated by the sextile of the Sun to Uranus, which fosters altruism, and the trine of Mercury to Neptune, which gives spiritual perception, thus aiding to dispel gloom by directing the mind from sorrows which are but fleeting, to the eternal verities. To sum up, she is prone to be either "down in the dumps," or "up in the air," and it is necessary to strive to cure her of both depression and elation, which are alike harmful. Equipoise must be cultivated to aid in attaining and maintaining health. Were Fixed signs on the angles this would be next to impossible, but with Common signs there she is more adaptable and reachable. 
 
 Regarding the ailments to which this woman is subject, we note first Uranus in high elevation, conjunction the Dragon's Tail, whose influence is saturnine, that is to say, obstructive, crystallizing, and hardening. Both are in the airy sign Gemini, which governs the lungs, and square to Saturn in the Twelfth House, which denotes confinement-in prison, hospitals or upon a sickbed. This gives us at once the key to the trouble. Sometimes the tidal air is almost stopped by the Dragon's Tail and the square of Saturn; Uranus prevents asphyxiation by the conclusive movement of the lungs knows as coughing, which clears away the obstruction and enables the heart to again circulate the blood. 
 
-[643] 
-
 The blood is unable to throw off its poisonous carbonic acid because of the obstructive power of the Dragon's Tail in Gemini, and the square of Saturn to Uranus in the sign of the lungs. The arterial and venous circulations are also impeded by the conjunction of Jupiter and Venus with Saturn, hence, malnutrition and carbonic acid poisoning are in evidence. The hardening of the lungs and consequent cough, label the case as tuberculosis. 
 
 Elimination of urine is retarded by the square of Mercury to the Moon, which is in the latter part of Libra, the sign of the kidneys. Mercury governs the sensory nerves, while Mars rules the motor nerves and muscles. Mars is in good aspect, showing that the mechanical apparatus is in good condition, but that the trouble is nervous. This may be alleviated by manipulations, and so may the sluggishness of the bowels indicated by Saturn in Virgo. The Mars hour would be the best time, the Sun hour next. Besides this treatment dry rubs with coarse gloves will stimulate the skin and aid in eliminating carbonic acid from the system. Whole wheat bread toasted, plenty of fresh milk given while still warm (for then it contains the maximum quantity of the ether which is so necessary to restore the vital body), and as much green uncooked food as the patient can take should be given, for that also contains a maximum of ether. Onions are particularly valuable nerve-builders. 
-
-[644] 
 
 A person with Taurus rising, whose Saturn is not in the degrees included within the patient's First or Sixth House, will make the best healer for this patient. 
 
@@ -4296,8 +3975,6 @@ GOOD ASPECTS: Uranus trine Mercury and Neptune, Moon sextile Venus; Saturn sexti
 
 BAD ASPECTS: Moon conjunction Dragon's Tail; (Dragon's Tail: 22-33 Aries); Moon square Jupiter; Sun square Mars; Uranus square Venus. 
 
-[645] 
-
 This is the horoscope of our friend, James Casey, who wrote such helpful articles in the "Rays." He passed into the invisible worlds in June, 1918, and as he has no relatives connected with our society who might read this diagnosis and feel badly on that account, he gave us permission to use it for the benefit of his fellows. He was born on April 24, 1884, 2:00 P.M., in Harlem, Iowa, and became afflicted with tuberculosis while living in Denver, Co., the Mecca for all who are afflicted with this disease. 
 
 You will notice that Saturn, the planet of crystallization and obstruction, is placed in Gemini, the sign which rules the lungs, and although Saturn is the highest elevated planet in the horoscope, besides being unafflicted there is always a weak spot in the anatomy where he is found. The hot, inflammatory and disruptive Mars is in Leo, the sign which governs the heart, square to the Sun, which is ruler of Leo, in the sign Taurus, which governs the throat and all the passages there. This is a configuration which usually produces fevers, inflammation, wounds and hemorrhages. Thus there was a tendency in the system toward tuberculosis, and you will furthermore notice that there are four Common, flexible signs on the angles, the Sixth House sign, Virgo, being on the Ascendant with the spasmodic Uranus afflicting Venus, the ruler of the venous circulation, which is placed in Gemini, the sign ruling the lungs. Uranus gives a tendency to coughs and spasms, so you see that the condition is very well outlined in the horoscope. The four common signs show that when he became subject to illness the Virgo nature was too weak to throw it off and he simply made up his mind that he was going to die from it, hence there was no help. If he had been able to throw off the feeling of impending death and to struggle against the sickness there is no doubt that with this horoscope he could have overcome. 
@@ -4315,23 +3992,17 @@ MC:  11 CAPRICORN  MOON: 3:55 VIRGO           URANUS: 25:29 SCORPIO
 2H:  29 TAURUS     MARS: 24:53 GEMINI 
 3H:  21 GEMINI     JUPITER: 9:01 VIRGO 
 
-[647] 
-
 In this figure the planets occur in four groups: Neptune is in conjunction with Mars, Saturn in conjunction with Uranus, Mercury in conjunction with the Sun, and Jupiter in conjunction with the Moon. The last two groups are also squaring each other. Venus is alone and forms a trine to Jupiter. Note also that the Sun is parallel to Neptune and Mercury, and Venus is parallel to Mars. 
 
 This is the horoscope of a young woman born Nov. 27th, 1896, 2:15 P.M., Tacoma Wash. We note first that there are Cardinal signs on the angles, showing her to be active in nature. But she acts more from impulse than from reason. This characteristic is shown by the fact that the Moon is square to Mercury and the Sun. Naturally as both the Moon and Mercury are significators of mind, any inharmonious aspects between them are detrimental. Add to this the further fact that Mercury is combust or burned up by its close proximity to the Sun, and it is very evident that we may expect to do very little with the person by reason. This does not mean that she is of evil mental disposition; she is quite the reverse, as shown by the conjunction of the Moon with the planet of benevolence, Jupiter, and the trine between this last named planet and Venus, the planet of love and pleasure. 
 
 The trouble for which this young woman has consulted us is adenoids, which cause extreme difficulty in breathing. The condition is very clearly shown in the horoscope. When we remember that afflictions in one sign always give a reflex action in the opposite, we shall readily understand that Saturn, the planet of obstruction, in conjunction with Uranus, the planet of spasmodic action in the sign Scorpio, is certain to interfere with the rhythmic breath through the Taurus region comprising the throat and lower part of the head. Furthermore, Scorpio also governs the nose, as you will realize when you remember that the most prominent feature of the true Scorpio person is an aquiline nose of generous dimensions. Thus an afflicted Saturn located in Scorpio, which causes an obstructed rectal region and constipation, also at the same time gives a tendency to throat trouble and obstruction of the nasal passages. 
 
-[649] 
-
 In the case of this patient we find the condition aggravated by the square of the Sun and Mercury to the Moon and Jupiter. The Sun and Mercury being placed in Sagittarius are therefore active in the opposite sign Gemini, which governs the lungs, and as the Moon governs the tidal air in the lungs the square of these planets will naturally affect the breathing. 
 
 Now for the remedy; it seems far-fetched to attempt to rectify an obstruction in the throat by working on the anus. Nevertheless, Saturn, the planet of obstruction, conjoined with Uranus, the planet of spasmodic action in Scorpio, shows that at certain times the sphincter muscles of the anus are so tightly closed that it is impossible for the diaphragm to move. Under ordinary conditions there is an in-breathing through the anus which regulates the air pressure in the bowels, a fact that is not generally known, but when the sphincter muscles are congested by a configuration of so severe a nature as this one, this automatic regulation stops and the diaphragm is then unable to work with the necessary freedom; therefore the lungs are deprived of the necessary tidal flow of air. So, to relieve this condition an adjustable mechanical dilator should be used. It should be noted that there are two sphincter muscles to operate upon, the inside one being located just a little way inside the anus. 
 
 After a few treatments of this kind the bowels should be kept open by the use of the proper laxative foods such a prunes, figs and not forgetting coarse whole wheat bread. 
-
-[650] 
 
 There is no doubt that this person has resorted to mouth breathing, which has aggravated the throat trouble, but by consistent continuance of the treatment here outlined she will soon experience less difficulty in breathing and it will then be an easy matter to learn to breathe through the proper channels, the nostrils. 
 
@@ -4352,17 +4023,11 @@ GOOD ASPECTS: Saturn sextile Jupiter, trine Mars and Uranus.
 
 BAD ASPECTS: Jupiter opposition Mars and Uranus; Moon opposition Venus; Sun and Mercury square Uranus, Mars and Jupiter. 
 
-[651] 
-
 This is the horoscope of a man born on March 16, 1865, at 3 P.M., in England, and it affords a good example of how accidents are also crises are shown in the horoscope. The main affliction comes from the fact that the Sun and Mercury are in close conjunction in the Eighth House, occupied by Pisces. This itself is unfortunate for the reasoning faculty. They are both square to Jupiter in Sagittarius, which also has a strong influence upon the mind. But worst of all, they are square to Mars, the planet of dynamic energy, impulse, etc., and Uranus, the planet of lightning-like action, which precludes forethought. When action is dictated by intuition generated under good aspects, all is well and the person is better off than when he is forced to use the comparatively slow reason. But when it is generated under the adverse aspects of the square and opposition, it results in such rattle-brained foolhardiness and absolute lack of thought and intelligence that the person is generally mentally incompetent. So we see at the very first glance that we have here before us a person who on account of weak mentality is apt to get into trouble and accidents. But the injuries which he has received in consequence of his lack of forethought were all to the head and as the horoscope does not show any serious affliction to Aries, which rules the head, except that Mars and Mercury, which rule the two hemispheres of the cerebrum, are square, what then caused these accidents, we may ask. The answer is found in the progression of the Sun, which corresponds with the time when this person was injured, the Moon also bearing its part in bringing about these accidents. In 1876, when he was eleven years of age, the Sun and Moon were both in conjunction with Neptune in the sign Aries and at that time he met with an accident which caused the first injury to his head. In 1896 the progressed Sun was in opposition to Saturn from Aries; you will notice that Saturn is retrograde so that although he is in the last degrees of Libra his influence is thrown backward into that sign and works as an opposition between Libra and Aries, affecting the head. The Sun was also parallel to Saturn and this is one of the most inimical influences in the whole gamut, for it destroys all vitality of the person who is under its sway for a number of years. (One of the writers can testify to this from personal experience, having felt it for ten or twelve years.) At the same time the progressed Moon was in opposition to Mars and Uranus and square to the Sun and Mercury at birth; thus there were very severe afflictions at that time and the poor man suffered a considerable injury. 
-
-[653] 
 
 The third accident came in 1908, at the age of forty-three. At that time the Sun was in opposition to the Moon's radical place and the progressed Moon was in conjunction with Uranus and Mars, square to the Sun and Mercury, radix. The opposition of the Sun to the Moon occurred from Taurus, which governs the lower part of the head, where he was hurt. 
 
 In consequence of these various accidents the man is now suffering from chronic headaches and he is on the verge of insanity. Various doctors have been called on for advice but no one is able to put his finger on the seat of the trouble. Consulting our ephemeris we find that during the man's lifetime Saturn will continue to retrograde further back into Libra, and that his influence in Aries is becoming stronger with every year. Saturn always causes bruises and depression; we are therefore satisfied that there must be a depression of the skull and an examination should be made to find this and have it removed. But the square of the Sun and Mercury to Mars and Uranus in Gemini, which rules the lungs, shows also that there is something the matter with the oxygenation of the system, and Saturn in Libra indicates that there is a scarcity of urine. These defects can be remedied by breathing exercises and through regulating the diet. When that is done there will be at least a large measure of relief. 
-
-[654] 
 
 A healer with Aries rising, whose Saturn is not in Aquarius, will be best able to look after this patient. 
 
@@ -4385,13 +4050,9 @@ A person may, however, have a weak mind and yet it may not become entirely unbal
 
 When we look for the signs of disability in a horoscope like the present, we turn to the aspects for our information. Saturn, it appears, is in conjunction with the Dragon's Tail ( 26-10 ), and this adds to his malefic influence; he is further in conjunction with Neptune in 18 degrees of Taurus, and also with the fixed star Alcyone in 29 degrees of Taurus. As Saturn is the planet of obstruction and Taurus rules the throat we naturally look for some obstruction in that region, and we find that a concretion has taken place, a growth, a crystallization known as Goiter, a disease which also further bears out the indications in the former aspects which we have discussed. 
 
-[656] 
-
 Were it not for good aspects which we have not hitherto mentioned, namely, the sextile of Saturn to Mercury and its trine to the Moon, this person would certainly have become an inmate of an insane asylum, but this is one of the few cases where Saturn really helps in a material sense, for even his good aspects will obstruct when coming to the other planets; but when this obstruction is applied to the Moon, the flightiest planet of all, and to Mercury, the one next to her in swiftness and instability, both of them significators of the mind, Saturn does really help to hold the flighty mind in check, and such a weak mental condition as the one found here will be vastly benefited by these aspects, whereas if there are no evil aspects the sextile of Mercury and Saturn will strengthen the mind in a wonderful degree. 
 
 As Saturn in Taurus always affects the functions of the opposite sign, Scorpio, namely elimination, it is of great importance to see that both kidneys and bowels act freely with a person like this. Nothing but distilled water should be taken into the system on any account. As the muscles of the neck are always strained in hill and stair climbing, a person with this disease should be housed on a level and on the lower floor of the house. A vegetarian diet consisting of uncooked food is preferable to any other, and it is particularly necessary to get the vegetable salts which may tone the body and bring the standard of general health as high as possible; lettuce is the best single vegetable for this purpose. 
-
-[657] 
 
 NO. 30--WEAK BACK AND LIMBS, EYE TROUBLE, DEAFNESS
 
@@ -4408,8 +4069,6 @@ GOOD ASPECTS: The Moon sextile to Uranus and Jupiter; the Sun sextile to Mars; V
 
 BAD ASPECTS: Saturn opposition to Neptune; the Sun and Mercury square to Jupiter and Uranus. 
 
-[658] 
-
 This is the horoscope of a young man born on September 6, 1900, at 6:00 A.M., and the disability complained of is weakness in the back and limbs, which prevents him for moving about normally. Astrologically we find that this is due to several causes. In the first place, there are four Common signs on the angles, the Sixth House sign, Virgo, being on the Ascendant which governs the condition of the body. It is a vital point in that respect. This in itself shows his somewhat indolent nature and a tendency to give up very easily. We also find Mercury, the ruler of the Ascendant, in the Twelfth House, denoting hospitals and chronic illness; he is square to Jupiter and Uranus, which are placed in Sagittarius, the sign which governs the hips and the great sciatic nerve. The Sun, the giver of life, is also square to Uranus, the planet of irregularity, which is conjoined with Jupiter in Sagittarius. And finally, Saturn, the ruler of the bony structure and its articulations, is placed in Sagittarius in opposition to Neptune, in Gemini. All these configurations naturally tend to bring about the conditions complained of if nothing is done to prevent; but in this case, with four Common, flexible signs on the angles, with the life-giving Sun sextile to Mars, the planet of dynamic energy, and with the Moon sextile to Jupiter, the planet governing the arterial blood, it is quite possible to obtain relief by means of exercises which will remove the sluggish conditions. 
 
 But we also find other weaknesses of a serious nature latent in this horoscope. Uranus is in conjunction with nebulous star Antares in Sagittarius 8 degrees, square to the Sun and Mercury. This implies a grave danger to the sight and also to the hearing because of Mercury being in the Twelfth House. These conditions can certainly be overcome if the ounce of prevention is applied. We take it that because the man is not able to otherwise occupy himself he is an inveterate reader and this will bring trouble if persisted in. Massage of the head in the region of the eyes and ears, and exercise of the limbs and body will aid in restoring this young man to health. A healer with Taurus on the Ascendant whose Saturn is not in the patient's Sixth House will probably have the most persistence in the performance of his work. 
@@ -4425,11 +4084,7 @@ MC:  11 AQUARIUS   MOON: 19:28 CAPRICORN  URANUS: 25:28 LEO
 2H:  27 GEMINI     MARS: 9:00 CANCER 
 3H:  18 CANCER     JUPITER: 7:07 AQUARIUS 
 
-[660] 
-
 Mercury, the significator of mind, rises before the Sun and is in the Twelfth House, conjunction Neptune, its higher octave. This shows that the mind is naturally inclined toward the higher and more spiritual things of life, though Jupiter square Mercury from the house of mind indicates that under severe afflictions this woman may at times follow the example of Job and reason with God concerning the hard fate she has to bear. The Moon, which is the other significator of mind, square Venus, shows us that considerable sorrow may be expected in this life; but the conjunction of Mercury with the mystical Neptune in the Twelfth House gives her a certain degree of spiritual development, which brings much comfort through her communion with the higher worlds, compensating her for her isolation. Jupiter is the Midheaven trine to the Ascendant causes her to look upon life from a more hopeful angle than even people who are not at all afflicted (in comparison with her), and the strength of her hope is bound to help her in a degree beyond human measure; for even as the person who gives way to worry and melancholy is thereby made more unhappy or unhealthy, so also the person who constantly keeps an optimistic spirit is bound to gain thereby correspondingly in health and happiness. The Sun on the Ascendant, even though it is afflicted by a square of Uranus, is nevertheless a valuable asset in recuperation. The Sun sextile Saturn will give her a persistence, a tenacity of life, that will not let go despite all discouragements. 
-
-[661] 
 
 This woman has been deaf since she was five years of age and this disability is indicated by the position of Mercury in the Twelfth House, by his conjunction with Neptune, and his square to Jupiter. This latter aspect indicates that it is sluggish circulation of the blood which is responsible for the disability. These aspects of Mercury also make her dumb, particularly because Mercury is in Taurus, which governs the vocal organs. She has nevertheless learned to talk, showing that there is no organic disability but only a functional weakness. 
 
@@ -4448,8 +4103,6 @@ MC:  0 CAPRICORN  MOON: 19:12 SAGITTARIUS  URANUS: 12:18R CANCER
 2H:  0 TAURUS     MARS: 14:14 SAGITTARIUS 
 3H:  0 GEMINI     JUPITER: 29:34 AQUARIUS 
 
-[663] 
-
 In the case before us we have not the hour of birth, and will therefore insert the signs in their respective Houses, commencing with Aries in the First, Taurus in the Second, etc. This person was born November 27, 1867. 
 
 GOOD ASPECTS: Sun and Mars trine Neptune. 
@@ -4457,8 +4110,6 @@ GOOD ASPECTS: Sun and Mars trine Neptune.
 BAD ASPECTS: The Sun and Mars conjunction Antares; Saturn and Mercury square Jupiter; Mars conjunction the Moon and Venus; Saturn conjunction Mercury, Jupiter Square Sun, Uranus square Neptune. 
 
 Regarding the mentality of this person, we find that the conjunction of Saturn and Mercury, particularly in the Eighth House sign, Scorpio, clouds the mind with gloom. The Moon, which is the other significator of mind, conjunction Mars in the Ninth House sign, Sagittarius, would have the tendency to make the patient rebellious against misfortune. This tendency is somewhat softened and toned down by the presence of Venus in conjunction with these planets, and we may therefore conclude that this person is apt to be very much depressed in mind whenever misfortune overtakes him; that he rebels, at least inwardly, very strongly against the blows of fate, though Venus may prevent him from expressing his disappointments. 
-
-[664] 
 
 With regard to the ailments to which this person is subject, we find in the first place that Jupiter square to Mercury and Saturn, the latter being in Scorpio, which rules the rectum, gives a tendency to constipation and hemorrhoids. This configuration also interferes with the circulation of the arterial blood. His disability is further enhanced by the square of Jupiter to the Sun, the latter planet being ruler of the organ which circulates the vital fluid. 
 
@@ -4477,8 +4128,6 @@ MC:   0    LIBRA        MOON: 0:10 AQUARIUS  URANUS: 6:54 VIRGO
 2H:  15    CAPRICORN    MARS: 0:45 VIRGO 
 3H:  24    AQUARIUS     JUPITER: 19:0 ARIES 
 
-[666] 
-
 GOOD ASPECTS: Jupiter trine Mercury; Saturn trine Mars. 
 
 BAD ASPECTS: Saturn square the Sun, Moon and Venus; the Moon opposition to the Sun and Venus; Mercury square Neptune; Mars conjunction Uranus. 
@@ -4487,15 +4136,11 @@ We consider first the mind of this woman, to obtain the key to her condition, fo
 
 This figure shows an unfortunate person, for the mind is in a bad state. Saturn is square to the Sun, Moon and Venus. The Moon, which signifies the instinctual mind, is in opposition to the Sun and Venus, robbing life of all joy, making her pessimistic and prone to look only on the dark side. Mercury, the planet of reason, is square to Neptune, the planet of spiritual perception, all these testimonies tell us that nothing we may say is likely to make her cheer up. 
 
-[668] 
-
 Such a poor person is a burden to herself and her associates all through life, so they shun her while she is able to take care of herself, that is to say, while the body is in comparative health; but the afflictions which make her mentally miserable also have their effect on the body, for as we mould the lines of our face to an exact expression of our habitual mode of thought, so are also our other organs shaped and built by this force, and the evil effects show themselves as disease. The Sun, Venus and Mercury in the Eighth House indicate that when sickness comes she is going to let it take its course, and will make no effort to fight for life. 
 
 The nature of her sickness is seen to be heart trouble, from the fact that the Sun is on the cusp of Leo, which governs the heart, in conjunction with Venus, which governs the venous circulation, and opposed by the Moon, which rules the liquids of the body. The Sun, Venus and the Moon are squared by Saturn, the planet of obstruction, and thus we see that there was a natal tendency to poor heart action and faulty elimination of liquids. 
 
 In 1913 the Sun progressed to the conjunction of Uranus and Mars. The aspects of the Sun are always effective for three years, one and one-half years before the aspect is exact, and a like period after. Therefore it was still active in 1914, when the Moon progressed to the conjunction of Saturn and thus enlivened this square to the Sun, Moon and Venus. Neptune, the watery planet, also reached the natal Sun by transit, and the poor soul was released by the total obstruction of the liquids; in other words, the dropsical condition stopped the heart. 
-
-[669] 
 
 The main effort in such cases should be to get the person to fight. If she could have been made to see that it was her gloomy outlook on life that was responsible for her sickness and that if she did not fight here and now, she would have a harder fate to face next time, it might have helped. No person who is naturally pessimistic can change over night, but he can do a whole lot to cultivate optimism if given years, and we should strive to inculcate this attitude of mind in all, besides trying to be cheerful ourselves, for that is a healer's greatest asset. 
 
@@ -4510,15 +4155,11 @@ MC:  0 CAPRICORN  MOON: 3:42 SCORPIO   URANUS: 5:18 LEO
 2H:  0 TAURUS     MARS: 29:18 LEO 
 3H:  0 GEMINI     JUPITER: 23:58 LEO 
 
-[670] 
-
 The type of mind is denoted particularly here by the square of Saturn to the Sun. This occurs from Cardinal signs, Saturn being essentially dignified and therefore very powerful, while the Sun is in Libra, the sign of its debility and greatest weakness. Life and joy come from the Sun, while Saturn gives gloom and death. Therefore we readily see that this person must be subject to gloom and melancholy. The sextile of Uranus to Mercury, the significator of mind, tells that the person is endowed with an almost uncanny lightning-like intuition, and the square of Uranus to the Moon and Venus shows that she is indiscreet and too weak for her own good. 
 
 You will notice that this square occurs from the Fixed signs, Leo and Scorpio, and it is therefore a condition which would be very difficult to overcome. Leo governs the heart, and Scorpio the generative organs, and thus her secret is told in the horoscope in unmistakable terms. 
 
 When such secrets of the soul are revealed by this sacred science, it shows us also the hidden springs which are causes of the acts we are only too prone to condemn, and it teaches us that we should pity rather than censure a soul impelled by such an almost irresistible force as here revealed. 
-
-[671] 
 
 The act itself should, of course, never be condoned, but the tenderest kindness and the greatest effort to succor should be given to the one who is thus afflicted. 
 
@@ -4527,8 +4168,6 @@ The horoscope is, as you know, the clock of destiny, and the position taken by t
 Now comes the question as to what can be done for this poor person. As we have often stated, the first effort should be toward instilling hope into the mind. Persons suffering with melancholy are always centering their thoughts upon self, always seeing their own desperate position which appears to them more hopeless than that of any other. If their interest can be diverted from self then the battle is more than half won; that should be the first consideration of the healer. 
 
 A simple diet should be prescribed and no highly seasoned dishes permitted a person of this nature. The sextile of Uranus to the Sun and Mercury and the trine of Neptune to Jupiter shows that an appeal along the higher lines, an appeal to the better and noble nature will not meet with a rebuff and it is possible on account of these positions to elevate this person's ideas and ideals so that she may become a servant of humanity instead of driftwood upon the ocean of life. You will note that all the good aspects are from Cardinal and Fixed signs, that the Common signs are void of planets, hence there is a great deal of hope. There is energy in this person, and when this energy has been turned in the right direction, when she has become thoroughly aroused, then the great sinner may become the great saint, and a blessing to humanity. 
-
-[673] 
 
 NO. 35--SOLITARY VICE, TUBERCULOSIS
 
@@ -4545,13 +4184,9 @@ GOOD ASPECTS: Neptune trine Uranus; Uranus sextile the Moon; Jupiter sextile Ven
 
 BAD ASPECTS: Mars conjunction Venus; Sun conjunction Saturn; Uranus square Mercury; Neptune opposition the Moon. 
 
-[674] 
-
 This is the horoscope of a woman born May 21, 1883, at 5 A.M., Longitude 88 West, Latitude 44, North. The student will at once note that five of the nine planets are placed in the Twelfth House, which governs sorrow, trouble, and self-undoing. This has been a characteristic feature in the life. She is a competent worker in her vocation, stenography and bookkeeping, but has, nevertheless, found herself unable to obtain employment at various times and has been at those times on the verge of starvation. This is due to the opposition of Saturn and Neptune from the Twelfth House to the Moon in the Sixth, the house of employment. Jupiter, though exalted in the Second House and sextile Venus, is unable to offset this. 
 
 With respect to the mental qualities we find that Mercury is square to Uranus, and the Moon in opposition to Neptune. This makes her skeptical, critical, very peculiar and spasmodic in her mental processes, with an extremely morbid imagination. Uranus is placed in the Fifth House, governing courtship and the relations among the sexes prior to marriage, and therefore, squared to Mercury, it indicates an unconventional turn of the mind, with a tendency to promiscuous relations, involving public criticism and slander. That in itself is an extremely unfortunate configuration and condition in a life, but it is only one of a number of afflictions which point in the same direction, for in the Twelfth House, the house of sorrow, trouble, and self-undoing, we find Mars, the planet of dynamic energy, conjoined with Venus, the planet of love, in the fiery sign Aries, another inflammatory sex condition; and last, but not least, we note Neptune in Taurus, opposition to the Moon in Scorpio, which governs the generative organs. This latter is the worst of all for it makes the mind almost insane upon this subject, conjuring up before the imagination morbid pictures, and where the configuration occurs from the Sixth and Twelfth Houses it is a certain indication of inveterate self-abuse. Naturally such practices in time undermine the health and disease shows itself in the weakest parts of the body according to the indications of the horoscope. In the present case we find Saturn on the cusp of Gemini in conjunction with the Sun. Gemini is the sign which rules the lungs, and the conjunction as we see is almost exact, wanting only 26 minutes. Thus the cold, crystallizing saturnine forces are hardening the lungs and producing the disease we know as tuberculosis, which is slowly sapping her vitality and carrying her toward an early grave. It may be noted in passing that her mother succumbed to tuberculosis at the very moment when she gave birth to this child. Mars by progression has now arrived close to the place of Neptune at birth. This will unfortunately in all probability accentuate the morbid craving indicated by Neptune opposition to the Moon, so that if left to herself the end will not be very far off. 
-
-[676] 
 
 Tuberculosis though serious is not, however, necessarily fatal if she can be put under restraint so that it becomes impossible for her to gratify the passion for solitary vice that saps her vitality. Thus the spells of gloom which are also resultant from the conjunction of Saturn and the Sun in the Twelfth House can be overcome if she can be given a brighter outlook upon life. Then the usual measures employed against tuberculosis may probably save her. The occult has an intense attraction for her, indicated by the exact trine of Neptune and Uranus, also by Uranus sextile to the Moon. By playing upon those strings and giving her a new interest in life it may be possible to win her away from her present morbid channels of thought. At any rate salvation from the evil configurations should always be sought through the good aspects and substituting the higher for the lower may help this poor soul out of her condition. Very little can be done physically until the mental condition is changed. A healer with either Libra or Aquarius rising and whose Saturn is not in Libra or Scorpio would be beneficial, but much firmness is needed here and therefore probably the Fixed sign would be preferable. 
 
@@ -4566,28 +4201,21 @@ MC:  19    CAPRICORN  MOON: 21:33 TAURUS     URANUS: 22:07 LIBRA
 2H:   5    GEMINI     MARS: 11:22 VIRGO 
 3H:  27    GEMINI     JUPITER: 1:46 CAPRICORN 
 
-[677] 
-
 GOOD ASPECTS: Mercury sextile Jupiter; the Moon trine Venus. 
 
 BAD ASPECTS: The Sun conjunction Uranus; Mars conjunction Venus; Neptune square to Saturn. 
 
 This is the horoscope of a young man born in Boynton, Missouri, October 11, 1889, at 6:00 P.M. It is a strange case which has puzzled all the doctors who have been consulted. About five years ago the joins in arms, legs and neck commenced to grow stiff, so that by degrees he became unable to move. At the same time there appeared, instead of the nails, a strange horny growth on fingers and toes; this grows to a certain length or stage of development and then it begins to suppurate. This facilities the removal of growth and when that has been completed the suppuration ceases, but immediately a new growth begins to form. Lately the jaws have also commenced to grow stiff, so that now the young man can no longer eat with comfort. 
 
-[678] 
-
 The very first glance at the horoscope shows us Uranus, the planet of spasmodic action, in conjunction with the Sun, and in the sign Libra, which rules the kidneys. We also note that Uranus is parallel with Mars, the planet of dynamic energy; this shows at once that the action of the kidneys is spasmodic and irregular so that instead of the poisons being eliminated from the body by these organs they are retained and naturally contaminate the whole system. But we also find that this patient is poisoned to a greater extend than ordinarily by a venereal disease contracted about seven to eight years ago; this is shown as a tendency in the natal horoscope by the conjunction of Venus, the planet of love, with Mars, the planet of dynamic energy, in the Fifth House, which governs courtship and the relations of the sexes before marriage. Saturn is also there with his obstructive hand and square to Neptune, the planet which governs strange and unusual conditions. Neptune is in the sign Gemini, which rules the hands and fingers. About seven years ago, when the Moon was in Pisces by progression, the sign which governs the toes, it was in opposition to Venus, Mars and Saturn and square to Neptune. We base our judgment that the disease was contracted at that time on the fact that the afflicting planets are in Common or flexible signs; hence it could have been avoided much effort. As it is, the most drastic measures for purification of the blood must be adopted; the patient should be brought to California, treated with daily sun-baths to facilitate copious perspiration, and given nothing but water and fruit juices until the system has been cleansed. 
 
-[679] 
+#### <h4 id="planetary-hours">PLANETARY HOURS</h4>
 
-PLANETARY HOURS 
 Measures for the alleviation of pain and disease cannot always be deferred to a propitious time, but where that is possible the student will find that remedial treatments given under the propitious planetary rays are much more efficient and successful than when applied haphazard. Therefore the following hints may be found valuable. 
 
 Surgeons who have watched and tabulated these matters inform us that the operations performed while the Moon is increasing in light (see Page 521) are generally more successful, less liable to cause complications and more quickly healed than operations performed with the Moon is decreasing in light. 
 
 When a surgical operations seems unavoidable consult the ephemeris and if the Moon is going through the sign which rules that part of the body where the operation is to be performed defer it for a day to two till the Moon gets well into the next sign. This will minimize the danger of complications, and not infrequently the symptoms change so that operation is avoided. 
-
-[680] 
 
 Always look to the benefics and the good aspects in a horoscope for directions concerning how and when to treat. Suppose the Sun, the giver of life, is square to Saturn, the planet of stagnation and death. The tendency is to rob the person of vitality and if he is taken ill recuperation will be very slow. Then, to give the most effective and energizing treatment apply the principle of the day and hour rulers as given in our Simplified Scientific Astrology; choose the Sun's day (Sunday) and the hours ruled by the Sun on any day. Treatments on Mars' day (Tuesday) and the hours ruled by Mars on any day, will also build up wonderfully. Similarly with the other planets, their virtues and power is greatest during the days ruled by them. 
 
@@ -4595,16 +4223,14 @@ But the so-called malefics also have their virtues. Poultices intended to draw s
 
 Treatments received on the day and in the hours of the planets which are well aspected in the patient's horoscope are always more powerful and beneficial than they would be if given in the hours and on the days ruled by planets afflicted when he was born. 
 
-[681] 
-
 Six tables of Planetary Hours covering the twelve months, usable for both North and South Latitude will be found in Simplified Scientific Astrology. 
 
-CONCLUSION 
+#### <h4 id="conclusion">CONCLUSION</h4>
+
 We have now given an exposition of the methods we use in diagnosis of disease. This we trust will enable the student to work out the subject of himself in greater detail. And as he uses it unselfishly to aid suffering human beings, the spiritual qualities will be developed in him so that The Message Of The Stars revealed in each horoscope will be as an open book. Thus used, this wonderful science will aid him to lay up treasures in heaven as nothing else in the world can do. And we pray God that this book may be the means of fostering soul growth in all who aspire to follow the dual commandment of Christ: 
 
 "Preach the Gospel and Heal the sick." 
 
-IMPORTANT NOTICE 
-Despite all we can say, many people write enclosing money for horoscopes, forcing us to spend valuable time writing letters of refusal and giving us the inconvenience of returning their money. Please do not thus trouble us, as it will avail nothing. We use Astrology only for healing purposes. If you are sick we will gladly help you, but we do not advise people in worldly affairs either gratis or for pay. 
+#### <h4 id="important-notice">IMPORTANT NOTICE</h4>
 
-
+Despite all we can say, many people write enclosing money for horoscopes, forcing us to spend valuable time writing letters of refusal and giving us the inconvenience of returning their money. Please do not thus trouble us, as it will avail nothing. We use Astrology only for healing purposes. If you are sick we will gladly help you, but we do not advise people in worldly affairs either gratis or for pay.
