@@ -1,29 +1,29 @@
-[1] 
+---
+title: "Ancient and Modern Initiation"
+language: 'en'
+original_title: "Ancient and Modern Initiation"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
 
-Ancient and Modern Initiation 
-by 
-Max Heindel
+<h1 id="ancient-and-modern-initiation">Ancient and Modern Initiation</h1> 
 
-[1865-1919] 
+by Max Heindel [1865-1919] 
 
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+PO Box 713  
+Oceanside, California, 92054, U.S.A.  
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters
-Mt. Ecclesia
-PO Box 713
-Oceanside, California, 92054, U.S.A. 
+### <h3 id="foreword">FOREWORD</h3>
 
-
-[3] 
-
-FOREWORD
 Within the pages of this little volume are to be found some of the most priceless gems belonging to the deepest phases of the Christian religion. These gems are the result of the spiritual investigations of that inspired and illumined Seer, Max Heindel, the authorized messenger of the Elder Brothers of the Rose Cross, who are working to disseminate throughout the Western World the deeper spiritual meanings which are both concealed and revealed within the Christian religion. 
 
 The various important steps as outlined in the life of our Savior, Christ Jesus, form the general plan of Initiation for humanity. Max Heindel in this work gives a deeper and more mystic insight into this alchemical process as it takes place in the body of man himself. For we are but "a little lower than the angels...and it doth not yet appear what we shall be." 
 
 This volume will be a welcome addition to the libraries of many ministers and church organizations throughout the world. It will sound a new note of inspiration and encouragement to all those who labor in His name. 
-
-[4] 
 
 The Rosicrucian School has a priceless heritage in the opportunity to promulgate, during this crucial time in the spiritual evolution of men and nations, the esoteric teachings belonging to the Christian Church. "Unto whomsoever much is given, of him shall be much required." Therefore it is in the spirit of reverence and humility that the Rosicrucian Fellowship dedicates the priceless teachings contained within this little book to the service of all humanity. 
 
@@ -32,60 +32,44 @@ May its Truth enlighten, its Wisdom guide, and its Love enfold all those who com
 "The kingdom of heaven is like unto a merchantman, seeking goodly pearls. Who, when he had found one pearl of great price, went and sold all that he had and bought it." 
 
 
+### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
-[5] 
+- [Foreword](#foreword)
 
-TABLE OF CONTENTS
-PART I
+- [PART I: THE TABERNACLE IN THE WILDERNESS](#part-1)
+ 
+    - [Chapter I: The Atlantean Mystery Temple](#part-1-chapter-1)
+    - [Chapter II: The Brazen Altar and Laver](#part-1-chapter-2)
+    - [Chapter III: East Room of the Temple](#part-1-chapter-3)
+    - [Chapter IV: The Ark of the Covenant](#part-1-chapter-4)
+    - [Chapter V: The Sacred Shekinah Glory](#part-1-chapter-5)
+    - [Chapter VI: The New Moon and Initiation](#part-1-chapter-6)
 
-THE TABERNACLE IN THE WILDERNESS 
-Foreword 
-Chapter I: The Atlantean Mystery Temple 
-Chapter II: The Brazen Altar and Laver 
-Chapter III: East Room of the Temple 
-Chapter IV: The Ark of the Covenant 
-Chapter V: The Sacred Shekinah Glory 
-Chapter VI: The New Moon and Initiation 
-PART II
+- [PART II: THE CHRISTIAN MYSTIC INITIATION](#part-2)
 
-THE CHRISTIAN MYSTIC INITIATION 
-Chapter I: The Annunciation and Immaculate Conception 
-Chapter II: Mystic Rite of Baptism 
-Chapter III: The Temptation 
-Chapter IV: The Transfiguration 
-Chapter V: The Last Supper and Footwashing 
-Chapter VI: Gethsemane, the Garden of Grief 
-Chapter VII: The Stigmata and the Crucifixion 
+    - [Chapter I: The Annunciation and Immaculate Conception](#part-2-chapter-1)
+    - [Chapter II: Mystic Rite of Baptism](part-2-chapter-2)
+    - [Chapter III: The Temptation](#part-2-chapter-3)
+    - [Chapter IV: The Transfiguration](#part-2-chapter-4)
+    - [Chapter V: The Last Supper and Footwashing](#part-2-chapter-5)
+    - [Chapter VI: Gethsemane, the Garden of Grief](#part-2-chapter-6)
+    - [Chapter VII: The Stigmata and the Crucifixion](#part-2-chapter-7)
 
+### <h3 id="illustrations">ILLUSTRATIONS</h3>
 
-[6] 
+- [The Tabernacle in the Wilderness](#illustration-the-tabernacle-in-the-wilderness)
+- [The Brazen Laver](#illustration-the-brazen-layer)
+- [The Holy Place and the Holy of the Holies](#illustration-the-holy-place-and-the-holy-of-the-holies)
+- [The Tabernacle in the Wilderness](#illustration-the-tabernacle-in-the-wilderness)
+- ["The Shadow of Good Things to Come"](#illustration-the-shadow-of-good-things-to-come)
+- [Christian Mystic Initiation: The Path Through the Heart](#illustration-christian-mystic-initiation-the-path-through-the-heart)
+- [The Nine Steps of the Christian Mystic Initiation](#illustration-the-nine-steps-of-the-christian-mystic-initiation)
+- [The Process of Transfiguration](#illustration-the-process-of-transfiguration)
 
-ILLUSTRATIONS 
-The Tabernacle in the Wilderness 
-The Brazen Laver 
-The Holy Place and the Holy of the Holies 
-The Tabernacle in the Wilderness
-"The Shadow of Good Things to Come" 
-Christian Mystic Initiation: The Path Through the Heart 
-The Nine Steps of the Christian Mystic Initiation 
-The Process of Transfiguration 
+<h2 id="part-1">PART ONE: THE TABERNACLE IN THE WILDERNESS</h2>
 
+CHAPTER ONE: THE ATLANTEAN MYSTERY TEMPLE
 
-[7] 
-
-PART ONE 
-
-THE TABERNACLE IN THE WILDERNESS 
-
-
-
-
-
-[9] 
-
-CHAPTER ONE 
-
-THE ATLANTEAN MYSTERY TEMPLE 
 Ever since mankind, the prodigal spirit sons of our Father in Heaven, wandered into the wilderness of the world and fed upon the husks of its pleasures, which starve the body, there has been within man's heart a soundless voice urging him to return; but most men are so engrossed in material interests that they hear it not. The Mystic Mason who has heard this inner voice feels impelled by an inner urge to seek for the Lost Word; to build a house of God, a temple of the spirit, where he may meet the Father face to face and answer His call. 
 
 Nor is he dependent upon his own resources in this quest, for our Father in Heaven has Himself prepared a way marked with guide posts which will lead us to Him if we follow. But as we have forgotten the divine Word and would be unable now to comprehend its meaning, the Father speaks to us in the language of symbolism, which both hides and reveals the spiritual truths we must understand before we can come to Him. Just as we give to our children picture books which reveal to their nascent minds intellectual concepts which they could not otherwise understand, so also each God-given symbol has a deep meaning which could not be learned without that symbol. 
