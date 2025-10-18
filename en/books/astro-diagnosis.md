@@ -1,227 +1,192 @@
-[1] 
+---
+title: "Astro-Diagnosis"
+language: 'en'
+original_title: "Astro-Diagnosis"
+original_language: 'en'
+author: 'Max Heindel, Augusta Foss Heindel'
+original_source_file: 'self'
+---
 
-ASTRO-DIAGNOSIS
+<h1 id="astro-diagnosis">ASTRO-DIAGNOSIS</h1>
+
 A GUIDE TO HEALING
 
-by
+by Max Heindel and Augusta Foss Heindel
 
-Max Heindel
+A TREATISE ON MEDICAL ASTROLOGY AND DIAGNOSIS FROM THE HOROSCOPE AND HAND
 
-and
+THE ROSCICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-Augusta Foss Heindel
+### <h3 id="foreword">FOREWORD</h3>
 
-
-
-A TREATISE ON MEDICAL ASTROLOGY AND DIAGNOSIS
-FROM THE HOROSCOPE AND HAND
-
-
-
-THE ROSCICRUCIAN FELLOWSHIP
-International Headquarters
-Mt. Ecclesia
-P.O. Box 713
-Oceanside, California, 92054, USA
-
-[3] 
-
-Table of Contents 
-
-
-FOREWORD 
 Of the thirty years devoted by the undersigned to research and the study of astrology and astro-diagnosis, a large part was spent with Max Heindel, first as co-student and companion and later as his wife. A portion of the astro-diagnosis in this book have been taken from Mr. Heindel's former monthly lessons to esoteric students, and this fact together with our association in astrological research is the reason why this volume goes out under both our names, even though he passed into the larger life in 1919. 
 
 This book may differ in a few instances from other books which deal with the science of diagnosis from the planets. The authors of this volume, however, have had opportunities such as few other writers on this subject have had. The Rosicrucian Fellowship, of which they were the founders, has a very successful healing department. A description of the method used in this department may be found on page 440. Of the thousands of patients who have written to us for healing since the department started, each one has sent in data describing the disease from which he suffered, its symptoms and peculiarities, the doctor's diagnosis, etc. This information was in every case carefully compared with the patient's horoscope, and a detailed study made of both. The most striking as well as typical cases were used as monthly lessons for the esoteric students of the Fellowship. From these lessons we have chosen the best to print in this book. At no time have we diagnosed direct to the patient. His horoscope, however, has given us a wonderful key to the disease from which he was suffering and its causes, and it has been used as a guide in giving advice regarding diet, exercise, environment, and similar matters. 
 
 We do not claim that this book is the last word on the subject, neither do we claim that it is infallible. The knowledge which we have gained by years of unceasing labor we are sharing with the world. We give it freely, and if others can add to it, we shall rejoice. 
 
+\- Augusta Foss Heindel 
 
-        --Augusta Foss Heindel 
+### <h3 id="introduction">INTRODUCTION</h3>
 
-[5] 
-
-INTRODUCTION
 Astro-diagnosis is the science and art of obtaining scientific knowledge regarding disease and its causes as shown by the planets, as well as the means of overcoming it. This new science of diagnosis and healing is slowly permeating the medical world. It is a science which will not set aside the old school of medicine and diagnosis, but it is an addition to the old school. The latter, we feel, will in time accept this newer method. At present many physicians are willing to cooperate with the newer schools of osteopathy, nature-cure, chiropractic, etc., and these open-minded men are ready to accept a more advanced method of diagnosis when it has been demonstrated to them as reliable. 
 
 Depending entirely upon outward symptoms in locating disease and relying wholly upon the action of medicine have cost millions of lives in the ages past. But man is now becoming too enlightened, too broadminded to stick stubbornly to old methods which have been proved by many mistakes, by the sacrifice of many lives, to be inadequate. Medical science with its improved instruments, the X-ray, iri-diagnosis, blood tests, etc., has made great strides toward better methods of diagnosis. But the time is not far hence when it will be generally conceded that to know in advance where human chain is weakest, to understand by the science of the stars where the practitioner may look for trouble, is by far the best way. Doctors will then arrive very quickly at the cause of disease, and they will also know what methods will be best to effect a cure. When they can use the key to the soul, the horoscope, they will find the treatment to which the patient will respond. They will also know the character of the patient, whether his will is weak, and whether he is negative or emotional. They will then be guided in their methods of treatment according to the information thus obtained. 
 
 Disease may be classed under two heads, latent and active. "Symptoms" give indication of disease which is in process of materializing. Latent tendencies to disease are shown by the planetary afflictions in the horoscope of birth. In some instances these tendencies may remain latent during the entire life because the native has lived in such a manner that no strain was put on the body which would give the planets a chance to develop their latent weakness. If there is a weak link in a chain but no strain is put upon it, the chain will remain whole. So in the case of planetary afflictions, they too may remain latent. But let the native abuse his body and at once these weak spots will appear. This gives us the second class of disease, the active type. When the planetary aspects have been stirred into action and disease has appeared, the progressed planetary positions give the diagnostician the key to it. 
 
-[7] 
-
 When the medical men, the scientists, the occult scientists, and the astrologers have reached a friendly understanding, when the budding discoveries and the broader thoughts of man are no longer at variance with each other, then humanity will know that the terrors and the pain of the operating room are things of the past. Then buoyant health will be universally enjoyed, for mankind will be taught how to live in order to avoid suffering. The doctors will be just as anxious to keep people well as they now are to help them to recover from disease. The time is not far hence, we believe, when the government will feel the necessity of paying doctors a yearly salary to teach the people how to avoid the pitfalls which lead to disease. 
 
-[8] 
+### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
-TABLE OF CONTENTS
-Foreword 
-Introduction 
-PART I 
-Chapter I. The Anatomical and Physiological Properties of the Signs 
-Chapter II: Rulership and Qualities - Anatomy and Physiology Correlated to the Zodiac 
-Pathological Qualities of the Signs 
-Physiological Afflictions of the Signs 
-Anatomy and Physiology Correlated to the Planets 
-Pathological Qualities of the Planets 
-Astrological Affinities of the Sense Organs 
-Chapter III. Sympathy and Antipathy 
-[9]
+- [Foreword](#foreword)
+- [Introduction](#introduction)
 
+- [PART I](#part-1)
+    - [Chapter I. The Anatomical and Physiological Properties of the Signs](#chapter-1)
+    - [Chapter II: Rulership and Qualities - Anatomy and Physiology Correlated to the Zodiac](#chapter-2) 
+        - [Pathological Qualities of the Signs](#pathological-qualities-of-the-signs)
+        - [Physiological Afflictions of the Signs](#physiological-afflictions-of-the-signs)
+        - [Anatomy and Physiology Correlated to the Planets](#anatomy-and-physiology-correlated-to-the-planets)
+        - [Pathological Qualities of the Planets](#pathological-qualities-of-the-planets)
+        - [Astrological Affinities of the Sense Organs](#astrological-affinities-of-the-sense-organs)
+    - [Chapter III. Sympathy and Antipathy](#chapter-3)
+    - [Chapter IV. The Science of Right Living](#chapter-4)
+    - [Chapter V. The Mentality](#chapter-5)
+    - [Chapter VI. The Sixth House Influences](#chapter-6)
+    - [Chapter VII. Preliminary Steps in Diagnosing](#chapter-7)
+    - [Chapter VIII. Hints and Helps for the Healer](#chapter-8)
+    - [Chapter IX. Aphorisms](#chapter-9)
+    - [Chapter X. Diagnosing from the Hands and Finger Nails](#chapter-10)
 
-Chapter IV. The Science of Right Living 
-Chapter V. The Mentality 
-Chapter VI. The Sixth House Influences 
-Chapter VII. Preliminary Steps in Diagnosing 
-Chapter VIII. Hints and Helps for the Healer 
-Chapter IX. Aphorisms 
-Chapter X. Diagnosing from the Hands and Finger Nails 
-[10] 
+- [PART II: Diagnosis From Horoscopes](#part-2)
 
+    - [Chapter XI: A Lesson in Directing](#chapter-11)
+    - [Chapter XII: The Ears](#chapter-12)
+        - [1A: Ears and Nerves](#1a-ears-and-nerves)
+        - [1B: The Ears](#1b-the-ears)
+        - [1C: The Ears -- Abscesses in Frontal Bone](#1c-the-ears-abscesses-in-frontal-bone)
+    - [Chapter XIII: The Eyes](#chapter-13)
+        - [2A: The Eyes](#2a-the-eyes)
+        - [2B: The Eyes](#2b-the-eyes)
+        - [2C: The Eyes](@2c-the-eyes)
+        - [2D: Eye Trouble](#2d-eye-trouble)
+        - [2E; 2F: The Eyes](#2e-2f-the-eyes)
+        - [2G: The Eyes](#2g-the-eyes)
+        - [2H: The Eyes](#2h-the-eyes)
+    - [Chapter XIV: The Throat](#chapter-14)
+        - [3A; 3B: Tonsils, Adenoids](#3a-3b-tonsils-adenoids)
+        - [3C: Throat and Tonsils](#3c-throat-and-tonsils)
+        - [3D: Goiter; Tonsils](#3d-goiter-tonsils)
+        - [3E: Goiter](#3e-goiter)
+        - [3F: The Vocal Organs](#3f-the-vocal-organs)
+        - [3G: Loss of Speech](#3g-loss-of-speech)
+    - [Chapter XV: The Lungs](#chapter-15)
+        - [4A: Tuberculosis](#4a-tuberculosis)
+        - [4B: Tuberculosis](#4b-tuberculosis)
+        - [4C: Tuberculosis](#4c-tuberculosis)
+    - [Chapter XVI: The Heart](#chapter-16)
+        - [5A: The Heart](#5a-the-heart)
+        - [5B: Heart; Kidneys](#5b-heart-kidneys)
+        - [5C: The Heart](#5c-the-heart)
+        - [5D: The Heart](#5d-the-heart)
+        - [5E: The Heart](#5e-the-heart)
+    - [Chapter XVII: The Stomach](#chapter-17)
+        - [6A: Stomach Trouble and Tuberculosis](#6a-stomach-trouble-and-tuberculosis)
+        - [6B: Stomach Trouble and Inflammation of Kidneys](#6b-stomach-trouble-and-inflammation-of-kidneys)
+        - [6C: The Pylorus](#6c-the-pylorus)
+        - [6D: Stomach and Kidney Trouble](#6d-stomach-and-kidney-trouble)
+    - [Chapter XVIII: The Kidneys](#chapter-18)
+        - [7A: The Kidneys](#7a-the-kidneys)
+        - [7B: The Kidneys and Mastoiditis](#7b-the-kidneys-and-mastoiditis)
+        - [7C: General Breakdown](#7c-general-breakdown)
+        - [7D: Renal Calculi](#7d-renal-calculi)
+        - [7E: Renal Circulation](#7e-renal-circulation)
+        - [7F: Bladder Trouble](#7f-bladder-trouble)
+        - [7G: Diabetes](#7g-diabetes)
+        - [7H: Diabetes](#7h-diabetes)
+    - [Chapter XIX: Sex](#chapter-19)
+        - [8A, 8B: Sex and Throat](#8a-8b-sex-and-throat)
+        - [8C: Sex](#8c-sex)
+        - [8D, 8E: Gonorrhea](#8d-8e-gonorrhea)
+        - [8F: Venereal Disease](#8f-venereal-disease)
+        - [8G: Venereal Disease](#8g-venereal-disease)
+        - [8H: Uterine Trouble](#8h-uterine-trouble)
+        - [8I: Childbirth](#8i-childbirth)
+        - [8J: Abortion](#8j-abortion)
+    - [Chapter XX: The Spine](#chapter-20)
+        - [9A: Spinal Trouble](#9a-spinal-trouble)
+        - [9B: Spinal Trouble](#9b-spinal-trouble)
+        - [9C: Tuberculosis of the Spine](#9c-tuberculosis-of-the-spine)
+        - [9D, 9E: Inability to Walk](#9d-9e-inability-to-walk)
+    - [Chapter XXI: The Liver and Gall Bladder](#chapter-21)
+        - [10A: The Liver](#10a-the-liver)
+        - [10B: Gallstones](#10b-gallstones)
+        - [10C, 10D: Gallstones](#10-10d-gallstones)
+    - [Chapter XXII: The Circulation](#chapter-22)
+        - [11A: Palpitation of the Heart](#11a-palpitation-of-the-heart)
+        - [11B: Sluggish Circulation and Cataracts](#11b-sluggish-circulation-and-cataracts)
+        - [11D: Varicose Veins](#11d-varicose-veins)
+        - [11E: Restricted Circulation](#11e-restricted-circulation)
+        - [11F: Pernicious Anemia](#11f-pernicious-anemia)
+        - [11G: Rheumatism and Impure Blood](#11g-rheumatism-and-impure-blood)
+        - [11H, 11I: Rheumatism](#11h-11i-rheumatism)
+    - [Chapter XXIII: Leprosy](#chapter-23)
+        - [12A, 12B: Leprosy](#12a-12b-leprosy)
+    - [Chapter XXIV: Paralysis](#chapter-24)
+        - [13A: Paralysis](#13a-paralysis)
+        - [13B: Paralysis and Hardening of the Arteries](#13b-paralysis-and-hardening-of-the-arteries)
+        - [13C: Facial Paralysis](#13c-facial-paralysis)
+        - [13D, 13E: Paralysis](#13d-13e-paralysis)
+        - [13F: Infantile Paralysis](#13f-infantile-paralysis)
+        - [13G: Rickets and Tetany](#13g-rickets-and-tetany)
+    - [Chapter XXV: The Nerves](#chapter-25)
+        - [14A, 14B: Nervous Breakdown and Paralysis](#14a-14b-nervous-breakdown-and-paralysis)
+        - [14C, 14D: Defective Walk](#14c-14d-defective-walk)
+        - [14E: Exaggerated Hysteria](#14e-exaggerated-hysteria)
+        - [14F: Obstruction of the Pneumogastric Nerve](#14f-obstruction-of-the-pneumogastric-nerve)
+    - [Chapter XXVI: The Bones](#chapter-26)
+        - [15A: Injury to Femur](#15a-injury-to-femur)
+        - [15B: Arthritic Muscular Atrophy](#15b-arthritic-muscular-atrophy)
+        - [15C: Osteomyelitis--Inflammation of Marrow of Bone](#15c-osteomyelitis-inflammation-of-marrow-of-bone)
+    - [Chapter XXVII: Spirit Control](#chapter-27)
+        - [16A: Spirit Control](#16a-spirit-control)
+        - [16B: Obsession; Tonsils](#16b-obsession-tonsils)
+    - [Chapter XXVIII: The Ductless Glands](#chapter-28)
+        - [17A, 17B: Thyroid Gland Trouble](#17a-17b-thyroid-gland-trouble)
+        - [17C: The Thymus Gland](#17c-the-thymus-gland)
+        - [17D: The Adrenals](#17d-the-adrenals)
+    - [Chapter XXIX: Special Conditions](#chapter-29)
+        - [18A: Deficiency in Lymph](#18a-deficiency-in-lymph)
+        - [18B: Polypi and Kidney Trouble](#18b-polypi-and-kidney-trouble)
+        - [18C: Pyorrhea](#18c-pyorrhea)
+        - [18D: Auto Intoxication](#18d-auto-intoxication)
+        - [18E: Peritonitis](#18e-peritonitis)
+        - [18F: Arteriosclerosis](#18f-arteriosclerosis)
+        - [18G: Typhoid and Spinal Trouble](#18g-typhoid-and-spinal-trouble)
+        - [18H: Narcotics; Cigarettes](#18h-narcotics-cigarettes)
+    - [Chapter XXX: Insanity](#chapter-30)
+        - [19A: A Mental Case](#19a-a-mental-case)
+        - [19B: Insanity](#19b-insanity)
+        - [19C: Insanity, Obsession, and Tuberculosis](#19c-insanity-obsession-and-tuberculosis)
+    - [Chapter XXXI: Asthma](#chapter-31)
+        - [20A: Asthma](#20a-asthma)
+        - [20B: Asthma; Morphine Addiction](#20b-asthma-morphine-addiction)
+        - [20C, 20D, 20E: Asthma](#20c-20d-20e-asthma)
+    - [Chapter XXXII: Cancer](#chapter-32)
+        - [21A: Cancer](#21a-cancer)
+        - [21B: Cancer](#21b-cancer)
+    - [Chapter XXXIII: Rosicrucian Healing](#chapter-33)
+        - [How the Rosicrucians Heal the Sick](#how-the-rosicrucians-heal-the-sick)
 
+CHAPTER I: THE ANATOMICAL AND PHYSIOLOGICAL PROPERTIES OF THE SIGNS
 
-PART II 
-Diagnosis From Horoscopes 
+ARIES
 
-
-Chapter XI 
-A Lesson in Directing 
-Chapter XII: The Ears 
-1A: Ears and Nerves 
-1B: The Ears 
-1C: The Ears -- Abscesses in Frontal Bone 
-Chapter XIII: The Eyes 
-2A: The Eyes 
-2B: The Eyes 
-2C: The Eyes 
-2D: Eye Trouble 
-2E; 2F: The Eyes 
-2G: The Eyes 
-2H: The Eyes 
-Chapter XIV: The Throat 
-3A; 3B: Tonsils, Adenoids 
-3C: Throat and Tonsils 
-3D: Goiter; Tonsils 
-3E: Goiter 
-3F: The Vocal Organs 
-3G: Loss of Speech 
-Chapter XV: The Lungs 
-4A: Tuberculosis 
-4B: Tuberculosis 
-4C: Tuberculosis 
-[11]
-
-
-Chapter XVI: The Heart 
-5A: The Heart 
-5B: Heart; Kidneys 
-5C: The Heart 
-5D: The Heart 
-5E: The Heart 
-Chapter XVII: The Stomach 
-6A: Stomach Trouble and Tuberculosis 
-6B: Stomach Trouble and Inflammation of Kidneys 
-6C: The Pylorus 
-6D: Stomach and Kidney Trouble 
-Chapter XVIII: The Kidneys 
-7A: The Kidneys 
-7B: The Kidneys and Mastoiditis 
-7C: General Breakdown 
-7D: Renal Calculi 
-7E: Renal Circulation 
-7F: Bladder Trouble 
-7G: Diabetes 
-7H: Diabetes 
-Chapter XIX: Sex 
-8A, 8B: Sex and Throat 
-8C: Sex 
-8D, 8E: Gonorrhea 
-8F: Venereal Disease 
-8G: Venereal Disease 
-8H: Uterine Trouble 
-8I: Childbirth 
-8J: Abortion 
-[12]
-
-
-Chapter XX: The Spine 
-9A: Spinal Trouble 
-9B: Spinal Trouble 
-9C: Tuberculosis of the Spine 
-9D, 9E: Inability to Walk 
-Chapter XXI: The Liver and Gall Bladder 
-10A: The Liver 
-10B: Gallstones 
-10C, 10D: Gallstones 
-Chapter XXII: The Circulation 
-11A: Palpitation of the Heart 
-11B: Sluggish Circulation and Cataracts 
-11D: Varicose Veins 
-11E: Restricted Circulation 
-11F: Pernicious Anemia 
-11G: Rheumatism and Impure Blood 
-11H, 11I: Rheumatism 
-Chapter XXIII: Leprosy 
-12A, 12B: Leprosy 
-[13]
-
-
-Chapter XXIV: Paralysis 
-13A: Paralysis 
-13B: Paralysis and Hardening of the Arteries 
-13C: Facial Paralysis 
-13D, 13E: Paralysis 
-13F: Infantile Paralysis 
-13G: Rickets and Tetany 
-Chapter XXV: The Nerves 
-14A, 14B: Nervous Breakdown and Paralysis 
-14C, 14D: Defective Walk 
-14E: Exaggerated Hysteria 
-14F: Obstruction of the Pneumogastric Nerve 
-Chapter XXVI: The Bones 
-15A: Injury to Femur 
-15B: Arthritic Muscular Atrophy 
-15C: Osteomyelitis--Inflammation of Marrow of Bone 
-Chapter XXVII: Spirit Control 
-16A: Spirit Control 
-16B: Obsession; Tonsils 
-Chapter XXVIII: The Ductless Glands 
-17A, 17B: Thyroid Gland Trouble 
-17C: The Thymus Gland 
-17D: The Adrenals 
-[14]
-
-
-Chapter XXIX: Special Conditions 
-18A: Deficiency in Lymph 
-18B: Polypi and Kidney Trouble 
-18C: Pyorrhea 
-18D: Auto Intoxication 
-18E: Peritonitis 
-18F: Arteriosclerosis 
-18G: Typhoid and Spinal Trouble 
-18H: Narcotics; Cigarettes 
-Chapter XXX: Insanity 
-19A: A Mental Case 
-19B: Insanity 
-19C: Insanity, Obsession, and Tuberculosis 
-Chapter XXXI: Asthma 
-20A: Asthma 
-20B: Asthma,; Morphine Addiction 
-20C, 20D, 20E: Asthma 
-Chapter XXXII: Cancer 
-21A: Cancer 
-21B: Cancer 
-Chapter XXXIII: Rosicrucian Healing 
-How the Rosicrucians Heal the Sick 
-[15] 
-
-CHAPTER I 
-
-THE ANATOMICAL AND PHYSIOLOGICAL PROPERTIES 
-OF THE SIGNS
-
-ARIES 
 When Aries, which has rule over the head, is on the Ascendant, we have a person whose actions are impulsive and aggressive. He acts and speaks quickly. An excess of life force is generated by these people. This is intensified when the dynamic Mars, which is the ruler of Aries, is also in Aries on the Ascendant, or when the life-giving Sun is there. When these planets add their vital energies to the Ascendant, we have a person who is very apt to dissipate his forces. People who express Aries very strongly are apt to be quick of temper of an explosive kind, but will not hold spite. Those with Aries on the Ascendant, or with the Sun or Mars there, are quick to anger but also ready to forgive. 
 
 Aries rules the head, the cerebral hemispheres of the brain, the upper jaw, the eyes, and the face. The nose, however, is ruled by the martial sign of Scorpio. 
