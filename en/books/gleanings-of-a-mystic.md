@@ -13,17 +13,14 @@ By Max Heindel [1865-1919]
 
 A SERIES OF ESSAYS ON PRACTICAL MYSTICISM
 
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, U.S.A.  
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters
-Mt. Ecclesia
-P.O. Box 713
-Oceanside, California, U.S.A. 
+### <h3 id="foreword">Foreword</h3>
 
-
-[3] 
-
-Foreword
 The contents of this book are among the last writings of Max Heindel, the mystic. They contain some of his deepest thoughts, and are the result of years of research and occult investigation. He, too, could say as did Parsifal: "Through error and through suffering I came, through many failures and through countless woes." At last he was given the living water with which he was able to quench the spiritual thirst of many souls. He also developed to their depths pity and love, and could feel the heart throbs of suffering humanity. 
 
 Strong souls are usually endowed with great energy and impulse, and through these very forces, they forge to the front ranks though they often suffer much. As a result they are filled with compassion for others. The writer of these lessons sacrificed his physical body on the altar of service. 
@@ -34,79 +31,44 @@ In Gleanings of a Mystic are found twenty-four lessons which were formerly sent 
 
 Augusta Foss Heindel 
 
+### <h3 id="table-of-contents">Table of Contents</h3>
 
+- [Chapter I: Initiation: What It Is and Is Not - Part I](#chapter-1)
+- [Chapter II: Initiation: What It Is and Is Not - Part II](#chapter-2)
+- [Chapter III: The Sacrament of Communion - Part I](#chapter-3)
+- [Chapter IV: The Sacrament of Communion - Part II](#chapter-4)
+- [Chapter V: The Sacrament of Baptism](#chapter-5)
+- [Chapter VI: The Sacrament of Marriage](#chapter-6)
+- [Chapter VII: The Unpardonable Sin and Lost Souls](#chapter-7)
+- [Chapter VIII: The Immaculate Conception](#chapter-8)
+- [Chapter IX: The Coming Christ](#chapter-9)
+- [Chapter X: The Coming Age](#chapter-10)
+- [Chapter XI: Meat and Drink as Factors of Evolution](#chapter-11)
+- [Chapter XII: A Living Sacrifice](#chapter-12)
+- [Chapter XIII: Magic, White and Black](#chapter-13)
+- [Chapter XIV: Our Invisible Government](#chapter-14)
+- [Chapter XV: Practical Precepts for Practical People](#chapter-15)
+- [Chapter XVI: Sound, Silence, and Soul Growth](#chapter-16)
+- [Chapter XVII: The "Mysterium Magnum" of the Rose Cross](#chapter-17)
+- [Chapter XVIII: Stumbling Blocks](#chapter-18)
+- [Chapter XIX: The Lock of Upliftment](#chapter-19)
+- [Chapter XX: The Cosmic Meaning of Easter - Part I](#chapter-20)
+- [Chapter XXI: The Cosmic Meaning of Easter - Part II](#chapter-21)
+- [Chapter XXII: The Newborn Christ](#chapter-22)
+- [Chapter XXIII: Why I am a Rosicrucian](#chapter-23)
+- [Chapter XXIV: The Object of the Rosicrucian Fellowship](#chapter-24)
 
-[5] 
+### <h3 id="chapter-1">CHAPTER I: Initiation: What It Is and Is Not - Part I</h3>
 
-Table of Contents
-Chapter I 
-Initiation: What It Is and Is Not--Part I - Page 6
-Chapter II 
-Initiation: What It Is and Is Not--Part II - Page 14
-Chapter III 
-The Sacrament of Communion--Part I - Page 21
-Chapter IV 
-The Sacrament of Communion--Part II - Page 28
-Chapter V 
-The Sacrament of Baptism - Page 37
-Chapter VI 
-The Sacrament of Marriage - Page 46
-Chapter VII 
-The Unpardonable Sin and Lost Souls - Page 54
-Chapter VIII 
-The Immaculate Conception - Page 61
-Chapter IX 
-The Coming Christ - Page 69
-Chapter X 
-The Coming Age - Page 77
-[6] 
-
-
-Chapter XI 
-Meat and Drink as Factors of Evolution - Page 85
-Chapter XII 
-A Living Sacrifice - Page 94
-Chapter XIII 
-Magic, White and Black - Page 101
-Chapter XIV 
-Our Invisible Government - Page 108
-Chapter XV 
-Practical Precepts for Practical People - Page 114
-Chapter XVI 
-Sound, Silence, and Soul Growth - Page 121
-Chapter XVII 
-The "Mysterium Magnum" of the Rose Cross - Page 130
-Chapter XVIII 
-Stumbling Blocks - Page 138
-Chapter XIX 
-The Lock of Upliftment - Page 147
-Chapter XX 
-The Cosmic Meaning of Easter--Part I - Page 153
-Chapter XXI 
-The Cosmic Meaning of Easter--Part II - Page 160
-Chapter XXII 
-The Newborn Christ - Page 167
-Chapter XXIII 
-Why I am a Rosicrucian - Page 173
-Chapter XXIV 
-The Object of the Rosicrucian Fellowship - Page 180
-[7] 
-
-CHAPTER I
-Initiation: What It Is and Is Not--Part I
 It is no rare occurrence to receive questions relating to Initiation, and we are also frequently asked to state whether this order or that society is genuine, and whether the initiations they offer to all comers who have the price are bona fide. For that reason it seems necessary to write a treatise on the subject so that students of the Rosicrucian Fellowship may have an official statement for reference and guidance in the future. 
 
 In the first place let it be clearly understood that we consider it reprehensible to express condemnation of any society or order, no matter what its practices. It may be perfectly sincere and honest according to its light. We do not believe that we rise in the opinion of discriminating men and women by speaking in disparaging terms of others; neither are we laboring under the delusion that we have all the truth and the other societies are plunged in Egyptian darkness. We reiterate what we have often said before, that all religions have been given to mankind by the Recording Angels, who know the spiritual requirements of each class, nation, and race, and have the intelligence to give each a form of worship perfectly suited to its particular need; that thus Hinduism is suited to the Hindu, Mohammedanism to the Arab, and the Christian religion to those born in the Western Hemisphere. 
 
 The Mystery Schools of each religion furnish to the more advanced members of the race or nation embracing it a higher teaching, which if lived, advances them into a higher sphere of spirituality than their brethren. But as the religion of the backward races is of a lower order than the religion of the pioneers, the Christian nations, so also the Mystery Teaching of the East is more elementary than that of the West, and the Hindu or Chinese Initiate is on a correspondingly lower rung of the ladder of attainment than the Western Mystic. Please ponder this well so that you may not fall a victim to misguided people who try to persuade others that the Christian religion is crude compared with oriental cults. Ever westward in the wake of the shining sun, the light of the world, has gone the star of empire, and is it not reasonable to suppose that the spiritual light has kept pace with civilization, or even preceded it as thought precedes action? We hold that such is the case, that the Christian religion is the loftiest yet given to man, and that to repudiate the Christian religion, esoteric or exoteric, for any of the older systems is analogous to preferring the older textbooks of science to the newer ones which embrace discoveries to date. 
 
-[9] 
-
 Neither are the practices of Eastern aspirants to the higher life to be imitated by Westerners; we refer particularly to the breathing exercises. They are both beneficial and necessary to the unfoldment of the Hindu, but it is otherwise with the Western aspirant. To him it is dangerous to practice breathing exercises for soul unfoldment; they will even prove subversive of soul growth, and they are, moreover, absolutely unnecessary. The reason is this: 
 
 During involution the threefold spirit has become gradually incrusted in a threefold body. In the Atlantean Epoch man was at the nadir of materiality. We are just now rounding the lowest point on the arc of involution, and starting upward on the arc of evolution. At this point, then, all mankind is immured in this earthly prison house to such a degree that spiritual vibrations are almost killed. This is, of course, particularly true of the backward races and the lower classes in the Western world. The atoms in such backward race bodies are vibrating at an exceedingly low rate, and when in the course of time one of these people develops to a point where it is possible to further him upon the path of attainment, it is necessary to raise this vibratory pitch of the atom so that the vital body, which is the medium of occult growth, may to a certain extent be liberated from the deadening forces of the physical atom. This result is attained by means of breathing exercises, which in time accelerate the vibration of the atom, and allow the spiritual growth necessary to the individual to take place. 
-
-[10] 
 
 These exercises may also be used by a great number of people in the Western world, particularly those who are not at all concerned about their spiritual advancement. But even among those who desire soul growth there are many who are not yet at the point where the atoms of their bodies have evolved to such a pitch of vibration that acceleration beyond the usual measure would injure them. Here the breathing exercises would do no harm; but if given to a person who is really at the point where he can enter the path of advancement ordinarily mapped out for the Hindu's precocious brothers and sisters in the West, in other words, when he is nearly ready for Initiation and when he would be benefited by spiritual exercises, then the case is far otherwise. 
 
@@ -114,30 +76,19 @@ During the aeons which we have spent in evolution since the time when we were in
 
 There are many orders in the West which profess to initiate anyone who has the price. Some of these orders have names closely resembling our own, and we are constantly asked by students whether they are affiliated with us. In order to settle this once and for all, please note that the Rosicrucian Fellowship has constantly taught that no spiritual gift may ever be traded for money. If you bear this in mind, you may know we have no connection with any order which demands money for the transference of spiritual power. He who has something to give of a truly spiritual nature will not barter it for money. I received a particular injunction to this effect from the Elder Brothers in the Rosicrucian Temple, when they told me to go to the English speaking world as their messenger, a claim I do not expect you to believe save as you see it justified by fruits. 
 
-[12] 
-
 Now, however, about Initiation: What is it? Is it ceremony as claimed by these other orders? If so, any order can certainly invent ceremonies of a more or less elaborate kind. They may by flowing robes and clashing swords appeal to the emotions; they may appeal to the sense of wonder and awe by rattling chains and by deep sounding gongs, and thus produce in their members an "occult feeling." Many revel in the adventures and experiences of the hero in "The Brother of the Third Degree," thinking that this is surely Initiation, but I tell you that it is very far from being the case. No ceremony can ever give to any one that inward experience which constitutes Initiation, no matter how much is charged or how fearful the oaths, how awful or beautiful the ceremony, or how gorgeous the robes, any more than passing through a ceremony can convert a sinner and make him a saint, for conversion is to the exoteric religionist exactly what Initiation is in the higher mysticism. Please consider this point thoroughly, and you will have the key to the problem. 
 
 Do you think that any one could go to a person of depraved character and agree to convert him for a certain sum and carry out his part of the agreement? Surely you know that no amount of money could bring about that change in a man's character. Ask a true convert where he got his religion and how he got it. One may tell you that he received it upon the road as he was walking along; another says that the light and the change came to him in the solitude of his room; another that the light struck him as it struck Paul upon the road to Damascus, and forced him to change. Every one has a different experience, and the outward manifestation of that inward experience is that it changes the man's whole life from the very least to the very greatest aspect. 
 
 So it is with Initiation; it is an inward experience, entirely separate and apart from any ceremonial whatever, and therefore it is an absolute impossibility that any one could sell it to any one else. Initiation changes a man's whole life. It gives him a confidence that he never possessed before. It clothes him with a mantle of authority that never can be taken from him. No matter what the circumstances in life, it sheds a light upon his whole being that is simply wonderful. Nor can any ceremony effect such a change. We therefore hold that anyone who offers initiation into an occult order by ceremonials to everyone who has the price, brands himself as an imposter. For the true teacher, if he were approached by an aspirant with an offer of money for spiritual attainment, would answer indignantly in the words used by Peter to Simon the sorcerer, who offered him money for spiritual powers: "Thy silver perish with thee." 
 
-[14] 
+### <h3 id="chapter-2">CHAPTER II: Initiation: What It Is and Is Not - Part II</h3>
 
-CHAPTER II
-Initiation: What It Is and Is Not--Part II
 To obtain a better understanding of what constitutes Initiation and what the prerequisites are, let the student fix firmly in his mind the fact that humanity as a whole is slowly progressing upon the path of evolution, thus very slowly, almost imperceptibly, attaining higher and higher states of consciousness. The path of evolution is a spiral when we regard it from the physical side only, but a lemniscate when viewed in both its physical and spiritual phases. (See the diagram below of chemical caduceus on the right from The Rosicrucian Cosmo-Conception. 
-
-
-
-
-
 
 In the lemniscate, or figure 8, there are two circles which converge to a central point, which circles may be taken to symbolize the immortal spirit, the evolving ego. One of the circles signifies its life in the physical world from birth to death. During this span of time it sows a seed by every act and should reap in return a certain amount of experience. But as we may sow seed in the field and lose return on that which falls on stony ground, among thorns, etc., so also may the seed of opportunity be wasted because of neglect to till the soil and the life will then be barren of fruit. Conversely, as diligence and care in cultivation increase the productive power of garden seed enormously, so earnest application to the business of life--improvement of opportunities to learn life's lessons and extract from our environment the experience it holds--brings added opportunities; and at the end of the life-day the ego finds itself at the door of death laden with the richest fruits of life. 
 
 The objective work of physical existence over, the race run, and the day of action spent, the ego enters upon the subjective work of assimilation accomplished during its sojourn in the invisible worlds, which it traverses during the period from death to birth, symbolized by the other ring of the lemniscate. As the method of accomplishing this assimilation has been most minutely described in various parts of our literature, it is needless to repeat it here. Suffice it to say that at the time when an ego arrives at the central point in the lemniscate, which divides the physical from the psychic worlds and which we call the gate of birth or death according to whether the ego is entering or leaving the realm where we, ourselves, happen to be at the time, it has with it an aggregate of faculties or talents acquired in all its previous lives, which it may then put to usury or bury during the coming life-day as it sees fit; but upon the use it makes of what it has, depends the amount of soul growth it makes. 
-
-[16] 
 
 If for many lives it caters mainly to the lower nature, which lives to eat, drink and be merry, or if it dreams its life away in metaphysical speculations upon nature and God, sedulously abstaining from all unnecessary action, it is gradually passed and left behind by the more active and progressive. Great companies of these idlers form what we know as "backward races"; while the active, alert, and wide-awake who improve a larger percentage of their opportunities, are the pioneers. Contrary to the commonly accepted idea, this applies also to those engaged in industrial work. Their money-getting is only an incident, an incentive, and entirely apart from this phase their work is as spiritual as or even more so than that of those who spend their time in prayer to the prejudice of useful work. 
 
@@ -145,9 +96,7 @@ From what has been said, it will be clear that the method of soul growth as acco
 
 This exceedingly slow and tedious process is perfectly suited to the needs of the masses; but there are some who habitually exhaust the experiences commonly given, thus requiring and meriting a larger scope for their energies. Difference of temperament is responsible for their division into two classes. 
 
-[17] 
-
-One class, led by their devotion to Christ, simply follow the dictates of the heart in their work of love for their fellows--beautiful characters, beacon lights of love in a suffering world, never actuated by selfish motives, always ready to forego personal comfort to aid others. Such were the saints; they worked as they prayed; they never shirked in either direction. Nor are they dead today. The earth would be a barren wilderness in spite of all its civilization did not their beautiful feet circle it on errands of mercy, were not the lives of sufferers made brighter by the light of hope which radiates from their beautiful faces. Had they but the knowledge possessed by the other class they would indeed outdistance all in the race for the Kingdom. 
+One class, led by their devotion to Christ, simply follow the dictates of the heart in their work of love for their fellows - beautiful characters, beacon lights of love in a suffering world, never actuated by selfish motives, always ready to forego personal comfort to aid others. Such were the saints; they worked as they prayed; they never shirked in either direction. Nor are they dead today. The earth would be a barren wilderness in spite of all its civilization did not their beautiful feet circle it on errands of mercy, were not the lives of sufferers made brighter by the light of hope which radiates from their beautiful faces. Had they but the knowledge possessed by the other class they would indeed outdistance all in the race for the Kingdom. 
 
 Mind is the predominating feature of the other class. In order to aid it in its efforts toward attainment, mystery schools were early established wherein the world drama was played to give the aspiring soul while he was entranced, answers to the questions of the origin and destiny of humanity. When awakened, he was instructed in the sacred science of how to climb higher by following the method of nature--which is meditating upon the experience, and incorporating the essential moral to make thereby commensurate soul growth; also with this important feature, that whereas in the ordinary course of things a whole life is devoted to sowing and a whole post-mortem existence to ruminating and incorporating the soul substance, this cycle of a thousand years, more or less, may be reduced to a day, as held by the mystic maxim, "A day is as a thousand years, and a thousand years as one day." To be explicit, whatever work has been done during a single day, if ruminated over at night before crossing the neutral point between waking and sleeping, may thus be incorporated into the consciousness of the spirit as usable soul power. When that exercise is faithfully performed, the sins of each day thus reviewed are actually blotted out, and the man commences each day as if it were a new life, with the added soul power gained in all the preceding days of his probationary life. 
 
