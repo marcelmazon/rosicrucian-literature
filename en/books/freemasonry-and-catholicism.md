@@ -7,34 +7,31 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-Freemasonry and Catholicism 
+<h1 id="freemasonry-and-catholicism">Freemasonry and Catholicism</h1>
 
 by Max Heindel [1865-1919] 
 
 AN EXPOSITION OF THE COSMIC FACTS UNDERLYING THESE TWO GREAT INSTITUTIONS AS DETERMINED BY OCCULT INVESTIGATION
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters
-P.O. Box 713
-Oceanside, California, 92054, U.S.A.
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+P.O. Box 713  
+Oceanside, California, 92054, U.S.A.  
 
-TABLE OF CONTENTS 
-Part I: Lucifer, the Rebel Angel 
-Part II: The Masonic Legend 
-Part III: The Queen of Sheba 
-Part IV: Casting the Molten Sea 
-Part V: The Mystery of Melchisedec 
-Part VI: Spiritual Alchemy 
-Part VII: The Philosopher's Stone--What Is It and How It Is Made 
-Part VIII: The Path of Initiation 
-Part IX: Armageddon, the Great War, and the Coming Age 
+<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
+- [Part I: Lucifer, the Rebel Angel](#part-1)
+- [Part II: The Masonic Legend](#part-2)
+- [Part III: The Queen of Sheba](#part-3)
+- [Part IV: Casting the Molten Sea](#part-4)
+- [Part V: The Mystery of Melchisedec](#part-5)
+- [Part VI: Spiritual Alchemy](#part-6)
+- [Part VII: The Philosopher's Stone - What Is It and How It Is Made](#part-7)
+- [Part VIII: The Path of Initiation](#part-8)
+- [Part IX: Armageddon, the Great War, and the Coming Age](#part-9)
 
-[5] 
+### <h3 id="part-1">PART I: LUCIFER, THE REBEL ANGEL</h3>
 
-PART I 
-
-LUCIFER, THE REBEL ANGEL 
 The Rosicrucian Fellowship aims to educate and construct, to be charitable even to those from whom we differ, and never to vent the venom of vituperation, spite, or malice even upon those who seem deliberately determined to mislead. We revere the Catholic religion; it is as divine in its essence as Mystic Masonry—both are rooted in hoary antiquity, both were born to further the aspiration of the striving soul, and both have a message and a mission in the world not apparent upon the surface today, because man-made ceremonial has hidden the kernel of divinity in each as a scale, and it is the purpose of this work to uncover that scale and show the Cosmic purpose of these two Great Organizations, which are so bitterly antagonistic to each other. We do not aim to reconcile them, however, for though they are both designed to further the emancipation of the soul, their methods are different, and the attributes of the soul fostered by one method will indeed be very different from the quality of the soul nurtured in the other School. Therefore, the strife must continue until the battle for the souls of men has been lost and won. The issue is not, however, the persistence of the Masonic or Catholic institutions; but the outcome will determine the nature of the training humanity will receive in the remaining Periods of our evolution. We shall endeavor to show the cosmic root of both of these institutions, the purpose of each and the training which each will inaugurate, if successful; also the nature of the soul quality which may be expected to result from each method. The writer is not a Mason, and thus he is free to say what he knows without fear of violating obligations, but he is a Mason at heart, and therefore frankly opposed to Catholicism. 
 
 Our opposition is not fanatical, or blind to the merits of the Catholic Religion, however. The Catholic is our brother as well as the Mason; we would not say a disparaging, irreverent word against this faith, or those who live by it, and should we seem to do so, in any passage, the wrong will be due to inadvertence. The reader is requested to note that we distinguish sharply between the Catholic Hierarchy and the Catholic Religion, but the former are also our brothers; we would not throw stones either physically or morally, for we know our own shortcomings too well to attack others. Thus our opposition is not personal, but spiritual, and to be fought with the weapon of the Spirit--Reason. We firmly believe it to be for the everlasting good of mankind that the Masons should win, and cannot therefore be sure to present the Catholic side in a perfectly unbiased manner, but we ask our students for whom this is written, to believe that we shall try to be just. Of the Cosmic Facts we are certain, but bias may creep into our conclusions, therefore each must use his reason to test what we have to say, viz., "prove all things and hold fast that which is good." 
