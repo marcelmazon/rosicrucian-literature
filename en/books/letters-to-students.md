@@ -1,133 +1,127 @@
-[1] 
+---
+title: "Letters to Students"
+language: 'en'
+original_title: "Letters to Students"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
 
 Max Heindel's
 
-Letters To Students
+<h1 id="letters-to-students">Letters To Students</h1>
 
 DECEMBER 1910 TO JANUARY 1919, INCLUSIVE 
 
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-THE ROSICRUCIAN FELLOWSHIP
-International Headquarters
-Mt. Ecclesia
-P.O. Box 713
-Oceanside, California, 92054, USA
+<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
+- [Foreword](#foreword)
+- [1. Friendship as an Ideal](#letter-1)
+- [2. Soul Growth through Doing](#letter-2)
+- [3. Unselfish Service to Others](#letter-3)
+- [4. A Plea for the Church](#letter-4)
+- [5. Value of Right Feeling](#letter-5)
+- [6. Healing the Sick](#letter-6)
+- [7. Baptism of Water and of Spirit](#letter-7)
+- [8. Ruling our Stars](#letter-8)
+- [9. Invisible Guardians of Humanity](#letter-9)
+- [10. Flesh Food and Alcohol](#letter-10)
+- [11. Preparations for Removal to Mt. Ecclesia](#letter-11)
+- [12. Ground-Breaking for First Building on Mt. Ecclesia](#letter-12)
+- [13. Generative Purity the Ideal for the West](#letter-13)
+- [14. The Coming Age of Air](#letter-14)
+- [15. The Role of Stimulants in Evolution](#letter-15)
+- [16. Necessity for Devotion](#letter-16)
+- [17. Stragglers in Evolution](#letter-17)
+- [18. Keynote of the Rosicrucian Teachings](#letter-18)
+- [19. Sacredness of Spiritual Experiences](#letter-19)
+- [20. Initiative and Personal Freedom](#letter-20)
+- [21. The Christ Spirit and the Spiritual Panacea](#letter-21)
+- [22. The Mystic Bread and Wine](#letter-22)
+- [23. Descending and Ascending Arcs of Evolution](#letter-23)
+- [24. The Rosicrucian Fellowship, a Spiritual Center](#letter-24)
+- [25. The Mystic Message of Christmas](#letter-25)
+- [26. Service to Others during the New Year](#letter-26)
+- [27. Siegfried, the Truth Seeker](#letter-27)
+- [28. The Incorporation and Future Plans of the Fellowship](#letter-28)
+- [29. Freemasonry, Co-Masonry, and Catholicism](#letter-29)
+- [30. The Role of Evil in the World](#letter-30)
+- [31. Christ, and His Second Coming](#letter-31)
+- [32. The Vital Body of Jesus](#letter-32)
+- [33. Improving our Opportunities](#letter-33)
+- [34. A Plea for Purity](#letter-34)
+- [35. The Faust Myth and the Masonic Legend](#letter-35)
+- [36. Eastern and Western Methods of Development](#letter-36)
+- [37. The Reason for the Many Different Cults](#letter-37)
+- [38. What the Pupil May Expect of the Teacher](#letter-38)
+- [39. Where Shall We Seek Truth, and How Shall We Know It?](#letter-39)
+- [40. Why the Truth Seeker Must Live in the World](#letter-40)
+- [41. A Method of Discerning Truth from its Imitation](#letter-41)
+- [42. Our Responsibility in Giving Out Truth](#letter-42)
+- [43. Woman's Suffrage and Moral Equality](#letter-43)
+- [44. The Vice of Selfishness and the Power of Love](#letter-44)
+- [45. Initiation not to be Attained through Breathing Exercises](#letter-45)
+- [46. The World War and Infant Mortality](#letter-46)
+- [47. The Invisible Helpers and their Work on the Battle Field](#letter-47)
+- [48. The World War and Universal Brotherhood](#letter-48)
+- [49. Desire - A Two-Edged Sword](#letter-49)
+- [50. Spiritual Prosperity for the New Year](#letter-50)
+- [51. Love, Wisdom, and Knowledge](#letter-51)
+- [52. Concentration in the Rosicrucian Work](#letter-52)
+- [53. The Cosmic Meaning of Easter](#letter-53)
+- [54. Waste through Scattering One's Forces](#letter-54)
+- [55. Epigenesis and Future Destiny](#letter-55)
+- [56. The Need of Spreading the Teachings](#letter-56)
+- [57. Astrology as an Aid in Healing the Sick](#letter-57)
+- [58. Unnatural Means of Attainment](#letter-58)
+- [59. The Race Spirits and the New Race](#letter-59)
+- [60. The War an Operation for Spiritual Cataract](#letter-60)
+- [61. Cyclic Movements of the Sun](#letter-61)
+- [62. The Teacher's Debt of Gratitude](#letter-62)
+- [63. Spiritual Teachers - True and False](#letter-63)
+- [64. The Battle that Rages Within](#letter-64)
+- [65. Easter, a Promise of Newness of Life](#letter-65)
+- [66. Daily Exercises in Soul Culture](#letter-66)
+- [67. The Real Heroes of the World](#letter-67)
+- [68. The Work of the Race Spirits](#letter-68)
+- [69. Struggles of the Aspiring Soul](#letter-69)
+- [70. Building for the Future Life](#letter-70)
+- [71. Descent of the Christ Life in the Fall](#letter-71) 
+- [72. The Reason for the Trials that Beset the Occult Student](#letter-72)
+- [73. Spiritual Stock-Taking during the Holy Season](#letter-73)
+- [74. All Occult Development Begins with the Vital Body](#letter-74)
+- [75. Serving Where Best Fitted to Serve](#letter-75)
+- [76. "Lost Souls" and Stragglers](#letter-76)
+- [77. The Unnecessary Fear of Death](#letter-77)
+- [78. Heart Development and Initiation](#letter-78)
+- [79. Sacrifice a Factor in Spiritual Progress](#letter-79)
+- [80. Adjusting the Teachings to the Understanding of Others](#letter-80)
+- [81. The Value of Reviewing Past Lessons](#letter-81)
+- [82. Taming an Unruly Member](#letter-82)
+- [83. An Inner Tribunal of Truth](#letter-83)
+- [84. Epigenesis and the Law of Causation](#letter-84)
+- [85. The Present Sorrow and the Coming Peace](#letter-85)
+- [86. God - The Source and Goal of Existence](#letter-86)
+- [87. The Necessity of Putting Talents to Use](#letter-87)
+- [88. The Nobility of All Labor](#letter-88)
+- [89. The Aquarian Age and the New Covenant](#letter-89)
+- [90. Meat Eating and Fur Wearing](#letter-90)
+- [91. Tolerance of Other's Beliefs](#letter-91)
+- [92. The Purpose of War and Our Attitude Toward It](#letter-92)
+- [93. The Inner Power and the Responsibility That Goes With It](#letter-93)
+- [94. Equipoise of Great Help in Times of Stress](#letter-94)
+- [95. The Optimistic Attitude and Faith in Ultimate Good](#letter-95)
+- [96. Increasing the Life of the Archetype](#letter-96)
+- [97. The Law of Success in Spiritual Matters](#letter-97)
 
-[3] 
+### <h3 id="foreword">FOREWORD</h3>
 
-TABLE OF CONTENTS
-Foreword 
-NUMBER AND TITLES OF LETTERS 
-1. Friendship as an Ideal 
-2. Soul Growth through Doing 
-3. Unselfish Service to Others 
-4. A Plea for the Church 
-5. Value of Right Feeling 
-6. Healing the Sick 
-7. Baptism of Water and of Spirit 
-8. Ruling our Stars 
-9. Invisible Guardians of Humanity 
-10. Flesh Food and Alcohol 
-11. Preparations for Removal to Mt. Ecclesia 
-12. Ground-Breaking for First Building on Mt. Ecclesia 
-13. Generative Purity the Ideal for the West 
-14. The Coming Age of Air 
-15. The Role of Stimulants in Evolution 
-16. Necessity for Devotion 
-17. Stragglers in Evolution 
-18. Keynote of the Rosicrucian Teachings 
-19. Sacredness of Spiritual Experiences 
-20. Initiative and Personal Freedom 
-21. The Christ Spirit and the Spiritual Panacea
-[4]
-
-
-22. The Mystic Bread and Wine 
-23. Descending and Ascending Arcs of Evolution 
-24. The Rosicrucian Fellowship, a Spiritual Center 
-25. The Mystic Message of Christmas 
-26. Service to Others during the New Year 
-27. Siegfried, the Truth Seeker 
-28. The Incorporation and Future Plans of the Fellowship 
-29. Freemasonry, Co-Masonry, and Catholicism 
-30. The Role of Evil in the World 
-31. Christ, and His Second Coming 
-32. The Vital Body of Jesus 
-33. Improving our Opportunities 
-34. A Plea for Purity 
-35. The Faust Myth and the Masonic Legend 
-36. Eastern and Western Methods of Development 
-37. The Reason for the Many Different Cults 
-38. What the Pupil May Expect of the Teacher 
-39. Where Shall We Seek Truth, and How Shall We Know It? 
-40. Why the Truth Seeker Must Live in the World 
-41. A Method of Discerning Truth from its Imitation 
-42. Our Responsibility in Giving Out Truth 
-43. Woman's Suffrage and Moral Equality 
-44. The Vice of Selfishness and the Power of Love 
-[5]
-
-
-45. Initiation not to be Attained through Breathing Exercises 
-46. The World War and Infant Mortality 
-47. The Invisible Helpers and their Work on the Battle Field 
-48. The World War and Universal Brotherhood 
-49. Desire--A Two-Edged Sword 
-50. Spiritual Prosperity for the New Year 
-51. Love, Wisdom, and Knowledge 
-52. Concentration in the Rosicrucian Work 
-53. The Cosmic Meaning of Easter 
-54. Waste through Scattering One's Forces 
-55. Epigenesis and Future Destiny 
-56. The Need of Spreading the Teachings 
-57. Astrology as an Aid in Healing the Sick 
-58. Unnatural Means of Attainment 
-59. The Race Spirits and the New Race 
-60. The War an Operation for Spiritual Cataract 
-61. Cyclic Movements of the Sun 
-62. The Teacher's Debt of Gratitude 
-63. Spiritual Teachers--True and False 
-64. The Battle that Rages Within 
-65. Easter, a Promise of Newness of Life 
-66. Daily Exercises in Soul Culture 
-67. The Real Heroes of the World 
-68. The Work of the Race Spirits 
-69. Struggles of the Aspiring Soul 
-70. Building for the Future Life 
-71. Descent of the Christ Life in the Fall 
-72. The Reason for the Trials that Beset the Occult Student
-[6]
-
-
-73. Spiritual Stock-Taking during the Holy Season 
-74. All Occult Development Begins with the Vital Body 
-75. Serving Where Best Fitted to Serve 
-76. "Lost Souls" and Stragglers 
-77. The Unnecessary Fear of Death 
-78. Heart Development and Initiation 
-79. Sacrifice a Factor in Spiritual Progress 
-80. Adjusting the Teachings to the Understanding of Others 
-81. The Value of Reviewing Past Lessons 
-82. Taming an Unruly Member 
-83. An Inner Tribunal of Truth 
-84. Epigenesis and the Law of Causation 
-85. The Present Sorrow and the Coming Peace 
-86. God--The Source and Goal of Existence 
-87. The Necessity of Putting Talents to Use 
-88. The Nobility of All Labor 
-89. The Aquarian Age and the New Covenant 
-90. Meat Eating and Fur Wearing 
-91. Tolerance of Other's Beliefs 
-92. The Purpose of War and Our Attitude Toward It 
-93. The Inner Power and the Responsibility That Goes With It 
-94. Equipoise of Great Help in Times of Stress 
-95. The Optimistic Attitude and Faith in Ultimate Good 
-96. Increasing the Life of the Archetype 
-97. The Law of Success in Spiritual Matters 
-[7] 
-
-FOREWORD
 For eight years Max Heindel, the mystic and occultist sent out to the students of The Rosicrucian Fellowship a letter each month filled with much valuable information, explaining the cause of many of the difficulties occurring in daily life, not only of individuals but of nations as well, and giving a feasible solution of them. These letters, ninety-seven in number, sent out between Christmas 1910 and January 1919, constitute the subject matter of this book. 
 
 Being the authorized messenger of the Brothers of the Rosicrucian Order and consequently in close touch with them, Mr. Heindel was continuously receiving and giving out occult information to his students relative to the past, present, and future evolution of life and form, which on account of his tutelage under the Brothers of the Order he was able to verify for himself and to which he was able to add many details. The letters in this book give many side lights on the Rosicrucian philosophy and many practical, helpful hints for living the life of the Christian mystic. 
@@ -136,13 +130,8 @@ In many of these letters there is a reference to accompanying lessons. Each lett
 
 In giving these letters to the world we feel that we are making a contribution of permanent value and importance, and one from which the student of esotericism will obtain much assistance in his progress on the Path. 
 
-[9] 
+### <h3 id="letter-1">LETTER NO. 1 - Christmas, 1910 - FRIENDSHIP AS AN IDEAL</h3>
 
-LETTER NO. 1
-
-Christmas, 1910
-
-FRIENDSHIP AS AN IDEAL 
 In a religious movement it is customary to address one another as "sister" and "brother," in recognition of the fact that we are all children of God, who is our common Father. Brothers and sisters are not harmonious at all times, however. Sometimes they are even misguided enough to hate one another, but between friends there can be no feeling but love. 
 
 It was a recognition of this fact which prompted the Christ, our great and glorious Ideal, to say to His disciples: "Henceforth I call you not servants. . . .but friends." (John 15:15) We cannot do better than follow our great Leader in this as in all other things. Let us, therefore, not merely be content with the fraternal relationship, but let us endeavor to be friends in the very holiest and most intimate sense of the word. 
