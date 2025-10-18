@@ -1,7 +1,7 @@
 ---
-title: "Gleanings of a Mystic"
+title: "Freemasonry and Catholicism"
 language: 'en'
-original_title: "Gleanings of a Mystic"
+original_title: "Freemasonry and Catholicism"
 original_language: 'en'
 author: 'Max Heindel'
 original_source_file: 'self'
