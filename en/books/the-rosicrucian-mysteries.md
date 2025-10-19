@@ -18,10 +18,12 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-## LIST OF CONTENTS
+### <h3 id="list-of-contents">LIST OF CONTENTS</h3>
 
 - [CHAPTER I: THE ORDER OF ROSICRUCIANS AND THE ROSICRUCIAN FELLOWSHIP](#chapter-1)
+    - [The Rosicrucian Fellowship](#the-rosicrucian-fellowship)
 - [CHAPTER II: THE PROBLEM OF LIFE AND ITS SOLUTION](#chapter-2)
+    - [The Problem of Life](#the-problem-of-life)
     - [Three Theories of Life](#three-theories-of-life)
     - [We Are Eternal (Poem by the Author)](#we-are-eternal)
 - [CHAPTER III: THE VISIBLE AND THE INVISIBLE WORLDS](#chapter-3)
@@ -29,6 +31,8 @@ Oceanside, California, 92054, USA
     - [The Etheric Region](#the-etheric-region)
     - [The Desire World](#the-desire-world)
     - [The World of Thought](#the-world-of-thought)
+    - [The Region of Concrete Thought](#the-region-of-concrete-thought)
+    - [The Region of Abstract Thought](#the-region-of-abstract-thought)
     - [Creed or Christ (Poem by the Author)](#creed-or-christ)
 - [CHAPTER IV: THE CONSTITUTION OF MAN](#chapter-4)
     - [The Vital Body](#the-vital-body)
@@ -45,7 +49,7 @@ Oceanside, California, 92054, USA
     - [Birth and Child-Life](#birth-and-child-life)
     - [The Mystery of Light, Color and Consciousness](#the-mystery-of-light-color-and-consciousness)
     - [Education of Children](#education-of-children)
-    - [Mount Ecclesia](#mount-ecclesia)
+- [Mount Ecclesia](#mount-ecclesia)
 
 
 ### <h3 id="chapter-1">CHAPTER I: THE ORDER OF ROSICRUCIANS AND THE ROSICRUCIAN FELLOWSHIP</h3>
@@ -886,9 +890,9 @@ At the twenty-first year the birth of the mind transforms the youth into an adul
 
 Thus we have followed the human Spirit around a life cycle from death to birth and maturity; we have seen how immutable law governs its every step and how it is ever encompassed by the loving care of the great and glorious Beings who are the ministers of God. The method of his future development will be explained in a later work which will deal with the Christian Mystic Initiation. 
 
-#### <h4 id="mount-ecclesia">MOUNT ECCLESIA</h4>
+### <h3 id="mount-ecclesia">MOUNT ECCLESIA</h3>
 
-##### <h5 id="a-description-of-the-headquartes-of-the-rosicrucian-fellowship">A DESCRIPTION OF THE HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP</h4>
+#### <h4 id="a-description-of-the-headquartes-of-the-rosicrucian-fellowship">A DESCRIPTION OF THE HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP</h4>
 
 Work in the Physical World requires physical means of accomplishment; therefore a tract of land was bought in 1911 in the town of Oceanside, ninety miles south of Los Angeles, California. Southern California was selected because of the abundance of ether in the atmosphere there, and this spot was found to be particularly favored in that respect. 
 
@@ -920,15 +924,15 @@ If you are a parent, the horoscope will aid you to detect the evil latent in you
 
 In order to aid those who are willing to help themselves we maintain a Correspondence Class in Astrology, but make no mistake, we do not teach fortune-telling. If that is what you are looking for, we have nothing for you. 
 
-##### <h5 id="our-lessons-are-sermons">OUR LESSONS ARE SERMONS</h5>
+#### <h4 id="our-lessons-are-sermons">OUR LESSONS ARE SERMONS</h4>
 
 They embody the highest moral and spiritual principles, together with the loftiest system of ethics, for astrology is, to us, a phase of religion; we never look at a horoscope without feeling that we are in a holy presence, face to face with an immortal Spirit, and our attitude is one of prayer for light to guide that Spirit aright. 
 
-##### <h5 id="we-do-not-cast-horoscapes">WE DO NOT CAST HOROSCOPES</h5>
+#### <h4 id="we-do-not-cast-horoscapes">WE DO NOT CAST HOROSCOPES</h4>
 
 Despite all we can say, many people write enclosing money for horoscopes, forcing us to spend valuable time writing letters of refusal and giving us the trouble of returning their money. Please do not annoy us; it will avail you nothing. 
 
-##### <h5 id="the-course-in-christian-mysticism">THE COURSE IN CHRISTIAN MYSTICISM</h5>
+#### <h4 id="the-course-in-christian-mysticism">THE COURSE IN CHRISTIAN MYSTICISM</h4>
 
 Christ, taught the multitude in parables, but explained the mysteries to His disciples. 
 
@@ -938,17 +942,17 @@ Max Heindel, the founder and leader of The Rosicrucian Fellowship, endeavored to
 
 For that purpose we conduct a correspondence course in Christian Mysticism. The General Secretary may admit applicants to the preliminary course, but advancement into the deeper degrees depends upon merit. It is for those alone who have been tried, and found true. 
 
-##### <h5 id="how-to-apply-for-admission">HOW TO APPLY FOR ADMISSION</h5>
+#### <h4 id="how-to-apply-for-admission">HOW TO APPLY FOR ADMISSION</h4>
 
 Anyone who is not engaged in fortune-telling or similar methods of commercializing spiritual knowledge will, upon request, receive an application blank from the General Secretary, Rosicrucian Fellowship. When this blank is returned properly filled, he may admit the applicant to instruction in either or both correspondence courses. 
 
-##### <h5 id="the-cost-of-the-courses">THE COST OF THE COURSES</h5>
+#### <h4 id="the-cost-of-the-courses">THE COST OF THE COURSES</h4>
 
 There are no fixed fees; no esoteric instruction is ever put in the balance against coin. At the same time, it cannot be given free, for nothing, for those who work to promulgate it must have the necessities of life. Type , paper, machinery, and postage also cost money, and unless you pay your part someone else must pay for you. 
 
 There are a few who cannot contribute, and who need these Teachings as much or more than those who may take comfort from financial ease or affluence. If they make their condition known, they will receive as much attention as the largest contributors, but others are expected to contribute for their own good as well as for the good of the work. Remember, a closed hand that does not give cannot receive. 
 
-##### <h5 id="addenda">ADDENDA</h5>
+#### <h4 id="addenda">ADDENDA</h4>
 
 At the time of the printing of this edition, 1966, The Rosicrucian Fellowship Headquarters continues to carry forward its purpose of disseminating the Western Wisdom Teachings along the lines started by Max Heindel. In addition to the Philosophy and Astrology Courses given by Correspondence, a Course of twenty-eight lessons in Bible Interpretation, is now offered. A number of additional books by Max Heindel have been added to our list of publications, and also those on Bible Interpretation by Corinne Heline (an early pupil of Max Heindel). The number of volumes shipped out from Mt. Ecclesia to all parts of the world increases each year, and several new buildings have been erected since 1921, including more modern living quarters for workers. 
 
