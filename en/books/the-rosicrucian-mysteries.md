@@ -49,8 +49,13 @@ Oceanside, California, 92054, USA
     - [Birth and Child-Life](#birth-and-child-life)
     - [The Mystery of Light, Color and Consciousness](#the-mystery-of-light-color-and-consciousness)
     - [Education of Children](#education-of-children)
-- [Mount Ecclesia](#mount-ecclesia)
-
+- [MOUNT ECCLESIA](#mount-ecclesia)
+  - [A Decription of the Headquarters of the Rosicrucian Fellowship](#a-description-of-the-headquarters-of-the-rosicrucian-fellowship)
+  - [Nuestras lecciones son sermones](#our-lessons-are-sermons)
+  - [Nosotros no hacemos horóscopos](#we-do-not-cast-horoscapes)
+  - [El curso del misticismo cristiano](#the-course-in-christian-mysticism)
+  - [Modo de solicitar la admisión](#how-to-apply-for-admission)
+  - [El costo de los cursos](#the-cost-of-the-courses)
 
 ### <h3 id="chapter-1">CHAPTER I: THE ORDER OF ROSICRUCIANS AND THE ROSICRUCIAN FELLOWSHIP</h3>
 
@@ -892,7 +897,7 @@ Thus we have followed the human Spirit around a life cycle from death to birth a
 
 ### <h3 id="mount-ecclesia">MOUNT ECCLESIA</h3>
 
-#### <h4 id="a-description-of-the-headquartes-of-the-rosicrucian-fellowship">A DESCRIPTION OF THE HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP</h4>
+#### <h4 id="a-description-of-the-headquarters-of-the-rosicrucian-fellowship">A DESCRIPTION OF THE HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP</h4>
 
 Work in the Physical World requires physical means of accomplishment; therefore a tract of land was bought in 1911 in the town of Oceanside, ninety miles south of Los Angeles, California. Southern California was selected because of the abundance of ether in the atmosphere there, and this spot was found to be particularly favored in that respect. 
 
