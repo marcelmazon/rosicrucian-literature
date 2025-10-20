@@ -1,4 +1,4 @@
-p---
+---
 title: 'Los Misterios Rosacruces'
 language: 'es'
 original_title: "The Rosicrucian Mysteries"
@@ -336,7 +336,7 @@ Se han llevado a cabo demostraciones por hombres de ciencia, especialmente por e
 
 Goethe también, en su novela Wahiverwandtschaft (Afinidades electivas), nos da algunas bellísimas ilustraciones con las que parece que hace amarse y odiarse a los átomos por el hecho de que algunas elementos se combinan en seguida, mientras que otras sustancias rehusan el amalgamarse; fenómeno producido por diferentes grados de velocidad a la cual vibran diversos elementos y a una desigual inclinación de sus ejes. Solamente donde hay vida sensible puede haber sentimiento de placer y dolor, tristeza o alegría. 
 
-#### LA REGIÓN ETÉRICA
+#### <h4 id="the-etheric-region">LA REGIÓN ETÉRICA</h4>
 
 Además de los sólidos, líquidos y gaseosos que componen la Región Química del Mundo Físico, hay aún un grado más sutil de materia llamado éter, que interpenetra la combinación atómica de la Tierra y su atmósfera del modo como la ciencia lo enseña. Los científicos nunca han visto, ni pesado, ni medido, ni analizado esta sustancia, pero ellos infieren que debe de existir, dado que por ese medio puede efectuarse la transmisión de la luz y otros fenómenos distintos. Si fuera posible para nosotros el poder vivir en un cuarto de donde se hubiera extraído el aire, podríamos vocear estentoreamente, tocar la mayor de las campanas o bien podríamos disparar el cañón de mayor calibre al lado de nuestro oído y ni aún así oiríamos el menor ruido, porque el aire es el medio de transmisión de las vibraciones del sonido al tímpano del oído, y entonces nos faltaría. Pero si se encendiese una luz eléctrica percibiríamos inmediatamente sus rayos e iluminaría el cuarto a despecho de la falta de aire. De ahí que deba haber una sustancia capaz de ponerlo en vibración, entre la luz eléctrica y nuestros ojos. Este medio los científicos lo han llamado éter, pero es tan sutil que no se ha inventado ningún instrumento por el cual pueda ser medido o analizado, y, como consecuencia, los hombres de ciencia están muy poco informados de ello, aunque forzados a postular su existencia. 
 
@@ -415,7 +415,7 @@ Como el éter es la avenida de las fuerzas vitales y creadoras y como los ángel
 
 Ángeles también predijeron a los padres de Samuel y Sansón el nacimiento de estos gigantes del cerebro y del músculo. A Elisabeth se le presentó el ángel (no arcángel) Gabriel y le anunció el nacimiento de Juan, y después se le apareció a María con el mensaje de que ella había sido elegida para concebir a Jesús. 
 
-#### EL MUNDO DEL DESEO
+#### <h4 id="the-desire-world">EL MUNDO DEL DESEO</h4>
 
 Cuando la vista espiritual se ha desarrollado hasta el punto que se nos hace posible la visión del Mundo del Deseo, se confrontan muchas maravillas con el neófito, pues las condiciones son tan diferentes de las de aquí, que un relato de ellas parecería un cuento de hadas, y tan increíble como éste, todos aquellos que no las han visto. 
 
@@ -501,7 +501,7 @@ Para tal objeto usa generalmente la medida provista por la precesión del Sol. C
 
 Durante los dos mil años que han transcurrido desde aquel momento a nuestros días, el Sol se ha movido hacia atrás unos 27 grados, así que ahora está cerca de los 10 grados del signo Piscis. El Sol se mueve alrededor del completo círculo de Zodíaco en aproximadamente 26.868 años, y como consecuencia, el investigador ocultista puede contar hacia atrás el número de signos o de giros completos que el Sol ha precedido entre el día que cuenta y el momento del suceso que él investigue. De modo que en los marcadores del tiempo celestiales tiene una medida muy aproximada del tiempo aun cuando esté en el Mundo del Deseo, y esta es otra razón muy buena para el estudio de la ciencia astrológica. 
 
-#### EL MUNDO DEL PENSAMIENTO
+#### <h4 id="the-world-of-thought">EL MUNDO DEL PENSAMIENTO</h4>
 
 Cuando hemos alcanzado el desarrollo espiritual necesario para entrar conscientemente en el Mundo del Pensamiento y abandonar el Mundo del Deseo, que es el reino de la luz y del color, pasamos por un estado que el investigador ocultista llama el Gran Silencio. 
 
@@ -511,7 +511,7 @@ Hay dos divisiones principales en el mundo físico: la Región Química y la Reg
 
 Así como manipulamos el material del mundo físico y lo conformamos en un cuerpo denso, y al igual que formamos de la fuerza-materia del Mundo del Deseo un cuerpo de deseos, así también nos apropiamos de una cantidad determinada de materia mental de la Región del Pensamiento concreto; pero nosotros como espíritus nos envolvemos en una substancia espiritual de la Región del Pensamiento abstracto, y por ella nos hacemos individuales, es decir, egos separados. 
 
-#### LA REGIÓN DEL PENSAMIENTO CONCRETO
+#### <h4 id="the-region-of-concrete-thought">LA REGIÓN DEL PENSAMIENTO CONCRETO</h4>
 
 La Región del Pensamiento concreto no es ni oscura ni ilusoria. En la cúspide de la realidad y este mundo que nosotros, equivocadamente, consideramos la única verdad, no es más que una pobre réplica o reflejo efímero y fugaz de tal Región. 
 
@@ -539,7 +539,7 @@ De igual modo, los Señores de la Mente hicieron el servicio más grande a la hu
 
 La otra clase de seres que debemos mencionar son los llamados Fuerzas Arquetípicas por la Escuela de Ocultismo occidental, que son las que dirigen la energía de los Arquetipos creadores nativos de este plano. Son una clase de seres compuestos de inteligencias de grados muy diferentes, y hay un estado en la jornada cíclica del Espíritu humano en que este espíritu trabaja allí y forma parte de aquella gran hueste de seres. Porque como el Espíritu humano está destinado también a convertirse algún día en una gran inteligencia creadora, si no hubiera escuela en la que pudiese aprender a crear, no le sería posible el avance, porque nada en la Naturaleza está hecho sin sistema y de repente. Una semilla de roble puesta en el suelo no se convierte en árbol majestuoso de la noche a la mañana, sino que requiere muchos años de lento y persistente crecimiento ante que el alcance la corpulencia que tienen estos gigantes del bosque. Asimismo, un hombre no se convierte en un ángel por el mero hecho de, morir y penetrar en un nuevo mundo, así como tampoco un animal no se hace hombre a consecuencia de tal proceso. Pero, con el decurso de los tiempos, todo lo que vive sube la escalera del ser que se eleva desde la arcilla a Dios. No hay limitación posible para el espíritu, y de este modo, en diferentes estados de su desarrollo, el Espíritu humano trabaja con las otras fuerzas de la Naturaleza, con arreglo al estado de inteligencia alcanzada por él en tales momentos. Este crea, cambia y moldea de nuevo la Tierra en la que ha de vivir. De este modo, regido por la gran ley de Causa y Efecto que observamos en todos los planos de la Naturaleza, cosecha en la Tierra lo que ha sembrado en el Cielo, y viceversa. El espíritu crece lenta, pero persistente y continuadamente. 
 
-#### LA REGIÓN DEL PENSAMIENTO ABSTRACTO
+#### <h4 id="the-region-of-abstract-thought">LA REGIÓN DEL PENSAMIENTO ABSTRACTO</h4>
 
 Se han dado a la humanidad, en distintas épocas, religiones diferentes, cada una apropiada para llenar los requisitos espirituales necesarios a las personas o pueblos a quienes se daban, y como vienen del mismo origen divino —Dios—, todas las religiones tienen los mismos principios fundamentales. 
 
@@ -569,15 +569,15 @@ Esta es una condición idéntica a la que los primitivos griegos llamaron Caos. 
 
 Cuando se traduce correctamente la enseñanza que San Juan quiso impartir respecto de aquella idea, vemos que la abarca totalmente, pues el término griego logos significa ambas cosas: el pensamiento razonable —que nosotros llamamos también lógica— y la palabra que expresa este pensamiento (lógico). 
 
-  1) En la substancia primordial era el pensamiento y el pensamiento era con Dios, y Dios era la palabra. 
+1\. En la substancia primordial era el pensamiento y el pensamiento era con Dios, y Dios era la palabra. 
 
-  2) Que (LA PALABRA) era también con Dios en el estado primitivo. 
+2\. Que (LA PALABRA) era también con Dios en el estado primitivo. 
 
   Después la PALABRA divina, el Fiat Creador reverbera a través del espacio y segrega la substancia virginal homogénea en formas seperadas. 
 
-  3) Todas las cosas han venido a la existencia como consecuencia del factor primitivo (la Palabra de Dios), y no hay cosa que exista aparte de aquel factor. 
+3\. Todas las cosas han venido a la existencia como consecuencia del factor primitivo (la Palabra de Dios), y no hay cosa que exista aparte de aquel factor. 
 
-  4) En aquello estaba la Vida. 
+4\. En aquello estaba la Vida. 
 
 En el alfabeto tenemos unos cuantos sonidos elementales que sirven para construir las palabras. Estos son los elementos básicos de la expresión, así como los ladrillos, hierro y maderamen son los materiales imprescindibles para la arquitectura, o bien coma unas cuantas notas son la base de la música. 
 
@@ -611,7 +611,7 @@ El estadio de la filosofía y de la ciencia en general tiende hacia la percepci�
 
 En este lugar estamos tratando en particular de los mundos, y por lo tanto pasamos a comentar el final que nos resta de los cinco primeros versos del Evangelio de San Juan. 
 
-5) "Y la Vida se hizo Luz en el hombre, y la Luz brilló en las Tinieblas." 
+5\. "Y la Vida se hizo Luz en el hombre, y la Luz brilló en las Tinieblas." 
 
 Hemos visto ahora que la Tierra está compuesta de tres mundos, los cuales se interpenetran los unos a los otros, de modo que es perfectamente cierto lo que dijo Cristo, que "el cielo está dentro de vosotros" o, preferiblemente, la traducción debiera haber sido entre nosotros. Hemos visto también que, de estos tres planos, dos están subdivididos. Se ha explicado igualmente que cada división sirve un gran propósito para el desenvolvimiento de formas variadas de la vida que mora en cada uno de esos mundos. Nosotros debemos saber, en conclusión, que las regiones inferiores del Mundo del Deseo constituyen lo que la religión Católica llama Purgatorio, un lugar donde el mal de la vida pasada se está transmutado en bien, utilizable por el espíritu como conciencia en vidas venideras. Las regiones superiores del Mundo del Deseo son el primer Cielo, donde todo lo bueno que el hombre ha hecho es asimilado por el espíritu como potencia de alma. La Región del Pensamiento concreto es el segundo Cielo, donde, como ya hemos dicho, el espíritu prepara su futuro ambiente en la Tierra, y la Región del Pensamiento abstracto es el tercer Cielo, pero, como San Pablo dijo, casi no es permitido hablar acerca de él. 
 
@@ -623,7 +623,8 @@ Afortunadamente, el día del predicador del infierno ha pasado ya, y si nosotros
 
 Así pues, procuraremos con preferencia buscar a Cristo y olvidar los Credos. 
 
-#### ¿CREDO o CRISTO?
+<pre id="creed-or-christ">
+¿CREDO o CRISTO?
 
 Ningún hombre ama a Dios si aborrece a sus semejantes,  
 Quien pisotea el corazón o el alma de su hermano;  
@@ -666,8 +667,9 @@ Sólo hay un camino que conduce hacia los cielos.
 Este camino es: humana compasión y amor.  
 
 MAX HEINDEL.
+</pre>
 
-### CAPÍTULO IV: LA CONSTITUCIÓN DEL HOMBRE
+### <h3 id="chapter-4">CAPÍTULO IV: LA CONSTITUCIÓN DEL HOMBRE</h3>
 
 El encabezamiento de este capitulo. que reza "La constitution del hombre," puede sorprender al lector que no se haya interio-rizado previamente de las ensenanzas de Misterios, o puede que ae imagine que tratamos de hacer una disertacion sobre anatomia, pero no es esta nuestra intencion. Hemos dicho de la Tierra en que vivimos que se compone de diferentes vehiculos invisibles en adicion del mundo que percibimos por nuestros sentidos. Hemos hablado iguahnente del hombre diciendo que esta correlacionado a tales divisiones de la Naturaleza, y una breve meditacion sobre el asunto nos coirvencera rapidamente de que para poder funcionar sobre los diferentes pianos de existencia descritos es necesario que e1 hombre tenga un cuerpo compuesto de tal substancia, o que por lo menos haya adaptado para su propio uso algo del material de cada uno de aquellos mundos. 
 
@@ -679,7 +681,7 @@ Puede que alguno, no obstante, objete este último argumento manifestando que lo
 
 San Pablo, en sus escritos, menciona también el cuerpo natural y el cuerpo espiritual, pero el hombre en sí mismo es un espíritu que mora en estos vehículos. A continuación detallaremos brevemente la constitución de los diversos vehículos del hombre invisibles para la vista física, pero tan objetivos para la vista espiritual como lo es el cuerpo denso a la vista ordinaria. 
 
-#### EL CUERPO VITAL
+#### <h4 id="the-vital-body">EL CUERPO VITAL</h4>
 
 Ese cuerpo nuestro compuesto de éter es llamado cuerpo vital en las Escuelas de Misterios Occidentales, pues, como ya hemos dicho, el éter es la avenida de ingreso de la fuerza vital del Sol y el campo de las agencias de la naturaleza que promueven las actividades vitales de asimilación, crecimiento y propagación. 
 
@@ -713,7 +715,7 @@ Aunque la ciencia no ha observado directamente el cuerpo vital del hombre, ha po
 
 Hemos dicho al principio de esta descripción que el cuerpo vital es una contraparte exacta del cuerpo denso, con una excepción: es del sexo opuesto, o quizá estaría mejor dicho polaridad. Como el cuerpo vital nutre al cuerpo denso, podemos comprender en seguida que la sangre es la expresión visible más elevada y también que un cuerpo vital polarizado positivamente generaría más sangre que uno con polaridad negativa. La mujer, la cual es físicamente negativa, tiene un cuerpo vital positivo; de ahí que ella genere una cantidad por el flujo periódico. También es más propensa a las lágrimas —las cuales son una sangría blanca— que el hombre, cuyo cuerpo vital es negativo y no genera más sangre de la que puede utilizar cómodamente. Por lo tanto, él no necesita esos períodos de liberación de sangre que tiene la mujer. 
 
-#### EL CUERPO DE DESEOS
+#### <h4 id="the-desire-body">EL CUERPO DE DESEOS</h4>
 
 Además del cuerpo visible y el cuerpo vital, tenemos también un cuerpo constituido de materia de deseos, del cual surgen nuestras emociones y sentimientos. Este vehículo nos impele también a buscar 1a satisfacción de nuestros sentidos. Pero mientras que los dos instrumentos de los cuales hemos hablado antes están bien organizados, el cuerpo de deseos aparece a la vista espiritual como una nube ovoide que se extiende de dieciséis a veinte pulgadas alrededor del cuerpo físico. Se halla sobre nuestra cabeza y debajo de los pies, de modo que el cuerpo denso se asienta en el centro de esta nube en forma ovoidea al igual que la yema está en el centro de un huevo. 
 
@@ -729,7 +731,7 @@ Hubo una época, en remotísima historia de la Tierra, en que la incrustación n
 
 En el cuerpo de deseos, cada partícula es sensible a las vibraciones semejantes de la vista, sonidos y sensaciones, y cada partícula se halla girando rápida e incesantemente, de forma tal que en el mismo instante ella pueda hallarse en la parte superior e inferior del cuerpo de deseos e impartir a todos los puntos de todas las demás partículas una sensación de lo que está experimentando. De este modo, cada partícula de materia de deseos en este vehículo nuestro notará instantáneamente cualquier sensación experimentada por la más simple partícula. Por lo tanto, el cuerpo de deseos es de una naturaleza sensitiva en extremo capaz de los sentimientos y emociones más intensos. 
 
-#### LA MENTE
+#### <h4 id="the-mind">LA MENTE</h4>
 
 Esta es la última adquisición del espíritu humano, y en muchas personas que todavía no se han acostumbrado a un pensamiento ordenado y consecutivo, es simplemente una mera nube caótica dispuesta de manera peculiar en la región de la cabeza. Cuando se mira a una persona clarividentemenee, parece haber un espacio vacío en el centro de la frente, justo encima y entre las cejas. Se asemeja a la parte azulada de una llama de gas. Aquello es materia mental que vela al espíritu humano, al Ego, y al autor se le ha dicho que ni aun el vidente más favorecido puede penetrar tal velo, denominado en el antiguo Egipto vela de Isis, y al cual nadie puede levantar ni traspasar, por detrás de él está el Sagrario de los Sagrarios, el templo de nuestro cuerpo, donde el espíritu se halla a cubierto de toda intrusión. 
 
@@ -739,9 +741,9 @@ El término "yo" puede aplicarse únicamente por el espíritu humano a sí mismo
 
 Vemos, pues, que la constitución del hombre es más compleja de lo que parece a primera vista, y ahora procederemos a detallar el efecto de la distintas condiciones de la vida sobre este complejo ser. 
 
-### CAPÍTULO V: VIDA Y MUERTE
+### <h3 id="chapter-5">CAPÍTULO V: VIDA Y MUERTE</h3>
 
-#### AUXILIARES INVISIBLES Y MÉDIUMS
+#### <h4 id="invisible-helpers-and-mediums">AUXILIARES INVISIBLES Y MÉDIUMS</h4>
 
 Hay dos clases de personas en el mundo. En una clase, los cuerpos densos y vital se hallan fuertemente entrelazados y confundidos, que los éteres no pueden ser extraídos bajo ninguna circunstancias, y ambos cuerpos permanecen siempre así y sean cuales fueren las condiciones, desde el nacimiento a la muerte. Tales gentes son insensibles a cualquier manifestación supersensitiva de la vista o del sonido, y son, por lo tanto, en general, excesivamente escépticas y creen que no existe nada más que lo que ellas pueden ver. 
 
@@ -767,7 +769,7 @@ Ocurre también que el espíritu toma un vuelo del alma y omite realizar el trab
 
 Hace unos años, una niña llamada Florencia Bennett, en Kan-kakee, Estado de Illinois, cayó en un trancé semejante. La niña volvía a su cuerpo cada varios días, pero permanecía dentro solamente unas cuantas horas cada vez, y el trance total duró poco más o menos veintiún día. Al volver, dijo a sus allegados que durante la ausencia le parecía haber estado en un sitio habitado por todas las personas que han muerto. Pero añadió que ninguna de ellas hablaba de haber muerto, y ninguna de ellas parecía que se diera cuenta de que estuviese muerta. Entre ellas, la niña vio a un maquinista de tren que había muerto en un accidente. Su cuerpo mostraba las huellas del accidente que le había causado la muerte. La niñita lo veía andar sin brazos y con lesiones en la cabeza, todo lo cual está de acuerdo con los hechos observados generalmente por los investigadores místicos. Las personas que han resultado heridas en un accidente van y vienen por el lugar del suceso y en el mismo lamentable estado en que quedaran, hasta que aprender que el mero deseos de volver a tener indemne su cuerpo les suministrará un nuevo brazo o pierna o cualquier otro órgano que falte, puesto que la materia de deseos es fácil y rápidamente moldeada por el pensamiento. 
 
-#### LA MUERTE
+#### <h4 id="death">LA MUERTE</h4>
 
 Después de un tiempo más o menos largo, en todas las vidas, llega un momento en que las experiencias que un espíritu puede adquirir en el ambiente que actúa quedan agotadas, y la vida termina con la muerte. 
 
@@ -809,7 +811,7 @@ Tal vez no hay forma de tortura más comúnmente infligida a los que están a pu
 
 La autopsia que se hace al cadáver, el embalsamamiento y la cremación durante el período mencionado, no solo perturban mentalmente al espíritu que se va, sino que resulta un martirio, porque todavía subsiste una ligera conexión con el vehículo abandonado. Si las leyes sanitarias previenen la necesidad de evitar la descomposición del cuerpo mientras lo conservamos durante un período de tres días y medio, para al cabo de ellos someterlo a la cremación, puede encerrarse en una urna con hielo hasta que pase ese tiempo. Después de este lapso el espíritu no sufrirá ningún dolor, sea lo que fuere que ocurra con el cuerpo. 
 
-#### EL PANORAMA DE LA VIDA PASADA
+#### <h4 id="the-panorama-of-past-life">EL PANORAMA DE LA VIDA PASADA</h4>
 
 No importa cuanto tiempo podamos evitar que un espíritu se marche de la Tierra, vendrá un momento, por fin, en que no habrá estimulante capaz de contenerlo y de que el último suspiro sea exhalado. Entonces el cordón plateado, del cual ya habla la Biblia, y que es lo que une a los vehículos inferiores y superiores, se rompe en el corazón, lo que causa que este órgano se detenga. Tal rotura liberta al cuerpo vital, y éste, con el cuerpo de deseos y la mente, flotan sobre el cuerpo visible de uno a tres días y medio, período durante el cual el espíritu está ocupado en pasar revista a su vida pasada, una parte sumamente importante de experiencia post mortem. De esta revista depende su existencia completa desde la muerte a su nuevo nacimiento. 
 
@@ -823,7 +825,7 @@ Un fenómeno semejante al del panorama de la vida se produce generalmente cuando
 
 Cuando, en el momento de la muerte de una persona, las condiciones con tales que el espíritu se ve perturbado por razones ajenas a él, por ejemplo el fragor de una batalla, las horripilantes circunstancias cíe un accidente o las lamentaciones histéricas de sus allegados, la distracción evita que se forme una impresión profunda sobre el cuerpo de deseos. En consecuencia, su existencia post mortem se hace vaga e insípida, el espíritu no cosecha los frutos de la experiencia, como hubiera sido en el caso de haber pasado al más allá fuera de su cuerpo físico en paz y tranquilidad, y en circunstancias normales. Por lo tanto, le faltará incentivo para el bien en una vida futura y perderá el alerta que su conciencia le daría en el caso de haber tenido una impresión profunda del panorama de su vida. De este modo su progreso será retardado en alto grado, pero las potencias benévolas que tienen a su cargo la evolución toman determinadas medidas para compensar nuestra ignorancia respecto al modo de tratar a los moribundos y de las otras condiciones desfavorables mencionadas. Estas medidas las indicaremos al considerar la vida de los niños en el cielo. Por el momento contentémonos con decir que en el reino de Dios cada maldad es a su hora transmutada en un bien mayor, aunque el proceso por ahora no resulte claro. 
 
-#### EL PURGATORIO
+#### <h4 id="purgatory">EL PURGATORIO</h4>
 
 Durante la vida, el colapso del cuerpo vital por la noche termina nuestra vista del mundo que nos rodea y nos sume en la inconsciencia del sueño. Cuando el cuerpo vital sufre el colapso que sigue a la muerte y termina el panorama de la vida, también perdemos la conciencia durante algún tiempo, el cual varía según los individuos. Parece que las tinieblas cayeran sobre el espíritu; después, al cabo de cierto tiempo, despierta y comienza a parcibir confusamente la luz del otro mundo, pero acostumbrarse a las nuevas condiciones solo se consigue gradualmente. Es una sensación semejante a la que experimentamos cuando salimos de un cuarto oscuro a la luz del Sol, que nos ciega con su brillantez, hasta que las pupilas se contraen de modo de poder admitir la cantidad de luz que corresponda a nuestro organismo. 
 
@@ -859,19 +861,30 @@ En nuestra definición acerca de la memoria subconsciente hemos visto que un reg
 
 Las enseñanzas de los misterios rosacruces nos dan un método científico por el cual un aspirante a la vida superior puede purgarse continuamente y, como consecuencia, estar en condiciones de ahorrarse la estada en el purgatorio. Todas las noches, después de acostarse, el discípulo pasa revista su vida durante el día anterior, en orden inverso. Empieza a visualizar tan claramente como le es posible la escena que sucedió antes de meterse en la cama. A continuación se esfuerza en recordar sus actos imparcialmente en tal escena, analizándolos para ver si obró bien o mal. Si obró mal debe esforzarse para sentir y comprender tan vividamente como le sea posible su objetable proceder. Por ejemplo, si se dirigió duramente a alguien y, al hacer esta retrospección, ve que no había razón para ello, procurará sentir exactamente como sintió aquél a quien hirió y buscará la primera oportunidad para pedirle perdón por expresiones infundadas. Seguidamente examinará las escenas anteriores, que quizá sean las correspondientes a la cena. A este podrá considerar si comió para vivir tomando con prudencia alimentos preparados sin necesidad de sacrificar a otras criaturas de Dios (es decir, alimentos basados en la carne, que no pueden prepararse de otro modo que después de arrancar una vida animal). Si ve que permitió que su apetito se satisficiera más de la cuenta y que comió glotonamente, procurará dominar ese hábito, porque para vivir una vida pura tenemos necesidad de un cuerpo puro y nadie puede llegar a usufructuar sus mayores posibilidades mientras haga de su estómago une sepultura de cadáveres de animales sacrificados. Llegados a esto, nos parece oportuno transcribir un breve poema de Ella Wheeler Wilcox:
 
-"Yo soy la voz de los que no hablan y por mí hablarán los que son mudos.  
-Y mi voz resonará en los oídos del mundo hasta el cansancio, hasta que  
-escuche y sepa los errores que se cometen con los débiles que carecen de palabra.  
-"El mismo poder formó al gorrión que al hombre, el rey de la creación.  
-El Dios del Todo dio una chispa anímica a todos los seres de pelo o pluma.  
-"Yo soy el guardián de mis hermanos y lucharé sus batallas y haré la defensa  
-del animal y del ave, hasta que el mundo haga las cosas como se debe."  
+```
+"Yo soy la voz de los que no hablan 
+y por mí hablarán los que son mudos.  
+Y mi voz resonará en los oídos del mundo hasta el cansancio, 
+hasta que escuche y sepa los errores que se cometen con los débiles que carecen de palabra.  
+
+"El mismo poder formó al gorrión
+que al hombre, el rey de la creación.  
+El Dios del Todo 
+dio una chispa anímica 
+a todos los seres de pelo o pluma.  
+
+"Yo soy el guardián de mis hermanos 
+y lucharé sus batallas 
+y haré la defensa  
+del animal y del ave, 
+hasta que el mundo haga las cosas como se debe."  
+```
 
 De este modo el aspirante continuará revistando todas las escenas del día, en orden inverso, desde la noche a la mañana, y para sentirse realmente arrepentido por los errores en que hayan podido incurrir. No dejará tampoco de sentirse alegre cuando llegue a un acontecimiento en el que procedió bien, y cuanto con mayor intensidad puede corroborarlo, tanto más completamente limpiará el registro de la tablilla sobre su corazón y agudizará su conciencia. Así, a medida que pase el tiempo, año tras año, notará menos motivos para censurarse y acrecentará enormemente el poder de su alma. De este modo crecerá en una proporción que sería imposible conseguir por otro método menos sistemático y no tendrá necesidad de permanecer en el purgatorio después de morir, por haber pasado por su purgatorio todas las noches al hacer este ejercicio que conocemos con el nombre de RETROSPECCIÓN. 
 
 Este ejercicio nocturno y otro por la mañana, si se realizan persistentemente un día tras otro, despertarán algún día la visión espiritual al mismo tiempo que prolongarán la vida. Esta materia ha sido ya tratada ampliamente en nuestra conferencia número 11 de la serie "Interpretación Rosacruz del Cristianismo" que lleva por título Vista y percepción espiritual; su cultivo seguro y su control, y consideramos innecesario insistir aquí sobre esta materia. 
 
-#### EL PRIMER CIELO
+#### <h4 id="the-first-heaven">EL PRIMER CIELO</h4>
 
 En el Primer Cielo, el cual está colocado en las regiones superiores del Mundo del Deseo, el panorama de la vida vuelve- a proyectarse y a revelarnos todas las escenas en que procuramos ayudar o beneficiar a los demás. No hubo ninguna sensación de ellas en el momento de ser revistadas en las regiones inferiores, porque los deseos más elevados no se pueden expresar en la grosera materia de que están compuestas las regiones más bajas del Mundo del Deseo, pero cuando el espíritu asciende al Primer Cielo colecta de cada escena todo el bien que realizó en la vida. Sentirá el reconocimiento exteriorizado por aquellos a quienes ayudó, y al ver alguna escena en la que él fue el favorecido y sintió por tal favor el debido agradecimiento, volverá a sentir nuevamente la misma gratitud. Todas estas sensaciones se amalgaman en el espíritu para servir, en una vida futura, de incentivo para el bien, y como resultado de todo esto el alma se purga del mal en el purgatorio y se robustece para el bien en el Primer Cielo. 
 
@@ -895,7 +908,7 @@ Un espíritu que escape de este modo a los sufrimientos proporcionados a sus equ
 
 Como quiera que el Primer Cielo está localizado en el Mundo del Deseo —el cual es el plano de la luz y del color—, en el que la materia es rápidamente moldeada y conformada por el pensamiento. a los niñitos se les regalan maravillosos juguetes imposibles de ser construidos aquí. Se les enseña el modo de jugar con los colores que actúan sobre sus caracteres morales en la medida requerida exactamente por cada niño. Cualquiera que tenga alguna sensibilidad, está afectado por el color de sus vestidos y de las cosas que lo rodean. Algunos colores tiene un efecto depresivo, mientras que otros nos inspiran energía, y otros más, por su parte, nos confortan por medio de su efecto sedante sobre nuestras naturalezas. En el Mundo del Deseo el efecto de los colores es bastante más intenso, allí son factores mucho más poderosos para el bien y para el mal que aquí, y en este juego de colores el niño asimila inconscientemente las cualidades que no pudo adquirir en razón del accidente sufrido o por los lamentos de sus familiares. Ocurre también con frecuencia que le toque en suerte a alguno de esos allegados tener que cuidar de un niño en el mundo invisible o quizás tener que nacer entre niños nuevamente y morir poco tiempo después. De tal modo, estas familias reciben la sanción por el error cometido. A medida que las guerras cesen, que el hombre aprenda a atender mejor su vida y también el adecuado trato que debe darse a los moribundos, la mortalidad infantil, que ahora es tan enorme, disminuirá. 
 
-#### EL SEGUNDO CIELO
+#### <h4 id="the-second-heaven">EL SEGUNDO CIELO</h4>
 
 Cuando tanto el bien como el mal de una vida han sido extraídos, el espíritu desecha el cuerpo de deseos y asciende al segundo cielo. El cuerpo de deseos comienza entonces a desintegrarse, como lo hicieron el cuerpo denso y el cuerpo vital; pero es una característica de la materia de deseos una vez formada e insuflada con vida, la ríe persistir durante un considerable lapso. Aun después que se ha ido el hálito vital, vive una vida semiinconsciente e independiente. Algunas veces es atraído por una fuerza magnética a los familiares del espíritu que lo poseyó y que fue su vestidura. En las sesiones espiritistas estos caparazones personalizan al espíritu que se marchó, y de este modo engañan a los allegados. Como el panorama de la vida pasada está grabado en dichos caparazones, recuerdan los incidentes ocurridos relacionados con tales, personas, lo cual lleva la decepción. Pero como quiera que la inteligencia no subsiste, son incapaces de dar algún consejo de valor cierto, y esto explica las insípidas y ñoñas estupideces que manifiestan estas cosas inanimadas. 
 
@@ -905,7 +918,7 @@ Bajo la ley de Causación, cosechamos exactamente lo que hemos sembrado, y serí
 
 Si nosotros fuéramos colocados de este modo sin cálculo, ni acción o aquiescencia por nuestra parte, no habría justicia en ello; pero, tal como nuestra existencia post mortem en el purgatorio y en el primer cielo está basada en nuestra actitud moral en esta vida, así nuestras actividades en el segundo cielo se hallan determinadas por nuestras aspiraciones mentales, y ellas producen nuestro futuro ambiente material, pues en el segundo cielo el espíritu se auna a las fuerzas de la naturaleza, las cuales trabajan sobre la tierra y cambian su clima, su flora y su fauna. Un espíritu indolente, que pasa el día soñando y en especulaciones metapsíquicas aquí, no es transformado por la muerte respecto a su actitud mental ni tampoco en lo que concierne a sus propensiones morales. En el cielo también derrochara el tiempo soñando, recreándose con sus maravillosas panoramas y deleitándose con la música celestial. Por lo tanto, se olvidará de trabajar sobre su futuro país y retornará a una tierra estéril y árida. Los espíritus que, por otro lado, tienen aspiraciones materiales que los impelen a desear las comodidades del hogar; las que tratan de promover grandes industrias y aquellos cuyas inquietudes giran en torno al comercio, lograrán formar en el cielo una tierra que se adapte a sus propósitos: fértil, con ricos minerales, ríos navegables y bahías acogedoras. Con el tiempo volverán a la Tierra para gozar los frutos de sus actividades en el segundo cielo, al igual que al morir, se cosechan los resultados de la vida terrenal en el purgatorio y en el primer cielo. 
 
-#### EL TERCER CIELO
+#### <h4 id="the-third-heaven">EL TERCER CIELO</h4>
 
 En el tercer cielo muchas personaes tienen escasa conciencia, por las razones dadas al referirnos a la Región del Pensamiento abstracto, pues aquí está localizado el tercer cielo. Es, por lo tanto, un punto de transición en que el espíritu descansa entre el momento en que sus actividades en el segundo cielo han terminado y la hora en que nuevos deseos de adquirir experiencias lo impelan a buscar el renacimiento. Pero desde este plano los inventores traen sus ideas originales, los filántropos tienen la clara visión del modo de llevar a cabo sus utópicos sueños y las aspiraciones espirituales de la mente santa reciben nuevos ímpetus y aliento. 
 
@@ -921,13 +934,13 @@ Después que el espíritu ha hecho su elección desciende al segundo cielo, dond
 
 En la Región del Pensamiento concreto el espíritu también atrae hacia sí los materiales para una nueva mente. Al igual que un magneto atrae limaduras de hierro, pero deja otras substancias, así cada espíritu solo atrae la clase de materia mental que usó en su vida previa, más aquello que haya aprendido en su estado actual post mortem. Después desciende al Mundo del Deseo, donde reúne el material necesario para su nuevo cuerpo de deseos, de modo que pueda expresar adecuadamente sus características morales, y por último atrae una cierta cantidad de éter que se incorpora al molde del arquetipo construido en el segundo cielo y sirve de cemento entre los materiales sólidos, líquidos y gaseosos de los cuerpos de los padres, quienes forman el cuerpo físico denso del niño y el cual en su día viene a la luz de este mundo. 
 
-#### NACIMIENTO Y VIDA DEL NIÑO
+#### <h4 id="birth-and-child-life">NACIMIENTO Y VIDA DEL NIÑO</h4>
 
 No debemos imaginarnos, no obstante, que cuando nace el tierno niño, ha terminado todo el proceso. El cuerpo físico es el que ha tenido una evolución más larga, y al igual que un zapatero que ha trabajado en su oficio durante muchos años es más experto que un aprendiz y puede hacer mejores zapatos y más de prisa, así también el espíritu que ha construido muchos cuerpos físicos los hace más rápidamente. Como el cuerpo vital es una adquisición posterior del ser humano, no somos tan expertos en la construcción de este vehículo. En consecuencia, se necesita más tiempo para construirlo con los materiales que no se han usado en la formación de la línea del arquetipo, y el cuerpo vital no nace hasta los siete años. Entonces comienza el periodo del crecimiento rápido. E1 cuerpo de deseos es una adición posterior del hombre compuesto y su nacimiento no tiene lugar hasta los catorce años, cuando la naturaleza de deseos se expresa a sí misma más frecuentemente durante la llamada "ardorosa" juventud, y la mente, que es lo que hace al hombre, hombre, no se revela plenamente hasta los veintiún años. Legalmente, esta edad es la reconocida como mínima para que el hombre pueda hacer valer sus derechos civiles como mayor de edad. 
 
 Este conocimiento es de la mayor importancia para los padres, pues la comprensión del desarrollo que debe tener lugar en cada período septenario capacitará al educador para trabajar inteligentemente con la naturaleza y de este modo tener mayor conciencia de la custodia a su cargo qué aquellos que permanecen ignorantes de las enseñanzas de los Misterios Rosacruces. Debemos, pues, dedicar las páginas siguientes a la elucidación de esta materia y a destacar la importancia del conocimiento de la astrología por parte del padre. 
 
-#### El MISTERIO DE LA LUZ, DEL COLOR Y DE LA CONCIENCIA
+#### <h4 id="the-mystery-of-light-color-and-consciousness">El MISTERIO DE LA LUZ, DEL COLOR Y DE LA CONCIENCIA</h4>
 
 "Dios es Luz," dice la Biblia, y por nuestra parte no somos capaces de concebir un símil mayor de su omnipotencia o el modo de Su manifestación. Aun los telescopios más potentes han fracasado en su propósito de alcanzar los límites de la luz, aunque nos descubren estrellas que están a millones de kilómetros de la Tierra. Ante esto, nos podemos preguntar a nosotros mismos, como el salmista del pasado: "¿Dónde podré ir para alejarme de tu presencia? Si asciendo a los cielos, Tú estás allí; si hago mi lecho en la tumba (la palabra hebrea sheol significa sepultura y no infierno, como se ha traducido), Tú estás allí; si montase en las alas de la mañana y me trasladase en ellas a las partes más lejanas del mar, aun allí Tu mano me guiaría." Cuando, en la alborada del Ser, Dios el Padre, emitió la Palabra, y el Espíritu Santo se movió sobre el mar homogéneo de la Materia Virginal, la obscuridad fue convertida en Luz. Ésta es, por lo tanto, la primera manifestación de la Diedad, y un estudio de los principios de la Luz revelará a la intuición mística una maravillosa fuente de inspiración espiritual. Como esto nos llevaría muy lejos, no entraremos aquí en la elucidación del tema sino para dar una idea elemental del modo que la Vida divina da energía a la forma humana y estimula a la acción. 
 
@@ -947,7 +960,7 @@ Como ya hemos dicho, el hombre vuelve a la Tierra a cosechar lo que ha sembrado 
 
 El niño es un misterio para todos nosotros; solo podemos saber sus propensiones a medida que lentamente van convirtiéndose en características; pero, por lo general, es demasiado tarde para enmendarlas cuando los malos hábitos se han formado y ya se está en plena juventud. Un horóscopo levantado con arreglo a la hora del nacimiento, en forma científica, indica las tendencias al bien o al mal que tiene el niño, y si un padre se toma la molestia que es necesaria para estudiar la ciencia de las estrellas, puede prestarle un servicio inestimable al ser confiado a él, pues le es dable fomentar y nutrir las tendencias al bien que tenga, al mismo tiempo que reprimir las malas inclinaciones del niño antes que se cristalicen en costumbres. No se crea que es preciso un conocimiento superior de matemáticas para preparar un horóscopo. Algunos hacen este trabajo de manera tan complicada, tan "abstracta y preciosamente hecho," que resulta ininteligible para ellos y para los demás; mientras que uno simple, de lectura y comprensión fácil, puede hacerlo cualquiera que sepa sumar y restar. Este método ha sido dilucidado extensamente en el libro Astrología Científica Simplificada, el cual es una obra de texto completa sobre Ja materia, a la vez que pequeña y económica, y cualquier padre que anhele ardientemente el bienestar de sus hijos debe esforzarse en hacerlo por sí mismo, pues aunque su habilidad no pueda compararse con la de un astrólogo profesional, su conocimiento íntimo del niño y su profundo interés compensarán sobradamente la falta de competencia y lo capacitarán para profundizar en el carácter del niño por medio del horóscopo. 
 
-#### EDUCACIÓN DEL NIÑO
+#### <h4 id="education-of-children">EDUCACIÓN DEL NIÑO</h4>
 
 Respecto al nacimiento de los diversos vehículos y la influencia que tienen sobre la vida, podemos decir que: durante el tiempo del nacimiento hasta los siete años se determinan las líneas del crecimiento del cuerpo físico, y como es sabido que el sonido es constructor tanto en lo grande como en lo pequeño, podemos imaginarnos, sin duda alguna, que el ritmo debe de tener gran influencia sobre el desarrollo y la sensibilidad del delicado organismo del niño. El apóstol Juan, en el capítulo primero de su Evangelio, expresa tal idea místicamente en estas bellísimas palabras: "En el principio era ya el Verbo... y sin él nada de lo que existe fue hecho... y el Verbo se hizo carne." La palabra o verbo es un sonido rítmico, el cual, emitido por el Creador, vibra por todo el Universo y funde a incontables millones de átomos en la multitud variada de formas y contornos que vemos alrededor de nosotros. La montaña, la margarita, el ratón y el hombre todo es la incorporación de tan gran Palabra Cósmica que aún continúa resonando y edificando a su rítmico son, si bien sin ser oída por nuestros groseros oídos. Pero, aunque no oigamos tan maravilloso sonido celestial, lo mismo podemos trabajar sobre el cuerpecito del niño con música terrenal, y aunque los arrullos de las niñeras no tengan sentido, sin embargo van envueltos, de un ritmo extraordinario, y cuanto más se diga al niño que los diga, los cante y repita, que baile y marche a su compás, más música se incorporará a su vida diaria. Gracias a ella su cuerpo, en los años venideros, será fuerte y vigoroso. 
 
