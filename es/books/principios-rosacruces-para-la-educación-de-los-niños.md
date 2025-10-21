@@ -4,40 +4,26 @@ language: 'en'
 original_title: "The Rosicrucian Principles Of Child Training"
 original_language: 'en'
 author: 'Max Heindel'
-original_source_file: 'self'
+original_source_file: 'the-rosicrucian-principle-of-child-training.md'
 ---
 
 <h1 id="the-rosicrucian-principle-of-child-training">Principios Rosacruces para la Educación de los Niños</h1>
 
 por Max Heindel [1865-1919]
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+THE ROSICRUCIAN FELLOWSHIP  
+P.O. Box 713  
+Oceanside, CA. 92049-0713 USA  
 
-Título Original:
+<h3 id="contents">Índice de materias</h3>
 
-"ROSICRUCIAN PRINCIPLES OF CHILD TRAINING"
+- [Capítulo I: Educación del niño](#chapter-1)
+- [Capítulo II: La herencia y los problemas de la infancia](#chapter-2)
+- [Capítulo III: La razón de la mortalidad infantil](#chapter-3)
+- [Capítulo IV: La astrología y el niño](#chapter-4)
+    - [Un caso como ejémplo](#a-case-in-point)
 
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-
-### CAPÍTULO I: EDUCACIÓN DEL NIÑO
+### <h3 id="chapter-1">CAPÍTULO I: EDUCACIÓN DEL NIÑO</h3>
 
 Quizá no exista problema más importante que la educación de los niños. En primer lugar, los padres conscientes que anhelan proporcionar a sus hijos el máximo de ventajas, comienzan antes del nacimiento y aún antes de la concepción, a dirigir sus pensamientos amorosos hacía la misión que van a cumplir en este sentido. Tienen especial cuidado en que su unión, que ha de brindar como resultado la generación de un nuevo ser humano, se efectúe bajo las influencias estelares más propicias, o sea cuando la Luna pasa por un signo que facilite la construcción de un cuerpo fuerte y saludable, teniendo de ante mano sus propios organismos en la mejor de las condiciones físicas, morales y mentales. Luego, durante la época de la gestación mantienen constantemente en su imaginación la idea de una fuerte y útil vida para el ser esperado. 
 
@@ -93,7 +79,7 @@ Durante el período de la adolescencia los padres deben practicar la mayor toler
 
 Al seguir al espíritu humano a lo largo de un ciclo de vida, desde el nacimiento a la muerte y continuando hasta el siguiente renacimiento, vemos como está siempre acompañado por grandes y gloriosos seres que son ministros de Dios. Este conocimiento es de primordial importancia para los padres como una comprensión propia del desarrollo que debe tener lugar en cada una de las épocas septenarias, permitiéndoles el actuar inteligentemente con la Naturaleza y de este modo llenar más concienzudamente su misión que aquellos quienes están ignorantes de las Enseñanzas de Misterios Rosacruces. 
 
-### CAPÍTULO II: LA HERENCIA Y LOS PROBLEMAS DE LA INFANCIA
+### <h3 id="chapter-2">CAPÍTULO II: LA HERENCIA Y LOS PROBLEMAS DE LA INFANCIA</h3>
 
 Se oye con muchísima frecuencia la siguiente pregunta: "¿Cómo explica usted el hecho de que un niño nazca con las malas características de sus padres?" Y por nuestra parte lo explicamos diciendo sencillamente que no es un hecho. Desgraciadamente la humanidad tiene una tendencia muy marcada a achacar su mal carácter a la herencia, censurando a los padres por las faltas que no obedecen más que a nosotros mismos, pero en cambio, pidiendo para sí todo el reconocimiento del mérito por nuestras buenas cualidades. Y este mismo hecho de que nosotros diferenciemos entre lo que heredamos y lo efectuado por nosotros mismos, nos demuestra que hay dos aspectos en la naturaleza del hombre: el de la "forma" y el de la "vida." 
 
@@ -109,7 +95,7 @@ Desde este momento el ser empieza a ejercer su prerrogativa individua] y a despr
 
 En cuanto al lado de la "vida" debemos concebir que el hombre, el pensador, viene aquí equipado con una naturaleza mental y moral, las cuales le pertenecen exclusivamente, tomando solamente de sus padres el material necesario para la formación de su cuerpo físico, como hemos dicho previamente. Nosotros somos inclinados o atraídos hacia determinada familia y hacia determinado ambiente por la ley de Causa y Efecto y por la ley de Asociación. La misma ley que hace que los músicos busquen la compañía de otros de su mismo gusto en salas de música o conciertos, hace que se congreguen en hipódromos o en garitos a los jugadores, y a los hombres en temperamento estudioso en librerías, bibliotecas, etc., también es causa de que la gente de tendencias similares, características y gustos nazcan en la misma familia. Así que cuando oímos a una persona que dice: "Sí"; yo sé que soy derrochador, pero es porque mi familia nunca ha trabajado; nosotros hemos tenido siempre criados," nos demuestra con elocuencia que únicamente una semejanza de gustos puede haberlo producido. Asimismo cuando otra persona exclama, diciendo: "Oh, sí, ya sé que soy extravagante; pero no puedo remediarlo, me viene de familia," aquí también vemos manifestarse la ley de Asociación, y cuanto antes reconozcamos esto, en vez de excusarnos con la ley de Herencia de nuestros hábitos malos, tanto más pronto los dominaremos y empezaremos a cultivar virtudes y tanto mejor será para nosotros. No admitiremos que el borracho se excuse de su mal vicio diciéndonos: "No; es inútil, no puedo dejar de beber, todos mis familiares beben." Con estos conocimientos le diremos que ejerza su propia voluntad tan pronto como le sea posible y que abandone las ocasiones de beber que se le presenten, si no le es posible abandonar a sus asociados, aconsejándoles que cesen de escudarse en sus antepasados como una excusa por sus malos hábitos. 
 
-### CAPÍTULO III: LA RAZÓN DE LA MORTALIDAD INFANTIL
+### <h3 id="chapter-3">CAPÍTULO III: LA RAZÓN DE LA MORTALIDAD INFANTIL</h3>
 
 Hay muchas causas para la muerte de los niños. Aquí daremos unas de las principales. En primer lugar, cuando un Ego vuelve a la vida terrestre es atraído a un determinado ambiente que está calculado para aumentar e impulsar su progreso y en el que pueda liquidar cierta cantidad del destino generado por sí mismo en existencias anteriores. Pero cuando los padres hacen cambios tan radicales en sus vidas que el Ego atraído por ellos no podría alcanzar tal prevista experiencia o liquidar aquel destino, el Ego es generalmente retirado y enviado a otro lugar donde pueda conseguir las debidas condiciones para su desarrollo en tal época. O bien puede ser retenido por unos cuantos años y al fin de ellos renacer en la misma familia cuando se vea que se pueden obtener las condiciones requeridas en la familia en cuestión en esta última época. 
 
@@ -129,7 +115,7 @@ En el Mundo del Deseo es sumamente fácil el dar lecciones objetivas sobre la in
 
 Como quiera que en el pasado el hombre ha sido muy guerrero, y motivado a su ignorancia respecto a la conducta a seguir con los seres queridos que morían, considerando como débiles a los que morían en su lecho (los cuales fueron muy pocos, quizá, comparados con los que murieron en el campo de batalla), debe haber necesariamente una gran cantidad de mortalidad infantil. Sin embargo, conforme la humanidad llegue a un conocimiento mejor y más comprensivo de que nunca prestaremos más eficaz auxilio a nuestros familiares que a la hora de su muerte, y que les favoreceremos muchísimo permaneciendo serenos y en actitud de ruego y oración, la mortalidad infantil cesará de ser tan numerosa y en tan gran escala como hasta el presente. 
 
-### CAPÍTULO IV: LA ASTROLOG1A Y EL NIÑO
+### <h3 id="chaptert-4">CAPÍTULO IV: LA ASTROLOG1A Y EL NIÑO</h3>
 
 "Dios es luz," dice la Biblia, y por nuestra parte no conocemos ni podemos concebir un símil más adecuado de su Omni-presencia o modo de manifestación. 
 
@@ -153,7 +139,7 @@ No se piense que sea necesario un conocimiento superior de matemáticas para hac
 
 Este método ha sido dilucidado completamente en mi tratado Astrología Científica Simplificada, que constituye un libro de texto completo, a la vez que fácil y económico, y cualquier padre de familia que se preocupe del bienestar de sus hijos debe esforzarse para hacer este trabajo por sí mismo. Aunque su habilidad no pueda compararse con la de un astrólogo profesional, el íntimo conocimiento que él tiene de su hijo y su profundo interés, hará más que compensarle de tal falta de conocimiento y le capacitará para ver más internamente el carácter del niño por medio del horóscopo. De este modo todos conoceremos claramente el medio de llenar nuestra misión de padres y procurar que las potencias espirituales de las almas confiadas a. nuestro cuidado se desarrollen más abundantemente. 
 
-### UN CASO COMO EJEMPLO
+#### <h4 id="a-case-in-point">UN CASO COMO EJEMPLO</h4>
 
 Nota del Editor: La Siguiente conversación con Max Heindel es una ilustración patente de la aplicación de los principios Rosa-cruces para la educación de los niños y puede servir, por lo tanto, como un ejemplo específico (*). 
 
@@ -181,17 +167,4 @@ Este procedimiento hemos visto es uno de los que producen mejores efectos para c
 
 Hay otros varios métodos de esta misma índole que se les sugerirá por sí mismos a los padres. Pero semejantes correctivos deben ser empleados muy de tarde en tarde y como último recurso o el niño se acostumbrará a ellos. En general, la apelación al amor por sus padres, el deseo de que se piense bien de él, las razones de todo ello, en cuanto sea posible hacerle comprender a tan tierna edad, es lo que se debe invocar o apelar más a menudo. 
 
-ÍNDICE DE MATERIAS
-Capítulo I 
-Educación del Niño
-Capítulo II 
-La herencia in los problemas de la infancia 
-Capítulo III 
-La razón de la mortalidad infantil
-Capítulo IV 
-La astrología y el niño  
-  
-
-Fin 
-Click aquí para ir al Índice de Libros 
-
+Fin
