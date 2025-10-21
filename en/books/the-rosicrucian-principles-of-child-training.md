@@ -1,5 +1,5 @@
 ---
-title: 'The Rosicrucian Principles Of Child Training
+title: 'The Rosicrucian Principles Of Child Training'
 language: 'en'
 original_title: "The Rosicrucian Principles Of Child Training"
 original_language: 'en'
@@ -7,7 +7,7 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-# The Rosicrucian Principles Of Child Training 
+<h1 id="the-rosicrucian-principle-of-child-training">The Rosicrucian Principles Of Child Training</h1>
 
 by Max Heindel [1865-1919] 
 
@@ -24,6 +24,7 @@ Oceanside, California, 92054, USA
 - [Chapter II: Heredity and the Problems of Childhood](#chapter-2)
 - [Chapter III: The Reason for Infant Mortality](#chapter-3)
 - [Chapter IV: Astrology and the Child](#chapter-4)
+    - [A Case in Point](#a-case-in-point)
 
 ### <h3 id="chapter-1">CHAPTER I: EDUCATION OF CHILDREN</h3>
 
@@ -123,7 +124,7 @@ The child is a mystery to us all; we can only know its propensities as they slow
 
 Do not imagine that a superior mathematical knowledge is necessary to erect a horoscope. Many construct a horoscope in such an involved manner, so "fearfully and wonderfully made," that it is unreadable by themselves or others, while a simple figure, easy of reading, may be constructed by anyone who knows how to add and subtract. This method has been thoroughly elucidated in *Simplified Scientific Astrology,* which is a complete textbook, though small and inexpensive, and any parent who has the welfare of his or her children thoroughly at heart should endeavor to learn to do this work for himself. Even though his ability may not compare with that of a professional astrologer, his intimate knowledge of the child and deep interest will more than compensate for such lack and enable him to see most deeply into the child's character by means of its horoscope. Thus shall we all come to know clearly how to discharge our duty as parents, and bring forth most abundantly the spiritual potencies of the souls committed to our care. 
 
-### <h4 id="a-case-in-point">A CASE IN POINT</h4>
+#### <h4 id="a-case-in-point">A CASE IN POINT</h4>
 
 (Editor's Note:--The following discussion by Max Heindel is an apt illustration of the application of the Rosicrucian principles of education of children to a specific example. It is reprinted from the Question Department of the "Rays" for September, 1916.) 
 
