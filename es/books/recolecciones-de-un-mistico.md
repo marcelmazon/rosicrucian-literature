@@ -27,7 +27,36 @@ Al escribir los libros y lecciones mensuales de la Fraternidad, en sus lecturas 
 
 En "Recolecciones de un Místico" se encuentran veinticuatro lecciones que fueron anteriormente remitidas a los estudiantes. Es deseo de la autora de este prólogo que estas lecciones puedan llevar un mensaje de amor y afecto al lector hambriento de espiritualidad y reconfortar al desconsolado. 
 
-AUGUSTA FOSS DE HEINDEL. 
+\- AUGUSTA FOSS DE HEINDEL. 
+
+<h3 id="table-of-contents">INDICE DE MATERIAS</h3>
+
+- [Prefacio](#foreword)
+- [CAPITULO I - Iniciación: Qué es y qué no es. 1ª Parte](#chapter-1)
+- [CAPITULO II - Iniciación: Qué es y qué no es. 2ª Parte](#chapter-2)
+- [CAPITULO III - El Sacramento de la Comunión. 1ª Parte](#chapter-3)
+- [CAPITULO IV - El Sacramento de la Comunión. 2ª Parte "En memoria mía"](#chapter-4)
+- [CAPITULO V - El Sacramento del Bautismo](#chapter-5)
+- [CAPITULO VI - El Sacramento del Matrimonio](#chapter-6)
+- [CAPITULO VII - El Pecado Imperdonable y las Almas Perdidas](#chapter-7)
+- [CAPITULO VIII - La Inmaculada Concepción](#chapter-8)
+- [CAPITULO IX - El Cristo Futuro](#chapter-9)
+- [CAPITULO X - La Edad Futura](#chapter-10)
+    - [El azúcar por alcohol](#sugar-for-alcohol)
+- [CAPITULO XI - La Carne y el Alcohol como factores de la Evolución](#chapter-11)
+- [CAPITULO XII - Un Sacrificio Viviente](#chapter-12)
+- [CAPITULO XIII - Magia: Blanca y Negra](#chapter-13)
+- [CAPITULO XIV - Nuestro Gobierno Invisible](#chapter-14)
+- [CAPITULO XV - Preceptos Prácticos para Gente Práctica](#chapter-15)
+- [CAPITULO XVI - El Sonido, el Silencio y el Desarrollo del Alma](#chapter-16)
+- [CAPITULO XVII - El Magno Misterio de la Rosacruz](#chapter-17)
+- [CAPITULO XVIII- Obstáculos en la Marcha](#chapter-18)
+- [CAPITULO XIX - La Esclusa de la Elevación](#chapter-19)
+- [CAPITULO XX - El Significado Cósmico de la Pascua 1ª Parte](#chapter-20)
+- [CAPITULO XXI - El Significado Cósmico de la Pascua 2ª Parte](#chapter-21)
+- [CAPITULO XXII - El cristo Recién Nacido](#chapter-22)
+- [CAPITULO XXIII - Porqué Soy Rosacruz](#chapter-23)
+- [CAPITULO XXIV - El Objeto de la Fraternidad Rosacruz](#chapter-24)
 
 ### CAPÍTULO I: INICIACIÓN: QUÉ ES Y QUÉ NO ES - Primera Parte
 
@@ -910,33 +939,5 @@ Con respecto a nuestros hechos buenos debemos recordar que había en el Taberná
 Este extracto aromático espiritual de nuestras buenas obras es el que construye nuestro cuerpo del alma. Por el proceso natural ordinario transcurre una tercera parte de los años que hemos vivido en la Tierra, para que nuestra existencia post-mortem logre extraer o cosechar lo que hemos sembrado. Pero cuando un aspirante ha asimilado los frutos de su vida por una fiel retrospección al final de cada día, se halla libre tan pronto como abandona su cuerpo y puede usar los años que emplean los otros en el Purgatorio, en éste o en el primer cielo, como a él le plazca. Además como quiera que allí no necesita ni alimento, ni cubierta, ni dormir, puede emplear las veinticuatro horas del día haciendo el bien. De este modo tiene prácticamente tantos años de servicio y crecimiento del alma después de la muerte, como años han sido los de su vida terrestre y estando entrenado y experimentado en este trabajo sus logros y alcances serán probablemente mayores que los que hubiera podido realizar en un gran número de vidas, vividas de la forma ordinaria. 
 
 Para ayudar a los aspirantes que lo merezcan, los Hermanos Mayores tienen aún todavía enseñanzas más profundas y definidas que dar por mediacíón de La Fraternidad Rosacruz. Los estudiantes que anhelen o sientan esta interna llamada de su espíritu pueden pedir informes y explicaciones acerca de estas enseñanzas. 
-
-INDICE DE MATERIAS
-Prefacio
-CAPITULO I - Iniciación : Qué es y qué no es. 1ª Parte
-CAPITULO II - Iniciación : Qué es y qué no es. 2ª Parte 
-CAPITULO III - El Sacramento de la Comunión. 1ª Parte 
-CAPITULO IV - El Sacramento de la Comunión. 2ª Parte "En memoria mía" 
-CAPITULO V - El Sacramento del Bautismo 
-CAPITULO VI - El Sacramento del Matrimonio 
-CAPITULO VII - El Pecado Imperdonable y las Almas Perdidas 
-CAPITULO VIII - La Inmaculada Concepción 
-CAPITULO IX - El Cristo Futuro 
-CAPITULO X - La Edad Futura 
-El azúcar por alcohol - 
-CAPITULO XI - La Carne y el Alcohol como factores de la Evolución 
-CAPITULO XII - Un Sacrificio Viviente 
-CAPITULO XIII - Magia : Blanca y Negra 
-CAPITULO XIV - Nuestro Gobierno Invisible 
-CAPITULO XV - Preceptos Prácticos para Gente Práctica 
-CAPITULO XVI - El Sonido, el Silencio y el Desarrollo del Alma 
-CAPITULO XVII - El Magno Misterio de la Rosacruz 
-CAPITULO XVIII- Obstáculos en la Marcha 
-CAPITULO XIX - La Esclusa de la Elevación 
-CAPITULO XX - El Significado Cósmico de la Pascua 1ª Parte 
-CAPITULO XXI - El Significado Cósmico de la Pascua 2ª Parte 
-CAPITULO XXII - El cristo Recién Nacido 
-CAPITULO XXIII - Porqué Soy Rosacruz 
-CAPITULO XXIV - El Objeto de la Fraternidad Rosacruz 
 
 Fin
