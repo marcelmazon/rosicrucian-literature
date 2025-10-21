@@ -58,7 +58,7 @@ En "Recolecciones de un Místico" se encuentran veinticuatro lecciones que fuero
 - [CAPITULO XXIII - Porqué Soy Rosacruz](#chapter-23)
 - [CAPITULO XXIV - El Objeto de la Fraternidad Rosacruz](#chapter-24)
 
-### CAPÍTULO I: INICIACIÓN: QUÉ ES Y QUÉ NO ES - Primera Parte
+### <h3 id="chapter-1">CAPÍTULO I: INICIACIÓN: QUÉ ES Y QUÉ NO ES - Primera Parte</h3>
 
 No es un suceso raro ser preguntado respecto a la Iniciación y hemos sido frecuentemente también requeridos a asegurar si esta orden o aquella sociedad es genuina y si las iniciaciones que ofrecen a todos sus aspirantes que pagan su por qué, son "bona fide." He aquí porque se siente la necesidad de escribir un tratado sobre la materia a fin de que los estudiantes de La Fraternidad Rosacruz puedan tener una afirmación oficial para guía y referencia en lo futuro. 
 
@@ -82,7 +82,7 @@ Una vez dicho esto volvamos a la Iniciación: ¿Qué es? ¿Es una ceremonia como
 
 Lo mismo ocurre con la Iniciación: es una experiencia interna, del todo ajena y aparte de cualquier ceremonia, sea la que fuere y como consecuencia es totalmente imposible que alguien pueda venderla a cualquier otro. "La iniciación cambia toda la vida de un hombre." Le da una confianza que nunca había poseído. Le cubre con un manto de autoridad que nunca le podrá ser arrebatado. Sean las que fueren las circunstancias de la vida, derrama una luz sobre todo su ser, que es simplemente encantadora. Pero ninguna ceremonia puede efectuar este cambio. Por lo tanto tenemos como bueno que aquel que ofrece la iniciación en cualquier orden ocultista por medio de ceremonias y a todo aquel que pueda pagarla, se califica a sí mismo de impostor, pues al verdadero maestro, si se le aproximara un aspirante con ofertas de dinero para el alcance espiritual, le contestaría indignado con las palabras que Pedro dijo a Simón el Mago, al ofrecerle dinero para obtener poderes espirituales: "Tu dinero perecerá contigo." 
 
-### CAPÍTULO II: INICIACIÓN: QUÉ ES Y QUÉ NO ES - Segunda parte
+### <h3 id="chapter-2">CAPÍTULO II: INICIACIÓN: QUÉ ES Y QUÉ NO ES - Segunda parte</h3>
 
 Para la mejor comprensión de lo que constituye la Iniciación y cuáles son sus requisitos preliminares, fije el lector primeramente y con toda firmeza en su mente el hecho de que la humanidad, en su totalidad, progresa lentamente por el camino de la evolución, logrando lenta y casi imperceptiblemente, más altos estados de conciencia. El camino de la evolución es una espiral, mirado solamente bajo su aspecto físico, pero es de forma enroscada doble si se observan sus fases físicas y espirituales. (Véase el diagrama del caduceo químico en el "Concepto Rosacruz del Cosmos"). 
 
@@ -106,7 +106,7 @@ Solamente así vivimos realmente la existencia "post-mortem" y avanzamos cientí
 
 Ahora, si el discípulo ha pesado bien el argumento precedente, habrá asido la analogía existente entre el largo ciclo de la evolución y los cortos ciclos, o escalones utilizados en el sendero de la preparación. Quedará del todo claro que nadie puede llevar a cabo este trabajo de "post-mortem" y transmitir a otro el desarrollo del alma resultante, de la misma manera que nadie puede comer el alimento físico de otro y transmitirle su subsistencia y su desarrollo. Nosotros pensamos que es absurdo que un sacerdocio ofrezca acortar la permanencia de nuestra alma en el purgatorio. ¿Cómo, pues, podremos creer que cualquier otro -no importa desde el punto que se considere- pueda hacernos prescindir de la necesidad de un número de existencias purgatoriales en provecho nuestro, transmitiéndonos el poder anímico útil que habríamos adquirido al seguir el curso ordinario de la vida hasta el día en que estuviésemos preparados para la Iniciación? Esto es, pues, lo que significa la oferta de iniciar a una persona antes de estar en el umbral. Débese tener el poder del alma requerido para la Iniciación, o nadie podrá iniciarnos. Si lo poseemos estamos en el umbral por nuestros propios esfuerzos y a nadie se lo debemos y podemos pedir la Iniciación como un derecho que nadie puede disputarnos ni retenernos. Si no lo tuviésemos y lo pudiésemos comprar, ciento veinticinco millones de pesetas serían insignificantes para pagarlo y el hombre que nos ofreciese vendérnoslo por veinticinco dólares, sería tan ridículo como su víctima. Recuérdese que si alguien ofrece iniciarnos en alguna orden ocultista, no importa que se llame Rosacruz o de cualquier otra manera, al pedir honorarios para la Iniciación se acredita de impostor y sus explicaciones para justificarlos, ya sea para aplicarlos a limosnas, etcétera, serán pruebas evidentes de la naturaleza fraudulenta de aquella orden, pues se ha dicho: "La Iniciación no es una ceremonia exterior sino una experiencia interna." Yo puedo añadir además que los Hermanos Mayores de la Rosacruz, en el Templo Místico donde yo recibí la Luz, me impusieron la condición de que su ciencia sagrada nunca debía ser puesta en la balanza contra una moneda. Libremente la recibí, libremente fui requerido para darla. Esta cláusula la he cumplido, en espíritu y en la letra, como no ignoran los que han tenido tratos con La Fraternidad Rosacruz. 
 
-### CAPÍTULO III: EL SACRAMENTO DE LA COMUNIÓN - Primera parte
+### <h3 id="chapter-3">CAPÍTULO III: EL SACRAMENTO DE LA COMUNIÓN - Primera parte</h3>
 
 Para alcanzar una completa comprensión del profundo y aventajado alcance y significado de la forma en que el Sacramento de la Comunión fue instituído, es necesario considerar la evolución de nuestro planeta y del hombre compuesto, así como la química de los alimentos y su influencia sobre la humanidad. 
 
@@ -154,7 +154,7 @@ El fenómeno del arco iris requiere que el sol esté cercano al horizonte, cuant
 
 Noé cultivó el vino y obtuvo un espíritu para estimular al hombre. Así, aprovisionado con una constitución mixta y un régimen mixto también apropiado para lo sucesivo y con leyes divinas para guiarle, la raza humana fue dejada a sus propios medios e iniciativas en la batalla de la vida. 
 
-### CAPÍTULO IV: EL SACRAMENTO DE LA COMUNIÓN "EN MEMORIA MÍA" - Segunda parte
+### <h3 id="chapter-4">CAPÍTULO IV: EL SACRAMENTO DE LA COMUNIÓN "EN MEMORIA MÍA" - Segunda parte</h3>
 
 "Nuestro Señor Jesucristo, la misma noche en que fue traicionado, tomó pan y después de dar gracias, lo partió y dijo: Tomad y comed, este es Mi cuerpo que se parte para vosotros. Haced esto en memoria mía. Después y de la misma manera, tomó la copa cuando había cenado, diciendo: Esta copa es el Nuevo Testamento en Mi sangre. Haced esto tantas veces como la bebáis en memoria mía. Pues tantas veces como comáis este pan y bebáis de esta copa, mostraréis la muerte del Señor, hasta que venga. Por consiguiente, quienquiera que coma de este pan y beba de esta copa del Señor indignamente, será culpable del cuerpo y de la sangre del Señor. 
 
@@ -199,7 +199,7 @@ con sagrado ardor, a más puras esferas."
 
 Fue el conocimiento de esta absoluta necesidad de castidad (salvo cuando su objeto es la procreación) respecto de aquellos que han tenido un despertar espiritual, lo que dictó las palabras de Cristo y, el apóstol San Pablo, sentó una verdad esotérica cuando dijo que: Aquellos que participasen de la Comunión sin vivir la vida, estaban en peligro de enfermedad y de muerte. Pues exactamente igual que bajo una tutela espiritual, la pureza de la vida eleva al discípulo maravillosamente, así también la incontinencia produce mucho mayor efecto sobre los cuerpos más sensitivos que sobre los que están todavía bajo la ley y no han conseguido ser partícipes de la gracia por la copa del Nuevo Testamento. 
 
-### CAPÍTULO V: EL SACRAMENTO DEL BAUTISMO
+### <h3 id="chapter-5">CAPÍTULO V: EL SACRAMENTO DEL BAUTISMO</h3>
 
 Habiendo estudiado el significado de nuestras festividades cristianas, tales como la Navidad y la Pascua y habiendo hecho lo mismo con la doctrina de la inmaculada Concepción, bueno será que dediquemos nuestra atención al significado interno de los sacramentos de la Iglesia, que se administran individualmente en todas las tierras cristianas, desde la cuna a la tumba y que le acompañan en todos los momentos interesantes de su viaje terrestre. 
 
@@ -235,7 +235,7 @@ Consecuentemente, cuando una persona es admitida en el seno de la Iglesia, que n
 
 Así es como vemos que existe una significación mística, maravillosamente profunda, detrás del sacramento del bautismo; que esto es, para recordarnos de las bendiciones que caen sobre los miembros de una fraternidad en la que el propio interés es dejado a un lado y en la que el servicio a los demás es la nota fundamental y el resorte único de la acción. Mientras permanecemos en el mundo, el que con éxito domina a los demás, es el más grande. En la Iglesia tenemos la definición de Cristo: "El que sea el más grande entre vosotros, dejad que sea el sirviente de todos los demás." 
 
-### CAPÍTULO VI: EL SACRAMENTO DEL MATRIMONIO
+### <h3 id="chapter-6">CAPÍTULO VI: EL SACRAMENTO DEL MATRIMONIO</h3>
 
 Si se despoja de superfluidades, el argumento de la religión cristiana ortodoxa, puede ser resumido así: 
 
@@ -279,7 +279,7 @@ En vista de estos hechos, ¿es maravilla que veamos semejante horror a la matern
 
 Pero si ahora podemos amarnos cuando nos vemos los unos a los otros "a través de un cristal deslustrado," ocultos por la máscara de la personalidad y el velo del malentendido, estemos seguros que el amor del alma por el alma, purgado de la pasión en el crisol del sufrimiento, será nuestra piedra más preciosa y más brillante en el cielo, como la intensidad de su sombra lo es ahora en la tierra. 
 
-### CAPÍTULO VII: EL PECADO IMPERDONABLE Y LAS ALMAS PERDIDAS
+### <h3 id="chapter-7">CAPÍTULO VII: EL PECADO IMPERDONABLE Y LAS ALMAS PERDIDAS</h3>
 
 Algunos de nuestros estudiantes han sido ilustrados acerca del pecado imperdonable y como quiera que este punto tiene cierta relación con el del matrimonio, ya que uno es un sacrilegio y el otro un sacramento, bueno será que dilucidemos el asunto desde un punto de vista diferente al que anteriormente ha sido tratado en nuestros escritos. 
 
@@ -311,7 +311,7 @@ Como es posible que el lector se encuentre embrollado al examinar lo que ocurre 
 
 Cuando esto ocurre, la órbita de la tal luna vacía se ensancha lentamente, comienza a desintegrarse y es finalmente expelida en los espacios inter-estelares. Los asteroides son restos de lunas que en un tiempo circundaron a Venus y Mercurio. También hay otras lunas en apariencia fragmentos lunares en nuestro sistema solar, pero el Concepto Rosacruz del Cosmos no se ocupa de ellos por estar fuera del límite de la evolución. 
 
-### CAPÍTULO VIII: LA INMACULADA CONCEPCIÓN
+### <h3 id="chapter-8">CAPÍTULO VIII: LA INMACULADA CONCEPCIÓN</h3>
 
 El flujo y reflujo periódico que experimentan las fuerzas materiales y espirituales que circundan la tierra, son las causas invisibles de la actividad física, moral y mental de nuestro globo. 
 
@@ -363,7 +363,7 @@ En conclusión, recapitulemos los puntos estudiados, o sea que todos somos Crist
 
 Que pueda Dios robustecer nuestras aspiraciones a la pureza 
 
-### CAPÍTULO IX: EL CRISTO FUTURO
+### <h3 id="chapter-9">CAPÍTULO IX: EL CRISTO FUTURO</h3>
 
 emos visto previamente como la humanidad en su infancia, en los tiempos de los atlantes, vivía unida bajo la guía directa de divinos caudillos y como fue eventualmente extraída del agua y colocada un una atmósfera clara y límpida donde la separación de cada individuo, de todos los demás, fue de súbito visible. 
 
@@ -401,7 +401,7 @@ De estos hechos y de otros que no es necesario mencionar aquí parece evidente q
 
 Pero podemos estar seguros de que aunque los impostores defrauden por más o menos tiempo, siempre son desenmascarados tarde o temprano y sus planes quedan reducidos a la nada. Mientras tanto, el progreso continúa llevándonos más cerca de la Edad Acuaria y un Maestro está viniendo para dar a la Religión Cristiana nuevo ímpetu en una nueva dirección. 
 
-### CAPÍTULO X: LA EDAD FUTURA
+### <h3 id="chapter-10">CAPÍTULO X: LA EDAD FUTURA</h3>
 
 Cuando hablamos de la "Edad Futura," del "Nuevo Cielo" y de la "Nueva tierra," mencionados en la Biblia y también de la Edad de Acuario, la diferencia no aparecerá clara en las mentes de nuestros estudiantes. La confusión de los términos es uno de los terrenos más fértiles para la falacia y las enseñanzas Rosacruces procuran y se esfuerzan en evitarlo por medio de una nomenclatura determinada. Algunas veces un esfuerzo extraordinario se hace necesario para disipar la niebla engendrada por las corrientes de concepciones nebulosas de autores tan sinceros como el que esto escribe, pero no tan afortunados en ganar acceso a las incomparables Enseñanzas de la Sabiduría del Occidente. 
 
@@ -429,7 +429,7 @@ Sobre la mitad del siglo pasado el Sol entró en la órbita de influencia del si
 
 En la tierra de la puesta del Sol podemos esperar ver primeramente las ideales condiciones de la Edad Acuaria: Una amalgama de religión y de ciencia, que forme una ciencia religiosa y una científica religión, será la promotora de la salud, la felicidad y el goce de la vida en abundante medida. 
 
-#### EL AZÚCAR POR ALCOHOL
+#### <h4 id="sugar-for-alcohol">EL AZÚCAR POR ALCOHOL</h4>
 
 En el capítulo que dilucida la ley de la Asimilación en el "Concepto Rosacruz del Cosmos," afirmamos que los minerales no pueden ser asimilados a causa de carecer de cuerpo vital, carencia que hace imposible al hombre elevar su tono vibratorio a su propio grado. Las plantas tienen un cuerpo vital, pero no conciencia propia, de aquí que sean más fácilmente asimiladas y permenezcan dentro del hombre más que las células de carne animal, que están impregnadas por un cuerpo de deseos. La proporción o tono vibratorio de esta última es alta y se requiere mucha energía para su asimilación; sus células escapan también rápidamente y hacen necesario para el comedor de carne, el alimentarse a menudo. 
 
@@ -445,7 +445,7 @@ En América las pastelerías son cada día rivales más peligrosos de los cafés
 
 El movimiento de continencia fue comenzado en la tierra donde más azúcar se consume y ha generado el espíritu del propio respeto. 
 
-### CAPÍTULO XI: LA COMIDA Y LA BEBIDA COMO FACTORES EN LA EVOLUCIÓN
+### <h3 id="chapter-11">CAPÍTULO XI: LA COMIDA Y LA BEBIDA COMO FACTORES EN LA EVOLUCIÓN</h3>
 
 En anteriores capítulos hemos visto como la humanidad infantil era cuidada por guardianes sobrehumanos, provista del alimento apropiado, conducida por el buen camino y escoltada en todos los aspectos hasta crecer y alcanzar la estatura humana, pronta a entrar en la escuela de la experiencia para aprender las lecciones de la vida en el mundo fenomenal. Hemos visto asimismo como el arco iris señala las leyes naturales peculiares a la edad presente y como fue dado al hombre el libre albedrío bajo estas leyes para enardecer y estimular su tímido y asustadizo espíritu, animándole para la guerra del mundo. 
 
@@ -501,7 +501,7 @@ Así, pués, el valor indomable y la energía que han transformado la faz del mu
 
 Pero el espíritu del alcohol se obtiene por un proceso de fermentación. Es un espíritu de descomposición totalmente diferente del espíritu de vida en el hombre. Este espíritu contrahecho alucina al hombre más y más, manteniendo siempre delante de su vista sueños de grandeza y azuzándole a esfuerzos extenuantes del cerebro y del cuerpo a fin de alcanzarlos y obtenerlos. Pero cuando ha obtenido y alcanzado esto comprende el poco valor de todo lo que constituye su presa. La posición frustra pronto a la ilusión respecto al valor de lo que se haya podido adquirir; nada de lo que puede dar el mundo satisface finalmente. Prontamente el próximo trago ahoga la desilusión y el entendimiento se forja un nuevo sueño. Así prosigue con nuevo celo y más altas esperanzas para encontrar el desengaño de nuevo y otra vez, existencia tras existencia, hasta que consigue aprender que "el vino es un burlón" y que "todo es vanidad excepto servir a Dios y hacer Su voluntad." 
 
-### CAPÍTULO XII: UN SACRIFICIO VIVIENTE
+### <h3 id="chapter-12">CAPÍTULO XII: UN SACRIFICIO VIVIENTE</h3>
 
 Volúmenes y más volúmenes o, mejor aún, muchas librerías se han escrito para explicar la naturaleza de Dios, pero es probablemente una experiencia universal la de que cuando más se leen las explicaciones ajenas, menos se comprende el asunto. Existe una descripción dada por el inspirado apóstol Juan, al escribir: Dios es Luz, la que es tan iluminadora para nuestra mente como las demás oscurecedoras. 
 
@@ -543,7 +543,7 @@ Cuando estamos satisfechos de seguir "en Sus pasos" al punto del sacrificio prop
 
 Este es nuestro glorioso privilegio y la meditación sobre las palabras del apóstol "Dios es Luz" nos ayudará a realizar este ideal, siempre que a nuestra fe añadamos actos, trabajos, y éstos digan por nosotros como dijo el Cristo de Leonardo: "Este es mi cuerpo y esta es mi sangre," un sacrificio viviente sobre el altar de la humanidad. 
 
-### CAPÍTULO XIII: MAGIA: BLANCA Y NEGRA.
+### <h3 id="chapter-13">CAPÍTULO XIII: MAGIA: BLANCA Y NEGRA.</h3>
 
 De vez en cuando y a medida que lo requiere la ocasión prevenimos a los estudiantes de La Fraternidad Rosacruz, en nuestras cartas individuales, que no asistan a sesiones espiritistas ni demostraciones hipnóticas o a los lugares en que se queman inciensos por los vampiros del ocultismo. La magia negra se practica consciente e inconscientemente, de ambas formas, en tan gran extensión que es casi increíble. El "perverso magnetismo animal," que es también otro de los nombres de la Fuerza Negra, es responsable de más fracasos en negocios, pérdidas de salud y desdichas en los hogares de lo que cree la mayoría. Hasta a veces los que perpetran tales ultrajes son, según se dice, inconscientes del mal que hacen. Por consiguiente parece apropiado dedicar un capítulo a la explicación de algunas de las leyes de magia que son las mismas para la blanca que para la negra. solamente hay una fuerza, pero puede ser utilizada para el bien o para el mal, y de acuerdo a la razón que la motiva o al uso que de ella se hace, se convierte en blanca o negra. 
 
@@ -567,7 +567,7 @@ Pero ¡ay!, ninguno de nosotros es del todo bueno. Conocemos demasiado bien la g
 
 Por consiguiente, todos tenemos en nuestro interior el núcleo del mal que facilita el "ábrete sésamo" a las fuerzas demoníacas para trabajar en él. Por esta razón es mejor para nosotros no exponernos innecesariamente a visitar lugares en que se celebren sesiones con espíritus invisibles para nosotros, sin parar mientes en lo elevadas que puedan parecer sus enseñanzas. Tampoco debemos tomar parte, ni aún como espectadores, en demostraciones hipnóticas, puesto que allí una actitud negativa nos tiene sujetos al peligro de la obsesión. Debemos seguir en todas las ocasiones el consejo de Pablo y revestirnos de la completa armadura de Dios. Debemos ser positivos en nuestra lucha por el bien contra el mal, sin dejar pasar nunca la ocasión de ayudar a los Hermanos Mayores, de palabra o de obra, en la Gran Lucha por la supremacía espiritual. 
 
-### CAPÍTULO XIV: NUESTRO GOBIERNO INVISIBLE
+### <h3 id="chapter-14">CAPÍTULO XIV: NUESTRO GOBIERNO INVISIBLE</h3>
 
 Los estudiantes de la Filosofía Rosacruz saben muy bien que cada especie de animales está dominada por un espíritu grupo que es su guardián y que cuida de ellos, por su seguridad y para darles lo conveniente en el sendero de su evolución y lo más apropiado a su desarrollo. No importa la posición geográfica de estos animales; el león de las selvas africanas está dominado por el mismo espíritu grupo que el león encerrado en una jaula de cualquiera de los circos de las comarcas nórdicas. Por consiguiente estos animales son todos semejantes en sus características principales; tienen los mismos gustos y preferencias con respecto a las dietas y accionan de manera igual en circunstancias parecidas. Si se quiere estudiar la especie de los leones, o la de los tigres, todo se reduce a estudiar un individuo, puesto que no tienen albedrío ni prerrogativa alguna, sino que accionan enteramente de acuerdo con los dictados de su espíritu grupo. El mineral no puede escoger entre cristalizarse o no; la rosa se ve sujeta a florecer; el león se ve impelido hacia su presa, y en cada caso la actividad está dictada enteramente por el espíritu grupo. 
 
@@ -593,7 +593,7 @@ Otro objetivo debe también ser alcanzado. De todos los terrores a que la humani
 
 El intenso pesar de millones de seres, el anhelo de ver de nuevo a los que nos son queridos y que tan súbita y cruelmente nos han sido arrebatados, son una fuerza de incalculable poder y fortaleza. De igual manera aquellos que han sido cercenados por la muerte prematuramente y que están ahora en el mundo invisible, con la misma intensidad sienten ahora el deseo de reunirse a los que les son cercanos y queridos para decirles palabras de consuelo que puedan convencerles del bienestar que están disfrutando. Puede así decirse que dos grandes ejércitos formados por millones y millones, están minando con fantástica energía e intensidad de propósito, los muros que separan lo visible de lo invisible. Día tras día, estos muros o velos se hacen más livianos, más débiles, y más tarde o más temprano, los vivos y los muertos que viven, se encontrarán en la mitad del túnel. Antes de lo que nos imaginamos la comunicación se establecerá, y entonces encontraremos lo más natural del mundo que cuando algunos de los seres que nos sean más queridos queden desprovistos de sus masas materiales no sintamos ni pesar ni pérdida alguna, porque podremos verles a todas horas en sus cuerpos etéreos, moviéndose alrededor nuestro como hasta entonces lo hicieran. Así venceremos el gran conflicto de la muerte y podremos decir. "Oh, muerte! ¿dónde está tu guadaña...? ¡Oh, sepulcro! ¿cuál es tu victoria...?." 
 
-### CAPÍTULO XV: PRECEPTOS PRÁCTICOS PARA GENTE PRÁCTICA.
+### <h3 id="chapter-15">CAPÍTULO XV: PRECEPTOS PRÁCTICOS PARA GENTE PRÁCTICA.</h3>
 
 "Si yo debiese lucrarme con los principios sustentados en el Sermón de la Montaña, me arruinaría en menos de un año," dijo un crítico recientemente. "Porque la Biblia es altamente impracticable bajo nuestras condiciones económicas actuales y es imposible vivir de acuerdo con ella." 
 
@@ -627,7 +627,7 @@ Es un hecho reconocido por cuantas autoridades han investigado el asunto, que co
 
 Pero si no nos cuidamos más que de que pasen las horas, trabajando por miedo a por favor, no debemos esperar el éxito al final de la carrera; la salud, la fortuna y la felicidad pueden pertenecernos un ratito más, pero aparte del sólido fundamento de la Biblia, no puede existir una alegría duradera en la vida, ni una prosperidad real en los negocios. 
 
-### CAPÍTULO XVI: EL SONIDO, EL SILENCIO Y EL DESARROLLO DEL ALMA.
+### <h3 id="chapter-16">CAPÍTULO XVI: EL SONIDO, EL SILENCIO Y EL DESARROLLO DEL ALMA.</h3>
 
 Los estudiantes sinceros de la ciencia del alma se sienten naturalmente ansiosos de desarrollar su gracia a fin de cooperar mejor en el Gran Trabajo de la elevación del Género Humano. Siendo modestos y humildes experimentan, sin embargo, en demasía la amplitud de sus defectos y frecuentemente, mientras meditan acerca de los medios de facilitar el progreso, se preguntan: ¿Qué es lo que lo impide? Algunos de ellos, especialmente en tiempos pasados, cuando la existencia no era tan intensamente vivida como lo es en estos días, observaban que la vida ordinaria entre la humanidad de aquel entonces tenía sus inconvenientes. Para vencerlos y adelantar su desarrollo anímico se retiraban de la comunidad a un monasterio o a las montañas donde podían entregarse sin estorbo alguno a su existencia espiritual. 
 
@@ -657,7 +657,7 @@ Sabemos que el cuerpo vital se halla siempre almacenando fuerza en el cuerpo fí
 
 Por lo tanto, debemos por todos los medios volar de los ruidos que no tengamos necesidad de oír y cultivar personalmente el silencio y caritativo ademán, la voz moderada, la marcha silenciosa, la presencia oportuna y todas las demás virtudes que contribuyen a la armonía, pues entonces el proceso de restauración se efectúa rápidamente y quedamos libres la mayor parte de la noche para trabajar en los mundos invisibles y ganar un poder de alma grande. Recordemos que en este intento de progreso y purificación, no nos debemos desalentar por nuestros fracasos momentáneos y ocasionales, pensando en la admonición de San Pablo para continuar con persistente paciencia en el bien obrar. 
 
-### CAPÍTULO XVII: EL MAGNO MISTERIO DE LA ROSACRUZ
+### <h3 id="chapter-17">CAPÍTULO XVII: EL MAGNO MISTERIO DE LA ROSACRUZ</h3>
 
 De vez en cuando llegan a nuestras manos cartas de los estudiantes quejándose de que se encuentran solos en el estudio de la Filosofía Rosacruz, que sus esposas, o esposos, o hijos, o bien otros familiares no simpatizan o son antagónicos a las enseñanzas, a despecho de todos los esfuerzos de tales estudiantes para ganarles a la causa o interesarles favorablemente y de este modo tener un compañero más en sus estudios, o por lo menos libertad para seguir sus inclinaciones. Esta fricción les produce un cierto estado de infelicidad de acuerdo con sus temperamentos y se nos pregunta por los referidos estudiantes el consejo para vencer su antagonismo y convertir a sus relaciones. 
 
@@ -689,7 +689,7 @@ Asimismo hay muchos que gustan de discutir de una comida inofensiva, pacífica y
 
 ¿Es algo de extraño que esta pobre señora juzgase a la religión por el hombre y no quisiera tener ninguna? Sin duda alguna él es digno de censura, llamándose como se llamaba a sí mismo "el custodio de su hermano," y aunque esto representa un caso extremado hace el ejemplo y la lección que de él se deriva más patente. Es una alabanza grande para Mahoma el que su esposa fuera su primer discípulo y ello dice infinidad de sus bondades y consideraciones en su hogar. En este sentido es un ejemplo que todos haremos bien en seguir, si queremos conseguir amigos y simpatizantes de la vida superior, pues aunque todos los sistemas religiosos difieren externamente "la esencia y substancia de todos es el Amor." 
 
-### CAPÍTULO XVIII: OBSTÁCULOS EN LA MARCHA
+### <h3 id="chapter-18">CAPÍTULO XVIII: OBSTÁCULOS EN LA MARCHA</h3>
 
 Con bastante frecuencia se hace la observación por gentes que no aman o simpatizan con nuestras aspiraciones de vivir la vida superior, de que ésta convierte a los hombres en inútiles para el trabajo del mundo. Desgraciadamente no se puede negar que haya aparentemente una justificación para que se expresen de este modo, aunque en realidad el primer requisito para vivir esta vida envuelve una obligación ineludible de comportarse irreprochablemente en los asuntos materiales, porque a menos de que seamos fieles en las cosas pequeñas, ¿cómo podemos esperar a que se nos confíen grandes responsabilidades? Por esta razón hemos juzgado conveniente el dedicar una lección a la discusión de algunas de las cosas que actúan como obstáculos de la marcha en la vida de los aspirantes. 
 
@@ -746,7 +746,7 @@ las tinieblas de aquellas lejanas regiones.
 Así, pues, llenemos nuestro cometido  
 brillando precisamente donde estemos."  
 
-### CAPITULO XIX: LA ESCLUSA DE LA ELEVACIÓN
+### <h3 id="chapter-19">CAPITULO XIX: LA ESCLUSA DE LA ELEVACIÓN</h3>
 
 ¿Ha visto el lector alguna vez a los buques como marchan por un canal y son elevados de un nivel a otro? Es un proceso muy interesante e instructivo. 
 
@@ -774,7 +774,7 @@ Para contestarlas debemos remarcar otra vez que nadie puede elevar a otro si no 
 
 Ahora es la época del año (Navidad) cuando la cresta de la ola de poder espiritual envuelve al mundo, la cual culmina en el solsticio invernal, cuando Cristo renace en nuestro planeta, y aunque oprimido por las presentes condiciones de la deplorable guerra (desde el punto de vista limitado), la vida de Él que se nos da pródigamente debe ser más fácilmente atraída por el aspirante en esta estación para impulsar el desarrollo espiritual, por lo tanto, todo aquel que esté deseoso de alcanzar los niveles superiores hará bien en mostrar esfuerzos especiales en este sentido durante la época invernal. 
 
-### CAPITULO XX: EL SIGNIFICADO CÓSMICO DE LA PASCUA - Primera parte
+### <h3 id="chapter-20">CAPITULO XX: EL SIGNIFICADO CÓSMICO DE LA PASCUA - Primera parte</h3>
 
 En la mañana del Viernes Santo del año 1857, Ricardo Wágner, el artista consumado del siglo diecinueve, se hallaba sentado en la azotea de una villa suiza, al lado del lago de Zurich. El panorama que le circundaba se hallaba envuelto por una luz gloriosa de un día de sol diáfano: paz y buena voluntad parecía vibrar en toda la creación. Toda la naturaleza estaba saturada de vida y el aire estaba cargado con el perfume fragante de los bosques de pino, un bálsamo bienhechor para un corazón dolorido y una mente intranquila. Entonces, de repente, como si fuera una flecha disparada desde el cielo turquí, llegó a lo profundo del alma mística de Wágner una remembranza del ominoso significado de aquel día -el más tenebroso y triste del año cristiano-. Este recuerdo casi le hundió en la tristeza más profunda, viendo y contemplando el contraste. Había tal marcada incongruencia entre la sonriente escena que tenía delante de él, la actividad patente y observable de toda la natura, luchando por la renovación de su vida después del largo sueño letárgico del invierno y la lucha de la muerte del torturado Salvador en una cruz; entre el canto sonoro y a pleno pulmón de amor y vida que emitían los millares de pequeños cantores vestidos de plumas del bosque, zarzales y pradera y los ominosos alaridos de odio, lanzados por un populacho iracundo, contra el más noble de los ideales que el mundo ha conocido, al que escarnecían y denigraban; entre la maravillosa energía creadora manifestada por la naturaleza en la primavera y el destructor elemento del hombre que asesinó al carácter más noble que ha honrado a la Tierra. 
 
@@ -802,7 +802,7 @@ Esto proclamó Angelus Silesius, con una verdadera intuición mística de los re
 
 Pero una vez que estas naturalezas hayan sido despertadas, ellas sentirán el Amor del Señor como una realidad primordial, puesto que se basa en el principio de que cuando se hace vibrar a un diapasón, otro de igual temple comenzará a vibrar también si está colocado a una distancia conveniente, mientras que dos diapasones de distinto temple permanecerán mudos al ser herido uno cualquiera de ellos. Por todo lo cual, Cristo dijo que Sus ovejas conocían el sonido de la voz de El y respondían, pero que no oían la voz del extraño. (San Juan 10:5). No importa nuestra filiación religiosa, o nuestros credos, todos somos hermanos de Cristo y así regocijémonos ¡el Señor ha resucitado! Busquémosle, pues, a Él y olvidemos nuestros credos y otras diferencias de menor cuantía 
 
-### CAPÍTULO XXI: EL SIGNIFICADO CÓSMICO DE LA PASCUA - Segunda parte
+### <h3 id="chapter-21">CAPÍTULO XXI: EL SIGNIFICADO CÓSMICO DE LA PASCUA - Segunda parte</h3>
 
 Una vez más hemos alcanzado el acto final en el drama cósmico que envuelve el descenso del solar rayo de Cristo dentro de la materia de nuestra Tierra, el cual se completa al nacimiento místico, que se celebra por la Navidad y la muerte mística con su Liberación, que se conmemora muy poco después del equinoccio vernal cuando el sol del año nuevo comienza su ascenso hacia las esferas superiores de los cielos nórdicos, una vez que ha exhalado su vida para salvar a la humanidad y dar nuevo vigor a todas las cosas sobre la Tierra. 
 
@@ -840,7 +840,7 @@ Con estos ideales impresos firmemente en nuestras mentes, la época de la Pascua
 
 Esta es una tarea gigantesca; la contemplación de ella puede acobardar al corazón más bravo y la que, si nos viéramos completamente solos, no podría ser realizada; pero las jerarquías divinas que tienen a su cargo la dirección de la humanidad por el sendero de la evolución, desde el principio de la carrera, están todavía activamente trabajando con nosotros desde sus mundos siderales y, con su ayuda, seremos capaces oportunamente para conseguir esta elevación de la humanidad en su totalidad y alcanzar una condición de gloria, honor e inmortalidad. Teniendo esta esperanza presente dentro de nosotros mismos para esta gran misión en el mundo, trabajemos con un mayor entusiasmo para hacernos mejores miembros de la sociedad, para que, con nuestro ejemplo, hagamos a otros despertar el deseo de llevar la vida que conduce a la liberación. 
 
-### CAPÍTULO XXII: EL CRISTO RECIÉN NACIDO
+### <h3 id="chapter-22">CAPÍTULO XXII: EL CRISTO RECIÉN NACIDO</h3>
 
 Se ha dicho repetidas veces en nuestra literatura que el sacrificio de Cristo no es un acontecimiento que, empezando en el Gólgota, fuera efectuado en unas cuantas horas de una vez y terminado. No, nada de eso, sino que los nacimientos místicos y muertes del Redentor son continuas ocurrencias cósmicas. Podemos, por lo tanto, decir que este sacrificio es necesario para nuestra evolución física y espiritual durante la presente fase de nuestro desarrollo. Según se aproxima el nacimiento anual del niño Cristo, se presenta un siempre joven, un siempre nuevo tema de meditación, del cual podemos aprovecharnos dedicándole una oración, que pueda encender en nuestros corazones, una luz nueva para guiarnos por el sendero de la regeneración. 
 
@@ -868,7 +868,7 @@ Las almas jóvenes encuentran dificultades para acostumbrar a sus mentes la pers
 
 Al mismo tiempo debemos exaltar a Dios en nuestras conciencias aceptando la afirmación de la Biblia de que Él es espíritu y de que no debemos hacer de Él ni estatuas, ni pinturas, puesto que no tiene semejanza en cielos ni Tierra. Podemos ver los vehículos físicos de Jehová rodeando como satélites a los planetas; podemos también ver al Sol, el cual es el vehículo visible de Cristo y, el origen de todo, aparece hasta para los más grandes videntes solamente como una octava superior de la fortaleza del Sol, un anillo de una luminosidad azul-violácea detrás del sol. Pero no necesitamos ver, podemos muy bien sentir su amor y, este sentimiento, nunca es tan intenso como por Navidad, cuando nos hace el más preciado regalo, el Cristo del año nuevo. 
 
-### CAPITULO XXIII: POR QUE SOY ROSACRUZ
+### <h3 id="chapter-23">CAPITULO XXIII: POR QUE SOY ROSACRUZ</h3>
 
 Frecuentemente sucede encontrar a alguien que aprovecha la oportunidad de explicar públicamente por qué es Bautista, Metodista o Cristiano Científico, o por qué profesa cualquiera otra fe. A menudo nos han preguntado nuestros estudiantes, para explicarlo mejor a sus asociados, por qué han abrazado las enseñanzas de los Hermanos Mayores, dadas por conducto de "La Fraternidad Rosacruz," en vez de cualquier otra. Por tanto, nos esforzaremos en resumir sucintamente las razones que nos parecen suficientes, pero los estudiantes indudablemente encontrarán otras razones igualmente buenas, o mejores, que ellos pueden añadir verbalmente a lo que sobre el particular sea dicho. Debería explicarse claramente, ante todo, que los estudiantes de "La Fraternidad Rosacruz," no se llaman a sí mismos Rosacruces, sino que tal título se aplica solamente a los Hermanos Mayores, que son los hierofantes de las Sabias Enseñanzas del Oeste, y cuya elevación está por sobre el santo más grande que hubiese vivido, desde el punto de vista de su desarrollo espiritual, así como el santo está sobre el más vulgar de los adoradores de fetiches. Cuando la barca de nuestra vida navega ligera sobre el dulce mar en calma, sostenida suavemente por las hermosas brisas de la salud y de la prosperidad; cuando los amigos están siempre prontos a ayudarnos en los placeres que aumentarán nuestra alegría en los bienes de este mundo; cuando los favores sociales o los poderes políticos nos son conferidos en cualquier esfera en que nuestras inclinaciones se expresen, entonces, podemos decir sin temor de equivocarnos, con toda el alma: "Este mundo es bastante bueno para mi." Pero cuando el mar de los sucesos cambie el placer en padecer; cuando el viento fuerte de la adversidad nos estrelle contra la rocallosa orilla del desastre y la ola del sufrimiento nos envuelva; cuando los amigos nos hayan abandonado y toda ayuda humana esté tanto lejos como inaccesible, entonces, como hace el marinero cuando lucha con el ímpetu de las olas, buscaremos la guía en las estrellas. 
 
@@ -898,7 +898,7 @@ Bajo la ley inmutable de causa y efecto, estamos destinados a encontrar esos ser
 
 Pero aunque nuestra razón pueda llegar hasta los misterios de la vida, hay, sin embargo, un estado más elevado: el actual conocimiento directo, que es aún el más alto grado de conciencia capaz de verificar las precedentes consideraciones por medio del sexto sentido latente en nuestro ser, que nos haría aptos para ver los mundos espirituales tan claramente como vemos el mundo temporal. Este sexto sentido se desenvuelve en todo el curso de la evolución, y hay algunos medios de desarrollarlo ahora para aquellos que se tomen el trabajo y tiempo necesarios. Algunos han llegado a este fin, y ellos nos hablan de sus viajes en el mundo del alma. Nosotros les creemos al igual que a aquellos que han viajado por Africa o Australia y nos hablan de aquellas tierras. E igualmente que nosotros podemos decir nosotros conocemos que la Tierra gira sobre su eje y describe una órbita alrededor del Sol porque así lo dicen los científicos que han hecho tales investigaciones y cálculos que establecen esos hechos, así también decimos que sabemos que el muerto vive, y que nosotros muertos o vivos, en el cuerpo o fuera de él, descansamos en el Amor de nuestro Padre que está en los Cielos, "sin cuya Voluntad ni aún el más leve pajarillo cae a tierra;" que El cuida de todos y guía nuestros pasos de acuerdo con sus planes a desarrollar en lo posible nuestros poderes espirituales hasta la más elevada potencialidad. Así por cuanto da lógica satisfacción al alma la filosofía de la vida dada por los Rosacruces, nosotros seguimos sus enseñanzas con preferencia de otros sistemas e invitamos a otros quienes deseen una porción de sus bendiciones a la investigación de éstas. 
 
-### CAPITULO XXIV: EL OBJETO DE LA FRATERNIDAD ROSACRUZ
+### <h3 id="chapter-24">CAPITULO XXIV: EL OBJETO DE LA FRATERNIDAD ROSACRUZ</h3>
 
 El objeto de la Fraternidad Rosacruz ha sido definido claramente en nuestra literatura, añadiendo que tiene los medíos por los cuales existe la esperanza de alcanzar el fin propuesto, pero como contestación a las muchas preguntas que se nos han dirigido en demanda de un relato breve y conciso, queremos dedicar este artículo a esta materia. 
 
