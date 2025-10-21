@@ -1,39 +1,23 @@
-# RECOLECCIONES DE UN MÍSTICO
+---
+title: "Recolecciones de un Místico"
+language: 'es'
+original_title: "Gleanings of a Mystic"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'gleanings-of-a-mystic.md'
+---
 
-UNA SERIE DE ENSAYOS SOBRE MISTICISMO PRÁCTICO
+<h1 id="gleanings-of-a-mystic">Recolecciones de un Místico</h1>
 
-por
-Max Heindel
-[1865-1919]
+Una serie de ensayos sobre misticismo práctico
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+por Max Heindel [1865-1919]
 
-Título Original:
+THE ROSICRUCIAN FELLOWSHIP  
+P.O. Box 713  
+Oceanside, CA. 92049-0713 USA  
 
-"GLEANINGS OF A MYSTIC"
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-
-
-### PREFACIO
+### <h3 id="foreword">PREFACIO</h3>
 
 Las materias de este libro recopilan los últimos escritos de Max Heindel, el místico. Contienen algunos de sus más profundos pensamientos y son el resultado de años de busca y de oculta investigación. Él, también, podría decir como Parsifal: "a través del error y del sufrimiento vine, en medio de muchos fracasos y entre incontables pesares." Finalmente obtuvo el agua de vida con la cual pudo apagar la sed espiritual de muchas almas. Desarrolló hasta sus profundidades la piedad y el amor y pudo sentir las palpitaciones de la humanidad doliente. 
 
