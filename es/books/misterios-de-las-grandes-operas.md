@@ -17,7 +17,38 @@ THE ROSICRUCIAN FELLOWSHIP
 P.O. Box 713  
 Oceanside, CA. 92049-0713 USA  
 
-### CAPÍTULO PRIMERO: LA DISCORDIA DIVINA 
+### <h3 id="table-of-contents">ÍNDICE DE MATERIAS</h3>
+
+- [FAUSTO](#faust)
+    - [CAPÍTULO I - La discordia Divina](#chapter-1)
+    - [CAPÍTULO II - Los sinsabores del alma que busca](#chapter-2)
+    - [CAPÍTULO III - Los sinsabores del alma que busca (cont.)](#chapter-3)
+    - [CAPÍTULO IV - Vendiendo su alma a Satán](#chapter-4)
+    - [CAPÍTULO V - Vendiendo su alma a Satán (cont.)](#chapter-5)
+    - [CAPÍTULO VI - Las consecuencias del pecado y los caminos de salvación](#chapter-6)
+
+- [PARSIFAL](#parsifal)
+    - [CAPÍTULO VII - El famoso drama místico de Wágner](#chapter-7)
+
+- [EL ANILLO DE LOS NIEBELUNGOS](#ring-of-the-niebelung)
+    - [CAPÍTULO VIII - Las Doncellas del Rhin](#chapter-8)
+    - [CAPÍTULO IX - El Anillo de los dioses](#chapter-9)
+    - [CAPÍTULO X - Las Valkirias](#chapter-10)
+    - [CAPÍTULO XI - Siegfried, el buscador de la verdad](#chapter-11)
+    - [CAPÍTULO XII - El combate de la verdad y el error](#chapter-12)
+    - [CAPÍTULO XIII - El renacimiento y la bebida letal](#chapter-13)
+    - [CAPÍTULO XIV - El crepúsculo de los Dioses](#chapter-14)
+
+- [TANNHAUSER](#tannhauser)
+    - [CAPÍTULO XV - El péndulo de la alegría y de la tristeza](#chapter-15)
+    - [CAPÍTULO XVI - Los trovadores, iniciados de la Edad Media](#chapter-16)
+    - [CAPÍTULO XVII - El pecado imperdonable](#chapter-17)
+    - [CAPÍTULO XVIII - La vara que brotó](#chapter-18)
+
+- [LOHENGRIN](#lohengrin)
+    - [CAPÍTULO XIX - El caballero del Cisne](#chapter-19)
+
+### <h3 id="chaptetr-1">CAPÍTULO PRIMERO: LA DISCORDIA DIVINA</h3>
 
 Al mencionar el nombre de Fausto la mayoría de la gente educada piensa en seguida en la adaptación escénica de esta ópera, hecha por Gounod. Algunos admiran la música, pero el argumento no parece impresionar a nadie de una manera particular. Tal como se nos presenta en esta ópera parece ser la historia, desgraciadamente demasiado común, de un hombre sensual que traiciona a una ingenua doncella, abandonándola después para que expíe su locura y sufra por su exceso de confianza. El aspecto de magia y brujería de algunas escenas de la obra, es considerado por la mayoría de la gente como fantasías de un autor que las ha introducido para dar más vigor e interés a las acciones sórdidas de la vida. 
 
@@ -1188,42 +1219,6 @@ Es por consiguiente de la mayor importancia que aquellos que buscan la iniciaci�
 
 Es, sin embargo, muy significativo que el hermano de Elsa fuera, como se indica en la última escena, el cisne que había traído a Lohengrin a su hermana y que fue transmutado otra vez a su figura natural cuando Lohengrin partió. El había pasado por la Iniciación. 
 
-Debía, sin duda, saber la situación apurada de su hermana, como un alma adelantada conoce las luchas de otra alma, pero aunque él viese la condición de tan noble aspirante, o alma hermana, no temía nada; puesto que, ¿no era él quien debía llevarla el socorro que hubiera podido tener permanentemente a su lado si Elsa hubiese sido tan fiel como él? 
-
-ÍNDICE DE MATERIAS
-
-FAUSTO
-
-CAPÍTULO I - La discordia Divina 
-CAPÍTULO II - Los sinsabores del alma que busca 
-CAPÍTULO III - Los sinsabores del alma que busca (cont.) 
-CAPÍTULO IV - Vendiendo su alma a Satán 
-CAPÍTULO V - Vendiendo su alma a Satán (cont.) 
-CAPÍTULO VI - Las consecuencias del pecado y los caminos de salvación 
-
-PARSIFAL
-
-CAPÍTULO VII - El famoso drama místico de Wágner 
-
-EL ANILLO DE LOS NIEBELUNGOS
-
-CAPÍTULO VIII - Las Doncellas del Rhin 
-CAPÍTULO IX - El Anillo de los dioses 
-CAPÍTULO X - Las Valkirias 
-CAPÍTULO XI - Siegfried, el buscador de la verdad 
-CAPÍTULO XII - El combate de la verdad y el error 
-CAPÍTULO XIII - El renacimiento y la bebida letal 
-CAPÍTULO XIV - El crepúsculo de los Dioses 
-
-TANNHAUSER
-
-CAPÍTULO XV - El péndulo de la alegría y de la tristeza 
-CAPÍTULO XVI - Los trovadores, iniciados de la Edad Media 
-CAPÍTULO XVII - El pecado imperdonable 
-CAPÍTULO XVIII - La vara que brotó 
-
-LOHENGRIN
-
-CAPÍTULO XIX - El caballero del Cisne 
+Debía, sin duda, saber la situación apurada de su hermana, como un alma adelantada conoce las luchas de otra alma, pero aunque él viese la condición de tan noble aspirante, o alma hermana, no temía nada; puesto que, ¿no era él quien debía llevarla el socorro que hubiera podido tener permanentemente a su lado si Elsa hubiese sido tan fiel como él?
 
 Fin
