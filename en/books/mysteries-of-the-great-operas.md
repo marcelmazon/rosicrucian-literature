@@ -7,7 +7,7 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-Mysteries of the Great Operas 
+<h1 id="mysteries-of-the-great-operas">Mysteries of the Great Operas</h1>
 
 by Max Heindel [1865-1919]
 
@@ -19,9 +19,7 @@ P.O. Box 713
 Mt. Ecclesia  
 Oceanside, California, 92054, U.S.A.  
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
-
---- 
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [FAUST](#faust)
     - [Chapter I: Divine Discord](#chapter-1)

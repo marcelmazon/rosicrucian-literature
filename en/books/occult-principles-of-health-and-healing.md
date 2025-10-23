@@ -41,6 +41,7 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
   - [Chapter III: The Desire Body and the Mind](#chapter-3)
     - [The Desire Body](#the-desire-body)
     - [The Mind](#the-mind)
+    
 - [PART II - DISEASE](#part-2)
   - [Chapter IV: General Causes of Disease](#chapter-4)
     - [Introduction](#chapter-4-introduction)

@@ -9,9 +9,9 @@ original_source_file: 'self'
 
 <h1 id="gleanings-of-a-mystic">Gleanings of a Mystic</h1>
 
-By Max Heindel [1865-1919]
-
 A SERIES OF ESSAYS ON PRACTICAL MYSTICISM
+
+By Max Heindel [1865-1919]
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  
@@ -29,7 +29,7 @@ In writing the books and monthly lessons of the Fellowship, in his lectures and 
 
 In Gleanings of a Mystic are found twenty-four lessons which were formerly sent out to students. It is the wish of the writer of this introduction that these lessons may carry a message of love and cheer to the soul-hungry reader and hope to the disconsolate one. 
 
-Augusta Foss Heindel 
+\- Augusta Foss Heindel 
 
 ### <h3 id="table-of-contents">Table of Contents</h3>
 
@@ -43,6 +43,7 @@ Augusta Foss Heindel
 - [Chapter VIII: The Immaculate Conception](#chapter-8)
 - [Chapter IX: The Coming Christ](#chapter-9)
 - [Chapter X: The Coming Age](#chapter-10)
+    - [Sugar for Alcohol](#sugar-for-alcohol)
 - [Chapter XI: Meat and Drink as Factors of Evolution](#chapter-11)
 - [Chapter XII: A Living Sacrifice](#chapter-12)
 - [Chapter XIII: Magic, White and Black](#chapter-13)
