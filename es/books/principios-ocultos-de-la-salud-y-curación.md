@@ -11,9 +11,9 @@ original_source_file: 'occult-principles-of-health-and-healing.md'
 
 por Max Heindel [1865-1919]
 
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
+THE ROSICRUCIAN FELLOWSHIP  
+P.O. Box 713  
+Oceanside, CA. 92049-0713 USA  
 
 ### <h3 id="foreword">Prefacio</h3>
 
@@ -714,18 +714,19 @@ Por consiguiente, es de la mayor importancia que el aspirante que usa su cuerpo 
 
 La tabla siguiente muestra la cantidad de ácido fosfórico en algunos artículos: 
 
-En cada 100.000 partes de:
-Cebada seca, contenido de ácido fosfórico - 210 partes
-Frijoles (porotos, habichuelas, etc.) - 292
-Remolacha - 690 partes
-Centeno - 170
-Zanahorias secas - 315
-Zanahorias hojas - 963
-Semillas de lino - 880
-Tallos de lino - 880
-Chirivías - 111
-Chirivías hojas - 1.784
-Guisantes - 190
+| En cada 100.000 partes de             | Contenido de ácido fosfórico |
+| ------------------------------------- | ---------------------------- |
+| Cebada seca                           | 210 partes                   |
+| Frijoles (porotos, habichuelas, etc.) | 292                          |
+| Remolacha                             | 690 partes                   |
+| Centeno                               | 170                          |
+| Zanahorias secas                      | 315                          |
+| Zanahorias, hojas                     | 963                          |
+| Semillas de lino                      | 880                          |
+| Tallos de lino                        | 880                          |
+| Chirivías                             | 111                          |
+| Chirivías hojas                       | 1.784                        |
+| Guisantes                             | 190                          |
 
 En realidad, cada aspirante debe elegir los alimentos que digiera con más facilidad, porque cuanto más fácilmente los digiera, tanto mayor energía extraerá de ellos y tanto más tiempo pasará antes que el organismo necesite reaprovisionarse. Nunca hay que beber la leche como si se bebiera un vaso de agua. Tomada de esta manera forma en el estómago como una bola de queso, completamente impenetrable a la acción del jugo gástrico. Debe sorberse en forma lenta, porque así irá formando pequeños glóbulos en el estómago, con lo cual será fácilmente asimilada. Los frutos cítricos son poderosos antisépticos, los cereales, especialmente en arroz, son antitóxicos de gran eficacia. 
 
@@ -745,7 +746,7 @@ Esta destrucción progresa incesantemente y es imposible mantener todos los dest
 
 En un remoto pasado existió un tiempo en que exteriorizábamos las concreciones, como lo hacen los moluscos actualmente, manteniendo el cuerpo flexible, blando, elástico y sin huesos, pero en ese tiempo también teníamos la oscura y vaga conciencia de los moluscos de hoy en día. Antes de poder adelantar era necesario que retuviéramos esas concreciones, y no es difícil comprobar que el desarrollo de la conciencia de cualquier especie está en proporción directa con el desarrollo del esqueleto interno. El Ego debe tener los huesos sólidos, con su médula semifluida y rojiza, a fin de poder formar los necesarios corpúsculos rojos para su expresión Ése es el desenvolvimiento más elevado del cuerpo denso. 
 
-#### Razones determinantes de la dieta vegetariana. 
+#### <h4 id="reasons-for-a-vegetarian-diet">Razones determinantes de la dieta vegetariana</h4>
 
 La mayor parte de las gentes creen que una comida sin carne es incompleta, ya que, desde tiempos inmemoriales, se ha considerado axiomático que la carne es el alimento más vigorizador que tenemos. Todos los demás alimentos han sido considerados como meros accesorios o condimentos para una clase u otra de carne del menú. Nada es más erróneo, porque la ciencia ha demostrado, mediante la experimentación, que invariablemente la nutrición obtenida de los vegetales tiene un poder sustentador mayor, y la razón no es difícil de ver cuando observamos las cosas desde el punto de vista oculto. 
 
@@ -785,7 +786,7 @@ En muchos lugares de la Biblia se habla de "carne," aunque es evidente que no se
 
 Hay un motivo esotérico en el significado de alimentar a la multitud con pescado; pero si nos limitamos al punto de vista estrictamente material, podemos resumir todos los puntos ya mencionados reiterando que llegará el tiempo en que nos será imposible comer carne o pescado, de la misma manera que ya hemos sobrepasado la etapa del canibalismo. Sean cuales fueren las tolerancias que se hayan permitido en el bárbaro pasado, todas ellas desaparecerán en el futuro altruista, en que una sensibilidad más refinada habrá despertado en nosotros un sentido profundo de los horrores que implican nuestros gustos carnívoros. 
 
-Necesidad de una dieta equilibrada y atrayente. 
+#### <h4 id="necessity-for-an-attractive-balanced-diet">Necesidad de una dieta equilibrada y atrayente</h4>
 
 En la más sublime de todas las oraciones se nos enseña, por el Cristo mismo, a rogar por nuestro pan cotidiano; pero en las condiciones contemporáneas, ¡cuántas veces conseguimos en vez de pan una piedra! 
 
@@ -799,7 +800,7 @@ Algunas personas que no han recibido las instrucciones adecuadas sobre este impo
 
 La dieta, como la salud, tiene que determinarse individualmente y no pueden establecerse normas generales para todos. Al mismo tiempo podemos decir que cuanto menos carne comamos, tanto mejor, pues más buena será nuestra salud. Pero si queremos abstenernos de ella por completo, es absolutamente esencial que estudiemos una buena tabla de valores alimentarios, de manera que podamos obtener las proteínas necesarias de los vegetales que comamos. Nadie puede ir a sentarse a la mesa corriente y obtener suficiente alimento si solo ingiere los vegetales que se suministran como accesorios de los platos de carne: tiene que consumir también frijoles, guisantes, nueces y otros alimentos similares, ricos en proteínas, que reemplacen a la carne, pues de lo contrario sufrirá hambre. 
 
-#### El papel de los estimulantes en la evolución. 
+#### <h4 id="the-role-of-stimulants-in-evolution">El papel de los estimulantes en la evolución</h4> 
 
 El espíritu alcohólico, que ha sido fermentado fuera del cuerpo, será reemplazado por el azúcar, que fermenta dentro. En el pasado era indispensable un estimulante para levantar el espíritu humano del letargo que le producía la dieta carnívora, y las orgías y bacanales que se celebraban en los tiempos antiguos, que actualmente nos llenan de horror, eran entonces de inmenso valor para el desenvolvimiento humano. Conforme vaya aumentando el consumo de azúcar, disminuirá correlativamente el del alcohol y, concurrentemente, se irá elevando el nivel ético. El ser humano se va volviendo más y más altruista y crístico en proporción al empleo que haga del estimulante que no embriaga, siendo por eso el movimiento temperante uno de los factores más poderosos para apresurar la venida del Cristo. 
 
@@ -809,7 +810,7 @@ Entretanto, la vida vegetal se va haciendo más y más sensible. Las ramas later
 
 Actualmente tenemos ya una considerable capacidad para trabajar con las substancias químicas minerales; les damos toda clase de formas en las casas, buques y otras construcciones, que demuestran nuestra civilización. Somos los dueños de los minerales que se encuentran fuera de nuestro organismo, pero carecemos de poder para asimilárnoslos hasta que las plantas han transformado los cristales en cristaloides. Nuestro trabajo con los minerales exteriores está elevando su vibración continuamente, lo que los va preparando para su uso interno. Mediante la alquimia espiritual podemos construir el templo del espíritu, conquistar el barro de que hemos sido hechos y calificarnos y graduarnos como verdaderos Maestros Masones, preparados para trabajar en las esferas elevadas. 
 
-#### El ayuno como medio de curación y de crecimiento anímico. 
+#### <h4 id="fasting-as-a-means-of-healing-and-a-factor-in-soul-growth">El ayuno como medio de curación y de crecimiento anímico</h4>
 
 No es difícil darse cuenta de que en el Occidente hay más personas que mueren por comer demasiado que de hambre. En ciertas condiciones, el ayuno durante uno o dos días es, indudablemente, beneficioso; pero así como hay glotones, así también hay otros que se van al extremo opuesto. Es ahí donde reside el gran peligro. El mejor sistema es el de comer moderadamente y tomar los alimentos adecuados. Entonces no hay necesidad ninguna de ayunar. 
 
@@ -823,16 +824,18 @@ A ellos se les explicaba el misterio del cuerpo vital, como estaba compuesto por
 
 Estos hechos eran mantenidos en el mayor secreto con respecto a la masa general, o debieron haberse mantenido así; pero algunos neófitos se olvidaron, en su vehemente anhelo de llegar a la realización de cualquier manera, de que solamente mediante el servicio desinteresado y la más completa abnegación es como se lograba la vestidura de oro, compuesta por los dos éteres superiores. Creían que la máxima oculta encerrada en los siguiente versos:
 
+```
 Gold in the crucible,  
 Wrought in the fire;  
 Light as the winds,  
 Higher and higher.  
+```
 
 significaba solamente que con tal que la naturaleza inferior, esto es, la escoria, fuera expulsada, sin importar cómo; si descubrían algún medio fácil para lograrlo, quedarían solamente los dos éteres áureos superiores, el cuerpo anímico, en el cual podrían entrar en los Mundos Invisibles sin tropiezos ni obstáculos. Y razonaban diciendo que como el éter químico es el agente de la asimilación, podían eliminarlos del cuerpo mediante el ayuno y el hambre del vehículo físico. 
 
 Sin embargo, el resultado obtenido por estas personas mal guiadas y sus seguidores estaba muy lejos de ser el que buscaban y obtenían los que eran preparados en las Escuelas de Misterios. Allí se enseñaba a los candidatos, ante todo y sobre todo, que el cuerpo era el Templo de Dios, y que profanarlo, destruirlo o mutilarlo en cualquier forma era un gran pecado. La satisfacción de los apetitos corporales será un pecado, ciertamente, una profanación que lleva involucrada cierta retribución; pero no es más reprensible que la práctica del ayuno con miras al crecimiento anímico. La recta vida no consiste ni en ayunar ni en engullir, sino en dar al cuerpo los elementos que sean necesarios para mantenerlos en el estado de salud adecuado, con toda su fortaleza y eficiencia como instrumento del espíritu. Por lo tanto, el ayuno como medio de crecer anímicamente es un mal sistema, que produce precisamente los efectos contrarios a los que se desean conseguir por sus miopes seguidores. 
 
-#### El valor salutífero de los alimentos indigeribles. 
+#### <h4 id="health-value-of-indigestible-foods">El valor salutífero de los alimentos indigeribles</h4>
 
 Parecería absurdo a primera vista decir que cuanto más indigeribles son los alimentos tanto mejor será nuestra salud; pero, sin embargo, si esta afirmación no se toma demasiado literalmente, es verdad. Los alimentos que generalmente se consideran indigestos, porque no nos sentimos bien después de haberlos comido, generalmente nos hacen daño por haber sido demasiado digeridos, mientras que otros alimentos, que son completamente indigeribles y, por lo tanto, en cierto sentido, que no son realmente alimentos por esa causa, nos proporcionan un perfecto bienestar. 
 
@@ -850,7 +853,7 @@ Compárese la acción en los intestinos de alimentos tales como los huevos, la c
 
 El arquetipo determina la forma y figura de una persona, las cuales conservará mientras se mantenga en estado de salud normal; pero con nuestros desórdenes dietéticos muy a menudo cambiamos la forma y figura, de tal manera que la energía del cuerpo se emplea en el proceso y de eliminar una cantidad enorme de alimentos que no podemos asimilar y que nos hace adelgazar. Lo contrario ocurre cuando los poderes eliminadores del cuerpo son débiles. Entonces sobreviene la obesidad con la formación de tejidos adiposos, producto de una dieta antinatural. Cuando se adopta una dieta científica, las personas excesivamente delgadas debido a un régimen erróneo, engordan, y las obesas, cuyo exceso de carnes se debía a la misma causa, pierden peso. 
 
-#### Resultados de las comidas demasiado frecuentes. 
+#### <h4 id="results-of-eating-too-frequently">Resultados de las comidas demasiado frecuentes</h4> 
 
 Otra causa fecunda de desórdenes digestivos es el hábito de comer a cortos intervalos. Las personas habituadas a comer cuatro o cinco veces por día, dicen que tienen hambre y se ven precisadas a comer o se sienten mal. En realidad, ese apetito se debe a una enfermedad estomacal, y el alivio que se experimenta se debe al peso de los alimentos, que adormece el estómago. 
 
@@ -858,9 +861,9 @@ Si decimos que es criminal dar a una persona adicta a la morfina más morfina, p
 
 Por estas razones, todos los que deseen conservar una salud normal deben acostumbrarse a comer solo dos o tres veces por día, y eso en poca cantidad, teniendo sumo cuidado en recibir un volumen abundante más bien que nutrición, porque es una amarga verdad el hecho de que la mayor parte de las gentes se mueren por comer mucho y no de hambre. 
 
-### CAPÍTULO IX: LA ASTROLOGÍA COMO AUXILIAR EN EL ARTE DE SANAR
+### <h3 id="chapter-9">CAPÍTULO XI: LA ASTROLOGÍA COMO AUXILIAR EN EL ARTE DE SANAR</h3>
 
-#### La base astrológica de la curación. 
+#### <h4 id="astrological-basis-for-healing">La base astrológica de la curación</h4>
 
 Es un hecho bien conocido del médico moderno que el estado de la sangre y, por consiguiente, el de todo el cuerpo, cambia en simpatía con el estado de ánimo del paciente, y cuanto más emplea el médico la sugestión como un auxiliar de la medicina, tanto más éxito tiene. Sin embargo, son pocos los que aceptarían el hecho de que tanto nuestros estados mentales como físicos son influidos por los rayos planetarios, los cuales cambian con el movimiento de los respectivos planetas. En estos días, desde el comienzo de la radioactividad, hemos comenzado a aprender que todo los cuerpos emiten en el espacio innumerables partículas. La telegrafía sin hilos nos ha enseñado que las ondas eléctricas viajan rápida y seguramente a través del espacio, a tal punto que actualmente las podemos manejar a discreción con una manipulador adecuado. También sabemos que los rayos del Sol nos afectan en forma diferente por la mañana, cuando nos tocan horizontalmente, que al mediodía, cuando caen sobre nosotros en sentido vertical. Y si los rayos luminosos del Sol, que tan rápido se mueve, producen cambios físicos y mentales, ¿por qué no tendrían su efecto correspondiente los rayos persistentes de los planetas más lentos? Si lo tienen, entonces constituyen otros tantos factores de la salud, y ningún médico debe descuidarlos. Por eso sostenemos que ciertos resultado se logran con más rapidez cuando los rayos estelares son más propicios para la curación de una enfermedad particular o para el tratamiento con remedios previamente preparados bajo condiciones auspiciosas. 
 
@@ -882,7 +885,7 @@ Cuando contemplamos con la visión espiritual a una persona enferma, tenga su cu
 
 En nuestra actual humanidad nadie alcanzado en absoluto ni aproximadamente, la estatura del Cristo, y, por consiguiente, nadie puede ejercer Su poder hasta esos casos extremos, pero en nuestros días existe tanta necesidad de ese poder en manifestación activa como hace dos mil años. El Espíritu lo compenetra todo en nuestro planeta, pero en diversos grados. Tiene más afinidad por algunas substancias que por otras, y siendo una emanación del Principio Crístico, es el Espíritu Universal que constituye el Mundo del Espíritu de Vida el que restaura la armonía sintética del cuerpo. 
 
-#### Leyes de compatibilidad y de receptividad orgánica. 
+#### <h4 id="laws-of-compatibility-and-systemic-receptibility">Leyes de compatibilidad y de receptividad orgánica</h4>
 
 Existen dos leyes básicas en la Astroterapia o sea la ciencia de la curación por medio de los rayos estelares. Una de esas leyes es la ley de Compatibilidad, y la otra es la de la Receptividad Orgánica. Mediante el conocimiento y la aplicación de estas leyes, los enfermos recuperan la salud mucho más rápidamente que de cualquier otra manera y con el mínimo de esfuerzo de parte del médico. 
 
@@ -906,7 +909,7 @@ El Sol es el gran dador de Vida, exactamente lo opuesto a Saturno, por lo que no
 
 Así pues, las personas nacidas cuando el Sol se encontraba en signos ígneos: Aries, Leo o Sagitario, tienen éxito particularmente en el tratamiento de las enfermedades del corazón, de la cabeza, de la médula espinal, de la región femoral, fiebres, etc. Los nacidos con el Sol en Aries, son los mejores para tratar los casos agudos de esas enfermedades, mientras que los nacidos con el Sol en Leo tendrían más éxito en los casos crónicos, donde otros fracasarían, y si esos médicos cuentan con los servicios de un enfermero o enfermera que haya nacido con el Sol en Sagitario, contarán con una ayuda que nadie podría igualar. Lo mismo ocurre con las demás triplicidades. 
 
-#### Influencia de la Luna en la curación. 
+#### <h4 id="influence-of-the-moon-in-healing">Influencia de la Luna en la curación</h4>
 
 La Luna es el cuerpo celeste que hace pasar todas las cosas, y cuanto pronostican los demás planetas nunca produce fruto hasta que la Luna lo lleva a su culminación. 
 
@@ -922,7 +925,7 @@ Cuando la Luna creciente está en buen aspecto con Júpiter y Venus, la estimula
 
 Los estimulantes cardíacos deben darse con sumo cuidado cuando los aspectos Lunares con estos planetas son desfavorables y especialmente cuando es Luna Nueva. Los anestésicos también pueden producir casos fatales en esas ocasiones. Inhibiendo las funciones del nervio neumogástrico hasta cierto punto, aquietamos la acción del corazón, que es como aplicar el equivalente de un sedante en medicina. Manipular este nervio como para estimularlo, es igual que administrar un estimulante medicinal. 
 
-#### Polaridades planetarias. 
+#### <h4 id="planetary-polarities">Polaridades planetarias</h4>
 
 Al estudiar el magnetismo, debemos tener presente que tratamos de una energía invisible, y lo mejor que podemos hacer es explicar la forma en que suele manifestarse en el Mundo Físico, como sucede en todos los demás casos en que tratamos de otras energías. El Mundo Físico es el mundo de los efectos: las causas permanecen ocultas a nuestros ojos, aunque estén más cerca de nosotros mismos que nuestras manos y nuestros pies. La Fuerza se encuentra por doquier en torno de nosotros, siempre invisible en sí misma, pero perceptible por los efectos que produce. 
 
@@ -962,9 +965,9 @@ Para el médico, enfermera y paciente, la compatibilidad queda determinada por e
 
 También es necesario asegurarse de que Saturno, en el horóscopo del médico o la enfermera, no se encuentre colocado en ninguno de los signos del zodíaco que estén dentro de la sexta casa del paciente. 
 
-### CAPÍTULO XII: BASES TERAPÉUTICAS DE LA LUZ, DEL COLOR Y DEL SONIDO
+### <h3 id="chapter-12">CAPÍTULO XII: BASES TERAPÉUTICAS DE LA LUZ, DEL COLOR Y DEL SONIDO</h3>
 
-#### Dios es Luz. 
+Dios es Luz. 
 
 Cada vez que nos sumergimos en nosotros mismos y nos absorbemos en el significado de estas tres palabras, nos bañamos en una fuente espiritual de insondable profundidad, y cada vez que repetimos esta absorción, nos hundimos cada vez más en las divinas profundidades y más nos acercamos a nuestro Padre que está en los cielos. 
 
@@ -1000,6 +1003,7 @@ Nuestra pretenciosa sonrisa de los viejos tiempos cuando escuchábamos la histor
 
 Así pues, vemos que cada planeta tiene una nota-clave que es la suma total de los ruidos que en él se producen, combinados y armonizados por el Espíritu Planetario interno. Ese sonido puede ser escuchado por el oído espiritual. Como dice Goethe:
 
+```
 The Sun intones his ancient song  
 Mid rival chant of brother spheres;  
 His prescribed cours he speeds along  
@@ -1009,14 +1013,15 @@ Sound unto the spirit ear proclamais the newborn day is here;
 Rocky gates are creaking, rattling,  
 Phoebus wheels ars rolling, singing-  
 What sound intense the light is bringing.  
+```
 
 Las vibraciones sonoras invisibles tienen el mayor poder sobre la materia concreta. Construyen y destruyen a la vez. Si se coloca una pequeña cantidad de polvo finísimo sobre una plancha de bronce o de cristal, y se pasa un arco de violín por su borde, las vibraciones que se producen harán asumir al polvo hermosas figuras geométricas. La voz humana también puede producir esas figuras, las cuales son siempre idénticas para la misma nota o son. 
 
 Si se toca una nota tras otra en un instrumento musical -un piano, o, mejor, un violín, pues de este se pueden arrancar un mayor número de gradaciones- se obtendrá finalmente un sonido que hará que el que escucha sienta una vibración muy distinta en la parte inferior de la cabeza. Cada vez que se toque esa nota, se sentirá esa vibración. Esa nota o sonido constituye la nota-clave de la persona así afectada. Y si se la hace resonar en forma dominante, fuerte y largamente, puede matarla lo mismo que un tiro. Si, en vez, se la hace sonar lenta y suavemente, restaurará y descansará el cuerpo, tonificará los nervios y restablecerá la salud. 
 
-### CAPÍTULO XIII: SUEÑO Y SALUD
+### <h3 id="chapter-13">CAPÍTULO XIII: SUEÑO Y SALUD</h3>
 
-#### El valor del sueño. 
+#### <h4 id="the-value-of-sleep">El valor del sueño</h4> 
 
 Durante el día, el cuerpo vital va especializando el fluido solar incoloro que nos rodea, a través del bazo. Esta vitalidad impregna todo el cuerpo, y puede ser contemplada clarividentemente como un fluido de color rosa pálido, una vez que ha sido transmutada y apropiada por el cuerpo físico. Fluye por todos los nervios, y cuando es irradiada por los centros cerebrales en particular en grandes cantidades mueve los músculos adonde van a parar esos nervios. 
 
@@ -1030,13 +1035,13 @@ Sin embargo, el sueño no es un estado inactivo, porque si lo fuera no se produc
 
 Cuando un edificio ha sido deteriorado por el uso constante, es necesario refeccionarlo y restaurarlo, en cuyo caso los inquilinos se van para que los obreros puedan realizar su trabajo. Por razones parecidas, el Ego se retira de su morada todas las noches. Y de la misma manera que los obreros trabajan en el edificio para rehabilitarlo nuevamente, así también el ego tiene que trabajar para poner su cuerpo en condiciones de volverlo a utilizar. Y ése es el trabajo que realizamos todas las noches, aunque no tengamos conciencia de él al despertar. Esta actividad es la que elimina las toxinas del organismo, dando por resultado que por la mañana, al despertar, el cuerpo se encuentre fresco y descansado. 
 
-#### Como tratar las enfermedades durante el sueño. 
+#### <h4 id="how-to-treat-disease-during-sleep">Como tratar las enfermedades durante el sueño</h4> 
 
 Se ha preguntado si una persona puede ser influida durante el sueño natural, de la misma manera que puede serlo en el sueño hipnótico, o si existe alguna diferencia. Existe una diferencia, efectivamente. En el sueño natural, el Ego, envuelto por la mente y el cuerpo de deseos, se sale del cuerpo físico y generalmente flota sobre el cuerpo, o, por lo menos, permanece muy cerca de él, unido al mismo por el cordón plateado, mientras que el cuerpo vital y el denso descansan en el lecho. 
 
 Entonces es posible influir sobre la persona, instilando en su cerebro los pensamientos e ideas que deseamos comunicarle. Sin embargo, en esos caso no podemos obligarla a hacer nada o aceptar otras ideas que no sean las que estén en armonía con sus propias tendencias. Es imposible ordenarle que haga algo y obligarla a obedecer, como ocurre cuando el alma ha sido expulsada del cuerpo por el hipnotizador, porque es el cerebro el que mueve los músculos, y durante el sueño natural el cerebro está interpenetrado por el propio cuerpo vital, teniendo un perfecto dominio de sí mismo, mientras que durante el sueño hipnótico los pases del hipnotizador han expulsado el éter del cuerpo vital del cerebro hasta los hombros de la víctima, quedando colgado del cuello como si fuera una echarpe. Entonces el cerebro denso queda abierto al éter del cuerpo vital del hipnotizador que ha desplazado al de su verdadero dueño. Así pues, durante el sueño hipnótico la víctima no tiene libertad para elegir sus ideas o los movimientos que tenga que hacer con su cuerpo, pero durante el sueño ordinario conserva su libertad. En realidad, este método de sugestión durante el sueño es algo que las madres encontrarán muy útil para tratar a sus hijos refractarios a otros métodos, porque si la madre se sienta al lado de la cama del niño, le toma de la mano y le habla como si estuviera despierto, podrá infundir en él las ideas que desearía que tenga cuando esté despierto, y verá que en muchísimos casos esas ideas arraigarán en su hijo fácilmente. También este sistema es muy útil cuando se trata a una personas enferma o adicta a la bebida, y si la madre y los enfermeros utilizan este método, verán que es posible infundir esperanza y hasta curar a los pacientes, ayudándolos a restablecerse o a recuperar el dominio de sí mismo. 
 
-#### Efectos del sueño hipnótico. 
+#### <h4 id="the-effect-of-hypnotic-sleep">Efectos del sueño hipnótico</h4> 
 
 Desde el punto de vista oculto, es evidentemente erróneo tratar de curar un hábito, como el de la bebida, con el hipnotismo. Contemplados desde el punto de vista de una sola vida, los sistemas empleados por los curanderos del llamado Movimiento Inmanuel, etc., parecerían producir muchísimo bien. Se sienta al paciente en una silla, se lo hace dormir y se le imparten ciertas sugestiones. Luego se pone de pie, ya curado de su mal hábito; de borracho se convierte en un ciudadano respetable, que cuida de su esposa y de su familia, y según todas las apariencias, el beneficio obtenido es innegable. 
 
@@ -1044,7 +1049,7 @@ Pero, si contemplamos las cosas desde un punto de vista mucho más profundo, el 
 
 Así pues, resulta que la víctima de un hipnotizador no vence al mal hábito por sí misma, sino por la fuerza, igual como si estuviera encerrada en una cárcel, y aunque en su vida diaria parezca un buen ciudadano, cuando regrese a la Tierra en una nueva encarnación tendrá las mismas debilidades y se verá obligada a luchar consigo misma hasta vencerse. 
 
-#### Influencias protectoras. 
+#### <h4 id="protective-influence">Influencias protectoras</h4>
 
 Hay maneras de protegerse a sí mismo de las influencias enemigas, y conviene estar bien enterados de estas cosas que pueden amenazarnos, para poder tomar las precauciones necesarias en esa emergencia. 
 
@@ -1054,9 +1059,9 @@ Está comprobado que cada ser humano está envuelto por una atmósfera aúrica. 
 
 Pero, desgraciadamente, ninguno de nosotros es completamente bueno. Conocemos demasiado la guerra trabada entre la carne y el espíritu. No se nos oculta el hecho de que, como decía San Pablo, "el bien que quisiéramos hacer no lo hacemos; y el mal que no queremos, ése hacemos." Con demasiada frecuencia nuestras buenas resoluciones se reducen a nada, y cometemos el mal solo porque nos resulta más fácil. Todos tenemos el germen del mal dentro de nosotros mismos, lo que viene a ser como un "sésamo ábrete" para las potencias maléficas que quieran obrar por nosotros. Por ese motivo, es mejor que no nos expongamos innecesariamente yendo a los lugares en que se efectúan reuniones espiritistas y concurren entidades invisibles para nosotros, por más hermosas que puedan parecer a primera vista todas sus enseñanzas. Y mucho menos debemos tomar parte como espectadores en demostraciones de hipnotismo, porque la actitud negativa que uno suele adoptar en esos casos puede conducir fácilmente a la obsesión. En todo momento deberíamos seguir el consejo de San Pablo y revestirnos con la armadura de Dios. Debemos ser siempre positivos en nuestra lucha por el bien y contra el mal, y nunca dejar pasar la ocasión de colaborar con los Hermanos Mayores en palabras o acciones, en la Gran Batalla que se da por la supremacía espiritual. 
 
-### CAPÍTULO XIV: LA MENTE Y LA CURACIÓN
+### <h3 id="chapter-14">CAPÍTULO XIV: LA MENTE Y LA CURACIÓN</h3>
 
-#### La verdadera causa del contagio. 
+#### <h4 id="the-true-cause-of-contagion">La verdadera causa del contagio</h4>
 
 Hay muchas personas de naturaleza escéptica que siempre están dispuestas a gastar alguna broma a costa de aquellos que practican los sistemas de curación divina, quienes enseñan a mantener un estado de ánimo siempre libre de temores, y en todas las circunstancias. Pero la realidad es que un alto porcentaje de nuestras enfermedades se debe a sentimientos de temor de parte del paciente. 
 
@@ -1074,7 +1079,7 @@ Sea que los que practican la ciencia mental o la curación divino- espiritual co
 
 La verdad es que el contagio viene de adentro. Mientras vivamos sensatamente, alimentando nuestros cuerpos con alimentos puros, procedentes del Reino Vegetal, hagamos los ejercicios físicos necesarios y nos mantengamos mentalmente activos, podemos tener la completa seguridad de que el señor es nuestro refugio y ningún mal caerá sobre nosotros mientras demostremos nuestra fe con obras. Si, por otra parte, defraudamos nuestra fe en Dios, desobedeciendo sus leyes, entonces nuestras esperanzas de conservar la salud son vanas. 
 
-#### Poder del pensamiento. 
+#### <h4 id="power-of-thought">Poder del pensamiento</h4>
 
 Como el hombre piensa en su corazón, así es, dijo el Cristo, y esta es una proposición absolutamente científica y, además, algo que todo el mundo puede comprobar fijándose en las condiciones de la vida cotidiana del hogar, del trabajo, de la calle. Aquí vemos a un hombre de labios gruesos, de henchidos carrillos, con una verdadera papada bajo el mentón, y enseguida sabemos que se trata de un glotón y de un sensual. Viene otro por la calle: su rostro está cubierto de arrugas, sus labios son finos y duros, y enseguida sabemos que los arquitectos que han modelado esa faz son el pensamiento y las preocupaciones. 
 
@@ -1088,7 +1093,7 @@ Es una ley que si "pensamos en la salud," acabaremos forzosamente por labrárnos
 
 Quizá hayáis oído contar la anécdota referente a aquella buena anciana que oyó al pastor decir en un sermón que la fe podía mover montañas. En seguida trató de poner a prueba su fe con un montón de cenizas. Pero a la mañana siguiente, cuando fue a verlo y lo encontró donde estaba antes, exclamó: "Ya me parecía a mí que era así." Las cosas eran tal cual ella las creía en su corazón, no como las decía con su lengua, y lo mismo sucede con todo el mundo. Por lo tanto, creed sinceramente en vuestro corazón. 
 
-#### CAPÍTULO XV: PELIGROS DE LOS BAÑOS EXCESIVOS
+#### <h3 id="chapter-15">CAPÍTULO XV: PELIGROS DE LOS BAÑOS EXCESIVOS</h3>
 
 Aunque el aseo en sí mismo es una virtud, como todas las demás cosas buenas se convierte en un vicio por el exceso. El agua es un solvente universal, y tomada internamente en pequeñas dosis es buena, pero si se bebe intempestivamente, como por ejemplo en las comidas, y con exceso, entonces es un verdadero veneno. Diluye los jugos digestivos, enfría el estómago en tal forma que desarregla las condiciones necesarias para el tratamiento adecuado de los alimentos y a su debido tiempo; si se persiste en la mala costumbre, puede entorpecer la digestión en forma permanente. Así pues, si se bebe agua en exceso o en condiciones inapropiadas, se corre el riesgo de dañar seriamente la salud. 
 
@@ -1106,7 +1111,7 @@ Los casos que responden a esta descripción son muy difíciles de tratar, porque
 
 Su primer paso hacia la salud implica que dejen de bañarse por completo. El baño seco es lo más indicado para su restablecimiento, y con ese objeto lo mejor es un par de guantes de lino grueso y áspero. Con estos guantes se puede frotar todo el cuerpo mañana y noche hasta que la piel resplandezca de salud. Con este procedimiento la cutícula superflua se cae, pero quedan los aceites y el éter. Entonces el paciente se restablecerá rápidamente, porque en cuanto aumenta el éter químico, también revive el poder de asimilación y en seguida se produce un aumento de carne y vigor. En caso de necesidad, se puede dar al paciente un baño ligero de esponja, con agua caliente, una vez por semana, pues hasta que se encuentre completamente restablecido deben evitarse los baños en agua corriente o las duchas. 
 
-### CAPÍTULO XVI: TRANSFUSIÓN DE SANGRE
+### <h3 id="chapter-16">CAPÍTULO XVI: TRANSFUSIÓN DE SANGRE</h3>
 
 Entre los últimos descubrimientos de la ciencia se encuentra la hemólisis: el hecho de que la inoculación de la sangre de las venas de un animal de especie superior en uno de especie inferior destruye la sangre del segundo y produce su muerte. La sangre de un ser humano inyectada en las venas de cualquier animal es fatal; pero entre seres humanos mismos, la transfusión puede tener lugar, aunque a veces sus efectos resultan contraproducentes. 
 
@@ -1122,7 +1127,7 @@ Cuando la sangre pasa por las arterias profundas del cuerpo, es un gas, pero al 
 
 Actualmente nos encontramos en el comienzo mismo de esta individualización de la sangre, y, por lo tanto, todavía es posible transfundir sangre de un ser humano a otro; pero relativamente pronto llegará el día en que eso será imposible. La sangre de un blanco matará a todos aquellos que estén más abajo, y la sangre de una persona muy adelantada envenenará a otra de menos cultura. El niño recibe en nuestros días la sangre de los padres y la almacena en la glándula Timo, durante su infancia; peor también llegará el tiempo en que el Ego estará demasiado adelantado como para poder funcionar en sangre no generada por él mismo, y entonces el actual sistema de generación será substituido por otro en que el Ego mismo pueda crearse su propio vehículo sin ayuda de sus padres. 
 
-### CAPÍTULO XVII: EFECTOS DE LA EXTRACCIÓN DE ÓRGANOS FÍSICOS
+### <h3 id="chapter-17">CAPÍTULO XVII: EFECTOS DE LA EXTRACCIÓN DE ÓRGANOS FÍSICOS</h3>
 
 Generalmente hablando, cuando se extrae un órgano o miembro del cuerpo físico, mediante una operación quirúrgica, la parte densa del órgano compenetrado por el éter planetario es la que se separa del cuerpo, pero los cuatro éteres componentes del cuerpo vital permanecen donde estaban. Sin embargo, existe una conexión magnética entre la parte del cuerpo extraída, que se pudre, y la contraparte etérica que permanece en la persona. Por ese motivo el paciente sufre dolor en la parte extraída por la operación, durante un tiempo, hasta que al producirse la putrefacción completa queda desintegrada la parte etérica. 
 
@@ -1132,7 +1137,7 @@ También debe tenerse presente que cuando se manifiesta una enfermedad en el veh
 
 Otro punto de vista interesante de esta cuestión se revela en los estados post mortem. Cuando una persona herida pasa a los reinos invisibles, piensa con la misma mentalidad que tenía en la Tierra y se imagina ser igual a lo que era aquí. Por consiguiente, si tenía una cicatriz en la frente o había perdido un brazo o una pierna, su pensamiento lo reproduce en el Mundo del Deseo y aparece allí tan desfigurado como aquí. En la Guerra Mundial esto fue muy visible, porque todos los soldados que morían con heridas que habían visto y cuyo efecto conocían, reproducían esas mismas heridas en sus cuerpos de deseos y sufrían un dolor similar al que hubieran sentido en el caso de estar en la Tierra dentro de sus respectivos cuerpos, porque su imaginación les hacía creer que se hallaban aún en relación con él. Sin embargo, todos ellos eran auxiliados prontamente por otros que a su vez lo habían sido por los hermanos mayores, para demostrarles que no existía en realizar dolor alguno. Y en cuanto se convencían de que sus heridas eran ilusorias y se les enseñaba que podían modelar el cuerpo a su gusto, todo quedaba remediado. 
 
-#### Extracción de las amígdalas. 
+#### <h4 id="removal-of-tonsils">Extracción de las amígdalas</h4>
 
 La extracción de las amígdalas es una cuestión sobre la que se nos suele interrogar con suma frecuencia, y siempre hemos decidido por la negativa, pues son órganos necesarios, y hemos comprobado que se producen enfermedades graves de la garganta y de los pulmones años después como consecuencia de dicha extracción. Un número creciente de médicos oficiales está ya denunciando esta operación como absolutamente innecesaria. 
 
@@ -1142,17 +1147,17 @@ La realidad es que la hinchazón de las amígdalas se debe a factores relacionad
 
 En casos agudos, siempre hemos recomendado el empleo de las frutas cítricas como uno de los mejores antisépticos conocidos. Esta recomendación puede aplicarse igualmente al ananá. La bebida hecha con limón y miel proporciona una gran alivio en tales casos. Las naranjas, limas, pomelos y ananás deben utilizarse generosamente cada vez que el niño se queje de la garganta. Una compresa fría en la garganta, durante la noche, suplementada por un masaje suave, también constituye un tratamiento muy efectivo para todas las enfermedades de la garganta. Es innecesario agregar que deben mantenerse los intestinos libres y corrientes, Mediante este tratamiento tan sencillo, dichos desórdenes pasarán tal vez en unos cuantos días, muchas veces sin necesidad de que el paciente guarde cama. No hay que asustarse si el enfermo expectora materia blanca durante este tratamiento, porque eso es justamente lo que necesita para llegar a ponerse completamente bien. 
 
-### CAPÍTULO XVIII: LOS PROCEDIMIENTOS CURATIVOS QUE DEBEN USARSE
+### <h3 id="chapter-18">CAPÍTULO XVIII: LOS PROCEDIMIENTOS CURATIVOS QUE DEBEN USARSE</h3>
 
-#### Introducción. 
+#### <h4 id="chapter-18-introduction">Introducción</h4>
 
 El procedimiento de curación que debe aconsejarse depende de la naturaleza de la enfermedad y del temperamento del paciente. En el caso de fractura de una pierna, es evidente que hay que llamar al cirujano. Si existe algún desorden interno y es posible conseguir un médico de amplias miras, entonces, en cierto casos, esa es la persona indicada. Si, por otra parte, un perito en Ciencia Cristiana, o cualquier qtro de mente espiritualizada, puede ser llamado, puede auxiliar al enfermo que tenga una gran fe, porque así como un diapasón que dé determinada nota pone en vibración a otro de la misma nota cuando se golpea al primero, así también la persona llena de fe responderá fácilmente a los que practican las citadas ciencias o sistemas. Pero cuando falta la fe en esos métodos, entonces es muchísimo mejor llamar a un médico oficial en quien el paciente tenga confianza, porque tanto la salud como la enfermedad dependen casi enteramente del estado de ánimo, y en los casos de enfermedad en que el paciente está debilitado, se vuelve hipersensitivo y jamás debe contrariárselo en sus preferencias. Además, lo que exista de bueno en cualquier sistema producirá en el paciente un efecto beneficioso o dañino en proporción exacta a la fe que tenga en su poder curativo. 
 
-#### Medicinas. 
+#### <h4 id="taking-medicine">Medicinas</h4> 
 
 Estamos en la obligación, sin duda, de tomar las medicinas que pueda prescribir una persona debidamente calificada para ello, o tratar de curarnos de las enfermedades que suframos en cualquier forma que se nos ocurra. Procederíamos muy erróneamente si permitiéramos que nuestro instrumento físico se deteriorara por falta de la debida atención y cuidado Es el instrumento más valioso que poseemos, y si no lo usamos con circunspección y le prestamos los debidos cuidados, sufriremos las consecuencias bajo la ley de causa y efecto por nuestro descuido y negligencia. 
 
-#### Imposición de manos. 
+#### <h4 id="laying-on-of-hands">Imposición de manos</h4> 
 
 Existen dos dificultades muy comunes en la práctica de la os-teopatía y otros sistemas similares para el tratamiento mediante la imposición de las manos. En este procedimiento hay que distinguir dos operaciones distintas. La primera es la de extraer del paciente algo que es ponzoñoso o dañino y que es lo que provoca la enfermedad. Y luego está la infusión de energía vital por el médico mismo. Cualquiera que haya hecho algún trabajo de esta clase sabe esto porque lo ha palpado, como lo ha palpado todo el que ha tenido éxito. Ahora bien, a menos que el médico tenga una salud radiante, pueden ocurrir dos cosas: o los miasmas humanos extraídos del paciente pueden contaminarlo y vencerlo, absorbiendo así el estado del enfermo, o bien puede infundirle demasiada cantidad de su propia fuerza vital, y quedar completamente debilitado. A veces se producen las dos cosas simultáneamente, y entonces llega un día en que el médico se encuentra agotado y se ve obligado a descansar. 
 
@@ -1164,7 +1169,7 @@ Así ocurre con el operador. Éste es una batería eléctrica en un caso, y sus 
 
 Por todo lo que antecede, es evidente que la imposición de manos es algo que no debe nacerse en forma desaprensiva, y solo deben practicarla las personas que han sido debidamente ejercitadas en escuelas osteopáticas, quiroprácticas, etc. Los discípulos probacio-nistas, que llevan una existencia meritoria, son ejercitados bajo la dirección de los Hermanos Mayores. 
 
-#### Vacunación y antitoxinas. 
+#### <h4 id="vaccination-and-antitoxin">Vacunación y antitoxinas</h4>
 
 Los bacteriólogos han descubierto que muchas enfermedades son causadas por microorganismos que invaden nuestro cuerpo, así como también que, cuando este ejercito invasor comienza a producir desórdenes en el cuerpo, este empieza a fabricar gérmenes de opuesta naturaleza o una substancia que envenene a los invasores. Entonces todo se reduce a saber quiénes son los más fuertes: si los invasores o los defensores. Si los microbios defensores son más numerosos que los invasores, o si el veneno nocivo para los invasores se produce en suficiente cantidad, el enfermo se restablece. Pero, si los defensores son vencidos o el cuerpo no es capaz de producir la cantidad suficiente de suero indispensable para envenenar a los invasores, entonces el paciente sucumbe a su enfermedad. También se comprobó que cuando una persona se ha restablecido de alguna enfermedad específica, queda inmune contra renovados ataques de la misma enfermedad, porque su cuerpo contiene el suero mortal para los gérmenes que causaron el primer ataque de dicha enfermedad. 
 
@@ -1186,9 +1191,9 @@ A esta emanación se la ha llamado Rayos N o Fluido Ódico, nombre que le fue da
 
 Por otra parte, si comemos sobriamente y elegimos nuestros alimentos entre los más digeribles, la disminución de la corriente Vital protectora es muy pequeña y nuestra inmunidad contra las enfermedades se mantiene en todo tiempo sin necesidad de envenenarnos con las vacunas. 
 
-### CAPÍTULO XIX: ALCANCE Y LIMITACIONES DE LA CURACIÓN
+### <h3 id="chapter-19">CAPÍTULO XIX: ALCANCE Y LIMITACIONES DE LA CURACIÓN</h3>
 
-#### La ley del destino. 
+#### <h4 id="the-law-of-destiny">La ley del destino</h4> 
 
 Un número siempre creciente de médicos se está convenciendo actualmente de que la Ley del Destino es un factor importantísimo en producir las enfermedades y retardar el restablecimiento, aunque en realidad no crean en la falacia de un Destino inexorable. Reconocen que Dios no nos aflige voluntariamente ni quiere hacersela pagar al transgresor. Comprenden que todos los sufrimientos y dolores tienen por objeto impartirnos lecciones que no podríamos o no querríamos aprender de otro modo. Los astros señalan el período estimado como requisito para enseñarnos la lección, pero aun Dios no puede determinar el tiempo exacto ni la cantidad de sufrimiento necesario, porque nosotros tenemos esa prerrogativa, porque somos divinos. Si comprendemos nuestra transgresión y comenzamos a obedecer la ley antes que cese la aflicción estelar, entonces nos curamos de nuestro desorden mental, moral o físico. Y si nos obstinamos al final de una aflicción estelar en no aprender la lección, entonces otra configuración mucho más dañina nos obligará luego a la obediencia. 
 
@@ -1200,6 +1205,7 @@ En cuanto a la objeción de si debemos o no interferimos con el destino, debiér
 
 Como lo expuso en forma poética Ella Wheeler Wilcox:
 
+```
 One shíp East and another sails West,  
 With the selfsame winds that blow.  
 'Tis the set of the sail, and not the gale  
@@ -1209,22 +1215,23 @@ Which determines the way they go (*)
 Y el otro, soplando el mismo viento, navega al Oeste.
 La disposición del velamen, no el ventarrón,
 Determina para cada cual su justa dirección."
+```
 
 Es de la mayor importancia que dispongamos las velas de las naves de nuestra vida como queramos y nunca tengamos escrúpulo alguno en interferirnos con el Destino. Esto también descarta la idea de las "afirmaciones" como factores en la vida. En sí mismas son una locura. Lo que necesitamos en la vida es trabajo y acción, como veremos fácilmente por la siguiente ilustración. Supongamos una de esas pequeñas semillas de clavel que estuviera dotada de la palabra y viniera a decirnos: "Yo soy un clavel." Entonces le contestaríamos: "¡No, no eres un clavel! Tienes las potencialidades necesarias en ti, pero todavía tienes que ir al jardín y enterrarte por un tiempo, germinar y crecer. Sólo así podrás convertirte en un clavel, no mediante sugestiones y afirmaciones." Y lo mismo sucede con nosotros. Todas las afirmaciones o sugestiones de divinidad son vanas a menos que vayan acompañadas por los hechos y las obras de un carácter divino, los cuales demostrarán nuestra divinidad como las palabras jamás podrán hacerlo. 
 
-#### Relación de la espiritualidad con la salud. 
+#### <h4 id="relation-of-spirituality-to-health">Relación de la espiritualidad con la salud</h4> 
 
 Antes de poder alcanzar el equilibrio en el Mundo Espiritual es necesario que se rompa la robustez de la salud fisica, y cuanto más fuerte y vigoroso sea el instrumento, tanto más drástico tiene que ser el método para romperla. Entonces sobrevienen años en que la salud se encuentra en estado fluctuante, hasta que finalmente podemos reajustarnos en tal forma que podamos mantener la salud en el Mundo Físico a la vez que retener el poder de funcionar en los Reinos Superiores. Cuando comprendemos la filosofía superior y vivimos la existencia que ella nos dicta, nuestro cuerpo se torna extremadamente sensitivo y necesita muchísimos más cuidados que el de un indio, o un negro de las selvas africanas. Éstos no tienen un sistema nervioso tan delicadamente organizado como el de la raza blanca. Los que se interesan especialmente en cuestiones espirituales, tienen una sensibilidad extraordinaria y, por lo tanto, conforme progresan necesitan cuidar más y más este instrumento. Pero entonces también aprendemos las leyes de su naturaleza y nos conformamos a ellas. Si aplicamos nuestros conocimientos, es posible para nosotros tener un instrumento muy delicado y mantenerlo en estado de buena salud, relativamente hablando. 
 
 Hay casos, sin embargo, en que la enfermedad es necesaria para producir ciertos cambios en el cuerpo, los cuales son precursores de un nuevo avance en el desenvolvimiento espiritual, y en esas condiciones la enfermedad es, por supuesto, una bendición y no una desgracia. Sin embargo, en general puede decirse que el estudio de la filosofía superior tiende siempre a mejorar la propia salud, porque el conocimiento es poder, y cuanto más sabemos tanto más podemos luchar con todas las circunstancias adversas, siempre que pongamos nuestros conocimientos en práctica y vivamos la vida, que no seamos simples auditores de la palabra, sino ejecutores de-ella, porque ninguna enseñanza nos puede beneficiar si no la ponemos en práctica en nuestra existencia y la vivimos diariamente. 
 
-#### La nerviosidad mejora con los ejercicios. 
+#### <h4 id="nervousness-helped-by-exercise">La nerviosidad mejora con los ejercicios</h4> 
 
 Si una persona de temperamento nervioso trata de realizar tranquilamente los ejercicios de retrospección y concentración, experimentará efectos muy beneficiosos, particularmente si se esfuerza en relajar todos los músculos del cuerpo durante los ejercicios. Si el paciente relaja por completo los músculos y examina los sucesos del día con tranquilidad, concentrándose en algún elevado ideal en el ejercicio matutino, la nerviosidad desaparecerá gradualmente. 
 
-### CAPÍTULO XX: DIRECCIÓN DE CENTROS CURATIVOS
+### <h3 id="chapter-20">CAPÍTULO XX: DIRECCIÓN DE CENTROS CURATIVOS</h3>
 
-#### Sugerencias generales. 
+#### <h4 id="general-suggestions">Sugerencias generales</h4>
 
 Como los probacionistas se han asociado entre sí para estudiar la Astro-Diagnosis y la Astro-Terapia, con el fin de formar Centros Curativos una vez que se han familiarizado suficientemente con esas ciencias, nos parece conveniente dar algunas sugerencias relativas a la dirección de tales centros. 
 
@@ -1236,7 +1243,7 @@ Tomemos La Imitación, de Cristo, por Tomás Kempis, u otra obra de naturaleza p
 
 Cuando se recurra a un horóscopo para analizarlo, hay que asegurarse de no emplear nunca el de los probacionistas que asisten a las reuniones o de sus parientes próximos. Porque de la misma manera que los estudiantes que asisten a la Facultad de Medicina desarrollan los síntomas de las enfermedades que están estudiando, así también los miembros de esa clase pueden sufrirlos por olvidar esa precaución elemental. Además, cuando un probacionista se dirige al centro por estar enfermo y solicita auxilio, no debe ser admitido en la clase hasta que recupere la salud, porque resulta imposible evitar accidentalmente la mención de los síntomas que pueda sufrir, lo que agravaría su enfermedad. 
 
-#### Consejo a los médicos. 
+#### <h4 id="advice-to-healers">Consejo a los médicos</h4> 
 
 Si pudiéramos obtener letras de fuego que dejaran su marca indeleble en la conciencia del lector, no ahorraríamos esfuerzo alguno para conseguirlas con el propósito de prevenir a los estudiantes sobre ciertos puntos relacionados con la práctica de la Astrología Médica, a saber: 
 
@@ -1260,7 +1267,7 @@ Los Hermanos Mayores saben como utilizar la ley con el mayor provecho posible, p
 
 La asociación de probacionistas, constituyendo Centros Curativos, suministra el material necesario con el cual los Hermanos Mayores pueden encender el Fuego Espiritual requerido para la curación física, moral y mental. Estando solos, hay pocas probabilidades de que ae pueda hacer algo bueno, pero hay mucha fuerza en el número, especialmente si están fortalecidos con el conocimiento del diagnóstico, extraído del horóscopo, y saben aplicar el tratamiento en los momentos propicios. 
 
-#### Inauguración de los servicios curativos. 
+#### <h4 id="healing-service-inaugurated">Inauguración de los servicios curativos</h4> 
 
 En la Noche dé Navidad culmina el poder espiritual del Sol, derramando su bendición en el aire. Desde el 25 de diciembre al 25 de junio (*), las actividades físicas van acrecentándose, aumentando gradualmente sus fuerzas, hasta culminar en el Solsticio de Verano, y entonces el Sol bendice al ser humano con todas las cosas que necesita para su sustento físico. Durante ese período es difícil iniciar actividades espirituales, por cuyo motivo tuvimos que esperar pacientemente hasta hace poco, oficiando el primer servicio curativo el martes 23 de junio de 1914, a las 7 y media, cuando la Luna se encontraba en el signo Cardinal de Cáncer. Y en el futuro se efectuará un servicio curativo en la Pro-Ecclesia cada semana a la misma hora, en los días en que la Luna se encuentre en signos Cardinales. Decidimos realizar estos servicios para poder utilizar al máximo nuestra pequeña Pro-Ecclesia, ganándonos así el privilegio de poder tener la Ecclesia también. El Instructor aprobó todo esto y fue él quien sugirió que los servicios curativos se realizaran cuando la Luna estuviera en signos Cardinales. Pero queremos dar un paso más en nuestros esfuerzos a fin de asegurarnos toda la eficiencia posible, y para ello queremos agregar el auxilio de los estudiantes serios en nuestra Fraternidad Rosacruz. 
 
@@ -1270,9 +1277,9 @@ Hay un pasaje en el ritual que se emplea en la Fraternidad Rosacruz, en dichos s
 
 Para asegurarnos el auxilio de todos los estudiantes serios y darles la oportunidad de ayudar, publicaremos en "Ecos," de cada mes, la fecha en que se realizarán los servicios curativos, de manera que cada estudiante pueda entonces recogerse en su propio hogar a las 7.30, dirigiendo sus pensamientos a Mount Ecclesia, a la pequeña Pro-Ecclesia, donde, en esos momento, se descubre el símbolo de los Auxiliares Invisibles. El amor, la simpatía y la fortaleza que así se les da a estos trabajadores les permitirá, realizar un servicio mucho más grande en favor de la humanidad, pues entonces cada uno de ellos toma parte en el trabajo. El símbolo de los Auxiliares Invisibles en que nos concentramos en Mount-Ecclesia es una Cruz Blanca, con las siete rosas rojas y una rosa blanca pura en el centro. La estrella usual radiante sale de la cruz, y el fondo es azul, estando todo herniosamente iluminado. Es un emblema muy adecuado de la efulgencia del cuerpo anímico en que viajan esos servidores. No es necesario hacer correcciones en lo tocante a la hora, debido al lugar de, la residencia, porque el Sol irá recogiendo todas las aspiraciones en su marcha. Cuando los rayos lleguen a Mount-Ecclesia en el ángulo adecuado, la influencia dirigida aquí será transmitida y se unirá con nuestras aspiraciones que tienen lugar a esa hora y nos ayudarán en el trabajo. 
 
-## CUARTA PARTE: LA MUERTE NO EXISTE
+<h2 id="part-2">CUARTA PARTE: LA MUERTE NO EXISTE</h2>
 
-### CAPÍTULO XXI: LA NATURALEZA REAL DE LA MUERTE
+### <h3 id="chapter-21">CAPÍTULO XXI: LA NATURALEZA REAL DE LA MUERTE</h3>
 
 Entre todas las incertidumbres que constituyen la característica de este mundo, existe una sola cosa segura y cierta: la Muerte. En un día a otro, después de una vida larga o corta, llega a su término esta faz material de nuestra existencia, que en realidad no es más que el nacimiento en un nuevo mundo, de la misma manera que lo que llamamos nacimiento es, según las hermosas palabras de Wordsworth, un olvido del pasado. 
 
@@ -1292,7 +1299,7 @@ Ese átomo es el llamado "átomo simiente." La energía encerrada en él es la q
 
 El cordón plateado que une los vehículos superiores con los inferiores termina en el átomo simiente del corazón. Guando la vida material llega a su término en el curso natural, las fuerzas de el átomo simiente se desprenden, pasan a lo largo del nervio neumogástrico, por el lado posterior de la cabeza, abandonando el cuerpo denso junto con los vehículos superiores. Su ruptura en el corazón es lo que señala la muerte física; pero el cordón plateado no siempre se rompe ensegida, sino que algunas veces dura varios días. 
 
-### CAPÍTULO XXII: EFECTOS DEL SUICIDIO
+### <h3 id="chapter-22">CAPÍTULO XXII: EFECTOS DEL SUICIDIO</h3>
 
 Cuando el Ego desciende para renacer, lo hace pasando por el Segundo Cielo. AHÍ es auxiliado por las Jerarquías Creadoras para que pueda formar un arquetipo de su futuro cuerpo, infundiendo en ese arquetipo una vida que durará durante cierto número de años. Estos arquetipos son espacios vacíos, que producen un sonido vibrante, que es lo que atrae las necesarias substancias del Mundo Físico y pone todos los átomos del cuerpo vibrando sintónicamente con el minúsculo átomo cardíaco, llamado simiente atómica, la que, como un diapasón, da la nota clave de todo el resto material del cuerpo. Citando termina el tiempo en que toda la vida predestinada ha sido vivida en la Tierra, las vibraciones del arquetipo cesan, se retira la simiente atómica, el cuerpo denso comienza a desintegrarse, y el cuerpo de deseos, en el que funciona el Ego en el Purgatorio y en el Primer Cielo, asume la forma del cuerpo físico. Entonces el ser humano comienza el proceso de expiar sus malos hábitos, así como sus malas acciones en el Purgatorio, asimilándose luego el bien de su vida en el Primer Cielo. 
 
@@ -1300,7 +1307,7 @@ Lo antedicho describe las circunstancias corrientes cuando no se perturba el cur
 
 Es curioso el hecho de que el suicidio cometido en una vida y el consiguiente sufrimiento post mortem que se soporta mientras dura el arquetipo, generalmente provocan en esas personas un temor mórbido hacia la muerte en la próxima vida, de manera que cuando se produce la muerte natural, parecen enloquecidos al salir del cuerpo y ansiosos de retornar al Mundo Físico nuevamente, a tal punto que a veces cometen el crimen de llevar a la obsesión a algún ser viviente, en la forma más inexcusable. 
 
-### CAPÍTULO XXIII: CAUSAS DE LA MORTALIDAD INFANTIL
+### <h3 id="chapter-23">CAPÍTULO XXIII: CAUSAS DE LA MORTALIDAD INFANTIL</h3>
 
 Cuando el ser humano muere, se lleva consigo la mente, el cuerpo de deseos y el cuerpo vital, siendo este último el que contiene los cuadros de su pasada vida. Y durante los tres días y medio que siguen a la muerte, estos cuadros se graban en el cuerpo de deseos, para constituir así la base de la vida purgatorial del ser humano y también la del Primer Cielo, donde se expurga el mal y se asimila el bien. La experiencia de la vida misma se olvida, de la misma manera que hemos olvidado el proceso de aprender a escribir, aunque conservamos la facultad o poder de hacerlo. Así ocurre con el extracto acumulado de todas las experiencias, tanto de las pasadas vidas terrenales como de las pasadas existencias en el Purgatorio y los varios Cielos, cuyo extracto conserva el ser humano y constituye algo así como su capital en la próxima vida. Los sufrimientos que ha tenido que soportar le hablan como la voz de la conciencia, y el bien que haya hecho le imparte un carácter cada vez más noble y altruista. 
 
@@ -1312,7 +1319,7 @@ Lo que no ha nacido no puede morir, como es natural, de manera que cuando un ni�
 
 Como en el pasado el hombre ha sido muy guerrero y negligente con los parientes que han muerto, debido a su ignorancia, velando a los que morían en la cama, que eran pocos, en comparación con los que morían en los campos de batalla, debe forzosamente existir una gran mortalidad infantil. Pero conforme la humanidad vaya alcanzando una mejor comprensión de las cosas y convengamos que nunca somos más hermanos de los demás que cuando están muriendo y abandonando esta vida, que es cuando les podemos prestar una inmensa ayuda, conservando la paz y rogando por ellos, entonces la mortalidad infantil dejará de existir ea tan grande escala como en la actualidad. 
 
-### CAPÍTULO XXIV: CUIDADOS DEBIDOS A LOS MUERTOS
+### <h3 id="chapter-24">CAPÍTULO XXIV: CUIDADOS DEBIDOS A LOS MUERTOS</h3>
 
 El cuerpo vital es el vehículo de la percepción sensorial. Como este permanece con el cuerpo de sensación (el de deseos) y el cordón etérico los conecta entre sí y el cuerpo denso ya abandonado, ea evidente que hasta que dicho cordón se rompa, siempre existirá cierta suma de sensación, que experimentará el Ego cada vez que se moleste a su cuerpo. Es así como se le inflige un sufrimiento cuando se le extrae la sangre o se le inyectan fluidos para embalsamarlo, o cuando se abre el cuerpo para la autopsia, o si se lo crema. 
 
@@ -1334,7 +1341,7 @@ Cuando el Ego ha abandonado el cuerpo vital, este último se siente atraído por
 
 Conforme el interés y la creencia en una vida después de la muerte se vaya naciendo más universal, se hará sentir más y más la necesidad de buscar algún sistema científico para ayudar a los que se van, y entonces tendremos enfermeros, médicos y ministros bien versados en la ciencia de la muerte, así como ahora los tenemos para atender el nacimiento. El espíritu se encontrará entonces rodeado de amor y paz al tiempo de morir. Y también obtendrá una grabación más profunda y clara, lo que le permitirá comenzar el trabajo de su vida en su nuevo estado. 
 
-### CAPÍTULO XXV: CÓMO AYUDAR A LOS QUE HAN MUERTO
+### <h3 id="chapter-25">CAPÍTULO XXV: CÓMO AYUDAR A LOS QUE HAN MUERTO</h3>
 
 Cuando el Égo regresa al Mundo Físico, en cierto sentido puede ser causa de alegría, como lo hacemos cada vee que nace un niño, porque este mundo es el que nos proporciona la experiencia y el material necesario para el crecimiento anímico. Observando el asunto desde otro punto de vista, sin embargo, cuando el Ego viene a esto mundo entra en la prisión del cuerpo denso y se encuentra en el estado más lleno de limitaciones que sea posible imaginar; y en ese caso, regocijarse cuando nace un niño y llorar cuando es libertado por la muerte, seria análogo a regocijarse cuando meten en la cárcel a un amigo y ponerse a llorar histéricamente cuando se lo libera. 
 
@@ -1344,6 +1351,7 @@ Sabemos muy bien que las costumbres exigían que se llevara luto, y no se consid
 
 ¡Cuánto mejor es la actitud de los que han aprendido las doctrinas Tosacruces y las han grabado en su corazón! Su actitud es alegre, esperanzada, alentadora. Se suprime completamente el dolor egoísta de la pérdida, para que el espíritu que partió pueda tener así todo el ánimo necesario. Por lo común, los sobrevivientes de su familia se visten de blanco en los funerales, prevaleciendo en general una reconfortante alegría. E1 pensamiento de los sobrevivientes no es el de "¿qué haremos ahora que lo hemos perdido? Todo el mundo nos parece vacío." Sino que es: "Esperamos que se encuentre bien en su nuevo estado tan pronto como sea posible y que no lamente habernos dejado atrás." Rogamos ardientemente por su bienestar y para que pueda aprender debidamente las lecciones de su vida en sus experiencias del Purgatorio y del Primer Cielo. Y de estp manera, gracias a la buena voluntad, inteligencia, desinterés y amor de los amigos que quedaron, el espíritu que se fue puede entrar en su nuevo estado en condiciones mucho más favorables, y lo mejor que nos queda por hacer es difundir lo más posible estas enseñanzas. LA pérdida es solo nuestra, si todavía somos ciegos con respecto a los dominios suprafi-sicos; pero todos los que se toman el trabajo de despertar sus facultades latentes comprobarán que la apertura del sentido adecuado no es sino cuestión de tiempo. Cuando llegue esa hora veremos a los llamados "muertos" en torno de nosotros y comprobaremos que en realidad la muerte no existe, como diré John Me Creery en su hermoso poema: 
 
+```
 There is no death. The stars go down  
 To rise upon another shore,  
 And bright in heaven's jeweled crown  
@@ -1388,6 +1396,7 @@ Yes, ever near us, though unseen,
 Our dear, inmortal spíríts tread—  
 For oll God's boundless Universe  
 Is Life-there are no dead. (*)  
+```
 
 (*) La Muerte no existe. Las estrellas desaparecen tras el horizonte para
 levantarse sobre otras tierras, y siempre brillando en la enjoyada corona del
@@ -1410,4 +1419,4 @@ a los seres queridos que han dejado atrás. Algunas veces sentimos en nuestra
 frente afiebrada la caricia de su mano o un hálito balsámico. Nuestro espíritu
 los ve y nuestros corazones se consuelan y tranquilizan. Sí, siempre cerca de
 nosotros, aunque invisibles, están nuestros espíritus queridos e inmortales. Porque
-en todo el ilimitado Universo de Dios hay Vida, y la muerte no exisle.
+en todo el ilimitado Universo de Dios hay Vida, y la muerte no existe.
