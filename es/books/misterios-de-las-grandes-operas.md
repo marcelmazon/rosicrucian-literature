@@ -1,38 +1,21 @@
+---
+title: "Misterios de las grandes Óperas"
+language: 'es'
+original_title: "Mysteries of the Great Operas"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'mysteries-of-the-great-operas.md'
+---
+
 # MISTERIOS DE LAS GRANDES ÓPERAS
 
-FAUSTO, PARSIFAL, EL ANILLO DE LOS
-NIBELUNGOS, TANNHAUSER Y LOHENGRIN 
+Fausto, Parsifal, El Anillo de los Nibelungos, Tannhauser y Lohengrin
 
-por
+por Max Heindel [1865-1919]
 
-Max Heindel
-[1865-1919]
-
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
-
-Título Original:
-
-"MYSTERIES OF THE GREAT OPERAS"
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
+THE ROSICRUCIAN FELLOWSHIP  
+P.O. Box 713  
+Oceanside, CA. 92049-0713 USA  
 
 ### CAPÍTULO PRIMERO: LA DISCORDIA DIVINA 
 
