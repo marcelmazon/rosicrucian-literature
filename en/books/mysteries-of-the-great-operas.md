@@ -334,7 +334,10 @@ To me you, son of hell, make clear,
 How entered you, if this your exit bar? 
 Where is the snare, 
 Why through the window not withdraw? 
-Lucifer: For ghosts, devils, 'tis a law, 
+
+Lucifer:
+
+For ghosts, devils, 'tis a law, 
 Where we stole in, there we must forth; 
 we're free 
 The first to choose, but to the second 
@@ -861,7 +864,7 @@ The soul that rises with us, our life's star,
 Has elsewhere had its setting,  
 And cometh from afar."  
 
---WORDSWORTH. 
+- WORDSWORTH. 
 ```
 
 When Siegfried leaves the rock of the Valkuerie and reaches the worldly court of Gunther, he is given a drink calculated to make him forget all about his past life and Brunhilde, the spirit of truth, whom he had won for his very own. 
