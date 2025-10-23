@@ -7,7 +7,7 @@ author: 'Max Heindel'
 original_source_file: 'mysteries-of-the-great-operas.md'
 ---
 
-# MISTERIOS DE LAS GRANDES ÓPERAS
+<h1 id="mysteries-of-the-great-operas">Misterios de las Grandes Óperas</h1>
 
 Fausto, Parsifal, El Anillo de los Nibelungos, Tannhauser y Lohengrin
 
