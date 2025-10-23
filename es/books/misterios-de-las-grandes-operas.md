@@ -48,7 +48,9 @@ Oceanside, CA. 92049-0713 USA
 - [LOHENGRIN](#lohengrin)
     - [CAPÍTULO XIX - El caballero del Cisne](#chapter-19)
 
-### <h3 id="chaptetr-1">CAPÍTULO PRIMERO: LA DISCORDIA DIVINA</h3>
+<h2 id=faust>Fausto</h2>
+
+### <h3 id="chapter-1">CAPÍTULO PRIMERO: LA DISCORDIA DIVINA</h3>
 
 Al mencionar el nombre de Fausto la mayoría de la gente educada piensa en seguida en la adaptación escénica de esta ópera, hecha por Gounod. Algunos admiran la música, pero el argumento no parece impresionar a nadie de una manera particular. Tal como se nos presenta en esta ópera parece ser la historia, desgraciadamente demasiado común, de un hombre sensual que traiciona a una ingenua doncella, abandonándola después para que expíe su locura y sufra por su exceso de confianza. El aspecto de magia y brujería de algunas escenas de la obra, es considerado por la mayoría de la gente como fantasías de un autor que las ha introducido para dar más vigor e interés a las acciones sórdidas de la vida. 
 
@@ -68,10 +70,12 @@ Siempre ha sido costumbre del autor del presente libro, atenerse lo más estrict
 
 En la primera escena, tres de los Hijos de Dios, Espíritus Planetarios, están representados inclinándose ante el Gran Arquitecto del Universo, y cantando los himnos de las esferas en adoración del Ser Inefable que es la fuente de la vida, el autor de todo lo manifestado. Goethe representa a uno de estos sublimes espíritus de las estrellas diciendo: 
 
+```
 "Une su antiguo ritmo a la armonía  
 de la celeste esfera el sol sereno,  
 y exacto sigue la prescrita vía  
 con los potentes ímpetus del trueno."  
+```
 
 Se han inventado instrumentos científicos modernos, gracias a los cuales se ha logrado transformar ondas de luz en sonido, demostrando así en el mundo físico, la máxima mística de la identidad de estas manifestaciones. Lo que antes era manifiesto solamente al místico, quien era capaz de elevar su conciencia a la Región del Pensamiento Concreto, es ahora también percibido por el hombre científico, La música de las esferas, mencionada públicamente por primera vez por Pitágoras, no se debe por consiguiente considerar como una vaguedad originada en la imaginación calenturienta de los poetas o como la alucinación de un cerebro desequilibrado. 
 
@@ -85,6 +89,7 @@ Mientras los otros Espíritus Planetarios se inclinan en adoración al contempla
 
 Maestro Arquitecto tal como la revela al Universo, Lucifer hace oír la voz de crítica, de censura, en las siguientes palabras dirigidas contra la obra maestra de Dios, el rey de las criaturas, el hombre: 
 
+```
 "Nada digo del sol, astros ni satélites,  
 Yo en el orbe solo veo  
 al mortal y sus reveses.  
@@ -102,11 +107,13 @@ Razón le llama, y le sirve
 para ser el más imbécil  
 de los que orgullosos nombra  
 los irracionales seres."  
+```
 
 Desde el punto de vista de las generaciones pasadas puede sonar esto como un sacrilegio, pero a la luz más clara delos tiempos modernos podemos comprender que basta en un ser tan exaltado como aquel llamado Dios, debe de haber desarrollo. Nos podemos figurar el anhelo de obtener mayores habilidades; la contemplación de universos futuros ofreciendo mayores facilidades para las evoluciones de otros espíritus virginales, que son un resultado de imperfecciones apercibidas en el esquema de manifestación por su exaltado Autor. Además como "en El vivimos y nos movemos y tenemos nuestro ser así la nota discordante lanzada por los espíritus de Lucifer debería también resonar en El. No sería ningún impulso exterior que llamó Su atención hacia los errores o a impulsarle a la obra, sino Su propio divino reconocimiento de una imperfección para ser transformada en un bien mayor. 
 
 En la Biblia leemos que Job era un hombre perfecto, y en el mito de Fausto el que desempeña el papel principal es llamado servidor de Dios, porque naturalmente, el problema del desarrollo, de un mayor crecimiento, debe ser solucionado por los más adelantados. Individuos ordinarios o aquellos que están en un nivel inferior de evolución, tienen aún que pasar por aquel trozo del camino ya atravesado por hombres como Fausto y Job, que son la vanguardia de la raza y que son considerados por el resto de la humanidad del mismo modo como Lucifer les describe, es decir, como locos y extravagantes: 
 
+```
 "Manjares no hay en la tierra  
 que sus labios no desdeñen  
 y al espacio imaginario  
@@ -121,27 +128,33 @@ Y ni el cielo ni la tierra
 juntando todos sus bienes,  
 llenar podrán el vado  
 de su corazón estéril."  
+```
 
 Para tales gentes se debe abrir un camino nuevo y más elevado para ofrecerles mayores oportunidades para su desarrollo y crecimiento: por esta razón, Dios le contesta: 
 
+```
 "Aún hoy, perdida la ruta,  
 me sirve. A sus ojos fieles  
 brillará la luz mañana.  
 Bien el hortelano entiende  
 cuando el botón rompe el árbol,  
 qué fruto ha de prometerse."  
+```
 
-### CAPÍTULO II: LOS SINSABORES DEL ALMA QUE BUSCA
+### <h3 id="chapter-2">CAPÍTULO II: LOS SINSABORES DEL ALMA QUE BUSCA</h3>
 
 Lo mismo que el ejercicio es necesario para el desarrollo del músculo físico, así el desarrollo de la naturaleza moral se obtiene por medio de la tentación. El alma queda en libertad para escoger a su antojo, porque aprende tanto por sus equivocaciones como por sus aciertos y quizá aun más. Por esta razón, en el mito de Job, se le permite al diablo servirse de la tentación y en el mito de Fausto hace esta petición: 
 
+```
 "Señor. ¿apuestas algo  
 a que tu siervo te vende,  
 si llevarlo por mis sendas  
 me dejas?"  
+```
 
 Y el Señor le contesta:
 
+```
 "Pues bien, te entrego mi siervo.  
 De la originaria fuente  
 desvía el alma piadosa,  
@@ -169,11 +182,13 @@ la substancia, que vive eterna y pura,
 de amor os ligue con el tierno lazo,  
 y a la incierta apariencia dcl momento  
 forma de vuestro fijo pensamiento."  
+```
 
 Así la conspiración está tramada y Fausto está a punto de quedar enmarañado en los cepos que se encuentran en el camino de todas las almas investigadoras. Las siguientes líneas demuestran el propósito beneficioso y la necesidad de la tentación. El espíritu es parte integrante de Dios: primordialmente "inocente," pero no virtuoso. La virtud es una cualidad positiva desarrollada por una postura firme adoptada a favor de lo justo durante la tentación, o por el sufrimiento soportado pacientemente como consecuencia de malas acciones. Así el prólogo en el cielo da al mito de Fausto su más alto valor como un guía, y su estímulo al alma que busca. Demuestra el propósito eterno detrás de las condiciones terrestres que causan dolor y pesares. 
 
 Después Goethe nos presenta a Fausto mismo sentado en su cuarto de estudio, y ocupado en introspección y retrospección: 
 
+```
 "Física. Metafísica. Derecho,  
 Medicina después, y Teología  
 también. ¡ay. Dios! por mi desgracia, todo,  
@@ -204,11 +219,13 @@ del eterno Poder vivificante,
 allí dentro, las fuentes escondidas,  
 y no hiciera, en insulsas peroratas,  
 tráfago insubstancial de charla ambigua."  
+```
 
 Toda, una vida de estudio no ha podido procurar a Fausto ningún verdadero saber. Las fuentes convencionales de sabiduría resultan ser estériles finalmente. El hombre de ciencia puede creer que Dios es algo superfluo: puede figurarse que la vida consiste en acción y reacción química, es decir, al principio de su estudio. Pero cuanto más sondee la materia, tanto mayores se le presentarán los misterios en su camino, y por fin se verá forzado a renunciar a investigaciones ulteriores o a creer en Dios como un Espíritu cuya vida penetra cada átomo de materia. Fausto ha llegado a este punto. Dice que no ha obrado por oro "ni por tesoros, ni honor mundano, ni rango ni placer." El ha luchado por amor en la investigación y ha llegado al punto donde ve que un mundo de espíritu nos rodea a todos; y por medio de este mundo, por la magia, aspira ahora a un conocimiento superior y más real que aquel contenido en libros. 
 
 Un tomo, escrito por el famoso Nostradamus está en su mano, y abriéndolo apercibe el signo del macrocosmos. El poder contenido en él abre a su percepción una parte del mundo que está buscando, y en un éxtasis de alegría exclama: 
 
+```
 "¡Cuán sabrosa fruición, ante esa imagen,  
 mi ser inunda y mi sentido animal!  
 Por mis arterias y mis nervios corre  
@@ -227,9 +244,11 @@ el mundo del Espíritu: ¿está muerto
 tu pobre corazón, tu alma rendida?  
 Alzate, pues, y tu terrena frente  
 baila en el rosicler del nuevo día."  
+```
 
 Pero otra vez el péndulo oscila hacia atrás. Al igual que si intentásemos mirar directamente la luz brillante del sol daría como resultado la destrucción de la retina del ojo, así la tentativa audaz de penetrar lo Infinito resulta un fracaso y el alma anhelante cae desde el éxtasis de alegría en la oscuridad de la desesperación: 
 
+```
 "¿Bella visión, pero visión al cabo!  
 ¡Cómo asir y estrechar a la infinita  
 Naturaleza, y exprimir sus pechos!  
@@ -238,11 +257,13 @@ de ellos penden los cielos y la tierra;
 su fecundo raudal todo lo anima,  
 y en vano pide mi sediento labio  
 una gota, no más, de esa ambrosía."  
+```
 
 Primero tenemos que comprender lo inferior antes de que podamos aspirar con éxito a conocimientos superiores. Disparatar y delirar del más allá, de cuerpos más sutiles, cuando tenemos un entendimiento muy limitado de los vehículos en los cuales actuamos todos los días y de la atmósfera en la cual nos movemos, es el colmo de la locura. "Hombre, conócete a ti mismo" es una enseñanza sana. El único modo seguro está en subir la escalera peldaño por peldaño, y nunca dar un nuevo paso antes de estar bien asegurados en el terreno que pisamos. Muchas almas habrán experimentado por sí mismas la desesperación expresada en las palabras de Fausto. 
 
 Tontamente había empezado en el escalón más alto, y había sufrido el consiguiente desengaño: pero todavía no entiende que debe empezar desde la base y por esto emite una evocación al Espíritu de la Tierra en esta forma: 
 
+```
 "Cuánto es diversa, Genio de la Tierra,  
 te acción l Estás más cerca, y a tu vista  
 crecen mis bríos, cual si rojo mosto  
@@ -268,17 +289,19 @@ mis sentimientos lidian,
 y hacia ti, fatal Genio, todos se precipitan.  
 ¡Preséntate, aunque fuere  
 el precio de mi vida!  
+```
 
 Como hemos dicho en el Concepto Rosacruz del Cosmos y como hemos explicado además en la Filosofía Rosacruz respecto a una pregunta que se refiere al ritual en latín en la Iglesia Católica, un nombre es un sonido. Propiamente pronunciado, no importa por quien, tiene una influencia dominadora sobre la inteligencia que representa, y la palabra dada en cada grado de Iniciación facilita al hombre la llave para entrar en una esfera especial de vibración, poblada de ciertas clases de espíritus. Por consiguiente, como un diapasón responde a una nota del mismo sonido, así cuando Fausto pronuncia el nombre del Espíritu de la Tierra, este nombre abre a su conciencia todo lo que penetra su presencia. 
 
 Se debe tener presente que la experiencia de Fausto no es un ejemplo aislado de lo que puede suceder bajo condiciones anormales. El es un símbolo del alma que busca. Todos nosotros somos Faustos en cierto modo, porque en algún estado de nuestra evolución encontraremos al Espíritu de la Tierra y nos daremos cuenta del poder de Su nombre, propiamente pronunciado. 
 
-### CAPÍTULO III: LOS SINSABORES DEL ALMA QUE BUSCA (continuación)
+### <h3 id="chapter-3">CAPÍTULO III: LOS SINSABORES DEL ALMA QUE BUSCA (continuación)</h3>
 
 En "La Estrella de Belén," "Un hecho Místico," hemos tratado de dar a los estudiantes un vislumbre de cierta fase de Iniciación. La mayoría de nosotros andamos por el mundo y no vemos de esta tierra más que una mente muerta, pero uno de lo revelados en nuestra consciencia es la realidad viva del Espíritu de la tierra. Lo mismo como la superficie de una cosa muerta comparada con los órganos interiores, así la cubierta exterior de la tierra, formando como una costra, no da ninguna idea de la maravillosa actividad que hay adentro. En el sendero de la Iniciación, se nos revelan nueve capas distintas y en el centro de esta esfera giratoria hallamos al Espíritu de la Tierra frente a frente. Es un hecho real y verdadero que esta "gimiendo y viajando" dentro de la tierra en favor de todos, afanándose y esperando impacientemente que nos manifestemos como Hijos de Dios, para que, lo mismo como el alma anhelante que aspira a la liberación queda finalmente libertada de su cuerpo denso, el Espíritu de la Tierra también pueda ser libertado de su cuerpo mortífero en el cual está ahora confinado para nuestra salvación. 
 
 Las palabras que dice el Espíritu de la Tierra a Fausto, en la obra de Goethe, ofrecen excelente materia para la meditación, porque representan místicamente lo que el candidato siente cuando por primera vez se da cuenta de la absoluta realidad del Espíritu de la Tierra como una presencia real y tangible y de que se halla trabajando para nuestra elevación espiritual. 
 
+```
 "En la incesante ráfaga  
 de actividad continua,  
 vuelo de arriba abajo,  
@@ -291,11 +314,13 @@ de la vida y la muerte,
 de la muerte y la vida,  
 tejiendo a Dios, en el telar eterno,  
 la que viste inmortal túnica viva."  
+```
 
 Naturalmente, al Espíritu de la Tierra no debemos representárnoslo como un hombre mayor, ni teniendo una forma física distinta de la tierra misma. El cuerpo vital de Jesús, en el cual estuvo confinado el Espíritu de Cristo antes de su ingreso actual en la tierra, tiene la forma humana ordinaria: está preservado y es enseñado al candidato en un momento determinado de su progresión. Algún día, en un remoto porvenir, dará otra vez albergue al Espíritu de Cristo, a Su vuelta del centro de la tierra, cuando nos hayamos convertido en seres etéricos y cuando El estará dispuesto a ascender a esferas superiores, dejándonos a nosotros para que recibamos la enseñanza del Padre, cuya religión será más elevada aún que la religión cristiana. 
 
 La verdad esotérica de que cuando un espíritu entra por cierta puerta tiene que volver también por el mismo camino, es enseñada por Goethe en relación con la primera entrada en escena de Mefistófeles. Fausto no está en el sendero corriente de Iniciación. No ha ganado la admiración ni la ayuda de los Hermanos Mayores: está llamando a la puerta falsa a causa de su impaciencia. Por esta razón es repelido por el Espíritu de la Tierra y cuando aparentemente ha logrado su fin, se ve lanzado desde la cumbre de la alegría al abismo de la desesperación, donde se da cuenta de que en realidad ha fracasado en su intento. 
 
+```
 "Ya, hijo de Dios, al misterioso espejo  
 de la eterna verdad llegar quería,  
 y los terrenos lazos desatando,  
@@ -316,11 +341,13 @@ humanidad, arrójanme tus iras.
 ¿Seguiré los impulsos que me guían?  
 ¡Ay! El camino de la vida obstruyen,  
 dolores, desengaños y desdichas."  
+```
 
 Fausto cree que las fuentes de información están agotadas y que nunca logrará el verdadero conocimiento. Y temiendo la terrible monotonía de una laboriosa y ordinaria existencia, coge una ampolla de veneno y está a punto de beber cuando oye fuera unos cantos que proclaman que Cristo ha resucitado, porque es la mañana de Pascua. Al pensar en esto, su alma se abre otra vez a la esperanza. Se ve aún más impedido en su propósito por la llamada de Wágner, su amigo. 
 
 Paseando con este último, Fausto da el grito de agonía que sale del pecho de toda alma aspirante, en la terrible lucha entre la naturaleza superior y la inferior. Mientras vivimos vidas mundanas sin más altas aspiraciones, hay paz en nuestro pecho. Pero cuando una vez hemos sentido la llamada del Espíritu, nuestra tranquilidad se acabó y cuanto más ardientemente perseguimos la busca del Grial, tanto más violenta será la lucha interna. San Pablo estimaba que él era un hombre perdido porque los bajos deseos de la carne combatían sus aspiraciones espirituales superiores. Las palabras de Fausto son por el estilo: 
 
+```
 "Tú no más tienes un alma,  
 y en mi pecho laten dos.  
 Por separarse. entre sí  
@@ -331,9 +358,11 @@ desesperada, al placer
 se aferra con vivo anhelo,  
 la otra, rasgado ya el velo,  
 quiere a su patria volver."  
+```
 
 Pero él no se da cuenta de que no existe una carretera real que conduzca al logro del ideal o anhelo; al contrario, cada uno tiene que recorrer el camino hacia la paz solo. Cree que hay espíritus que pueden darle el poder del alma, listo para el uso: 
 
+```
 "Espíritus. si es verdad  
 que en las alas del ambiente  
 tranquila y calladamente  
@@ -350,14 +379,17 @@ avaro de tal favor,
 no lo trocara, siquiera  
 su púrpura me ofreciera  
 en cambio el emperador."  
+```
 
 Por este su afán de dirigirse a otros, él está condenado al desengaño. "Si eres Cristo ayúdate a ti mismo," es la regla universal; y la confianza en sí mismo es la virtud cardinal que los aspirantes deben cultivar en la Escuela de Misterios Occidentales. A nadie se le permite apoyarse en Maestros ni seguir ciegamente a Guías. Los Hermanos de la Rosacruz gustan de emancipar a las almas que van hacia ellos, de educarlas. robustecerlas y convertirlas en colaboradoras. Los filántropos son raros y los que se figuran que un instructor debe hacer algo más que indicar el camino, se equivocan profundamente. Cualesquiera que sean sus títulos o pretensiones. que venga en cuerpo denso o como espíritu, no importa que sea todo lo espiritual que quiera, un instructor, positivamente, no puede hacer por nuestra cuenta las buenas obras que son necesarias para el crecimiento del alma, y asimilarlas, ni darnos el poder del alma resultante dispuesto para el uso, como tampoco no podría darnos la fuerza física, comiendo él nuestros alimentos. Es verdad que Fausto, el alma que busca, atrae a un espíritu dispuesto a servirle, pero es un espíritu de una naturaleza indeseable: Lucifer. Cuando Fausto le pregunta por su nombre, él contesta: 
 
+```
 "Aquel Espíritu soy  
 que duda y lo niega todo.  
 Aquella fuerza que  
 queriendo hacer el mal.  
 logra solo hacer el bien."  
+```
 
 Personas o espíritus que ofrecen satisfacer nuestros deseos, persiguen generalmente un fin determinado. 
 
@@ -367,6 +399,7 @@ Atraído por la actitud mental de Fausto, Lucifer le sigue hasta dentro de su ga
 
 El mago negro que no tiene alma ni poder de ella, también usa la fuerza sexual. Sale de su cuerpo y entra en él pasando por los pies, proyectándose el cordón plateado desde el órgano sexual. Por esta razón, el pentagrama con las dos juntas hacia arriba es el símbolo de la magia negra. Lucifer no tenía dificultad alguna para entrar en el gabinete de trabajo de Fausto: pero cuando desea marcharse después de su conversación con Fausto, la punta superior de la estrella le cierra el camino. Ruega a Fausto que quité el signo y éste le replica: 
 
+```
 FAUSTO:  
 "¿El pentagrama te aterra  
 que está en el umbral trazado?  
@@ -374,6 +407,7 @@ Pues, ¿cómo, dime, has entrado,
 si el paso. al salir, te cierra?  
 ¿Cómo incurrió en tal error  
 espíritu tan experto?  
+
 LUCIFER:  
 Porque ley  
 es de toda nuestra grey,  
@@ -381,10 +415,11 @@ por donde entramos, salir.
 Hay en lo uno libertad.  
 Pudiendo la entrada elegir,  
 mas ésta también la salida será."  
+```
 
 Antes del año 33 de nuestra era, Jehová guiaba a nuestro planeta en su órbita y a la humanidad en el sendero de la evolución desde fuera. En el Gólgota, Cristo entró en la Tierra la que El ahora guía desde dentro, y seguirá haciéndolo basta que un número suficiente de nuestra humanidad haya desarrollado el poder del alma necesario para hacer flotar la tierra y guiar a nuestros hermanos menores. Esto requiere aptitud para vivir en cuerpos vitales, capaces de levitación. El cuerpo vital de Jesús por medio del cual Cristo entró en la Tierra es Su única avenida de vuelta al Sol. Por ende la Segunda Venida será en el cuerpo vital de Jesús. 
 
-### CAPÍTULO IV: VENDIENDO SU ALMA A SATAN
+### <h3 id="chapter-4">CAPÍTULO IV: VENDIENDO SU ALMA A SATAN</h3>
 
 El mito de Fausto representa una situación interesante en el encuentro del héroe, que es el alma que busca, con distintas clases de espíritus. El espíritu de Fausto, inherentemente bueno, se siente atraído por los espíritus superiores: se siente consanguíneo con el benévolo Espíritu de la tierra, y lamenta su incapacidad para retener algo de él. Frente al Espíritu de la Negación quien no desea otra cosa que enseñarle, nota que él le domina de cierto nodo porque el espíritu no puede marcharse a causa de la posición especial del símbolo de cinco puntas trazado en el suelo. Pero tanto su incapacidad para retener al Espíritu de la Tierra y obtener enseñanzas de este Ser exaltado, como su dominio sobre el Espíritu de la Negación, son debidos al hecho de que él ha entrado en contacto con ellos por casualidad y no por el poder del alma desarrollado desde adentro. 
 
@@ -400,10 +435,12 @@ Fausto, sin embargo, busca primero de todo la comunicación con el macrocosmos, 
 
 Como queda dicho, empero, es demasiado ignorante para poder retener el dominio con éxito, y el poder del espíritu vence pronto las dificultades dejando a Lucifer en libertad. Pero aunque sale de la habitación de Fausto, vuelve pronto, dispuesto a entrar en tratos con aquella alma anhelante. Hace pasar por delante de la vista de Fausto brillantes imágenes de como podría ser su vida y como podría satisfacer sus pasiones y deseos. Pero Fausto, sabiendo que Lucifer no es desinteresado, pregunta cuál es la compensación que éste pide. Lucifer contesta: 
 
+```
 "Pues bien: aquí he de servirte  
 sin pereza y sin descanso,  
 y tú harás por mí lo mismo  
 cuando estemos allá abajo."  
+```
 
 Fausto mismo añade una condición aparentemente extraña, respecto a la fecha en que el servicio de Lucifer ha de terminar y su propia vida en la tierra llegará a su fin. 
 
@@ -411,6 +448,7 @@ Por extraño que parezca, en la aceptación por parte de Lucifer y en la cláusu
 
 Además, somos todos "constructores del templo," trabajando bajo la dirección de Dios y Sus ministros, las divinas Jerarquías. Si queremos esquivar la tarea que se nos ha dado en la vida, nos hallaremos colocados en condiciones que nos obligarán a conocer la ley. No hay descanso ni paz en el sendero de la evolución, y si buscamos distracción y alegría con exclusión del trabajo de la vida, la muerte hará pronto su aparición. Si alguna vez llegamos a un punto en que estamos dispuestos a ver pasar los horas, punto en que estamos tan satisfechos de las condiciones del momento, que cesamos en nuestros esfuerzos en progresar, nuestra existencia se terminará muy rápidamente. Siempre se ha observado que las personas que se retiran de su negocio para vivir solamente del disfrute de lo que han acumulado, mueren pronto; mientras que el hombre que cambia su profesión por una cosa completamente distinta tiene generalmente una vida más larga. Nada es tan apto para acabar con una existencia como la inactividad. Por esta razón las leyes de la naturaleza quedan manifiestas en el pacto de Lucifer y la condición añadida por Fausto: 
 
+```
 "Sí en el lecho deleitoso  
 logro un punto de descanso,  
 tuyo soy. Si satisfecho  
@@ -426,6 +464,7 @@ doble a muerto la campana,
 párese el vital horario,  
 todo para mi concluya,  
 y comience tu reinado."  
+```
 
 Lucifer pide a Fausto que firme con una gota de sangre. Y cuando le pregunta el porqué, Mefistófeles dice astutamente: "La sangre es una esencia sumamente singular." La Biblia dice que es el asiento del alma. 
 
@@ -441,10 +480,11 @@ En el Castillo del Grial, vemos como la sangre limpia y purificante produce mila
 
 Fausto trata de obtener poderes rápidamente por la ayuda de otros y de este modo llega al punto peligroso; lo mismo como hoy en día hacen todos aquellos que corren detrás de algunos que se llaman a sí mismos "adeptos" o maestros los cuales están siempre dispuestos a satisfacer los más bajos apetitos de sus crédulas víctimas, igual como Lucifer se ofrece a servir a Fausto. Pero no pueden dar poderes del alma, digan lo que digan, porque éstos vienen de adentro, por medio de continua persistencia en hacer el bien; un hecho cuya importancia no se repetirá nunca bastante. 
 
-### CAPÍTULO V: VENDIENDO SU ALMA A SATAN (continuación)
+### <h3 id="chapter-5">CAPÍTULO V: VENDIENDO SU ALMA A SATAN (continuación)</h3>
 
 En un acceso de temeridad, Fausto contesta alegremente a la petición de Lucifer de firmar el pacto con sangre, diciendo: 
 
+```
 "No temas que el pacto rompa:  
 todas las faenas del ánimo  
 rindo, entrego y comprometo,  
@@ -461,6 +501,7 @@ Templen los blandos deleites
 las vivas llamas en que ardo,  
 y envueltos en gasas de oro  
 vengan, Magia, tus encantos"  
+```
 
 Habiendo sido desdeñado por los espíritus del bien y estando por otro lado impulsado por el deseo de obtener un conocimiento directo y un poder real, está dispuesto a ir hasta donde sea preciso. Pero en el prólogo, Goethe había puesto en boca de Dios estas palabras: 
 
@@ -470,6 +511,7 @@ Fausto es el alma aspirante: y el alma no puede estar permanentemente desviada d
 
 La indicación que Fausto hace de los propósitos que le animan, es prueba de que su ideal es elevado y aun cuando con miras reverentes, lo que anhela es experiencia. 
 
+```
 De felicidad no te hablo:  
 lo que yo quiero es el vértigo.  
 el goce inquieto y amargo,  
@@ -487,11 +529,14 @@ convertirlo y apropiármelo.
 la Humanidad en mí abarco,  
 y al fin y a la postre, como ella,  
 choco, reviento y estallo!"  
+```
 
 Antes de que alguien pueda ser verdaderamente compasivo, tiene que sentir como Fausto desea sentir, la profundidad de los pesares del alma humana, lo mismo que sus alegrías más exuberantes; porque solamente cuando conocemos estos extremos de la pasión humana podemos sentir aquella compasión que es necesaria para los que quieren cooperar a la elevación de la humanidad. Con la ayuda de Lucifer, Fausto queda capacitado para conocer a fondo la alegría y" la tristeza, y así Lucifer revela y manifiesta sus características cuando dice: 
 
+```
 "El poder que hace el bien  
 aun queriendo hacer el mal."  
+```
 
 Por la intervención de los espíritus de Lucifer en el esquema de la evolución, las pasiones de la humanidad fueron encendidas, intensificadas y conducidas por un canal que han causado todos los pesares y sufrimientos en el mundo. Sin embargo, así ha sido despertada la individualidad del hombre, libertando a éste de la tutela conductora de los ángeles. Fausto igualmente, con la ayuda de Lucifer, es guiado fuera de los caminos convencionales, y de este modo se personaliza. Cuando vemos cerrado el pacto entre Fausto y Lucifer, tenemos la réplica de los Hijos de Caín, quienes son los descendientes y pupilos de los Espíritus de Lucifer, como hemos visto en "Masonería y Catolicismo. 
 
@@ -517,12 +562,14 @@ Si recordamos que la sangre es el asiento del alma y que se adhiere a la carne d
 
 Apreciando como es debido esta circunstancia, Goethe escribía: 
 
+```
 "El que nunca comió su pan con sollozos,  
 el que nunca pasó las horas de la noche  
 llorando, y aguardando por el alba,  
 no os conoce, Oh potestades celestes."  
+```
 
-### CAPÍTULO VI: LAS CONSECUENCIAS DEL PECADO Y LOS CAMINOS DE SALVACIÓN
+### <h3 id="chapter-6">CAPÍTULO VI: LAS CONSECUENCIAS DEL PECADO Y LOS CAMINOS DE SALVACIÓN</h3>
 
 "Las consecuencias del pecado son la muerte" dice la Biblia. y si sembramos en carne debemos prepararnos para cosechar corrupción. No deberíamos tampoco extrañarnos de que una persona con carácter negativo, como la clase descrita como Hijos de Seth, representada por Margarita en el mito de Fausto, sea presa de esta ley de la naturaleza en fecha tan inmediata, una vez que su medida de pecado se ha llenado. El rápido recejo de Margarita por el crimen da matricidio, es una ilustración de como la ley opera. El santo horror de la iglesia que estuvo negligente para salvar a Margarita cuando aún era tiempo, es un ejemplo de como la sociedad trata de disculpar su negligencia y eleva al cielo las manos, indignada de los crímenes, por los cuales ella misma es en gran parte responsable. 
 
@@ -532,7 +579,9 @@ Cuando estamos en e! Lodazal de la desesperación. empezamos a darnos cuenta de 
 
 Cristo no tiene nada que decir a los que están satisfechos y aman al mundo y a sus placeres. Mientras estén en esta condición de ánimo, El no les puede hablar, ni pueden ellos oír su voz. Pero hay una infinita ternura en las palabras del Salvador: 
 
-"Venid hacía mi todos los que estáis tristes y apesadumbrados. yo os quiero dar reposo." 
+```
+"Venid hacía mi todos los que estáis tristes y apesadumbrados. Yo os quiero dar reposo." 
+```
 
 El alma pecadora. simbolizada por Margarita en la celda de su prisión, estando sola, desterrada de la sociedad como una leprosa moral y social, se siente, impelida a dirigir su mirada hacía arriba y su oración no es en vano. Pero, sin embargo, hasta el último momento las tentaciones asedian al alma que busca. EL portal del infierno y el portal del cielo están igualmente cerrados por la celda de la cárcel de Margarita. como queda lustrado por la visita de Fausto y Lucifer que tratan de sacarla de allí y de impedir su muerte inminente para llevarla a una vida de vergüenza ¡y de servidumbre. Pero ella no vacila: prefiere la cárcel y la muerte a la vida y a la libertad en compañía de Lucifer. De este modo resiste la prueba y se hace acreedora al Reino de Dios. 
 
@@ -546,11 +595,14 @@ No satisfecho, sin embargo, de servir a otro bajo las condiciones existentes, Fa
 
 Estos ideales son generados en su alma por el amor de un carácter llamado Helena, que es un amor de la naturaleza más elevada y espiritual, y enteramente separado de la idea de sexo y pasión. En el curso del tiempo él ve como el país sale del mar. pero sus ojos, poco a poco quedan ciegos, porque él está cambiando su mirada de una condición terrestre en otra celeste. Mientras está así observando a las fuerzas dirigidas por Lucifer, trabajando a su requerimiento día y noche. Fausto comprende que él ha realizado la pretensión de Lucifer, de ser: 
 
+```
 "El poder que obra el bien  
 aunque plantando el mal."  
+```
 
 El ve como su trabajo con las fuerzas inferiores se acerca a su acabamiento completo, pero su vista se hace cada vez más nublada, y con aquel anhelo intenso que llena el alma cuando quiere ver el fruto de sus obras, desea poder conservar La vista hasta que todo esté concluido y que su sueño utópico se haya convertido en realidad. Por esta razón, a medida que la visión delante de él — la tierra saliendo del mar y la gente dichosa que vive en ella en buena armonía y fraternidad — desaparece de sus ojos sin vista, pronuncia las palabras fatídicas que dijo al hacer el pacto con Lucifer: 
 
+```
 "Si algún día. embelesado,
 al momento fugitivo
 digo: "Ten el vuelo raudo,"
@@ -560,9 +612,11 @@ doble a muerto la campana,
 párese el vital horario.
 todo para mí concluya.
 y comience tu reinado"
+```
 
 Según las condiciones de aquel pacto, cuando Fausto ha pronunciado las palabras fatídicas. las fuerzas del infierno dejan de estarle sometidas, y él a su vez se convierte en esta presa; por lo menos así debería ser aparentemente. Pero Fausto no deseaba parar la marcha del tiempo con el fin de gozar de placeres sensuales ni de satisfacer deseos egoístas, tales como los dejaba entrever el pacto, sino que era para la realización de un ideal altruista y noble que él deseaba parar la hora del reloj. Por consiguiente, él está libre de Lucifer; y una batalla entre las fuerzas angelicales y las huestes de Lucifer tiene como resultado final el triunfo de los ángeles, que llevan al alma que busca al puerto de reposo en el reino dc Cristo, mientras cantan: 
 
+```
 "Salvado está del mal  
 el noble hijo del mundo espiritual.  
 "el que se esfuerza con constante afán;"  
@@ -571,11 +625,13 @@ y si el Amor de los ciclos
 también le ha asistido,  
 los ángeles van a su encuentro  
 dándole cordial bienvenida."  
+```
 
 Así resulta que el Fausto del mito es un carácter enteramente distinto del Fausto del teatro, y el drama que empieza en el cielo donde se le da permiso a Lucifer para tentarle, como Job fue tentado antiguamente, también termina el cielo cuando la tentación ha sido sufrida victoriosamente y el alma ha vuelto a su Padre. 
 
 Goethe, el gran místico, termina su obra muy apropiadamente con una estrofa, la más mística que hallarse pueda en cualquier literatura: 
 
+```
 "Todo lo perecedero  
 solo es en apariencia;  
 lo inasequible  
@@ -584,6 +640,7 @@ lo indescriptible
 aquí esta realizado  
 lo Eterno-Femenino  
 nos atrae hacia arriba,  
+```
 
 Esta estrofa confunde a todos los que no están capacitados para penetraren las regiones donde, según la idea del autor está cantada, es decir, en el cielo. 
 
@@ -591,7 +648,9 @@ Habla de todo lo perecedero como siendo solamente una apariencia, esto quiere de
 
 Así es como ci mito de Fausto nos cuenta la historia del Templo del Mundo, que están construyendo las dos clases de gente y que será finalmente el Nuevo Cielo y la Nueva Tierra según la profecía del Libro de los Libros. 
 
-### CAPÍTULO VII: PARSIFAL - EL FAMOSO DRAMA MISTICO MUSICAL DE WAGNER
+<h2 id="parsifal">Parsifal</h2>
+
+### <h3 id="chapter-7">CAPÍTULO VII: EL FAMOSO DRAMA MISTICO MUSICAL DE WAGNER</h3>
 
 Mirando a nuestro alrededor en el universo material vemos miles de millones de estrellas de formas y todas ellas tienen cierto color y muchas de ellas emiten un tono definido: en verdad todas lo hacen, porque hay sonido hasta en la llamada inanimada. El viento en los árboles, el murmullo del arroyo, la agitación del océano, son todas contribuciones a la armonía de la naturaleza. 
 
@@ -715,7 +774,9 @@ Oliver Wendell Holmes, en su bellísimo poema, "El caracol nautilus" ha encerrad
 
 "De tus mudos labios sale una nota más elocuente que las emitidas por el cuerno enroscado de Tritón; mientras suena en mis oídos a través de las profundas grutas del pensamiento, oigo una voz que canta "Construyo mansiones más duraderas, ¡alma mía! según las veloces estaciones ruedan. Abandona tus criptas ya surcadas. Haz que cada templo sea más noble que le pasado; abarca un espacio celeste más ancho hasta que por fin te libertes arrojando tu concha subterránea por un océano de vida inmortal." 
 
-### CAPÍTULO VIII: EL ANILLO DE LOS NIBELUNGOS - LAS DONCELLAS DEL RHIN
+<h2 id="ring-of-the-niebelung">El Anillo de los Nibelungos</h2>
+
+### <h3 id="chapter-8">CAPÍTULO VIII: LAS DONCELLAS DEL RHIN</h3>
 
 La repetición es la nota clave del cuerpo vital y el extracto de este cuerpo es el alma intelectual, el cual es el pábulo del espíritu de vida, el verdadero principio de Cristo en el hombre. Como quiera que la tarea particular del mundo occidental es el desenvolver este principio de Cristo, el formar al Cristo interno para que pueda trillar a través de la obscuridad material del tiempo actual, la reiteración de ideas es absolutamente esencial. El mundo entero obedece a esta ley inconscientemente. 
 
@@ -751,7 +812,7 @@ Como queda dicho, el oro, tal como estaba depositado en su estado informe encima
 
 Sin embargo, Alberíco no está solo en su deseo de trazar un anillo alrededor de sí mismo, para obtener poderes. "Como arriba, es abajo" y viceversa. dice el axioma hermético. Los dioses están también evolucionando. Ellos tienen aspiraciones para obtener más poder — un deseo de trazar un anillo alrededor de ellos — porque la guerra existe lo mismo en los cielos que en la tierra. Distintos cultos tratan de dominar las almas de los hombres, y sus limitaciones están igualmente simbolizadas por anillos. 
 
-### CAPÍTULO IX: EL ANILLO DE LOS DIOSES
+### <h3 id="chapter-9">CAPÍTULO IX: EL ANILLO DE LOS DIOSES</h3>
 
 Por el acto de apropiarse una parte del Oro Rhin, representando al espíritu universal, y de darle forma de anillo, como símbolo de que el espíritu no tiene principio ni fin, el ego llegó lo de existencia de una entidad separada. Dentro de los límites de este anillo de oro, el ego es soberano, bastándose a sí mismo, y se resiente la imposición que otro pretenda ejercer sobre sus dominios. En efecto, de este modo es colocó fuera del recinto de la confraternidad. Como el hijo pródigo, se fue lejos de la casa paterna. pero aún antes de darse cuenta de que estaba alimentándose de los desechos de la materia, se presentó la religión para guiarle otra vez a su hogar eterno, para liberarle de la ilusión y del engaño que trae consigo la existencia material; para redimirle de la muerte que forma parte integrante de la encarnación densa, y para enseñarle el camino hacia la verdad y hacia la vida eterna. 
 
@@ -783,7 +844,7 @@ Así, pues, la maldición del Anillo (egoísmo) ha corrompido hasta a los dioses
 
 Los dioses han rescatado en efecto a Freya, pero ésta ya no es la pura diosa del amor. Ha quedado prostituida; no es más que la apariencia de su ser interior. Ya no puede satisfacer a quienes su intuición penetra por debajo de la superficie, semejantes seres son llamados "Walsungs" en el mito escandinavo. La primera sílaba es derivada de la palabra alemana "waehlen," escoger, que corresponde a "vaelge" del escandinavo, y la última significa hijos. Son hijos del deseo de la libre voluntad de escoger, que quieren elegir su propio sendero, y tratan de seguir su propio instinto divino. 
 
-### CAPÍTULO X: LAS VALKIRIAS
+### <h3 id="chapter-10">CAPÍTULO X: LAS VALKIRIAS</h3>
 
 "Las Valkirias" es el nombre de la segunda parte del gran drama musical de Wágner, basado en el mito de los Nibelungos, y los que llevaban este nombre eran hijos de Wotan, como también lo eran los Walsungs. 
 
@@ -821,7 +882,7 @@ Entre tanto Wotan, sin poder abandonar Valhal, el anillo de la profesión de fe,
 
 Es una situación terrible el ser compañero de la verdad y los dos lo experimentan de un modo mucho más agudo que es posible expresar con palabras, cuando el pobre Wotan, que no puede separarse de la fe profesada, tiene que hacer dormir a Brunhilde a la fuerza, pronunciando esta palabras: "No debes despertar hasta que venga uno que sea más libre que yo." Y al decir esto, revela el requerimiento principal para la busca de la verdad. "A menos que un hombre abandone a su padre ya su madre no puede ser mi discipulo," dijo Cristo. Todas las limitaciones deben haber sido abolidas antes de que podamos esperar el éxito en la busca de la verdad. 
 
-### CAPÍTULO XI: SIEGFRIED, EL BUSCADOR DE LA VERDAD 
+### <h3 id="chapter-11">CAPÍTULO XI: SIEGFRIED, EL BUSCADOR DE LA VERDAD</h3>
 
 Hemos visto que es preciso dejar a un lado todas las limitaciones de religión, familia, sociedad que y todo lo que estorba, para ser capaz de alcanzar la verdad; pero hay todavía otro importante requerimiento, que acaso esté en cierto modo comprendido en el primero. Nos unimos a nuestra religión, a nuestros amigos y nuestra familia, por miedo a no quedarnos solos. Nos sometemos a las convenciones porque tememos seguir los dictados de la voz interna que nos incit a ir adelante, hacia cosas de mayor altura que son incomprensibles para la mayoría: resultando que el temor es el mayor obstáculo que alcanzar la verdad y vivirla. 
 
@@ -861,7 +922,7 @@ Pero aunque podamos, desprendiéndonos del cuerpo físico, entrar en el recinto 
 
 Cuando el buscador de la verdad ha llegado al punto que acabamos de describir, ya no permitirá ser contrariado en su afán, ora estos poderes sean diabólicos como Fafnar, o bien dioses como Wotan. El apartará todos los obstáculos con mano dura porque no tiene más que un solo deseo en este mundo, el ardiente e insuperable anhelo de conocer la verdad. Por esto, después de haber roto la lanza de Wotan, sigue adelante guiado por el pájaro de la intuición, basta llegar al círculo de llamas que rodea a Brunhilde, el espíritu dormido de la verdad. Tampoco no se acobarda al ver las llamas de Loge, que son ilusión y alucinación. Con paso firme las atraviesa sumergiéndose atrevidamente en ellas y por fin puede mirar lo que con tanto ardor había perseguido durante muchas vidas. Se inclina, coge a Brunbilde en sus fuertes, aunque tiernos brazos, y con un beso ferviente despierta al espíritu de la verdad de su largo sueño. 
 
-### CAPÍTULO XII: EL COMBATE DE LA VERDAD Y DEL ERROR 
+### <h3 id="chapter-12">CAPÍTULO XII: EL COMBATE DE LA VERDAD Y DEL ERROR<h3>
 
 No existen palabras adecuadas para dar una idea de lo que el alma siente cuando se halla frente a frente con la verdad, muy por encima de este mundo (donde el velo de la carne oculta las realidades vivas bajo una máscara) aún más allá del Mundo de del Deseo y de la ilusión, donde formas fantásticas e ilusorias nos hacen creer que distinto de lo que son en realidad. Solamente la región del Pensamiento Concreto, donde los arquetipos de todas las cosas están unidos al gran coro celestial que Pitágoras llamo "armonía de las esferas," encontramos a la verdad revelada toda su belleza. 
 
@@ -901,15 +962,19 @@ Volvamos ahora la vista del cielo, de Siegfried y Brunhilde, a la tierra donde l
 
 La corte de Gunther está en el mismo camino de Siegfried, y Alberico corre a avisar a Hagen que el actual dueño del anillo está cerca. Los dos tratan de averiguar algo sobre el sitio donde pueda estar el anillo, pero cada uno en su corazón corrompido se esfuerza para engañar al otro y obtener el tesoro para sí solo, porque no hay honor en la batalla del yo separado, cada uno está contra todos los demás sin considerar quiénes sean. Aunque en el mundo hallemos cooperación para propósito, comunes, la cuestión que predomina en la mente de cada uno de los participantes es: ¿Qué puedo yo sacar de esto? Sólo cuando la tarea es fácil o se tiene a la vista una recompensa personal, la gran mayoría de la humanidad está dispuesta a trabajar. El apóstol nos dice de "no interesarnos solamente por los asunto personales, sino de acordarnos s también de los demás." En los países cristianos hemos asentido a este postulado, pero, ¡ay! qué pocos están dispuesto. a vivir según el ideal del servicio altruista. 
 
-### CAPÍTULO XIII: EL RENACIMIENTO Y LA BEBIDA LETAL
+### <h3 id="chapter-13">CAPÍTULO XIII: EL RENACIMIENTO Y LA BEBIDA LETAL</h3>
 
+```
 El nacer no a sino un sueño y un olvido  
 El alma que sale con nosotros, la estrella de nuestra vida  
 Se ha puesto en alguna otra parte  
-Y viene de muy lejos.  
-Wordsworth  
+Y viene de muy lejos.
 
-Cuando Siegfried abandona la roca de la Valkiria y llega a la corte mundana de Gunther, se le da una bebida calculada para hacerle olvidar todos los detalles de su vida pasada hasta aquel momento, y también a Brunhilde, el espíritu de la verdad, que él había conquistado por sus méritos. 
+- Wordsworth  
+```
+
+Cuando Siegfried abandona la roca de la Valkiria y llega a la corte mundana de Gunther, se le da una bebida calculada para hacerle olvidar todos los detalles de su vida pasada hasta aquel momento, y también a Brunhilde, el espíritu de la verdad, que él había conquistado por sus méritos.
+
 Generalmente se supone que la doctrina del renacimiento es enseñada solamente en las antiguas religiones del Oriente, pero un estudio de la mitología escandinava desvanecerá muy pronto esta suposici6n errónea. Los escandinavos creyeron, en efecto, en el renacimiento y también en la ley de causa y efecto tal como se aplica a la conducta moral, hasta que el Cristianismo veló estas doctrinas por las razones explicadas en el Concepto Rosacruz del Cosmos. Resulta curioso observar la confusión que se originó cuando la antigua religión de Wotan fue reemplazada por el Cristianismo. Los hombres entonces creían en la reencarnación en el fondo de sus corazones. pero la repudiaban exteriormente, como demostrará la siguiente historia que se cuenta del Santo Olaf, rey de Noruega, uno de los primeros y más ardientes convertidos al Cristianismo. Cuando Asta, la esposa del rey Harold, estaba de parto, pero no podía dar a luz, un hombre vino a la corte con algunas alhajas; respecto de las cuales dijo lo siguiente: el rey Olaf Peirstad que había reinado en Noruega hacía muchos años y era el antepasado directo de Harold, se le había aparecido en sueños instigándole a que abriese el gran montón de tierra donde estaba sepultado, y después de haber separado la cabeza del resto del cadáver con una espada, que cogiese ciertas joyas que estaban en el ataúd, para llevarlas a la reina, cuyos dolores de parto cesarían entonces en seguida. Las joyas fueron llevadas a la estancia de la reina, la cual dio a luz poco después a un niño, que fue llamado Olaf. Era creencia general que el espíritu de Olaf Geirstad había pasado al cuerpo del niño, que qué llamado como él. 
 
 Muchos años después, cuando Olaf era ya rey de Noruega y se había convertido al Cristianismo, pasó a caballo un día, como de costumbre, por el montón de tierra donde estaba sepultado su antecesor y un cortesano que le acompañaba le preguntó: "Es verdad, Señor, que vos estuvisteis algún tiempo sepultado en este túmulo?" "Jamás, replicó el rey, ha vivido mí espíritu en dos cuerpos." "Sin embargo, se afirma que se os ha oído decir, pasando por este túmulo: "Aquí estuve yo; aquí he vivido." "Nunca he dicho semejante cosa," replicó el rey, "y nunca la diré." El se quedó muy desconcertado, alejándose rápidamente de aquel lugar, probablemente para evitar la discusión sobre una creencia interna que todos los dogmas de la nueva fe no podían desarraigar. 
@@ -940,7 +1005,7 @@ Por esta razón, se da a Siegfried la bebida letal en el momento de entrar en la
 
 Pero todos estos importantes acontecimientos han dejado su impresión en su alma, y ahora se ha de llevar la prueba a cabo para saber si esta impresión ha sido profunda o superficial. La tentación llega a nosotros, vida tras vida, hasta que el tesoro acumulado en el cielo haya sido probado por la tentación en la tierra, para ver si resiste o no al ataque de la corrupción. Después del bautismo, cuando el Espíritu de Cristo hubo bajado al cuerpo carnal de Jesús, fue llevado al desierto de la tentación para probar su debilidad o su fuerza. Y similarmente, después de cada experiencia celeste debemos esperar el ser llevados otra vez á la Tierra, para demostrar en ella si soportamos o no el tormento de la aflicción. 
 
-### CAPÍTULO XIV: EL CREPUSCULO DE LOS DIOSES
+### <h3 id="chapter-14">CAPÍTULO XIV: EL CREPUSCULO DE LOS DIOSES</h3>
 
 Cuando Siegfried llega a la corte de Gunther, Gutrune la hermana del rey le entrega la copa mágica del olvido. Desde entonces en adelante pierde la memoria del pasado y de Brunhilde, el espíritu de la verdad y se halla como un alma desnuda, dispuesta a entrar en la batalla de la vida. Pero está armado de su armado de su experiencia anterior. La espada de Nothung, el "coraje de la desesperación" con la cual combatió contra la codicia y el credo simbolizados por el dragón Frafner, y el dios Wotan, Tarncap, o el casco de la ilusión, que es un buen símbolo de lo que en los tiempos modernos llamamos poder hipnótico, porque cualquiera que se ponía aquel casco mágico en la cabeza aparecía a los demás en la forma que él deseaba; y tiene además el caballo de Brunhilde, Grane, el discernimiento, gracias al cual puede siempre descubrir la verdad y distinguirla del error y de la ilusión. También dispone de poderes que puede emplear para el bien o para el mal, según le plazca. 
 
@@ -978,7 +1043,9 @@ Con el fin de pasar sin sucumbir por el próximo cambio, se necesita un "traje d
 
 La raza germano-anglo-sajona será por cierto sucedida por otras dos antes de que la Sexta Época se manifieste definitivamente, pero actualmente, y de nuestras generaciones está preparándose la simiente para la Edad Nueva. Es precisamente la misión de la Orden Rosacruz, la que por mediación de La Fraternidad Rosacruz, ha de promulgar un método científico de desarrollo. adaptado especialmente a la humanidad occidental, y por el cual sea factible preparar este traje de bodas, para poder acelerar la llegada del día del Señor. 
 
-### CAPÍTULO XV: TANNHAUSER - EL PÉNDULO DE LA ALEGRÍA Y DE LA TRISTEZA 
+<h2 id="tannhauser">Tannhauser</h2>
+
+### <h3 id="chapter-15">CAPÍTULO XV: EL PÉNDULO DE LA ALEGRÍA Y DE LA TRISTEZA</h3>
 
 Este drama trata igualmente de una de las antiguas leyendas. Estos mitos fueron transmitidos a la humanidad por las Jerarquías divinas que nos guían por el camino del progreso por medio de imágenes, para que así la humanidad pudiera de manera subconsciente absorber los ideales por los cuales tenía que luchar en vidas posteriores. 
 
@@ -1026,32 +1093,43 @@ En su camino, Tannhauser encuentra a un grupo de trovadores que están paseando 
 
 Al enterarse que el asunto del concurso de canto va a ser el amor, y que el premio será entregado al vencedor por la mano de la bella hija del señor del castillo, Elisabeth (la misma que Tannhauser había amado tan ardientemente y que inflamó tanto su alma que fue la causa que le empujó a la cueva de Venus), él espera, por el ardor que le inspira, poder inducir a la hermosa doncella a escuchar su lamento. Como siempre cosechamos penas cada vez que obramos contra las leyes del progreso, Tannhausr, por este acto, echa la simiente que más tarde le hará cosechar las penas que él anhelaba en la cueva de Venus. 
 
-
-### CAPÍTULO XVI: LOS TROVARES, INICIADOS DE LA EDAD MEDIA
+### <h3 id="chapter-16">CAPÍTULO XVI: LOS TROVARES, INICIADOS DE LA EDAD MEDIA</h3>
 
 Cuando Tannhauser salió de la cueva de Venus, uno de los primeros sonidos que le saludó fue el canto de un coro de peregrinos yendo a Roma para obtener el perdón de sus pecados y esto despertó en él una sensación abrumadora de su propia delincuencia. Por esta razón, se arrodilla y exclama profundamente contrito: 
 
+```
 "Todopoderoso, te alabo, y te ruego me concedas misericordia. Estoy oprimido por el pecado y su peso es demasiado fuerte para mi. No tengo paz y no encontraré reposo hasta que Tú me hayas perdonado." 
+```
 
 Mientras está de este modo abatido y se siente maldecido y condenado a vagar solo por el mundo a causa de su impío amor por Venus, los trovadores le encuentran, le reconocen y tratan de persuadirle de acompañarles a Wartburg, pero como dijimos antes, fue el amor apasionado de Elisabeth lo que le separó de allí y siente que no se atreverá a acercarse a ella. Como último argumento, Wolfram de Escbenbach cuenta a Tannhauser que Elizabeth le ama. Elizabeth no ha presenciado ningún concurso de canto desde que se marchó Tannhauser y Wolfram de Eschenbach, uno de los más puros y más hermosos caracteres de la historia medieval, intenta conseguir la felicidad de Elisabeth, llevando a Tannhauser otra vez a su lado, a pesar del amor que él mismo siente por ella, y del profundo dolor que su corazón sufre obrando así. Oyendo esto la pasión enciende otra vez el alma de Tannhauser, y canta: 
 
+```
 "Ah, otra vez contemplo tu sonrisa, mundo radiante que había perdido! ¡Oh, sol del cielo, tú no te me escapas detrás de nubes tormentosas que tanto tiempo te me han ocultado! Estamos en el dulce mes de mayo. Sus miles de alegres cantares me quitan penas y tristezas. Un rayo de un esplendor nuevo e inusitado ilumina mi alma. ¡Oh, alegría, te reconozco; eres ella!" 
+```
 
 Encontrando luego a Elizabeth en el castillo ella le dice: 
 
+```
 "Ahora en el mundo para mí se ha oscurecido. El reposo y la alegría han huido de mí. Desde cuando yo escuché locamente tus canciones, he conocido las angustias de felicidad y dolor; y cuando tú te habías marchado de este país, la paz de mi corazón se había ido contigo. Ningún trovador ha podido despertar mi alegría, sus canciones me parecen tristes y muertas. En mis sueños muchas veces sentía la desesperación de mi corazón, y despierta me perseguía angustia tras angustia. Mi vida se pasa sin alegría alguna. ¡Oh, cuéntame por qué estoy subyugada así" 
+```
 
 Y Tannhauser la replica: 
 
+```
 "Alabanzas al amor por esta delicada prueba. El amor ha tocado mi arpa con dulce magia. Por mi canción el amor te ha hablado, y cautivo, me deja prosternado a tus píes." 
+```
 
 Elisabeth entonces confiesa: 
 
+```
 "Oh, bendita sea la hora de nuestro encuentro! ¡Oh, bendito poder del amor! Por fin he podido saludarte, y ya no vagarás por mas tiempo. Ahora la vida despierta nuevamente dentro de mi corazón: la nube de pesares se ha rasgado y el sol de alegría alumbra." 
+```
 
 Elisabeth ha inspirado amor en los corazones de dos de los trovadores: Wolfram y Tannhauser; pero la diferencia entre las dos maneras de amar resaltará del modo como cada cual trata el tema en el concurso de canto, que tiene lugar en el segundo acto, y donde el dueño de Wartburg abre el concurso con estas palabras: 
 
+```
 "Como muchas veces en tiempo de guerra, hemos desafiado a la muerte y luchado como buenos caballeros para mantener el honor. Así vosotros, trovadores, habéis luchado y salvado la virtud y mantenido la verdadera fe con la dulce voz de vuestro canto. Afinad ahora vuestras arpas y componed nuevas canciones. Describid el verdadero amor, para que lo conozcamos a fondo y el que lo haga del modo más noble recibirá su recompensa de manos de la princesa." 
+```
 
 Este último verso nos hará comprender bien el objeto y la misión de caballeros y trovadores. Era deber de los caballeros ir a la guerra, defender con la espada a todos los que necesitaban protección y ayuda. A medida que un caballero seguía el código de honor entonces en uso y defendía a los débiles, siendo leal con amigos y enemigos, él aprendía las lecciones del valor físico y de cierto modo también las del valor moral, que son tan necesarias para el desarrollo del alma. Todos los que entran en el sendero del progreso espiritual son también caballeros de noble nacimiento y tienen la obligación de comprender que deben tener las mismas virtudes que las exigidas de los caballeros antiguos, porque en el sendero espiritual existen también peligros y sitios en los cuales se necesita valor físico. Así por ejemplo, el espíritu no puede libertarse sin inconvenientes físicos. Todo crecimiento del alma va generalmente acompañado de enfermedades, de más o menos intensidad: y se necesita valor físico para soportar el sufrimiento inevitable para lograr el desarrollo espiritual que todos anhelamos, sacrificando de este modo el cuerpo por el alma. 
 
@@ -1061,6 +1139,7 @@ Había naturalmente excepciones, pero Tannhauser no era de ellas. Veremos luego 
 
 Se hace un sorteo para designar al que debe empezar el certamen y le toca a Wolfram el primero. Este empieza como sigue: 
 
+```
 "Mirando sobre encima de esta vistosa asamblea,  
 ¡cómo se dilata el corazón al ver tan hermosa escena!  
 Estos valientes campeones, sabios y gentiles,  
@@ -1083,9 +1162,11 @@ Te quiero adorar, arrodillado. con alma devota
 Mi corazón aspira a vivir y morir por ti.  
 No sé si estas débiles palabras podrán expresar  
 lo que yo he sentido del verdadero y tierno amor.  
+```
 
 Al final del canto de Wolfram, Tannhauser comienza como si saliese de un sueño y levantándose, canta: 
 
+```
 "Yo también he bebido de aquella fuente de placeres.  
 Sus aguas, Wolfram, yo las conozco bien.  
 ¿Quién, que tenga vida, puede atreverse a ignorarla?  
@@ -1102,12 +1183,13 @@ y me siento poseído de un esplendor ardoroso,
 y quisiera arder con eterno afán.  
 Te digo, Wolfram, así yo traduzco  
 lo que he conocido del verdadero amor."  
+```
 
 Aquí tenemos, la exacta descripción de los dos extremos del amor; el de Wolfram es el amor del alma por el alma, y el de Tannhauser el amor sensual. El uno es el amor que trata de dar, y el otro pide la posesión, o sea, el recibir. 
 
 Esto no es más que el principio del certamen, el cual tendremos ocasión de oír después en total, pero siendo éstas las definiciones dadas al principio por los dos más importantes exponentes del amor, conviene tomar nota de que Wolfram de Eschenbach figura como exponente del nuevo y más hermoso amor que tiene que substituir al concepto que del amor se tenía al principio. Hasta hoy en día, desgraciadamente, la antigua idea subsiste, es decir, que la posesión es la característica del amor. Aquellos que creen en reencarnaciones en sexos alternos, deberían, por el hecho expuesto convencerse de una vez, que siendo el alma bisexual y conteniendo nuestros cuerpos órganos rudimentarios pertenecientes al sexo opuesto, no es sino justo y adecuado que cada ser humano, sin tener en cuenta la polaridad de su vestidura actual, tenga los mismos privilegios que los demás. 
 
-### CAPÍTULO XVII: EL PECADO IMPERDONABLE
+### <h3 id="chapter-17">CAPÍTULO XVII: EL PECADO IMPERDONABLE</h3>
 
 Durante el certamen, los sublimes y celestiales ideales de la buena camaradería de alma con alma, son celebrados por la mayoría de los trovadores, y después de cada canción, sale Tannhauser con una réplica aguda y apasionada defendiendo la fase sensual del amor. Finalmente, rabioso, a causa de la aparente insipidez de los demás, que él considera como una necedad sentimental, grita furioso: "Id a ver a Venus, ella os enseñará el amor" 
 
@@ -1141,11 +1223,13 @@ Nadie, que no haya conocido alguna vez el terrible tormento de la tentación, pu
 
 Hay una distinción muy importante que hacer entre inocencia y virtud y lo que es más importante aún, es que deberíamos damos cuenta de la falacia de la doble norma de conducta que concede libertades o, mejor dicho, las condena al hombre mientras que por otro lado insiste en que un solo paso en falso arruine a una mujer para toda la vida. Si yo tuviera que escoger esposa actualmente, y supiese luego que su vida estuvo nublada por una falta la cual la había hecho sufrir, yo sabría que tal mujer había aprendido a conocer los pesares, los cuales engendran compasión e indulgencia, adquiriendo de este modo cualidades que harán de ella una compañera mejor y más simpática que otra que pudo ser "inocente" en el umbral de la vida, pero que estaría de este modo expuesta a caer en la primera tentación que se la presentase. 
 
-### CAPÍTULO XVIII: LA VARA QUE BROTÓ
+### <h3 id="chapter-18">CAPÍTULO XVIII: LA VARA QUE BROTÓ</h3>
 
 En el prólogo del "Fausto" se ponen en boca de Dios, respecto al héroe del drama, estas palabras: 
 
+```
 "Ahora él me sirve con una visión imperfecta. Pero pronto yo le conduciré hacia donde aparece más luz. Cuando el árbol pequeño empieza a brotar, el jardinero sabe que en años venideros llevará flores y frutos." 
+```
 
 Este es el hecho actual de toda la humanidad. En los tiempos presentes nosotros todos servimos a Dios de un modo imperfecto, a causa de nuestra visión limitada. No tenemos el conocimiento real y verdadero de lo que se necesita, ni de como deberíamos emplear la inteligencia de que estamos ahora dotados. Sin embargo, por medio del proceso de la evolución. Dios nos conduce constantemente hacia la luz, y gradualmente cesaremos de ser estériles espiritualmente: floreceremos y daremos fruto. Entonces estaremos en situación de servir a Dios como quisiéramos y no como lo estamos haciendo ahora. 
 
@@ -1181,7 +1265,9 @@ Al llevar adelante este ideal debemos recordar que la supresión del deseo sexua
 
 En esta relación de ideas puede también ser muy provechoso recordar que el "Guardián del Umbral," al cual tenemos que mirar de frente antes de poder entrar en los mundos suprafisicos, tiene la apariencia de una criatura del sexo opuesto, y sin embargo, parece ser nosotros mismos. También es cierto que, cuanto más licenciosos o viciosos hayamos sido, tanto peor será la apariencia de esté monstruo, y Parsifal estando delante de Kundry, cuando su negativa de complacerla la ha transformado en una furia, está de hecho en el mismo punto donde el candidato se halla frente por frente con el Guardián antes de que la lanza sagrada le sea entregada. 
 
-### CAPÍTULO XIX: LOHENGRIN, EL CABALLERO DEL CISNE
+<h2 id="lohengrin">Lohengrin</h2>
+
+### <h3 id="chapter-19">CAPÍTULO XIX: EL CABALLERO DEL CISNE</h3>
 
 En el prólogo del "Fausto" se ponen en boca de Dios, respecto al héroe del drama, estas palabras: 
 
