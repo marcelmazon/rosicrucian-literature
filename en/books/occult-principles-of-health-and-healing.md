@@ -39,7 +39,8 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
     - [Evolution and General Purpose](#evolution-and-general-purpose)
     - [The Ethers and Their Functions](#the-ethers-and-their-functions)
   - [Chapter III: The Desire Body and the Mind](#chapter-3)
-
+    - [The Desire Body](#the-desire-body)
+    - [The Mind](#the-mind)
 - [PART II - DISEASE](#part-2)
   - [Chapter IV: General Causes of Disease](#chapter-4)
     - [Introduction](#chapter-4-introduction)
@@ -54,7 +55,7 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
     - [Shell Shock](#shell-shock)
     - [Sclerosis or Hardening of Arteries](#sclerosis-or-hardening-of-arteries)
   - [Chapter VI: Heredity and Disease](#chapter-6)
-  - [CHAPTER VII: Effects of Alcohol and Tobacco](#chapter-7)
+  - [Chapter VII: Effects of Alcohol and Tobacco](#chapter-7)
 
 - [PART III - HEALING](#part-3)
   - [Chapter VIII: Origin and Development of Healing](#chapter-8)
@@ -345,6 +346,8 @@ Only a small portion of the ether appropriated by a certain Ego is thus used, an
 The Western Wisdom School teaches as its fundamental maxim that "all occult development begins with the vital body." The part of the vital body formed of the two higher ethers, the light ether and the reflecting ether, is what we may term the soul body; that is to say, it is more closely linked with the desire body and the mind and also more amenable to the Spirit's touch than are the two lower ethers. It is the vehicle of intellect, and responsible for all that makes man, man. Our observations, our aspirations, our character, etc., are due to the work of the Spirit in these two higher ethers, which become more or less luminous according to the nature of our character and habits. Also, as the dense body assimilates particles of food and thus gains in flesh, so the two higher ethers assimilate our good deeds during life and thus grow in volume as well. According to our doings in this present life we thus increase or decrease that which we brought with us at birth. This is the reason the Western Wisdom Teaching says that all mystic development begins with the vital body. 
 
 ### <h3 id="chapter-3">CHAPTER III: THE DESIRE BODY AND THE MIND</h3>
+
+#### <h4 id="the-desire-body">THE DESIRE BODY:</h4>
 
 In the third Revolution of the Moon Period the Lords of Individuality radiated from themselves the substance which they helped the unconscious, evolving man to appropriate and build into a germinal desire body. They also helped him to incorporate this germinal desire body in the compound vital body and dense body which he already possessed. This work was carried on all through the third and fourth Revolutions of the Moon Period. 
 
