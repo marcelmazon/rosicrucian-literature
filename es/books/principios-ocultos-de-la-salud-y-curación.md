@@ -107,25 +107,25 @@ Cristo exhortó a sus discípulos: "Predicad el Evangelio y curad a los enfermos
     - [Capítulo XXIV: Cuidados debidos a los Muertos](#chapter-24)
     - [Capítulo XXV: Como ayudar a los que han Muerto](#chapter-25)
 
-## PRIMERA PARTE: EL HOMBRE Y SUS VEHÍCULOS
+<h2 id="part-1">PRIMERA PARTE: EL HOMBRE Y SUS VEHÍCULOS</h2>
 
-### CAPITULO I: EL CUERPO DENSO O FÍSICO
+### <h3 id="chapter-1">CAPITULO I: EL CUERPO DENSO O FÍSICO</h3>
 
-#### Introducción. 
+#### <h4 id="chaptert-1-introduction">Introducción.</h4>
 
 La Ciencia Oculta enseña que el ser humano es un ser complejo que posee: 
 
-1. - Un Cuerpo Denso, que es el instrumento visible que emplea aquí en este mundo para actuar y moverse; el cuerpo de quien ordinariamente creemos que se trata de todo el ser humano. 
+1\. Un Cuerpo Denso, que es el instrumento visible que emplea aquí en este mundo para actuar y moverse; el cuerpo de quien ordinariamente creemos que se trata de todo el ser humano. 
 
-2. - Un Cuerpo Vital, compuesto de éter, el cual compenetra el cuerpo visible, de la misma manera que el éter compenetra todas las demás formas, con la única excepción de que el ser humano especializa una mayor suma de éter universal que los demás cuerpos. Ese cuerpo etérico es nuestro instrumento para especializar la energía vital del Sol. 
+2\. Un Cuerpo Vital, compuesto de éter, el cual compenetra el cuerpo visible, de la misma manera que el éter compenetra todas las demás formas, con la única excepción de que el ser humano especializa una mayor suma de éter universal que los demás cuerpos. Ese cuerpo etérico es nuestro instrumento para especializar la energía vital del Sol. 
 
-3. - Un Cuerpo de Deseos, que constituye nuestra naturaleza emocional. Este vehículo, más sutil, compenetra tanto el cuerpo físico como el vital. El clarividente lo ve extendiéndose como unas dieciséis pulgadas en torno del cuerpo visible, el cual se encuentra situado en el centro de esta nube ovoide, como la yema se encuentra en el centro del huevo. 
+3\. Un Cuerpo de Deseos, que constituye nuestra naturaleza emocional. Este vehículo, más sutil, compenetra tanto el cuerpo físico como el vital. El clarividente lo ve extendiéndose como unas dieciséis pulgadas en torno del cuerpo visible, el cual se encuentra situado en el centro de esta nube ovoide, como la yema se encuentra en el centro del huevo. 
 
-4. - La Mente, que es un espejo que refleja el Mundo Externo y permite al Ego transmitir sus mandatos al pensamiento y a la palabra, así como también para ejercer su acción. 
+4\. La Mente, que es un espejo que refleja el Mundo Externo y permite al Ego transmitir sus mandatos al pensamiento y a la palabra, así como también para ejercer su acción. 
 
 El Ego es el triple espíritu que utiliza estos vehículos para acumular experiencias en la escuela de la vida. 
 
-#### Evolución. 
+#### <h4 id="evolution">Evolución</h4>
 
 El cuerpo denso fue el primer vehículo que se construyó y tiene, por consiguiente, un enorme período de Evolución tras suyo. Se encuentra en su cuarta etapa de desenvolvimiento y ha logrado actualmente un grado de eficiencia maravilloso. A su tiempo alcanzará la perfección, pero aun actualmente es el mejor organizado de los vehículos humanos. Es un instrumento construido maravillosamente, y todo el que pretenda tener conocimiento de la constitución del hombre debe reconocerlo así. 
 
@@ -177,7 +177,7 @@ Los Arcadios constituyeron la sexta y los Mogoles la séptima de las razas Atlan
 
 El Asia Central fue la cuna de las Razas Arias que descendieron de los Antiguos Semitas. De ahí provienen todas las diferentes razas restantes. Es innecesario describirlas ahora aquí, porque las investigaciones históricas ya han revelado suficientemente sus Principales características. 
 
-El cerebro y el sistema nervioso. 
+#### <h4 id="the-brain-and-nervous-system">El cerebro y el sistema nervioso</h4>
 
 En la revolución Saturnina del Período Terrestre, el cuerpo denso adquirió la aptitud de desarrollar y formar un cerebro, convirtiéndolo así en vehículo para el germen de la mentalidad que se le agregaría posteriormente. Se le impartió el impulso para formar la parte frontal del cerebro. El cerebro y el sistema nervioso son la más elevada expresión del cuerpo de deseos. Ellos son los que evocan las imágenes del mundo exterior; pero, en este proceso de formar imágenes mentales, la sangre es la que aporta el material necesario para ellas. De ahí que cuando el pensamiento está en actividad la sangre fluya hacia la cabeza. 
 
@@ -195,7 +195,7 @@ Parte del sistema muscular involuntario es controlado por el sistema nervioso si
 
 El asiento o sede del espíritu humano está primariamente en la glándula pineal y secundariamente en el cerebro y el sistema nervioso cerebroespinal, que controla los músculos voluntarios. 
 
-#### La Sangre. 
+#### <h4 id="the-blood">La Sangre</h4>
 
 El estudio de la sangre es algo muy profundo y trascendental, desde cualquier punto de vista que lo consideremos. Mefistófeles tenia razón al decir que "la sangre es una esencia muy especial." Ella es la que va formando el cuerpo físico desde el momento en que la simiente atómica queda depositada en el óvulo, hasta que se produce la ruptura del cordón plateado, que termina con la existencia material, siendo uno de los mas elevados productos del cuerpo vital y el que lleva la nutrición a todas las partes del cuerpo. Es el vehículo directo del Ego, inyectándose en ella todo pensamiento, sentimiento o emoción transmitidos a los pulmones. 
 
@@ -239,7 +239,7 @@ La sangre esta en nuestros días diferentemente constituida de lo que lo estaba 
 
 Cuando se mata a alguien, la sangre venosa, con sus impurezas, se adhiere firmemente a la carne, y, por lo tanto, la sangre arterial que fluye es evidentemente más pura y limpia de lo que hubiera sido si no fuera por eso. Habiendo sido eterealizado por el Gran espíritu de Cristo, la sangre purificada de Jesús se derramo sobre el Mundo, purificando las regiones etéricas de todo egoísmo hasta cierto punto y dando al ser humano una oportunidad mejor para obtener substancias que le permitan crear y formar propósitos y deseos altruistas. 
 
-#### Las Glándulas Endógenas. 
+#### <h4 id="the-ductless-glands">Las Glándulas Endógenas</h4>
 
 El astrólogo esotérico sabe muy bien que el cuerpo humano tiene tras sí un inmenso período de evolución y que su espléndido organismo es el resultado de un lento proceso de desenvolvimiento, que todavía esta en marcha y que hará que cada generación sea mejor que la anterior, hasta que, en un futuro muy remoto, haya alcanzado la etapa de su completamiento perfecto, que hoy no nos es dable siquiera imaginar. Los estudiantes de la Ciencia Espiritual saben también que, además del cuerpo físico, el ser humano tiene otros vehículos sutiles, que no pueden ser vistos por la mayoría de los demás, aunque todos tenemos en forma latente un sexto sentido mediante el cual podemos conocer esos vehículos sutiles del alma. 
 
@@ -282,7 +282,7 @@ Desde entonces la glándula pineal y el cuerpo pituitario han quedado espiritual
 
 Las glándulas endógenas están destinadas a desempeñar un importante papel en el futuro, y su desenvolvimiento acelerara sobremanera la evolución, porque sus efectos son principalmente mentales y espirituales. Ya estamos llegando a la Edad de Acuario, y el Sol comienza a transmitirnos las elevadas vibraciones intelectuales de este signo, que explica las intuiciones, premoniciones y transmisiones telepáticas que predominan actualmente. En ultimo análisis estos fenómenos se deben al despertar del cuerpo pituitario, regido por Urano, el Señor de Acuario, y cada año que pase lo pondrá de más en más manifiesto. 
 
-#### El Sistema Linfático. 
+#### <h4 id="the-lymphatic-system">El Sistema Linfático</h4>
 
 El Sistema Linfático es tubular y esta un tanto asociado con los capilares que unen las circulaciones venosa y arterial, terminando en las grandes venas próximas al corazón. La linfa que fluye por sus canales va en una dirección: hacia el centro de la circulación: el corazón. Se puede considerar este sistema como una especie de pequeños desaguaderos del cuerpo, porque en realidad recoge el agua sucia de los tejidos, después de bañarlos en la linfa que transporta. Si pensamos en los canales como tubería de drenaje que recoge el exceso de agua, podemos entonces considerar estas glándulas linfáticas, que se encuentran a lo largo de dichos canales, como otras tantas válvulas de paso, en las que la linfa tiene que detenerse y filtrarse para pasar a la corriente sanguínea venosa. 
 
@@ -292,9 +292,9 @@ Cada uno de estos vasos linfáticos pasa a través de una o más de estas glánd
 
 Las glándulas pueden enfermarse debido a la naturaleza ponzoñosa de la linfa que se filtra a través de ellas. El sistema linfático es triple: recoge la linfa de los tejidos (el quilo de los intestinos) después que este ha sido elaborado por el proceso de la digestión, y por medio de las glándulas linfáticas crea las células linfáticas, que son idénticas a los corpúsculos blancos de la sangre. 
 
-### CAPÍTULO II: EL CUERPO VITAL
+### <h3 id="chapter-2">CAPÍTULO II: EL CUERPO VITAL</h3>
 
-#### Evolución y Propósito General. 
+#### <h4 id="evolution-and-general-purpose">Evolución y Propósito General</h4>
 
 El cuerpo vital es el segundo de los más antiguos vehículos que tenemos, habiendo sido dado su germen original por los Señores de la Sabiduría durante el Período Solar. En la revolución Solar del Período Lunar fue modificado para hacerlo capaz de ser interpenetrado por un cuerpo de deseos, a la vez que se pudiera ajustar por sí mismo al sistema nervioso, muscular, óseo, etcétera. 
 
@@ -306,7 +306,7 @@ El cuerpo denso se forma en la matriz del cuerpo vital durante la vida antenatal
 
 El cuerpo vital interpenetra al denso y se extiende más allá de su superficie una pulgada y media. La contextura del cuerpo vital puede compararse crudamente a esos marcos o tableros formados por innumerables piecitas de madera, incrustadas y trabadas entre sí, presentando incontables puntos al observador. Los puntos del cuerpo vital entran en los centros huecos de los átomos densos llenándolos con energía viviente lo que los hace vibrar en un grado mucho más intenso que el de los minerales que no están así animados ni acelerados. 
 
-#### Los Éteres y sus funciones. 
+#### <h4 id="the-ethers-and-their-functions">Los Éteres y sus funciones</h4>
 
 Cuando analizamos el ser humano, encontramos en él los cuatro éteres: químico, de vida, luminoso y reflector. Estos cuatro éteres se encuentran en forma diferente y activa, en su bien desarrollado cuerpo vital. Mediante la actividad del éter químico, se encuentra en condiciones de asimilar el alimento y crecer; las fuerzas del éter de vida le permiten propagar su especie; las energías del éter luminoso proporcionan el calor del cuerpo, a la vez que operan en los nervios y músculos, abriendo así las puertas de comunicación con el mundo exterior, por medio de los sentidos. Y el éter reflector finalmente permite que el espíritu controle sus vehículos mediante el pensamiento. Este éter es el que almacena las experiencias pasadas, en forma de memoria. 
 
@@ -332,9 +332,9 @@ Sólo una pequeña parte del éter que ha reunido cada Ego se emplea así y el r
 
 La Escuela de Sabiduría del Occidente enseña como máxima fundamental que "todo desenvolvimiento oculto comienza siempre con el cuerpo vital." La parte del cuerpo vital formada por los dos éteres superiores, el éter luminoso y el éter reflector, es lo que podemos llamar el cuerpo anímico; esto es, está más estrechamente vinculado con el cuerpo de deseos y la mente, y es más obediente a los impulsos del espíritu que los otros dos éteres. Es el vehículo del intelecto y de todo aquello que hace del hombre un ser humano. Nuestras observaciones, nuestras aspiraciones, nuestro carácter, etcétera, se deben a la obra del espíritu en estos dos éteres superiores, los cuales se van tornando más o menos refulgentes de acuerdo con la naturaleza de nuestro carácter y de nuestros hábitos. Y de la misma manera en que el cuerpo denso asimila partículas de alimento y gana en carnes, así también estos dos éteres superiores asimilan nuestras buenas obras durante la vida y aumentan de volumen. Y según nuestras obras en la vida presente, aumentamos o disminuimos lo que trajimos al nacer. Por esta razón la Doctrina Occidental de la Ciencia Espiritual dice que todo desenvolvimiento místico comienza con el cuerpo vital. 
 
-### CAPÍTULO III: EL CUERPO DE DESEOS Y LA MENTE
+### <h3 id="chapter-3">CAPÍTULO III: EL CUERPO DE DESEOS Y LA MENTE</h3>
 
-#### El Cuerpo de Deseos. 
+#### <h4 id="the-desire-body">El Cuerpo de Deseos</h4>
 
 En la tercera revolución del Período Lunar, los Señores de la Individualidad irradiaron de sí mismos la sustancia que ayudaron a asimilar al ser humano inconsciente, evolucionante, en su cuerpo de deseos. Y también le ayudaron a incorporar este cuerpo de deseos germinal en el cuerpo vital y denso compuestos que ya tenía. Este trabajo se fue realizando durante toda la tercera y la cuarta revoluciones del Período Lunar. 
 
@@ -350,7 +350,7 @@ En el cuerpo de deseos de los clarividentes voluntarios positivos, giran en la m
 
 En un futuro muy remoto, el cuerpo de deseos humano estará tan bien organizado como lo están actualmente los cuerpos físico y vital. 
 
-#### La Mente. 
+#### <h4 id="the-mind">La Mente</h4>
 
 En la Época Atlante del Período Terrestre, los Señores de la Mente irradiaron de sí mismos y depositaron en nuestro ser el núcleo de la sustancia que actualmente estamos tratando de organizar como mentalidad. Le fue conferida al ser humano para dar objeto y propósito a sus acciones; pero como el ego era extraordinariamente débil y la naturaleza pasional muy fuerte, la mente naciente se fundió con el cuerpo de deseos, dando por resultado la Astucia, que fue la causa de toda maldad que se difundió en el tercio medio de la Época Atlante. 
 
@@ -378,11 +378,11 @@ En el Período de Venus, cuando su mente haya adquirido "Sentimiento" o "Sensaci
 
 Y, finalmente, cuando alcance la perfección, al final del Período de Vulcano, podrá imaginar en existencia seres que vivirán, crecerán, sentirán y pensarán. 
 
-## SEGUNDA PARTE: ENFERMEDAD
+<h2 id="part-2">SEGUNDA PARTE: ENFERMEDAD</h2>
 
-### CAPÍTULO IV: CAUSAS GENERALES DE LAS ENFERMEDADES
+### <h3 id="chapter-4">CAPÍTULO IV: CAUSAS GENERALES DE LAS ENFERMEDADES</h3>
 
-#### Introducción. 
+#### <h4 id="chapter-4-introduction">Introducción</h4>
 
 La enfermedad es realmente un fuego, el Fuego Invisible, que es el Padre, tratando de desintegrar las cristalizaciones que se han ido formando en el cuerpo. Reconocemos fácilmente que la fiebre pueda ser un fuego; pero la verdad es que los tumores, los cánceres y todas las demás enfermedades son también efectos de ese fuego invisible que trata de purificar el sistema y libertarlo de las condiciones que hemos creado al violar las leyes de la Naturaleza. 
 
@@ -398,7 +398,7 @@ Este es, pues, el gran ideal hacia el que nos dirigimos: purificarnos de todo eg
 
 Hasta que la vida del Cristo nos ilumine por dentro, no podemos ni comprender ni seguir las leyes de la Naturaleza, y, por consiguiente, contraemos enfermedades por nuestra ignorante violación de esas leyes. Para emplear las palabras de Émerson, podríamos decir que una persona enferma es un pillo en el acto de ser cogido in fraganti: ha violado las leyes de la naturaleza. Por esta razón es necesario que el Evangelio del Cristo sea predicado a todos, que cada uno de nosotros aprenda a amar a Dios con todo nuestro corazón y toda nuestra alma, y a nuestros hermanos como a nosotros mismos, porque todo el infortunio del mundo, lo reconozcamos o no, proviene de un solo y único hecho: nuestro egoísmo. Si las funciones digestivas sufren desórdenes: ¿a qué se debe? ¿No será por haber sobrecargado nuestro organismo, por habernos encolerizado y agotado nuestras fuerzas nerviosas tratando de obligar a otro a servir nuestros fines egoístas, o porque nos sentíamos resentidos por no haberlo logrado? En todos los casos se verá que el egoísmo es la causa primaria de todas las enfermedades y que el egoísmo es el pecado capital de la ignorancia. 
 
-#### Causas de los desordenes mentales. 
+#### <h4 id="causes-of-mental-disabilities">Causas de los desordenes mentales</h4> 
 
 Las afecciones que sufre la humanidad pueden ser divididas en dos grandes clases: mentales y Físicas. Las afecciones mentales tienen su origen particularmente en el abuso de las funciones creadoras, cuando son congénitas, con una excepción que notaremos más tarde. Lo mismo ocurre cuando hay perturbaciones en la facultad del lenguaje. Esto es razonable y fácil de comprender. El cerebro y la laringe fueron formados con la mitad de la energía creadora, por los Ángeles de tal manera que el ser humano, que antes de la adquisición de dichos órganos era bisexual y capaz de crear cuerpos por sí mismo, cuando se formaron aquellos órganos perdió esa facultad y tiene que depender ahora de otra persona del sexo opuesto para poder generar un nuevo vehículo para un alma encarnante. 
 
@@ -414,7 +414,7 @@ un gran choque hace que el alma trate de escapar con los vehículos invisibles, 
 
 Pero, como decimos, a veces el susto o choque es lo bastante fuerte como para darles un impulso tal que se desajustan los centros etéricos sensoriales. Esto ocurre más frecuentemente con las personas que han nacido en signos comunes, que son los más débiles del zodíaco. Sin embargo, de la misma manera que un ligamento, después de haber sido estirado con exceso y hasta desgarrado, puede recuperar gradualmente una elasticidad relativa, así, en estos casos, es más fácil restaurar las facultades mentales que en los casos de insania congénita, traída de las vidas pasadas y causada por una conexión o ajuste inadecuado. 
 
-#### Causas de las afecciones físicas. 
+#### <h4 id="causes-of-physical-disabilities">Causas de las afecciones físicas</h4>
 
 Con respecto a las anormalidades físicas y a las deformidades en general, la regla parece ser que como la indulgencia física por nuestras pasiones reacciona sobre los estados mentales, así también el abuso de los poderes mentales en una vida lleva a la invalidez física en una existencia posterior. Una máxima oculta dice que una mentira es a la vez asesinato y suicidio en el Mundo Astral o de Deseos. Las enseñanzas de los Hermanos Mayores, dadas en el "Concepto Rosacruz del Cosmos," explican que cuando ocurre un acontecimiento, cierta forma mental generada en el Mundo Invisible deja una impresión del incidente. Y cada vez que se habla o comenta dicho acontecimiento, se crean nuevas formas mentales que se funden con el original y lo vigorizan, siempre que ambos sean verdaderos y respondan a la misma vibración. Pero si se dice una mentira o inexactitud con respecto a lo ocurrido, entonces las vibraciones del original y de la reproducción ya no son idénticas: chocan entres sí, desintegrándose mutuamente. Si la forma mental buena y verdadera es suficientemente fuerte, se sobrepondrá y vencerá a las formas mentales basadas en la mentira, y el bien vencerá al mal. Pero si los pensamientos falsos y maliciosos son los más fuertes, pueden vencer a la verdadera imagen mental del acontecimiento y destruirla. Más adelante, a su vez chocarán entre sí y se aniquilarán mutuamente. Al fin de cuentas, todas las cosas trabajan ultérrimamente para el Bien. 
 
@@ -426,9 +426,9 @@ Sólo cuando penetramos en los reinos superiores, y muy especialmente en la Regi
 
 Pero sí sabemos que aun hoy en día hay un pequeñísimo número de personas que ya están prontas para vivir tan cerca de la verdad como es posible, confesándola y profesándola ante los demás seres humanos, mediante una vida de servicio, de justicia y de inofensividad. Podemos comprender perfectamente que esos pocos deben haber sido en realidad muy pocos en los días pasados, cuando el ser humano no había desarrollado todavía el altruismo, que solo vino a este planeta con el advenimiento de nuestro Señor y salvador Cristo-Jesús. Las normas de la moral eran entonces muy inferiores a las actuales, y el amor a la verdad, casi desconocido en la mayor parte de la humanidad, la que estaba absorbida en la tarea de acumular tantas riquezas como podía o adquirir poder y prestigio en la medida de lo posible. Por ese motivo los seres humanos se sentían naturalmente inclinados a desconsiderar los intereses de los demás, y decir una mentira no parecía absolutamente reprensible y algunas veces se lo consideraba hasta meritorio. Los arquetipos estaban constantemente llenos de debilidades de toda especie, y todas las funciones orgánicas del cuerpo se encuentran actualmente muy obstaculizadas como resultado de todo ello, en particular en los cuerpos occidentales, que son los que se están convirtiendo en organismos cada vez más sensibles al dolor, debido a la creciente conciencia del espíritu. 
 
-### CAPÍTULO V: CAUSAS ESPECÍFICAS DE LA ENFERMEDAD
+### <h3 id="chapter-5">CAPÍTULO V: CAUSAS ESPECÍFICAS DE LA ENFERMEDAD</h3>
 
-#### Insania. 
+#### <h4 id="insanity">Insania</h4>
 
 Desde el punto de vista oculto, existen cuatro clases de insania. La alineación es siempre causada por la ruptura en la cadena de vehículos entre el ego y el cuerpo físico. Esta ruptura puede ocurrir entre los centros cerebrales y el cuerpo vital, o entre el cuerpo vital y el de deseos, o entre el cuerpo de deseos y la mente, o entre la mente y el ego. Y, además, la ruptura puede ser completa o solamente parcial. 
 
@@ -444,13 +444,13 @@ La Magia Negra en sus formas menores, tales como el hipnotismo, generalmente pro
 
 Las drogas y los ejercicios respiratorios, tales como los que suelen practicar los estudiantes del oriente, tienen un efecto terriblemente destructivo sobre el cuerpo, por lo que su empleo es en absoluto indeseable. Son muchas las personas que actualmente se encuentran en el manicomio o afectadas de consunción debido a los ejercicios respiratorios. Y nada diremos de los efectos de las drogas, pues son bien conocidos. Los átomos de los cuerpos occidentales han sido altamente sensibilizados en el curso ordinario de la evolución, y los Ejercicios que puede emplear impunemente un oriental, cuyo cuerpo carece de esa alta sensibilidad, provocarían una catástrofe en un cuerpo occidental, causando una violenta excitación de sus átomos, que sería dificilísimo tranquilizar después. 
 
-#### Mediumnidad. 
+#### <h4 id="mediumship">Mediumnidad</h4>
 
 Cuando una persona se convierte en médium para un espíritu desencarnado que entra en su cuerpo, como ocurre con los médiums en trance, en que el espíritu toma posesión de su cuerpo y lo utiliza como lo haría su verdadero poseedor, el daño que se sufre es mínimo, siempre que el espíritu controlador no abuse de su privilegio. En realidad de verdad, hay casos en que el espíritu control tiene mayores conocimientos acerca del cuidado del cuerpo que su propio dueño, y eso puede mejorar la salud. Pero los espíritus de elevada naturaleza ética rarísimas veces controlan a un médium. Generalmente son los espíritus más apegados a la Tierra y de categoría inferior como los indios u otros parecidos, los que tratan de obtener control sobre las personas de temperamento medianímico, y una vez que entran en posesión de sus cuerpos pueden utilizarlos para satisfacer sus pasiones y deseos de bebida o sexuales. Y así causan serias perturbaciones en el organismo y pueden dañarlo. 
 
 En el caso de los médiums materializadores, podemos decir que su influencia es siempre dañosa. El espíritu materializador pone en trance a su víctima y entonces extrae de ella el éter del cuerpo vital a través del bazo, porque la diferencia entre el médium materializador y la persona ordinaria consiste en que la conexión entre el cuerpo vital y el denso es muy floja, de manera que es posible extraer ese cuerpo vital en gran parte. El cuerpo vital es el vehículo que especializa las corrientes solares que nos infunden vitalidad. Privado de sus principios vitalizantes, el cuerpo del médium durante el tiempo de la materialización, algunas veces se reduce a la mitad de su tamaño normal, poniéndose sus carnes fofas y disminuyendo el fuego vital hasta casi extinguirse. Una vez terminada la sesión y recuperado el cuerpo vital, el médium se despierta y recobra su conciencia normal. Entonces experimenta una terrible sensación de agotamiento y, algunas veces, por desgracia, recurre a la bebida como medio de recuperar las fuerzas. En esos casos la salud pronto sufrirá y el médium se irá convirtiendo en una ruina. De cualquier manera, debería evitarse la mediumnidad a toda costa, porque, aparte de ese peligro corporal, hay que tener en cuenta otras consideraciones mucho más serias en relación con los cuerpos sutiles y especialmente con el estado post mortem. 
 
-#### Obsesión. 
+#### <h4 id="obsession">Obsesión</h4>
 
 La obsesión es un estado en el que un espíritu desencarnado ha tomado posesión permanente del cuerpo de alguien, a quien ha despojado del mismo. Sin embargo, algunas veces, ciertas personas adictas a la bebida u otros vicios peores, tratan de excusarse so pretexto de que están obsesionadas. Cada vez que alguien presenta esa excusa, puede uno estar casi seguro de que no es más que una excusa, porque el ladrón que ha robado algo no sale gritándole a todo el mundo que ha robado, y una entidad que esté obsesionando a otro, tampoco lo haría, porque en verdad esa entidad no se preocupa absolutamente de aquél a quien ha despojado, y por lo tanto no hay razón alguna para que lo proclame y corra el riesgo de ser exorcizada. 
 
@@ -486,13 +486,13 @@ Cuando el espíritu retorna a la Tierra, este cuerpo de pecado se siente atraíd
 
 Además de las entidades ya mencionadas, que moran en un cuerpo de pecado hecho por ellas mismas y que sufren así enteramente el resultado de sus propias obras en el período de expiación, encontramos otras dos clases que eran parecidas en ciertos aspectos, pero diferentes en otros. Además de as Jerarquías Divinas y las cuatros oleadas de vida, cuyos espíritus están actualmente evolucionando en el Mundo Físico, en el Reino Mineral, Vegetal, Animal y Humano, existen otras oleadas de vida que se expresan en los varios Mundos Invisibles. Entre ellos existen ciertas clases de espíritus subhumanos, que se llaman elementales. A veces ocurre que uno de esos elementales toma posesión del cuerpo de pecado de algún salvaje y agrega así su propia inteligencia al conjunto. Al renacer el espíritu que creó ese cuerpo de pecado, la atracción natural los pone juntos otra vez; pero, debido al hecho de que el elemental anima ahora a ese cuerpo de pecado, el espíritu es muy distinto del de los demás miembros de la tribu de salvajes, y entonces los encontramos actuando como médicos, hechiceros o algo parecido. Estos espíritus elementales que animan a los cuerpos de pecado de los indios, también pueden actuar sobre los médiums como espíritus controladores, y una vez que han obtenido poder sobre el médium durante su vida, cuando este muere, esos elementales lo expulsan de los vehículos que encierran la experiencia de su vida. De esta manera el médium puede verse rezagado en su evolución durante edades enteras, porque no hay poder alguno que pueda compeler a esos espíritus a abandonar un cuerpo de esa clase, una vez que se han apoderado de él. Por consiguiente, aunque la mediumnidad parezca no producir malos efectos en una sola vida, siempre existe un gravísimo peligro para la persona que ha permitido a otra tomar posesión de su cuerpo, al morir. 
 
-#### Histeria, Epilepsia, Tuberculosis y Cáncer. 
+#### <h4 id="hysteria-epilepsy-tuberculosis-and-cancer">Histeria, Epilepsia, Tuberculosis y Cáncer</h4>
 
 En nuestras investigaciones hemos comprobado que la histeria, la epilepsia, la tuberculosis y el cáncer son el resultado de las propensiones erráticas en una vida pasada. En las vidas pasadas que se investigaron, se pudo observar que muchos de los sujetos de estudio habían sido, en sus vidas pasadas, casi maniáticos en la satisfacción de sus lascivias, aunque a la vez eran de una naturaleza altamente devocional y religiosa. En esos casos parece que el cuerpo físico generado en la vida actual era normalmente saludable y que su afección era completamente mental, mientras que en otros casos en que la satisfacción de la naturaleza pasional estaba amalgamada con un carácter vil y una desconsideración cruel para los demás, el resultado actual era la epilepsia juntamente con el raquitismo, el histerismo o un cuerpo deforme. En muchos casos el resultado fue el cáncer, especialmente del hígado o del pecho. 
 
 Sin embargo, debemos prevenir a los estudiantes para que no saquen conclusiones apresuradas y crean que éstas son reglas rígidas y generales. El número de investigaciones practicadas, aunque numerosas y arduas para un investigador aislado, es muy pequeño para poder llegar a conclusiones definitivas en materias que afectan a millones de seres humanos. No obstante, están de acuerdo con las enseñanzas impartidas en el "Concepto Rosacruz del Cosmos," dado por los Hermanos Mayores, con respecto a los efectos del materialismo que produce el raquitismo y el reblandecimiento de aquellas partes del cuerpo que debieran ser dura, o el de la tuberculosis, que endurece ciertos tejidos que deberían ser blandos y flexibles. El cáncer es esencialmente similar en sus efectos, y si consideramos que el signo de Cáncer está regido por la Luna, el planeta de la generación, y que la Esfera Luna está gobernada por Jehová (Yehová), el Dios de la generación, cuyos ángeles anuncias y presiden el nacimiento, como lo vemos en el caso de Isaac, Samuel, Juan el Bautista y Jesús, no nos será difícil ver que el abuso de las funciones creadoras puede causar a la vez el cáncer y la locura en sus múltiples formas. 
 
-#### Defectos visuales. 
+#### <h4 id="visual-defects">Defectos visuales</h4> 
 
 Con respecto a la falta de la visión o afecciones o defectos de la vista, todos los investigadores saben perfectamente que ello es el efecto de crueldades extremas en las vidas pasadas. Investigaciones muy recientes han comprobado, además, que muchas de las perturbaciones de los ojos, actualmente muy comunes, se deben al hecho de que nuestros ojos están cambiando. En realidad, se van sensibilizando y respondiendo a la octava superior de la visión anterior, porque el éter que rodea a la Tierra se está haciendo más denso, a la par que el aire se va enrareciendo. Esto es particularmente cierto en determinadas partes del mundo, en la California del Sur, entre otras. También es digno de notarse el hecho de que la Aurora Boreal se está haciendo más y más frecuente y poderosa en sus efectos sobre la Tierra. En los primeros tiempos dela Era cristiana este fenómeno era casi desconocido, pero en el curso del tiempo, conforme la oleada crística desciende sobre la Tierra en cierta parte del año, infunde más y más de Su propia vida en los terrones muertos, y los Rayos Vitales Etéricos se hacen visibles a intervalos. Luego se fueron haciendo más y más numerosos, y ahora comienzan ya a interferirse con nuestras actividades eléctricas, en particular con la telegrafía, cuyos servicios quedan a veces totalmente paralizados por esas corrientes radiantes. 
 
@@ -502,7 +502,7 @@ Las corrientes de los espíritus colectivos de los animales circundan la Tierra.
 
 Con el decurso del tiempo, el Cristo en Su Misión irá atrayendo más y más éter interplanetario a la tierra, haciendo así su cuerpo vital más luminoso y andaremos como en un océano de luz, y una vez que aprendamos a olvidarnos de nuestros egoísmos y egotísmos, merced al constante contacto con esas beneficiosas vibraciones del Cristo, nos iremos volviendo luminosos. Entonces el ojo, tal como ahora está constituido, de nada nos serviría y en razón de lo cual ya está comenzando a cambiar, lo que nos origina las incomodidades y malestares incidentales propios de toda reconstrucción. 
 
-#### Shock explosivo. 
+#### <h4 id="shell-shock">Shock explosivo</h4>
 
 Examinando a cierto número de personas en estado de salud normal, descubrimos que cada uno de los átomos prismáticos que componen los éteres interiores irradiaban líneas de fuerza que hacían girar al átomo físico en el cual se insertaban, dotando así a todo el cuerpo de vida. La irradiación o dirección de todas estas unidades de fuerza es hacia la periferia del cuerpo, donde constituyen lo que se ha dado en llamar "Fluido Ódico," aunque también es designado con otros nombres. Cuando la presión atmosférica exterior disminuye en las grandes altitudes, se hace presente cierta nerviosidad a causa de las fuerzas etéricas que se abalanzan de adentro hacia fuera, sin freno, y si el ser humano no pudiera contener ese flujo hacia fuera de energía solar, al menos parcialmente, por un esfuerzo de la voluntad, nadie podría vivir en esos lugares. 
 
@@ -520,7 +520,7 @@ La observación de estos hechos nos lleva a la conclusión de que la presión at
 
 Cuando un gran proyectil pasa por el aire, crea un vacío detrás debido a su enorme velocidad; y si una persona se encuentra dentro de esa zona de vacío al pasar el proyectil, sufre más o menos, de acuerdo con su naturaleza y su proximidad al centro de succión. Su posición es la inversa de lo que sucede con el que cae, porque en dicho caso la persona está quieta mientras otro cuerpo es el que produce el vacío, permitiendo el escape de los éteres. Si la cantidad de éter desplazada es comparativamente pequeña y solo está compuesta por los éteres tercero y cuarto, que gobiernan la percepción sensorial y la memoria, probablemente sufrirá solo una pérdida de la memoria y se verá en la imposibilidad de sentir las cosas o de moverse. Esta incapacidad desaparecerá tan pronto como los éteres desplazados se reajusten dentro del cuerpo físico, cosa muy difícil cuando el cuerpo denso sucumbe y la reorganización tiene lugar independientemente de dicho vehículo. 
 
-#### Esclerosis o endurecimiento de las arterias. 
+#### <h4 id="sclerosis-or-hardening-of-arteries">Esclerosis o endurecimiento de las arterias</h4>
 
 Nuestros cuerpos se van endureciendo gradualmente desde la niñez hasta la ancianidad, debido a las substancias calcáreas que contienen la mayoría de los alimentos que ingerimos. Estas substancias calcáreas se depositan primariamente en las paredes de las arterias y las venas, originando lo que la medicina llama arteriosclerosis o endurecimiento de las arterias. Las arterias de un niño son extraordinariamente suaves y elásticas, como un tubo de goma; pero mientras va creciendo y atravesando las etapas de la infancia, juventud, madurez y ancianidad, las paredes de dichas arterias se van endureciendo a consecuencia de los depósitos calcáreos que deja la sangre al circular. Así es como, con el tiempo, pueden llegar a ponerse tan duras y rígidas como un caño. Hay una enfermedad que presenta estas características. Las arterias se tornan quebradizas y pueden romperse, ocasionando la hemorragia y la muerte. De ahí que sea dable decir que una persona es tan vieja como sus arterias. Si se pudiera eliminar esa sustancia de las arterias y los capilares, conseguiríamos gradualmente, prolongar la vida y la utilidad de nuestro cuerpo. 
 
@@ -528,7 +528,7 @@ Desde el punto de vista oculto, por supuesto, no tiene mucha importancia que viv
 
 Con este objeto en vista, lo primero que tenemos que hacer es aprender a seleccionar los alimentos que están menos impregnados de substancias obstructivas que causen el endurecimiento de las arterias y capilares. En general, esas substancias son los vegetales y legumbres verdes, y todas las frutas. Luego, es necesario tratar de eliminar las substancias obstructivas que ya hemos absorbido, si es posible, aunque la ciencia todavía no ha encontrado alimento alguno ni medicina que logre ese resultado. Se ha comprobado que los baños eléctricos ejercen una acción sumamente beneficiosa, pero no del todo satisfactoria. El suero de manteca o suero de leche es uno de los mejores agentes para desalojar esa sustancia, siguiendo en segundo lugar el zumo de uva. Si se toma continuamente y en buena cantidad, estas substancias mejorarán de modo considerable la esclerosis arterial. 
 
-### CAPÍTULO VI: HERENCIA Y ENFERMEDAD
+### <h3 id="chapter-6">CAPÍTULO VI: HERENCIA Y ENFERMEDAD</h3>
 
 Desgraciadamente, las gentes achacan sus malas cualidades a la herencia, inculpando a sus padres por ellas, mientras que el mérito de las buenas se lo atribuyen a sí mismas. Pero el hecho mismo de que diferenciemos entre lo que se hereda y lo que es propio de nosotros demuestra que existen dos aspectos en la naturaleza humana: la forma y la vida. 
 
@@ -544,7 +544,7 @@ Por este motivo también los niños no hablan de sí mismos gran cosa como "yo" 
 
 En conclusión, podemos deducir que la sangre y el cuerpo, durante los años de la infancia, se heredan de los padres, por cuyo motivo la tendencia a ciertas enfermedades también va con la sangre; no la enfermedad misma, sino la tendencia. Pero después de los 14 años, cuando el Ego interno ha comenzado a generar sus propios corpúsculos sanguíneos, dependerá grandemente de la persona misma que esas tendencias sigan siendo o no manifiestas en su vida. 
 
-### CAPÍTULO VII: EFECTOS DEL ALCOHOL Y DEL TABACO
+### <h3 id="chapter-7">CAPÍTULO VII: EFECTOS DEL ALCOHOL Y DEL TABACO</h3>
 
 La carne y el alcohol tienen tendencia a volver al ser humano feroz y a desviar su visión espiritual de los mundos superiores, concentrándola en el plano material actual. De ahí que la Biblia nos diga que al principio de la edad del Arco Iris, la Edad en que comenzamos a vivir en una atmósfera limpia y de aire puro, muy diferente de la nebulosa atmósfera de la Atlántida, de la que se habla en el segundo capítulo del Génesis, Noé fabricó por primera vez el vino. El desenvolvimiento material subsiguiente fue la consecuencia de concentrar nuestras energías en el mundo material, lo que resultó de consumir carne y vino. 
 
@@ -560,9 +560,9 @@ En el día de nuestro encuentro físico, después de conversar unos momentos, di
 
 El cerebro, en particular, es el instrumento más grande e importante con el cual realizamos nuestras obras en el Mundo Físico, y resulta evidente que no deberíamos usar intoxicantes o drogas que lo emboten, impidiéndonos realizar el progreso que anhelamos. 
 
-## TERCERA PARTE: CURACIÓN
+<h2 id="part-3">TERCERA PARTE: CURACIÓN</h2>
 
-### CAPÍTULO VIII: ORIGEN Y DESENVOLVIMIENTO DE LA CURACIÓN
+### <h3 id="chapter-8">CAPÍTULO VIII: ORIGEN Y DESENVOLVIMIENTO DE LA CURACIÓN</h3>
 
 Es un dicho corriente que "el ser humano tiene poca vida y muchas vicisitudes." Y entre infinidad de tribulaciones, ninguna nos afecta más profundamente que la pérdida de la salud. Podemos perder fortuna y amigos con relativa resignación; pero cuando nos falla la salud y nos amenaza la muerte, hasta los más fuertes desfallecen; y, comprendiendo la impotencia humana, entonces nos sentimos más dispuestos a dirigirnos a la Divinidad en solicitud de socorro. De ahí que la profesión de consejero espiritual haya estado siempre asociada con la medicina y la curación. 
 
@@ -574,7 +574,7 @@ Además de las escuelas regulares de cirugía y medicina, que dependen exclusiva
 
 La opinión de millares de personas es de gran valor, pero no prueba nada, porque otros tantos millares pueden sostener justamente el punto de vista opuesto. Ocasionalmente, una persona aislada puede tener razón, mientras el resto del mundo está equivocado, como cuando Galileo sostenía que la Tierra se movía. Ahora todo el mundo comulga con la teoría por la cual entonces fue perseguido como hereje. Nosotros sostenemos que como el ser humano es un ser compuesto, la curación tiene éxito en la misma proporción en que ella remedie los defectos de los planos físico, moral o mental del ser. 
 
-#### Curar o sanar. 
+#### <h4 id="curing-vs-healing">Curar o sanar</h4>
 
 La gran mayoría de las gentes no hacen distinción alguna entre curar y sanar, y, por lo tanto, no estaría de más explicar la diferencia, la que consiste principalmente en la cooperación o la falta de ella. Una persona puede curar a otra con masajes, drogas, etc., manteniéndose en estos casos el paciente pasivamente, como la arcilla en manos del alfarero. No hay duda alguna que con tales tratamientos pueden desaparecer las afecciones tratadas y puede el enfermo restablecerse; pero generalmente su restablecimiento no es más que temporal, porque no ha recibido la debida apreciación de las causas reales de su enfermedad y no comprende que ella es la consecuencia de la violación de las leyes de la Naturaleza, siendo, por lo tanto, muy fácil que siga haciendo iguales cosas nuevamente, con el resultado de que la misma u otra dolencia vuelva a aquejarlo. La curación es un proceso físico. Sanar es radicalmente diferente, porque en este caso se exige que el paciente coopere espiritual y físicamente con el sanador. 
 
@@ -588,9 +588,9 @@ Comprendamos en seguida que todo el Universo está impregnado y compenetrado por
 
 El médico o sanador es el foco, el vehículo por cuyo intermedio se infunde el poder en el cuerpo del paciente. Si aquél es un instrumento adecuado, consagrado, armonioso, real y verdaderamente acorde con el Infinito, no hay límite a las obras maravillosas que el Padre puede realizar por su mediación cuando la oportunidad ofrezca un paciente apropiadamente receptivo y sumiso. 
 
-### CAPÍTULO IX: SISTEMA CURATIVO DE LA FRATERNIDAD ROSACRUZ
+### <h3 id="chapter-9">CAPÍTULO IX: SISTEMA CURATIVO DE LA FRATERNIDAD ROSACRUZ</h3>
 
-#### Por qué curan los rosacruces. 
+#### <h4 id="why-rosicrucians-heal">Por qué curan los rosacruces</h4>
 
 Entre la infinidad de tonterías y estupideces que han circulado en los últimos siglos con respecto a los rosacruces, se destaca una gran verdad: "Los miembros de la Orden se dedican a sanar a los enfermos y tienen medios superiores para realizar ese beneficio objetivo." Las órdenes religiosas anteriores habían buscado el progreso espiritual castigando y abusando del cuerpo, pero los rosacruces siempre demostraron el cuidado más atento por ese instrumento. Existen dos razones en que fundar sus actividades curativas. Como todos los demás seguidores verdaderos del Cristo, están esperando ansiosamente "el día del Señor." Saben también que Lucifer, la falsa Luz de Lemuria, infundió la pasión, iniciando así el "pecado original" y causando sufrimientos, el dolor y la muerte. Igualmente saben que el Cristo, la Luz Verdadera de la Nueva Galilea, inició la inmaculada concepción, predicando el evangelio de la redención del pecado por el amor. El celibato es adecuado para los aspirantes del Oriente, porque esas razas inferiores están destinadas a desaparecer relativamente pronto; pero es contrario al esquema de la evolución Occidental, porque de allí debe surgir una nueva raza, y la pureza generadora debe ser la directriz del discípulo en esta parte del mundo. Una nueva raza debe nacer a la existencia por Amor, y de esta manera los males que actualmente afligen a la humanidad a causa de las generaciones concebidas en el pecado original, cesarán. Hasta la muerte misma será vencida durante la Nueva Dispensación, porque la pureza etérica de los cuerpos evitará la necesidad de su renovación. 
 
@@ -604,7 +604,7 @@ Cristo dio dos mandamientos a Sus mensajeros: "Predicad el Evangelio" (de la Nue
 
 Es una razón buena, verdadera y cálida cuando decimos que anhelamos sanar a los demás por amor al Cristo. Él está actualmente encerrado en la Tierra, gimiendo y penando y esperando el día de la Liberación. El dolor y la enfermedad son causados por la violación de las leyes de la Vida, con lo cual se cristaliza el cuerpo denso, dando un más fuerte asidero al cuerpo vital y retardando el día de nuestra liberación, lo mismo que el de Él. Al ayudar a los enfermos a recuperar la salud, enseñándoles a vivir de acuerdo con las leyes de la vida, de manera que puedan mantener la salud, en realidad estamos apresurando el día de Su Venida. ¡Que Dios bendiga nuestro esfuerzo y fortalezca nuestras manos para todas las Buenas Obras! 
 
-#### Auxiliares invisibles. 
+#### <h4 id="the-invisible-helpers">Auxiliares invisibles</h4>
 
 Nuestro sistema de sanar no es completamente una cuestión puramente espiritual. Utilizamos medios físicos cada vez que ello es posible. A veces enviamos a nuestros pacientes a ver al médico, para que obtengan pronto alivio mediante cierto tratamiento que no podríamos proporcionar por otros medios. Además, la dieta de los pacientes merece nuestra mayor atención, porque como el cuerpo está formado por substancias físicas, en realidad le estamos dando medicinas cuando empleamos los alimentos adecuados. Pero, además, el trabajo de sanar lo llevan a cabo los Hermanos Mayores por intermedio de un grupo de auxiliares invisibles a quienes están enseñando. 
 
@@ -620,7 +620,7 @@ Sólo hay una excepción a esta regla. Los niños hasta la edad de la pubertad s
 
 El mayor inconveniente con que tropezamos en nuestra obra curativa procede de la negligencia de los padres. Nuestros requerimientos son muy simples. Sólo les pedimos que nos escriban una vez por semana, con pluma y tinta, de manera que los efluvios que proceden de la mano al escribir puedan proveer a los Auxiliares Invisibles de una llave de admisión al organismo del paciente. Pero, por sencilla que sea esta regla, son muchos los que dejan de cumplirla. Tenemos aquí el caso de una persona que durante muchos años había tenido una vértebra desplazada, que fue curada con nuestro tratamiento, aunque había habido muchos osteópatas, quirópatas y otros que habían tratado en vano de restituirla a su debido lugar. Este pobre hombre se pasaba la vida en su lecho de dolor, totalmente incapacitado de trabajar. El tratamiento de nuestros Auxiliares Invisibles ajustó su vértebra, y el paciente está sano. El hombre pudo volver a su trabajo y la vida le pareció maravillosa. Pero estaba tan entusiasmado con la idea de que ya estaba libre de su dolencia, que descuidó el pedido de escribirnos todas las semanas, de manera que nuestros Auxiliares Invisibles tuvieran oportunidad de mantener la vértebra en su debido lugar un tiempo lo bastante largo como para que quedara definitivamente en su sitio. Más tarde recibimos una carta que demostraba que nosotros teníamos razón al pedirle que escribiera regularmente. En dicha carta nos decía: "Hace algún tiempo os escribí que ya me sentía curado y que dejaría de escribirles semanalmente; pero ahora veo que cometí un gran error. Desde que suspendí las cartas mi espalda me ha estado doliendo casi todo el tiempo y vuelvo a tener los hombros mal, aunque la vértebra misma se encuentra en el lugar en que estaba. Me parece que os estoy pidiendo demasiado al rogaros nuevamente que os ocupéis de mí, pero no me daba cuenta de la influencia de los Auxiliares Invisibles y de cuánto dependía de ellos." 
 
-#### La Panacea Espiritual. 
+#### <h4 id="the-spiritual-panacea">La Panacea Espiritual</h4>
 
 Con la venida de Cristo a la Tierra tenemos una analogía entre ella y la administración de la Panacea Espiritual, de acuerdo con la ley "Como arriba así es abajo." En cada una de las pequeñas células del cuerpo humano existe una vida separada, pero sobre ellas está el Ego que dirige y controla todas las células, de manera que actúen armónicamente. Durante ciertas enfermedades muy prolongadas, el Ego se deja arrastrar en tal forma por el sufrimiento, que deja de vivificar las células, y entonces la enfermedad física provoca una inactividad mental y puede resultar imposible desprenderse de la enfermedad a menos que primeramente se le dé un impulso especial para que se disipe la nebulosidad mental y se estimule la actividad celular de nuevo. Eso es lo que hace la Panacea Espiritual. De la misma manera que la Vida del Cristo en el Gólgota al irrumpir en la Tierra comenzó a disipar la costra de temor creada por la ley inexorable, el cual colgaba como un palio sobre la Tierra; así como esa vida encaminó a millones de seres humanos por la senda de la paz y de la buena voluntad, así también cuando se aplica la Panacea Espiritual, la vida crística concentrada en ella irrumpe a través del paciente e infunde en cada célula la vida y el ritmo que despierta el ego prisionero de su letargo, devolviéndole la vida y la salud. 
 
@@ -628,9 +628,9 @@ Con objeto de describir la Panacea, tendremos que describir una experiencia del 
 
 A este se le mostró en el Templo de los Rosacruces, en cierta noche memorable, una sustancia con la que el Espíritu Universal podía combinarse instantáneamente, de la misma manera que grandes cantidades de amoníaco se combinan con el agua. Había tres esferas suspendidas la una sobre la otra, en el centro del Templo encontrándose la esfera del medio a mitad de la altura entre el suelo y el techo. Era mucho mayor que las otras dos, que se encontraban, respectivamente, por encima y por debajo. Dentro de la esfera central, que era la mayor, había un pequeño recipiente con un número de paquetes que contenían dicha sustancia. Una vez colocados los Hermanos en determinada posición, y cuando la armonía de cierta música había ya preparado el camino, súbitamente los tres globos comenzaron a brillar con los tres colores primarios: azul, amarillo y rojo. Para la visión del autor era evidente que, durante el encantamiento de la fórmula, el recipiente que contenía los mencionados paquetes empezó a brillar con una esencia espiritual que antes no estaba allí. Algunos de esos paquetes fueron utilizados inmediatamente por los Hermanos con un éxito instantáneo. Ante ellos las partículas cristalizantes que envolvían los centros espirituales del paciente se disiparon como por arte de magia y el enfermo se despertó con una sensación de plena salud y bienestar. 
 
-### CAPÍTULO X: CIENCIA DE LA NUTRICIÓN
+### <h3 id="chapter-10">CAPÍTULO X: CIENCIA DE LA NUTRICIÓN</h3>
 
-#### Principios generales. 
+#### <h4 id="general-principles">Principios generales</h4>
 
 Si comenzamos con el vehículo denso y consideramos los medios físicos de que podemos echar mano para mejorarlo y convertirlo en el mejor instrumento posible para el espíritu, y luego consideramos los medios espirituales con conduzcan al mismo fin, estaremos incluyendo todos los demás vehículos, por cuyo motivo seguiremos ese método. 
 
