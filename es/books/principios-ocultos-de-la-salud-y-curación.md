@@ -1,40 +1,111 @@
-# PRINCIPIOS OCULTOS DE LA SALUD Y CURACIÓN
+---
+title: 'Principios Ocultos de la Salud y Curación'
+language: 'en'
+original_title: "Occult Principles of Health and Healing"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'occult-principles-of-health-and-healing.md'
+---
 
-por
+<h1 id="occult-principles-of-health-and-healing">Principios Ocultos de la Salud y Curación</h1>
 
-Max Heindel
-[1865-1919]
-
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
-
-Título Original:
-
-"OCCULT PRINCIPLES OF HEALTH AND HEALING"
+por Max Heindel [1865-1919]
 
 THE ROSICRUCIAN FELLOWSHIP
 P.O. Box 713
 Oceanside, CA. 92049-0713 USA
 
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-### PREFACIO
+### <h3 id="foreword">Prefacio</h3>
 
 Esta compilación de material concerniente a la salud y la curación del organismo humano, considerado desde el punto de vista ocultista, proporciona, a los interesados en obtener y mantener la salud, un tesoro de valiosa información. Max Heindel, experto clarividente e investigador de los mundos súper físicos, dedico mucho tiempo y esfuerzos para indagar las causas reales de los desarreglos físicos y mentales, como se revelan en la región de la causa, los planos superiores o súper físicos, y este volumen contiene los frutos de su labor. Incluye algunas verdades inapreciables con relación al origen, las funciones y el cuidado adecuado de los medios conductores o medios de obtención y conservación de la salud, verdades que por primera vez ven la luz en paginas impresas, y los interesados en el verdadero arte de curar encontraran aquí un aditamento indispensable para su biblioteca. 
 
-Cristo exhortó a sus discípulos: "Predicad el Evangelio y curad a los enfermos," pues el mantener la salud, una vez adquirida o recuperada, requiere el conocimiento del Evangelio, o sea las leyes de Dios, y par eso, a la Luz de ambas consignas del mandato del Gran Constructor, se dedica este libro a todos los hermanos, y especialmente a los afligidos. Ojala el contenido de estas paginas - impregnadas como están por el amor y la compasiva comprensión del místico corazón de su autor - sirva de nuevo consuelo y alivio a los innume- rables corazones acongojados y cuerpos dolientes, y acelere la llegada de medios conductores y humanos más perfectos. 
+Cristo exhortó a sus discípulos: "Predicad el Evangelio y curad a los enfermos," pues el mantener la salud, una vez adquirida o recuperada, requiere el conocimiento del Evangelio, o sea las leyes de Dios, y par eso, a la Luz de ambas consignas del mandato del Gran Constructor, se dedica este libro a todos los hermanos, y especialmente a los afligidos. Ojala el contenido de estas paginas - impregnadas como están por el amor y la compasiva comprensión del místico corazón de su autor - sirva de nuevo consuelo y alivio a los innumerables corazones acongojados y cuerpos dolientes, y acelere la llegada de medios conductores y humanos más perfectos. 
+
+### <h3 id="contents">ÍNDICE</h3>
+
+- [Prefacio](#foreword)
+- [Primera Parte: EL HOMBRE Y SUS VEHÍCULOS](#part-1)
+    - [Capítulo I: El Cuerpo Denso o Físico](#chapter-1)
+        - [Introducción](#chapter-1-introduction)
+        - [Evolución](#evolution)
+        - [El Cerebro y el Sistema Nervioso](#the-brain-and-nervous-system)
+        - [La Sangre](#the-blood)
+        - [Las Glándulas Endógenas](#the-ductless-glands)
+        - [El Sistema Linfático](#the-lymphatic-system)
+    - [Capítulo II: El Cuerpo Vital](#chapter-2)
+        - [Evolución y Propósito General](#evolution-and-general-purpose)
+        - [Los Éteres y sus funciones](#the-ethers-and-their-functions)
+    - [Capítulo III: El Cuerpo de Deseos y la Mente](#chapter-3)
+        - [El Cuerpo de Deseos](#the-desire-body)
+        - [La Mente](#the-mind)
+- [Segunda Parte: ENFERMEDAD](#part-2)
+    - [Capítulo IV: Causas generales de las Enfermedades](#chapter-4)
+        - [Introducción](#chapter-4-introduction)
+        - [Causas de los desórdenes mentales](#causes-of-mental-disabilities)
+        - [Causas de las afecciones físicas](#causes-of-physical-disabilities)
+    - [Capítulo V: Causas Especificas de la Enfermedad](#chapter-5)
+        - [Insania](#insanity)
+        - [Mediumnidad](#mediumship)
+        - [Obsesión](#obsession)
+        - [Histeria, Epilepsia, Tuberculosis y Cáncer](#histerio-epilepsy-tuberculosis-and-cancer)
+        - [Defectos visuales](#impairment-of-vision)
+        - [Shock explosivo](#shell-shock)
+        - [Esclerosis o endurecimiento de las arterias](#sclerosis-or-hardening-of-the-arteries)
+    - [Capítulo VI: Herencia y Enfermedad](#chapter-6)
+    - [Capítulo VII: Efectos del Alcohol y del Tabaco](#chapter-7)
+- [Tercera Parte: CURACIÓN](#part-3)
+    - [Capítulo VIII: Origen y Desenvolvimiento de la Curación](#chapter-8)
+        - [Curar o sanar](#curing-vs-healing)
+    - [Capítulo IX: Sistema Curativo de la Fraternidad Rosacruz](#chapter-9)
+        - [Por qué curan los Rosacruces](#why-rosicrucians-heal)
+        - [Auxiliares invisibles](#the-invisible-helpers)
+        - [La Panacea Espiritual](#the-spiritual-panacea)
+    - [Capítulo X: Ciencia de la Nutrición](#chapter-10)
+        - [Principios generales](#general-principles)
+        - [Razones determinantes de la dieta vegetariana](#reasons-for-a-vegetarian-diet)
+        - [Necesidad de una dieta equilibrada y atrayente](#necessity-for-an-attractive-balanced-diet)
+        - [El papel de los Estimulantes en la evolución](#the-role-of-stimulants-in-evolution)
+        - [El ayuno como medio de curación y de crecimiento anímico](#fasting-as-a-means-of-healing-and-a-factor-in-soul-growth)
+        - [El valor salutífero de los alimentos indigeribles](#health-value-of-indigestible-foods)
+        - [Resultados de las comidas demasiado frecuentes](#results-of-eating-too-frequently)
+   - [Capítulo XI: La Astrologia como Auxiliar en el Arte de Sanar](#chapter-11)
+        - [La base astrológica de la curación](#)
+        - [Leyes de compatibilidad y de receptividad orgánica](#)
+        - [Influencia de la Luna en la curación](#influence-of-the-moon-in-healing)
+        - [Polaridades planetarias](#planetary-polarities)
+    - [Capítulo XII: Bases Terapéuticas de la Luz, del Color y del Sonido](#chapter-12)
+        - [Dios es luz](#)
+    - [Capítulo XIII: Sueño y Salud](#)
+        - [El valor del sueño](#the-value-of-sleep)
+        - [Cómo tratar las enfermedades durante el sueño](#how-to-treat-disease-during-sleep)
+        - [Efectos del sueño hipnótico](#the-effect-of-hypnotic-sleep)
+        - [Influencias protectoras](#protective-influence)
+    - [Capítulo XIV: La Mente y la Curación](#chapter-14)
+        - [La verdadera causa del contagio](#the-true-cause-of-contagion)
+        - [Poder del pensamiento](#power-of-thought)
+    - [Capítulo XV: Peligros de los Baños Excesivos](#chapter-15)
+    - [Capítulo XVI: Transfusiones de Sangre](#chapter-16)
+    - [Capítulo XVII: Efectos de la Extracción de Órganos Físicos](#chapter-17)
+        - [Extracción de las amígdalas](#removal-of-tonsils)
+    - [Capítulo XVIII: Los Procedimientos Curativos que deben usarse](#chapter-18)
+        - [Introducción](#chapter-18-introduction)
+        - [Medicinas](#taking-medicine)
+        - [Imposición de manos](#laying-on-of-hands)
+        - [Vacunación y antitoxinas](#vaccination-and-antitoxin)
+    - [Capítulo XIX: Alcance y limitaciones de la Curación](#chapter-19)
+        - [La ley del destino](#the-law-of-destiny)
+        - [Relación de la espiritualidad con la salud](#relation-of-spirituality-to-health)
+        - [La nerviosidad mejora con los ejercicios](#nervousness-helped-by-exercise)
+    - [Capítulo XX: Dirección de Centros Curativos](#chapter-20)
+        - [Sugerencias generales](#general-suggestions)
+        - [Consejos a los médicos](#advice-to-healers)
+        - [Inauguración de los servicios curativos](#healing-service-inaugurated)
+- [Cuarta Parte: LA MUERTE NO EXISTE](#part-4)
+    - [Capítulo XXI: La Naturaleza Real de la Muerte](#chapter-21)
+    - [Capítulo XXII: Efectos del Suicidio](#chapter-22)
+    - [Capítulo XXIII: Causas de la Mortalidad Infantil](#chapter-23)
+    - [Capítulo XXIV: Cuidados debidos a los Muertos](#chapter-24)
+    - [Capítulo XXV: Como ayudar a los que han Muerto](#chapter-25)
 
 ## PRIMERA PARTE: EL HOMBRE Y SUS VEHÍCULOS
 
@@ -1340,91 +1411,3 @@ frente afiebrada la caricia de su mano o un hálito balsámico. Nuestro espírit
 los ve y nuestros corazones se consuelan y tranquilizan. Sí, siempre cerca de
 nosotros, aunque invisibles, están nuestros espíritus queridos e inmortales. Porque
 en todo el ilimitado Universo de Dios hay Vida, y la muerte no exisle.
-
-ÍNDICE
-Prefacio  
-Primera Parte: EL HOMBRE Y SUS VEHÍCULOS
-Capítulo I: El Cuerpo Denso o Físico  
-Introducción  
-Evolución  
-El Cerebro y el Sistema Nervioso  
-La Sangre  
-Las Glándulas Endógenas  
-El Sistema Linfático   
-Capítulo II: El Cuerpo Vital   
-Evolución y Propósito General    
-Los Éteres y sus funciones  
-Capítulo III: El Cuerpo de Deseos y la Mente   
-El Cuerpo de Deseos   
-La Mente   
-Segunda Parte: ENFERMEDAD
-Capítulo IV: Causas generales de las Enfermedades   
-Introducción   
-Causas de los desórdenes mentales  
-Causas de las afecciones físicas  
-Capítulo V: Causas Especificas de la Enfermedad  
-Insania  
-Mediumnidad  
-Obsesión  
-Histeria, Epilepsia, Tuberculosis y Cáncer  
-Defectos visuales  
-Shock explosivo  
-Esclerosis o endurecimiento de las arterias  
-Capítulo VI: Herencia y Enfermedad  
-Capítulo VII 
-Efectos del Alcohol y del Tabaco  
-Tercera Parte: CURACIÓN
-Capítulo VIII: Origen y Desenvolvimiento de la Curación  
-Curar o sanar  
-Capítulo IX: Sistema Curativo de la Fraternidad Rosacruz  
-Por qué curan los Rosacruces  
-Auxiliares invisibles  
-La Panacea Espiritual  
-Capítulo X: Ciencia de la Nutrición  
-Principios generales  
-Razones determinantes de la dieta vegetariana  
-Necesidad de una dieta equilibrada y atrayente  
-El papel de los Estimulantes en la evolución  
-El ayuno como medio de curación y de crecimiento anímico  
-El valor salutífero de los alimentos indigeribles  
-Resultados de las comidas demasiado frecuentes  
-Capítulo XI: La Astrologia como Auxiliar en el Arte de Sanar  
-La base astrológica de la curación  
-Leyes de compatibilidad y de receptividad orgánica  
-Influencia de la Luna en la curación  
-Polaridades planetarias  
-Capítulo XII: Bases Terapéuticas de la Luz, del Color y del Sonido  
-Dios es luz  
-Capítulo XIII: Sueño y Salud  
-El valor del sueño  
-Cómo tratar las enfermedades durante el sueño  
-Efectos del sueño hipnótico  
-Influencias protectoras  
-Capítulo XIV: La Mente y la Curación  
-La verdadera causa del contagio  
-Poder del pensamiento  
-Capítulo XV: Peligros de los Baños Excesivos  
-Capítulo XVI: Transfusiones de Sangre  
-Capítulo XVII: Efectos de la Extracción de Órganos Físicos   
-Extracción de las amígdalas  
-Capítulo XVIII: Los Procedimientos Curativos que deben usarse  
-Introducción  
-Medicinas  
-Imposición de manos  
-Vacunación y antitoxinas  
-Capítulo XIX: Alcance y limitaciones de la Curación  
-La ley del destino  
-Relación de la espiritualidad con la salud  
-La nerviosidad mejora con los ejercicios  
-Capítulo XX: Dirección de Centros Curativos   
-Sugerencias generales  
-Consejos a los médicos  
-Inauguración de los servicios curativos   
-Cuarta Parte: LA MUERTE NO EXISTE
-Capítulo XXI: La Naturaleza Real de la Muerte  
-Capítulo XXII: Efectos del Suicidio  
-Capítulo XXIII: Causas de la Mortalidad Infantil  
-Capítulo XXIV: Cuidados debidos a los Muertos  
-Capítulo XXV: Como ayudar a los que han Muerto  
-
-Fin
