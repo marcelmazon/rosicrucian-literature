@@ -1,6 +1,6 @@
 ---
 title: 'Principios Ocultos de la Salud y Curación'
-language: 'en'
+language: 'es'
 original_title: "Occult Principles of Health and Healing"
 original_language: 'en'
 author: 'Max Heindel'
@@ -38,6 +38,7 @@ Cristo exhortó a sus discípulos: "Predicad el Evangelio y curad a los enfermos
     - [Capítulo III: El Cuerpo de Deseos y la Mente](#chapter-3)
         - [El Cuerpo de Deseos](#the-desire-body)
         - [La Mente](#the-mind)
+
 - [Segunda Parte: ENFERMEDAD](#part-2)
     - [Capítulo IV: Causas generales de las Enfermedades](#chapter-4)
         - [Introducción](#chapter-4-introduction)
@@ -53,6 +54,7 @@ Cristo exhortó a sus discípulos: "Predicad el Evangelio y curad a los enfermos
         - [Esclerosis o endurecimiento de las arterias](#sclerosis-or-hardening-of-the-arteries)
     - [Capítulo VI: Herencia y Enfermedad](#chapter-6)
     - [Capítulo VII: Efectos del Alcohol y del Tabaco](#chapter-7)
+
 - [Tercera Parte: CURACIÓN](#part-3)
     - [Capítulo VIII: Origen y Desenvolvimiento de la Curación](#chapter-8)
         - [Curar o sanar](#curing-vs-healing)
@@ -100,6 +102,7 @@ Cristo exhortó a sus discípulos: "Predicad el Evangelio y curad a los enfermos
         - [Sugerencias generales](#general-suggestions)
         - [Consejos a los médicos](#advice-to-healers)
         - [Inauguración de los servicios curativos](#healing-service-inaugurated)
+        
 - [Cuarta Parte: LA MUERTE NO EXISTE](#part-4)
     - [Capítulo XXI: La Naturaleza Real de la Muerte](#chapter-21)
     - [Capítulo XXII: Efectos del Suicidio](#chapter-22)
