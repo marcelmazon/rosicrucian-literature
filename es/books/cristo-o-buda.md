@@ -1,12 +1,21 @@
-# ¿CRISTO O BUDA?
+---
+title: "¿Cristo o Buda?"
+language: 'en'
+original_title: "Christ or Buddha?"
+original_language: 'en'
+author: 'Annet C. Rich'
+original_source_file: 'self'
+---
+
+<h1 id="christ-or-buddha-h1">¿CRISTO O BUDA?</h1>
 
 por Annet C. Rich
 
 Con Prólogo de MAX HEINDEL
 
-### PRÓLOGO
+### <h3 id="foreword">PRÓLOGO</h3>
 
-EL SIGUIENTE tratado fue escrito por la autora a solicitud mía con el propósito mencionado en los primeros dos párrafos, y estando bien capacitado por años de estudio tanto de los sistemas religiosos Orientales como de los Occidentales para llevar a cabo tal comisión, ella ha dado, en mi opinión, un punto de vista muy comprensivo del tema. Ella ha adoptado una actitud muy simpática hacia la enseñanza oriental como corresponde a un alma iluminada. Así es que el espíritu de este pequeño libro no es de ninguna manera polemístico, porque nosotros no creemos en tratar de edificar nuestra propia religión arrojando calumnias sobre la de otras gentes. Estamos tan seguros de que la religión de Oriente está perfectamente adaptada a las gentes que viven allá, como de que la religión Cristiana es la religión para la gente occidental. Si el Buda estuviese enseñando hoy día y un estudiante del Oeste lo preguntase su opinión acerca de si le seguía a él o al Cristo, estoy seguro de que él enviaría al preguntante a la Luz del Mundo. Este pequeño libro se envía, por lo tanto, con la esperanza de que pueda demostrar a los estudiantes occidentales que su religión es la Religión Cristiana, y que deben dejar la religión oriental a los orientales, abrazando al mismo tiempo con todo su corazón y con toda su alma la religión del Cristo. 
+EL SIGUIENTE tratado fue escrito por la autora a solicitud mía con el propósito mencionado en los primeros dos párrafos, y estando bien capacitada por años de estudio tanto de los sistemas religiosos Orientales como de los Occidentales para llevar a cabo tal comisión, ella ha dado, en mi opinión, un punto de vista muy comprensivo del tema. Ella ha adoptado una actitud muy simpática hacia la enseñanza oriental como corresponde a un alma iluminada. Así es que el espíritu de este pequeño libro no es de ninguna manera polemístico, porque nosotros no creemos en tratar de edificar nuestra propia religión arrojando calumnias sobre la de otras gentes. Estamos tan seguros de que la religión de Oriente está perfectamente adaptada a las gentes que viven allá, como de que la religión Cristiana es la religión para la gente occidental. Si el Buda estuviese enseñando hoy día y un estudiante del Oeste lo preguntase su opinión acerca de si le seguía a él o al Cristo, estoy seguro de que él enviaría al preguntante a la Luz del Mundo. Este pequeño libro se envía, por lo tanto, con la esperanza de que pueda demostrar a los estudiantes occidentales que su religión es la Religión Cristiana, y que deben dejar la religión oriental a los orientales, abrazando al mismo tiempo con todo su corazón y con toda su alma la religión del Cristo. 
 
 \- Max Heindel
 
@@ -16,21 +25,21 @@ EL SIGUIENTE tratado fue escrito por la autora a solicitud mía con el propósit
 - [Mirada retrospectiva a la Historia](#a-historical-retrospect)
 - [Christian Rosenkreutz](#christian-rosenkreuz)
 - [Involución, Evolución y Epigénesis](#involution-evolution-and-epigenesis)
-    Trance
-    Sueño sin Ensueños
-    Ensueños
-    Estado de Vigilia
-El Misterio de la Sangre
-El Misterio del Sexo
-El Misterio de la Mortalidad Infantil
-El Misterio de la Muerte
-El Cristo de Occidente no es el Cristo de Oriente
-El Cristo de Occidente
-Conclusión
+    - [Trance](#trance)
+    - [Sueño sin Ensueños](#dreamless-sleep)
+    - [Ensueños](#dreams)
+    - [Estado de Vigilia](#the-waking-state)
+- [El Misterio de la Sangre](#the-mystery-of-blood)
+- [El Misterio del Sexo](#the-mystery-of-sex)
+- [El Misterio de la Mortalidad Infantil](#the-mystery-of-infant-mortality)
+- [El Misterio de la Muerte](#the-mystery-of-death)
+- [El Cristo de Occidente no es el Cristo de Oriente](#the-christ-of-the-west-is-not-the-christ-of-the-east)
+- [El Cristo de Occidente](#the-christ-of-the-west)
+- [Conclusión](#conclusion)
 
-## CRISTO O BUDA?
+<h2 id="christ-or-buddha-h2">CRISTO O BUDA?</h2>
 
-### INTRODUCCIÓN
+### <h3 id="introduction">INTRODUCCIÓN</h3>
 
 CUANDO la Enseñanza Oculta Oriental presentada al Mundo Occidental hace alrededor de cuarenta años, sus explicaciones del universo fueron aceptadas como razonables por muchos estudiantes. El Concepto Rosacruz del Cosmos, publicado en 1909, era parecido en ciertos respectos concernientes a las leyes que gobiernan el universo. Surge entonces, naturalmente, la pregunta respecto a su alcance y propósitos, por qué fue dado, y si sus enseñanzas y métodos de desarrollo están mejor adaptados a una civilización moderna y avanzada. 
 
@@ -38,21 +47,21 @@ Este tratado se escribe en respuesta a esta interrogación y para corregir la er
 
 El octavo capítulo de Hebreos habla de un tiempo futuro, en el que no será necesario enseñar a los hombres a conocer a Dios, porque entonces todos, desde el menor hasta el mayor, tendrán Sus leyes escritas en sus corazones y en sus mentes, y todos Le conocerán. En la actualidad la percepción espiritual está oscurecida en grados variables por el velo de la carne y de la sangre, los cuales "no pueden heredar el Reino de Dios." Ahora caminamos a tientas en busca de la verdad que nos hará libres de los grilletes de la carne y nos dotará con la facultades espirituales necesarias para conocer a Dios. La promesa de. Cristo es que si buscamos, encontraremos. El no hizo excepciones; no necesitamos temer que nadie "se pierda." Sin embargo, puede ser ahorrado mucho esfuerzo investigando en la dirección correcta, y por lo tanto nos sentimos impelidos a colocar ante los estudiantes occidentales algunas de las diferencias existentes entre las enseñanzas de Oriente y las de Occidente, con especial énfasis sobre el método occidental de desarrollo del alma, método que está adaptado naturalmente a los pueblos occidentales y que toma en consideración las diferencias raciales y mentales entre las civilizaciones (o pueblos) occidental y oriental. 
 
-  (1) Creemos que todas las religiones han sido divinamente dadas, y que cada una está perfectamente adaptada a la nación que fue dada, habiendo sido fundada por uno de los mensajeros de Dios. 
+(1) Creemos que todas las religiones han sido divinamente dadas, y que cada una está perfectamente adaptada a la nación que fue dada, habiendo sido fundada por uno de los mensajeros de Dios. 
 
-  (2) Sabemos que el sendero de la civilización ha sido de Oriente a Occidente, y que los pueblos más avanzados viven ahora en Occidente. 
+(2) Sabemos que el sendero de la civilización ha sido de Oriente a Occidente, y que los pueblos más avanzados viven ahora en Occidente. 
 
-  (3) Pensamos que es una razonable suposición que la religión más avanzada haya sido dada a los pueblos más avanzados, y que por lo tanto nuestra religión Cristiana es al presente la más sublime forma de adoración. 
+(3) Pensamos que es una razonable suposición que la religión más avanzada haya sido dada a los pueblos más avanzados, y que por lo tanto nuestra religión Cristiana es al presente la más sublime forma de adoración. 
 
-  (4) Sabemos que cada una de las más antiguas religiones tuvo Escuelas de Misterios para las almas avanzadas; también que Cristo dio a sus escogidos discípulos el conocimiento relativo a "los misterios del Reino de los Cielos," pero al público le habló en parábolas. 
+(4) Sabemos que cada una de las más antiguas religiones tuvo Escuelas de Misterios para las almas avanzadas; también que Cristo dio a sus escogidos discípulos el conocimiento relativo a "los misterios del Reino de los Cielos," pero al público le habló en parábolas. 
 
-  (5) En la Enseñanza Oriental la Fraternidad Universal es considerada el gran ideal. En la Enseñanza Occidental de Misterios Cristianos la Amistad Universal es el ideal. El Cristianismo llegará a ser una religión universal, y no solamente una religión de raza, y sus enseñanzas esotéricas están destinadas también a llegar a ser universal. De acuerdo con la enseñanza occidental Cristo será el líder de la próxima Gran Época, y vendrá otra vez, no en un cuerpo físico sino en un "cuerpo-alma" (Soma psuchicon), como lo enseñó Pablo en 1 Cor. 15:45. Este vehículo está formado de éter, y cuando el hombre haya desarrollado la consciencia etérica de modo de poder encontrar a Cristo "cara a cara," El aparecerá. 
+(5) En la Enseñanza Oriental la Fraternidad Universal es considerada el gran ideal. En la Enseñanza Occidental de Misterios Cristianos la Amistad Universal es el ideal. El Cristianismo llegará a ser una religión universal, y no solamente una religión de raza, y sus enseñanzas esotéricas están destinadas también a llegar a ser universal. De acuerdo con la enseñanza occidental Cristo será el líder de la próxima Gran Época, y vendrá otra vez, no en un cuerpo físico sino en un "cuerpo-alma" (Soma psuchicon), como lo enseñó Pablo en 1 Cor. 15:45. Este vehículo está formado de éter, y cuando el hombre haya desarrollado la consciencia etérica de modo de poder encontrar a Cristo "cara a cara," El aparecerá. 
 
-  (6) Si la religión Cristiana es la más avanzada, sus enseñanzas internas deben ser necesariamente más profundas y de mucho más alcance que ninguna otra. La Enseñanza de la Sabiduría Occidental incluye métodos para desarrollar el cuerpo alma de modo que podamos funcionar conscientemente en los mundos invisibles estando todavía viviendo en el cuerpo denso. Estos métodos están particularmente adaptados a las necesidades de los occidentales; de aquí que produzcan resultados sin los peligros inherentes al uso de los métodos orientales. 
+(6) Si la religión Cristiana es la más avanzada, sus enseñanzas internas deben ser necesariamente más profundas y de mucho más alcance que ninguna otra. La Enseñanza de la Sabiduría Occidental incluye métodos para desarrollar el cuerpo alma de modo que podamos funcionar conscientemente en los mundos invisibles estando todavía viviendo en el cuerpo denso. Estos métodos están particularmente adaptados a las necesidades de los occidentales; de aquí que produzcan resultados sin los peligros inherentes al uso de los métodos orientales. 
 
 Podemos agregar que después de muchos años de estudio de las religiones antiguas hablamos sin prejuicios, y con gratitud por la luz recibida a través de ellas. Así es que nos sentimos libres de proclamar nuestra convicción de que la religión Cristiana es más elevada que cualquiera de sus predecesoras; que las Enseñanzas de los Misterios Cristianos, ahora promulgadas por la Orden de los Rosacruces a través de la Fraternidad Cruz, son tanto científicas como especialmente adaptadas a nuestra avanzada civilización; y que repudiar la Religión Cristiana por cualquiera de los sistemas más antiguos es análogo a preferir los más antiguos libros de texto científicos a las nuevas ediciones que abarcan los últimos descubrimientos. 
 
-### MIRADA RETROSPECTIVA A LA HISTORIA
+### <h3 id="a-historical-retrospect">MIRADA RETROSPECTIVA A LA HISTORIA</h3>
 
 Ya no necesitamos que se nos recuerde que estamos viviendo en tiempos fecundos en innovaciones. En cada departamento de nuestra civilización ha surgido el invasor espíritu intrépido de la indagación, del análisis y de la investigación. Ni tampoco podemos dejar de observar que estamos viviendo en una era en que el intelecto está alcanzando su más práctica o intensa expresión; que se está arrasando con real y auto-suficiente confianza el derecho a desafiar cualquier código de ética, cualquier religión o teoría de la vida, cualesquiera linderos de civilización, y cualquier hipótesis científica, y a exigir pruebas de su derecho a existir. Nada en el universo es demasiado colosal para su investigación, ni demasiado infinitesimal para su análisis. La sociedad ha cesado de temblar ante los revolucionarios ataques de los descubrimientos científicos que durante muchos años han hecho retroceder a la ignorancia, al prejuicio y al dogmatismo con fuerza irresistible. Estos han tenido su día, y ahora son impotentes para retardar el progreso; la humanidad está avanzando, quiérase o no. 
 
@@ -66,7 +75,7 @@ No es usual que asociemos la idea del desarrollo material con el Oriente, y sin 
 
 Siglos más tarde vino el Buda para renunciar las antiguas verdades que yacen escondidas bajo las ruinas del egoísmo y de la casta, y sintiendo el sufrimiento y el pecado del mundo enraizados en el deseo incumplido, su compasivo corazón trató de aliviar el dolor a través de la doctrina de subyugar todo deseo y alcanzar así la paz, doctrina que cayó como una bendición sobre las acongojadas vidas de sus contemporáneos y la cual vive todavía en los corazones de sus seguidores. 
 
-Con la muerte del gran maestro oriental la gloria del Oriente comenzó a disminuir. De nuevo la ola espiritual se alejó para aparecer entre los griegos. Desde los griegos no, se ha alcanzado un más alto tipo de intelecto puro que el de ellos. su arte, su filosofía. Hablan siempre en el lenguaje del reposo, de la dignidad, del dominio de sí mismo. Para ellos la Verdad y la Belleza eran las perlas de gran precio. Ellos inscribieron sobre sus templos las palabras "conócete a tí mismo," porque conocerse uno mismo es conocer la verdad. Ya fuera que se manifestase a través del poder consciente de su dios Apolo, surgiendo de su templo para defender en persona el sagrado santuario que se reflejase en las espléndidas proezas de Pericles o en la elevada filosofía de Pitágoras, Sócrates o Platón, siempre nos ponemos en contacto con los griegos con la presencia del poder intelectual en búsqueda de la verdad. Pero cuando se embriagaron con el orgullo intelectual y la autosuficiencia, Grecia cayó ante el militarismo organizado de Roma. 
+Con la muerte del gran maestro oriental la gloria del Oriente comenzó a disminuir. De nuevo la ola espiritual se alejó para aparecer entre los griegos. Desde los griegos no, se ha alcanzado un más alto tipo de intelecto puro que el de ellos; su arte, su filosofía. Hablan siempre en el lenguaje del reposo, de la dignidad, del dominio de sí mismo. Para ellos la Verdad y la Belleza eran las perlas de gran precio. Ellos inscribieron sobre sus templos las palabras "conócete a tí mismo," porque conocerse uno mismo es conocer la verdad. Ya fuera que se manifestase a través del poder consciente de su dios Apolo, surgiendo de su templo para defender en persona el sagrado santuario que se reflejase en las espléndidas proezas de Pericles o en la elevada filosofía de Pitágoras, Sócrates o Platón, siempre nos ponemos en contacto con los griegos con la presencia del poder intelectual en búsqueda de la verdad. Pero cuando se embriagaron con el orgullo intelectual y la autosuficiencia, Grecia cayó ante el militarismo organizado de Roma. 
 
 Desde su cumbre de supremacía militar, Roma contemplaba complacida el mundo que había conquistado. Nunca pensó que caería derribada ante la mera fuerza espiritual, dejando una herencia de ley, orden y justicia a una generación posterior. 
 
@@ -74,17 +83,15 @@ Echar una ojeada a la miseria y a la degradación del mundo a los pies de Roma, 
 
 A este fango de un imperio decadente, a este fastidio de un mundo desesperado, en medio de un pueblo perdido y despreciado, descendió el Espíritu del Sol, Cristo, haciendo patente "la más grande de las medidas divinas tomadas hasta el momento para elevar a la humanidad." Cristo no vino solamente a rescatar la verdad del olvido, a devolvernos las antiguas enseñanzas, o a restablecer la ley, sino a agregarles el más grande de todos los principios: el Amor; a revelar a la humanidad la doctrina del corazón; y como podemos alcanzar una sabiduría más sublime por el sendero del amor que por el de la razón. Vino para reemplazar las religiones de raza, que fueron instituidas por y bajo la regencia de Jehová, con una Religión Cósmica, promotora de la Amistad Universal así como de la Fraternidad Universal; una religión en la cual el reinado de la ley debía ser reemplazado por el reinado del Amor; y en la que el espíritu de antagonismo y separatividad que está en la raíz de todas las religiones de raza, será transmutado en servicio inegoísta, uno para todos y todos para uno, de modo que las naciones puedan trocar sus espadas en rejas de arado y el Reinado de la Amistad y de la Paz comience. 
 
-En todas las religiones anteriores hubo enseñanzas más profundas que las que fueron dadas a las masas. Los sacerdotes eran custodios de este conocimiento interno, y la Iniciación estuvo abierta únicamente a unos pocos. La humanidad, como un todo, no estaba suficientemente avanzada como para recibirlo. Aquellos que fueron iniciados en los antiguos Misterios necesitaron la mediación de los sacerdotes, y solo el Sumo Sacerdote podía entrar en el Templo de Dios más recóndito. Cuando Cristo, engendrado del Padre, vino, trajo directamente a la humanidad la luz y el poder del Sol espiritual. Hizo descender sobre la vida humana el Rayo Cósmico de Sí Mismo. El es el mediador entre Dios y el hombre, el Camino, la Verdad y la Vida, llenando en Sí Mismo el oficio de Sumo Sacerdote según la orden de Melquisedec, siendo El 
-
-Mismo el Iniciador; y ahora "el que quiera, tome del agua de la vida de balde." 
+En todas las religiones anteriores hubo enseñanzas más profundas que las que fueron dadas a las masas. Los sacerdotes eran custodios de este conocimiento interno, y la Iniciación estuvo abierta únicamente a unos pocos. La humanidad, como un todo, no estaba suficientemente avanzada como para recibirlo. Aquellos que fueron iniciados en los antiguos Misterios necesitaron la mediación de los sacerdotes, y solo el Sumo Sacerdote podía entrar en el Templo de Dios más recóndito. Cuando Cristo, engendrado del Padre, vino, trajo directamente a la humanidad la luz y el poder del Sol espiritual. Hizo descender sobre la vida humana el Rayo Cósmico de Sí Mismo. El es el mediador entre Dios y el hombre, el Camino, la Verdad y la Vida, llenando en Sí Mismo el oficio de Sumo Sacerdote según la orden de Melquisedec, siendo Él Mismo el Iniciador; y ahora "el que quiera, tome del agua de la vida de balde." 
 
 Parece paradójico considerar el crecimiento material y la supremacía de la civilización moderna como resultado real de un impulso enviado por el dulce Nazareno sin embargo el nacimiento de la Religión Cristiana dio un estímulo directo y especial a la acción individual, porque rompió las barreras de casta y de raza y reveló el hecho de que todos los hombres son iguales ante Dios. Que todos somos hermanos es un hecho de la naturaleza, pero bajo el régimen do Jehová algunos fueron preferidos a otros; por consiguiente Cristo vino a nivelar las diferencias. Galilea misma era un suelo nativo más adecuado para un nuevo orden de cosas que lo que a primera vista parezca. Obscura como es hoy, hace dos mil años Galilea era la Meca de los viajeros que allí se congregaban desde todas las partes conocidas del mundo. Tan cosmopolita fue como Roma misma, una especie de "crisol" que proporcionaba las condiciones congeniales para el nacimiento de un cuerpo y cerebro diferentes del tipo ordinario, y un ambiente donde la adaptabilidad a los nuevos impulsos pudiese encontrar más espacio y desde donde nuevos conceptos pudiesen s4r enviados al mundo. 
 
-En la religión Cristiana las antiguas ideas de esclavo y señor, judío y gentil, sacerdote y pueblo, brahmín y paria, fueron sustituidas por los ideales de igualdad, independencia y libertad individual. Aún los más humildes comenzaron a levantar sus cabezas como hombres libres y a conseguir la acción individual y el desarrollo individual; y con este nuevo sentido de libertad en sus corazones no es de maravillarse que comenzasen a apagar su antigua sed de autoexpresión en las, aguas de la prosperidad material que nunca antes habían fluido tan abundantemente a sus pies. Nuestra civilización moderna es un resultado de este ímpetu dado al desarrollo individual tanto en pensamiento come en acción. 
+En la nueva religión Cristiana las antiguas ideas de esclavo y señor, judío y gentil, sacerdote y pueblo, brahmín y paria, fueron sustituidas por los ideales de igualdad, independencia y libertad individual. Aún los más humildes comenzaron a levantar sus cabezas como hombres libres y a conseguir la acción individual y el desarrollo individual; y con este nuevo sentido de libertad en sus corazones no es de maravillarse que comenzasen a apagar su antigua sed de autoexpresión en las, aguas de la prosperidad material que nunca antes habían fluido tan abundantemente a sus pies. Nuestra civilización moderna es un resultado de este ímpetu dado al desarrollo individual tanto en pensamiento come en acción. 
 
 Las adquisiciones intelectual y material de la civilización moderna han hecho desenvolverse naturalmente el espíritu crítico y analítico que siempre acompaña el desarrollo individual. Esto fue acentuado por el nacimiento de la ciencia moderna. Hoy día el intelecto está entronizado sobre el conocimiento que ha adquirido, y rehusa aceptar nada como verdad, que no pueda ser visto, medido o analizado. Pero aunque la ciencia física pueda mofarse de la Religión Cristiana de amor y de auto-sacrificio por anticientífica y contraria a las leyes del instinto de conservación y la supervivencia del más apto, las enseñanzas del manso Nazareno han imbuído silenciosa y casi imperceptiblemente el Mundo Occidental con el espíritu de altruismo, que ha ido ganando terreno en los corazones de la humanidad desde el sacrificio del Gólgota, impeliendo a ésta a llevar las cargas de otro y a hacer de la causa del bienestar individual la causa ,de todos; porque solo así puede el hombre entrar en sus completos derechos de nacimiento de su libertad y ejemplificar la enseñanza cristiana. 
 
-### CRISTIAN ROSENKREUTZ
+### <h3 id="christian-rosenkreuz">CRISTIAN ROSENKREUTZ</h3>
 
 Todo estudiante sabe que esta civilización moderna no ha sido obtenida por etapas de crecimiento fáciles y uniformes. Siguiendo el impulso espiritual del Cristianismo primitivo, vino la Edad Media horrenda con su manto de superstición y de intolerancia. La Religión Cristiana fue usada como escala para subir al logro de la codicia y de la ambición, y las enseñanzas interno de Cristo fueron sumergidas bajo las aguas de un dogmatismo teológico que amenazó detener el progreso humano en interés de la supremacía sacerdotal. Las cadenas de un sacerdocio autocrático fueron al fin rotas por la ciencia moderna, y la razón tomó por asalto la hegemonía tiránica y peligrosa que todavía mantiene. 
 
@@ -92,23 +99,21 @@ El intelecto en su rebelión contra la superstición pronto mostró una inclinac
 
 Estamos hoy día en medio de una civilización nacida de la violencia, de la lucha y de la ultra-actividad una civilización labrada con la espada que ha dejado rastros de sangre. Verdaderamente, Cristo vino "no para meter paz, sino espada," porque solamente así pueden las naciones cristalizadas ser rotas en pedazos, emancipadas de las limitaciones de la tradición nacional y del prejuicio racial, y ser amalgamadas en una familia universal. La civilización resultante será una civilización que dejará atrás al débil, y sin embargo se detendrá para inclinarse a socorrer, en medio de su inquieta velocidad, a aquellos que han caído a sus pies. A este aspecto servicial de la vida es que se adapta especialmente la verdadera Religión Cristiana mística. Sus enseñanzas son la herencia de un espléndido pasado, el producto del "eterno devenir." Ola tras ola de impulsos espirituales la han precedido, cada india de ellas elevando a la humanidad un poco más alto. Esta religión marca la altura a la cual el mundo ha subido en ideales de Hermandad y apunta hacia la nieta de Amistad Universal que todavía tiene que alcanzar la humanidad. Sus enseñanzas están todavía en estado de desarrollo, todavía están en formación, y sin embargo son tan viriles que cuando los estudiantes occidentales, hastiados del materialismo que los rodea, se van a la enseñanza religiosa oriental, a menudo son devueltos a nuestra propia religión Cristiana, en la cual encuentran espacio para la libertad que han desarrollado, para el progreso que han alcanzado, y para la doctrina cristiana del corazón que ha aparecido entre nosotros, que rehusa ser negada, y que proclama que todo hombre es el guardián de su hermano. 
 
-Durante las antiguas civilizaciones, la humanidad estaba más bajo la guía directa de sus líderes, y el mundo externo era menos potente en su influencia. El pueblo practicaba su lección de obediencia a los sacerdotes, su vida interna era una realidad más íntima, y el desarrollo psíquico era algo normal. Pero desde que la humanidad evoluciona a través de la experiencia, fue preciso que aprendiese a pararse sobre sus propios pies, que aprendiese a conquistar tanto el mundo externo como el espiritual, y que hiciese toda su parte en el trabajo del mundo. El cerebro hindú (y hablamos del hindú porque la mayor parte de las enseñanzas religiosas orientales que llegan al Mundo Occidental vienen de los hindúes), está especialmente adaptado para el pensamiento metafísico, porque los éteres del cuerpo vital hindú están todavía flojamente entrelazados con el cuerpo físico, y por consiguiente es negativamente receptivo a los impactos espirituales. Pero el cuerpo hindú carece de las vigorosas cualidades que le harían capaz de luchar con el mundo material y dominarlo. 
+Durante las antiguas civilizaciones, la humanidad estaba más bajo la guía directa de sus líderes, y el mundo externo era menos potente en su influencia. El pueblo practicaba su lección de obediencia a los sacerdotes, su vida interna era una realidad más íntima, y el desarrollo psíquico era algo normal. Pero desde que la humanidad evoluciona a través de la experiencia, fue preciso que aprendiese a pararse sobre sus propios pies, que aprendiese a conquistar tanto el mundo externo como el espiritual, y que hiciese toda su parte en el trabajo del mundo. Cada raza tiene un cuerpo conveniente para su desarrollo.
 
-Todos los mundos de la naturaleza deben ser conquistados por el hombre, para que pueda extraer el fruto total de la experiencia que Dios le envió. Por lo tanto las lecciones de este mundo físico son tan esenciales como las del espiritual. El cerebro y el cuerpo occidentales están caracterizados por la adaptabilidad y la fertilidad de recursos, ambas cosas necesarias para la evolución material. Pero debido a que los éteres están estrechamente entrelazados con nuestros cuerpos físicos, los métodos orientales de desarrollo tienden a trastornar las facultades del occidental, en lugar de espiritualizarlas. 
+El cuerpo hindú (y hablamos del hindú porque la mayor parte de las enseñanzas religiosas orientales que llegan al Mundo Occidental vienen de los hindúes), está especialmente adaptado para el pensamiento metafísico, porque los éteres del cuerpo vital hindú están todavía flojamente entrelazados con el cuerpo físico, y por consiguiente es negativamente receptivo a los impactos espirituales. Pero el cuerpo hindú carece de las vigorosas cualidades que le harían capaz de luchar con el mundo material y dominarlo. Todos los mundos de la naturaleza deben ser conquistados por el hombre, para que pueda extraer el fruto total de la experiencia que Dios le envió. Por lo tanto las lecciones de este mundo físico son tan esenciales como las del espiritual. El cerebro y el cuerpo occidentales están caracterizados por la adaptabilidad y la fertilidad de recursos, ambas cosas necesarias para la evolución material. Pero debido a que los éteres están estrechamente entrelazados con nuestros cuerpos físicos, los métodos orientales de desarrollo tienden a trastornar las facultades del occidental, en lugar de espiritualizarlas. Esta predilección occidental por las cosas externas ha producido muchos resultados significativos. Dentro de su esfera de acción se ha desarrollado la ciencia de la psicología, que no solo suministra un campo para la investigación y el desarrollo científicos, sino que también ha dado tal ímpetu a la aplicación práctica del altruismo, que ninguna civilización moderna ignora el bienestar físico o higiénico de su pueblo. La enseñanza de la Sabiduría Occidental aporta a ésta y a otros ramas de la ciencia ciertas explicaciones nuevas y de mucho alcance, que suministran una solución razonable a muchos de los problemas de la evolución. 
 
-Esta predilección occidental por las cosas externas ha producido muchos resultados significativos. Dentro de su esfera de acción se ha desarrollado la ciencia de la psicología, que no solo suministra un campo para la investigación y el desarrollo científicos, sino que también ha dado tal ímpetu a la aplicación práctica del altruismo, que ninguna civilización moderna ignora el bienestar físico o higiénico de su pueblo. La enseñanza de la Sabiduría Occidental aporta a ésta y a otros ramas de la ciencia ciertas explicaciones nuevas y de mucho alcance, que suministran una solución razonable a muchos de los problemas de la evolución. 
-
-### INVOLUCIÓN, EVOLUCIÓN, Y EPIGÉNESIS
+### <h3 id="involution-evolution-and-epigenesis">INVOLUCIÓN, EVOLUCIÓN, Y EPIGÉNESIS</h3>
 
 Además de presentar la teoría de la Involución de la Vida y la sincrónica Evolución de la forma, la enseñanza occidental incluye un tercer factor: la Ley de Epigénesis. El hombre mismo es un factor en la construcción de los cuerpos. Durante la vida prenatal trabaja inconscientemente, construyendo con la "quinta esencia de los cuerpos anteriores;" más tarde comienza a trabajar conscientemente, y entro más avanzado es, mejor puede construir. En cada existencia hace alguna obra original, de tal modo que "hay un influjo de causas nuevas y originales todo el tiempo," y este proceso de tomar la iniciativa, de crear nuevas posibilidades de desarrollo, es llamado "Epigénesis." Esto capacita al hombre para llegar a ser un genio y un colaborador con las Jerarquías creadoras del mundo. Si la evolución consistiese meramente en el desarrollo de posibilidades latentes, el hombre no podría llegar a ser así un creador. La enseñanza oriental no dice nada de este principio de gran alcance. 
 
 Muy poco después de la promulgación de la teoría de evolución de Darwin se presentaron ciertas objeciones que nunca han sido satisfactoriamente contestadas por la ciencia, pero que reciben una explicación razonable en la Enseñanza de la Sabiduría Occidental. Estas objeciones a la teoría darwiniana de evolución son: 
 
-1. La ausencia de eslabones descubiertos entre los monos superiores y el hombre. 
+1\. La ausencia de eslabones descubiertos entre los monos superiores y el hombre. 
 
 Hay siempre movimiento en la naturaleza, y cuando el hombre pasó a través de los varios reinos, desarrolló y ocupó formas adaptadas a cada etapa de desarrollo. "Es una ley de la naturaleza que nadie puede habitar un cuerpo más eficiente que el que es capaz de construir." Cuando la forma alcanza el límite de su capacidad para la utilidad, comienza a degenerar, habiendo servido su propósito como vehículo de desarrollo. A lo largo del camino siempre hubo algunos que rehusaron avanzar y fueron dejados atrás como rezagados. Cuando los avanzados pasaron a cuerpos mejor adaptados para su progreso ulterior, los modelos arquetípicos de los vehículos viejos y en degeneración fueron tomados por los menos evolucionados y por los rezagados, quienes a su vez los usaron como estriberones, hasta que los cuerpos que les correspondían se cristalizaron más allá en la posibilidad de poder animarlos por parte de la vida evolucionante. La ciencia habla de la evolución de las formas, pero existe también esta sucesión de formas en degeneración usadas por los menos evolucionados y por los rezagados. Los monos pertenecen a esta última clase, y en vez de ser los progenitores del hombre son en realidad rezagados que ocupan ahora las formas degeneradas que una vez usó el hombre. La enseñanza oriental atribuye su existencia al pecado de bestialidad del hombre primitivo. 
 
-2. La esterilidad de los híbridos. 
+2\. La esterilidad de los híbridos. 
 
 Existe otro problema de la evolución, pasado enteramente por alto en el (ocultismo oriental, Y que tampoco es explicado satisfactoriamente por la ciencia, pero recibe una solución racional en la Enseñanza de la Sabiduría Occidental. En forma compendiada es como sigue: 
 
@@ -116,7 +121,7 @@ Hasta que los animales lleguen a ser animados por espíritus internos individual
 
 El hecho científicamente observado de la "hemolisis," o destrucción de sangre cuando es mezclada innaturalmente, tiene también una importante conexión con este tema. Esto está completamente explicado en El Concepto Rosacruz del Cosmos, al cual referiremos los estudiantes que deseen investigar el asunto completamente. 
 
-3. La superioridad moral y mental del hombre sobre los animales. 
+3\. La superioridad moral y mental del hombre sobre los animales. 
 
 Este hecho, tan patente que no puede escapar a la observación del más Superficial observador, no está claramente explicado por el ocultismo oriental, pero recibe un manejo amplio y lógico en la Enseñanza de la Sabiduría Occidental de los Rosacruces. 
 
@@ -127,19 +132,20 @@ Además de este mundo de formas físicas que vemos, existen reinos invisibles al
 Una región etérica, promotora del crecimiento y de la percepción sensorial. 
 
 Un Mundo del Deseo.
+
 Un Mundo del Pensamiento. 
 
 Así como se requiere una forma hecha de materia química para la vida en el mundo físico, así también es necesario tener un vehículo hecho de la substancia de los otros reinos de la naturaleza con objeto de expresar sus cualidades. Más aún, la vida evolucionante está siempre buscando expansión de consciencia. Con este fin las formas se hacen más complejas conforme ascendemos en la escala que ya desde el mineral al hombre, y son agregado. Vehículos invisibles a la forma física, también. Solamente el hombre tiene vehículos que le correlacionan con todos los cuatro mundos, lo que produce cuatro estados de consciencia análogos a los poseídos por los cuatro reinos. 
 
-#### Trance
+#### <h4 id="trance">Trance</h4>
   
 En las sesiones espiritistas las entidades invisibles llevan a cabo el fenómeno de la materialización extrayendo éter del cuerpo de un médium dándole a este éter la forma que quieren, y llenando este molde con partículas físicas de la que flotan en la atmósfera, a cualquier densidad deseada. El cuerpo del médium es mí separado de los vehículos superiores que le unen con el espíritu, y de aquí que el médium esté en un estado de profunda inconsciencia que llamamos "trance," Como el mineral tiene únicamente cuerpo físico, puede decirse que tiene una consciencia de trance. 
 
-#### Sueño sin Ensueños
+#### <h4 id="dreamless-sleep">Sueño sin Ensueños</h4>
 
 Cuando miramos a una persona sumida en sueño sin ensueños, el cuerpo parece inerte; pero cuando enfocamos nuestra visión espiritual sobre el durmiente, vemos una actividad interna. Los procesos de digestión, asimilación, secreción, etc., son mantenidos en mucha mejor forma que en el estado de vigilia. Esto es debido a que el cuerpo denso está interpenetrado por un cuerpo vital hecho de éter, pero los vehículos superiores flotan una pocos pies por encima de la cama. Cuando examinamos las plantas hallamos que también tienen un cuerpo denso y un cuerpo vital, lo que les permite digerir y asimilar el alimento, respirar el aire, etc., y por consiguiente podemos decir que las plantas tienen una consciencia análoga al sueño sin ensueños. 
 
-#### Ensueños
+#### <h4 id="dreams">Ensueños</h4>
 
 Algunas veces, cuando estamos indebidamente absorbidos por los asuntos de este mundo, los vehículos superiores no se separan adecuadamente cuándo nos entregamos al sueño. Los cuerpos denso y vital están entonces parcialmente interpenetrados por el cuerpo de deseos, el cual produce emoción e incentivo para el movimiento. Debido a que los centros sensoriales de nuestros vehículos superiores están entonces rezagados con relación a nuestro cerebro, vemos una galaxia de imágenes oníricas, desordenadas, y nos agitamos en nuestros lechos bajo el influjo de las emociones cansadas por estas visiones. No podemos razonar acerca de ellas, y por lo tanto aceptamos incuestionablemente aman las más imposibles situaciones. 
 
@@ -147,13 +153,13 @@ Un cuerpo vital y un cuerpo de deseos interpenetran el cuerpo denso de los anima
 
 La razón e inteligencia supernormales que pueden observarse en los animales domesticados son inducidas por asociación con el hombre, bajo el mismo principio de que a electricidad cae bajo voltaje es inducida cuando un alambre no cargado es puesto en íntima proximidad con otro que lleva una corriente de alta tensión. 
 
-#### El Estado de Vigilia.
+#### <h4 id="the-waking-state">El Estado de Vigilia</h4>
 
 En el estado de vigilia todos los vehículos del hombre están concéntricos, Y de este modo es capaz de determinar y de razonar. El mineral no puede escoger si se cristaliza o no, ni tiene la planta libre albedrío: es compelida a florecer por condiciones que están fuera de su control. El león debe hacer Presa, el conejo debe roer. Cada especie tiene ciertos hábitos genéricos, y todos los vegetales o animales separados de una cierta familia actúan de parecida manera bajo parecidas condiciones, porque son compelidos a la acción por el espíritu grupal común. Por consiguiente, si conocemos los hábitos de cualquier animal dado, conocemos también las características de toda la familia. No sucede lo mismo con el hombre, quien es guiado desde adentro. Cada quien es una especie, una ley en si mismo, Y no importa cuánto estudiemos, no podemos nunca decir lo que cualquier hombre hará en cierto caso por el hecho de conocer como ha actuado otro hombre, Tampoco podemos escribir la biografía de una rosa, o de un león. Sólo un hombre, cuya vida es diferente de la de los otros, puede ser así descrito. 
 
 Así es que la superioridad mental y moral del hombre sobre los animales y los reinos inferiores es debida al hecho de que él es un individuo, un ego interno, que se conoce a sí mismo bajo la forma del "Yo soy," operación que no es aplicable a un animal. El hombre es capaz de iniciar la acción desde adentro por medio del "Yo quiero," mientras que los animales son guía dos desde afuera por un espíritu grupos, y carecen de volición. 
 
-4. La existencia de órganos sin uso para sus poseedores. 
+4\. La existencia de órganos sin uso para sus poseedores. 
 
 Aquí también la Enseñanza de la Sabiduría Occidental es más comprensiva y explícita que el ocultismo oriental. Dicha Enseñanza distingue entre: 
 
@@ -169,7 +175,7 @@ c).- Órganos no completamente desarrollados todavía.
 
 El corazón pertenece a esta clase. Es un músculo involuntario, pero está dotado de las fibras estriadas peculiares de los impulsos voluntarios, y estas fibras estriadas se harán más y más notables conforme el ego obtenga control sobre este órgano. Todos los músculos son la expresión del cuerpo del deseos, y a medida que el hombre desarrolle más deseos espirituales y crezca en poder espiritual, el corazón se convertirá en un músculo voluntario y la circulación de la sangre pasará a control de la voluntad. Entonces tendrá el poder de retirar la sangre de aquellas áreas cerebrales destinadas a propósitos egoístas, y a dirigirlas a otros centros dedicados a ideales altruistas. 
 
-### EL MISTERIO DE LA SANGRE
+### <h4 id="the-mystery-of-blood">EL MISTERIO DE LA SANGRE</h4>
 
 En las Escrituras Cristianas se les da gran importancia a las siguientes doctrinas: 
 
@@ -189,11 +195,11 @@ El hombre está construyendo en todos los mundos, y aunque a veces parezca const
 
 Cuando estudiamos más cuidadosamente esta maravillosa enseñanza, podemos comprender en cierta medida el intrincado problema de la sangre racial, que ha jugado un papel tan importante en la historia del mundo y en la perpetuación de las ideas de familia, tribu y nación. La ciencia está todavía buscando el significado de esto; reconoce el hecho de que la transfusión de sangre de un animal de una especie superior a otro de especie inferior, mata a este último (hemolisis). Pero esta Enseñanza de la Sabiduría Occidental explica más ampliamente que cuando la humanidad evolucione hacia la estatura divina, la mezcla de sangre humana será imposible. En una lejana edad futura la propagación de la raza por medio de la mezcla de sangres en el matrimonio ya no será necesaria, porque el hombre habrá entonces aprendido a crear desde adentro por medio de la Palabra. Aún hoy día, el hombre está construyendo un cuerpo físico más fino y mejor que el que tuvo en el pasado, más flexible, más adaptable; está aprendiendo a conocer sus funciones, y está comenzando a redimirse de la influencia cristalizadora de la sangre racial para convertirse en un ciudadano del mundo. 
 
-### EL MISTERIO DEL SEXO
+### <h3 id="the-mystery-of-sex">EL MISTERIO DEL SEXO</h3>
 
 La Enseñanza de la Sabiduría Occidental también da una solución para el problema del sexo y su propósito. "El ego mismo, contrariamente a la idea generalmente aceptada, es bisexual." Esta dualidad no se manifiesta como sexo en los mundos internos, sino como voluntad e imaginación, afines a las fuerzas solares y lunares, respectivamente. Durante la época en que la tierra estuvo unida al sol, "las fuerzas solares suministraron al hombre el necesario sustento, y él, inconscientemente irradiaba el excedente para el propósito de la propagación." Pero cuando el Ego comenzó a morar dentro del cuerpo y a controlarlo, fue necesario usar parte de esta fuerza creadora para construir un cerebro y una laringe para que el hombre pudiese tener instrumentos para expresarse a sí mismo. Cuando el cuerpo físico adaptó la posición erecta, la fuerza creadora fue dividida, y una parte fue dirigida hacia arriba para construir el cerebro Y la laringe, y la otra hacia abajo para construir los órganos procreadores. Como resultado de este cambio, solo una parte de la fuerza esencial para la creación de otro cuerpo fue aprovechable en cada individuo, y se hizo necesaria la cooperación de otro individuo para la propagación. Así es que el hombre obtuvo su consciencia cerebral al costo de la mitad de su fuerza creadora, pero adquirió un instrumento con el cual crear en el Mundo del Pensamiento, en los reinos de la música, de la poesía y del arte, y tomar parte en la herencia de belleza del mundo; y si bien por medio de este acto sus ojos se abrieron al conocimiento de la muerte, del dolor y del pesar, también se abrieron al conocimiento de su propia divinidad, y al conocimiento de la ley de sacrificio, de amor y de servicio. El Ocultismo oriental enseña el hecho de la separación de los sexos, pero la Enseñanza de la Sabiduría Occidental muestra el propósito de la separación. 
 
-### EL MISTERIO DE LA MORTALIDAD INFANTIL
+### <h3 id="the-mystery-of-infant-mortality">EL MISTERIO DE LA MORTALIDAD INFANTIL</h3>
 
 La Enseñanza de la Sabiduría Occidental también explica lógicamente como la mortalidad infantil, que ha traído tanta aflicción y sufrimiento al mundo, es realmente la acción misericordioso de una ley benéfica que impide una calamidad todavía mayor. La comprensión, del modo como trabaja esta ley nos enseñará como podemos nosotros impedir esta anomalía y salvarnos del sufrimiento inherente a la prematura partida de esos amados rayos de sol, que por desgracia tan frecuentemente dejan nuestro corazón frío y desolado. 
 
@@ -209,7 +215,7 @@ El ocultismo oriental nos dice, que no deberíamos afligirnos por los que mueren
 
 La Enseñanza de la Sabiduría Occidental da valiosas instrucciones para el cuidado de los que mueren, y nos dice como podemos ayudarles, a la hora de partir a aprovechar el crecimiento anímico más grande posible de la vida que recién termina. Así es que esta enseñanza es de beneficio práctico en toda eventualidad de la vida y de la muerte. 
 
-### EL MISTERIO DE LA MUERTE
+### <h3 id="the-mystery-of-death">EL MISTERIO DE LA MUERTE</h3>
 
 Aunque la idea de que la muerte no es sino un cambio de actividades de este mundo físico a mundos menos materiales, ha sido aceptada por la mayoría de los estudiantes que piensan, la Enseñanza de la Sabiduría Occidental explana el modo de actuar de la ley natural concerniente a la duración de la vida terrestre y al colapso del cuerpo físico. El hombre construye el arquetipo de su cuerpo denso en el mundo celeste. Este arquetipo es, por supuesto, construido de acuerdo con sus capacidades. Algunas veces una vida se prolonga más allá de la duración normal cuando los Seres Compasivos ven que puede ser de servicio especial, pero generalmente hablando, el arquetipo persiste solo hasta que se ha gastado la vibración que se le da al nacimiento. 
 
@@ -217,7 +223,7 @@ Cuando la vida termina el ascenso del espíritu es obstaculizado por la materia 
 
 Cada generación, conforme asciende al mundo celeste, entona un canto de sus éxitos sobre la tierra. Así es que cada cual canta una cadencia diferente en la armonía de nuestra esfera, y así como las esporas sobre una placa de vidrio se acomodan de diferente manera cuando tonos diferentes las ponen en vibración, así también estas variaciones en la antífona del mundo son la causas que hacen cambiar el clima, la flora y la fauna sobre la tierra. Si fuimos diligentes durante nuestra pasada vida terrestre, cuando llegamos al mundo celeste cantamos acerca de una tierra de abundancia, y he aquí que la encontramos aguardándonos a nuestro retorno. Si descuidamos la tierra y perdimos el tiempo en especulación metafísica, nuestro canto en el mundo celeste fue muy diferente, y cuando retornamos a la tierra, nos encontramos en una tierra de hambre, inundaciones y desolación. Todas las cosas del cielo y de la tierra están gobernadas por medio de la inmutable ley de consecuencia, que mantiene el equilibrio del mundo. 
 
-### EL CRISTO DE OCCIDENTE NO ES EL CRISTO DE ORIENTE
+### <h3 id="the-christ-of-the-west-is-not-the-christ-of-the-east">EL CRISTO DE OCCIDENTE NO ES EL CRISTO DE ORIENTE</h3>
 
 Si bien los puntos precedentes son de importancia para demostrar los conceptos superiores de la Enseñanza de Sabiduría Occidental, con relación a las del ocultismo oriental, se vuelven insignificantes en comparación con las diferencias existentes entre las enseñanzas concernientes al Cristo, Su identidad, Su misión y la naturaleza de Su advenimiento. Sobre este importante punto, dice Edith Ward en The Ocult Review, hay una diferencia tan radical o irreconciliable, que las dos no pueden ser ciertas. Ella llega a esta conclusión comparando El Concepto Rosacruz del Cosmos, por Max Heindel, con los escritos de un líder de la principal sociedad que promulga el hinduismo entre los pueblos de Occidente. 
 
@@ -251,9 +257,7 @@ No parece extraño que este escritor, quien así repudia las Escrituras Cristian
 
 "¿Se repetirá aquí la historia y el drama de Judea, Jerusalén, y aún el Calvario, se representará una vez más?" 
 
-¿Cómo puede repetirse lo que nunca tuvo lugar? 
-
-¿Y no es extraño que un líder que hace una campaña mundial para repudiar al Cristo del Mundo Occidental y de las Escritura Cristianas y anuncie a otro Cristo, diga: 
+¿Cómo puede repetirse lo que nunca tuvo lugar? ¿Y no es extraño que un líder que hace una campaña mundial para repudiar al Cristo del Mundo Occidental y de las Escritura Cristianas y anuncie a otro Cristo, diga: 
 
 "Yo casi nada sé de este Jesús, cuyo retorno predigo." 
 
@@ -265,7 +269,7 @@ le haya sido confiada la gran misión de proclamar el retorno de Cristo?
 
 Que el lector conteste estas preguntas como crea que- la evidencia lo amerite. Pero nosotros creemos, más aún, sabemos, que el Cristo de todos los cristianos devotos y creyentes, es enteramente diferente del anunciado por los nuevos líderes de la escuela oriental de ocultismo. 
 
-### EL CRISTO DE OCCIDENTE
+### <h3 id="the-christ-of-the-west">EL CRISTO DE OCCIDENTE</h3>
 
 La Enseñanza de la Sabiduría Occidental da una comprensiva descripción de la cosmogénesis. Tres grandes períodos evolucionarios han precedido a nuestro presente estado,. El Padre es el más elevado Iniciado del primer período, o sea el de Saturno. El Hijo, (Cristo), es el más elevado Iniciado del segundo período, o sea el del Sol, y Jehová es el más elevado Iniciado del tercer período, el de la Luna. 
 
@@ -281,14 +285,12 @@ Se ha dicho que "la flor de las religiones se da siempre a la flor de la humanid
 
 En la Enseñanza de los Misterios Atlantes, registrada en el antiguo Testamento, aprendemos que el hombre, por su propio libre albedrío comió del "árbol del conocimiento," que trajo dolor y muerte al mundo, y como resultado, "fue expulsado del jardín de Dios, para vagar por los desiertos del mundo;" que Dios por compasión hizo un pacto con el hombre; que fue construido un tabernáculo, dentro del cual fue colocada el Arca que simboliza al espíritu humano, que nunca muere; que las varas del Arca nunca fueron quitadas, así como el hombre, como peregrino que es, no Puede nunca descansar hasta que llegue Por su propia elección a la meta humana. Dentro del Arca estaba "el pote de oro del mana," esto es, MAN (en inglés, hombre), caído del cielo, junto con una declaración de las leyes divinas que él debe aprender en "su peregrinación a través del desierto de la materia;" dentro de ella estaba también la "vara mágica" de Aarón, emblema del poder espiritual que está dentro de cada uno de nosotros, que nos apremia a seguir en nuestro camino al Místico Templo de Salomón. En el Antiguo Testamento están las huellas dejadas por el hombre en su descenso de los cielos, así como la historia de sus transgresiones a los mandamientos de Jehová, quien lo condujo y le guió a través de penas y dolores por el desierto de la materia hacia el reino de la paz, al que será introducido por Cristo. 
 
-El mundo difícilmente ha comenzado a vivir las enseñanzas internas del Cristianismo, solo oscuramente está principiando a comprender su significado; sin embargo, lenta, pero seguramente, estamos marchando hacia el próximo cielo de progreso, que es la gran Sexta Época de la cual Cristo será el líder, una Época que reunirá a toda la humanidad, ya sean "Hijos de Caín" o "Hijos de Set," para trabajar en armonía en el Reino de Su Señor; una Época en la que los rayos de la Rosa Cruz derramarán la luz de la comprensión sobre toda institución humana, de modo que toda diferencia desaparezca ante el común servicio para el bien de todos, y la amistad unirá a las almas dispersas en el reino de Cristo. Cuando El haya plenamente perfeccionado la unificación del Reino, El lo entregará al Padre, como se afirma en la Biblia. 
+El mundo apenas ha comenzado a vivir las enseñanzas internas del Cristianismo, solo oscuramente está principiando a comprender su significado; sin embargo, lenta, pero seguramente, estamos marchando hacia el próximo cielo de progreso, que es la gran Sexta Época de la cual Cristo será el líder, una Época que reunirá a toda la humanidad, ya sean "Hijos de Caín" o "Hijos de Set," para trabajar en armonía en el Reino de Su Señor; una Época en la que los rayos de la Rosa Cruz derramarán la luz de la comprensión sobre toda institución humana, de modo que toda diferencia desaparezca ante el común servicio para el bien de todos, y la amistad unirá a las almas dispersas en el reino de Cristo. Cuando El haya plenamente perfeccionado la unificación del Reino, El lo entregará al Padre, como se afirma en la Biblia. 
 
 En la Enseñanza de Misterios Occidental se encuentra revelada la misión de Cristo, quien vino para señalar y preparar el camino a Su Reino, para que no solamente los rezagados pudiesen ser elevados, sino para que todos aquellos que estén dispuestos a entrar por el camino angosto y por la puerta estrecha, puedan encontrar la Luz y el Camino. El ya no es "El que vendrá," sino El que vendrá otra vez. Tampoco aparecerá El otra vez en la carne, la que, como dice Pablo, no puede heredar el Reino, sino en el cuerpo-alma. Cuando la humanidad haya desarrollado la consciencia etérica, podrá recibirle "en el aire." Pero "de aquel día, y de la hora, nadie sabe; ni aún los ángeles que están en el cielo, ni el Hijo, sino el Padre." Entonces la ley que fue dada por Moisés será sustituida por "la gracia y la verdad que vinieron por Cristo," y la corriente de humanidad que ha estado dirigiéndose hacia adelante en su prescrito derrotero, dará testimonio de que es posible obedecer el mandato divino de "Sed, pues, vosotros perfectos, como vuestro Padre que está en los cielos es perfecto." 
 
-### CONCLUSIÓN
+### <h3 id="conclusion">CONCLUSIÓN</h3>
 
 En las Páginas precedentes apenas hemos tratado ligeramente de las riquezas de Sabiduría encontradas en la Enseñanza de los Misterios Cristianos diseminada a través de la Fraternidad Rosacruz, pero ha sido dicho suficiente para convencer a cualquiera que esté familiarizado con la enseñanzas del ocultismo oriental Y que se abra a la convicción de que, si bien ambas enseñanzas contienen las mismas grandes verdades básicas comunes a todas las religiones, tanto antiguas como modernas, están muy lejos de ser la misma cosa, y que la Enseñanza de la Sabiduría Occidental está tan ventajosamente avanzada con relación al ocultismo oriental, como Buda, siendo la Luz del Asia es eclipsado por nuestro glorioso Cristo, la Luz del Mundo, por cuya Venida velamos y oramos. 
-
-Derechos de traducción y edición asegurados conforme a la ley por Cortos Luis Moya Troyo, Junio 1958, a quien fueron cedidos por los herederos legítimos de ellos (The Rosicrucian Fellowship, Oceanside, California, U.S.A., con cuyo permiso se traduce y edita). 
 
 Fin 
