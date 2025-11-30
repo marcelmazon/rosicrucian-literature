@@ -7,7 +7,7 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-# EL CUERPO DE DESEOS
+<h1 id="the-desire-body">EL CUERPO DE DESEOS</h1>
 
 por Max Heindel [1865-1919]
 
@@ -16,13 +16,41 @@ P.O. Box 713
 Mt. Ecclesia  
 Oceanside, CA. 92049-0713 USA
 
-### PREFACIO
+### <h3 id="foreword">PREFACIO</h3>
 
 El hombre, Espíritu interno, dispone en su estado actual de desarrollo, de cuatro vehículos a traves de los cuales el actúa: el cuerpo denso, el cuerpo vital, el cuerpo de deseos y la mente. Aunque esos cuerpos están estrechamente relacionados y se afectan uno al otro, es provechoso para el estudiante comprender bien sus funciones y posibilidades, estudiándolas determinadamente por separado. A fin de facilitar este estudio el material escrito dejado por Max Heindel respecto al cuerpo de deseos ha sido compilado y publicado en un volumen. 
 
 El cuerpo de deseos del hombre es un vehículo de sentimientos, ansias, anhelos y emociones. Es responsable de sus acciones y se complace en actuar desatadametne. Cuando está desenfrenado obliga al cuerpo a hacer todas las cosas innecesarias e indignas que son tan perjudiciales para el crecimiento del alma. Sin embargo, este temperamento es solo una gran amenaza cuando domina al ser, pero reprimido y dirigido debidamente puede ser muy efectivo para el servicio. De ahí que el temperamento del cuerpo de deseos debe ser controlado, pero no sofocado. 
 
 Por lo tanto la escuela de Sabiduría Occidental subraya la necesidad de transmutar los bajos deseos en altos anhelos, mediante el servicio cumplido por devoción a elevados ideales. Esto engendra el alma emocional, nutrimento substancial para el Espíritu en desarrollo. 
+
+### <h3 id="contents">ÍNDICE DE MATERIAS</h3>
+
+- [Prefacio](#foreword)
+- [PARTE I: EL MUNDO DEL DESEO PLANETARIO](#part-1)
+    - [Capítulo I: Su relación con e mineral, la planta, el animal y el hombre](#part-1-chapter-1)
+- [PARTE II: ORIGEN Y DESARROLLO DEL CUERPO DE DESEOS DEL HOMBRE](#part-2)
+    - [Capítulo II: A través de los períodos septenarios](#part-2-chapter-1)
+- [PARTE III: EL CUERPO DE DESEOS DEL HOMBRE EN EL MUNDO FÍSICO](#part-3)
+    - [Capítulo III: De la infancia a la pubertad](#part-3-chatper-1)
+    - [Capítulo IV: Su aspecto y sus funciones](#part-3-chapter-2)
+    - [Capítulo V: Efectos de las emociones sobre los contornos y los colores](#part-3-chatper-3)
+    - [Capítulo VI: La influencia del pensamiento](#part-3-chapter-4)
+    - [Capítulo VII: Su relación con la conciencia](#part-3-chapter-5)
+    - [Capítulo VIII: Durante el sueño](#part-3-chapter-6)
+- [PARTE IV: EL CUERPO DE DESEOS DEL HOMBRE EN EL MUNDO INVISIBLE](#part-4)
+    - [Capítulo IX: Al morir](#part-4-chapter-1)
+    - [Capítulo X: Las causas de la mortalidad infantil](#part-4-chapter-2)
+    - [Capítulo XI: El purgatorio](#part-4-chapter-3)
+    - [Capítulo XII: Espíritus apegados a la tierra y sus víctimas](#part-4-chapter-4)
+    - [Capítulo XIII: La región fronteriza](#part-4-chapter-5)
+    - [Capítulo XIV: El primer cielo](#part-4-chapter-6)
+    - [Capítulo XV: El segundo cielo](#part-4-chapter-7)
+    - [Capítulo XVI: Hacia el Renacimiento](#part-4-chatper-8)
+- [PARTE V: LA ESPIRITUALIZACIÓN DEL CUERPO DE DESEOS DEL HOMBRE](#part-5)
+    - [Capítulo XVII: Seres superiores como factores](#part-5-chapter-1)
+    - [Capítulo XVIII: No se puede confiar en el cuerpo de deseos](#part-5-chapter-2)
+    - [Capítulo XIX: Preparación para la vida superior](#part-5-chapter-3)
 
 ## PARTE I: EL MUNDO DEL DESEO PLANETARIO
 
@@ -825,33 +853,5 @@ Antes de que el aspirante aprenda a dejar voluntariamente el cuerpo, puede ser q
 Después verá que puede, durante el sueño, visitar cualquier lugar que desee sobre la superficie de la Tierra y estudiarlo mucho mejor que si hubiera ido a él con su cuerpo denso, porque en su cuerpo de desos puede ir a cualquier parte, no sirviendo para nada ni las cerraduras, ni las rejas. Si persiste en sus esfuerzos, llegará un tiempo en el que ya no necesitará esperar al sueño para disolver la conexión entre sus vehículos, sino que podrá separarse de ellos conscientemente. 
 
 Una etapa del desarrollo espiritual del Místico Cristiano comprende la reversión de la fuerza cradora de su curso ordinario hacia abajo, donde se derrocha en la generación gratificando las pasiones, haciéndolas ascender hacia arriba a través de la triple médula espinal, cuyos tres segmentos son regidos por la Luna, Marte y Mercurio respectivamente y donde entonces los rayos de Neptuno encienden el Fuego espinal del Espíritu regenerado. Este ascenso pone el cuerpo pituitario y la glándula pineal en vibración abriendo así la visión espiritual; al golpear esta fuerza, el seno frontal, la corona de espinas, empieza a palpitar por el dolor que siente, al quemar el Fuego del Espíritu Sagrado, el lazo con el cuerpo físico y este centro se despierta de su larguísimo (de varias edades ) sueño a una vida que late y palpita y que pasa rápidamente a otros centros en la estrella estigmática de cinco puntas. Ellos también se vitalizan y todo el vehículo empieza a brillar con un esplendor dorado. Entonces, con un tirón final se libera el gran vórtice del cuerpo de deseos en el hígado y la energía marcial contenida en este vehículo, propele hacia arriba el vehículo sideral (así llamado por encontrarse los estigmas de la cabeza, de las manos y de los pies, en la misma posición relativa uno al otro que las puntas de la estrella de cinco puntas), mientras que el Cristiano crucificado profiere en un grito triunfante: "Consummatum est" (se ha consumado) y se eleva a las esferas más sutiles en busca de Jesús cuya vida ha imitado con tanto éxito, que en adelante quedará inseparable de Él. 
-
-ÍNDICE DE MATERIAS
-
-Prefacio   
-PARTE I: EL MUNDO DEL DESEO PLANETARIO  
-Capítulo I: Su relación con e mineral, la planta, el animal y el hombre  
-PARTE II: ORIGEN Y DESARROLLO DEL CUERPO DE DESEOS DEL HOMBRE  
-Capítulo II: A través de los períodos septenarios  
-PARTE III: EL CUERPO DE DESEOS DEL HOMBRE EN EL MUNDO FÍSICO  
-Capítulo III: De la infancia a la pubertad  
-Capítulo IV: Su aspecto y sus funciones  
-Capítulo V: Efectos de las emociones sobre los contornos y los colores  
-Capítulo VI: La influencia del pensamiento   
-Capítulo VII: Su relación con la conciencia  
-Capítulo VIII: Durante el sueño  
-PARTE IV: EL CUERPO DE DESEOS DEL HOMBRE EN EL MUNDO INVISIBLE  
-Capítulo IX: Al morir  
-Capítulo X: Las causas de la mortalidad infantil  
-Capítulo XI: El purgatorio  
-Capítulo XII: Espíritus apegados a la tierra y sus víctimas  
-Capítulo XIII: La región fronteriza  
-Capítulo XIV: El primer cielo  
-Capítulo XV: El segundo cielo  
-Capítulo XVI: Hacia el Renacimiento  
-PARTE V: LA ESPIRITUALIZACIÓN DEL CUERPO DE DESEOS DEL HOMBRE  
-Capítulo XVII: Seres superiores como factores  
-Capítulo XVIII: No se puede confiar en el cuerpo de deseos  
-Capítulo XIX: Preparación para la vida superior  s
 
 Fin  
