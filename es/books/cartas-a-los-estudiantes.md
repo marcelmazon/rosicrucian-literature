@@ -1,40 +1,124 @@
-# CARTAS A LOS ESTUDIANTES
+---
+title: "Cartas a los Estudiantes"
+language: 'es'
+original_title: "Letters to Students"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'letters-to-students.md'
+---
 
-Comprendiendo una carta por cada mes,
-desde diciembre de 1910 a enero de 1919,
-ambos inclusive
-por
-Max Heindel
-[1865-1919]
+<h1 id="letters-to-students">CARTAS A LOS ESTUDIANTES</h1>
 
-Click aquí para ver fotografía de Max Heindel
+por Max Heindel [1865-1919]
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
-
-Título Original:
-
-"LETTERS TO STUDENTS"
-
+Comprendiendo una carta por cada mes, desde diciembre de 1910 a enero de 1919, ambos inclusive
 
 THE ROSICRUCIAN FELLOWSHIP
+International Headquarters  
+Mt. Ecclesia 
 P.O. Box 713
 Oceanside, CA. 92049-0713 USA
 
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
+### <h3 id="table-of-contents">ÍNDICE DE MATERIAS - NÚMEROS Y TÍTULOS DE LAS CARTAS</h3>
 
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
+- [PRÓLOGO](#foreword)
+- [1. La amistad como un ideal](#letter-1)
+- [2. Desarrollo del alma mediante obras](#letter-2)
+- [3. Servicio desinteresado a los demás](#letter-3)
+- [4. Una cruzada por la Iglesia](#letter-4)
+- [5. Valor de los sentimientos rectos](#letter-5)
+- [6. Curando al enfermo](#letter-6)
+- [7. Bautismo de agua y del espíritu](#letter-7)
+- [8. Cómo dominar nuestras estrellas](#letter-8)
+- [9. Guardianes invisibles de la humanidad](#letter-9)
+- [10. La alimentación carnívora y el alcohol](#letter-10)
+- [11. Preparativos para el traslado a Mount Ecclesia](#letter-11)
+- [12. Comienzo del trabajo para la construcción del primer edificio en Mount Ecclesia](#letter-12)
+- [13. La pureza en la generación es el ideal del Occidente](#letter-13)
+- [14. La próxima Edad del Aire](#letter-14)
+- [15. El papel que juegan los estimulantes en la evolución](#letter-15)
+- [16. Necesidad de la devoción](#letter-16)
+- [17. Rezagados de la evolución](#letter-17)
+- [18. Nota-clave de las enseñanzas rosacruces](#letter-18)
+- [19. Santidad de las experiencias espirituales](#letter-19)
+- [20. Iniciativa y libertad personal](#letter-20)
+- [21. El espíritu de Cristo y la Panacea espiritual](#letter-21)
+- [22. El pan y el vino místicos](#letter-22)
+- [23. Arcos descendentes y ascendentes de la evolución](#letter-23)
+- [24. La Fraternidad Rosacruz es un centro espiritual](#letter-24)
+- [25. El Mensaje místico de Navidad](#letter-25)
+- [26. Servicio a los demás durante el año entrante](#letter-26)
+- [27. Siegfried, el buscador de la verdad](#letter-27)
+- [28. La incorporación y los planes futuros de la Fraternidad](#letter-28)
+- [29. Masonería, co-masonería y Catolicismo](#letter-29)
+- [30. El papel del mal en el mundo](#letter-30)
+- [31. Cristo y su Segunda Venida](#letter-31)
+- [32. El cuerpo vital de Jesús](#letter-32)
+- [33. Modo de mejorar nuestras oportunidades](#letter-33)
+- [34. Un alegato a favor de la pureza](#letter-34)
+- [35. El mito de Fausto y la leyenda masónica](#letter-35)
+- [36. Métodos de desarrollo orientales y occidentales](#letter-36)
+- [37. La razón de tantos cultos diferentes](#letter-37)
+- [38. ¿Qué puede esperar el discípulo del Maestro?](#letter-38)
+- [39. ¿Dónde debemos buscar la verdad y como la conoceremos?](#letter-39)
+- [40. Por que el investigador de la verdad debe vivir en el mundo](#letter-40)
+- [41. Un método para discernir la verdad de las apariencias](#letter-41)
+- [42. Nuestras responsabilidades en cuanto a comunicar la verdad](#letter-42)
+- [43. El voto femenino y su igualdad moral](#letter-43)
+- [44. El vicio del egoísmo y el poder del amor](#letter-44)
+- [45. La iniciación no puede alcanzarse por medio de ejercicios de respiración](#letter-45)
+- [46. La guerra mundial y a mortalidad infantil](#letter-46)
+- [47. Los Auxiliares Invisibles y su trabajo en el campo de batalla](#letter-47)
+- [48. La guerra mundial y la fraternidad universal](#letter-48)
+- [49. Deseo: Espada de dos filos](#letter-49)
+- [50. Prosperidad espiritual para el año nuevo](#letter-50)
+- [51. Amor, Sabiduría y Conocimiento](#letter-51)
+- [52. Concentración en el trabajo rosacruz](#letter-52)
+- [53. El significado cósmico de la Pascua](#letter-53)
+- [54. El despilfarro que representa el prodigar nuestras fuerzas](#letter-54)
+- [55. La epigénesis y el destino futuro](#letter-55)
+- [56. La necesidad de extender las enseñanzas](#letter-56)
+- [57. La Astrología como un medio para ayudar a la curación de los enfermos](#letter-57)
+- [58. Medios antinaturales de consecución](#letter-58)
+- [59. Los Espíritus de Raza y la Nueva Raza](#letter-59)
+- [60. La guerra como una operación para extirpar la catarata espiritual](#letter-60)
+- [61. Movimientos cíclicos del Sol](#letter-61)
+- [62. La deuda de gratitud del maestro](#letter-62)
+- [63. Maestros espirituales verdaderos y falsos](#letter-63)
+- [64. La batalla que se libra en el interior](#letter-64)
+- [65. La Pascua, promesa de renovación de la vida](#letter-65)
+- [66. Ejercicios diarios para el cultivo del alma](#letter-66)
+- [67. Los reales héroes del mundo](#letter-67)
+- [68. La labor de los Espíritus de Raza](#letter-68)
+- [69. Las luchas del alma aspirante](#letter-69)
+- [70. Construyendo para la vida futura](#letter-70)
+- [71. Descenso de la vida de Cristo en el otoño](#letter-71)
+- [72. La razón de las pruebas y contrariedades que afligen al estudiante ocultista](#letter-72)
+- [73. Inventario espiritual durante la Santa Estación](#letter-73)
+- [74. Todo desarrollo oculto comienza con el cuerpo vital](#letter-74)
+- [75. Sirvamos donde estemos mejor preparados para servir](#letter-75)
+- [76. Las "almas perdidas" y las rezagadas](#letter-76)
+- [77. El miedo innecesario a la muerte](#letter-77)
+- [78. El desenvolvimiento del corazón y la iniciación](#letter-78)
+- [79. El sacrificio como un factor del progreso espiritual](#letter-79)
+- [80. Ajustemos las enseñanzas a la comprensión de los demás](#letter-80)
+- [81. El valor de repasar las lecciones pasadas](#letter-81)
+- [82. La doma de un miembro insubordinado](#letter-82)
+- [83. Un tribunal interno de la verdad](#letter-83)
+- [84. La epigénesis y la ley de Causación](#letter-84)
+- [85. El dolor actual y la paz futura](#letter-85)
+- [86. Dios: Origen y finalidad de la existencia](#letter-86)
+- [87. La necesidad de poner en acción nuestra inteligencia](#letter-87)
+- [88. La nobleza de todos los trabajos](#letter-88)
+- [89. La Edad Acuaria y la Nueva Alianza](#letter-89)
+- [90. La alimentación carnívora y el uso de pieles](#letter-90)
+- [91. Seamos tolerantes con las creencias de los demás](#letter-91)
+- [92. El propósito de la guerra y nuestra actitud hacia ella](#letter-92)
+- [93. La fuerza interna y la responsabilidad que lleva envuelta](#letter-93)
+- [94. El equilibrio sirve de mucho en momentos de grandes desastres](#letter-94)
+- [95. La fe y una actitud optimista acerca del bien final](#letter-95)
+- [96. Acrecentar la vida del arquetipo](#letter-96)
+- [97. La ley del éxito en materias espirituales](#letter-97)
 
 ### PRÓLOGO
 
@@ -1410,114 +1494,7 @@ Cuando se halla alcanzado el punto en el que se está totalmente persuadido de q
 Yo confío que usted aplicará esta ley anhelosamente en su propósito para el desarrollo de su alma, no solamente durante el año venidero, sino en todos los años que pasarán por nosotros 
 
 
-ÍNDICE DE MATERIAS
-NÚMEROS Y TÍTULOS DE LAS CARTAS
-PRÓLOGO 
-1 - La amistad como un ideal 
-2 - Desarrollo del alma mediante obras 
-3 - Servicio desinteresado a los demás 
-4 - Una cruzada por la Iglesia 
-5 - Valor de los sentimientos rectos 
-6 - Curando al enfermo 
-7 - Bautismo de agua y del espíritu 
-8 - Cómo dominar nuestras estrellas 
-9 - Guardianes invisibles de la humanidad 
-10 - La alimentación carnívora y el alcohol 
-11 - Preparativos para el traslado a Mount Ecclesia 
-12 - Comienzo del trabajo para la construcción del primer edificio en Mount Ecclesia 
-13 - La pureza en la generación es el ideal del Occidente 
-14 - La próxima Edad del Aire 
-15 - El papel que juegan los estimulantes en la evolución 
-16 - Necesidad de la devoción 
 
-
-17 - Rezagados de la evolución 
-18 - Nota-clave de las enseñanzas rosacruces 
-19 - Santidad de las experiencias espirituales 
-20 - Iniciativa y libertad personal 
-21 - El espíritu de Cristo y la Panacea espiritual 
-22 - El pan y el vino místicos 
-23 - Arcos descendentes y ascendentes de la evolución 
-24 - La Fraternidad Rosacruz es un centro espiritual 
-25 - El Mensaje místico de Navidad 
-26 - Servicio a los demás durante el año entrante 
-27 - Siegfried, el buscador de la verdad 
-28 - La incorporación y los planes futuros de la Fraternidad 
-29 - Masonería, co-masonería y Catolicismo 
-30 - El papel del mal en el mundo 
-31 - Cristo y su Segunda Venida 
-32 - El cuerpo vital de Jesús 
-33 - Modo de mejorar nuestras oportunidades 
-34 - Un alegato a favor de la pureza 
-35 - El mito de Fausto y la leyenda masónica 
-36 - Métodos de desarrollo orientales y occidentales 
-37 - La razón de tantos cultos diferentes 
-38 - ¿Qué puede esperar el discípulo del Maestro? 
-39 - ¿Dónde debemos buscar la verdad y como la conoceremos? 
-40 - Por que el investigador de la verdad debe vivir en el mundo 
-
-
-41 - Un método para discernir la verdad de las apariencias 
-42 - Nuestras responsabilidades en cuanto a comunicar la verdad 
-43 - El voto femenino y su igualdad moral 
-44 - El vicio del egoísmo y el poder del amor 
-45 - La iniciación no puede alcanzarse por medio de ejercicios de respiración 
-46 - La guerra mundial y a mortalidad infantil 
-47 - Los Auxiliares Invisibles y su trabajo en el campo de batalla 
-48 - La guerra mundial y la fraternidad universal 
-49 - Deseo : Espada de dos filos 
-50 - Prosperidad espiritual para el año nuevo 
-51 - Amor, Sabiduría y Conocimiento 
-52 - Concentración en el trabajo rosacruz 
-53 - El significado cósmico de la Pascua 
-54 - El despilfarro que representa el prodigar nuestras fuerzas 
-55 - La epigénesis y el destino futuro 
-56 - La necesidad de extender las enseñanzas 
-57 - La Astrología como un medio para ayudar a la curación de los enfermos 
-58 - Medios antinaturales de consecución 
-59 - Los Espíritus de Raza y la Nueva Raza 
-60 - La guerra como una operación para extirpar la catarata espiritual 
-61 - Movimientos cíclicos del Sol 
-62 - La deuda de gratitud del maestro 
-63 - Maestros espirituales verdaderos y falsos 
-
-
-64 - La batalla que se libra en el interior 
-65 - La Pascua, promesa de renovación de la vida 
-66 - Ejercicios diarios para el cultivo del alma 
-67 - Los reales héroes del mundo 
-68 - La labor de los Espíritus de Raza 
-69 - Las luchas del alma aspirante 
-70 - Construyendo para la vida futura 
-71 - Descenso de la vida de Cristo en el otoño 
-72 - La razón de las pruebas y contrariedades que afligen al estudiante ocultista 
-73 - Inventario espiritual durante la Santa Estación 
-74 - Todo desarrollo oculto comienza con el cuerpo vital 
-75 - Sirvamos donde estemos mejor preparados para servir 
-76 - Las "almas perdidas" y las rezagadas 
-77 - El miedo innecesario a la muerte 
-78 - El desenvolvimiento del corazón y la iniciación 
-79 - El sacrificio como un factor del progreso espiritual 
-80 - Ajustemos las enseñanzas a la comprensión de los demás 
-81 - El valor de repasar las lecciones pasadas 
-82 - La doma de un miembro insubordinado 
-83 - Un tribunal interno de la verdad 
-84 - La epigénesis y la ley de Causación 
-85 - El dolor actual y la paz futura 
-86 - Dios: Origen y finalidad de la existencia 
-
-
-87 - La necesidad de poner en acción nuestra inteligencia 
-88 - La nobleza de todos los trabajos 
-89 - La Edad Acuaria y la Nueva Alianza 
-90 - La alimentación carnívora y el uso de pieles 
-91 - Seamos tolerantes con las creencias de los demás 
-92 - El propósito de la guerra y nuestra actitud hacia ella 
-93 - La fuerza interna y la responsabilidad que lleva envuelta 
-94 - El equilibrio sirve de mucho en momentos de grandes desastres 
-95 - La fe y una actitud optimista acerca del bien final 
-96 - Acrecentar la vida del arquetipo 
-97 - La ley del éxito en materias espirituales 
 
 
 Fin 
