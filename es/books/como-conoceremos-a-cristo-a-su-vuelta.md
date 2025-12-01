@@ -1,36 +1,43 @@
-# ¿COMO CONOCEREMOS A CRISTO A SU VUELTA?
+---
+title: "¿Cómo conoceremos a Cristo a su vuelta?"
+language: 'es'
+original_title: "How Shall We Know Christ at His Coming?"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'how-shall-we-know-christ-at-his-coming.md'
+---
 
-por
+<h1 id="how-shall-we-know-christ-at-his-coming">¿COMO CONOCEREMOS A CRISTO A SU VUELTA?</h3>
 
-Max Heindel
-[1865-1919]
+por Max Heindel [1865-1919]
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-Título Original:
+### <h3 id="the-rosicrucian-fellowship">THE ROSICRUCIAN FELLOWSHIP - An Aquarian Movement</h3>
 
-"HOW SHALL WE KNOW CHRIST AT HIS COMING?"
+There was a time, even as late as Greece, when Religion, Art and Science were taught unitedly in the Mystery temples. But it was necessary for the better development of each that they should separate for a time. 
 
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
+Religion held sole sway in the so-called "dark ages." During that time it bound both Science and Art hand and foot. Then came the period of the Renaissance, and Art came to the fore in all its branches. Religion was strong as yet, however, and Art was only too often prostituted in the Service of Religion. Last came the wave of modern Science, and with iron hand it has subjugated Religion. 
 
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
+It was a detriment to the world when Religion shackled Science. Ignorance and superstition caused untold woe. Nevertheless man cherished a lofty spiritual ideal then; he hoped for a higher and better life. It is infinitely more disastrous that Science is killing Religion, for now even hope, the only gift of the gods left in Pandora's box, may vanish before materialism and agnosticism. 
 
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
+Such a state cannot continue. Reaction must set in. If it does not, anarchy will rend the cosmos. To avert such a calamity Religion, Science, and Art must reunite in a higher expression of the Good, the True, and the Beautiful than obtained before the separation. 
 
-Copyright
-by
-The Rosicrucian Fellowship
+Coming events cast their shadows before and when the Great Leaders of humanity saw the tendency toward ultra-materialism which is now rampant in the Western World, they took certain steps to counteract and transmute it at the auspicious time. They did not wish to kill the budding Science as the latter had strangled Religion, for they saw the ultimate good which will result when an advanced Science has again become a co-worker with Religion. 
 
-Click aquí para ir al ÍNDICE DE MATERIAS
+A spiritual Religion, however, cannot blend with materialistic Science any more than oil can mix with water. Therefore steps were taken to spiritualize Science and make Religion scientific. 
+
+In the thirteenth century a high spiritual teacher, having the symbolical name Christian Rosenkreuz--Christian Rose-Cross--appeared in Europe to commence this work. He founded the mysterious Order of Rosicrucians with the object of throwing occult light upon the misunderstood Christian Religion and to explain the mystery of Life and Being from the scientific standpoint in harmony with Religion. 
+
+In the past centuries the Rosicrucians have worked in secret, but now the time has come for giving out a definite, logical, and sequential teaching concerning the origin, showing both the spiritual and the scientific aspects: a teaching which makes no statements that are not supported by reason and logic. 
 
 ### ¿COMO CONCEREMOS A CRISTO A SU VUELTA? (*)
+
+Stenographic Report of a Lecture Delivered Before The Los Angeles Study Center, Rx., F., May 18TH, 1913, by Max Heindel 
 
 Existe en mi imaginación la fotografía de una escena, donde vive hace años y en algunas ocasiones, cuando he terminado el trabajo del día para encerrarme en mi interior, y miro en ese archivo, este cuadro aparece. Permítaseme que haga de él una pintura. 
 
@@ -205,11 +212,4 @@ disperse algo de las tinieblas a su alrededor."
 
 Esto es todo lo que tenemos que hacer, y si nosotros hacemos todo esto, veremos que nuestra lamparita es una estrella esplendente que nos guía hacía el encuentro de Cristo y entonces estaremos seguros de conocerle porque nos lo dirá nuestro propio fuero interno. Se dice que nosotros le conoceremos porque nosotros seremos como El y como quiera que no tiene cuerpo físico en que venir, debemos desenvolver el vehículo del alma, el soma psuchcon, para que cuando aparezca podamos unirnos a El y estar revestidos por ese "manto dorado nupcial." 
 
-ÍNDICE DE MATERIAS
-¿Como Conceremos a Cristo a su Vuelta?  
-1ª ¿Quién es Cristo?  
-2ª ¿Por qué vino la primera vez?  
-3ª ¿Por qué debe venir otra vez?  
-4ª ¿Cómo le conoceremos a su aparición?  
-
-Fin 
+Fin
