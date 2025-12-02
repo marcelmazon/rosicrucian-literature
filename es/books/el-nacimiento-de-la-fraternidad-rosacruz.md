@@ -1,31 +1,21 @@
-# EL NACIMIENTO DE LA FRATERNIDAD ROSACRUZ
+---
+title: "El Nacimiento de la Fraternidad Rosacruz"
+language: 'es'
+original_title: "The Birth of the Rosicrucian Fellowship"
+original_language: 'en'
+author: 'Augusta Foss Heindel'
+original_source_file: 'birth-of-the-rosicrucian-fellowship.md'
+---
 
-LA HISTORIA DE SU COMIENZO
-por
-Mrs. Max Heindel
+<h1 id="the-birth-of-the-rosicrucian-fellowship">EL NACIMIENTO DE LA FRATERNIDAD ROSACRUZ</h3>
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+La Historia de su Comienzo
 
-(icono rosacruz)
+por Mrs. Max Heindel
 
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
+UNA RELACIÓN DE LA PREPARACIÓN Y TRABAJO DE MAX HEINDEL EN EL CAMPO OCULTO
 
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-### Primeros Años de Max Heindel
+### <h3 id="early-years-of-max-heindel">Primeros Años de Max Heindel</h3>
 
 Max Heindel, Iniciado Rosacruz y fundador de la Fraternidad Rosacruz, nació el 23 de julio de 1865. Su padre fue Franz L. Von Grasshoff, de una familia noble conectada con la corte alemana durante el tiempo del Principe Bismarck. Después de emigrar a Copenhague, Dinamarca, conoció a una mujer danesa con la cual se casó y de cuyo matrimonio nacieron tres hijos. El mayor de éstos fue Karl Ludwig Von Grasshoff quien más tarde adoptó el seudónimo de Max Heindel. 
 
@@ -37,10 +27,11 @@ Después de mudarse a Los Angeles, California, en 1903, Max Heindel se interesó
 
 Los acontecimientos de la vida de Max Heindel, inmediamente subsecuentes a 1905, se cuentan en el siguiente relato del nacimiento de la Fraternidad Rosacruz. Hasta su muerte el 6 de enero de 1919, estuvo activo haciendo el trabajo precursor de fundar la Fraternidad, incluyendo la adquisición de terrenos para el establecimiento de la Sede Internacional en Oceanside, California, la construcción de los necesarios edificios, publicación de libros, etc. 
 
-## EL NACIMIENTO DE LA FRATERNIDAD ROSACRUZ
-### UNA RELACIÓN DE LA PREPARACIÓN Y TRABAJO DE MAX HEINDEL EN EL CAMPO OCULTO
+### <h3 id="the-birth-of-the-rosicrucian-fellowship-h3">EL NACIMIENTO DE LA FRATERNIDAD ROSACRUZ</h3>
 
-Con el fin de hacer claro el origen de la Fraternidad a nuestros lectores, daremos una historia de como y cuándo conoció Max Heindel a los Hermanos Mayores de la Orden Rosacruz. Durante el verano de 1905, a causa de exceso de trabajo por su extremo deseo de conocimiento espiritual, Max Heindel enfermó seriamente de insuficiencia cardíaca en Los Angeles, que durante varios meses se temió por su vida. Mucho del tiempo que duró esta enfermedad la pasó fuera del cuerpo, trabajando conscientemente en su búsqueda de la verdad como la podía encontrar en los planos invisibles. Sin embargo, él no se desanimó por esta causa, y tan pronto como la salud se lo permitió continuó ocupando la plataforma de conferencias para diseminar su conocimiento oculto. 
+Con el fin de hacer claro el origen de la Fraternidad a nuestros lectores, daremos una historia de como y cuándo conoció Max Heindel a los Hermanos Mayores de la Orden Rosacruz. 
+
+Durante el verano de 1905, a causa de exceso de trabajo por su extremo deseo de conocimiento espiritual, Max Heindel enfermó seriamente de insuficiencia cardíaca en Los Angeles, que durante varios meses se temió por su vida. Mucho del tiempo que duró esta enfermedad la pasó fuera del cuerpo, trabajando conscientemente en su búsqueda de la verdad como la podía encontrar en los planos invisibles. Sin embargo, él no se desanimó por esta causa, y tan pronto como la salud se lo permitió continuó ocupando la plataforma de conferencias para diseminar su conocimiento oculto. 
 
 En mayo de 1906 este trabajo fue interrumpido en San Francisco por el gran terremoto, y su gira le condujo entonces a Seattle y la parte norte del país. Después de un curso de conferencias en esa ciudad, de nuevo se vió obligado a pasar algún tiempo en un hospital por insuficiencia cardíaca de origen valvular; pero todavía intrépido, una vez más reanudó su trabajo de conferencista en la zona ñor-occidental de los Estados Unidos. 
 
@@ -102,7 +93,7 @@ Nuestro Templo fue erigido y dedicado el 25 de Diciembre de 1920, antes de que s
 
 La Fraternidad Rosacruz enseña que el maravilloso organismo llamado cuerpo humano está gobernado por inmutables leyes naturales por lo que toda enfermedad resulta de la violación intencional o ignorante de las mismas. Las personas se enferman porque en esta vida terrestre o en una anterior, han hecho caso omiso de los principios fundamentales sobre los que descansa la salud del cuerpo y si desean reobtenerla deberán aprender a respetarlos y regular sus hábitos diarios de conformidad a ellos. 
 
-### LA ORDEN ROSACRUZ
+### <h3 id="the-rosicrucian-order">LA ORDEN ROSACRUZ</h3>
 
 La Orden Rosacruz, fundada en el Siglo 13, es una de las Escuelas de los Misterios Menores y por lo que respecta a las demás, están diferentemente graduadas para satisfacer los requerimientos espirituales de los más precoces de entre las más primitivas razas de los pueblos orientales y australes con las que ellas trabajan. Christian Rosen-kreuz es el décimotercer miembro de la Orden Rosacruz debiendo advertir que únicamente los Hermanos de la Orden tienen el derecho de hablar de sí mismos como "Rosacruces." 
 
@@ -114,12 +105,10 @@ Un período considerable de vida, intensamente fervorosa como auxiliar visible, 
 
 Primero el Hermano Mayor fija su atención sobre ciertos hechos que desea transferir a la mente de su discípulo; (y éste que se ha preparado para la Iniciación desarrollando dentro de sí mismo ciertos poderes que están todavía latentes), es como un diapasón armonizado con un tono idéntico al de las ideas enviadas por el Hermano Mayor a los cuadros y por consiguiente, el discípulo no solo ve éstos sino que es también capaz de responder a su vibración. Por lo tanto, así vibrando con el ideal presentado por el Maestro, el poder latente dentro del alumno es convertido en energía dinámica, y su conscieneia es elevada al nivel requerido para la Iniciación que le está siendo dada. Esta es la razón del porqué los secretos de la verdadera Iniciación no pueden ser revelados y porque además no es una ceremonia externa sino una experiencia interna. Esta descripción es la más aproximada de lo que realmente es la Iniciación, y que puede ser públicamente dada a uno que no la haya experimentado por sí mismo. No hay misterio alguno acerca de los cuadros en el sentido de que no puedan decirse, sino que realmente son secretos porque no hay en el mundo palabras que puedan describir adecuadamente tal experiencia espiritual. Es cierto que la Iniciación tiene lugar en el Templo particularmente apropiado a las necesidades de un cierto grupo de individuos que vibran dentro de cierta octava, y que hay otros presentes. Pero no es lo que ellos hacen o dicen lo que constituye la verdadera Iniciación, porque ésta es una experiencia interna mediante la cual los poderes latentes que han sido madurados por el discípulo son transformados en energía dinámica que después aprende a usar. 
 
-### LA FRATERNIDAD ROSACRUZ; SU RELACIÓN CON OTRAS SOCIEDADES ROSACRUCES
+### <h3 id="the-rosicrucian-fellowship-its-relation-to-other-rosicrucian-societies">LA FRATERNIDAD ROSACRUZ; SU RELACIÓN CON OTRAS SOCIEDADES ROSACRUCES</h3>
 
 La Fraternidad Rosacruz, fundada por Max Heindel bajo la guía directa de los Hermanos Mayores de la Orden, es la representante autorizada para el presente período de la antigua Orden Rosacruz, de ía cual Cristian Rosa Cruz, o Christian Rosenkreuz, es la Cabeza. Esta no es una organización terrena, sino que tiene su Templo y Cuartel General en e! plano eterice. Ella autorizó la formación de la Fraternidad por Max Heindel con el propósito de llevar las Enseñanzas do la Sabiduría Occidental a la gente del mundo occidental. En épocas anteriores la Orden llevó a cabo su trabajo a través de varias sociedades secretas de Europa y de otras partes; pero el crecimiento y adelanto del pueblo de los Estados Unidos alcanzó tal grado en los años recientes, que la Orden consideró prudente establecer aquí un centro esotérico para la extensión de su obra. La Fraternidad Rosacruz es su última manifestación en forma física, para dar la más reciente o moderna versión de las Enseñanzas Rosacruces, en términos científicos del siglo veinte, los cuales, a más de ser simples y claros, están exentos de abstracciones y tecnicismos que pudieran parecer confusos. 
 
 La obra particular de la Fraternidad, ahora (1966) gobernada por una Junta de siete Directores elegidos entre los mismos Probacionistas por los miembros votantes (Mrs. Heindel desencarnó en mayo de 1949), es diseminar las doctrinas esotéricas de la Religión Cristiana, puesto que la Filosofía Rosacruz es considerada como cristiana-eso-térica. Está destinada a llegar a ser la Religión Universal del mundo, porque el Cristo tiene a su cargo la evolución humana durante el presente Gran Año Sideral de aproximadamente 25,000 años. Cualquiera que desee conformarse con las reglas de la Fraternidad, Escuela Preparatoria de la Orden Rosacruz, y que no sea hipnotizador, médium, quiromántico o astrólogo profesional, es aceptado para matricularse y estudiar sus Enseñanzas por correspondencia; no hay precio fijo para dar estas lecciones y la obra se lleva a cabo por medio de ofrendas voluntarias y el producto de la venta de sus libros. 
 
-Otras sociedades rosacruces de los Estados Unidos pretenden tener, según entendemos, descendencia directa de primitivas ramas de la antigua Orden Rosacruz en Inglaterra, Francia, Egipto y otros países. La Fraternidad Rosacruz no tiene conección directa con estas organizaciones, sino que simplemente representa un renacimiento de la Orden en el Mundo Occidental. 
-
-Fin 
+Otras sociedades rosacruces de los Estados Unidos pretenden tener, según entendemos, descendencia directa de primitivas ramas de la antigua Orden Rosacruz en Inglaterra, Francia, Egipto y otros países. La Fraternidad Rosacruz no tiene conección directa con estas organizaciones, sino que simplemente representa un renacimiento de la Orden en el Mundo Occidental.
