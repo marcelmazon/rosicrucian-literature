@@ -28,7 +28,7 @@ Este libro de instrucciones presenta en forma muy simple, las verdades de la pro
 
 Una de las instrucciones demuestra el valor espiritual de la Astrología como una de las claves del alma; en otra, son claramente definidas las alegorías astronómicas de la Biblia. El valor esotérico del Padrenuestro y el significado de la Estrella de Belén son claramente interpretados para el lector; también lo son la Crucifixión de Nuestro Señor Jesucristo y su significación oculta. La vida aquí y después de la muerte, los Ángeles y su labor con el hombre; Parsifal y los Misterios del Santo Grial; la Ciencia de la Nutrición, de la Salud y de la Juventud y muchos otros temas son abarcados en una forma original por un vidente que fue el mensajero elegido de esos grandes seres, los Hermanos Mayores de la Orden Rosacruz. 
 
-Mrs. Max Heindel
+\- Mrs. Max Heindel
 
 Mt. Ecclesia
 Octubre, 1939 
@@ -50,7 +50,6 @@ Octubre, 1939
 - [INSTRUCCIÓN XII: Parsifal: El Famoso Drama Musical de Wagner](#lecture-12)
 - [INSTRUCCIÓN XIII: Ángeles como Factores de la Evolución](#lecture-13)
 - [INSTRUCCIÓN XIV: Lucifer: ¿Tentador o Benefactor?](#lecture-14)
-
 - [INSTRUCCIÓN XV: Misterio del Gólgota y la Sangre Purificadora](#lecture-15)
 - [INSTRUCCIÓN XVI: Estrella de Belén, Un Hecho Místico](#lecture-16)
 - [INSTRUCCIÓN XVII: Misterio del Santo Grial](#lecture-17)
@@ -58,13 +57,9 @@ Octubre, 1939
 - [INSTRUCCIÓN XIX: Fuerza Futura: ¿Vril o Qué?](#lecture-19)
 - [INSTRUCCIÓN XX: Fraternidad y la Raza](#lecture-20)
 
-- [El Nacimiento de la Fraternidad en 1909](#)
-- [La Fraternidad Rosacruz](#)
-
 ### <h3 id="diagrams">DIAGRAMAS</h3>
 
 - [Un ciclo de vida](#diagram-a-life-cycle)
-- [Tabla de valores alimentarios](#)
 - [Los siete días de la creación](#diagram-the-seven-days-of-creation)
 - [Como arriba es abajo](#diagram-as-above-so-below)
 - [Permanencia relativa de los mundos visible e invisibles](#diagram-the-relative-permanency-of-the-visible-and-invisible-worlds)
@@ -74,9 +69,9 @@ Octubre, 1939
 - [El Padrenuestro](#the-lords-prayer)
 - [Constitución de la Tierra](#constitution-of-the-earth)
 
-NOTA: Estos diagramas fueron tomados del Concepto Rosacruz del Cosmos, de Max Heindel, y en algunos casos están numerados como en dicho libro 
+NOTA: Estos diagramas fueron tomados del Concepto Rosacruz del Cosmos, de Max Heindel, y en algunos casos están numerados como en dicho libro.
 
-### INSTRUCCIÓN I: EL ENIGMA DE LA VIDA Y DE LA MUERTE
+### <h3 id="lecture-1">INSTRUCCIÓN I: EL ENIGMA DE LA VIDA Y DE LA MUERTE</h3>
 
 En cada nacimiento, lo que parece ser una vida "nueva" viene al mundo. Poco a poco la pequeña forma crece, vive y se mueve entre nosotros y se convierte en un factor de nuestras vidas; pero, por último, llega un momento en el que la forma deja de moverse, muere y se desintegra. La vida que vino, sin que nosotros sepamos de dónde, ha vuelto nuevamente al más allá. Entonces, perplejos y doloridos, nos hacemos las tres grandes preguntas concernientes a nuestra propia existencia: ¿De dónde venimos? ¿Por qué estamos aquí? ¿A dónde vamos? 
 
@@ -84,19 +79,35 @@ El temible espectro de la Muerte arroja su sombra fatal sobre todos los umbrales
 
 Desgraciadamente, ha habido muchas especulaciones vagas de parte de personas que no saben, y existe popularmente una opinión aceptada de que no puede saberse nada definido sobre la parte más importante de nuestra existencia: la vida anterior a su manifestación a través del nacimiento y más allá del portal de la muerte. 
 
-Esa idea es errónea. El conocimiento definido, directo, puede ser obtenido por cualquiera que se tome el trabajo de desarrollar el "sexto sentido" que está latente en todos. Cuando se adquiere dicho sentido se abren nuestros ojos espirituales, de manera que entonces podemos percibir los espíritus de los que están a punto de entrar en la vida física por medio del nacimiento, y los de aquellos que acaban de pasar, al más allá después de la muerte. Los vemos tan clara y definidamente como vemos a los seres físicos mediante nuestra visión ordinaria. Ni siquiera es necesaria esa investigación directa para satisfacer a la mente inquieta, así como no lo es tampoco el visitar la China para conocer las condiciones en que se encuentra. Podemos conocer los países extranjeros por los relatos que hacen los viajeros que los han visitado. Y existen tantos conocimientos de esta clase concernientes a los mundos del más allá como sobre el interior de África, Australia o China. La solución del problema de la Vida y del Ser indicada en estas páginas está basada en los testimonios concurrentes de muchos que han desarrollado 1ª ya mencionada facultad y que se han calificado así para investigar los dominios suprafísicos de una manera científica. Está en armonía, además, con los hechos científicos, es una verdad eterna en la Naturaleza que gobierna el progreso humano, así como la gravedad sirve para mantener inmutables en sus órbitas a los astros que giran en torno del Sol. Tres teorías han sido emitidas para resolver el problema de la vida y de la muerte y se cree universalmente que una cuarta concepción es imposible. Siendo así, una de esas tres teorías debe ser la verdadera solución, o, en último caso el problema permanecería insoluble para el hombre. El enigma de la vida y de la muerte es un problema básico; todos tienen que resolverlo alguna vez y es de la mayor importancia para cada ser humano individual la aceptación de una de esas teorías, pues su elección coloreará su vida entera. Para poder hacer una elección inteligente, es necesario conocerlas todas, analizarlas, compararlas y aquilatarías, manteniendo la mente abierta y libre de toda idea preconcebida, lista para aceptar o rechazar cada teoría según sus méritos. Indiquemos primeramente esas tres teorías y veamos cuál de ellas concuerda con los hechos establecidos de la vida y en qué proporción están en armonía con otras leyes conocidas de la Naturaleza, porque razonablemente debemos esperar que, si son ciertas, todo desacuerdo con la Naturaleza sería imposible. Dichas teorías son: 
+Esa idea es errónea. El conocimiento definido, directo, puede ser obtenido por cualquiera que se tome el trabajo de desarrollar el "sexto sentido" que está latente en todos. Cuando se adquiere dicho sentido se abren nuestros ojos espirituales, de manera que entonces podemos percibir los espíritus de los que están a punto de entrar en la vida física por medio del nacimiento, y los de aquellos que acaban de pasar, al más allá después de la muerte. Los vemos tan clara y definidamente como vemos a los seres físicos mediante nuestra visión ordinaria. Ni siquiera es necesaria esa investigación directa para satisfacer a la mente inquieta, así como no lo es tampoco el visitar la China para conocer las condiciones en que se encuentra. Podemos conocer los países extranjeros por los relatos que hacen los viajeros que los han visitado. Y existen tantos conocimientos de esta clase concernientes a los mundos del más allá como sobre el interior de África, Australia o China. 
 
- 1. - La Teoría Materialista, que sostiene que la vida es una jornada de la cuna a la tumba; que la mente es el producto de la materia; que el hombre es la inteligencia más elevada del cosmos y que la inteligencia perece cuando el cuerpo se disuelve al morir. 
+La solución del problema de la Vida y del Ser indicada en estas páginas está basada en los testimonios concurrentes de muchos que han desarrollado 1ª ya mencionada facultad y que se han calificado así para investigar los dominios suprafísicos de una manera científica. Está en armonía, además, con los hechos científicos, es una verdad eterna en la Naturaleza que gobierna el progreso humano, así como la gravedad sirve para mantener inmutables en sus órbitas a los astros que giran en torno del Sol. 
 
- 2. - La Teoría Teológica, que afirma que a cada nuevo nacimiento un alma recién creada entra en la arena de la vida, acabada de hacer por la mano de Dios; que al final de un corto intervalo de vida en el mundo material pasa a través de las puertas de la muerte al invisible más allá y allí se queda; y que su felicidad o miseria allí queda determinada por toda la eternidad por su creencia anterior a la muerte. 
+Tres teorías han sido emitidas para resolver el problema de la vida y de la muerte y se cree universalmente que una cuarta concepción es imposible. Siendo así, una de esas tres teorías debe ser la verdadera solución, o, en último caso el problema permanecería insoluble para el hombre. 
 
- 3. - La Teoría del Renacimiento, que enseña que cada alma es una parte integrante de Dios, la que está desarrollando todas las posibilidades divinas, así como una simiente desarrolla a una planta; que por medio de repetidas existencias en cuerpos terrestres de creciente perfección, va desenvolviendo lentamente dichos poderes latentes, convirtiéndolos en energías dinámicas; que ninguno se pierde, pues todos los Egos realizarán, por último, la suprema perfección y reunión con Dios, llevando consigo la experiencia acumulada que es el fruto de su peregrinaje a través de la materia. 
+El enigma de la vida y de la muerte es un problema básico; todos tienen que resolverlo alguna vez y es de la mayor importancia para cada ser humano individual la aceptación de una de esas teorías, pues su elección coloreará su vida entera. Para poder hacer una elección inteligente, es necesario conocerlas todas, analizarlas, compararlas y aquilatarías, manteniendo la mente abierta y libre de toda idea preconcebida, lista para aceptar o rechazar cada teoría según sus méritos. Indiquemos primeramente esas tres teorías y veamos cuál de ellas concuerda con los hechos establecidos de la vida y en qué proporción están en armonía con otras leyes conocidas de la Naturaleza, porque razonablemente debemos esperar que, si son ciertas, todo desacuerdo con la Naturaleza sería imposible. Dichas teorías son: 
+
+1\. La Teoría Materialista, que sostiene que la vida es una jornada de la cuna a la tumba; que la mente es el producto de la materia; que el hombre es la inteligencia más elevada del cosmos y que la inteligencia perece cuando el cuerpo se disuelve al morir. 
+
+2\. La Teoría Teológica, que afirma que a cada nuevo nacimiento un alma recién creada entra en la arena de la vida, acabada de hacer por la mano de Dios; que al final de un corto intervalo de vida en el mundo material pasa a través de las puertas de la muerte al invisible más allá y allí se queda; y que su felicidad o miseria allí queda determinada por toda la eternidad por su creencia anterior a la muerte. 
+
+3\. La Teoría del Renacimiento, que enseña que cada alma es una parte integrante de Dios, la que está desarrollando todas las posibilidades divinas, así como una simiente desarrolla a una planta; que por medio de repetidas existencias en cuerpos terrestres de creciente perfección, va desenvolviendo lentamente dichos poderes latentes, convirtiéndolos en energías dinámicas; que ninguno se pierde, pues todos los Egos realizarán, por último, la suprema perfección y reunión con Dios, llevando consigo la experiencia acumulada que es el fruto de su peregrinaje a través de la materia. 
 
 Comparando la teoría materialista con las leyes conocidas de la Naturaleza, encontramos que es contraría a tan bien establecidas leyes, como las que declaran que la materia y la fuerza son indestructibles. De acuerdo con esas leyes, la mente no podría que dar destruida al morir, como dice la teoría materialista, porque cuando nada puede destruirse debe comprenderse también en ella a la mente. 
 
 Además, la mente es evidentemente superior a la materia, puesto que modela el rostro de tal manera que éste es un espejo de aquella; también sabemos que las partículas de nuestros cuerpos están cambiando continuamente y que un cambio completo tiene lugar por lo menos cada siete años. Si la teoría materialista fuera cierta, nuestra percepción interior debería sufrir también un cambio idéntico, sin conservar memoria alguna de lo que precedió a ese cambio; así que nadie podría recordar ningún suceso más de siete años. 
 
-Sabemos que no es ese el caso. Recordarnos toda nuestra vida; el más diminuto incidente, aunque olvidado en la vida corriente, puede recordarse vivísimamente sumergiendo a la persona en estado de trance. El materialismo no tiene en cuenta para nada esos estados subconscientes o supraconscientes; como no puede explicarlos, trata de ignorarlos, pero ante las investigaciones científicas que han establecido la verdad de los fenómenos psíquicos más allá de toda duda, el querer ignorarlos más bien que negar esos hechos, es un obstáculo fatal para la teoría que dice resolver el mayor problema de la vida: la Vida misma. La teoría materialista tiene otros muchos defectos que la hacen indigna de ser aceptada; pero ya hemos dicho lo suficiente para que la rechacemos justificadamente y dirijamos nuestra atención hacia las otras dos. Una de las mayores dificultades de la doctrina teológica, es su completa y confesada insuficiencia. De acuerdo con su teoría, de que se crea un alma nueva en cada nacimiento, deben haberse creado ya millones de almas desde el principio del mundo (aun cuando ese principio haya tenido lugar solo 6.000 años atrás. De ellas únicamente, según ciertas sectas se salvarán 144.000 y el resto irá al tormento por siempre jamás. Y a eso se le llama el "Plan de Salvación de Dios" y se lo exhibe como una prueba de Su admirable Amor. Supongamos que se recibe un mensaje radiotelegráfico de Nueva York, indicando que un gran transatlántico está hundiéndose en el Sandy Hook y que sus 3.000 pasajeros están en peligro de ahogarse. Si se enviara un pequeño y ligero bote automóvil en su ayuda y lograra salvar a dos o tres, ¿consideraríamos eso como un magnífico y glorioso plan de salvación? Ciertamente que no. únicamente cuando se enviaran los medios adecuados para salvar a la gran mayoría por lo menos, podría decirse que era un buen plan de salvación. Y el "plan de salvación" que ofrecen los teólogos, es peor aún que el enviar ese botecito automóvil para salvar a los pasajeros del transatlántico, porque dos o tres es una proporción de salvados sobre el total de 3.000 mucho mayor que 144.000 salvados de todos los millones de almas creadas según los teólogos. Si Dios hubiera realmente formulado ese plan, es muy lógico que no sería omnisciente, y si permite que el diablo recoja la mejor parte, según se deduce de esa doctrina, y deja que la gran mayoría de la humanidad sea atormentada por siempre, no puede ser bueno. Si no puede ayudarse a sí mismo no es todopoderoso. En ningún caso podría ser Dios. Tales suposiciones son, sin embargo, completamente absurdas como cosas reales, porque ese no puede ser el plan de Dios y es una gran blasfemia atribuírselo. Si dirijamos nuestra atención a la doctrina del Renacimiento (encarnación en cuerpos humanos), que postula un lento proceso de desarrollo efectuado mediante la persistencia más decidida por medio de repetidos renacimientos en formas humanas de creciente eficiencia, por medio de lo cual todos los seres alcanzarían a su debido tiempo alturas de inconcebible espiritualidad para nuestro entendimiento actual limitado, podremos percibir su armonía con los métodos de la Naturaleza. Por todas partes se encuentra en la Naturaleza esa lucha lenta y persistente por la perfección; y en ninguna parte encontramos ningún proceso súbito, bien sea de creación o de destrucción, análogo al plan que los teólogos y los materialistas pregonan. 
+Sabemos que no es ese el caso. Recordarnos toda nuestra vida; el más diminuto incidente, aunque olvidado en la vida corriente, puede recordarse vivísimamente sumergiendo a la persona en estado de trance. El materialismo no tiene en cuenta para nada esos estados subconscientes o supraconscientes; como no puede explicarlos, trata de ignorarlos, pero ante las investigaciones científicas que han establecido la verdad de los fenómenos psíquicos más allá de toda duda, el querer ignorarlos más bien que negar esos hechos, es un obstáculo fatal para la teoría que dice resolver el mayor problema de la vida: la Vida misma. 
+
+La teoría materialista tiene otros muchos defectos que la hacen indigna de ser aceptada; pero ya hemos dicho lo suficiente para que la rechacemos justificadamente y dirijamos nuestra atención hacia las otras dos. 
+
+Una de las mayores dificultades de la doctrina teológica, es su completa y confesada insuficiencia. De acuerdo con su teoría, de que se crea un alma nueva en cada nacimiento, deben haberse creado ya millones de almas desde el principio del mundo (aun cuando ese principio haya tenido lugar solo 6.000 años atrás. De ellas únicamente, según ciertas sectas se salvarán 144.000 y el resto irá al tormento por siempre jamás. Y a eso se le llama el "Plan de Salvación de Dios" y se lo exhibe como una prueba de Su admirable Amor. 
+
+Supongamos que se recibe un mensaje radiotelegráfico de Nueva York, indicando que un gran transatlántico está hundiéndose en el Sandy Hook y que sus 3.000 pasajeros están en peligro de ahogarse. Si se enviara un pequeño y ligero bote automóvil en su ayuda y lograra salvar a dos o tres, ¿consideraríamos eso como un magnífico y glorioso plan de salvación? Ciertamente que no. Únicamente cuando se enviaran los medios adecuados para salvar a la gran mayoría por lo menos, podría decirse que era un buen plan de salvación. 
+
+Y el "plan de salvación" que ofrecen los teólogos, es peor aún que el enviar ese botecito automóvil para salvar a los pasajeros del transatlántico, porque dos o tres es una proporción de salvados sobre el total de 3.000 mucho mayor que 144.000 salvados de todos los millones de almas creadas según los teólogos. Si Dios hubiera realmente formulado ese plan, es muy lógico que no sería omnisciente, y si permite que el diablo recoja la mejor parte, según se deduce de esa doctrina, y deja que la gran mayoría de la humanidad sea atormentada por siempre, no puede ser bueno. Si no puede ayudarse a sí mismo no es todopoderoso. En ningún caso podría ser Dios. Tales suposiciones son, sin embargo, completamente absurdas como cosas reales, porque ese no puede ser el plan de Dios y es una gran blasfemia atribuírselo. 
+
+Si dirijamos nuestra atención a la doctrina del Renacimiento (encarnación en cuerpos humanos), que postula un lento proceso de desarrollo efectuado mediante la persistencia más decidida por medio de repetidos renacimientos en formas humanas de creciente eficiencia, por medio de lo cual todos los seres alcanzarían a su debido tiempo alturas de inconcebible espiritualidad para nuestro entendimiento actual limitado, podremos percibir su armonía con los métodos de la Naturaleza. Por todas partes se encuentra en la Naturaleza esa lucha lenta y persistente por la perfección; y en ninguna parte encontramos ningún proceso súbito, bien sea de creación o de destrucción, análogo al plan que los teólogos y los materialistas pregonan. 
 
 La ciencia reconoce que el proceso evolutivo como método de la Naturaleza es igual tratándose del astro como de la estrella de mar; del microbio como del hombre. Es el curso del espíritu en el tiempo y conforme miramos en torno nuestro notamos la evolución en nuestro universo tridimensional; no podemos escapar al hecho evidente de que su sendero es también de tres dimensiones: una espiral; cada espiral es un cielo y los cielos se suceden a los cielos en progresión ininterrumpida, así como las espiras de una espiral se suceden unas a otras, siendo cada cielo el producto mejorado del precedente, y a la vez la base del futuro progreso de los ciclos subsiguientes. 
 
@@ -110,11 +121,7 @@ La modesta plantita del jardín y el gigantesco árbol de California con sus cua
 
 Encontraremos otra ilustración del progreso espiral, en el curso anual de nuestro planeta. En la primavera, la Tierra emerge de su período de reposo, de su sueño invernal vemos la vida por doquier. La Naturaleza pone en movimiento todas sus actividades para crear. El tiempo pasa; el maíz y las uvas maduran y se cosechara y de nuevo el silencio y la inactividad del invierno toman el lugar de la actividad estival; nuevamente el albo manto de la nieve, se posa sobre la Tierra. Pero no duerme para siempre, volverá a entonar de nuevo su canción en la siguiente primavera y entonces progresará un poco más en el sendero del tiempo. 
 
-¿Es posible que una ley tan universal en todo los dominios de Naturaleza no tenga efecto en el caso del hombre? 
-
-¿Volverá la Tierra a despertarse año tras año de su sueño invernal volverán el árbol y las flores a revivir nuevamente y el hombre va a morir? No, eso es imposible en un universo regido por una ley inmutable. La misma ley que despierta a la vida de nuevo en una planta, debe despertar al ser humano para hacerle dar un paso más hacia la perfección. Por lo tanto, la doctrina del renacimiento o encarnaciones repetidas en cuerpos humanos o vehículos de creciente perfección, está en un todo de acuerdo con la evolución y con los fenómenos de la Naturaleza, cuando afirma que el nacimiento y la muerte se siguen uno a otro sucesivamente. Está en plena armonía con la Ley de Ciclicidad Alternativa que decreta la actividad y el reposo, el flujo y el reflujo, el verano y el invierno, debiendo seguirse unos a otros en ininterrumpida sucesión. 
-
-Está también de perfecto acuerdo con la fase espiral de la Ley Evolutiva, cuando afirma que cada vez que el espíritu vuelve a nacer, toma un cuerpo más perfecto y conforme el hombre progresa en realización mental, moral y espiritual debido a las experiencias acumuladas del pasado, alcanza un medio ambiente mejorado. 
+¿Es posible que una ley tan universal en todo los dominios de Naturaleza no tenga efecto en el caso del hombre? ¿Volverá la Tierra a despertarse año tras año de su sueño invernal volverán el árbol y las flores a revivir nuevamente y el hombre va a morir? No, eso es imposible en un universo regido por una ley inmutable. La misma ley que despierta a la vida de nuevo en una planta, debe despertar al ser humano para hacerle dar un paso más hacia la perfección. Por lo tanto, la doctrina del renacimiento o encarnaciones repetidas en cuerpos humanos o vehículos de creciente perfección, está en un todo de acuerdo con la evolución y con los fenómenos de la Naturaleza, cuando afirma que el nacimiento y la muerte se siguen uno a otro sucesivamente. Está en plena armonía con la Ley de Ciclicidad Alternativa que decreta la actividad y el reposo, el flujo y el reflujo, el verano y el invierno, debiendo seguirse unos a otros en ininterrumpida sucesión. Está también de perfecto acuerdo con la fase espiral de la Ley Evolutiva, cuando afirma que cada vez que el espíritu vuelve a nacer, toma un cuerpo más perfecto y conforme el hombre progresa en realización mental, moral y espiritual debido a las experiencias acumuladas del pasado, alcanza un medio ambiente mejorado. 
 
 Cuando tratamos de resolver el enigma de la vida y de la muerte; cuando tratamos de encontrar una respuesta que satisfaga al mismo tiempo a la cabeza y el corazón sobre la diferente condición o dotes de los seres humanos, que de una razón sobre la existencia de la tristeza y del dolor; cuando preguntamos por qué uno está sumergido en el mayor lujo, mientras que otro recibe más puntapiés que mendrugos; por qué uno obtiene una educación moral mientras que a otro se le enseña a robar y a mentir; por qué uno tiene el rostro de una Venus en tanto que el otro tiene la cabeza de una Medusa; por qué uno goza de perfecta salud, mientras que otro nunca conoce un momento de reposo en su dolor; por qué uno tiene la inteligencia de un Sócrates y otro solo puede contar "uno, dos, muchos" como los aborígenes australianos, no recibimos satisfacción alguna ni de los materialistas ni de los teólogos. El materialista expone su ley de herencia como razón de la enfermedad "y respecto a las condiciones económicas un Spencer nos dice que en el mundo animal la ley de la existencia es "comer o ser comido" y en la sociedad civilizada es "engañar o ser engañado." 
 
@@ -140,7 +147,11 @@ Cuando nos convenzamos de que eso es así, la vida tomará enseguida un aspecto 
 
 La doctrina del renacimiento se confunde a veces con la teoría de la trasmigración, que dice que un alma humana puede encarnarse en un animal. Eso no tiene base alguna en la Naturaleza. Cada especie animal es la emanación de un Espíritu- Grupo, que la dirige desde afuera por sugestión. Dicho Espíritu actúa en el Mundo del Deseo, y como la distancia casi no existe allí, puede influenciar a sus miembros sin importar nada el sitio donde se encuentren éstos. El Espíritu humano, el Ego, por el contrario, penetra dentro de un cuerpo denso; hay un Espíritu individual en cada persona, morando internamente en su instrumento y guiándolo desde el interior. Esos dos estados evolutivos son completamente diferentes, y es tan imposible que el hombre entre en un cuerpo animal, como que el Espíritu-Grupo tome forma humana. 
 
-La pregunta: ¿por qué no recordamos nuestro pasado? Es otra dificultad aparente. Pero si comprendemos que en cada nacimiento obtenemos un cerebro enteramente nuevo y que el Espíritu humano no tiene aún mayor dominio sobre su vehículo y se encuentra limitado por su nuevo medio ambiente, no debe sorprendernos que no pueda hacer una fuerte impresión en el cerebro en los días de la infancia. Algunos niños recuerdan su pasado, especialmente en los primeros años y una de las cosas más tristes de la infancia es el que sean tal mal comprendidos por sus mayores. Cuando los niños hablan del pasado, los ridiculizan y hasta los castigan por andar "con cuentos." Si el niño habla de sus invisibles compañeros de juego y de que "ve cosas" - pues muchos niños son clarividentes- tropiezan con tratamientos análogos y el resultado inevitable es que el niño aprende a callarse hasta que pierde por completo esa facultad. Algunas veces ocurre, sin embargo, que se presta atención a la charla de un niño y entonces se obtienen como resultado admirables revelaciones. El autor oyó hablar de un caso semejante, hace algunos años en la costa del Pacífico. En la ciudad de Santa Bárbara, una niñita echó a correr hacia un señor llamado Roberts, que iba por la calle, llamándole papá, ¡¡insistiendo en decir que ella había vivido con él y otra mamá en una casita cercana a un arroyuelo, y que una mañana las había abandonado y no habla vuelto más. Ella y su madre habían muerto de hambre y la pequeña terminó diciendo: "Pero no, yo no morí; yo vine aquí." No contó la historia enseguida o sucintamente, sino que en el transcurso de una tarde, por preguntas intermitentes, se fue obteniendo ese relato. La historia del señor Roberts es la de una fuga juvenil, casamiento y migración de Inglaterra a Australia; de la construcción de una casita cerca de un arroyuelo en un paraje solitario; del abandono sin previo aviso de su esposa e hija al ser arrestado y llevado a la costa tras el cañón de un arma por los agentes que temían un engaño; de la deportación a Inglaterra acusado de un robo bancario cometido la noche en que había partido para Australia; de la forma en que demostró su inocencia y se accedió recién entonces a su persistente pedido de que buscaran a su esposa e hija que debían estar a punto de morir de inanición; de como se envió un telegrama y le organizó una partida de búsqueda, hallándose los esqueletos de una mujer y de una niña. Todas estas cosas corroboraron la historia de la nena de tres años, a quien se le mostraron algunas fotografías mezcladas, señalando ella enseguida los retratos del señor Roberts y de su esposa, si bien el primero había cambiado mucho en los dieciocho años transcurridos entre la tragedia ocurrida entonces y el incidente de Santa Bárbara. 
+La pregunta: ¿por qué no recordamos nuestro pasado? Es otra dificultad aparente. Pero si comprendemos que en cada nacimiento obtenemos un cerebro enteramente nuevo y que el Espíritu humano no tiene aún mayor dominio sobre su vehículo y se encuentra limitado por su nuevo medio ambiente, no debe sorprendernos que no pueda hacer una fuerte impresión en el cerebro en los días de la infancia. 
+
+Algunos niños recuerdan su pasado, especialmente en los primeros años y una de las cosas más tristes de la infancia es el que sean tal mal comprendidos por sus mayores. Cuando los niños hablan del pasado, los ridiculizan y hasta los castigan por andar "con cuentos." Si el niño habla de sus invisibles compañeros de juego y de que "ve cosas" - pues muchos niños son clarividentes- tropiezan con tratamientos análogos y el resultado inevitable es que el niño aprende a callarse hasta que pierde por completo esa facultad. Algunas veces ocurre, sin embargo, que se presta atención a la charla de un niño y entonces se obtienen como resultado admirables revelaciones. El autor oyó hablar de un caso semejante, hace algunos años en la costa del Pacífico. 
+
+En la ciudad de Santa Bárbara, una niñita echó a correr hacia un señor llamado Roberts, que iba por la calle, llamándole papá, ¡¡insistiendo en decir que ella había vivido con él y otra mamá en una casita cercana a un arroyuelo, y que una mañana las había abandonado y no habla vuelto más. Ella y su madre habían muerto de hambre y la pequeña terminó diciendo: "Pero no, yo no morí; yo vine aquí." No contó la historia enseguida o sucintamente, sino que en el transcurso de una tarde, por preguntas intermitentes, se fue obteniendo ese relato. La historia del señor Roberts es la de una fuga juvenil, casamiento y migración de Inglaterra a Australia; de la construcción de una casita cerca de un arroyuelo en un paraje solitario; del abandono sin previo aviso de su esposa e hija al ser arrestado y llevado a la costa tras el cañón de un arma por los agentes que temían un engaño; de la deportación a Inglaterra acusado de un robo bancario cometido la noche en que había partido para Australia; de la forma en que demostró su inocencia y se accedió recién entonces a su persistente pedido de que buscaran a su esposa e hija que debían estar a punto de morir de inanición; de como se envió un telegrama y le organizó una partida de búsqueda, hallándose los esqueletos de una mujer y de una niña. Todas estas cosas corroboraron la historia de la nena de tres años, a quien se le mostraron algunas fotografías mezcladas, señalando ella enseguida los retratos del señor Roberts y de su esposa, si bien el primero había cambiado mucho en los dieciocho años transcurridos entre la tragedia ocurrida entonces y el incidente de Santa Bárbara. 
 
 No debe suponerse, sin embargo, que todos los que pasan por las puertas de la muerte renazcan tan pronto como aquella nena. Un intervalo tan corto no daría al alma oportunidad alguna para el importante trabajo de asimilar sus experiencias y prepararse para una vida terrestre nueva. Pero un niño de tres años no tiene experiencia mayormente, de manera que busca un cuerpo rápidamente, encarnándose a menudo en la misma familia. Los niños mueren frecuentemente debido a que los padres cambian sus hábitos, lo que frustra el cumplimiento de las deudas de sus actos pasados. Entonces es necesario buscar otra oportunidad; o bien nacen y mueren para enseñar a los padres alguna lección que necesiten. En un caso, un Ego renació ocho veces en la misma familia, con ese propósito, antes de que aquélla aprendiera la lección. Entonces renació en otra parte, Aquel Ego era un amigo de la familia que adquirió grandes méritos ayudándola de esa manera. 
 
@@ -151,42 +162,35 @@ Así como el paso de la Tierra en su órbita en torno del Sol hace cambiar el cl
 Por lo tanto, el Ego renace dos veces en el tiempo que el Sol tarda en pasar de un signo a otro del Zodiaco, alrededor de unos 2.100 años. Normalmente transcurren, pues, unos 1.000 años entre dos encarnaciones, y como las experiencias de un hombre son completamente distintas de las de una mujer - no variando además mayormente dichas condiciones en un millar de años, el Espíritu renace alternativamente como hombre y como mujer. Pero ésta no es una regla rígida y fatal: está sujeta a modificaciones cuando así lo requiere la Ley de Consecuencia. 
 
 De esta manera resuelve la ciencia oculta el enigma de la vida, en la búsqueda del Ego por experiencia, teniendo todas las condiciones ese propósito en vista y estando todo determinado automáticamente por los méritos de cada uno, quita a la muerte todo terror, colocando cada cosa en el lugar que le corresponde, como simples incidentes de una vida más grande, análoga al hecho de irse a otra ciudad para residir en ella algún tiempo; nos hace la despedida de los que amamos más fácil al asegurarnos que el verdadero amor que sintamos será el medio de reunirnos en el futuro y nos proporciona la mayor esperanza de la vida de que obtendremos algún día el conocimiento que iluminará todos los problemas, conectando nuestras vidas sucesivas y, lo mejor de todo, según nos dice la ciencia oculta, tenemos a nuestro alcance, por medio de nuestro esfuerzo, la posibilidad de apresurar ese glorioso día, en que la fe será absorbida por el conocimiento. Entonces captaremos en su sentido más elevado la belleza de la afirmación poética de Sir Edwin Arnold sobre la doctrina del renacimiento: 
-
-Never the Spirit was born!  
-The Spirit shall cease to be never  
-Never was time it was not,  
-End and beginning are dreams.  
-Birthless and deathless remaineth the spirit forever.  
-Death has not touched it at all,  
-Dead though the house of it seems.  
-Nay! but as one layeth  
-A worn-out robe away,  
-And taking another sayeth:  
-This will I wear today;  
-So putteth by the Spirit  
-Lightly its garment of flesh  
-And passeth on to inherit  
-A residence of flesh  
-Traducción:  
+ 
+``` 
 El espíritu nunca ha nacido  
 Ni cesará de ser jamás  
 En tiempo alguno ha dejado de ser,  
 Principio y fin no son más que ensoñaciones.  
-El espíritu ha permanecido siempre libre de todo nacimiento o muerte.  
+El espíritu ha permanecido siempre libre 
+de todo nacimiento o muerte.  
+
+Death has not touched it at all,
+Dead though the house of it seems.
+
 Ésta en nada lo afecta,  
-Así como uno se quita  
-Un vestido viejo  
+Así como uno se quita Un vestido viejo  
 Y tome otro nuevo diciendo:  
 Hoy usaré éste;  
 Así también deja el espíritu  
 Su ropaje de carne  
-Y va en busca de otro nuevo.  
+Y va en busca 
+de otro nuevo.  
+```
 
-### INSTRUCCIÓN II: ¿DÓNDE ESTÁN LOS MUERTOS?
+### <h3 id="lecture-2">INSTRUCCIÓN II: ¿DÓNDE ESTÁN LOS MUERTOS?</h3>
 
 Un poco de meditación hará evidente a cualquier investigador que vivimos en un mundo de efectos que es el resultado de causas invisibles. Vemos la Materia y la forma, pero la Fuerza que moldea a la materia en formas y la vivifica es invisible para nosotros. No podemos conocer la vida directamente por medio de los sentidos; es invisible y existe por sí mismo independiente de las diversas formas que vemos como manifestación de ella. 
 
-Electricidad, magnetismo, vapor, son otros tantos nombres que damos a fuerzas que no podrán ver nunca los ojos físicos, si bien sujetándolas a ciertas leyes descubiertas por la experimentación podemos convertirlas en nuestros servidores más valiosos. Vemos su manifestación en el movimiento de los automóviles, en los ferrocarriles y vapores; ellas iluminan nuestro camino por la noche o llevan nuestros mensajes en torno del globo con una velocidad tal, que el espacio queda casi como aniquilado, poniendo las antípodas al alcance de nuestra mano en pocos segundos de tiempo. Ellas están enteramente bajo nuestro dominio, infatigable y fieles en la realización de innumerables tareas, si bien, como ya dijimos, nunca hemos visto a esas fidelísimas e inestimables servidoras. Esas fuerzas naturales no son ni ciegas ni ininteligentes como equivocadamente creemos; hay muchas clases de ellas y obran en diferentes sentidos en la vida. Puede ser que una ilustración haga más claro su estado con relación a nosotros. Supongamos un carpintero construyendo una empalizada y un perro ante él observándolo. El perro ve al carpintero y a su obra a la vez, si bien no comprende del todo que es lo que está haciendo. Si el carpintero fuera invisible para el perro éste vería que la empalizada se iba formando lentamente, vería como se hundían los clavos, percibiría la manifestación pero no la causa y estaría entonces en la misma relación respecto al carpintero que nosotros respecto a las fuerzas naturales que se manifiestan en torno nuestro como gravedad, electricidad o magnetismo. 
+Electricidad, magnetismo, vapor, son otros tantos nombres que damos a fuerzas que no podrán ver nunca los ojos físicos, si bien sujetándolas a ciertas leyes descubiertas por la experimentación podemos convertirlas en nuestros servidores más valiosos. Vemos su manifestación en el movimiento de los automóviles, en los ferrocarriles y vapores; ellas iluminan nuestro camino por la noche o llevan nuestros mensajes en torno del globo con una velocidad tal, que el espacio queda casi como aniquilado, poniendo las antípodas al alcance de nuestra mano en pocos segundos de tiempo. Ellas están enteramente bajo nuestro dominio, infatigable y fieles en la realización de innumerables tareas, si bien, como ya dijimos, nunca hemos visto a esas fidelísimas e inestimables servidoras. 
+
+Esas fuerzas naturales no son ni ciegas ni ininteligentes como equivocadamente creemos; hay muchas clases de ellas y obran en diferentes sentidos en la vida. Puede ser que una ilustración haga más claro su estado con relación a nosotros. Supongamos un carpintero construyendo una empalizada y un perro ante él observándolo. El perro ve al carpintero y a su obra a la vez, si bien no comprende del todo que es lo que está haciendo. Si el carpintero fuera invisible para el perro éste vería que la empalizada se iba formando lentamente, vería como se hundían los clavos, percibiría la manifestación pero no la causa y estaría entonces en la misma relación respecto al carpintero que nosotros respecto a las fuerzas naturales que se manifiestan en torno nuestro como gravedad, electricidad o magnetismo. 
 
 Durante las últimas centurias, pero especialmente en los últimos sesenta años, la ciencia ha hecho enormes progresos en la investigación del mundo en el que vivimos y el resultado ha sido la revelación en todo sentido de un mundo anteriormente invisible. Con telescopios de creciente poder los astrónomos han ido penetrando el espacio, descubriendo más y más mundos; con admirable ingeniosidad han unido la cámara obscura al telescopio y han fotografiado así soles que están a enormes distancias de nosotros, tanto, que sus rayos no impresionan nuestra retina y únicamente pueden encontrarse mediante largas horas de exposición con placas sumamente sensibles. 
 
@@ -214,7 +218,9 @@ La ciencia oculta comienza su investigación en el punto en el que la ciencia ma
 
 "Pero" dirán algunos "¿Por qué molestarse por los mundos invisibles? Si estamos colocados en este mundo material ¿qué tenemos que hacer en esos mundos invisibles ahora? Y aún cuando sea cierto que vamos a ellos después de la muerte, ¿por qué no ocuparnos de cada mundo a la vez, a su debido tiempo? Bastantes molestias y fatigas nos proporciona éste hoy, ¿para qué aumentarlas más?" 
 
-Seguramente, esa concepción de las cosas es muy estrecha. En primer término, el conocimiento de lo que ocurre después de la muerte nos quitaría el miedo de ella que atormenta a tanta gente aún cuando gocen de buena salud. Aún en la vida más libre de cuidados hay momentos en los que alguna vez llega el pensamiento de aquélla en la oscuridad, lo que cierra los sentidos a la alegría de la vida, y cualquier explicación que ofrezca un conocimiento definido, de confianza, sobre el asunto, debe ser seguramente bien recibido. Además, cuando miramos en torno nuestro en el mundo, vemos que hay una ley evidente hasta para los más tardos: la ley de causalidad. Nuestro trabajo y condiciones diarias dependen de lo que hicimos o dejamos de hacer el día anterior; nos es absolutamente imposible librarnos de nuestro pasado, el poder "comenzar nuevamente en libertad." No podemos realizar acto alguno que no esté en relación con nuestros actos anteriores, limitados y rodeados como estamos por nuestras acciones primitivas; y es muy razonable suponer que cualesquiera que puedan ser los modos de expresión de la vida en el mundo invisible, estarán determinados en alguna forma por nuestra manera actual de vivir. Y sería igualmente lógico declarar que si se pudiera obtener alguna información de confianza sobre ese mundo invisible se obraría sabiamente preparándose para ello, por las mismas razones que cuando deseamos viajar por países extranjeros tratamos antes de familiarizarnos con su geografía, leyes, costumbres, lenguaje y otras cosas necesarias. Hacemos esto porque sabemos que cuanto más equipados estemos con ese conocimiento, tanto más provecho sacaremos de nuestros viajes y menores serán las molestias que nos ocasionarán esos cambios. Y lo mismo deber ser lógicamente cierto respecto a los estados post-mortem. 
+Seguramente, esa concepción de las cosas es muy estrecha. En primer término, el conocimiento de lo que ocurre después de la muerte nos quitaría el miedo de ella que atormenta a tanta gente aún cuando gocen de buena salud. Aún en la vida más libre de cuidados hay momentos en los que alguna vez llega el pensamiento de aquélla en la oscuridad, lo que cierra los sentidos a la alegría de la vida, y cualquier explicación que ofrezca un conocimiento definido, de confianza, sobre el asunto, debe ser seguramente bien recibido. 
+
+Además, cuando miramos en torno nuestro en el mundo, vemos que hay una ley evidente hasta para los más tardos: la ley de causalidad. Nuestro trabajo y condiciones diarias dependen de lo que hicimos o dejamos de hacer el día anterior; nos es absolutamente imposible librarnos de nuestro pasado, el poder "comenzar nuevamente en libertad." No podemos realizar acto alguno que no esté en relación con nuestros actos anteriores, limitados y rodeados como estamos por nuestras acciones primitivas; y es muy razonable suponer que cualesquiera que puedan ser los modos de expresión de la vida en el mundo invisible, estarán determinados en alguna forma por nuestra manera actual de vivir. Y sería igualmente lógico declarar que si se pudiera obtener alguna información de confianza sobre ese mundo invisible se obraría sabiamente preparándose para ello, por las mismas razones que cuando deseamos viajar por países extranjeros tratamos antes de familiarizarnos con su geografía, leyes, costumbres, lenguaje y otras cosas necesarias. Hacemos esto porque sabemos que cuanto más equipados estemos con ese conocimiento, tanto más provecho sacaremos de nuestros viajes y menores serán las molestias que nos ocasionarán esos cambios. Y lo mismo deber ser lógicamente cierto respecto a los estados post-mortem. 
 
 Nuevamente el objeto dirá: ¡Pero si precisamente está ahí la cuestión! Sean cuales fueren las condiciones después de la muerte nadie las conoce con certeza. Los que dicen conocerlas difieren todos en sus relatos, muchos de los cuales son irrazonables o imposibles." 
 
@@ -252,7 +258,9 @@ En primer término está el testimonio de Juana de Arco, la "Doncella de Orleans
 
 Ante esa prueba se quitó el comando del ejército francés de manos de experimentados generales, que habían sido derrotados por los ingleses en todas partes y se lo puso en manos de esa niña que nada sabía de estrategia, si bien guiada por sus invisibles guías llevó las tropas francesas a la victoria. Su conocimiento de la táctica militar fue la constante admiración de sus compañeros y en sí mismo era una prueba de la dirección invisibles que ella invocaba. 
 
-Vemos después su apresamiento, sujeta durante años enteros a traiciones y sufrimientos por sus crueles perseguidores, quienes la querían inducir a que dijera que no había habido tales voces, pero los archivos de su proceso y de las diferentes pruebas a que fue sometida demuestran por sus respuestas una sencillez mental, una inocencia inmaculada y una rectitud sin igual en los anales de la historia, lo que confundía a sus jueces más y más. Ni aún la muerte en la hoguera la pudo hacer abjurar la verdad que conocía, y hasta en los tiempos actuales su testimonio respecto a las voces guiadoras del mundo invisible se mantiene firme, sellado con su sangre. Esta mártir de la verdad ha sido últimamente canonizada por la misma iglesia que antes la condenó. -" Ah, dirá alguno, si bien no hay duda alguna de que era una honrada muchacha y sencilla campesina, estaba sufriendo alucinaciones"... ¡Extrañas alucinaciones las que le permitieron señalar al rey sin vacilar, a quien no había visto nunca, y decirle un secreto que solo él conocía, y describir batallas que se estaban efectuando a muchas millas de distancia, lo que después era corroborado por los que habían tomado parte en ellas! 
+Vemos después su apresamiento, sujeta durante años enteros a traiciones y sufrimientos por sus crueles perseguidores, quienes la querían inducir a que dijera que no había habido tales voces, pero los archivos de su proceso y de las diferentes pruebas a que fue sometida demuestran por sus respuestas una sencillez mental, una inocencia inmaculada y una rectitud sin igual en los anales de la historia, lo que confundía a sus jueces más y más. Ni aún la muerte en la hoguera la pudo hacer abjurar la verdad que conocía, y hasta en los tiempos actuales su testimonio respecto a las voces guiadoras del mundo invisible se mantiene firme, sellado con su sangre. Esta mártir de la verdad ha sido últimamente canonizada por la misma iglesia que antes la condenó.
+
+" Ah, dirá alguno, si bien no hay duda alguna de que era una honrada muchacha y sencilla campesina, estaba sufriendo alucinaciones"... ¡Extrañas alucinaciones las que le permitieron señalar al rey sin vacilar, a quien no había visto nunca, y decirle un secreto que solo él conocía, y describir batallas que se estaban efectuando a muchas millas de distancia, lo que después era corroborado por los que habían tomado parte en ellas! 
 
 Pero pasemos al segundo ejemplo, que no se refiere seguramente a una "mente sencilla." En ese respecto Sócrates era una absoluta antítesis de Juana de Arco, porque era la inteligencia más sutil, la mente más grande que hayamos conocido, no igualada en los presentes días. También él selló su testimonio sobre la voz guiadora del mundo invisible con su vida y podemos tomar como un hecho evidente el que esa voz debe haber sido extraordinariamente inteligente, pues si no, no hubiera podido aconsejar a un sabio tan grande como Sócrates. 
 
@@ -266,98 +274,64 @@ Viniendo esa afirmación de donde viene, de uno de los más grandes hombres de c
 
 Habiendo, pues, examinado evidencias inductivas, deductivas y directas, podemos agregar la existencia de otro mundo, intangible para los cinco sentidos, pero fácil de investigar por medio del "sexto sentido," hecho natural, reconozcámoslo o no, así como la luz y el color existen por doquiera, en torno del ciego y del que ve. Es la ceguera del hombre la que le impide verlos. Es nuestra "ceguera" la que nos impide ver los dominios suprafísicos; pero para todos los que se tomen el trabajo de despertar sus facultades latentes la apertura del sentido correspondiente no es más que cuestión de tiempo. Cuando ese tiempo llegue veremos que los llamados "muertos" están todos en torno nuestro y que en realidad "no hay muerte," como John McCreery dice en su hermosísimo poema: 
 
-There is no death. The stars go down  
-To rise upon another shore,  
-And bright in heaven's jeweled crown  
-They shine for evermore.  
-There is no death. The forest leaves  
-Convert to life the viewless air;  
-The rocks disorganize to feed  
-The hungry moss they bear.  
-There is no death. The dust we tread  
-Shall change beneath the summer showers  
-To golden grain or mellow fruit,  
-Or rainbow-tinted flowers.  
-There is no death. The leaves may fall,  
-The flowers may fade and pass away-  
-They only wait through wintry hours,  
-The warm, sweet breath of May.  
-There is no death, although we grieve  
-When beautiful familiar forms  
-That we have learned to love are torn  
-From our embracing arms.  
-Although with bowed and breaking heart  
-With sable garb and silent tread  
-We hear their senseless dust to rest  
-And say that they are dead-  
-They are not dead. They have but passed  
-Beyond the mists that blind us here  
-Into the new and larger life  
-Of that serener sphere.  
-They have but dropped their robe of clay  
-To put a shining raiment on;  
-They have not wandered far away  
-They are not "lost" or "gone"  
-Trough unseen to the mortal eye,  
-They still are here and love us yet;  
-The dear ones they have left behind  
-They never do forget.  
-Sometimes upon our fevered brew  
-We feel their touch, a breath of balm;  
-Our spirit sees them, and our hearts  
-Grow comforted and calm.  
-Yes, ever near us, though unseen,  
-Our dear, immortal spirits tread  
-For all God's boundless Universe  
-Is Life-there are no dead.  
-
-Traducción:  
+```
 La muerte no existe. Los astros se ponen  
 Para surgir sobre otros cielos  
 Y en la corona joyante del firmamento  
 Brillan eternamente.  
+
 La muerte no existe. Las hojas del bosque  
 Se convierten en la vida del aire invisible  
 Las rocas se desintegran para alimentar  
 A los musgos hambrientos que sobre ellas crecen  
+
 La muerte no existe. El polvo que pisamos,  
 Al llegar el verano se transformará  
 En dorados granos o dulces frutos  
 O en flores policromas.  
+
 La muerte no existe. Las hojas caerán  
 Las flores se marchitarán y dejarán de ser  
 Pero solo esperan en las horas invernales  
 El dulce y caliente hálito de mayo.  
+
 No existe la muerte, aunque lloremos  
 Cuando hermosas formas familiares  
 Que hemos aprendido a amar son arrancadas  
 De nuestros brazos.  
+
 Aunque con el corazón destrozado  
 Con negro luto y silente paso  
 llevemos su barro insensible a descansar  
 Y digamos que se han muerto.  
+
 No hay muertos; no han hecho más que pasar  
 Más allá de las brumas  
 Que aquí nos ciegan. Se han ido a la vida nueva  
 Y más amplia de aquella esfera más serena.  
+
 Sólo se han sacado sus harapos  
 Para ponerse una veste radiante  
 No se han ido lejos,  
 No se han ido ni separado,  
+
 Aunque invisibles para el ojo mortal  
 Están todavía aquí y nos aman aún  
 Y no olvidan nunca a los seres queridos  
 Que dejaron atrás.  
+
 Algunas veces nuestra frente febril  
 Siente su caricia, un aliento balsámico;  
 Nuestro espíritu los ve y nuestros  
 Corazones se reconfortan y serenan.  
+
 Si, siempre cerca de nosotros, aunque invisibles  
 Están nuestros queridos e inmortales espíritu  
 Porque en todo el infinito universo de Dios  
 Todo es vida, la muerte no existe.  
+```
 
-### INSTRUCCIÓN III: VISIÓN ESPIRITUAL Y MUNDOS ESPIRITUALES
+### <h3 id="lecture-3">INSTRUCCIÓN III: VISIÓN ESPIRITUAL Y MUNDOS ESPIRITUALES</h3>
 
 En la primera Instrucción vimos que la única teoría sobre la vida que lleva la antorcha de la razón es la de que el Ego humano es inmortal, de que la vida terrestre es una escuela y que el Ego vuelve a esa escuela vida tras vida para aprender la lección, dirigido por las dos leyes, la de Consecuencia y la de Renacimiento, progresando así convenientemente hacia la meta de la perfección. 
 
@@ -373,11 +347,17 @@ Hay también otros cuya facultad puede compararse al estado de un prisionero enc
 
 Hay aún un grado superior a éste, en el que las puertas de la prisión se abren y el hombre puede abandonar el cuerpo denso a voluntad, ir a los mundos invisibles y estudiar allí las cosas que desee conocer, cosas que la clase citada en el último término solo puede ver a distancia. Abandonar el cuerpo denso, es, por supuesto, el método ideal. Entonces el hombre no es ya solamente clarividente: es un habitante de dos o más mundos. Pero este estado no lo consiguen generalmente los simples investigadores, sino aquellos que han hecho el voto de dedicar sus vidas al servicio de la humanidad. A éstos últimos se les llama Auxiliares Invisibles, los que trabajan bajo la dirección de los Grandes Guías de la humanidad: nuestros Hermanos Mayores. 
 
-Así como hay muchas personas que cometen el error de ser escépticas respecto a la existencia de los mundos suprasensibles, hay otras que se van al otro extremo, una vez convencidas de la verdad de los mundos invisibles, y creen que cualquiera que pueda "ver" clarividentemente ve toda la verdad y enseguida "sabe" todo lo concerniente a esos mundos superiores. Es ese un gran error y la falacia de tal idea se comprenderá fácilmente comparándola con nuestros asuntos cotidianos. No nos imaginamos nunca que un hombre que haya nacido ciego "conozca todo" lo del Mundo Físico por el hecho de recobrar su vista; aún más, asaz sabemos que aún aquellos que hemos tenido la vista sana toda la vida estamos muy lejos de poseer un conocimiento universal acerca de las cosas que nos rodean. La lógica y la analogía quedarían violadas aplicando aquellas suposiciones a los mundos internos. En realidad, ningún clarividente, aunque sea desarrollado, conoce todo lo que haya allí, pues solo conoce lo que ha investigado. Un ciego que obtenga la visión debe aprender a usar sus ojos, a medir las distancias, etc., lo mismo que el niño; y así también debe ejercitarse el clarividente antes de que su facultad sea realmente útil, e invariablemente, las personas más proficientes en ello son siempre las más modestas en sus afirmaciones y más dispuestas se encuentran a prestar oídos a las versiones de los demás, sabiendo cuanto es lo que aún se desconoce y cuan poco puede abarcar el investigador de las muchas fases de un asunto. 
+Así como hay muchas personas que cometen el error de ser escépticas respecto a la existencia de los mundos suprasensibles, hay otras que se van al otro extremo, una vez convencidas de la verdad de los mundos invisibles, y creen que cualquiera que pueda "ver" clarividentemente ve toda la verdad y enseguida "sabe" todo lo concerniente a esos mundos superiores. 
+
+Es ese un gran error y la falacia de tal idea se comprenderá fácilmente comparándola con nuestros asuntos cotidianos. No nos imaginamos nunca que un hombre que haya nacido ciego "conozca todo" lo del Mundo Físico por el hecho de recobrar su vista; aún más, asaz sabemos que aún aquellos que hemos tenido la vista sana toda la vida estamos muy lejos de poseer un conocimiento universal acerca de las cosas que nos rodean. La lógica y la analogía quedarían violadas aplicando aquellas suposiciones a los mundos internos. En realidad, ningún clarividente, aunque sea desarrollado, conoce todo lo que haya allí, pues solo conoce lo que ha investigado. Un ciego que obtenga la visión debe aprender a usar sus ojos, a medir las distancias, etc., lo mismo que el niño; y así también debe ejercitarse el clarividente antes de que su facultad sea realmente útil, e invariablemente, las personas más proficientes en ello son siempre las más modestas en sus afirmaciones y más dispuestas se encuentran a prestar oídos a las versiones de los demás, sabiendo cuanto es lo que aún se desconoce y cuan poco puede abarcar el investigador de las muchas fases de un asunto. 
 
 Además, en el Mundo Físico, las formas son estables y no cambian fácilmente, pero en los mundos internos todo está moviéndose intensamente. Las formas cambian de una manera y con una facilidad como apenas es oscuramente mostrado en nuestros cuentos de hadas. Lo maravilloso no es que el clarividente involuntario mezcle a menudo las cosas lastimosamente, sino que consiga ver algo correctamente. El ejercitamiento consiste en enseñar al neófito a mirar más allá de la forma, que es evanescente e ilusoria, dirigiendo su mirada a la vida que es siempre la misma, sin importar cual sea la "forma" que pueda tomar. Porque únicamente cuando se puede hacer eso, ver la "vida," se está libre de toda tergiversación. 
 
-Antes de proceder a la investigación de los mundos invisibles, debemos indicar primeramente la concepción Rosacruz del Mundo Físico, porque difiere un tanto de las ideas aceptadas generalmente. Región Química del Mundo Físico En las cosas de la vida cotidiana distinguimos entre los sólidos, líquidos y gases. Todos ellos les agrupa la ciencia en unos setenta elementos inorgánicos, tales como hidrógeno, nitrógeno, oxígeno, carbono, etc. Con estos elementos se construyen todas las formas. 
+Antes de proceder a la investigación de los mundos invisibles, debemos indicar primeramente la concepción Rosacruz del Mundo Físico, porque difiere un tanto de las ideas aceptadas generalmente. 
+
+#### <h4 id="the-chemical-region-of-the-physical-world">Región Química del Mundo Físico</h4>
+
+En las cosas de la vida cotidiana distinguimos entre los sólidos, líquidos y gases. Todos ellos les agrupa la ciencia en unos setenta elementos inorgánicos, tales como hidrógeno, nitrógeno, oxígeno, carbono, etc. Con estos elementos se construyen todas las formas. 
 
 También distinguimos cuatro reinos: mineral, vegetal, animal y humano, pero esta distinción es con referencia a las cuatro corrientes de vida de espíritus evolucionantes en varios grados de desarrollo, que se manifiestan como Vida, moldeando los elementos químicos en la multitud de Formas que vemos en torno a nosotros. 
 
@@ -395,7 +375,7 @@ Algunos hombres de ciencia atribuyen sensación a los minerales, a los tejidos v
 
 Así que si el hombre poseyera nada más que su cuerpo denso sería incapaz de manifestar vida, como lo son las sustancias químicas que componen ese cuerpo, y si existiera solamente ese Mundo Físico visible, nunca podrían existir otras formas que no fueran cristales inertes. Los animales, vegetales y hombres hubieran sido realizaciones imposibles en la Naturaleza. 
 
-#### Región Etérica del Mundo Físico
+#### <h4 id="the-etheric-region-of-the-physical-world">Región Etérica del Mundo Físico</h4>
 
 Los Rosacruces, en armonía con las demás escuelas de ocultismo, dividen cada mundo en siete "regiones" o estados de materia. Nuestro mundo visible comprende nada más que tres de esas regiones; sólidos, líquidos y gases. El invisible éter ocupa las cuatro regiones restantes y la ciencia oculta comienza sus investigaciones por el estudio de este cuádruple éter. 
 
@@ -419,7 +399,7 @@ Y lo mismo es verdad para los otros mundos. Para poder funcionar en ellos o expr
 
 Sin embargo, la sola posesión de un cuerpo denso y de un cuerpo vital no es suficiente para explicar todos los hechos de la vida. Si no hubiera otros reinos en la Naturaleza, los cuerpos animales y humanos movibles serían imposibilidades; y aún cuando se hubieran creado cuerpos con el poder de moverse, faltaría el incentivo para ello. El ocultista encuentra que la acción tiene su incentivo en el. 
 
-#### Mundo del Deseo
+#### <h4 id="the-desire-world">Mundo del Deseo</h4>
 
 Como el Mundo Físico, este dominio de la Naturaleza está también compuesto por siete regiones que dividen la materia de acuerdo con su relativa densidad y otras cualidades. 
 
@@ -439,7 +419,9 @@ Los animales y el hombre tienen cuerpos de deseos y están por lo tanto dominado
 
 El cuerpo de deseos de un animal está compuesto solamente por materia de las cuatro regiones inferiores del Mundo del Deseo. De ahí que sea incapaz de sentir más que deseos animales de alimento , defensa o análogos. Un santo sentiría agudos remordimientos por haber expresado inadvertidamente alguna palabra dura e hiriente; los tigres permanecen tranquilos, sin el menor sentimiento por haber obrado mal, aunque maten diariamente. La razón es que el cuerpo de deseos del hombre está compuesto de materia de todas las siete regiones del Mundo del Deseo, así que es capaz de sentir más sutil y elevadamente que el animal, en cierto sentido. Otra ilustración aclarará el punto: 
 
-Tres hombres van caminando por una carretera, Ven a un perro enfermo, cubierto de llagas, sufriendo evidentemente dolores intensísimos y hambre. Esto es evidente para los tres hombres; es lo que testimonian sus sentidos. Ahora viene el "sentimiento." Uno se queda "indiferente" y sigue su camino sin preocuparse, abandonando al perro a su destino. No sucede así con los otros. Ambos se interesan y se quedan; pero este sentimiento de interés se manifiesta de distinta manera en los dos hombres. 
+Tres hombres van caminando por una carretera, Ven a un perro enfermo, cubierto de llagas, sufriendo evidentemente dolores intensísimos y hambre. 
+
+Esto es evidente para los tres hombres; es lo que testimonian sus sentidos. Ahora viene el "sentimiento." Uno se queda "indiferente" y sigue su camino sin preocuparse, abandonando al perro a su destino. No sucede así con los otros. Ambos se interesan y se quedan; pero este sentimiento de interés se manifiesta de distinta manera en los dos hombres. 
 
 El interés de un hombre es de simpatía, de auxilio impeliéndolo a cuidar al pobre animal, para mitigar sus dolores y restaurar su salud. En él, el "sentimiento de interés" ha despertado la "fuerza de atracción." 
 
@@ -447,7 +429,11 @@ El interés del otro hombre es de naturaleza opuesta. Ve nada más que un objeto
 
 De esta manera vernos que toda acción o refrenación (que no es más que una acción negativa) es debida a los dos sentimientos. El Interés que pone en acción a una de las dos fuerzas, Atracción o Repulsión, y la Indiferencia que simplemente corta toda relación o idea con el objeto a que va dirigida. Si nuestro interés por un objeto o idea genera repulsión, eso, por supuesto, hará que lo expulsemos de nuestras vidas, pero, hay una gran diferencia en la acción de la fuerza de repulsión y el sentimiento de indiferencia. 
 
-Vemos, pues, que un cuerpo denso formado por la sustancia de la Región Química, animado y vitalizado por el cuerpo vital compuesto por los éteres de la Región Etérica, recibe el incentivo para la acción del cuerpo de deseos, un incentivo que los animales siguen absolutamente, pero que en el hombre esta reprimido por otro factor, por cuya razón a veces se ve obligado a obrar contra sus deseos. Si no hubiera otros dominios en la Naturaleza El Mundo del Pensamiento Debe ser tenido en cuenta este Mundo para poder explicarnos al hombre. De su sustancia se forma la mente para obrar como freno de los impulsos del cuerpo de deseos, indicando la contraria a los impulsos de los dos sentimientos, debido amplio punto de vista alcanzado por la razón. 
+Vemos, pues, que un cuerpo denso formado por la sustancia de la Región Química, animado y vitalizado por el cuerpo vital compuesto por los éteres de la Región Etérica, recibe el incentivo para la acción del cuerpo de deseos, un incentivo que los animales siguen absolutamente, pero que en el hombre esta reprimido por otro factor, por cuya razón a veces se ve obligado a obrar contra sus deseos. Si no hubiera otros dominios en la Naturaleza 
+
+#### <h4 id="the-world-of-thought">El Mundo del Pensamiento </h4>
+
+debe ser tenido en cuenta este Mundo para poder explicarnos al hombre. De su sustancia se forma la mente para obrar como freno de los impulsos del cuerpo de deseos, indicando la contraria a los impulsos de los dos sentimientos, debido amplio punto de vista alcanzado por la razón. 
 
 El Mundo del Pensamiento se compone también de siete regiones en las que la materia está clasificada de acuerdo con su densidad y calidad; además está dividida en dos secciones principales: la "Región del Pensamiento Concreto" y la "Región del Pensamiento Abstracto." 
 
@@ -467,23 +453,26 @@ El mineral tiene únicamente un cuerpo denso. Carece de tres eslabones de la cad
 
 En conclusión- notemos que los tres mundos en los que vivimos no están separados por el espacio. Están todos en torno nuestro, como la luz y el color, inmergidos en la materia física cual si fueran las líneas de cristalización de los minerales. Si dejamos que un platito con agua se hiele y lo examinamos después microscópicamente veremos cristales de hielo divididos unos de otros por líneas. Estas líneas estaban presentes aunque no vistas en el agua como líneas de fuerza, invisibles hasta que se produjeron las condiciones apropiadas. Así que cada mundo está sumergido en el próximo inmediato, invisible hasta que se produzcan las condiciones apropiadas; pero cuando estemos preparado para ello, la Naturaleza, que está siempre pronta para desarrollar ante nosotros sus maravillas, expresará su ardiente alegría a cualquiera que, como auxiliar de la evolución, obtenga la ciudadanía en esos dominios invisibles. 
 
-### INSTRUCCIÓN IV: SUEÑO, ENSUEÑOS, TRANCE, HIPNOTISMO, MEDIUMNIDAD Y LOCURA
+### <h3 id="lecture-4">INSTRUCCIÓN IV: SUEÑO, ENSUEÑOS, TRANCE, HIPNOTISMO, MEDIUMNIDAD Y LOCURA</h3>
 
 Hemos visto que el hombre es un organismo muy complicado, compuesto por: 
 
- 1º El Cuerpo Denso, que es su instrumento en la acción. 
+1º El Cuerpo Denso, que es su instrumento en la acción. 
 
- 2º El Cuerpo Vital, que es el conductor de la "vitalidad" la que hace posible la acción. 
+2º El Cuerpo Vital, que es el conductor de la "vitalidad" la que hace posible la acción. 
 
- 3º El Cuerpo de Deseos, que produce el deseo e impulsa a la acción. 
+3º El Cuerpo de Deseos, que produce el deseo e impulsa a la acción. 
 
- 4º La Mente, el freno del impulso, que suministra el propósito de la acción. 
+4º La Mente, el freno del impulso, que suministra el propósito de la acción. 
 
- 5º El Ego, que actúa y recoge experiencias de sus obras. 
+5º El Ego, que actúa y recoge experiencias de sus obras. 
 
 El propósito de la Vida es transformar los poderes latentes del Ego en energías dinámicas, mediante las cuales puede dominar particularmente sus vehículos y obrar como le plazca. Sabernos que actualmente no tiene pleno dominio de ello, pues de lo contrario no habría lucha alguna en nuestros pechos entre el espíritu y la carne, según ahora decimos, o entre el Espíritu y el cuerpo de deseos, como se debiera decir. Esa batalla es la que desarrolla el músculo espiritual, así como la lucha desarrolla el músculo físico. Es muy fácil decir a los demás que hagan esto o aquello, pero obligarse a la obediencia a sí mismo es la tarea más difícil del mundo, y en verdad se ha dicho que "el hombre que se conquista a sí mismo es mucho más grande que el que conquista a una ciudad." Goethe, el gran poeta Iniciado, nos da la razón de esto en las siguientes líneas: 
 
-"El hombre que adquiere el dominio de sí mismo se liberta de todos los poderes que encadenan al mundo." 
+```
+"El hombre que adquiere el dominio de sí mismo 
+se liberta de todos los poderes que encadenan al mundo." 
+```
 
 Tal hombre está por encima de todas las leyes, bien sea de las hechas por el hombre o de las hechas por Dios - no por que las viole, lejos de ello- sino precisamente por la razón opuesta, porque su perfecta obediencia a las mismas hace superfluas para él todas las leyes, así como superflua es la ley "no robarás" para cualquiera que haya aprendido a respetar la propiedad ajena. 
 
@@ -503,7 +492,7 @@ Por lo tanto, como que el hipnotizador cohíbe la expresión creadora en el pens
 
 Para dar mayor claridad y fuerza a las descripciones de esos estados anormales que existen como ensueños, trance, hipnotismo, mediumnidad, obsesión y locura, empezaremos con una explicación de la condición humana en los estados normales de sueño y vigilia, según el punto de vista oculto. 
 
-Estado de Vigilia. - En ese estado, todos los vehículos del hombre están confinados dentro del mismo espacio. Así como los huesos, carne y los diversos jugos del cuerpo están confinados dentro de la piel, así también todos los cuerpos del hombre se mantienen juntos dentro de una especie de nube en forma de huevo que se extiende por encima de la cabeza y más abajo de los pies, todo alrededor del cuerpo visible. No importa la posición que tome el cuerpo denso, porque éste estará siempre en el centro de su aura, así como la yema está en el centro del huevo. El aura rodea al cuerpo denso humano como la clara rodea a la yema. Pero no es esto todo, porque esta aura compuesta por los vehículos sutiles del hombre no solamente rodea su cuerpo denso, sino que compenetra cada partícula del mismo, por decirlo así de parecida manera a como la sangre interpenetra todo el cuerpo denso. 
+Estado de Vigilia - En ese estado, todos los vehículos del hombre están confinados dentro del mismo espacio. Así como los huesos, carne y los diversos jugos del cuerpo están confinados dentro de la piel, así también todos los cuerpos del hombre se mantienen juntos dentro de una especie de nube en forma de huevo que se extiende por encima de la cabeza y más abajo de los pies, todo alrededor del cuerpo visible. No importa la posición que tome el cuerpo denso, porque éste estará siempre en el centro de su aura, así como la yema está en el centro del huevo. El aura rodea al cuerpo denso humano como la clara rodea a la yema. Pero no es esto todo, porque esta aura compuesta por los vehículos sutiles del hombre no solamente rodea su cuerpo denso, sino que compenetra cada partícula del mismo, por decirlo así de parecida manera a como la sangre interpenetra todo el cuerpo denso. 
 
 Vemos, pues que estos cuerpos están tan cerca de nosotros como nuestros pies y manos, si bien invisibles como nuestro aliento, pero no por eso menos reales o necesarios. Durante la vida, el hombre no puede separarlos ordinariamente y a menos que estén todos juntos no podrían moverse y obrar como lo hace en su vida diaria. 
 
@@ -515,7 +504,9 @@ Este "fluido vital" desempeña una función análoga a la que la electricidad ej
 
 Tenemos en el cuerpo dos sistemas nerviosos, el voluntario y el involuntario. El primero de los nombrados está dirigido directamente por el cuerpo de deseos y domina los movimientos del cuerpo, tendiendo a destrozar y destruir, estando refrenado solo en parte por la mente, El sistema involuntario tiene su campo de acción en el cuerpo vital, el que dirige los órganos digestivos y respiratorios que reconstruyen y restauran el cuerpo denso. 
 
-Esta guerra entre el cuerpo vital y el cuerpo de deseos produce la conciencia en el Mundo Físico, pero si la mente no actuara como freno del cuerpo de deseos, las horas de vigilia serían muy cortas, y corta también nuestra vida, porque el cuerpo vital sería bien pronto contrarrestado en sus beneficientes esfuerzos por el desenfrenado cuerpo de deseos, como lo demuestra la postración que sigue a una explosión de ira, porque la ira es una condición en la que el hombre "ha perdido el dominio de sí mismo" y el cuerpo de deseos está obrando sin freno. Sueño y Trance natural. - A pesar de todos los esfuerzos el cuerpo vital va perdiendo terreno lentamente conforme transcurre el día acumulándose los venenos de los tejidos destruidos, los que impiden la circulación del fluido vital y sus movimientos se hacen el cuerpo denso muestra signos de agotamiento. - Por último - cuerpo vital se paraliza los nervios en cantidad suficiente como para mantener el peso del cuerpo denso y éste se torna inconsciente y lo tanto inapropiado para ser empleado por el Espíritu. Esto es el sueño. 
+Esta guerra entre el cuerpo vital y el cuerpo de deseos produce la conciencia en el Mundo Físico, pero si la mente no actuara como freno del cuerpo de deseos, las horas de vigilia serían muy cortas, y corta también nuestra vida, porque el cuerpo vital sería bien pronto contrarrestado en sus beneficientes esfuerzos por el desenfrenado cuerpo de deseos, como lo demuestra la postración que sigue a una explosión de ira, porque la ira es una condición en la que el hombre "ha perdido el dominio de sí mismo" y el cuerpo de deseos está obrando sin freno. 
+
+Sueño y Trance natural - A pesar de todos los esfuerzos el cuerpo vital va perdiendo terreno lentamente conforme transcurre el día acumulándose los venenos de los tejidos destruidos, los que impiden la circulación del fluido vital y sus movimientos se hacen el cuerpo denso muestra signos de agotamiento. - Por último - cuerpo vital se paraliza los nervios en cantidad suficiente como para mantener el peso del cuerpo denso y éste se torna inconsciente y lo tanto inapropiado para ser empleado por el Espíritu. Esto es el sueño. 
 
 Mucha gente cree que el sueño es un estado pasivo o negativo. Nada más erróneo, porque si ese fuera el caso el cuerpo se despertaría tan cansado como cuando comenzó a dormir, o mejor dicho, no se despertaría más, pues su incapacidad para recibir el fluido vital (producida por estar lleno de toxinas) fue lo que produjo el sueño, y si el único efecto de ese estado fuera una cesación negativa de gastar energías, las condiciones permanecerían en "statu- quo," y el cuerpo seguiría durmiendo. Algunas veces se da ese caso, durante semanas enteras y hasta meses. Se dice entonces que el que duerme está en "trance." Para conservar ese estado durante algún tiempo sin que se produzca la muerte, el cuerpo vital no puede suspender estas funciones completamente; debe tener cuidado de efectuar una determinada cantidad de absorción. 
 
@@ -527,7 +518,9 @@ El proceso de restauración comienza ahora. En toda lucha en el Mundo Físico, l
 
 Cuando el cuerpo de deseos se retira del cuerpo dormido penetra en el océano de fuerza y armonía llamado Mundo del Deseo, Allí revive los sucesos del día, pero en orden invertido, de los efectos a las causas, vigorizando las enseñanzas del día, formando verdaderas imágenes para reemplazar las impresiones erróneas debidas a las limitaciones de la vida en el cuerpo denso, y como las armonías del Mundo del Deseo lo compenetran y la sabiduría y la verdad reemplazan al error, recobra su ritmo y tono. El tiempo necesario para efectuar esta restauración está de acuerdo con lo ilusoria, impulsivo e intensa que haya sido la vida durante ese día. 
 
-Entonces, y solamente entonces, comienza el trabajo de restaurar los vehículos abandonados en el lecho, y el cuerpo de deseos ya restaurado comienza a reanimar al cuerpo vital, inundándole de energía rítmica, y éste a su vez comienza -a trabajar sobre el cuerpo denso, eliminando los productos de los tejidos destruidos, principalmente por medio del sistema simpático, resultando que el cuerpo denso queda restaurado y lleno nuevamente de vida, cuando el cuerpo de deseos, la mente y el Ego entran en él por la mañana despertándolo. Ensueños. - Ocurre algunas veces, sin embargo, que hemos llegado a estar tan absortos e interesados en los asuntos de nuestra existencia mundana que aún después de haberse paralizado el cuerpo vital y hecho inconsciente el cuerpo denso, no podemos lograr que nuestras mentes los dejen y comience el trabajo de reparación. El cuerpo de deseos estará adherido o inconsciente y quizá solo retirado a medias por el Ego y entonces comenzará a considerar los sucesos del día en esa posición. 
+Entonces, y solamente entonces, comienza el trabajo de restaurar los vehículos abandonados en el lecho, y el cuerpo de deseos ya restaurado comienza a reanimar al cuerpo vital, inundándole de energía rítmica, y éste a su vez comienza -a trabajar sobre el cuerpo denso, eliminando los productos de los tejidos destruidos, principalmente por medio del sistema simpático, resultando que el cuerpo denso queda restaurado y lleno nuevamente de vida, cuando el cuerpo de deseos, la mente y el Ego entran en él por la mañana despertándolo. 
+
+Ensueños. - Ocurre algunas veces, sin embargo, que hemos llegado a estar tan absortos e interesados en los asuntos de nuestra existencia mundana que aún después de haberse paralizado el cuerpo vital y hecho inconsciente el cuerpo denso, no podemos lograr que nuestras mentes los dejen y comience el trabajo de reparación. El cuerpo de deseos estará adherido o inconsciente y quizá solo retirado a medias por el Ego y entonces comenzará a considerar los sucesos del día en esa posición. 
 
 Es evidente que eso es una condición anormal. La debida relación entre los diferentes vehículos se rompe en primer término por la paralización del cuerpo vital cada vez más molestado por las posiciones relativas anormales de los vehículos superiores, los que han desconectado parcialmente los órganos de los sentidos del último, y su invariable resultado son esos sueños confusos en los que los sonidos y visiones del Mundo del Deseo se mezclan con los sucesos de la vida diaria en la forma más grotesca e imposible. 
 
@@ -539,7 +532,9 @@ Bajo tales condiciones no hay separación completa de los vehículos, siendo evi
 
 No todos los ensueños son confusos, sin embargo, como por ejemplo los que proporcionan soluciones lógicas a los problemas de la vida o las advertencias proféticas que nos ahorran muchas penas, o que hasta nos permiten eludirlas o prevenir algún desastre. Tales ensueños ocurren generalmente poco antes de despertarse, y solo cuando ha habido separación completa de los vehículos antes del despertar, porque únicamente en ese caso es posible que los ensueños sean lógicos. El Ego ve en el Mundo del Deseo la manera de impedir la desgracia y la trasmite entonces con éxito al cerebro denso. Es muy bueno tratar de conseguir tales soluciones por la noche, al irse a acostar, manteniendo en la mente este pensamiento con firmeza: "Quiero saber esto o aquello y voy a acordarme de ello mañana por la mañana." Éste es el último pensamiento que se debe mantener al dormirse y probablemente traerá la solución requerida a la memoria. 
 
-Emplear el tiempo citando ejemplo para demostrar el valor de los sueños sería malgastarlo. La prensa diaria está llena de ellos, donde se relatan escapatorias providenciales atribuibles solamente a las advertencias obtenidas en los sueños. Los anales de la Society for Psychical Research pueden proporcionar innumerables evidencias y cualquiera que las desee no tendrá mucho que trabajar para obtenerlas. Hipnotismo. - Una característica de los cuerpos invisibles del hombre es que operan bajo el impulso de la voluntad. Todo impulso que viene de adentro tiene su origen en la voluntad del hombre mismo, mientras que los incentivos para la acción surgen de fuentes externas, comúnmente llamadas "circunstancias," las que tienen su origen en la voluntad ajena y la diferencia entre el hombre de carácter fuerte, bueno o malo, y el hombre débil, estriba en que el primero está impulsado por su propia voluntad, actuando desde adentro, lo que le permite hacer sus cosas como él mismo determine sin tener en cuenta las circunstancias. 
+Emplear el tiempo citando ejemplo para demostrar el valor de los sueños sería malgastarlo. La prensa diaria está llena de ellos, donde se relatan escapatorias providenciales atribuibles solamente a las advertencias obtenidas en los sueños. Los anales de la Society for Psychical Research pueden proporcionar innumerables evidencias y cualquiera que las desee no tendrá mucho que trabajar para obtenerlas. 
+
+Hipnotismo - Una característica de los cuerpos invisibles del hombre es que operan bajo el impulso de la voluntad. Todo impulso que viene de adentro tiene su origen en la voluntad del hombre mismo, mientras que los incentivos para la acción surgen de fuentes externas, comúnmente llamadas "circunstancias," las que tienen su origen en la voluntad ajena y la diferencia entre el hombre de carácter fuerte, bueno o malo, y el hombre débil, estriba en que el primero está impulsado por su propia voluntad, actuando desde adentro, lo que le permite hacer sus cosas como él mismo determine sin tener en cuenta las circunstancias. 
 
 Por otro lado, el débil que no tiene voluntad es el juguete inerme de las circunstancias, dominado por la voluntad de los demás, náufrago en el mar tempestuoso de la vida. 
 
@@ -557,7 +552,9 @@ Pero no es esto lo peor del hipnotismo. El mayor peligro y más grave para la v�
 
 Este remanente del cuerpo vital del hipnotizador es también el almacén de las órdenes que deben ejecutarse en el futuro, implicando la realización de ciertos actos en determinado día y hora. Cuando llega el momento requerido ese impulso obra en la misma forma que el resorte de un reloj despertador, y la víctima debe realizar la orden, aunque sea el asesinato, sin saber que está influenciada por otro. Por lo tanto, el hipnotismo es el mayor crimen en la Tierra y el mayor peligro para la sociedad. 
 
-Se arguye algunas veces que el hipnotismo puede ser empleado benéficamente para curar el bebedor y otros vicios, y se admite fácilmente que desde ese simple punto de vista material así debe ser. Pero desde el punto de vista de la ciencia oculta está lejos de ser así. Como todos los demás deseos, la sed de licores está en el cuerpo de deseos y es deber del Ego dominarlo por su propio poder de voluntad. Por eso está en la escuela de experiencia que se llama vida, y nadie puede hacer ese crecimiento moral por él, así como nadie puede digerir las comidas de otro. La Naturaleza no tiene necesidad de que se la corrija; cada uno debe resolver sus propios problemas y dominar sus propios defectos mediante la propia voluntad. Por lo tanto, si un hipnotizador domina el cuerpo de deseos de un borracho, el Ego del borracho tendrá que aprender su lección en una vida futura, si muere antes que el hipnotizador. Pero si el hipnotizador muere primero, el hombre volverá inevitablemente a beber de nuevo porque entonces la parte del cuerpo vital del hipnotizador que actuaba como dominadora del mal deseo volverá a su fuente original y la cura quedará anulada. La única manera de dominar permanentemente un vicio es hacerlo con la propia voluntad. Al morir el hipnotizador todas sus víctimas se libertan y ninguna sugestión subsiguiente podrá ya influenciarlas. 
+Se arguye algunas veces que el hipnotismo puede ser empleado benéficamente para curar el bebedor y otros vicios, y se admite fácilmente que desde ese simple punto de vista material así debe ser. Pero desde el punto de vista de la ciencia oculta está lejos de ser así. Como todos los demás deseos, la sed de licores está en el cuerpo de deseos y es deber del Ego dominarlo por su propio poder de voluntad. Por eso está en la escuela de experiencia que se llama vida, y nadie puede hacer ese crecimiento moral por él, así como nadie puede digerir las comidas de otro. La Naturaleza no tiene necesidad de que se la corrija; cada uno debe resolver sus propios problemas y dominar sus propios defectos mediante la propia voluntad. Por lo tanto, si un hipnotizador domina el cuerpo de deseos de un borracho, el Ego del borracho tendrá que aprender su lección en una vida futura, si muere antes que el hipnotizador. Pero si el hipnotizador muere primero, el hombre volverá inevitablemente a beber de nuevo porque entonces la parte del cuerpo vital del hipnotizador que actuaba como dominadora del mal deseo volverá a su fuente original y la cura quedará anulada. La única manera de dominar permanentemente un vicio es hacerlo con la propia voluntad. 
+
+Al morir el hipnotizador todas sus víctimas se libertan y ninguna sugestión subsiguiente podrá ya influenciarlas. 
 
 Mediumnidad. - Para comprender la mediumnidad es necesario saber que al morir se efectúa la misma separación de vehículos que durante el sueño, pero entonces esa separación es permanente, Los llamados muertos tiene Ego, mente y cuerpo de deseos, y frecuentemente están conscientes del mundo que han abandonado durante algún tiempo. Algunos se apegan a la vida terrestre y no pueden poner su mente en condiciones de aprender las nuevas lecciones; a esos les llamamos "Espíritus apegados a la Tierra." No pueden funcionar en el mundo visible sin un cuerpo, así que tienen que aprovecharse de que no todos los Espíritus están confinados con igual rigor en la prisión de su cuerpo denso. Los que se encuentran más estrechamente apegados y limitados a la Tierra son los materialistas. Y aquellos cuyas fibras no los adhieren tan fuertemente son "impresionables" o "sensitivos," capaces de responder en algún grado a las vibraciones espirituales. Las personas de carácter positivo así constituidas, si se desarrollan, pueden responder a esas vibraciones por su propia voluntad y se convierten en ocultistas ejercitados. Los de voluntad débil pueden únicamente desarrollarse con ayuda de los demás, en una forma negativa. Estos son presa de los Espíritus apegados a la Tierra que se constituyen a sí mismos como Espíritus guías" y desarrollan a sus víctimas como "médiums de trance" o, si las conexiones entre los cuerpos vital y denso de la víctima es especialmente débil, como "médiums materializadores." 
 
@@ -579,31 +576,11 @@ Cuando la ruptura es entre Ego y la mente, esta última toma a su cargo los tres
 
 La lección que tenemos que aprender con el conocimiento de estos asuntos es que debemos mantener siempre el dominio propio alguno, y no permitir jamás que se nos hipnotice o dejarnos dominar por cualquier otro agente externo; así como también que el dominio propio es nuestra meta y no el dominio de los demás. 
 
-### INSTRUCCIÓN V: LA MUERTE Y LA VIDA EN EL PURGATORIO
+### <h3 id="lecture-5">INSTRUCCIÓN V: LA MUERTE Y LA VIDA EN EL PURGATORIO</h3>
 
 Entre todas las incertidumbres que son la característica de este mundo, hay una sola certeza: la Muerte. En un tiempo u otro, después de una vida más o menos larga, llega la terminación de ese aspecto material de nuestra existencia, que no es más que nacer a un mundo nuevo, así como lo que calificamos "nacimiento" no es más que según las hermosas palabras de Worsdsworth, un olvido del pasado. 
 
-Birth is but a sleep and a forgetting  
-The Soul thet rises us, our life´s Star,  
-Has elsewhere had its setting,  
-And cometh from afar:  
-Not in entire forgetfulness,  
-And not in utter nakedness;  
-But trailing clouds of glory do we come  
-From God, who is our home:  
-Heaven lies about us in our infancy!  
-Shares of the prison-house begin to close  
-Upon the growing boy;  
-But still he sees the light, and whence it flows,
-He feels it in his joy;  
-The youth, who daily farther - from the East  
-Must travel, still in Nature's priest,  
-And by the vision splendid,  
-Is on his way attended;  
-At length the man perceives it die away,  
-And fade into the light of common day.   
-
-Traducción:  
+```
 El nacimiento no es más que un sueño y un olvido  
 El alma que se eleva con nosotros, nuestra estrella-vital,  
 Tiene en todas partes su poniente,  
@@ -623,6 +600,7 @@ Y esa visión espléndida
 Lo espera en su camino;  
 Por fin el hombre percibe su crepúsculo  
 Y la ve sumergirse en la luz del pleno día.
+```
 
 El nacimiento y la muerte pueden considerarse como el paso de la actividad humana de un mundo a otro, y depende de nuestra propia situación el que designemos tal cambio con el nombre de nacimiento o muerte. Si el alma entra en el mundo en el que estamos viviendo, decimos que nace; si deja nuestro plano de existencia para entrar en otro mundo, decimos que muere; pero para el alma, el pasar de un mundo a otro no es más que trasladarse de una ciudad a otra. Ella vive inmutable, únicamente su medio ambiente y condiciones son las que han cambiado. 
 
@@ -654,13 +632,17 @@ El autor conoce un caso en el que un cirujano amputó tres dedos a una persona (
 
 Por lo tanto, hay que tener sumo cuidado de no producir molestias al espíritu haciendo tales cosas. Si las leyes u otras circunstancias no permiten se conserve el cadáver quieto en la habitación donde tuvo lugar la muerta, durante pocos días, puédesele enterrar por algún tiempo al menos entonces tratarlo en la forma que se quiera. La quietud y la oración son de enorme beneficio y si amamos sabiamente, al Espíritu que ha partido podemos hacemos acreedores a su gratitud póstuma siguiendo esas indicaciones. 
 
-En la Instrucción III dijimos que el cuerpo vital es el que tiene las memorias conscientes y subconscientes a la vez; sobre ese cuerpo quedan grabadas indeleblemente todas las experiencias y actos de la vida pasada, como si fuera una placa fotográfica. Cuando el Ego lo retira del cuerpo denso, toda la vida se abre el ojo de la mente, tal como la tiene registrada la memoria consciente. La separación parcial del cuerpo vital es lo que una persona que se esté ahogando vea toda su vida pasada, pero entonces la ve únicamente como un relámpago, el que cede a la inconsciencia: el cordón plateado permanece intacto pues de lo contrario no habría resurrección posible. En el caso de un, Espíritu agonizante, el movimiento es más lento; el hombre permanece como un espectador mientras se suceden las imágenes unas a otras, desde la muerte al nacimiento; así se ven primeramente, los sucesos recién anteriores a la muerte, después los años de la virilidad se van desarrollando hacia atrás; juventud, adolescencia e infancia le siguen, hasta que se termina por el nacimiento. El hombre, sin embargo, no tiene el menor sentimiento sobre ello en ese intervalo; el fin perseguido es sencillamente que el panorama se imprima en el cuerpo de deseos, que es el asiento del sentimiento, y de esa impresión se sacará el sentimiento cuando el Ego entre en el Mundo del Deseo, pero se debe notar que la intensidad del sentimiento realizado depende de la longitud de tiempo empleado en el proceso de imprimirlo y de la atención prestada por el hombre a ello. Si no se le molesta durante un largo período de tiempo con llantos, ruidos e histerismos, se producirá una impresión clara y nítida sobre el cuerpo de deseos. Entonces sentirá el mal que ha hecho mucho más agudamente en el Purgatorio y vigorizará muchísimo más sus buenas cualidades en el Cielo, y aunque la memoria se pierda en la vida futura, el sentimiento subsistirá, en esa "silenciosa y constante voz" interna. Si los sentimientos se hubieran impreso fuertemente en el cuerpo de deseos del Ego, esa voz hablaría en términos claros y precisos. Lo impelería irresistiblemente obligándolo a desistir de hacer lo que le produjo un dolor en la vida anterior, impulsándolo en cambio ha hacer lo que es bueno. Por lo tanto, el panorama se descorre hacia atrás para que el Ego vea primero los efectos y después las causas subyacentes. En cuanto a lo que determina la duración del panorama debemos recordar que la paralización del cuerpo vital es lo que forzó a salir a los vehículos superiores después de la muerte, así que, ahora también, cuando el cuerpo vital se paraliza, el Ego se ve obligado a retirarse y el panorama termina. La duración del panorama depende, por lo tanto, del tiempo que una persona pueda mantenerse despierta cuando es necesario. Algunas personas solo pueden estar despiertas pocas horas, otras pueden estarlo durante algunos días, dependiendo ello de la fuerza de su cuerpo vital. 
+En la Instrucción III dijimos que el cuerpo vital es el que tiene las memorias conscientes y subconscientes a la vez; sobre ese cuerpo quedan grabadas indeleblemente todas las experiencias y actos de la vida pasada, como si fuera una placa fotográfica. Cuando el Ego lo retira del cuerpo denso, toda la vida se abre el ojo de la mente, tal como la tiene registrada la memoria consciente. La separación parcial del cuerpo vital es lo que una persona que se esté ahogando vea toda su vida pasada, pero entonces la ve únicamente como un relámpago, el que cede a la inconsciencia: el cordón plateado permanece intacto pues de lo contrario no habría resurrección posible. En el caso de un, Espíritu agonizante, el movimiento es más lento; el hombre permanece como un espectador mientras se suceden las imágenes unas a otras, desde la muerte al nacimiento; así se ven primeramente, los sucesos recién anteriores a la muerte, después los años de la virilidad se van desarrollando hacia atrás; juventud, adolescencia e infancia le siguen, hasta que se termina por el nacimiento. El hombre, sin embargo, no tiene el menor sentimiento sobre ello en ese intervalo; el fin perseguido es sencillamente que el panorama se imprima en el cuerpo de deseos, que es el asiento del sentimiento, y de esa impresión se sacará el sentimiento cuando el Ego entre en el Mundo del Deseo, pero se debe notar que la intensidad del sentimiento realizado depende de la longitud de tiempo empleado en el proceso de imprimirlo y de la atención prestada por el hombre a ello. Si no se le molesta durante un largo período de tiempo con llantos, ruidos e histerismos, se producirá una impresión clara y nítida sobre el cuerpo de deseos. Entonces sentirá el mal que ha hecho mucho más agudamente en el Purgatorio y vigorizará muchísimo más sus buenas cualidades en el Cielo, y aunque la memoria se pierda en la vida futura, el sentimiento subsistirá, en esa "silenciosa y constante voz" interna. Si los sentimientos se hubieran impreso fuertemente en el cuerpo de deseos del Ego, esa voz hablaría en términos claros y precisos. Lo impelería irresistiblemente obligándolo a desistir de hacer lo que le produjo un dolor en la vida anterior, impulsándolo en cambio ha hacer lo que es bueno. Por lo tanto, el panorama se descorre hacia atrás para que el Ego vea primero los efectos y después las causas subyacentes. 
+
+En cuanto a lo que determina la duración del panorama debemos recordar que la paralización del cuerpo vital es lo que forzó a salir a los vehículos superiores después de la muerte, así que, ahora también, cuando el cuerpo vital se paraliza, el Ego se ve obligado a retirarse y el panorama termina. La duración del panorama depende, por lo tanto, del tiempo que una persona pueda mantenerse despierta cuando es necesario. Algunas personas solo pueden estar despiertas pocas horas, otras pueden estarlo durante algunos días, dependiendo ello de la fuerza de su cuerpo vital. 
 
 Cuando el Ego ha dejado su cuerpo vital, éste es atraído por el cuerpo denso, y aquél queda flotando sobre la tumba, sincrónicamente con el segundo, y es una visión nauseabunda para un clarividente, el pasar por un cementerio y contemplar esos cuerpos vitales cuyo estado de putrefacción indica claramente el estado del cadáver físico. Si hubiera más clarividentes, se adoptaría enseguida la cremación, como medio de proteger nuestros sentimientos, ya que no por razones sanitarias. 
 
 Cuando el Ego se ha libertado del cuerpo vital, su último lazo con el Mundo Físico se rompe y entonces penetra en el Mundo del Deseo. La forma ovoide del cuerpo de deseos cambia ahora asumiendo una semejante a la del perdido cuerpo denso. Existe, no obstante, una disposición particular de los materiales de que está formado, lo que es muy significativo respecto a la clase de vida que se tendrá allí. 
 
-El cuerpo de deseos del hombre está compuesto por materia de todas las siete regiones del Mundo del Deseo, así como un cuerpo denso está formado por sólidos, líquidos y gases de este mundo, pero la cantidad de materia de cada región que entra en la composición del cuerpo de deseos del hombre, depende de la naturaleza de los deseos que él haya abrigado. Los deseos groseros están formados por materia de deseos densa, que pertenece a la región inferior del Mundo del Deseo. Si un hombre ama groseramente construye un cuerpo de deseos grosero, en el que predominará la materia de las regiones inferiores. Pero si con constancia y persistencia va desprendiéndose de sus deseos groseros, alimentando únicamente los puros y buenos, su cuerpo de deseos se irá componiendo de materiales de las regiones superiores. Actualmente no hay ningún hombre que sea completamente malo; pero hay cierta diferencia en nuestros cuerpos de deseos. En los de algunos predomina la materia inferior mientras que en otros el material sutil es el que prevalece; y esto es lo que establece todas esas diferencias de ambiente y de estado del hombre que penetra en el Mundo del Deseo después de la muerte, porque entonces la materia del cuerpo de deseos, si bien tomó la forma del abandonado cuerpo denso, al mismo tiempo se dispone por sí misma de tal manera que la materia más sutil que pertenece a las regiones superiores del Mundo del Deseo forma el centro del vehículo, mientras que la materia de las tres regiones más densas está en la periferia. Cuando la vida terrestre del Ego termina, éste desarrolla una fuerza centrífuga que lo liberta de sus vehículos, según el mismo principio que hace que un planeta arroje de sí al espacio las partes que se han cristalizado o densificado en demasía. En esa forma se desprende primeramente de su cuerpo denso. Cuando entre en el Mundo del Deseo esa fuerza centrífuga obra en tal forma que impulsa a la sustancia más densa del cuerpo de deseos hacia la periferia, y de esta manera el hombre se ve obligado a permanecer en las regiones inferiores hasta haberse purificado de sus deseos groseros, los que estaban encarnados en la materia más densa de deseos. Dicha materia se encuentra siempre en la periferia del cuerpo de deseos mientras se pasa por el Purgatorio y gradualmente se ve eliminado por la fuerza centrífuga purificadora; la fuerza de Repulsión que separa al hombre del mal, permitiéndole entonces ascender al Primer Cielo situado en la parte superior del Mundo del Deseo, en la que la fuerza de Atracción es la única que domina, adhiriendo al Ego todo lo bueno de la vida pasada como poder anímico. La parte abandonada del cuerpo de deseos subsiste como un "cascarón" vacío. 
+El cuerpo de deseos del hombre está compuesto por materia de todas las siete regiones del Mundo del Deseo, así como un cuerpo denso está formado por sólidos, líquidos y gases de este mundo, pero la cantidad de materia de cada región que entra en la composición del cuerpo de deseos del hombre, depende de la naturaleza de los deseos que él haya abrigado. Los deseos groseros están formados por materia de deseos densa, que pertenece a la región inferior del Mundo del Deseo. Si un hombre ama groseramente construye un cuerpo de deseos grosero, en el que predominará la materia de las regiones inferiores. Pero si con constancia y persistencia va desprendiéndose de sus deseos groseros, alimentando únicamente los puros y buenos, su cuerpo de deseos se irá componiendo de materiales de las regiones superiores. 
+
+Actualmente no hay ningún hombre que sea completamente malo; pero hay cierta diferencia en nuestros cuerpos de deseos. En los de algunos predomina la materia inferior mientras que en otros el material sutil es el que prevalece; y esto es lo que establece todas esas diferencias de ambiente y de estado del hombre que penetra en el Mundo del Deseo después de la muerte, porque entonces la materia del cuerpo de deseos, si bien tomó la forma del abandonado cuerpo denso, al mismo tiempo se dispone por sí misma de tal manera que la materia más sutil que pertenece a las regiones superiores del Mundo del Deseo forma el centro del vehículo, mientras que la materia de las tres regiones más densas está en la periferia. Cuando la vida terrestre del Ego termina, éste desarrolla una fuerza centrífuga que lo liberta de sus vehículos, según el mismo principio que hace que un planeta arroje de sí al espacio las partes que se han cristalizado o densificado en demasía. En esa forma se desprende primeramente de su cuerpo denso. Cuando entre en el Mundo del Deseo esa fuerza centrífuga obra en tal forma que impulsa a la sustancia más densa del cuerpo de deseos hacia la periferia, y de esta manera el hombre se ve obligado a permanecer en las regiones inferiores hasta haberse purificado de sus deseos groseros, los que estaban encarnados en la materia más densa de deseos. Dicha materia se encuentra siempre en la periferia del cuerpo de deseos mientras se pasa por el Purgatorio y gradualmente se ve eliminado por la fuerza centrífuga purificadora; la fuerza de Repulsión que separa al hombre del mal, permitiéndole entonces ascender al Primer Cielo situado en la parte superior del Mundo del Deseo, en la que la fuerza de Atracción es la única que domina, adhiriendo al Ego todo lo bueno de la vida pasada como poder anímico. La parte abandonada del cuerpo de deseos subsiste como un "cascarón" vacío. 
 
 Cuando el Ego ha dejado su cuerpo denso, éste muere rápidamente. La materia física queda inerte desde el momento en que se la priva de su energía estimulante y vivificadora y se disuelve como forma. No sucede así con la materia del Mundo del Deseo; una vez que se le ha comunicado vida, esa energía subsistirá durante un tiempo considerable después de haber cesado el influjo vivificante, dependiendo su duración del poder de aquel influjo. El resultado es que después que el Ego ha abandonado esas "cáscaras" éstas subsisten durante un tiempo más o menos largo. Viven una vida independiente y si el Ego al que pertenecían era muy dado a deseos mundanos o murió en la flor de la vida con intensas e insatisfechas ambiciones, el cascarón sin alma muy a menudo ha esfuerzos desesperados para volver al Mundo Físico y muchos de los fenómenos de las sesiones espiritistas son debidas a esos cascarones. El hecho de que las comunicaciones recibidas de muchos de esos llamados "Espíritus" carezcan de sentido, explica fácilmente la cosa si tenemos en cuenta que no son Espíritus absolutamente sino únicamente partes sin alma de las vestiduras del Espíritu ido. Tienen memoria de la vida pasada, debido al panorama que en esos cascarones se imprimió después de la muerte y eso les permite, a veces, imponerse a la familia del difunto relatándoles incidentes solo de ella conocidos, pero el hecho es que no son más que un vestido gastado del Ego, dotado de vida independiente durante algún tiempo. 
 
@@ -672,7 +654,9 @@ Estos elementales son los que producen muchos de los fenómenos espiritistas, en
 
 En la Instrucción IV se indicaron los peligros que entraña el dejar que un hipnotizador domine nuestra voluntad y nos prive de la libertad, pero en ese caso la víctima puede verlo por lo menos, y puede formarse una opinión sobre el hipnotizador que la domina. En el caso del médium el peligro está multiplicado mil veces, porque no se puede ver cual es la influencia dominadora, La muerte del hipnotizador liberta a sus víctimas, pero el mayor peligro para el médium existe después de la muerte. Por lo tanto un estado negativo en el que todo el cuerpo o aunque más no sea que la mano de una persona es usada mecánicamente, sin contar con la voluntad individual es muy arriesgado. No negamos que a veces hay comunicaciones genuinas provenientes del Espíritu ido, o que se producen benévolas informaciones que vienen de seres que no están bajo el dominio de nuestra voluntad, pero nuestro propósito es señalar los peligros que corren aquellos que no conocen el asunto. Los filántropos no están a montones en el Mundo del Deseo, así como tampoco son muy numerosos aquí. Positivamente, la mayoría de esos seres no son ni grandes ni buenos, ni mucho menos ángeles, si gozan golpeando las orejas de los asistentes con los sombreros o echándoles agua en el cuello o hacen cualesquiera otras travesuras de las que se ven tantas en las sesiones espiritistas; esos titulados Espíritus o son cascarones sin alma o elementales inferiores. 
 
-Cuando el hombre está en el Mundo del Deseo es el mismo hombre desde todo punto de vista que antes de morir, con una sola excepción. Cualquiera que le viera allí lo reconocería si lo hubiera conocido antes aquí. No hay poder transformador alguno después de la muerte; el carácter del hombre no ha cambiado, el vicioso y el bebedor son tan viciosos y disipados como lo eran aquí, el avaro sigue siendo avaro, el ladrón también es la pero hay un grande e importante cambio en todos ellos; han perdido su cuerpo denso y eso marca toda la diferencia en cuanto a la gratificación de sus diversos deseos. El borracho no puede beber; carece de estómago y aunque vaya y se meta en un barril de whiskey en alguna taberna, como lo suele hacer, no encuentra la menor satisfacción, porque el whiskey no produce en el barril las emanaciones que se producen durante la combustión química en el canal alimenticio. Entonces trata de ver el efecto que le produce el meterse en el cuerpo denso de algún borracho de la tierra. Esto lo consigue fácilmente porque el cuerpo de deseos está constituido en tal forma que no hay el menor inconveniente en que ocupe el mismo espacio junto con otra persona. Las personas muertas se molestan al principio cuando alguno de sus amigos se sienta en la misma silla que están ocupando ellos, pero después de cierto tiempo aprenden que no es necesario salir de una silla porque otro vaya a sentarse en ella. Esto no molesta absolutamente al cuerpo de deseos que ya está sentado; ambas personas pueden ocupar la misma silla sin verse por ello molestadas en sus respectivos movimientos. Así que el bebedor entra en el cuerpo de deseos de otros que están bebiendo, pero ni aún esto le produce satisfacción alguna y por consiguiente sufre los tormentos de Tántalo, hasta que por último el deseo se quema a sí mismo por falta de gratificación, como cualquier otro deseo, aún en la misma vida física. 
+Cuando el hombre está en el Mundo del Deseo es el mismo hombre desde todo punto de vista que antes de morir, con una sola excepción. Cualquiera que le viera allí lo reconocería si lo hubiera conocido antes aquí. No hay poder transformador alguno después de la muerte; el carácter del hombre no ha cambiado, el vicioso y el bebedor son tan viciosos y disipados como lo eran aquí, el avaro sigue siendo avaro, el ladrón también es la pero hay un grande e importante cambio en todos ellos; han perdido su cuerpo denso y eso marca toda la diferencia en cuanto a la gratificación de sus diversos deseos. 
+
+El borracho no puede beber; carece de estómago y aunque vaya y se meta en un barril de whiskey en alguna taberna, como lo suele hacer, no encuentra la menor satisfacción, porque el whiskey no produce en el barril las emanaciones que se producen durante la combustión química en el canal alimenticio. Entonces trata de ver el efecto que le produce el meterse en el cuerpo denso de algún borracho de la tierra. Esto lo consigue fácilmente porque el cuerpo de deseos está constituido en tal forma que no hay el menor inconveniente en que ocupe el mismo espacio junto con otra persona. Las personas muertas se molestan al principio cuando alguno de sus amigos se sienta en la misma silla que están ocupando ellos, pero después de cierto tiempo aprenden que no es necesario salir de una silla porque otro vaya a sentarse en ella. Esto no molesta absolutamente al cuerpo de deseos que ya está sentado; ambas personas pueden ocupar la misma silla sin verse por ello molestadas en sus respectivos movimientos. Así que el bebedor entra en el cuerpo de deseos de otros que están bebiendo, pero ni aún esto le produce satisfacción alguna y por consiguiente sufre los tormentos de Tántalo, hasta que por último el deseo se quema a sí mismo por falta de gratificación, como cualquier otro deseo, aún en la misma vida física. 
 
 Esto es el "Purgatorio," y se notará que no hay deidad vengativa alguna ni ningún diablo que castigue, sino que los malos deseos cultivados en la vida terrestre, imposibles de gratificar en el Mundo del Deseos, son los que producen esos sufrimientos hasta el momento en que se queman por sí mismo. Este sufrimiento es estrictamente proporcional a la fuerza del mal hábito. Tomemos el caso del avaro; ama al oro tan intensamente después de la muerte como antes, pero ya no puede juntar más; no tiene manos físicas Para tomarlo, ya no puede proteger lo que tenía. Puede sentarse ante su caja de hierro y ponerse a observarlo, pero sus herederos quizás vengan y le echarán mano, llevándose su querido oro y riéndose del "viejo miserable," mientras éste está cerca sufriendo un espasmo de rabia y mortificación. Por último, sin embargo, aprende a contenerse; automáticamente se va purificando de su avaricia, como el bebedor de su amor a la bebida, mediante la Ley de Consecuencia, la que borra los defectos o faltas de una persona en forma impersonal. En verdad no hay castigo alguno, todo sufrimiento es debido a los hábitos adquiridos, y está estrictamente proporcionado a ellos. Benévolamente la ley nos quita nuestros defectos, así que debido a esa purificación nacemos inocentes y podemos adquirir más fácilmente la virtud cuando de nuevo seamos tentados, escuchando la voz de la conciencia que nos previene. Cada mal acto, por lo menos es un acto voluntario. 
 
@@ -690,7 +674,7 @@ La víctima del asesino se libra de este sufrimiento porque se queda en estado c
 
 De esta manera queda el Ego purgado de todos los males, por la acción impersonal de la Ley de Consecuencia y queda preparado para entrar en el cielo y fortalecerse en el bien tal como se ha debilitado en el mal. 
 
-### INSTRUCCIÓN VI: VIDA Y ACTIVIDAD EN EL CIELO
+### <h3 id="letter-6">INSTRUCCIÓN VI: VIDA Y ACTIVIDAD EN EL CIELO</h3>
 
 En nuestra última Instrucción vimos como la Ley de Consecuencia trata impersonalmente nuestros hábitos y obras malos, trabajando para el bien de las vidas futuras y, para ilustrar su operación, señalamos casos tales como el del asesino, el del suicida, el del borracho y el del avaro. Esos casos son extremos, sin embargo, y existen muchas personas que han vivido una buena vida de moralidad, teñida más bien por pequeños egoísmos, que es el pecado de nuestra época, que por pronunciada maldad efectiva, y para ellas la estadía en las regiones purgatoriales del Mundo del Deseo, es, por supuesto, más corta y el sufrimiento correspondiente menos intenso. A su debido tiempo todos pasan a las regiones superiores del Mundo del Deseo, donde está situado el Primer Cielo. 
 
@@ -714,56 +698,7 @@ Cuando se considera el "dar" debemos prevenirnos contra la falaz idea de que ún
 
 La ética del dar, con el efecto sobre el dador en forma de lección espiritual, está hermosísimamente descrita en The Vision of Sir Launfal (La Visión de Sir Launfal) de Lowell. El joven y ambicioso caballero, Sir Launfal, cubierto por su brillante armadura y regiamente vestido, sale de su castillo para ir en busca del Santo Grial. En su coraza brilla la cruz, el símbolo de la benevolencia y ternura de Nuestro Salvador, el humilde y amante, pero el corazón del caballero está lleno de orgullo y desdén altivo para el pobre y el necesitado. Encuentra a un leproso pidiendo limosna y con gesto desdeñoso arrójale una moneda de oro, como si arrojara un hueso a un perro hambriento, pero: 
 
-The leper raísed not the gold from the dust  
-"Better to me the poor man's crust,  
-Better the blessing of the poor,  
-Though I turn empty from his door;  
-That is no true alins which the hand can hold;  
-He gives only the worthless gold  
-Who gives from a sense of duty  
-But he who gives from a slender mite,  
-And gives to that which is out of sight.-  
-That thread of all-sustaining Beauty  
-Which runs through all and doth all unite,-  
-The hand cannot clasp the whole of his alms,  
-The heart outstretches its eager palms,  
-For a god goes with it and makes it store  
-To the soul that was starving in darkness before."
-An old bent man, worn out and frail,  
-He came back from seeking the Holy Grail;  
-Little he recked of his earldom´s loss,  
-No more on his surcoat was blazoned the cross,  
-But deep in his heart the sign he wore,  
-The badge of the suffering the poor.
-And Sir Launfal sád: "I behold in thee  
-An image of Him who died on the tree;  
-Thou also hast had thy crown of thorns,  
-Thou also hast had the worlds buffets and scorns,  
-And to thy life were not denied  
-The wounds in the hands and feet and side;  
-Mild Mary's Son, acknowledge me;  
-Behold, through him I give to Thee!"  
-The heart within him was ashes and dust  
-He parted in twain his single crust,  
-The leper no longer crouched by his side,  
-But stood before him glorified,  
-
-And the Voice that was softer than silence said,  
-"Lo, it is, I, be not afraid!  
-In many lands without avail,  
-Thou has spent thy life for the Holy Grail;  
-Behold, it is here, - This cup which thou  
-Did'st fill at the streamlet for me but now;  
-This crust is my body broken for thee,  
-This water the blood I shed on the tree;  
-The Holy Supper is kept, indeed,  
-In what so we share with another's need;  
-Not what we give, but what we share --  
-For the gift without the giver is bare;  
-Who gives himself with his alms feeds three --  
-Himself, his hungering neighbor, and me."  
-
-Traducción:  
+```
 El leproso no alzó el oro del polvo (y dijo):  
 "Mejor para mí es la corteza del pan del pobre;  
 Mejor la bendición de éste,  
@@ -779,6 +714,8 @@ La mano no puede abarcar toda su limosna,
 El corazón ansioso extiende sus brazos;  
 Porque un díos acompaña y provee  
 Al alma que antes estaba pereciendo en la oscuridad."  
+```
+
 A su regreso Sir Launfal encuentra a otro en posesión de su  
 castillo, quien le impide entrar.   
 Ya viejo y doblegado, gastado y débil  
@@ -2403,151 +2340,7 @@ Si en ti mismo no nace tu alma sigue extraviada;
 Ni importa que en el Gólgota contemples levantada   
 La Cruz, si no es un Gólgota tu corazón también.   
 
-### EL NACIMIENTO DE LA FRATERNIDAD ROSACRUZ EN 1909
 
-Muchas informaciones erróneas se han publicado acerca del origen de la Fraternidad Rosacruz. Para esclarecer, este asunto, vamos a narrar detalladamente como y cuándo Max Heindel se encontró con los Hermanos Mayores y recibió su iniciación. Emplearemos además sus propias palabras para que el relato resulte más fehaciente. 
-
-Durante el verano de 1905, el exceso de trabajo y su intensísimo deseo de obtener conocimientos espirituales, fueron causa de que Max Heindel cayera seriamente enfermo en Los Ángeles, sufriendo un ataque cardíaco, que durante meses lo tuvo en estado desesperante. Una gran parte del tiempo que duró esta enfermedad, lo pasó fuera del cuerpo físico, trabajando conscientemente, y buscando la verdad en los planos invisibles. 
-
-Se hallaba en la mayor pobreza; hubo días en este período de su vida en que le faltó hasta el pan, y en algunas ocasiones estuvo durante dos días seguidos sin probar bocado. A pesar de ello, continuó buscando sabiduría, y en cuanto se lo permitió su salud, dio conferencias para difundir la ciencia astrológica. 
-
-En mayo de 1906, su trabajo fue interrumpido en San Francisco por el gran temblor de tierra, y entonces se fue a Seattle y al es de un norte del país, para continuar sus disertaciones. Después curso de conferencias se vio obligado otra vez a pasar una temporada en un hospital, a causa de otro ataque cardíaco. 
-
-En 1907, dando conferencias en Minesota, fue visitado por una amiga que desde hacía meses le instigaba a ir a Berlín, para encontrarse allí con una persona que era un extraordinario conferenciante y profesor. Esta amiga insistió mucho en que fuese a Alemania, y llegó, en su afán, hasta ofrecerle pagar todos sus gastos, y al fin, logró que aceptara. 
-
-Una vez en Alemania, Max Heindel asistió a las conferencias y clases del referido profesor, pero al poco tiempo se dio cuenta de que esta persona no podía ofrecerle gran cosa, y que lo que enseñaba no era nuevo para él. Defraudado en sus esperanzas, compró su pasaje de vuelta a América. Cuando volvió a su habitación muy desalentado, comprendiendo que había abandonado un trabajo importante en América para correr detrás de una, vana ilusión, un Hermano Mayor de la Orden Rosacruz, uno de los Hierofantes de los Misterios Menores, se presentó a él y le ofreció comunicarle aquellas enseñanzas que él anhelaba, a condición de guardar el secreto. Durante años, Max Heindel había buscado y rogado a Dios que le dejase encontrar algo que pudiese apaciguar el ansia de conocimiento de su alma en este mundo. Pero a pesar de haber sufrido de este modo y de haber conocido el vehemente deseo de su corazón, él no pudo dar esta promesa al, Hermano Mayor y se negó a aceptar cualquier enseñanza que él no estuviese autorizado para trasmitir luego a sus hermanos ansiosos también de sabiduría. El instructor se marchó. 
-
-¿Puede el lector figurarse lo que debe lógicamente sentir un hombre hambriento que durante días no ha probado bocado, al ver a una persona que le ofrece un pedazo de pan, y antes de poder probarlo, se marcha y se lo lleva? Esto, poco más o menos, sucedió a Max Heindel. Su desencanto fue intenso al ver que había hecho un tan largo viaje para encontrarse con alguien que, según la promesa hecha por su amigo, era un Iniciado, resultando luego ser toda pura ilusión. 
-
-Cuando el Instructor abandonó la estancia, Max Heindel se quedó durante horas presa de gran perplejidad, y pasó después varios días muy triste, considerando que ahora tenía que volver a América y empezar de nuevo su trabajo donde lo había dejado, después de haber perdido inútilmente tiempo y dinero. 
-
-Sorpresivamente, el Instructor apareció otra vez en su habitación y le anunció a Max Heindel que había salido vencedor de la prueba, añadiendo que de haber aceptado el primer ofrecimiento, es decir, de no revelar a nadie estas enseñanzas, él no habría vuelto. Le dijo también que el candidato elegido al principio, que había recibido la enseñanza de los Hermanos Mayores durante siete años y que, por casualidad, era el mismo que ellos habían empleado para atraer a Max Heindel a Berlín por mediación de su amiga, había fracasado en la prueba en el año 1905. Le expresó además, que él, Max Heindel, había sido ya observado por los Hermanos Mayores durante varios años y escogido como candidato más apto en caso del posible fracaso del primero. Además, le manifestó que las enseñanzas deberían ser publicadas antes del fin de la primera década del siglo, es decir, antes de fines de diciembre de 1909. 
-
-En esta última entrevista con el Instructor, éste le indicó como llegar al Templo Rosacruz que existe cerca de Berlín. En este templo se quedó Max Heindel más de un mes en comunicación directa con los Hermanos Mayores y bajo su instrucción personal, recibiendo así la mayor parte de las enseñanzas contenidas en el Concepto Rosacruz del Cosmos. El primer manuscrito de este libro, que fue escrito mientras Max Heindel estaba en el templo, según indicación del instructor, no era más que un bosquejo. La pesada atmósfera psíquica de Alemania era particularmente adaptada a la comunicación de pensamientos místicos con la conciencia del candidato, y se le dijo que las 350 páginas del manuscrito que acababa de escribir no le satisfarían cuando llegase a la atmósfera eléctrica de América, y que él entonces desearía escribir nuevamente todo el libro. En su gran entusiasmo, él no quiso creerlo en un principio, imaginándose haber recibido un mensaje maravillosamente completo; pero la predicción de los Hermanos Mayores resultó ser verdad. Después de haber pasado algunas semanas en la ciudad de Nueva York, se dio cuenta de que, en efecto, era así. El estilo de redacción del manuscrito, entonces no le agradó. y, por consiguiente, se dispuso a escribirlo otra vez de nuevo. 
-
-Alquiló una habitación barata en el séptimo piso de una casa de vecindad, y durante el verano excesivamente caluroso del año 1908 estuvo sentado día por día en su cuarto desde las siete de la mañana hasta las nueve o diez de la noche, sin siquiera salir a la calle para almorzar. Con un vaso de leche y unos bizcochos se quedaba trabajando hasta la noche, y luego salía para cenar, generalmente nada más que legumbres. Después de un paseo por las calles calurosas de Nueva York, volvía a casa para trabajar aún hasta media noche. Cuando el calor se hizo demasiado intenso, se fue a la ciudad de Búfalo, donde terminó el trabajo en septiembre del mismo año. 
-
-El nuevo problema que entonces se le planteó era saber como publicar el libro y dónde encontrar los fondos para ello. Después de los grandes calores se marchó a Columbus, en Ohio, donde empezó a dar conferencias y lecciones, y donde la señora Rath- Merrill, con su hija, le ayudaron para dibujar los diagramas. En esta ciudad pasó varios meses con buena suerte, dando lecciones y conferencias y luego fundó allí el primer Centro Rosacruz. Se fue luego a Seattle, donde tenía numerosos amigos desde el año 1906, esperando lograr que alguno de ellos le ayudara para imprimir el libro. Y, en efecto, el señor Patterson fue este amigo, que no solamente le ayudó para encontrar un editor, sino que, siendo él mismo impresor, le pudo dar muy buenos consejos para la organización de la venta. 
-
-Antes de imprimirse el Concepto Rosacruz del Cosmos, Max Heindel empezó a divulgar las enseñanzas recibidas por medio de conferencias apropiadas, y después de cada una de ellas distribuía gratuitamente copias mimeográficas de una serie de veinte lecciones sobre la Interpretación Esotérica del Cristianismo, o, como luego, se le ha denominado, Cristianismo Rosacruz. Empezando por la primera conferencia, "El Enigma de la Vida y de la Muerte," él daba a cada uno de los asistentes un ejemplar para llevárselo y estudiarlo. Estas copias las sacaba con su máquina por la noche después de las conferencias. Con un pequeño martillo y unos clavos en su bolsillo, y sus cartones-anuncios bajo el brazo, andaba muchos kilómetros todos los días para colocar estos avisos donde pudieran ser vistos por mucha gente. 
-
-Escribía sus artículos en los periódicos y él mismo los ponía en manos de sus editores, los que, algunas veces estaban muy mal dispuestos para la publicación de estas nuevas enseñanzas. Sin embargo, gracias a su encanto personal, él podía generalmente ganarlos para su causa, Y algunas veces obtuvo una página entera, propaganda que siempre le valió un numeroso público. Después de haber dado veinte conferencias en Columbus, Seattle, North Yakima y Portland, llevó el manuscrito del Concepto Rosacruz del Cosmos, y las veinte conferencias a Chicago, donde todo se publicó por fin. 
-
-Citaremos las propias palabras de Max Heindel respecto a su trabajo en Chicago: "el Concepto Rosacruz del Cosmos fue publicado en noviembre de 1909, unas cinco semanas antes del final de la primera década del siglo. Unos amigos habían editado el manuscrito original, pero, naturalmente, yo tuve que repasarlo antes de darlo a la imprenta; luego corregí las pruebas y lo leí después otra vez para asegurarme de que todos los errores estaban rectificados. Hice otra lectura cuando la composición fue dividida en páginas, y dí instrucciones a los grabadores y al impresor respecto a la colocación de los grabados. Me solía levantar a las seis, trabajando hasta las doce de la noche, venciendo mil dificultades y teniendo que soportar el ruido horroroso de las calles de Chicago, algunas veces hasta el extremo límite de mi energía nerviosa. Pero pude vencerlo todo y añadir varios detalles interesantes al libro. Sin embargo, sin la asistencia eficaz de los Hermanos Mayores yo seguramente hubiese sucumbido. Era obra de ellos, y ellos me sacaron a flote; pero, estuve casi completamente agotado cuando todo quedó ultimado." 
-
-Casi toda la edición de la obra, con excepción de algunos centenares de ejemplares, fue depositada en casa de una mujer que estaba al frente de una empresa editorial. Debiendo bastante dinero, esta mujer, se valía de los ejemplares de la edición del Concepto Rosacruz del Cosmos, depositada en su domicilio, para enviarlos como pago de lo que debía a los editores. Y, cuando más tarde, Max Heindel pidió que le enviasen más ejemplares, resultó que la primera edición de dos mil ejemplares estaba agotada. Al dirigirse después a esta mujer para que le enviase fondos, Max Heindel recibió tan solo una carta llena de insultos. Para quitarse la deuda de encima, la mujer se declaró en quiebra. De este modo, se impuso la impresión de una segunda edición, a la cual fue añadido un índice de sesenta páginas. 
-
-Parece que la pérdida de las dos terceras partes de la edición primera, hubiera debido resultar una calamidad para un hombre de escasos medios financieros; pero fue todo lo contrario. Resultó ser un hecho providencial, porque la mujer en cuestión había estado en relación con el movimiento Nuevo Pensamiento y asociaciones teosóficas durante varios años, y había sido su proveedora de libros, que sabía procurarse de grandes casas editoriales. No pudiendo pagar su deuda de otro modo, ella instigó a estas casas a que aceptasen el Concepto Rosacruz del Cosmos, obra hasta entonces muy poco conocida, promoviendo así una demanda que era un buen medio para la difusión de las enseñanzas rosacruces en muchas partes del mundo. 
-
-Después de haber establecido Centros de Estudios de la Fraternidad en Columbus, North Yakirna, Seattle y Portland, Max Heindel volvió a los Ángeles en diciembre de 1909 para iniciar su trabajo allí. 
-
-Para continuar el relato es necesario que la autora del presente escrito haga constar su propia intervención. Antes de abandonar Max Heindel la ciudad de Los Ángeles por primera vez, entre los años 1898 y 1906, la autora, que era entonces la señorita Augusta Foss, y Max Heindel, habían sido íntimos amigas pasando mucho tiempo junto estudiando astrología y asuntos similares. Cuando Max Heindel volvió a Los Ángeles, en 1909, con las enseñanzas rosacruces, la autora encontró en el Concepto Rosacruz del Cosmos precisamente lo que había buscado durante años. Esto dio satisfacción a su más íntimo anhelo. Era el alimento del que su alma estaba hambrienta. Enseguida empezó ella a trabajar con intensidad, y ayudó a Max Heindel dando conferencia y clases. Con tres conferencias públicas por semana, él llegaba a llenar una gran sala que contenía mil personas. En el año 1910, sin embargo, su salud no le permitió seguir. Entonces la autora continuó las clases de Max Heindel, teniendo hasta 120 alumnos en el curso de astrología. Un poco después, él cayó gravemente enfermo del corazón, y cuando estuvo en el hospital ya casi a punto de morir, tuvo una experiencia extraordinaria. He aquí sus propias palabras: 
-
-"En la noche del 9 de abril de 1910, cuando la Luna Nueva estaba en Aries, mi Instructor apareció en mi habitación y me dijo que aquella noche había comenzado una nueva década, y que en los venideros diez años yo tendría el privilegio de dar al mundo una ciencia de curar tal como se describirá luego, y una panacea espiritual, de la cual hablaré ahora. La Fraternidad facilitará ayuda para la gran obra. 
-
-"Esto era la primera indicación que se había dado respecto de una obra semejante. La noche antes había terminado mi trabajo en el nuevo Centro de Estudios de la Fraternidad, en Los Ángeles. Había viajado y dado conferencias seis días de los siete de la semana, y estando enfermo, me había retirado del trabajo para reponer mis fuerzas. Sabía que era muy peligroso abandonar el cuerpo físico conscientemente durante una enfermedad, porque entonces el éter está más tenue que nunca y el cordón plateado se rompe fácilmente. En estas condiciones, la muerte causaría el mismo sufrimiento que el suicidio, y por esta razón, los Auxiliares Invisibles deben, por prudencia permanecer siempre en su cuerpo físico mientras estén enfermos. Pero requerido por mi Instructor, yo estuve dispuesto al vuelo del alma para ir al Templo, y un guardián se quedó para cuidar del cuerpo enfermo. 
-
-"Conforme indicamos previamente en nuestra literatura, hay nueve grados en los Misterios Menores de todas las Escuelas Esotéricas, y la Orden Rosacruz no es ninguna excepción a la regla. El primero corresponde al Período de Saturno, y los ejercicios correspondientes se hacen el día de Saturno o sábado a medianoche. El segundo grado corresponde al Periodo del Sol y su rito particular se celebra a las doce de la noche del domingo. El tercer grado corresponde al Período de la Luna, y se celebra el Lunes a media noche, y así sucesivamente con el resto de los primeros siete grados; cada uno corresponde a un período y su rito se celebra el día apropiado. El octavo grado se celebra en el momento de la Luna nueva y de la plena; el noveno grado, en los solsticios de verano e invierno. 
-
-"Cuando un discípulo asciende a hermano lego o hermana lega, él o ella es introducido en el rito celebrado la noche del sábado. La próxima iniciación los autoriza a asistir a los servicios de media noche del domingo, y así sucesivamente. Es de notar, sin embargo, que mientras todos los hermanos legos y hermanas legas tienen libre acceso, en sus cuerpos espirituales, al templo durante todos los días, están excluidos de los servicios de media noche de aquellos grados a los cuales aún no pertenecen. No hay tampoco un guardián invisible que está colocado a la entrada pidiendo la palabra de pase de los que desean entrar, sino que hay una muralla alrededor del Templo, invisible, pero impenetrable a todos aquellos que no han recibido el "Ábrete Sésamo." Cada noche esta muralla es de distinta construcción, de modo que si un alumno, por error o por descuido, tratara de entrar en el Templo cuando los ejercicios que se celebran sean superiores a su grado, muy pronto se daría cuenta de que es muy posible dar con la cabeza contra una muralla espiritual, y que semejante experiencia no es de ningún modo agradable. 
-
-"Como queda dicho, el octavo grado, celebra sus reuniones en el momento de la Luna nueva y de la llena, y todos los que no han llegado a él, quedan excluidos de aquel servicio de media noche, el que esto escribe, igualmente, porque estos grados no son cosas banales que se puedan obtener mediante pago de algunas monedas menudas, sino que requieren un desarrollo espiritual mucho mayor que el de mi estado actual, y al cual no llegare hasta después de varias otras existencias, aunque no carezca ni de la voluntad ni de la aspiración de llegar hasta allí, ahora. Por consiguiente, el lector comprenderá que en la noche de la Luna nueva en Aries en 1910, cuando el Instructor vino a buscarme, no era para llevarme a aquella sublime asamblea del octavo grado, sino a otra reunión. de distinta naturaleza. 
-
-"Además, aunque esta reunión se celebrara en la noche, en California siendo la hora distinta de Alemania, los ejercicios de la Luna nueva se habían celebrado ya en este país varias horas antes, de manera que cuando llegamos al Templo mi Instructor y yo, el sol estaba ya muy alto en el cielo de Europa. 
-
-"Cuando llegamos al Templo mi Instructor, me esbozó la tarea de la Fraternidad, tal como los Hermanos querían que la llevase a cabo. 
-
-"Después entramos en el Templo, donde los doce Hermanos estuvieron presentes. Estaba arreglado de modo distinto de lo que había visto previamente; pero por falta de espacio no puedo dar más detalles. Mencionaré, tan solo tres esferas, suspendidas una encima de la otra en el centro del Templo; la esfera del medio, estaba a media distancia entre el suelo y el techo, y también era mucho más grande que las otras dos, que estaban suspendidas encima y debajo. 
-
-Los distintos modos de visión superiores al plano físico, son: la visión, etérea, o de rayos X; de color, que nos abre el Mundo del Deseo; y, la visión de tonos, que nos deja penetrar en la Región del Pensamiento Concreto, como está explicado muy detalladamente en el libro Los Misterios Rosacruces. 
-
-"Mi desarrollo de esta última fase de visión espiritual habla sido muy incipiente hasta el momento mencionado, porque es un hecho que, cuanto más robusta es nuestra salud, tanto más estamos compenetrados con el mundo físico, y tanto menos capacitados para tomar contacto con las esferas espirituales. Personas que pueden decir: "No he estado enfermo ni un solo día de mi vida," al mismo tiempo revelan el hecho de que están perfectamente a tono con el mundo físico, y de que son totalmente incapaces de entrar en contacto con las regiones espirituales. Esto había sido casi mi caso hasta el año 1905, a pesar de haber yo sufrido horribles dolores toda mi vida, como consecuencia de una operación quirúrgica en la pierna izquierda durante mi niñez. La herida no quería curarse nunca, y solo se cerró cuando dejé de comer carne, y entonces desapareció también el dolor. Pero mi resistencia durante todos aquellos años era tal que nunca se me conocía la menor expresión de dolor en la cara, y fuera de esto, gozaba yo de perfecta salud. Era, sin embargo extraño, que cada vez que perdía algo de sangre como consecuencia de haberme cortado alguna vez, la sangre no se coagulaba y perdía siempre una gran cantidad. Pero después de dos años de una dieta limpia, la pérdida casual de una uña entera, una mañana, no me hizo perder más que una gotas de sangre y pude escribir en mi máquina la misma tarde, no produciéndose tampoco ni un átomo de pus durante la formación de la nueva uña. 
-
-"Sin embargo, la construcción de la parte espiritual de la naturaleza trajo desarmonía para el cuerpo físico, el cual se hizo más sensitivo a la atmósfera alrededor de él, y el resultado era un agotamiento. Éste era tanto más completo cuanto que la resistencia al mal antes mencionada, que me sostenía en pie durante meses, cuando yo hubiera debido ceder y descansar, produjo el resultado final de llegar hasta dos pasos de la muerte. 
-
-El agotamiento de una robusta salud física es necesario antes de que sea posible llegar a un equilibrio con el mundo espiritual y cuanto más fuerte y vigoroso el instrumento, tanto más enérgico debe ser el método para vencer su resistencia. Después vienen años de una condición fluctuante e irregular de salud, hasta que, finalmente, estamos en condiciones de poder arreglarnos para mantener la salud en el mundo físico, mientras que podemos al mismo tiempo funcionar en las regiones superiores. Así me ha sucedido a mí; un trabajo abrumador, físico y mental, hasta el día presente ha puesto a mi cuerpo físico en una condición poco agradable. Los amigos me han prevenido y yo he tratado de hacerles caso; pero era preciso hacer el trabajo. Hasta la llegada de alguna ayuda, me veo obligado a continuar sin consideraciones para mi salud, y la señora Heindel está conmigo en esta tarea, como en todo lo demás. 
-
-"De esta condición precaria se ha desprendido, sin embargo, una creciente habilidad para funcionar en el mundo espiritual. Mientras que, como queda dicho, en el momento de la experiencia relatada, la visión de tonos y la capacidad de funcionar en la región del Pensamiento Concreto eran indiferentes y limitadas, sobre todo a su más baja subdivisión, una pequeña ayuda de los Hermanos aquella noche me puso en condiciones de tomar contacto en la cuarta división, donde se hallan los arquetipos, y de recibir allí la enseñanza y el entendimiento de aquello que es considerado como el más elevado ideal y la mas alta misión de la Fraternidad Rosacruz. 
-
-"Vi nuestra sede principal y una larga cola de personas viniendo de todas las partes del mundo para recibir la enseñanza. De allí las vi salir luego para llevar el bálsamo a los a los de cerca y de lejos. 
-
-"Mientras que aquí en este inundo es necesario investigar con el fin de descubrir lo que sea, allí la voz de cada arquetipo nos trae consigo, cuando toca nuestra conciencia espiritual, un conocimiento de lo que aquel arquetipo representa. Así llegó a mi aquella noche una comprensión que está muy por encima del poder de mis palabras, porque el mundo en el cual vivimos está basado en el principio del tiempo, pero en la alta región de los arquetipos todo es un eterno ahora." 
-
-El lector habrá notado por lo que antecede, que Max Heindel era capaz, con ayuda del Instructor de actuar en la cuarta división de la Región del Pensamiento Concreto, donde se hallan los Arquetipos. Esto solo es posible después de haber pasado por la tercera iniciación, o tercer grado, que corresponde al Periodo Lunar. Sólo después de haber pasado por el tercer estrato de la Tierra, un hombre puede moverse libremente en la cuarta división de la Región del Pensamiento Concreto. 
-
-Durante esta iniciación en los Misterios más profundos los Hermanos le informaron que una Iglesia o Templo debería construirse en Mount Ecclesia, donde la Panacea descripta antes había de prepararse. Esta Panacea no puede prepararse si previamente los Probacionistas no han reunido las condiciones necesarias. Dos de sus ingredientes fueron enseñados a Max Heindel; pero el tercero fue dejado para ser preparado por los Probacionistas; en razón a su consagración a la vida espiritual. 
-
-Nuestro Templo fue erigido e inaugurado el 25 de diciembre de 1920, antes de terminarse la segunda década del siglo. Este Templo, la Ecclesia, fue construido con el propósito de facilitar medios más poderosos para curar las enfermedades. Asambleas curativas se celebran en este sagrado lugar a ciertas horas, todos los días, por los Probacionistas que han consagrado su vida a esta tarea. También asisten los Hermanos Mayores, quienes emplean la Sede Central como un punto de concentración. A esto se agrega la tarea de los Auxiliares Invisibles que son Probacionistas diseminados por el mundo. El poder curativo generado en la Ecclesia ha robustecido la obra de dichos Auxiliares, de manera que las curaciones efectuadas son frecuentemente milagrosas y nuestra obra de curación se extiende como una cadena sin fin alrededor del globo. 
-
-Es de desear que nuestra escuela de salud pueda también ser pronto una realidad, porque es necesario que algunos de los que sufren puedan estar allí donde se les puedan enseñar buenos métodos de vivir y una dieta apropiada, como también alimentos espirituales, cuya falta ha causado muchos sufrimientos a causa de la muerte por inanición, a la cual está expuesta el alma. 
-
-La autora quisiera contar más detalles de la hermosa obra realizada por Max Heindel y del gran regocijo y de los privilegios que resultaron para ella, por ser esposa de un ser tan notable, escogido como mensajero de los Hermanos Mayores, pero el espacio no lo permite. 
-
-No importan cuántas órdenes o jefes aparezcan con distintas pretensiones: "por sus obras los conoceréis." La Fraternidad Rosacruz ha dado la prueba de su justificada existencia durante catorce años y ha demostrado por su obra que ella es el canal por el cual actúan los Hermanos Mayores. 
-
-Para concluir y dar más luz a los fervorosos estudiantes sobre el asunto tratado, transcribimos a continuación parte de un artículo publicado en la revista Rays from the Rose-Cross, sobre las enseñanzas de Max Heindel respecto a la Orden Rosacruz. 
-
-#### SIETE ETAPAS EN EL SENDERO DE LA INICIACIÓN ROSACRUZ
-
- 1. Curso preparatorio de doce lecciones basadas en el libro Concepto Rosacruz del Cosmos. 
-
- 2. - Período de estudiante. Estos reciben lecciones mensuales durante un lapso de dos años. 
-
- 3. - Período de Probacionistas. Se les envían instrucciones en forma de cartas mensuales durante cinco años. El Hermano Mayor imparte al Probacionista una enseñanza científica definida para defenderle contra los peligros de decepción en el Mundo del Deseo, y le hace pasar por una prueba antes de admitirlo como discípulo. 
-
- 4. - Período de Discípulo. Estos son preparados para la Iniciación bajo la dirección de los Hermanos Mayores, quienes les dan ciertas instrucciones individuales que son absolutamente secretas. 
-
- 5. - Período de Hermano Lego. Estos hermanos o hermanas legos viven en varios países del mundo occidente, y han recibido una o más Iniciaciones en las Escuelas de Misterios Menores. Están capacitados para abandonar sus cuerpos físicos conscientemente, asistir a los servicios y tomar parte en el trabajo espiritual en el Templo de los Hermanos de la Rosacruz, habiéndole enseñado el método de abandonar su cuerpo y de reintegrarse en él a su voluntad, por uno de los Hermanos Mayores. 
-
- 6. - Período de Adepto. Éstos son graduados de una de las Escuelas de Misterios Menores (7 escuelas, 9 iniciaciones. Un Adepto puede consumirse para su uso un nuevo cuerpo, y no necesita renacer como un niño. Su vehículo está completamente bajo su control y generalmente dura muchos centenares de años. 
-
- 7. - Período de Hermano Mayor. Éstos son graduados de las Escuelas de Misterios Menores (7 escuelas, 9 iniciaciones), y también de las Escuelas de Misterios Mayores (5 escuelas, 4 iniciaciones. 
-
-La Orden Rosacruz, fundada en el siglo XIII, es una de las Escuelas de Misterios Menores. Las otras Escuelas de Misterios Menores son variantes graduadas para servir a las necesidades espirituales de los más precoces entre las razas primitivas de los pueblos orientales y meridionales, con los cuales trabajan. 
-
-Christian Rosenkreutz es el decimotercer miembro de la Orden Rosacruz. Solamente los Hermanos de la Orden tienen derecho a usar el nombre de "Rosacruz." 
-
-Siete de los Hermanos de la Orden Rosacruz van al mundo cada vez que la ocasión lo requiere, apareciendo como hombres entre otros hombres, o trabajando en sus vehículos invisibles con otros o a favor de otros, según el caso lo requiere. Pero es preciso no olvidar nunca, que en ningún caso, jamás, ejercen influencia sobre alguien, contra su voluntad, sino que solo ayudan a aumentar el bien donde sea que lo hallen. Cuando alguno de los siete Hermanos trabaja en el mundo, emplea un cuerpo físico igual que los demás hombres, y vive en una casa que la gente, en general, considerará una vivienda de una persona de buena posición, pero sin ostentación alguna. Tiene oficinas o posición de distinción en la comunidad donde vive, pero todo esto solamente para justificar su presencia y no crear suspicacias respecto a lo que es, quién es y su manera de vivir. Pero fuera de esta casa y dentro de ella, allí está lo que puede llamarse el Templo. Es etéreo y distinto de nuestros edificios corrientes. Se podría comparar a la atmósfera "áurica" que rodea a la Ecclesia en la Sede Central; es mucho más extenso que en el edificio material, y es etérea. Se podría llamar más bien una iglesia espiritual tal como se halla alrededor y a través de los edificios donde la gente se dedica a cosas espirituales y, naturalmente su color es distinto según la clase del lugar. El Templo Rosacruz es una cosa extraordinaria y no puede compararse con ningún otro edificio etéreo, envuelve y penetra a través de la casa donde viven los Hermanos Mayores. Esta morada está de tal modo empapada de espiritualidad, que mucha gente no estaría muy a gusto allí. 
-
-Cinco de los Hermanos Rosacruces nunca abandonan el Templo, y aunque posean cuerpos físicos, todo su trabajo se hace desde los mundos internos. 
-
-A pesar de que los Hermanos Mayores son humanos, están muy por encima de nuestra condición humana. Un período considerable de una vida intensamente activa como ayuda visible, ha de ser vivida por el aspirante antes de que haya evolucionado su alma a un tal grado de luminosidad que atraiga al Instructor. Al mismo tiempo el alumno está acumulando un poder interior, en la misma proporción. 
-
-Un estudio fácil o cómodo, o una contemplación de ensueño no son cosas que atraerán al Instructor. El mismo es un servidor en el más alto sentido de la palabra y nadie que no sirva a los demás con toda su alma, debe esperar encontrarle. Pero cuando viene, no necesita credenciales, porque la primera frase pronunciada por él nos convencerá, y así sucederá con cada palabra que él diga al discípulo. Porque estando provisto de la conciencia que todos poseeremos en el llamado Período de Júpiter (una conciencia pictórica auto consciente), cada frase del Instructor llevará a la concepción interior del alumno una serie de imágenes que ilustrarán con gran exactitud su significación. Por ejemplo, cuando él quiera explicar el proceso de la muerte, el discípulo verá interiormente como el espíritu sale del cuerpo; podrá también ver el desarrollo del cordón plateado, la ruptura del átomo- simiente en el corazón como sus fuerzas salen del cuerpo y se unen al espíritu. El Hermano Mayor puede efectuar esto con su discípulo del siguiente modo: fija su atención sobre ciertos hechos que él desea imprimir en la mente de su discípulo; y éste que se ha hecho apto para la Iniciación, desarrollando dentro de él mismo ciertos poderes, los cuales, sin embargo, están aún latentes, es como un diapasón que gradúa el tono, conforme a las vibraciones de las ideas emitidas por el Hermano Mayor, en las imágenes. Así que el discípulo no solo ve las imágenes, sino que puede también responder a la vibración; y vibrando con el ideal presentado por el Hermano Mayor, el poder latente dentro de él se convierte entonces en energía dinámica, y su conocimiento interior es elevado hasta el nivel requerido para la Iniciación que se le quiere conferir. Ésta es la razón por la cual los secretos de la verdadera Iniciación no pueden ser revelados. No es un ceremonial exterior, sino una experiencia interior. 
-
-Esta es la descripción más aproximada que se puede dar de lo que es la Iniciación a una persona que no ha pasado por ella. No hay ningún secreto respecto a las imágenes en el sentido de que alguien no quisiera comunicarlas; pero el secreto radica en el hecho de que no existen palabras humanas que puedan describir adecuadamente una experiencia espiritual. Es verdad que la Iniciación tiene lugar en el Templo particularmente apropiado a las necesidades de cierto grupo de individuos que vibran dentro de cierta octava, y que hay también otros presentes; pero no es lo que dicen o hacen lo que constituye la Iniciación, porque ésta es una experiencia interna, por la cual los poderes latentes que han madurado dentro de nosotros se transforman en energía dinámica, y la Iniciación enseña al discípulo a servirse de ella. 
-
-Mrs. Max Heindel
-Mt. Ecclesia, 1923. 
-
-### LA FRATERNIDAD ROSACRUZ
-
-La Fraternidad Rosacruz es un movimiento para la difusión de una enseñanza definida, lógica y continuada, concerniente al origen, evolución y desarrollo futuro del mundo y del hombre, que demuestre a la vez los aspectos espirituales y científicos. No busca el proselitismo, sino más bien el hacer de las enseñanzas cristianas un factor viviente en la Tierra, animando a los hombres a permanecer en sus iglesias, dándoles explicaciones que el tiempo ha obscurecido. Y a aquellos que han cortado toda relación con su congregación, les ofrece un anclaje temporal hasta el momento en que despierten a una comprensión más profunda del poder perfeccionante y de la inefable belleza de las enseñanzas cristianas. 
-
-#### LA FILOSOFÍA ROSACRUZ POR CORRESPONDENCIA
-
-Con el objeto de promulgar estas enseñanzas tenemos un Curso Preliminar por Correspondencia, en doce lecciones, usando el "Concepto Rosacruz del Cosmos" como libro de texto. Cualquiera puede enrolarse como estudiante, escribiendo al Secretario General, siempre que no sea hipnotizador, médium, vidente, quiromántico o astrólogo profesional. 
-
-Estas lecciones no se venden, pero se confía en aquellos que reciben esa ayuda, esperando que contribuirán, en la medida de sus posibilidades, a sufragar los gastos que se originan. 
-
-Al terminar esas doce lecciones el estudiante pasa al Curso Regular, que comprende una carta mensual y una lección sobre filosofía Rosacruz en sus aspectos prácticos. Estos cursos se destinados a preparar al estudiante para un trabajo superior, que lo capacitará para probar más profundamente el misterio de la vida y del ser. 
-
-Cuando el estudiante de las enseñanzas rosacruces se ha compenetrado de la verdad de ella y está ya preparado para cortar toda relación con cualquier otra orden oculta o religiosa - Las Iglesias Cristianas y los Ordenes Fraternales exceptuadas- puede asumir la obligación que lo admite en el grado de Probacionista. 
-
-No queremos insinuar, en manera alguna, con la cláusula anterior, que las demás escuelas de ocultismo no sirvan -lejos de ello.- muchos caminos conducen a Roma, pero llegaremos con menos esfuerzos si seguimos uno solo de ellos, que si zigzagueamos de un sendero a otro. Nuestro tiempo y energías están limitadas en primer término, y están aún más escatimadas por nuestros deberes de familia y sociales que no podemos descuidar para atender al propio desenvolvimiento. Con objeto de conservar el minimum de energías que legítimamente tenemos a nuestra disposición, los Guías insisten en que cortemos la relación con las demás órdenes. 
-
-El método de realización rosacruz difiere de otros sistemas en un punto especial. procura, desde el mismo comienzo, emancipa al discípulo de toda dependencia de los demás, haciéndolo confiado en sí mismo en el más alto grado, de manera que pueda permanecer solo en todas las circunstancias y luchar con todas las condiciones. únicamente el que está bien equilibrado puede ayudar al débil. 
-
-Cuando el probacionista ha cumplido con los requisitos exigidos y completado el término de probación, puede solicitar instrucciones individuales de los Hermanos Mayores por medio del Secretario General. 
-
-Se dará gustosamente, a solicitud, más extensa información. La correspondencia debe dirigirse al 
-
-General Secretary,  
-The Rosicrucian Fellowship  
-Mt. Ecclesia  
-P.O. BOX 713  
-Oceanside, California 92049-0713  
-U.S.A.   
 
 
 
