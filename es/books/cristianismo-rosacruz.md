@@ -1,55 +1,24 @@
 ---
-title: 'THe Rosicrucian Christianity Lectures'
-language: 'en'
+title: 'Cristianismo Rosacruz'
+language: 'es'
 original_title: "The Rosicrucian Christianity Lectures"
 original_language: 'en'
 author: 'Max Heindel'
-original_source_file: 'self'
+original_source_file: 'the-rosicrucian-christianity-lectures.md'
 ---
 
-# CRISTIANISMO ROSACRUZ
+<h1 id="the-rosicrucian-christianity-lectures">Cristianismo Rosacruz</h1>
 
-Interpretación Esotérica del Cristianismo
-VEINTE INSTRUCCIONES
-por
-Max Heindel
-[1865-1919]
+por Max Heindel [1865-1919]
 
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
-  
+### <h3 id="foreword">INTRODUCCIÓN</h3>
 
-Título Original:
-
-"THE ROSICRUCIAN CHRISTIANITY LECTURES"
-
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-### INTRODUCCIÓN
-
-Las instrucciones que se presentan reunidas en forma de libro fueron originalmente el texto de veinte conferencias pronunciadas por Max Heindel durante el mes de noviembre de 1908, en Colombus, Ohio. Él también hizo copias mimeografiadas de las mismas, las cuales distribuyó a los que asistieron a sus disertaciones en esa y otras ciudades. 
-
-Después de sus conferencias en Seattle, Washington, uno de sus amigos, el señor William M. Patterson, viajó con Max Heindel a Chicago, Illinois, donde no solo financió la publicación sino que también ayudó en la corrección de las pruebas del Concepto Rosacruz del Cosmos y de estas Veinte Lecciones. Estas últimas fueron en aquella oportunidad publicadas en forma de folletos, mientras que el Concepto Rosacruz lo fue en un volumen encuadernado en tela. 
+Las instrucciones que se presentan reunidas en forma de libro fueron originalmente el texto de veinte conferencias pronunciadas por Max Heindel durante el mes de noviembre de 1908, en Colombus, Ohio. Él también hizo copias mimeografiadas de las mismas, las cuales distribuyó a los que asistieron a sus disertaciones en esa y otras ciudades. Después de sus conferencias en Seattle, Washington, uno de sus amigos, el señor William M. Patterson, viajó con Max Heindel a Chicago, Illinois, donde no solo financió la publicación sino que también ayudó en la corrección de las pruebas del Concepto Rosacruz del Cosmos y de estas Veinte Lecciones. Estas últimas fueron en aquella oportunidad publicadas en forma de folletos, mientras que el Concepto Rosacruz lo fue en un volumen encuadernado en tela. 
 
 Max Heindel había pasado el invierno de 1907/1908 en Europa, donde se puso en contacto con los Hermanos Mayores de la Orden Rosacruz, los cuales le trasmitieron el contenido de estas Instrucciones y las extraordinarias verdades incluidas en el Concepto Rosacruz del Cosmos. En la época en que recibió estas enseñanzas, él no alcanzó a valorar la magnitud de la tarea que se le había encomendado al ordenársele la difusión de las mismas a un mundo que tenía el alma enferma. 
 
@@ -60,8 +29,52 @@ Este libro de instrucciones presenta en forma muy simple, las verdades de la pro
 Una de las instrucciones demuestra el valor espiritual de la Astrología como una de las claves del alma; en otra, son claramente definidas las alegorías astronómicas de la Biblia. El valor esotérico del Padrenuestro y el significado de la Estrella de Belén son claramente interpretados para el lector; también lo son la Crucifixión de Nuestro Señor Jesucristo y su significación oculta. La vida aquí y después de la muerte, los Ángeles y su labor con el hombre; Parsifal y los Misterios del Santo Grial; la Ciencia de la Nutrición, de la Salud y de la Juventud y muchos otros temas son abarcados en una forma original por un vidente que fue el mensajero elegido de esos grandes seres, los Hermanos Mayores de la Orden Rosacruz. 
 
 Mrs. Max Heindel
+
 Mt. Ecclesia
 Octubre, 1939 
+
+### <h3 id="table-of-contents">ÍNDICE</h3>
+
+- [Introducción](#foreword)
+- [INSTRUCCIÓN I: El Enigma de la Vida y de la Muerte](#lecture-1)
+- [INSTRUCCIÓN II: ¿Dónde Están los Muertos?](#lecture-2)
+- [INSTRUCCIÓN III: Visión Espiritual y los Mundos Espirituales](#lecture-3)
+- [INSTRUCCIÓN IV: Sueño, Ensueños, Trance, Mediumnidad y Locura](#lecture-4) 
+- [INSTRUCCIÓN V: Muerte y la Vida en el Purgatorio](#lecture-5)
+- [INSTRUCCIÓN VI: La Vida y Actividad en el Cielo](#lecture-6)
+- [INSTRUCCIÓN VII: Nacimiento Como Cuádruple Suceso](#lecture-7)
+- [INSTRUCCIÓN VIII: Ciencia de la Nutrición, de la Salud y de la Juventud](#lecture-8)
+- [INSTRUCCIÓN IX: Alegorías astronómicas de la Biblia](#lecture-9)
+- [INSTRUCCIÓN X: Astrología: Su Alcance y Limitaciones](#lecture-10)
+- [INSTRUCCIÓN XI: Visión y Percepción Espiritual](#lecture-11)
+- [INSTRUCCIÓN XII: Parsifal: El Famoso Drama Musical de Wagner](#lecture-12)
+- [INSTRUCCIÓN XIII: Ángeles como Factores de la Evolución](#lecture-13)
+- [INSTRUCCIÓN XIV: Lucifer: ¿Tentador o Benefactor?](#lecture-14)
+
+- [INSTRUCCIÓN XV: Misterio del Gólgota y la Sangre Purificadora](#lecture-15)
+- [INSTRUCCIÓN XVI: Estrella de Belén, Un Hecho Místico](#lecture-16)
+- [INSTRUCCIÓN XVII: Misterio del Santo Grial](#lecture-17)
+- [INSTRUCCIÓN XVIII: Padrenuestro](#lecture-18)
+- [INSTRUCCIÓN XIX: Fuerza Futura: ¿Vril o Qué?](#lecture-19)
+- [INSTRUCCIÓN XX: Fraternidad y la Raza](#lecture-20)
+
+- [El Nacimiento de la Fraternidad en 1909](#)
+- [La Fraternidad Rosacruz](#)
+
+### <h3 id="diagrams">DIAGRAMAS</h3>
+
+- [Un ciclo de vida](#diagram-a-life-cycle)
+- [Tabla de valores alimentarios](#)
+- [Los siete días de la creación](#diagram-the-seven-days-of-creation)
+- [Como arriba es abajo](#diagram-as-above-so-below)
+- [Permanencia relativa de los mundos visible e invisibles](#diagram-the-relative-permanency-of-the-visible-and-invisible-worlds)
+- [Los vehículos de los iniciados más elevados y de la humanidad Ordinaria](#diagram-vehicles-of-highest-initiates-and-ordinary-humanity)
+- [El caduceo (Los Siete Días de la Creación y las Cuatro Grandes Iniciaciones)](#diagram-the-caduceus-the-seven-days-of-creation-and-four-great-initiations)
+- [Los cuatro reinos](#the-four-kingdoms)
+- [El Padrenuestro](#the-lords-prayer)
+- [Constitución de la Tierra](#constitution-of-the-earth)
+
+NOTA: Estos diagramas fueron tomados del Concepto Rosacruz del Cosmos, de Max Heindel, y en algunos casos están numerados como en dicho libro 
 
 ### INSTRUCCIÓN I: EL ENIGMA DE LA VIDA Y DE LA MUERTE
 
@@ -2537,63 +2550,6 @@ Oceanside, California 92049-0713
 U.S.A.   
 
 
-ÍNDICE  
-Introducción     
-INSTRUCCIÓN I   
-El Enigma de la Vida y de la Muerte   
-INSTRUCCIÓN II  
-¿Dónde Están los Muertos?   
-INSTRUCCIÓN III  
-Visión Espiritual y los Mundos Espirituales   
-INSTRUCCIÓN IV  
-Sueño, Ensueños, Trance, Mediumnidad y Locura   
-INSTRUCCIÓN V  
-Muerte y la Vida en el Purgatorio   
-INSTRUCCIÓN VI  
-y actividad en el Cielo   
-INSTRUCCIÓN VII  
-Nacimiento Como Cuádruple Suceso   
-INSTRUCCIÓN VIII  
-Ciencia de la Nutrición, de la Salud y de la Juventud   
-INSTRUCCIÓN IX  
-Alegorías astronómicas de la Biblia   
-INSTRUCCIÓN X  
-Astrología: Su Alcance y Limitaciones   
-INSTRUCCIÓN XI  
-Visión y Percepción Espiritual   
-INSTRUCCIÓN XII  
-Parsifal: El Famoso Drama Musical de Wagner   
-INSTRUCCIÓN XIII  
-Ángeles como Factores de la Evolución   
-INSTRUCCIÓN XIV  
-Lucifer: ¿Tentador o Benefactor?   
 
-INSTRUCCIÓN XV  
-Misterio del Gólgota y la Sangre Purificadora   
-INSTRUCCIÓN XVI  
-Estrella de Belén : Un Hecho Místico  
-INSTRUCCIÓN XVII  
-Misterio del Santo Grial  
-INSTRUCCIÓN XVIII  
-Padrenuestro   
-INSTRUCCIÓN XIX  
-fuerza Futura : ¿Vril o Qué?  
-INSTRUCCIÓN XX  
-Fraternidad y la Raza  
-El Nacimiento de la Fraternidad en 1909  
-La Fraternidad Rosacruz  
-DIAGRAMAS  
-
-Un ciclo de vida  
-Tabla de valores alimentarios   
-Los siete días de la creación  
-Como arriba es abajo  
-Permanencia relativa de los mundos visible e invisibles   
-Los vehículos de los iniciados más elevados y de la humanidad Ordinaria   
-El caduceo (Los Siete Días de la Creación y las Cuatro Grandes Iniciaciones)  
-Los cuatro reinos  
-El Padrenuestro  
-Constitución de la Tierra  
-NOTA: Estos diagramas fueron tomados del Concepto Rosacruz del Cosmos, de Max Heindel, y en algunos casos están numerados como en dicho libro 
 
 Fin  
