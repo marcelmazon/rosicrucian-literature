@@ -1,22 +1,21 @@
+---
+title: "The Birth of the Rosicrucian Fellowship"
+language: 'en'
+original_title: "The Birth of the Rosicrucian Fellowship"
+original_language: 'en'
+author: 'Augusta Foss Heindel'
+original_source_file: 'self'
+---
 
-The Birth of the Rosicrucian Fellowship
+<h1 id="the-birth-of-the-rosicrucian-fellowship">The Birth of the Rosicrucian Fellowship</h1>
+
 The History of its Inception
-By
-Mrs. Max Heindel
+
+By Mrs. Max Heindel
 
 An Account of Max Heindel's Preparation and Work in the Occult Field
 
-
-
-
-
-
-1865-1919
-
-
-
-
-Early Years of Max Heindel
+### <h3 id="early-years-of-max-heindel">Early Years of Max Heindel</h3>
 
 Max Heindel, Rosicrucian Initiate and founder of The Rosicrucian Fellowship, was born on July 23, 1865. His father was Francois L. Von Grasshoff, of a noble family connected with the German Court during the time of Prince Bismarck. After emigrating to Copenhagen, Denmark, he met and married a Danish woman, three children being born to them. The oldest of these was Carl Louis Von Grasshoff, who later adopted the pen name of Max Heindel.
 
@@ -28,8 +27,7 @@ After going to Los Angeles, California, in 1903, Max Heindel became interested i
 
 The events in Max Heindel's life immediately subsequent to 1905 are given in the following account of the birth of the Rosicrucian Fellowship. Until his transition on January 6, 1919, he was active in doing the pioneer work of launching the Fellowship, including the acquisition of land for the establishment of International Headquarters in Oceanside, California, the building of necessary buildings, publishing of books, etc.
 
-
-The Birth of the Rosicrucian Fellowship
+### <h3 id="the-birth-of-the-rosicrucian-fellowship-h3">The Birth of the Rosicrucian Fellowship</h3>
 
 In order to make the origin of the Fellowship clear to our readers we will give a history of how and when Max Heindel met the Elder Brothers of the Rosicrucian Order. We will, moreover, use his own words at times to make the matter more clear.
 
@@ -95,8 +93,7 @@ Our Temple was erected and dedicated on December 25, 1920, before the second dec
 
 The Rosicrucian Fellowship teaches that the wonderful organism called the human body is governed by immutable natural laws. All disease results from willful or ignorant violation of Nature's laws. People are ill because in this life or in a previous one they have disregarded the fundamental principles on which the health of the body depends. If they wish to regain and to retain health, they must learn to understand these principles and regulate their daily habits in conformity with them.
 
-
-The Rosicrucian Order
+### <h3 id="the-rosicrucian-order">The Rosicrucian Order</h3>
 
 The Rosicrucian Order, founded in the 13th century, is one of the schools of the Lesser Mysteries. The other Lesser Mystery schools are variously graded to meet the spiritual requirements of the most precocious among the earlier races of the eastern and southern people with whom they work. Christian Rosenkreuz is the 13th member of the Rosicrucian Order. Only the Brothers of the Order have the right to speak of themselves as "Rosicrucians."
 
@@ -108,24 +105,10 @@ A considerable period of intensely zealous life as a visible helper must be live
 
 First, he, the Elder Brother, fixes his attention upon certain facts which he wishes to convey to the mind of his pupil. The pupil, who has become fitted for Initiation by evolving within himself certain powers (which are still latent, however), is like a tuning fork tuned to a pitch identical with that of the vibrations of the ideas sent out by the Elder Brother in the pictures. Therefore, the pupil not only sees the pictures, but he is able to respond to their vibration. Thus vibrating to the ideal presented by the Elder Brother, the latent power within the pupil is converted into dynamic energy, and his consciousness is lifted to the level required for the Initiation which he is being given. This is the reason why the secrets of true Initiation cannot be revealed. It is not an outward ceremonial but an inward experience. This description is the nearest to what Initiation really is that can possibly be given to one who has not experienced it himself. There is no secret about the pictures in the sense that one would not tell it, but they are secret because no earthly words are coined which could adequately describe such a spiritual experience. It is true that the Initiation takes place in the Temple particularly suited to the needs of a certain group of individuals who vibrate within a certain octave, and that there are others present. But it is not what they do or say which constitutes Initiation, for Initiation is an inward experience whereby the latent powers that have been ripened within are changed to dynamic energy, which Initiation teaches the pupil to use.
 
-
-The Rosicrucian Fellowship -
-Its Relation to Other Rosicrucian Societies
+### <h3 id="the-rosicrucian-fellowship-its-relation-to-other-rosicrucian-societies">The Rosicrucian Fellowship - Its Relation to Other Rosicrucian Societies</h3>
 
 The Rosicrucian Fellowship, founded by Max Heindel under the direct guidance of the Elder Brothers of the Order, is the authorized representative for the present period of the ancient Rosicrucian Order, of which Christian Rose Cross, or Christian Rosenkreuz is the Head. This Order is not a mundane organization, but has its Temple and headquarters on the etheric plane. It authorized the formation of the Fellowship by Max Heindel for the purpose of carrying the Western Wisdom Teachings to the Western people. In earlier ages the Order carried on its work through various secret societies in Europe and elsewhere; but the growth and advancement of the people of the United States have in recent years reached such a point that the Order deemed it advisable to establish an exoteric center here for the extension of its work. The Rosicrucian Fellowship is its latest manifestation in physical form, putting out the most up-to-date version of the Rosicrucian Teachings, in twentieth-century scientific terms, which are at the same time simple and devoid of technical abstractions.
 
 The particular work of the Fellowship, now (1966) being governed by a Board of seven Directors elected from among its Probationers by the voting members (Mrs. Heindel passed on in May of 1949), is to disseminate the esoteric doctrines of the Christian religion, since the Rosicrucian Philosophy is an esoteric Christian philosophy. It is destined to become the universal religion of the world, because the Christ is to have charge of human evolution during the present Great Sidereal Year of approximately 25,000 years. Anyone who is willing to conform to the regulations of the Fellowship, the Preparatory School for the Rosicrucian order, and who is not a hypnotist, or professionally engaged as a medium, palmist, or astrologer, is eligible to enroll and study its Teachings by correspondence. There is no fixed price on any of the lessons. The work is carried on by means of freewill offerings and the income from the sale of books.
 
 Other Rosicrucian societies in the United States claim, we believe lineal descent from earlier branches of the ancient Rosicrucian Order in England, France, Egypt, or other countries. The Rosicrucian Fellowship has no lineal connection with these organizations, but represents a renaissance of the Order in the Western World.
-
-
-
-Rosicrucian Fellowship Philosophy Study Courses information
-Order the printed version of this book. 
-
-
-Rosicrucian Fellowship - International Headquarters
-2222 Mission Avenue, Oceanside, CA 92058-2329, USA
-(760) 757 - 6600
-Contact us
-
