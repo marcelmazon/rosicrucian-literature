@@ -1631,13 +1631,15 @@ Más daño causan, sin embargo, los misioneros que vienen del Oriente y que trat
 
 <h2 id="section-5">SECCIÓN V: Preguntas concernientes a los FENÓMENOS ESPIRITISTAS</h2>
 
-<h3 id="question-119">PREGUNTA Nº 119 La mediumnidad ¿perjudica a la salud?</h3> 
+### <h3 id="question-119">PREGUNTA Nº 119</h3> 
+
+La mediumnidad ¿perjudica a la salud?
 
 Respuesta: Eso depende. Cuando una persona sirve de médium a un espíritu desencarnado que entra en el cuerpo, como en el caso de los médium de trance, cuando el espíritu toma posesión del cuerpo, empleándolo como si fuera su propio poseedor, es poco dañoso, siempre que dicho espíritu no abuse del privilegio. En realidad, hay algunos casos en los que los espíritus invasores tienen mejores conocimientos respecto a cuidar del cuerpo que su propio dueño, y puede algunas veces mejorar su salud. Pero los espíritus de elevada naturaleza ética no dominan generalmente a ningún médium, pues estos son más bien espíritus terrestres, inferiores, tales como indios y otros de parecida naturaleza, que dominan a las personas mediúmnicas, y cuando están en posesión de su cuerpo lo emplean para gratificar sus pasiones sexuales o su deseo de bebidas. En esa forma pueden producir enfermedades orgánicas y deterioros en el instrumento físico. 
 
 En el caso de los médium materializadores podemos decir que esa influencia es siempre perjudicial. El espíritu materializante pone en trance a la víctima y entonces saca de ella el éter por el bazo; porque la diferencia entre el médium materializador y la persona ordinaria está en que en el primero la conexión entre el cuerpo vital y el denso es muy débil, de manera que es posible sacar una gran parte del cuerpo vital. Este cuerpo es el vehículo que especializa las corrientes solares que nos dan la vitalidad. Privado de ese principio vitalizante, el cuerpo del médium en el momento de la materialización disminuye de tamaño, a veces hasta la mitad de su tamaño normal; la carne se pone fofa y la llama de la vida arde agonizante. Cuando termina la sesión y el médium se despierta a su conciencia normal experimenta un sentimiento del más terrible cansancio y esta exhausto, y desgraciadamente muchas veces acude a la bebida para estimular sus fuerzas vitales. En ese caso, por supuesto, la salud sufrirá enormemente y el médium se agotará y arruinará bien pronto. En cualquier caso hay que evitar la mediumnidad, pues aparte de estos peligros hay otros mucho más serios en relación con los cuerpos sutiles, y especialmente en relación con el estado post-mortem. 
 
-### PREGUNTA Nº 120
+### <h3 id="question-120">PREGUNTA Nº 120</h3>
 
 Cuando los médium hacen esos llamados viajes anímicos o astrales ¿qué es lo que abandona el cuerpo? ¿Puede hacerse eso en el estado de vigilia para obtener ciertos datos o detalles? 
 
@@ -1645,7 +1647,7 @@ Respuesta: El médium es un clarividente negativo o involuntario y está bajo el
 
 Todas sus experiencias se verifican mientras el cuerpo físico está en trance. El Ego envuelto en la mente y en el cuerpo de deseos es el que abandona al cuerpo físico, y la misma separación tiene entonces lugar que en el sueño sin ensueños ordinario, con la diferencia que el cuerpo físico no queda vacío, sino que el espíritu dominador entra en el cuerpo del médium, tomando posesión de él y empleándolo a voluntad, frecuentemente en detrimento del médium, porque cuando tal espíritu ha sido bebedor o libertino en la vida terrestre, muy a menudo empleará el cuerpo del médium para gratificar sus deseos de bebidas o sus instintos sexuales. Nunca se imprimirá suficientemente en la mente de los hombres que este cuerpo físico es nuestro instrumento más útil, y que es completamente erróneo dejarlo en manos de un hipnotizador o de un espíritu desencarnado. En el caso de los médium existe aún un peligro más grave, porque algunas veces no es un Ego humano ordinario el que domina, sino un elemental que generalmente no puede funcionar en el Mundo Físico. Cuando el médium muere y entra en el Mundo del Deseo, el elemental ha obtenido tal poder sobre el cuerpo de deseos del médium que puede robárselo a su propio dueño. Como que el cuerpo de deseos es el vehículo de donde viene el incentivo para la acción, el Ego que se encuentra privado de dicho cuerpo no tiene motivo alguno para reencarnarse. El elemental puede conservar el cuerpo robado durante millones de años quizás, de manera que, mientras el resto de la humanidad va progresando, el desgraciado Ego privado de su cuerpo de deseos queda inerte, alejado de sus semejantes, antes de que pueda librarse de aquella entidad. Por lo tanto, la mediumnidad es el peligro más grande para el alma y el más grande que el autor conoce, salvo la práctica de la magia negra. 
 
-### PREGUNTA Nº 121
+### <h3 id="question-121">PREGUNTA Nº 121</h3>
 
 Yo he hecho muchos vuelos anímicos, y en uno de ellos mi guía me llevó a una gran ciudad de cristal y después a un templo lleno de gente etérica que decía: "Esta es la sagrada ciudad de Dios." ¿Podéis decirme por qué hay puertas en esa ciudad y un muro que la rodea y por qué todo parece de cristal? 
 
@@ -1653,7 +1655,7 @@ Respuesta: Una de las peculiaridades de la materia emocional, que es la sustanci
 
 Así que en las regiones inferiores del Mundo del Deseo los pensamientos de los que creen en un infierno lleno de fuego hacen en esa sustancia emocional una especie de infierno de tormentos. Allí pueden verse diablos con cuernos, tridentes y colas, pinchando a los pecadores, y muy a menudo los que mueren, después de haber vivido con esa creencia, se encuentran en un estado de temor ante ese lugar que ellos mismos han contribuido a crear. También hay en las regiones superiores del Mundo del Deseo una ciudad tal como la que usted describe en la pregunta, una nueva Jerusalén con puertas brillantes, un mar de cristal y un gran trono blanco sobre el cual está sentada una imagen mental o pensamiento forma de Dios, creado por esas personas, y que parece un hombre viejo. Es muy probable que usted haya visitado ese lugar, que es una cosa permanente en el Mundo del Deseo, y que durará tanto tiempo como la gente continúe pensando en la Nueva Jerusalén en esa forma, pues esas formas mentales no tienen más vida que la que les prestan los pensamientos de la humanidad, y cuando ésta se haya adelantado a esa fe, la ciudad creada por sus pensamientos dejará de existir. Su apariencia cristalina es debida a la extraordinaria brillantez de la sustancia de deseos con la que está formada. Los antiguos alquimistas llamaron al Mundo del Deseo "astral" debido a eso. 
 
-### PREGUNTA Nº 122
+### <h3 id="question-122">PREGUNTA Nº 122</h3>
 
 Los cuerpos de deseos que abandonan los Egos en su progreso ¿los usan los elementales después para engañar a sus parientes y amigos? ¿cómo puede evitarse o impedirse eso? 
 
@@ -1663,13 +1665,15 @@ Esos cascarones vacíos animados por elementales explican satisfactoriamente la 
 
 En cuanto a como evitar o impedir esto, es evidente que mientras que nuestros amigos o parientes muertos posean sentido común aquí en la vida terrestre, nada podrían ganar con esas tontas y chifladas comunicaciones, pues el espíritu que era en realidad nuestro amigo ha pasado más allá, dejando el cascarón vacío. Por consiguiente, es necesario juzgar por sus palabras, así como en este mundo juzgamos a los demás por lo que dicen. 
 
-### PREGUNTA Nº 123
+### <h3 id="question-123">PREGUNTA Nº 123</h3>
 
 Los elementales ¿pueden tomar formas de reptiles, de animales? ¿Qué puede hacerse para impedirlo? 
 
-Respuesta: En este mundo material todas las formas son estables y no cambian fácilmente. El Mundo del Deseo es completamente diferente en ese respecto. Todas las fábulas, tales como la metamorfosis del ratón de la Cenicienta, etc, son allí cosas reales, porque las formas cambian a voluntad de la vida que las anima con la rapidez de un relámpago, lo que confunde mucho al que entra en ese mundo como neófito. El clarividente necesita, pues, educarse, para librarse así de ser engañado por la forma, la que está siempre cambiando, pudiendo tomar cualquier aspecto en un momento. Cuando somos capaces de ver la vida que las anima nada importa que tome la forma que quiera, pues no podremos ser engañados. Como todos los demás del Mundo del Deseo, los elementales tienen esa facultad de modificar su forma, y debido a ello muchos clarividentes no entrenados, ven extrañas visiones. Nada puede hacerse para impedir a los elementales que cambien de forma, pero podemos espantarlos y ahuyentarlos en la misma forma que ahuyentamos a un gato que se entretenga en darnos una serenata en la ventana de nuestra habitación. 
+Respuesta: En este mundo material todas las formas son estables y no cambian fácilmente. El Mundo del Deseo es completamente diferente en ese respecto. Todas las fábulas, tales como la metamorfosis del ratón de la Cenicienta, etc, son allí cosas reales, porque las formas cambian a voluntad de la vida que las anima con la rapidez de un relámpago, lo que confunde mucho al que entra en ese mundo como neófito. El clarividente necesita, pues, educarse, para librarse así de ser engañado por la forma, la que está siempre cambiando, pudiendo tomar cualquier aspecto en un momento. Cuando somos capaces de ver la vida que las anima nada importa que tome la forma que quiera, pues no podremos ser engañados. 
 
-### PREGUNTA Nº 124
+Como todos los demás del Mundo del Deseo, los elementales tienen esa facultad de modificar su forma, y debido a ello muchos clarividentes no entrenados, ven extrañas visiones. Nada puede hacerse para impedir a los elementales que cambien de forma, pero podemos espantarlos y ahuyentarlos en la misma forma que ahuyentamos a un gato que se entretenga en darnos una serenata en la ventana de nuestra habitación. 
+
+### <h3 id="question-124">PREGUNTA Nº 124</h3>
 
 ¿Cómo puede evitarse la obsesión? 
 
@@ -1679,7 +1683,7 @@ Hay un medio infalible para saber si una persona está realmente obsesada, por m
 
 Todo el que mantenga siempre una actitud mental positiva no puede ser nunca obcecado, pues mientras afirmemos nuestra individualidad eso será suficientemente fuerte como para mantener alejadas a todas esas entidades externas. Pero en las sesiones espiritistas, donde todos los asistentes se encuentran en actitud pasiva, hay siempre gran peligro de ello. El mejor medio de evitar la obsesión es mantener una actitud positiva, y cualquiera que no pueda mantener esa actitud debe evitar la asistencia a reuniones espiritistas, el mirar en los cristales especiales y otros métodos de evocar espíritus. De todas maneras éstas son malas prácticas, porque los idos (muertos) tienen su obra que hacer en el más allá y nadie debería llamarlos para que vinieran aquí. 
 
-### PREGUNTA Nº 125
+### <h3 id="question-125">PREGUNTA Nº 125</h3>
 
 Qué es la psicometría? 
 
@@ -1687,7 +1691,7 @@ Respuesta: La ciencia nos dice que toda partícula de materia del Mundo Físico 
 
 En el éter que compenetra a cada objeto hay además una imagen de todo cuanto lo rodea. En las paredes de nuestras habitaciones están inscriptas todas las escenas, todos los incidentes que han tenido lugar en el cuarto, y aún cuando las pintemos o enyesemos será completamente imposible sacar esas imágenes de allí si arrancamos un pedacito de argamasa de esa habitación y se lo llevamos a una persona que haya cultivado la visión etérica, es posible que esa persona vea el éter de ese trozo de argamasa y nos relate las escenas que ocurrieron en la habitación de donde fue arrancado. Si le mostramos un pedazo de piedra de las pirámides de Egipto verá esas pirámides tan bien como si las viera en una fotografía, porque el éter de los objetos es el que imprime su imagen en la placa fotográfica, y la única diferencia entre esa impresión y la impresión que recibimos en la retina es que podemos fijar aquella en la placa y mirarla nuevamente en cualquier momento, mientras que no nos es dable visualizar tan claramente las escenas de nuestro pasado en las circunstancias ordinarias. Pero el psicómetra que puede ver el éter tiene una galería magnífica a su disposición. 
 
-### PREGUNTA Nº 126
+### <h3 id="question-126">PREGUNTA Nº 126</h3>
 
 ¿Es cierto que en las sesiones espiritistas manos invisibles transportan a las personas de un lugar a otro, que vienen flores a través de las ventanas y puertas cerradas? ¿Cómo puede hacerse eso? 
 
@@ -1695,7 +1699,7 @@ Respuesta: Sí, esos fenómenos son perfectamente ciertos y se han producido en 
 
 Pero el preguntante podría decir: "Sí, está bien; pero si toma usted un dólar de plata, lo funde en una retorta y lo convierte en gas, ya no tomará la forma de un dólar de plata cuando vuelva nuevamente al estado metálico, sino que será simplemente un lingote de metal." Esto es así cuando la operación la realiza el hombre ordinario, el que es incapaz de separar el material denso de su contraparte etérica durante el proceso de la fusión, pero las entidades espirituales que realizan los fenómenos que nos ocupan pueden separar la parte etérica de la flor del material denso. Y esta parte etérica es la que retiene su forma y constituye la matriz o molde que da forma al material de la flor cuando entra en el cuarto después de haber pasado a través del muro. 
 
-### PREGUNTA Nº 127
+### <h3 id="question-127">PREGUNTA Nº 127</h3>
 
 ¿Cuál es el uso de la plancheta? ¿Es aconsejable tratar de producir ese fenómeno entre aficionados? 
 
@@ -1705,13 +1709,13 @@ Cuando una entidad ha abandonado su vida terrestre y entra en el invisible más 
 
 Por supuesto, al escribir con la plancheta todo el cuerpo puede no estar en trance, aunque algunas veces sí lo está; pero por lo menos hay que abandonar un brazo al dominio del espíritu desencarnado a quien los asistentes no ven, el cual puede o no ser lo que pretende ser. Si un vagabundo llama a nuestra puerta y trata de persuadirnos de que abandonemos nuestra casa y le permitamos tomar posesión de ella durante un rato rehusaríamos indignados, pero cuando un vagabundo del Mundo del Deseo nos pide que le demos posesión del más valioso de nuestros instrumentos, nuestro cuerpo, muchos acceden enseguida, halagados con la idea de que un "ángel querido" nos viene a visitar. Pero ángeles y filántropos no crecen como las coles en el Mundo del Deseo, así como tampoco aquí. Nunca se convencerán bastante de que en la muerte no hay poder transformador alguno; que un indio ignorante no se convierte súbitamente en sabio por el solo hecho de haber muerto. Así como es necesario estudiar para adquirir conocimientos en este mundo, así también los espíritus idos tienen que aplicarse si desean conocer las condiciones de ese mundo, y hasta que no tengan la requerida suma de experiencia no están preparados para guiarnos allí, así como tampoco lo están aquí. Lo más seguro es desechar los fenómenos negativos, concentrando todas nuestras energías en vivir la vida y ejecutar los ejercicios que nos den la facultad de entrar en el mundo a voluntad, bien sea viajando en nuestros vehículos sutiles o bien observando clarividentemente dicho mundo mientras permanecemos dentro del cuerpo denso. Eso es progreso, cuando tengamos esa capacidad podremos ver a las entidades desencarnadas frente a frente y juzgar por nosotros mismos si debemos o no escuchar sus consejos. Mientras no podamos hacer eso estamos en peligro y, por consiguiente, es necesario que nos resguardemos. 
 
-### PREGUNTA Nº 128
+### <h3 id="question-128">PREGUNTA Nº 128</h3>
 
 Un vampiro ¿es lo mismo que un licántropo? 
 
 Respuesta: No, un vampiro es una persona que absorbe la vitalidad de otra, mientras que lo que se llamaba licántropo en la edad media no era más que el cuerpo vital de unos magos negros de orden inferior. Estos daban esa forma a su cuerpo vital, cubriéndolo parcialmente con materia densa para hacer algún daño a otras personas. Las antiguas leyendas dicen que de nada servía el golpearlos, porque los golpes no los herían. Pero si se les daba una cuchillada o se les hería con algún otro instrumento afilado, dicen que comenzaba a vomitar la sangre de sus víctimas, huyendo a su casa, donde el mago negro, que se había manifestado como lobo, se encontraba con su cuerpo denso herido precisamente en el mismo sitio en que el lobo fue herido. Esto es debido a una curiosa circunstancia que los ocultistas conocen bajo el nombre de repercusión, y el mismo fenómeno puede verse cuando los espíritus se materializan en una sesión. El éter en el que esos espíritus se materializan ha sido sacado del cuerpo del médium, y si se corta un trozo de vestido del espíritu se verá después que el mismo trozo falta en la ropa del médium, al terminar la sesión. Los investigadores escépticos que ignoran la ley de la repercusión se han valido de esto para acusar a los médium de fraude, cuando en realidad eran perfectamente honestos, si bien incapaces de explicar ese fenómeno. 
 
-### PREGUNTA Nº 129
+### <h3 id="question-129">PREGUNTA Nº 129</h3>
 
 ¿Cuál es la diferencia entre un médium de trance, un médium materializador, el clarividente educado y la persona ordinaria? 
 
@@ -1725,7 +1729,7 @@ Cuando la conexión entre el cuerpo vital y el denso es muy débil, de manera qu
 
 Cuando una persona tiene una conexión débil entre el cuerpo vital y el denso y es de temperamento negativo, los espíritus que andan errabundos y que desean manifestarse aquí, pueden extraer su cuerpo vital del bazo y emplear temporalmente el éter del que está compuesto para materializar formas espíritas, devolviendo el éter al médium cuando la sesión ha terminado. 
 
-### PREGUNTA Nº 130
+### <h3 id="question-130">PREGUNTA Nº 130</h3>
 
 Si la mediumnidad es tan peligrosa, ¿por qué los médium no se resisten e impiden que se los domine? 
 
@@ -1735,9 +1739,9 @@ El autor conoce ciertos casos en los que los médium trataron de escapar a la ti
 
 Puede verse, pues, que una vez que se entra en la mediumnidad ya casi no se puede elegir; los médium pierden el poder de expulsar a los espíritus dominadores. Mientras el médium cumpla con la voluntad de sus obcecadores y sea dócil, no sentirá quizás ese hecho; pero apenas traten de libertarse verán el gran poder que el espíritu tiene sobre ellos y la dureza con que los trata. 
 
-## SECCIÓN VI - Preguntas concernientes a la CLARIVIDENCIA
+<h2 id="section-6">SECCIÓN VI - Preguntas concernientes a la CLARIVIDENCIA</h3>
 
-### PREGUNTA Nº 131
+### <h3 id="question-131">PREGUNTA Nº 131</h3>
 
 ¿Cuál es la diferencia entre un clarividente, un iniciado y un adepto? 
 
@@ -1755,21 +1759,23 @@ Pero no conoce las cosas que ve allí por el solo hecho de que las vea, así com
 
 Pero se requerirá algún ejercitamiento o educación más para que el iniciado pueda ejercer poder sobre las cosas y fuerzas del mundo invisible, convirtiéndose así en adepto. 
 
-### PREGUNTA Nº 132
+Thus the Clairvoyant is one who sees the invisible world; the Initiate both sees the invisible world and understands what he sees, while the Adept sees, knows and has power over things and forces there. 
+
+### <h3 id="question-132">PREGUNTA Nº 132</h3>
 
 ¿Por qué los clarividentes educados no se prestan a experimentos concluyentes bajo el contralor de hombres de ciencia, lo que demostraría y convencería a todo el mundo de esa facultad que trasciende a los sentidos ordinarios? 
 
 Respuesta: En primer lugar, los clarividentes educados no tienen por qué molestarse con eso; no les importa nada lo que la gente crea o deje de creer; y si bien puede importarle mucho a ésta lo que crea, al clarividente no. Este no busca dinero ni ninguna otra consideración que el mundo pueda ofrecerle si lo convence; no desea tampoco el poder mundano, no se alaba de su facultad ni se da auto bombos, sino que cuando habla de ella, si es que llega a hacerlo, se expresa con toda modestia. Si hace obras meritorias para ayudar al prójimo no se preocupa de que eso se conozca. Generalmente, no permite que “su mano izquierda sepa lo que hace la derecha." 
 
-Un ciego no ve los colores ni la luz, aunque están en torno suyo, y si nos viniera a pedir que nos sometiéramos a pruebas para probarle, sin dar lugar á dudas, que nosotros percibimos la luz y el color, nos maravillaríamos de que esas pruebas pudieran convencerle de esos hechos. Igualmente el clarividente educado se maravillaría de que las pruebas convencieran a todo el mundo. Nunca se ha inventado prueba alguna que no se preste a otra explicación y, desgraciadamente, el clarividente que se prestase a tales experimentos se vería obligado a prestarse siempre, lo que no impediría que generaciones enteras de escépticos lo denunciaran como defraudador. Se vería obligado a someterse a los experimentos de cada uno de los hombres de ciencia, y los hombres de ciencia no creen ni siquiera lo que ven sus propios ojos. Si su razón les dice que una cosa es imposible no la creen, aunque se les demuestre. Los hombres de ciencia se ven obligados a contentarse con obedecer las leyes de la Naturaleza cuando están haciendo experiencias o investigaciones químicas, etc, de lo que conocen algo, pero se creen con derecho a prescribir condiciones cuando sé experimenta con cosas suprafísicas, de las que están ignorantes por completo. Cuando los médium piden un cuarto oscuro para sus experimentos, los hombres de ciencia dicen generalmente: "Ah; sí; eso demuestra en seguida que hay fraude; quieren un cuarto oscuro para que no se vean sus trampas. Los médium, generalmente, no saben por qué tiene que estar el cuarto cerrado, y, por consiguiente, no pueden explicarlo; pero hay una ley que rige el pedido del médium. 
+Un ciego no ve los colores ni la luz, aunque están en torno suyo, y si nos viniera a pedir que nos sometiéramos a pruebas para probarle, sin dar lugar á dudas, que nosotros percibimos la luz y el color, nos maravillaríamos de que esas pruebas pudieran convencerle de esos hechos. Igualmente el clarividente educado se maravillaría de que las pruebas convencieran a todo el mundo. Nunca se ha inventado prueba alguna que no se preste a otra explicación y, desgraciadamente, el clarividente que se prestase a tales experimentos se vería obligado a prestarse siempre, lo que no impediría que generaciones enteras de escépticos lo denunciaran como defraudador. Se vería obligado a someterse a los experimentos de cada uno de los hombres de ciencia, y los hombres de ciencia no creen ni siquiera lo que ven sus propios ojos. Si su razón les dice que una cosa es imposible no la creen, aunque se les demuestre. Los hombres de ciencia se ven obligados a contentarse con obedecer las leyes de la Naturaleza cuando están haciendo experiencias o investigaciones químicas, etc, de lo que conocen algo, pero se creen con derecho a prescribir condiciones cuando sé experimenta con cosas suprafísicas, de las que están ignorantes por completo. Cuando los médium piden un cuarto oscuro para sus experimentos, los hombres de ciencia dicen generalmente: 
 
-Los rayos luminosos ponen al éter en vibración violenta, lo que dificulta a esas entidades comunicantes para trabajar en esas condiciones, para formar con éter un cuerpo, un órgano vocal, una mano o cualquier otra manifestación material. 
+"Ah; sí; eso demuestra en seguida que hay fraude; quieren un cuarto oscuro para que no se vean sus trampas. Los médium, generalmente, no saben por qué tiene que estar el cuarto cerrado, y, por consiguiente, no pueden explicarlo; pero hay una ley que rige el pedido del médium. 
 
-Cuanto más oscuro está el cuarto, tanto menos vibra el éter y tanto más fácilmente pueden esas entidades producir los fenómenos espiritistas. 
+Los rayos luminosos ponen al éter en vibración violenta, lo que dificulta a esas entidades comunicantes para trabajar en esas condiciones, para formar con éter un cuerpo, un órgano vocal, una mano o cualquier otra manifestación material. Cuanto más oscuro está el cuarto, tanto menos vibra el éter y tanto más fácilmente pueden esas entidades producir los fenómenos espiritistas. 
 
 Hay otras muchas leyes que rigen los fenómenos suprafísicos, leyes que la ciencia ni sospecha siquiera, ignorancia que descalifica al hombre de ciencia para poner y establecer condiciones. Pero el camino está siempre abierto para todos, y por esta razón todos pueden conocer directamente. Ellos nos dicen: procuraos un cierto número de lentes, redondeadlos en tal forma, colocadlos en un tubo en cierta forma apuntad en determinada dirección al cielo y veréis ocho lunas que giran en torno de Saturno. Si seguimos sus indicaciones veremos que lo que dicen ellos es cierto. Si nos negamos a proveernos de los instrumentos necesarios no podremos ver las lunas de Saturno. Y nosotros les decimos: Vivid la vida necesaria y realizad los ejercicios para que podáis desarrollar en vosotros mismos la facultad de la que hablamos. Entonces veréis como hemos dicho la verdad y os veréis obligados a sostener lo que sostenemos. Si no quieren seguir nuestras indicaciones no se convencerán de la existencia de los mundos suprafísicos, así como el hombre que no se procure un telescopio puede dudar de la existencia de las lunas de Saturno. Por todas esas cosas los clarividentes educados se abstienen. 
 
-### PREGUNTA Nº 133
+### <h3 id="question-133">PREGUNTA Nº 133</h3>
 
 Si la clarividencia es un medio tan exacto de investigación, una facultad espiritual tan elevada, ¿por qué la vemos generalmente en manos de personas de poca educación, de clase baja, que parecen tener muy poca espiritualidad y que a menudo mienten? 
 
@@ -1783,7 +1789,7 @@ El hombre que desarrolla conscientemente esa facultad espiritual controla la vib
 
 Para desarrollar la clarividencia voluntaria es necesario someterse a una tarea muy ardua, y, por consiguiente, esta facultad la poseen muy pocos, mientras que la clarividencia negativa, desgraciadamente, la han desarrollado muchos que no tienen elevados ideales que les impidan prostituir su facultad por dinero. 
 
-### PREGUNTA Nº 134
+### <h3 id="question-134">PREGUNTA Nº 134</h3>
 
 ¿Qué significa la iniciación? ¿Por qué hay solamente hombres iniciados? 
 
@@ -1793,13 +1799,13 @@ Cuando una persona se ha esforzado en vivir la vida superior durante algún tiem
 
 De manera, pues, que es evidente que la iniciación es el resultado inevitable del mérito. Nunca se vende por dinero, si bien no faltan charlatanes sin escrúpulos que ofrezcan iniciar a cualquiera en las artes ocultas de las que nada saben; ni faltan tampoco tontos o personas deshonestas que esperan adquirir un poder siniestro sobre sus semejantes mediante esa compra. Si Simón, el mago, mereció los reproches de Pedro cuando intentó comprar el poder espiritual, no sabemos qué calificativo merecen esos que se anuncian como comerciantes, especialmente cuando, debido a la naturaleza de las cosas, son incapaces de entregar las mercancías que ofrecen en venta. El preguntante está en un error si cree que solo hay hombres iniciados, por lo menos en lo que respecta a los Misterios Menores. Hay también mujeres iniciadas, y a veces hasta iniciados en los Grandes Misterios toman un cuerpo femenino para poder efectuar determinado trabajo que desean realizar. Es muy cierto, sin embargo, que los que han avanzado tanto que pueden elegir el sexo, generalmente prefieren un cuerpo masculino, y la razón de ello no es difícil de comprender. La mujer tiene un cuerpo vital positivo, pero un cuerpo denso negativo, y está, por consiguiente, en desventaja en el mundo en que vivimos, tal como ahora está constituido. Pero los ideales elevados y el vivir la vida superior espiritualizan el cuerpo vital trasmutándolo en alma, la que es siempre positiva un poder empleable sin tener en cuenta el sexo y cuando el iniciado usa un cuerpo masculino también es completamente positivo en el Mundo Físico y tiene mejores oportunidades de adelanto que si usara un vehículo femenino. 
 
-### PREGUNTA Nº 135
+### <h3 id="question-135">PREGUNTA Nº 135</h3>
 
 ¿Es deber de los que conocen los asuntos relacionados con la vida superior el dar informaciones y ayudar a los menos informados? 
 
 Respuesta: Ciertamente, el conocimiento es una de las cosas que podemos dar a los demás quedándonos con él siempre, sin embargo. En realidad, cuando ayudamos a los demás diseminando nuestro conocimiento nos ayudamos a nosotros mismos y aumentamos nuestro propio capital. Porque nadie conoce realmente una cosa hasta que se la ha dicho y explicado a algún otro, y debemos tener en cuenta que cualquier conocimiento que obtengamos no es de nuestra propiedad exclusiva, sino que debe ser empleado para el bien universal. Si lo guardamos egoístamente y rehusamos iluminar a otros, obrará en nosotros en la misma forma que si continuáramos comiendo alimentos físicos sin arrojar los detritus. Llegaría un tiempo en el que no podríamos contener más y nos enfermaríamos. Cuando se lo conserva en vez de emplearlo en beneficio de los demás, es muy fácil que uno se convierta en un maniático y hasta puede llegar a la locura. 
 
-### PREGUNTA Nº 136
+### <h3 id="question-136">PREGUNTA Nº 136</h3>
 
 ¿Qué calificaciones son necesarias para convertirse en un Auxiliar Invisible? ¿Hay que dedicar toda la vida al desarrollo espiritual? 
 
@@ -1809,9 +1815,9 @@ Por consiguiente, la continua y paciente realización de todos los deberes terre
 
 El aspirante necesita además el conocimiento. A menos que hayamos estudiado las condiciones post-mortem y nos hayamos familiarizado con el esquema evolutivo, teniendo una idea amplia de la constitución del hombre y otras materias semejantes, nos será imposible instruir a los que están menos informados, y hacernos entonces cargo de las tareas de un Auxiliar Invisible y de un instructor, sería lo mismo que enviar a un ignorante como maestro a una escuela. 
 
-Por último, y esto no es lo menos esencial, el Auxiliar Invisible debe estar lleno de un amor por la humanidad que lo abarque todo. Es imposible que seamos insensibles a los sufrimientos de nuestros semejantes aquí y que al mismo tiempo estemos llenos de amor y de deseos de ayudar en el otro mundo, así como un hombre que no conozca una nota en su vida terrestre no puede convertirse en un músico profesional por el solo hecho de morir, o adquirir tal pasión por la música que esté anhelando emplear toda la eternidad en tocar la trompeta o el arpa. Por consiguiente, reiteramos, que para convertirse en un Auxiliar Invisible allí, es necesario primero que nos califiquemos ayudando aquí. 
+Por último, y no por esto menos importante, el Auxiliar Invisible debe estar lleno de un amor por la humanidad que lo abarque todo. Es imposible que seamos insensibles a los sufrimientos de nuestros semejantes aquí y que al mismo tiempo estemos llenos de amor y de deseos de ayudar en el otro mundo, así como un hombre que no conozca una nota en su vida terrestre no puede convertirse en un músico profesional por el solo hecho de morir, o adquirir tal pasión por la música que esté anhelando emplear toda la eternidad en tocar la trompeta o el arpa. Por consiguiente, reiteramos, que para convertirse en un Auxiliar Invisible allí, es necesario primero que nos califiquemos ayudando aquí. 
 
-### PREGUNTA Nº 137
+### <h3 id="question-137">PREGUNTA Nº 137</h3>
 
 ¿Qué objeto tiene una persona para salir de su cuerpo? 
 
@@ -1819,7 +1825,7 @@ Respuesta: En la actual etapa de nuestra evolución, la mayor parte de la humani
 
 El propósito de salir del cuerpo es obtener conocimientos más grandes. Pero ese conocimiento en sí mismo es solo un medio para llegar al fin: ayudar a los demás a progresar. Por consiguiente, los que son capaces de salir de sus cuerpos se conocen con el nombre de Auxiliares Invisibles. Su obra es para ayudar a los vivos y a los muertos, de acuerdo con sus capacidades. 
 
-### PREGUNTA Nº 138
+### <h3 id="question-137">PREGUNTA Nº 138</h3>
 
 ¿Es absolutamente necesario vivir una vida de ascetismo con objeto de espiritualizarse y obtener poderes psíquicos? 
 
@@ -1831,7 +1837,7 @@ Pero algunas personas creen que el ascetismo es "vivir una vida pura e inmaculad
 
 Eso no puede hacerse. Nuestros cuerpos son nuestras herramientas. Un buen obrero aprecia debidamente el valor de sus buenas herramientas y las conserva en el mejor estado posible: afiladas y limpias. Cuando nuestros sentidos han quedado entorpecidos por el alcohol y el tabaco, cuando el sistema se ve obligado a ejercer toda su energía para digerir o eliminar groseros alimentos, ¿puede esperarse que el hombres sea sensitivo? No podemos servir a Dios y al diablo: la elección es nuestra. Si queremos poderes espirituales deberemos pagar su precio, que es una vida inmaculada; debemos dar a nuestros cuerpos alimentos puros y sujetarnos a las reglas de la vida sencilla; debemos abstenernos de todo cuanto entorpezca los sentidos: alcohol, tabaco v otras cosas semejantes. Si a eso se le llama "una vida ascética," el ascetismo es entonces absolutamente necesario. 
 
-### PREGUNTA Nº 139
+### <h3 id="question-139">PREGUNTA Nº 139</h3>
 
 Todos los niños ¿son clarividentes hasta cierta edad? 
 
@@ -1847,7 +1853,7 @@ El protestó de su inocencia, rogando que lo dejaran ir a visitar a su esposa e 
 
 Entonces se le mostraron a la niña varias fotografías mezcladas, entre las cuales había dos fotografías de Mr. Roberts y de su esposa. El aspecto de aquél había cambiado mucho desde el tiempo en que se hizo aquella fotografía; pero, sin embargo, cuando la nena vio ese retrato, exclamó enseguida con alegría: "¡Oh, aquí está papá!" También reconoció el retrato de su madre de su vida anterior. La nena tendría unos tres años cuando Mr. Roberts la encontró en Santa Bárbara, de manera que era imposible que hubiera inventado ese relato. Más tarde el caso fue investigado por uno de los diarios de más circulación en la California del Sur, The Los Ángeles Times, y se verificó que los hechos relatados eran absolutamente ciertos. 
 
-### PREGUNTA Nº 140
+### <h3 id="question-140">PREGUNTA Nº 140</h3>
 
 ¿Cuál es la diferencia entre la magia blanca y la negra? La práctica de la magia negra, ¿qué efectos tiene sobre el alma? 
 
@@ -1857,7 +1863,7 @@ El mago negro, gracias a sus conocimientos y artes, puede, algunas veces durante
 
 La magia negra en sus formas inferiores, tales como el hipnotismo, por ejemplo, produce algunas veces el idiotismo congénito en una vida futura. Los hipnotizadores privan a sus víctimas del libre empleo de sus cuerpos. Entonces, bajo la ley de consecuencia, se verán ligados a un cuerpo cuyo cerebro deformado impedirá su expresión. No debemos deducir de esto, sin embargo, que todos los casos de idiotismo congénito sean debidos a esas malas prácticas por parte del Ego en una vida pasada; hay también otras causas que producen el mismo resultado. 
 
-### PREGUNTA Nº 141
+### <h3 id="question-141">PREGUNTA Nº 141</h3>
 
 Usted habla de las escuelas de ocultismo orientales y occidentales. ¿Es la escuela occidental la mejor? ¿Por que? 
 
@@ -1865,7 +1871,7 @@ Respuesta: Hay cierto número de razas diferentes sobre la tierra en la actualid
 
 Hay, por supuesto, hombres muy desarrollados en el Oriente, hombres que están adelantadísimos en las enseñanzas de su escuela, pero el estado correspondiente se alcanza generalmente con los métodos occidentales en menos tiempo y con menos esfuerzos. 
 
-### PREGUNTA Nº 142
+### <h3 id="question-142">PREGUNTA Nº 142</h3>
 
 ¿Cuál es la diferencia entre la visión etérica, la clarividencia y la visión perteneciente al Mundo del Pensamiento? 
 
@@ -1873,7 +1879,7 @@ Respuesta: Cuando se mira a un hombre con la vista etérica se ve primeramente s
 
 Cuando miramos a una persona o cosa con la clarividencia ordinaria, vemos su cuerpo de deseos y la contraparte de los demás vehículos por dentro y por fuera cada partícula al mismo tiempo. Es más bien difícil leer un libro o una carta con la visión etérica porque tenemos entonces que mirar a través de las demás páginas, lo que pone borroso lo que haya en la página que queremos leer. Cuando miramos o empleamos la clarividencia ordinaria parece como si el libro o la carta desaparecieran de manera que se puede leer una parte o página sin necesidad de tener que mirar a través de ellas. Pero cuando miramos un objeto con la visión perteneciente a las cuatro regiones inferiores del Mundo del Pensamiento -el autor no tiene conocimientos personales sobre los demás dominios superiores encontramos que en vez de formas hay espacios vacíos o moldes, que nos hablan y nos dicen todo lo que hay sobre ellos mismos. La necesidad de la investigación queda eliminada en ese mundo. Allí conocemos inmediatamente todo cuanto hay que saber sobre el objeto que llama nuestra atención. Sin embargo, hay una cosa curiosa respecto al conocimiento obtenido en esa forma: viene a nosotros inmediatamente en total. La suma de este conocimiento es un todo que no tiene ni principio ni fin. Por consiguiente, por regla general es una tarea hercúlea desarrollarlo en un concepto coordinado, consecuente, que pueda ser expuesto comprensiblemente para nosotros y para los demás. 
 
-### PREGUNTA Nº 143
+### <h3 id="question-143">PREGUNTA Nº 143</h3>
 
 Una persona que padezca de una gran debilidad nerviosa ¿puede adoptar sin peligro la educación o ejercitamiento oculto dado por los rosacruces, o es necesario que se restablezca primeramente? ¿Se obtiene la salud mediante el ejercitamiento ocultista? 
 
@@ -1883,7 +1889,7 @@ Si una persona de temperamento nervioso trata de realizar con calma y quietud es
 
 La actitud de un gato cuando está acechando la madriguera de un ratón ilustra muy bien esa relajación o laxación muscular. Está sentado en una posición perfectamente cómoda; con toda calma y quietud, espera que salga el ratón. No gasta ninguna energía en impaciencias ni ansiedad. Con toda quietud aguarda con la fe de que más o menos pronto se presentará la oportunidad. Toda su fuerza la reserva para el instante supremo cuando salte para cazar su presa. Si el discípulo afloja completamente sus músculos y con toda calma y quietud revisa los sucesos del día en el ejercicio vespertino y se concentra sobre un ideal elevado por la mañana, desaparecerá gradualmente la nerviosidad y un día llegará la oportunidad: la visión espiritual se desarrollará. 
 
-### PREGUNTA Nº 144
+### <h3 id="question-144">PREGUNTA Nº 144</h3>
 
 Siendo un cuerpo vigoroso y sano necesario para el desarrollo espiritual ¿qué es lo que las enseñanzas rosacruces pueden dar al que al presente no goza de buena salud física? El estudio de esa filosofía y la práctica de sus enseñanzas ¿mejorará la salud como resultado y tenderá a mantener a la persona en buena salud? 
 
@@ -1895,7 +1901,7 @@ Cuando comprendemos las filosofías superiores, cuando vivimos la vida que ellas
 
 Hay casos, sin embargo, en los que una enfermedad es necesaria para producir ciertos cambios en el cuerpo, cambios que son precursores de un grado más elevado de desarrollo espiritual, y bajo tales condiciones la enfermedad es por supuesto, una bendición y no una maldición. Sin embargo, en general puede decirse que el estudio de las filosofías superiores tenderá siempre a mejorar la propia salud, porque "saber es poder," y cuanto más sepamos tanto mejor podremos dominar todas las condiciones, siempre que llevemos nuestros conocimientos a la práctica y vivamos la vida; que no seamos siempre oyentes del verbo, sino obreros también, porque ninguna enseñanza nos beneficia absolutamente, salvo que las llevemos en nuestra vida viviéndolas diariamente. 
 
-### PREGUNTA Nº 145
+### <h3 id="question-145">PREGUNTA Nº 145</h3>
 
 Si cultivamos la clarividencia en esta vida ¿para qué nos servirá en la vida post-mortem? 
 
@@ -1903,7 +1909,7 @@ Respuesta: En muchas formas nos será de utilidad. En primer lugar, muchos hombr
 
 El hombre que ha cultivado la clarividencia durante la vida terrestre a veces es atormentado en su primera entrada en el Mundo Invisible por varias entidades elementales que adoptan las más horrendas formas. Reconocen en el neófito a un posible señor futuro y tratan de disuadirlo de ese propósito intimidándolo; pero como generalmente no falta algún instructor que lo ayude enseñándole que esos seres no tienen poder alguno sobre él, muy prontamente se sobrepone al miedo. Cuando más tarde deja su cuerpo al morir y entra en el Mundo Invisible ya se ha familiarizado con todas las cosas de allí, pero sobre todo no tiene miedo alguno que lo acobarde. 
 
-### PREGUNTA Nº 146
+### <h3 id="question-146">PREGUNTA Nº 146</h3>
 
 La contemplación del Dios interno, si se efectúa persistentemente, ¿conduce al crecimiento espiritual llevándolo a uno al adeptado? 
 
@@ -1913,15 +1919,14 @@ Desgraciadamente, algunas personas creen justificado que pueden abandonar sus de
 
 El lejano Oriente ilustra, con horrible ejemplo, los malos resultados que produce el descuidar los deberes materiales por lo que imaginan ser poderes espirituales. Allí se macean y deforman el cuerpo con prácticas tales como la de mantener un brazo estirado basta que se seque. No es verdadera espiritualidad la que no produzca el bien para todo el mundo. Algunas veces se dice que "todo pescado debe estar colgado de sus agallas y que toda barrica debe estar parada sobre su propia base." Pero también es cierto que todo aquello que no tienda a elevar a todos no eleva a nadie. El deseo profundo que sale del corazón para ayudar a aumentar el bien común es la única justificación para emplear las propias fuerzas en el desarrollo del poder espiritual. Se habla de reuniones de madres en las que se iba a discutir como cuidar mejor del hogar y de los propios hijos, mientras que sus hijitos se encontraban en una casa sucia, sin que nadie les prestara el menor cuidado. Esos relatos no son simples exageraciones o burlas; contienen más verdades que poesía. Y las personas que ansían la espiritualidad, que desean contemplar al ángel interno, mientras descuidan a su familia y otros deberes, van a la par que dichas madres. Cuanto más pronto despertemos a la verdad de que ningún deber presente, por humilde que sea, puede ser descuidado impunemente para dedicarse a la obra espiritual, por exaltada que sea, tanto mejor para nosotros. Aconsejaríamos al lector que leyera el poema de Longfellow, la "Blessed Visión," que viene muy al caso. Un monje está arrodillado sobre el piso de piedra, cuando una hermosa visión de Cristo se le aparece precisamente al mediodía, cuando el sonido de la campana lo llama a la puerta donde los pobres están esperando sus limosnas que dicho monje tiene el deber de darles cada día. Entonces el monje se pregunta si se quedará con su inefable visitante o si lo dejará para ir a llevar el sustento a los pobres hambrientos. Pero una voz interna le dice: 
 
+```
 "Haz tu deber lo mejor que puedas  
 "Dejando al Señor el resto."  
+```
 
-Sigue entonces el consejo de esta vos dejando a la visión en su celda, dudando de que cuando vuelva la encuentre nuevamente allí. Sin embargo, siente que es su deber ayudar a los demás; sin importársele lo que él mismo pierda con ello, y cuando después de haber entregado las limosnas a los pobres vuelve a su celda la visión lo saluda con estas palabras: 
+Sigue entonces el consejo de esta vos dejando a la visión en su celda, dudando de que cuando vuelva la encuentre nuevamente allí. Sin embargo, siente que es su deber ayudar a los demás; sin importársele lo que él mismo pierda con ello, y cuando después de haber entregado las limosnas a los pobres vuelve a su celda la visión lo saluda con estas palabras: "Si aquí te hubieras quedado, Yo me hubiera ido."  
 
-"Si aquí te hubieras quedado  
-"Yo me hubiera ido."  
-
-### PREGUNTA Nº 147
+### <h3 id="question-147">PREGUNTA Nº 147</h3>
 
 Se recuerdan casos de ciertos individuos que han desarrollado poder espiritual, clarividencia, sexto sentido o como quiera llamárselo, viviendo una vida pura en armonía con las leyes de la Naturaleza, y las enseñanzas del ocultismo moderno llenas de términos técnicos ¿no tienen cierta tendencia a producir confusiones más bien que a producir los resultados deseados? 
 
@@ -1935,7 +1940,7 @@ El verdadero Arte es tan educador como la ciencia y tan perfeccionante en su inf
 
 Nada menor que esa enseñanza que todo lo abarca puede satisfacer las necesidades de un pueblo creciente y, por consiguiente, la religión técnico-devocional es absolutamente necesaria actualmente. 
 
-### PREGUNTA Nº 148
+### <h3 id="question-148">PREGUNTA Nº 148</h3>
 
 ¿Es posible desarrollar la clarividencia por medio de drogas, cristales o ejercicios respiratorios? Esos métodos ¿no producen resultados más rápidos que los que usted invoca? 
 
@@ -1945,44 +1950,43 @@ Si se aprende a dominar un caballo salvaje se podrá dominar a los demás, y el 
 
 Además, hay varias clases de clarividentes. Hay algunos cuya facultad es de tal naturaleza que puede comparárselos a un prisionero tras las rejas de su ventana. La ventana de su celda da a cierto paisaje; no puede impedir que algo entre en el campo de su visión, porque no puede retirarse de allí. Hay también una persiana en la ventana que él no puede abrir o cerrar a voluntad. Así que cuando la persiana se abre ve lo que está a su vista, agrádele o no. Una facultad de esa naturaleza es casi una maldición, porque a veces se producen las escenas más espantosas ante su visión. El autor recuerda casos de personas que poseían esa facultad. Mientras una de esas personas estaba dando una conferencia ante cierta concurrencia, en la época en que tuvo lugar la guerra de las Filipinas, se presentó la escena de una batalla ante su visión. Un encuentro tenía entonces lugar entre los filipinos y los soldados norteamericanos. Veía los caballos con el vientre desgarrado y las entrañas en el suelo, caer por tierra agonizantes, veía a los soldados descuartizados por las armas de los nativos. Incapaz de evitar esta visión se puso intensamente pálido, pero un poderoso esfuerzo de voluntad le permitió acabar su conferencia sin atraer la atención general. 
 
-Hay otros clarividentes que tienen solo un dominio parcial de su visión, los que no pueden contar con su poder en todo tiempo. A esta clase pertenecen los médium ordinarios que prostituyen su facultad por dinero. A veces, cuando el poder funciona, pueden hacer muy buenas observaciones y decir la verdad; pero otras veces, cuando les falta ése poder, la tentación de obtener el dinero que les hace falta para sus gastos personales puede obligarlos a la simulación. La única manera segura de desarrollar la clarividencia es seguir los ejercicios que dan las escuelas de misterios, pero esos ejercicios y lecciones para desarrollar las facultades superiores nunca se venden por dinero ni por ninguna otra consideración material. Siempre se dan libremente como recompensa al mérito. El hombre que posee esa facultad, obtenida mediante estos métodos, tiene ese poder siempre a su disposición, pero jamás consentirá en emplearlo para gratificar la curiosidad de nadie, ni para someterse a pruebas ni a otras frivolidades. Dirige toda su energía en el sentido de que contribuya a ayudar y a elevar a la humanidad. 
+Hay otros clarividentes que tienen solo un dominio parcial de su visión, los que no pueden contar con su poder en todo tiempo. A esta clase pertenecen los médium ordinarios que prostituyen su facultad por dinero. A veces, cuando el poder funciona, pueden hacer muy buenas observaciones y decir la verdad; pero otras veces, cuando les falta ése poder, la tentación de obtener el dinero que les hace falta para sus gastos personales puede obligarlos a la simulación. 
 
-### PREGUNTA Nº 149
+La única manera segura de desarrollar la clarividencia es seguir los ejercicios que dan las escuelas de misterios, pero esos ejercicios y lecciones para desarrollar las facultades superiores nunca se venden por dinero ni por ninguna otra consideración material. Siempre se dan libremente como recompensa al mérito. El hombre que posee esa facultad, obtenida mediante estos métodos, tiene ese poder siempre a su disposición, pero jamás consentirá en emplearlo para gratificar la curiosidad de nadie, ni para someterse a pruebas ni a otras frivolidades. Dirige toda su energía en el sentido de que contribuya a ayudar y a elevar a la humanidad. 
+
+### <h3 id="question-149">PREGUNTA Nº 149</h3>
 
 ¿Por qué la mañana es el momento mejor para la concentración? 
 
 Respuesta: El objeto de los ejercicios, tanto el de la mañana como el de la noche, es poner al discípulo en contacto consciente con los mundos invisibles, y no hay momento mejor para ello que la mañana, porque durante la noche el espíritu se retira del cuerpo denso y entra en el mundo invisible; dejando al cuerpo dormido en el lecho, y la vuelta del espíritu por la mañana es lo que hace que el cuerpo se despierte y concentra nuestra conciencia en el mundo material por medio de los órganos de los sentidos. Wordsworth dice en su hermosa Ode to Immortality (Oda a la Inmortalidad): 
 
-"Our birth is but a sleep and a forgetting:  
-The Soul that rises with us, our life's Star,  
-Hath had elsewhere its setting, and cometh from afar:  
-Not in entire forgetfulness, and not in utter nakedness,  
-But trailing clouds of glory do we come from God, who is our home:  
-"Heaven lies about us in our infancy!  
-Shades of the prison-house begin to close  
-Upon the growing Boy.  
-But He beholds the light, and whence it flows,  
-He sees it in his joy.  
-"The Youth, who daily farther from the east  
-Must travel, still is Nature's Priest,  
-And by the vision splendid  
-Is on his way attended;  
-At length the Man perceives it die away,  
-And the fade into the light of common day." (*)  
-(*)"El nacimiento no es sino un sueño y un olvidar: /El alma que surge con nosotros, la estrella
-de nuestra vida, /Ha tenido su ocaso en otra parte y viene de lejos: / Ni totalmente
-desmemoriados, ni enteramente desnudos, /Sino trayendo nubes de gloria, venimos de Dios
-que es nuestro hogar: / Los cielos están con nosotros en nuestra infancia. /Las sombras de la
-prisión empiezan a cerrarse. /En torno al niño que crece. / Pero aún ve la luz y de dónde
-proviene / Cuando la ve se llena de alegría: /La juventud que avanza desde el este, debe viajar,
-es todavía sacerdote de la Naturaleza, /Y en su camino lo espera la espléndida visión.
-/Finalmente el hombre la ve marchitarse /Y disolverse a la luz del día vulgar. (E.)
+```
+"El nacimiento no es sino un sueño y un olvidar: 
+El alma que surge con nosotros, la estrella de nuestra vida, 
+Ha tenido su ocaso en otra parte y viene de lejos:
+Ni totalmente desmemoriados, ni enteramente desnudos,
+Sino trayendo nubes de gloria, venimos de Dios
+que es nuestro hogar:
+
+Los cielos están con nosotros en nuestra infancia. 
+Las sombras de la prisión empiezan a cerrarse. 
+En torno al niño que crece. 
+Pero aún ve la luz y de dónde proviene
+Cuando la ve se llena de alegría:
+
+La juventud que avanza desde el este, 
+debe viajar, es todavía sacerdote de la Naturaleza,
+Y en su camino 
+lo espera la espléndida visión.
+Finalmente el hombre la ve marchitarse
+Y disolverse a la luz del día vulgar. (E.)
+```
 
 Durante la vida de una persona, los Mundos Superiores están más cerca de ella en los años de la infancia, según dice Wordsworth, porque esa es la mañana de la vida, y así sucede con nosotros; cuando nos despertamos por la mañana estamos en más estrecho contacto con los Mundos Espirituales que en cualquier otro momento del día, y entonces es mucho más fácil volver a ellos. Por consiguiente, el estudiante debe comenzar sus ejercicios apenas se despierte. Debe tener cuidado de aflojar todos los músculos del cuerpo y fijar su mente en un elevado ideal o sobre los primeros cinco versículos del Evangelio según San Juan, bien sentencia por sentencia o bien en total. Esto lo pondrá en contacto con las vibraciones cósmicas. Debe cerrar sus sentidos en tal forma que no vea ni oiga nada en su habitación. Cuando lo consiga, las escenas del Mundo del Deseo se presentarán ante su visión interna. Primero espasmódicamente, después más y más claramente, conforme la práctica lo vaya perfeccionando. 
 
 Para muchas personas, sin embargo, el ejercicio nocturno es de la mayor importancia y probablemente producirá resultados más rápidos, porque obra sobre la vida que llevamos y nos ennoblece en forma tal que el ejercicio matinal no podría hacerlo. 
 
-### PREGUNTA Nº 150
+### <h3 id="question-150">PREGUNTA Nº 150</h3>
 
 Me es muy difícil revisar los sucesos del día en orden invertido cuando hago los ejercicios nocturnos. ¿Es eso absolutamente necesario? ¿Por qué? 
 
@@ -1990,39 +1994,37 @@ Respuesta: En el ejercicio nocturno el discípulo examina y juzga la vida de ese
 
 Nuestro deber es encontrar esa causa y analizar las razones que conducen a todo desenvolvimiento, de manera que podamos saber en el futuro como aprovechar las oportunidades de crecimiento anímico y como evitar el mal. De manera, pues, que si seguimos las experiencias de cada día en orden invertido nos aprovecharemos de las experiencias obtenidas inmediatamente, en vez de tener que esperar a que hayamos pasado al más allá, donde nos veremos obligados a recoger los frutos de nuestras obras en el Purgatorio y en el Primer Cielo. 
 
-### PREGUNTA Nº 151
+### <h3 id="question-151">PREGUNTA Nº 151</h3>
 
 ¿Qué valor tienen los ejercicios respiratorios en el desarrollo del cuerpo y de la mente? 
 
-Respuesta: El valor de los ejercicios respiratorios depende del conocimiento que tenga la persona que los da. Los ejercicios respiratorios que se dan en los libros o por los llamados instructores, que anuncian cursos de desarrollo psíquico, son extremadamente peligrosos y muchas personas están hoy en los manicomios, debido a haberlos practicado, o han muerto de consunción. Todo ser humano es un individuo que necesita ejercicios individuales. Los ejercicios convenientes solo puede darlos una persona clarividente, que pueda además seguir atentamente el crecimiento de ciertos órganos etéricos en el cuerpo físico de su discípulo. Debe también saber como debe realizarse ese crecimiento en cada caso individual. Pero un instructor de esta clase jamás anuncia desarrollo psíquico a tanto la lección. Esos ejercicios nunca se venden: son siempre la recompensa del mérito. 
+Respuesta: El valor de los ejercicios respiratorios depende del conocimiento que tenga la persona que los da. Los ejercicios respiratorios que se dan en los libros o por los llamados instructores, que anuncian cursos de desarrollo psíquico, son extremadamente peligrosos y muchas personas están hoy en los manicomios, debido a haberlos practicado, o han muerto de consunción. 
+
+Todo ser humano es un individuo que necesita ejercicios individuales. Los ejercicios convenientes solo puede darlos una persona clarividente, que pueda además seguir atentamente el crecimiento de ciertos órganos etéricos en el cuerpo físico de su discípulo. Debe también saber como debe realizarse ese crecimiento en cada caso individual. Pero un instructor de esta clase jamás anuncia desarrollo psíquico a tanto la lección. Esos ejercicios nunca se venden: son siempre la recompensa del mérito. 
 
 La razón es evidente. El que posee la facultad de la clarividencia a voluntad tiene un poder enorme; si se emplea mal puede hacer más daños que ninguna otra calamidad en la tierra podría producir. Puede producir pánico en los mercados del mundo, guerras y enemistades entre los pueblos, en cualquier momento y en todas partes, así que se convertiría en una maldición para la sociedad, salvo que el que posea dicha facultad no la emplee jamás más que para el bien. Los poderes que están tras la evolución, los Hermanos Mayores de la humanidad, que han desarrollado esos poderes y son capaces de enseñar a desarrollarlos, tienen sumo cuidado de que nadie los obtenga, a menos que haya dado pruebas de desinterés y que se haya limitado por votos restrictivos. Por consiguiente, puede decirse que nadie debe hacer ejercicios respiratorios, salvo que sean dados por un instructor calificado, no siendo necesario absolutamente el correr por el mundo en busca de tal instructor. El aspirante deberá más bien tratar de hacer todo el bien que pueda empleando las facultades que ya posee en el alrededor ambiente en que ya está, pues esos son los pasos preliminares y esenciales para llegar a los poderes superiores. Cuando se haya preparado suficientemente, el instructor aparecerá en su vida y entonces no tendrá la menor duda respecto a la genuinidad de las enseñanzas que entonces se le darán. En este respecto podemos citar un poemita hermosísimo: 
 
-"Don't waste your time in longing  
-For bright, impossible things,  
-Don't sit supinely waiting  
-For the sprouting of angel wings,  
-Don't scorn to be a rushlight,  
-Everyone cannot be a star;  
-But brighten some of the darkness  
-By shining just where you are.  
-There's need of the tiniest candle  
-As well as the garish Sun,  
-And the humblest deed is ennobled  
-When it is worthily done;  
-You may never be called on to brighten  
-Darkened regions afar,  
-So fill day by day your mission  
-By shining just where you are" (*)  
-(*) No malgastéis vuestro tiempo en ansiar/ Cosas deslumbrantes e imposibles;/No os
-sentéis negligentemente a esperar / El nacimiento de las alas de ángel, /No desdeñéis ser la luz
-de una bujía,/No todos pueden ser una estrella; /Pero brillad un poco en las tinieblas,/Brillad
-precisamente allí donde estáis./Hay tanta necesidad de la más pequeña bujía/ Como del
-deslumbrante Sol,/Y la más humilde tarea es ennoblecida/ Cuando es dignamente
-ejecutada;/Quizás nunca se os llame para iluminar/ Oscuras y lejanas regiones, / De modo que
-cumplid, un día tras otro, vuestra misión / Brillando allí donde estáis. (E)
+```
+No malgastéis vuestro tiempo en ansiar
+Cosas deslumbrantes e imposibles;
+No os sentéis negligentemente a esperar
+El nacimiento de las alas de ángel, 
+No desdeñéis ser la luz de una bujía,
+No todos pueden ser una estrella;
+Pero brillad un poco en las tinieblas,
+Brillad precisamente allí donde estáis.
 
-### PREGUNTA Nº 152
+Hay tanta necesidad de la más pequeña bujía
+Como del deslumbrante Sol,
+Y la más humilde tarea es ennoblecida
+Cuando es dignamente ejecutada;
+Quizás nunca se os llame para iluminar
+Oscuras y lejanas regiones,
+De modo que cumplid, un día tras otro, vuestra misión
+Brillando allí donde estáis. (E)
+```
+
+### <h3 id="question-152">PREGUNTA Nº 152</h3>
 
 El Mundo Invisible del que habla usted ¿no es mucho más irreal e ilusorio que el mundo en que vivimos actualmente? 
 
@@ -2032,9 +2034,9 @@ Cuando un arquitecto desea construir una casa, primeramente piensa en ello. Desp
 
 De acuerdo con las ideas de la mayoría esa casa es mucho más real que la imagen mental de la mente del arquitecto, pero en realidad no es así. La casa concreta puede ser destruida en un momento por un terremoto, por la dinamita o en otra forma cualquiera, pero la ideación de la mente del arquitecto durará tanto como viva éste y mediante ella podrán construirse tantas casas como se quieran en cualquier momento, aún después de su muerte, pues la casa existirá como modelo en el éter, y cualquier clarividente capaz de ponerse en contacto con los mundos invisibles y leer la memoria de la Naturaleza puede verla allí, aunque pasen millones de años. Así que el mundo invisible es la fuente de todo cuanto hay aquí, conservando eternamente el recuerdo de todo cuanto ha sido, y, por lo tanto, es de realidad primordial. 
 
-## SECCIÓN VII - Preguntas concernientes a ASTROLOGÍA
+<h2 id="section-7">SECCIÓN VII - Preguntas concernientes a ASTROLOGÍA</h2>
 
-### PREGUNTA Nº 153
+### <h3 id="question-153">PREGUNTA Nº 153</h3>
 
 ¿Es muy posible que la astrología y la quiromancia sean verdad? ¿Se pueden evitar las desgracias futuras mediante las predicciones de esas dos ciencias? ¿No se interfiere esto con nuestro destino? 
 
@@ -2052,17 +2054,15 @@ Las primeras noticias que tuvo el autor vinieron por intermedio de un amigo mutu
 
 Este caso, según cree el autor, demuestra que el destino maduro no puede interferirse con la ley de Causación y no podemos hacer nada que pueda oponerse a ésta. Hay agentes invisibles en torno nuestro que contrarrestan cualquier movimiento que hagamos para interferirnos con esa ley, y el autor cree que ellos fueron los causantes de la confusión de fechas que padeció Mr. L. 
 
-### PREGUNTA Nº 154
+### <h3 id="question-154">PREGUNTA Nº 154</h3>
 
 ¿Es malo usar la quiromancia, la astrología o la frenología como medios de vida? 
 
-Respuesta: El bien y el mal dependen del punto de vista individual. Hace menos de cincuenta años era justo matar a un negro refractario a su patrón. Su dueño podía hacerlo impunemente, con la misma impunidad con que hoy puede matar a un perro o a un caballo. Hoy consideraríamos a aquél como un asesino. Actualmente hay algunas personas que consideran la astrología como simple cuestión de cálculo y la quiromancia y la frenología como ciencias materiales, sin ningún significado espiritual. Al que considere esas ciencias así no puede reprochársele que las emplee como medios de vida, mientras que cualquiera que haya tenido alguna idea sobre el lado espiritual de esas ciencias, según cree el autor, estaría prostituyendo sus conocimientos. 
-
-Además, los que así empequeñecen esas ciencias espirituales nunca pueden dar consejos buenos y elevados a sus clientes, porque el brillo del oro oscurecerá siempre su juicio. Tal ha sido la experiencia del autor y de muchos otros que tienen el mismo punto de vista. El preguntante, en cualquier caso, haría mal si empleada sus conocimientos sobre esas ciencias espirituales como medios de vida, porque su pregunta demuestra que. tiene dudas sobre ello, y entonces ya estaría juzgado íntimamente por sí mismo si prostituyera sus talentos. 
+Respuesta: El bien y el mal dependen del punto de vista individual. Hace menos de cincuenta años era justo matar a un negro refractario a su patrón. Su dueño podía hacerlo impunemente, con la misma impunidad con que hoy puede matar a un perro o a un caballo. Hoy consideraríamos a aquél como un asesino. Actualmente hay algunas personas que consideran la astrología como simple cuestión de cálculo y la quiromancia y la frenología como ciencias materiales, sin ningún significado espiritual. Al que considere esas ciencias así no puede reprochársele que las emplee como medios de vida, mientras que cualquiera que haya tenido alguna idea sobre el lado espiritual de esas ciencias, según cree el autor, estaría prostituyendo sus conocimientos. Además, los que así empequeñecen esas ciencias espirituales nunca pueden dar consejos buenos y elevados a sus clientes, porque el brillo del oro oscurecerá siempre su juicio. Tal ha sido la experiencia del autor y de muchos otros que tienen el mismo punto de vista. El preguntante, en cualquier caso, haría mal si empleada sus conocimientos sobre esas ciencias espirituales como medios de vida, porque su pregunta demuestra que. tiene dudas sobre ello, y entonces ya estaría juzgado íntimamente por sí mismo si prostituyera sus talentos. 
 
 Hay una recompensa mucho más valiosa que el oro. Si empleamos nuestros conocimientos para curar y ayudar nunca nos faltarán medios de vida y además nos juntamos un gran tesoro en los cielos, tesoro que no podemos perder ni puede desaparecer. Mayores y mejores oportunidades para servir se pondrán ante nosotros si dedicamos nuestros talentos a un servicio desinteresado. 
 
-### PREGUNTA Nº 155
+### <h3 id="question-155">PREGUNTA Nº 155</h3>
 
 Marte, Júpiter y los demás planetas, ¿están habitados? Si así fuera ¿son sus habitantes superiores a los de la Tierra? Las almas de la Tierra ¿reencarnan en otros planetas y viceversa? 
 
@@ -2072,7 +2072,7 @@ El principio es el siguiente: La vibración más elevada existe en el Sol centra
 
 Cada clase de espíritus permanece en su alrededor ambiente, estando bajo la tutela y guía directas de uno de los espíritus planetarios cuyo cuerpo es el planeta en que habitan. Como los espíritus han encarnado en diferentes planetas, debido a que están en muy diferente grado de desenvolvimiento, generalmente no reencarnan en otro planeta, salvo cuando algunos seres de los planetas más interiores son enviados como instructores a las esferas externas. Este fue el caso, por lo menos, cuando nuestra humanidad necesitó instructores que vinieran en forma física y visible. Entonces algunos seres de Venus y Mercurio vinieron a la Tierra para guiar a la humanidad naciente. Y se los conoció bajo el nombre de Mensajeros de Dios, siendo los Señores de Venus los primeros reyes y legisladores de la humana raza. Posteriormente los hombres más precoces fueron llevados ante los Señores de Mercurio, quienes los iniciaron en los misterios, y estos, a su vez, se convirtieron en los regentes de sus hermanos. Entonces eran realmente reyes por la gracia de Dios, guiando al pueblo para su mejoramiento y desarrollo, con el más absoluto desinterés en lo tocante al poder o al engrandecimiento propio. 
 
-### PREGUNTA Nº 156
+### <h3 id="question-156">PREGUNTA Nº 156</h3>
 
 La teoría nebular ¿no explica la existencia del universo de una manera mucho más científica que los relatos que sobre la creación hace la Biblia? 
 
@@ -2080,15 +2080,13 @@ Respuesta: La teoría nebular fue rechazada por Herber Spencer porque, como la B
 
 En resumen, la teoría es ésta: en un tiempo apareció en el espacio una masa ígnea, espontáneamente. Dentro de esa masa ardiente comenzaron a surgir corrientes también espontáneamente, y bajo el choque de esas corrientes la masa ígnea comenzó a tomar una forma esférica, girando con intensa rapidez. La fuerza centrífuga hizo que se expeliera un anillo que se desintegró, y los fragmentos, al juntarse, se convirtieron en un planeta que también comenzó a girar en torno de la masa central. De esta manera vinieron a la existencia los planetas, unos tras otros. Fueron enfriándose gradualmente, y por último quedó completo el sistema solar. Sobre uno de estos planetas, por lo menos, apareció espontáneamente la Vida o protoplasma, el que gradualmente evolucionó a través de las diferentes clases de radiados, moluscos, articulados y vertebrados, hasta florecer finalmente en el hombre, que es la inteligencia más elevada del Cosmos y señor de todas las cosas. 
 
-Esto es lo que dice el hombre de ciencia, con una sabia sonrisa, y pueden también agregar: "¿No veis cuán simple y razonable es todo esto? Si todavía no lo veis claro, os haré una pequeña demostración." 
-
-Entonces tomará una vasija llena de agua y echará aceite en su superficie. Así el agua representará al espacio. y el aceite a la nebulosa ardiente. Luego tomará una aguja y comenzará a vibrar el aceite, imitando así las corrientes generadas en la masa ardiente, y bajo este rápido movimiento de rotación el aceite irá tomando una forma esférica. Gradualmente la esfera se hinchará por el ecuador y surgirá un anillo que, rompiéndose, tomará a su vez la forma de un planeta y girará en torno de su fuente primaria y el hombre de ciencia os dirá entonces triunfalmente: "¿No veis, pues, cuán natural es todo ello y que no hay la menor necesidad de vuestro Dios?" 
+Esto es lo que dice el hombre de ciencia, con una sabia sonrisa, y pueden también agregar: "¿No veis cuán simple y razonable es todo esto? Si todavía no lo veis claro, os haré una pequeña demostración." Entonces tomará una vasija llena de agua y echará aceite en su superficie. Así el agua representará al espacio. y el aceite a la nebulosa ardiente. Luego tomará una aguja y comenzará a vibrar el aceite, imitando así las corrientes generadas en la masa ardiente, y bajo este rápido movimiento de rotación el aceite irá tomando una forma esférica. Gradualmente la esfera se hinchará por el ecuador y surgirá un anillo que, rompiéndose, tomará a su vez la forma de un planeta y girará en torno de su fuente primaria y el hombre de ciencia os dirá entonces triunfalmente: "¿No veis, pues, cuán natural es todo ello y que no hay la menor necesidad de vuestro Dios?" 
 
 Nosotros solo podemos admirarnos de que un hombre que ha tenido una mente capaz de concebir esta demostración espléndida pueda, al mismo tiempo, ser tan falto de percepción que no vea que él mismo está tomando el lugar de Dios, quien pensó y llevó a cabo el universo, así como el científico concibió su demostración y la llevó a cabo. Dios, mediante su poder, preserva nuestro universo y mueve los planetas, así como el hombre de ciencia mueve sus esferitas de aceite, y si Dios cesara un solo instante, el Cosmos se convertiría súbitamente en un caos conglomerado, así como el Sol de aceite y sus planetas cesan de ser en el mismo momento en que el hombre de ciencia deja la operación. 
 
 Por consiguiente, lejos de refutar la aserción de la Biblia de que Dios es el Creador y Sustentador del Cosmos, la teoría nebular demuestra la necesidad de la interferencia divina absolutamente, y si se comprende correctamente no se encuentra la menor diferencia entre las concepciones científica y religiosa. 
 
-### PREGUNTA Nº 157
+### <h3 id="question-157">PREGUNTA Nº 157</h3>
 
 ¿Qué son los cometas? 
 
@@ -2096,7 +2094,7 @@ Respuesta: Considerando la sabiduría de las grandes jerarquías creadoras en co
 
 Conocemos esto cuando mientras se está gestando el cuerpo de un niño se produce algún inconveniente serio. Entonces el feto es expelido del sistema y comienza a pudrirse. Existe el mismo riesgo cuando se está gestando un mundo, cuando se cristaliza antes de haber completado el período de gestación en el Mundo del Deseo, pues entonces no estaría modelado apropiadamente, como si de un boceto a medio hacer se sacara una estatua, la que quedaría como una masa informe y sin belleza. Cuando ocurre esto en la gestación de un mundo se produce lo que conocemos bajo el nombre de cometa, y la órbita elíptica que recorre es el camino de alguna corriente del Mundo del Deseo. Algo semejante al cometa ocurre al aparecer el Ego antes de entrar en la matriz de la madre. Entonces éste tiene casi la figura de campana con un núcleo en la parte superior y una gran cantidad de sutil materia flotando detrás en forma parecida a la cola del cometa. Y estos Egos reencarnantes de forma acampanada también siguen una órbita elíptica en torno de la tierra, hasta el momento en que les es necesario entrar en el seno de su futura madre. 
 
-### PREGUNTA Nº 158
+### <h3 id="question-158">PREGUNTA Nº 158</h3>
 
 El movimiento de un planeta a través del Espacio, ¿produce algún sonido? 
 
@@ -2106,16 +2104,23 @@ Dentro de la esfera de la visión del ocultista todo el sistema solar no es más
 
 Hace unos cuantos años, una banda de música estaba ensayando cerca de una antigua ruina en las proximidades de la ciudad de Heidelberg (Alemania). En cierto punto de sus ejercicios tocaron una nota extremadamente aguda y sostenida, y conforme esta nota sonaba el edificio ruinoso se vino al suelo con un tremendo estrépito. Habían tocado la nota-clave de aquellos muros y estos cayeron. En vista de estos hechos, nuestras burlonas sonrisas de los tiempos idos al oír hablar de la historia de Josué y de los muros de Jericó están fuera de lugar. El sonido del cuerno de carnero indudablemente emitió la nota-clave de aquellos muros, los que, por otra parte, habían sido muy sensibilizados por el paso rítmico del ejército que se preparaba para el asalto final. La marcha rítmica de muchos pies destruye cualquier puente, por cuyo motivo se hace que los soldados rompan el paso cuando atraviesan una construcción de esa índole. Por consiguiente, podemos contestar a la pregunta que cada planeta produce cierta nota-clave que no es más que la suma total de todos los sonidos que en él se producen, armonizados por el Espíritu Planetario que en él subyace. Este sonido puede ser oído por el oído espiritual. Según dice Goethe: 
 
+```
 "El Sol entona su antigua canción  
 En medio del canto de sus esferas hermanas.  
 Y sigue la ruta prescrita  
 Sonoramente, en el decurso de los años" -  
+```
 
 Esto está tomado de la primera parte del Fausto, del prólogo en el cielo. En la segunda parte de la obra los espíritus del aire saludan al Sol naciente con las siguientes palabras: 
 
-"El sonido que el oído espiritual percibe proclama la llegada del nuevo día; las puertas pétreas chirrían; las ruedas de Febo giran y cantan. ¡Qué son tan intenso trae la luz!" 
+```
+"El sonido que el oído espiritual percibe proclama la llegada del nuevo día; 
+las puertas pétreas chirrían; 
+las ruedas de Febo giran y cantan. 
+¡Qué son tan intenso trae la luz!" 
+```
 
-### PREGUNTA Nº 159
+### <h3 id="question-159">PREGUNTA Nº 159</h3>
 
 ¿Cuál es el significado esotérico del empleo de los nombres de los doce hijos de Jacob, en relación con los doce signos del Zodiaco? Y esos nombres ¿se emplean con relación al Zodíaco terrestre o al solar? 
 
@@ -2125,7 +2130,7 @@ Además, si consideramos la forma del campo de los israelitas -agrupadas las doc
 
 La razón espiritual de la analogía entre Jacob, sus esposas, sus hijos y el Cosmos, puede encontrarse en el axioma hermético que dice como arriba es abajo." Jacob con sus cuatro esposas, simboliza al Sol y las cuatro fases de la Luna; que son los dadores de vida a todo cuanto vive sobre la Tierra; los doce hijos y la única hija representan a las Jerarquías Creadoras, que han estado en actividad en la evolución de nuestro sistema solar y que han traído a la existencia no solo la humanidad, sino también todos los diversos reinos hasta el actual estado de realización evolutiva, y que están trabajando con ellos para desarrollarlos aún más. Fueron dichas jerarquías las que hicieron al hombre a su imagen y semejanza. Aún hoy en día la humanidad tiene las características de los doce signos celestiales. Por consiguiente, los semitas originales, que tenían que ser los progenitores de la nueva raza, fueron divididos en doce clases por su Guía, y cada clase representaba a una de las constelaciones. 
 
-### PREGUNTA Nº 160
+### <h3 id="question-160">PREGUNTA Nº 160</h3>
 
 ¿Cuál es la diferencia entre la astrología heliocéntrica y la geocéntrica? ¿Referiríase quizás la geocéntrica a los asuntos de la tierra, la vida material, y la heliocéntrica al alma o aspecto espiritual? Como el Sol es el planeta espiritual y el regente de nuestro sistema solar, parece muy lógica esta conclusión, ya que usamos el Zodíaco solar en astrología heliocéntrica y el Zodíaco terrestre en la geocéntrica. ¿Pueden hacerse predicciones en esta vida mediante el Zodíaco solar, o solo está éste relacionado con la naturaleza espiritual de una persona? 
 
@@ -2137,7 +2142,7 @@ Las predicciones fracasan algunas veces porque el astrólogo interpreta mal el h
 
 El sistema geocéntrico es exacto y toma en cuenta todos los aspectos de la naturaleza humana, no solo la manifestación material, sino también la espiritual. El sistema heliocéntrico, por otra parte, ha sido adoptado por personas que tratan de conformar a la ciencia y no tienen la menor noción sobre el aspecto espiritual de la Naturaleza, por lo tanto éste es el menos satisfactorio. Además, los que han empleado el sistema astrológico geocéntrico durante muchos siglos han ido anotando sus observaciones sobre los efectos planetarios desde ese punto de vista, y de dichas observaciones queda muy poco desde el punto de vista heliocéntrico, por lo que aconsejaríamos al preguntante que lo deje a un lado. 
 
-### PREGUNTA Nº 161
+### <h3 id="question-161">PREGUNTA Nº 161</h3>
 
 ¿En qué forma puede estarse en buena relación con Saturno? El preguntante ha estado bajo su influencia toda su vida. Las enfermedades, pobreza, pérdida de herencias y accidentes son suficientemente malos; pero, ¿puede Saturno causar también perturbaciones espirituales? ¿Puede oponer barreras a nuestro desenvolvimiento cuando nuestro espíritu está luchando por el bien? ¿Nos libertamos de su influencia al morir? 
 
@@ -2149,7 +2154,7 @@ La mayor parte de la humanidad es arrastrada por el flujo de acuerdo con las ten
 
 Los astros son nuestros auxiliares evolutivos. No son cuerpos muertos de materia, sino los cuerpos vibrantes y vivientes de grandes inteligencias espirituales, que en la religión cristiana se llaman los Siete Espíritus ante el trono. Conforme cambiamos cambia también su influencia sobre nosotros, pero no escapamos a su influencia por el simple incidente de morirnos. Cuando la aurora de una nueva vida se levante, surgiremos con un nuevo horóscopo; y si hemos intentado desarrollarnos espiritualmente para aprender las lecciones que los Ángeles Planetarios trataron de enseñarnos en las vidas pasadas, tendremos nuevos aspectos y posiciones planetarias que nos ayudarán en el sendero de la evolución. Por otra parte, "si hemos dado coses contra el aguijón" en una vida anterior, veremos que los tornillos han sido apretados un poco más, que hemos sido colocados bajo influencias un poco más fuertes, de manera que, al fin, tendremos que aprender la lección necesaria. Y cuando más pronto lo hagamos tanto mejor. 
 
-### PREGUNTA Nº 162
+### <h3 id="question-162">PREGUNTA Nº 162</h3>
 
 ¿Cómo podemos dirigirnos a Saturno cuando éste es el astro regente y nos causa perturbaciones o tristezas? 
 
@@ -2172,9 +2177,9 @@ La Luna es nuestro satélite y no está en la misma situación que los de los de
 
 Ordinariamente, la humanidad ruega a Dios. Estas oraciones son actualmente casi completamente egoístas o interesadas e ignorantes. Las oraciones de esa clase no pueden merecer la atención de los embajadores que tienen a su cargo los diferentes departamentos de la vida, pero las atienden generalmente, en lo posible, los auxiliares invisibles que trabajan para el mejoramiento de Sus hermanos. El astrólogo ocultista, sin embargo, como sabe lo que quiere y puede trabajar en armonía con las fuerzas astrales, se dirige directamente a los embajadores de los Ángeles Planetarios y obtiene la realización de sus deseos con mayor facilidad. Estudia las horas planetarias en que esos astros predominarán y en ese momento hará su petición, que, generalmente, será para otro o para su propia iluminación espiritual sobre puntos que usará para el bien común. 
 
-## SECCIÓN VIII - Preguntas concernientes a LOS ANIMALES
+<h2 id="section-8">SECCIÓN VIII - Preguntas concernientes a LOS ANIMALES</h2>
 
-### PREGUNTA Nº 163
+### <h3 id="question-163">PREGUNTA Nº 163</h3>
 
 ¿Cómo es que los animales, que pertenecen a una evolución inferior, tienen un instinto que parece mucho más sabio que la razón de los seres humanos? 
 
@@ -2186,25 +2191,27 @@ La mano es el instrumento más valioso del hombre y su agilidad es quizás más 
 
 Cualquiera que observara las tentativas del músico con los guantes puestos para tocar, y que no lo hubiera oído antes de ponérselos, lo supondría incapaz de producir la menor melodía, pero esa suposición será completamente errónea. El ego humano se encuentra en una situación análoga, pues sus poderes espirituales han quedado obscurecidos por los vehículos en los que ahora se encuentra encerrado, pero llegará un tiempo en que habrá aprendido como emplear estos vehículos apropiadamente, y entonces su poder espiritual volverá a brillar con un esplendor inconcebible. 
 
-### PREGUNTA Nº 164
+### <h3 id="question-164">PREGUNTA Nº 164</h3>
 
-¿Cuál debería ser nuestra actitud hacia las formas inferiores de la vida? ¿Tenemos el derecho de matar algo inofensivo, desde el momento en que todas las cosas vivientes son, en cierro sentido, nuestros hermanos? ¿Y respecto a los insectos o reptiles venenosos? 
+¿Cuál debería ser nuestra actitud hacia las formas inferiores de la vida? 
+
+¿Tenemos el derecho de matar algo inofensivo, desde el momento en que todas las cosas vivientes son, en cierro sentido, nuestros hermanos? 
+
+¿Y respecto a los insectos o reptiles venenosos? 
 
 Respuesta: Sólo existe Una Vida en el Universo, que es la Vida de Dios. En el vivimos, nos movemos y tenemos nuestro ser. Y no solo nosotros, sino todo lo que vive es una manifestación análoga de Dios. A su debido tiempo nos convertiremos en creadores, así como El es Creador. Pero mientras brutalmente destruyamos las formas de otros seres nos creamos un obstáculo. El preguntante está en lo cierto al afirmar que los animales inferiores son nuestros hermanos; pero, triste es decirlo, en vez de cuidar de ellos y de inspirarles confianza y amor, nos hemos arreglado de manera tal como para hacernos temibles de todo ser viviente que habite en la tierra, por la carnicería que hemos hecho con ellos, y parece una retribución justísima el que nosotros, a nuestra vez, estemos en temor constante de las vidas microscópicas, los bacilos, que no podemos matar ni a tiros ni a cuchilladas. 
 
-En cuanto a los insectos o reptiles venenosos, puede decirse que, en muchos casos, son encarnaciones de nuestros propios pensamientos maléficos, producidos también por nuestros hábitos sucios. La ciencia nos ha demostrado que una higiene apropiada nos libere de ellos, por lo menos en gran extensión, sin necesidad de matarlos. Los grandes reptiles, tales como las serpientes, no son tan peligrosos como se cree que son. En los templos de la India, en la que ciertas clases del pueblo han cultivado una actitud de absoluta inofensividad, rehusando matar hasta al animalejo más insignificante, pueden verse diariamente serpientes venenosas que circulan entre los fieles allí congregados, sin hacerles jamás el menor daño, y si cultiváramos una actitud de inofensividad respecto a los seres inferiores, pronto aprenderían a tener confianza en nosotros, en vez de temernos, como ahora. 
-
-Muchos relatos se cuentan de marineros que han llegado a islas en las que nunca había pisado el pie humano y han encontrado aves allí perfectamente faltas de temor, hasta que algunas de ellas fueron asesinadas por los salvajes invasores. Entonces han aprendido a huir apenas el hombre se aproxima. 
+En cuanto a los insectos o reptiles venenosos, puede decirse que, en muchos casos, son encarnaciones de nuestros propios pensamientos maléficos, producidos también por nuestros hábitos sucios. La ciencia nos ha demostrado que una higiene apropiada nos libere de ellos, por lo menos en gran extensión, sin necesidad de matarlos. Los grandes reptiles, tales como las serpientes, no son tan peligrosos como se cree que son. En los templos de la India, en la que ciertas clases del pueblo han cultivado una actitud de absoluta inofensividad, rehusando matar hasta al animalejo más insignificante, pueden verse diariamente serpientes venenosas que circulan entre los fieles allí congregados, sin hacerles jamás el menor daño, y si cultiváramos una actitud de inofensividad respecto a los seres inferiores, pronto aprenderían a tener confianza en nosotros, en vez de temernos, como ahora. Muchos relatos se cuentan de marineros que han llegado a islas en las que nunca había pisado el pie humano y han encontrado aves allí perfectamente faltas de temor, hasta que algunas de ellas fueron asesinadas por los salvajes invasores. Entonces han aprendido a huir apenas el hombre se aproxima. 
 
 Hemos también convertido algunos seres humanos en bestias de presa a quienes llamamos ladrones y salteadores, que despojan a sus semejantes y los privan de sus bienes, hiriéndolos a veces y aún matándolos; y todo ello es el resultado de nuestros tratamientos crueles, que son dictados por el miedo. Si sintiéramos amor no tendríamos miedo, "porque el verdadero amor purifica de todo miedo," y si no tuviéramos temor nada podría dañarnos, porque una actitud confiada y tranquila es un protector más seguro que el revólver y la cerradura. Por lo tanto, debemos cultivar esa actitud de simpatía para todas las cosas que viven y respiran; debemos dejar de matar los animales a millones para comer o por deporte, que es la peor de todas las formas de la crueldad. Una actitud de amor hacia nuestros semejantes provocaría en ellos similares emociones y los cerrajeros y fabricantes de cañones pronto serían inútiles. Nos lamentamos de los enormes impuestos que soportamos para mantener una potente fuerza policial, el complicado mecanismo de los tribunales y los grandes presidios y casas de corrección, pero todas esas instituciones desaparecerían tan pronto como reemplazáramos el miedo por el amor. La Biblia nos habla de un tiempo cuando el león y el buey, el niño y el venenoso reptil, jugaban juntos en paz. Esto puede ser muy bien un hecho real, porque las bestias de presa no han sido siempre carnívoras. En un antiquísimo pasado el hombre tuvo su papel que llenar en su desarrollo, y en el futuro será de su deber el modificar esas condiciones. 
 
-### PREGUNTA Nº 165
+### <h3 id="question-165">PREGUNTA Nº 165</h3>
 
 Los reptiles venenosos y dañinos ¿no son creados por los pensamientos malignos del hombre, por lo menos en lo que concierne a su forma? Y, por consiguiente, ¿no sería un acto de amor matarlos para libertar así la divina chispa que existe en ellos, para que pudiera ir a ocupar una forma más elevada? 
 
 Respuesta: Ninguna de las formas animales que vemos en torno nuestro han sido creadas por el hombre. Todas esas formas, desde la más elevada hasta la más inferior, son las emanaciones de los espíritus colectivos, que son entidades espirituales pertenecientes a otra evolución diferente de la del reino humano. Pero el hombre puede crear por medio de su pensamiento, y los pensamientos malignos, los de temor y odio, toman forma en el decurso de los siglos, cristalizándose en lo que conocemos bajo el nombre de bacilos. Los bacilos de las enfermedades infecciosas son, particularmente, la encarnación del miedo y del odio, y, por consiguiente, son vencidos mediante la fuerza opuesta: el valor. Así como un diapasón comienza a vibrar cuando se golpea otro del mismo temple, así también sucede con estos gérmenes microscópicos. Si entramos en la habitación de una persona infectada con una enfermedad contagiosa, y tenemos miedo y temblamos, atraemos infaliblemente hacia nosotros esos microbios tóxicos. Si, por otro lado, nos aproximamos al enfermo con actitud confiada, escaparemos a toda infección, especialmente si vamos guiados por el amor. Pero el amor nunca nos inducirá a matar en el sentido corriente de la palabra. Es verdad que si pudiéramos obrar directamente sobre la vida de las cosas malignas o venenosas y ayudarlas a entrar en una forma más elevada, podríamos haberles bien; pero, en primer lugar, somos incapaces de juzgar cuando la forma presente ha prestado toda su utilidad y, por lo tanto, no podemos cargar con la responsabilidad de privar a la vida que la informa de su instrumento, por más cariñosamente que se hiciera. En el único caso en que algunas veces podríamos matar por amor sería cuando un animal ha sido tan herido que no pueda recuperar su salud, y en este caso el matarlo sería poner fin a sus sufrimientos. 
 
-### PREGUNTA Nº 166
+### <h3 id="question-166">PREGUNTA Nº 166</h3>
 
 ¿Qué es un Espíritu-grupo, dónde está y a qué se parece? 
 
@@ -2212,7 +2219,7 @@ Respuesta: Así como el hombre tiene un cuerpo compuesto por muchas células, te
 
 Los espíritus-grupo de los animales se ven en el Mundo del Deseo en forma humana y cabeza animal. Los cuadros de los templos egipcios representan en una forma algo cruda el aspecto de dichos espíritus colectivos. El investigador bien educado no encuentra dificultades en conversar con ellos, y frecuentemente se le presentan ocasiones de maravillarse de su erudición. 
 
-### PREGUNTA Nº 167
+### <h3 id="question-167">PREGUNTA Nº 167</h3>
 
 ¿Están los animales regidos por la Ley de Causación? 
 
@@ -2220,7 +2227,7 @@ Respuesta: No, en el sentido de ser moralmente responsables. Por supuesto, Si un
 
 La razón por la que el animal no tiene responsabilidad moral es que carece de razón, pues ordinariamente obra bajo la dirección del espíritu grupo a quien llamamos instinto, y muy bien puede resultar que ese instinto haya sugerido miedo al animal, lo que le obligó a realizar un acto del que pueden resultar heridas para su cuerpo. Antes de que alguien pueda ser moralmente responsable ante la ley de Causación debe tener cierta voluntad y libertad de elección, así como el poder de razonar apropiadamente, y, por lo tanto, como los animales carecen de estos atributos, no tienen responsabilidad moral ante la Ley de Causación. 
 
-### PREGUNTA Nº 168
+### <h3 id="question-168">PREGUNTA Nº 168</h3>
 
 ¿Viven los animales después de la muerte? 
 
@@ -2228,7 +2235,7 @@ Respuesta: Lo que vive es el espíritu, que no tiene ni principio ni fin. Pero l
 
 Cuando Rider Haggard se despertó por la mañana recordó el sueño vívidamente, pero no tuvo noticias de él hasta que, más tarde, descubrió que el perro se había perdido. Después de buscarlo en la inmediata vecindad, Rider Haggard finalmente fue en busca del paraje que había visto en sueños. Y allí, entre los juncos, encontró el cadáver del perro en la misma posición en que lo vio en sueños. Nadie pudo explicar el asunto, pues era una experiencia completamente enigmática. Pero para todo ocultista es muy sencillo que el inteligente perro, habiendo encontrado la muerte y estando en el Mundo del Deseo por la noche, fue en busca de su dueño, quien en ese momento estaba también fuera de su cuerpo, y lo llevó al lugar del accidente para obtener su auxilio y explicación. 
 
-### PREGUNTA Nº 169
+### <h3 id="question-169">PREGUNTA Nº 169</h3>
 
 Cuando un perro o gato muere ¿muere al mismo tiempo el espíritu-grupo a que pertenece? Además, ¿en qué se convierte el alma del animal? El amor humano y los cuidados que se le han prestado ¿lo ayudan en su jornada post-mortem? 
 
@@ -2236,25 +2243,35 @@ Respuesta: La pregunta demuestra que el preguntante no tiene una idea exacta sob
 
 En cuanto a lo que el alma del animal se convierte después de la muerte, podemos decir que, después de salir del cuerpo, pronto vuelve al espíritu-grupo, y el amor y cuidado que le hayamos prestado naturalmente lo ayuda muchísimo en su evolución, porque mientras que el animal salvaje obra completamente bajo los dictados del espíritu-grupo que llamamos instinto, los animales domésticos muestran cierta capacidad para pensar, completamente fuera de su evolución normal en la actualidad. Y esa capacidad la han recibido de nosotros, según el mismo principio que hace que cuando tenemos un alambre muy cargado de electricidad y colocamos otro cerca de aquél también se electriza por inducción con una corriente eléctrica de menor voltaje. De parecida manera el animal que se pone en contacto con los seres humanos no es capaz de pensar, pero aprende a hacerlo mediante dicho contacto. Y puede deducirse fácilmente que esos animales domesticados, a su debido tiempo, serán los instructores de sus menos avanzados hermanos. 
 
-### PREGUNTA Nº 170
+### <h3 id="question-170">PREGUNTA Nº 170</h3>
 
 ¿Qué sustancia es la que una persona o animal emana para que puedan seguirse sus huellas, como, por ejemplo, el perro puede seguir las huellas de un criminal? 
 
 Respuesta: Cuando un clarividente mira a otra persona con su visión etérica por vez primera, generalmente se asombra al ver surtidores de estrellitas, pirámides, dobles pirámides y otras formas geométricas que brotan de las manos y del rostro, y se pregunta intrigado qué es lo que serán. Más tarde llega a saber que son los cristales de que está compuesto el cuerpo y que son excretados así por el cutis. La mayor parte de esas excreciones se quedan en la ropa, dando así al sabueso o perro el punto de partida necesario para su pista. Conforme estos átomos se van pudriendo, emiten un efluvio semejante al que despiden todos los cuerpos en putrefacción. Este efluvio lo sentimos nosotros mismos cuando dejamos la ropa sin lavar durante algún tiempo. Los perros tienen un olfato mucho más sutil que los seres humanos y pueden distinguir los efluvios de una persona y los de otra, y como los átomos que emana una persona perseguida por la justicia quedan a lo largo del camino, es muy fácil que el sabueso distinga esos átomos del de otra ser humano o de un animal durante un corto tiempo después del paso del fugitivo. 
 
-## SECCIÓN IX - PREGUNTAS MISCELÁNEAS
+<h2 id="section-9">SECCIÓN IX - PREGUNTAS MISCELÁNEAS</h2>
 
-### PREGUNTA Nº 171
+### <h3 id="question-171">PREGUNTA Nº 171</h3>
 
 ¿Cuál es el origen de la Vida? 
 
 Respuesta: Si se hace esta pregunta a un hombre de ciencia comenzará a hablar de protoplasma, protyle o cualquier otra cosa de parecida naturaleza, pero eso solo concierne a la forma. No importa cuán insignificante, pequeña y simple sea esa forma: es una forma, y desde el punto de vista del ocultista la pregunta está mal expresada, porque el espíritu es, ha sido y será siempre. Como dice Sir Edwin Arnold en su hermoso poema: "The Song Celestial" (La canción celestial): 
 
-"Nunca ha nacido el espíritu y nunca dejará de ser. Nunca hubo tiempo en que no fuera, pues principio y fin solo con ensoñaciones. El espíritu permanece siempre sin nacer y sin morir, y la muerte no puede afectarlo absolutamente. Así como uno se saca el vestido ya usado y tomando Otro dice: "Este me pondré hoy," así también deja el espíritu su vestido de carne y va en busca de otro nuevo." 
+```
+"Nunca ha nacido el espíritu y nunca dejará de ser. 
+Nunca hubo tiempo en que no fuera, pues principio y fin solo con ensoñaciones. 
+El espíritu permanece siempre sin nacer y sin morir, 
+y la muerte no puede afectarlo absolutamente. 
+
+Así como uno se saca el vestido ya usado 
+y tomando Otro dice: "Este me pondré hoy," 
+así también deja el espíritu su vestido de carne 
+y va en busca de otro nuevo." 
+```
 
 Es la vida la que construye las formas y las emplea por un tiempo para progresar con su ayuda. Cuando su utilidad ha cesado, la vida se va y entonces las formas que deja quedan muertas. De manera, pues, que la pregunta debió ser expresada así: "¿Cómo se originó la muerte?," ya que la vida es y no tiene origen ni terminación. 
 
-### PREGUNTA Nº 172
+### <h3 id="question-172">PREGUNTA Nº 172</h3>
 
 ¿Qué es la materia? ¿No es ilusoria? 
 
@@ -2264,13 +2281,13 @@ Cuando Dios desea manifestarse, emana dentro de sí mismo las formas mentales de
 
 Vemos, pues, que el cientista cristiano tiene razón al decir que todo es espíritu, siendo lo que parece materia espíritu en estado de cristalización, y podemos también convenir con el materialista en que todo es materia, porque el espíritu que aún no se haya cristalizado en materia lo hará eventualmente. Es un error considerar como irreal cualquier cosa del universo de Dios: tanto la materia como el espíritu. Son los polos positivo y negativo de Dios. 
 
-### PREGUNTA Nº 173
+### <h3 id="question-173">PREGUNTA Nº 173</h3>
 
 Usted ha dicho en otra oportunidad que la Tierra es el cuerpo de un espíritu que da su vida a los moradores que viven en su superficie. Y ¿por qué da flores y frutos a algunos y hambre y terremotos a otros? 
 
 Respuesta: Durante el intervalo entre la muerte y el nuevo nacimiento, los espíritus desencarnados que han llegado al Segundo Cielo, donde están los arquetipos de todo cuanto existe, construyen su futuro alrededor ambiente, en el que recogerán lo que hayan sembrado. Si han sido activos en sus vidas pasadas, si han trabajado el suelo y hecho crecer dos hierbas donde antes solo crecía una, formarán, para sí mismos, una tierra aún más fértil, en la que podrán obtener mayores frutos con menos trabajo. Si han perdido su tiempo pensando en el Nirvana, un lugar celestial de reposo e indolencia, y han gustado más de entrar en discusiones metafísicas que en cuidar de las cosas materiales, continuarán haciéndolo así en el Segundo Cielo, y, en consecuencia, su tierra será árida y estéril cuando tornen a la vida terrestre. Entonces tendrán que experimentar hambres y sufrir inundaciones y terremotos, hasta que comprendan la necesidad de proveer a sus necesidades materiales. De esta manera, a su tiempo, aprenderán la lección y lucharán por conquistar este mundo así como nosotros lo hemos hecho en el Occidente, porque, por supuesto, el preguntante hace referencia a los pueblos de Oriente, que sufren inundaciones y hambres. Esos pueblos son nuestros hermanos menores, que están tras de nosotros en la evolución, y deben seguir nuestros pasos. Deben aprender a olvidar, por un tiempo, los mundos espirituales, con objeto de alcanzar el desenvolvimiento que el mundo material únicamente puede darles. Existe un profundo propósito en las hambres que actualmente los azotan, así como también existe un propósito no menos profundo en nuestra prosperidad. Sus hambres los guiarán eventualmente a condiciones más materiales, pero nosotros, teniendo tierras rebosantes de todas las cosas buenas del mundo, con ingeniosos inventos que hacen la vida más fácil y llevadera, eventualmente nos diremos cuando nos hayamos hastiado con estas bendiciones materiales: "¿Y qué bien hay en ello? Dadnos mejor las cosas espirituales" y entonces entraremos en un desenvolvimiento espiritual mucho más elevado que el de Oriente. 
 
-### PREGUNTA Nº 174
+### <h3 id="question-174">PREGUNTA Nº 174</h3>
 
 ¿Que significado tiene la sentencia: "Hombre, conócete a ti mismo"? 
 
@@ -2288,7 +2305,7 @@ Si no se refrenan los Impulsos animales y se hace un empleo anormal de la fuerza
 
 Actualmente la cooperación de los sexos es necesaria para la procreación de vehículos para los Egos que van a renacer, pero el tiempo llegará en que el hombre dejará de crear en esa forma. Se conocerá a si mismo. El pensamiento concentrado, así como la simiente permanecerá con él, dentro de él mismo, pero se manifestará por medio de la laringe como palabra creadora, una palabra que dará forma a las cosas en el Mundo Físico. Entonces ya no será más necesario para el hombre el buscar la cooperación para formar un nuevo vehículo. Esto se enseñaba en las Escuelas de Misterios, las que no son más que estaciones en el sendero de realización, y por eso fue inscripta la sentencia “hombre, conócete a ti mismo” en el Oráculo de Delfos. 
 
-### PREGUNTA Nº 175
+### <h3 id="question-175">PREGUNTA Nº 175</h3>
 
 ¿Qué es el Santo Grial? 
 
@@ -2306,9 +2323,7 @@ Temiendo que todos los caballeros fueran hechos prisioneros por Klingsor, Amfort
 
 Kundry encuentra a Amfortas, quien queda preso de sus encantos. Mientras está en sus brazos, la lanza se le cae de la mano y entonces la toma el ansioso Klingsor, quién con ella le produce una herida que no puede curarse, y durante muchos años el Rey sufre torturas, especialmente cuando expone el Santo Grial para beneficio de sus caballeros. Entonces la herida comienza a sangrar de nuevo, produciéndole los más atroces dolores. 
 
-Generalmente hablando, y dando una de las diversas interpretaciones que pertenecen al Misterio de Grial, así como a los otros símbolos, Kundry es el cuerpo denso negativo, que unas veces está bajo el dominio de la naturaleza superior, simbolizada por los Caballeros del 
-
-Grial, y otras bajo el impulso de la naturaleza pasional, simbolizada por Klingsor, que tienta al espíritu para que olvide sus elevados ideales, y causa sufrimientos cuando se cede a la tentación. En Parsifal, el puro e inofensivo, vemos al hombre que se domina a si mismo y que, por lo tanto, conserva victoriosamente al Grial. 
+Generalmente hablando, y dando una de las diversas interpretaciones que pertenecen al Misterio de Grial, así como a los otros símbolos, Kundry es el cuerpo denso negativo, que unas veces está bajo el dominio de la naturaleza superior, simbolizada por los Caballeros del Grial, y otras bajo el impulso de la naturaleza pasional, simbolizada por Klingsor, que tienta al espíritu para que olvide sus elevados ideales, y causa sufrimientos cuando se cede a la tentación. En Parsifal, el puro e inofensivo, vemos al hombre que se domina a si mismo y que, por lo tanto, conserva victoriosamente al Grial. 
 
 En la mañana del Viernes Santo de 1857 Ricardo Wagner estaba sentado en Villa Wesendonck, cerca de Zurich, y al mirar en torno suyo, bajo los brillantes rayos del Sol, toda la Naturaleza sonreía y de los millones de simientes plantadas en el suelo brotaban plantas y flores innumerables. Y una idea pasó relampagueante por la mente de Wagner: ¿Cuál será la relación entre la muerte del Salvador en esta época y este múltiple brotar de vidas?" Ese pensamiento lo llevó muy cerca de la clave del misterio del Grial, porque el Grial era una Escuela de Misterios, una de las muchas que existieron en la Edad Media. La historia del rey Arturo y de los caballeros de la mesa redonda no son fábulas, son hechos. En los tiempos de la reina Elizabeth existía en Gales una de dichas escuelas. Y estas Escuelas de Misterios, existen hoy en día, si bien no se las conoce tan públicamente como en los más espirituales tiempos del medioevo. El Misterio del Rey Arturo trata más del aspecto material y temporal de la vida que el Misterio del Grial, que era completamente puro y espiritual. En ésta se enseñaba al discípulo, no con palabras, sino inculcándole sentimientos, una doctrina que podemos resumir así: 
 
@@ -2318,25 +2333,21 @@ En la mañana del Viernes Santo de 1857 Ricardo Wagner estaba sentado en Villa W
 
 La savia de la planta fluye por su verde tallito y sus hojas, incoloro, puro y casto. Vuestra sangre es roja y está llena de pasión, pero en la regeneración esa sangre debe ser purificada por la fuerza espiritual que os vendrá del Sol espiritual, así como las fuerzas del Sol físico producen la savia de la planta. Y habiéndoos regenerado así, moriréis como hombre para resucitar como dioses." 
 
-### PREGUNTA Nº 176
+### <h3 id="question-176">PREGUNTA Nº 176</h3>
 
 ¿Que relación existe entre los que construyeron las pirámides de Egipto y los que construyeron las pirámides de la América Central? ¿Cuál es la civilización más antigua? 
 
-Respuesta: Las investigaciones antropológicas han demostrado que la raza negra tiene una cabeza larga y estrecha, cuencas orbitales pequeñas y cabello chato. Las razas mongólicas, las índicas, etc., tienen cabeza redonda, cuencas orbitales también redondeadas y su cabello es de sección redonda. La cabeza de las razas blancas es ovalada, lo mismo que sus ojos y cabello, demostrando que en la tierra existen tres clases de hombres y que estos son los remanentes de las razas lemúricas, que vivieron en la Tercera Época de desenvolvimiento de la Tierra. 
-
-Los mongoles, indios, etc., son los restos de las razas atlánticas, y las razas blancas son los actuales arios. Examinando el asunto cuidadosamente se verá que los egipcios pertenecen a nuestras actuales razas arias, mientras que los aztecas muestran las peculiaridades óseas, orbitales y el cabello de las razas atlantes, y por consiguiente, esa civilización es más antigua que la egipcia. 
+Respuesta: Las investigaciones antropológicas han demostrado que la raza negra tiene una cabeza larga y estrecha, cuencas orbitales pequeñas y cabello chato. Las razas mongólicas, las índicas, etc., tienen cabeza redonda, cuencas orbitales también redondeadas y su cabello es de sección redonda. La cabeza de las razas blancas es ovalada, lo mismo que sus ojos y cabello, demostrando que en la tierra existen tres clases de hombres y que estos son los remanentes de las razas lemúricas, que vivieron en la Tercera Época de desenvolvimiento de la Tierra. Los mongoles, indios, etc., son los restos de las razas atlánticas, y las razas blancas son los actuales arios. Examinando el asunto cuidadosamente se verá que los egipcios pertenecen a nuestras actuales razas arias, mientras que los aztecas muestran las peculiaridades óseas, orbitales y el cabello de las razas atlantes, y por consiguiente, esa civilización es más antigua que la egipcia. 
 
 No se ha escrito mucho sobre las pirámides de la América Central, pero Piazzi Smith y Richard Proctor, ambos astrónomos de profesión, han escrito mucho sobre las pirámides del Egipto, y han tratado de averiguar qué empleo tenían. De las mediciones de las pirámides, Piazzi Smith deduce la teoría de que fueron construidas por arquitectos divinos, teoría que el profesor Proctor ridiculiza, si bien conviene en las mediciones que soportan las teorías de Piazzi Smith, pero las atribuye a una coincidencia. La base de la pirámide mide tantos centenares de pulgadas como días hay en el año; las diagonales de sus bases tienen el mismo número de pulgadas como años solares contiene el gran año sideral; y todo esto, en opinión del profesor Proctor, no parece ser más que una simple coincidencia. Pero estas coincidencias son tan numerosas que, para cualquier hombre imparcial, es evidente que encerraban un designio bien definido. Siendo el profesor Proctor un testigo involuntario de la teoría de que las pirámides estaban destinadas a observaciones astrológicas, aumenta el valor del testimonio al afirmar que de todas las teorías emitidas sobre el uso de las Pirámides, la que sostiene que servían para los estudios astrológicos es la única que desafía toda discusión. Por lo tanto, aunque él dice que es una cosa estúpida, sin embargo, es la única que puede sostenerse. 
 
 En realidad, las pirámides eran templos de iniciación y habían sido construidas por los Hierofantes de los misterios menores, y como la iniciación de los candidatos está fundada en el pasaje de los cuerpos celestes, los astros, a través de los doce signos del Zodíaco, naturalmente, esos templos de iniciación encerraban medidas cósmicas. Solamente la pirámide de Cheops, entre los egipcios, se empleaba así. Las otras fueron simples imitaciones que se construyeron mucho más tarde a indicación de algunos faraones. Los misterios menores existieron en diferentes partes del mundo, en diversas épocas, en la India, en el Egipto, en Grecia y también en la América Central. Por consiguiente, la relación entre los constructores de las pirámides de una parte del mundo con los de otra es que todos ellos eran Hierofantes de los misterios menores y que esos templos se empleaban en las iniciaciones. 
 
-### PREGUNTA Nº 177
+### <h3 id="question-177">PREGUNTA Nº 177</h3>
 
 ¿Cuál es la diferencia esencial entre las enseñanzas de la Filosofía Rosacruz y la iglesia ortodoxa? 
 
-Respuesta: Hay muchas, pero quizás la principal es la enseñanza ortodoxa de que a cada nacimiento entra un alma recién creada por 
-
-Dios en la existencia material, viviendo aquí en un cuerpo físico más o menos tiempo, muriendo entonces y pasando al invisible más allá, donde permanece en un estado de eterna felicidad o desdicha, de acuerdo con lo que hiciera mientras estuvo en el cuerpo. 
+Respuesta: Hay muchas, pero quizás la principal es la enseñanza ortodoxa de que a cada nacimiento entra un alma recién creada por Dios en la existencia material, viviendo aquí en un cuerpo físico más o menos tiempo, muriendo entonces y pasando al invisible más allá, donde permanece en un estado de eterna felicidad o desdicha, de acuerdo con lo que hiciera mientras estuvo en el cuerpo. 
 
 La enseñanza rosacruz es que cada alma es una parte integral de Dios, la que trata de obtener experiencia mediante repetidas experiencias en cuerpos de creciente perfección y que, por consiguiente, muere y nace muchas veces. En cada vida obtiene un poco más de experiencia, y así va paulatinamente progresando de la nesciencia a la omnisciencia, de la impotencia a la omnipotencia. 
 
@@ -2344,7 +2355,7 @@ Nuestro sentimiento de justicia se rebela contra una doctrina que dice que un al
 
 Por consiguiente, la enseñanza rosacruz dice que nacemos en el lugar más apropiado para nosotros, de acuerdo con las experiencias obtenidas en nuestras vidas anteriores, y que en todos los casos sin excepción obtenemos justamente lo que merecemos y que todas las experiencias que se ponen ante nosotros son precisamente las que necesitamos y las que nos dan el ímpetu apropiado para el próximo paso de desenvolvimiento. 
 
-### PREGUNTA Nº 178
+### <h3 id="question-178">PREGUNTA Nº 178</h3>
 
 ¿Cuál es la diferencia esencial entre la Filosofía Rosacruz y la Teosofía? 
 
@@ -2364,7 +2375,7 @@ Para alcanzar este último estadio debemos tener un punto de vista exacto sobre 
 
 Por consiguiente, la diferencia principal entre la Sociedad Teosófica y la filosofía rosacruz es una reversión completa de métodos, porque mientras que dicha sociedad trata de formar un núcleo de la fraternidad universal mediante el estudio de la religión comparada y solo toma en último término el desarrollo de la oculta naturaleza humana, y muchos teósofos previenen contra el desarrollo de dichos poderes, la enseñanza rosacruz impulsa al discípulo primeramente a vivir la vida, a concentrar todos los poderes de manera que se encuentre preparado, mediante la posesión de esos poderes anímicos absolutamente necesarios, para investigar las verdades que contempla. 
 
-### PREGUNTA Nº 179
+### <h3 id="question-179">PREGUNTA Nº 179</h3>
 
 La Logia Blanca de la Sociedad Teosófica ¿es la misma que la del Templo de los Rosacruces? 
 
@@ -2372,7 +2383,7 @@ Respuesta: No; la Sociedad Teosófica es simplemente una organización exotéric
 
 En cuanto a la relación de la Orden de los Rosacruces y otras Ordenes Ocultas de Misterios y la Logia Blanca, puede decirse que existen en diversas partes de la tierra cierto número de escuelas de misterios menores, cada una de las cuales está compuesta por doce hermanos, más un número 13. Este último es el eslabón entre las diferentes escuelas, y todos estos jefes o 13º miembros componen lo que ordinariamente se conoce como Logia Blanca, o sea un cónclave supremo de los Mayores de nuestros Hermanos, que tienen ahora a su cargo toda la evolución humana y son los que designan los diversos grados que hay que seguir para progresar. 
 
-### PREGUNTA Nº 180
+### <h3 id="question-180">PREGUNTA Nº 180</h3>
 
 ¿Qué se entiende por el término de Maestro? La Fraternidad Rosacruz ¿es un movimiento inspirado por ellos? 
 
@@ -2384,7 +2395,7 @@ Además, podemos romper un compromiso que hayamos hecho a otro y mantenerlo en l
 
 La Fraternidad Rosacruz no está a cargo de esos instructores ni ha sido inspirada por ellos; emite ciertas enseñanzas que le fueron dadas al autor con la condición de que las difundiera lo mejor que pudiera y que anunciara su disposición para ayudar a otros que quisieran calificarse para esa instrucción. Los estudiantes de estas enseñanzas se han reunido con objeto de beneficiarse mutuamente asociándose para el estudio, pero no existe organización alguna ni se trata de formarla tampoco, pues es mejor que cada uno obtenga sus enseñanzas donde más le plazca. Siempre es preferible que se mantengan en sus respectivas iglesias. 
 
-### PREGUNTA Nº 181
+### <h3 id="question-181">PREGUNTA Nº 181</h3>
 
 Si un creyente en las enseñanzas emitidas por los Rosacruces mantiene firmemente que son ciertas ¿no está en peligro de hacerse dogmático e intolerante en la opinión de los demás? ¿Y cuál debe ser su actitud respecto a aquellos que rehúsan aceptar esas enseñanzas? 
 
@@ -2392,7 +2403,7 @@ Respuesta: Es de la mayor importancia que reconozcamos el hecho de que, por lo m
 
 Algunas personas se entusiasman tan enormemente cuando han encontrado algo que les parece la verdad, que enseguida comienzan una verdadera cruzada para compeler a los demás a aceptarla. Es éste un grave error. Si vamos a una iglesia y comenzamos a hacer preguntas que levanten dudas concernientes a su fe en la mente de los fieles, podremos fácilmente producir un triste estado de confusión. Si lo que tenemos que dar armoniza con ellos y les sirve de áncora de salvación para que puedan descansar sobre una fe nueva y más elevada, tanto mejor. Pero si lo que tenemos que dar está más allá de su alcance y es, para ellos, inaceptable, solo conseguiremos atraerlos a un estado mental desagradable, y hasta podrán ir al materialismo, al ateísmo o a cualquier otra actitud escéptica desastrosa. Su vida en este caso, estaría desecha y nosotros seríamos los culpables. Debemos hacer una regla inflexible en nuestra vida de la discreción sobre lo que creemos o dejamos de creer, si bien de decir alguna palabra si llega el caso, nunca debe descuidarse la oportunidad y si esa palabra provoca alguna pregunta no debe temerse el contestarla. De esta manera se puede ir conduciendo gradualmente al preguntante. Por esta táctica no será conducido a menos que él lo busque realmente, y si vemos que desea mayores informaciones debemos darle todas las que necesite. Pero reiteramos una vez más que es una responsabilidad muy seria el emitir nuestras opiniones ante personas que no tienen deseos de escucharlas o que no están preparadas para ello. 
 
-### PREGUNTA Nº 182
+### <h3 id="question-182">PREGUNTA Nº 182</h3>
 
 ¿Por qué los que se interesan en el estudio de la más elevada filosofía no se ocupan de mejorar el estado social y las condiciones industriales, tales como la abolición de la esclavitud del salario, que es tan brutal y degradante como la esclavitud negra? 
 
@@ -2400,13 +2411,13 @@ Respuesta: Todos los ocultistas reconocen las urgentes necesidades del día, y n
 
 Bajo el actual estado de cosas cuando una unión obrera, mediante una huelga o amenaza de ella consigue el triunfo y mejora en algo sus condiciones, el patrón comienza en seguida a combinar algún medio para contrarrestar la mejora y frustrar el objeto. Se asocia con otros patrones, para protegerse mutuamente, y estas asociaciones patronales están siempre en continua guerra con las uniones obreras. La mejora obtenida por una de ellas es cambiada continuamente por la otra. Sin embargo, cuando el patrón, así como el obrero, han sido cristianizados y han aprendido a no hacer a los demás lo que no quisieran que los otros les hicieran, no habrá la menor necesidad de uniones obreras, porque los patrones cuidarán por sí mismos del bienestar de sus empleados y se anticiparán a sus necesidades. El ocultista cree que este estado de cosas puede producirse meditando en él, porque todas las cosas y condiciones tienen su origen en el pensamiento. Por consiguiente, debemos desear ardientemente que la mente del hombre se abra al gran hecho de la fraternidad universal, para que puedan llenar sus corazones con el amor de Dios y se unan para buscar el bien, en vez de oprimirse e intimidarse mutuamente. 
 
-### PREGUNTA Nº 183
+### <h3 id="question-183">PREGUNTA Nº 183</h3>
 
 ¿Se puede estudiar ocultismo, vivir la vida superior y ser millonario a la vez? 
 
 Respuesta: Cristo dijo al joven rico: "Deja todo lo que tienes"; pero el joven rico, que estaba muy apegado a las buenas cosas de esta vida, se fue lleno de tristeza, y el Cristo hizo notar entonces la dificultad con que tropieza el rico para entrar en el cielo. No dijo que eso fuera imposible, pero sabia que las riquezas son una terrible tentación. Sin embargo, un hombre puede ser millonario y luchar por vivir la vida superior. Las riquezas son un obstáculo, pero sería absolutamente erróneo suponer que las riquezas impiden el desarrollo oculto. Todo depende del punto de vista con que el hombre considere sus riquezas. Si las emplea con el objeto de engrandecerse para satisfacer su vanidad y para oprimir a sus semejantes, por supuesto no puede obtener el crecimiento espiritual; pero cuando el hombre se considera como simple administrador de sus posesiones, cuando trata de levantar fábricas modelo y casas de habitación de igual clase, cuando trabaja activamente para llevar a cabo sus ideas filantrópicas y sus semejantes se benefician así, entonces la fortuna es un poder enorme para el bien. Cuando un hombre trabaja en esa forma en beneficio de los demás, no tendrá mucho tiempo para pensar en su propio desarrollo y su crecimiento espiritual será más bien inconsciente. Sin embargo, progresará enormemente y sus oportunidades para obrar mejor y realizar obras más grandes irán aumentando con los años de esta vida y en las demás. Este es el verdadero significado de la parábola de los talentos. Los que emplearon sus talentos fueron nombrados gobernadores de cierto número de ciudades, para proporcionarles un empleo adecuado en el plan evolutivo. Por el contrario, si un hombre posee una fabrica y se llena tanto de deseos de desarrollo oculto que la vende y despide a sus obreros, dejándolos sin empleo para poder así desarrollarse y vivir la vida superior, ese hombre faltaría a su deber y, sin duda alguna, el maestro lo rechazaría pues habría enterrado su talento y en una nueva vida se vería privado de la oportunidad que otrora descuidara. 
 
-### PREGUNTA Nº 184
+### <h3 id="question-184">PREGUNTA Nº 184</h3>
 
 ¿Cree usted en la pena capital? ¿No es ella mucho más humanitaria que la prisión perpetua? 
 
@@ -2416,7 +2427,7 @@ Sostenemos que el objeto no es la venganza, sino solamente la necesidad de salva
 
 En cuanto a la segunda parte de la pregunta, podría contestarse quizás que, bajo el régimen actual de las prisiones, es preferible la muerte. Pero esa rama de nuestras instituciones también necesita una urgente reforma y es mucha la tarea que tenemos aún que hacer en lo que respecta al trato que debe darse a los titulados criminales. Estos son nuestros hermanos, en la misma medida que los llamados miembros respetables de la sociedad, y que aún no han cometido el imperdonable delito de salirse de ella. Es cierto que la vida de la prisión no es hoy tan bárbara como antes. Es también cierto que, en los Estados Unidos, tenemos la probación y la suspensión de la sentencia, pero estamos todavía muy lejos de lo que debe hacerse real- mente. Si pudiéramos comprender verdaderamente que los llamados criminales son hermanos nuestros los trataríamos como si fueran hermanos menores, hijos de nuestra propia madre, y entonces estaríamos muy cerca de obrar debidamente; porque ¿quién de entre nosotros, si un hermano menor hubiera cometido una falta, lo enviaría a presidio con desprecio, o le daría calificativos denigrantes cuando hubiera cumplido su sentencia, manteniéndolo en el ostracismo el resto de su vida? Cuando una persona se enferma de fiebre tifoidea no nos enojamos contra ella y la enviamos al hospital por un mes; la enviamos allí hasta que se cure, cuidamos de ella y tratamos de que recupere su salud y nos regocijamos cuando se pone bien. Un criminal no es más que un ser mentalmente enfermo y débil. No debería enviársele a la prisión por un tiempo determinado, sino a una institución donde se le enseñara y ayudara a recuperar su sanidad mental. Hasta que procedamos en esa forma no podremos decir que hemos sobrepasado la máxima bárbara de pedir ojo por ojo. ¿Cómo podemos rogar "perdónanos nuestras deudas así como nosotros perdonamos a nuestros deudores si empleamos tales procedimientos? 
 
-### PREGUNTA Nº 185
+### <h3 id="question-185">PREGUNTA Nº 185</h3>
 
 ¿Cuál es el punto de vista Rosacruz sobre el sufragio femenino? 
 
@@ -2428,7 +2439,7 @@ La mujer, por otra parte, tiene positivo el cuerpo vital, y su resultado es que 
 
 Algunos han argüido: "Sí, pero cuando la política la atrae queda tan deshecho como si hubiera muerto." Mas no hay que temer tal cosa. Durante el estado de transición, mientras la mujer tiene que luchar para obtener sus derechos, y quizás un tiempo después, posiblemente puede ser así, pero tan pronto como se haya adaptado a las nuevas condiciones lo mantendrá más firmemente que antes. En los lugares donde se ha ensayado el sistema ningún hogar ha quedado deshecho, y, en cambio, han sido ellas las promotoras de toda medida que tendiera al mejoramiento de la moral. Si bien las leyes solo sirven para impulsar a la humanidad hacia un plano superior, en el que cada individuo será una ley en sí mismo, por el momento es absolutamente necesario que esas reformas se produzcan mediante una legislación adecuada. 
 
-### PREGUNTA Nº 186
+### <h3 id="question-186">PREGUNTA Nº 186</h3>
 
 Los ocultistas se abstienen de comer carne, porque para ello se requiere matar a otro ser, cosa que ellos no quieren hacer ni directa ni indirectamente; ¿no sería también matar una vida el hecho de comer huevos o vegetales? 
 
@@ -2436,7 +2447,7 @@ Respuesta: El caso mencionado es muy diferente del de matar a un animal. En real
 
 El proceso es el mismo en todos los reinos. Cuando un animal tiene que nacer, el espíritu colectivo, auxiliado por los espíritus de la Naturaleza y los ángeles, modela el cuerpo vital, el que se deposita en la matriz de la madre, en tanto que el átomo simiente se pone en el semen de padre; entonces tiene lugar la gestación y el animal nace. Sin el átomo simiente y el cuerpo vital matriz no puede formarse absolutamente ningún cuerpo animal. Similares condiciones rigen la fecundación en el caso de un huevo o de una semilla vegetal. Son semejantes al óvulo femenino, son otras tantas oportunidades. Si el huevo se coloca en una incubadora o bajo una gallina clueca, el espíritu colectivo enviará la vida necesaria, aceptando la oportunidad que se le presenta. Si la semilla se planta en la tierra, cuando existen las condiciones necesarias, germinará, pero no antes. Si se aplasta un huevo o se lo inutiliza en cualquier otra forma para el objeto primario para que fue creado, o si una semilla se guarda muchos años, ya no hay vida, y, por consiguiente, no se causa ningún daño al utilizarlos como alimento. Y para el árbol resulta beneficioso que se le saquen los frutos maduros pues así dejan estos de absorber innecesaria savia. 
 
-### PREGUNTA Nº 187
+### <h3 id="question-187">PREGUNTA Nº 187</h3>
 
 La terrible entidad que Glyndon vio en el Zanoni de Bulwer ¿no es la misma que la que se describe como Mr. Hyde en la obra de Roberto L. Stevenson? 
 
@@ -2446,7 +2457,7 @@ Esta entidad es invisible para el hombre ordinario durante el intervalo entre la
 
 Algunas veces ocurre, sin embargo, que un individuo muere con una naturaleza pasional tan fuerte que, después de haber hecho la expiación del Purgatorio, y entrado en el Segundo Cielo, ese cuerpo de deseos se mantiene sin disgregarse hasta el momento en que ese individuo vuelve a renacer. Entonces, magnéticamente, se siente atraído por el, y el hombre poseería, por así decirlo, un cuerpo de deseos doble. El cuerpo de deseos de la vida anterior puede entonces hacerse sentir y obligarlo a llevar una doble vida tal como sustancialmente se relata en la obra de Stevenson, impulsándolo a cometer actos que le repugnan, porque el sufrimiento que experimentara en el purgatorio está actuando ahora como conciencia que le hace repeler ese mal. Afortunadamente, esos casos son rarísimos en la época actual. 
 
-### PREGUNTA Nº 188
+### <h3 id="question-188">PREGUNTA Nº 188</h3>
 
 Si amputamos el brazo de un hombre, o cortamos la rama de un árbol, ¿se corta al mismo tiempo la parte invisible de esos objetos? 
 
@@ -2454,10 +2465,8 @@ Respuesta: En el caso de un brazo amputado, la contraparte etérica subsistirá 
 
 El cuerpo vital de la planta está solo compuesto por los dos éteres más densos el éter químico y el éter de vida, que permiten a la planta crecer y propagar su especie, pero le faltan los dos éteres superiores, el luminoso y el reflector, y de ahí que no tenga sensación ni memoria de lo que ocurre en torno suyo. Por consiguiente, la amputación de un miembro no le causa el menor dolor, y si se trata de un objeto inanimado, como el éter químico es el único que está presente, el objeto no tendría la menor sensación. Sin embargo, sería erróneo inferir que no hay la menor sensación relacionada con ello en estos casos, porque aún cuando ni el mineral ni la planta tengan medios para sentir, están envueltos e interpenetrados por los éteres del Mundo del Deseo del Planeta, y el Espíritu Planetario siente todo, así como un dedo, que no tiene cuerpo de deseos individual, no siente, pero nosotros, que somos el espíritu interno que habita el cuerpo, sentimos directamente el daño que se causa al dedo. 
 
-### PREGUNTA Nº 189
+### <h3 id="question-189">PREGUNTA Nº 189</h3>
 
 ¿Conoce usted algún lugar a donde pueda uno ir a vivir esa vida tan hermosa, sencilla e inofensiva que usted recomienda? 
 
-Respuesta: No, no sabemos de sitio alguno, y si se encontrara uno con ese objeto, lo lamentaríamos por sus habitantes. Si tenemos un carácter violento y nos vamos a vivir a la montaña como reclusos, donde no haya otras personas que puedan herir nuestra sensibilidad, muy poco crédito sería para nosotros el no ser impacientes. Si encontramos ser difícil el sobreponemos a nuestros vicios o faltas en la ciudad, y nos vamos al desierto donde las tentaciones no existen, poco será nuestro mérito. Hemos sido colocados en ciudades y en medio de nuestros semejantes para que nos acostumbremos a acomodarnos a ellos y aprendamos a mantener firmemente nuestro carácter a pesar de todo y a rehuir las tentaciones donde existan. Uno puede estar en la montaña y tener su corazón en la ciudad, o puede meterse entre los muros de un monasterio y, sin embargo, estar deseando los placeres del mundo. Es mejor quedarse donde se está y desarrollar allí las cualidades espirituales que nos convertirán en seres mejores. Hay mucho que hacer en el mundo y si huimos de él ¿quién hará la tarea? Somos responsables de nuestros compañeros. Y salvo que nos descarguemos de esa responsabilidad, faltaremos a nuestro deber y el Destino nos llevará de nuevo a un ambiente tal del que no podamos escapar. Por lo tanto, es mucho mejor tratar de aprender todas las lecciones que están en nuestras manos que rehuirías y aislarnos. 
-
-Fin
+Respuesta: No, no sabemos de sitio alguno, y si se encontrara uno con ese objeto, lo lamentaríamos por sus habitantes. Si tenemos un carácter violento y nos vamos a vivir a la montaña como reclusos, donde no haya otras personas que puedan herir nuestra sensibilidad, muy poco crédito sería para nosotros el no ser impacientes. Si encontramos ser difícil el sobreponemos a nuestros vicios o faltas en la ciudad, y nos vamos al desierto donde las tentaciones no existen, poco será nuestro mérito. Hemos sido colocados en ciudades y en medio de nuestros semejantes para que nos acostumbremos a acomodarnos a ellos y aprendamos a mantener firmemente nuestro carácter a pesar de todo y a rehuir las tentaciones donde existan. Uno puede estar en la montaña y tener su corazón en la ciudad, o puede meterse entre los muros de un monasterio y, sin embargo, estar deseando los placeres del mundo. Es mejor quedarse donde se está y desarrollar allí las cualidades espirituales que nos convertirán en seres mejores. Hay mucho que hacer en el mundo y si huimos de él ¿quién hará la tarea? Somos responsables de nuestros compañeros. Y salvo que nos descarguemos de esa responsabilidad, faltaremos a nuestro deber y el Destino nos llevará de nuevo a un ambiente tal del que no podamos escapar. Por lo tanto, es mucho mejor tratar de aprender todas las lecciones que están en nuestras manos que rehuirías y aislarnos.
