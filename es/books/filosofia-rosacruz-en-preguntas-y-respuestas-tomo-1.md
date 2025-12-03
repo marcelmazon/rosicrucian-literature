@@ -270,9 +270,9 @@ La Filosofía Rosacruz enseña que el hombre es un ser complejo que posee:
 
 El Ego, es el triple espíritu que emplea esos vehículos para obtener experiencia en la escuela de la vida. 
 
-## SECCIÓN I - Preguntas referentes a LA VIDA EN LA TIERRA
+<h2 id="section-1">SECCIÓN I - Preguntas referentes a LA VIDA EN LA TIERRA</h2>
 
-### PREGUNTA Nº 1
+### <h3 id="question-1">PREGUNTA Nº 1</h3>
 
 Si somos espíritus puros y parte de un Dios omnisciente ¿Por qué fue necesario que hiciéramos este largo peregrinaje de pecados y dolores a través de la materia? 
 
@@ -280,13 +280,13 @@ Respuesta: Al principio de la manifestación, Dios diferencia dentro de Sí Mism
 
 Hay cierta tendencia en muchas personas a creer que todo lo que es, es el resultado de algo anterior, no dejando así lugar alguno para algo original. Los que estudian la vida, hablan solamente de involución y evolución; los que estudian la forma es decir, los científicos modernos, se relacionan con la evolución solamente, pero los más adelantados de entre ellos están empezando ahora a encontrar otro factor, que han llamado Epigénesis. Ya en 1757, Gaspar Wolff emitió su Theorea Generationis, en la que se muestra que, en el desarrollo del óvulo, hay una serie de nuevas formaciones, no determinadas por lo ya efectuado, y Haeckel, endosando esa obra, dice que en nuestros días no está justificado llamar "teoría" a la Epigénesis, porque es un hecho que puede demostrarse en el caso de las formas inferiores, cuyos cambios son rápidos, lo que puede observarse por medio del microscopio. Desde que se le dio la mente al hombre, ese impulso creador original, la Epigénesis, es lo que ha sido la causa de todo nuestro desenvolvimiento. Ciertamente, construimos sobre lo que ya ha sido creado, pero hay además algo nuevo, debido a la actividad del espíritu, y es en esa forma que nos convertimos en creadores, por que si solo imitáramos lo que ya ha sido hecho por Dios o por los Ángeles, no nos sería nunca posible convertirnos en inteligencias creadoras: seríamos simples imitadores. Y aún cuando cometamos errores, puede decirse que, muy frecuentemente, aprendemos mucho más de nuestros errores que de nuestros éxitos. El pecado y el sufrimiento de los que habla el preguntante, son meramente el resultado de los errores que hacemos, y su impresión en nuestra conciencia nos obliga a obrar en otros sentidos que encontramos son buenos; es decir, que están en armonía con la Naturaleza. Así que este mundo es una escuela de desenvolvimiento y no un valle de lágrimas en el que hubiéramos sido colocados por un caprichoso Dios. (Véase la pregunta # 9.) 
 
-### PREGUNTA Nº 2
+### <h3 id="question-2">PREGUNTA Nº 2</h3>
 
 Si "Dios hizo al hombre un poco inferior a los Ángeles," ¿cómo es posible que el hombre llegue a convertirse, en último término, en superior a ellos en el Mundo Espiritual? 
 
 Respuesta: Esta pregunta revela un malentendido por parte del preguntante. Nunca se ha dicho eso en las enseñanzas rosacruces, pero sí se ha dicho algo que puede haber sido comprendido así por error de interpretación. El hecho es que la evolución se desarrolla en espiral y por lo tanto jamás se repite el mismo estado o condición. Los Ángeles pertenecen a una corriente evolutiva anterior, y fueron humanos en una encarnación previa de la Tierra, llamada el Período Lunar por los Rosacruces. Los Arcángeles son la humanidad del Período Solar y los Señores de la Mente, a quienes San Pablo llama "los Poderes de las Tinieblas," fueron la humanidad del tenebroso Período de Saturno. Nosotros somos la humanidad del cuarto período del actual plan evolutivo de manifestación, el Período Terrestre. Como todos los seres del Universo están progresando, las humanidades de los períodos precedentes han progresado también, así que están ahora en un estado superior a aquel en el que se encontraban cuando eran humanos: ellas son suprahumanas. Por consiguiente, es perfectamente verídico que Dios hizo al hombre un poco inferior a los ángeles. Pero como todo está en un estado de progresión espiral, es también cierto que nuestra humanidad actual es una humanidad superior y más elevada que la que constituyeron los ángeles: y que estos fueron una humanidad de orden superior a la de los arcángeles, cuando eran humanos. En el próximo paso llegaremos a un estado análogo al que ocupan actualmente los ángeles, y seremos superiores a lo que ellos son ahora. 
 
-### PREGUNTA Nº 3
+### <h3 id="question-3">PREGUNTA Nº 3</h3>
 
 ¿Por qué fue necesario que viniéramos a esta existencia física? ¿No podíamos haber aprendido las mismas lecciones sin necesidad de ser aprisionados y limitados por las densas condiciones del mundo material? 
 
@@ -306,7 +306,7 @@ El Mundo Físico enseña al inventor a pensar correctamente, y sus éxitos son l
 
 En todo esfuerzo mercantil, social o filantrópico, obra el mismo principio. Si nuestras ideas concernientes a los diversos asuntos de la vida son inexactas, se corrigen cuando se llevan a la práctica, de suerte que este mundo es una necesidad absoluta para enseñarnos a emplear el poder del pensamiento y del deseo, estando actualmente esas fuerzas muy subyugadas por nuestras condiciones materiales. Pero, conforme pase el tiempo y aprendamos a pensar correctamente más y más, obtendremos finalmente tal poder mental que podremos pensar el pensamiento exacto inmediatamente en todos los casos, sin necesidad de hacer ningún experimento, y podremos también hablar nuestro pensamiento convirtiéndolo en un ser real, en una cosa. Hubo un tiempo en un lejano, lejanísimo pasado, en el que el hombre era todavía un ser espiritual y las condiciones de la Tierra eran más plásticas. Entonces se le enseñó directamente, por los Dioses, a emplear la palabra como medio de crear, y así obró para formar las plantas y los animales. Se nos dice en la Biblia, que "Dios llevó a los animales ante el hombre y éste les dio nombre." Este nombre no era simplemente el llamar al león, león, sino que era un proceso creador que dio al hombre poder sobre la cosa nombrada, y únicamente cuando el egoísmo, la crueldad y las pasiones, vinieron, se perdió la palabra de poder de la que hablan los masones. Cuando la santidad haya de nuevo ocupado el lugar de la profanación, se encontrará nuevamente la palabra, convirtiéndose en el poder creador del hombre divino del futuro. 
 
-### PREGUNTA Nº 4
+### <h3 id="question-4">PREGUNTA Nº 4</h3>
 
 Si esta vida terrestre es tan importante y es, en realidad, la base de nuestro crecimiento anímico, siendo este último el resultado de las experiencias que aquí obtenemos, ¿por qué nuestra vida terrestre es tan corta en comparación con la vida en los mundos internos, la que se aproxima a un millar de años entre dos vidas terrestres? 
 
@@ -314,7 +314,7 @@ Respuesta: Todo lo que hay en este mundo y que halla sido hecho por la mano del 
 
 Pero hacer cosas de materia mental es muy diferente que hacerlas de materia concreta. Actualmente somos pensadores muy pobres, y por lo tanto se necesita un gran período de tiempo para que hagamos esas formas mentales en el segundo cielo; entonces, también, debemos esperar un tiempo considerable antes de que esas formas mentales se hayan cristalizado convirtiéndose en un alrededor ambiente físico, real, al que vamos a ir. Por consiguiente, es necesario que estemos en el Mundo Celeste mucho más tiempo que el que estamos en la vida terrestre. Cuando hayamos aprendido a pensar correctamente podremos crear cosas aquí, en el Mundo Físico, en mucho menos tiempo que el que ahora tardamos en formarlas laboriosamente, Ni será entonces necesario estar fuera de la vida terrestre tanto como ahora. 
 
-### PREGUNTA Nº 5
+### <h3 id="question-5">PREGUNTA Nº 5</h3>
 
 ¿Cuánto tiempo pasará antes de que podamos estar sin cuerpos físicos y funcionar en los Mundos Espirituales de nuevo? 
 
@@ -322,13 +322,13 @@ Respuesta: Esta pregunta revela un estado mental que es muy corriente entre much
 
 Este estado mental es poco afortunado. Deberíamos estar sumamente agradecidos por el instrumento material que poseemos, porque éste es el más estimable de todos nuestros vehículos. Si bien es perfectamente cierto que nuestro cuerpo físico es el más inferior de todos nuestros vehículos, es también igualmente cierto que ese vehículo es el más acabado de todos nuestros instrumentos, y que, sin él, los otros nos serían de poquísima utilidad actualmente, porque mientras ese instrumento espléndidamente organizado nos permite encontrar mil y una condiciones aquí, nuestros vehículos superiores están prácticamente inorganizados. El cuerpo vital está formado, órgano por órgano, como nuestro cuerpo físico denso, pero hasta que haya sido ejercitado mediante las prácticas esotéricas no es un instrumento preparado para funcionar independientemente. El cuerpo de deseos tiene únicamente cierto número de centros sensoriales que no están en actividad en la gran mayoría de la humanidad y, en cuanto a la mente, es solo una nube informe en la mayor parte de los hombres. Hoy en día deberíamos tratar de espiritualizar nuestro instrumento físico; y deberíamos comprender que es necesario ejercitar primeramente nuestros vehículos superiores antes de que puedan sernos de utilidad. Para la gran mayoría se necesitaría mucho tiempo. Por consiguiente, es mejor que hagamos el deber que tenemos más a mano, apresurando en esa forma el día en que podremos usar los vehículos superiores, pues ese día depende de nosotros mismos. 
 
-### PREGUNTA Nº 6
+### <h3 id="question-6">PREGUNTA Nº 6</h3>
 
 El Espíritu, ¿entra en el cuerpo en el momento de la concepción o en el momento del nacimiento? 
 
 Respuesta: Ha sido comprobado, por la investigación clarividente, que al morir el espíritu se lleva consigo las fuerzas de un átomo, situado en el ventrículo izquierdo del corazón, que se llama átomo-simiente, porque es el núcleo o simiente en torno del cual se agrupan todos los materiales del cuerpo, y todos los demás átomos de éste deben ser capaces de vibrar al unísono con dicho átomo-simiente. Por consiguiente, ese átomo se deposita en el semen del padre algún tiempo antes de la concepción, y más tarde va a parar a la matriz de la madre. Pero la concepción no es siempre simultánea con la unión sexual de los padres. El espermatozoide impregnante no se une al óvulo algunas veces hasta catorce días después de la cópula. Esa impregnación del óvulo, es lo que puede llamarse concepción, y desde el momento en que el óvulo deja el tubo de falopio, comienza la gestación. De los dieciocho a los veintiún días, todo el trabajo lo efectúa la madre, pero entonces el Ego reencarnante, envuelto en una nube en forma de campana, compuesta de materia mental y de deseos, entra en el seno de la madre, y esa nube se cierra entonces por la base, tomando una forma ovoidea. Realizado esto el espíritu se encuentra ligado a la carne definitivamente y ya no puede escapar, sino que debe quedarse con la madre hasta que el nacimiento lo libere. En el actual grado de nuestro desarrollo, el espíritu hace muy poco trabajo consciente sobre su futuro vehículo, pero está presente en todo tiempo y ayuda inconscientemente a la formación de su instrumento. Esto no es más notable que el que hagamos la digestión de nuestro alimento o respiremos sin darnos cuenta de ello. 
 
-### PREGUNTA Nº 7
+### <h3 id="question-7">PREGUNTA Nº 7</h3>
 
 ¿Cuál fue el objeto de la división de los sexos? 
 
@@ -336,7 +336,7 @@ Respuesta: La división de los sexos se efectuó en un estado muy primitivo de l
 
 Antes de esta división, el hombre, como algunas plantas actuales, era una unidad completa, creadora, capaz de perpetuar su especie sin ayuda de otro. Las facultades del pensamiento y del lenguaje, se han comprado al precio de ese poder creador; pero ahora, esa mitad de la fuerza creadora, que se expresa a través del cerebro y de la laringe, puede emplearse para crear cosas en el mundo: casas, barcos, ferrocarriles, etc. 
 
-### PREGUNTA Nº 8
+### <h3 id="question-8">PREGUNTA Nº 8</h3>
 
 ¿Es el alma de la mujer masculina y el alma del hombre femenina? 
 
@@ -346,19 +346,20 @@ Los impulsos del cuerpo de deseos empujan a la sangre a través del sistema con 
 
 Siendo positivamente polarizada en la Región Etérica del Mundo Físico, la esfera de la mujer ha sido el hogar y la iglesia, donde se encuentra rodeada por el amor y la paz, mientras que el hombre lucha la batalla por la supervivencia de los más aptos, sin tener cuartel en el Mundo Físico, denso, donde él es positivo. 
 
-### PREGUNTA Nº 9
+### <h3 id="question-9">PREGUNTA Nº 9</h3>
 
 ¿Conservamos el mismo carácter en todas nuestras vidas? 
 
 Respuesta: El Ego puede compararse a una piedra preciosa, a un diamante en bruto. Cuando éste se saca de la tierra está muy lejos de ser hermoso; uña costra grosera oculta el esplendor que encierra, y antes de que el diamante pueda convertirse en una gema, debe pulírselo sobre una durísima piedra de esmeril. Cada aplicación a la piedra de esmeril saca una parte de la costra y modela una faceta a través de la cual entra la luz refractándose en diferente ángulo por la luz que reflejan las otras facetas. 
 
-Así sucede con el Ego. Como diamante en bruto entra en la escuela de la experiencia, su peregrinación a través de la materia, y cada vida es como una aplicación de la gema a la piedra de esmeril. Cada vida en la escuela de la experiencia arranca una parte de la costra del Ego y admite la luz de la inteligencia en un ángulo nuevo, dando una experiencia diferente, y así como los ángulos de la luz varían en las muchas facetas del diamante, así también, el temperamento o carácter del Ego difiere en cada vida. En cada vida solo podemos mostrar una pequeña parte de nuestras naturalezas espirituales, solo podemos realizar una pequeña parte del esplendor de nuestras posibilidades divinas, pero cada vida tiende a redondearnos, y a hacer que nuestro temperamento sea más estable. En realidad, el trabajo sobre el carácter es la parte principal de nuestra lección, porque la meta es el dominio propio. 
+Así sucede con el Ego. Como diamante en bruto entra en la escuela de la experiencia, su peregrinación a través de la materia, y cada vida es como una aplicación de la gema a la piedra de esmeril. Cada vida en la escuela de la experiencia arranca una parte de la costra del Ego y admite la luz de la inteligencia en un ángulo nuevo, dando una experiencia diferente, y así como los ángulos de la luz varían en las muchas facetas del diamante, así también, el temperamento o carácter del Ego difiere en cada vida. En cada vida solo podemos mostrar una pequeña parte de nuestras naturalezas espirituales, solo podemos realizar una pequeña parte del esplendor de nuestras posibilidades divinas, pero cada vida tiende a redondearnos, y a hacer que nuestro temperamento sea más estable. En realidad, el trabajo sobre el carácter es la parte principal de nuestra lección, porque la meta es el dominio propio. Como dice Goethe: 
 
-Como dice Goethe: 
+```
+"De todos los poderes que al mundo encadenan, 
+se liberta el hombre cuando obtiene el dominio de sí mismo." 
+```
 
-"De todos los poderes que al mundo encadenan, se liberta el hombre cuando obtiene el dominio de sí mismo." 
-
-### PREGUNTA Nº 10
+### <h3 id="question-10">PREGUNTA Nº 10</h3>
 
 ¿Está el cuerpo de deseos sujeto a la enfermedad y necesita nutrición? 
 
@@ -366,7 +367,7 @@ Respuesta: En cierto sentido sí, durante la vida terrestre; es decir, que la en
 
 Pero, si el preguntante interroga sobre las condiciones después de la muerte, el asunto es diferente. Aunque una persona pueda estar enferma aquí, haya tenido que guardar cama durante años enteros, sin poder moverse, cuando ocurre la muerte y se siente fuera del cuerpo denso, se produce enseguida una sensación de alivio, de bienestar, de ligereza, que le eran antes completamente desconocidos, y entonces comprende inmediatamente que no sufre ya dolor alguno y que puede moverse perfectamente. También es muy claro que el cuerpo de deseos no necesita alimento alguno. Sin embargo, muchas personas no están seguras de ello, y por consiguiente, encontramos muchas personas, en las regiones inferiores del Mundo del Deseo, que van y vienen allí como si estuvieran en su hogar. De ahí los relatos de algunos investigadores espiritualistas, quienes han encontrado esas condiciones en el Mundo Invisible; y eso también explica mucho de lo que George du Maurier ha dicho en la vida de Peter Ibbetson y de la Condesa de las Torres, en la novela que lleva por título el nombre de su protagonista. Recomendamos esa obra, pues da una buena ilustración de la operación de la memoria subconsciente, donde el héroe de la novela se encuentra frente a la vida de su infancia en las regiones inferiores del mundo invisible. 
 
-### PREGUNTA Nº 11
+### <h3 id="question-11">PREGUNTA Nº 11</h3>
 
 ¿Cómo es que expiando todos los pecados en el Purgatorio tiene uno al renacer que sufrir de nuevo por los pecados de la vida anterior, según la Ley de Causa y Efecto? 
 
@@ -376,7 +377,7 @@ Pero, como el deseo en este mundo se consume cuando comprendemos que no puede gr
 
 En cuanto al mal que hayamos hecho a los demás, como por ejemplo, cuando hayamos tratado cruelmente a un niño puesto a nuestro cuidado, golpeándolo o maltratándolo en cualquier forma, las escenas en que obramos mal se imprimirán sobre el átomo del corazón; más tarde el panorama será transferido al cuerpo de deseos, y el panorama de la vida, que se desarrolla hacia atrás, traerá nuevamente esas escenas ante nuestra conciencia. Nosotros entonces sentiremos todo lo que el niño sintió cuando fue nuestra víctima; sentiremos todos los malos tratos que le infligimos tal como el niño los sintió; sentiremos todas sus angustias mentales y mortificaciones; sufriremos pena tras pena, y entonces, cuando renazcamos, nos encontraremos con nuestra víctima y se nos presentará la oportunidad de beneficiarlo, en vez de hacerle daño. Si así lo hacemos, santo y bueno; si nuestra antigua enemistad se afirma nuevamente como antes, entonces volveremos a sufrir en el próximo purgatorio, hasta que aprendamos por último a ser compasivos y cariñosos con los que están a nuestro cuidado. De manera, pues, que no sufrimos de nuevo por los pecados cometidos en una vida anterior; nacemos inocentes, gracias al purgatorio, y todo mal acto que cometamos es un acto de libre voluntad. Pero las tentaciones vienen a nosotros para comprobar si la purificación ha sido suficiente, para enseñarnos las lecciones necesarias, y es nuestro privilegio caer en ellas o mantenernos firmes y fuertes en el bien. 
 
-### PREGUNTA Nº 12
+### <h3 id="question-12">PREGUNTA Nº 12</h3>
 
 ¿Es la conciencia la voz de Dios o la de nuestro Ángel Custodio? 
 
@@ -386,7 +387,7 @@ Cuando viene una tentación ante nosotros en la vida terrestre y la hemos dejado
 
 Contestando definitivamente a la pregunta, podemos decir, por lo tanto, que la conciencia es la memoria del espíritu de los sufrimientos pasados, ocasionados por los errores cometidos en las vidas anteriores. 
 
-### PREGUNTA Nº 13
+### <h3 id="question-13">PREGUNTA Nº 13</h3>
 
 ¿Que es el genio? 
 
@@ -398,7 +399,7 @@ Cuando acudimos a la Ley de Causación y a su compañera, la del Renacimiento, p
 
 Para expresar algunas de nuestras facultades, por ejemplo, la música, es necesario que tengamos ciertas características físicas, tales como dedos largos y finos, un sistema nervioso delicado, y particularmente el oído tiene que estar desarrollado para que podamos expresarnos como músicos. El material requerido para tal expresión, no puede encontrarse en todas partes, pero, la ley de la asociación necesariamente atraerá un músico hacia los demás, y allí encontrará a mano los materiales con los cuales podrá formarse el cuerpo requerido para la expresión de su talento. Por consiguiente, parece, a veces, como si los músicos nacieran en familias; por ejemplo, veintinueve músicos nacieron en la familia de Bach en doscientos cincuenta años. 
 
-### PREGUNTA Nº 14
+### <h3 id="question-14">PREGUNTA Nº 14</h3>
 
 Un alma que nace mujer ¿sigue siendo siempre mujer en todas sus vidas? ¿no puede convertirse en hombre? Y ¿cuál es el intervalo entre dos encarnaciones? 
 
@@ -414,7 +415,7 @@ En tal caso, cuando una familia de músicos con quien tenga relación se encuent
 
 Así es como muy a menudo vemos genios no apreciados por sus contemporáneos, si bien son altamente estimados por las siguientes generaciones que pueden comprender su punto de vista. 
 
-### PREGUNTA Nº 15
+### <h3 id="question-15">PREGUNTA Nº 15</h3>
 
 Cuando un hombre paga sus deudas, cuida de su familia y vive aquí una vida moral, ¿no se encontrará bien en el más allá? 
 
@@ -426,7 +427,7 @@ Cuando entra en el Mundo del Deseo después de la muerte es demasiado bueno como
 
 Todo cuanto dio para iglesias, institutos, etc., no cuenta por nada debido a su falta de corazón. Únicamente cuando damos por amor servirá nuestra donación para traernos la felicidad en el más allá. No la suma que dimos, sino el espíritu que acompañó al presente es lo que vale; por lo tanto, está en el poder de todos el dar beneficiando así a otros y a sí mismos. El dar dinero indiscretamente, sin embargo, puede hacer que una persona se haga indigente y dependiente de nosotros, pero dándole la simpatía del corazón, ayudándole a creer en sí mismo y a comenzar nuevamente con renovado ardor cuando han fracasado, dándonos nosotros mismos en servicio de la humanidad, nos juntamos un tesoro en el cielo y damos más que oro. Cristo dijo, "el pobre está siempre con nosotros." No podremos quizás llevarlos de la pobreza hasta la riqueza, y esto puede ser que no fuera bueno para ellos, pero podemos animarlos a aprender la lección que hay que aprender en la pobreza; podemos ayudarles a mirar mejor la vida, y a menos que el hombre que se encontrara en la posición indicada por el preguntante no haga esto también, no se encontrará "muy bien" cuando muera; sufrirá esa terrible monotonía con objeto de que aprenda que debe hacer en su vida algo de verdadero valor, y de esta suerte en las vidas subsiguientes su conciencia lo impulsará a hacer algo mejor que juntar dólares, si bien no descuidará por eso sus deberes materiales, porque eso es tan malo como el olvidar los esfuerzos espirituales. 
 
-### PREGUNTA Nº 16
+### <h3 id="question-16">PREGUNTA Nº 16</h3>
 
 Se dice algunas veces que tenemos el derecho de pensar lo que se nos antoje y que no somos responsables por nuestros pensamientos; ¿es eso así desde el punto de vista oculto? 
 
@@ -440,7 +441,7 @@ Por consiguiente, nuestros pensamientos son muchísimo más importantes que nues
 
 Si, entonces, vemos insignificancia y pequeñez en los demás, sería conveniente que nos miráramos a nosotros mismos para comprobar si no es la atmósfera que nos rodea la que da esa coloración. Veamos si no tenemos dentro de nosotros mismos esas cualidades no deseables, y entonces comencemos por quitarnos esos defectos. El hombre que es insignificante y pequeño irradia de sí mismo esas cualidades, y cualquiera con quien él se encuentre le parecerá insignificante porque el evocará esas cualidades en los demás, según el mismo principio de que la vibración de un diapasón de cierto temple hará vibrar por simpatía a otro diapasón del mismo temple que se le ponga cerca. Por otra parte, si cultivamos una actitud de serenidad, una actitud libre de egoísmo y francamente honesta y deseosa de ayudar, evocaremos lo mejor en las demás personas. Por consiguiente, es necesario que comprendamos que hasta que no hayamos cultivado las mejores cualidades en nosotros mismos no podemos esperar encontrarlas en los demás. Somos, pues, en verdad responsables de nuestros pensamientos, somos ciertamente los custodios de nuestros hermanos, porque así como pensemos los encontraremos y se nos aparecerán así reflejando nuestra propia actitud. Aplicando el principio antedicho, si necesitamos ayuda para cultivar esas mejores cualidades, busquemos la compañía de las personas que ya las posean, porque su actitud mental será de una ayuda inmensa para nosotros evocando en nuestra propia atmósfera sus sutilísimas facultades. 
 
-### PREGUNTA Nº 17
+### <h3 id="question-17">PREGUNTA Nº 17</h3>
 
 Si una persona se ve constantemente asaltada por malos pensamientos, los que se introducen en su mente aún cuando ella está siempre luchando contra aquellos, ¿existe algún medio para limpiar la mente, de manera que ésta solo tenga pensamientos buenos y puros? 
 
@@ -448,7 +449,7 @@ Respuesta: Sí, lo hay, y es muy fácil llegar a ello. El mismo preguntante ha s
 
 Suponiendo que tenemos una repugnancia particular por cierta persona a quien nos encontramos todos los días en la calle cierto número de veces, si nos paramos cada vez que la encontramos y la reprendemos duramente por ir por la calle y no quitarse de nuestra vista, estamos cada vez añadiendo más combustible al fuego de nuestra enemistad, la estamos excitando, y de rabia tratará siempre de ponerse en nuestro camino. El agrado y el desagrado tienen la tendencia de atraer hacia nosotros un pensamiento o idea, y cuanta más fuerza mental irradiemos para luchar contra los malos pensamientos, tanto más vivos se mantendrán estos y tanto más a menudo nos asediarán, de la misma manera que el reprender a la citada persona hará que ésta enojada se ponga siempre en nuestro camino. En vez de luchar con el, debemos adoptar la táctica de la indiferencia. Si miramos para otro lado cuando la encontramos en la calle, muy pronto se cansará de seguirnos, y lo mismo debemos hacer cuando esos malos pensamientos vienen a nosotros. Si nos volvemos con indiferencia y dirigimos nuestra mente hacia algo bueno o ideal, encontraremos que al cabo de poco tiempo nos habremos librado de su compañía y solo tendremos, los buenos pensamientos y deseos que deseamos. 
 
-### PREGUNTA Nº 18
+### <h3 id="question-18">PREGUNTA Nº 18</h3>
 
 Si la mujer es una emanación del hombre, la costilla de Adán, en la vuelta final a la unidad, ¿será ella reabsorbida por la divinidad masculina, perdiendo su propia individualidad? 
 
@@ -458,13 +459,13 @@ El hecho era que el hombre fue primero semejante a los Dioses, hecho a su imagen
 
 En cuanto a perder la individualidad, tal cosa es imposible; precisamente el propósito de la evolución es que nos convirtamos en individuos conscientes de sí y separados durante la evolución, e individuos conscientes de sí unidos durante los intervalos entre dos manifestaciones. 
 
-### PREGUNTA Nº 19
+### <h3 id="question-19">PREGUNTA Nº 19</h3>
 
 ¿Por qué la mujer se ha encontrado desigual y asumido la inferioridad y la injusticia desde el principio de la existencia humana en este plano? 
 
 Respuesta: En primer lugar, debemos recordar que el espíritu no es ni macho ni hembra, sino que se manifiesta alternativamente así por regla general. Todos hemos sido hombres y hemos sido mujeres también. Por consiguiente no puede haber cuestión alguna sobre desigualdad si miramos la vida desde este más amplio punto de vista. Ciertas lecciones deben ser aprendidas por el espíritu en cada edad que solo pueden aprenderse desde el punto de vista de la mujer, y hay otras lecciones que tienen que aprenderse con un cuerpo masculino. Por consiguiente, la necesidad produce el cambio de sexo. Ocurre algunas veces, por supuesto, que por ciertas razones un espíritu debe aparecer como hombre durante varias encarnaciones y entonces, cuando toma un cuerpo femenino, puede discordar considerablemente. En ese caso nos encontraremos con una mujer muy masculina, quizás con una sufragista de naturaleza militante. Por otra parte, un espíritu puede haberse encarnado varias veces como mujer y luego renacer como hombre de naturaleza muy afeminada, apocado. Pero aún con la hipótesis de encarnaciones alternativas, muchos de nosotros estuvimos encarnados en el Imperio Romano con sexo opuesto al actual, y teniendo en cuenta la ley de Causación, el trato que dieron los hombres de entonces a sus mujeres no fue apropiado como para que las mujeres de entonces, encarnadas ahora como hombres hagan grandes concesiones a sus antiguos señores, convertidos hoy en mujeres. 
 
-### PREGUNTA Nº 20
+### <h3 id="question-20">PREGUNTA Nº 20</h3>
 
 ¿Por qué los sufrimientos de Margarita fueron tan grandes y desproporcionados a los de Fausto, tocándole a aquella hasta la cárcel y la muerte, mientras que el segundo vivía tranquilo, libre y feliz? 
 
@@ -472,7 +473,7 @@ Respuesta: Esta pregunta hace referencia a uno de los mitos que nos vienen a tra
 
 Goethe, que era un iniciado, ha tratado este mito del Fausto en una forma muy iluminativa, y la clave del problema se encuentra en el prólogo, que tiene lugar en el cielo, muy semejante a lo descrito al principio del libro de Job. Los Hijos de Dios aparecen ante el trono y el Diablo entre ellos, pues es también uno de los hijos de Dios. Entonces se le da permiso para que seduzca a Fausto para evocar así las actividades espirituales y hacer que desarrolle su virtud. Uno de nuestros grandes errores es el considerar la virtud y la inocencia como sinónimos; todos nosotros nacemos inocentes, venimos sin mal alguno, puesto que todo se ha purgado, pero tenemos ciertas tendencias que pueden convertirse en vicios, y por consiguiente en cada vida debemos resolver si cedemos a la tentación y abrazamos el vicio o si nos mantenemos firmes y desarrollamos la virtud. Fausto es tentado y cae pero después se arrepiente sinceramente y trasmuta las fuerzas malignas en bien, así que por último se salva. El arrepentimiento y la reforma antes de la muerte producen su salvación, y la impura pasión que sintió por Margarita da lugar al amor puro que sintió por Elena. Margarita también cede a la tentación, se arrepiente y se salva mediante el olvido de los pecados. Así que en un caso uno se salva por sus obras Mediante su energía, con la que domina al mal, se construye una nueva tierra, una tierra en la que un pueblo libre puede vivir bajo mejores condiciones; busca elevar a la humanidad a un plano superior, y por ese acto, por su desinteresada obra en beneficio de los demás se redime de los poderes del mal. En el caso de Margarita la salvación resulta de la oración y del arrepentimiento. Así que tenemos en ese drama, tal como lo representa Goethe, un símbolo perfecto de las enseñanzas occidentales de que hay perdón de los pecados y expiación de una mala obra mediante una obra buena correspondiente. La muerte es algo que a todos nos llega y el sufrimiento correspondiente al mal acto en cada caso no es seguramente menor en el caso de Fausto, cuya pena se prolongó durante un largo periodo de años, que en el caso de Margarita, cuya vida terminó en mucho menos tiempo. La única diferencia es que Fausto se sobrepuso conscientemente a sus tendencias y en una vida futura se vería libre de toda tentación, mientras que en el caso de Margarita eso es problemático. En una futura vida terrestre se encontrara nuevamente con la tentación para poner de manifiesto si ha desarrollado o no la fuerza de carácter necesaria para mantenerse firme y adherirse al bien. 
 
-### PREGUNTA Nº 21
+### <h3 id="question-21">PREGUNTA Nº 21</h3>
 
 ¿Hay algún lugar en el Antiguo o en el Nuevo Testamento en el que se diga a los hombres que se casen y que vivan como hermanos y hermanas en todo tiempo o bajo cualquier condición? Y si no está en la Biblia ¿por qué lo enseñáis así? 
 
@@ -480,7 +481,7 @@ Respuesta: Los semitas originales fueron la quinta raza atlante. Fueron los sobr
 
 Cuando dicho núcleo tenía que convertirse en la raza que poblaría el mundo, el tener muchos hijos era esencial. Por consiguiente se consideró que el deber de todos era tener muchos hijos. Pero ahora ya no estamos viviendo en esos tiempos; el mundo está bien poblado y los Egos se reencarnan fácilmente sin que se necesiten esfuerzos especiales para generar. Nunca hemos abogado por el celibato general, o que la gente se case y viva entonces siempre como hermano y hermana, sino que hemos enseñado que las personas casadas, de acuerdo con sus circunstancias deben ayudar a perpetuar la raza. Es decir, que si el marido y la mujer son hábiles física, moral y mentalmente, cuando poseen un hogar en el que un Ego pueda obtener una oportunidad de nacer y de adquirir experiencia, deben ofrecerse a sí mismos como un sacrificio viviente en el altar de la humanidad y dar de la sustancia de sus cuerpos para facilitar a un Ego un vehículo, invitándolo a su hogar como invitaría a un amigo querido, gozándose en hacer por él lo que otros han hecho por ellos. Pero cuando el acto de la impregnación haya sido efectuado deben abstenerse de toda unión posterior hasta que nuevamente se encuentren preparados para generar otro cuerpo para otro niño. Tales son las enseñanzas de los rosacruces concernientes a las relaciones ideales entre el marido y la esposa. Ellos sostienen que la función creadora no debe efectuarse con propósitos sensuales, sino para la perpetuación de la raza, cuyo objeto es naturalmente. Esta es una condición ideal que está más allá de la mayoría actualmente, así como el consejo de “amad a vuestros enemigos"; pero si no tenemos elevados ideales no podremos progresar. 
 
-### PREGUNTA Nº 22
+### <h3 id="question-22">PREGUNTA Nº 22</h3>
 
 ¿Tiene toda alma una compañera que le pertenece por toda la eternidad? Y en caso afirmativo, ¿no sería mejor permanecer célibe un millar de años que casarse con el alma que no corresponde? 
 
@@ -488,7 +489,7 @@ Respuesta: Así como la luz se refracta en los siete colores del espectro cuando
 
 Como todos los demás misterios, esta hermosa doctrina ha sido degradada convirtiéndola en esa idea física y material que encierra la concepción popular de las almas gemelas o afinidades; que la una es macho y la otra hembra y que a veces una de ellas es el esposo o la mujer de otro. En tales casos dicha doctrina se expone como excusa del adulterio o del rapto. Esa es una perversión abominable. Cada espíritu es completo en si mismo, toma un cuerpo masculino o femenino diferentes veces con objeto de aprender las lecciones de la vida, y únicamente durante el actual estado de su desarrollo existe el sexo absolutamente. El Ego fue antes que el sexo, y persistirá después de que la fase de esa manifestación haya pasado. 
 
-### PREGUNTA Nº 23
+### <h3 id="question-23">PREGUNTA Nº 23</h3>
 
 ¿Por qué está mal que los primos de primero, segundo y tercer grado se casen? 
 
@@ -500,7 +501,7 @@ Pero era necesario que los hombres olvidaran el Mundo Espiritual durante un tiem
 
 Conforme el hombre se fue individualizando más, tuvo que aprender a sostenerse sobre sus propias piernas sin ayuda del espíritu familiar. Entonces se permitieron los matrimonios internacionales y hasta se ordenó hacerlo, no permitiéndose más los matrimonios en la propia familia. Eso mató la clarividencia. La ciencia ha demostrado que cuando la sangre de un animal se inocula en las venas de otro animal, se produce hemólisis, o destrucción de la sangre, de suerte que el animal inferior muere. Pero la introducción de sangre extraña, en cualquier forma que se realice, mata siempre algo, si no la forma por lo menos una facultad, y la sangre extraña introducida por el matrimonio mató la clarividencia que poseía el hombre primitivo. Que esta afirmación de que la sangre extraña es destructora puede notarse en el caso de los híbridos. Si se cruzan por ejemplo un caballo y una burra la cría es una mula, pero esa mula no posee la facultad de la propagación, porque no está ni bajo el dominio del espíritu colectivo de los caballos, ni del espíritu colectivo de los burros, y si se pudiera propagar el resultado sería una raza nueva que no estaría bajo el dominio de ningún espíritu colectivo. La mula no está tan desarrollada sin embargo para que pueda guiar su instrumento sin la ayuda del espíritu colectivo y por eso se le niega la facultad de propagarse negándose el espíritu~grupo a poner en ella el átomo simiente fructificador. Con la humanidad fue diferente sin embargo. Cuando llegó al estado en el que se ordenó el matrimonio internacional había llegado a un punto en la evolución de la conciencia del yo en el que podía dirigir su propia barca y en el que debía dejar de ser el autómata de Dios convirtiéndose en individuos que se gobiernan a sí mismos. Cuanto mayor es la mezcla de sangres tanto menos puede ser influenciado el espíritu interno por los espíritus de la raza o de la familia que influenciaron a sus antecesores. Así que se ofrece un margen mayor a un Ego en vías de renacer si nos casamos con un extraño que si nos casamos con un primo. 
 
-### PREGUNTA Nº 24
+### <h3 id="question-24">PREGUNTA Nº 24</h3>
 
 ¿Sería conveniente para dos personas del mismo temperamento el casarse habiendo nacido ambas bajo el mismo signo del Zodíaco, en agosto por ejemplo? 
 
@@ -510,7 +511,7 @@ Para hacer un horóscopo científicamente, es necesario tener en consideración 
 
 Entonces, con objeto de que el astrólogo pueda decir si el casamiento de dos personas será armonioso o lo contrario, es necesario que haga el horóscopo de las dos y trate de ver si congenian física, moral y mentalmente, juzgándolo comparando los signos ascendentes que muestra la afinidad física. La posición de Marte y de Venus mostrará si moralmente son del mismo calibre, y el Sol y la Luna indicarán sus características mentales. En esa forma puede decir exactamente si sus naturalezas pueden unirse, pero cualquier predicción que se haga no basada en todos esos cálculos no tiene el menor valor. 
 
-### PREGUNTA Nº 25
+### <h3 id="question-25">PREGUNTA Nº 25</h3>
 
 ¿Qué dice el ocultismo respecto al matrimonio de los de raza blanca con los inferiores de raza mongólica y negra también respecto a su progenie? 
 
@@ -518,13 +519,11 @@ Respuesta: El espíritu humano no es blanco ni de color, pero en diferentes esta
 
 Esas clases inferiores de espíritus, nuestros hermanos pequeños, tienen que tomar nuestras sobras; por consiguiente nosotros tenemos naturalmente con ellos cierta deuda, y el matrimonio con las razas inferiores es necesario para crear algo superior. Los cuerpos negros del sur, los de los mulatos y criollos no son muy superiores a los cuerpos negros de los africanos, y están habitados, por supuesto, por Egos superiores a los que ocupan los cuerpos negros africanos; así que en todo tiempo hay una cadena ininterrumpida entre los precursores y las tazas inferiores. Porque así como la flor sería una imposibilidad si no existiera el suelo mineral en el cual pudiera crecer la planta, así también la raza blanca con sus cuerpos y sistema nervioso sensibilísimos, como los occidentales sería una imposibilidad si como espíritus no hubiéramos obtenido experiencia pasando por los cuerpos de las razas inferiores. La deuda que tenemos con los que han tomado nuestras sobras debe cancelarse, y esto se realiza satisfactoriamente proveyendo los eslabones intermediarios que como un puente cubren la distancia de una a otra raza. En el caso de los negros del sur hay otras razones: el destino nacional en que incurrimos debido a la importación obligada y consiguiente esclavitud de la raza negra. 
 
-### PREGUNTA Nº 26
+### <h3 id="question-26">PREGUNTA Nº 26</h3>
 
 ¿Por qué se dice comúnmente que el negro lleva la maldición de Caín? Si es descendiente de Caín, de acuerdo con la etnología bíblica ¿cómo puede ser esa raza más antigua que los hijos de Sem o Jafet? La raza judía ¿no es la más intelectual, triunfadora y duradera según los recuerdos históricos, la única que se ha mantenido siempre libre de toda mezcla? 
 
-Respuesta: La Biblia no indica en parte alguna que los negros sean descendientes de Caín; además es bueno saber que la etnología bíblica tal como la entienden corrientemente es una imposibilidad en vista de los descubrimientos geológicos y etnográficos. Ya hemos pasado aquellos tiempos en los que cualquiera podía hacer afirmaciones aventuradas, tales como la que hizo el decano de la Universidad de Cambridge, hace menos de un siglo: “que el mundo fue creado el viernes 10 de octubre del año 4004 a.C. a las nueve de la mañana." 
-
-La etnología bíblica ha fijado exactamente por ejemplo la fecha del diluvio y otros sucesos similares, pero desde el punto de vista Oculto que deriva de una lectura directa de la memoria de la Naturaleza, el caso es muy diferente. Encontramos allí que ha habido varias épocas o grandes estados de desarrollo en la historia de la Tierra, y que los negros fueron la humanidad de la tercera de esas épocas., la Lemúrica. Toda la raza humana de aquel entonces era de piel negra. Más tarde vino la Época Atlante, en la que la humanidad fue roja, y amarilla excepto una sola raza que fue blanca. Ese pueblo eran los Semitas originales, la quinta de las razas atlantes. A esos atlantes se les llamaba Nibelungos, o hijos de la neblina, en las antiguas leyendas, porque entonces la atmósfera de la Tierra era una niebla muy densa. En la última mitad de la Época Atlante esa atmósfera se condensó, resultando grandes inundaciones hasta que gradualmente el mar cubrió la mayor parte del globo. Entonces la atmósfera se aclaró sobre la tierra. Este punto de la evolución lo describe la Biblia en la historia de Noé, el guía de los Semitas, que saliendo de la sumergida Atlántida vió por vez primera la lluvia, fenómeno imposible en la nebulosa atmósfera de la primitiva Atlántida. También oímos hablar de esas emigraciones en la historia de Moisés y de los israelitas que salieron de Egipto mientras que el rey egipcio y sus hombres se ahogaron en las aguas del Mar Rojo. Ese pueblo había sido elegido para ser los progenitores de nuestras actuales razas arias, pero no todos ellos fueron fieles a las órdenes de su guía. Hubo algunos de entre ellos que se fueron en busca de carne extraña," y ese era el mayor de los crímenes posibles en aquel tiempo, porque cuando un guía está tratando de desarrollar nuevas facultades en una nueva raza, la mezcla de sangre extraña tiende a frustrar sus planes. Por lo tanto, algunos de los del pueblo elegido se perdieron, es decir, fueron abandonados por sus guías y no se convirtieron en los progenitores de la nueva humanidad. 
+Respuesta: La Biblia no indica en parte alguna que los negros sean descendientes de Caín; además es bueno saber que la etnología bíblica tal como la entienden corrientemente es una imposibilidad en vista de los descubrimientos geológicos y etnográficos. Ya hemos pasado aquellos tiempos en los que cualquiera podía hacer afirmaciones aventuradas, tales como la que hizo el decano de la Universidad de Cambridge, hace menos de un siglo: “que el mundo fue creado el viernes 10 de octubre del año 4004 a.C. a las nueve de la mañana." La etnología bíblica ha fijado exactamente por ejemplo la fecha del diluvio y otros sucesos similares, pero desde el punto de vista Oculto que deriva de una lectura directa de la memoria de la Naturaleza, el caso es muy diferente. Encontramos allí que ha habido varias épocas o grandes estados de desarrollo en la historia de la Tierra, y que los negros fueron la humanidad de la tercera de esas épocas., la Lemúrica. Toda la raza humana de aquel entonces era de piel negra. Más tarde vino la Época Atlante, en la que la humanidad fue roja, y amarilla excepto una sola raza que fue blanca. Ese pueblo eran los Semitas originales, la quinta de las razas atlantes. A esos atlantes se les llamaba Nibelungos, o hijos de la neblina, en las antiguas leyendas, porque entonces la atmósfera de la Tierra era una niebla muy densa. En la última mitad de la Época Atlante esa atmósfera se condensó, resultando grandes inundaciones hasta que gradualmente el mar cubrió la mayor parte del globo. Entonces la atmósfera se aclaró sobre la tierra. Este punto de la evolución lo describe la Biblia en la historia de Noé, el guía de los Semitas, que saliendo de la sumergida Atlántida vió por vez primera la lluvia, fenómeno imposible en la nebulosa atmósfera de la primitiva Atlántida. También oímos hablar de esas emigraciones en la historia de Moisés y de los israelitas que salieron de Egipto mientras que el rey egipcio y sus hombres se ahogaron en las aguas del Mar Rojo. Ese pueblo había sido elegido para ser los progenitores de nuestras actuales razas arias, pero no todos ellos fueron fieles a las órdenes de su guía. Hubo algunos de entre ellos que se fueron en busca de carne extraña," y ese era el mayor de los crímenes posibles en aquel tiempo, porque cuando un guía está tratando de desarrollar nuevas facultades en una nueva raza, la mezcla de sangre extraña tiende a frustrar sus planes. Por lo tanto, algunos de los del pueblo elegido se perdieron, es decir, fueron abandonados por sus guías y no se convirtieron en los progenitores de la nueva humanidad. 
 
 Los que así se perdieron o se rezagaron, por extraño que parezca son los actuales Judíos, que se casaron con las familias de sus hermanos atlantes en un tiempo, contrariamente a las órdenes de su guía divino, y sin embargo hoy en día se siguen creyendo el pueblo elegido de su Dios. No hay duda alguna de que los primitivos judíos recordaron su pecado de haberse casado fuera de sus tribus. Y en esa forma inculcaron en sus descendientes una fuerte repugnancia por mezclarse con otras tribus y desde entonces esos rebeldes se han mantenido fieles y no se han casado con los gentiles. 
 
@@ -532,7 +531,7 @@ En cuanto a si son intelectuales de raza, podemos decir: ¡No! En la Época Pola
 
 Los Guías dé la humanidad han estado tratando de conseguir que ese pueblo se mezcle con las otras razas para libertarlos de su actual condición. Su Biblia nos dice como se han visto desterrados una y otra vez sin resultado: se han quedado siempre como pueblo aparte Cristo fue enviado hacia ellos como si fuera uno de los suyos con objeto de ver si la palabra de uno de ellos podría libertarlos, pero "eligieron a Barrabás." Esa fue la última tentativa; entonces se vio que era imposible salvarlos en cuerpo. Después fueron esparcidos por todo el mundo, un pueblo sin país, para inducirlos a amalgamarse en esa forma, pero tal es su terquedad que aún permanecen separados. Aquí en América, sin embargo, en el ”Gran Crisol de Fusión" están comenzando lentamente a amalgamarse. Se perdieron por casarse fuera de su tribu con una raza inferior, pero a su Tiempo se salvarán casándose con razas más y más avanzadas, aquí, sobre el continente Americano. 
 
-### PREGUNTA Nº 27
+### <h3 id="question-27">PREGUNTA Nº 27</h3>
 
 La Filosofía Rosacruz, ¿tiene una enseñanza especifica sobre la educación de los hijos? 
 
@@ -554,25 +553,29 @@ Respecto a sus vestidos debemos decir que en ese tiempo debiera ignorar completa
 
 Hay que tener también muy en cuenta los castigos; ese es un factor importantísimo en todo tiempo para despertar la naturaleza sexual y hay que abolirlos completamente. No hay niño alguno que no responda al método de recompensarlo cada vez que haga algo bueno y el quitarle privilegios por las desobediencias. Además debemos reconocer el hecho de que el látigo agria el carácter del perro, y que muchas veces nos quejamos de las personas faltas de voluntad. Mucho de ello se debe a los castigos corporales de que se hace objeto a los niños sin la menor compasión. Que cada padre se mire a sí mismo desde el punto de vista de su hijo. ¿Cómo consideraríamos cualquiera de nosotros a uno a cuya autoridad no pudiéramos escapar, que fuera mucho más grande que nosotros y que tuviéramos que someternos a sus golpes todos los días? Déjese el látigo a un lado y muchos males sociales desaparecerán en una sola generación. 
 
-Cuando el cuerpo vital nace a los siete años, deben educarse las facultades de la percepción y de la memoria. La palabra de orden para este período debe ser autoridad y discipulado. No debemos en manera alguna, cuando tengamos un niño precoz, tratar de hacerle emprender un curso de estudios que requiere enorme gasto mental. Los niños prodigios se han convertido generalmente en hombres de mentalidad menos que ordinaria. Debe permitírsele que siga sus propias inclinaciones en este respecto. Hay que cultivar sus facultades de observación mostrándole ejemplos vivientes, Hágasele ver el borracho y el vicio que lo arrastra, mostrándole también al hombre bueno y poniéndole ante si elevados ideales. Enseñadle a tomar todo cuanto le digáis como viniendo autorizado y trata de que os respete como autoridad paternal y como maestros. En este tiempo débesele preparar para dominar la fuerza que está comenzando a despertarse en él, fuerza que le permitirá propagar su especie al finalizar el segundo periodo de siete años. Mas no debe permitirse que obtenga el conocimiento de fuentes impuras, debido a que los padres por un falso sentimiento de honestidad no quieran tomar la responsabilidad de dárselo ellos mismos. Puede tomarse una flor como objeto de la lección, mediante la cual todos los niños, desde el más chico hasta el más grande, pueden adquirir la más hermosa instrucción en la forma de una fábula o cuento de hadas, Esto se les puede enseñar sin necesidad de emplear términos botánicos, y por poco que los padres conozcan lo más elemental de dicha ciencia. Muéstrensele a los niños varias flores. Dígaseles: "aquí hay una familia de flores en la que todos son muchachos (una flor de estambres) y aquí hay otra en la que todas son muchachas (una flor de pistilos). He aquí otra en la que hay de todo, jóvenes y doncellas (una flor que tenga a la vez pistilos y estambres) - Muéstrenseles el polen y dígaseles que cada granito es un joven-flor como los de las familias humanas; son aventureros y quieren irse al mundo para luchar la batalla de la vida, mientras que las doncellas (los pistilos) se quedan en casa. Muéstreseles una abeja con las cestitas para polen en sus patitas, y cuénteseles que los jóvenes-flores se montan en ese alado dragón (la abeja), como los antiguos caballeros, y van por el mundo en busca de la princesa encerrada en el castillo mágico (el óvulo oculto en el pistilo); como el polvito de polen, el caballero-flor, fuerza su camino por el pistilo y entra en el óvulo; entonces decidles como se casan el caballero y la princesa viviendo después muy felices y siendo a su vez padres de una gran familia de flores. Cuando hayan comprendido bien esto, comprenderán también la generación en los reinas animal y humano, porque no hay diferencia alguna: lo uno es tan puro y casto como lo otro. Y los niños educados así tendrán siempre un sentimiento de reverencia por la función creadora, un sentimiento tal que no se les podría inculcar mejor en otra forma. 
+Cuando el cuerpo vital nace a los siete años, deben educarse las facultades de la percepción y de la memoria. La palabra de orden para este período debe ser autoridad y discipulado. No debemos en manera alguna, cuando tengamos un niño precoz, tratar de hacerle emprender un curso de estudios que requiere enorme gasto mental. Los niños prodigios se han convertido generalmente en hombres de mentalidad menos que ordinaria. Debe permitírsele que siga sus propias inclinaciones en este respecto. Hay que cultivar sus facultades de observación mostrándole ejemplos vivientes, Hágasele ver el borracho y el vicio que lo arrastra, mostrándole también al hombre bueno y poniéndole ante si elevados ideales. Enseñadle a tomar todo cuanto le digáis como viniendo autorizado y trata de que os respete como autoridad paternal y como maestros. En este tiempo débesele preparar para dominar la fuerza que está comenzando a despertarse en él, fuerza que le permitirá propagar su especie al finalizar el segundo periodo de siete años. Mas no debe permitirse que obtenga el conocimiento de fuentes impuras, debido a que los padres por un falso sentimiento de honestidad no quieran tomar la responsabilidad de dárselo ellos mismos. 
+
+Puede tomarse una flor como objeto de la lección, mediante la cual todos los niños, desde el más chico hasta el más grande, pueden adquirir la más hermosa instrucción en la forma de una fábula o cuento de hadas, Esto se les puede enseñar sin necesidad de emplear términos botánicos, y por poco que los padres conozcan lo más elemental de dicha ciencia. Muéstrensele a los niños varias flores. Dígaseles: "aquí hay una familia de flores en la que todos son muchachos (una flor de estambres) y aquí hay otra en la que todas son muchachas (una flor de pistilos). He aquí otra en la que hay de todo, jóvenes y doncellas (una flor que tenga a la vez pistilos y estambres) - Muéstrenseles el polen y dígaseles que cada granito es un joven-flor como los de las familias humanas; son aventureros y quieren irse al mundo para luchar la batalla de la vida, mientras que las doncellas (los pistilos) se quedan en casa. Muéstreseles una abeja con las cestitas para polen en sus patitas, y cuénteseles que los jóvenes-flores se montan en ese alado dragón (la abeja), como los antiguos caballeros, y van por el mundo en busca de la princesa encerrada en el castillo mágico (el óvulo oculto en el pistilo); como el polvito de polen, el caballero-flor, fuerza su camino por el pistilo y entra en el óvulo; entonces decidles como se casan el caballero y la princesa viviendo después muy felices y siendo a su vez padres de una gran familia de flores. Cuando hayan comprendido bien esto, comprenderán también la generación en los reinas animal y humano, porque no hay diferencia alguna: lo uno es tan puro y casto como lo otro. Y los niños educados así tendrán siempre un sentimiento de reverencia por la función creadora, un sentimiento tal que no se les podría inculcar mejor en otra forma. 
 
 Una vez equipado el niño así está ya bastante fortificado para el nacimiento del cuerpo de deseos en la época de la pubertad. Cuando los deseos y las emociones están completamente desenfrenadas entra en el más peligroso período de su vida, el tiempo de la adolescencia que dura desde los catorce hasta los veintiún años, porque en ese momento el cuerpo de deseos predomina, puesto que todavía no ha nacido la mente para actuar de freno. En ese tiempo es sumamente conveniente para el niño que ha sido educado coma aquí se acaba de bosquejar, que sus padres sean para él un áncora de fortaleza y de ayuda para mantenerlo a flote hasta que llegue el tiempo en que nazca completamente, a los veintiún años cuando la mente nace. 
 
-### PREGUNTA Nº 28
+### <h3 id="question-28">PREGUNTA Nº 28</h3>
 
 ¿Por qué nacen niños en una familia donde no se los acogerá bien? 
 
 Respuesta: El hacer esa pregunta demuestra que la sociedad se encuentra en un estado muy triste, y así es, desgraciadamente. El objeto principal del matrimonio es la perpetuación de la raza, y los que no desean ser padres no tienen el derecho de casarse. El derecho de todo hijo es el nacer bien y ser bien acogido. Pero si bien somos sumamente cuidadosos en el cruce de nuestros animales, para que sus crías honren nuestros studs y haciendas, no nos preocupamos para nada de la preparación física, mental y moral del que va a convertirse en padre o madre de un niño. En realidad, se considera generalmente poco delicado y hasta indecente el pensar en los hijos absolutamente y cuando estos vienen a pesar de todos los preventivos, los padres los acogen a menudo con fastidio. Pero la ley de Causa y Efecto no admite violaciones. Los molinos de Dios muelen lentamente pero con la mayor seguridad de moler bien, y aunque los siglos pasen, llegará un tiempo en el que uno que no fue buen padre buscará encarnarse, y entonces nacerá su vez en una familia donde no será bien acogido. O quizás el mal padre de una vida será estéril en la otra. El autor conoce casos en los que un matrimonio ha tenido numerosos hijos a quienes deseaba y amaba apasionadamente, pero murieron todos en la infancia, unos después de otros, con gran dolor de sus padres. 
 
-### PREGUNTA Nº 29
+### <h3 id="question-29">PREGUNTA Nº 29</h3>
 
 Cuando no se tienen hijos a pesar de desearlos ardientemente, ¿hay algún medio para inducir a un alma que se encuentre en el mundo invisible a aceptar esta invitación para reencarnarse? Siendo las condiciones del hogar sumamente favorables ¿no parece lógico que entre todas las almas que esperan renacer haya una que encuentre buenas esas condiciones? 
 
-Respuesta: Esa es indudablemente una de las condiciones en las que los que ahora desean ser padres han en una vida anterior descuidado sus oportunidades, o quizás han tomado precauciones para no tener hijos. O si no fuera este el caso, puede ser que en algún día vean satisfechos sus deseos. El autor ha observado un caso en el que un espíritu que deseaba renacer seguía a la madre, y se lo dijo por alguien que había conocido a la madre, que dicho Ego la había estado siguiendo desde antes de su matrimonio. El matrimonio quedó estéril, sin embargo, pero últimamente se divorció. Es bien claro que aunque ese Ego deseaba evidentemente encarnarse por medio de la madre, rehusaba al padre. Muchas veces se oye hablar de matrimonios estériles, y que cuando el contrato matrimonial se rescinde por el divorcio y los cónyuges vuelven a casarse, son ambos padre y madre después, demostrando esto que desde el punto de vista físico no había ningún obstáculo a la paternidad, y que solo era el Ego en vías de renacer el que faltaba. Puede verse pues que a menos que haya un Ego que desee encarnarse en un matrimonio, los esfuerzos de éste serán estériles. Desde el punto de vista ordinario eso no debería ser así pues como los constituyentes químicos del semen y del óvulo son siempre los mismos, no habría razón alguna para que la unión de los sexos fuera estéril unas veces y fructífera otras si solo hubiera esos factores. Sabemos que si mezclamos hidrógeno y oxígeno en la debida proporción siempre obtenemos agua; sabemos que el agua caerá siempre hacia abajo y que todas las leyes de la Naturaleza son invariables, así que salvo que hubiera otro factor además de la mezcla química del semen y del óvulo, siempre ésta daría fruto. Y ese factor invisible y desconocido es el Ego en vías de renacer que solo va a donde le place y sin él no hay fruto. 
+Respuesta: Esa es indudablemente una de las condiciones en las que los que ahora desean ser padres han en una vida anterior descuidado sus oportunidades, o quizás han tomado precauciones para no tener hijos. O si no fuera este el caso, puede ser que en algún día vean satisfechos sus deseos. El autor ha observado un caso en el que un espíritu que deseaba renacer seguía a la madre, y se lo dijo por alguien que había conocido a la madre, que dicho Ego la había estado siguiendo desde antes de su matrimonio. El matrimonio quedó estéril, sin embargo, pero últimamente se divorció. Es bien claro que aunque ese Ego deseaba evidentemente encarnarse por medio de la madre, rehusaba al padre. Muchas veces se oye hablar de matrimonios estériles, y que cuando el contrato matrimonial se rescinde por el divorcio y los cónyuges vuelven a casarse, son ambos padre y madre después, demostrando esto que desde el punto de vista físico no había ningún obstáculo a la paternidad, y que solo era el Ego en vías de renacer el que faltaba. Puede verse pues que a menos que haya un Ego que desee encarnarse en un matrimonio, los esfuerzos de éste serán estériles. 
+
+Desde el punto de vista ordinario eso no debería ser así pues como los constituyentes químicos del semen y del óvulo son siempre los mismos, no habría razón alguna para que la unión de los sexos fuera estéril unas veces y fructífera otras si solo hubiera esos factores. Sabemos que si mezclamos hidrógeno y oxígeno en la debida proporción siempre obtenemos agua; sabemos que el agua caerá siempre hacia abajo y que todas las leyes de la Naturaleza son invariables, así que salvo que hubiera otro factor además de la mezcla química del semen y del óvulo, siempre ésta daría fruto. Y ese factor invisible y desconocido es el Ego en vías de renacer que solo va a donde le place y sin él no hay fruto. 
 
 Si el preguntante se lo pidiera ardientemente al ángel Gabriel que es el embajador del Regente de la Luna en la Tierra, y por consiguiente un factor primordial en la generación de los cuerpos (véase la Biblia), seria quizás posible obtener el resultado deseado. El mejor momento para hacerlo es el lunes al salir el Sol, y desde la Luna nueva hasta la Luna llena. 
 
-### PREGUNTA Nº 30
+### <h3 id="question-30">PREGUNTA Nº 30</h3>
 
 ¿Cómo explicáis el hecho de que un niño herede a menudo las malas características de sus padres? 
 
@@ -580,7 +583,7 @@ Respuesta: Lo explicaremos contestando que no es un hecho. Desgraciadamente, la 
 
 El hombre, el pensador, viene aquí equipado con una naturaleza mental y moral, completamente suya, tomando de sus padres solamente el material para su cuerpo físico. Somos atraídos hacia ciertas personas por la ley de Causación y por la ley de asociación. La misma ley que hace que los músicos busquen su compañía en los conciertos y que los sportmen se busquen en las carreras, etc., hace que las personas de tendencias, características y gustos semejantes nazcan en la misma familia. Así que cuando oímos decir a una persona, "sí, ya sé que soy un perezoso, pero mi familia no ha estado nunca acostumbrada al trabajo; hemos tenido siempre sirvientes," demuestra solamente que la similaridad de gustos, nada más, es suficiente para explicarlo. Cuando otra persona dice, "¡oh! sí, ya sé que soy extravagante, pero no puedo remediarlo; eso me viene de familia," es otra vez la ley de asociación, y cuanto más pronto reconozcamos que en vez de inculpar a la herencia de nuestros malos hábitos, deberíamos tratar de conquistarlos cultivando en cambio la virtud, tanto mejor para nosotros mismos. No admitiríamos como excusa que el borracho nos dijera: "no, no puedo dejar de beber, todos mis compañeros beben." Lo que haríamos sería aconsejarle que los abandonara en seguida y que afirmara su propia individualidad, y nosotros aconsejaríamos a todos que dejaran de inculpar a sus antecesores por sus malos hábitos. 
 
-### PREGUNTA Nº 31
+### <h3 id="question-31">PREGUNTA Nº 31</h3>
 
 ¿No hereda el niño su sangre y sistema nervioso de sus padres? Y si es así, ¿no heredará también enfermedades y perturbaciones nerviosas? 
 
@@ -590,7 +593,7 @@ Durante los primeros años el Ego a quien pertenece el cuerpo infantil no está 
 
 Como que la sangre durante toda la infancia así como el cuerpo ha sido heredado de los padres, las tendencias a la enfermedad se heredan también, no la enfermedad en sí misma, sino la tendencia. Después de los catorce años, cuando el Ego interno ha comenzado a crearse su propia sangre, depende mucho de él mismo el que esas tendencias se manifiesten O no en su vida. 
 
-### PREGUNTA Nº 32
+### <h3 id="question-32">PREGUNTA Nº 32</h3>
 
 ¿Puede una persona ser influenciada en el sueño natural como durante el sueño hipnótico, o hay una diferencia? 
 
@@ -598,7 +601,7 @@ Respuesta: Sí, hay una diferencia. En el sueño natural, el Ego, envuelto en la
 
 Es posible entonces influenciar a la persona inculcando en su cerebro los pensamientos o ideas que queremos comunicarle. Sin embargo, no se puede conseguir que haga algo o que entretenga cualquier idea que no esté de acuerdo con sus propias tendencias habituales. Es imposible ordenarle que haga algo u obligarlo a la obediencia y lo mismo sucede cuando el Ego ha sido arrojado por los pases del hipnotizador, porque es el cerebro el que mueve los músculos, y durante el sueño natural su cerebro está interpenetrado por su propio cuerpo vital y tiene perfecto control de sí mismo, mientras que durante el sueño hipnótico los pases del hipnotizador arrojan fuera del cerebro el éter de la cabeza, el que queda entonces sobre los hombros de la víctima como un collar. Entonces el cerebro denso está abierto al éter del cuerpo vital del hipnotizador, quien toma el lugar del propio de la víctima. De suerte que en el sueño hipnótico la víctima no puede escoger ni en cuanto a las ideas ni a los movimientos de su cuerpo, pero en el sueño ordinario es un agente completamente libre. En realidad, este método de sugestión durante el sueño es sumamente importante para las madres para tratar a sus hijos refractarios, porque si la madre se sienta al lado de la cama del niño dormido y tomando su mano le habla como le hablaría si estuviera despierto, inculcando en su cerebro ideas de tal naturaleza como las que ella desearía que tuviera su hijo, verá que al despertarse el niño, muchas de esas ideas echarán raíces. También sirve para tratar a una persona enferma o adicta a la bebida, si la madre u otro miembro de la familia emplea ese método, y se verá que es posible inculcar esperanza o ayudar a dominarse a si mismo, respectivamente. Esto puede por supuesto emplearse para el mal, pero no lo mantenemos en secreto porque creemos que el bien que puede hacerse en esa forma sobrepasará en mucho a lo perjudicial que una persona malvada pueda ocasionar. 
 
-### PREGUNTA Nº 33
+### <h3 id="question-33">PREGUNTA Nº 33</h3>
 
 ¿Qué son los sueños? ¿Tienen todos ellos un significado? ¿cómo se puede inducir sueños? 
 
@@ -608,7 +611,7 @@ Sin embargo, sucede algunas veces que cuando el Ego está completamente fuera de
 
 Respecto a la segunda parte de la pregunta, ¿cómo pueden inducirse sueños? podemos decir que, por supuesto, no hay ventaja alguna en inducir sueños fantásticos o confusos, y en cuanto a los de la otra clase viene un tiempo en la vida del hombre en la que éste empieza a vivir la vida superior. Entonces, gradualmente, mediante ciertos ejercicios desarrolla la facultad de dejar su cuerpo conscientemente por la noche o en cualquier otro momento. Entonces está perfectamente consciente en los mundos invisibles. Puede ir si le place hasta los confines de la Tierra en pocos minutos y como ha aprendido a trabajar conscientemente en esos mundos invisibles, ya no sueña más, sino que vive otra vida que es más amplia y más real que la que ahora vive. 
 
-### PREGUNTA Nº 34
+### <h3 id="question-34">PREGUNTA Nº 34</h3>
 
 ¿Qué es el sueño y qué es lo que hace que el cuerpo se duerma? 
 
@@ -624,7 +627,7 @@ El sueño no es un estado inactivo, sin embargo; si lo fuera no habría diferenc
 
 Cuando un edificio se ha deteriorado debido al uso constante, es necesario renovarlo y restaurarlo, y los inquilinos tienen que irse para que los obreros puedan trabajar bien. Por análogas razones el Ego se va de su casa todas las noches. Así como los obreros trabajan en el edificio para ponerlo en condiciones de ser ocupado nuevamente, así también el Ego debe trabajar en su casa para que le permita ocuparla de nuevo. Ese trabajo es el que realizamos durante la noche, si bien no estamos conscientes de ello en el estado de vigilia. Esa actividad es la que remueve las toxinas del sistema, siendo su resultado que el cuerpo está fresco y vigoroso cuando el Ego entra nuevamente en él por la mañana. 
 
-### PREGUNTA Nº 35
+### <h3 id="question-35">PREGUNTA Nº 35</h3>
 
 ¿Creen los Rosacruces en la medicina o siguen el método de curación de Cristo? 
 
@@ -642,7 +645,7 @@ El escepticismo destruyó hasta Su poder, y esto es quizás más evidente en el 
 
 La mente abierta es un requisito esencial para toda investigación y el escepticismo es absolutamente fatal para la adquisición del conocimiento. Como ilustración podemos mencionar el caso, cuando el autor se encontraba en Columbus, hace algunos años, y fue a oír una conferencia del Profesor Hyslop, secretario de la Society for Psichological Research. El tema de la conferencia era "nuevas evidencias de una vida futura." El autor quedó asombrado de que en la conferencia no se mencionara ni un solo punto que no hubiera sido ya dilucidado en los últimos veinte años en los anales de la sociedad citada, a la que aquél pertenecía. Pero la solución la tuvo después de la conferencia, cuando al hacerle alguien una pregunta al Profesor Hyslop sobre si creía en los anales de la sociedad contestó: Yo no creo en los resultados obtenidos por los demás sino en los míos propios. Todas las evidencias que había presentado habían sido hechas por él mismo; por consiguiente, solo eran nuevas para él pero esperaba que su auditorio confiara en su palabra, aunque él mismo no había confiado absolutamente en las ajenas, y como ilustración de como obra el escepticismo, dio inconscientemente un lindo ejemplo, cuando relató que habiendo ido un día a ver un médium, un amigo muerto, Richard Hodgson, le habló por intermedio de aquél y el profesor Hyslop comenzó a hacerle preguntas que, si bien eran muy sencillas, le costaba a Hodgson mucho trabajo contestar. El profesor Hyslop le dijo al fin impacientemente: "¿Cómo es que tú, Ricardo, cuando estabas vivo contestabas con bastante prontitud y que ahora apenas puedes contestar?" Entonces, dice el profesor Hyslop, su respuesta vino como un relámpago: "Oh, cada vez que entro en tu atmósfera, en tu aura, me siento hecho pedazos." El profesor Hyslop no podía comprender por qué, pero cualquiera que haya visto a un alumno ante la mesa de exámenes, comprenderá fácilmente que la crítica escéptica del profesor Hyslop ponía a Ricardo Hodgson en grandes dificultades para poder contestar. Podemos decir por consiguiente que creemos en la medicina cuando se emplea juntamente con la astrología y también en el método de curar de Cristo, que es una cura por la fe, así como en el poder de la sugestión y en los demás sistemas curativos. Todos ellos contienen alguna verdad, si bien algunos son fanáticos y se llevan hasta el extremo. Entonces pierden su poder para el bien y se convierten realmente en una amenaza para los que de otra manera hubieran salido beneficiados. 
 
-### PREGUNTA Nº 36
+### <h3 id="question-36">PREGUNTA Nº 36</h3>
 
 Desde que el sufrimiento es el resultado de nuestras propias acciones, ¿no creéis erróneo el tomar medicinas para quitarse un dolor, o cuando uno está enfermo o agonizante? 
 
@@ -650,25 +653,27 @@ Respuesta: Esa pregunta revela una actitud mental deplorable en extremo; es lo m
 
 Una pregunta como la que nos ocupa revela además una idea errónea sobre la ley de causa y efecto. Nuestro deber es tratar de elevarnos sobre todas las condiciones, en vez de permitir que las circunstancias dirijan nuestras vidas. Hay un pequeño pero hermoso poema que enuncia claramente esta idea: 
 
+```
 "Un barco va hacia el este y el otro hacia el Oeste  
 Soplando para ambos los mismos vientos;  
 Es el gobernalle del marino y no el viento  
 El que determina el camino que se debe seguir.  
+
 "Los vientos del mar son como los planes del Destino  
 Mientras viajamos a través de la vida.  
 Son los actos del alma los que determinan el rumbo  
 Y no la calma o la tempestad."  
-- Ella Wheeler Wilcox  
+```
 
 Si tratamos de poner el timón de nuestra barca en la posición debida, siempre podremos modificar y hasta cambiar completamente las condiciones, y hacer de nuestra vida lo que queramos, en vez de esperar tontamente que pasen las nubes, nubes que hemos creado nosotros mismos. El mismo hecho de que hayamos sido nosotros los que las hicieron debe ser una buena razón para animarnos a deshacerlas o a hacer que se marchen cuanto antes. 
 
-### PREGUNTA Nº 37
+### <h3 id="question-37">PREGUNTA Nº 37</h3>
 
 ¿Qué forma de curar aconsejáis, la del medico o la de un práctico en Ciencia Cristiana? 
 
 Respuesta: Eso depende de la naturaleza de la enfermedad y del temperamento del paciente. Si se trata de una pierna rota, un cirujano es evidentemente el llamado a intervenir. Si se produce un desorden interno y es posible conseguir un médico de amplia visión, en ciertos casos es el único llamado a intervenir. Si por otra parte, puede conseguirse un curador mental, o uno de la Ciencia Cristiana, o cualquier otro de mente espiritual, éste podrá ayudar al enfermo que tenga una fe intensa, porque así como un diapasón de cierto temple contestará siempre a la vibración de otro diapasón del mismo temple, así también la persona llena de fe responderá a los curadores nombrados en último término. Pero cuando el paciente carece de fe en sus métodos, es mucho mejor buscar un médico oficial en el que tenga confianza el paciente, porque la salud o la enfermedad depende casi por completo del estado de la mente, y cuando una persona está enferma se hace hipersensitiva, y no hay que contrariarla en sus preferencias. Además, cualquiera que sea el bien que haya en un sistema curativo, los efectos sobre el paciente serán benéficos o maléficos en proporción exacta a la fe que el enfermo tenga en el poder curativo del sistema. 
 
-### PREGUNTA Nº 38
+### <h3 id="question-38">PREGUNTA Nº 38</h3>
 
 ¿Cuál es su opinión sobre el ayuno como medio de curar las enfermedades? 
 
@@ -676,7 +681,7 @@ Respuesta: Podemos comprobar fácilmente que en el occidente hay más personas q
 
 Si estudiamos la química del alimento encontraremos que ciertos alimentos tienen propiedades de valor para el sistema bajo ciertas condiciones, y el alimento tomado convenientemente es realmente una medicina. Todos los frutos cítricos son, por ejemplo, espléndidos antisépticos; limpian y purifican el canal digestivo. Así que previenen la enfermedad. Todos los cereales, especialmente el arroz, son antitóxicos, y curarán la enfermedad matando a los gérmenes de la putrefacción. Conociendo esas propiedades medicinales de los diversos alimentos, podemos fácilmente tomar lo que nos haga falta para curarnos de nuestros alimentos ordinarios, sin tener necesidad de ayunar. 
 
-### PREGUNTA Nº 39
+### <h3 id="question-39">PREGUNTA Nº 39</h3>
 
 ¿Consideráis erróneo el tratar de curar un mal hábito, como por ejemplo, la bebida, mediante el hipnotismo? 
 
@@ -686,7 +691,7 @@ Pero considerado el asunto desde el punto de vista más profundo del ocultismo, 
 
 Así que la víctima de un hipnotizador no se sobrepone a su propio mal hábito por su sola fuerza, sino que está aún más encadenada que si estuviera presa en una habitación solitaria, y aunque en su vida pueda parecer que es un buen ciudadano, cuando vuelva a la tierra de nuevo tendrá la misma debilidad y tendrá que luchar con ella hasta que llegue a dominarla por sí misma. 
 
-### PREGUNTA Nº 40
+### <h3 id="question-40">PREGUNTA Nº 40</h3>
 
 ¿Hay algún medio para eliminar las materias calcáreas que entran en nuestros cuerpos debido al mal sistema de alimentación? 
 
@@ -694,11 +699,9 @@ Respuesta: La pregunta demuestra que el preguntante sabe que nuestros cuerpos se
 
 Desde el punto de vista oculto, por supuesto, no importa que vivamos o muramos, según se dice, porque la muerte no significa aniquilamiento sino solamente el paso de la conciencia a otras esferas. Sin embargo, cuando hemos llevado un vehículo más allá de los inútiles años de la infancia y pasado los años ardientes de la juventud, y llegado ya el tiempo de la discreción en el que comenzamos realmente a adquirir experiencia, cuanto más podamos prolongar ese tiempo de experiencia tanto más obtendremos. Por esa razón es de cierto valor el prolongar la vida del cuerpo. 
 
-Con objeto de arribar a ese resultado es necesario primeramente que elijamos alimentos que estén poco impregnados de sustancias calcáreas que son las que producen el endurecimiento de las arterias y de los capilares. Esos alimentos son las verduras y las frutas. Además es muy importante el tratar de eliminar las materias calcáreas ya absorbidas si es posible, pero la ciencia no ha encontrado aún ningún alimento o medicina que produzca ese efecto. Se ha visto que los baños eléctricos son muy beneficiosos pero no satisfactorios del todo. 
+Con objeto de arribar a ese resultado es necesario primeramente que elijamos alimentos que estén poco impregnados de sustancias calcáreas que son las que producen el endurecimiento de las arterias y de los capilares. Esos alimentos son las verduras y las frutas. Además es muy importante el tratar de eliminar las materias calcáreas ya absorbidas si es posible, pero la ciencia no ha encontrado aún ningún alimento o medicina que produzca ese efecto. Se ha visto que los baños eléctricos son muy beneficiosos pero no satisfactorios del todo. El suero de leche es el mejor agente para eliminar esa sustancia, siendo un buen substituto el jugo de uvas. Si se toman continuamente en bastante cantidad, esas sustancias aminorarán considerablemente el endurecimiento arterial. 
 
-El suero de leche es el mejor agente para eliminar esa sustancia, siendo un buen substituto el jugo de uvas. Si se toman continuamente en bastante cantidad, esas sustancias aminorarán considerablemente el endurecimiento arterial. 
-
-### PREGUNTA Nº 41
+### <h3 id="question-41">PREGUNTA Nº 41</h3>
 
 ¿No es culpable la Naturaleza de las tan frecuentes deformaciones en los mundos vegetal y animal así como en el humano, y puede haber un todo perfecto y una sana inteligencia junto con una voluntad poderosa en un cuerpo enfermo o deforme? 
 
@@ -710,7 +713,7 @@ Todos ellos son seres evolucionantes como nosotros mismos y en el mismo hecho de
 
 En cuanto a la segunda parte de la pregunta, de si puede haber un conjunto perfecto y una sana inteligencia unida a una fuerte voluntad en un cuerpo enfermo o deforme, podemos decir que sí, indudablemente, pero como la expresión de esa inteligencia depende de la eficiencia de su instrumento, puede, naturalmente, encontrarse obstaculizada por la deformidad física, pues por experto que sea un obrero siempre depende en gran extensión del estado en que se encuentran sus herramientas. 
 
-### PREGUNTA Nº 42
+### <h3 id="question-42">PREGUNTA Nº 42</h3>
 
 ¿Qué efectos tiene la vacunación desde el punto de vista oculto? 
 
@@ -718,11 +721,11 @@ Respuesta: Los bacteriólogos han descubierto que muchas enfermedades son produc
 
 De esos hechos se dedujeron las siguientes conclusiones: 
 
-1) Si a una persona sana se le inoculan unos cuantos gérmenes de cierta enfermedad, contraerá esa enfermedad en forma suave. Entonces podrá desarrollar el serum salvador y hacerse así inmune contra dicha enfermedad en el futuro. 
+(1) Si a una persona sana se le inoculan unos cuantos gérmenes de cierta enfermedad, contraerá esa enfermedad en forma suave. Entonces podrá desarrollar el serum salvador y hacerse así inmune contra dicha enfermedad en el futuro. 
 
 Esa es la filosofía de la vacunación como medio de prevenir la enfermedad. 
 
-2) Cuando una persona ha contraído una enfermedad y es incapaz de fabricarse la suficiente cantidad de serum para destruir a los microorganismos invasores, su vida puede salvarse inoculándole el serum obtenido de otro que ya está inmune. 
+(2) Cuando una persona ha contraído una enfermedad y es incapaz de fabricarse la suficiente cantidad de serum para destruir a los microorganismos invasores, su vida puede salvarse inoculándole el serum obtenido de otro que ya está inmune. 
 
 Como no es nada fácil obtener esas antitoxinas o cultivos de seres humanos, esos cultivos de gérmenes y toxinas se obtienen de los animales, y mucho se ha escrito en pro y en contra del empleo de tales métodos para curar la enfermedad. Aquí nada tenemos que hacer con ello; el preguntante pide el punto de vista oculto, que va más profundamente que la pregunta emitida, según se ve desde el punto de vista material. Hay casos en los que la enfermedad se ha prevenido indudablemente con la vacunación y casos en los que se ha evitado la muerte mediante el empleo de la antitoxina; hay casos también en los que tanto la vacunación como los sueros han sido fatales, y eso está fuera de toda cuestión. Desde el punto de vista oculto, la vacunación y el empleo de las antitoxinas obtenidas según los medios corrientes en los institutos bacteriológicos es deplorable. Esos medios o métodos perjudican a pobres animales indefensos y envenenan al cuerpo humano, creándole dificultades al Ego en el uso de su instrumento. 
 
@@ -734,7 +737,7 @@ Esta emanación se ha denominado rayos N o fluido Ódico, habiéndose descubiert
 
 Por otro lado, si comemos sobriamente y elegimos los alimentos de más fácil digestión, la disminución de la corriente vital protectora será aminorada proporcionalmente y nuestra inmunidad contra las enfermedades será mucho más fuerte que si nos hubiéramos envenenado con las ponzoñas de la vacuna. 
 
-### PREGUNTA Nº 43
+### <h3 id="question-43">PREGUNTA Nº 43</h3>
 
 Si, según indicáis, el Ego subyace en la sangre, ¿no es peligrosa la transfusión de la sangre de una persona sana a una enferma? ¿Afecta eso en alguna forma al Ego? Y si es así, ¿cómo? 
 
@@ -752,7 +755,7 @@ Cuando la sangre circula a través de las arterias situadas en lo interior del c
 
 Actualmente estamos en el mismo principio de esta individualización sanguínea. Por consiguiente es posible actualmente transfundir la sangre de un ser humano a otro, pero el día está cerca en que será imposible hacerlo. La sangre de un blanco matará a los que sean inferiores, y la sangre de una persona desarrollada matará a la menos cultivada. El niño recibe actualmente su sangre de los padres, y se acumula en la glándula timo durante los años de la infancia. Pero el tiempo llegará en el que el Ego estará tan individualizado que le será imposible funcionar en una sangre no generada por él mismo. Entonces el actual modo de generación será sustituido por otro en el cual el Ego pueda crear su propio vehículo sin ayuda de sus padres. 
 
-### PREGUNTA Nº 44
+### <h3 id="question-44">PREGUNTA Nº 44</h3>
 
 ¿Cuáles son las causas de la locura? 
 
@@ -770,7 +773,7 @@ Entonces el Ego ve nuevamente las imágenes de la vida que está ante si, en la 
 
 Las discordias que algunas veces existen entre los padres es muchas veces lo que produce que el Ego se resista a entrar en ese ambiente. Por lo tanto nunca se imprimirá suficientemente sobre la mente de los padres en perspectiva la necesidad de que durante el período de gestación es de la mayor importancia que la madre esté contenta y tranquila, porque es muy duro para el Ego entrar en la matriz; su sensibilidad es muy aguda y toda discordia en el hogar en el que está entrando es por supuesto una nueva fuente de molestia, lo que puede producir el estado antes indicado. 
 
-### PREGUNTA Nº 45
+### <h3 id="question-45">PREGUNTA Nº 45</h3>
 
 Cuando muere un loco ¿sigue siendo loco en el Mundo del Deseo? 
 
@@ -778,9 +781,9 @@ Respuesta: Eso depende del sitio en que se haya producido la ruptura, porque la 
 
 Cuando la ruptura ocurre entre el cuerpo de deseos y la mente, el cuerpo de deseos, está, por supuesto, predominante, y muy a menudo ocasiona al Ego muchas molestias en su existencia en el Mundo del Deseo, porque el Ego, por supuesto, nunca está loco. Lo que parece locura es que el Ego no tiene dominio sobre sus vehículos; el caso peor de todos es cuando la mente ha sido afectada y entonces el Ego se encuentra atado a la personalidad durante largo tiempo hasta que esos vehículos se inutilizan. 
 
-## SECCIÓN II - Preguntas concernientes a LA VIDA DESPUÉS DE LA MUERTE
+<h2 id="section">SECCIÓN II - Preguntas concernientes a LA VIDA DESPUÉS DE LA MUERTE</h2>
 
-### PREGUNTA Nº 46
+### <h3 id="question-46">PREGUNTA Nº 46</h3>
 
 ¿De qué sirve el conocer los estados post-mortem y lo que ocurre en el mundo invisible y todas las demás cosas? ¿No es mejor preocuparse de un solo mundo a la vez? Bastantes molestias y preocupaciones tenemos en éste, ¿para qué preocuparse más? 
 
@@ -790,7 +793,7 @@ Lo antedicho ilustra convenientemente nuestra situación respecto a los mundos i
 
 Sabiendo lo que tenemos que realizar en el Segundo Cielo, podemos aplicarnos más inteligentemente aquí a nuestra obra, así como allí; obtendremos mayor conciencia en ese dominio familiarizándonos diariamente con él. Así que en diversos sentidos nos preparamos para convertimos en auxiliares invisibles, para vivir conscientemente durante todo el tiempo y acortar nuestra evolución en millones de años. 
 
-### PREGUNTA Nº 47
+### <h3 id="question-47">PREGUNTA Nº 47</h3>
 
 ¿Se limita la duración de la vida terrestre antes de nacer? 
 
@@ -798,13 +801,13 @@ Respuesta: Sí, cuando el Ego está en vías de renacer, forma el arquetipo crea
 
 La Ley de Causa y Efecto, sin embargo, es el árbitro de la forma en que deba vivirse la vida, y se ponen ciertas oportunidades de crecimiento espiritual ante el Ego en diversos puntos de su vida terrestre. Si se hace uso de esas oportunidades, la vida continuará por el angosto y recto sendero, pero si no, si las deja y se mete en un callejón sin salida, por decirlo así, entonces las jerarquías creadoras terminan con la vida destruyendo el arquetipo en el Mundo Celeste. De suerte que podemos decir que la longitud mayor de la vida queda determinada antes de que nazcamos físicamente, pero la vida puede acortarse si descuidamos ciertas oportunidades. Existe también la posibilidad en algunos casos, cuando la vida se ha vivido completamente, en toda su mayor amplitud, y en la que la persona ha tratado en todos los casos de vivir todas sus oportunidades, de que se infunda nueva vida en el arquetipo que se había hecho primeramente, y en esa forma puede prolongarse la vida, pero como dijimos, eso sucede solamente en casos excepcionales. 
 
-### PREGUNTA Nº 48
+### <h3 id="question-48">PREGUNTA Nº 48</h3>
 
 ¿Es posible disminuir el intervalo que transcurre entre la muerte y el nuevo nacimiento apresurando así la evolución? ¿Cómo? 
 
 Respuesta: Sí, es posible para todo aquel que se tome el trabajo de examinar su vida diariamente, en orden invertido, desde la noche hasta la mañana, juzgándose todos los actos que haya hecho, prometiéndose rectificar sus errores y hacer las cosas lo mejor que pueda. Al hacer esto, se borrarán los pecados que se hayan cometido y se transformará en poco tiempo en un hombre mucho mejor que lo que hubiera seguido siendo de no haber puesto en práctica ese ejercicio. De suerte que los pecados que en caso contrario hubieran tenido que limpiarse en el Purgatorio, ya se han borrado aquí, así que la existencia purgatorial será acortada materialmente. Cuando en el ejercicio vespertino el hombre examina el bien que ha hecho y se promete esforzarse para obrar mejor en el futuro, se está asimilando también lo bueno que haya hecho cada día, y esto aumentará enormemente el progreso anímico, así que también hará innecesaria la existencia en el Primer Cielo. Ese hombre estará entonces marchando definidamente por el sendero de la iniciación; está en realidad fuera de las leyes que gobiernan a la humanidad ordinaria, porque se ha convertido en un auxiliar de la evolución y por lo tanto se le presentará la oportunidad de volver a la tierra, debido a sus capacidades, mucho más pronto que lo haría en caso contrario. 
 
-### PREGUNTA Nº 49
+### <h3 id="question-49">PREGUNTA Nº 49</h3>
 
 Hay estaciones, tiempo, edades y épocas en el otro mundo? 
 
@@ -814,13 +817,13 @@ Por consiguiente nos encontramos a menudo con que aquellos que han pasado por la
 
 Hay solo un medio de medir el tiempo, y éste es el que emplean los clarividentes educados para fijar los acontecimientos cuando los examinan en la memoria de la Naturaleza, o sea mediante la astrología, observando la posición de los astros. Por supuesto, si el acontecimiento que está observando ocurrió en los tiempos históricos puede fácilmente fijar el año de la ocurrencia mediante otro acontecimiento histórico que haya ocurrido al mismo tiempo, pero cuando busca muchos millares de años atrás, como, por ejemplo, cuando quiere determinar el tiempo de las inundaciones atlantes, acude especialmente a la precesión de los equinoccios, que es el movimiento hacia atrás del Sol por los doce signos del Zodíaco, tardando el Sol unos veintiséis mil años en dar una vuelta completa en torno de ese círculo. Entonces puede fijar esa fecha contando el número de períodos de veintiséis mil años transcurridos entre la primera inundación y la segunda, entre la segunda y la tercera y desde ésta hasta nuestros días. Si ignora la ciencia de los astros no puede hacerlo, así que esto es una buena razón para que el estudiante de ocultismo estudie la astronomía. 
 
-### PREGUNTA Nº 50
+### <h3 id="question-50">PREGUNTA Nº 50</h3>
 
 Una persona enterrada viva ¿está consciente de su condición? ¿Cómo hace el espíritu para volver al cuerpo cuando éste está en la tumba? 
 
 Respuesta: La posición modificada de los cadáveres que se nota algunas veces demuestra que el cuerpo fue enterrado antes de que el espíritu lo abandonara definitivamente y que éste ha vuelta a su cuerpo y lo ha movido intentando desesperadamente obtener el aire necesario. Y por consiguiente esto demuestra también que el espíritu ha recuperado la conciencia en el cuerpo. El espíritu, por supuesto, no está obstaculizado absolutamente por la tierra o el ataúd para ir y venir; un espíritu pasa con tanta facilidad a través de un muro o de cualquier otro obstáculo denso u opaco como nosotros pasamos a través del aire. 
 
-### PREGUNTA Nº 51
+### <h3 id="question-51">PREGUNTA Nº 51</h3>
 
 ¿Por qué mueren los niños? 
 
@@ -832,7 +835,7 @@ Cuando las personas próximas al agonizante que asisten a su muerte dan rienda s
 
 Con objeto de compensar ese inconveniente, el Ego renace generalmente en la misma familia que tanto lo lamentó, y muere en los primeros años de su infancia. Entonces entra en el Mundo del Deseo pero por supuesto un niño que no ha cometido pecados no necesita ir al Purgatorio, y su cuerpo de deseos así como la mente permanecen intactos; va, pues, directamente al Primer Cielo para esperar allí la oportunidad de un nuevo renacimiento, pero ese intervalo de espera se emplea como escuela, para enseñarle directamente el efecto de las diferentes emociones malas y buenas. Muy a menudo se encuentran con algún miembro de su familia, quien toma al niño a su cargo, tomándose el trabajo de enseñarle lo que dejó de aprender debido a las lamentaciones, y si ese pariente no existe otro cualquiera se hace cargo de él. De cualquier manera la pérdida es más que recuperada, así que cuando el niño vuelve a nacer tiene un crecimiento moral tan completo como si hubiera muerto en las circunstancias ordinarias sin que se hubieran producido las tales lamentaciones. 
 
-### PREGUNTA Nº 52
+### <h3 id="question-52">PREGUNTA Nº 52</h3>
 
 ¿Cuál es la causa del gran número de muertes que se producen en la infancia y en la niñez? 
 
