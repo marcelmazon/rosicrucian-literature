@@ -11,210 +11,205 @@ original_source_file: 'the-rosicrucian-philosophy-in-questions-and-answers-volum
 
 por Max Heindel [1865-1919]
 
-### <h3 id="table-of-contents">ÍNDICE DE MATERIAS</h3>
+### <h3 id="table-of-contents">ÍNDICE DE MATERIAS - ÍNDICE DE PREGUNTAS</h3>
 
-Pregusntas referentes a:
+- [Unas Palabras de Explicación](#a-word-of-explanation)
 
-Sección I - LA VIDA DESPUÉS DE LA MUERTE - Preguntas 1-19
+- [Sección I - LA VIDA DESPUÉS DE LA MUERTE - Preguntas 1-19](#section-1)
+    - [Pregunta Nº 1.- La Existencia En El Purgatorio](#question-1)  
+    - [Pregunta Nº 2.- ¿Cómo Están Vestidos Los Muertos?](#question-2)  
+    - [Pregunta Nº 3.- Un Atajo Hacia El Cielo](#question-3)  
+    - [Pregunta Nº 4.- Espíritus Encadenados A La Tierra](#question-4)  
+    - [Pregunta Nº 5.- Reunión En El Cielo De Los Amantes](#question-5)  
+    - [Pregunta Nº 6.- Estudio En El Mundo Invisible](#question-6)  
+    - [Pregunta Nº 7.- Quietud Inmediatamente Después De La Muerte](#question-7)  
+    - [Pregunta Nº 8.- Efecto Del Embalsamamiento](#question-8)  
+    - [Pregunta Nº 9.- Ayuda A Los Amigos Que Se Encuentran En El Purgatorio](#question-9)  
+    - [Pregunta Nº 10.- Desfiguramiento En El Mundo Invisible](#question-10)  
+    - [Pregunta Nº 11.- Experiencia De Un Suicida Encadenado A La Tierra](#question-11)  
+    - [Pregunta Nº 12.- Nuestra Responsabilidad Para Con Los Muertos](#question-12)  
+    - [Pregunta Nº 13.- Estado Post-Mortem De Un Avaro](#question-13)  
+    - [Pregunta Nº 14.- Estado Post-Mortem De Un Borracho](#question-14)  
+    - [Pregunta Nº 15.- Resultado De La Muerte Repentina](#question-15)  
+    - [Pregunta Nº 16.- Fantasmas De Seres Vivientes](#question-16)  
 
-Sección II - RENACIMIENTO - Preguntas 17-37
+- [Sección II - RENACIMIENTO - Preguntas 17-37](#section-2)
+    - [Pregunta Nº 17.- Frecuencia Del Renacimiento](#question-17)  
+    - [Pregunta Nº 18.- Responsabilidad Del Hombre Para Con Los Animales](#question-18)  
+    - [Pregunta Nº 19.- La Necesidad De Renacer](#question-19)  
+    - [Pregunta Nº 20.- Renacimiento De Los Niños](#question-20)  
+    - [Pregunta Nº 21.- ¿Dos Males Hacen Un Bien?](#question-21)  
+    - [Pregunta Nº 22.- Renacimiento Y Sexo](#question-22)  
+    - [Pregunta Nº 23.- Nuestra Deuda De Destino](#question-23)  
+    - [Pregunta Nº 24.- Determinación Del Sexo](#question-24)  
+    - [Pregunta Nº 25.- Memoria De Las Vidas Pasadas](#question-25)  
+    - [Pregunta Nº 26.- Destino Maduro](#question-26)  
+    - [Pregunta Nº 27.- Destino Post-Mortem De Los Vivisectores](#question-27)  
+    - [Pregunta Nº 28.- Mortalidad Infantil](#question-28)  
+    - [Pregunta Nº 29.- Inmortalidad Del Alma](#question-29)  
+    - [Pregunta Nº 30.- ¿Destino O Libre Albedrío?](#question-30)  
+    - [Pregunta Nº 31.- Modificación Del Karma](#question-31)  
+    - [Pregunta Nº 32.- El Fruto De La Evolución](#question-32)  
+    - [Pregunta Nº 33.- Punto De Vista Rosacruz Sobre La Pena Capital](#question-33)  
+    - [Pregunta Nº 34.- Almas Viejas Y Jóvenes](#question-34)  
+    - [Pregunta Nº 35.- Edad Del Alma](#question-35)  
+    - [Pregunta Nº 36.- Averiguación De La Edad Del Alma](#question-36)  
+    - [Pregunta Nº 37.- Aspectos Espirituales Del Control De La Natalidad](#question-37)  
 
-Sección III - LA SALUD Y CURACIÓN - Preguntas 38-52
+- [Sección III - LA SALUD Y CURACIÓN - Preguntas 38-52](#section-3)
+    - [Pregunta Nº 38.- Procedimiento Con Las Llamadas Enfermedades Incurables](#question-38)  
+    - [Pregunta Nº 39.- Morfina Y Conciencia Post-Mortem](#question-39)  
+    - [Pregunta Nº 40.- Idiotez Y Locura](#question-40)  
+    - [Pregunta Nº 41.- Efectos De La Amputación](#question-41)  
+    - [Pregunta Nº 42.- Destrucción De Las “Vibraciones” De La Enfermedad](#question-42)  
+    - [Pregunta Nº 43.- Destrucción De Los Productos De La Enfermedad](#question-43)  
+    - [Pregunta Nº 44.- Curación De Los Enfermos](#question-44)  
+    - [Pregunta Nº 45.- Remoción De Órganos Enfermos](#question-45)  
+    - [Pregunta Nº 46.- Extracción Del Bazo](#question-46)  
+    - [Pregunta Nº 47.- Auxiliares Invisibles](#question-47)  
+    - [Pregunta Nº 48.- Protección Contra El Vampirismo](#question-48)  
+    - [Pregunta Nº 49.- El Egoísmo Es La Causa De Toda Enfermedad](#question-49)  
+    - [Pregunta Nº 50.- Naturaleza De Los Glóbulos Blancos En La Sangre](#question-50)  
+    - [Pregunta Nº 51.- Causa Y Cura De Los Resfriados](#question-51)  
+    - [Pregunta Nº 52.- El Alimento Del Futuro](#question-52)  
 
-Sección IV - LOS MUNDOS INVISIBLES - Preguntas 53-63
+- [Sección IV - LOS MUNDOS INVISIBLES - Preguntas 53-63](#section-4)
+    - [Pregunta Nº 53.- Conciencia En El Mundo Invisible](#question-53)  
+    - [Pregunta Nº 54.- Los Habitantes Del Mundo Del Deseo Ven El Sol](#question-54)  
+    - [Pregunta Nº 55.- El Problema De Un Ensueño](#question-55)  
+    - [Pregunta Nº 56.- El Estado De Trance](#question-56)  
+    - [Pregunta Nº 57.- Contacto Con Parientes Difuntos Durante El Sueño](#question-57)  
+    - [Pregunta Nº 58.- Naturaleza De Las Criaturas Vistas En El Delirium Tremens](#question-58)  
+    - [Pregunta Nº 59.- Visitantes Celestes](#question-59)  
+    - [Pregunta Nº 60.- ¿Por Qué Sufren Los Espíritus-Grupo?](#question-60)  
+    - [Pregunta Nº 61.- Naturaleza Del Mundo Del Deseo](#question-61)  
+    - [Pregunta Nº 62.- Actitud De Los Espíritus-Grupo Entre Ellos](#question-62)  
+    - [Pregunta Nº 63.- Ondinas Y Sirenas](#question-63)  
 
-Sección V - MÉTODO DE PERCEPCIÓN ESPIRITUAL - Preguntas 64-66
+- [Sección V - MÉTODO DE PERCEPCIÓN ESPIRITUAL - Preguntas 64-66](#section-5)
+    - [Pregunta Nº 64.- El Método De Percepción Espiritual](#question-64)  
+    - [Pregunta Nº 65.- La Cuarta Dimensión](#question-65)  
+    - [Pregunta Nº 66.- La Memoria De La Naturaleza](#question-66)  
 
-Sección VI - LA INICIACIÓN - Preguntas 67-71
+- [Sección VI - LA INICIACIÓN - Preguntas 67-71](#section-6)
+    - [Pregunta Nº 67.- El Plano De La Iniciación](#question-67)  
+    - [Pregunta Nº 68.- Las Pruebas De La Iniciación](#question-68)  
+    - [Pregunta Nº 69.- Creación De Un Nuevo Cuerpo](#question-69)  
+    - [Pregunta Nº 70.- Maestros E Iniciación](#question-70)  
+    - [Pregunta Nº 71.- ¿Por Qué Casi Todos Los Iniciados Son Hombres?](#question-71)  
 
-Sección VII - ENSEÑANZAS BÍBLICAS - Preguntas 72-106
+- [Sección VII - ENSEÑANZAS BÍBLICAS - Preguntas 72-106](#section-7)
+    - [Pregunta Nº 72.- Enseñanzas Del Antiguo Y Nuevo Testamentos Que Se Relacionan Con Jehová](#question-72)  
+    - [Pregunta Nº 73.- Resurrección De Los Muertos](#question-73)  
+    - [Pregunta Nº 74.- Riqueza Natural Y Espiritualidad](#question-74)  
+    - [Pregunta Nº 75.- Resurrección Del Cuerpo](#question-75)  
+    - [Pregunta Nº 76.- La Inmaculada Concepción](#question-76)  
+    - [Pregunta Nº 77.- ¿Por Qué Los Judíos Observan El Sábado?](#question-77)  
+    - [Pregunta Nº 78.- Significado De Las Letras I.N.R.I.](#question-78)  
+    - [Pregunta Nº 79.- La Milagrosa Multiplicación De Los Peces](#question-79)  
+    - [Pregunta Nº 80.- "El Mar Ya No Es"](#question-80)  
+    - [Pregunta Nº 81.- Los Colores Del Velo Del Tabernáculo](#question-81)  
+    - [Pregunta Nº 82.- El Velo Del Templo Y Las Vestiduras Sacerdotales](#question-82)  
+    - [Pregunta Nº 83.- Hermafroditas Espirituales](#question-83)  
+    - [Pregunta Nº 84.- El Hombre Es Un Hermafrodita](#question-84)  
+    - [Pregunta Nº 85.- La Corona De Espinas](#question-85)  
+    - [Pregunta Nº 86.- Recepción Del Señor En El Aire](#question-86)  
+    - [Pregunta Nº 87.- Recepción Del Cristo En El Aire](#question-87)  
+    - [Pregunta Nº 88.- Las Llaves Del Cielo Y Del Infierno](#question-88)  
+    - [Pregunta Nº 89.- La Esencia Del Cristianismo](#question-89)  
+    - [Pregunta Nº 90.- Conversión Del Agua En Vino](#question-90)  
+    - [Pregunta Nº 91.- Por Qué Fue Necesaria La Tentación Para Cristo Jesús](#question-91)  
+    - [Pregunta Nº 92.- Razones Para Llamar A Cristo “El Hijo Del Hombre”](#question-92)  
+    - [Pregunta Nº 93.- El Hijo Del Hombre](#question-93)  
+    - [Pregunta Nº 94.- ¿Comió Cristo Jesús Después De La Resurrección?](#question-94)  
+    - [Pregunta Nº 95.- ¿Puede El Espíritu Sufrir?](#question-95)  
+    - [Pregunta Nº 96.- El Paradero Del Cuerpo Denso De Jesús](#question-96)  
+    - [Pregunta Nº 97.- Desintegración Del Cuerpo De Jesús](#question-97)  
+    - [Pregunta Nº 98.- Pérdida De Experiencia Por Parte De Jesús](#question-98)  
+    - [Pregunta Nº 99.- Cristo, Espíritu De Nuestra Tierra](#question-99)  
+    - [Pregunta Nº 100.- La Misión De Cristo](#question-100)  
+    - [Pregunta Nº 101.- ¿Dónde Estuvo Jesús Después Del Bautismo?](#question-101)  
+    - [Pregunta Nº 102.- Jesús Y Cristo-Jesús](#question-102)  
+    - [Pregunta Nº 103.- Job Y El Renacimiento](#question-103)  
+    - [Pregunta Nº 104.- Prueba Bíblica Del Renacimiento](#question-104)  
+    - [Pregunta Nº 105.- Naturaleza Del Cuerpo De Jesús Después De La Muerte](#question-105)  
+    - [Pregunta Nº 106.- El Nacimiento De Jesús](#question-106)  
 
-Sección VIII - LA ASTROLOGÍA - Preguntas 107-127
+- [Sección VIII - LA ASTROLOGÍA - Preguntas 107-127](#section-8)
+    - [Pregunta Nº 107.- Origen Astrológico De La Conciencia](#question-107)  
+    - [Pregunta Nº 108.- Las Plantas Afectadas Por Los Planetas](#question-108)  
+    - [Pregunta Nº 109.- Influencia De Las Pléyades Y De Orión](#question-109)  
+    - [Pregunta Nº 110.- El Tiempo De La Era De Acuario](#question-110)  
+    - [Pregunta Nº 111.- La Actualidad De La Edad Acuaria](#question-111)  
+    - [Pregunta Nº 112.- El Comienzo De La Edad Acuaria](#question-112)  
+    - [Pregunta Nº 113.- Tablas De Horas Planetarias](#question-113)  
+    - [Pregunta Nº 114.- Símbolos Astrológicos](#question-114)  
+    - [Pregunta Nº 115.- Astrólogos Egipcios](#question-115)  
+    - [Pregunta Nº 116.- La Astrología: Una Religión](#question-116)  
+    - [Pregunta Nº 117.- Escapadas Difíciles](#question-117)  
+    - [Pregunta Nº 118.- Neptuno: La Octava De Mercurio](#question-118)  
+    - [Pregunta Nº 119.- Efectos De Venus En La Casa Doce](#question-119)  
+    - [Pregunta Nº 120.- Uso De La Astrología En La Educación De Los Niños](#question-120)  
+    - [Pregunta Nº 121.- Efecto Del Ambiente](#question-121)  
+    - [Pregunta Nº 122.- ¿Por Qué Mercurio Es Incoloro Y Neutral?](#question-122)  
+    - [Pregunta Nº 123.- Nacimiento Prematuro](#question-123)  
+    - [Pregunta Nº 124.- El Mejor Tiempo Para Nacer](#question-124)  
+    - [Pregunta Nº 125.- La Balanza De La Alegría Y De La Tristeza](#question-125)  
+    - [Pregunta Nº 126.- Polaridad Planetaria](#question-126)  
+    - [Pregunta Nº 127.- El Propósito De La Tentación](#question-127)  
 
-Sección IX - PREGUNTAS MISCELÁNEAS - Preguntas 128-166
+- [Sección IX - PREGUNTAS MISCELÁNEAS - Preguntas 128-166](#section-9)
+    - [Pregunta Nº 128.- El Amor Maternal Como Factor En La Materialización](#question-128)  
+    - [Pregunta Nº 129.- Los Atlantes Que No Habían Desarrollado Los Pulmones](#question-129)  
+    - [Pregunta Nº 130.- La Causa Y La Cura Del Sonambulismo](#question-130)  
+    - [Pregunta Nº 131.- Prueba De La Existencia Del Cuerpo Vital](#question-131)  
+    - [Pregunta Nº 132.- Felicidad En La Vida Superior](#question-132)  
+    - [Pregunta Nº 133.- El Vestido De Bodas](#question-133)  
+    - [Pregunta Nº 134.- Los Hermanos Mayores](#question-134)  
+    - [Pregunta Nº 135.- Oración, Concentración Y Meditación](#question-135)  
+    - [Pregunta Nº 136.- El Cordón Plateado](#question-136)  
+    - [Pregunta Nº 137.- Las Tres Partes Del Cordón Plateado](#question-137)  
+    - [Pregunta Nº 138.- Efectos Del Alcohol Y Del Tabaco](#question-138)  
+    - [Pregunta Nº 139.- ¿Qué Es La Idolatría?](#question-139)  
+    - [Pregunta Nº 140.- La Palabra Perdida](#question-140)  
+    - [Pregunta Nº 141.- La Caridad Comienza Por Casa](#question-141)  
+    - [Pregunta Nº 142.- Determinación Del Tiempo De La Pascua](#question-142)  
+    - [Pregunta Nº 143.- Razones Para Las Pruebas Del Aspirante](#question-143)  
+    - [Pregunta Nº 144.- Cómo Hallar La Mujer Dentro De Nosotros](#question-144)  
+    - [Pregunta Nº 145.- El Templo Teosófico De La Rosa Cruz](#question-145)  
+    - [Pregunta Nº 146.- Acerca De Dejar Morir Niños Defectuosos](#question-146)  
+    - [Pregunta Nº 147.- La Naturaleza De La Psicometría](#question-147)  
+    - [Pregunta Nº 148.- Resultados De Quemar Incienso](#question-148)  
+    - [Pregunta Nº 149.- Responsabilidad De Los Gobernantes](#question-149)  
+    - [Pregunta Nº 150.- El Propósito De La Existencia Física](#question-150)  
+    - [Pregunta Nº 151.- Almas Perdidas](#question-151)  
+    - [Pregunta Nº 152.- Eutanasia](#question-152)  
+    - [Pregunta Nº 153.- Naturaleza Del Yo Superior](#question-153)  
+    - [Pregunta Nº 154.- Sembrar Sin Cosechar](#question-154)  
+    - [Pregunta Nº 155.- Profecías De La Madre Shipton](#question-155)  
+    - [Pregunta Nº 156.- El Rayo Regente](#question-156)  
+    - [Pregunta Nº 157.- Lugar Donde Se Halla Christian Rosenkreutz](#question-157)  
+    - [Pregunta Nº 158.- Aversión De La Humanidad Hacia Las Serpientes](#question-158)  
+    - [Pregunta Nº 159.- El Alma Y El Cuerpo-Alma](#question-159)  
+    - [Pregunta Nº 160.- Relación Entre Alma Y Mente](#question-160)  
+    - [Pregunta Nº 161.- Cómo Fomentar La Fe](#question-161)  
+    - [Pregunta Nº 162.- La Sal De La Alquimia](#question-162)  
+    - [Pregunta Nº 163.- La Filosofía De La Guerra](#question-163)  
+    - [Pregunta Nº 164.- La Fraternidad Rosacruz](#question-164)  
+    - [Pregunta Nº 165.- Naturaleza Del Mito](#question-165)  
+    - [Pregunta Nº 166.- De La Oración](#question-166)  
 
-ÍNDICE DE PREGUNTAS
+### <h3 id="list-of-diagrams">LIST OF DIAGRAMS</h3>
 
-Unas Palabras de Explicación 
-Pregunta Nº 1.- LA EXISTENCIA EN EL PURGATORIO 
-Pregunta Nº 2.- ¿CÓMO ESTÁN VESTIDOS LOS MUERTOS? 
-Pregunta Nº 3.- UN ATAJO HACIA EL CIELO 
-Pregunta Nº 4.- ESPÍRITUS ENCADENADOS A LA TIERRA 
-Pregunta Nº 5.- REUNIÓN EN EL CIELO DE LOS AMANTES 
-Pregunta Nº 6.- ESTUDIO EN EL MUNDO INVISIBLE 
-Pregunta Nº 7.- QUIETUD INMEDIATAMENTE DESPUÉS DE LA MUERTE 
-Pregunta Nº 8.- EFECTO DEL EMBALSAMAMIENTO 
-
-Pregunta Nº 9.- AYUDA A LOS AMIGOS QUE SE ENCUENTRAN EN EL PURGATORIO 
-Pregunta Nº 10.- DESFIGURAMIENTO EN EL MUNDO INVISIBLE 
-Pregunta Nº 11.- EXPERIENCIA DE UN SUICIDA ENCADENADO A LA TIERRA 
-Pregunta Nº 12.- NUESTRA RESPONSABILIDAD PARA CON LOS MUERTOS 
-Pregunta Nº 13.- ESTADO POST-MORTEM DE UN AVARO 
-Pregunta Nº 14.- ESTADO POST-MORTEM DE UN BORRACHO 
-Pregunta Nº 15.- RESULTADO DE LA MUERTE REPENTINA 
-Pregunta Nº 16.- FANTASMAS DE SERES VIVIENTES 
-
-Pregunta Nº 17.- FRECUENCIA DEL RENACIMIENTO 
-Pregunta Nº 18.- RESPONSABILIDAD DEL HOMBRE PARA CON LOS ANIMALES 
-Pregunta Nº 19.- LA NECESIDAD DE RENACER 
-Pregunta Nº 20.- RENACIMIENTO DE LOS NIÑOS 
-Pregunta Nº 21.- ¿DOS MALES HACEN UN BIEN? 
-Pregunta Nº 22.- RENACIMIENTO Y SEXO 
-Pregunta Nº 23.- NUESTRA DEUDA DE DESTINO 
-Pregunta Nº 24.- DETERMINACIÓN DEL SEXO 
-
-Pregunta Nº 25.- MEMORIA DE LAS VIDAS PASADAS 
-Pregunta Nº 26.- DESTINO MADURO 
-Pregunta Nº 27.- DESTINO POST-MORTEM DE LOS VIVISECTORES 
-Pregunta Nº 28.- MORTALIDAD INFANTIL
-Pregunta Nº 29.- INMORTALIDAD DEL ALMA
-Pregunta Nº 30.- ¿DESTINO O LIBRE ALBEDRÍO? 
-Pregunta Nº 31.- MODIFICACIÓN DEL KARMA 
-Pregunta Nº 32.- EL FRUTO DE LA EVOLUCIÓN 
-Pregunta Nº 33.- PUNTO DE VISTA ROSACRUZ SOBRE LA PENA CAPITAL 
-Pregunta Nº 34.- ALMAS VIEJAS Y JÓVENES 
-Pregunta Nº 35.- EDAD DEL ALMA 
-Pregunta Nº 36.- AVERIGUACIÓN DE LA EDAD DEL ALMA 
-
-Pregunta Nº 37.- ASPECTOS ESPIRITUALES DEL CONTROL DE LA NATALIDAD 
-Pregunta Nº 38.- PROCEDIMIENTO CON LAS LLAMADAS ENFERMEDADES INCURABLES 
-Pregunta Nº 39.- MORFINA Y CONCIENCIA POST-MORTEM 
-Pregunta Nº 40.- IDIOTEZ Y LOCURA 
-Pregunta Nº 41.- EFECTOS DE LA AMPUTACIÓN 
-Pregunta Nº 42.- DESTRUCCIÓN DE LAS “VIBRACIONES” DE LA ENFERMEDAD 
-Pregunta Nº 43.- DESTRUCCIÓN DE LOS PRODUCTOS DE LA ENFERMEDAD 
-Pregunta Nº 44.- CURACIÓN DE LOS ENFERMOS 
-Pregunta Nº 45.- REMOCIÓN DE ÓRGANOS ENFERMOS 
-Pregunta Nº 46.- EXTRACCIÓN DEL BAZO
-
-Pregunta Nº 47.- AUXILIARES INVISIBLES 
-Pregunta Nº 48.- PROTECCIÓN CONTRA EL VAMPIRISMO 
-Pregunta Nº 49.- EL EGOÍSMO ES LA CAUSA DE TODA ENFERMEDAD 
-Pregunta Nº 50.- NATURALEZA DE LOS GLÓBULOS BLANCOS EN LA SANGRE 
-Pregunta Nº 51.- CAUSA Y CURA DE LOS RESFRIADOS 
-Pregunta Nº 52.- EL ALIMENTO DEL FUTURO 
-Pregunta Nº 53.- CONCIENCIA EN EL MUNDO INVISIBLE 
-Pregunta Nº 54.- LOS HABITANTES DEL MUNDO DEL DESEO VEN EL SOL 
-Pregunta Nº 55.- EL PROBLEMA DE UN ENSUEÑO 
-Pregunta Nº 56.- EL ESTADO DE TRANCE
-Pregunta Nº 57.- CONTACTO CON PARIENTES DIFUNTOS DURANTE EL SUEÑO 
-Pregunta Nº 58.- NATURALEZA DE LAS CRIATURAS VISTAS EN EL DELIRIUM TREMENS 
-
-Pregunta Nº 59.- VISITANTES CELESTES 
-Pregunta Nº 60.- ¿POR QUE SUFREN LOS ESPÍRITUS-GRUPO? 
-Pregunta Nº 61.- NATURALEZA DEL MUNDO DEL DESEO 
-Pregunta Nº 62.- ACTITUD DE LOS ESPÍRITUS-GRUPO ENTRE ELLOS 
-Pregunta Nº 63.- ONDINAS Y SIRENAS 
-Pregunta Nº 64.- EL MÉTODO DE PERCEPCIÓN ESPIRITUAL 
-Pregunta Nº 65.- LA CUARTA DIMENSIÓN 
-Pregunta Nº 66.- LA MEMORIA DE LA NATURALEZA  
-Pregunta Nº 67.- EL PLANO DE LA INICIACIÓN 
-Pregunta Nº 68.- LAS PRUEBAS DE LA INICIACIÓN 
-Pregunta Nº 69.- CREACIÓN DE UN NUEVO CUERPO 
-Pregunta Nº 70.- MAESTROS E INICIACIÓN
-Pregunta Nº 71.- ¿POR QUE CASI TODOS LOS INICIADOS SON HOMBRES? 
-
-Pregunta Nº 72.- ENSEÑANZAS DEL ANTIGUO Y NUEVO TESTAMENTOS QUE SE RELACIONAN CON JEHOVÁ 
-Pregunta Nº 73.- RESURRECCIÓN DE LOS MUERTOS
-Pregunta Nº 74.- RIQUEZA NATURAL Y ESPIRITUALIDAD 
-Pregunta Nº 75.- RESURRECCIÓN DEL CUERPO 
-Pregunta Nº 76.- LA INMACULADA CONCEPCIÓN 
-Pregunta Nº 77.- ¿POR QUÉ LOS JUDÍOS OBSERVAN EL SÁBADO? 
-Pregunta Nº 78.- SIGNIFICADO DE LAS LETRAS I.N.R.I. 
-Pregunta Nº 79.- LA MILAGROSA MULTIPLICACIÓN DE LOS PECES 
-Pregunta Nº 80.- "EL MAR YA NO ES" 
-Pregunta Nº 81.- LOS COLORES DEL VELO DEL TABERNÁCULO 
-Pregunta Nº 82.- EL VELO DEL TEMPLO Y LAS VESTIDURAS SACERDOTALES 
-Pregunta Nº 83.- HERMAFRODITAS ESPIRITUALES 
-Pregunta Nº 84.- EL HOMBRE ES UN HERMAFRODITA 
-
-Pregunta Nº 85.- LA CORONA DE ESPINAS 
-Pregunta Nº 86.- RECEPCIÓN DEL SEÑOR EN EL AIRE 
-Pregunta Nº 87.- RECEPCIÓN DEL CRISTO EN EL AIRE 
-Pregunta Nº 88.- LAS LLAVES DEL CIELO Y DEL INFIERNO 
-Pregunta Nº 89.- LA ESENCIA DEL CRISTIANISMO 
-Pregunta Nº 90.- CONVERSIÓN DEL AGUA EN VINO 
-Pregunta Nº 91.- POR QUE FUÉ NECESARIA LA TENTACIÓN PARA CRISTO JESÚS 
-Pregunta Nº 92.- RAZONES PARA LLAMAR A CRISTO “EL HIJO DEL HOMBRE” 
-Pregunta Nº 93.- EL HIJO DEL HOMBRE 
-Pregunta Nº 94.- ¿COMIÓ CRISTO JESÚS DESPUÉS DE LA RESURRECCIÓN? 
-Pregunta Nº 95.- ¿PUEDE EL ESPÍRITU SUFRIR? 
-Pregunta Nº 96.- EL PARADERO DEL CUERPO DENSO DE JESÚS 
-Pregunta Nº 97.- DESINTEGRACIÓN DEL CUERPO DE JESÚS 
-Pregunta Nº 98.- PÉRDIDA DE EXPERIENCIA POR PARTE DE JESÚS 
-
-Pregunta Nº 99.- CRISTO, ESPÍRITU DE NUESTRA TIERRA 
-Pregunta Nº 100.- LA MISIÓN DE CRISTO 
-Pregunta Nº 101.- ¿DÓNDE ESTUVO JESÚS DESPUÉS DEL BAUTISMO? 
-Pregunta Nº 102.- JESÚS Y CRISTO-JESÚS 
-Pregunta Nº 103.- JOB Y EL RENACIMIENTO 
-Pregunta Nº 104.- PRUEBA BÍBLICA DEL RENACIMIENTO 
-Pregunta Nº 105.- NATURALEZA DEL CUERPO DE JESÚS DESPUÉS DE LA MUERTE 
-Pregunta Nº 106.- EL NACIMIENTO DE JESÚS 
-Pregunta Nº 107.- ORIGEN ASTROLÓGICO DE LA CONCIENCIA 
-Pregunta Nº 108.- LAS PLANTAS AFECTADAS POR LOS PLANETAS 
-Pregunta Nº 109.- INFLUENCIA DE LAS PLÉYADES Y DE ORIÓN 
-Pregunta Nº 110.- EL TIEMPO DE LA ERA DE ACUARIO 
-Pregunta Nº 111.- LA ACTUALIDAD DE LA EDAD ACUARIA 
-Pregunta Nº 112.- EL COMIENZO DE LA EDAD ACUARIA 
-
-Pregunta Nº 113.- TABLAS DE HORAS PLANETARIAS 
-Pregunta Nº 114.- SÍMBOLOS ASTROLÓGICOS 
-Pregunta Nº 115.- ASTRÓLOGOS EGIPCIOS 
-Pregunta Nº 116.- LA ASTROLOGÍA: UNA RELIGIÓN 
-Pregunta Nº 117.- ESCAPADAS DIFÍCILES
-Pregunta Nº 118.- NEPTUNO: LA OCTAVA DE MERCURIO 
-Pregunta Nº 119.- EFECTOS DE VENUS EN LA CASA DOCE 
-Pregunta Nº 120.- USO DE LA ASTROLOGÍA EN LA EDUCACIÓN DE LOS NIÑOS 
-Pregunta Nº 121.- EFECTO DEL AMBIENTE 
-Pregunta Nº 122.- ¿POR QUE MERCURIO ES INCOLORO Y NEUTRAL? 
-Pregunta Nº 123.- NACIMIENTO PREMATURO 
-Pregunta Nº 124.- EL MEJOR TIEMPO PARA NACER 
-Pregunta Nº 125.- LA BALANZA DE LA ALEGRÍA Y DE LA TRISTEZA 
-Pregunta Nº 126.- POLARIDAD PLANETARIA 
-
-Pregunta Nº 127.- EL PROPÓSITO DE LA TENTACIÓN 
-Pregunta Nº 128.- EL AMOR MATERNAL COMO FACTOR EN LA MATERIALIZACIÓN 
-Pregunta Nº 129.- LOS ATLANTES QUE NO HABÍAN DESARROLLADO LOS PULMONES 
-Pregunta Nº 130.- LA CAUSA Y LA CURA DEL SONAMBULISMO
-Pregunta Nº 131.- PRUEBA DE LA EXISTENCIA DEL CUERPO VITAL 
-Pregunta Nº 132.- FELICIDAD EN LA VIDA SUPERIOR 
-Pregunta Nº 133.- EL VESTIDO DE BODAS 
-Pregunta Nº 134.- LOS HERMANOS MAYORES 
-Pregunta Nº 135.- ORACIÓN, CONCENTRACIÓN Y MEDITACIÓN 
-Pregunta Nº 136.- EL CORDÓN PLATEADO 
-Pregunta Nº 137.- LAS TRES PARTES DEL CORDÓN PLATEADO 
-Pregunta Nº 138.- EFECTOS DEL ALCOHOL Y DEL TABACO 
-Pregunta Nº 139.- ¿QUÉ ES LA IDOLATRÍA? 
-Pregunta Nº 140.- LA PALABRA PERDIDA 
-
-Pregunta Nº 141.- LA CARIDAD COMIENZA POR CASA 
-Pregunta Nº 142.- DETERMINACIÓN DEL TIEMPO DE LA PASCUA 
-Pregunta Nº 143.- RAZONES PARA LAS PRUEBAS DEL ASPIRANTE 
-Pregunta Nº 144.- COMO HALLAR LA MUJER DENTRO DE NOSOTROS 
-Pregunta Nº 145.- EL TEMPLO TEOSÓFICO DE LA ROSA CRUZ 
-Pregunta Nº 146.- ACERCA DE DEJAR MORIR NIÑOS DEFECTUOSOS 
-Pregunta Nº 147.- LA NATURALEZA DE LA PSICOMETRÍA 
-Pregunta Nº 148.- RESULTADOS DE QUEMAR INCIENSO 
-Pregunta Nº 149.- RESPONSABILIDAD DE LOS GOBERNANTES 
-Pregunta Nº 150.- EL PROPÓSITO DE LA EXISTENCIA FÍSICA 
-Pregunta Nº 151.- ALMAS PERDIDAS 
-Pregunta Nº 152.- EUTANASIA 
-
-Pregunta Nº 153.- NATURALEZA DEL YO SUPERIOR 
-Pregunta Nº 154.- SEMBRAR SIN COSECHAR
-Pregunta Nº 155.- PROFECÍAS DE LA MADRE SHIPTON 
-Pregunta Nº 156.- EL RAYO REGENTE
-Pregunta Nº 157.- LUGAR DONDE SE HALLA CHRISTIAN ROSENKREUTZ 
-Pregunta Nº 158.- AVERSIÓN DE LA HUMANIDAD HACIA LAS SERPIENTES 
-Pregunta Nº 159.- EL ALMA Y EL CUERPO-ALMA 
-Pregunta Nº 160.- RELACIÓN ENTRE ALMA Y MENTE
-Pregunta Nº 161.- COMO FOMENTAR LA FE 
-Pregunta Nº 162.- LA SAL DE LA ALQUIMIA 
-Pregunta Nº 163.- LA FILOSOFÍA DE LA GUERRA 
-Pregunta Nº 164.- LA FRATERNIDAD ROSACRUZ 
-Pregunta Nº 165.- NATURALEZA DEL MITO
-Pregunta Nº 166.- DE LA ORACIÓN 
+- [The Seven Days of Creation](#diagram-the-seven-days-of-creation)
+- [A Life Cycle](#diagram-a-life-cycle)
+- [The Seven Worlds](#diagram-the-seven-worlds)
+- [The Relative Permanency of the Visible and Invisible Worlds](#diagram-the-relative-permanency-of-the-visible-and-invisible-worlds)
+- [The Four Kingdoms](#diagram-the-four-kingdoms)
+- [The Caduceus](#diagram-the-caduceus)
+- [Vehicles of Highest Initiates and Ordinary Humanity](#diagram-vehicles-of-highest-initiates-and-ordinary-humanity)
+- [The Tenfold Constitution of Man](#diagram-the-tenfold-constitution-of-man)
+- [As Above, So Below](#diagram-as-above-so-below)
 
 ### UNAS PALABRAS DE EXPLICACIÓN
 
