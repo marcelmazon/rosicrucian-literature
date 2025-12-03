@@ -1,33 +1,23 @@
-# ENSEÑANZAS DE UN INICIADO
+---
+title: 'Enseñanzas de un Iniciado'
+language: 'es'
+original_title: "Teachings of an Initiate"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'teachings-of-an-initiate.md'
+---
+
+<h1 id="teachings-of-an-initiate">Enseñanzas de un Iniciado</h1>
 
 por Max Heindel [1865-1919]
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-Título Original:
-
-"TEACHINGS OF AN INITIATE"
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-### PREFACIO
+### <h3 id="foreword">PREFACIO</h3>
 
 Este volumen de los escritos por Max Heindel, el místico occidental, es el que abarca y encarna los últimos mensajes que envió en cartas mensuales a sus estudiantes. Estas lecciones, reimpresas después de que aquella gran alma fue llamada a un trabajo mayor en los mundos superiores el día 6 de enero de 1919, pueden hallarse en los libros siguientes, además del actual: "Masonería y Catolicismo," "El Velo del Destino," "La Interpretación Mística de Navidad," "Los Misterios de las Grandes Operas," "Recolecciones de un místico" y "Cartas a los Estudiantes." Estos trabajos comprenden las últimas investigaciones de este vidente iluminado. 
 
@@ -35,14 +25,44 @@ Los mensajes provechosos y el estímulo espiritual que los lectores han recibido
 
 Max Heindel, que fue el mensajero elegido y autorizado de la verdadera Fraternidad u Orden Rosacruz, vivió las enseñanzas que enseñaba. Solamente uno que haya sufrido físicamente, como él sufrió durante toda su vida, es capaz de hacer vibrar las fibras del corazón de la humanidad. Únicamente uno que como él haya sentido los dolores de un nacimiento espiritual que le admitió en los planos del alma, puede escribir con el poder de cautivar a sus lectores. Como resultado de su nacimiento espiritual los escritos de Max Heindel que él legó a la humanidad pueden fructificar y dar fruto. Ojalá los lectores de este libro puedan sentir los latidos del corazón de este gran espíritu amante de la humanidad, quien sacrificó su propia existencia física en su deseo de impartir al hombre las verdades maravillosas que él recogió por medio de su contacto con los Hermanos Mayores de la Orden Rosacruz. 
 
-AUGUSTA FOSS DE HEINDEL 
+\- Augusta Foss de Heindel
 
-### CAPÍTULO I: LOS DÍAS DE NOE Y DE CRISTO
+### <h3 id="table-of-contents">INDICE DE MATERIAS</h3>
+
+- [PREFACIO](#foreword)  
+- [Capítulo I: Los días de Noé y de Cristo](#chapter-1)  
+- [Capítulo II: El signo del Maestro](#chapter-2)  
+- [Capítulo III: ¿Qué cosa es un trabajo espiritual?](#chapter-3)  
+- [Capítulo IV: El Camino de la Sabiduría](#chapter-4)  
+- [Capítulo V: El secreto del éxito](#chapter-5)  
+- [Capítulo VI: La muerte del alma](#chatpre-6)  
+- [Capítulo VII: El nuevo sentido de la edad futura](#chapter-7)  
+- [Capítulo VIII: El pueblo escogido de Dios](#chapter-8)  
+- [Capítulo IX: Luz mística sobre la guerra mundial - Primera Parte: Resortes secretos](#chapter-9)  
+- [Capítulo X: Luz mística sobre la guerra mundial - Segunda Parte: Su promoción de vista espiritual](#chapter-10)  
+- [Capítulo XI: Luz mística sobre la guerra mundial - Tercera Parte: Paz en la Tierra](#chapter-11)  
+- [Capítulo XII: Luz mística sobre la guerra mundial - Cuarta Parte: El Evangelio de la alegría](#chapter-12)  
+- [Capítulo XIII: La significación esotérica de la Pascua de Resurrección. El Periodo inicial de la Filosofía Rosacruz](#chapter-13)  
+- [Capítulo XIV: La lección de la Pascua de Resurrección](#chapter-14)  
+- [Capítulo XV: El método científico del desarrollo espiritual - Primera Parte: Analogías materiales](#chapter-15)  
+- [Capítulo XVI: El método científico del desarrollo espiritual - Segunda Parte: Retrospección. Un medio de evitar el Purgatorio](#chapter-16)  
+- [Capítulo XVII: Los Cielos proclaman la gloria de Dios](#chapter-17)  
+- [Capítulo XVIII: La Religión y la curación](#chapter-18)  
+    - [Los Principios de curación Rosacruces](#)  
+- [Capítulo XIX: Discurso pronunciado con ocasión de iniciar los trabajos de edificación en Mount Reclesia](#chapter-19)  
+- [Capítulo XX: Nuestro trabajo en el mundo (Primera Parte)](#chapter-20)  
+- [Capítulo XXI: Nuestro trabajo en el mundo (Segunda Parte)](#chapter-21)  
+- [Capítulo XXII: Nuestro trabajo en el mundo (Tercera Parte)](#chapter-22)  
+- [Capítulo XXIII: Condenación y salvación eternas](#chapter-23)  
+- [Capítulo XXIV: El Arco en las nubes](#chapter-24)  
+- [Capítulo XXV: La responsabilidad del conocimiento](#chapter-25)  
+- [Capítulo XXVI: La peregrinación a través del desierto](#chapter-26)  
+
+### <h3 id="chapter-1">>CAPÍTULO I: LOS DÍAS DE NOE Y DE CRISTO</h3>
 
 Cuando Nicodemus vino a Cristo y le oyó hablar de, la necesidad del renacimiento, preguntó: "¿Cómo pueden ser estas cosas?" También nosotros, con nuestro afán de investigación, anhelamos muchas veces más luz sobre las distintas enseñanzas que se refieren a nuestro porvenir. Es una ayuda para nosotros cuando sentimos que estas enseñanzas se adaptan a hechos fisicos conocidos por nosotros. Entonces nos parece que tenemos un fundamento más sólido para nuestra creencia en cosas que aun no hemos comprobado. 
-La tarea del autor de este libro ha sido la de investigar hechos espirituales y relacionarlos con los físicos, de tal modo que satisfagan la razón y preparen de este modo el camino de la fe. De esta forma ha tenido el privilegio de iluminar para las almas aspirantes muchos misterios de la vida. 
 
-Recientemente se hizo otro descubrimiento, el cual, aunque parezca estar tan lejos de contacto con la venida de Cristo, como el Oriente dista del Occidente, proyecta mucha luz sobre este acontecimiento y ante todo sobre la manera de nuestro encuentro con el Señor "en un abrir y cerrar de ojos," como dice la Biblia. Nuestros estudiantes saben perfectamente que al autor no le agrada nada contar sus experiencias propias, pero alguna vez, tal en el caso presente, parece necesario hacerlo así, y pedimos al lector que nos perdone si empleamos el pronombre personal "yo" en el relato de este incidente. 
+La tarea del autor de este libro ha sido la de investigar hechos espirituales y relacionarlos con los físicos, de tal modo que satisfagan la razón y preparen de este modo el camino de la fe. De esta forma ha tenido el privilegio de iluminar para las almas aspirantes muchos misterios de la vida. Recientemente se hizo otro descubrimiento, el cual, aunque parezca estar tan lejos de contacto con la venida de Cristo, como el Oriente dista del Occidente, proyecta mucha luz sobre este acontecimiento y ante todo sobre la manera de nuestro encuentro con el Señor "en un abrir y cerrar de ojos," como dice la Biblia. Nuestros estudiantes saben perfectamente que al autor no le agrada nada contar sus experiencias propias, pero alguna vez, tal en el caso presente, parece necesario hacerlo así, y pedimos al lector que nos perdone si empleamos el pronombre personal "yo" en el relato de este incidente. 
 
 Una noche, hace algún tiempo, mientras me hallaba en camino hacia un país lejano donde tenía que cumplir una misión, oí de repente un grito. Aunque la voz humana puede ser oída solamente en el aire, hay tonos superiores que se oyen en las regiones espirituales, a distancias que exceden a las atravesadas por la telegrafía sin hilos. Este grito, sin embargo, venia de cerca, y yo estuve en el lugar del suceso en un instante, pero no lo bastante pronto como para prestar la ayuda necesaria. Hallé a un hombre resbalando por un terreno abrupto, sin vegetación, de unos doce pies de ancho, y como luego pude comprobar, casi liso, sin la menor grieta donde se pudieran asir los dedos. Para haberle podido salvar hubiera tenido necesidad de materializar los brazos y hombros, pero no había tiempo. En un momento hubo resbalado por el borde del precipicio y cayó al fondo, probablemente hasta varios miles de pies de profundidad, aunque no estoy muy seguro, pues tengo poca facilidad para esta clase de apreciaciones. 
 
@@ -922,38 +942,4 @@ Depende de nosotros mismos cuanto tiempo tengamos que caminar por el desierto. C
 
 Y de este modo tenemos que aprender nuestras lecciones de, servicio: servir a la humanidad, a los animales, a nuestros hermanos inferiores y al mundo entero. Estos servicios, y nada más, nos permitirán el salir del "desierto." Se ha dicho que aquellos que eran los superiores en el templo eran los que servían a los demás; y Cristo dijo: "El que quiera ser el más grande entre vosotros, debe ser el servidor de todos." Debemos todos esforzarnos para prestar este servicio. Con buena voluntad será fácil hacerlo. Entonces algún día, en un porvenir no muy lejano, oiremos aquella dulce voz, la voz del Maestro, que llega a todos los que sirven y escuchan la voz de Dios. 
 
-INDICE DE MATERIAS
-
-PREFACIO 
-Capítulo I: Los días de Noé y de Cristo  
-Capítulo II: El signo del Maestro  
-Capítulo III: ¿Qué cosa es un trabajo espiritual?   
-Capítulo IV: El Camino de la Sabiduría  
-Capítulo V: El secreto del éxito  
-Capítulo VI: La muerte del alma  
-Capítulo VII: El nuevo sentido de la edad futura  
-
-Capítulo VIII: El pueblo escogido de Dios  
-Capítulo IX: Luz mística sobre la guerra mundial - Primera Parte: Resortes secretos  
-Capítulo X: Luz mística sobre la guerra mundial - Segunda Parte: Su promoción de vista espiritual  
-Capítulo XI: Luz mística sobre la guerra mundial - Tercera Parte: Paz en la Tierra  
-Capítulo XII: Luz mística sobre la guerra mundial - Cuarta Parte: El Evangelio de la alegría  
-Capítulo XIII: La significación esotérica de la Pascua de Resurrección. El Periodo inicial de la Filosofía Rosacruz   
-Capítulo XIV: La lección de la Pascua de Resurrección  
-Capítulo XV: El método científico del desarrollo espiritual - Primera Parte: Analogías materiales  
-Capítulo XVI: El método científico del desarrollo espiritual - Segunda Parte: Retrospección. Un medio de evitar el Purgatorio  
-Capítulo XVII: Los Cielos proclaman la gloria de Dios  
-Capítulo XVIII: La Religión y la curación  
-Los Principios de curación Rosacruces  
-Capítulo XIX: Discurso pronunciado con ocasión de iniciar los trabajos de edificación en Mount Reclesia  
-Capítulo XX: Nuestro trabajo en el mundo (Primera Parte)  
-Capítulo XXI: Nuestro trabajo en el mundo (Segunda Parte)  
-Capítulo XXII: Nuestro trabajo en el mundo (Tercera Parte)  
-Capítulo XXIII: Condenación y salvación eternas  
-Capítulo XXIV: El Arco en las nubes  
-Capítulo XXV: La responsabilidad del conocimiento  
-Capítulo XXVI: La peregrinación a través del desierto  
-
-Fin 
-
-
+Fin
