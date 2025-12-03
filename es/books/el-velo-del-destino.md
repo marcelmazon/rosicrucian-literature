@@ -1,47 +1,64 @@
-# EL VELO DEL DESTINO
+---
+title: 'El Velo del Destino'
+language: 'en'
+original_title: "The Web of Destiny"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'the-web-of-destiny.md'
+---
 
-COMO SE TEJE Y DESTEJE
+<h1 id="the-web-of-destiny">EL Velo del Destino</h1>
 
-así como
+Como se Teje y Desteje  
 
-LOS EFECTOS OCULTOS DE NUESTRAS EMOCIONES
+así como  
 
-LA ORACIÓN: UNA INVOCACIÓN MAGICA
+Los Efectos Ocultos de Nuestras Emociones  
+La Oracio̐n: Una Invocación Mágica  
+Métodos Prácticos para Lograr el Éxito  
 
-MÉTODOS PRÁCTICOS PARA LOGRAR EL ÉXITO
+por Max Heindel [1865-1919]
 
-UNA SERIE DE LECCIONES ACERCA DEL LADO INVISIBLE
-DE LA VIDA, QUE SEÑALAN LAS FUERZAS OCULTAS QUE
-DETERMINAN NUESTRO DESTINO
+Una Serie de Lecciones acerca del Lado Invisible de la Vida, que Señalan las Fuerzas Ocultas que Determinan Nuestro Destino
 
-por
-Max Heindel
-[1865-1919]
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, U.S.A.  
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+### <h3 id="table-of-contents">ÍNDICE DE MATERIAS</h3>
 
-Título Original:
+- [PREFACIO](#foreword)
 
-"THE WEB OF DESTINY"
+- [EL VELO DEL DESTINO](#the-web-of-destiny-h2)
+    - [Primera Parte: Investigación espiritual.- El "Cuerpo del Alma"](#the-web-of-destiny-part-1)
+    - [Segunda Parte: El Cristo interno - La "Memoria de la Naturaleza"](#the-web-of-destiny-part-2)
+    - [Tercera Parte: "El Guardián del Umbral" - Espíritus errabundos](#the-web-of-destiny-part-3)
+    - [Cuarta Parte: El "Cuerpo del Pecado" - Posesión por demonios autocreados. - Elementales](#the-web-of-destiny-part-4)
+    - [Quinta Parte: Obsesión del hombre y de los animales](#the-web-of-destiny-part-5)
+    - [Sexta Parte: La creación del ambiente. - La génesis de las enfermedades mentales y físicas](#the-web-of-destiny-part-6)
+    - [Septima Parte: La causa de la enfermedad. - Esfuerzos del Ego para escaparse del cuerpo. - Efectos de la lascivia](#the-web-of-destiny-part-7)
+    - [Octava Parte: Los Rayos de Cristo constituyen el "anhelo interno." - Vista etérica. - Destino Colectivo](#the-web-of-destiny-part-8)
 
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
+- [LOS EFECTOS OCULTOS DE NUESTRAS EMOCIONES](#the-occult-offect-of-our-emotions)
+    - [Primera Parte: La función del deseo](#the-occult-effect-of-our-emotions-part-1)
+    - [Segunda Parte: Los efectos del color de la emoción en las reuniones de las gentes. - El efecto aislante de la inquietud](#the-occult-effect-of-our-emotions-part-2)
+    - [Tercera Parte: Efectos de la guerra sobre el cuerpo de deseos. - El cuerpo vital afectado por las detonaciones de los grandes cañones](#the-occult-effect-of-our-emotions-part-3)
+    - [Cuarta Parte: La naturaleza de los átomos etéreos. - La necesidad del equilibrio](#the-occult-effect-of-our-emotions-part-4)
+    - [Quinta Parte: Los efectos del remoridimiento. - Los peligros del baño excesivo](#the-occult-effect-of-our-emotions-part-5)
 
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
+- [LA ORACIÓN: UNA INVOCACIÓN MÁGICA](#prayer-a-magic-invocation)
+    - [Primera Parte: La naturaleza de la Oración y la preparación para ella](#prayer-a-magic-invocation-part-1)
+        - [Preparación para la Oración. - Ora y trabaja](#preparation-for-prayer-ora-et-labora)
+        - [El lugar de la Oración](#the-place-of-prayer)
+    - [Segunda Parte: Las alas y la fuerza. - La Invocación. - El Climax](#prayer-a-magic-invocation-part-2)
+        - [Las alas y la fuerza](#the-wings-and-the-power)
+        - [La posición del cuerpo](#the-position-of-the-body)
+        - [La Invocación](#the-invocation)
+        - [El Climax Final](#the-final-climax)
 
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
+- [MÉTODOS PRÁCTICOS PARA ALCANZAR EL ÉXITO - Basados en la conservación de la fuerza sexual](#practical-methods-of-achieving-success-based-upon-conservation-of-sex-force)
 
 ### PREFACIO
 
@@ -602,41 +619,5 @@ Si otra vez dirigimos nuestro pensamiento al reino vegetal, obtendremos una demo
 Las frutas sin semilla son mayores y de un sabor más agradable que las que tienen huesos o semillas, porque en aquéllas toda la savia se ha empleado con el exclusivo propósito de hacer la fruta deliciosa y suculenta. De igual modo, si nosotros en vez de desperdiciar nuestra substancia vivimos castamente y dirigimos nuestra fuerza procreadora hacia la regeneración, refinaremos y eterealizaremos nuestros vehículos físicos al mismo tiempo que fortalecemos nuestro cuerpo y el alma. De este modo podremos materialmente prolongar nuestra vida y como consecuencia aumentar nuestras probabilidades y ocasiones para el crecimiento del alma y avanzar en el sendero a un paso más acelerado. 
 
 Cuando comprendamos que el éxito no consiste meramente en la acumulación de riquezas sino en desarrollo anímico, se nos hará evidente que la continencia es un factor importante en la consecución del triunfo en la vida. 
-
-ÍNDICE DE MATERIAS
-
-PREFACIO
-
-Primera Parte: Investigación espiritual.- El "Cuerpo del Alma"  
-Segunda Parte: El Cristo interno - La "Memoria de la Naturaleza"  
-Tercera Parte: "El Guardián del Umbral" - Espíritus errabundos  
-Cuarta Parte: El "Cuerpo del Pecado" - Posesión por demonios autocreados. - Elementales  
-Quinta Parte: Obsesión del hombre y de los animales  
-Sexta Parte: La creación del ambiente. - La génesis de las enfermedades mentales y físicas  
-Septima Parte: La causa de la enfermedad. - Esfuerzos del Ego para escaparse del cuerpo. - Efectos de la lascivia  
-Octava Parte: Los Rayos de Cristo constituyen el "anhelo interno." - Vista etérica. - Destino Colectivo  
-
-LOS EFECTOS OCULTOS DE NUESTRAS EMOCIONES
-
-Primera Parte: La función del deseo   
-Segunda Parte: Los efectos del color de la emoción en las reuniones de las gentes. - El efecto aislante de la inquietud  
-Tercera Parte: Efectos de la guerra sobre el cuerpo de deseos. - El cuerpo vital afectado por las detonaciones de los grandes cañones  
-Cuarta Parte: La naturaleza de los átomos etéreos. - La necesidad del equilibrio  
-Quinta Parte: Los efectos del remoridimiento. - Los peligros del baño excesivo  
-
-LA ORACIÓN: UNA INVODACIÓN MÁGICA
-
-Primera Parte: La naturaleza de la Oración y la preparación para ella  
-Preparación para la Oración. - Ora y trabaja  
-El lugar de la Oración  
-Segunda Parte: Las alas y la fuerza. - La Invocación. - El Climax  
-Las alas y la fuerza  
-La posición del cuerpo   
-La Invocación   
-El Climax Final  
-
-MÉTODOS PRÁCTICOS PARA ALCANZAR EL ÉXITO
-
-Basados en la conservación de la fuerza sexual   
 
 Fin 
