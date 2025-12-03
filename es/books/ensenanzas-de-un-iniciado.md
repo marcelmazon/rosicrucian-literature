@@ -80,9 +80,7 @@ Cuando un proyectil voluminoso pasa por el aire, forma un vacío detrás de él 
 
 Si las personas que sufren un accidente de esta naturaleza hubiesen conocido el modo de practicar los ejercicios que separan los éteres superiores de los inferiores, habrían podido hallarse fuera del cuerpo en plena conciencia, y quizá preparadas para su primer vuelo del alma, si hubieran tenido el valor de emprenderlo. En todo caso se puede afirmar con seguridad que a su regreso al cuerpo denso no hubieran sentido casi ninguna incomodidad, y en el caso de haber sido el vacío bastante fuerte para extraer los cuatro éteres y causar la muerte, probablemente no habría habido pérdida alguna de la conciencia, tal como domina a las personas en general, porque se ha descubierto que las personas que decían que habían perdido la conciencia solo durante momento, se equivocaban. Se necesitó el transcurso de uno hasta varios días, en los casos investigados por nosotros, para que el cuerpo vital estuviese reorganizado y la conciencia restablecida. 
 
-Vamos a ver ahora lo que tienen que ver estos hechos recientemente descubiertos con la venida de Cristo y nuestro encuentro con El. Mientras vivíamos en la antigua Atlántida, en las cuencas de su suelo, la presión de la neblina cargada de humedad era muy grande. En su consecuencia se endurecía el cuerpo denso, y otro de sus resultados fue el que las vibraciones de los cuatro vehículos superiores que lo interpenetran quedaron considerablemente retardadas. Esto fue especialmente cierto con el cuerpo vital, que se compone de éter, es decir, un grado de materia perteneciente al mundo físico y sujeto a algunas leyes físicas. La fuerza vital del Sol no penetraba la neblina densa en la misma abundancia como lo hace en la clara atmósfera de ahora. Si añadimos a esto el hecho de que los cuerpos vitales de aquel tiempo estaban casi enteramente compuestos de los dos éteres inferiores, que fomentan la asimilación y la reproducción, comprenderemos que el progreso era entonces muy lento. 
-
-El hombre llevaba una existencia casi puramente vegetativa, y sus principales esfuerzos eran la obtención de alimentos y la reproducción de su especie. 
+Vamos a ver ahora lo que tienen que ver estos hechos recientemente descubiertos con la venida de Cristo y nuestro encuentro con El. Mientras vivíamos en la antigua Atlántida, en las cuencas de su suelo, la presión de la neblina cargada de humedad era muy grande. En su consecuencia se endurecía el cuerpo denso, y otro de sus resultados fue el que las vibraciones de los cuatro vehículos superiores que lo interpenetran quedaron considerablemente retardadas. Esto fue especialmente cierto con el cuerpo vital, que se compone de éter, es decir, un grado de materia perteneciente al mundo físico y sujeto a algunas leyes físicas. La fuerza vital del Sol no penetraba la neblina densa en la misma abundancia como lo hace en la clara atmósfera de ahora. Si añadimos a esto el hecho de que los cuerpos vitales de aquel tiempo estaban casi enteramente compuestos de los dos éteres inferiores, que fomentan la asimilación y la reproducción, comprenderemos que el progreso era entonces muy lento. El hombre llevaba una existencia casi puramente vegetativa, y sus principales esfuerzos eran la obtención de alimentos y la reproducción de su especie. 
 
 Si tal hombre hubiese sido trasplantado a nuestras condiciones atmosféricas, la falta de presión exterior habría provocado una salida del cuerpo vital, lo que significa la muerte. Gradualmente el cuerpo físico se hizo menos denso y el volumen de los dos éteres superiores aumentó, de modo que el hombre se capacitó poco a poco para vivir en una atmósfera clara y bajo una presión disminuida, tal como la que disfrutamos desde el Diluvio, cuando se condensó la neblina. Desde aquella época hemos podido también asimilar más de la fuerza vital del Sol. La mayor proporción de los dos éteres superiores que se encuentra ahora en nuestros cuerpos vitales, nos capacita para expresar los más elevados atributos humanos que son propios del desarrollo de esta época. 
 
@@ -98,7 +96,7 @@ Los resultados de la investigación que forman la base del presente artículo pu
 
 Ojalá podamos todos estar preparados para aquel día por haber seguido Sus pasos. 
 
-### CAPÍTULO II: EL SIGNO DEL MAESTRO
+### <h3 id="chapter-2">CAPÍTULO II: EL SIGNO DEL MAESTRO</h3>
 
 Actualmente hay muchos, que juzgando por los signos de los tiempos, creen que Cristo está a punto de venir y están esperándole llenos de gozo. Según la opinión del autor, no obstante, las "cosas que primeramente han de suceder" no han sucedido aún en lo que se refiere a muchas particularidades importantes, y además no debemos olvidar que El dijo que: "Lo mismo que sucedió en tiempos de Noé, también sucederá el día del Hijo del Hombre." Entonces comían, bebían y Vivian alegremente; se casaban y se daban en matrimonio hasta el momento mismo del diluvio que les tragó. Solamente se salvó un pequeño número. Por consiguiente, nosotros que anhelamos Su venida haremos bien el hacer de modo que no se cumpla nuestra fervorosa demanda antes de que estemos preparados, porque El dijo: "El día del Señor vendrá como un ladrón en la noche." 
 
@@ -106,9 +104,7 @@ Pero hay también otro peligro, un gran peligro que Cristo puntualizó diciendo:
 
 Pero, por otra parte, si no investigamos, ¿cómo lo podremos saber? ¿Es que no cabe el riesgo de que rechacemos a Cristo si nos negamos a hacer caso a cualquier pretendiente, y si juzgamos a cada uno según sus méritos? Al examinar los preceptos de la Biblia respecto a este particular, éstos parecen extraños y no en consonancia cor los fines cuyo alcance deberían facilitarnos, y la gran cuestión: "¿Cómo conoceremos a Cristo en Su venida?" sigue sin solución. Hemos publicado un folleto sobre este asunto, pero nos parece que una iluminación adicional será bien recibida por todos. 
 
-Cristo dijo que algunos de los Cristos falsos operarían signos y milagros. El siempre se negó a probar Su divinidad de tal manera sórdida cuando los escribas y fariseos se lo pidieron, porque sabía que los fenómenos solamente excitan el sentido de lo maravilloso y agudizan el apetito para más. Aquellos que son testigos de semejantes manifestaciones son alguna vez sinceros en su esfuerzo de convencer a otros, pero en general estos últimos parecen decirles: 
-
-"Usted dice que le ha visto hacer tal o cual cosa y por esto usted cree. ¡Perfectamente! Estoy también dispuesto a dejarme convencer. Que él me lo haga ver a mi también." 
+Cristo dijo que algunos de los Cristos falsos operarían signos y milagros. El siempre se negó a probar Su divinidad de tal manera sórdida cuando los escribas y fariseos se lo pidieron, porque sabía que los fenómenos solamente excitan el sentido de lo maravilloso y agudizan el apetito para más. Aquellos que son testigos de semejantes manifestaciones son alguna vez sinceros en su esfuerzo de convencer a otros, pero en general estos últimos parecen decirles: "Usted dice que le ha visto hacer tal o cual cosa y por esto usted cree. ¡Perfectamente! Estoy también dispuesto a dejarme convencer. Que él me lo haga ver a mi también." 
 
 Pero aun suponiendo que un Maestro estuviese dispuesto a probar su identidad, ¿quién entre la gran masa está calificado para juzgar la validez de la prueba? Nadie. ¿Quién conoce el signo del Maestro cuando lo ve? Ninguno. El signo del Maestro no es un fenómeno que puede ser repudiado por los sofistas; no es tampoco algo que el Maestro pueda enseñar o ocultar a su antojo, ni que pueda recoger o apartar cuando guste. El tiene que llevarlo consigo forzosa y continuamente, lo mismo como nosotros llevamos brazos y piernas. Sería tan imposible ocultar el signo del Maestro a los calificados para verlo, conocerlo y juzgarlo, como lo seria para nosotros ocultar nuestros miembros a los que tienen vista física. Por otro lado, como el signo del Maestro es espiritual, ha de ser percibido espiritualmente, y por consiguiente, es tan imposible enseñar el signo del Maestro a aquellos que carecen de vista espiritual, como lo es el enseñar una figura física a una persona físicamente ciega. 
 
@@ -128,9 +124,7 @@ Ni la tierra ni sus habitantes eran capaces de mantener su equilibrio en el espa
 
 De este modo, en el momento de su bautismo, Jesús se convirtió en "un Hijo de la Paloma" y fue reconocido por otro "Simón Bar-Jonás," (Simón, hijo de la Paloma). Al hacer este reconocimiento por el signo de la paloma, el Maestro llamó al otro "una roca," una Piedra fundamental y le prometió las "Llaves del Cielo." Estas no son palabras huecas ni promesas vagas, sino que en ellas hay envueltas distintas fases de desarrollo del alma a las que cada uno tiene que someterse si no ha pasado aún por ellas. 
 
-¿Qué es entonces el "signo de Jonás" que el Cristo llevó siempre consigo, visible para todos los que podían verlo más que "la casa del cielo," con la cual San Pablo deseaba ser vestido: la casa del tesoro glorioso en la cual todos los actos nobles de muchas vidas brillan y lucen como perlas preciosas? Todos tenemos una pequeña "casa del cielo." Jesús, santo y puro, mucho más que los demás, era probablemente de un aspecto de gran esplendor, pero ¡cuán indescriptiblemente más luminoso debe ser el vehículo del esplendor en el cual descendió el Cristo! Considerando esto, nos podremos hacer una idea de la "ceguera" de aquellos que pedían "una señal." Hasta entre Sus mismos discípulos El hallaba la misma catarata espiritual. 
-
-"Enséñanos al Padre," dijo Felipe, olvidándose de la mística Trinidad en la Unidad que hubiera debido ser obvia para él. Simón, sin embargo fue rápido para percibirle, porque, por medio de la alquimia espiritual había preparado esta petros o "piedra" filosofal que le daba derecho para poseer las "llaves del Reino"; una iniciación que permite al candidato el empleo de los poderes latentes evolucionados por el servicio. 
+¿Qué es entonces el "signo de Jonás" que el Cristo llevó siempre consigo, visible para todos los que podían verlo más que "la casa del cielo," con la cual San Pablo deseaba ser vestido: la casa del tesoro glorioso en la cual todos los actos nobles de muchas vidas brillan y lucen como perlas preciosas? Todos tenemos una pequeña "casa del cielo." Jesús, santo y puro, mucho más que los demás, era probablemente de un aspecto de gran esplendor, pero ¡cuán indescriptiblemente más luminoso debe ser el vehículo del esplendor en el cual descendió el Cristo! Considerando esto, nos podremos hacer una idea de la "ceguera" de aquellos que pedían "una señal." Hasta entre Sus mismos discípulos El hallaba la misma catarata espiritual. "Enséñanos al Padre," dijo Felipe, olvidándose de la mística Trinidad en la Unidad que hubiera debido ser obvia para él. Simón, sin embargo fue rápido para percibirle, porque, por medio de la alquimia espiritual había preparado esta petros o "piedra" filosofal que le daba derecho para poseer las "llaves del Reino"; una iniciación que permite al candidato el empleo de los poderes latentes evolucionados por el servicio. 
 
 Así, pues, vemos que estas "piedras" para el "templo construido sin manos," sufren una evolución o proceso de preparación. En primer lugar tenemos la "petros," el diamante en bruto, por así decirlo, tal como se encuentra en la naturaleza. Cuando se leen con el corazón tales versículos, como la primera Epístola a los Corintios, 10, 4: "Y todos bebieron de la misma bebida espiritual, porque bebieron de aquella roca espiritual (Petros) que les seguía, y esta Roca era Cristo," arrojan mucha luz sobre el asunto. Gradualmente, muy lentamente, hemos sido impregnados con el agua de la vida que brotó de la Gran Roca. También hemos sido pulimentados como "lithoi zontes" ("piedras vivientes") destinadas a ser unidas con aquella Piedra Grande que el Arquitecto hubo desdeñado; y cuando hayamos obrado debidamente hasta el final, recibiremos en el Reino la diadema más preciosa de todas, él "psiphon leuken" (la piedra blanca) con su Nombre Nuevo. 
 
@@ -138,37 +132,135 @@ Hay tres pasos en la evolución de la "Piedra del Sabio": Petros, la roca firme 
 
 Si esperamos edificar el Templo Viviente con Cristo en el Reino, haremos bien en prepararnos para tener cabida en él, y entonces conoceremos al Maestro y también el Signo del Maestro. 
 
-### CAPÍTULO III: ¿QUE COSA ES UN TRABAJO ESPIRITUAL?
+### <h3 id="chapter-3">CAPÍTULO III: ¿QUE COSA ES UN TRABAJO ESPIRITUAL?</h3>
 
 Respecto a este tema vamos a dar algunos extractos del hermoso poema de Longfellow llamado "La bellísima leyenda": 
 
-"Solo en su aposento, arrodillado en las losas, el monje, muy contrito, estaba rezando, acusándose de sus pecados de indecisión, y pidiendo fuerzas para un mayor altruismo y para poder resistir las pruebas y tentaciones; era la hora del medio día y el monje estaba solitario. De repente, como un relámpago, un esplendor inusitado brilló dentro y fuera de él llenando de gloria su estrecha celda de piedra. Y vio la Bendita Visión de Nuestro Señor, rodeado de luz celestial que le envolvía como si fuera una vestidura y como un vasto manto que le rodease." 
+```
+"Solo en su aposento, 
+arrodillado en las losas, 
+el monje, muy contrito, estaba rezando, 
+acusándose de sus pecados de indecisión, 
+y pidiendo fuerzas para un mayor altruismo 
+y para poder resistir las pruebas y tentaciones; 
+era la hora del medio día 
+y el monje estaba solitario. 
+
+De repente, como un relámpago, 
+un esplendor inusitado brilló 
+dentro y fuera de él llenando de gloria 
+su estrecha celda de piedra. 
+Y vio la Bendita Visión 
+de Nuestro Señor, rodeado de luz celestial 
+que le envolvía como si fuera una vestidura 
+y como un vasto manto que le rodease." 
+```
 
 Este; sin embargo, no era el Salvador doliente, sino el Cristo dando de comer a los hambrientos y curando a los enfermos. 
 
-"En actitud implorante y con las manos cruzadas sobre el pecho, maravillado, admirado y en adoración, estaba el monje arrodillado y en profundo éxtasis. 
+```
+"En actitud implorante 
+y con las manos cruzadas sobre el pecho, 
+maravillado, admirado y en adoración, 
+estaba el monje arrodillado y en profundo éxtasis. 
 
-"Y durante esta exaltación oyó de repente la llamada de la campana del convento, que sonaba con tal vehemencia y estridencia del patio al corredor, como nunca lo había oído antes." 
+* * * * * *
+
+"Y durante esta exaltación 
+oyó de repente la llamada 
+de la campana del convento, 
+que sonaba con tal vehemencia y estridencia 
+del patio al corredor, 
+como nunca lo había oído antes." 
+```
 
 La campana sonaba llamándole para cumplir con su deber de dar de comer a los pobres, como Cristo lo había hecho, porque él era el limosnero de la comunidad. 
 
-"Entonces su adoración se llenó de tristeza y vacilación, no sabiendo si debía marcharse o quedarse. ¿Dejaría a los pobres hambrientos que le esperasen a la puerta del convento hasta que la Visión hubiese pasado? ¿Debería abandonar a su visitante celeste para acudir a unos harapientos mendigos que en salvaje tropel le esperaban en el portal? ¿Es que la Visión permanecería allí, o volvería después? Entonces una voz en su pecho susurró, muy claramente perceptible, como si entrase por los oídos: "Haz tu deber que es lo mejor, y deja lo demás en manos del Señor." 
+```
+"Entonces su adoración 
+se llenó de tristeza y vacilación, 
+no sabiendo si debía marcharse o quedarse. 
+¿Dejaría a los pobres hambrientos que le esperasen 
+a la puerta del convento 
+hasta que la Visión hubiese pasado? 
+¿Debería abandonar a su visitante celeste 
+para acudir a unos harapientos mendigos 
+que en salvaje tropel 
 
-"En el acto se levantó, y con suplicante mirada se inclinó ante la Bendita Visión, y despacito salió de su celda para cumplir con su santa misión. 
+le esperaban en el portal? 
+¿Es que la Visión permanecería allí, 
+o volvería después? 
+Entonces una voz en su pecho susurró, 
+muy claramente perceptible, 
+como si entrase por los oídos: 
+"Haz tu deber que es lo mejor, 
+y deja lo demás en manos del Señor." 
 
-"En el portal estaban los pobres esperando, con aquel terror en la mirada que solo se nota en los que, estando en la miseria, ven que se les cierran todas las puertas y que nadie hace caso de ellos, pero que se hacen familiares tanto con la desgracia como con el sabor del pan que los hombres les dan. Pero hoy, sin saber por qué, les pareció que las puertas del convento se abrían como si fueran las del paraíso, y el pan y el vino les pareció un divino sacramento. El monje, interiormente, estaba rezando y pensando en los sufrimientos de los pobres sin hogar que sufren y aguantan lo que vemos y lo que no vemos, y la voz interna le decía: "¡Aquello que hayas hecho al más pobre y miserable de los míos, es como si me lo hubieras hecho a mi!" 
+"En el acto se levantó, 
+y con suplicante mirada 
+se inclinó ante la Bendita Visión, 
+y despacito salió de su celda 
+para cumplir con su santa misión. 
 
-"¡A mi," pero ¿si la Visión se le hubiese presentado en forma de un mendigo harapiento, la habría recibido de rodillas y en adoración, o acaso se habría separado de ella mofándose? 
+"En el portal estaban 
+los pobres esperando, 
+con aquel terror en la mirada 
+que solo se nota en los que, 
+estando en la miseria, 
+ven que se les cierran todas las puertas 
+y que nadie hace caso de ellos, 
+pero que se hacen familiares tanto con la desgracia 
+como con el sabor 
+del pan que los hombres les dan. 
+Pero hoy, sin saber por qué, 
+les pareció que las puertas del convento 
+se abrían como si fueran las del paraíso, 
 
-"De este modo su conciencia le interrogaba con sutiles sugestiones, cuando él con paso rápido volvía hacia su celda; y viendo que todo el convento estaba lleno de una luz sobrenatural, como si una nube luminosa se extendiese por los techos y los suelos. 
+y el pan y el vino les pareció 
+un divino sacramento. 
+El monje, interiormente, estaba rezando 
+y pensando en los sufrimientos de los pobres sin hogar 
+que sufren y aguantan 
+lo que vemos y lo que no vemos, 
+y la voz interna le decía: 
+"¡Aquello que hayas hecho 
+al más pobre y miserable de los míos, 
+es como si me lo hubieras hecho a mi!" 
 
-"Y en el umbral de su puerta se quedó inmóvil de espanto, viendo que la Visión aún estaba allí, tal como él la había dejado cuando la campana del convento le llamó para dar de comer a los pobres. Durante toda su ausencia le había estado esperando, él sintió arder su corazón, comprendiendo todo su significado, cuando la Bendita Visión le dijo de este modo: "¡Si tú te hubieses quedado, yo me hubiera ido!" 
+"¡A mi," pero ¿si la Visión 
+se le hubiese presentado en forma 
+de un mendigo harapiento, 
+la habría recibido de rodillas y en adoración, 
+o acaso se habría separado 
+de ella mofándose? 
+
+"De este modo su conciencia 
+le interrogaba con sutiles sugestiones, 
+cuando él con paso rápido 
+volvía hacia su celda; y
+viendo que todo el convento estaba lleno 
+de una luz sobrenatural, 
+como si una nube luminosa se extendiese 
+por los techos y los suelos. 
+
+"Y en el umbral de su puerta 
+se quedó inmóvil de espanto, 
+viendo que la Visión aún estaba allí, 
+tal como él la había dejado 
+cuando la campana del convento 
+le llamó para dar 
+de comer a los pobres. 
+Durante toda su ausencia 
+le había estado esperando, 
+él sintió arder su corazón, 
+comprendiendo todo su significado, 
+cuando la Bendita Visión le dijo de este modo: 
+"¡Si tú te hubieses quedado, yo me hubiera ido!" 
+```
 
 Permítame el lector que relate un cuento: 
 
-Hace siglos y siglos -tantos que en efecto parece que fue ayer- la tierra estaba envuelta en completa oscuridad y los hombres anhelaban la luz. Hubo algunos que la habían encontrado, y que trataron de enseñar a los otros el reflejo de ella, y estos hombres fueron asiduamente buscados por todos. Entre ellos hubo uno que había estado en la ciudad de la luz durante una pequeña temporada y había absorbido allí algo de su brillo. Todos los habitantes del país de la oscuridad se fueron enseguida en su búsqueda. Viajaron miles de leguas porque habían oído hablar de esta luz, y cuando aquel privilegiado supo que un grupo numeroso se dirigía hacia su casa, se puso a trabajar para prepararles un digno recibimiento. Instaló postes alrededor de su casa y puso en ellos luces para que sus visitantes no se hicieran ningún daño en la oscuridad. 
-
-Tanto él como los de su casa les recibieron con los brazos abiertos y él les enseñó lo mejor que sabía. 
+Hace siglos y siglos -tantos que en efecto parece que fue ayer- la tierra estaba envuelta en completa oscuridad y los hombres anhelaban la luz. Hubo algunos que la habían encontrado, y que trataron de enseñar a los otros el reflejo de ella, y estos hombres fueron asiduamente buscados por todos. Entre ellos hubo uno que había estado en la ciudad de la luz durante una pequeña temporada y había absorbido allí algo de su brillo. Todos los habitantes del país de la oscuridad se fueron enseguida en su búsqueda. Viajaron miles de leguas porque habían oído hablar de esta luz, y cuando aquel privilegiado supo que un grupo numeroso se dirigía hacia su casa, se puso a trabajar para prepararles un digno recibimiento. Instaló postes alrededor de su casa y puso en ellos luces para que sus visitantes no se hicieran ningún daño en la oscuridad. Tanto él como los de su casa les recibieron con los brazos abiertos y él les enseñó lo mejor que sabía. 
 
 Pero pronto algunos de sus visitantes empezaron a murmurar. Ellos habían creído encontrarle sentado en un pedestal radiante de luz celestial, y en su fantasía se habían visto adorándole en su trono, pero en vez de la luz espiritual que ellos habían esperado hallar le habían hallado en el preciso instante de encender las luces eléctricas para alumbrar la casa. Él no llevaba siquiera un turbante o un manto, porque la orden a la cual él pertenecía tenía como una de sus reglas fundamentales la de que sus miembros debían vestir los trajes del; país en el cual vivían. 
 
@@ -182,31 +274,26 @@ El monje de "La Bellísima Leyenda" le vio de este modo cuando estaba sumergido 
 
 Semejante egoísmo hubiera sido absolutamente contrario al fin que él perseguía. Si no hubiera sido fiel en cosas pequeñas referentes a obligaciones terrestres, ¿cómo se podría suponer que seria fiel en la gran obra espiritual? Naturalmente, a menos de ser capaz de salir victorioso de la prueba, no se le hubieran dado mayores poderes. 
 
-Hay muchas personas que buscan poderes espirituales, yendo de un, así llamado, Centro oculto a otro, entrando en monasterios y otros lugares de reclusión y esperando que por el hecho de huir del ruido mundanal cultivaran su naturaleza espiritual. Ellos se absorben en el sol de la oración y de la meditación desde la mañana hasta la noche, mientras el mundo alrededor de ellos está agonizando de dolor. Y entonces estas personas se extrañan de que no progresen y de que no adelanten en el sendero de la aspiración. Indudablemente la verdadera oración y meditación son necesarias y absolutamente esenciales para el crecimiento del alma. Pero estamos condenados al fracaso si para el crecimiento del alma dependemos de oraciones que no son más que palabras. 
+Hay muchas personas que buscan poderes espirituales, yendo de un, así llamado, Centro oculto a otro, entrando en monasterios y otros lugares de reclusión y esperando que por el hecho de huir del ruido mundanal cultivaran su naturaleza espiritual. Ellos se absorben en el sol de la oración y de la meditación desde la mañana hasta la noche, mientras el mundo alrededor de ellos está agonizando de dolor. 
 
-Al fin de obtener resultados, debemos vivir de tal modo que toda nuestra vida se convierta en una oración, en una aspiración. como dice Emerson: 
+Y entonces estas personas se extrañan de que no progresen y de que no adelanten en el sendero de la aspiración. Indudablemente la verdadera oración y meditación son necesarias y absolutamente esenciales para el crecimiento del alma. Pero estamos condenados al fracaso si para el crecimiento del alma dependemos de oraciones que no son más que palabras. Al fin de obtener resultados, debemos vivir de tal modo que toda nuestra vida se convierta en una oración, en una aspiración. como dice Emerson: 
 
-"Aunque tus rodillas no se doblen nunca, al cielo van a parar tus oraciones diarias, y ya sean dictadas para bien o para mal, son tenidas en cuenta y contestadas." 
+```
+"Aunque tus rodillas no se doblen nunca, 
+al cielo van a parar tus oraciones diarias, 
+y ya sean dictadas para bien o para mal, 
+son tenidas en cuenta y contestadas." 
+```
 
 No son las palabras que pronunciamos en momentos de oración las que cuentan, sino la vida que nos lleva a la oración. 
 
-¿De qué sirve rogar por la paz en la tierra el domingo si durante toda la semana nos dedicamos a fabricar balas? 
+¿De qué sirve rogar por la paz en la tierra el domingo si durante toda la semana nos dedicamos a fabricar balas? ¿Cómo podemos pedir a Dios que nos perdone nuestras faltas como nosotros perdonamos las cometidas contra nosotros, si llevamos odio en el corazón? 
 
-¿Cómo podemos pedir a Dios que nos perdone nuestras faltas como nosotros perdonamos las cometidas contra nosotros, si llevamos odio en el corazón? 
+No hay más que un camino para demostrar nuestra fe, y éste es el de nuestras obras. No importa en qué departamento de la vida estemos colocados, ya estemos arriba o abajo, o ya seamos ricos o pobres; es lo mismo que estemos ocupados en la colocación de lámparas eléctricas para preservar a los demás de una caída, o que tengamos el privilegio de ser oradores y podamos sembrar la luz espiritual e indicar a otros el camino del alma. Es absolutamente indistinto que nuestras manos estén callosas y ásperas por una labor ruda, quizá la de cavar un canal para mantener la limpieza en una población, o que estén tan suaves y tan blancas como se requiere para atender a un enfermo. 
 
-No hay más que un camino para demostrar nuestra fe, y éste es el de nuestras obras. No importa en qué departamento de la vida estemos colocados, ya estemos arriba o abajo, o ya seamos ricos o pobres; es lo mismo que estemos ocupados en la colocación de lámparas eléctricas para preservar a los demás de una caída, o que tengamos el privilegio de ser oradores y podamos sembrar la luz espiritual e indicar a otros el camino del alma. 
+El factor determinante que decide si una clase de trabajo es espiritual o material es nuestra actitud en él asunto. El hombre que coloca bombillas eléctricas puede, ser muchísimo más espiritual que el que está pronunciando un discurso, porque, desgraciadamente, hay muchos que se dedican a este sagrado deber con el deseo de halagar los oídos de sus oyentes con hermosas palabras en vez de darles amor y simpatía. Es un trabajo mucho más noble el de limpiar una cloaca, como lo hacía el hermano desdeñado en la obra de Kennedy "El sirviente en la Casa," que el vivir falsamente con la dignidad de un profesor, que implica una espiritualidad que realmente no existe. Todos los que tratan de cultivar esta rara cualidad que se llama espiritualidad, tienen que empezar siempre por hacer todo por la gloria del Señor; porque cuando hacemos todas las cosas como para el Señor, no importa qué clase de trabajo hagamos; cavar la tierra, hacer una invención, predicar el evangelio o cualquier otra cosa, es trabajo espiritual desde el momento que lo hacemos por el amor de Dios y de los hombres. 
 
-Es absolutamente indistinto que nuestras manos estén callosas y ásperas por una labor ruda, quizá la de cavar un canal para mantener la limpieza en una población, o que estén tan suaves y tan blancas como se requiere para atender a un enfermo. 
-
-El factor determinante que decide si una clase de trabajo es espiritual o material es nuestra actitud en él asunto. 
-
-El hombre que coloca bombillas eléctricas puede, ser muchísimo más espiritual que el que está pronunciando un discurso, porque, desgraciadamente, hay muchos que se dedican a este sagrado deber con el deseo de halagar los oídos de sus oyentes con hermosas palabras en vez de darles amor y simpatía. 
-
-Es un trabajo mucho más noble el de limpiar una cloaca, como lo hacía el hermano desdeñado en la obra de Kennedy "El sirviente en la Casa," que el vivir falsamente con la dignidad de un profesor, que implica una espiritualidad que realmente no existe. 
-
-Todos los que tratan de cultivar esta rara cualidad que se llama espiritualidad, tienen que empezar siempre por hacer todo por la gloria del Señor; porque cuando hacemos todas las cosas como para el Señor, no importa qué clase de trabajo hagamos; cavar la tierra, hacer una invención, predicar el evangelio o cualquier otra cosa, es trabajo espiritual desde el momento que lo hacemos por el amor de Dios y de los hombres. 
-
-### CAPÍTULO IV: EL CAMINO DE LA SABIDURÍA 
+### <h3 id="chapter-4">CAPÍTULO IV: EL CAMINO DE LA SABIDURÍA</h3>
 
 Hace ya varios años que la enseñanza de los Hermanos Mayores fue publicada por primera vez en el Concepto Rosacruz del Cosmos, y desde entonces nuestra literatura ha ido aumentando. Ahora parece llegado el momento de examinar nuestra obra para ver lo que hemos hecho con el tesoro que nos fue confiado. 
 
@@ -214,13 +301,9 @@ En primer lugar conviene que nos demos cuenta de que la razón por la cual estam
 
 Sabemos que no podemos continuar hartándonos de alimentos y retener lo que hemos comido y que a menos que la eliminación mantenga el equilibrio, la muerte se presentará muy pronto. Tampoco podemos impunemente hartarnos de alimentación mental; tenemos que partir nuestro tesoro con otros y emplear nuestros conocimientos en alguna obra útil para los demás, o de otro modo correremos el riesgo del estancamiento en el pantano cenagoso de la especulación metafísica. 
 
-Durante los años que han pasado después de la publicación del Concepto Rosacruz del Cosmos, los estudiantes han tenido el tiempo suficiente para familiarizarse con sus enseñanzas. Ya no podemos excusarnos diciendo que no conocemos la filosofía rosacruz, porque no hemos tenido tiempo para estudiarla y que por esta razón no podemos explicarla a otras personas. Aun aquellos que han tenido poquísimo tiempo por los deberes inherentes a sus cargos en este mundo, deben estar ahora bastante bien preparados para "dar una prueba de su fe, como San Pablo nos exhortó a todos a hacer. Aunque no podarnos enseñar la luz a todos los que nos la pidan es un deber para con nosotros, para con los Hermanos Mayores y para con la humanidad, el de hacer una tentativa. 
+Durante los años que han pasado después de la publicación del Concepto Rosacruz del Cosmos, los estudiantes han tenido el tiempo suficiente para familiarizarse con sus enseñanzas. Ya no podemos excusarnos diciendo que no conocemos la filosofía rosacruz, porque no hemos tenido tiempo para estudiarla y que por esta razón no podemos explicarla a otras personas. Aun aquellos que han tenido poquísimo tiempo por los deberes inherentes a sus cargos en este mundo, deben estar ahora bastante bien preparados para "dar una prueba de su fe, como San Pablo nos exhortó a todos a hacer. Aunque no podarnos enseñar la luz a todos los que nos la pidan es un deber para con nosotros, para con los Hermanos Mayores y para con la humanidad, el de hacer una tentativa. El desarrollo de nuestra propia alma depende de la parte que tomemos en el fomento del movimiento al cual nos hemos unido, y por este motivo es conveniente que nos demos perfecta cuenta de cuál es la misión de La Fraternidad Rosacruz. 
 
-El desarrollo de nuestra propia alma depende de la parte que tomemos en el fomento del movimiento al cual nos hemos unido, y por este motivo es conveniente que nos demos perfecta cuenta de cuál es la misión de La Fraternidad Rosacruz. 
-
-Esto está perfecta y claramente explicado en la introducción del "Concepto Rosacruz del Cos- mos." En pocas palabras, esta misión consiste en dar una explicación del problema de la vida que pueda satisfacer tanto a la mente como al corazón, y de este modo resolver las perplejida- des de las dos clases de personas que ahora se mueven en las tinieblas por falta de esta ciencia unificadora, y que en líneas generales se pueden denominar para la discusión de nuestro punto de vista, como personas creyentes y personas científicas. Entre las primeras podemos incluir todas aquellas personas que se dejan guiar por una sincera devoción o por una bondad natural, pertenezcan o no a alguna Iglesia. En la segunda clase se deben incluir todas las que miran a la vida desde un punto de vista puramente intelectual o mental, sin pararnos a distinguir si están clasificadas como científicas o no. 
-
-Es fin y propósito del "Concepto Rosacruz del Cosmos" de ampliar el horizonte espiritual de un número rápidamente creciente de estas dos clases de personas, que se dan más o menos perfecta cuenta de que hay algo de importancia vital, que les falta en su modo actual de mirar la vida. 
+Esto está perfecta y claramente explicado en la introducción del "Concepto Rosacruz del Cosmos." En pocas palabras, esta misión consiste en dar una explicación del problema de la vida que pueda satisfacer tanto a la mente como al corazón, y de este modo resolver las perplejida- des de las dos clases de personas que ahora se mueven en las tinieblas por falta de esta ciencia unificadora, y que en líneas generales se pueden denominar para la discusión de nuestro punto de vista, como personas creyentes y personas científicas. Entre las primeras podemos incluir todas aquellas personas que se dejan guiar por una sincera devoción o por una bondad natural, pertenezcan o no a alguna Iglesia. En la segunda clase se deben incluir todas las que miran a la vida desde un punto de vista puramente intelectual o mental, sin pararnos a distinguir si están clasificadas como científicas o no. Es fin y propósito del "Concepto Rosacruz del Cosmos" de ampliar el horizonte espiritual de un número rápidamente creciente de estas dos clases de personas, que se dan más o menos perfecta cuenta de que hay algo de importancia vital, que les falta en su modo actual de mirar la vida. 
 
 Sabemos que cuando David deseaba construir un templo para el Señor, se le negó este privilegio porque había sido un guerrero. Hoy en día existen organizaciones que están constantemente combatiendo las unas contra las otras, siempre viendo las faltas de los demás, hallándose, por lo tanto, en guerra perpetua, lo mismo como David antiguamente. Con semejante disposición mental no es posible permitir a nadie edificar aquel templo que se construye con piedras vivientes de hombres y mujeres; aquel templo que Mansón, en "El sirviente de la Casa" describe en términos tan bellísimos. Por esta razón, cuando tratemos de difundir las verdades de las enseñanzas Rosacruz, debemos siempre tener presente que no podemos desacreditar impunemente la religión de nadie ni llevarle la contraria, y que no es nuestra misión combatir el error de los demás, porque quedará manifiesto a su debido tiempo. 
 
@@ -228,46 +311,66 @@ El lector recordará que cuando David había muerto y Salomón reinaba en su lug
 
 Se dice, y con mucha razón, que el conocimiento es un poder. El saber, aunque de por sí no es bueno ni malo, puede ser empleado para el bien o para el mal. El genio no es más que la disposición para la sabiduría, y puede también ser bueno o malo. Se habla de un genio militar, de uno que conoce a la perfección la táctica de la guerra, pero un hombre semejante no puede ser ciertamente bueno, porque forzosamente ha de ser duro de corazón y destructor en la expresión de su genio. 
 
-Un guerrero, ya sea un Napoleón o un simple soldado, no podrá nunca ser sabio, porque tiene que destrozar deliberadamente todos los sentimientos más delicados, de los cuales tomamos como símbolo al corazón. Por otro lado, un gobernante sabio es de buen corazón y de profunda inteligencia y así que lo uno equilibra lo otro para promover los intereses de su pueblo. Aun el más profundo saber en cuestiones de religión o de ocultismo no es sabiduría, como nos lo enseña San Pablo en aquel hermosísimo capitulo trece de la primera epístola a los corintios donde dice: "Aunque yo tuviese todo el saber para poder penetrar todos los misterios, y no tuviera amor, yo no sería nada. Sólo cuando el saber se une al amor, los dos producen la sabiduría verdadera, es decir, la expresión del principio de Cristo, la segunda fase de la Divinidad. Respecto a este punto conviene emplear gran prudencia y discreción. Nosotros podremos saber distinguir entre lo que es oportuno para el logro de cierta finalidad y lo que lo impide, y podemos optar a favor de males presentes para lograr ventajas venideras, pero aún en esto no obramos necesariamente como sabios y juiciosos. Conocimientos, prudencia, discreción y sentido común son todos hijos de la mente; de por sí no son mas que lazos tendidos por el mal del cual Cristo en el Padrenuestro nos enseñó a rogar para que se nos librara de ellos. Solamente cuando estas facultades nacidas de la mente están templadas por la facultad del amor, nacida del corazón, el producto mezclado de ambas se transforma en sabiduría. Si leemos el capitulo trece de la primera Epístola a los Corintios y substituimos la palabra sabiduría por las de caridad o amor, entonces comprenderemos lo que es esta gran facultad que deberíamos todos desear con tanto ardor. 
+Un guerrero, ya sea un Napoleón o un simple soldado, no podrá nunca ser sabio, porque tiene que destrozar deliberadamente todos los sentimientos más delicados, de los cuales tomamos como símbolo al corazón. Por otro lado, un gobernante sabio es de buen corazón y de profunda inteligencia y así que lo uno equilibra lo otro para promover los intereses de su pueblo. Aun el más profundo saber en cuestiones de religión o de ocultismo no es sabiduría, como nos lo enseña San Pablo en aquel hermosísimo capitulo trece de la primera epístola a los corintios donde dice: "Aunque yo tuviese todo el saber para poder penetrar todos los misterios, y no tuviera amor, yo no sería nada. Sólo cuando el saber se une al amor, los dos producen la sabiduría verdadera, es decir, la expresión del principio de Cristo, la segunda fase de la Divinidad. 
+
+Respecto a este punto conviene emplear gran prudencia y discreción. Nosotros podremos saber distinguir entre lo que es oportuno para el logro de cierta finalidad y lo que lo impide, y podemos optar a favor de males presentes para lograr ventajas venideras, pero aún en esto no obramos necesariamente como sabios y juiciosos. Conocimientos, prudencia, discreción y sentido común son todos hijos de la mente; de por sí no son mas que lazos tendidos por el mal del cual Cristo en el Padrenuestro nos enseñó a rogar para que se nos librara de ellos. Solamente cuando estas facultades nacidas de la mente están templadas por la facultad del amor, nacida del corazón, el producto mezclado de ambas se transforma en sabiduría. Si leemos el capitulo trece de la primera Epístola a los Corintios y substituimos la palabra sabiduría por las de caridad o amor, entonces comprenderemos lo que es esta gran facultad que deberíamos todos desear con tanto ardor. 
 
 La misión de la Fraternidad Rosacruz es en efecto, la de promulgar una doctrina combinada de la cabeza y del corazón, la que constituye la única y verdadera sabiduría, porque ninguna enseñanza en la cual falte uno de estos dos extremos puede ser realmente llamada sabía, del mismo modo como no podemos tampoco hacer sonar un acorde en una sola cuerda. En vista de que la naturaleza del hombre es compleja, la enseñanza que ha de ayudarle para purificar y elevar esta naturaleza debe ser también múltiple en su aspecto. Cristo siguió este mismo principio cuando nos dio aquella hermosa oración dominical, la cual, en sus siete estrofas toca la nota-clave de los siete vehículos humanos y los une todos en este acorde sublime de perfección que llamamos el Padrenuestro. 
 
 Pero ¿cómo podremos enseñar al mundo esta maravillosa doctrina recibida de los Hermanos Mayores? La contestación a esta pregunta es ahora y será siempre ésta: "viviendo la vida." Se ha dicho en elogio eterno de Mahoma que su esposa se convirtió en su primer discípulo, y es cierto que no fue solo su enseñanza, sino la vida que llevaba en su casa, día tras día, año tras año, por lo cual se ganó la confianza de su compañera hasta tal extremo que se dispuso a deponer en manos de su esposo su destino espiritual. Es relativamente fácil hallarse en presencia de personas extrañas que no conocen nuestra vida e ignoran nuestros defectos y predicarlas durante una hora o dos cada semana, pero es totalmente distinto predicar las veinticuatro horas del día en su propia casa como Mahoma debió hacerlo viviendo la buena vida. Si queremos tener con nuestra propaganda el éxito que él obtuvo, debemos, cada uno de nosotros, empezar en nuestra propia casa, comenzar por demostrar a aquellos con los cuales vivimos juntos, que las enseñanzas que nos sirven de guía son verdaderamente enseñanzas de sabiduría. Se dice que "la caridad empieza por uno mismo." Esta palabra hubiera debido traducirse por "amor" en el capítulo trece de la primera epístola a los corintios. Cambiemos ahora esta palabra por la de sabiduría y digamos por consecuencia: la propaganda de la sabiduría empieza por casa. Así, pues, hagamos que nuestro lema para siempre sea: "Viviendo la vida en nuestra casa haremos mucho más por nuestra causa que de cualquier otro modo." Muchas familias escépticas han sido convertidas a las doctrinas nuestras por esposos o esposas. Esperamos que otras sigan el buen ejemplo. 
 
-### CAPÍTULO V: EL SECRETO DEL ÉXITO
+### <h3 id="chapter-5">CAPÍTULO V: EL SECRETO DEL ÉXITO</h3>
 
 He aquí un asunto que debiera interesar a todos, porque seguramente todos deseamos tener éxito en la vida; pero la cuestión es el saber lo que es éxito. Es posible que cada individuo opine sobre este punto de distinto modo. Pero reflexionando un poco se verá muy pronto con toda claridad que cualquier sendero que sigamos en nuestro deseo de obtener éxito debe seguir invariablemente el rumbo de la evolución humana. Por esta razón debe haber una contestación general acerca de lo que constituye el éxito y cuál es su secreto. Seria, sin embargo, un error el tratar de hallar la solución de este problema solo por el examen de la vida del hombre durante la edad actual de la humanidad. El único medio de obtener la perspectiva necesaria para llegar a una contestación adecuada, es mirando por un lado al pasado del hombre y por otro lado a su futuro desarrollo. 
 
 No necesitamos entrar en mayores detalles. Mencionaremos en primer lugar que en las épocas primitivas de nuestra evolución, cuando el hombre en formación descendió del mundo espiritual a su presente existencia material, el secreto del éxito estaba en el conocimiento del mundo físico y de sus condiciones inherentes. En aquellos tiempos no era necesario hablar a la humanidad del mundo espiritual y de nuestros vehículos superiores, porque éstos eran hechos patentes para todo el mundo. Entonces veíamos y vivíamos todos en los dominios espirituales. Pero habíamos iniciado el descenso al mundo físico, y por esta razón las escuelas de Iniciación enseñaban a los precursores de la humanidad las leyes que rigen al mundo físico, y las iniciaban en las artes y oficios que servían para conquistar el reino de la materia. Desde entonces, hasta una fecha relativamente reciente, la humanidad ha estado trabajando para perfeccionarse en estos ramos del saber, que alcanzaron su más alta expresión en los siglos inmediatamente anteriores al descubrimiento del vapor, y están ahora en su decadencia. 
 
-A primera vista esto puede parecer una afirmación sin fundamento, pero un examen minucioso de los hechos nos hará pronto encontrar la verdad de la tesis. En las llamadas "edades de las tinieblas," la Edad Media, no había fábricas; pero en cambio, en cada ciudad y en cada aldea había gran número de tiendecitas en las cuales el maestro, a veces solo y a veces con algunos oficiales y aprendices; elaboraba los productos de su profesión, desde la primera materia hasta su perfección final, ejerciendo su habilidad e instinto creador y aplicando toda su buena voluntad y poniendo toda su alma y corazón en la creación de cada pieza que salía de sus manos. Si era herrero, sabía producir objetos artísticos de hierro en forma de verjas, muestras, puertas y otras cosas que eran el encanto de las urbes y aldeas de la Edad Media. El fruto de su trabajo no se alejó tampoco nunca mucho del artífice y al pasearse por la ciudad, podía ver aquí y allá los distintos ornamentos labrados por él y sentía íntimo gozo por su hermosura; y a la vez podía sentirse satisfecho de como había ganado el respeto y la admiración de sus conciudadanos por su trabajo concienzudo y artístico. 
+A primera vista esto puede parecer una afirmación sin fundamento, pero un examen minucioso de los hechos nos hará pronto encontrar la verdad de la tesis. En las llamadas "edades de las tinieblas," la Edad Media, no había fábricas; pero en cambio, en cada ciudad y en cada aldea había gran número de tiendecitas en las cuales el maestro, a veces solo y a veces con algunos oficiales y aprendices; elaboraba los productos de su profesión, desde la primera materia hasta su perfección final, ejerciendo su habilidad e instinto creador y aplicando toda su buena voluntad y poniendo toda su alma y corazón en la creación de cada pieza que salía de sus manos. Si era herrero, sabía producir objetos artísticos de hierro en forma de verjas, muestras, puertas y otras cosas que eran el encanto de las urbes y aldeas de la Edad Media. El fruto de su trabajo no se alejó tampoco nunca mucho del artífice y al pasearse por la ciudad, podía ver aquí y allá los distintos ornamentos labrados por él y sentía íntimo gozo por su hermosura; y a la vez podía sentirse satisfecho de como había ganado el respeto y la admiración de sus conciudadanos por su trabajo concienzudo y artístico. El ebanista que hacía el armazón de las sillas también las tapizaba y labraba, aquellos dibujos artísticos que hoy en día estamos deseosos de copiar. El zapatero, el tejedor y todos los demás artesanos, sin excepción, fabricaban todos los artículos en su totalidad hasta dejarlos terminados desde la materia prima y todos ponían su orgullo en su industria. También todos trabajaban largas horas sin murmurar ni quejarse, porque todos hallaban una verdadera satisfacción en el ejercicio de su instinto creador. En todos los talleres se podía escuchar el canto del herrero acompañando a sus martillazos en el yunque, y los oficiales y aprendices no se sentían como esclavos, sino como futuros maestros. 
 
-El ebanista que hacía el armazón de las sillas también las tapizaba y labraba, aquellos dibujos artísticos que hoy en día estamos deseosos de copiar. El zapatero, el tejedor y todos los demás artesanos, sin excepción, fabricaban todos los artículos en su totalidad hasta dejarlos terminados desde la materia prima y todos ponían su orgullo en su industria. También todos trabajaban largas horas sin murmurar ni quejarse, porque todos hallaban una verdadera satisfacción en el ejercicio de su instinto creador. En todos los talleres se podía escuchar el canto del herrero acompañando a sus martillazos en el yunque, y los oficiales y aprendices no se sentían como esclavos, sino como futuros maestros. 
+Después vino la edad del vapor y de las máquinas, y con ella un nuevo sistema de labor. En vez de la producción del articulo, terminado desde la primera materia por el mismo individuo, que daba satisfacción a su instinto creador, el nuevo plan hacía del hombre un ténder de la máquina, que producía solamente una parte del artículo terminado, y luego las distintas partes eran unidas o compuestas por otros operarios. Este método disminuía el costo de producción y aumentaba la cantidad total obtenida, pero no dejaba margen para el instinto creador del hombre, quien se transformaba en una sencilla rueda de una gran máquina. En la tienda medieval el dinero era por cierto, un factor de menor importancia; la alegría de la producción creadora era todo; el tiempo no importaba tampoco. Pero bajo el sistema nuevo del hombre empezó a trabajar por el dinero y contra el tiempo, con el resultado de que las almas de maestros y ayudantes están hoy en día extenuadas. Han perdido la sustancia y retenido solo la sombra de todo lo que da un valor real a la vida, porque están laborando por algo que no pueden ni usar ni disfrutar. Esto se refiere tanto a los patronos como a los obreros. 
 
-Después vino la edad del vapor y de las máquinas, y con ella un nuevo sistema de labor. En vez de la producción del articulo, terminado desde la primera materia por el mismo individuo, que daba satisfacción a su instinto creador, el nuevo plan hacía del hombre un ténder de la máquina, que producía solamente una parte del artículo terminado, y luego las distintas partes eran unidas o compuestas por otros operarios. Este método disminuía el costo de producción y aumentaba la cantidad total obtenida, pero no dejaba margen para el instinto creador del hombre, quien se transformaba en una sencilla rueda de una gran máquina. En la tienda medieval el dinero era por cierto, un factor de menor importancia; la alegría de la producción creadora era todo; el tiempo no importaba tampoco. Pero bajo el sistema nuevo del hombre empezó a trabajar por el dinero y contra el tiempo, con el resultado de que las almas de maestros y ayudantes están hoy en día extenuadas. Han perdido la sustancia y retenido solo la sombra de todo lo que da un valor real a la vida, porque están laborando por algo que no pueden ni usar ni disfrutar. 
-
-Esto se refiere tanto a los patronos como a los obreros. 
-
-¿Qué diríamos de un joven que se impusiera como una obligación la de acumular un millón de pañuelos de los cuales no podría servirse nunca? Le llamaríamos loco seguramente. Y ¿por qué no incluimos en la misma categoría a un hombre que gasta toda su energía y se priva de todas las comodidades de la vida para hacerse millonario? Este sistema no puede continuar, porque da al hombre una piedra cuando pide pan, y es indudable que debe haber otros medios de desarrollo para él. En el proceso de su desarrollo debe haber nuevas normas, y nuevos ideales deben presentar a nuestra vista para ensancharnos el horizonte. Para descubrir indicios del rumbo de la evolución debemos mirar a aquellos que están dotados de la mayor inspiración, es decir, los poetas y videntes. 
-
-El poeta James Russell Lowell nos hace una preciosa revelación en su "Visión del Caballero Launfal." Un caballero se marcha de su castillo ardiendo en deseos de acometer grandes hazañas por la gloria de Dios y se pone en camino para unirse con los cruzados y buscar el Santo Grial en Palestina. Sale de su mansión fiero y arrogante, pensando en su misión. 
-
-En el portal encuentra a un pobre mendigo, un leproso, que le tiende las manos, pidiendo una limosna. Pero el Caballero Launfall no tiene compasión y para desembarazarse del desagradable encuentro, le echa una moneda de oro y trata de olvidarle. 
+¿Qué diríamos de un joven que se impusiera como una obligación la de acumular un millón de pañuelos de los cuales no podría servirse nunca? Le llamaríamos loco seguramente. Y ¿por qué no incluimos en la misma categoría a un hombre que gasta toda su energía y se priva de todas las comodidades de la vida para hacerse millonario? Este sistema no puede continuar, porque da al hombre una piedra cuando pide pan, y es indudable que debe haber otros medios de desarrollo para él. En el proceso de su desarrollo debe haber nuevas normas, y nuevos ideales deben presentar a nuestra vista para ensancharnos el horizonte. Para descubrir indicios del rumbo de la evolución debemos mirar a aquellos que están dotados de la mayor inspiración, es decir, los poetas y videntes. El poeta James Russell Lowell nos hace una preciosa revelación en su "Visión del Caballero Launfal." Un caballero se marcha de su castillo ardiendo en deseos de acometer grandes hazañas por la gloria de Dios y se pone en camino para unirse con los cruzados y buscar el Santo Grial en Palestina. Sale de su mansión fiero y arrogante, pensando en su misión. En el portal encuentra a un pobre mendigo, un leproso, que le tiende las manos, pidiendo una limosna. Pero el Caballero Launfall no tiene compasión y para desembarazarse del desagradable encuentro, le echa una moneda de oro y trata de olvidarle. 
 
 "El leproso, empero, no alzó el oro del polvo y dijo: "Mejor para mi es la corteza del pan del pobre, mejor la bendición de éste, aunque tenga que retirarme de su puerta con las manos vacías. No son verdaderas limosnas las que solo pueden tomarse con las manos. Es inútil el oro de aquel que da solo porque le parece un deber hacerlo. Pero aquel que parte su pobreza y da para quien no está al alcance de su vista (ese hilo de belleza, sostenedor universal, que todo lo penetra y lo une), la mano no puede abarcar toda su limosna; el corazón ansioso extiende sus brazos, porque un dios acompaña y provee al alma que antes estaba pereciendo en la oscuridad." 
 
 ¿Y qué nos dice el acto del caballero Launfall? ¿Podría esperar con tal estado de ánimo obtener éxito y encontrar el Grial? Ciertamente, no. Y así sucedió, pues solo hallaba desengaño tras desengaño, y finalmente volvió a su castillo, desalentado y humillado su corazón. Allí encontró otra vez al leproso y al verle: 
 
-"El corazón solo era ceniza y polvo; partió en dos su única corteza de pan, rompió el hielo de la orilla del arroyuelo y dio de comer y de beber al leproso." 
+```
+"El corazón solo era ceniza y polvo; 
+partió en dos su única corteza de pan, 
+rompió el hielo de la orilla del arroyuelo 
+y dio de comer y de beber al leproso." 
+```
 
 En seguida se puso de manifiesto el efecto de su obra de caridad recibiendo con ella la recompensa: 
 
-"El pobre leproso no estaba ya acurrucado a su lado, sino que estaba ante él convertido en un ser glorioso." Y su voz aun más dulce que el silencio dijo: "¡Mira, yo soy, no temas! En muchos países has pasado los años de tu vida en vano buscando al Santo Grial. ¡Mira, aquí le tienes! - Esta copa que has llenado para mi en el arroyo. Este pan es mi cuerpo partido para ti, y esta agua es mi sangre vertida en la cruz. La Santa Cena se efectúa ciertamente en cualquier cosa que partimos con un desgraciado. No es lo que damos de lo que nos sobra, sino lo que partimos es lo que importa - porque la dádiva sin el dador no tiene valor. El que se da a si mismo con su limosna alimenta a tres, a si mismo, a su hermano hambriento y a mi." 
+```
+"El pobre leproso no estaba ya acurrucado a su lado, 
+sino que estaba ante él convertido en un ser glorioso." 
+
+*  *  *  *  *  *  *
+
+Y su voz aun más dulce que el silencio dijo: 
+"¡Mira, yo soy, no temas! 
+En muchos países has pasado 
+los años de tu vida en vano buscando al Santo Grial. 
+¡Mira, aquí le tienes! - Esta copa 
+que has llenado para mi en el arroyo. 
+Este pan es mi cuerpo partido para ti, 
+y esta agua es mi sangre vertida en la cruz. 
+La Santa Cena se efectúa ciertamente 
+en cualquier cosa que partimos con un desgraciado. 
+No es lo que damos de lo que nos sobra, sino lo que partimos es lo que importa - 
+porque la dádiva sin el dador no tiene valor. 
+El que se da a si mismo con su limosna alimenta a tres, 
+a si mismo, a su hermano hambriento y a mi." 
+```
 
 En estas palabras está todo el secreto del éxito que consiste en hacer las cosas insignificantes; las cosas que acaso parecen desagradables y que están constantemente a nuestro alcance, en vez de ir lejos y buscar fantasmas y quimeras que nunca se convierten en cosas definidas ni tangibles. 
 
 ¿Pero qué obtendremos si obramos de este modo?, puede ser la pregunta que pertinentemente se nos haga. Y otro poeta nos contestará, hablándonos del pequeño caracol nautilus, hermoso caracol de mar, de concha multivalva. Este animalito construye al principio un alvéolo diminuto, justamente suficiente para contenerlo. Luego, al crecer, añade otro departamento mayor en el cual se introduce para vivir allí durante el próximo periodo de crecimiento, y sigue de este modo hasta haber construido una concha en espiral tan grande como puede, y que entonces abandona. Esta idea el poeta la expresa en las líneas siguientes: 
 
+```
 "Construye moradas más majestuosas alma mía,  
 A medida que corren los años veloces!  
 ¡Abandona tu pasado de baja techumbre!  
@@ -275,14 +378,17 @@ Haz que cada nuevo templo sea más noble que el último,
 Sepárate del cielo con una cúpula más vasta,  
 Hasta que por fin estés libre de todo techo,  
 Abandonando tu estrecha concha para entrar en el gran océano de la vida."  
+```
 
 Cuando hayamos llegado a este punto, habremos obtenido éxito todo el éxito que podemos encontrar en nuestro mundo actual y entonces entraremos en una nueva esfera de oportunidades mayores. 
 
-### CAPÍTULO VI: LA MUERTE DEL ALMA
+### <h3 id="chapter-6">CAPÍTULO VI: LA MUERTE DEL ALMA</h3>
 
 De vez en cuando, aparentemente, siguiendo una ley de periodicidad, se presentan en el ánimo de los estudiantes las mismas dificultades. Al mismo tiempo, en un gran número de cartas de diferentes partes del mundo se nos pide información sobre el mismo asunto, y en otro momento sobre otro asunto distinto, pero después de unos años los mismos asuntos se presentan siempre de nuevo. Mientras ayudamos a los individuos que se dirigen a nosotros, es posible que haya muchas otras personas interesadas en el mismo asunto al mismo tiempo, y por esta razón vamos a dar esta lección sobre la muerte del alma, que parece ser un buen ejercicio para la mente, quizás porque actualmente (durante la Gran Guerra) la muerte del, cuerpo es tan frecuente. 
 
-Hace algunos años publicamos una lección sobre "El pecado imperdonable y las almas perdidas," en relación con los sacramentos que estábamos entonces explicando. Entonces dijimos que todos los sacramentos tienen algo que ver con la transmisión de los átomos- simientes, que forman los núcleos de nuestros distintos cuerpos. El germen para nuestro cuerpo terrestre debe estar, debidamente colocado en un terreno fructífero para poder desarrollar un apropiado vehículo denso, y por esta razón, según se dice en el Génesis 1, 27 "Elohim creó al hombre varón y hembra." Las palabras hebreas son Sacr va N'cabah. Son los nombres de los órganos sexuales. Traducido literalmente, Sacr significa el portador del germen; y así el matrimonio es un sacramento, porque abre el camino para la transmisión del átomo-simiente físico que va del padre a la madre y tiende a preservar a la raza de los destrozos de la muerte. 
+Hace algunos años publicamos una lección sobre "El pecado imperdonable y las almas perdidas," en relación con los sacramentos que estábamos entonces explicando. Entonces dijimos que todos los sacramentos tienen algo que ver con la transmisión de los átomos- simientes, que forman los núcleos de nuestros distintos cuerpos. El germen para nuestro cuerpo terrestre debe estar, debidamente colocado en un terreno fructífero para poder desarrollar un apropiado vehículo denso, y por esta razón, según se dice en el Génesis 1, 27 "Elohim creó al hombre varón y hembra." Las palabras hebreas son Sacr va N'cabah. 
+
+Son los nombres de los órganos sexuales. Traducido literalmente, Sacr significa el portador del germen; y así el matrimonio es un sacramento, porque abre el camino para la transmisión del átomo-simiente físico que va del padre a la madre y tiende a preservar a la raza de los destrozos de la muerte. 
 
 El bautismo, como un sacramento, significa el anhelo germinal del alma hacia una vida superior, la plantación de una simiente espiritual. 
 
@@ -308,7 +414,7 @@ Esto por lo menos es la tendencia general: lo superior eleva a lo inferior. Pero
 
 Entre tanto el espíritu se ha quedado desnudo, no tiene átomos-simientes con los cuales podría crear nuevos cuerpos, y por esta razón gravita automáticamente hacía el planeta Saturno y de allí al Caos, donde tiene que permanecer hasta la aurora de otro día de creación. A primera vista puede parecer injusto el que el espíritu tenga que sufrir de este modo sin haber cometido ningún mal; pero meditando un poco se comprenderá que, para la personalidad, siendo la criatura del Yo Superior, existe la responsabilidad y no puede ser evadida. Afortunadamente, sin embargo semejantes casos van haciéndose cada vez más raros a medida que avanzamos en el sendero de la evolución. No obstante, incumbe a todos mirar seriamente a la meta, de manera que la luz en el sendero que conduce hacia nuestro ideal espiritual, la unión con el Yo Superior, brille cada vez con más esplendor. 
 
-### CAPÍTULO VII: EL NUEVO SENTIDO DE LA EDAD FUTURA
+### <h3 id="chapter-7">CAPÍTULO VII: EL NUEVO SENTIDO DE LA EDAD FUTURA</h3>
 
 Al final de la edad del Toro, hace unos 4.000 años, el "pueblo de Dios" huyó del furor que se aproximaba cuando se marchó de Egipto, país dedicado al culto del Toro. En su huida fueron conducidos por Moisés, cuya cabeza, en grabados antiguos, aparece adornada con cuernos en roscados de carnero, indicación simbólica de que era el heraldo de los 2.100 años de la Edad Aria durante la cual, en la mañana de Pascua, el Sol primaveral coloreaba las puertas de las casas de rojo, como con sangre de carnero, cuando pasaba por el ecuador en la constelación (no el signo) del Carnero, Aries. Similarmente, cuando el Sol, por precisión, se acercaba a la constelación acuática de Piscis, los Peces, San Juan Bautista sumergía a los convertidos a la religión Mesiánica en las aguas del Jordán y Jesús llamó a sus discípulos "pescadores" de hombres. El "cordero" fue sacrificado en la fiesta de la pascua de los hebreos cuando el Sol pasaba por la constelación de Aries, el Carnero, y así obedeciendo a la exigencia de su Iglesia los fieles hoy en día se alimentan de pescado durante la cuaresma en el presente ciclo de Piscis, los Peces. 
 
@@ -344,7 +450,7 @@ La visión etérea no nos permitirá el ver nuestros pensamientos recíprocos, p
 
 Los estudiantes podrán fácilmente imaginarse otras numerosas condiciones nuevas que resultarán de la extensión de la vista en la Edad Acuaria, y viviendo tan cerca como sea posible de este nuevo estado de cosas, podrán colocarse en disposición de ser de los precursores de aquella edad, en la cual "no habrá noche" y en la que "el árbol de la vida" florecerá continuamente por medio del transparente "mar de vidrio" etéreo que interpenetra todas las cosas. 
 
-### CAPÍTULO VIII: EL PUEBLO ESCOGIDO DE DIOS
+### <h3 id="chapter-8">CAPÍTULO VIII: EL PUEBLO ESCOGIDO DE DIOS</h3>
 
 Leyendo la historia de los hebreos tal como la refiere la Biblia y las crónicas medievales y modernas de los distintos pueblos que habitan el mundo occidental, nos llama la atención un hecho notable que con claridad meridiana nos ofrece la prueba de que los judíos han sido llevados al destierro y a la esclavitud, odiados en todos los países donde se esparcieron y perseguidos en aquellos sitios en que el temperamento de los nativos permitieron su convivencia entre ellos. Según la Biblia, estimada como la "palabra de Dios" por los pueblos occidentales, los judíos son "el pueblo escogido de Dios" en un sentido particular, pero en estas mismas naciones los judíos son desdeñados y escarnecidos. Cuando investigamos la razón de esta tragedia, nos salen al paso con dos hechos primordiales: 
 
@@ -356,7 +462,9 @@ De este modo se ha formado inconscientemente en el pensamiento de las otras naci
 
 Si ellos hubiesen apoyado su pretensión de ser los hijos predilectos de Dios con un modo de vivir noble y elevado, probablemente habrían excitado con ello la admiración de muchos de los pueblos entre los cuales han vivido. Habrían provocado la emulación, y hasta los que les envidiaban su predilección les habrían probablemente respetado. Pero como sus altivas palabras y su conducta resultan tan divergentes y opuestas, es triste, pero no es extraño, el que sean odiados y perseguidos constantemente. 
 
-Debo prevenir al estudiante de que no tome lo que precede como una mera crítica hacia los judíos; no debemos exponer las faltas de otros y criticarlas si no tenemos a la vista una finalidad constructiva. Es siempre fácil ver la paja en el ojo de nuestro hermano, pero mucho más fácil todavía es no ver la viga que tenemos en el nuestro. La razón de mencionar el asunto de los judíos con sus elevadas manifestaciones y sus opuestas prácticas, es solamente para averiguar si, al dirigir la luz del faro sobre la paja en el ojo de ellos, no encontramos la viga del nuestro. En caso afirmativo habremos hecho un trabajo útil, y empezado a quitarnos la viga. 
+Debo prevenir al estudiante de que no tome lo que precede como una mera crítica hacia los judíos; no debemos exponer las faltas de otros y criticarlas si no tenemos a la vista una finalidad constructiva. Es siempre fácil ver la paja en el ojo de nuestro hermano, pero mucho más fácil todavía es no ver la viga que tenemos en el nuestro. 
+
+La razón de mencionar el asunto de los judíos con sus elevadas manifestaciones y sus opuestas prácticas, es solamente para averiguar si, al dirigir la luz del faro sobre la paja en el ojo de ellos, no encontramos la viga del nuestro. En caso afirmativo habremos hecho un trabajo útil, y empezado a quitarnos la viga. 
 
 Mientras vivamos en el mismo nivel que el resto del mundo, haciendo como los demás, cosas malas, buenas o indiferentes, nadie se fijará en nosotros de una manera especial; pero desde el momento en que, como los judíos, confesemos públicamente que somos distintos de los demás, todas las miradas de la sociedad se fijarán sobre nosotros para determinar hasta qué punto concuerdan o se distancian nuestras palabras y nuestras obras. Estamos observados en todos nuestros gestos y movimientos, y de ahí resulta para nosotros una gran responsabilidad y la obligación de obrar rectamente para acreditar con ello las enseñanzas de los Hermanos Mayores y estimular en otros el deseo de adoptarlas también. 
 
@@ -374,19 +482,15 @@ En vez de hacernos abandonar el camino del progreso, nuestros fracasos deberían
 
 Todos conocemos nuestros propios defectos, "los pecados que nos asaltan tan fácilmente," y cada uno tiene que tomar naturalmente las resoluciones propias de su caso. Pero al llevar estas resoluciones a la práctica, para que puedan producir el crecimiento del alma y ayudar a tejer el glorioso traje dorado de bodas, nos será indudablemente de inmenso provecho, el fijar nuestra mirada y pensamiento en alguien que posea la virtud que estamos tratando de cultivar. Este gran ejemplo nos brinda Cristo quien "fue tentado en todas las cosas igual que nosotros, pero sin llegar a pecar." Por esta razón deberíamos tenerla siempre muy cerca de nuestra vista mental durante el año entrante, y con ello tendremos seguramente un gran crecimiento del alma. Al mismo tiempo esta conducta será la mejor propaganda que podamos hacer de las enseñanzas Rosacruces, porque viviendo según ellas provocaremos seguramente en los demás el deseo de participar de sus beneficios. 
 
-### CAPÍTULO IX: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Primera Parte
+### <h3 id="chapter-9">CAPÍTULO IX: LUZ MISTICA SOBRE LA GUERRA MUNDIAL - Primera Parte</h3>
 
-#### RESORTES SECRETOS
+#### <h4 id="part-1">RESORTES SECRETOS</h4>
 
 Es cosa sabida de los estudiantes de las enseñanzas Rosacruces que como espíritus somos inmortales, sin principio ni fin; que hemos ido a la gran escuela de la experiencia durante muchos días de vida en el pasado, vestidos cada vez con el cuerpo de otro niño de textura más y más fina, en el cual hemos vivido durante una temporada, algunas veces de pocas horas, y otras de una vida entera, y cuando un día de esta escuela de la vida se hubo terminado, nos desprendíamos de esta envoltura mortal ya desgastada y decrépita, para volver a nuestro celeste hogar para descansar y asimilar durante la noche de la muerte las lecciones aprendidas, para volver luego a renacer y reanudar nuestras lecciones en el punto donde las habíamos interrumpido la última vez. 
 
-Durante cada uno de aquellos días pasados en la escuela de la vida encontramos a otros espíritus y formamos lazos de amor y de odio y después de vidas posteriores nos encontramos otra vez con ellos para que las deudas del destino así contraídas pudiesen ser liquidadas, y de aquí que nuestros amigos de hoy son los de las vidas pasadas y nuestros enemigos lo mismo. 
+Durante cada uno de aquellos días pasados en la escuela de la vida encontramos a otros espíritus y formamos lazos de amor y de odio y después de vidas posteriores nos encontramos otra vez con ellos para que las deudas del destino así contraídas pudiesen ser liquidadas, y de aquí que nuestros amigos de hoy son los de las vidas pasadas y nuestros enemigos lo mismo. De este modo estamos continuamente tejiendo la tela del destino en el telar del tiempo, y creando para nosotros mismos un vestido de gloria o de pesadumbre según nuestro modo de obrar bueno o malo. 
 
-De este modo estamos continuamente tejiendo la tela del destino en el telar del tiempo, y creando para nosotros mismos un vestido de gloria o de pesadumbre según nuestro modo de obrar bueno o malo. 
-
-Pero nosotros no creamos solamente nuestro destino individual porque, como dice el proverbio, "nadie vive para sí mismo." Estamos agrupados en familias, tribus, razas y naciones, y además de nuestro destino individual estamos ligados por los destinos de la familia y de nación, porque estamos bajo la guarda de los ángeles y arcángeles que actúan como espíritus de familia y de raza respectivamente. Son estos grandes espíritus los que imprimen en nuestros átomos-simiente las formas y expresiones raciales del cuerpo físico. También plantan los cariños y odios nacionales en los átomos-simiente de nuestros vehículos más finos, porque el espíritu de raza está flotando como una nube por encima del país habitado por sus pupilos, y éstos extraen toda la materia para sus cuerpos superiores de esta atmósfera. En este espíritu de raza, ellos propiamente dicho, viven y se mueven y tienen su ser, y de él están formados sus vehículos. Y más aún, con cada respiración inhalan a este espíritu de raza, siendo una verdad indudable que él esta más cerca de ellos todavía que sus pies y manos. 
-
-Es este espíritu de raza el que les inculca el amor u odio hacia otras naciones, determinando así las relaciones de desconfianza y adversidad entre algunas naciones y la simpatía y buena fe entre otras. 
+Pero nosotros no creamos solamente nuestro destino individual porque, como dice el proverbio, "nadie vive para sí mismo." Estamos agrupados en familias, tribus, razas y naciones, y además de nuestro destino individual estamos ligados por los destinos de la familia y de nación, porque estamos bajo la guarda de los ángeles y arcángeles que actúan como espíritus de familia y de raza respectivamente. Son estos grandes espíritus los que imprimen en nuestros átomos-simiente las formas y expresiones raciales del cuerpo físico. También plantan los cariños y odios nacionales en los átomos-simiente de nuestros vehículos más finos, porque el espíritu de raza está flotando como una nube por encima del país habitado por sus pupilos, y éstos extraen toda la materia para sus cuerpos superiores de esta atmósfera. En este espíritu de raza, ellos propiamente dicho, viven y se mueven y tienen su ser, y de él están formados sus vehículos. Y más aún, con cada respiración inhalan a este espíritu de raza, siendo una verdad indudable que él esta más cerca de ellos todavía que sus pies y manos. Es este espíritu de raza el que les inculca el amor u odio hacia otras naciones, determinando así las relaciones de desconfianza y adversidad entre algunas naciones y la simpatía y buena fe entre otras. 
 
 Según las enseñanzas Rosacruces cada espíritu renace dos veces en el tiempo que tarda el Sol, por presesión, de pasar por un signo del Zodiaco, una vez como hombre y otra como mujer. Esto sucede así para que el espíritu obtenga toda la experiencia posible de aquel signo bajo el punto de vista de los dos sexos. Existen muchas modificaciones de esta regla según las necesidades individuales de los espíritus porque no es una ley ciega, sino que está administrada por grandes seres llamados Ángeles del Destino en la terminología cristiana. Es su deber observar el reloj del destino y notar cuándo ha llegado el momento de recoger la cosecha del pasado, y esto se aplica tanto a los individuos como a las naciones. Por consiguiente, si estudiamos las características de las naciones envueltas ahora en una lucha gigantesca, y al mismo tiempo los fines por los cuales luchan, y si miramos hacia atrás en la historia, no se necesita videncia de ninguna clase, ni intuición apenas, para darse cuenta de como las causas de la gran guerra fueron engendradas en el remoto pasado. 
 
