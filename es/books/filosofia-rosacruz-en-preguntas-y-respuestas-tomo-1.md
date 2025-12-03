@@ -849,7 +849,7 @@ Lo que no ha nacido no puede morir, así que cuando el niño muere antes del nac
 
 Como en el pasado el hombre fue muy amante de la guerra y no se cuidaba gran cosa de los que morían en el lecho, debido a su ignorancia, siendo estos además muy pocos, quizás, comparados con los que morían en el campo de batalla, debe haber necesariamente una gran cantidad de mortalidad infantil, pero conforme la humanidad llegue a una comprensión más amplia y realice que todos somos los guardianes de nuestros hermanos, sobre todo cuando estos estén agonizando, el hombre se mantendrá silencioso y orando ante el lecho del agonizante, ayudándolo así enormemente, y entonces la mortalidad infantil cesará de existir en tan gran escala como actualmente. 
 
-### PREGUNTA Nº 53
+### <h3 id="question-53">PREGUNTA Nº 53</h3>
 
 La cremación del cuerpo denso después de la muerte ¿afecta al espíritu en alguna forma? 
 
@@ -859,7 +859,7 @@ Ahora bien, cuando la vida ha sido muy accidentada y el cuerpo vital del hombre 
 
 Cuando se entierra el cadáver, el cuerpo vital se desintegra lentamente al mismo tiempo que aquel, así que cuando, por ejemplo, un brazo se ha podrido en la tumba, el brazo etérico del cuerpo vital que flota sobre la tumba desaparece también, y así sucede hasta que desaparece el último vestigio del cadáver. Pero cuando se realiza la cremación el cuerpo vital se desintegra inmediatamente, y como que dicho vehículo es el que conservaba las imágenes de la vida pasada, las que, al imprimirse sobre el cuerpo de deseos, forman la base de la vida en el Purgatorio y en el Primer Cielo, sería perjudicialísimo que la cremación se efectuara antes de los tres días y medio subsiguientes a la muerte. A menos que se le ayudara el espíritu no podría mantener el cuerpo unido. Eso es una parte del trabajo que hacen los auxiliares invisibles de la humanidad. Algunas veces prestan su ayuda los espíritus de la Naturaleza o las Jerarquías Creadoras que guían a la humanidad. También se pierde algo cuando el cadáver es quemado antes de que el cordón plateado se rompa por sí solo; la impresión sobre el cuerpo de deseos no es entonces tan profunda como debiera ser, y esto produce su efecto en las vidas posteriores, porque cuanto más fuerte es la impresión tanto más agudos son los sufrimientos en el Purgatorio por el mal hecho y tanto más intensos son los goces del Primer Cielo que resultan de las buenas obras de la vida pasada. Son esos dolores y goces que nos proporcionan nuestras vidas pasadas lo que llamamos conciencia, así que cuanto perdemos en sufrimiento lo perdemos también en la realización de nuestros errores, cuya purificación nos impediría en las vidas futuras cometer los mismos actos de nuevo. Por lo tanto, los efectos de la cremación prematura son muy de tenerse en cuenta. Triste es decirlo, tenemos una ciencia del nacimiento, con obstétricos, parteras experimentadas, antisépticos y todo lo necesario para el confort del hijo y de la madre, pero nos falta la ciencia de la muerte que nos permita ayudar a nuestros amigos de toda una vida en su partida al más allá. 
 
-### PREGUNTA Nº 54
+### <h3 id="question-54">PREGUNTA Nº 54</h3>
 
 Si una persona ha perdido la memoria debido a una conmoción nerviosa o a una fiebre, ¿afecta eso al cuerpo vital y le impide renovar los recuerdos de la vida en los tres días que siguen a la muerte? 
 
@@ -869,7 +869,7 @@ Hay otra memoria, y es la que la ciencia llama la mente subconsciente. Así como
 
 George du Maurier ha escrito una obra llamada "Peter Ibbetson" donde se explica claramente esta teoría de la memoria subconsciente. Peter Ibbetson, prisionero en una penitenciaría inglesa, aprendió a "soñar de verdad," es decir, a poner en cierta posición su cuerpo para mirar las corrientes de éter internas, así que por la noche podía ponerse en contacto con cualquier escena de su pasado que quisiera; entonces se veía él mismo como espectador, y se contemplaba entre sus padres y compañeros de juego en el mismo ambiente en que se había desarrollado la escena con la que se ponía en contacto. Y veía toda la escena con muchos más detalles que los que él había notado cuando los sucesos tuvieron lugar materialmente. Esto era debido a que bajo esas circunstancias podía ponerse en contacto con su propia memoria subconsciente. No se hubiera podido poner en contacto con el futuro, pero su pasado si estaba inscripto en su corazón y le era, por consiguiente, accesible bajo las condiciones debidas. De esta memoria subconsciente se toma el panorama después de la muerte, y como ese panorama depende de la respiración solamente, continúa a pesar de todas las demás circunstancias de la vida del cuerpo, y aunque el hombre pierda su memoria consciente y no puede recordar nada a voluntad la memoria subconsciente conserva todo el pasado y lo mostrará oportunamente. 
 
-### PREGUNTA Nº 55
+### <h3 id="question-55">PREGUNTA Nº 55</h3>
 
 Si un espíritu desencarnado puede pasar a través de un muro, ¿puede también pasar a través de una montaña y de la tierra y ver lo que hay dentro? 
 
@@ -877,7 +877,7 @@ Respuesta: Eso depende de la clase de espíritu desencarnado a que se refiera el
 
 Es un hecho muy conocido que aunque muchos clarividentes y psíquicos ordinarios puedan dar muchos detalles de las visiones y escenas del Mundo del deseo, dan muy pocas informaciones concernientes al interior de la tierra, porque los clarividentes se encuentran con que al intentar entrar en la Tierra hay algo que les produce el mismo efecto que si se golpearan contra un muro. Eso es debido a que la Tierra es el cuerpo de un gran espíritu y nadie puede aproximarse a su interior salvo por el sendero de la iniciación. Hay nueve estratos de diverso espesor en la Tierra en torno del corazón central, el que forma, por decirlo así, el décimo, y en los Misterios Menores hay nueve grados y en cada grado el candidato es capaz de entrar en el correspondiente estrato de la Tierra mientras que la décima iniciación pertenece a los Grandes Misterios, que tienen cuatro divisiones. La primera enseña todo cuanto el hombre puede conocer en el Período Terrestre; la segunda de las grandes iniciaciones da el conocimiento que la humanidad habrá obtenido al final del Período de Júpiter; la tercera de las gran des iniciaciones da la sabiduría que la humanidad obtendrá al final del Periodo de Venus y la cuarta termina la evolución del actual plan evolutivo. El iniciado de cuarto grado se encontrará en la misma situación que la humanidad del Período de Vulcano. Entonces sabrá todo lo que la Tierra contiene en esta encarnación y en las manifestaciones futuras. Los Misterios Menores le habrán enseñado también la evolución desarrollada en los tres períodos anteriores al actual Período Terrestre. Estos secretos son los que están encerrados en la Tierra, hasta que el hombre haya abierto la puerta por sí mismo en la forma conveniente, así que ningún espíritu, esté en el cuerpo o esté desencarnado, puede ver lo que está en el interior de la Tierra hasta que las puertas de la iniciación hayan despertado sus facultades latentes. 
 
-### PREGUNTA Nº 56
+### <h3 id="question-56">PREGUNTA Nº 56</h3>
 
 ¿Nos encontramos con los seres queridos después de la muerte, aún cuando hayan tenido una creencia diferente de la nuestra o aunque hayan sido ateos? 
 
@@ -889,13 +889,13 @@ El amigo materialista, si vivió una buena vida moral, como generalmente suele s
 
 Lo veremos, reconociéndolo y asociándonos con él durante centurias enteras en la obra de crear el futuro alrededor ambiente, pues entonces no será ya más materialista absolutamente, porque cuando el espíritu arriba a esa elevada región, ya no está bajo las ilusiones que algunas veces lo envuelven en este mundo material. Todos y cada uno se reconocen como seres espirituales y sienten la memoria de esta vida terrestre en la misma forma en que nosotros recordamos una pesadilla. El espíritu, al entrar en ese mundo despierta a su verdadera naturaleza en cualquier caso. 
 
-### PREGUNTA Nº 57
+### <h3 id="question-57">PREGUNTA Nº 57</h3>
 
 ¿Reconoceremos a los seres queridos que han muerto? 
 
 Respuesta: Sí, ciertamente. Cuando un hombre abandona su cuerpo es exactamente el mismo que era antes. No hay diferencia alguna, salvo que no tiene cuerpo físico; él se ve a sí mismo en el Mundo del Deseo, y como retiene el recuerdo de su imagen aquí, se ve allí igual; su cuerpo de deseos tomará en seguida la forma que tenía su cuerpo físico, así que cualquiera que lo haya conocido en la vida terrestre lo reconocerá en seguida cuando pase al más allá. Además, será conveniente indicar que no hay poder transformador alguno en la muerte, que el hombre es mental y moralmente la misma persona. Oímos a veces hablar a la gente de algún muerto como si fuera un ángel o un santo, aunque realmente fuera un diablo aquí en la Tierra, pues creen irreverente decir la verdad cuando aquel ha pasado al más allá: Pero el hecho es que solo los que eran buenos aquí son buenos en el más allá. 
 
-### PREGUNTA Nº 58
+### <h3 id="question-58">PREGUNTA Nº 58</h3>
 
 El hombre que se suicida ¿permanece más tiempo en el Purgatorio que los que mueren naturalmente? 
 
@@ -903,13 +903,13 @@ Respuesta: Cuando el Ego está en vías de renacer desciende al Segundo Cielo. A
 
 Lo antedicho describe las condiciones ordinarias cuando la obra de la Naturaleza sigue su curso, pero el caso del suicida es diferente. Se ha llevado consigo el átomo simiente, pero el arquetipo vacío permanece vibrando aún. Por lo tanto se siente el suicida como si es tuviera hueco y experimenta dentro una sensación que puede compararse a un hambre intensísima. La materia necesaria para formar un cuerpo denso se encuentra a su alcance por doquier pero como le falta el tono o temple del átomo simiente no puede asimilársela. Esta espantosa sensación de vacío dura tanto como debió durar la vida ordinaria. De esta manera la Ley de Causa y Efecto enseña al suicida que no es conveniente de ninguna manera el escaparse de la escuela de la vida y que si lo hace no puede hacerlo impunemente. Así que cuando en la próxima vida los obstáculos se interpongan en su camino, recordará los sufrimientos del pasado, producidos por el suicidio, y se decidirá a tomar las experiencias que impulsan el crecimiento anímico. 
 
-### PREGUNTA Nº 59
+### <h3 id="question-59">PREGUNTA Nº 59</h3>
 
 Un hombre bueno al pasar por el Purgatorio ¿está consciente de todo el mal que hay allí antes de que pase al Primero, Segundo y Tercer Cielos? Y en caso afirmativo, ¿no sería eso un castigo excesivo para él? 
 
 Respuesta: El preguntante debe sacarse de la cabeza esa idea de castigo. No hay tal castigo. Cualquier cosa que le pueda ocurrir al hombre no es más que la consecuencia de leyes invariables, inmutables, y no hay tal Dios personal que recompense o castigue de acuerdo con su inexcusable voluntad o cualquier otro método. Cuando el Ego toma sus vehículos, o cuando los abandona, efectúa esto bajo el mismo principio y bajo las mismas leyes que gobiernan, por ejemplo, en el caso de un planeta. Cuando un planeta comienza a formarse en una nebulosa ígnea empieza a cristalizarse en los polos donde el movimiento es más lento. Esa materia cristalizada es arrojada por la fuerza centrífuga y vuela en el espacio porque es más pesado que el resto de la nebulosa. Por razones análogas cuando el cuerpo del espíritu que es el más denso se ha cristalizado tanto que ya no lo puede emplear más el Ego para obtener experiencia el proceso de abandonarlo se realiza mediante la fuerza centrífuga. la que naturalmente elimina el cuerpo denso en primer lugar. Eso es lo que llamamos muerte. Entonces el espíritu se encuentra libre por un tiempo, pero la materia de deseos más densa que es la encarnación de las pasiones y deseos inferiores deben también arrojarse, y ese esfuerzo para separarse de los deseos inferiores es lo que produce el dolor en el Purgatorio, en donde la fuerza centrífuga de repulsión es más fuerte. Si un hombre tiene alguna materia de deseos densa en su cuerpo emocional naturalmente tendrá que ir al Purgatorio y sufrir el proceso de purificación antes de que pueda entrar en el Primer Cielo. Allí la fuerza centrípeta de atracción atrae todo lo bueno de la vida hacia adentro, hacia el centro espiritual, donde se asimila convirtiéndose en poder anímico, que el espíritu puede emplear en su próxima vida terrestre como conciencia. Así que nuestra estadía en el Purgatorio depende de la cantidad de materia densa de deseos que tenga el hombre, y un hombre bueno naturalmente tiene muy poca o ninguna cantidad de esa clase de materia emocional. Por consiguiente apenas tendría existencia en el Purgatorio, pues pasara casi directamente por esas regiones al Primer Cielo. 
 
-### PREGUNTA Nº 60
+### <h3 id="question-60">PREGUNTA Nº 60</h3>
 
 ¿En qué estado se encuentra el asesinado y la víctima de un accidente en el más allá, inmediatamente después de la muerte? 
 
@@ -919,7 +919,7 @@ Sin embargo, no siempre es esto la causa de los accidentes, pero pueden existir 
 
 En el caso de un asesinado, así como en el del suicida, es diferente. El hombre, debido a su naturaleza divina, es el único ser que tiene la prerrogativa de causar desórdenes en el plan de desenvolvimiento, y así como puede terminar su propia vida voluntariamente, así también puede terminar la vida de un semejante antes de que a éste le haya sonado la hora natural de su muerte. El sufrimiento del suicida sería también el sufrimiento del asesinado, porque el arquetipo de su cuerpo se mantendría vibrante para juntar materiales que no podría asimilar; pero en el caso del asesinado, la intervención de otros agentes evitan ese sufrimiento de la víctima, la que flota en su cuerpo de deseos en estado comatoso, hasta el tiempo en el que debió morir ordinariamente. Si la justicia apresa al asesino y sufre la pena capital, la atracción magnética lo llevará junto a su víctima la que permanecerá constantemente ante él, y ése es realmente un castigo mucho más terrible que cualquier otro que pudiera sufrir; pero la víctima no sabe nada de la presencia de su asesino. 
 
-### PREGUNTA Nº 61
+### <h3 id="question-61">PREGUNTA Nº 61</h3>
 
 ¿Qué es el cielo? 
 
@@ -935,7 +935,7 @@ Durante la vida terrestre el hombre vive sobre esta tierra visible, firme, pero 
 
 El Tercer Cielo es un lugar en el cual muy pocas personas en el actual estado de desenvolvimiento tienen conciencia, porque la mayoría de nosotros estamos guiados en nuestras actividades mentales más por las emociones y sentimientos concernientes a las cosas concretas que por el pensamiento abstracto, que es la facultad especial que pertenece a ese Tercer Cielo. Cuando pensamos en el amor, lo hacemos generalmente relacionándolo con alguna persona, esto es, un pensamiento concreto. Pero pensar en el amor abstracto es cosa que solo pueden hacer contadas personas. Podemos pensar en una casa, en un animal, etc., pues son cosas concretas, pero nos disgusta pensar en una proposición abstracta, como por ejemplo, que el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos. Por consiguiente, la mayoría de nosotros tienen muy poca conciencia en el Tercer Cielo, y por lo tanto muy poca sustancia de ese mundo entra en la composición de este planeta. 
 
-### PREGUNTA Nº 62
+### <h3 id="question-62">PREGUNTA Nº 62</h3>
 
 Se dice que no hay tristeza alguna en el cielo, pero si nos encontramos allí con algún ser querido el que después sigue adelante, esa partida ¿no produce siquiera un pequeño sentimiento de disgusto? 
 
@@ -943,7 +943,7 @@ Respuesta: No, porque allí vemos las cosas tal como son. Aquí estamos cegados.
 
 Cuando el espíritu pasa al mundo celestial, se encuentra con algunos con los que estuvo asociado en la vida terrestre en el Primer Cielo, pero allí se ha hecho ya tan espiritual y está tan en contacto con las realidades de la vida, que sabe que la muerte no existe. Por consiguiente cuando alguno sigue adelante su camino no hay más que regocijo y placer porque entonces se sabe que lo encontraremos de nuevo y no puede dejar dolor alguno tras sí. 
 
-### PREGUNTA Nº 63
+### <h3 id="question-63">PREGUNTA Nº 63</h3>
 
 ¿Cómo hay que concentrarse para ayudar a los que están en el otro mundo? ¿Hay que entrar en el silencio y emitir pensamientos cariñosos y de ayuda hacia ellos? 
 
@@ -951,9 +951,18 @@ Respuesta: La capacidad de emitir un pensamiento y el poder de que ese pensamien
 
 Esto requiere una larga práctica, sin embargo, y son contados los occidentales que pueden concentrar así sus pensamientos con algún objeto. La religión occidental, reconociendo esa incapacidad enseña otro método que es más eficaz que la concentración: la oración. 
 
-Por consiguiente, si queremos ayudar a los que han pasado al más allá, debemos orar por su bienestar y para que puedan aprender las lecciones de esta vida perfectamente en sus experiencias purgatoriales y en el Primer Cielo; entonces haremos mucho más que si intentamos el método de concentración frío e intelectual. La actitud del cuerpo es un gran factor en la intensidad de la oración, y si el ponerse de rodillas parece que ha de facilitar ese acto, debe adoptarse esa posición. Por otra parte, según dice Emerson: aunque tus rodillas no se doblen nunca hacia el Cielo, a él llegan tus oraciones cotidianas, y ya sean dirigidas para bien o para mal, siempre son escuchadas y contestadas también." Así que la actitud del cuerpo durante la oración no tiene mayor importancia, salvo que se vea que es conducente a dar mayor intensidad a nuestros propósitos, porque esto es lo que hace efectiva la oración. 
+Por consiguiente, si queremos ayudar a los que han pasado al más allá, debemos orar por su bienestar y para que puedan aprender las lecciones de esta vida perfectamente en sus experiencias purgatoriales y en el Primer Cielo; entonces haremos mucho más que si intentamos el método de concentración frío e intelectual. La actitud del cuerpo es un gran factor en la intensidad de la oración, y si el ponerse de rodillas parece que ha de facilitar ese acto, debe adoptarse esa posición. Por otra parte, según dice Emerson: 
 
-### PREGUNTA Nº 64
+```
+aunque tus rodillas no se doblen nunca 
+hacia el Cielo, a él llegan tus oraciones cotidianas, 
+y ya sean dirigidas para bien o para mal, 
+siempre son escuchadas y contestadas también." 
+```
+
+Así que la actitud del cuerpo durante la oración no tiene mayor importancia, salvo que se vea que es conducente a dar mayor intensidad a nuestros propósitos, porque esto es lo que hace efectiva la oración. 
+
+### <h3 id="question-64">PREGUNTA Nº 64</h3>
 
 Los que han pasado al más allá ¿siguen observando y cuidando a los que han quedado aquí? Por ejemplo una madre ¿sigue cuidando a los hijos que dejó aquí? 
 
@@ -963,9 +972,9 @@ De manera que es perfectamente cierto que los muertos siguen observando a sus se
 
 De manera que podemos decir que nuestros seres queridos se interesan por nuestro bienestar durante largo tiempo, después de morir, pero debe recordarse que no hay poder transformador alguno en la muerte; que el morir no les da una capacidad especial para cuidar de nosotros y que ellos no pueden influenciar realmente nuestros asuntos, así que no hay motivo alguno para considerarlos nuestros ángeles guardianes. Son simples espectadores interesados salvo en algunos casos específicos, en los que un gran amor puede permitirles hacer algún ligero servicio en caso de gran necesidad. Ese servicio, sin embargo, nunca podrá efectuarse para enriquecernos o algo semejante, sino que solo podrá ser para prevenimos contra un peligro o algo por el estilo. 
 
-## SECCIÓN III - Preguntas concernientes al RENACIMIENTO
+<h2 id="section-3">SECCIÓN III - Preguntas concernientes al RENACIMIENTO</h2>
 
-### PREGUNTA Nº 65
+### <h3 id="question-65">PREGUNTA Nº 65</h3>
 
 ¿Por qué, salvo raras excepciones, renacemos sin tener el menor recuerdo de nuestras existencias anteriores, y tenemos que sufrir ciegamente en esta vida por las transgresiones cometidas en las anteriores, lo que ignoramos completamente? ¿No adelantaríamos espiritualmente con más rapidez si supiéramos cuándo cometimos errores y qué actos tenemos que corregir antes de que podamos progresar? 
 
@@ -977,13 +986,13 @@ En el Zanoni de Bulwer Lytton se nos habla de un horrendo espectro con el que se
 
 Si tenemos el valor de pasar ante el horrendo espectro, a quien percibimos primero por estar formado de materia emocional más densa, pronto obtendremos la fuerza y el valor de permanecer sin miedo en medio de las tormentas por las que tiene que pasar todo el que camina por el sendero del desinterés. Pero antes de que pasemos ante ese espectro no estamos preparados para conocer nuestras vidas anteriores; tenemos que contentarnos con la visión que tiene el resto de la humanidad. 
 
-### PREGUNTA Nº 66
+### <h3 id="question-66">PREGUNTA Nº 66</h3>
 
 Todos lo seres humanos que actualmente pueblan la tierra ¿son almas que ya han pasado por otras vidas terrestres anteriores, o se siguen creando almas durante todo el tiempo? 
 
 Respuesta: La entrada de los espíritus en cuerpos humanos, tal como están constituidos actualmente, comenzó en el estado de solidificación del mundo que se conoce como Época Lemúrica, y que no se completó hasta mediados de la Época Atlante, período de tiempo de una duración quizás de millones de años. Pero desde entonces no ha habido más entradas de espíritus; la puerta se cerro definitivamente, porque nosotros hemos ya evolucionado tanto que los que no pueden alcanzar ya el estado en el que puedan manipular un cuerpo humano estarían demasiado atrás como para que pudieran alcanzarnos. Desde aquel tiempo los espíritus encarnados en formas humanas han ido evolucionando mediante repetidos renacimientos, de suerte que, sin excepción, cada uno de los seres humanos que hay ahora sobre la tierra se han encarnado anteriormente en diferentes épocas y lugares. 
 
-### PREGUNTA Nº 67
+### <h3 id="question-67">PREGUNTA Nº 67</h3>
 
 ¿Cómo se puede conocer indudablemente que el renacimiento es un hecho? Los que así lo afirman ¿no estarán alucinados? 
 
@@ -991,19 +1000,19 @@ Respuesta: El clarividente educado que puede leer en la memoria de la Naturaleza
 
 Pero todavía puede preguntarse: la clarividencia de la que se habla como medio de investigación, ¿no puede ser una alucinación? Aunque el clarividente sea perfectamente honesto ¿no puede ser víctima de una visión quimérica? En contestación a esto puede replicarse que el clarividente tiene todos los días a su disposición para verificar sus observaciones. Cuando un hombre visita la ciudad de Nueva York y la ha visto, nunca podrá decirse a sí mismo: ¿será cierto que la he visto? El ha estado allí y la conoce y así sucede con el clarividente. A veces cuando deja su cuerpo, se encuentra y trabaja con personas a quienes no conoce en su vida ordinaria. Más tarde puede ser invitado a visitar a esos amigos del mundo invisible; puede viajar e ir a una ciudad mediante su visión clarividente, ciudad en donde él será un extraño; puede encontrar la casa y la calle clarividentemente y ser reconocido por su amigo.. Puede entonces conversar con esos amigos de cosas y lugares que hicieron y visitaron en los mundos invisibles, y si tuvo alguna duda sobre la realidad de su vida fuera del cuerpo físico se convencerá así de la realidad de sus experiencias fuera del cuerpo. Sabrá que sus amigos no son extraños para él, sabe que no puede haberse ilusionado, que sus trabajos y experiencias de los mundos invisibles son tan reales como su vida, como sus trabajos y experiencias de aquí. 
 
-### PREGUNTA Nº 68
+### <h3 id="question-68">PREGUNTA Nº 68</h3>
 
 Las almas que han pasado por el Purgatorio y por el Primero, Segundo y Tercer Cielos ¿vuelven a renacer aquí, o van a otras esferas? 
 
 Respuesta: Vuelven aquí una y otra vez hasta que han aprendido todas las lecciones que aquí pueden aprenderse. Esencialmente es el mismo principio según el cual enviamos un niño a la escuela. No lo enviamos a la escuela primaria un día, a la escuela superior el segundo y a la universidad el tercero, sino que lo enviamos a la escuela primaria un día y otro, durante largo tiempo, hasta que haya aprendido todas las lecciones que tiene que aprender allí. El conocimiento que adquiera en la escuela primaria es la base de los que tiene que aprender en la escuela superior, cuyas lecciones son a su vez la base de los conocimientos de la universidad. Siguiendo un proceso semejante hemos aprendido nosotros bajo diferentes condiciones en el pasado algunas lecciones, y en el futuro, cuando hayamos aprendido todo lo que debe aprenderse actualmente, encontraremos que nos espera una evolución más elevada. Así ante nosotros un progreso sin fin, porque nosotros somos divinos como nuestro Padre, que está en los cielos, y las limitaciones son imposibles. 
 
-### PREGUNTA Nº 69
+### <h3 id="question-69">PREGUNTA Nº 69</h3>
 
 ¿Nos ponemos en contacto con los amigos de una vida cuando nacemos en una nueva vida terrestre? 
 
 Respuesta: La ley del Renacimiento tiene como compañera a la ley de Causación. Es evidente que hay muchas causas puestas en movimiento por todos nosotros que no producen efectos en esta misma vida. Por ejemplo, un marido está enfermo y su esposa cuida de él con gran abnegación. Eso es una deuda evidentemente, y si la enfermedad del marido dura hasta la muerte de éste en esa vida no habrá habido ninguna oportunidad para devolver ese favor. Pero si conocemos lo que son las leyes de la Naturaleza y como operan éstas, comprenderemos que no pueden quedar sin efecto por una cosa tan insignificante como el cesar de vivir en cierto cuerpo. Si nos rompemos un brazo no se cura al día siguiente, aunque hayamos dormido toda la noche completamente inconscientes de ello; pero cuando nos despertemos el brazo estará casi en la misma condición que el día anterior. Así sucede con las obras que hayamos hecho en el cuerpo en una vida. Aunque pasemos por la existencia que transcurre entre una muerte y el nuevo nacimiento, y estemos ahora completamente inconscientes de nuestras vidas anteriores, sin embargo, cuando entremos en una nueva vida, la ley de asociación, las causas generadas en una vida anterior, nos llevarán a un nuevo alrededor ambiente en el que encontraremos a nuestros antiguos amigos y enemigos. Y los conoceremos también, si bien quizás no podamos reconocerlos directamente. Algunas veces, sin embargo, nos encontramos por vez primera a una persona y nos sentimos atraídos por ella; sentimos como si la hubiéramos conocido toda nuestra vida y que podemos confiar en ella completamente. Esto es debido a que el espíritu interno reconoce a un antiguo amigo aunque no tenga el poder de imprimir en el cerebro que ahora posee ese reconocimiento. O quizás podemos encontrar a una persona cuya compañía no nos agrade, sintiendo instintivamente cierta repugnancia, aunque no tengamos razones para ello desde el punto de vista corriente; pero el espíritu ha reconocido también en ella a un antiguo enemigo. Así que nuestros agrados y desagrados instintivos están dictados por nuestras experiencias anteriores, y se verá que podemos tener confianza en esos sentimientos a la luz de experiencias posteriores. 
 
-### PREGUNTA Nº 70
+### <h3 id="question-70">PREGUNTA Nº 70</h3>
 
 ¿La experiencia obtenida en una encarnación se recuerda siempre separadamente o queda agregada a las anteriores, de manera que al final el espíritu estará completamente consciente de la suma total de sus experiencias, o la experiencia de una vida queda más o menos inconscientemente absorbida por la siguiente encarnación, de forma que se obtenga entonces un efecto general? 
 
@@ -1013,13 +1022,13 @@ De parecida manera las experiencias que hemos obtenido en las diferentes vidas q
 
 Sin embargo, también hay en la Naturaleza un recuerdo de nuestro pasado que abarca hasta sus más mínimos detalles. El clarividente educado que puede leer la memoria de la Naturaleza puede observar las diversas vidas de un hombre, como si una película de cinematógrafo se desarrollara ante el en sentido inverso. Vería primeramente la vida actual del hombre en cuestión, después su nacimiento, su estadía en los mundos invisibles, después la muerte de su vida anterior, todo lo cual se desarrollaría por sí mismo en sentido inverso, pasando de la vejez por la virilidad, la juventud, la adolescencia y la infancia hasta el nacimiento, y así sucesivamente a través de las diversas vidas. 
 
-### PREGUNTA Nº 71
+### <h3 id="question-71">PREGUNTA Nº 71</h3>
 
 Cuando el espíritu está en vías de renacer, y ya se ha provisto de su mente, sumergiéndose en el Mundo del Deseo, ¿no está nuevamente en el Purgatorio? 
 
 Respuesta: La dificultad del preguntante está en que no ha comprendido bien la naturaleza de lo que constituye el Purgatorio. El Purgatorio está en las regiones inferiores del Mundo del Deseo, pero esas regiones no son Purgatorio para los que de nada tienen que purificarse. Los deseos inferiores del hombre están formados por la sustancia emocional de esa región, y como no los puede gratificar, el hombre sufre. Además allí la fuerza de repulsión es reina suprema, y cuando el Ego se está dirigiendo hacia él Mundo Celestial tiene en su cuerpo de deseos las imágenes de los malos actos cometidos. Esas imágenes están también formadas por la sustancia más densa emocional, pues fueron generadas por las pasiones del hombre cuando cometió la mala obra recordada en ellas, y la fuerza centrífuga de repulsión trata de expulsarías de ese vehículo. Ese proceso es el que produce el dolor. Cuando, por otro lado, el Ego pasa por esta región para renacer, la fuerza centrífuga de atracción atrae nueva materia de deseos. Entonces ya no es purgatorio absolutamente; ni es Purgatorio para los Auxiliares Invisibles que van y vienen entre los espíritus aprisionados, tratando de ayudarles a aprender sus lecciones para convertirlos así en seres humanos mejores. Únicamente cuando el espíritu tiene que purificarse de algún mal siente esa región como Purgatorio. 
 
-### PREGUNTA Nº 72
+### <h3 id="question-72">PREGUNTA Nº 72</h3>
 
 ¿Cómo podéis creer en la teoría de la reencarnación, que dice que desde aquí vamos al cuerpo de algún animal? ¿No es mucho más hermosa la doctrina cristiana, que dice que iremos al Cielo con Dios y sus ángeles? 
 
@@ -1031,9 +1040,9 @@ Además, la transmigración es una imposibilidad en la Naturaleza, porque en tod
 
 El preguntante demanda si no es mucho más hermoso el creer en un cielo con Dios y los ángeles. Puede ser que así sea, pero no debe interesarnos tanto por lo agradable o placentero como por encontrar la Verdad, y aunque algunos sabihondos menosprecian esta doctrina del renacimiento, diciendo que es imposible o pagana, esto en realidad tiene poco valor. Cuando estamos ante un problema matemático no nos preocupamos absolutamente del que lo resolvió primero; todo lo que nos importa es saber si está bien resuelto. Y sucede lo mismo con esta doctrina; nada importa quién la enseñó primero; es la única que resuelve los problemas de la vida racionalmente, mientras que la teoría de que un hombre que jamás se ha preocupado de la música tenga inmediatamente después de morir una pasión insaciable por ella y se contente con soplar una trompeta o tocar un arpa eternamente, es algo más que ridículo. 
 
-## SECCIÓN IV - Preguntas concernientes a las ENSEÑANZAS BÍBLICAS
+<h2 id="section-4">SECCIÓN IV - Preguntas concernientes a las ENSEÑANZAS BÍBLICAS</h2>
 
-### PREGUNTA Nº 73
+### <h3 id="question-73">PREGUNTA Nº 73</h3>
 
 ¿Cómo es que cada secta interpreta la Biblia diferentemente y que cada una tiene una vindicación aparente para sus propias ideas sobre dicho libro? 
 
@@ -1043,7 +1052,7 @@ Hay un punto que los escépticos no ven. Su opinión es que si cierta interpreta
 
 Puede afirmarse rotundamente que ninguna escuela de pensamiento que haya atraído la atención de mucha gente durante largo tiempo deja de poseer alguna verdad; y percibámosla o no, en toda secta existe la simiente de la divina enseñanza la que gradualmente va elevando a sus fieles, remontándolos hacia la cúspide de la montaña, y, por consiguiente, es necesaria la mayor tolerancia con cualquier creencia. 
 
-### PREGUNTA Nº 74
+### <h3 id="question-74">PREGUNTA Nº 74</h3>
 
 ¿Qué significa el segundo aspecto del Dios Triuno? 
 
@@ -1051,7 +1060,7 @@ Respuesta: Dios es uno, así como la luz es una, pero así como la luz al pasar 
 
 A estos tres principios de Dios se les han dado diversos nombres en las diferentes religiones y mucha tinta y palabras se han gastado en los últimos años para defender o derrumbar la idea de una Trinidad, aunque eso fuera evidente para cualquiera que se tomara la molestia de considerar meditativamente a la Naturaleza. En el Mundo Occidental solemos llamar al segundo aspecto del Dios Trino el principio conservador unificante: Cristo; y es muy apropiado ese nombre en cierto sentido, porque el Cristo vino como instructor del Amor y de la Fraternidad Universal que sustituirá a las naciones que guerrean unas contra otras, y El mismo indicó que habrá todavía un estado superior, cuando el reino que él estableció sea entregado al Padre y todos serán uno en El. 
 
-### PREGUNTA Nº 75
+### <h3 id="question-75">PREGUNTA Nº 75</h3>
 
 Los Ángeles del Destino, ¿son seres individuales? 
 
@@ -1059,7 +1068,7 @@ Respuesta: Sí, son poderosas individualidades, los embajadores de los Grandes �
 
 En esa obra los Ángeles del Destino tienen como auxiliares a una poderosa legión de agentes y espíritus de la Naturaleza, que no están aún individualizados, pero que trabajan bajo la dirección de esos Grandes Seres inconscientemente, así como los animales están guiados por sus espíritus colectivos. 
 
-### PREGUNTA Nº 76
+### <h3 id="question-76">PREGUNTA Nº 76</h3>
 
 Los Ángeles y Arcángeles ¿nos observan individualmente así como en conjunto y conocen lo que son nuestras vidas? 
 
@@ -1075,13 +1084,13 @@ En una encarnación futura de la Tierra, cuando esos minerales se hayan converti
 
 Contestando la pregunta más específicamente, podemos decir que los Arcángeles trabajan con las naciones y las razas de la Tierra, mientras que los Ángeles se relacionan particularmente con las familias y con los individuos de la familia. El "Ángel Custodio," sin embargo, no es exactamente una entidad perteneciente a una evolución superior, sino más bien la personificación de nuestras obras buenas de las vidas pasadas, el que, aunque invisible, está siempre con nosotros impulsándonos a obrar rectamente y a hacer más bien. 
 
-### PREGUNTA Nº 77
+### <h3 id="question-77">PREGUNTA Nº 77</h3>
 
 ¿Tienen alas los Ángeles, como se muestra en las pinturas? 
 
 Respuesta: No; ninguno de ellos tiene las alas de pájaro que se ven en los cuadros, pero hay algunos seres en el Mundo Espiritual que tienen apéndices semejantes a alas. Dichos apéndices no tienen por objeto el poder volar o moverse en el espacio, sino que son corrientes de fuerza que se exteriorizan y que pueden dirigirse en una u otra dirección en la misma forma en que nosotros usamos nuestros brazos. Así que un Arcángel que está impulsando a los ejércitos de dos naciones a la batalla puede enviar una corriente de fuerza espiritual en una dirección, llenando a los soldados de un ejército de miedo, y enviar otra fuerza al ejército enemigo para aumentar su valor, influenciando así la batalla de una manera insospechada por los contendientes. 
 
-### PREGUNTA Nº 78
+### <h3 id="question-78">PREGUNTA Nº 78</h3>
 
 Los Rosacruces, ¿aceptan la Biblia como si fuera la Palabra de Dios desde la primera hasta la última página? 
 
@@ -1095,9 +1104,11 @@ Además, los que escribieron la Biblia no quisieron escribir un "Libro de Dios" 
 
 En otras palabras, no prestan atención a la letra, sino al espíritu. Y así como en un campo sembrado de papas no hay solo esos vegetales, sino también el suelo, la tierra que las oculta, así también en la Biblia las perlas de la verdad oculta están escondidas en lo que a veces parecen ser horribles vestiduras. El ocultista que se ha preparado para poseer esas perlas ha recibido la clave y las ve nítidamente. Para los otros siguen permaneciendo ocultas hasta que hayan trabajado para poseer esa clave. De manera que si bien la historia de los triunfos de los hijos de Israel y los tratos de cierto Dios son parcialmente ciertos, existe allí un significado espiritual muchísimo más importante que la historia material. Y aunque los evangelios contienen en líneas generales la vida de un individuo llamado Jesús, son fórmulas iniciáticas que muestran las experiencias que todos deben pasar al caminar por el sendero que va a la verdad y a la vida. 
 
-Ese sendero lo habían vislumbrado los que escribieron la Biblia, quienes eran profetas y videntes, pero solo en la amplitud posible en su tiempo. Una era nueva necesitará una Biblia nueva, una palabra nueva. 
+Ese sendero lo habían vislumbrado los que escribieron la Biblia, quienes eran profetas y videntes, pero solo en la amplitud posible en su tiempo. 
 
-### PREGUNTA Nº 79
+Una era nueva necesitará una Biblia nueva, una palabra nueva. 
+
+### <h3 id="question-79">PREGUNTA Nº 79</h3>
 
 ¿Qué dicen los Rosacruces sobre la creación del mundo en siete días? 
 
@@ -1119,11 +1130,9 @@ Durante la primera parte del actual Período la Tierra era tan oscura como en el
 
 El ardiente Período Solar tiene su correspondencia en la Época Hiperbórea, que se describe en los versículos 11-19, como el tiempo en el que se generaron las plantas y la Tierra se convirtió en un planeta iluminado exteriormente por el Sol y la Luna. Esto terminó la obra que se dice realizóse en el cuarto gran día del desarrollo de nuestra Tierra. 
 
-En la Época Lemúrica tenemos la recapitulación de las condiciones del Período Lunar, un corazón central ardiente y una neblina ígnea como atmósfera, así como la creación de los animales inferiores, cosa que se describe en la Biblia como la obra del quinto día. 
+En la Época Lemúrica tenemos la recapitulación de las condiciones del Período Lunar, un corazón central ardiente y una neblina ígnea como atmósfera, así como la creación de los animales inferiores, cosa que se describe en la Biblia como la obra del quinto día. En la Época Atlante se formaron los vertebrados, mamíferos y el hombre, o sea la obra del sexto día, y cuando el hombre se convirtió en un ser racional en la actual Época Aria, los Dioses descansaron, dejando al hombre la tarea de salvarse mediante las dos leyes del Renacimiento y la Causación. 
 
-En la Época Atlante se formaron los vertebrados, mamíferos y el hombre, o sea la obra del sexto día, y cuando el hombre se convirtió en un ser racional en la actual Época Aria, los Dioses descansaron, dejando al hombre la tarea de salvarse mediante las dos leyes del Renacimiento y la Causación. 
-
-### PREGUNTA Nº 80
+### <h3 id="question-80">PREGUNTA Nº 80</h3>
 
 La Biblia enseña la inmortalidad del alma categóricamente. La Filosofía Rosacruz la enseña también, apelando a la razón. ¿No hay prueba alguna positiva de la inmortalidad? 
 
@@ -1131,11 +1140,9 @@ Respuesta: El preguntante se equivoca cuando dice que la Biblia enseña la inmor
 
 Sin embargo, en lo que al espíritu concierne, el caso es diferente, y aún cuando se trata de éste no se emplea la palabra inmortal. La inmortalidad queda sobrentendida en la misma forma en que la doctrina del renacimiento se sobrentiende en muchos pasajes, pero hasta la doctrina del renacimiento mismo implica la inmortalidad del espíritu humano, y dicha doctrina se enseñó una vez definitivamente, por lo menos, en San Mat. II: 47, cuando Cristo dice al Bautista: "Este es Elías." En esa doctrina se sobrentendía la inmortalidad, porque si el espíritu de Elías había renacido como Juan el Bautista, tenía que haber sobrevivido a la muerte de su cuerpo. La inmortalidad era entonces una de las enseñanzas de los Misterios, y hasta hoy en día apenas puede recibirla el hombre, salvo cuando ha entrado en el sendero de la iniciación y en él ve por sí mismo la continuidad de la vida. 
 
-Contestando la pregunta puede decirse, sin embargo, que todo depende de lo que se entienda por prueba positiva y de qué calificaciones tenga la persona que pide la prueba para juzgarla. No se puede probar un problema de trigonometría a un niño, pero si se le da tiempo y crece, aprendiendo los preliminares necesarios, podrá resolver fácilmente el problema. 
+Contestando la pregunta puede decirse, sin embargo, que todo depende de lo que se entienda por prueba positiva y de qué calificaciones tenga la persona que pide la prueba para juzgarla. No se puede probar un problema de trigonometría a un niño, pero si se le da tiempo y crece, aprendiendo los preliminares necesarios, podrá resolver fácilmente el problema. Tampoco se puede probar la existencia del color y de la luz a un hombre que ha nacido ciego; son hechos que no puede apreciar porque le falta la facultad requerida. Pero si una operación le devuelve la vista, no habrá necesidad de que le probemos esos hechos; entonces por sí mismo verá la verdad. Por parecidas razones nadie puede apreciar las pruebas de la inmortalidad del espíritu hasta que por sí mismo se ha preparado para verlo; entonces le será muy fácil obtener una prueba positiva de la inmortalidad del espíritu, de su existencia anterior al nacimiento y de su persistencia después de la muerte, mientras no se haya calificado convenientemente tendrá que satisfacerse con las inferencias razonables que pueden obtenerse en muchas formas. 
 
-Tampoco se puede probar la existencia del color y de la luz a un hombre que ha nacido ciego; son hechos que no puede apreciar porque le falta la facultad requerida. Pero si una operación le devuelve la vista, no habrá necesidad de que le probemos esos hechos; entonces por sí mismo verá la verdad. Por parecidas razones nadie puede apreciar las pruebas de la inmortalidad del espíritu hasta que por sí mismo se ha preparado para verlo; entonces le será muy fácil obtener una prueba positiva de la inmortalidad del espíritu, de su existencia anterior al nacimiento y de su persistencia después de la muerte, mientras no se haya calificado convenientemente tendrá que satisfacerse con las inferencias razonables que pueden obtenerse en muchas formas. 
-
-### PREGUNTA Nº 81
+### <h3 id="question-81">PREGUNTA Nº 81</h3>
 
 ¿Hay alguna afirmación en la Biblia sobre el renacimiento? 
 
@@ -1145,7 +1152,7 @@ En San Mateo, 16:14, El preguntó a sus discípulos ¿quién creen que soy yo? y
 
 Se mencionan también algunos casos en la Biblia, en los que una persona era elegida para ejecutar determinada obra antes de su nacimiento. Un Ángel predijo la venida de Sansón y su misión: derrotar a los filisteos. El Señor dijo al profeta Jeremías: "Antes de que salieras del seno de tu madre y yo te santifiqué y te ordené profeta de las naciones A Juan y a Jesús se les dio su misión antes de que nacieran. A una persona se la elige para hacer algo debido a su preparación especial. La experiencia presupone práctica, y la práctica antes de nacer debe haberse adquirido en alguna vida anterior. De manera que la doctrina del renacimiento se sobrentendía en los casos mencionados. 
 
-### PREGUNTA Nº 82
+### <h3 id="question-82">PREGUNTA Nº 82</h3>
 
 De acuerdo con la Biblia solo se dio alma al hombre. ¿Por qué decís, entonces, que los animales tienen un espíritu colectivo? 
 
@@ -1155,19 +1162,19 @@ Sin embargo, esa traducción no es correcta; nephesh significa aliento y no alma
 
 Si el preguntante acepta solamente la palabra inglesa y la versión esa de la Biblia, como si el libro hubiera sido escrito directamente en nuestro idioma, le parecería extraño que se le preguntara: Si el hombre ha obtenido su alma según lo describe la Biblia, ¿cuándo recibió la mujer la suya? ¿O es que ella no tiene alma? 
 
-### PREGUNTA Nº 83
+### <h3 id="question-83">PREGUNTA Nº 83</h3>
 
 ¿Es cierto que Eva fue sacada de la costilla de Adán? 
 
 Respuesta: Entre los cuarenta y siete traductores de la Biblia del Rey Jaime solamente tres comprendían el hebreo y dos de ellos murieron antes de que se tradujeran los Salmos. Además, en hebreo, especialmente en el hebreo antiguo, no se ponían nunca las vocales, así que la palabra tenía diversos significados según donde se pusieran esas vocales. En el caso de la costilla de Adán, la palabra "costilla," leída en una forma da tsad, que realmente significa costilla, pero leída en otra forma da tsela, que significa costado, lado. Las enseñanzas ocultistas referentes al desarrollo de la Tierra y del hombre indican que hubo un tiempo cuando el hombre era semejante a Dios o Elohim que lo creó. Era macho-hembra, hermafrodita, capaz de generar otro ser de sí mismo. Más tarde se hizo necesario para su futuro desarrollo que tuviera un cerebro. Antes exteriorizaba la doble fuerza creadora, positiva y negativa, pero después se retuvo la mitad de esa fuerza para construir el cerebro, la laringe y el sistema nervioso, como órganos del pensamiento, formando así un conmutador desde el cual pudiera el espíritu manipular su organismo y expresarse vocalmente. Algunos espíritus retienen la fuerza creadora positiva y exteriorizan solo la negativa, o fuerza femenina, mientras que otros retienen la fuerza femenina o negativa y exteriorizan la positiva. De suerte que puede decirse que Dios sacó un lado de aquel ser, pero no la costilla. El admitir esa versión no solo dilucida este punto, sino que tiene la virtud de explicar otros hechos inexplicables. 
 
-### PREGUNTA Nº 84
+### <h3 id="question-84">PREGUNTA Nº 84</h3>
 
 Si Dios hizo al hombre a su imagen y semejanza, y, por lo tanto, perfecto, ¿por qué fueron necesarias las diferentes épocas anteriores a la caída de Adán y Eva? 
 
 Respuesta: El preguntante tiene un malentendido. La Biblia dice que Dios vio su obra y que ésta era buena, pero no perfecta. Si hubiera sido perfecta no hubiera tenido nada más que hacer, y la evolución hubiera sido superflua. La raza humana no se hizo definidamente humana hasta el final de la Época Lemúrica, cuando el espíritu comenzó a entrar en su cuerpo. La humanidad de aquel tiempo, Adán y Eva, era muy diferente de la humanidad actual. Era también producto de la evolución, porque no hay creaciones instantáneas. Esos seres habían progresado a través de estados análogos al vegetal y al animal, viniendo desde el mineral de donde habían partido, y no eran solo una pareja, como creen la mayoría de los religiosos ortodoxos, sino una humanidad masculina y femenina en el tiempo que menciona la Biblia. Se dice que los creó macho y hembra; además no era la primera vez que el hombre estaba en la Tierra, o que ésta estuvo poblada por vez primera, como puede verse en el Génesis 1:28, donde se les ordenó ir y repoblar (re-llenar) la tierra, demostrando que ésta ya había sido residencia de otros seres antes del advenimiento de los que llama Adán y Eva. Josefo dice que Adán significa tierra roja y el Admah hebreo del que se deriva Adán significa "tierra firme," lo que describe muy bien ese estado. Adm (según dice el texto hebreo) no vino a la Tierra hasta que ésta se solidificó y se hizo firme, si bien vino antes de que la tierra se hubiera enfriado tanto como ahora, así que la tierra era realmente roja y se encontraba en estado ígneo en ese tiempo. El había estado aquí antes. Durante las épocas anteriores a la Lemúrica, los espíritus flotaban sobre la tierra en ignición y ayudaron a formarla y modelarla como ahora está. Los espíritus humanos estaban entonces aprendiendo lecciones que no hay para qué tratar aquí. Estábamos inconscientes, pero hicimos el trabajo, así como ahora los órganos digestivos realizan las operaciones químicas necesarias para la digestión y asimilación de los alimentos, aunque no tengamos conciencia de ese proceso. Sin embargo, es evidente que así como los trabajos de los niños en la escuela primaria y en la superior son la base indispensable de las lecciones de la universidad y de la facultad, así también las primeras épocas fueron las piedras fundamentales del estado actual. Eran tan necesarias como el aprender el alfabeto antes de que podamos leer. 
 
-### PREGUNTA Nº 85
+### <h3 id="question-85">PREGUNTA Nº 85</h3>
 
 ¿Cuál fue el pecado o la caída del Edén? 
 
@@ -1183,7 +1190,7 @@ Pero en ese tiempo ”sus ojos no se habían abierto aún" y los seres humanos d
 
 El pecado es la acción contraria a la ley, y mientras la humanidad se propagó bajo la dirección de los ángeles, quienes comprendían las líneas cósmicas de fuerza, el parto fue sin dolor, como lo es aún hoy entre los animales salvajes, los que se propagan solo en determinada época del año y bajo la dirección del espíritu colectivo. Pero cuando el hombre, obrando según el consejo de ciertos espíritus que se encuentran a mitad del camino entre la humanidad y los ángeles, comenzó a procrear en cualquier época del año, sin tener en cuenta las líneas de fuerza cósmicas, ese pecado, o el "comer del árbol del conocimiento," produjo el parto doloroso que el Ángel había predicho a Eva. No la maldijo, sino que simplemente se limitó a indicar el resultado del uso ignorante de la función creadora. 
 
-### PREGUNTA Nº 86
+### <h3 id="question-86">PREGUNTA Nº 86</h3>
 
 El Árbol de la Vida, del que se habla en la Biblia ¿es lo mismo que la piedra filosofal de los alquimistas? 
 
@@ -1197,7 +1204,7 @@ En este peregrinaje llegará al fin un tiempo en el que el hombre estará prepar
 
 En todas partes la transparencia se ha empleado para designar el poder de la pureza. En el Antiguo Testamento se habla del templo de Salmón, que se "construyó sin resonar de martillos." El más hermoso ornamento era el mar fundido. Hiram Abiff, el constructor, como ultima realización consiguió trasmutar todos los metales de la tierra haciéndolos tan transparentes como el cristal. En el Nuevo Testamento se habla de una hermosa ciudad que tenía un mar de cristal. En el Oriente el Iniciado trata de convertirse en un alma diamantina, pura y transparente. En el Occidente la Piedra Filosofal es el símbolo del alma purificada, extraída de cuerpos que se han transmutado y espiritualizado. El alma que peque morirá, pero el alma pura se inmortalizará mediante el elixir de vida, el Árbol de la Vida, convirtiéndose en un cuerpo vital que durará milenios como vehículos del espíritu. 
 
-### PREGUNTA Nº 87
+### <h3 id="question-87">PREGUNTA Nº 87</h3>
 
 El Señor apreciaba los sacrificios u ofrendas sangrientas de Abel, pero no las dulces y limpias ofrendas de Caín. ¿Por qué? 
 
@@ -1211,7 +1218,7 @@ De Set descendieron los reyes y los sacerdotes que recibían su sabiduría ya he
 
 La razón por qué Jehová aceptó la ofrenda de Abel fue porque éste había tomado las cosas tal como habían sido creadas, era un hijo del hombre que no aspiraba a la creación divina. Pero Caín era de naturaleza divina; tenía en sí mismo el instinto creador, y esto no era del agrado de su Dios. 
 
-### PREGUNTA Nº 88
+### <h3 id="question-88">PREGUNTA Nº 88</h3>
 
 ¿Cuál es el significado esotérico del Arca de la Alianza? 
 
@@ -1229,7 +1236,7 @@ Esa fue la caída en las condiciones materiales que requería la generación de 
 
 Indicamos en la primera parte de nuestra contestación que los Querubines eran los autores de nuestros poderes vitales, así que ellos tienen que custodiarlos hasta que el hombre se haya calificado para conocerlos. Por consiguiente se dice que se colocaron en el Jardín del Edén con una espada de fuego, y es muy significativo que sobre las puertas del Templo de Salomón estaban también los Querubines, pero no tenían ya más la espada de fuego, sino una flor abierta. La flor es el órgano generador de la planta, la que realiza el acto generador en una forma purísima y desapasionada, y cuando el hombre haya aprendido a ser puro y desapasionado, de manera que toda forma sea concebida inmaculadamente, podrá entrar en el Templo de Salomón, y podrá quedarse allí, puesto que eso significa el haber sacado las varas del arca, según se dice proféticamente en la Revelación, donde dice el espíritu: "A todo aquel que triunfe lo convertiré en un pilar de la Casa de mi Dios y de allí no saldrá más." 
 
-### PREGUNTA Nº 89
+### <h3 id="question-89">PREGUNTA Nº 89</h3>
 
 ¿Tienen algún significado oculto las diversas fiestas cristianas del año? 
 
@@ -1245,7 +1252,7 @@ La fiesta judía de los Tabernáculos se efectuaba cuando el Sol cruzaba el ecua
 
 Así que todas las fiestas del año están relacionadas con los movimientos de los astros en el espacio. 
 
-### PREGUNTA Nº 90
+### <h3 id="question-90">PREGUNTA Nº 90</h3>
 
 Habéis dicho que Cristo se encarnó solo una vez, en Jesús; ¿no se había encarnado antes en Gautama, Buda y en Krishna? 
 
@@ -1253,7 +1260,7 @@ Respuesta: No. Jesús mismo era un espíritu que pertenecía a nuestra evolució
 
 Podemos decir que antes de la venida de Cristo éste trabajó sobre la Tierra desde afuera, similarmente a como el espíritu colectivo obra sobre los animales desde el exterior, guiándolos y ayudándolos hasta que se han individualizado suficientemente como para permitir la entrada de un espíritu individual. En la Tierra no había espíritu interno antes de la venida de Cristo, pero cuando se consumó el sacrificio del Gólgota y el Espíritu de Cristo se libertó del cuerpo de Jesús entró en la Tierra convirtiéndose en el Espíritu Terrestre interno, del que dice San Pablo que está ansiando y trabajando por el día de la liberación, porque, contrariamente a la opinión aceptada, el sacrificio del Gólgota no terminó con la muerte del cuerpo de Jesús; en realidad puede decirse que eso solo fue el principio; el sacrificio continuará hasta que hayamos desarrollado el altruismo y el amor, los que liberarán al Espíritu Terrestre de las abrumadoras condiciones de la existencia material, cuando la necesidad de guiarnos haya terminado. 
 
-### PREGUNTA Nº 91
+### <h3 id="question-91">PREGUNTA Nº 91</h3>
 
 Se dice que Dios amaba tanto al mundo que dio a su único Hijo y que cualquiera que en El creyera no moriría, sino que tendrá vida eterna." ¿cómo se puede reconciliar esa idea con las palabras de Cristo: Vine, no a traer paz, sino una espada? 
 
@@ -1277,7 +1284,7 @@ Debemos sobrepasar el patriotismo y aprender a decir con esa gran alma, Tomás P
 
 En la Santa Noche, cuando nació Cristo, los ángeles cantaron una canción: "Paz en la Tierra y buena voluntad a los hombres." Más tarde el niño creció y dijo: "Yo no vengo a traer paz, sino una espada," y la religión cristiana ha sido la más sangrienta de todas las religiones humanas. Ha llevado la desolación y el dolor a todas partes donde ha ido; pero, aparte de todo eso, llegará un tiempo en el que la canción de los Ángeles se convertirá en una realidad y entonces se vivirán las palabras de Cristo sobre el amor al prójimo. Cuando la espada haya hecho su obra se transformará en un arado, y entonces ya no habrá más guerras, porque tampoco habrá más naciones. 
 
-### PREGUNTA Nº 92
+### <h3 id="question-92">PREGUNTA Nº 92</h3>
 
 ¿Qué significa salvación y condenación eterna? 
 
@@ -1285,19 +1292,17 @@ Respuesta: Las religiones ortodoxas afirman que los que han obrado bien en esta 
 
 Tal interpretación es completamente errónea, si se toma como autoridad el diccionario griego, porque es evidente que todo el significado depende de la palabra "Everlasting" (eterno). Esa palabra es "aionian," y el diccionario dice que significa "una edad, un periodo indefinido, una vida," etc. Cuál es el verdadero significado de ese pasaje es lo que debemos preguntarnos, y con objeto de encontrarlo es necesario que tengamos una visión amplia de la vida. 
 
-Al principiar la manifestación, Dios, la gran Llama, diferencia dentro de sí mismo (no de sí mismo) un gran número de llamas germinales o chispas, porque es un hecho que en El vivimos, nos movemos y tenemos nuestro ser. Nada puede existir fuera de Dios. 
-
-Así que Dios, dentro de si mismo, diferencia esas innumerables almas. Cada una de ellas es potencialmente divina, cada una de ellas contiene todos los poderes, así como la semilla encierra la planta, pero así como la simiente debe ser sembrada para que produzca la planta, es también necesario que esas chispas divinas se sumerjan en vehículos materiales para que aprendan lecciones que solo pueden dominarse en una vida separada como la que existe en el mundo. 
+Al principiar la manifestación, Dios, la gran Llama, diferencia dentro de sí mismo (no de sí mismo) un gran número de llamas germinales o chispas, porque es un hecho que en El vivimos, nos movemos y tenemos nuestro ser. Nada puede existir fuera de Dios. Así que Dios, dentro de si mismo, diferencia esas innumerables almas. Cada una de ellas es potencialmente divina, cada una de ellas contiene todos los poderes, así como la semilla encierra la planta, pero así como la simiente debe ser sembrada para que produzca la planta, es también necesario que esas chispas divinas se sumerjan en vehículos materiales para que aprendan lecciones que solo pueden dominarse en una vida separada como la que existe en el mundo. 
 
 El mundo debe ser considerado como una escuela de entrenamiento para los espíritus evolucionantes. Algunos de ellos entraron primero y se aplicaron diligentemente a la tarea que estaba ante ellos, y por consiguiente, progresaron rápidamente. Otros comenzaron más tarde y están rezagados. Ocupan, por lo tanto, un puesto a retaguardia en la raza; pero todos ellos alcanzarán últimamente la meta de la perfección. A consecuencia de lo antedicho hay varias clases de esos espíritus, y antes de que una clase de esos espíritus pueda subir a un grado superior de la evolución es necesario que hayan adquirido cierto tipo de proficiencia. Entonces están salvados de una condición inferior en la que ya se han desarrollado. Una vez que ese grado de eficiencia ha sido ya adquirido entran en otra raza, en otra época. Pero entre el gran número hay siempre rezagados, y a esos se les condena a quedarse en la clase en que estaban hasta que hayan llegado al grado de crecimiento requerido para su ulterior adelanto. Este plan es semejante al método bajo el cual se asciende a los niños de la escuela al grado superior, en los exámenes anuales, si han alcanzado cierto grado de conocimiento; si no, se les condena a quedarse atrás, pero no para siempre, sino solamente hasta que otro examen anual pruebe que ya se han calificado para pasar adelante. 
 
 Lo que acabamos de decir no es estirar el significado de la palabra "aionian." Se ha empleado en otros pasajes de la Biblia en tal forma que nos exime de toda argumentación. Por ejemplo, en la carta de San Pablo a Filemón, le devuelve al esclavo Onésimo con estas palabras. "Quizás era bueno que lo perdieras por algún tiempo para que volviera a ti para siempre." La palabra "para siempre" (forever) es la misma palabra "aionian" que se tradujo eternamente (everlasting) en relación con la condenación y la salvación, y se verá claramente que en este caso solo significa una vida, porque ni Pablo ni Filemón, como tales, iban a vivir siempre. 
 
-### PREGUNTA Nº 93
+### <h3 id="question-93">PREGUNTA Nº 93</h3>
 
 ¿Cuáles son las enseñanzas Rosacruces respecto a la Inmaculada Concepción? 
 
-Respuesta: La doctrina de la Inmaculada Concepción es quizás uno de los más sublimes misterios de la religión cristiana, y quizá también por esa razón ha sufrido más al materializársela como a los otros misterios. Ha sufrido a la vez la interpretación de sus ignorantes sostenedores y las burlas de los escépticos. 
+Respuesta: La doctrina de la Inmaculada Concepción es quizás uno de los más sublimes misterios de la religión cristiana, y quizá también por esa razón ha sufrido más al materializársela como a los otros misterios. Ha sufrido a la vez la interpretación de sus ignorantes sostenedores y las burlas de los escépticos. When, for instance, we see in churches a picture of God as an old man sitting up in the skies with a blow-pipe in his mouth in the act of blowing the infant Jesus into the side of Mary, it is more than ridiculous, it is pathetic!
 
 La idea popular, pero errónea, es que hace unos 2000 años un individuo llamado Jesús Cristo nació de una madre sin cooperación alguna por parte de un padre terrestre, y este incidente se considera único en la historia del mundo. En realidad eso no es cierto; la inmaculada concepción ha tenido lugar muchas veces en la historia del mundo y será universal en el futuro. 
 
@@ -1311,7 +1316,7 @@ El que un niño sea concebido en pecado o inmaculadamente depende de su propia a
 
 Tal niño no es nunca accidental. Su venida ha sido anunciada y se le ha esperado anticipadamente con impaciencia y alegría, y hay muchos casos actualmente de algunas personas que se aproximan mucho a la Inmaculada Concepción; realizan el acto generador con amor purísimo, y la madre permanece tranquila, sin que se la moleste durante el período de gestación, y el niño nace casi tan puramente como lo que se describe en el símbolo que nos ocupa. A su debido tiempo, cuando la humanidad se haga más altruista, el amor puro sucederá a la pasión y todos los hombres serán engendrados con pureza. 
 
-### PREGUNTA Nº 94
+### <h3 id="question-94">PREGUNTA Nº 94</h3>
 
 La Estrella de Belén ¿fue un cometa? 
 
@@ -1321,13 +1326,11 @@ La clave del misterio es ésta:
 
 Los Evangelios no son simples historias de la vida de un individuo, sino que describen simbólicamente los incidentes del sendero de realización: son fórmulas iniciáticas. 
 
-En el verano, cuando toda la tierra está ocupada en producir el pan de la vida para todo lo que en ella vive, el Sol está en lo más alto del cielo, enviando a nuestro planeta sus rayos vivificadores. Pero cuando el Sol se encuentra bajo el ecuador en invierno y la Naturaleza duerme, las influencias espirituales que salen del Sol son potentísimas. 
-
-Cuando la oscuridad física aumenta, la luz espiritual brilla fulgurante y culmina en el nacimiento de salvadores en la noche más oscura del año, la que está entre el 24 y el 25 de diciembre, cuando el sol comienza su jornada hacia el Norte para salvar a la humanidad del frío y del hambre que se producirían si se quedara en las latitudes australes. 
+En el verano, cuando toda la tierra está ocupada en producir el pan de la vida para todo lo que en ella vive, el Sol está en lo más alto del cielo, enviando a nuestro planeta sus rayos vivificadores. Pero cuando el Sol se encuentra bajo el ecuador en invierno y la Naturaleza duerme, las influencias espirituales que salen del Sol son potentísimas. Cuando la oscuridad física aumenta, la luz espiritual brilla fulgurante y culmina en el nacimiento de salvadores en la noche más oscura del año, la que está entre el 24 y el 25 de diciembre, cuando el sol comienza su jornada hacia el Norte para salvar a la humanidad del frío y del hambre que se producirían si se quedara en las latitudes australes. 
 
 En esa noche particular del año las vibraciones espirituales son más fuertes. Es la Noche Sagrada del año por excelencia. En esa noche es más fácil para el neófito el ponerse en contacto directo con las vibraciones espirituales. Por eso se acostumbraba llevar los neófitos a los templos en esa noche. Allí se les sumergía en trance bajo la dirección de los sabios y se les enseñaba a dejar sus cuerpos conscientemente mediante un esfuerzo de la voluntad. La Tierra quedaba entonces transparente ante su mirada y detrás de ella veían el Sol de media noche: la Estrella Fulgurante. Por supuesto, que no era el Sol físico, sino el Sol espiritual, que es la verdadera estrella de Cristo, porque el Cristo Cósmico es el Iniciado más elevado de los luminosísimos espíritus solares, los Arcángeles. 
 
-### PREGUNTA Nº 95
+### <h3 id="question-95">PREGUNTA Nº 95</h3>
 
 ¿Cuáles fueron los presentes de los Sabios (Reyes Magos)? 
 
@@ -1345,7 +1348,7 @@ Ningún espíritu puede obrar en un mundo si no tiene un vehículo formado por l
 
 Vemos, pues, que los dones de los sabios fueron espíritu, alma y cuerpo, dedicados al servicio de la humanidad, porque darse a sí mismo es imitar a Cristo y seguir sus pasos. 
 
-### PREGUNTA Nº 96
+### <h3 id="question-96">PREGUNTA Nº 96</h3>
 
 Jesús ¿no era judío? Y si es así ¿qué quiere decir "antes de que Abraham fuera Yo soy?" Porque aunque se hubiera reencarnado, Abraham era el padre de la raza Judía. 
 
@@ -1355,13 +1358,11 @@ Esto es justamente lo que les sucedió a los judíos. Eran tan intensamente patr
 
 El Cristo combatió esa idea de identidad con la raza cuando dijo: "Antes de que Abraham fuera Yo soy." El Ego existió antes que Abraham; Abraham era la encarnación de un Ego, de un espíritu. El y los de raza judía que de él descendieron eran simplemente cuerpos, pero los Egos que habitaban esos cuerpos existieron antes que la raza corporal. Así que Cristo aconsejó a sus oyentes el dejar lo transitorio y mirar lo Eterno. 
 
-En otro lugar dijo: "A menos que el hombre deje padre y madre no puede seguirme." Padre y madre son también cuerpos de raza 
-
-No debemos abandonar a los miembros de nuestra familia que dependan de nosotros para seguir la vida superior; debemos llenar todos nuestros deberes para con ellos antes de emprender el estudio de la vida superior, pero no debemos identificarnos con la raza, la nación o la familia en la que hemos nacido. Cada uno de nosotros es un espíritu individual, que existió antes que los cuerpos que llamamos razas y existiremos cuando estas dejen de existir. Si no grabamos esto en nuestra mente nos cristalizaremos en la raza, en vez de seguir adelante y progresar. Eso es precisamente lo que han hecho los judíos. Su intenso patriotismo ha hecho que se siguieran encarnando como espíritus en la raza judía durante milenios enteros. 
+En otro lugar dijo: "A menos que el hombre deje padre y madre no puede seguirme." Padre y madre son también cuerpos de raza. No debemos abandonar a los miembros de nuestra familia que dependan de nosotros para seguir la vida superior; debemos llenar todos nuestros deberes para con ellos antes de emprender el estudio de la vida superior, pero no debemos identificarnos con la raza, la nación o la familia en la que hemos nacido. Cada uno de nosotros es un espíritu individual, que existió antes que los cuerpos que llamamos razas y existiremos cuando estas dejen de existir. Si no grabamos esto en nuestra mente nos cristalizaremos en la raza, en vez de seguir adelante y progresar. Eso es precisamente lo que han hecho los judíos. Su intenso patriotismo ha hecho que se siguieran encarnando como espíritus en la raza judía durante milenios enteros. 
 
 Los Guías de la humanidad han tratado en varias formas de que se amalgamarán con los demás, para que pudieran progresar, pero todo fue en vano, y Cristo fue enviado a ellos con el mismo objeto que Booker T. Washington ha sido enviado a los negros. Aunque más avanzado que sus hermanos de raza, se encarnó en un cuerpo negro para ayudarles más eficazmente. Si se hubiera encarnado en un cuerpo blanco los negros lo habrían seguido considerando como un patrón. Similares razones hicieron que Cristo naciera como judío. Se esperaba que así atenderían sus enseñanzas, por venir de uno de los de su propia raza. Pero en vez de honrar sus tradiciones y considerar a Abraham reverentemente, el echó por tierra sus ideales, habló de un nuevo cielo y de una nueva tierra, afirmó la prioridad del individuo ante la raza, y, por lo tanto, nada quisieron tener con él y... "eligieron a Barrabás." 
 
-### PREGUNTA Nº 97
+### <h3 id="question-97">PREGUNTA Nº 97</h3>
 
 Jesús fue bautizado a los treinta años, recibiendo el "Espíritu de Cristo" Explicad ese bautismo. 
 
@@ -1377,7 +1378,7 @@ Mientras la humanidad vivió en ese mismo estado, no estaba tan avanzada mentalm
 
 Cuando uno ha progresado lo suficiente y ve las bendiciones de la fraternidad, cuando se trata de abolir el egoísmo y cultivar el altruismo, puede pasar por el rito del bautismo. Entonces entra en el agua como símbolo de su vuelta a las condiciones ideales de la fraternidad, que existirán cuando toda la humanidad viva en el agua, por así decirlo. Por lo tanto, vemos a Jesús, el heraldo de la Fraternidad Universal, entrar en las aguas del Jordán para ser bautizado allí al ir a empezar su ministerio o misión. Cuando salió de las aguas el Espíritu Universal bajó a él en forma de paloma y desde entonces ya no fue más Jesús simplemente, sino Cristo Jesús, el salvador potencial del mundo lleno del Espíritu Universal, que en un tiempo quitará todos los males del egoísmo y devolverá a la humanidad todos los beneficios de la fraternidad, la que será un hecho cuando el Espíritu Universal sea inmanente en toda la humanidad. 
 
-### PREGUNTA Nº 98
+### <h3 id="question-98">PREGUNTA Nº 98</h3>
 
 En vuestras enseñanzas indicáis que permanecemos en el Purgatorio cierto tiempo, más o menos la tercera parte de lo que duró la vida terrestre, con objeto de que expiemos nuestros pecados antes de entrar en el cielo. ¿Como se puede armonizar esa enseñanza con las palabras que Cristo dirigió al ladrón agonizante: "Hoy estarás conmigo en el Paraíso"? 
 
@@ -1385,9 +1386,13 @@ Respuesta: El Nuevo Testamento fue escrito en griego, lenguaje en el que no se e
 
 En un servicio religioso alguien hizo un pedido que el pastor leyó así: "A sailor going to sea, his mother.in-law- desires the prayers of the congregation for his safe return to wife and child".(*) El pedido no estaba puntuado absolutamente, pero indicaba que la suegra del joven era muy solícita para éste y deseaba que volviera sano y salvo a los brazos de su esposa e hijo, y, por consiguiente, deseaba las oraciones de la congregación. Si el pastor lo hubiera leído sin la coma, el pedido hubiera dicho que "The sailor, going te see his mother-in-law, desired the prayers of the congregation for his safe return to wife and child" (**) y entonces uno hubiera creído que la señora en cuestión era un tártaro, ya que el joven creía necesario pedir las oraciones de la concurrencia antes de atreverse a ponerse frente a ella. Si las palabras de Cristo se leen así: "En verdad te digo hoy, tú serás conmigo en el Paraíso," eso indicaría que el ladrón se encontraría con él en el Paraíso en algún tiempo futuro, no definido. Pero si la coma se pone antes de la palabra hoy, como en la Biblia, da la idea que se tiene generalmente al respecto. 
 
-Esa idea es absolutamente errónea, lo que puede verse cuando Cristo, inmediatamente después de su resurrección, dijo a la mujer: "No me toques, porque yo no he ascendido todavía hasta mi Padre." Si el hubiera prometido al ladrón que estaría con él en el Paraíso en el día de la crucifixión y tres días más tarde hubiera declarado que no había estado allí, el Cristo hubiérase contradicho, lo que, por supuesto, es una imposibilidad. Colocando la coma en el sitio indicado quedan reconciliados completamente los dos pasajes, y además Judas nos dice que en el intervalo el estuvo trabajando con los espíritus en el Purgatorio. (*) Un marinero va al mar, su suegra desea las plegarias de la congregación para que retorne con seguridad al lado de su esposa e hijo. (**) La confusión de este párrafo estriba en que en el idioma inglés, mar se escribe "sea" y se pronuncia "si," y el verbo "ver" se escribe "see" y se pronuncia también como mar, "si." Por consiguiente el pastor al leer el papel sin comas daría a entender: "Un marinero yendo a ver a su suegra, etc," en vez de: "Un marinero que navega por el mar, etc." (N. del E.). 
+() - (*) Un marinero va al mar, su suegra desea las plegarias de la congregación para que retorne con seguridad al lado de su esposa e hijo.
 
-### PREGUNTA Nº 99
+() - (**) La confusión de este párrafo estriba en que en el idioma inglés, mar se escribe "sea" y se pronuncia "si," y el verbo "ver" se escribe "see" y se pronuncia también como mar, "si." Por consiguiente el pastor al leer el papel sin comas daría a entender: "Un marinero yendo a ver a su suegra, etc," en vez de: "Un marinero que navega por el mar, etc." (N. del E.). 
+
+Esa idea es absolutamente errónea, lo que puede verse cuando Cristo, inmediatamente después de su resurrección, dijo a la mujer: "No me toques, porque yo no he ascendido todavía hasta mi Padre." Si el hubiera prometido al ladrón que estaría con él en el Paraíso en el día de la crucifixión y tres días más tarde hubiera declarado que no había estado allí, el Cristo hubiérase contradicho, lo que, por supuesto, es una imposibilidad. Colocando la coma en el sitio indicado quedan reconciliados completamente los dos pasajes, y además Judas nos dice que en el intervalo el estuvo trabajando con los espíritus en el Purgatorio.  
+
+### <h3 id="question-99">PREGUNTA Nº 99</h3>
 
 Cuál es el significado esotérico de los dos ladrones y de la cruz? 
 
@@ -1395,7 +1400,7 @@ Respuesta: Contrariamente a la opinión aceptada por la generalidad, los cuatro 
 
 Cuando se lee en la memoria de la Naturaleza se ve que en el momento de la crucifixión no eran dos solamente, sino varios los que fueron crucificados. Los hombres de aquel tiempo sufrían la pena capital por las menores ofensas y siempre estaban prontos a condenar a esa muerte bárbara. De manera, pues, que los que querían velar el significado oculto de los Evangelios llenaron con algo su relato y oscurecieron los puntos vitales de la crucifixión. La parte de la historia referente a los ladrones es, por consiguiente, un incidente verdadero, sin tener nada que ver con el significado esotérico absolutamente 
 
-### PREGUNTA Nº 100
+### <h3 id="question-100">PREGUNTA Nº 100</h3>
 
 ¿Cuál es el significado de la Cruz? ¿Es simplemente un instrumento de tortura, como se enseña generalmente en las religiones ortodoxas? 
 
@@ -1411,7 +1416,7 @@ Entre los reinos vegetal y humano está el animal con su médula espinal horizon
 
 En el esoterismo la cruz no fue nunca considerada como instrumento de tortura, y no lo fue hasta el siglo VI, en el que se empezaron a pintar cuadros representando al Cristo crucificado. Anteriormente el símbolo de Cristo era una cruz con un cordero echado en su base, indicando el hecho de que cuando Cristo nació, el Sol en el equinoccio vernal cruzaba el ecuador por el signo Aries, el cordero. Los símbolos de las diversas religiones se han hecho siempre en esa forma. Cuando el Sol, debido a la precesión de los equinoccios cruzaba el equinoccio vernal en el signo Tauro, el toro, se fundó una religión en Egipto que adoraba el Buey Apis en el mismo sentido en que nosotros adoramos al Cordero de Dios. Mucho antes se oye hablar del Dios boreal Thor, que llevaba sus cabras gemelas por el cielo. En ese tiempo el equinoccio vernal estaba en signo Géminis, los Gemelos. Cuando nació Cristo el equinoccio vernal estaba en el grado 59 de Aries, el Cordero, y por lo tanto a nuestro Salvador se le llama el Cordero de Dios. Sin embargo, en las primeras centurias se anduvo discutiendo respecto a la propiedad de poner el cordero como símbolo de nuestro Salvador. Algunos sostenían que el equinoccio vernal de su nacimiento estaba realmente en el signo Piscis, los peces, y que el símbolo del Salvador debía ser un pez. Como recuerdo de dicha disputa la mitra de los obispos conserva la forma de la cabeza de un pez. 
 
-### PREGUNTA Nº 101
+### <h3 id="question-101">PREGUNTA Nº 101</h3>
 
 La misión de Cristo ¿no hubiera podido llevarse a cabo sin esa violencia de la crucifixión? 
 
@@ -1421,20 +1426,22 @@ Según el mismo principio, es un hecho que, aunque actualmente se producen guerr
 
 Contestando a la pregunta podemos decir, por consiguiente, que en el caso de Cristo la muerte violenta era necesaria, porque permitió al Espíritu Cristo retirarse del cuerpo de Jesús sin retener ninguna de las impurezas inherentes a los simples vehículos humanos. 
 
-### PREGUNTA Nº 102
+### <h3 id="question-102">PREGUNTA Nº 102</h3>
 
 De acuerdo con las enseñanzas rosacruces ¿cuándo vendrá Cristo nuevamente? 
 
 Respuesta: En verdad dice la Biblia que "el día y la hora no los conoce ningún hombre," y las personas que han tratado de fijar cierta fecha o año para su Segunda Venida han malentendido completamente la misión de Cristo en la Tierra. El dio sus enseñanzas a la humanidad para que la ley de "ojo por ojo y diente por diente" se aboliera, para que la ley del temor (de Dios) fuera sustituida por la ley del amor. Se dice que "la Ley y los profetas fueron hasta Cristo," pero sabemos que aún hoy es necesaria la ley. Por consiguiente, es evidente, que la ley no se abolió al venir Cristo físicamente. Es la venida del Cristo "interno," la naturaleza íntima del hombre, la que abolirá la ley. San Pablo habla del advenimiento de Cristo cuando "el Cristo se forme en vosotros," y hasta que el Cristo no se haya formado en nosotros no estaremos preparados para su Segunda Venida, Ángelus Silesius dice: 
 
+```
 "Aunque Cristo naciera mil veces en Belén,  
 Si no nace en ti mismo tu alma se perderá.  
 En vano mirarás la Cruz del Gólgota  
 Hasta que en ti mismo se haya formado."  
+```
 
 La Segunda Venida del Cristo depende de cuando haya un número suficiente de personas que sean semejantes a El, que hayan alcanzado el principio Crístico, y entonces, así como dos diapasones del mismo temple vibran juntos cuando uno de ellos ha sido golpeado, así también podremos responder a las vibraciones del Cristo, vibraciones que se iniciarán cuando El vuelva. Por lo tanto, ese acontecimiento no puede calcularse. Cada vez que tratamos de imitar a Cristo y realizar sus enseñanzas, estamos apresurando su venida. Luchemos, pues. 
 
-### PREGUNTA Nº 103
+### <h3 id="question-103">PREGUNTA Nº 103</h3>
 
 ¿Qué significa el que Cristo fue hecho alto sacerdote para siempre, según la orden de Melchisedec? 
 
@@ -1444,7 +1451,7 @@ Durante los tiempos a los que llega la historia ha existido siempre una divisió
 
 La última división de la iglesia y del estado ha sido un manantial agotable de animosidades y guerras en la humanidad, porque cada no de esos poderes ha luchado por la supremacía, y sin embargo eso es un prejuicio, porque en realidad ninguno que no sea tan espiritual como un sacerdote está preparado a gobernar como rey, y nadie que no tenga la sabiduría y la justicia de un rey puede estar preparado para tener la gofa espiritual de la humanidad que tienen los sacerdotes. Cuando esas cualidades se combinen en un solo Guía nuevamente, el reino de la paz y de la fraternidad universal volverá. A Cristo se lo anunció como tal gula, capaz de unir la iglesia y el estado como rey y sacerdote según la orden de Melchisedec. Su Segunda Venida inaugurará el milenio, la edad de la paz y de la dicha, cuando la simbólica Nueva Jerusalén, la ciudad de la Paz (porque Jer-u-Salem significa allí habrá paz) reine sobre todas las naciones de la tierra unidas en una gran fraternidad universal. Entonces habrá Paz en la Tierra y buena voluntad en los hombres. 
 
-### PREGUNTA Nº 104
+### <h3 id="question-104">PREGUNTA Nº 104</h3>
 
 ¿Qué quiso significar Cristo cuando dijo: "Todos los que vinieron antes que Yo eran ladrones y bandidos"? 
 
@@ -1464,7 +1471,7 @@ Entonces los ojos de la humanidad no se habían abierto aún; eran seres espirit
 
 De esta manera, por haber prestado oído a Lucifer, el falso dador de luz, el hombre quedó sujeto a la tristeza, al dolor y a la muerte. Le habían robado su inocencia y su paz. El Cristo vino al mundo para salvar a la humanidad del pecado, de la tristeza y de la muerte. Por consiguiente, se llamó a sí mismo la verdadera luz, y a los otros, a los que habían venido antes, los llamó ladrones y bandidos, porque le habían robado al hombre la visión espiritual, si bien lo habían iluminado en sentido físico. 
 
-### PREGUNTA Nº 105
+### <h3 id="question-105">PREGUNTA Nº 105</h3>
 
 ¿Qué quiso Cristo significar cuando dijo: "el que no recibe el reino de Dios como un pequeño niño no entrará en él"? 
 
@@ -1476,7 +1483,7 @@ Cuando entramos en la vida superior debemos primeramente olvidar todo lo que sab
 
 Nada hay tan notable en el niño como su flexibilísima actitud mental, lo que lo hace eminentemente enseñable, y el discípulo que se esfuerza en vivir la vida superior debe tratar siempre de mantener su mente en ese estado fluídico, porque tan pronto como nuestras ideas se cristalizan y no se prestan a cambios, nuestro progreso cesa. Esa era la gran verdad que Cristo trató de presentar a sus oyentes cuando hizo la observación que ha motivado la pregunta que nos ocupa. 
 
-### PREGUNTA Nº 106
+### <h3 id="question-106">PREGUNTA Nº 106</h3>
 
 ¿No comió pescado Jesús? Entonces, ¿por que son vegetarianos los Rosacruces? 
 
@@ -1488,7 +1495,7 @@ No obstante, el preguntante está equivocado. Los rosacruces no enseñan que tod
 
 Como dice la Biblia, no es lo que va a la boca lo que nos mancha. Si deseamos y nos alimentamos con alimentos repugnantes, el pecado está en el deseo y no en el alimento mismo. Si un hombre se encuentra en un lugar donde no pueda obtener los alimentos puros que desearía, debe tomar el alimento que pueda obtener, aunque sea carne, sin repugnancia, con el mismo agrado que si tomara alimentos puros, pues eso no puede mancharlo, debido a la actitud de su mente. 
 
-### PREGUNTA Nº 107
+### <h3 id="question-107">PREGUNTA Nº 107</h3>
 
 Si Cristo dio de comer pescado a la multitud, ¿por qué es malo usar el pescado o la carne como alimento? 
 
@@ -1506,7 +1513,7 @@ Hay un significado esotérico en haber alimentado a la multitud con pescado, per
 
 El que desee una exposición completa de la pregunta "¿justifica la Biblia el carnivorismo?" debe leer un folleto que, publicado con el título Does the Bible jusfify Flesh Eating?," editó la Unity Society of Kansas City, Missouri, que da el pro y el contra con toda imparcialidad, y demuestra que eso solo fue una concesión al deseo de carne anteriormente mencionado, pero que constituia una práctica escasamente tolerable. 
 
-### PREGUNTA Nº 108
+### <h3 id="question-108">PREGUNTA Nº 108</h3>
 
 Ruégole explique por qué no se sacrificó el ternero cebado por el buen hijo y sí por el pródigo. ¿Por qué no se le dio a éste su merecido por su mala obra? 
 
@@ -1514,19 +1521,19 @@ Respuesta: La historia del hijo pródigo es una parábola en la que Cristo quiso
 
 Entonces viene la tarea de desembarazarse de los diversos vehículos en los cuales se ha encerrado y de elevarse una vez más hasta la consciente comunión con Dios. Mientras está entregado a esa ardua tarea el padre viene a encontrarle en el camino"; la silente voz interna empieza a hablarle y a decirle de las glorias celestes, y al fin, cuando la evolución humana se ha completado o cuando el espíritu individual ha tomado el corto atajo de la iniciación, hay una reunión con Dios y con los otros hermanos que aún no han ido a la escuela de experiencia. Naturalmente, hay más regocijo por la vuelta de uno que ha luchado la buena batalla y ha vuelto al hogar celeste que por uno que aún no ha tratado de mejorar sus propias oportunidades. 
 
-### PREGUNTA Nº 109
+### <h3 id="question-109">PREGUNTA Nº 109</h3>
 
 ¿Por qué el Señor ensalzó al mayordomo injusto, según se relata en el capítulo décimo sexto de San Lucas? 
 
 Respuesta: El preguntante debiera leer dicho capítulo cuidadosamente. Allí se habla de un mayordomo infiel a quien llamó su señor, pues este último sospechaba que sus cuentas no eran exactas. El infiel mayordomo hizo un pacto con los deudores de su dueño, para resguardarse a sí mismo contra el caso eventual de ser despedido el día que le pidieran ajuste de cuenta. Se dice en el versículo 8 que el señor elogió al infiel mayordomo. Al rendir cuentas lo hizo tan cuidadosamente que su dueño quedó decepcionado, porque el "señor" del hombre su dueño era el único que lo elogió, como se verá observando que la palabra señor está escrita con minúscula, mientras que siempre se usa mayúscula cuando se refiere a Cristo. 
 
-### PREGUNTA Nº 110
+### <h3 id="question-110">PREGUNTA Nº 110</h3>
 
 Ruégole explique lo que significa pecar contra el Espíritu Santo. 
 
 Respuesta: Hablando generalmente, el Espíritu Santo es el poder creador de Dios. Como prueba, recuérdese el pasaje del credo "concebido por el Espíritu Santo," que Gabriel dijo a María que vendría sobre ella. Mediante él, todo lo que es, ha sido traído a la existencia, y un rayo de ese atributo de Dios es el que emplea el hombre para la perpetuación de la raza. Cuando se abusa de él, es decir, cuando se usa para gratificar los sentidos, sea como vicio solitario o asociado, con o sin matrimonio legal, eso es pecar contra el Espíritu Santo. Ese pecado, según se nos dice, no es perdonable: tiene que ser expiado. La humanidad, como conjunto, está actualmente sufriendo por ese pecado. Los cuerpos debilitados, las enfermedades que vemos en torno nuestro, han sido causadas por centurias de abusos, y hasta que aprendamos a subyugar nuestras pasiones no podrá haber salud en la raza humana. Hemos nacido de padres que creían bueno gratificar sus pasiones en cualquier momento. En consecuencia, sufrimos por ello ahora, y gracias a nuestra actitud respecto a la cuestión sexual la mayoría de nosotros estamos actualmente echando las mismas enfermedades sobre nuestros hijos. De esta manera los pecados de los padres caen sobre los hijos de generación en generación, y seguirán produciendo tristezas y sufrimientos hasta que comprendamos que cada niño tiene que nacer bien por ser su derecho, así como recibir los debidos cuidados y estar en las necesarias condiciones físicas durante el período antenatal. 
 
-### PREGUNTA Nº 111 
+### <h3 id="question-111">PREGUNTA Nº 111</h3>
 
 El Credo Cristiano ¿está basado sobre alguna autoridad divina? 
 
@@ -1534,7 +1541,7 @@ Respuesta: Hay tres formas de credos cristianos. Una de ellas es la que se conoc
 
 Sin embargo, la Biblia misma da un credo, en el pasaje que indica que no hay otro nombre, salvo el de Cristo Jesús, con el cual puedan salvarse los hombres, y esto está de acuerdo con las enseñanzas ocultas, porque Jehová fue el autor de todas las antiguas Religiones de Raza en las que el temor de Dios se ponía como yugo a los deseos de la carne, y la ley se le imponía al hombre para contrarrestar sus deseos. Las Religiones de Raza obran educativamente sobre la naturaleza emocional por los medios indicados, pero a su debido tiempo será sucedida por la Religión del Cristo. Esta religión de fraternidad y de amor expulsará al miedo engendrado por la ley de Jehová. Disolverá las naciones con sus leyes, luchas y batallas, obrando sobre el cuerpo vital, de manera que la humanidad será influida únicamente por el amor, en vez de por la ley. No es esto el fin, sin embargo. Cuando el reino se haya establecido por completo será entregado al Padre. La Religión del Padre será aún más elevada que la Religión del Hijo. 
 
-### PREGUNTA Nº 112
+### <h3 id="question-112">PREGUNTA Nº 112</h3>
 
 ¿Cómo armonizáis la ley de causa y efecto con el perdón de los pecados? 
 
@@ -1556,7 +1563,7 @@ En el curso ordinario de la vida el hombre pasa al Purgatorio al morir y expía 
 
 De manera, pues, que la doctrina del perdón de los pecados es un hecho real en la Naturaleza. Si nos arrepentimos, oramos y reformamos, los pecados de los que nos hemos arrepentido, orando y reformado, nos son perdonados y se borran de nuestra biografía. En caso contrario los borrarán los correspondientes sufrimientos del Purgatorio después de la muerte. Así que la doctrina de Karma o ley de Causa y Efecto, según se enseña en el Oriente, no satisface completamente las necesidades humanas, pero las enseñanzas cristianas, que encierran ambas leyes, la de Causación y la del perdón de los pecados, dan una enseñanza más completa respecto a los métodos empleados por los Grandes Guías para instruirnos. 
 
-### PREGUNTA Nº 113
+### <h3 id="question-113">PREGUNTA Nº 113</h3>
 
 ¿Qué poder usó Pedro para resucitar a Dorcas? 
 
@@ -1574,7 +1581,7 @@ Durante el sueño el Ego también se retira del cuerpo denso, pero el cuerpo vit
 
 Ocurre algunas veces que el Ego no entra en el cuerpo por la mañana, sino que se queda fuera durante un intervalo, que varia desde un día hasta un número indefinido de ellos. Entonces se dice que el cuerpo esta en trance natural. Pero el cordón plateado no se rompe por ninguna de las dos partes mencionadas. Si se llegan a producir rupturas no hay restauración posible. El Cristo y los apóstoles eran clarividentes; vieron que la ruptura no había tenido lugar en los casos mencionados, y de ahí que dijeran: "No está muerto, sino que duerme." También poseían el poder de obligar al Ego a entrar en sus cuerpos y restaurarlo, poniéndolo en su estado normal. Dichos titulados milagros fueron ejecutados en la forma expuesta. 
 
-### PREGUNTA Nº 114
+### <h3 id="question-114">PREGUNTA Nº 114</h3>
 
 ¿Creéis en la conversión? 
 
@@ -1582,7 +1589,7 @@ Respuesta: Ciertamente, pero hay conversiones y conversiones. Hay la conversión
 
 Sin embargo, hay otra conversión que va siempre acompañada de influencias planetarias, y proporcionalmente a la fuerza de esas influencias la conversión, o cambio de vida, será más o menos radical. Entonces demuestra eso que el alma ha llegado a cierto punto de su peregrinaje en el que siente atracción por la vida superior. La causa inmediata de la conversión puede ser un sermón, una conferencia o un libro, un versículo de la Biblia o alguna cosa de la Naturaleza, pero eso es solo la causa física de algo que era ya un hecho espiritualmente. Desde ese momento el hombre o la mujer comenzará a tomar una nueva visión de la vida, dejará a un lado los antiguos vicios, seguirá nuevas líneas de pensamiento y de esfuerzo. Podrá hasta cambiar por completo su actitud hacia la vida y hacia su alrededor ambiente. En realidad, muy a menudo un viaje puede haberlo sacado a uno del ambiente cotidiano para facilitarle las condiciones necesarias para la siembra de la nueva simiente. 
 
-### PREGUNTA Nº 115
+### <h3 id="question-115">PREGUNTA Nº 115</h3>
 
 ¿Tiene algún valor la confesión y la absolución? 
 
@@ -1592,7 +1599,7 @@ Si, por el otro lado, la confesión se hace con el espíritu del escriba, que es
 
 En realidad, a veces notan los padres que el pecado mantenido en silencio es insuficiente para el niño, quien a veces siente la necesidad de ir a sus padres y confesarles sus pecados. Cuando ha obtenido el perdón de su padre entonces su conciencia se sosiega. Así también sucede con los hijos de Dios. Pecamos y nos entristecemos por ello; determinamos no volverlo a hacer de nuevo; pero si podemos confesarnos a alguien en quien tengamos fe y podemos conseguir su simpatía y que nos asegure que ese error no nos será tenido en cuenta, nos sentiremos más tranquilos de conciencia. Ese es el principio que encierra el dicho bíblico "confesaos vuestros pecados los unos a los otros." Aquel a quien confesemos nuestros pecados tiene que ser, por supuesto, una persona por quien sintamos profundo respeto y amor, y en ese momento ella es el representante de Dios o de nuestra naturaleza superior, y nos sentiremos muy aliviados habiendo recibido su simpatía. Pero también sentiremos que el pacto que hemos hecho con nosotros mismos de no cometer el pecado en cuestión nuevamente se ha vigorizado teniendo a aquella persona como testigo. Si la confesión se hace así y se obtiene la absolución, entonces, indudablemente, tiene un efecto benéfico. 
 
-### PREGUNTA Nº 116
+### <h3 id="question-116">PREGUNTA Nº 116</h3>
 
 ¿Tiene algún valor el ritual latino que emplea la Iglesia Católica? ¿No sería mejor traducirlo para que la gente pudiera comprenderlo? ¿No son mejores los extemporáneos sermones y oraciones de las iglesias protestantes que los rituales y preces estereotípicas de los católicos? 
 
@@ -1606,7 +1613,7 @@ Así sucede con el ritual. En cuanto al empleo del Latín, se indica en el prime
 
 La gente se maravilla a menudo del poder que la Iglesia Católica tiene sobre sus fieles, y puede decirse que si abandonara el ritual latino no conservaría ni un solo adherente en un plazo de diez años. Además, sus rituales ocultos verdaderos no han sido traducidos al inglés, y aún entre los Rosacruces se emplean rituales latinos en sus servicios, si bien no son los mismos que emplea la Iglesia Católica. 
 
-### PREGUNTA Nº 117
+### <h3 id="question-117">PREGUNTA Nº 117</h3>
 
 ¿Cuál es el mérito real del martirio? Los mártires ¿se convirtieron en santos realmente? 
 
@@ -1614,7 +1621,7 @@ Respuesta: El hombre se eleva a la unión con Dios mediante cuatro grandes grado
 
 En realidad el martirio no puede darnos un cielo de eterna felicidad, porque es el método más fácil de obtener la recompensa. Da el valor de morir, pero después de todo se necesita muchísimo más valor para vivir. Tenemos siempre la tendencia de creer que cuando un hombre ha dado su vida ha dado todo lo que puede dar, y muy a menudo se oye decir, cuando alguien se suicida, que lo ha pagado todo. En realidad, el suicidio es generalmente la manifestación de la más grande cobardía, y el martirio es mucho menos digno de admirarse que las vidas de aquellos que diariamente se esfuerzan en seguir las enseñanzas espirituales de la Biblia viviendo una vida noble. Por supuesto, se admite fácilmente que los mártires son dignos de admiración, por haberse adherido tanto a su fe, aún en presencia de la muerte y de las torturas. Indudablemente, tendrán grandes oportunidades de crecimiento espiritual en sus vidas posteriores, mucho mayores que aquellas de las que se les privó al quemarlos o empalarlos. Y podemos ciertamente decir en verdad que eran santos, en el sentido de que su fe era para ellos más preciosa que su vida, pero podemos decir firmemente que los edictos de una iglesia no pueden nunca convertir en santo a un pecador. 
 
-### PREGUNTA Nº 118
+### <h3 id="question-118">PREGUNTA Nº 118</h3>
 
 En una de vuestras conferencias dijisteis que era un error enviar misioneros a los otros países; que las religiones practicadas por los llamados paganos son buenas para ellos actualmente y que, sin embargo, esos misioneros han hecho poco daño, ¿Cómo explicáis, entonces, la orden de Cristo a sus apóstoles: "Id al mundo y predicad el evangelio a toda criatura"? 
 
@@ -1622,9 +1629,9 @@ Respuesta: El significado de las palabras de Cristo depende evidentemente de la 
 
 Más daño causan, sin embargo, los misioneros que vienen del Oriente y que tratan de hacer prosélitos para el hinduismo y otras antiguas religiones, porque muy a menudo esos hindúes enseñan ejercicios respiratorios que provocan la locura o la consunción, debido a que nuestros cuerpos occidentales no se prestan a tales prácticas. Es mucho más seguro permanecer en la religión de nuestro propio país, estudiarla y practicarla, dejando a las demás naciones el privilegio de hacer otro tanto en lo que concierne a sus propias religiones. 
 
-## SECCIÓN V: Preguntas concernientes a los FENÓMENOS ESPIRITISTAS
+<h2 id="section-5">SECCIÓN V: Preguntas concernientes a los FENÓMENOS ESPIRITISTAS</h2>
 
-### PREGUNTA Nº 119 La mediumnidad ¿perjudica a la salud? 
+<h3 id="question-119">PREGUNTA Nº 119 La mediumnidad ¿perjudica a la salud?</h3> 
 
 Respuesta: Eso depende. Cuando una persona sirve de médium a un espíritu desencarnado que entra en el cuerpo, como en el caso de los médium de trance, cuando el espíritu toma posesión del cuerpo, empleándolo como si fuera su propio poseedor, es poco dañoso, siempre que dicho espíritu no abuse del privilegio. En realidad, hay algunos casos en los que los espíritus invasores tienen mejores conocimientos respecto a cuidar del cuerpo que su propio dueño, y puede algunas veces mejorar su salud. Pero los espíritus de elevada naturaleza ética no dominan generalmente a ningún médium, pues estos son más bien espíritus terrestres, inferiores, tales como indios y otros de parecida naturaleza, que dominan a las personas mediúmnicas, y cuando están en posesión de su cuerpo lo emplean para gratificar sus pasiones sexuales o su deseo de bebidas. En esa forma pueden producir enfermedades orgánicas y deterioros en el instrumento físico. 
 
