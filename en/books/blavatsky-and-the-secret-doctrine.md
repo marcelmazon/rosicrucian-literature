@@ -1,38 +1,42 @@
 ---
-title: 'Filosofía Rosacruz en Preguntas y Respuestas Tomo II'
-language: 'es'
-original_title: "The Rosicrucian Philosophy in Questions and Answers Volume II"
+title: 'Blavatsky and the Secret Doctrine'
+language: 'en'
+original_title: "Blavatsky and the Secret Doctrine"
 original_language: 'en'
 author: 'Max Heindel'
-original_source_file: 'the-rosicrucian-philosophy-in-questions-and-answers-volume-2.md'
+original_source_file: 'self'
 ---
 
-BLAVATSKY
-AND THE
-SECRET DOCTRINE
-BY
-MAX HEINDEL
-‘WITH A SHORT BIOGRAPHY OF THE AUTHOR
-INTRODUCTION
-y
-MANLY HALL
-TABLE OF CONTENTS
-Page
-IPRONTIOPINGR: оно eS
-INTRODUCTION -_..___.. fee 9
-BiocrapHy oF Max HEINDEL = 2
-BLAVATSKY AND THE SECRET DOCTRINE CHAPTER 1 33
-Cue Ilen
-CTR ЩІ a ЛИЙ
-CHAPTER IV ___.
-о7о Д pester ey ЗИ
-Apuorisms ву Max HEINDEL WL
+<h1 id="blavatsky-and-the-secret-doctrine">Blavatsky and the Secret Doctrine</h1>
 
-INTRODUCTION
+By Max Heindel
+
+With a Short Biography of the Author
+
+Introduction by Manly Hall
+
+<h3 id="table-of-contents">Table of Contents</h3>
+
+- [Frontispiece](#frontispiece)
+- [Introduction](#introduction)
+- [Biography of Max Heindel](#biography-of-max-heindel)
+- [Chapter I](#chapter-1)
+- [Chapter II](#chapter-2)
+- [Chapter III](#chapter-3)
+- [Chapter IV](#chapter-4)
+- [Chapter V](#chapter-5)
+- [Aphorisms by Max Heindel](#aphorisms-by-max-heindel)
+
+
+### <h3 id="introduction">INTRODUCTION</h3>
+
+
 It would have been a real loss to all students of
 mysticism and metaphysics if this little essay on
 H. P. Blavatsky and The Secret Doctrine had not
 found its way into print.
+
+
 Max Heindel, the Christian mystic, pays homage
 to Madame Blavatsky, the Oriental occultist. He
 sees above the little differences which divide the
@@ -44,21 +48,22 @@ minds. Max Heindel’s tribute to the memory and
 work of Blavatsky and her Masters is a truly beau-
 tiful gesture in a world little given, alas, to such
 gentle impulses.
+
+
 We live a code of criticism and condemnation
 with small appreciation of the works of others.
 Sects and creeds build up walls about themselves,
 and only heroic souls in whom spiritual perceptions
 are truly awake can rise above these imaginary limi-
 tations. Think back over the books that you have
-9
-10
-INTRODUCTION
 read and recall how seldom it is that any writer
 speaks well of another. Each man, firm in his own
 opinions, gives scant courtesy to the opinions of
 others. There are many teachers in this world who
 instruct with words, but only a few who instruct
 with the noble example of generous deeds.
+
+
 In his textbook of Christian metaphysics, The
 Rosicrucian Cosmo Conception, Max Heindel refers
 to Madame Blavatsky as “a faithful pupil of East-
@@ -78,9 +83,10 @@ the world, and Anthropogenesis,the creation of
 man. Both Rosicrucians and Theosophists, in fact
 all sincere students of the occult sciences, will bene-
 fit from a consideration of this summary.
+
+
 The manuscript of this present book may pro-
 perly be considered as Max Heindel’s first literary
-INTRODUCTION 11
 effort. It was the beginning of a considerable
 metaphysical literature devoted to the application of
 mystical idealism to the living problems of a sorely
@@ -104,6 +110,8 @@ to be the first law of occultism and his fine soul
 preserved to the end a beautiful spirit of gratitude
 for the inspiration and instruction he had gained
 from the Secret Doctrine.
+
+
 Both Madame Blavatsky and Mr. Heindel dedi-
 cated their lives to the service of mankind. Each
 was devoted to the dissemination of spiritual knowl-
