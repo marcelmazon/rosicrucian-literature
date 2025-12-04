@@ -1,30 +1,51 @@
 ---
+
 title: 'Blavatsky and the Secret Doctrine'
+
 language: 'en'
+
 original_title: "Blavatsky and the Secret Doctrine"
+
 original_language: 'en'
+
 author: 'Max Heindel'
+
 original_source_file: 'self'
+
 ---
+
 
 <h1 id="blavatsky-and-the-secret-doctrine">Blavatsky and the Secret Doctrine</h1>
 
+
 By Max Heindel
+
 
 With a Short Biography of the Author
 
+
 Introduction by Manly Hall
+
 
 <h3 id="table-of-contents">Table of Contents</h3>
 
+
 - [Frontispiece](#frontispiece)
+
 - [Introduction](#introduction)
+
 - [Biography of Max Heindel](#biography-of-max-heindel)
+
 - [Chapter I](#chapter-1)
+
 - [Chapter II](#chapter-2)
+
 - [Chapter III](#chapter-3)
+
 - [Chapter IV](#chapter-4)
+
 - [Chapter V](#chapter-5)
+
 - [Aphorisms by Max Heindel](#aphorisms-by-max-heindel)
 
 
@@ -116,7 +137,6 @@ Both Madame Blavatsky and Mr. Heindel dedi-
 cated their lives to the service of mankind. Each
 was devoted to the dissemination of spiritual knowl-
 edge. Both were rewarded for the most part by
-12 INTRODUCTION
 ingratitude, persecution and misunderstanding.
 Both suffered from the falseness of friends and
 learned how cruel the world can be to those who
@@ -133,96 +153,19 @@ high ideals. He came to understand her as only
 a mystic can, and his appreciation of her loyalty
 and her patience was deepened by the adversities
 which he himself endured.
+
+
 Both H. Р. Blavatsky and Max Heindel gave their
 lives in a beautiful service to the spiritual needs of
 the race. Both went to early graves, broken by re-
 sponsibility and persecution. Each has left as a
 legacy to unborn generations a metaphysical litera-
 ture which shall survive the vicissitudes of time.
-The true purposes of mysticism are to perpetuate,
-interpret and apply the idealism of the race. Men
-turn to religion for guidance, encouragement and
-solace. We want religion to stand back of us when
-we try to live honest lives. We want to know that
-INTRODUCTION
-13there
-exists
-somewhere
-in
-the
-world
-a
-body
-of
-united
-people
-who
-are
-upholding
-spiritual
-values
-in
-a
-world
-of
-crumbling
-material manifestations.
-We
-are all
-seeking
-inspiration.
-We
-want
-ideals.
-We
-want
-a
-worthy
-purpose
-to
-unite
-us
-in
-action.
-We
-desire
-to
-establish
-in
-this
-vale
-of
-tears
-a
-spirit-
-ual structure
-which
-shall
-be
-elevated
-above
-the
-hum-
-drum.
-We
-want
-to
-go
-out
-into
-life
-recognizing
-our
-spiritual
-institutions
-as
-oases
-in
-a
-desert
-of
-ma-
-terialism.
+
+
+The true purposes of mysticism are to perpetuate, interpret and apply the idealism of the race. Men turn to religion for guidance, encouragement and solace. We want religion to stand back of us when we try to live honest lives. We want to know that there exists somewhere in the world a body of united people who are upholding spiritualvalues in a world of crumbling material manifestations. We are all seeking inspiration. We want ideals. We want a worthy purpose to unite us in action. We desire to establish in this vale of tears a spiritual structure which shall be elevated above the hum-drum. We want to go out into life recognizing our spiritual institutions as oases in a desert of materialism.
+
+
 Civilization is in the throes of a great reconstruc-
 tion period. As never before in recorded history
 men are seeking solutions to imminent and eminent
@@ -230,6 +173,8 @@ problems. Church and State alike are reaching out
 to grasp something that is secure, something they
 may cling to when the world they have known
 passes into oblivion.
+
+
 In all parts of the civilized world there are men
 and women devoted to mystical interpretations of
 life. These men and women are dedicated to a
@@ -240,7 +185,6 @@ the most part organized into various groups large
 and small for the express purpose of self-improve-
 ment and social betterment. Such groups may be
 classified under two headings: First, those whose
-14 INTRODUCTION
 inspiration is fundamentally Christian; and second,
 those essentially Oriental. While these groups are
 divided, by emphasis, the fundamental purposes
@@ -248,6 +192,8 @@ which they seek to attain are identical, for all en-
 lightened religious movements have as their chief
 aim and purpose the regeneration of man, individ-
 ual and collective.
+
+
 Max Heindel was a pioneer in Christian mys-
 ticism and Madame Blavatsky was a pioneer in
 Oriental occultism. Both established systems of
@@ -263,12 +209,13 @@ number is increased each day by earnest men and
 women whose hearts and minds are crying out for
 some reasonable explanation for the changes which
 are occurring in society.
+
+
 Nearly all students of the occult sciences in Amer-
 ica know the work which Madame Blavatsky and
 Max Heindel have accomplished. The lives of
 these two religious founders are a constant chal-
 lenge to greater spiritual effort and more unselfish
-INTRODUCTION 15
 devotion. If we admire these great leaders we shall
 desire to further their work by the intelligent per-
 petuation of their doctrines through word and ac-
@@ -280,6 +227,8 @@ troversies. Organizations which should have been
 dedicated to the unselfish service of mankind in-
 stead wasted their energy in vain wranglings over
 personal issues of little if any importance.
+
+
 Our present crisis is far greater than the World
 War. The whole civilized world is struggling
 against selfishness and corruption. A new and
@@ -291,70 +240,11 @@ differences, sacrifice all personal ambitions, and re-
 dedicate themselves to the great ideals which
 brought their various orders and societies into ex-
 istence.
-During the great boom period immediately pre-
-ceding the present economic crisis even mystical
-organizations were infected by the bacilli of wealth,
-personal ambition and exploitation. Personalities
-eclipsed principles and individuals and organiza-
-16
-INTRODUCTION
-tions
-departed
-from
-those
-simple
-truths
-which
-are
-the
-essentials
-of
-intelligent
-living.
-Then
-came
-thecollapse.
-Material
-values
-dropped
-like
-plummets
-to
-an
-unfathomable
-depth.
-Ambitions
-were
-scat-
-tered
-to
-the
-winds and
-the
-race
-was confronted
-with
-problems which
-can
-only be
-solved
-through
-a
-restatement of
-spiritual
-values
-and
-a
-rededication
-of
-men
-and
-organizations
-to
-principles
-of enlighten-
-ment and
-truth.
+
+
+During the great boom period immediately preceding the present economic crisis even mystical organizations were infected by the bacilli of wealth, personal ambition and exploitation. Personalities eclipsed principles and individuals and organizations departed from those simple truths which are the essentials of intelligent living. Then came the collapse. Material values dropped like plummets to an unfathomable depth. Ambitions were scattered to the winds and the race was confronted with problems which can only be solved through a restatement of spiritual values and a rededication of men and organizations to principles of enlightenment and truth.
+
+
 Suppose this very day H. P. Blavatsky, the lion-
 ess of the Theosophical Society, should return from
 the Amenti of the wise, and should demand an
@@ -373,7 +263,6 @@ is your Society as clean as when you gave it to us.”
 Could Theosophists do this or would they become
 abashed and unable to gaze into the great sad,
 luminous eyes of the first and greatest Theosophist?
-INTRODUCTION 11
 Could Madame Blavatsky walk through the corri-
 dors of Adyar and turn to those who represent her
 in the twentieth century and say, “Well done, good
@@ -387,6 +276,8 @@ world, rededicate yourselves to the noblest spirit
 that was among you, whose labors are your wealth,
 whose ideals are your purpose, and whose unselfish
 sacrifice is the cornerstone of your organization.
+
+
 Suppose, in the same spirit, that Max Heindel
 returned to the fields of his earthly labors and in
 simple gabardine walked among his followers. Sup-
@@ -401,7 +292,6 @@ have loved all men also?” How would The Rosi-
 crucians answer him? Could they say, “Beloved
 Brother, our constant inspiration, we have ful-
 filled your works in humility and gentleness. There
-18 INTRODUCTION
 has been no pride among us, no selfishness, no
 personality, no small ambitions at a great cost.
 Here is the Fellowship you gave into our keeping.
@@ -416,6 +306,8 @@ no guile.” Would these words be true? If not, why
 would they not be true? Is man too weak to carry
 on a good work? Is his littleness so great and his
 greatness so little?
+
+
 If we would feel ashamed if our leaders should
 return to us again and we should know that we
 have failed them, let us rededicate ourselves to them.
@@ -428,14 +320,18 @@ across the gulf of their differences and, united in
 purpose, be an army of spiritual reconstruction
 marching like the prophets of old in the vanguard
 of progress.
+
+
 Manly P. Hall.
-MAX HEINDEL
-A SHORT BIOGRAPHY
-е 94 АХ HEINDEL, known as the great-
+
+
+### <h3 id="biography-of-max-heindel">MAX HEINDEL - A SHORT BIOGRAPHY</h3>
+
+MАХ HEINDEL, known as the great-
 est western mystic of the twentieth
 century, was born on July 23rd, 1865,
-2 of the royal family of Von Grasshoffs,
-s > who were connected with the Ger-
+of the royal family of Von Grasshoffs,
+who were connected with the Ger-
 man Court during the life-time of Prince Bismark.
 The father of Max Heindel was Francois L. von
 Grasshoff. He migrated, when quite a young man,
@@ -447,15 +343,17 @@ who later adopted the pen name of Max Heindel.
 The father died when the eldest son was six years
 of age, leaving the mother with her three small
 children in very straitened circumstances.
+
+
 The mother’s pride of family and name forced
 her with her family of three children to live in
-19
-20 BIOGRAPHY OF МАХ HEINDEL
 genteel poverty so that the small income would suf-
 fice. Self-denial was carried to an extreme in order
 that her sons and daughter could have private
 tutors so that they might take their place in society
 as became the sons and daughters of nobility.
+
+
 This life did not please the eldest son who left
 home at the age of sixteen years and wounded his
 mother’s pride by entering the ship-yards at Glas-
@@ -468,16 +366,19 @@ deal of knowledge of the world and its people. For
 a number of years he was Chief Engineer on one of
 the large passenger steamers of the Cunard Line
 plying between America and Europe.
+
+
 Between the years 1895 and 1901, he was a con-
 sulting engineer in the city of New York. His
 first marriage was full of disappointments and sor-
 row and ended by the death of his wife in 1905.
+
+
 Max Heindel came to Los Angeles, California,
 in 1903, where he acted as engineer for a time but
 ill luck overtook him. Hunger and privation were
 his daily companions but nevertheless he was not
 idle. With a dauntless spirit and a determination
-BIOGRAPHY OF MAX HEINDEL 21
 to succeed along more advanced mental lines, he
 became interested in the study of metaphysics and
 joined the Theosophical Society of Los Angeles, ot
@@ -505,9 +406,10 @@ that it is truly a science of the soul. It gave him
 the key by which he could unlock the mysteries of
 man’s inner nature. By learning to know and un-
 derstand the weaknesses of character he could then
-22 BIOGRAPHY OF MAX HEINDEL
 help to guide the people and help them to find
 their proper place in the world.
+
+
 Overwork and privation brought on a severe
 spell of heart trouble in 1905 and for months he
 lay at the point of death but upon recovery he
@@ -518,6 +420,8 @@ fered as it was because of soul hunger which lead
 them to do the things that brought suffering upon
 them. He started out on a lecture tour which
 eventually led him to Germany.
+
+
 While in Germany, in the fall of 1907, where he
 had gone with the hopes of contacting the Elder
 Brothers of the Rosicrucian Order, he was unsuc-
@@ -533,15 +437,12 @@ be given after he, Max Heindel, would make a
 solemn promise never to divulge them, (they must
 be kept secret). Having passed through an un-
 happy period of soul hunger he was most desirous
-BIOGRAPHY
-OF
-MAX
-HEINDEL
-23
 of sharing his knowledge with others, who like
 himself were also seeking, he refused to accept any-
 thing which he could not pass on to the world. The
 Teacher left him.
+
+
 Later the Teacher appeared in his room again and
 told him that he, Max Heindel, had stood his test.
 He stated that if he had accepted the offer, namely,
@@ -557,6 +458,8 @@ dition he was told that the teachings must be given
 to the public before the close of the first decade of
 the century, which would be the end of December,
 1909.
+
+
 At this last interview with the Teacher he was
 given instructions how to reach the Temple of the
 Rose Cross. At this Temple Max Heindel spent a
@@ -565,7 +468,6 @@ and under the personal instructions of the Elder
 Brothers, who imparted to him the greater part of
 the teachings contained in the Rosicrucian Cosmo
 Conception. The first draft of this book, which
-24 BIOGRAPHY OF МАХ HEINDEL
 was made while he was in the Temple, the Teacher
 told him was but an outline. The heavy psychic
 atmosphere of Germany was particularly adapted
@@ -583,6 +485,8 @@ New York City, what the Elder Brother had told
 him proved to be a fact. The style in which the
 manuscript was written did not then please him,
 and he set about the work of rewriting.
+
+
 He returned to America in the spring of 1909
 where he at once started to formulate the Rosicru-
 cian message which he had received from the Elder
@@ -593,7 +497,6 @@ It contains one of the most comprehensive, simply
 written, and complete histories of the evolution of
 the earth and man that has been written for centur-
 ies. A minister of one of the churches in the north-
-BIOGRAPHY OF MAX HEINDEL 25
 western part of America made the statement that
 he had two books on his library table which gave
 him his thoughts for his sermons; one was the
@@ -601,9 +504,13 @@ Bible and the other was Max Heindel’s “Rosicru-
 cian Cosmo-Conception” which unlocked the mys-
 teries of the Bible to him. This book is now trans-
 lated into eight different languages.
+
+
 In November 1909, after a successful lecture
 tour, Max Heindel returned to Los Angeles where
 he met with much success in lecturing and teaching.
+
+
 In August 1910, he was joined in marriage to
 Augusta Foss, the woman who had been instru-
 mental in helping him to find the truth. With
@@ -617,38 +524,37 @@ fornia, with little money but a determined spirit
 to start correspondence courses in the Rosicrucian
 philosophy. Later they moved permanently to
 Oceanside, California.
+
+
 In those ten years that Max Heindel lived, to
 start this great work for the Brothers of the Rose
 Cross, he gave as many volumes to the world as
-26 BIOGRAPHY OF MAX HEINDEL
 is ordinarily given in the life-time of an author. His
 brain children are many and the following books,
 which this wonderful man left as a legacy to the
 world are:
-“The Rosicrucian Cosmo-Conception”
-“The Rosicrucian Mysteries”
-“The Web of Destiny”
-“Teachings of an Initiate”
-“Freemasonry and Catholicism”
-“Letters to Students”
-“The Rosicrucian Philosophy in Questions and
-Answers”
-“Gleanings of a Mystic”
-“Mysteries of the Great Operas”
-“The Rosicrucian Principles of Child Training”
-“How Shall We Know Christ at His Coming?”
-“The Mystical Interpretation of Christmas”
-“Simplified Scientific Astrology”
-“The Message of the Stars” *
+
+
+“The Rosicrucian Cosmo-Conception”  
+“The Rosicrucian Mysteries”  
+“The Web of Destiny”  
+“Teachings of an Initiate”  
+“Freemasonry and Catholicism”  
+“Letters to Students”  
+“The Rosicrucian Philosophy in Questions and Answers”  
+“Gleanings of a Mystic”  
+“Mysteries of the Great Operas”  
+“The Rosicrucian Principles of Child Training”  
+“How Shall We Know Christ at His Coming?”  
+“The Mystical Interpretation of Christmas”  
+“Simplified Scientific Astrology”  
+“The Message of the Stars” *  
+
+
 Max Heindel suffered constantly on account of
 injuries received while a young boy. A number of
 unsuccessful operations, which had removed some
 of the veins and arteries of his left leg, greatly inter-
-BIOGRAPHY
-OF
-MAX
-HEINDEL
-27
 fered with the circulation in the body. He later
 developed valvular heart trouble. However, he was
 blessed with an indomitable will and great energy,
@@ -664,6 +570,8 @@ souls faced many dark days together, but still happy
 in each others’ love, knowing that they were the
 instruments by which a great message was to be
 given to the world.
+
+
 In the spring of 1910 after a course of lectures
 and lessons delivered in the City of Los Angeles,
 Max Heindel was taken seriously ill with leakage
@@ -676,7 +584,6 @@ night, that his case was hopeless. After the doctors
 were gone, Max Heindel, with the assistance of
 his Teacher, worked on his body with the result
 that within three hours after the doctors had pro-
-28 BIOGRAPHY OF MAX HEINDEL
 nounced his doom he requested a friend, who
 called to take him for an airing in a wheeled
 chair; and within one week after this experience
@@ -694,6 +601,8 @@ teries.” Strange to say Max Heindel accomplished
 his best work immediately after each severe illness,
 then it seemed that he was closer to his Teacher
 and in rapport with the spiritual worlds.
+
+
 With very little money and a suffering body Max
 Heindel and his brave and loyal helpmate started
 their pioneer work in Oceanside, California, from
@@ -704,7 +613,6 @@ guages; lessons were being sent out by correspond-
 ence and groups formed in many of the larger cities.
 Like an endless chain the Teachings have spread,
 but the work on the physical plane for this great
-BIOGRAPHY OF МАХ HEINDEL 29
 messenger was drawing to a close. His companion
 had been well trained to carry on the work on the
 physical plane for a greater work awaited him on
@@ -732,7 +640,6 @@ these loving words on his lips he passed into the
 Great Beyond, where he had through his devotion
 to God and humanity prepared a great work with
 the band of Invisible Helpers, through which the
-30 BIOGRAPHY OF МАХ HEINDEL
 work of healing is carried on. Is Max Heindel’s
 work finished? No indeed, for the special work
 in which the Rosicrucian Order is interested is that
@@ -743,6 +650,8 @@ strument through which a great movement was to
 be inaugurated, a movement which had a special
 mission: TO MAKE THE CHRISTIAN RELIG-
 ION A LIVING FACTOR IN THE LAND.
+
+
 The struggles of these two great messengers,
 Madame Blavatsky and Max Heindel, were very
 similar. Both these spirits were encased in suffer-
@@ -751,6 +660,8 @@ which was denied them, both were unappreciated
 and neglected by their friends until death had taken
 them, then the world began to realize their great-
 ness.
+
+
 Max Heindel was a great admirer of Madame
 Blavatsky, he saw in her his own future struggles,
 he too after he had contacted the Brothers of the
@@ -760,21 +671,30 @@ had contacted, knowing that his years were num-
 bered and that his physical body could not long
 stand the strain of the pioneer life. Like Madame
 Blavatsky he was in constant physical pain and in
-BIOGRAPHY OF MAX HEINDEL 31
 great need of help, both physical and financial.
 The struggle and hardships which both these souls
 suffered was greatly responsible in shortening their
 days in the physical body. But what a great work
 they have have accomplished, what a Boon to
 humanity they have been.
+
+```
 “Great truths are portions of the soul of man;
 Great souls are portions of eternity.”
+```
+
 Lowell.
-BLAVATSKY
-AND THE SECRET
-DOCTRINE
+
+
+<h2 id="blavatsky-and-the-secret-doctrine-h2">BLAVATSKY AND THE SECRET DOCTRINE</h2>
+
+
 By MAX HEINDEL
-CHAPTER I
+
+
+### <h3 id="chapter-1">CHAPTER I</h3>
+
+
 HE SECRET DOCTRINE is one of
 the most remarkable books in the
 world. I realize how far beyond my
@@ -790,13 +710,13 @@ topic of this book. I shall endeavor to give in as
 simple and comprehensive language as possible an
 outline of the plan upon which the work was built
 and the teaching it reveals. The nature of the task
-33
-34 BLAVATSKY AND THE
 is such that I am forced to quote freely from Theo-
 sophical literature, especially from Colonel Olcott’s
 Old Diary Leaves, Countess Wachmeister’s Remi-
 niscences, The Secret Doctrine itself, and other
-works,
+works.
+
+
 It is first necessary for us to realize that Madame
 Blavatsky, or as she liked to be called, H. P. B.,
 was, as she herself often expressed it, only the com-
@@ -815,13 +735,17 @@ paring Eastern Wisdom with Western Science. She
 also deserves great credit for her high moral cour-
 age in representing to the world thoughts and
 theories wholly at variance with materialistic sci-
-ence. Many of these teachings, however, haye
+ence. Many of these teachings, however, have
 since been verified by science.
-CHAPTER II
-UMANKIND has always persecuted, tor-
+
+
+### <h3 id="chapter-2">CHAPTER II</h3>
+
+
+HUMANKIND has always persecuted, tor-
 tured, and killed those who in thought
 have been in advance of their age. Wit-
-М ness Copernicus, whom only a natural
+ness Copernicus, whom only a natural
 death saved from a fate similar to that
 which half a century later overtook Bruno. Gali-
 leo was harassed all his life, and finally when old
@@ -838,12 +762,12 @@ opinion. Then came the epilog of the drama—
 when a Thorwaldsen immortalised in marble the
 same Nikolas Copernicus who, once persecuted,
 was proudly claimed as her son by Russia, or when
-35
-36 BLAVATSKY AND THE
 amid the cheers of his countrymen was reared the
 statue of Giordano Bruno on the same spot where
 fanatical monks had danced around his funeral
 pyre and burned the genius in the name of God.
+
+
 At one time in the history of the West, men
 were scourged for the sake of the Christian re-
 ligion. When Christianity became strong, it at-
@@ -858,15 +782,18 @@ thing superphysical was at once stamped as an im-
 postor. Science and religion vied with each other
 in their efforts to heap obloquy and opprobrium
 on such individuals.
+
+
 With the foregoing in mind, we can better ap-
 preciate the great moral courage of H. P. B., and
 see why that courage constituted one of her quali-
 fications as a messenger of the Masters.
+
+
 In the same materialistic attitude of the world
 of that day is also to be found the reason for mak-
 ing use of phenomena. Many thoughtful persons
 have sincerely regretted that this part of the sub-
-SECRET DOCTRINE 37
 ject should ever have been taken up by the Society,
 but H. P. B. always maintained that in the early
 days of her work these proceedings were absolute-
@@ -876,6 +803,8 @@ nomena had been a hindrance rather than a help
 to The Secret Doctrine in Europe and that it would
 have been better had only the philosophy been
 given.
+
+
 In 1884 it was thought among the leaders of the
 Theosophical Society that the time had arrived for
 a revision and an amplification of Madame Blavat-
@@ -889,12 +818,13 @@ pages each. But on the 8th of January, 1885, H.
 P. B.’s Master communicated to her the scheme of
 The Secret Doctrine, and as a result, the original
 plans were abandoned.
+
+
 Soon afterwards the heart trouble from which
 Madame Blavatsky was suffering became so serious
 that her physician, Dr. Mary Scharlich, insisted
 upon her leaving India if she would save her life.
 Acting upon this advice, H. P. B. left Adyar, the
-38 BLAVATSKY AND THE
 spot she loved most on earth, in the spring of 1885.
 We next find her installed in a cheap little inn on
 the northern slope of Vesuvius. The room is almost
@@ -908,6 +838,8 @@ derstand, sick in body, and chafing under the in-
 justice done her by those whom she had befriended.
 Thus, inauspicious were the circumstances attend-
 ing the first work on The Secret Doctrine.
+
+
 In the fall of 1885 she went to the quaint old
 German town of Wurzburg. What associations
 this name calls forth—thoughts of Martin Luther,
@@ -915,13 +847,19 @@ the stern and unflinching reformer who vowed that
 he would go to Worms to defend his faith against
 the Romish priests though the roofs of the city were
 covered with devils.
+
+
 Not more staunch and unflinching was he than
 this new reformer who with dogged persistence,
 despite sickness and adverse criticism, toiled at her
 desk from day to day when she might have had
 ease and comfort.
-CHAPTER ПІ
-OME time after Madame Blavatsky ar-
+
+
+### <h3 id="chapter-3">CHAPTER III</h3>
+
+
+SOME time after Madame Blavatsky ar-
 rived at Wurzburg she was joined by
 the Countess Wachmeister, who loyal-
 ly and lovingly helped in the great
@@ -929,6 +867,8 @@ work. The number of visitors caused
 H. P. B. in a letter to a friend to write that the
 city was becoming a philosophical Medina. Con-
 tinuing, she wrote:
+
+
 “I am only in the middle of Part One, but shall
 in a month send you the first six sections. I take
 from Isis only facts, leaving out everything in the
@@ -938,11 +878,10 @@ has lost its interest. Only myths, symbols and
 dogmas, explained from the esoteric point of view.
 It is actually and de facto a new work entirely.
 Cycles are explained from the occult side.”
-Й
+
+
 Her insight into problems of philosophy, racial
 origins, fundamental bases of religions, and keys
-39
-40 BLAVATSKY AND THE
 to old symbols was phenomenal; yet it was not the
 result of study, for never was a student more eccen-
 tric and restless. Of trained literary faculty she had
@@ -957,6 +896,8 @@ it, and work it into the mosaic upon which she put
 the stamp of her own individuality, and around
 which she wove the golden web of her own high
 powers.
+
+
 In one of her letters she announced that the
 enormous volume of introductory stanzas, the first
 chapter on the Archaic Period and Cosmogony,
@@ -970,9 +911,6 @@ is amazed at the gigantic erudition and the sound-
 nes of it, showing the esotericism of the Bible and
 its incessant parallels with the Vedas and Brah-
 manas. This is a little more wonderful yet than
-SECRET
-DOCTRINE
-41
 Isis, that you corrected and Wilder suggested. Now
 I am absolutely alone with my armchair and ink-
 stand and no books to speak of. In about four
@@ -980,6 +918,8 @@ hours I wrote a whole section and the introduction
 of a whole Stanza (about forty pages) without
 any books around me. Simply listening—simply
 listening.”
+
+
 Can we realize what that means? She was
 merely writing what was transmitted to her clair-
 audiently, as Colonel Olcott and others had seen
@@ -996,11 +936,12 @@ thought are lost in the infinite Mind, save to those.
 most advanced intelligences who can count the sand
 grains or the drops in the ocean and pick out the
 atoms in their vortices.
+
+
 About December, 1886, Colonel Olcott received
 the first volume of The Secret Doctrine for revision
 by T. Subba Row and himself, but Mr. Row refused
 to do more than read it, saying that if he touched
-42 BLAVATSKY AND THE
 it he would have to rewrite it, as it was full of mis-
 takes. This was mere pique, but it had its effect,
 for when his remark was reported to H. Р. В., she
@@ -1010,6 +951,8 @@ due to slipshod literary methods, and with the
 help of friends, especially Bertram and Archibald
 Keightley, put the book into the shape in which
 it was first published.
+
+
 She was always eager to have her mistakes
 pointed out, and was also ready to correct them.
 The errors occurred especially in such of her writ-
@@ -1028,9 +971,10 @@ Master says it is wrong! I think I shall go mad
 writing it so often, but leave me alone; I will not
 pause until I have conquered it even if I have to go
 on all night.” The Countess brought her a cup of
-SECRET DOCTRINE 43
 coffee to refresh her and then left her to pursue
 her weary task.
+
+
 An hour later Madame Blavatsky called her and
 said the task had been accomplished. The labor
 had been prodigious and the result small, as was
@@ -1052,11 +996,12 @@ letter I had this morning I could not concentrate
 properly, and each time I tried I got the quotation
 all wrong. It is all right now, however, so Master
 says.”
+
+
 H. P. В. often asked her friends in various parts
 of the world to verify quotations from books which
 could be found in libraries where such friends re-
 sided. Thus, she would need verification of a pass-
-44 BLAVATSKY AND THE
 age from a book of which only one copy was extant
 and that in the Library of the Vatican. Again, a
 friend in London would be asked to verify a quota-
@@ -1064,6 +1009,8 @@ tion from some document possessed only by the
 British Museum. It should be noted, however,
 that she needed only verification. The subject mat-
 ter she already had.
+
+
 Madame Blavatsky stated that she was only the
 mouthpiece of the Masters—writing, speaking, and
 acting, as directed by them. This has been ridi-
@@ -1084,9 +1031,10 @@ ry to library she would have been physically unable
 to seek out the passages she is accused of having
 plagiarised. She never said that she discovered the
 knowledge she gave the world. Her contention
-SECRET DOCTRINE 45
 was that it came from the remote past; that it is in
 every scripture and in every philosophy.
+
+
 The purpose of The Secret Doctrine is to quote
 from every scripture of every religion, from the
 writings of every people, in order to show the
@@ -1109,10 +1057,11 @@ she was able to follow with unerring accuracy
 through the maze, and show that each individual
 material held within itself the possibility of becom-
 ing the single edifice.
+
+
 Her work is the more extraordinary because she
 did it without being a scholar; without having had
 the education which would have fitted her to some
-46 BLAVATSKY AND THE
 extent for piecing together this knowledge; be-
 cause she did what none of the Orientalists have
 done with all their learning, what not all of them
@@ -1135,12 +1084,13 @@ and referred to Those who taught her. This brings
 us to the other part of the attacks made on Madame
 Blavatsky, or rather on the Masters, the existence
 of whom is regarded as a myth.
+
+
 The learning and ability which she herself dis-
 claims is not challenged by her enemies. They
 sometimes say that her knowledge is poorly di-
 gested, that she arranges her material badly, that
 her writings are misty, involved, self-contradictory.
-SECRET DOCTRINE 47
 But that she possessed an extraordinary fund of
 varied knowledge bearing on out-of-the-way topics
 and obscure philosophies is freely admitted. If she
@@ -1166,9 +1116,10 @@ consistent with reason, the only tenable conclusion
 is that Н. Р. В. told the truth when she affirmed
 that her knowledge was received through the Mas-
 ters of Wisdom.
+
+
 A curious fact in connection with images of
 books as seen in the astral light is that the text some-
-48 BLAVATSKY AND THE
 times appears reversed as if held before a mirror.
 With a little practice it becomes easy to read words,
 as the context and general sense prevent mistakes,
@@ -1186,6 +1137,8 @@ number. So (to take the same instance) it should
 have been 143 instead of 341. After a time, her
 correspondents discovered this, and then easily
 corrected such mistakes themselves.
+
+
 Another noteworthy circumstance in connection
 with the writing of The Secret Doctrine was that
 if Madame Blavatsky ever wanted definite infor-
@@ -1196,10 +1149,11 @@ casual reading of books. This happeded with such
 frequency and appositeness that it could not be
 explained on the basis of coincidence. Whenever
 possible, she used normal means, so as not to
-SECRET DOCTRINE 49
 exhaust her powers. In the early days of the Socie-
 ty, she had not been prudent in this, and afterward
 she felt the effects.
+
+
 One day there came a temptation in the offer
 of a large yearly salary if she would write for the
 Russian newspapers. She might write on any sub-
@@ -1224,14 +1178,13 @@ she answered, “Because people were continually `
 bothering me. It was always, ‘Oh, do materialize
 Фіз, or ‘Do let me hear those astral bells’ and so
 on, and then I did not like to disappoint people,
-50
-BLAVATSKY AND
-THE
 so I acceded to their requests. Now I have to suf-
 fer for it, and moreover, at the time the Society
 was started it was necessary to draw people’s at-
 tention, and phenomena did this more effectually
 than anything else could have done.”
+
+
 Granted, then, that phenomena were necessary
 at that time, the mischief lay in the fact that, once
 introduced, they were difficult to get rid of when
@@ -1243,6 +1196,8 @@ anxiety for the welfare of the Society, poor H. P. B.
 continued the work, knowing that she was squan-
 dering her vitality. Thus she almost literally gave
 her life blood for the good of the organization.
+
+
 After the Society was fairly well established
 came the opportunity to have ease and comfort
 for the rest of her days. Can we realize what that
@@ -1254,7 +1209,6 @@ among a foreign and unfamiliar people. Here she
 toiled at her desk twelve to fourteen hours a day,
 and was often in the most straitened circumstances.
 Then came the offer from the newspaper. She
-SECRET DOCTRINE 51
 could write about anything she pleased, and receive
 a salary that would place her far beyond the pale
 of want—all for about two hours a day of her time.
@@ -1265,6 +1219,8 @@ Secret Doctrine also. Unflinchingly she wrote the
 letter declining the offer, and thus added another
 to the long list of sacrifices she had already laid
 on the altar of the Society and of humanity.
+
+
 From Wurzburg, Madame Blavatsky went to
 Elberfeld, where she stayed with Madame Geb-
 hard. Here it seems that little if any work was
@@ -1274,6 +1230,8 @@ friends nursed her tenderly, but recovery seemed
 to be slow. Her sister and niece were sent for, and
 with them she went to Ostend, from which place
 she wrote to the Countess Wachmeister:
+
+
 “Yes, I will try to settle once more at my Secret
 Doctrine but it is hard. I am very weak. I feel
 so poorly and legless as I never did when you were
@@ -1282,13 +1240,17 @@ then gratitude has ever been shown in ancient sym-
 bology to reside in people’s heels, and having lost
 my legs how can I be expected to have any?” Later
 she wrote: “My poor legs have parted company
-52 BLAVATSKY AND THE
 with my body. I am now as legless as any elemen-
 tal can be, and I do not know a soul in Ostend;
 not a solitary Russian here but myself, who would
 rather be a Turk and go back to India, but I can’t,
 for I have neither legs nor reputation, according
 to the infamous charges of the S. Р. R.”*
+
+
+*—The Society for Psychical Research.
+
+
 Soon afterwards, the Countess Wachmeister
 again joined H. P. B. They had a number of
 visitors from England, Germany, and France,
@@ -1304,19 +1266,21 @@ gles with that Stone of Sisyphus and the eternal
 work of the Danaides, and I am not permitted to
 get out of this misery and rest because I am one
 too many on this earth, I am doomed.”
+
+
 This state of mind was probably occasioned
 chiefly by the extremely poor health which soon
 after came to a crisis, when she was stricken with
 kidney trouble. The Belgian physician said that
 she could not live long, and in her despair the
-*—The Society for Psychical Research.
-SECRET DOCTRINE 53
 Countess telegraphed to Dr. Ashton Ellis, one of
 the London members of the Theosophical Society,
 who immediately came to Ostend. He held out
 no more hope than the Belgian doctor. Both were
 agreed that they had never known a person with
 kidneys so severely affected to live so long.
+
+
 It seemed as if The Secret Doctrine would not
 be finished—at least not by H. P. B. Anxious and
 sorrowful were the hearts of those who surrounded
@@ -1327,20 +1291,27 @@ at the bedside of the sick woman. Awakening
 one morning after a short sleep, she was surprised
 to see Madame Blavatsky sitting up in bed, looking
 calmly at her.
+
+
 “Countess, come here!”
+
+
 The Countess obeyed, asking: “What is the
 matter, H. P. B.? You look so different.”
+
+
 She replied, “Yes. Master has been here. He
 gave me my choice—that I might die and be free
-1 I would, or live and finish The Secret Doctrine.
+if I would, or live and finish The Secret Doctrine.
 He told me how great would be my sufferings, and
 what a terrible time I would have before me in
 England (for I am to go there) but when I thought
-54 BLAVATSKY AND THE
 of those students to whom I shall be permitted to
 teach a few things and of the T. S., to which I have
 given my heart’s blood already, I accepted the
 sacrifice.”
+
+
 She then called for some breakfast and to the
 surprise and joy of her friends, got up and went
 into the dining-room, where later she received a
@@ -1353,6 +1324,8 @@ Blavatsky sitting in her armchair seemingly in the
 best of health. Thus once more the specter of
 death was thrust away and H. Р. В. had taken
 another lease on life.
+
+
 The next visitors were Dr. Keightley and Mr.
 Bertram Keightley of London, who bore urgent
 invitations to Madame Blavatsky to come to Lon-
@@ -1364,16 +1337,19 @@ the manuscript of The Secret Doctrine was finished.
 It made a pile three feet high when it was given to
 the Keightleys for correction of syntax, punctua-
 tion, and spelling. The Keightleys found that it
-SECRET DOCTRINE 55
 was not written in a consecutive manner, and out-
 lined a plan of rearrangement which was approved
 by Madame Blavatsky. The entire manuscript was
 then typewritten.
+
+
 Just before this work was finished, H .P. B. and
 her friends moved to 17 Lansdowne Road, Notting
 Hill, London, where they were joined by the
 Countess Wachmeister and others, and there was
 established the first Headquarters.
+
+
 It was first arranged to have The Secret Doctrine
 published by Mr. George Redway, who was pub-
 lishing Lucifer, the magazine which had been
@@ -1385,16 +1361,19 @@ the money, an office was taken in Duke Street,
 London, the primary object being to enable the
 Theosophical Society to derive the utmost benefit
 from her writings.
+
+
 Of the further history of the writing of The
 Secret Doctrine there is little to be said, though
 several months more of hard work were necessary
 before it was finally ready for the press. H. P. B.
 read and corrected two sets of galley proof, then
 a set of page proof and finally a revise in sheet,
-56 BLAVATSKY AND THE
 correcting, altering and adding until the last, with
 the result that the printers’ bill for corrections alone
 amounted to $1,500.
+
+
 Such is the story of The Secret Doctrine—a story
 which, like the book itself, is derided by the majori-
 ty of people, notwithstanding its authentication by
@@ -1414,8 +1393,12 @@ ly qualified her as an instrument for their use; and
 but for that zeal and devotion we might not today
 possess the greatest of modern works on occultism
 —The Secret Doctrine.
-CHAPTER IV
-E HAVE traced the history of The
+
+
+### <h3 id="chapter-4">CHAPTER IV</h3>
+
+
+WE HAVE traced the history of The
 Secret Doctrine, from the time when
 H. P. B.’s Master gave her the plan,
 until it was printed and given to the
@@ -1423,6 +1406,8 @@ until it was printed and given to the
 which it was constructed, and try to catch a
 glimpse of the teachings contained within its sev-
 eral volumes.
+
+
 When we contemplate the range of subjects
 dealt with in this work—a range bounded only by
 the universe—it is at once apparent how fragment-
@@ -1435,14 +1420,14 @@ gems of occult knowledge. Perserverance and in-
 tuition are the pick and shovel by the diligent use of
 which we may become possessed of these jewels
 of great price. A truth discovered by ourselves stays
-57
-58 BLAVATSKY AND THE
 with us after we have lost a dozen other truths ex-
 plained to us by others. If therefore we can be in-
 duced to dig within The Secret Doctrine for our-
 selves, we shall profit more than if someone were
 to explain to us every teaching contained within
 its covers.
+
+
 A cursory reading will prove a potent means of
 bewildering the mind, as before us whirl demons
 and devas, Dhyan Chohans and Kumaras, yugas
@@ -1464,11 +1449,12 @@ but when he understands that point, he will know
 that the time was well spent. When at last he has
 extracted as far as he is able the information con-
 tained in The Secret Doctrine, there dawns upon
-SECRET DOCTRINE 59
 his mind a conception of the truth. I cannot de-
 scribe the exultation I felt at that first view of that
 truth, and how I meditated on it and admired it
 as I saw it dovetail into all the general philosophies.
+
+
 It should be remembered that the work which
 we are considering is not by any means the whole
 of the esoteric philosophy possessed by the Masters
@@ -1491,8 +1477,9 @@ extent the fundamental unity from which they all
 sprang, and finally to show that the occult side of
 Nature has never been approached by the science
 of modern civilization.
+
+
 When an architect starts to build a modern sky-
-60 BLAVATSKY AND THE
 scraper he first prepares a solid foundation; upon
 this he rears the massive steel beams to form the
 skeleton of the building. This skeleton is then
@@ -1503,6 +1490,8 @@ system is an intricate network of electric light and
 telephone wires, while in the basement throbs a
 steam engine, driving an electric generator. The
 result is an organic whole pulsing with life.
+
+
 Somewhat similar was the precedure of the Mast-
 ers of Wisdom who built the monumental struc-
 ture of occult knowledge which we are considering.
@@ -1520,7 +1509,6 @@ is no religion higher than truth.” Upon this
 foundation of truth was raised by the Masters of
 the Wisdom of the Ages the skeleton structure of
 the Book of Dzyan, a Senzar manuscript of vast
-SECRET DOCTRINE 61
 antiquity, about which have been gathered all that
 was good and true in all the world religions, ce-
 mented by occult knowledge, and ornamented
@@ -1537,6 +1525,8 @@ of himself, by taking it into his own life. In pro-
 portion as he does this will be the life it has for
 him, its measure and its limit being his devotion
 to its ideals.
+
+
 The Secret Doctrine establishes three funda-
 mental postulates. The first is the existence of an
 omnipresent, eternal, boundless and immutable
@@ -1548,7 +1538,6 @@ unspeakable and unthinkable. This Be-ness is sym-
 bolized in The Secret Doctrine under two aspects:
 on the one hand is Absolute Abstract Space, repre-
 senting base subjectivity—-the one thing which no
-62 BLAVATSKY AND THE
 human mind can either exclude from any concep-
 tion or conceive of by itself. On the other hand is
 Absolute Abstract Motive, representing uncondition-
@@ -1561,6 +1550,8 @@ is a conditioned symbol; but once we pass in
 thought from this absolute negation (to us), du-
 ality supervenes in the contrast of Spirit (or Con-
 sciousness) and Matter.
+
+
 Spirit and Matter are to be regarded not as in-
 dependent realities, but as symbols or aspects of
 the Absolute, which constitute the basis of condi-
@@ -1574,81 +1565,19 @@ vast scheme of cosmic evolution. On the other
 hand, precosmic root substance is the aspect of the
 Absolute which underlies all the objective planes
 of nature.
-The manifested universe is pervaded by duality,
-which is the very essence of its existence as Mani-
-SECRET DOCTRINE 63
-festation.
-But
-just
-as
-the
-opposite poles
-of
-subject
-and
-object,
-spirit
-and
-matter,
-are
-but
-aspects
-of
-the
-One
-Unity
-in
-which
-they
-are
-synthesized,
-so
-in the
-manifested
-universe
-there
-is
-that
-which
-links
-spirit
-to
-matter,
-subject
-to
-object.
-This
-something—at
-present
-unknown
-to
-Western
-speculation—is
-called
-by
-Eastern
-occultists
-Fohat.
-It is
-the
-“bridge”
-by
-which
-ideas
-existing
-in the divine
-thought
-are
-im-
-pressed on
-cosmic
-substance.
+
+
+The manifested universe is pervaded by duality, which is the very essence of its existence as Manifestation. But just as the opposite poles of subject and object, spirit and matter, are but aspects of the One Unity in which they are synthesized, so in the manifested universe there is that which links spirit to matter, subject to object. This something—at present unknown to Western speculation—is called by Eastern occultists Fohat. It is the “bridge” by which ideas existing in the divine thought are impressed on cosmic substance.
+
+
 Thus from spirit or cosmic ideation comes our
 consciousness; from cosmic substance come the
 several vehicles in which that consciousness is in-
 dividualized; while this substance in its various
 manifestations is the mysterious link between mind
 and matter, the principle vivifying every atom.
+
+
 The second fundamental postulate of The Secret
 Doctrine is the existence of eternity in toto as a
 boundless plane—periodically the playground of
@@ -1660,9 +1589,10 @@ science has observed and recorded in all depart-
 ments of nature. An alternation such as that of
 day and night, waking and sleeping, life and
 death, is in fact so common, so perfectly universal
-64 BLAVATSKY AND THE
 and without exception, that it is easy to see in it
 one of the fundamental laws of the universe.
+
+
 The third and last of the basic postulates of The
 Secret Doctrine is the fundamental identity of all
 souls with the universal Oversoul, the latter being
@@ -1687,9 +1617,10 @@ present on all planes, responsive to all divine vibra-
 tions instead of to those on the highest planes only.
 The pivotal doctrine of the hidden wisdom admits
 of no privileges or special gifts in man save those
-SECRET DOCTRINE 65
 won by his own soul through a long series of
 metempsychoses and reincarnations.
+
+
 Such are the basic conceptions on which The
 Secret Doctrine rests. It would not be fitting here
 to enter upon any defense or proof of their inherent
@@ -1700,6 +1631,8 @@ worthy of the name. Once the student has gained
 a clear comprehension of them and realized the
 light they throw on every problem of life, he finds
 that they need no further justification.
+
+
 The history of cosmic evolution as traced in the
 Stanzas of Dzyan may be regarded as the abstract
 algebraic formula of that evolution. Hence the
@@ -1714,16 +1647,19 @@ own. The Stanzas, therefore, give an abstract
 formula which can be applied to all evolution—to
 that of our tiny earth, to the chain of planets of
 which our earth forms one, to the solar universe to
-66 BLAVATSKY AND THE
 which that chain belongs, and so on, in an ascend-
 ing scale until the mind reels an is exausted in
 the effort to understand.
+
+
 The seven Stanzas of the first volume represent
 the seven terms of the abstract formula to which
 they refer, and describe the seven great stages of
 the evolutionary process mentioned in the Hindu
 philosophy as the seven creations, and in the Bible
 as the days of creation.
+
+
 Stanza No. 1: describes the condition of the
 Absolute One during the interlude between cosmic
 manifestations and before the first flutter of re-
@@ -1737,11 +1673,12 @@ all the most abstract attributes which men feel
 rather than conceive as the remotest limits attain-
 able by their powers of conception. We are in-
 formed by the Stanza that:
+
+
 Stanza No. 1: “The eternal parent wrapped in
 her ever invisible robes had slumbered once again
 for seven eternities. Time was not, for it lay
 asleep in the infinite bosom of duration. Univer-
-SECRET DOCTRINE 67
 sal mind was not, for there were no Ah-Hi to con-
 tain it. The seven ways to bliss were not. The
 great causes of misery were not, for there was no,
@@ -1763,15 +1700,18 @@ in universal space, throughout that All-presence
 which is sensed by the opened eye of the Dangma
 [the inner spiritual eye of the seer, or the Third
 Eye].”
+
+
 Stanza No. 2: describes a stage which to the
 Western mind is so nearly identical with the first
 that to explain the difference would require a trea-
 tise in itself. A grasp of what it contains can be
 obtained only through the intuition and higher
 faculties of the student. Indeed, it must be ге-
-68 BLAVATSKY AND THE
 membered that all the Stanzas appeal more to the
 inner faculties than to the physical brain:
+
+
 “Where were the Builders, the luminous Sons of
 Manvantaric Dawn? * * * The producers of
 form роті no-form—the root of the world—? * *
@@ -1783,6 +1723,8 @@ not yet flashed into the Germ; the Matripadma
 [Mother-Lotus] had not yet swollen. * * * The
 universe was still concealed in the Divine thought
 and the Divine bosom.”
+
+
 Stanza No. 3: describes the reawakening of the
 universe to activity after rest. It depicts the emerg-
 ence of the monads from their state of absorption
@@ -1790,15 +1732,14 @@ within the One. Thus begins the earliest and high-
 est stage in the formation of worlds. The term
 monad may apply to the vastest solar system and
 the tiniest atom. Says the Stanza:
+
+
 “The last vibration of the seventh eternity thrills
 through infinitude. The mother swells, expand-
 ing from within without, like the bud of the lotus.
 The vibration sweeps along, touching with its
 swift wing the whole universe and the germ that
 dwelleth in darkness. The darkness that breathes
-SECRET
-DOCTRINE
-69
 over the slumbering waters of life. Darkness radi-
 ates light, and light drops one solitary ray into the
 mother-deep. The ray shoots through the virgin
@@ -1813,7 +1754,9 @@ expands when the breath of fire is upon it; it con-
 tracts when the breath of the mother touches it.
 Then the sons dissociate and scatter, to return into
 their mother’s bosom at the end of the great day,
-and re-become one with her: * * Ж"
+and re-become one with her: * * *"
+
+
 Stanza No. 4: shows the differentiation of the
 germ of the universe into the septenary hierarchy of
 conscious Divine Power which is the active mani-
@@ -1826,16 +1769,19 @@ who adjust and control evolution, embodying in
 themselves those manifestations of the one Law
 which we know as the Law of Nature. This stage
 of evolution is called in mythology the Creation
-70 BLAVATSKY AND THE
 of the Gods, but it is not a creation of gods in
 the sense in which creation is generally understood
 in the West, but as a reawakening into activity
 of Beings who have acquired their transcendental
 intelligence in former universes.
+
+
 Stanza No. 5: “The Primordial Seven, the First
 Seven Breaths of the Dragon of Wisdom, produce
 in their turn from their Holy Circumgyrating
 Breaths the Fiery Whirlwind.”
+
+
 This stanza describes the process of world forma-
 tion; first, diffused cosmic matter, then the fiery
 whirlwind—the first stage in the formation of a
@@ -1843,19 +1789,20 @@ nebula. This nebula condenses, and after pass-
 ing through various transformations forms a solar
 universe, a planetary chain, or a single planet, as
 the case may be.
+
+
 Stanza No. 6: indicates the subsequent stages
 in the formation of such a world, and brings its
 evolution down to the fourth period—correspond-
 ing to the period in which we are now living.
-“+ * * He builds them in the likeness of old-
+
+
+“* * * He builds them in the likeness of old-
 er wheels, placing them on the Imperishable Cen-
 tres. How does Fohat build them? He collects
 the fiery dust.. He makes balls of fire, runs
 through them, and round them, infusing life there-
 into, then sets them into motion; some one way,
-SECRET
-DOCTRINE
-71
 some the other way. They are cold, he makes
 them hot. They are dry, he makes them moist.
 They shine, he fans and cools them. Thus acts
@@ -1866,6 +1813,8 @@ wheel. Its fourth spoke is our mother. Reach the
 fourth “fruit” of the fourth path of knowledge that
 leads to Nirvana, and thou shalt comprehend, for
 thou shalt see.”
+
+
 Stanza No. 7: “Behold the beginning of sen-
 tient formless life. * * * The one ray multi-
 plies the smaller rays. Life precedes form, and life
@@ -1879,11 +1828,14 @@ passes into the second and behold—a plant; the
 plant whirls through seven changes and becomes
 а sacred animal. From the combined attributes of
 these, Manu, the thinker is formed.
+
+
 The 7th Stanza continues the history, tracing
 the descent of life down to the appearance of man,
 thus ending the description of cosmic evolution as
 found in the first volume.
-72 BLAVATSKY AND THE
+
+
 For a graphic summary of the teaching of The
 Secret Doctrine on the cosmogony of the system
 of worlds to which we belong, it would be diffi-
@@ -1911,8 +1863,9 @@ him, and he following from afar the direction in
 which his brothers move on the path that encircles
 their houses. (‘The sun rotates on his axis always
 in the same direction in which the planets revolve
-SECRET DOCTRINE 73
 in their respective orbits. astronomy teaches us).”
+
+
 If there is anywhere a plainer and more graphic
 exposition I should like to know it. Modern as-
 tronomy also explains this phenomenon, though
@@ -1926,19 +1879,22 @@ cording to the occult teaching, the sun merely de-
 tached itself earlier than the others, as the rotating
 mass contracted, and is their elder brother and not
 their father.
+
+
 Each of these seven planets in its turn is again
 associated with six other planets. Such a group
 is called a planetary chain. Each of these chains
 forms a field of evolution for a certain number of
 monads or souls. There are further subdivisions,
 but we need not be concerned with them here.
+
+
 Evolution of these monads progresses through
 a series of manifestations on one or more of these
 chains, and, just as this earth is the fourth and
 most material planet of the seven globes which are
 the field of its special system of evolution, so does
 this whole chain of worlds occupy the same place
-74 BLAVATSKY AND THE
 in the larger scheme to which it belongs; that is
 to say, the life impulse which is now cycling
 through this present period of evolution had its
@@ -1947,6 +1903,8 @@ three such periods of evolution before this one, and
 there will be three after this one has passed, before
 objective manifestation once more returns to the
 bosom of the Infinite for a period of rest.
+
+
 Our own little earth and its human inhabitants
 are given due consideration in the second volume
 of The Secret Doctrine. To understand it is by no
@@ -1958,6 +1916,8 @@ maker, hanging the planets in the firmament, or
 sitting cross-legged on a table with a large pair of
 scissors beside him, sewing coats of skin for Adam
 and Eve.
+
+
 We understand also that the geological consti-
 tution of the earth cannot be accounted for by the
 six-day or any other creation theory, for if God
@@ -1965,9 +1925,10 @@ created the world as thus set forth, we must also
 suppose that he twisted the strata, stored the fossils
 between, scooped out the valleys supposed to have
 been made by glaciers, and caused the marks of
-SECRET DOCTRINE 75
 erosion by water all for His own glory and for the
 mystification of man.
+
+
 The Secret Doctrine teaches that the fire-mist
 which eventually condensed into what is now our
 earth originally covered an area so large that it
@@ -1985,8 +1946,12 @@ the water had become tepid. About this time, the
 first of the four great continents—which existed
 before the earth assumed its present topography—
 appeared in the region now known as the Arctic.
-CHAPTER- V
-EFORE going any farther, it is neces-
+
+
+### <h3 id="chapter-5">CHAPTER V</h3>
+
+
+BEFORE going any farther, it is neces-
 sary to understand the central position
 of our earth in the whole plan of evo-
 lution. During the preceding three
@@ -2003,11 +1968,11 @@ are now returning home to our Father—who by
 the pouring out of Intelligence has met us a long
 way off, and is now conducting us to our own
 spiritual home.
+
+
 The general plan of human evolution on the
 globe is briefly this: seven distinct root-races were
 destined to evolve a certain principle or sense. In
-76
-SECRET DOCTRINE 77
 this way, the four races which preceded us de-
 veloped hearing, touch, sight, and taste. We have
 developed smell. The sixth and seventh root-races
@@ -2020,6 +1985,8 @@ The evolution of each root-race takes place under
 the guidance of a special teacher, a great spiritual
 entity who incarnates in that race as ruler and law-
 giver.
+
+
 Each root-race evolves on its own continent,
 which is destroyed when that evolution is finished,
 water and fire being used alternately as agents.
@@ -2033,14 +2000,9 @@ the whole of our stay on this chain of globes. It
 was the cradle of the first man, and will be the
 dwelling of the last divine mortal Chaya as a re-
 pository for the future seeds of humanity.
-This
-sacred land has
-in
-its
-center
-Mount
-Meru,
-78 BLAVATSKY AND THE
+
+
+This sacred land has in its center Mount Meru,
 whose roots are in the Himalayan chain; from
 the peak of this sacred mountain—which forms
 the axis of the earth—there is a continuous flow
@@ -2060,6 +2022,8 @@ forms within. She will build coverings without.
 Males-females will they be? * * * They [the
 Moon-gods] went each on his allotted land: seven
 of them each on his lot.”
+
+
 Concerning anthropogenesis, The Secret Doc-
 drine teaches: (1) the simultaneous evolution of
 seven human groups on seven different portions
@@ -2067,9 +2031,10 @@ of our globe; (2) the birth of the astral body be-
 fore the physical, the latter body being molded in
 the astral form; (3) the priority of man in this
 round to the animals, the monkeys included. This
-SECRET DOCTRINE 79
 last teaching is in accord with the second creation
 story in the Bible; also with other books.
+
+
 On the Sacred Imperishable Land were created
 by the Lords of the Moon chain the first race—
 large, shadowy, ethereal beings floating hither and
@@ -2092,32 +2057,11 @@ the days of Homer the Greeks spoke of it as a
 blessed land beyond the reach of Boreas, the god
 of winter, and of the hurricane—an ideal country,
 where nights were short and days were long.
-On
-this
-continent
-lived the second-race men,
-ensouled
-by
-the
-second
-great host of
-monads which
-80 BLAVATSKY AND THE
-had come over from the Moon chain. Although
-having the general form of men, the individuals of
-this race were gigantic jellylike creatures who float-
-ed over the surface of the earth, as directed by
-passing desires. The features were undefined,
-there being no eyes, ears, or mouth. They received
-impressions through and were guided by two cen-
-ters of force, the so-called third eye (which has
-become the pineal gland) and an organ which has
-developed into the spleen. They were potentially
-bisexual, and reproduced their species in the same
-manner as the first race. The second-race men
-were boneless—which accounts for the fact that
-geologists have found no fossils in the three lower
-strata.
+
+
+On this continent lived the second-race men, ensouled by the second great host of monads which had come over from the Moon chain. Although having the general form of men, the individuals of this race were gigantic jellylike creatures who floated over the surface of the earth, as directed by passing desires. The features were undefined, there being no eyes, ears, or mouth. They received impressions through and were guided by two centers of force, the so-called third eye (which has become the pineal gland) and an organ which has developed into the spleen. They were potentially bisexual, and reproduced their species in the same manner as the first race. The second-race men were boneless—which accounts for the fact that geologists have found no fossils in the three lower strata.
+
+
 During the later secondary period the waters
 receded, and land appeared in the areas now
 covered by India, China, Australia, Africa, the
@@ -2126,11 +2070,12 @@ the vast Lemurian continent, to which the great
 Lemurian race was led by its Teacher. This was
 the first race to receive the outpouring of intelli-
 gence.
+
+
 The mode of reproduction was changed three
 times during this period. Says the Book of Dzyan:
 “Then the second [race] evolved the Egg-born, the
 third. * * * The egg of the future race, the
-SECRET DOCTRINE 81
 Man-swan of the later third. First male-female,
 then man and woman.” Today embryology teaches
 that man is born from the ovum; that in the third
@@ -2150,6 +2095,8 @@ that he could walk backward. Certainly he was not
 too engaging a person. We can sympathize with
 the souls who were guided to such bodies for incar-
 nation, and excuse them for refusing.
+
+
 During this age the animals appeared, and sep-
 arated into sexes before man. Up to this stage,
 man had remained (as the Book of Dzyan puts it)
@@ -2157,8 +2104,9 @@ man had remained (as the Book of Dzyan puts it)
 time when he was to receive the priceless gift of
 mind. То acomplish this three classes of souls came
 down to birth.
+
+
 The first were the Lords of Venus, who,
-82 BLAVATSKY AND THE
 though not belonging to our planetary chain,
 sent to this earth—their adopted child—great
 teachers who taught and guided infant human-
@@ -2173,19 +2121,22 @@ humanity—which for ages was not to be qualified
 to tread the path of initiation—but for those of the
 Lords of Venus who had not reached the highest
 stage of initiation.
+
+
 The other two classes are described as the Sons
 of Wisdom and the Sons of Night. Of these the
 Sons of Night refused to create. Those who en-
 tered became sages; on those who did not procreate,
 the curse was pronounced. They will be born in
 the fourth suffering, and causing suffering.
+
+
 Thus was a part of humanity left narrow-headed
 and mindless. Of them the Book of Dzyan says:
 “And those which had no spark took huge she-
 animals unto them. They begat upon them dumb
 races. Dumb they were themselves. But their
 tongues untied. The tongues of their progeny re-
-SECRET DOCTRINE 83
 mained still. Monsters they bred. A race of crook-
 ed red-hair-covered monsters going on all fours.
 A dumb race to keep the shame untold. Seeing
@@ -2195,7 +2146,9 @@ asa [the mindless] have defiled our future abodes.
 This is Karma [retribution]. Let us dwell in the
 others. Let us teach them better, lest worse should
 happen. * * * Then all men become endowed
-with Manas |тіпа)"
+with Manas [mind]."
+
+
 Some of the fourth race men who had mind,
 however, did the same—and here is the explana-
 tion of The Secret Doctrine regarding the anthro-
@@ -2205,6 +2158,8 @@ race. They are the only animals now on the globe
 which will develop human astral forms in the
 seventh root-race, and will be definitely human in
 the fifth round.
+
+
 There is still another class, of which one divi-
 sion incarnated during the later third and the other
 during the early fourth round. They had advanced
@@ -2213,7 +2168,8 @@ earthly chain during the preceding stages, and
 came into incarnation for the first time on this
 chain. These are the last of the monads who in-
 habited the Moon chain.
-84 BLAVATSKY AND THE
+
+
 From the seventh sub-race of the third race the
 Teacher who was to develop the coming fourth
 race singled out those who were to form the nu-
@@ -2232,6 +2188,8 @@ It was indeed the Golden Age; alchemistry was
 used to produce gold for use in the arts and to
 ornament their houses and buildings. Superphysi-
 cal powers were a common possession.
+
+
 When the divine pilots tried the experiment of
 relinquishing the helm to see if man himself would
 be able to guide the ship of humanity, this was all
@@ -2241,7 +2199,6 @@ the gods. They took wives fair to look upon. Wives
 from the mindless, the narrow-headed. They bred
 monsters. Wicked demons, male and female. * *
 They built temples for the human body. Male and
-SECRET DOCTRINE 85
 female they worshipped. Then the Third Eye act-
 ed no longer. They built huge cities. * * *
 They built great images nine yatis high, the size
@@ -2254,6 +2211,8 @@ Book calls the Lords of Night, or the Dark Faces,
 in contradistinction to the Sons of Wisdom,
 or Lords of the Dazzling Face. The Secret Doctrine
 tells the story plainly:
+
+
 “And the ‘great King of the Dazzling Face, the
 chief of all the Yellow-faced, seeing the sins of the
 Black-faced, was sad. He sent his air-vehicles to
@@ -2269,7 +2228,6 @@ The nether Lords of the Fires (the Gnomes and
 fire Elementals) are preparing their magic Agney-
 astra (fire-weapons worked by magic). * * *
 They are versed in Ashtar (Vidya, the highest
-86 BLAVATSKY AND THE
 magical knowledge). Come and use yours (your
 magic powers, in order to counteract those of the
 Sorcerers). Let every lord of the Dazzling Face
@@ -2289,6 +2247,8 @@ night is ready, etc., etc.’ ” The waters arose and
 covered the valleys from one end of the earth to the
 other. So perished Atlantis and came into being
 the story of the deluge.
+
+
 From the fifth sub-race of the fourth root-race,
 the original Semitic, had been chosen by the Holy
 Vaivaswata, the Teacher of our fifth root-race, the
@@ -2297,7 +2257,6 @@ race. The people were turbulent, however, and
 difficult to control. They frustrated the plans of
 their teachers by exracial intermarriage, so they
 were abandoned. From them descended the Jews.
-SECRET DOCTRINE 87
 This explains the Biblical statement that the Jews
 are a chosen people, and that the sons of God took
 wives from among the daughters of men. The
@@ -2319,13 +2278,14 @@ the Keltic, led by Orpheus, settled in Greece,
 Italy, France, Ireland, Scotland, and England.
 The fifth, the Teutonic, occupied Central Europe
 and is now conquering the world.
+
+
 What does The Secret Doctrine say about the
 future? The land-body now known as North
 America will be consumed by fire. In its place
 will arise a new continent which will be the home
 of a spiritual people. This will be the sixth root-
 race, the nucleus of which is being evolved right
-88 BLAVATSKY AND THE
 here, under the Stars and Stripes. In that race,
 function will be restored to the pituitary body and
 the pineal gland, which have been inactive since
@@ -2343,6 +2303,8 @@ ond spinal cord. They will be a beautiful, spiritual
 and mighty people. Yet this race with its continent
 will also pass away, to give place to the seventh and
 last of our root-races.
+
+
 The people of this last race will dwell on a land
 to the south of us, there evolving to a state trans-
 cending our present understanding. Mental clair-
@@ -2350,9 +2312,10 @@ voyance will be possessed by all; the two spinal
 cords will merge into one, and man will be sexless.
 Then will come the time when the life-wave will
 once more leave our earth to conquer other worlds.
+
+
 Such is the sublime plan to which we belong,
 as outlined in the first and second volumes of The
-SECRET DOCTRINE 89
 Secret Doctrine. The third volume consists of a
 miscellaneous collection of papers published after
 the death of the author. As the years pass, the
@@ -2368,38 +2331,55 @@ is food for the heart and for the intellect—a system
 of thought and knowledge which, if we will but
 study it and put it into our lives, can make us wise
 unto salvation.
-APHORISMS
-FROM MAX HEINDEL’S WRITINGS
+
+
+### <h3 id="aphorisms-from-max-heindels-writings">APHORISMS FROM MAX HEINDEL’S WRITINGS</h3>
+
+
 As our body is the visible garment of the in-
 visible ego, so does the visible fire clothe the true
 invisible fire. Fire and the ego are both spirits
 and both manifest under analagous laws.
+
+
 A good memory is one that forgets the faults
 of others, but remembers the lessons.
+
+
 A small man is always anxious for a big position
 because he feels that the position will confer dignity
 and prestige upon him, but there are ninty-nine
 chances that he will disgrace the position. A big
 man dignifies any position, big or little, by the
 efficient way he handles it.
+
+
 No matter how high that ideal seems or how
 far below it we feel, Saints have realized it. They
 were men, and what man has done man can do
 again.
-91
-92 APHORISMS BY MAX HEINDEL
+
+
 THE LOST WORD—You cannot say it unless
 you have first learned to live it.
+
+
 PRAYER is magic incantation, but unless your
 life is a prayer, you will never get the answer.
+
+
 When you have set your goal, never harbor a
 thought of fear or failure, but cultivate an attitude
 of invincible determination to accomplish your ob-
 ject despite all obstacles, holding the thought of
 success constantly.
+
+
 The Black Grail feeds on evil, while the Holy
 Grail feeds on Love. If evil did not exist the
 powers of darkness would starve.
+
+
 Prayer is like the turning on of the electric
 switch, that does not create the current but simply
 provides a channel through which the electric cur-
@@ -2407,16 +2387,21 @@ rent may flow. In like manner prayer creates a
 channel through which the divine life and light
 may pour itself into us for our spiritual illumina-
 tion.
+
+
 There is but one safe way to develop our latent
 faculties. No matter what anyone may say to the
 contrary, experience will prove that attainment to
 spiritual powers depends upon purification and un-
-APHORISMS BY MAX HEINDEL 93
 selfish aspiration; and that is what the mysteries
 taught in olden times.
+
+
 Nature is the symbolic expression of God. She
 does nothing gratuitously, but there is a purpose
 behind everything and every act.
+
+
 It is one thing to go out in the mountains where
 there is no one to contradict or to jar upon our
 sensibilities and keep our poise; but it is another
@@ -2425,18 +2410,23 @@ and keep our balance in the world where every-
 thing jars upon us; but when we stay on this path
 we gain a self-control which is unattainable in any
 other manner.
+
+
 When we work and pray, and make our lives
 a living prayer for opportunities to serve others,
 then all earthly things will come of their own ac-
 cord as we need them, and they will continue to
 come according to the degree that they are used in
 the service of God.
+
+
 A great and wonderful allegory is written in
 cosmic characters in the sky. It is also written in
 our own lives, and warns us to forsake the fleeting
 life of the material and to seek the eternal life of
 God.
-94 APHORISMS BY MAX HEINDEL
+
+
 There can be no contradiction in nature, there-
 fore the heart and mind must be capable of uniting.
 To indicate this common ground is precisely the
@@ -2448,20 +2438,27 @@ the mind, can be kept from going astray, where
 each can have full scope for action, neither doing
 violence to the other, where both mind and heart
 can be satisfied.
+
+
 The Founder of the Christian Religion stated
 an occult maxim when He said, “Whosoever shall
 not receive the kingdom of God as a little child, he
 shall not enter therein.” (Mark 10). All occultists
 recognize the far-reaching importance of this teach-
 ing of Christ, and endeavor to live it day by day.
+
+
 If, having knowledge and choice, man ranges
 himself on the side of good and right, he cultivates
 virtue and wisdom. If he succumbs to temptation
 and does wrong knowingly, he fosters vice.
+
+
 In service is the only true greatness. Yet no
 matter how efficiently we may serve, if we glory
 in our services, that self-glory is our only reward.
-APHORISMS BY MAX HEINDEL 95
+
+
 It should be our aim to think little of that
 which we do, to esteem ourselves as nothing, for
 no matter how well we work, none of us are able
@@ -2470,6 +2467,8 @@ HUMILITY in service should be our chief end
 and aim. The more thoroughly we can attain to
 that ideal, the smaller we are in our own eyes, the
 greater shall we be in the sight of God.
+
+
 It is always easy to get people to do big things,
 where they are bolstered up by the dignity of the
 position. Lots of little men can always be found to
@@ -2478,6 +2477,8 @@ have everybody bowing before him, but it takes
 a BIG MAN to do the little things, the things
 which are called menial, which are not menial for
 the personality dignifies the task.
+
+
 No matter what people say to us or about us
 their words have no intrinsic power to hurt. It is
 our own mental attitude towards their utterances
