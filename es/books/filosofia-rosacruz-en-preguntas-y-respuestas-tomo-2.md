@@ -1675,7 +1675,7 @@ Entre estos Misterios estaba la doctrina del renacimiento, la cual, usted verá 
 
 En el caso de Elías, Él enseñó esta doctrina directa y completamente, porque hablando de Juan el Bautista dijo a Sus discípulos: "Y si queréis recibirle él es aquel Elías que había de venir." No hay equívoco sino una afirmación directa y segura: "Él es Elías." Esta afirmación fue reiterada más tarde cuando fueron al Monte de la Transfiguración, porque en esa ocasión Cristo dijo a Sus discípulos: "Ya vino Elías e hicieron de él todo lo que quisieron." Los discípulos entonces entendieron que les habló de Juan el Bautista. 
 
-### PREGUNTA Nº 105 - NATURALEZA DEL CUERPO DE JESÚS DESPUÉS DE LA MUERTE
+### <h3 id="question-105">PREGUNTA Nº 105 - NATURALEZA DEL CUERPO DE JESÚS DESPUÉS DE LA MUERTE</h3>
 
 Si, como usted dice, el cuerpo de Jesús se desintegró y se dispersó a los cuatro vientos una vez enterrado, ¿cómo fue, entonces, que Tomás tocó a Jesús después de la muerte. ¿Cómo dijo: “Palpad, y ved; que el Espíritu no tiene carne ni huesos, como veis que Yo tengo”? Más adelante dice que Él comió pescado y miel. ¿Es posible que un Espíritu sin un cuerpo de carne pueda comer y ser tocado? 
 
@@ -1695,7 +1695,7 @@ El Cristo naturalmente estaba a la cabeza de esta clase y era consecuentemente c
 
 Respecto a haber comido pescado y miel, hay para esto un significado místico que será tratado en el departamento Rayo Astral en una fecha posterior. Los discípulos eran pescadores y hacían milagrosas pescas. Cristo narró parábolas acerca de los peces y la gente fue alimentada con panes y pescado. La historia de Jonás y la ballena y otras narraciones semejantes tienen un significado astrológico que será presentado en los artículos de que hablamos, así es que no trataremos esa parte de la pregunta en esta ocasión. Contestaremos solo la última parte de su pregunta: "¿Es posible para un Espíritu sin un cuerpo de carne el comer y el beber?" En las más bajas regiones del Mundo del Deseo, que interpenetran la Región Etérica del Mundo Físico, hay ciertas clases de espíritus de los cuales oímos hablar mucho en la literatura espiritista. Viven en casas, comen y beben. Tienen, de hecho, todas las relaciones de vida exactamente como las tenemos aquí y siguen haciendo en mucho la misma clase de vida que llevaban cuando estaban entre nosotros en el mundo físico, visible. También es posible para un Espíritu materializado, o para un iniciado que se materialice, el comer y el beber, pero entonces seria necesario disponer de los materiales ingeridos de un modo diferente del proceso ordinario de asimilación. 
 
-### PREGUNTA Nº 106 - EL NACIMIENTO DE JESÚS
+### <h3 id="question-106">PREGUNTA Nº 106 - EL NACIMIENTO DE JESÚS</h3>
 
 ¿En qué forma concilia usted la afirmación de la Biblia de que José no conoció a Maria hasta que ella dio a luz a su hijo primogénito, Jesús, quien fue así concebido por el Espíritu Santo, con la enseñanza Rosacruz de que Jesús era el hijo de un padre humano, José, y de Maria, su madre? 
 
@@ -1705,21 +1705,20 @@ Si se trata de la doctrina esotérica de la Inmaculada Concepción no es necesar
 
 Esa trasgresión hizo caer la mancha del pecado sobre una función sagrada, pero cuando una santa vida ha purificado los deseos, el hombre se llena de un Espíritu santo y le es posible ejercer la función generadora sin pasión. De aquí la Inmaculada Concepción. El niño nacido bajo tales condiciones es naturalmente superior, porque entonces la concepción es un rito sagrado de auto sacrificio y no un acto de satisfacción egoísta. 
 
-## SECCIÓN VIII - PREGUNTAS CONCERNIENTES A LA ASTROLOGÍA
+<h2 id="section-8">SECCIÓN VIII - PREGUNTAS CONCERNIENTES A LA ASTROLOGÍA</h2>
 
-### PREGUNTA Nº 107 - ORIGEN ASTROLÓGICO DE LA CONCIENCIA
+### <h3 id="question-107">PREGUNTA Nº 107 - ORIGEN ASTROLÓGICO DE LA CONCIENCIA</h3>
 
-En las lecturas astrológicas usted frecuentemente se refiere a Júpiter como planeta de la ley, el orden y la moral, y también a Saturno como planeta del método, de la justicia y de la virtud. ¿Puedo preguntar con cuáles planetas y signos precisamente está más íntimamente asociado el sentimiento de conciencia, o si hay uno o mas que sean prominentes en relación con dicho sentimiento? La conciencia es, por supuesto, la raíz de la ley, de la ética, de la justicia, de la virtud, etcétera. 
+En las lecturas astrológicas usted frecuentemente se refiere a Júpiter como planeta de la ley, el orden y la moral, y también a Saturno como planeta del método, de la justicia y de la virtud. 
+
+¿Puedo preguntar con cuáles planetas y signos precisamente está más íntimamente asociado el sentimiento de conciencia, o si hay uno o mas que sean prominentes en relación con dicho sentimiento? La conciencia es, por supuesto, la raíz de la ley, de la ética, de la justicia, de la virtud, etcétera. 
 
 Respuesta: De acuerdo con las enseñanzas Rosacruces, cuando el Espíritu ha partido de la vida física a través del portal de la muerte, él ve el panorama de su vida anterior pasando ante sus ojos en orden inverso. En esos momentos los cuadros que componen esa biografía son grabados en los vehículos sutiles que el Ego lleva consigo a los mundos invisibles. Lo que causa el sufrimiento que constituye su experiencia purgatorial es la reacción de las escenas en donde el Espíritu ha cometido un error. Esto borra los cuadros del panorama de la vida, pero deja un aroma -que constituye la conciencia- para prevenir al Espíritu en su próxima existencia a no hacer las cosas que antes le hicieron sufrir en el Purgatorio. El escrúpulo es la cualidad positiva de la conciencia. La conciencia nos incita a no hacer las cosas que son erróneas; el escrúpulo nos incita a hacer las cosas que son rectas. 
 
-Mitológicamente Saturno es el recogedor de la cosecha con su guadaña y su reloj de arena, el ángel de la muerte, quien nos hace pasar de la vida activa a la existencia purgatorial, en la que recogemos lo que hemos sembrado. Por consiguiente, en un sentido, 
+Mitológicamente Saturno es el recogedor de la cosecha con su guadaña y su reloj de arena, el ángel de la muerte, quien nos hace pasar de la vida activa a la existencia purgatorial, en la que recogemos lo que hemos sembrado. Por consiguiente, en un sentido, Saturno está en la raíz de la conciencia moral. Siempre nos pone en guardia diciéndonos: "no, no, no" y si por haber escuchado su voz en el pasado lo tenemos en una posición desde la cual en esta vida aspecta bien a los otros planetas, especialmente a Júpiter, planeta de la ley, del orden y de la ética, y también al Sol, entonces tenemos una persona escrupulosa, que siempre cumple con su deber en la vida, no importa cuán ardua sea la tarea ni cuánta perseverancia y persistencia requiera, o qué sacrificio implique. Así es que el escrúpulo, o fase positiva de la conciencia, no la da un solo planeta, sino que requiere una combinación de las más elevadas virtudes de varios planetas para llevarlo a su más alta y noble expresión. Por supuesto que hay muchas personas que son escrupulosas debido a configuraciones benéficas menores (astrológicamente hablando), pero la más elevada fase requiere la cooperación del Sol, Júpiter y Saturno. 
 
-Saturno está en la raíz de la conciencia moral. Siempre nos pone en guardia diciéndonos: "no, no, no" y si por haber escuchado su voz en el pasado lo tenemos en una posición desde la cual en esta vida aspecta bien a los otros planetas, especialmente a Júpiter, planeta de la ley, del orden y de la ética, y también al Sol, entonces tenemos una persona escrupulosa, que siempre cumple con su deber en la vida, no importa cuán ardua sea la tarea ni cuánta perseverancia y persistencia requiera, o qué sacrificio implique. Así es que el escrúpulo, o fase positiva de la conciencia, no la da un solo planeta, sino que requiere una combinación de las más elevadas virtudes de varios planetas para llevarlo a su más alta y noble expresión. Por supuesto que hay muchas personas que son escrupulosas debido a configuraciones benéficas menores (astrológicamente hablando), pero la más elevada fase requiere la cooperación del Sol, Júpiter y Saturno. 
+### <h3 id="question-108">PREGUNTA Nº 108 - LAS PLANTAS AFECTADAS POR LOS PLANETAS</h3>
 
-### PREGUNTA Nº 108
-
-LAS PLANTAS AFECTADAS POR LOS PLANETAS
 ¿Están las plantas bajo la influencia de los planetas y los signos? ¿Si es así, tenga a bien explicarme como y por qué? 
 
 Respuesta: Existen, como sabemos, cuatro diferentes reinos sobre la tierra: el mineral, el vegetal, el animal y el humano. Los Espíritus de estas cuatro oleadas de vida están evolucionando bajo la guía y la ayuda de las otras Jerarquías invisibles. 
@@ -1740,13 +1739,13 @@ Los Arcángeles habitan el Sol, y los Ángeles están situados en las lunas del 
 
 Hay también ciertos signos que son más favorables que otros para el crecimiento de las plantas porque tienen ciertas afinidades con las vibraciones lunares. Los signos de agua Escorpio y Piscis son signos fructíferos por esa razón, y las semillas plantadas cuando la Luna, reina de las aguas, pasa por uno de estos signos producirá mejores resultados que cuando la Luna está en los signos de fuego, Aries, Leo y Sagitario. Estos son signos solares y por lo tanto queman la chispa vital que contiene la semilla. Mucho más podría decirse sobre este tema, pero lo anterior dará probablemente la información solicitada. 
 
-### PREGUNTA Nº 109 - INFLUENCIA DE LAS PLÉYADES Y DE ORIÓN
+### <h3 id="question-109">PREGUNTA Nº 109 - INFLUENCIA DE LAS PLÉYADES Y DE ORIÓN</h3>
 
 Encuentro en la Biblia en el Libro de Job, las siguientes palabras: ¿Podrás tú impedir las delicias de las Pléyades, o desatarán las ligaduras del Orión? ¿Existe alguna influencia de estas estrellas sobre los hombres? 
 
 Respuesta: Sí, no existe duda de que todas las estrellas del universo tienen influencias sobre los hombres, y algunos astrólogos también señalan las posiciones de un gran número de estrellas fijas al calcular un horóscopo. Según nuestro modo de pensar eso es solo una pérdida de tiempo y de trabajo, porque la mente humana corriente está siendo puesta ahora ante una prueba suficientemente severa para equilibrar las influencias mutuas de las casas, los signos y los planetas en aspecto, como para leer correctamente el mensaje total de las estrellas tal como se muestran por medio de estos factores elementales. Puede afirmarse, sin embargo, con respecto a las Pléyades, que son uno de los tres puntos nebulosos del zodíaco que se ha encontrado que ejercen una influencia maléfica sobre los ojos bajo ciertas configuraciones horoscópicas del Sol o la Luna con Saturno, Marte, Urano y Neptuno. 
 
-### PREGUNTA Nº 110 - EL TIEMPO DE LA ERA DE ACUARIO
+### <h3 id="question-110">PREGUNTA Nº 110 - EL TIEMPO DE LA ERA DE ACUARIO</h3>
 
 Mucha gente cree que estamos entrando, o estamos próximos a entrar, en una nueva edad. Algunos entienden que es la Edad de Acuario, que eso es, y en cierta extensión, lo que está pasando. Sin embargo, yo todavía no he oído una explicación inteligente acera de cuándo precisamente nuestra Tierra o nuestro sistema solar entrará en esta Edad, y de si la Edad de Acuario coincide con el paso del Sol por la constelación de Acuario o por la división zodiacal de ese nombre. 
 
@@ -1762,7 +1761,9 @@ Esta división intelectual del círculo zodiacal coincide con las constelaciones
 
 Puede decirse que la Edad de Acuario comenzará en el tiempo en que el Sol entre, por presesión en el grado 30 de la constelación de Acuario, y durará 2100 años mientras que el Sol se mueva hacia atrás a través de los treinta grados hasta que llega al primer grado de Acuario. No existe, sin embargo, un final definido y terminante como el que hacemos cuando decimos que entramos al año 1915, el cual comienza a las doce de la noche del 31 de diciembre de 1914, y dura hasta el 31 de diciembre de 1915, a las 12 de la noche. Esa es una división matemática del tiempo. Las varias épocas de la existencia humana dependen de influencias vitales en la vida, y son condiciones mentales más que divisiones del tiempo, aunque las dos cosas están ligadas. 
 
-Por lo tanto, los astrólogos reconocen lo que se llama una "órbita de influencia." Para comprender esto, debemos recordar que cada ser humano es algo más que lo que de él vemos; que tiene una aura que la rodea, una atmósfera invisible, un algo que irradia de sí y que participa de su distinta y personal naturaleza. Nosotros muy a menudo sentimos el efecto de esta aura, aunque no comprendemos la razón de por qué la sentimos. Supongamos que alguien tiene toda su mente concentrada en su trabajo de modo tal que ni ve ni oye lo que sucede alrededor de sí. Gradualmente se da cuenta de que alguien más ha entrado en la habitación -quien está, en realidad, parado detrás de él- y se da vuelta para encontrarse allí con un amigo. Él no había oído entrar al amigo, a causa de la absorción en su trabajo, pero él le sintió, porque el aura del amigo se entremezcló con su propia atmósfera áurica. Así es que, aunque no hubo contacto físico, él supo que alguien estaba cerca de él. Las constelaciones son grupos de grandes Espíritus y ellos mismos se han emparedado en estos cuerpos estelares con el fin de que las inteligencias menos avanzadas obtengan las experiencias de la evolución. Cada una de las estrellas fijas de una constelación tiene también sus cuerpos invisibles que se expanden, entremezclan y extienden unos con otros. Por lo tanto, cuando el Sol llegó al décimo grado de Piscis, tocó el margen de la influencia de la constelación de Acuario, aunque estemos todavía en la Edad Pisciana. 
+Por lo tanto, los astrólogos reconocen lo que se llama una "órbita de influencia." Para comprender esto, debemos recordar que cada ser humano es algo más que lo que de él vemos; que tiene una aura que la rodea, una atmósfera invisible, un algo que irradia de sí y que participa de su distinta y personal naturaleza. Nosotros muy a menudo sentimos el efecto de esta aura, aunque no comprendemos la razón de por qué la sentimos. Supongamos que alguien tiene toda su mente concentrada en su trabajo de modo tal que ni ve ni oye lo que sucede alrededor de sí. Gradualmente se da cuenta de que alguien más ha entrado en la habitación -quien está, en realidad, parado detrás de él- y se da vuelta para encontrarse allí con un amigo. Él no había oído entrar al amigo, a causa de la absorción en su trabajo, pero él le sintió, porque el aura del amigo se entremezcló con su propia atmósfera áurica. Así es que, aunque no hubo contacto físico, él supo que alguien estaba cerca de él. 
+
+Las constelaciones son grupos de grandes Espíritus y ellos mismos se han emparedado en estos cuerpos estelares con el fin de que las inteligencias menos avanzadas obtengan las experiencias de la evolución. Cada una de las estrellas fijas de una constelación tiene también sus cuerpos invisibles que se expanden, entremezclan y extienden unos con otros. Por lo tanto, cuando el Sol llegó al décimo grado de Piscis, tocó el margen de la influencia de la constelación de Acuario, aunque estemos todavía en la Edad Pisciana. 
 
 Una rápida mirada retrospectiva pronto demostrará que esta influencia está haciéndose sentir. Fácilmente reconocemos la influencia Pisciana durante los últimos dos mil años. Las edades negras, la superstición y la esclavitud intelectual entonces prevalecientes no han sido eliminadas enteramente, pero desde mediados de la última centuria, cuando la influencia acuariana comenzó a hacerse sentir por primera vez, ha sido instilado un irresistible impulso intelectual en nuestra vida diaria. La ciencia ha hecho conquistas tales como nunca antes. La invención ha electrificado al mundo y está ahora conquistando el aire, etc. Esta influencia intelectual científica se hará sentir más y más durante los siglos que faltan para entrar definidamente en la constelación de Acuario por presesión del equinoccio. Conforme disminuya la estrecha y conservadora influencia de Piscis, aumentará la influencia investigadora y liberalizante de Acuario. 
 
@@ -1772,7 +1773,7 @@ Más aún, cada una de las edades precedentes han tenido sus instructores. Osiri
 
 La Edad Acuaria no debe ser confundida con el reino de Cristo, Quien debe venir otra vez. Tampoco debe ser confundida la Edad Acuaria con la Sexta Época (Galilea), porque, según rezan las palabras de Cristo, "Del día y de la hora (en que El vuelva) nadie sabe, ni aún los ángeles de los cielos, sino solo "Mi Padre." Es absolutamente absurdo y una señal de ignorancia para cualquiera el predecir que la venida de Cristo tendrá lugar en cierto tiempo especificado. Tal vez es hasta presuntuoso el conjeturar acerca del tiempo aproximado en que tendrá lugar la Segunda Venida, pero el que escribe tiene la idea de que, como los ciclos presesionales, en cuanto están conectados con la evolución del hombre, parecen comenzar con la entrada del Sol en Capricornio, puede haber un desarrollo en ese tiempo. Si esto es correcto, la Venida no puede tener lugar antes de, por lo menos, tres mil años. 
 
-### PREGUNTA Nº 111 - LA ACTUALIDAD DE LA EDAD ACUARIA
+### <h3 id="question-111">PREGUNTA Nº 111 - LA ACTUALIDAD DE LA EDAD ACUARIA</h3>
 
 Un corresponsal nos envía un recorte de periódico en el cual alguien pregunta al editor que es realmente la Edad Acuaria, y la pregunta es contestada como sigue: No hay tal Edad Acuaria; esta patraña fue inventada por EMBAUCADORES profesionales que enseñan que el sistema solar entró recientemente en Acuario. Nadie dice cuándo, y me escriben preguntándome la verdadera fecha. El sistema solar está alejándose directamente de Acuario a la velocidad de doce y media millas por segundo. El sistema solar nunca ha estado y nunca puede estar en algún lugar cerca de Acuario. Sin embargo, folletos y periódicos mensuales están editando continuamente artículos diciendo la misma cosa de siempre, que el sistema solar acaba de entrar en Acuario y que grandes cambios vienen para esta raza humana, todo lo cual es totalmente falso." 
 
@@ -1800,7 +1801,7 @@ Todas estas cosas demuestran, o dan un indicio de lo que se puede esperar que su
 
 Cuando la humanidad haya llegado a este punto de su evolución, estará tanto más adelantada que evitará muchas de las trampas mortales que la afligen hoy día, y eso por lo tanto favorece una existencia mucho más feliz que lo que ha sido la regla hasta el presente día. El intelecto espiritualizado nos ayudará a resolver los problemas sociales de tal manera que habrá justicia para todos, y el uso de maquinarias continuamente mejoradas emancipará a la humanidad del trabajo físico en gran extensión y dejará más tiempo para el mejoramiento intelectual y espiritual. 
 
-### PREGUNTA Nº 112 - EL COMIENZO DE LA EDAD ACUARIA
+### <h3 id="question-112">PREGUNTA Nº 112 - EL COMIENZO DE LA EDAD ACUARIA</h3>
 
 ¿Por qué algunos astrólogos señalan el año de 1912 como el comienzo de la Edad Acuaria? 
 
@@ -1812,7 +1813,7 @@ Si consideramos el hecho de que Acuario es el signo de la invención, la origina
 
 Es usual que un gran Maestro venga en cada Edad, y podemos esperar que venga a través de la Fraternidad Rosacruz, porque la Fraternidad Rosacruz es el heraldo de la Edad de Acuario, así como Juan el Bautista fue el heraldo de la Edad de Piscis. 
 
-### PREGUNTA Nº 113 - TABLAS DE HORAS PLANETARIAS
+### <h3 id="question-113">PREGUNTA Nº 113 - TABLAS DE HORAS PLANETARIAS</h3>
 
 ¿Es justo usar la guía de las Tablas de Horas Planetarias con el propósito de obtener ganancia pecuniaria, o para sacar ventaja sobre otra persona? 
 
@@ -1820,7 +1821,7 @@ Respuesta: Es ciertamente muy malo usar cualquier medio para obtener ventaja sob
 
 El editor estaba en Alemania en 1908, y allí en tiempos de paz los extranjeros tenían que registrarse en la estación de policía e ir en persona a mostrar sus papeles y dar buena cuenta de sí mismo. La policía procuraba una descripción e informes de todos ellos, preguntaba acerca de su religión, si eran casados o solteros, y cuánto tiempo pensaban permanecer en el país. Estas y otras muchas preguntas tenían que ser contestadas, y si uno se mudaba a otro sitio, el proceso tenía que repetirse. Los oficiales eran muy bruscos y no era muy agradable enfrentarse con ellos. Así es que pensamos que iríamos a verlos en la hora del Sol cuando éste estaba bien aspectado, y todo resultó tan bien como fue posible. Fuimos tratados cortésmente, y todo salió a maravilla. Sin embargo, después nos mudamos. Esa vez no pudimos encontrar una hora propicia del Sol, así es que fuimos a otra hora. Fueron tan bruscos que nos sentimos aliviados, complacidos y agradecidos de poder salir de la estación ilesos. Así las horas planetarias tienen algún efecto, si tomamos en cuenta esa experiencia. 
 
-### PREGUNTA Nº 114 - SÍMBOLOS ASTROLÓGICOS
+### <h3 id="question-114">PREGUNTA Nº 114 - SÍMBOLOS ASTROLÓGICOS</h3>
 
 ¿Podría usted decirnos cuál fue el origen de los símbolos, y la forma de esos símbolos que representan los diferentes signos del zodíaco, y también de los planetas? ¿Por qué algunos son completamente fáciles de descifrar, en tanto que otros son precisamente lo contrario? 
 
@@ -1836,7 +1837,7 @@ Tenemos también el medio circulo mismo, la Luna, pero eso es solamente el alma.
 
 Si combinamos los planetas el simbolismo se ve también. La Luna con Marte hace a la persona todavía más temeraria y descuidada, de lo que sería de otra manera. La Luna con Venus hace a la persona más emocional y devocional que en otras circunstancias. Si Mercurio está con Marte, da una inteligencia más penetrante y poder de razonamiento; con Saturno da profundidad a la mente, la cual es acaparadora y egoísta. Júpiter con Mercurio lleva la bondad de la razón y de la benevolencia, y juntos trabajan para propósitos filantrópicos. Y así con todos los planetas, porque ellos se componen de estas partes constituyentes de los símbolos. 
 
-### PREGUNTA Nº 115 - ASTRÓLOGOS EGIPCIOS
+### <h3 id="question-115">PREGUNTA Nº 115 - ASTRÓLOGOS EGIPCIOS</h3>
 
 ¿Por qué los antiguos sacerdotes de Egipto estudiaron tan ampliamente la astrología? 
 
@@ -1848,13 +1849,13 @@ Los orbes estelares dan vueltas como es bien conocido de los astrólogos, pero n
 
 Sucede lo mismo en el microcosmos y en el macrocosmos, en el pequeño mundo y en el gran mundo. Todos tenemos que ver con las estrellas, en parte estamos supeditados a ellas, y sin ellas no se hace nada. Por esto es por lo que los antiguos sacerdotes de Egipto que sabían estas cosas, cultivaron esa fase de la religión. Por esto es por lo que ellos estudiaron la astrología tan ampliamente y llegará el día en que será cada vez más estudiada por un mayor número de personas. La ciencia de la astrología será reivindicada cuando seamos más sabios. 
 
-### PREGUNTA Nº 116 - LA ASTROLOGÍA: UNA RELIGIÓN
+### <h3 id="question-116">PREGUNTA Nº 116 - LA ASTROLOGÍA: UNA RELIGIÓN</h3>
 
 En alguna parte de su literatura dice usted: "Para nosotros la astrología es una fase de la religión." Díganos, por favor, en qué particulares la astrología armoniza con la enseñanza cristiana. 
 
 Respuesta: La pregunta anterior ha contestado esto. Los Siete Espíritus ante el Trono son los Espíritus Planetarios de las esferas en marcha. No podemos excluirías de la religión. Aún en los más remotos tiempos hallamos que dondequiera las estrellas son una parte de la religión y sin ellas no puede haber religión. 
 
-### PREGUNTA Nº 117 - ESCAPADAS DIFÍCILES
+### <h3 id="question-117">PREGUNTA Nº 117 - ESCAPADAS DIFÍCILES</h3>
 
 ¿Puede usted explicarme la forma precisa en que la astrología influye en las humanas acciones? Parece extraordinario que aunque el horóscopo de un hombre contiene evidencia de muerte violenta, pueda tener notables escapadas milagrosas. Por ejemplo, en la presente guerra europea hay muchos ejemplos de hombres que se exponen muy temerariamente en medio de toda una granizada de balas y con todo regresan ilesos. Había un general francés tan grueso que escasamente podía caminar, que se sentaba en una silla de campaña fuera de las trincheras y allí se estaba durante largos ratos. Nunca le pasó nada. También un aviador británico voló muy bajo sobre las trincheras alemanas, y observadores competentes dicen que aunque le fueron disparadas miles de granadas por espacio de diez minutos, ni una le tocó. ¿En qué misteriosa forma es conferida por las influencias estelares semejante protección? 
 
@@ -1870,7 +1871,7 @@ Y tampoco debería esto sorprendernos si consideramos que las estrellas son los 
 
 Estos dos planetas juegan una parte muy considerable en la actualidad, porque la gente se ha permitido ceder a sus impulsos durante los dos últimos años. Es cierto que nosotros fortalecemos nuestros caracteres dominando nuestras estrellas y fortificándonos contra sus impelentes influencias. También es un hecho que entre más fácilmente nos entreguemos a ellas una vez, más poderosamente sentiremos sus influencias la próxima. 
 
-### PREGUNTA Nº 118 - NEPTUNO: LA OCTAVA DE MERCURIO
+### <h3 id="question-118">PREGUNTA Nº 118 - NEPTUNO: LA OCTAVA DE MERCURIO</h3>
 
 ¿Por qué llama usted a Neptuno la octava superior de Mercurio? 
 
@@ -1884,14 +1885,17 @@ El hombre perdió entonces el contacto con el Yo Superior, veía únicamente a l
 
 Así es que existe una conexión entre la Luna, Mercurio y Neptuno. Aquellos que se ponen en contacto con Neptuno a través de la Luna pueden convertirse en médium irresponsables, en víctimas de la obsesión, etc., pero cuando Mercurio es la puerta, la razón y la comprensión guían al Espíritu aspirante. Un Mercurio afligido puede algunas veces tentar a los buscadores a entrar por la puerta falsa, y puede resultar una perturbación mental. Si es consciente del peligro, sin embargo, el cuidado y la persistencia continuos suelen abrir la puerta del templo, porque las fuerzas buenas están ahora en el ascendente y se hacen más fuertes conforme pasa el tiempo. 
 
-### PREGUNTA Nº 119 - EFECTOS DE VENUS EN LA CASA DOCE
+### <h3 id="question-119">PREGUNTA Nº 119 - EFECTOS DE VENUS EN LA CASA DOCE</h3>
 
 Observo que en el magazine de Abril usted dice que acepta preguntas relativas a discrepancias en las delineaciones astrológicas, así es que yo estaría satisfecho si usted señalase el camino para hacer que concuerden las siguientes afirmaciones:
+
 En el horóscopo de Doris A, en el numero de Febrero, dice usted que ella va a tener una vida fácil, porque no hay un solo aspecto malo en dicho horóscopo. Pero Venus esta en la casa doce, y en El Mensaje de las Estrellas, se afirma, hablando de Venus en la casa de la aflicción, a saber, la doce, que: "Allí la sonrisa de Venus es ahogada por las lágrimas." 
 
-Respuesta: Cuando juzgamos el efecto de los planetas en un horóscopo cualquiera, debemos recordar en primer lugar que un solo aspecto o posición no es suficiente para causar efectos importantes en la vida, sino que siempre debe ser tenida en consideración la tendencia general del horóscopo. En segundo lugar es importante recordar que los aspectos entre los planetas tienen un efecto más fuerte que la simple casa o signo en que están colocados. Si las indicaciones generales de un horóscopo muestran una vida buena y fácil, Venus colocado en la casa doce por sí solo no podrá cambiar la validez de este juicio. Si este planeta estuviese afligido por una cuadratura u oposición de Saturno, el caso sería diferente, y el juicio general debe ser modificado para conformarse con este hecho. Sin embargo, si Venus fuese a recibir un trino del Sol o Júpiter, el mero hecho de su situación en la casa doce sería casi nulo en comparación con el efecto de tan poderosos aspectos. Así es que si usted conserva estos puntos en la memoria y recuerda que la influencia de un planeta no aspectado es débil, no importa cual sea su posición en el horóscopo, y que ningún aspecto único es decisivo en ningún tiempo, no tendrá dificultad en reconciliar nuestras afirmaciones. 
+Respuesta: Cuando juzgamos el efecto de los planetas en un horóscopo cualquiera, debemos recordar en primer lugar que un solo aspecto o posición no es suficiente para causar efectos importantes en la vida, sino que siempre debe ser tenida en consideración la tendencia general del horóscopo. En segundo lugar es importante recordar que los aspectos entre los planetas tienen un efecto más fuerte que la simple casa o signo en que están colocados. Si las indicaciones generales de un horóscopo muestran una vida buena y fácil, Venus colocado en la casa doce por sí solo no podrá cambiar la validez de este juicio. Si este planeta estuviese afligido por una cuadratura u oposición de Saturno, el caso sería diferente, y el juicio general debe ser modificado para conformarse con este hecho. 
 
-### PREGUNTA Nº 120 - USO DE LA ASTROLOGÍA EN LA EDUCACIÓN DE LOS NIÑOS
+Sin embargo, si Venus fuese a recibir un trino del Sol o Júpiter, el mero hecho de su situación en la casa doce sería casi nulo en comparación con el efecto de tan poderosos aspectos. Así es que si usted conserva estos puntos en la memoria y recuerda que la influencia de un planeta no aspectado es débil, no importa cual sea su posición en el horóscopo, y que ningún aspecto único es decisivo en ningún tiempo, no tendrá dificultad en reconciliar nuestras afirmaciones. 
+
+### <h3 id="question-120">PREGUNTA Nº 120 - USO DE LA ASTROLOGÍA EN LA EDUCACIÓN DE LOS NIÑOS</h3>
 
 Al educar a los niños se aconseja que los padres obtengan una lectura astrológica de sus potencialidades con el objeto de inhibir tendencias perniciosas y robustecer las benéficas. ¿Justifica hacer esto? ¿No es necesario y benéfico en ultimo término que el niño pase a través de los así llamados malos humores y experiencias adversas? ¿No será más fuerte la naturaleza espiritual cuando éstos sean dominados? ¿No es la virtud adquirida mejor que la inocencia o la pureza conservadas evadiendo las tentaciones? 
 
@@ -1909,7 +1913,7 @@ Si vemos en el horóscopo de un niño una tendencia a la borrachera, y le tomamo
 
 Además, el padre o tutor que ha hecho al niño tan maravilloso servicio habrá obtenido para sí un tesoro en los cielos que es más precioso que lo que las palabras pueden expresar. Por consiguiente continuaremos estimulando a los padres y tutores a estudiar la ciencia de la astrología y aplicarla en la educación de los niños. Por medio de nuestro sistema simplificado es fácil hacer la parte matemática, y tampoco la interpretación es difícil, cuando el amor indica como hacerla. 
 
-### PREGUNTA Nº 121 - EFECTO DEL AMBIENTE
+### <h3 id="question-121">PREGUNTA Nº 121 - EFECTO DEL AMBIENTE</h3>
 
 ¿Al hacer un horóscopo toma uno en consideración las condiciones y el ambiente que afectan la vida de una persona determinada, o son las reglas dadas en los libros astrológicos correctas al aplicarlas a cualquier persona y en cualquier momento de su vida? 
 
@@ -1917,7 +1921,7 @@ Respuesta: No, la interpretación no es correcta al aplicarse a cualquier tiempo
 
 Los aspectos significan algo diferente para las gentes colocadas en circunstancias diferentes. Para citar un caso histórico, si la memoria me es fiel, un niño nació en el mismo minuto en la parte más baja de la ciudad mientras que Jorge III nacía en el palacio de Windsor. Estos dos niños crecieron y cada uno de ellos siguió una carrera independiente a partir de ese día, esto es, uno se convirtió en un monarca, y el otro en un hombre de negocios. Se casaron el mismo día, tuvieron el mismo numero de hijos (pero eso pudo ser solo una coincidencia, porque los niños dependen también del horóscopo del otro cónyuge), y murieron también el mismo día. Así es que los principales acontecimientos de sus vidas fueron similares, aunque fueron diferentes debido a haber sido colocados en diferentes ambientes. Uno fue un rey, el otro un negociante en hierro. Si usted lee el artículo de El Mensaje de las Estrellas titulado "El grado de reacción a las vibraciones planetarias," verá usted que la humanidad aprende a responder a los planetas uno por vez. Muchos de nosotros estamos aprendiendo a responder a Urano, pero muy pocos responden a las vibraciones de Neptuno. 
 
-### PREGUNTA Nº 122 - ¿POR QUE MERCURIO ES INCOLORO Y NEUTRAL?
+### <h3 id="question-122">PREGUNTA Nº 122 - ¿POR QUE MERCURIO ES INCOLORO Y NEUTRAL?</h3>
 
 Usted dice que Mercurio es incoloro y neutral en su influencia. ¿No indicaría eso que la humanidad de Mercurio está en un grado muy bajo de evolución, y si es así, como es que ellos (los mercurianos) pueden tener influencia sobre la mente de la humanidad en forma tal que promueve la razón? 
 
@@ -1929,10 +1933,12 @@ La Región del Pensamiento Concreto entera, es básicamente un blanco brillante 
 
 Tal vez todo el asunto pueda ser mejor explicado por medio de la ilustración de un binóculo. Si tomamos uno de baja calidad, encontraremos que el catalejo no es completamente claro y que exhibe un cierto número de colores en las lentes. Así es que los objetos sobre los cuales este catalejo es enfocado no se ven claramente, los colores no se ven tales como son en realidad; pero cuando conseguimos un instrumento de primera clase, como decimos, cromático, no exhibirá ningún color en el catalejo, y por lo tanto puede trasmitir adecuadamente los verdaderos matices de los objetos sobre los cuales es dirigido. Siendo perfectamente claro y absolutamente neutral puede ser enfocado sobre objetos distantes. Los rayos mercuriales están singularmente bien adaptados para expresar la facultad mental por la razón similar de que son en sí mismos incoloros. 
 
-### PREGUNTA Nº 123 - NACIMIENTO PREMATURO
+### <h3 id="question-123">PREGUNTA Nº 123 - NACIMIENTO PREMATURO</h3>
 
 ¿Podría usted explicar esta aparente discrepancia?: En el numero ultimo de RAYS FROM THE ROSE CROSS, página 110, últimos renglones del primer párrafo, se afirma: "...y que cuando parecemos dilatar o acelerar el nacimiento EN REALIDAD ESTAMOS AYUDANDO A LA NATURALEZA a tomar su curso predeterminado..." Mientras que en su artículo sobre los trigéminos, del año pasado, usted escribe: Sería absolutamente inmoral que un médico apresurase a cruzar el umbral a alguien que estuviese a punto de morir... esto en nada difiere de lo que hace el médico que apresura el nacimiento de un niño... entonces podemos ver una razón para el hecho de que ciertas personas no parecen encajar en su ambiente. Fueron apremiadas a entrar en el mundo bajo una vibración planetaria que no era absolutamente la que les correspondía. He fijado firmemente en mi mente la declaración contenida en el artículo sobre los “trigéminos”, pero estas ultimas observaciones parecen modificarla.
+
 Hay también otros dos puntos sobre los cuales busco una aclaración. En este mismo artículo del número de febrero, se dice: ...es mejor nacer cuando la Luna está creciendo en luz... la Luna creciente aumenta la vitalidad y favorece nuestros asuntos. Pero en varias lecturas horoscópicas ha sido apuntado que la conjunción de la Luna con el Sol es uno de los mejores augurios para la salud y la prosperidad general. ¿Como concilia usted estas declaraciones?
+
 En una reciente lectura horoscópica vocacional, escribiendo acerca de la cuadratura de Saturno y Mercurio, se dice: "Esto le hace a usted criticón y sarcástico, particularmente hacia aquellos que trabajan con usted." Saturno es, sin embargo, el planeta de la diplomacia, y en lecturas horoscópicas anteriores se afirma: ..si Mercurio está en los signos saturninos de Capricornio y de Acuario, o Saturno está en los signos mercuriales de Géminis y Virgo, o SATURNO Y MERCURIO ESTÁN EN ASPECTO, esto da a la persona cautela, tacto y diplomacia." 
 
 Respuesta: El artículo sobre los trigéminos tardíos apareció en el número de febrero de 1916, y para beneficio de aquellos que no lo han leído podemos decir que la señora que dio a luz estos trigéminos no tuvo obstetra titulada que la atendiese, pero fue vista después por su tía, quien permitió a la naturaleza tomar su curso. El primero de los trigéminos nació el 22 de septiembre de 1915, a la 1.50 A.M. El Nº 2 nació el 24 de septiembre, a la 1.15 AM., y el Nº 3 nació diez minutos después. Así es que hubo un intervalo de cuarenta y ocho horas entre él nacimiento del primero y el último. 
@@ -1947,7 +1953,7 @@ Con respecto al asunto mencionado en el último párrafo, el estudiante debería
 
 En conclusión podemos decir que nos sentimos contentos de tener estudiantes que nos sometan a consideración puntos en los cuales piensen que existe una discrepancia, o en los cuales no hemos sido claros. En esa forma obtendremos el máximo beneficio de estos estudios. 
 
-### PREGUNTA Nº 124 - EL MEJOR TIEMPO PARA NACER
+### <h3 id="question-124">PREGUNTA Nº 124 - EL MEJOR TIEMPO PARA NACER</h3>
 
 De acuerdo con la astrología, ¿cuál es el mejor tiempo para nacer? 
 
@@ -1967,7 +1973,7 @@ Podemos, por lo tanto, resumir nuestras conclusiones diciendo que es mejor nacer
 
 Finalmente, debe tenerse siempre en la mente que no hay "suerte" en el sentido comúnmente aceptado, sino lo que tenemos o de lo que carecemos es debido a nuestras propias acciones del pasado y que en el futuro lo que no es nuestro ahora, puede serlo mediante una adecuada aplicación. 
 
-### PREGUNTA Nº 125 - LA BALANZA DE LA ALEGRÍA Y DE LA TRISTEZA
+### <h3 id="question-125">PREGUNTA Nº 125 - LA BALANZA DE LA ALEGRÍA Y DE LA TRISTEZA</h3>
 
 ¿Es el dolor necesario en el gran esquema de las cosas? ¿No es una parte del plan de Dios acerca de nosotros el que seamos alegres? 
 
@@ -1981,13 +1987,13 @@ Cuando vivimos en ignorancia del gran plan de Dios y no tenemos concepto de las 
 
 Por otra parte, el azote de Saturno no será aplicado, o no será aplicado tan a menudo a quienes realicen el auto-examen para ver en qué está fallando y para encontrar la falta que le está causando tribulación y sufrimiento. Esa lección será ciertamente agradecida por el buscador sincero, y cuando la haya descubierto, el gozo de haber encontrado una valiosa perla de sabiduría sobrepasará al dolor implicado en la lección. En el curso de los años abrase desarrollado la más valiosa de todas las posesiones del Ego, el equilibrio, que lleva al hombre por encima del turbulento mar de las emociones, hacia el reino de la eterna paz que sobrepasa todo entendimiento. Cuando ha llegado a ese punto de su desarrollo, ni Saturno, ni Júpiter, ni ninguno de los otros Espíritus planetarios, tendrá poder de afectarle, porque habrá aprendido entonces a dominar sus estrellas y a regular su destino de acuerdo con su propia Voluntad divina. 
 
-### PREGUNTA Nº 126 - POLARIDAD PLANETARIA
+### <h3 id="question-126">PREGUNTA Nº 126 - POLARIDAD PLANETARIA</h3>
 
 Hablando de polaridad planetaria para el matrimonio, la Luna y Venus son significadores en el horóscopo de un hombre, y el Sol y Marte en el de una mujer; usted dice que si estos planetas están armoniosamente configurados, etc., la armonía prevalecerá. ¿Se refiere a la configuración de la Luna con Venus y de Marte con el Sol en los respectivos horóscopos, o a la de la Luna con Venus en un horóscopo y del Sol y Marte en el otro? ¿Cómo seria si el Sol del hombre antagonizase a su propia Luna pero armonizase con la Luna del consorte en perspectiva? En el caso de que no se conozca el Ascendente, ¿cuál es la mejor base para estimar la compatibilidad? ¿Es la armonía o la inarmonía de los dos signos de la Luna? 
 
 Respuesta: En realidad deben tenerse en cuenta ambas clases de configuraciones para estimar la armonía. Una persona con Marte en cuadratura con Venus no tendrá mucho éxito en asuntos amorosos, pero si Marte en el horóscopo de una mujer está en el lugar de Venus en el horóscopo de un hombre, entonces tenemos el caso de amor a primera vista. Sin embargo, ése amor es de la tierra, terreno; es la fase inferior del amor. El Sol de una persona en la Luna de otra trae una condición armoniosa muy espiritual también es cierto que aún la oposición de las dos luminarias de un horóscopo a otro traerá armonía, porque están en oposición. El Sol y la Luna en cuadratura siempre hace vacilante a un hombre. Nunca sabe qué es lo que quiere. Todo el tiempo se ve solicitado por dos ideas. Sin embargo, puede estar en armonía con alguien del sexo opuesto, si su Luna está en el lugar del Sol de la mujer, o trino con éste. Este en verdad produciría armonía espiritual. 
 
-### PREGUNTA Nº 127 - EL PROPÓSITO DE LA TENTACIÓN
+### <h3 id="question-127">PREGUNTA Nº 127 - EL PROPÓSITO DE LA TENTACIÓN</h3>
 
 ¿Sería siempre correr un gran riesgo tentar a una persona cuyo horóscopo muestra a Mercurio o a Neptuno afligidos por Saturno, sin tomar en cuenta los testimonios contra pesantes? 
 
@@ -1997,9 +2003,9 @@ Hay en la Biblia un ejemplo de esto. En un lugar se nos dice que el Rey David fu
 
 Un examen ante una junta o tribunal escolar tiene el objeto de ver si el discípulo comprende lo que se le enseña. Si se ve que no comprende, el Maestro investiga la manera de enseñarle más tarde. Satán en la Biblia no quiere decir un monstruo que vaga por la Tierra con cuernos y cola, sino que significa un adversario. En el momento del examen el Maestro se convierte en un adversario del alumno. Dios dijo a David: "Ve y cuenta a tus hombres porque va a haber una batalla con los Moabitas," y El esperó que David dijese: "¿Qué objeto tiene contar a Israel? Los hombres no cuentan. Eres tú, Señor, el que cuenta. Eres tú en quien confiamos, no en nuestra propia fuerza." Si él hubiese contestado así, entonces habría aprendido su lección. En lugar de eso fue y contó a Israel y tal vez pensó: "Bien, creo que podremos vencer a estos Moabitas, y de todos modos no creo que necesitamos tanto del Señor." El Señor tenía que demostrarles, tanto a él como a los israelitas, que ellos no estaban preparados para confiar en sí mismos -que ellos necesitaban del Señor- y en una noche segó la vida de muchos miles y los redujo a un puñado. Entonces El dijo: "Ahora saldré y pelearé por vosotros, y conoceréis que soy Yo Quien os dio la victoria." Así es que la tentación es buena, para probar si somos lo suficientemente fuertes de carácter y si hemos aprendido la lección. Así es si una persona pone delante de usted un vaso de licor, o le tienta en alguna otra forma. Si uno es débil ante la lección significa que tenemos todavía que aprender al respecto. 
 
-## SECCIÓN IX - PREGUNTAS MISCELÁNEAS
+<h2 id="section-9">SECCIÓN IX - PREGUNTAS MISCELÁNEAS</h2>
 
-### PREGUNTA Nº 128 - EL AMOR MATERNAL COMO FACTOR EN LA MATERIALIZACIÓN
+### <h3 id="question-128">PREGUNTA Nº 128 - EL AMOR MATERNAL COMO FACTOR EN LA MATERIALIZACIÓN</h3>
 
 ¿Es posible que una madre que ha pasado al mundo invisible ayude a sus hijos directa o indirectamente? ¿Crea manos de carne para trabajar con ellas, o en qué forma les ayuda? 
 
@@ -2007,7 +2013,7 @@ Respuesta: La Sociedad de Investigaciones Psíquicas ha investigado un gran núm
 
 En este aspecto, la gente que ha pasado a los mundos invisibles difieren radicalmente de los Auxiliares Invisibles que abandonan su cuerpo a voluntad. El cordón plateado está intacto en estos casos y les da una conexión continua con el átomo-simiente físico. Por lo tanto, el magnetismo de este átomo se ejerce, y requiere un esfuerzo subconsciente por parte del Auxiliar Invisible a fin de impedir que las partículas físicas se adhieran al vehículo etérico en el cual viaja. Por otra parte, cuando desea ayudar a alguien que pueda estar en apuros, o para llevar a cabo determinado trabajo, él materializa una mano o un brazo con la mayor facilidad simplemente permitiendo conscientemente a los átomos físicos presentes en su más inmediato ambiente adherirse a la matriz etérica. Cuando ha llevado a cabo la deseada tarea, otro esfuerzo de la voluntad dispersa los átomos extraños y desmaterializa la mano o el brazo. Así, por ejemplo, al trabajar dentro del cuerpo de un paciente para manipular un órgano enfermo o restañar la sangre en una arteria, se fabrican temporalmente dedos hechos de la carne del paciente sin causarle la menor molestia, los cuales son fácilmente disueltos cuando el trabajo ha quedado hecho. 
 
-### PREGUNTA Nº 129 - LOS ATLANTES QUE NO HABÍAN DESARROLLADO LOS PULMONES
+### <h3 id="question-129">PREGUNTA Nº 129 - LOS ATLANTES QUE NO HABÍAN DESARROLLADO LOS PULMONES</h3>
 
 ¿Qué fue de la gente que no habla desarrollado los pulmones al tiempo del diluvio? ¿Se les dio una oportunidad para construirlo después? 
 
@@ -2017,7 +2023,7 @@ Durante el tiempo en que pasamos a través de estos varios períodos tuvo lugar 
 
 Ahora viene la pregunta, qué fue de ellos. Pues ellos tienen que aguardar hasta que puedan alcanzarnos. Tendrán una oportunidad de construir más adelante, porque están entre las razas inferiores. No sabemos si nos alcanzarán y serán aptos para pasar a la próxima época cuando construyamos el cuerpo vital. Estamos transformando el mundo por epigénesis. Estamos marchando a lo largo de la evolución y siendo liberados de la materia y estamos espiritualizando estos vehículos y transformándolos en alma. Por medio del servicio voluntario que estamos haciendo, estamos construyendo un cuerpo-alma, y aquellos que no lo hayan desarrollado, serán dejados atrás, como leemos en la Biblia, aquellos que no tengan vestido de bodas no podrán entrar al festín. Así es que estas personas quedaron rezagadas, y algunas de ellas son los espíritus de que habla Pedro que fueron dejados atrás y a los cuales Cristo predicó durante el tiempo que medió entre la muerte corporal de Jesús y lo que conocemos como la Resurrección. La cuestión es si nos van a alcanzar o no. No lo sabemos, pero se espera que lo harán. 
 
-### PREGUNTA Nº 130 - LA CAUSA Y LA CURA DEL SONAMBULISMO
+### <h3 id="question-130">PREGUNTA Nº 130 - LA CAUSA Y LA CURA DEL SONAMBULISMO</h3>
 
 Tenga a bien informarme qué es realmente el sonambulismo y si existe algún medio de ayudar a los que están sujetos a esta condición. 
 
@@ -2029,7 +2035,7 @@ Cuando el Ego está fuera de su vehículo físico durante las horas en que este 
 
 Como remedio para este trastorno sugeriríamos la práctica de la relajación consciente del cuerpo. Es el cuerpo de deseos el que hinca su garra sobre el vehículo denso, y durante la relajación este cuerpo de deseos es enseñado a salir del cuerpo denso y dejarlo inerte de tal modo que si se levanta un brazo o una pierna, cae inmediatamente a la cama. Esta práctica con el tiempo detendrá el sonambulismo, pero mientras tanto, si son colocadas toallas húmedas en el suelo, éstas probablemente tendrán el efecto de despertar a la persona en el momento de bajar de la cama. Los vehículos superiores son de una naturaleza algo afín a la electricidad, y sabemos que el agua tiene un maravilloso efecto de atracción con respecto a este fluido. Similarmente, cuando los pies tocan las toallas húmedas del piso, los vehículos sutiles son devueltos a su posición central con respecto al cuerpo y la conciencia es restaurada. Así el cuerpo se despierta y el peligro del sonambulismo es evitado por el momento. 
 
-### PREGUNTA Nº 131 - PRUEBA DE LA EXISTENCIA DEL CUERPO VITAL
+### <h3 id="question-131">PREGUNTA Nº 131 - PRUEBA DE LA EXISTENCIA DEL CUERPO VITAL</h3>
 
 Me parece perfectamente lógico que debe haber un cuerpo más sutil tal como el que usted llama el cuerpo vital, ¿pero hay alguna forma de probar esto a un amigo que es muy escéptico y argumentador? 
 
@@ -2043,13 +2049,16 @@ Luego está el caso del curador magnético que extrae de un paciente las partes 
 
 Finalmente podemos decir que si usted puede encontrar las condiciones y soportar las molestias hay una manera y una condición bajo las cuales un gran número de personas son capaces de ver por sí mismas el cuerpo vital. Esto es más fácilmente logrado en los países del sur, donde los cuerpos muertos son rápidamente enterrados después de la muerte. Seleccione un tiempo lo más cercano posible a la Luna llena. Luego busque las noticias fúnebres en los periódicos y vaya al cementerio al anochecer siguiente al funeral de alguien que haya muerto dentro de las veinticuatro horas pasadas. Usted verá entonces probablemente encima de la tumba recién hecha, centelleando a la luz de la luna, la forma nebulosa del cuerpo vital que se queda allí a desintegrarse sincrónicamente con el cuerpo en la tumba. Esto puede ser visto en todo tiempo por el vidente, pero solamente es suficientemente denso como para ser visto de la gente ordinaria en la primera noche después del funeral. Si a primera vista no lo ve usted, de vueltas alrededor de la tumba y mírela fijamente desde diferentes ángulos. Entonces usted probablemente obtendrá la más convincente prueba ocular. 
 
-### PREGUNTA Nº 132 - FELICIDAD EN LA VIDA SUPERIOR
+### <h3 id="question-132">PREGUNTA Nº 132 - FELICIDAD EN LA VIDA SUPERIOR</h3>
 
 ¿Por qué es que en sus escritos hay siempre una nota sombría, siempre la melancolía, tan poca alegría y bienestar? ¿No se puede hallar felicidad en la vi superior? Contentamiento, satisfacción, paz -sí-, ¿pero no hay alegría? 
 
-Respuesta: "O wad some power the giftie gie us, To see oursel's as others see us." 
+Respuesta: 
 
-(Oh, sí hubiese algún poder que nos diese el don de vernos a nosotros mismos como los otros nos ven!) 
+```
+Oh, sí hubiese algún poder que nos diese el don 
+de vernos a nosotros mismos como los otros nos ven!
+```
 
 Así cantó Robert Burns, y ciertamente estaba en lo correcto en su creencia de que ninguno de nosotros podemos vernos como somos en realidad. El que escribe no se había dado cuenta de que hay un tono sombrío y una nota de melancolía en todos sus escritos, pero tal vez está bien el argumento, aunque sería equivocado sacar la conclusión de que no hay gozo ni felicidad en la vida superior. Hay una alegría y una felicidad inefable, que no pueden ser expresadas, en el privilegio de sernos permitido ayudar a los miles de personas que se dirigen a nosotros en demanda de ayuda y consejo o consuelo espiritual. 
 
@@ -2059,21 +2068,19 @@ Este puede ser un tema muy bueno para que aquellos estudiantes que están desord
 
 Nuestra personalidad interna es mucho mejor que se conserve reservada pero si los estudiantes se conmoviesen por lo expuesto, tal vez la respuesta a esta pregunta pueda servir de algo. 
 
-### PREGUNTA Nº 133 - EL VESTIDO DE BODAS
+### <h3 id="question-133">PREGUNTA Nº 133 - EL VESTIDO DE BODAS</h3>
 
 Cuál será la condición de aquellos que no hayan preparado el vestido de bodas cuando Cristo vuelva? ¿Vivirán todavía sobre la Tierra y seguirán evolucionando? 
 
-Respuesta: Eso es muy difícil de saberlo. Un gran número de los que fueron dejados atrás en la Atlántida porque no habían desarrollado los pulmones para poder vivir en nuestra atmósfera, no han podido todavía alcanzarnos. 
+Respuesta: Eso es muy difícil de saberlo. Un gran número de los que fueron dejados atrás en la Atlántida porque no habían desarrollado los pulmones para poder vivir en nuestra atmósfera, no han podido todavía alcanzarnos. Hay toda una grave duda con respecto a si los seres humanos que no hayan desarrollado el vestido de bodas hasta el punto en que tengan algún crecimiento real, podrán vivir en esa Edad. Puede que tengan que vivir en un tiempo posterior y aparte de nosotros. 
 
-Hay toda una grave duda con respecto a si los seres humanos que no hayan desarrollado el vestido de bodas hasta el punto en que tengan algún crecimiento real, podrán vivir en esa Edad. Puede que tengan que vivir en un tiempo posterior y aparte de nosotros. 
-
-### PREGUNTA Nº 134 - LOS HERMANOS MAYORES
+### <h3 id="question-134">PREGUNTA Nº 134 - LOS HERMANOS MAYORES</h3>
 
 Sírvase darme una descripción clara de los Hermanos Mayores informándome si ellos funcionan en este plano en un cuerpo material; también de los Hermanos Legos, etcétera. 
 
 Respuesta: En lo que se refiere a los Hermanos Mayores, ellos tienen un cuerpo material tal como el suyo o el mío, y viven en una casa que usted podría tomar por la morada de alguien que prospera pero no con ostentación. Parece ser que desempeñan cargos de distinción en la comunidad en que viven, pero ellos ocupan estos puestos solo como un subterfugio o despiste, para justificar su presencia en el lugar y no crear ninguna pregunta con relación a qué cosa o quiénes son, y para no hacer creer que existe algo fuera de lo ordinario en conexión con ellos. Por fuera de esa casa, en esa casa, y a través de esa casa, esta lo que puede ser llamado el Templo. Es etérico y es diferente de nuestros edificios ordinarios. Puede ser comparado a la atmósfera áurica que rodea nuestra Pro-Ecclesia (Capilla) de la Sede Central, que es etérica y mucho más grande que el edificio. La descripción oral de Mansón acerca de la iglesia espiritual que él construyó da una idea de lo que son tales estructuras. Están alrededor de los edificios e iglesias en las cuales la gente es muy espiritual, y por supuesto difieren en color. El Templo Rosacruz es superlativo y no puede compararse con ninguna otra cosa, pero rodea y compenetra la casa en que viven los Hermanos Mayores. La morada está tan impregnada de espiritualidad que la mayoría de la gente no se sentiría muy confortable allí. ¿Y los Hermanos Legos, tienen un cuerpo material? Así es; el autor no es todo éter, y puede servir como ilustración de lo que son por lo común. 
 
-### PREGUNTA Nº 135 - ORACIÓN, CONCENTRACIÓN Y MEDITACIÓN
+### <h3 id="question-135">PREGUNTA Nº 135 - ORACIÓN, CONCENTRACIÓN Y MEDITACIÓN</h3>
 
 ¿Qué es la oración? ¿Es equivalente a la concentración y meditación, o es solo una petición a Dios? 
 
@@ -2085,7 +2092,9 @@ Este es un punto de vista diametralmente opuesto a la idea común de la oración
 
 Como dije antes, todas nuestras plegarias deberían ser de alabanza a Dios “de Quién provienen todas las bendiciones” porque nuestro cuerpo de deseos está formado de materiales de todas las siete regiones del Mundo del Deseo, y en proporción a nuestros requerimientos según son determinados por la naturaleza de nuestros pensamientos, cada pensamiento se viste de materia de deseos en consonancia con su naturaleza. Esto se aplica al pensamiento formado y expresado en la oración. Si es egoísta, atrae a sí mismo una cubierta compuesta de sustancia de las regiones inferiores del Mundo del Deseo, pero si es noble, in egoísta y altruista, vibran con el tono superior de las regiones de la Vida del alma, de la Luz anímica y del Poder anímico. Se envuelven en este material, agregándole vida y luz a nuestra naturaleza espiritual. Aún cuando oremos por otros es dañino pedir algo material o mundano. Es permisible pedir salud, pero no prosperidad económica. "Buscad primero el Reino de Dios y Su Justicia," es el mandamiento. Cuando cumplamos con ese mandamiento podemos estar seguros de que todas las demás cosas serán dadas. Por lo tanto, cuando oremos por un amigo pongamos todo nuestro corazón y alma en la petición de que él pueda permanentemente buscar el Camino, la Verdad y la Vida, porque habiendo encontrado una vez ese más grande de todos los tesoros no será negada nunca ninguna necesidad real. 
 
-Tampoco es esto teoría, de ninguna manera. Miles de personas, incluyendo al que escribe, han encontrado que “Nuestro Padre que está en los Cielos” tendrá cuidado de nuestras necesidades materiales cuando nos esforcemos por vivir la vida espiritual. Sin embargo, en último análisis, no es la oración hablada la que ayuda. Existen personas que pueden conducir una congregación en una plegaria que es toda perfección tanto en lenguaje como en sentimiento poético. Aún pueden conformar sus plegarias con los principios prescriptos por el Señor tal como fueron enunciados en los párrafos iniciales de esta respuesta, y sin embargo esa plegaria puede ser una abominación por la falta de un requisito esencial. A menos de que nuestra vida toda sea una oración no podemos agradar a Dios, no importa cuán bellas sean nuestras peticiones. Por otra parte, si nos esforzamos día a día y año a año en vivir de acuerdo con Su Voluntad, entonces, aún cuando nosotros mismos supiésemos que estamos fallando en alcanzar nuestro ideal, y aunque, como el publicano en el Templo, seamos de vacilante lenguaje y solo podamos herir nuestro pecho diciendo: "Dios, sé propicio a mí, pecador," encontraremos que el Espíritu mismo, conociendo nuestras necesidades, intercede por nosotros inexorablemente, y que nuestra modesta súplica ante el Trono de la Gracia es más provechosa que todos los floridos discursos que podamos hacer. 
+Tampoco es esto teoría, de ninguna manera. Miles de personas, incluyendo al que escribe, han encontrado que “Nuestro Padre que está en los Cielos” tendrá cuidado de nuestras necesidades materiales cuando nos esforcemos por vivir la vida espiritual. Sin embargo, en último análisis, no es la oración hablada la que ayuda. Existen personas que pueden conducir una congregación en una plegaria que es toda perfección tanto en lenguaje como en sentimiento poético. 
+
+Aún pueden conformar sus plegarias con los principios prescriptos por el Señor tal como fueron enunciados en los párrafos iniciales de esta respuesta, y sin embargo esa plegaria puede ser una abominación por la falta de un requisito esencial. A menos de que nuestra vida toda sea una oración no podemos agradar a Dios, no importa cuán bellas sean nuestras peticiones. Por otra parte, si nos esforzamos día a día y año a año en vivir de acuerdo con Su Voluntad, entonces, aún cuando nosotros mismos supiésemos que estamos fallando en alcanzar nuestro ideal, y aunque, como el publicano en el Templo, seamos de vacilante lenguaje y solo podamos herir nuestro pecho diciendo: "Dios, sé propicio a mí, pecador," encontraremos que el Espíritu mismo, conociendo nuestras necesidades, intercede por nosotros inexorablemente, y que nuestra modesta súplica ante el Trono de la Gracia es más provechosa que todos los floridos discursos que podamos hacer. 
 
 Usted pregunta también: ¿Es la oración equivalente a la concentración y la meditación? 
 
@@ -2097,13 +2106,13 @@ La meditación es el método de obtener, por medio del poder espiritual, conocim
 
 Hay en el Concepto Rosacruz del Cosmos un capítulo que trata muy detalladamente el método de adquirir conocimiento directo, explicando estos puntos extensamente, y aconsejaríamos un estudio completo de ese capítulo. 
 
-### PREGUNTA Nº 136 - EL CORDÓN PLATEADO
+### <h3 id="question-136">PREGUNTA Nº 136 - EL CORDÓN PLATEADO</h3>
 
 Si un extremo del cordón plateado se inserta en el átomo-simiente del corazón y el otro en el vórtice central del cuerpo de deseos, ¿a qué órgano del cuerpo físico corresponde el vórtice central: corazón, cabeza, frente, o cuál? 
 
 Respuesta: Ese extremo del cordón plateado que está anclado en el átomo-simiente del corazón permanece allí, inamovible hasta la muerte, pero el otro extremo, y el punto donde se encuentran las dos mitades del cordón, como se explica en la página 97 del Cosmos, son movibles. Durante el día ese vórtice central donde se anda el cordón plateado en el cuerpo de deseos, está directamente colocado en el hígado, y encontrará en el Cosmos datos de interés al respecto, si usted busca la palabra "hígado" en el índice. El punto donde se encuentran las dos mitades del cordón plateado está situado en el plexo solar durante el día. Ese, usted sabe que es un punto muy vital, y el átomo simiente del cuerpo vital está precisamente en el punto de encuentro de estas dos mitades del cordón plateado. Como esto es en el plexo solar, la energía que viene del Sol a través del bazo pasa por el átomo-simiente del cuerpo vital, y allí se transforma en el fluido rosado de que hablamos en nuestra literatura. Así es que los tres grandes centros del cuerpo físico conectados con el cordón plateado son: el vórtice central del hígado, punto principal del cuerpo de deseos; el plexo solar, que es la plaza fuerte del cuerpo vital; y el corazón, que es el centro del cuerpo denso. 
 
-### PREGUNTA Nº 137 - LAS TRES PARTES DEL CORDÓN PLATEADO
+### <h3 id="question-137">PREGUNTA Nº 137 - LAS TRES PARTES DEL CORDÓN PLATEADO</h3>
 
 ¿Quiere describir, por favor, el cordón plateado, y me explica su función tanto en el hombre como en el animal? 
 
@@ -2131,10 +2140,12 @@ Pero aunque ahora el hombre está individualizado, y emancipado de la intervenci
 
 Como el tiempo vuela y nosotros avanzamos, también seremos emancipados del Espíritu de la Raza que ha vivido en nuestro aliento desde que el Elohim Jehová sopló "necees" -el aire vital- en nuestras narices. Estos Espíritus trabajan en el cuerpo de deseos y en el Espíritu humano, fomentando el egoísmo. Cuando aprendamos a construir el glorioso vestido de bodas, llamado el cuerpo-alma, que es tejido por medio del servicio impersonal y desinteresado, y se consuma el matrimonio místico -cuando el Cristo nazca inmaculadamente en nuestro interior el Amor Universal nos emancipará para siempre de la Ley Universal, y seremos perfectos como nuestro Padre que está en los Cielos. 
 
+```
 De todos los poderes que encadenan al mundo  
 se libera el hombre cuando obtiene el dominio de sí mismo.  
+```
 
-### PREGUNTA Nº 138 - EFECTOS DEL ALCOHOL Y DEL TABACO
+### <h3 id="question-138">PREGUNTA Nº 138 - EFECTOS DEL ALCOHOL Y DEL TABACO</h3>
 
 ¿Por qué es perjudicial para un probacionista usar alcohol y tabaco? 
 
@@ -2150,15 +2161,17 @@ Cuando fuí llevado al Templo de la Orden Rosacruz en Alemania, me sorprendí de
 
 Cuando llegué a la ciudad donde él estaba, me fue dicho de parte de amigos mutuos que él había estado esperándome y estaba ansiosamente tratando de encontrarme. Cuando encontré a este caballero, al momento me dirigí a él y le saludé de mano. El también pareció reconocerme y me llamó por mi nombre. Parecía haber indicación de que él conocía todo lo que sucedió mientras ambos estuvimos fuera del cuerpo, porque él me había dicho en el Templo que él recordaba todo lo que sucedía al estar fuera de su cuerpo. Por supuesto yo le creí esto, porque él tenía un grado mucho más alto que el primero, en el cual yo acababa de ser admitido. 
 
-El día de nuestro encuentro físico, después de unos pocos momentos de conversación, yo dije algo que le hizo mirarme extrañado completamente. Yo me había referido a algún incidente de nuestra reunión en el Templo, y él demostró llanamente no saber nada acerca de ello. Sin embargo yo había dicho tanto que me vi forzado a decir más, o de lo contrario parecería muy tonto; así es que le dije que él había confesado recordar todo. Esto lo negó, y al final de la entrevista me suplicó seriamente esforzarme por averiguar por qué era que siendo él un hermano lego de la Orden Rosacruz no podía, sin embargo, recordar lo que tuvo lugar durante su ausencia del cuerpo. El estuvo, como me constaba, en varios servicios del Templo. Tomó parte en ellos, y sin embargo, en su cerebro físico estaba absolutamente ignorante de lo que tuvo lugar. El misterio se resolvió algún tiempo después al saber, por él mismo, fuera del cuerpo, que fumaba cigarrillos y usaba drogas que obnubilaban su cerebro a tal extremo que le había sido imposible recordar ninguna de sus experiencias psíquicas. Cuando yo le dije eso, mientras nos encontrábamos en el cuerpo físico, él hizo un valiente esfuerzo para librarse de este hábito que reconoció tener. Sin embargo, después de algún tiempo de abstinencia, halló que no podía vivir sin los cigarrillos y las drogas, y por lo tanto no ha tenido hasta el día ninguna conciencia de la vida superior. Éste es un caso muy lastimoso, y sin duda hay otros más. Ellos ilustran cuán cuidadosos debemos ser en lo que se refiere a la limpieza de nuestros hábitos, de considerar este cuerpo nuestro como el Templo de Dios, y de refrenarnos de profanarlo, así como nos refrenaríamos de profanar una casa de Dios hecha de piedra y mortero, la cual no es ni en una millonésima parte tan santa como el cuerpo con que hemos sido dotados. 
+El día de nuestro encuentro físico, después de unos pocos momentos de conversación, yo dije algo que le hizo mirarme extrañado completamente. Yo me había referido a algún incidente de nuestra reunión en el Templo, y él demostró llanamente no saber nada acerca de ello. Sin embargo yo había dicho tanto que me vi forzado a decir más, o de lo contrario parecería muy tonto; así es que le dije que él había confesado recordar todo. Esto lo negó, y al final de la entrevista me suplicó seriamente esforzarme por averiguar por qué era que siendo él un hermano lego de la Orden Rosacruz no podía, sin embargo, recordar lo que tuvo lugar durante su ausencia del cuerpo. El estuvo, como me constaba, en varios servicios del Templo. Tomó parte en ellos, y sin embargo, en su cerebro físico estaba absolutamente ignorante de lo que tuvo lugar. El misterio se resolvió algún tiempo después al saber, por él mismo, fuera del cuerpo, que fumaba cigarrillos y usaba drogas que obnubilaban su cerebro a tal extremo que le había sido imposible recordar ninguna de sus experiencias psíquicas. 
 
-### PREGUNTA Nº 139  - ¿QUÉ ES LA IDOLATRÍA?
+Cuando yo le dije eso, mientras nos encontrábamos en el cuerpo físico, él hizo un valiente esfuerzo para librarse de este hábito que reconoció tener. Sin embargo, después de algún tiempo de abstinencia, halló que no podía vivir sin los cigarrillos y las drogas, y por lo tanto no ha tenido hasta el día ninguna conciencia de la vida superior. Éste es un caso muy lastimoso, y sin duda hay otros más. Ellos ilustran cuán cuidadosos debemos ser en lo que se refiere a la limpieza de nuestros hábitos, de considerar este cuerpo nuestro como el Templo de Dios, y de refrenarnos de profanarlo, así como nos refrenaríamos de profanar una casa de Dios hecha de piedra y mortero, la cual no es ni en una millonésima parte tan santa como el cuerpo con que hemos sido dotados. 
+
+### <h3 id="question-139">PREGUNTA Nº 139  - ¿QUÉ ES LA IDOLATRÍA?</h3>
 
 Se ha afirmado que cuando se menciona al "Hijo del Hombre" en el Nuevo Testamento, se refiere al Espíritu del Sol. Los adoradores del Sol han sido considerados como idólatras. Es posible que nosotros, los de la raza blanca, seamos considerados tales? 
 
 Respuesta: Todo aquel que no siga el presente credo es un idólatra. Cuando el Sol por presesión dejó la constelación del Toro y pasó a Aries, fue dada la orden de “no adorarás al becerro de oro: es idolatría”. Más tarde, cuando llegó la era Cristiana, hubo un nuevo pacto y fue prohibido practicar el Judaísmo con sus ofrendas quemadas, porque el Cristo había venido y efectuó un sacrificio de una vez por todas. No hay otro nombre debajo del cielo dado para que seamos salvos, sino que el nombre de Jesús Cristo. Más tarde, cuando Cristo haya entregado todo en las manos del Padre, habrá un nuevo credo, y será idolatría retroceder a nuestros presentes ideales. 
 
-### PREGUNTA Nº 140 - LA PALABRA PERDIDA
+### <h3 id="question-140">PREGUNTA Nº 140 - LA PALABRA PERDIDA</h3>
 
 En la literatura oculta hallamos mención del Templo existente en Lhassa, Tibet. ¿De qué Hermandad u Orden es este Templo, y es cierto, como se cuenta, que está custodiado? 
 
@@ -2172,25 +2185,21 @@ El clarividente voluntario que es simplemente capaz de ver y de oír está muy s
 
 Todavía más alto en la escala de la adquisición espiritual está el Adepto, quien no solo es capaz de ver y de saber, sino que también tiene poder sobre las cosas del mundo invisible. Es un graduado de una Escuela de Misterios y ha aprendido a usar la Palabra Creadora, la palabra de poder, que fue perdida por la humanidad en su descenso en la materia. Puede haber uno o más de estos Adeptos en el Templo de Lhassa en el Tibet, como también en otros lugares del mundo. Si es así, esta gente naturalmente tiene la palabra de poder y cuidadosamente la guarda, porque es un secreto peligroso, una espada de dos filos, que ciertamente sería suicida en las manos de uno no desarrollado hasta el momento en que se esté espiritualmente preparado para tenerla. 
 
-### PREGUNTA Nº 141 - LA CARIDAD COMIENZA POR CASA
+### <h3 id="question-141">PREGUNTA Nº 141 - LA CARIDAD COMIENZA POR CASA</h3>
 
 ¿Si trabajamos amorosamente con las plantas y los animales para ayudarlos en su desarrollo y evolución, tendremos “pan que mostrar” en el templo, o es ese pan obtenido únicamente por medio del servicio a la humanidad? 
 
-Respuesta: No, todo acto de bondad para otra criatura y cada pensamiento de amor que enviamos a otros seres, no importa a cuál reino pertenezcan, reacciona sobre nosotros de tal manera que se convierte en un factor de crecimiento anímico. 
-
-Sin embargo, debe ser notado que si dispensamos bondad y damos nuestro amor a las plantas y a los animales, mientras lo negamos a nuestros hermanos y hermanas humanos, estamos cometiendo un grave error, porque la verdadera caridad comienza por casa. ¿Qué pensaríamos de un hombre que descuidase su propia familia y dispensase su amor y cuidado a la familia de cualquier otro? Seguramente que no nos faltarían palabras para calificar tal conducta, y el mismo argumento puede ser aplicado a cualquiera que dedica su amor a los animales o a un jardín lleno de flores, pero que no se cuida de hacer lo mismo con los niños de su vecindad. 
+Respuesta: No, todo acto de bondad para otra criatura y cada pensamiento de amor que enviamos a otros seres, no importa a cuál reino pertenezcan, reacciona sobre nosotros de tal manera que se convierte en un factor de crecimiento anímico. Sin embargo, debe ser notado que si dispensamos bondad y damos nuestro amor a las plantas y a los animales, mientras lo negamos a nuestros hermanos y hermanas humanos, estamos cometiendo un grave error, porque la verdadera caridad comienza por casa. ¿Qué pensaríamos de un hombre que descuidase su propia familia y dispensase su amor y cuidado a la familia de cualquier otro? Seguramente que no nos faltarían palabras para calificar tal conducta, y el mismo argumento puede ser aplicado a cualquiera que dedica su amor a los animales o a un jardín lleno de flores, pero que no se cuida de hacer lo mismo con los niños de su vecindad. 
 
 Recordamos un caso a propósito: había un hombre muy rico entre nuestros probacionistas hace unos pocos años, que siempre estaba quejándose de que su progreso espiritual era lento. Él hacía vida de sociedad y tomaba parte en todas sus funciones sociales, y al mismo tiempo aspiraba a seguir al manso y humilde Cristo. Cuando le indicamos su inconsistencia, se excusó con el pretexto de que tenía que hacer esto a causa de los deseos de su mujer. Él se había casado con ella y no podía romper las relaciones, lo que sería el resultado si rehusase acompañarla a las funciones sociales. Le preguntamos qué estaba haciendo entonces para promover el crecimiento anímico, qué interés se estaba tomando por aquellos que no estaban tan bien parados como él. ¿Estaba dando algo a instituciones caritativas, o mejor todavía, estaba haciendo algo en forma personal para ayudar a los que no tenían tan buena posición y necesitaban su ayuda? Admitió que no, pero entonces, evidentemente avergonzado de no poder demostrar que estaba haciendo algo por lo demás y tratando de merecer el derecho a trabajar en una esfera superior, dijo apológicamente: “Algunas veces veo un perro que está hambriento. Ha sucedido una o dos veces que yo lo he alimentado, y me ha aficionado mucho a mi perro aquí y le dedico mucho tiempo a su entrenamiento”. 
 
 Ahora entenderá usted fácilmente que no importa cuánto amor haya este hombre mostrado a su propio perro y el gasto de tal vez unos pocos centavos para mendrugos para alimentar a un perro hambriento una o dos veces mientras descuidaba la oportunidad de alimentar las almas hambrientas de sus hermanos y hermanas humanos; esto no va a dar crecimiento anímico a este hombre, y por supuesto, como tantos otros que descubren que no hay camino real, él perdió su interés en el asunto. El pagar misioneros para que vayan a China y conviertan a los paganos allí, mientras que su propia familia inmediata está en tinieblas, no promoverá el crecimiento anímico. Si usted alimentase todos los perros y gatos de su ciudad y cuidase todos los jardines que estén en ella descuidados, mientras omita velar por sus hijos humanos, no le ayudará. Si usted ha hecho todo lo que puede para permitir que su propia familia inmediata vea la luz, entonces es bueno enviar misioneros a China, si tiene usted los medios. Si usted ha hecho todo lo posible por llevar amor a las vidas de los niños de su propia casa y de su propia ciudad, entonces es bueno también cuidar de los gatos, perros y jardines. Nunca podemos hacer demasiado, sino mucho o poco; pero primero debemos estar seguros de que hacemos nuestro esfuerzos en la esfera legítima y adecuada; 
 
-### PREGUNTA Nº 142 - DETERMINACIÓN DEL TIEMPO DE LA PASCUA
+### <h3 id="question-142">PREGUNTA Nº 142 - DETERMINACIÓN DEL TIEMPO DE LA PASCUA</h3>
 
 Soy masón y desearía conocer qué es lo que determina el tiempo de la Pascua cada año. También, cuál es la conexión existente entre la resurrección de Cristo en la Pascua y la resurrección de Hiram Abiff en el ritual masónico. 
 
-Respuesta: La leyenda masónica dice que en el principio Jehová creó a Eva, y Samael, el Espíritu Lucifer, se unió con ella y de esta unión nació Caín. Luego Samael dejó a Eva y ella se convirtió virtualmente en una viuda. Así es que Caín era el hijo de una viuda, y de él descendieron todos los artesanos del mundo, incluyendo a Hiram Abiff, el gran maestro artífice en el templo de Salomón, quien es por lo tanto llamado también “hijo de la viuda”, como lo son todos los Francmasones hasta este día. Después de que Samael hubo dejado a Eva, Jehová creó a Adán, y él se unió a Eva, y como resultado nació Abel. Así es que Caín era semidivino, inspirado por su propio genio creador inherente, que se ve en todos sus hijos hasta hoy en la política y en todas las invenciones industriales que civilizan el mundo, mientras que Abel era el hijo de dos seres humanos. 
-
-Él no sabía como crear sino que apacentaba el rebaño ya creado para él por el autor de su ser, Jehová. 
+Respuesta: La leyenda masónica dice que en el principio Jehová creó a Eva, y Samael, el Espíritu Lucifer, se unió con ella y de esta unión nació Caín. Luego Samael dejó a Eva y ella se convirtió virtualmente en una viuda. Así es que Caín era el hijo de una viuda, y de él descendieron todos los artesanos del mundo, incluyendo a Hiram Abiff, el gran maestro artífice en el templo de Salomón, quien es por lo tanto llamado también “hijo de la viuda”, como lo son todos los Francmasones hasta este día. Después de que Samael hubo dejado a Eva, Jehová creó a Adán, y él se unió a Eva, y como resultado nació Abel. Así es que Caín era semidivino, inspirado por su propio genio creador inherente, que se ve en todos sus hijos hasta hoy en la política y en todas las invenciones industriales que civilizan el mundo, mientras que Abel era el hijo de dos seres humanos. Él no sabía como crear sino que apacentaba el rebaño ya creado para él por el autor de su ser, Jehová. 
 
 Jehová desdeñaba el sacrificio de Caín, quien había hecho crecer dos hojas de hierba donde antes había una. Él prefería más tener un dócil autómata como Abel, de quien estaba seguro que obedecería implícitamente sus mandatos, que un pensador original como Caín. Así es que hubo enemistad entre Caín y Abel, con el resultado de que este último fue muerto. Luego nació Seth, y de él han descendido todos aquellos que siguen ciegamente los dictados de su creador y son conocidos como el sacerdocio y sus seguidores. Entre ellos estaba Salomón; el rey. A él reveló Jehová el diseño para su Templo, pero Salomón era inhábil para producir el diseño y por consiguiente se vio obligado a emplear a Hiram Abiff, un artífice hábil, un hijo de Caín, y por lo mismo el “hijo de una viuda”. 
 
@@ -2220,7 +2229,7 @@ El sacerdocio, del cual sacó Jehová Sus representantes, los profetas y fundado
 
 A su tiempo, sin embargo, estas dos corrientes de los Hijos de Seth y los Hijos de Caín deberán unirse para llegar a los portales del reino de Cristo. Antes de Su tiempo no hubo manera de que tal amalgama pudiese tener lugar; pero cuando Cristo, el gran Espíritu del Sol, vino, Salomón había renacido como Jesús, en cuyos vehículos inferiores entró el Cristo en el Bautismo; e Hiram Abiff había renacido como Lázaro. Cuando Lázaro fue resucitado (levantado) por medio de la poderosa garra del León de Judá, Hiram y Salomón, los antiguos antagonistas, olvidaron sus diferencias como lo aconsejó el Espíritu de Cristo, y ahora ambos están trabajando por el establecimiento del Reino de Cristo. Esto fue lo que los fariseos temían o sospechaban, y de aquí sus temores de que este Jesús iniciase a muchas personas y les sustrajese de la religión de raza a la cual ellos (los fariseos) se habían adherido tenazmente. 
 
-### PREGUNTA Nº 143 - RAZONES PARA LAS PRUEBAS DEL ASPIRANTE
+### <h3 id="question-143">PREGUNTA Nº 143 - RAZONES PARA LAS PRUEBAS DEL ASPIRANTE</h3>
 
 Desde que he comenzado el estudio de las enseñanzas Rosacruces y estoy tratando de vivir una vida mejor, parece como si la adversidad se amontonase sobre mí en una forma que yo nunca había experimentado antes, y como si aquellos que están más cercanos a mí por parentesco fuesen los que más particularmente me probaran. Algunas veces siento como si estuviese progresando, y otras veces me parece que la vida es un fracaso. ¿Cuál es el real estado, y cual es la razón para estas pruebas? 
 
@@ -2232,7 +2241,7 @@ Cuando usted ha caminado por la playa, ha notado cuán redondas y lisas, sí, y 
 
 Sin embargo, cada vez que un quejido de dolor sale de ella, es limada una parte áspera de la superficie, y en su lugar aparece una faceta brillante y pulida. Así pasa con el Ego que aspira a cosas más altas. Dios es allí el lapidario, que pule las piedras, y no es agradable que la parte áspera nos sea quitada, cuando somos prensados contra la piedra pulidora de la aflicción y la calamidad. No obstante, de ella saldremos todos brillantes y lucientes como diamantes. Que no se aflija su corazón, por lo tanto, porque las tristezas y tribulaciones que ahora obstruyen su camino no son sino la pulimentación que el lapidario nos hace contra la piedra. Usted puede estar seguro de que cualquiera que sea el presente sentimiento, el resultado será bueno, porque Dios es Amor. Aunque El aplique las más severas medidas al presente, en el futuro usted será brillante y resplandeciente 
 
-### PREGUNTA Nº 144 - COMO HALLAR LA MUJER DENTRO DE NOSOTROS
+### <h3 id="question-144">PREGUNTA Nº 144 - COMO HALLAR LA MUJER DENTRO DE NOSOTROS</h3>
 
 En la parte cuarta de Tannhauser usted afirma que "El hombre debe encontrar la mujer dentro de si mismo." También que debemos enfrentarnos con el morador del Umbral. ¿Me aclara, usted, por favor estos dos puntos? 
 
@@ -2246,7 +2255,7 @@ Al mismo tiempo, entiéndase que mientras estemos en este mundo físico, y tenga
 
 Con relación al Habitante del Umbral: dijimos que siempre se manifiesta como un ser del sexo opuesto, porque todas nuestras tentaciones y el mal que hacemos, todo lo que es reprensible, viene del lado oculto en nosotros, y en cada vida este lado oculto toma la forma del sexo opuesto. A través del sexo opuesto somos tentados a cometer el pecado que arrojó a la humanidad del estado de pureza llamado simbólicamente el Jardín del Edén. Este ser mora en el umbral de los reinos superiores, y todo aquel que se atreva a buscar entrada debe primero vencer a este demonio. 
 
-### PREGUNTA Nº 145 - EL TEMPLO TEOSÓFICO DE LA ROSA CRUZ
+### <h3 id="question-145">PREGUNTA Nº 145 - EL TEMPLO TEOSÓFICO DE LA ROSA CRUZ</h3>
 
 Algunos teósofos proclaman que su Templo de la Rosa Cruz es la única Orden genuina y que la Fraternidad Rosacruz es una rama de ella. Por favor díganos cual es la verdadera categoría de esa Orden, y qué conexión tiene con la Fraternidad Rosacruz. 
 
@@ -2262,7 +2271,7 @@ The Theosophist, es, como se ha dicho, el órgano oficial de la Sociedad Teosóf
 
 Con relación al origen del Templo Teosófico de la Rosa Cruz, hemos sido informado por el Secretario de la Sección Americana de la Sociedad Teosófica, Nir. A. P. Warrington, en la edición de Mayo de 1913, de The American Theosophist (El Teósofo Americano) de lo siguiente: 
 
-“Los fundadores y supremos cabezas son Heracles, Helios y Lomia (nombres probablemente tomados para propósitos místicos por Mrs. Besant, Mrs. Russak, y Mr. Wedgwood. -Editor-Lo siguiente ha sido manifestado por los directores: 
+“Los fundadores y supremos cabezas son Heracles, Helios y Lomia (nombres probablemente tomados para propósitos místicos por Mrs. Besant, Mrs. Russak, y Mr. Wedgwood. -Editor). Lo siguiente ha sido manifestado por los directores: 
 
 “En la Sociedad Teosófica hay muchos que encuentran la más adecuada expresión para sus más elevadas emociones en ceremoniales majestuosos y rítmicos... muchos de tales Egos están tanteando insatisfechos en numerosos campos de investigación... para estos Egos la línea del ceremonial es la de la menor resistencia... Hasta el tiempo presente, sin embargo, ha habido poca oportunidad en la Sociedad Teosófica para el estudio de los ceremoniales y sus misterios. Por consiguiente es el deseo de los fundadores de la nueva orden sintetizar las dispersas enseñanzas en la literatura de la Sociedad Teosófica así como también en otra literatura disponible... Dar nueva vida al fuego mortecino que arde en el altar de la aspiración espiritual...” 
 
@@ -2294,7 +2303,7 @@ De esto no se sigue que estemos obligados a atacarles, sin embargo, o que nosotr
 
 Nota: Desde que lo anterior fue escrito, el Templo Teosófico de la Rosa Cruz ha sido disuelto, y el edificio de su Cuartel general americano convertido en una iglesia católica donde los antiguos Templarios están ahora adorando. Si su "Templo de la Rosa Cruz" hubiese sido fundado por los Hermanos Mayores, que son los Jerarcas de la Escuela de Sabiduría Occidental hubiese durado siglos, en lugar de un año o dos. 
 
-### PREGUNTA Nº 146 - ACERCA DE DEJAR MORIR NIÑOS DEFECTUOSOS
+### <h3 id="question-146">PREGUNTA Nº 146 - ACERCA DE DEJAR MORIR NIÑOS DEFECTUOSOS</h3>
 
 Desde el punto de vista oculto, es justo o injusto dejar morir un niño defectuoso, como se hizo en el caso Bolínger? Por favor denos su opinión sobre la materia. 
 
@@ -2306,7 +2315,7 @@ Lo cierto es que el cuerpo normal es el resultado de un cierto modo de vida en e
 
 La investigación del caso Bolinger muestra que ese Ego había vivido su vida anterior como una monja, y fue quemada en la hoguera. El resultado fue que perdió el fruto de esa vida, y bajo la ley de la mortalidad infantil fue, pues, necesario que el nuevo cuerpo muriese poco tiempo después del nacimiento. Así es que ninguna operación pudo haber salvado la vida en este caso, pero eso no excluye el hecho de que el médico fue negligente en su deber de esforzarse por conservar la vida. No es el caso hablar en un periódico de las causas que, generadas en su previa existencia, condujeron a la tragedia y pusieron fin a esa vida y que determinaron el nacimiento en la vida presente en forma defectuosa. Es suficiente decir que el Espíritu ha volado ahora al Primer Cielo y allí recibirá el entrenamiento moral que le devolverá los frutos de la experiencia almacenados durante esa infeliz vida pasada. Así es que cuando renazca en el curso de unos pocos años probablemente tendrá un cuerpo perfectamente normal. 
 
-### PREGUNTA Nº 147 - LA NATURALEZA DE LA PSICOMETRÍA
+### <h3 id="question-147">PREGUNTA Nº 147 - LA NATURALEZA DE LA PSICOMETRÍA</h3>
 
 ¿Podría usted explicarme, por favor, que significa exactamente la psicometría? 
 
@@ -2322,7 +2331,7 @@ Otra clase ha cautivado la facultad de leer en la Memoria de la Naturaleza a vol
 
 Mucho ha sido dado en las enseñanzas Rosacruces con relación a la Memoria de la Naturaleza, y una gran cantidad de nuestra información ha sido obtenida de esa fuente por medio del último método de la investigación positiva. No necesitamos advertir a nuestros lectores del peligro de intentar despertar la fase pasiva de esta facultad. 
 
-### PREGUNTA Nº 148 - RESULTADOS DE QUEMAR INCIENSO
+### <h3 id="question-148">PREGUNTA Nº 148 - RESULTADOS DE QUEMAR INCIENSO</h3>
 
 ¿Elevará las vibraciones de un aposento el quemar especias en él, y en caso afirmativo, qué clase de especias deben usarse? 
 
@@ -2334,7 +2343,7 @@ Cuando uno quema incienso en un aposento el humo y el olor que vemos y olemos es
 
 Por el contrario, si el incienso ha sido compuesto por alguien que ignora el ocultismo, tal vez alguno que tiene en mira un motivo egoísta, entonces este incienso constituye un vehículo para espíritus de una naturaleza parecida, que se revisten con el humo y el olor, entren en los cuerpos de los presentes en el lugar donde se quema el incienso y les inciten a cometer actos de intemperancia y sensualismo. Los palillos de incienso chinos son un buen ejemplo de esta variedad. También es posible que cuando nos hemos complacido en esta práctica por algún tiempo, los espíritus obsesionantes puedan obtener un control tal sobre sus víctimas, que las inciten al frenesí, haciéndoles presentar los síntomas de la epilepsia, espumación en la boca, etc., o pueden interferir los movimientos corporales de una manera parecida a la exhibida en el así llamado baile de San Vito. Por lo tanto la práctica de quemar incienso es muy peligrosa, y debería ser vigorosamente disuadida. 
 
-### PREGUNTA Nº 149 - RESPONSABILIDAD DE LOS GOBERNANTES
+### <h3 id="question-149">PREGUNTA Nº 149 - RESPONSABILIDAD DE LOS GOBERNANTES</h3>
 
 En una lección reciente se nos dijo que el Espíritu de Raza influenciaba a diferentes personas a tomar parte en grandes movimientos mundiales. Si la parte tomada es injusta, ¿es la persona responsable por ello? ¿Sufriría por eso? 
 
@@ -2342,7 +2351,7 @@ Respuesta: Esta declaración fue hecha en la Sección para los Estudiantes corre
 
 Cada uno actuará en armonía con su naturaleza básica, y de aquí que los divinos Jerarcas siempre eligen a alguien cuyo carácter se ajuste a la parte que ellos desean que tome en las futuras crisis, y le colocan en tal posición que tiene el poder de llevar a cabo sus designios, ya sea para bien o para mal. Por esa razón él se hace, al menos en parte, responsable de sus actos y de las consecuencias de éstos. Si hace el bien, por sus actos de nobleza, justicia y altruismo ayuda a una nación a elevarse, guiándola a través de las rocas y bancos de arena de su infancia, como lo hizo Jorge Washington, por ejemplo, entonces gran honor y gloria serán suyos, naturalmente, en alguna vida futura, en la cual le será dado dominio sobre los demás para que él pueda ayudarlos. Por el contrario, si juega el papel de un Nerón provocando la decadencia de un gran imperio, haciendo como se dijo de uno de los reyes de Israel "el mal con ambas manos vorazmente," naturalmente que resultarán aflicción y sufrimiento. Él probablemente no puede sentir todo el dolor que infligió, como tampoco un Jorge Washington puede recibir todo el gozo que ha procurado a los millones de personas que se han beneficiado a través de su sabiduría y altruismo, pero cada uno recibirá ciertamente tanto como es posible darle, o de todos modos tanto como se requiere para convertir al uno en un buen hombre y al otro en un hombre mejor. 
 
-### PREGUNTA Nº 150 - EL PROPÓSITO DE LA EXISTENCIA FÍSICA
+### <h3 id="question-150">PREGUNTA Nº 150 - EL PROPÓSITO DE LA EXISTENCIA FÍSICA</h3>
 
 Veo claramente como podemos aprender grandes lecciones con relación a esta expresión. física de la vida, pero no veo por qué el mundo físico es necesario para enseñarnos ética o moral. Si fuese posible aprender ética y moral en los mundos superiores, entonces, ¿por qué sería necesario un mundo físico, o lo que llamamos existencia física? 
 
@@ -2356,7 +2365,7 @@ Esto nos lleva a su pregunta acerca de la ética y de la moral. Se dice que "her
 
 Si recuerda la ley de la mortalidad infantil, usted también recordará que los niños pequeños, que mueren de un accidente o de otra infortunada circunstancia que les impidió vivir su purgatorio, son llevados directamente al Primer Cielo y allí los seres compasivos les enseñan las lecciones morales que debieron haber aprendido en su Purgatorio anterior. Supongamos que una de las lecciones que un Ego tenía que aprender era simpatía, porque había sido cruel y duro en su vida anterior. Tal vez había torturado a los animales físicamente o a los seres humanos mentalmente, y encontró gran placer en hacerlo así. Tal niño pequeño sería entonces llevado al Purgatorio a un tiempo en que un Ego de propensiones parecidas estuviese viviendo allá expiando actos de crueldad. El cuerpo del niño sería entonces probablemente insertado en el cuerpo de deseos del otro y entonces sentiría lo que él o ella sentirían -el sufrimiento de los animales torturados por causa de su dolor físico, y los sufrimientos de sus víctimas humanas por la angustia mental-. Así el niño tomaría muy rápidamente las lecciones que tenía que aprender y estaría listo para renacer en un corto tiempo. Así es que tanto los mundos visibles como invisibles desempeñan su parte en enseñarnos ética y moral, y no hay duda de que ambos son indispensables, o de lo contrario los sabios seres que nos guían en el sendero de la evolución, encontrarían otros medios de mayor eficiencia para enseñarnos las necesarias lecciones. 
 
-### PREGUNTA Nº 151 - ALMAS PERDIDAS
+### <h3 id="question-151">PREGUNTA Nº 151 - ALMAS PERDIDAS</h3>
 
 ¿Hay en realidad alguna base para la enseñanza de algunas escuelas de ocultismo con relación a las almas perdidas y los desviados? He leído un libro que describe vividamente un lugar llamado Avitchi, donde residen las almas cuando están en los últimos estados de la desintegración. La escuela en cuestión parece sostener que algunas almas sufren retrogradación progresiva haciéndose más y más bajas en cada existencia sucesiva hasta que últimamente se extinguen como almas individuales por absorción en el Alma Cósmica. Ahora, según entiendo, yo por las enseñanzas Rosacruces, todas las almas sin excepción están en la espiral ascendente, y si bien puede haber una retrogradación entre dos vidas sucesivas en el mundo físico, el resultado final es, no obstante, progreso, no retroceso. No creo que haya en ninguna parte de dichas enseñanzas que diga que algunas almas degeneran hasta ser aniquiladas. Las observaciones anteriores también se aplican a los descarriados. Tenga la bondad de darme la enseñanza correcta sobre este tópico. 
 
@@ -2366,7 +2375,7 @@ Así es también en la escuela de la vida. Aquellos que fracasan en pasar el exa
 
 Se ha dicho que no hay regla sin excepción, y hay una condición que casi da fundamento para la enseñanza relativa al Avitchí promulgada por las escuelas orientales. Según la filosofía de estas escuelas, existen dos estados (no lugares, sino estados) de conciencia: Avitchi y Nirvana. Ellas dicen que cuando el Espíritu, por medio de repetidas encarnaciones y vidas vividas de la más noble manera ha llegado a un estado de sublime espiritualidad, es absorbido por el Alma Universal como la gota de rocío en el mar. Su conciencia individual, más el fruto de todas sus vidas, son absorbidos por el Espíritu Universal, siendo esto, de acuerdo con la enseñanza oriental, un estado de la más alta bienaventuranza. Y al revés, aquellos que después de vivir vidas de continuada maldad, llegan a cierto punto de degradación, comienzan a hundirse más y más en la escala de la materialidad, y como sus conciencias han estado tan saturadas de maldad que ya no queda en ellas sitio para el bien, la conciencia individual gradualmente es removida de ellos en un esfuerzo para erradicar el mal, hasta que al fin el Espíritu queda desnudo e inconsciente. Entonces es absorbido por el Alma Cósmica, llevando consigo solo aflicción y desilusión, de la más intensa naturaleza. Pero esta enseñanza con relación tanto al bien como al mal es, como ya se dijo, contraria a las Enseñanzas de los Misterios Occidentales, y puede, tal vez, aplicarse solamente en un caso tal como el de un mago negro excesivamente malvado. En ningún caso, sin embargo, se pierde el Espíritu, sino solamente el fruto de su peregrinación a través de la materia. Pero como tenemos toda la eternidad para nuestra evolución, podemos estar seguros de que aún tal Espíritu tendría oportunidades más adelante para entrar al peregrinaje evolucionario que hará de él una inteligencia creadora, consciente de sí misma. 
 
-### PREGUNTA Nº 152 - EUTANASIA
+### <h3 id="question-152">PREGUNTA Nº 152 - EUTANASIA</h3>
 
 Es legitima en su opinión la "eutanasia legalizada," o sea la ejecución legal de las personas ancianas, enfermas o sufrientes que desean la muerte, tal como leí que está estudiándose en cierta ciudad? 
 
@@ -2378,10 +2387,12 @@ Siempre está en nuestras manos alterar esas condiciones, aunque por supuesto no
 
 El caso de un suicida, sin embargo, es diferente. En este caso el arquetipo persiste después de la muerte por un cierto numero de años, hasta el momento en que de acuerdo con los acontecimientos naturales debió ocurrir la muerte, y siendo incapaz de atraer a sí mismo los átomos físicos, imparte al suicida durante esos años de su existencia post-mortem una aguda sensación de dolor, algo parecido a una hambre dolorosa, o a un dolor de muelas sordo pero excesivamente sensible. Si el plan que usted menciona se convierte en una ley y a la gente se le permite emplear los servicios de otros para cometer suicidio (porque eso es lo que realmente significa), no hay duda de que sufrirán en su existencia post-mortem de la misma manera que el suicida que prescribió su propio veneno, o se cortó su propio cuello. Es un plan muy peligroso en otros aspectos, también, y confiamos en que tal práctica no será permitida por la ley. 
 
-### PREGUNTA Nº 153 - NATURALEZA DEL YO SUPERIOR
+### <h3 id="question-153">PREGUNTA Nº 153 - NATURALEZA DEL YO SUPERIOR</h3>
 
 ¿Qué parte del triple Espíritu es el Yo Superior? ¿Es el Espíritu Divino?
+
 En el Cosmos se declara que el Espíritu Humano es el Ego. ¿No es el Espíritu de Vida una parte del Ego?
+
 ¿Está todo el Ego en el plano físico durante la vida terrestre, o solamente una parte, como enseñan los hindúes? 
 
 Respuesta: El Yo Superior es el triple Espíritu: Espíritu Divino, de Vida y Humano, pero usted no debe creer que estos tres están separados uno de otro. El Espíritu es indivisible como la luz blanca que viene del Sol a través del espacio interplanetario, pero así como la luz puede refractarse en tres colores primarios -azul, amarillo y rojo- al pasar a través de la más densa atmósfera de la Tierra, así también el Espíritu Virginal aparece como triple durante la manifestación, porque son colocadas alrededor de él cubiertas de materia de variable densidad. Cuando está envuelto solo en la sustancia del Mundo del Espíritu Divino, entonces es el Espíritu Divino; cuando el Espíritu Divino recibe en adición una cubierta del material del Mundo del Espíritu de Vida, entonces se convierte en el Espíritu de Vida; y cuando finalmente se viste en la materia de la Región del Pensamiento Abstracto se convierte en el Espíritu Humano -el Ego-. Esto es porque el Espíritu Virginal cubierto con estas tres capas de materia, es privado de toda conciencia de su Divino Padre, y estando tan cegado ya no puede ver las cosas desde un punto de vista cósmico y cuando se dirige hacia afuera vuelve su conciencia hacia adentro y se contempla a sí mismo como si estuviese separado y aparte de los otros. Por lo tanto es un Ego -un individuo-. En ese momento nace el egoísmo, y comienza a buscarse a sí mismo. 
@@ -2390,7 +2401,7 @@ Cuando el Espíritu Humano atrae alrededor de sí para mejor expresión los veh�
 
 En este aspecto difiere radicalmente de los Espíritus de los otros tres reinos -mineral, vegetal y animal-. El Espíritu Grupo del mineral ha descendido solo a la Región del Pensamiento Abstracto. Por lo tanto la conciencia del mineral se parece a la del más profundo estado de trance. El Espíritu Grupo del vegetal y reino vegetal ha descendido a la Región del Pensamiento Concreto. Por lo tanto la conciencia del reino vegetal es parecida a la que tenemos en el más profundo sueño sin ensueños. El Espíritu Grupo de los animales se encuentra en el Mundo del Deseo que es el próximo al mundo en que vivimos. Por lo tanto la conciencia del animal es una conciencia pictórica interna parecida a la que tenemos en el sueño con ensueños, siendo los cuadros enviados por los Espíritus Grupos a los animales para imprimir sobre ellos lo que deben hacer bajo ciertas circunstancias. Lo que llamamos instinto es así la sabiduría de los Espíritus-Grupos, que impresiona al animal con relación a como actuar. De todos los reinos de vida que evolucionan sobre la Tierra solo el Espíritu Humano es un Ego individualizado, que desciende a sus vehículos, los cuales se congregan todos en el mundo físico. Así obtenemos la conciencia de vigilia, mediante la cual estamos completamente conscientes, y despiertos para todas las cosas que pertenecen al mundo en el cual entonces funcionamos; podemos usar nuestra propia razón, expresar nuestros deseos y emociones y actuar según los dictados de nuestro Yo Superior -el Espíritu interno, el Ego. 
 
-### PREGUNTA Nº 154 - SEMBRAR SIN COSECHAR
+### <h3 id="question-154">PREGUNTA Nº 154 - SEMBRAR SIN COSECHAR</h3>
 
 En la primera conferencia pronunciada por Max Heindel él dice algo acerca de tener compromisos con nuestro destino y poder cancelarlos bajo ciertas circunstancias. Ahora, lo que yo deseo saber es esto: ¿Cuáles son esas ciertas circunstancias? Yo comprendo que ahora puedo construir para el futuro y que puedo controlar las cosas que tienen lugar dentro de mi conciencia según la cantidad de voluntad que tenga y el deseo detrás de esa voluntad de tratar de hacer lo recto. ¿Pero qué hay acerca de los esfuerzos en el sentido de la influencia inmoral? ¿Qué pasa si uno prosigue la vida de la persona ordinaria y yerra por caminos de maldad? ¿No está poniendo en acción algo de lo que es imposible escapar? ¿O puede, esforzándose por vencer la naturaleza inferior, y construyendo un mejor carácter escapar a las consecuencias de sus propios errores? Esta es una cuestión acerca de la cual una amiga y yo hemos tenido muchas discusiones. Ella se aferra a la idea de que si vemos que nos va a venir un accidente o adversidad de cualquier clase, podemos evitarlo alejándonos del sitio donde es probable que suceda, pero no me parece probable que podarnos escapar al pasado. Si pudiésemos, no construiríamos el carácter huyendo de algo. Por supuesto, esto es más o menos un punto de vista fatalista del asunto, pues yo creo que debo tomar mi medicina como hombre. Aunque yo doy coces contra el aguijón, al mismo tiempo me siento disgustado de ser tan débil. 
 
@@ -2400,75 +2411,17 @@ Si usted lee de nuevo el caso citado en el Concepto Rosacruz del Cosmos de un ci
 
 Este principio también trabaja en otra forma. Usted parece creer que no hay forma de escapar de la cosecha del pasado, pero sí la hay. También nosotros hemos repetido enfáticamente el hecho de que Dios, o la Naturaleza, o los agentes de esta gran ley, no tratan de "vengarse" de nosotros. Estamos aquí en esta gran escuela de la vida salvaguardados por estas leyes de la naturaleza. Son hechas para nuestro beneficio y no para nuestro mal, aunque en cierta forma nos limitan, así como nosotros limitamos las libertades de nuestros hijos pequeños con el propósito de guardarlos contra los peligros de la indiscreción. Cuando por nuestras pasadas acciones hemos acumulado una cierta cantidad de retribución para nosotros, la cual debe pagarse en algún tiempo futuro, y luego vemos nuestro error, nos reformamos y vivimos en armonía con la ley que habíamos previamente quebrantado, entonces por medio de esa acción borramos el registro de nuestros pecados. Los agentes de la gran ley, viendo que hemos cesado de transgredirla en ese particular aspecto, no nos hacen sufrir gratuitamente. Conserve este hecho en su mente: todas las leyes de la naturaleza están bajo una administración similar, divina e inteligente, porque ésa es la diferencia entre los puntos de vista fatalista y espiritual. La mano de Dios, a través de Sus agentes, está dondequiera, desde las cosas más grandes, tales como el viaje de un planeta en su órbita, hasta los más triviales detalles, como la caída de un gorrión. Es un hecho positivo que en Dios vivimos, nos movemos y tenemos nuestro ser. Estamos a Su amoroso cuidado en todas las cosas y por lo tanto nada puede sucedernos que no esté en armonía con Su grande y divino plan. ¡Ese plan ciertamente no puede ser fatalista! 
 
-### PREGUNTA Nº 155 - PROFECÍAS DE LA MADRE SHIPTON
+### <h3 id="question-155">PREGUNTA Nº 155 - PROFECÍAS DE LA MADRE SHIPTON</h3>
 
 ¿Considera usted auténticas las profecías de la Madre Shipton? 
 
 Respuesta: Medio siglo antes de que América fuese descubierta, “la Madre Shipton”, la vidente de Yorkshire, profetizó el descubrimiento de una tierra desconocida en la cual abundaría el oro. Ella vio los automóviles y ferrocarriles de hoy con los muchos accidentes que causarían, el teléfono y el telégrafo, los buzos, los submarinos, las naves aéreas y los grandes buques de hierro que han reemplazado a los barcos de madera. Ella previó las grandes conmociones políticas del mundo, notablemente en Francia, su alianza con Inglaterra y una amalgama de las razas anglosajonas lo cual todavía está por suceder a despecho de la presente contienda. Ella contempló la emancipación del judío y su promoción a posiciones de distinción, y la difusión sin precedentes de la cultura aún entre los de más baja condición, terminando con la predicción de ciertas conmociones de la corteza terrestre por medio de la cual tierras antiguas se sumergirán y nuevas tierras aparecerán, y en 1991 ella prevé el fin del mundo. 
 
-Las profecías mencionadas en último término probablemente nos harán menear la cabeza incrédulamente a la mayoría de nosotros, pero si pensamos un poco sobre el asunto la idea puede ser que no parezca tan traída de los cabellos. Sabemos que en el pasado han tenido lugar cataclismos en la tierra, y los terremotos y las erupciones volcánicas nos demuestran que las actividades subterráneas no se han suspendido de ningún modo. El que escribe ha visto por un cierto número de años grandes cavernas subterráneas llenas de petróleo y gas que se extienden en una dirección general desde El Maine del continente americano en dirección sudoeste, bajo el sur de California y se prolonga bastante lejos en el Sur del Océano Pacífico. La explosión de estas cavernas haría una gran grieta en la tierra. 
-
-Al mismo tiempo hemos visto un arquetipo en proceso de construcción que muestra la forma que tendrá la tierra en ese lugar cuando un cataclismo, o una serie de cataclismos hayan alterado la presente forma de este continente y el océano adyacente. Tal vez sea arriesgado fijar el tiempo en que comenzará esta reconstrucción de la tierra, pero el arquetipo o matriz moldeado en materia mental, que representa el pensamiento creador del Gran Arquitecto y Sus constructores, parece estar tan a punto de completarse que, a juzgar por el progreso hecho durante los años que el que escribe ha observado su construcción, no parece arriesgado decir que a mediados del presente. siglo (1950), si no antes, habrán comenzado los cataclismos. No es del todo increíble que pueda haber uno de tal magnitud en 1991 que la antigua vidente estuviere justificada en creerlo el fin del mundo. Sin embargo el que escribe piensa que es prematuro suponer que los cataclismos comenzarán a mediados de siglo. Sólo el tiempo puede decidir, pero sí es cierto que han estado haciéndose preparaciones para un gran cambio durante siglos y que ahora están casi completos en el mundo invisible. Por lo tanto, podemos esperar ver pronto cumplida la profecía de la Madre Shipton con relación a este asunto, así como se han cumplido los mencionados al principio de nuestra nota. 
+Las profecías mencionadas en último término probablemente nos harán menear la cabeza incrédulamente a la mayoría de nosotros, pero si pensamos un poco sobre el asunto la idea puede ser que no parezca tan traída de los cabellos. Sabemos que en el pasado han tenido lugar cataclismos en la tierra, y los terremotos y las erupciones volcánicas nos demuestran que las actividades subterráneas no se han suspendido de ningún modo. El que escribe ha visto por un cierto número de años grandes cavernas subterráneas llenas de petróleo y gas que se extienden en una dirección general desde El Maine del continente americano en dirección sudoeste, bajo el sur de California y se prolonga bastante lejos en el Sur del Océano Pacífico. La explosión de estas cavernas haría una gran grieta en la tierra. Al mismo tiempo hemos visto un arquetipo en proceso de construcción que muestra la forma que tendrá la tierra en ese lugar cuando un cataclismo, o una serie de cataclismos hayan alterado la presente forma de este continente y el océano adyacente. Tal vez sea arriesgado fijar el tiempo en que comenzará esta reconstrucción de la tierra, pero el arquetipo o matriz moldeado en materia mental, que representa el pensamiento creador del Gran Arquitecto y Sus constructores, parece estar tan a punto de completarse que, a juzgar por el progreso hecho durante los años que el que escribe ha observado su construcción, no parece arriesgado decir que a mediados del presente. siglo (1950), si no antes, habrán comenzado los cataclismos. No es del todo increíble que pueda haber uno de tal magnitud en 1991 que la antigua vidente estuviere justificada en creerlo el fin del mundo. Sin embargo el que escribe piensa que es prematuro suponer que los cataclismos comenzarán a mediados de siglo. Sólo el tiempo puede decidir, pero sí es cierto que han estado haciéndose preparaciones para un gran cambio durante siglos y que ahora están casi completos en el mundo invisible. Por lo tanto, podemos esperar ver pronto cumplida la profecía de la Madre Shipton con relación a este asunto, así como se han cumplido los mencionados al principio de nuestra nota. 
 
 Transcribimos la profecía para que nuestros lectores puedan juzgar por sí mismos. 
 
-Carriages without horses shall go,  
-And accidents fill the world with  
-Primsore Hill in London shall be,  
-And in its center a Bishop's See;  
-Around the word thoughts shall fly  
-In the twinkling of an eye;  
-Water shall great wonders do.  
-How strange! yet shall be true,  
-Tile world upside down shall be,  
-And gold found at the root of trees;  
-Through hills man shall ride,  
-And no horse or ass by his side;  
-Under water men shall walk,  
-Shall ride, shall sleep, shall talk.  
-In the air men shall be seen,  
-In white, in black, and in green.  
-A great man shall come and go!  
-Iron in water shall float  
-As easy as a wooden boat,  
-And gold shall be found  
-In a land that's not now known.  
-Fire and water shall more wonders do,  
-England shall at last admit a Jew;  
-The Jew that was held in scorn  
-Shall of a Christian be born.  
-A house of glass shall come to pass  
-In England, but alas!  
-War will follow with the work  
-In the land of the Pagan and Turk,  
-And State and State in fierce strife  
-Will seek each other's life.  
-But when the North shall divide to South,  
-An eagle shall build in the Lion's mouth.  
-Taxes for blood and for war  
-Shall come to every door.  
-Three times shall lovely France  
-Be led to play a bloody dance,  
-Before her people shall be free,  
-Three tyrant rulers shall she see  
--Each sprung from different dynasty;  
-Then, shall the worser fight be done,  
-Engand and France shall be as one;  
-The British olive next shall twine  
-In marriage with the German Vine.  
-Men shall walk over rivers and under Rivers.  
-All England's sons that plough the land  
-Shall be seen book in hand;  
-Learning shall so ebb and flow,  
-The poor shall most wisdom know.  
-Waters shall flow where corn doth grow.  
-Corn shall grow where waters doth flow;  
-Houses shall appear in the vales below.  
-And covered by hail and snow.  
-The world then to an end shall come,  
-Nineteen hundred and ninety-one.  
-
-Traducción:  
+```
 Carruajes sin caballos marcharán  
 Y los accidentes llenarán al mundo de dolor,  
 Una colina amarilla en Londres habrá,  
@@ -2477,13 +2430,16 @@ Alrededor del mundo volarán los pensamientos
 En un abrir y cerrar de ojos;  
 El agua hará grandes maravillas  
 ¡ Qué extraño! Y sin embargo será cierto,  
+
 El mundo estará en confusión,  
 Y se hallará oro en la raíz de los árboles;  
 A través de las colinas el hombre viajará,  
 Y sin caballo ni asno viajará;  
 Bajo el agua los hombres andarán  
+Shall ride, shall sleep, shall talk  
 En el aire los hombres serán vistos,  
 En blanco, negro y verde.  
+
 Un gran hombre vendrá y se irá!  
 El hierro en el agua flotará  
 Tan fácil como un bote de madera,  
@@ -2506,6 +2462,7 @@ A cada puerta vendrán.
 Tres veces la amable Francia  
 A bailar una sangrienta danza será llevada  
 Antes de que su pueblo sea libre  
+
 Tres gobernantes tiranos ella verá  
 Tres gobernantes en sucesión verán  
 Cada uno de diferente dinastía;  
@@ -2524,8 +2481,9 @@ Casas aparecerán abajo en los valles
 Y serán cubiertas de granizo y nieve.  
 El mundo entonces a un fin vendrá  
 En mil novecientos noventa y uno.  
+```
 
-### PREGUNTA Nº 156 - EL RAYO REGENTE
+### <h3 id="question-156">PREGUNTA Nº 156 - EL RAYO REGENTE</h3>
 
 En el Cosmos se afirma lo siguiente: "Todas las escuelas ocultas pertenecen a uno de los siete Rayos planetarios, y uno puede asociarse únicamente a la escuela del Rayo al cual pertenece." ¿A cuál Rayo pertenece la Fraternidad Rosacruz? ¿Significa esto que cualquiera que solicite admisión en ella, si no es del mismo Rayo, es rechazado? La comprensión de este punto se vuelve todavía más difícil por la afirmación hecha, creo que en los libros de astrología, de que no conocemos a nuestro Astro-Padre sino hasta la ultima Iniciación. 
 
@@ -2551,7 +2509,7 @@ Hay gente en derredor que pretende saberlo todo y que sonríe misteriosamente, o
 
 Aún en el caso del Rayo individual que se da a los discípulos al tiempo en que entran a la senda del discipulado, se ha encontrado que personas que han nacido bajo el signo de Géminis, por ejemplo, que se supone regido por Mercurio, tenían en su Rayo individual todos los otros diferentes planetas; y lo mismo con cada uno de los otros signos. El que escribe se ha ocupado en un tiempo en estudiar el asunto y esforzado para hallar una regla, pero ha resultado absolutamente inútil. Existe únicamente una explicación, dada por los Hermanos Mayores, en el sentido de que el rayo individual es retenido por el Espíritu a través de toda la serie entera de sus vidas, y perfectamente independiente de los Rayos horoscópicos que cambian de acuerdo con su nacimiento, ambiente, y las lecciones a aprender en cada vida. 
 
-### PREGUNTA Nº 157 - LUGAR DONDE SE HALLA CHRISTIAN ROSENKREUTZ
+### <h3 id="question-157">PREGUNTA Nº 157 - LUGAR DONDE SE HALLA CHRISTIAN ROSENKREUTZ</h3>
 
 ¿Puede usted decir algo acerca de Christian Rosenkreutz, su persona, habitación-ambiente, o en qué parte del mundo está? Se ha dicho que en la costa del oeste. Tenga la bondad de decírmelo si es permitido. 
 
@@ -2585,19 +2543,21 @@ El siguiente recorte de un periódico enviado por un corresponsal es una de las 
 
 "En la presente crisis, en medio del ambiente solemne del Parlamento Ruso, Rasputín ha sido acusado de tratar de vender su país al enemigo intentando hacer una paz separada en términos humillantes entre Rusia y las Potencias Centrales. El crimen que puso fin a su místico dominio de la mente y conciencia imperiales ha sido aplaudida en la Duma y por la prensa rusa como un acto de liberación nacional." 
 
-### PREGUNTA Nº 158 - AVERSIÓN DE LA HUMANIDAD HACIA LAS SERPIENTES
+### <h3 id="question-158">PREGUNTA Nº 158 - AVERSIÓN DE LA HUMANIDAD HACIA LAS SERPIENTES</h3>
 
 ¿A qué se debe la aversión de la humanidad hacia las serpientes? ¿Es el Espíritu-Grupo de la serpiente enemigo del hombre? 
 
 Respuesta: Está usted equivocado en su suposición de que toda la humanidad es contraria a las serpientes. Muchas especies de serpientes son completamente inofensivas y animales muy útiles. Colocadas en la planta baja de la casa la conservarán perfectamente libre de gusanos, ratones y ratas. En el huerto elimina animales destructores tales como topos y ratones campestres que hacen considerable daño. Por lo tanto los agricultores que lo saben las miran con ojos muy amistosos. Pero la cuestión de la aversión de ninguna manera está limitada a las serpientes. Millones de personas temen a un ratón, a un escarabajo, a una araña o a otros animales inofensivos. Es simplemente una cuestión de temperamento, y ningún Espíritu Grupo es enemigo de la humanidad ni de ninguna otra especie de animales. Todo lo que parezca indicar eso es un punto de vista erróneo sobre el asunto. 
 
-### PREGUNTA Nº 159 - EL ALMA Y EL CUERPO-ALMA
+### <h3 id="question-159">PREGUNTA Nº 159 - EL ALMA Y EL CUERPO-ALMA</h3>
 
 ¿Cual es la diferencia entre el alma y el cuerpo-alma? 
 
 Respuesta: Esta es una de las más sagaces preguntas que haya sido hecha alguna vez, y no puede ser contestada directamente, sino por medio de una ilustración. Así como los niños aprenden ciertas verdades intelectuales que están más allá de su alcance por medio de una ilustración pictórica, la humanidad infante aprendió profundas verdades religiosas a través de mitos y alegorías. 
 
-El cuerpo vital está compuesto de cuatro éteres. Los dos éteres inferiores son avenidas particulares de crecimiento y propagación. En el cuerpo vital de una persona cuyo interés principal es la vida física, que vive por así decirlo enteramente para el goce sensual, estos dos éteres predominan, mientras que en una persona que es más bien indiferente al goce material de la vida, pero que busca avanzar espiritualmente, los dos éteres superiores forman la mayor parte del cuerpo vital. Ellos son entonces lo que Pablo llama el “soma psuchicon," o cuerpo- alma, que permanece con el hombre durante sus experiencias en el purgatorio y el Primer Cielo donde se extrae la esencia de la vida vivida. Este extracto es el alma, cuyas dos principales cualidades son conciencia y virtud. El sentimiento de conciencia es el fruto de los errores de las pasadas vidas terrestres, que guiará por buen camino al Espíritu en el futuro y le enseñará como evitar similares malos pasos. La virtud es la esencia de todo lo que fue bueno en vidas anteriores, y actúa como un estímulo para mantener al Espíritu esforzándose ardientemente en el sendero de la aspiración. En el Tercer Cielo esas esencias se amalgaman con el Espíritu completamente y se convierten en parte de él. Así, en el curso de muchas vidas el hombre se hace más pleno de alma, y las cualidades anímicas de conciencia y virtud se hacen más fuertemente eficaces como principios directores de la conducta. 
+El cuerpo vital está compuesto de cuatro éteres. Los dos éteres inferiores son avenidas particulares de crecimiento y propagación. En el cuerpo vital de una persona cuyo interés principal es la vida física, que vive por así decirlo enteramente para el goce sensual, estos dos éteres predominan, mientras que en una persona que es más bien indiferente al goce material de la vida, pero que busca avanzar espiritualmente, los dos éteres superiores forman la mayor parte del cuerpo vital. Ellos son entonces lo que Pablo llama el “soma psuchicon," o cuerpo- alma, que permanece con el hombre durante sus experiencias en el purgatorio y el Primer Cielo donde se extrae la esencia de la vida vivida. Este extracto es el alma, cuyas dos principales cualidades son conciencia y virtud. El sentimiento de conciencia es el fruto de los errores de las pasadas vidas terrestres, que guiará por buen camino al Espíritu en el futuro y le enseñará como evitar similares malos pasos. 
+
+La virtud es la esencia de todo lo que fue bueno en vidas anteriores, y actúa como un estímulo para mantener al Espíritu esforzándose ardientemente en el sendero de la aspiración. En el Tercer Cielo esas esencias se amalgaman con el Espíritu completamente y se convierten en parte de él. Así, en el curso de muchas vidas el hombre se hace más pleno de alma, y las cualidades anímicas de conciencia y virtud se hacen más fuertemente eficaces como principios directores de la conducta. 
 
 Pero tal vez podamos obtener una mejor idea de la diferencia entre alma y cuerpo-alma si meditamos sobre la alegoría contenida en el antiguo Templo de Misterios Atlante, el Tabernáculo en el Desierto. Este símbolo dado por Dios fue dotado de todos los implementos de crecimiento anímico necesarios para el desarrollo del hombre. Entre ellos estaba en el santuario la Mesa de los Panes de Proposición. Sobre esta mesa había doce pequeños panes dispuestos en dos pilas de seis panecillos cada una y sobre cada pila había un montoncito de incienso. Ahora recuerde usted, por favor, que el grano del cual fueron hechos estos panes fue dado por Dios al hombre, pero fue necesario que el hombre lo plantase, que arase el suelo y que regase y nutriese las diminutas plantas. El también debe cosechar el grano, trillarlo y molerlo para convertirlo en harina. Debe amasar esta harina y cocer el pan en el horno antes de llevarlo al Templo y poder mostrarlo como producto de un trabajo hecho con el grano de trigo dado por Dios. 
 
@@ -2611,7 +2571,7 @@ Los dos pequeños montones de incienso eran por lo tanto llevados al altar, fren
 
 Así el Espíritu lleva consigo el aroma de todas sus vidas pasadas. Un alma joven que ha tenido solo unas pocas existencias de las cuales extraer experiencias y crecimiento anímico, es cruel y egoísta, porque no ha hecho servicio a los demás. Pero una que ha pasado a través de muchas vidas, que ha aprendido por medio de la aflicción y el sufrimiento a sentir con los demás y a hacer por ellos, responde instantáneamente al grito del dolor, porque el alma existente en esta persona es la quintaesencia del servicio y por lo tanto está lista a ayudar a los demás sin parar mientes en las comodidades y goces personales. 
 
-### PREGUNTA Nº 160 - RELACIÓN ENTRE ALMA Y MENTE
+### <h3 id="question-160">PREGUNTA Nº 160 - RELACIÓN ENTRE ALMA Y MENTE</h3>
 
 Hemos tenido una discusión en nuestras clases con relación al alma. Existe cierta confusión de opiniones. ¿Cuál es la relación entre alma y mente? ¿Están las fuerzas de ambas unidas permanentemente al Espíritu? ¿Cuál cuerpo será usado en los últimos estadios de desarrollo, el cuerpo mental o el cuerpo-alma? 
 
@@ -2691,7 +2651,7 @@ El Espíritu Divino absorberá al Espíritu Humano al final del Período de Júp
 
 De lo anterior se sacará en claro que existe una evolución distinta para el alma, y otra igualmente distinta para la mente. Sin embargo, no son del todo independientes una de otra, sino que trabajan en perfecta armonía, como trabajan, por ejemplo, el corazón y los pulmones juntos para mantener el ritmo del cuerpo. Por consiguiente, no será ni el cuerpo mental ni el cuerpo-alma el que usaremos en los últimos estados de nuestro desarrollo, sino un vehículo compuesto que contendrá en forma superlativa la esencia de todos nuestros cuerpos, el cual será entonces el traje del Espíritu, tan maravilloso y glorioso que está más allá de nuestra pobre concepción actual. 
 
-### PREGUNTA Nº 161 - COMO FOMENTAR LA FE
+### <h3 id="question-161">PREGUNTA Nº 161 - COMO FOMENTAR LA FE</h3>
 
 Parece haber una gran decadencia de la fe en los años recientes. ¿Qué remedio hay para esto desde el punto de vista oculto? 
 
@@ -2733,9 +2693,7 @@ Al primero de estos vehículos lo llamamos el cuerpo vital porque es el conducto
 
 El segundo es el cuerpo de deseos, que es la base de nuestras emociones y sentimientos, y que pone en acción este cuerpo visible. Estos tres vehículos junto con la mente constituyen la personalidad, que es animada por el Espíritu. Cada uno de los cuerpos que hemos mencionado tiene su propia naturaleza esencial, y podemos decir que la nota-clave del cuerpo físico es inercia, puesto que nunca se mueve a menos de que esté impelido por estos cuerpos invisibles sutiles. La nota-clave del cuerpo vital es “repetición”. Eso es fácilmente comprensible cuando consideramos que aunque tiene poder para mover al cuerpo, tales movimientos resultan solo de repetidos impulsos de la misma clase. Se le enseña a coordinar los movimientos del cuerpo como el Espíritu quiere. Si vamos a un órgano por vez primera y tratamos de tocar no podemos mover los dedos de la manera deseada para producir los tonos adecuados. Ello requiere repetidos esfuerzos para ejecutar aún los más simples movimientos coordinados de los dedos, que es requisito para producir la armonía apropiada. A causa de esta necesidad de repetición es una máxima oculta que todo desarrollo oculto comienza con el entrenamiento del cuerpo vital. 
 
-El cuerpo de deseos, que sentimos como nuestra naturaleza emocional, por otra parte, está siempre buscando algo nuevo. 
-
-Este deseo de cambio de condición, cambio de escena, cambio de humor, el amor de la emoción y de la sensación es debido a las actividades del cuerpo de deseos, que es como un mar tempestuoso, lleno de olas, agitándose de aquí para allá, al azar y sin objeto, cada una poderosa y destructora si no es refrenada y sometida al poder central director. 
+El cuerpo de deseos, que sentimos como nuestra naturaleza emocional, por otra parte, está siempre buscando algo nuevo. Este deseo de cambio de condición, cambio de escena, cambio de humor, el amor de la emoción y de la sensación es debido a las actividades del cuerpo de deseos, que es como un mar tempestuoso, lleno de olas, agitándose de aquí para allá, al azar y sin objeto, cada una poderosa y destructora si no es refrenada y sometida al poder central director. 
 
 La mente es el foco a través del cual el Espíritu trata de subyugar la personalidad inferior y guiarla de acuerdo con la capacidad adquirida durante su período evolucionario. Pero actualmente es tan nebulosa que no puede tomarse en cuenta en la gran mayoría de la gente, quienes se dejan llevar principalmente por sus sentimientos y emociones, sin mucha docilidad a la razón o al pensamiento. 
 
@@ -2751,11 +2709,11 @@ Con el fin de que podamos aprender de ella como llenar nuestras iglesias, y fome
 
 Habiendo llegado a este punto, la importante cuestión del ritual podría ser estructurada en dos o tal vez tres formas. 
 
-1) Podría consistir en ciertas lecturas de la Biblia arregladas de tal manera que formen un servicio coordinador y consecutivo. Podría ser escrito cierto número de tales rituales de tal modo que cada uno correspondiese a una cierta fiesta, y en los domingos ordinarios podría ser usado otro ritual en todas las iglesias Protestantes del mundo. 
+(1) Podría consistir en ciertas lecturas de la Biblia arregladas de tal manera que formen un servicio coordinador y consecutivo. Podría ser escrito cierto número de tales rituales de tal modo que cada uno correspondiese a una cierta fiesta, y en los domingos ordinarios podría ser usado otro ritual en todas las iglesias Protestantes del mundo. 
 
-2) Podría adoptarse el ritual de la Iglesia Episcopal como está o en forma modificada. 
+(2) Podría adoptarse el ritual de la Iglesia Episcopal como está o en forma modificada. 
 
-3) Podría ser hallado un ocultista capaz de ponerse en contacto con las fuentes cósmicas de sabiduría y persuadirlo a escribir un ritual que tuviese en sí un poder inasequible por otros medios. 
+(3) Podría ser hallado un ocultista capaz de ponerse en contacto con las fuentes cósmicas de sabiduría y persuadirlo a escribir un ritual que tuviese en sí un poder inasequible por otros medios. 
 
 La primera de estas formas sería la menos efectiva. La última seria el método más eficiente de alcanzar el fin deseado, pero a la inversa, obtener un ritual por el último método sería mucho más difícil. 
 
@@ -2769,7 +2727,7 @@ Algunos católicos se han vuelto contra la iglesia Católica, pero subconsciente
 
 De esto se deduce, por lo tanto, que si quisiéramos cambiar la tendencia del mundo de dedicarse al placer y a la gratificación de los sentidos, fomentando a la vez la religión, haríamos bien en comenzar con los niños pequeños. Si los congregamos ante el altar y les enseñamos a amar la casa de Dios e incorporamos ciertas plegarias universales y partes del ritual en sus cuerpos vitales en formación, evitando aún la semejanza de una cena de la congregación, sino cultivando en todos los que entran, el ideal de reverencia para un lugar santo, construiremos gradualmente también alrededor de la estructura física de piedra, un templo invisible de Luz y de Vida, tal como el descripto por Mansón en "El Sirviente en la Casa." 
 
-### PREGUNTA Nº 162 - LA SAL DE LA ALQUIMIA
+### <h3 id="question-162">PREGUNTA Nº 162 - LA SAL DE LA ALQUIMIA</h3>
 
 En la Filosofía Rosacruz se nos dice que en la fraseología de los alquimistas se habla de las fuerzas de la Luna como sal. Tiene esto algún significado con relación al siguiente pasaje de Marcos 9:49-50: Porque todos serán salados con fuego, y todo sacrificio será salado con sal. Buena es la sal; mas si la sal fuere desabrida, ¿con qué adobaréis? Tened en vosotros mismos sal; y tened paz los unos con los otros." 
 
@@ -2779,7 +2737,7 @@ Así es que este sacrificio era una especie de expiación vicaria, y fue puesto 
 
 La saladura de los sacrificios en la antigüedad puede haber tenido algo que ver con la idea de que Jehová es el Espíritu de la Luna y por lo tanto rige el elemento químico sal, pero la sal del alquimista no era la sal ordinaria. Era la sal de las lágrimas y de la constricción, y los alquimistas no pretendían hacer oro con los metales bajos, tampoco. Lo que pretendían hacer era transmutar los elementos básicos del cuerpo tomados de la tierra, en el oro del alma, ese dorado vestido de bodas que brilla alrededor de todo aquel que alcanza la espiritualidad y se convierte en una luz más brillante conforme vive una vida superior y más noble. 
 
-### PREGUNTA Nº 163 - LA FILOSOFÍA DE LA GUERRA
+### <h3 id="question-163">PREGUNTA Nº 163 - LA FILOSOFÍA DE LA GUERRA</h3>
 
 ¿Desde el punto de vista Rosacruz, puede decirse que la guerra sea justa? ¿Cuál debe ser la actitud del estudiante Rosacruz en el presente conflicto? (1ra. Guerra Mundial ). 
 
@@ -2809,9 +2767,11 @@ Es bien sabido por los estudiantes de ocultismo que las guerras son instigadas e
 
 Tal es, brevemente, la filosofía de la guerra desde el punto de vista espiritual, sin parar mientes en quiénes son las naciones implicadas. Si aplicamos estos principios a la presente guerra (Guerra Mundial), debe ser aparente para todo aquel que no esté prejuiciado y se aproxime al tema con una mente amplia y abierta, que los militaristas de los Imperios Centrales han estado preparando esta guerra durante generaciones, y el cinco de julio de 1914, en la famosa Conferencia de Potsdam que ahora es reconocida por ellos, acordaron provocar una guerra después de pocas semanas durante las cuales los banqueros de estas naciones estaban manipulando los mercados como para amasar los más grandes y posibles recursos financieros. Esto señala a los austrio-germanos como los agresores, quienes bajo la fascinación de los Espíritus de la Raza han adiestrado a sus millones para lanzarlos contra las otras naciones del mundo. Al comienzo del conflicto Francia e Inglaterra, que eran los vecinos inmediatos de los belgas ultrajados, hicieron suya la causa de Bélgica y actuaron en ese aspecto como el guardián de su hermano. Sin embargo, no estando preparadas, han sido incapaces de poner a la lucha una terminación decisiva. Por consiguiente se hizo necesario que los Estados Unidos entrasen en el conflicto para restaurar el equilibrio, y para devolver la paz y la seguridad a los que son demasiado débiles para protegerse a si mismos. 
 
-Ha sido siempre un motivo de regocijo que siempre que los Estados Unidos se han visto obligados a entrar en una campaña militar, ha sido siempre, o en defensa propia o en el todavía más altruista papel de defensor y emancipador de los débiles. Si ésta hubiera sido una guerra de conquista o de agresión, sería mejor para cualquier persona de mente espiritual hacer frente al pelotón de fusilamiento, como antes se afirmó, que participar en tal injusta empresa. Por otra parte, viendo que la presente lucha, que es emprendida con el propósito de aplastar el militarismo de la Europa Central, ha cobrado tan terrible tributo de vidas humanas, habiéndose casi agotado la fuerza de los defensores aliados, es deber sagrado de todos ayudar hasta el colmo, de acuerdo con su capacidad espiritual, mental, moral y física, ya sea en el frente o tras de las líneas de defensa, dondequiera que el juicio de aquellos a cuyo cargo se encuentra puedan requerir su servicio, sea hombre o mujer. Por lo tanto, nosotros apremiamos a todos y cada uno de los estudiantes de la Filosofía Rosacruz, de cualquier nación que esté ahora defendiendo la causa de la humanidad contra el partido militarista de las Potencias Centrales, a apoyar a su gobierno al máximo de su capacidad para que pronto podamos ver “paz en la tierra y buena voluntad entre los hombres”. 
+Ha sido siempre un motivo de regocijo que siempre que los Estados Unidos se han visto obligados a entrar en una campaña militar, ha sido siempre, o en defensa propia o en el todavía más altruista papel de defensor y emancipador de los débiles. Si ésta hubiera sido una guerra de conquista o de agresión, sería mejor para cualquier persona de mente espiritual hacer frente al pelotón de fusilamiento, como antes se afirmó, que participar en tal injusta empresa. Por otra parte, viendo que la presente lucha, que es emprendida con el propósito de aplastar el militarismo de la Europa Central, ha cobrado tan terrible tributo de vidas humanas, habiéndose casi agotado la fuerza de los defensores aliados, es deber sagrado de todos ayudar hasta el colmo, de acuerdo con su capacidad espiritual, mental, moral y física, ya sea en el frente o tras de las líneas de defensa, dondequiera que el juicio de aquellos a cuyo cargo se encuentra puedan requerir su servicio, sea hombre o mujer. 
 
-### PREGUNTA Nº 164 - LA FRATERNIDAD ROSACRUZ
+Por lo tanto, nosotros apremiamos a todos y cada uno de los estudiantes de la Filosofía Rosacruz, de cualquier nación que esté ahora defendiendo la causa de la humanidad contra el partido militarista de las Potencias Centrales, a apoyar a su gobierno al máximo de su capacidad para que pronto podamos ver “paz en la tierra y buena voluntad entre los hombres”. 
+
+### <h3 id="question-164">PREGUNTA Nº 164 - LA FRATERNIDAD ROSACRUZ</h3>
 
 ¿Es la enseñanza Rosacruz para todos? Si es así, ¿cómo puede obtenerse? 
 
@@ -2825,7 +2785,7 @@ El mundo es un agregado de oportunidades, pero para tomar ventaja de cualquiera 
 
 El método Rosacruz de desarrollo difiere de los otros sistemas en un particular especial: aspira, aún desde el mismo principio, a emancipar al alumno de la dependencia de los demás, para hacerle confiado en sí mismo en el más alto grado posible, para que pueda permanecer solo bajo todas las circunstancias y hacer frente a todas las condiciones. Sólo uno que esté tan fuertemente equilibrado puede ayudar al débil. 
 
-### PREGUNTA Nº 165 - NATURALEZA DEL MITO
+### <h3 id="question-165">PREGUNTA Nº 165 - NATURALEZA DEL MITO</h3>
 
 ¿Considera usted que los antiguos mitos tengan valor real, o son solo ficciones de la imaginación? 
 
@@ -2847,30 +2807,22 @@ Por lo tanto, Wotan echó las runas, o caracteres mágicos que eran usados para 
 
 Sin embargo, la mente de Wotan todavía le hacia dudar de que todo estuviese correcto. Le parecía que las Normas de la buena fortuna habían huido. Por consiguiente resolvió visitar la casa de una célebre profetisa de nombre Vala. Este es el Espíritu de la tierra, y por ella supo el destino que estaba reservado a los dioses, pero no recibió consuelo de ella y retornó al Walhala más abatido que antes. 
 
-Loke, el espíritu del mal, y de la traición, era en realidad uno de los gigantes, o poderes de las tinieblas, pero parte del tiempo vivía con los dioses. Era un desertor, en quien no podía confiar, ninguno de los partidos, y por eso se desconfiaba de él, y era despreciado tanto por los dioses como por los gigantes. 
-
-Un día en que estaba sentado lamentándose de su destino, una densa nube comenzó a levantarse del océano, y después de un tiempo tomó la negra figura del Rey de los Gigantes. Loke, con algún terror le preguntó qué le había traído hasta allí. El monarca comenzó a reprocharle el despreciable papel que él, siendo un demonio por nacimiento, estaba jugando al consentir ser el instrumento de los dioses en su guerra contra los gigantes, a quienes debía su origen. No fue por razón de afecto, que fue admitido a la sociedad de los dioses, sino porque Wotan sabía la ruina que él y su linaje estaban destinados a traerles y creyó diferir el terrible día propiciándoselo de esta manera. ~l, que por su poder y su astucia pudo haber sido un jefe en cualquiera de los dos partidos, era ahora despreciado y rechazado por todos. El Rey de los Gigantes le reprochó más todavía por haber ya frecuentemente salvado a los dioses de la ruina y aún suministrándoles armas contra los gigantes, y terminó apelando al odio que se encontraba en su pecho contra Wotan y toda su raza como prueba de que su sitio natural estaba con los gigantes. 
+Loke, el espíritu del mal, y de la traición, era en realidad uno de los gigantes, o poderes de las tinieblas, pero parte del tiempo vivía con los dioses. Era un desertor, en quien no podía confiar, ninguno de los partidos, y por eso se desconfiaba de él, y era despreciado tanto por los dioses como por los gigantes. Un día en que estaba sentado lamentándose de su destino, una densa nube comenzó a levantarse del océano, y después de un tiempo tomó la negra figura del Rey de los Gigantes. Loke, con algún terror le preguntó qué le había traído hasta allí. El monarca comenzó a reprocharle el despreciable papel que él, siendo un demonio por nacimiento, estaba jugando al consentir ser el instrumento de los dioses en su guerra contra los gigantes, a quienes debía su origen. No fue por razón de afecto, que fue admitido a la sociedad de los dioses, sino porque Wotan sabía la ruina que él y su linaje estaban destinados a traerles y creyó diferir el terrible día propiciándoselo de esta manera. ~l, que por su poder y su astucia pudo haber sido un jefe en cualquiera de los dos partidos, era ahora despreciado y rechazado por todos. El Rey de los Gigantes le reprochó más todavía por haber ya frecuentemente salvado a los dioses de la ruina y aún suministrándoles armas contra los gigantes, y terminó apelando al odio que se encontraba en su pecho contra Wotan y toda su raza como prueba de que su sitio natural estaba con los gigantes. 
 
 Loke reconoció la verdad de esto y prometió su disposición para ayudar a sus hermanos por todos los medios a su alcance. El Rey de los Gigantes entonces le dijo que el momento había llegado ya de que él pudiese sellar el destino de los dioses; que si Baldur era muerto la destrucción de los dioses debía venir tarde o temprano y que el gentil Dios de la vida estaba en ese momento amenazado por algún peligro no descubierto todavía. Loke replicó que la ansiedad de los dioses había llegado a un fin, porque Freya había ligado a todas las cosas de la naturaleza por medio de un juramento de no dañar a su hijo. El sombrío monarca dijo que únicamente una cosa había sido omitida. Sin embargo lo que era esa cosa permanecía oculto en el pecho de la diosa y nadie más lo conocía. Luego se sumergió de nuevo en su negro abismo dejando a Loke entregado a sus todavía más negros pensamientos. 
 
 Loke entonces, habiendo adoptado la forma de una vieja, apareció a Freya y por medio de su astucia sacó a la diosa el fatal secreto; que confiándose en la insignificante naturaleza del muérdago había omitido tomar a éste la promesa con la cual había ligado a todos los demás seres. Loke no perdió tiempo y se dirigió al lugar donde crecía el muérdago, y arrancándolo de raíz lo dio a los enanos, quienes eran forjadores, para que hiciesen con él una flecha. Esta arma fue hecha con muchos encantamientos y cuando la flecha estuvo terminada uno pidió sangre para templarla. Un niño inmaculado fue traído, y el enano hundió la flecha en su pecho y cantó: 
 
-"The death-gasp hear,  
-Ho! Ho! -now'tis o'er-  
-Soon hardens the spear  
-In the babe's pure gore-  
-Now the barbed head feel,  
-Whilst the veins yet bleed,  
-Such a deed -such a deed-  
-Might harden e'en steel.  
-(Oye el estertor de la muerte  
+```
+Oye el estertor de la muerte  
 Ja! ja! -Ya se acabó-  
 Pronto se templa la flecha  
 En la sangre pura del niño-  
 Ya la barbada cabeza siente  
 Cómo las venas sangran todavía,  
 Tal proeza -tal proeza-  
-Puede templar hasta el mismo acero.)  
+Puede templar hasta el mismo acero. 
+```
 
 Mientras tanto los dioses y los valientes muertos que están con ellos reunidos para un torneo, con el fin de convencer a Baldur de cuán infundadas eran sus aprehensiones, ahora que su vida se consideraba asegurada por medio del encanto, le hacían el blanco de todas sus armas. 
 
@@ -2880,20 +2832,18 @@ Baldur es él Sol del verano, amado por todo ser de la naturaleza, y en el dios 
 
 La leyenda de la muerte de Baldur enseña la misma verdad cósmica que todos los otros mitos de naturaleza semejante, a saber, que el Espíritu del Sol debe morir para la gloria del Universo cuando, en su papel de Cristo (ungido), entra en la tierra para traer a ella una vida nueva, sin la cual cesarían todas las manifestaciones físicas sobre nuestro planeta. Así como la muerte precede a un nacimiento en los reinos espirituales, así también hay una muerte en el plano espiritual de la existencia antes de que pueda tener lugar un nacimiento en el cuerpo físico. Así como Osiris, en Egipto, es muerto por Tifón, antes de que pueda nacer Horus, el Sol del Año Nuevo, así también Cristo debe morir para el mundo superior antes de poder nacer en la tierra y traernos el necesario impulso espiritual anual; pero nuestra Estación Santa no conmemora una manifestación más grande de Amor que la simbolizada por el muérdago. Siendo físicamente el colmo de la debilidad, se adhiere a la encina, que es símbolo de fortaleza. Es la misma debilidad del más débil de los seres la que atraviesa el corazón del más noble y gentil de los dioses, de modo que, compelido por su amor a los humildes, desciende a las sombras del mundo inferior, así como Cristo, por amor a nosotros, muere en el mundo espiritual cada año y nace en nuestro planeta para que El pueda saturarlo de nuevo con Su Vida y Energía radiantes. 
 
-### PREGUNTA Nº 166 - DE LA ORACIÓN
+### <h3 id="question-166">PREGUNTA Nº 166 - DE LA ORACIÓN</h3>
 
 ¿Cuál es la actitud Rosacruz hacia la oración, a la luz de las admoniciones Biblicas? 
 
 Respuesta: En cierto lugar la Biblia nos aconseja orar sin cesar. En otro Cristo repudia la práctica diciendo que no debemos imitar a los que creen que son oídos por sus muchas palabras. No puede haber, por supuesto, ninguna contradicción entre las palabras de Cristo y las de Sus discípulos, y debemos por consiguiente reconstruir nuestras ideas de la oración de tal manera que podamos orar siempre, y no obstante, sin expresión verbal o mental voluminosa. Emerson dijo: 
 
-"Although your knees were never bent,  
-To heaven your hourly prayers are sent  
-And be they formed for good or ill,  
-Are registered and answered still."  
+```
 Aunque tus rodillas nunca se doblen,  
 Al cielo tus frecuentes oraciones son enviadas,  
 Y ya sean hechas para bien o para mal,  
 Son recibidas y siempre contestadas.  
+```
 
 En otras palabras, cada acto es una plegaria que, bajo la ley de causa y efecto, nos trae los resultados adecuados. Obtenemos exactamente lo que necesitamos. La expresión en palabras es innecesaria, porque la acción sostenida en cierto lineamiento indica lo que deseamos, aún cuando nosotros mismos no lo comprendamos, y con el tiempo, largo o corto, de acuerdo con la intensidad de nuestros deseos viene aquello por lo cual hemos orado. 
 
