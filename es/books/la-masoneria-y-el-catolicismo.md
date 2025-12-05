@@ -1,39 +1,37 @@
-# LA MASONERÍA Y EL CATOLICISMO
+---
+title: "La Masonería y el Catolicismo"
+language: 'es'
+original_title: "Freemasonry and Catholicism"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'freemasonry-and-catholicism.md'
+---
 
-por
-Max Heindel
-[1865-1919]
+<h1 id="freemasonry-and-catholicism">La Masonería y el Catolicismo</h1>
 
-Exposición de las verdades cósmicas
-subyacentes en estas dos grandes instituciones,
-determinadas por la investigación oculta
+por Max Heindel [1865-1919]
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+Exposición de las verdades cósmicas subyacentes en estas dos grandes instituciones, determinadas por la investigación oculta
 
-Título Original:
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+P.O. Box 713  
+Oceanside, California, 92054, U.S.A.  
 
-"FREEMASONRY AND CATHOLICISM"
+### <h3 id="table-of-contents">Índice de Materias</h3>
 
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
+- [CAPÍTULO I - Lucifer, El Angel Rebelde](#part-1)
+- [CAPÍTULO II - La Leyenda Masonica](#part-2)
+- [CAPÍTULO III - La Reina de Saba](#part-3)
+- [CAPÍTULO IV - El Mar de Bronce](#part-4)
+- [CAPÍTULO V - El Misterio de Melquisedec](#part-5)
+- [CAPÍTULO VI - Alquimia Espiritual](#part-6)
+- [CAPÍTULO VII - La Piedra Filosofal](#part-7)
+- [CAPÍTULO VIII - El Sendero de Iniciación](#part-8)
+- [CAPÍTULO IX - Armagedon, La Gran Guerra y La Edad Futura](#part-9)
+- [RESUMEN](#summary)
 
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-### CAPÍTULO PRIMERO: LUCIFER, EL ANGEL REBELDE
+### <h3 id="part-1">CAPÍTULO PRIMERO: LUCIFER, EL ANGEL REBELDE</h3>
 
 La Confraternidad de los Rosacruces aspira a educar y construir, a ser caritativa aún con aquellos que de ella difieren y nunca derramar la ponzoña del vituperio, el rencor o la malignidad ni aún sobre quienes parecen deliberadamente determinados a la perversión. Nosotros reverenciamos a la religión católica, porque es esencialmente divina como lo es la mística masonería, pues ambas tienen sus raíces en la remotísima antigüedad, ambas nacieron para favorecer las aspiraciones de la militante alma, y ambas tienen un mensaje y una misión que cumplir en el mundo, aunque hoy día no se manifiesta ostensiblemente, porque las ceremonias inventadas por los hombres encubren como una costra el meollo divino de cada una de ellas. 
 
@@ -512,16 +510,4 @@ La religión se ha mancillado horriblemente en transcurso del tiempo y régimen 
 
 Christian Rosenkreuz recibió el encargo de aleccionar a los hijos de Caín que buscaban la luz del conocimiento en el sagrado fuego del místico santuario. Así como la energía infundida por su divino progenitor Samael movió a Caín al trabajo y la inventiva, así también la misma excitación espiritual mueve a sus descendientes a procurar su salvación por medio del fuego de las tribulaciones y elaborarse el áureo traje de bodas que es el "ábrete sésamo" del mundo invisible y aunque la purificante sangre de Jesús es de absoluta necesidad para millones de débiles hermanos, no cabe duda de que cuanto más seres humanos se afilien a la mística Masonería para conscientemente construir el Templo del Alma, más pronto vendrá Cristo por segunda vez y más vigorosa será la raza que ha de regir por la ley del amor. 
 
-ÍNDICE DE MATERIAS
-CAPÍTULO I - Lucifer, El Angel Rebelde 
-CAPÍTULO II - La Leyenda Masonica 
-CAPÍTULO III - La Reina de Saba 
-CAPÍTULO IV - El Mar de Bronce 
-CAPÍTULO V - El Misterio de Melquisedec 
-CAPÍTULO VI - Alquimia Espiritual 
-CAPÍTULO VII - La Piedra Filosofal 
-CAPÍTULO VIII - El Sendero de Iniciación 
-CAPÍTULO IX - Armagedon, La Gran Guerra y La Edad Futura 
-RESUMEN 
-
-Fin 
+Fin
