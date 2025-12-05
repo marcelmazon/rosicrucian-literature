@@ -7,9 +7,9 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-Max Heindel's
-
 <h1 id="letters-to-students">Letters To Students</h1>
+
+Max Heindel's Letters to Students
 
 DECEMBER 1910 TO JANUARY 1919, INCLUSIVE 
 
@@ -19,7 +19,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-<h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
 - [Foreword](#foreword)
 - [1. Friendship as an Ideal](#letter-1)
@@ -418,8 +418,8 @@ Do you remember "Sir Launfal's Vision"? It was not the size of the gift that cou
 An image of Him who died on the tree;
 Thou also hast had thy crown of thorns,
 Thou also hast had the world's buffets and scorns,
-And to thy life were not denied
 
+And to thy life were not denied
 The wounds in the hands and feet and side;
 Mild Mary's Son, acknowledge me;
 Behold, through him I give to Thee!"
@@ -433,7 +433,6 @@ Looking over the last month's lesson, the most important points are the great an
 
 Let the diagram below represent the epochs through which the spirit descends and ascends, also the worlds and their corresponding bodies--then the relative connection of the various factors will be plain. 
 
-
 --------------------------------------------------------------
       1st Epoch                                                 7th Epoch
 --------------------------------------------------------------
@@ -442,8 +441,7 @@ Let the diagram below represent the epochs through which the spirit descends and
                 3rd Epoch                        5th Epoch
 
           Bodies separated into          Spirits separated into
-        sexes-male and female.        sexes--statecraft and
-                                                      priestcraft.
+        sexes-male and female.        sexes--statecraft and priestcraft.
 --------------------------------------------------------------
                                     4th Epoch
                                 (Turning Point)
@@ -599,7 +597,7 @@ While I am suggesting immediate steps towards attainment, it may be in season to
 
 On August 6th at 2:00 P.M., we are going to lay the foundation for the nucleus of our Sanitarium, so that we may commence forthwith to care for the sick and give our students practical experience. Please join us in prayer for the success of the work. More details will be given in the Echoes which we shall publish on the 10th of each month in the future. 
 
-* The time is now two years. 
+(*) The time is now two years. 
 
 ### <h3 id="letter-34">LETTER NO. 34 - September, 1913 - A PLEA FOR PURITY</h3>
 
@@ -896,7 +894,9 @@ There is no remedy for the present conditions equal to a knowledge of the contin
 
 One man, Galileo, changed the viewpoint of the world concerning the solar system; and though we are only a few thousand, it is not possible for us to exert an influence upon the opinion of the world when we know that this is true? 
 
-It is often said that people are not interested in spiritual matters; that you cannot get their ear; but, really, it is not so. Granting that of the hundred of thousands who went to hear Billy Sunday, the noted evangelist, a great many were actuated by curiosity or went to jeer and sneer, there were also many thousand in whom was a strong desire for something which they themselves perhaps could not define, and which was the actuating motive. Recently there was a debate between a New York evangelist and a lawyer on the subject, "Where Are the Dead?" This debate was held in a large auditorium accommodating many thousands, and it lasted for three days. Every seat in the auditorium was taken and, if I remember right, there were many who could not even find standing room within. No, the world is seeking something; seeking it with a hungry heart, and it only depends upon us whether we are going to do our share by putting before the world the rational explanation of life which has come to us through the Elder Brothers. It is a great privilege and we should certainly take advantage of it. 
+It is often said that people are not interested in spiritual matters; that you cannot get their ear; but, really, it is not so. Granting that of the hundred of thousands who went to hear Billy Sunday, the noted evangelist, a great many were actuated by curiosity or went to jeer and sneer, there were also many thousand in whom was a strong desire for something which they themselves perhaps could not define, and which was the actuating motive. Recently there was a debate between a New York evangelist and a lawyer on the subject, "Where Are the Dead?" 
+
+This debate was held in a large auditorium accommodating many thousands, and it lasted for three days. Every seat in the auditorium was taken and, if I remember right, there were many who could not even find standing room within. No, the world is seeking something; seeking it with a hungry heart, and it only depends upon us whether we are going to do our share by putting before the world the rational explanation of life which has come to us through the Elder Brothers. It is a great privilege and we should certainly take advantage of it. 
 
 But the question is, How? Let me ask you, would not your newspaper take an occasional article on this subject? There are certainly a number of people within the Fellowship capable of writing such articles. A committee could be formed to receive the articles and furnish them to the members who ask for them and who would agree to take them to the editors of the newspapers in their respective towns and endeavor to get a hearing for the Rosicrucian Fellowship teachings through that medium. If an article is well written it is seldom refused when there is space available, for editors are only too glad to get something that they think may interest the reading public, even though they may not be in sympathy with it themselves. 
 
@@ -1316,7 +1316,7 @@ But the holy man is as the steel touched with the lodestone and deflected by for
 
 We have heard of men who studied law while riding to and from business in street cars; others have learned languages by utilizing the spare moments which most people waste in idle, aimless, wandering thoughts. Let us learn a lesson from them, and during the coming year practice the habit of turning our thoughts to God during whatever scattered spare moments we have. If we practice this faithfully, we shall find ourselves greatly advanced upon the path of soul growth. 
 
-### <h3 id="lettetr-87">LETTER NO. 87 - FEBRUARY, 1918 - THE NECESSITY OF PUTTING TALENTS TO USE</h3>
+### <h3 id="letter-87">LETTER NO. 87 - FEBRUARY, 1918 - THE NECESSITY OF PUTTING TALENTS TO USE</h3>
 
 The Christ exhorted us to let our light shine, and in the parable of the talents He emphasized the points that to whom much is given, of him much will be required, and that every one, no matter how little he has received, is expected to put it out to usury, to cast his bread upon the waters, so that it may return to him after many days and yield an increase. We are now standing near the beginning of another year. We have received the priceless Rosicrucian teachings. Hence it is required of us that we put this knowledge to some use in order to help those of our fellow men who have not yet received a solution of the problem of life and are seeking for light. 
 

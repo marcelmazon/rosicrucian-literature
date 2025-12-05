@@ -1,13 +1,13 @@
 ---
 title: 'The Web of Destiny'
 language: 'en'
-original_title: "The Web of Destiny"
+original_title: 'The Web of Destiny'
 original_language: 'en'
 author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-# THE WEB OF DESTINY 
+<h1 id="the-web-of-destiny">THE WEB OF DESTINY</h1>
 
 How It Is Made And Unmade
 
@@ -16,8 +16,6 @@ Also
 The Occult Effect Of Our Emotions  
 Prayer - a Magic Invocation  
 Practical Methods Of Achieving Success  
-
-![Picture of Max Heindel](../../assets/max-heindel.jpg)
 
 by Max Heindel [1865-1919]
 
@@ -29,11 +27,11 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, U.S.A.  
 
-## TABLE OF CONTENTS
+### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
 - [Foreword](#foreword)
 
-- [THE WEB OF DESTINY](#the-web-of-destiny)
+- [THE WEB OF DESTINY](#the-web-of-destiny-h2)
     - [Part I: Spiritual Research - The Soul Body](#the-web-of-destiny-part-1)
     - [Part II: The Christ Within - The Memory of Nature](#the-web-of-destiny-part-2)
     - [Part III: "The Dweller on the Threshold" - Earthbound Spirits](#the-web-of-destiny-part-3)
@@ -70,7 +68,7 @@ These books contain the priceless treasures of the latest investigations of this
 
 We hope these lesson may be the means of leading many back to God and strengthening their reverence and love for the Christ. 
 
-<h2 id="the-web-of-destiny">THE WEB OF DESTINY</h2>
+<h2 id="the-web-of-destiny-h2">THE WEB OF DESTINY</h2>
 
 ### <h3 id="the-web-of-destiny-part-1">PART I: SPIRITUAL RESEARCH - THE SOUL BODY</h3>
 
@@ -174,7 +172,7 @@ Following the above investigations, the writer attempted a number of experiments
 
 In addition to the entities already mentioned who dwell in a sin body made by themselves, and who thus suffer entirely from their own deeds in the period of expiation, two classes were found which were similar in certain respects although entirely different in others. In addition to the divine Hierarchies and the four life waves of spirits now evolving in the physical world through the mineral, plant, animal, and human kingdoms, there are also other life waves which express themselves in the various invisible worlds. Among them there are certain classes of sub-human spirits which are called elementals. It sometimes happens that one of these elementals takes possession of the sin body of some one of a savage tribe, and thus adds extra intelligence to that being. At the rebirth of the spirit that generated this sin body, the usual attraction brings them together, but on account of the elemental ensouling the sin body, the spirit becomes different from the other members of the tribe, and we find them then acting as medicine men or in a similar capacity. These elemental spirits ensouling the sin bodies of Indians also act upon mediums as spirit controls, and having obtained power over the medium during life, when he dies, these elemental spirit controls oust him from the vehicles which contain his life experience, and thus the medium may be retarded in evolution for ages, for there is no power that can compel these spirits to let go, once they have gained control of such a body. Therefore, though mediumship may produce no seeming evil effect in a lifetime, there is a very, very, grave danger after death to the person who allows his body to be taken possession of. Spiritualism has done a necessary work in the world. It was probably the chief means of checking the absolute materialism of science, and it has brought solace to thousands of suffering souls who grieved for the loss of departed ones; it has turned unbelievers to believe in a higher existence. We have no desire, whatever, to speak in a derogatory manner of its workers, but we cannot refrain from voicing a warning, as we feel it a duty to point out the enormous danger to those who allow themselves to be habitually controlled by spirits whom they cannot see, and about whom they cannot possibly know anything. 
 
-<h3 id="the-web-of-destiny-part-5">PART V: OBSESSION OF MAN AND OF ANIMALS</h3>
+### <h3 id="the-web-of-destiny-part-5">PART V: OBSESSION OF MAN AND OF ANIMALS</h3>
 
 It is a curious fact that subhuman elementals sometimes attach themselves to certain persons, to a family, or even to a religious society; but in such cases it was always found that their vehicle did not consist of the hardened sin body composed of an interlocking desire and vital body, but that the vehicle had been obtained through mediumship practiced by a person of ordinarily good character, and that the ether of this vehicle was in a state of disintegration. To offset this and to prolong their hold on such a vehicle, they demand of those whom they serve, regular offerings of food and the burning of incense; though they cannot, of course, assimilate the physical food, they can and do live upon the ether fumes and odors which arise from it, also upon the fumes of incense. 
 
@@ -371,7 +369,6 @@ Regarding the effect from the occult standpoint of this polarization, we may lea
 The cosmic law under which this is done applies also to the control and effect of our thoughts, feelings, and emotions. Paul well said that we are the temple of the living God (our Higher Self). We have also created a subtle aura about us under the guardianship of the Divine Hierarchies reigning over the seven planets, Saturn, Sun, Moon, Mars, Mercury, Jupiter, and Venus. The Universe, or great world, is mystically called the seven-stringed lyre of Apollo. Our individual organism or microcosm is a replica or image of God, and it behooves us to awaken in ourselves an echo of this music of the spheres. Most of us have learned to respond too much to the saturnine vibrations of sorrow, gloom, fear, and worry, which congeal our desire bodies, and it would be to the lasting benefit of all to try to cultivate the spiritual vibrations of the Sun, filling our lives with optimism and sunshine which will dispel the saturnine gloom and despondency and prevent such thoughts entering our aura in the future. 
 
 The prime necessity of advancement is equipoise. All who aspire ought to adopt Paul's motto, "None of these things move me." 
-
 
 ### <h3 id="the-occult-effect-of-our-emotions-part-5">PART V: THE EFFECTS OF REMORSE - THE DANGERS OF EXCESSIVE BATHING</h3>
 

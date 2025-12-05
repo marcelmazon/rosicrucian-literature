@@ -1,5 +1,5 @@
 ---
-title: 'The Web of Destiny'
+title: 'The Vital Body'
 language: 'en'
 original_title: "The Web of Destiny"
 original_language: 'en'
@@ -16,7 +16,7 @@ MT. ECCLESIA
 P.O. BOX 713
 OCEANSIDE, CALIFORNIA, U.S.A., 92054
 
-<h2 id="contents">CONTENTS</h2>
+### <h3 id="contents">CONTENTS</h3>
 
 - [Foreword](#foreword)
 - [Introduction](#introduction)
@@ -176,11 +176,15 @@ Mankind is now evolving in the Aryan Epoch. His vital body has functions, color,
 
 We have seen that man is a very complex organism, consisting of: 
 
-The dense body, which is his tool in action.  
-The vital body, a medium of "vitality" which makes action possible.  
-The desire body, whence comes desire and which compels action.  
-The mind, a brake on impulse, giving purpose to action.  
-The Ego, which acts and gathers experience from action.  
+1) The dense body, which is his tool in action.  
+
+2) The vital body, a medium of "vitality" which makes action possible.  
+
+3) The desire body, whence comes desire and which compels action.  
+
+4) The mind, a brake on impulse, giving purpose to action.  
+
+5) The Ego, which acts and gathers experience from action.  
 
 The purpose of life is to transform the powers latent in the Ego into dynamic energy, whereby it may perfectly control its different vehicles and act as It pleases. We know that it does not have full sway now, or there would be no warfare in our breasts, as we say, between the Spirit and the flesh, but in reality, as we should say, between the Spirit and the desire body. It is this warfare that develops the spiritual muscle, as wrestling builds the physical muscle. It is easy to bid others do this and that, but to enforce obedience from oneself is the hardest task in the world, and it has been truly said that "the man who conquers himself is greater than he who takes a city." Goethe, the great initiate poet, gives us the reason why in the lines: 
 
@@ -485,9 +489,7 @@ This method may of course be used for evil, but we cannot refrain from publishin
 
 Looked at from the standpoint of one life, such methods as for instance those employed by the healers of the Immanuel movement, are undoubtedly productive of an immense amount of good. The patient is seated in a chair, put into a sleep, and there he is given certain so-called "suggestions." He rises and is cured of his bad habit; from being a drunkard he becomes a respectable citizen who cares for his wife and family, and upon the face of it the good seems to be undeniable. 
 
-But looking at it from the deeper standpoint of the occultist, who views this life as only one in many, and looking at it from the effect it has upon the invisible vehicles of man, the case is vastly different. When a man is put into a hypnotic sleep, the hypnotist makes passes over him which have the effect of expelling the ether from the head of his dense body and substituting the ether of the hypnotist. The man is then under the perfect domination of another; he has no free will, and, therefore, the so-called "suggestions" are in reality commands which the victim has no choice but to obey. Besides, when the hypnotist withdraws his ether and wakens the victim he is unable to remove all the ether he put into him. To use a simile, as a small part of the magnetism infused into an electric dynamo before it can be started for the first time is left behind and remains as residual magnetism 
-
-to excite the fields of the dynamo every time it is started up, so also there remains a small part of the ether of the hypnotist's vital body in the medulla oblongata of the victim, which is a club the hypnotist holds over him all his life, and it is due to this fact that suggestions to be carried out at a period subsequent to the awakening of the victim are invariably followed. 
+But looking at it from the deeper standpoint of the occultist, who views this life as only one in many, and looking at it from the effect it has upon the invisible vehicles of man, the case is vastly different. When a man is put into a hypnotic sleep, the hypnotist makes passes over him which have the effect of expelling the ether from the head of his dense body and substituting the ether of the hypnotist. The man is then under the perfect domination of another; he has no free will, and, therefore, the so-called "suggestions" are in reality commands which the victim has no choice but to obey. Besides, when the hypnotist withdraws his ether and wakens the victim he is unable to remove all the ether he put into him. To use a simile, as a small part of the magnetism infused into an electric dynamo before it can be started for the first time is left behind and remains as residual magnetism to excite the fields of the dynamo every time it is started up, so also there remains a small part of the ether of the hypnotist's vital body in the medulla oblongata of the victim, which is a club the hypnotist holds over him all his life, and it is due to this fact that suggestions to be carried out at a period subsequent to the awakening of the victim are invariably followed. 
 
 ### <h3 id="part-2-chapter-4">CHAPTER IV: AT DEATH AND IN INVISIBLE WORLDS</h3>
 

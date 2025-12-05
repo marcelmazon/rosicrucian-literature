@@ -11,9 +11,7 @@ original_source_file: 'self'
 
 by Max Heindel
 
-
-
-### TABLE OF CONTENTS: CLASSIFIED LIST OF QUESTIONS
+### <h3 id="table-of-contents">TABLE OF CONTENTS: CLASSIFIED LIST OF QUESTIONS</h3>
 
 - [A WORD OF EXPLANATION](#a-word-of-explanation)
 
@@ -421,7 +419,7 @@ It is much easier for such a Spirit to materialize than for those who have left 
 
 With regard to the question how a man who is so emaciated could appear in full vigor, we may state that it is a law in the Desire World that as a man thinketh, so is he--literally and without qualification. Should he think of himself as aged, worn, and decrepit, he would shape his vehicle along those lines and appear so to all others, but the gentlemen in question was evidently thinking of regaining his health and vigor so that he might take up his work anew. Consequently he appeared in perfect health when seen by our correspondent, and the person who pointed him out. 
 
-<h2 id="section-2">SECTION II: QUESTIONS DEALING WITH REBIRTH</h3>
+<h2 id="section-2">SECTION II: QUESTIONS DEALING WITH REBIRTH</h2>
 
 ### <h3 id="question-17">Question No. 17: FREQUENCY OF REBIRTH</h3>
  
@@ -557,7 +555,7 @@ It is not to be denied, however, that a great many deaths in infancy are due to 
 
 If this were known and believed a long step would have been taken to save infants, for precautions could then be adopted. In the first place, infants should sleep in a crib as far from the mother as she can reach, so that her aura does not mingle with that of the child. A weak mother should not nurse her child, but obtain, if possible, milk fresh and warm from healthy well fed cows, or better still, goats, for fresh milk is supercharged with the ether of the animal and has a vital energy not appreciated by the chemist who makes a merely physical analysis of its chemical constituents. And last, but not least, massage of the spleen and stimulation of the splanchnic nerves, carefully and conservatively practiced will aid the etheric counterpart of that organ in its activity of specializing the solar energy upon which the vital processes are as dependent as the lungs are on air. 
 
-### <h3 id="questino-29">Question No. 29: IMMORTALITY OF THE SOUL</h3>
+### <h3 id="question-29">Question No. 29: IMMORTALITY OF THE SOUL</h3>
 
 It is commonly assumed that each individual soul has had a beginning, but is nevertheless so constituted that it is imperishable. This idea was questioned by one who believes that death ends all and I should like to find some argument or passages from the Bible so that I may convince him he is wrong. Will you please help me? 
 

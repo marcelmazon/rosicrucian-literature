@@ -16,7 +16,7 @@ International Headquarters
 P.O. Box 713  
 Oceanside, California, U.S.A., 92054  
 
-### Table of Contents
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [Word of Explanation](#a-word-of-explanation)
 
@@ -238,19 +238,19 @@ Oceanside, California, U.S.A., 92054
 
 - [LIST OF DIAGRAMS](#list-of-diagrams)
 
-- [The Supreme Being, God and Other Gods](#diagram-the-supreme-being-god-and-other-gods)
-- [A Life Cycle](#diagram-a-life-cycle)
-- [The Father, Son and Holy Spirit](#diagram-the-father-son-and-holy-spirit)
-- [The Path of the Unused Sex-Currents](#diagram-the-path-of-unused-sex-currents)
-- [The Seven Days of Creation](#diagram-the-seven-days-of-creation)
-- [As Above, So Below](#diagram-as-above-so-below)
-- [Man's Past, Present and Future Form](#diagram-mans-past-present-and-future-form)
-- [The Four Kingdoms](#diagram-the-four-kingdoms)
-- [The Constitution of the Earth](#diagram-the-constitution-of-the-earth)
-- [The Seven Worlds](#diagram-the-seven-worlds)
-- [Diagram Showing the Comparative Reality of the Visible and Invisible Worlds by Using a Stereopticon as Illustration](#diagram-diagram-showing-the-comparative-reality-of-the-visible-and-invisible-worlds-by-using-a-stereopticon-as-illustration)
-- [The Seven World-Periods](#diagram-the-seven-world-periods)
-- [Four Great Initiations](#diagram-four-great-initiations)
+    - [The Supreme Being, God and Other Gods](#diagram-the-supreme-being-god-and-other-gods)
+    - [A Life Cycle](#diagram-a-life-cycle)
+    - [The Father, Son and Holy Spirit](#diagram-the-father-son-and-holy-spirit)
+    - [The Path of the Unused Sex-Currents](#diagram-the-path-of-unused-sex-currents)
+    - [The Seven Days of Creation](#diagram-the-seven-days-of-creation)
+    - [As Above, So Below](#diagram-as-above-so-below)
+    - [Man's Past, Present and Future Form](#diagram-mans-past-present-and-future-form)
+    - [The Four Kingdoms](#diagram-the-four-kingdoms)
+    - [The Constitution of the Earth](#diagram-the-constitution-of-the-earth)
+    - [The Seven Worlds](#diagram-the-seven-worlds)
+    - [Diagram Showing the Comparative Reality of the Visible and Invisible Worlds by Using a Stereopticon as Illustration](#diagram-diagram-showing-the-comparative-reality-of-the-visible-and-invisible-worlds-by-using-a-stereopticon-as-illustration)
+    - [The Seven World-Periods](#diagram-the-seven-world-periods)
+    - [Four Great Initiations](#diagram-four-great-initiations)
 
 ### <h3 id="a-word-of-explanation">A WORD OF EXPLANATION</h3>
 
@@ -2245,7 +2245,7 @@ What substance does a person or animal throw off whereby they can be traced, as,
 
 Answer: When a clairvoyant looks at other persons with etheric sight for the first time, he is usually astonished at beholding showers of stars, pyramids, double pyramids and all other geometrical forms issuing from their hands and faces, and he wonders greatly what they are. Later on, he learns that they are the crystals of which his body is composed and which are thus being excreted by the skin. Most of the excretions remain in the clothing, and furnish bloodhounds or dogs with the necessary starting point for their search. As these atoms decay, they emit an effluvia similar to that of all decaying bodies. This effluvia we sense ourselves where soiled clothing is left unlaundered for some time. The dogs, having a keener scent than human beings, distinguish between the effluvia from one person and another, and as the atoms left by a person fleeing from justice are strewn along the path he has taken, it is easy for the bloodhound to distinguish these from the atoms of other people or animals for a short time after the fugitive has passed. 
 
-<h2 id="section-9">SECTION IX: MISCELLANEOUS QUESTIONS</h3>
+<h2 id="section-9">SECTION IX: MISCELLANEOUS QUESTIONS</h2>
 
 ### <h3 id="question-171">Question No. 171</h3>
 

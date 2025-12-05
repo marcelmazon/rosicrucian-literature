@@ -17,7 +17,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-<h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">FOREWORD</h3>
 
 This volume of the writings of Max Heindel, the Western Mystic, is the concluding number embodying the messages he sent out through monthly lessons to his students. These lessons, reprinted since this great soul was called to a greater work in the higher worlds on January 6th, 1919, may be found in the following books in addition to the present volume: "Freemasonry and Catholicism"; "The Web of Destiny"; "The Mystical Interpretation of Christmas"; "The Mysteries of the Great Operas"; "The Gleanings of a Mystic"; and "Letters to Students". These writings comprise the later investigations of this seer. 
 
@@ -27,7 +27,7 @@ Max Heindel, who was the authorized messenger of the true Rosicrucian Brotherhoo
 
 \- Augusta Foss Heindel 
 
-## TABLE OF CONTENTS 
+### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
 - [Foreword](#foreword) 
 - [Chapter I: The Days of Noah and of Christ](#chapter-1)
@@ -1049,9 +1049,7 @@ If we continue to travel and travel, take rebirth after rebirth, and do not at s
 
 How then are we to unfold our spiritual power? What is the way, the truth, and the life? We have had the threefold path shown us in the glorious teaching of the Christ. Ordinary humanity all over the world are being worked upon by law, which works upon the desire body and holds it in check. The thinker is pitted against the flesh. But under law no one can be saved. We also have the vital body spoken of in our teaching. This is the vehicle, as Paul has said, of love and attraction. If we can overcome the passionate side of our nature, if we can get away from the lower vibrations of love, if we can cultivate within ourselves purity, and if we can withstand temptation as did Parsifal and live the pure life, then every day we cultivate within ourselves a power. This power is the power of love, which will express itself in our lives in service, and gradually it will accumulate to such an extent that it will be like the powder in the loaded pistol. Then the Teacher will come to us and show us how to liberate the power we have stored up within our being. 
 
-It depends upon ourselves how long we shall travel in the wilderness. Everyone of us has the power latent within that will bring him or her into the City of Peace, a place apart from sorrow and suffering. Everyone of us can and must make the start sometime, and the first step is purification, 
-
-for without the pure life there can be no spiritual advancement. "Ye cannot serve God and mammon," it is said. But mammon is usually interpreted to mean the gold of the world. Yet a man may remain in his business and take care of it for the good of all, not for his own selfish greed and interest, doing everything possible for others, and not be serving mammon no matter how much he may be accumulating. A person may love only a few around him, but there is a higher love that flows out to others not in his own circle which must be observed. Every duty must be fulfilled that we may thereby take advantage of the higher opportunities that are ever opening up before us. 
+It depends upon ourselves how long we shall travel in the wilderness. Everyone of us has the power latent within that will bring him or her into the City of Peace, a place apart from sorrow and suffering. Everyone of us can and must make the start sometime, and the first step is purification, for without the pure life there can be no spiritual advancement. "Ye cannot serve God and mammon," it is said. But mammon is usually interpreted to mean the gold of the world. Yet a man may remain in his business and take care of it for the good of all, not for his own selfish greed and interest, doing everything possible for others, and not be serving mammon no matter how much he may be accumulating. A person may love only a few around him, but there is a higher love that flows out to others not in his own circle which must be observed. Every duty must be fulfilled that we may thereby take advantage of the higher opportunities that are ever opening up before us. 
 
 And so we must all learn our lessons in service: service to humanity, service to animals, service to our younger brothers, service everywhere. This alone will bring us out of the "wilderness." It is said that those who were highest in the temple were those who served; and the Christ said, "He who would be the greatest among you, let him be the servant of all." Let us all strive to render this service. It is easy to do if we will. Then some day in the not far distant future we shall hear that gentle voice, the voice of the Teacher, which comes to everyone who serves and who listens to the voice of God. 
 

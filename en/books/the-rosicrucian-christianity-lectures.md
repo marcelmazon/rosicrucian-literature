@@ -28,12 +28,12 @@ This book of lectures gives in a very simple manner the truths of man's own bein
 
 The spiritual value of Astrology as a key to the soul is brought out in one lecture; in another the Astronomical Allegories of the Bible are clearly defined. The esoteric value of the Lord's Prayer and the meaning of the Star of Bethlehem are clearly interpreted for the reader; also the Crucifixion of our Lord Jesus and its esoteric significance. Life Here and Hereafter, the Angels and their Work with Man, Parsifal and the Mysteries of the Holy Grail, the Science of Nutrition and Protracted Youth, and many other subjects are covered in an authentic manner by a Seer who was the chosen messenger of those great ones, the Elder Brothers of the Rosicrucian Order. 
 
---Mrs. Max Heindel 
+\- Mrs. Max Heindel 
 
 Mt. Ecclesia  
 October, 1939  
 
-<h2 id="table-of-contents">Table of Contents</h2>
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [Foreword by Mrs. Max Heindel](#foreword)
 - [Lecture One: The Riddle of Life and Death](#lecture-1)
@@ -57,7 +57,7 @@ October, 1939
 - [Lecture Nineteen: The Coming Force - Vril or what?](#lecture-19)
 - [Lecture Twenty: Fellowship and the Coming Race](#lecture-20)
 
-## Diagrams
+### <h3 id="diagrams">Diagrams</h3>
 
 - [A Life Cycle](#diagram-a-life-cycle)
 - [The Seven Days of Creation](#diagram-the-seven-days-of-creation)
@@ -69,11 +69,9 @@ October, 1939
 - [The Lord's Prayer](#the-lords-prayer)
 - [Constitution of the Earth](#constitution-of-the-earth)
 
-Note: These diagrams were taken from The Rosicrucian Cosmo-Conception, by Max Heindel, and in some instances are numbered as in that book. 
+Note: These diagrams were taken from The Rosicrucian Cosmo-Conception, by Max Heindel, and in some instances are numbered as in that book.
 
-<h1 id="the-rosicrucian-christianity-lectures-2">ROSICRUCIAN CHRISITANITY LECTURES</h1>
-
-<h3 id="lecture-1">LECTURE ONE: THE RIDDLE OF LIFE AND DEATH</h3>
+### <h3 id="lecture-1">LECTURE ONE: THE RIDDLE OF LIFE AND DEATH</h3>
 
 At every birth, what appears to be a new life comes into the world. Slowly the little form grows, it lives and moves among us, it becomes a factor in our lives; but at last there comes a time when the form ceases to move and decays. The love that came, whence we know not, has again passed to the invisible beyond. Then, in sorrow and perplexity we ask ourselves the three great questions concerning our existence: Whence have we come? Why are we here? Whither are we going? 
 
@@ -89,11 +87,11 @@ Three theories have been brought forward to solve the riddle of life and death, 
 
 The riddle of life and death is a basic problem; everyone must solve it at some time, and it is of the utmost importance to each individual human being which of these theories he accepts; for his choice will color his whole life. In order that we may make an intelligent choice, it is necessary to know them all, to analyze, compare, and weigh them, holding the mind open and free from the bias of preconceived ideas, ready to accept or reject each theory upon its merits. Let us first state the three theories and then let us see how they agree with established facts of life and how far they are in harmony with other known laws of Nature, as we should reasonably expect them to be, if true, for discord in Nature is impossible. 
 
-1. The Materialistic Theory holds that life is a journey form the womb to the tomb; that mind is the product of matter; that man is the highest intelligence in the cosmos; and that intelligence perishes when the body dissolves at death. 
+1\. The Materialistic Theory holds that life is a journey form the womb to the tomb; that mind is the product of matter; that man is the highest intelligence in the cosmos; and that intelligence perishes when the body dissolves at death. 
 
-2. The Theory Of Theology asserts that at each birth a newly-created soul enters the arena of life fresh from God; that at the end of one short span of life in the material world it passes through the gate of death into invisible beyond, there to remain; and that its happiness or misery there is determined for all eternity by its belief just prior to death. 
+2\. The Theory Of Theology asserts that at each birth a newly-created soul enters the arena of life fresh from God; that at the end of one short span of life in the material world it passes through the gate of death into invisible beyond, there to remain; and that its happiness or misery there is determined for all eternity by its belief just prior to death. 
 
-3. The Theory Of Rebirth teaches that each Spirit is an integral part of God; that it enfolds all divine possibilities, as a seed enfolds the plant; that by means of repeated existences in a gradually improving earthly body those latent powers are being slowly unfolded into dynamic energy; that none are lost, but that all Egos will ultimately attain the goal of perfection and reunion with God, bringing with them the cumulative experience which is the fruitage of their pilgrimage through matter. 
+3\. The Theory Of Rebirth teaches that each Spirit is an integral part of God; that it enfolds all divine possibilities, as a seed enfolds the plant; that by means of repeated existences in a gradually improving earthly body those latent powers are being slowly unfolded into dynamic energy; that none are lost, but that all Egos will ultimately attain the goal of perfection and reunion with God, bringing with them the cumulative experience which is the fruitage of their pilgrimage through matter. 
 
 Comparing the materialistic theory with the known laws of Nature, we find that it is contrary to such well-established laws as those which declare matter and force indestructible. According to those laws mind cannot be destroyed at death as the materialistic theory asserts, for when nothing can be destroyed mind must be included. 
 
@@ -494,7 +492,7 @@ Therefore, as the hypnotist interferes with the expression of the creative facul
 
 To give point and force to the descriptions of such abnormal conditions as exist in dreams, trance, hypnotism, mediumship, obsession, and insanity we will begin with an explanation of the condition of man in the normal state of waking and sleep, as viewed from the standpoint of occult science. 
 
-THE WAKING STATE.--In the waking state all the vehicles of man are confined within the same space. As the bones, the flesh, and the various juices of the body are confined within the skin, so all the bodies of man are gathered within an egg-shaped cloud that reaches above the head, below the feet and all around the visible body. No matter what position the dense body may take, it is always in the center of this aura, as the yolk is in the center of an egg. The aura surrounds man's dense body as the white of the egg surrounds the yolk. But that is not all, for this aura composed of man's finer vehicles not only surrounds the dense body, but permeates its every particle as well, in a manner similar to the way in which the blood pervades the whole dense body. 
+THE WAKING STATE - In the waking state all the vehicles of man are confined within the same space. As the bones, the flesh, and the various juices of the body are confined within the skin, so all the bodies of man are gathered within an egg-shaped cloud that reaches above the head, below the feet and all around the visible body. No matter what position the dense body may take, it is always in the center of this aura, as the yolk is in the center of an egg. The aura surrounds man's dense body as the white of the egg surrounds the yolk. But that is not all, for this aura composed of man's finer vehicles not only surrounds the dense body, but permeates its every particle as well, in a manner similar to the way in which the blood pervades the whole dense body. 
 
 Thus we see that these bodies are nearer than hands and feet, and, though as invisible as our breath, they are not less real or less necessary. During life man cannot ordinarily separate them; and unless they are all together he cannot move and act as he does in ordinary daily life. 
 
@@ -754,7 +752,7 @@ A transformation takes place:
 ```
 The leper no longer crouched at his side,
 But stood before him glorified,
-    . . . . . . . . . . . .
+. . . . . . . . . . . .
 And the Voice that was calmer than silence said,
 "Lo it is I, be not afraid!
 
@@ -783,9 +781,7 @@ In the course of time every man makes ready to ascend into the Second Heaven, wh
 
 We remember, that after the termination of the panorama, just subsequent to death, when the Ego withdrew from the vital body, it went through a period of unconsciousness before it awoke in the Desire World. There is also an interval between the withdrawal from the desire body in the First Heaven to the awakening in the Second Heaven. But this time there is no unconsciousness; every faculty is keenly on the alert, there is a state of hyperconsciousness, as the Spirit passes through this interval, which is called "The Great Silence." No matter how materialistic a man may have been on Earth, that state of mind has now vanished, and the man knows that he is inherently divine when he reaches this Great Silence which is the portal to his heavenly home. It is as when one awakens after a dreadful dream, and draws a deep sigh of relief at finding that the occurrences of the dream were not realities. So the Ego, when it enters this Great Silence, awakes from the delusions and illusions of Earth-life with a sense of infinite relief, is filled with a feeling of impregnable security, feels anew the restful repose of being in the everlasting arms of the Great Universal Spirit. 
 
-Presently there break upon the Ego's ear the indescribable harmonies of celestial music which fills this Region incessantly. It is no figment of the fancy when celestial music is spoken of, although it is untrue that the dead people who had little or no sense for music during Earth-life have suddenly developed a passion for and the faculty of expressing music at death. The fact of the matter is, that the World of Thought, where the Second Heaven is located, is also the realm of tone, as the Desire World is the world of light and color, and the Physical World is the world of form. The artist gets his color-schemes and his light-effects from the Desire World, 
-
-but the musician must draw upon the more subtle World of Thought for his inspirations, and in this fact we have the reason why music is the highest art we possess. The painter draws upon a world closer at hand, and is therefore able to fix his creation once for all upon canvas, there to be seen by all who have eyes at any time. Music cannot be thus fixed; it is more elusive, it must be recreated each time, and at once vanishes into silence. In return, however, it has so much greater power to speak to us than even the greatest painting, for it comes directly from the heaven world, fresh and fragrant with echoes from the home of the Ego, awakening memories of and putting us in touch with that which we so often forget in our material existence. Therefore music, above all other human arts, alone has power to still the savage breast and affect us in a way that nothing else can. 
+Presently there break upon the Ego's ear the indescribable harmonies of celestial music which fills this Region incessantly. It is no figment of the fancy when celestial music is spoken of, although it is untrue that the dead people who had little or no sense for music during Earth-life have suddenly developed a passion for and the faculty of expressing music at death. The fact of the matter is, that the World of Thought, where the Second Heaven is located, is also the realm of tone, as the Desire World is the world of light and color, and the Physical World is the world of form. The artist gets his color-schemes and his light-effects from the Desire World, but the musician must draw upon the more subtle World of Thought for his inspirations, and in this fact we have the reason why music is the highest art we possess. The painter draws upon a world closer at hand, and is therefore able to fix his creation once for all upon canvas, there to be seen by all who have eyes at any time. Music cannot be thus fixed; it is more elusive, it must be recreated each time, and at once vanishes into silence. In return, however, it has so much greater power to speak to us than even the greatest painting, for it comes directly from the heaven world, fresh and fragrant with echoes from the home of the Ego, awakening memories of and putting us in touch with that which we so often forget in our material existence. Therefore music, above all other human arts, alone has power to still the savage breast and affect us in a way that nothing else can. 
 
 Goethe was an initiate, and in his "Faust" emphasizes twice the fact that in the heavenly realms all things are reducible to terms of sound. The opening scene is laid in heaven, and the Archangel Raphael is represented as saying: 
 

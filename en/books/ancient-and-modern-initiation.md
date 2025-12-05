@@ -31,23 +31,32 @@ May its Truth enlighten, its Wisdom guide, and its Love enfold all those who com
 
 "The kingdom of heaven is like unto a merchantman, seeking goodly pearls. Who, when he had found one pearl of great price, went and sold all that he had and bought it." 
 
-
 ### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
 - [Foreword](#foreword)
 
 - [PART I: THE TABERNACLE IN THE WILDERNESS](#part-1)
- 
     - [Chapter I: The Atlantean Mystery Temple](#part-1-chapter-1)
+        - [The Tabernacle in the Wilderness](#the-tabernacle-in-the-wilderness)  
+        - [The Court of the Tabernacle](#the-court-of-the-tabernacle)  
     - [Chapter II: The Brazen Altar and Laver](#part-1-chapter-2)
+        - [El Lavabo O Pila De Bronce](#the-brazen-layer)    
     - [Chapter III: East Room of the Temple](#part-1-chapter-3)
+        - [The Mystic Significance of the East Room and its Furniture](#the-mystic-significance-of-the-east-room-and-its-furniture)  
+            - [The Golden Candlestick](#the-golden-candlestick)  
+            - [La Mesa Del Pan De Proposición](#the-table-of-shewbread)  
+            - [El Altar De Incienso](#the-altar-of-incense)  
     - [Chapter IV: The Ark of the Covenant](#part-1-chapter-4)
+        - [The Golden Pot of Manna](#the-golden-pot-of-manna)  
+        - [Aaron's Rod](#aarons-rod)  
     - [Chapter V: The Sacred Shekinah Glory](#part-1-chapter-5)
+        - [The Shadow of the Cross](#the-shadow-of-the-cross)  
+        - [The Full Moon as a Factor in Soul Growth](#the-full-moon-as-a-factor-in-soul-growth)  
     - [Chapter VI: The New Moon and Initiation](#part-1-chapter-6)
 
 - [PART II: THE CHRISTIAN MYSTIC INITIATION](#part-2)
-
     - [Chapter I: The Annunciation and Immaculate Conception](#part-2-chapter-1)
+        - [La Anunciación Y La Inmaculada Concepción](#)  
     - [Chapter II: Mystic Rite of Baptism](part-2-chapter-2)
     - [Chapter III: The Temptation](#part-2-chapter-3)
     - [Chapter IV: The Transfiguration](#part-2-chapter-4)
@@ -187,7 +196,7 @@ There is a time each month which is particularly propitious for extracting the f
 
 Let the Mystic Mason take particular note, however, that the loaves of shewbread were not the musings of dreamers; they were not the product of speculation upon the nature of God or light. They were the product of actual toil, of orderly systematic work, and it behooves us to follow the path of actual service if we would garner treasure in heaven. Unless we really WORK and serve humanity, we shall have nothing to bring, no bread to "shew," at the Feast of the Full Moon; and at the mystic marriage of the higher to the lower self we shall find ourselves minus the radiant golden soul body, the mystic wedding garment without which the union with Christ can never be consummated. 
 
-##### <h5 id="the-alter-of-incense">THE ALTER OF INCENSE</h5>
+##### <h5 id="the-altar-of-incense">THE ALTAR OF INCENSE</h5>
 
 At the Altar of Incense, as we saw in the general description of the Tabernacle and its furniture, incense was offered before the lord continually, and the priest who stood before the altar ministering was at that time looking toward the mercy Seat over the Ark, though it as impossible for him to see it because of the second veil which was interposed between the first and second apartments of the Tabernacle, the Holy Place and the Holy of Holies. We have also seen in the consideration of the "shewbread" that incense symbolizes the extract, the aroma of the service we have rendered according to our opportunities; and just as the sacrificial animal upon the Brazen Altar represents the deeds of wrongdoing committed during the day, so the incense burned upon the Golden Altar, which is a sweet savor to the Lord, represents the virtuous deeds of our lives. 
 
@@ -420,7 +429,7 @@ Were even a faint resemblance to such a universal fellow feeling abroad among hu
 
 When we came up through the waters of Baptism, the Atlantean Flood, into the Rainbow Age of alternating seasons, we became prey to the changing emotions which whirl us hither and yon upon the sea of life. The cold faith restrained by reason entertained by the majority of professing Christians may given them a need of patience and mental valance which bears them up under the trials of life, but when the majority get the living faith of the Christian Mystic which laughs at reason because it is heart-felt, then the Age of Alternation will be past, the rainbow will fall with the clouds and the air which now composes the atmosphere, and there will be a new heaven of pure ether, where we shall receive the Baptism of Spirit and "there shall be peace" (Jerusalem). 
 
-We are still in the Rainbow Age and subject to its low, so we may realize that as the Baptism of the Christian Mystic occurs at a time of spiritual exaltation, it must necessarily be followed by a reaction. The tremendous magnitude of the revelation overpowers him, he cannot realize it or contain it in his fleshly vehicle, so he flees the haunts of men and betakes himself to the solitude allegorically represented as a desert. So rapt is he in his sublime discovery that for the time being in his ecstasy he sees the Loom of Life upon which the bodies of all that live are woven, from the least to the greatest-the mouse and the man, the hunter and his prey, the warrior and his victim. But to him they are not separate and apart, for he also beholds the one divine thread of golden life-light "which runs through all and doth all unite." Nay, more, he hears in each the flaming keynote sounding its aspirations and voicing its hopes and fears, and he perceives this composite color-sound as the world anthem of God made flesh. This is at first entirely beyond his comprehension; the tremendous magnitude of the discovery hides it from him, and he cannot conceive what it is that he sees and feels, for there are no words to describe it, and no concept can cover it. But by degrees it dawns upon him that he is at the very fountain of life, beholding, nay, more, feeling its every pulse beat, and with this comprehension he reaches the climax of his ecstasy. 
+We are still in the Rainbow Age and subject to its law, so we may realize that as the Baptism of the Christian Mystic occurs at a time of spiritual exaltation, it must necessarily be followed by a reaction. The tremendous magnitude of the revelation overpowers him, he cannot realize it or contain it in his fleshly vehicle, so he flees the haunts of men and betakes himself to the solitude allegorically represented as a desert. So rapt is he in his sublime discovery that for the time being in his ecstasy he sees the Loom of Life upon which the bodies of all that live are woven, from the least to the greatest-the mouse and the man, the hunter and his prey, the warrior and his victim. But to him they are not separate and apart, for he also beholds the one divine thread of golden life-light "which runs through all and doth all unite." Nay, more, he hears in each the flaming keynote sounding its aspirations and voicing its hopes and fears, and he perceives this composite color-sound as the world anthem of God made flesh. This is at first entirely beyond his comprehension; the tremendous magnitude of the discovery hides it from him, and he cannot conceive what it is that he sees and feels, for there are no words to describe it, and no concept can cover it. But by degrees it dawns upon him that he is at the very fountain of life, beholding, nay, more, feeling its every pulse beat, and with this comprehension he reaches the climax of his ecstasy. 
 
 So rapt has the Christian Mystic been in his beautiful adventure that bodily wants have been completely forgotten till the ecstasy has passed, and it is therefore only natural that the feeling of hunger should be his first conscious want upon his return to the normal state of consciousness; and also naturally comes the voice of temptation: "Command that these stones be made bread." 
 
