@@ -1,52 +1,52 @@
+---
+title: 'La Interpretación Mística de Pascua'
+language: 'es'
+original_title: "The Mystical Interpretation of Easter"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
 
+<h1 id="the-mystical-interpretation-of-easter">The Mystical Interpretation of Easter</h1>
 
-# LA INTERPRETACIÓN MÍSTICA DE PASCUA
+por Max Heindel [1865-1919]
 
-por
+Compiled from the Numerous Writings and Lectures of a Mystic
 
-Max Heindel
-[1865-1919]
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, U.S.A., 92054  
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
-
-
-Título Original:
-
-"THE MYSTICAL INTERPRETATION OF EASTER"
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-### PRÓLOGO
+### <h3 id="foreword">Prólogo</h3>
 
 La información contenida en este libro fue tomada de las conferencias y de los escritos de Max Heindel y ha sido publicada de tiempo en tiempo, en forma de revista o de libro. La revista Ecos (Echoes) publicada por primera vez por Max Heindel en junio de 1913, contiene un caudal de conocimientos y de sabiduría referente a éste y a otros sucesos importantes de significado Místico varios capítulos sobre Pascua se pueden encontrar también en Recolecciones de un Místico y en Enseñanzas de un Iniciado. 
 
 Este humilde esfuerzo tiene el propósito de ser una inspiración para aquellos que han vislumbrado esa Chispa de Luz y Amor Divino y que se esfuerzan para alcanzar esa meta final que fuera alcanzada por Jesús - Cristo hace dos mil años en el Gólgota. Lo que El logró entonces es la tarea que yace ante cada uno de nosotros. Cuando hayamos rendido el "todo" al Yo Superior o al Cristo en nuestro interior, entonces llegará la resurrección o completa liberación de la materia. Entonces podremos decir con el Cristo: "Consumado está" 
 
+### <h3 id="table-of-contents">Índice de Materias</h3>
+
+- [Capítulo I: El Cristo cósmico](#chapter-1)
+- [Capítulo II: Un evento de significación mística](#chapter-2)
+- [Capítulo III: El significado cósmico de la Pascua (Primera parte)](#chapter-3)
+- [Capítulo IV: El significado cósmico de la Pascua (Segunda parte)](#chapter-4) 
+- [Capítulo V: La lección de Pascua](#chapter-5)
+- [Capítulo VI: El símbolo del huevo](#chapter-6)
+- [Capítulo VII: La luz de Cristo](#chapter-7)
+- [Capítulo VIII: ¿Que se hizo del cuerpo físico de Jesús?](#chapter-8)
+- [Capítulo IX: La Resurrección](#chapter-9)
+
 ### CAPÍTULO I: EL CRISTO CÓSMICO
 
+```
 Aunque Cristo nazca mil veces en Belén  
 Y no dentro de ti, tu alma estará acongojada  
 A la Cruz del Gólgota tú mirarás en vano  
 A menos que dentro de ti, se levante de nuevo.  
-Angelus Silesius  
+
+- Angelus Silesius  
+```
 
 La canción popular del día que todos entonan con entusiasmo pero que es olvidada mañana, la obra que traspone el escenario tal vez durante cien noches sucesivas, para ser relegada al polvoriento estante para siempre, y todas las otras cosas que son envanecentes, demuestran la realidad incontrovertible de que no tienen ningún valor intrínseco. El resplandor de la estrella fugaz puede iluminar los cielos por un momento, pero aunque los demás sean más pálidas y atraen menos atención, su luz alegra al viajero noche tras noche a través de las edades. 
 
@@ -288,18 +288,5 @@ de las estrellas; pues una estrella difiere de otra, en su gloria."
 "Es sembrada en cuerpo natural; es levantada en cuerpo espiritual. Hay un cuerpo natural y hay un cuerpo espiritual."   
 
 "Y así está escrito; el primer hombre Adán fue hecho un alma viviente; el último Adán fue hecho un espíritu vivificado."  
-
-
-ÍNDICE DE MATERIAS
-Prólogo 
-Capítulo I: El Cristo cósmico 
-Capítulo II: Un evento de significación mística 
-Capítulo III: El significado cósmico de la Pascua (Primera parte) 
-Capítulo IV: El significado cósmico de la Pascua (Segunda parte) 
-Capítulo V: La lección de Pascua 
-Capítulo VI: El símbolo del huevo 
-Capítulo VII: La luz de Cristo
-Capítulo VIII: ¿Que se hizo del cuerpo físico de Jesús?
-Capítulo IX: La Resurrección
 
 Fin 
