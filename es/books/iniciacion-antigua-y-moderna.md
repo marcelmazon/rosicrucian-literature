@@ -1,40 +1,23 @@
+---
+title: "Iniciación Antigua y Moderna"
+language: 'es'
+original_title: "Ancient and Modern Initiation"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
 
+<h1 id="ancient-and-modern-initiation">Iniciación Antigua y Moderna</h3>
 
-# INICIACIÓN ANTIGUA Y MODERNA
+por Max Heindel [1865-1919]
 
-por
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+PO Box 713  
+Oceanside, California, 92054, U.S.A.  
 
-Max Heindel
-[1865-1919]
-
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
-
-Título Original:
-
-"ANCIENT AND MODERN INICIATION"
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-EL TABERNACULO EN EL DESIERTO!!!!!!!!!!!!!!!!!!!!
-
-### PREFACIO
+### <h3 id="foreword">PREFACIO</h3>
 
 En el contenido de las páginas de este pequeño volumen se hallan algunas de las más preciadas gemas pertenecientes a las fases más profundas de la religión Cristiana. Estas gemas son el resultado de las investigaciones espirituales del inspirado e iluminado Max Heindel, el mensajero autorizado de los Hermanos Mayores de la Orden Rosacruz, quienes están trabajando para diseminar por todo el mundo occidental el profundo significado espiritual que se halla a la vez, revelado y oculto, dentro de la religión Cristiana. 
 
@@ -47,6 +30,49 @@ La Escuela Rosacruz tiene una herencia inapreciable en la oportunidad de promulg
 Que su Verdad ilumine, su Sabiduría guíe y su Amor abrace a todos aquellos que participen de estas Aguas de Vida, y que todos y cada uno de los que se acerquen a beber de ellas encuentren el Iluminado Sendero que aquí se perfila, es el vehemente deseo de la Fraternidad Rosacruz. 
 
 "El Reino de los Cielos es semejante a un mercader que buscaba perlas, y que una vez que halló una perla de gran valor, fue y vendió todo lo que poseía y la compró." 
+
+### <h3 id="table-of-contents">ÍNDICE DE MATERIAS</h3>
+
+- [PREFACIO](#foreword)
+
+- [Primera Parte - El Tabernáculo En El Desierto](#part-1)
+    - [Capítulo I: El Templo De Misterios Atlante](#part-1-chapter-1)  
+        - [El Tabernáculo En El Desierto](#)  
+        - [El Patio O Atrio Del Tabernáculo](#)  
+    - [Capítulo II: El Altar De Bronce Y El Lavabo O Pila](#part-1-chapter-2)  
+        - [El Lavabo O Pila De Bronce](#)  
+    - [Capítulo III: El Cuarto Oriental Del Templo](#part-1-chapter-3)  
+        - [El Místico Significado Del Cuarto Oriental Y Su Mobiliario](#)  
+        - [El Candelabro De Oro](#)  
+        - [La Mesa Del Pan De Proposición](#)  
+        - [El Altar De Incienso](#)  
+    - [Capítulo IV: El Arca De La Alianza](#part-1-chapter-4)  
+        - [El Pote De Oro De Maná](#)  
+        - [La Vara De Aarón](#)  
+    - [Capítulo V: La Sagrada Gloria Del Shekinah](#part-1-chapter-5)  
+        - [La Sombra De La Cruz](#)  
+        - [La Luna Llena Como Factor Para El Crecimiento Del Alma](#)  
+    - [Capítulo VI: La Luna Nueva Y La Iniciación](#part-1-chapter-6)  
+
+- [Segunda Parte - Iniciación Cristiana Mística](#part-2)
+    - [Capítulo I: La Anunciación Y La Inmaculada Concepción](#part-2-chapter-1)  
+        - [La Anunciación Y La Inmaculada Concepción](#)  
+    - [Capítulo II: El Rito Místico Del Bautismo](#part-2-chapter-2)  
+    - [Capítulo III: La Tentación](#part-2-chapter-3)  
+    - [Capítulo IV: La Transfiguración](#part-2-chapter-4)  
+    - [Capítulo V: La Última Cena Y El Lavatorio De Pies](#part-2-chapter-5)  
+    - [Capítulo VI: Getsemaní: El Huerto De La Agonía](#part-2-chapter-6)  
+    - [Capítulo VII: Las "Estigmatas" Y La Crucifixión](#part-2-chapter-7)  
+
+### <h3 id="illustrations">Índice De Láminas</h3>
+
+- [El Tabernáculo En El Desierto](#illustration-the-tabernacle-in-the-wilderness)  
+- [El Lavabo De Bronce](#illustration-the-brazen-layer)  
+- [El Lugar Santo Y El Sancta Sanctorum](#illustration-the-holy-place-and-the-holy-of-the-holies)  
+- [El Tabernáculo En El Desierto. "La Proyección De Buenas Cosas Venideras," Pablo](#illustration-the-shadow-of-good-things-to-come)  
+- [Iniciación Cristiana Mística: El Camino Por Medio Del Corazón](#illustration-the-christian-mystic-initiation-the-path-through-the-heart)  
+- [Los Nueve Pasos De La Iniciación Cristiana Mística](#illustration-the-nine-steps-of-the-christian-mystic-initiation)  
+- [El Proceso De La Transfiguración](#illustration-the-process-of-transfiguration)  
 
 ## PRIMERA PARTE: EL TABERNÁCULO EN EL DESIERTO
 
@@ -566,48 +592,5 @@ Iabeshab, es la expresión hebrea para significar la tierra, y representa la par
 Este estado del desarrollo espiritual del Cristiano místico, por lo tanto, requiere una reversión de la fuerza creadora o sexual de su curso ordinario hacia abajo, donde generalmente se desperdicia y agota en la satisfacción de pasiones bestiales a una corriente dirigida hacía arriba, a través del triple cordón espinal, cuyos tres segmentos están regidos por la Luna, Marte y Mercurio, respectivamente, y donde los rayos de Neptuno encienden el Fuego regenerador espiritual de la espina dorsal. Esta elevación o ascensión de la fuerza generadora pone en vibración al cuerpo pituitario y a la glándula pineal, abriendo de este modo la vista espiritual del sujeto, y batiendo o percutiendo en el seno o cavidad frontal, da comienzo a los efectos de la corona de espinas, palpitando de dolor cuando la ligazón con el cuerpo físico es consumida por el sagrado Fuego espiritual, que despierta este centro de su milenario letargo, y empezando a latir y a vibrar con vida y que se desparrama hacía los otros centros de la estrella estigmátíca de cinco puntas. Éstos a su vez quedan vitalizados también y todo el vehículo queda encendido y luminoso con una dorada y gloriosa aura. Luego, en un momento oportuno, con un final arranque, el gran vórtice del cuerpo de deseos localizado en el hígado queda en libertad y la energía marciana contenido en tal vehículo impulsa hacía arriba al vehículo sideral (así llamado debido a que las estigmatas de la cabeza, manos y pies están situadas en la misma posición relativa entre sí como lo están los puntos de una estrella de cinco puntas), el cual asciende por medio del cráneo - Gólgota - y entonces el Cristiano crucificado lanza el grito triunfante de: "Consummatum est," y comienza a surcar las sublimes esferas siderales para buscar a Jesús, cuya vida ha imitado con completo éxito y de y de quien desde entonces es campanero inseparable. 
 
 Jesús es su Maestro y su Guía hacía el reino de Cristo, donde todos quedaremos unidos en un solo cuerpo para aprender a practicar la Religión del Padre, a quién el reino revertirá oportunamente para que Él pueda ser Todo en Todos. 
-
-ÍNDICE DE MATERIAS
-
-PREFACIO
-
-Primera Parte - EL TABERNÁCULO EN EL DESIERTO
-Capítulo I: El Templo de Misterios Atlante 
-El Tabenáculo en el Desierto  
-El Patio o Atrio del Tabernáculo  
-Capítulo II: El Altar de Bronce y el Lavabo o Pila   
-El Lavabo o Pila de Bronce
-Capítulo III: El cuarto Oriental del Templo  
-El místico significado del Cuarto Oriental y su Mobiliario  
-El Candelabro de Oro  
-La Mesa del Pan de Proposición  
-El Altar de Incienso  
-Capítulo IV: El Arca de la Alianza  
-El Pote de Oro de Maná  
-La Vara de Aarón  
-Capítulo V: La Sagrada Gloria del Shekinah  
-La Sombra de la Cruz  
-La Luna llena como factor para el crecimiento del alma   
-Capítulo VI: La Luna nueva y la Iniciación  
-
-
-Segunda Parte - INICIACIÓN CRISTIANA MÍSTICA
-Capítulo I: La Anunciación y la Inmaculada Concepción  
-La Anunciación y la Inmaculada Concepción  
-Capítulo II: El rito místico del Bautismo  
-Capítulo III: La Tentación  
-Capítulo IV: La Transfiguración  
-Capítulo V: La última Cena y el Lavatorio de pies  
-Capítulo VI: Getsemaní: el Huerto de la Agonía  
-Capítulo VII: Las "estigmatas" y la Crucifixión  
-
-ÍNDICE DE LÁMINAS
-El Tabernáculo en el Desierto  
-El Lavabo de Bronce  
-El Lugar Santo y el Sancta Sanctorum   
-El Tabernáculo en el desierto. "La proyeccion de buenas cosas venideras," Pablo  
-Iniciacion Cristiana Mistica: El camino por medio del Corazón  
-Los nueve Pasos de la Iniciación cristiana mística  
-El proceso de la Transfiguración  
 
 Fin 
