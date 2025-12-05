@@ -1,16 +1,22 @@
+---
+title: 'The Silver Cord and Seed Atoms'
+language: 'en'
+original_title: "The Silver Cord and Seed Atoms"
+original_language: 'en'
+author: 'A Student'
+original_source_file: 'self'
+---
 
-THE SILVER CORD AND SEED ATOMS
-by
-A Student
+<h1 id="the-silver-cord-and-seed-atoms">The Silver Cord and Seed Atoms</h1>
 
+by A Student
 
 THE ROSICRUCIAN FELLOWSHIP
 MT. ECCLESIA
 P.O. BOX 713
 OCEANSIDE, CALIFORNIA, 92054, USA
 
-
-FOREWORD
+### <h3 id="foreword">FOREWORD</h3>
 
 As the years have gone by much valuable material brought out by the investigations of Max Heindel and some of his early students has been lost sight of, in the pages of old magazines, in lecture notes, and in personal reminiscences handed down from disciple to disciple. In this booklet we have brought together the essential points on the Silver Cord and Seed Atoms, using materials which is not readily available to the present- day student.
 
@@ -20,17 +26,16 @@ The student will do well to re-read all that Max Heindel has published on the Si
 
 We also invite our readers to correspond with us on anything which seems to them of value in research on the subject of Silver Cord and Seed Atom. Research must go on without pause, and each one of us has a duty to the future to retain and pass on every item of scientific knowledge which can be of use.
 
+### <h3 id="contents">CONTENTS</h3>
 
-CONTENTS
-
-Foreword
-Chapter I: The Silver Cord and Seed Atoms at Birth
-Chapter II: The Silver Cord and Seed Atoms During Growth
-Chapter III: The Silver Cord and Seed Atoms During Sleep
-Chapter IV: The Silver Cord and Seed Atoms at Death
-Chapter V: The Silver Cord and Seed Atoms in Evolution
-Chapter VI: Genesis of the Seed Atoms: Our Cosmic Heredity
-Chapter VII: The Future of Man and his Seed Atoms 
+- [Foreword](#foreword)
+- [Chapter I: The Silver Cord and Seed Atoms at Birth](#chapter-1)
+- [Chapter II: The Silver Cord and Seed Atoms During Growth](#chapter-2)
+- [Chapter III: The Silver Cord and Seed Atoms During Sleep](#chapter-3)
+- [Chapter IV: The Silver Cord and Seed Atoms at Death](#chapter-4)
+- [Chapter V: The Silver Cord and Seed Atoms in Evolution](#chapter-5)
+- [Chapter VI: Genesis of the Seed Atoms: Our Cosmic Heredity](#chapter-6)
+- [Chapter VII: The Future of Man and his Seed Atoms](#chapter-7)
 
 
 CHAPTER I
