@@ -1,30 +1,39 @@
-# H. P. BLAVATSKY Y LA DOCTRINA SECRETA
+---
+title: 'Blavatsky y la Doctrina Secreta'
+language: 'es'
+original_title: "Blavatsky and the Secret Doctrine"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
+
+<h1 id="blavatsky-and-the-secret-doctrine">Blavatsky y la Doctrina Secreta</h1>
   
-  Max Heindel
+Por Max Heindel
   
-  Blavatsky and the Secret Doctrine
-  (1933)
-  
-  Max Heindel – H. P. Blavatsky y la Doctrina Secreta
-  ÍNDICE
-  Introducción por Manly P. Hall, página 3.
-  Pequeña Biografía de Max Heindel, página 7.
-  La Doctrina Secreta por Max Heindel:
-  Capítulo 1, página 12.
-  Capítulo 2, página 13.
-  Capítulo 3, página 15.
-  Capítulo 4, página 22.
-  Capítulo 5, página 29.
-  
-### Introducción por Manly P. Hall
+Con una Pequeña Biografía de Max Heindel
+
+Introducción por Manly P. Hall
+
+<h3 id="table-of-contents">Índice</h3>
+
+- [Frontispiece](#frontispiece)
+- [Introducción por Manly P. Hall](#introduction)
+- [Pequeña Biografía de Max Heindel](#biography-of-max-heindel)
+- [Capítulo 1](#chapter-1)
+- [Capítulo 2](#chapter-2)
+- [Capítulo 3](#chapter-3)
+- [Capítulo 4](#chapter-4)
+- [Capítulo 5](#chapter-5)
+- [Aphorisms by Max Heindel](#aphorisms-by-max-heindel)
+
+### <h3 id="introduction">Introducción por Manly P. Hall</h3>
   
 Habría una gran pérdida para los estudiantes del misticismo y la metafísica si este pequeño ensayo acerca de H. P. Blavatsky y “La Doctrina Secreta” no hubiera tenido la oportunidad de ser impreso. 
 
 Max Heindel, el místico Cristiano, hace homenaje a Madame Blavatsky, la ocultista Oriental. Él mira sobre las pequeñas diferencias que dividen el Oeste y el Este y los reconcilia en la gran sabiduría que ha fluido desde Asia, fertilizando las llanuras del mundo newdel pensamiento. Grande es la mente que se regocija en la grandeza de otras mentes. El tributo de Max Heindel a la memoria y trabajo de Blavatsky y sus Maestros es un gesto de extrema belleza en un mundo egoísta a ese tipo de impulsos nobles. 
 
-Vivimos un código de crítica y condenación con muy poca apreciación de los trabajos de otros. Las sectas y creencias construyen paredes a su alrededor, y solo las almas heroicas en quienes las percepciones espirituales están verdaderamente despiertas pueden escalar sobre estas limitaciones imaginarias. 
-
-Rememora los libros que has leído y recuerda cuán sabio es que un escritor hable bien de un colega. Cada hombre, atrapado en sus propias opiniones, da escasa relevancia a las opiniones de los demás. Hay muchos maestros en este mundo que instruyen con palabras pero solo unos pocos instruyen con el ejemplo noble de la hazaña de la generosidad.
+Vivimos un código de crítica y condenación con muy poca apreciación de los trabajos de otros. Las sectas y creencias construyen paredes a su alrededor, y solo las almas heroicas en quienes las percepciones espirituales están verdaderamente despiertas pueden escalar sobre estas limitaciones imaginarias. Rememora los libros que has leído y recuerda cuán sabio es que un escritor hable bien de un colega. Cada hombre, atrapado en sus propias opiniones, da escasa relevancia a las opiniones de los demás. Hay muchos maestros en este mundo que instruyen con palabras pero solo unos pocos instruyen con el ejemplo noble de la hazaña de la generosidad.
 
 En el libro de texto de la metafísica Cristiana, “El Concepto Rosacruz del Cosmos”, Max Heindel se refiere a Madame Blavatsky como “una estudiante fiel de los Maestros Orientales” y en el mismo párrafo él habla de su gran libro “La Doctrina Secreta” como un “excepcional trabajo”. Con su profunda apreciación de los valores espirituales Max Heindel fue eminentemente calificado para reconocer el mérito del trabajo fundamental de Madame Blavatsky. 
 
