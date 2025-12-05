@@ -38,8 +38,7 @@ We also invite our readers to correspond with us on anything which seems to them
 - [Chapter VII: The Future of Man and his Seed Atoms](#chapter-7)
 
 
-CHAPTER I
-AT BIRTH
+### <h3 id="chapter-1">CHAPTER I: AT BIRTH</h3>
 
 We are told in the COSMO-CONCEPTION (page 10) that the Silver Cord grows anew each life: "Other new and important discoveries have been made: for instance, we know now that the Silver Cord is grown anew in each life (i.e., during the uterine period); that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that BOTH PARTS MEET IN THE SEED ATOM OF THE VITAL BODY IN THE SOLAR PLEXUS, AND THAT THIS UNION OF THE HIGHER AND LOWER VEHICLES CAUSES THE QUICKENING. Further development of the cord between the heart and solar plexus during the first seven years has an important bearing on the mystery of child life, likewise its FULLER growth from the liver to the solar plexus, which takes place during the second septenary period (seven to fourteen), is a contributory cause of adolescence. Completion of the Silver Cord marks the end of child life, and from that time the solar energy, which enters through the spleen and is tinted by refraction through the prismatic seed atom of the vital body located in the solar plexus, commences to give a distinctive and individual coloring to the aura which we observe in adults."
 
@@ -63,29 +62,17 @@ The emergence of the vital body at the age of seven from its sheath marks the en
 
 The diagrams shown on the following pages are simplifications. The third segment actually follows a complicated path in its growth. The overall picture is as follows:
 
-The Silver Cord is composed of ether, desire-stuff, and mind-stuff. It is shaped much like two figure sixes reversed, one of which is upright and the other horizontally placed, the two being connected at the extremity of the hooks in the solar plexus. The mind-stuff or third part of the Cord grows from the seed atom of the mind located in the mind-stuff which interpenetrates the frontal sinus area, and from this point it passes downward between the pituitary and pineal glands, turns left to connect with the spleen and crosses back right to the adrenals and finally joins the second part of the Cord which
-
-
-Diagram No. 5 1/2: The Silver Cord
-
-is made of desire-stuff and is rooted in the great astral vortex interpenetrating the liver. From here the astral Cord goes to the solar plexus, where it joins the etheric Cord coming from the seed atom of the heart.
+The Silver Cord is composed of ether, desire-stuff, and mind-stuff. It is shaped much like two figure sixes reversed, one of which is upright and the other horizontally placed, the two being connected at the extremity of the hooks in the solar plexus. The mind-stuff or third part of the Cord grows from the seed atom of the mind located in the mind-stuff which interpenetrates the frontal sinus area, and from this point it passes downward between the pituitary and pineal glands, turns left to connect with the spleen and crosses back right to the adrenals and finally joins the second part of the Cord which is made of desire-stuff and is rooted in the great astral vortex interpenetrating the liver. From here the astral Cord goes to the solar plexus, where it joins the etheric Cord coming from the seed atom of the heart.
 
 But, as shown on page 10 of the COSMO-CONCEPTION, this Cord was rooted first in intrauterine life, and then (as indicated elsewhere) a secondary development takes place after birth, during the time from birth to twenty- eight years of age. The union of the first and second segments marks the quickening in the womb, but twenty-one years (and even twenty-eight) are required for the full maturation of the mental segment and its permanent juncture with the seed atom of the desire body with the great astral vortex permeating the liver.
 
 Let the student take note here of a point often misunderstood: the before-birth panorama which the Ego sees reflected in the etheric body as a preview of the coming life, is seen at the time when it first contacts the fetus, at the end of the twenty days, and not at the quickening which occurs in the fourth month.
 
-Max Heindel says again that of the four points where the Cord is attached-- heart, solar plexus, liver, and frontal sinus--only the end of the Cord in the
-
-
-Diagram: The Threefold Silver Cord
-
-seed atom in the heart is immovable; the other parts with their seed atoms are movable.
+Max Heindel says again that of the four points where the Cord is attached-- heart, solar plexus, liver, and frontal sinus--only the end of the Cord in the seed atom in the heart is immovable; the other parts with their seed atoms are movable.
 
 During the daytime when we are awake in the body, the threefold Silver Cord is COILED IN A SPIRAL WITHIN THE DENSE BODY, principally about the solar plexus or epigastrium; but at night when the Ego withdraws from its dense and vital bodies, leaving them on the bed to recuperate after the labors of the day, the Silver Cord protrudes from the skull. The ovoid desire body usually floats above, or near, the sleeping body, resembling a captive balloon.
 
-
-CHAPTER II
-DURING GROWTH
+### <h3 id="chapter-2">CHAPTER II: DURING GROWTH</h3>
 
 In this chapter brief reference will be made to statements found in notes which Max Heindel left, and which were not verified by his later research. Please consider them with this fact in mind. The description of the threefold Cord given in Chapter I is substantially the whole of the material which Mr. Heindel himself published. In this chapter we use the same basic published data, with the addition of the unverified material, care being taken to let the student know when the latter material is used.
 
@@ -105,12 +92,7 @@ Meanwhile there is a fourth strand of the etheric Cord, corresponding to the men
 
 Analysis of the published material correlated with these experimental notes suggests that the etheric Silver Cord, though movable, actually stays close to the body, and this would account for the thicker section seen close to the body described by clairvoyants.
 
-On stereopticon slides which Max Heindel had prepared, the desire body is shown floating like a balloon over the sleeping body, attached by the Silver Cord which pinches into the pattern of the sixes midway between the desire body and physical body. He has said that there is no difference between sleep
-
-
-Diagram
-
-and death, except that in the former the Ego can return to the body, while in death the seed atom in the heart is ruptured and the Cord breaks at the "sixes" after which the Ego cannot re-enter the body, which is dead (See also pages 39, 46.)
+On stereopticon slides which Max Heindel had prepared, the desire body is shown floating like a balloon over the sleeping body, attached by the Silver Cord which pinches into the pattern of the sixes midway between the desire body and physical body. He has said that there is no difference between sleep and death, except that in the former the Ego can return to the body, while in death the seed atom in the heart is ruptured and the Cord breaks at the "sixes" after which the Ego cannot re-enter the body, which is dead (See also pages 39, 46.)
 
 In other stereopticon slides, prepared by early pupils of Max Heindel, the juncture of the sixes is shown just above the head of the sleeping body, almost lying on the pillow, while the desire-stuff segment rises up and is fastened in the great vortex of the desire body which floats like a balloon above the bed, parallel with the sleeping physical body. Of course, the Cord rises up through the head, with the movable seed atoms.
 
@@ -132,9 +114,7 @@ It would seem that reports of an excessively bulky Silver Cord arise from a misu
 
 Max Heindel states that an improper cleavage takes place when the wrong method of development us used, as in mediumistic classes. Negative development means that a cleavage takes place between the Chemical Ether and the body, or between the Chemical and Life Ethers, and this is the wrong cleavage which may result in various physical illnesses such as tuberculosis, heart trouble, nerve exhaustion, or mental derangement. The proper cleavage, which takes place between the two higher and the two lower ethers, results from the discipline of the positive training of the Mystery Schools, which includes the work of Meditation and Contemplation, and further includes the Evening and Morning exercises, and the esoteric instruction from the teacher when the pupil qualifies. But note this: even the Evening and Morning Exercises alone actually bring about the right cleavage when faithfully performed if the pupil is living a spiritually oriented life.
 
-
-CHAPTER III
-DURING SLEEP
+### <h3 id="chapter-3">CHAPTER III: DURING SLEEP</h3>
 
 A point to be kept in mind concerning the Silver Cord is that the higher parts of the Cord BELONG TO THE HIGHER VEHICLES AND GO WITH THEM. For example: the desire-stuff part of the major Cord connects the seed atom of the desire body in the great vortex in the liver with the seed atom of the vital body in the solar plexus. It is not that they connect liver with solar plexus; they connect desire body with vital body, by way of the Cord and seed atoms. This segment passing from liver to solar plexus (as seen in the body) is made up of desire-stuff, and is the means, obviously, by which the harmonic essence of the Desire World is able to pass down and work upon the etheric body and, eventually, the physical organism.
 
@@ -170,9 +150,7 @@ The Silver Cord has a very special correlation with this sympathetic nervous sys
 
 Just as occult scientists have identified, or perhaps confused, etheric centers with the nerve ganglia of the body, with which they are so intimately concerned, so also clairvoyants who observed the Silver Cord and who learned of the nature and extent of the vagus (wandering) nerve in the autonomic system thought that the one was, perhaps, a reflection or counterpart of the other, and in this they were not wholly at fault.
 
-
-CHAPTER IV
-AT DEATH
+### <h3 id="chapter-4">CHAPTER IV: AT DEATH</h3>
 
 Death of the physical body takes place when, as a result of the collapse of the archetype, the vital body collapses completely and the seed atom in the apex of the heart is ruptured, the Ego rising out of the body in its astral aura and taking the etheric matrix with it. When the seed atom is ruptured, it is the result of the Ego's taking out of that atom its "forces," which hold the permanent record of the Ego's entire evolution, from the very beginning in the Saturn Period. The etheric cord is still attached to the ruptured shell of the seed atom in the apex of the heart, however, and for not more than three and one-half days after death the vital body, enclosed in the desire body, may still be seen floating above the body. The floating "double" is in a deep sleep. During this time it reviews its panorama of the life just past which has been taken out of the heart's seed atom of the Reflecting Ether.
 
@@ -208,9 +186,7 @@ We are told the work of Initiation includes releasing the Ego at all those point
 
 Observe that the heart, as a physical organ, lies directly in the center of the chest, but IT IS TILTED TO THE LEFT SIDE, so that the apex, or point of the heart, protrudes from under the breast bone, and that is why we feel it most clearly there and here it beating there. In the apex the seed atom of the physical body is placed as has been noted. Some day the heart will be upright in the chest, the point which is now off to the left will move to the center of the body, and the heart will be aligned with the organs of spiritual vision in the head. In meditation, it is the upper part of the heart, which is in the center of the chest, that is important; and students often feel the currents which are active in that area.
 
-
-CHAPTER V
-THE SILVER CORD AND SEED ATOMS IN EVOLUTION
+### <h3 id="chapter-5">CHAPTER V: THE SILVER CORD AND SEED ATOMS IN EVOLUTION</h3>
 
 Most of what Max Heindel has given concerning the evolution of the Silver Cord in past epochs is found in the second volume of QUESTIONS AND ANSWERS, pages 425-432, which also recapitulates material in the COSMO. There we read:
 
@@ -240,16 +216,9 @@ That there are exceptional animals Max Heindel admits in a number of places in h
 
 Concerning the forces which reside in the seed atom of the heart, Max Heindel writes (CHRISTIANITY LECTURES, pp. 79-80): "Physical science knows that whatever the power which moves the heart, it does not come from without, but is inside the heart....The force in that atom like the forces in all other atoms is the UNDIFFERENTIATED LIFE OF GOD; without that force the mineral could not form matter into crystals; the plant, animal, and human kingdoms would be unable to form their bodies. The deeper we go the plainer it becomes to us how fundamentally true it is that in God we live, and move, and have our being.
 
-"That atom is called the seed atom. The force within it moves the heart and keeps the organism alive. All the other atoms in the whole body must vibrate in tune with this atom. The forces of the seed atom have been immanent in every dense body ever possessed by the particular Ego to whom it is attached, and upon its plastic tablet are inscribed all the experiences of that particular Ego in all its lives. When we return to God, when we shall all have become one in God once more, that record, which is peculiarly God's record,
+"That atom is called the seed atom. The force within it moves the heart and keeps the organism alive. All the other atoms in the whole body must vibrate in tune with this atom. The forces of the seed atom have been immanent in every dense body ever possessed by the particular Ego to whom it is attached, and upon its plastic tablet are inscribed all the experiences of that particular Ego in all its lives. When we return to God, when we shall all have become one in God once more, that record, which is peculiarly God's record,will still remain and thus we shall retain our individuality. Our experiences we transmute....into faculties; the evil is transmuted into good and the good we retain as power for higher good, but the RECORD of the experience is OF God, and IS God, in the most intimate sense."
 
-
-Diagram
-
-will still remain and thus we shall retain our individuality. Our experiences we transmute....into faculties; the evil is transmuted into good and the good we retain as power for higher good, but the RECORD of the experience is OF God, and IS God, in the most intimate sense."
-
-
-CHAPTER VI
-GENESIS OF THE SEED ATOMS: OUR COSMIC HEREDITY
+### <h3 id="chapter-6">CHAPTER VI: GENESIS OF THE SEED ATOMS: OUR COSMIC HEREDITY</h3>
 
 In the foregoing chapters we have discussed the Silver Cord and Seed Atoms from the point of view of the importance of the Cord. In the final chapters we will discuss the seed atoms themselves, in terms of their evolution, present condition, and future development.
 
@@ -281,21 +250,9 @@ In the Sun Period, or second Cosmic Day, the Hierarchs of Cancer, the Cherubim, 
 
 Finally, in the lowest, the fourth or Earth Period, the Lords of Form were given charge of our evolution. The Lords of Form represent the constellation Scorpio; and the occult scientist really does mean that spiritual Intelligences did in actual fact come to our solar system from that far-off constellation which, with Sagittarius, lies between us and the center of our galaxy. The Lords of Mind from Sagittarius gave to mankind the seed atom, or germ of the mind as thought form; but later on in the Earth Period the Mercurians came to help us to develop that mind. The germ of mind was given to the PIONEERS of humankind in the Lemurian Epoch; then the germ of mind was given to the MASSES in the Atlantean Epoch.
 
-The masses of mankind received the germ of mind in the Atlantean Epoch. The germ of mind is the seed atom of the mind. The pioneers, however, received the germ of mind in Lemuria. ["In this Epoch (Lemurian)....the Lords of Mind GAVE the germ of Mind to the greater part of the pioneers...."--COSMO, p. 265.] At the end of our evolution in the Vulcan Period, the mind will embody ALL powers of ALL the perfected lower vehicles. This is foreshown in the fact that, between embodiments of rebirths on Earth, the Ego takes with it into the Third Heaven the seed atoms of all of the four vehicles, and that the mid-region of
+The masses of mankind received the germ of mind in the Atlantean Epoch. The germ of mind is the seed atom of the mind. The pioneers, however, received the germ of mind in Lemuria. ["In this Epoch (Lemurian)....the Lords of Mind GAVE the germ of Mind to the greater part of the pioneers...."--COSMO, p. 265.] At the end of our evolution in the Vulcan Period, the mind will embody ALL powers of ALL the perfected lower vehicles. This is foreshown in the fact that, between embodiments of rebirths on Earth, the Ego takes with it into the Third Heaven the seed atoms of all of the four vehicles, and that the mid-region of the World of Thought is called the REGION OF ARCHETYPAL FORCES, and the point where Spirit focuses into matter. This region is the most important to the evolution of the seed atoms. Each seed atom is worked over and improved in each World Period.
 
-
-Diagram
-
-the World of Thought is called the REGION OF ARCHETYPAL FORCES, and the point
-
-
-Diagram
-
-where Spirit focuses into matter. This region is the most important to the evolution of the seed atoms. Each seed atom is worked over and improved in each World Period.
-
-
-CHAPTER VII
-THE FUTURE OF MAN AND HIS SEED ATOMS
+### <h3 id="chapter-7">CHAPTER VII: THE FUTURE OF MAN AND HIS SEED ATOMS</h3>
 
 When, after receiving the germ of mind from the Lords of Mind from Sagittarius, infant mankind was led astray by the martian Lucifer Spirits, certain ones of the more advanced humanity of the planets Venus and Mercury came to our assistance. We say, a more advanced HUMANITY of those planets, because our life wave of Virgin Spirits (to the number of about sixty billion monads) is distributed on all the planets of out solar system, with the exception of the two outer "mystery" planets, so-called: Neptune and Pluto. Evolution differs from planet to planet, however, so the Egos are not all equal in development, the Venusians and Mercurians being ahead of earth humanity in civilization. However, even among these advanced races some were less advanced than others, and their backward ones, at first exiled, so to speak, to their moons, later were sent to earth to finish their karmic lessons here by aiding us. Meanwhile, the moons which once circled the two inner planets, dissolved and gradually were swept up into the asteroid belt, according to occult findings. Moons from other planets may also be there, as from Mars, Jupiter, and Saturn.
 
@@ -315,21 +272,4 @@ We have traced the evolution of the seed atoms through the three involutionary W
 
 The first Great Initiation "gives the stage of consciousness which will be attained by ordinary humanity at the end of the Earth Period; the second that to which all will attain at the end of the Jupiter Period; the third gives the extension of consciousness to be reached at the close of the Venus Period; the last brings the Initiate the power and omniscience to which the majority will attain only at the end of the Vulcan Period." (COSMO, page 417.)
 
-
-End of
-The Silver Cord and Seed Atoms
-
-
-
-
-Table of Contents
-Click here to return to The Rosicrucian Fellowship Home Page.
-Rosicrucian Fellowship Philosophy Study Courses information
-Order the printed version of this book. 
-
-
-Rosicrucian Fellowship - International Headquarters
-2222 Mission Avenue, Oceanside, CA 92058-2329, USA
-(760) 757 - 6600
-Contact us
-
+End of The Silver Cord and Seed Atoms
