@@ -1,46 +1,41 @@
-# LOS ESPÍRITUS Y LAS FUERZAS DE LA NATURALEZA
+---
+title: "Los Espíritus y las Fuerzas de la Naturaleza"
+language: 'es'
+original_title: "Nature Spirits and Nature Forces"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'nature-spirits-and-nature-forces.md'
+---
 
-por
+<h1 id="nature-spirits-and-nature-forces">Los Espíritus y las Fuerzas de la Naturaleza</h1>
 
-Max Heindel
-[1865-1919]
+por Max Heindel [1865-1919]
 
-LEMA Y MISIÓN ROSACRUZ:
-UNA MENTE PURA
-UN CORAZÓN NOBLE
-UN CUERPO SANO
+Foreword by Augusta Foss Heindel
 
-Título Original:
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-"NATURE SPIRITS AND NATURE FORCES"
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O. Box 713
-Oceanside, CA. 92049-0713 USA
-
-Envíe correspondencia a:
-spanish@rosicrucianfellowship.org
-
-Visite nuestro web site:
-www.rosicrucian.com/foreign/spanish.htm
-
-Copyright
-by
-The Rosicrucian Fellowship
-
-Click aquí para ir al ÍNDICE DE MATERIAS
-
-### PRÓLOGO
+### <h3 id="foreword">PRÓLOGO</h3>
 
 Este volumen contiene los escritos místicos de Max Heindel sobre el poco entendido tema de los Espíritus de la Naturaleza y las Fuerzas Naturales. Es, en realidad, una correlación de sus muchas obras, que han sido compiladas en un volumen por uno de los estudiantes del autor. 
 
-Se reconoce generalmente a Max Heindel como el más adelantado de los Místicos del Occidente. En sus numerosas obras ha dado al mundo verdaderas minas de conocimientos acerca de los espíritus de la Naturaleza, esos pequeños seres con los cuales tuvo tantas y tan interesantes experiencias. El que esto escribe a oído muchas historias, que desgraciadamente no fueron escritas, de sus experiencias con estos espíritus, de su manera de vivir y de su apariencia. Muchas veces había dicho que alguna vez pensaba escribir un libro sobre estos espíritus de la Naturaleza, pero el arduo trabajo que tenía entre manos para abrir el camino, impidió que se plasmara esta obra tan necesaria. 
+Se reconoce generalmente a Max Heindel como el más adelantado de los Místicos del Occidente. En sus numerosas obras ha dado al mundo verdaderas minas de conocimientos acerca de los espíritus de la Naturaleza, esos pequeños seres con los cuales tuvo tantas y tan interesantes experiencias. El que esto escribe a oído muchas historias, que desgraciadamente no fueron escritas, de sus experiencias con estos espíritus, de su manera de vivir y de su apariencia. Muchas veces había dicho que alguna vez pensaba escribir un libro sobre estos espíritus de la Naturaleza, pero el arduo trabajo que tenía entre manos para abrir el camino, impidió que se plasmara esta obra tan necesaria. Sin embargo, de vez en cuando fue dando detalles y datos en sus diversos escritos, los cuales han sido ahora recopilados, de manera que no sea posible darlos al mundo en un volumen condensado. En los 54 años que ocupó su cuerpo físico, dio al mundo numerosas obras del mayor valor. El libro maravilloso "Concepto Rosacruz del Cosmos" ha sido ya traducido a muchos idiomas y ha alcanzado ya su décimo quinta edición. Este no es más que uno entre numerosos libros que legó al mundo para que adquiera conocimiento y disfrutara de el. Sus libros sobre Astrología son los más reputados y comprensibles que hayan existido jamás. Y su seducción principal es su manera clara y sencilla de impartir sus conocimientos a los demás. 
 
-Sin embargo, de vez en cuando fue dando detalles y datos en sus diversos escritos, los cuales han sido ahora recopilados, de manera que no sea posible darlos al mundo en un volumen condensado. En los 54 años que ocupó su cuerpo físico, dio al mundo numerosas obras del mayor valor. El libro maravilloso "Concepto Rosacruz del Cosmos" ha sido ya traducido a muchos idiomas y ha alcanzado ya su décimo quinta edición. Este no es más que uno entre numerosos libros que legó al mundo para que adquiera conocimiento y disfrutara de el. Sus libros sobre Astrología son los más reputados y comprensibles que hayan existido jamás. Y su seducción principal es su manera clara y sencilla de impartir sus conocimientos a los demás. 
+\- Augusta Foss Heindel, 15 de Abril de 1937. 
 
-AUGUSTA FOSS HEINDEL 
+<h3 id="contents">Índice de Materias</h3>
 
-15 de Abril de 1937. 
+- [Prólogo](#foreword)
+- [Capítulo I; Los éteres y las Leyes de la Naturaleza](#chapter-1)
+- [Capítulo II: La actividad en los mundos celestiales y las fuerzas de la Naturaleza](#chapter-2)
+- [Capítulo III: La misión del Cristo y el festival de las hadas](#chapter-3)
+- [Capítulo IV: Las fuerzas de los distintos períodos](#chapter-4)
+- [Capítulo V: El espíritu de la Tierra](#chapter-5)
+- [Capítulo VI: Dos preguntas y sus respuestas](#chapter-6)
+- [Capítulo VII: La constitución de la Tierra y las erupciones volcánicas](#chapter-7)
 
 ### CAPÍTULO I: LOS ÉTERES Y LAS LEYES DE LA NATURALEZA
 
@@ -229,22 +224,5 @@ Las fuerzas de este estrato son, en todo momento, un reflejo exacto del estado d
 9.- Expresión Material del Espíritu Terrestre: Existen aquí corrientes lemniscatas (en forma de 8) que están íntimamente relacionadas con el cerebro, el corazón y los órganos sexuales de la raza humana. Corresponde al mundo de Dios. 
 
 10.-Centro del Ser del Espíritu Terrestre: Nada más puede decirse acerca de éste, sino que es el estrato germinal ultérrimo de todo cuanto hay en la Tierra y corresponde al Absoluto. 
-
-ÍNDICE DE MATERIAS
-Prólogo
-Capítulo I 
-Los éteres y las Leyes de la Naturaleza
-Capítulo II 
-La actividad en los mundos celestiales y las fuerzas de la Naturaleza
-Capítulo III 
-La misión del Cristo y el festival de las hadas
-Capítulo IV 
-Las fuerzas de los distintos períodos
-Capítulo V 
-El espíritu de la Tierra
-Capítulo VI 
-Dos preguntas y sus respuestas
-Capítulo VII 
-La constitución de la Tierra y las erupciones volcánicas 
 
 Fin 
