@@ -1,80 +1,70 @@
 ---
-title: "Etheric Vision and what it Reveals"
+title: "The Mystery of the Ductless Glands"
 language: 'en'
-original_title: "Etheric Vision and what it Reveals"
+original_title: "The Mystery of the Ductless Glands"
 original_language: 'en'
 author: 'A Student'
 original_source_file: 'self'
 ---
 
+<h1 id="the-mystery-of-the-ductless-glands">The Mystery of the Ductless Glands</h1>
 
+by A Student
 
+THE ROSICRUCIAN FELLOWSHIP  
+MOUNT ECCLESIA  
+P.O. BOX 713  
+OCEANSIDE, CALIFORNIA, 92054, USA  
 
-THE MYSTERY OF THE DUCTLESS GLANDS
-by
-A Student
-
-
-
-THE ROSICRUCIAN FELLOWSHIP
-MOUNT ECCLESIA
-P.O. BOX 713
-OCEANSIDE, CALIFORNIA, 92054, USA
-
-
-DEDICATION
+### <h3 id="dedication">Dedication</h3>
 
 This modest little volume is dedicated to my beloved teacher, Max Heindel, for whose spiritual instruction the author owes a debt of sincere gratitude that cannot possibly be expressed in words.
 
-
-FOREWORD
+### <h3 id="foreword">Foreword</h3>
 
 The subject matter of this booklet was sent out by The Rosicrucian Fellowship in the form of monthly lessons. After the supply was exhausted so many requests came in for copies of them that The Board of Trustees decided to reprint the lessons in one volume in order that they would be available to all who are interested in the structure, function, and spiritual significance of the seven ductless glands herein discussed. The spiritual function of the glands as discussed in this work is based on extraordinary information given out by Max Heindel. The psychological structure and function is based on valuable information gleaned from the textbook on the ductless glands written by Dr. Louis Berman, to whom the author wishes to extend most grateful thanks.
 
-Mt. Ecclesia
-June 1940
+Mt. Ecclesia, June 1940
 
+### <h3 id="contents">Contents</h3>
 
-CONTENTS
+- [Dedication](#dedication)
+- [Foreword](#foreword)
+- [Chapter I: MAN'S DEVELOPMENT](#chapter-1)
+    - [Individual Work of the Spirit](#individual-work-of-the-spirit)
+    - [The Adrenals](#the-adrenals)
+- [Chapter II: TYPES PRODUCED BY THE DUCTLESS GLANDS](#chapter-2)
+    - [Adrenal Type of Personality](#adrenal-type-of-personality)
+- [Chapter III: THE SPLEEN](#chapter-3)
+    - [Personality Type](#personality-type)
+- [Chapter IV: THE THYMUS GLAND](#chapter-4)
+    - [The Gland of Child Development](#the-gland-of-child-development)
+    - [Thymus Type of Personality](#thymus-type-of-personality)
+- [Chapter V: THE THYROID GLAND](#chapter-5)
+    - [The Gland of Energy](#the-gland-of-energy)
+    - [Comparison of Thyroid and Pituitary](#comparison-of-thyroid-and-pituitary)
+    - [Thyroid Type of Personality](#thyroid-type-of-personality)
+- [Chapter VI: THE PITUITARY BODY](#chapter-6)
+    - [Pituitary Types of Personality](#pituitary-types-of-personality)
+- [Chapter VII: THE PINEAL GLAND](#chapter-7)
+    - [Pineal Type of Personality](#pineal-type-of-personality)
+- [Chapter VIII: SPIRITUAL CORRESPONDENCES](#chapter-8)
+    - [Ductless Glands and Their Rulers](#ductless-glands-and-their-rulers)
+    - [Adrenal Glands--Physical World--Jupiter](#adrenal-glands--physical-world--jupiter)
+    - [Spleen--Etheric Region--Sun](#spleen--etheric-region--sun)
+    - [Thymus--Desire World--Venus](#thymus--desire-world--venus)
+    - [Thyroid--World-of-Thought--Mercury](#thyroid--world-of-thought--mercury)
+    - [Pituitary--World-of-Life-Spirit--Uranus](#pituitary--world-of-life-spirit--uranus)
+    - [Pineal--World-of-Divine-Spirit--Neptune](#pineal--world-of-divine-spirit--neptune)
 
-Dedication
-Foreword
-Chapter I: MAN'S DEVELOPMENT
-    Individual Work of the Spirit
-    The Adrenals 
-Chapter II: TYPES PRODUCED BY THE DUCTLESS GLANDS
-    Adrenal Type of Personality 
-Chapter III: THE SPLEEN
-    Personality Type 
-Chapter IV: THE THYMUS GLAND
-    The Gland of Child Development
-    Thymus Type of Personality 
-Chapter V: THE THYROID GLAND
-    The Gland of Energy
-    Comparison of Thyroid and Pituitary
-    Thyroid Type of Personality 
-Chapter VI: THE PITUITARY BODY
-    Pituitary Types of Personality 
-Chapter VII: THE PINEAL GLAND
-    Pineal Type of Personality 
-Chapter VIII: SPIRITUAL CORRESPONDENCES
-    Ductless Glands and Their Rulers
-    Adrenal Glands--Physical World--Jupiter
-    Spleen--Etheric Region--Sun
-    Thymus--Desire World--Venus
-    Thyroid--World of Thought--Mercury
-    Pituitary--World of Life Spirit--Uranus
-    Pineal--World of Divine Spirit--Neptune 
+### <h3 id="Illustrations">ILLUSTRATIONS</h3>
 
-
-ILLUSTRATIONS
-
-Adrenal Type
-Thymus Type
-Thyroid Type
-Pituitary Type
-Pineal Type
-Ductless Glands and Their Rulers 
+- [Adrenal Type](#adrenal-type)
+- [Thymus Type](#thymus-type)
+- [Thyroid Type](#thyroid-type)
+- [Pituitary Type](#pituitary-type)
+- [Pineal Type](#pineal-type)
+- [Ductless Glands and Their Rulers](#ductless-glands-and-their-rulers)
 
 
 THE MYSTERY OF THE DUCTLESS GLANDS
