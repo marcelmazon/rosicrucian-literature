@@ -1,18 +1,22 @@
+---
+title: "Etheric Vision and what it Reveals"
+language: 'en'
+original_title: "Etheric Vision and what it Reveals"
+original_language: 'en'
+author: 'A Student'
+original_source_file: 'self'
+---
 
+<h1 id="etheric-vision-and-what-it-reveals">Etheric Vision and What It Reveals</h1>
 
-
-ETHERIC VISION AND WHAT IT REVEALS
-by
-A Student
-
+by A Student
 
 THE ROSICRUCIAN FELLOWSHIP
 MT. ECCLESIA
 P.O. BOX 713
 OCEANSIDE, CALIFORNIA, 92054, USA
 
-
-FOREWORD
+### <h3 id="foreword">Foreword</h3>
 
 The material in this booklet is a reprint (with some revisions and additions) of monthly lessons sent out by The Rosicrucian Fellowship to its members, and is a summary of studies and researches conducted by the students in the Esoteric Section of the Fellowship. The conclusions reached, as is often the case in scientific investigations, may have to be revised in the light of future developments and work.
 
@@ -26,36 +30,30 @@ In addition to the Teacher of the Eon, however, a messenger is also sent out onc
 
 Man's immediate Utopia is no mere city on earth's surface, nor any of earth's lands, but the whole living universe, through which the mystic hears the rushing of the Wings of God and the unceasing Song of His Word.
 
+### <h3 id="contents">Contents</h3>
 
-CONTENTS
-PART I--THE CHEMICAL ETHER
+- [PART I — THE CHEMICAL ETHER](#part-1)
+    - [1 - The Nature of Etheric Sight](#chapter-1)  
+    - [2 - The Chemical Ether in the Human Body](#chapter-2)  
+    - [3 - Atoms and Molecules](#chapter-3)  
+- [PART II — THE LIFE ETHER](#part-2)
+    - [4 - The Life Ether and Genetics](#chapter-4)  
+    - [5 - The Spiral of Life](#chapter-5)  
+    - [6 - Organic versus Inorganic Magnetism](#chapter-6)  
+    - [7 - The Life Ether and Cosmic Fire](#chapter-7)  
+    - [8 - Star and Spiral](#chapter-8)  
+- [PART III — THE LIGHT ETHER](#part-3)
+    - [9 - The Light Ether and the Sun](#chapter-9)  
+    - [10 - The Occultist's View of the Light Ether](#chapter-10)  
+    - [11 - Summary: The Three Ethers](#chapter-11)  
+- [PART IV — THE REFLECTING ETHER](#part-4)
+    - [12 - Between Two Skies](#chapter-12)  
+    - [13 - What the Reflecting Ether Reflects](#chapter-13)  
+    - [14 - The Reflecting Ether and Records of Previous Incarnations](#chapter-14)  
+    - [15 - The Reflecting Ether and its Relationship to Matter](#chapter-15)  
+    - [16 - The Reflecting Ether and Archetypal Forces](#chapter-16)  
+    - [A Study of Cosmo-Conception Diagram No.1, page 52](#)
 
-1--The Nature of Etheric Sight
-2--The Chemical Ether in the Human Body
-3--Atoms and Molecules 
-
-PART II--THE LIFE ETHER
-
-4--The Life Ether and Genetics
-5--The Spiral of Life
-6--Organic versus Inorganic Magnetism
-7--The Life Ether and Cosmic Fire
-8--Star and Spiral 
-
-PART III--THE LIGHT ETHER
-
-9--The Light Ether and the Sun
-10--The Occultist's View of the Light Ether
-11--Summary: The Three Ethers 
-
-PART IV--THE REFLECTING ETHER
-
-12--Between Two Skies
-13--What the Reflecting Ether Reflects
-14--The Reflecting Ether and Records of Previous Incarnations
-15--The Reflecting Ether and its Relationship to Matter
-16--The Reflecting Ether and Archetypal Forces
-    --A Study of Cosmo-Conception Diagram No.1, page 52 
 
 
 PART I--THE CHEMICAL ETHER
