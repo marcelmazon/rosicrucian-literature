@@ -27,7 +27,7 @@ Third Printing
 - [Chapter 8: The Horoscope Abstracted](#chapter-8)
 - [Chapter 9: Condensation of the Horoscope](#chapter-9)
 
-Chapter I: The "Bad" Aspects
+### <h3 id="chapter-1">Chapter I: The "Bad" Aspects</h3>
 
 Time was when the writer shared with many astrological students the understanding that "square" and "opposition," being "bad" aspects meant the same thing; also that "good" aspects, the trine and sextile, were thought of as being the same. Time came when the writer realized that if "square" meant the same as "opposition," and "sextile" the same as "trine," the same symbol would be used for both pairs of aspects. It must be established in the minds of students that every symbol utilized in astrology has its own particular, unique significance and that no two symbols can really mean the same thing. There would be no point to such an approach. These symbols are picturings of profound spiritual realizations which were given to Humanity by the Great Ones ages ago.
 
@@ -71,8 +71,7 @@ A happy ending: even the square or opposition aspects can be "life-savers" of gr
 
 Life does not punish us through our squares and oppositions; it teaches us our most needed lessons through them if we wish to learn to become aware of our needed regenerations. 
 
-Chapter II
-The "Good" Aspects
+### <h3 id="chapter-2">Chapter II: The "Good" Aspects</h3>
 
 The function of the sextile and trine aspects is to reveal relative degrees of the regenerate consciousness of humanity. They are our points of enlightenment; our "urgings toward greater Good" (sextile) and "realization of unfolded Good" (trine). The sextile is the process by which the trine is created.
 
@@ -112,8 +111,7 @@ Civilizations rise, flower, and fall; individuals rise to, pass through, and tra
 
 Through your trine aspects you are aware of your God- consciousness--you are "in tune" with your best: the amplitude, beauty, and harmony of your outer conditions are the reflections of your regenerated consciousness. Do more than just enjoy your trines--share them with all people you contact by keeping your "trined consciousness" alive and expressive always. In this way you not only share your treasures but, by the power of sympathetic vibrations, you "ignite" other people to a greater awareness of their inner Good, and thereby stimulate the good aspects in their charts. 
 
-Chapter III
-The T-Cross and Grand Cross Aspects
+### <h3 id="chapter-3">Chapter III: The T-Cross and Grand Cross Aspects</h3>
 
 These two aspect-patterns are regarded by many astrological readers with feelings of considerable negative concern for the persons represented by the charts. It is true that life-lessons of grave import and evolutionary significance are indicated by these patterns. It is just as true that the astrological reader must learn to regard them impersonally and unemotionally, with philosophic calm, if he is to interpret them in a serviceable way.
 
@@ -167,8 +165,7 @@ In conclusion there are a few special approaches which should be taken into cons
 
 If the Moon is configurated in either of these aspect-patterns, then scientific knowledge concerning the purpose and action of the instinctual mind will be particularly helpful; because this person has undertaken a big assignment, for this life-time, in clearing negative residues from past lives. If the planetary Ascendant ruler is configurated, the evidence is shown that the person will experience considerable re-focalization through physical difficulties and information concerning the occult or spiritual co-relations of Law with physical Conditions may prove the answer to his greatest evolutionary need. If Uranus is a factor, then exercise in intelligent adjustment to changes is indicated as a part of the spiritual assignment-- especially if Uranus is squared or opposed by Saturn and Saturn has the predominant influence in the chart generally. The inclusion of Jupiter in these patterns indicates that sincerity of motivation is to be exercised to neutralize or alchemicalize tendencies of false pride and unfruitful compensations. Mercury's inclusion indicates that mental discipline and Clarification is to be distilled from the concentration of experience as well as improvement in methods of communication. The Sun's inclusion in these patterns is especially significant; the basic purpose of the concentration of experience is to--evolutionarily--turn the attention of the person God-ward, to realize his true Source of Life and Being. 
 
-Chapter IV
-The Trine and Grand-Trine Aspects
+### <h3 id="chapter-4">Chapter IV: The Trine and Grand-Trine Aspects</h3>
 
 The Trine and Grand-Trine have regenerate correspondence, respectively, to the T-Cross and Grand-Cross Aspects. The lines connecting the three planetary points of a minimum T-Cross form a triangle, and each diameter of the square formed by the connecting lines of a Grand-Cross cuts the square into two triangles. The occult difference between the two types is that in the Cross-aspects, the principal structural angle is the right-angle of exactly or approximately ninety degrees which depicts the tension, resistance, congestion, and gravitational pull of the Square aspect. Lines from the center of a horoscopical circle which touch the circumference at three points representing planets which are exactly in Grand-Trine aspect to each other, form three angles of 120 degrees at the circle 's center. Any line connecting two of these planetary points to each other is one of the three sides of an equilateral triangle, identifying the relationship of the two planets to each other as being in Trine aspect. The spiritualized essence of Trine aspects is pictorially revealed in the fact that the three angles of a Grand-Trine are each sixty degrees--the numerical value of the Sextile aspect. Since the Grand-Trine is an enclosed figure, its design and angle- quality reveal that it is a result, in consciousness of previous sextilic exercises in regeneration and alchemy. The center-angle formed by two radii connected to planetary points that are Trine to each other is 120 degrees, the sum of two sextiles. The single trine is not enclosed, but it indicates a stage of relative equilibrium having been attained by the person who is now, possibly, in the process of creating a Grand-Trine. The single Trine is evolutionary flowering, the Grand-Trine is evolutionary fruitage.
 
@@ -194,8 +191,7 @@ Correlation with the rest of the chart is especially important in the study of t
 
 Other types of charts can indicate, by aspect- correlation, that the person brings in a Grand-Trine to alchemicalize great areas of unfulfilled or unregenerate destiny. In which case, he will be impelled--for survival and resolution--to put to use the full extent of his Grand-Trine powers and abilities in term of his own individual on-going in relationship to his race and to Humanity in general. A comparative correlation of Saturn with the Dynamic Factors--Sun, Mars, Jupiter and Uranus--in sympathy or contrast with the Grand-Trine is important to this type of chart. If Saturn is one of the Grand-Trine Planets, then the powers of patience, practicality, conscientiousness, and thoroughness are indicated to be part of the enspiritualizing equipment. But if Saturn contrasts with the Grand-Trine, then the picture is shown in a general way that old, deep karmic conditions must be resolved by the regenerating exercise of the Grand-Trine powers. 
 
-Chapter V
-The Variable Aspects
+### <h3 id="chapter-5">Chapter V: The Variable Aspects</h3>
 
 In addition to the fire major aspect-patterns (conjunction, sextile, square, trine, and opposition) there are three others with which the astrological student should be acquainted for more complete evaluation of horoscopes. They are the semi-sextile and semi-square and the quincunx. The semi-sextile and semi-square are "young" aspects. The quincunx is particularly important from an alchemical standpoint; it is the most variable of all aspect-patterns and is of prime importance to all astrological study pertaining to "inertia versus propulsion" in consciousness. It is the one aspect-pattern which, in itself, illustrates alchemical potential which is stimulated in variable ways by rhythmic activations.
 
@@ -221,8 +217,7 @@ Two quincunx aspects which both include one particular zodiacal sign total the e
 
 For practical astrological use, the quincunx is most important in the study of timings. As a natal aspect it pictures a potential of alchemical variation; when studied in terms of activations it reveals a continual periodic emphasis which alternates the yet-to-be- regenerated factors and the relatively regenerated factors. A simple illustration: Sun in 15 Aries, quincunx Saturn in 15 Virgo; 15 Gemini: sextile Sun, square Saturn; 15 Cancer: square Sun, sextile Saturn; 15 Sagittarius: trine Sun, square Saturn.16 Capricorn: square Sun , trine Saturn. The l50 degrees of each exact quincunx are zodiacally counterparted by the remaining 210 degrees which include a two-fold sequence of square and trine to the natal quincunx planets. Within the 150 degree area, sextilic powers are to be employed to regenerate the square tendencies; in the 210 degree area, trine- powers are used to alchemicalize the square tendencies. In the above Sun- Saturn illustration, it would appear that the unfoldment of spiritualized executive power and ability is the purpose of the quincunx by experiences and training in leadership, personal autonomy, responsibility fulfillment in work and development of the power of patience. By combining the essential spiritual key-words pertaining to the two planets of a quincux aspect, the spiritual or evolutionary purpose of the alchemical exercises maybe discerned. From this approach it may be clearly seen that the quincunx is really not a "minor" aspect at all because it is a registration of opportunity in this life to effect very significant transmutations in consciousness. It is like the framework of a building which, depending upon what is put into it and how that equipment is used, can become a hovel or a lovely home. 
 
-Chapter Vl
-Interceptions
+### <h3 id="chapter-6">Chapter VI: Interceptions</h3>
 
 Astrology, at its simplest, is complexity piled upon complexity. In the minds of many students, however, the problems of interceptions proves to be a complication of back-breaking quality. This material is offered as food for thought in an attempt to clarify the purpose and meaning of signs and planets being placed in such a way that their vibratory "area" does not touch house-cusps. "Interceptions" can mean "woe is us" until we perceive the possibility of a philosophical meaning behind this particular pattern. When we do, we are well on our way to achieving an organized approach to its interpretation.
 
@@ -272,8 +267,7 @@ Structure-structure-structure is your key to finding the significance of interce
 
 Elasticize your awareness of horoscopical structure. You will--or can--be thrilled by this stimulus of your intellect and your resource of esthetic sensitivity and understanding. The rhythm, sequence, design and drama that are pictured in the Astrological Mandala are archetypal of all artistic principles; and in a more specific philosophical sense, they picture the magnificent flow of Life-Principles as it outpictures the great Universal laws of Cause and Effect, Polarity, and Divine Harmony. 
 
-Chapter VII
-Basic Relationship-Structure
+### <h3 id="chapter-7">Chapter VII: Basic Relationship-Structure</h3>
 
 As food for thought, we suggest consideration of this statement, as introduction to a discussion of relationship-patterns: There are only two basic qualities of relationship: (1) Measurement--"Time- Space" (which does not concern this study); (2) Vibration--which is our subject. Of the vibratory quality there are only two basic types: (1) That of macrocosm and microcosm to each other; (2) the fraternity of microcosms to each other.
 
@@ -333,8 +327,7 @@ Venus finds her maturity in an octave that is much higher than merely acting as 
 
 Evolutionary processes bring all human beings into fraternity sooner or later, with persons functioning in all other patterns; the "son" becomes "husband and father"--fraternal with all other husbands and fathers; the kind of father he has now represents his "picture of fatherhood" in the past; the kind of father he will reincarnate through next time will depend on how he fulfills his responsibility-pattern in this life. In short, we, each of us, carry within ourselves an ideal of each basic relationship-pattern; everyone is his own and her own husband/wife, father/mother, brother/sister and son/daughter. Our experiences in our cycles of incarnations are for the purpose of making real--realizing--these ideal pictures by means of expressing our ideal quality of generic powers; the end in view is the realization of the human ideal--the manifestation of the perfect human idea. 
 
-Chapter VIII
-The Horoscope Abstracted
+### <h3 id="chapter-8">Chapter VIII: The Horoscope Abstracted</h3>
 
 This approach to "abstracting" a horoscope is presented in the hope that it will help students to clarify and focus their understanding of the elements that comprise horoscope-structure and horoscope- delineation. We know that a horoscope is a symbolic picture of human consciousness as it expresses in the triune dimension of incarnation; it is also a picture of cosmic principles as they manifest through the entity called Humanity. These principles are, compositely, the Life of the Universe--they manifest on all worlds and on all planes.
 
@@ -362,8 +355,7 @@ In applying the findings of the abstract chart to your natal chart you perceive 
 
 "Planets Are People:" in cultivating your inner perceptions of the people in your life, apply the rulers of their natal charts to yours and see how they appear in your incarnation; then relate those points to your abstract chart and perceive your inner consciousness of those people. Any person, male or female, who is identified by your Saturn is a factor of your father picture, in your consciousness; other planets of theirs conjunct your Saturn show that they are, to a degree, sub-variations of your father picture. And so on, with the rulers and planets of other people conjunct your various planets. You will-or can-gain a remarkable elasticization of your astrological consciousness by study of, and meditation on, your abstract horoscope. It has a wonderfully impersonalizing effect on your mind and feelings, making you aware of vibrational patterns which the complexities of the natal chart, alone, obscure. You will, as a result of such study and meditation, unfold another remarkable realization: human life as an expression of esthetic principles of pattern, design, rhythm, color, line--in short, all the essential elements which are common to artistic representations. You will perceive yourself to be, essentially, a dynamic factor in the overall drama, dance, and song of life. 
 
-Chapter IX
-Condensing the Horoscope
+### <h3 id="chapter-9">Chapter IX: Condensing the Horoscope</h3>
 
 It has been observed that most astrological students, at one time or another, experience a distressing confusion in their efforts to study and analyze individual factors of a chart and trying, at the same time, to relate those factors to the sum total of the chart. This material is offered in the hope that it will serve to focus zodiacal sequences in their formations of cross and trine so that chart-factors will be more clearly perceived. for their individual value as well as for their relationship to the total. Two sheets of paper-- at least as large as standard typing paper will be used for mandalas.
 
@@ -410,4 +402,3 @@ Think about this--quietly, deeply, and with focused concentration. It has been s
 Since we, as "Ascendants" are microcosm of Father-Mother God the Law of Correspondence (as above, so below; as below, so above) applies to us in this way: our own potentials for Love-Wisdom are in us eternally--regardless of our congestions, confusions, and darknesses. These darknesses of consciousness are evidences of "un-love " and " un-wisdom" having been expressed--but we ourselves are the sources of their transmutations.
 
 Try this condensation with many charts if you have them available. List planets in each chart by cross, then identify their trine-placement. Make "sketch wheels" utilizing the "decanate-spread"-- starting from the Ascendant sign to establish the picture in your mind that each sign is a consciousness power that can express into higher and higher octaves. Your whole approach to chart-analysis and synthesis will be simplified and clarified thereby. 
-
