@@ -1,51 +1,30 @@
 ---
-title: "Christ or Buddha?"
+title: "Studies in Astrology - Volume 2"
 language: 'en'
-original_title: "Christ or Buddha?"
+original_title: "Studies in Astrology - Volume 2"
 original_language: 'en'
-author: 'Annet C. Rich'
+author: 'Elman Bacher'
 original_source_file: 'self'
 ---
 
+<h1 id="studies-in-astrology-volume-2">Studies In Astrology - Volume II</h1>
 
-Studies In Astrology
+by Elman Bacher
 
-by
+Second Edition
 
-Elman Bacher
+### <h3 id="table-of-contents">Table of contents</h3>
 
-Volume II
+- [Chapter 1: Mars: The Principle of Energy](#chapter-1)
+- [Chapter 2: Jupiter: Principle of Improvement](#chapter-2)
+- [Chapter 3: Saturn's Command: "Thou Must Fulfill"](#chapter-3)
+- [Chapter 4: Uranus Commands "Release!"](#chapter-4)
+- [Chapter 5: Neptune: Principle of Instrumentation](#chapter-5)
+- [Chapter 6: Neptune Patterns: The Twelfth House](#chapter-6)
+- [Chapter 7: Neptune: Aspects and Positions](#chapter-7)
+- [Chapter 8: Pluto: Principle of Frozen Fire](#chapter-8)
 
-
-The Rosicrucian Fellowship
-Mt. Ecclesia
-Oceanside, California, U.S.A.
-Foreword
-
-   So much favorable comment has come to us concerning the astrological articles by Elman Bacher which appeared in our Rays from the Rose Cross during past years that we feel sure this volume Will be cordially welcomed by all students of spiritual astrology.
-
-   Mr. Bacher's profound knowledge of and devotion to the stellar science, along with an uncanny understanding of human nature, made it possible for him to present material which undoubtedly places him among the best of modern esoteric astrologers. As the truth and value of astrology become more and more generally accepted, his presentations will serve increasingly to help people know themselves and fulfill their highest destiny.
-
-   Before his passing in 1951, Mr. Bacher expressed a keen desire to have us publish his articles in book form, and although we deeply regret that he is not here to see the culmination of his desire, we are happy in knowing that his wish is now being fulfilled.
-
-  
-
-  
-Introduction
-
-   To the Rosicrucian student astrology is a phase of religion, basically a spiritual science. More than any other study it reveals man to himself. No other science is so sublime, so profound, and so all- embracing. It portrays the relation between God, the macrocosm, and man, the microcosm, showing them to be fundamentally one.
-
-   Occult science, investigating the subtler forces that impinge upon man, the Spirit, and his vehicles, has charted their effects with no less definiteness than has academic science the reactions of sea and soil, plant and animal to the solar and lunar rays.
-
-   With this knowledge we may determine the astrological pattern of each individual and know the relative strength and weakness of the various forces operating in each life. To the degree that we are in possession of such knowledge we can begin systematic, scientific character building--and characterise destiny! We note times and seasons cosmically advantageous to unfolding undeveloped qualities, correcting faulty traits, and eliminating destructive propensities.
-
-   The divine science of astrology reveals the hidden causes at work in our lives. It counsels the adult in regard to vocation, the parent in the guidance of children, the teacher in management of pupils, the physician in diagnosing diseases, thus lending aid to each and all ill whatever position they may find themselves.
-
-   No other subject within the range of human knowledge appears to hold for this day and age the possibilities open to astrologers for helping people to their own dignity as gods-in-the-making, to a greater grasp of universal law, and to a realization that we are eternally secure within the caressing fold of Infinite Life and Boundless Being.
-
-  
-Chapter I
-Mars: The Principle of Energy
+Chapter I: Mars: The Principle of Energy
 
    As the Sun symbolizes the creative center of things, so Mars stands for the energy which flows, like blood, through the life of manifestations and makes possible all forms of growth, sustainment, and progress. Mars may be called the Sun's "right-hand-man." The two together synthesize the masculine polarity and, in primitive or undeveloped types, who live in emotion and desire rather than in will, Mars takes the place of the Sun until certain stages of evolution have been transcended.
 
