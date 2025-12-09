@@ -26,8 +26,7 @@ Second Printing
 - [Chapter 9: Hospital Experience](#chapter-9)
 - [Chapter 10: The Astrological Path](#chapter-10)
 
-Chapter I
-Complementation
+### <h3 id="chapter-1">Chapter I: Complementation</h3>
 
 "Complementation" is the most important single word in the study of human relationships because it is a word-symbol of the archetype of the vibratory exchanges that make relationship what it is. Its life is polarity; its two basic macrocosms are masculine and feminine. All basic human relationship patterns (marital, fraternal, parent-child, etc.) represent a specifie pattern of complementation in action as "ignitions" of human vibratory consciousness.
 
@@ -63,15 +62,7 @@ One comes into a realization of astrological values through much study, meditati
 
 So, in more clearly alerting ourselves to the symbolic values of Mars, Moon, Venus, Saturn, and the other planetary bodies that focalize the generic value of the zodiacal signs, we see in every horoscope the manhood/womanhood of every human being. We must learn--it is our principal purpose here--the ways to express and reflect the Generic Principles of Life; our "school" is Humanity; our "classrooms" are the sum- total of all of our relationship-experiences, as male and female, in all of our incarnations. Nothing less than this could provide pabulum for complete realization of the human ideal. 
 
-
-
-Studies in Astrology
-by
-Elman Bacher
-
-Volume IX
-Chapter II
-Security
+### <h3 id="chapter-2">Chapter II: Security</h3>
 
 "To exist" is "to be in a state of motion," but "to live constructively" is "to exist with a consciousness of source and objective." In this consciousness is found the root of the security-feeling regardless of the condition of outer circumstances. The astrological mandala pictures this as follows: Draw a circle with the vertical and horizontal diameters; place the Aries-symbol at the Ascendant-point Capricorn at the top of the wheel, Cancer at the bottom; connect Aries to Capricorn and Cancer by straight lines.
 
@@ -113,14 +104,7 @@ Have we ever perpetrated outrage on these Principles? Our treatment of our Ameri
 
 Further, to say, as some do, that "nothing can be done about it" is the supreme utmost of spineless acquiescence; such violations of our powers as substance-stewards must be stopped. Since a chemical expression only outpictures an inner state, to say that we are "afraid of the Chinese communists," "afraid of the Russians," "afraid of atomic bombardment" is only half-truth. We are afraid of the results of our own violation of principle and what we are going through now in the Orient is the result of our traducing those principles which inspired the founding of this nation. Food for thought! Let every American take stock of how he lives his citizenship. American citizenship is a blessing to be honored by living it--it is not "just something dropped in our laps" to be taken advantage of in wasteful, thoughtless ways. To the degree that we express according to religious intolerance, racial hatred, financial corruption and personal dis- integrity do we disqualify for this privilege; to the degree that we help others to help themselves, steward our resources intelligently and for the best good of all on earth, keep our minds open to further appreciation of the qualities and rights of all do we maintain our democratic qualifications. We, as a nation, are democratic power; we, as individual Americans, are microcosms of that power and it is our spiritual responsibility and our personal joy to manifest that ideal while we are incarnate. That, and nothing less, will insure our individual and national security. We must, as Americans and Earthians, function from the psychological base--the "power-pabulum"--or our spiritual principles. The Capricorn regeneration and fulfillment of democratic idealism is that which is "matured" from the Cancer-base. To realize this maturity is the meaning of "being American" and the meaning of "being democratic Earthians." 
 
-
-Studies in Astrology
-by
-Elman Bacher
-
-Volume IX
-Chapter III
-Diameter, Quadrant, and Decanate
+### <h3 id="chapter-3">Chapter III: Diameter, Quadrant, and Decanate</h3>
 
 For the pursuance of this material, a brief review of the Generic Spectrum will be necessary.
 
@@ -140,28 +124,28 @@ The subdivision of a sign into two sections of fifteen degrees each is particula
 
 There are three "crosses" implied in the structure of the twelve signs: cardinal, fixed, and mutable. In cycle unfoldment from the ascendant of the Great Mandala, the three crosses appear four times, in the four quadrants of the wheel: Aries, Taurus, Gemini; Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius; Capricorn, Aquarius, and Pisces. Each cardinal "initiation" is a new way of saying I AM--as extensions of the basic I AM of Aries; each cross represents a pattern of growth and unfoldment through experience in the two-fold expression of two-fold polarity; we evolve through phases of male and female Life-takers and Life-givers. The "crosses" simply represent the processes by which we distill wisdom from our experiences and unfold the inner resources of love toward the attainment of realization of the ideal. Since, in a correctly calculated horoscope, every planet is placed where it is by due process of Law, there must be a valuable key in the placement of planets by quadrant. Each individual sign of the zodiac has its particular planetary ruler, as basic focalizer of the generic quality of the sign. But since thirty degrees represents a sequence of sign quality and because the Law of Correspondence applies to astrological structure as it does to any other manifestation, let us consider the placement of planets by quadrant in terms of secondary rulerships. The first quadrant of a mutable sign is ruled by the planetary ruler of the sign; the second quadrant is secondarily ruled by the planet that rules the next sign of that cross; the third quadrant is secondarily ruled by the planet that rules the next cross- sign and the fourth quadrant is secondarily ruled by the next. For example:
 
-
-
+```
 Capricorn: Primary ruler: Saturn.
 Capricorn is the cardinal sign.
-    First quadrant.....secondary ruler--Saturn
-    Second quadrant....Mars--ruler of Aries
-    Third quadrant....Moon--ruler of Cancer
-    Fourth quadrant....Venus--ruler of Libra
+First quadrant....secondary ruler--Saturn
+Second quadrant...Mars--ruler of Aries
+Third quadrant....Moon--ruler of Cancer
+Fourth quadrant...Venus--ruler of Libra
 
-    Leo: Primary ruler: the Sun.
+Leo: Primary ruler: the Sun.
 Leo is a fixed sign.
-    First quadrant....the Sun--ruler of Leo
-    Second quadrant....Pluto--ruler of Scorpio
-    Third quadrant....Uranus--ruler of Aquarius
-    Fourth quadrant....Venus--ruler of Taurus
+First quadrant....the Sun--ruler of Leo
+Second quadrant...Pluto--ruler of Scorpio
+Third quadrant....Uranus--ruler of Aquarius
+Fourth quadrant...Venus--ruler of Taurus
 
-    Pisces: Primary ruler: Neptune.
+Pisces: Primary ruler: Neptune.
 Pisces is a mutable sign.
-    First quadrant....Neptune--ruler of Pisces
-    Second quadrant....Mercury--ruler of Gemini
-    Third quadrant....Mercury--ruler of Virgo
-    Fourth quadrant....Jupiter--ruler of Sagittarius
+First quadrant....Neptune--ruler of Pisces
+Second quadrant...Mercury--ruler of Gemini
+Third quadrant....Mercury--ruler of Virgo
+Fourth quadrant...Jupiter--ruler of Sagittarius
+```
 
 Note that the extension of the first and third quadrants and the second and fourth quadrants would picture two aspects of polarity; this composite of polarity is pictured in the horoscopical wheel as the two diameters of each cross. Give careful consideration to your square aspects and the planets involved with reference to the secondary rulerships; the secondary rulers act as "hand-maidens" or "right-hand-men" to the primary rulers and their influence is effective in analysis of the planetary expression-qualities.
 
@@ -185,8 +169,7 @@ Example: a congested planet in the ninth degree of Leo (fixed Fire--ruled by the
 
 And so on--with other congested patterns. Relate the decanate and quadrant to the abstract picturing of the Great Mandala and you will find that every variation of "problems" to be found in the charts of human-beings contain, by their placement, a direct clue to the vibratory solutions. Expressions of planetary powers through the spiritualized implications of the signs is the "go ahead" signal for evolutionary progress and harmonious unfoldment of potentials. 
 
-Chapter IV
-Light--Part I
+### <h3 id="chapter-4">Chapter IV: Light - Part I</h3>
 
 En-Light-en-ment is always an act of revelation. It does not mean, as some suppose, to give something new to the thing under consideration or even to give something new to the person who is considering the thing. It is always an act by which, in relative degree, the truth of the thing under consideration may be more clearly realized. Such realization can never be "given" by one person to another because realization is always a subjective experience; the person who experiences it can only do so when he is suitably conditioned and timed for it. His suitable conditioning and timing-- synchronization of desire for Truth with capacity to utilize that which is realized--makes it possible for him to react to the stimulus of another person or an experience in such a way that his consciousness of the thing considered opens to a relatively higher degree of Truth. We may say that at that moment he has "gained more wisdom about the thing"--his awareness of the nature of the thing is then "wise-er" than it was.
 
@@ -214,8 +197,7 @@ And so on--with each of the other planetary points In conclusion we must conside
 
 The author suggests that each student of astrology who feels so inclined inaugurate the practice of placing the traditional symbol for the Sun--the point circumscribed by a circle--at the center of each horoscope; this symbol, by correspondence, is that of our Creator, our own spiritual essence, our seed-atom and the eternal, indestructible will-to-live which characterizes consciousness throughout all time and space. This is the most simply constructed, the most perfectly focussed and the most purely archetypal of all astrological symbols--it is fitting that it should be used to designate the Human's consciousness of Divine Source, Identity, and Attribute. Another symbol--the author suggests a half-circle surmounting a horizontal line--may be legitimately and effectively used as the Sun in the horoscope, as a "planetary factor"--ruler of the fixed fire-sign Leo. Since this symbol is subject to patterning and aspects, qualifications and movement as is any other planetary symbol, it may be studied to represent the evolution of the person's consciousness of his Sun-nature. The appearance of the circular Sun-symbol (the "Spirit-symbol") corresponds to the appearance of the horoscopical circle--both centered by the same point. The "planetary Sun- symbol" corresponds in appearance with the upper semi-circle of the horoscope, the horizontal line corresponds to the horizontal diameter of the horoscope-- the "I AM of the individual's consciousness and the counterparting of the Ascendant by the cusp of the seventh house. Also as a picture this symbol suggests the sunrise at dawn--and its use in the horoscope is to keep us reminded of our consciousness of solar attributes which we are seeking to unfold through our evolutionary experience. 
 
-Chapter V
-Light--Part II
+### <h3 id="chapter-5">Chapter V: Light - Part II</h3>
 
 For the purposes of clarifying the expression and understanding of this material, we will agree that the word "light," initialed by the small "l," will refer to visually perceptible vibration; "Light," initialed by the capital "L," will refer to Consciousness; consciousness, with a small "c," will refer to human awareness.
 
@@ -239,8 +221,7 @@ All of these observations regarding Black, White, and Colors have direct and pra
 
 The point, which should be indicated by a small round dot, at the center of the horoscope is a symbol--and the only valid one we have--of chaos, life un-differentiated, out of which all manifestation is made. That central point, applying to the horoscope of the individual human, is the Idea (Humanity) conceived by the Divine Mind of our Logos; it is from that Idea that we, as an earthian archetype, were projected into individualized experience. A circle circumscribing that central dot symbolizes our Logos as an individualized creative Consciousness and Its manifestivity as the Sun--the central body, or nucleus, of our solar system. Since man is Spirit this composite symbol of dot and circle pictures his Spiritual Essence, his Seed-atom and his Potential for perfecting all of his bodies. Then, from that central symbol the left horizontal line is emanated to form the Ascendant-line of the individual human's horoscope. If it were graphically possible and practical we would place the symbols of Sun (as ruler of Leo), Moon, and planets as well as those of the lunar nodes and Part of Fortune at the appropriate points on the circumference of the completed wheel; the circumference is, of course, the complete emanation of the Ascendant-radius. The picturing of the aspects made by the planetary points would be shown by straight lines from the central circle to the points on the radius which give the astronomical positions for that time and place. The angle made by any two of these lines indicates by numerical degree the aspect created by the two planetary points in relationship to each other. Every aspect in a horoscope-- as a "thing in itself"--has polarity in the two bodies with are so related to each other and polarity--however or wherever--is the ignition of consciousness. The person, from his center of consciousness as a human being, has evolved certain inter-relationships between the factors of his human consciousness. These are "aspects"--call them, or think of them as "view- points;" he looks out from the center of his chart (this central awareness) into the conditions of his chart, into the conditions of his environment, his relationships, his activities, his weaknesses and deficiencies, his aspirations, his ideals, and his relative fulfillments. Every one of these points on the circumference of the wheel has correspondence to a color which may appear in his aura and every aspect between the pairs of planets in his chart-pattern will correspond--basically--to a quality of his auric color, or colors. The whiteness of a human horoscope is represented not by the contents of the wheel (because the wheel-contents refer to him, or describe him, as a personality evolving the consciousness of truth), but by the whiteness in the central circle of the wheel--the central Sun-symbol. If the factors of the chart were to be indicated in color-shades, this central circle would be kept white--because it is the omnipotent, omniscient, and omnipresent Spirit. Black is indicated in the human horoscope only by the central dot, nowhere else--and as such it symbolizes the infinitude, the measureless and incomprehensible subjectivity of life itself, from which all creative Logoi and their manifestations are derived. Nowhere in a horoscope is "badness" (or black in the sense of absolute evil) indicated. The "viewpoints" we call "square" and "opposition" aspects are patterns indicative of tension, inharmony, ignorance, or congestion of whatever kind, but they are still registrations of the soul-body of the human; the points which make up each such aspect are divine powers as differentiated by the evolving human consciousness. Out of the Black of Chaos, the White of Creative Consciousness establishes a field of evolution and that evolutionary program is what each horoscope reveals. It is through the purification of the auric Colors (regeneration of "aspects and viewpoints") that the realization of identity with the White of Divinity is finally made. 
 
-Chapter VI
-Light As Therapy
+### <h3 id="chapter-6">Chapter VI: Light As Therapy</h3>
 
 The word therapy is derived from a Greek word meaning "healing." The verb "to heal" is derived from a Teutonic word which means, among other things, "to reconcile." "Reconcile" comes directly from the Latin root-words "re" (again) and "con" (with)--together these indicate to reunite. Therapy is thus seen to mean more than "a process of fixing up a part of the body." It means "to reunite harmoniously the affected part with the rest of the organism." All therapy serves the purpose of re-establishing the consciousness of physical, mental, psychological, or spiritual unification. Christ Jesus said, "My Father and I are ONE," "Be ye perfect even as your Father in Heaven is perfect," and "Love ye one another." In these and other similar statements is found the declaration of the unity of each with all and of all with the one--the health, harmony, and beauty of unity in diversity. If the word "health" is understood to mean the vital and harmonious functioning of the parts of the physical, emotional, and mental bodies then the consciousness of love is the health of human relationships, for it is in the consciousness of Love that the fulfillment of experience is made and relationships are the agencies of experience.
 
@@ -270,8 +251,7 @@ JUPITER: like that of Mars, this stands for a type of energy that needs control 
 
 NEPTUNE AND URANUS: the symbols of super-sensory perceptions and of transcendent areas of consciousness; Neptune is the spiritual power of faith, Uranus is that of impersonal love; Neptune is the power to visualize internally and to idealize--the person who has faith in the existence of health can visualize it for himself. Uranus is the urge to liberation and he who would free himself from constricting conditions must contribute lovingly to the liberation of others. Use these interpretations as "food for thought" and know that they are only a few examples that illustrate the "therapy of human consciousness by the power of Light." 
 
-Chapter VII
-Light As Communication
+### <h3 id="chapter-7">Chapter VII: Light As Communication</h3>
 
 From an esoteric standpoint, as we usually use the word, "communicate" means a process by which knowledge or information is transmitted from one mind to another. However, a study and synthesis of its derivative roots reveals its esoteric meaning which makes it possible for us more truthfully to understand the real significance and right use of this function of sensory, intellectual, and spiritual transmission. Its direct derivation is from the Latin word communicare which means to share. In it are found two basic root-words: "com" referring to "with" or "together," and "un" referring to "one-ness" or "unity." Thus we see that "communication" is a means by which diversity of minds and consciousness are, in degree, unified through the process of sharing. This sharing is a polarized process: the positive pole is revealed in actions of radiation, expressing, informing, telling, writing, projective telepathy, and inspirational projection; the negative pole is revealed in actions of perception, reaction to vibratory stimuli, all sense-perception, learning, understanding, and realization. All that is established in divine mind can be transmitted to--or shared with--diversified, individualized mind or consciousness. The over-all evolutionary goal is the realized unity of diversified minds with the One Mind of our Creator.
 
@@ -293,8 +273,7 @@ Think about this: one small word--a "yes" or a "no"--spoken in a certain tone of
 
 In order to unfold realizations or cognitions of karmic causes to communication difficulties or impediments, we have to be willing to elasticize our viewpoint and recognize that causation of these effects, manifested in the present by epigenesis, may have been long established in the sufferer's subconscious. To use the creative power of the spoken word to give channeling to forces of destructive and untruthful consciousness is to insure future experience with communicative impediment. In much repetition of extreme forms, the mental vehicle is disintegrated to a degree and in such wise that conditions identified as "imbecility" and "idiocy" result as karmic return, especially when deliberate cruelty has been the original emotional motivation. The present experience of many such sufferers is being helped by the power of love expressed in the care and consideration given by those who are seeking to assist them--and this love is also a karmic return, established from actions of good intent and kindliness in the past. So, in these times, we see--by observation of the fact that humans are seeking to help and rehabilitate even the most tragic cases of darkness, impediment, and relative disintegration--that the only barriers to communication are those which man himself sets up; the Creator has endowed us with potentials of mind and spirit and faculty to insure our eventual communicativeness with all planes of life. In the universal or absolute sense, there are no barriers to communication. All individualized minds function under law and by releasement and refinement of potentials within the inclusive scope of the one mind--which is the one light, the one consciousness--the ever-unfolding lines of communication of "each with all and of all with the One" are perpetually and perfectly held. By the right usages of our Mercury-factors, we reproduce the ever-open-ness of our lines of communication with fellow-humans on this plane. 
 
-Chapter VIII
-Light As Affluence
+### <h3 id="chapter-8">Chapter VIII: Light As Affluence</h3>
 
 The word "affluence" is derived from two Latin words: "ad," meaning "to" or "toward," and "fluere" meaning "to flow." We usually use it to refer to conditions that are characterized by abundance, bountifulness, plentifulness of supply and wealth, but a consideration of the derivation of the word gives us the clue to its esoteric meaning. It is basically not a description of conditions but a quality of consciousness by which abundance is realized and manifested. In other words, the human consciousness--the "light by which a human perceives Light"--contains a potential of functioning "affluently" so that, correspondingly, conditions of abundance may flow toward and into human environments and affairs. As the desire to realize health is one of humanity's many endeavors to perceive Light, so is the desire to realize affluence; it is important to consider how a human being can generate the kind of consciousness that makes abundance evident in his life.
 
@@ -316,8 +295,7 @@ Since poverty is an illusion created by the relatively unevolved human conscious
 
 The poverty of love, friendship, and companionship is, perhaps, the most tragic of all karmic congestive evidences. People who suffer from these deprivations might well give attention to the fact that love and friendship are states of consciousness-- establishing them in consciousness makes possible the affluent expression of them and the affluent realization of them in relationships. It is also important to recognize that many people who deeply yearn for relationship-joys and companionship-fulfillments are not friendly with themselves, however devoted they may possibly be to others. Respect and appreciation for one's self, as an expression of Divine Life, and one's potentials for revealing that which is good and beautiful, may have to be established in place of self-contempts, inferiority-feelings, and the like. Lack of harmony in such relationship-patterns as those with a parent or fraternal relative may have to be transformed by expanding the relationship consciousness in more universal ways. But, always, we should remember that the will to truthful understanding of others may--and can--unlock the tight areas of any human relationship. We must be affluent in our good will toward others if we would realize affluence in our experience. 
 
-Chapter IX
-Astro-Philosophy Discusses Hospital Experience
+### <h3 id="chapter-9">Chapter IX: Astro-Philosophy Discusses Hospital Experience
 
 We humans are inclined to identify things in terms of the feelings we have experienced in contact, or relationship, with them. "Pain, suffering, trouble, and sorrow" are the associations we tend to make when "hospital" is brought to our attention. With such associations in mind and feeling, emphasized through the years, it is no wonder that anxiety, fear, and terror rise up in us when hospital-experience becomes imminent. We recognize and admit, from the evidence of our conditions, that we need help; we desperately want release from the inharmony and discomfort of disease and injury; but, in our limited comprehension of "hospital-truth," we tend to intensify our difficulty. We become so preoccupied with pain and fear that we anesthetize our consciousness of health and our faith in the availability of healing powers. It is true that people can release themselves from physical, emotional, and mental inharmony by an internal action, a switch in consciousness from congestion-on-inharmony to realization-of-health. These persons give living proof that healing is internal. The primordial, instinctive will-to-live is the basic healing agency for even those persons who are not aware of a conscious faith in recovery. However, the conscious intensifying of the awareness of health and healing not only hastens the correction of the particular condition but re-establishes health on all planes of functioning. All of these forms of service which might be called the "paths of healing" are, in truth, means by which humans assist other humans to diminish fear and hopelessness and to intensify their recognitions of the nature of well-being. Pisces, the twelfth house-sign of the Great Mandala, is the key.
 
@@ -349,8 +327,7 @@ The relation of hospital-administrators and servers to patients has many points 
 
 In conclusion, these three representations of the water-trine mandala may be used to study prison experience. In their essential nature and purpose prisons are hospitals. In both, karmic residues are to be faced and resolved; the same Power and the same Agencies serve both; the prime objective of both forms of service is: atonement, and "atonement" means increased consciousness of at-one- ment, the harmonized unification of body, emotion, mind, and soul with Spirit. 
 
-Chapter X
-The Astrological Path
+### <h3 id="chapter-10">Chapter X: The Astrological Path
 
 The purpose of presenting this discourse is two-fold. It is well that new students of astrology obtain a perspective of what this Path requires of them in mental training and what it includes in expansion of knowledge and understanding. Those students who are experienced on the Path should periodically remind themselves of the requirements of their chosen Path and refresh their spiritual aims, methods, and objectives. The Astrological Path is a long one, containing many complexities of unfoldment; the "long- range viewpoint" and quiet, unshakable patience are prime requisites for the fulfillment of any of its phases. Some students, in the present life, may be recapitulating knowledge gained through study in past lives, now ready to begin to apply their knowledge and understanding; some may still be continuing their program of absorption, and still others may be taking their first step on this Path. Regardless of present placement, all should have a comprehensive knowledge of the over-all program that is involved in this complex study so that the spiritual ideal and purpose may be held to unwaveringly.
 
