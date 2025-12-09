@@ -25,8 +25,7 @@ First Edition
 - [Chapter 8: The Generic Spectrum](#chapter-8)
 - [Chapter 9: Your Life-Assignment](#chapter-9)
 
-Chapter I
-The Wedding Chart
+### <h3 id="chapter-1">Chapter I: The Wedding Chart</h3>
 
 This discourse on wedding charts is offered as an attempt to clarify to astrological students the processes and meanings of the togetherness of two persons who are united for mutual experience in marriage. It has been felt by the author for some time that to do a chart for the time that the wedding is scheduled to start is not really valid. Herein is presented a little food for thought as to the valid timing of a wedding chart.
 
@@ -64,8 +63,7 @@ All this is an excellent exercise of your synthesizing ability as an interpreter
 
 One more suggestion; try reading your own natal horoscope as a "Marriage chart;" philosophically speaking--you figure this out--that's exactly what it is! 
 
-Chapter II
-Marriage
+### <h3 id="chapter-2">Chapter II: Marriage</h3>
 
 For the pursuance of this material create mandalas as follows: (1 ) a Great Mandala: the Abstract Horoscope with Aries as the Ascendant-sign, including the Fire and Air trines--Aries, Leo, Sagittarius/Libra, Aquarius, Gemini); (2) a sign-mandala with Gemini as Ascendant; (3) a sign-mandala with Libra as Ascendant.
 
@@ -109,8 +107,7 @@ The basic feminine portrait of Humanity--the faculty that every man and woman ha
 
 Those who have fulfilled the marital experience are much more aware of true Friendship--Leo is on the eleventh cusp of this mandala. Personal love-power is--or can be--released with great effect from the source of a loving and fulfilled heart to the extensions of impersonal relationships. Aquarius on the fifth tells us that the creativity of love, in marriage, has its impersonal meaning; we must not invite Egos into incarnation by making "graven images" of them; if we want to fulfill marriage through parenthood, we must do so in love, not with egotism and possessiveness. As parents, humanity fulfills his/her obligation by assisting the begotten to find its own realization of individuality and--having found it with integrity and clearness of perception--it must be liberated to its own fulfillments and experiences. The children grow up and go their ways, but the parents who love each other remain together. Their fraternity as husband-wife-brother-sister is integrated by love-wisdom and they are inwardly free to let their children find their maturity in expression of individuality on all planes. The fulfilled husband and wife stand, hand in hand, as a living symbol of the fraternity of men and women--as loving and beloved children of our parent-- Father-Mother God. 
 
-Chapter III
-Fatherhood
+### <h3 id="chapter-3">Chapter III: Fatherhood</h3>
 
 This discourse, pertaining to a specialized human identity, will be dealt with by considering a correlation of mandalas. Three will be required: (1) The Great Mandala--Aries Ascendant; (2) The mandala of Love-Power--Leo Ascendant; (3) The mandala of archetypal Fatherhood-identity-- Capricorn Ascendant. For each of these, apply the zodiacal sign-symbols in sequence, the circular symbol of the Sun at the center and the personal-Sun symbol (the horizontal line and semi-circle of the rising Sun) in each Leo- house.
 
@@ -120,7 +117,7 @@ The arch-symbol of matrix, is, of course, the maternal sign Cancer; it is the Mo
 
 If Cancer symbolizes our tendency to cling to that which protects us externally, Capricorn and the Saturn-vibration symbolizes our urge to establish our own individual security by regeneration of consciousness and expressing from that basis. Through Cancer we are the citizens of a family-group; through Capricorn we are citizens of the larger family of state, nation, and race; the archetype of this citizenship is, of course, our identity as Earthians--fellow-inhabitants of this planet of the solar system.
 
-Everyone--male or female--has Moon-Cancer and Saturn- Capricorn somewhere in the chart. These picture the biune security symbol of Humanity. In each incarnation we specialize our archetype; we carry subconscious instinct-memories of experience as the opposite sex from one incarnation to the next; we also carry aspirational urges to realize unity all through our sequence of incarnations. That in which we default, through ignorance and desire-congestion in one incarnation, we experience retroactively in the next, or a subsequent, incarnation. A female can learn a great deal about fatherhood principles through her experience as daughter, wife, or mother in relationship to males who outpicture her past fatherhood defaults. A male actively recapitulates the essence of past fatherhood- defaults by (it starts in each incarnation with this) his subconscious reactions to his father when he is in the immature, impressionable state. We are magnetized to our fathers by composite of dissimilarities and similarities to them. In other words, our individualized consciousness (ignorance or wisdom) of the principles of fatherhood is that which makes our particular father-relationship what it is in a given incarnation. We do not create our fathers, but our consciousness is the conditioning factor that determines the quality of our relationship with our father. Consciousness always determines relationship-quality.
+Everyone--male or female--has Moon-Cancer and Saturn-Capricorn somewhere in the chart. These picture the biune security symbol of Humanity. In each incarnation we specialize our archetype; we carry subconscious instinct-memories of experience as the opposite sex from one incarnation to the next; we also carry aspirational urges to realize unity all through our sequence of incarnations. That in which we default, through ignorance and desire-congestion in one incarnation, we experience retroactively in the next, or a subsequent, incarnation. A female can learn a great deal about fatherhood principles through her experience as daughter, wife, or mother in relationship to males who outpicture her past fatherhood defaults. A male actively recapitulates the essence of past fatherhood- defaults by (it starts in each incarnation with this) his subconscious reactions to his father when he is in the immature, impressionable state. We are magnetized to our fathers by composite of dissimilarities and similarities to them. In other words, our individualized consciousness (ignorance or wisdom) of the principles of fatherhood is that which makes our particular father-relationship what it is in a given incarnation. We do not create our fathers, but our consciousness is the conditioning factor that determines the quality of our relationship with our father. Consciousness always determines relationship-quality.
 
 Now, the mandala with Leo as Ascendant. This is the archetypal mandala of Love-Power, that which is the resource of all emotional reaction and expression. It is the basic source of all emotional identification of relationship and, as the Creative Aspect of Father-Mother- God, it is the one love of which we all partake throughout our incarnations and which we are continually aspiring to realize and express in our relationship with human and sub-human life. Referring to the subject at hand we see that this power is "parented" in our consciousness by the generative force we call desire; the diameter of Scorpio-Taurus is the vertical of this mandala. The sexuality of the male and female gives incarnated form to the reappearance on this plane of a human focalizer of solar power. The personal desire of parents for union with each other masks the archetypal regenerative aspiration which, rooted by Scorpio at the fourth cusp of this mandala, starts as sex-expression but flowers as love-expression.
 
@@ -138,8 +135,7 @@ Now--the Capricorn Mandala: the abstract horoscope of fatherhood-identity; fourt
 
 So--Saturn in a natal horoscope is the instinctive or subconscious father-picture--one aspect of the security urge which is the consciousness of the ever-protectiveness of Father-Mother God. The Capricorn Mandala has the "Love-matrix" Leo on the eighth cusp. Spiritualized fatherhood is sexual expression raised to the octave of love-consciousness. It is not a "hit-or-miss" expression--it is spiritually inspired, spiritually planned, spiritually and beautifully expressed as a releasement of solar power. (Occult instruction tells this over and over.) The spiritual exercise of planned (Self-directed) fatherhood synchronizes perfectly with the essences of the eighth house, the sign Leo and the power of Saturn as a charging of generative experience, by the male, with the utmost resource of Love-Power. 
 
-Chapter IV
-Childhood
+### <h3 id="chapter-4">Chapter IV: Childhood</h3>
 
 "CHILD-HOOD" simply means "being in a state of involution"--on any octave of experience or unfoldment.
 
@@ -171,17 +167,17 @@ At the end of this period, the sixth quadrant, we come to the modulation into th
 
 Now, a little technical study. Six sets of accurate calculations:
 
-1. The months in which the progressed Moon makes its first square, first opposition, second square, conjunction, third square, and second opposition to its natal position.
+1\. The months in which the progressed Moon makes its first square, first opposition, second square, conjunction, third square, and second opposition to its natal position.
 
-2. Correlate to each of the above the timing of the solar eclipse which falls (after the progressed Moon aspect) conjunct square or opposition the natal Moon. (The succeeding solar eclipse "opens up" the Moon-patterns.)
+2\. Correlate to each of the above the timing of the solar eclipse which falls (after the progressed Moon aspect) conjunct square or opposition the natal Moon. (The succeeding solar eclipse "opens up" the Moon-patterns.)
 
-3. The dates on which Saturn, by last direct transit, makes its first square, opposition, second square, conjunction, third square, and second opposition.
+3\. The dates on which Saturn, by last direct transit, makes its first square, opposition, second square, conjunction, third square, and second opposition.
 
-4. To each of the above (Number 3), correlate the lunation nearest the aspect-time which conjuncts, squares or opposes the natal Saturn. These lunations "ignite" the Saturn-aspects in correlation to the solar-eclipses in their relationship to the progressed-Moon aspects. (If your ephemeris provides.)
+4\. To each of the above (Number 3), correlate the lunation nearest the aspect-time which conjuncts, squares or opposes the natal Saturn. These lunations "ignite" the Saturn-aspects in correlation to the solar-eclipses in their relationship to the progressed-Moon aspects. (If your ephemeris provides.)
 
-5. The period when Uranus, by first and last direct transit, opposes its natal position. Find the timing of the solar-eclipses that conjunct, square, or oppose the natal Uranus in this period. This is the apex of the "shaking up" time--Uranus rumbles and roars at everything he dislikes about Moon-Saturn.
+5\. The period when Uranus, by first and last direct transit, opposes its natal position. Find the timing of the solar-eclipses that conjunct, square, or oppose the natal Uranus in this period. This is the apex of the "shaking up" time--Uranus rumbles and roars at everything he dislikes about Moon-Saturn.
 
-6. A composite list of everything in the above- mentioned two-point period of Uranus-opposition-Uranus that ignites the natal Uranus by sextile or trine. That is, the progressed Moon itself, solar eclipses and their full-Moons, lunation-patterns and their full Moons, and majority planetary transits that represent stimulation of Uranus according to his powers for establishing inner liberations and progressiveness. Also, the study of the Uranus-opposition-Uranus requires a careful synthesis of the contrast of natal Uranus with natal Saturn to evaluate the relative powers of gravity and progress in the individual chart.
+6\. A composite list of everything in the above- mentioned two-point period of Uranus-opposition-Uranus that ignites the natal Uranus by sextile or trine. That is, the progressed Moon itself, solar eclipses and their full-Moons, lunation-patterns and their full Moons, and majority planetary transits that represent stimulation of Uranus according to his powers for establishing inner liberations and progressiveness. Also, the study of the Uranus-opposition-Uranus requires a careful synthesis of the contrast of natal Uranus with natal Saturn to evaluate the relative powers of gravity and progress in the individual chart.
 
 It is also suggested that special attention be given to the progressed Moon aspects in this way: Make a list of the months when progressed Moon, in sequence, makes aspect to every planet which makes legitimate aspect to the natal Moon in the horoscope. Each of the "quadrant turning points" is focalized by the aspects of progressed Moon and transiting Saturn to their natal positions, but Moon-aspects in the natal chart are personal specializations of the Moon-principles and all of these aspects have important bearing on the "turning-points."
 
@@ -189,8 +185,7 @@ When you are reading the chart of anyone, keep in mind what "childhood" he or sh
 
 In conclusion: the astrologer's "first quadrant" is in "learning the calculation"--the body of astrological study. All of his other "childhoods"--as an interpreter-artist--are coincidental with his various stages of spiritual unfoldment. 
 
-Chapter V
-Adolescence
+### <h3 id="chapter-5">Chapter V: Adolescence</h3>
 
 The word "adolescence" means "to continue to grow." In its application to human involution and evolution it refers to the periods on various octaves which succeed each new turning-point. It is the process during which is manifested the unfoldment of potentials after the new identity has been established. Abstractly, "adolescence" is a part of the "childhood" of the octave; it is not maturity--it is the unfoldment toward the maturity of the octave. In music, each "C" inaugurates a new tonal octave--a "turning- point" in the tonal spectrum; the "adolescence" of the musical octave would be al1 the tones between that "C" and the next one--above or below it--depending on the direction of the musical passage.
 
@@ -226,22 +221,21 @@ When the "We Are"--the marital individuality--of a husband/father-wife/mother te
 
 TECHNICAL: it is suggested, from the author's experience, that the study of the adolescent's chart be made in this way:
 
-1. Careful analysis of each natal Moon-aspect; of squares and oppositions to planets in Cancer (ruled by the Moon) and their correctives.
+1\. Careful analysis of each natal Moon-aspect; of squares and oppositions to planets in Cancer (ruled by the Moon) and their correctives.
 
-2. Analysis of squares, oppositions, and correctives of aspects to the planet which "disposits" (rules the Moon-sign) the Moon.
+2\. Analysis of squares, oppositions, and correctives of aspects to the planet which "disposits" (rules the Moon-sign) the Moon.
 
-3. Analysis of the seventh house of the horoscope as the resource of the "I Am" that emerges, in adolescence, as "We Are;" that which is to be fulfilled principally in the marital relationship.
+3\. Analysis of the seventh house of the horoscope as the resource of the "I Am" that emerges, in adolescence, as "We Are;" that which is to be fulfilled principally in the marital relationship.
 
-4. List--by careful calculations and in sequence: all aspects made by the progressed Moon to planets which it legitimately aspects in the natal chart before and after it opposes its natal position the first time --approximately in the fourteenth year; "pattern" this listing so that you are made aware of each corrective to every congested aspect; it is necessary to know to what extent the subject is capable of decrystallizing his desire-congestions.
+4\. List--by careful calculations and in sequence: all aspects made by the progressed Moon to planets which it legitimately aspects in the natal chart before and after it opposes its natal position the first time --approximately in the fourteenth year; "pattern" this listing so that you are made aware of each corrective to every congested aspect; it is necessary to know to what extent the subject is capable of decrystallizing his desire-congestions.
 
-5. Include in this listing every solar eclipse that falls in this period of the "progressed Moon opposing its natal position"-- even if the listing of progressed-Moon aspects extends beyond the time when Moon-opposes-Moon--and it could.
+5\. Include in this listing every solar eclipse that falls in this period of the "progressed Moon opposing its natal position"-- even if the listing of progressed-Moon aspects extends beyond the time when Moon-opposes-Moon--and it could.
 
-6. Include the date when Saturn, by last direct transit opposes its natal position; this and progressed Moon opposition-its- natal-position is the vibratory focus of the adolescent period--the "building- in" vibratory mechanism.
+6\. Include the date when Saturn, by last direct transit opposes its natal position; this and progressed Moon opposition-its- natal-position is the vibratory focus of the adolescent period--the "building- in" vibratory mechanism.
 
 We suggest use of mandalas for focus of concentration in order to release your interpretative awareness of the subject's generic potentials. 
 
-Chapter VI
-Fraternity
+### <h3 id="chapter-6">Chapter VI: Fraternity</h3>
 
 FRATERNITY is parallelity in human relationship. In our endeavor to decrystallize our congestions on "being different from other people," let us focus our attention now on "how like unto other people we really are" by meditating on the Great Mandala called the Abstract Horoscope: a twelve-housed wheel with the symbols of the signs on the cusps starting with Aries as the Ascendant, and the symbols for the planets placed in the houses corresponding to their signs of dignity. The fraternity of all human beings to each other is here illustrated in so far as it is the entire essential astrological symbology of all human beings. It is interesting--and illuminating--to note that physical sex, absolute evolutionary development, and "nationality, creed, and color" are not pictured in this design. The above-mentioned qualifications are temporary levels of expression by which man separates himself from his fellows through his feelings of inferiority and superiority, betterness and worseness, higherness and lowerness and, in general, "differentness." Man differs from his fellows, in any real sense, only in the dimension of time; some of us leave the level of primitivity a little sooner than others and, correspondingly some attain liberation sooner. But, we all travel the same road and we all fulfill the same evolutionary requirements as expressions of the idea "Humanity." When we clearly realize that our reactions of fear and hatred toward a "wrong-doer and his deed" are simply--repeat simply--memory-stimuli of our commitments of that deed in the past, then we recognize that condemnation of a "fellow wrong-doer" is the perversion of what should be fraternal love; he is fraternal to us in so far as he--and we--are parallel to each other in negative exercise of consciousness--the releasing of our vibratory resources in ignorance of principle.
 
@@ -289,8 +283,7 @@ Gemini (abstractly) and your third cusp (concretely), are the ninth house-sign f
 
 The first trine from Gemini is Libra itself--the intensely focused love aspect of fraternity; our husband/wife is truly our brother/sister and the next "extension" to Aquarius, the eleventh house-sign, is the picturing of fraternity in its most widely extended octave--that of friendship, the love-vibration, in parallelity, which unites us in consciousness with all of our brothers/sisters, transcending all barriers of relationship-classification and difference. Fraternity, then, is in the final analysis, the archetypal relationship-pattern of humanity since we all must fulfill all patterns of inter-relationship with each other to fulfill the manifestation, on this plane, of the human ideal. 
 
-Chapter VII
-The Sun Sign
+### <h3 id="chapter-7">Chapter VII: The Sun Sign</h3>
 
 This discourse is presented as an attempt to give answer to often-propounded questions by astrological students such as: Why, in astrology, is the Sun considered and treated as a planet? What is really meant by "afflictions" to the Sun? Of what significance is the Sun in the astrological consideration of psychological problems? How can the Sun--the Creative Source of our system--be taken as a symbol of "bad karma?"
 
@@ -324,8 +317,7 @@ Exoterically, the personal Sun involved in square and opposition patterns pictur
 
 In the above statement is seen an answer to inquiries by students concerning the psychological value of the Sun symbol in astrology: To the degree that you remain unfocused will your weaknesses be challenged by the desire-power-authority urges of others; to the degree that you unfold awareness of your true identity as a focalizer of solar power and express that awareness through love in which no shadows can exist will you epigenetically improve the quality of your entire psychological base. The therapy of the Sun is JOY--the house-position of your personal Sun in this incarnation is where you have chosen to banish shadows by the radiance of your purified love nature. You created the shadows in the first place--the squares and oppositions to your personal Sun; only you, as a focalizer of solar power, can redeem those congested energies and transform their expression by constructive epigenesis. With reverence and joy identify yourself with your source--know that Its Power transcends that of any seeming outer negative. This is the therapy that has been given to us by every teaching-Master and in your horoscope (sooner or later) if you knock, the secret of your solar identity will be "opened unto you." Your purpose is not to "be submerged;" it is to love, to express, to radiate, to be a living testimonial to the divine in the human archetype. 
 
-Chapter VIII
-The Generic Spectrum
+### <h3 id="chapter-8">Chapter VIII: The Generic Spectrum</h3>
 
 In the last few years of the eighteenth century and the first two decades or so of the nineteenth occurred one of the most remarkable stellar phenomena of modern history--the conjunction of Uranus and Neptune, in Sagittarius and Capricorn. This "hyper-lunation" was "seed- planting" in terms of the cosmic vibratory powers of these two giants--rulers of the last two signs of the zodiacal belt.
 
@@ -371,8 +363,7 @@ Now we have the entire zodiac "lined up" by generic quality; the whole belt of t
 
 Apply this listing to many charts in addition to your own. Learn to "size up" the generic values of charts for practical analysis of relationship-problems. Pay particular attention to all planets that are dignified by sign-placement; a planet in dignity is a "first-house" vibratory placement--a "start" of a new cycle of aspect-patterns to be made by that planet in future incarnations. Also--pay careful attention to the "structural rulers:" Mars, Moon, Venus, and Saturn as respective rulers of the cardinal (structural) signs; also planets placed in the cardinal signs--because they will be disposited by the structural rulers. If you wish, it may be helpful to list the planets of a given chart by their "maleness and femaleness" (fire- earth, air-water) as well as "masculinity and femininity" (fire-air, earth- water). Check the element--or grouping (this is very important)--that contains the most of uncongested planets, or any chart that is uncongested. In this factor, we see a registration of definite spiritualization of generic quality- -an important signification of inner freedom. Also, the structural planet (Mars, Moon, Venus, and Saturn) that is most congested and most regenerate. Study these two planets not only by their aspect-patterns but also in terms of the congestion and regeneration of the planet which disposits it. We must know the generic quality that each planet is focalizing, and this "dispositorship" gives us that key. 
 
-Chapter IX
-Your Life-Assignment
+### <h3 id="chapter-9">Chapter IX: Your Life-Assignment</h3>
 
 The verb to assign is defined as "to mark out," "to point out specifically," "to set apart, as for a special person or purpose." These definitions imply that "to assign" is an action of selectivity by which a "something" is indicated to be appropriate or necessary for someone to undertake, to work with, to work on, or to fulfill. The act of assignment is made by someone for someone else or it is self-assumed; in either case, that which is to be dealt with is cognized or recognized to be a legitimate factor of endeavor or experience, a necessary part of an over-all plan or objective.
 
