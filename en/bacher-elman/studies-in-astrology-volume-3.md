@@ -25,7 +25,7 @@ Second Edition
 - [Chapter 8: The Eighth House](#chapter-8)
 - [Chapter 9: Planetary Retrogradation](#chapter-9)
 
-### <h3 id="">Chapter I: The Astrologer</h3>
+### <h3 id="chapter-1">Chapter I: The Astrologer</h3>
 
 The astrologer belongs to one of those many groups of people who, motivated by impersonal love, seek to add to the betterment of human conditions. He has come to a point in his development when his inner resources, distilled from past incarnations, are of such quality and scope that they "must out;" in other words, a part of his consciousness can no longer find satisfaction in the purely personal--or biological--levels of experience. (Of course, his impersonal service is an expression of his development and experience as a human being, but its purposes are for the world of human beings at large.)
 
@@ -61,8 +61,7 @@ The great responsibility of the astrologer is to keep his viewpoint free from al
 
 The astrologer serves best if he can keep his service output free from all limiting claims of financial remuneration. If he can make his living in another way and do his astrological work as a creative expression he stands a much better chance of keeping his channels open and free-flowing. The client has a perfect right to make compensation if he wishes to--since he wants to establish equilibrium in relationship to the astrologer by what he considers right exchange and to express his appreciation. However, financial remuneration cannot be allowed to become a static factor to the astrologer if he is to keep himself a symbol of universal giving. The moment he establishes a policy of specific charge for his service he risks cutting himself off from many people who may need his assistance but who cannot ask for it because they cannot afford it. In short, the astrologer who keeps his service channels open and free is the one who serves best, most completely, most happily, and most spiritually. 
 
-Chapter II
-The Astrological Mandala
+### <h3 id="chapter-2">Chapter II: The Astrological Mandala</h3>
 
 A mandala is an abstract design which is used as a focus for concentration and meditation by a creative artist. The mandala depicts the essence of an artistic concept; by meditation on it the artist concentrates his inspirational faculties which are subsequently released into form through painting, sculpture, or whatever medium the artist uses for his expression.
 
@@ -126,8 +125,7 @@ Simple and complex mandalas can be abstracted from any natal horoscope. Here are
 
 (4) The most important of all mandalas abstracted from a natal horoscope are those which pertain to the twelfth house. In composite, these give the clues to the whys and wherefores of the present incarnation. Suggest a mandala to be applied to a natal sign cusp wheel for every single factor pertaining to the twelfth house of the natal horoscope: sign, house, and sector placement of the ruler; vibrational and environmental placement of each planet aspecting the ruler; each condition pertaining to any planet in the twelfth house, and, last of all, a mandala composed of the signs on the twelfth cusp and the ascendant and the placement of their planetary rulers. 
 
-Chapter III
-White Light Astrology
+### <h3 id="chapter-3">Chapter III: White Light Astrology</h3>
 
 The essence of spiritual service of any kind is performed by the person who transmutes the negative areas of his own subconscious, strengthens and disciplines his mental faculties, keeps his heart consciousness alive with love power, and seeks always to be perceptive of the best in others. The perception of the actual or potential good in others is an ignition which sooner or later makes possible the expression of that good. The essence of evolutionary progress is the ever-unfolding awareness of Good; we as individuals make a contribution to the progress of the race as a whole when, by regenerate consciousness, we are able to alert others to a recognition of their higher potentials for the fulfillment of talents and abilities, health, love, and success in any field of endeavor.
 
@@ -167,8 +165,7 @@ The next step is to abstract a white light mandala, in the same way as is descri
 
 After the white light preparation has been made the squares and oppositions in your natal chart will be clearly and truthfully seen to be the process of experience and reactions to experience by which you regenerate your life on all planes. In conclusion, this statement is offered for your spiritual consideration: Regeneration of consciousness is not for the purpose of making trines for the future, it is for the purpose of unfolding God-consciousness through the expression of your planets according to their spiritualized white light principles. 
 
-Chapter IV
-The Astrologer Discusses Teaching
+### <h3 id="chapter-4">Chapter IV: The Astrologer Discusses Teaching</h3>
 
 Jupiter, as the abstract ruler of the ninth house, is the astrological symbol of the teacher. Since a consideration of abstract subjects is assisted by meditation on a drawn symbol, or "outpicturing," it is suggested that four astrological designs be utilized in the pursuance of this material.
 
@@ -216,8 +213,7 @@ This triangular design outpictures the dynamic consciousness; Jupiter as teacher
 
 On impersonal levels, it shows the inherent spiritual parenthood of all teachers to their pupils, who, on mental levels, are their children. Parents should be teachers; all true teachers bring to their pupils a radiation of Love-power that makes for completest fulfillment of their Teaching Service. 
 
-Chapter V
-The Ascendant
+### <h3 id="chapter-5">Chapter V: The Ascendant</h3>
 
 Students, this is a discussion of you.
 
@@ -263,8 +259,7 @@ The significance of the cusp carrying Aries in your chart shows, regardless of y
 
 Since the Aries cusp may be anywhere on the wheel and the Mars-potential in any chart may be slight or great in scope, there is an infinite variety of "Marsiness" possible. To the degree that your Mars is "congested" by square or opposition aspects and to the degree that planets in Aries (disposited by Mars) are congested will you have to learn to exercise the virtue of courage as an expression of your inner Love-Wisdom; to fight, not by resistance to people you feel are "enemies" but non-resistantly by transmuted expressions of your consciousness; to stand by your convictions (if they are truthful ones) as an expression of your integrity; and above all things to respect the right of other people to express themselves according to their vibratory equipment. A healthy, integrated Mars never tries to congest, inhibit, limit, or imprison the fulfillment of another, but he seeks always to encourage by his Love-Wisdom the ignition of their best and finest potentials on all planes. The person who knows Love-Courage and Wisdom-Courage is the person who truly knows what "I AM" means; we must all, sooner or later, come into an awareness of this spiritualized sense of identity with our Source--our Father-Mother God. 
 
-Chapter VI
-The Second House
+### <h3 id="chapter-6">Chapter VI: The Second House</h3>
 
 Conditions pertaining to the second house of the horoscopical wheel focalize a great deal of what the astrologer is called upon to interpret in his service. Since every phase of the horoscope has its particular principle, it is suggested that we elasticize our conception of the second house beyond the traditional approach of seeing it as money and possessions.
 
@@ -326,8 +321,7 @@ Fifth mandala--the Venus mandala: Taurus on the second cusp, Libra on the sevent
 
 To conclude this discussion: Utilize the spiritual keywords of the planets as they express rulership or occupancy of second house conditions; doing so insures perception of the esoteric purpose of money in this incarnation of your client. Do not weaken him by making financial decisions for him--to do so is a violation of your own Principle of Service. Alert him to his own consciousness of Principle and encourage him to "take up his own (financial) bed and walk"--walk in the paths of exercising his financial intelligence to its utmost best, in good will, honesty, and perfect exchange with all people. 
 
-Chapter VII
-The Fifth House
+### <h3 id="chapter-7">Chapter VII: The Fifth House</h3>
 
 The fifth house of the abstract horoscope is the second point for both the fixed-sign square and the fire-sign. The release of its potentials provides a very great channeling for spiritual on-going.
 
@@ -357,8 +351,7 @@ The fifth house is love in its most one-pointed expression. It is a radiation fr
 
 Let us appreciate, more than ever before, that expression of Love which made possible our incarnation. Let us learn of parental love from those who have gone before us and recognize that our on- going was made possible because they responded to the opportunity to release life in their releasing of love. And we must recognize that as we too, whether parents or not, do create a greater beauty for all when we tap our resources of joyous-heartedness; in doing so we, by the processes of sympathetic vibration, actually parent the joyousness in the consciousness of all people who come in contact with us. We want to live life in joyous terms, courageously, generously, and beautifully. In order to do so, we must express the heart center and live lovingly. 
 
-Chapter VIII
-The Eighth House
+### <h3 id="chapter-8">Chapter VIII: The Eighth House</h3>
 
 The experience of transition from the physical dimension to the invisible planes is one which humanity, for the most part, regards with a feeling of anxiety, dread, and in some cases, sheer terror. In no phase of astrological service is the astrologer required to be more sensitive, more impersonally compassionate, and more truly sympathetic than in those times when he is called upon to interpret a chart of someone whose grief-stricken reaction to the passing of a loved one has, temporarily, neutralized his capacity for on-going. Since each house in the wheel has its basic principles--as an experience-pattern--this material is presented with the hope that it will help all astrological students and practitioners to come into a clearer realization of this most occult of houses and thus to enlarge their ability to deal with people who are "walking the darkened pathway."
 
@@ -388,8 +381,7 @@ Do not, in such readings, make the mistake of interjecting your own personal rea
 
 Progressed Moon aspects current at the transition (that is, current in the client's chart) must be watched closely. What he puts into action during a progressed Moon aspect bears very significant fruit. If his reaction to the transition impels him to retrogressive action he stamps his consciousness with a deeper-than-ever impression of that aspect. So, again, we say that persons must be encouraged to release in constructive action for a mutuality of good when regenerative patterns are in effect. 
 
-Chapter IX
-Planetary Retrogradation
+### <h3 id="chapter-9">Chapter IX: Planetary Retrogradation</h3>
 
 Planetary retrogradation, as studied in astrology, is a periodic, rhythmic action which illustrates the great evolutionary principle of recapitulation.
 
@@ -432,4 +424,3 @@ Indication that the assignment of active recapitulation is to be assumed in the 
 Natal retrograde, progresses stationary, direct and then conjunct the natal position:
 
 The end of the period of abeyance and subjective recapitulation, the flowering of active recapitulation and actual, direct, creative expression of the planetary power; direct participation in the relationship-pattern and experience-factors represented by the planet, its house of rulership and house of occupancy. The particular aspect or phase of the soul-consciousness "comes into its own" and every natal aspect of regenerative quality--sextile or trine--indicated by the planet promises an upsurgence of great joy. The natal squares or oppositions indicated by the planet will bring testings at that time of life but, in terms of the person's greater ability to handle them, bringing to bear all the resources of spiritual power for the necessary resolutions. When a planet is natally direct but turns, and stays, retrograde by progression the indication is that this life sees a "withdrawing" from the factors represented by the planet; this action seems to indicate that the person is going to focus his attention, evolutionarily speaking, on other factors. If this planet, by progression retrograde, reaches the conjunction of its natal position in the present life, the indication is completely given that the special planetary factors will not be of major importance in the next life. 
-
