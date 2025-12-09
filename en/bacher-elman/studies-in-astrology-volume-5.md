@@ -65,8 +65,7 @@ The astro-priest, in his "primitive stage" is the moralist, sub-expression of th
 
 The third house comes into its "flowerings" in the seventh and eleventh houses; in these chapters, the astro-priest recognizes his "parallelity" with all people; as his unfoldment progresses by transcendence of experience, he realizes love-wisdom. He recognizes that the human is a suspension of the cosmic in all of its expressions and, in himself, he finds that which reflects the solution of his client's problems. Then it is seen that the composite goal of the astro-philosopher is realization that the worst in his client has been his own worst, at some time in the past; his best is an illumination into the dark corners of his client's conditions and reactions to those conditions. His wisdom and his love become fathomless resources for the re-direction of human patterns. 
 
-Chapter II
-Astro Philosophy Discusses Government
+### <h3 id="chapter-2">Chapter II: Astro Philosophy Discusses Government</h3>
 
 Government is the "functioning of the Universe in accordance with Cosmic Principles." It is the One Directive which impels the cause of, organizes and harmonizes the effect of, every creative and epigenetic action in the Cosmos. Since it is the expression of the One Will, cosmic government is archetypal Autocracy; it is the root-pattern by which every Logos, microcosmically, orders the life of its manifestation and it is that which, in human terms, we designate as mastery. Rulership, in any octave, is an aspect of the Directive Power symbolized by the Sun; all planetary powers are derivatives of this Unity.
 
@@ -122,8 +121,7 @@ Aquarius, fixed air-sign, is eleventh house-sign of the Great Mandala and fifth 
 
 The Aquarius mandala shows Capricorn at the twelfth cusp; that which is to be redeemed is crystallization of concept of separative human group-identity. Nations separate and different from each other, competitive against each other in fear and insecurity, are to he, by the Uranus vibration as ruler of Aquarius, re-identified as structure points in the edifice of the total of human society. This mandala, and the placement of Capricorn-Cancer, definitely pictures the influence of the Masters as those who serve by recharging the crystallized concepts of "separate nation- families" by the scope and power of their love-perceptions into a clearer realization of the one nation and the one family. The national placement of a Master--or of one who loves with a degree of Master-love--is the vibratory form into which he incarnates to fulfill his spiritual service; Joan of Arc for France, Queen Elizabeth for England, Kahlil Gibran for the people of Syria, etc. In all of these cases a service of inspired regeneration was performed for specified human groups but the entire race ultimately benefited by that service. If for example, Gibran thought of himself, in a congested way, only as a Syrian, the power of his poetry and painting would have been correspondingly depleted. He was a Syrian only by localized national identity; he was, and he knew it, in reality an Earthian and a "Solarian." The fraternal citizenship symbolized by Aquarius is the most complete picture of democratic principle in action because the scope of its power and influence includes all humans, regardless of outer aspects, background,or parentage. Aquarius, as ninth house-sign from Gemini, is fraternity universalized; as fifth house-sign from Libra it is love-radiation impersonalized and love-exchange spiritualized. All who learn are fellow-citizens and all who love are members of the heart's democracy. 
 
-Chapter III
-A Study of Polarity
+### <h3 id="chapter-3">Chapter III: A Study of Polarity</h3>
 
 The horoscope is, among many other things, a mandala of sexuality. The life of all manifestations is the interchange made by the Cosmic Forces as they express the dynamic and receptive polarities. That which is dynamic we refer to as "positive," "active," "masculine;" it designates "that which impregnates or stimulates." In physical manifestation of living, generating organisms we call it "male sex." That which is receptive is that which is acted upon; it is "passive," "resultant," "that which receives the impregnation or stimulation and nurtures the new life into active expression." In physical terms we call this polarity-expression "female sex." People are familiar with the terms "male sex" and "female sex" because the generative impulses are a natal factor in their own experience and they are evidenced in the life-experience of other forms, such as animal and plant life, perceived on every hand.
 
@@ -163,8 +161,7 @@ If one parent is an astro-philosopher, the other one should try to learn somethi
 
 Astro-philosophy provides a wonderful channel by which parents who are inclined to live excessively in their centers of feeling-response and emotion may gain perspective in their seeking to understand their children; further it gives the parents a wonderful "joint- hobby"--something they can use to help other parents and to enjoy together as long as they live. Through it they can realize the truth that marriage is fraternity, its life is mutuality, its flowering is true friendship. 
 
-Chapter IV
-Involuntary Military Experience
+### <h3 id="chapter-4">Chapter IV: Involuntary Military Experience</h3>
 
 Since the beginning of our incarnated experience, strife on any level or involving any quantity of persons has never been anything but a dramatization of the individual's struggle to evolve. The destruction, pain, and sorrow which the entity, humanity, has inflicted on itself has never been anything but an expression-in-action of ignorance of life-principles. This ignorance has always basically been--how could it be otherwise?--an individual matter.
 
@@ -196,8 +193,7 @@ Students--it is worse than futile to congest on resentment if this experience co
 
 The whys and wherefores of this experience are pictured in your horoscope. In ways which you may not even imagine, you can, if you must and will, become more aware of who and what you really are for the improvement of your entire incarnation and for your relationships with people in the future. 
 
-Chapter V
-The Giving of Gifts
+### <h3 id="chapter-5">Chapter V: The Giving of Gifts</h3>
 
 We use the word anniversary to designate a timing for the expressions of our appreciation of life. To those we love, admire, and respect we do not give gifts simply because these persons have succeeded in living a certain number of years--because it is natural for everyone to remain on this plane as long as he can. We give gifts at our festival occasions to express our appreciation that those we love (whose vibratory qualities represent our ideals) have remained here with us. We love, admire, and respect certain people because their vibratory quality is such that it stimulates something of our finer, regenerate consciousness; contact with these persons "ignites" our perception of the Light that abides in each of us and of which we are the manifested expressions on this plane.
 
@@ -231,8 +227,7 @@ Since incarnations are taking place every day all over the world we realize that
 
 The reality of Christmas can only be perpetuated if we function in this consciousness daily--never to lose sight of the essential light in all other human beings. The continued expression of such consciousness makes more and more evident the underlying meaning of the statement that: "He came that the Kingdom of Peace and Righteousness would be established on Earth." As with the Teacher, so with us; we are all agencies of this illumining and transfiguring power; our reverence for the Child, His human parents and the Angelic Hosts is our reverence for the love and the light which enfolds us all. 
 
-Chapter VI
-The Golden Rule
+### <h3 id="chapter-6">Chapter VI: The Golden Rule</h3>
 
 "Do unto others what you would that they do unto you."
 
@@ -274,8 +269,7 @@ Another form of "counterpart" is seen when you contact a person who has two plan
 
 Let us meditate more and more on the great principle of polarity, not from the standpoint of ourselves being "versus" everyone else, but that we are all reflections of each other. The worst and the best of each is counterparted by the best and worst of others; the established recognition, in consciousness, of our joint participation in the one WHITE LIGHT is the goal of all. 
 
-Chapter VII
-The American Astrologer
+### <h3 id="chapter-7">Chapter VII: The American Astrologer</h3>
 
 The horoscope of the United States of America: 10th-- 14 Aquarius 11th--13 Pisces 12th--23 Aries Ascendant--7 Gemini 2nd--1 Cancer 3rd--21 Cancer. Planets: Uranus--9 Gemini Mars--21 Gemini Venus--3 Cancer Jupiter--6 Cancer Sun--13 Cancer Mercury--24 Cancer North Node--7 Leo Neptune- -24 Virgo Saturn--15 Libra Pluto--27 Capricorn Moon--18 Aquarius. Mercury in Cancer is ruler of the chart and the numerical power five (the sum of digits representing July 4, 1776) is the Mercury number. The three principal planetary powers are, in sequence of relative value: (1) Moon in Aquarius; (2) Mercury in Cancer; (3) Uranus in Gemini. All other planets are related, by disposition, to Moon (Venus, Jupiter, and Sun in Cancer, Saturn in Libra, Pluto in Capricorn, no planets in Taurus, Sagittarius, or Leo) and Mercury (Mars in Gemini, Neptune in Virgo, no planets in Aries, or Pisces).
 
@@ -298,4 +292,3 @@ Another most important factor in this chart is the sign Libra on the sixth cusp;
 Also, Neptune in Virgo squared by Mars pictures the consciousness-defaults of both employers and employees in regard to the principles of service. When Neptune, as ruler of the eleventh house, is contaminated by negative Mars then the Aquarian objective of the Midheaven is held back from fulfillment. As long as the slogan "Capital versus Labor" is interpreted as a reality, this square--as a congestion in the national consciousness--will prevail. The sextile by the chart's ruler Mercury to Neptune, plus Libra on the sixth cusp, ordains that every American citizen- worker, whether employer or employee, is evolutionarily committed to exercise the principle of cooperative love-service in balanced exchanges. The employer who is negatively based, in ignorance, on exploitation disqualifies for the creative identity of "employer;" the employee who is based on the "un- principle" of non-improvement disqualifies for further development--he postpones the day for qualifying as a creative or administrative worker.
 
 The astrologer in this country who is focused on the ever-clarifying of his consciousness of life-principles has a specialized evolutionary service to contribute to the race in this "modulatory, gestative" time. In the United States, he can deal with almost every kind of evolutionary social strata, every kind of karmic-return pattern and, because of the repolarization of the archetype during the past century, he is able to contribute a clarifying of relationship-principles through the extended understanding of the principles pertaining to our sexual and generic nature. He himself--through attribute as a "Uranus-identity"--stands as a microcosmic Earthian identity not just because he is an inhabitant of this planet but because the impersonality of his viewpoint, scope of perception, radiativity of Uranus-love-power qualify him, in degree, to personify the New-Age Human. 
-
