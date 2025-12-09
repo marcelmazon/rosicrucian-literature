@@ -11,8 +11,6 @@ original_source_file: 'self'
 
 by Elman Bacher
 
-Second Edition
-
 ### <h3 id="table-of-contents">Table of contents</h3>
 
 - [Chapter 1: The Astrologer](#chapter-1)

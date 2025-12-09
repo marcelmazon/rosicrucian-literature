@@ -1,7 +1,7 @@
 ---
-title: "Studies in Astrology - Volume 2"
+title: "Studies in Astrology - Volume II"
 language: 'en'
-original_title: "Studies in Astrology - Volume 2"
+original_title: "Studies in Astrology - Volume II"
 original_language: 'en'
 author: 'Elman Bacher'
 original_source_file: 'self'
@@ -10,8 +10,6 @@ original_source_file: 'self'
 <h1 id="studies-in-astrology-volume-2">Studies in Astrology - Volume II</h1>
 
 by Elman Bacher
-
-Second Edition
 
 ### <h3 id="table-of-contents">Table of contents</h3>
 

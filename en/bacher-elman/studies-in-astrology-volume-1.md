@@ -1,7 +1,7 @@
 ---
 title: "Studies in Astrology - Volume I"
 language: 'en'
-original_title: "Christ or Buddha?"
+original_title: "Studies in Astrology - Volume I"
 original_language: 'en'
 author: 'Elman Bacher'
 original_source_file: 'self'
