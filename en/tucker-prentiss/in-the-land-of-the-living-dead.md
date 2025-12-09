@@ -1,132 +1,33 @@
+---
+title: 'In the Land of the Living Dead'
+language: 'en'
+original_title: "In the Land of the Living Dead"
+original_language: 'en'
+author: 'Prentiss Tucker'
+original_source_file: 'self'
+---
 
-Skip to main content
-Texts
-Video
-Audio
-Software
-Images
-
- Sign up for free
- Log in
-
-Search metadata
-Search text contents
-Search TV news captions
-Search radio transcripts
-Search archived web sites
-Advanced Search
-
- About Blog Events Projects Help Donate 
-
- Contact Jobs Volunteer 
-
-Full text of "In the land of the living dead : an occult story"
-See other formats
-
-GIFT OF 
-
-
-VJJv-x^»^*< &i xilvj^ 
-CA^^^Js, <^ 
-
-^v "^^ 
-
-
-In The Land 
-
-of 
-The Living Dead 
-
+<h1 id="in-the-land-of-the-living-dead">In The Land of The Living Dead</h1>
 
 An Occult Story 
 
-BY 
+By Prentiss Tucker
 
-PRENTISS TUCKER 
+First Edition
 
+### <h3 id="table-of-contents">Table of Contents</h3>
 
-FIRST EDITION 
-
-
-PUBLISHED BY 
-
-THE ROSICRUCIAN FELLOWSHIP 
-International Headquarters 
-
-Mt. Ecclesia 
-Oceanside, California 
-
-
-L/ondon: 
-
-LI. N, Fowler & Co., 7 Imperial Arcade 
-lyudg-ate Circus ; J 
-
-
-COPYRIGHT 1921 
-
-BY 
-THE ROSICRUCIAN FELLOWSHIP 
-
-
-FELLOWSHIP PRESS 
-OCEANSIDE, CALIFORNIA 
-
-
-Vir. Sid 
-
-
-to send 
-
-Living [)< 
-I 
-it may b< 
-
-
-^ 
-
-1^ 
-
-
-P.O.Box 12 
-
-
-Table of Contents 
-
-
-Chapter I 
-
-A Visit to the Invisible Planes. 
-Chapter II 
-
-A Sergeant's Experience after ''Passing Out." 
-Chapter III 
-
-A Soul Flight. 
-Chapter IV 
-
-Back to Earth— A Pretty Nurse. 
-Chapter V 
-
-The Elder Brother in the Flesh. 
-Chapter VI 
-
-A Doughboy's Ideas on Religion. 
-Chapter VII 
-
-Helping a Slain Soldier to Comfort his Mother. 
-Chapter VIII 
-
-A Study of Auras. 
-Chapter IX 
-
-An Experience with Nature Spirits. 
-Chapter X 
-
-A Crisis in Love. 
-Chapter XI 
-
-Light Again. 
+- [Chapter I: A Visit to the Invisible Planes](#chapter-1)
+- [Chapter II: A Sergeant's Experience after ''Passing Out."](#chapter-2)
+- [Chapter III: A Soul Flight](#chapter-3)
+- [Chapter IV: Back to Earth— A Pretty Nurse](#chapter-4)
+- [Chapter V: The Elder Brother in the Flesh](#chapter-5)
+- [Chapter VI: A Doughboy's Ideas on Religion](#chapter-6)
+- [Chapter VII: Helping a Slain Soldier to Comfort his Mother](#chapter-7)
+- [Chapter VIII: A Study of Auras](#chapter-8) 
+- [Chapter IX: An Experience with Nature Spirits](#chapter-9)
+- [Chapter X: A Crisis in Love](#chapter-10)
+- [Chapter XI: Light Again](#chapter-11)
 
 
 44272,1 
