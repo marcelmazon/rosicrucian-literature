@@ -1,19 +1,24 @@
+---
+title: 'Evolution from the Rosicrucian Standpoint'
+language: 'en'
+original_title: "Evolution from the Rosicrucian Standpoint"
+original_language: 'en'
+author: 'Augusta Foss Heindel'
+original_source_file: 'self'
+---
 
-EVOLUTION FROM THE ROSICRUCIAN STANDPOINT
-by
-Mrs. Max Heindel
+<h1 id="evolution-from-the-rosicrucian-standpoint">Evolution from the Rosicrucian Standpoint</h1>
 
+by Mrs. Max Heindel
 
-TABLE OF CONTENTS
+### <h3 id="table-of-contents">Table of Contents</h3>
 
-Chapter I: Prehistoric Periods
-Chapter II: The Development of Bodies
-Chapter III: The Lucifer Spirits and the Children of the Mist
-Chapter IV: Biblical Correspondences and the Darwin Theory 
+- [Chapter I: Prehistoric Periods](#chapter-1)
+- [Chapter II: The Development of Bodies](#chapter-2)
+- [Chapter III: The Lucifer Spirits and the Children of the Mist](#chapter-3)
+- [Chapter IV: Biblical Correspondences and the Darwin Theory](#chapter-4)
 
-
-CHAPTER I
-PREHISTORIC PERIODS
+### <h3 id="chapter-1">CHAPTER I: PREHISTORIC PERIODS</h3>
 
 As we look off into the starry dome of the heavens, we may see a picture that is awe-inspiring, and the longer we gaze, the greater are the number of stars which present themselves to view. Among them there are two bright stars called by astronomers the lamps of the night. They are ever revolving about the North or Pole Star, the mariner's guide. These two stars are the foremost in a group called the Plow or Dipper, and are ever pointing the way to the Pole Star, which is almost stationary and for that reason most reliable as a friend to give direction to the sailor at sea. We admire the splendor of these bright stars, and our eyes at once begin to trace the figure of the Great Bear, of which they are a part.
 
@@ -159,21 +164,4 @@ Darwin presented the material facts of evolution in such a way that they could b
 
 How pathetic is the struggle of the anti-evolutionist to the occult scientist, who can see with the X-ray sight, who has positive proof of evolution, who can observe the picture reels of the microcosm as well as of the macrocosm, and who can follow the records of man through many lives! How absurd this struggle is to such a one, in which a few men who are limited in their vision are making an attempt to restrict the religious thought of free America, and who would dictate to the world what it shall and what it shall not believe! One great benefit, however, will be derived from the struggle over evolution: If the fundamentalists could but see the effect which their fight against evolution will have upon humanity, they would know that they are being used as instruments by the Great Ones who are guiding us behind the scenes, to bring about a national interest in evolution. People are now reading Darwin and comparing him with the book of Genesis who never thought of it before, and they are seizing upon any book which deals with the subject. The result will be that many will become converts to the very doctrines that the fundamentalists are attempting to ban by law. Thus we may see that the anti-evolution controversy which is creating such vast interest throughout the entire world, is truly a cloud that has a silver lining.
 
-
-End of
-Evolution from the Rosicrucian Standpoint
-
-
-
-
-Table of Contents
-Click here to return to The Rosicrucian Fellowship Home Page.
-Rosicrucian Fellowship Philosophy Study Courses information
-Order the printed version of this book. 
-
-
-Rosicrucian Fellowship - International Headquarters
-2222 Mission Avenue, Oceanside, CA 92058-2329, USA
-(760) 757 - 6600
-Contact us
-
+End of Evolution from the Rosicrucian Standpoint
