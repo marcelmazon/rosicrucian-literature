@@ -50,9 +50,7 @@ This loss of the spiritual sight now caused the spirit to turn within for the li
 
 The vegetation, as we may observe in our moving picture, was growing to an enormous size; the steam-laden atmosphere was conducive to rapid growth.
 
-
-CHAPTER II
-THE DEVELOPMENT OF BODIES
+### <h3 id="chapter-2">CHAPTER II: THE DEVELOPMENT OF BODIES</h3>
 
 We emerged from the long sleep of a cosmic night after the Moon Period. As we stated in the preceding chapter, a cosmic night must come after each period. We will now skim lightly over the views of the fourth or Earth Period. Like the human spirit, which must find its growth and expression through successive lives in the physical body, so is the earth the body of a Great Spirit seeking its development through these successive periods.
 
@@ -94,9 +92,7 @@ Again turning to the picture of the earth during the Lemurian Epoch, we find the
 
 Man had developed the sense of hearing and sight was just beginning to develop in two sensitive spots, which the sun, faintly shining through the clouds, was sensitizing and which later became the eyes.
 
-
-CHAPTER III
-THE LUCIFER SPIRITS AND THE CHILDREN OF THE MIST
+### <h3 id="chapter-3">CHAPTER III: THE LUCIFER SPIRITS AND THE CHILDREN OF THE MIST</h3>
 
 We now come to the part of God's great picture reel which depicts the earth in the latter part of the Lemurian Epoch. Man was gradually taking an upright position. The spinal column was becoming hardened, and the blood was taking in the iron which was supplied by the Martian influence. The ego, which up to that time had worked upon its vehicles from without, was gradually drawing within, and man began to sense things outside of him. At this period he was wholly unconscious of his physical body. He was awake, however, in the desire world and could at that stage commune directly with the gods.
 
@@ -122,9 +118,7 @@ A similar condition may be noted at the present day: in the lower phases of evol
 
 We now pass on to the picture which is perhaps the most familiar to us, that of the fifth or Aryan Epoch. The man whom we have pictured up to this present period was expressing himself through a fourfold body, a physical, vital, desire, and partially developed mental body. But as man evolves and necessity calls for them, changes take place. Man is now forming the matrix for a new body, the soul body, that shining raiment in which he is to meet Christ in the air, the body in which he will again meet his spiritual teachers and commune with them direct. This body is now shaping in many who are working to purify their lives and who are beginning to sense the necessity of living not for self but for all. As the desire body is mastered and the physical body purified, and as the two higher ethers are developed, this new soul body shapes itself.
 
-
-CHAPTER IV
-BIBLICAL CORRESPONDENCES AND THE DARWIN THEORY
+### <h3 id="chapter-4">CHAPTER IV: BIBLICAL CORRESPONDENCES AND THE DARWIN THEORY</h3>
 
 We have previously touched lightly upon the principal points on the path of evolution of the earth and man to the present period. We will now see how this connects with the story given to us in the Bible.
 
