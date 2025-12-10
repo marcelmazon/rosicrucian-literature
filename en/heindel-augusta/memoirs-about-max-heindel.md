@@ -33,7 +33,7 @@ I-K MOUNT ECCLESIA CANYON AND SAN LUIS REY VALLEY
 I-L FIRST BUILDING ON MOUNT ECCLESIA
 I – M FIRST BUILDING & SNOW-COVERED SAN JACINTO MOUNTAIN
 
-<h2 id="part-1">Part I: Max Heindel—The Rosicrucian Order and The Rosicrucian Fellowship</h2>
+<h2 id="part-1">Part I: Max Heindel - The Rosicrucian Order and The Rosicrucian Fellowship</h2>
 
 Friends have entreated me for a number of years to write my
 memoirs of Max Heindel and tell of the intimate associations
@@ -1291,7 +1291,7 @@ painting woodwork and arranging the homemade office
 furniture so that the actual work could be started on Monday
 morning at the return of the two helpers.
 
-<h2 id="part-2">PART II: THE ROSICRUCIAN FELLOWSHIP HEADQUARTERS</h2>
+<h2 id="part-2">Part II: The Rosicrucian Fellowship Headquarters</h2>
 
 
 II - E First Building with Vegetable Garden
@@ -1358,7 +1358,7 @@ Mount Ecclesia Drive
 II – Y Mount Ecclesia, 1917
 (Tennis Court on Left)
 
-<h2 id="part-2">Part II: THE ROSICRUCIAN FELLOWSHIP HEADQUARTERS</h2>
+<h3 id="part-2-h3">Part II: The Rosicrucian Fellowship Headquarters</h3>
 
 #### <h4 id="the-first-driveway">THE FIRST DRIVEWAY</h4>
 
@@ -3163,12 +3163,10 @@ on, he would ever reply that there would be no leaders, that the
 Board of Trustees would then have charge of all the work, which
 would be under their direct leadership.
 
-PART III
-THE WORK AT
-MOUNT ECCLESIA
-AND
-THE NEW BUILDINGS
+<h2 id="part-3">Part III: The Work at Mount Ecclesia and the New Buildings</h2>
+
 PART III PICTURE INDEX
+
 Laying of Temple Cornerstone........................................................ III-B
 Temple Construction with Work Crew (Architect supervising)...... III-B
 Temple Construction Post Card....................................................... III-C
@@ -3240,9 +3238,10 @@ III – V 1930’s Easter Sunrise Service at Rose Cross CircleIII – V 1930’s
 III – X Collage of Mount Ecclesia Buildings
 III – X Collage of Mount Ecclesia Buildings
 III – Y Augusta Foss Heindel
-Part III
-THE WORK AT MOUNT ECCLESIA
-AND THE NEW BUILDINGS
+
+### <h3 id="part-3-h3">Part III: The Work at Mount Ecclesia and the New Buildings</h3>
+
+
 Returning again to our printshop in 1918, the man and wife
 whom we had brought with us from Los Angeles were very good
 workers and they helped considerably in the linotype work and
@@ -3260,7 +3259,9 @@ the enlarged Message of the Stars, also the enlarged Simplified
 Scientific Astrology. Some years later these two were married,
 and at this writing Mr. and Mrs. Caswell are again numbered
 among our workers.
-AFTER THE CHANGE
+
+#### <h4 id="after-the-change">AFTER THE CHANGE</h4>
+
 There was a time back in 1913, shortly before the opening of
 the first summer school, when Max Heindel had a trying time
 with some visitors, and after they had gone he passed into a very
@@ -3270,10 +3271,10 @@ recovered, and her first remark to him was, "Oh, dear, if you had
 left me, what would I have done?" He looked at her with such a
 sweet smile and replied, "My dear, if I had gone you would have
 carried on, but if you had left me, I could not have carried on
-92 MEMOIRS
 without you." And so it was; after the demise of our dear one the
 work went on as ever. In fact, it took on new life, because of
 Max Heindel's work on its behalf from the inner planes.
+
 After a few months several old members who had been in
 the work a number of years came to Headquarters. W. J. Darrow,
 from the New York Center, who was a building engineer, came
@@ -3288,6 +3289,7 @@ Roberts became head of that department. There was no one to
 drive the car until later when a young man, a member from
 Chicago, Joseph Hoheisel, reached Oceanside. This young man
 was a good automobile mechanic and a very sincere student.
+
 Trouble arose in the bindery with the newly installed binding
 machinery. The folder especially, was most troublesome to
 adjust for folding the magazine. As our dear mechanic Max
@@ -3297,16 +3299,17 @@ spent an entire Sunday at this folder until at last she had the
 adjustments in order, so that the workman could go ahead on
 Monday morning with the folding of the magazine, which was
 printed but was held over for folding.
+
 Next, trouble materialized with the book-sewing machine
 and no mechanic in Oceanside was familiar with this
 complicated machine. Again the writer spent her Sunday
 tinkering and working with this machine until she had mastered
 it and put it into working order. The reason she used Sunday was
 that then she had no men about her who would make suggestions
-93 THE ROSICRUCIAN FELLOWSHIP
 and offer to do this work, thus taking them away from their own
 vital and much needed work. On Sunday she could be alone and
 concentrate her entire thought on her work.
+
 Things began to adjust themselves in the print shop and other
 departments, and experienced and loyal workmen came to us.
 Strange as it may seem, as much as Max Heindel had done and
@@ -3318,9 +3321,13 @@ on, and men may be likened to the waves of the great ocean, as
 one wave breaks and passes on into the great waters, another
 wave takes its place. No matter how valuable we may be, others
 will step into our places, and the work will go on.
+
 From "Echoes From Mount Ecclesia," March 1919:
+
+```
 “Mount Ecclesia has been my home for over five years and I have
 had every opportunity to verify my first impressions.
+
 “To the world at large, Max Heindel was the Student and Teacher
 of Mysticism. Many all over the world have received their first
 impression of Occultism from him. To those in his correspondence
@@ -3329,13 +3336,14 @@ authorized by the Elder Brothers to lead us into the higher mysteries of
 the Rosicrucian Philosophy—but to those of us who were privileged to
 live at Headquarters, who saw the man as well as the Lay Brother, he
 was a living example of his teachings.
+
 “Unassuming, he shunned the crowd who came with curious
 questions, yet to those who sought assistance he was ever kind and a
 tower of strength—a man of few words—but we who needed help
 received an answer which carried conviction and satisfied. He taught
 us to serve by his own example. He was one of us and loved his home,
 was most considerate of all, and whenever needed he served.
-94 MEMOIRS
+
 “This has been hard Pioneer work; sagebrush and weeds covered
 the ground when bought eight years ago. We never lacked for money
 for what was necessary, but, alas, the workers who came—sent by our
@@ -3347,6 +3355,7 @@ water! Was anything out of order in the automobile, he was on his back
 under the car to fix it. Lately he found it necessary to be the mechanic
 of our Press Room, as competent mechanics on the Linotype were
 scarce on account of the War.
+
 “Five years ago, I saw him come into the old tent which then served
 as a Dining Room and seated over fifty people, with pail and mop to
 clean the room, for every male Probationer thought it too menial a work
@@ -3355,31 +3364,38 @@ around. He was the architect of our many buildings and often when
 workmen failed, could be seen handing up the tiles to those above. His
 heart has grieved that so many whom he thought he could trust had
 failed him.
+
 “And so the frail body gave way under the strain when he might
 have been saved to this great work if all had done their duty.
+
 “He loved these mountains and hills, snow-capped Baldy and San
 Jacinto, and the wide sweep of the Pacific Ocean with its ever-
 changing sunsets.
+
 “Always the gentleman, he was not afraid to show his loving
 consideration for his companion, for they were one in Soul and Spirit.
 A strong tie binds all of us who have had the privilege of knowing the
 man as well as the Leader. We cannot forget his strong voice as he led
 us in singing in the Pro-Ecclesia, or the happy, beaming smile with
 which he greeted those in whom he had confidence.
+
 “Can any of us who were here at Christmas time forget the
 Christmas dinner and the afternoon that followed? How happy and
 cheery and witty Mr. Heindel was, the songs he sang in his rich bass
 voice, and the stories he told, the jokes that passed. And again at our
 little New Year's party, he was one of the merriest there, applauding
 heartily the efforts of the others, and ever ready to do his part in adding
-95 THE ROSICRUCIAN FELLOWSHIP
 to the enjoyment of all. None can forget his singing us the sailor's
 version of 'Where are you going, my pretty maid' to the old time
 melody which he did with appropriate action.
+
 “We miss the bodily presence, but he is yet our Leader, and we still
 hear his voice as he repeated that favorite poem, 'There is no Death'"—
 Mary L. Lyon.
-THE ECCLESIA—TEMPLE OF HEALING
+```
+
+#### <h4 id="the-ecclesia-temple-of-healing">THE ECCLESIA—TEMPLE OF HEALING</h4>
+
 Attempts had been made by students during the life of Max
 Heindel to collect the monies wherewith to build the Ecclesia
 (Temple). The students who were interested in this, however,
@@ -3402,7 +3418,7 @@ commemorate a double event by celebrating on Max Heindel's
 birth date, we laid the cornerstone (which had been prepared and
 dedicated by Max Heindel in November 1914), and the work
 proceeded.
-96 MEMOIRS
+
 A number of experienced men who had knowledge of
 building and contracting were among this group of workers, and
 again we find our willing server, Rollo Smith, with us. The work
@@ -3415,6 +3431,7 @@ which was the end of the second decade, and how everyone
 worked! They were all determined to finish the Ecclesia so that
 the dedication service could be held at midnight on Holy Night,
 December 24, 1920. And they did.
+
 The work was going forward at a most rapid rate. The
 following will show our readers how the work had grown in a
 little over one year after Max Heindel left the physical body.
@@ -3426,6 +3443,7 @@ rest of the workers were non-members, but as soon as Max
 Heindel left us, members were ready to do their best. The work
 grew so fast that it was necessary to employ numbers of workers
 in all departments; new life began to appear in every department.
+
 We will reprint a section from the "Echoes" printed in the
 Magazine of September 1920, written by Mrs. Cramer, one of
 our workers. It will give you an idea of the activities of the busy
@@ -3433,7 +3451,8 @@ workers who were building that greatest of all, the Rosicrucian
 Temple of the western hemisphere—a building which is to
 become the central focusing point of the Rosicrucian Method of
 Healing.
-97 THE ROSICRUCIAN FELLOWSHIP
+
+```
 At the foot of the cross in front of the library there is a large star
 laid out in lippia, a plant lying close to the ground and bearing a pretty
 little flower that seems to be a veritable honey mine for the bees. All
@@ -3445,16 +3464,20 @@ Upstairs in the administration building there is a clicking of
 typewriters, a constant going and coming of swift, silent feet upon
 errands of service in the work. Upon the wind, ever blowing coolness
 in the sunshine, comes the subdued roar of the ocean.
+
 And now there is another strong buzz in this hive, for over on
 Ecclesia Point the concrete mixer turns and turns all day long, mixing
 stones, sand, cement and water for the waiting wheel-barrows that
 carry it to the trenches and forms, where gradually the Ecclesia is
 growing up out of the ground.
+
 It is all so wonderful and stimulating, this busy place, the center
 of a great work in the world. It is such a swift moving panorama: First
 the ground breaking, then the trench digging, then the filling in with
 concrete and finally our red letter day, July 23rd, 1920, the Laying of
 the Cornerstone. It was glorious!
+```
+
 In order to take care of all our extra workers at this time we
 bought tents. We were able to procure several large army tents
 and we erected floors and built standard doors to these large
@@ -3464,12 +3487,13 @@ everywhere! Classes were held almost every evening—Mrs.
 Arline Cramer presided over the Cosmo Class, Margaret Wolff
 over the Astro-Diagnosis. Expression classes and Astrology
 classes were also held.
+
 In the Magazine we read in the November 1920 "Echoes"
 that the print shop and book bindery were finishing 5500 copies
 of The Rosicrucian Cosmo-Conception, 5000 copies of
-98 MEMOIRS
 Simplified Scientific Astrology, and 4000 copies of The Web of
 Destiny.
+
 The prices of labor and paper had gone up so dreadfully after
 the war that in order to save, we concluded to print our principal
 books in our own printshop. Later this was discontinued on
@@ -3479,6 +3503,7 @@ Simplified Scientific Astrology printed in Chicago for the reason
 that our print shop is too small and the present machinery
 inadequate to handle the many thousand copies necessary to
 supply our present trade.
+
 In 1920 we started reprinting Max Heindel's monthly lessons
 arranged appropriately for printing in book form. At this time
 The Web of Destiny [see also here] and The Mystical
@@ -3489,16 +3514,19 @@ and in the fall of 1920 the price had risen to 31¼ cents. Also in
 1918 we paid 7 cents for each book cover; in 1920 the price was
 20 cents. You can now realize what a tremendous expense was
 incurred in printing and binding our books.
-THE DEDICATION OF THE ECCLESIA
+
+#### <h4 id="the-dedication-of-the-ecclesia">THE DEDICATION OF THE ECCLESIA</h4>
+
 This wonderful event which took place on Holy Night, the
 24th of December, 1920, can best be described by quoting from
 the 'Echoes' as written by Arline Cramer in the magazine of
 February 1921:
+
+```
 “The completion of the Temple was delayed because of the impossibility
 of getting the interior finish or trim from the mills, although the order had
 been placed in September. However, all necessary things came along a few
 days before Christmas. The beautiful colored glass windows were set, and
-99 THE ROSICRUCIAN FELLOWSHIP
 the central ceiling light arrived and was placed by loving hands so that the
 twelve sided room of the temple is flooded with a golden radiance. Chairs
 had to be secured by loan. A driveway had to be made from the
@@ -3510,12 +3538,16 @@ were gathered to make these places sweet and beautiful. ...The marguerites
 on their great globular bushes, many of them four feet high, danced before
 us, nodding and smiling, coaxing to be taken into the Temple. What a joy
 to see these flowers, so abundant here in the winter time....
+
 “The regular duties and the special work for the great event, the
 dedication of the Temple, swept us swiftly onward to Holy Night.... The
 mist lifted and hovered over us in a silvery dome, illumined from above by
 the full moon, as though to veil "the birth of the Babe" from all who should
 not see....
+
+
 Dedication Service
+
 “At 10:30 P.M. the probationers and disciples assembled in the Temple
 for the dedication and the Full Moon Meeting,
 the two events awakening vibrations within us that can lift us to the throne
@@ -3524,6 +3556,7 @@ of the Father to bring down blessings upon those who will receive. At
 marched from the Pro-Ecclesia to the Temple. Their sweet voices in the
 still night rang out with a call that swept us all into a great wave of
 adoration.
+
 “Mrs. Frances Ray was at the organ in the Temple, and played from
 "Parsifal" that wonderful march of the Knights of the Holy Grail. How we
 wish we might have had a fine pipe organ for that grand masterpiece. Then
@@ -3532,9 +3565,9 @@ to the melody. This was followed by a most impressive reading of the
 Scriptures concerning the Immaculate Conception and the Birth of Christ.
 During the reading, stereopticon views were thrown upon the screen over
 the little organ. Many of the pictures are reproductions of paintings of the
-100 MEMOIRS
 great masters, and they are very, very inspiring. In a rich, full contralto
 voice, Mme. Louise
+
 “Then Mrs. Heindel addressed us upon the purpose of the work and the
 necessity of personal consecration, arousing in all a hearty resolution to
 press on in spiritual achievement for Christ and humanity. As she told us
@@ -3542,20 +3575,25 @@ of the soul hunger of the world for Truth, many of us felt that dedication
 of the life to the Teaching. Mrs. Heindel spoke in a clear, low tone which
 brought out the fine quality of the acoustics of the Temple. There was no
 echo, yet every word carried to all parts of the twelve-sided room.
+
 “Mr. D. Moro then played a beautiful selection upon the flute as we
 prepared ourselves for the Silent Prayer, for which we were called by the
 sweet tones of a zither solo, rendered by Mr. Eugene Muller. This method
 of going into the Silence, accompanied by soft music and being recalled
 by the same, is particularly harmonizing and uplifting when we cease all
-care for self and flow into that union of all who love, in the service of those
-who suffer.
+care for self and flow into that union of all who love, in the service of those who suffer.
+
 “We sang “O Little Town of Bethlehem,” after which Mrs. Heindel gave
 us the parting admonition. Then we silently withdrew while Mrs. Ray
 played an organ “Recessional.”
+
 “At eleven o'clock on the following Christmas Day, another service was
 held in the Temple. All during that day the exercises and spiritual services
 continued. It was a day long to be remembered by those who were present.”
-ECCLESIA COTTAGE
+```
+
+#### <h4 id="ecclesia-cottage">ECCLESIA COTTAGE</h4>
+
 Mount Ecclesia was suffering for room and the monies were
 not available for the erection of buildings, but there was much
 scrap lumber, left from the forms used to build the concrete walls
@@ -3567,14 +3605,15 @@ which had been built for Mr. Grell and his family in 1918. The
 lower floor was well built with a good foundation, so this scrap
 lumber came in very handy. The inside walls were finished with
 wall board, and the outer walls were sided with shingles, which
-101 THE ROSICRUCIAN FELLOWSHIP
 covered much of the patching which had been necessary. These
 men were also able to put in all the plumbing, and this house
 today, with its twelve rooms with lavatories in each room, and
 two bathrooms, is a dormitory for part of our force of women
 workers. The seven rooms which were added on the upper floor
 were much needed for our women workers.
-ECCLESIA PICTURES
+
+#### <h4 id="ecclesia-pictures">ECCLESIA PICTURES</h4>
+
 One of our loyal members in Paris, Mr. Camille Lambert, a
 noted artist, offered to paint twelve oil paintings for the Ecclesia,
 to be placed in the twelve sections above the colored glass
@@ -3596,14 +3635,16 @@ seat in the row on which his sun sign is printed. These seats
 remain their regular places as long as they are at Headquarters.
 The large armchair in which the reader is seated has the sign Leo
 in gold lettering on the top of the back.
-102 MEMOIRS
+
 The floor covering was formerly a green linoleum, but this
 was changed in 1939 to a new tan linoleum covering. Rostrum
 and aisles are now covered with tan carpet.
+
 A small organ was the only musical instrument which
 Headquarters could afford at the beginning but this gave us the
 harmony and the lead for our songs, until a date of which we will
 write later.
+
 The long and muddy footpath which followed the contour of
 the hill from the Chapel to the Temple was later made into a
 cement walk, beside which electric lights were strung. Our first
@@ -3613,7 +3654,9 @@ new building and around a sunken garden. This drive is very
 popular with visitors who come to stand on the edge of Ecclesia
 hill and admire the wonderful view of the San Luis Rey Valley
 with its famous old Mission which was erected in 1798.
-OUR DOG SMART
+
+#### <h4 id="our-dog-smart">OUR DOG SMART</h4>
+
 The little white dog Smart, which the Heindels had adopted
 to keep the rabbits out of the vegetable patch and which was later
 adopted by one of the summer school students, returned to
@@ -3621,13 +3664,13 @@ Headquarters in the latter part of 1919. His new mistress, Mrs.
 Kittie Cowen, whose husband passed into the great beyond
 during that year, returned to make her permanent home at Mount
 Ecclesia and Smart returned with her.
+
 He divided his time between the rooms of Mrs. Cowen and
 the writer. He was always loyal to his first mistress, especially
 after an experience he had during Mrs. Cowen's absence for
 several weeks. A neighbor had a very vicious bulldog tied up in
 his yard, and Smart attempted to help himself to some of this
 dog's food. Well, the poor little fellow was dreadfully torn and
-103 THE ROSICRUCIAN FELLOWSHIP
 bruised after the big dog got through with him, and he was
 brought to the writer's rooms a mass of blood. A visiting nurse
 helped to dress the wounds of this poor little dog, and set his
@@ -3639,7 +3682,9 @@ time he was again as well as ever, but he never forgot his friend
 in need. Smart remained with us for a number of years and
 passed out of the picture suddenly. Mrs. Kittie Cowen is still
 among our workers at Headquarters.
-A MORTUARY
+
+#### <h4 id="a-mortuary">A MORTUARY</h4>
+
 The Rosicrucian method of caring for the dead is coming into
 quite general use, for cremation is now preferred by many as a
 method of disposing of the body and thereby helping the spirit
@@ -3652,18 +3697,20 @@ Charles Swigert was superintendent he arranged for the erection
 of a mortuary, an airtight cement vault-like building where the
 bodies of our departed ones may be kept on ice during the three
 and one-half days before cremation.
-ROSE CROSS LODGE
+
+#### <h4 id="rose-cross-lodge">ROSE CROSS LODGE</h4>
+
 With the enlarged crew of workers and the interest displayed
 by the visitors who were attracted here by the building of the
 new Temple, the Mount Ecclesia accommo-dations were most
 inadequate. Many were not able to remain for any length of time
 on account of the cramped and uncomfortable quarters and so it
-104 MEMOIRS
 became necessary that we build a larger building, and a twenty-
 room hotel was planned. At first we feared we were not
 financially able to meet this expenditure, but the Oceanside
 Bank was most helpful and made us a loan on the writer's note
 for the sum of $7000, which we paid off within two years.
+
 Plans for this new modern building were drawn by Mr.
 Lester A. Cramer, and the ground-breaking was on Tuesday,
 August 7, 1923, at 4:26 P.M. The usual Mount Ecclesia luck was
@@ -3676,6 +3723,7 @@ Angeles Center women members embroidered a double set of
 dresser scarves and table covers, and made pin cushions for all
 the rooms. The building was finished and ready for occupancy
 for the Easter crowd in 1924.
+
 During its construction, this building was referred to as the
 Dormitory, then as the Guest Hall, and was finally named Rose
 Cross Lodge. It was built with a sun room above the second story
@@ -3684,17 +3732,19 @@ hall where the larger meetings could be held. Heretofore the
 dining hall had been used for such meetings, and on special
 occasions when the crowds were very large this made it very
 difficult for those employed in the kitchen.
+
 Mount Ecclesia was now supplied with electricity from the
 San Diego Gas & Electric Co., and at this time our water, gas,
 and electric troubles were over. New firms had come into
 Oceanside and new members on the City Board of Trustees
 made it possible for Mount Ecclesia to be served with all of these
 modern conveniences; yes, the ice company and the grocery
-105 THE ROSICRUCIAN FELLOWSHIP
 stores, as well as the bakeries, were now ready to deliver to
 Headquarters, even the highway which passes the grounds also
 was paved and the dreadful mud and dust were things of the past.
-EXTRA ACREAGE ACQUIRED
+
+#### <h4 id="extra-acreage-acquired">EXTRA ACREAGE ACQUIRED</h4>
+
 The first plot of land bought by Max Heindel consisted of
 forty acres, but it did not possess complete frontage on the main
 highway. Around 1920 a new land owner came as a neighbor;
@@ -3707,7 +3757,9 @@ grounds have a continuous frontage for several hundred feet
 along the "Highway to the Stars" leading to the world-famous
 Palomar Observatory which is now installing the largest
 telescope lens in the world.
-THE GUM GROVE AND NEW CABINS
+
+#### <h4 id="the-gum-grove-and-new-cabins">THE GUM GROVE AND NEW CABINS</h4>
+
 In 1923 a neighbor on the east side of the grounds sold land
 to a new owner who began to sell in small plots. To protect
 Mount Ecclesia from too close neighbors on this side we bought
@@ -3716,11 +3768,11 @@ and one-half acres directly adjoining us on the east. In this lovely
 grove there were erected two cottages [here shown 80 years (!)
 later] of two rooms each, with a separate bathhouse for the men's
 quarters.
+
 At the edge of this grove we had built a very nicely finished
 barn where we kept our horse and cows, which, by the way, are
 no longer with us; neither do we keep laying hens as was our
 habit during the years of Max Heindel's presence. Today the
-106 MEMOIRS
 milkman and farmer supply us with milk and eggs. But returning
 to the barn: the upper part which had been the hay loft, was
 converted into four very comfortable rooms for the use of the
@@ -3730,7 +3782,9 @@ were building the Ecclesia, the pump house which covered our
 first pump was moved up onto the level of the grounds, sealed
 inside and painted, and is now a comfortable three-room house
 in which some of our male workers are domiciled.
-ENLARGEMENT OF ADMINISTRATION BUILDING
+
+#### <h4 id="enlargement-of-administration-building">ENLARGEMENT OF ADMINISTRATION BUILDING</h4>
+
 The printshop and offices were becoming very congested
 and in order to find room for the large book stock it was decided
 to enlarge the Administration Building by adding a wing. The
@@ -3745,13 +3799,13 @@ she was still connected with the offices and the work in general,
 and enjoyed comforts which she had not had heretofore. The
 office which she had occupied was now turned over to the
 bookkeeping department.
+
 About this time two very loyal and interested couples, who
 had been most helpful in the Fellowship Center work, came to
 Mount Ecclesia as workers. Mr. Charles Swigert and wife, Pearl,
 came to us from North Yakima, Washington; Mr. Swigert
 became general manager and Mrs. Swigert assisted in the
 Healing department. A few months previously another man and
-107 THE ROSICRUCIAN FELLOWSHIP
 wife, Harry and Verna Wilson, joined our staff, Mr. Wilson
 taking charge of the finance department and Mrs. Wilson acting
 as Center Secretary. Mr. Swigert passed into the great beyond in
@@ -3760,6 +3814,7 @@ Mrs. Ackemann, and again widowed, besides being a member
 of the Board of Trustees, still works with the Long Beach Center.
 Mrs. Wilson is engaged in business in Long Beach and is also
 assisting with the center work in that city.
+
 To make the Swigerts and Wilsons comfortable a stucco
 cottage of six rooms, three rooms on each side, with a garage
 underneath, was erected over on the point just northwest of the
@@ -3769,8 +3824,11 @@ the summer of the students who desired to have cheaper quarters
 than the rooms in the Rose Cross Lodge. These cottages were
 built along a secluded path off Ecclesia Drive which led around
 the sunken garden.
+
+```
 [Building update reprinted from our 1996 Edition of The
 Rosicrucian Cosmo-Conception, Addendum D, pp 716-717:
+
 “The work at Headquarters was begun toward the end of 1911.
 To date (1997) numerous buildings have been erected, some of
 which now no longer exist. The Pro-Ecclesia, or Chapel, in which
@@ -3782,11 +3840,12 @@ renovated in 1962, with an addition to the Shipping Department
 completed in 1976. The second floor provides offices for the
 Esoteric and Education Departments as well as Foreign Language
 and Astrology sections. In the earlier days, this floor served as Mr.
-108 MEMOIRS
+
 and Mrs. Heindel's living quarters. On the first floor are the
 Shipping Department, photography room, bindery and print shop,
 where monthly lessons, the "Rays" magazine, pamphlets, and some
 books are printed.
+
 “The Dining Hall was built in 1914, added to in the late 30's,
 renovated in 1962, with a sprouting room added in 1978. Here
 vegetarian meals are served to the workers and general public. In
@@ -3804,20 +3863,24 @@ in the shape of a cross, it contains offices for the secretaries, who
 respond to requests for spiritual healing, and a healing Chapel in
 which a healing service is held at 8:45 A.M. Monday through
 Friday.
+
 “Adjacent to the Administration Building is a one-story
 structure containing the Business Offices, which include the
 Editorial Office for the Rays from the Rose Cross magazine (which
 was published for the first time in 1911 by Mr. Heindel), the
 Accounting Office, Retail and Dealer Book Sales, and the
 Rosicrucian Fellowship BBS.”]
+```
+
 We must not forget to mention another dear and faithful
 worker, Mrs. Mary Lang; she came to us in 1918 and was with
 us as housekeeper all during the building of the Temple; she
 passed into the higher life in 1922. These dear departed ones
 served faithfully here and are still serving faithfully with the
 Invisible Helpers over there.
-109 THE ROSICRUCIAN FELLOWSHIP
-PROGRESS OF THE EXTENSION WORK
+
+#### <h4 id="progress-of-the-extension-work">PROGRESS OF THE EXTENSION WORK</h4>
+
 A member from the Long Beach Center, Mrs. Lida West,
 started in 1923 to transcribe our books in the Braille and today
 these books are being sent through the mails free to every part
@@ -3829,16 +3892,20 @@ for this purpose. We have been told that in some cities the
 Rosicrucian Fellowship books have a waiting list; also that in the
 Los Angeles branch libraries readers often have to wait some
 time before their requests are filled for the Cosmo-Conception.
+
 Our books have now been translated and printed in most
 foreign languages. In the Latin American countries there are two
 publishers who are printing and selling large numbers of
 Rosicrucian Fellowship books.
+
 In July, 1939, the Center in Merida, Mexico, with the
 authorization of Headquarters, started La Revista Rosacruz,
 which is a translation of the articles and departments of "The
 Rosicrucian Magazine," even including a faithful reproduction
 of the magazine cover.
-FOREIGN CORRESPONDENCE LESSONS
+
+#### <h4 id="foreign-correspondence-lessons">FOREIGN CORRESPONDENCE LESSONS</h4>
+
 As the Cosmo and other books began to be printed in
 foreign languages this opened a new field of inquiry. Foreign
 letters began to arrive, necessitating translations, and requests
@@ -3846,7 +3913,6 @@ began to come in for a correspondence course in the
 Rosicrucian Philosophy. We first started with the German
 students, as members came to Headquarters who could do the
 translating and answer the letters in this language. Then the
-110 MEMOIRS
 French people began to cry for attention, and so, in time,
 Mme. Jeanne Bigorne, formerly of Paris, came to us as French
 secretary. This was in 1929. In the eleven years that she has
@@ -3861,6 +3927,7 @@ eventually honeycomb their entire nations with our
 Teachings. Fellowship centers have been formed and
 lecturers are in the field; in fact, we hope they will soon catch
 up in numbers with the English-speaking people.
+
 In February 1929, Headquarters sent a lecturer into the
 foreign field to contact the German-speaking people, Mr.
 Ortwin Schaumburg, a young man who was a student in the
@@ -3870,6 +3937,7 @@ language. Mr. Schaumburg also traveled to England and
 delivered lectures, and while there he was joined in marriage
 with one of our center leaders, Miss Mary Josephine Smith,
 who came back to America with him.
+
 Our foreign work grew so rapidly that in 1939 we had five
 foreign secretaries, two for Spanish, one each for French,
 German, and Dutch. These students receive the lessons of
@@ -3877,8 +3945,9 @@ both Astrology and Rosicrucian Philosophy courses. Many
 also make application for spiritual healing. In addition to this
 necessary correspondence, these secretaries translate the
 monthly lessons and letters sent out from Headquarters.
-111 THE ROSICRUCIAN FELLOWSHIP
-A PIPE ORGAN
+
+#### <h4 id="a-pipe-organ">A PIPE ORGAN</h4>
+
 In the November 1924 magazine, a letter was published from
 the secretary of the Los Angeles Fellowship Center, Mr. Charles
 D. Cooper, saying that a check for one hundred dollars was
@@ -3889,12 +3958,15 @@ Mrs. Frances Ray, an organist, was instrumental in helping us
 choose a beautiful little pipe organ which has been most
 beneficial in building high spiritual vibrations in our Temple, for
 no music has as much spiritual charm as that of an organ.
+
 Mr. Charles D. Cooper rounded out his years of service to
 the Fellowship as General Manager at Mount Ecclesia from
 March 1, 1937, to November 22, 1940. Because of a heart
 ailment, he had returned to his home in Los Angeles on a month's
 leave of absence, but death called him on December 11, 1940.
-SUMMER SCHOOL
+
+#### <h4 id="summer-school">SUMMER SCHOOL</h4>
+
 Each year after the Ecclesia was built more workers and
 visitors came and better facilities were available to make them
 comfortable. Summer school sessions, which had been
@@ -3907,8 +3979,9 @@ year there are classes for our own workers and guests, and
 efficient teachers are ever available. Social events are held from
 time to time and life on Mount Ecclesia is filled with activity and
 study.
-112 MEMOIRS
-OUR LITERATURE
+
+#### <h4 id="our-literature">OUR LITERATURE</h4>
+
 Since the passing of Max Heindel, there have been helpers
 on Mount Ecclesia who have been interested in seeing the
 Rosicrucian Fellowship literature attain the widest possible
@@ -3922,6 +3995,7 @@ Interpretation of Christmas, The Mystical Interpretation of
 Easter, Letters to Students, Nature Spirits and Nature Forces,
 The Rosicrucian Principles of Child Training, and Occult
 Principles of Health and Healing. [See First Edition.]
+
 The Rosicrucian Cosmo-Conception has also been given a
 Topical Index of 56 pages, while the 1997 hardback edition of
 the Cosmo includes a 100-page Alphabetical Index. Astro-
@@ -3933,14 +4007,15 @@ of diagnosis and delineation, combined with later knowledge
 and many additional horoscopes used for astro-diagnosis by the
 writer. This book is a worthwhile supplement to the knowledge
 contained in The Message of the Stars.
-PHILOSOPHY CORRESPONDENCE COURSES
+
+#### <h4 id="philosophy-correspondence-courses">PHILOSOPHY CORRESPONDENCE COURSES</h4>
+
 In 1916, Max Heindel and the writer realized the need of a
 study course in the basic truths taught in the Rosicrucian Cosmo-
 Conception, but the pressure of work was so great that neither
 could take up this task. Therefore Max Heindel wrote to Mrs.
 Kittie S. Cowen, of Mountain Home, Idaho, who was
 contributing fine articles on Cosmo subjects to our magazine,
-113 THE ROSICRUCIAN FELLOWSHIP
 and asked her to work out such a course of twelve lessons, with
 questions for the student to answer. This she did, and it was just
 what Max Heindel wanted. Beginning in the spring of 1917, this
@@ -3948,10 +4023,12 @@ what Max Heindel wanted. Beginning in the spring of 1917, this
 and when the student completed the twelve lessons, he or she
 became a member of the Fellowship. This continues to be the
 method of joining The Rosicrucian Fellowship.
+
 As time went on, students asked for deeper studies in the
 Philosophy and in 1925 a Supplementary Philosophy Course of
 fourteen lessons was prepared by faithful workers at
 Headquarters; some years later seven more lessons were added.
+
 Max Heindel's writings on Bible interpretation have given
 renewed faith to thousands of readers. Through the years we
 have received many requests for a correspondence course
@@ -3960,7 +4037,9 @@ compiling of Max Heindel's teaching as found in the Cosmo and
 other of his books, issuance of the Western Wisdom Bible
 Teachings, a course of twenty-eight lessons, was begun in March
 1937.
-LECTURERS IN THE FIELD
+
+#### <h4 id="lectures-in-the-field">LECTURERS IN THE FIELD</h4>
+
 The writer has traveled across country and up into Canada a
 number of times delivering lectures in the larger cities where
 Fellowship centers were established. During the years between
@@ -3969,12 +4048,14 @@ time, were: Mrs. Arline Cramer, W. J. Darrow, Dr. Franziska
 Lash, Ortwin Schaumburg, Alfred Johnson, and Theodore
 Heline. And field workers were Mr. and Mrs. Frederic Jones,
 Mr. Lynn Vivian, and Mr. Irving MacArthur.
+
 Fellowship centers have been established in many cities in
 America, Canada, Holland, England, Germany, Spain, France,
-114 MEMOIRS
 India, and the Latin American countries as well as in Africa,
 Australia, and New Zealand.
-NEW CACTUS BED
+
+#### <h4 id="new-cactus-bed">NEW CACTUS BED</h4>
+
 In the spring of 1926, one of our members, Mr. E. W. Ogden,
 presented the Headquarters with a beautiful cactus bed. He and
 our superintendent, Mr. Charles Swigert, drove to Pasadena and
@@ -3982,6 +4063,7 @@ brought back some most valuable cacti; these cacti today form
 one of our show places. The cactus bed is now directly in front
 of the new west entrance gate with the name Rosicrucian
 Fellowship in neon lights.
+
 Another feature of Mount Ecclesia is the winding Palm
 Drive, which starts from the old first gate (East Gate), past the
 Administration and Library buildings, the dining hall, Chapel,
@@ -3991,18 +4073,21 @@ of Healing, the Ecclesia. Here many leave their cars and walk
 over to the edge of Ecclesia hill to admire the wonderful view of
 San Luis Rey Valley with its famous old Mission [as it appears
 today], erected in 1798.
+
 The entire grounds are now so beautifully laid out in gardens
 and drives with pine and palm trees, and inviting benches under
 their shade, that one can no longer recognize the old dusty and
 barren bean field. The Rosicrucian Fellowship has truly "made
 the desert bloom"—and its gates are ever open in welcome to
 all.
+
 In 1939 we had the gift from Mr. Lynn Vivian of one
 hundred orange and grapefruit trees, and one of our last summer
 school students, Mr. Karl Stebinger, has done the work of
 planting them as a gift to the Fellowship.
-THE CHILDREN'S SCHOOL
-115 THE ROSICRUCIAN FELLOWSHIP
+
+#### <h4 id="the-childrens-school">THE CHILDREN'S SCHOOL</h4>
+
 On September 7, 1926, Mount Ecclesia dedicated the
 Children's School. The building was beautifully arranged and
 equipped for a school for children from two and one-half to
@@ -4018,11 +4103,13 @@ demanded that we keep their children even though they
 refused to pay. With these and other complications and
 disappoint-ments, in the fall of 1930, the Board of Trustees
 voted that the school be closed.
+
 Since the erection of the Sanitarium, the school building
 has been remodeled and turned into a nurses' dormitory. It is
 now called West Hall and has twelve lovely sleeping rooms,
 a sitting room, laundry and baths, which make this building a
 most comfortable dormitory.
+
 The ideal of a Children's School, however, is still in the
 ethers, for it was one of Max Heindel's firm hopes that
 eventually the Rosicrucian Fellowship would teach the young
@@ -4032,11 +4119,11 @@ come, and we feel that some individual with vision will come
 forward and make this ideal a reality by a generous
 endowment which will then make continuance possible, and
 not leave it to the smaller donations to carry on this much
-116 MEMOIRS
 needed work. As we have completed more than forty years of
 the twentieth century, we are in the early part of the fifth
 decade of the century, and before this ten-year cycle passes
 this hope should become a reality.
+
 While the Rosicrucian Fellowship work was growing and
 had reached its most successful period, the harmony of the
 Headquarters was beginning to be much disturbed. The
@@ -4049,6 +4136,7 @@ frequently slip in those who have come with an ulterior
 motive, to endeavor to get control of the movement;
 sometimes these are curiosity seekers from other
 organizations; and, of course, our gates are open to the world.
+
 When Max Heindel incorporated The Rosicrucian
 Fellowship, he took the advice of an attorney and organized a
 corporation with five trustees. It was what one may term a
@@ -4063,9 +4151,9 @@ corporation was formed Max Heindel was the president of the
 Board of Trustees until his death, at which time the Board
 consisted of Mrs. Mary L. Lyon, Mr. F. H. Kennedy, Mrs.
 Verna Wilson, and the writer. Then Mr. Alfred Adams was
-117 THE ROSICRUCIAN FELLOWSHIP
 elected to serve as the fifth trustee, and the writer was elected
 president. This office she held until the year 1931.
+
 At the death of Mr. Kennedy and Mrs. Lyon, others were
 elected in their place. With the election of the new members,
 misunderstandings arose and dominating spirits broke into
@@ -4074,11 +4162,13 @@ became quite serious and a division began to take place. The
 disturbing element had gained the controlling vote on the
 Board of Trustees. Two members were added to the Board,
 making it seven, in the hope of bringing peace, but to no avail.
+
 Eventually the writer resigned as President of the Board.
 These two factions became very much divided and the result
 was that the work suffered greatly. Letters were sent to the
 students out in the field and many things were said and done
 which in later years were deeply regretted.
+
 The writer became seriously ill, so ill that for four days
 her life was despaired of, and after a month in which to
 recuperate she did not return to Mount Ecclesia, but with a
@@ -4093,12 +4183,12 @@ Headquarters were eliminated, and in 1934 the writer was
 again installed as the leader at the Headquarters. Since that
 time, everything has been going on most harmoniously, all
 feeling that that unhappy time has, through its sorrows, made
-118 MEMOIRS
 us all stronger and more loving. All who remained loyal
 during these trying times have become stronger and more
 spiritual and have also been drawn closer to the work, and so
 we who suffered can truthfully say that we "bless the rod that
 smote us."
+
 The Fellowship has ever carried on its work by paying its
 bills monthly, and when the monies were not available
 improvements had to wait. However, the work was never
@@ -4107,6 +4197,7 @@ even though we often had to do without needed machinery, or
 use old and antiquated instruments and second-hand desks
 and tables. In spite of these things the workers were ever
 willing to do their best with the least expense.
+
 The Heindels never took any monies out of the work,
 except for their frequent trips to Los Angeles for the hiring of
 employees; these were the only expenditures which were ever
@@ -4124,9 +4215,9 @@ she later deeded it to the Fellowship. From August 10, 1910,
 when she became Mrs. Heindel, until August 1931, the writer
 put in her entire time and considerable of her own funds to
 carry on the work. She has never received a penny of salary,
-119 THE ROSICRUCIAN FELLOWSHIP
 nor any royalty on her books; all went freely and lovingly to
 the cause of humanity.
+
 In 1931, due to conditions caused by certain members at
 Headquarters which made it necessary that the writer sever
 her connections with the work there, all of her private monies
@@ -4136,6 +4227,7 @@ possessed the last gift of Max Heindel, the copyrights of the
 books which we had both written and which the Fellowship
 had had free use of, for years, with no royalties ever being
 exacted.
+
 After a time, the Fellowship began to suffer, for those at
 Headquarters could not print from either the plates or type and
 replenish their dwindling book stock; they came of their own
@@ -4148,12 +4240,14 @@ forwarding of the Fellowship work. No heirs, no member can
 at any time use them for personal gain. And the writer, after
 all these years of loving service, is also protected financially
 for the rest of her life, on account of the annuity.
+
 From her savings, she has built for herself on the
 Fellowship grounds a small four-room bungalow in which she
 may now also remain undisturbed until she is ready to join
 her beloved husband in the great beyond.
-MOUNT ECCLESIA SANITARIUM
-120 MEMOIRS
+
+#### <h4 id="mount-ecclesia-sanitarium">MOUNT ECCLESIA SANITARIUM</h4>
+
 In 1936, Mrs. Gertrude Smith of Canandaigua, New York,
 passed out and left the Fellowship a goodly legacy to be used
 entirely for a Sanitarium. This generous-hearted woman was a
@@ -4171,12 +4265,15 @@ patients through the latest methods of hydro-therapy, fever
 therapy, physical therapy, color therapy, short wave diathermy,
 vegetarian diet, colonics and massage. Resident dietitian and
 registered nurses, as well as a medical man are in attendance.
-HEALING DEPARTMENT BUILDING
+
+#### <h4 id="healing-department-building">HEALING DEPARTMENT BUILDING</h4>
+
 The Fellowship Healing Department has been given a
 beautiful new building, built twelve-sided and with twelve
 rooms for secretaries who are assigned according to the twelve
 signs of the zodiac. The patients on the correspondence list are
 also assigned to these according to their sun signs.
+
 The year 1940 opened the fifth decade of the century for the
 Fellowship with wonderful prospects. The Board of Trustees, of
 which there are twelve, have full charge of all of the work. Six
@@ -4184,10 +4281,10 @@ of these members are resident workers at Headquarters and
 comprise the Executive Committee. All business between the
 monthly board meetings is taken care of by this Executive
 Committee, three of whom constitute the Finance Committee.
-121 THE ROSICRUCIAN FELLOWSHIP
 The departments are presided over by experienced Probationers,
 and in every way the work is now protected and the future of the
 Rosicrucian Fellowship is assured.
+
 Much field work was accomplished in 1940, and the
 beautiful assurance is that a number of young lecturers are
 preparing for the field. As the finances are available and these
@@ -4201,7 +4298,9 @@ afflicted ones near and far." And this prophecy is fast coming
 true, for the teachings may be said to have covered the globe,
 and the visitors who are attracted to the Headquarters are also
 coming from all parts of the globe.
-PLATO
+
+#### <h4 id="plato">PLATO</h4>
+
 We have told you of our little dog Smart, but we must not
 forget to write about another canine, one who is still with us, for
 the Rosicrucian students are lovers of animals, and the dog is
@@ -4214,14 +4313,15 @@ still in the center of the road as if petrified. His eyes were
 bloodshot, his body tense with fear. Mary had to speak coaxingly
 to this frightened animal several times before he dared respond
 to kindness. Then he was taken to the back of the dining room
-122 MEMOIRS
 and fed. Hungrily, he gulped the food, for the poor creature was
 starved. He was bathed and his hair smoothed, and he emerged
 as a handsome dog. He seems part Police dog and part Airedale.
 Today, Plato is a beloved and most faithful watchdog—so wise
 that one need but think to impress the thought upon the
 consciousness of this dog.
-YELLOW FLOWERS
+
+#### <h4 id="yellow-flowers">YELLOW FLOWERS</h4>
+
 Visitors often ask why it is that the flowers on Mount
 Ecclesia are so much more beautiful than in other gardens, and
 why the color of yellow is so prevalent, for truly three-fourths of
@@ -4231,7 +4331,9 @@ solidly with African daisies which bloom the greater part of the
 year and form a brilliant orange-yellow star. The main drive
 which leads from the original or East Gate is also bordered with
 these yellow daisies.
-OUR ENTRANCE GATES
+
+#### <h4 id="our-entrance-gates">OUR ENTRANCE GATES</h4>
+
 Speaking of the gate, we must tell you that, when the
 building of the Sanitarium started, a new drive was laid out
 which enters the grounds from the west and is now called the
@@ -4240,11 +4342,11 @@ two large white lions placed one at each side. Thus, both gates
 have this same Leo mark, for the Rosicrucian Fellowship work
 in this and in the coming Aquarian Age is to lay the foundation
 upon which the new age religion will be built.
+
 The Fellowship message and mission is under the signs Leo-
 Aquarius, and the strangest of all is Max Heindel was born under
 the sign Leo, with both the Sun and Moon on the Ascendant in
 Leo, and his companion, the writer, has Leo rising with the Sun
-123 THE ROSICRUCIAN FELLOWSHIP
 and Moon in the sign Aquarius, while the members who have
 contributed the most in service during the pioneer years are also
 under these two signs. For instance, F. H. Kennedy had Leo on
@@ -4254,6 +4356,7 @@ Mrs. Mary Lyon and daughter Frances were both born under the
 sign Leo; Alfred Adams was a double Aquarian; and we could
 go on mentioning names of faithful workers who were born
 under these two fixed signs.
+
 A movement which is to become so powerful a world
 influence—preaching and teaching the Christian religion,
 working hand in hand with the Churches, teaching the deeper
@@ -4264,18 +4367,19 @@ Headquarters, will eventually be decorated with the symbols of
 Aquarius and the Lion. Both will welcome all who enter the
 grounds of the Rosicrucian Fellowship at Mount Ecclesia, the
 Mount of the Churches. Or, literally, a "company called out."
+
 The Rosicrucian Teachings are now honeycombing the
 world, and the beautiful part of the work is that its message is
 encouraging the people to go back to their churches, is leading
 them back to their Bible, and in every way is fulfilling its
 mission.
+
 In closing this book, the writer gives to the world a history
 of the struggles and the victories of a great movement, a
 movement which gives the essence around which the new forms
 of the Aquarian religion will be shaped. We have been told by
 the Teacher of the Ancient Rosicrucian Order that the teachings
 which they transmitted to Max Heindel will someday become
-124 MEMOIRS
 the foundation of the Aquarian religion. They will not wean the
 masses away from the Christian Religion, but will strengthen the
 faith of the coming generation in the divine truths as contained
@@ -4287,6 +4391,7 @@ encouraging men and women back to the Bible, for they claim
 that the Christian Religion has come to stay and that the Christ
 is truly the SON OF GOD, the greatest teacher to appear in a
 physical body.
+
 The writer is penning these lines at the age of seventy-six,
 is enjoying the best of health, and hoping to be with you all for
 a number of years, but she desires, as soon as qualified workers
@@ -4304,9 +4409,11 @@ days, men through their very sufferings will reach out for what
 the Rosicrucian Fellowship has to give—comfort to those who
 have lost their loved ones, satisfaction to those who are
 spiritually hungry, and a balm to the brokenhearted.
-A SANE MIND, A SOFT HEART, A SOUND BODY
-MOUNT ECCLESIA
-1997
+
+**A SANE MIND, A SOFT HEART, A SOUND BODY**
+
+MOUNT ECCLESIA 1997
+
 INDEX
 MOUNT ECCLESIA PICTURES 1997
 Map of Mount Ecclesia................................................. A
