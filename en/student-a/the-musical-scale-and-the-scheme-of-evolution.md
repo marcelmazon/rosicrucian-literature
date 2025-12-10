@@ -359,169 +359,165 @@ peare. This celestial music is the product of that
 Word of which St. John wrote when he said: "In
 the beginning was the Word, and the word was with
 God, and the Word was God . . . . and without him
-was not anything made that was made." (John 1: 1-3)
+was not anything made that was made." (John I: 1-3)
 
 ### <h3 id="chapter-3">CHAPTER III: THE POWER OF MUSIC</h3>
 
-Music is thus, in her health, the teacher e
-perfect order, and is the voice of the obedienm
-of angels, and the companion of the course
-the spheres of heaven; and in her depravity sh
-is also the teacher of perfect disorder and di
-obedience--Ruskin.
+```
+Music is thus, in her health, the teacher of
+perfect order, and is the voice of the obedience
+of angels, and the companion of the course of
+the spheres of heaven; and in her depravity she
+is also the teacher of perfect disorder and dis-
+obedience - Ruskin.
+```
 
-N music between melody and rhythm we
+IN music between melody and rhythm we find
+harmony, which may either rise and blend with
 the vibration of pure thought, melody, or descend
-it may mingle with the purely activity movemen
-impulse. If the pure melodio element, which can
-the will vibration of God and the Spirit in m
-is omitted from a composition then the guiding po
-
-
-14
-MUSIC AND EVOLUTION
-is not there to control the activities of the desire an
-physical bodies, and then the desires which revel i
-excitement take charge, and being without the guidin
-power of reason, disaster is likely to be the resul
-It is the probability of harmony blending with in
-pulse that explains the reason why it is possibl
-for modern, so-called music which tends to brin
-confusion instead of unifying coherence, to com
+it may mingle with the purely activity movement - 
+impulse. If the pure melodio element, which carries
+the will vibration of God and the Spirit in music
+is omitted from a composition then the guiding power
+is not there to control the activities of the desire and
+physical bodies, and then the desires which revel in
+excitement take charge, and being without the guiding
+power of reason, disaster is likely to be the result.
+It is the probability of harmony blending with im-
+pulse that explains the reason why it is possible
+for modern, so-called music which tends to bring
+confusion instead of unifying coherence, to come
 into existence.
-Even before World War I, the psychic condition
-were so evil that man's emotions were unconsciousl
-stirred to such a high pitch that they were con
-pelled to find an outlet in some intensified form
-action. As the Lucifer Spirits revel in, and gro
-through the intensity of feeling, that was the
-opportunity to step in and insinuate into the huma
-consciousness a heightened form of rhythmic activity
-and as a result ragtime made its appearance. Wa
-came on. The emotions soared still higher and b
-wildering conditions introduced the blues-moanin
-wailing, groaning, but feverishly surging on and o
-The downward tendency was now in full swing an
-jazz made its appearance in so-called music-rec
-lessly fantastic and deliriously grotesque, Swing,
-step lower, followed jazz; then jitterbug, in all i
-dizzy, maniacal, mass hysteria swept the countr
-Since then blatant, more or less demoniacal nois
-have gradually taken the place of celestial music, an
-the frayed, overstimulated nerves of the victims
-these excruciating noises, fast becoming shattere
-have caused a variety of hopeless forms of dementi
-Now unless some force is set into action that wi
-literally shock the masses into a quieter, more though
-ful frame of mind, even worse conditions will preva
 
-THE POWER OF MUSIC
-If this cannot be done, or is considered inadvisa
-by the great Ones who are directing man's evoluti
-then some form of escape will have to be provic
-for the worthy ones, and the rest will simply
-wiped out by a tremendous cosmic conflagration
-some sort; and at a later date-possibly another c
-of manifestation-these unfortunate ones will
+Even before World War I, the psychic conditions
+were so evil that man's emotions were unconsciously
+stirred to such a high pitch that they were com-
+pelled to find an outlet in some intensified form of
+action. As the Lucifer Spirits revel in, and grow
+through the intensity of feeling, that was their
+opportunity to step in and insinuate into the human
+consciousness a heightened form of rhythmic activity;
+and as a result ragtime made its appearance. War
+came on. The emotions soared still higher and be-
+wildering conditions introduced the blues-moaning,
+wailing, groaning, but feverishly surging on and on.
+The downward tendency was now in full swing and
+jazz made its appearance in so-called music - reck-
+lessly fantastic and deliriously grotesque, Swing, a
+step lower, followed jazz; then jitterbug, in all its
+dizzy, maniacal, mass hysteria swept the country.
+Since then blatant, more or less demoniacal noises
+have gradually taken the place of celestial music, and
+the frayed, overstimulated nerves of the victims of
+these excruciating noises, fast becoming shattered,
+have caused a variety of hopeless forms of dementia.
+Now unless some force is set into action that will
+literally shock the masses into a quieter, more thought-
+ful frame of mind, even worse conditions will prevail.
+If this cannot be done, or is considered inadvisable
+by the great Ones who are directing man's evolution,
+then some form of escape will have to be provided
+for the worthy ones, and the rest will simply be
+wiped out by a tremendous cosmic conflagration of
+some sort; and at a later date-possibly another day
+of manifestation-these unfortunate ones will be
 given an opportunity to retrieve their losses.
-Facing such tremendously appalling facts, in w
-direction does it behoove man to look for the quick
-obtainable remedy? Is it possible, by searching eit
-in the past er in the future, that one may find
-clue which, when applied, will save the situation
-History is forever repeating itself. Lemuria
-destroyed by voleanie cataclysms when the mas
-of its people ceased to progress. Atlantis was
-stroyed by water when its people became so immer
-in evil that they were no longer amenable to
-instructions given to them by their wise leade
-Aryana rose from out of the great depth, and m
-kind was given another opportunity to proceed v
-their evolution. Now, again man finds himself slipp
-perilously near the end of a downward grade.
-thagoras, one of the greatest of seers, told his
-dents that the lyre was the secret symbol of hur
-construction--that the body of it represented
-physical form, the strings the nerves, and the m
-cian who played it, the Spirit of man. "Playing
-its nerves," he said, "the Spirit has created a l
-monious, normal functioning, which, however, 1
-at any time be easily changed into discord if
-nature of man becomes defiled." Note the conces
+
+Facing such tremendously appalling facts, in what
+direction does it behoove man to look for the quickest
+obtainable remedy? Is it possible, by searching either
+in the past er in the future, that one may find a
+clue which, when applied, will save the situation?
+
+History is forever repeating itself. Lemuria was
+destroyed by voleanie cataclysms when the masses
+of its people ceased to progress. Atlantis was de-
+stroyed by water when its people became so immersed
+in evil that they were no longer amenable to the
+instructions given to them by their wise leaders
+Aryana rose from out of the great depth, and man-
+kind was given another opportunity to proceed with
+their evolution. Now, again man finds himself slipping
+perilously near the end of a downward grade. Py-
+thagoras, one of the greatest of seers, told his stu-
+dents that the lyre was the secret symbol of human
+construction--that the body of it represented the
+physical form, the strings the nerves, and the musi-
+cian who played it, the Spirit of man. "Playing on
+its nerves," he said, "the Spirit has created a har-
+monious, normal functioning, which, however, may
+at any time be easily changed into discord if the
+nature of man becomes defiled." Note the concealed
 warning.
-Again, Plato, a great Greek philosopher, and
 
+Again, Plato, a great Greek philosopher, and stu-
+dent of the Mysteries, deprecates the idea that music
+was intended solely to create cheerful and agreeable
+emotions, but maintained rather that it should in-
+culcate a love of all that is noble, and an aversion
+for all that is mean, degrading, and low, and nothing
+could more strongly influence man's innermost being
+than melody and rhythm. He was so firmly con-
+vinced of this fact that he averred the introduction
+of a new and presumably enervating musical scale
+would endanger the future of a whole nation; that it
+was not possible to alter a key without shaking the
+very foundation of the state. Plato further affirmed
+that music which ennobles the mind (melody) is of
+a higher kind than that which merely appeals to the
+senses. He strongly insisted that it was the paramount
+duty of the Legislature to suppress all music of a
+lascivious character, and to encourage only that
+which was pure and dignified. The greatest care was
+to be taken in the selection of all instrumental music,
+because the absence of words rendered its significance
+more or less doubtful, making it difficult to foresee
+whether it would exercise on the people a benign or
+a baneful influence; popular taste, always being tick-
+led by sensuous and meretricious (gaudy) effects, was
+to be treated with deserved contempt. Here we have
+the answer to the sensible way of changing undesir-
+able conditions:: Replace evil practices all of which
+produce more or less calamitous results with positive,
+high vibrating activities which induce the greatest
+amount of good to the greatest number of people.
 
-16
-MUSIC AND EVOLUTION
-dent of the Mysteries, deprecates the idea that n
-was intended solely to create cheerful and agre
-emotions, but maintained rather that it should
-culcate a love of all that is noble, and an ave
-for all that is mean, degrading, and low, and not
-could more strongly influence man's innermost
-than melody and rhythm. He was so firmly
-vinced of this fact that he averred the introdu
-of a new and presumably enervating musical
-would endanger the future of a whole nation; th
-was not possible to alter a key without shaking
-very foundation of the state. Plato further affin
-that music which ennobles the mind (melody)
-a higher kind than that which merely appeals to
-senses. He strongly insisted that it was the param
-duty of the Legislature to suppress all music
-lascivious character, and to encourage only
-which was pure and dignified. The greatest care
-to be taken in the selection of all instrumental m
-because the absence of words rendered its signific
-more or less doubtful, making it difficult to fo
-whether it would exercise on the people a benig
-a baneful influence; popular taste, always being
-led by sensuous and meretricious (gaudy) effects,
-to be treated with deserved contempt. Here we
-the answer to the sensible way of changing und
-able conditions:: Replace evil practices all of v
-produce more or less calamitous results with posi
-high vibrating activities which induce the gre
-amount of good to the greatest number of peopl
-In disearding the ragtime, jazz, swing, be
-et cetera noises, nothing of real music would be
-In their appeal to the sensual, sentimental de
-through an excessive variety of so-called harn
+In discarding the ragtime, jazz, swing, bebop,
+et cetera noises, nothing of real music would be lost.
+In their appeal to the sensual, sentimental desires
+through an excessive variety of so-called harmonic
+combinations, of discordant successions of intervals
+between notes arising out of the complexities of
+modern key-relationships, and the distracting chords
+resulting, no new elements have really been intro-
+duced, but merely a confusion and an overelaborated
+tion of the old ones. In the equally overemphasized
+rhythmic musical element found in certain kinds of
+pop:alar so-called musie, the real musical experience
+cannot descend through harmony into artistic move-
+ment activity but is, as it were, forced down into
+parely physical gyrations inelegant in the extreme.
 
-
-THE POWER OF MUSIC
-combinations, of discordant successions of inter
-between notes arising out of the complexities
-modern key-relationships, and the distracting cho
-resulting, no new elements have really been in
-duced, but merely a confusion and an overelabo
-tion of the old ones. In the equally overemphasi
-rhythmic musical element found in certain kinds
-pop:alar so-called musie, the real musical experie
-cannot descend through harmony into artistic me
-ment activity but is, as it were, forced down i
-parely physical gyrations inelegant in the extre
-The three primary divisions of music-melo
-harmony, and rhythm are correlated to the th
-primary powers of God, namely: will, love-wisd
-and activity. Will, which includes intellect and 1
-son, united with love-wisdom produces a mode
-activity correlated to the poised, balanced, celes
-rhythm (activity) of God which marshaled the ato
-of our solar system into the matrix of the vari
-forms prepared for them by the energy-love pow
-of the Creator. Divorce will (melody) from 1
-(harmony) and unite love with activity (rhythi
-and the two, being bereft of the guiding power
-will (intellect and reason), may produce any s
-of monstrosity which the evil forces may desire
-bring into being. Unchecked, their malevolent acti
-ties will in time certainly wreck a nation. No atten
-to revolutionize the art of music can produce desi
-results unless it begins with the artistic princi
-of coherence and a correct balancing of the th
-elements of which music is composed, namely: melo
+The three primary divisions of music - melody
+harmony, and rhythm are correlated to the three
+primary powers of God, namely: will, love-wisdom
+and activity. Will, which includes intellect and rea-
+son, united with love-wisdom produces a mode of
+activity correlated to the poised, balanced, celestial
+rhythm (activity) of God which marshaled the atoms
+of our solar system into the matrix of the various
+forms prepared for them by the energy-love powers
+of the Creator. Divorce will (melody) from love
+(harmony) and unite love with activity (rhythm),
+and the two, being bereft of the guiding power of
+will (intellect and reason), may produce any sort
+of monstrosity which the evil forces may desire to
+bring into being. Unchecked, their malevolent activi-
+ties will in time certainly wreck a nation. No attempt
+to revolutionize the art of music can produce desired
+results unless it begins with the artistic principle
+of coherence and a correct balancing of the three
+elements of which music is composed, namely: melody,
 harmony, and rhythm.
 
 
