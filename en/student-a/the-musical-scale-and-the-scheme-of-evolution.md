@@ -520,19 +520,15 @@ of coherence and a correct balancing of the three
 elements of which music is composed, namely: melody,
 harmony, and rhythm.
 
+### <h3 id="chapter-4">CHAPTER IV: THE CORRELATION OF MUSIC TO THE SOLAR GOD</h3>
 
-CHAPTER IV
+| Music	     | God        | Powers      | Expression      |
+| ---------- | ---------- | ----------- | --------------- |
+| 1. Melody	 | 1. Father  | 1. Will     | 1. Intelligence |
+| 2. Harmony | 2. Christ  | 2. Love	    | 2. Feeling      |
+| 3. Rhythm  | 3. Jehovah | 3. Activity	| 3. Motion       |
 
-THE CORRELATION OF MUSIC
-TO THE SOLAR GOD
-
-Music	God	Powers	Expression
-1. Melody	1. Father	1. Will	1. Intelligence
-2. Harmony	2. Christ	2. Love	2. Feeling
-3. Rhythm	3. Jehovah	3. Activity	3. Motion
-
-M
-ELODY, the highest power of music, includes
+MELODY, the highest power of music, includes
 reason, intellect, and judgment. When harmony
 and rhythm anite and become divorced from melody,
 we have a succession of tones undirected by in-
@@ -553,18 +549,13 @@ Right here is the enervating (lessening of mental
 or moral vigor) form of music mentioned by Plato
 as a danger to the future of the whole nation. Mr.
 Goodman mentions particularly how when Ziggy
-
-18
-
-
-MUSIC AND THE SOLAR GOD
-19
 Elman blew "a long spine-tingling hot note" on
 his trumpet "right through a person" the dancers
 lost their self-control, and when Gene Krupa rolled
 off a series of machine-gun notes on his drum they
 shook, their eyes popped out, heads pecked, and arms
 jerked.
+
 Even from a physical viewpoint, there is a great
 danger in blowing a loud prolonged note on an in-
 strument. Each person has his or her own keynote
@@ -576,10 +567,11 @@ it is sounded in a dominant way, loud and long
 enough, it wili kill as surely as will a bullet fired
 front a gun. In a mass assembly one has no way of
 knowing individual keynotes; hence in a crowd there
-is always danger in sounding a load, dominaat, pro-
+is always danger in sounding a load, dominant, pro-
 longed note on any instrument; and the continual
 dinning of jazz blasts on the eardrums of children
-is likely to develop a race of neuretics,
+is likely to develop a race of neurotics.
+
 Let us note that jazz so-called music is a desecra-
 tion of the Christ force (harmony) and the Jehovistic
 creative energy (rhythm). The first desecration of
@@ -593,10 +585,6 @@ as the intensity, so far as their purpose is concerned.
 Therefore they stir the human passions of the lower
 nature, which are more intense in our present stage
 of evolution than are feelings of joy and love. Con-
-
-
-20
-MUSIC AND EVOLUTION
 sequently these beings do not hesitate to desecrate
 both the love (Christ) and life (Jehovah) forces of
 God to accomplish their purpose. This they have
@@ -614,6 +602,7 @@ we see it depicting all sorts of incongraities. Beauty,
 artistry, the esthetic, everywhere dragged down to the
 tawdry, the coarse-many times approaching real
 grossness, even to the lowest form of indecency.
+
 As man's spiritual sight becomes clearer and his
 individual will stronger, he is gradually going to
 free himself from the influence of the Lucifer Spirits,
@@ -623,6 +612,7 @@ velop activity (rhythm), a new power (epigenesis),
 the force of which will further man's spiritual prog-
 ress at a rate of rapidity the like of which has
 hitherto been unknown.
+
 The Lucifer Spirits realize that mankind, through
 the combined power of will and love, will be able in
 time to free themselves from their influence and par-
@@ -631,9 +621,6 @@ built and sustained by the power of music. Now, if
 they can pervert this music to the extent that it
 will derange his physical body through the nervous
 system so that it will no longer be capable of supply-
-
-MUSIC AND THE SOLAR GOD
-21
 ing the needed amount of conscious soul essence with
 which to develop his will power, they can continue
 to hold him in partial bondage and use nim for their
@@ -655,6 +642,7 @@ may be permitted to go to war as soldiers and nurses
 in order to remove them from the present earth con-
 ditions and give them a future opportunity to start
 all over, later, in a better environment.
+
 The Lucifer Spirits, through positive disobedience
 to the cosmic plan, lost out to a great extent in their
 scheme of evolution, and now they are taking advan-
@@ -668,28 +656,26 @@ both of which are found in replica in all mankind.
 Let us note that the Cosmo-Conception, the textbook
 given to humanity by the Elder Brothers of the Rose
 Cross, who, directed by the Archangel Christ, have
-
-
-22
-MUSIC AND EVOLUTION
 charge of the evolution of humanity at the present
 time, has been miraculously scattered throughout the
 world, and its price has been kept so low that it
 is available to all who are ready to receive the truths
-revealed therein,
+revealed therein.
+
 The melodic will of the Father uniting with the
-harmoxic love of the Christ has the power to produce
-an active rhythmic vibration, the force of which can.
+harmonic love of the Christ has the power to produce
+an active rhythmic vibration, the force of which can-
 not possibly be arrested nor its destined objective
 deflected, for it is that same manifested energy of
 the God of our solar system which brought all that
-IS into being, and has the power to resolve it al
+IS into being, and has the power to resolve it all
 into Chaos at any time He so desires. It is therefore
 absolutely impossible for any of God's creations
 from the most advanced of His life waves to those
 youngest in evolution, ultimately to frustrate the
 maturity of His plans, for they are as sternal and
-unwavering in their processes as is God Himself,
+unwavering in their processes as is God Himself.
+
 It is, however, possible for the members of a particu-
 lar life wave, or even individuals of it, to rebel and for
 the time being frustrate their own evolutionary prog
@@ -707,9 +693,6 @@ desire to destroy their fellow men, the change being
 brought about by the beneficent, cleansing agencies
 active in the purgatorial region.
 
-
-MUSIC AND THE SOLAR GOD
-23
 When a life wave, a nation, a community, or even
 an individual strives to the uttermost to follow the
 example of the Christ by manifesting His precepts
@@ -721,6 +704,7 @@ are rightly learned and practiced, they will all result
 in inestimable good, not only to themselves, but to
 a great extent they will have a beneficent effect on
 all others whom they may contact in their daily lives.
+
 Conditions in the world today are all leading up
 to changes so great that their magnitude can scarcely
 be conceived by our present limited consciousness.
@@ -736,6 +720,7 @@ Pacific Ocean, the vastness, the tropical beauty, and
 the material abundance of which cannot be conceived
 or even faintly imagined by mortal man as he exists
 today.
+
 As an approximately definite ratio between land
 and water areas must be maintained in order that
 the earth preserve its gravitational equilibrium, it
@@ -744,10 +729,6 @@ go dewn into the ocean to balance that which has
 emerged from it. This land will take with it as many
 of its inhabitants as have become so enmeshed in mate-
 riality that such a method will have to be applied
-
-
-24
-MUSIC AND EVOLUTION
 in order to break up their crystallized condition and
 fit them for further growth. But nothing is ever lost
 in the kingdom of God. Stragglers, even failures, may
@@ -759,6 +740,7 @@ guidance of great Beings whose infinite patience has
 fitted them to undertake the Herculean task of re-
 deeming and rebuilding that which appeared to be
 lost.
+
 Before going farther it might be well to explain
 something of the process of creation in relation to
 our solar system as revealed by the Order of the Rose
@@ -774,6 +756,7 @@ Region, and the Physical World Region. The World
 of Thought Region is divided into two parts, Abstract
 Thought and Concrete Thought. The Physical World
 Region also has two divisions, Etheric and Chemical.
+
 The God of our solar system creates in life waves
 consisting of an untold number of Virgin Spirits
 and classified by Him according to the time created.
@@ -782,11 +765,6 @@ Aries, the second Taurus, the third Gemini, the fourth
 Cancer, the fifth Leo, the sixth Virgo, the seventh
 Libra, the eighth Scorpio, the ninth Sagittarius, the
 tenth Capricorn, the eleventh Aquarius, and the
-2
-
-
-MUSIC AND THE SOLAR GOD
-25
 twelfth Pisces. These same names are used in the
 zodiac also, but there they refer to an entirely differ-
 ent scheme of creation. The life waves of beings men-
@@ -795,6 +773,7 @@ regions. The twelfth life wave, the Piscean, is com-
 posed of our present humanity, and when inhabiting
 physical bodies are to be found in the Physical World
 Region.
+
 The time required to carry on the work of certain
 phases of evolution is divided into periods, namely:
 The Saturn Period, followed by the Sun Period, then
@@ -803,10 +782,9 @@ Jupiter Period, next the Venus Period, and last the
 Vulcan Period, which is followed by a cosmic night
 of rest.
 
-CHAPTER V
-OUR MUSICAL ARCHETYPES
-N
-OTHING has existed since the dawn of creation
+### <h3 id="chapter-5">CHAPTER V: OUR MUSICAL ARCHETYPES</h3>
+
+NOTHING has existed since the dawn of creation
 until an archetype was first built. In forming
 a solar system the first power of God, the will, wills
 to create, and it arouses the second power, wisdom-
