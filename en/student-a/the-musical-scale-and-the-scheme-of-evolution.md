@@ -71,11 +71,10 @@ Mt. Ecclesia, November 19.
 - [Thought Form Made by a Blessing](#thought-form-made-by-a-blessing)
 - [Startled Thought Form Caused by Fear](#startled-thought-form-caused-by-fear)
 
-
-
 ### <h3 id="chapter-1">CHAPTER I: AS IT WAS IN THE BEGINNING</h3>
 
-The whole solar system is one vast musica
+```
+The whole solar system is one vast musical
 instrument, spoken of in Greek Mythology a
 "the seven-stringed lyre of Apollo." The signs of
 the zodiac may be said to be the sounding board
@@ -84,182 +83,172 @@ the strings; they emit different sounds as they
 pass through the various signs, and therefor
 they influence mankind in diverse manner
 Should the harmony fail for one single moment
-should there be the slightest discord in th
-heavenly band, the whole universe as such mus
-crumble-Max Heindel,
-HE method used by the creative Hierarchies
-assisting man to develop his potential pow
+should there be the slightest discord in the
+heavenly band, the whole universe as such must
+crumble - Max Heindel.
+```
+
+THE method used by the creative Hierarchies
+assisting man to develop his potential powers
 was planned according to the vehicles needed
-him to contact the various regions where the w
-connected with his development was to be fou
-The vehicles needed were a physical body, a v
-body, a desire body, and a mind; and the metl
-5
-6
-MUSIC AND EVOLUTION
-used by the Great Ones to build these vehicles wi
-and is correlated to the different evolutionary Perioc
-of the Earth, each of which was and is permeated by
+him to contact the various regions where the work
+connected with his development was to be found
+The vehicles needed were a physical body, a vital
+body, a desire body, and a mind; and the method
+used by the Great Ones to build these vehicles was
+and is correlated to the different evolutionary Period
+of the Earth, each of which was and is permeated by a
 particular keynote.
 
-Architecture, which has to do with the buildin
-of forms, was the first lesson given to mankind. Ma
-commenced this task in the Saturn Period when l
-started to assemble the material necessary with whic
-to build a physical body. His consciousness being i
-the deepest trance state, he worked automaticall
-under the direction of the Lords of Flame, the Le
-life wave, whose keynote is Bb major. Architectur
-is therefore correlated to the Saturn Period of th
-earth's existence and the physical body which starte
-to develop at the beginning of that period becam
-impregnated with that particular tone. All arch
-tectural construction from the tiniest cell to God,
-based on Cosmic law and is worked out accordin
-to certain prescribed patterns; and any deviatio
-from the plan is the cause of malformations an
-incongruities. Such deviations have the same effec
+Architecture, which has to do with the building
+of forms, was the first lesson given to mankind. Man
+commenced this task in the Saturn Period when he
+started to assemble the material necessary with which
+to build a physical body. His consciousness being in
+the deepest trance state, he worked automatically
+under the direction of the Lords of Flame, the Leo
+life wave, whose keynote is Bb major. Architecture
+is therefore correlated to the Saturn Period of the
+earth's existence and the physical body which started
+to develop at the beginning of that period became
+impregnated with that particular tone. All archi-
+tectural construction from the tiniest cell to God, is
+based on Cosmic law and is worked out according
+to certain prescribed patterns; and any deviation
+from the plan is the cause of malformations and
+incongruities. Such deviations have the same effect
 as striking a false note in a musical chord.
-Sculpture, which determines the contour of form
-was the second developmental task given to mar
-kind. This work had its beginning in the Sun Perio
-of the world's existence when the formation of th
-vital body became necessary to give shape to th
-physical form. Man's consciousness at that time was
-deep sleep state, and he therefore did his work auto
-matically under the direction of the following lif
-waves: the Lords of Flame (Leo), the Lords of Wisdor
-(Virgo), and the Cherubim (Cancer). Scalpture is cor
-related to the Sun Period, and the vital body; and thi
-vehicle always determines the direction in which
 
-
-
-
-
-AS IT WAS IN THE BEGINNING
-given force is used, and therefore it endeavors to g
-the correct shape to all forms. The keynote of Lec
-Bb major, that of Virgo is natural, and Cance
+Sculpture, which determines the contour of forms
+was the second developmental task given to man-
+kind. This work had its beginning in the Sun Period
+of the world's existence when the formation of the
+vital body became necessary to give shape to the
+physical form. Man's consciousness at that time was a
+deep sleep state, and he therefore did his work auto-
+matically under the direction of the following life
+waves: the Lords of Flame (Leo), the Lords of Wisdom
+(Virgo), and the Cherubim (Cancer). Sculpture is cor-
+related to the Sun Period, and the vital body; and this
+vehicle always determines the direction in which a
+given force is used, and therefore it endeavors to give
+the correct shape to all forms. The keynote of Leo is
+Bb major, that of Virgo is C natural, and Cancer's
 keynote is Ab major.
 
-Painting was the third art man began to devel
-It owes its impetus to an attempt to reproduce
-pictures seen in the Moon Period of the eart
-existence which man faintly remembered through
-medium of his dream picture consciousness. The w
-of the Moon Period was done automatically under
-direction of the following life waves: the Lords
-Wisdom (Virgo), the Lords of Individuality (Libr
-and the Seraphim (Gemini), Virgo's keynote is
-natural, Libra's is D major, and Gemini's is
-major. Painting is correlated to the Moon Period:
-the desire body, both of which began their developm
+Painting was the third art man began to develop.
+It owes its impetus to an attempt to reproduce the
+pictures seen in the Moon Period of the earth's
+existence which man faintly remembered through the
+medium of his dream picture consciousness. The work
+of the Moon Period was done automatically under the
+direction of the following life waves: the Lords of
+Wisdom (Virgo), the Lords of Individuality (Libra),
+and the Seraphim (Gemini), Virgo's keynote is C
+natural, Libra's is D major, and Gemini's is F#
+major. Painting is correlated to the Moon Period and
+the desire body, both of which began their development
 during that time.
 
-Pythagoras, an occult teacher, asserted that
-world was called forth from chaos by sound or 1
-mony, and constructed according to the princi
-of musical proportion; that the seven planets wł
-rule the destiny of mortals have a harmonious mo
-and intervals corresponding to the intervals of mu
-rendering various sounds so perfectly harmon
-that they produce the sweetest melody, which is
-audible to man only by reason of the greatness
-the sound. which his ears are incapable of receiv
-Pythagoras made the distance from the Earth to
-Moon a whole tone; from the Moon to Mercur
-half tone; from Mercury to Venus a half tone; f
-Venus to the Sun a whole tone and a half tone; f
-the Sun to Mars a whole tone; from Mars to Jup
-a half tone; from Jupiter to Saturn a half to
-from Saturn to the zodiac a whole tone and a
-
-
-8
-MUSIC AND EVOLUTION
+Pythagoras, an occult teacher, asserted that the
+world was called forth from chaos by sound or har-
+mony, and constructed according to the principles
+of musical proportion; that the seven planets which
+rule the destiny of mortals have a harmonious motion
+and intervals corresponding to the intervals of music
+rendering various sounds so perfectly harmonized
+that they produce the sweetest melody, which is in-
+audible to man only by reason of the greatness of
+the sound. which his ears are incapable of receiving.
+Pythagoras made the distance from the Earth to the
+Moon a whole tone; from the Moon to Mercury a
+half tone; from Mercury to Venus a half tone; from
+Venus to the Sun a whole tone and a half tone; from
+the Sun to Mars a whole tone; from Mars to Jupiter
+a half tone; from Jupiter to Saturn a half tone;
+from Saturn to the zodiac a whole tone and a half tone;
 tone. This forms an interval of seven tones, the bas
 of the universal harmony.
-Max Heindel says that Pythagoras was not r
-mancing when he spoke of the music of the sphere
-for each one of the heavenly orbs has its defini
-tone, and together they sound a celestial symphon
-He corroborates what Pythagoras stated by sayin
-that each star has its own keynote, and travels abo
-the Sun in such varying rates of speed that the
-position cannot be duplicated but once in appro:
-mately twenty-six thousand years. The harmon
-of the heavens changes at every moment of life..
-it changes so do the people of the world alter the
-ideas and ideals. The circle movement of the plane
-around the Sun, to the tune of the celestial sympho
-created by themselves, marks man's progress alo:
-the path of evolution,
-Echoes of that heavenly music reach us here
-the Physical World. They are our most precious po
-session even though they are as elusive as a will-
-the-wisp and cannot be permanently created. In t
-First Heaven these echoes are, of course, much mo
-beautiful and have more permanency; and in t
-World of Thought, where the Second and Thi
+
+Max Heindel says that Pythagoras was not ro-
+mancing when he spoke of the music of the spheres,
+for each one of the heavenly orbs has its definite
+tone, and together they sound a celestial symphony.
+He corroborates what Pythagoras stated by saying
+that each star has its own keynote, and travels about
+the Sun in such varying rates of speed that their
+position cannot be duplicated but once in approxi-
+mately twenty-six thousand years. The harmony
+of the heavens changes at every moment of life. As
+it changes so do the people of the world alter their
+ideas and ideals. The circle movement of the planets
+around the Sun, to the tune of the celestial symphony
+created by themselves, marks man's progress along
+the path of evolution.
+
+Echoes of that heavenly music reach us here in
+the Physical World. They are our most precious pos-
+session even though they are as elusive as a will-o'-
+the-wisp and cannot be permanently created. In the
+First Heaven these echoes are, of course, much more
+beautiful and have more permanency; and in the
+World of Thought, where the Second and Third
 Heavens are located, is found the sphere of tone.
-In our earth life we are so immersed in the lit
-noises and sounds of our limited environment th
-we are incapable of hearing the music produced
-the marching orbs. The real musician, howev
-whether consciously or unconsciously, does tune
-so to speak, on the Region of Concrete Thought wh
-he may hear a whole sonata or symphony as a sin
-glowing chord which he later translates into a mu
-cal composition of superb harmony, grace, and sup
 
-
-AS IT WAS IN THE BEGINNING
+In our earth life we are so immersed in the little
+noises and sounds of our limited environment that
+we are incapable of hearing the music produced by
+the marching orbs. The real musician, however,
+whether consciously or unconsciously, does tune in,
+so to speak, on the Region of Concrete Thought where
+he may hear a whole sonata or symphony as a single
+glowing chord which he later translates into a musi-
+cal composition of superb harmony, grace, and super-
 nal beauty. Man has been likened to a monochord-
-a musical instrument with a single string whicl
-stretches from earth to the farthermost confine
+a musical instrument with a single string which
+stretches from earth to the farthermost confines
 of the zodiac.
-Man's will owes its origin to God's will; and th
-musician, by means of his own will power, hears thi
-power of the will of God permeating the solar syster
-expressed in sounds and tones. And through his ow:
-creative ability, born of will and imagination, h
-is able to reproduce in sound and tones both the wil
-power tones of God, which created the solar system
-and His imaginative idea tones, by means of whic
+
+Man's will owes its origin to God's will; and the
+musician, by means of his own will power, hears this
+power of the will of God permeating the solar system
+expressed in sounds and tones. And through his own
+creative ability, born of will and imagination, he
+is able to reproduce in sound and tones both the will
+power tones of God, which created the solar system,
+and His imaginative idea tones, by means of which
 He materialized it (the solar system).
+
 Architecture, sculpture, and painting were a
-impressed on man by great spiritual Beings, and thes
-arts then became part of his nature. But it is throug
-the power of man's own will that the musician ha
-become able to perceive the tones expressed by th
-will of God, and to a certain extent reproduce ther
-himself. This is the origin of our physical worl
+impressed on man by great spiritual Beings, and these
+arts then became part of his nature. But it is through
+the power of man's own will that the musician has
+become able to perceive the tones expressed by the
+will of God, and to a certain extent reproduce them
+himself. This is the origin of our physical world
 music, which is man's own creation.
-Music produces tone expressions of both God
-and man's highest power--the will, and therefor
-we can readily see what a terrible causation man
-building for himself in desecrating it, by introducin
-all kinds of discords, screechings, piercing noise:
-moanings, and nerve racking inharmonies into i
-A knowing philosopher well expressed a great Cosmi
-truth when he said, "Let me write the music fo
-a nation, and I care not who makes its laws." TH
-term musician herein used does not apply to th
-ordinary singer or musical performer, but to th
-master creators of music such as Beethoven, Mozar
-Wagner, Liszt, Chopin, and others in the same elas
 
+Music produces tone expressions of both God's
+and man's highest power--the will, and therefore
+we can readily see what a terrible causation man is
+building for himself in desecrating it, by introducing
+all kinds of discords, screechings, piercing noise,
+moanings, and nerve racking inharmonies into it.
+A knowing philosopher well expressed a great Cosmic
+truth when he said, "Let me write the music for
+a nation, and I care not who makes its laws." The
+term musician herein used does not apply to the
+ordinary singer or musical performer, but to the
+master creators of music such as Beethoven, Mozart,
+Wagner, Liszt, Chopin, and others in the same class.
 
-10
-MUSIC AND EVOLUTION
-Architecture may well be likened to frozen mu
-seulpture to imprisoned music, painting to mu
-struggling for release, and music to the free, floati
+Architecture may well be likened to frozen music,
+seulpture to imprisoned music, painting to music
+struggling for release, and music to the free, floating
 manifestation of sound.
 
-CHAPTER II
-MAN'S MONOCHORD
+CHAPTER II: MAN'S MONOCHORD
+
 HE single string of the monochord finds
 counterpart in man's spinal cord, the low
 part of which is connected with the organs of
