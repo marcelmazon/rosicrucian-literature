@@ -1,21 +1,33 @@
+---
+title: "Astrology and the Ductless Glands"
+language: 'en'
+original_title: "Astrology and the Ductless Glands"
+original_language: 'en'
+author: 'Augusta Foss Heindel'
+original_source_file: 'self'
+---
 
-ASTROLOGY AND THE DUCTLESS GLANDS
-by
-Augusta Foss Heindel
-With an Introduction by
+<h1 id="astrology-and-the-ductless-glands">Astrology and the Ductless Glands</h1>
 
-MANLY P. HALL
+by Augusta Foss Heindel
 
+With an Introduction by Manly P. Hall
 
+THE ROSICRUCIAN FELLOWSHIP  
+INTERNATIONAL HEADQUARTERS  
+MT. ECCLESIA  
+P.O. BOX 713  
+OCEANSIDE, CALIFORNIA, 92054, USA  
 
-THE ROSICRUCIAN FELLOWSHIP
-INTERNATIONAL HEADQUARTERS
-MT. ECCLESIA
-P.O. BOX 713
-OCEANSIDE, CALIFORNIA, 92054, USA
+### <h3 id="contents">Contents</h3>
 
+- [Introduction by Manly P. Hall](#introduction)
+- [CHAPTER I: Polarian Epoch](#chapter-1)
+- [CHAPTER II: The Garden of Eden](#chapter-2)
+- [CHAPTER III: Two Ductless Glands](#chapter-3)
+- [CHAPTER IV: The Spinal Gas](#chapter-4)
 
-INTRODUCTION
+### <h3 id="introduction">Introduction</h3>
 
 Astrology was one of the seven sacred sciences cultivated by the initiates of the ancient world. It was studied and practiced by all the great nations of antiquity. The origins of astrological speculation are entirely obscured by the night of time which preceded the dawn of history. There are traditions to the effect that the astrological science was perfected by magician- philosophers of the Atlantean Period. One thing is evident, Astrology descends to this late day adorned with the discoveries and embellishments of a thousand cultures. The history of Astrology is indeed a history of human thought and aspiration. The readings for the planets as given in the cuneiform tablets of Sargon are still used by the astrologers of this generation. Only such modifications and changes have been made as the shifting foundations of cultural standards necessitated.
 
@@ -49,18 +61,7 @@ The work which follows is a spiritual record of the function of the pituitary bo
 
 --Manly P. Hall
 
-
-CONTENTS
-
-Introduction by Manly P. Hall
-CHAPTER I: Polarian Epoch
-CHAPTER II: The Garden of Eden
-CHAPTER III: Two Ductless Glands
-CHAPTER IV: The Spinal Gas 
-
-
-Diagram: The Ductless Glands and their Rulers
-
+<img alt="Diagram: The Ductless Glands and their Rulers">
 
 ASTROLOGY AND THE DUCTLESS GLANDS
 
