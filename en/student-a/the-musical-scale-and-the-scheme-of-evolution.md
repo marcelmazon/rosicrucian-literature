@@ -13,15 +13,6 @@ Compiled by A Student of Max Heindel
 
 Fourth Printing
 
-The Rosicrucian Fellowship
-International Headquarters
-Mt. Ecclesia
-Oceanside, California, 92054, U.S.A.
-
-Representatives in Great Britain:
-L.N. Fowler & Co., Ltd., 29 Ludgate Hill
-London, E.C. 4
-
 ### <h3 id="dedication">DEDICATION</h3>
 
 This small volume is dedicated to Max
@@ -30,15 +21,7 @@ teaching given by him to his sincere
 students, who can never begin to express
 their gratitude by means of words.
 
-Max Heindel
-
-Copyright, 1949, by THE ROSICRUCIAN FELLOWSHIP
-Published and Printed in the United States of America
-By the Rosicrucian Fellowship, Oceanside, California
-1973
-
-
-FOREWORD
+### <h3 id="foreword">FOREWORD</h3>
 
 The subject matter contained in this booklet wa
 compiled from the writings of Max Heindel an
@@ -54,44 +37,39 @@ in the development of the great cosmic scheme, ar
 which it will continue to play, until the final to
 is sounded and perfection realized.
 
-Mt. Ecclesia
-November 19.
-
+Mt. Ecclesia, November 19.
 
 ### <h3 id="contents">CONTENTS</h3>
 
-Dedication
-Foreword
-I. AS IT WAS IN THE BEGINNING 1
-II. MAN'S MONOCHORD 1
-III. THE POWER OF MUSIC 1
-IV. CORRELATION OF MUSIC TO THE SOLAR GOD.. 1
-V. OUR MUSICAL ARCHETYPES 2
-VI. MUSICAL OCTAVES AND THE COSMIC SCHEME. 3
-VII. OUR GROUP SPIRIT, JEHOVAH, AND OUR OWN
-LIFE WAVE 4
-VIII. THE HARMONY OF THE SPHERES 5
-IX. THE ARCHETYPES AND THE PHYSICAL BODY. 5
-X. THE CURATIVE POWER OF MUSIC 6
-XI. INVISIBLE HELPERS AND HEALING 6
-XII. MUSIC AS A BUILDING POWER 7
-XIII. THE BRAIN, MAN'S PHYSICAL WORKSHOP... 7
-XIV. DEVELOPING THE EFFICIENCY OF THE MIND
-AND BRAIN 8
-XV. MAN'S VEHICLES, A COMPOSITE MUSICAL
-INSTRUMENT S
+- [Dedication](#dedication)
+- [Foreword](#foreword)
+- [I. AS IT WAS IN THE BEGINNING](#chapter-1)
+- [II. MAN'S MONOCHORD](#chapter-2)
+- [III. THE POWER OF MUSIC](#chapter-3)
+- [IV. CORRELATION OF MUSIC TO THE SOLAR GOD](#chapter-4)
+- [V. OUR MUSICAL ARCHETYPES](#chapter-5)
+- [VI. MUSICAL OCTAVES AND THE COSMIC SCHEME](#chapter-6)
+- [VII. OUR GROUP SPIRIT, JEHOVAH, AND OUR OWN LIFE WAVE](#chapter-7)
+- [VIII. THE HARMONY OF THE SPHERES](#chapter-8)
+- [IX. THE ARCHETYPES AND THE PHYSICAL BODY](#chapter-9)
+- [X. THE CURATIVE POWER OF MUSIC](#chapter-10)
+- [XI. INVISIBLE HELPERS AND HEALING](#chapter-11)
+- [XII. MUSIC AS A BUILDING POWER](#chapter-12)
+- [XIII. THE BRAIN, MAN'S PHYSICAL WORKSHOP](#chapter-13)
+- [XIV. DEVELOPING THE EFFICIENCY OF THE MIND AND BRAIN](#chapter-14)
+- [XV. MAN'S VEHICLES, A COMPOSITE MUSICAL INSTRUMENT](#chapter-15)
 
-ILLUSTRATIONS
+### <h3 id="illustrations">ILLUSTRATIONS</h3>
 
-The Seven Stringed Lyre 1
-World Regions, Life Waves and Piano Keyboard 3
-Constitution of the Earth 5
-Keynote of Life Waves and Man's Body 6
-Location of the Ductless Glands 7
-Thought Forms Built by Envy and Greed 8
-Prayer and Response from Above 8
-Thought Form Made by a Blessing 8
-Startled Thought Form Caused by Fear 8
+- [The Seven Stringed Lyre](#the-seven-stringed-lyre)
+- [World Regions, Life Waves and Piano Keyboard](#world-regions-life-waves-and-piano-keyboard)
+- [Constitution of the Earth](#constitution-of-the-earth)
+- [Keynote of Life Waves and Man's Body](#keynote-of-life-waves-and-mans-body)
+- [Location of the Ductless Glands](#location-of-the-ductless-glands)
+- [Thought Forms Built by Envy and Greed](#thought-forms-built-by-envy-and-greed)
+- [Prayer and Response from Above](#prayer-and-response-from-above)
+- [Thought Form Made by a Blessing](#thought-form-made-by-a-blessing)
+- [Startled Thought Form Caused by Fear](#startled-thought-form-caused-by-fear)
 
 
 
