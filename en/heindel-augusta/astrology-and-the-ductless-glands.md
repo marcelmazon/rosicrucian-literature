@@ -13,19 +13,13 @@ by Augusta Foss Heindel
 
 With an Introduction by Manly P. Hall
 
-THE ROSICRUCIAN FELLOWSHIP  
-INTERNATIONAL HEADQUARTERS  
-MT. ECCLESIA  
-P.O. BOX 713  
-OCEANSIDE, CALIFORNIA, 92054, USA  
-
 ### <h3 id="contents">Contents</h3>
 
 - [Introduction by Manly P. Hall](#introduction)
-- [CHAPTER I: Polarian Epoch](#chapter-1)
-- [CHAPTER II: The Garden of Eden](#chapter-2)
-- [CHAPTER III: Two Ductless Glands](#chapter-3)
-- [CHAPTER IV: The Spinal Gas](#chapter-4)
+- [Chapter I: Polarian Epoch](#chapter-1)
+- [Chapter II: The Garden of Eden](#chapter-2)
+- [Chapter III: Two Ductless Glands](#chapter-3)
+- [Chapter IV: The Spinal Gas](#chapter-4)
 
 ### <h3 id="introduction">Introduction</h3>
 
@@ -59,14 +53,15 @@ It is especially significant therefore that through a combination of clairvoyanc
 
 The work which follows is a spiritual record of the function of the pituitary body and pineal gland. I feel that the researches carried on by Mrs. Max Heindel are a definite contribution to the subject of endocrinology that should be preserved for the use of all students of medicine and the occult sciences.
 
---Manly P. Hall
+\- Manly P. Hall
 
-<img alt="Diagram: The Ductless Glands and their Rulers">
+<img alt="Diagram: The Ductless Glands and their Rulers" src="../assets/mdgen006.gif">
 
-ASTROLOGY AND THE DUCTLESS GLANDS
+<p><cite>Diagram: The Ductless Glands and their Rulers</cite></p>
 
-CHAPTER I
-POLARIAN EPOCH
+<h2 id="astrology-and-the-ductless-glands-h2">Astrology and the Ductless Glands</h2>
+
+### <h3 id="chapter-1">Chapter I: Polarian Epoch</h3>
 
 So God created man in his own image, in the image of God created he him; male and female created he them.--Genesis 1:27. 
 
@@ -86,9 +81,7 @@ There are two forces in nature which man recognizes and which he acknowledges as
 
 The various forms and developments of man's body during antenatal life are recapitulations of his development during involution. In the Polarian Epoch his body was globular similar to the ovum, and also of a gelatinous substance. There was at the beginning but one organ which protruded from the top of his bag-like form. This organ was eyes, ears, in fact it was the nucleus through which the rest of the body was built, also the medium through which man received his life from the Father. This organ is today called the pineal gland--epiphysis. Man's energies at that time were, like those of the fetus, directed inward to build future organs, and as the prenatal life of the physical body of today is directed and helped by the mother, so was man assisted during his involutionary period by the Divine Hierarchies. He was in direct touch with the higher realms and not yet conscious of his physical environment. In the meantime, eyes, ears, and various organs were taking shape within this ovoid body, while the pineal gland, which is at present such a mystery to medical science, was its only means of communication with the outer world. This organ was much larger than it is today, and from its cone-shaped top there protruded a long, transparent, flexible tentacle which aided in locomotion and in feeling, and this appendage may yet be seen on the small end of the pineal gland. It has the appearance of a small piece of skin, the function of which will be taken up in another chapter.
 
-
-CHAPTER II
-THE GARDEN OF EDEN
+### <h3 id="chapter-2">Chapter II: The Garden of Eden</h3>
 
 Man's evolution and development up to the present time is divided into five periods or epochs by the Rosicrucian teachings. We have described his bodily development during the Polarian Epoch, and we will now make a study of it during the next period, the Hyperborean Epoch. In the former man was mineral- like, in the latter he developed a vital body and was plant-like. In the third period, the Lemurian Epoch, he developed a desire body and became animal-like. The earth had already become encrusted and hardened in some places, and the atmosphere was dense and fog-like. Man then lived in the densest vegetation to protect himself from the intense heat, while his body had grown to a giant- like size--long arms and hands, massive jaws, but no forehead, the top of the head being very close to where the eyebrows are today. The skeleton had partially formed but was yet of a soft cartilaginous nature; man was not yet able to walk upright. The blood, which had heretofore been cold, now received iron and developed red corpuscles, which in turn hardened the bodily structure, making it possible for man to walk upright.
 
@@ -102,14 +95,13 @@ There is another tiny organ within the brain of man, the pituitary body, which h
 
 We may trace the development of man's body through all its stages from the very beginning up to that of its present wonderful mechanism in the life of the fetus; we first see it as a tiny speck of gelatinous matter, attracted to another speck of the opposite vibration. These are positive and negative. We follow the embryo through its development as it assumes the bag-like shape which is its first attempt at form as described in the preceding chapter, the globular, gelatinous form of the Polarian Epoch. This small embryonic sac has within it all the potentialities of the present perfected body with the two polarities, the positive and negative, the male and female, the pineal gland and the pituitary body. We follow this human embryo through its growth and changes, which, as in the case of prehistoric man, passes through the mineral- like stage, the plant stage, then the reptile stage with its well marked tail which at the ninth week disappears. Following this is the animal stage with its doglike face, with only a spot which later will become the eyes, ears, et cetera. At one stage of its development the pineal gland protrudes through the bag-like sac, and then the little form passes through the stage of the hermaphrodite as in the Hyperborean Epoch when no distinction of sex is shown outwardly. And so we may follow the evolution of man's body by the changes in the prenatal growth of the child in its mother's womb.
 
-
-CHAPTER III
-TWO DUCTLESS GLANDS
+### <h3 id="chapter-3">Chapter III: Two Ductless Glands</h3>
 
 The pineal gland and pituitary body are two organs which have not had to undergo extensive changes to bring them up to their present stage. These organs were both present in the bag-shaped body during the Polarian Epoch. Similar to the bud which contains both the stamen and pistil within its ovoid shape, the pineal gland and the pituitary body are the nuclei of the positive and negative forces by means of which our physical growth has developed.
 
 These tiny organs were larger in primitive man than at present, and through them the creative hierarchies termed in the Rosicrucian Philosophy the Lords of Form, have been able to assist the Ego to build its body and bring it up to its present state of perfection.
-THE PITUITARY BODY
+
+#### <h4 id="the-pituitary-body">The Pituitary Body</h4>
 
 The pituitary body was so named by medical science because it was formerly thought that the pituite or mucus of the nose came from this body. This idea, however, has been discarded, and although medical science affirms that the real functions of the pituitary body are speculative, still in the past few years it has gained much knowledge which is no longer speculative. This gland is situated in a saddle shaped depression of the sphenoid bone, between the eyes and directly back of the root of the nose, and at the junction of the two optic nerves. It is impossible to give its size, as it changes with age, temperament, and the morals of the person. Gray describes it as a meeting place in the life of the primitive embryo of the hypoblast, which is the innermost layer; the epiblast, the outermost layer, which later develops into the nervous system and the skin; and the mesoblast, which is the middle layer. Within these three layers are contained all the germinal organs of the body which are in formation. Consequently the pituitary body is directly associated with man's past, present, and future growth and development, for from these three primitive layers within the embryo, the body with its senses, brain, nervous system, and vital organs is developed, and the pituitary body is the central station through which all growth is directed. But the pineal gland is the real power behind it all, the formation of which we will take up later.
 
@@ -118,15 +110,14 @@ The pituitary is a small oval body, consisting of two lobes, the anterior or gla
 One of our students who is a doctor stated in a letter to the writer that that he would not think of leaving his office to attend an obstetrical case without having pituitary extract in his case, which when used at the proper time reduces labor pain from one to four hours. This extract, however, in improper hands is a two-edged sword.
 
 The pituitary gland is connected directly with and has rule over the outer sheath of the brain and spinal column, the dura mater. This sheath embodies the great protective mother principle. It covers the brain and spinal cord, protecting them from outer impacts and also feeding the blood vessels and nerves.
-THE PINEAL GLAND
+
+#### <h3 id="the-pineal-gland">The Pineal Gland</h3>
 
 The pineal gland is a tiny cone-shaped body varying in size according to the mental and spiritual status of the person. It is named after the pine cone, which it resembles in appearance. It is larger in a child than in an adult and larger in females than in males. Its functions are almost unknown to science. Some claim that it has direct rule over the generative organs and the brain. Extracts of it when injected into the circulation produce a slight dilation of the blood vessels. It is large at birth and is fully developed at puberty. Its structural evolution begins at the age of seven years. Dana and Berkeley in their investigations found this organ small and lacking in substance in children who were backward mentally. Science has also been able to connect this gland with the functions of the interstitial gland and of the brain, but these conclusions are only speculative.
 
 The pineal gland is held in place by the pia mater, a thin membrane or sheath surrounding the brain and spinal column, from which the entire central nervous system is fed, and from which many little nerve roots branch off between the spinal vertebrae. The dura mater is the outermost sheath while the pia mater is the innermost. The pineal gland has the appearance of a small male organ and rests upon what is termed by science the quadrigeminae, four rounded eminences placed in two pairs. The two lower ones are called the buttocks, the two upper the testes, and the tiny pineal gland rests in the center of them. The pituitary body is connected with the dura mater, the mother principle, on the anterior side of the third ventricle. The pineal gland, the male or positive organ, is connected with the pia mater and is located at the posterior end of the third ventricle; consequently this tiny cavity or ventricle is of great importance to man as we shall see later.
 
-
-CHAPTER IV
-THE SPINAL GAS
+### <h3 id="chapter-4">Chapter IV: The Spinal Gas</h3>
 
 According to the Rosicrucian teachings the blood is a gas and not a liquid as affirmed by science. When the spinal column is observed by one with the spiritual sight developed, the spinal gas appears like a thin stream of light, the color of which differs according to the temperament and morals of the man. In the sensual man this spinal fire is a dull brick red, intermingled with a slight coloring of blue. As his aspirations rise and his love for others is awakened, this color becomes clearer, and the blue light with a slight coloring of pink is drawn upward. When one observes the spinal gas of the spiritually awakened man, who has purified his mind and body by high ideals and by a life of service, especially if observed while he is in meditation or prayer, there is seen a most wonderful sight. The spinal fire is of a most ethereal blue which is difficult to describe; the nearest color to it would be that of a blue gas flame with the softest tint of pink and yellow playing through it. From the lower part of the sacral to the upper part of the lumbar region the colors are still slightly clouded with red, but as the spinal gas rises upward, it becomes purer and more transparent. This spinal fire during meditation and prayer becomes more active, coursing more swiftly through the spine, and as it touches the spinal nerves, it emits a tiny spark at the beginning of each until it reaches the medulla oblongata, which seems to act as a transformer or separating station, where the color makes a change, the darker or murky colors again descending while the lighter and purified gas is drawn upward.
 
@@ -139,7 +130,8 @@ The pineal gland of the sensual man who dissipates his vital fluids is very smal
 Water when brought to a certain heat is turned into steam and may evaporate into the air, leaving a tiny residue of crystallized sediment in the kettle. Conversely, the blood while in the body is a gas, but when it comes in contact with the air, it condenses and becomes a liquid. Now how is it possible under similar conditions for science to investigate with its material instruments and clearly understand the functions of two such vital organs as the pineal gland and the pituitary body, whose inaccessibility makes it almost impossible to remove them without changing their shape?
 
 When the man with the developed faculty of spiritual sight, however, investigates their physiological functions, he does not need to remove the organs but turns his X-ray sight upon them and observes their action.
-SPIRITUAL OBSERVATION
+
+#### <h4 id="spiritual-observation">Spiritual Observation</h4>
 
 The writer has been privileged while under the direction of the Teacher to watch these two higher ductless glands in action. The time and opportunity were ideally prepared, and a living person was the subject. Both organs were much enlarged which gave marvelous clearness to our observations.
 
@@ -148,34 +140,19 @@ Let us observe this subject, a woman in spiritual meditation, one who has been l
 The pineal gland as already stated, has the appearance of a tiny male organ, while the pituitary body with its open mouth is similar to the female organ. So we may see that science, which is trying to prove that these organs are directly connected with the functions of the brain and the generative organs, is right. They have direct influence upon man from the two ends of the spinal cord, for does not the sex pervert in time become a degenerate?
 
 Conservation of the vital fluids and a chaste life strengthen the brain, and these two ductless glands become enlarged, but in the sensualist they atrophy. Science is correct in its assertion that these organs are larger in children and women than in men, even men who live a pure life.
-ASTROLOGICALLY DISCERNED
+
+#### <h4 id="astrologically-discerned">Astrologically Discerned</h4>
 
 In an endeavor to further prove the above assertions astrologically, the writer has compared the horoscopes of patients who have been in touch with the Healing Department at Headquarters. She found ten horoscopes of young men and women who were afflicted with epilepsy. Four of these patients were found with the Moon in conjunction with Neptune in the sign of Taurus. This sign has rule over the throat and also indirectly over the generative organs. Here again we find, as Max Heindel has said, that Neptune is the higher octave of Mercury and not of Venus as some astrologers claim, for this planet, which has rule over the pineal gland, also has rule over the brain and the spiritual faculties. Two patients out of these ten have Neptune square to the Moon, while one has Neptune in conjunction with Mars and another Neptune in opposition to Saturn. In all of these cases we found that they had formed the secret habit of sex abuse during childhood, which had wasted the vital fluids necessary in building the brain, and there was a mental deficiency bordering upon idiocy. If the doctors could have opened the brains of these patients to examine the glands, they would have found them diseased according to the planetary afflictions, which might have taken the form of atrophy, tumor, or in the case of the pineal gland, inflammation.
 
 Astrologers in the past have made the claim that Uranus was the higher octave of Mercury, and had rule over the higher mental qualities, and that Neptune was the higher octave of Venus. At the same time they have admitted that an afflicted Uranus in the angles caused separations in marriage, and that a square or conjunction of Uranus and Venus in a woman's horoscope would attract undue attention from the opposite sex, thereby endangering her morality. Uranus has always been associated with licentiousness and laxity in morals, and illicit love affairs, while Neptune has been connected with secret orders, deceptions, and frauds. The writer has wondered why these two higher spiritual planets were reversed by the astrologers when they represent opposite characteristics. Spiritual investigation shows the higher octaves to be as follows: Neptune, ruler of the pineal gland, is the higher octave of Mercury; Uranus, ruler of the pituitary body, is the higher octave of Venus.
 
 The drunkard when under the influence of liquor has an over-stimulation of the pituitary body which causes reeling, hilarious conditions. This gland regulates the emotional nature and the circulation of the blood. Being ruled by Uranus, the higher octave of Venus, the ruler of music, the pituitary body is influenced by music and harmony which set it into vibration. The morphine or cocaine inebriate receives his stimulus through the pineal gland.
-REJUVENATION
+
+#### <h4 id="rejuvenation">Rejuvenation</h4>
 
 We have read much in the papers about rejuvenation through the grafting of animal glands into man to restore his youth. Should this be carried to any great extent, the next generation would be liable to have many degenerate children and the institutions would be filled with mental perverts. The animals from which these glands are taken, the goat and monkey, multiply very rapidly, and naturally there would be a degenerating effect upon the man who is foolish enough to permit this grafting to be done upon his body. Furthermore, this rejuvenation is for a short time only. If the man continues to live the life of the senses, he will soon dissipate this new energy, which will have to be replenished from time to time.
 
 There is but one fountain of youth, one elixir of life, and that is our food and our thoughts. If we live a pure and simple life of unselfishness, eating lightly of vegetables and fruit, keeping close watch over our desires, then we need not sacrifice the life of the animal to replenish our wasted energy. Ponce de Leon sought the fountain of perpetual youth in far-off lands, while he had two tiny cups within his own brain which, if he had only paid the price of making an exchange of the worldly life of the senses for a spiritual life of purity, would have given him the elixir of life.
 
-
-End of
-Astrology and the Ductless Glands
-
-
-
-
-Table of Contents
-Click here to return to The Rosicrucian Fellowship Home Page.
-Rosicrucian Fellowship Astrology Study Courses information
-Order the printed version of this book. 
-
-
-Rosicrucian Fellowship - International Headquarters
-2222 Mission Avenue, Oceanside, CA 92058-2329, USA
-(760) 757 - 6600
-Contact us
-
+End of: Astrology and the Ductless Glands
