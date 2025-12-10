@@ -247,122 +247,122 @@ seulpture to imprisoned music, painting to music
 struggling for release, and music to the free, floating
 manifestation of sound.
 
-CHAPTER II: MAN'S MONOCHORD
+### <h3 id="chapter-2">CHAPTER II: MAN'S MONOCHORD</h3>
 
-HE single string of the monochord finds
-counterpart in man's spinal cord, the low
-part of which is connected with the organs of
-production, and the upper part with the brain, whi
-physical organ is related to thought. Working pa
-ticularly with this cord are the Lucifer Spiri
-who govern that part of the cord which contr
-the motor (action) nerves that expend the dynan
-energy stored in the body by the blood. The secti
-of the cord which governs the function that I
-to do particularly with the upkeep and welfare
-the body is under control of the Angels, The pa
-of the cord that marks and registers the sensatic
-carried by the nerves is controlled by the Mercuria
-The spinal spirit gas which fills the central car
-of the spinal cord is the field of action of the gre
+THE single string of the monochord finds its
+counterpart in man's spinal cord, the lower
+part of which is connected with the organs of re-
+production, and the upper part with the brain, which
+physical organ is related to thought. Working par-
+ticularly with this cord are the Lucifer Spirits,
+who govern that part of the cord which controls
+the motor (action) nerves that expend the dynamic
+energy stored in the body by the blood. The section
+of the cord which governs the function that has
+to do particularly with the upkeep and welfare of
+the body is under control of the Angels, The part
+of the cord that marks and registers the sensations
+carried by the nerves is controlled by the Mercurians.
+The spinal spirit gas which fills the central canal
+of the spinal cord is the field of action of the great
 spiritual hierarchy from Neptune.
-The Lucifer Spirits do their work through t
-power of the keynote sounded by Mars. The Ang
-do their work through the power of the keynd
-sounded by the Moon. The Neptunians do their wo
-through the power of the keynote sounded by Ne
-T
 
-
-MAN'S MONOCHORD
-tune. The vibrations produced by these four k
-notes are continually impinging on the spinal co
-and the spinal spirit essence in the central ca
+The Lucifer Spirits do their work through the
+power of the keynote sounded by Mars. The Angels
+do their work through the power of the keynote
+sounded by the Moon. The Neptunians do their work
+through the power of the keynote sounded by Nep-
+tune. The vibrations produced by these four key-
+notes are continually impinging on the spinal cord,
+and the spinal spirit essence in the central canal
 of the cord.
-In the masses of humanity the spinal spirít 1
-is asleep, so to speak, and will remain so until
-Spirit is able to get better control of two of
-vehicles, the desire body and the mind; for this fi
-essence is a life force which either builds or destro
+
+In the masses of humanity the spinal spirít fire
+is asleep, so to speak, and will remain so until the
+Spirit is able to get better control of two of its
+vehicles, the desire body and the mind; for this fiery
+essence is a life force which either builds or destroys
 depending on the way that it is used.
-According to the foregoing it is plain to be si
-that the planets which most closely affect the spi
-cord, man's monochord, in a material way are Ma
-Moon, and Mercury; and that in the most advan
-of the Aryan race the vibration of Neptune is j
+
+According to the foregoing it is plain to be seen
+that the planets which most closely affect the spinal
+cord, man's monochord, in a material way are Mars,
+Moon, and Mercury; and that in the most advanced
+of the Aryan race the vibration of Neptune is just
 beginning to be felt.
-Music is composed of three primary elemer
-namely, melody, harmony, and rhythm. Melody
-composed of a succession of harmonious sounds sen
-by the auditory nerves which are connected with
-brain a physical organ that contacts the mind.
-is therefore through the mental body that the Sp:
-is able to sense the melody produced on the physi
-plane. An idiot or insane persen does not respo
-to melody. Harmony consists of an agreeable blend:
-of tones, and is related to the feelings or emotio
-Feelings or emotions are expressions of the des
-body and therefore harmony may have an effect
-both man and animals, as both have desire bod
-Rhythm is measured and balanced movement and
-expressed by the life force which actuates gestu
-and other physical motion. The vital body abso
-a superabundance of vital force (solar energy) wh
-it passes on to the physical body to keep it alive a
 
-
-functioning. Hence rhythm is correlated to the vit
-body. Plants have a vital body and are therefo
+Music is composed of three primary elements,
+namely, melody, harmony, and rhythm. Melody is
+composed of a succession of harmonious sounds sensed
+by the auditory nerves which are connected with the
+brain a physical organ that contacts the mind. It
+is therefore through the mental body that the Spirit
+is able to sense the melody produced on the physical
+plane. An idiot or insane persen does not respond
+to melody. Harmony consists of an agreeable blending
+of tones, and is related to the feelings or emotions.
+Feelings or emotions are expressions of the desire
+body and therefore harmony may have an effect on
+both man and animals, as both have desire bodies.
+Rhythm is measured and balanced movement and is
+expressed by the life force which actuates gestures
+and other physical motion. The vital body absorbs
+a superabundance of vital force (solar energy) which
+it passes on to the physical body to keep it alive and
+functioning. Hence rhythm is correlated to the vital
+body. Plants have a vital body and are therefore
 sensitive to rhythm.
-Man has within his brain seven cavities whi
-during life are ordinarily considered empty.
-reality, however, these cavities are filled with a spi
-essence, each cavity having its own tone and cold
-The tones produced by these cavities are correlat
-to those of the Seven Spirits before the Throne
-Uranus, Saturn, Jupiter, Mars, Earth, Venus, a
-Mercury. The cavities or ventricles beginning wi
-the front of the brain, are (1) olfactory ventric
-(2) lateral ventricle, (3) third ventricle, (4) four
-ventricle, (5) pituitary body, (6) Pineal glar
-The seventh cavity is the skull and it combines
+
+Man has within his brain seven cavities which
+during life are ordinarily considered empty. In
+reality, however, these cavities are filled with a spirit
+essence, each cavity having its own tone and color.
+The tones produced by these cavities are correlated
+to those of the Seven Spirits before the Throne -
+Uranus, Saturn, Jupiter, Mars, Earth, Venus, and
+Mercury. The cavities or ventricles beginning with
+the front of the brain, are (1) olfactory ventricle,
+(2) lateral ventricle, (3) third ventricle, (4) fourth
+ventricle, (5) pituitary body, (6) Pineal gland.
+The seventh cavity is the skull and it combines all
 of the elements into one grand whole.
-The solar system is one vast musical instrume
-As there are twelve semitones in the chromatic sca
-so in the heavens we have t
-twelve signs of the zodiac, and
-we have the seven white keys
-tones on the keyboard of the pian
-so we have the seven planets. T
-signs of the zodiac may he said
-be the sounding board of the e
-mic harp and the seven plan
-are the strings; and therefore they influence manki
+
+The solar system is one vast musical instrument.
+As there are twelve semitones in the chromatic scale,
+so in the heavens we have the
+twelve signs of the zodiac, and as
+we have the seven white keys or
+tones on the keyboard of the piano, 
+so we have the seven planets. The
+signs of the zodiac may he said to
+be the sounding board of the cos-
+mic harp and the seven planets
+are the strings; and therefore they influence mankind
 in diverse ways.
-In the Bible we note how the seven-stringed ha
-of David represents astrologically the keynotes
-the sevenfold planetary chain. The keynote of ea
-planet is composed of the quintessence of its agg
-gate sounds. An amalgamation of the sorrows &
-joys of our earth, the sounds of its winds and se
 
+PICTURE!!!!!!!!!!!!!
 
-MAN'S MONOCHORD
-the rhythm of all its living forces combined, fo
-its tone or keynote. In like marner and on an e
-ascending scale, sound the notes of the entire pla
-tary chain, their union constituting the subli
-Music of the Spheres... "There's not the small
-erb which thou beholdest, but in its motion like
-angel sings." So wrote the great poet-initiate, Shal
-peare. This celestial music is the product of t
-Word of which St. John wrote when he said: '
-the beginning was the Word, and the word was w
-God, and the Word was God and without 1
-was not anything made that was made." (John 1: 1
+In the Bible we note how the seven-stringed harp
+of David represents astrologically the keynotes of
+the sevenfold planetary chain. The keynote of each
+planet is composed of the quintessence of its aggre-
+gate sounds. An amalgamation of the sorrows and
+joys of our earth, the sounds of its winds and seas;
+the rhythm of all its living forces combined, form
+its tone or keynote. In like marner and on an ever
+ascending scale, sound the notes of the entire plane-
+tary chain, their union constituting the sublime
+Music of the Spheres... "There's not the smallest
+erb which thou beholdest, but in its motion like an
+angel sings." So wrote the great poet-initiate, Shakes-
+peare. This celestial music is the product of that
+Word of which St. John wrote when he said: "In
+the beginning was the Word, and the word was with
+God, and the Word was God . . . . and without him
+was not anything made that was made." (John 1: 1-3)
 
-CHAPTER III
-THE POWER OF MUSIC
+### <h3 id="chapter-3">CHAPTER III: THE POWER OF MUSIC</h3>
+
 Music is thus, in her health, the teacher e
 perfect order, and is the voice of the obedienm
 of angels, and the companion of the course
