@@ -298,7 +298,7 @@ Other colors may also appear in these two lower ethers but those mentioned are b
 
 When the solar ether pours through the spleen and is refracted in the seed atom of the vital body in the solar plexus, it pours through the body so that every atom of the body, both physical and etheric, receives its stimulation. The excess force then radiates outward in rose-colored lines. Mr. Heindel's first thought when studying the ethers was that this force took on its rosy hue by refraction through each prismatic ether atom: later he decided the change occurred in the solar plexus seed atom, and a cluster of atoms around it. (COSMO-CONCEPTION, p. 10) He had not completed his researches at the time of his sudden death in January, 1919.
 
-SUMMARY
+#### <h4 id="summary">SUMMARY</h4>
 
 Now let us turn once more to the view of the vital body available to the etheric sight of the occult scientist. Necessarily the vital body atom is seen in conjunction with the physical atom, with which the etheric atom is tightly entwined. To picture the physical and etheric atom of the body, imagine a pear-shaped wire basket having walls of spirally curved wire running obliquely from pole to pole. This is the physical part of the atom. It is shaped nearly like our Earth and the prismatic vital body atom is inserted at the top, which is widest, and corresponds to the positive pole of the earth. Since the vital prism is inserted at the top, the point of the prism extends toward the bottom of the "basket," which is termed the negative pole. The whole atom, thus interpenetrated, resembles a top swinging, swaying, and vibrating, in a note which is set by the archetype and the Sounding Flame in the medulla oblongata.
 
