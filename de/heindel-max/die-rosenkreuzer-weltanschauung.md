@@ -1,76 +1,252 @@
-# Die Rosenkreuzer-Weltanschauung
+---
+title: 'Die Rosenkreuzer-Weltanschauung'
+language: 'de'
+original_title: "The Rosicrucian Cosmo-Conception"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
 
-oder
-Mystisches Christentum
+<h1 id="the-rosicrucian-cosmo-conception">Die Rosenkreuzer-Weltanschauung</h1>
+
+oder Mystisches Christentum
 
 Eine elementare Abhandlung über die vergangene Entwicklung, die gegenwärtige Zusammensetzung und die zukünftige Entfaltung des Menschen
 
+![Max Heindel](../../assets/max-heindel.jpg)
+
 von Max Heindel
 
-seine Botschaft und sein Auftrag
+seine Botschaft und sein Auftrag: 
+
+```
 Ein urteilsfähiger Intellekt
-Ein fühlendes Herz
-Ein gesunder Körper
+    Ein fühlendes Herz
+        Ein gesunder Körper
+```
 
-Alle Rechte vorbehalten. Nachdruck, auch auszugsweise, die fotomechanische Wiedergabe, sowie die Übersetzung in andere Sprachen bedürfen der ausdrücklichen Genehmigung der Rosicrucian Fellowship.
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+Oceanside, California, 91054, USA  
 
-Dezember 1992 Neu überarbeitete und die derzeit einzig verfügbare autorisierte deutsche Übersetzung der amerikanischen Originalfassung mit dem Titel: "The Rosicrucian Cosmo-Conception".
+### <h3 id="list-of-contents">List of Contents</h3>
 
-Dies ist eine ungekürzte, vollständige, jedoch limitierte Studienausgabe, da die Übersetzung noch weiter bearbeitet wird. Interressenten für dieses Werk und Freunde mögen sich bitte an die obenstehende Anschrift der Fellowship oder an die am Ende des Buches beigefügte Adresse wenden.
+- [Credo oder Christus](#creed-or-christ)
+- [Ein Word an die Weisen](#a-word-to-the-wise)
+- [Abschnitt I: Die gegenwärtige Zusammensetzung des Menschen und die Methode seiner Entwicklung](#part-1)
+  - [Diagramm A: Die vier Reiche](#diagram-the-four-kingdoms)
+  - [Einführung](#introduction)
+  - [I. - Die sichtbaren und die unsichtbaren Welten](#chapter-1)
+    - [Die chemische Region der physischen Welt](#chemical-region-of-the-physical-world)
+    - [Die Ätherregion der physischen Welt](#etheric-region-of-the-physical-world)
+    - [Die Empfindungswelt](#the-desire-world)
+    - [Die Gedankenwelt](#the-world-of-thought)
+    - [Diagramm 1: Die relative Beständigkeit der sichtbaren und unsichtbaren Welten (im vergleich mit einer Dia-Projektion)](#diagram-1-the-material-world-a-reverse-reflection-of-the-spiritual-worlds)
+    - [Diagramm 2: Die Sieben Welten](#diagram-2-the-seven-worlds)
+  - [II. Die vier Reiche](#chapter-2)
+    - [Diagramm 3: Die Träger der vier Reiche](#diagram-3-the-vehicles-of-the-four-kingdoms)
+    - [Diagramm 4: Die Bewusstseinszustände der vier Reiche](#diagram-4-the-consciousness-of-the-four-kingdoms)
+  - [III. Der Mensch und die Methode seiner Entwicklung](#chapter-3)
+    - [Lebenstätigkeiten, Gedächtnis und Seelenwachstum](#activities-of-life-memory-and-soul-growth)
+    - [The Constitution of the Seven-fold Man](#constitution-of-the-seven-fold-man)
+    - [Diagramm 5: Die zehnfache Zusammensetzung des Menschen](#diagram-5-the-three-fold-spirit-the-three-fold-body-and-the-three-fold-soul)
+    - [Tod und Fegefeuer](#death-and-purgatory)
+    - [Diagramm 5a: Die Silberschnur](#diagram-5-1-2-the-silver-cord)
+    - [Das Grenzland](#the-borderland)
+    - [Der erste Himmel](#the-first-heaven)
+    - [Der zweite Himmel](#the-second-heaven)
+    - [Der dritte Himmel](#the-third-heaven)
+    - [Vorbereitung zur Wiedergeburt](#preparations-for-rebirth)
+    - [Die Geburt des dichten Körpers](#birth-of-the-dense-body)
+    - [Die Geburt des Lebensleibes](#birth-of-the-vital-body)
+    - [Die Geburt des Empfindungsleibes](#birth-of-the-desire-body)
+    - [Die Geburt des Intellekts](#birth-of-the-mind)
+    - [Das Blut als Träger des Ego](#the-blood-the-vehicle-of-the-ego)
+    - [Diagramm B: Ein Lebenskreislauf](#diagram-a-life-cycle)
+  - [IV. Wiedergeburt und das Gesetz der Ursache und Wirkung](#chapter-4)
+    - [Der Wein als ein Faktor in der Evolution](#wine-as-a-factor-in-evolution)
+    - [Eine bemerkenswerte Geschichte](#a-remarkable-story)
+- [Abschnitt II: Kosmogenesis und Antropogenesis](#part-2)
+  - [V. Die Beziehung des Menschen zu Gott](#chapter-5)
+    - [Diagramm 6: Das Höchste Wesen, die kosmischen Ebenen und Gott](#diagram-6-the-supreme-being-the-cosmic-planes-and-god)
+  - [VI. Der Entwicklungssplan](#chapter-6)
+    - [Der Anfang](#the-beginning)
+    - [Die sieben Welten](#the-seven-worlds)
+    - [Die sieben Perioden](#the-seven-periods)
+    - [Diagramm 7: Die Saturnperiode](#diagram-7-the-saturn-period)
+  - [VII. Der Pfad der Entwicklung](#chapter-7)
+    - [Kreisläufe und kosmische Nächte](#revolutions-and-cosmic-nights)
+    - [Diagramm 8: Die 777 Inkarnationen - 7 Kreisläufe, 7 Globen, 7 Weltperioden](#diagram-8-the-seven-worlds-seven-globes-and-seven-periods)
+  - [VIII. Die Arbeit der Evolution](#chapter-8)
+    - [Der Faden der Ariadne](#ariadnes-thread)
+    - [Die Saturnperiode](#the-saturn-period)
+    - [Wiederholung](#recapitulation)
+    - [Die Sonnenperiode](#the-sun-period)
+    - [Die Mondperiode](#the-moon-period)
+    - [Diagramm 9: Die zwölf großen schōpferischen Hierarchien](#diagram-9-twelve-creative-hierarchies)
+  - [IX. Nachzügler und Neuhinzukommende](#chapter-9)
+    - [Classes of Beings at the Beginning of the Moon Period](#classes-of-beings-at-the-beginning-of-the-moon-period)
+    - [Diagramm 10: Klassen der Lebenswogen zu Beginn der Erdperiode](#diagram-10-classes-at-the-beginning-of-earth-period)
+  - [X. Die Erdperiode](#chapter-10)
+    - [Der Saturnkreislauf der Erdperiode](#the-saturn-revolution-of-the-earth-period)
+    - [Der Sonnenkreislauf der Erdperiode](#the-sun-revolution-of-the-earth-period)
+    - [Der Mondkreislauf der Erdperiode](#the-moon-revolution-of-the-earth-period)
+    - [Ruhepausen zwischen den Weltkreisläufen](#rest-periods-between-revolutions)
+    - [Der vierte Kreislauf der Erdperiode](#the-fourth-revolution-of-the-earth-period)
+  - [XI. Die Genesis und die Evolution unseres Sonnensystems](#chapter-11)
+    - [Chaos](#chaos)
+    - [Die Geburt der Planeten](#the-birth-of-the-planets)
+    - [Diagramm 11: Der eine, die drei, sieben und zehnfachen Aspekte Gottes und des Menschen](#diagram-11-aspects-of-god-and-man)
+    - [Die Schwingungstabelle](#table-of-vibrations)
+    - [Diagramm 12: Die vergangene, gegenwärtige une zukünftige Form des menschlichen Körpers](#diagram-12-a-mans-past-present-and-future-form)
+  - [XII. Die Evolution auf der Erde](#chapter-12)
+    - [Die polarische Epoche](#the-polarian-epoch)
+    - [Die Hyperboreische Epoche](#the-hyperborean-epoch)
+    - [Der Mond, der achte Himmelskörper](#the-moon-the-eighth-sphere)
+    - [Die Lemurische Epoche](#the-lemurian-epoch)
+    - [Die Geburt des Individuums](#birth-of-the-individual)
+    - [Die Teilung der Geschlechter](#separation-of-the-sexes)
+    - [Der Einfluß des Mars](#influence-of-mars)
+    - [Die Rassen und ihre Führer](#the-races-and-their-leaders)
+    - [Der Einfluß des Merkur](#influence-of-mercury)
+    - [Die Lemurische Rasse](#the-lemurian-race)
+    - [Der Fall des Menschen](#the-fall-of-man)
+    - [Die Luzifergeister](#the-lucifer-spirits)
+    - [Die atlantische Epoche](#the-atlantean-epoch)
+    - [Die arische Epoche](#the-aryan-epoch)
+    - [Die sechzehn Pfade der Vernichtung](#the-sixteen-paths-to-destruction)
+  - [XIII. Zurück zur Bibel](#chapter-13)
+  - [XIV. Die okkulte Analyse der Genesis (1. Mose)](#chapter-14)
+    - [Die Begrenzungen der Bibel](#limitations-of-the-bible)
+    - [Am Anfang](#in-the-beginning)
+    - [Die Theorie der Urnebel](#the-nebular-theory)
+    - [Die schöpferischen Hierarchien](#the-creative-hierarchies)
+    - [Die Saturnperiode](#the-saturn-period)
+    - [Die Sonnenperiode](#the-sun-period)
+    - [Die Mondperiode](#the-moon-period)
+    - [Die Erdperiode](#the-earth-period)
+    - [Jehova und seine Mission](#jehovah-and-his-mission)
+    - [Involution, Evolution und Epigenesis](#involution-evolution-and-epigenesis)
+    - [Eine lebende Seele?](#a-living-soul)
+    - [Adams Rippe](#adams-rib)
+    - [Schutzengel](#guardian-angels)
+    - [Blutmischung in der Ehe](#mixing-blood-in-marriage)
+    - [Der Fall des Menschen](#the-fall-of-man)
+    - [Diagramm 13: Der Anfang und das Ende des Geschlechtes](#diagram-13-the-beginning-and-end-of-sex)
+- [Abschnitt 3: Die zukünftige Entwicklung des Menschen und die Einweihung](#part-3)
+  - [Diagramm C: Die sieben Schöpfungstage](#diagram-the-seven-days-of-creation)
+  - [XV. Christus und Seine Sendung](#chapter-15-christ-and-his-mission)
+    - [Die Entwicklung der Religion](#the-evolution-of-religion)
+    - [Jesus und Christus-Jesus](#jesus-and-christ-jesus)
+    - [Diagramm 14: Die Träger der höchsten Eingeweihten und der gewöhnlichen Menschheit.](#diagram-14-the-father-the-son-and-the-holy-spirit)
+    - [Nicht Friede, sondern ein Schwert](#not-peace-but-a-sword)
+    - [Der Stern von Bethlehem](#the-star-of-bethlehem)
+    - [Das Herz als eine Anomalie](#the-heart-as-an-anomaly)
+    - [Das Mysterium von Golgatha](#the-mystery-of-golgotha)
+    - [Das reinigende Blut](#the-cleansing-blood)
+    - [Diagramm D: "Wie oben, so unten.](#diagram-as-above-so-below)
+  - [XVI. Zukünftige Entwicklung und Einweihung](#chapter-16)
+    - [Die sieben Schöpfungstage](#the-seven-days-of-creation)
+    - [Diagramm 15: Die sieben Schöpfungstage und die vier großen Einweihungen](#diagram-15-the-symbolism-of-the-caduceus)
+    - [Radiates, Mollusks, Articulates and Vertebrates](#radiates-mollusks-articulates-and-vertebrates)
+    - [Spiralen in den Spiralen](#spirals-within-spirals)
+    - [Alchemy and Soulgrowth](#alchemy-and-soul-growth)
+    - [Das schöpferische Wort](#the-creative-word)
+  - [XVII. Die Methode, Kenntnisse aus erster Hand zu erwerben](#chapter-17)
+    - [Die ersten Schritte](#the-first-steps)
+    - [Westliche Methoden für westliche Völker](#western-methods-for-western-people)
+    - [Die Wissenschaft von der Ernährung](#the-science-of-nutrition)
+    - [Tabelle der Nährwerte. 1](#table-of-food-values-part-1)
+    - [Tabelle der Nährwerte. 2](#table-of-food-values-part-2)
+    - [Das Gesetz der Nahrungsaufnahme](#the-law-of-assimilation)
+    - [Leben und leben lassen](#live-and-let-live)
+    - [Das Gebet des Herrn: Vaterunser](#the-lords-prayer)
+    - [Diagramm 16: Das Vaterunser](#diagram-16-the-lords-prayer)
+    - [Das Gelübde der Ehelosigkeit](#the-vow-of-celibacy)
+    - [Die Hypophyse (Hirnanhang) und die Epiphyse (Zirbeldrüse)](#the-pituitary-body-and-the-pineal-gland)
+    - [Diagramm 17: Der Weg der ungebrauchten Geschlechtsströme](#diagram-17-path-of-the-unused-sex-currents)
+    - [Esoterische Erziehung](#esoteric-training)
+    - [Wie man den inneren Träger erbaut](#how-the-inner-vehicle-is-built)
+    - [Konzentration](#concentration)
+    - [Meditation](#meditation)
+    - [Beobachtung](#observation)
+    - [Unterscheidung](#discrimination)
+    - [Betrachtung (Kontemplation)](#contemplation)
+    - [Anbetung (Adoration)](#adoration)
+  - [XVIII. Die Struktur der Erde: Und Vulkanausbrüche](#chapter-18)
+    - [Die Zahl des Tieres](#the-number-of-the-beast)
+    - [Diagramm 18: Die Zusammensetzung der Erde](#diagram-18-the-constitution-of-the-earth)
+  - [XIX. Christian Rosenkreuz und der Orden der Rosenkreuzer](#chapter-19)
+    - [Alte Wahrheiten in modernem Kleid](#ancient-truths-in-modern-dress)
+    - [Einweihung (Initiation)](#initiation)
+    - [The Rosicrucian Fellowship (RCC)](#the-rosicrucian-fellowship)
+    - [Correspondence Courses](#correspondence-courses)
+    - [Zeichnung des Rosenkreuzes.](#symbolism-of-the-rose-cross)
+- [Topical Index]()
+  - [Die Morgen- und Abendübungen des Rosenkreuzerschülers](#addendum-a)
+  - [Über den Ursprung der Fellowship-Lehren]()
+  - [Addendum B: Footnote to Chapter III](#addendum-b)
+  - [Addendum C: Footnote to Chapter XIII (Regarding Race)](#addendum-c)
+  - [Addendum D: Footnote to "Our Buildings"](#addendum-d)
 
-Diese Studienausgabe ist nicht im Handel erhältlich.
+### <h3 id="creed-or-christ">Credo oder Christus</h3>
 
-### Credo oder Christus
+```
+Kein Mensch liebt Gott, der seinesgleichen haßt,  
+Der seiner Brüder Herz und Seele tritt.  
+Wer ihren Geist in Höllenfesseln faßt,  
+Naht sich der Menschheit Ziel mit keinem Schritt.  
 
-    Kein Mensch liebt Gott, der seinesgleichen haßt,  
-    Der seiner Brüder Herz und Seele tritt.  
-    Wer ihren Geist in Höllenfesseln faßt,  
-    Naht sich der Menschheit Ziel mit keinem Schritt.  
+Gott schenkte Segen jeder Religion  
+Und wies den Weg zur Wahrheit und zum Licht  
+Durch Christus, seinen eingebor'nen Sohn:  
+Um Sünde, Gram und Kampf Er Frieden flicht.  
 
-    Gott schenkte Segen jeder Religion  
-    Und wies den Weg zur Wahrheit und zum Licht  
-    Durch Christus, seinen eingebor'nen Sohn:  
-    Um Sünde, Gram und Kampf Er Frieden flicht.  
+Den Welt-Geist sandte sein erhab'nes Wort  
+Zu allen Kirchen, nicht nur einer, hin.  
+Die Flammenzung' am pfingstlich heil'gen Ort  
+Jedes Apostels frommes Haupt umschien.  
 
-    Den Welt-Geist sandte sein erhab'nes Wort  
-    Zu allen Kirchen, nicht nur einer, hin.  
-    Die Flammenzung' am pfingstlich heil'gen Ort  
-    Jedes Apostels frommes Haupt umschien.  
+Seither kämpft Mensch mit Mensch in Geiergier  
+Um Sinn und Deutung nur von leeren Namen.  
+Das Dogma, das Bekenntnis ist Brevier,  
+Und einer schickt den andern in die Flammen.  
 
-    Seither kämpft Mensch mit Mensch in Geiergier  
-    Um Sinn und Deutung nur von leeren Namen.  
-    Das Dogma, das Bekenntnis ist Brevier,  
-    Und einer schickt den andern in die Flammen.  
+Ist Christ nicht Einheit? Fand denn am Kreuz den Tod  
+Zur Welterrettung Kephas, Paulus unter Schmerzen?  
+Warum tut hier in allem Teilung not?  
+Faßt doch die Liebe Christi alle uns're Herzen!  
 
-    Ist Christ nicht Einheit? Fand denn am Kreuz den Tod  
-    Zur Welterrettung Kephas, Paulus unter Schmerzen?  
-    Warum tut hier in allem Teilung not?  
-    Faßt doch die Liebe Christi alle uns're Herzen!  
+Nicht Grenzen kennt des Heilands zarte Liebe,  
+Gezogen durch des Credos starren Wall.  
+Daß Ihm des Vaters Teil als Eigen bliebe,  
+Umschlingt Er liebevoll das Weltenall.  
 
-    Nicht Grenzen kennt des Heilands zarte Liebe,  
-    Gezogen durch des Credos starren Wall.  
-    Daß Ihm des Vaters Teil als Eigen bliebe,  
-    Umschlingt Er liebevoll das Weltenall.  
+Nehmt Ihn beim Wort und laßt durch kein Bekenntnis  
+Das Allumfassen eures Glaubens trüben.  
+Die eine Wahrheit sei euch heiligste Erkenntnis:  
+So wie euch selbst sollt ihr den Bruder lieben!  
 
-    Nehmt Ihn beim Wort und laßt durch kein Bekenntnis  
-    Das Allumfassen eures Glaubens trüben.  
-    Die eine Wahrheit sei euch heiligste Erkenntnis:  
-    So wie euch selbst sollt ihr den Bruder lieben!  
+Nur eines tut zu wissen not der Welt,  
+Nur ein Weg führt zum Himmel allezeit,  
+Ein Balsam nur zum Wohl der Menschheit fehlt:  
+Die Nächstenliebe ist's, die Menschlichkeit.  
 
-    Nur eines tut zu wissen not der Welt,  
-    Nur ein Weg führt zum Himmel allezeit,  
-    Ein Balsam nur zum Wohl der Menschheit fehlt:  
-    Die Nächstenliebe ist's, die Menschlichkeit.  
+--Max Heindel 
+```
 
-    --Max Heindel 
+### <h3 id="a-word-to-the-wise">Ein Wort an die Weisen</h3>
 
-### Ein Wort an die Weisen
+Der Begründer der christlichen Religion sprach eine okkulte Wahrheit aus, als er sagte: "Wer das Reich Gottes nicht empfängt, wie ein Kindlein, der wird nicht hineinkommen." (Mark. 10,15) Alle Okkultisten erkennen die weittragende Wichtigkeit dieser Lehre Christi an und bemühen sich, Tag für Tag danach zu "leben". 
 
-Der Begründer der christlichen Religion sprach eine okkulte Wahrheit aus, als er sagte: "Wer das Reich Gottes nicht empfängt, wie ein Kindlein, der wird nicht hineinkommen." (Mark. 10,15) Alle Okkultisten erkennen die weittragende Wichtigkeit dieser Lehre Christi an und bemühen sich, Tag für Tag danach zu "leben". Wenn der Welt eine neue Philosophie gegeben wird, so kommen verschiedene Menschen ihr auf verschiedene Weise entgegen.
+Wenn der Welt eine neue Philosophie gegeben wird, so kommen verschiedene Menschen ihr auf verschiedene Weise entgegen.
 
 Der eine greift jede neue philosophische Bemühung begierig auf, um festzustellen, wie weit sie seine eigenen Ideen stützt. Ihm ist die Philosophie an sich weniger wichtig. Ihr Hauptwert liegt für ihn in der Rechtfertigung seiner eigenen Ideen. Wenn das Werk in dieser Hinsicht seinen Erwartungen entspricht, so nimmt er es begeistert auf und hängt ihm in gedankenloser Parteinahme an, wenn nicht wird er es wahrscheinlich mit Widerwillen und Enttäuschung beiseite legen, und es wird ihm sein, als hätte der Autor ihm ein Unrecht getan.
 
-Der andere wieder nimmt sofort eine skeptische Haltung an, wenn er entdeckt, daß das Werk einiges enthält, wovon er bisher weder hörte noch las, worüber er auch nicht nachdachte. Vermutlich würde er die Anschuldigung, daß seine geistige Haltung der Gipfel der Selbstzufriedenheit und Unduldsamkeit sei, als im höchsten Grad ungerecht zurückweisen. Und doch ist es so, und eben dadurch verschließt er sich gegen Wahrheiten, die vielleicht in dem wahllos Zurückgewiesenen verborgen sind. Beide aber stehen sich selbst im Licht. "Fixe" Ideen machen sie für die Strahlen der Wahrheit unempfänglich. "Ein kleines Kind" ist in dieser Beziehung ganz das Gegenteil von dem Erwachsenen. Es ist nicht von einem überwältigenden Gefühl überlegenen Wissens durchdrungen, noch fühlt es sich verpflichtet, weise zu scheinen und seine Unwissenheit über irgend einen Gegenstand durch ein Lächeln oder eine Grimasse zu verbergen. Es ist offen unwissend, nicht gefesselt durch vorgefaßte Meinungen und daher außerordentlich gelehrig. Es nimmt alles mit dem schönen Vertrauen auf, das wir "Kinderglauben" genannt haben und in dem kein Schatten eines Zweifels liegt; in diesem Glauben behält das Kind die Lehre, bis sie bewiesen oder entkräftet wird.
+Der andere wieder nimmt sofort eine skeptische Haltung an, wenn er entdeckt, daß das Werk einiges enthält, wovon er bisher weder hörte noch las, worüber er auch nicht nachdachte. Vermutlich würde er die Anschuldigung, daß seine geistige Haltung der Gipfel der Selbstzufriedenheit und Unduldsamkeit sei, als im höchsten Grad ungerecht zurückweisen. Und doch ist es so, und eben dadurch verschließt er sich gegen Wahrheiten, die vielleicht in dem wahllos Zurückgewiesenen verborgen sind. 
+
+Beide aber stehen sich selbst im Licht. "Fixe" Ideen machen sie für die Strahlen der Wahrheit unempfänglich. "Ein kleines Kind" ist in dieser Beziehung ganz das Gegenteil von dem Erwachsenen. Es ist nicht von einem überwältigenden Gefühl überlegenen Wissens durchdrungen, noch fühlt es sich verpflichtet, weise zu scheinen und seine Unwissenheit über irgend einen Gegenstand durch ein Lächeln oder eine Grimasse zu verbergen. Es ist offen unwissend, nicht gefesselt durch vorgefaßte Meinungen und daher außerordentlich gelehrig. Es nimmt alles mit dem schönen Vertrauen auf, das wir "Kinderglauben" genannt haben und in dem kein Schatten eines Zweifels liegt; in diesem Glauben behält das Kind die Lehre, bis sie bewiesen oder entkräftet wird.
 
 In allen okkulten Schulen lernt der Schüler als erstes, wenn er eine neue Lehre erhält, alle Vorurteile zu vergessen. Er lernt, weder der Vorliebe noch dem Vorurteil die Herrschaft zu überlassen, sondern den Intellekt (mind) in einer ruhigen, würdevollen Erwartung zu halten. So wie uns die Skepsis höchst wirksam gegen die Wahrheit blind macht, so ermöglicht es diese ruhige, vertrauensvolle Haltung des Intellekts der Intuition oder der "Belehrung von innen", sich von der Wahrheit zu überzeugen. Das ist der einzige Weg zur Pflege einer vollkommen sicheren Wahrnehmung der Wahrheit.
 
