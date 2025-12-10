@@ -1,9 +1,13 @@
+---
+title: "Memoirs about Max Heindel and the Rosicrucian Fellowship"
+language: 'en'
+original_title: "Memoirs about Max Heindel and the Rosicrucian Fellowship"
+original_language: 'en'
+author: 'Augusta Foss Heindel'
+original_source_file: 'self'
+---
 
-MEMOIRS ABOUT
-MAX HEINDEL
-AND
-THE ROSICRUCIAN
-FELLOWSHIP
+<h1 id="memoirs-about-max-heindel-and-the-rosicrucian-fellowship">Memoirs about Max Heindel and the Rosicrucian Fellowship</h1>
 
 by Augusta Foss Heindel
 
@@ -29,10 +33,7 @@ I-K MOUNT ECCLESIA CANYON AND SAN LUIS REY VALLEY
 I-L FIRST BUILDING ON MOUNT ECCLESIA
 I – M FIRST BUILDING & SNOW-COVERED SAN JACINTO MOUNTAIN
 
-Part I
-
-Max Heindel—The Rosicrucian Order
-and The Rosicrucian Fellowship
+<h2 id="part-1">Part I: Max Heindel—The Rosicrucian Order and The Rosicrucian Fellowship</h2>
 
 Friends have entreated me for a number of years to write my
 memoirs of Max Heindel and tell of the intimate associations
@@ -46,6 +47,7 @@ surroundings of my new cottage into which I have at last become
 settled are so pleasant, and the vibrations so harmonious and
 pure, that thoughts flow freely and it is now possible to express
 these thoughts on paper.
+
 I shall in this writing go back to the very beginning of my
 associations with Max Heindel. Although this will bring my
 personality into the picture, it cannot be avoided, for the two
@@ -53,6 +55,7 @@ egos which have been known as Max Heindel and Augusta Foss
 Heindel are so closely linked together that to endeavor to do
 justice to the activities of one and leave the other out would be
 impossible.
+
 It was in the fall of the year 1901 while acting as usher at a
 lecture delivered in Blanchard Hall, Los Angeles, California, by
 C.W. Leadbeater, the late theosophical leader, that the writer
@@ -62,13 +65,16 @@ theosophical rooms, this same pleasant man came into the room
 and requested the loan of a book written by the man whose
 lecture he had heard the day before. After a short visit with him,
 it was found that he was a neighbor of the
-2 MEMOIRS
+
+??? MISSING TEXT???
+
 him, it was found that he was a neighbor of the writer and
 naturally he was invited to visit her elderly mother and herself.
 This visit was followed by others and ended in a beautiful
 friendship and cooperative studies. Max Heindel and Mother
 became fast friends and he spent many hours talking with her
 about the old philosophers, for Mother was a great reader.
+
 Max Heindel became a member of the Los Angeles
 Theosophical Lodge, and was one of the most enthusiastic
 admirers of Madame Blavatsky and her Secret Doctrine,
@@ -83,6 +89,7 @@ for previous to that time the members of the Lodge were averse
 to astrology and Miss Foss alone was interested. In a short time,
 Max Heindel became very proficient; his keen mind grasped the
 mathematical side of this science very quickly.
+
 In the summer of 1905 he was taken seriously ill, and for a
 number of months was at death's door with leakage of the heart.
 After this illness he withdrew from the Theosophical Lodge, and
@@ -91,15 +98,16 @@ reached San Francisco on the morning of the 17th of April but
 could not content himself; something urged him to leave at once
 for Seattle, and he did so. On the 18th of April, 1906, San
 Francisco was visited with a devastating earthquake and fire.
+
 Upon reaching Seattle he began to teach classes in astrology,
 rebirth, etc., but his health again broke. The poor heart would
 not function. He again spent some time in the hospital, but an
-3 THE ROSICRUCIAN FELLOWSHIP
 indomitable will would at all times save him from becoming a
 chronic invalid. Against his physician's will he again started his
 work of lecturing and teaching. He taught classes in Portland,
 Oregon; Seattle and Yakima, Washington; and Duluth,
 Minnesota, in which he was very successful.
+
 About this time a friend who was traveling in Germany had
 contacted Dr. Rudolph Steiner and became greatly enamored of
 the Doctor's teachings. In her letters she urged Max Heindel to
@@ -110,6 +118,7 @@ persistent that she came back to America to persuade him in
 person to accompany her back to Germany to meet this teacher.
 Her offer to pay his round-trip fare at last persuaded Heindel to
 give up his classes and leave for Germany.
+
 This journey was taken in the fall of 1907. After he had
 attended some of Dr. Steiner's classes and lectures, he became
 disheartened and restless, for what was being taught he already
@@ -120,17 +129,18 @@ dejected and discouraged, feeling that he had given up a fertile
 field of work in America and come over to Europe, only to learn
 that he had not found what he expected. He forthwith made
 preparation to return to America.
+
 At this time the Teacher, an Elder Brother of the Rosicrucian
 Order, one of the Hierophants of the Mysteries, came to him and
 offered to impart to him the teachings which he desired,
 provided that he kept them secret. Max Heindel had for years
 searched and prayed that he might find something wherewith to
 appease the soul hunger of the world. Having suffered and
-4 MEMOIRS
 known the longings of his own heart, he could not give the
 promise to the Elder Brother, and refused to accept anything that
 he could not be permitted to pass on to his soul-hungry brothers.
 The Teacher left him.
+
 Can one imagine the feeling that would naturally come over
 a starving man, denied food for some time, to be offered a piece
 of bread, but before he could taste it have it snatched away? His
@@ -139,6 +149,7 @@ with Max Heindel. His disappointment, in going that long
 distance to meet one who, he had been given to understand by
 his friend, had much new occult knowledge to give him, and
 finding that she had been mistaken, was intense.
+
 He sat for hours as one stunned after the Teacher left him. In
 his disappointment at having to return to America and start
 where he left off, feeling that he had wasted time and money in
@@ -157,13 +168,14 @@ for a number of years as the most fit candidate should the first
 one fail. In addition, he was told that the teachings must be given
 out to the public before the close of the first dec-ade of the
 century, which would be the end of December, 1910.
-5 THE ROSICRUCIAN FELLOWSHIP
+
 At this last interview with the Teacher he was given
 instructions as to how to reach the Temple of the Rose Cross. At
 this Temple, Max Heindel spent a little over one month in direct
 communication with and under the personal instructions of the
 Elder Brothers, who imparted to him the greater part of the
 teachings contained in The Rosicrucian Cosmo-Conception.
+
 It had been his dream to become affiliated and to work with
 a humanitarian order, but he had never aspired to leadership. But
 if we believe in the language of the planets and look at Mr.
@@ -172,10 +184,12 @@ on the Ascendant with the Sun, Moon, Mercury, and the Part of
 Fortune all positioned in the first house, we find the born leader,
 one who cannot remain a follower, for his mentality and his
 personality would bring him to prominence.
+
+<img alt="Max Heindel's Natal Chart" src="assets/max-heindels-natal-chart.png">
+
 Max Heindel by nature was not domineering; nor was he one
 who would push himself ahead of others, but he was always
 regarded as one who knew, and as one to be trusted. Naturally,
-6 MEMOIRS
 such an one is ever pressed into positions of responsibility and
 authority. The Sun and Moon conjoined to the Ascendant forced
 this native to the front. Also Max Heindel had a well-aspected
@@ -185,6 +199,7 @@ promotions. Especially does Venus indicate women friends; we
 may see an example in this friend who insisted on helping him
 to reach Germany, there most unexpectedly to contact the Elder
 Brothers of the Rosicrucian Order.
+
 Max Heindel's greatest handicap was a bruised and injured
 physical body. At the age of eight years he suffered an accident
 to the left leg, which was caused during a period of play with a
@@ -200,6 +215,7 @@ foot; all night he still suffered pain but feared to tell his mother,
 because the day before when this happened, the boys were
 playing truant. In school the next day he fainted and it was
 necessary to cut his shoe away from the swollen foot.
+
 Then followed sixteen months in a hospital in Copenhagen.
 Three holes were bored through the bone of the leg below the
 knee, also a number of blood vessels removed, making normal
@@ -207,7 +223,6 @@ circulation impossible. Therefore when he reached middle age,
 after living a life of great activity and hard work, the heart could
 not stand up under the strain and a leaking valve was the result.
 Of course he suffered intensely, and every few months the body
-7 THE ROSICRUCIAN FELLOWSHIP
 would rebel and compel him to go to bed. Hence, much of his
 time, after he had gone through the strenuous lecture tours and
 classwork of the Fellowship, he was in bed, propped up on
@@ -215,6 +230,7 @@ pillows, where, with writing paper on a piece of cardboard, with
 his fountain pen he would write the monthly letters and lessons,
 which were so anxiously looked forward to by the many students
 and probationers all over the world.
+
 When he reached the Temple of the Rosicrucian
 Brotherhood, as directed, he was strangely surprised, for in his
 mind's eye he had pictured this headquarters as a massive and
@@ -228,6 +244,7 @@ Heindel, have ever pictured it as a grand and noble Temple. And
 so he found it, when his eyes were opened to perceive the
 spiritual Temple interpenetrating and enveloping the physical
 structure.
+
 There, as already stated, they imparted to him the teachings
 of that wonderful book, The Rosicrucian Cosmo-Conception,
 which was to be the textbook of the association which the
@@ -235,11 +252,11 @@ Brothers told Max Heindel he was expected to form—The
 Rosicrucian Fellowship. They also told him that the 350 or more
 pages of this manuscript would be enlarged and rewritten after
 he reached the electrical atmosphere of America.
+
 Max Heindel doubted this, for he was so elated over what he
 had received from the Brothers that he could not imagine
 rewriting it, but such was the case. He reached New York, with
 very little money but in high spirits, and rented a small hall
-8 MEMOIRS
 bedroom on the upper floor of a tenement house. Here he sat
 through the hot summer days, from early morning till late at
 night, not even taking time for proper nourishment to keep him
@@ -247,6 +264,7 @@ in health. He bought a box of shredded wheat biscuits and had
 the milkman leave a bottle of milk at his door; this constituted
 his day's rations until late in the evening when he would take a
 walk and eat his only square meal.
+
 After a few weeks of the intense heat he left New York for
 Buffalo, where he attempted to give his lectures in order to help
 with his expenses, for his money was becoming low. In this city
@@ -257,6 +275,7 @@ his book. He delivered his first lecture in that city on the evening
 of November 14, 1908. An artist, Mrs. Mary Rath Merrill, and
 her daughter, kindly offered to draw the diagrams needed to
 explain certain topics which he had written.
+
 It was in Columbus, Ohio that Max Heindel bought a second-
 hand mimeograph machine and started to mimeograph the
 twenty Rosicrucian Christianity Lectures. He spent hours,
@@ -271,7 +290,7 @@ enough to supply him with his simple food and pay rent for a
 cheap room. Finally he saved enough money to pay his railroad
 fare, so he had to take the day coach, for he could not afford the
 extra cost of a berth.
-9 THE ROSICRUCIAN FELLOWSHIP
+
 He had a very dear friend in Portland, Mrs. Mildred Kyle, to
 whom he had been sending the manuscript of the book he was
 writing. She was exultant over this wonderful work and started
@@ -283,6 +302,7 @@ promised Max Heindel that when he had finished all of this
 manuscript she would interest ten women friends who would
 donate one hundred dollars towards the printing of this valuable
 work.
+
 Another friend of Max Heindel was William Patterson of
 Seattle. When he read the manuscript his first thought was that
 what was contained in it was too advanced for the world at that
@@ -292,6 +312,7 @@ people, he at once offered to pay for the printing and also to take
 Max Heindel with him to Chicago. This was done, and there
 these two men spent some time while M. A. Donohue & Co.
 printed the two thousand copies of the first edition.
+
 Before the copy for this book could be given to the printers,
 however, it was necessary that Max Heindel retype the entire
 manuscript, for pencils of four different colors had been used by
@@ -302,9 +323,9 @@ entire manuscript of 536 pages of this wonderful book. Indices
 and some other material were added later. The Word List and
 Topical Study Index were written by him to aid readers in
 systematic study of each topic. The second as well as the first
-10 MEMOIRS
 copy of the massive manuscript was done by Max Heindel on a
-little antiquated Blickensderfer typewriter.
+little antiquated <a href="assets/blickensderfer_typewriter.jpg">Blickensderfer</a> typewriter.
+
 In order to have a central distribution station, when the first
 edition of two thousand copies of the Cosmo-Conception were
 completed in November, 1909, they were stored with a woman
@@ -319,6 +340,7 @@ The unhappy awakening came to Max Heindel when, after about
 six months, he found that the entire first edition was exhausted,
 although he himself had received only about five hundred copies
 all told.
+
 Unfortunately, the truth as finally learned was that this
 woman with whom he had stored his five hundred copies was
 indebted to every publisher who trusted her with books. When
@@ -328,18 +350,19 @@ Conception books, and this soon exhausted the first edition.
 Then when Max Heindel desired to fill his orders in the
 northwestern part of America from Chicago, she was unable to
 fill the orders.
+
 It was now necessary to place a rush order for another
 printing, and to finance this was a real problem. The writer was
 able to supply a small sum to help to meet the first payments on
 this second edition. This loss, which at the beginning seemed a
 calamity, turned out to be a blessing in disguise, for the publisher
 who accepted these books as payments for a debt became
-11 THE ROSICRUCIAN FELLOWSHIP
 interested in selling them. This was the means of opening a
 wonderful field and getting the books before the public in a
 much more rapid manner than Max Heindel through his lectures
 and his small membership could have done, so it was an ill wind
 which turned into a blessing.
+
 After Max Heindel had finished his part of the work with the
 publisher in Chicago, he gave a course of lectures and classes in
 Seattle and North Yakima, Washington, and in Portland,
@@ -349,6 +372,7 @@ Scientific Astrology (1910) which was a forty-page paper
 pamphlet. But his heart was longing to turn back to the southern
 part of California where he had made his first contact with
 occultism.
+
 In Los Angeles he had made many good friends during the
 three years in which he had worked in Theosophy, and the one
 close friend and companion in his studies was his most cherished
@@ -359,6 +383,7 @@ learned to love as his own mother. He had been away from these
 friends for two years, had not corresponded with them, nor were
 they even aware of the wonderful contacts he had made and the
 literary work he had done.
+
 Augusta Foss had, during these two years, also been through
 many hard trials; one, a very severe illness of double pneumonia,
 had taken her to the very jaws of death and left her in a weakened
@@ -366,9 +391,9 @@ condition with affected lungs. She had dropped her affiliation
 with the Theosophical Society as she was unable to be out in the
 night air. However, when her friend Max Heindel made the
 statement that he intended to give a course of lectures in Los
-12 MEMOIRS
 Angeles, she defied the wishes of her mother and offered to help
 Max Heindel with these lectures.
+
 Now began a very busy period of writing as well as lecturing.
 Max Heindel lectured to packed houses, holding 800 or more,
 three nights each week, and the other nights he formed classes
@@ -379,6 +404,7 @@ Center and teachers were prepared to carry on the work when
 Max Heindel should leave, for he had promised the friends in
 Seattle and Portland that he would return to them as soon as his
 work was finished in Los Angeles.
+
 In order to save the high cost of advertising and to get as
 much publicity as possible, Max Heindel would order hundreds
 of cardboard signs, eight inches by ten, and have printed on them
@@ -392,13 +418,14 @@ lecture, friends would bring friends until the hall would not hold
 them, so he began to issue tickets, handing them out to each one
 as he entered the door. These tickets would then admit them to
 the next lecture and assure them a seat.
+
 I cannot resist sharing with my readers what I observed of
 the marvelous change in this man after he had contacted the
 Elder Brothers of the Rose Cross, during the two years he spent
 away from Los Angeles.
+
 I had been a student of astrology about four years when I
 converted Max Heindel to belief in this ancient science; and one
-13 THE ROSICRUCIAN FELLOWSHIP
 day when he was spending the afternoon at my home, he asked
 if his horoscope indicated that he would make a lecturer. At this
 early date he spoke with a decided Danish accent, and I felt that
@@ -413,6 +440,7 @@ evening, after a lecture during which he had replied to very
 difficult questions, where he had obtained all the knowledge he
 displayed in the lectures? He smiled and said: "Well, I just
 answer what my higher self dictates."
+
 There is an old saying, "Man proposes but God disposes,"
 and this was truly the case of Max Heindel's future when, on
 Wednesday evening, June 1, 1910, he gave his last class in Los
@@ -423,6 +451,7 @@ by. On this Wednesday evening he made the announcement that
 Augusta Foss would take over the astrological class; he also
 explained that she had been his own astrology teacher, and this,
 of course, held the class together.
+
 But here is where fate stepped in to hold Max Heindel in Los
 Angeles until a certain work was to be effected, which was to
 change his entire plan; for on the following morning, June 2nd,
@@ -430,13 +459,13 @@ he was taken seriously ill with leakage of the heart, so ill that the
 doctors diagnosed his case as hopeless. Three doctors stood by
 his bedside in the Angelus Hospital in Los Angeles, thinking he
 was unconscious, and discussed his case, all declaring that he
-14 MEMOIRS
 could not live through another night. Max Heindel was not
 unconscious; he heard every word spoken by the doctors, heard
 them pronounce his doom. Realizing that he had been entrusted
 by the Elder Brothers to carry their beautiful message to the
 world, and feeling the responsibility, he then and there declared
 that he would not die, that he would fool the doctors.
+
 The following day was a beautiful, sunshiny day, an ideal
 California day. His friend Augusta Foss called on him about two
 o'clock and he asked her if she would take him onto the lawn in
@@ -445,6 +474,7 @@ the shade of one of the beautiful magnolia trees before
 passersby; they stopped and stared as if they had seen a ghost.
 To see their erstwhile patient smiling and seemingly on the mend
 was truly a surprising sight.
+
 After three days Max Heindel telephoned the writer asking
 her if she would please rent him a room in the neighborhood
 where she and her mother lived; which she did. The next
@@ -455,6 +485,7 @@ Foss home to have lunch with his friends. He surprised them by
 making the announcement that he was going to write another
 book; that he had collected many questions and answers into
 book form, which would then explain many problems of life.
+
 His intention was to hire a stenographer and dictate this book
 to her in the Los Angeles Rosicrucian Fellowship rooms, but
 when he arrived in the rooms the people were so elated over his
@@ -462,13 +493,13 @@ coming that he could find no privacy. The result was that this
 book was dictated in the home of Miss Foss. As the room where
 he worked was close to the street, with his clear voice he often
 attracted a crowd on the front sidewalk. Passersby were amazed
-15 THE ROSICRUCIAN FELLOWSHIP
 to see a man talking and walking the floor with a paper in his
 hand, which contained a question written by someone who had
 attended one of his lectures. He answered these questions
 offhand without a moment's hesitancy. The writer's elderly
 mother, who was one of his most ardent listeners, said that in all
 her years she had never met a man with such a mentality.
+
 This book, The Rosicrucian Philosophy in Questions and
 Answers, published in 1910, is truly a mine of information. It
 unlocks the Bible as no other book can. Max Heindel worked on
@@ -483,6 +514,7 @@ considered; and so arose the idea of marriage between these two
 friends and students, who had shared their knowledge and
 spiritual interests for over nine years, to form a permanent
 spiritual tie.
+
 I feared to leave my eighty-four-year-old mother who had
 already suffered a slight stroke, so the marriage was secretly
 performed August 10, 1910, in Santa Ana, California, in the
@@ -491,10 +523,10 @@ daughter who had been her companion and who had had the care
 of her for many years. Max Heindel left for Seattle, Washington,
 the day after the ceremony, but Mrs. Heindel remained in Los
 Angeles to fulfill her mission to her aged mother.
+
 The writer, after bidding her husband goodbye at the
 steamer, boarded a car to return to Los Angeles. In thought she
 began to realize what she had entered into; she had become the
-16 MEMOIRS
 wife of a public figure whose work would also become her work,
 and so she stopped off at a typewriter agency and ordered a
 typewriter sent to her home, a second-hand rented Underwood.
@@ -507,6 +539,7 @@ So she just wrote the letter anyway, for she would not let any
 machine interfere with this very special letter—the first to her
 new husband, to whom she told her trouble with the machine
 minus the capital letters.
+
 What a joke! His reply reached her by special delivery the
 next day, for her letter greeted him as he left the steamer. What
 a laugh he had on her, but his instructions told her how to find
@@ -514,6 +547,7 @@ those dreadful CAPITAL LETTERS. These efforts at typing
 proved to be a godsend, for when Max Heindel returned from
 the north so very ill, his helper could carry on the
 correspondence and the work could continue in spite of illness.
+
 Max Heindel had not consulted the Teacher regarding the
 marriage, and later when he reached his stateroom in the steamer
 which was taking him north, he wondered if there might be any
@@ -525,7 +559,7 @@ spiritually, and a safeguard to his health on account of the
 protection which this soul would bring to him. Mrs. Augusta
 Foss Heindel was from that time the southern representative of
 The Rosicrucian Fellowship.
-17 THE ROSICRUCIAN FELLOWSHIP
+
 Max Heindel's intentions were to travel to the northern
 country and thence work east over the northern route, but here
 fate was again the master. After lecturing in Seattle and North
@@ -538,6 +572,7 @@ placed her mother in the care of a sister, for Mother was greatly
 concerned and willing to share her daughter with the sick but
 wonderful son-in-law; for she had learned to love Max Heindel
 as a son.
+
 This tiny little three-room cabin was remodeled and made
 ready for the homecoming—fortunately, for as Max Heindel
 stepped across the threshold into the room he swooned, ill unto
@@ -545,10 +580,12 @@ death. Then for three months Mrs. Heindel was up with him day
 and night. He had paid the price exacted of every public
 character. The Public, through its admiration of the truly great,
 will draw on them and in time often kill.
+
 This time the public could find him by way of a Post Office
 Box only, and these two souls were then really free to enjoy their
 companionship. This was a strange but sweet honeymoon, for
 their interests were bound up in one great work.
+
 Even with the illness of Max Heindel they did not allow the
 work to stop, for while in Seattle he had bought a small Writer
 Press, a printing press which would reproduce the typewritten
@@ -557,7 +594,6 @@ set and locked up as any printing press requires. When the press
 was received it was set up by the man who delivered it from the
 express company. Next Augusta received her instruction as to
 how to run it by sitting at the bedside of her sick husband. Being
-18 MEMOIRS
 naturally mechanical, she was an apt pupil but her greatest
 problem was to set type, which must be done reversely so that
 the impression on the paper would be readable. Well, Augusta
@@ -567,6 +603,7 @@ in typesetting. Then she must be instructed how to lock the type
 in the chase, take it into the little kitchen and place it in the press;
 adjustments must be made on the ribbon; this press was
 antiquated enough to require the use of ribbons.
+
 Now we are ready: and what a mess! At the first attempt to
 slide the lever over the locked-up chase, the type not being
 locked tightly enough, the first pressure on the top of machine
@@ -576,6 +613,7 @@ students who received these first lessons sent out in November,
 than on the other; the writer has some of them still in her
 possession and can call to mind this first most trying attempt to
 send out these beautiful teachings.
+
 Before Max Heindel left Seattle for the south, the secretary
 of the Seattle Center, A. E. Partridge, had sent out the following
 letter to the friends in Columbus, Ohio; Seattle and Yakima,
@@ -584,13 +622,17 @@ Angeles, California, and all others on Max Heindel's
 correspondence list, announcing that Max Heindel would start a
 correspondence course and open permanent headquarters in
 Ocean Park, California, under Post Office Box 866.
-Letter to Members 20-A November 1910
+
+```
+Letter to Members 20-A - November 1910
+
 Dear Friend:
+
 We are about to start an important extension of the activities of the Rosicrucian
 Fellowship. It will be an effort to meet a want, long felt by many of our students,
-19 THE ROSICRUCIAN FELLOWSHIP
 particularly by those who are isolated and not connected with any of our Study
 Centers.
+
 We have published a remarkably complete literature during the last year, a
 literature that has been grasped with such avidity that we are already preparing a
 third edition of the Rosicrucian Cosmo-Conception. Nevertheless, or perhaps just
@@ -601,8 +643,10 @@ response in his heart, and a plan has been formulated to meet the demand. Mr.
 Heindel will largely curtail his activity in the lecture field and devote most of his
 time to correspondence with those who are studying the Rosicrucian teachings and
 trying to live the life.
+
 In order that he may direct their efforts most effectually, the letters will
 probably be graded differently to "Students," "Probationers" and "Disciples."
+
 The interest which you have already manifested has led us to believe that
 perhaps you may be anxious to take advantage of this opportunity to have your
 name placed upon Mr. Heindel's correspondence list. If we are correct, and you are
@@ -610,7 +654,10 @@ really anxious, please fill out the enclosed blank and mail to General Secretary
 1802, Seattle, Wash. You will then receive the first letter in due season and others
 will follow from time to time. Several letters may sometimes be issued in a month
 and at times more than a month may intervene between.
+
 The Rosicrucian Fellowship
+```
+
 The response was good from both students and probationers:
 they were ready for the lessons. But can the reader pause for a
 moment to realize what this would mean to one lone woman with
@@ -619,7 +666,6 @@ sweep the rooms, set the type, run the press, and then address all
 the envelopes for both these classes of corresponding members,
 and also answer numbers of letters which were coming in from
 students (who appealed to Max Heindel for help in solving their
-20 MEMOIRS
 problems); and lastly, carry the mail to and from the Post Office,
 six blocks away? Well, the writer would retire at night with head,
 arms, and feet aching so badly that she tossed most of the night
@@ -627,6 +673,7 @@ when not up and ministering to this suffering but determined
 man. He had so much to give despite being disabled physically,
 but never a word of complaint; his only grief was that the woman
 he loved must carry so many burdens.
+
 In this way the infant headquarters came into existence, in
 November, 1910—a headquarters which was to feed the soul-
 hungry in all lands, in all climes, and in all languages. Little did
@@ -634,6 +681,7 @@ these two heavily burdened souls realize then what would be the
 results of their labors of love and devotion as they toiled to bring
 into being a wonderful infant, The Rosicrucian Fellow-ship,
 which Max Heindel often called their spiritual child.
+
 A doctor who was called in at this time to examine Max
 Heindel told the writer that he could not live to the end of another
 year, but she would not accept this discouraging report. She felt
@@ -647,11 +695,11 @@ be imparted to him. He had already, through previous illnesses,
 received two Initiations, and she had the faith that the Brothers
 would again restore him to health as soon as his response to their
 higher teachings had been accomplished.
+
 For about three months he suffered under this weakened
 heart, but gradually there came days when he could don a
 dressing gown and sit up to do his writing. But he could not
 content himself unless he was doing something constructive, so
-21 THE ROSICRUCIAN FELLOWSHIP
 as he gained strength he was again planning to write his fifth
 book. He advertised for a stenographer who came each day to
 take his dictation, and The Rosicrucian Mysteries, an element-
@@ -668,8 +716,10 @@ when the work was so pressing. The dictating of this book did
 not take very long and Max Heindel was ever the happiest when
 he could be at work with manuscript or lessons which would
 carry the work to the world.
+
 After about three months his health improved so that he
 could again be actively about his Father's business.
+
 Hereafter Mr. and Mrs. Heindel had been free from all
 visitors, but a very cherished old friend of Max Heindel's,
 William Patterson, of Seattle, Washington, the man who assisted
@@ -682,9 +732,9 @@ a piece of land of forty acres was found through an agency. This
 land was on a hillside in Westwood, a fashionable district and
 adjoining what is today the noted moving-picture town of
 Hollywood. Mr. Patterson was to retain thirty acres and donate
-22 MEMOIRS
 ten for the Headquarters; the rest he intended to sell to members
 for their homes.
+
 Somehow this was not the right location, for after the first
 hundred dollars had been paid down, it was necessary for three
 absent heirs of this estate to sign. In the meantime the story had
@@ -696,12 +746,14 @@ then refused to sign the deed. Hollywood was at that time but a
 small suburb of Los Angeles and we have often wondered if the
 Brothers were not aware of the lively future of this small village
 which has now grown into the world's film capital.
+
 The search for a headquarters was resumed, and it was
 decided to slip into the next town unknown to the citizens and
 procure the land incognito. The writer, in passing through the
 town of Oceanside a number of years before, had been impressed
 by its beautiful trees and surroundings; and now this picture
 returned to her mind and was the means of leading them there.
+
 Proof of the strange destiny surrounding the work which
 these two souls were to accomplish, and in the very city and tract
 of land awaiting this work, is shown by the manner in which they
@@ -713,21 +765,25 @@ for land in both these towns. No stopover at Capistrano was
 allowed by the railroad, but one for Oceanside was procured. It
 was on a Sunday morning they stepped off the train, and not a
 soul but the trainmen in sight. Soon they were met by a small
-23 THE ROSICRUCIAN FELLOWSHIP
 freckled-faced boy named Tommy Draper about ten years of
 age.
+
 "Hello, what d'ye want?" was the smiling greeting.
+
 Max Heindel had a weakness for children and he answered
 this small urchin by telling him that he wanted to buy some land;
 could he sell us some?
+
 "Well," the surprising answer was a finger pointing to a grey-
 haired man coming across the vacant lot, "there comes the man
 who can sell you some."
+
 The outcome was that Mr. Chauncey Hayes, who was the
 only real estate agent in the little burg, when told what we
 wanted, waved his hand to a man standing at the door of a livery
 stable a short distance away and as the man approached, Mr.
 Hayes directed Mr. Couts to take us to the "reservoir land."
+
 In a short time this man appeared with two lively horses
 hitched to a two-seated surrey, and in about twenty minutes we
 arrived at the edge of a hill—and the view over the San Luis Rey
@@ -735,6 +791,7 @@ Valley was wonderful! But where we stood was on a barren field
 of forty acres; not a green sprig anywhere, but the tops of two
 unsightly reservoirs were to be seen off to the northwest. They
 were the source from which Oceanside received its water.
+
 These reservoirs were situated on the forty acres upon which
 the Heindel's and their agent were standing, but in spite of this,
 and of the barrenness of the surrounding land, we viewed a
@@ -745,9 +802,9 @@ Mr. Heindel at once remarked, "OH, THIS IS THE PLACE!"
 Thus this barren bean field which had been in the hands of the
 Oceanside Bank for twenty-five years, had awaited its destiny:
 to become the world headquarters of The Rosicrucian
-24 MEMOIRS
 Fellowship; a place of beauty to which one will come for the
 healing of the body as well as the soul.
+
 After the travelers had concluded to buy forty acres, it was
 decided to spend the night in San Diego, but Max Heindel was
 so enthused with his find that he wanted to seek out one of the
@@ -756,6 +813,7 @@ quite a time persuading him to leave this for the following
 Monday morning, for he feared that someone would suddenly
 appear who might buy this land which had been listed for sale
 by the Oceanside Bank for twenty-five years without a buyer.
+
 In 1886 California had a great boom, which is today called
 the Paper Boom. The reason is that much real estate exchanged
 hands "on paper" but never in reality, because the boom
@@ -769,19 +827,21 @@ was at a standstill. The writer at once observed the safety of our
 choice and realized that no one would think of buying in this
 forsaken, dry country town where there was no market for the
 sale of anything which might be produced on the land.
+
 We took the afternoon train to San Diego and the writer
 persuaded Max Heindel to go to a picture show to fill in the
 evening. During the show Max Heindel would whisper, "I
 wonder if that land will still be sold," or "If we had only placed
 a deposit on this land so we would be sure of it."
+
 On Monday morning the wayfarers took the first train to
 Oceanside and paid their $100 on the land to hold it till the order
 for the papers could be drawn up. This was done because Max
 Heindel had promised his friend William Patterson that he
-25 THE ROSICRUCIAN FELLOWSHIP
 should help with the actual buying; which was consummated on
 May 3, 1911, at 3:30 P.M., when William Patterson paid the first
 thousand dollars and ordered the papers to be signed.
+
 In September 1911, Mr. Heindel and I took a tour up the
 western coast and Mr. Heindel lectured in San Francisco and
 Sacramento, California; Portland, Oregon; Seattle and North
@@ -793,6 +853,7 @@ of the first edition of the Cosmo-Conception had again come
 forward and paid the first thousand dollars on the forty acres.
 The rest of the payment of four thousand dollars was to be paid
 in yearly installments.
+
 The money for the forthcoming buildings was not in sight. It
 was at first thought that it might take some years before building
 could be started from the slender contributions, but a work such
@@ -804,6 +865,7 @@ opportunity was presented: the little bungalow in which the
 headquarters was conducted had belonged to Mrs. Heindel for a
 number of years, which with another small one in the rear of the
 lot had been a very lucrative source of income to her.
+
 One day while Max Heindel was in Los Angeles eighteen
 miles distant from Ocean Park, the writer had several callers,
 two women and a man who had taken a fancy to the little cottage
@@ -811,7 +873,6 @@ and desired to purchase it. At first she was loath to sell, not
 knowing where the many books and manuscripts could be stored
 which had accumulated in the eleven months since they had
 started in this home; also, she did not want to accept the offer
-26 MEMOIRS
 unless Max Heindel could be consulted. The price which they
 offered was so tempting and so far above her valuation of the
 property that she asked these buyers to let her think it over until
@@ -821,6 +882,7 @@ opportunity to sell and what was the offer?" When he heard of
 the enticing price he at once spoke up, "Why, dear, this is the
 very opportunity we have been waiting for. It will give us the
 wherewithal to build at Oceanside."
+
 The sale was consummated and the buyers paid the sum of
 two thousand dollars in cash and gave a mortgage for the rest,
 but we must give the new owners possession within ten days.
@@ -830,21 +892,23 @@ once began to pack and get ready to move to Oceanside. Mr.
 Heindel must in the meantime take a journey to Oceanside and
 rent a house where we could live during the time that a building
 was being erected.
+
 On the morning of October 27, 1911, we were all ready to
 move; the two women were sent by train to Oceanside while Mr.
 and Mrs. Heindel were to drive in a small two-seater Franklin
 automobile which Max Heindel bought rebuilt for the small sum
 of $300, taken from the money received from the sale of the
 property.
+
 The back of the car was filled to overflowing with
 typewriters and suitcases and at the early hour of five A.M., Mr.
 and Mrs. Heindel were ready to start.
+
 On arriving at Whittier, which is about thirty miles from
 Ocean Park, a terrific thunderstorm overtook them. The car was
 an open one but the two travelers were fortunate enough to drive
 under a large-leafed palm tree for shelter. After this storm abated
 they again started. The time was close to noon, and they were
-27 THE ROSICRUCIAN FELLOWSHIP
 horrified to find the road between Whittier and Fullerton had
 been freshly plowed and no detour. They were compelled to
 drive with their heavily loaded car over this fresh ground which
@@ -852,12 +916,14 @@ had now been soaked by the rainstorm. They drove a few miles
 with great difficulty when all of a sudden Bedalia (which was
 the name Max Heindel had given the car) refused to go, she
 absolutely balked, and no starting her.
+
 The result was that Mrs. Heindel walked about a mile up the
 road to the first farmhouse and hired the farmer with his machine
 to tow them to Fullerton. They must get to Oceanside that day,
 for notices had been sent out and the turning of the ground for
 the Headquarters was scheduled for the following day at 12:40
 P.M.
+
 What were they to do if they could not catch the next train
 which passed through Fullerton at 2:45 P.M.? Well, the little car
 was attached to the farmer's larger automobile and the two
@@ -869,15 +935,16 @@ seated in the train, Max Heindel in his wonderful hopeful way
 pointed out the window to the most gorgeous double rainbow.
 "Look," he said, "what our future will bring us in spite of these
 troubles."
+
 They reached Oceanside after dark and were ushered into a
 small cottage of four rooms very simply furnished with cots, and
 the floors covered with matting. The rooms had not been
 occupied for some time and naturally the fleas and mice were in
 possession.
+
 The next day was the banner day for the Fellowship. The
 train arrived at twelve noon and brought four of our loyal
 members: Mr. William Patterson of Seattle, Washington;
-28 MEMOIRS
 George Cramer of Pittsburgh, Pennsylvania; John Adams and
 Rudolph Miller, active members of the Los Angeles Fellowship
 Center; and Mrs. Anne R. Attwood from San Diego. These five
@@ -890,6 +957,7 @@ in carriages to perform what was later to be recognized as a most
 vital ceremony—to turn the first spadeful of earth, erect a cross
 and plant a rose bush on the spot which was to become the
 central focusing point of a great work.
+
 A World Headquarters was started which was to grow and
 expand over the entire world; Mount Ecclesia came to life in a
 dusty and barren bean field where neither a tree nor a green sprig
@@ -899,6 +967,7 @@ first ground was to be turned. The following address was
 delivered by Max Heindel to the nine present in the physical
 body and the three Elder Brothers who were present in their vital
 bodies.
+
 "The Christ said, ‘Where two or three are gathered together in my
 name, there will I be among them’; and as always when He spoke this
 utterance was an expression of the most profound divine wisdom. It rests
@@ -909,12 +978,13 @@ and is instantly projected towards its goal. Its further effects depend upon
 the affinity between the thought and whosoever is to receive it, as to
 generate a vibratory response to a note sounded by a tuning fork requires
 another fork of identical pitch.
+
 "If thoughts and prayers of a low, selfish nature are projected, only
 low and selfish creatures respond. That kind of prayer can never reach the
-29 THE ROSICRUCIAN FELLOWSHIP
 Christ any more than water can run up a hill. It gravitates toward demons
 and elementals, which remain totally unresponsive to the lofty aspirations
 engendered by such as congregate in the name of Christ.
+
 "As we are today gathered upon this spot to break ground for the
 Headquarters of a Christian Association, we may rest assured that as surely
 as gravity draws a stone toward the center of the earth, the fervor of our
@@ -940,6 +1010,7 @@ movement, if further proof were needed than the phenomenal spread of the
 Rosicrucian teachings, which have penetrated to every country on earth in
 the last few years and provoked assent, admiration, and love in the hearts
 of all classes and conditions of people, particularly among men.
+
 "We emphasize this as a noteworthy fact, for while all other religious
 organizations are composed largely of women, men are in the majority
 among the members of the Rosicrucian Fellowship. It is also significant
@@ -948,7 +1019,6 @@ that the ministers come next. It proves that those whose privilege it is to
 care for the ailing body are alive to the fact that spiritual causes generate
 physical weaknesses, and that they are seeking to understand so that they
 may give more efficient aid to the infirm. It demonstrates also that those
-30 MEMOIRS
 whose office it is to minister to the ailing spirit are endeavoring to meet
 inquiring minds with a reasonable explanation of the spiritual mysteries,
 thus strengthening their flagging faith and cementing their tie to the
@@ -956,6 +1026,7 @@ church, instead of responding with dictum and dogma not supported by
 reason, which would open wide the floodgates to the seething sea of
 skepticism and sweep the searcher for light away from the haven of the
 church into the darkness of materialistic despair.
+
 "It has already been the blessed privilege of the Rosicrucian
 Fellowship to rescue many a sincere seeker, anxious but unable to believe
 what seemed contrary to reason. Given reasonable explanation of the
@@ -963,6 +1034,7 @@ underlying harmony between the dogmas and doctrines propounded by the
 church and the laws of nature, such ones have been sent back into the
 church fold rejoicing in the fellowship there, stronger and better members
 than before they left.
+
 "Any movement that is to endure must possess three divine qualities:
 Wisdom, Beauty, and Strength. Science, Art, and Religion each possess
 one of these attributes in a measure. It is the purpose of The Rosicrucian
@@ -973,6 +1045,7 @@ auspicious moment for the commencement of building activities to erect a
 visible center whence the Rosicrucian teachings may radiate their
 beneficent influence to further the well-being of all who are physically,
 mentally, or morally infirm.
+
 "Therefore we now lift one shovelful of earth from the corner of the
 building site with a prayer for Wisdom to guide this great school along the
 right lines. We turn up the ground a second time with a supplication to the
@@ -982,10 +1055,10 @@ for the third and last time in connection with these exercises as we breathe
 a prayer for Strength patiently and diligently to continue the good work so
 that it may endure and become a greater factor for upliftment than any of
 its predecessors.
+
 "Having thus broken ground for the site of the first building, we will
 now proceed to plant the wonderful symbol of life and being, the
 composite emblem of the Western Mystery School. This consists of the
-31 THE ROSICRUCIAN FELLOWSHIP
 cross, representing matter, and the climbing rose that twines around its
 stem, representing the verdant evolving life climbing to greater and greater
 heights by this crucifixion. Each of us nine members will take part in
@@ -994,17 +1067,20 @@ plant it in such a position that the arms point east and west, while the
 meridian sun projects it bodily towards the north. Thus it will be directly
 in the path of the spiritual currents that vitalize the forms of the four
 kingdoms of life: mineral, plant, animal, and man.
+
 "Upon the arms and upper limb of this cross you notice three golden
 letters "C.R.C.", the initials of our august Head, Christian Rosenkreuz, or
 Christian Rose-Cross. The symbolism of this cross is partly explained here
 and there in our literature, but volumes would be required to give a full
 explanation. Let us look a little further into the meaning of this wonderful
 object lesson.
+
 "When we lived in the dense water-laden atmosphere of early
 Atlantis, we were under entirely different laws than govern us today. When
 we shed the body we felt it not, for our consciousness was focused more
 in the spiritual world than in the denser conditions of matter. Our life was
 an unbroken existence; we felt neither birth nor death.
+
 "With our emergence into the aerial conditions of Aryana, the world
 of today, our consciousness of the spirit world waned, and form became
 most prominent. Then a dual existence commenced, each phase sharply
@@ -1012,22 +1088,24 @@ differentiated from the other by the events of birth and death. One of these
 phases is a free spirit life in celestial realms; the other an imprisonment in
 a terrestrial body, which is virtually death to the spirit, as symbolized in
 the Greek myth of Castor and Pollux, the heavenly twins.
+
 "It has been elucidated in various places in our literature how the free
 spirit became enmeshed in matter through the machinations of the Lucifer
 spirits, which Christ referred to as false lights. That was in fiery Lemuria.
 Lucifer may therefore be called the Genius of Lemuria.
+
 "The full effect of his misguidance did not become fully apparent until
 the Noachian Age, comprising the periods of later Atlantis and our present
 Aryana. The rainbow, which could not have existed under previous
 atmospheric conditions, stood painted upon the cloud as a mystic scroll
 when mankind entered the Noachian Age, where the law of alternating
 cycles brings ebb and flow, summer and winter, birth and death. During
-32 MEMOIRS
 this age the spirit cannot permanently escape from the body of death
 generated by the satanic passion first inculcated by Lucifer. Its repeated
 attempts to escape to its celestial home are frustrated by the law of
 periodicity, for when it has freed itself from one body by death, it is
 brought to rebirth when the cycle has been run.
+
 "Deceit and illusion cannot be allowed to endure forever, and so the
 Redeemer appeared to cleanse the passion-filled blood, to preach the truth
 which shall set us free from this body of death, to inaugurate the
@@ -1041,6 +1119,7 @@ in summer, illustrates aptly the effect of the law of alternating cycles. The
 color of the flower, its generative organ, resembles our blood, yet the sap
 which courses within is pure, and the seed is generated in an immaculate,
 passionless manner.
+
 "When we attain to the purity of life there symbolized, we shall have
 freed ourselves from the cross of matter, and the ethereal conditions of the
 millennium will be here. It is the aim of the Rosicrucian Fellowship to
@@ -1048,6 +1127,7 @@ hasten that glad day when sorrow, pain, sin, and death shall have ceased,
 and we shall have been redeemed from the fascinating, enthralling
 illusions of matter and awakened to the supreme truth of the reality of
 Spirit. May God speed and prosper our efforts."
+
 The weather was ideal as it usually is in southern
 California, and after the services the five men and four women
 returned to the small cottage in Oceanside which was to be the
@@ -1056,7 +1136,7 @@ during the erection of the first building. Here a light lunch was
 prepared and the visitors returned to their various homes
 leaving the four tired but hopeful souls to their night's rest, and
 their battle with the fleas and mice.
-33 THE ROSICRUCIAN FELLOWSHIP
+
 The next morning, bright and early, Max Heindel rounded
 up his carpenters and had the livery man take him to the grounds,
 one and one-half miles distant, where the work of building was
@@ -1068,6 +1148,7 @@ for him in the neighborhood. So Max Heindel and Rollo Smith
 were kept busy all day long at the Headquarters' grounds while
 the three women working in the cottage were rushed to the limit
 to take care of the many letters and book orders.
+
 To add to the heavy burdens at this very particular time the
 bills of lading were forwarded from Ocean Park where the first
 edition of The Rosicrucian Mysteries, and the second edition of
@@ -1079,6 +1160,7 @@ orders had accumulated for three months; how to handle four
 thousand volumes of bound books in a four-room house
 occupied by four individuals was the problem which faced Mrs.
 Heindel.
+
 When these heavy cases of books arrived they were stored in
 a shed a block away which could be reached through an alley
 connected with the cottage. So the cases were opened by the
@@ -1087,7 +1169,7 @@ packed for mailing. After wrapping a large amount of books it
 was necessary to have them carted to the express office or post
 office in an express wagon, one of those old fashioned high-
 seated wagons with one old horse to haul same.
-34 MEMOIRS
+
 Express parcels were loaded up one day and Mrs. Heindel
 must needs go with the old man (the driver) to the express office,
 riding on this high seat. After all of these parcels were unloaded
@@ -1096,6 +1178,7 @@ never handled so many parcels before, became so disturbed and
 excited that Mrs. Heindel was forced to do his work entering the
 parcels in his Express Book for fear of the miscarriage of the
 parcels.
+
 These books were the means of exciting the Oceanside
 citizens as to the work that was to be done in their city.
 Heretofore no one had even hinted at the type of work which
@@ -1113,13 +1196,14 @@ not want strangers in our midst; it was so lovely when everybody
 knew everybody else, it made us feel like one great family." So
 this was the town in which Max and Augusta found themselves,
 unwelcome and outsiders.
+
 The three women continued to carry on the work in
 Oceanside while Max Heindel (who now had Bedalia in running
 order again) and Rollo Smith, with their lunch packed in a bag
 would wend their way to that barren bean field to engineer the
 building of a World Headquarters of an outpost of the Ancient
 Rosicrucian Brotherhood.
-35 THE ROSICRUCIAN FELLOWSHIP
+
 Max Heindel, clothed in a cheap brown corduroy suit which
 had cost him the sum of ten dollars, worked with the carpenters
 as a regular laborer. It was fortunate that at this particular time
@@ -1132,6 +1216,7 @@ hungry and tired but full of happiness. A wonderful part of Max
 Heindel's nature was that he at all times radiated happiness and
 good nature; no matter how tired he felt he could sing with his
 wonderful musical voice.
+
 In twenty-eight working days the first building was ready for
 the five workers to move in. Much of the furniture was made by
 Rollo Smith. He built tables and desks for the office and the
@@ -1141,6 +1226,7 @@ finances would permit them to buy real furniture but much of the
 old must be retained for a number of years. These five workers
 were happy that it was possible for them to move into the
 partially finished, but clean house, free from mice and fleas.
+
 The day before Thanksgiving Day (1911, the
 woodwork was yet unpainted and the windows were put
 into only the rooms where the workers slept; the rest of the
@@ -1150,9 +1236,9 @@ and on moonlight nights we would be serenaded by a pack
 of coyotes; there would at times be from fifteen to twenty
 of these animals howling at the moon. These are a small
 species of wolf of western North America; they rarely
-36 MEMOIRS
 attack humans but are very destructive to the small
 domestic animals.
+
 From now on the leaders of the Rosicrucian Fellowship must
 begin their actual [or spiritual] building, and like making the
 foundation of a building, they must dig down deeply into the
@@ -1163,6 +1249,7 @@ windows and doors were all in and some crude furniture had
 been made out of redwood lumber for the office, kitchen, and
 dining room it was necessary for him to leave. A sick wife was
 the duty which called him back to Los Angeles.
+
 One long room had been built which was to be used for the
 office, and the eastern part of the building was arranged for a
 two-room apartment with a large clothespress and linen closet
@@ -1173,6 +1260,7 @@ this large closet from two sides. At night these rooms were used
 by Mr. and Mrs. Heindel as sleeping rooms, and during the day
 they were the living room and studio where they received
 visitors and did much of their writing.
+
 A bathroom was connected with Mr. Heindel's room, with a
 door leading to it from the dining room also. But in this out-of-
 the-way country place there was neither gas nor electricity, and
@@ -1180,13 +1268,14 @@ so the water must be warmed on a gasoline stove and carried
 from the kitchen through the dining room to the bathroom each
 time that one of the residents of this newly erected Headquarters
 desired to take a bath.
+
 The central part of this long building was occupied by a
 dining room and kitchen, and the upper floor was divided into
-37 THE ROSICRUCIAN FELLOWSHIP
 five unfinished rooms each with a bed, a homemade washstand,
 and a cheap dresser. The office furniture, which had been made
 of redwood by Mr. Smith, was given a brown stain from some
 leftover stain used to cover the outside of the building.
+
 This building was occupied on the day before Thanks-giving.
 The two helpers, Mrs. Ruth Beach and Rachel Cunningham, left
 on the morning of Thanksgiving to be with their friends and
@@ -1196,11 +1285,12 @@ scarce. This was because the automobile Bedalia was again laid
 up for repairs, and the groceryman refused to deliver groceries
 so far into the country; so at times we were greatly restricted in
 our choice of food.
+
 Thanksgiving Day was spent by these two energetic people
 painting woodwork and arranging the homemade office
 furniture so that the actual work could be started on Monday
 morning at the return of the two helpers.
-38 MEMOIRS
+
 PART II
 THE ROSICRUCIAN FELLOWSHIP
 HEADQUARTERS
