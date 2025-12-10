@@ -794,11 +794,8 @@ then the third power, activity, working in Cosmic
 substance produces motion, and the melodie, har-
 monious, rhythmic power builds a separate archetype
 for all that takes form, from clod to God.
+
 In the fourth region of Concrete Thought are
-
-
-26
-MUSIC AND EVOLUTION
 found the archetypes of all forms manifesting here
 in the physical world. There, however, all solid earth
 objects appear as vacuous (empty) cavities from
@@ -813,6 +810,7 @@ into a like pattern and form a living body, be it plant.
 animal, or man. Each archetype emits a harmonious.
 musical tone and it is this sound that attracts and
 molds the physical atoms into shape.
+
 In every human being in the region of the medulla
 oblongata, at the head of the spinal cord, is a flame
 which pulsates and vibrates in a most wonderful
@@ -823,6 +821,7 @@ this sound is the keynote of the physical body sounded
 also by the archetype. The tone of the archetype
 changes through life, and as it changes so also the
 dense body undergoes certain changes.
+
 Every act of every human being has a direct effect
 on the archetype of his body. If the act is in harmony
 with the laws of life and evolution it strengthens the
@@ -833,12 +832,9 @@ life and his capacity for learning. Thus fewer em-
 bodiments will be necessary to bring him to per-
 fection than for one who shirks the strain of life and
 endeavors to escape its burdens, or one who applies
-
-
-OUR MUSICAL ARCHETYPES
-27
 his efforts destructively. In the latter type of life
 the archetype is strained and breaks early.
+
 According to the foregoing, those whose acts are
 contrary to law shorten their lives and have to seek
 new embodiments a greater number of times than
@@ -852,6 +848,7 @@ we have started, as we say, "late in life," we may
 easily lay up more "treasures" in the last few years
 than we did in several previous lives. Above all, we
 are getting in line for an early start in lives to come.
+
 There are twelve distinct life waves which have
 been working with mankind more or less since the
 beginning of the Saturn Period. Their names are:
@@ -869,12 +866,9 @@ Capricorn G major, Aquarius A major, Pisces B
 major. The keynote of a piece of music is the tonic
 or fundamental tone on which the musical com-
 position is built.
+
 The entire period of man's involution and evolu-
 tion is founded on the musical scale, which is of
-
-
-28
-MUSIC AND EVOLUTION
 heavenly origin. Max Heindel tells us that mankind
 went through three elemental stages before the Saturn
 Period, and these stages are represented at the lowest
@@ -885,6 +879,7 @@ to B, which tone is ineluded, making 12 notes, 7 of
 which are white and 5 dark. Seven Brothers of the
 Order of the Rose Cross go out into the world and
 work among mankind. Five are not seen in the world.
+
 Before humanity lost contact with the Spiritual
 Region of Concrete Thought they knew that it was
 a region of musical tones and that these tones per-
@@ -904,21 +899,19 @@ In place of man, an inner-conscious musical instru-
 ment, we now have musical instruments created by
 man; and these instruments express some phase of
 his inner nature.
+
 The wind instruments are correlated to melody-
 the will, the intellect, the head, thinking and the air
 or tune they carry is easily memorized. The stringed
 instruments are correlated to harmony-the emotions,
 the imaginstion, the heart and arouse feslings of
-
-
-OUR MUSICAL ARCHETYPES
-29
 happiness, joy, pleasure, pain, sorrow, longings and
 regret. The percussion instruments are correlated
 to rhythm-movement, the muscles, action of the
 upper and lower limbs and stir in their listeners
 a desire for action such as marching, dancing, clap-
 ping hands, stamping feet in rhythmic time.
+
 Man himself is really a threefold musical instru-
 ment, but in his present state of consciousness he
 has temporarily lost contact with the knowledge of
@@ -936,6 +929,7 @@ and desire bodies, and through an objective waking
 consciousness of their work he will become as con-
 scious of these vehicles and how they function as
 he now is of his dense physical body.
+
 It is the Spirit that sees, hears, smells, tastes, and
 feels, and not the sense organs themselves. In fact,
 they are utterly useless for such purposes when the
@@ -948,9 +942,6 @@ the body is asleep or when, as an Initiate, it leaves
 the body consciously and functions in the higher
 regions.
 
-
-30
-MUSIC AND EVOLUTION
 When the everyday waking consciousness con-
 sciously contacts the senses of the Spirit man will
 be prepared to begin the work belonging to Initiation
@@ -968,6 +959,7 @@ brought up to their present status in evolution. He
 need not stop here, for by his own efforts he may go
 on and learn of future development reserved for
 future revolutions and periods.
+
 The whole solar system is one vast musical in-
 strument which is God. In the Saturn Period the
 tones sounded by Him and His helpers are repre-
@@ -981,14 +973,11 @@ keys produce the assimilative tones, negative; both
 tones are required in order to produce results (will,
 love, activity-father, mother, child; as above, su
 below).
+
 The life waves that worked with us during the
 Saturn Period were Aries, Taurus, and Leo. The
-keynote of Aries is Do major. The keynote of Taurus
-is Eb major, and the keynote of Leo is Bå major.
-
-
-OUR MUSICAL ARCHETYPES
-31
+keynote of Aries is Db major. The keynote of Taurus
+is Eb major, and the keynote of Leo is Bb major.
 Note that the black keys in the piano are assimi-
 lative, and it was during the first revolution of
 this Saturn Period that the Leos, Lords of Flame,
@@ -996,6 +985,7 @@ succeeded in implanting in man's evolving structure
 the germ of the physical body. At this time raan was
 pure differentiated Spirit, located in the Region of
 Divine Spirit, which is the region of pure will.
+
 It is man's inner senses, taken collectively, that
 in time will be able to manifest at any moment en
 any plane without the aid of specialized organs cor-
@@ -1009,7 +999,8 @@ body, then in relation to his desire body, and still
 later in relation to his mental body. All this develop-
 ment will manifest through the power of the spoken
 word of God, the Creator of our solar system.
-The first inner er spiritual sense to be contacted
+
+The first inner or spiritual sense to be contacted
 by man's objective waking consciousness will be
 hearing (sound); the next will be feeling, then taste,
 then smell, and finally sight. The method used to
@@ -1024,13 +1015,9 @@ itual powers while the Spirit is still within its four-
 fold interpenetrated vehicles the physical, vital,
 desire, and mental bodies.
 
-
 DIAGRAM!!!!!!!!!!!!!!!!!!!!!
 
-
-CHAPTER VI
-THE MUSICAL OCTAVES AND THE
-COSMIC SCHEME
+### <h3 id="chapter-6">CHAPTER VI: THE MUSICAL OCTAVES AND THE COSMIC SCHEME</h3>
 
 THE piano is not the result of man's endeavor
 to reproduce the tones of his own inner self
@@ -1042,6 +1029,7 @@ one to those truly great musicians who are able
 to contact real heaven world music, bring it down
 to earth, and make a man-made, material-constructed
 machine reproduce it.
+
 While all mechanical instruments and the radio
 are of great value, they can never take the place
 of the piano to those who have once learned the
