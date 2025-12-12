@@ -1043,14 +1043,10 @@ tones. Nine is the number of humanity and seven (7)
 is the number of man's three (3) spiritual powers,
 plus his four (4) vehicles--mind, desire body, vital
 body, and physical body.
+
 There are five (5) lines on the musical staff and
 four (4) spaces-again five and four equal nine, the
 number of humanity. There are seven (7) letters in
-33
-
-
-34
-MUSIC AND EVOLUTION
 the musical scale, C, D, E, F, G, A, B; and they
 always occupy the same position on the musical
 staff. There are s en notes to the musical scale, do,
@@ -1060,39 +1056,50 @@ first do is found on the added line below the staff.
 If there is one sharp, the do is found on the second
 line of the staff. If one flat, then do is found in the
 first space on the staff, et cetera.
+
 Each of the life waves belonging to our solar system,
 Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra,
 Scorpio, Sagittarius, Capricorn, Aquarius, and Pisees.
 has a kevnote of its own.
+
 The keynote of Aries is Db major, which has five
 flats, namely, Gb, Ab, Bb, Db, Eb.
+
 The keynote of Taurus is Eb major, which has 3
 flats, namely, Ab, Bb, Eb.
+
 The keynote of Gemini is F# major, which has 6
 sbarps namely, A#, C#, D#, E#, F# G#.
+
 The keynote of Cancer is Ab major, which has four
 flats, namely, A flat, B flat, D flat, and E flat.
+
 The keynote of Leo is Bb major, which has two flats.
 B flat and E flat.
+
 The keynote of Virgo is C natural major and has
 no sharps or flats.
+
 The keynote of Libra is D major, and has 2 sharps.
 namely, F#, C#.
+
 The keynote of Scorpio is E major, and has 4
 sharps, namely, F#, C#, G#, D#.
+
 The keynote of Sagittarius is F major, and has 1
-flat, namely, Bo.
+flat, namely, Bb.
+
 The keynote of Capricorn is G major, and has 1
-
-
-THE MUSICAL OCTAVES
 sharp, namely, F#.
-35
+
+
 The keynote of Aquarius is A major, and has 3
 sharps, namely, F#, C#, G#.
+
 The keynote of Pisces is B major, and has 5 sharps
-namely, F#, C# G#, D#, A E and B only once
+namely, F#, C# G#, D#, A#, E and B only once
 not sharped)
+
 The 12 semitones of the octave inform with the
 12 months of the year and the 12 life waves created
 by the God of our solar system, also the 12 creative
@@ -1105,10 +1112,12 @@ humanity. The 7 light keys represent the hierarchical
 life waves, Virgo, Libra, Scorpio, Sagittarius, Capri-
 corn, Aquarius, and Pisces, still working with human-
 ity during the Earth Period.
+
 As occult mysteries are revealed to us, we very
 soon grasp the significant fact that throughout all
 the complexities of the world there runs a true orderly
-principle which never deviates in its manifestations
+principle which never deviates in its manifestations.
+
 One of the first things that become apparent to
 the real occult student is the fact that the cosmos is
 built upon the 1-3-5-7-10 and 12 aspects, and that
@@ -1121,9 +1130,6 @@ in the World of Thought Region, which, while com-
 paratively intangible to the physical senses still is
 the very basis of material manifestation. We see
 this same number scheme carried out both in the
-
-36
-MUSIC AND EVOLUTION
 individualized Spirit and in God, the Creator of
 our solar system. For example: God is one (1). His
 three (3) powers are will, wisdom-love, and activity.
@@ -1134,49 +1140,55 @@ and human spirit, a link (1) of mind, and his three
 (3) lower vehicles-desire, vital, and physical bodies
 -from which he extracts a threefold (3) essence
 called soul.
+
 Before going farther it is well to review the follow-
 ing facts: The chromatic scale includes all of the
 tones in the octave, both white and black keys, taken
 in regular order beginning with C. C is always
 before the two black key cluster on the piano. There
 are twelve tones in the chromatic scale.
+
 The diatonic scale is composed of the tones pro-
 duced by the white keys of the piano only-no black
 keys. There are seven tones (keys) in the diatonic
 scale.
+
 Note these other likenesses to these scales:
+
 There are twelve colors, seven visible and five in-
 visible to physical sight.
+
 There are twelve orifices in the body, seven visible
 and five invisible.
+
 There are twelve great life waves evolving in cur
 scheme of evolution, five of which have completed
 their work and withdrawn from manifestation: Aries,
 Taurus, Gemini, Cancer, Leo. The other seven are
 active during the Earth Period: Virgo, Libra, Scorpio,
-Sagittarius, Capricorn, Aquarius, Pisces,
+Sagittarius, Capricorn, Aquarius, Pisces.
+
 The general rule for a chord in music is, two notes
 in the base clef (positive and negative), and three
 in the treble clef, the trinity. Two and three equal
-
-
-THE MUSICAL OCTAVES
-87
-sive, the number of man's senses as developed at the
+five, the number of man's senses as developed at the
 present time. A chord in music is composed of a
 combination of tones which blend harmoniously when
 sounded together, the lowest tone being the root or
 keynote, and the other two notes forming the chord
 must be in harmony with this one particular note,
 else there will be discord as a result.
+
 Everywhere in all nature we find tone manifested,
 then number, then color, and then form; and this
 without exception.
+
 The first complete octave of the chromatic scale
 containing 12 tones from which come all heavenly
 themes, furnished the sound tones used during the
 Saturn Period. During each of the Seven Periods our
 life wave makes seven dips into matter and out again.
+
 At the dawn of the Saturn Peried the Lords of
 Mind (Sagittarius life wave) were the humanity,
 the Archangelic life wave was in an animal-like
@@ -1191,15 +1203,12 @@ and our own life wave (Piscean) the Arian life
 wave worked through the power incorporated in the
 tone Db, the Taurian by the power produced by Eb,
 and the Leos by the force contained in A#.
+
 The Arian and Taurian life waves were the first
 to appear to prepare proper conditions for the further
 development of the four life waves evolving during
 the Saturn Period. Then during the first dip (revo-
 lution) of our own life wave (Piscean), when it had
-
-
-38
-MUSIC AND EVOLUTION
 reached the lowest point (Region of Concrete
 Thought), through the power of the keynote A#
 the Leos radiated from their own bodies into our
@@ -1212,6 +1221,7 @@ ity, then, at the close of the Saturn Period possessed
 the germ of a dense body built of Concrete Thought
 substance and an awakened divine spirit, which was
 later to develop into will power.
+
 During the Saturn Period the various involving
 life waves began work in the Region of Divine
 Spirit, then entered the Region of Life Spirit, then
@@ -1224,6 +1234,7 @@ another Day of Manifestation. Four regions plus one
 equals five, the number of Christ, indicating the
 tremendous power this great Being was to become in
 the scheme of evolution.
+
 After all seven dips (revolutions) had been made
 a long period of assimilation and rest followed where
 all evolving life mingled freely from the highest to
@@ -1231,13 +1242,10 @@ the lowest, the high vibrations, by induction, raising
 the lower ones to a considerable degree. This happens
 between every one of the Seven Periods, Saturn, Sun,
 Moon, Earth, Jupiter, Venus, and Vulcan.
+
 The second octave of the chromatic scale fur-
 nished the musical sounds used during the Sun
 Period, and the first life waves to appear were the
-
-
-THE MUSICAL OCTAVES
-39
 Leos, Lords of Flame, keynote A#, Virgo, Lords of
 Wisdom, keynote C in second octave, Libra, Lords
 of Individuality, keynote D, Scorpio, Lords of Form,
@@ -1246,6 +1254,7 @@ keynote F, then came Capricorn, Archangels, key-
 note G, next Aquarius, Angels, keynote A, then
 Pisces, our own life wave, keynote B. The Archangels
 were the humanity of the Sun Period.
+
 During the sixth dip (revolution) which cur present
 humanity took into matter, the Cancer life wave, the
 Cherubim, whose keynote is G#, reappeared and
@@ -1255,7 +1264,8 @@ At the close of the Sun Period our life wave possessed
 the improved germ of what was to become a physical
 body, the germ of a vital body, an awakened divine
 spirit, and an aroused life spirit which was later to
-manifest as a wisdom-love force,
+manifest as a wisdom-love force.
+
 During the Sun Period the various involving life
 waves began their work in the Region of Life Spirit,
 then entered the Region of Abstract Thought, then
@@ -1269,12 +1279,10 @@ of the evolving life waves was then composed of
 Desire Region substance. Note that following the
 close of the Sun Period came another great assimi
 lative rest period.
+
 The third octave of the chromatic scale furnished
 the musical sounds used during the Moon Period.
 
-
-40
-MUSIC AND EVOLUTION
 At the dawn of the Moon Period, the various evolv-
 ing life waves began to appear. The Lords of Wisdom,
 Virgos, came first, bearing with them the germinal
@@ -1294,33 +1302,34 @@ development. The A# scale contains four sharped
 letters, A#, B#, D#, E#, and three double sharped
 letters, F##, C##, G##. The chords are:
 
-B#
-A# B# A# A# G## A#
-F##
-E#2
-E# E#
-C## F# C## D#
-C## D# C##
-E# G## F#
-A#oct. E#oct. A#oct. Doct. E#oct. E#oct. A#oct.
+|        |        |        |        |        |        |        |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|        |        |        |        |        | B#     |        |
+| A#     | B#     | A#     | A#     | A#     | G##    | A#     |
+| E#     | G##    | E#     | F##    | E#     | E#     | E#     |
+| C##    | E#     | C##    | D#     | C##    | D#     | C##    |
+| A#oct. | E#oct. | A#oct. | D#oct. | E#oct. | E#oct. | A#oct. |
+
+
 The Bb scale contains two flatted letters, but note
 that the letters except for sharps and flats are exactly
 the same. The letters flatted are B and E.
-A
-Bb A Bb Bb Bb F Bb
-F F F G F Eb F
-D C D Eb D C D
-Bb ch. F ch. Bỏ ch. Eb ch. Bb ch. F 7th ch. Bb ch.
 
+|        |        |        |        |        |           |        |
+| ------ | ------ | ------ | ------ | ------ | --------- | ------ |
+|        |        |        |        |        | A#        |        |
+| Bb     | A      | Bb     | Bb     | Bb     | F         | Bb     |
+| F      | F      | F      | G      | F      | Eb        | F      |
+| D      | C      | D      | Eb     | D      | C         | D      |
+| Bb ch. | F ch.  | Bb ch. | Eb ch. | Bb ch. | F 7th ch. | Bb ch. |
 
-THE MUSICAL OCTAVES
-41
 The Leos, Lords of Flame, exercised rulership
 during the Saturn Period; and as their musical
 scale, A# (or Bb), contained the sounds used to
 arouse the divine spirit power which is will, then
 these same tones are of immense value in further
 developing this highest power of the spirit, the will.
+
 In the second dip (revolution) in matter in the
 Sun Period, the Virgo (Lords of Wisdom) life wave
 radiated from their own bodies the germ of man's
@@ -1330,34 +1339,21 @@ life wave has C natural for its keynote; consequently
 the chords belonging to this scale, the scale of C
 natural, when sounded will help to further develop
 the potentialities of the vital body. These chords are:
-B
-G
-B
-G
-A
-G
-G
-G
-E
-G
-E
-F
-E
-F
-E
-C
-D
-C
-C
-C
-D
-C
-Cch. Gch. Cch. Fch. Cch. G7th Cch.
+
+|        |        |        |        |        |         |        |
+| ------ | ------ | ------ | ------ | ------ | ------- | ------ |
+|        |        |        |        |        | B       |        |
+| G      | B      | G      | A      | G      | G       | G      |
+| E      | G      | E      | F      | E      | F       | E      |
+| C      | D      | C      | C      | C      | D       | C      |
+| C ch.  | G ch.  | C ch.  | F ch.  | C ch.  | G 7th   | C ch.  |
+
 Some of the potentialities of the vital body are
 growth, development of sense perceptions, propa-
 gation, development and action of the glands, and
 all the organs, in etheric substance, possessed by the
 physical body.
+
 During the sixth dip (revolution) into matter, in
 the Sun Period, the Cancer life wave awakened the
 germ of the life spirit. The keynote of Cancer is
@@ -1365,20 +1361,19 @@ G# (Ab) major, and it was the chord tones belonging
 to this life wave that were used to obtain results. The
 chords belonging to G# major are:
 
-
-42
-MUSIC AND EVOLUTION
-A#
-B# A# B# G# B# F## B#
-G# F## G# E# G# D# G#
-D# D# D# C# D# C# D#
-
-G#oct. Doct. G#oct. C#oct. Doct. Doct. G#oct.
+|        |        |        |        |        |         |        |
+| ------ | ------ | ------ | ------ | ------ | ------- | ------ |
+|        |        |        |        |        | A#      |        |
+| B#     | A#     | B#     | G#     | B#     | F##     | B#     |
+| G#     | F##    | G#     | E#     | G#     | D#      | G#     |
+| D#     | D#     | D#     | C#     | D#     | C#      | D#     |
+| G#oct. | D#oct. | G#oct. | C#oct. | D#oct. | D#oct.  | G#oct. |
 
 If the chord tones of G# (Ab) major awakened the
 germ of the life spirit, then these same musical tones
 will in turn aid in stimulating and developing the
 potential powers of the life spirit.
+
 The third octave of the chromatic scale furnished
 the musical sounds used during the Moon Period.
 In the Moon Period during the third dip (revolution)
@@ -1391,56 +1386,42 @@ by its chords, that were used to accomplish this
 work. Th chords belonging to D major are found
 in the scale using two sharps. The letters or notes
 sharped are C and F. The chords of this scale are:
-A
-A
-A
-A
-B
-A
-G
-A
-F#
-E
-F#
-G
-F#
-E
-F#
-D
-C#
-D
-D
-D
-C#
-D
-D ch. E ch. D ch. G ch. A ch. A7th ch. D ch.
+
+|        |        |        |        |        |           |        |
+| ------ | ------ | ------ | ------ | ------ | --------- | ------ |
+|        |        |        |        |        | A         |        |
+| A      | A      | A      | B      | A      | G         | A      |
+| F#     | E      | F#     | G      | F#     | E         | F#     |
+| D      | C#     | D      | D      | D      | C#        | D      |
+| D ch.  | E ch.  | D ch.  | G ch.  | A ch.  | A 7th ch. | D ch.  |
 
 The tones found in the D major chords will aid
 in developing the desire body according to the perfect
 cosmic design.
+
 During the fifth dip (revolution) into denser sub-
 stance in the Moon Period, the Gemini life wave,
-
-
-THE MUSICAL OCTAVES
-43
 the Seraphim, reappeared and awakened the here-
 tofore passive human spirit. The keynote of the
 Gemini life wave is F# major. The letters sharped
 are A,C,D,E,F, and G (all sharped except B). The
 chords of F# major are:
 
-B
-A# G# A# B A# G# A#
-F# E# F# F# F# E# F#
-C# C# C# D# C# C# C#
-F#oct. C#oct. F#oct. Boct. C#oct. C#oct. F#oct.
+|        |        |        |        |        |         |        |
+| ------ | ------ | ------ | ------ | ------ | ------- | ------ |
+|        |        |        |        |        | B       |        |
+| A#     | G#     | A#     | B      | A#     | G#      | A#     |
+| F#     | E#     | F#     | F#     | F#     | E#      | F#     |
+| C#     | C#     | C#     | D#     | C#     | C#      | C#     |
+| F#oct. | C#oct. | F#oct. | B oct. | C#oct. | C#oct.  | F#oct. |
 
 The tones used to stimulate and assist in further-
 ing the development of the human spirit are found
 in the chord tones belonging to the key of F# major.
+
 At the close of the Moon Period, the third great
 cosmic day, we find the succeeding conditions:
+
 The following life waves through the power of
 their respective musical tones incorporated in scales
 and chords worked on man's development-Aries
@@ -1454,15 +1435,13 @@ used by the life waves in their work are found on
 the piano beginning with Do at the lower end of the
 keyboard and extending to middle C in the middle
 of the keyboard.
+
 At this time man was still outside of his vehicles
 and all work done by him was automatic, and directed
 entirely by the great Beings mentioned above, who
 were in charge of his evolution.
 
-
-CHAPTER VII
-OUR GROUP SPIRIT, JEHOVAH, AND OUR OWN
-LIFE WAVE
+### <h3 id="chapter-7">CHAPTER VII: OUR GROUP SPIRIT, JEHOVAH, AND OUR OWN LIFE WAVE</h3>
 
 TOWARD the end of the Moon Period there was
 a division in the globe or planet on which we
@@ -1470,6 +1449,7 @@ were evolving, and this smaller planet was thrown
 out into space. This planet condensed very rapidly
 and remained the field of our evolution until the
 end of the Moon Period.
+
 In relation to this time Max Heindel says in sub-
 stance: Fancy now an immense globe cireling in
 space as a satellite about its parent globe. It is the
@@ -1480,6 +1460,7 @@ which was misty and cloudlike. And though his
 consciousness pervaded the whole, he himself appeared
 principally in the cloud and with him were his
 Angels and other Creative Hierarchies.
+
 From this great firmament of cloud depended
 millions of cords, each with its own fœtal sac, hover-
 ing close to the dense central part of the cloud.
@@ -1491,65 +1472,48 @@ may dwell independently when the period of ges-
 tation has been completed, so the divine life of
 Jehovah brooded over us in the cloud and coursed
 through the whole human family during that em-
-
-44
-
-
-45
-JUR GROUP SPIRIT, JEHOVAH
 bryonic stage of our evolution. We were then as
 incapable of initiative as is the foetus today.
+
 At the end of the Moon Period the divided parts
 of the original globe were dissolved and merged into
 the general Chaos which preceded the reorganization
 of the globe for the Earth Period.
+
 The Earth Period found the Virgo life wave, the
 Lords of Wisdom, keynote C natural (also middle C
 on the piano), in charge of the divine spirit, the will
 power of man. The chords of C natural are found
 in Chapter VI.
+
 The Libran life wave, Lords of Individuality,
 were now advanced far enough to have the second
 power of man, the life spirit love power of attraction
 and cohesion, placed under their charge. Their key-
 note is D major and the chords belonging to D
 major are also found in Chapter VI.
+
 The Scorpio life wave, the Lords of Form, were
 given charge of the third power in man, the human
 spirit, which is his activity power and manifests
 as fecundation the power to produce and grow.
 The keynote of Scorpio is E majer, 4 sharps, C,D,F,G.
 The chords are:
-D#
-ED#
-E
-A
-E
-B
-B
-B
-C#
-E
-B
-B
-A
-E
-B
-G# F# G#
-E
-G# F# G#
-Ech. Bch. Ech. Ach. Beh.
-Beh. Ech.
+
+|        |        |        |        |        |         |        |
+| ------ | ------ | ------ | ------ | ------ | ------- | ------ |
+|        |        |        |        |        | D#      |        |
+| E      | D#     | E      | A      | E      | B       | E      |
+| B      | B      | B      | C#     | B      | A       | B      |
+| G#     | F#     | G#     | E      | G#     | F#      | G#     |
+| E ch.  | B ch.  | E ch.  | A ch.  | B ch.  | B ch.   | E ch.  |
+
 During the fourth dip (or revolution) into matter,
 during the Atlantean epoch, the Sagittarian life wave,
 Lords of Mind, radiated from themselves into our
 being the nucleus of material with which we are
 now seeking to build an organized mind. The mind
 is formed of the substance of the four divisions
-
-
-46
-MUSIC AND EVOLUTION
 of Concrete Thought. The second region contains the
 archetypes of universal vitality; the third contains
 the archetypes of desire and emotion; the fourth
@@ -1562,54 +1526,38 @@ Abstract Thought Region are reflected into the second
 Region of Concrete Thought, and the Region of ab-
 stract germinal ideas of desire and emotions is re-
 flected into the third Region of Concrete Thought
-In the latter part of the Lemarian Epoch a smal
-part of our humanity were sufficiently advanceć
+In the latter part of the Lemarian Epoch a small
+part of our humanity were sufficiently advanced
 so that the germ of mind could be given to them.
+
 The keynote of the Sagittarians is F major and
 has one flat, which is B. The chords are:
 
-E
-F
-F
-F
-F
-F
-C
-F
-C
-C
-D
-C
-Bb
-C
-A
-G
-A
-Bb
-A
-G
-A
-Fch. Cch. F ch. Bbch. Fch.
-C7th ch. F ch
+|        |        |        |        |        |           |        |
+| ------ | ------ | ------ | ------ | ------ | --------- | ------ |
+|        |        |        |        |        | E         |        |
+| F      | E      | F      | F      | F      | C         | F      |
+| C      | C      | C      | D      | C      | Bb        | C      |
+| A      | G      | A      | Bb     | A      | G         | A      |
+| F ch.  | C ch.  | F ch.  | Bb ch. | F ch.  | C 7th ch. | F ch.  |
+
 Note that this chord is correlated to the mind, the
 last vehicle acquired by man and the least developed
 of the four, physical, vital, desire, and mental, which
-he possesses. Here we have the key to rapid menta
-development, the chords of F major, which contains Bo
-Max Heindel states that musical keys or incanta
-tions are used in all occult orders and for all pur
-poses. That in occult orders like that of the Rosi
-crucians, the keynote of the incantation intoned a
-each degree is of a different vibratory measure fron
-the keynote of all the other degrees, and tha
+he possesses. Here we have the key to rapid mental
+development, the chords of F major, which contains Bb.
 
-
-OUR GROUP SPIRIT, JEHOVAH
-47
+Max Heindel states that musical keys or incanta-
+tions are used in all occult orders and for all pur-
+poses. That in occult orders like that of the Rosi-
+crucians, the keynote of the incantation intoned at
+each degree is of a different vibratory measure from
+the keynote of all the other degrees, and that
 one who has not the key and is therefore unable
 to attune himself to it is halted, as it were, by
 an invisible wall of vibration which surrounds the
 Temple.
+
 Max Heindel further states that music has a greater
 mission than simply to provide enjoyment for us.
 In fact, the Harmony of the Spheres is the basis
@@ -1620,9 +1568,11 @@ says that in the Second Heaven the Spirit knows
 that the twelve life waves differentiated by God, and
 the seven planets, form the sounding board and
 strings of Apollo's seven-stringed lyre.
+
 The Lords of Mind, Sagittarians, work only with
 humanity on the earth plane, for they are concerned
 with nothing lower than mind substance.
+
 The Archangels are experts at body building out
 of desire substance and are therefore able to teach
 both man and animals in molding and using desire
@@ -1630,49 +1580,31 @@ bodies. The keynote of the Archangels, the Capri-
 cornian life wave, is G major. It's scale has 1 sharp,
 namely F#. Its chords are:
 
-F#
-G
-F#
-G
-G
-G
-D
-G
-D
-D
-D
-E
-D
-C
-D
-B
-A
-B
-C
-B
-A
-B
-Gch. D ch. Gch. Cch. Gch. D7th ch.
-Gch.
+|        |        |        |        |        |           |        |
+| ------ | ------ | ------ | ------ | ------ | --------- | ------ |
+|        |        |        |        |        | F#        |        |
+| G      | F#     | G      | G      | G      | D         | G      |
+| D      | D      | D      | E      | D      | C         | D      |
+| B      | A      | B      | C      | B      | A         | B      |
+| G ch.  | D ch.  | G ch.  | C ch.  | G ch.  | D 7th ch. | G ch.  |
+
 The Angels are thoroughly experienced in vital
 body building, for in the Moon Period when they
 were human ether was the densest condition of matter.
 On account of their ability to build and fashion ether,
 they are properly the teachers of man, animal, and
-
-
-48
-MUSIC AND EVOLUTION
 plant, with regard to the vital functions, including
 propagation and nutrition. The keynote of the Angels,
 the Aquarians, is A major. Its scale has 3 sharps,
 namely, F#, C#, G#. Its chords are:
-G#
-AAEA
-EEF#ED
-C#BC#DB
-C#
-A oct. E oct. A oct. Doct. E oct. E oct. A oct.
+
+|        |        |        |        |        |         |        |
+| ------ | ------ | ------ | ------ | ------ | ------- | ------ |
+|        |        |        |        |        | G#      |        |
+| A      | G#     | A      | A      | A      | E       | A      |
+| E      | E      | E      | F#     | E      | D       | E      |
+| C#     | B      | C#     | D      | C#     | B       | C#     |
+| A oct. | E oct. | A oct. | D oct. | E oct. | E oct.  | A oct. |
 
 Our own human life wave is learning to become
 experts at body building out of physical substance,
@@ -1683,67 +1615,39 @@ Already we are beginning to fashion various minerals
 into individual shapes. The keynote of humanity,
 the Pisceans, is B major. Its scale has 5 sharps, namely.
 F# C#, G#, D#. A#. Its chords are:
-A#
-B
-BB
-A#
-F# F#
-F#G#
-D# C#
-D#
-E
-B
-F#
-E
-F#
-D#
-C#
-B oct. F#oet. Boct. E oct. Boct. F# oct. B oct.
+
+|        |         |        |        |        |         |        |
+| ------ | ------- | ------ | ------ | ------ | ------- | ------ |
+|        |         |        |        |        | A#      |        |
+| B      | A#      | B      | B      | B      | F#      | B      |
+| F#     | F#      | F#     | G#     | F#     | E       | F#     |
+| D#     | C#      | D#     | E      | D#     | C#      | D#     |
+| B oct. | F# oct. | B oct. | E oct. | B oct. | F# oct. | B oct. |
 
 The keynote of the Aries life wave is D flat major.
 Its scale contains 5 flats, namely, Go, Bb, Db, Eb, Ad.
 Its chords are:
-C
-DbCDbDbDb
-Ab
-Db
-AbAbAbBb
-AbG
-Ab
-F EbFG6F
-Eb
-F
-Db oct. Ab oct. Db oct. Gb oct. Ab oct. Ab oct. Db oct.
 
+|         |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+|         |         |         |         |         | C       |         |
+| Db      | C       | Db      | Db      | Db      | Ab      | Db      |
+| Ab      | Ab      | Ab      | Bb      | Ab      | Gb      | Ab      |
+| F       | Eb      | F       | Gb      | F       | Eb      | F       |
+| Db oct. | Ab oct. | Db oct. | Gb oct. | Ab oct. | Ab oct. | Db oct. |
 
-OUR GROUP SPIRIT, JEHOVAH
-49
 The keynote of the Taurus life wave is E flat major.
 Its scale contains 3 flats, namely, A3, B6, Eb. Its
 chords are:
-D
-Eb
-D
-Eb
-Eb
-Eb
-Bb
-Eb
-Bb
-Bb
-Bb
-C
-Bb
-Al
-Bb
-G
-F
-G
-Ab
-G
-F
-G
-Eó ch. Bỏ ch. Eb ch. Ab ch. Bỏ ch. Bb 7th ch. E ch.
+
+|        |         |        |        |        |            |        |
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ |
+|        |         |        |        |        | D          |        |
+| Eb     | D       | Eb     | Eb     | Eb     | Bb         | Eb     |
+| Bb     | Bb      | Bb     | C      | Bb     | Ab         | Bb     |
+| G      | F       | G      | Ab     | G      | F          | G      |
+| Eb ch. | Bb ch.  | Eb ch. | Ab ch. | Bb ch. | Bb 7th ch. | Eb ch. |
+
 Every part of man's body has been built by the
 vibratory keynotes of the twelve great life waves,
 assisted by the Seven Spirits before the Throne,
@@ -1758,21 +1662,19 @@ All of these great Helpers have been or are now
 carrying on their activities under the direction of
 the God of our solar system and are, so to speak,
 His earth ambassadors.
+
 The God of our solar system creates in life waves,
 as stated. Twelve of these life waves have the same
 names as the signs of the zodiac and will be used
 by Him later as the signs of His own zodiac when
 He breaks up into one to form the covering of a solar
 system for another God.
+
 The Aries and Taurus life waves are now in
 the World of God Region; the Gemini, Cancer, Leo
 life waves are in the World of Virgin Spirits Region;
 the Virgo life wave is in the Divine Spirit World
 Region; the Scorpio life wave is in the Abstract
-
-
-50
-MUSIC AND EVOLUTION
 Thought World Region; the Sagittarius life wave
 is in the Concrete Thought World Region; the Capri-
 corn life wave is in the Desire World Region; the
@@ -1787,7 +1689,8 @@ tions; they are at liberty to render service in many
 other localities or on other planes, the same as
 our own life wave, which at the present time during
 manifestation functions in regions as high as the
-World of Abstract Thought,
+World of Abstract Thought.
+
 The closer we come to understanding creation,
 the better we shall understand music, and vice versa.
 For instance, a perfect chord is formed of the first,
@@ -1809,9 +1712,6 @@ Divine Spirit. Accordingly, any music written in the
 key of A# (Bb) will further work being done during
 the Saturn Period.
 
-
-OUR GROUP SPIRIT, JEHOVAH
-51
 The humanity of the Sun Period was the Capri-
 corns or Archangels. Beginning here and counting
 upward to five we find the Virgos or Lords of
@@ -1823,6 +1723,7 @@ of the vital body and the awakening of the life
 spirit. Accordingly any music written in the key
 of C natural will further the work begun in the
 Sun Period.
+
 The humanity of the Moon Period was the Aquari-
 ans or Angels. Beginning with them and counting
 upward to five we find the Librans or Lords of
@@ -1834,6 +1735,7 @@ desire body and he awakening of the human spirit.
 Accordingly any music written in the key of D
 major will further the work begun in the Moon
 Period.
+
 The humanity of the Earth Period is the Pisceans,
 our own life wave. Beginning with Pisces and count-
 ing upward to five we find the Scorpios or Lords
@@ -1845,85 +1747,48 @@ Earth Period is on the development of the mental
 body. Accordingly any music written in the key of
 E major will further the growth of the mind, which
 is the work of the Earth Period.
+
 The purpose of spiritual rulership is primarily
-
-
-52
-MUSIC AND EVOLUTION
 to give the necessary impacts which act as a stimulus
 to action on the lower life wave on which the im-
 pact is directed, all development being the result
 of some kind of musical activity.
-Summarizing the foregoing, we find :
+
+Summarizing the foregoing, we find:
+
 Divine Spirit, keynote A# (Bb) major, ruling Life
 Wave Leo.
+
 Life Spirit, keynote G# (Ab) major, ruling Life
 Wave Cancer.
+
 Human Spirit, keynote F# major, ruling Life
 Wave Gemini.
+
 Physical Body, keynote A# (Bb) major, ruling
 Life Wave Leo.
+
 Vital Body, keynote C natural, ruling Life Wave
 Virgo.
+
 Desire Body, keynote D major, ruling Life Wave
 Libra.
+
 Mind, keynote F major, ruling Life Wave
 Sagittarius.
+
 The chords related to the three powers of the
 Spirit and man's four vehicles, also all music written
 in the keynote of the chords can be effectively used
 in developing man's three spirit powers and the
 powers of his four vehicles.
 
-CHAPTER VIII
+### <h3 id="chapter-8">CHAPTER VIII: THE HARMONY OF THE SPHERES</h3>
 
-THE HARMONY OF THE SPHERES
-T
-HE Harmony of the Spheres is not a monotone; it
+THE Harmony of the Spheres is not a monotone; it
 varies from day to day and from month to month
 as the Sun and planets pass from sign to sign. There
 are also yearly epochal variations due to the pre-
-
-
-52
-MUSIC AND EVOLUTION
-to give the necessary impacts which act as a stimulus
-to action on the lower life wave on which the im-
-pact is directed, all development being the result
-of some kind of musical activity.
-Summarizing the foregoing, we find:
-Divine Spirit, keynote A# (Bb) major, ruling Life
-Wave Leo.
-Life Spirit, keynote G# (Ab) major, ruling Life
-Wave Cancer.
-Human Spirit, keynote F# major, ruling Life
-Wave Gemini.
-Physical Body, keynote A# (Bb) major, ruling
-Life Wave Leo.
-Vital Body, keynote C natural, ruling Life Wave
-Virgo.
-Desire Body, keynote D major, ruling Life Wave
-Libra.
-Mind, keynote F major, ruling Life Wave
-Sagittarius.
-The chords related to the three powers of the
-Spirit and man's four vehicles, also all music written
-in the keynote of the chords can be effectively used
-in developing man's three spirit powers and the
-powers of his four vehicles,
-
-CHAPTER VIII
-
-THE HARMONY OF THE SPHERES
-T
-HE Harmony of the Spheres is not a monotone; it
-varies from day to day and from month to month
-as the Sun and planets pass from sign to sign. There
-are also yearly epochal variations due to the pre-
-
-
-THE HARMONY OF THE SPHERES
-58
 cession of the equinoxes. There is truly an infinite
 variety in the Song of the Spheres, as indeed there
 must be, for the constant change of spiritual vibration
@@ -1934,16 +1799,21 @@ growth in all kingdoms, from man to plant inclusive,
 predominate. If you would catch a faint idea of
 what the Music of the Spheres is like at this time
 listen to such Easter songs as:
+
+```
 Jesus Christ is risen today, Alleluia!
 Our triumphant holy day, Alleluia!
 Who did once upon the Cross, Alleluial
 Suffer to redeem our loss. Alleluia!
+```
+
 Christ Jesus is the personification of spiritual love;
 therefore music written in the key of Libra (D
 major), ruled by Venus, the planet of love, is quite
 in harmony with His vibration, and tends to lift up
 and harmonize one's own vibration with that of this
 great Being.
+
 In midsummer the tones produced by Cancer and
 the Moon take the lead, abetted by those of Leo and
 the Sun, all of which are conducive to maturing the
@@ -1957,20 +1827,21 @@ having reached the throne of the Father (the World
 of Divine Spirit) after completing His earth work
 for another year, is welcomed by the heavenly host,
 the Lords of Wisdom, who also abide there. In honor
-
-
-54
-MUSIC AND EVOLUTION
 of this great One who has given His life to the
 point of exhaustion, it is appropriate that we join
 that celestial band in singing:
+
+```
 All hail the power of (Christ) Jesus name!
 Let angels prostrate fall;
 Bring forth the royal diadem,
 And crown Him Lord of all.
+```
+
 The keynote of Leo is A# (Bb) major. The Sun is
 its ruler and its key word is Life. The keynote of
 Cancer is G# major and its key word is fecundation.
+
 In the fall the tones of Virgo, whose keynote is
 C natural, and the key word of Mercury, reason,
 energized by the tones of Scorpio, keynote E major,
@@ -1984,30 +1855,25 @@ double their efforts to render loving, self-forgetting
 service to others. Here are the words and music
 which can be of great assistance to each one in further-
 ing his or her evolutionary development:
+
+```
 O worship the King all glorious above,
 And gratefully sing His wonderful love;
 Our Shield and Defender, the Ancient of Days,
 Pavilioned in splendor, and girded with praise.
+```
+
 This is truly so; for all the while Christ is de-
 scending to earth a harmonious, rhythmic, vibratory
 song, a hosanna, is being sung by the celestial hosts,
 which fills the earth's atmosphere and acts upon all
 as an impulse to spiritual aspiration.
 
-
-THE HARMONY OF THE SPHERES
-55
 During winter the tones of the philanthropie Sagit-
 tarius, keynote F major, ruled by the optimistic,
 benevolent planet Jupiter, key word idealism, and the
-CONSTITUTION OF THE EARTH
 quiet, orderly Cap-
 ricorn, keynote G
-MINERAL STRATEN
-Ve
-WAM
-Sp
-PIERY
 major, ruled by
 the conservative,
 enduring Saturn,
@@ -2030,6 +1896,9 @@ He spends three days and nights liberating from
 Himself the Holy Spirit germinating force which is
 slowly to permeate the earth and fructify it for
 another year.
+
+![Diagram: Constitution of the Earth](#)
+
 Without this vitalizing, energizing power released
 by the Christ the earth would remain cold, barren,
 and drear; all living things would soon perish and
@@ -2038,11 +1907,10 @@ our present scheme of development is concerned. It
 is most fitting, therefore, that at the holy Christmas
 season we should pour forth our sincere appreciation
 and adoration by joining the heavenly hosts in songs
-
-56
-MUSIC AND EVOLUTION
 of praise attuned to the celestial music given to us
 by that master musician, the great Felix Mendelssohn
+
+```
 Hark! the herald angels sing,
 Glory to the newborn King;
 Peace on earth and mercy mild,
@@ -2051,6 +1919,8 @@ Joyful all ye nations, rise,
 Join the triumph of the skies;
 With th'angelic hosts proclaim,
 Christ is born in Bethlehem.
+```
+
 The Hierarchical life waves and the zodiacal signs
 have not been the only aids that mankind has had in
 furthering his evolution. The Seven Spirits before
@@ -2061,6 +1931,7 @@ present in very close contact with humanity. Each
 of these planets has a keynote of its own and it is
 through the vibratory power of each of these keynotes
 that the planets are able to render assistance.
+
 During the time the Spirit is coming to rebirth
 it forms the creative archetype of its physical form
 in the Second Heaven, the World of Concrete Thought,
@@ -2072,22 +1943,23 @@ length of life to be lived on earth. Until the arche-
 type ceases to vibrate the corresponding form which
 is built of the chemical elements of the earth will
 continue to exist.
+
 The Region of Concrete Thought is the realm of
 sound, where the Harmony of the Spheres, a truly
 celestial music, pervades all that is there, as the
-
-THE HARMONY OF THE SPHERES 57
 atmosphere of the earth surrounds and envelops every-
 thing here. All things there may be said to be wrapped
 in and permeated with music--to live and grow by
 music.
+
 All of this clearly demonstrates that our earth music
 did not just happen, but that it has been established
 on a basis found in the higher spiritual worlds, the
 origin of which is the spoken word of God, the
 Creator of our solar system.
-CHAPTER IX
-THE ARCHETYPE AND THE PHYSICAL BODY
+
+### <h3 id="chapter-9">CHAPTER IX: THE ARCHETYPE AND THE PHYSICAL BODY</h3>
+
 NOTE that the letters of the musical alphabet are:
 NC,D,E,F,G,A,B, which form an interval of seven
 tones, the basis of the Harmony of the Seven Spheres.
@@ -2097,23 +1969,23 @@ time. However, the most advanced of mankind are
 beginning to sense their vibrations. The tones of
 these two planets, added to the seven, make nine,
 the number of humanity.
+
 The seven major tones of the scale, when correctly
 sounded, have within them the creative, building
 powers of God. The manifestation of the minor tones
 are subjective or assimilative in nature, and do not
 create. The home of the 5 minor tones is the Third
 Heaven (Region of Abstract Thought).
+
 When the Spirit leaves the dense body at the time
 of death it passes through the Desire World, the Con-
 crete Thought World (Second Heaven), and Abstract
 Thought World (Third Heaven), where it remains
-
-58
-MUSIC AND EVOLUTION
 for a time before it returns to rebirth on the earth.
 When the time for rebirth comes, it leaves the Ab-
 straet Thought World and enters the Concrete
 Thought World.
+
 There the Music of the Spheres at once sets the
 seed atom of the dense body vibrating, and one of
 these planets vibrates in particular harmony with the
@@ -2122,6 +1994,7 @@ tone is so modified that it conforms to the basic tone of
 the planet in harmony with the dense seed atom of the
 physical body of the Spirit, and is therefore the plane-
 tary ruler of that particular earth life of the Spirit.
+
 When the tones of the various planets impinge
 upon the seed atom of the danse body they each in
 turn aid in building the Spirit's archetype, and the
@@ -2131,6 +2004,7 @@ atoms of the physical body. Thus both the archetype
 and the physical body express accurately the Harmony
 of the Spheres as it was played during this period
 of archetypal construction.
+
 The length of time which expires from the moment
 the Spirit leaves the Third Heaven (Abstract Thought
 Region), until it enters the body of its future mother
@@ -2144,10 +2018,9 @@ which the vibratory powers of the seed atom cannot
 respond; and again, the Spirit simply hums over
 tones which it has already learned, and thus engaged
 waits for a new sound which it can use to build
-
-THE ARCHETYPE AND PHYSICAL BODY 59
 more of the organism by means of which it desires
 to express itself.
+
 Time is also required to attract the needed mate-
 rial in the various regions of the Desire World (7)
 out of which to build a new desire body, the arche-
@@ -2158,6 +2031,7 @@ a new vital body, but the Recording Angels and their
 agents must separate a portion of this material from
 the rest, out of which they form the etheric matrix
 for the physical body which is to be built later.
+
 Let us remember that we are now working under
 the influence of the seven tones in the middle of
 the piano keyboard, which is the middle octave,
@@ -2169,21 +2043,21 @@ belonging to the lowest octave tones on the piano
 keyboard, Saturn Period, were on dense body build-
 ing (Leo keynote is A# (Bb) major) and the awaken-
 ing of the negative powers of the Divine Spirit.
+
 The lessons belonging to the second piano key-
 board octave, Sun Period, were correlated to the
 tones produced by that octave and were on vital
 body building (Virgo, keynote C natural), and the
 awakening of the negative powers of the life spirit,
 Cancer life wave, keynote G# (Ab) major.
+
 The lessons belonging to the third octave tones
 on the piano keyboard, Moon Period. were correlated
 to the tones produced by that octave. They pertained
 to the building of the desire body (Libra, keynote D
 major) and the awakening of the negative powers of
-
-60
-MUSIC AND EVOLUTION
 the human spirit (Gemini, keynote F# major).
+
 The lessons belonging to the fourth or middle
 octave tones, Earth Period, have to do with the
 construction of the mental body and the development
@@ -2194,6 +2068,7 @@ quired his dense, vital, desire, and mental bodies, must
 during the Earth Period learn how to care for them
 and keep each one in a healthy condition, which
 depends almost altogether upon the state of mind.
+
 Ordinarily the mind forms a perfect connection
 between the Spirit and its four vehicles, but it is
 possible for this connection to become faulty or even
@@ -2208,23 +2083,19 @@ mind itself but also the desire body, the vital body,
 and the physical vehicle, while low, gentle, rhythmic
 vibrations of those planets will both soothe and heal.
 
-CHAPTER X
-THE CURATIVE POWER OF MUSIC
-IBRATION is life manifested, and is the origin
-V
+### <h3 id="chapter-10">CHAPTER X: THE CURATIVE POWER OF MUSIC</h3>
+
+VIBRATION is life manifested, and is the origin
 of all created things that are, or ever have been.
 Inertia, its opposite, results in separation, disin-
 tegration, and decay. Music and color are both the
-
-
-THE CURATIVE POWER OF MUSIC
-61
 product of certain rates of vibratory power. Harmoni-
 ous vibratory rates are healthful, constructive, and
 building; but discordant ones are destructive and
 disintegrating even to the point of dissolution. Sound
 is the origin of color and only clear, melodious sound
 can produce a beautiful, attractive, inspiring color.
+
 The solar spectrum reflects seven distinct colors,
 namely, red, orange, yellow, green, blue, indigo, and
 violet. There are seven tones produced on the piano
@@ -2240,6 +2111,7 @@ ordinary eye is completed in the violet, another
 octave of finer invisible colors, with just twice as
 many vibrations will commence, and progress accord-
 ing to the same law.
+
 Aries has general control over the head and the
 various organs within the head, and the eyes; but
 the nese is under the rulership of Scorpio. Accord-
@@ -2250,16 +2122,10 @@ gia, coma and trance conditions, diseases of the brain,
 and cerebral hemorrhages. The remedy used to combat
 these diseases is music played softly in the key of
 Ab major.
+
 Taurus rules the neck, throat, palate, larynx, ton-
 sils, lower jaw, ears, occipital region of the brain,
 the cerebellum, the atlas, cervical vertebrae, carotid
-
-
-DIAGRAM!!!!!!!!!!!!!!!!!!!!!!!!!!!1
-
-
-CURATIVE POWER OF MUSIC
-68
 arteries, jugular veins, and some minor blood vessels.
 Music played softly in the key of Eb major is of
 great benefit when any of these organs begins to
@@ -2268,6 +2134,9 @@ diptheria, croup, and apoplexy. As each sign always
 reacts upon the opposite one, afflictions in Taurus
 may also produce venereal diseases, constipation, or
 irregular menses.
+
+DIAGRAM!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
 Gemini rules the arms and hands, shoulders, lungs,
 and the thymus gland, also the upper ribs. Any
 disease attacking one of these parts may be checked
@@ -2277,6 +2146,7 @@ pleurisy, bronchitis, asthma, and inflamation of the
 pericardium. Music played softly in the keynote of
 F# major is beneficial in counteracting the activity
 of these diseases.
+
 Cancer rules the œsophagus, stomach, diaphragm,
 pancreas, mamme, lacteals, upper lobes of the liver,
 and thoracic duct. Diseases-indigestion, gas in
@@ -2284,6 +2154,7 @@ stomach, cough, hiccough, dropsy, gloom, hypo-
 chondria, hysteria, gall stones, and jaundice. Diseases
 mentioned under the rule of Cancer are counter-
 acted by music played softly in G# (Ab) major.
+
 Leo rules the heart, the dorsal region of the spine,
 the spinal cord, and the aorta. Leo afflictions are
 regurgitation, palpitation, fainting, aneurism, spinal
@@ -2291,17 +2162,15 @@ meningitis, curvature of spine, arteriosclerosis, angina
 pectoris, hyperæmia, anemia, and hydræmia. Music
 played seftly in the key of A# (Bb) major brings
 relief to sufferers of these dieseases.
+
 Virgo rules the abdominal region, the large and
 small intestines, the lower lobes of the liver, and the
 spleen. Afflictions of Virgo produce peritonitis, tape-
-
-
-64
-MUSIC AND EVOLUTION
 worm, malnutrition, interference with the absorption
 of the chyle, typhoid fever, cholera, and appendicitis.
 The music best played to relieve any of the foregoing
 afflictions is that of C natural softly rendered.
+
 Libra rules the kidneys, the suprarenals, the lumbar
 region of the spine, the vasomotor system, and the
 skin. Libra diseases are polyuria, or suppression of
@@ -2310,6 +2179,7 @@ the kidneys with the bladder, Bright's disease, lum-
 bago, eczema, and other skin diseases. Music for the
 treatment of these diseases is played softly in the
 keynote of D major.
+
 Scorpio rules the bladder, urethra, genital organe
 in general, also the rectum and descending colon,
 the sigmoid flexure, the prostate gland, and the nasal
@@ -2320,11 +2190,13 @@ prostate gland, irregularities of the menses, leucor-
 rhœa, rupture, renal stones, and gravel. The keynote
 of Scorpio is E major. Music played softly in this
 key dispels Scorpio diseases.
+
 Sagittarius rules the hips and thighs, the femur,
 ilium, the coccygeal and sacral regions of the spine,
 the iliac arteries and veins, and sciatic nerves. Music
 played softly in the key of F major is the best
-treatment for these diseases,
+treatment for these diseases.
+
 Capricorn governs the skin and the knees, and
 also has a reflex action on the stomach which is
 governed by the opposite sign, Cancer. Music played
@@ -2333,9 +2205,6 @@ Capricorn diseases, which are as follows: eczema
 and other skin diseases, erysipelas, leprosy, and
 digestive disturbances.
 
-
-THE CURATIVE POWER OF MUSIC
-65
 Aquarius rules the ankles, the limbs from the
 knees to the ankles, and also has a reflex action on
 its opposite sign, Leo; hence afflictions in Aquarius
@@ -2344,6 +2213,7 @@ of the heart action, and dropsy. The keynote of
 Aquarius is A major. Music played softly in that
 key is best for healing the diseases common to
 Aquarius.
+
 Pisces governs the feet and toes. It also has a reflex
 effect on the abdominal region governed by the
 opposite sign Virgo, hence afflictions in this sign
@@ -2353,9 +2223,9 @@ which may bring about delirium tremens. Music
 played softly in the keynote of B major is best for
 combating the diseases herein mentioned.
 
-CHAPTER XI
-INVISIBLE HELPERS AND HEALING
-PIRITUAL healing as carried on by the Rosi-
+### <h3 id="chapter-11">CHAPTER XI: INVISIBLE HELPERS AND HEALING</h3>
+
+SPIRITUAL healing as carried on by the Rosi-
 crucian Fellowship is done by the probationers,
 who work at night while out of their dense bodies
 which are asleep. They are called Invisible Helpers,
@@ -2366,11 +2236,6 @@ probationer Invisible Helper healer must be in per-
 fect harmony. (This is taken care of by the Elder
 Brothers.) The probationer Invisible Helper in his
 or her waking consciousness must have decided to
-S
-
-
-66
-MUSIC AND EVOLUTION ART
 become a ready healing helper on the invisible plane
 Such helpers must be probationers for the reason
 that at the time they dedicate themselves to pro-
@@ -2378,6 +2243,7 @@ bationership they begin to vibrate in unison with
 the Elder Brothers of the Rose Cross Order, and each
 morning, when they perform their morning exercise
 of concentration, they strengthen this vibration.
+
 Invisible Helpers are of inestimable value for the
 following reason: The vital body of the patient in
 which the Helpers work has a tone all its own
@@ -2392,6 +2258,7 @@ has made up his mind to be a ready worker on the
 invisible plane, and being attuned to the vibration
 of the Elder Brothers, they, the Brothers, then
 supervise the work.
+
 This is the reason why a probationer nurse in
 our own sanitarium is of inestimable value, for
 note: such a nurse is tuned to both the keynote of
@@ -2403,12 +2270,9 @@ made up his mind to become one, and since the devel-
 opment of the mind is the principal work of the Earth
 Period, it is quite necessary that we give some atten
 tion to how mental development is accomplished.
+
 No spiritual development can be accomplished
 without the aid of the mind, for the mind is the
-
-
-INVISIBLE HELPERS AND HEALING
-67
 link between the Spirit and its lower vehicles, The
 Spirit's powers are developed by the soul essence,
 pabulum, food extracted from the threefold body;
@@ -2417,6 +2281,7 @@ food essence to the Spirit. The more developed the
 mind is, the more efficient it becomes as a conductor
 of pabulum from the three vehicles, physical, vital,
 and desire bodies, to the Spirit.
+
 In the Earth Period the Lords of Mind radiated
 from themselves into man's being the germ of a
 mind. The keynote of the Lords of Mind (Sagit-
@@ -2426,29 +2291,15 @@ both to influence and to develop man's mental powers.
 Examples: America; Work, for the Night Is Coming;
 Where He Leads Me I Will Follow. The chords of F
 major are:
-B&
-A
-G
-A
-B
-A
-G
-A
-F
-E
-F
-F
-F
-E
-F
-C
-C
-C
-D
-C
-C
-C
-Fch. Cch. Fch. Bb ch. Cch. C7th ch. F ch.
+
+|        |         |        |        |        |            |        |
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ |
+|        |         |        |        |        | Bb         |        |
+| A      | G       | A      | Bb     | A      | G          | A      |
+| F      | E       | F      | F      | F      | E          | F      |
+| C      | C       | C      | D      | C      | C          | C      |
+| F ch.  | C ch.   | F ch.  | Bb ch. | C ch.  | C 7th ch.  | F ch.  |
+
 The Spirit is entirely in the physical world while
 it lives its earth life, except when the body is asleep
 or unconscious for any other cause. During waking
@@ -2459,15 +2310,13 @@ is able to contact the outside world. At the present
 time the mind is an unformed cloud which pere-
 trates and surrounds the head. The mind has not
 as yet evolved any organs. It acts like a mirror
-
-68
-MUSIC AND EVOLUTION
 reflecting the outer world and enabling the Spirit
 to transmit its commands as thoughts and words,
 and to compel action. The Spirit generates the
 thought, and injects it into the mind, the mind passes
 it on to the brain centers, and the brain centers
 transmute it into incentive to action.
+
 At the present time, however, the mind is not
 focused in a way that enables it to give a clear
 and true picture of what the Spirit imagines. It
@@ -2477,6 +2326,7 @@ adequacies of the first conception, and bring about
 new imaginings and ideas until the image produced
 by the Spirit in mental substance has been reproduced
 in physical substance.
+
 At the best, we are able to shape through the mind
 only such images as have to do with form, because
 the mind was not started until the Earth Period
@@ -2495,10 +2345,8 @@ and not the man. All forms created by man are life-
 less and will continue to be so until the mind becomes
 alive that is to say, until it reaches a plantlike
 stage in its development.
-Three of the ductless glands are closely con-
 
-INVISIBLE HELPERS AND HEALING
-69
+Three of the ductless glands are closely con-
 nected with the mind of man. The seven duetless
 glands, mentioned by Max Heindel as the seven
 roses on the cross of the vital body, are all spiritual
@@ -2533,24 +2381,18 @@ gland and thereby assist man in mastering the
 lessons pertaining to the World of Thought. The
 tone of Uranus, ruler of the pituitary body, will
 gradually awaken and develop the potential spiritual
-
+powers of that gland and assist man in learning
+the lessons pertaining to the World of Life Spirit.
+The tone of Neptune, ruler of the pineal gland, will
+gradually awaken and develop the potential spiritual
+powers of that gland and assist man in mastering
+the lessons pertaining to the World of Divine Spirit.
 
 DIAGRAM!!!!!!!!!!!!!
 
+### <h3 id="chapter-12">CHAPTER XII: MUSIC AS A BUILDING POWER</h3>
 
-INVISIBLE HELPERS AND HEALING
-73
-powers of that gland and assist man in learning
-the lessons pertaining to the World of Life Spirit.
-The tone of Neptune, ruler of the pineal gland, will
-gradually awaken and develop the potential spiritual
-powers of that gland and assist man in mastering
-the lessons pertaining to the World of Divine Spirit.
-
-CHAPTER XII
-MUSIC AS A BUILDING POWER
-IN
-N the evolutionary progress of humanity there are
+IN the evolutionary progress of humanity there are
 four distinct classses of people at the present time,
 namely: the failures, those who have definitely lost
 out in the present scheme and will have to go back
@@ -2566,25 +2408,22 @@ and leaders of humanity. Chief among them are the
 lay brothers, adepts, and Elder Brothers composing
 the members of the seven Lesser Mystery Schools
 and the five Greater Ones which exist on earth today.
+
 In the far off past man's principal lessons were
 related to body building, including the physical,
 vital, and desire bodies, and while doing this work
 he was directed and assisted by the eleven creative
 Hierarchical life waves preceding his own and the
-
-
-INVISIBLE HELPERS AND HEALING
-7J
 powers of that gland and assist man in learning
 the lessons pertaining to the World of Life Spirit.
 The tone of Neptune, ruler of the pineal gland, will
 gradually awaken and develop the potential spiritual
 powers of that gland and assist man in mastering
 the lessons pertaining to the World of Divine Spirit.
-CHAPTER XII
-MUSIC AS A BUILDING POWER
-I
-N the evolutionary progress of humanity there are
+
+### <h3 id="chapter-12">CHAPTER XII: MUSIC AS A BUILDING POWER</h3>
+
+IN the evolutionary progress of humanity there are
 four distinct classses of people at the present time,
 namely: the failures, those who have definitely lost
 out in the present scheme and will have to go back
@@ -2600,14 +2439,12 @@ and leaders of humanity. Chief among them are the
 lay brothers, adepts, and Elder Brothers composing
 the members of the seven Lesser Mystery Schools
 and the five Greater Ones which exist on earth today.
+
 In the far off past man's principal lessons were
 related to body building, including the physical,
 vital, and desire bodies, and while doing this work
 he was directed and assisted by the eleven creative
 Hierarchical life waves preceding his own and the
-
-72
-MUSIC AND EVOLUTION
 most advanced belonging to it also. From the Saturn
 Period until the Lemurian Epoch of the Earth
 Period man was hermaphrodite and able to produce
@@ -2626,6 +2463,7 @@ of the power incorporated within its own particular
 seed atom which is a minute, invisible, singing par-
 ticle of spirit substance, and is the exclusive property
 of the one to whom it was given.
+
 When the members of our life wave had progressed
 far enough to be ready for the next step in evolution,
 there was a separation of the positive and negative
@@ -2641,11 +2479,9 @@ upward became known as females, and those in which
 the negative force was turned upward were termed
 males. As a result woman is positive on the mental
 plane (Concrete Thought), and man is negative,
-
-
-MUSIC AS A BUILDING POWER 78
 while woman is negative on the physical plane and
 man is positive.
+
 One of the reasons for building a brain and larynx
 was that humanity was about to be given the germ
 of mind and needed a physical vehicle with which
@@ -2659,6 +2495,7 @@ and gradually become extinct. The Spirit would then
 reproduce its dense vehicle through the power of
 thought and the spoken word, using the brain and
 larynx as its instruments.
+
 The Spirit, guided and directed by the Angels,
 built the brain and the larynx by the power of love.
 The keynote of man is B major (5 sharps). The
@@ -2673,81 +2510,42 @@ and the brain so that they can express the things the
 Spirit wishes to objectify in the physical world.
 The Lords of Mind (Sagittarius), keynote F major
 (1 flat), chords and song, Nearer my God to Thee:
-Bb
-A
-G
-A
-Bb
-A
-G
-A
-F
-E
-F
-F
-F
-E
-F
-C
-C
-C
-D
-C
-C
-C
-F ch. C ch. F ch. Bb ch. C ch. C7th ch. F ch.
 
+|        |         |        |        |        |            |        |
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ |
+|        |         |        |        |        | Bb         |        |
+| A      | G       | A      | Bb     | A      | G          | A      |
+| F      | E       | F      | F      | F      | E          | F      |
+| C      | C       | C      | D      | C      | C          | C      |
+| F ch.  | C ch.   | F ch.  | Bb ch. | C ch.  | C 7th ch.  | F ch.  |
 
-74
-MUSIC AND EVOLUTION
 Angelic life wave, keynote A major (3 sharps),
 chords and song, The Home Over There:
-A
-B
-A
-A
-A
-G#
-A
-E
-G#
-E
-F#
-E
-E
-E
-C#
-E
-C#
-D
-C#
-D
-C#
-A ch. Ech. Ach. Bch. E ch. E7th ch. A ch.
+
+|        |         |        |        |        |            |        |
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ |
+| A      | B       | A      | A      | A      | G#         | A      |
+| E      | G#      | E      | F#     | E      | E          | E      |
+| C#     | E       | C#     | D      | C#     | D          | C#     |
+| A ch.  | E ch.   | A ch.  | B ch.  | E ch.  | E 7th ch.  | A ch.  |
+
 Humanity keynote B major (5 sharps), chords
-and song, Star-spangled Banner;
-B
-A#
-B
-B
-B
-A#
-B
-F# F# F# G# F#
-E
-F#
-D# C# D#
-D#
-E
-C#
-D#
-B ch. F#ch. Bch. Ech. Bch. F#7thch. B ch.
+and song, Star-spangled Banner:
+
+|        |         |        |        |        |            |        |
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ |
+|        |         |        |        |        | A#         |        |
+| B      | A#      | B      | B      | B      | F#         | B      |
+| F#     | F#      | F#     | G#     | F#     | E          | F#     |
+| D#     | C#      | D#     | E      | D#     | C#         | D#     |
+| B ch.  | F# ch.  | B ch.  | E ch.  | B ch.  | F# 7th ch. | B ch.  |
 
 Any music written in B major (5 sharps) is as
 yet hard to find. Examples of music written in A
 major (3 sharps, Angelic life wave key) are: Will
 There Be Any Stars in My Crown?, O Think of a
 Home Over There, and O Come All Ye Faithful.
+
 It was intended by the Creative Hierarchies that
 when man's brain was completed the Lords of Mer-
 eury, Elder Brothers of our present humanity who
@@ -2757,12 +2555,9 @@ plan was frustrated by the Lucifer Spirits, who were
 stragglers of the Angelic life wave. These Mars beings
 gained access to man's brain through the medium
 of the spinal cord, which they, being etheric, actually
-entered; and now they rule the left brain hemisphere,
+entered; and now they rule the left brain hemisphere.
+
 That part of the Angelic life wave that kept up
-
-
-MUSIC AS A BUILDING POWER
-75
 with its work in evolution in the Moon Period
 developed the power to reason and gain knowledge
 without the use of a brain; but the stragglers of
@@ -2784,6 +2579,7 @@ development. This they did in order that they might
 profit by it themselves, for having connected up with
 man's brain they were then able to gain knowledge
 as man acquired it and evolve thereby.
+
 Mars works with the solar forces and his rays act
 directly upon the third power of mankind, which is
 activity. These rays, being positive, develop a strong
@@ -2797,11 +2593,9 @@ in the intensity of feeling and evolve by it. The nature
 of the desire or emotion is not of importance to them,
 but the intensity is. Therefore they stir up the human
 passions of the lower nature, which are more intense
-
-76
-MUSIC AND EVOLUTION
 in our present stage of evolution than are our feelings
 of joy or love.
+
 According to the foregoing it will be noted that
 the Lucifers gained connection with humanity for
 two principal reasons, namely: that they might gain
@@ -2810,16 +2604,18 @@ his experiences in the physical world, and that they
 might induce strong passion in him and further
 evolve by the intensity of feeling that it aroused.
 
-CHAPTER XIII
-THE BRAIN, MAN'S PHYSICAL WORKSHOP
-HE brain is divided into three main primary
+### <h3 id="chapter-13">CHAPTER XIII: THE BRAIN, MAN'S PHYSICAL WORKSHOP</h3>
+
+THE brain is divided into three main primary
 divisions, namely, the cerebrum (large upper
-brain, the cerebellum (smail middle brain), and the
+brain), the cerebellum (smail middle brain), and the
 medulla oblongata (small lower brain).
+
 The cerebrum is used by the Spirit to express
 physical consciousness and direct thought. It is the
 instrument used by the Spirit to express its highest
 power on the physical plane--the will.
+
 The cerebellum is the part of the brain which the
 Spirit uses to bring about coordination in relation
 to the movements of the body, combining the separate
@@ -2827,17 +2623,15 @@ nerve activities into balanced harmonious action
 through the binding power of cohesion. The cerebellum
 is correlated to the secord aspect of man, the wisdom-
 love power.
+
 The medulla oblongata is that part of the brain
 used by the Spirit to control the heartbeat, the con-
 traction of the blood vessels, and breathing. Without
-T
-
-MAN'S PHYSICAL WORKSHOP
-77
 this brain activity, the processes of physical life could
 not go on. The medulla oblongata is therefore con-
 nected with the third power of man, his activity
 manifestation.
+
 The brain is permeated by vital body substance,
 desire body substance, and by abstract and concrete
 thought substance. It is therefore the particular physi-
@@ -2847,6 +2641,7 @@ ently assembled and ready for use. Impressions
 made by the outer world reach the Spirit through
 one or more of the five physical senses, by means
 of the channel of the vital body.
+
 The Spirit, the real man, is the thinker. The process
 of thinking is as follows: The will arouses the imag-
 ination, and it visualizes an idea composed of abstract
@@ -2862,15 +2657,13 @@ permeating the brain. This Desire World substance,
 being correlated to activity, gives the thought form
 power to act, which usually results in some sort of
 manifestation.
+
 In the study of thought and the mind let us re-
 member that thought is a power of the Spirit, and
 the mental body or mind composed of concrete
 thought substance, is the vehicle that connects the
 Spirit with its etheric and physical brain. The
 mental hody is attuned to F major or one flat, and
-
-78
-MUSIC AND EVOLUTION
 its scale begins with F. The vital body is attuned to
 C natural, and its scale begins with C. The physical
 body is attuned to A# (Bb) major which has two flats.
@@ -2881,6 +2674,7 @@ mately connected with the Spirit and the develop.
 ment of its potential powers, namely, the will (Divine
 Spirit power), wisdom-love (Life Spirit power), and
 activity germination (Human Spirit power).
+
 Thought is correlated to will, the first power of
 the Spirit. It expresses itself first as an idea which
 has not yet taken shape. Then the second power of the
@@ -2890,6 +2684,7 @@ form may be purely mental-that is, if it is untinged
 with desire. However, in our present stage of evolu-
 tion very few thoughts are free from some degree
 of desire.
+
 The World of Thought is the realm of music and
 the home of the Sagittarian life wave, the Lords of
 Mind; consequently it would be quite impossible to
@@ -2897,17 +2692,15 @@ produce a thought form apart from music. When
 the thought form becomes clothed in desire substance,
 color is added, as the Desire World is the realm of
 color.
+
 To summarize thought form building:
+
 The Spirit arouses its will. The power of the wil
 produces a radiating, musical vibration which mani
 fests as sound. Sound produces an idea. The idea
 takes shape, and a thought form comes into being
 The thought form is colored by desire substance. A
 colored floating form is produced. Thoughts are not
-
-
-MAN'S PHYSICAL WORKSHOP
-79
 silent. They speak in a language which is unmistak-
 able and conveys far more accurately than words
 can what is their intent, until the force which their
@@ -2916,10 +2709,12 @@ been spent. As they sing in a key peculiar to the
 person who gave them birth, it is a comparatively
 easy matter for the trained occultist to trace them to
 their source the originator.
+
 Thought forms lack spontaneity; they act more
-r less like automatons. They move and act in one
+or less like automatons. They move and act in one
 direction only, according to the will of the thinker,
 which is the motive power within them.
+
 No one who has not made a study of it can guess
 how many people are activated by thought forms
 which they think are their own, but which as a
@@ -2937,15 +2732,13 @@ may become not only accepted, but advocated by an
 entire community, state, or even a nation. Thoughts
 expressed in spoken words become all the more power-
 ful, particularly if uttered by a forceful speaker.
+
 Thought forms decrease in power in proportion to
 the distance traveled by them. The distance traveled,
 and the persistency to become effective depend upon
 the strength, definiteness, and clearness of the original
 thought.
 
-
-80
-MUSIC AND EVOLUTION
 Generally speaking, thought forms may be groupea
 in three specific classes: (1) A thought form may
 be a likeness of the thinker. This often happens. A
@@ -2964,8 +2757,6 @@ flower, or even a friend. The architect builds a
 thought form of the house he wishes to construct, the
 artist builds a thought form of the picture he wishes
 to paint; the writer builds thought forms of the
-
-Thought form built by envy and greed
 characters, scenery, et cetera, which he wishes to use
 in his book. Remember that it is the individual's will
 that originates thought forms, and these thought
@@ -2973,11 +2764,11 @@ forms have a certain amount of will incorporated
 in them. Frequently after they are created they keep
 forcing themselves into the thinker's consciousness,
 often to the extent of becoming quite annoying, par-
-
-MAN'S PHYSICAL WORKSHOP
-81
 ticularly if the thinker has changed his ideas on the
 particular subject they represent.
+
+<img alt="Thought form built by envy and greed">
+
 The only way to get rid of such unwelcome thoughts
 is through indifference. If one tries to fight them, the
 added force sent out
@@ -3008,13 +2799,11 @@ shaped figure reaching upward into space. All of
 these thought forms appear to be filled with life and
 vibrate at an intensely high rate. Of course, they
 all have color and tone.
-Prayer, and the response
-from above
+
+<img alt="Prayer, and the response from above">
+
 Thought forms directed toward an individual pro-
 duce a most interesting result. Either they find en-
-
-82
-MUSIC AND EVOLUTION
 trance into the aura of the individual, or else they
 rebound from that person's aura and return to the
 sender. Every thought form carries a particular rate
@@ -3045,9 +2834,8 @@ demoralizing vibrations serve no purpose but to in-
 stigate evil and to strengthen it wherever it already
 exists.
 
-CHAPTER XIV
-DEVELOPING THE EFFICIENCY OF
-THE MIND AND BRAIN
+### <h3 id="chapter-14">CHAPTER XIV: DEVELOPING THE EFFICIENCY OF THE MIND AND BRAIN</h3>
+
 UNFORTUNATELY at the present time none of us
 is altogether good, and we cannot hide from our-
 selves the fact that ofttimes the good we would do,
@@ -3058,6 +2846,7 @@ or most enjoyable thing to do; all of which points out
 the fact that we are all activated to some extent by
 the lower self; this opens up the way for evil thoughts
 to reach us and try out their influence.
+
 The great point to be remembered here is that
 every act, either good or evil, is directed by thought.
 Therefore each individual is assisting the work carried
@@ -3065,6 +2854,7 @@ on either by the good or the evil forces. It belhooves
 us consequently to keep a constant guard over our
 thoughts, for if they are righteous, our acts will
 always be directed toward good.
+
 There are four ways in which the mind, directed
 by the Spirit, uses the brain as a vehicle of thought
 expression, namely: (1) thought is thrown against
@@ -3076,12 +2866,9 @@ is able to impress itself directly upon the reflecting
 ether of the vital body without the necessity of cloth-
 ing itself in desire substance; (4) the life spirit can
 flash its message directly to the heart, which instan-
-83
-
-84
-MUSIC AND EVOLUTION
 taneously flashes it on to the brain by way of the
 pneumogastric nerve.
+
 The brain is built of practically the same sub-
 stances as are the other parts of the body with the
 addition of phosphorus, which is peculiar to the brain
@@ -3097,6 +2884,7 @@ stalks of beets, carrots, linseed (stalks), and parsnip
 leaves. The method of acquiring phosphorus in large
 quantity, however, is not by chemical metabolism, but
 by an alchemical process of soul growth.
+
 The phosphorus in the brain is the avenue of ingress
 of the divine impulse. Literally it is the light bearer,
 but not the light itself; that comes from the Spirit.
@@ -3114,11 +2902,9 @@ states that "Everyone that doeth evil hateth the light
 (which will reveal it), neither cometh to the light,
 lest his deeds should be reproved (by an enlightened
 conscience). But he that doeth truth cometh to the
-
-THE MIND AND BRAIN
-85
 light, that his deeds may be made manifest, that they
 are wrought of God."
+
 Next let us note how the mind, which is the link
 between the Spirit and the brain, may be improved.
 (1) Concentration is one of the great helps, for by
@@ -3138,24 +2924,22 @@ the mind from the influence of
 desire, for it is of the utmost
 importance that we have only
 the right kind of thoughts
-in our mind. Thoughts of like Thought form made by
+in our mind. Thoughts of like 
 character will be attracted to
-a blessing
 us by the thoughts already in our mind, and if our
 mind is centered on spiritual things, like will attract
 like, and our spiritual thoughts will not only grow
 and increase, but they will become a power in the
 world for good.
+
+<img alt="Thought form made by a blessing">
+
 Powerful thought forms, be they gocd or evil, very
 often become ensouled by elementals which by their
 nature attract good or evil to us, thereby having a
 really great effect on our well-being. In music the
 major keys express joy, gladness, hope, cheerfulness,
 aspiration. et cetera; while the minor keys produce
-
-
-86
-MUSIC AND EVOLUTION
 a wail of sorrow, a moan of grief, a sigh of depression,
 et cetera. Naturally, elementals bright and joyous
 are attracted to the good thought forms, which are
@@ -3175,6 +2959,7 @@ and some of them smell almost as bad as decaying
 bodies. The time has come when many of these thought
 forms are seen in people's auras, and plenty of them
 have been smelled.
+
 Here is a fact well worth knowing. Thought forms
 are kept alive and strengthened by a repetition of
 the same thoughts which originally built them. If
@@ -3189,11 +2974,7 @@ and smells that one can become a public nuisance. In
 the light of the foregoing it is easy to understand
 why the presence of some people buoys us up, while
 others have a depressing effect on those who contact
-them.
 
-
-THE MIND AND BRAIN
-87
 We must not get the idea that all thought forms
 vibrating to either major or minor tones are ensouled
 by elementals, but some of them most certainly are
@@ -3204,6 +2985,7 @@ vibration is gloomy, morose, sad, depressed, it is
 attracted to thought forms vibrating to a minor key.
 All of which is in harmony with the cosmic law of
 like attracting like.
+
 Thus it is evident that every individual has within
 himself a picture gallery and a most complicated
 musical instrument all his own. In fact he carries
@@ -3213,6 +2995,7 @@ his aura. The first mentioned he is able to conceal
 within himself, but the second is in full view of all
 clairvoyants who are able to see auras and thought
 forms.
+
 The quality of man's musical instrument depends
 on his stage of development. Elementals, as we have
 seen, respond to only one tone, either major or minor.
@@ -3221,23 +3004,22 @@ to seven distinet tones as represented by the seven
 tones of the musical scale, i.e., C, D, E, F, G, A, B, and
 many of their variations both in major and minor
 scales.
+
 The aura, we know, is composed of the vital, desire,
 and mental bodies. Each aura has a basic color. Max
 Heindel states that the basie color of the American
 (white race) is orange. The color, however, continually
 varies according to man's emotions.
+
 For instance, take a belligerent individual endeav-
 oring to incite a strike in a labor organization. Natur-
-
-
-88
-MUSIC AND EVOLUTION
 ally he is very much excited himself, and though the
 basic color of his aura is deep orange, this color for
 the time being will be almost obliterated by scarlet
 of the brightest hue. The contour of his desire body
 will be like the body of a porcupine with its quills
 striking out in all directions, ready for battle.
+
 Thoughts of fear and
 worry in the aura turn
 it to a steel gray color.
@@ -3255,26 +3037,24 @@ but which in reality
 actually encloses all of
 their own disturbing
 thought forms within
-Startled thought form
-caused by fear
 their own aura, there to be fed and enlivened by
 each like thought generated by them, Such auras
 are tuned to a minor key that sounds much like a
 dirge which can be sensed by sensitive people and
 often requires some time for them to throw off the
 feeling of depression which it generates,
+
+<img alt="Startled thought form caused by fear">
+
 So strong is this saturnine auric barrier that it
 seems to require a decided shock to break it up, some-
 times even running to the necessity of taking such
 persons out of their old environment and placing them
 in an entirely new one. These people seem to have
 drawn into a shell, so to speak, and their saturnine
-
-
-THE MIND AND BRAIN
-89
 shell must be broken before it is possible to get close
 enough to them to get them out of their pitiable state.
+
 Sometimes a sudden fright forms this shell instan-
 tanecusly, as often happens during terrific battles.
 Then the victim is called shell shocked, the truth being,
@@ -3288,6 +3068,7 @@ shock will break the shell and restore order and har-
 monious rhythm in the disarranged nervous system.
 Agam, time has been known to make the necessary
 adjustment.
+
 Every time thoughts of worry and fear are indulged
 in they lower the vibration of all the vehicles of the
 individual and this lowered vibration tends to congeal
@@ -3298,6 +3079,7 @@ from love, sympathy, and the help of all the world.
 We ought therefore to strive to be cheerful even
 under adverse circumstances lest we find ourselves
 in this serious condition.
+
 We may note from the foregoing that there are
 different degrees to which this shell encasement may
 crystallize and corresponding relief be given; but
@@ -3307,10 +3089,6 @@ body is different from all other emotions, Ordinarily
 emotion tends to excite the desire body and form
 its currents into some particular pattern or shape
 which persists until the emotion subsides. The effect
-
-
-20
-MUSIC AND EVOLUTION
 of worry on the desire body may be likened to water
 which is about to congeal under a lowering tempera-
 ture. Fear may be likened to this same water when
@@ -3322,6 +3100,7 @@ vibration of fear and worry victims, and it requires
 an accelerated vibration to dissolve their self-made
 steel shell. No individual can long remain gloomy
 when his whole being is flooded with inspiring music.
+
 Another kind of thought forms, frightful to behold,
 is created by anger, hate, rage, fury, wrath, et cetera.
 These thought forms produce lurid red currents in
@@ -3333,22 +3112,21 @@ body without that vehicle having control of itself,
 causing a temporary break between the Ego and the
 mind on one side, and the desire, vital, and physical
 bodies on the other.
+
 All kinds of martial music are dominated by rhythm
 and tend to excite the desire body into erratic activity.
 Music in which melody and harmony predominate are
 best suited to quiet the desire body when it is being
 activated by evil incentives and restore it to normalcy.
+
 Evil thought forms in the aura have a centrifugal
 motion. Good thought forms have a centripetal move-
 ment. Both good and bad thought forms are usually
 keyed to major tones except those of gloom, depression,
 fear, worry, grief, et cetera, all of which are minor
 in expression.
+
 As the thought forms of each individual are keyed
-
-
-THE MIND AND BRAIN
-91
 to his or her particular keynote, the time is coming
 when we shall all be able to trace every thought form
 which we contact to its originator by means of its
@@ -3357,10 +3135,7 @@ the things which we think are hidden shall be pro-
 claimed not from the housetops, but from our own
 individual aura.
 
-CHAPTER XV
-
-MAN'S VEHICLES, A COMPOSITE
-MUSICAL INSTRUMENT
+### <h3 id="chapter-15">CHAPTER XV: MAN'S VEHICLES, A COMPOSITE MUSICAL INSTRUMENT</h3>
 
 THOUGHT belongs to the highest power of the
 Spirit, which is will. Therefore as the potential
@@ -3382,9 +3157,6 @@ way. The method has been made known to man,
 but it depends on the individual whether he or she
 puts it into practice.
 
-
-92
-MUSIC AND EVOLUTION
 The potential powers of man, the Spirit, are will,
 the power to do, to instigate action, wisdom-love,
 the power of attraction, cohesion, and binding to-
@@ -3396,6 +3168,7 @@ same powers of God in a perfected state. His will
 power is expressed in melody, His wisdom-love power
 is expressed in harmony, and His activity power is
 expressed in rhythm.
+
 Man's divine spirit power is correlated to will;
 and the development of this power means the devel-
 opment of his will. Man's life spirit is correlated to
@@ -3408,6 +3181,7 @@ lated to his vital body, and his human spirit power
 is correlated to his desire body. This makes three
 direct sources from which the Spirit derives assist-
 ance in the development of its potential powers.
+
 There is no greater aid in the development of the
 Spirit's potential powers than music, for it is com-
 posed of the three parts which correlate it to the
@@ -3419,14 +3193,13 @@ its physical, vital, and desire bodies. The raising of
 the vibration of these seven sources of power develops
 the powers of the Spirit. But discordant, so-called
 music lowers their vibration, a continuation of which
-
-MAN'S VEHICLES
-98
 will result in loss of power and disintegration of
 the four lower vehicles.
+
 The following is a summary of why and how music
 assists in developing the potential powers of the
 Spirit:
+
 The keynote of the Divine Spirit is A# (Bb) major
 written in the key of 2 flats, and any music written
 in this key therefore helps to develop the power of
@@ -3435,12 +3208,14 @@ state of dorinancy. The chords of this scale are found
 in Chapter VI. Abide with Me, and Onward Chris
 tian Soldiers are two well known hymns written in
 the key of Bb major.
+
 The keynote of the Life Spirit is G# (Ab) major,
 and its scale has four flats. Music written in this key
 helps to develop the powers of the Life Spirit by
 arousing them into activity. The chords of G# (Ab)
 major are given in Chapter VI.
-this germ carried the vibration keynote A# (Bb)
+
+This germ carried the vibration keynote A# (Bb)
 major of that life wave, the dense or physical body
 of each individual vibrates in unison with the vibra-
 tion of the Leo life wave. Therefore the keynote of
@@ -3448,6 +3223,7 @@ the dense body is A# (Bb) major and all music writ-
 ten in that key helps to develop the dense body of
 man. The A# (Bb) major chords are found in
 Chapter VI.
+
 As before stated, the germ of the dense body was
 given to humanity by the Leo life wave; and as
 this germ carried the vibration keynote A# major of
@@ -3456,23 +3232,22 @@ individual vibrates in unison with the vibration of
 the Leo life wave. Therefore the keynote of the dense
 body is A# major and all music written in that key
 helps to develop the dense body of man. The A#
-
-
-94
-MUSIC AND EVOLUTION
 major chords are found in Chapter VI.
+
 The germ of the vital body was given to mankind
 by the Virgo life wave. Accordingly the vital body
 vibrates to the keynote of that life wave which is
 C natural. All music whose keynote is C natural
 helps to develop the powers of the vital body. The
 chords of C natural are found in Chapter VI.
+
 The germ of the desire body was a gift from the
 Libra life wave and carries the Libra vibration which
 is keyed to D major. Therefore all music written
 in that key helps to develop the powers of the desire
 body. The chords of D major are found in Chap-
 ter VI.
+
 The germ of the mind was given to humanity by
 the Sagittarian life wave, and therefore vibrates to
 their neynote, which is F major. All music written
@@ -3484,6 +3259,7 @@ this key, particularly songs both popular and re-
 ligious; two of which are Work for the Night Is
 Coming, and America. The chords of F major are
 found in Chapter VII.
+
 Music contains within itself the three great primary
 powers of God, will, wisdom-love, and activity com-
 bined; and it is this combined dynamic power that
@@ -3494,14 +3270,12 @@ states that it is the majestic rhythm of the Word of
 God that wrought the primal substance, arche, into
 the multitudinous forms that comprise the phenomenal
 world; and moreover, that this Word of God still
-
-MAN'S VEHICLES
-95
 sounds, to sustain the marching orbs and impel them
 onward in their circle paths; and that the Creative
 Word continues to produce forms of gradually in-
 creasing efficiency as a medium for expressing life
 and consciousness.
+
 It is the harmonious enunciation of consecutive
 syllables in the Divine Creative Word that marks the
 successive stages in the development of both the world
@@ -3509,6 +3283,7 @@ and man; and when the last syllable has been sounded
 and the complete Word spoken, mankind will have
 reached as near perfection as it is possible to do in
 the present scheme of evolution.
+
 That the whole solar system is one vast musical
 instrument is a fact now known to all advanced occult
 students. They further realize that the twelve semi-
@@ -3519,21 +3294,20 @@ correlated to the Seven Spirits before the Throne
 commonly designated as Mercury, Venus, Earth, Mars,
 Jupiter, Saturn, and Uranus, who work by means of
 the vibrations sent out by themselves.
+
 The advanced occultist likens the signs of the zodiac
 to the sounding board of the cosmic harp, and the
 seven planets to the strings, which planets emit differ-
 ent sounds as they pass through the various zodiacal
 signs and therefore influence mankind in diverse
 ways.
+
 An astonishing fact hitherto unknown and there-
 fore unrealized is that each individual is in himself
 a musical instrument, the various parts of his entire
 composition being correlated through vibratory tones
 to the Seven Spirits before the Throne and the twelve
 signs of the zodiac, all of which are guided and
-
-96
-MUSIC AND EVOLUTION
 directed by the Creator of our solar system. It is
 for this very reason that music has such a tremendous
 power in the development of man's potentialities.
@@ -3544,6 +3318,7 @@ thyself;" for as soon as each individual comes into a
 conscious realization of his own true self, he then
 has in his possession the key to all future advancement.
 
+```
 When Light unveiled her radiant face,
 And wrapped the world in her embrace,
 When into space the planets swung-
@@ -3551,5 +3326,4 @@ This song the heavenly choir sung:
 "O sacred pulse! O law divine!
 All purpose and all power are thine,
 For Life goes on forever."
-
-
+```
