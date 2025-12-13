@@ -1,0 +1,58 @@
+---
+title: "Pamphlet №29: Learning Disabilities"
+language: 'en'
+original_title: "Pamphlet №29: Learning Disabilities"
+original_language: 'en'
+author: '???'
+original_source_file: 'self'
+---
+
+<h1 id="learning-disabilities">Pamphlet №29: Learning Disabilities</h1>
+
+### <h3 id="learning-disabilities">Learning Disabilities</h3>
+
+Mental retardation is one of the most tragic and least understood of social problems. In former years the mentally deranged regarded as beyond help were locked up often under hideously deplorable conditions, and left to vegetate, out of sight of “respectable” people. More recently of course gratifying progress has been made in care and treatment of these unfortunate individuals and a generally more enlightened public attitude is permitting them increasingly to live as recognized members of society often operating usefully within their limited range of capabilities.
+
+Such advances however do not remove the pain felt by parents of a retarded child or the suffering incumbent upon families of these sadly afflicted individuals. If the cause of mental retardation were generally known the conflicts and tortures experienced by these people would be far better understood and mankind could begin to set the stage for an eventual end to this problem.
+
+When a person is mentally retarded he or she lacks an instrument with which to reason communicate and fully control the body. Why does this happen? When viewed from the perspective of one lifetime mental retardation seems cruel and unfair. However if we remember that human evolution continues over a series of lives it helps us understand the present and gives hope for the future.
+
+### <h3 id="law-of-cause-and-effect">Law of Cause and Effect</h3>
+
+Mental retardation is rightly regarded as an illness. Just as any other illness it is suffered by an individual engendered solely by his own behavior during the present or a previous life. Under the Law of Consequence we reap precisely what we sow and if we engage in excesses or depraved conduct of any sort a comparable toll will be taken of our ability to function during a future physical embodiment, and to make consequent evolutionary progress.
+
+### <h3 id="abuse-of-the-creative-function">Abuse of the Creative Function</h3>
+
+The disabilities which affect humanity are divisible into two categories: mental and physical. Mental troubles are particularly traceable to abuse of the creative function. As the Holy Spirit is the creative energy in Nature, the sex energy is its reflection in man, and misuse or abuse of that power is the sin that must be expiated in impaired efficiency of the vehicles, in order thoroughly to teach us the sanctity of the creative force. Occult science teaches that the sex function should never be used for sense gratification, but for propagation only. The tremendous amount of creative force thus saved, then, may be transmuted into spiritual energy and used on a higher plane as the agent of epigenesis – the ability to create something new.
+
+Occult science also teaches that the brain and the larynx were built by the Angels with half of the creative force so that man who, prior to the acquisition of these organs, was bisexual and able to create from himself alone, lost that faculty when these organs were created and is now dependent upon the cooperation of another of the opposite sex in order to generate a new vehicle for an incoming Spirit. There is, therefore, a close connection between sexual activity and mental activity, as well as the power of speech. Proof of this is shown in the case of the sex maniac, who becomes an idiot, unable to think clearly because he is continually occupied in drawing and sending out not only that part of the sex force which is normally to be used for propagation, but also much of the force which should be used to build up the brain, enabling it to produce thought.
+
+Spiritual sight reveals that when man was yet in the making there was a desire current wherever there is now a nerve; the brain and larynx themselves were first made of desire substance. It was desire that first sent a motive impulse through the brain and created these nerve currents, that the body might be moved and obtain for the Spirit whatever gratification was indicated by desire. Speech, also, is used for the purpose of obtaining a desired object or end. Through these faculties man has obtained a certain mastery over the world, and if he could just flit from one body to another, there would be no end to his abuse of his power for gratifying every whim and desire. Under the Law of Consequence, however, he takes with him into a new body faculties and organs which are similar to those which he left behind in the one preceding.
+
+### <h3 id="stamping-the-seed-atom">Stamping the Seed Atom</h3>
+
+When passion has wrecked the body in one life, it is stamped upon the seed atom. In the next descent to rebirth it is, therefore, impossible for the Ego to gather sound material with which to build a brain of stable construction. He is then usually born under one of the common signs of the zodiac, and usually, also, the four common signs are on the angles, for through these signs passionate desire finds it difficult to express itself. Thus the powerful impulse which formerly ruled in his brain and which might be used for the purpose of rejuvenescence is absent; he lacks incentive in life and therefore he becomes helpless – often insane.
+
+The Spirit, however, is not insane. It sees, knows, and has a keen desire to use the body, though that may be an impossibility, for often it cannot even send a correct impulse along the nerves. The muscles of face and body are therefore not under the control of its will. This accounts for the lack of coordination which makes the afflicted one such a pitiable sight. Thus it is that the Spirit learns one of the hardest lessons in life: that it is worse than death to be tied to a living body and unable to find expression through it because the desire force necessary to accomplish thought, speech, and motion has been spent in unrighteous living in a previous life, leaving the Spirit without the necessary energy to operate its present fleshly instrument.
+
+### <h3 id="resisting-a-hard-life">Resisting a Hard Life</h3>
+
+There is one notable exception to the general rule that mental disabilities are traceable to abuse of the creative function in a past life. When an Ego comes down to rebirth he sees, upon entering the womb, a panorama of the coming life. If it appears that the life is to be particularly hard, and the Ego feels unwilling to undergo the experience, it sometimes tries to run away from the school of life. At this time, the connection between the vital body and the sense centers of the brain in the forming fetus already has been made; therefore, the effort of the Spirit to escape from the mother’s womb is frustrated. The wrench that is given by the Ego, however, deranges the connection between the etheric and physical sense centers, so that the vital body is not concentric with the physical, causing the etheric head to extend above the physical cranium. Thus it is impossible for the Spirit to use the dense vehicle; it is tied to a mindless body which it cannot use, and the embodiment is practically wasted.
+
+There are also cases where a great shock later in life causes the Spirit to endeavor to run away with the invisible vehicles. As a result, a similar wrench is given to the etheric sense centers in the brain, and the shock deranges the mental expression. Everyone, after being particularly frightened, has probably felt a similar sensation – a surging, as if something were endeavoring to get out of the dense body. This sensation is caused by the desire and vital bodies, which act so swiftly that an express train is slow in comparison. They sense the danger, and are frightened before the scare is transmitted to the inert and slow physical body in which they are anchored, and which prevents their escape under ordinary strain. Sometimes, however, the shock is sufficiently severe as to give them such an impulse that the etheric sense centers are deranged. Just as a ligament that has been stretched and torn gradually may regain comparative elasticity, however, so also, in these cases, is it easier to restore the mental faculties than it is in cases in which congenital insanity, brought over from past lives, has caused inadequate connection. Thus we see that mental retardation is not the result of “injustice” on the part of a capricious God, as some have suggested, nor is it an unfortunate accident. It is the result of the Ego’s own conduct and, as in the case of all ailments, the afflicted individual has brought it upon himself.
+
+### <h3 id="the-value-of-encouragement">The Value of Encouragement</h3>
+
+This is certainly not to say, of course, that the mentally retarded should be regarded in any way except with deep sympathy and concern. Every effort should be made to continue and expand the fine programs of education and self- help now being administered for many of these individuals. Certainly, the more compassionate help they receive during the present distressed and disoriented lifetime, and the more they are encouraged to work with their personal limitations, restricted though these may be, the more progress they will be able to make in this incarnation.
+
+We can help a person suffering from mental retardation by respecting his right to grow at his own rate. Try to understand how he views the world, how he feels, and what he wants to do. However “inferior” a mentally retarded person seems to be, we do well to remember that all humanity’s present mental development is primitive in comparison with God-like potential which eventually will be realized.
+
+### <h3 id="transmuting-the-creative-force">Transmuting the Creative Force</h3>
+
+If mental retardation is to be prevented, however, it is high time that the relationship between this affliction and the improper use of the sacred creative force becomes universally recognized. The generally prevalent modern attitude which condones moral laxity and encourages sexual indulgence for the sake of pleasure cannot help but result in disastrous future consequences for many individual members of the human race. Such extreme behavior will have to be expiated, and it is certain that one who indulges his passions in this lifetime will reap the painful consequences in another, if not in the present one.
+
+We already have lived through a mineral-, a plant-, and an animal-like existence before becoming human as we are today. Beyond us lie still further steps of evolution where we shall approach the Divine more and more. Our animal passions restrain us on the path of attainment, and chastity – except for purposes of procreation – is essential to spiritual progress. It is obvious, too, that very little material progress can be made by the mentally handicapped.
+
+At our present stage of evolution, all our vital force – save that insignificant quantity required to propagate the race – should be transmuted by sublimation of the mind and emotions into soul power. Not until this fact becomes generally known and accepted will the race free itself from the mental, as well as the physical, limitations which now cause so much suffering and impede our evolutionary advancement.
+
+If a mentally retarded person sparks within us a sense of the tremendous growth we ourselves have yet to achieve, we may thank the person for this spiritual lesson and bless him or her in the struggle to learn, speak, and direct the body.
