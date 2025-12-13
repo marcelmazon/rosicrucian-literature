@@ -1,0 +1,99 @@
+---
+
+title: "Pamphlet №30: Motherhood"
+
+language: 'en'
+
+original_title: "Pamphlet №30: Motherhood"
+
+original_language: 'en'
+
+author: '???'
+
+original_source_file: 'self'
+
+---
+
+<h1 id="motherhood">Pamphlet №30: Motherhood</h1>
+
+### <h3 id="motherhood">Motherhood</h3>
+
+Despite current efforts in some circles to disparage motherhood and degrade it as a function involving drudgery and boredom, the role of motherhood, when examined in the light of the deeper teachings, is one of the most fulfilling to which a woman can aspire and one of the most important in which she can engage. The responsibilities and privileges of motherhood, if entered into reverently and seriously, can make for some of the most rewarding of earthly experience and produce valuable soul growth.
+
+Every mother provides the initial physical vehicle used by an Ego returning to rebirth. Every mother, more than any other single individual, is in a position to determine the type of environment in which her youngster will grow up, and the influences to which he will be subject during his formative years. Every mother, because of the care or lack of care she has given to her own physical, mental, and emotional vehicles, and because of her own deep- seated attitudes, is influential in determining the degree of health or illness with which the forming vehicles of her offspring will be developed.
+
+### <h3 id="astrology-and-conception">Astrology and Conception</h3>
+
+From the occult point of view, attempts to conceive children should be made only when planetary lines of force are favorable; at all other times the creative force should be channeled into avenues of mental creativity and not used for purposes of pleasure or passion.
+
+Speaking strictly from an astrological point of view, there are two main conditions to be considered if we wish to provide an incoming Ego with harmonious conditions. First, the prospective parents should be harmoniously matched, and, secondly, the time of conception should be planned for when the prevailing planetary forces are in harmonious synchronization with those indicated in the horoscopes of the parents. By “harmonious” we do not mean necessarily all trines and sextiles, for harmony must also be balanced by the right kind and amount of dissonance in order to be effective.
+
+Although it may be true that the fall of man came about as a result of ignorant indulgence in the creative act, however, we cannot hope to rectify the situation merely by once again planning the conception of children under harmonious planetary conditions. Man has grown and developed considerably since that time long ago, and as a result, the requirements made of modern man are also greater.
+
+There is a great truth in astrology which, unfortunately, is ignored by many people: a horoscope cannot promise more than what is inherent in the essential nature of a thing. Consequently, we must ask ourselves: Of what value is it to take note of favorable planetary conditions if we do not at the same time consider our state of physical, moral, mental, and spiritual purity? If these things are of poor quality, then, regardless of the nature of planetary conditions, the results to be realized through them cannot be very good.
+
+### <h3 id="purification">Purification</h3>
+
+Thus, if we wish to conceive children who will be healthy on all levels, we must not only watch for harmonious planetary conditions, but we must also purify ourselves to the greatest extent possible. Then, when both the inner conditions indicated by planetary positions are right, we can expect to achieve a higher standard of conception of children.
+
+Since most human beings have not yet evolved to such a high point, it is understood that a life of near-celibacy would as yet be too much to expect from the majority of humanity. Therefore, children continue to be conceived at inopportune times.
+
+Once conception has taken place, whether deliberately or unintentionally, the mother’s first duty is to that child. She and the father have, by their actions, made themselves responsible for an Ego returning to earthly life. Whether it is convenient or not, they must discharge that responsibility to the best of their ability, both for the sake of the incoming Ego and for the sake of their own futures. The ease with which pregnancies are currently terminated simply for the sake of convenience is reprehensible, and we may be sure that those involved are incurring heavy debts of destiny for themselves.
+
+The epitome of motherhood is found in Mary, the mother of Jesus. In the orthodox Christian tradition she is revered as an immaculate virgin, of inviolable purity and spirituality. Esoteric Christianity also reveres her for her spiritual purity, but teaches that the “immaculate conception” refers to the fact that Mary and Joseph, two of the most advanced members of the human race, were able to perform the generative act without passion, and solely for the purpose of making it possible for the Ego known as Jesus to incarnate on Earth. Jesus, whose mission was to develop his physical vehicle for the use of the Christ, was necessarily the most pure, high minded, and spiritually evolved human being. His mother, of necessity, also had to embody similar purity and nobility, for only then would she have been fit to carry and raise a son of such exalted stature.
+
+Ideally, then, a lifetime of pure, selfless living in accordance with the precepts of natural law is the best preparation for motherhood. The more experience the prospective mother has had in “living the life” and in giving the best possible care to her own vehicles, the more able she will be to work with her child along the same lines. Certainly, however, no matter what direction the previous years of her life may have taken, as soon as a woman becomes aware that she is carrying a child, it is her responsibility to make a concerted effort to think only those thoughts, and do only those things, which will enhance the welfare of the child.
+
+### <h3 id="harmful-habits">Harmful Habits</h3>
+
+Scientific studies are showing that such injurious habits as smoking, drinking alcoholic beverages, and taking drugs, cause considerable harm to the developing fetus. Hopefully, the concurrence of material science in this view will help persuade some prospective mothers to give up these practices when they otherwise might not have done so. It seems, however, that common sense alone would be sufficient to show that these noxious habits are potentially as dangerous to the child developing within the mother’s womb as they are to the mother herself.
+
+The same is true of the food that the mother consumes particularly during the time she is carrying the child. A diet rich in nutritive essentials helps provide the mother with the strength to do her job properly, and furnishes the best matter with which to construct the child’s vehicles. In contrast, a poor diet, consisting largely of refined products, sweets, flesh foods and other harmful elements, is detrimental to both Egos concerned.
+
+### <h3 id="peaceful-surroundings">Peaceful Surroundings</h3>
+
+Equally important are the thoughts that the mother sends out toward her child. The time of return to Earth life is particularly hard on an Ego. He is leaving the security and harmony of the spiritual world and returning to physical manifestation with its attendant tumult and pain. No matter how eager he may be to resume physical experiences, the actual “plunge into matter” cannot be other than unsettling. Incalculable help is received by an Ego who at this time feels himself loved and wanted. If he senses that the family into which he is being born and particularly his parents, are prepared to welcome him with open arms, the vicissitudes of his forthcoming life lose some of their sting. It is perhaps even more true for an incoming Ego than for one who has been somewhat hardened by years of earthly experience that the presence of love lessens all burdens, while the absence of love increases the weight of even the smallest annoyances.
+
+Important, too, is the atmosphere in which the mother moves and is allowed to move. If her home life is peaceful, if she herself is the recipient of affectionate care from husband and family, if she is surrounded by and can appreciate that which is beautiful in the spiritual sense – classical music, flowers, uplifting literature, etc. – all this will be reflected not only in her own state of mind and being but also, ultimately, in the well-being and the interests of the child that she carries. To the extent that disharmony, crassness, ugliness, depravity, and activities of questionable taste are allowed to penetrate the mother’s consciousness and disturb her equanimity, both she and the child will suffer.
+
+### <h3 id="the-ego-and-the-laws">The Ego and the Laws</h3>
+
+Occult science knows that the Law of Consequence and the Law of Attraction govern the placement of every incoming Ego in a particular family and environment. Unfriendly associations between Egos in previous lives must be continued until they are resolved in mutual love. This is why antagonisms among members of individual families are not uncommon. It sometimes happens that there seems to be an underlying antagonism between the mother and her child, sensed from the outset. This is clearly a case of two Egos who are being given an opportunity favorably to resolve their relationship. Such a situation, of course, requires particular wisdom and perspicacity on the part of the mother – as well as of the child as he matures. Conversely, family members who are drawn in close affection to one another may also have earned the right to such a felicitous relationship as a result of conduct in their previous lives.
+
+The Law of Consequence, too, helps determine the well-being of the incoming Ego, as well as, to a degree, the circumstances in which he must live his life. Former lack of care of his vehicles results in weakened ones in the present lifetime. Debts of destiny may indicate that the Ego must grow up amid deprivation of one sort or another. Although these natural laws cannot be thwarted, and the lessons to be learned under them must be learned, the spiritually astute mother can nevertheless do much to alleviate distressing conditions. If an Ego must live this life with a weak physical body, for instance, the mother still has the prerogative – as well as the duty – of teaching him the rules of diet and hygiene which will enable him to make the best use of what he has and, perhaps, even strengthen what might otherwise be a debilitating weakness. Similarly, although a family may not have the money with which to surround a child with material advantages, the mother (and the father) can still give of themselves. If they show love and concern for the children and active interest in what the children think, do, and feel, their creative presence will be of far greater value in molding the children into morally upstanding, self-sufficient, and reliable human beings than would merely a proliferation of “things.”
+
+### <h3 id="astrology-an-aid">Astrology An Aid</h3>
+
+Once the child is born, it would be wise for the mother to set up his horoscope as soon as possible. Ideally, she is sufficiently proficient in astrology to be able to do this and interpret the chart herself; if she had not studied astrology before the conception of her child, a study of this divine science would be a spiritually profitable way of spending some of the time during the months of waiting. In any case, an interpretation of the child’s horoscope, made by a qualified <em>spiritual</em> astrologer, should be carefully studied by the mother.
+
+Planetary configurations at the moment an infant takes his first breath reveal the strengths and weaknesses with which he has returned to Earth – characteristics merited by conduct in previous lives. Knowing the particulars of the influences, good and bad, to which her child is prone, and knowing his strong points and those areas in which he must work hard to improve himself, she can guide the totality of his experiences during his early years accordingly. If he is likely to be prone to sensual indulgence, stressing of moderation in all things is in order. If he is likely to be withdrawn or hostile to other people, the mother would do well to guide him into experiences in which he has to “come out of his shell,” to share with playmates, to do little things in service to family members or other children, etc. If an inclination toward material supremacy, power, or intellectual prestige are present, particular diligence in trying to bring out the child’s spiritual nature and enhance his spiritual understanding is important.
+
+### <h3 id="education">Education</h3>
+
+In this connection, it helps to remember that children are fresh from the heaven worlds, where the skepticism, cynicism, and illusion of the physical world are unknown. A strong foundation of esoteric Christian philosophy, couched in terms meaningful to children, will equip them as adults to lead wholesome lives. The basic tenets of the Rosicrucian Fellowship Philosophy, and particularly the concept of universal brotherhood and love, can be conveyed even to very young children.
+
+Because young children are uncritical, imitative, and teachable, the attitudes and actions of close associates, particularly the mother, comprise a lasting influence on them. Those close associates, again particularly the mother, cannot help but engender in them habits and patterns of conduct which are very hard to unlearn later in life. For this reason, the mother must be particularly careful of her self-expression at all times, even when she thinks the child is not observing her. Ideally, she is unprejudiced, but if she has prejudices she does well to keep them to herself as best she can. Ideally, she is unafraid of any experiences life has to offer, but even if she cannot rid herself of fears and worries, her first duty is to communicate optimism and confidence to her child. Ideally, she has already learned to live a pure, selfless life, but if her lower nature is still importuning her to this or that physical or emotional indulgence, she makes every effort to suppress the inclination and force it to wither away as a result of indifference.
+
+Certainly patience is an important characteristic for the mother to cultivate if she has not already done so. Certainly, too, there are likely to be times when the strain of raising a family tells on her. Even in the most affectionate home environment, the problems of maintaining the household smoothly, preparing meals, and all the myriad other facets of housekeeping, coupled with the continuing care of energetic toddlers and small children, at times tax a mother’s strength to the utmost. It is at this point that the level of her development and understanding shows itself most clearly. The higher powers are always ready to help anyone who turns to them prayerfully for guidance, particularly a mother who is trying faithfully to discharge her obligations to her family.
+
+### <h3 id="development-of-bodies">Development of Bodies</h3>
+
+The child’s physical body develops most during his first seven years, and in much of this period he is a dynamo of curiosity, investigation, physical experimentation and often in all innocence, mischief. The mother who can gently though firmly help him guide this abundance of energy into channels which are best suited to his development contributes greatly to his future self-control, self-reliance, and self-satisfaction.
+
+Of course, too, it is impossible to reason with a child at this age. If he does not respond favorably to suggestions of alternative behavior – far better than a steady stream of “don’ts” –discipline is necessary. The type of discipline meted out by the mother again shows her own level of development. Corporal punishment – the slap or spanking administered in anger – may serve to release her pent up emotions, or to reinforce her sense of superiority over the child. The lasting effect on the child, however, is negative.
+
+If discipline is needed, therefore, it is much more effective, in the long run, to withhold favors and withdraw privileges. This policy will impress upon him the impropriety of his conduct without submitting him to the indignity of physical punishment.
+
+Another responsibility of the mother, particularly during these early years, is to subject the child as much as possible to the influence of good music and rhythm. All created things are the embodiments of the great Cosmic Word continually resounding through the universe. Although we cannot hear the music of the spheres, we can work on the child’s body by terrestrial music. Nursery rhymes have wonderful rhythm. The more a child is taught to say, sing, and repeat them, to dance and to march to them, and the more music is incorporated into his daily life, the stronger and healthier will his body be in later years.
+
+Children under the age of fourteen are in a way still a part of their parents, because in the thymus gland is stored an essence of the parental blood which the child uses in manufacturing its own blood during the years of childhood. The thymus gland of the infant is largest just before birth and diminishes as time goes on. At about the fourteenth year the Ego is ready to assert itself and is able to manufacture its own blood. It becomes an “I” identity.
+
+### <h3 id="etheric-vision">Etheric Vision</h3>
+
+One of the saddest failings of some modern mothers is their inability to tolerate, much less understand, their children’s “invisible playmates.” It is common for children to have etheric vision during their earliest years, and a child who tells of seeing fairies or angels, or who insists that the unseen little boy who is his constant companion wants to ride in the car too, is most likely not “making up stories.” “Invisible playmates” are very real entities, as much a part of many children’s lives as are their “flesh and blood” playmates. The wise mother understands this and accords them what would be proper respect in her child’s eyes, even though she herself is unaware a their presence.
+
+Imagination, however, does have a significant place in the child’s life. From imagination stems creativity; without imagination a creative life is not possible. The mother who permits a child’s imagination to be stultified by allowing him to spend much of his time at indiscriminate television viewing instead of engaging in creative play and “pretend,” or who lavishes quantities of ready-made toys upon him instead of giving him the opportunity to create his own play-things, diminishes his ability to cope with future crises, as well as, positively, to make useful contributions to society in his adult life. The cry, “I’m bored,” or “I’ve got nothing to do,” does not issue from children whose mothers are wise enough to encourage their imaginative pursuits and their creative instincts.
+
+### <h3 id="security-of-love">Security of Love</h3>
+
+In whatever she does, the mother’s primary concern should be to show her child the love, compassion, and understanding which will reinforce for the good the impressions of his formative years. It is not easy to be a child. Restrictions beset him at every turn, and his very size is against him in a world of big people with big furniture. There are more things in his life to be contended with, learned, and mastered than there are to be enjoyed or to feel comfortable and confident with. The sense that he is secure in his mother’s love, and that she will be patient and understanding, no matter what he does or does not do, not only makes the immediate process of growing up much easier, but also provides a foundation of self-confidence that will be invaluable in his later years.
