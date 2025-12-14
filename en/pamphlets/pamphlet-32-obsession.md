@@ -1,0 +1,86 @@
+---
+title: "Pamphlet №32: Obsession"
+language: 'en'
+original_title: "Pamphlet №32: Obsession"
+original_language: 'en'
+author: '???'
+original_source_file: 'self'
+---
+
+<article id="obsession">
+
+<h1 id="obsession">Pamphlet №32: Obsession</h1>
+
+### <h3 id="obsession">Obsession</h3>
+
+Obsession is a state in which a discarnate spirit has taken permanent possession of the body of someone after dispossessing the owner. Sometimes people who have formed a habit of drunkenness or some other low vice seek to excuse themselves by claiming to be obsessed. Whenever a person makes that statement concerning himself, one may nearly always be sure that it is nothing but an excuse. A thief who has stolen something here in the material world does not go about telling people of his theft; neither does an obsessing entity go around proclaiming the fact. It is very certain that such an entity does not care what is thought about the man whose body he has stolen, so there is no reason why he should tell and risk being exorcised.
+
+### <h3 id="diagnosing-the-eye">Diagnosing the Eye</h3>
+
+There is an infallible means of knowing whether or not a person is really obsessed: namely’ by diagnosis of the eye. “The eye is the window of the soul,” and only the true owner is capable of contracting and expanding the iris, or pupil, of the eye. If we take a person who claims to be obsessed or whom we think is obsessed to a darkened room, we shall find that the pupil of his eye will not expand if he is obsessed. Neither will the pupil contract when we bring him into the sunlight or when he is asked to read small type, nor expand if we ask him to look at a distant object. In short, the pupil of the eye will respond neither to light nor to distance when a person is obsessed. Lack of such response does not always indicate obsession, however. There is also a disease, called locomotor ataxia, in which the iris will not respond to distance but is responsive to light.
+
+### <h3 id="earthbound-spirits">Earthbound Spirits</h3>
+
+Earthbound Spirits gravitate to the lower regions of the Desire World which interpenetrate the ether, and are in constant and close touch with those people on Earth most favorably situated for aiding them in their evil designs. They usually stay in this earthbound condition for fifty, sixty, or seventy- five years, but extreme cases have been found in which such people so remain for centuries. So far as the writer (Max Heindel) has been able to discover, there seems to be no limit to what they may do or how soon they will let go. But all the while they are piling up for themselves an awful load of sin, nor can they escape suffering therefore; for the vital body reflects and etches deeply into the desire body a record of their misdeeds, and when at last they do let go and enter the purgatorial existence, they meet the retribution which they well deserve. This suffering is naturally lengthy in proportion to the time they have continued their nefarious practices after the death of the dense body – another proof that “Though the mills of God grind slowly, yet they grind exceedingly small.”
+
+### <h3 id="sin-body">Sin Body</h3>
+
+When the Spirit has left the sin body, as we will call this vehicle – in contrast to the soul body – to ascend to the Second Heaven, it does not disintegrate as quickly as the ordinary shell left behind by normal people, for the consciousness in it is enhanced by its dual composition; that is to say, being composed of both a vital and desire body, it has an individual or a personal consciousness that is very remarkable. It cannot reason, but there is a low cunning present which makes it seem as though it were actually endowed with a spiritual presence, an Ego, and this enables it to live a separate life for many centuries. The departed Spirit meanwhile enters the Second Heaven, but having done no work on Earth to desire or merit a prolonged stay there or in the Third Heaven, it stays there only sufficiently long to create a new environment for itself and it is then reborn much earlier than usual – to satisfy the cravings for material things which draw it so strongly.
+
+### <h3 id="demons">Demons</h3>
+
+When the Spirit returns to Earth, this sin body is naturally attracted towards it, and usually stays with it all its life as a demon. Investigations have proved that this class of soulless creatures was very prevalent during biblical times. It was to them that our Savior referred as devils – they being the cause of various obsessions and bodily ills such as are recorded in the Bible. The Greek word “daemon” describes them accurately.
+
+### <h3 id="the-threefold-body">The Threefold Body</h3>
+
+We are told in <a href="www.rosicrucian.com/rcc/rcceng00.html">The Rosicrucian Cosmo-Conception</a> that man is a threefold Spirit, and that he functions in a threefold body; of these bodies only one can be seen with the physical eye. Paul says in I Corinthians 15:40: “There are celestial bodies and bodies terrestrial,” in 15:44 “There is a natural body and there is a spiritual body.” The Rosicrucian teachings recognize both the natural and the spiritual bodies spoken of by Paul, but they also hold that these two bodies are interpenetrated by an invisible vehicle called the vital body which keeps the dense body in health, building and restoring during sleep what man with his desires has torn down during the day; also that man’s threefold body corresponds to various invisible worlds which surround him and that it consists of the same grades of substance. The dense physical, the etheric, and the desire worlds, the various planes of existence, are of different degrees of density and interpenetrate one another. For instance, in the desire world the density of desire stuff causes it to act analogously to smoke, the heaviest of which clings low about the earth, while the purer or lighter rises into the air.
+
+During man’s life in the physical world he is constantly building his invisible bodies by his thoughts, desires, and emotions. If his desires draw him downward into a life of the senses, if his time is spent in useless pleasures and self-gratification, or if he has no higher aspiration than that of accumulating wealth, then his desire body may be likened to heavy, black smoke. After he passes into the life beyond the grave, he will gravitate to that realm which is called the purgatorial region, that which is closest to the dense physical plane. Here he must purge himself of all impure desires; he must cleanse the desire body before he can rise to that higher realm called the First Heaven.
+
+### <h3 id="discarnate-spirits">Discarnate Spirits</h3>
+
+If we should take a refined, sensitive man who has lived a pure, clean life to the slums of a great city and force him to live in those surroundings, he would suffer, become ill and at the first opportunity he would gravitate back to his kind. Also if we take a low and degraded man, one who has always lived in the slums amidst filth and dishonesty and place him in a palace amidst cultured people, he would be most uncomfortable ant would at the first chance drift back to his old haunts. Similar conditions exist in the desire world. The man who has lived a clean and spiritual life, after passing out at death remains but a short time in the lower part of the desire world. As soon as he has freed himself from his physical body he quickly rises into the finer matter of the desire world. But the man who has never known what a pure life meant, who had not thought of life beyond the grave, is like the thick, black smoke: he hovers dose to the physical plane. He prefers to cling close to his old haunts, especially if he has a grudge against someone on the earth plane and wishes to get even; then he will remain earthbound until he has succeeded in revenging himself upon the other fellow. He will hover about spiritualistic seances or the place where his enemy lives until he has succeeded in influencing some weak or negative person to carry out his plan of revenge. How often do we read of a murderer or thief making a statement in court that a feeling came over him suddenly and he could not help committing the crime – some force made him do it. The poor, weak drunkard is also used by discarnate spirits and is often forced to drink, for in this way the degenerate in the desire world gets some satisfaction.
+
+### <h3 id="elementals">Elementals</h3>
+
+It is a curious fact that subhuman elementals sometimes attach themselves to certain persons, to a family, or even to a religious society. In such cases, however, it was always found that their vehicles did not consist of the hardened sin body composed of an interlocking desire and vital body, but that the vehicles had been obtained through mediumship practiced by a person of ordinary good character, and that the ether of these vehicles was in a state of disintegration. To offset this and to prolong their hold on such vehicles, they demand from those whom they serve regular offerings of food and the burning of incense. Though they cannot, of course, assimilate the physical food, they can and do live upon the ether fumes and odors which arise from it, and also upon the fumes of incense.
+
+This is only another illustration of the fact that purity of motive will not protect us when we go contrary to the laws of God, any more than we can escape a burn if we put our hand on a hot stove, no matter why we did it. But, nevertheless, it has been found in cases where a medium has been ensouled by pure motives and high religious devotion, it is very difficult for such evil entities to hold the vital body for a long time; they soon tire of the effort and seek another victim who is more in accordance with their nature.
+
+### <h3 id="obsession-1">Obsession</h3>
+
+In early childhood the blood very often rises to an abnormal temperature. During the period of excessive growth it is frequently the reverse, but in hot-headed, unrestrained youth, passion and temper very often drive the Ego out by over-heating the blood. We very appropriately call this an ebullition or boiling over of temper and describe the effect as causing the person to “lose his head,” i.e., become incapable of thought. That is exactly what happens when passion, rage, or temper overheats the blood, thus drawing the Ego outside the bodies. The description is accurate when, of a person in such a state, we say, “he has lost control of himself.” The Ego is outside of his vehicles and they are running amuck, bereft of the guiding influence of thought, part of the work of which is to act as a brake on impulse. The great and terrible danger of such outbursts is that before the owner re-enters his body some disembodied entity may take possession of it and keep him out. This is called “obsession.” Only the man who keeps cool and does not allow excess of heat to drive him out can think properly.
+
+When a man passes out of life during a quarrel or with a feeling of anger and revenge in his heart, he will continue for a time to cling about the one toward whom his anger was directed. Oftentimes such a discarnate Spirit influences some negative Spirit still in the physical body, who then carries out his revenge and commits the crime which this disembodied Spirit desires.
+
+### <h3 id="occult-effects-of-capital-punishment">Occult Effects of Capital Punishment</h3>
+
+In years to come when humanity will be more enlightened, and judges, lawyers, and jurymen will have more faith in and knowledge of life after death, they will not condemn the criminal, but they will then understand that the murderer who is put to death without time for retrospection is hurled without preparation into the Desire World and can there be a greater menace to society than when in the body, for he is then like a wild beast let out of its cage. He will have greater freedom to carry on his life of crime, although unseen by those who “have eyes to see but see not.” If the authorities, instead of opening the cage and freeing the animal, will endeavor to tame him – if they will put him where he can be taught to live a better life – they will save others from committing crimes while influenced by the hatred of these unseen Spirits who are earthbound and still full of desire. Capital punishment, instead of acting as a deterrent, actually fosters crime.
+
+Humanity at present is horrified at the wave of crime that is sweeping over the entire world. No country is free from it, and especially do we hear of it in large cities.
+
+The question is often asked, “What is the cause of this degeneracy?” The occultist can give the reason. He sees the condition in the Desire World. He knows that the lower division of this region is full of earthbound Spirits who are clinging close to the physical plane. These creatures were filled with hate and lust when suddenly they were hurled into this new life. Such Spirits still cling to their low desires, seeking to gratify them.
+
+### <h3 id="invisible-helpers">Invisible Helpers</h3>
+
+In this World of Desire are also many pure Spirits who understand the conditions and who remain in these lower regions for the express purpose of working with the weaker ones, teaching and trying to lead them into pure ways. But like the slum worker in a large city in the material world, these invisible helpers can reach only a limited number. Many pure and unselfish Spirits who are still in the physical body are also working lovingly, helping these invisible workers while out of the body in sleep. This is the field of work in which the Probationers of the Rosicrucian Fellowship are very active. They, too, are doing slum work in the purgatorial region.
+
+Should an evil Spirit, however, be able to gratify his lust by influencing some weaker Spirit or a medium through whom he may feed his lower nature, it will take him a longer time to overcome his desires, and he will remain earthbound until entirely purged. If a man dies before he has overcome his evil nature, he lives among his kind for some time in order to gratify his tastes for liquor, tobacco, or blood; even the sensualist can obtain gratification by influencing others to indulge, so that through them he may obtain vicarious satisfaction.
+
+As the Spirit sheds its earthly body at what is called death, so does it also discard the next finer sheath called the desire body, when it has completed its Desire World experience. It then passes on into the Second Heaven.
+
+### <h3 id="desire-shell">Desire Shell</h3>
+
+The discarded desire shell of the murderer or sensualist takes a much longer time to disintegrate than that of the advanced Spirit. The shell, or discarded desire body, into which he has built a separate consciousness, is drawn to those with whom the Ego had made ties – to those with whom he was associated while in the physical body. These shells may be used by elementals who will cling about a medium and pose as Lincoln, Wagner, or some noted person who no doubt passed into the Second Heaven many years ago.
+
+### <h3 id="the-suicide">The Suicide</h3>
+
+The suicide, the poor Spirit who through discouragement destroys his physical body, is one of the most miserable of all earthbound Spirits. He has destroyed the temple that was the dwelling place of the living God.
+
+Man during his Earth life is preparing the material with which to build the matrix or archetype of the body which he is to use in his next life. Organ after organ is strengthened or weakened by his acts in the present life. Little does he think that his excesses and abuses will reflect back and that he will bring with him in future lives a weakened body as a result, while a chaste and simple life builds a healthy body. “As a man soweth, so shall he also reap.”
+
+Thus we see that death does not transform the man; a sinner is not turned into a saint by the casting off of his outer garment. What a man has sown while in Earth life, he must reap sometime, somewhere, but he has an opportunity to repent and to purge himself of his sins while in the lower Desire World. Or, he may wish to remain in that region after death, preying upon others, or still clinging to the haunts which attracted him in Earth life; or he may rob some poor, negative Spirit of his physical body by obsession in order to continue his life of sin, and so gratify his lower desires. But sometime he must pay for the offenses committed; sometime, through sorrow and suffering, he must purge himself of all sins and meet his Maker in his purified spiritualized body.
+
+### <h3 id="seances">Seances</h3>
+
+No one who maintains a positive attitude of mind can ever become obsessed, for so long as we assert our individuality, that is strong enough to keep all outsiders away. But in spiritualistic seances where the sitters are negative there is always a great danger. The best way to avoid becoming obsessed would be to maintain this positive attitude. Anyone who is at all negatively inclined should avoid spiritualistic seances, crystal gazing, and other methods of evoking Spirits. That is bad practice anyway, for those who have gone beyond have their work to do there and should not be brought back here.
