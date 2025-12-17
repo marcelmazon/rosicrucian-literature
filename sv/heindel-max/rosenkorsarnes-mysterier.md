@@ -1177,16 +1177,15 @@ tunnare skikt, som motsvarar äggskalet, med den skillnad
 att detta skikt är det finaste, det tunnaste av de tre
 stoffgraderna, och även detta genomtränger de båda inre
 skikten.
+
 Som redan sagts, utgör den centrala massan ur andlig
 synvinkel vår synliga värld, vilken är sammansatt av
 fasta, flytande och gasformiga beståndsdelar. Dessa
-35
-
-
 bilda jorden, dess atmosfär och även den eter, som fy-
 sikern antar genomtränga den atomiska substansen i allt
 som är. Det andra stoffskiktet kalla vi begärvärlden,
 det yttersta: Tankevärlden.
+
 Vid lite närmare eftertanke skall det visa sig ganska
 klart, att just en sådan sammansättning är av nöden
 för att ge oss kunskap om de livsfakta, som tränga sig
@@ -1207,6 +1206,7 @@ upphör, så fort den osynliga, elektriska strömmen av-
 kopplas. En fågel, en människa, en tiger håller inne i
 rörelsen, då den inre kraft, som vi kalla liv, företar en
 flykt in i det osynliga.
+
 Alla former drivas till rörelse genom en önskan. Få-
 geln och djuret genomfara luften och landet i begär efter
 föda och skydd över huvudet eller för att fortplanta sig.
@@ -1215,13 +1215,11 @@ föda och skydd över huvudet eller för att fortplanta sig.
 En sådan heter begär efter stegrad snabbhet, vilket kom
 henne att konstruera ångmaskiner och andra fortkomst-
 möjligheter, som röra sig efter hennes vilja.
+
 Funnes i schakten ingen malm, så kunde människan
 inte göra sig maskiner. Fanns ingen kalk i jorden, vore
 benranglet inom oss otänkbart. Gåves det ingen fysisk
 värld med sina fasta, flytande och gasformiga bestånds-
-36
-
-
 delar, hade vår fysiska kropp aldrig kunnat framträda i
 tillvaron. Fortsätta vi denna tankegång vidare, så blir
 det ganska fort klart, att vi utan en av begärstoff sam-
@@ -1231,6 +1229,7 @@ av det för våra ögon synliga stoffet, kunde erbjuda hem-
 ort för växter, som växa utan medvetande, utan begär
 efter rörelse, åtminstone i högre mått. Människor och
 djur skulle däremot omöjligt kunna leva där.
+
 Vidare ges det i världen ett otal ting från de enklaste
 och grövsta verktyg till de finast genomtänkta verk,
 som kunna förrättas av människohänder. Detta utvisar
@@ -1247,6 +1246,7 @@ det sörjer för ett förråd av tankestoff, ur vilket vi kunna
 skapa, det existerar en möjlighet för oss att kunna tänka
 eller att finna ut de primitiva föremål, som vi hitta inom
 de lägre kulturerna.
+
 Därav kommer att framgå, att en planets indelning i
 olika världar inte beror på fantastisk, metafysisk speku-
 lation, utan att den i stället utgör en logisk nödvändig-
@@ -1258,9 +1258,6 @@ av en utredning, som läte oss veta, att motorn drevs av
 så och så många hästkrafter eller så och så många volt.
 Sådana beteckningar skulle snarare förvirra oss, så länge
 vi inte grundligt satt oss in i vad som rör elektriciteten,
-37
-
-
 och sen skulle vi kanske finna, att gåtan bara förtätades.
 Ty under det att spårvagnen tillhör världens "tröga
 materia", som kan uppfattas med våra sinnen, tillhör
@@ -1269,6 +1266,7 @@ en del av "energiens" rike i begärväriden, och den tanke,
 som framkallade strömmen och leder den, härstammar
 ur den än finare tankevärlden, vilken är hemort för
 människoanden eller Egot.
+
 Här kunde invändas, att en sådan tankegång onödigt
 komplicerar en i sig enkel sak, men en smula eftertanke
 kommer att visa det felaktiga i ett sådant påstående.
@@ -1288,6 +1286,7 @@ grepp sådana som specifik vikt, täthet o. s. v. Nya under
 öppna sig städse även för den erfarnaste kemikers öga,
 som bäst kan överblicka det väldiga området för det av
 honom valda vetenskapsfältet.
+
 Den minst erfarne advokat, som blott helt nyligen
 börjat sitt arbete, vet - enligt egen uppskattning -
 mer om invecklade rättsfall än domarna inom högsta
@@ -1297,9 +1296,6 @@ avgörande. De däremot, som utan föregående studier
 inbilla sig vara kallade till att yttra en egen mening
 inom den största av alla vetenskaper, vetenskapen om
 livet och varat, begå ett vida svårare misstag. Efter
-38
-
-
 år av fortsatta studier, efter ett i strängaste sökande
 tilländabrakt, heligt liv, är en människa ännu vanligen
 alldeles..överväldigad av omfattningen av det ämne, hon
@@ -1313,6 +1309,7 @@ och framdeles även komma att göra, på intet sätt äro
 godtyckliga utan helt nödvändiga, på samma sätt som
 anatomien och kemien begagna sig av indelningar och
 klassificeringar.
+
 Ingen form inom den synliga världen äger känsel en-
 ligt ordets innersta betydelse. Det är det däri inneboen-
 de livet, som känner, vilket vi lätt kunna inse därav, att
@@ -1336,10 +1333,9 @@ de olika hastigheter, varmed de många elementen röra
 sig i svängningstal, och på olika lutning av deras axlar.
 Blott där kännande liv är förhanden, kan det finnas
 lust och smärtförnimmelser, sorg och glädje.
-39
 
+#### <h4 id="">Eterregionen</h4>
 
-Eterregionen.
 Utom de fasta, flytande och gasformiga kroppar, som
 bilda den "kemiska regionen" inom den fysiska världen,
 ges det även en finare materia, etern, som, i likhet med
@@ -1355,6 +1351,7 @@ ett skott tätt intill örat, utan att vi dock förnumme ett
 ljud, ty luften är det medium, som överför ljudvågorna
 på trumhinnan, och just detta medium skulle här vara
 borta.
+
 Tände vi däremot ett elektriskt ljus, skulle vi strax
 varsebliva strålarna, det skulle ändå upplysa rummet
 trots frånvaron av all luft. Följaktligen måste det fin-
@@ -1365,6 +1362,7 @@ ej funnit på något instrument, med vilket man kunde
 uppmäta och analysera den. Därför veta också de lärde
 endast föga om etern, ehuru de tvingats antaga dess
 tillvaro som oundgänglig.
+
 Vi vilja inte förklena de vinster, som gjorts av den
 moderna vetenskapen, vi hysa den största beundran för
 densamma och ställa förväntningarne på dess vidare
@@ -1374,9 +1372,6 @@ finningen av underbara instrument, som användes på
 insiktsfullt sätt till att förklara till synes olösliga och
 förvirrande problem. Vetenskapens styrka ligger natur-
 ligtvis i dess instrument. Den lärde kan till exempel
-40
-
-
 ge andra följande uppmaning: Gå och tag några på
 bestämt sätt slipade glas, insätt dem i ett rör och rikta
 detta rör mot något bestämt ställe på himmelen, där ditt
@@ -1405,6 +1400,7 @@ da sökandets väg, och dessutom måste de besitta uthål-
 lighet nog för att kunna bestå prövningarna. Av denna
 orsak förhåller man sig mest skeptisk gent emot ockul-
 tisternas utsagor.
+
 Vidare är det lätt att inse, att lång prövotid måste
 föregå fullkomningen, ty en med andlig kraft begåvad
 människa är i stånd till att gå genom fasta husväggar
@@ -1413,13 +1409,11 @@ i stånd att vid varje tillfälle läsa omgivningens tankar.
 Någon, som därvid inte leddes av de renaste och mest
 osjälviska motiv, kunde lätt med sådana krafter bli ett
 mänsklighetens gissel. Därför skyddas också denna kraft
-41
-
-
 mot missbruk, med samma rätt som vi skulle lägga be-
 slag på en dynamitbomb hos en anarkist eller en aldrig
 så godsint, sinnessjuk människa eller vi skulle taga tänd-
 stickor och krut från barn.
+
 I händerna på en kunnig ingenjör kan dynamitladdnin-
 gen användas till att bryta en samfärdsled genom ber-
 get, och en intelligent lantbrukare kunde använda krut
@@ -1435,6 +1429,7 @@ sig i ett efter klocka reglerat, hemligt förvar eller som
 instängda i ett kassaskåp. Ingen vinner tillträde, som
 inte förvärvat rätten därtill och ingen, innan tiden därför
 är inne.
+
 Som redan sagts, är etern fysisk materia och underkas-
 tad samma fysiska lagar som all annan fysisk materia
 på detta vårt plan av tillvaro. Det behövs därför endast
@@ -1449,12 +1444,10 @@ att de äro i besittning av en förmögenhet, som inte alla
 se, äro inte, begåvade med just det förut nämnda sinnet,
 en sak, som syns oss strida mot lag och ordning, så länge
 vi ännu inte inträngt på klarseendets område.
+
 Orsaken är, att det eteriska seendet efter som eter
 är fysisk materie är beroende på synnervens förmåga
 att uppfatta, under det att det inre seendet förvärvas
-42
-
-
 genom utveckling av latenta svängningskrafter hos två,
 små, i hjärnan liggande organ: Slemkörteln och tallkott-
 körteln. Till och med närsynta kunna äga etersyn.
@@ -1462,12 +1455,14 @@ Ehuru de inte förmå urskilja stilen i en bok på ett visst
 avstånd, kunna de dock äga förmågan "att se tvärsige-
 nom en mur", av den enkla orsaken att synnerven lätta-
 re reagerar för snabbare än för grövre svängningar.
+
 Om någon betraktar ett föremål med eterisk syn, sả
 ser han tvärsigenom detsamma, på samma sätt, som en
 X-stråle genomtränger tät massa. Ser han en symaskin,
 kommer han först att urskilja det yttre omhöljet, därpå
 maskineriet och bakom bägge den bortre väggen av det
 nämnda omhöljet.
+
 Då han uppnått det psykiska seendets trappsteg, som
 för honom öppnar begärvärlden, kommer han att vid
 åskådandet se både utsidan och insidan hos föremålet.
@@ -1475,10 +1470,12 @@ Ser han närmare efter, kommer han att se minsta små-
 del vrida sig kring sin axel, och ingen beståndsdel, om
 än aldrig så liten, kommer att undgå hans uppmärk-
 samhet.
+
 Är däremot hans inre öga så pass utvecklat, att han
 förmår se symaskinen med det synsinne, som är eget
 för tankevärlden, då kommer han att se liksom en urholk-
 ning av ett rum, där han förr blott såg en form.
+
 Ting, som man iakttar med det eteriska ögat, äro var-
 andra ganska lika till färgen, de äro närmast rödblå,
 purpurfärgade eller violetta, allt efter eterns täthet,
@@ -1491,13 +1488,11 @@ för färgseende. Är däremot tankevärldens andliga öga
 organet för seendet, så finner skådaren, att jämte än
 skönare färger en oavbruten ström av en bestämd,
 harmonisk ton utströmmar ur det förut omtalade hål-
-43
-
-
 rummet. På så sätt är den värld, vari vi medvetet leva
 och som vi iakttaga med våra vanliga sinnen, i första
 rummet en värld för form, medan begärvärlden är fär-
 gens värld och tankevärlden tonens.
+
 På grund av sitt närmare eller fjärmare förhållande
 till dessa världar, motstår en staty eller form år-
 tusendens inverkan, en tavlas färg försvinner inom vida
@@ -1508,14 +1503,17 @@ som ingen kan gripa eller hålla i händerna, den är borta
 i samma ögonblick, som den uppstod. Men färg och ton
 innebära även en ersättning för flyktigheten i deras
 framträdande.
+
 Statyen är kall och död som den sten, varur den hug-
 gits, och verkar tilldragande endast på ett fåtal, ehuru
 dess form är gripbar verklighet.
+
 Gestalterna på en tavla äro endast illusoriska, men
 uttrycka ändå liv genom sin färg, vilken härstammar ur
 en värld, där man inte känner till något, som äger trög-
 het eller dött. Därför bereder tavlan en så allmän
 glädje.
+
 Musik är ogripbar och övergående. Men den härstam-
 mar ur andens värld, och, ehuru den blott är av så flyk-
 tig karaktär, urskiljer dock anden däri ett själarnes
@@ -1524,30 +1522,37 @@ nen, ett eko ur det hemland, varur vi nu äro förvisade,
 och just av denna grund rör det vid strängar i vårt
 väsen, om vi så klart fatta den verkliga orsaken där-
 till eller ej.
+
 Vi se således, att det ges en mångfald olika steg för
 andligt seende, av vilka vart och ett anpassar sig för det
 överfysiska plan, som öppnar sig för det inre ögat, näm-
 ligen etersyn, färgsyn och tonande seende.
+
 Den ockulte forskaren urskiljer fyra arter eller tät-
 hetsgrader inom etern:
-44
-
 
 "Kemisk eter."
+
 "Livseter."
+
 "Ljuseter."
+
 "Aterspeglande eter".
+
 Den kemiska etern är uttrycksmedel för krafter, som
 befordra anpassning, tillväxt och formens bevarande.
+
 "Ljusetern" överför solens motoriska kraft utefter
 mångfalden nerver i levande kroppar och möjliggör så
 rörelsen.
+
 "Den återspeglande etern" mottar intryck från allt
 som är, lever och rör sig. Den upptar varje förändring
 på liknande sätt som filmen i en biografapparat. Av
 dessa intryck kunna medier och psykometrer avläsa det
 förflutna, på samma sätt, som filmupptagningar under
 givna betingelser alltid kunna reproduceras.
+
 Vi ha här talat om eter som om ett uttrycksmedel för
 krafter, ett ord, som för genomsnittsförståndet saknar
 all betydelse, emedan kraft är något, som ej kan ses.
@@ -1558,6 +1563,7 @@ och under de vanliga människornas. Vad vi kalla "na-
 turlagar" är i själva verket stora intelligenser, som leda
 elementarväsen efter bestämda normer allt efter evolu-
 tionens krav.
+
 Under medeltiden, då många människor ännu ägde
 en rest av negativ klarsynthet, talade man om älvor,
 gnomer och féer, som höllo till i berg och skogar. Dessa
@@ -1567,14 +1573,13 @@ vilka bebodde dimflockarna över kärr och hedar som
 om luftandar. Mindre hörde man talas om salamandrar,
 emedan sådana voro eldandar, inte så lätta att upptäcka
 samt otillgängliga för de flesta människor.
+
 Man betraktar númer de gamla folksagorna som en-
 bart utflöden ur övertro, men i själva verket förmår
-45
-
-
 alltjämt en med klarsyn begåvad människa se de små
 gnomer, som tillföra bladen klorofyll och blommorna de-
 ras mångfald av färgtoner, vilka tjusa våra blickar.
+
 De lärde ha ständigt på nytt sökt förklara uppträdan-
 det av vind och storm, men det har alltid stannat vid
 enbart svaga försök. Det kommer heller inte att lyc-
@@ -1588,10 +1593,12 @@ trycket "elementens strid" inte är någon tom fras, ty
 det rullande havet är ett verkligt slagfält för sylfer och
 undiner, och den tjutande stormen utgör luftandarnes
 härskri.
+
 Även salamandrar finnas över allt, ingen eld kan upp-
 göras utan deras hjälp. De äro emellertid mest verk-
 samma underjordiskt. De förorsaka slagregn och vul-
 kaniska utbrott.
+
 De nu nämnda väsendena stå alla under människan,
 men skola alla en gång uppnå ett människoliknande
 evolutionstillstånd, om så också under andra betingelser
@@ -1599,6 +1606,7 @@ evolutionstillstånd, om så också under andra betingelser
 För ögonblicket leda dock de underbara intelligenser,
 vilka vi bruka beteckna som naturlagar de nyss nämn-
 da, mindre utvecklade väsenheternas härskaror.
+
 För att göra oss ett bättre begrepp om dessa olikar-
 tade väsens egenskaper och deras förhållande till oss
 själva, hämta vi till vår hjälp en bild ur livet. Antag,
@@ -1608,13 +1616,11 @@ arbete, hur hon handskas med olika verktyg för att kom-
 ma tillrätta med materialet, men väl även hur maski-
 nen långsamt tar form ur råjärn, stål, mässing och
 andra metaller. Hunden tillhör emellertid en lägre evo-
-46
-
-
 lution än mekanikern och fattar inte dennes avsikter,
 utan ser honom blott arbeta än här, än där och de resul-
 tat av arbetet, som bilda en allt mer framträdande
 maskin.
+
 Låt oss nu anta, att hunden endast vore i stånd att se,
 hur materialet långsamt ändrar utseende och samman-
 fogas till en maskin, utan att han kunde iakttaga själva
@@ -1624,6 +1630,7 @@ som vi själva göra till de stora intelligenser, dem vi
 benämna naturlagar, ty vi se deras verkan uppenbara
 sig som rörelser i materien av olika slag, men alltid
 under oförändrade betingelser.
+
 I etern kunna vi vidare se änglar, vilkas tätaste krop-
 par äro gjorda av nämnda eterstoff, på samma sätt som
 våra egna kroppar sammansättas av fasta, flytande och
@@ -1640,6 +1647,7 @@ vänder jorden till det eteriska tillståndet. Då bliva män-
 niskorna lika änglar. Därför säger bibeln, att människan
 "till en liten tid" gjordes lägre än änglarna (jmfr. Paulus
 Hebreerbrev 11, 7.).
+
 Då etern är uttrycksmedel för vitala, skapande kraf-
 ter och änglarna äro erfarna verkmästare i etern, kunna
 vi lätt förstå, att de särskilt ägna sig för att övervaka
@@ -1647,10 +1655,6 @@ de förmerande krafterna hos växter, djur och människor.
 Genom hela Bibeln se vi dem verka i denna riktning: Två
 änglar kommo till Abraham och förkunnade honom Isaks
 födelse, de lovade denne man, som var en Guds lydige
-
-47
-
-
 tjänare, en son. Senare förstöra samma änglar Sodom
 och Gomorra på grund av missbruk av den skapande
 könskraften. Änglar förutsade Simsons och Samuels
@@ -1660,7 +1664,7 @@ förkunnade födelsen av Johannes. Senare visade han
 sig även för Maria med budskap om, att hon vore utsedd
 att föda Jesus.
 
-Begärvärlden.
+#### <h4 id="">Begärvärlden</h4>
 
 Då det andliga livet utvecklats så långt, att vi blivit
 i stånd att se begärvärlden, så står nykomlingen inför
@@ -1687,10 +1691,7 @@ vårt påstående, att vi äro omgivna av ljus och färg.
 
 En människa, vilkens inre öga blivit seende, befin-
 ner sig i liknande läge gent emot dem, som inte kunna
-varsebli den begärvärld, varom hon talar. Om en blind.....
-48
-
-
+varsebli den begärvärld, varom hon talar. Om en blind
 återvinner synförmågan genom operation, öppnas. hans
 ögon, och han måste erkänna tillvaron av färg och ljus,
 vilken han förut förnekat, och, när en annan förvärvar
@@ -1714,6 +1715,7 @@ också de mest olikartade berättelser av sådana som be-
 sökt astralvärlden sitt värde, ty de ge tillsammans en
 mer avrundad överskådlighet, än om allt endast betrak-
 tades ur samma synvinkel.
+
 I vår fysiska värld äro kraft och materia grundligt
 olika. Materiens märkligaste egenskap är här tröghet,
 strävandet att förbli i vila, tills någon kraft verkar, vil-
@@ -1727,9 +1729,6 @@ Vi tala ofta om Indiens och Kinas tallösa miljoner eller
 om våra jättestäder, sådana som London, Paris, New-
 york och. Chicago. Vi anse dem vara i högsta grad
 överbefolkade. Dock synes den mest befolkade fläck
-49
-
-
 på jorden ganska ödslig i jämförelse med det hopade
 livet inom begärvärlden. Dock är detta inte för en in-
 vånare av denna värld förenat med den minsta obekväm-
@@ -1747,6 +1746,7 @@ vade genom rummet och altaret ett bord, vid vilket fyra
 personer spelade kort. De voro lika litet medvetna om
 de väsen, som biträdde vid gudstjänsten, som om dessa
 aldrig funnits till.
+
 Begärvärlden är vistelseort för avlidna under en viss
 tid efter döden, och i samband därmed kunna vi fast-
 ställa, att de s. k. "döda" mycket ofta dröja kvar hos
@@ -1763,12 +1763,10 @@ den erfarenheten, att det i hans förändrade livsläge inte
 skadar honom, om någon sitter på honom o. s. v., och
 att han lugnt kan bibehålla sin stol, även om hans levan-
 de anförvant sätter sig på den.
+
 Inom begärvärldens lägre regioner kan ett väsens hela
 kropp lätt ses, inom de högsta regionerna tycks endast
 huvudet kunna urskiljas. Raphael, vilken i likhet med
-50
-
-
 många Medeltidens människor var begåvad med den
 s. k. andra synen, framställde nämnda förhållande hos
 sin Sixtinska madonna — nu i Dresden — där madonnan
@@ -1776,6 +1774,7 @@ med Kristusbarnet svävar i en guldgenomflödad
 atmosfär, omgiven av skaror av änglahuvuden. Alldeles
 på samma sätt således, som den ockulte forskaren kän-
 ner till det, i noga överensstämmelse med fakta!
+
 Bland de väsen, vilka så att säga äro hemma i detta
 rike, äro väl inga så bekanta för den kristna världen
 som ärkeänglarna. Dessa upphöjda väsen voro mänsko-
@@ -1786,6 +1785,7 @@ mänskliga. De nuvarande ärkeänglarna ha likaledes
 tagit två steg framåt, ett, varvid de liknade de nuvaran-
 de änglarna, och ett andra steg, som gjorde dem till det,
 som vi beteckna med ordet ärkeänglar.
+
 Deras tätaste kropp användes av dem, ehur den är
 betydligt olika vår egen och består av astralstoff, till
 bärare av medvetandet på samma sätt, som vi själva
@@ -1805,14 +1805,11 @@ de och tillbakagång, de bringa krig eller fred, seger eller
 nederlag, allt efter som intresset för de folk, de ha att
 styra, fordrar det. Detta kunna vi läsa oss till ur Da-
 niels bok, varest ärkeängeln Mikael (inte att förväxla
-
-51
-
-
 med Mikael, solens sändebud till jorden) kallas för
 Israels barns furste. En annan ärkeängel förkunnar för
 Daniel, att han ämnar låta bekämpa Perserkonungen ge-
 nom Grekerna.
+
 Det ges olika steg av intelligens bland de mänskliga
 väsendena, några äro satta i stånd till att intaga höga
 och upphöjda ställningar, som vida överstiga de andras
@@ -1824,6 +1821,7 @@ mänskliga väsen, utan dessa på ett lägre utvecklingssteg
 stående ärkeänglar leda djur, vilka också äga begärna-
 tur, som gruppsjälar och arbeta sig därigenom fram till
 högre färdigheter.
+
 Rasgudarnas verkan urskiljes lätt hos de folk, som stå
 under deras ledning.. Ju lägre steget är, varpå ett folk
 står, desto mer visa individerna bestämda drag av sam-
@@ -1845,9 +1843,6 @@ de, överensstämmelsen sträcker sig till och med till sär-
 skilda, smärre karaktärsdrag. Vi kunna skriva en män-
 niskas biografi, ty den enas erfarenheter avvika från
 den andras, deras handlingar äro helt olika. Däremot
-52
-
-
 kunna vi inte skriva ett djurs livshistoria, ty medlem-
 marna av ett och samma släkte bära sig allesammans
 lika åt under lika förutsättningar. Om vi ville samla
@@ -1864,6 +1859,7 @@ drag. Vad vi kalla "instinkt" är i själva verket likty-
 digt med befallning från gruppsjälen, som skall leda de
 enskilda individerna inom ett släkte så att säga på tele-
 patisk väg.
+
 
 De gamla egyptierna visste om dessa andar för djur-
 grupper och ha bildligt framställt dem i grova utkast
@@ -1886,11 +1882,9 @@ olikheter som på jorden, och de s. k. "döda" ur en nation
 finna det omöjligt att göra sig förstådda av dem, som
 bebott ett annat land. Därför äro språkliga kunskaper
 av stort värde för "osynliga hjälpare", om vilka vi skola
-53
-
-
 höra talas i det följande, emedan kretsen för deras verk-
 samhet vinner större omfattning genom en sådan gåva.
+
 Alldeles bortsett från olikheterna hos språken, för-
 anleder vårt språks natur många missförstånd. Lika
 ord förmedla ofta till olika tankeförmögenheter varan-
@@ -1902,6 +1896,7 @@ annan på en elektrisk båglampa. Rött ger den ene en
 bild av något rosenrött, den andre en av djup purpur.
 Missförstånd om betydelsen av ord sträcka sig till och
 med ännu längre, som följande fall skall utvisa:
+
 Författaren till detta arbete öppnade en gång en läse-
 sal i en stor stad, där han höll föredrag och inbjöd
 publiken att flitigt begagna sig därav. Bland de stän-
@@ -1913,6 +1908,7 @@ narne på Marskullen spanade han ständigt efter något
 "nytt", särskilt om det gällde några slags fenomen, och
 hans tankeapparat hade uppnått den kaotiska kokpunkt,
 som är det tydliga tecknet på "andlig indigestion".
+
 Emedan han besökt ett antal av våra föreläsningar,
 visste han på förhand av programmet, att föredragshål-
 laren på intet sätt sysslade med läsande, på engelska
@@ -1925,11 +1921,9 @@ och avläsande av framtiden mot betalning, men dock
 ämnade avläsa framtiden i läsrummet utan sådan. Han
 kände djup missräkning över att vi inte ville spå var-
 ken för eller utan betalning i det "fria läserummet", var-
-54
-
-
 för vi sågo oss nödsakade att ändra vår skylt till "fria
 boklån" för att slippa vidare misstag.
+
 Inom begärvärldens högre regioner har i stället för
 språkförbistringen trätt en mer universell möjlighet till
 att göra oss förstådda av varandra, som utesluter varje
@@ -1939,6 +1933,7 @@ utsänder en bestämd ton, som inte är något ord i vanlig
 betydelse, men som till den, med vilken vi tala, överför
 vår mening, detta utan hänsyn till det språk man talat
 här på jorden.
+
 För att vinna klarhet i hur ett dylikt universalspråk
 kan bli förståeligt samtidigt för alla och utan vidare
 förberedelse, kunna vi göra en jämförelse med den not-
@@ -1959,14 +1954,12 @@ det sig även med det universalspråk, som är eget för
 de högre regionerna inom begärvärlden och andra vida
 finare naturområden. Det är ett för alla förståeligt och
 i sig bestämt uttrycksmedel.
+
 Om vi nu återvända till beskrivningen av de väsenhe-
 ter, som vanligen påträffas inom den lägre begärvärlden,
 kunna vi förutskicka den anmärkningen, att utom den
 gamla, egyptiska religionen även andra religionssystem
 nämna olika klasser av väsen, som bebo dessa regioner.
-55
-
-
 Den zoroastriska religionen talar t. ex. om de "sju
 Amschaspends" och "Izzards" som rådande över vissa
 dagar under månaden och vissa månader under året.
@@ -1980,6 +1973,7 @@ Den katolska religionen med sina många ockulta hän-
 visningar ägnar dessa "stjärnänglar" viss uppmärksam-
 het och förfogar över ett rikt vetande om deras infly-
 tande på de jordiska angelägenheterna.
+
 Amschaspends bebo dock ej de lägre regionerna av
 begärvärlden, utan påverka Izzards. Enligt en gammal
 persisk legend kan man indela dessa väsen i en grupp på
@@ -2001,11 +1995,9 @@ upptecknade deras verkan på djur och människorikena.
 Men våra egna anatomiska undersökningar sätta oss
 i stånd att visa orsaken till denna indelning av Izzards,
 som fastställes i detta gamla, filosofiska system.
+
 Ännu en annan klass av väsenden bör nämnas: De, som
 inträtt i begärvärlden genom dödens port och nu ryckts
-56
-
-
 bort från vår fysiska åsyn. Dessa s. k. "döda" äro hu-
 vudsakligen mycket mer levande än någon av oss, som
 äro bundna vid en grovmateriell kropp och äro under-
@@ -2034,6 +2026,7 @@ kort budskap avlämnades och återkomst skedde till den
 fysiska kroppen, allt på kortare tid än en minut. Därför
 grundar sig vårt påstående om, att de "döda" äro vida
 mer levande än vi, på verkliga fakta.
+
 Vi talade om den grovmateriella kropp, vari vi nu
 vistas, som om en "boning" och ett "fängelse". Därav
 må dock inte dragas det felslutet, att vi höra till dem,
@@ -2042,9 +2035,6 @@ företaga sin flykt, jämra oss över vår lott, som om vi
 här hölles i fängelse. Vi tänka inte i ständig längtan på
 den dag, då vi få lämna vårt dödliga hölje för att få
 flyga omkring i vår andekropp. En sådan sinnesförfatt-
-57
-
-
 ning vore fullkomligt oriktig, de stora och visa väsen-
 heter, som osynliga leda vår utveckling, ha inte förgäves
 satt oss här på jorden. Vi ha att i denna vår synliga
@@ -2056,6 +2046,7 @@ gelser för uppnående av den kunskap, som denna värld
 är avsedd att skänka oss. Detta faktum fick nyligen
 genom en upplevelse, som författaren själv gjort, sin
 rätta belysning.
+
 En väninna hade en följd av år bedrivit ockulta stu-
 dier, men inte befattat sig med astrologi. Då vaknade
 hos henne en dag vetandet om denna vetenskaps stora
@@ -2071,6 +2062,7 @@ därför till en av mig i Los Angeles ledd kurs i astrologi,
 då en plötslig sjukdom föranledde hennes död och satte
 en damm för hennes studier i den fysiska kroppen, innan
 de knappt hunnit börja.
+
 Vid ett av sina många tillfälliga besök, som min vänin-
 na gjorde mig efter skilsmässan från den fysiska krop-
 pen, klagade hon över, att det var så svårt att göra
@@ -2079,11 +2071,9 @@ rådde henne då att ytterligare sysselsätta sig med de
 av honom meddelade kurserna och gav uttryck åt den
 meningen, att hon säkert på "det andra planet" kunde
 finna någon, som ville hjälpa henne i dessa studier.
+
 Härpå utropade hon, full av otålighet: "Naturligtvis
 har jag bevistat dylika kurser, har inte försummat en
-58
-
-
 enda timme, ävenledes har jag funnit en vän, som är
 beredd att hjälpa mig. Men man kan inte föreställa sig,
 hur svårt det här är att inställa sig på matematiska
@@ -2093,6 +2083,7 @@ från studiet. Jag höll det förr, medan jag ännu hade
 en fysisk kropp, för svårt att koncentrera mig, men det
 är inte ens att likna vid de svårigheter, som här träda
 lärjungen tillmötes."
+
 Den fysiska kroppen erbjöd henne ett fäste, och så
 gör den åt oss alla. På grund av sin täthet är den på
 det hela taget oemottaglig för de störande inflytanden,
@@ -2111,18 +2102,17 @@ något livsläge, då vart och ett innebär sina särskilda
 lärdomar. Bemöda vi oss om att fatta dessa läxor och
 att tillgodogöra oss erfarenheterna därur, äro vi klokare
 än de, som förslösa sin tid i fåfäng klagan.
+
 Vi sade, att begreppet tid är främmande för begär-
 världen, och läsaren skall snart inse att så måste vara
 fallet, detta av den enkla orsaken, att där, som ovan
 nämnts, inte finns någon fast kroppslighet.
+
 I denna vår värld är den fasta jordens rotation om-
 kring sin axel upphovet till växlingen av dag och natt.
 Vi kalla det för dag, då den punkt, på vilken vi befinna
 oss, vändes mot solen och hennes strålar upplysa vår
 omgivning. Då vår vistelseort däremot är vänd från
-59
-
-
 solen och hennes strålar utestängas av den fasta jorden,
 kalla vi det därav framkallade mörkret för natt. Jordens
 vandring kring solen förorsakar årstider och år, efter
@@ -2144,6 +2134,7 @@ ge en kronologisk framställning av de tilldragelser, som
 de mött i begärvärlden, och man gör mestadels den iakt-
 tagelsen, att de inte ens veta, hur många år de varit
 skilda från detta planet efter sin bortgång till det andra.
+
 Om en ockultist önskar studera en tilldragelse i mänsk-
 lighetens gångna historia, så kan han lätt hämta en bild
 därav ur naturens minne. Vill han däremot fastställa
@@ -2159,9 +2150,6 @@ ma ställe. Den uppnår ekvatorn en smula för tidigt, den
 "preciderar", år för år avviker den en smula. Vid tiden
 för Kristi födelse låg vårdagjämningspunkten på ungefär
 sjunde graden inom Vädurens tecken. Under de två
-60
-
-
 tusen år, som ligga mellan denna tilldragelse och vår tid,
 har solen vikit tillbaka omkring 27 grader, så att den nu
 befinner sig på omkring 10:e graden inom Fiskarnas tec-
@@ -2175,7 +2163,7 @@ på tidsmåtten, även om han befinner sig i begärvärlden.
 Se där en ytterligare orsak till att studera stjärnveten
 skapen!
 
-Tankevärlden.
+#### <h4 id="">Tankevärlden</h4>
 
 När vi uppnått det andliga utvecklingssteg, som är
 nödvändigt för att kunna inträda i tankevärlden och läm-
@@ -2200,17 +2188,15 @@ som överskrida svalget mellan begärvärlden, och tanke-
 världen, vare sig detta sker ofrivilligt under själens
 vanliga, cykliska vandring, varom vi närmare komma att
 tala vid behandlingen av livet efter döden, eller till följd
-
-61
-
-
 av en viljeakt som i den skolade, ockulta forskarens fall.
 Alla möta vid övergången samma upplevelse.
+
 "Det ges två huvudavdelningar inom den fysiska värl-
 den: "Den kemiska regionen" och den "eteriska regio-
 nen". Tankevärlden har likaledes två, stora underavdel-
 ningar: Regionen för det konkreta tänkandet och regio-
 nen för det abstrakta tänkandet.
+
 Liksom vi betrakta materialet inom den fysiska världen
 som något särskilt och gestalta det till en fast kropp,
 liksom vi forma energistoffet inom begärvärlden till en
@@ -2220,13 +2206,14 @@ Men som andar ikläda vi oss andesubstans ur det
 abstrakta tänkandets region, och därigenom bli vi indivi-
 duella, särskilda Egon.
 
-Det konkreta tänkandets region.
+#### <h4 id="">Det konkreta tänkandets region</h4>
 
 Det konkreta tänkandets region är varken skugglik el-
 ler illusorisk. Den är toppunkten på all realitet, och
 denna vår värld, som vi av misstag gärna anse som den
 enda verkliga, är blott en dunkel återspegling av denna
 region.
+
 En smula överläggning skall klargöra det berättigade
 i ett sådant påstående och bestyrka den grundläggande
 satsen, att allt vad vi här se i verkligheten är kristalli-
@@ -2240,9 +2227,6 @@ till användning inom vår kultur, ett förtätande av det
 osynliga, ogripbara tankestoffet. James Watts tänkande
 förtätade sig i sinom tid till en ångmaskin och revolutio-
 nerade världen. Edisons tänkande omvandlades i en
-62
-
-
 elektrisk ackumulator, som förvandlade natten till dag,
 och utan en Morses och Marconis tankekraft, hade tele-
 grafen inte kunnat slå en brygga mellan avlägset belägna
@@ -2252,6 +2236,7 @@ Edison och Morse förbliva, och på basis av deras oför-
 störbara idéer, kunna nya maskinanläggningar företagas
 och arbetet återupptagas. På så sätt äro tankar varak-
 tigare än tingen.
+
 Musikerns känsliga öra upptäcker en bestämd musika-
 lisk ton hos varje stad. Han hör ur varje bäck en ny
 melodi, och vindens sus i trädtopparna i olika skogar
@@ -2266,6 +2251,7 @@ urhålkat rum. Ur detta tomrum kommer en ton: Den
 grundton, som skapar och uppehåller formen, liksom den
 nästan osynliga kärnan inom en gaslåga är källan till
 det ljus, som vi varsebliva.
+
 Ton kan i den fysiska världen inte höras ur ett vakuum,
 men den harmoni, som tonar ur en himmelsk ur-typs
 hålrum, är "tystnadens röst", och den blir hörbar, när alla
@@ -2275,16 +2261,15 @@ livets kaos eller i den prasslande och rasande elden, men
 så snart denna världs förstörande och orena klanger
 kommit till tystnad, då gav den "stilla, sakta rösten"
 Elias befallningar för att rädda hans liv.
+
 Denna grundton är en direkt uppenbarelse av det högre
 Självet, vilket begagnar den för att leda och öva inflytan-
 de på den personlighet, som det skapat. Men tyvärr har
 en del av dess liv övergått i tillvarons materiella sida
-63
-
-
 och där fått en bestämd egenvilja, och endast allt för
 ofta befinna sig de två sidorna i vår natur i strid med
 varandra.
+
 Slutligen kommer en tid, då anden blir för svag att
 kämpa med det motspänstiga köttet och då "tystnadens
 röst" tiger. Om vi än aldrig så mycket sökte tillföra
@@ -2294,6 +2279,7 @@ ljöde i tomrummet inom den himmelska urtypen; ty
 "människan lever inte av bröd allenast", utan av ordet,
 och "grundtonens" sista dallringar utgöra den fysiska
 kroppens dödsringning.
+
 I denna vår värld måste vi först efterforska och stu-
 dera tingen, innan vi kunna draga några slutsatser om
 dessa, och, ehuru möjligheten att vinna kunskap är vida
@@ -2308,25 +2294,25 @@ ligt klar föreställning om varje face av dess väsen. Vi
 veckling ligger framför oss, och vi tycka oss ha genom-
 levt alla erfarenheter, som gjorts av det oss intresserande
 föremålet.
+
 Funnes därvid inte en betydande svårighet, skulle på
 så sätt erhållen kunskap vara av utomordentligt stort
 värde. Men hela denna kunskap, denna livsbild tränger
 med oerhörd hastighet och på ett kort ögonblick in på
 oss, så att där varken ges begynnelse eller slut, ty, som
 redan sagts, allt är i tankevärlden ett enda nu, tid
-existerar där inte..
+existerar där inte.
+
 Om vi därför vilja draga nytta av de urtypiska läreza.
 här i den fysiska världen, så måste vi först frigöra och
 ordna i tid, alltså efter begynnelse och ände, innan något
-64:
-
-
 blir begripligt för ett väsen, inom vilkets sfär tid är en
 grundläggande faktor. Detta ordnande är en mycket
 svår uppgift, efter som alla ord präglats med hänsyn till
 de tre dimensionerna i rummet och tidens ständigt und-
 vikande enhet. Därigenom blir mycket av dessa lärdo-
 mar oanvändbart.
+
 Bland dem, som bebo denna, det konkreta tänkandets
 region, kunna vi urskilja särskilt två klasser: Den ena
 benämner Paulus "Mörkrets makter", och Västerlandets
@@ -2354,12 +2340,10 @@ liksom vi själva förstå oss på förarbetandet av de nuva-
 rande, mineraliska substanserna, och därför ha de lämnat
 oss erforderlig hjälp till erhållandet av en ande, som
 är människotillvarons högsta utveckling.
+
 Efter ovanstående förklaring syns det stridande mot
 förnuftet, när Paulus omtalar dessa krafter som onda
 och manar oss att söka motstå dem. Svårigheten upphör
-65
-
-
 emellertid, när vi besinna, att gott och ont endast äro
 relativa begrepp. Ett klarläggande skall ställa saken i
 rätt belysning: Antag, att en orgelbyggare byggt en
@@ -2373,6 +2357,7 @@ ondo. På samma sätt visade "Hågens herrar" mänsklig-
 heten den största tjänsten, när de förhjälpte den till för-
 ståndet, men många fina tankeinflytanden utgå från dem,
 vilka vi, som Paulus med rätta framhäver, måste motstå.
+
 Den andra klass av väsen, som vi böra omnämna, kallas
 av den västliga ockultistskolan för "Archetypiska kraft-
 er". De styra de skapande urbildernas krafter, som till-
@@ -2396,9 +2381,6 @@ med tiden stiger allt, som är, uppför tillvarons himmels-
 stege från jordestadiet ända upp till gudomen själv.
 Anden känner inga gränser, och så samarbetar människo-
 anden med andra naturkrafter, allt motsvarande den
-66
-
-
 höjd, som intelligensen uppnått. Den skapar, ändrar och
 förbättrar här på jorden, varest den är satt att leva. Så
 skördar den under den stora lagen om orsak och verkan,
@@ -2406,7 +2388,7 @@ som vi iakttaga inom alla naturriken, på jorden vad den
 sått i himmelen och omvänt. Den växer långsamt, men
 ständigt och skrider ständigt framåt.
 
-Det abstrakta tänkandets region.
+#### <h4 id="">Det abstrakta tänkandets region</h4>
 
 Olika religionssystem ha vid olika epoker framställts
 för människorme, vart och ett avsett att fylla ett andligt
@@ -2439,15 +2421,12 @@ andlig uppenbarelse, nämligen Johannesevangeliet.
 I det han vördnadsfullt öppnar sitt uppåtlängtande
 hjärta till förståendet av dessa upphöjda, mystiska läror,
 överskrider han den formella sidan av naturen, som om-
-
-67
-
-
 fattar de olika, av oss redan beskrivna rikena, och be-
 finner sig "i anden" liksom de gångna tidernas profeter.
 Han befinner sig då i det abstrakta tänkandets region och
 ser de eviga sanningarna, liksom Paulus skådade dem i
 denna, den tredje himmelen.
+
 För dem bland oss, som blott kunna förvärva kunskap
 om materien genom eftertänkande, blir det nödvändigt
 att pröva den grundläggande betydelsen av de ord, vari
@@ -2458,6 +2437,7 @@ antal upptagits i vårt moderna språk, ofta som veten-
 skapliga begrepp, och vi skola visa, huruledes denna
 gamla lära får stöd av den moderna vetenskapens nyaste
 upptäckter.
+
 Begynnelseversen i Johannesevangeliet lyder sålunda:
 "I begynnelsen var Ordet, och Ordet var hos GUD". Vi
 vilja närmare pröva orden "Ordet", "Begynnelsen" och
@@ -2474,16 +2454,15 @@ ska urtexten talar om en evigt existerande Vä-
 senhet som utgångspunkt för alla former, jorden och
 alla himlaljus däri inneslutna, som skapats därur, och
 Johannes lär oss detsamma.
+
 Det grekiska ordet Arkä i Johannesevangeliets första
 sats har översatts med ordet Begynnelse, och den
 betydelsen har det, men det har också andra, väl så
 grundade betydelser, vilka vida uttrycksfullare återge
 den tankegång, som Johannes ville bibringa oss. Det
-68
-
-
 betyder: Elementartillstånd - huvudsak - urprincip -
 urstoff.
+
 Det gavs en tid, då vetenskapen fastslog, att elementen
 voro oföränderliga, d. v. s. att en atom järn alltid för-
 blir en atom järn och varit det allt sedan jordens upp-
@@ -2494,6 +2473,7 @@ atomteorien inte längre upprätthållas. Radioaktivitetens
 princip har likaledes rättfärdigat alkemisterna. Veten-
 skap och Bibel överensstämma i den lärosatsen, att allt,
 som är, skapats ur en och samma homogena substans.
+
 Det är denna grundprincip, som Johannes betecknade
 Bom - urstoff - Arkä, och lexikonet förklarar ordet
 arkeologi som: Den vetenskap, vilken sysselsätter sig med
@@ -2502,10 +2482,12 @@ tingens ursprung (arkä). Frimurarna kalla GUD för den
 "Han som bildar", och GUD är den högste bildaren
 (tektos) i arkä, det jungfruliga urstoffet, som också är
 huvudsaken inom alla ting.
+
 Så se vi, att, då begynelsesatsen i Johannesevangeliet
 översättes riktigt, vår kyrkliga religion lär, att en gång
 jungfrulig substans omslöt den gudomlige tänkaren -
 GUD.
+
 Det är precis samma sak, som de gamle grekerna be-
 tecknade som Chaos. En smula eftertanke skall klar-
 göra, att vi inte godtyckligt kritisera evangeliets över-
@@ -2518,24 +2500,26 @@ grekiska ordet Logos betyder såväl förnuftsenlig tanke
 - även benämnt logik - samt även ordet som bärare.
 därav (av denna logiska tanke).
 
-69
-
-
 I. I urstoffet var tanke, och tanken var hos GUD,
 och GUD var Ordet.
+
 II. Detta (Ordet) var också hos GUD i urtillståndet.
 Senare ljuder det gudomliga Ordet, det skapande
 "Fiat", "Varde" genom rummet och avsöndrar den homo-
 gena ursubstansen i olikartade former.
+
 III. Varje ting har trätt ut i tillvaron tack vare denna
 första orsak (GUDS Ord) och ingenting finns på
 sidan om detta ord.
+
 IV. Däri var livet.
+
 Inom alfabetet ha vi några elementära ljud, ur vilka
 ord kunna bildas. De bilda uttryckets grundelement, på
 samma sätt som järn, trä och tegel utgöra ärkitekturens
 råämnen eller som några få nottecken utgöra musikens
 beståndsdelar.
+
 Men en hop tegel, järn och trä utgör ännu inte något
 _hus, en om vart annat kastad hög nottecken utgör ännu
 ingen musik, ett godtyckligt hopande av alfabetiska
@@ -2552,14 +2536,12 @@ ro, alltid i anslutning till dens vilja, som uttalar dem.
 På samma sätt ha även de majestätiska rytmerna ur
 GUDS Ord efter HANS vilja format ursubstansen, arkä,
 till de många former, som omfatta den uppenbarade
-världen...
+världen.
+
 Har läsaren någon gång sökt fatta den underbara
 kraft, som ligger i ett mänskligt ord? Som insmickran-
 de kärleksbetygelse kan det föra oss till blygd och skam
 på lastens väg och förstöra vårt liv genom lidande och
-70
-
-
 samvetskval, eller det kan sporra oss till de ädlaste gär-
 ningar för att förvärva rykte och ära på andra sidan.
 - Allt efter modulationerna kan ett ord fylla det tappraste
@@ -2571,6 +2553,7 @@ dekret utmyntade död och förbannelse efter godtycke.
 Men tonerna av en folkvisa kunna sammansluta medlem-
 marna i en familj så nära varandra, att intet kan störa
 deras endräkt.
+
 De rätta orden äro sanna och därför fria, de äro aldrig
 bundna eller fängslade av rum och tid, de nå jordens
 yttersta hörn, och då den kropp, som en gång uttalade
@@ -2579,10 +2562,12 @@ andra tungor med oförsvagad värme deras budskap av
 liv och kärlek, som t. ex. den härliga sången: "Jesus,
 min tillförsikt", som så otaliga röster sjungit och som
 tröstat tusentals sorgsna hjärtan.
+
 Fridsord ha segrat, där krig skulle varit detsamma
 som nederlag, och ingen gåva är värdefullare än makten
 att kunna säga det rätta ordet på rätt plats och i rätta
 stunden.
+
 Om vi så betänka det mänskliga ordets makt och kraft,
 kunna vi möjligen göra oss en föreställning om den omät-
 liga storheter och makten i GUDS Ord, detta skapande
@@ -2591,14 +2576,12 @@ en mäktig, dynamisk kraft, började forma urmaterien
 till världar, likt den genom en fiolstråke framkallade
 klangen formar geometriska bilder i den på en glasskiva
 utströdda sanden.
+
 Guds Ord ljuder allt jämt för att uppehålla
 och driva fram på sina banor de vandrande stjärnsyste-
 meni, det "skapande Ordet" fortfar allt jämt att fram-
 bringa former i ständigt stegrad verksamhet som ut-
 trycksmedel för liv och medvetande. Den harmoniska
-71
-
-
 tonbildningen ur på varandra följande stavelser i det
 "gudomliga skapande Ordet" visar efter var andra-föl-
 jande utvecklingssteg för värld och människor. Då den
@@ -2610,10 +2593,12 @@ världarna i sina urelement. Vårt liv skall då ha "med
 Kristus uppgått i GUD", tills den "kosmiska natten"
 Chaos är till ända och vi vakna upp till än större ting
 i "en ny himmel och på en ny jord".
+
 Enligt allmän åsikt utgöra Chaos och Kosmos de skar-
 paste motsatser: Chaos, ett övervunnet tillstånd av för-
 virring och oordning, som sedan äoner fullständigt av-
 lösts av den nu för tiden härskande kosmiska ordningen.
+
 I själva verket är Chaos såningsgrunden för Kosmos,
 grundläget för allt framåtskridande, ty därifrån härstam-
 ma alla de idéer, som senare bli påtagliga verkligheter
@@ -2633,11 +2618,9 @@ derkroppens stoff, en särskild form av tankemateria.
 Det har då uppstått en tanke, som är tydligt skönjbar
 för människans inre öga lika väl som barnet ses av för-
 äldrarna i det yttre.
+
 Så se vi, att idéer äro embryon till tankar, kärnor av
 andesubstans ur det abstrakta tänkandets region. Om
-72
-
-
 de på naturvidrigt sätt upptagas av en sjuk ande, övergå
 de till yillor och irrbloss, burna av en sund ande och om-
 formade till förunderliga tankar, utgöra dè grunden för
@@ -2646,6 +2629,7 @@ närmare vi stå i beröring med Chaos, desto bättre kom-
 mer vårt Kosmos att gestalta sig, ty inom detta rike för
 abstrakta verkligheter fördunklas inte sanningen genom
 stoffet, den är självlysande.
+
 Pilatus tillfrågades: "Vad är sanning?" Han blev oss
 svaret skyldig. Vi äro inte i stånd till att urskilja San-
 ningen inom den abstrakta världen, så länge vi ännu
@@ -2662,6 +2646,7 @@ i vatten, och de sanningar, som synas så självfallna i
 högre världar, fördunklas, brytas, förvridas på samma
 sätt till oigenkännlighet under den materiella världens
 bedrägliga inflytande.
+
 "Sanningen skall göra eder fria", sade Kristus, och
 ju mer vi vända våra strävanden bort från materiella
 begär och förvärva oss en skatt i himmelen, ju mer vi
@@ -2670,13 +2655,11 @@ lättare komma vi att urskilja Sanningen och uppnå be-
 frielse från köttets bojor, som fängsla oss vid så trånga
 gränsområden, desto förr uppnå vi en värdefullare verk-
 ningskrets.
+
 Studiet av vetenskap och filosofi söker befordra upp-
 nåendet av Sanningen, och under sitt fortskridande har
 vetenskapen så småningom kommit bort från sin ur-
 sprungliga, grova materialism. Den dag är inte långt
-73
-
-
 borta, då den kommer att ha mer respekt för religionen
 än själva kyrkan. Matematik betecknas som en "torr"
 vetenskap, emedan den lämnar känslan oberörd. Då man
@@ -2692,12 +2675,15 @@ jungar, ty han kände väl till det förädlande inflytandet
 av att genom intellektet höjas över känslosfären. Han
 ville leda dem upp till det abstrakta tänkandets region,
 som tillhör den ursprungliga verkligheten.
+
 I detta sammanhang vilja vi behandla de fem världar-
 na särskilt och skola därför skriva oss till minnes en
 kommentar till de första fem verserna i Johannes-evan-
 geliet:
+
 5. "Och livet blev ljuset i människan, och ljuset lyser
 i mörkret."
+
 Vi ha nu sett, att jorden är sammansatt av tre världar,
 som genomtränga varandra, tills det är fullkomligt sant,
 som Kristus sade: "Himmelen är inom eder" eller ibland
@@ -2713,13 +2699,11 @@ samvete. De högre regionerna inom begärvärlden
 bilda den första himmelen, där allt gott en män-
 niska gjort assimileras till själskraft. De konkreta tan-
 karnas region utgör den andra himmelen, där,
-74
-
-
 som redan sagts, anden förbereder sin kommande om-
 givning på jorden, och regionen för de abstrakta tan-
 karna är den tredje himmelen, men, som Paulus
 sade, om den är det knappt lovligt att yttra sig.
+
 Många komma antagligen att här fråga: "Finns det då
 verkligen något sådant som ett helvete?" Nej! Guds
 barmhärtighet eftersträvar lika mycket det godas
@@ -2734,6 +2718,7 @@ av en helveteseld och ville inpränta, att de syndare bland
 hans egna församlingsbarn, som hängåvo sig åt någon
 kättersk åskådning, skulle komma till helvetet och där
 brinna i evighet, vilket bleve slutet.
+
 Han tog en spritlampa med sig på predikstolen, höll
 en smula asbest i lågan och sade menigheten, att GUD
 skulle förvandla deras själar till en asbestliknande massa.
