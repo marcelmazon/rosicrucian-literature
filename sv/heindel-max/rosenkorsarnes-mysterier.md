@@ -1,18 +1,27 @@
-ROSENKORSARNES
-MYSTERIER
+---
+title: 'Rosenkorsarnes Mysterier'
+language: 'sv'
+original_title: "The Rosicrucian Mysteries"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'self'
+---
 
-AV
+<h1 id="the-rosicrucian-mysteries">Rosenkorsarnes Mysterier</h1>
 
-MAX HEINDEL
+Av Max Heindel
 
-ROSICRUCIAN FELLOWSHIP
+AN ELEMENTARY EXPOSITION OF THEIR SECRET TEACHINGS 
 
-The
-Rosicrucian fellowship
+THE ROSICRUCIAN FELLOWSHIP  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-Rosenkreuzerorden
+### <h3 id="">Rosenkreuzerorden</h3>
 
 Dess Budskap och Uppgift:
+
 Ett Sant Förstånd - Ett Gott Hjärta - En Frisk Kropp
 
 Innan man ingår på ett klarläggande av Rosenkreuzar-
@@ -37,10 +46,6 @@ hetens olika grupper läror, som i hög grad befordra till-
 växten av deras andliga krafter. Man kan faktiskt likna
 jorden vid en jättelik undervisningsanstalt, där det ges
 kvarsittare av alla åldersklasser och olikartade begåv
-
-5
-
-
 ningar, alldeles som i våra vanliga skolor. Där ha vi
 till ex. vildarna, som leva under de mest primitiva för-
 hållanden och vilkas gudstjänst består i tillbedjandet av
@@ -50,6 +55,7 @@ upphöjdare blir hennes gudsbegrepp, som här i Väster-
 landet nått sin bloming genom den kristna religionen,
 vilken ger oss den andliga upplysningen och de ideella
 målen.
+
 De olika religionerna ha skänkts åt de olika människo-
 grupperna genom upphöjda vüsen, sont vi inom kristen-
 domen känna under namn av "ärkeänglar", vilkas under-
@@ -58,6 +64,7 @@ med en så föränderlig storhet som människoanden i ut-
 veckling, så att de kunna vidtaga de mått och steg, som
 äro erforderliga för vår utveckling i överensstämmelse
 med vår högsta, universella välgång.
+
 Studiet av alla folks historia visar, att så där en sex
 hundra är före Kristi födelse en mäktig, andlig våg ut-
 gick från Stilla oceanens östra kust, där Konfusius' sto-
@@ -71,15 +78,13 @@ de på sitt tåg västerut samma andliga våg i gestalten
 av den så kallade "mörka tidsålderns" kristna religion,
 när en allenarådande kyrkas dogmer fordrade trosunder-
 kastelse av hela Europa.
+
 Enligt en lag i världsalltet följer alltid på en våg av
 andligt uppvaknande en våg av tvivlande materialism.
 Vardera slaget är nödvändigt för att anden skall uppnå
 en likformig utveckling av hjärta och intellekt, utan att
 drivas för långt åt någondera sidan. Förut nämnda
 väsen, som övervaka vår andliga utveckling, vidtaga all-
-6
-
-
 tid anordningar, som bevara mänskligheten från en dylik
 fara. Och, när de förutsågo den våg av materialism,
 som tog sin början under XVI:e århundradet med födel-
@@ -87,6 +92,7 @@ sen av vår moderna vetenskap, uttogo de ett steg för
 att skydda Västerlandet, liksom de förut skyddat Östern
 mot skeptikerna, när dessa höllos i schack genom myste-
 riiskolorna.
+
 Under XIII:e århundradet framträdde i Mellaneuropa
 en stor, andlig lärare med det symboliska namnet Chri-
 stian Rosenkreuz, som grundade Rosenkorsets hemliga
@@ -97,12 +103,12 @@ Ty den utgör Västerlandets mysteriiskola och står endast
 av andlig utveckling, vilken tillåter dem att invigas 1
 hemligheterna inom den vetenskap, som rör livet och till-
 varon.
+
 När vi en gång kommit så långt, att vi blivit i stånd
 att lämna vår grovmateriella kropp och företaga själens
 flykt genom det interplanetariska rummet, då komma
 vi att förstå, att den fysiska atomen ytterst är av sfä-
-risk form alldeles som vår jord
-den är en liten kula.
+risk form alldeles som vår jord - den är en liten kula.
 Om vi ta ett antal kulor av samma storlek och gruppera
 dem kring en lika stor kula, så skola vi finna, att det
 behövs precis tolv kulor, för att dölja en trettonde i
@@ -112,15 +118,12 @@ den i ett kosmiskt förhållande, och då alla mystiska ord-
 nar äro grundade på ett kosmiskt underlag, så bestå
 också de av tolv medlemmar, vilka samla sig om en tret-
 tonde, det osynliga huvudet för dem alla.
-G
+
 I spektrum skilja vi på sju färger, rött, orange, gult,
 grönt, blått, indigo och violett. Mellan rött och violett
 ges det ytterligare fem färger, som äro osynliga för det
 fysiska ögat, men dock avslöja sig för det andliga. Inom
 varje mystisk orden finns det likaledes sju bröder, som
-7
-
-
 tid efter annan utgå i världen för att där tjäna som över-
 bringare och hjälpare åt de människogrupper, inom vilka
 de verka; fem bröder bege sig däremot aldrig utanför
@@ -130,6 +133,7 @@ utveckling och förmå besöka templet i sin andekropp,
 något som läres i den första invigningen, vilken vanli-
 gen försiggår utanför templet. Det är nämligen inte
 rådligt för alla att kroppsligen beträda denna ort.
+
 Läsaren får emellertid inte tro, att en sådan invigning
 gör lärjungen till en Rosenkreuzare, åh, nej, lika litet
 som upptagandet i en högskola gör den studerande till
@@ -146,6 +150,7 @@ orden eller Hierofonterna inom en ringare mysteriiskola,
 mer än en student under första terminen uppnår sam-
 ma ställning och kunskap som en lärare inom den skola,
 där han fått sitt mogenhetsbetyg.
+
 En senare bok skall handla om invigning, men redan
 här må sägas, att portarna till varje äkta mysteriiskola
 inte öppnas med någon gyllene nyckel, utan endast som
@@ -156,11 +161,9 @@ att han är en bedragare. Den sanne lärjungen inom nå-
 gon mysteriiskola är allt för anspråkslös för att beröm-
 ma sig av dylika företräden, han tillbakavisar alla titlar
 och hedersbetygelser, han uppskattar ingen annan rike-
-8
-
-
 dom än kärlekens, som bringas honom av dem, som han
 får undervisa och tjäna.
+
 Under de efter Rosenkreuzer-ordens första framträ-
 dande flydda århundradena ha dess medlemmar i all still-
 het verkat för det stora målet att ombilda Västeuropas
@@ -173,6 +176,7 @@ för att motarbeta materialismen och befrämja utveck-
 lingen av själens krafter. Den ha vi att tacka för det
 långsamt skeende förandligandet av vår en gång så ma-
 terialistiska vetenskap.
+
 Med början av XX:e århundradet togs ännu ett steg.
 Man insåg, att något måste ske för att göra religionen
 vetenskaplig och vetenskapen religiös, så att de till slut
@@ -187,17 +191,16 @@ tyckas motsäga alla kända naturlagar. Materiellt upp-
 sving kan väl befrämjas, där intellektet härskar och hjär
 tats längtan förblir obesvarad, men själens tillväxt för-
 dröjes, tills även hjärtat blivit tillfredsställt.
+
 För att kunna skänka världen en lära i så omfattande
 form, måste utfinnas och därtill särskilt undervisas ett
 lämpligt sändebud. Vissa, mer ovanliga egenskaper voro
 nödvändiga, och den först utsedde strandade mot en ho-
 nom pålagd prövning, sedan flera års arbete nedlagts
 på att skola honom för det äskade verket.
+
 Ett gott gammalt ord säger, att det ges en tid för sådd
 och en tid för skörd, att i livet var sak har sin tid, och
-9
-
-
 motsvarande denna lag om periodicitet måste varje steg
 mot andligt uppåtstigande likaledes företagas på sin
 givna tid, om någon framgång skall följa. De första
@@ -206,6 +209,7 @@ gynnsamma för att börja utbredandet av nya, andliga
 läror. Därför voro Rosenkreuzarna mycket oroliga på
 grund av detta felsteg, då blott fem år ännu återstodo
 av det tjugonde århundradets första dekad.
+
 Deras andra val föll på den, som skriver dessa rader,
 ehuru han själv inte visste något därom. Och, under
 det de gestaltade de yttre förhållandena, satte de honom
@@ -228,15 +232,13 @@ och de många sen dess tryckta upplagorna liksom de
 många tusen breven till författaren, bära tillräckligt
 vittne om, att "människor funnit vad de sökt i dessa
 läror, vilket de länge och förgäves sökt på annat håll".
+
 Rosenkreuzarna lära, att alla, stora religioner givits åt
 de folk, bland vilka de uppträtt, av gudomliga intelligen-
 ser, vilka anpassat varje gudstjänstsystem efter behoven
 hos den ras eller nation, åt vilken det utgavs. Ett primi-
 tivt folk kan nämligen inte inställa sig på en hög och
 upphöjd religion, och vice versa. Vad som gagnar en
-10
-
-
 ras, skulle blott skada en annan, och, motsvarande dessa
 fordringar, har ett system för själsutveckling uttänkts,
 som är särskilt ägnat för de västerländska folken, vilka
@@ -244,7 +246,8 @@ enligt sin natur inte äro i stånd att underkasta sig en
 skolning, avsedd för de helt annorlunda artade och ut-
 bildade hinduerna.
 
-Rosenkreuzarnes Broderskap.
+#### <h4 id="">Rosenkreuzarnes Broderskap.</h4>
+
 För att utbreda Rosenkreuzerlärorna inom Västern
 stiftades år 1909 Rosenkreuzarnas Brödraskap. Det är
 härold för "Vattumannens tidsålder", varunder solen på
@@ -272,9 +275,6 @@ mer än så, vi skulle t. o. m. kunna oskadda gå genom
 fasta berget och genom rasande eld, om vi blott ägde den
 rätta kunskapen därom; själva blixten förefaller lång-
 sam mot den hastighet, varmed vi i själva verket skulle
-11
-
-
 kunna resa. Det låter ju som sagor likt Jules Vernes'
 för en generation sedan; men Vattumannens tidsålder
 kommer att låta oss se förverkligandet av dylika dröm-
@@ -282,6 +282,7 @@ mar och det vida mer, än vi nu ens kunna ana. Sådana
 färdigheter komma då att utövas av ett större antal
 människor, vilka så småningom utvecklat dem, liksom
 man nu lär sig gå, tala, höra och se.
+
 Häri ligger en stor fara, emedan en var, som utveck-
 lat sådana färdigheter, uppenbarligen kunde komma att
 använda dem till största skada för världen, så framt han
@@ -295,6 +296,7 @@ efter en religion är särskilt stor inom en viss människo-
 klass, där etern är svagare förbunden med de fysiska
 atomerna än hos de flesta människor och av denna grund
 redan börjat spåra inflytandet från Vattumannen.
+
 Denna klass delar sig åter i två grupper. Inom den
 ena framträder särskilt intellektet, och sådana männi-
 skor söka fatta de andliga mysterierna av begär efter
@@ -305,17 +307,16 @@ något värde, när det syftar mot att uppbygga något
 praktiskt, allmännyttigt och gott, synes ännu ej ha gått
 upp för dem. Denna klass kunna vi beteckna som ockul-
 tister.
+
 Den andra klassen begär icke så mycket vetande, utan
 känner fast mer en inre längtan efter GUD och följer
 hängivenhetens väg fram till det höga ideal, som getts
 dem i KRISTUS (Det gudomliga ljuset); de söka efter
 bästa förmåga efterlikna HONOM, och detta för så små-
 ningom till en inre upplysning, som skänker den första
-12
-
-
 gruppens hela vetande och vida mer. Denna klass kunna
 vi fatta som mystiker.
+
 En var av dessa grupper ser sig hotad av sina sär-
 skilda faror. Om ockultisten uppnår upplysning och ut-
 vecklar de inom honom förborgade, andliga färdigheter-
@@ -331,6 +332,7 @@ art, och, i samma mån som han tillväxer i nåden, i sam-
 ma mån kommer den "ljudlösa stämman" i hans inre att
 tala allt tydligare för att bli hans sanne förare genom
 livet.
+
 Rosenkreuzer-Brödraskapet bemödar sig att förbereda
 världen i gemen och sensitiver inom båda grupperna sär-
 skilt på uppvaknandet av människans latenta krafter så
@@ -346,18 +348,15 @@ och så småningom kunna vidare undervisa den större
 mänskligheten om de dygder, som äro nödvändiga för
 att ägandet av högre krafter inte skall bli en fara.
 
-Mount Ecclesia.
+#### <h4 id="mount-ecclesia">Mount Ecclesia</h4>
 
 Verkandet i den fysiska världen fordrar fysiska medel.
 För den skull inköptes 1911 i staden Oceanside, nittio
-
-13
-
-
 (engelska) mil söder om Los Angeles i Kalifornien, ett
 litet landområde. Sydkalifornien valdes på grund av
 eterrikedomen i dess atmosfär, och stället i fråga visade
 sig i så hänseende särskilt gynnat av naturen.
+
 På denna högt belägna plats med vid utsikt över den
 väldiga Stilla Oceanen, över snöbetäckta berg och soliga
 dalar började vi i slutet av år 1911 inrätta en trädgårds-
@@ -370,6 +369,7 @@ böner förrättas även sammastädes. Förvaltningsbygg-
 naden innehåller även redaktionsrum för våra månads-
 skrifter, framför allt då för "Strålar från Rosenkorset"
 ("Rays from the Rose Cross") liksom ett bokförlag.
+
 Genom outtröttligt arbete har mitt i en härlig, tropisk
 park skapats en välsignad plats. I denna strävan att
 åt den nya världsrörelsen skapa en skön, synlig medel-
@@ -384,14 +384,13 @@ medvetet eller omedvetet bada sina själar i omgiv-
 ningens skönhet, tilltaga de i styrka, tillväxa i nåd och
 uppnå allt mer färdigheter i HERRENS och MÄSTA-
 RENS vingårdsarbete.
+
 För att hjälpa dem, som känna sig dragna mot ljuset,
 till att i allvar och tro förbereda sin utveckling av för-
 borgade, andliga krafter, underhåller Rosenkreuzer-
 Brödraskapet två korrespondenskurser, som bringa un-
 dervisning åt lärjungar, spridda över hela världen. Den
 ena omfattar astrologi, den andra Kristen mystik.
-14
-
 
 Den astrologi, vi ägna oss åt, är inte att förväxla med
 förutsägande av kommande öden, den är ett trappsteg
@@ -403,6 +402,7 @@ utgöra förkroppsliganden av de "sju andarna framför
 tronen", mäktiga stjärnänglar, som använda sitt väl-
 görande inflytande till att leda mindre upphöjda väsen,
 människorna inberäknat, på utvecklingens väg.
+
 Månen har en sida, som vi aldrig se, men denna för-
 dolda hälft utgör en lika mäktig faktor till ebb och flod,
 som den för oss synliga delen av månen. På samma
@@ -414,6 +414,7 @@ efter stjärnornas gång, vilken man därför kan beteckna
 som "Ödets ur". Kunskapen om stjärnornas inflytande
 är därför en jättekraft, och ett horoskop avslöjar för
 den, som är invigd, varje livshemlighet hos en människa.
+
 Om du därför gett en astrolog dina födelsedata, äger
 denne nyckeln till din innersta själ; det ges ingen hem-
 lighet i en människas timliga liv, som han inte skulle
@@ -424,14 +425,12 @@ därför anförtro denna nyckel till ens själ åt annat än
 en vän. Aldrig borde en sådan erhålla den, som vore
 nedrig nog att utnyttja en andlig vetenskap till penning-
 vinst.
+
 För läkaren är astrologien oskattbar vid diagnos av
 sjukdomar och för utskrivandet av recept, ty den avslö-
 jar orsaken till alla lidanden på ett sätt, som ofta sät-
 ter tvivlaren i högsta förvåning och tar ordet ur den
 hånfulles mun.
-
-15
-
 
 Tusen människors åsikter äro alltid av ett visst värde,
 men ha i och för sig intet bevisvärde, ty tusen andra
@@ -449,6 +448,7 @@ vissa tider, då stjärnstrålningen för en särskild sjuk-
 dom är synnerligen gynnsam, eller genom botemedel,
 som förut beretts under särskilt gynnsamma omstän-
 digheter.
+
 Som fader skall du genom horoskopet kunna hos ditt
 barn upptäcka dåliga anlag och därigenom vara i stånd
 att ingripa på rätt sätt. Horoskopet kommer även att
@@ -461,7 +461,7 @@ kan uppbringas till sin högsta möjlighet. Därför är
 budskapet från de vandrande stjärnorna av sådan vikt,
 att du inte kan blind gå det förbi.
 
-Våra undervisningsstunder äro sanna predikningar.
+#### <h4 id="">Våra undervisningsstunder äro sanna predikningar</h4>
 
 De förkroppsliga de högsta sedliga och andliga prin-
 ciper, på samma gång som de företräda det mest upp-
@@ -469,13 +469,11 @@ höjda, etiska system. Ty för oss är astrologien ett steg
 inom religionen. Vi se aldrig på ett horoskop utan att
 vara fullt medvetna om att stå nära något heligt, an-
 sikte mot ansikte med en odödlig själ, och vår inställ-
-16
-
-
 ning gent emot en sådan är en bön om att kunna visa
 denna själ den rätta vägen.
 
-Vi ställa inga horoskop.
+#### <h4 id="">Vi ställa inga horoskop</h4>
+
 Ständigt skriva människor till oss och bifoga pen-
 ningar för horoskop — detta trots alla uppmaningar om
 motsatsen. På detta sätt förlora vi bara värdefull tid
@@ -484,10 +482,8 @@ av pengarna. Vi kunna blott åter och åter be om att
 bli förskonade för sådant, ty alla dylika anhållanden
 vinna aldrig bönhörelse.
 
-17
-
-
 Livets gåta och dess lösning.
+
 Bland alla livets växlingar, som nå den enskilde, reser
 sig en över dem alla och träffar förr eller senare en var
 ---döden. Hur vi än haft det ställt i livet, om detta
