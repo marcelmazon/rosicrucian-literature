@@ -2734,10 +2734,9 @@ färg eller trosbekännelse äro vi alla i lika hög grad
 GUDS barn, och var och en skall på sitt sätt mötas med
 rättfärdighet. Vi borde därför mer se till Kristus själv
 och lämna vår trosbekännelse åt sidan.
-75
 
+### <h3 id="">Människans konstitution</h3>
 
-Människans konstitution.
 Vår kapitelöverskrift överraskar måhända läsaren, om
 han inte hittills befattat sig med mysteriiläror, eller han
 kunde kanske tro, att vi ville skriva en anatomisk av-
@@ -2753,6 +2752,7 @@ träda i verksamhet på de olika planen för tillvaro, att
 äga en ur motsvarande substans bildad kropp eller att
 hon åtminstone måste ha för ändamålet upptagit något
 av stoffet ur dessa världar.
+
 Det finare stoff, som vi kallade begär-stoff och ande-
 materia, genomtränger, som vi tidigare visat, vår at-
 mosfär och den fasta jorden, precis på samma sätt som
@@ -2763,12 +2763,10 @@ niskan genomträngas av begär och tankevärlden, äga
 tankar och begär. Så är inte fallet, därför måste också
 något mer än blotta genomträngandet av dessa världar
 vara nödvändigt för vårt tänkande och kännande.
+
 För att kunna verka i denna vår värld bland andra lika
 väsen behöva vi, som bekant, en egen, fysisk kropp, som
 är uppbyggd av den osynliga världens kemiska bestånds-
-77
-
-
 delar. Då vi förlorat denna genom döden, hjälper det
 oss inte, att världsaltet är uppfyllt av precis samma
 kemikalier, som äro nödvändiga för uppbyggandet av en
@@ -2783,6 +2781,7 @@ att röra oss från det ena stället till det andra. Vi vore
 då bundna till samma ställe liksom växterna, och, ägde vi
 ingen ande, vore vi ur stånd att tänka, och vårt hand-
 lande vore driftlikt och instinktivt i likhet med djurens.
+
 Mot detta kunde man ställa det påståendet, att även
 djuren tänka. Vad våra husdjur beträffar, är detta del-
 vis sant, men vi människor tänka och argumentera dock
@@ -2794,6 +2793,7 @@ så laddas även denna tråd med elektricitet av vida lägre
 spänning. På samma sätt utvecklar även djuret, om det
 införes i sfären för mänskligt tänkande, en tankeverk-
 samhet av lägre ordning.
+
 Paulus omnämner även i sina skrifter den naturliga
 kroppen och andekroppen, medan människan själv bebor
 båda dessa kroppar som ande. Vi vilja nu helt kort be-
@@ -2802,23 +2802,22 @@ trakta konstitutionen av människans olika kroppar, vilka
 för det andliga ögat, som den tätare kroppen är för det
 fysiska.
 
-Livskroppen.
+#### <h4 id="">Livskroppen</h4>
 
 Den av våra kroppar, som är sammansatt av eter, kal-
 las inom den västerländska mysteriiskolan för "Livs-
-78
-
-
 kroppen", ty, som vi redan visat, etern är ingångsvägen
 för livskraften från solen och fältet för naturkrafter,
 vilka befordra sådana livsfunktioner som assimilering,
 tillväxť och fortplantning.
+
 Denna bärare av medvetandet är ett fullkomligt mot-
 stycke till vår synliga kropp, detta i varje enskild mole-
 kyl, i varje organ, endast med ett enda undantag, varom.
 vi skola tala senare. Den är dock en smula större och
 skjuter ungefär en och en halv tum utanför omkretsen
 för vår täta kropp.
+
 Mjälten är ingångsporten för de krafter, som giva liv
 åt denna kropp. Inom det eteriska motstycket till detta
 organ omvandlas solenergi till ett livsfluidum av svag
@@ -2826,6 +2825,7 @@ rosafärg. Därifrån utbreder det sig över hela nervsyste-
 met, och, sedan det gjorts brukbart inom hela kroppen,
 utstrålar det utåt i strålknippen, vilka likna ett pigg-
 svins taggar.
+
 Solstrålarna mottagas antingen direkt eller återkastas
 av månen eller planeterna. De direkt från solen här-
 stammande strålarna ge andlig upplysning, planet-strå-
@@ -2836,22 +2836,22 @@ visa en annan grad av växande, om de planteras vid full-
 måne eller om detta sker vid nymåne. Det råder även
 skillnad mellan växter, som sås, då månen befinner sig
 i ett fruktbart eller i ett ofruktbart djurkretstecken.
+
 Solstrålen uppsuges av den mänskliga anden, som har
 sitt säte i pannhålan, planet-strålen absorberas av hjär-
 nan och ryggraden, och månljuset intränger i vårt system
 genom mjälten.
+
 Såväl sol- som stjärn- och månstrålar äro trefärgade,
 och i månljuset, som skänker oss livskraft, är den blå
 strålen livet från "Fadern", vilket förorsakar kroppens
 utveckling, den gula strålen Sonens, som är den verk-
 samma principen i dess underhåll och tillväxt, medan
-79
-
-
 den röda strålen utgör den Helige andes liv, som driver
 till verksamhet, i det den fördelar den från den gula
 strålen erhållna energien. Denna princip är huvudsak-
 ligen verksam vid fortplantningen.
+
 De olika naturrikena upptaga denna livskraft på olika
 sätt allt efter deras konstitution. Djuren ha endast 28
 par ryggmärgsnerver. De äro avstämda på mån-mâna-
@@ -2859,6 +2859,7 @@ dens 28 dagar, och äro därför avhängiga av en grupp-
 själ för att kunna uppta de stjärnstrålar, som äro nöd-
 vändiga för att frambringa medvetande. De äro alldeles
 ur stånd att absorbera direkt solljus.
+
 Människan befinner sig på ett genomgångsstadium,
 hon har 31 par ryggmärgsnerver, vilket avstämmer hen-
 ne på solmånaden, men nerverna i den s. k. "Cauda
@@ -2881,12 +2882,10 @@ klappen, och för eder skall varda upplåtet!", sade
 Kristus. Då ert liv blivit en enda bön om upplysning,
 skall ert sökande inte vara förgäves, ert klappande inte
 bli utan svar.
+
 Sedan solenergien omvandlats i mjälten, genomström-
 mar den kroppens hela nervsystem, under det att den
 lyser av den skönaste, lätta rosafärg. Solenergien tjänar
-80
-
-
 samma ändamål som elektriciteten inom telegrafnätet.
 Vi kunna sträcka trådar mellan städer, upprätta telegraf-
 stationer och uppställa mottagare och transmissioner;
@@ -2904,6 +2903,7 @@ livsfluidet av någon orsak inte kan framtränga till någon
 del av kroppen, låt oss säga en arm eller ett ben, då är
 anden också ur stånd att sätta denna kroppsdel i rörelse,
 och vi säga då, att den är förlamad.
+
 Om vi äro fullt friska, förarbeta vi solenergien i så
 stora kvantiteter, att den inte kan förbrukas uteslutande
 inom kroppen. Därför strålar den ut genom porerna
@@ -2920,12 +2920,10 @@ fluga hindras att intränga i rummet genom ventilatorn.
 På detta sätt tjänar den ett mycket nyttigt ändamål,
 till och med sedan den utfört arbete inom kroppen, och
 återvänder så till sitt fria tillstånd.
+
 Det är en ganska sällsam och helt häpnadsväckande
 upplevelse, när man första gången ser, hur från kroppens
 blottade delar, t. ex. ansikte och händer, plötsligt utgår
-81
-
-
 en utstrålning av stjärnbildningar, av tärningar, pyra-
 mider och många andra geometriska former. Författa-
 ren av dessa rader har mer än en gång av förvåning
@@ -2934,6 +2932,7 @@ elser, ty han trodde sig lida av hallucinationer. De iakt-
 tagna formerna äro emellertid kemiska atomer, som ut-
 fört sitt arbete inom kroppen och nu utskiljas genom
 porerna.
+
 Då man intagit en måltid, förbrukas av kroppen livs-
 fluidum i stor myckenhet, ty detta utgör det bindemedel,
 varigenom naturkrafterna inbygga näringen i vår kropp.
@@ -2946,6 +2945,7 @@ så stark. Därför utsätter man sig genom omåttligt
 ätande för faran av förkylningar och insjuknanden, och
 en var, som önskar bevara sin hälsa, bör undvika att
 göra sig skyldig till ett sådant misstag.
+
 Vid vacklande hälsa och under tider för sjukdom för-
 brukar livskroppen endast ringa solenergi. Då tycks
 den synliga kroppen tidvis tära på livskroppen, så att
@@ -2954,6 +2954,7 @@ i samma mån som den synliga kroppen magrar av. De
 renande, odiska strålningarne saknas nästan helt och hål-
 let under sjukdom, varför komplikationer då så lätt
 inträda.
+
 Ehuru vetenskapen ännu inte direkt studerar denna
 kropp eller ens urskilt den, så har den dock vid olika till-
 fällen förutskickat nödvändigheten av en sådan kropp
@@ -2962,9 +2963,6 @@ na ha desto oftare och vid mångfaldiga tillfällen iakt-
 tagits av de lärda. Blondlot och Charpentier ha kallat
 dem för N-strålar efter staden Nantes, varest dessa strål-
 ningar för första gången iakttogos av de båda lärde.
-82
-
-
 Andra ha kallat dem "Odiskt fluidum". Vetenskapliga
 forskare, som sökt komma psykiska fenomen till livs,
 ha till och med fotografiskt fastslagit tillvaron av ett
@@ -2978,6 +2976,7 @@ otydliga konturer. Den andra bilden, som togs några
 ende vid mediets sida. Andra fotografier, som lärde
 lyckats erhålla genom det italienska mediet Eusapio Pal-
 ladino, visa ett lysande moln vid mediets vänstra sida.
+
 Vi sade i början av dessa klarlägganden, att livskrop-
 pen är ett fullkomligt motstycke till den fysiska krop-
 pen på ett undantag när: Den är av annat kön eller
@@ -2994,14 +2993,13 @@ nen, vilkens negativa livskropp inte producerar mer blod,
 än den utan svårigheter förmår förarbeta. Därför be-
 höver mannen ej de reningsprocesser, varigenom kvinnan
 befrias från blodöverskottet.
-Begär-kroppen.
+
+#### <h4 id="">Begär-kroppen</h4>
+
 Utom den synliga kroppen och livskroppen eller eter-
 kroppen ha vi ännu en kropp, som är sammansatt av
 begärstoff, varur vi bilda våra känslor och sinnesrörelser.
 Denne bärare uppfordrar oss till tillfredsställande av vår
-83
-
-
 sinneslust. Medan nu de redan omtalade verktygen äro
 väl organiserade, framträder begärkroppen för det and-
 liga ögat som ett äggformigt moln, som sträcker sig 16
@@ -3009,6 +3007,7 @@ till 20 tum utanför den fysiska kroppen. Den befinner
 sig även över huvudet och under fötterna, så att vår
 tätare kropp vilar i medelpunkten för detta äggformiga
 moln på samma sätt som äggulan inne i äggets.
+
 Orsaken till denna bärares rudimentära karaktär är,
 att den tillagts de båda andra först vid senare tidsepoker.
 Gestaltens evolution kan jämföras med det sätt och vis,
@@ -3028,6 +3027,7 @@ och öron äro ej nödvändiga för begärkroppens bruk, ty
 den kan skynda fram genom rummet snabbare än vinden
 även utan de fortskaffningsmedel, som vi behöva i denna
 världen.
+
 Sett med det inre ögat tycks det, som om i denna
 begärkropp funnes ett antal kretsande virvlar. Vi ha
 redan förklarat, att det är en särskild egenskap hos be-
@@ -3038,9 +3038,6 @@ som strålar ut mot den äggformiga kroppens periferi och
 centra. Begärkroppen visar alla färger och schatte-
 ringar vi känna och dessutom ett otal andra, som inte
 kunna beskrivas av mänskligt språk. Färgerna variera
-84
-
-
 hos varje människa allt efter karaktär och temperament,
 de växla också från det ena ögonblicket till det andra
 med de växlande sinnesstämningar, fantasibilder eller
@@ -3051,6 +3048,7 @@ människa, i vilkens horoskop Mars gör sig särskilt gäl-
 lande, har vanligen en purpurskiftning i auran, där Jupi-
 ter är den starkaste planeten, lyser färgen med en blå-
 aktig ton o. s. v. beträffande de övriga planeterna.
+
 Det fanns i jordens urhistoria en tid, då förkrust-
 ningen ännu inte blivit en verklighet och mänskligheten
 levde här och där på öbildningar mellan de sjudande
@@ -3065,6 +3063,7 @@ körteln, och som ersättning för ett enda sinnesorgan har
 hela kroppen såväl utvändigt som innantill blivit mot-
 taglig för känslointryck, vilket naturligtvis tyder på ett
 vida högre utvecklingssteg.
+
 Inom begärkroppen är varje del mottaglig för sväng-
 ningar liknande dem, vi nu beteckna som syn, hörsel,
 känsel, och varje del är i ständig, snabb rörelse, så att
@@ -3076,10 +3075,9 @@ kropp att genast i sin ordning och efterföljd få del av
 varje känsla, som en annan förut blivit bärare av. Där-
 för är begärkroppen alltigenom sensitiv och i stånd till
 de intensivaste känslor och sinnesrörelser.
-85
 
+#### <h4 id="">Hågen</h4>
 
-Hågen.
 Hågen är människoandens allra senaste förvärv, och
 hos flertalet människor, som ännu inte vant sig vid ett
 ordnat, följdriktigt tänkande, är den närmast ett osam-
@@ -3096,6 +3094,7 @@ namnet "Isisslöjan", och vilken ingen vid dödsfara kunde
 lyfta, ty bakom denna slöja befinner sig det Allra heli-
 gaste, vår kropps tempel, i vilket anden skall vara skyd-
 dad mot all närgångenhet.
+
 De, som ännu inte studerat de djupare vetenskaperna,
 torde här säga: "Men vartill alla dessa avdelningar?
 Själva Bibeln talar ju blott om själ och kropp, ty de
@@ -3111,12 +3110,10 @@ kropp, som är bärare av vår tanke, sammansatt av
 hågen och begärkroppen. Slutligen nämner han anden
 själv, som på grekiska nämnes Ego, på svenska: "Jaget"
 eller "Självet".
+
 Uttrycket Ego är ett begrepp, som den mänskliga an-
 den endast kan begagna om sig själv. Vi kunna kalla
 en hund för hund, ett bord för ett bord, och varje annan
-86
-
-
 kan begagna samma beteckning därför. Men blott ett
 mänskligt väsen kan kalla sig Ego; och endast människan
 kan tala om sig själv som ett jag. Ty detta är ett
@@ -3124,15 +3121,16 @@ tecken på självmedvetande, ett erkännande av självet
 genom den mänskliga anden som en väsenhet, vilken är
 tillfinnandes genom sig själv och avsöndrad från alla
 andra.
+
 Så se vi, att människans sammansättning är mer kom-
 plicerad, än det kan tyckas vid första ögonkastet. Och
 vi skola nu skärskåda verkan av de olika livsbetingel-
 serna på detta sammansatta väsen.
-87
 
+### <h3 id="">Liv och död</h3>
 
-Liv och död.
-Osynliga hjälpare och medier.
+#### <h4 id="">Osynliga hjälpare och medier</h4>
+
 Det ges två klasser av människor i världen. Inom den
 ena klassen äro den vitala kroppen och den grovfysiska
 så fast sammanfiltrade i varandra, att eterstoffet under
@@ -3141,12 +3139,14 @@ pen under alla omständigheter och alltid från födelse till
 död. Sådana människor äro okänsliga för alla översinn-
 liga uppenbarelser eller ljud. De äro därför vanligen
 synnerligen skeptiska och tro blott på vad de kunna se.
+
 Så ges det en annan klass av människor, hos vilka
 föreningen mellan den täta och den vitala kroppen är
 mer eller mindre lös, så att etern i deras livskropp vibre-
 rar med högre hastighet än hos den förra klassen. Sådana
 människor äro mer eller mindre känsliga för den andliga
 världen.
+
 Denna klass av sensitiver kan i sin ordning åter upp-
 delas i två andra. Några äro svaga karaktärer, vilka
 genom andras starkare vilja behärskas på ett nega-
@@ -3154,20 +3154,17 @@ tivt sätt, nämligen som medier, vilka äro offer för
 andar, som avlagt sina kroppar och åter önska komma i
 besittning av en fysisk kropp, sen de genom döden förlo-
 rat sin egen.
+
 Den andra klassen av sensitiver utgöres av starka,
 positiva karaktärer, som endast verka utifrån sitt inre
 och efter egen vilja. De kunna utveckla sig till utbildade
 clairvoyanter och äro sina egna herrar och mästare i
 stället för slavar åt andar, som lämnat sina kroppar.
-88
-
-
 Hos några sensitiver av bägge klasserna är det möjligt
 att utdraga en del av den eter, som bildar vitalkroppen.
 Om en ande, som avlagt sin egen kropp, tager en sådan
 människa i besittning, förmär den av henne göra ett
-"Materialisations-medium".
-Den människa
+"Materialisations-medium". Den människa
 däremot, som är i stånd att genom en viljeakt utdraga
 sin egen livskropp ur den fysiska, blir medborgare av
 två världar, oavhängig och fri. Sådana väsen äro van-
@@ -3187,6 +3184,7 @@ människa drunknar, skiljer sig likaledes livskroppen från
 den fysiska, och den intensiva prickande smärta, som
 står i förbindelse med återupplivandet, låter hänföra sig
 till precis samma orsak.
+
 Medan vi befinna oss i vaket tillstånd och fullfölja vårt
 arbete inom den "fysiska världen", genomtränga begär-
 kroppen och anden den täta kroppen och livskroppen,
@@ -3199,13 +3197,10 @@ begärkroppens angrepp, förfallsgifter hopa sig, och livs-
 fluidets strömning blir allt slappare, tills det äntligen
 blir oförmöget att påverka musklerna. Då känner krop-
 pen tyngd och trötthet. Till sist sjunker livskroppen all-
-
-89
-
-
 deles ihop, den lilla kraftström, som ännu genomtränger
 varje atom, synes sina ut, och Egot blir nödsakat att
 överlämna sin kropp åt sömnens vederkvickande krafter.
+
 Då en byggnad skadats och måste helt renoveras,
 tvingas hyresgästerna att lämna den och lämna rum för
 byggnadsarbetarna. På samma sätt måste anden, då
@@ -3215,8 +3210,10 @@ ut ur densamma. Då begärkroppen förorsakat skadorna,
 lägsnas. Varje natt, då kroppen tröttnat, bortdragas de
 högre bärarna därur, endast den täta kroppen och vital-
 kroppen ligga kvar på vilobädden.
+
 Sen börjar återställelseprocessen och fortgår längre
 eller kortare tid allt efter omständigheterna.
+
 Men ibland har begärkroppens grepp om våra tätare
 bärare blivit så kraftigt, att den inte vill släppa. Om
 den sysslat så starkt med vad som försiggått under
@@ -3231,17 +3228,16 @@ kroppen vidare förmedlar all rörelse, så har kroppen en
 böjelse för att kasta sig i bädden, om begärkroppen inte
 är tillräckligt utdriven; detta åstadkommer rolös sömn,
 som vanligen beledsagar virriga drömmar.
+
 Tidvis kunna drömmarna vara profetiska och gå i upp-
 fyllelse. Sådana drömmar infinna sig emellertid endast,
 om begärkroppen helt lösgjort sig. Anden har t. ex.
 förutsett en hotande fara och intrycker då detta för-
 hållande på hjärnan i ögonblicket för upp-
 vaknandet.
+
 Det förekommer även, att anden beger sig ut på en
 själens flykt och åsidosätter sin andel i återställnings-
-90
-
-
 arbetet på kroppen, då blir begärkroppen ur stånd att
 om morgonen återinträda till vanlig tjänstgöring, varför
 den fysiska kroppen sover vidare. Anden kan under
@@ -3261,6 +3257,7 @@ kroppen låg medvetslös. Är trancetillståndet djupare,
 kommer den återvändande anden inte att ha något minne
 av vad som tilldragit sig i kroppens närhet utan berät-
 tar upplevelser ur den osynliga världen.
+
 För några år sedan föll en ung flicka, Florence Bennet
 i Kankakee, Illinois, i ett dylikt trancetillstånd. Hon
 återvände varje dag till sin kropp, men stannade varje
@@ -3278,17 +3275,16 @@ sår i huvudet, fakta, som även iakttagits av psykiska
 forskare. Människor, som omkommit genom olycksfall,
 gå så länge omkring med sina skador, tills de märka, att
 en önskan om att äga en hel kropp är tillräcklig att
-
-91
-
-
 utrusta dem med en ny arm eller ett nytt ben; ty begär-
 stoff formas snabbt och utan möda efter varje önskan.
-Döden.
+
+#### <h4 id="">Döden</h4>
+
 Efter längre eller kortare tid kommer i varje liv en
 tidpunkt, då de erfarenheter, som en ande kan förvärva
 i sin tillfälliga omgivning, äro uttömda, och då slutar
 döden denna människas liv.
+
 Döden kan inträffa plötsligt och till synes oväntat,
 som till exempel på slagfältet eller vid ett olycksfall,
 genom en tillfällighet, som det heter - i verkligheten
@@ -3316,15 +3312,13 @@ inre världarna. Det ges ingenting i livet, som saknar
 så oangenäma livsförhållanden, vi skulle tvärtom till-
 godogöra oss all lärdom, som kan dragas därur, så att
 vi finge glädja oss åt ett långt och nyttigt liv. Däremot
-92
-
-
 kan kanske någon invända: "Dina läror äro inte konse-
 kventa. Du påstår, att det i verkligheten inte finns
 någon död; att vi efter den ginge en lättare tillvaro till
 mötes; att vi där hade att vinna lärdomar i en annan
 och för oss nyttigare omgivning. Vad tjänar det då
 till att här dras med ett långt liv?"
+
 Det är alldeles riktigt, att jag gjort dylika påståenden,
 men dessa påståenden täcka helt och hållet även dessa
 satser. Det ges nämligen erfarenheter, som vi blott
@@ -3355,9 +3349,6 @@ behöva den moderliga ledningen, nu måste ensamma till-
 kämpa sig sin väg; kanske till råga på olyckan se dem
 misshandlas utan möjlighet till att ens höja en hand
 däremot, om hennes hjärta än blödde aldrig så mycket,
-93
-
-
 som det brukade under jordelivet. Alla dessa ting äro
 sorgliga, och de kvarhålla anden vid jorden
 längre tid än vanligt. De hindra den därför att samla
@@ -3366,6 +3357,7 @@ sidan döden, och sådana mänskliga väsen göra det därför
 önskvärt, att de, bortsett från andra, förut nämnda skäl,
 tillstädjas en längre livslängd, innan de bestiga de högre
 trappstegen.
+
 Skillnaden mellan dem, som skiljas hädan i mycket
 framskriden ålder, och dem, som lämna jorden under
 sina ungdomsår, inses lätt av det sätt, varpå fruktkött
