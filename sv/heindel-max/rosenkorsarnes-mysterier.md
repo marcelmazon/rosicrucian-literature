@@ -482,7 +482,7 @@ av pengarna. Vi kunna blott åter och åter be om att
 bli förskonade för sådant, ty alla dylika anhållanden
 vinna aldrig bönhörelse.
 
-Livets gåta och dess lösning.
+### <h3 id="">Livets gåta och dess lösning</h3>
 
 Bland alla livets växlingar, som nå den enskilde, reser
 sig en över dem alla och träffar förr eller senare en var
@@ -494,6 +494,7 @@ svärmade av beundrande skaror eller om vi vandrat här
 i livet obemärkta och okända av alla, en gång kommer
 ändå det ögonblick, då vi stå ensamma inför dödens
 port och tvingas göra språnget in i det stora okända.
+
 Tanken på detta språng och på vad som kan ligga på.
 andra sidan, måste obönhörligt tränga sig på varje tän-
 kande människa. I ungdomens år och medan vi ännu
@@ -508,21 +509,21 @@ att tanklöst och i blint förtroende helt enkelt anta nå-
 gon färdig, erbjuden lösning av frågan; ty här är det
 fråga om ett grundläggande problem, som en var måste
 lösa, för att erhålla ett tillfredsställande svar.
+
 I östra kanten av Sahara står den världsbekanta
 sfinxen med sitt outgrundliga ansikte vänt mot Östern
 och hälsar så varje dag den uppgående solen. Den
 grekiska sagan berättar, att ett liknande vidunder ställ-
-18
-
-
-le sig i varje vandrares väg och gav honom en gåta att
+de sig i varje vandrares väg och gav honom en gåta att
 lösa. Den, som inte kunde lämna rätt svar, blev uppäten
 av sfinxen, men då Ödipus löste gåtan, förintade den sig
 själv.
+
 Den fråga, som den förelade människan, gällde livets
 mening och dödens hemlighet, ett problem, som är vik-
 tigare än någonsin och som varje enskild måste lösa, om
 han inte vill bli uppslukad av förintelsens käkar.
+
 Den, som en gång funnit lösningen, skall emellertid
 inse, att det i verkligheten ej finns någon död och att
 det, som syns oss som död, endast är en växling från
@@ -531,6 +532,7 @@ människa, som funnit livsgåtans sanna lösning, dödens
 sfinx upphört att finnas till, och hon kan triumferande
 utropa: "Död var är din udd, o, helvete var är din
 seger?"
+
 Man har uppställt en rad teorier för att söka lösa
 livsproblemet. Vi kunna dela dem i två klasser, nämli-
 gen den monistiska, som söker förklara alla livets fakta
@@ -538,6 +540,7 @@ ur deras förhållande till den av oss bebodda, synliga
 världen, och den dualistiska, som sätter en del av livs-
 problemen i förhållande till en annan, för oss ännu osyn-
 lig värld.
+
 Raphael har i sin berömda tavla "Skolan i Athén"
 mycket träffande återgivit dessa båda tankeriktningar.
 Vi se på denna härliga målning en grekisk sal, sådan
@@ -551,15 +554,13 @@ ansikte, men med djupa, viljestarka ansiktsuttryck. En
 var söker övertyga den andre om, att hans åsikt är den
 riktiga, men båda bära klippfast sin egen övertygelse
 i hjärtat. Den ene lär, att han är jordisk och som
-19
-
-
 sådan härstammar från jorden, att han är kommen av
 stoft och skall till stoftet återvända; den andre äger
 den fasta tron, att det ges ett högre, som funnits i alla
 tider och skall fortsätta att finnas till utan hänsyn till
 om den kropp, vari det nu befinner sig, håller tillsam-
 mans eller ej.
+
 Frågan om vem som har rätt är ännu olöst för de
 flesta människor. Millioner ton trycksvärta och pap-
 persmassa ha slösats på att söka lösa frågan genom
@@ -574,6 +575,7 @@ som kan göras från deras sida, vilka för sin del löst
 livsproblemet, är att skänka andra de riktlinjer, efter
 vilka de själva funnit lösningen, och att därigenom visa
 forskaren den väg, på vilken han kan komma till visshet.
+
 Detta är ändamålet med denna bok. Den vill inte
 bjuda någon färdig lösning på livsproblemet, som man
 blint skall tro i tillit till författarens förmåga av klar-
@@ -585,14 +587,12 @@ fattaren och vidgade genom hans egna oberoende forsk-
 ningar i det rike, som anden genomvandrar på sin cyk-
 liska väg från den osynliga världen till detta plan för
 tillvaro och tillbaka igen.
+
 Inte desto mindre bör lärjungen alltid vara på sin vakt,
 emedan författaren kunde ha missförstått några av lä-
 rorna och, trots största omsorg, kanske dragit oriktiga
 slutsatser om vad han trott sig upptäcka inom de osyn-
 liga världarna, ty där ges det otaliga möjligheter till
-20
-
-
 att begå misstag. I den synliga världen runt omkring
 oss utgöra formerna någonting invant och förändras
 inte så lätt, men i den för endast det andliga ögat syn-
@@ -606,6 +606,7 @@ medier och andra oskolade skådare, som, om de också
 riska, försvinnande formen, detta, emedan de ej äro i
 stånd till att skåda livet självt, som bildar den varaktiga
 grunden till denna form.
+
 Vi måste ju också först lära oss se i denna värld.
 Det nyfödda barnet har intet begrepp om avstånd och
 griper därför efter ting, som ligga långt utom dess räck-
@@ -616,6 +617,7 @@ vill förflytta sig i rummet, han säger, att det är lätta-
 re för honom att vid gåendet lita sig till känseln i stäl-
 let för till ögonens ljus, just emedan han ännu inte lärt
 att använda det nyförvärvade sinnet.
+
 På samma sätt måste en människa, som nyligen för-
 värvat andlig syn, först skolas, ja, hon har större behov
 av undervisning än den blinde och det nyfödda barnet.
@@ -629,9 +631,6 @@ eller sina älskades utseende, skulle det naturligtvis kom-
 ma att leva i den tron, att det blott kunde få se alle-
 handa dylika förvridna former, ehuru spegeln ensam bär
 skulden till villfarelsen. Finge så barnet se de i försö-
-21
-
-
 ket inblandade personerna utanför det bedrägliga spe-
 gelrummet, skulle det inte vara i stånd till att igenkänna
 dem, förr än man gett det gåtans lösning. Liknande
@@ -641,6 +640,7 @@ tillräckligt skolade att kunna taga brytningen med 1
 räkningen och att med blicken riktigt fatta livet, som
 är något varaktigt och fast, och lämna den föränder-
 liga och svinnande formen åt dess värde.
+
 Faran för att se tingen förvridna består dock allt-
 jämt och är så svår att rätt urskilja, att det är mig en
 bjudande plikt att varna läsaren, så att han upptar alla
@@ -654,7 +654,8 @@ själv klargjort allt för sig själv. Då kan han endast
 tillskriva sig själv orsaken till sina misstag, och för-
 fattaren förblir utan skuld.
 
-Tre teorier om livet,
+#### <h4 id="">Tre teorier om livet</h4>
+
 Man har uppställt endast tre, mer anmärkningsvärda
 teorier till lösning av tillvarons problem, och, för att
 läsaren själv må göra det så viktiga urvalet bland dessa,
@@ -663,15 +664,14 @@ bevis, som föranleda oss att anbefalla läran om åter-
 födelsen som den metod, vilken särskilt erkänner själens
 tillväxt och den slutliga, högsta fullkomningen och alltså
 erbjuder den bästa lösningen på livets gåta.
+
 I. Den materialistiska teorien lär, att li-
 vet endast är en kort resa från vaggan till graven och
 att det i hela universum inte ges någon högre intelligens
 än människan. Att hennes ande är en följd av vissa
-22
-
-
 föreningar av stoffet och att döden och kroppens upp-
 lösning därför utgöra slutet på tillvaron.
+
 Det gavs en tid, då de materialistiska filosofernas be-
 visföring verkade övertygande, men med vetenskapens
 framsteg framgår allt klarare, att det även ges en and-
@@ -702,19 +702,18 @@ ene i och undergår ingen förintelse, som materialister-
 naka påstå. Därför förkasta vi den materialistiska
 teorien som ohållbar, emedan den strider mot naturla-
 garna och mot fastställda fakta.
+
 II. Den teologiska åskådningen påstår,
 att omedelbart vid födelsen skapas en själ av GUD och
 inträder i världen för att där leva under en tid, som
 kan växla mellan några minuter och en räcka årtion-
-23
-
-
 den. Vid slutet av den korta tidsfristen återvänder den-
 na själ genom dödens port till det osynliga landet på
 andra sidan, där den förblir i ett evigt tillstånd av lyck-
 salighet eller fördömelse allt efter de gärningar, som
 den satte i verket under sina få levnadsår i den fysiska
 kroppen.
+
 Plato fordrade en klar definition av begreppen vid var-
 je bevisföring, och vi påstå, att detta är lika nödvändigt,
 när det gäller att intränga i livsproblemen ur biblisk
@@ -724,16 +723,19 @@ stående av kropp, själ och ande. De båda sistnämnda
 tagas ofta i samma betydelse, men vi påstå, att de ej
 få förblandas, och framställa som stöd för vår utsago
 följande:
+
 Allt, som finns, befinner sig i ett tillstånd av sprittan-
 de, skälvande rörelse. Vibrationer från föremålen i vår
 omgivning tränga ständigt in på oss och skänka våra
 sinnen kunskap om den yttre världen. Svängningar i
 etern påverka våra ögon, så att vi se, och svängningar 1
 luften bära toner till våra öron.
+
 Vi inandas även luft och eter, som på sådant sätt äro
 fyllda av bilder från vår omgivning, så att vi förmedelst
 vår andedräkt i varje ögonblick av vårt liv i vårt inre
 upptaga en noggrann bild av den yttre omgivningen.
+
 Detta är ett vetenskapligt faktum. Vetenskapen för-
 klarar emellertid inte, vart dessa svängningar ta vägen.
 Men enligt Rosenkreuzer-mysteriernas lära överföras de
@@ -745,13 +747,11 @@ nyföddes första andedrag och sluta med den döendes
 sista suck, och själen blir en produkt av denna andning.
 Skapelsehistorien visar likaledes sammanhanget mellan
 själ och andedräkt med orden: "Och Herren GUD for-
-24
-
-
 made en människa av jordens stoft och inblåste livets
 anda i hennes näsa, och så blev människan en levande
 själ". (Samma ord "nephesch" återges med anda och
 själ i detta citat.)
+
 I tillståndet efter döden komma andedräktsuppteck-
 ningarna till sin rätt. De goda gärningarna framkalla
 lyckokänsla, och sympatiens intensitet förkroppsligar
@@ -761,6 +761,7 @@ räddas från undergång, ty genom sin förening med an-
 den blir den odödlig. I samma mån som liv lägges till
 liv, bli vi allt själfullare, därför utgöra de också grund-
 laget för själens tillväxt.
+
 Uppteckningen av våra onda handlingar sker likaledes
 genom vår andning i de ögonblick, när de begingos. Det
 smärtsamma lidande, som de förorsaka, kommer anden
@@ -773,6 +774,7 @@ Minnet av de med reningen förbundna lidandena kvar-
 står dock i anden som samvete, vilket söker avskräcka
 människan från ett upprepande av de begångna synder-
 na i ett senare liv.
+
 Så upptecknas våra goda och onda handlingar genom
 andedräktens bemedling, vilken således blir grundlaget
 för vår själ. Medan nu uppteckningarna av våra goda
@@ -780,16 +782,14 @@ handlingar förena sig med anden och leva vidare för
 alltid som en odödlig själ, utplånas andedräktsuppteck-
 ningarna av våra onda gärningar. De utgöra den själ,
 som syndar och dör.
+
 Medan Bibeln lär, att odödligheten är avhängig av
 våra goda gärningar, gör den ingen sådan urskiljning
 beträffande anden. Men bibeluttalandet är klart och
-övertygande: "-- Då silvertråden löses
-åter-
-25
-
-
+övertygande: "-- Då silvertråden löses -- åter-
 vänder stoftet till jorden, varav det var kommet, och
 anden återvänder till GUD, som givit den."
+
 Så lär Bibeln, att kroppen gjorts av stoft och åter-
 vänder till stoftet (den stoffliga materien), att en del
 av själen, vilken uppstår genom andningen, är förgäng-
@@ -798,6 +798,7 @@ evigt. Därför är en "själ, som går förlorad", enligt van-
 ligt språkbruk inte förenlig med Bibelns lära, ty anden
 kan inte skapas och är av evighet lik GUD själv, varför
 den ortodoxa teologien inte kan vara sann.
+
 III. Teorien om återfödelsen lär, att varje
 ande utgör en väsensdel av GUD, att den inom sig bär
 alla möjligheter, liksom ekollonet i sig innesluter möj-
@@ -809,36 +810,43 @@ lorad, utan att alla till sist skola uppnå högsta full-
 ändning och förening med GUD, i det en var medföra
 den samlade erfarenhet, som är en frukt av pilgrims-
 färden genom materien.
+
 Vi kläda samma tanke i poetisk form:
 
-VI LEVA EVIGT.
+```
+VI LEVA EVIGT
+
 Likt brusande storm på Zephirens vingar
 sig änglakören i världshymner svingar.
 Hör, hur den jublar: "Vi gått genom dödens port.
 Det ges ingen död, ty livet är evigt i eviga ord.
+
 Vi voro, vi äro, vi skola förbli,
 vi hava vårt arv av all evighet.
 Gammalt som världen, en del av det enda, stora hela
 är varje väsen, varje odödlig själ.
+
 På tidens vävstol väva vi vår klädnad,
 vi väva evigt tänkandets långa väv.
 Våra fäder, det hem, som anden kallat till varande,
 gavs form i himlen, innan jord dem ännu bar.
-26
-
 
 Vi, som glänst i stenen, vi, som dansat på vågen,
 vi, som glött i elden och som trotsat graven,
 som växlat form och sätt och namn i tusentals gestalter,
 förblevo alltid samma i vårt inre, eviga väsen.
+
 Och nã vì en gång vår högsta bestämmelse, om
 vårt växandes steg sig uppenbara för anden,
 om led sig fogar till led och bildar en enhet
 och vägen steg för steg kan äntligt överskådas,
+
 då bliva slutligen vetande alla,
 om ständigt vi sträva att göra det sanna, det sköna, det ädla,
 fulla av godhet mot alla och ingen till smärta,
 att Herrens vilja i och genom oss kan ske!"
+```
+
 Vi våga det påståendet, att det ges blott en enda synd:
 Okunnighet och blott en frälsning: Tillkämpat ve-
 tande. Själva de klokaste bland oss veta emellertid en-
@@ -848,6 +856,7 @@ under endast en kort livsperiod. Vi se också i naturen,
 hur allt i långsam, oupphörlig utvecklingsprocess strä-
 var till allt högre utveckling, och vi kalla denna process
 för evolution.
+
 En av evolutionens förnämsta egenheter ligger i det
 faktum, att den uppenbarar sig i varandra avlösande
 perioder av verksamhet och vila. Den rörliga somma-
@@ -861,12 +870,9 @@ lika visst, som solen uppstår om morgonen efter att ha
 om aftonen sjunkit bakom bergen, kommer det liv, som
 avslutades genom kroppens död, att återupptagas i en
 ny kropp och i en ny omgivning.
+
 Vår jord kan i sanning liknas vid en skola, till vilken
 vi återvända från det ena livet till det andra för att
-
-27
-
-
 förvärva kunskaper. Barnet sover om natten, som in-
 faller mellan två skoldagar, och anden vilar på samma
 sätt mellan död och återfödelse från livets verksamhet.
@@ -882,6 +888,7 @@ lära livets läxor, komma vi naturligtvis raskare fram i
 livsskolan än om vi sloge dank eller förslöade vår tid
 på annat sätt. Detta försiggår alldeles i överensstäm-
 melse med de vid våra läroverk rådande grundsatserna.
+
 Vi äro alltså inte här allenast på grund av en nyck av
 GUD. Inte har HAN godtyckligt placerat den ene mitt
 i ett land, som flyter av mjölk och honung, medan den
@@ -899,30 +906,37 @@ själva önska, så kommer också att ske. Sir Edwin Ar-
 nold ger ett härligt uttryck åt denna lära i sin dikt
 "Asiens ljus":
 
+```
 Skriften, bröder, talar sant om mänskans liv,
 det framgår ur vad det tillförne var.
 Ur det förgångnas synd framsprungit sorg och nöd,
 men godhet lycka bar.
-28
-
 
 En var har högsta härskargåva fått:
 Hos väktarne i djupen, likt i högsta höjd,
 bland alla kreatur, bland skapat kött
 ger gärning kval och fröjd.
+
 Den, vilken gick som slav, skall kanske få
 som furste skörda vad den fromme sått,
 den konung blev, i lumpor sonar tungt
 1 dag sin förtids brott.
+```
+
 Och, som en okänd diktare uttrycker sig:
+
+```
 Ett skepp drar ostvart, andra gå mot väster,
 och samma vind dem allesammans för.
 Blott seglens ställning, inte vindens riktning
 bestämmer den, vari sig skeppet rör.
+
 Men vinden liknar ödets starka vilja,
 hur än vi sedan genom livet skrida.
 Vad själen gör, bestämmer helt vårt mål,
 ej ro i lättja, ej att planlöst strida.
+```
+
 Om vi vilja utse en människa till en bestämd mission,
 så utvälja vi en personlighet, som vi anse särskilt skickad
 för de med missionen förenade uppgifterna; och vi få
@@ -936,15 +950,14 @@ rustade för sina uppgifter. Johannes Döparen kom även
 till världen för att bereda väg för den kommande Fräl-
 saren och för att predika om det GUDS-rike, som skulle
 träda i nationernas ställe.
+
 Om dessa män inte förut genomgått skolning, hur
 skulle de då kunnat utveckla så härliga gåvor, att de
 blevo i stånd att utföra sin mission? Och, om de nu
 voro utrustade med sådana gåvor, hur skulle de kunnat
-29
-
-
 erhålla dem annat än genom skolning, låt oss säga, i
 föregående liv?
+
 Judarna trodde på läran om återfödelsen, annars skul-
 le de inte ha frågat Johannes Döparen, om han var Elias,
 så som det berättas i första kap. av Joh. ev. Kristi
@@ -958,6 +971,7 @@ således Kristus läran om återfödelsen, eftersom han inte
 lärde lärjungarna annorlunda, vilket skulle varit hans
 plikt som MÄSTARE, om lärjungarna framställt en irr-
 lära.
+
 Till ytterligare visso sade han alldeles otvetydigt till
 Nikodemus: "Utan att en människa föds på nytt, kan
 hon inte ingå i GUDS rike", och i Matt. kap. XI, 14 sä-
@@ -966,6 +980,7 @@ XVII, 12 säger han: "Elias har redan kommit, och I
 haven icke igenkänt honom, utan gjort med honom som
 ni ville... Då förstodo lärjungarna, att han talat till
 dem om Johannes Döparen."
+
 Vi uppställa den tesen, att läran om återfödelsen ut-
 gör den enda lösning på livets gåta, vilken står i sam-
 klang med naturlagarna, som motsvarar de etiska ford-
@@ -974,14 +989,12 @@ våld mot förnuftet inför livets olikheter och de olikarta-
 de omständigheter, som åt den ene skänka det livets
 överflöd och frihet från alla sorger, som förvägras fler-
 talet andra människor.
+
 Teorien om ärftlighet, som materialisterna förfäkta,
 sträcker sig endast till formen, ty, på samma sätt som
 en snickare ur en bestämd brädstapel hämtar material
 till ett hus, som han senare bebor, på samma sätt häm-
 tar anden substans till sin senare bostad från föräldrar-
-30
-
-
 na. Timmermannen kan inte bygga ett hus av hårt vir-
 ke ur ett mjukt, och anden måste likaledes uppbygga
 en kropp, som motsvarar materialet. Ärftlighetsteorien
@@ -999,6 +1012,7 @@ var likaså betydande, hade fem barn, som alla dogo i
 hjärnsjukdom. Alexander den stores broder var idiot.
 Därför måste vi med nödvändighet finna en annan lös-
 ning, som förklarar livsbetingelserna.
+
 Återfödelsens lag i förening med systerlagen om kausa-
 litet (utjämning) skänker oss denna förklaring. Om
 vi dö efter ett liv, återvända vi senare till jorden under
@@ -1009,6 +1023,7 @@ nade, musikern drages till konsertsalar, musikskolor och
 kongeniala andar, och det återvändande Egot medför
 likaledes böjelser och aversioner, som komma det att
 söka föräldrar ur den klass, som det tillhör.
+
 Men mot detta kan kanske någon anföra fall, där vi
 finna människor av alldeles motsatt anderiktning föra
 ett kvalfullt liv, sammankedjade, som de blivit, i samma
@@ -1018,9 +1033,6 @@ dock på intet sätt lagen, ty i varje liv framväxa bestäm-
 da förpliktelser, som vi vid denna tidpunkt i livet ännu
 inte äro vuxna. Kanske ha vi gått ur vägen för en
 plikt att vårda en sjuk anförvant och ha kanske mött
-31
-
-
 döden, innan vi insett det orätta däri. Denne anförvant
 kan kanske ha fått lida tungt under vår kärlekslöshet
 och ha hyst stor bitterhet mot oss, innan döden löste
@@ -1038,6 +1050,7 @@ nytt hat, tills de därur uppståndna olägenheterna tvinga
 dem att söka komma till ett drägligare förhållande till
 varandra, möjligen kunde så i det första hatets ställe
 framträda kärlek.
+
 För sanningssökaren framställer sig nu den frågan:
 När vi befunnit oss här på jorden en gång förut, varför
 minnas vi då ingenting därom? Svaret lyder: Medan de
@@ -1057,9 +1070,6 @@ som hon kände igen, och beskrev för sina följeslagare
 noga en vägkrök, som hon ännu inte sett i sitt dåvarande
 liv, det måste alltså ha varit fråga om en återerinring
 från ett föregående liv. Talrika liknande exempel kunde.
-32
-
-
 här anföras, på hur sådana plötsliga erinringar skänkt
 oss inblickar i en föregående tillvaro. Ett fullt bestyrkt
 fall, då en liten treårig flicka i Santa Barbara i Kalifor-
@@ -1068,6 +1078,10 @@ nien beskrev sitt föregående liv och sin död, omtalas i
 tvivel ett synnerligen övertygande bevis, då det vilar på
 sanningsenligheten hos ett barn, som var för ungt, för
 att kunna bedraga.
+
+() - *) Fås från Theosophisches Verlagshaus, Lessingstrasse 2,
+Leipzig.
+
 Denna livsteori har emellertid inte sin rot i filosofisk
 spekulation, den är ett av de första livsfakta, som en
 lärjunge i en mysteriiskola undervisas om. En sådan får
@@ -1076,6 +1090,7 @@ barn genom den osynliga världen, tills det ett eller två
 år senare åter framträder i en ny födelse. Sedan vet
 han med visshet, att vi återvända till jorden, för att i
 ett kommande liv skörda vad vi nu så.
+
 Orsaken till att man för studier föredrar barn fram-
 för en vuxen person, ligger däri, att ett barn mycket
 fort återvänder till reinkarnation. Ty dess korta livstid
@@ -1089,19 +1104,16 @@ ras, här vilja vi endast lägga vikt vid det faktum, att
 det ligger inom räckhåll för vars och ens möjligheter
 utan undantag, att ur första hand lära känna vad vi här
 framlagt som läror.
+
 Mellantiden mellan två jordeliv uppgår till omkring
 ett tusen år. Detta bestämmes av den för astronomerna
 bekanta ändringen av dag- och nattjämningen, efter
 vilken solen rör sig genom ett av djurkretsens tecken på
 ungefär 2,100 år. Under denna tid ha tillstånden på
-*) Fås från Theosophisches Verlagshaus, Lessingstrasse 2,
-Leipzig.
-33
-
-
 jorden genomgått sådana förändringar, att ett Ego kan
 möta helt förändrade erfarenheter, och därför återvän-
 der det då.
+
 De stora ledarne av utvecklingen draga största, möj-
 liga nytta ur alla lägen, och, då erfarenheterna under
 lika samhälleliga betingelser äro väsentligt olika för man
@@ -1123,10 +1135,12 @@ görande inflytande skrida vi ständigt vidare från liv till
 liv, detta under betingelser, som noga avpassas för varje
 enskild individ, tills vi med tiden nå högre utveckling och
 uppnå nästa steg eller övermänniskan.
+
 Oliver Wendell Holmes har uttryckt detta strävande
 till det högre och dess äntliga fullbordan i följande vack-
 ra verser:
 
+```
 Bygg dig sköna platser, du, min själ!
 Medan våra stunder snabbt bortila,
 låt det förgångnas lumpor efter bli!
@@ -1136,12 +1150,12 @@ tills äntligt du blir fri
 och lämnar skalet, som du vuxit ur,
 långt bakom dig till sist
 på stranden av det orosfyllda levnadshavet!
-34
+```
 
+### <h3 id="">Den synliga och den osynliga världen</h3>
 
-Den synliga och den osynliga
-världen.
-Den kemiska regionen.
+#### <h4 id="">Den kemiska regionen</h4>
+
 Om någon, som besitter färdigheten att medvetet an-
 vända sin andliga kropp med samma lätthet, som vi nu
 betjäna oss av den fysiska kroppen, begåve sig från jor-
