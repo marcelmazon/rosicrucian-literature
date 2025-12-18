@@ -1,0 +1,58 @@
+---
+title: "Folleto №29: Retardo Mental"
+language: "es"
+original_title: "Pamphlet №29: Learning Disabilities"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-29-learning-disabilities.md"
+---
+
+<h1 id="pamphlet-29-learning-disabilities">Folleto №29: Retardo Mental</h1>
+
+### <h3 id="learning-disabilities">Retardo Mental</h3>
+
+El retardo mental es uno de los más trágicos y el menos comprendido de los problemas sociales. Años pasados, a los retardados mentales se los consideraba fuera de toda ayuda, siendo observados simplemente como una horrible y deplorable condición y se los dejaba vegetar fuera de la vista de la gente ’Respetable”, recientemente con el progreso se ha hecho más caridad con el trato de estos infortunados individuos, y la actitud pública general les está permitiendo convivir como miembros reconocidos por la sociedad, a menudo actuando provechosamente dentro de su limitado campo de posibilidades.
+
+De cualquier manera el progreso no suprime el dolor experimentado por los padres y familiares de estos tristemente afectados individuos. Si la causa del retardo mental fuera conocida, los conflictos y torturas experimentados por estas personas podrían suprimirse mejor y la humanidad comenzaría a actuar para dar una eventual solución al problema.
+
+When a person is mentally retarded he or she lacks an instrument with which to reason communicate and fully control the body. Why does this happen? When viewed from the perspective of one lifetime mental retardation seems cruel and unfair. However if we remember that human evolution continues over a series of lives it helps us understand the present and gives hope for the future.
+
+### <h3 id="law-of-cause-and-effect">Law of Cause and Effect</h3>
+
+El retardo mental es considerado como una enfermedad, como cualquier otra sufrida por el individuo, engendrada solamente por su comportamiento durante la presente, o anteriores encarnaciones. Bajo la ley de consecuencia, debemos cosechar aquello que precisamente sembramos, y si nuestra conducta fue depravada o nuestro comportamiento incorrecto en cualquier sentido, debemos pagar esa deuda en nuestra encarnación física para así poder luego evolucionar.
+
+### <h3 id="abuse-of-the-creative-function">Abuse of the Creative Function</h3>
+
+Las aflicciones que afectan a la humanidad se pueden dividir en dos categorías: Mentales y Físicas. Las perturbaciones mentales son particularmente atribuibles al abuso de la función creadora. Así como el Espíritu Santo es la energía creadora en la naturaleza, la energía sexual es su reflexión en el hombre y el abuso de esta fuerza es la transgresión que debemos pagar en detrimento de nuestros vehículos hasta que comprendamos la parte Santa de la fuerza creadora. Las enseñanzas ocultas nos dicen que esta fuerza no debe ser usada para la gratificación sensual sino solamente para la propagación. El despilfarro de esta energía creadora podría ser transmutada en energía espiritual y usada en los planos superiores como agente de la Epigénesis (la habilidad de crear cosas nuevas).
+
+La ciencia oculta también enseña que el cerebro y la laringe fueron construidos por los Angeles con la mitad de la fuerza creadora del hombre, quien antes de la adquisición de estos órganos, era bisexual y capaz de crear por sí mismo sin la cooperación de otro; pero dicha facultad se perdió cuando estos órganos fueron creados, y ahora es necesario la cooperación de otro ser del sexo opuesto para la generación de nuevos cuerpos para los espíritus que desean renacer. Hay todavía una interna conexión entre la actividad mental y sexual y el poder de la palabra. La evidencia de este afirmacion está en el caso de los maniáticos del sexo, quienes terminan idiotas incapaces de pensar correctamente porque están continuamente ocupados en enviar al exterior no solamente la parte de la fuerza sexual que es normalmente usada para la propagación, sino que también gran parte de la fuerza que podría ser usada para la construcción del cerebro, haciéndolo así capaz de producir pensamiento.
+
+La visión espiritual revela que cuando el hombre estaba todavía en formación había una corriente de deseos donde quiera que ahora hay un nervio; la mente y la laringe mismas fueron hechos primero de sustancia de deseos. El deseo enviaba primero un impulso a través de la mente y creaba estas corrientes nerviosas, que hacían posible el movimiento del cuerpo y obtenía la gratificación indicada por el deseo. La palabra también es usada con el propósito de obtener un objeto deseado o un fin; a través de estas facultades el hombre ha obtenido cierto dominio sobre el mundo. No obstante bajo la ley de consecuencia, él toma para sí un nuevo cuerpo, órganos y facultades que son similares a los que abandonó en la anterior oportunidad. 
+
+### <h3 id="stamping-the-seed-atom">Stamping the Seed Atom</h3>
+
+Cuando la pasión ha arruinado el cuerpo en una vida, ésta se estampa en el átomo simiente. En el próximo descenso al renacimiento le es imposible al Ego tomar buen material con el cual pueda construir una sólida mentalidad. Él nace usualmente bajo uno de los signos comunes del Zodíaco, y por lo general los cuatro signos comunes están colocados en los ángulos para que los deseos pasionales encuentren dificultad de expresarse. Vemos pues que el poderoso impulso que antes regía en su mente, el cual debería ser usado para el propósito de la regeneración, está ausente; a él le falta la iniciativa en la vida y por ende viene imposibilitado y a menudo demente.
+
+Como quiera que sea el espíritu no es demente, el ve conoce y tiene un vehemente deseo de usar el cuerpo, aunque sea un imposible, pero a menudo no puede enviar siquiera un simple impulso a través de los nervios, y los músculos del rostro y del cuerpo por consiguiente no están bajo el control de su voluntad. Este fenómeno de la falta de coordinación es el que hace del afligido un hecho lastimoso a la vista. De este modo es como el Espíritu aprende una de las mas duras lecciones de la vida: que es peor que la muerte el estar atado a vivir en un cuerpo inhábil sin encontrar expresión a través de él, porque la fuerza necesaria de deseos que acompaña al pensamiento, palabra y movimiento, ha sido consumida por un vivir incorrecto en las vidas anteriores y regresa el Espíritu sin la energía necesaria para manifestarse en su instrumento carnal.
+
+### <h3 id="resisting-a-hard-life">Resisting a Hard Life</h3>
+
+Hay una notable excepción a la regla general de que los mentalmente retardados sean por el abuso de la función creadora en una vida pasada. Cuando un Ego desciende para el renacimiento, ve enteramente el panorama de su próxima vida y si a él le parece particularmente dura, procura salir fuera de la “escuela de la vida”. Para esta época la conexión entre el cuerpo vital y los centros sensoriales del cerebro en el feto ya ha sido realizada, por consiguiente el esfuerzo del Espíritu por escapar del útero materno es frustrado. El tirón dado por el Ego desarregla las conexiones de los centros sensitivos entre el cuerpo físico y el etérico en tal forma que el cuerpo vital no queda concéntrico con respecto al cuerpo físico, causando que la cabeza etérica se extienda por fuera del cráneo físico, por esto es imposible para el espíritu usar el vehículo denso, está atado a un cuerpo sin mentalidad y la encarnación es prácticamente perdida.
+
+Hay también casos más tarde en la vida que debido a un fuerte susto el Espíritu intenta salir del cuerpo físico con sus vehículos invisibles. Como resultado un tirón similar es dado por los centros sensoriales del cerebro, y el susto desarregla la expresión mental. Todos luego de haber estado asustados, probablemente hayan sentido una sensación similar, una agitación, como si alguna cosa estuviera intentando salir fuera del cuerpo denso. Esta sensación es causada por el cuerpo vital y de deseos, los cuales actúan velozmente, tanto que un tren expreso es lento en comparación. Ellos sienten el peligro, y se impactan antes que el susto haya sido transmitido al inerte y lento cuerpo físico, en el cual ellos están anclados, y el que evita su escape bajo tensiones ordinarias. Algunas veces, siempre que el estímulo sea demasiado fuerte se produce una desconexión sobre los centros etéricos sensoriales, exactamente como cuando se ha estirado un elástico y que puede recuperar su elasticidad, también en estos casos, es más fácil recuperar las facultades mentales que en los casos en los cuales es una demencia congénita traída de vidas pasadas, y que es causa de la inadecuada conexión. De tal manera vemos que el retardo mental no es el resultado de una injusticia de parte de Dios, no es un infortunado accidente; es el resultado de la propia conducta del Ego, así como en el caso de todas las dolencias, la aflicción individual ha sido traída por sí mismo.
+
+### <h3 id="the-value-of-encouragement">The Value of Encouragement</h3>
+
+Por supuesto que los mentalmente retardados no deben ser observados de ninguna otra forma que con profunda simpatía y atención. Todos los esfuerzos deben ser hechos para continuar expandiendo los bellos programas de educación y auto ayuda que ahora se ha comenzado a administrar para muchos de estos individuos. Ciertamente es por medio de la compasión y el amor que ellos pueden recibir orientación para trabajar, dentro de sus limitadas condiciones físicas, instándolos al esfuerzo de manera de que esta encarnación no sea perdida, sino por el contrario la misma constituya la más severa lección que tienen que aprender.
+
+We can help a person suffering from mental retardation by respecting his right to grow at his own rate. Try to understand how he views the world, how he feels, and what he wants to do. However “inferior” a mentally retarded person seems to be, we do well to remember that all humanity’s present mental development is primitive in comparison with God-like potential which eventually will be realized.
+
+### <h3 id="transmuting-the-creative-force">Transmuting the Creative Force</h3>
+
+El retardo mental está siendo atendido, pero la humanidad debería de ir mucho más allá. A esta altura de la evolución y desarrollo humano y tecnológico de nuestra época es motivo de esta aflicción y el impropio uso de la fuerza creadora, viene a ser universalmente reconocido; la actitud moderna general que perdona una moral laxa y el estímulo de la indulgencia sexual, para la obtención del placer, no puede ayudar, pero las consecuencias serán desastrosas en un futuro para muchos miembros de la raza humana. Tal conducta deberá ser expiada, y la indulgencia de su pasión en la vida presente, segará las consecuencias en esta vida o en otra.
+
+Nosotros hemos pasado a través de estados parecidos al mineral, vegetal, y animal antes de estar en estado humano, como somos actualmente, y más allá hay evoluciones superiores las cuales nos aproximan más y más a la Divinidad. Es nuestra pasión animal la que nos limita en el sendero del logro y de la pureza. Es obvio también que muy poco progreso material puede ser hecho por un inhabilitado mental.
+
+En el presente estado de evolución toda nuestra fuerza vital excepto la insignificante cantidad requerida para la propagación de la raza puede ser transmutada por sublimación de la mente y emociones en fuerza del alma.
+
+Hasta que estos factores no sean reconocidos y aceptados por la generalidad, la raza no se librará de las limitaciones tanto físicas como mentales, las cuales ahora nos están causando mucho sufrimiento y nos impiden evolucionar.
