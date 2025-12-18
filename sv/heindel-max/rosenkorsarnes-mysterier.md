@@ -3383,12 +3383,10 @@ i sär. Därför hålla vi fast vid det ovan sagda, att det,
 trots det, att ett lättare liv beskäres den, som levat rätt,
 dock är lyckligast att få genomleva ett långt liv och
 att ha mätt det i hela dess fullhet.
+
 Vi påstå också, att en människas död, av vilka om-
 ständigheter den än beledsagas, aldrig är tillfällig. An-
 tingen förorsakas den genom uraktlåtenhet att tillgodo-
-94
-
-
 göra sig de erbjudna möjligheterna till uppåtstigande,
 eller också har livet utlevats till sina sista möjligheter.
 Det ges ett undantag från denna regel, och detta hänger
@@ -3403,6 +3401,7 @@ ligheterna, vidare förekommer även, att andra män-
 niskor förkorta våra liv och det lika snabbt, som de
 gudomliga styresmännen göra det, då de göra slut på
 våra liv genom ett så kallat olycksfall.
+
 Med andra ord: Mord och bråddöd, som förorsakas
 genom mänsklig vårdslöshet, äro de enda former för ett
 livsslut, som inte falla inom ledarnes för mänskligheten
@@ -3415,6 +3414,7 @@ liga rättfärdigheten står vidare hans ord: "Vad män-
 niskan sår, det skall hon ock uppskära", och därför
 måste åtminstone den absolut fria viljan äga bestånd, när
 det gäller onda gärningar.
+
 Det ges också tillfällen, då en människa lever ett så
 fullt och gott liv av så betydande gagn för hela mänsk-
 ligheten och för sig själv, att hennes dagar kunna för-
@@ -3422,12 +3422,10 @@ längas utöver det fastställda måttet på samma sätt
 som de kunna förkortas genom vårdslöshet och självisk-
 het, men sådana fall äro naturligtvis så enstaka, att
 man inte särskilt behöver sysselsätta sig med dem.
+
 När döden inte plötsligt inträder genom olycksfall,
 utan lugnt och fredligt genom sjukdom, där ha de döende
 vanligen den förnimmelsen, som fölle en slöja av dju-
-95
-
-
 paste mörker bort från deras ögon kort före slutet. De
 lämna sin kropp med detta intryck och återse inte ljuset,
 förr än de ingått i den överfysiska regionen. Men det
@@ -3444,6 +3442,7 @@ hon i själva verket ser klarare än de själva. Hon ser
 dem, som gått över till andra sidan, men nu ha kommit
 för att hälsa henne välkommen och göra henne hemma-
 stadd i den nya värld, vari hon nu skall inträda.
+
 Varje människoväsen är en individuell, från alla andra
 skild skapelse, och, då varje enskilds livserfarenheter äro
 olika alla andras från vaggan allt intill graven, så kunna
@@ -3457,18 +3456,18 @@ Boston och vari han beskriver sina känslor vid genom-
 gången av dödens port. Vi kunna ju inte borga för den
 absoluta riktigheten i meddelandet, då vi inte själva
 personligen undersökt saken.
+
 Professor James hade lovat att efter döden sätta sig
 i förbindelse med sina vänner, och hela den psykiska
 forskningen befann sig i stor förväntan. Olika medier
 ha förklarat, att professor James talt genom dem, men
 det märkligaste livstecken han gett ifrån sig är följande,
 som erhölls i andetemplet i Boston.
-96
+
 'Och sådan är döden: Att endast falla i sömn för att
-
-
 vakna upp till morgon och liv och lära sig förstå, att allt
 endast är gott. Jag är inte död, endast uppstånden."
+
 "Jag vet blott, att jag kände en stor skakning genomgå
 hela mitt system, liksom om starka fjättrar hade blivit
 sprängda. För ett ögonblick blev jag bedövad och förlorade
@@ -3484,6 +3483,7 @@ jag ännu levde. I det jag rörde mig närmare det, som
 syntes mig så förtroligt och dock på samma gång så främ-
 mande, utsträckte jag handen och berörde de kringstående,
 men de tycktes inte fatta något om min närvaro."
+
 "Då inträdde i mitt nyuppvaknade medvetande hela bety-
 delsen av min genomgångna förändring; då fattade jag, att
 ett helt svalg skilde mig från mina vänner på jorden och
@@ -3495,9 +3495,11 @@ som var olikt och på samma gång så lika det, som jag
 nyss hade lämnat. Det var omöjligt att beskriva mina
 känslor, då jag återkom till mig själv, och det stod klart för
 mig, att jag, ehuru död, ändå levde.
+
 Då jag först blev medveten om min nya omgivning, vilade
 jag i en vacker lund och fattade mer än någonsin förr vad
 det vill säga att leva i fred med sig själv och hela världen."
+
 "Jag vet, att jag endast med största svårighet förmår
 skildra mina känslor vid fattandet av att jag uppvaknat till
 nytt liv. Allt var så stilla, intet ljud störde tystnaden.
@@ -3507,9 +3509,8 @@ Snart urskilde jag dock i fjärran ett svagt ljussken, som
 långsamt närmade sig. Och så såg jag till min glada för-
 våning ansiktena på dem, som varit mina ledstjärnor under
 mitt jordelivs tidigare dagar."
-En av de sorgligaste företeelser, som den klarsynte
-97
 
+En av de sorgligaste företeelser, som den klarsynte
 kan få iakttaga vid en dödsbädd, är de kval, som vi
 tillfoga våra döende vänner genom vår okunnighet om
 den rätta behandlingen vid sådana tillfällen. Vi ha en
@@ -3533,6 +3534,7 @@ som vi älskat under hela vårt liv, säger oss sitt sista
 farväl, då stå vi utan möjlighet att hjälpa, och kanhända
 företa vi oss just det, som är allra skadligast för den
 dõendes ro och välfärd.
+
 Det ges kanhända ingen värre och den döende så ofta
 tillfogad plåga som vanan att ge honom upplivnings-
 medel. Dessa droger ha den verkan, att de rycka anden,
@@ -3546,9 +3548,6 @@ därav tillfoga honom dylika kval. Dödsrummet borde
 vara ett rum för yttersta ro, en plats för frid och bön,
 ty då och under ytterligare tre och en halv dagar genom-
 går anden sitt Getsemane och behöver allt det bistånd,
-98
-
-
 som vi kunna giva honom. Värdet av det liv, som just
 avslutats, hänger i inte oväsentlig grad på de förhållan-
 den, som då äro rådande omkring kroppen, ja, till och
@@ -3557,6 +3556,7 @@ förhållande under denna tid, så att vi, om vi någonsin
 strävat efter att vara våra bröders beskyddare i detta
 livet, måste vara det i än högre grad vid deras döds-
 bäddar.
+
 Likets dissekerande, balsamerande och brännande un-
 der denna frist på tre och en halv dagar störa den bort-
 gående anden inte endast i hans andliga liv, utan för-
@@ -3570,7 +3570,7 @@ dagarna äro till ända. Efter denna tid kommer inte
 anden att känna lidande, vad man än företar sig med
 kroppen.
 
-Det gångna livets panorama.
+#### <h4 id="">Det gångna livets panorama</h4>
 
 Vi må aldrig så länge söka bevara anden kvar i vår
 kropp, till sist kommer ändå alltid en tidpunkt, då detta
@@ -3586,9 +3586,6 @@ mycket viktig face av dess erfarenheter efter döden.
 Av denna återblick beror dess hela tillvaro från döds-
 ögonblicket ända fram till den nya födelsen.
 
-99
-
-
 Här frågar lärjungen antagligen: "Hur blir det möj-
 ligt att se tillbaks på vårt förgångna liv från vaggan
 ända till graven, då vi inte ens kunna erinra oss, vad
@@ -3596,6 +3593,7 @@ vi företogo oss för en månad sen? Och för att skapa
 en rätt grund för vårt kommande liv, borde denna åter-
 blick ju vara synnerligen noggrann; men även det bästa
 minne är inte ofelbart?"
+
 Om vi kände skillnaden mellan medvetet och omedve-
 tet minne samt det sätt, varpå det senare kan försättas
 i verksamhet, skulle all svårighet bortfalla. Skillnaden
@@ -3612,6 +3610,7 @@ vetande och kvarstanna inte i minnet. Till och med de
 starkaste intryck förblekna under tidens inflytande, så
 att vi inte kunna återkalla dem när som helst, om de så
 ligga bevarade i vårt medvetna minne.
+
 Då en fotograf går ut med sin kamera, så bll
 de resultat, han kommer till, helt olikartade. Etersväng-
 ningarne, som utgå från alla föremål, varpå han riktar
@@ -3625,8 +3624,6 @@ faldigas. På samma sätt förhåller det sig med det under-
 medvetna minnet, och det försättes i varje ögonblick av
 oss i funktion alldeles oberoende av vår vilja, detta på
 just följande sätt:
-100
-
 
 Från första andedraget efter födelsen ända till vår
 sista suck, inandas vi luft, som är mättad med bilder
@@ -3664,10 +3661,6 @@ drunknande kan få se. Folk, som redan metvetslösa
 återkallas till livet, ha berättat att de sett hela sitt
 föregående liv. Så är också fallet, emedan eterkroppen
 därvid lämnat sin plats inom den fysiska kroppen. Sil-
-
-101
-
-
 vertråden har dock ännu inte avslitits, annars skulle inte
 ett återvändande till livet ha kunnat ske. Vid drunk-
 nande förlorar man medvetandet med ens, medan vid
@@ -3689,6 +3682,7 @@ kännbarare än om endast svaga intryck funnes för-
 handen, varigenom samvetets tysta röst i ett kommande
 liv alltså varnar mycket starkare för felsteg, som för-
 orsakade de genomgångna lidandena.
+
 Om i dödsögonblicket moment inträffa, vilka utifrån
 störa anden i dess arbetet, t. ex. stridsbuller, villervallan
 under ett olycksfall eller hysterisk klagan från anhöriga,
@@ -3704,9 +3698,6 @@ minnesbild skulle skänkt honom. På så sätt skulle hans
 tillväxt i hög grad kunna fördröjas. Men de goda mak
 ter, som leda evolutionen, vidtaga emellertid vissa mått
 och steg för att utjämna våra dåraktiga beteenden gent
-102
-
-
 emot en döende och andra hinderliga orsaker. Av vad
 art dessa ingripanden äro, därom skola vi tala, då vi
 betraktå barnens liv i himmelen, för ögonblicket kan
@@ -3714,7 +3705,8 @@ det räcka att hänvisa till, att i GUDS rike varje ont
 förvandlas till ett än större gott, ehuru det kanske inte
 i första ögonblicket framträder för våra blickar.
 
-Skärselden.
+#### <h4 id="">Skärselden</h4>
+
 Under livet gav livskroppens utmattande framemot
 natten ett mål för vår blick på omvärlden och tvang oss
 till medvetslöshet och sömn. Då livskroppen faller ihop
@@ -3738,21 +3730,20 @@ de mäktiga solstrålarna. Av liknande grund upptar
 anden, strax den lämnat kroppen, toner, bilder och scener
 ur den materiella värld, som den nyss lämnat, vida snab-
 bare än bilderna ur den värld, som den just beträtt.
+
 Diktaren Wordsworth har i sitt "Ode till odödligheten"
 antytt ett liknande fall beträffande nyfödda barn, vilka
 alla äro klarseende och mer hemma i den översinnliga
 världen än på det beträdda planet. Några förlora sin
 synkraft mycket hastigt, andra behålla den ännu en
-103
-
-
 räcka år, och blott få bevara den hela livet igenom.
 Men, liksom barnets födelse betyder dess död i det över-
 sinnliga tillståndet och det en tid framåt bevarar sin
 inre syn, så är också döden liktydig med en infödelse
 på det översinnliga planet, och de nyss avlidna bibehålla
 ännu en tid efter döden medvetandet för denna vår
-fysiska värld,
+fysiska värld.
+
 Då någon uppvaknar i begärvärlden, sen han genom-
 gått de förut nämnda erfarenheterna, är den förhär-
 skande känslan befrielse från en stor tyngd, som kanske
@@ -3765,10 +3756,12 @@ stor svårighet. Kommer en sådan dykare efter avslutat
 arbete åter upp till havsytan och avlägger sin tunga
 rustning, så att han åter kan röra sig med lätthet, kän-
 ner han säkerligen stor befrielse.
+
 På samma sätt känner även anden, sen den avlagt
 sitt dödliga hölje och nu kan sväva över hela jordsfären
 i stället för att vara bunden vid jordelivets begränsade
 förhållanden.
+
 Även för de sjuka inställer sig en känsla av befrielse.
 Sjukdom, sådan vi känna till den här, ges det inte där-
 borta. Omsorgerna för föda och tak över huvudet bort-
@@ -3782,14 +3775,12 @@ grevinnan von Towers liv. Denna novell skildrar också
 förträffligt vad redan sagts om det undermedvetna min-
 net; ty George de Maurier har på något sätt kommit på
 en mycket lätt användbar metod, som en var kan efter-
-104
-
-
 göra, för att, som han säger, drömma "sanndrömmar".
 Om vi vid insomnandet intaga en given ställning, förmå
 vi med någon övning försätta oss i drömmar, som föra
 oss in i scener ur vårt förgångna liv allt efter
 gottfinnande. Boken är av nämnda skäl rätt läsvärd.
+
 Då ett eldtöcken bildats i världsrymden och börjat
 rotera, framträder att börja med en liten kärna i dess
 mitt. Då den uppnått en viss täthet, fattas den av en
@@ -3797,6 +3788,7 @@ virvelvind och slungas allt mera ut mot vad som med
 tiden kommit att likna ekvatorn på ett roterande klot.
 Därpå utslungas den i världsrymden och bortstötes ur
 den roterande solens omedelbara närhet.
+
 Denna process försiggår emellertid inte så automa-
 tiskt, som vetenskapsmännen vilja komma oss att tro
 - för det ha tillräckliga bevis framförts i "Rosenkreuze-
@@ -3815,15 +3807,13 @@ inre ögat avtecknar sig inom en aura av finare bärare.
 De senare äro i ständig rörelse. När den fysiska kroppen
 fötts, är den att börja med mjuk och eftergivande som
 fallet är hos barn.
+
 Barndom, ungdom, mognad, ålderdom utgöra tydliga
 kristallisationssteg, som fortskrida, tills äntligen upp-
 nåtts en punkt, då anden inte längre förmår påverka
 den hårda kroppens rörelser, varpå den bortstötes av
 anden på samma sätt som en planet bortstötes av solen.
 Detta kalla vi då död, början till en avklädningsprocess,
-105
-
-
 som fortsättes i skärselden. De lägre, dåliga vanor och
 böjelser, som vi odlat under livet, ha på ett sätt kristal-
 liberat begärstoffet, så att även detta måste avsöndras.
@@ -3848,6 +3838,7 @@ möjliga, och olyckligtvis ha vi även lagar, som låta såda-
 na fall komma till synes, nämligen vid fall inom en viss
 människoklass av s. k. förbrytare. Vi tänka här på
 lagar, som vid saker till mord föreskriva dödsstraff.
+
 Då en människa blivit vådlig för allmänna säkerheten,
 måste vi naturligtvis hålla henne i tygeln, men, alldeles
 bortsett från samhällets rätt att taga en människas liv
@@ -3859,12 +3850,9 @@ han att ha övervunnit sin bitterhet mot sitt offer och
 mot samhället; och, när han då står som fri ande i
 begärvärlden, har han antagligen erhållit förlåtelse ge-
 nom bön och blivit en god kristen. Han kommer då att
-
-106
-
-
 glad fortsätta sin väg och söka i ett tillkommande liv
 hjälpa dem, som han nu skadat.
+
 Om samhället däremot tillgriper vedergällning och dö-
 mer honom till våldsam död, kort efter det att han begått
 sin ogärning, kommer han säkert att falla offer för
@@ -3875,6 +3863,7 @@ en tid ännu gå omkring och söka förleda andra till mord
 och andra förbrytelser. Då få vi uppleva en verklig
 mordepidemi inom samhället, en inte så sällsynt före-
 teelse.
+
 Konungamordet i Serbien fyllde Västerlandet med fasa
 genom det fullständiga utrotandet av ett kungahus, och
 inrikesministern var en av huvudpersonerna bland de
@@ -3899,9 +3888,6 @@ sammankomster, som blevo gynnsamma för de samman-
 svurna, var av lägre, sinnlig art och lockade andar, vilka
 hyste agg till mänskligheten i stort och till kungaparet
 av Serbien särskilt. Dessa missnöjda voro inte i stånd
-107
-
-
 att själva skada konungen, men de begagnade sig av ett
 omärkligt inflytande, som förhjälpte de sammansvurna
 till deras dåd. Den från sin kropp befriade mördaren,
@@ -3939,9 +3925,6 @@ livet, men han har ingen mage, som kan uppta den efter-
 längtade drycken och utföra den kemiska förbrännings-
 process, som är nödvändig för att framkalla den av
 honom avsedda berusningen. Kanske, ja, ganska säkert,
-108
-
-
 beger han sig då till en utskänkningslokal, där han
 tränger sin kropp in i en drinkares, så att han må kunna
 njuta lustkänslan ur andra hand. Han kommer att egga
@@ -3969,6 +3952,7 @@ måst göra för odlandet av sina lidelser, på alldeles sam-
 ma sätt som den kraft, varmed en sten träffar jorden,
 är proportionell med den kraft, som slungade den upp
 i luften.
+
 GUDS mål är emellertid inte att endast "kvittera räk-
 ningar", Kärleken är högre än Lag, och i sitt under-
 bara förbarmande och sin omsorg om vår frälsning har
@@ -3978,11 +3962,9 @@ kärlekens Mästare, Kristus, lärt oss. Detta är inte 1
 någon som helst strid mot lagarna, ty Lagarna äro oför-
 änderliga, utan sker genom användande av en högre Lag,
 genom vilken vi kunna redan nu uppnå det, vilket annars
-109
-
-
 skulle uppskjutas till domedagen. Tillvägagångssättet
 är följande:
+
 Vid vår förklaring över det undermedvetna minnet
 funno vi, att ett avtryck av varje handling, varje tanke
 och varje ord genom luften och etern föres till lungorna
@@ -4011,20 +3993,19 @@ missgärning, då gör, som sagts, känslan av sorg och
 medlidande med offret, önskan att göra gott igen och
 ersätta det frånhänta av egen drift ett lidande efter
 döden överflödigt: "Hennes synder äro henne förlåtna".
+
 Rosenkreuzermysterierna lära en vetenskaplig metod,
 genom vilken en kandidat till det högre livet ständigt
 kan rena sig för att på så sätt bli i stånd att helt och
 hållet kunna slippa ifrån vistelsen i skärselden. Varje
 afton, sen han gått till sängs, låter lärjungen den gångna
 dagens händelser passera revy i omvänd ordning.
-110
-
-
 Han börjar med att återse de scener, som tilldrogo sig
 strax innan han drog sig tillbaka. Därpå börjar han
 helt opartiskt pröva sitt handlande och i vad mån detta
 varit rätt eller orätt. I senare fallet bemödar han sig om
 att så livligt som möjligt inse det orätta däri.
+
 Om han t. ex, utfarit barskt mot någon och senare
 sett, att det var oförtjänt, försöker han sätta sig in i den
 persons känslor, som han förorättat, och att vid första
@@ -4042,23 +4023,24 @@ vi äga en ren kropp, ingen kan utveckla full verksamhet,
 så länge han gör magen till avstjälpningsplats för de
 ruttnande resterna av dödade djur. Jag kommer vid
 detta att tänka på följande dikt av Ella Wheler Wilcox.
+
 Jag är de tigandes stämma,
 de låna min mun och min röst,
 tills deras ändlösa kval
 fyller med klagande tal
 den tungsövda världens bröst.
+
 Den kraft, som gav människan liv,
 den formade djur av kött och ben;
 GUDEN i rymden satt
 ljusets skimrande skatt
 åt minsta fågel på gren.
+
 Mig gavs mina bröder att vårda,
 att kämpa med penna och ord
 för alla markens djur,
 för alla fattiga djur,
 tills världen dem skyddar från mord.
-111
-
 
 På nämnt sätt förfar lärjungen med varje tilldragelse
 alltifrån kvällen ända bort till morgonen och söker där-
@@ -4074,12 +4056,14 @@ måttstock, som vore otänkbar med en mindre systema-
 tisk metod, och för en sådan människa kommer då ingen
 nödvändighet att föreligga att efter döden genomgå
 reningselden.
+
 Denna kvällsövning och en annan övning om morgonen
 borde samvetsgrant genomföras varje dag, varigenom
 den översinnliga kraften att se skulle i hög grad stärkas
 och livet även gestalta sig allt ädlare.
 
-Den första himmelen.
+#### <h4 id="">Den första himmelen</h4>
+
 I första himmelen, som befinner sig i de högre regio-
 nerna av begärvärlden, upprullas livspanoramat på nytt
 och visar nu de tillfällen, då vi försökte hjälpa andra
@@ -4095,11 +4079,9 @@ själv. Kommer den till en händelse, där andra visade
 honom godhet och han själv återgäldade med tacksam-
 het, kommer han att på nytt känna denna tacksamhet.
 Summan av alla dessa känslor sammansmälter där intimt
-112
-
-
 med anden för att i ett kommande liv tjäna som sporre
 till det goda.
+
 Så renas själen i skärselden från det onda, och i för-
 sta himmelen stärkes den i det goda. I ena riket blir
 utslaget av lidande till samvete för att avskräcka
@@ -4114,6 +4096,7 @@ ket vi fått lida, kvarstår kanske, och frestelsen att
 begå samma fel korsar allt jämt vår väg, tills vi med-
 vetet övervunnit det onda. Frestelse är dock inte det-
 samma som synd, synd är att duka under för frestelsen.
+
 Bland innevånarna i den osynliga världen ges det en
 klass, som för en synnerligen smärtfull tillvaro, ibland
 under långa år, nämligen självmördarna, som avsiktligt
@@ -4122,6 +4105,7 @@ sådant som en vredgad GUD eller en ond djävul, som
 utfärdar straff, utan endast en oomkullkastlig lag, som
 föreskriver ett bestämt lidande för varje särskild själv-
 mördare.
+
 Vi ha förut vid betraktandet av tankevärlden erfarit,
 att varje form inom vår osynliga värld där har sin ur-
 bild - en vibrerande, ihålig form, som utsänder en
@@ -4132,11 +4116,9 @@ beströdd glasplatta, vilken vi med en fiolstråke försätta
 i svängningar, sandkornen gestalta sig till olika, geo-
 metriska klangfigurer, vilka med tonen även förändra
 utseende.
+
 Den lilla, permanenta atomen i hjärtat är den före-
 bild och det centrum, omkring vilket vår kropps atomer
-113
-
-
 samla sig. Om den avlägsnas genom döden, blir mittel-
 punkten tom, och, ehuru urtypen vibrerar vidare ända
 till vårt livs yttersta gräns på sätt, som förut för-
@@ -4153,6 +4135,7 @@ varje annan vilken dött en naturlig död. Men minnet av
 de genom förlusten av kroppen ådragna kvalen stannar
 kvar hos honom under kommande liv och avskräcker
 honom från att begå samma felsteg.
+
 Inom första himmelen finnes en grupp, som inte kän-
 ner till något om tillvaron i skärselden och för en utom-
 ordentligt lycklig tillvaro: Barnen. Då det lilla blomstret
@@ -4168,20 +4151,19 @@ en vida djupare orsak, än vi vanligen kunna fatta, och,
 i den mån vi förstå detta, skola vi också för framtiden
 veta att värja oss mot smärtan över förlusten av vårt
 barn.
+
 För att rätt förstå ett sådant fall, måste vi återgå
 till vad som sker med den döende i dödsstunden. Vi
 draga oss till minnes, att livspanoramat inetsas i begär-
 kroppen under loppet av någon timme till tre och en
 halv dagar strax efter döden. Vi erinra oss vidare, att
-114
-
-
 av djupet hos dessa inetsningar beror klarheten hos
 bilden, så att, ju mer levande panoramat varit, desto
 eftertryckligare kommer anden att lida i skärselden och
 åtnjuta himmelens fröjder, och vidare att, ju större lidan-
 det varit, desto starkare blir samvetet i kommande till-
 varo.
+
 Vi visade vidare, hur döden på slagfältet, död genom
 olycksfall eller andra ledsamma omständigheter hindra
 anden från att rikta hela sin uppmärksamhet på livs-
@@ -4190,6 +4172,7 @@ avdrag därav i begärkroppen, så att blott en konturlös
 och entonig tillvaro i skärselden och första himmelen
 kan bli en följd därav. Även påpekades att hysterisk
 klagan i dödsrummet utövade likartad verkan.
+
 En ande, som på så sätt går miste om att få lida för
 sina fel och å andra sidan ej får möta glädjen av vunna
 dygder, skulle under ett kommande liv inte äga ett så väl
@@ -4203,6 +4186,7 @@ olycka och sådan orättfärdighet. Anden återfödes för
 att dock endast dö vid tidig ålder. Sedan ingår den
 åter i begärvärlden och erhåller där de lärdomar, som
 den förut gått miste om.
+
 Då den första himmelen är belägen i begärvärlden,
 detta rike för ljus och färg, vari stoffet hastigt formas
 av tanken, erhålla de små underbara leksaker och syssel-
@@ -4212,9 +4196,6 @@ sedliga karaktär på alldeles det sätt, som är nödvändigt
 för varje enskilt barn. En var, som är en smula sensi-
 tiv, kan själv märka, hur han röner inflytande från
 kläder och färg i sin omgivning eller på sig själv. Som-
-115
-
-
 liga färger ha en nedstämmande verkan, under det andra
 fylla oss med energi, medan andra åter trösta och lugna.
 Inom begärvärlden är färgernas inflytande vida inten-
@@ -4233,7 +4214,7 @@ att även bättre sörja för de döendes välfärd, då kom-
 mer även dödligheten bland barn, som nu är så för-
 skräcklig, att avtaga.
 
-Den andra himmelen.
+#### <h4 id="">Den andra himmelen</h4>
 
 Sedan såväl det onda som det goda i ett liv blivit
 avverkat, lämnar anden sin begärkropp i en andra död
@@ -4251,48 +4232,44 @@ ser spela vanligen sådana höljen den döde och narra så
 de tillstädeskomna anförvanterna. Efter som det för-
 gångna livets panorama finnes inetsat på denna kropp,
 så har den ett visst minne om tilldragelser, som röra
-116
+de nämnda anförvanterna och som naturligtvis under-
+lätta bedrägeriet. Då emellertid insiktskraften flytt sin
+kos, äro de knappast i stånd till att ge ett ärligt råd,
+vilket också förklarar det rena nonsens, som dylika
+uppenbarelser ofta lämna ifrån sig.
 
+Vid övergången från första till andra himmelen upp-
+lever anden det förut som den "stora tystnaden" be-
+skrivna tillståndet, där den står alldeles ensam och i
+medvetande av sin egen gudomlighet. Då denna tyst-
+nad genombrytes, inströmma över anden himmelska har-
+monier ur tonernas värld, vari den andra himmelen be-
+finner sig. Den tycker sig då bada i ett hav av klang
+och möta en obeskrivlig glädje, när den närmar sig den
+himmelska hemorten ty detta är det första av de
+sant andliga riken, varur anden är bannlyst under sitt
+jordeliv och det närmast efterföljande livet efter döden.
+Inom begärvärlden var hans arbete riktat på för-
+bättring, men i tankevärlden blir den mänskliga tan-
+ken ett med naturkrafterna, och dess skapande verk-
+samhet tar här sin början.
 
-liga färger ha en nedstämmande verkan, under det andra
-fylla oss med energi, medan andra åter trösta och lugna.
-Inom begärvärlden är färgernas inflytande vida inten-
-sivare, de utgöra där vida starkare faktorer till gott
-och ont än här, och under detta färgspel upptager barnet
-sig ovetande de egenskaper, som det genom vidriga och
-ledsamma omständigheter eller jämmer från sina anhö-
-rigas sida, annars skulle gått förlustig. Ofta få också
-därför dylika anförvanter uppgiften att sörja för ett
-barn inom den osynliga världen eller att skaffa ett
-sådant till världen för att lära sig tåligt se det dö. På
-så sätt erhålla de rättvist straff för sina begångna fel.
-När krigen äntligen upphört och människorna lärt sig
-att umgås varsammare och allvarligare med livet och
-att även bättre sörja för de döendes välfärd, då kom-
-mer även dödligheten bland barn, som nu är så för-
-skräcklig, att avtaga.
-
-Den andra himmelen.
-
-Sedan såväl det onda som det goda i ett liv blivit
-avverkat, lämnar anden sin begärkropp i en andra död
-och uppstiger till andra himmelen. Begärkroppen börjar
-då upplösa sig på samma sätt som livskroppen och den
-fysiska kroppen redan göra det, men det är en egen-
-domlighet hos begärstoffet att det, efter att det en gång
-bildat sig i form och ha mottagit livsandning, bibehåller
-sig i denna form en längre tid: Till och med sedan livet
-flytt för formen en halvt omedveten, självständig, av-
-söndrad tillvaro. Ibland drages denna kropp genom
-magnetisk sympati till anförvanter till den avlidne, åt
-vilken den tjänar som hölje, och vid spiritistiska scean-
-ser spela vanligen sådana höljen den döde och narra så
-de tillstädeskomna anförvanterna. Efter som det för-
-gångna livets panorama finnes inetsat på denna kropp,
-så har den ett visst minne om tilldragelser, som röra
-116
-
-
+Under lagen om orsak och verkan skörda vi precis
+vad vi sått, och det vore oriktigt att försätta den ena
+anden i en omgivning, där livsförnödenheterna vore
+knappa, där en brännande sol fördärvade skörden och
+miljoner doge av hunger eller där rasande översväm-
+ningar komme hus att vackla, som inte kunde motstå
+högflodens anlopp utan reves ned av densamma
+medan å andra sidan en ande tillåtes födas i ett land
+av överflöd, med åkrar, som bära skörd med minsta
+möjliga arbete, där marken är rik på mineral, som kunna
+finna användning inom industrien, så att sådana kunde
+upphämtas ur djupet och forslas till andra ställen. Om
+vi utan medverkan eller medgivande från vår egen sida
+inställdes i livet på dylikt sätt, funnes däri ingen rätt-
+färdighet. Men då vår tillvaro efter döden i skärseld
+och första himmel beror på det sedliga liv vi fört i den
 fysiska världen, så bestämmes på samma sätt i andra
 himmelen vår verksamhet av våra andliga strävanden,
 och dessa förorsaka sedan vår blivande, fysiska omgiv-
@@ -4318,7 +4295,9 @@ jorden för att skörda frukterna av sitt föregående arbete
 i den andra himmelen, på samma sätt som de i skärs-
 elden och första himmelen äta av den frukt, de själva
 odlade här på jorden.
-Den tredje himmelen.
+
+#### <h4 id="">Den tredje himmelen</h4>
+
 I den tredje himmelen äga de flesta människor endast
 svagt medvetande av orsaker, som vi klarlade vid be-
 handlingen av "de abstrakta tankarnas rike", ty däri
@@ -4327,13 +4306,11 @@ för väntan, varest anden vilar under tiden mellan hans
 avslutade arbete i den andra himmelen och det ögon-
 blick, då han åter erfar längtan efter återfödelse. Men
 ur detta rike hämta uppfinnarna sina originella idéer till
-118
-
-
 jorden, där erhåller människovännen sin klara blick på,
 hur han skall förverkliga sina utopiska drömmar, och
 de gudomliga andarnas andliga strävanden få här ny
 kraftimpuls.
+
 Med tiden drages anden, som börjat längta efter nya
 erfarenheter, till återfödelse, och de "stora himmelska
 väsen", som inom den kristna religionen benämnas "de
@@ -4341,6 +4318,7 @@ upptecknande änglarna", hjälpa nu anden till återfödelse
 på den plats, som är mest ägnad att bibringa honom de
 erfarenheter, som vidare utveckla hans krafter och möj-
 ligheter.
+
 Vi ha allesammans funnits här många gånger och
 inom olika familjer, vi ha stått i de mest olikartade för-
 hållanden till mångahanda människor, och vanligen finns
@@ -4352,12 +4330,14 @@ familj och bland bestämda vänner och fiender, så är
 anden fri i sitt val av födelseort. Därför kan man tryggt
 påstå, att de flesta av oss mottagit våra tillfälliga livs-
 villkor på grund av eget val före födelsen.
+
 För att hjälpa oss vid detta val låta "de upptecknande
 änglarna" ett panorama i grova drag draga förbi den
 tveksamma andens ögon, och detta panorama visar nu
 en rad möjliga liv. Panoramat visar, vilken del av för-
 gången skuld vi ha att betala och vilka frukter vi ha
 att hoppas på under det kommande livet.
+
 Anden har en möjlighet till att fritt välja mellan de
 sig erbjudande liven, Har valet emellertid en gång väl
 träffats, så kan han inte mer slippa undan under den
@@ -4366,9 +4346,6 @@ på det kommande, men det förgångna, "mogna" ödet
 kunna vi inte undandraga oss, som visats i det, i "Rosen-
 kreuzerische Weltanschauung" framförda exemplet, var-
 vid den, som skriver detta, varnade en föredragshållare
-119
-
-
 i Los Angeles för att på en viss dag lämna sitt hus,
 emedan han då skulle av något åkdon bli skadad i huvud,
 hals, bröst och skuldror. Mannen i fråga trodde på
@@ -4377,6 +4354,7 @@ begav han sig den ödesdigra dagen till Sierra Madre.
 Han skadades, som förut sagts, vid en sammanstötning
 och sade senare: "Jag trodde, att det var den tjugunionde
 i stället för den tjuguåttonde!"
+
 Då anden träffat sitt val, stiger han ner till andra
 himmelen, där han mottar lärdomar av änglar och ärke-
 änglar om hur han skall gestalta urformen för den kropp,
@@ -4396,6 +4374,7 @@ Och, liksom arkitekten lär sig undvika fel och drar nytta
 av gjorda misstag vid byggandet av ett nytt hus, så lär
 också anden, som lider under kroppsliga brister, att med
 tiden forma allt bättre bärare.
+
 I de konkreta tankarnas rike drar också anden stoff
 till sig för bildandet av en ny intelligens. Liksom en
 magnet drar till sig filspån, men inte andra stoff, så
@@ -4405,16 +4384,15 @@ vid sin nuvarande existens efter döden lärt att använda.
 Därpå nedstiger han till begärvärlden för att samla stoff
 till en ny begärkropp, sådan denna skall motsvara hans
 särskilda, sedliga egenskaper, och senare drar han till
-120
-
-
 sig en bestämd mängd eterstoff, som inbygges i den, i
 andra himmelen uppbyggda urtypen, vilket skall tjäna
 som bindemedel med de ur föräldrarnas kroppar stam-
 mande, fasta, flytande och luftformiga beståndsdelar,
 vilka sammansätta ett barns täta, fysiska kropp. På
 bestämd tid kommer sen allt detta till födelse.
-Födelse och barnaålder.
+
+#### <h4 id="">Födelse och barnaålder</h4>
+
 Man får inte tro, att i det ögonblick, ett barns lilla
 kropp födes, födelsen helt fullbordats. Den täta, fysiska
 kroppen har den längsta evolutionen bakom sig, och,
@@ -4435,20 +4413,17 @@ skilt stark under den jäsande ungdomstiden, och intel-
 lektet, som gör människan just till människa, kommer
 först vid tjuguettårsåldern till födelse. I lagen före-
 skrives ju denna ålder som myndighetsålder.
+
 Denna kunskap är så mycket betydelsefullare för för-
 äldrarna, som en noga kunskap om det, som tilldrar sig
 under de särskilda sjuårsperioderna, sätter uppfostra-
 ren i stånd att visare och insiktsfullare uppfylla föräldra-
 plikten än en, som står främmande för Rosenkreuzarnes
 mysterieläror. Vi skola därför ägna de sista sidorna av
-
-121
-
-
 denna bok åt en förklaring rörande detta samt om
 astrologiens betydelse för föräldrar.
 
-Mysteriet om ljus, färg och medvetande.
+#### <h4 id="">Mysteriet om ljus, färg och medvetande</h4>
 
 "GUD är ljuset", förklarar Bibeln, och vi äro inte i
 stånd att tänka oss en mer upphöjd liknelse för HANS
@@ -4483,9 +4458,6 @@ ljuset omfattar alla färger. HAN visar sig emellertid
 trefaldig i uppenbarelsen, på samma sätt som ljuset
 bryter sig i tre grundfärger: Blått, gult och rött. Där
 vi se dessa färger, se vi också ett emblem på Fadern,
-122
-
-
 Sonen och Den helige ande. Dessa tre ursprungliga strå-
 lar för gudomligt liv utkastas eller utstrålas från solen
 och framkalla Liv, Medvetande och Form på
@@ -4496,6 +4468,10 @@ nus. Bodes lag visar, att Neptun inte tillhör vårt sol-
 system, och läsaren hänvisas till min bok "Vereinfachte
 wissenschaftliche Astrologie",*), vari detta påstående
 matematiskt bevisas.
+
+() - *) Kan fås från Theosophisches Verlagshaus, Lessing-
+strasse 2, Leipzig.
+
 En var av de sju planeterna innehåller solljus på olika
 sätt dels efter sin närhet till centralkroppen, dels efter
 sammansättningen hos dess atmosfär, och de därpå le-
@@ -4506,6 +4482,7 @@ själva, och reflektera de övriga över till andra planeter.
 Dessa reflekterade strålar medföra en, väsendenas na-
 tur motsvarande impuls, med vilken de kommit i be-
 röring.
+
 Så kommer gudomligt Ijus och liv till varje planet
 antingen direkt från solen eller reflekterat från de sex
 systerplaneterna, och, liksom sommarvindarne, som dra-
@@ -4515,16 +4492,12 @@ mor, så föra också de milda utflödena från GUDS örta-
 gård de blandade impulserna från alla änglar till oss,
 och i detta mångfärgade ljus leva, verka vi och hava vi
 vår varelse.
+
 De strålar, som komma direkt från solen, skänka
 andlig upplysning, de från andra planeter reflekterade
 strålarna utveckla högre medvetande och större sedlig
 känsla, medan de från månen reflekterade medföra fy-
 siskt växande.
-*) Kan fås från Theosophisches Verlagshaus, Lessing-
-strasse 2, Leipzig.
-
-123
-
 
 Men, då varje planet blott kan reflektera en bestämd
 mängd av en eller flera färger allt efter dess utvecklings-
@@ -4539,6 +4512,7 @@ för beröras också de särskilda varelserna olika av stjärn-
 strålningen, och astrologiens vetenskap är därför grund-
 läggande natursanning, av oskattbart värde för den
 andliga utvecklingen.
+
 Ur ett horoskop med mystiska skrivtecken kunna vi
 avläsa vår egen svaghet och styrka tillika med den väg,
 som är lämpligast för vår utveckling. Vi kunna vidare
@@ -4549,12 +4523,14 @@ plikt mot dem som föräldrar, varigenom vi kunna under-
 trycka det onda, innan det kommer till synes, samt be-
 främja det goda, så att det bringar den oss anförtrodda
 själens andliga krafter till full utveckling.
+
 Som förut framhållits, återvänder människan till jor-
 den för att skörda den i föregående liv gjorda sådden
 samt för att utså nya sädeskorn, som i sig bära kom-
 mande erfarenheter. Stjärnorna utgöra den himmelska
 tidmätaren, som begränsar årets längd, månen utvisar
 den tid, som är gynnsammast för skörd och sådd.
+
 Barnet innebär för oss alla ett mysterium, vi kunna
 blott lära känna dess böjelser på hur de för detsamma
 karaktäristiska dragen långsamt utveckla sig, men van-
@@ -4562,9 +4538,6 @@ ligen är det för sent att komma skyddande emellan, om
 det redan hunnit utveckla dåliga vanor och det unga
 människobarnet råkat ut på det sluttande planet. Ett
 på vetenskaplig grund uppställt horoskop över födelse-
-124
-
-
 stunden utvisar böjelserna till gott och ont hos barnet,
 och, om en far eller mor inte skyr mödan att forska
 bland stjärnorna, så kunde de visa det, i deras vård
@@ -4589,7 +4562,8 @@ rikligt ersätta dem för eventuella luckor i deras vetande
 och att sätta dem i stånd att, tack vare horoskopet,
 intränga i deras barns själ.
 
-Barnuppfostran.
+#### <h4 id="">Barnuppfostran</h4>
+
 Angående födelsen av de olika bärarna och deras in-
 flytande på livet kunna vi säga, att under tiden från
 den första födelsen till det sjunde levnadsåret bestämmas
@@ -4600,9 +4574,6 @@ ett vittgående inflytande på barnets växande och späda
 organism. Aposteln Johannes uttrycker denna tanke
 beslöjat och mystiskt i första kapitlet av sitt evangelium
 genom det sköna ordet: I begynnelsen var ORDET...
-125
-
-
 och intet, som blivit gjort, har gjorts utan genom OR-
 DET... och Ordet vart kött... Ordet är rytmisk ton,
 utgående från Skaparen och rungande ut genom alltet.
@@ -4620,6 +4591,7 @@ sjunga eller uttala dem och upprepa dem, dansa och
 marschera efter dem, ju mer musik, som inströmmar i
 barnets dagliga liv, desto starkare och kraftigare blir
 dess kropp under kommande år.
+
 Två rättesnören borde under dessa år leda, det ena
 föräldrarna, det andra barnet: Förebild och efter-
 liknande. Ingen varelse har en sådan lust till efter-
@@ -4632,16 +4604,15 @@ grund som vattnet rinner utför berget. Därför måste
 en uppfostrare ständigt vara medveten om, att vaksam-
 ma barnaögon bevaka honom från morgon till kväll bara
 för att efterlikna honom i görande och låtande.
+
 Det är av största betydelse, att barnets dräkt är syn-
 nerligen bekväm, särskilt de små gossarnas kläder,
 emedan trånga kläder lätt bli orsak till laster, som gärna
 vidhänga mannen för hela livet.
+
 Ville någon försöka att med våld uttaga ett ofött barn
 ur moderns sköte, så bleve döden en följd därav, emedan
 barnet ännu inte uppnått den mognad, som tillåter det
-126
-
-
 att uthärda inflytanden från den fysiska världen. Under
 de tre sjuårsperioder, som följa på födelsen, befinna sig
 ännu de osynliga bärarna allt jämt i naturens moders-
@@ -4654,6 +4625,7 @@ måttet stående intelligenser. Vi skola inte hindra ett
 barn från att av egen drift lära eller tänka, men
 aldrig borde vi tvinga det därtill, som så många föräldrar
 göra för att tillfredsställa sin egen fåfänga.
+
 Då livskroppen födes vid sjuårsåldern, inträder perio-
 den för växande, och ett nytt rättesnöre eller rättare ett
 nytt ömsesidigt förhållande mellan föräldrar och barn
@@ -4678,9 +4650,6 @@ Orsaken är denna: I fostrets och det lilla barnets strup-
 huvud befinner sig en körtel, som benämnes Thymus-
 körteln, vilken är störst före födelsen, men sen så små-
 ningom under barnaåren avtar i omfång och slutligen
-127
-
-
 alldeles försvinner vid en ålder, som är olika allt efter
 barnets anlag. Anatomer ha rivit sig i huvudet för att
 komma till klarhet om funktionen hos detta organ och
@@ -4710,6 +4679,7 @@ sta möjliga hänsyn, ty vid ingen annan tidpunkt i livet
 behöver barnet så mycken medkänsla som just under
 åren från de fjorton till de tjuguett, då begärnaturen
 lever ut och verkar utan hinder.
+
 Det är en förbrytelse att kroppsligt tukta ett barn vid
 vilken livsålder som helst. Styrka är aldrig detsamma
 som rätt; föräldrar borde alltid hysa medkänsla med
@@ -4717,8 +4687,6 @@ den svagare. Men kroppsligt straff innebär ett moment,
 som gör det särskilt farligt att använda mot de unga:
 Nämligen genom att det väcker lidelse, som kanske sedan
 inte kan tyglas av en uppväxande gosse.
-128
-
 
 Om vi slå en hund, komma vi snart att kuva hans
 natur och göra honom till en svansviftande strykare,
@@ -4735,10 +4703,12 @@ las. Man bör därför aldrig slå ett barn, om så straff
 vore förtjänt, utan söka att förbättra det genom att dra
 in på ynnestbevis och andra annars beviljade rättig-
 heter.
+
 Vid tjuguett års ålder förvandlar födelsen av intellektet
 ynglingen till man och jungfrun till kvinna. De äro
 nu mer rustade till att börja de egna erfarenheternas
 skola.
+
 Så ha vi nu följt den mänskliga anden under dess
 kretslopp från död till födelse fram till mogen ålder. Vi
 ha sett, hur en oföränderlig lag styr alla dess steg och
@@ -4747,6 +4717,3 @@ väsens försyn och omsorg, vilka äro GUDS tjänare.
 Gången av dess följande utveckling kommer att fram-
 läggas i ett senare verk: "Den kristligt-mystiska invig-
 ningen".
-129
-
-
