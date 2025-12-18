@@ -1,0 +1,38 @@
+---
+title: "Folleto №44: Cooperando con las Estrellas"
+language: "es"
+original_title: "Pamphlet №44: Are You Helping Your Stars?"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-44-are-you-helping-your-stars.md"
+---
+
+<h1 id="pamphlet-44-are-you-helping-your-stars">Folleto №44: Cooperando con las Estrellas</h1>
+
+### <h3 id="misuse-of-astrology">Misuse of Astrology</h3>
+
+Frecuentemente se oye a los estudiantes de astrología expresar su fastidio por el modo de coperar de las estrellas. Alegan que las progresiones y los tránsitos malévolos siempre se manifiestan a tiempo y que sus efectos son notables, mientras que los benévolos parecen tener poca o ninguna influencia; y se preguntan por qué. ¿No se ha dado cuenta Ud. que es imposible obtener algo sin pagar, igual como no se puede crear algo de la nada? Esto es válido si se desea un pan, un puesto, favores o cualquier otra cosa. Si alguna vez le parece que consigue algo sin pagar, tendrá que arreglárselas después - y con interés - porque es la Ley Natural de la justicia que nada se da a cambio de nada. Tiene que haber un intercambio en alguna forma; la balanza puede estar inclinada en una dirección por mucho tiempo, pero tan cierto como el péndulo se mueve a ambos lados del punto muerto, con un movimiento parejo, tan cierto volverá la balanza de la justicia, hasta alcanzar el equilibrio.
+
+### <h3 id="stars-never-compel">Stars Never Compel</h3>
+
+Esto es válido en la astrología. El refrán dice “Ayúdate, que Dios te ayudará.” También se puede decir que las estrellas prestan ayuda al hombre que se ayuda a sí mismo, porque ellas son los ministros de Dios. Siempre se debe recordar que las estrellas demuestran tendencias; señalan la hora cuando las oportunidades están maduras, pero nunca, bajo ninguna circunstancia, obligan a nadie a actuar de un modo u otro. Pero tampoco son portadoras de acontecimientos casuales. Son lecciones y experiencias, de las cuales podemos aprovecharnos o no, como queramos, dentro de ciertos límites. Por ejemplo, si la Luna forma una cuadratura con Marte, aportará una oportunidad para hacemos enojar y, por lo tanto, metemos en líos; después, una vez terminados los problemas, nos sentamos a reflexionar sobre el asunto y, con toda probabilidad, pensaremos que hemos sido necios por dejar que una tontería destruya nuestra felicidad.
+
+### <h3 id="equilibrium">Equilibrium</h3>
+
+En cambio, si el estudiante de astrología hace uso de sus conocimientos en forma adecuada, debe conocer el resultado de la cuadratura de la Luna a Marte. Con anticipación debe proponerse de quedar sereno y decir: “He aquí una oportunidad para que yo supere mi horóscopo. Voy a dominar mi mal genio para que, pase lo que pase, conserve mi ecuanimidad.” Entonces, cuando aparece la oportunidad de enojarse, vencerá la tentación. Aunque sienta las pasiones por adentro, se mantendrá sereno en lo externo, no perderá la cabeza, y al pasar el peligro, habrá ganado una victoria y habrá aprendido la lección que le fue destinada aprender.
+
+Supongamos que se trata de una cuadratura con la Luna a Satumo. Este aspecto causará la preocupación y el pesimismo, pero, al ocurrir tal aspecto, el estudiante de astrología puede decir: “No, no voy a preocuparme. La preocupación no resuelve nada. Perjudica, porque me quita las fuerzas con las cuales podría vencer las circunstancias. Voy a ser optimista y voy a ver lo que puedo hacer para remediar el problema.” 
+
+El hecho es que casi todas las cosas por las cuales nos preocupamos nunca se realizan, y si el estudiante puede aprender, durante este aspecto planetario, a mantener su ecuanimidad, a dejar de preocuparse, entonces habrá superado el aspecto y habrá aprendido una lección importante. Así, si él coopera con las estrellas, aprendiendo las lecciones que ellas intentan enseñarle, los aspectos malévolos tendrán menos poder sobre él del que tendrían si se cruzara los brazos y dijera, “Bueno, todo está fuera de mi control. Me encuentro bajo aspectos malévolos y forzosamente todo tiene que salir mal.”
+
+### <h3 id="individual-will">Individual Will</h3>
+
+Hay en el horóscopo un factor principal: la voluntad de la persona. Tome en cuenta que el horóscopo sólo indica tendencias, y no tiene ningún poder para obligar en absoluto. La compulsión procede de lo interno. Usted, al final de cuentas, es el factor principal del horóscopo y usted, con suficiente fuerza de voluntad, puede superar su horóscopo. No se niega que todos somos débiles y, por lo tanto, incapaces de ejercer nuestra fuerza de voluntad en cada ocasión, pero es precisamente por ese motivo que los aspectos malévolos nos son mandados: a fin de que cultivemos una voluntad más fuerte y firme para actuar correctamente en el momento apropiado. Depende de nosotros si lo que nos compele son las circunstancias externas o nuestra propia voluntad interna. Sin duda que lo último es lo debido. Los estudiantes de astrología, más que nadie, deben saber navegar la barca de su vida con seguridad por entre los escollos de la existencia, porque cuentan con las advertencias necesarias; ellos saben lo que les va a suceder y deberían estar preparados.
+
+### <h3 id="cooperation">Cooperation</h3>
+
+En cambio, se pregunta por qué los aspectos benévolos no traen un provecho igual de poderoso. La respuesta a esa pregunta es: la misma falta de cooperación. Es imprescindible esforzarse para aprovechar los aspectos benévolos lo mismo que para superar los malévolos. Supongamos que está Ud. sin trabajo y de pocos recursos económicos; no ve posibilidades de ingresos, pero está esperando un fuerte aspecto benévolo como, por ejemplo, un trino de la Luna progresado al regente de la sexta casa o al Sol. Bajo este aspecto usted se siente seguro, desde el punto de vista astrológico, que va a conseguir un empleo que aliviará su estado económico. Muy bien, puede tener la seguridad que vendrá la oportunidad, pero no crea que ésta sea, regalada sin esfuerzo alguno de su parte. Si algo vale la pena tener, vale la pena hacer los mejores esfuerzos para conseguirlo. Ponga atención a todos los detalles: cuando se entrevista con la persona que tiene el poder de darle empleo, vístase bien, pero no de una forma ostentosa. Recuerde que la primera impresión que haga es la más importante. Tenga preparadas las cartas de recomendación y todo lo demás como si no dependiera de un aspecto astrológico para conseguir el puesto. Sírvase de todos los medios posibles para impresionar al futuro patrón con sus habilidades y puede confiar en que su esfuerzo tendrá éxito, porque ha cooperado con las estrellas, ha aprovechado una oportunidad. 
+
+### <h3 id="common-sense">Common Sense</h3>
+
+Supongamos que Ud. está a punto de principiar una sociedad comercial y se siente confiado porque la Luna forma trino con el Sol y Venus en la séptima casa. Procure no descuidarse, creyendo quizás que por tal aspecto no puede aparecer una persona que no sea un buen socio. Si se descuida, no cumple con su parte y no podrá echar la culpa a las estrellas después, si la persona resulta inadecuada. Lo que más se necesita en el mundo actual es el sentido común (o sea, el discernimiento) y esto se aplica a las astrología tanto como a cualquier otra esfera de la vida. Las oportunidades pueden ser comparadas con una pista para tobogán que nos separa de lo que deseamos: es necesario que nosotros hagamos el esfuerzo inicial para lanzar el tobogán al resbaladero, pero habiendo cumplido con nuestra parte, los buenos aspectos se encargarán de todo lo demás; ellos estarán de nuestra parte para impresionar a otras personas en nuestro favor o para aumentar nuestra perspicacia a fin de que sepamos lo que más nos conviene.
