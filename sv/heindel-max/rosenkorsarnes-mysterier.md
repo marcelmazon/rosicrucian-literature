@@ -57,7 +57,7 @@ Oceanside, California, 92054, USA
   - [Modo de solicitar la admisión](#how-to-apply-for-admission)
   - [El costo de los cursos](#the-cost-of-the-courses)
 
-### <h3 id="">Rosenkreuzerorden</h3>
+### <h3 id="chapter-1">Rosenkreuzerorden</h3>
 
 Dess Budskap och Uppgift:
 
@@ -85,9 +85,9 @@ I spektrum skilja vi på sju färger, rött, orange, gult, grönt, blått, indig
 
 Läsaren får emellertid inte tro, att en sådan invigning gör lärjungen till en Rosenkreuzare, åh, nej, lika litet som upptagandet i en högskola gör den studerande till medlem av fakulteten. Han blir inte Rosenkreuzare, även om han förvärvat alla de nio graderna i denna eller någon annan, hemlig orden. Rosenkreuzarna äro Hie- rofanter i de MINDRE mysterierna, men över dessa finns det skolor, där man övar de STORA mysterierna. Den, som genomgått de mindre mysterierna och blivit lär- junge i de större, kallas adept. Men inte ens dessa långt framskridna människor ha ännu uppnått samma höjd som någon av de tolv bröderna inom Rosenkreuzer- orden eller Hierofonterna inom en ringare mysteriiskola, mer än en student under första terminen uppnår sam- ma ställning och kunskap som en lärare inom den skola, där han fått sitt mogenhetsbetyg.
 
-En senare bok skall handla om invigning, men redan här må sägas, att portarna till varje äkta mysteriiskola inte öppnas med någon gyllene nyckel, utan endast som lön för värdefullt människotjänande. Den, således, som ger sig ut för Rosenkreuzare eller lyfter betalning för sin undervisning, bevisar genom sådant handlingssätt, att han är en bedragare. Den sanne lärjungen inom nå- gon mysteriiskola är allt för anspråkslös för att beröm- ma sig av dylika företräden, han tillbakavisar alla titlar och hedersbetygelser, han uppskattar ingen annan rike- dom än kärlekens, som bringas honom av dem, som han får undervisa och tjäna.
+En senare bok skall handla om invigning, men redan här må sägas, att portarna till varje äkta mysteriiskola inte öppnas med någon gyllene nyckel, utan endast som lön för värdefullt människotjänande. Den, således, som ger sig ut för Rosenkreuzare eller lyfter betalning för sin undervisning, bevisar genom sådant handlingssätt, att han är en bedragare. Den sanne lärjungen inom någon mysteriiskola är allt för anspråkslös för att beröm- ma sig av dylika företräden, han tillbakavisar alla titlar och hedersbetygelser, han uppskattar ingen annan rike- dom än kärlekens, som bringas honom av dem, som han får undervisa och tjäna.
 
-Under de efter Rosenkreuzer-ordens första framträ- dande flydda århundradena ha dess medlemmar i all still- het verkat för det stora målet att ombilda Västeuropas tankevärld efter skrifter av Paracelsus, Böhme, Bacon, Shakespeare, Fludd och andra, vilkas namn förblivit obekanta. Var midnatt, då dagens fysiska krafter ebbat ut och floden för andliga impulser nått sin högsta höjd, utsände de själsgenomträngande pulsslag av svängningar för att motarbeta materialismen och befrämja utveck- lingen av själens krafter. Den ha vi att tacka för det långsamt skeende förandligandet av vår en gång så ma- terialistiska vetenskap.
+Under de efter Rosenkreuzer-ordens första framträ- dande flydda århundradena ha dess medlemmar i all still- het verkat för det stora målet att ombilda Västeuropas tankevärld efter skrifter av Paracelsus, Böhme, Bacon, Shakespeare, Fludd och andra, vilkas namn förblivit obekanta. Var midnatt, då dagens fysiska krafter ebbat ut och floden för andliga impulser nått sin högsta höjd, utsände de själsgenomträngande pulsslag av svängningar för att motarbeta materialismen och befrämja utveck- lingen av själens krafter. Den ha vi att tacka för det långsamt skeende förandligandet av vår en gång så materialistiska vetenskap.
 
 Med början av XX:e århundradet togs ännu ett steg. Man insåg, att något måste ske för att göra religionen vetenskaplig och vetenskapen religiös, så att de till slut skulle kunna uppgå i varandra. Ty hjärta och intellekt äro i vår tid skilda åt. Men hjärtat känner instinktivt sanningen i religiösa läror om så underbara mysterier som den obefläckade avelsen (den mystiska födelsen), korsfästelsen (den mystiska döden), det renande blodet, soningsoffret och andra kyrkoläror, som intellektet sät- ter sig emot att tro, emedan de ej kunna bevisas och tyckas motsäga alla kända naturlagar. Materiellt upp- sving kan väl befrämjas, där intellektet härskar och hjär tats längtan förblir obesvarad, men själens tillväxt för- dröjes, tills även hjärtat blivit tillfredsställt.
 
@@ -99,7 +99,7 @@ Deras andra val föll på den, som skriver dessa rader, ehuru han själv inte vi
 
 Rosenkreuzarna lära, att alla, stora religioner givits åt de folk, bland vilka de uppträtt, av gudomliga intelligen- ser, vilka anpassat varje gudstjänstsystem efter behoven hos den ras eller nation, åt vilken det utgavs. Ett primi- tivt folk kan nämligen inte inställa sig på en hög och upphöjd religion, och vice versa. Vad som gagnar en ras, skulle blott skada en annan, och, motsvarande dessa fordringar, har ett system för själsutveckling uttänkts, som är särskilt ägnat för de västerländska folken, vilka enligt sin natur inte äro i stånd att underkasta sig en skolning, avsedd för de helt annorlunda artade och ut- bildade hinduerna.
 
-#### <h4 id="">Rosenkreuzarnes Broderskap.</h4>
+#### <h4 id="the-rosicrucian-fellowship">Rosenkreuzarnes Broderskap.</h4>
 
 För att utbreda Rosenkreuzerlärorna inom Västern stiftades år 1909 Rosenkreuzarnas Brödraskap. Det är härold för "Vattumannens tidsålder", varunder solen på sin fortlöpande vandring genom Vattumannens zodikala tecken hos människan bringar till utveckling och mognad alia andliga och intellektuella krafter, som känneteckna detta tecken. Liksom hettan från en eld uppvärmer allt inom kretsen för dess utstrålning, så kommer Vattumans- strålen att höja jordens svängningstal till en höjd, som vi ännu icke kunna fatta, om vi också redan äga bevis på de materiella verkningarna av denna kraft i den sista tidens omvälvande uppfinningar och upptäckter. Vi ha häpnat inför de X-strålar, som genomlysa den mänskliga kroppen; en var har dock en, låt vara, latent förmåga, som efter vederbörlig utveckling skall sätta oss i stånd att se tvärs igenom en mängd fasta kroppar eller att se på vilket avstånd man behagar. Vi häpna över tele- fonsamtalen mellan kontinenten och Amerika; en var har emellertid inom sig en möjlighet till att både höra och tala, som är vida känsligare och skarpare. Vi häpna över dessa färder både under vattnet och i luften; men vi äga allesammans en latent förmåga att kunna genom- forska det djupaste hav såväl som luftens höjder; nej, mer än så, vi skulle t. o. m. kunna oskadda gå genom fasta berget och genom rasande eld, om vi blott ägde den rätta kunskapen därom; själva blixten förefaller lång- sam mot den hastighet, varmed vi i själva verket skulle kunna resa. Det låter ju som sagor likt Jules Vernes' för en generation sedan; men Vattumannens tidsålder kommer att låta oss se förverkligandet av dylika dröm- mar och det vida mer, än vi nu ens kunna ana. Sådana färdigheter komma då att utövas av ett större antal människor, vilka så småningom utvecklat dem, liksom man nu lär sig gå, tala, höra och se.
 
@@ -113,37 +113,9 @@ En var av dessa grupper ser sig hotad av sina sär- skilda faror. Om ockultisten
 
 Rosenkreuzer-Brödraskapet bemödar sig att förbereda världen i gemen och sensitiver inom båda grupperna sär- skilt på uppvaknandet av människans latenta krafter så att alla må kunna färdas trygga genom den farliga zonen, på bästa sätt väpnade till att kunna bruka dessa krafter. All möda riktas på att inplanta kärlek, utan vilken Pau- lus förklarade all kunskap om mysterierna för värdelös, och på att så fast grunda det mystiska vetandet på kär- lek, låta dess rötter uppgå därur, så att lärjungarne av detta kunna bli levande företrädare för den förandli- gande själsvetenskapen inom Västerlandets vishetsskola och så småningom kunna vidare undervisa den större mänskligheten om de dygder, som äro nödvändiga för att ägandet av högre krafter inte skall bli en fara.
 
-#### <h4 id="mount-ecclesia">Mount Ecclesia</h4>
+### <h3 id="chapter-2">Livets gåta och dess lösning</h3>
 
-Verkandet i den fysiska världen fordrar fysiska medel. För den skull inköptes 1911 i staden Oceanside, nittio (engelska) mil söder om Los Angeles i Kalifornien, ett litet landområde. Sydkalifornien valdes på grund av eterrikedomen i dess atmosfär, och stället i fråga visade sig i så hänseende särskilt gynnat av naturen.
-
-På denna högt belägna plats med vid utsikt över den väldiga Stilla Oceanen, över snöbetäckta berg och soliga dalar började vi i slutet av år 1911 inrätta en trädgårds- anläggning, och under de därpå förflutna fem åren ha vi skapat en helgedom, varest på bestämda tider Rosen- kreuzer-tempelgudstjänst hålles. Rosenkorsets helande cirkel håller där sina sammankomster för att hjälpa li- dande. Medarbetarnes gemensamma morgon- och afton- böner förrättas även sammastädes. Förvaltningsbygg- naden innehåller även redaktionsrum för våra månads- skrifter, framför allt då för "Strålar från Rosenkorset" ("Rays from the Rose Cross") liksom ett bokförlag.
-
-Genom outtröttligt arbete har mitt i en härlig, tropisk park skapats en välsignad plats. I denna strävan att åt den nya världsrörelsen skapa en skön, synlig medel- punkt ligger en djup andlig tanke, ty därigenom erhålla medarbetarne en själisk jämvikt och ro, som utgör en nödvändig betingelse för den rätta pliktuppfyllelsen. Utan denna skulle de inte kunna sätta en damm mot sorg och nöd, utan denna kunde de ej alltid låta sina hjärtan flöda in i alla brev, som bära hopp och nytt livsmod till de själar, som sucka under sjukdomens börda. I det de medvetet eller omedvetet bada sina själar i omgiv- ningens skönhet, tilltaga de i styrka, tillväxa i nåd och uppnå allt mer färdigheter i HERRENS och MÄSTA- RENS vingårdsarbete.
-
-För att hjälpa dem, som känna sig dragna mot ljuset, till att i allvar och tro förbereda sin utveckling av för- borgade, andliga krafter, underhåller Rosenkreuzer- Brödraskapet två korrespondenskurser, som bringa un- dervisning åt lärjungar, spridda över hela världen. Den ena omfattar astrologi, den andra Kristen mystik.
-
-Den astrologi, vi ägna oss åt, är inte att förväxla med förutsägande av kommande öden, den är ett trappsteg till den mystiska religionen, lika upphöjd som stjärnorna, varmed den befattar sig. Dessa stjärnor äro nämligen inga döda kroppar, vilka röra sig i det så kallade världs- rummet i lydnad för den s. k. blinda naturlagen, utan de utgöra förkroppsliganden av de "sju andarna framför tronen", mäktiga stjärnänglar, som använda sitt väl- görande inflytande till att leda mindre upphöjda väsen, människorna inberäknat, på utvecklingens väg.
-
-Månen har en sida, som vi aldrig se, men denna för- dolda hälft utgör en lika mäktig faktor till ebb och flod, som den för oss synliga delen av månen. På samma sätt ges det en osynlig del hos människan, som dock utövar ett synnerligen stort inflytande i vårt liv, och, liksom tiden uppdelas efter solens och månens rörelser, så kunna också tilldragelser inom tillvaron beräknas efter stjärnornas gång, vilken man därför kan beteckna som "Ödets ur". Kunskapen om stjärnornas inflytande är därför en jättekraft, och ett horoskop avslöjar för den, som är invigd, varje livshemlighet hos en människa.
-
-Om du därför gett en astrolog dina födelsedata, äger denne nyckeln till din innersta själ; det ges ingen hem- lighet i en människas timliga liv, som han inte skulle kunna bringa dagen. Denna kunskap kan användas till ont som gott, till att hjälpa såväl som till att skada allt efter människans natur i fråga. Aldrig borde man därför anförtro denna nyckel till ens själ åt annat än en vän. Aldrig borde en sådan erhålla den, som vore nedrig nog att utnyttja en andlig vetenskap till penning- vinst.
-
-För läkaren är astrologien oskattbar vid diagnos av sjukdomar och för utskrivandet av recept, ty den avslö- jar orsaken till alla lidanden på ett sätt, som ofta sät- ter tvivlaren i högsta förvåning och tar ordet ur den hånfulles mun.
-
-Tusen människors åsikter äro alltid av ett visst värde, men ha i och för sig intet bevisvärde, ty tusen andra kunde påstå raka motsatsen. Dessutom kan ibland en enda människa sitta inne med sanningen, medan den övriga världen är fången i misstag, liksom när Galilei påstod, att jorden rörde sig. I våra dar har hela värl- den omvänts till samma tro, för vilken han dömdes till bålet, och vi uppställa följande påstående: Eftersom människan är ett sammansatt väsen, kunna läkemedel endast vara framgångsrika, i samma mån som de avse att hela sjukdomarne på fysiska, moraliska och andliga plan. Vidare påstå vi, att framgång lättare nås vid vissa tider, då stjärnstrålningen för en särskild sjuk- dom är synnerligen gynnsam, eller genom botemedel, som förut beretts under särskilt gynnsamma omstän- digheter.
-
-Som fader skall du genom horoskopet kunna hos ditt barn upptäcka dåliga anlag och därigenom vara i stånd att ingripa på rätt sätt. Horoskopet kommer även att visa dig barnets goda sidor, så att du kan göra en bätt- re människa av den själ, som anförtrotts åt din vård. Det kommer att för dig avslöja svagheterna i barnets organism, så att du kan bättre vaka över dess hälsa. Det kommer att visa anlagen och hur livet därigenom kan uppbringas till sin högsta möjlighet. Därför är budskapet från de vandrande stjärnorna av sådan vikt, att du inte kan blind gå det förbi.
-
-#### <h4 id="">Våra undervisningsstunder äro sanna predikningar</h4>
-
-De förkroppsliga de högsta sedliga och andliga prin- ciper, på samma gång som de företräda det mest upp- höjda, etiska system. Ty för oss är astrologien ett steg inom religionen. Vi se aldrig på ett horoskop utan att vara fullt medvetna om att stå nära något heligt, an- sikte mot ansikte med en odödlig själ, och vår inställ- ning gent emot en sådan är en bön om att kunna visa denna själ den rätta vägen.
-
-#### <h4 id="">Vi ställa inga horoskop</h4>
-
-Ständigt skriva människor till oss och bifoga pen- ningar för horoskop — detta trots alla uppmaningar om motsatsen. På detta sätt förlora vi bara värdefull tid med avfattandet av avböjande brev och återsändande av pengarna. Vi kunna blott åter och åter be om att bli förskonade för sådant, ty alla dylika anhållanden vinna aldrig bönhörelse.
-
-### <h3 id="">Livets gåta och dess lösning</h3>
+#### <h4 id="the-problem-of-life">Livets gåta</h4>
 
 Bland alla livets växlingar, som nå den enskilde, reser sig en över dem alla och träffar förr eller senare en var ---döden. Hur vi än haft det ställt i livet, om detta varit värt att leva eller ej, om stora gärningar utmärkt vår väg bland våra medmänniskor, om sjukdom eller hälsa varit vår lott, om vi blivit berömda och kring- svärmade av beundrande skaror eller om vi vandrat här i livet obemärkta och okända av alla, en gång kommer ändå det ögonblick, då vi stå ensamma inför dödens port och tvingas göra språnget in i det stora okända.
 
@@ -151,9 +123,7 @@ Tanken på detta språng och på vad som kan ligga på. andra sidan, måste obö
 
 I östra kanten av Sahara står den världsbekanta sfinxen med sitt outgrundliga ansikte vänt mot Östern och hälsar så varje dag den uppgående solen. Den grekiska sagan berättar, att ett liknande vidunder ställ- de sig i varje vandrares väg och gav honom en gåta att lösa. Den, som inte kunde lämna rätt svar, blev uppäten av sfinxen, men då Ödipus löste gåtan, förintade den sig själv.
 
-Den fråga, som den förelade människan, gällde livets mening och dödens hemlighet, ett problem, som är vik- tigare än någonsin och som varje enskild måste lösa, om han inte vill bli uppslukad av förintelsens käkar.
-
-Den, som en gång funnit lösningen, skall emellertid inse, att det i verkligheten ej finns någon död och att det, som syns oss som död, endast är en växling från ett medvetenhetstillstånd till ett annat. Så har för den människa, som funnit livsgåtans sanna lösning, dödens sfinx upphört att finnas till, och hon kan triumferande utropa: "Död var är din udd, o, helvete var är din seger?"
+Den fråga, som den förelade människan, gällde livets mening och dödens hemlighet, ett problem, som är vik- tigare än någonsin och som varje enskild måste lösa, om han inte vill bli uppslukad av förintelsens käkar. Den, som en gång funnit lösningen, skall emellertid inse, att det i verkligheten ej finns någon död och att det, som syns oss som död, endast är en växling från ett medvetenhetstillstånd till ett annat. Så har för den människa, som funnit livsgåtans sanna lösning, dödens sfinx upphört att finnas till, och hon kan triumferande utropa: "Död var är din udd, o, helvete var är din seger?"
 
 Man har uppställt en rad teorier för att söka lösa livsproblemet. Vi kunna dela dem i två klasser, nämli- gen den monistiska, som söker förklara alla livets fakta ur deras förhållande till den av oss bebodda, synliga världen, och den dualistiska, som sätter en del av livs- problemen i förhållande till en annan, för oss ännu osyn- lig värld.
 
@@ -165,13 +135,9 @@ Detta är ändamålet med denna bok. Den vill inte bjuda någon färdig lösning
 
 Inte desto mindre bör lärjungen alltid vara på sin vakt, emedan författaren kunde ha missförstått några av lä- rorna och, trots största omsorg, kanske dragit oriktiga slutsatser om vad han trott sig upptäcka inom de osyn- liga världarna, ty där ges det otaliga möjligheter till att begå misstag. I den synliga världen runt omkring oss utgöra formerna någonting invant och förändras inte så lätt, men i den för endast det andliga ögat syn- liga världen kunna vi säga, att det inte ges några verk- liga former, utan att allt är liv. Åtminstone äro for- merna så växlande, att de förvandlingar, som vi höra omtalas i sagor, där på ett förvånansvärt sätt vida över- träffas. Därav också de överraskande berättelserna av medier och andra oskolade skådare, som, om de också äro aldrig så ärliga, dock låta sig narras av den illuso- riska, försvinnande formen, detta, emedan de ej äro i stånd till att skåda livet självt, som bildar den varaktiga grunden till denna form.
 
-Vi måste ju också först lära oss se i denna värld. Det nyfödda barnet har intet begrepp om avstånd och griper därför efter ting, som ligga långt utom dess räck- vidd, tills det lärt sig bättre förstå sina möjligheter. En blind, som återfår sina ögons ljus, kanske genom operation, kommer allt jämt att sluta ögonen, när han vill förflytta sig i rummet, han säger, att det är lätta- re för honom att vid gåendet lita sig till känseln i stäl- let för till ögonens ljus, just emedan han ännu inte lärt att använda det nyförvärvade sinnet.
+Vi måste ju också först lära oss se i denna värld. Det nyfödda barnet har intet begrepp om avstånd och griper därför efter ting, som ligga långt utom dess räck- vidd, tills det lärt sig bättre förstå sina möjligheter. En blind, som återfår sina ögons ljus, kanske genom operation, kommer allt jämt att sluta ögonen, när han vill förflytta sig i rummet, han säger, att det är lätta- re för honom att vid gåendet lita sig till känseln i stäl- let för till ögonens ljus, just emedan han ännu inte lärt att använda det nyförvärvade sinnet. På samma sätt måste en människa, som nyligen för- värvat andlig syn, först skolas, ja, hon har större behov av undervisning än den blinde och det nyfödda barnet. Förvägrade man henne denna skolning, skulle hon befin- na sig i samma läge som ett litet barn, vilket befinner sig i ett rum med väggar av konvexa och konkava speg- lar, så att det ser sin egen och förarens bilder i för- vrängning. Ville man låta det uppväxa i en sådan om- givning, i vilken det varken kunde lära känna sitt eget eller sina älskades utseende, skulle det naturligtvis kom- ma att leva i den tron, att det blott kunde få se alle- handa dylika förvridna former, ehuru spegeln ensam bär skulden till villfarelsen. Finge så barnet se de i försö- ket inblandade personerna utanför det bedrägliga spe- gelrummet, skulle det inte vara i stånd till att igenkänna dem, förr än man gett det gåtans lösning. Liknande faror för att taga miste består allt jämt för dem, som utvecklat sitt andliga öga, så länge de ännu ej blivit tillräckligt skolade att kunna taga brytningen med 1 räkningen och att med blicken riktigt fatta livet, som är något varaktigt och fast, och lämna den föränder- liga och svinnande formen åt dess värde. Faran för att se tingen förvridna består dock allt- jämt och är så svår att rätt urskilja, att det är mig en bjudande plikt att varna läsaren, så att han upptar alla uttalanden om den "osynliga" världen med största var- samhet, ty der ligger mig fjärran att vilja utbreda orik- tiga uppgifter. Jag är därför snarare böjd för att un- derskatta möjligheten av min förmåga än att överdriva dess räckvidd, så att jag för den skull råder lärjungen att inte anta något jag skriver som avgjort, innan han själv klargjort allt för sig själv. Då kan han endast tillskriva sig själv orsaken till sina misstag, och för- fattaren förblir utan skuld.
 
-På samma sätt måste en människa, som nyligen för- värvat andlig syn, först skolas, ja, hon har större behov av undervisning än den blinde och det nyfödda barnet. Förvägrade man henne denna skolning, skulle hon befin- na sig i samma läge som ett litet barn, vilket befinner sig i ett rum med väggar av konvexa och konkava speg- lar, så att det ser sin egen och förarens bilder i för- vrängning. Ville man låta det uppväxa i en sådan om- givning, i vilken det varken kunde lära känna sitt eget eller sina älskades utseende, skulle det naturligtvis kom- ma att leva i den tron, att det blott kunde få se alle- handa dylika förvridna former, ehuru spegeln ensam bär skulden till villfarelsen. Finge så barnet se de i försö- ket inblandade personerna utanför det bedrägliga spe- gelrummet, skulle det inte vara i stånd till att igenkänna dem, förr än man gett det gåtans lösning. Liknande faror för att taga miste består allt jämt för dem, som utvecklat sitt andliga öga, så länge de ännu ej blivit tillräckligt skolade att kunna taga brytningen med 1 räkningen och att med blicken riktigt fatta livet, som är något varaktigt och fast, och lämna den föränder- liga och svinnande formen åt dess värde.
-
-Faran för att se tingen förvridna består dock allt- jämt och är så svår att rätt urskilja, att det är mig en bjudande plikt att varna läsaren, så att han upptar alla uttalanden om den "osynliga" världen med största var- samhet, ty der ligger mig fjärran att vilja utbreda orik- tiga uppgifter. Jag är därför snarare böjd för att un- derskatta möjligheten av min förmåga än att överdriva dess räckvidd, så att jag för den skull råder lärjungen att inte anta något jag skriver som avgjort, innan han själv klargjort allt för sig själv. Då kan han endast tillskriva sig själv orsaken till sina misstag, och för- fattaren förblir utan skuld.
-
-#### <h4 id="">Tre teorier om livet</h4>
+#### <h4 id="three-theories-of-life">Tre teorier om livet</h4>
 
 Man har uppställt endast tre, mer anmärkningsvärda teorier till lösning av tillvarons problem, och, för att läsaren själv må göra det så viktiga urvalet bland dessa, vilja vi i korthet klarlägga deras innehåll och anföra bevis, som föranleda oss att anbefalla läran om åter- födelsen som den metod, vilken särskilt erkänner själens tillväxt och den slutliga, högsta fullkomningen och alltså erbjuder den bästa lösningen på livets gåta.
 
@@ -203,19 +169,39 @@ III. Teorien om återfödelsen lär, att varje ande utgör en väsensdel av GUD,
 
 Vi kläda samma tanke i poetisk form:
 
-``` VI LEVA EVIGT
+<pre id="we-are-eternal">
+VI LEVA EVIGT
 
-Likt brusande storm på Zephirens vingar sig änglakören i världshymner svingar. Hör, hur den jublar: "Vi gått genom dödens port. Det ges ingen död, ty livet är evigt i eviga ord.
+Likt brusande storm på Zephirens vingar 
+sig änglakören i världshymner svingar. 
+Hör, hur den jublar: "Vi gått genom dödens port. 
+Det ges ingen död, ty livet är evigt i eviga ord.
 
-Vi voro, vi äro, vi skola förbli, vi hava vårt arv av all evighet. Gammalt som världen, en del av det enda, stora hela är varje väsen, varje odödlig själ.
+Vi voro, vi äro, vi skola förbli, 
+vi hava vårt arv av all evighet. 
+Gammalt som världen, en del av det enda, stora 
+hela är varje väsen, varje odödlig själ.
 
-På tidens vävstol väva vi vår klädnad, vi väva evigt tänkandets långa väv. Våra fäder, det hem, som anden kallat till varande, gavs form i himlen, innan jord dem ännu bar.
+På tidens vävstol väva vi vår klädnad, 
+vi väva evigt tänkandets långa väv. 
+Våra fäder, det hem, som anden kallat till varande, 
+gavs form i himlen, innan jord dem ännu bar.
 
-Vi, som glänst i stenen, vi, som dansat på vågen, vi, som glött i elden och som trotsat graven, som växlat form och sätt och namn i tusentals gestalter, förblevo alltid samma i vårt inre, eviga väsen.
+Vi, som glänst i stenen, vi, som dansat på vågen, 
+vi, som glött i elden och som trotsat graven, 
+som växlat form och sätt och namn i tusentals gestalter, 
+förblevo alltid samma i vårt inre, eviga väsen.
 
-Och nã vì en gång vår högsta bestämmelse, om vårt växandes steg sig uppenbara för anden, om led sig fogar till led och bildar en enhet och vägen steg för steg kan äntligt överskådas,
+Och nã vì en gång vår högsta bestämmelse, om 
+vårt växandes steg sig uppenbara för anden, 
+om led sig fogar till led och bildar en enhet 
+och vägen steg för steg kan äntligt överskådas,
 
-då bliva slutligen vetande alla, om ständigt vi sträva att göra det sanna, det sköna, det ädla, fulla av godhet mot alla och ingen till smärta, att Herrens vilja i och genom oss kan ske!" ```
+då bliva slutligen vetande alla, 
+om ständigt vi sträva att göra det sanna, det sköna, det ädla,
+fulla av godhet mot alla och ingen till 
+smärta, att Herrens vilja i och genom oss kan ske!" 
+</pre>
 
 Vi våga det påståendet, att det ges blott en enda synd: Okunnighet och blott en frälsning: Tillkämpat ve- tande. Själva de klokaste bland oss veta emellertid en- dast föga av vad man verkligen kan lära, och ingen kan uppnå fullkomlighet eller har någonsin uppnått sådan under endast en kort livsperiod. Vi se också i naturen, hur allt i långsam, oupphörlig utvecklingsprocess strä- var till allt högre utveckling, och vi kalla denna process för evolution.
 
@@ -225,17 +211,35 @@ Vår jord kan i sanning liknas vid en skola, till vilken vi återvända från de
 
 Vi äro alltså inte här allenast på grund av en nyck av GUD. Inte har HAN godtyckligt placerat den ene mitt i ett land, som flyter av mjölk och honung, medan den andre får släpa sig fram genom en öde öken, inte heller godtyckligt skänkt den ene en kropp, så att han kan leva fri från sjukdom och smärta, medan en annan får växa upp i de kargaste förhållanden, aldrig fri från plågor. Utan vad vi äro, det äro vi uteslutande genom egen för- tjänst eller skuld, och, vad vi i framtiden komma att bli, det hänger på vår egen vilja och inte på gudomligt godtycke eller ett obevekligt öde. Hur förhållandena än må vara, alltid ligger det i vår egen hand att bemästra dem eller att själva bli bemästrade av dessa - som vi själva önska, så kommer också att ske. Sir Edwin Ar- nold ger ett härligt uttryck åt denna lära i sin dikt "Asiens ljus":
 
-``` Skriften, bröder, talar sant om mänskans liv, det framgår ur vad det tillförne var. Ur det förgångnas synd framsprungit sorg och nöd, men godhet lycka bar.
+``` 
+Skriften, bröder, talar sant om mänskans liv, 
+det framgår ur vad det tillförne var. 
+Ur det förgångnas synd framsprungit sorg och nöd, 
+men godhet lycka bar.
 
-En var har högsta härskargåva fått: Hos väktarne i djupen, likt i högsta höjd, bland alla kreatur, bland skapat kött ger gärning kval och fröjd.
+En var har högsta härskargåva fått: 
+Hos väktarne i djupen, likt i högsta höjd, 
+bland alla kreatur, bland skapat kött ger gärning kval och fröjd.
 
-Den, vilken gick som slav, skall kanske få som furste skörda vad den fromme sått, den konung blev, i lumpor sonar tungt 1 dag sin förtids brott. ```
+Den, vilken gick som slav, skall kanske få 
+som furste skörda vad den fromme sått, 
+den konung blev, i lumpor sonar tungt 
+1 dag sin förtids brott. 
+```
 
 Och, som en okänd diktare uttrycker sig:
 
-``` Ett skepp drar ostvart, andra gå mot väster, och samma vind dem allesammans för. Blott seglens ställning, inte vindens riktning bestämmer den, vari sig skeppet rör.
+``` 
+Ett skepp drar ostvart, andra gå mot väster, 
+och samma vind dem allesammans för. 
+Blott seglens ställning, inte vindens riktning 
+bestämmer den, vari sig skeppet rör.
 
-Men vinden liknar ödets starka vilja, hur än vi sedan genom livet skrida. Vad själen gör, bestämmer helt vårt mål, ej ro i lättja, ej att planlöst strida. ```
+Men vinden liknar ödets starka vilja, 
+hur än vi sedan genom livet skrida. 
+Vad själen gör, bestämmer helt vårt mål, 
+ej ro i lättja, ej att planlöst strida. 
+```
 
 Om vi vilja utse en människa till en bestämd mission, så utvälja vi en personlighet, som vi anse särskilt skickad för de med missionen förenade uppgifterna; och vi få väl anta, att ett gudomligt väsen åtminstone besitter lika mycket sunt förnuft, så att det inte utväljer någon, som inte ägnar sig till att vandra dess vägar. När vi därför läsa i Bibeln, att Simson utvaldes till att slå filistéerna och att Jeremias utsågs till profet, är det blott följdriktigt att antaga, att de varit alldeles särskilt ut- rustade för sina uppgifter. Johannes Döparen kom även till världen för att bereda väg för den kommande Fräl- saren och för att predika om det GUDS-rike, som skulle träda i nationernas ställe.
 
@@ -267,11 +271,19 @@ De stora ledarne av utvecklingen draga största, möj- liga nytta ur alla lägen
 
 Oliver Wendell Holmes har uttryckt detta strävande till det högre och dess äntliga fullbordan i följande vack- ra verser:
 
-``` Bygg dig sköna platser, du, min själ! Medan våra stunder snabbt bortila, låt det förgångnas lumpor efter bli! Låt varje tempel, som vi bygga, nå med skönare kupoler nämre himlen, tills äntligt du blir fri och lämnar skalet, som du vuxit ur, långt bakom dig till sist på stranden av det orosfyllda levnadshavet! ```
+``` 
+Bygg dig sköna platser, du, min själ! 
+Medan våra stunder snabbt bortila, 
+låt det förgångnas lumpor efter bli! 
+Låt varje tempel, som vi bygga, nå 
+med skönare kupoler nämre himlen, 
+tills äntligt du blir fri 
+och lämnar skalet, som du vuxit ur, långt bakom dig till sist på stranden av det orosfyllda levnadshavet! 
+```
 
-### <h3 id="">Den synliga och den osynliga världen</h3>
+### <h3 id="chapter-3">Den synliga och den osynliga världen</h3>
 
-#### <h4 id="">Den kemiska regionen</h4>
+#### <h4 id="the-chemical-region">Den kemiska regionen</h4>
 
 Om någon, som besitter färdigheten att medvetet an- vända sin andliga kropp med samma lätthet, som vi nu betjäna oss av den fysiska kroppen, begåve sig från jor- den ut i stjärnrummet, så skulle jorden och de olika, andra planeterna tyckas honom, som vore de grovt uttryckt sammansatta av tre sorts stoff. Den tä- taste materien, som bildar vår synliga jord, skulle före- falla som världsklotets centrum, på samma sätt som äggulan bildar äggets mitt. Omkring denna kärna skulle han se en finare materia, som står till centralmassan i samma förhållande som äggvitan till gulan och omger densamma på liknande sätt. Vid noggrannare betrak- tande skulle han urskilja, att denna andra substans ge nomtränger den fasta jorden ända till dess egentliga mittpunkt, liksom blodet genomströmmar de fastare de- larna av vårt kött. Utanför dessa sig med varandra blandande skikt av materia skulle han urskilja ett ändå tunnare skikt, som motsvarar äggskalet, med den skillnad att detta skikt är det finaste, det tunnaste av de tre stoffgraderna, och även detta genomtränger de båda inre skikten.
 
@@ -293,13 +305,13 @@ Den minst erfarne advokat, som blott helt nyligen börjat sitt arbete, vet - enl
 
 Ingen form inom den synliga världen äger känsel en- ligt ordets innersta betydelse. Det är det däri inneboen- de livet, som känner, vilket vi lätt kunna inse därav, att en kropp, så länge den ännu äger liv, reagerar för även den lättaste beröring, men inte visar någon som helst uppfattning, sen den delats i stycken och livet flytt. Ve- tenskapsmän bland dem professor Bose i Kalkutta - ha genom experiment velat visa, att i döda djurvävnader, ja, t. o. m. i tenn och andra metaller känsel finnes för handen, men vi påstå, att de diagram, som vilja stödja denna åsikt, i verkligheten endast framställa en reflex, något liknande återstudsningen av en gummiboll. Detta kan naturligtvis än mindre förlikas med sådana känslor som kärlek, hat, böjelse och motvilja. Göthe ger också i sin roman Wahlverwandtschaften många, sköna exem- pel, efter vilka man skulle kunna tro, att atomerna älskade och hatade, endast på grund av att vissa element vilja förena sig med varandra, under det att andra sub- stanser motstå varje förening, något som dock beror på de olika hastigheter, varmed de många elementen röra sig i svängningstal, och på olika lutning av deras axlar. Blott där kännande liv är förhanden, kan det finnas lust och smärtförnimmelser, sorg och glädje.
 
-#### <h4 id="">Eterregionen</h4>
+#### <h4 id="the-etheric-region">Eterregionen</h4>
 
-Utom de fasta, flytande och gasformiga kroppar, som bilda den "kemiska regionen" inom den fysiska världen, ges det även en finare materia, etern, som, i likhet med vad vetenskapen lär, genomtränger jordens atomiska byggnad och dess stoffliga atmosfär. Lärda ha aldrig sett, vägt, uppmätt eller analyserat denna substans, etern måste emellertid finnas förhanden, annars vore fortplantningen av ljuset och andra fenomen omöjliga att förklara. Om det vore möjligt för oss att leva i ett rum, ur vilket man utpumpat de sista luftresterna, så kunde vi skrika högt, klämta i stora klockor, ja, avfyra ett skott tätt intill örat, utan att vi dock förnumme ett ljud, ty luften är det medium, som överför ljudvågorna på trumhinnan, och just detta medium skulle här vara borta.
+Utom de fasta, flytande och gasformiga kroppar, som bilda den "kemiska regionen" inom den fysiska världen, ges det även en finare materia, etern, som, i likhet med vad vetenskapen lär, genomtränger jordens atomiska byggnad och dess stoffliga atmosfär. Lärda ha aldrig sett, vägt, uppmätt eller analyserat denna substans, etern måste emellertid finnas förhanden, annars vore fortplantningen av ljuset och andra fenomen omöjliga att förklara. Om det vore möjligt för oss att leva i ett rum, ur vilket man utpumpat de sista luftresterna, så kunde vi skrika högt, klämta i stora klockor, ja, avfyra ett skott tätt intill örat, utan att vi dock förnumme ett ljud, ty luften är det medium, som överför ljudvågorna på trumhinnan, och just detta medium skulle här vara borta. Tände vi däremot ett elektriskt ljus, skulle vi strax varsebliva strålarna, det skulle ändå upplysa rummet trots frånvaron av all luft. Följaktligen måste det fin- nas en substans, som kan sättas i svängningar mellan ljuset och våra ögon. Detta förmedlande stoff kalla de lärde för eter, det är emellertid så förfinat, att man ännu ej funnit på något instrument, med vilket man kunde uppmäta och analysera den. Därför veta också de lärde endast föga om etern, ehuru de tvingats antaga dess tillvaro som oundgänglig.
 
-Tände vi däremot ett elektriskt ljus, skulle vi strax varsebliva strålarna, det skulle ändå upplysa rummet trots frånvaron av all luft. Följaktligen måste det fin- nas en substans, som kan sättas i svängningar mellan ljuset och våra ögon. Detta förmedlande stoff kalla de lärde för eter, det är emellertid så förfinat, att man ännu ej funnit på något instrument, med vilket man kunde uppmäta och analysera den. Därför veta också de lärde endast föga om etern, ehuru de tvingats antaga dess tillvaro som oundgänglig.
+Vi vilja inte förklena de vinster, som gjorts av den moderna vetenskapen, vi hysa den största beundran för densamma och ställa förväntningarne på dess vidare segrar mycket högt. Men vi inse dess begränsning i att man vill hänföra alla upptäckter i det förflutna till upp- finningen av underbara instrument, som användes på insiktsfullt sätt till att förklara till synes olösliga och förvirrande problem. Vetenskapens styrka ligger natur- ligtvis i dess instrument. Den lärde kan till exempel ge andra följande uppmaning: Gå och tag några på bestämt sätt slipade glas, insätt dem i ett rör och rikta detta rör mot något bestämt ställe på himmelen, där ditt obeväpnade öga ingenting ser! Då får du på en gång se en skön stjärna låt oss säga Uranus! Rättar man sig efter anvisningarna, så kan vem som vill snabbt och utan vidare förberedelser själv konstatera riktigheten av de lärdes utsagor. Men, lika mycket som instrumenten äro vetenskapens fasta tillförsikt, lika mycket utgöra de också dess begränsning i forskningsmöjligheter. Ty det är omöjligt att nå den andliga världen med fysiska in- strument. Därför börjar också den ockulte forskaren arbete just där, varest fysikern nått sin yttersta gräns, och detta just med andliga medel. 
 
-Vi vilja inte förklena de vinster, som gjorts av den moderna vetenskapen, vi hysa den största beundran för densamma och ställa förväntningarne på dess vidare segrar mycket högt. Men vi inse dess begränsning i att man vill hänföra alla upptäckter i det förflutna till upp- finningen av underbara instrument, som användes på insiktsfullt sätt till att förklara till synes olösliga och förvirrande problem. Vetenskapens styrka ligger natur- ligtvis i dess instrument. Den lärde kan till exempel ge andra följande uppmaning: Gå och tag några på bestämt sätt slipade glas, insätt dem i ett rör och rikta detta rör mot något bestämt ställe på himmelen, där ditt obeväpnade öga ingenting ser! Då får du på en gång se en skön stjärna låt oss säga Uranus! Rättar man sig efter anvisningarna, så kan vem som vill snabbt och utan vidare förberedelser själv konstatera riktigheten av de lärdes utsagor. Men, lika mycket som instrumenten äro vetenskapens fasta tillförsikt, lika mycket utgöra de också dess begränsning i forskningsmöjligheter. Ty det är omöjligt att nå den andliga världen med fysiska in- strument. Därför börjar också den ockulte forskaren arbete just där, varest fysikern nått sin yttersta gräns, och detta just med andliga medel. Dessa efterforsknin- gar äro lika grundliga och tillförlitliga som någonsin den materialistiska vetenskapens, men inte lika lätt tillgäng- liga för den breda publiken. Andliga krafter slumra inom varje mänskligt väsen, och, ha de en gång blivit väckta, så göra de både teleskop och mikroskop överflö- diga, de sätta ägaren i stånd att utan vidare eftersöka de bakom materiens slöja liggande tingen. De förvärvas dock blott efter ytterst tålamodsprövande övningar och långa års dygdig vandel, och det ges endast få, som äga den nödvändiga tron, för att de skulle kunna beträ- da sökandets väg, och dessutom måste de besitta uthål- lighet nog för att kunna bestå prövningarna. Av denna orsak förhåller man sig mest skeptisk gent emot ockul- tisternas utsagor.
+Dessa efterforsknin- gar äro lika grundliga och tillförlitliga som någonsin den materialistiska vetenskapens, men inte lika lätt tillgäng- liga för den breda publiken. Andliga krafter slumra inom varje mänskligt väsen, och, ha de en gång blivit väckta, så göra de både teleskop och mikroskop överflö- diga, de sätta ägaren i stånd att utan vidare eftersöka de bakom materiens slöja liggande tingen. De förvärvas dock blott efter ytterst tålamodsprövande övningar och långa års dygdig vandel, och det ges endast få, som äga den nödvändiga tron, för att de skulle kunna beträ- da sökandets väg, och dessutom måste de besitta uthål- lighet nog för att kunna bestå prövningarna. Av denna orsak förhåller man sig mest skeptisk gent emot ockul- tisternas utsagor.
 
 Vidare är det lätt att inse, att lång prövotid måste föregå fullkomningen, ty en med andlig kraft begåvad människa är i stånd till att gå genom fasta husväggar lika lätt, som vi själva gå genom luft. Samtidigt är hon i stånd att vid varje tillfälle läsa omgivningens tankar. Någon, som därvid inte leddes av de renaste och mest osjälviska motiv, kunde lätt med sådana krafter bli ett mänsklighetens gissel. Därför skyddas också denna kraft mot missbruk, med samma rätt som vi skulle lägga be- slag på en dynamitbomb hos en anarkist eller en aldrig så godsint, sinnessjuk människa eller vi skulle taga tänd- stickor och krut från barn.
 
@@ -327,17 +339,11 @@ Musik är ogripbar och övergående. Men den härstam- mar ur andens värld, och
 
 Vi se således, att det ges en mångfald olika steg för andligt seende, av vilka vart och ett anpassar sig för det överfysiska plan, som öppnar sig för det inre ögat, näm- ligen etersyn, färgsyn och tonande seende.
 
-Den ockulte forskaren urskiljer fyra arter eller tät- hetsgrader inom etern:
-
-"Kemisk eter."
-
-"Livseter."
-
-"Ljuseter."
-
-"Aterspeglande eter".
+Den ockulte forskaren urskiljer fyra arter eller tät- hetsgrader inom etern: "Kemisk eter." "Livseter." "Ljuseter." "Aterspeglande eter".
 
 Den kemiska etern är uttrycksmedel för krafter, som befordra anpassning, tillväxt och formens bevarande.
+
+The Life Ether is the vantage ground of forces active in propagation, or the building of new forms. 
 
 "Ljusetern" överför solens motoriska kraft utefter mångfalden nerver i levande kroppar och möjliggör så rörelsen.
 
@@ -363,9 +369,11 @@ I etern kunna vi vidare se änglar, vilkas tätaste krop- par äro gjorda av nä
 
 Då etern är uttrycksmedel för vitala, skapande kraf- ter och änglarna äro erfarna verkmästare i etern, kunna vi lätt förstå, att de särskilt ägna sig för att övervaka de förmerande krafterna hos växter, djur och människor. Genom hela Bibeln se vi dem verka i denna riktning: Två änglar kommo till Abraham och förkunnade honom Isaks födelse, de lovade denne man, som var en Guds lydige tjänare, en son. Senare förstöra samma änglar Sodom och Gomorra på grund av missbruk av den skapande könskraften. Änglar förutsade Simsons och Samuels föräldrar födelsen av dessa jättar i kroppen och anden. Till Elisabet kom ängelen (ej ärkeängeln) Gabriel och förkunnade födelsen av Johannes. Senare visade han sig även för Maria med budskap om, att hon vore utsedd att föda Jesus.
 
-#### <h4 id="">Begärvärlden</h4>
+#### <h4 id="the-desire-world">Begärvärlden</h4>
 
-Då det andliga livet utvecklats så långt, att vi blivit i stånd att se begärvärlden, så står nykomlingen inför många under. Ty förhållandena där äro så olika dem i vår omgivning, att en beskrivning skulle låta lika otro- lig som en amsaga, åtminstone för alla, som ännu inte varit i tillfälle att se dem. Många vilja ju inte tro, att en dylik värld ens existerar eller att andra skulle kunna se mer än de själva. Och ändå finns det ett stort antal människor, som till och med äro blinda för skönheten i - vår egen värld, vilken däremot andra kunna se. En blind född skulle kunna säga: "Jag vet, att denna värld finns till, jag kan höra, lukta, smaka, kan framför allt känna, men när ni tala om färg och ljus, existerar sådant inte för mig. Du påstår, att du ser sådana ting, det kan jag inte tro, ty jag kan själv inte se dem. Du säger, att jag är omgiven av ljus och färg, men inga mig till buds stående medel berätta mig om sådant, och jag tror inte, att det, som du säger, finns något synsinne. Jag antar, du lider av hallucinationer." Vi skulle hysa uppriktig medkänsla med en dylik, hårt prövad människa, men trots hans motskäl, hans hån, måste vi ändå vidhålla vårt påstående, att vi äro omgivna av ljus och färg.
+Då det andliga livet utvecklats så långt, att vi blivit i stånd att se begärvärlden, så står nykomlingen inför många under. Ty förhållandena där äro så olika dem i vår omgivning, att en beskrivning skulle låta lika otro- lig som en amsaga, åtminstone för alla, som ännu inte varit i tillfälle att se dem. 
+
+Många vilja ju inte tro, att en dylik värld ens existerar eller att andra skulle kunna se mer än de själva. Och ändå finns det ett stort antal människor, som till och med äro blinda för skönheten i - vår egen värld, vilken däremot andra kunna se. En blind född skulle kunna säga: "Jag vet, att denna värld finns till, jag kan höra, lukta, smaka, kan framför allt känna, men när ni tala om färg och ljus, existerar sådant inte för mig. Du påstår, att du ser sådana ting, det kan jag inte tro, ty jag kan själv inte se dem. Du säger, att jag är omgiven av ljus och färg, men inga mig till buds stående medel berätta mig om sådant, och jag tror inte, att det, som du säger, finns något synsinne. Jag antar, du lider av hallucinationer." Vi skulle hysa uppriktig medkänsla med en dylik, hårt prövad människa, men trots hans motskäl, hans hån, måste vi ändå vidhålla vårt påstående, att vi äro omgivna av ljus och färg.
 
 En människa, vilkens inre öga blivit seende, befin- ner sig i liknande läge gent emot dem, som inte kunna varsebli den begärvärld, varom hon talar. Om en blind återvinner synförmågan genom operation, öppnas. hans ögon, och han måste erkänna tillvaron av färg och ljus, vilken han förut förnekat, och, när en annan förvärvar andlig syn, så varseblir han själv allt, varom förut andra berättat. Mot tillvaron av en översinnlig region förelig- ger intet bevis i det faktum, att de seende avvika i sina berättelser om vad de iakttagit i de osynliga världarna. Vi behöva endast genomläsa resebeskrivningar och be- rättelser, som upptäcktsresande gjort från Kina, Indien eller Afrika, för att vi skola bli på det klara med, hur vitt olika och ofta varandra motsägande sådana äro. Ty varje resande såg tingen just ur sin egen synvinkel och under andra betingelser, än de andra forskarnas. Jag är av den åsikten, att den, som tar del av alla olika reseskildringar från ett bestämt land och som kommit till rätta med alla motsägelsefyllda uppgifter av de olika författarna, har vunnit en större klarhet om de länder och folk, han läst om, än den, som endast läst och trott en enda av de många olika författarna. Därför ha också de mest olikartade berättelser av sådana som be- sökt astralvärlden sitt värde, ty de ge tillsammans en mer avrundad överskådlighet, än om allt endast betrak- tades ur samma synvinkel.
 
