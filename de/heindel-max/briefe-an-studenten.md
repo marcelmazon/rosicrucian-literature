@@ -892,7 +892,7 @@ Würden einige Studenten, die schreiben können, bitte kurze Artikel über "Die 
 
 Ich hoffe, daß dieser Ruf eine bereite Antwort finden wird.
 
-### Brief Nr. 57 - August 1915 - Astrologie als eine Hilfe bei der Krankenheilung
+### <h3 id="letter-57">Brief Nr. 57 - August 1915 - Astrologie als eine Hilfe bei der Krankenheilung</h3>
 
 Hast Du Dir jemals klar gemacht, aus welchem Grund Christus uns geboten hat, die Kranken zu heilen? Einer der Gründe ist sicherlich der, daß die Hilfsbedürftigen zu Deiner Fähigkeit, der Seele zu helfen, mehr Zutrauen haben werden, nachdem Du bewiesen hast, daß Du den Körper heilen kannst. Wenn wir zu der hohen Reife Christi vorgeschritten sein werden, wo wir Gegenwärtiges und Vergangenes gleichzeitig übersehen. Wenn wir weiters imstande sein werden, dadurch die Ursachen, die Krisen und den augenblicklichen Stand einer Krankheit zu bestimmen, dann werden wir keine weitere Hilfe für die Diagnose und den ärztlichen Ratschlag benötigen. Aber bis zu dieser Zeit müssen wir die Krücken benützen, die wir haben. Und mit an erster Stelle steht die Astrologie.
 
@@ -908,7 +908,7 @@ Was einer getan hat, das können auch andere tun. Meine Frau und ich haben unser
 
 Wir haben in der Zeitschrift "Magazin" eine Abteilung eröffnet, wo wir die Horoskope von Kindern erstellen, um den Eltern zu helfen, die verborgenen Charaktereigenschaften ihrer Kinder kennenzulernen. Es gibt auch einen Korrespondenzkursus für Anfänger, außerdem den Kurs in Astro- Diagnose und Astro-Therapie für Prüflinge, und wir möchten allen, die noch nicht damit begonnen haben, den Rat geben, mit dem Studium zu beginnen.
 
-### Brief Nr. 58 - September 1915 - Unnatürliche Methoden zur Erreichung des Zieles
+### <h3 id="letter-58">Brief Nr. 58 - September 1915 - Unnatürliche Methoden zur Erreichung des Zieles</h3>
 
 Wenn jemand einem bestimmten Gegenstand in der unsichtbaren Welt nachspürt, so öffnen sich ihm viele verlockende Seitenwege. Er wird durch dies oder jenes, das seine Aufmerksamkeit erregt, beständig von der Hauptlinie seiner Untersuchung abgelenkt und man ist in großer Gefahr, das Ziel aus den Augen zu verlieren und in einem Labyrinth von unzusammenhängenden Dingen umherzuwandern. Manchmal ist die Versuchung, einem Seitenweg zu folgen, stärker als meine Widerstandskraft. Kürzlich, als ich am "Gewebe des Schicksals" arbeitete, erblickte ich die Gestalt eines Eremiten, der seinen Körper zum Skelett ausgehungert und sich gegeißelt hatte, bis das Blut aus seinen Wunden floß, die niemals heilen durften, und der geglaubt hatte, mit dieser Kasteiung Gott zu dienen. Der Anblick führte mich auf die Suche nach dem Ursprung solcher scheußlichen Handlungsweise. Ich habe einen ausführlichen Artikel über diesen Gegenstand für unser "Magazin" geschrieben, aber da die Sache wichtig ist und viele Studenten das Magazin nicht erhalten, hielt ich es für das Beste, hier die Hauptpunkte anzugeben.
 
@@ -918,13 +918,11 @@ Der Strebende wurde gründlich belehrt über die Funktionen der beiden niederen 
 
 Aber einige, die übereifrig nach dem Ziel strebten, vergaßen, daß das goldene Hochzeitskleid, das sich aus den beiden höheren Äthern zusammensetzt, nur durch Dienst und Selbstlosigkeit wächst. Sie dachten, der okkulte Spruch: "Das Gold in den Tiegel, die Schlacken ins Feuer, leicht wie die Lüfte, freier und freier" bedeute nur, daß die Schlacken der niederen Natur entfernt werden müßten, und daß es nicht darauf ankäme, wie. Und sie machten die Schlußforderung, daß der chemische Äther, der Agent der Nahrungsaufnahme, aus dem Lebensleib ausgeschieden werden könne, wenn der dichte Körper hungert. Sie dachten auch, durch ein keusches Leben den Lebensäther, den Sitz der Zeugungskräfte, aushungern zu können. Dann würden sie nur die zwei höheren Äther haben, oder zumindest würden diese viel größer an Umfang sein als die zwei niederen.
 
-Zu diesem Zweck übten sie all die strenge Praxis aus, die sie sich nur ausdenken konnten, unter anderem auch das Fasten. Durch dieses unnatürliche Vorgehen verlor der Körper seine Gesundheit und wurde ausgemergelt. Die Leidenschaft, die durch Ausübung der Zeugungsfunktion Befriedigung suchte, wurde durch Geißelung zum Schweigen gebracht.
-
-Es ist natürlich richtig, daß die niedere Natur auf diese schreckliche Weise unterworfen zu sein schien. Auch ist es richtig, daß solche Menschen, deren körperliche Funktionen so herabgesetzt waren, durch Visionen oder vielmehr Halluzinationen belohnt wurden. Aber wahre Geistigkeit ist noch niemals durch Schändung und Zerstörung des Körpers, der der "Tempel Gottes" ist, erreicht worden. Fasten kann ebenso unmoralisch sein wie Schwelgerei.
+Zu diesem Zweck übten sie all die strenge Praxis aus, die sie sich nur ausdenken konnten, unter anderem auch das Fasten. Durch dieses unnatürliche Vorgehen verlor der Körper seine Gesundheit und wurde ausgemergelt. Die Leidenschaft, die durch Ausübung der Zeugungsfunktion Befriedigung suchte, wurde durch Geißelung zum Schweigen gebracht. Es ist natürlich richtig, daß die niedere Natur auf diese schreckliche Weise unterworfen zu sein schien. Auch ist es richtig, daß solche Menschen, deren körperliche Funktionen so herabgesetzt waren, durch Visionen oder vielmehr Halluzinationen belohnt wurden. Aber wahre Geistigkeit ist noch niemals durch Schändung und Zerstörung des Körpers, der der "Tempel Gottes" ist, erreicht worden. Fasten kann ebenso unmoralisch sein wie Schwelgerei.
 
 Wir wollen uns Mühe geben, in allen Dingen Maß zu halten, damit wir würdige Beispiele für andere werden mögen und die Zulassung zum Tempel ernten durch die Tugend einer rechten Lebensweise.
 
-### Brief Nr. 59 - Oktober 1915 - Die Rassengeister und die neue Rasse
+### <h3 id="letter-59">Brief Nr. 59 - Oktober 1915 - Die Rassengeister und die neue Rasse</h3>
 
 Da eine große Anzahl Studenten unser Magazin nicht abbonniert haben, wo gerade jetzt ein sehr wichtiger Artikel über die okkulte Seite des Krieges veröffentlicht wird, so halte ich es für das beste, diesen Monatsbrief für eine Zusammenfassung der Tatsachen zu verwenden, und glaube, daß das auch denen nützen wird, die das Magazin beziehen. Da ich nicht beabsichtige, abzuschreiben, sondern das Thema aus dem Stegreif behandeln will, so werden sich daher sicherlich einige neue Gesichtspunkte eröffnen.
 
@@ -936,7 +934,7 @@ Amerika hat bis jetzt keinen Rassengeist. Es ist der Schmelztiegel, in dem die v
 
 Wenn Du auf die Entwicklung der letzten sechzig oder siebzig Jahre zurückblickst, so muß es auffallen, daß es eine Zeit der Skepsis, des Zweifels und der Kritik an religiösen Dingen gewesen ist. Die Kirchen sind zunehmend leer geworden, und die Menschen haben sich von der Andacht ab und dem Vergnügen zugewandt. Diese Tendenz war in Europa im Steigen begriffen bis zum Ausbruch des Krieges, und in Amerika ist es noch heute eine Schande für gewisse Großstädte und wissenschaftliche Zentren. Die Folge dieser weltweiten Geisteshaltung, die von den Brüdern des Schattens mit Erlaubnis der Rassengeister gepflegt wird, ist eine geistige Binde, die die Augen der westlichen Welt bedeckt, und die entfernt werden muß, ehe die Evolution fortschreiten kann. Wie das geschieht, wird das Thema des nächsten Briefes sein.
 
-### Brief Nr. 60 - November 1915 - Einwirkungen des Krieges auf geistige Blindheit
+### <h3 id="letter-60">Brief Nr. 60 - November 1915 - Einwirkungen des Krieges auf geistige Blindheit</h3>
 
 Aus den Lehren der Weltanschauung weißt Du, daß es am Ende der lemurischen Epoche eine Rasse gegeben hat, sieben in der atlantischen Epoche, sieben in der arischen Epoche, und daß es eine in der kommenden sechsten Epoche geben wird. Das sind im ganzen sechzehn Rassen. Du wirst Dich auch erinnern, daß diese sechzehn Rassen von den Älteren Brüdern die "sechzehn Pfade der Vernichtung" genannt werden, weil die große Gefahr besteht, daß der Geist in die Körper irgend einer Rasse in solchem Ausmaß verstrickt wird, daß er unfähig wird, den andern auf dem Pfad der Evolution zu folgen. Während der Perioden und Epochen ist immer eine Fülle von Zeit, so daß die Führer der Menschheit ihre Scharen einreihen können. Aber die Juden sind ein Beispiel dafür, was einem Volk widerfährt, das so stark mit dem Rassengeist durchtränkt ist, daß es sich absolut weigert, sich führen zu lassen. Sie gehen ihren Weg als eine Anomalie unter der übrigen Menschheit, ein Volk ohne Land, ohne König, ohne alles, was der Rassenentwicklung günstig ist.
 
@@ -946,7 +944,7 @@ Als wir in der frühen atlantischen Epoche zwischen den Wassern wohnten, waren w
 
 Aber gerade dieses Leid ist das Heilmittel der Natur gegen die geistige Binde. So sicher wie der Wunsch nach Wachstum den komplizierten Verdauungskanal von den einfachen Anfängen an erbaute, damit das Wachstumsbedürfnis befriedigt werden konnte, und so sicher wie der Wunsch nach Bewegung die wundervollen Gelenke, Sehnen und Bänder, mit denen sie ausgeführt wird, entwickelte, ebenso sicher wird das starke Verlangen, die durch den Tod getrennte Beziehung fortzusetzen, das Organ zur Wunscherfüllung zu bauen, nämlich das geistige Auge. So kommt es, daß dieses Massengemetzel von Millionen Menschen in größerem Maß dazu beiträgt, die Kluft zwischen sichtbarer und unsichtbarer Welt besser zu überbrücken, als es ein tausendjähriges Predigen tun könnte. Durch die ganze Weltgeschichte hindurch ist berichtet worden, daß Krieger sogenannte übernatürliche Erscheinungen gesehen haben, und daß auch im gegenwärtigen Krieg solche Visionen gesehen wurden. wofür reichlich Zeugnis vorhanden ist. Die Erschütterungen durch Verwundungen, die Leiden in den Lazaretten, die Tränen der Witwen und Waisen, alles das hilft, die geistigen Augen Europas zu öffnen, und die Zeit des Zweifels und der Skepsis wird dahinschwinden. Anstatt sich zu schämen, wenn man an Gott glaubt, wird es in einer nicht allzu fernen Zukunft so kommen, daß die Welt einen Mann wegen seiner Frömmigkeit mehr ehrt als wegen seiner Tapferkeit. Und wir wollen alle um das Kommen dieser Zeit beten.
 
-### Brief Nr. 61 - Dezember 1915 - Zyklische Bewegungen der Sonne
+### <h3 id="letter-61">Brief Nr. 61 - Dezember 1915 - Zyklische Bewegungen der Sonne</h3>
 
 Nachrichten, die heute in großen Buchstaben auf der Vorderseite der Zeitung stehen und von so lebendigem Interesse für jeden zu sein scheinen, sind gewöhnlich morgen vergessen und die Zeitung, die den Bericht brachte, wird ins Feuer geworfen. Ebenso fällt der Schlager, den alle Leute auf den Lippen haben, gewöhnlich nach einer Weile der Vergessenheit anheim. Sogar die Menschen, die wie Meteore in das Licht der Öffentlichkeit geschleudert werden, sind oft bald vergessen samt den Taten, die ihre kurze Beliebtheit verursachten, denn, um Salomo zu zitieren: "Alles ist eitel."
 
@@ -954,11 +952,13 @@ Aber hinter dem kaleidoskopartigen Wandel, der unaufhörlich die Weltbühne ver�
 
 Im Frühling zu Ostern, wenn die Sonne im Frühlingspunkt den Äquator kreuzt, erwacht die Erde aus ihrem Winterschlaf und schüttelt die Schneedecke, die Hülle der unbefleckten Reinheit, ab. Die Stimme der Natur wird hörbar, wenn die kleinen murmelnden Bäche beginnen, an den Hügeln herunterzuplätschern auf ihrem Weg zum großen Ozean. Sie wird hörbar, wenn der Wind in den eben aufgebrochenen Blättern des Waldes den Gesang der Liebe flüstert, und sie schließlich die Knospen und Blüten hervorzaubert, die endlich den Blütenstaub auf unsichtbaren Flügeln zu dem harrenden Gatten trägt. Sie wird hörbar in dem Liebesgesang der sich paarenden Vögel und in dem Schrei von Tier zu Tier. Sie setzt sich fort in jedem Reich der Natur, bis die Vermehrung neuen Lebens die Vernichtung durch den Tod beglichen hat.
 
-Während des Sommers wirken Liebe und Leben in erhöhtem Maß mit freudigem Herzen, denn sie sind die Herren im Daseinskampf, solange die Sonne die nördliche Halbkugel empor wandert bis zum Gipfel ihrer Macht bei der Sommer-Sonnenwende. Die Zeit geht weiter, und es kommt ein anderer Wendepunkt an der Herbst-Tag-undnachtgleiche. Die Lieder des Waldchors sind verklungen. Der Liebesruf von Tier und Vogel ist beendet und die Natur ist wieder stumm geworden. Das Licht nimmt ab und die Schatten der Nacht werden länger, bis bei der Winter-Sonnenwende, wo wir uns jetzt befinden, die Erde wieder für den tiefen Schlaf vorbereitet wird, da sie nach der anstrengenden Tätigkeit des vorangegangenen Tages die Nacht der Ruhe benötigt. Wie nun die geistige Tätigkeit des Menschen am stärksten ist, während sein Körper schläft, so werden wir nach dem Gesetz der Analogie verstehen, daß die geistigen Feuer in der Erde in dieser Zeit des Jahres am hellsten brennen, und daß jetzt die beste Gelegenheit für Seelenwachstum ist, für Forschung und Studium der tieferen Lebensmysterien. Darum ist es gut, wenn wir die Gelegenheit beim Schopf ergreifen, um die gegenwärtige Zeit möglichst auzunutzen, jedoch ohne Hast und ohne Plage, geduldig und in Gebetshaltung in der Überzeugung, daß unter all den Dingen des Lebens, die sich ändern, im Winter diese große Welle geistigen Lichtes bis in die endlose Zukunft bei uns verweilen wird. Sie wird immer strahlender werden, wie die Erde und wir selbst uns zu immer höherer Geistigkeit entwickeln. Wir tun jetzt die Pionierarbeit durch Verbreitung der Rosenkreuzerlehren, die helfen werden, die Welt während jener Jahrhunderte zu erleuchten, die der gegenwärtigen Zeit unmittelbar folgen. Es gibt ein Gesetz, daß "Du nur empfangen kannst in jenem Maß, in dem Du gibst". Nun ist augenblicklich die günstigste Zeit zum Geben und zum Nehmen. Wir wollen nun unter allen Umständen unser Licht am großen kosmischen Weihnachtsbaum scheinen lassen, daß es von den Menschen gesehen werden möge und daß sie hingezogen werden zu jenen Wahrheiten, von denen wir wissen, daß sie eine so lebendige Bedeutung für die Entwicklung unserer Mitmenschen haben.
+Während des Sommers wirken Liebe und Leben in erhöhtem Maß mit freudigem Herzen, denn sie sind die Herren im Daseinskampf, solange die Sonne die nördliche Halbkugel empor wandert bis zum Gipfel ihrer Macht bei der Sommer-Sonnenwende. Die Zeit geht weiter, und es kommt ein anderer Wendepunkt an der Herbst-Tag-undnachtgleiche. Die Lieder des Waldchors sind verklungen. Der Liebesruf von Tier und Vogel ist beendet und die Natur ist wieder stumm geworden. Das Licht nimmt ab und die Schatten der Nacht werden länger, bis bei der Winter-Sonnenwende, wo wir uns jetzt befinden, die Erde wieder für den tiefen Schlaf vorbereitet wird, da sie nach der anstrengenden Tätigkeit des vorangegangenen Tages die Nacht der Ruhe benötigt. 
+
+Wie nun die geistige Tätigkeit des Menschen am stärksten ist, während sein Körper schläft, so werden wir nach dem Gesetz der Analogie verstehen, daß die geistigen Feuer in der Erde in dieser Zeit des Jahres am hellsten brennen, und daß jetzt die beste Gelegenheit für Seelenwachstum ist, für Forschung und Studium der tieferen Lebensmysterien. Darum ist es gut, wenn wir die Gelegenheit beim Schopf ergreifen, um die gegenwärtige Zeit möglichst auzunutzen, jedoch ohne Hast und ohne Plage, geduldig und in Gebetshaltung in der Überzeugung, daß unter all den Dingen des Lebens, die sich ändern, im Winter diese große Welle geistigen Lichtes bis in die endlose Zukunft bei uns verweilen wird. Sie wird immer strahlender werden, wie die Erde und wir selbst uns zu immer höherer Geistigkeit entwickeln. Wir tun jetzt die Pionierarbeit durch Verbreitung der Rosenkreuzerlehren, die helfen werden, die Welt während jener Jahrhunderte zu erleuchten, die der gegenwärtigen Zeit unmittelbar folgen. Es gibt ein Gesetz, daß "Du nur empfangen kannst in jenem Maß, in dem Du gibst". Nun ist augenblicklich die günstigste Zeit zum Geben und zum Nehmen. Wir wollen nun unter allen Umständen unser Licht am großen kosmischen Weihnachtsbaum scheinen lassen, daß es von den Menschen gesehen werden möge und daß sie hingezogen werden zu jenen Wahrheiten, von denen wir wissen, daß sie eine so lebendige Bedeutung für die Entwicklung unserer Mitmenschen haben.
 
 Ich schließe diesen Brief mit dem Wunsch, jedem einzelnen der Studenten für ihre Mitarbeit an dem Werk zu danken, die sie während des vergangenen Jahres geleistet haben. Möchten wir im kommenden Jahr alle noch Besseres vollbringen.
 
-### Brief Nr. 62 - Januar 1916 - Die Dankbarkeitsschuld des Lehrers
+### <h3 id="letter-62">Brief Nr. 62 - Januar 1916 - Die Dankbarkeitsschuld des Lehrers</h3>
 
 Wir stehen jetzt wieder am Schluß eines Jahres und am Beginn eines neuen, und im Zusammenhang mit dieser Einteilung unseres irdischen Lebens sind mir bestimmte Gedanken gekommen.
 
@@ -966,9 +966,11 @@ Als Christus am Ende Seines Wirkens das letzte Mahl mit Seinen Jüngern einnahm,
 
 Es ist das große Vorrecht des Schreibers gewesen, während des verflossenen Jahres Dir und tausend anderen die esoterischen Lehren der Älteren Brüder zu übermitteln, und alle Arbeiter auf Mt. Ecclesia haben direkt oder indirekt dabei geholfen. Ob sie in der Druckerei, im Büro oder in einer anderen Abteilung gewirkt haben, sie haben alle ihren Anteil an diesem Vorrecht und wir alle danken Euch für diese Gelegenheit zum Seelenwachstum, die uns dadurch erwuchs, weil wir eure Bedürfnisse befriedigen durften.
 
-Wir hoffen, daß wir in dieser Hinsicht ein bißchen nützlich gewesen sind und bitten um eure Fürbitte, daß wir im kommenden Jahr noch leistungsfähigere Diener werden mögen. Und wie steht es mit Dir, lieber Freund? Während des verflossenen Jahres hattest auch Du die Gelegenheit, in ähnlicher Weise anderen zu dienen. Hat Dein Interesse für das Dir übermittelte Wissen dazu geführt, daß Du andere, mit denen Du in Berührung kamst, aufgeklärt hast? Es ist nicht nötig, am Rednerpult zu stehen, buchstäblich oder bildlich gemeint. Man kann jederzeit zu den Herzen anderer sprechen. Oft ist es sogar in ganz unscheinbarer Weise am wirksamsten, wenn die Leute es gar nicht merken, daß wir versuchen, ihnen etwas beizubringen. Hoffentlich hast Du im vergangenen Jahr nach bestem Können die Gelegenheiten ergriffen. Bitte darum, daß Du in das neue Jahr mit noch ernsterer Dienstbereitschaft hineingehen kannst und daß es noch fruchtbarer an Seelenwachstum werden möge als das alte.
+Wir hoffen, daß wir in dieser Hinsicht ein bißchen nützlich gewesen sind und bitten um eure Fürbitte, daß wir im kommenden Jahr noch leistungsfähigere Diener werden mögen. 
 
-### Brief Nr. 63 - Februar 1916 - Geistige Lehrer, wahre und falsche
+Und wie steht es mit Dir, lieber Freund? Während des verflossenen Jahres hattest auch Du die Gelegenheit, in ähnlicher Weise anderen zu dienen. Hat Dein Interesse für das Dir übermittelte Wissen dazu geführt, daß Du andere, mit denen Du in Berührung kamst, aufgeklärt hast? Es ist nicht nötig, am Rednerpult zu stehen, buchstäblich oder bildlich gemeint. Man kann jederzeit zu den Herzen anderer sprechen. Oft ist es sogar in ganz unscheinbarer Weise am wirksamsten, wenn die Leute es gar nicht merken, daß wir versuchen, ihnen etwas beizubringen. Hoffentlich hast Du im vergangenen Jahr nach bestem Können die Gelegenheiten ergriffen. Bitte darum, daß Du in das neue Jahr mit noch ernsterer Dienstbereitschaft hineingehen kannst und daß es noch fruchtbarer an Seelenwachstum werden möge als das alte.
+
+### <h3 id="letter-63">Brief Nr. 63 - Februar 1916 - Geistige Lehrer, wahre und falsche</h3>
 
 Eines der schwierigsten Probleme, denen der Führer einer geistigen Bewegung gegenübersteht, ist die Ungeduld von Studenten, die ernten möchten, wo sie nicht gesät haben. Sie sind nicht geduldig genug, die Erntezeit abzuwarten, sondern möchten sofort Resultate sehen. Und wenn sie nicht in einer bestimmten Zeit, die sie sich gesetzt haben, Flügel bekommen, sind sie sehr schnell mit dem Wort "Schwindel" bei der Hand und suchen einen sichtbaren oder unsichtbaren "individuellen Lehrer". Solange er Resultate garantiert, geben sie all' ihrem gesunden Menschenverstand den Laufpaß und folgen ihm blindlings, mag er sie auch in die Nervenheilanstalt hineinführen oder in eine tödliche Lungenschwindsucht, oder wie im Falle von denen, die noch am besten davonkommen, indem sie ihre Kasse erleichtern.
 
@@ -976,13 +978,15 @@ Dieser Zustand ist schon früher in Studentenbriefen besprochen worden, aber es 
 
 Hast Du jemals eine Lehranstalt, vom Kindergarten bis zur Universität gesehen, wo für jeden Schüler ein Lehrer gehalten wird? Wir noch nicht. Keine Unterrichtsbehörde würde solche Kraftverschwendung gutheißen. Sie würde auch niemandem einen individuellen Lehrer zugestehen, bloß weil der Schüler ungeduldig ist und die Schule "schnell" durchmachen möchte. Und schließlich: Wenn eine Behörde bereit wäre, in einem besonderen Fall einen Lehrer zu bewilligen, der in den Kopf des Schülers Kenntnisse "hineinstopft", so wäre bei dieser Methode die große Gefahr der Nervenzerrüttung, der Geisteskrankheit und womöglich des Todes.
 
-Wenn dies für Anstalten, die irdisches Wissen lehren, zutrifft, wie kann da jemand glauben, daß es bei den Geisteswissenschaften anders sein könnte? Christus sagte zu Nikodemus: "Glaubt ihr nicht, wenn Ich euch von irdischen Dingen sage, wie würdet ihr glauben, wenn Ich euch von himmlischen Dingen sagen würde?" Kein "individueller Lehrer", wenn es einen solchen gäbe, kann irgend jemand in die Mysterien der Seele einweihen, bis nicht der Schüler durch seine eigene Arbeit dazu bereit geworden ist. Wer vorgibt, das zu können, brandmarkt sich selbst als einen Betrüger der niederen Ordnung. Und wer sich so täuschen läßt, zeigt wenig vernünftigen Menschenverstand. Er müßte ansonsten verstehen, daß kein wahrhaft hoch entwickelter Lehrer es sich leisten kann, seine Zeit und Kraft für die Unterweisung eines einzigen Schülers zu verwenden, wenn er ebenso leicht eine große Anzahl unterrichten könnte. Stelle Dir bitte, wenn Du kannst, die zwölf großen Brüder vom Rosenkreuz vor, jeder einem unbedachten Schüler nachgehend. Der Gedanke ist eine Entweihung. Solche wahrhaft großen und hoch entwickelten Menschen haben andere und wichtigere Dinge zu versehen. Nicht einmal die Laienbrüder, die von ihnen eingeweiht wurden, dürfen ihnen mit kleinen und unwichtigen Angelegenheiten kommen.
+Wenn dies für Anstalten, die irdisches Wissen lehren, zutrifft, wie kann da jemand glauben, daß es bei den Geisteswissenschaften anders sein könnte? Christus sagte zu Nikodemus: "Glaubt ihr nicht, wenn Ich euch von irdischen Dingen sage, wie würdet ihr glauben, wenn Ich euch von himmlischen Dingen sagen würde?" Kein "individueller Lehrer", wenn es einen solchen gäbe, kann irgend jemand in die Mysterien der Seele einweihen, bis nicht der Schüler durch seine eigene Arbeit dazu bereit geworden ist. Wer vorgibt, das zu können, brandmarkt sich selbst als einen Betrüger der niederen Ordnung. Und wer sich so täuschen läßt, zeigt wenig vernünftigen Menschenverstand. Er müßte ansonsten verstehen, daß kein wahrhaft hoch entwickelter Lehrer es sich leisten kann, seine Zeit und Kraft für die Unterweisung eines einzigen Schülers zu verwenden, wenn er ebenso leicht eine große Anzahl unterrichten könnte. 
+
+Stelle Dir bitte, wenn Du kannst, die zwölf großen Brüder vom Rosenkreuz vor, jeder einem unbedachten Schüler nachgehend. Der Gedanke ist eine Entweihung. Solche wahrhaft großen und hoch entwickelten Menschen haben andere und wichtigere Dinge zu versehen. Nicht einmal die Laienbrüder, die von ihnen eingeweiht wurden, dürfen ihnen mit kleinen und unwichtigen Angelegenheiten kommen.
 
 Es sei daher mit Nachdruck betont, daß die Älteren Brüder nicht die Gewohnheit haben, irgend jemand im Rosenkreuzer Freundeskreis oder außerhalb desselben als "individueller Lehrer" aufzusuchen. Wer das glaubt, täuscht sich. Sie haben bestimmte Lehren gegeben, die die Grundlage der Lehre dieser Schule bilden. Und wenn wir lernen, diese Wissenschaft der Seele zu leben, so können wir später darauf gefaßt sein, ihnen in der Schule der Unsichtbaren Helfer zu begegnen. Einen anderen Weg gibt es nicht.
 
 Ich hoffe, daß Dir dies den Gedanken fester einprägt, als Du ihn vorher hattest und Dir die Grundlage gibt, um andere richtig zu unterrichten, wenn sie in Gefahr stehen, sich vom Weg abdrängen zu lassen.
 
-### Brief Nr. 64 - März 1916 - Der Kampf, der im Inneren tobt
+### <h3 id="letter-64">Brief Nr. 64 - März 1916 - Der Kampf, der im Inneren tobt</h3>
 
 Wir sind manchmal betrübt, wenn wir von Studenten aus den kriegführenden Ländern Briefe bekommen mit Vorwürfen, daß wir nicht Für ihre Seite Partei ergreifen. Seit Beginn dieses traurigen Konfliktes ist kein Tag vergangen, an dem wir das entsetzliche Gemetzel nicht beklagt hätten, wenngleich getröstet durch die Erkenntnis, daß es wie nichts anderes helfen kann, die Schranke zwischen Lebenden und Toten einzureißen. So wird der Krieg den Kummer, den heute die Massen empfinden, wenn sie sich von ihren Lieben trennen müssen, im Lauf der Zeit weitgehend verschwinden lassen. Das augenblickliche Leid wendet auch die abendländische Menschheit von den irdischen Vergnügungen ab zur Gottesverehrung. Nicht eine Nacht ist gewesen, wo wir nicht fleißig unter den Toten und Verwundeten gearbeitet haben, um seelische Angst und Schmerz zu lindern.
 
@@ -998,7 +1002,7 @@ Schriftsteller wie Thomas a Kempis pflegten von sich selbst als "arme Würmer" z
 
 Es gibt einen Weg, um gewappnet zu sein, und er ist sicher: "Blicke auf Christus", und halte Dich wach, jeden Augenblick, in dem Du nicht mit den Tagespflichten beschäftigt bist, Dich damit zu befassen, wie Du Ihm dienen kannst. Gib Dir Mühe, die Gedanken, die Dir dabei kommen, auf alle nur erdenkliche Art in die Praxis umzusetzen. Je stärker wir Christus nachfolgen, je treuer wir den Befehlen unseres höheren Selbstes Folge leisten, desto sicherer werden wir die niedere Natur überwinden und den einzigen Krieg gewinnen, der des Gewinnens wert ist.
 
-### Brief Nr. 65 - April 1916 - Ostern, ein Versprechen der Lebenserneuerung
+### <h3 id="letter-65">Brief Nr. 65 - April 1916 - Ostern, ein Versprechen der Lebenserneuerung</h3>
 
 Dies ist die Osterlektion, obwohl sie nicht ein Wort sagt, das mit dem kosmischen Ereignis der augenblicklichen Jahreszeit in Verbindung steht. Aber sie betont von neuem die große, wichtige Tatsache, daß Geburt und Tod nur Zwischenfälle im Leben des Geistes sind, das keinen Anfang und kein Ende hat.
 
@@ -1012,7 +1016,7 @@ Wir wollen daher, lieber Freund, dem Osterfest in einem Zustand des spirituellen
 
 "Achte auf die Pennies und die Dollars werden von selbst kommen", sagt ein weltweit weises Sprichwort. Wir können es umschreiben und dem geistigen Leben anpassen, indem wir sagen: "Sieh zu, daß jeder Tag gut angewandt ist und die Jahre werden viele Schätze sammeln."
 
-### Brief Nr. 66 - Mai 1916 - Tägliche Übung in Seelenkultur
+### <h3 id="letter-66">Brief Nr. 66 - Mai 1916 - Tägliche Übung in Seelenkultur</h3>
 
 Als Christus Maria und Martha besuchte, war die letztere viel mehr mit den Vorbereitungen für sein materielles Wohl beschäftigt als mit dem Aufnehmen der geistigen Dinge, die er lehrte. Daher der Vorwurf, daß sie sich mit vielen Dingen von geringerem Wert befasse als mit dem "Einen, was not tut". Es unterliegt keinem Zweifel, daß es recht sündhaft wäre, wenn jemand seine Aufgaben nicht erfüllen oder den ernsthaften Verpflichtungen des täglichen Lebens aus dem Wege gehen würde. Aber leider machen die meisten von uns den großen Fehler, daß sie die Arbeiten und Pflichten des materiellen Lebens als Vorwand nehmen und denken, die geistige Seite unserer Entwicklung könne warten bis zu passenderer Zeit, wenn wir nichts anderes zu tun haben. Eine immer größere Zahl von Menschen gibt zu, daß sie den geistigen Dingen mehr Aufmerksamkeit zuwenden sollten, aber sie haben stets eine Entschuldigung, um sie gerade jetzt nicht betreiben zu können. "Mein Geschäft verlangt meine ganze Aufmerksamkeit", wird einer sagen. "Die Zeiten sind so hart und um meinen Kopf über Wasser zu halten, muß ich vom frühen Morgen bis zum späten Abend arbeiten. Aber sobald die Zeiten ein bißchen besser sind, werde ich mir diese Dinge näher ansehen und ihnen mehr Zeit widmen". Ein anderer gibt an, daß bestimmte Verwandte von ihm abhängig seien und daß er, wenn er diesen gegenüber seine Verpflichtungen erfüllt habe, imstande sein werde, seine Zeit dem Seelenwachstum zu widmen.
 
@@ -1024,7 +1028,7 @@ Das Bewußtsein der meisten Menschen ist wie ein Sieb. Wie Wasser durch ein Sieb
 
 Darum möchte ich Dir dringend raten, daß Du in Verbindung mit dieser Lektionsserie "Die okkulte Wirkung der Gefühle", die Du erhältst, das oben Gesagte persönlich beherzigst und täglich eine Zeit dem Erwerb von Gedankenkontrolle einplanst. Eine Anzahl von hilfreichen Winken sind von verschiedenen Schriftstellern gegeben worden, aber ich will die Sache noch einmal durchdenken und versuchen, einige allgemeine Hinweise zu geben. Es ist sehr schwierig, weil es sehr auf das Temperament des Studenten ankommt. Die Unterweisung sollte lieber individuell als kollektiv sein, um die besten Resultate zu zeitigen.
 
-### Brief Nr. 67 - Juni 1916 - Die wahren Helden der Welt
+### <h3 id="letter-67">Brief Nr. 67 - Juni 1916 - Die wahren Helden der Welt</h3>
 
 Obwohl mein Brief das Datum des Ersten trägt, ist er natürlich früher geschrieben worden, tatsächlich am Abend vorher, dem "Heldengedenktag", dem Tag, an dem von allen patriotischen Amerikanern erwartet wird, daß sie die toten Helden ehren, die für die Unversehrtheit der Union gekämpft haben.
 
@@ -1042,7 +1046,7 @@ Wir wollen auch nicht warten, bis sie ins Jenseits eingegangen sind, sondern wir
 
 Wo können wir sie finden? Sie gehen nicht in Uniform, noch tragen sie ihre Gesinnung zur Schau. Sie sind überall und wenn wir suchen, werden wir sie finden. Je eher wir uns in ihre Schar einreihen, um so eher ehren wir uns selbst durch das Mittragen ihrer Lasten, wie es sich geziemt für alle wahren Diener des Meisters. "Was ihr getan habt einem unter diesen meiner geringsten Brüder, das habt ihr mir getan."
 
-### Brief Nr. 68 - Juli 1916 - Das Werk der Rassengeister
+### <h3 id="letter-68">Brief Nr. 68 - Juli 1916 - Das Werk der Rassengeister</h3>
 
 In ein paar Tagen feiern wir in Amerika "Den glorreichen Vierten", unseren Unabhängigkeitstag. Und wir werden eine Menge wirklich guten und nützlichen Pulvers, das besseren Zwecken dienen könnte, verschwenden, um unseren "Patriotismus" zu zeigen. Und es werden sich, nach früheren Fällen zu schließen, eine ganze Anzahl Brände und Unfälle ereignen.
 
@@ -1050,7 +1054,7 @@ Wohin das alles führt, sehen wir an dem herzzerreißenden Schauspiel des Kriege
 
 Ich möchte daher dringend anregen, daß die Studenten des Rosenkreuzer Freundeskreises sich von der Teilnahme an jeglichen patrioti- schen Veranstaltungen kriegerischer Natur fernhalten. Laßt uns allgemeine Bruderschaft üben indem wir Völkerstreitigkeiten niemals weder erwähnen noch anerkennen, denn wir sind alle eins in Christus.
 
-### Brief Nr. 69 - August 1916 - Kämpfe der strebenden Seele
+### <h3 id="letter-69">Brief Nr. 69 - August 1916 - Kämpfe der strebenden Seele</h3>
 
 Von Zeit zu Zeit gehen mutlose Briefe im Hauptquartier ein von Leuten, die Gewissensbisse haben, weil sie es nicht fertig bringen, nach ihren Idealen zu leben. Sie haben das Gefühl, daß es ehrlicher wäre, den Glauben aufzugeben und zu leben wie alle anderen, die keine Bekenntnisse machen. Sie sagen, wenn sie lesen und studieren oder in der Kirche Bibelworte hören, die sie ermahnen, ihre Feinde zu lieben, die zu segnen, die ihnen fluchen und für die zu bitten, die sie beleidigen, dann sind sie mit Herz und Sinn eins mit diesen Gefühlen und möchten freudig diesen Vorschriften folgen. Aber wenn sie solchen Zuständen in der Welt begegnen, dann können sie dem Gebot der Bibel nicht nachkommen, und darum haben sie das Gefühl, Heuchler zu sein.
 
@@ -1060,7 +1064,7 @@ In der Zwischenzeit sind wir in der Lage, über die sich unsere Studenten beklag
 
 Was können wir außerdem anderes tun als fortfahren? Nachdem wir die höhere Natur einmal erweckt haben, können wir sie nicht mehr dauernd zum Stillschweigen bringen. Und wenn wir die Anstrengung aufgeben, kommt das Elend des Bedauerns und der Gewissensbisse. Wir haben schon mehrmals aufmerksam gemacht auf die Art, wie der Seemann mit Hilfe eines Sternes sein Schiff durch die Wasserwüste führt. Er wird ihn nie erreichen, aber dennoch bringt ihn der Stern zwischen felsigen Untiefen hindurch in den gewünschten Hafen. Ebenso, wenn unsere Ideale so hoch sind, daß wir wissen, wir werden sie in diesem Leben niemals erreichen, so wollen wir bedenken, daß wir eine endlos lange Zeit vor uns haben und daß das, was wir in diesem Lebenstag nicht ausführen können, morgen oder später vollendet werden wird. Wir wollen dem Beispiel des Paulus folgen und "mit geduldiger Beharrlichkeit im Rechttun fortfahren", geistigen Ruhm, Ehre und Unsterblichkeit zu suchen.
 
-### Brief Nr. 70 - September 1916 - Wir bauen für das zukünftige Leben
+### <h3 id="letter-70">Brief Nr. 70 - September 1916 - Wir bauen für das zukünftige Leben</h3>
 
 Du weißt natürlich, daß unser Freundeskreis Wiederverkörperung als eine Tatsache der Natur lehrt und Du glaubst an diese Lehre, weil sie so vieles im Leben erklärt, für das wir uns sonst keine Rechenschaft ablegen können. Aber ich möchte wissen, wieviele Studenten sich die praktische Anwendung dieser Wahrheit wirklich zu Herzen genommen haben und ihre Aufmerksamkeit darauf richten, indem sie gewissenhaft und systematisch sich selbst gestalten und so ihre Umgebung im zukünftigen Leben erschaffen.
 
@@ -1076,7 +1080,7 @@ Darum sollten wir systematisch und in Pausen, so oft dies mit unseren anderen Pf
 
 Du wirst natürlich verstehen, daß die höchste Form des Strebens nach Tugend das ständige Bemühen ist, sie in unserem täglichen Leben anzuwenden. Aber während wir uns bemühen, die Tugenden, die wir wollen, durch Anwendung zu pflegen, ist es wissenschaftlich begründet, uns den Gebrauch derselben in bezug auf unser zukünftiges Leben im voraus vorzustellen, genauso wie wir jetzt für den Ablauf des nächsten Tages im voraus einen Plan entwerfen. Ich hoffe, daß dieser Gedanke unter den Studenten Wurzeln schlägt und folgerichtig bis zu seinem rechtmäßigen Ziel weitergeführt wird, denn dann wird unter allen Umständen eine wundervolle Wirkung auf die Zukunft erzeugt, sowohl auf unsere eigene, wie auch auf die unserer Umwelt.
 
-### Brief Nr. 71 - Oktober 1916 - Das Herniedersteigen des Christus-geistes im Herbst
+### <h3 id="letter-71">Brief Nr. 71 - Oktober 1916 - Das Herniedersteigen des Christus-geistes im Herbst</h3>
 
 Wir befinden uns jetzt an der Herbst-Tagundnachtgleiche, wo die physische Sonne die nördliche Halbkugel verläßt, nachdem sie uns mit dem Lebensnotwendigen für das kommende Jahr versorgt hat. Die geistige Flut, auf ihrem Kamm das Leben tragend, das im kommenden Jahr sichtbar werden wird, ist jetzt auf dem Weg zu unserer Erde. Das halbe Jahr unmittelbar vor uns ist der heilige Teil des Jahres. Vom Fest Maria Empfängnis bis zur mystischen Geburt zu Weihnachten (während diese Welle in die Erde einströmt) und von da bis Ostern (während sie diese wieder verläßt) erfüllt ein harmonischer, rhythmischer, schwingender Gesang, der nicht unrichtig in der Legende der mystischen Geburt als ein von einem Engelchor gesungenes "Hosianna" beschrieben wird, die planetarische Atmosphäre und wirkt auf alle wie ein Antrieb zu geistigem Streben. Natürlich nicht auf alle im gleichen Maß, aber entsprechend ihrem allgemeinen Charakter.
 
@@ -1088,7 +1092,7 @@ Es möge sich daher jeder seine besonderen Fehler, die ihm am meisten zu schaffe
 
 Nachdem wir uns unsere persönliche Arbeit vorgenommen haben, wollen wir uns umsehen, wer in unserem Bekanntenkreis nach geistiger Aufklärung sucht und wer vielleicht unseren Belehrungen ein Ohr leihen würde. Das erfordert Unterscheidung, denn unsere Ideen unwilligen Ohren aufzuzwingen, dazu haben wir ebensowenig Recht, als wenn wir täglich eine oder zwei Stunden lang in ihren Zimmern Trommel schlagen wollten. Wenn wir merken, daß sie für das, was wir ihnen zu sagen haben, keine Neigung verspüren, tun wir besser, sie zu verlassen. Es gibt jedoch viele, die im Winter unter der geistigen Christusschwingung erweckt werden können, zu denen man im Sommer keinen Zugang findet. Ich hoffe daher, daß wir alle die kommenden Monate in einer Weise anwenden, die uns vom geistigen Standpunkt aus großen Nutzen bringt.
 
-### Brief Nr. 72 - November 1916 - Die Gründe der Versuchungen, durch die der okkulte Student heimgesucht wird
+### <h3 id="letter-72">Brief Nr. 72 - November 1916 - Die Gründe der Versuchungen, durch die der okkulte Student heimgesucht wird</h3>
 
 Wir erhalten von Zeit zu Zeit Briefe von Studenten mit Klagen, daß in ihren Angelegenheiten alles schief zu gehen scheint, seit sie die höheren Lehren angenommen haben und versuchen, in Übereinstimmung damit zu leben. Manche fühlen einen ausgesprochenen Widerstand zu Hause, andere leiden beruflich, und bei manchen ist sogar die Gesundheit angegriffen. Je nach dem Temperament sind manche bereit, das Streben aufzugeben. Andere beißen die Zähne zusammen in dem Entschluß, trotz aller Prüfungen Paul's Methode der "geduldigen Beharrlichkeit im Rechttun" zu folgen. Aber einstimmig fragen alle, woher dieser deutliche Wechsel in ihren Lebensumständen kommt. Jeder bekommt die beste Hilfe, die wir geben können, um seine persönlichen Probleme zu lösen, aber da sicherlich viele unter den Studenten in ähnlicher Weise versucht worden sind, so scheint es angebracht, die Ursachen dieses Zustandes klarzulegen.
 
@@ -1096,7 +1100,7 @@ In erster Linie sollte die strebende Seele begreifen, daß die widrigen Zuständ
 
 Angesichts dieser Tatsachen verstehen wir Christi Mahnung, uns zu freuen, wenn die Menschen uns um Seinetwillen schmähen und fälschlicherweise beschuldigen. An einem unfruchtbaren Baum gehen Knaben gleichgültig vorbei, aber sobald der Baum Früchte trägt, beginnen sie Steine zu werfen und zu räubern. So ist es auch mit den Menschen. Solange wir mit der Menge gehen und das machen, was alle machen, bleiben wir unbelästigt. In dem Augenblick aber, wo wir das zur Tat werden lassen, was sie in ihrem Inneren als richtig anerkennen, werden wir ein lebender Vorwurf für sie, wenn wir auch nie ein Wort der Kritik äußern. Um sich selbst in ihren Augen zu rechtfertigen, haben sie an uns etwas auszusetzen. In dieser Beziehung werden diejenigen, die uns in Haus und Beruf am nächsten stehen, mehr leisten als Fremde, zu denen wir keine Beziehung haben. Aber was auch immer die Form oder die Quelle solcher Plagen sein mag, sie sind ein Grund zur Freude, weil sie uns zeigen, daß wir etwas wirklich Fortschrittliches tun. Wir wollen daher unerschrocken durchhalten und mit unermüdlichem Eifer darin fortfahren.
 
-### Brief Nr. 73 - Dezember 1916 - Geistige Abrechnung während der heiligen Zeit des Jahres
+### <h3 id="letter-73">Brief Nr. 73 - Dezember 1916 - Geistige Abrechnung während der heiligen Zeit des Jahres</h3>
 
 Christus verglich die strebende Seele seinerzeit mit Haushaltern, die eine bestimmte Anzahl von Pfunden von ihrem Herrn empfangen hatten und damit handeln sollten, damit sie das ihrer Sorge anvertraute Kapital vergrößerten. Wir verstehen aus diesem Gleichnis, daß von allen, die Ihm zu dienen bestrebt sind, gefordert wird, daß sie ebenfalls ihre von Gott verliehenen Gaben derart verwenden, daß sie einen Gewinn an Seelenwachstum aufweisen, wenn sie zu gegebener Stunde aufgerufen werden, von ihrem wirtschaften Rechnung abzulegen.
 
@@ -1110,15 +1114,15 @@ Wir nähern uns der Wintersonnenwende, die vom geistigen Standpunkt aus der Begi
 
 Die Sterne sind die himmlischen Zeiger der Zeit. Von ihnen kommen die Kräfte, die uns während des Lebens beeinflussen. In der Heiligen Nacht zwischen dem vierundzwanzigsten und fünfundzwanzigsten Dezember um Mitternacht an dem Ort, wo Du wohnst, wirst Du gewahr werden, daß Rückschau und die sich daraus ergebenden Vorsätze für das neue Jahr sehr wirksam sein werden.
 
-Auf Mt. Eccelesia und in den verschiedenen Ortsgruppen wird in der Heiligen Nacht ein Mitternachtsgottesdienst gehalten, und die Studenten, die diese Gottesdienste besuchen, werden dadurch an der mitternächtlichen Selbstkommunion gehindert. Andere können vielleicht aus anderen Gründen um diese Zeit nicht dazu kommen. Für diese wird eine der späten Abend- oder der frühen Morgenstunden beinahe ebenso nützlich sein. Wir wollen uns aber alle in jener Nacht in einer gemeinsamen geistigen Anstrengung zum Vorwärtsstreben vereinen. Möge jeder Student nicht nur für sein persönliches Seelenwachstum im kommenden Jahr beten, sondern sich mit uns zusammentun in einem Gebet um das Gedeihen unserer Bewegung. Die Arbeiter im Hauptquartier bitten auch um Deine hilfreichen Gedanken. Wenn wir alle gleichzeitig unsere Schultern gegen das Rad stemmen, können wir eines ungewöhnlichen persönlichen und gemeinsamen Segens und eines im geistigen Sinn glücklichen Jahres gewiß sein.
+Auf Mt. Eccelesia und in den verschiedenen Ortsgruppen wird in der Heiligen Nacht ein Mitternachtsgottesdienst gehalten, und die Studenten, die diese Gottesdienste besuchen, werden dadurch an der mitternächtlichen Selbstkommunion gehindert. Andere können vielleicht aus anderen Gründen um diese Zeit nicht dazu kommen. Für diese wird eine der späten Abend- oder der frühen Morgenstunden beinahe ebenso nützlich sein. Wir wollen uns aber alle in jener Nacht in einer gemeinsamen geistigen Anstrengung zum Vorwärtsstreben vereinen. Möge jeder Student nicht nur für sein persönliches Seelenwachstum im kommenden Jahr beten, sondern sich mit uns zusammentun in einem Gebet um das Gedeihen unserer Bewegung. Die Arbeiter im Hauptquartier bitten auch um Deine hilfreichen Gedanken. 
 
-### Brief Nr. 74 - Januar 1917 - Alle okkulte Entwicklung beginnt mit dem Lebensleib
+Wenn wir alle gleichzeitig unsere Schultern gegen das Rad stemmen, können wir eines ungewöhnlichen persönlichen und gemeinsamen Segens und eines im geistigen Sinn glücklichen Jahres gewiß sein.
+
+### <h3 id="letter-74">Brief Nr. 74 - Januar 1917 - Alle okkulte Entwicklung beginnt mit dem Lebensleib</h3>
 
 Ein Freund, der seit einigen Monaten am Korrespondenzkurs teilnimmt, bat kürzlich um Aufklärung über eine Sache, mit der er nicht fertig werden konnte. Da vielleicht auch andere ähnlich fühlen und es nur nicht so ausdrücken können, so halten wir es für angebracht, diesen Brief als Antwort zu benutzen. Es ist von ziemlich großem Allgemeininteresse und somit wertvoll auch für diejenigen, die die Angelegenheit nicht vom Standpunkt unseres Freundes aus betrachtet haben. Er beklagt sich nicht, aber er hatte den Korrespondenzkurs haben wollen in der Hoffnung, etwas zur Förderung der okkulten Entwicklung zu bekommen. Statt dessen erhält er jeden Monat eine freundliche kleine Predigt, von der er zugibt, daß sie sowohl für Anfänger gut ist, wie auch für fortgeschrittene Studenten. Aber wo bleibt die Schulung? Andere Führer geben ihren Anhängern bestimmte Übungen zur Hilfe. Wir sollten ihm bitte eine geben, die schriftstellerische Fähigkeiten entwickelt.
 
-Nein, das können wir nicht tun. Die Rosenkreuzerlehren sind dazu bestimmt, zuallererst den geistigen Fortschritt und nicht ein materielles Wohlergehen zu fördern. Und wir wissen von keiner okkulten Übung, die Reichtum bringt, weder direkt noch durch übertriebene Pflege einer schlummernden Fähigkeit. Und wenn wir es wüßten, würden wir es nicht lehren, denn solche Anwendung okkulter Kraft ist schwarze Magie.
-
-"Trachtet am ersten nach dem Reiche Gottes und nach seiner Gerechtigkeit, so wird Euch solches alles zufallen", sagte Christus, und wir wollen bei der Befolgung dieses Rates keinen Fehler machen. Wenn unser Freund oder sonst jemand eine schlummernde Fähigkeit nur für das Gute entwickeln möchte, so soll er sich damit abfinden, daß geistiges Streben, wenn man beharrlich dabei bleibt und es durch körperliche Anstrengung (Arbeit) unterstützt, schließlich zu dem gewünschten Ziel führt ohne die Notwendigkeit besonderer okkulter Übungen.
+Nein, das können wir nicht tun. Die Rosenkreuzerlehren sind dazu bestimmt, zuallererst den geistigen Fortschritt und nicht ein materielles Wohlergehen zu fördern. Und wir wissen von keiner okkulten Übung, die Reichtum bringt, weder direkt noch durch übertriebene Pflege einer schlummernden Fähigkeit. Und wenn wir es wüßten, würden wir es nicht lehren, denn solche Anwendung okkulter Kraft ist schwarze Magie. "Trachtet am ersten nach dem Reiche Gottes und nach seiner Gerechtigkeit, so wird Euch solches alles zufallen", sagte Christus, und wir wollen bei der Befolgung dieses Rates keinen Fehler machen. Wenn unser Freund oder sonst jemand eine schlummernde Fähigkeit nur für das Gute entwickeln möchte, so soll er sich damit abfinden, daß geistiges Streben, wenn man beharrlich dabei bleibt und es durch körperliche Anstrengung (Arbeit) unterstützt, schließlich zu dem gewünschten Ziel führt ohne die Notwendigkeit besonderer okkulter Übungen.
 
 Und was die "freundlichen kleinen Predigten" anbelangt, die die Lektionen bringen, so sind sie das in der Tat, solange man sie oberflächlich liest. Wenn man aber tiefer eindringt, so wird man darin eine große Menge okkulten Wissens finden, das für den Studenten von größerem Wert ist als solche Übung, wie sie unser Freund haben möchte. Es liegt jedoch "Methode in unserer Verrücktheit", es gerade in dieser Weise herauszugeben. Vielleicht ist dies für manchen Studenten nicht ganz verständlich, weshalb wir versuchen wollen, es klarzumachen. Ich bitte aber, freundlichst zu bedenken, daß das Folgende ein Vergleich ist, der für einen entsprechenden Zweck gemacht ist, und keineswegs eine Kritik.
 
@@ -1128,7 +1132,7 @@ Die Westliche Weisheitsschule lehrt als ihren fundamentalen Grundsatz, daß "all
 
 Empfangt unsere aufrichtigen Wünsche für reichliches geistiges Wachstum im neuen Jahr.
 
-### Brief Nr. 75 - Februar 1917 - Dienst nach bester Eignung
+### <h3 id="letter-75">Brief Nr. 75 - Februar 1917 - Dienst nach bester Eignung</h3>
 
 Kürzlich wurde die folgende Frage gestellt: "Sie sprechen soviel von dienen. Was ist damit genau genommen gemeint? In unserer Bruderschaft sind eine Menge Leute, die sagen, daß sie bestrebt sind, zu dienen, doch tun sie dabei nichts anderes, als was sie gerne tun. Ist das dienen?"
 
@@ -1144,11 +1148,11 @@ Es würde kein besonderes Lob verdienen, wenn sich jemand eine Arbeit in einer S
 
 Wenn wir uns bemühen, so zu handeln, werden sich Fortschritt und Seelenwachstum entsprechend vermehren.
 
-### Brief Nr. 76 - März 1917 - Verlorene Seelen und Nachzügler
+### <h3 id="letter-76">Brief Nr. 76 - März 1917 - Verlorene Seelen und Nachzügler</h3>
 
 Wir sind gebeten worden, eine Lektion über "verlorene Seelen" und Nachzügler zu geben. Der Korrespondent möchte den diesbezüglichen Standpunkt der Rosenkreuzerlehren kennenlernen. Da dieselbe Frage in diesem Buch bereits erörtert wurde (Brief Nr. 17, April 1912), können wir nichts besseres tun, als unseren Korrespondenten darauf hinzuweisen. Wir hoffen, daß ihm dies den Gegenstand erklären wird. Wir würden uns freuen, wenn andere Studenten, die Fragen von allgemeinem Interesse haben, sie zur Aufklärung in diesen Briefen stellen würden. Wir haben freilich in den "Strahlen" eine Frage-Abteilung, doch sind nicht alle unsere Studenten Abonnenten. Auch kann hier vielleicht den zur Erörterung gestellten Problemen eine etwas tiefere Behandlung zuteil werden, als es in einer Zeitschrift möglich ist, die zu einem Publikum geht, das in der Philosophie weniger bewandert ist als unsere Studenten.
 
-### Brief Nr. 77 - April 1917 - Die unnötige Furcht vor dem Tod
+### <h3 id="letter-77">Brief Nr. 77 - April 1917 - Die unnötige Furcht vor dem Tod</h3>
 
 Es ist manchmal rührend, die Trauer von Leuten zu sehen, die durch den Tod eines nahen und lieben Menschen beraubt worden sind und dabei zu beobachten, wie sie sich in extremen Fällen für den Rest ihres Lebens ganz der Trauer um den Verstorbenen hingeben. Sie kleiden sich in Schwarz und halten sogar das Lächeln für eine Entweihung des Andenkens an den Abgeschiedenen. Sie begreifen nicht, daß sie durch solche Einstellung die Person, die sie zu lieben behaupten, in der dichtesten Region der unsichtbaren Welt festhalten, wo alles Böse in naher Berührung mit der niederen und selbstsüchtigen Seite des Menschen lebt, webt und existiert. Das ist keine bloße Phantasie, sondern eine wirkliche Tatsache und kann jedem gezeigt werden, der sein Sehen im geringsten Grad erweitert hat.
 
@@ -1164,7 +1168,7 @@ Ich hoffe, Du wirst das beherzigen und Dich der Verbreitung dieses Wissens anneh
 
 Du kannst den Menschen gar keinen größeren Dienst erweisen als durch die Belehrung bezüglich dieser Wahrheiten.
 
-### Brief Nr. 78 - Mai 1917 - Die Entwicklung des Herzens und die Einweihung
+### <h3 id="letter-78">Brief Nr. 78 - Mai 1917 - Die Entwicklung des Herzens und die Einweihung</h3>
 
 Während ich die Lektion dieses Monats diktierte, fragte ich mich unwillkürlich, ob Du wohl den vollen Segen von der Lektion haben wirst oder nicht? Dies hängt ganz vor der Art ab, wie Du studierst, weil Du nicht mehr herausholen kannst, als Du hineinlegst. Darum widme ich diesen Brief einer kleinen Erörterung über die geeignete Methode, die Lektionen mit größtem Nutzen zu verwenden.
 
@@ -1176,7 +1180,7 @@ Du wirst Dich an das erinnern, was in der Rosenkreuzer-Weltanschauung über die 
 
 Du wirst merken, daß diese Ubung, die Lektion zu "fühlen", eine sehr, sehr große Hilfe zu geistigem Fortschritt ist. Richtig angewandt, wird sie die Lektion aufhellen und Dir eine geistige Einsicht verleihen, die man auf keine andere Art erlangen kann. Darum hoffe ich zuversichtlich, daß Du Dir dies zu Herzen nimmst und den Entschluß fasst, regelmäßig zu üben, auch mit Lektionen, die Dir auf den ersten Blick langweilig und uninteressant erscheinen mögen. Dieses Verfahren wird Dich in den Stand setzen, Perlen auszugraben, die unter der Oberfläche verborgen liegen, und von denen Du Dir nie hast träumen lassen.
 
-### Brief Nr. 79 - Juni 1917 - Das Opfer, ein Faktor im geistigen Fortschritt
+### <h3 id="letter-79">Brief Nr. 79 - Juni 1917 - Das Opfer, ein Faktor im geistigen Fortschritt</h3>
 
 Von Zeit zu Zeit erreichen uns im Hauptquartier Briefe, die in verschiedener Form die Frage stellen: "Wie kann ich schnelleren geistigen Fortschritt erzielen?" Ich halte es deshalb für gut, diesen Brief einer Betrachtung über dieses Thema zu widmen.
 
@@ -1186,11 +1190,13 @@ Dieselbe Aufforderung nähert sich heute in einem anderen Kleid. Wir sind vielle
 
 Es ist vollkommen richtig, daß wir, wenn wir Verpflichtungen übernommen haben, diese nach bestem Können erfüllen müssen. Andererseits gibt es jedoch, wenn wir uns die Sache gründlich überlegen, mehr als eine Möglichkeit, daß wir von unseren Pflichten etwas Zeit übrig behalten, die wir dem Großen Werk widmen könnten. In dieser Verbindung möchte ich an den Vorgang erinnern, als einer zu Christus kam und zu ihm sagte: "Deine Mutter und Deine Brüder stehen draußen und wollen mit Dir reden." Er antwortete: "Wer ist meine Mutter, und wer sind meine Brüder?" Wer den Willen meines Vaters im Himmel tut, derselbige ist mein Bruder, meine Schwester und meine Mutter." Wiederum sagte Er: "Wenn jemand zu mir kommt und hasset nicht seinen Vater und Mutter und Frau und Kinder und Brüder und Schwestern, ja sein eigenes Leben auch, so kann er nicht mein Jünger sein. Und wer verläßt Häuser oder Brüder oder Schwestern oder Vater oder Mutter oder Frau oder Kinder oder Acker um meines Namens willen, der wird es hundertfältig nehmen und das ewige Leben ererben."
 
-In das Leben, das zur Wiedergeburt führt, ist ein Opfer eingeschlossen und es muß so sein. Es ist meine persönliche Erfahrung, sowie auch die meiner Beobachtung tausender anderer, daß man geistigen Gewinn im selben Ausmaß davonträgt, wie man gibt von seinen Gedanken, seiner Zeit und seinem Geld an die Sache, der man sich verschrieben hat. Wenn jemand alles, was er ist, dem Leben der Wiedergeburt widmet und der Führung des Geistes folgt, so wird es sich bald zeigen, daß gerade durch die Stärke seiner Absichten in der neuen Richtung die alten Dinge verdrängt werden. Er hat gar keine Zeit mehr für sie, sie verschwinden aus seinen Gedanken und vergehen. Auf irgendeine Weise kommt die Tochter durchs Gymnasium oder findet eine ähnliche passende Tätigkeit. Das Geschäft floriert womöglich besser, als wenn der Inhaber seine ganze Zeit und Kraft dazu verwendet, sich abzurackern und hinter dem Geld herzujagen. Und die Kinder finden eine andere Begleitperson, die ebenso tauglich dafür ist wie ihre Mutter, wenn diese von Zeit zu Zeit für die geistige Sache arbeitet. In jedem Fall, wo wir um des Werkes willen etwas aufgeben, die Zeit, die wir für die Sache Christi verwenden, und das Geld, das wir für zweckmäßige Wohlfahrt ausgeben, alles das wird aufbewahrt und ausgeglichen unter dem Gesetz, das für das Gute arbeitet.
+In das Leben, das zur Wiedergeburt führt, ist ein Opfer eingeschlossen und es muß so sein. Es ist meine persönliche Erfahrung, sowie auch die meiner Beobachtung tausender anderer, daß man geistigen Gewinn im selben Ausmaß davonträgt, wie man gibt von seinen Gedanken, seiner Zeit und seinem Geld an die Sache, der man sich verschrieben hat. Wenn jemand alles, was er ist, dem Leben der Wiedergeburt widmet und der Führung des Geistes folgt, so wird es sich bald zeigen, daß gerade durch die Stärke seiner Absichten in der neuen Richtung die alten Dinge verdrängt werden. Er hat gar keine Zeit mehr für sie.
+
+Sie verschwinden aus seinen Gedanken und vergehen. Auf irgendeine Weise kommt die Tochter durchs Gymnasium oder findet eine ähnliche passende Tätigkeit. Das Geschäft floriert womöglich besser, als wenn der Inhaber seine ganze Zeit und Kraft dazu verwendet, sich abzurackern und hinter dem Geld herzujagen. Und die Kinder finden eine andere Begleitperson, die ebenso tauglich dafür ist wie ihre Mutter, wenn diese von Zeit zu Zeit für die geistige Sache arbeitet. In jedem Fall, wo wir um des Werkes willen etwas aufgeben, die Zeit, die wir für die Sache Christi verwenden, und das Geld, das wir für zweckmäßige Wohlfahrt ausgeben, alles das wird aufbewahrt und ausgeglichen unter dem Gesetz, das für das Gute arbeitet.
 
 Wie der Psalmist sagt: "Ich bin jung gewesen und alt geworden und habe noch nie gesehen den Gerechten verlassen oder seinen Samen nach Brot gehen". Das von Christus verkündete Gesetz "Trachtet am ersten nach dem Reiche Gottes und nach seiner Gerechtigkeit, so wird Euch solches alles zufallen", gilt in unseren Tagen ebenso wie damals, als es gesprochen wurde. Das habe ich durch eigene Erfahrung gefunden und jeder andere, der das Leben lebt und die Arbeit tut, wird finden, daß dasselbe auch in seinem Falle gilt. Nur im dienen liegt Wachstum.
 
-### Brief Nr. 80 - Juli 1917 - Wie wir die Lehren dem Verständnis anderer nahe bringen
+### <h3 id="letter-80">Brief Nr. 80 - Juli 1917 - Wie wir die Lehren dem Verständnis anderer nahe bringen</h3>
 
 Kürzlich erhielten wir einen Brief aus Seattle mit einer guten Anregung, die Du vielleicht gerne verwendest. Unser Freund schreibt: "Als ich neulich in Ballard war, ging ich in die Bibliothek und verlangte die Weltanschauung". Ehe ich fortging, schlug ich die Tabelle der Nahrungswerte auf und ging mit dem offenen Buch zum Pult der Bibliothekarin. Ich zeigte ihr die Tabelle und sagte: "Dies ist eine wertvolle Tabelle". Sie nahm sie in Augenschein und antwortete: "Sehr schön, ich bin schon vielfach nach Tabellen gerade dieser Art gefragt worden". Darauf kam mir der Gedanke, daß andere Studenten, wenn sie in eine Bibliothek gehen und die Weltanschauung verlangen, vielleicht dasselbe tun könnten wie ich. Der Bibliothekar könnte dann im Katalog vermerken, daß das Buch Winke über Gesundheit und Ernährung enthält. Auf diese Weise kommt es vielleicht in die Hand solcher Menschen, die gerade das Licht, das darin leuchtet, gesucht haben.
 
@@ -1200,15 +1206,19 @@ Unsere Studenten beklagen sich häufig, daß sie ihren Bekannten und Verwandten 
 
 Mit anderen Worten, wir müssen anpassungsfähig sein wie einige der Schraubenschlüssel in unserem Werkzeugkasten. Wenn wir eine Hörerschaft von fremden Menschen vor uns haben, so müssen wir auf ihrem Niveau mit ihnen reden und die denkbar einfachste Ausdrucksweise gebrauchen. Wenn wir dagegen mit älteren Studenten zusammen sind oder in einer Klasse, wo die Schüler fähig sind, tiefere Probleme zu verstehen, da mögen wir uns bis zu unserem höchsten Können über das Thema verbreiten zum Nutzen und zum Vorteil von uns selbst und aller anderen. Aber vor allen Dingen müssen wir mit Paulus lernen, allen Menschen alles zu sein. Sonst könnten wir das vereiteln, was wir beabsichtigen: Suchenden Seelen Licht zu bringen.
 
-### Brief Nr. 81 - August 1917 - Der Wert des Durchsehens alter Lektionen
+### <h3 id="letter-81">Brief Nr. 81 - August 1917 - Der Wert des Durchsehens alter Lektionen</h3>
 
 Der folgende Brief, der eine wertvolle Anregung eines Studenten der Rosenkreuzerlehren enthält, veranlaßt mich, diese weiterzugeben.
 
-Gestern Abend beim durchsehen einer großen Menge Korrespondenz, die ich zu meiner Freude während der Dauer von beinahe fünf Jahren aus dem Freundeskreis erhalten habe, dachte ich darüber nach, was wohl andere Novizen und Studenten mit ihren monatlichen Briefen machen. Unwillkürlich kam mir dann der Gedanke, daß dies doch in einem der Monatsbriefe erörtert werden könnte. Es ist nicht meine Absicht, die Handlungen anderer Novizen zu kritisieren, aber es ist sehr wahrscheinlich, daß nur wenige Studenten und Novizen ganz erfassen, welche Fülle von Belehrung tatsächlich in diesen Briefen enthalten ist, und bei richtiger Anwendung in himmlische Schätze verwandelt werden kann. Wie oft, wenn ich alte Nummern wieder zur Hand nahm, sprangen mir neue Gedanken und Erkenntnisse entgegen, die mir früher nicht bewußt waren. Und was für eine Hilfe sind sie mir bei inneren Kämpfen gewesen. Man kann wohl sagen, daß wir in diesen alten Lektionen eine Goldgrube haben, aus der viele Schätze ausgegraben werden könnten, und die uns helfen würden, das Leben zu leben. Hier haben wir tatsächlich eine zweite Weltanschauung. Studenten und Novizen sollten es wirklich als Pflicht empfinden, jede Einzelheit ihrer Korrespondenz mit dem Freundeskreis sorgsam zu ordnen und darin nachzuschlagen, damit soviel Nutzen wie möglich daraus entsteht und das Licht der Älteren Brüder verbreitet wird. Vielleicht findet sich gerade in einer dieser Lektionen dasjenige, was nötig ist, um einem Freund zu helfen. Ihre geordnete Aufbewahrung wird sehr nützlich sein.
+Gestern Abend beim durchsehen einer großen Menge Korrespondenz, die ich zu meiner Freude während der Dauer von beinahe fünf Jahren aus dem Freundeskreis erhalten habe, dachte ich darüber nach, was wohl andere Novizen und Studenten mit ihren monatlichen Briefen machen. Unwillkürlich kam mir dann der Gedanke, daß dies doch in einem der Monatsbriefe erörtert werden könnte. Es ist nicht meine Absicht, die Handlungen anderer Novizen zu kritisieren, aber es ist sehr wahrscheinlich, daß nur wenige Studenten und Novizen ganz erfassen, welche Fülle von Belehrung tatsächlich in diesen Briefen enthalten ist, und bei richtiger Anwendung in himmlische Schätze verwandelt werden kann. Wie oft, wenn ich alte Nummern wieder zur Hand nahm, sprangen mir neue Gedanken und Erkenntnisse entgegen, die mir früher nicht bewußt waren. Und was für eine Hilfe sind sie mir bei inneren Kämpfen gewesen. 
 
-Ich halte es kaum für möglich, daß die Mehrzahl der Studenten und Novizen je in vollem Ausmaß begreifen können, was für eine Macht zum Guten hinter diesen Lektionen steht. Denjenigen unter uns, die an genaue Angaben und wissenschaftliche Lehrmethoden gewöhnt sind, werden diese alte Lektionen ein gutes Stück vorwärts helfen, um Kopf und Herz zu vereinen. Sie enthalten manches Kleinod, das vorteilhaft ist für richtiges Handeln und Beharrlichkeit im Rechttun. Wenn die Studenten und Novizen darüber nachdenken, wie sie die erhaltenen Briefe am besten nutzbar machen können, so wird das sehr viel helfen und für größeres Seelenwachstum sehr vorteilhaft sein. Es sind bestimmt die kleinen Dinge, durch die die großen Dinge möglich werden, und vielleicht könnte dies einige Mitglieder zum dienen anregen. Wenn die Studenten sich daran erinnern, daß Wiederholung das Losungswort des Lebensleibes ist, und "daß alle okkulte Entwicklung mit dem Lebensleib beginnt", dann werden sie begreifen, warum es so nützlich ist, die alten Lektionen und Briefe häufig wieder durchzunehmen.
+Man kann wohl sagen, daß wir in diesen alten Lektionen eine Goldgrube haben, aus der viele Schätze ausgegraben werden könnten, und die uns helfen würden, das Leben zu leben. Hier haben wir tatsächlich eine zweite Weltanschauung. Studenten und Novizen sollten es wirklich als Pflicht empfinden, jede Einzelheit ihrer Korrespondenz mit dem Freundeskreis sorgsam zu ordnen und darin nachzuschlagen, damit soviel Nutzen wie möglich daraus entsteht und das Licht der Älteren Brüder verbreitet wird. Vielleicht findet sich gerade in einer dieser Lektionen dasjenige, was nötig ist, um einem Freund zu helfen. Ihre geordnete Aufbewahrung wird sehr nützlich sein.
 
-### Brief Nr. 82 - September 1917 - Zähmung eines unruhigen Gliedes
+Ich halte es kaum für möglich, daß die Mehrzahl der Studenten und Novizen je in vollem Ausmaß begreifen können, was für eine Macht zum Guten hinter diesen Lektionen steht. Denjenigen unter uns, die an genaue Angaben und wissenschaftliche Lehrmethoden gewöhnt sind, werden diese alte Lektionen ein gutes Stück vorwärts helfen, um Kopf und Herz zu vereinen. Sie enthalten manches Kleinod, das vorteilhaft ist für richtiges Handeln und Beharrlichkeit im Rechttun. Wenn die Studenten und Novizen darüber nachdenken, wie sie die erhaltenen Briefe am besten nutzbar machen können, so wird das sehr viel helfen und für größeres Seelenwachstum sehr vorteilhaft sein. Es sind bestimmt die kleinen Dinge, durch die die großen Dinge möglich werden, und vielleicht könnte dies einige Mitglieder zum dienen anregen. 
+
+Wenn die Studenten sich daran erinnern, daß Wiederholung das Losungswort des Lebensleibes ist, und "daß alle okkulte Entwicklung mit dem Lebensleib beginnt", dann werden sie begreifen, warum es so nützlich ist, die alten Lektionen und Briefe häufig wieder durchzunehmen.
+
+### <h3 id="letter-82">Brief Nr. 82 - September 1917 - Zähmung eines unruhigen Gliedes</h3>
 
 Wie Du wahrscheinlich weißt, haben wir hier auf Mt. Ecclesia morgens und abends einen kurzen Gottesdienst, der ein Bibellesen mit einschließt. Meine Frau und ich lesen gerne von Zeit zu Zeit das dritte Kapitel des Jakobusbriefes, weil wir darin eine wichtige Lehre sehen. Ich dachte, es wäre gut, Deine Aufmerksamkeit darauf zu lenken, besonders wegen eines Vorfalles, der sich kürzlich hier ereignete, und der dazu diente, mir diese Lehre eindringlich zum Bewußtsein zu bringen. Ich glaube, wir werden Nutzen daraus ziehen, wenn wir uns diese Lehre zu Herzen nehmen. Laß mich ein paar Verse aus dem erwähnten Kapitel anführen, und dann werde ich Dir den Vorfall, von dem ich sprach, erzählen.
 
@@ -1220,7 +1230,7 @@ Wenn wir sterben müßten, nachdem wir andere mit scharfen Worten gestochen habe
 
 Ich kann Dir im Hinblick auf mich und meine Frau versichern besonders seit wir im Hauptquartier sind daß dieses Kapitel von größerem geistigen Wert für uns gewesen ist als irgend ein anderes. Es hat uns mehr geholfen, als alle übrigen zusammengeschlossen, obwohl wir natürlich noch längst, ja noch längst nicht vollkommen sind. Aber was wir getan haben, und was andere hier mit uns getan haben, gibt starke Berechtigung, dieses Kapitel Deiner ernsten Aufmerksamkeit zu empfehlen vielleicht gekoppelt mit der kleinen Geschichte von den Bienen, denn es wird Dir ebenso nützlich sein, wenn Du es vielleicht ein- oder zweimal pro Woche liest und auch danach handelst.
 
-### Brief Nr. 83 - Oktober 1917 - Ein inneres Schiedsgericht der Wahrheit
+### <h3 id="letter-83">Brief Nr. 83 - Oktober 1917 - Ein inneres Schiedsgericht der Wahrheit</h3>
 
 Vorige Woche sagte mir eine Besucherin von Mt. Ecclesia, daß sie etwa zwanzig Jahre lang alle verschiedenen Philosophien, die sie erreichen konnte, studierte. Auch daß sie in den letzten Jahren sich mit dem Studium der Rosenkreuzerlehren befaßt hat, und daß diese ihr die absolute Wahrheit zu sein schienen. Sie erwartete natürlich, daß ich dieser Meinung zustimmte und war erstaunt und sprachlos, als ich ihr sagte, daß ich die Lehren, die die Älteren Brüder mir gegeben haben, und über die in unseren verschiedenen Büchern geschrieben ist, anders auffasse.
 
@@ -1232,7 +1242,7 @@ Das Innere ist daher das einzig wertvolle Schiedsgericht der Wahrheit. Wenn wir 
 
 Daher möchte ich den Studenten raten, niemals irgendeine Autorität anzunehmen oder zu verwerfen oder ihr blind zu folgen, sondern danach zu streben, daß im Inneren das Schiedsgericht der Wahrheit errichtet wird. Bringe alle Angelegenheiten vor dieses Gericht, prüfe dort alle Dinge und halte das fest, was Du als gut empfindest.
 
-### Brief Nr. 84 - November 1917 - Epigenesis und das Gesetz von Ursache und Wirkung
+### <h3 id="letter-84">Brief Nr. 84 - November 1917 - Epigenesis und das Gesetz von Ursache und Wirkung</h3>
 
 Sehr oft werden von Studenten einige Irrtümer geäußert, sodaß sie von Zeit zu Zeit eine Richtigstellung erfordern. Der allgemeinste darunter ist die mißverstandene Idee, alles, was uns begegnet, sei die Folge oder die Wirkung irgendeiner Ursache oder Handlung unserer selbst in vergangener Zeit, meist in einem vergangenen Dasein. In der Theorie wissen die Studenten, daß diese Ansicht falsch ist. Sie bemerken, daß neben dem Geschick, das aus früheren Existenzen zur Begleichung in diesem Leben mit uns gegangen ist, wir auch noch täglich durch unsere Handlungen einen ursächlich wirkenden Einfluß ausüben. Ein beträchtlicher Teil der in diesem Körper begangenen Taten wird sich auswirken, ehe der Tod uns aus unserer jetzigen Umgebung hinwegnimmt, während diejenigen Taten, die nicht auf diese Weise ausgetragen werden, aufbewahrt werden, um die Grundlage des Schicksals einer künftigen Existenz zu bilden, wo wir ernten werden, was wir gesät haben. Dieses Schicksal, das von einem Leben zum anderen mitgeht, wird uns durch unser Horoskop gezeigt, das uns bestimmte Merkmale und Neigungen oder Linien des geringsten Widerstandes aufzeigt. Es darf nicht übersehen werden, daß uns dieses Schicksal aus der Vergangenheit allerdings eine bestimmte Neigung oder einen Hang zu einer besonderen Handlungsrichtung verleiht. Nichtsdestoweniger ist zu einem verhältnismäßig großen Prozentsatz freier Wille in unseren Handlungen und es ist Spielraum gelassen für das Wirken von Epigenesis, der göttlichen, schöpferischen Tätigkeit, der Grundlage der Evolution.
 
@@ -1242,42 +1252,47 @@ Ganz ähnlich verhält es sich, wenn wir beständig das Gesetz von Ursache und W
 
 Ich hoffe, Du wirst diesen Gedanken festhalten. Möchtest Du von einer beharrlichen Anwendung dieses Prinzips viel Segen ernten.
 
-### Brief Nr. 85 - Dezember 1917 - Das gegenwärtige Leiden und der künftige Friede
+### <h3 id="letter-85">Brief Nr. 85 - Dezember 1917 - Das gegenwärtige Leiden und der künftige Friede</h3>
 
 Aus der trüben, fernen Vergangenheit kommt zu uns die Stimme des Jesaias in einer der größten und erhabensten Prophezeihungen:
 
-    "Uns ist ein Kind geboren, ein Sohn ist uns  
-    gegeben: und die Herrschaft soll gelegt werden  
-    auf seine Schulter: und er heißt Wunderbar,  
-    Ratgeber, der Allmächtige Gott, immerwährender Vater, der Prinz des  
-    Friedens."  
+```
+"Uns ist ein Kind geboren, ein Sohn ist uns  
+gegeben: und die Herrschaft soll gelegt werden  
+auf seine Schulter: und er heißt Wunderbar,  
+Ratgeber, der Allmächtige Gott, 
+immerwährender Vater, der Prinz des Friedens."  
 
-    "Auf daß seine Herrschaft groß werde und des  
-    Friedens kein Ende auf dem Stuhle Davids  
-    und seinem Königreich: daß er es zurichte  
-    und stärke mit Gericht und Gerechtigkeit von  
-    nun an bis in Ewigkeit".  
+"Auf daß seine Herrschaft groß werde und des  
+Friedens kein Ende auf dem Stuhle Davids  
+und seinem Königreich: daß er es zurichte  
+und stärke mit Gericht und Gerechtigkeit von  
+nun an bis in Ewigkeit".  
+```
 
 Der Gesang des Engelchors über den Bergen von Galiläa ist auch nicht weniger kraftvoll, um in der Seele das höchste Ideal zu wecken:
 
-    "Friede auf Erden den Menschen,  
-    die guten Willens sind."  
+```
+"Friede auf Erden den Menschen,  
+die guten Willens sind."  
+```
 
 Wenn wir freilich die Welt von heute betrachten, so scheinen solche Worte den Tatsachen zu spotten. Und vom gewöhnlichen Standpunkt des Mannes der Straße aus gesehen, können all' die Plattheiten, die von den Kirchenfrommen angeboten werden, die Situation in der sogenannten christlichen Welt nicht weniger ekelhaft machen.
 
 Wenn wir dagegen beim Sehen und Urteilen den kosmischen Maßstab anlegen, ist es anders. Goethe sagt sehr richtig:
 
-    "Wer nie sein Brot mit Tränen aß,  
-    wer nie die kummervollen Nächte  
-    auf seinem Bette weinend saß,  
-    der kennt euch nicht,  
-    ihr himmlischen Mächte."  
+```
+"Wer nie sein Brot mit Tränen aß,  
+wer nie die kummervollen Nächte  
+auf seinem Bette weinend saß,  
+der kennt euch nicht, ihr himmlischen Mächte."  
+```
 
 Wie mit den Individuen, so ist es auch mit den Nationen. Kummer und Leiden scheinen leider die einzigen Lehrer zu sein, auf die sie hören, und woraus die Notwendigkeit erfolgt, daß sie Lektionen bekommen. Wir werden durch die sogenannten Verluste dieses Krieges nicht erschreckt, weil wir das Leben als unendlich kennen. Alle die Getöteten werden wieder geboren werden und infolge ihrer Erfahrung wird es ihnen dann besser gehen als jetzt. Friede und guter Wille werden mit Sicherheit einmal kommen, wenn wir gelernt haben, den Krieg zu verabscheuen. So können wir uns also auf diese Aussicht freuen und wollen ernsthaft um ihre Verwirklichung beten. Ganz besonders möchte ich die Studenten des Rosenkreuzer Freundeskreises bitten, daß sie sich in der Heiligen Nacht um Mitternacht, wenn der übliche Gottesdienst in der Pro-Ecclesia von den Arbeitern auf Mt. Ecclesia gehalten werden wird, in diesem Gebet vereinen.
 
 Wir fügen eine kleine Schrift "Ein Einblick in die Bibel" bei mit den Grüßen der Jahreszeit von den Arbeitern auf Mt. Ecclesia und hoffen, daß Du die erstere ebenso interessant wie lehrreich findest.
 
-### Brief Nr. 86 - Januar 1918 - Gott, die Quelle und das Ziel des Daseins
+### <h3 id="letter-86">Brief Nr. 86 - Januar 1918 - Gott, die Quelle und das Ziel des Daseins</h3>
 
 Erneut stehen wir an der Schwelle eines neuen Jahres, einer Zeit, in der es allgemein üblich ist, aus unserem Streben Entschlüsse werden zu lassen. Da die Studenten der Rosenkreuzerlehren für die Sache des Seelenwachstums besonders interessiert sein sollten, so denke ich, daß die folgenden Betrachtungen zu dieser Zeit vielleicht von Nutzen sein können.
 
@@ -1289,7 +1304,7 @@ Aber der fromme Mensch ist wie der Stahl, der vom Magneten berührt ist und gewa
 
 Wir haben von Menschen gehört, die Jura studierten, während sie in der Straßenbahn vom und zum Geschäft fuhren. Andere haben Sprachen gelernt durch Ausnutzung der kurzen Augenblicke, die andere mit müßigen, ziellosen, herumflatternden Gedanken ausfüllen. Laßt uns eine Lehre von ihnen lernen und laßt uns während des kommenden Jahres die Gewohnheit pflegen, daß wir unsere Gedanken während all' der verstreuten kurzen Augenblicke, die wir haben, zu Gott hinwenden. Wenn wir dies in Treue üben, werden wir finden, daß wir auf dem Pfad des Seelenwachstums viel schneller vorankommen.
 
-### Brief Nr. 87 - Februar 1918 - Die Notwendigkeit der Verwendung unserer Talente
+### <h3 id="letter-87">Brief Nr. 87 - Februar 1918 - Die Notwendigkeit der Verwendung unserer Talente</h3>
 
 Christus ermahnte uns, unser Licht leuchten zu lassen, und in dem Gleichnis von den anvertrauten Pfunden sagt Er, daß man von dem, dem viel gegeben ist, man auch viel verlangen wird. In dem Gleichnis kommt zum Ausdruck, daß von jedem, wie wenig er auch empfangen haben mag, erwartet wird, daß er das Seine auf Wucher gibt, daß er sein Brot in das Wasser wirft, damit es nach einiger Zeit zu ihm zurückehrt und einen Gewinn einbringt. Wir stehen jetzt am Beginn eines neuen Jahres. Wir haben die unschätzbaren Rosenkreuzerlehren erhalten. Es wird demnach von uns verlangt, daß wir dies Wissen nutzbar machen, um denjenigen unserer Mitmenschen zu helfen, die noch keine Lösung des Lebensproblems erlangt haben und die nach Erleuchtung suchen.
 
@@ -1303,7 +1318,7 @@ Ich würde daher empfehlen, daß in den verschiedenen Ortsgruppen Klassen gebild
 
 Ich hoffe, daß Dir diese Anregung während des kommenden Jahres von Nutzen sein wird.
 
-### Brief Nr. 88 - März 1918 - Der Adel aller Arbeit
+### <h3 id="letter-88">Brief Nr. 88 - März 1918 - Der Adel aller Arbeit</h3>
 
 Eine Schreiberin, voller Begeisterung über die Schönheit, die Größe und die seelenbefriedigende Natur der Rosenkreuzerlehren, beklagt sich über das Schicksal, das sie an den Kochherd sowie an das Abwaschen bindet, und auch an die Pflege der Kinder und an die Plagerei des Haushalts. Wäre sie nur frei, sich diesen neu gefundenen Lehren zu widmen, so würde sie in die weite Welt gehen mit der frohen Botschaft, von der sie weiß, das ungezählte Tausende darum beten und danach suchen.
 
@@ -1317,7 +1332,7 @@ Eine großer Benzinmotor, der mit voller Kraft arbeitet, könnte einem Heer star
 
 Aber was viele wirklich meinen, wenn sie von "Plagerei" sprechen, ist Eintönigkeit. Alle Arbeit ist mehr oder weniger Routine und die ständige Verrichtung derselben Aufgaben wird oft eintönig. Es gibt einen sehr triftigen Grund, warum die gegenwärtige Phase unserer Entwicklung dieses Prinzip der Routine enthält. Wir machen uns jetzt bereit für das schnell herankommende Wassermannzeitalter mit seiner großen intellektuellen und geistigen Entwicklung. Dies erfordert ein Erwachen des schlafenden Lebensleibes, dessen Losungswort Wiederholung lautet. Die Routine unserer täglichen Arbeit liefert sie. Wenn wir widerstreben, erzeugt dies Eintönigkeit und verhindert den Fortschritt. Wenn wir aber unsere Arbeit mit Liebe durchdringen, werden wir in unserer Entwicklung gut voran kommen und die Belohnung der Zufriedenheit ernten.
 
-### Brief Nr. 89 - April 1918 - Das Wassermannzeitalter und der Neue Bund
+### <h3 id="letter-89">Brief Nr. 89 - April 1918 - Das Wassermannzeitalter und der Neue Bund</h3>
 
 Nachdem ich die Studentenlektion geschrieben und über die verschiedenen Phasen des Osterfestes und die Ereignisse aus jener Zeit nach der biblischen Erzählung nachgedacht hatte, da erkannte ich, was für ein versiegeltes Buch die Bibel für diejenigen ist, die die abendländischen Weisheitslehren nicht besitzen und keine Kenntnis von esoterischer Astrologie haben. So beschloß ich, einen der Punkte, der mir in den Sinn kam, näher zu beleuchten.
 
@@ -1329,7 +1344,7 @@ Während diese Schritte in der Evolution gemacht wurden, ist die Sonne vorgerüc
 
 Kann irgend etwas einfacher sein? Christus ist der Sonnengeist, und wenn die Sonne zur Frühlings-Tagundnachtgleiche den Äquator im Zeichen des Wasserträgers überschreitet, dann wird das Wassermannzeitalter beginnen, in dem die fleischlose, alkoholfreie Ernährung allgemein sein und eine Ära des Altruismus anbrechen wird. Wir beginnen schon, diesen segensreichen Einfluß zu spüren, obwohl es noch Jahrhunderte dauern wird und wir sind hier, um jene Zeit vorbereiten zu helfen. Es ist darum unsere Pflicht uns physisch, moralisch, intellektuell und geistig zu reinigen, so daß wir leuchtende Beispiele für andere werden und sie dadurch zum großen Licht führen, das wir zu unserem Glück kennenlernen durften. Laßt uns auch daran denken, daß, je größer unser Wissen, umso größer auch unsere Verantwortung ist für dessen richtigen Gebrauch. Wenn wir nicht nach diesen Idealen leben, verdienen wir umso größere Verachtung.
 
-### Brief Nr. 90 - Mai 1918 - Fleischverzehr und das Tragen von Pelzen
+### <h3 id="letter-90">Brief Nr. 90 - Mai 1918 - Fleischverzehr und das Tragen von Pelzen</h3>
 
 Ein Student, der bekennt, daß er dem Verzehr von Fleisch noch im gewissen Maß unterworfen ist, hat hin und wieder das Bedürfnis, zu anderen über die Rosenkreuzerlehren zu sprechen, aber er hat immer das Gefühl, ein Heuchler zu sein, wenn er dem Vegetarismus das Wort redet. Er fragt uns, wie er seine Gewohnheit überwinden kann, und ob er es aufgeben soll, andere zu belehren, bis er selbst etwas erreicht hat.
 
@@ -1341,7 +1356,7 @@ Andererseits aber scheint es mir, daß es mit einem bißchen Willenskraft, das m
 
 Leider zwingt uns die Kompliziertheit unserer Zivilisation dazu, für viele Dinge, wie z.B. für Schuhe, Riemen usw. Leder zu verwenden, weil bis jetzt noch kein anderes Material auf den Markt ist, das seinen Platz einnehmen könnte. Nichtsdestoweniger sollten wir das Möglichste tun, um die Verwendung von Material zu vermeiden, das den Tod eines Tieres erfordert. Eine der Segnungen dieses gegenwärtigen Krieges ist die, daß die Menschen herausfinden, daß Fleisch kein unerläßlicher Bestandteil unserer Nahrung ist, und daß wir ohne Alkohol besser daran sind. Laßt uns hoffen, daß dies erst der Beginn des Endes ist und daß die Menschen bald aufhören werden, Tiere um ihres Fleisches und Felles willen zu halten und zu jagen. In der Zwischenzeit wollen wir allen ein gutes Beispiel sein und Energie aufwenden, um das zu können.
 
-### Brief Nr. 91 - Juni 1918 - Duldsamkeit gegenüber dem Glauben anderer
+### <h3 id="letter-91">Brief Nr. 91 - Juni 1918 - Duldsamkeit gegenüber dem Glauben anderer</h3>
 
 Wir müssen hier in den Bedingungen leben, so wie wir sie vorfinden, und die Lektionen lernen, die unsere Umgebung uns schafft. Wer fortgesetzt in den Wolken schwebt und nach Idealen sucht unter Vernachlässigung seiner einfachsten Pflichten, entgleist in seinen Bemühungen geradeso wie der, der sich im Schlamm materieller Geschäftigkeit wälzt und sich aus Geldgier plagt und schindet. Beide brauchen Hilfe, aber in umgekehrter Richtung. Der eine muß heruntergezogen werden, bis er mit beiden Beinen fest auf dem Erdboden steht. Der andere braucht einen Auftrieb, damit er das himmlische Licht erblickt und beginnt, über das Sammeln himmlischer Schätze nachzudenken.
 
@@ -1349,9 +1364,11 @@ Wir müssen hier in den Bedingungen leben, so wie wir sie vorfinden, und die Lek
 
 Es sollte uns genügen, an unseren Früchten erkannt zu werden, denn das ist das einzig wahre und zuverläßliche Kennzeichen der individuellen Religion. Macht sie uns zu besseren Männern und Frauen, besseren Vätern und Müttern, Söhnen und Töchtern, Schwestern und Brüdern, Arbeitgebern und Arbeitnehmern? Macht sie uns zu nützlicheren Gliedern der menschlichen Gesellschaft, die angesehen sind in dem Kreis, in dem sie leben? Das ist das Zeichen wahrer Religion.
 
-Es besteht keine große Gefahr, daß sich Materialisten in unseren Reihen finden. Aber leider haben Menschen, die fortschrittliche Lehren verbreiten, die Tendenz, in den Wolken zu schweben, die konkreten Umstände und die irdischen Pflichten zu vergessen. Das hat zur Folge, daß der Durchschnittsmensch den Okkultismus reserviert betrachtet, und die, die ihn studieren, für verdreht hält, obwohl ihre Handlungen ebensowenig ein Fehler des Okkultismus sind, wie es ein Fehler guter Nahrung ist, wenn ein schwacher Magen sie nicht verdauen kann. Aus diesem Grund sollten wir nicht nur tolerant sein gegenüber dem Glauben anderer und es uns zur Regel machen, niemals einen anderen Glauben herabzusetzen, sondern wir sollten auch auf uns achten, daß wir die Rosenkreuzerlehren leben und ihnen in unserer nächsten Umgebung Ehre machen.
+Es besteht keine große Gefahr, daß sich Materialisten in unseren Reihen finden. Aber leider haben Menschen, die fortschrittliche Lehren verbreiten, die Tendenz, in den Wolken zu schweben, die konkreten Umstände und die irdischen Pflichten zu vergessen. Das hat zur Folge, daß der Durchschnittsmensch den Okkultismus reserviert betrachtet, und die, die ihn studieren, für verdreht hält, obwohl ihre Handlungen ebensowenig ein Fehler des Okkultismus sind, wie es ein Fehler guter Nahrung ist, wenn ein schwacher Magen sie nicht verdauen kann. 
 
-### Brief Nr. 92 - Juli 1918 - Der Zweck des Krieges und unsere Stellung dazu
+Aus diesem Grund sollten wir nicht nur tolerant sein gegenüber dem Glauben anderer und es uns zur Regel machen, niemals einen anderen Glauben herabzusetzen, sondern wir sollten auch auf uns achten, daß wir die Rosenkreuzerlehren leben und ihnen in unserer nächsten Umgebung Ehre machen.
+
+### <h3 id="letter-92">Brief Nr. 92 - Juli 1918 - Der Zweck des Krieges und unsere Stellung dazu</h3>
 
 Von Zeit zu Zeit haben Studenten aus den verschiedensten Gegenden der Welt gefragt, wie ihre Stellung dem Krieg gegenüber sein sollte und welchem Zweck er vom geistigen Standpunkt aus dient. Bezüglich dem Sinn des Krieges verwiesen wir bereits in verschiedenen Artikeln auf die Rosenkreuzerlehren. Darin finden wir in der Erkenntnis Trost, daß Leiden uns zu Gott führen und uns dabei behilflich sind, den Schleier zwischen der sichtbaren und der unsichtbaren Welt zu zerreißen. Dadurch wird es möglich, einer beträchtlichen Anzahl von Menschen dabei zu helfen, geistiges Sehen zu erlangen sowie die Fähigkeit, mit den Verstorbenen zu verkehren. Aber obgleich die gegebenen Erklärungen die meisten okkulten Studenten in gewissem Maß befriedigt haben, gab es andere, die sich nicht damit begnügten. Sie brauchten etwas, das noch deutlicher das Einwirken auf die Geschehnisse zeigte. Wir haben sie auf die Lehre in Lektion Nr. 13, "Die Engel als Vollzieher der Evolution", hingewiesen, worin gezeigt wird, wie die menschlichen Angelegenheiten durch Engel und Erzengel gelenkt werden, die als Familien- und Rassengeister wirken und das Steigen und Fallen der Völker verursachen, je nachdem, wie dies für die Entwicklung der verschiedenen ihrer Obhut anvertrauten Gruppen von Geistern erforderlich ist.
 
@@ -1359,7 +1376,7 @@ Als einen letzten Versuch, unsere Studenten in bezug auf diesen wichtigen Gegens
 
 Wir müssen aber verstehen, daß kein wahrhafter Friede sein kann, ehe nicht der Militarismus einen solchen Schlag erhalten hat, daß er für lange Zeit sein Haupt nicht wieder erheben kann. Viele Leute hoffen, daß dies der letzte Krieg sein wird, und wir wünschen sehnlichst, es auch glauben zu können. Man dachte dasselbe, als vor hundert Jahren Napoleon und seine Armeen Europa überrannten, aber die Zeit hat bewiesen, daß solche Hoffnungen eitel waren. Friede ist eine Sache der Erziehung, und seine Vollendung ist unmöglich, bis wir gelernt haben, barmherzig, gerecht und aufrichtig miteinander zu verkehren, sowohl als Völker wie auch als Individuen. Solange wir Waffen herstellen, wird kein Friede errichtet werden können. Es sollte uns Zweck und Ziel sein, alles was wir nur können, daranzusetzen, daß der Militarismus in allen Ländern abgeschafft und der Grundsatz der schiedsgerichtlichen Entscheidung bei Streitigkeiten eingeführt wird.
 
-### Brief Nr. 93 - August 1918 - Die innere Kraft und die Verantwortung, die sich daraus ergibt
+### <h3 id="letter-93">Brief Nr. 93 - August 1918 - Die innere Kraft und die Verantwortung, die sich daraus ergibt</h3>
 
 Vor vielen Jahren verbrachte ich einige Zeit in Maine auf einer Farm zur Zeit der Kartoffelernte. Als die Wagen an mir vorüberfuhren, sah ich, daß die Kartoffeln alle groß und von beinahe gleicher Größe waren. Da gratulierte ich dem Farmer eines Tages zu solch' schönem Ertrag von so großen Kartoffeln. Darum ging er zu einem Wagen und zeigte mir, daß dessen Boden voll von kleinen Kartoffeln lag. Er sagte, sie wären auf dem Feld nicht sortiert worden, sondern das Rattern des Wagens auf der unebenen Landstraße vom Feld bis zur Scheune bringe die großen Kartoffeln nach oben, während die kleinen auf den Boden sinken. Er sagte: "Wenn Sie die großen auf den Boden legen, werden sie nach oben kommen, und die kleinen gehen nach unten."
 
@@ -1371,7 +1388,7 @@ Wir leben in einer solchen Zeit, und wenn wir danach streben hochzukommen, so is
 
 Da jetzt die geeignete Zeit dafür ist, möchte ich den Studenten anraten, dafür zu sorgen, daß die Weltanschauung und unsere andere Literatur soweit wie möglich in den Bibliotheken ihrer Wohnorte vorhanden ist. Auch daß sie sich an einem Platz befindet, zu dem man Zutritt hat und wo sie benutzt werden kann. Wenn mehrere Menschen sie von Zeit zu Zeit anfordern, so wird die beständige Nachfrage nach einem bestimmten Buch den Bibliothekar, der vielleicht nichts darüber weiß und womöglich ein Gegner ist, schließlich aufmerksam machen. Zweifellos tragen die Lehren unseres Freundeskreises eine innere Kraft in sich, die ihnen zwangsläufig einen Platz in der Welt verschaffen wird. Wir schaffen uns dabei in jenem Maß Verdienst, in dem wir mithelfen, diese Lehren der Älteren Brüder der allgemeinen Menschheit zur Kenntnis zu bringen. Augenblicklich sind Ferien, und insofern ist eine besonders günstige Zeit für die Aussaat unserer Seelen befriedigenden Philosophie. Wir wollen daher in dieser Zeit alle eine besondere Anstrengung machen. Das wird anderen nützen und auch uns selbst.
 
-### Brief Nr. 94 - September 1918 - Die große Hilfe von Gleichgewicht in Zeiten der Not
+### <h3 id="letter-94">Brief Nr. 94 - September 1918 - Die große Hilfe von Gleichgewicht in Zeiten der Not</h3>
 
 In diesen Tagen, da unsere Sitten, Gewohnheiten und Geschäfte so nah mit dem großen Krieg in Berührung kommen, wo immer wir auch auf Erden leben; wo die Blüte unserer Männlichkeit zu Millionen von Kanonen hinweggefegt wird, und wo sogar Frauen ihren gewohnten Beruf als Hausfrau verlassen müssen, um an dem gewaltigen Ringen hinter den kämpfenden Linien teilzunehmen; wo die Pflegebedürftigen, die ganz Alten und die ganz Jungen ihrer Pfleger beraubt werden, wie kann man da anders, als mehr oder weniger erregt zu sein, je nachdem man persönlich zu leiden hat, oder ob man räumlich nahe dabei ist in dem siedenden Meer von Haß und Schmerz, das einst das schöne Frankreich war, oder in anderen verwüsteten Gebieten.
 
@@ -1383,7 +1400,7 @@ Wenn solche Selbstkontrolle von Menschen dieser Welt erreicht werden kann, und w
 
 Darum skizzierte ich in der Lektion dieses Monats die geheimen Ursachen, durch die die Samen, die jetzt in unserer gegenwärtigen katastrophalen Lage zur Blüte kommen, einst in der Vergangenheit erzeugt und befruchtet wurden, und ich deutete an, wie wir augenblicklich die Samen für unsere Zukunft, zum Guten oder Bösen, ausstreuen. Es geschah in der Hoffnung, daß Du Deine Gedanken aufbauend in der angegebenen Richtung konzentrieren und die dargebotenen Ansichten in Deiner Umgebung vertreten wirst. Dadurch kann manches Leiden in der Zukunft abgewendet werden, denn Gedanken sind Dinge, und wenn sie mit der kosmischen Absicht, alles zum Guten zusammenarbeiten zu lassen, harmonisieren, so werden sie sicherlich erfolgreich sein.
 
-### Brief Nr. 95 - Oktober 1918 - Der Optimismus und der Glaube, daß sich schließlich alles zum Guten wendet
+### <h3 id="letter-95">Brief Nr. 95 - Oktober 1918 - Der Optimismus und der Glaube, daß sich schließlich alles zum Guten wendet</h3>
 
 Gesetzt dem Fall, jemand, der Dir nahesteht, müßte sich einer Operation unterziehen. Natürlich würdest Du sehr mitfühlen, und Deine Gefühle würden zwischen Furcht und Hoffen hin- und herschwanken. Zeitweise würde das eine Gefühl vorherrschen und zeitweise das andere. Aber bedenke, was würde die Wirkung auf den Patienten sein, wenn Du Deine Zweifel und Besorgnisse bei jeder Gelegenheit äußern würdest? Furcht hat immer eine entnervende und schädigende Wirkung, die es dem Kranken sehr schwer macht, sich zu erholen, besonders da er während der Krankheit weniger selbstsicher und negativer ist als zu Zeiten guter, kräftiger Gesundheit. Da würdest Du ihn in der Tat durch solche Einstellung und das Äußern solcher Gedanken sehr behindern, während Du in Wirklichkeit besorgt wärest, ihm zu helfen und alles in Deiner Macht liegende tun würdest, um ihm zu dienen.
 
@@ -1395,7 +1412,7 @@ Wir haben einen unerschütterlichen Glauben an die Weisheit und Allmacht der Got
 
 Anmerkung: Der Brief für November 1918 war geschäftlichen Angelegenheiten in Zusammenhang mit unseren Veröffentlichungen gewidmet, weswegen wir diesen hier nicht einfügen.
 
-### Brief Nr. 96 - Dezember 1918 - Verlängerung des Lebens der Urtype
+### <h3 id="letter-96">Brief Nr. 96 - Dezember 1918 - Verlängerung des Lebens der Urtype</h3>
 
 Das ist der letzte Studentenbrief dieses Jahres, und das Ende eines Kreislaufs wendet naturgemäß die Gedanken zur Flüchtigkeit der Zeit und der Vergänglichkeit des Daseins in der Erscheinungswelt. Es erinnert uns auch an die Kostbarkeit der Zeit und an unsere Verantwortung, sie mit bestem Vorteil zum Seelenwachstum zu verwenden. Denn "was würde es dem Menschen helfen, so er die ganze Welt gewinnen würde und doch Schaden an seiner Seele nähme"? Jetzt ist die Saatzeit, und es wird uns gesagt, daß "von jenem, dem viel gegeben wird, auch viel gefordert wird". Darum müssen wir für das, was wir getan oder unterlassen haben, in größerem Maß Rechenschaft ablegen als andere, die nicht diese vertraute Erkenntnis von Gottes Absichten gehabt haben, wie sie uns durch die Älteren Brüder zuteil wurden.
 
@@ -1405,22 +1422,28 @@ Dieses Gesetz findet ohne Ausnahme auf alle Anwendung, aber es hat eine größer
 
 Wir wollen hoffen, daß wir das vergangene Jahr möglichst vorteilhaft angewandt haben und bereit sein, im kommenden Jahr unsere Anstrengung zu vermehren.
 
-### Brief Nr. 97 - Januar 1919 - Das Gesetz des Erfolges in geistigen Dingen
+### <h3 id="letter-97">Brief Nr. 97 - Januar 1919 - Das Gesetz des Erfolges in geistigen Dingen</h3>
 
 Es erscheint mir angebracht, unsere Korrespondenz für 1919 mit dem Wunsch für ein glückliches und erfolgreiches neues Jahr zu beginnen. Aber das Sprichwort sagt: "Wenn Wünsche Pferde wären, würden die Bettler reiten." Um Erfolg und Glück zu sichern, ist noch etwas mehr notwendig als nur bloße Wünsche, und die meinigen werden vielleicht bessere Frucht bringen, wenn ich Dir das Gesetz des Erfolges erkläre.
 
 Die Studenten des Rosenkreuzer Freundeskreises sind mit der Tatsache vertraut, daß es keinen Glückszufall gibt und stimmen mit Mephisto im Faust überein, wenn er sagt:
 
-    "Wie sich Verdienst und Glück verketten,  
-    das fällt dem Toren niemals ein.  
-    Wenn sie den Stein der Weisen hätten,  
-    der Weise mangelte dem Stein."  
+```
+"Wie sich Verdienst und Glück verketten,  
+das fällt dem Toren niemals ein.  
+Wenn sie den Stein der Weisen hätten,  
+der Weise mangelte dem Stein."  
+```
 
 Aber hier werden viele sofort ein Fragezeichen machen: "Ist es möglich, den Erfolg auf ein Gesetz zurückzuführen?"
 
 Ja, es gibt ein Gesetz des Erfolges, so sicher und unwandelbar wie irgend ein anderes der großen kosmischen Gesetze. Und wenn ich es auch nur auf geistige Dinge anwenden werde, kann ich Dir doch nicht verhehlen, daß es auch in materiellen Dingen zu einem gewissen Erfolg führt. Ehe Du es jedoch in diesem Sinne anwendest, mache Dir sorgsam klar, daß solches Handeln geistigen Selbstmord bedeutet, denn "Ihr könnt nicht Gott dienen und dem Mammon". Vielmehr "trachtet am ersten nach dem Reiche Gottes und nach seiner Gerechtigkeit, so wird euch solches alles zufallen". Ich kann die Wahrheit dieses Versprechens bezeugen, denn ich habe viele Jahre danach gelebt.
 
-Das Gesetz des Erfolges kann nun folgendermaßen dargelegt werden: Erstens, bestimme genau und klar, was Du brauchst Entwicklung der Heilkraft, vermehrtes geistiges Sehen, unsichtbare Helferschaft, die Fähigkeit, Vorträge zu halten und die Rosenkreuzerische Botschaft anderen zu bringen usw. Zweitens, wenn Du Dein Ziel gesetzt hast, dulde niemals für einen Augenblick einen Gedanken an Furcht oder Fehlschlag, sondern pflege eine Haltung unbeugsamer Entschlossenheit, trotz aller Hindernisse Dein Verlangen zu erfüllen. Halte beständig den Gedanken aufrecht: "Ich kann, und ich will!"
+Das Gesetz des Erfolges kann nun folgendermaßen dargelegt werden:
+
+Erstens, bestimme genau und klar, was Du brauchst Entwicklung der Heilkraft, vermehrtes geistiges Sehen, unsichtbare Helferschaft, die Fähigkeit, Vorträge zu halten und die Rosenkreuzerische Botschaft anderen zu bringen usw. 
+
+Zweitens, wenn Du Dein Ziel gesetzt hast, dulde niemals für einen Augenblick einen Gedanken an Furcht oder Fehlschlag, sondern pflege eine Haltung unbeugsamer Entschlossenheit, trotz aller Hindernisse Dein Verlangen zu erfüllen. Halte beständig den Gedanken aufrecht: "Ich kann, und ich will!"
 
 Fange nicht an, Pläne zu machen, auf welche Weise Du es erreichen willst, ehe Du nicht die Einstellung absoluten Vertrauens zu Dir selbst und zu Deiner Fähigkeit, das zu tun, was Du wünschest, erlangt hast. Denn ein Gemüt, das durch die geringste Furcht vor Mißlingen beeinflußt wird, kann nicht Pläne machen, die zu vollem Erfolg führen. Darum sei geduldig, und pflege unter allen Umständen zuerst absoluten Glauben an Dich selbst und an Deine Fähigkeit, zum Erfolg zu kommen trotz allen Gewalten, die sich Dir entgegenstellen.
 
@@ -1428,34 +1451,4 @@ Wenn Du den Punkt erreicht hast, wo Du vollkommen überzeugt und fest entschloss
 
 Ich hoffe, Du wirst dieses Gesetz im Streben nach Seelenwachstum ernstlich anwenden, nicht nur während des kommenden Jahres, sondern auch in allen künftigen Jahren.
 
-### Die Rosenkreuzer-Weltanschauung
-
-von Max Heindel
-
-Dieses Buch gibt einen vollständigen Überblick über die westlichen Weisheitslehren, soweit diese zur gegenwärtigen Zeit öffentlich bekanntgegeben werden können. Es beinhaltet eine ausführliche Übersicht über den evolutionären Werdegang der Menschheit und des Universums sowie über die Wechselbeziehung zwischen Wissenschaft und Religion. Der Autor dieses Buches erhielt diese Lehren von der Rosenkreuzer-Bruderschaft und es ist dies bis heute deren letzte Mitteilung.
-
-Abschnitt 1 handelt über die sichtbaren und unsichtbaren Welten, der Menschen und über die Methode der Evolution, der Wiedergeburt und dem Gesetz der Ursache und Wirkung.
-
-Abschnitt 2 behandelt das Evolutionsschema im gesamten sowie die Evolution unseres Sonnensystems und der Erde im besonderen.
-
-Abschnitt 3 ist eine Abhandlung über Christus und Seine Mission, über die zukünftige Entwicklung der Menschheit und der Einweihung, dem esoterischen Training und einer sicheren Methode des Erlangens von Wissen aus erster Hand.
-
-617 Seiten mit zahlreichen Diagrammen, sowie 52 Seiten thematischen und 6 Seiten alphabetischen Main. Studieren sie Zuhause!
-
-Sie können bei uns die Rosenkreuzer-Philosophie kostenlos als Fernkurs studieren. Der Druck und die Verteilung werden durch Spenden der Studenten gedeckt.
-
-In den Philosophiekursen werden folgende Themen behandelt: der Zustand nach dem Tod, Wiedergeburt, das Gesetz von Ursache und Wirkung, die Entstehung des Weltalls, die Mission von Christus, die Einweihung und die zukünftige Menschheitsentwicklung.
-
-### Bibelkurse
-
-Diese tiefgründigen Kurse helfen dem Studierenden, die Bibel, die der Menschheit durch die berichterstattenden Engel gegeben wurde, als einen Führer von unschätzbaren Wert zu erkennen. Sie ermöglichen es dem Studenten, ihre bisher unbekannten Lebensgeheimnisse in einem solchen Ausmaß zu interpretieren und zu verstehen, sodaß sie ihre tiefen Wahrheiten bestätigt finden werden und auch von der Seite wissenschaftlicher Enthüllungen her beleuchtet. Gleichnisse und anscheinend bedeutungslose Vorgänge werden als Vermittler von grundlegenden geisteswissenschaftlichen Gesetzen erkannt, durch die ein viel zufriedenstellenderes und in der Tat erfolgreicheres Leben geführt werden kann.
-
-### Bezugsquellen für Literatur von Max Heindel:
-
-Deutschland: The Rosicrucian Fellowship, Zentralstelle Mannheim, Zum Herrenried 3, D 68169 Mannheim
-
-Schweiz: Rosenkreuzer Freundeskreis, Studiengruppe Sils-Maria,
-La Motta Fextal, CH 7514 Sils-Maria
-
-Weitere Kontaktstellen:
-Rosenkreuzer Freundeskreis, Studiengruppe Wien 
+End of LETTERS TO STUDENTS
