@@ -1295,9 +1295,9 @@ In dem Ritual, das bei den Gottesdiensten der Rosenkreuzer-Gemeinschaft verwende
 
 Um die Hilfe aller ernsthaften Studenten zu sichern und ihnen das Privileg zu geben, zu helfen, werden wir in den Echos jeden Monat das Datum veröffentlichen, an dem die Heilungsgottesdienste abgehalten werden, und wenn jeder Student sich in seinem eigenen Haus um halb acht hinsetzt und seine Gedanken auf Mt. Ecclesia, auf die kleine Pro-Ecclesia, richtet, wo das Symbol der Unsichtbaren Helfer dann enthüllt wird, wird die Liebe, das Mitgefühl und die Kraft, die diesen Arbeitern auf diese Weise gegeben wird, sie befähigen, einen viel größeren Dienst für die Menschheit zu tun; jeder von ihnen hat natürlich Anteil an diesem Werk. Das Symbol der unsichtbaren Helfer, auf das wir uns in Mt. Ecclesia konzentrieren, ist ein schneeweißes Kreuz mit den sieben roten Rosen und einer rein weißen in der Mitte; die üblichen Sterne (die Strahlen) gehen vom Kreuz aus, und der Hintergrund ist blau, das Ganze ist wunderschön beleuchtet, was es zu einem treffenden Sinnbild für den Glanz des Seelenkörpers macht, in dem diese Arbeiter reisen. Es wird nicht notwendig sein, zeitliche Korrekturen für euren Wohnort vorzunehmen, denn die Sonne wird alle Bestrebungen sammeln, während sie voranschreitet, und wenn die Strahlen im richtigen Winkel am Berg Ecclesia ankommen, wird sich der hierher gerichtete Einfluss sicherlich übertragen und sich mit unseren Bestrebungen, die zu dieser Zeit stattfinden, vereinigen und uns bei der Arbeit helfen. (ANMERKUNG: Die Zeit dieses Heilungsgottesdienstes wurde inzwischen auf halb sieben verlegt).
 
-## TEIL 4: "ES GIBT KEINEN TOD"
+#<h2 id="part-4">TEIL 4: "ES GIBT KEINEN TOD"
 
-### KAPITEL 21. DIE WAHRE NATUR DES TODES
+### <h3 id="chapter-21">Kapitel XXI: Die wahre Natur des Todes</h3>
 
 Inmitten all der Ungewissheiten, die diese Welt kennzeichnen, gibt es nur eine Gewissheit: den Tod. Irgendwann, nach einem kurzen oder langen Leben, kommt dieses Ende der materiellen Phase unserer Existenz, das eine Geburt in eine neue Welt ist, denn das, was wir "Geburt" nennen, ist, in den schönen Worten von Wordsworth, ein Vergessen der Vergangenheit.
 
@@ -1317,19 +1317,15 @@ Dieses Atom wird das "Keimatom" genannt. Die Kraft, die es enthält, bewegt das 
 
 Die "Silberschnur", die die höheren und niederen Fahrzeuge verbindet, endet am Keimatom im Herzen. Wenn das materielle Leben auf natürliche Weise zu Ende geht, lösen sich die Kräfte im Keimatom, wandern entlang des Lungennervs, des Hinterkopfes und entlang der Silberschnur nach außen, zusammen mit den höheren Fahrzeugen. Es ist dieser Riss im Herzen, der den physischen Tod markiert, aber die verbindende Silberschnur wird nicht sofort unterbrochen, in manchen Fällen erst nach mehreren Tagen. 
 
-### KAPITEL 22. AUSWIRKUNGEN VON SELBSTMORD
+### <h3 id="chapter-22">Kapitel XXII: Auswirkungen von Selbstmord</h3>
 
 Wenn das Ego zur Wiedergeburt herunterkommt, steigt es durch den zweiten Himmel hinab. Dort wird es von den schöpferischen Hierarchien dabei unterstützt, einen Archetyp für seinen kommenden Körper zu errichten, und es flößt diesem Archetyp ein Leben ein, das eine bestimmte Anzahl von Jahren dauern wird. Diese Archetypen sind Hohlräume und haben eine singende, schwingende Bewegung, die das Material der physischen Welt in sie hineinzieht und alle Atome im Körper in Schwingung versetzt, im Einklang mit einem kleinen Atom, das sich im Herzen befindet, dem so genannten Keimatom, das wie eine Stimmgabel dem gesamten übrigen Material im Körper die Tonhöhe vorgibt. Wenn das volle Leben auf der Erde gelebt wurde, hören die Schwingungen im Archetyp auf, das Keimatom wird zurückgezogen, der dichte Körper verfällt und der Wunschkörper, in dem das Ego im Fegefeuer und im ersten Himmel wirkt, nimmt die Form des physischen Körpers an. Dann beginnt der Mensch mit seiner Arbeit, seine schlechten Gewohnheiten und Taten im Fegefeuer zu sühnen und das Gute seines Lebens im ersten Himmel zu assimilieren.
 
-Das Vorangegangene beschreibt die gewöhnlichen Bedingungen, wenn der Lauf der Natur ungestört ist, aber der Fall des Selbstmörders ist anders. Er hat das Keim-Atom entfernt, aber der hohle Archetyp schwingt weiter.
-
-Deshalb fühlt er sich wie ausgehöhlt und verspürt ein nagendes Gefühl in seinem Inneren, das am ehesten mit den Qualen eines starken Hungers verglichen werden kann. Das Material für den Aufbau eines dichten Körpers ist überall um ihn herum, aber da ihm das Maß des Keimatoms fehlt, ist es ihm unmöglich, diese Materie zu assimilieren und sie zu einem Körper aufzubauen.
-
-Dieses furchtbare Gefühl der Aushöhlung hält so lange an, wie sein gewöhnliches Leben hätte dauern sollen. So lehrt ihn das Gesetz von Ursache und Wirkung, dass es falsch ist, die Schule des Lebens zu schwänzen, und dass man das nicht ungestraft tun kann. Im nächsten Leben, wenn sich ihm Schwierigkeiten in den Weg stellen, wird er sich an die Leiden der Vergangenheit erinnern, die aus dem Selbstmord resultierten, und die Erfahrung machen, die zu seinem Seelenwachstum beiträgt.
+Das Vorangegangene beschreibt die gewöhnlichen Bedingungen, wenn der Lauf der Natur ungestört ist, aber der Fall des Selbstmörders ist anders. Er hat das Keim-Atom entfernt, aber der hohle Archetyp schwingt weiter. Deshalb fühlt er sich wie ausgehöhlt und verspürt ein nagendes Gefühl in seinem Inneren, das am ehesten mit den Qualen eines starken Hungers verglichen werden kann. Das Material für den Aufbau eines dichten Körpers ist überall um ihn herum, aber da ihm das Maß des Keimatoms fehlt, ist es ihm unmöglich, diese Materie zu assimilieren und sie zu einem Körper aufzubauen. Dieses furchtbare Gefühl der Aushöhlung hält so lange an, wie sein gewöhnliches Leben hätte dauern sollen. So lehrt ihn das Gesetz von Ursache und Wirkung, dass es falsch ist, die Schule des Lebens zu schwänzen, und dass man das nicht ungestraft tun kann. Im nächsten Leben, wenn sich ihm Schwierigkeiten in den Weg stellen, wird er sich an die Leiden der Vergangenheit erinnern, die aus dem Selbstmord resultierten, und die Erfahrung machen, die zu seinem Seelenwachstum beiträgt.
 
 Es ist merkwürdig, dass die Begehung eines Selbstmordes in einem Leben und das damit verbundene postmortale Leiden während der Zeit, in der der Archetyp noch existiert, bei solchen Menschen oft eine krankhafte Angst vor dem Tod im nächsten Leben hervorruft; so dass sie, wenn das Ereignis tatsächlich im gewöhnlichen Verlauf des Lebens eintritt, nach dem Verlassen des Körpers verzweifelt erscheinen und so sehr darauf bedacht sind, wieder in die Physische Welt zurückzukehren, dass sie häufig das Verbrechen der Besessenheit auf die törichteste und unüberlegteste Weise begehen. 
 
-### KAPITEL 23. TODESURSACHEN IM SÄUGLINGSALTER
+### <h3 id="chapter-23">Kapitel XXIII: Todesursachen im Säuglingsalter</h3>
 
 Wenn ein Mensch stirbt, nimmt er den Verstand, den Begierdenkörper und den Vitalkörper mit sich, wobei letzterer das Lagerhaus der Bilder seines vergangenen Lebens ist. Und während der dreieinhalb Tage nach dem Tod werden diese Bilder in den Begierdenkörper geätzt, um die Grundlage für das Leben des Menschen im Fegefeuer und im ersten Himmel zu bilden, wo das Böse ausgetrieben und das Gute assimiliert wird. Die Erfahrung des Lebens selbst ist vergessen, so wie wir den Prozess des Schreibens lernens vergessen haben, aber die Fähigkeit behalten haben. So bleibt die Summe aller Erfahrungen, die der Mensch in den vergangenen Erdenleben, im Fegefeuer und in den verschiedenen Himmeln gemacht hat, im Gedächtnis haften und bildet sein Rüstzeug für die nächste Geburt. Die Schmerzen, die er erlitten hat, sprechen zu ihm wie die Stimme des Gewissens, das Gute, das er getan hat, gibt ihm einen mehr und mehr altruistischen Charakter.
 
@@ -1341,7 +1337,7 @@ Das, was nicht belebt wurde, kann nicht sterben, und wenn ein Kind vor der Gebur
 
 Da der Mensch in der Vergangenheit überaus kriegerisch war und sich in seiner Unwissenheit nicht um die Angehörigen kümmerte, die beim Tod verstarben, und über die im Bett Verstorbenen Totenwachen abhielt, die im Vergleich zu denen, die auf dem Schlachtfeld starben, vielleicht nur wenige waren, muss es notwendigerweise eine enorme Kindersterblichkeit geben, Aber wenn die Menschheit zu einem besseren Verständnis gelangt und erkennt, dass wir niemals so sehr der Hüter unseres Bruders sind, wie wenn er aus diesem Leben scheidet, und dass wir ihm enorm helfen können, indem wir still sind und beten, dann wird auch die Kindersterblichkeit aufhören, in einem so großen Ausmaß zu existieren wie jetzt.
 
-### KAPITEL 24. RICHTIGE PFLEGE DES VERSTORBENEN
+### <h3 id="chapter-24">Kapitel XXIV: Richtige Pflege des Verstorbenen</h3>
 
 Der Vitalkörper ist das Vehikel der Sinneswahrnehmung. Da er mit dem Gefühlskörper (dem Wunschkörper) zusammenbleibt und die ätherische Schnur sie mit dem abgeworfenen dichten Körper verbindet, wird es offensichtlich sein, dass das Ego bis zur Durchtrennung der Schnur ein gewisses Maß an Gefühl erfahren muss, wenn sein dichter Körper belästigt wird. So verursacht es Schmerzen, wenn das Blut entnommen und die Einbalsamierungsflüssigkeit eingespritzt wird, wenn der Körper zur Leichenschau geöffnet wird und wenn der Körper eingeäschert wird.
 
@@ -1365,7 +1361,7 @@ Wenn das Ich den vitalen Körper verlassen hat, zieht dieser zurück zum dichten
 
 In dem Maße, in dem das Interesse und der Glaube an ein Leben nach dem Tod allgemeiner werden, wird sich den Menschen die Notwendigkeit einer wissenschaftlichen Methode für die Pflege derjenigen einprägen, die in das höhere Leben übergehen, und wir werden dann Krankenschwestern, Ärzte und Seelsorger haben, die in der Wissenschaft des Todes ebenso bewandert sind wie in der Wissenschaft der Geburt. Der Geist wird dann zum Zeitpunkt des Übergangs von Liebe und Frieden umgeben sein. Er wird auch eine tiefere und klarere Aufzeichnung haben, mit der er sein Lebenswerk in seinem neuen Zustand beginnen kann.
 
-### KAPITEL 25. WIE MAN DENJENIGEN HILFT, DIE VON UNS GEGANGEN SIND
+### <h3 id="chapter-25">Kapitel XXV: Wie man denjenigen hilft, die von uns gegangen sind</h3>
 
 Wenn das Ego in die physische Welt kommt, ist das in gewisser Weise ein Grund zur Freude, so wie wir uns über die Geburt eines Kindes freuen, denn diese Welt bietet uns Erfahrung und Material für das Seelenwachstum. Von einem anderen Gesichtspunkt aus betrachtet, befindet sich das Ich jedoch, wenn es in diese Welt kommt und das Gefängnis des dichten Körpers betritt, in dem denkbar beschränktesten Zustand, und sich bei der Geburt des Kindes zu freuen und zu klagen, wenn es durch den Tod befreit wird, ist in Wirklichkeit so, als ob man sich freut, wenn ein Freund ins Gefängnis kommt, und in hysterisches Wehklagen verfällt, wenn er befreit wird.
 
@@ -1377,57 +1373,59 @@ Wie viel besser ist die Haltung derjenigen, die die Rosenkreuzerlehren gelernt u
 
 Durch den guten Willen, die Intelligenz, die Uneigennützigkeit und die Liebe der verbleibenden Freunde wird der vorübergehende Geist in die Lage versetzt, unter viel günstigeren Umständen in die neuen Verhältnisse einzutreten, und wir können nichts Besseres tun, als diese Lehre so weit wie möglich zu verbreiten. Es ist unser Verlust, wenn wir für die überphysikalischen Reiche blind sind, aber für alle, die sich die Mühe machen, ihre latenten Fähigkeiten zu wecken, ist die Öffnung des richtigen Sinns nur eine Frage der Zeit. Wenn diese Zeit gekommen ist, werden wir sehen, dass die so genannten "Toten" überall um uns herum sind, und dass es in Wirklichkeit "keinen Tod gibt", wie John McCreery in dem folgenden schönen Gedicht sagt:
 
-    Es gibt keinen Tod. Die Sterne gehen unter  
-    An ein anderes Ufer zu gelangen,  
-    Und hell in des Himmels juwelenbesetzter Krone  
-    Sie leuchten für immer.  
+```
+Es gibt keinen Tod. Die Sterne gehen unter  
+An ein anderes Ufer zu gelangen,  
+Und hell in des Himmels juwelenbesetzter Krone  
+Sie leuchten für immer.  
 
-    Es gibt keinen Tod. Der Wald verlässt  
-    Verwandle die blicklose Luft in Leben;  
-    Die Felsen lösen sich auf, um sich zu ernähren  
-    Das hungrige Moos, das sie tragen.  
+Es gibt keinen Tod. Der Wald verlässt  
+Verwandle die blicklose Luft in Leben;  
+Die Felsen lösen sich auf, um sich zu ernähren  
+Das hungrige Moos, das sie tragen.  
 
-    Es gibt keinen Tod. Der Staub, den wir betreten  
-    Wird sich unter den Sommerduschen verändern  
-    Zu goldenem Getreide oder reifem Obst,  
-    Oder regenbogenfarbene Blumen.  
+Es gibt keinen Tod. Der Staub, den wir betreten  
+Wird sich unter den Sommerduschen verändern  
+Zu goldenem Getreide oder reifem Obst,  
+Oder regenbogenfarbene Blumen.  
 
-    Es gibt keinen Tod. Die Blätter mögen fallen,  
-    Die Blumen mögen verwelken und vergehen.  
-    Sie warten nur durch winterliche Stunden  
-    Der warme, süße Atem des Mai.  
+Es gibt keinen Tod. Die Blätter mögen fallen,  
+Die Blumen mögen verwelken und vergehen.  
+Sie warten nur durch winterliche Stunden  
+Der warme, süße Atem des Mai.  
 
-    Es gibt keinen Tod, obwohl wir trauern  
-    Wenn schöne vertraute Formen  
-    die wir zu liebengelernt haben, sind zerrissen  
-    Aus unseren umarmenden Armen.  
+Es gibt keinen Tod, obwohl wir trauern  
+Wenn schöne vertraute Formen  
+die wir zu liebengelernt haben, sind zerrissen  
+Aus unseren umarmenden Armen.  
 
-    Wenn auch mit gebeugtem und gebrochenem Herzen,  
-    Mit Zobelgewand und leisem Schritt  
-    Wir tragen ihren sinnlosen Staub zur Ruhe  
-    und sagen, dass sie tot sind.  
+Wenn auch mit gebeugtem und gebrochenem Herzen,  
+Mit Zobelgewand und leisem Schritt  
+Wir tragen ihren sinnlosen Staub zur Ruhe  
+und sagen, dass sie tot sind.  
 
-    Sie sind nicht tot. Sie sind nur vergangen  
-    Jenseits des Nebels, der uns hier blendet  
-    In das neue und größere Leben  
-    Aus dieser heiteren Sphäre.  
+Sie sind nicht tot. Sie sind nur vergangen  
+Jenseits des Nebels, der uns hier blendet  
+In das neue und größere Leben  
+Aus dieser heiteren Sphäre.  
 
-    Sie haben nur ihr lehmiges Gewand abgelegt  
-    Ein glänzendes Gewand anziehen;  
-    Sie sind nicht weit weggewandert,  
-    Sie sind nicht "verloren" oder "weg".  
+Sie haben nur ihr lehmiges Gewand abgelegt  
+Ein glänzendes Gewand anziehen;  
+Sie sind nicht weit weggewandert,  
+Sie sind nicht "verloren" oder "weg".  
 
-    Obwohl für das sterbliche Auge unsichtbar,  
-    Sie sind noch da und lieben uns noch;  
-    Die Lieben, die sie zurückgelassen haben  
-    Sie vergessen nie.  
+Obwohl für das sterbliche Auge unsichtbar,  
+Sie sind noch da und lieben uns noch;  
+Die Lieben, die sie zurückgelassen haben  
+Sie vergessen nie.  
 
-    Manchmal auf unserer fiebrigen Stirn  
-    Wir spüren ihre Berührung, einen Hauch von Balsam;  
-    Unser Geist sieht sie, und unsere Herzen  
-    Werden Sie getröstet und beruhigt.  
+Manchmal auf unserer fiebrigen Stirn  
+Wir spüren ihre Berührung, einen Hauch von Balsam;  
+Unser Geist sieht sie, und unsere Herzen  
+Werden Sie getröstet und beruhigt.  
 
-    Ja, sogar in unserer Nähe, wenn auch unsichtbar,  
-    Unsere lieben, unsterblichen Geister treten...  
-    Für das ganze grenzenlose Universum Gottes  
-    Ist Leben - es gibt keine Toten.  
+Ja, sogar in unserer Nähe, wenn auch unsichtbar,  
+Unsere lieben, unsterblichen Geister treten...  
+Für das ganze grenzenlose Universum Gottes  
+Ist Leben - es gibt keine Toten.  
+```
