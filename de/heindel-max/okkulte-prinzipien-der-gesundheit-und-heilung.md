@@ -112,9 +112,13 @@ Christus ermahnte seine Jünger: "Verkündet das Evangelium und heilt die Kranke
   - [Kapitel XXIV: Richtige Pflege des Verstorbenen](#chapter-24)
   - [Kapitel XXV: Wie man denjenigen hilft, die von uns gegangen sind](#chapter-25)
 
-## TEIL 1. DER MENSCH UND SEINE FAHRZEUGE
+PLATES
 
-### KAPITEL 1. DER DICHTE KÖRPER
+<h2 id="part-1">TEIL 1. DER MENSCH UND SEINE FAHRZEUGE</h2>
+
+### <h3 id="chapter-1">Kapitel I: Der dichte Körper</h3>
+
+#### <h4 id="chapter-1-introduction">Einleitung:</h4>
 
 Die okkulte Wissenschaft lehrt, dass der Mensch ein komplexes Wesen ist, das über Eigenschaften verfügt:
 
@@ -128,7 +132,7 @@ Die okkulte Wissenschaft lehrt, dass der Mensch ein komplexes Wesen ist, das üb
 
 Das Ego ist der dreifache Geist, der diese Fahrzeuge benutzt, um in der Schule des Lebens Erfahrungen zu sammeln.
 
-#### EVOLUTION:
+#### <h4 id="evolution">EVOLUTION:</h4>
 
 Die dichte Karosserie war das erste Fahrzeug, das gebaut wurde, und hat daher eine enorme Entwicklungszeit hinter sich. Er befindet sich in seinem vierten Entwicklungsstadium und hat jetzt einen großen und wunderbaren Grad an Effizienzerreicht. Er wird mit der Zeit die Vollkommenheit erreichen, aber schon jetzt ist er das am besten organisierte Vehikel des Menschen. Es ist ein wunderbar konstruiertes Instrument und sollte als solches von jedem anerkannt werden, der vorgibt, etwas über die Konstitution des Menschen zu wissen.
 
@@ -180,7 +184,7 @@ Die Akkader waren die sechste und die Mongolen die siebte der atlantischen Rasse
 
 Zentralasien war die Wiege der arischen Rassen, die von den ursprünglichen Semiten abstammten. Von dort sind die verschiedenen Rassen ausgegangen. Es ist unnötig, sie hier zu beschreiben, da die historischen Forschungen ihre Hauptmerkmale hinreichend offenbart haben.
 
-#### DAS GEHIRN UND DAS NERVENSYSTEM:
+#### <h4 id="the-brain-and-nervous-systems">Das Gehirn und das Nervensystem:</h4>
 
 In der Saturnrevolution der Erdperiode wurde dem dichten Körper die Fähigkeit verliehen, ein Gehirn zu bilden und ein Vehikel für den Keim des Geistes zu werden, der später hinzugefügt werden sollte. Der Impuls wurde gegeben, den vorderen Teil des Gehirns zu bilden. Das Gehirn und die Nervensysteme sind der höchste Ausdruck des Wunschkörpers. Sie rufen Bilder der Außenwelt ab, aber bei der geistigen Bilderzeugung bringt das Blut das Material für die Bilder; deshalb fließt das Blut zum Kopf, wenn das Denken aktiv ist.
 
@@ -200,7 +204,7 @@ Ein Teil der unwillkürlichen Muskulatur wird durch das sympathische Nervensyste
 
 Der Sitz des menschlichen Geistes befindet sich in erster Linie in der Zirbeldrüse und in zweiter Linie im Gehirn und dem zerebrospinalen Nervensystem, das die willkürlichen Muskeln steuert.
 
-#### DAS BLUT:
+#### <h4 id="the-blood">Das Blut:</h4>
 
 Das Studium des Blutes ist sehr tiefgründig, weitreichend und von höchster Bedeutung, egal aus welchem Blickwinkel wir es analysieren. Luzifer hatte entschieden recht, als er sagte, dass "das Blut eine höchst eigentümliche Essenz ist". Es baut den physischen Körper von der Einlagerung des Samenkorns in die Eizelle bis zum Reißen der silbernen Schnur am Ende der materiellen Existenz auf, da es eines der höchsten Produkte des Vitalkörpers und der Träger der Nahrung für jeden Teil des Körpers ist. Es ist das direkte Vehikel des Egos, in das jeder Gedanke, jedes Gefühl und jede Emotion, die an die Lungen übertragen werden, eingespeist werden.
 
@@ -244,7 +248,7 @@ Das Blut ist jetzt anders zusammengesetzt als in den früheren Zeitaltern der me
 
 Wenn jemand getötet wird, haftet das Venusblut mit seinen Unreinheiten eng am Fleisch, und deshalb ist das arterielle Blut, das fließt, deutlich magerer als es sonst wäre. Das gereinigte Blut Jesu, das durch den großen Christusgeist veräußert wurde, überflutete die Welt, reinigte die ätherische Region weitgehend von Selbstsucht und gab dem Menschen eine bessere Chance, Materialien zu sich zu ziehen, die ihm erlauben, altruistische Ziele und Wünsche zu bilden.
 
-#### DIE ABFLUSSLOSEN DRÜSEN:
+#### <h4 id="Die Abflusslosen Drüsen">DIE ABFLUSSLOSEN DRÜSEN:</h4>
 
 Der esoterische Astrologe weiß sehr wohl, dass der menschliche Körper eine ungeheure Entwicklungszeit hinter sich hat und dass dieser herrliche Organismus das Ergebnis eines langsamen Prozesses des allmählichen Aufbaus ist, der immer noch andauert und jede Generation besser als die vorhergehende machen wird, bis er in einer weit entfernten Zukunft ein Stadium der Vollendung erreicht haben wird, von dem wir nicht einmal träumen können. Die tieferen Schüler verstehen auch, dass der Mensch außer dem physischen Körper noch feinere Vehikel hat, die von der großen Mehrheit der Menschen noch nicht gesehen werden, obwohl alle einen latenten sechsten Sinn in sich tragen, durch den sie mit der Zeit diese feineren Hüllen der Seele erkennen werden.
 
@@ -254,17 +258,12 @@ Der Vitalkörper wurde in der Sonnenperiode entwickelt. Seit dieser Zeit hat sic
 
 Wir kennen das hermetische Axiom "Wie oben, so unten", das der Hauptschlüssel zu allen Geheimnissen ist, und so wie es auf der Erde, dem Makrokosmos, viele unentdeckte Orte gibt, so finden wir auch im Mikrokosmos des Körpers unbekannte Länder, die für die wissenschaftlichen Forscher ein geschlossenes Buch sind. An der Spitze steht eine kleine Gruppe der sogenannten "duktilen Drüsen", sieben an der Zahl, nämlich:
 
-Die Hypophyse, regiert von Uranus.
-
-Die Zirbeldrüse, regiert von Neptun.
-
-Die Schilddrüse, regiert von Merkur.
-
-Die Thymusdrüse, regiert von Venus.
-
-Die Milz, regiert von der Sonne.
-
-Die beiden Nebennieren, regiert von Jupiter.
+Die Hypophyse, regiert von Uranus.  
+Die Zirbeldrüse, regiert von Neptun.  
+Die Schilddrüse, regiert von Merkur.  
+Die Thymusdrüse, regiert von Venus.  
+Die Milz, regiert von der Sonne.  
+Die beiden Nebennieren, regiert von Jupiter.  
 
 Sie sind für Okkultisten von großem und besonderem Interesse und können in gewissem Sinneals "die sieben Rosen" auf dem Kreuz des Körpers bezeichnet werden, denn sie sind eng mit der okkulten Entwicklung der Menschheit verbunden. Vier von ihnen, die Thymusdrüse, die Milz und die beiden Nebennieren, sind mit der Persönlichkeit verbunden. Die Hypophyse und die Zirbeldrüse sind besonders mit der spirituellen Seite unserer Natur verbunden, und die Schilddrüse bildet das Bindeglied zwischen ihnen. Das astrologische Herrscherhaus ist wie folgt:
 
@@ -280,13 +279,12 @@ Dass die Schilddrüse unter der Herrschaft von Merkur, dem Planeten der Vernunft
 
 Die Wissenschaftler haben viel Zeit mit Spekulationen über das Wesen und die Funktion dieser beiden kleinen Körper, der Hypophyse und der Zirbeldrüse, verschwendet, aber ohne Erfolg, und zwar hauptsächlich deshalb, weil, wie Mephistopheles so sarkastisch zu dem jungen Mann sagt, der bei Faust Wissenschaft studieren will:
 
+```
 "WER WÜRDE JE ETWAS LEBENDIGES KENNEN UND BEHANDELN
-
 SUCHT ZUERST DEN LEBENDIGEN GEIST VON DANNEN ZU TREIBEN;
-
 DANN SIND DIE LEBLOSEN FRAGMENTE IN SEINER HAND;
-
 ES FEHLT IHM, LEIDER! DAS BAND DES LEBENDIGEN GEISTES."
+```
 
 Niemand kann die physiologischen Funktionen eines Organs unter Bedingungen wie im Labor, auf dem Operationstisch oder in der Sezier- oder Vivisektionskammer wirklich und wahrhaftig beobachten. Um zu einem angemessenen Verständnis zu gelangen, muss man notwendigerweise sehen, wie diese Organe ihre physiologischen Funktionen IM LEBENDIGEN KÖRPER ausüben, und das kann man nur mit Hilfe des geistigen Sehens. Es gibt eine Reihe von Organen, die entweder verkümmern oder sich entwickeln; die ersteren zeigen den Weg an, den wir während unserer vergangenen Entwicklung bereits zurückgelegt haben, die letzteren sind Fingerzeige, die unsere zukünftige Entwicklung anzeigen. Aber es gibt noch eine andere Klasse von Organen, die weder degenerieren noch sich entwickeln; sie sind derzeit einfach (geistig) ruhend. Die Physiologen glauben, dass die Hypophyse und die Zirbeldrüse verkümmern, weil sie diese Organe bei einigen niederen Lebewesen, wie z.B. den Würmern, stärker entwickelt finden, aber in Wirklichkeit liegen sie mit ihren Vorstellungen falsch. Einige haben auch vermutet, dass die Zirbeldrüse in irgendeiner Weise mit dem Verstand zusammenhängt, weil sie nach dem Tod bestimmte Kristalle enthält und die Menge bei geistig gestörten Menschen viel geringer war als bei Menschen mit normaler Mentalität. Diese Schlussfolgerung ist richtig, aber der Seher weiß, dass der Wirbelsäulenkanal der Lebenden nicht mit FLÜSSIGKEIT gefüllt ist, dass das Blut nicht FLÜSSIGKEIT ist, und dass diese Organe keine Kristalle enthalten, wenn der Körper lebt.
 
@@ -298,7 +296,7 @@ Seitdem sind die Zirbeldrüse und die Hypophyse vorübergehend in einen (geistig
 
 In der Zukunft werden die duktilen Drüsen eine herausragende Rolle spielen; ihre Entwicklung wird die Evolution stark beschleunigen, denn ihre Wirkungen sind hauptsächlich geistig und spirituell. Wir nähern uns jetzt dem Wassermannzeitalter; die Sonne beginnt daher, die hochintellektuellen Schwingungen dieses Zeichens zu übertragen, was die Intuitionen, Vorahnungen und telepathischen Übertragungen erklärt, die jetzt so weit verbreitet sind. Letztlich sind diese Phänomene auf das Erwachen der Hypophyse zurückzuführen, die von Uranus, dem Herrscher des Wassermanns, regiert wird, und mit jedem Jahr, das vergeht, werden sie deutlicher.
 
-#### DAS LYMPHATISCHE SYSTEM:
+#### <h4 id="the-lymphatic-system">Das lymphatische System:</h4>
 
 Das Lymphsystem ist röhrenförmig und steht in engem Zusammenhang mit den Kapillaren, die den venösen und den arteriellen Kreislauf verbinden und in den großen Venen in der Nähe des Herzens enden. Die Lymphe, die in seinen Kanälen fließt, tritt in eine Richtung aus, nämlich in Richtung des Zentrums des Kreislaufs, des Herzens. Sie wird als ein System kleiner Abwasserkanäle für den Körper angesehen, weil sie das Schalenwasser der Gewebe auffängt, nachdem sie alle in der Lymphe gebadet wurden, die sie transportiert. Wenn man sich die Röhren als Entwässerungskanäle vorstellt, die den Geweben das Spülwasser entziehen, kann man sich diese Lymphdrüsen als Schleusen entlang der Kanäle vorstellen, an denen der Lymphstrom anhalten und auf seinem Weg zum Venusblutstrom gefiltert werden muss.
 
@@ -308,9 +306,9 @@ Jedes der Lymphgefäße durchläuft auf seinem Weg zu seinem Ziel in den Venen e
 
 Die Drüsen können kränklich sein, weil die Lymphe, die durch sie fließt, giftig ist. Das Lymphsystem ist dreigliedrig: Es sammelt die Lymphe aus den Geweben, den Gallensaft aus dem Darm, nachdem er bei der Verdauung entstanden ist, und stellt mit Hilfe der Lymphdrüsen Lymphzellen her, die mit den weißen Blutkörperchen identisch sind.
 
-### KAPITEL 2. DER VITALKÖRPER
+### <h3 id="chapter-2">Kapitel II: Der Vitalkörper</h3>
 
-#### ENTWICKLUNG UND ALLGEMEINE ZWECKE:
+#### <h4 id="evolution-and-general-purpose">Entwicklung und allgemeine Zwecke:</h4>
 
 Der Vitalkörper ist das zweitälteste unserer Vehikel, dessen ursprünglicher Keim von den Herren der Weisheit in der Sonnenperiode gegeben wurde. In der Sonnenrevolution der Mondperiode wurde er modifiziert, um ihn fähig zu machen, von einem Wunschkörper durchdrungen zu werden und sich auch an das Nervensystem, die Muskeln, das Skelett usw. anzupassen.
 
@@ -322,7 +320,7 @@ Der dichte Körper wird während des vorgeburtlichen Lebens in die Matrix des Vi
 
 Er durchdringt den dichten Körper und reicht etwa eineinhalb Zentimeter über seine Peripherie hinaus. In seiner Beschaffenheit kann der Vitalkörper grob mit einem jener Bilderrahmen verglichen werden, die aus Hunderten von kleinen Holzstückenbestehen, die ineinandergreifen und dem Betrachter unzählige Punkte präsentieren. Die Punkte des Vitalkörpers dringen in die hohlen Zentren der dichten Atome ein und durchdringen sie mit einer vitalen Kraft, die sie in eine höhere Schwingung versetzt als das Mineral der Erde, das nicht auf diese Weise beschleunigt und beseelt ist.
 
-#### DIE ETHER UND IHRE FUNKTIONEN:
+#### <h4 id="the-ethers-and-their-functions">Die Ether und ihre Funktionen:</h4>
 
 Wenn wir den Menschen analysieren, stellen wir fest, dass in ihm alle vier Äther (der chemische, der Lebens-, der Licht- und der Reflexionsäther) in dem hoch organisierten Lebenskörperdynamisch aktiv sind. Durch die Aktivitäten des chemischen Äthers ist er in der Lage, Nahrung aufzunehmen und zu wachsen; die im Lebensäther wirkenden Kräfte ermöglichen es ihm, seine Spezies fortzupflanzen; die Kräfte des Lichtäthers versorgen den dichten Körper mit Wärme, wirken auf das Nervensystem und die Muskeln und öffnen so die Türen der Kommunikation mit der Außenwelt durch die Sinne; und der reflektierende Äther ermöglicht es dem Geist, seine Träger durch Gedanken zu kontrollieren. Dieser Äther speichert auch vergangene Erfahrungen als Erinnerung.
 
@@ -348,7 +346,9 @@ Nur ein kleiner Teil des Äthers, den sich ein bestimmtes Ego aneignet, wird auf
 
 Die westliche Weisheitsschule lehrt als ihre grundlegende Maxime, dass "alle okkulte Entwicklung mit dem Vitalkörper beginnt". Der Teil des Vitalkörpers, der aus den beiden höheren Äthern, dem Lichtäther und dem reflektierenden Äther, gebildet wird, ist das, was wir den SEELENKÖRPER nennen können; das heißt, er ist enger mit dem Wunschkörper und dem Verstand verbunden und auch der Berührung durch den Geist zugänglicher als die beiden niederen Äther. Er ist das Vehikel des Intellekts und verantwortlich für alles, was den Menschen zum Menschen macht. Unsere Beobachtungen, unser Streben, unser Charakter usw. sind auf das Wirken des Geistes in diesen beiden höheren Äthern zurückzuführen, die je nach der Art unseres Charakters und unserer Gewohnheiten mehr oder weniger leuchtend werden. So wie der dichte Körper Nahrungsteilchen aufnimmt und dadurch an Fleisch zunimmt, so nehmen die beiden höheren Äther unsere guten Taten während des Lebens auf und nehmen dadurch ebenfalls an Volumen zu. Je nach unseren Taten in diesem Leben vermehren oder vermindern wir also das, was wir bei unserer Geburt mitgebracht haben. Das ist der Grund, warum die westliche Weisheitslehre sagt, dass ALLE MYSTISCHE ENTWICKLUNG MIT DEM VITALKÖRPER BEGINNT. 
 
-### KAPITEL 3. DER WUNSCHKÖRPER UND DER GEIST
+### <h3 id="chapter-3">KAPITEL 3. Der Wunschkörper und der Geist</h3>
+
+#### <h4 id="the-desire-body">Der Wunschkörper</h4>
 
 In der dritten Revolution der Mondperiode strahlten die Herren der Individualität aus sich selbst die Substanz aus, die sie dem unbewussten, sich entwickelnden Menschen halfen, sich einen keimhaften Wunschkörper anzueignen und aufzubauen. Sie halfen ihm auch, diesen keimhaften Wunschkörper in den zusammengesetzten Vitalkörper und den dichten Körper, die er bereits besaß, einzugliedern. Diese Arbeit wurde während der gesamten dritten und vierten Revolution der Mondperiode fortgesetzt.
 
@@ -364,7 +364,7 @@ Im Wunschkörper des richtig geschulten freiwilligen Hellsehers drehen sie sich 
 
 In einer weit entfernten Zukunft wird der Wunschkörper des Menschen ebenso endgültig organisiert sein wie der Vitalkörper und der dichte Körper. Wenn dieses Stadium erreicht ist, werdenwir alle die Macht haben, im Wunschkörper zu funktionieren, wie wir es jetzt im dichten Körper tun.
 
-#### DER GEIST:
+#### <h4 id="the-mind">Der Geist:</h4>
 
 In der atlantischen Epoche der Erdperiode strahlten die Herren des Verstandes aus sich selbst heraus in unser Wesen den Kern des Materials aus, aus dem wir jetzt versuchen, einen organisierten Verstand aufzubauen. Er wurde dem Menschen gegeben, um dem Handeln einen Sinn zu geben, aber da das Ego äußerst schwach und die Begierdennatur stark war, verschmolz der entstehende Verstand mit dem Begierdenkörper; die Fähigkeit der List entstand und war die Ursache für all die Bosheit des mittleren Drittels der atlantischen Epoche.
 
