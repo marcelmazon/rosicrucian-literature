@@ -120,59 +120,17 @@ Oceanside, California, 92054, USA
 - [96. Verlängerung des Lebens der Urtype](#letter-96)
 - [97. Das Gesetz des Erfolges in geistigen Dingen](#letter-97)
 
-### Vorwort
+### <h3 id="foreword">Vorwort</h3>
 
-Max Heindel, ein Mystiker und Okkultist, sandte monatlich während der Dauer von acht Jahren an die Studenten des Rosenkreuzer-Freundeskreises (The Rosicrucian Fellowship) Briefe mit wertvollen Informationen und Erklärungen, die die Ursachen vieler schwieriger Begebenheiten im Alltag betreffen, und zwar im persönlichen Leben wie auch im Völkerleben. Er beschreibt darin ebenso die Möglichkeiten ihrer Lösungen.
+Max Heindel, ein Mystiker und Okkultist, sandte monatlich während der Dauer von acht Jahren an die Studenten des Rosenkreuzer-Freundeskreises (The Rosicrucian Fellowship) Briefe mit wertvollen Informationen und Erklärungen, die die Ursachen vieler schwieriger Begebenheiten im Alltag betreffen, und zwar im persönlichen Leben wie auch im Völkerleben. Er beschreibt darin ebenso die Möglichkeiten ihrer Lösungen. Diese siebenundneunzig Briefe, versandt von Weihnachten 1910 bis Januar 1919, bilden den Inhalt dieses Buches.
 
-Diese siebenundneunzig Briefe, versandt von Weihnachten 1910 bis Januar 1919, bilden den Inhalt dieses Buches.
+Als autorisierter Botschafter der Älteren Brüder des Rosenkreuzer Ordens und immer mit ihnen in Verbindung stehend, war Max Heindel ständig bemüht, Informationen, die sich auf die vergangene, die gegenwärtige und die zukünftige Entwicklung des Lebens und der Formen beziehen, zu erhalten und an seine Schüler weiterzugeben. Unter der Leitung der Brüder des Ordens war er fähig, diese Informationen selbst nachzuprüfen und manche wertvolle Details hinzuzufügen. Die Briefe in diesem Buch werfen viel ergänzendes Licht auf die Rosenkreuzer-Philosophie und geben viele praktische und hilfreiche Hinweise, um ein Leben der christlichen Mystik zu leben.
 
-Als autorisierter Botschafter der Älteren Brüder des Rosenkreuzer Ordens und immer mit ihnen in Verbindung stehend, war Max Heindel ständig bemüht, Informationen, die sich auf die vergangene, die gegenwärtige und die zukünftige Entwicklung des Lebens und der Formen beziehen, zu erhalten und an seine Schüler weiterzugeben. Unter der Leitung der Brüder des Ordens war er fähig, diese Informationen selbst nachzuprüfen und manche wertvolle Details hinzuzufügen.
-
-Die Briefe in diesem Buch werfen viel ergänzendes Licht auf die Rosenkreuzer-Philosophie und geben viele praktische und hilfreiche Hinweise, um ein Leben der christlichen Mystik zu leben.
-
-In einigen dieser Briefe ist ein Hinweis auf eine begleitende Lektion enthalten, da ein jeder dieser Briefe mit einer gedruckten Lektion versandt wurde. Ein großer Teil dieser Lektionen wurden bereits in Buchform publiziert und somit dem Leser dieser Bücher zugänglich. Es handelt sich um die nachstehenden Bücher: "Freimaurerei und Katholizismus", "Das Gewebe des Schicksals", "Mysterien der großen Opern", "Die mystische Auslegung von Weihnachten" und "Nachlese eines Mystikers." Die Lektionen, die noch nicht veröffentlicht sind, sollen in einem späteren zweiten Band von "Nachlese eines Mystikers" aufgenommen werden.
-
-Die Leser dieser Briefe werden gewiß mehr von ihnen haben, wenn sie die entsprechenden Lektionen dazu berücksichtigen.
+In einigen dieser Briefe ist ein Hinweis auf eine begleitende Lektion enthalten, da ein jeder dieser Briefe mit einer gedruckten Lektion versandt wurde. Ein großer Teil dieser Lektionen wurden bereits in Buchform publiziert und somit dem Leser dieser Bücher zugänglich. Es handelt sich um die nachstehenden Bücher: "Freimaurerei und Katholizismus", "Das Gewebe des Schicksals", "Mysterien der großen Opern", "Die mystische Auslegung von Weihnachten" und "Nachlese eines Mystikers." Die Lektionen, die noch nicht veröffentlicht sind, sollen in einem späteren zweiten Band von "Nachlese eines Mystikers" aufgenommen werden. Die Leser dieser Briefe werden gewiß mehr von ihnen haben, wenn sie die entsprechenden Lektionen dazu berücksichtigen.
 
 Wir fühlen, daß wir durch die Herausgabe dieser Briefe an die Welt, einen Beitrag von dauerndem Wert und bleibender Bedeutung leisten. Er wird dem Studenten der Esoterik viel Hilfe auf dem Pfad des Fortschritts geben.
 
-### Wer war Max Heindel
-
-Max Heindel, ein in die geistigen Mysterien Eingeweihter und Botschafter der Rosenkreuzer-Bruderschaft, wurde am 23. Juli 1865 in Dänemark geboren. Er wurde Schiffsingenieur und emigrierte später in die USA. Um 1905 entstand in ihm ein tiefes Interesse am Studium in Metaphysik, weshalb er die nächsten Jahre seine Zeit ganz bewußt der Suche nach geistigen Wahrheiten widmete.
-
-Als er 1907 Deutschland bereiste, trat ein Älterer Bruder des Rosenkreuzer-Ordens, der später sein Lehrer wurde, mit ihm auf den inneren geistigen Ebenen in Kontakt. Er wurde in der Folge in den ätherischen Tempel der Rosenkreuzer geführt, wo ihm jene okkulten Lehren gegeben wurden, die er schließlich in dem Buch "Die Rosenkreuzer- Weltanschauung" niederschrieb. Dieses Buch wurde im November 1909 erstmalig veröffentlicht und erhielt seither eine weltweite Verbreitung und Anerkennung.
-
-Im August 1909 gründete Max Heindel in Oceanside, den USA, den Rosenkreuzer Freundeskreis (The Rosicrucian Fellowship) und widmete bis zum 6. Jänner 1906 seine verbleibenden Jahre dem Verfassen von Büchern sowie dem physischen Aufbau des Hauptquartiers des Freundeskreises. Sein größtes Anliegen war ihm jedoch die Verbreitung der Lehren des esoterischen Christentums, jenen bahnbrechenden geistigen Lehren, die alle Menschen auf das kommende Wassermannzeitalter vorbereiten helfen sollen, wo schließlich alle Nationen in universaler Bruderschaft vereint sein werden.
-
-### Die Rosenkreuzerische Symbolik
-
-"Heilige Symbole, die der Menschheit von Zeit zu Zeit gegeben wurden, sprechen zu dem in unseren Herzen innewohnenden Forum der Wahrheit und erwecken unser Bewußtsein für heilige Ideen, die nicht in Worten gefaßt werden können" Max Heindel.
-
-Das Emblem der Vorbereitungsschule des Rosenkreuzer-Ordens ist ein solches Symbol. Es repräsentiert in seiner Gesamtheit die Manifestation Gottes. Es enthält den Schlüssel zur vergangenen Evolution der Menschheit, ihrer gegenwärtigen Zusammensetzung und ihrer zukünftigen Entwicklung sowie die Methode zur Erlangung derselben.
-
-Der blaue Hintergrund repräsentiert Gott Vater. Der goldene Stern symbolisiert den neugeborenen Christus im geistigen Anwärter und erstrahlt von fünf Punkten: dem Kopf und den vier Gliedmaßen. Die roten Rosen stellen die gereinigte, menschliche Empfindungsnatur auf dem Kreuz der Materie dar, das durch Leiden gereinigte Blut des Anwärters. Die weiße Rose symbolisiert die Reinheit des Herzens und ebenso den Kehlkopf, vermittels den die zukünftige Menschheit das schöpferische Wort sprechen wird. Das weiße Kreuz steht als Entsprechung für den physischen Körper. Der goldene Stern stellt das goldene Hochzeitskleid dar, jenen ätherischen Träger, den der Geist während seiner Lebenszeiten hindurch durch Reinheit und dienen erbaut.
-
-Eine andere Betrachtung zeigt, daß das Kreuz gleichsam die pflanzlichen, tierischen und menschlichen Lebenswogen anzeigt. Das untere Glied steht für das Pflanzenreich, das seine Nahrung durch die Wurzel aufnimmt. Die geistigen Ströme fließen vom Erdmittelpunkt in die Pflanze ein. Der Mensch stellt das obere Glied des Kreuzes dar, denn in ihn treten die geistigen Schwingungen der Sonne durch den Kopf ein. Die Tiere hingegen werden durch die horizontal verlaufende Ströme ernährt, die unsere Erde umkreisen.
-
-Die Lampe der Weisheit und das Herz zeigen die zwei Gruppen der sich entwickelnden Menschheit. Die einen folgen dem Weg des Intellekts bzw. des Verstandes (Okkultisten), die anderen hingegen dem Pfad der Liebe (Mystiker). Da es aber in der Natur keine Widersprüche geben darf, müssen Herz und Intellekt fähig werden, sich zu vereinen. Die schließliche Einheit von Herz und Verstand wird ein Zeichen der künftigen Menschheit sein.
-
-Am unteren Ende des Umschlags befindet sich das fleu-de-lis, das Emblem der Dreieinigkeit Vater, Sohn und heiliger Geist. Da jedoch damals nur der Vater und der heilige Geist gegenwärtig waren, finden wir auch zwei der Blätter in roter Farbe, die uns Energie anzeigt.
-
-Die beiden Teile, die als nach oben fließende Ströme dargestellt sind, sind mit zwei Körpern, den dichten Körper und den Lebensleib, versehen. Der Empfindungsleib wird diesen nach einer gewissen Zeit hinzugefügt, was durch die rote Farbe im aufsteigenden Strom ersichtlich ist.
-
-Obwohl ein Strom dem anderen äußerlich sehr ähnlich zu sein scheint, besteht dennoch ein gewaltiger Unterschied zwischen den beiden. Der an der linken Seite ist in unserer Literatur als die Söhne Kains bekannt, die voll positiver Energie sind. Sie sind die Handwerker dieser Welt, die Frei-maurer, die sich ihren Weg durch das Leben erkämpfen und die dabei antreffenden Hindernisse begrüßen, wissend, daß diese ihren Charakter stärken. Sie arbeiten durch den Intellekt, was durch die Lampe dargestellt wird, aus deren Flamme neun Strahlen ausgehen, die den positiven oder dynamischen Pfad anzeigen, der durch den esoterischen Studenten gewählt wurde. Der andere Strom entwickelt die Herzseite des Lebens, und die göttliche Flamme, die von dem Herzen ausströmt, zeigt uns durch die acht Strahlen den negativen oder passiven Pfad, weil all jene, die diesem zu folgen wünschen, einen Führer haben sollten, jemanden, den man verehrt. Das sind die Mitglieder der weltweiten Kirchen, die den Lehren ihrer Führer gehorchen.
-
-Jeder Lebensstrom fließt weiter, Seite an Seite, bis eine Zeit kommt, wo die Wissenden und Liebenden, die diese Evolution leiten, eine Entscheidung hinsichtlich der Vereinigung dieser beider Ströme treffen, die notwendig ist, um deren Fortschritt zu beschleunigen. Sie planen, dies zu verwirklichen durch den Bau eines Tempels für die Anbetenden, der durch die Handwerker vollbracht wurde, damit sich schließlich beide in dem mystischgeschmolzenen Meer vereinigen können. An den beiden Seiten können wir den wunderbaren Impuls des mystischen Kelches ersehen, der sich aus beiden Strömen erhebt und der mit dem roten Wein des Lebens gefüllt ist.
-
-Diese Geschichte kann man in dem Bau von Salomons Tempel nachlesen. Gemäß der Freimaurerlegende wurde dieser Bau durch die Söhne Seths vereitelt, also von jenen, die auf der rechten Seite dargestellt sind, worauf sie sich beide voneinander weiter als jemals zuvor entfernten.
-
-Nun zeigt sich eine ernsthafte Situation, denn es scheint, als würden einige durch den Materialismus vollkommen vom Pfad abfallen. Und doch lebt die Rasse weiter. Der Kirchenbekenner und der Wissenschaftler, der Mystiker und der Okkultist, beide verfolgen ihren Weg unabhängig vom anderen. Bis nun ein solcher Tiefstpunkt des Materialismus erreicht ist, sehen die großen Führer sehr ernsthafte Gefahren auf die Menschheit zukommen. Um nun den Evolutionsplan vor einem Scheitern zu bewahren, wird es gestattet sein, einen großen Teil der menschlichen Körper zu vernichten. Wenn dies eintritt, wird es für eine Zeit lang den Anschein haben, als würde die Menschheit auf der Erde ausgelöscht werden, doch wird dieses Unglück den gewünschten Effekt erzielen. Man beachte dazu den Bruch in jedem Strom. Nach diesem Bruch können wir wieder die große Kraft erkennen, und ein jeder Strom eilt nun dem anderen entgegen, wo sie sich dann in kurzer Zeit als ein Gemeinsames vereinen können.
-
-Am unteren Teil der Seite finden wir ein weiteres Symbol, so klein, daß man es vielleicht übersehen könnte. Hier finden wir ein kleines schwarzes Kreuz, das den dichten Körper darstellt. In dem sich ausdehnenden Kopf des Kreuzes sehen wir ein Herz. Herz und Kopf haben sich vereint. Das Resultat sehen wir in dem sich ausbreitenden Strahl, dem sich daraus ergebenden Seelenleib.
-
-Im Zentrum der Seite finden wir das Rosenkreuz. Der untere Teil des Kreuzes stellt das pflanzliche Leben dar, das sich durch die Wurzeln ernährt. Auch die Menschheit war einst einmal pflanzenähnlich. Der waagrechte Balken in der Mitte symbolisiert unsere Reise durch ein tierähnliches Stadium mit horizontalen Rückgrat. Der obere Teil ist das Symbol für den menschlichen Intellekt, der ein menschliches Merkmal ist, und der strahlende Stern steht für das goldenen Hochzeitskleid, das uns göttlich machen wird.
-
-### Brief Nr. 1 - Weihnachten 1910 - Freundschaft als Ideal
+### <h3 id="letter-1">Brief Nr. 1 - Weihnachten 1910 - Freundschaft als Ideal</h3>
 
 In einer religiösen Bewegung ist es Sitte, sich mit "Bruder" und "Schwester" anzureden in Erkenntnis der Tatsache, daß wir Kinder Gottes sind, der unser gemeinsamer Vater ist. Jedoch harmonieren Brüder und Schwestern nicht immer miteinander. Manchmal hassen sie sich sogar. Aber zwischen Freunden kann kein anderes Gefühl als Liebe sein.
 
@@ -186,7 +144,7 @@ Denken Sie bitte bei Ihren Andachten an mich und seien Sie versichert, daß auch
 
 Ich füge die erste Lektion bei und hoffe, daß das oben Gesagte zwischen uns eine aufrichtige, freundschaftliche Beziehung begründen möge.
 
-### Brief Nr. 2 - Februar 1911 - Seelenwachstum durch Taten
+### <h3 id="letter-2">Brief Nr. 2 - Februar 1911 - Seelenwachstum durch Taten</h3>
 
 Hoffentlich haben Sie die Weihnachtslektion gründlich studiert und sind gut vertraut mit dem Phänomen der geistigen Ebbe und Flut im Weltall, so daß Sie imstande sein werden, Ihren Glauben an die Heilige Nacht zu begründen. In der Lektion dieses Monats wird der Gedanke zu einem Abschluß weitergeführt, der früher nicht öffentlich gelehrt wurde. In dieser kleinen Lektion sind noch andere Lehren enthalten, die auf das Wunder der unbefleckten Geburt ein klareres Licht werfen, als jemals zuvor, und ich hoffe, daß Sie sie während des kommenden Monats fleißig studieren werden, so daß Sie die erhabene Schönheit der Rosenkreuzerlehren über dieses Thema vollauf begreifen können.
 
@@ -198,7 +156,7 @@ Im kommenden Monat, lieber Freund, lassen Sie uns die Befolgung dieses Wortes "w
 
 Möge Gott Sie reichlich segnen und Sie in Ihren Bemühungen stärken.
 
-### Brief Nr. 3 - März 1911 - Selbstloser Dienst an anderen
+### <h3 id="letter-3">Brief Nr. 3 - März 1911 - Selbstloser Dienst an anderen</h3>
 
 Nun haben Sie die verschiedenen Lehren des Rosenkreuzer-Ordens wohl schon einigermaßen in sich aufgenommen, und wenn ich mich an Sie wende, ist es nicht, als würde ich zu einem Fremden sprechen, der mit den Lehren nicht vertraut ist oder vielleicht sogar die Existenz eines solchen Ordens anzweifelt. Diese Lehren haben sich während der letzten zwei Jahre mit Windeseile in der westlichen Welt verbreitet, und das allein zeigt eine Macht hinter ihnen, die nicht von gewöhnlicher menschlicher Art ist. Sie werden dies wahrscheinlich besser verstehen, nachdem Sie die Lektion für diesen Monat gelesen haben, die sich mit diesem geheimnisvollen Orden befaßt und seine Beziehung zum Rosenkreuzer Freundeskreis zeigt.
 
@@ -206,25 +164,21 @@ Haben Sie sich schon jemals gefragt, mein lieber Freund, was Sie eigentlich an d
 
 Es können nicht die Lehren sein, denn diese sind der ganzen Welt zugänglich und werden bejaht von manchen, die nicht gewünscht haben, als Studenten bei uns eingetragen zu sein. Es ist auch nicht die Eintragung als Student, die das innere Band schafft, denn manche studieren nur um ihrer selbst willen und haben keine Gemeinschaft mit uns übrigen. Vielmehr ist es der Dienst, den wir verrichten und die Ernsthaftigkeit, mit der wir die Lehren anwenden und durch die wir lebende Beispiele werden von jener brüderlichen Liebe, von der Christus sprach als der Erfüllung aller Gesetze.
 
-Vorigen Monat nahmen wir als Motto den Gedanken, daß, wenn eine bestimmte Aufgabe verrichtet werden muß, die offenbar niemand besonderem zukommt, wir sagen sollten: "Warum nicht ich?" anstatt sie jemand anderem zu überlassen oder sie gar ungetan zu lassen.
-
-Ich habe das Vertrauen, daß Sie diesen selbstlosen Dienst oft verrichten und dadurch die Bande des Freundeskreises festigen.
+Vorigen Monat nahmen wir als Motto den Gedanken, daß, wenn eine bestimmte Aufgabe verrichtet werden muß, die offenbar niemand besonderem zukommt, wir sagen sollten: "Warum nicht ich?" anstatt sie jemand anderem zu überlassen oder sie gar ungetan zu lassen. Ich habe das Vertrauen, daß Sie diesen selbstlosen Dienst oft verrichten und dadurch die Bande des Freundeskreises festigen.
 
 In diesem kommenden Monat möchte ich Sie bitten, sich durch Gedanken und Bemühungen der Verbreitung der Lehren der Bruderschaft zu widmen. Versuchen Sie nicht, irgend jemand gegen seinen Willen zu überzeugen oder zu bekehren, sondern in unauffälliger Weise herauszufinden, was ihn seelisch bedrückt. Dann versuchen Sie, ihm mit unseren Lehren zu helfen. Ob Sie ihm dann sagen, woher Sie sie haben oder nicht, das muß von Ihrem eigenen Urteil abhängen. Die Hauptsache ist, die Lehren zu verbreiten und nicht, den Rosenkreuzer Freundeskreis bekanntzumachen.
 
-### Brief Nr. 4 - April 1911 - Eintreten für die Kirche
+### <h3 id="letter-4">Brief Nr. 4 - April 1911 - Eintreten für die Kirche</h3>
 
 Vorigen Monat versprach ich weitere Aufklärung über den Rosenkreuzer-Orden und seine Beziehung zum Freundeskreis, vergaß jedoch, daß Ostern vor der Tür stand und vorrangige Aufmerksamkeit verlangte. Sie geben gewiß zu, daß es wichtiger ist, sich mit diesem großen kosmischen Ereignis zu befassen, zumal wir in einem christlichen Land leben und, wie ich hoffe, auch in unserem Inneren Christen sind. In der Tat, lieber Freund, das Losungswort dessen, was ich in diesem Monat zu sagen habe, ist wirklich ein Eintreten für die Kirche. Im Hinblick darauf habe ich das Gedicht "Credo oder Christus?" an das Ende der Lektion gesetzt.
 
-Wir alle sind werdende Christen, die Liebesnatur entfaltet sich in uns allen. Warum sollen wir uns da nicht anschließen an die eine oder andere der christlichen Kirchen, die das christliche Ideal pflegen?
-
-Einige der besten Arbeiter unseres Freundeskreises sind Mitglieder und sogar Pfarrer von Kirchengemeinden. Viele sind hungrig nach unserer Nahrung. Wir können sie nicht mit ihnen teilen, wenn wir fernab stehen, und wir schaden uns selbst, wenn wir die große Gelegenheit, an der Förderung der Kirche mitzuarbeiten, nicht benutzen.
+Wir alle sind werdende Christen, die Liebesnatur entfaltet sich in uns allen. Warum sollen wir uns da nicht anschließen an die eine oder andere der christlichen Kirchen, die das christliche Ideal pflegen? Einige der besten Arbeiter unseres Freundeskreises sind Mitglieder und sogar Pfarrer von Kirchengemeinden. Viele sind hungrig nach unserer Nahrung. Wir können sie nicht mit ihnen teilen, wenn wir fernab stehen, und wir schaden uns selbst, wenn wir die große Gelegenheit, an der Förderung der Kirche mitzuarbeiten, nicht benutzen.
 
 Natürlich ist das kein Zwang. Es wird nicht von Ihnen verlangt, daß Sie einer Kirche angehören oder Gottesdienste besuchen. Aber wenn Sie dort im Geiste der Hilfsbereitschaft hingehen, so kann ich Ihnen versprechen, daß sie in kurzer Zeit ein wundervolles Seelenwachstum erfahren werden. Die großen, berichterstattenden Engel, die jedem Volk die Religion geben, die für dessen Bedürfnisse am besten paßt, setzten uns in ein christliches Land, weil die christliche Religion uns im Seelenwachstum helfen kann. Auch wenn wir zugeben, daß sie durch Glaubensbekenntnisse und Dogmen verdüstert ist, so darf uns das doch nicht hindern, jene Lehren, die gut sind, anzunehmen. Das wäre gerade so töricht, als wenn wir unsere Aufmerksamkeit auf die Flecken in der Sonne richteten und uns weigerten, ihr strahlendes Licht zu sehen.
 
 Bitte denken Sie über diesen Punkt nach, lieber Freund, und lassen Sie uns als Motto dieses Monats Größere Nützlichkeit nehmen, damit wir reichlich wachsen dadurch, indem wir unsere Gelegenheiten zu verbessern trachten.
 
-### Brief Nr. 5 - Mai 1911 - Der Wert des rechten Fühlens
+### <h3 id="letter-5">Brief Nr. 5 - Mai 1911 - Der Wert des rechten Fühlens</h3>
 
 Ich hoffe, Sie haben an der letzten Lektion Freude gehabt. Vielleicht klingt es seltsam, aber ich selbst habe förmlich darin geschwelgt, denn es erregte meine Andacht ganz mächtig, als ich darüber nachdachte, wie das göttliche Leben sich regelmäßig ausgießt für uns, damit wir ein Leben größerer Fülle haben können. Ohne den jährlichen Zustrom von Gottes Leben würde alles Leben, oder richtiger alle Form aufhören zu existieren. Indem wir die höheren Strömungen mit dem Gefühl erfassen, kommen wir am leichtesten voran. Es ist gut, zu lernen und unseren Intellekt (Verstand) zu entwickeln, aber in unserem Zeitalter besteht die große Gefahr, in die Maschen des Intellekts verwickelt zu werden. Paulus traf den Nagel auf den Kopf, als er sagte: "Das Wissen bläht auf, aber die Liebe bessert". Wir alle haben den Wunsch, zu wissen. Es ist natürlich, daß wir ihn haben. Aber wenn unser Wissen nicht dazu dient, uns zu besseren Menschen, zu besseren Dienern unserer Mitmenschen zu machen, dann macht es uns nicht größer in den Augen Gottes. Daher ist eine Pflege im rechten Fühlen von ungeheurer Wichtigkeit und ich hoffe aufrichtig, daß Sie die Osterlektion gefühlt haben, denn das ist die einzige Weise, um den vollen Segen davon zu haben.
 
@@ -234,7 +188,7 @@ Ich hoffe, Sie werden diese Lektion lange Zeit als Gegenstand der Meditation neh
 
 Möge Gott Sie reichlich segnen und Ihnen die Fülle Seines Reichtums geben, der alle irdischen Freuden übersteigt, und mögen Sie die Welle der Liebe, die Er Jahr für Jahr von neuem ausströmt, als eine Wirklichkeit fühlen. Dann werden Sie niemals einsam sein, auch wenn Sie alleine sind. Sie werden dann um so viel reicher ganz gleich, wieviel Sie mit irdischer Liebe gesegnet sind und um so viel leichter imstande sein, jenes erhabenste aller Gefühle, nämlich geistige Liebe auszustrahlen.
 
-### Brief Nr. 6 - Juni 1911 - Heilung der Kranken
+### <h3 id="letter-6">Brief Nr. 6 - Juni 1911 - Heilung der Kranken</h3>
 
 Christus gab seinen Jüngern zwei Gebote, als Er sagte: "Predigt das Evangelium und heilet die Kranken." In der Lektion des vorigen Monats sahen wir, wie eng das Amt des geistigen Beraters verknüpft ist mit der Heilung körperlicher Beschwerden. Wenn auch die unmittelbare und sichtbare Ursache der Krankheit körperlich sein mag, letzten Endes stammen alle Beschwerden aus der Übertretung der Gesetze Gottes, die wir gewöhnlich, wegen unseren materialistischen Versuchen, das Göttliche daraus zu entfernen, Naturgesetze nennen. Mit einer selten anzutreffenden geistigen Auffassung sagte Bacon: "Gott und die Natur unterscheiden sich nur wie das Siegel und der Abdruck." Wie weicher Siegellack zu den harten Linien des Siegels geformt wird, so paßt sich auch die Natur den unwandelbaren Gesetzen ihres göttlichen Schöpfers an, und daher sind Gesundheit und sorgenfreie Lebensbedingungen in den niederen Naturreichen die Regel. Wenn aber das menschliche Niveau erreicht wird, wenn die Individualität entwickelt wird und wir beginnen, nach Wahlfreiheit und Vorrechten zu verlangen, dann sind wir geneigt, die göttlichen Gesetze zu übertreten, worauf das Leiden unweigerlich folgt.
 
@@ -248,7 +202,7 @@ In dem oben Gesagten haben Sie den wichtigen Grund, warum wir vom geistigen Stan
 
 Wir haben dieses schöne Fleckchen Erde "Mount-Ecclesia" genannt. Mit Hilfe eines Baufonds haben wir begonnen, geeignete Gebäude zu errichten: Eine Heilungsschule, ein Sanatorium und zu guter letzt einen Tempel, in dem die geistige Heilkraft bereitet und über die ganze Welt gesandt werden soll, damit sie von besonders qualifizierten Helfern verwendet werden kann.
 
-### Brief Nr. 7 - Juli 1911 - Die Taufe mit Wasser und Geist
+### <h3 id="letter-7">Brief Nr. 7 - Juli 1911 - Die Taufe mit Wasser und Geist</h3>
 
 Im vorigen Monat begannen wir, die Sakramente zu betrachten. Es war meine Absicht, diesen Monat über die Kommunion zu schreiben, aber das Thema hat sich als so ausgedehnt erwiesen, daß beinahe alles dazu gehört, vom ersten Buch Mose bis zur Offenbarung, außerdem eine Anzahl physiologischer Gesichtspunkte, wie die Chemie der Nahrung und das Blut, auch die Luft usw. Ferner ist es untrennbar mit der Wiederkunft Christi verbunden. Es würde mehr Zeit erfordern, als ich habe, um es zu Beginn des Monats herauszubringen, auch würde es sich über mehrere Lektionen erstrecken. Darum hielt ich es für das Beste, dieses Thema nicht vor dem nächsten Monat anzuschneiden. In der Zwischenzeit gebe ich Ihnen eine Lektion aus dem neuen Buch Die Rosenkreuzer-Mysterien. Sie ist teilweise aus dem Kapitel "Das Geheimnis von Licht, Farbe und Bewußtsein" entnommen, und Sie werden sie höchst interessant und lehrreich finden.
 
@@ -258,7 +212,7 @@ So wurde Er mit Liebe erfüllt, und darum strahlte Er naturgemäß diese Eigensc
 
 Die Taufe mit Wasser bezieht sich auf einen vergangenen Zustand, wo wir ohne Verantwortung waren wie das Kind, das wir heute mit in die Kirche nehmen. Aber die Taufe mit Geist ist für die meisten von uns noch etwas Zukünftiges, dasjenige, wonach wir streben. Wir wollen in diesem Monat ganz besondere Aufmerksamkeit auf das dreizehnte Kapitel des ersten Korintherbriefes werfen. Wir wollen uns bemühen, in unserem täglichen Leben wenigstens eine der Tugenden zu üben, von denen Paulus sagt, daß sie zur Erleuchtung führen, so daß wir schließlich dahin gelangen, die Schönheiten der Sakramente, die wir jetzt vielleicht nur undeutlich, wie durch ein dunkles Glas, empfinden, von Angesicht zu Angesicht zu sehen.
 
-### Brief Nr. 8 - August 1911 - Die Beherrschung unserer Sterne
+### <h3 id="letter-8">Brief Nr. 8 - August 1911 - Die Beherrschung unserer Sterne</h3>
 
 Ich hoffe, Sie haben an der letzten Monatslektion über "das Mysterium von Licht, Farbe und Bewußtsein" Freude gehabt und haben nun ein gründlicheres Verständnis für das Wort: "In Ihm leben und weben und sind wir," denn überall im ganzen Weltall, wohin auch immer das Licht hindringt, da ist Gott. Ja sogar an die Stellen, die wir dunkel nennen, weil die Beschaffenheit unserer Augen die Wahrnehmung der dortigen Gegenstände verhindert, während anders beschaffene Sehorgane dort funktionieren können, wie man sich an dem Beispiel von Katzen und Eulen klarmachen kann.
 
@@ -268,12 +222,14 @@ Wir können sogar unseren Intellekt verändern und tun das auch. Wir können ihn
 
 Es ist jedoch die Eigenschaft der Veränderlichkeit der Materie und des Vergehens der Form die Grundlage allen geistigen Fortschritts, denn wenn die Materie unveränderlich wäre wie der Geist, dann gäbe es keine Möglichkeit des Fortschreitens. Solange wir uns von der Flut des Lebens treiben lassen und die Ebbe und Flut der Materie zu und von unserem Organismus nicht bewußt kontrollieren, sind wir ein Spielball der Umstände. Wenn dann ein Strahl des Mars in einem bestimmten Winkel die Atome unseres Körpers trifft, empfinden wir die Streitlust, die er mit sich führt. Ein Saturnstrahl andererseits bringt uns Depressionen, erfüllt uns mit Trübsinn und düsteren Ahnungen. Wenn wir aber reifer werden und zu einem Verständnis des Mysteriums von Licht, Farbe und Bewußtsein gelangen, lernen wir allmählich, unsere Sterne zu beherrschen. Dann werden wir in Übereinstimmung mit den Naturgesetzen zunehmend Herr unseres eigenen Geschickes. Es ist aber von essentieller Bedeutung, daß wir uns stets, wie auch immer die Gestirnskonstellation zu irgend einer Zeit sein möge, selbst behaupten und sagen:
 
-    "Hab ich auch manches abzutragen  
-    an alter Schuld aus alten Tagen,  
-    so weiß ich dennoch: ich allein  
-    kann meines Schicksals Meister sein."  
+```
+"Hab ich auch manches abzutragen  
+an alter Schuld aus alten Tagen,  
+so weiß ich dennoch: ich allein  
+kann meines Schicksals Meister sein."  
+```
 
-### Brief Nr. 9 - September 1911 - Unsichtbare Wächter der Menschheit
+### <h3 id="letter-9">Brief Nr. 9 - September 1911 - Unsichtbare Wächter der Menschheit</h3>
 
 Sie haben in der Lektion über die Taufe gesehen, wie wir zurückgegangen sind bis zu den frühesten Tagen der Evolution auf unserem Planeten, um die Bedeutung des Sakraments zu finden. Sie werden in der letzten Lektion bemerkt haben, daß auch das Sakrament der Kommunion seine Wurzeln in den Anfängen der Zeit hat. So ist zu ersehen, daß wir keinen klaren Begriff über irgend etwas, das die Menschheit betrifft, haben können, wenn wir nicht imstande sind, die vergangene Geschichte des Menschengeschlechts zu durchforschen. Goethe sprach von "dem ewig Werdenden". Wechsel ist der Ursprung des Fortschritts, und wenn wir den Menschen betrachten, wie er jetzt ist, ohne Rücksicht auf das, was er gewesen ist, so können unsere Schlußfolgerungen über seine Zukunft nur sehr beschränkt sein.
 
@@ -285,7 +241,7 @@ Während der vergangenen Zeiten haben wir in der westlichen Welt ganz besonders 
 
 Es ist ein großes Glück, daß eine Anzahl Mitglieder unseres Freundeskreises Mitarbeiter sind in Einrichtungen, die im oben angeführten Sinne geführt werden, und ich hoffe aufrichtig, den Tag zu erleben, wenn eine große Mehrzahl imstande sein wird, Arbeit dieser Art zu verrichten, jeder in seinem Umkreis. Aber fangen Sie Zuhause an, seien Sie freundlich gegen alle, mit denen Sie unmittelbar in Berührung kommen, und wenn Sie für treu befunden werden in kleinen Dingen, werden die größeren Gelegenheiten nicht auf sich warten lassen.
 
-### Brief Nr. 10 - Oktober 1911 - Fleisch und Alkohol
+### <h3 id="letter-10">Brief Nr. 10 - Oktober 1911 - Fleisch und Alkohol</h3>
 
 Es ist charakteristisch für den Menschen, zu loben, was er gerne mag, und das herabzusetzen, wogegen er Abneigung fühlt. Aber ich denke, daß Sie aus der letzten Lektion die eine große und herrliche Tatsache gelernt haben, daß in des Vaters Reich alle Dinge gemeinsam auf das Gute hinarbeiten. Diejenigen unter uns, die mit pflanzlicher Kost zufrieden sind, und die, die kein Bedürfnis nach starken Getränken haben, sind gewöhnlich allzu geneigt, auf unsere Brüder und Schwestern, die noch Fleisch und Alkohol genießen, herabzublicken mit dem Gefühl, "ich bin um soviel heiliger als Du". Aber Sie werden zweifellos aus dem, was in der letzten Lektion gesagt wurde, gemerkt haben, daß ein solches Gefühl gänzlich unberechtigt ist. Fleisch und Alkohol haben einen sehr wesentlichen Anteil am Fortschritt der Welt, und ohne sie würden wir heute viele jener Bequemlichkeiten und Arbeit sparenden Einrichtungen entbehren, die das Leben in der westlichen Welt um soviel leichter machen, als es in den frühen Zeiten war. Ihr Nutzen hat auch heute noch nicht ganz aufgehört. Sie gehören zu den Lebensnotwendigkeiten vieler Völker. Außerdem ist, wie das Bibelbuch sagt, nicht das, was in den Mund hineingeht, das Unreine, sondern das, was aus ihm herauskommt. Das Gefühl hochmütiger Verachtung für diejenigen, die noch Fleisch essen oder dem Alkohol unterworfen sind, wirkt zerstörender auf das Seelenwachstum als das Mitmachen jener Ernährung.
 
@@ -293,7 +249,7 @@ Wir wollen daher nicht andere verurteilen, sondern wir wollen uns in sie hineinv
 
 Es kann jedoch mit Sicherheit gesagt werden, daß wir zuviel Fleisch essen, und wie alle Stickstoffverbindungen, wie Nitroglyzerin, Schießbaumwolle und andere Explosivstoffe, ist Fleischnahrung äußerst unzweckmäßig und gefährlich für den Organismus. Darum werden wir gut daran tun, wenn wir allen, mit denen wir in Berührung kommen, Mäßigkeit anraten. Die Wissenschaft hat genügend Kenntnis von Tatsachen, um ausgedehntes Material zu liefern für jeden, der eine solche Mission unternimmt. Freilich retten wir wenigen Tieren das Leben, wenn wir Mäßigkeit predigen, als es der Fall wäre, wenn wir die Menschen zu einer ganz unblutigen Nahrung bekehren könnten. Wenn wir jedoch bemüht sind, soweit als möglich Leid zu verhüten, so werden wir damit das Beste tun. Wenn es uns außerdem gelingt, den Geist des Mitleids zu erwecken, so wird der Wunsch nach Fleisch bald dahinschwinden vor dem Geist der Liebe.
 
-### Brief Nr. 11 - Oktober 1911 - Vorbereitungen für den Umzug nach Mt. Ecclesia
+### <h3 id="letter-11">Brief Nr. 11 - Oktober 1911 - Vorbereitungen für den Umzug nach Mt. Ecclesia</h3>
 
 Sonntag, den 28. Oktober, genau um zwölf Uhr vierzig mittags nach Pazifikzeit, werden wir auf Mt. Ecclesia den Grundstein legen für das erste Gebäude, für den Wohnsitz des Rosenkreuzer-Freundeskreises. Das Haus wird verhältnismäßig klein sein, und wir sind bemüht, es so billig wie möglich herzustellen, da wir ansonsten gar nicht bauen könnten. Ich verrichtete sowohl die Arbeit des Architekten wie auch des Unternehmers, um Kosten zu sparen. Nichtsdestoweniger betrachten wir diese erste Grundsteinlegung als einen Abschnitt von größter Wichtigkeit in dem jungen Leben unserer Vereinigung, denn wenn auch unsere Wohnräume eng werden, so werden wir doch einen großen Arbeitsraum und Platz für mehrere Hilfskräfte bekommen, bis Mittel zur Errichtung des Tempels und anderer anspruchsvoller Bauten verfügbar werden, die unserer Mission in der Welt würdiger sind.
 
@@ -309,7 +265,7 @@ Aber Sie können noch mehr Tun. Die gesammelten Gedanken vieler Freunde Tag für
 
 Ferner: Wollen Sie mir einmal in einiger Zeit schreiben und mich Ihrer Sympathie und Mithilfe versichern? Ich werde vielleicht nicht antworten und Ihnen persönlich danken, aber Sie können sicher sein, daß mir Ihr Ausdruck guten Willens deshalb nicht weniger wertvoll ist.
 
-### Brief Nr. 12 - November 1911 - Grundsteinlegung für das erste Gebäude auf Mt. Ecclesia
+### <h3 id="letter-12">Brief Nr. 12 - November 1911 - Grundsteinlegung für das erste Gebäude auf Mt. Ecclesia</h3>
 
 Diesen Monat gehe ich von meiner gewöhnlichen Sitte ab, dem Studentenbrief gänzlich einen Rückblick über die vorige Lektion zu widmen, um Ihnen von der Feier zu erzählen, die wir am achtundzwanzigsten Oktober auf Mt. Ecclesia hatten. Es war die Grundsteinlegung für das erste Gebäude auf dem Platz unseres ständigen Hauptquartiers. Gewiß waren Sie im Geiste bei uns und werden nun gerne darüber hören. Ich weiß auch, daß der Bericht uns in engere Fühlung bringen wird.
 
@@ -321,15 +277,15 @@ Wir fertigten ein großes Kreuz an im selben Stil wie unser Emblem, und auf die 
 
 Dieses Kreuz und eine rankende Rose beschlossen wir, gleichzeitig mit der Grundsteinlegung in die Erde zu pflanzen als ein Symbol des Lebens der verschiedenen Reiche, die auf dem Spiralpfad der Evolution nach höheren Sphären wandern.
 
-Am siebenundzwanzigsten reisten meine Frau und ich nach Oceanside, ziemlich erschöpft durch die Anstrengung des Packens und Umziehens. Es fiel der erste Regen des Jahres, und wir waren etwas in Sorge wegen unserer Feier. Als wir aber nach den beinahe völlig hinter Wolken verborgenen Bergen im Osten blickten, sahen wir den größten, herrlichsten Regenbogen, den wir je gesehen hatten, in der Tat, einen doppelten Regenbogen, und sein südlichster Fuß schien direkt über Mt. Ecclesia zu stehen. Schon manchmal schien es uns, als ob die Verantwortung, Tausenden von belasteten Herzen zum tapferen Tragen zu verhelfen, unsere Kraft überstiege, aber immer hatten wir neue Kräfte bekommen, wenn wir den Blick nach innen wandten. Und diesesmal schien es, als ob die ganze Natur uns anspornen wollte und zu uns sprach: "Fasset Mut, bedenktet, daß das Werk nicht Eures ist, sondern Gottes. Vertrauet gänzlich auf Ihn, Er wird Euch den Weg zeigen." So falteten wir die Hände und nahmen uns vor, das herrliche Werk, dessen Zentrum Mt. Ecclesia ist, mit neuer Kraft weiterzuführen.
+Am siebenundzwanzigsten reisten meine Frau und ich nach Oceanside, ziemlich erschöpft durch die Anstrengung des Packens und Umziehens. Es fiel der erste Regen des Jahres, und wir waren etwas in Sorge wegen unserer Feier. Als wir aber nach den beinahe völlig hinter Wolken verborgenen Bergen im Osten blickten, sahen wir den größten, herrlichsten Regenbogen, den wir je gesehen hatten, in der Tat, einen doppelten Regenbogen, und sein südlichster Fuß schien direkt über Mt. Ecclesia zu stehen. 
+
+Schon manchmal schien es uns, als ob die Verantwortung, Tausenden von belasteten Herzen zum tapferen Tragen zu verhelfen, unsere Kraft überstiege, aber immer hatten wir neue Kräfte bekommen, wenn wir den Blick nach innen wandten. Und diesesmal schien es, als ob die ganze Natur uns anspornen wollte und zu uns sprach: "Fasset Mut, bedenktet, daß das Werk nicht Eures ist, sondern Gottes. Vertrauet gänzlich auf Ihn, Er wird Euch den Weg zeigen." So falteten wir die Hände und nahmen uns vor, das herrliche Werk, dessen Zentrum Mt. Ecclesia ist, mit neuer Kraft weiterzuführen.
 
 Der Tag der Feier war ein idealer Kalifornientag. Die Sonne schien von einem wolkenlosen Himmel. Wohin wir auch von Mt. Ecclesia aus blickten: Meer, Täler und Berge schienen zu lächeln. Sowohl die Mitarbeiter, als auch die Mitglieder, die zu Besuch kamen, waren entzückt von der unvergleichlichen Schönheit unseres Platzes. Anwesend waren: Annie R. Atwood aus San Diego, Ruth E. Beach aus Portland - Ore, Rachel M. Cunningham, Rudolf Miller und John Adams aus Los Angeles. Weiters Georg Kramer aus Pittburgh - Pa, Wm. M. Patterson aus Seattle - WA, meine Frau und ich.
 
-Zur festgesetzten Zeit legte ich den Grundstein für das Gebäude. Alle halfen, das Loch für das Kreuz zu graben, das von Wm. Patterson gesetzt wurde. Meine Frau pflanzte die Rose, die dann von allen Anwesenden begossen wurde. Möge sie wachsen und blühen, um die Nacktheit des Kreuzes zu beschmücken, und möge sie eine Inspiration der Reinheit sein, die alle begangenen Sünden bedecken wird, wie dunkel auch das Leben sein mag.
+Zur festgesetzten Zeit legte ich den Grundstein für das Gebäude. Alle halfen, das Loch für das Kreuz zu graben, das von Wm. Patterson gesetzt wurde. Meine Frau pflanzte die Rose, die dann von allen Anwesenden begossen wurde. Möge sie wachsen und blühen, um die Nacktheit des Kreuzes zu beschmücken, und möge sie eine Inspiration der Reinheit sein, die alle begangenen Sünden bedecken wird, wie dunkel auch das Leben sein mag. Die Ansprache, so wie sie gehalten werden sollte, ersetzt die diesmonatige Lektion. Äußere Umstände machten eine Abänderung nötig.
 
-Die Ansprache, so wie sie gehalten werden sollte, ersetzt die diesmonatige Lektion. Äußere Umstände machten eine Abänderung nötig.
-
-### Brief Nr. 13 - Dezember 1911 - Geschlechtliche Reinheit, das Ideal des Abendlandes
+### <h3 id="letter-13">Brief Nr. 13 - Dezember 1911 - Geschlechtliche Reinheit, das Ideal des Abendlandes</h3>
 
 Haben Sie den Hauptpunkt unserer letzten Lektion über das Symbol des Rosenkreuzes, des Kreuzes der abendländischen Weisheitslehren, erfaßt? Es ist geschlechtliche Reinheit.
 
@@ -345,7 +301,7 @@ Während also die mitfühlenden Lehrer, die von den geschorenen Schafen den Wind
 
 Eine neue Rasse ist im Entstehen. Rein gesinnte christliche Männer und Frauen erwachen mehr und mehr für die Ansprüche der Ungeborenen. Laßt uns den Geburtstag unseres Heilandes durch das Gebet feiern, daß "reine" Bedingungen bald überall zu finden und daß alle Kinder gutgeborene sein mögen. Und laßt uns zu guterletzt diese Lehre lehren, predigen und leben.
 
-### Brief Nr. 14 - Januar 1912 - Das kommende Luftzeitalter
+### <h3 id="letter-14">Brief Nr. 14 - Januar 1912 - Das kommende Luftzeitalter</h3>
 
 In der vorhergehenden Lektion findet sich die Staunen erregende Behauptung, daß wir in der nächsten Periode unsere gegenwärtige feste Erde verlassen und in der Luft leben werden, gekleidet in einen ätherischen Körper. Mit diesem Thema hat ein anderer Schriftsteller mir viel Vergnügen bereitet durch eine Reihe von Artikeln von so wilder Einbildungskraft, daß er nach den Ansichten, die mir zu Ohren kamen, einstimmig als der Meister der Erzählungskunst erklärt wurde. Doch bleibt er auf der Erde und seine Tempel sind so fest wie ein Fels. Ich habe gezögert, die oben erwähnte Lehre zu veröffentlichen, bis ich einsah, daß es mir die Pflicht gebot, zu sprechen, selbst wenn einige Studenten mich für phantastisch halten.
 
@@ -359,7 +315,7 @@ Die meisten Christen haben nicht diesen großen Vorteil, aber sie leben trotz al
 
 Wenn wir nur an die Wiederverkörperung glauben, so können wir nichts anderes erwarten, als eine ständige Wiederkehr zur Erde, um mit dem Gesetz Jehovas zu kämpfen. Dann haben wir keinen Anteil an der Liebe Christi. Um die Tatsachen vollkommen zu erfassen, um fähig zu sein, der ganzen Wahrheit gemäß zu leben, müssen wir begreifen, daß Geburt und Tod diesem Zeitalter konkreter Existenz zugehören und verschwinden werden, daß aber das Leben selbst niemals aufhört. Johannes sagte uns sehr genau, "wenn auch noch nicht erschienen ist, was wir sein werden, wir aber wissen, daß wir Ihm gleich sein werden, und daß wir den Tod nicht schmecken werden ewiglich". Und wir sollten diese große Hoffnung fest vor Augen haben und beten, daß das Reich komme, wie der Herr uns gelehrt hat.
 
-### Brief Nr. 15 - Februar 1912 - Die Rolle der Reizmittel in der Evolution
+### <h3 id="letter-15">Brief Nr. 15 - Februar 1912 - Die Rolle der Reizmittel in der Evolution</h3>
 
 Unsere vorige Lektion war die letzte von denen, die sich mit dem Sakrament der Kommunion befaßten. Sie beschrieb, wie der Geist des Alkohols, der außerhalb des Körpers in Gärung gebracht wird, allmählich durch den Zucker ersetzt wird, der im Inneren gärt. Ich hoffe, Sie sehen den Hauptinhalt dieser Lektionen, nämlich, daß ein Reizmittel unumgänglich nötig war, um den menschlichen Geist aus der Lethargie zu reißen, die mit der Fleischnahrung einherging; daß die bacchantischen (ausgelassenen, trunkenen) Orgien in den alten Tempeln, die uns heute geradezu mit Entsetzen erfüllen, damals von unermeßlichem Wert für die menschliche Entwicklung waren; daß das erste Wunder des Christus und sein letztes Mahl eine Austeilung dieses Reizmittels waren; daß Er dessen Gebrauch anordnete, "bis zum Zeitpunkt Seiner Wiederkehr"; daß bei dem steigenden Verbrauch an Zucker der Genuß des Alkohols zurückgeht und dementsprechend das moralische Niveau sich allmählich hebt; daß die Menschen im Verhältnis zu ihrem Gebrauch des nicht trunken machenden Reizmittels altruistischer und christlicher werden, und daß deshalb die Temperenzbewegung (Bewegung der Gegner des Alkoholmißbrauchs) eines der mächtigsten Momente ist, um das Kommen Christi zu beschleunigen.
 
@@ -371,7 +327,7 @@ Im Laufe der Zeit werden auch die Pflanzen mehr Empfindung entwickeln. Die seitl
 
 Wir haben heute beträchtliche Fähigkeiten, mit den chemischen, mineralischen Substanzen zu arbeiten. Wir formen sie zu Häusern, Schiffen und all den anderen Dingen, die von unserer Zivilisation Zeugnis ablegen. Wir sind Herren über das Mineral außerhalb unseres Körpers, aber solange machtlos, um es zu assimilieren und innerhalb des Körpers zur Bildung von Organen zu verwenden, bis das Pflanzenreich die Kristalle in Kristalloide umgewandelt hat. Unsere Arbeit an den Mineralien beschleunigt deren Schwingungen und bahnt den Weg für den direkten inneren Gebrauch. Durch geistige Alchemie werden wir den Tempel des Geistes bauen, die niederen Regionen, aus denen wir kamen, überwinden und uns als treue Baumeister erweisen. Wir werden dann für die Arbeit in höheren Sphären vorbereitet sein.
 
-### Brief Nr. 16 - März 1912 - Die Notwendigkeit der Liebe
+### <h3 id="letter-16">Brief Nr. 16 - März 1912 - Die Notwendigkeit der Liebe</h3>
 
 Da das Thema der Heirat, das die letzte Lektion behandelte, in diesem Monat in gewissem Sinn weiter besprochen wird, so denke ich, daß der Studienbrief dieses Monats vielleicht am zweckmäßigsten einem Punkt gewidmet wird, über den ich längst habe sprechen wollen.
 
@@ -381,7 +337,7 @@ In einer anderen Vereinigung, die auf denselben Gedanken aufgebaut ist, habe ich
 
 Ich erinnere Sie an die Warnung, die von unserem Lehrer in der Rosenkreuzer-Weltanschauung in bezug auf Diagramme gegeben wurde: "Sie sind bestenfalls nur Krücken, um unsere beschränkten Fähigkeiten zu stützen. Wenn wir ein Diagramm herstellen, um geistige Geheimnisse damit zu erklären, so ist das gerade so, wie wenn wir die Räder einer Uhr herausnehmen, sie daneben legen, um zu veranschaulichen, wie die Uhr funktioniert." Wenn auch die Tabellen in einem gewissen Stadium unserer Entwicklung eine wertvolle Hilfe sein können, so müssen wir doch stets ihrer Grenzen eingedenk sein und danach streben, die wahre geistige Idee durch Intuition zu erlangen. Ich fühle also, daß es von größter Wichtigkeit ist, daß sich die Studenten über den wahren Zweck der Rosenkreuzer-Weltanschauung über ihr eigentliches Ziel alle Zeit klar und deutlich bewußt sind. Es steht dies in schwarzen Buchstaben auf den Antwort-Postkarten, und ich möchte jedem Studenten raten, es in großen Lettern zu schreiben und in die Rosenkreuzer-Weltanschauung hineinzukleben, damit es jederzeit sofort ersichtbar ist, sobald das Buch aufgeschlagen wird. Denn wenn wir auch alle Erkenntnisse hätten und alle Geheimnisse wüßten, so wären wir doch nur klingende Schellen, wenn wir nicht die Liebe besäßen um sie darin anzuwenden, unseren Mitgeschöpfen helfend beiseite zu stehen.
 
-### Brief Nr. 17 - April 1912 - Nachzügler der Evolution
+### <h3 id="letter-17">Brief Nr. 17 - April 1912 - Nachzügler der Evolution</h3>
 
 Aus der Belehrung, die die letzte Lektion enthielt, werden Sie verstehen, daß der Gedanke an verlorene Seelen, wie es gewöhnlich angenommen wird, absolut jeder Begründung entbehrt. Nicht ein einziges Wort in der Bibel stützt den Begriff, den wir uns angewöhnt haben, mit dem englischen Wort "forever" (für alle Zeit) zu verbinden. Das griechische Wort ist aionian und bedeutet "eine unbestimmte Zeitspanne, ein Zeitalter". Wenn wir in der Bibel die Worte "für alle Zeit und in Ewigkeit" lesen, sollte lieber übersetzt werden "für Zeitalter und Zeitalter". Da es außerdem eine Wahrheit ist, daß wir "in Gott leben, weben und sind", würde eine verlorene Seele bedeuten, daß ein Teil von Gott verloren geht, was natürlich undenkbar ist.
 
@@ -391,7 +347,7 @@ Nichtsdestoweniger sind es die Luzifergeister, die uns beim Evolutionsfortschrit
 
 So sehen Sie, wie diesen "verlorenen Schafen" eines früheren Zeitalters auf dem gegenwärtigen Evolutionsplan eine Möglichkeit gegeben wird, sich zu rehabilitieren. Sie sind zurückgeblieben und müssen weil sie Nachzügler sind immer als ein Übel angesehen werden, aber sie sind keinesfalls "rettungslos verloren". Sie können sich retten, indem sie uns dienen, wahrscheinlich durch Umwandlung des Skorpions in Widder, der leiblichen Zeugung in geistige Wiedergeburt.
 
-### Brief Nr. 18 - Mai 1912 - Das Losungswort der Rosenkreuzerlehren
+### <h3 id="letter-18">Brief Nr. 18 - Mai 1912 - Das Losungswort der Rosenkreuzerlehren</h3>
 
 Der Kehrreim der vorigen Lektion war der Gedanke, daß die Frucht unseres Studiums das Bemühen sein soll, der Welt zu nützen. Mystiker stehen gewöhnlich ihren Menschen fern, und die Welt sieht uns und unseren Glauben von der Seite an. Das sollte nicht so sein, und eine Überlegung wird sich herausstellen, daß die Widerspruch erweckenden Lehren verhältnismäßig unwichtig sind und daß das Eigentliche der Lehren bereitwillige Aufnahme finden und den Weg für weitere Belehrung vorbereiten wird.
 
@@ -403,25 +359,31 @@ Nun werden Sie sich fragen, was bleibt dann von unseren Lehren übrig? Die grö�
 
 Wenn Ihnen wirklich daran liegt, in Gottes Weinberg der Welt zu arbeiten, so isolieren Sie sich nicht. Das Studium mag ruhig einen Teil Ihrer Zeit ausfüllen, doch gehen Sie dann hinaus in die Welt. Gewinnen Sie das Vertrauen der Menschen im Haus, in der Kirche, im Geschäft. Wenn Sie ein gutes Beispiel leben, werden sie nach dem Geheimnis fragen, und Sie werden das Vorrecht haben, ihnen die größte Lehre zu geben, die je bekannt geworden ist:
 
-#### Das Geheimnis des Seelenwachstums
+Das Geheimnis des Seelenwachstums
 
-Sie könnten etwa folgendes zu ihnen sagen: "Jeden Abend, wenn ich zu Bett gegangen bin, überblicke ich die Vorkommnisse des Tages in umgekehrter Reihenfolge. Ich versuche, mich unparteiisch zu kritisieren. Ich tadle, wo Tadel angebracht ist, bereue und beschließe Besserung. Ich lobe, wo ich Lob verdient habe und fasse den Vorsatz, am nächsten Tag noch Besseres zu tun. Sehr oft mißlingt es mir, meine guten Vorsätze zu halten, aber ich versuche immer wieder, und ganz allmählich komme ich vorwärts." Vielleicht wäre es gut, zu erklären, daß die Ereignisse, wenn man sie sich in umgekehrter Ordnung zurückruft, dem Gedächtnis fester eingeprägt werden. Aber weitere Aufklärung wird besser vermieden, bis Sie sicher sind, daß Ihr Freund eine Lösung des Lebensrätsels sucht.
+Sie könnten etwa folgendes zu ihnen sagen: 
+
+"Jeden Abend, wenn ich zu Bett gegangen bin, überblicke ich die Vorkommnisse des Tages in umgekehrter Reihenfolge. Ich versuche, mich unparteiisch zu kritisieren. Ich tadle, wo Tadel angebracht ist, bereue und beschließe Besserung. Ich lobe, wo ich Lob verdient habe und fasse den Vorsatz, am nächsten Tag noch Besseres zu tun. 
+
+Sehr oft mißlingt es mir, meine guten Vorsätze zu halten, aber ich versuche immer wieder, und ganz allmählich komme ich vorwärts." 
+
+Vielleicht wäre es gut, zu erklären, daß die Ereignisse, wenn man sie sich in umgekehrter Ordnung zurückruft, dem Gedächtnis fester eingeprägt werden. Aber weitere Aufklärung wird besser vermieden, bis Sie sicher sind, daß Ihr Freund eine Lösung des Lebensrätsels sucht.
 
 Das ist zweckmäßige Propaganda.
 
-### Brief Nr. 19 - Juni 1912 - Die Heiligkeit geistiger Erfahrungen
+### <h3 id="letter-19">Brief Nr. 19 - Juni 1912 - Die Heiligkeit geistiger Erfahrungen</h3>
 
-Viele Briefe, die im letzten Monat eingingen, bringen die Anerkennung der Studenten über die letzte Lektion zum Ausdruck, und es war eine Quelle der Freude, die tief gefühlte Liebe zu unserem Freundeskreis zu merken und den Wunsch, zu erfahren, "wie alles zugegangen ist".
+Viele Briefe, die im letzten Monat eingingen, bringen die Anerkennung der Studenten über die letzte Lektion zum Ausdruck, und es war eine Quelle der Freude, die tief gefühlte Liebe zu unserem Freundeskreis zu merken und den Wunsch, zu erfahren, "wie alles zugegangen ist". So kann ich ein bißchen leichter, als dies vorher möglich war, über meine persönlichen Erfahrungen sprechen.
 
-So kann ich ein bißchen leichter, als dies vorher möglich war, über meine persönlichen Erfahrungen sprechen.
+Es kann nicht stark genug betont werden, daß unterschiedsloses Erzählen von übersinnlichen Erfahrungen eine der schädlichsten Gewohnheiten ist, von welchem Standpunkt aus wir sie auch betrachten. In Lektion elf "Geistige Schau und innere Sicht" ist die Angelegenheit eingehend erklärt worden. Der "Schatz" muß in der Stille gehoben werden und aus der griechischen Sage erfahren wir, daß Tantalus in die höllischen Regionen verstoßen wurde, weil er geistige Geheimnisse ausgeplaudert hatte. Mit anderen Worten: wir können wahre Erleuchtung nicht erlangen, solange wir unsere Träume und Visionen anderen zur Schau stellen und sie womöglich Menschen erzählen, die noch nicht einmal gern zuhören. Dadurch profanieren wir, was wir verehren sollten, und durch die Entweihung kann unsere Vision auf die höllischen Regionen, die niederen Abteilungen der Empfindungswelt eingestellt werden. 
 
-Es kann nicht stark genug betont werden, daß unterschiedsloses Erzählen von übersinnlichen Erfahrungen eine der schädlichsten Gewohnheiten ist, von welchem Standpunkt aus wir sie auch betrachten. In Lektion elf "Geistige Schau und innere Sicht" ist die Angelegenheit eingehend erklärt worden. Der "Schatz" muß in der Stille gehoben werden und aus der griechischen Sage erfahren wir, daß Tantalus in die höllischen Regionen verstoßen wurde, weil er geistige Geheimnisse ausgeplaudert hatte. Mit anderen Worten: wir können wahre Erleuchtung nicht erlangen, solange wir unsere Träume und Visionen anderen zur Schau stellen und sie womöglich Menschen erzählen, die noch nicht einmal gern zuhören. Dadurch profanieren wir, was wir verehren sollten, und durch die Entweihung kann unsere Vision auf die höllischen Regionen, die niederen Abteilungen der Empfindungswelt eingestellt werden. Außerdem wenden sich solche Erzählungen an die Leichtgläubigkeit der Zuhörer. Es gibt keinen Maßstab, wonach ihre Genauigkeit festgestellt werden kann. Oft scheinen sie praktisch mit dem Leben gar nichts zu tun zu haben. Und selbst wenn wir der Wahrhaftigkeit des Visionärs vertrauen, haben doch diese Geschichten keinen Wert, wenn wir nicht ein Gesetz oder einen Zweck dahinter entdecken können. Und die Angabe des Gesetzes ohne Ausschmückung genügt. Die beste Illustration dieses Themas wird vielleicht die Erzählung sein, wie ich das Gesetz der Kindersterblichkeit entdeckte, das bis zum Erscheinen in unserer Literatur noch nie veröffentlicht wurde.
+Außerdem wenden sich solche Erzählungen an die Leichtgläubigkeit der Zuhörer. Es gibt keinen Maßstab, wonach ihre Genauigkeit festgestellt werden kann. Oft scheinen sie praktisch mit dem Leben gar nichts zu tun zu haben. Und selbst wenn wir der Wahrhaftigkeit des Visionärs vertrauen, haben doch diese Geschichten keinen Wert, wenn wir nicht ein Gesetz oder einen Zweck dahinter entdecken können. Und die Angabe des Gesetzes ohne Ausschmückung genügt. Die beste Illustration dieses Themas wird vielleicht die Erzählung sein, wie ich das Gesetz der Kindersterblichkeit entdeckte, das bis zum Erscheinen in unserer Literatur noch nie veröffentlicht wurde.
 
 Mein Lehrer stellte mir eines Tages die Aufgabe, das Leben einer bestimmten Person durch zwei vorangegangene Verkörperungen zu verfolgen und darüber zu berichten. Ich hatte keine Ahnung, daß ich auf die Suche nach einem Gesetz geschickt wurde, sondern dachte, der Zweck sei, meine Fähigkeit, im Gedächtnis der Natur zu lesen, zu entwickeln. Nach Erledigung berichtete ich über das Resultat. Mein Lehrer fragte besonders nach den Umständen während des Todes in jedem der beiden Leben. Ich antwortete, daß der Mann das erste Mal in der Schlacht getötet wurde und das zweite Mal an einer Krankheit in der Kindheit starb. Das war richtig, und ein anderes Leben wurde mir zum Durchforschen gegeben. Diese Person starb das erste Mal im Bett und dann das zweite Mal ebenfalls als Kind. Ein drittes Leben endete das erste Mal in einem Feuer und beim nächsten Mal anscheinend wieder als Kind. Ich sage "anscheinend", denn ich konnte meiner eigenen Wahrnehmung kaum glauben und berichtete meinem Lehrer zaghaft. Ich wunderte mich, als er sagte, es sei richtig. Die Verwunderung wuchs, als ich nacheinander das Leben von vierzehn Personen durchforschte. Im ersten Leben starben sie unter verschiedenen Umständen, einige in der Schlacht, einige durch Unfälle, andere im Bett, umgeben von laut weinenden Angehörigen. Im zweiten Leben jedoch starben sie alle als Kinder.
 
 Nun ließ mich der Lehrer diese Leben vergleichen, um herauszufinden, warum sie als Kind starben. Wochenlang studierte ich sie Abend für Abend, konnte aber keine Ähnlichkeit in den Bedingungen ihres ersten Todes finden, bis eines Sonntags am Morgen, gerade als ich in meinen Körper eintrat, es durch mein Gehirn zuckte. Ich erwachte mit einem Hurra! Ich sprang beinahe bis in die Mitte der Stube in meiner Freude, den Schlüssel gefunden zu haben. Die Schrecken von Schlacht, Feuer und Unfällen sowie die Klagen der Angehörigen verhindern ein tiefes Einätzen des Lebenspanoramas. Der Wert eines unter solchen Umständen beendeten Lebens würde dahin sein ohne den darauffolgenden Tod als Kind und die sich daran anschließende Belehrung im ersten Himmel, wie es in unserer Literatur eingehend erklärt wird. Das Gesetz, wie es dort angegeben ist, erklärt ein Lebensgeheimnis logisch, unabhängig von der Genauigkeit meiner Erzählung. Da ich nur zu dem Zweck erzähle, unsere Lektion zu beleuchten, so fühle ich mich nicht im Widerspruch, wenn ich andere ermahne, über ihre geistigen Erfahrungen Stillschweigen zu bewahren.
 
-### Brief Nr. 20 - Juli 1912 - Initiative und persönliche Freiheit
+### <h3 id="letter-20">Brief Nr. 20 - Juli 1912 - Initiative und persönliche Freiheit</h3>
 
 Was halten Sie für das Wichtigste in der letzten Lektion? Nicht meine Erfahrungen, obwohl einige Studenten ihnen beträchtlichen Wert beigelegt haben. In Wirklichkeit sind sie unbedeutend, es sei denn, daß sie dazu dienen, eine nützliche Lehre zu verbreiten. Die größte Gültigkeit von allem, was in der letzten Lektion erwähnt wurde, gebührt dem wiederholten, nachdrücklichen Bestehen auf unumschränkte persönliche Freiheit im Rosenkreuzer Freundeskreis.
 
@@ -433,7 +395,7 @@ Der westliche Lehrer ähnelt mehr den Vogeleltern, die die Jungen aus dem Nest s
 
 Es ist dies bei einem jeden Angehörigen unseres Freundeskreises das gleiche. Wir müssen die Lektionen erlernen, für einen gemeinsamen Zweck ohne Führerschaft zu arbeiten, jeder in gleicher Weise von innen her durch den Geist der Liebe angetrieben in dem Bemühen um den physischen, moralischen und geistigen Aufstieg der Menschheit zur Höhe des Christus, des Herrn und Lichtes der Welt.
 
-### Brief Nr. 21 - August 1912 - Der Christusgeist und die geistige Heilkraft
+### <h3 id="letter-21">Brief Nr. 21 - August 1912 - Der Christusgeist und die geistige Heilkraft</h3>
 
 Sie werden sich erinnern, in der Rosenkreuzer-Weltanschauung gelesen zu haben, daß in den Zeiten von Noah bis Christus, unter der Herrschaft von Jehova, in der ganzen menschlichen Rasse allgemeine Selbstsucht gepflegt wurde. Es hieß, daß "der Himmel, ja sogar die Himmel, des Herrn sind, aber die Erde hat Er den Kindern der Menschen gegeben." So wurde man dazu getrieben, materiellen Besitz zu suchen, weshalb man keinen Begriff von den Schätzen im Himmel hatte, die die Früchte der Selbstaufopferung sind. Als Folge davon wurde das innere Leben dieser Menschen immer unfruchtbarer, und wenn nicht ein neuer Antrieb gegeben worden wäre, so hätte es schließlich aufhören müssen.
 
@@ -441,7 +403,7 @@ Daraufhin begann der kosmische Christusgeist, der "Erlöser" Sein segensreiches 
 
 Wir haben eine Analogie zwischen diesem Kommen des Christus zur Erde und der Spende der geistigen Heilkraft nach dem Gesetz "Wie oben, so unten". In jeder kleinen Zelle des menschlichen Körpers besteht ein gesondertes Zellleben, doch über all diesem ist das Ego, das alle Zellen leitet und kontrolliert, so daß sie in Harmonie handeln. Während bestimmter, langwieriger Krankheiten ist das Ego so mit dem Leiden beschäftigt, daß es aufhört die Zellen genügend zu beleben. Auf diese Weise entsteht aus körperlichen Gebrechen geistige Untätigkeit, und es wird manchmal unmöglich, die Krankheit zu überwinden ohne einen besonderen Antrieb, der den geistigen Nebel zerstreut und die Tätigkeit der Zellen von neuem ankurbelt. Das ist es, was die geistige Heilkraft vollbringt. Ebenso wie das einströmende Christusleben auf Golgatha die Furcht zerstreute, die sich durch das unerbittliche Gesetz verbreitet hatte und wie ein Leichentuch über der Erde hing, wie sie Millionen menschlicher Wesen auf den Pfad des Friedens und des guten Willens gebracht hat, ebenso ist es auch, wenn die geistige Heilkraft angewendet wird. Die darin enthaltene Christuskraft strömt durch den Körper des Patienten und dringt in jede Zelle mit einem Rhythmus, der das eingeschlossene Ego aus seiner Lethargie erweckt und Leben und Gesundheit zurückgibt. Gebe Gott, daß wir bald imstande sind, der leidenden Menschheit diese große Gabe zu bringen.
 
-### Brief Nr. 22 - September 1912 - Mystisches Brot und Mystischer Wein
+### <h3 id="letter-22">Brief Nr. 22 - September 1912 - Mystisches Brot und Mystischer Wein</h3>
 
 Wenn ich die Studenten gefragt hätte, welcher ihrer Meinung nach der wichtigste Punkt der letzten Lektion war, was glauben Sie, wäre in der Mehrzahl der Fälle die Antwort gewesen? Ich denke mir, viele würden meinen, daß die Verbindung zwischen dem Brot, dem Wein und der Gesundheit der Hauptgedanke war, und vielleicht bin ich selbst für diese Ansicht verantwortlich, weil diese Worte Fett gedruckt waren. Aber wenn es auch von bemerkenswerter Wichtigkeit ist, daß wir diese Verbindung zwischen dem Brot, dem Wein und der Gesundheit erfassen und mit äußerster Kraft in unserem Leben anwenden, so ist das doch ganz und gar selbstsüchtig, wenn wir es aus irgend einem geringeren Grunde tun, als dem, der durch unseren Herrn gegeben ist. Es wird unsere Entwicklung bei weitem nicht so fördern, als wenn wir es tun, weil Er geboten hat: "Solches tut zu meinem Gedächtnis."
 
@@ -451,24 +413,27 @@ Christus trat auf Golgatha in die Erde ein. Er belebte die Erde von neuem und ma
 
 Besinnen Sie sich auf "die Vision des Herrn Launfal"? Nicht die Größe der Gabe zählte. Die Goldmünze, die er dem Bettler zuwarf, hatte mehr materiellen Wert, als die Brotkruste, die er später gab. Aber die Münze hatte er aus Ungeduld gegeben, um einen lästigen Menschen los zu werden, und die Brotkruste gab er im Gedächtnis an Christus und um Seinetwillen, und darin bestand der Unterschied.
 
-    "Und Sir Launfal sprach: Bist mir ein Bild  
-    des gekreuzigten Heilands, gütig und mild,  
-    auch Dich hat die Welt mit Dornen gekrönt,  
-    auch Dich hat getreten sie und verhöhnt,  
-    Dein Leben mit heiligem Schmerz empfand  
-    die Wunden in Seite und Fuß und Hand.  
-    Marias Sohn, sei gnädig mir,  
-    durch Ihn, mein Bruder, schenke ich Dir".  
+```
+"Und Sir Launfal sprach: Bist mir ein Bild  
+des gekreuzigten Heilands, gütig und mild,  
+auch Dich hat die Welt mit Dornen gekrönt,  
+auch Dich hat getreten sie und verhöhnt,  
 
- Je mehr wir versuchen, alles, was es auch sein mag, um Christi willen und für Seine Befreiung zu tun, um so besser und fruchtbarer wird unser Leben sein.
+Dein Leben mit heiligem Schmerz empfand  
+die Wunden in Seite und Fuß und Hand.  
+Marias Sohn, sei gnädig mir,  
+durch Ihn, mein Bruder, schenke ich Dir".  
+```
 
-### Brief Nr. 23 - Oktober 1912 - Die absteigende und aufsteigende Woge der Evolution
+Je mehr wir versuchen, alles, was es auch sein mag, um Christi willen und für Seine Befreiung zu tun, um so besser und fruchtbarer wird unser Leben sein.
+
+### <h3 id="letter-23">Brief Nr. 23 - Oktober 1912 - Die absteigende und aufsteigende Woge der Evolution</h3>
 
 Wenn wir die letzte Lektion überblicken, so erkennen wir als wichtigste Punkte das hohe Alter und den kosmischen Ursprung der beiden großen Bewegungen, die wir heute als Freimaurerei und Katholizismus kennen, Bewegungen, die von den Söhnen des Feuers und den Söhnen des Wassers ins Leben gerufen sind. Wie in der Rosenkreuzer-Weltanschauung behauptet wird, hat freilich die Einweihung menschlicher Wesen erst um die Mitte der Erdperiode herum begonnen, als die Feuer von Lemurien mit den Wassern von Atlantik kämpften. Aber die Erziehung der Menschheit hängt auch davon ab, was ihre Erzieher in einer früheren Evolution durchgemacht haben. Die Einstellung der beiden Engelgruppen schlug sich nieder in den beiden oben erwähnten gegensätzlichen Bewegungen. Die gefallenen Engel und die gefallenen Menschen sind eng verknüpft mit der Arbeit der Welt unter ihren jeweiligen Herrschern. Von Luzifer, dem Marsgeist, kommt das feurige, rote Blut, das der Träger aller materiellen Energie, des materiellen Ehrgeizes und Fortschritts ist. Es ist aber auch der Träger der Leidenschaft, durch die es gefärbt wird, und auf Grund derer es verursacht wurde, daß es fließt, bis die Erde rot ist. Von Jehova kommt das zügelnde Gesetz und die Bestrafung der Sünde.
 
 Das folgende Diagramm soll die Epochen darstellen, durch die der Geist herab- und hinaufsteigt, also die Welten und ihre jeweiligen Körper. So wird die Verbindung der verschiedenen Faktoren klarer sein.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!                      
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!   
 
 In Lemurien, dem Land der dritten Epoche, war die Menschheit nach Geschlechtern männlich und weiblich getrennt. Zu jener Zeit bestand sie aus geistigen Wesen, die in die Materie hinabreichten, wo die Pioniere eifrig auf das Evangelium des Körpers lauschten, den sie dunkel empfanden, jedoch erst kennenlernten, als die Zeit voranschritt und die geistige Welt ihrem Blick entschwand. Damals wurden die Luzifergeister die Lehrer der Frau (Eva), und Jehova wandte sich an den Mann (Adam). Die Frau war zu der Zeit vorgeschrittener als der Mann in bezug auf die Richtung hin zur Materie, da wir uns auf dem absteigenden Ast des Evolutionspfades befanden.
 
@@ -476,7 +441,7 @@ Nachdem in der Mitte der Atlantischen Epoche der Wendepunkt überschritten war, 
 
 Wie das weiße Licht je nach dem Winkel der Brechung die Farben verändert, so verändert der Geist seinen Standpunkt nach dem Geschlecht seiner irdischen Hülle. Da aber der Geist zwischen männlichen und weiblichen Verkörperungen wechselt, können wir leicht die Waagschale ausbalancieren und dem Weg folgen, der uns am meisten zusagt, oder das Beste von beiden miteinander verbinden. Unsere späteren Lektionen werden auf diesen Weg hinweisen, doch können wir schon jetzt sagen, daß Er, der sprach: "Ich bin das Licht der Welt," am Ende des Weges steht. Luzifer und Jehova sind nur Meilensteine auf dem Weg zur Wahrheit und zum Leben.
 
-### Brief Nr. 24 - November 1912 - Der Rosenkreuzer Freundeskreis, ein geistiges Zentrum
+### <h3 id="letter-24">Brief Nr. 24 - November 1912 - Der Rosenkreuzer Freundeskreis, ein geistiges Zentrum</h3>
 
 Am achtundzwanzigsten des vorigen Monats war es ein Jahr, daß wir für das erste Gebäude auf Mt. Ecclesia den Grundstein legten. Es war ein typischer Kalifornientag mit strahlendem Sonnenschein bei wolkenlosem Himmel, dessen tiefes Blau mit dem Himmelblau des Stillen Ozeans wetteiferte, den man vom Hauptquartier aus mehr als hundert Meilen weit sehen konnte. Wir waren eine kleine Schar von neun Menschen, größtenteils Mitgliedern, die zu Besuch gekommen waren. Es erschien uns wie eine Vorbedeutung, als wir über das liebliche grüne San Luis Rey-Tal gegen die großen schneebedeckten Berge im Osten und dort die weißen Mauern, die roten Ziegeldächer und die goldene Kuppel der katholischen San Luis Rey-Mission sahen, wo die Franziskanermönche durch Jahrhunderte unter Mexikanern und Indianern gerungen und gelehrt haben.
 
@@ -492,7 +457,7 @@ Vor einem Jahr schrieb ich den Studenten die genaue Stunde, zu der wir auf Mt. E
 
 Der christliche Wissenschaftler "demonstriert" (im Sinne von darlegen, veranschaulichen und aufzeigen d.Ü.), wenn er zu bauen wünscht, worauf das Geld in seine Kassen fließt. Der Neugeistler sendet eine "Bitte" aus, und Christen aller Richtungen "beten" um die Mittel. Sie alle wenden eine Grundmethode an, aber gebrauchen verschiedene Namen. Alle wünschen prächtige große Gebäude aus Stein und Glas, und sie bekommen sie. Ich weiß, daß ein Platz und ein Gebäude, zur Würde unseres Werkes passend, notwendig sind. Aber so sehr wir sie auch nötig hätten, so kann ich doch nicht um Holz und Steine beten, noch von Ihnen verlangen, dies zu tun. Aber herzlich bitte ich Sie, mich zu unterstützen in dem Gebet, daß das Hauptquartier des Rosenkreuzer Freundeskreises ein höchst leistungsfähiges und kraftvolles geistiges Zentrum werden möge. Beten Sie von ganzem Herzen, daß die Arbeiter im Hauptquartier begnadet sein mögen, das Werk zu fördern. Machen Sie sie zu einem Brennpunkt Ihrer liebenden Gedanken, damit wir diese dann zurückstrahlen können auf eine gerade nach einer solchen Liebe hungrige Menschheit. In uns selbst sind wir zu schwach, aber durch Ihre Gebete und Gottes Gnade werden wir eine mächtige Kraft in der Welt werden, und wenn wir zuallererst nach dem Reiche Gottes trachten, werden solche unbedeutenden Dinge wie Gebäude, die das Werk nötig hat, von selbst kommen, ohne daß man das Gebet zu entwürdigen braucht, indem man ein Mittel zur Erlangung materiellen Besitzes daraus macht.
 
-### Brief Nr. 25 - Dezember 1912 - Die mystische Weihnachtsbotschaft
+### <h3 id="letter-25">Brief Nr. 25 - Dezember 1912 - Die mystische Weihnachtsbotschaft</h3>
 
 Weihnachtsglocken! Haben Sie je ihren Zauber gefühlt in den Tagen der Kindheit, ehe der Zweifel in Ihr Herz einzog und die von der Kirche eingeprägten Ideale erschütterte? Dieselben Glocken riefen Sonntags zur Kirche und wochentags zur Andacht, aber zu Weihnachten war es ein anderes Läuten, ein Läuten zu etwas ungewöhnlich festlichem, etwas, das wir heute kindlicher Einbildungskraft zuschreiben. Wir vermissen dieses Etwas, wie Stolz wir auch sein mögen, daß wir uns freigemacht haben von dem, was wir so gern "die Maskeraden der Kirche" nennen. Wordsworth hat in seiner "Ode an die Unsterblichkeit" das große Schmerzgefühl über verlorene kindliche Ideale zum Ausdruck gebracht. Nichts, was die Welt gibt, kann sie ersetzen. Wie sehr wir auch mit materiellen Gütern gesegnet sein mögen, so sind wir doch in Wahrheit arm, wenn der Glaube der Jugend vergangen ist und intellektuelle Begriffe diesen sogenannten "Aberglauben" ersticken.
 
