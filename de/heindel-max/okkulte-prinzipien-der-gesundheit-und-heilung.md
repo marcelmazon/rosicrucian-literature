@@ -392,11 +392,11 @@ In der Venus-Periode, wenn sein Geist "Gefühl" erlangt hat, kann er lebendige, 
 
 Wenn er am Ende der vulkanischen Periode seine Vollkommenheit erreicht hat, wird er in der Lage sein, sich Kreaturen "vorzustellen", die leben, wachsen, fühlen und DENKEN.
 
-## TEIL 2. ERKRANKUNG 
+<h2 id="part-2">TEIL 2. ERKRANKUNG</h2>
 
-### KAPITEL 4. ALLGEMEINE KRANKHEITSURSACHEN
+### <h3 id="chapter-4">Kapitel 4. Allgemeine Krankheitsursachen</h3>
 
-#### EINLEITUNG:
+#### <h4 id="chapter-4-introduction">Einleitung:</h4>
 
 Krankheit ist in Wirklichkeit ein Feuer, das unsichtbare Feuer, das DER VATER ist, der versucht, die kristallisierten Zustände aufzulösen, die wir in unserem Körper angesammelt haben. Wir erkennen Fieber als ein Feuer, aber Tumore, Krebs und alle anderen Krankheiten sind in Wirklichkeit auch die Wirkung dieses unsichtbaren Feuers, das versucht, das System zu reinigen und es von Zuständen zu befreien, die wir durch die Verletzung der Naturgesetze herbeigeführt haben.
 
@@ -412,7 +412,7 @@ Dies ist also das große Ideal, nach dem wir streben: uns vom Makel des Egoismus
 
 Solange das Christusleben uns nicht von innen her erleuchtet, begreifen wir die Gesetze der Natur nicht und befolgen sie auch nicht, und folglich erkranken wir, weil wir unwissentlich gegen diese Gesetze verstoßen. Wie Emerson es ausdrückte, ist ein kranker Mensch ein Schurke auf frischer Tat; er hat die Gesetze der Natur gebrochen. Deshalb ist es notwendig, dass das Evangelium Christi gepredigt wird, dass jeder von uns lernt, seinen Gott mit ganzem Herzen und ganzer Seele zu lieben und seinen Bruder wie sich selbst, denn alle unsere Probleme in der Welt, ob wir es erkennen oder nicht, rühren von der einen großen Tatsache unserer Selbstsucht her. Wenn die Ernährungsfunktion gestört ist, was ist der Grund dafür? Ist es nicht so, dass wir unser System überfordert haben, weil wir verärgert waren und unsere Nervenkraft erschöpft haben, indem wir versucht haben, jemanden dazu zu bringen, unseren egoistischen Zielen zu dienen, und wir sind verärgert, weil wir keinen Erfolg hatten? In jedem Fall ist der Egoismus die Hauptursache für die meisten Krankheiten; Egoismus ist die größte lästige Sünde der Unwissenheit.
 
-#### URSACHEN FÜR GEISTIGE BEHINDERUNGEN:
+#### <h4 id="causes-of-mental-disabilities">Ursachen für geistige Behinderungen:</h4>
 
 Die Behinderungen, von denen die Menschheit betroffen ist, lassen sich in zwei große Klassen einteilen: MENTALE und PHYSISCHE. Die geistigen Störungen sind vor allem auf den Missbrauch der schöpferischen Funktion zurückzuführen, wenn sie angeboren sind, mit einer Ausnahme, die wir später erwähnen werden. Das Gleiche gilt für die Beeinträchtigung des Sprachvermögens. Dies ist einleuchtend und leicht zu verstehen. Das Gehirn und der Kehlkopf wurden von den Engeln mit der Hälfte der schöpferischen Kraft gebaut, so dass der Mensch, der vor dem Erwerb dieser Organe zweigeschlechtlich war und aus sich selbst heraus schöpferisch tätig werden konnte, diese Fähigkeit bei der Erschaffung dieser Organe verloren hat und nun auf die Mitarbeit eines anderen der entgegengesetzten Polarität oder des anderen Geschlechts angewiesen ist, um ein neues Vehikel für einen einströmenden Geist zu erzeugen.
 
@@ -428,7 +428,7 @@ Es gibt auch Fälle, in denen ein großer Schock im späteren Leben den Geist da
 
 Aber manchmal, wie gesagt, sind der Schreck und der Schock stark genug, um ihnen einen solchen Impuls zu geben, dass die ätherischen Sinneszentren gestört werden. Dies geschieht am häufigsten bei Menschen, die unter den gemeinen Zeichen geboren sind, die die schwächsten im Tierkreis sind. Aber wie ein gedehntes und zerrissenes Band allmählich wieder vergleichsweise elastisch werden kann, so ist es auch in diesen Fällen leichter, die geistigen Fähigkeiten wiederherzustellen, als in den Fällen, in denen eine angeborene Geisteskrankheit, die aus früheren Leben mitgebracht wurde, eine unzureichende Verbindung verursacht hat.
 
-#### URSACHEN FÜR KÖRPERLICHE BEHINDERUNGEN:
+#### <h4 id="causes-of-physical-disabilities">Ursachen für körperliche Behinderungen:</h4>
 
 In Bezug auf körperliche Anomalien und Missbildungen scheint die Regel zu sein, dass der Missbrauch der geistigen Kräfte in einem Leben zu körperlichen Behinderungen in späteren Existenzen führt, so wie der körperliche Genuss der Leidenschaft auf den geistigen Zustand reagiert. Eine okkulte Maxime besagt: "Eine Lüge ist sowohl Mord als auch Selbstmord in der Welt der Wünsche". Die Lehren der Älteren Brüder, die in DIE ROSIKRUZIANISCHE KOSMOKONZEPTION enthalten sind, erklären, dass jedes Mal, wenn ein Ereignis stattfindet, eine bestimmte Gedankenform, die in der unsichtbaren Welt erzeugt wird, eine Aufzeichnung des Vorfalls macht. Jedes Mal, wenn über das Ereignis gesprochen oder es kommentiert wird, entsteht eine neue Gedankenform, die mit der ursprünglichen verschmilzt und sie verstärkt, vorausgesetzt, dass beide der gleichen Schwingung entsprechen. Wenn aber eine Unwahrheit über das Geschehen erzählt wird, dann sind die Schwingungen des Originals und die der Reproduktion nicht identisch; sie rütteln und klirren und zerreißen sich gegenseitig. Wenn die gute und wahre Gedankenform stark genug ist, wird sie die Gedankenformen, die auf einer Lüge beruhen, überwinden und zerbrechen, und das Gute wird das Böse überwinden, aber wo die Lügen und die bösartigen Gedanken stärker sind, können sie die wahre Gedankenform des Geschehens überwinden und sie so zerstören. Danach werden sie sich untereinander streiten, und alle werden ihrerseits vernichtet werden. Letzten Endes wirken alle Dinge zum Guten zusammen.
 
@@ -440,9 +440,9 @@ Erst wenn wir in die höheren Reiche und insbesondere in die Region des konkrete
 
 Aber wir wissen, dass auch heute nur ein sehr kleiner Prozentsatz bereit ist, so nahe an der Wahrheit zu leben, wie sie sie sehen, sie zu bekennen und sie vor den Menschen durch Dienst und durch ein rechtschaffenes und harmloses Leben zu bekennen. Wir können nur verstehen, dass es in vergangenen Zeiten, als der Mensch noch nicht den Altruismus entwickelt hatte, der mit dem Erscheinen unseres Herrn und Erlösers Jesus Christus auf diesen Planeten kam, nur wenige von ihnen gegeben haben muss. Damals waren die moralischen Maßstäbe viel niedriger und die Liebe zur Wahrheit beim größten Teil der Menschheit fast vernachlässigbar, die in ihrem Bestreben, so viel Reichtum wie möglich anzuhäufen oder so viel Macht oder Ansehen wie möglich für sich selbst zu erlangen, versunken war. Sie waren daher von Natur aus geneigt, die Interessen anderer zu vernachlässigen, und eine Lüge schien in keiner Weise verwerflich und manchmal sogar verdienstvoll zu sein. Die Archetypen waren ständig voller Schwächen, und die organischen Funktionen des Körpers sind heute dadurch in erheblichem Maße beeinträchtigt, zumal die westlichen Körper aufgrund des wachsenden Bewusstseins des Geistes immer nervöser und schmerzempfindlicher werden.
 
-### KAPITEL 5. SPEZIFISCHE KRANKHEITSURSACHEN
+### <h3 id="chapter-5">Kapitel 5. Spezifische Krankheitsursachen</h3>
 
-#### WAHNSINN:
+#### <h4 id="insanity">Wahnsinn:</h4>
 
 Vom Standpunkt des Okkultisten aus gesehen gibt es vier Klassen von Wahnsinn. Wahnsinn wird immer durch einen Bruch in der Kette der Vehikel zwischen dem Ego und dem physischen Körper verursacht. Diese Unterbrechung kann zwischen den Gehirnzentren und dem Vitalkörper, zwischen dem Vital- und dem Begierdenkörper, zwischen dem Begierdenkörper und dem Verstand oder zwischen dem Verstand und dem Ego auftreten. Der Bruch kann vollständig oder nur teilweise sein.
 
@@ -460,13 +460,15 @@ Schwarze Magie in ihren minderen Formen, wie z. B. Hypnose, verursacht manchmal 
 
 Drogen und Atemübungen, wie sie der östliche Aspirant anwendet, haben eine furchtbar zerstörerische Wirkung auf den Körper, und man wird daher sehen, dass ihr Gebrauch ganz und gar unerwünscht ist. Viele Menschen befinden sich heute aufgrund von Atemübungen im Irrenhaus oder im Grab der Schwindsüchtigen, und die Auswirkungen von Drogen sind wohl bekannt. Die Atome des westlichen Körpers sind im Laufe der Evolution hochsensibilisiert worden, und die Übungen, die ein östlicher Mensch, dessen Körper nicht so hochsensibilisiert ist, ungestraft anwenden kann, werden die Atome des westlichen Körpers in Aufruhr versetzen. Es ist äußerst schwierig, sie wieder in die richtige Ruhe zu bringen.
 
-#### MEDIUMSHIP:
+#### <h4 id="mediumship">Mediumship:</h4>
 
 Wenn eine Person zum Medium für einen körperlosen Geist wird, der in den Körper eindringt, wie im Fall des Trance-Mediums, das den Körper in Besitz nimmt und ihn so benutzt, wie es der Besitzer tun würde, entsteht kaum ein Schaden, vorausgesetzt, die Geistkontrolle missbraucht ihr Privileg nicht. In der Tat gibt es einige Fälle, in denen Geistkontrollen eine bessere Vorstellung von der Pflege eines Körpers haben als der Besitzer selbst und manchmal den Gesundheitszustand verbessern können. Es sind eher erdgebundene und niedrige Geister, wie Indianer und andere von ähnlicher Natur, die eine Kontrolle über mediale Personen erlangen, und wenn sie im Besitz des Körpers sind, können sie ihn benutzen, um ihre niedrigen Leidenschaften für Alkohol und Sex zu befriedigen. So verursachen sie eine Störung des Systems und eine Verschlechterung des Instruments.
 
-Im Falle des materialisierenden Mediums können wir sagen, dass der Einfluss immer schädlich ist. Der materialisierende Geist dringt in das Opfer ein und zieht dann den Äther des Vitalkörpers durch die Milz heraus, denn der Unterschied zwischen dem materialisierenden Medium und dem gewöhnlichen Menschen besteht darin, dass die Verbindung zwischen dem Vitalkörper und dem dichten Körper äußerst lax ist, so dass es möglich ist, diesen Vitalkörper in einem sehr großen Ausmaß zurückzuziehen. Der Vitalkörper ist das Vehikel, durch das die Sonnenströme, die uns Vitalität geben, spezialisiert sind. Ohne das vitalisierende Prinzip schrumpft der Körper des Mediums zur Zeit der Materialisation manchmal auf fast die Hälfte seiner üblichen Größe; das Fleisch wird schlaff und der Lebensfunke brennt sehr schwach. Wenn die Séance vorbei ist und der Vitalkörper ersetzt wurde, ist das Medium erwacht und bei normalem Bewusstsein. Es verspürt dann ein Gefühl schrecklichster Erschöpfung und greift leider manchmal zum Trinken, um die Lebenskräfte wiederzubeleben. In diesem Fall leidet natürlich sehr bald die Gesundheit und das Medium wird zu einem totalen Wrack. Auf jeden Fall sollte die Medialität vermieden werden, denn neben dieser Gefahr für das Instrument gibt es noch andere und weitaus subtilere Körper, insbesondere im Zusammenhang mit dem Zustand nach dem Tod.
+Im Falle des materialisierenden Mediums können wir sagen, dass der Einfluss immer schädlich ist. Der materialisierende Geist dringt in das Opfer ein und zieht dann den Äther des Vitalkörpers durch die Milz heraus, denn der Unterschied zwischen dem materialisierenden Medium und dem gewöhnlichen Menschen besteht darin, dass die Verbindung zwischen dem Vitalkörper und dem dichten Körper äußerst lax ist, so dass es möglich ist, diesen Vitalkörper in einem sehr großen Ausmaß zurückzuziehen. 
 
-#### OBSESSION:
+Der Vitalkörper ist das Vehikel, durch das die Sonnenströme, die uns Vitalität geben, spezialisiert sind. Ohne das vitalisierende Prinzip schrumpft der Körper des Mediums zur Zeit der Materialisation manchmal auf fast die Hälfte seiner üblichen Größe; das Fleisch wird schlaff und der Lebensfunke brennt sehr schwach. Wenn die Séance vorbei ist und der Vitalkörper ersetzt wurde, ist das Medium erwacht und bei normalem Bewusstsein. Es verspürt dann ein Gefühl schrecklichster Erschöpfung und greift leider manchmal zum Trinken, um die Lebenskräfte wiederzubeleben. In diesem Fall leidet natürlich sehr bald die Gesundheit und das Medium wird zu einem totalen Wrack. Auf jeden Fall sollte die Medialität vermieden werden, denn neben dieser Gefahr für das Instrument gibt es noch andere und weitaus subtilere Körper, insbesondere im Zusammenhang mit dem Zustand nach dem Tod.
+
+#### <h4 id="obsession">Obsession:</h4>
 
 Besessenheit ist ein Zustand, in dem ein inkarnierter Geist dauerhaft Besitz vom Körper einer Person ergriffen hat, nachdem er den Besitzer enteignet hat. Aber manchmal versuchen Menschen, die die Gewohnheit der Trunkenheit oder eines anderen niedrigen Lasters entwickelt haben, sich zu entschuldigen, indem sie behaupten, besessen zu sein. Denn ein Dieb, der hier in der materiellen Welt etwas gestohlen hat, geht nicht umher und erzählt den Leuten von seinem Diebstahl, und auch ein besessenes Wesen geht nicht umher und verkündet diese Tatsache. Es ist sehr sicher, dass ein solches Wesen sich nicht darum kümmert, was über den Menschen, dessen Körper es gestohlen hat, gedacht wird, so dass es keinen Grund gibt, es zu erzählen und zu riskieren, exorziert zu werden.
 
@@ -502,13 +504,13 @@ Wenn der Geist auf die Erde zurückkehrt, wird dieser Sündenkörper natürlich 
 
 Neben den bereits erwähnten Wesenheiten, die in einem von ihnen selbst geschaffenen Sündenkörper wohnen und somit in der Zeit der Sühne ganz unter ihren eigenen Taten leiden, wurden zwei Klassen gefunden, die sich in gewisser Hinsicht ähneln, aber in anderen unterscheiden. Außer den göttlichen Hierarchien und den vier Lebenswellen der Geister, die sich jetzt in der physischen Welt durch das Mineral-, Pflanzen-, Tier- und Menschenreich entwickeln, gibt es auch andere Lebenswellen, die sich in den verschiedenen unsichtbaren Welten ausdrücken. Unter ihnen gibt es bestimmte Klassen von untermenschlichen Geistern, die Elementare genannt werden. Manchmal kommt es vor, dass einer dieser Elementargeister von dem sündigen Körper eines Wilden Besitz ergreift und so diesem Wesen zusätzliche Intelligenz verleiht. Bei der Wiedergeburt des Geistes, der diesen Sündenkörper hervorgebracht hat, führt die übliche Anziehungskraft sie zusammen, aber aufgrund des Elementars, das den Sündenkörper umhüllt, unterscheidet sich der Geist von den anderen Mitgliedern des Stammes, und wir finden sie dann als Medizinmänner oder in einer ähnlichen Funktion. Diese Elementargeister, die den Sündenkörper der Indianer umhüllen, wirken auch auf Medien als Geisterkontrollen, und nachdem sie während des Lebens Macht über das Medium erlangt haben, verdrängen diese Elementarkontrollen es nach seinem Tod aus den Fahrzeugen, die seine Lebenserfahrung enthalten. Auf diese Weise kann das Medium in seiner Entwicklung um Jahrhunderte zurückgeworfen werden, denn es gibt keine Macht, die diese Geister dazu zwingen kann, loszulassen, wenn sie einmal die Kontrolle über einen solchen Körper erlangt haben. Auch wenn die Medialität zu Lebzeiten scheinbar keine bösen Auswirkungen hat, besteht daher nach dem Tod eine sehr, sehr große Gefahr für denjenigen, der einem anderen erlaubt, von seinem Körper Besitz zu ergreifen.
 
-#### HYSTERIE, EPILEPSIE, TUBERKULOSE UND KREBS:
+#### <h4 id="hysteria-epilepsy-tuberculosis-and-cancer">Hysterie, Epilepsie, Tuberkulose und Krebs:</h4>
 
 Es wurde festgestellt, dass Hysterie, Epilepsie, Tuberkulose und Krebs auf die unberechenbaren Neigungen eines früheren Lebens zurückzuführen sind. Es wurde festgestellt, dass viele der Probanden, obwohl sie in den untersuchten früheren Leben in der Befriedigung ihrer Lüsternheit fast wahnsinnig gewesen waren, der im gegenwärtigen Leben erzeugte physische Körper normalerweise gesund und ihre Behinderung ausschließlich geistig war, während in anderen Fällen, in denen das Nachgeben der leidenschaftlichen Natur mit einem niederträchtigen Charakter und einer grausamen Missachtung anderer verbunden war, Epilepsie zusammen mit Rachitis, Hysterie und einem deformierten Körper das gegenwärtige Ergebnis waren. Häufig kam es auch zu Krebs, insbesondere zu Leber- oder Brustkrebs.
 
 In diesem Zusammenhang möchten wir die Studenten jedoch erneut davor warnen, voreilige Schlüsse zu ziehen, dass es sich hierbei um harte und schnelle Bedingungen handelt. Die Zahl der durchgeführten Untersuchungen ist zwar sehr groß und für einen einzelnen Forscher eine mühsame Aufgabe, aber sie sind zu gering, um in Angelegenheiten, die Millionen von Menschen betreffen, wirklich schlüssig zu sein. Sie stimmen jedoch mit den Lehren des COSMO überein, die von den Älteren Brüdern über die Wirkung des Materialismus bei der Entstehung von Rachitis, einer Erweichung eines Teils des Körpers, der hart sein sollte, und Tuberkulose, die Gewebe verhärtet, die weich und biegsam sein sollten. Krebs hat im Wesentlichen eine ähnliche Wirkung; und wenn wir bedenken, dass das Zeichen Krebs vom Mond, dem Planeten der Zeugung, beherrscht wird und dass die Mondsphäre unter der Herrschaft Jehovas, des Gottes der Zeugung, steht, dessen Engel die Geburt ankündigen und ihr vorstehen, wie im Fall von Isaak, Samuel, Johannes dem Täufer und Jesus, sehen wir leicht, dass der Missbrauch der schöpferischen Funktion sowohl Krebs als auch Wahnsinn in den differenziertesten Formen verursachen kann.
 
-#### BEEINTRÄCHTIGUNG DES SEHVERMÖGENS:
+#### <h4 id="impairment-of-vision">Beeinträchtigung des Sehvermögens:</h4>
 
 Was den Mangel an Sehkraft oder Behinderungen oder das Sehorgan betrifft, so ist unter Forschern seit langem bekannt, dass dies die Folge extremer Grausamkeit in einem früheren Leben ist. Neuere Untersuchungen haben die weitere Information entwickelt, dass ein Großteil der Augenprobleme, die jetzt unter den Menschen vorherrschen, auf die Tatsache zurückzuführen ist, dass sich UNSERE AUGEN VERÄNDERN; sie werden in der Tat für eine höhere Oktave des Sehens als zuvor empfänglich, weil der Äther, der die Erde umgibt, dichter wird und die Luft seltener wird. Dies ist besonders in bestimmten Teilen der Welt der Fall, unter anderem in Südkalifornien. In diesem Zusammenhang ist es bemerkenswert, dass die Aurora Borealis immer häufiger auftritt und ihre Auswirkungen auf die Erde immer stärker werden. In den ersten Jahren des christlichen Zeitalters war dieses Phänomen fast unbekannt, aber im Laufe der Zeit, als die Christuswelle, die während eines Teils des Jahres auf die Erde herabkommt, immer mehr von ihrem eigenen Leben in den toten, irdischen Klumpen einflößt, werden die ÄTHERISCHEN VITALSTRAHLEN in Abständen sichtbar. Später wurden sie immer zahlreicher und beginnen nun, unsere elektrischen Aktivitäten zu stören, insbesondere die Telegrafie, deren Dienst manchmal durch diese Strahlen völlig demoralisiert wird.
 
@@ -518,7 +520,7 @@ Die Ströme der tierischen Gruppengeister hingegen umkreisen die Erde. Die vergl
 
 Wenn die Zeit fortschreitet und der Christus durch sein wohltätiges Wirken mehr und mehr interplanetarischen Äther auf die Erde zieht und so ihren Lebenskörper leuchtender macht, werden wir in einem Meer von Licht wandeln, und wenn wir durch den ständigen Kontakt mit diesen wohltätigen Christus-Schwingungen lernen, unsere Wege der Selbstsucht und des Egoismus zu verlassen, werden auch wir leuchtend werden. Dann würde das Auge, so wie es jetzt beschaffen ist, keinen Dienst mehr leisten, und deshalb beginnt es sich jetzt zu verändern, und wir erleben das Unbehagen, das mit jedem Umbau einhergeht.
 
-#### SHELL SHOCK:
+#### <h4 id="shell-shock">Shell Shock:</h4>
 
 Bei der Untersuchung einer Reihe gesunder Menschen wurde festgestellt, dass jedes der prismatischen Atome, aus denen die niederen Äther bestehen, von sich aus die Kraftlinien ausstrahlt, die das physische Atom, in das es eingefügt ist, in Bewegung setzen und den ganzen Körper mit Leben erfüllen. Die vereinte Tendenz all dieser Krafteinheiten geht in Richtung der Peripherie des Körpers, wo sie das bilden, was man das "Odische Fluid" genannt hat, das auch mit anderen Namen bezeichnet wird. Wenn der Luftdruck von außen durch den Aufenthalt in einer großen Höhe gesenkt wird, zeigt sich eine Tendenz zur Nervosität, weil die ätherische Kraft von innen ungebremst nach außen drängt; und wäre der Mensch nicht in der Lage, den Ausfluss der Sonnenenergie teilweise durch eine Willensanstrengung zur Überwindung der Schwierigkeit zu unterbinden, könnte niemand an einem solchen Ort leben.
 
@@ -534,7 +536,7 @@ Aus diesen Tatsachen kamen wir zu dem Schluss, dass es der normale Luftdruck ist
 
 Wenn ein großes Projektiv durch die Luft fliegt, erzeugt es durch die enorme Geschwindigkeit, mit der es sich bewegt, ein Vakuum hinter sich, und wenn sich der Mensch innerhalb dieser Vakuumzone befindet, während die Hülle vorbeifliegt, leidet er in einem Maß, das durch seine eigene Natur und seine Nähe zum Zentrum des Sogs bestimmt wird. Seine Position ist in der Tat eine umgekehrte Replik des Mannes, der fällt; denn er steht still, während ein sich bewegender Körper den Luftdruck aufhebt und die Äther entweichen lässt. Wenn die Menge des verrutschten Äthers vergleichsweise gering ist und nur aus dem dritten und vierten Äther besteht, die die Sinneswahrnehmung und das Gedächtnis steuern, wird er wahrscheinlich nur einen vorübergehenden Gedächtnisverlust und die Unfähigkeit, Dinge wahrzunehmen oder sich zu bewegen, erleiden. Diese Behinderung wird verschwinden, wenn die extrahierten Äther wieder in den dichten Körper eingepasst werden - eine viel schwierigere Leistung, als wenn der physische Körper untergeht und die Reorganisation ohne Bezug auf dieses Vehikel stattfindet.
 
-#### SKLEROSE ODER VERHÄRTUNG DER ARTERIEN:
+#### <h4 id="sclerosis-or-hardening-of-the-arteries">Sklerose oder Verhärtung der Arterien:</h4>
 
 Von der Kindheit bis ins hohe Alter verhärtet sich unser Körper allmählich aufgrund der kalkhaltigen Substanzen, die in den meisten Nahrungsmitteln enthalten sind, mit denen wir unseren Körper normalerweise ernähren. Diese kalkhaltigen Stoffe lagern sich vor allem in den Wänden der Arterien und Venen ab und verursachen das, was in der Medizin als Arteriosklerose oder Arterienverkalkung bekannt ist. Die Arterien eines kleinen Kindes sind äußerst weich und elastisch, wie ein Gummischlauch, aber im Laufe der Kindheit, der Jugend und des Alters werden die Wände der Arterien durch die Kalkablagerungen des durchfließenden Blutes immer härter. So können sie mit der Zeit so steif und unelastisch werden wie ein Pfeifenstiel. Es gibt einen Zustand, der als Pfeifenstielarterie bezeichnet wird. Die Arterien werden dann spröde und können brechen, was zu Blutungen und zum Tod führt. Deshalb sagt man wirklich, dass ein Mensch so alt ist wie seine Arterien. Wenn wir die Arterien und Kapillaren von diesen irdischen Stoffen befreien können, können wir das Leben und die Lebensdauer unseres Körpers allmählich verlängern.
 
@@ -542,7 +544,7 @@ Vom okkulten Standpunkt aus ist es natürlich gleichgültig, ob wir leben oder s
 
 Um dieses Ergebnis zu erreichen, müssen wir zunächst die Nahrungsmittel auswählen, die am wenigsten mit den erstickenden Substanzen, die die Verhärtung der Arterien und Kapillaren verursachen, imprägniert sind. Als nächstes ist es wichtig, zu versuchen, die erstickenden Stoffe, die wir bereits aufgenommen haben, zu beseitigen, wenn das möglich ist, aber die Wissenschaft hat noch keine Lebensmittel oder Medikamente gefunden, die mit Sicherheit diese Wirkung haben. Elektrische Bäder haben sich als äußerst nützlich erwiesen, sind aber nicht ganz zufriedenstellend. Buttermilch ist das beste Mittel, um diese erdige Substanz zu beseitigen, und danach kommt Traubensaft. Wenn diese Substanzen kontinuierlich und in großzügigen Mengen eingenommen werden, können sie den verhärteten Zustand der Arterien erheblich verbessern.
 
-### KAPITEL 6. VERERBUNG UND KRANKHEIT
+### <h3 id="chapter-6">Kapitel 6. Vererbung und Krankheit</h3>
 
 Leider scheinen die Menschen ihre schlechten Eigenschaften der Vererbung zuzuschreiben, indem sie ihren Eltern die Schuld für ihre Fehler geben, während sie sich selbst den ganzen Ruhm für die guten Eigenschaften zuschreiben. Allein die Tatsache, dass wir zwischen dem unterscheiden, was vererbt wird, und dem, was wir selbst geschaffen haben, zeigt, dass die Natur des Menschen zwei Seiten hat: die Seite der FORM und die Seite des Lebens.
 
@@ -556,7 +558,7 @@ In den ersten Jahren ist das Ich, das den kindlichen Körper besitzt, nicht im V
 
 Da also das Blut in den Jahren der Kindheit ebenso wie der Körper von den Eltern vererbt wird, werden auch die Krankheitstendenzen übertragen, nicht die Krankheit selbst, sondern die Tendenz. Nach dem vierzehnten Lebensjahr, wenn das innewohnende Ich begonnen hat, seine eigenen Blutkörperchen herzustellen, hängt es in hohem Maße von ihm selbst ab, ob diese Tendenzen in seinem Leben Wirklichkeit werden oder nicht.
 
-### KAPITEL 7. AUSWIRKUNGEN VON ALKOHOL UND TABAK
+### <h3 id="chapter-7">Kapitel 7. Auswirkungen von Alkohol und Tabak</h3>
 
 Fleisch und Alkohol haben die Tendenz, den Menschen wild zu machen und seine geistige Sicht von den höheren Welten abzuwenden und den Blick auf die gegenwärtige materielle Ebene zu richten. Deshalb erzählt uns die Bibel, dass Noah zu Beginn des Regenbogenzeitalters, des Zeitalters, in dem wir in einer Atmosphäre von klarer und reiner Luft leben, die sich so sehr von der nebligen Atmosphäre in Atlantis unterscheidet, von der im zweiten Kapitel der Genesis die Rede ist, zum ersten Mal Wein braute. Die materielle Entwicklung hat als Folge der gegenwärtigen Konzentration unserer Energien auf die materielle Welt stattgefunden, die aus dem Genuss von Fleisch und Wein resultierte.
 
@@ -568,9 +570,9 @@ Als ich in den Tempel des Rosenkreuzerordens in Deutschland aufgenommen wurde, w
 
 Am Tag unseres physischen Zusammentreffens sagte ich nach einigen Augenblicken des Gesprächs etwas, das ihn dazu veranlasste, mich ausdruckslos anzustarren. Ich hatte mich auf einen Vorfall bei unserer Begegnung im Tempel bezogen, und er zeigte deutlich, dass er nichts davon wusste. Ich hatte jedoch so viel gesagt, dass ich gezwungen war, mehr zu sagen, um nicht sehr dumm zu erscheinen, und so sagte ich ihm, dass er behauptet hatte, sich an alles zu erinnern. Er bestritt dies, und am Ende des Gesprächs bat er mich sehr ernsthaft, herauszufinden, warum er als Laienbruder des Rosenkreuzerordens sich nicht an das erinnern könne, was während seiner Abwesenheit vom Körper geschehen sei. Er war, wie ich wusste, bei verschiedenen Tempeldiensten. Er nahm daran teil, aber in seinem physischen Gehirn wusste er absolut nicht, was geschehen war. Das Rätsel löste sich etwas später, als ich von ihm erfuhr, dass er außerhalb des Körpers Zigaretten rauchte und Drogen nahm, die sein Gehirn so stark vernebelten, dass es ihm unmöglich geworden war, irgendetwas von seinen psychischen Erfahrungen zu verarbeiten. Als ich ihm das im Körper sagte, unternahm er eine tapfere Anstrengung, sich von dieser Gewohnheit zu befreien, was er auch zugab. Dieser Fall veranschaulicht, wie sehr wir darauf achten sollten, in unseren Gewohnheiten rein zu sein; in allem sollten wir unseren Körper als Tempel Gottes betrachten und ihn nicht beschmutzen, so wie wir ein aus Stein und Mörtel erbautes Gotteshaus nicht beschmutzen würden, das nicht ein Millionstel so heilig ist wie der Körper, mit dem wir ausgestattet sind. Insbesondere das Gehirn ist das große und wichtige Instrument, mit dem wir unsere Arbeit in der physischen Welt verrichten, und wir sollten natürlich keine Rauschmittel oder Drogen zu uns nehmen, die es verwirren und uns so daran hindern, die erwarteten Fortschritte zu machen.
 
-## TEIL 3. HEILUNG 
+<h2 id="part-3">TEIL 3. HEILUNG</h2>
 
-### KAPITEL 8. URSPRUNG UND ENTWICKLUNG DER HEILUNG
+### <h3 id="chapter-8">Kapitel 8. Ursprung und Entwicklung der Heilung</h3>
 
 Es ist eine Binsenweisheit, dass "der Mensch von kurzer Dauer und voller Sorgen ist". Von allen Wechselfällen des Lebens trifft uns keiner so stark wie der Verlust der Gesundheit. Wir können mit relativem Gleichmut Vermögen oder Freunde verlieren, aber wenn die Gesundheit versagt und der Tod droht, wanken die Stärksten; im Bewusstsein der menschlichen Ohnmacht sind wir dann eher bereit, uns an die göttliche Macht zu wenden, um Hilfe zu erhalten, als zu anderen Zeiten. Daher war das Amt des geistlichen Beraters immer eng mit der Heilung verbunden.
 
@@ -582,7 +584,7 @@ Neben der regulären Schule der Chirurgie und Medizin, die sich bei der Behandlu
 
 Die Meinung von Tausenden ist von großem Wert, aber sie beweist nichts, denn Tausende können eine gegenteilige Meinung vertreten. Gelegentlich mag ein einzelner Mann Recht haben und der Rest der Welt Unrecht, wie damals, als Galilei behauptete, die Erde bewege sich. Heute ist die ganze Welt zu der Meinung bekehrt, für die er als Ketzer verfolgt wurde. Wir behaupten, dass, da der Mensch ein zusammengesetztes Wesen ist, Heilungen in dem Maße erfolgreich sind, wie sie Mängel auf der physischen, moralischen und mentalen Ebene des Seins beheben.
 
-#### HEILEN VS. HEILEN:
+#### <h4 id="curing-vs-healing">Heilen vs. Heilen:</h4>
 
 Da die große Mehrheit der Menschen keinen Unterschied zwischen Heilung und Heilung macht, ist es vielleicht gut, den Unterschied zu erklären, der in erster Linie in der Zusammenarbeit oder dem Fehlen derselben besteht. Eine Person kann versuchen, eine andere durch Massage oder Medikamente zu "heilen"; der Patient ist in beiden Fällen passiv wie der Ton, der vom Töpfer geformt wird. Es besteht kein Zweifel daran, dass unter einer solchen Behandlung die Beschwerden verschwinden und die Person gesund wird, aber das ist nur eine vorübergehende Erleichterung: Er hat die zugrunde liegende Ursache seiner Krankheit nicht richtig erkannt, er versteht nicht, dass die Krankheit eine Folge des Verstoßes gegen die Gesetze der Natur war, und ist daher sehr anfällig dafür, die gleichen Dinge wieder zu tun, mit dem Ergebnis, dass seine Krankheit zurückkehrt. Eine "Heilung" ist ein physischer Prozess. Heilung ist etwas völlig anderes; hier muss der Kranke immer sowohl geistig als auch körperlich mit dem Heiler zusammenarbeiten.
 
@@ -596,9 +598,9 @@ Verstehen wir nun, dass das ganze Universum von der Kraft des Vaters durchdrunge
 
 Der Heiler ist der Fokus, das Vehikel, durch das die Kraft in den Körper des Patienten einfließt. Wenn er ein geeignetes Instrument ist, geweiht, harmonisch, wirklich und wahrhaftig im Einklang mit dem Unendlichen, gibt es keine Grenzen für die wunderbaren Werke des Vaters, die durch ihn vollbracht werden können, wenn sich die Gelegenheit bietet, einen Patienten mit einem richtig aufnahmefähigen und gehorsamen Geist zu haben. 
 
-### KAPITEL 9. DIE HEILUNGSMETHODE DER ROSENKREUZER-GEMEINSCHAFT
+### <h3 id="chapter-9">Kapitel 9. Die Heilungsmethode der Rosenkreuzer-Gemeinschaft</h3>
 
-#### WARUM DIE ROSENKREUZER HEILEN:
+#### <h4 id="why-the-rosicrucians-heal">Warum die Rosenkreuzer heilen:</h4>
 
 Unter all dem törichten und irreführenden Unsinn, der in den vergangenen Jahrhunderten über die Rosenkreuzer verbreitet wurde, gibt es eine große Wahrheit: "Die Mitglieder des Ordens haben das Ziel, die Kranken zu heilen, und verfügen über überlegene Mittel, um diesen wohltätigen Zweck zu erfüllen." Frühere religiöse Orden haben versucht, spirituell voranzukommen, indem sie den Körper gegeißelt und missbraucht haben, aber die Rosenkreuzer zeigen die zärtlichste Sorge für dieses Instrument. Es gibt zwei Gründe für ihre heilende Tätigkeit. Wie alle anderen ernsthaften Nachfolger Christi warten sie sehnsüchtig auf den "Tag des Herrn". Sie wissen, dass Luzifer, das falsche Licht Lemurias, die Leidenschaft eingepflanzt hat und damit die BEGINNUNG IN SÜNDE einleitete und Leid, Schmerz und Tod verursachte; ebenso, dass Christus, das wahre Licht des kommenden Neuen Galiläa, die UNBEKÄMPFTE Empfängnis einleitete und das Evangelium der Erlösung von der Sünde durch die LIEBE verkündete. Das Zölibat ist für die Aspiranten im Osten zweckmäßig, da die niederen Rassen bald aussterben werden, widerspricht aber dem Evolutionsplan für den Westen, weil hier eine neue Rasse geboren werden soll, und deshalb ist GENERATIVE REINHEIT die Losung für den Jünger in diesem Teil der Welt. Eine neue Rasse soll ins Dasein geliebt werden, und so werden die Übel, die jetzt die Menschheit durch Generationen der Zeugung in Leidenschaft heimsuchen, aufhören; sogar der Tod wird in der neuen Dispensation endlich überwunden werden, weil die ätherische Reinheit der Körper die Notwendigkeit der Erneuerung überflüssig machen wird.
 
@@ -612,7 +614,7 @@ Christus gab seinen Boten zwei Befehle: "Verkündet das Evangelium" (des kommend
 
 Es ist ein wahrer, guter und gültiger Grund, wenn wir sagen, dass wir anderen um Christi willen helfen wollen. Er ist jetzt in der Erde gefangen, stöhnt und müht sich und wartet auf die Befreiung. Schmerz und Krankheit werden durch die Übertretung der Lebensgesetze verursacht, deshalb kristallisieren sie den dichten Körper, halten den Vitalkörper fester und verzögern den Tag unserer Befreiung, ebenso wie den seinen. Indem wir den Kranken helfen, Gesundheit zu erlangen, und sie lehren, in Harmonie mit den Gesetzen des Lebens zu leben, damit sie ihre Gesundheit bewahren können, beschleunigen wir den Tag Seiner Ankunft. Möge Gott unsere Bemühungen segnen und unsere Hände für das Gute Werk stärken.
 
-#### DIE UNSICHTBAREN HELFER:
+#### <h4 id="the-invisible-helpers">Die unsichtbaren Helfer:</h4>
 
 Unsere Methode der Heilung ist nicht ausschließlich eine spirituelle Angelegenheit. Wir verwenden physische Mittel, wo immer es möglich ist. Es kommt sogar vor, dass wir unsere Patienten zu einem Arzt schicken, damit sie von ihm schnelle Hilfe durch eine bestimmte Behandlung erhalten, die wir mit anderen Methoden nicht so schnell geben können. Auch auf die Ernährung der Patienten wird sorgfältig geachtet, denn da der Körper natürlich aus physischen Substanzen aufgebaut ist, geben wir die Medizin mit der richtigen Nahrung. Darüber hinaus wird die Heilung von den Älteren Brüdern durch eine Schar von unsichtbaren Helfern durchgeführt, die sie anleiten.
 
@@ -630,15 +632,15 @@ Von dieser Regel gibt es nur eine Ausnahme. Kinder bis zur Pubertät sind sozusa
 
 Das größte Hindernis für unsere Heilungstätigkeit ist die Nachlässigkeit der Patienten. Unsere Anforderungen sind sehr einfach. Wir bitten sie nur, einmal in der Woche mit Feder und Tinte zu schreiben, damit die ätherischen Ausströmungen, die während des Schreibens aus der Hand kommen, unseren unsichtbaren Helfern einen Schlüssel für den Eintritt in das System des Patienten liefern können. Aber so einfach diese Regel auch ist, einige versäumen es zu schreiben. Hier ist ein Fall, in dem eine Person, die seit vielen Jahren Wirbel verschoben hatte, durch unsere Behandlung geheilt wurde, obwohl Osteopathen, Chiropraktiker und mehrere andere, die es versucht hatten, es unmöglich fanden, diese Wirbel zu ersetzen. Der arme Mann hatte daher ständige Schmerzen, lag die meiste Zeit krank im Bett und war völlig arbeitsunfähig. Die Behandlung durch unsere unsichtbaren Helfer ersetzte die Wirbel, und sie sind immer noch an ihrem Platz. Der Mann ging zur Arbeit und es schien wunderbar zu sein. Aber er war so begeistert von der Vorstellung, dass er so völlig frei war, dass er unsere Anweisung, weiter zu schreiben, missachtete, damit unsere Unsichtbaren Helfer die Chance hatten, seine Wirbel so lange an ihrem Platz zu halten, bis sie an Ort und Stelle bleiben würden. Nun kommt der folgende Brief, der zeigt, dass wir ihn zu Recht aufgefordert haben, dies zu tun, und dass es falsch war, dass er nicht gehorchte. Er schreibt: "Vor einiger Zeit habe ich geschrieben, dass ich geheilt sei und meine wöchentlichen Briefe einstellen würde, aber ich sehe jetzt, dass ich einen großen Fehler gemacht habe. Seitdem schmerzt mich mein Rücken fast ständig, und ich bekomme wieder runde Schultern, obwohl die Wirbel an der Stelle sind, wo die Verletzung war. Es scheint, als ob ich viel von Ihnen verlange, wenn ich das zum zweiten Mal aufnehme, aber mir war nicht klar, welchen Einfluss die Unsichtbaren Helfer auf mich hatten und wie sehr ich von ihnen abhängig war."
 
-#### DAS GEISTIGE ALLHEILMITTEL:
+#### <h4 id="the-spiritual-panacea">Das Geistige Allheilmittel:</h4>
 
 In der Ankunft Christi auf der Erde haben wir eine Analogie zwischen ihm und der Verabreichung des geistigen Allheilmittels, gemäß dem Gesetz "Wie oben, so unten". In jeder kleinen Zelle des menschlichen Körpers gibt es ein eigenes Zellleben, aber darüber steht das Ego, das alle Zellen lenkt und kontrolliert, damit sie in Harmonie handeln. Bei bestimmten langwierigen Krankheiten ist das Ich so sehr auf das Leiden fixiert, dass es aufhört, die Zellen vollständig zu beleben; so führt körperliches Leiden zu geistiger Untätigkeit, und es kann unmöglich werden, die Krankheit ohne einen besonderen Impuls abzuwerfen, der den geistigen Nebel auflöst und die Zelltätigkeit wieder in Gang setzt. Das ist es, was das geistige Allheilmittel tut. So wie das einströmende Christusleben auf Golgatha begann, den Mantel der Angst zu vertreiben, der durch das unerbittliche Gesetz erzeugt wurde und wie ein Schleier über der Erde hing, und wie es Millionen von Menschen auf den Weg des Friedens und des guten Willens brachte, so eilt auch bei der Anwendung des Allheilmittels das darin enthaltene konzentrierte Christusleben durch den Körper des Patienten und durchdringt jede Zelle mit einem Rhythmus, der das gefangene Ego aus seiner Lethargie erweckt und ihm Leben und Gesundheit zurückgibt.
 
 Um das Allheilmittel zu beschreiben, soll eine Erfahrung des Autors wiedergegeben werden: In einer denkwürdigen Nacht wurde ihm im Tempel der Rosenkreuzer eine Substanz gezeigt, mit der sich der Universalgeist so leicht verbinden ließ, wie sich große Mengen Ammoniak mit Wasser verbinden. In der Mitte des Tempels waren drei Kugeln übereinander aufgehängt, wobei sich die mittlere Kugel etwa in der Mitte zwischen Boden und Decke befand. Sie war viel größer als die beiden anderen, von denen eine oben und eine unten hing. Im Inneren der großen zentralen Kugel befand sich ein kleinerer Behälter, der eine Reihe von Paketen enthielt, die mit dieser Substanz gefüllt waren. Als die Brüder sich in bestimmte Positionen begeben hatten, als die Harmonie einer bestimmten Musik den Weg bereitet hatte, begannen plötzlich die drei Kugeln in den drei Grundfarben Blau, Gelb und Rot zu leuchten. Für die Vision des Schreibers war es offensichtlich, wie während der Beschwörung der Formel das Gefäß, in dem sich die zuvor erwähnten Pakete befanden, mit einer spirituellen Essenz glühte, die vorher nicht da war. Einige von ihnen wurden später von dem Bruder mit sofortigem Erfolg verwendet. Vor ihnen zerstreuten sich die kristallisierenden Partikel, die die geistigen Zentren des Patienten umhüllten, wie von Zauberhand, und der Leidende erwachte zu einer Erkenntnis von körperlicher Gesundheit und Wohlbefinden.
 
-### KAPITEL 10. DIE WISSENSCHAFT DER ERNÄHRUNG
+### <h3 id="chapter-10">Kapitel 10. Die Wissenschaft Der Ernährung</h3>
 
-#### ALLGEMEINE GRUNDSÄTZE:
+#### <h4 id="general-principles">Allgemeine Grundsätze:</h4>
 
 Wenn wir mit dem dichten Vehikel beginnen und die physischen Mittel in Betracht ziehen, die zur Verfügung stehen, um es zu verbessern und es zum bestmöglichen Instrument für den Geist zu machen, und danach die spirituellen Mittel zum gleichen Zweck in Betracht ziehen, werden wir auch alle anderen Vehikel mit einbeziehen; deshalb werden wir dieser Methode folgen.
 
@@ -726,31 +728,20 @@ Es ist daher von großer Bedeutung, dass der Aspirant, der seinen Körper für g
 
 Die folgende Tabelle zeigt die Anteile von Phosphorsäure in einigen Erzeugnissen:
 
-100.000 Teile von:
-
-Gerste, trocken, enthält Phosphorsäure.........210 Teile
-
-Bohnen ...........................................292 "
-
-Rote Bete ...........................................167 "
-
-Rote Bete, Blätter von.................................690 "
-
-Buchweizen........................................170 "
-
-Möhren, trocken.....................................395 "
-
-Möhren, Blätter von...............................963 "
-
-Leinsamen..........................................880 "
-
-Leinsamen, Stängel von...............................118 "
-
-Pastinaken.........................................111 "
-
-Pastinaken, Blätter von.............................1784 "
-
-Erbsen ...........................................190 "
+| 100.000 Teile von:      | enthält Phosphorsäure       |
+| ----------------------- | --------------------------- |
+| Gerste, trocken         | 210 Teile                   |
+| Bohnen                  | 292  "                      |
+| Rote Bete               | 167  "                      |
+| Rote Bete, Blätter von  | 690  "                      |
+| Buchweizen              | 170  "                      |
+| Möhren, trocken         | 395  "                      |
+| Möhren, Blätter von     | 963  "                      |
+| Leinsamen               | 880  "                      |
+| Leinsamen, Stängel von  | 118  "                      |
+| Pastinaken              | 111  "                      |
+| Pastinaken, Blätter von | 1784  "                     |
+| Erbsen                  | 190  "                      |
 
 Je leichter die Energie aus der Nahrung extrahiert wird, desto mehr Zeit hat das System zur Erholung, bevor es notwendig wird, den Vorrat wieder aufzufüllen. Milch sollte niemals so getrunken werden, wie man ein Glas Wasser trinken kann. So eingenommen, bildet sie im Magen eine große Käsekugel, die der Wirkung der Magensäfte nicht standhält. Er sollte schluckweise getrunken werden, denn dann bildet er im Magen viele kleine Kügelchen, die leicht assimiliert werden können. Zitrusfrüchte sind starke Antiseptika, und Getreide, vor allem Reis, sind Antitoxine von großer Wirksamkeit.
 
@@ -770,7 +761,7 @@ Diese Zerstörung ist ständig im Gange, und es ist nicht möglich, alle Zerstö
 
 Es gab eine Zeit in der fernen Vergangenheit, als wir die Konkremente wie die Mollusken ablegten und den Körper weich, biegsam und knochenlos zurückließen, aber zu dieser Zeit hatten wir nur das dumpfe, schimmernde Bewusstsein, das die Mollusken jetzt haben. Bevor wir uns weiterentwickeln konnten, war es notwendig, die Konkremente zu erhalten, und es wird sich zeigen, dass das Bewusstseinsstadium jeder Spezies im Verhältnis zur Entwicklung des knöchernen Gerüsts INNEN steht. Das Ego muss die festen Knochen mit dem halbflüssigen roten Mark haben, um die roten Blutkörperchen für seinen Ausdruck bilden zu können. Das ist die höchste Entwicklung des dichten Körpers.
 
-#### GRÜNDE FÜR EINE VEGETARISCHE ERNÄHRUNG:
+#### <h4 id="reasons-for-a-vegetarian-diet">Gründe für eine vegetarische Ernährung:</h4>
 
 Die meisten Menschen empfinden eine Mahlzeit ohne Fleisch als unvollständig, denn seit jeher gilt als Grundsatz, dass Fleisch das stärkste Lebensmittel ist, das wir haben. Alle anderen Lebensmittel wurden als bloßes Beiwerk zu der einen oder anderen Fleischsorte auf dem Speiseplan betrachtet. Nichts könnte falscher sein; die Wissenschaft hat durch Experimente bewiesen, dass die aus Gemüse gewonnene Nahrung ausnahmslos eine stärkere Kraft hat, und der Grund dafür ist leicht zu erkennen, wenn wir die Angelegenheit von der okkulten Seite her betrachten.
 
