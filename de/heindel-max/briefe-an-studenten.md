@@ -1,11 +1,124 @@
-# Briefe An Studenten
+---
+title: 'Briefe An Studenten'
+language: 'de'
+original_title: "The Rosicrucian Cosmo-Conception"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: 'letters-to-students.md'
+---
+
+<h1 id="letters-to-students">Briefe An Studenten</h1>
 
 von Max Heindel
 
-Da es in der Übersetzung eines geisteswissenschaftlichen Werkes schwierig ist, den Wortlaut des Autors vollkommen inhaltsgetreu und sinngemäß wiederzugeben, wurden dem Text dieses Studienbuches zusätzlich in eckigen Klammern die jeweiligen Seitenumbrüche des englischsprachigen Originals beigefügt. Somit wird es dem interessierten Leser mit Hilfe dieser Hinweise erleichtert, des besseren Verständnisses wegen von ihm frei wählbare Passagen im Originaltext nachzulesen.
+DECEMBER 1910 TO JANUARY 1919, INCLUSIVE 
 
-Diese Studienausgabe ist nicht im Handel erhältlich!
-Bezugsquellen siehe letzte Seite
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
+
+### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+
+- [Foreword](#foreword)
+- [1. Freundschaft als Ideal](#letter-1)
+- [2. Seelenwachstum durch Taten](#letter-2)
+- [3. Selbstloser Dienst an anderen](#letter-3)
+- [4. Eintreten für die Kirche](#letter-4)
+- [5. Der Wert des rechten Fühlens](#letter-5)
+- [6. Heilung der Kranken](#letter-6)
+- [7. Die Taufe mit Wasser und Geist](#letter-7)
+- [8. Die Beherrschung unserer Sterne](#letter-8)
+- [9. Unsichtbare Wächter der Menschheit](#letter-9)
+- [10. Fleisch und Alkohol](#letter-10)
+- [11. Vorbereitungen für den Umzug nach Mt. Ecclesia](#letter-11)
+- [12. Grundsteinlegung für das erste Gebäude auf Mt. Ecclesia](#letter-12)
+- [13. Geschlechtliche Reinheit, das Ideal des Abendlandes](#letter-13)
+- [14. Das kommende Luftzeitalter](#letter-14)
+- [15. Die Rolle der Reizmittel in der Evolution](#letter-15)
+- [16. Die Notwendigkeit der Liebe](#letter-16)
+- [17. Nachzügler der Evolution](#letter-17)
+- [18. Das Losungswort der Rosenkreuzerlehren](#letter-18)
+- [19. Die Heiligkeit geistiger Erfahrungen](#letter-19)
+- [20. Initiative und persönliche Freiheit](#letter-20)
+- [21. Der Christusgeist und die geistige Heilkraft](#letter-21)
+- [22. Mystisches Brot und Mystischer Wein](#letter-22)
+- [23. Die absteigende und aufsteigende Woge der Evolution](#letter-23)
+- [24. Der Rosenkreuzer Freundeskreis, ein geistiges Zentrum](#letter-24)
+- [25. Die mystische Weihnachtsbotschaft](#letter-25)
+- [26. Dienst am Nächsten während des neuen Jahres](#letter-26)
+- [27. Siegfried, der Wahrheitssucher](#letter-27)
+- [28. Die Eintragung und die künftigen Pläne des Freundeskreises](#letter-28)
+- [29. Freimaurerei, Co-Masonry und Katholizismus](#letter-29)
+- [30. Die Rolle des Bösen in der Welt](#letter-30)
+- [31. Christus und Sein zweites Kommen](#letter-31)
+- [32. Jesu Lebensleib](#letter-32)
+- [33. Wie wir unsere Gelegenheiten verbessern können](#letter-33)
+- [34. Reinheit](#letter-34)
+- [35. Der Faustmythos und die Freimaurerlegende](#letter-35)
+- [36. Östliche und westliche Entwicklungsmethoden](#letter-36)
+- [37. Warum es so viele verschiedene Kulte gibt](#letter-37)
+- [38. Was der Schüler vom Lehrer erwarten kann](#letter-38)
+- [39. Wo sollen wir die Wahrheit suchen, und wie sollen wir sie erkennen?](#letter-39)
+- [40. Warum der Wahrheitsucher in der Welt leben muß](#letter-40)
+- [41. Eine Methode, das Wahre vom Falschen zu unterscheiden](#letter-41)
+- [42. Unsere Verantwortung beim Verbreiten der Wahrheit](#letter-42)
+- [43. Das Leiden der Frau und moralische Gleichheit](#letter-43)
+- [44. Das Laster der Selbstsucht und die Macht der Liebe](#letter-44)
+- [45. Die Einweihung kann nicht durch Atemübungen erreicht werden](#letter-45)
+- [46. Der Weltkrieg und die Kindersterblichkeit](#letter-46)
+- [47. Die Unsichtbaren Helfer und ihre Arbeit auf dem Schlachtfeld](#letter-47)
+- [48. Der Weltkrieg und die allgemeine Bruderschaft](#letter-48)
+- [49. Wünsche ein zweischneidiges Schwert](#letter-49)
+- [50. Geistiger Wohlstand im neuen Jahr](#letter-50)
+- [51. Liebe, Weisheit und Wissen](#letter-51)
+- [52. Konzentration auf das Rosenkreuzer-Werk](#letter-52)
+- [53. Die kosmische Bedeutung des Osterfestes](#letter-53)
+- [54. Kraftverschwendung durch Zersplitterung](#letter-54)
+- [55. Epigenesis und künftiges Schicksal](#letter-55)
+- [56. Die Notwendigkeit der Verbreitung der Lehren](#letter-56)
+- [57. Astrologie als eine Hilfe bei der Krankenheilung](#letter-57)
+- [58. Unnatürliche Methoden zur Erreichung des Zieles](#letter-58)
+- [59. Die Rassengeister und die neue Rasse](#letter-59)
+- [60. Einwirkungen des Krieges auf geistige Blindheit](#letter-60)
+- [61. Zyklische Bewegungen der Sonne](#letter-61)
+- [62. Die Dankbarkeitsschuld des Lehrers](#letter-62)
+- [63. Geistige Lehrer, wahre und falsche](#letter-63)
+- [64. Der Kampf, der im Inneren tobt](#letter-64)
+- [65. Ostern, ein Versprechen der Lebenserneuerung](#letter-65)
+- [66. Tägliche Übung in Seelenkultur](#letter-66)
+- [67. Die wahren Helden der Welt](#letter-67)
+- [68. Das Werk der Rassengeister](#letter-68)
+- [69. Kämpfe der strebenden Seele](#letter-69)
+- [70. Wir bauen für das zukünftige Leben](#letter-70)
+- [71. Das Herniedersteigen des Christus-geistes im Herbst](#letter-71) 
+- [72. Die Gründe der Versuchungen, durch die der okkulte Student heimgesucht wird](#letter-72)
+- [73. Geistige Abrechnung während der heiligen Zeit des Jahres](#letter-73)
+- [74. Alle okkulte Entwicklung beginnt mit dem Lebensleib](#letter-74)
+- [75. Februar 1917 - Dienst nach bester Eignung](#letter-75)
+- [76. Verlorene Seelen und Nachzügler](#letter-76)
+- [77. Die unnötige Furcht vor dem Tod](#letter-77)
+- [78. Die Entwicklung des Herzens und die Einweihung](#letter-78)
+- [79. Das Opfer, ein Faktor im geistigen Fortschritt](#letter-79)
+- [80. Wie wir die Lehren dem Verständnis anderer nahe bringen](#letter-80)
+- [81. Der Wert des Durchsehens alter Lektionen](#letter-81)
+- [82. Zähmung eines unruhigen Gliedes](#letter-82)
+- [83. Ein inneres Schiedsgericht der Wahrheit](#letter-83)
+- [84. Epigenesis und das Gesetz von Ursache und Wirkung](#letter-84)
+- [85. Das gegenwärtige Leiden und der künftige Friede](#letter-85)
+- [86. Gott, die Quelle und das Ziel des Daseins](#letter-86)
+- [87. Die Notwendigkeit der Verwendung unserer Talente](#letter-87)
+- [88. Der Adel aller Arbeit](#letter-88)
+- [89. Das Wassermannzeitalter und der Neue Bund](#letter-89)
+- [90. Fleischverzehr und das Tragen von Pelzen](#letter-90)
+- [91. Duldsamkeit gegenüber dem Glauben anderer](#letter-91)
+- [92. Der Zweck des Krieges und unsere Stellung dazu](#letter-92)
+- [93. Die innere Kraft und die Verantwortung, die sich daraus ergibt](#letter-93)
+- [94. Die große Hilfe von Gleichgewicht in Zeiten der Not](#letter-94)
+- [95. Der Optimismus und der Glaube, daß sich schließlich alles zum Guten wendet](#letter-95)
+- [96. Verlängerung des Lebens der Urtype](#letter-96)
+- [97. Das Gesetz des Erfolges in geistigen Dingen](#letter-97)
 
 ### Vorwort
 
