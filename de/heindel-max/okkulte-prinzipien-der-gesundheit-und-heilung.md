@@ -88,8 +88,8 @@ Christus ermahnte seine Jünger: "Verkündet das Evangelium und heilt die Kranke
     - [Die wahre Ursache der Ansteckung](#the-true-cause-of-contagion)
     - [Macht der Gedanken](#power-of-thought)
   - [Kapitel XV: Gefahren des exzessiven Badens](#chapter-15)
-  - [Chapter XVI: Transfusion von Blut](#chapter-16) 
-  - [Chapter XVII: Auswirkung der Entfernung eines physichen Organs](#chapter-17)
+  - [Kapitel XVI: Transfusion von Blut](#chapter-16) 
+  - [Kapitel XVII: Auswirkung der Entfernung eines physichen Organs](#chapter-17)
     - [Entfernung der Mandeln](#removal-of-tonsils)
   - [Kapitel XVIII: Zu verwendede Heilungsform](#chapter-18)
     - [Einleitung](#chapter-18-introduction) 
@@ -801,7 +801,7 @@ An vielen Stellen, an denen in der Bibel von "Fleisch" die Rede ist, wird deutli
 
 Es gibt eine esoterische Bedeutung für die Speisung der Menge, bei der Fisch als Nahrung verwendet wurde, aber wenn wir den rein materiellen Aspekt betrachten, können wir die Punkte in unserer Antwort zusammenfassen, indem wir wiederholen, dass wir irgendwann über das Essen von Fleisch und Fisch hinauswachsen werden, da wir uns über den Kannibalismus erhoben haben. Was auch immer in der barbarischen Vergangenheit erlaubt war, wird in der altruistischen Zukunft verschwinden, wenn eine verfeinerte Sensibilität uns die Schrecken der Befriedigung eines fleischfressenden Geschmacks bewusster gemacht hat.
 
-#### NOTWENDIGKEIT EINER ATTRAKTIVEN UND AUSGEWOGENEN ERNÄHRUNG:
+#### <h4 id="necessity-for-an-attractive-balanced-diet">Notwendigkeit einer attraktiven und ausgewogenen Ernährung:</h4>
 
 Im erhabensten aller Gebete lehrt uns Christus, um unser tägliches Brot zu beten, aber wie oft bekommen wir unter den heutigen Bedingungen leider einen Stein.
 
@@ -815,7 +815,7 @@ Manchen, die in diesem wichtigen Bereich der Ernährung nicht richtig unterricht
 
 Die Ernährung ist ebenso wie die Gesundheit individuell bestimmt, und es kann keine allgemeine Norm aufgestellt werden. Gleichzeitig kann man mit Sicherheit sagen, dass unsere allgemeine Gesundheit umso besser ist, je weniger Fleisch wir zu uns nehmen können. Wenn wir aber ganz darauf verzichten wollen, ist es unbedingt notwendig, eine Nährwerttabelle zu studieren, damit wir die notwendigen Proteine aus dem Gemüse bekommen, das wir essen. Kein Mensch kann sich ausreichend ernähren, wenn er nur das Gemüse isst, das als Beilage zum Fleisch angeboten wird; er muss Bohnen, Erbsen, Nüsse und ähnliche eiweißreiche Lebensmittel zu sich nehmen, um das weggeworfene Fleisch zu ersetzen, oder er wird verhungern.
 
-#### DIE ROLLE VON STIMULANZIEN IN DER EVOLUTION:
+#### <h4 id="the-role-of-stimulants-in-evolution">Die Rolle von Stimulanzien in der Evolution:</h4>
 
 Der Alkohol, der außerhalb des Körpers vergoren wird, wird durch Zucker ersetzt, der innerhalb des Körpers gärt. In der Vergangenheit war ein Stimulans unentbehrlich, um den menschlichen Geist aus der Lethargie zu wecken, die mit einer Fleischnahrung einhergeht; die bacchantischen Orgien in den antiken Tempeln, die uns heute zu Recht mit Schrecken erfüllen, waren damals von unermesslichem Wert für die menschliche Entwicklung. Mit zunehmendem Zuckerkonsum nimmt der Alkoholkonsum ab, und gleichzeitig wird das moralische Niveau allmählich angehoben. Die Menschen werden im Verhältnis zu ihrem Konsum des nicht berauschenden Genussmittels altruistischer und christusähnlicher, und daher ist die Mäßigungsbewegung einer der mächtigsten Faktoren, um das Kommen Christi zu beschleunigen.
 
@@ -825,7 +825,7 @@ In der Zwischenzeit wird das Pflanzenleben immer empfindungsfähiger. Die seitli
 
 Heute verfügen wir über beträchtliche Fähigkeiten im Umgang mit den chemischen Mineralien; wir formen sie zu Häusern, Schiffen und allen äußeren Dingen, die von unserer Zivilisation zeugen. Wir sind Meister der Mineralien AUSSERHALB unseres Körpers, aber machtlos, sie INNERHALB unseres Systems zu assimilieren und zum Aufbau unserer Organe zu verwenden, bis das Pflanzenleben Kristalle in Kristalloide umgewandelt hat. Unsere Arbeit mit den Mineralien in der äußeren Welt hebt ihre Schwingung an und ebnet den Weg für die direkte innere Verwendung. Durch spirituelle Alchemie werden wir den Tempel des Geistes errichten, den Staub erobern, aus dem wir gekommen sind, und uns als wahre Meister-Freimaurer für die Arbeit in höheren Sphären qualifizieren.
 
-#### FASTEN ALS MITTEL ZUR HEILUNG UND ALS FAKTOR FÜR SEELISCHES WACHSTUM:
+#### <h4 id="fasting-as-a-means-of-healing-and-a-factor-in-soul-growth">Fasten als Mittel zur Heilung und als Faktor für seelisches Wachstum:</h4>
 
 Man kann sich leicht vorstellen, dass es im Westen mehr Menschen gibt, die an Überernährung sterben, als an zu wenig Nahrung. Unter bestimmten Bedingungen ist ein oder zwei Tage Fasten zweifellos vorteilhaft, aber so wie es Feinschmecker und Vielfraße gibt, so gibt es auch andere, die ins entgegengesetzte Extrem gehen und bis zum Exzess fasten. Darin liegt eine große Gefahr. Der beste Weg ist, in Maßen zu essen und die richtigen Nahrungsmittel zu sich zu nehmen; dann ist es gar nicht nötig zu fasten.
 
@@ -837,16 +837,18 @@ Ihnen wurden die Geheimnisse des Vitalkörpers erklärt, wie er aus vier Äthern
 
 Diese Tatsachen wurden, wie gesagt, vor den Massen geheim gehalten, oder besser gesagt, sie hätten es sein sollen, aber einige Neophyten, die übereifrig waren, etwas zu erreichen, egal wie, vergaßen, dass das goldene Hochzeitsgewand, das aus den beiden höheren Äthern besteht, nur durch Dienst und Selbstlosigkeit wächst. Sie dachten, dass die okkulte Maxime:
 
-    "Gold im Schmelztiegel,  
-    Geschmiedet im Feuer;  
-    Leicht wie der Wind,  
-    Höher und höher"  
+```
+"Gold im Schmelztiegel,  
+Geschmiedet im Feuer;  
+Leicht wie der Wind,  
+Höher und höher"  
+```
 
 Sie meinten nur, dass, solange die niedere Natur, die Schlacke, ausgetrieben wurde, es nicht darauf ankäme, wie, und wenn sie eine einfache Methode finden könnten, würden sie nur das Gold übrig lassen, das aus den beiden höheren Äthern besteht, den Soll-Körper, in dem sie ungehindert in die unsichtbare Welt eintreten könnten. Sie schlussfolgerten, dass der chemische Äther, da er das Mittel der Assimilation ist, aus dem Vitalkörper entfernt werden kann, indem man das physische Vehikel aushungert.
 
 Aber das Ergebnis, das diese fehlgeleiteten Menschen und ihre Anhänger erzielten, war weit von dem entfernt, was mit der Ausbildung in der Mysterienschule beabsichtigt war. Der Kandidat wurde dort zuallererst gelehrt, dass der Körper der Tempel Gottes ist und dass es eine große Sünde ist, ihn in irgendeiner Weise zu verunreinigen, zu zerstören oder zu verstümmeln. Der Appetit ist eine Sünde, eine Verunreinigung, die eine gewisse Strafe nach sich zieht, aber sie ist nicht mehr zu tadeln als das Fasten zur Stärkung der Seele. RICHTIGES LEBEN IST WEDER FASTEN NOCH FEASTEN, sondern dem Körper die Elemente zu geben, die notwendig sind, um ihn in der richtigen Form von Gesundheit, Kraft und Wirksamkeit als Werkzeug des Geistes zu erhalten. Deshalb ist das Fasten für das Wachstum der Seele eine Pseudomethode, die genau das Gegenteil von dem bewirkt, was ihre kurzsichtigen Urheber damit erreichen wollten.
 
-#### DEN GESUNDHEITSWERT UNVERDAULICHER LEBENSMITTEL:
+#### <h4 id="the-health-value-of-indigestible-foods">Den Gesundheitswert unverdaulicher Lebensmittel:</h4>
 
 Es mag auf den ersten Blick absurd erscheinen, zu sagen, dass die Gesundheit umso besser ist, je unverdaulicher unsere Nahrungsmittel sind; dennoch ist die Aussage, wenn man sie etwas relativiert, wahr. Nahrungsmittel, die gewöhnlich als unverdaulich bezeichnet werden, weil wir nach ihrem Verzehr Unwohlsein empfinden, verursachen in Wirklichkeit Probleme, weil sie zu gründlich verdaut wurden, während andere Nahrungsmittel, die fast völlig unverdaulich sind und daher in gewissem Sinne gar keine Nahrungsmittel sind, uns alle Gefühle von Gesundheit und Wohlbefinden vermitteln.
 
@@ -862,9 +864,11 @@ Es steht außer Frage, dass Vollkornbrot viel nahrhafter, schmackhafter und ges�
 
 Vergleichen Sie die Wirkung auf den Darm von Lebensmitteln wie Eiern, Fleisch und Käse, die fast vollständig assimiliert werden und keine grobe Masse hinterlassen, um den Darm nach der Verdauung einer Mahlzeit zu reinigen, mit Gemüse wie Hülsenfrüchten (sparsam verwendet), Rüben, Karotten, Sellerie, Zwiebeln usw., die alle Elemente des Fleisches enthalten und zusätzlich die für die Gesundheit unentbehrliche Masse aus groben Fasern, die allein in der Lage sind, den Verdauungstrakt zu reinigen, alle schädlichen Abfallprodukte zu beseitigen und das System in einem gesunden Zustand zu lassen.
 
-Der Archetyp bestimmt die Form und die Figur eines Menschen, und dies wird seine normale Gestalt in Gesundheit sein, aber durch unsere Diätstörung ändern wir dies oft, so dass die Energie des Körpers in den Prozess der Beseitigung einer enormen Menge an Nahrung, die wir nicht assimilieren können, verbraucht wird und wir deshalb dünner werden. Das Gegenteil ist der Fall, wenn die Ausscheidungskräfte schlecht sind; dann wird aufgrund einer unnatürlichen Ernährung überschüssiges Fleisch oder Fettgewebe angelegt. Bei einer wissenschaftlich zubereiteten Diät nehmen die Menschen, die aufgrund einer früheren falschen Ernährung zu dünn waren, an Fleisch zu, und umgekehrt hören diejenigen, die unnatürlich viel Fleisch angesetzt haben, damit auf, so dass sich ihr Gewicht verringert.
+Der Archetyp bestimmt die Form und die Figur eines Menschen, und dies wird seine normale Gestalt in Gesundheit sein, aber durch unsere Diätstörung ändern wir dies oft, so dass die Energie des Körpers in den Prozess der Beseitigung einer enormen Menge an Nahrung, die wir nicht assimilieren können, verbraucht wird und wir deshalb dünner werden. Das Gegenteil ist der Fall, wenn die Ausscheidungskräfte schlecht sind; dann wird aufgrund einer unnatürlichen Ernährung überschüssiges Fleisch oder Fettgewebe angelegt. 
 
-#### DIE FOLGEN VON ZU HÄUFIGEM ESSEN:
+Bei einer wissenschaftlich zubereiteten Diät nehmen die Menschen, die aufgrund einer früheren falschen Ernährung zu dünn waren, an Fleisch zu, und umgekehrt hören diejenigen, die unnatürlich viel Fleisch angesetzt haben, damit auf, so dass sich ihr Gewicht verringert.
+
+#### <h4 id="results-of-eating-too-frequently">Die Folgen von zu häufigem Essen:</h4>
 
 Eine weitere fruchtbare Ursache für Verdauungsstörungen ist die Gewohnheit, alle paar Stunden zu essen. Menschen, die die Angewohnheit haben, fünf- oder sechsmal am Tag zu essen, behaupten häufig, dass sie hungrig sind und etwas essen müssen, weil sie sonst krank sind. In Wirklichkeit ist das Toben auf eine Erkrankung des Magens zurückzuführen, und die Erleichterung resultiert aus dem Gewicht der Nahrung, die den Magen abtötet.
 
@@ -872,9 +876,9 @@ Wir bezeichnen es als kriminell, einem Morphiumsüchtigen mehr zu geben, nur wei
 
 Aus diesen Gründen sollte jeder, der Gesundheit erlangen und erhalten will, darauf achten, nur zwei- oder dreimal am Tag und SPARLICH zu essen, wobei er darauf achtet, dass er eher zu viel als zu wenig Nahrung zu sich nimmt, denn es ist eine Tatsache, dass viel, viel mehr Menschen an zu viel Nahrung sterben als an zu wenig.
 
-### KAPITEL 11. ASTROLOGIE ALS HILFE ZUR HEILUNG
+### <h3 id="chapter-11">Kapitel 11. Astrologie als Hilfe zur Heilung</h3>
 
-#### ASTROLOGISCHE GRUNDLAGE FÜR DIE HEILUNG:
+#### <h4 id="astrological-basis-for-healing">Astrologische Grundlage für die Heilung:</h4>
 
 Der moderne Arzt weiß sehr wohl, dass sich der Zustand des Blutes und damit der Zustand des ganzen Körpers im Einklang mit dem Geisteszustand des Patienten ändert, und je mehr der Arzt die Suggestion als Hilfsmittel zur Medizin einsetzt, desto erfolgreicher ist er. Nur wenige würden vielleicht der weiteren Tatsache Glauben schenken, dass sowohl unser geistiger als auch unser körperlicher Zustand durch planetarische Strahlen beeinflusst wird, die sich mit der Bewegung der Planeten verändern. Seitdem das Prinzip der Radioaktivität bekannt ist, wissen wir, dass jeder Mensch unzählige kleine Teilchen in den Raum projiziert. Die drahtlose Telegrafie hat uns gelehrt, dass ätherische Wellen schnell und sicher durch den Raum reisen und einen Schlüssel nach unserem Willen betätigen. Wir wissen auch, dass die Sonnenstrahlen morgens anders auf uns wirken, wenn sie waagerecht auf uns treffen, als mittags, wenn sie senkrecht stehen. Wenn die Lichtstrahlen der sich schnell bewegenden Sonne körperliche und geistige Veränderungen hervorrufen, könnten dann nicht auch die anhaltenden Strahlen der langsamen Planeten eine Wirkung haben? Wenn ja, dann sind sie Faktoren für die Gesundheit, die von einem durch und durch wissenschaftlichen Heiler nicht übersehen werden dürfen, und wir behaupten daher, dass zu bestimmten Zeiten, wenn die Sternstrahlen für die Heilung einer bestimmten Krankheit oder für die Behandlung mit zuvor unter günstigen Bedingungen zubereiteten Heilmitteln günstig sind, leichter Ergebnisse erzielt werden können.
 
@@ -896,7 +900,7 @@ Wenn wir mit geistiger Schau auf einen kranken Menschen blicken, egal ob der phy
 
 Keiner aus der heutigen Menschheit kommt auch nur annähernd an die Größe Christi heran, folglich kann auch keiner seine Macht in solch extremen Fällen ausüben; aber das Bedürfnis nach dieser Macht in aktiver Manifestation besteht heute genauso wie vor zweitausend Jahren. Der Geist durchdringt alles in und auf unserem Planeten, aber in unterschiedlichem Maße. Zu manchen Substanzen hat er eine größere Affinität als zu anderen. Da er eine Emanation des Christusprinzips ist, ist es der Universelle Geist, der die Welt des Lebensgeistes bildet, der die synthetische Harmonie des Körpers wiederherstellt.
 
-#### DIE GESETZE DER KOMPATIBILITÄT UND DER SYSTEMISCHEN AUFNAHMEFÄHIGKEIT:
+#### <h4 id="the-laws-of-compatibility-and-systemic-receptibility">Die Gesetze der Kompatibilität und der systemischen Aufnahmefähigkeit:</h4>
 
 Es gibt zwei grundlegende Gesetze in der Wissenschaft der Astrotherapie oder der Heilung durch den Einsatz des Sternstrahls: das eine ist das Gesetz der Kompatibilität, das andere das Gesetz der systemischen Empfänglichkeit. Durch die Kenntnis und intelligente Anwendung dieser Gesetze werden Kranke viel schneller wieder gesund, als dies sonst der Fall wäre, und das mit einem Minimum an Aufwand für den Behandelnden.
 
@@ -920,7 +924,7 @@ Die Sonne ist das große Reservoir des LEBENS, das genaue Gegenteil von Saturn; 
 
 So sind Menschen, die geboren wurden, als die Sonne in einem der feurigen Zeichen Widder, Löwe oder Schütze stand, besonders erfolgreich bei der Behandlung von Kopf, Herz, Rückenmark, Oberschenkelbereich, Fieber usw. Diejenigen, die im April geboren sind und deren Sonne im Widder steht, eignen sich am besten für die Behandlung akuter Fälle dieser Krankheiten. Diejenigen, die im August geboren sind, mit der Sonne in Löwe, werden in chronischen Fällen erfolgreich sein, wo andere versagen würden, und wenn diese Heiler sich eine Krankenschwester mit der Sonne in Schütze sichern, wird er oder sie ihnen in all ihren Fällen helfen, wie es niemand sonst könnte. Das Gleiche gilt für die anderen Dreifaltigkeiten.
 
-#### EINFLUSS DES MONDES AUF DIE HEILUNG:
+#### <h4 id="influence-of-the-moon-in-healing">Einfluss des Mondes auf die Heilung:</h4>
 
 Der Mond ist die Himmelskugel, die alles zustande bringt; was von allen anderen Planeten vorhergesagt wird, kommt erst durch den Mond zu seinem Höhepunkt.
 
@@ -936,7 +940,7 @@ Wenn der Mond zunimmt und sich einer Konjunktion mit Mars und Merkur nähert, ha
 
 Wenn der zunehmende Mond in einem guten Aspekt zu Jupiter und Venus steht, bringt die Herzstimulation die nachhaltigsten Ergebnisse. Herzklopfen wird am wirksamsten behandelt, wenn der Mond abnehmend ist und die vorgenannten Planeten günstig aspektiert. Wenden Sie Herzstimulanzien mit äußerster Vorsicht an, wenn der Mond diese Planeten ungünstig aspektiert, vor allem wenn es dunkel ist. Auch Anästhetika sind dann am ehesten geeignet, fatale Folgen zu haben. Wenn wir die Funktion des Nervus pneumogastricus bis zu einem gewissen Grad hemmen, beruhigen wir die Herztätigkeit und wenden dann etwas an, was in der Medizin einem Beruhigungsmittel gleichzusetzen ist. Die Manipulation dieses Nervs in einer Weise, die die Aktion anregt, entspricht der Anwendung eines medizinischen Stimulans.
 
-#### PLANETARISCHE POLARITÄTEN:
+#### <h4 id="planetary-polarities">Planetarische Polaritäten:</h4>
 
 Wenn wir den Magnetismus studieren, haben wir es mit einer unsichtbaren Kraft zu tun; und normalerweise können wir bestenfalls angeben, wie sie sich in der physischen Welt manifestiert, wie es immer der Fall ist, wenn wir uns mit einer KRAFT beschäftigen. Die physische Welt ist die Welt der Wirkungen; die Ursachen sind unserem Blick verborgen, obwohl sie näher sind als Hände oder Füße. Die Kraft ist überall um uns herum, unsichtbar und nur an den Wirkungen zu erkennen, die sie hervorbringt.
 
@@ -976,9 +980,9 @@ Für Heiler, Krankenschwester und Patient wird die Kompatibilität durch das auf
 
 Es ist auch darauf zu achten, dass Saturn im Horoskop der Krankenschwester oder des Heilers nicht in einem der Tierkreisgrade im sechsten Haus des Patienten steht.
 
-### KAPITEL 12. DIE THERAPEUTISCHE GRUNDLAGE VON LICHT, FARBE UND TON
+### <h3 id="chapter-12">Kapitel 12. Die therapeutische Grundlage von Licht, Farbe und Ton</h3>
 
-#### Gott ist Licht.
+Gott ist Licht.
 
 Jedes Mal, wenn wir uns in diese drei Worte versenken, tauchen wir in eine geistige Quelle von unerschöpflicher Tiefe ein, und jedes Mal, wenn wir sie wiederholen, loten wir die göttlichen Tiefen gründlicher aus und nähern uns unserem Vater im Himmel mehr an.
 
@@ -1014,24 +1018,26 @@ Unser hochmütiges Lächeln aus vergangenen Tagen, als wir die Geschichte von Jo
 
 So können wir sagen, dass jeder Planet einen Grundton ausstrahlt, der die Summe aller Geräusche auf ihm ist, die vom ihm innewohnenden planetarischen Geist vermischt und harmonisiert werden. Dieser Ton kann mit dem geistigen Ohr gehört werden. Wie Goethe sagt:
 
-    "Die Sonne stimmt ihr altes Lied an  
-    Mitten im rivalisierenden Gesang der Brudersphären;  
-    Sein vorgeschriebener Weg führt ihn entlang  
-    Und das mit großem Erfolg, über die Jahre hinweg.  
+```
+"Die Sonne stimmt ihr altes Lied an  
+Mitten im rivalisierenden Gesang der Brudersphären;  
+Sein vorgeschriebener Weg führt ihn entlang  
+Und das mit großem Erfolg, über die Jahre hinweg.  
 
-    "Klang dem geistigen Ohr verkündet die  
-    Der Tag der Neugeborenen ist da;  
-    Die Felsentore knarren und klappern,  
-    Phoebus' Räder rollen, singen.  
-    Was für ein intensiver Klang, den das Licht bringt."  
+"Klang dem geistigen Ohr verkündet die  
+Der Tag der Neugeborenen ist da;  
+Die Felsentore knarren und klappern,  
+Phoebus' Räder rollen, singen.  
+Was für ein intensiver Klang, den das Licht bringt."  
+```
 
 Die unsichtbaren Klangschwingungen haben große Macht über konkrete Materie. Sie bauen auf und zerstören zugleich. Wenn man eine kleine Menge sehr feinen Pulvers auf eine Messing- oder Glasplatte gibt und einen Geigenbogen über den Rand zieht, bewirken die Schwingungen, dass das Pulver schöne geometrische Figuren annimmt. Auch die menschliche Stimme ist in der Lage, diese Figuren zu erzeugen; immer die gleiche Figur für den gleichen Ton.
 
 Wenn eine Note oder ein Akkord nach dem anderen auf einem Musikinstrument erklingt - einem Klavier oder vorzugsweise einer Geige, weil damit mehr Tonabstufungen erreicht werden können -, wird schließlich ein Ton erreicht, der den Hörer veranlasst, eine deutliche Vibration im hinteren Teil des unteren Kopfes zu spüren. Jedes Mal, wenn dieser Ton angeschlagen wird, ist die Vibration zu spüren. Dieser Ton ist der Grundton der Person, auf die er so wirkt. Wenn er dominant, laut und lange genug erklingt, tötet er so sicher wie eine Kugel aus einer Pistole. Wird er dagegen langsam und beruhigend angeschlagen, baut er den Körper auf und beruhigt ihn, stärkt die Nerven und stellt die Gesundheit wieder her. 
 
-### KAPITEL 13. SCHLAF UND GESUNDHEIT
+### <h3 id="chapter-13">Kapitel 13. Schlaf und Gesundheit</h3>
 
-#### DEN WERT DES SCHLAFES:
+#### <h4 id="the-value-of-sleep">Den Wert des Schlafes:</h4>
 
 Tagsüber spezialisiert sich der Vitalkörper durch das Organ, das wir Milz nennen, auf die farblose Sonnenflüssigkeit, die überall um uns herum ist. Diese Vitalität durchdringt den ganzen Körper und wird vom Hellsichtigen als eine Flüssigkeit von blassrosa Farbe gesehen, die beim Eintritt in den physischen Körper transmutiert wurde. Sie fließt entlang jedes Nervs, und wenn sie von den Gehirnzentren in besonders großen Mengen ausgesandt wird, bewegt sie die Muskeln, zu denen die Nerven führen.
 
@@ -1045,13 +1051,15 @@ Der Schlaf ist jedoch kein inaktiver Zustand, sonst gäbe es keinen Unterschied 
 
 Wenn ein Gebäude durch ständige Abnutzung baufällig geworden ist und renoviert werden muss, ziehen die Mieter aus, um den Handwerkern freie Hand zu lassen. Aus ähnlichen Gründen zieht das Ego nachts aus seinem Mietshaus aus. Wie die Handwerker an dem Gebäude arbeiten, um es wieder bewohnbar zu machen, so muss das Ich an seinem Gebäude arbeiten, bevor es wieder einziehen kann. Und eine solche Arbeit wird von uns während der Nacht verrichtet, obwohl wir uns dessen im Wachzustand nicht bewusst sind. Es ist diese Tätigkeit, die die Gifte aus dem System entfernt, und als Ergebnis ist der Körper am Morgen, wenn das Ego zur Zeit des Erwachens eintritt, frisch und kraftvoll.
 
-#### WIE MAN KRANKHEITEN IM SCHLAF BEHANDELT:
+#### <h4 id="how-to-treat-disease-during-sleep">Wie man Krankheiten im Schlaf behandelt:</h4>
 
 Es wurde gefragt, ob ein Mensch im natürlichen Schlaf genauso beeinflusst werden kann wie im hypnotischen Schlaf, oder ob es einen Unterschied gibt. Ja, es gibt einen Unterschied. Im natürlichen Schlaf zieht sich das Ego, gekleidet in den Verstand und den Wunschkörper, aus dem physischen Körper heraus und schwebt gewöhnlich über dem Körper oder bleibt jedenfalls nahe bei ihm, verbunden durch die Silberschnur, während der Vitalkörper und der dichte Körper auf dem Bett ruhen.
 
-Es ist dann möglich, den Menschen zu beeinflussen, indem wir ihm die Gedanken und Ideen einflößen, die wir ihm vermitteln wollen. Dennoch können wir ihn dann nicht dazu bringen, etwas zu tun oder eine Idee zu haben, außer der, die seinen natürlichen Neigungen entspricht. Es ist unmöglich, ihm zu befehlen, etwas zu tun und Gehorsam zu erzwingen, genauso wie wenn er durch die Pässe des Hypnotiseurs ausgetrieben wurde, denn es ist das Gehirn, das die Muskeln bewegt, und während des natürlichen Schlafes ist sein Gehirn von seinem eigenen Vitalkörper durchdrungen, und er hat sich selbst vollkommen unter Kontrolle, während während des hypnotischen Schlafes die Pässe des Hypnotiseurs den Äther, aus dem sein Vitalkörper besteht, aus dem Gehirn herausgetrieben haben, bis hinunter zu den Schultern des Opfers, wo er sich um seinen Hals legt und dem Kragen eines Pullovers ähnelt. Das dichte Gehirn ist dann offen für den Äther aus dem Vitalkörper des Hypnotiseurs, der den Äther des eigentlichen Besitzers verdrängt. Im HYPNOTISCHEN SCHLAF hat der Betroffene also keinerlei Wahl bezüglich der Ideen, die er aufnimmt, oder der Bewegungen, die er mit seinem Körper ausführt, während er im normalen Schlaf immer noch ein freier Akteur ist. In der Tat ist diese Methode der Suggestion während des Schlafes etwas, das Mütter bei der Behandlung von widerspenstigen Kindern als äußerst vorteilhaft empfinden werden, denn wenn die Mutter sich an das Bett des schlafenden Kindes setzt, seine Hand hält, mit ihm so spricht, wie sie sprechen würde, wenn es wach ist, seinem Gehirn Ideen einflößt, von denen sie möchte, dass es sie hegt, wird sie feststellen, dass viele dieser Ideen im Wachzustand Wurzeln geschlagen haben. Auch im Umgang mit einer kranken oder trunksüchtigen Person werden die Mutter, die Krankenschwester oder andere Personen, die diese Methode anwenden, feststellen, dass es ihnen möglich ist, Hoffnung und Heilung einzuflößen, was die Genesung wesentlich fördert und die Selbstbeherrschung unterstützt.
+Es ist dann möglich, den Menschen zu beeinflussen, indem wir ihm die Gedanken und Ideen einflößen, die wir ihm vermitteln wollen. Dennoch können wir ihn dann nicht dazu bringen, etwas zu tun oder eine Idee zu haben, außer der, die seinen natürlichen Neigungen entspricht. Es ist unmöglich, ihm zu befehlen, etwas zu tun und Gehorsam zu erzwingen, genauso wie wenn er durch die Pässe des Hypnotiseurs ausgetrieben wurde, denn es ist das Gehirn, das die Muskeln bewegt, und während des natürlichen Schlafes ist sein Gehirn von seinem eigenen Vitalkörper durchdrungen, und er hat sich selbst vollkommen unter Kontrolle, während während des hypnotischen Schlafes die Pässe des Hypnotiseurs den Äther, aus dem sein Vitalkörper besteht, aus dem Gehirn herausgetrieben haben, bis hinunter zu den Schultern des Opfers, wo er sich um seinen Hals legt und dem Kragen eines Pullovers ähnelt. 
 
-#### DIE WIRKUNG DES HYPNOTISCHEN SCHLAFS:
+Das dichte Gehirn ist dann offen für den Äther aus dem Vitalkörper des Hypnotiseurs, der den Äther des eigentlichen Besitzers verdrängt. Im HYPNOTISCHEN SCHLAF hat der Betroffene also keinerlei Wahl bezüglich der Ideen, die er aufnimmt, oder der Bewegungen, die er mit seinem Körper ausführt, während er im normalen Schlaf immer noch ein freier Akteur ist. In der Tat ist diese Methode der Suggestion während des Schlafes etwas, das Mütter bei der Behandlung von widerspenstigen Kindern als äußerst vorteilhaft empfinden werden, denn wenn die Mutter sich an das Bett des schlafenden Kindes setzt, seine Hand hält, mit ihm so spricht, wie sie sprechen würde, wenn es wach ist, seinem Gehirn Ideen einflößt, von denen sie möchte, dass es sie hegt, wird sie feststellen, dass viele dieser Ideen im Wachzustand Wurzeln geschlagen haben. Auch im Umgang mit einer kranken oder trunksüchtigen Person werden die Mutter, die Krankenschwester oder andere Personen, die diese Methode anwenden, feststellen, dass es ihnen möglich ist, Hoffnung und Heilung einzuflößen, was die Genesung wesentlich fördert und die Selbstbeherrschung unterstützt.
+
+#### <h4 id="the-effect-of-hypnotic-sleep">Die Wirkung des hypnotischen Schlafs:</h4>
 
 Vom okkulten Standpunkt aus ist es offensichtlich falsch, eine schlechte Angewohnheit, wie z.B. Trunkenheit, durch Hypnose heilen zu wollen. Vom Standpunkt eines einzelnen Lebens aus betrachtet, sind solche Methoden, wie sie von den Heilern der Immanuel-Bewegung usw. angewandt werden, zweifellos von großem Nutzen. Der Patient wird auf einen Stuhl gesetzt, in Schlaf versetzt und erhält dort bestimmte sogenannte "Suggestionen". Er steht auf und wird von seiner schlechten Angewohnheit geheilt; aus dem Trunkenbold wird ein respektabler Bürger, der sich um seine Frau und seine Familie kümmert, und auf den ersten Blick scheint das Gute unbestreitbar zu sein.
 
@@ -1059,7 +1067,7 @@ Betrachtet man es jedoch vom tieferen Standpunkt des Okkultisten aus, der dieses
 
 So überwindet das Opfer eines hypnotischen Heilers die schlechte Angewohnheit nicht aus eigener Kraft, sondern ist in dieser Hinsicht genauso gefesselt wie in Einzelhaft, und obwohl er in diesem Leben ein besserer Bürger zu sein scheint, wird er, wenn er in einer anderen Verkörperung auf die Erde zurückkehrt, dieselbe Schwäche haben und kämpfen müssen, bis er sie endlich selbst überwindet.
 
-#### SCHÜTZENDEN EINFLUSS:
+#### <h4 id="Schützenden Einfluss">SCHÜTZENDEN EINFLUSS:</h4>
 
 Es gibt Methoden, um sich vor feindlichen Einflüssen zu schützen, und es ist besser, über die Dinge, die uns bedrohen, aufgeklärt zu sein, damit wir die notwendigen Vorkehrungen treffen können, um dem Notfall zu begegnen.
 
@@ -1069,9 +1077,9 @@ Es ist eine Tatsache, dass jeder Mensch von einer aurischen Atmosphäre umgeben 
 
 Aber leider ist keiner von uns ganz und gar gut. Wir kennen den Kampf zwischen dem Fleisch und dem Geist nur zu gut. Wir können nicht vor uns selbst verbergen, dass wir wie Paulus "das Gute, das wir tun wollen, nicht tun, und das Böse, das wir meiden wollen, tun wir." Viel zu oft laufen unsere guten Vorsätze ins Leere und wir tun das Böse, weil es einfacher ist. Deshalb haben wir alle einen Kern des Bösen in uns, der ein offenes Tor für die bösen Kräfte darstellt, um daran zu arbeiten. Aus diesem Grund ist es am besten, wenn wir uns nicht unnötig an Orten exponieren, an denen Séancen mit für uns unsichtbaren Geistern abgehalten werden, ganz gleich, wie schön ihre Lehren für den Ungeübten klingen mögen. Auch sollten wir nicht einmal als Zuschauer an hypnotischen Vorführungen teilnehmen, denn auch dort birgt eine negative Einstellung die Gefahr der Besessenheit. Wir sollten jederzeit den Rat des Paulus befolgen und die ganze Waffenrüstung Gottes anziehen. Wir sollten in unserem Kampf für das Gute gegen das Böse positiv eingestellt sein und keine Gelegenheit ungenutzt lassen, den Älteren Brüdern im Großen Krieg um die geistige Vorherrschaft mit Rat und Tat zur Seite zu stehen. 
 
-### KAPITEL 14. GEIST UND HEILUNG
+### <h3 id="chapter-14">Kapitel XIV: Geist und Heilung</h3>
 
-#### DIE WAHRE URSACHE DER ANSTECKUNG:
+#### <h4 id="the-true-cause-of-contagion">Die wahre Ursache der Ansteckung:</h4>
 
 Es gibt viele Menschen von hochmütiger Natur, die immer bereit sind, einen Witz auf Kosten derjenigen zu machen, die Methoden göttlicher Heilung praktizieren, die lehren, unter allen Umständen eine furchtlose Geisteshaltung zu kultivieren. Tatsächlich aber ist ein enormer Prozentsatz unserer Krankheiten tatsächlich auf Angstgefühle des Patienten zurückzuführen.
 
@@ -1091,7 +1099,7 @@ Ob die konsequenten Geisteswissenschaftler oder andere, die an göttliche Heilun
 
 Die eigentliche Tatsache und die Wahrheit in dieser Angelegenheit ist, dass die Ansteckung von innen kommt. Solange wir ein vernünftiges Leben führen, unseren Körper mit reinen Nahrungsmitteln aus dem Pflanzenreich ernähren, uns ausreichend bewegen und geistig aktiv bleiben, können wir uns der Verheißung sicher sein, dass der Herr unsere Zuflucht ist. Solange wir auf diese Weise unseren Glauben durch unsere Werke unter Beweis stellen, wird uns kein Übel widerfahren. Wenn wir dagegen unseren Glauben an Gott durch die Missachtung seiner Gesetze enttäuschen, sind unsere Erwartungen an die Gesundheit vergebens.
 
-#### MACHT DER GEDANKEN:
+#### <h4 id="power-of-thought">Macht der Gedanken:</h4>
 
 "Wie der Mensch in seinem Herzen denkt, so ist er", sagte Christus, und das ist ein absolut wissenschaftlicher Satz, den im Übrigen jeder beweisen kann, indem er sich in den alltäglichen Lebensumständen zu Hause, im Büro oder auf der Straße umsieht. Hier sehen wir einen Mann mit dicken Lippen, mit aufgeblähten Wangen, mit einem regelrechten Beutel unter dem Kinn, und wir wissen sofort, dass wir einen Vielfraß und Sinnesfreudigen vor uns haben. Ein anderer kommt die Straße entlang; sein Gesicht ist von Falten zerfurcht, seine Lippen sind dünn und gespannt, und wir wissen, dass Gedanken und Sorgfalt die Architekten waren, die sein Gesicht geformt haben.
 
@@ -1105,7 +1113,7 @@ Es ist ein Gesetz, dass, wenn wir an Gesundheit denken, wir früher oder später
 
 Vielleicht haben Sie die Geschichte von der alten Frau gehört, die ihren Pfarrer über einen Glauben sprechen hörte, der Berge versetzen kann. Sie war bereit, ihren Glauben auf dem Aschehaufen zu testen, aber als sie am nächsten Morgen sah, dass er immer noch da war, rief sie aus: "Das dachte ich mir." Die Bedingungen waren das, was sie in ihrem Herzen erwartete, nicht das, was sie mit ihrer Zunge zu glauben vorgab, und so wird es auch bei jedem sein. Deshalb glauben Sie von Herzen an die Gesundheit. 
 
-### KAPITEL 15. GEFAHREN DES EXZESSIVEN BADENS
+### <h3 id="chapter-15">Kapitel 15. Gefahren des exzessiven Badens</h3>
 
 Während Sauberkeit an sich eine Tugend ist, wird sie, wie viele andere gute Dinge auch, zu einem Laster, wenn man es übertreibt. Wasser ist das universelle Lösungsmittel und in kleinen Dosen innerlich eingenommen ist es gut, aber zur falschen Zeit eingenommen, zum Beispiel zu den Mahlzeiten, und im Übermaß, wird es zum Gift. Es verdünnt die Verdauungssäfte und kühlt den Magen ab, so dass der für die richtige Verarbeitung der Nahrung notwendige Zustand gestört wird, und mit der Zeit, wenn die Gewohnheit beibehalten wird, beeinträchtigt es die Verdauung dauerhaft. So kann auch Wasser, wenn es im Übermaß und unter falschen Bedingungen getrunken wird, die Gesundheit sehr ernsthaft beeinträchtigen.
 
@@ -1123,7 +1131,7 @@ Fälle dieser Art sind äußerst schwierig zu behandeln, weil sie gewöhnlich be
 
 Der erste Schritt zur Gesundheit besteht darin, dass sie ganz auf das Baden verzichten. Das Trockenbad ist das richtige Stärkungsmittel, und zu diesem Zweck eignen sich am besten ein Paar grobe Handschuhe aus locker gewebtem Leinenband. Mit diesen kann der Körper morgens und abends abgerieben werden, bis die Haut einen gesunden Glanz zeigt. Auf diese Weise wird die überflüssige Nagelhaut entfernt, aber das Öl und der Äther bleiben erhalten. Auf diese Weise wird der Patient sehr schnell wieder aufgebaut, denn wenn der chemische Äther zunimmt, lebt auch die Assimilationskraft wieder auf, und es kommt zu einem sofortigen Gewinn an Kraft und Fleisch. Wenn nötig, kann der Patient einmal wöchentlich ein leichtes warmes Schwammbad nehmen, aber bis zur vollständigen Genesung sollten keine Wannenbäder versucht werden. 
 
-### KAPITEL 16. TRANSFUSION VON BLUT
+### <h3 id="chapter-16">Kapitel XVI: Transfusion von Blut</h3>
 
 Zu den neuesten Entdeckungen der Wissenschaft gehört die Hämolyse - die Tatsache, dass die Injektion von Blut aus den Venen eines höheren Tieres in ein Tier einer niedrigeren Art das Blut des niedrigeren Tieres zerstört und dessen Tod verursacht. So ist das Blut eines Menschen, das in die Venen eines beliebigen Tieres injiziert wird, tödlich. Es hat sich jedoch gezeigt, dass eine Transfusion von Mensch zu Mensch möglich ist, auch wenn sie manchmal schädliche Auswirkungen hat.
 
@@ -1139,7 +1147,7 @@ Wenn das Blut durch die Arterien kommt, die tief im Körper liegen, ist es ein G
 
 Gegenwärtig stehen wir noch ganz am Anfang dieser Individualisierung unseres Blutes. Deshalb ist es derzeit noch möglich, Blut von einem Menschen auf einen anderen zu übertragen, aber der Tag ist nahe, an dem das unmöglich sein wird. Das Blut eines Weißen tötet alle, die niedriger stehen, und das Blut eines fortgeschrittenen Menschen vergiftet die weniger Gebildeten. Gegenwärtig erhält das Kind seinen Vorrat an Blut von den Eltern, das in der Thymusdrüse für die Jahre der Kindheit gespeichert wird. Aber es wird die Zeit kommen, in der das Ego zu weit individualisiert sein wird, um in Blut zu funktionieren, das nicht von ihm selbst erzeugt wurde. Dann wird die gegenwärtige Art der Erzeugung durch eine andere ersetzt werden müssen, bei der das Ego sein eigenes Vehikel ohne die Hilfe der Eltern erschaffen kann.
 
-### KAPITEL 17. AUSWIRKUNGEN DER ENTFERNUNG EINES PHYSISCHEN ORGANS
+### <h3 id="chapter-17">Kapitel XVII: Auswirkung der Entfernung eines physichen Organs</h3>
 
 Wenn ein Arm, ein Glied oder ein Organ durch einen chirurgischen Eingriff aus dem physischen Körper entfernt wird, wird im Allgemeinen der dichte Teil des Organs, der vom planetarischen Äther durchdrungen ist, mitgenommen. Die vier Äther, die den Lebensleib des operierten Mannes oder der operierten Frau bilden, bleiben zurück; aber es besteht eine gewisse magnetische Verbindung zwischen dem im Grab verwesenden Teil und dem ätherischen Gegenstück, das bei der Person verbleibt. Deshalb spürt er oder sie den Schmerz und das Leiden in dem entfernten Teil noch einige Zeit nach einer Operation, bis die Verwesung stattgefunden hat und das ätherische Gegenstück sich aufgelöst hat.
 
@@ -1149,7 +1157,7 @@ Es sollte auch daran erinnert werden, dass überall dort, wo sich Krankheit im p
 
 Ein weiterer interessanter Aspekt dieser Frage ergibt sich aus dem Zustand nach dem Tod. Wenn ein verletzter Mensch in das unsichtbare Reich übergeht, denkt er mit demselben Verstand und stellt sich dort vor, wie er in der Welt war. Folglich wird eine Narbe auf der Stirn oder der Verlust eines Armes oder Gliedes von seinem Denken in der Materie der Wunschwelt reproduziert, und er erscheint dort entstellt, wie er hier war. Im Weltkrieg war dies sehr auffällig, denn alle Soldaten, die mit Wunden aus dem Krieg kamen, die sie sehen konnten und deren Wirkung sie zu bestimmen wussten, reproduzierten diese Wunden in ihrem Wunschkörper. Sie empfanden ähnliche Schmerzen, wie sie sie empfunden hätten, wenn sie noch im physischen Körper gewesen wären, weil sie sich einbildeten, dass damit Schmerzen verbunden sein müssten. Sie wurden jedoch schnell von den anderen und von denjenigen, denen die Älteren Brüder geholfen hatten, eines Besseren belehrt: dass es keinen wirklichen Schmerz gab. Sobald sie davon überzeugt waren, dass ihre Wunden nur Illusionen waren, und ihnen beigebracht wurde, dass sie ihren Körper im normalen und gesunden Zustand gestalten konnten, konnten sie den Zustand schnell beheben.
 
-#### ENTFERNUNG DER MANDELN:
+#### <h4 id="removal-of-tonsils">Entfernung der Mandeln:</h4>
 
 Die Entfernung der Mandeln ist ein Thema, zu dem wir häufig um unsere Meinung gebeten werden, und wir haben immer von der Entfernung dieser notwendigen Organe abgeraten, denn es hat sich herausgestellt, dass als Folge der Entfernung der Mandeln im späteren Leben oft schwere Hals- und Lungenkrankheiten auftreten, und eine zunehmende Zahl von Ärzten verurteilt diese Operation heute als völlig unnötig.
 
@@ -1159,17 +1167,17 @@ Tatsächlich sind vergrößerte Mandeln auf Bedingungen zurückzuführen, die mi
 
 Bei akuten Erkrankungen haben wir immer die Zitrusfrüchte als die besten bekannten Antiseptika empfohlen. Dies gilt auch und besonders für Ananas. Limonade aus Zitronen und HONIG wird in diesem Zustand große Erleichterung bringen. Orangen, Pampelmusen und Ananas sollten ebenfalls frei verwendet werden, wenn das Kind über Halsbeschwerden klagt. Ein kalter Umschlag auf den Hals am Abend, wenn das Kind zu Bett geht, ergänzt durch eine Massage des Halses, wird als wirksame Behandlung bei allen Halsbeschwerden angesehen. Es versteht sich von selbst, dass der Darm offen und klar gehalten werden sollte. Mit diesen einfachen Mitteln werden die Beschwerden wahrscheinlich in wenigen Tagen behoben sein, vielleicht sogar ohne dass das Kind ins Bett gebracht werden muss. Haben Sie keine Angst, wenn bei dieser Behandlung weiße Substanz ausgeschieden wird. Das ist genau das, was das Kind loswerden muss, um gesund zu werden.
 
-### KAPITEL 18. ZU VERWENDENDE HEILUNGSFORM
+### <h3 id="chapter-18">Kapitel XVIII: Zu verwendede Heilungsform</h3>
 
-#### EINLEITUNG:
+#### <h4 id="chapter-18-introduction">Einleitung:</h4>
 
 Welche Form der Heilung zu empfehlen ist, hängt von der Art der Krankheit und dem Temperament des Patienten ab. Handelt es sich um ein gebrochenes Bein, ist natürlich ein Chirurg der richtige Ansprechpartner. Liegt eine innere Störung vor und ist es möglich, einen weitsichtigen Arzt zu finden, dann ist er in bestimmten Fällen der Richtige. Wenn andererseits ein geistiger Heiler, ein christlich-wissenschaftlicher Heiler oder ein anderer geistig gesinnter Heiler hinzugezogen werden kann, kann er einer Person helfen, die selbst stark im Glauben ist, denn so wie eine Stimmgabel, die eine bestimmte Tonhöhe hat, reagiert, wenn eine andere Stimmgabel mit derselben Tonhöhe angeschlagen wird, so wird die Person, die mit Glauben erfüllt ist, auf die Dienste dieser letztgenannten Personen reagieren. Wo aber dem Patienten der Glaube an ihre Methoden fehlt, ist es weit besser, einen ordentlichen Arzt aufzusuchen, zu dem der Patient Vertrauen hat, denn Gesundheit oder Krankheit hängt fast ganz vom Gemütszustand ab, und in den Krankheitszuständen, wo ein Mensch geschwächt ist, wird er überempfindlich und sollte in seinen Vorlieben nicht behindert werden. Außerdem werden die Wirkungen eines jeden Heilsystems, so gut es auch sein mag, auf eine bestimmte Person in genauem Verhältnis zu ihrem Glauben an die Heilkraft vorteilhaft sein oder das Gegenteil bewirken.
 
-#### EINNAHME VON MEDIKAMENTEN:
+#### <h4 id="taking-medicine">Einnahme von Medikamenten:</h4>
 
 Natürlich ist es unsere Pflicht, Medikamente einzunehmen, die von einer entsprechend qualifizierten Person verabreicht werden, oder zu versuchen, die Krankheiten, an denen wir leiden, auf irgendeine andere Weise zu heilen, die uns zusagt. Wir würden einen großen Fehler begehen, wenn wir zulassen würden, dass unser körperliches Instrument aus Mangel an angemessener Pflege und Aufmerksamkeit verkommt. Es ist das wertvollste Werkzeug, das wir besitzen, und wenn wir es nicht mit Umsicht benutzen und pflegen, sind wir dem Gesetz von Ursache und Wirkung für diese Vernachlässigung unterworfen.
 
-#### DIE HANDAUFLEGUNG:
+#### <h4 id="laying-on-of-hands">Die Handauflegung:</h4>
 
 In der Praxis der Osteopathie und verwandter Methoden der Behandlung durch Handauflegen gibt es zwei sehr häufige Schwierigkeiten. Bei diesem Prozess gibt es zwei verschiedene Vorgänge. Zum einen wird dem Patienten etwas entzogen, das giftig und schädlich ist und eine Krankheit hervorruft, und zum anderen gibt der Arzt selbst Lebenskraft ab. Jeder, der eine Arbeit dieser Art gemacht hat, weiß das, denn es wurde und wird von jedem, der erfolgreich ist, gefühlt. Wenn der Arzt oder Heiler nicht vor Gesundheit strotzt, können zwei Dinge passieren: Entweder wird er von dem menschlichen Miasma, das dem Patienten entzogen wird, so überwältigt, dass er - um einen gebräuchlichen Ausdruck zu gebrauchen - "den Zustand" des Patienten annimmt, oder er gibt zu viel von seiner eigenen Lebenskraft ab und wird dadurch völlig erschöpft. Beide Zustände können zusammenkommen, und dann kommt der Tag, an dem der Arzt oder Heiler sich selbst erschöpft und zur Ruhe gezwungen sieht.
 
@@ -1181,7 +1189,7 @@ Sie sind die elektrische Batterie in diesem Fall, und wenn Sie Ihre Hände befeu
 
 Aus dem Vorangegangenen geht hervor, dass dieses Handauflegen nicht wahllos von jemandem durchgeführt werden sollte, der nicht in einer der vielen gut ausgestatteten Schulen für Osteopathie, Chiropraktik usw. ausgebildet wurde. Bewährungshelfer, die ein würdiges Leben führen, werden unter der besonderen Leitung der Älteren Brüder ausgebildet.
 
-#### IMPFUNG UND ANTITOXIN:
+#### <h4 id="vaccination-and-antitoxin">Impfung und Antitoxin:</h4>
 
 Bakteriologen haben herausgefunden, dass viele Krankheiten durch Mikroorganismen verursacht werden, die in unseren Körper eindringen, und dass der Körper, wenn diese eindringende Armee beginnt, eine Störung zu verursachen, Keime einer gegnerischen Natur oder eine Substanz herstellt, die die Eindringlinge vergiftet. Die Frage ist, wer stärker ist: die Eindringlinge oder die Verteidiger. Wenn die verteidigenden Mikroben zahlreicher sind als die Eindringlinge oder wenn das für die Eindringlinge schädliche Gift in ausreichender Menge hergestellt wird, erholt sich der Patient. Werden die Verteidiger besiegt, weil der Körper nicht in der Lage ist, das für die Vergiftung der Eindringlinge notwendige Serum in ausreichender Menge herzustellen, erliegt der Patient der Krankheit. Es wurde ferner festgestellt, dass eine Person, die sich einmal erfolgreich von einer bestimmten Krankheit erholt hat, gegen erneute Angriffe dieser Krankheit immun ist, weil sie in ihrem Körper das Serum hat, das für die Erreger der Krankheit, die sie einmal überstanden hat, tödlich ist.
 
@@ -1193,7 +1201,9 @@ DAS IST DIE PHILOSOPHIE DER IMPFUNG ALS MITTEL ZUR VERHÜTUNG VON KRANKHEITEN.
 
 (2) Wenn eine Person erkrankt ist und nicht in der Lage ist, eine ausreichende Menge des Serums herzustellen, das die eindringenden Mikroorganismen abtötet, kann ihr Leben durch die Inokulation mit dem Serum einer anderen Person, die immun geworden ist, gerettet werden.
 
-Da es nicht einfach ist, solche Antitoxine oder Kulturen von Menschen zu erhalten, wurden diese Keimkulturen und Gifte von Tieren gewonnen, und es ist viel für und gegen die Anwendung solcher Methoden zur Krankheitsbekämpfung geschrieben worden. Mit ihnen befassen wir uns hier nicht; der okkulte Gesichtspunkt geht tiefer als die Frage, um die es hier geht, von der materiellen Seite des Lebens aus gesehen. Es gibt zweifellos Fälle, in denen Krankheiten durch den Einsatz von Antitoxin verhindert wurden; es gibt auch Fälle, in denen Impfungen und Antitoxin die Todesfälle verursacht haben, die sie verhindern sollten, aber das ist nicht die Frage. Vom okkulten Standpunkt aus sind Impfungen und die Verwendung von Antitoxin, das durch die in den bakteriologischen Instituten verwendeten Verfahren gewonnen wird, zu bedauern. Diese Methoden tun den hilflosen Tieren Unrecht und vergiften den menschlichen Körper, so dass es dem Ego schwer fällt, sein Instrument zu benutzen.
+Da es nicht einfach ist, solche Antitoxine oder Kulturen von Menschen zu erhalten, wurden diese Keimkulturen und Gifte von Tieren gewonnen, und es ist viel für und gegen die Anwendung solcher Methoden zur Krankheitsbekämpfung geschrieben worden. Mit ihnen befassen wir uns hier nicht; der okkulte Gesichtspunkt geht tiefer als die Frage, um die es hier geht, von der materiellen Seite des Lebens aus gesehen. Es gibt zweifellos Fälle, in denen Krankheiten durch den Einsatz von Antitoxin verhindert wurden; es gibt auch Fälle, in denen Impfungen und Antitoxin die Todesfälle verursacht haben, die sie verhindern sollten, aber das ist nicht die Frage. 
+
+Vom okkulten Standpunkt aus sind Impfungen und die Verwendung von Antitoxin, das durch die in den bakteriologischen Instituten verwendeten Verfahren gewonnen wird, zu bedauern. Diese Methoden tun den hilflosen Tieren Unrecht und vergiften den menschlichen Körper, so dass es dem Ego schwer fällt, sein Instrument zu benutzen.
 
 Wenn wir die Chemie unserer Nahrung studieren, werden wir feststellen, dass die Natur alle notwendigen Medikamente bereitgestellt hat, und wenn wir uns richtig ernähren, werden wir ohne Impfung immun gegen Krankheiten sein.
 
@@ -1203,9 +1213,9 @@ Diese Emanation wurde von Wissenschaftlern, die sie mit Hilfe chemischer Reagenz
 
 Wenn wir hingegen sparsam essen und die am leichtesten verdaulichen Lebensmittel wählen, wird die Verringerung des schützenden Vitalstroms entsprechend minimiert und unsere Immunität gegen Krankheiten wird erheblich verstärkt, ohne dass wir unseren Körper mit Impfstoffen vergiften müssen.
 
-### KAPITEL 19. DER UMFANG DER HEILUNG
+### <h3 id="chapter-19">Kapitel XIX: Der Umfang der Heilung</h3>
 
-#### DAS GESETZ DES SCHICKSALS:
+#### <h4 id="the-law-of-destiny">Das Gesetz des Schicksals:</h4>
 
 Eine große und wachsende Zahl von Medizinern ist heute davon überzeugt, dass das GESETZ DER BESTIMMUNG ein wichtiger Faktor bei der Entstehung von Krankheiten und der Verzögerung der Genesung ist, obwohl sie nicht an den Irrglauben eines unerbittlichen Schicksals glauben. Sie erkennen an, dass Gott uns nicht absichtlich schadet und auch nicht darauf abzielt, sich mit dem Verursacher zu rächen; sie verstehen, dass alle Sorgen und Leiden dazu dienen, uns Lektionen zu erteilen, die wir auf andere Weise nicht lernen würden oder könnten. Die Sterne zeigen den Zeitraum an, der als notwendig erachtet wird, um uns die Lektion zu lehren; aber SELBST GOTT KANN DIE EXAKTE ZEIT NICHT BESTIMMEN, noch das Ausmaß des notwendigen Leidens; wir selbst haben ein Vorrecht, denn WIR SIND GÖTTLICH. Wenn wir unsere Übertretung erkennen und anfangen, dem Gesetz zu gehorchen, bevor die stellare Bedrängnis aufhört, sind wir von unserer geistigen, moralischen oder körperlichen Unpässlichkeit geheilt; wenn wir bis zum Ende einer stellaren Bedrängnis ausharren, ohne unsere Lektion gelernt zu haben, wird eine feindlichere Konstellation den Gehorsam zu einem späteren Zeitpunkt erzwingen.
 
@@ -1217,16 +1227,18 @@ Bei der Frage, ob wir uns in das Schicksal einmischen sollten oder nicht, sollte
 
 Wie Ella Wheeler Wilcox es in poetischer Form ausgedrückt hat:
 
-    "Ein Schiff segelt nach Osten, ein anderes nach Westen,  
-    Mit den gleichen Winden, die wehen.  
-    Es ist das Setzen des Segels und nicht der Sturm  
-    Das bestimmt den Weg, den sie gehen."  
+```
+"Ein Schiff segelt nach Osten, ein anderes nach Westen,  
+Mit den gleichen Winden, die wehen.  
+Es ist das Setzen des Segels und nicht der Sturm  
+Das bestimmt den Weg, den sie gehen."  
+```
 
 Es ist von größter Bedeutung, dass wir die Segel der Barke des Lebens so setzen, wie wir es wollen, und keine Skrupel haben, in das Schicksal einzugreifen.
 
 Damit entfällt auch der Gedanke der "Bestätigung" als Faktor im Leben. Das ist an sich schon eine Torheit. Was wir im Leben brauchen, ist Arbeit und Aktion, wie Sie anhand dieses Beispiels leicht erkennen können. Nehmen wir an, ein kleines Samenkorn dieser schönen Nelken wäre mit Sprache ausgestattet und käme zu Ihnen und sagte: "Ich bin eine Nelke." Würdest du nicht antworten: "Nein, du bist keine Nelke, du törichtes kleines Ding. Du hast das Potential in dir, aber du musst in den Garten gehen und dich für eine Weile vergraben und wachsen. Nur so kannst du eine Nelke werden, niemals durch Behauptung. Ähnlich verhält es sich mit uns selbst. Alle "Beteuerungen" der Göttlichkeit sind eitel, wenn sie nicht von Handlungen göttlichen Charakters begleitet werden, und sie werden unsere Göttlichkeit beweisen, wie es Worte niemals können.
 
-#### BEZIEHUNG ZWISCHEN SPIRITUALITÄT UND GESUNDHEIT:
+#### <h4 id="relation-to-spirituality-to-health">Beziehung zwischen Spiritualität und Gesundheit:</h4>
 
 Der Bruch einer physisch robusten Gesundheit ist notwendig, bevor es möglich ist, in der geistigen Welt ein Gleichgewicht zu erreichen, und je stärker und kräftiger das Instrument ist, desto drastischer muss die Methode sein, es zu brechen. Dann kommen Jahre, in denen ein unausgeglichener, schwankender Gesundheitszustand herrscht, bis wir schließlich in der Lage sind, uns so einzustellen, dass wir die Gesundheit in der physischen Welt aufrechterhalten und gleichzeitig die Fähigkeit bewahren, auch in den höheren Sphären zu funktionieren.
 
@@ -1234,15 +1246,15 @@ Wenn wir die höheren Philosophien verstehen, wenn wir das Leben leben, das von 
 
 Es gibt jedoch Fälle, in denen eine Krankheit notwendig ist, um bestimmte Veränderungen im Körper herbeizuführen, die die Vorläufer einer höheren Stufe der geistigen Entfaltung sind, und unter solchen Bedingungen ist die Krankheit natürlich ein Segen und kein Fluch. Im Allgemeinen kann jedoch gesagt werden, dass das Studium der höheren Philosophie immer zu einer besseren Gesundheit führt, denn "Wissen ist Macht", und je mehr wir wissen, desto besser sind wir in der Lage, mit allen Umständen fertig zu werden, vorausgesetzt natürlich, dass wir unser Wissen in die Praxis umsetzen und DAS LEBEN leben - dass wir nicht nur Hörer des Wortes sind, sondern auch Täter, denn keine Lehre ist für uns von Nutzen, wenn sie nicht in unser Leben getragen und von Tag zu Tag gelebt wird.
 
-#### NERVOSITÄT WIRD DURCH ÜBUNGEN GELINDERT:
+#### <h4 id="nervousness-helped-by-exercises">Nervosität wird durch Übungen gelindert:</h4>
 
 Wenn ein Mensch mit nervösem Temperament sich bemüht, die Übungen der Rückschau und der Konzentration ruhig und gelassen durchzuführen, wird er eine sehr wohltuende Wirkung erfahren, besonders wenn er sich bemüht, JEDE MUSKEL des Körpers während der Übungen zu entspannen.
 
 Wenn der Patient seine Muskeln völlig entspannt, in der Abendübung ruhig und gelassen die Ereignisse des Tages Revue passieren lässt und sich in der Morgenübung auf ein hohes Ideal konzentriert, wird die Nervosität allmählich verschwinden. 
 
-### KAPITEL 20. ÜBER DIE LEITUNG VON HEILUNGSZENTREN
+### <h3 id="chapter-20">Kapitel XX: Über die Leitung von Heilungszentren</h3>
 
-#### ALLGEMEINE VORSCHLÄGE:
+#### <h4 id="general-suggestions">Allgemeine Vorschläge:</h4>
 
 Da sich an verschiedenen Orten Probationers zusammengeschlossen haben, um Astro-Diagnose und Astro-Therapie zu studieren, mit dem Ziel, Heilungszentren zu gründen, wenn sie in diesen Wissenschaften ausreichend geerdet sind, ist es vielleicht gut, einige Vorschläge für die Führung solcher Zentren zu geben.
 
@@ -1254,29 +1266,28 @@ Nehmt DIE NACHBILDUNG CHRISTI von Thomas a Kempis oder irgendetwas anderes von d
 
 Wenn Sie ein Horoskop zur Analyse heranziehen, achten Sie darauf, dass Sie nicht die Zahlen für die an den Sitzungen teilnehmenden Probanden oder deren nahe Verwandte verwenden. Denn so wie Studenten in einer medizinischen Hochschule oft durch Suggestion die Symptome der Krankheiten entwickeln, die sie studieren, so können auch die Mitglieder der Klasse unter der Vernachlässigung der oben genannten Vorsichtsmaßnahme leiden. Wenn ein Probationer krank ist und das Zentrum um Heilung bittet, darf er oder sie außerdem nicht zum Unterricht zugelassen werden, solange er oder sie krank ist, denn es ist absolut unmöglich, die versehentliche Erwähnung von Symptomen zu vermeiden, unter denen ein solcher Mensch leiden kann, und so kann die Krankheit auf diese Weise verschlimmert werden.
 
-#### RATSCHLÄGE FÜR HEILER
+#### <h4 id="advice-to-healers">Ratschläge für Heiler</h4>
 
 Wären Feuerbriefe erhältlich, die sich in das Bewusstsein des Lesers einbrennen würden, würden wir keine Mühen scheuen, sie zu beschaffen, um die Studenten vor einigen besonderen Punkten im Zusammenhang mit der Ausübung der medizinischen Astrologie zu warnen; diese sind:
 
-Erzählen Sie einem Patienten niemals eine entmutigende Tatsache.
-
-Sagen Sie ihm nie, wann eine Krise bevorsteht.
-
-Sagen Sie niemals eine Krankheit zu einem bestimmten Zeitpunkt voraus.
-
-Sagen Sie niemals, NIEMALS den Tod voraus.
+Erzählen Sie einem Patienten niemals eine entmutigende Tatsache.  
+Sagen Sie ihm nie, wann eine Krise bevorsteht.  
+Sagen Sie niemals eine Krankheit zu einem bestimmten Zeitpunkt voraus.  
+Sagen Sie niemals, NIEMALS den Tod voraus.  
 
 Es ist ein schwerer Fehler, ja fast ein Verbrechen, einem Kranken etwas Entmutigendes zu sagen, denn es raubt ihm die Kraft, die er mit größter Sorgfalt einsetzen sollte, um die Genesung zu erleichtern. Es ist auch falsch, einem Gesunden eine Krankheit zu suggerieren, denn dadurch konzentriert sich der Geist auf eine bestimmte Krankheit zu einem bestimmten Zeitpunkt, und eine solche Suggestion kann Krankheit verursachen. Es ist bekannt, dass viele Medizinstudenten die Symptome jeder Krankheit, die sie studieren, spüren und infolge der Autosuggestion sehr leiden, aber die Vorstellung einer bevorstehenden Krankheit, die von jemandem eingepflanzt wird, an den das Opfer glaubt, ist viel gefährlicher. Deshalb muss der medizinische Astrologe sehr vorsichtig sein. Wenn Sie nichts Ermutigendes sagen können, schweigen Sie.
 
 Diese Warnung gilt ganz besonders, wenn Patienten mit Stier- oder Jungfrau-Aszendenten oder mit Sonne oder Mond in diesen Zeichen behandelt werden. Diese Positionen prädisponieren den Geist dazu, sich auf Krankheiten zu konzentrieren, oft in einer höchst ungerechtfertigten Weise. Der Stiermensch fürchtet Krankheit in einem fast wahnsinnigen Ausmaß, und die Vorhersage von Krankheit ist für ihn fatal. Die Jungfrauen hofieren die Krankheit, um Sympathie zu gewinnen, und obwohl sie vorgeben, sich nach Genesung zu sehnen, haben sie in Wirklichkeit Freude daran, die Angelegenheit bis in die Tiefe zu erforschen; sie werden sich auf ihre Fähigkeit berufen, volles Wissen zu ertragen, und beteuern, dass es ihnen helfen wird; aber wenn der Behandler sich von ihren Beteuerungen verführen lässt und es ihnen sagt, welken sie wie eine Blume. Diesen Menschen ist in jedem Fall am schwersten zu helfen, und man sollte besonders darauf achten, ihre Chancen nicht durch Eingeständnisse der angegebenen Art zu verschlimmern. Einige Studenten haben den krankhaften Wunsch, den Zeitpunkt ihres eigenen Todes zu erfahren, und erforschen diese Angelegenheit auf höchst ungerechtfertigte Weise; aber wie sehr sie auch versuchen mögen, sich selbst zu täuschen, es gibt nur sehr wenige, die die geistige und moralische Ausdauer haben, das Leben in der gleichen Weise zu leben, wenn sie mit absoluter Gewissheit wüssten, dass ihr irdisches Dasein zu einem bestimmten Zeitpunkt beendet sein würde. Dies ist einer der Punkte, die am weisesten verborgen bleiben, bis wir in der Lage sind, auf beiden Seiten des Schleiers zu sehen, und wir tun Unrecht, egal aus welchem Grund, wenn wir versuchen, dieses Wissen dem Horoskop zu entreißen.
 
-In der Vergangenheit, als unsere Bemühungen für die Kranken notwendigerweise auf die Mitglieder beschränkt waren, weil es keine Hilfe im Büro gab, wurden manchmal Fragen gestellt: "Wie kann ich einem kranken Freund helfen?" Obwohl wir jetzt bereit sind, vom Hauptquartier aus Hilfe zu leisten, "wer immer es will", ist es wichtig, den Bewährungshelfern die große Chance vor Augen zu führen, die sich ihnen aufgrund ihrer Verbindung mit dem Lehrer bietet. Heilung wird hauptsächlich von den Bewährungshelfern vollbracht, die unter der Leitung der Älteren Brüder "das Leben leben"; und ein mit Feder und Tinte geschriebener Antrag AN SIE, ob er nun über das Hauptquartier oder an einen Bewährungshelfer gerichtet ist, ruft immer eine Antwort hervor.
+In der Vergangenheit, als unsere Bemühungen für die Kranken notwendigerweise auf die Mitglieder beschränkt waren, weil es keine Hilfe im Büro gab, wurden manchmal Fragen gestellt: "Wie kann ich einem kranken Freund helfen?" Obwohl wir jetzt bereit sind, vom Hauptquartier aus Hilfe zu leisten, "wer immer es will", ist es wichtig, den Bewährungshelfern die große Chance vor Augen zu führen, die sich ihnen aufgrund ihrer Verbindung mit dem Lehrer bietet. 
+
+Heilung wird hauptsächlich von den Bewährungshelfern vollbracht, die unter der Leitung der Älteren Brüder "das Leben leben"; und ein mit Feder und Tinte geschriebener Antrag AN SIE, ob er nun über das Hauptquartier oder an einen Bewährungshelfer gerichtet ist, ruft immer eine Antwort hervor.
 
 Die Älteren Brüder wissen, wie sie das Gesetz am besten nutzen können, aber sie können nicht gegen das Gesetz arbeiten und nicht mehr tun, als das ihnen zur Verfügung gestellte Material zulässt; körperliche Krankheit kann durch geistige Kraft überwunden werden, aber es ist ein gewisses Maß an dieser Kraft erforderlich. Es ist ein physikalisches Gesetz, dass eine Anzahl von Kohlen zusammengeschüttet und genügend Sauerstoff zugeführt werden muss, um ein Feuer zu machen. Christus sagte: "Wo zwei oder drei in meinem Namen versammelt sind, da werde ich mitten unter ihnen sein."
 
 Die Vereinigung der Probanden im Zentrum der Heilung liefert das Material, mit dem die Älteren Brüder das geistige Feuer entzünden können, das zur Heilung körperlicher, moralischer und geistiger Leiden erforderlich ist. Allein kann man nur wenig Gutes tun, aber in der Menge liegt die Kraft, besonders wenn alle mit dem Wissen um die Diagnose des Horoskops und die Anwendung der Behandlung zu günstigen Zeiten gestärkt werden.
 
-#### HEILUNGSDIENST EINGEWEIHT:
+#### <h4 id="healing-service-inaugurated">Heilungsdienst Eingeweiht:</h4>
 
 In der Heiligen Nacht kulminiert die geistige Kraft der Sonne, die einen Segen über die Luft ausgießt. Vom 25. Dezember bis zum 25. Juni sind die physischen Aktivitäten im Aufwind und gewinnen allmählich an Kraft, die zur Sommersonnenwende ihren Höhepunkt erreicht und den Menschen mit den Dingen segnet, die er für seinen materiellen Lebensunterhalt braucht. Während dieser Zeit ist es schwierig, die geistigen Aktivitäten einzuleiten, und deshalb warteten wir ruhig, bis wir vor kurzem an der Reihe waren, und hielten den ersten abendlichen Heilungsgottesdienst am Dienstag, dem 23. Juni (1914), um halb acht, als der Mond im kardinalen Zeichen des Krebses stand. Und in Zukunft wird in der Pro-Ecclesia jede Woche zu dieser Stunde ein Heilungsgottesdienst an einem Tag abgehalten, an dem der Mond in einem der Kardinalzeichen steht. Wir haben beschlossen, diese Gottesdienste abzuhalten, damit wir die kleine Pro-Ecclesia bis zum Äußersten ausnutzen und uns so das Privileg verdienen können, auch die Ecclesia zu haben. Dies wurde vom Lehrer gebilligt, und er schlug vor, den Heilungsgottesdienst abzuhalten, wenn der Mond in den Kardinalzeichen steht. Aber wir wollen in unseren Bemühungen um Effizienz noch einen Schritt weiter gehen; und hier wollen wir die Hilfe jedes ernsthaften Schülers der Rosenkreuzer-Gemeinschaft hinzufügen.
 
