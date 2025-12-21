@@ -1,0 +1,102 @@
+---
+title: "Dépliant №16: Orient et Occident - Approches Spirituelles"
+language: "fr"
+original_title: "Pamphlet №16: Eastern and Western Spiritual Alternatives"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-16-eastern-and-western-spiritual-alternatives.md"
+---
+
+<h1 id="pamphlet-16-eastern-and-western-spiritual-alternatives">Dépliant №16: Orient et Occident - Approches Spirituelles</h1>
+
+### <h3 id="scientific-materialism">Le Matérialisme Scientifique</h3>
+
+Le matérialisme scientifique contemporain présente un grand défi aux chercheurs de vérités spirituelles dans le monde entier. Le but de ce dépliant est de discuter de l’alternative majeure au matérialisme que peuvent avoir les aspirants spirituels d’aujourd’hui.
+
+Le matérialisme scientifique pose en principe qu’on ne peut rien connaître d’autre que ce qui est observé par les cinq sens ou mesuré par des appareils. Ainsi, le matérialisme ne reconnaît que le Monde Physique et ses lois. Il tire son origine des théories, entre autres, de Charles Darwin, Auguste Comte, Herbert Spencer, Sigmund Freud, Karl Marx et Friedrich Engels. 
+
+Ces théories soutiennent que l’homme, ainsi que toutes les formes de vie qui existent sur notre planète, sont le résultat d’agents chimiques qui ont réagi les uns sur les autres tout à fait au hasard. Ainsi, l’homme serait un résultat final accidentel, sans but réel d’existence. Sa survivance, en tant qu’organisme psychologique, demande un équilibre entre les forces intérieures qui émergent de l’inconscient et les forces extérieures qu’il doit affronter et qui proviennent de son milieu social et de son environnement. Bien qu’il doive essayer de satisfaire ses besoins internes, sans générer de menace venant de l’extérieur, l’homme n’a aucun contrôle direct, ni sur les forces intérieures ni sur les forces extérieures.
+
+Selon les implications logiques du matérialisme, la solution au dilemme humain est de maîtriser les besoins internes par la médication et une modification du comportement, et aussi de maîtriser les forces extérieures par la manipulation directe de structures politiques, sociales et économiques.
+
+Avec ce concept de l’homme, il n’y a pas de responsabilité individuelle, parce qu’à tout moment, l’homme n’est que le résultat de facteurs sur lesquels il n’a pas de contrôle. Par exemple, on lui reproche son hérédité, son éducation, ou sa pauvreté. Selon cette théorie, il n’a pas de libre arbitre individuel qui le rendrait responsable; il réagit simplement aux stimuli intérieurs et extérieurs qu’il perçoit. Si sa responsabilité est attribuée à des institutions sociales plutôt qu’à lui-même, on lui dénie toute valeur intrinsèque.
+
+Comme le matérialisme s’est répandu de plus en plus, et particulièrement dans le monde occidental, le nombre de personnes qui l’ont rejeté a cru en conséquence. Elles ont été déçues de la société sur-mécanisée, sur-intellectuelle et déshumanisée qui a résulté de la pensée matérialiste.
+
+Ces chercheurs de vérité perçoivent une valeur intrinsèque et une intégrité foncière chez l’être humain-quelque chose de nature transcendentale. Ils sentent que l’homme possède un libre arbitre qui n’est pas simplement une réponse aux stimuli sociaux ou biologiques, mais une affirmation indépendante de l’identité de l’individu. De même, ils perçoivent que le Monde Physique n’est pas tout ce qui existe-qu’au-delà des apparences extérieures, il y a des réalités intérieures qui sont la cause de ce qui se manifeste extérieurement.
+
+### <h3 id="liberal-and-conservative-churches">Les Églises Libérales Et Les Églises Conservatrices</h3>
+
+Où ces chercheurs peuvent-ils aller pour trouver une confirmation de leurs croyances? Beaucoup vont dans les églises avec l’espoir de recevoir une réponse spirituelle à leur quête. Certains y trouvent du réconfort, mais d’autres non. Parmi ceux qui ont quitté les églises, beaucoup l’ont fait parce qu’ils y ont rencontré la même philosophie matérialiste qu’ils essayaient d’écarter, même si elle avait l’apparence de la spiritualité.
+
+Il y a en particulier deux tendances dans les églises d’aujourd’hui qui peuvent illustrer la pensée matérialiste. L’une est “libérale”. Les églises “libérales” essaient de composer avec leur temps en adoptant les points de vue scientifique et matérialiste. Pour elles, le salut est collectif plutôt qu’individuel et s’obtient par l’établissement d’un “ciel sur la terre” par des réformes sociales, économiques ou politiques. Elles semblent avoir oublié les paroles du Christ, “Mon Royaume n’est pas de ce monde” (Jean 18:36).
+
+L’autre tendance majeure est “conservatrice.” Les églises “conservatrices” ont tendance à donner une interprétation anthropomorphique, historique et littérale des expériences spirituelles et des symboles cosmiques. Alors qu’elles insistent sur la réalité physique des choses comme la Baleine de Jonas, elles manquent de percevoir la réalité spirituelle qui se trouve derrière ces récits. Ainsi, elles interprètent la Bible de la même façon que le matérialisme scientifique interprète le monde physique: au moyen des cinq sens.
+
+De plus, la plupart des églises limitent leur concept de l’homme à une vie de courte durée. Ses actions durant cette vie affecteront son existence pour l’éternité. On peut comprendre pourquoi il y a des chercheurs de vérité qui ont envie de chercher ailleurs.
+
+### <h3 id="two-alternatives">Les Deux Approches</h3>
+
+Dans le monde d’aujourd’hui il y a deux approches majeures du matérialisme. L’une, par la Sagesse Orientale, l’autre par la Sagesse Occidentale, ou Christianisme ésotérique. 
+
+Certains pourraient être surpris qu’il y ait réellement des Enseignements de Sagesse à l’Ouest. Ils peuvent avoir pensé que les églises populaires, ou exotériques, étaient tout ce que le Christianisme avait à offrir. Pourtant, toutes les principales religions du monde ont eu un enseignement plus profond des mystères, et le Christianisme ne fait pas exception.
+
+Il existe des différences fondamentales dans les approches orientale et occidentale du matérialisme. Selon l’approche Orientale, l’aspirant s’efforce d’obtenir l’illumination spirituelle par des exercices de méditation, le but étant d’atteindre l’illumination dans un laps de temps le plus court possible. Pour mener une vie méditative, il est nécessaire de se retirer du monde matériel, du moins dans une certaine mesure. C’est pourquoi, les non-orientaux qui adoptent les idéaux orientaux rejoignent souvent un ashram ou forment une communauté dans laquelle une partie de leur temps se passe à expérimenter la perception de Dieu en toute chose.
+
+La Sagesse Occidentale enseigne une approche du matérialisme tout à fait différente. En Occident, où le matérialisme a atteint sa plus grande force, il s’est développé une approche rationnelle du monde qui a amené de grands progrès pour le comprendre et l’utiliser. L’avènement de la pensée scientifique en Occident a mis fin à l’ignorance et à la superstition du Moyen-Age qui a causé d’indescriptibles misères et souffrances. C’est pourquoi la Sagesse Occidentale ne rejette pas les découvertes scientifiques ni la matérialité. Elles les utiliserait plutôt à des fins spirituelles. En d’autres termes, alors que l’approche orientale préconise, explicitement ou implicitement, le retrait du monde matériel, la Sagesse Occidentale prône le travail dans et avec le monde matériel, dans le but de le spiritualiser. Sa devise est “soyez dans le monde, mais pas du monde” (Jean 8:23).
+
+L’homme, en tant qu’Esprit, a comme champ actuel d’activité le Monde Physique et comme instrument un corps dense. Ce ne sont pas des conditions à esquiver ou à éviter, car elles sont le résultat des efforts d’un très sage Créateur. Elles doivent être utilisées pour que l’Homme, l’Esprit, puisse apprendre à devenir une intelligence créatrice divine, comme son Père Céleste, capable de créer sur tous les plans de l’existence.
+
+Ayant brièvement décrit les différences fondamentales qui existent entre les philosophies orientales et occidentales du matérialisme, nous allons considérer d’autres différences dans ces philosophies.
+
+### <h3 id="concept-of-christ">Le Concept Du Christ</h3>
+
+Le point crucial dans lequel ces deux philosophies diffèrent est leur conception du Christ. De nombreux enseignements Orientaux sont silencieux à ce sujet. Cer taines philosophies orientales, particulièrement celles qui sont promulguées en Occident, reconnaissent Jésus comme un grand Maître qui a atteint la Conscience Christique semblable à celle qu’ont atteint Krishna ou Boudha. Elles enseignent que la dévotion à Jésus, à l’exclusion des autres grands Maîtres, limite sans raison l’aspirant à la vérité. Si la vérité est universelle, alors les Maîtres, à travers l’histoire, sont également dignes d’être étudiés. En fait, plus on élargit le champ de ses études, plus grande est la probabilité d’arriver à une plus vaste compréhension de la vérité.
+
+La conception présentée ci-dessus montre un manque de connaissance de l’évolution spirituelle de notre planète. Il est tout à fait possible d’arriver à certaines conclusions, mais si l’on ne tient pas compte de tous les éléments en présence, peu importe que les conclusions paraissent logiques, elles seront toujours erronées parce que des facteurs fondamentaux ont été écartés.
+
+L’élément écarté dans les philosophies orientales est le Christ. Christ n’était pas l’homme Jésus. Il n’était pas simplement un état élevé de conscience ou un concept abstrait. Christ est un Etre divin, soi-conscient, l’Initié le plus élevé de la vague de vie des Archanges. Il est le représentant de la Divinité: le “Verbe” qui s’est fait chair et qui a habité parmi nous” (Jean 1:14). Son incarnation dans le corps de Jésus est un fait absolument unique dans l’histoire du monde. Elle a rendu l’humanité capable de maîtriser le Monde Physique, de transmuer le corps physique et finalement de conquérir la mort elle-même.
+
+### <h3 id="christ-regent-of-the-earth">Le Christ Régent De La Terre</h3>
+
+L’entrée du Christ dans la Terre au moment de la crucifixion en fait le Régent de la Terre. Cet événement a été l’impulsion spirituelle la plus importante dans l’évolution de notre planète. Avant la venue du Christ, le Régent de la Lune, Jéhovah, avait guidé notre planète de l’extérieur. Il prenait les forces solaires spirituelles et les réfléchissait indirectement sur la Terre, parce que l’humanité n’était pas encore capable de supporter les rayons spirituels directs du Soleil. C’est ainsi qu’il donna à l’humanité des religions tribales, nationales et raciales qui incluent le l’Hindouisme, le Bouddhisme, le Shintoisme, le Taoïsme, le Confucianisme, le Zoroastrisme et toutes les autres religions orientales. A la venue du Christ, il a été donné à l’humanité la première impulsion spirituelle venant directement du Soleil. Depuis lors, l’Esprit Christ s’incarne dans notre planète chaque année à l’Equinoxe d’Automne; Il naît au centre de la Terre à Noël, puis “meurt” et “ressuscite” dans les mondes supérieurs à Pâques, apportant une impulsion spirituelle de plus en plus forte du Soleil, Source de toute vie et de lumière dans notre système solaire. Ces grands évènements cosmiques sont trop importants pour être ignorés de toute philosophie qui prétend conduire les hommes à Dieu.
+
+Ce n’est que par les énergies solaires, apportées par le Christ, que nous pouvons espérer entrer dans la condition éthérique de l’Epoque à venir. Même les peuples orientaux, après être passés par une période de matérialisme, devront s’engager dans la phase suivante de leur développement spirituel, et répondre aux vibrations spirituelles supérieures du Christ.
+
+La conception des enseignements Orientaux concernant le Christ est incomplète. On s’attend à ce que l’Enseignement des Mystères du Christianisme présente une conception plus élevée du Christ que les enseignements émanant de sources orientales.
+
+Non seulement il y a une sérieuse divergence entre les approches orientale et occidentale de l’impulsion centrale du développement de l’homme, mais aussi les méthodes d’accomplissement spirituel sont tout à fait différentes.
+
+### <h3 id="the-wedding-garment">La Robe Nuptiale</h3>
+
+En premier lieu, l’Enseignement Occidental met l’accent sur l’action physique comme méthode de spiritualisation des corps supérieurs de l’individu. Toute action, en harmonie avec l’impulsion Christique, produit une croissance dans les corps spirituels. Pour l’Occidental, ce n’est que par un travail ordonné et systématique pour le Christ, dans le monde matériel, qu’il édifie ce que le Christ a appelé “la Robe Nuptiale” dans l’une de Ses paraboles (Matthieu 22:11) ou ce que Paul a appelé “Soma Psuchicon” ou “corps de l’âme.” (I Corinthiens 15:40-44) La méditation, des changements dans l’alimentation et le chant peuvent sensibiliser aux mondes spirituels les corps occidentaux, mais seul le travail dans la matérialité fera croître le corps de l’âme. Il est essentiel que le corps de l’âme soit édifié, si nous devons passer dans l’époque éthérique à venir. Sinon, notre développement futur en sera retardé et nous deviendrons des retardataires dans l’évolution.
+
+### <h3 id="spiritual-exercises">Les Exercices Spirituels</h3>
+
+En second lieu, il y a une grande différence dans les types d’exercices donnés pour le développement spirituel. Il est important de faire une distinction entre les deux approches, parce que l’organisation du cerveau est différente chez l’Oriental et 1’Occidental. Le cerveau de I’Oriental est particulièrement adapté à la pensée métaphysique, parce que les éthers de son corps vital sont encore en état de relâchement avec le corps dense, ce qui le rend passivement réceptif aux impacts spirituels. Cependant le manque de liaison étroite donne des difficultés à 1’Oriental pour faire face au monde extérieur et le maîtriser. D’autre part, l’Occidental a un cerveau bien adapté au monde objectif et matériel. Du fait que les éthers sont étroitement liés dans le cerveau de l’Occidental, les méthodes orientales de développement ont tendance à dérégler ses facultés au lieu de les spiritualiser.
+
+Les positions du corps qui font circuler les courants éthériques dans des directions spécifiques peuvent être nuisibles à l’Occidental. Mais la discipline la plus dangereuse pour un Occidental est celle des exercices respiratoires; ils peuvent provoquer des réactions graves: depuis la sensibilité aux maladies infectieuses chez certains, jusqu’à l’aliénation mentale et même la mort chez d’autres. Les tentatives d’élever le feu spinal spirituel et d’ouvrir les centres de perception négative, ou chakras, sont difficiles pour les Occidentaux et entraîneront des conséquences très graves si on les entreprend. Les exercices les plus sûrs pour les Occidentaux sont ceux qui sont donnés par l’Ecole des Mystères en relation avec la Religion Chrétienne.
+
+### <h3 id="rebirth">La Renaissance</h3>
+
+Une autre différence majeure est le point de vue des Orientaux et des Occidentaux sur la réincarnation pour les premiers, et la renaissance pour les seconds. Les étudiants Occidentaux des Mystères sont d’accord avec leurs homologues Orientaux sur le fait que les êtres humains renaissent d’âge en âge dans des corps différents et sous des circonstances variées. Le point de différence semble être le but derrière le fait de la renaissance. Le but en Orient est d’échapper à la roue de la réincarnation et d’atteindre le Nirvana ou illumination. On y parvient en se retirant du monde matériel et en se consacrant à éliminer les désirs et les actions. L’idée est, qu’en prévenant toute cause nouvelle, il n’y aura plus, en fin de compte, de Karma à liquider et par conséquent aucune raison de retourner à l’existence physique. C’est pour cette raison que l’aspirant oriental adopte un attitude passive et dénuée d’intérêt envers la vie.
+
+A l’opposé, l’aspirant occidental considère la vie matérielle comme une école d’expériences à maîtriser, s’il doit devenir un Créateur comme son Père Céleste. Le Christ a dit “Celui qui croit en moi fera aussi les oeuvres que je fais et il en fera de plus grandes” (Jean 14-12). Plutôt que d’essayer de se libérer du cycle des renaissances, l’aspirant occidental utilise son séjour dans le monde matériel pour le plus grand avantage spirituel possible. Ainsi, il édifie le corps de l’âme, et après avoir appris toutes les leçons que lui offre le monde matériel, il devient un Adepte et s’élève au-dessus de la Loi de la Renaissance. Cependant, même sans cet état exalté, il ne se dérobe pas à son devoir envers ses frères plus jeunes, mais prend un corps physique pour les servir. Même le Christ “s’est dépouillé lui-même en prenant la forme d’un serviteur et en devenant semblable aux hommes” (Philippiens 2:7). Servir, dans notre environnement immédiat, est la route la plus courte, la plus sûre et la plus joyeuse qui mène à Dieu.
+
+### <h3 id="law-of-cause-and-effect">La Loi De Cause A Effet</h3>
+
+Les philosophies orientales mettent l’accent sur le karma, c’est à dire la Loi de Cause à Effet. Tout acte que nous accomplissons engendre des causes dont les effets nous reviennent plus tard. Si nous avons fait du mal dans des vies passées, nous devons “liquider” cette dette de destinée dans une vie future, sous une forme ou une autre. C’est pourquoi les Orientaux mènent des vies d’ascétisme.
+
+La Bible reconnaît cette loi “Ce que l’homme a semé, il le moissonnera aussi” (Galates 6:7). Cependant, le Christ a accompli et supplanté cette loi par une nouvelle: la loi de Grâce. Cette loi affirme que nous n’aurons pas à souffrir des conséquences de nos actes précédents si nous nous en repentons au point de ne plus jamais vouloir les commettre à nouveau. Nous tombons alors sous la grâce par le repentir et sommes “pardonnés pour nos péchés” (Marc 1:4). Le pardon des péchés, plutôt que leur expiation douloureuse et laborieuse est spécifique aux Enseignements Occidentaux.
+
+### <h3 id="master-or-friend">Maître Ou Ami</h3>
+
+Une autre grande différence dans les deux approches est que l’Ecole des Mystères de la Religion Chrétienne n’a pas de maîtres ou gourous. Les élèves occidentaux n’ont aucun maître. Le Christ a dit: “Il n’y a pas de plus grand amour que de donner sa vie pour ses amis. Je ne vous appelle plus serviteurs, parce que le serviteur ne sait pas ce que fait son maître; mais je vous ai appelé amis, parce que je vous ai fait connaître tout ce que j’ai appris de mon Père” (Jean 15:14-16). Il y a une grande différence entre la position de serviteur et celle d’ami (Jean 15:15). Le serviteur obéit sans discussion aux ordres de son maître, comme l’élève oriental obéit aux ordres de son gourou. Cependant le mot “ami” implique l’égalité.
+
+### <h3 id="developing-self-reliance">Développer La Confiance En Soi</h3>
+
+Plutôt que de rester dépendant de sources extérieures, les élèves occidentaux doivent être autonomes et compter sur leurs seules forces intérieures. Comme résultat, ils développent la confiance en eux, l’indépendance et l’auto-détermination. Si nous sommes appelés à devenir des créateurs de plein droit, nous ne pouvons pas nous permettre de nous appuyer sur les autres. Nous devons développer notre pouvoir de volonté, de sorte que nous puissions l’utiliser pour aider et guérir les autres. Seul celui qui est lui-même fort peut espérer aider autrui.
+
+Les aspirants spirituels de l’Orient et de l’Occident doivent tous deux affronter la croissance envahissante du matérialisme; mais l’Ecole Chrétienne des Mystères enseigne que les méthodes occidentales sont les meilleures pour les Occidentaux. De plus, elle enseigne qu’en fin de compte l’Oriental adoptera l’approche occidentale. Dans la Cosmogonie des Rose-Croix, Max Heindel dit que le Christianisme ésotérique est destiné à être la religion du monde:
+
+Si le grand Bouddha, admirable et sublime, peut être la Lumière de l’Asie, le Christ sera reconnu comme étant la Lumière du Monde (Jean 8:12). De même que le Soleil dépasse en éclat l’étoile la plus brillante, dissipe toute trace d’obscurité et donne la vie et la lumière à tous les êtres, ainsi, dans un avenir assez proche, la véritable religion du Christ l’emportera sur toutes les autres religions et les supplantera pour le bien éternel de l’humanité.
