@@ -1,8 +1,22 @@
-# LA VISION ÉTHÉRIQUE ET CE QU'ELLE RÉVÈLE
+---
+title: "La vision éthérique et ce qu'elle révèle"
+language: 'fr'
+original_title: "Etheric Vision and what it Reveals"
+original_language: 'en'
+author: 'Un Étudiant'
+original_source_file: 'self'
+---
+
+<h1 id="etheric-vision-and-what-it-reveals">La vision éthérique et ce qu'elle révèle</h1>
 
 par un Etudiant
 
-### PRÉFACE
+THE ROSICRUCIAN FELLOWSHIP  
+MT. ECCLESIA  
+P.O. BOX 713  
+OCEANSIDE, CALIFORNIA, 92054, USA
+
+### <h3 id="foreword">Préface</h3>
 
 Ce livre est une réédition, revue et augmentée, de leçons mensuelles de The Rosicrucian Fellowship envoyées à ses membres; il résume les études et les recherches poursuivies par les étudiants de la Section Esotérique de The Rosicrucian Fellowship. Leurs conclusions devront peut-être, comme c’est souvent le cas, être revisées à la lumière de développements et de travaux ultérieurs.
 
@@ -12,15 +26,37 @@ Max Heindel a donné les bases des Enseignements de la Sagesse Occidentale. Les 
 
 Max Heindel a laissé entendre qu’au début de l’Ere du Verseau, dans six cents ans, ou peut-être avant, un nouvel Instructeur apparaîtra qui résumera en lui-même et dans ses enseignements toute la sagesse de notre évolution passée. Il a également laissé entendre que ce grand Instructeur de l’Ere du Verseau sera la réapparition de l’Ego qui fut connu en Europe comme Christian Rosenkreutz, puis comme le comte de Saint Germain qui, croit-il, aurait été une des dernières incarnations publiques.
 
-Cependant, en plus de cet Instructeur de l’Ere, un messager est aussi envoyé, chaque siècle, par le “Gouvernement Invisible du monde”, appelé en occultisme “la Grande Loge Blanche”.
-
-De nos jours, tous les occultistes s‘accordent à penser qu‘entre cette année (1965) et l‘an 2000, ou très peu après, l’un de ces maîtres se manifestera. Nous pouvons, d’ores et déjà, prévoir l’orientation de ses enseignements en examinant les tendances de notre époque: l’universalité de la science et de la religion préparant l’Unité du Verseau sous la bannière du Christ, l’exploration de l’espace interstellaire et de nouvelles aventures cosmiques pour l’Esprit humain, ainsi qu’une philosophie vraiment cosmique.
+Cependant, en plus de cet Instructeur de l’Ere, un messager est aussi envoyé, chaque siècle, par le “Gouvernement Invisible du monde”, appelé en occultisme “la Grande Loge Blanche”. De nos jours, tous les occultistes s‘accordent à penser qu‘entre cette année (1965) et l‘an 2000, ou très peu après, l’un de ces maîtres se manifestera. Nous pouvons, d’ores et déjà, prévoir l’orientation de ses enseignements en examinant les tendances de notre époque: l’universalité de la science et de la religion préparant l’Unité du Verseau sous la bannière du Christ, l’exploration de l’espace interstellaire et de nouvelles aventures cosmiques pour l’Esprit humain, ainsi qu’une philosophie vraiment cosmique.
 
 L'Utopie actuelle [Note: "Utopia", oeuvre célèbre de Sir Thomas More publiée en 1516, qui décrit une île imaginaire dotée d'un système politique et social parfait.] de l'homme n'est pas une simple cité à la surface de la Terre ni sur aucun des pays terrestres, mais l'ensemble de l'univers vivant au travers duquel le mystique perçoit le doux bruissement des ailes de Dieu et le Chant incessant de Sa Parole.
 
-## PREMIÈRE PARTIE - L'ÉTHER CHIMIQUE
+### <h3 id="contents">Contents</h3>
 
-### CHAPITRE I - LA NATURE DE LA VISION ÉTHÉRIQUE
+- [PREMIÈRE PARTIE - L'ÉTHER CHIMIQUE](#part-1)
+    - [Chapitre I - La nature de la vision étherique](#chapter-1)  
+    - [Chapitre II - L'éther chimique dans le corps humain](#chapter-2)  
+    - [Chapitre III - Atomes et molécules](#chapter-3)  
+- [DEUXIÈME PARTIE - L'ÉTHER VIE](#part-2)
+    - [Chapitre IV - L'éther vie et la génétique](#chapter-4)  
+    - [Chapitre V - La spirale de la vie](#chapter-5)  
+    - [Chapitre VI - Magnétisme organique et magnétisme minéral](#chapter-6)  
+    - [Chapitre VII - L'éther vie et le feu cosmique](#chapter-7)  
+    - [Chapitre VIII - L'étoile et la spirale](#chapter-8)  
+- [TROISIÈME PARTIE - L'ÉTHER LUMIÈRE](#part-3)
+    - [Chapitre IX - L'éther lumière et le soleil](#chapter-9)  
+    - [Chapitre X - Comment l'occultiste voit l'éther lumière](#chapter-10)  
+    - [Chapitre XI - Résumé: Les trois éthers](#chapter-11)  
+- [QUATRIÈME PARTIE — L’ÉTHER RÉFLECTEUR](#part-4)
+    - [Chapitre XII - L'éther réflecteur](#chapter-12)  
+    - [Chapitre XIII - Ce que reflète l'éther réflecteur](#chapter-13)  
+    - [L'éther réflecteur et les archives d'existences précédentes (ou enregistrements de nos précédentes vies)](#chapter-14)  
+    - [Chapitre XV - L'éther réflecteur et ses rapport avec la matière](#chapter-15)  
+    - [Chapitre XVI - L'éther réflecteur et les forces archétypales](#chapter-16)  
+    - [Etude du Diagramme N°1 de la Cosmogonie des Rose-Croix](#)
+
+<h2 id="part-1">PREMIÈRE PARTIE - L'ÉTHER CHIMIQUE</h2>
+
+### <h3 id="chapter-1">Chapitre I - La nature de la vision étherique</h3>
 
 Max Heindel a écrit en 1918: “Le processus de préparation de l’Ere du Verseau a déjà commencé. Comme le Verseau est un signe aérien, scientifique et intellectuel, nous en concluons forcément que la foi nouvelle aura ses racines dans la raison et sera capable de résoudre l’énigme de la vie et de la mort d’une manière qui satisfera à la fois l’intellect, ou mental, et le coeur”. Comme, dans le passé, nous avons développé cinq sens au moyen desquels nous entrons en contact avec le monde visible actuel, ainsi dans un très lointain avenir nous développerons un autre sens qui nous permettra de voir les habitants de la Région Ethérique, y compris nos bien-aimés qui ont quitté leur corps physique dense et qui, durant leur premier stage dans le Monde spirituel, habitent la Région Ethérique du Monde Physique et les régions inférieures du Monde du Désir.
 
@@ -62,7 +98,7 @@ Au sujet de la vision éthérique, Max Heindel dit plus loin (Le Message des Ast
 
 Puis encore (Lettre aux Etudiants n°32), Max Heindel nous dit: “Nous ne voyons pas les objets matériels à l’extérieur de nos yeux: ils se reflètent sur la rétine et nous ne percevons que leur image à l’intérieur de l’oeil. Comme la lumière est l’agent de la réflexion, les objets qui s’opposent au passage de la lumière nous paraissent opaques; les autres, comme le verre, semblent transparents car ils laissent facilement passer la lumière. Des recherches récentes semblent indiquer que la fonction de la rétine est plus analytique que sélective qu’on ne le croyait auparavant - ce qui n’affecte pas la justesse de l’exposé ci-dessus concernant la vision éthérique. Quand on utilise la vue spirituelle, une lumière très intense est générée à l’intérieur du corps, entre le corps pituitaire et la glande pinéale. Elle est focalisée à travers la tache aveugle de l’oeil directement sur l’objet étudié. La portée du rayon direct est entièrement différente de celle du rayon physique réfléchi. Elle pénètre un mur sans difficulté”.
 
-### CHAPITRE II - L'ÉTHER CHIMIQUE DANS LE CORPS HUMAIN
+### <h3 id="chapter-2">Chapitre II - L'éther chimique dans le corps humain</h3>
 
 La région éthérique qui enveloppe notre Terre fait partie intégrante de la Terre physique elle-même. Cette enveloppe n’est pas “spirituelle“, sauf dans le sens où l’univers tout entier est l’expression de la beauté et de la sagesse de Dieu. On l’appelle communément la région “inférieure” des régions de “l’esprit” invisible, et on appelle également la vision éthérique la forme “inférieure” de la vision spirituelle. Il se peut qu’elle soit inférieure; néanmoins, elle révèle une région qui se trouve exactement au-delà de la frontière de la vision physique, région magique pour ceux qui sont assez heureux de pouvoir la contempler.
 
@@ -104,7 +140,7 @@ Les définitions c) et d) se rapprochent de ce que les occultistes entendent par
 
 Beaucoup de gens voient des “points” dans l’air, qui ressemblent à de la poussière dorée ou argentée ou parfois multicolore, et qui parfois se déplacent en grandes masses nuageuses devant les yeux. Des clairvoyants des temps passés ont décrit ces nuages dans lesquels les “esprits des ancêtres” se condensaient et se matérialisaient à la vue physique. C'est encore l’Ether Chimique qu’on voit lors de la matérialisation de la matière éthérique en forme physique.
 
-### CHAPITRE III - ATOMES ET MOLÉCULES
+### <h3 id="chapter-3">Chapitre III - Atomes et molécules</h3>
 
 Sans entrer dans une discussion sur la structure des atomes - ce qui, de toute façon - exige des connaissances spéciales - il est évident qu’on peut établir une relation approximative entre les quatre éthers et les diverses forces atomiques actuellement connues. La plus grande partie de la masse de l’atome siège dans le noyau, qui est constitué par un complexe de forces ou de particules. Les plus lourds sont d’abord le proton, qui pèse près de 2.000 fois plus que l’électron, et ensuite le neutron, dont le nom indique qu’il n’est ni positif ni négatif. Les protons et les neutrons sont appelés nucléons, parce qu’ils font partie du noyau (ou nucleus). On a découvert d’autres particules encore plus petites; quelques-unes étant dans le noyau, tandis que d’autres foncent à travers l’espace. Les scientifiques recherchent parmi ces particules celle qui forme le “lien” dans le noyau, lequel n’est pas - ainsi que nous l’avons vu - entièrement positif, comme on le croyait à l’origine, puisqu’il contient, en fait, autre chose que le proton chargé positivement.
 
@@ -142,9 +178,9 @@ Note: On emploie souvent le terme de “magnétisme” pour désigner en fait le
 
 Ainsi, Max Heindel ajoute que ces miasmes, une fois retirés du corps du patient, obéissent à la loi de la gravitation et peuvent être détruits par le feu ou emportés par l’eau: “Ils apparaissent à la vue spirituelle comme une espèce de gelée noire ou sombre, frémissant sur le plancher. Si le patient , maintenant soulagé, se lève et passe à l’endroit où a été rejeté ce magnétisme indésirable, les miasmes pénètrent à nouveau son corps et l’état du malade sera pire qu’auparavant.
 
-## DEUXIÈME PARTIE - L'ÉTHER VIE
+<h2 id="part-2">DEUXIÈME PARTIE - L'ÉTHER VIE</h2>
 
-### CHAPITRE IV - L'ÉTHER VIE ET LA GÉNÉTIQUE
+### <h3 id="chapter-4">Chapitre IV - L'éther vie et la génétique</h3>
 
 L'Ether Vie est le canal par lequel opèrent les forces ayant pour principal objet la perpétuation des espèces ou, pour parler en termes applicables aux humains, l’édification de formes raciales nouvelles. La force cosmique à l’oeuvre dans l’Ether Vie est le troisième Principe de la Divinité: l’Energie Créatrice de Dieu. Les forces de moindre importance qui sont à l’oeuvre dans cet éther sont, en résumé, le Dieu de Race Solaire-Lunaire Jéhovah (qui travaille avec les planètes possédant des lunes, bien que Son foyer cosmique soit l’orbe solaire), l’Esprit de Race des Archanges, le père et la mère de chaque Ego qui renaît, l’Ego lui-même en voie de renaissance, les Esprits de la Nature, les Anges et les Archanges, les esprits appartenant à la vaque de vie végétale, y compris les Esprits-Groupes des plantes. (Les minéraux ne possèdent pas d’éther vie).
 
@@ -198,7 +234,7 @@ Dans certains cas où un homme de génie a besoin, pour s’exprimer, de posséd
 
 L’homme, être pensant, vient sur terre investi d’une nature morale et mentale qui lui appartient en propre. Il n’a pris à ses parents que les matériaux nécessaires à la construction de son corps physique” (Max Heindel, Philosophie des Rose-Croix par Questions et Réponses, Tome I, Question 30).
 
-### CHAPITRE V - LA SPIRALE DE LA VIE
+### <h3 id="chapter-5">Chapitre V - La spirale de la vie</h3>
 
 Nous avons mentionné précédemment ce que les sciences physiques ont à dire sur les forces de vie dans l’organisme humain. On notera, une fois encore, que l’atome de carbone est la croix du processus de la vie chimique, d’après les paroles des scientifiques: “Alors que la structure de l’univers repose sur l’hydrogène, celle de la vie dépend du carbone. Le carbone est le bloc de base essentiel sur lequel toutes choses vivantes se construisent. Pourquoi en est-il ainsi? La Vie a besoin d’atomes ayant la propriété de s’unir pour former des molécules de taille exceptionnelle... Qu’est-ce qui donne à l’atome de carbone cette faculté spéciale d’adhérer à d’autres atomes sur un si vaste échelle? Il ressemble à un atome ordinaire et, pourtant, se distingue des autres parce qu’il possède six électrons planétaires; tandis que le bore et l’azote, ses voisins sur la table atomique, ont respectivement cinq et sept électrons. Pourtant, l’atome de carbone est absolument unique. Cela tient à sa structure particulière. Il est connu pour être un atome quadrivalent car il a le pouvoir de se combiner avec quatre atomes, tandis que les autres éléments ont cette capacité à un degré plus ou moins grand. C’est cette qualité qui donne à l’atome de carbone son formidable pouvoir potentiel de créer des structures plus complexes. En fait, le nombre de composés possibles, reposant sur cet atome universel, atteint des millions”. (L'Univers vivant, Gatland et Dempster).
 
@@ -230,7 +266,7 @@ Partout dans la nature, on rencontre la Loi de la Spirale: depuis les nébuleuse
 
 “Quel a été le point de départ de ces mouvements vers la droite et vers la gauche qui sont un signe tellement vital des choses vivantes? Si un processus vital quelconque doit accompagner ce qui sépare le mouvement de matériaux vers la droite ou vers vers la gauche, comment la vie actuelle a-t-elle pu commencer? Si tout ce qui tourne vers la droite pouvait être soudainement orienté vers la gauche, la vie se poursuivrait-elle sans interruption et sans changement? Ce sont des problèmes qui méritent d’être approfondis sérieusement. Des hypothèses intéressantes ont déjà été avancées, mais elles ne répondent pas à toutes les questions. On a fait des suppositions - et peut-être arrivera-t-on à une réponse complète - à partir des symétries des forces s’exerçant sur la matière, et des symétries de la matière. Les cristaux offrent un des plus beaux exemples d’ordre et de symétrie qui se puisse trouver dans la nature. En y réfléchissant profondément, on découvrira que l’ordre et la symétrie trouvent des applications d’une grande portée dans toutes les sciences naturelles. Les physiciens étudient, de nos jours, les symétries des particules fondamentales qui constituent l’univers, les champs de force dans lesquels se trouvent ces particules, et les équations mathématiques exprimant l’action qui en résulte dans l’univers. Les chimistes étudient la symétrie des molécules, simples et complexes, qui constituent ces particules. Quant aux biologistes, ils étudient ces symétries, ces dispositions ordonnées, pour arriver à comprendre l’origine et le comportement de la vie elle-même”.
 
-### CHAPITRE VI - MAGNÉTISME ORGANIQUE ET MAGNÉTISME MINÉRAL
+### <h3 id="chapter-6">Chapitre VI - Magnétisme organique et magnétisme minéral</h3>
 
 Bien que nous puissions parler de pluie magnétique pour décrire “l’éther solaire”, il ne s’agit pas là d’une propriété de la lumière du Soleil. On peut voir cette pluie tombant à travers l’espace dans l’obscurité la plus dense comme dans la plus vive lumière. C’est pourquoi la science occulte place l’éther solaire dans la même classe que l’Ether Vie; ou, pour parler comme Max Heindel, “l’éther vie est l’avenue particulière pour la spécialisation de cette pluie magnétique”. Ce magnétisme fluidique est la source de ce qu’on appelle communément “l’attraction sexuelle”, que la science occulte considère comme une manifestation active des pôles positif et négatif de l’Ether Vie. La polarité ne se limite pas à l’Ether Vie ou à la sexualité de créatures organiquement construites pour propager leur espèce; on la rencontre à des niveaux spirituels plus élevés où elle se manifeste d’une manière différente.
 
@@ -272,7 +308,7 @@ Les biochimistes supposent que toutes les propriétés électromagnétiques du c
 
 Et si la théorie du champ magnétique flottant paraît étrange, nous devons nous rappeler que les astronomes admettent maintenant que certains champs magnétiques existent dans l’espace interstellaire qui, entre autres, accélèrent les rayons cosmiques dans leur traversée de l’univers.
 
-### CHAPITRE VII - L'ÉTHER VIE ET LE FEU COSMIQUE
+### <h3 id="chapter-7">Chapitre VII - L'éther vie et le feu cosmique</h3>
 
 On a mentionné plusieurs fois le “Feu de Vie” qui brûle dans l’Ether Vie. Ce n’est pas simplement une chaleur physique, mais un Feu qui dénote la présence d’un esprit vivant.
 
@@ -294,7 +330,7 @@ D’autres couleurs peuvent se manifester dans les deux éthers inférieurs, mai
 
 Quand l’éther solaire se répand à travers la rate pour être réfracté dans l’atome-germe du corps vital au plexus solaire, il se déverse à travers le corps de telle sorte que tous les atomes du corps, qu’ils soient physiques ou éthériques, reçoivent cette stimulation. Le surplus de forces rayonne alors au dehors, en lignes d’une teinte “rosée”. La première pensée de Max Heindel, quand il étudia les éthers, a été que cette force prend une teinte rosée en se réfractant à travers chaque atome éthérique prismatique: par la suite, il a noté que le changement se produit dans l’atome-germe du plexus solaire et dans le groupe d’atomes qui l’entourent (voir Cosmogonie des Rose-Croix, Un mot pour le Sage, fin). Il n’avait pas encore complété ses recherches lorsqu’il mourut soudainement en janvier 1919.
 
-#### RÉSUMÉ
+#### <h4 id="">RÉSUMÉ</h4>
 
 Revoyons une fois encore comment le corps vital apparaît à la vision éthérique de l’occultiste scientifique. L’atome du corps vital est nécessairement vu conjoint à l’atome physique avec lequel cet atome éthérique est étroitement lié. Pour bien se représenter l’atome physique et l’atome éthérique du corps, imaginons un petit panier tressé en forme de poire, dont les parois seraient constituées par des fils métalliques courbés en spirale allant obliquement d’un pôle à l’autre; c’est l’atome dense qui a, à peu près, la forme de la Terre. L’atome prismatique du corps vital est inséré à son sommet, qui est la partie la plus large correspondant au pôle positif de la Terre. La pointe du prisme est dirigée vers le fond de la “corbeille” - fond qu’on nomme le pôle négatif. L’atome tout entier, ainsi interpénétré, ressemble à une toupie qui tourne, oscille et vibre en émettant un son commandé par l’archétype et la Flamme Sonore de la medulla oblongata.
 
@@ -322,7 +358,7 @@ Les atomes du corps dense vibrent très lentement; ce sont les atomes éthériqu
 
 La science occulte n’a pas encore nettement établi les rapports qui existent entre les magnétisme planétaire, solaire et éthérique de ce qui vit sur la Terre. Les horoscopes des personnes nées dans l’hémisphère sud sont inversés, de sorte que là où un thème de l’hémisphère nord a le Bélier à l’Ascendant, le thème de l’hémisphère sud aura la Balance à l’Ascendant. Nous savons que, lorsque l’eau coule dans un conduit, elle suit le sens des aiguilles d’une montre dans un hémisphère et, dans l’autre, elle suit le sens contraire. Peut-être faut-il y voir un effet de la polarité planétaire (les pôles magnétiques de notre Terre)? C’est là un des nombreux mystères encore non résolus que la science occulte de l’avenir devra éclaircir. Et que dire quand la même chose se produit chez les plantes grimpantes qui s’enroulent autour d’un support selon le sens des aiguilles d’une montre dans un hémisphère, et en sens contraire dans l’autre?
 
-### CHAPITRE VIII - L'ÉTOILE ET LA SPIRALE
+### <h3 id="chapter-8">Chapitre VIII - L'étoile et la spirale</h3>
 
 Nous avons vu, dans un chapitre précédent, ce que les sciences modernes ont à dire de la Spirale. Il est curieux de constater que l'Etoile à cinq branches, qui a toujours une grande importance au point de vue ésotérique, est aussi considérée comme une caractéristique spéciale de la Vie sur notre planète, ainsi que nous l’apprend la biologie moderne. Examinons donc ce symbole d'un peu plus près, pour voir quel rôle il joue dans le monde qui nous entoure.
 
@@ -368,9 +404,9 @@ Aussi, pour l’étudiant d’une Ecole des Mystères, l’Etoile et la Spirale,
 
 L’aurore venue, l’Aide Invisible revient vers son corps dense et, tandis qu’il plane au-dessus, sentant l’attirance magnétique du corps vital qui le fait descendre dans sa gaine charnelle, il a conscience de la rotation des roues de force de son aura. Pendant que ces roues tournent, il s’installe doucement, sans aucun choc ni aucune gêne, dans cet instrument physique dense allongé sur le lit. Alors, il se réveille pour soulever à nouveau la croix de son corps dans le monde du temps et de l'espace.
 
-## TROISIÈME PARTIE - L'ÉTHER LUMIÈRE
+<h2 id="part-3">TROISIÈME PARTIE - L'ÉTHER LUMIÈRE</h2>
 
-### CHAPITRE IX - L'ÉTHER LUMIÈRE ET LE SOLEIL
+### <h3 id="chapter-9">Chapitre IX - L'éther lumière et le soleil</h3>
 
 Dans nos chapitres sur l’Ether Vie, nous avons appris quelque chose à propos de ce que Max Heindel a appelé “l’éther solaire incolore”, ou fluide solaire, et nous avons précisé que ce fluide solaire est visible à la vision éthérique sous différents états ou conditions: il se présente sous l’aspect d’une “pluie” de force cosmique qui se précipitre à travers la rate éthérique, et prend une teinte rosée dans le plexus solaire. Nous avons noté, en outre, que ce fluide solaire est magnétique, que nos sens éthériques le contactent comme tel et que, bien qu’il ait reçu le nom d’éther “solaire”, on l’étudie dans ses rapports avec l’Ether Vie plutôt que dans ses rapports avec l’Ether Lumière, car l’Ether Vie est la voie particulière par laquelle il est spécialisé par l’Ego. En tant que fluide magnétique, il appartient au spectre de lumière “noire” qui existe au-delà et en deçà du spectre lumineux normal visible aux yeux humains.
 
@@ -404,7 +440,7 @@ Hoyle explique encore que les rayons infra-rouges arrivent jusqu’au sol en plu
 
 Les astronomes disent que notre Soleil est une étoile jaune ou orangée de la classe dénommée des “naines jaunes” ou “oranges”, qui sont parmi les étoiles les plus instables. La lumière du Soleil n’est pas réellement blanche, mais teintée de jaune ou d’or. Les occultistes décrivent aussi l’Ether Lumière comme étant jaune ou doré, bien que, tout comme le Soleil, cet éther possède une gamme complète de couleurs visibles à l’oeil nu en tant que couleur ou lumière, mais visible à la vision éthérique en tant que vibrations et points d’énergie étincelants.
 
-### CHAPITRE X - COMMENT L'OCCULTISTE VOIT L'ÉTHER LUMIÈRE
+### <h3 id="chapter-10">Chapitre X - Comment l'occultiste voit l'éther lumière</h3>
 
 Bien que les quatre éthers aient à faire leur travail dans chaque partie de l’organisme vivant, chacun d’eux a une tâche spéciale qui lui est propre. L’Ether Chimique est le canal où circulent les forces qui construisent et nourrissent le corps tout entier, mais son champ d’action particulier est la charpente osseuse, ou squelette. L’Ether Vie suscite les activités de croissance et de perpétuation de l’espèce; son champ d’action particulier est le sang et les autres liquides du corps, le système générateur et les glandes endocrines. L’Ether Lumière est le canal par où circulent les forces cosmiques liées à la lumière solaire, à la couleur et à la chaleur, qui ont toutes une importance considérable dans notre évolution, mais son champ d’action particulier est le système nerveux, à la fois le système volontaire et le grand sympathique. La glande pinéale et le cerveau sont le siège de l’Esprit Humain (l’Ego). Le cerveau est le grand centre qui reçoit et qui coordonne les influx nerveux, organise toutes les sensations provenant des organes des sens, véhiculées par les nerfs. Dans le chapitre précédent, nous avons noté qu’il est admis que le minuscule thalamus soit le cerveau originel et que les instincts et les forces psychiques y sont encore concentrés, tandis que le cerveau supérieur gouverne toute l’évolution ultérieure des forces sensorielles.
 
@@ -442,7 +478,7 @@ La citation suivante est intéressante: “L’Ether Lumière est une substance 
 
 Pour commencer, l’étudiant peut observer plus facilement cet éther en restant allongé sur son lit et en regardant un coin du plafond dans une pièce bien éclairée. Son regard ne restera pas fixé sur une surface mais se posera à l’intérieur de l’espace lui-même et, bientôt, il commencera à voir les ondes et les étincelles de l’Ether Lumière. Il faudra éviter la tension oculaire.
 
-### CHAPITRE XI - RÉSUMÉ: LES TROIS ÉTHERS
+### <h3 id="chapter-11">Chapitre XI - Résumé: Les trois éthers</h3>
 
 Avant d’étudier l’Ether Réflecteur, revoyons les traits saillants des trois autres éthers, tels que les physiciens et les occultistes les connaissent. Premièrement, la lumière appartient à ce qu’on appelle le spectre électromagnétique dont seulement une bande très réduite est visible à l’oeil humain, pour la bonne raison que cette bande représente la radiation de notre Soleil, dans le champ duquel nos sens se sont développés. Si notre humanité s’était développée sur une planète appartenant à un soleil rouge géant, par exemple, nous aurions pu développer une vision dans la bande des infra-rouges. Il est curieux de constater que lorsque la vision éthérique commence à s’installer, c’est l’aspect invisible de la lumière, dans notre spectre solaire, qui est généralement vu en premier: les vagues de lumière elle-mêmes et les noyaux d’énergie qui scintillent à travers elles. Les vagues d’Ether Lumière sont constituées en réalité d’unités, ou masses d’énergie, qui sont à la fois ondes et particules, visibles simultanément, les uns et les autres, à la vision éthérique. L’unité d’énergie se nomme “photon” et n’est pas uniquement l’unité de la lumière solaire, mais aussi l’unité de toutes les ondes électromagnétiques.
 
@@ -480,9 +516,9 @@ Les longueurs d’onde des couleurs seront un jour utilisées pour éveiller les
 
 Un objet coloré éclairé par la lumière blanche solaire absorbe, selon sa teinte, certains rayons colorés et réfléchit les autres. C’est ainsi que la chlorophylle nous paraît verte, car elle renvoie les rayons composant la couleur verte et absorbe la couleur rouge (complémentaire du vert) comme cela vient d’être exposé.
 
-## QUATRIÈME PARTIE — L’ÉTHER RÉFLECTEUR
+<h2 id="part-4">QUATRIÈME PARTIE — L’ÉTHER RÉFLECTEUR</h2>
 
-### CHAPITRE XII — L’ÉTHER RÉFLECTEUR
+### <h3 id="chapter-12">Chapitre XII - L'éther réflecteur</h3>
 
 “Entre deux Ciels”
 
@@ -518,7 +554,7 @@ Il faut donc que l’étudiant exerce son discernement en ce qui concerne le flu
 
 Remarquez que ces images ne sont pas toutes des “annales enregistrées”. Elles comprennent , parfois, des scènes de notre monde actuel et des personnes vivant aujourd’hui sur la Terre. Elles peuvent aussi inclure des visages et des formes de trépassés, ainsi que des scènes des mondes intérieurs. Car cet Ether Réflecteur est comparable à un miroir à deux faces dont l’une, précise Max Heindel, réfléchit l’univers extérieur et l’autre, les mondes spirituels, intérieurs.
 
-### CHAPITRE XIII — CE QUE REFLÈTE L’ÉTHER RÉFLECTEUR
+### <h3 id="chapter-13">Chapitre XIII - Ce que reflète l'éther réflecteur</h3>
 
 On dit souvent que chaque observateur colore (selon sa façon personnelle de voir les choses) ses observations du monde tel qu’il existe, à la fois en dehors de lui et en lui. C’est indubitable. Naturellement, nous voyons le monde, nous faisons l’expérience du monde, d’après ce que nous sommes. Il ne saurait en être autrement. Toutefois, le philosophe de la science moderne va plus loin; il affirme que non seulement les impressions qu’il a du monde extérieur dépendent de son penchant mental comme de son centre sensoriel situé dans son cerveau, mais encore que LE MONDE EXTÉRIEUR OU OBJECTIF EST LUI-MÊME EFFECTIVEMENT ET RÉELLEMENT CHANGÉ du fait de l’interaction de forces physiques et de la pression des forces mentales engendrées, comme c’est le cas dans la télékinésie. Comment cela peut-il se faire?
 
@@ -568,7 +604,7 @@ Ou, comme le montre Max Heindel dans son analogie de l’appareil photo, les ima
 
 Puisque Ether Lumière et Espace sont “presque synonymes”, les “scènes” de “l’espace” impriment leurs images sur la pellicule d’Ether Réflecteur, fluant dans deux directions: l’une tournée vers le passé, l’autre vers l’avenir.
 
-### CHAPITRE XIV - L'ÉTHER RÉFLECTEUR ET LES ARCHIVES D’EXISTENCES PRÉCÉDENTES (OU ENREGISTREMENTS DE NOS PRÉCÉDENTES VIES)
+### <h3 id="chapter-14">L'éther réflecteur et les archives d'existences précédentes (ou enregistrements de nos précédentes vies)</h3>
 
 Non seulement l’Ether Réflecteur contient l’enregistrement de notre vie quotidienne, mais il contient aussi les enregistrements des heures passées à dormir, qui sont pour l’occultiste des heures d’intense activité. Peu nombreux sont les étudiants qui se rappellent leurs activités durant les heures nocturnes, alors qu’ils étudient, ou travaillent, dans les mondes spirituels en qualité d’Aides Invisibles. Les Aides Invisibles ont le choix de leurs actions et, tandis que tous manifestent de l’intérêt pour le travail de guérison, quelques-uns ont aussi d’autres champs d’activité. Ils suivent des cours et l’occasion leur est donnée de visiter les régions du Purgatoire et du Premier Ciel et d’observer les conditions qui y règnent. Ils gardent le souvenir de certaines de ces choses, mais en oublient une grande partie. Même après la première Initiation, Max Heindel a déclaré que sa mémoire n’était pas encore parfaite et qu’elle avait besoin d’être davantage entraînée.
 
@@ -600,7 +636,7 @@ Il est facile de supposer que ces voyantes ont réellement vécu au temps de Cl�
 
 Ainsi, nous consatons qu’il y a une mémoire émotionnelle, de même qu’il existe une mémoire de la pensée et de l’action - ce que les clairvoyants peuvent également percevoir dans l’Ether réflecteur. Pourtant, la plupart des gens font rarement l’expérience de cette mémoire émotionnelle. Cependant, quand l’image du passé n’est pas simplement observée mais vécue, selon la manière exposée, la mémoire émotionnelle entre en jeu. Or, puisque la plupart d’entre nous s’identifie à ses émotions et à ses sentiments bien plus encore qu’à ses sensations corporelles et à ses pensées, il est naturel de penser que, ressentant une vive émotion émanant d’un personnage pittoresque, nous nous attribuions une identité qui n’est pas réellement nôtre. C’est ainsi que se présentent des situations ridicules, comme dans le cas de ces femmes qui croyaient toutes avoir été Cléopâtre.
 
-### CHAPITRE XV - L'ÉTHER RÉFLECTEUR ET SES RAPPORTS AVEC LA MATIÈRE
+### <h3 id="chapter-15">Chapitre XV - L'éther réflecteur et ses rapport avec la matière</h3>
 
 Remarquez que chaque objet du monde extérieur a son reflet clair et indubitable, dans l’Ether Réflecteur. On n’y trouve pas seulement le Corps de l’Ame ou Vêtement Nuptial d’Or. Tout dans l’univers a son reflet dans cet éther. Les lois de réflexion dans l’hyper-éther ne sont cependant pas une simple image de type miroir, bien qu’on se serve de cette analogie pour expliquer les choses aux élèves. Nous pensons que les théories les plus avancées de la science sur la matière et l’anti-matière pivotent autour de cet éther. Et, de même que l’anti-matière a de l’anti-gravitation, on peut expliquer par là la vieille affirmation selon laquelle la lévitation s’accomplit au moyen de la lumière astrale. Une théorie courante dit qu’au commencement, la matière et l’anti-matière existaient ensemble dans une sorte “d’oeuf cosmique”et qu’elles furent séparées par une espèce de force répulsive toujours inconnue. Max Heindel a dit que la lévitation s’effectue par l’inversion de la polarité des atomes.
 
@@ -631,6 +667,8 @@ Le terme “Lumière Astrale” n’est pas, comme on le sait, un orientalisme, 
 Nous considérons comme important que les occultistes de l’Orient et les occultistes européens du Moyen-Age aient affirmé que les corps lourds peuvent obéir à la lévitation grâce à la Lumière Astrale dont ils avaient remarqué, en outre, la faculté d’activer les autres pouvoirs suprasensoriels. Il nous est possible d’étudier, à part ou collectivement, les diverses propriétés chimiques et électromagnétiques du corps. Mais la clé du mystère ne se trouve nulle part ailleurs que dans l’Ether Réflecteur: dans le pôle négatif qui est le Réflecteur Cosmique et dans le pôle positif qui projette l’image archétypale dont la fonction est créatricee et qui représente le futur.
 
 ### CHAPITRE XVI - L'ÉTHER RÉFLECTEUR ET LES FORCES ARCHÉTYPALES
+
+### <h3 id="chapter-16">Chapitre XVI - L'éther réflecteur et les forces archétypales</h3>
 
 Etude du Diagramme N°1 de la Cosmogonie des Rose-Croix
 
