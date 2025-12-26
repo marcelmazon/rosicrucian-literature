@@ -27,21 +27,21 @@ Mount Ecclesia, Novembre 1949.
 
 - [Dedication](#dedication)
 - [Foreword](#foreword)
-- [I. AS IT WAS IN THE BEGINNING](#chapter-1)
-- [II. MAN'S MONOCHORD](#chapter-2)
-- [III. THE POWER OF MUSIC](#chapter-3)
-- [IV. CORRELATION OF MUSIC TO THE SOLAR GOD](#chapter-4)
-- [V. OUR MUSICAL ARCHETYPES](#chapter-5)
-- [VI. MUSICAL OCTAVES AND THE COSMIC SCHEME](#chapter-6)
-- [VII. OUR GROUP SPIRIT, JEHOVAH, AND OUR OWN LIFE WAVE](#chapter-7)
-- [VIII. THE HARMONY OF THE SPHERES](#chapter-8)
-- [IX. THE ARCHETYPES AND THE PHYSICAL BODY](#chapter-9)
-- [X. THE CURATIVE POWER OF MUSIC](#chapter-10)
-- [XI. INVISIBLE HELPERS AND HEALING](#chapter-11)
-- [XII. MUSIC AS A BUILDING POWER](#chapter-12)
-- [XIII. THE BRAIN, MAN'S PHYSICAL WORKSHOP](#chapter-13)
-- [XIV. DEVELOPING THE EFFICIENCY OF THE MIND AND BRAIN](#chapter-14)
-- [XV. MAN'S VEHICLES, A COMPOSITE MUSICAL INSTRUMENT](#chapter-15)
+- [I. Ce qu'il en était au commencement](#chapter-1)
+- [II. Le monocorde de l'homme](#chapter-2)
+- [III. Le pouvoir de la musique](#chapter-3)
+- [IV. La corrélation de la musique avec le dieu solaire](#chapter-4)
+- [V. Nos archétypes musicaux](#chapter-5)
+- [VI. Les octaves musicales et le plan cosmique](#chapter-6)
+- [VII. Jéhovah, et notre propre vague de vie](#chapter-7)
+- [VIII. L'harmonie des sphères](#chapter-8)
+- [IX. L'archétype et le corps dense](#chapter-9)
+- [X. Le pouvoir curatif de la  musique](#chapter-10)
+- [XI. Les aides invisibles et la guérison](#chapter-11)
+- [XII. La musique en tant que pouvoir édificateur](#chapter-12)
+- [XIII. Le cerveau, atelier physique de l'homme](#chapter-13)
+- [XIV. Comment développer l'efficacité du cerveau et de l'intellect](#chapter-14)
+- [XV. Les véhicules de l'homme un instrument de musique composite](#chapter-15)
 
 ### <h3 id="illustrations">ILLUSTRATIONS</h3>
 
@@ -49,7 +49,7 @@ Mount Ecclesia, Novembre 1949.
 - [World Regions, Life Waves and Piano Keyboard](#world-regions-life-waves-and-piano-keyboard)
 - [Constitution of the Earth](#constitution-of-the-earth)
 - [Keynote of Life Waves and Man's Body](#keynote-of-life-waves-and-mans-body)
-- [Location of the Ductless Glands](#location-of-the-ductless-glands)
+- [Localisation des glandes endocrines et leurs gouverneurs](#location-of-the-ductless-glands)
 - [Thought Forms Built by Envy and Greed](#thought-forms-built-by-envy-and-greed)
 - [Prayer and Response from Above](#prayer-and-response-from-above)
 - [Thought Form Made by a Blessing](#thought-form-made-by-a-blessing)
@@ -162,7 +162,7 @@ L’enseignement rosicrucien est indépendant de toute considération monétaire
 
 Tout progrès, dans le domaine occulte et spirituel, repose sur l’effort personnel. Les enseignements rosicruciens visent à développer la précision et la concentration de la pensée, la purification des sentiments et la maîtrise de soi. The Rosicrucian Fellowship n’est ni une secte, ni une organisation religieuse; c’est une grande école de pensée.
 
-### Chapitre 1 — CE QU’IL EN ÉTAIT AU COMMENCEMENT
+### <h3 id="chapter-1">Chapitre 1 - Ce qu'il en était au commencement</h3>
 
 “Le système solaire, dans son ensemble, est un vaste instrument de musique désigné, dans la mythologie grecque, sous le nom de “Lyre à sept cordes d’Apollon”. On peut dire des signes du zodiaque qu’ils sont la table d’harmonie de la harpe cosmique et que les sept planètes en sont les cordess; elles émettent des sons différents en traversant chaque signe et influencent l’humanité de diverses manières. Si l’harmonie faisait défaut un seul instant, s’il y avait la plus petite dissonance dans l’orchestre céleste, l’univers tout entier s’écroulerait”. — Max Heindel
 
@@ -190,7 +190,7 @@ La musique produit des sonorités du plus grand pouvoir de Dieu et de l’hommes
 
 L’architecture peut être assimilée à une musique figée, la sculpture à une musique emprisonnée, la peinture à une musique qui lutte pour se libérer et la musique à une manifestation libre et ondoyante du son.
 
-### Chapitre 2 - LE MONOCORDE DE L'HOMME
+### <h3 id="chapter-2">Chapitre 2 - Le monocorde de l'homme</h3>
 
 L'unique corde du monocorde trouve son équivalent dans la moelle épinière de l’homme. Sa partie inférieure est reliée aux organes de reproduction et la partie supérieure au cerveau, qui est l’organe physique de la pensée. Les Esprits Lucifer travaillent particulièrement sur cette moelle. Ils en contrôlent la partie régissant les nerfs moteurs qui dépensent l’énergie dynamique stockée dans le corps par le sang. La section de la moelle, qui gouverne la fonction particulière de l’entretien et du bien-être du corps, est sous le contrôle des Anges. La partie de la moelle, qui marque et enregistre les sensations véhiculées par les nerfs, est contrôlée par les Esprit Mercuriens. L’esprit spinal, qui remplit le canal central de la moelle épinière, est le champ d’action de la grande hiérachie spirituelle de Neptune.
 
@@ -210,7 +210,7 @@ Le système solaire est un vaste instrument de musique. De même qu’il y a dou
 
 Dans la Bible, on remarque que la harpe à sept cordes de David représente astrologiquement les toniques de la chaîne planétaire septuple. La tonique de chaque planète est formée de la quintessence de ses sons fusionnés. Un amalgame des peines et des joies de notre Terre, les sons de ses vents et de ses mers, le rythme de toutes les forces vivantes combinées forment sa tonique. De la même manière, et sur une échelle toujours ascendante, résonnent les notes de toute la chaîne planétaire. Leur union constitue la sublime Musique des Sphères. “Peu importe que la sphère que tu vois soit plus petite, son mouvement chante comme un ange” écrivait Shakespeare, le grand poète initié. Cette musique est la production du Verbe, à propos duquel St Jean a écrit: “Au commencement était le Verbe et le Verbe était Dieu... et sans lui rien de ce qui est fut créé ne l’aurait été (JEAN 1, 1-3)
 
-### Chapitre 3 — LE POUVOIR DE LA MUSIQUE
+### <h3 id="chapter-3">Le pouvoir de la musique</h3>
 
 Ainsi, dans son expression normale, la musique enseigne l’ordre parfait; elle est la voix de l’obéissance aux Anges et le compagnon de route des sphères célestes. Mais, dans sa perversion, elle est l’instigatrice du parfait désordre et de la désobéissance. — Ruskin
 
@@ -234,7 +234,7 @@ Les trois divisions primaires de la musique — mélodie, harmonie et rythme —
 
 Séparer la volonté (mélodie) de l’amour (harmonie) et unir l’amour à l’activité (rythme), peut produire n’importe quelle monstruosité que les forces du mal pourraient vouloir amener à l’existence, si l’ensemble est dépossédé du pouvoir dirigeant de la volonté. Si leurs malveillantes activités ne sont pas tenues en échec, elles finiront par détruire une nation. Aucune tentative révolutionnaire dans l’art de la musique ne pourra amener le résultat désiré, à moins qu’elle ne commence dans l’application des principes artistiques de cohérence et de juste équilibre entre les trois éléments dont est faite la musique, à savoir la mélodie, l’harmonie et le rythme.
 
-### Chapitre 4 - LA CORRÉLATION DE LA MUSIQUE AVEC LE DIEU SOLAIRE
+### <h3 id="chapter-4">Chapitre 4 - La corrélation de la musique avec le dieu solaire</h3>
 
 | MUSIQUE     | DIEU         | POUVOIR     | EXPRESSION      |
 |-------------|--------------|-------------|-----------------|
@@ -273,7 +273,7 @@ Le Dieu de notre système solaire crée par vagues de vie comprenant un nombre i
 
 Le temps nécessaire pour mener à bien le travail de certaines phases de l’évolution est divisé en périodes, à savoir la Période de Saturne, suivie par la Période du Soleil, la Période de la Lune et celle de la Terre, ensuite celles de Jupiter et de Vénus et enfin, la Période de Vulcain, qui sera suivie par le repos d’une nuit cosmique.
 
-### Chapitre 5 — NOS ARCHÉTYPE MUSICAUX
+### <h3 id="chapter-5">Chapitre 5 - Nos archétypes musicaux</h3>
 
 Depuis l‘aube de la création, rien n’a jamais existé avant la construction d’un archétype. En formant un système solaire, le premier pouvoir de Dieu, la volonté, veut créer et éveille le second pouvoir, amour-sagesse. Cette deuxième force, grâce au pouvoir de l’imagination, conçoit l’idée (archétype) d’un système solaire; puis le troisième pouvoir, l’activité, travaillant dans la substance cosmique, produit le mouvement et le pouvoir mélodique, harmonieux et rythmique, et construit un archétype indépendant pour tout ce qui prendra forme, de la motte de terre jusqu’à Dieu.
 
@@ -309,7 +309,7 @@ Ce sont les sens intérieurs de l’homme, considérés dans leur ensemble qui, 
 
 Le premier sens intérieur ou spirituel de l’homme qui sera atteint par sa conscience objective de veille sera l’ouïe, le deuxième le toucher, puis le goût, l’odorat et finalement la vue. La méthode utilisée pour appréhender les sens spirituels ou intérieurs est la concentration. La concentration est un processus unidirectionnel par lequel l’Esprit, par le pouvoir de sa volonté, est capable de s’abstraire complètement de tout ce qui entoure et envahit sa conscience objective de veille et révèle à cette conscience ses pouvoirs spirituels, tandis qu’il est toujours à l’intérieur de ses quatre véhicules qui s’interpénètrent — les corps mental, du désir, vital et dense (physique).
 
-### Chapitre 6 — LES OCTAVES MUSICALES ET LE PLAN COSMIQUE
+### <h3 id="chapter-6">Chapitre 6 - Les octaves musicales et le plan cosmique</h3>
 
 Le piano n’est pas le résultat des efforts de l’homme pour reproduire les notes de son Soi intérieur dont il se souvenait obscurément, mais c’est le produit de la perception matérialisée de la musique et, en conséquence, c’est un instrument purement terrestre. C’est pourquoi ce n’est pas seulement un instrument pratique, mais aussi un instrument très précieux pour les vrais grands musiciens capables d’accéder au véritable monde céleste de la musique, pour faire descendre sur la terre, et fabriquer de main d’homme un instrument matériel propre à la reproduire.
 
@@ -457,7 +457,7 @@ Grâce au pouvoir de leur tonalité respective manifestée en gammes et en accor
 
 A cette époque, l’homme était toujours en dehors de ses véhicules et tout le travail effectué était fait “automatiquement”; il était entièrement dirigé par les grands Etres mentionnés ci-dessus ceux-ci étant en charge de son évolution.
 
-### Chapitre 7 - JÉHOVAH, ET NOTRE PROPRE VAGUE DE VIE
+### <h3 id="chapter-7">Chapitre 7 - Jéhovah, et notre propre vague de vie</h3>
 
 Vers la fin de la Période de la Lune, il y eut une division en deux globes ou planètes, sur lesquelles nous évoluions; la plus petite des deux fut lancée dans l’espace. Elle s’est condensée très rapidement et est restée notre champ d’évolution jusqu’à la fin de la Période de la Lune.
 
@@ -563,7 +563,7 @@ En résumant ce qui précède, nous trouvons:
 
 Les accords se rapportant aux trois pouvoirs de l'Esprit et aux quatre véhicules de l'homme, ainsi que toute musique écrite dans la tonique de ces accords, peuvent efficacement être utilisés au développement des pouvoirs de son esprit triple et des pouvoirs de ses quatre véhicules.
 
-### Chapitre 8 - L'HARMONIE DES SPHÈRES
+### <h3 id="chapter-8">Chapitre 8 - L'harmonie des sphères</h3>
 
 L’harmonie des sphères n’est pas un son unique. Elle varie de jour en jour et de mois en mois, en même temps que le Soleil et les planètes passent d’un signe à l’autre. Il y a aussi des variations annuelles avec les différentes époques, dues à la précession des équinoxes. Il y a véritablement une variété infinie dans le Chant des Sphères, comme il se doit, car le changement constant de vibration spirituelle est la base de toute évolution physique ou spirituelle. Au printemps, les notes du Bélier et de Mars stimulent et activent la germination, le renouveau de la vie et la croissance de tous les règnes, de l’homme aux plantes incluses. Si vous voulez avoir quelque idée de ce à quoi ressemble la musique des sphères, écoutez les chants de Pâques comme celui-ci :
 
@@ -625,7 +625,7 @@ La région de la Pensée Concrète est le royaume du Son où l’Harmonie des Sp
 
 Tout ceci démontre clairement que notre musique terrestre n’existe pas par hasard, mais qu’elle a été établie sur une base qui se trouve dans les mondes spirituels supérieurs, dont l’origine est le mot parlé de Dieu, créateur de notre système solaire.
 
-### Chapitre 9 — L’ARCHÉTYPE ET LE CORPS DENSE
+### <h3 id="chapter-9">Chapitre 9 - L'archétype et le corps dense</h3>
 
 Remarquez que les notes de la gamme: Do, Ré, Mi, Fa, Sol, La, Si, formant un ensemble de sept tons, sont la base de l’Harmonie des sept Sphères. Les vibrations d’Uranus et de Neptune ne sont pas intervenues dans le progrès matériel de l’humanité, si ce n’est que bien après l’époque de Pythagore. Cependant, les humains les plus avancés commencent à ressentir leurs vibrations. Les toniques de ces deux planètes, ajoutées aux sept précédentes font neuf, le nombre de l’humanité.
 
@@ -649,7 +649,7 @@ Les leçons relatives à la quatrième octave ou octave du milieu, celle de la P
 
 Ordinairement, l’intellect forme une connexion parfaite entre l’Esprit et ses quatre véhicules, mais cette connexion peut se détériorer, voire même se rompre. Alors, de sérieux troubles mentaux peuvent en résulter. On peut tracer l’origine des maladies mentales dans l’union du corps du désir avec un intellect incontrôlé, ou encore dans le son violent et prolongé de n’importe laquelle ou de toutes les vibrations planétaires, qu’elles soient de la Lune, de Mercure, d’Uranus ou de Neptune. Utilisées ainsi, elles ont le pouvoir de détruire non seulement l’intellect, mais aussi le corps de désir, le corps vital et le corps dense, alors que leurs vibrations lentes, douces et rythmées calmeront et soigneront tout à la fois.
 
-### Chapitre 10 — LE POUVOIR CURATIF DE LA MUSIQUE
+### <h3 id="chapitre-10">Chapitre 10 - Le pouvoir curatif de la  musique</h3>
 
 La vibration est la vie manifestée et elle est à l’origine de toute chose créée ou ayant existé. L’inertie, son opposé, se résoudra en séparation, désintégration, décomposition. La musique et la couleur sont, toutes deux, le produit du pouvoir de certains taux vibratoires. Les taux vibratoires sont harmonieux, sains, constructifs et édificateurs, mais les taux discordants sont destructeurs et désintégrateurs, même jusqu’à la dissolution. Le son est à l’origine de la couleur et seul un son clair et mélodieux peut produire une belle couleur, attirante et inspiratrice.
 
@@ -681,7 +681,7 @@ Le Verseau gouverne les chevilles et les jambes, du genou à la cheville, il a a
 
 Les Poissons gouvernent les pieds et les orteils. Ils ont aussi une action réflexe sur la région abdominale gouvernée par le signe opposé de la Vierge. Donc, les afflictions dans ce signe indiquent des malformations des pieds, des maladies intestinales, de l’hydropisie, une tendance à boire et à se droguer, qui peut aboutir au delirium tremens. Une musique jouée doucement dans le ton de Si majeur sera la meilleure pour combattre ces maladies.
 
-### Chapitre 11 — LES AIDES INVISIBLES ET LA GUÉRISON
+### <h3 id="chapitre-11">Chapitre 11 - Les aides invisibles et la guérison</h3>
 
 La guérison spirituelle, telle qu’elle est pratiquée par The Rosicrucian Fellowship est effectuée par des Candidats qui travaillent la nuit, quand ils sont hors de leur corps dense endormi. On les appelle des Aides Invisibles, car ils ne peuvent être vus à la vision ordinaire. Leur travail de guérison dépend des facteurs primordiaux suivants: le taux de vibration du corps vital du malade et celui du Candidat doivent être en parfaite harmonie (ceci est laissé à l’appréciation des Frères Aînés). Le Candidat Aide Invisible doit avoir décidé, à l’état de veille, de devenir un aide-guérisseur prêt à agir sur le plan invisible. De tels Aides doivent être des Candidats car, au moment où ils prennent leur engagement de Candidat, ils commencent à vibrer à l’unisson avec les Frères Aînés de l’Ordre de la Rose-Croix, et chaque matin, quand ils font leur exercice de concentration, ils renforcent cette vibration.
 
@@ -715,7 +715,7 @@ Trois des glandes endocrines sont en connexion étroite avec l’intellect de l�
 
 LOCALISATION DES GLANDES ENDOCRINES ET LEURS GOUVERNEURS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-### Chapitre 12 - LA MUSIQUE EN TANT QUE POUVOIR ÉDIFICATEUR
+### <h3 id="chapter-12">Chapitre 12 - La musique en tant que pouvoir édificateur</h3>
 
 Dans le progrès évolutionnaire de l'humanité, on trouve actuellement quatre classes d’individus: ceux qui ont échoué, c’est-à-dire ceux qui, ayant complètement perdu pied dans le plan présent, devront revenir au tout début et recommencer (dans une autre Période de Saturne); les retardataires qui, s’ils travaillent suffisamment, ont une chance de se rattraper et de continuer dans notre présent plan d’évolution; les masses qui apprennent leurs leçons et qui, sans aucun doute, réussiront à passer le cap; les pionniers qui sont allés de l’avant et qui, en conséquence, sont à l’avant-garde de l’évolution. Ceux du dernier groupe vont devenir les instructeurs et les guides de l’humanité. On y trouve les Frères lais, les Adeptes et les Frères Aînés qui constituent les membres des sept écoles des Mystères Mineurs et des cinq grandes autres écoles qui sont sur le terre aujourd’hui.
 
@@ -757,7 +757,7 @@ En résumé, on notera que les Esprits Lucifer ont établi une connexion avec l�
 
 - la possibilité de faire naître en l’homme de violentes passions et de pouvoir poursuivre leur évolution grâce à leur intensité.
 
-### Chapitre 13 — LE CERVEAU, ATELIER PHYSIQUE DE L’HOMME
+### <h3 id="chapter-13">Chapitre 13 - Le cerveau, atelier physique de l'homme</h3>
 
 Le cerveau est divisé en trois parties principales: les hémisphères cérébraux (partie supérieure), le cervelet (petit cerveau moyen) et la medulla oblongata (petit cerveau inférieur).
 
@@ -803,7 +803,7 @@ Des formes-pensées dirigées vers un individu produisent un résultat des plus 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-### Chapitre 14 - COMMENT DÉVELOPPER L’EFFICACITÉ DU CERVEAU ET DE L’INTELLECT
+### <h3 id="chapter-14">Chapitre 14 - Comment développer l'efficacité du cerveau et de l'intellect</h3>
 
 Malheureusement, pour le moment, aucun d’entre nous n’est tout à fait bon, et nous ne pouvons nous cacher que, bien des fois, nous ne faisons pas le bien que nous voudrions, mais le mal que nous devrions éviter. Beaucoup trop souvent, nous ne sommes pas fidèles à nos bonnes résolutions et nous agissons mal parce que c’est plus facile et plus agréable. Tout cela fait ressortir le fait que nous sommes tous mus, de quelque façon, par notre moi inférieur; cela ouvre la voie aux mauvaises pendées qui peuvent ainsi nous atteindre et nous influencer.
 
@@ -871,7 +871,7 @@ Les mauvaises formes-pensées, dans l’aura, ont un mouvement centrifuge. Les b
 
 Comme toutes les formes-pensées d’un individu sont accordées avec sa tonique particulière, le temps vient où nous pouvons tous trouver la trace de chaque forme-pensée rencontrée jusqu’à celui qui l’a générée, par sa tonique spécifique. Alors, véritablement, comme le dit la Bible, les choses cachées seront révélées, non par des annonces publiques, mais par notre propre aura.
 
-### Chapitre 15 — LES VÉHICULES DE L’HOMME UN INSTRUMENT DE MUSIQUE COMPOSITE
+### <h3 id="chapter-15">Chapitre 15 - Les véhicules de l'homme un instrument de musique composite</h3>
 
 La pensée appartient au plus haut pouvoir de l’Esprit qui est la volonté. Donc, au fur et à mesure que les pouvoirs potentiels de cette volonté se développent, celui de la pensée fait de même; et le temps vient où l’homme sera capable, par le pouvoir de la pensée et de l’imagination, d’amener par la parole, les choses à l’existence. Toute chose dans la nature a été appelée à l’existence par le Verbe de Dieu qui fut fait chair. Le son (musique), ou la pensée parlée, sera pour l’humanité la prochaine force en manifestation, une force qui fera des hommes des dieux créateurs. Mais ce pas en avant ne peut se faire tant que l’homme n’a pas appris, à l’école de la vie, à utiliser cet énorme pouvoir, pour le bien de tous, sans considération de son intérêt personnel. Donc, il est de première nécessité que tout individu apprenne, pour lui-même comment se développer de la manière la plus rapide et la plus sûre. Cette méthode a été portée à la connaissance de l’homme, mais il appartient à chacun de la mettre ou non en pratique.
 
