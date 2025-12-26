@@ -55,116 +55,11 @@ Mount Ecclesia, Novembre 1949.
 - [Thought Form Made by a Blessing](#thought-form-made-by-a-blessing)
 - [Startled Thought Form Caused by Fear](#startled-thought-form-caused-by-fear)
 
-### AVANT-PROPOS
-
-En étudiant cet ouvrage, nous désirons partager avec vous quelques commentaires de son contenu, faits par des musiciens expérimentés, qui sont aussi des étudiants en occultisme.
-
-Il n'y a jamais eu de diapason standard internationalement reconnu, pour les instruments de musique (voir erratum page 10). C’est pourquoi nous ne pouvons parler d’une tonique particulière, jusqu’à ce que vous ayez d’abord résolu cette question. Dans le monde de la musique, trois diapasons sont encore utilisés: le Concert, le Continental et le Philharmonique. Le Concert est sommairement connu comme le diapason aigu. Le Continental, un demi-ton plus bas que le Concert, est le diapason plat. Le Philharmonique se situe au milieu des deux. Si l’on joue, par exemple, la note Si sur un piano accordé au diapason Concert, il faudra frapper le Do sur un piano de diapason plat pour produire un son-vibration identique, c’est-à-dire l’unisson. Si les toniques ont réellement l’énorme signification que ce livre entend démontrer, comment décider lequel de ces trois diapasons agréés sera la base divinement choisie pour une étude occultiste? Si, par exemple, on dit à quelqu’un que sa tonique est Mi majeur et que n’importe quelle musique jouée dans ce ton lui sera bénéfique, il se pourrait que les réels sons-vibrations soient accordés à une clé plus haute ou plus basse, selon le diapason du piano ou d’autres instruments à “diapason fixe”, et que l’auditeur n’ait pas conscience de la différence.
-
-Une note n’est pas un ton. Dans le langage musical anglais, une note est la vibration d’une onde sonore à une fréquence spécifique et on lui assigne une certaine place sur la portée. Le mot “ton” est utilisé en deux sens: a) le timbre et la qualité d’une note jouée, et b) la distance, ascendante ou descendante, entre deux notes, appelée intervalle. Dans la gamme de tonalité Fa majeur, l’intervalle entre Do et Ré est de un ton; entre Ré et Mi, un autre ton; entre Mi et Fa, un demi-ton. Ceci est valable quelle que soit la note qui se trouve être la tonique, ou le Do, de la gamme.
-
-Le cor, la trompette, le trombone et le saxophone ne sont pas nécessairement des instruments bruyants et assourdissants. Ils ont des qualités sonores qui sont utilisées pour les grands effets dans les symphonies et les orchestres de concert, même dans les passages pianissimo de tendresse et de profonde beauté.
-
-La gamme majeure diatonique actuelle a évolué à partir de formes anciennes aujourd’hui obsolètes. Deux des gammes mineures, la mélodique et l’harmonique, sont toujours largement utilisées, et certaines grandes oeuvres sont écrites en clés mineures.
-
-Tous les instruments à vent ne jouent pas que des mélodies. Le tuba, le trombone de basse, le basson et autres, fournissent souvent les harmonies et les rythmes de base. Pas plus que les instruments à cordes ne jouent que de l’harmonie. Les familles de violons et de mandolines sont primitivement des instruments de mélodie solo, bien que, dans les orchestres, ils jouent aussi des contre-mélodies et des rythmes syncopés.
-
-Dans la musique ancienne, on utilisait une portée de neuf lignes où étaient inscrites les parties vocales: soprano, alto, ténor et basse. On s’aperçut qu’elle était difficile à lire et fatigante pour la vue ; aussi, elle fut plus tard divisée en portées séparées pour voix distinctes. La note de base naturelle de Do fut attribuée à la ligne du milieu de la portée de neuf lignes (connue comme la Grande Portée), et ceci détermina la hauteur du son de toutes les voix. C’est là la véritable origine de ce Do en milieu de portée – et nons en raison de sa place sur le clavier. Dans une partition de piano d’aujourd’hui, on a deux portées de cinq lignes - la soprano et la basse, et la ligne supplémentaire entre ces deux portées est utilisée pour le Do médian. On voit de suite comment ceci dérive de la Grande Portée originelle.
-
-La clé dans laquelle doit être joué un morceau de musique est indiquée au début de chaque portée par un petit groupe de dièses ou de bémols qui appartiennent à cette clé. Voici le cycle de toute armature en mode majeur:
-
-Do naturel: pas de dièses ni de bémols, en conséquence pas d’armature.
-Sol majeur: un dièse seulement, la note Fa dièse.
-
-Ré majeur: deux dièses: Fa et Do
-
-La majeur: trois dièses: Fa, Do, Sol.
-
-Mi majeur: quatre dièses: Fa, Do, Sol, Ré.
-
-Si majeur: cinq dièses: Fa, Do, Sol, Ré, La.
-
-Fa dièse majeur: Six dièses: Fa, Do, Sol, Ré, La, Mi.
-
-Do dièse majeur: toutes les notes sont des dièses (Mi et Si seront des touches blanches).
-
-Fa majeur: un seul bémol, la note Si bémol.
-
-Si bémol majeur: deux bémols, Si et Mi.
-
-Mi bémol majeur: trois bémols: Si, Mi, La.
-
-La bémol majeur: quatre bémols: Si, Mi, La, Ré.
-
-Ré bémol majeur: cinq bémols: Si, Mi, La, Ré, Sol.
-
-Sol bémol majeur: six bémols: Si, Mi, La, Ré, Sol, Do.
-
-Do bémol majeur: toutes les notes sont bémolisées (Fa et Do seront des touches blanches).
-
-En ce qui concerne leur qualité sonore, les notes ne sont ni majeures ni mineures, sauf par rapport aux autres notes de la mélodie ou de l'harmonie. Soit dit en passant, la gamme majeure consiste en deux tons (intervalles) et un demi-ton dans sa partie inférieure (Do à Ré, Ré à Mi, Mi à Fa) et de trois tons pleins dans sa partie supérieure (Fa à Sol, Sol à La, La à Si). Les intervalles ont cependant cinq tons pleins et un demi-ton, faisant sept notes du Do au Si inclus. L'octave est complète en ajoutant un autre demi-ton à la partie supérieure et donnant le sommet Do, lequel a une fréquence vibratoire double de celle du Do du bas.
-
-THE ROSICRUCIAN FELLOWSHIP
-P.O Box 713
-Oceanside, California, 92049-0713, USA
-
-### NOTE
-
-L'exposé suivant, qui concerne un diapason de standard international, se propose de mettre à jour l'information sur le sujet traité dans cet ouvrage. Celui-ci fut écrit à l'origine avant qu'un diapason standard, internationalement reconnu, eû été agréé par tous.
-
-Le diapason standard actuel a 440 (doubles) vibrations (cycles) par seconde. Il fut universellement adopté en 1939 lors d'une conférence internationale tenue à Londres, sous les auspices de l'Association des Standards Internationaux. (Extrait du Harvard Dictionary of Music, seconde édition, Willi Apel, Editeur, the Belknap Press of Harvard University Press, Cambridge, MA 1970).
-
-### MAX HEINDEL,
-
-Initié et Messager de l'Ordre de la Rose-Croix naquit au Danemark, le 23 juillet 1865. Il fut ingénieur d’un des grands navires de la “Cunard Line”, et immigra finalement aux Etats-Unis.
-
-En 1905, il s’intéressa vivement à la métaphysique, et consacra quelques années à un travail sérieux de recherche des Vérités spirituelles.
-
-En 1907, lors d’une visite en Allemagne, un Frère de l'Ordre de la Rose-Croix —qui devint son Instructeur—prit contact avec lui dans les mondes spirituels. Il fut instruit dans le Temple éthérique de la Rose-Croix afin de recevoir les Enseignements Esotériques qui sont contenus dans la Cosmogonie des Rose-Croix, livre qu'il publia au mois de novembre 1909.
-
-Il fonda The Rosicrucian Fellowship en août 1909, et passa les années suivantes—jusqu’au 6 janvier 1919, date de son départ pour les mondes spirituels—à écrire, à faire des conférences et à organiser le siège international de The Rosicrucian Fellowship, à Oceanside, en Californie, aux U.S.A. Il diffusa les Enseignements du Christianisme Esotérique, qui prépareront l’humanité pour l’Ere du Verseau qui verra toutes les nations réunies en une Fraternité Universelles.
-
-### LE SYMBOLISME ROSICRUCIEN
-
-“Les symboles divins qui ont été donnés à l’humanité au fil du temps nous parlent en cet endroit de notre coeur qui “connaît” la vérité, et ils éveillent notre conscience aux idées divines qui sont entièrement au-delà des mots."— Max Heindel.
-
-L’emblème de l’école préparatoire de l’Ordre de la Rose-Croix est l’un de ces symboles; dans son intégralité, il représente Dieu en manifestation. Il donne la clé de l’évolution passée de l’homme, celle de son actuelle constitution et de son développement futur, de même que la méthode de réaliser ce dernier.
-
-Le fond bleu représente le Père; l’étoile dorée symbolise le Christ né en l’aspirant à la vie supérieure, et il irradie par les cinq pointes qui sont la tête et les quatre membres; les roses rouges indiquent la purification de la nature-désir humaine sur la croix de la matière—le sang de l’aspirant lavé de la passion. La rose blanche symbolise la pureté du coeur, et aussi le larynx avec lequel— lorsqu’il aura été purifié—l’humanité prononcera le Verbe Créateur. La croix blanche représente le corps dense. L’étoile dorée symbolise le Vêtement Nuptial d’Or (MATTHIEU 22:1-14)— le corps vital, ou corps de l’âme, que chaque Esprit construit au cours de vies de pureté et de service.
-
-Une autre lecture de ce symbolisme montre que la croix indique aussi les trois vagues de vie des plantes, des animaux et des humains. La partie inférieure de la croix représente le règne végétal nourri par les racines grâce aux courants spirituels de la Terre; l’homme, la partie supérieure, reçoit les courants spirituels du Soleil par la tête; les animaux sont nourris par les courants spirituels horizontaux qui entourent la Terre.
-
-La lampe de la sagesse et le coeur montrent les deux courants de l’humanité en évolution: ceux qui suivent le Sentier de l’intellect, ou corps mental (occultisme), et ceux qui suivent le Ssentier du coeur (mysticisme). Il n’y a pas de contradiction dans la Nature; c’est pourquoi l’intellect et le coeur devront s’unir. L’union finale du coeur et de l’intellect signifiera l’Homme Parfait.
-
-Au bas de la page, des deux côtés, se trouve la fleur-de-lis: l’emblème de la Trinité — Père, Fils et Saint-Esprit — mais comme seuls le Père et le Saint-Esprit étaient actifs à l’époque représentée ici, il n’y a que deux pétales colorés en rouge, couleur symbolisant l’énergie.
-
-Nous voyons les êtres créés sous forme de deux courants qui montent; ils disposent de deux véhicules: le corps dense et le corps vital; mais après un certain temps, le corps du désir est ajouté: il est indiqué par la couleur rouge qui apparaît dans le flux ascendant.
-
-Bien que chacun des deux courants semble être identique extérieurement, ils sont profondément différents. Le courant de gauche est connu dans notre littérature Rosicrucienne sous le nom de Fils de Caïn. Ils sont emplis d’énergie positive et sont les constructeurs du monde, les enfants de lumière — phree messen, — qui se taillent un chemin dans la vie, sont heureux de recontrer des obstacles car ils savent que ceux-ci renforcent leur caractère; ils travaillent avec l’intelligence ainsi que l’indique la lampe dont sortent neuf rayons, montrant ainsi le Sentier dynamique et positif choisi par l’étudiant en ésotérisme. Le courant de droite développe le côté coeur de la vie, et la flamme divine qui sort de celui-ci n’a que huit rayons montrant par là un Sentier passif ou négatif, car ceux qui le suivent désirent avoir un guide, quelqu’un qu’ils puissent suivre, qu’ils puissent adorer; ce sont les hommes d’église du monde qui suivent les enseignements de leurs chefs.
-
-Chacun des deux courants montent conjointement jusqu’au moment où les Etres sages et aimants qui guident l’évolution décident qu’en vue de hâter le progrès, il est nécessaire que les deux courants s’unissent; leur plan est que cette union s’accomplisse grâce à un Temple, édifié pour les adorateurs par les constructeurs, et que les deux courants s’unissent dans une Mer de Fonte Mystique (II CHRONIQUES 2:7; 4:2-6). Nous pouvons voir cette impulsion merveilleuse grâce au calice qui s’élève de chacun des courants et qui est empli du vin rouge de vie. Vous pouvez en lire l’histoire dans la construction du Temple de Salomom. Conformément à la légende maçonnique, ce plan fut déjoué par les activités des Fils de Seth — representés par le courant de droite. Après cela, chaque courant reprend son ascension, encore plus éloigné de l’autre que par le passé.
-
-Une situation sérieuse est maintenant montrée, dans laquelle il semble que certains se laissent complètement distancer par le fait du matérialisme. Cependant la compétition se poursuit entre l’homme d’église et le savant, entre le mystique et l’occultiste, chacun continuant à fouler son propre Chemin, tout à fait indépendamment de l’autre. Les guides spirituels voient un grand danger pour l’avenir, dans cette emprise du matérialisme. Afin d’éviter que le plan de l’évolution ne soit mis en échec, une grande destruction de corps humains est autorisée, comme si, pour un temps, l’humanité allait être supprimée de la surface de la Terre. Voyez l’interruption dans chacun des deux courants. Mais cette calamité a l’effet désiré. Car ensuite nous voyons à nouveau une grande force dans les deux courants qui se tournent effectivement l’un vers l’autre avant de s’unir en un seul courant. Au milieu du bas de page, nous trouvons un autre symbole, si petit, que vous n’y avez peut-être pas prêté attention. C’est une petite croix noire qui représente le corps dense. Le sommet de la Croix s’élargit et l’on peut voir le coeur. Le coeur et le tête se sont unis et un rayon en résulte de chaque côté: c’est le corps de l’âme ( I CORINTHIENS 15:40-49).
-
-Un autre emblème occupe le centre de la page — la Rose-Croix. La partie inférieure représente la vie de la plante qui tire sa substance par ses racines. A un moment de notre évolution, nous étions à ce stade végétal. La partie horizontale de la croix est l’emblème de notre passage par le stade animal, avec une épine dorsale horizontale; la partie supérieure est le symbole de l’intellect qui est l’attribut humain; et l’étoile rayonnante représente la Robe Nuptiale d’Or, ou corps de l’âme, qui fera de nous des être divins.
-
-### THE ROSICRUCIAN FELLOWSHIP
-
-La philosophie des Rose-Croix, connaissance destinée aux peuples de l’Occident, s’appuie sur la connaissance directe. Elle apporte la lumière mystique à ceux qui, ne pouvant se contenter de croire, ont besoin de comprendre. Elle apporte un message de Paix et ne connaît qu’un sentiment de fraternité à l’égard de tous ceux qui, par d’autre voies, cherchent sincèrement la Vérité.
-
-Un ordre parfait règne dans l’univers: tout a une cause et rien n’arrive au hasard. Ce que nous sommes dépend de ce que nous avons été, et ce que nous serons découlera de ce que nous sommes maintenant. La devise de la Philosophie des Rose-Croix est: un intellect équilibré, un coeur sensible, un corps sain. Son mot d’ordre est “SERVIR”.
-
-The Rosicrucian Fellowship, organe destiné à la diffusion de cette philosophie est une association ayant pour but de répandre des enseignements bien définis sur l’origine, l’évolution et le développement de l’Univers et de l’homme. Ces enseignements mettent en lumière le côté scientifique aussi bien que l’aspect spirituel de ces problèmes. Ils opèrent la synthèse harmonieuse de la Science et de la Foi.
-
-Les enseignements rosicruciens ne se présentent pas comme une révélation absolue; ils ne sont pas dogmatiques. Ils offrent une base solide de faits et de principes sur lesquels l’étudiant doit réfléchir et travailler pour arriver à se faire une conviction éclairée et acquérir une compréhension personnelle de ce qui lui a été enseigné.
-
-L’enseignement rosicrucien est indépendant de toute considération monétaire. La science spirituelle se corrompt si on la transmet moyennant rétribution. L’initiation est un processus spirituel, qui n’est lié à aucun rite, à aucune formule magique, et tout l’or du monde ne saurait l’acheter.
-
-Tout progrès, dans le domaine occulte et spirituel, repose sur l’effort personnel. Les enseignements rosicruciens visent à développer la précision et la concentration de la pensée, la purification des sentiments et la maîtrise de soi. The Rosicrucian Fellowship n’est ni une secte, ni une organisation religieuse; c’est une grande école de pensée.
-
 ### <h3 id="chapter-1">Chapitre 1 - Ce qu'il en était au commencement</h3>
 
+```
 “Le système solaire, dans son ensemble, est un vaste instrument de musique désigné, dans la mythologie grecque, sous le nom de “Lyre à sept cordes d’Apollon”. On peut dire des signes du zodiaque qu’ils sont la table d’harmonie de la harpe cosmique et que les sept planètes en sont les cordess; elles émettent des sons différents en traversant chaque signe et influencent l’humanité de diverses manières. Si l’harmonie faisait défaut un seul instant, s’il y avait la plus petite dissonance dans l’orchestre céleste, l’univers tout entier s’écroulerait”. — Max Heindel
+```
 
 Les méthodes utilisées par les Hiérarchies créatrices, qui aident l’homme à développer ses pouvoirs latents, ont été élaborées en fonction des véhicules dont il avait besoin pour être en contact avec les différentes régions où devait se faire le travail relatif à son développement. Les véhicules nécessaires étaient un corps physique, un corps vital, un corps du désir et un intellect ; et la méthode utilisée par ces Grands Esprits pour les construire était, et est, en corrélation avec les différentes Périodes d’évolution de la Terre, chacune étant imprégnée par une tonalité particulière.
 
@@ -212,7 +107,9 @@ Dans la Bible, on remarque que la harpe à sept cordes de David représente astr
 
 ### <h3 id="chapter-3">Le pouvoir de la musique</h3>
 
+```
 Ainsi, dans son expression normale, la musique enseigne l’ordre parfait; elle est la voix de l’obéissance aux Anges et le compagnon de route des sphères célestes. Mais, dans sa perversion, elle est l’instigatrice du parfait désordre et de la désobéissance. — Ruskin
+```
 
 En musique, entre la mélodie et le rythme se trouve l’harmonie qui peut, soit élever pour une fusion avec la vibration de la Pensée pure — c’est la mélodie — soit descendre et se mêler à un mouvement de pure activité — c’est l’impulsion. Si l’élément de mélodie pure, qui transporte la vibration de la Volonté de Dieu et de l’Esprit de la musique, est omis dans une composition, alors le pouvoir de guider n’est plus là pour contrôler les ativités des corps physique et du Désir. En conséquence, les désirs qui se complaisent dans l’excitation prédominent et, le contrôle de la raison faisant défaut, le résultat a de grandes chances d’être désastreux. C’est probablement le mélange d’harmonie et d’impulsion qui explique comment a pu arriver à l’existence la pseudo-musique moderne, qui tend à apporter la confusion au lieu d’unifier dans la cohérence.
 
@@ -220,19 +117,13 @@ Même avant la Première Guerre mondiale, les conditions psychiques étaient si 
 
 Devant des perspectives aussi épouvantables, est-il possible que, en recherchant soit dans le passé, soit dans l’avenir, quelqu’un ne puisse découvrir quelque chose pour sauver la situation?
 
-L’Histoire est un éternel recommencement. La Lémurie a été détruite par des cataclysme volcaniques quand l’ensemble de sa population a cessé de progresser. L’Atlantide le fut par les eaux quand ses populations étaient tellement enfoncées dans le mal qu’elles n’étaient plus réceptives aux instructions de leurs sages dirigeants. Aryana s’est élevée des grandes profondeurs et l’humanité a bénéficié d’une nouvelle occasion de poursuivre son évolution. Maintenant, de nouveau, l’homme est en train de glisser dangereusement vers la bas.
-
-Pythagore, un des plus grands visionnaires, disait à ses étudiants que la lyre était le symbole secret de la construction humaine: le cadre représentait le corps physique, les cordes, les nerfs, et le musicien qui en joue était l’esprit de l’homme. “En jouant sur ses nerfs, disait-il, l’Esprit a créé un fonctionnement normal et harmonieux qui, cependant, peut, à tout moment, être facilement changé en dissonance si la nature de l’homme se souille”. Remarquez l’avertissement implicite.
+L’Histoire est un éternel recommencement. La Lémurie a été détruite par des cataclysme volcaniques quand l’ensemble de sa population a cessé de progresser. L’Atlantide le fut par les eaux quand ses populations étaient tellement enfoncées dans le mal qu’elles n’étaient plus réceptives aux instructions de leurs sages dirigeants. Aryana s’est élevée des grandes profondeurs et l’humanité a bénéficié d’une nouvelle occasion de poursuivre son évolution. Maintenant, de nouveau, l’homme est en train de glisser dangereusement vers la bas. Pythagore, un des plus grands visionnaires, disait à ses étudiants que la lyre était le symbole secret de la construction humaine: le cadre représentait le corps physique, les cordes, les nerfs, et le musicien qui en joue était l’esprit de l’homme. “En jouant sur ses nerfs, disait-il, l’Esprit a créé un fonctionnement normal et harmonieux qui, cependant, peut, à tout moment, être facilement changé en dissonance si la nature de l’homme se souille”. Remarquez l’avertissement implicite.
 
 De même Platon, un grand philosophe grec et un étudiant des Mystères, réfute l’idée que l’objet de la musique est de créer des émotions gaies et agréables et soutient plutôt qu’elle devrait inculquer l’amour de tout ce qui est noble et l’aversion de tout ce qui est sordide, avilissant et bas ; rien ne peut plus puissamment influencer l’homme au plus profond de son être, si ce n’est la mélodie et le rythme. Il en était tellement convaicu qu’il affirmait que l’introduction d’une nouvelle gamme, supposée débilitante, mettrait en péril l’avenir d’une nation entière, et qu’il n’était pas possible d’altérer une tonique sans ébranler les fondations d’un Etat. Plus tard, Platon affirmera que la musique qui ennoblit l’esprit (la mélodie) est d’une qualité supérieure à celle qui séduit simplement les sens. Il insistera fortement sur le fait qu’il est du devoir suprême du législateur de supprimer toute musique à caractère lascif et d’encourager seulement celle qui est pure et anoblissante. Le plus grand soin devrait être apporté dans le choix des instruments car en l’absence de paroles, rendant la signification de la mélodie plus ou moins douteuse, il était difficile de prévoir si son influence sur le peuple serait salutaire ou funeste. Les goûts populaires étant portés vers le sensuel et le tapageur, devraient être traités avec le mépris mérité. Nous avons là la réponse à un judicieux changement de conditions indésirables: remplace de mauvaises pratiques qui amènent des résultats plus ou moins désastreux par des activités de vibrations élevées qui induisent le plus grand bien pour le plus grand nombre.
 
-En renonçant au ragtime, au jazz, au swing, au bebop et autres bruits, rien ne serait perdu de la véritable musique.
+En renonçant au ragtime, au jazz, au swing, au bebop et autres bruits, rien ne serait perdu de la véritable musique. Dans leur appel aux désirs sensuels et à la sentimentalité, à travers une profusion de combinaisons soi-disant harmoniques, de successions discordantes d’intervalles entre des notes issues de la complexité des relations modernes entre les tonalités, et les accords aberrants qui en résultent, aucun nouvel élément n’a vraiment été introduit, si ce n’est une confusion et une surélaboration des anciens. Dans la musique populaire de batterie, le vrai ressenti musical ne peut se traduire par l’harmonie en création artistique mais est, pour ainsi dire, ravalé en des girations purement physiques, inélégantes à l’extrême.
 
-Dans leur appel aux désirs sensuels et à la sentimentalité, à travers une profusion de combinaisons soi-disant harmoniques, de successions discordantes d’intervalles entre des notes issues de la complexité des relations modernes entre les tonalités, et les accords aberrants qui en résultent, aucun nouvel élément n’a vraiment été introduit, si ce n’est une confusion et une surélaboration des anciens. Dans la musique populaire de batterie, le vrai ressenti musical ne peut se traduire par l’harmonie en création artistique mais est, pour ainsi dire, ravalé en des girations purement physiques, inélégantes à l’extrême.
-
-Les trois divisions primaires de la musique — mélodie, harmonie et rythme — sont en corrélation avec les trois pouvoirs primaires de Dieu: volonté, amour-sagesse et activité. La volonté, qui comprend l’intellect et la raison, unie à l’amour-sagesse, donne un mode d’activité en relation avec le rythme céleste (activité) équilibré et mesuré de Dieu, qui ordonne les atomes de notre système solaire dans la matrice des diverses formes préparées pour eux par les pouvoirs de l’énergie-amour du Créateur.
-
-Séparer la volonté (mélodie) de l’amour (harmonie) et unir l’amour à l’activité (rythme), peut produire n’importe quelle monstruosité que les forces du mal pourraient vouloir amener à l’existence, si l’ensemble est dépossédé du pouvoir dirigeant de la volonté. Si leurs malveillantes activités ne sont pas tenues en échec, elles finiront par détruire une nation. Aucune tentative révolutionnaire dans l’art de la musique ne pourra amener le résultat désiré, à moins qu’elle ne commence dans l’application des principes artistiques de cohérence et de juste équilibre entre les trois éléments dont est faite la musique, à savoir la mélodie, l’harmonie et le rythme.
+Les trois divisions primaires de la musique — mélodie, harmonie et rythme — sont en corrélation avec les trois pouvoirs primaires de Dieu: volonté, amour-sagesse et activité. La volonté, qui comprend l’intellect et la raison, unie à l’amour-sagesse, donne un mode d’activité en relation avec le rythme céleste (activité) équilibré et mesuré de Dieu, qui ordonne les atomes de notre système solaire dans la matrice des diverses formes préparées pour eux par les pouvoirs de l’énergie-amour du Créateur. Séparer la volonté (mélodie) de l’amour (harmonie) et unir l’amour à l’activité (rythme), peut produire n’importe quelle monstruosité que les forces du mal pourraient vouloir amener à l’existence, si l’ensemble est dépossédé du pouvoir dirigeant de la volonté. Si leurs malveillantes activités ne sont pas tenues en échec, elles finiront par détruire une nation. Aucune tentative révolutionnaire dans l’art de la musique ne pourra amener le résultat désiré, à moins qu’elle ne commence dans l’application des principes artistiques de cohérence et de juste équilibre entre les trois éléments dont est faite la musique, à savoir la mélodie, l’harmonie et le rythme.
 
 ### <h3 id="chapter-4">Chapitre 4 - La corrélation de la musique avec le dieu solaire</h3>
 
@@ -241,7 +132,6 @@ Séparer la volonté (mélodie) de l’amour (harmonie) et unir l’amour à l�
 | 1. Mélodie  | 1. le Père   | 1. Volonté  | 1. Intelligence |
 | 2. Harmonie | 2. le Christ | 2. Amour    | 2. Sentiments   |
 | 3. Rythme   | 3. Jéhovah   | 3. Activité | 3. Mouvement    |
-
 
 La mélodie — le plus haut pouvoir de la musique - inclut la raison, l’intellect et le discernement. Quand l’harmonie et le rythme s’unissent sans la mélodie, il en résulte une succession de sons échappant au contrôle de l’intelligence, lesquels éveillent des sentiments (harmonie) qui s’exprimeront dans toute une série de mouvements sensuels effarants et de tourbillons (mouvement). Ceci peut conduire à la forme la plus basse d’excès émotionnels (activité). Certains d’entre eux ont été décrits par le chef d’orchestre de jazz, Benny Goodman, comme le coup de pied au lustre, le voyou casseur de bouteilles, la danse de St Guy, crier en tapant des pieds, taper des pieds à contre-temps avec les bras se détendant en cadence, tournoyer comme un moulin-à-vent dans la tempête et le cauchemar d’une hystérie collective — tout cela en réaction à une soi-disant musique jouée dans certaines de nos écoles, dans la plupart de nos lieux publics et partout dans les salles de danse. Ceci est exactement la forme dégénérée de la musique (amoindrissant le mental et la vigeur morale) dont parlait Platon comme d’un danger pour l’avenir de toute nation. M. Goodman raconte particulèrement comment, quand Ziggy Elman soufflait dans sa trompette, en direction de quelqu’un “une longue note violente à vous donner des picotements dans la colonne vertébrale”, les danseurs perdaient le contrôle d’eux-mêmes, et quand Gene Krupa martelait une série de notes-mitraillette à la batterie, ils se secouaient, les yeux exorbités, la tête donnant des coups de bec et les bras dans tous les sens.
 
@@ -263,9 +153,7 @@ Quand une vague de vie, une nation, une communauté ou même une personne, s’e
 
 Les conditions du monde d’aujourd’hui conduisent toutes à des changements si importants, que leur amplitude peut à peine être conçue par notre conscience actuelle limitée. Deux races de plus doivent évoluer et chacune devra, à court terme, parcourir son propre chemin. Les préparatifs ont déjà commencé pour la sixième race-mère que son expansion de conscience, son développement physique et mental, ainsi que ses réalisations spirituelles étonnantes placeront au premier rang des surhommes de la Terre. Puis, un grand continent va sûrement émerger de l’Océan Pacifique: son immensité, sa beauté tropicale et l’abondance matérielle qui y régnera ne peuvent être conçues, ni même faiblement imaginées par l’homme mortel, tel qu’il existe aujourd’hui.
 
-Comme un rapport approximativement déterminé doit être maintenu entre la terre et les étendues d’eau pour préserver l’équilibre gravitationnel de la Terre, il sera néssaire qu’une certaine partie de la Terre s’enfonce dans l’océan pour compenser celle qui en aura émergé. Cette portion de Terre entraînera avec elle tous ceux qui se seront trop enfoncés dans la matérialité — ceci étant une façon de briser leur cristallisation et de les rendre aptes à une croissance ultérieure.
-
-Mais rien n’est jamais perdu dans le royaume de Dieu. Les retardataires, et même les ratés, pourront arriver à ÊTRE. La solicitude du grand Créateur est telle que, quand les temps seront révolus, Il rassemblera ces infortunés et les fera repartir dans un environnement différent et sous la direction et les conseils de Grands Etres que leur infinie patience a rendu aptes à entreprendre la tâche herculéenne de racheter et de reconstruire ce qui, apparemment, était perdu.
+Comme un rapport approximativement déterminé doit être maintenu entre la terre et les étendues d’eau pour préserver l’équilibre gravitationnel de la Terre, il sera néssaire qu’une certaine partie de la Terre s’enfonce dans l’océan pour compenser celle qui en aura émergé. Cette portion de Terre entraînera avec elle tous ceux qui se seront trop enfoncés dans la matérialité — ceci étant une façon de briser leur cristallisation et de les rendre aptes à une croissance ultérieure. Mais rien n’est jamais perdu dans le royaume de Dieu. Les retardataires, et même les ratés, pourront arriver à ÊTRE. La solicitude du grand Créateur est telle que, quand les temps seront révolus, Il rassemblera ces infortunés et les fera repartir dans un environnement différent et sous la direction et les conseils de Grands Etres que leur infinie patience a rendu aptes à entreprendre la tâche herculéenne de racheter et de reconstruire ce qui, apparemment, était perdu.
 
 Avant d’aller plus loin, il serait bon d’expliquer un peu le processus de création en relation avec notre système solaire, tel qu’il est révélé par l’Ordre de la Rose-Croix et qui est le suivant: le Dieu de notre système solaire a créé sept régions différentes dans lesquelles Il poursuit l’évolution de toutes les choses qu’Il a créées. Les noms de ces régions, par ordre de développement, sont : le Monde de Dieu, le Monde des Esprits-Vierges, le Monde de l’Esprit Divin, le Monde de l’Esprit de Vie, le Monde de la Pensée, le Monde du Désir et le Monde Physique. Le Monde de la Pensée est divisé en deux régions: celle de la Pensée Abstraite et celle de la Pensée Concrète. Le Monde Physique a aussi deux divisions: la Région Ethérique et la région Chimique.
 
@@ -285,9 +173,7 @@ Tout acte de l’être humain a un effet direct sur l’archétype de son corps.
 
 D’après ce qui précède, ceux qui agissent contrairement à la Loi abrègent leur vie et doivent chercher de nouvelles incarnations un plus grand nombre de fois que ceux qui vivent en harmonie avec la Loi. Ceci s’applique à tous sans exception, mais a une plus grande signification dans la vie de ceux qui travaillent consciemment avec les lois de l’évolution que dans celle des autres. Cette connaissance devrait centupler notre ardeur et notre entrain à bien agir. Même si nous avons commencé, comme on dit, sur le tard, nous pouvons facilement amasser plus de “trésors” dans nos quelques dernières années que nous ne l’avons fait au cours de plusieurs vies précédentes. Par-dessus tout, nous nous mettons en ligne pour un procain départ dans les vies à venir.
 
-Douze vagues de vie distrinctes ont, plus ou moins, travaillé avec l’humanité depuis le début de la Période de Saturne. Ce sont: le Bélier (les Xéophins), le Taureau (les Téraphins), les Gémeaux (les Séraphins), le Cancer (les Chérubins), le Lion (les Seigneurs de la Flamme), la Vierge (les Seigneurs de la Sagesse), la Balance (les Seigneurs de l’Individualité), le Scorpion (les Seigneurs de la Forme), le Sagittaire (les Seigneurs de l’Intellect), le Capricorne (les Archanges), le Verseau (les Anges), les Poissons (les Esprits Vierges ou notre humanité).
-
-Chacune de ces vagues de vie a une tonique: le Bélier Ré bémol majeur, le Taureau Mi bémol majeur, les Gémeaux Fa dièse majeur, le Cancer La bémol majeur, le Lion Si bémol majeur, la Vierge Do naturel majeur, la Balance Ré majeur, le Scorpion Mi majeur, le Sagittaire Fa majeur, le Capricorne Sol majeur, le Verseau La majeur, les Poissons Si majeur. La tonalité d’un morceau de musique est la note tonique, ou fondamentale, sur laquelle la composition est construite.
+Douze vagues de vie distrinctes ont, plus ou moins, travaillé avec l’humanité depuis le début de la Période de Saturne. Ce sont: le Bélier (les Xéophins), le Taureau (les Téraphins), les Gémeaux (les Séraphins), le Cancer (les Chérubins), le Lion (les Seigneurs de la Flamme), la Vierge (les Seigneurs de la Sagesse), la Balance (les Seigneurs de l’Individualité), le Scorpion (les Seigneurs de la Forme), le Sagittaire (les Seigneurs de l’Intellect), le Capricorne (les Archanges), le Verseau (les Anges), les Poissons (les Esprits Vierges ou notre humanité). Chacune de ces vagues de vie a une tonique: le Bélier Ré bémol majeur, le Taureau Mi bémol majeur, les Gémeaux Fa dièse majeur, le Cancer La bémol majeur, le Lion Si bémol majeur, la Vierge Do naturel majeur, la Balance Ré majeur, le Scorpion Mi majeur, le Sagittaire Fa majeur, le Capricorne Sol majeur, le Verseau La majeur, les Poissons Si majeur. La tonalité d’un morceau de musique est la note tonique, ou fondamentale, sur laquelle la composition est construite.
 
 Les périodes entières d’évolution et d’involution humaines sont fondées sur la gamme musicale qui est d’origine céleste. Max Heindel nous dit que l’humanité est passée par trois stades élémentaires avant la Période de Saturne; ces stades sont représentés par La, La dièse et Si, à l’octave le plus grave du clavier. La Période de Saturne commence par le Do le plus grave du clavier et va jusqu’au Si inclus, ce qui fait 12 notes dont 5 sont des touches noires et 7 des touches blanches. Sept des Frères Aînés de la Rose-Croix vont dans le monde travailler avec l’humanité. On n’y voit jamais les cinq autres.
 
@@ -309,6 +195,8 @@ Ce sont les sens intérieurs de l’homme, considérés dans leur ensemble qui, 
 
 Le premier sens intérieur ou spirituel de l’homme qui sera atteint par sa conscience objective de veille sera l’ouïe, le deuxième le toucher, puis le goût, l’odorat et finalement la vue. La méthode utilisée pour appréhender les sens spirituels ou intérieurs est la concentration. La concentration est un processus unidirectionnel par lequel l’Esprit, par le pouvoir de sa volonté, est capable de s’abstraire complètement de tout ce qui entoure et envahit sa conscience objective de veille et révèle à cette conscience ses pouvoirs spirituels, tandis qu’il est toujours à l’intérieur de ses quatre véhicules qui s’interpénètrent — les corps mental, du désir, vital et dense (physique).
 
+DIAGRAM!!!!!!!!!!!!!!!!!!!!!
+
 ### <h3 id="chapter-6">Chapitre 6 - Les octaves musicales et le plan cosmique</h3>
 
 Le piano n’est pas le résultat des efforts de l’homme pour reproduire les notes de son Soi intérieur dont il se souvenait obscurément, mais c’est le produit de la perception matérialisée de la musique et, en conséquence, c’est un instrument purement terrestre. C’est pourquoi ce n’est pas seulement un instrument pratique, mais aussi un instrument très précieux pour les vrais grands musiciens capables d’accéder au véritable monde céleste de la musique, pour faire descendre sur la terre, et fabriquer de main d’homme un instrument matériel propre à la reproduire.
@@ -316,8 +204,6 @@ Le piano n’est pas le résultat des efforts de l’homme pour reproduire les n
 Bien que les instruments mécaniques et la radio soient de grande valeur, ils ne pourront jamais remplacer le piano pour ceux qui ont appris un jour la valeur des accords, comme étant en corrélation avec le développement de l’Esprit et de ses véhicules. Le clavier présente 88 touches (52 blanches et 36 noires) qui produisent 124 tons, à la disposition de l’artiste; les touches blanches produisent 52 des 124 tons, et les touches noires 72. Neuf est le nombre de l’humanité et sept celui de l’homme, avec ses trois pouvoirs spirituels et ses quatre véhicules — intellect, corps du désir, corps vital et corps dense.
 
 Il y a cinq (5) lignes sur la portée et quatre (4) intervalles — cinq et quatre font neuf, le nombre de l’humanité. Il y a sept notes dans la gamme: Do, Ré, Mi, Fa, Sol, La, Si, et elles occupent toujours la même place sur la portée. Il y a huit degrés dans la gamme: tonique, sus-tonique, médiante, sous-dominante, dominante, sus-dominante, note sensible (7e), octave (ou tonique) qui changent de position sur la portée. Par exemple, dans le ton de Do Majeur, on trouve le premier degré Do sur une ligne additionnelle au-dessous de la portée. S’il y a un dièse, le premier degré se trouve sur la deuxième ligne de la portée (sol). S’il y a un bémol, alors le premier degré se trouve dans le premier intervalle (fa) de la portée, etc...
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Chacune des vagues de vie de notre système solaire: Bélier, Taureau, Gémeaux, Cancer, Lion, Vierge, Balance, Scorpion, Sagittaire, Capricorne, Verseau, Poissons, a sa tonique propre.
 
@@ -373,33 +259,11 @@ A l’aube de la Période de Saturne, les Seigneurs de l’Intellect (vague de v
 
 Les vagues de vie du Bélier et du Taureau ont été les premières à apparaître pour préparer des conditions propres au développement ultérieur des quatre vagues de vie qui allaient évoluer au cours de la Période de Saturne. Alors, durant la première révolution de notre vague de vie (Poissons), quand elle eut atteint son point le plus bas (Région de la Pensée Concrète), par le pouvoir de leur tonique Si b, la vague de vie du Lion, les Seigneurs de la Flamme, ont émané de leur propre corps le germe de notre véhicule dense actuel. Plus tard, au cours de notre septième révolution, dans la région de la Pensée Concrète, cette même vague de vie du Lion, par le pouvoir de leur tonique Si b, a éveillé la force latente de notre Esprit Divin. Ainsi, à la fin de la Période de Saturne, l’humanité possédait le germe d’un corps dense fait de substance de Pensée Concrète et un Esprit Divin éveillé qui, plus tard, devra se développer en pouvoir de volonté.
 
-Au cours de la Période de Saturne, les différentes vagues de vie en évolution commencèrent à travailler dans le Monde de l’Esprit Divin, puis sont entrées dans le Monde de l’Esprit de Vie, puis dans la région de la Pensée Abstraite et enfin, dans la région de la Pensée Concrète (4).
-
-Après chaque révolution dans la matière, soit sept sur chacun des sept globes, elles se sont reposées dans le Monde des Esprit-Vierges (1) pour assimiler tout ce qu’elles avaient rencontré et se préparer pour un autre jour de manifestation. Quatre mondes plus un font cinq, le nombre du Christ, indiquant l’immense pouvoir que ce Grand Etre allait devenir dans le plan de l’évolution.
+Au cours de la Période de Saturne, les différentes vagues de vie en évolution commencèrent à travailler dans le Monde de l’Esprit Divin, puis sont entrées dans le Monde de l’Esprit de Vie, puis dans la région de la Pensée Abstraite et enfin, dans la région de la Pensée Concrète (4). Après chaque révolution dans la matière, soit sept sur chacun des sept globes, elles se sont reposées dans le Monde des Esprit-Vierges (1) pour assimiler tout ce qu’elles avaient rencontré et se préparer pour un autre jour de manifestation. Quatre mondes plus un font cinq, le nombre du Christ, indiquant l’immense pouvoir que ce Grand Etre allait devenir dans le plan de l’évolution.
 
 Après que ces sept révolutions ont été effectuées, une longue période d’assimilation et de repos a suivi, au cours de laquelle toute vie en évolution s’est mêlée, de la plus primitive à la plus évoluée — les vibrations hautes élevant, par induction, les plus basses à un degré considérable. Cela se produit entre chacune des sept Périodes, celle de Saturne, du Soleil, de la Lune, de la Terre, de Jupiter, de Vénus et de Vulcain.
 
-La deuxième octave de la gamme chromatique a fourni les sons musicaux utilisés au cours de la Période du Soleil et les premières vagues de vie à apparaître furent:
-
-    la vague de vie du Lion (les Seigneurs de la Flamme) - tonique: Si b;
-
-    la vague de vie de la Vierge les (Seigneurs de la Sagesse) - tonique: le Do de la seconde octave;
-
-    la vague de vie de la Balance (les Seigneurs de l’Individualité) - tonique Ré;
-
-    la vague de vie du Scorpion (les Seigneurs de la Forme) - tonique Mi.
-
-Plus tard, ont suivi:
-
-    la vague de vie du Sagittaire (les Seigneurs de L’Intellect) - tonique Fa;
-
-    la vague de vie du Capricorne (les Archanges) - tonique Sol;
-
-    la vague de vie du Verseau (les Anges) - tonique La;
-
-    et enfin la vague de vie des Poissons (notre humanité) - tonique Si.
-
-    Les Archanges étaient l'humanité de la Période du Soleil.
+La deuxième octave de la gamme chromatique a fourni les sons musicaux utilisés au cours de la Période du Soleil et les premières vagues de vie à apparaître furent: la vague de vie du Lion (les Seigneurs de la Flamme) - tonique: Si b; la vague de vie de la Vierge les (Seigneurs de la Sagesse) - tonique: le Do de la seconde octave; la vague de vie de la Balance (les Seigneurs de l’Individualité) - tonique Ré; la vague de vie du Scorpion (les Seigneurs de la Forme) - tonique Mi. Plus tard, ont suivi: la vague de vie du Sagittaire (les Seigneurs de L’Intellect) - tonique Fa; la vague de vie du Capricorne (les Archanges) - tonique Sol; la vague de vie du Verseau (les Anges) - tonique La; et enfin la vague de vie des Poissons (notre humanité) - tonique Si. Les Archanges étaient l'humanité de la Période du Soleil.
 
 Au cours de la sixième révolution, pendant laquelle notre présente humanité s’est incarnée dans la matière, la vague de vie du Cancer, les Chérubins, dont la tonique est La b, ont réapparu et, par le pouvoir incorporé à leur tonalité, ils ont éveillé la force jusque-là passive de notre Esprit de Vie. Vers la fin de la Période du Soleil, notre vague de vie possédait le germe amélioré de ce qui allait devenir un corps dense, le germe d’un corps vital, un Esprit Divin éveillé et un Esprit de Vie stimulé qui, plus tard, aura à se manifester en force amour-sagesse.
 
@@ -409,45 +273,71 @@ La troisième octave de la gamme chromatique a fourni les sons musicaux utilisé
 
 A l’aube de la Période de la Lune, les différentes vagues de vie en évolution commencèrent à apparaître : les Seigneurs de la Sagesse (la vague de vie de la Vierge) vinrent d’abord, apportant avec eux les germes des véhicules de l’homme en évolution; les Seigneur de l’Individualité, la vague de vie de la Balance, suivirent immédiatement et reçurent la tâche spéciale de s’occuper de l’évolution matérielle de cette Période. Le corps dense de l’homme, en germe au cours de la Période de Saturne, commença à élaborer des organes des sens. La musique fut Si b, tonique du Lion (ou La #). Pour diéser une note, on frappe la touche noire qui est au-dessus. Pour bémoliser une note, on frappe la touche noire au-dessous. Si la tonique La #, ou Si b, était utilisée pour développer les organes des sens dans le corps dense, alors les notes de la gamme de La # ou Si b pourraient l’être pour continuer favorablement ce développement. La gamme de La # contient quatre dièses : Ré, La, Mi, Si, et 3 doubles dièses: Fa, Do, Sol. Les accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |         |         |         |         |         | 
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | 
+|         |         |         |         |         | Si#     |         | 
+| La#     | Si#     | La#     | La#     | La#     | Sol##   | La#     | 
+| Mi#     | Sol##   | Mi#     | Fa##    | Mi#     | Mi#     | Mi#     | 
+| Do##    | Mi#     | Do##    | Ré#     | Do##    | Ré#     | Do##    | 
+| La#oct. | Mi#oct. | La#oct. | Ré#oct. | Mi#oct. | Mi#oct. | La#oct. |
 
 La gamme de Si b contient 2 bémols, mais remarquez que les notes, à l’exception des dièses et des bémols, sont exactement les mêmes. En effet, Si b est la tonalité relative de La #. Les bémols sont Si et Mi.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |         |         |         |            |         | 
+| ------- | ------- | ------- | ------- | ------- | ---------- | ------- | 
+|         |         |         |         |         | La#        |         | 
+| Sib     | La      | Sib     | Sib     | Sib     | Fa         | Sib     | 
+| Fa      | Fa      | Fa      | Sol     | Fa      | Mib        | Fa      | 
+| Ré      | Do      | Ré      | Mib     | Ré      | Do         | Ré      | 
+| Sib ac. | Fa ac.  | Sib ac. | Mib ac. | Sib ac. | Fa 7e ac.  | Sib ac. |
 
 La vague de vie du Lion, les Seigneurs de la Flamme, ont exercé leur pouvoir au cours de la Période de Saturne et, comme leur gamme Si b (ou La #) contenait des sons utilisés pour éveiller le pouvoir de l’Esprit Divin qui est la Volonté, de même ces notes auront une immense valeur pour le développement ultérieur du pouvoir suprême de l’esprit: la volonté.
 
 Lors de la deuxième révolution de la Période du Soleil, les Seigneurs de la Sagesse, constituant la vague de vie de la Vierge, ont émané de leur propre corps, le germe du corps vital de l’homme, avec toutes les possibilités qu’il possède, et ils l’ont implanté dans le corps humain. La tonique de la vague de vie de la Vierge est Do naturel. En conséquence, les accords de sa gamme aideront au développement ultérieur des potentialités du corps vital quand ils seront frappés. Ces accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|        |         |        |        |        |         |        | 
+| ------ | ------- | ------ | ------ | ------ | ------- | ------ | 
+|        |         |        |        |        | Si      |        | 
+| Sol    | Si      | Sol    | La     | Sol    | Sol     | Sol    | 
+| Mi     | Sol     | Mi     | Fa     | Mi     | Fa      | Mi     | 
+| Do     | Ré      | Do     | Do     | Do     | Ré      | Do     | 
+| Do ac. | Sol ac. | Do ac. | Fa ac. | Do ac. | Sol 7e  | Do ac. |
 
 Certaines potentialités du corps vital sont la croissance, le développement des facultés de perception des sens, la reproduction, le développement et l’action des glandes et de tous les organes de substance éthérique possédés par le corps dense.
 
 Au cours de la sixième révolution de la Période du Soleil, la vague de vie du Cancer a éveillé le germe de l’Esprit de Vie. La tonique du Cancer est La b majeur dont la relation est Sol #, et ce sont les accords produits par cette vague de vie qui ont servi à obtenir des résultats. Les accords de La b majeur sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|          |         |          |         |         |          |          | 
+| -------- | ------- | -------- | ------- | ------- | -------- | -------- | 
+|          |         |          |         |         | La#      |          | 
+| Si#      | La#     | Si#      | Sol#    | Si#     | Fa##     | Si#      | 
+| Sol#     | Fa##    | Sol#     | Mi#     | Sol#    | Ré#      | Sol#     | 
+| Ré#      | Ré#     | Ré#      | Do#     | Ré#     | Do#      | Ré#      | 
+| Sol#oct. | Ré#oct. | Sol#oct. | Do#oct. | Ré#oct. | Ré#oct.  | Sol#oct. |
 
 Si les accords de la tonalité La b (Sol #) majeur ont éveillé le germe de l’Esprit de Vie, alors ces mêmes notes pourront, à leur tour, aider à la stimulation et au développement des pouvoirs potentiels de ce même Esprit de Vie.
 
 La troisième octave de la gamme chromatique a fourni les sons utilisés au cours de la Période de la Lune. Durant la troisième Révolution de cette Période dans la substance la plus dense, la vague de vie de la Balance, les Seigneurs de l’Individualité, ont émané de leur propre corps le germe qui allait, plus tard, se développer en corps du désir chez l’homme. La tonique de la Balance est Ré majeur et ce sont les notes de sa gamme qui furent utilisées pour accomplir ce travail. On trouve ces accords de Ré majeur dans la gamme qui contient deux dièses.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |         |         |         |            |        | 
+| ------- | ------- | ------- | ------- | ------- | ---------- | ------ | 
+|         |         |         |         |         | La         |        | 
+| La      | La      | La      | Si      | La      | Sol        | La     | 
+| Fa#     | Mi      | Fa#     | Sol     | Fa#     | Mi         | Fa#    | 
+| Ré      | Do#     | Ré      | Ré      | Ré      | Do#        | Ré     | 
+| Ré ac.  | Mi ac.  | Ré ac.  | Sol ac. | La ac.  | La 7th ac. | Ré ac. |
 
 Les notes trouvées dans les accords de Ré majeur aideront à développer le corps du désir en parfaite harmonie avec le modèle cosmique.
 
 Au cours de la cinquième révolution dans la substance la plus dense de la Période de la Lune, la vague de vie des Gémeaux, les Séraphins, ont réapparu et ont éveillé l’Esprit humain passif jusque là. La tonique de la vague de vie des Gémeaux est Fa # majeur. Les notes Fa, Do, Sol, Ré, La, Mi sont toutes dièsées, sauf Si. Les accords de Fa # Majeur sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |         |         |         |         |         | 
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | 
+|         |         |         |         |         | Si      |         | 
+| La#     | Sol#    | La#     | Si      | La#     | Sol#    | La#     | 
+| Fa#     | Mi#     | Fa#     | Fa#     | Fa#     | Mi#     | Fa#     | 
+| Do#     | Do#     | Do#     | Ré#     | Do#     | Do#     | Do#     | 
+| Fa#oct. | Do#oct. | Fa#oct. | Si oct. | Do#oct. | Do#oct. | Fa#oct. |
 
 Les notes utilisées pour stimuler et aider au développement de l’esprit humain se trouvent dans les accords de la tonalité de Fa # majeur.
 
@@ -465,25 +355,33 @@ En relation avec cette époque, Max Heindel dit en substance: à présent, un im
 
 De cet immense firmament nuageux dépendaient des millions de cordes, chacune avec son propre sac foetal, planant près de la partie centrale dense du nuage. Et, de même que le liquide nourricier de la mère humaine circule à travers le cordon ombilical pour apporter sa nourriture à l’embryon pendant la vie prénatale, afin que se construise un véhicule indépendant où l’esprit pourra demeurer quand la période de gestation sera terminée, ainsi la vie divine de Jéhovah nous a couvés à l’intérieur du nuage et s’est répandue dans toute la famille humaine durant ce stade embryonnaire de notre évolution. Nous étions alors aussi incapables d’initiative que l’est le foetus aujourd’hui.
 
+At the end of the Moon Period the divided parts of the original globe were dissolved and merged into the general Chaos which preceded the reorganization of the globe for the Earth Period.
+
 La Période de la Terre a trouvé la vague de vie de la Vierge, les Seigneurs de la Sagesse dont la tonique est le Do naturel (le Do du milieu du clavier), en charge de l’Esprit divin, le pouvoir de volonté de l’homme. On trouvera les accords de Do naturel dans le chapitre 6.
 
 La vague de vie de la Balance, les Seigneurs de l’Individualité, étaient alors suffisamment avancés pour que leur soit confié le deuxième pouvoir de l’homme, le pouvoir d’amour de l’Esprit de Vie, d’attraction et de cohésion. Leur tonique est Ré majeur et les accords de cette tonalité se trouvent également au chapitre 6.
 
-La vague de vie du Scorpion, les Seigneurs de la Forme, furent chargés de la responsabilité du troisième pouvoir de l'homme, l'Esprit humain, qui est un povoir d’activité et se manifeste par la fécondation — le pouvoir de produire et de faire croître. La tonique du Scorpion est Mi majeur, avec 4 dièses: Fa #, Do #, Sol #, Ré #.
+La vague de vie du Scorpion, les Seigneurs de la Forme, furent chargés de la responsabilité du troisième pouvoir de l'homme, l'Esprit humain, qui est un povoir d’activité et se manifeste par la fécondation — le pouvoir de produire et de faire croître. La tonique du Scorpion est Mi majeur, avec 4 dièses: Fa #, Do #, Sol #, Ré #. Les accords sont:
 
-Les accords sont:
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|        |        |        |        |        |        |        | 
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | 
+|        |        |        |        |        | Ré#    |        | 
+| Mi     | Ré#    | Mi     | La     | Mi     | Si     | Mi     | 
+| Si     | Si     | Si     | Do#    | Si     | La     | Si     | 
+| Sol#   | Fa#    | Sol#   | Mi     | Sol#   | Fa#    | Sol#   | 
+| Mi ac. | Si ac. | Mi ac. | La ac. | Si ac. | Si ac. | Mi ac. |
 
 Au cours de la quatrième révolution de la Période de la Terre, pendant l’Epoque Atlantéenne, la vague de vie du Sagittaire, les Seigneurs de l’Intellect, ont émané d’eux-mêmes et implanté en nous le noyau de substance avec laquelle nous tentons à présent de construire un intellect organisé. L’intellect est formé de la substance des quatre divisions de la région de la Pensée Concrète. La deuxième région contient les archétypes de la vitalité universelle, la troisième région, les archétypes des désirs et des émotions, la quatrième, les forces archétypales de l’intellect humain; la première, la plus basse, contient les archétypes de la forme. La région des idées-germes du Monde de la Pensée Abstraite se reflète dans la première région du Monde de la Pensée Concrète; les idées-germes du Monde de la Pensée Abstraite, en rapport avec la vie, se reflètent dans la deuxième région de la Pensée Concrète et la région des idées-germes des désirs et des émotions se reflète dans la troisième région de la Pensée Concrète. Dans la dernière partie de l’Epoque Lémurienne, une petite partie de notre humanité était suffisamment avancée pour recevoir le germe de l’intellect.
 
 La tonique de la vague de vie du Sagittaire est Fa dont la tonalité est Fa majeur avec un bémol qui est le Si b. Les accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|        |        |        |         |         |            |         | 
+| ------ | ------ | ------ | ------- | ------- | ---------- | ------- | 
+|        |        |        |         |         | Mi         |         | 
+| Fa     | Mi     | Fa     | Fa      | Fa      | Do         | Fa      | 
+| Do     | Do     | Do     | Ré      | Do      | Sib        | Do      | 
+| La     | Sol    | La     | Sib     | La      | Sol        | La      | 
+| Fa ac. | Do ac. | Fa ac. | Sib ac. | Fa ac.  | Do 7th ac. | Fa ac.  |
 
 Remarquez que cet accord est en corrélation avec l’Intellect, le dernier véhicule acquis par l’homme et aussi le moins développé des quatre: dense, vital, du désir et intellect. Nous avons là la clé d’un développement mental rapide: les accords en Fa majeur.
 
@@ -495,33 +393,53 @@ Les Seigneurs de l’Intellect, la vague de vie du Sagittaire, ne travaillent av
 
 Les Archanges sont experts dans la construction d’un corps à partir de la substance désir, et donc capables d’enseigner aux hommes et aux animaux à façonner et à utiliser leurs cops du désir. La tonique des Archanges, la vague de vie du Capricorne, est Sol majeur. Sa gamme a un dièse, Fa #, et ses accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |         |         |         |           |         | 
+| ------- | ------- | ------- | ------- | ------- | --------- | ------- | 
+|         |         |         |         |         | Fa#       |         | 
+| Sol     | Fa#     | Sol     | Sol     | Sol     | Ré        | Sol     | 
+| Ré      | Ré      | Ré      | Mi      | Ré      | Do        | Ré      | 
+| Si      | La      | Si      | Do      | Si      | La        | Si      | 
+| Sol ac. | Ré ac.  | Sol ac. | Do ac.  | Sol ac. | Ré 7e ac. | Sol ac. |
 
 Les Anges sont experts dans la construction du corps vital car, au cours de la Période de la Lune, quand ils étaient humains, l’éther était l'état le plus dense de la matière. Etant donné leur adresse à le construire et le façonner, ils sont les meilleurs instructeurs de l'homme, de l'animal et des plantes en ce qui concerne les fonctions vitals, y compris la reproduction et la nourriture. La tonique des Anges, la vague de vie du Verseau, est La majeur. Sa gamme contient 3 dièse : Fa #, Do #, et Sol #. Ses accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |         |         |         |         |         | 
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | 
+|         |         |         |         |         | Sol#    |         | 
+| La      | Sol#    | La      | La      | La      | Mi      | La      | 
+| Mi      | Mi      | Mi      | Fa#     | Mi      | Ré      | Mi      | 
+| Do#     | Si      | Do#     | Ré      | Do#     | Si      | Do#     | 
+| La oct. | Mi oct. | La oct. | Ré oct. | Mi oct. | Mi oct. | La oct. |
 
 Notre vague de vie humaine apprend à devenir experte dans la construction de corps à partir de la substance physique et, par là, elle se qualifie pour enseigner au règne mineral, quand ses éléments seront suffisamment individualisés pour utiliser des formes distinctes. Déjà nous commençons à façonner différents minéraux en formes individuelles. La tonique de notre humanité, la vague de vie des Poissons, est Si majeur. Sa gamme contient cinq dièses: Fa #, Do #, Sol #, Ré #, La #. Ses accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |          |         |         |         |          |         | 
+| ------- | -------- | ------- | ------- | ------- | -------- | ------- | 
+|         |          |         |         |         | La#      |         | 
+| Si      | La#      | Si      | Si      | Si      | Fa#      | Si      | 
+| Fa#     | Fa#      | Fa#     | Sol#    | Fa#     | Mi       | Fa#     | 
+| Ré#     | Do#      | Ré#     | Mi      | Ré#     | Do#      | Ré#     | 
+| Si oct. | Fa# oct. | Si oct. | Mi oct. | Si oct. | Fa# oct. | Si oct. |
 
 La tonique de la vague de vie du Bélier est Ré b majeur. Sa gamme contient 5 bémols: Si b, Mi b, La b, Ré b, Sol b. Ses accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|          |          |          |           |          |          |          | 
+| -------- | -------- | -------- | --------- | -------- | -------- | -------- | 
+|          |          |          |           |          | Do       |          | 
+| Réb      | Do       | Réb      | Réb       | Réb      | Lab      | Réb      | 
+| Lab      | Lab      | Lab      | Sib       | Lab      | Solb     | Lab      | 
+| Fa       | Mib      | Fa       | Solb      | Fa       | Mib      | Fa       | 
+| Réb oct. | Lab oct. | Réb oct. | Solb oct. | Lab oct. | Lab oct. | Réb oct. |
 
 La tonique de la vague de vie du Taureau est Mi b majeur. Sa gamme contient trois bémols: Si b, Mi b, La b. Ses accords sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |         |         |         |            |        | 
+| ------- | ------- | ------- | ------- | ------- | ---------- | ------ | 
+|         |         |         |         |         | Ré         |        | 
+| Mib     | Ré      | Mib     | Mib     | Mib     | Sib        | Eb     | 
+| Sib     | Sib     | Sib     | Do      | Sib     | Lab        | Bb     | 
+| Sol     | Fa      | Sol     | Lab     | Sol     | Fa         | G      | 
+| Mib ac. | Sib ac. | Mib ac. | Lab ac. | Sib ac. | Sib 7e ac. | Eb ac. |
 
 Chaque partie du corps humain a été construite par les toniques vibratoires des douze grandes vagues de vie, avec l'assistance des sept grands Esprits devant le Trône, c'est-à-dire Uranus, Saturne, Jupiter, Mars, la Terre, Vénus, Mercure, avec, en plus, le travail de Neptune et celui de la Lune terrestre. Les douze pouvoirs spirituels de l'homme ont été éveillés par certaines des grandes vagues de vie mentionnées dans les chapitres précédents. Ce travail a été et est toujours poursuivi sur l'humanité dans sa totalité, indépendamment du signe zodiacal des individus. Tous ces grands Aides ont déployé, et déploient actuellement, leurs activités sous la direction du Dieu de notre système solaire et sont, pour ainsi dire, Ses ambassadeurs terrestres.
 
@@ -533,11 +451,7 @@ Plus nous approcherons de la compréhension de la création, mieux nous comprend
 
 L’humanité de la Période du Soleil était la vague de vie du Capricornes, les Archanges. En remontant en arrière de cinq vague de vie, on trouve la vague de vie de la Vierge, ou Seigneurs de la Sagesse, chargée des impulsions spirituelles données à l’humanité de la Période du Soleil. La tonique de la Vierge est Do naturel. Le travail particulier accompli était la croissance du corps vital et l’éveil de l’Esprit de Vie. En conséquence, toute musique écrite en Do naturel poursuivra le travail commencé dans la Période du Soleil.
 
-L’humanité de la Période de la Lune était la vague de vie du Verseau, les Anges. En partant de là et en remontant en arrière de cinq vague de vie, on arrive à la vague de vie de la Balance, ou Seigneurs de l’Individualité, chargée des impulsions spirituelles dirigées sur l’humanité de la Pérode de la Lune. La tonique de la Balance est Ré majeur. Le travail particulier effectué était la croissance du corps du désir et l’éveil de l’Esprit humain.
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-En conséquence, toute musique écrite en Ré majeur poursuivra le travail commencé au cours de la Période de la Lune.
+L’humanité de la Période de la Lune était la vague de vie du Verseau, les Anges. En partant de là et en remontant en arrière de cinq vague de vie, on arrive à la vague de vie de la Balance, ou Seigneurs de l’Individualité, chargée des impulsions spirituelles dirigées sur l’humanité de la Pérode de la Lune. La tonique de la Balance est Ré majeur. Le travail particulier effectué était la croissance du corps du désir et l’éveil de l’Esprit humain. En conséquence, toute musique écrite en Ré majeur poursuivra le travail commencé au cours de la Période de la Lune.
 
 L’humanité de la Période de la Terre est la vague de vie des Poissons, notre propre vague de vie. En remontant des Poissons jusqu’à cinq, on trouve la vague de vie du Scorpion, ou Seigneurs de la Forme, chargés des impulsions spirituelles qui nous sont actuellement dispensées, nous qui sommes l’humanité de la Période de la Terre.
 
