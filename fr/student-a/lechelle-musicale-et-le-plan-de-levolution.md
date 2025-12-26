@@ -453,27 +453,25 @@ L’humanité de la Période du Soleil était la vague de vie du Capricornes, le
 
 L’humanité de la Période de la Lune était la vague de vie du Verseau, les Anges. En partant de là et en remontant en arrière de cinq vague de vie, on arrive à la vague de vie de la Balance, ou Seigneurs de l’Individualité, chargée des impulsions spirituelles dirigées sur l’humanité de la Pérode de la Lune. La tonique de la Balance est Ré majeur. Le travail particulier effectué était la croissance du corps du désir et l’éveil de l’Esprit humain. En conséquence, toute musique écrite en Ré majeur poursuivra le travail commencé au cours de la Période de la Lune.
 
-L’humanité de la Période de la Terre est la vague de vie des Poissons, notre propre vague de vie. En remontant des Poissons jusqu’à cinq, on trouve la vague de vie du Scorpion, ou Seigneurs de la Forme, chargés des impulsions spirituelles qui nous sont actuellement dispensées, nous qui sommes l’humanité de la Période de la Terre.
-
-La tonique du Scorpion est Mi majeur. Le travail particulier effectué au cours de cette Période est le développement de l’intellect. En conséquence, toute musique écrite dans le ton de Mi majeur contribuera à la croissance de l’intellect, qui est le travail de la Période de la Terre.
+L’humanité de la Période de la Terre est la vague de vie des Poissons, notre propre vague de vie. En remontant des Poissons jusqu’à cinq, on trouve la vague de vie du Scorpion, ou Seigneurs de la Forme, chargés des impulsions spirituelles qui nous sont actuellement dispensées, nous qui sommes l’humanité de la Période de la Terre. La tonique du Scorpion est Mi majeur. Le travail particulier effectué au cours de cette Période est le développement de l’intellect. En conséquence, toute musique écrite dans le ton de Mi majeur contribuera à la croissance de l’intellect, qui est le travail de la Période de la Terre.
 
 Le but de la guidance spirituelle est, en premier lieu, de donner des impacts nécessaires qui agissent comme stimulants de l’action attendue sur la vague de vie inférieure, vers laquelle l’impact est dirigé, tout développement étant le résultat de quelque activité musicale.
 
 En résumant ce qui précède, nous trouvons:
 
-    Esprit Divin: tonique Si b majeur (La #), vague de vie gouvernante: le Lion.
+Esprit Divin: tonique Si b majeur (La #), vague de vie gouvernante: le Lion.
 
-    Esprit de Vie: tonique Sol # (La b majeur), vague de vie gouvernante: le Cancer.
+Esprit de Vie: tonique Sol # (La b majeur), vague de vie gouvernante: le Cancer.
 
-    Esprit Humain: tonique Fa # majeur, vague de vie gouvernante: les Gémeaux.
+Esprit Humain: tonique Fa # majeur, vague de vie gouvernante: les Gémeaux.
 
-    Corps Physique: tonique Si b majeur (La #), vague de vie gouvernante: le Lion.
+Corps Physique: tonique Si b majeur (La #), vague de vie gouvernante: le Lion.
 
-    Corps Vital: tonique de Do naturel, vague de vie gouvernante: la Vierge.
+Corps Vital: tonique de Do naturel, vague de vie gouvernante: la Vierge.
 
-    Corps du Désir: tonique Ré majeur, vague de vie gouvernante: la Balance.
+Corps du Désir: tonique Ré majeur, vague de vie gouvernante: la Balance.
 
-    Intellect: tonique Fa majeur, vague de vie gouvernant: le Sagittaire.
+Intellect: tonique Fa majeur, vague de vie gouvernant: le Sagittaire.
 
 Les accords se rapportant aux trois pouvoirs de l'Esprit et aux quatre véhicules de l'homme, ainsi que toute musique écrite dans la tonique de ces accords, peuvent efficacement être utilisés au développement des pouvoirs de son esprit triple et des pouvoirs de ses quatre véhicules.
 
@@ -481,55 +479,59 @@ Les accords se rapportant aux trois pouvoirs de l'Esprit et aux quatre véhicule
 
 L’harmonie des sphères n’est pas un son unique. Elle varie de jour en jour et de mois en mois, en même temps que le Soleil et les planètes passent d’un signe à l’autre. Il y a aussi des variations annuelles avec les différentes époques, dues à la précession des équinoxes. Il y a véritablement une variété infinie dans le Chant des Sphères, comme il se doit, car le changement constant de vibration spirituelle est la base de toute évolution physique ou spirituelle. Au printemps, les notes du Bélier et de Mars stimulent et activent la germination, le renouveau de la vie et la croissance de tous les règnes, de l’homme aux plantes incluses. Si vous voulez avoir quelque idée de ce à quoi ressemble la musique des sphères, écoutez les chants de Pâques comme celui-ci :
 
-    Jésus-Christ est ressuscité aujourd'hui, alléluia!  
-    Notre Jour triomphant et saint, alléluia!  
-    Qui, autrefois, sur la croix, alléluia!  
-    A souffert pour racheter nos fautes, alléluia!  
+```
+Jésus-Christ est ressuscité aujourd'hui, alléluia!  
+Notre Jour triomphant et saint, alléluia!  
+Qui, autrefois, sur la croix, alléluia!  
+A souffert pour racheter nos fautes, alléluia!  
+```
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+() - [Nous n'avons pas ce chant en français et nous en excusons]
 
-[Nous n'avons pas ce chant en français et nous en excusons]
+Christ-Jésus est la personnification de l’amour spirituel, donc toute musique dans la tonique de la Balance (Ré Majeur), gouvernée par Vénus, la planète de l’amour, est tout à fait en harmonie avec Sa vibration et tend à élever et à harmoniser la vibration de tout un chacun avec celle de ce grand Etre. 
 
-Christ-Jésus est la personnification de l’amour spirituel, donc toute musique dans la tonique de la Balance (Ré Majeur), gouvernée par Vénus, la planète de l’amour, est tout à fait en harmonie avec Sa vibration et tend à élever et à harmoniser la vibration de tout un chacun avec celle de ce grand Etre. Au milieu de l’été, les sons produits par le Cancer et la Lune prennent la relève, soutenus par celles du Lion et du Soleil, lesquelles contribuent à mûrir les processus initiés par les notes stimulantes du printemps. Pendant l’été, il est extrêmement important d’aimer et d’assumer le dur labeur de la vie avec un cœur joyeux, car ce sont des Maîtres dans la lutte pour l’existence, tandis que le Soleil est exalté dans le ciel de l’hémisphère nord au maximum de sa puissance, au moment du solstice d’été. C’est le moment où le Christ, ayant atteint le trône du Père (le monde de l’Esprit Divin), et accompli son travail sur la terre pour une autre année, est accueilli par les hôtes célestes, les Seigneurs de la Sagesse dont c’est aussi la desmeure. En l’honneur de ce grand Etre qui a donné Sa vie jusqu’à l’épuisement, il convient de se joindre à l’orchestre céleste et de chanter avec lui :
+Au milieu de l’été, les sons produits par le Cancer et la Lune prennent la relève, soutenus par celles du Lion et du Soleil, lesquelles contribuent à mûrir les processus initiés par les notes stimulantes du printemps. Pendant l’été, il est extrêmement important d’aimer et d’assumer le dur labeur de la vie avec un cœur joyeux, car ce sont des Maîtres dans la lutte pour l’existence, tandis que le Soleil est exalté dans le ciel de l’hémisphère nord au maximum de sa puissance, au moment du solstice d’été. C’est le moment où le Christ, ayant atteint le trône du Père (le monde de l’Esprit Divin), et accompli son travail sur la terre pour une autre année, est accueilli par les hôtes célestes, les Seigneurs de la Sagesse dont c’est aussi la desmeure. En l’honneur de ce grand Etre qui a donné Sa vie jusqu’à l’épuisement, il convient de se joindre à l’orchestre céleste et de chanter avec lui :
 
-    Louons tous le pouvoir du nom de (Christ) Jésus !  
-    Que les anges prosternés viennent  
-    Lui apporter le diadème royal  
-    Et le couronner Seigneur de tous.  
+```
+Louons tous le pouvoir du nom de (Christ) Jésus !  
+Que les anges prosternés viennent  
+Lui apporter le diadème royal  
+Et le couronner Seigneur de tous.  
+```
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-[Nous n’avons pas ce chant en français et nous en excusons]
+() - [Nous n’avons pas ce chant en français et nous en excusons]
 
 La tonique du Lion est Si b majeur (La #). Son gouverneur est le Soleil, et son mot-clé est Vie. La tonique du Cancer est La b majeur et son mot-clé est fécondation.
 
 En automne, les notes de la Vierge, dont la tonique est Do naturel et le mot-clé de Mercure, raison, stimulées par les notes du Scorpion dont la tonique est Mi majeur et le mot-clé de Mars est énergie dynamique, se préparent à la rencontre du pouvoir du rayon christique/du Christ???? qui approche, quand il fait sa descente annuelle vers la Terre. Ses puissantes vibrations spirituelles sont dans l’atmosphère terrestre et peuvent être utilisées par l’humanité, avec un meilleur résultat, si les hommes en sont conscients et redoublent leurs efforts de service aimant et désintéressé. Voici des paroles et une musique qui pourraient puissamment aider tout un chacun, s’il poursuit le développement de son évolution:
 
-    O adorons le glorieux Roi des cieux,  
-    Et chantons avec reconnaissance son amour merveilleux,  
-    Notre bouclier et notre Défenseur, l’Eternel  
-    Dans la splendeur des vivants et des chants de louange.  
+```
+O adorons le glorieux Roi des cieux,  
+Et chantons avec reconnaissance son amour merveilleux,  
+Notre bouclier et notre Défenseur, l’Eternel  
+Dans la splendeur des vivants et des chants de louange.  
+```
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-[Nous n’avons pas ce chant en français et nous en excusons]
+() - [Nous n’avons pas ce chant en français et nous en excusons]
 
 Les choses se sont vraiment passées ainsi. Pendant tout le temps où le Christ descend vers la Terre, une vibrante mélodie, harmonieuse et rythmée, un hosannah, est chantée par les hôtes célestes. Ce chant emplit l’atmosphère terrestre et agit sur tous comme une impulsion à l’aspiration spirituelle.
 
 Au cours de l’hiver, les notes du philanthropique Sagittaire, tonique Fa majeur, gouverné par l’optimiste et bienveillante planète Jupiter dont le mot-clé est idéalisme, sont accompagnées par celles du calme et méthodique Capricorne, tonique Sol majeur, gouverné par le stable et conservateur Saturne dont le mot-clé est obstruction, avec ses activités constructrices systématiques. Ces notes préparent la Terre à recevoir le rayon d’Amour du Christ et l’alimente jusqu’à ce qu’il soit prêt pour sa libération, au centre de la Terre. Il commencera alors son retrait vers la périphérie et l’atteindra à l’équinoxe du printemps. Au cours de la Sainte Nuit de Noël, quand les jours sont les plus courts et les nuits les plus longues, le rayon spirituel du Christ atteint le centre même de la Terre. Il y passe trois jours et trois nuits à libérer la force germinatrice de Son Esprit saint, laquelle va peu à peu imprégner la Terre et la féconder pour une autre année.
 
+![Diagram: Constitution of the Earth](#)
+
 Sans le pouvoir vitalisant et stimulant libéré par le Christ, la Terre resterait froide, morne et stérile; toute vie s’éteindrait rapidement et tout le progrès prévu pour notre développement serait voué à l’échec. Il conviendrait donc qu’à la sainte fête de Noël, nous manifestions notre sincère apppréciation, notre adoration, et combien nous sommes conscients de cette action du Christ, en nous joignant aux hôtes célestes avec des chants de louange, en harmonie avec la musique céleste qui nous est donnée par ce maître-musicien, le grand Félix Mendelssohn:
 
-    Oyez! Les messagers angéliques chantent  
-    Gloire au Roi nouveau-né.  
-    Paix et miséricorde sur la Terre,  
-    Dieu et le pécheur sont réconciliés.  
-    Dans la joie, que toutes les nations se lèvent  
-    Et se joignent au triomphe des Cieux  
-    Et qu’elles proclamemt avec les Anges:  
-    Christ est né à Bethléem!  
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+```
+Oyez! Les messagers angéliques chantent  
+Gloire au Roi nouveau-né.  
+Paix et miséricorde sur la Terre,  
+Dieu et le pécheur sont réconciliés.  
+Dans la joie, que toutes les nations se lèvent  
+Et se joignent au triomphe des Cieux  
+Et qu’elles proclamemt avec les Anges:  
+Christ est né à Bethléem!  
+```
 
 Les vagues de vie des Hiérarchies et les signes du zodiaque n’ont pas été les seules aides données à l’humanité pour suivre son évolution. Les Sept Esprits devant le Trône: Mars, Mercure, Vénus, la Terre, Saturne, Jupiter et Uranus ont rendu, et rendent encore, un très grand service à l’humanité et sont, à présent, en contact étroit avec elle. Chacune de ces planètes a une tonique propre et c’est par le pouvoir vibratoire de ces toniques qu’elles sont à même de l’assister.
 
@@ -547,7 +549,9 @@ Les sept tons majeurs de la gamme, quand ils sont correctement frappés, ont en 
 
 Quand, à la mort, l’Esprit quitte le corps dense, il passe par le Monde du Désir, le Monde de la Pensée Concrète (deuxième ciel) et le Monde de la Pensée Abstraite (troisième ciel) où il demeure un certain temps, avant de revenir naître sur la terre. Quand vient le temps d’une nouvelle naissance, il quitte la région de la Pensée Abstraite pour celle de la Pensée Concrète.
 
-Là, la musique des sphères déclenche aussitôt la vibration de l’atome-germe du corps dense de l’Esprit et une de ces planètes, en particulier, vibre en harmonie avec l’atome-germe de ce corps dense. Chaque note planétaire est ainsi modifiée, pour être conforme à la tonique de la planète en harmonie avec l’atome-germe du corps dense de l’Esprit et devient ainsi le gouverneur planétaire de l’Esprit pour cette vie terrestre. Quand les notes des différentes planètes mettent en résonance l’atome-germe du corps dense, chacune à son tour aide l’Esprit à construire son archétype, et les lignes de force vibratoire, ainsi formées dans l’archétype, attireront plus tard et arrangeront en bon ordre les atomes du corps dense. Ainsi, l’Archétype et le corps dense expriment, avec une très grande acuité, l’harmonie des sphères telle qu’elle a été jouée au cours de la construction de l’archétype.
+Là, la musique des sphères déclenche aussitôt la vibration de l’atome-germe du corps dense de l’Esprit et une de ces planètes, en particulier, vibre en harmonie avec l’atome-germe de ce corps dense. Chaque note planétaire est ainsi modifiée, pour être conforme à la tonique de la planète en harmonie avec l’atome-germe du corps dense de l’Esprit et devient ainsi le gouverneur planétaire de l’Esprit pour cette vie terrestre. 
+
+Quand les notes des différentes planètes mettent en résonance l’atome-germe du corps dense, chacune à son tour aide l’Esprit à construire son archétype, et les lignes de force vibratoire, ainsi formées dans l’archétype, attireront plus tard et arrangeront en bon ordre les atomes du corps dense. Ainsi, l’Archétype et le corps dense expriment, avec une très grande acuité, l’harmonie des sphères telle qu’elle a été jouée au cours de la construction de l’archétype.
 
 L’espace de temps qui s’écoule entre le moment où l’Esprit quitte le Troisième Ciel (région de la Pensée Abstraite) et celui où il entre dans le corps de sa future mère, est beaucoup plus long que la période actuelle de gestation (neuf mois) et varie en fonction de la complexité de la construction requise par l’Esprit qui cherche à renaître. Pas plus que n’est continu le processus de construction de l’archétype car, sous certains aspects (carrés, trigones, etc.) les planètes peuvent produire des notes auxquelles le pouvoir de vibration de l’atome-germe ne peut pas répondre. Et encore, l’Esprit fredonne-t-il uniquement les notes qu’il a déjà apprises, dans l’attente d’un nouveau son qu’il puisse utiliser, pour continuer à construire l’organisme dans lequel il désires s’exprimer.
 
@@ -571,9 +575,9 @@ Le spectre solaire se réfracte en sept couleurs distinctes: rouge, orangé, jau
 
 Le Bélier a le contrôle général de la tête et de ses différents organes internes, ainsi que des yeux; mais le nez est gouverné par le Scorpion. En conséquence, une affection de l’un de ces organes, sauf le nez, aura des chances d’être enrayée par une musique jouée doucement dans le ton du Ré b majeur. Les affections du Bélier sont les maux de tête, les névralgies, les comas, les états de transe, les maladies du cerveau et les hémorragies cérébrales. Le remède utilisé pour les combattre sera une musique douce, dans le ton de Ré b majeur.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 Le Taureau gouverne le cou, la gorge, le palais, le larynx, les amygdales, la mâchoire inférieure, les oreilles, la région occipitale du cerveau, le cervelet, l’atlas, les vertèbres cervicales, les carotides, les veines jugulaires et quelques vaisseaux sanguins mineurs. Une musique jouée doucement dans la tonalité de Mi b majeur serait des plus bénéfiques, lorsque l’un de ces organes commence à monter des signes pathologiques. Les maladies du Taureau sont le goître, la diphtérie, la diphtérie et l’apoplexie. Comme chaque signe réagit aussi sur le signe opposé, les afflictions du Taureau peuvent aussi produire des maladies vénériennes, de la constipation et des règles irrégulières.
+
+DIAGRAM!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 
 Les Gémeaux gouvernent les bras, les mains, les épaules, les poumons, le thymus et les côtes supérieures. Toute maladie attaquant une de ces parties peut être mise en échec par une musique douce jouée dans le ton de Fa # majeur. Les maladies des Gémeaux sont la pneumonie, les maladies pulmonaires, la pleurésie, la bronchite, l’asthme et l’inflammation du péricarde. Une musique jouée doucement dans le ton de Fa # majeur sera bénéfique et aidera à contrecarrer l’action de ces maladies.
 
@@ -605,19 +609,15 @@ C’est la raison pour laquelle une infirmière Candidate dans notre sanitarium 
 
 Aucun développement spirituel ne peut avoir lieu sans l’aide de l’intellect, car celui-ci est la lien entre l’Esprit et ses véhicules inférieurs. Les pouvoirs de l’Esprit se développent par l’essence de l’âme, la nourriture extraite de son corps triple; l’intellect est le seul moyen de transmettre cette essence nourricière à l’Esprit. Plus l’intellect est développé, plus il devient un conducteur efficace pour l’aliment des trois véhicules — les corps dense, vital et du désir — vers l’Esprit.
 
-Au cours de la Période de la Terre, les Seigneurs de l’Intellect ont émané d’eux-mêmes et implanté en l’homme le germe de l’intellect. La tonique des Seigneurs de l’Intellect, les Sagittaires, est Fa majeur. Sa gamme contient un bémol, Si b. Toute musique écrite avec un bémol à la clé tendra à la fois à influencer et à développer les pouvoirs mentaux de l’homme. Exemples : “America”, “Work, for the night is coming” (Travaille, car la nuit approche), “Where he leads Me I will Follow” (Où tu me conduis, je te suivrai). 
+Au cours de la Période de la Terre, les Seigneurs de l’Intellect ont émané d’eux-mêmes et implanté en l’homme le germe de l’intellect. La tonique des Seigneurs de l’Intellect, les Sagittaires, est Fa majeur. Sa gamme contient un bémol, Si b. Toute musique écrite avec un bémol à la clé tendra à la fois à influencer et à développer les pouvoirs mentaux de l’homme. Exemples : “America”, “Work, for the night is coming” (Travaille, car la nuit approche), “Where he leads Me I will Follow” (Où tu me conduis, je te suivrai). [Nous n’avons pas ce chant en français et nous en excusons] Les accords de Fa majeur sont:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-[Nous n’avons pas ce chant en français et nous en excusons]
-
-Les accords de Fa majeur sont:
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Clé...
+|         |        |        |         |        |           |        | 
+| ------- | ------ | ------ | ------- | ------ | --------- | ------ | 
+|         |        |        |         |        | Sib       |        | 
+| La      | Sol    | La     | Sib     | La     | Sol       | La     | 
+| Fa      | Mi     | Fa     | Fa      | Fa     | Mi        | Fa     | 
+| Do      | Do     | Do     | Ré      | Do     | Do        | Do     | 
+| Fa ac.  | Do ac. | Fa ac. | Sib ac. | Do ac. | Do 7e ac. | Fa ac. |
 
 L’Esprit est entièrement dans le Monde Physique pendant qu’il vit sa vie sur la terre, sauf quand le corps est endormi, ou inconscient pour toute autre raison. Au cours des heures de veille, l’Esprit est incarné et contacte consciemment la monde extérieur, grâce au pouvoir de l’intellect. Plus l’intellect est développé, plus l’Esprit est capable d’appréhender le monde extérieur. Actuellement, l’intellect est un nuage informe qui entoure et pénètre la tête. Il n’a pas encore développé d’organes. Il agit comme un miroir qui reflète le monde extérieur, permettant à l’Esprit de transmettre ses injonctions en pensées et en mots, et poussant à l’action. L’Esprit génère la pensée et l’injecte dans l’intellect; celui-ci la transmet aux centres du cerveau qui la transmuent en incitation à l’action.
 
@@ -641,21 +641,32 @@ Une des raisons qui avaient requis la construction d’un cerveau et d’un lary
 
 L’Esprit guidé et dirigé par les Anges, a construit le cerveau et le larynx par le pouvoir de l’Amour. La tonique de l’Humanité est Si majeur (cinq dièses). Celle des Anges est La majeur (trois dièses), et celle des Seigneurs de l’Intellect (la vague de vie du Sagittaire) qui ont émané d’eux-mêmes le germe de l’intellect et nous l’ont implanté, est Fa majeur (un bémol). Ainsi, ces toniques, leurs accords et toute musique dans une des gammes de Fa majeur, La majeur ou Si majeur, aideront au développement des pouvoirs de l’Intellect et du cerveau pour qu’ils puissent exprimer les choses que l’Esprit souhaite concrétiser dans le monde physique. Les Seigneurs de l’Intellect (la vague de vie du Sagittaire), tonique Fa majeur (un bémol), accords et chant: “Plus près de toi, mon Dieu”.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|        |        |        |         |        |           |        | 
+| ------ | ------ | ------ | ------- | ------ | --------- | ------ | 
+|        |        |        |         |        | Sib       |        | 
+| La     | Sol    | La     | Sib     | La     | Sol       | La     | 
+| Fa     | Mi     | Fa     | Fa      | Fa     | Mi        | Fa     | 
+| Do     | Do     | Do     | Ré      | Do     | Do        | Do     | 
+| Fa ac. | Do ac. | Fa ac. | Sib ac. | Do ac. | Do 7e ac. | Fa ac. |
 
 La vague de vie des Anges, tonique La majeur (trois dièses), accords et chant “La Maison là-bas”.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|         |         |        |        |        |           |        | 
+| ------- | ------- | ------ | ------ | ------ | --------- | ------ | 
+| La      | Si      | La     | La     | La     | Sol#      | La     | 
+| Mi      | Sol#    | Mi     | Fa#    | Mi     | Mi        | Mi     | 
+| Do#     | Mi      | Do#    | Ré     | Do#    | Ré        | Do#    | 
+| La ac.  | Mi ac.  | La ac. | Si ac. | Mi ac. | Mi 7e ac. | La ac. |
 
 L'humanité, tonique Si majeur (cinq dièses), accords et chant “La Bannière Etoilée”.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|        |         |        |        |        |            |        | 
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ | 
+|        |         |        |        |        | La#        |        | 
+| Si     | La#     | Si     | Si     | Si     | Fa#        | Si     | 
+| Fa#    | Fa#     | Fa#    | Sol#   | Fa#    | Mi         | Fa#    | 
+| Ré#    | Do#     | Ré#    | Mi     | Ré#    | Do#        | Ré#    | 
+| Si ac. | Fa# ac. | Si ac. | Mi ac. | Si ac. | Fa# 7e ac. | Si ac. |
 
 Les musiques écrites en Si majeur (cinq dièses) sont encore difficiles à trouver. Exemples de musiques écrites en La majeur (trois dièses, clé de la vague de vie des Anges) “Will There Be Any Stars in My Crown?” (Y aura-t-il des Etoiles sur ma Courronne ?), “O Think of a Home Over There” (O Pense à une maison là-bas), “O Come All ye Faithful” (O Venez tous, vous, les Fidèles).
 
@@ -665,11 +676,7 @@ La partie de la vague de vie des Anges, qui était à jour dans le travail de so
 
 Mars travaille avec l’énergie solaire et ses rayons ont un effet direct sur le troisième pouvoir de l’humanité, l’activité. Ces rayons étant positifs, donnent une constitution robuste, de l’endurance physique, de l’énergie, du courage et de la confiance en soi. Une des manifestations de l’activité est la germination — une force de vie — et à l’intérieur de cette force, les Martiens ont instillé le désir intense et la passion qui, à leur tour, génèrent ces émotions dans l’humanité. Leur motivation était avant tout égoïste car les Esprits Lucifer prennent plaisir à l’intensité des sentiments et évoluent en même temps. Ce qui leur importe n’est pas la nature des désirs ou des émotions, mais leur intensité. C’est pourquoi ils excitent les passions humaines les plus basses, car celles-ci sont plus intenses que nos sentiments de joie et d’amour, à notre stade actuel d’évolution.
 
-En résumé, on notera que les Esprits Lucifer ont établi une connexion avec l’humanité pour deux raisons principales:
-
-- la possibilité d’entrer en contact avec le cerveau humain et de recueillir des connaissances par ses expériences dans le monde physique,
-
-- la possibilité de faire naître en l’homme de violentes passions et de pouvoir poursuivre leur évolution grâce à leur intensité.
+En résumé, on notera que les Esprits Lucifer ont établi une connexion avec l’humanité pour deux raisons principales: - la possibilité d’entrer en contact avec le cerveau humain et de recueillir des connaissances par ses expériences dans le monde physique, - la possibilité de faire naître en l’homme de violentes passions et de pouvoir poursuivre leur évolution grâce à leur intensité.
 
 ### <h3 id="chapter-13">Chapitre 13 - Le cerveau, atelier physique de l'homme</h3>
 
@@ -691,7 +698,9 @@ La pensée est en corrélation avec la volonté, le premier pouvoir de l’Espri
 
 Le Monde de la Pensée est le royaume de la musique et la demeure de la vague de vie du Sagittaire, les Seigneurs de l’Intellect; en conséquence, il serait tout à fait impossible de produire une forme-pensée indépendante de la musique. Quand la forme-pensée se revêt de substance désir, la couleur s’y ajoute, car le Monde du Désir est le royaume de la couleur.
 
-Pour résumer la construction d’une forme-pensée: l’Esprit éveille sa volonté. Le pouvoir de la volonté produit une vibration musicale irradiante qui se manifeste en son. Le son produit une idée. L’idée prend forme et une forme-pensée est née. Une forme colorée flottante est alors produite. Les pensées ne sont pas silencieuses. Elles parlent un langage infaillible qui transmet ce qu’elles veulent dire d’une façon beaucoup plus exacte que les mots, jusqu’à ce que soit épuisée la force que leur générateur a déployée pour les amener à l’existence. Comme elles chantent dans la tonique particulière de la personne qui leur a donné naissance, il est assez facile, à l’occultiste entraîné, de remonter leur trace jusqu’à leur source.
+Pour résumer la construction d’une forme-pensée: 
+
+L’Esprit éveille sa volonté. Le pouvoir de la volonté produit une vibration musicale irradiante qui se manifeste en son. Le son produit une idée. L’idée prend forme et une forme-pensée est née. Une forme colorée flottante est alors produite. Les pensées ne sont pas silencieuses. Elles parlent un langage infaillible qui transmet ce qu’elles veulent dire d’une façon beaucoup plus exacte que les mots, jusqu’à ce que soit épuisée la force que leur générateur a déployée pour les amener à l’existence. Comme elles chantent dans la tonique particulière de la personne qui leur a donné naissance, il est assez facile, à l’occultiste entraîné, de remonter leur trace jusqu’à leur source.
 
 Les formes-pensées n’ont pas de spontanéité; elles agissent plus ou moins comme des automates. Elles se meuvent pour agir dans une seule direction, en rapport avec la volonté du penseur, qui est leur pouvoir moteur interne.
 
@@ -699,23 +708,15 @@ Celui qui n’a pas étudié la question ne peut s’imaginer combien de gens so
 
 Le pouvoir de la forme-pensée décroît en proportion de la distance parcourue. La distance parcourue et la persistance à vouloir être effective dépendent de la force, de l’affirmation et de la clarté de la pensée originelle.
 
-Généralement parlant, les formes-pensées peuvent être groupées en trois classes spécifiques:
+Généralement parlant, les formes-pensées peuvent être groupées en trois classes spécifiques: 1 - la forme-pensée peut être un portrait du penseur. Ceci est très fréquent. Une personne peut désirer intensément être quelque part. Il en résulte que la pensée prend forme et va à cet endroit précis. De nombreux clairvoyants non entraînés ont vu ce genre de formes-pensées d’amis ou de parents, mais ne connaissant pas la nature de ce qu’ils voyaient, ils en ont été grandement troublés. Le clairvoyant entraîné les reconnaît tout de suite. 2 - la forme-pensée peut être celle d’un objet matériel. Par exemple, une personne peut penser à sont livre favori. Immédiatement, ce livre, comme elle se le rappelle, apparaît dans son aura comme forme-pensée du livre; ou cela peut être sa fleur préférée ou même un ami. L’architecte construit une forme-pensée de la maison qu’il projette de construire. L’artiste construit une forme-pensée du tableau qu’il veut peindre. L’écrivain construit les formes-pensées des personnages et des lieux qu’ils a l’intention d’utiliser dans son livre. Souvenez-vous que c’est la volonté individuelle qui est à l’origine des formes-pensées et que celles-ci ont une certaine quantité de volonté infusée en elles. Fréquemment, après leur création, elles ne cessent de se frayer un chemin dans la conscience du penseur, souvent au point de devenir importunes, surtout si le penseur a changé d’avis sur le sujet particulier qu’elles représentent.
 
-1 - la forme-pensée peut être un portrait du penseur. Ceci est très fréquent. Une personne peut désirer intensément être quelque part. Il en résulte que la pensée prend forme et va à cet endroit précis. De nombreux clairvoyants non entraînés ont vu ce genre de formes-pensées d’amis ou de parents, mais ne connaissant pas la nature de ce qu’ils voyaient, ils en ont été grandement troublés. Le clairvoyant entraîné les reconnaît tout de suite.
+<img alt="Thought form built by envy and greed">
 
-2 - la forme-pensée peut être celle d’un objet matériel. Par exemple, une personne peut penser à sont livre favori. Immédiatement, ce livre, comme elle se le rappelle, apparaît dans son aura comme forme-pensée du livre; ou cela peut être sa fleur préférée ou même un ami. L’architecte construit une forme-pensée de la maison qu’il projette de construire. L’artiste construit une forme-pensée du tableau qu’il veut peindre. L’écrivain construit les formes-pensées des personnages et des lieux qu’ils a l’intention d’utiliser dans son livre. 
+Le seul moyen de se débarrasser de pensées importunes est l’indifférence. Si l’on essaie de les combattre, la force déployée va les maintenir vivantes et les ramener à l’esprit encore plus souvent. 3 - les formes-pensées qui prennent forme entièrement par elles-mêmes et qui expriment leur nature propre. Celles de haine prennent des formes hideuses et menaçantes. Celles de colère, des formes pointues et acérées. Celles d’avarice et d’envie forment des masses de substance d’où sortent des projections en forme de crochets, comme pour se saisir de l’objet convoité et l’absorber. L’amour se manifeste en nuages roses; la dévotion, en beaux objets dans les tons de bleu pâle jusqu’au blanc. La prière prend la forme d’un entonoir s’élançant dans l’espace. Toutes ces formes-pensées semblent être pleines de vie et vibrent intensément à un taux élevé. Bien entendu, elles ont une couleur et une tonalité.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Souvenez-vous que c’est la volonté individuelle qui est à l’origine des formes-pensées et que celles-ci ont une certaine quantité de volonté infusée en elles. Fréquemment, après leur création, elles ne cessent de se frayer un chemin dans la conscience du penseur, souvent au point de devenir importunes, surtout si le penseur a changé d’avis sur le sujet particulier qu’elles représentent.
-
-Le seul moyen de se débarrasser de pensées importunes est l’indifférence. Si l’on essaie de les combattre, la force déployée va les maintenir vivantes et les ramener à l’esprit encore plus souvent.
-
-3 - les formes-pensées qui prennent forme entièrement par elles-mêmes et qui expriment leur nature propre. Celles de haine prennent des formes hideuses et menaçantes. Celles de colère, des formes pointues et acérées. Celles d’avarice et d’envie forment des masses de substance d’où sortent des projections en forme de crochets, comme pour se saisir de l’objet convoité et l’absorber. L’amour se manifeste en nuages roses; la dévotion, en beaux objets dans les tons de bleu pâle jusqu’au blanc. La prière prend la forme d’un entonoir s’élançant dans l’espace. Toutes ces formes-pensées semblent être pleines de vie et vibrent intensément à un taux élevé. Bien entendu, elles ont une couleur et une tonalité.
+<img alt="Prayer, and the response from above">
 
 Des formes-pensées dirigées vers un individu produisent un résultat des plus intéressants. Ou bien celles-ci trouvent moyen d’entrer dans son aura, ou bien elles rebondissent et retournent à l’envoyeur. Chaque forme-pensée transporte un certain taux vibratoire et ne peut affecter un individu que si lui-même a une vibration semblable. Si une forme-pensée, générée par un sentiment bas, est envoyée vers quelqu’un, mais que sa vibration n’existe pas dans l’aura de cette personne, alors elle ne peut l’affecter en aucune manière. En conséquence, elle retourne à son générateur, rebondissant avec la force même qui l’a envoyée. Tous les impacts extérieurs atteignent l’Esprit de l’individu par le corps vital dont les deux éthers, l’éther lumière et l’éther réflecteur, forment le corps de l’âme. C’est ce véhiculemqui repousse toutes les mauvaises pensées, pourvu qu’il soit suffisamment organisé. Il agit alors comme un boomerang et renvoie la mauvaise pensé à celui qui l’a générée, lui apportant ce qu’il souhaittait à la personne vers laquelle était dirigée cette pensée. Si les personnes qui fréquentent les salles de bal de bas étage, les maisons de jeux et autres lieux d’iniquité, pouvaient voir les essaims de mauvaises pensées qui dardent dans tous les sens et entendre les notes suggestives, lascives et vulgaires qu’elles émettent, ils fuiraient ces endroits comme la peste, mais ensuite, ayant reçu ces vibrations démoralisantes, ils ne pourraient servir d’autre cause que celle du mal et le renforcer en tout endroit où il existe déjà. 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ### <h3 id="chapter-14">Chapitre 14 - Comment développer l'efficacité du cerveau et de l'intellect</h3>
 
@@ -723,39 +724,19 @@ Malheureusement, pour le moment, aucun d’entre nous n’est tout à fait bon, 
 
 Le point important dont il faut se souvenir ici est que tout acte, bon ou mauvais, est dirigé par la pensée. C’est pourquoi toute personne est aidée dans ce qu’elle fait par les bonnes ou par les mauvaises forces. Il nous incombe donc de veiller constamment sur nos pensées car, si elles sont droites, nos actes seront toujours dirigés vers le bien.
 
-Il y a quatre façons, pour l’intellect dirigé par l’Esprit, d’utiliser le cerveau comme véhicule d’expression de la pensée :
-
-1 — la pensée peut être projetée contre le corps du désir pour pousser à l’action,
-
-2 — la pensée est imprimée sur le cerveau au moyen du sang, par l’intermédiaire de l’éther réflecteur,
-
-3 — la mémoire superconsciente, qui est inhérente à l’Esprit de Vie, peut s’imprimer directement sur l’éther réflecteur du corps vital sans avoir besoin de se revêtir de substance désir,
-
-4 — l’Esprit de Vie peut faire passer son message directement au cœur, qui l’envoie instantanément au cerveau, par l’intermédiaire du nerf pneumogastrique.
+Il y a quatre façons, pour l’intellect dirigé par l’Esprit, d’utiliser le cerveau comme véhicule d’expression de la pensée: 1 — la pensée peut être projetée contre le corps du désir pour pousser à l’action, 2 — la pensée est imprimée sur le cerveau au moyen du sang, par l’intermédiaire de l’éther réflecteur, 3 — la mémoire superconsciente, qui est inhérente à l’Esprit de Vie, peut s’imprimer directement sur l’éther réflecteur du corps vital sans avoir besoin de se revêtir de substance désir, 4 — l’Esprit de Vie peut faire passer son message directement au cœur, qui l’envoie instantanément au cerveau, par l’intermédiaire du nerf pneumogastrique.
 
 Le cerveau est construit partiquement des mêmes substances que les autres parties du corps avec, en plus, une addition de phospore — ce qui lui est particulier. Il se trouve que les proportions et variations de cette substance correspondent à l’état et au stade d’intelligence de l’individu. Il est donc très important qu’il fournisse à son cerveau cette substance nécessaire. La plupart des fruits et légumes en contiennent une certaine quantité, et on en trouve des quantités considérables dans le raisin, les oignons, la sauge, les haricots, les clous de girofle, l’ananas et dans les feuilles et les tiges des betteraves, des carottes, du lin, et dans les feuilles de panais. Cependant, le moyen de se procurer du phosphore en grande quantité ne réside pas dans un métabolisme chimique mais dans un processus alchimique de croissance de l’âme.
 
 Le phosphore, dans le cerveau, est la porte d’entrée de l’impulsion divine. Littéralement, c’est le porteur de lumière. Mais pas de la lumière physique, de celle qui vient de l’Esprit. En conséquence, dans la mesure où nous serons capables d’assimiler cette substance (le phosphore), nous nous remplirons de lumière et commencerons à briller de l’intérieur. Remarquez, cependant, que le phosphore est seulement un agent physique, qui permet à la lumière spirituelle de s’exprimer à travers le cerveau physique. La lumière elle-même est le produit de l’esprit et elle augmente par la croissance de l’âme, qui rend le cerveau capable d’assimiler une plus grande quantité de phosphore. Cette croissance s’obtient par le service aimant et désintéressé. La Bible dit que “toute personne qui fait le mal hait la lumière (qui le révèle) et ne vient pas à la lumière, de peur que ses actions ne soient blâmées (par une conscience éclairée). Mais celui qui agit pour le bien vient à la lumière pour que ses actions soient rendues manifestes et qu’elles soient “forgées de Dieu”.
 
-Voyons maintenant comment l’intellect, qui est le lien entre l’Esprit et le cerveau, peut être amélioré.
+Voyons maintenant comment l’intellect, qui est le lien entre l’Esprit et le cerveau, peut être amélioré. 1) La concentration est l’une des grandes aides car, par cet exercice, l’intellect devient unidirectionnel. 2) Par les études dans la région de la Pensée Abstraite, comme les mathématiques, l’étude des Périodes, des cycles et des révolutions en rapport avec l’évolution de la Terre. Celles-ci libèrent l’intellect du corps du désir. 3) En conservant une souplesse d’esprit qui permette une bonne adaptabilité. En d’autres termes, en gardant un esprit ouvert, de manière qu’il ne se cristalise pas sur une seule ligne de pensée, mais qu’il soit toujours prêt à examiner de nouvelles idées. 4) L’étude de la religion émancipe l’intellect de l’influence des désirs, car il est de la plus haute importance que nous générions seulement une bonne sorte de pensées dans notre intellect. Des pensées de cette qualité seront attirées vers nous par les pensées semblables qui sont déjà en nous ; et si notre intellect est centré sur les choses spirituelles — qui s’assemble, se ressemble — nos pensées spirituelles ne vont pas seulement s’élargir et croître mais elles vont devenir un pouvoir dans le monde pour le bien.
 
-1) La concentration est l’une des grandes aides car, par cet exercice, l’intellect devient unidirectionnel.
+<img alt="Thought form made by a blessing">
 
-2) Par les études dans la région de la Pensée Abstraite, comme les mathématiques, l’étude des Périodes, des cycles et des révolutions en rapport avec l’évolution de la Terre. Celles-ci libèrent l’intellect du corps du désir.
+Les formes-pensées, qu’elles soient bonnes ou mauvaises, sont très souvent animées par des élémentaux qui attirent vers nous, de par leur nature, soit le bien, soit le mal et, par là, elles ont réellement un grand effet sur notre bien-être. En musique, les tonalités majeures expriment la joie, le contentement, l’espoir, la bonne humeur, l’aspiration, etc...alors que les tonalités mineures amènent un voile de tristesse, une plainte de souffrance, un soupir de désolation, etc. Naturellement, les élémentaux clairs et joyeux sont attirés vers les bonnes formes-pensées qui leur sont toujours symétriques et de couleur gaie, tandis que les élémentaux de vibrations basses le sont par des formes-pensées mornes et lugubres, de forme répugnante et de couleur sombre. Alors, aussitôt, dans notre aura, ils font résonner leur tonique, remplisant notre atmosphère immédiate soit de clarté et de joie, soit d’obscurité, de peur, de méchanceté, etc. suivant le cas. Qui plus est, les élémentaux répandent une odeur qui leur est propre. Ceux qui répondent aux tonalités majeures, exsudent certains parfums analogues à ceux des fleurs qui sentent bon. Les tonallités mineures font de même, mais avec une odeur déprimante et débilitante, comparable à celle du putois, et certains d’entre eux sentent presque aussi mauvais que des corps en décomposition. Le temps est venu où beaucoup de ces formes-pensées sont vues dans les auras des gens, et nombre d’entre elles ont même été senties.
 
-3) En conservant une souplesse d’esprit qui permette une bonne adaptabilité. En d’autres termes, en gardant un esprit ouvert, de manière qu’il ne se cristalise pas sur une seule ligne de pensée, mais qu’il soit toujours prêt à examiner de nouvelles idées.
-
-4) L’étude de la religion émancipe l’intellect de l’influence des désirs, car il est de la plus haute importance que nous générions seulement une bonne sorte de pensées dans notre intellect. Des pensées de cette qualité seront attirées vers nous par les pensées semblables qui sont déjà en nous ; et si notre intellect est centré sur les choses spirituelles — qui s’assemble, se ressemble — nos pensées spirituelles ne vont pas seulement s’élargir et croître mais elles vont devenir un pouvoir dans le monde pour le bien.
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Les formes-pensées, qu’elles soient bonnes ou mauvaises, sont très souvent animées par des élémentaux qui attirent vers nous, de par leur nature, soit le bien, soit le mal et, par là, elles ont réellement un grand effet sur notre bien-être.
-
-En musique, les tonalités majeures expriment la joie, le contentement, l’espoir, la bonne humeur, l’aspiration, etc...alors que les tonalités mineures amènent un voile de tristesse, une plainte de souffrance, un soupir de désolation, etc. Naturellement, les élémentaux clairs et joyeux sont attirés vers les bonnes formes-pensées qui leur sont toujours symétriques et de couleur gaie, tandis que les élémentaux de vibrations basses le sont par des formes-pensées mornes et lugubres, de forme répugnante et de couleur sombre. Alors, aussitôt, dans notre aura, ils font résonner leur tonique, remplisant notre atmosphère immédiate soit de clarté et de joie, soit d’obscurité, de peur, de méchanceté, etc. suivant le cas. Qui plus est, les élémentaux répandent une odeur qui leur est propre. Ceux qui répondent aux tonalités majeures, exsudent certains parfums analogues à ceux des fleurs qui sentent bon. Les tonallités mineures font de même, mais avec une odeur déprimante et débilitante, comparable à celle du putois, et certains d’entre eux sentent presque aussi mauvais que des corps en décomposition. Le temps est venu où beaucoup de ces formes-pensées sont vues dans les auras des gens, et nombre d’entre elles ont même été senties.
-
-Voici une chose qu’il est bon de savoir: les formes-pensées sont maintenues en vie et renforcées par la répétition des pensées mêmes qui les ont édifiées. Si elles ne sont pas répétées, leurs formes s’effritent peu à peu et les élémentaux qui les habitent vont chercher domicile ailleurs. Donc, il est en notre pouvoir de nous débarrasser des formes-pensées et des élémentaux que nous ne désirons pas avoir auprès de nous.
-
-La peur, l’inquiétude, la tristesse, la maussaderie, les sautes d’humeur, etc., peuvent aussi emplir une aura de visions et d’odeurs désagréables, jusqu’à devenir une nuisance publique. A la lumière de ce qui précède, il est maintenant aisé de comprendre pourquoi la présence de certaines personnes nous réconforte, alors que d’autres ont un effet déprimant sur ceux qu’elle côtoient.
+Voici une chose qu’il est bon de savoir: les formes-pensées sont maintenues en vie et renforcées par la répétition des pensées mêmes qui les ont édifiées. Si elles ne sont pas répétées, leurs formes s’effritent peu à peu et les élémentaux qui les habitent vont chercher domicile ailleurs. Donc, il est en notre pouvoir de nous débarrasser des formes-pensées et des élémentaux que nous ne désirons pas avoir auprès de nous. La peur, l’inquiétude, la tristesse, la maussaderie, les sautes d’humeur, etc., peuvent aussi emplir une aura de visions et d’odeurs désagréables, jusqu’à devenir une nuisance publique. A la lumière de ce qui précède, il est maintenant aisé de comprendre pourquoi la présence de certaines personnes nous réconforte, alors que d’autres ont un effet déprimant sur ceux qu’elle côtoient.
 
 Il ne faudrait pas croire, cependant, que toutes les formes-pensées, vibrant en majeur ou en mineur, soient toutes habitées par des élémentaux, mais quelques-unes le sont très certainement. Quand la chose se produit, si la vibration de l’élémental est joyeuse, gaie, vive, il habitera une forme-pensée vibrant dans une tonalité majeure. Mais si sa vibration est sombre, morose, triste, déprimée, il sera attiré vers des formes-pensées vibrant dans une tonalité mineure. Ceci est en harmonie avec la loi cosmique d’attraction des semblables.
 
@@ -763,11 +744,13 @@ Il est ainsi évident que chaque individu a, en lui-même et en propre, une sér
 
 La qualité de l’instrument de musique de l’homme dépend de son stade de développement. Les élémentaux, comme nous l’avons vu, ne répondent qu’à une seule tonalité, soit majeure, soit mineure. L’homme, quand à lui, est maintenant apte à répondre aux sept tonalités distinctes, représentées par les sept notes de la gamme musicale: Do, Ré, Mi, Fa, Sol, La, Si, et nombre de leurs variations dans les gammes majeures et mineures.
 
-Nous savons que l’aura est composée des corps vital, du désir et de l’intellect. Chaque aura a sa couleur de base. Max Heindel constate que la couleur de base des Américains (de race blanche) est orange. La couleur, cependant, varie en fonction des émotions de l’homme. Par exemple, prenons un individu belliqueux cherchant à fomenter une grève dans une entreprise. Naturellement, il est très excité lui-même et, bien que la couleur de base de son aura soit d’un orange profond, cette couleur, à ce moment, sera presque complètement oblitérée par un écarlate des plus vifs. Le contour de son corps du désir ressemblera à un porc-épic, avec ses piquants pointant dans toutes les directions, prêt à la bataille.
+Nous savons que l’aura est composée des corps vital, du désir et de l’intellect. Chaque aura a sa couleur de base. Max Heindel constate que la couleur de base des Américains (de race blanche) est orange. La couleur, cependant, varie en fonction des émotions de l’homme. 
+
+Par exemple, prenons un individu belliqueux cherchant à fomenter une grève dans une entreprise. Naturellement, il est très excité lui-même et, bien que la couleur de base de son aura soit d’un orange profond, cette couleur, à ce moment, sera presque complètement oblitérée par un écarlate des plus vifs. Le contour de son corps du désir ressemblera à un porc-épic, avec ses piquants pointant dans toutes les directions, prêt à la bataille.
 
 Les pensées de crainte et d’inquiétude, dans une aura, la rendent gris acier. Ceux qui ont ce genre d’aura sont dits être des hommes, ou des femmes, “de fer”. Ils vivent dans la crainte d’une foule de choses qui n’arrivent jamais, cristallisant une armure autour d’eux qui sert, apparemment, à les protéger des interférences de l’extérieur, mais qui, en réalité, ne fait qu’enfermer, dans leur propre aura, toutes leurs formes-pensées perturbatrices. Elles y sont nourries et vivifiées par toute pensée semblable qu’ils génèrent. De telles auras sont accordées à une tonalité mineure et résonnent surtout comme des chants funèbres, lesquels peuvent être ressentis par des personnes sensitives. Il leur faudra un certain temps pour se débarrasser du sentiment déprimant qu’ils ont généré.
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<img alt="Startled thought form caused by fear">
 
 Cette berrière saturnienne de l’aura est si puissante qu’un choc brutal est nécessaire pour la briser. Parfois, il faut aller jusqu’à retirer cette personne de leur environnement et les placer dans un autre entièrement nouveau. Ces personnes semblent s’être enfermées dans une sorte de carapace, mais cette coque saturnienne doit être brisée, avant qu’il soit possible de se rapprocher d’eux, pour les tirer de cet état pitoyable.
 
@@ -821,10 +804,12 @@ Les occultistes avancés assimilent les signes du zodiaque à la table d’harmo
 
 Un fait étonnant, ignoré jusqu’à présent et qu’on ne réalise pas, est que chaque être humain est lui-même un instrument de musique dont les différentes parties sont en corrélation par leur tonique vibratoire, avec les septs Esprits devant le Trône et les douze signes du zodiaque, tous étant guidés et dirigés par le Créateur de notre système solaire. C’est pour cette raison même, que la musique a un pouvoir aussi puissant sur le développement des pouvoirs latents de l’homme. Sans la musique, il n’y aurait pas de manifestation et donc pas de progrès. Nous trouvons ici la raison de l’injonction des grands Initiés: “Homme, connais toi toi même”, car, dès qu’un individu prendra conscience de son véritable soi, il possèdera la clé de tout progrès futur.
 
-    “Quand la lumière eut dévoilé sa face radieuse  
-    Et enveloppé le monde de son étreinte,  
-    Quand, dans l’espace, les planètes ce sont mises à tourner,  
-    Cet hymne, par le coeur céleste, fut chanté:  
-    O pulsation sacrée! O loi divine!  
-    Tous desseins et tous pouvoirs sont Tiens,  
-    Car la Vie continue éternellement.  
+```
+“Quand la lumière eut dévoilé sa face radieuse  
+Et enveloppé le monde de son étreinte,  
+Quand, dans l’espace, les planètes ce sont mises à tourner,  
+Cet hymne, par le coeur céleste, fut chanté:  
+O pulsation sacrée! O loi divine!  
+Tous desseins et tous pouvoirs sont Tiens,  
+Car la Vie continue éternellement.  
+```
