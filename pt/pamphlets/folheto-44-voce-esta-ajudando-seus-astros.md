@@ -1,0 +1,38 @@
+---
+title: "Folheto №44: Vocẽ está ajudando seus astros?"
+language: "pt"
+original_title: "Pamphlet №44: Are You Helping Your Stars?"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-44-are-you-helping-your-stars.md"
+---
+
+<h1 id="pamphlet-44-are-you-helping-your-stars">Folheto №44: Vocẽ está ajudando seus astros?</h1>
+
+### <h3 id="misuse-of-astrology">Uso Incorreto da Astrologia</h3>
+
+Ouve-se, frequentemente, estudantes de Astrologia expressarem seu aborrecimento pelo modo como os astros trabalham. Eles reclamam que as más influências estão sempre presentes e marcadas pelos seus efeitos, enquanto que, na maioria das vezes, as boas influências parecem ter pouca ou nenhuma atuação, e eles perguntam porquê. Você já se deu conta de que não é possível conseguir nada de graça e que não se pode criar alguma coisa do nada? Isto é tão válido como querer um pedaço de pão, uma posição, favores ou outra coisa qualquer. Se aparentemente parece que você conseguiu algo sem pagar, terá que pagar mais tarde e com juros, pois é a Lei da Justiça da Natureza na qual nada é dado de graça. Deve haver uma troca, de um modo ou de outro. A balança pode se inclinar numa posição por longo tempo, mas, tão certo quanto o pêndulo oscila igualmente para cada lado do ponto central, também a balança da justiça oscila, e oscila até que o equilíbrio seja alcançado.
+
+### <h3 id="stars-never-compel">Os Astros Nunca Obrigam</h3>
+
+Isto é verdadeiro em Astrologia. Diz-se que “Deus ajuda a quem se ajuda” ou “Ajuda-te, que Deus te ajudará”. Você pode dizer também que os astros ajudam o homem que ajuda a si mesmo, pois eles são ministros de Deus. Deve sempre ser lembrado que os astros mostram tendências, eles marcam momentos em que as oportunidades estão maduras, mas, sob nenhuma circunstância, não obrigam ninguém a agir de um modo ou de outro. Porém, as influências não são acontecimentos casuais. São lições e experiências para nós das quais podemos tirar proveito ou não, à nossa escolha, dentro de certos limites. Por exemplo, a Lua entra em quadratura com Marte e nos trará uma oportunidade de perder a paciência e criar um problema. Então, quando a situação está resolvida, nós nos sentamos para refletir sobre o ocorrido e dizemos para nós mesmos: Bem, que tolos somos nós para permitir que uma coisa tão pequena brinque com a nossa felicidade!
+
+### <h3 id="equilibrium">Equilíbrio</h3>
+
+Por outro lado, se o estudante de Astrologia usasse seu conhecimento de maneira apropriada, deveria saber qual o efeito da quadratura da Lua com Marte. Ele deveria ficar calmo antecipadamente e dizer: “Aqui está uma oportunidade para eu dominar meus astros. Vou manter meu temperamento sob controle de modo que, não importa o que aconteça, vou manter meu equilíbrio”. Então, quando a oportunidade para ele perder a calma surgir, ele se manterá firme. Embora possa sentir maus impulsos surgindo dentro dele, poderá ficar aparentemente quieto, mantendo a cabeça fria e, quando o período passar, ele terá conquistado uma vitória e aprendido a lição que devia.
+
+Ou suponha que seja uma quadratura da Lua com Saturno. Isto impele as pessoas a se preocuparem e a olharem o lado negro da vida, mas o estudante de Astrologia deve dizer para si mesmo quando tal configuração se aproximar: “Não, não vou me preocupar. Preocupação não ajudará. Isto atrapalha porque me tira toda a minha força com que, de outra forma, eu poderia superar a influência. Vou olhar para o lado bom do assunto e ver o que posso fazer para remediar o problema”.
+
+De fato, a maioria das coisas que preocupam as pessoas nunca acontece e, se o estudante aprendeu esta instrução planetária e se mantiver seu equilíbrio parando de se preocupar, então ele dominará seus astros e aprenderá uma importante lição. Assim, se ele ajudar seus astros aprendendo as lições que eles estão se empenhando em ensiná-lo, as más influências não terão o mesmo poder sobre ele. Porém, se ele simplesmente se sentar e cruzar os braços dizendo: “Bem, não posso fazer nada. Estou sob más influências e as coisas irão dar errado”, naturalmente as coisas irão dar errado.
+
+### <h3 id="individual-will">Vontade Individual</h3>
+
+Há, no horóscopo, um fator dominante chamado Vontade Individual. Tenha em mente que o horóscopo mostra só tendências e não tem nenhum poder para impelir. A compulsão vem de dentro da pessoa. Você, em análise final, é o fator dominante no horóscopo e pode, com um exercício de suficiente força de vontade, governar seus astros. É fato que somos todos fracos e, por isso, incapazes de exercitar a força de vontade necessária em todos os momentos, mas é certo que as más influências são enviadas para nós cultivarmos uma vontade mais forte e mais firme para fazer o certo na hora exata. Depende de nós se seremos impelidos pelas circunstâncias ou pela nossa própria vontade interna. Realmente, este é o caminho certo. Estudantes de Astrologia, acima de qualquer outra pessoa, têm que ser capazes de guiar suas vidas de maneira segura por entre as rochas e os baixios da existência porque são avisados antecipadamente. Eles sabem o que está para chegar e devem-se preparar.
+
+### <h3 id="cooperation">Cooperação</h3>
+
+Por outro lado, pergunta-se: Por que as boas influências não trazem um correspondente benefício? E a resposta à essa pergunta é a mesma falta de cooperação; é tão necessário ajudar nossos astros por um lado quanto impedi-los por outro. Você está desempregado, talvez, as finanças da família diminuindo e nenhuma saída à vista para recuperá-las, mas, com suas esperanças centradas em uma única direção tal como, talvez, um trino da Lua progredida com o regente da 6ª casa ou do Sol. Sob estas condições você sente, do ponto de vista astrológico, que irá conseguir um bom emprego que equilibrará a sua vida. Pois bem, você pode estar certo de que a oportunidade virá, mas não espere que caia no seu colo sem um único esforço de sua parte. Se uma coisa vale a pena, é válido correr atrás, é válido fazer o máximo de esforço para alcançá-la. Não negligencie nenhum detalhe: vista-se cuidadosamente, mas não exageradamente, quando for ver a pessoa que tem o poder de lhe conceder a oportunidade. Lembre-se de que a primeira impressão é importante. Tenha toda a sua munição pronta em termos de indicações e tudo mais que você precisa ter para não depender de um aspecto astrológico para ajudá- lo a conseguir a posição. Use todos os meios apropriados para impressionar o empregador em perspectiva com sua habilidade e você pode confiar que seu esforço vai ser recompensado, pois você ajudou seus astros. Você agarrou sua oportunidade.
+
+### <h3 id="common-sense">Bom Senso</h3>
+
+Ou você está prestes a se aventurar numa sociedade com alguém, sentindo-se confiante porque a Lua está em trino com o Sol e Vênus na 7ª casa? Tenha cuidado para não menosprezar sua precaução neste fato, pensando que, sob tal influência, ninguém que entre nesta sociedade não seja bom. Se você fizer isso, negligenciará a sua parte e não terá razão para culpar os astros se, mais tarde, for constatado que a pessoa não é tudo o que você esperava que fosse. Nada é tão necessário no mundo de hoje do que ter bom senso (ou discriminação) e isto se aplica ao departamento de Astrologia, bem como a todos os outros departamentos da vida. A oportunidade pode ser comparada a um tobogã entre nós e nossos desejos: é necessário fazer um esforço inicial adequado para lançar nosso trenó sobre esta inclinação, mas, uma vez que tenhamos feito a nossa parte, então tudo andará sob condições favoráveis. Desta maneira, os astros estarão conosco para impressionar os outros em nosso nome ou para reforçar nosso poder penetrante a fim de que possamos saber o que é melhor para nós.
