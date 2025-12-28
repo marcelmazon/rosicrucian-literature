@@ -1,0 +1,84 @@
+---
+title: "Folheto №32: Obsessão"
+language: "pt"
+original_title: "Pamphlet №32: Obsession"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-32-obsession.md"
+---
+
+<h1 id="pamphlet-32-obsession">Folheto №32: Obsessão</h1>
+
+### <h3 id="obsession">Obsessão</h3>
+
+Obsessão é um estado no qual um espírito desencarnado tomou posse permanente do corpo de alguém após afastar seu dono. Às vezes, pessoas que adquiriram o hábito da bebida, ou algum outro vício inferior, procuram se desculpar dizendo estarem obsedados. Toda vez que uma pessoa faz esta declaração sobre si mesmo, podemos quase sempre estar certos de que não é nada, apenas uma desculpa. Um ladrão que tenha roubado algo aqui no mundo material não anda por aí contando sobre o seu roubo, nem uma entidade obsessiva o faz proclamando a notícia. É certo que tal entidade não se preocupa com o que se pensa sobre o homem cujo corpo foi roubado, então não há razão pela qual ela deveria contar e arriscar-se a ser exorcizada.
+
+### <h3 id="diagnosing-the-eye">Diagnosticando o Olho</h3>
+
+Há um método infalível de saber se a pessoa está ou não realmente obsedada, denominado como a diagnose do olho. “O olho é a janela da alma” e só o verdadeiro dono é capaz de contrair e expandir a íris, ou pupila, do olho. Se levarmos uma pessoa que se diz obsedada para um quarto escuro, veremos que a pupila de seu olho não se expande se ela estiver obsedada. E a pupila não se contrairá quando a trouxermos para a claridade ou quando lhe pedirem para ler uma letra pequena, nem se expandirá se pedirmos para olhar para um objeto distante. Resumindo, a pupila não responderá nem à luz nem à distância quando a pessoa estiver obsedada. No entanto, a falta destas respostas nem sempre indica obsessão. Há uma doença chamada ataxia loco-motora na qual a íris não responde à distância, mas responde à claridade.
+
+### <h3 id="earthbound-spirits">Espíritos Apegados à Terra</h3>
+
+Os espíritos apegados à Terra gravitam para as regiões inferiores do Mundo do Desejo que interpenetra o éter e estão em contato constante e estreito com aquelas pessoas da Terra mais favoráveis a ajudá-los em seus planos diabólicos. Eles geralmente ficam nesta condição de apegados à Terra por 50, 60 ou 75 anos, mas casos extremos foram encontrados em que eles ficaram assim durante séculos. De acordo com o que o autor (Max Heindel) foi capaz de descobrir, parece não haver limite para o que eles possam fazer ou por quanto tempo permanecerão. Mas, o tempo todo, eles estão construindo para si uma terrível carga de pecado e não poderão escapar do sofrimento, pois o corpo vital reflete e grava profundamente no corpo de desejos as suas faltas e quando, finalmente, eles entrarem na existência purgatorial, terão a retribuição que merecem. Este sofrimento é naturalmente longo na proporção do tempo que eles usaram suas práticas execráveis após a morte do corpo denso – outra prova de que “embora os moinhos de Deus moam devagar, eles não deixam nada sem ser moído”.
+
+### <h3 id="sin-body">Corpo de Pecado</h3>
+
+Quando o Espírito que estava apegado à Terra deixa seu corpo de pecado, nome que daremos a este veículo - em contraste com o corpo-alma - para ascender ao Segundo Céu, este corpo não se desintegra tão rapidamente como o corpo de desejos de uma pessoa normal, pois a consciência nele está acentuada pela sua composição dupla, isto é, corpo vital e corpo de desejos, e tem uma consciência individual ou pessoal que é muito singular. Ele não pode raciocinar, mas tem uma astúcia para o inferior que faz parecer estar dotado de uma presença espiritual, um Ego, e isto o capacita a viver uma vida separada por muitos séculos. O Espírito que partiu, nesse meio tempo, entra no Segundo Céu, mas, não tendo feito nada na Terra para desejar ou merecer uma estada prolongada no Segundo ou no Terceiro Céu, ele fica lá só o tempo suficiente para criar um novo ambiente para si e então renasce mais cedo do que o usual para satisfazer os desejos pelas coisas materiais que o interessam fortemente.
+
+### <h3 id="demons">Demônios</h3>
+
+Quando este Espírito retorna à Terra, este corpo de pecado é naturalmente atraído e geralmente fica com ele toda a sua vida como um demônio. Investigações provaram que esta classe de criaturas sem alma era predominante durante os tempos bíblicos. Foi a eles que nosso Salvador se referiu como demônios, sendo a causa de várias obsessões e enfermidades relatadas na Bíblia. A palavra grega “daemon” descreve-os com exatidão.
+
+### <h3 id="the-threefold-body">O Tríplice Corpo</h3>
+
+O “Conceito Rosacruz do Cosmos” nos diz que o homem é um Espírito tríplice e que ele funciona em um Corpo tríplice. Destes três, só um pode ser visto com a visão física. Paulo diz na Primeira Epístola aos Coríntios, cap 15, vers. 40: “Há corpos celestiais e corpos terrenos”; no cap 15, vers. 44: “Há um corpo natural e um corpo espiritual”. Os Ensinamentos Rosacruzes reconhecem o corpo natural e o corpo espiritual citados por Paulo, mas eles também afirmam que o corpo natural é interpenetrado por um veículo invisível chamado corpo vital que mantém o corpo denso com saúde, construindo e restaurando durante o sono o que o homem destruiu com seus desejos durante o dia. Também diz que o corpo tríplice está relacionado com os vários mundos invisíveis que o cercam. Os mundos físico, etéreo e de desejos, os vários planos da existência, são de diferentes graus de densidade e se interpenetram uns aos outros. Por exemplo, no mundo do desejo, a densidade da matéria provoca uma reação análoga à da fumaça, ficando a mais pesada perto da Terra e a mais pura e luminosa sobe no ar.
+
+Durante a vida do homem no mundo físico, ele está constantemente construindo seus corpos invisíveis com seus pensamentos, desejos e emoções. Se seus desejos o puxam para baixo dentro da vida dos sentidos, se o seu tempo é usado em prazeres inúteis e de gratificação própria, ou se não tem aspiração mais alta do que acumular riqueza, então seu corpo de desejos pode ser como uma fumaça negra e pesada. Depois que passa para a vida além do túmulo, ele é atraído para aquele reino conhecido como região purgatorial, a qual está mais perto do plano físico. Ali, ele purga todos os desejos impuros. Ele tem que limpar o corpo de desejos antes de poder subir ao reino mais elevado chamado Primeiro Céu.
+
+### <h3 id="discarnate-spirits">Espíritos Desencarnados</h3>
+
+Se levássemos uma pessoa sensível que viveu uma vida limpa e pura para uma comunidade pobre de uma grande cidade e a forçássemos a viver ali, ela sofreria, ficaria doente e, na primeira oportunidade, voltaria para seu lugar de origem. Do mesmo modo, se levássemos uma pessoa degenerada que viveu num ambiente falso e desonesto e a colocássemos num palácio entre pessoas cultas, ela ficaria desconfortável e, na primeira chance, voltaria para junto de seus antigos companheiros. Condições similares existem no Mundo do Desejo. A pessoa que viveu uma vida limpa e espiritualizada fica, depois da morte, pouco tempo na parte inferior do Mundo do Desejo. Assim que ela se liberta do corpo físico, rapidamente sobe para as regiões mais elevadas deste mundo. Mas a pessoa que nunca soube o que uma vida pura significava, que nunca pensou na vida além do túmulo é como a espessa e negra fumaça – ela paira sobre o plano físico. Ela prefere ficar perto de seus velhos conhecidos, especialmente se tem um ressentimento contra alguém no plano terrestre e deseja vingar-se. Então, ela permanece ali até que consiga realizar seu desejo de vingança. Ela pairará sobre sessões espíritas ou no lugar onde seu inimigo vive até que consiga influenciar alguém negativo e fraco para levar a cabo seu plano de vingança. Quantas vezes lemos que um assassino ou ladrão declarou perante o juiz que sentiu algo de repente e não pôde evitar cometer o crime, isto é, uma força invisível fez com que ele fizesse aquilo. O bêbado também é usado pelos espíritos desencarnados e é frequentemente forçado a beber para que , deste modo, o degenerado no Mundo do Desejo obtenha alguma satisfação.
+
+### <h3 id="elementals">Elementais</h3>
+
+É um fato curioso que elementais sub-humanos às vezes se apeguem a certas pessoas, uma família ou mesmo a uma sociedade religiosa. Em tais casos, no entanto, descobrimos que seus veículos não eram formados de um corpo de pecado endurecido composto por um corpo de desejos e um vital, mas sim de éter em estado de desintegração obtido através da mediunidade praticada por uma pessoa comum e de bom caráter. Para compensar isto e prolongar sua permanência nestes veículos, eles exigem daqueles a quem servem oferendas regulares de comida e queima de incenso. Embora não possam assimilar o alimento físico, eles podem viver do odor que sai dele e também da fumaça do incenso.
+
+Esta é outra ilustração do fato de que a pureza de intenção não nos protegerá quando estamos contrários às leis de Deus, assim como não escaparemos de uma queimadura se pusermos a mão sobre um fogão quente, não importando o motivo. No entanto, em casos em que o médium estava imbuído de motivos puros e alta devoção religiosa, era muito difícil para estas entidades demoníacas manterem o corpo vital por muito tempo. Elas se cansavam e procuravam outra vítima que estivesse mais de acordo com sua natureza demoníaca.
+
+### <h3 id="obsession-2">Obsessão</h3>
+
+No início da infância, o sangue frequentemente sobe a uma temperatura anormal. Durante o período de crescimento excessivo, é freqüente o contrário, mas, na juventude rebelde e de cabeça quente, a paixão e o temperamento frequentemente expulsa o Ego por causa da temperatura do sangue excessivamente quente. Chamamos isto de ebulição do temperamento e descrevemos o efeito dizendo que a pessoa “perdeu a cabeça”, isto é, tornou-se incapaz de pensar. É exatamente o que acontece quando a paixão, a ira ou o temperamento super aquece o sangue, expulsando o Ego de seus corpos. A descrição é perfeita quando dizemos que a pessoa “perdeu o controle de si mesma”. O Ego está fora de seus veículos e estes investem furiosamente, privados da direção do pensamento, o qual tem a seu cargo parte do trabalho de agir como um freio no impulso. O grande e terrível perigo em tais situações é que, antes que o Ego entre novamente em seu corpo, alguma entidade sem corpo tome posse dele e o mantenha afastado. Isto é chamado de “obsessão”. Somente aquele que se mantém frio e não permite que o excesso de calor expulse o Ego pode pensar corretamente.
+
+Quando uma pessoa morre durante uma discussão ou com um sentimento de raiva em seu coração, ela continuará por algum tempo ligada àquele ao qual sua ira era dirigida. É freqüente este Espírito desencarnado influenciar algum Espírito negativo ainda encarnado, o qual então toma a seu cargo a vingança e comete o crime que aquele Espírito desencarnado deseja.
+
+### <h3 id="occult-effects-of-capital-punishment">Efeitos Ocultos da Pena Capital</h3>
+
+No futuro, quando juízes, advogados e júri tiverem mais fé e conhecimento da vida depois da morte, eles não condenarão o criminoso à morte, e entenderão que o assassino que é condenado sem tempo de fazer a retrospecção será arremessado sem preparação para o Mundo do Desejo e poderá se tornar lá uma maior ameaça à sociedade do que em seu corpo físico, pois ele será como um animal selvagem fora da jaula. Ele terá toda a liberdade de continuar sua vida de crime, embora não possa ser visto por aqueles que “têm olhos, mas não vêem”. Se as autoridades, ao invés de abrirem a jaula e soltarem o animal, esforçassem-se em domesticá-lo – se elas o colocassem num lugar onde ele pudesse ser ensinado a viver uma vida melhor – elas salvariam outras pessoas de cometerem crimes influenciadas pela ira destes espíritos invisíveis que estão apegados à Terra e ainda cheios de desejo. A pena capital, ao invés de agir como um impedimento, realmente fomenta o crime.
+
+A humanidade de hoje está aterrorizada pela onda de crimes que está varrendo o mundo inteiro. Nenhum país está livre dela e acontece especialmente nas grandes cidades.
+
+A pergunta é sempre feita: “Qual é a causa desta degeneração?” O ocultista pode explicar a razão. Ele vê a situação no Mundo do Desejo. Ele sabe que a mais inferior divisão desta região está cheia de espíritos apegados à Terra que estão perto do plano físico. Estas criaturas estavam cheias de raiva e luxúria quando de repente foram arremessadas para esta nova vida. Tais espíritos ainda estão presos aos desejos inferiores procurando gratificá-los.
+
+### <h3 id="invisible-helpers">Auxiliares Invisíveis</h3>
+
+Neste Mundo do Desejo, estão também muitos Espíritos puros que compreendem as condições e que permanecem nestas regiões inferiores com o propósito de trabalhar com os fracos, ensinando-os e tentando guiá-los a seguir o caminho certo. Porém, estes auxiliares invisíveis só podem alcançar um número limitado. Muitos Espíritos puros e altruístas que ainda estão no corpo físico estão também trabalhando amorosamente, ajudando estes trabalhadores invisíveis enquanto estão fora do corpo durante o sono. Este é o campo de trabalho no qual os Probacionistas da Fraternidade Rosacruz estão ativos.
+
+No entanto, se um espírito demoníaco consegue gratificar sua luxúria influenciando algum espírito fraco ou um médium através do qual ele possa alimentar sua natureza inferior, ele irá levar mais tempo para dominar seus desejos e permanecerá apegado à Terra até que o mal seja totalmente purgado. Se uma pessoa morre antes de ter vencido sua natureza inferior, ela viverá entre seus semelhantes por algum tempo para poder gratificar seus desejos por bebida, tabaco ou sangue. Mesmo o sensual pode obter gratificação influenciando outros a indulgirem, de modo a obter, através deles, a satisfação vicária.
+
+Assim como o Espírito se despede de seu corpo físico na chamada morte, ele também descarta o corpo de desejos quando completa a sua experiência com ele. Então, passa ao Segundo Céu.
+
+### <h3 id="desire-shell">A Concha de Desejos</h3>
+
+A “concha” ou corpo de desejos do assassino ou da pessoa sensual leva muito mais tempo para desintegrar do que a de um Espírito evoluído. Esta “concha”, na qual o espírito construiu uma consciência separada, encaminha-se para aqueles com os quais o Ego fez conexões, aqueles com os quais ele se associou em seu corpo físico. Essas “conchas” podem ser usadas por elementais que se aderem a um médium e se manifestar como Lincoln, Wagner ou alguma pessoa conhecida que já passou para o Segundo Céu há muitos anos.
+
+### <h3 id="the-suicide">O Suicida</h3>
+
+O suicida, o pobre Espírito que por covardia destrói seu corpo físico, é um dos mais miseráveis dos espíritos apegados à Terra. Ele destruiu o templo que era a morada do Deus vivo.
+
+O ser humano durante sua vida na Terra está preparando o material com o qual ele irá construir a matriz ou o arquétipo do corpo que usará em sua próxima vida. Órgão após órgão é reforçado ou enfraquecido pelos seus atos na vida presente. Ele não pensa que seus excessos e abusos trarão conseqüências e que ele trará consigo em vidas futuras um corpo fraco como resultado, enquanto que uma simples e casta vida constrói um corpo saudável. “Como o homem semeia, assim ele também colherá.”
+
+Assim, vemos que a morte não transforma o ser humano; um pecador não se transforma num santo ao deixar seu veículo físico. O que um homem semeia na vida na Terra ele tem que colher algum dia, em algum lugar, e ele tem a oportunidade de se arrepender e purgar o mal de seus pecados nas regiões inferiores do Mundo do Desejo. Ou ele pode permanecer naquela região após a morte, apoderando-se de outros ou ainda rondando os que o atraíram na vida na Terra; ou ele pode roubar o corpo de um pobre e negativo espírito através da obsessão para continuar sua vida de pecado e então gratificar seus desejos inferiores. Mas, em algum momento, ele tem que pagar pelas ofensas cometidas; em algum momento, através da dor e do sofrimento, ele terá que purgar todos os pecados e encontrar AQUELE que o criou em seu corpo purificado e espiritualizado.
+
+### <h3 id="seances">Sessões Espíritas</h3>
+
+Ninguém que mantenha uma atitude positiva mental pode-se tornar obsedado, pois, desde que conseguimos nossa individualidade, ela é bastante forte para manter os intrusos afastados. Mas, em sessões espíritas onde os que participam são negativos, há sempre um grande perigo. O melhor caminho para evitar a obsessão é manter esta atitude positiva. Qualquer pessoa que não é inclinada a coisas negativas deve evitar sessões espíritas, contemplação de cristais e outros métodos para evocar espíritos. É uma prática condenável , pois aqueles que já fizeram a sua passagem têm seu trabalho para fazer e não devem ser trazidos aqui de volta.
