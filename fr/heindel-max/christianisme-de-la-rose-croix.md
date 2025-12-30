@@ -35,27 +35,27 @@ October, 1939
 
 ### <h3 id="table-of-contents">Table of Contents</h3>
 
-- [Foreword by Mrs. Max Heindel](#foreword)
-- [Lecture One: The Riddle of Life and Death](#lecture-1)
-- [Lecture Two: Where are the Dead?](#lecture-2)
-- [Lecture Three: Spiritual Sight and the Spiritual Worlds](#lecture-3)
-- [Lecture Four: Sleep, Dreams, Trance, Hypnotism, Mediumship, and Insanity](#lecture-4)
-- [Lecture Five: Death, and Life in Purgatory](#lecture-5)
-- [Lecture Six: Life and Activity in Heaven](#lecture-6)
-- [Lecture Seven: Birth a Fourfold Event](#lecture-7)
-- [Lecture Eight: The Science of Nutrition, Health, and Protracted Youth](#lecture-8)
-- [Lecture Nine: Astronomical Allegories of the Bible](#lecture-9)
-- [Lecture Ten: Astrology: Its Scope and Limitations](#lecture-10)
-- [Lecture Eleven: Spiritual Sight and Insight](#lecture-11)
-- [Lecture Twelve: Parsifal: Wagner's famous Mystic Music Drama](#lecture-12)
-- [Lecture Thirteen: The Angels as Factors in Evolution](#lecture-13)
-- [Lecture Fourteen: Lucifer: Tempter or Benefactor?](#lecture-14)
-- [Lecture Fifteen: The Mystery of Golgotha and the Cleansing Blood](#lecture-15)
-- [Lecture Sixteen: The Star of Bethlehem, a Mystic Fact](#lecture-16)
-- [Lecture Seventeen: The Mystery of the Holy Grail](#lecture-17)
-- [Lecture Eighteen: The Lord's Prayer](#lecture-18)
-- [Lecture Nineteen: The Coming Force - Vril or what?](#lecture-19)
-- [Lecture Twenty: Fellowship and the Coming Race](#lecture-20)
+- [Préface](#foreword)
+- [Première Conférence: L'énigme de la vie et de la mort](#lecture-1)
+- [Deuxième Conférence: Ou sont les morts?](#lecture-2)
+- [Troisième Conférence: La clairvoyance et les mondes spirituels](#lecture-3)
+- [Quatrième Conférence: Sommeil, Rêves, Hypnotisme, Médiumnité et Démence](#lecture-4)
+- [Cinquième Conférence: La Mort et la Vie au Purgatoire](#lecture-5)
+- [Sixième Conférence: La Vie et l'Activité dans le Ciel](#lecture-6)
+- [Septième Conférence: Les Quatre Phases de la Naissance](#lecture-7)
+- [Huitième Conférence: La Science de la Nutrition, de la Santé et de la Prolongation de la Jeunesse](#lecture-8)
+- [Neuvième Conférence: Les Allégories Astronomiques de la Bible](#lecture-9)
+- [Dixième Conférence: L'Astrologie, sa Portée et ses Limites](#lecture-10)
+- [Onzième Conférence: Vue et Pénétration Spirituelles](#lecture-11)
+- [Douzième Conférence: Parsifal, le Célèbre Drame Mystyque de Wagner](#lecture-12)
+- [Treizième Conférence: Les Anges et leur Rôle dans l'Évolution](#lecture-13)
+- [Quatorzième Conférence: Lucifer, Tentateur, Bienfaiteur ou tous les deux?](#lecture-14)
+- [Quinzième Conférence: Le Mystère du Golgotha et le Sang Purificateur](#lecture-15)
+- [Seizième Conférence: L'Étoil de Bethléem, Fait Mystique](#lecture-16)
+- [Dix-septième Conférence: Le Mystère du Saint-Graal](#lecture-17)
+- [Dis-huitième Conférence: L'Oraison Dominicale](#lecture-18)
+- [Dix-neuvième Conférence: La Force de l'Avenir](#lecture-19)
+- [Vingtième Conférence: Amitié (Fellowship) et Race Future](#lecture-20)
 
 ### <h3 id="diagrams">Diagrams</h3>
 
@@ -71,7 +71,7 @@ October, 1939
 
 Note: These diagrams were taken from The Rosicrucian Cosmo-Conception, by Max Heindel, and in some instances are numbered as in that book.
 
-### Première Conférence: L'ÉNIGME DE LA VIE ET DE LA MORT
+### <h3 id="lecture-1">Première Conférence: L'énigme de la vie et de la mort</h3>
 
 A chaque naissance, ce qui paraît être une vie nouvelle entre dans le monde. Lentement la petite forme grandit, vit et se meut parmi nous, elle devient un facteur qui compte dans nos vies; mais finalement vient un moment où cette forme devient inerte et se décompose. La vie qui est venue, nous ne savons pas d'où, est retournée dans l'invisible au-delà. Alors, dans le chagrin et l'angoisse, nous nous posons les trois grandes questions qui touchent à notre existence: d'où sommes-nous venus? Pourquoi sommes-nous ici? Et où allons-nous?.
 
@@ -89,11 +89,11 @@ L'énigme de la vie et de la mort est un problème fondamental: chacun de nous d
 
 Citons d'abord ces trois théories; puis voyons comment elles s'accordent avec les faits établis de la vie, et à quel point elles sont en harmonie avec d'autres lois connues de la nature, comme nous pouvons raisonnablement le supposer si elles sont vraies; car l'inharmonie est impossible dans la nature.
 
-1. La Théorie Matérialiste soutient que la vie est un voyage du berceau à la tombe; que les facultés mentales sont le produit de la matière; que l'homme est la plus haute intelligence du Cosmos; et que cette intelligence meurt lorsque le corps se désintègre après la mort.
+1\. La Théorie Matérialiste soutient que la vie est un voyage du berceau à la tombe; que les facultés mentales sont le produit de la matière; que l'homme est la plus haute intelligence du Cosmos; et que cette intelligence meurt lorsque le corps se désintègre après la mort.
 
-2. La Théorie Théologique affirme qu'à chaque naissance une âme nouvellement sortie de la main de Dieu entre sur la scène de la vie; qu'à la fin d'une courte période de vie dans le monde matériel, elle entre par les portes de la mort dans l'invisible au-delà, pour y rester; que son bonheur ou sa souffrance y sont déterminés pour l'éternité par sa foi juste avant sa mort.
+2\. La Théorie Théologique affirme qu'à chaque naissance une âme nouvellement sortie de la main de Dieu entre sur la scène de la vie; qu'à la fin d'une courte période de vie dans le monde matériel, elle entre par les portes de la mort dans l'invisible au-delà, pour y rester; que son bonheur ou sa souffrance y sont déterminés pour l'éternité par sa foi juste avant sa mort.
 
-3. La Théorie de la Renaissance enseigne que chaque esprit est partie intégrante de Dieu, qu'il contient en germe toutes les possibilités divines, comme la semence contient en germe la plante; qu'au moyen de nombreuses existences dans un corps physique de qualité graduellement croissante, ses pouvoirs latentes sont lentement transformés en pouvoirs dynamiques; qu'aucun de ces esprits ne se perd dans cette évolution, mais que tous atteindront finalement leur but, la perfection et la réunion avec Dieu, en apportant avec eux les trésors d'expériences qui sont le fruit de leur pèlerinage à travers la matière.
+3\. La Théorie de la Renaissance enseigne que chaque esprit est partie intégrante de Dieu, qu'il contient en germe toutes les possibilités divines, comme la semence contient en germe la plante; qu'au moyen de nombreuses existences dans un corps physique de qualité graduellement croissante, ses pouvoirs latentes sont lentement transformés en pouvoirs dynamiques; qu'aucun de ces esprits ne se perd dans cette évolution, mais que tous atteindront finalement leur but, la perfection et la réunion avec Dieu, en apportant avec eux les trésors d'expériences qui sont le fruit de leur pèlerinage à travers la matière.
 
 En comparant la théorie matérialiste avec les lois connues de l'univers, nous trouvons qu'elle est en contradiction avec certaines de ces lois bien établies, comme par exemple celles qui disent que la matière et la force sont indestructibles. Conformément à ces lois, le mental ne saurait être détruit à la mort comme l'affirme la théorie matérialiste, car si rien ne peut être détruit, le mental ne saurait faire exception.
 
@@ -191,7 +191,7 @@ Ainsi que l'homme, ayant ôté Son vieil habit longtemps porté, En en prenant u
 
 Ainsi l'Esprit va se défaire De l'habit de chair, doucement; Prendre son vol, pour hériter D'une demeure plus belle.
 
-### Deuxième Conférence: OU SONT LES MORTS?
+### <h3 id="lecture-2">Deuxième Conférence: Ou sont les morts?</h3>
 
 Un peu de réflexion montrera très vite à tout chercheur que nous vivons dans un monde d'effets qui est le résultat de causes invisibles. Nous voyons la matière et la forme, mais la force qui modèle les formes de la matière et les anime est invisible pour nous. La vie ne peut être connue directement par les sens; elle est invisible, et son existence propre est indépendante des formes variées qui constituent ses manifestations visibles.
 
@@ -364,7 +364,7 @@ Quand viendra ce temps, nous verrons que les soi-disant "morts" vivent autour de
     Car tout l'Univers sans limite de Dieu  
     Est Vie - Il n'y a pas de "morts".  
 
-### Troisième Conférence: LA CLAIRVOYANCE ET LES MONDES SPIRITUELS
+### <h3 id="lecture-3">Troisième Conférence: La clairvoyance et les mondes spirituels</h3>
 
 Dans la première conférence, nous avons vu que la seule théorie sur la vie qui supporte l'examen critique de la raison est la théorie d'après laquelle l'Ego humain est immortel; que la vie terrestre est une école, et que l'Ego soumis aux lois jumelles de la nature: lois de cause à effet et de renaissance, retourne à cette école vie après vie pour y apprendre ses leçons et progresser ainsi régulièrement vers le but de la Perfection.
 
@@ -392,7 +392,7 @@ Par ailleurs, dans le monde physique, les formes sont stables et ne changent pas
 
 Avant de procéder à l'étude des mondes invisibles, nous devons nous familiariser avec la conception rosicrucienne du monde physique, car elle diffère quelque peu des données généralement admises.
 
-#### LA RÉGION CHIMIQUE DU MONDE PHYSIQUE
+#### <h4 id="">La Région Chimique du Monde Physique</h4>
 
 Dans la vie courante, nous faisons une distinction entre les solides, les liquides et les gaz. Tous sont groupés par la science en un certain nombre d'éléments inorganiques, comme l'hydrogène, l'azote, l'oxygène et le carbone. De ces éléments sont construites toutes les Formes.
 
@@ -414,7 +414,7 @@ Les observations de la science sont exactes, mais c'est une sérieuse erreur d'a
 
 Par conséquent, si l'homme ne possédait rien de plus que le corps dense, il serait aussi incapable de manifester la Vie que le sont les substances chimiques dont est composé ce corps. Et s'il n'existait que ce monde physique visible, il ne pourrait jamais y avoir d'autres formes que les cristaux inertes; les végétaux, les animaux et l'homme auraient été impossibles à réaliser dans la nature.
 
-#### LA RÉGION ÉTHÉRIQUE DU MONDE PHYSIQUE
+#### <h4 id="">La Région Éthérique du Monde Physique</h4>
 
 Les Rosicruciens, en harmonie avec d'autres écoles d'occultisme, divisent chaque monde en sept "régions" ou états de la matière.
 
@@ -442,7 +442,7 @@ Il en est de même dans les autres mondes. Pour fonctionner dans ces mondes ou e
 
 Et pourtant, même la possession d'un corps dense et d'un corps vital n'est pas suffisante pour expliquer tous les faits de la vie. S'il n'y avait pas d'autres mondes dans la nature, le mouvement chez les être humains et les animaux serait une chose impossible; et même si ceux-ci avaient été créés avec le pouvoir de se mouvoir, l'incitation au mouvement et à l'action leur manquerait. La science occulte constate que l'action a son commencement dans le Monde du Désir.
 
-#### LE MONDE DU DÉSIR
+#### <h4 id="">Le Monde du Désir</h4>
 
 Tout comme le monde physique, ce monde est composé de sept régions qui divisent la matière selon sa densité relative et ses autres qualités
 
@@ -476,7 +476,7 @@ Nous voyons donc que l'action ou le fait de s'en abstenir (qui est une action n�
 
 En résumé, nous voyons que le corps dense formé de la substance inerte de la région chimique, animé et vivifié par le corps vital composé des éthers de la région éthérique, reçoit du corps du désir l'incitation à agir, incitation que les animaux suivent totalement, mais qui chez l'homme est freinée par un autre facteur; la raison, qui le détermine parfois à agir contre son désir. S'il n'y avait pas dans la nature d'autres mondes que le monde physique et le monde du désir, ce facteur ne saurait exister; nous aurions le minéral, le végétal et l'animal, mais l'homme, être pensant et doué de raison, serait une impossibilité dans la nature.
 
-#### LE MONDE DE LA PENSÉE
+#### <h4 id="">Le Monde de la Pensée</h4>
 
 Le Monde de la Pensée doit être pris en considération pour expliquer la condition de l'homme. Car de sa substance est formé l'intellect, destiné à agir comme un frein sur les impulsions du corps du désir; il nous dicte des actes contraires aux impulsions des sentiments jumeaux, grâce à un point de vue plus large auquel nous arrivons par la raison.
 
@@ -502,7 +502,7 @@ Comme conclusion, notons que les trois mondes dans lesquels nous vivons ne sont 
 
 Ainsi, chaque monde est contenu dans le monde qui est au-dessus de lui, invisible pour nous jusqu'à ce que nous ayons réalisé les conditions nécessaires. Mais lorsque nous sommes prêts, la Nature, toujours disposée à dévoiler pour nous ses merveilles, répand une ardente joie sur tout homme qui, aidant à l'évolution, acquiert ainsi droit de cité dans les mondes invisibles.
 
-### Quatrième Conférence: SOMMEIL, RÊVES, HYPNOTISME, MÉDIUMNITÉ ET DÉMENCE
+### <h3 id="lecture-4">Quatrième Conférence: Sommeil, Rêves, Hypnotisme, Médiumnité et Démence</h3>
 
 Nous avons vu que l'homme est un organisme très complexe; il comprend:
 
@@ -539,7 +539,7 @@ Le Saint-Esprit est le principe créateur dans la nature, et la force créatrice
 
 Lorsqu'une personne est la victime d'un hypnotiseur, elle cesse d'être son propre maître et perd sa faculté de pensée indépendante, étant sous l'emprise des suggestions de l'hypnotiseur, lesquelles sont en réalité des ordres, car la victime n'a pas à choisir, mais doit obéir. C'est pourquoi, comme l'hypnotiseur intervient dans les facultés créatrices de pensée de sa victime, facultés qui sont l'expression directe du Saint-Esprit, il commet le péché contre le Saint-Esprit.
 
-#### L'ÉTAT DE VEILLE
+#### <h4 id="">L'État de Veille</h4>
 
 Pour donner du relief aux descriptions des conditions anormales existant dans les rêves, la léthargie, l'hypnotisme, la médiumnité, l'obsession et la démence, nous commencerons par expliquer la condition de l'homme dans les états normaux de veille et de sommeil, considérés du point de vue de la science occulte.
 
@@ -557,7 +557,7 @@ Nous avons dans notre corps deux systèmes nerveux, le "volontaire" et l' "invol
 
 C'est cette lutte entre le corps vital et le corps du désir qui produit la conscience dans le monde physique. Mais si le mental n'agissait pas comme un frein sur le corps du désir, nos heures de veille seraient très courtes, ainsi que nos vies; en effet, le bienfaisant corps vital serait vite écrasé par le corps du désir, comme le montre par exemple l'épuisement qui suit un accès de colère, car la colère est un état dans lequel l'homme a "perdu la maîtrise de soi" et où le corps du désir gouverne sans frein.
 
-#### SOMMEIL ET TRANSE NATURELLE
+#### <h4 id="">Sommeil et Transe Naturelle</h4>
 
 En dépit de tous ses efforts, cependant, le corps vital perd lentement du terrain au cours de la journée; les poisons des tissus qui s'usent s'accumulent et entravent le cours du fluide vital, dont l'influx devient de plus en plus lent. De ce fait, le corps visible montre des signes d'épuisement. Enfin le corps vital s'affaisse; le fluide vital cesse de couler le long des nerfs en quantité suffisante pour maintenir l'équilibre du corps dense, ce qui le rend inconscient, et par là même impropre à son utilisation par l'esprit: c'est le sommeil.
 
@@ -575,7 +575,7 @@ Alors, et alors seulement, commence le travail de restauration des véhicules la
 
 Il en résulte que le corps dense est régénéré et débordant de vie lorsque corps du désir, mental et Ego y rentrent le matin et l'obligent à s'éveiller.
 
-#### RÊVES
+#### <h4 id="">Rêves</h4>
 
 Parfois, cependant, nous avons été si absorbés et intéressés par les affaires du jour que, même après que le corps vital s'est affaissé et a rendu le corps dense inconscient, nous ne pouvons nous décider à le quitter et à commencer le travail de restauration; le corps du désir s'accroche, n'est expulsé qu'à moitié par l'Ego et se met à ressasser les évènements de la journée dans cette position.
 
@@ -591,7 +591,7 @@ Tous les rêves ne sont pas confus, cependant. Tels, par exemple, ceux qui appor
 
 Le temps nous manque pour donner, au cours d'une conférence, des exemples démontrant la valeur des rêves. D'ailleurs la presse quotidienne est remplie d'exemples de gens l'ayant providentiellement échappé belle grâce à des rêves prémonitoires. Les archives de la Société pour les Recherches Psychiques contiennent de nombreux témoignages, et quiconque recherche des preuves n'aura aucune peine à en trouver.
 
-#### HYPNOTISME
+#### <h4 id="">Hypnotisme</h4>
 
 Ce qui caractérise les corps invisibles de l'homme, c'est qu'ils subissent l'action de la "volonté". Toute impulsion à l'action qui vient de l'intérieur prend son origine dans la volonté de l'homme lui-même, alors que les incitations à l'action provenant de sources extérieures, communément appelées "circonstances" ont leur origine dans la volonté des autres. La différence entre l'homme de caractère fort, bon ou mauvais, et l'homme faible, est que le premier est mû par sa propre volonté, agissant de l'intérieur, ce qui le rend capable de faire son chemin comme il le veut, indifférent aux circonstances.
 
@@ -617,7 +617,7 @@ On affirme quelquefois que l'hypnotisme peut être utilisé à bon escient pour 
 
 A la mort de l'hypnotiseur, toutes ses victimes sont libérées, et aucune suggestion ne les contraindra plus à une date ultérieure.
 
-#### MÉDIUMNITÉ
+#### <h4 id="">Médiumnité</h4>
 
 Pour comprendre la médiumnité, il est nécessaire de savoir qu'à la mort se produit la même séparation que dans le sommeil, mais elle est permanente. Les soi-disant morts ont Ego, intellect, et corps du désir, et sont souvent, pendant quelque temps, conscients du monde qu'ils ont quitté. Certains s'accrochent à la vie terrestre et ne peuvent habituer leur mental à apprendre les leçons qui les attendent; nous les appelons les esprits "liés à la terre". Ils ne peuvent cependant pas agir dans le monde visible sans un corps, aussi prennent-ils avantage du fait que tous les esprits incarnés ne sont pas confinés avec une égale rigueur dans la prison du corps dense. Ceux qui sont le plus étroitement liés sont les matérialistes absolus; ceux dont les liens sont plus relâchés sont les "sensitifs", capables de réagir dans une certaine mesure à des vibrations spirituelles. Les êtres ainsi constitués et de caractère positif, s'ils se développent, le font par leur propre volonté, et deviennent des clairvoyants exercés. Ceux dont la volonté est faible ne peuvent se développer qu'avec l'aide d'autres personnes, et d'une manière négative. Ils deviennent la proie des esprits liés à la terre, qui se constituent leurs "esprits-guides" et font de leurs victimes des" médiums à transe" ou, si la liaison entre les corps dense et vital de la victime est particulièrement relâchée, des médiums à matérialisation".
 
@@ -633,7 +633,7 @@ Dans certains cas, il ne se contente pas d'emprunter un corps, il le vole, et ma
 
 Il existe certains moyens de se débarrasser de l'obsession d'un esprit et de rendre le corps à son possesseur, mais ceci ne saurait être donné publiquement.
 
-#### DÉMENCE
+#### <h4 id="">Démence</h4>
 
 Nous avons vu qu'à l'état de veille, le corps dense et le corps vital sont à la fois entourés et interpénétrés par un nuage ovoïde comprenant le corps du désir et l'intellect. Ces véhicules sont tous concentriques et forment autant de maillons dans une chaîne. C'est leur interpénétration, telle que les centres sensoriels d'un véhicule sont correctement ajustés aux centres sensoriels de l'autre, qui permet à l'Ego de diriger cet organisme complexe, et d'accomplir d'une manière ordonnée les processus vitaux que nous appelons raison, parole et action.
 
@@ -645,7 +645,7 @@ Lorsque la rupture est entre le mental et l'Ego, le mental se charge des trois v
 
 La leçon objective à tirer de la connaissance de ces faits est que nous devons rester notre propre maître et ne devons jamais, sous aucun prétexte, accepter d'être hypnotisés ou commandés par une emprise extérieure. Notre but est la maîtrise de soi et non de dominer les autres.
 
-### Cinquième Conférence: LA MORT ET LA VIE AU PURGATOIRE
+### <h3 id="lecture-5">Cinquième Conférence: La Mort et la Vie au Purgatoire</h3>
 
 Parmi toutes les incertitudes qui sont la caractéristique de ce monde, il n'est qu'une seule certitude: la mort. A un moment ou un autre, après une vie courte ou longue, vient cette fin de la phase matérielle de notre existence, qui est une naissance dans un monde nouveau, puisque ce que nous appelons "naissance" est, selon le mot splendide de Wordsworth, un oubli du passé:
 
@@ -747,7 +747,7 @@ Si le meurtrier a échappé à l'exécution et que sa victime ait quitté le Pur
 
 C'est ainsi que l'Ego se purifie du mal de toute nature; grâce a l'action impersonnelle de la loi de cause à effet, il est prêt à entrer au ciel pour y être fortifié dans le bien, comme il vient d'être découragé de mal faire. 
 
-### Sixième Conférence: LA VIE ET L'ACTIVITÉ DANS LE CIEL
+### <h3 id="lecture-6">Sixième Conférence: La Vie et l'Activité dans le Ciel</h3>
 
 Nous avons vu dans la dernière conférence comment nos actes mauvais de la vie terrestre et nos habitudes indésirables sont traitées par l'impersonnelle loi de cause à effet, et réparés dans les vies futures; et, pour donner des exemples, nous avons noté la manière dont opère cette loi, dans les cas de meurtriers, suicidés, ivrognes et avares. Toutefois, il s'agit ici de cas extrêmes, et beaucoup de gens ont vécu des vies moralement bonnes, entachées plutôt d'égoïsme mesquin (ce péché qui nous assiège si facilement - Hébreux 12:1) que de mal véritable; pour eux, le séjour dans les régions du monde du désir qui constituent le Purgatoire, est naturellement abrégé dans une mesure correspondante, et la souffrance subie est allégée. En temps voulu, tous passent donc dans les régions supérieures du monde du désir, où est situé le premier Ciel.
 
@@ -897,7 +897,7 @@ Ayant ainsi progressé à travers le deuxième ciel, l'Ego se retire enfin de la
 
 DIAGRAMME: "UN CYCLE DE VIE" -- CLIQUER ICI.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-### Septième Conférence: LES QUATRE PHASES DE LA NAISSANCE
+### <h3 id="lecture-7">Septième Conférence: Les Quatre Phases de la Naissance</h3>
 
 Lorsque nous avons quitté l'Ego au cours de son pèlerinage à travers les mondes invisibles, nous avions atteint le point où il entrait dans le troisième ciel, après avoir abandonné son corps dense à la mort, son corps vital peu de temps après, et son corps du désir en quittant le purgatoire et le premier ciel; finalement, avant de sortir du deuxième ciel, il abandonne aussi derrière lui la gaine de l'intellect, pour entrer dans le troisième ciel, absolument libre et sans rien qui l'encombre. Tous les véhicules abandonnés se détruisent, seul persiste l'Esprit, baignant pendant un temps dans le grand réservoir de force spirituelle que nous appe lons le troisième ciel, de manière à se fortifier pour sa prochaine renaissance à la vie sur Terre.
 
@@ -1029,7 +1029,7 @@ C'est maintenant qu'il faut lui apprendre à étudier les choses par lui-même, 
 
 Pénétrons-le de la nécessité d'un examen approfondi avant tout jugement, et aussi du fait que plus il gardera de mobilité à ses opinions, mieux il sera capable d'étudier des faits nouveaux et d'acquérir des notions nouvelles. Il atteindra ainsi sa majorité à 2l ans, moment où l'intellect à son tour est entièrement libre; et il sera capable de prendre place dans le monde en citoyen complet, en adulte accompli, faisant honneur à ceux dont les soins aimants l'ont protégé pendant ses années de croissance.
 
-### Huitième Conférence: LA SCIENCE DE LA NUTRITION, DE LA SANTÉ ET DE LA PROLONGATION DE LA JEUNESSE
+### <h3 id="lecture-8">Huitième Conférence: La Science de la Nutrition, de la Santé et de la Prolongation de la Jeunesse</h3>
 
 Dans les précédentes conférences, nous avons constamment essayé de faire ressortir la valeur du corps physique: c'est bien la plus précieuse de nos possessions matérielles et, chose surprenante, c'est aussi celle que nous négligeons le plus. Pour protéger des biens sans valeur, nous risquons notre vie, jetant le blé pour garder l'ivraie. Mais notre plus grand crime n'est pas de commettre cette erreur à l'occasion; le plus grand dommage provient de la négligence et de l'insouciance dont nous faisons preuve chaque jour, dès avant la naissance et jusqu'au moment de la mort.
 
@@ -1117,7 +1117,7 @@ Imaginez deux hôtels, dont l'un est dirigé avec le sens de la cordialité et d
 
 Prendre plaisir à sa nourriture est une attitude mentale encore plus importante que la mastication. L'homme qui trouve à redire à son repas est comme un propriétaire d'hôtel qui accueillerait ses clients à la porte avec une figure renfrognée, et leur demanderait: "Que venez-vous faire ici? Je ne vous aime pas; je suit obligé de prendre des clients comme vous pour que mon hôtel continue à marcher, mais vous devez savoir que je n'aime pas cela". Quoi d'étonnant si des voyageurs, obligés d'entrer dans cet hôtel, se fâchent, protestent et tâchent de s'en aller aussi vite que possible; quoi d'étonnant à ce que l'homme qui blâme sa nourriture attrape une indigestion? Qui donc est responsable de son malheur, sinon lui-même? La critique et l'aversion écartent de nous ce qu'il y a de bon dans nos aliments, autant qu'ils éloignent de nous nos amis; apprécier nos aliments comme nos amis resserre au contraire nos liens avec les uns et les autres. La somme de travail, spirituel aussi bien que matériel, que nous pouvons faire dans le monde, dépend de la condition de notre corps: il est donc de la plus grande importance que nous cultivions notre santé, en prolongeant notre jeunesse jusqu'à la limite de notre séjour ici-bas, si possible En suivant les directives générales données ici, chacun éprouvera bientôt dans sa condition corporelle une amélioration qui donnera un plus grand et plus libre essor à ses facultés mentales.
 
-### Neuvième Conférence: LES ALLÉGORIES ASTRONOMIQUES DE LA BIBLE
+### <h3 id="lecture-9">Neuvième Conférence: Les Allégories Astronomiques de la Bible</h3>
 
 Dans les conférences précédentes, nous avons considéré l'homme comme une unité, en montrant comment l'être humain, un esprit, possède plusieurs corps ou véhicules de conscience en plus de son corps dense, et la façon dont il les emploie pour accumuler de l'expérience, ainsi qu'un ouvrier emploie ses instruments. Nous avons montré comment l'expérience est amassée pendant chaque vie et assimilée entre la mort et la naissance suivante, de telle manière qu'à chaque nouvelle vie sur terre, nos facultés soient constituées par la somme de toutes nos expériences dans les vies antérieures. Nous avons enfin montré comment nous progressons ainsi vers le but glorieux de la perfection, que nous atteindrons tous avant que cesse la nécessité de revenir sur la Terre, où chaque vie dans un corps physique dense est comme un jour de classe pour un enfant. Quand nous aurons appris tout ce qui peut être appris ici-bas, nous trouverons d'autres évolutions plus élevées où nous pourrons entrer exactement comme un enfant entre à l'école primaire après être passé par l'école maternelle.
 
@@ -1215,7 +1215,7 @@ Ceci nous rappelle à l'esprit la solution astronomique de ce passage de l'Apoca
 
 Nous voyons donc que le combat entre la Lumière et les Ténèbres dans le monde physique est en connexion étroite, dans les Ecritures des différentes religions, avec le combat des puissances de la lumière et de la vie contre celle des ténèbres et de l'ignorance; et que cette vérité est universellement répandue parmi les peuples dans tous les temps. Les mythes des tueurs de dragons renferment la même vérité; là où les Grecs racontent la victoire d'Apollon sur Python, et celle d'Hercule sur le dragon des Hespérides, l'homme du Nord parle du combat de Beowulf tuant le serpent de feu, celui de Siegfried tuant le dragon Fafner ou celui de St-Georges et du Dragon. A notre époque matérialiste, ces vérités sont temporairement reléguées dans l'oubli ou considérées comme des contes de fées sans aucun fond de vérité: mais les temps viendront, et ils ne sont pas loin, où ces reliques, qui incarnent de grandes vérités spirituelles, seront remises en honneur.
 
-### Dixième Conférence: L'ASTROLOGIE, SA PORTÉE ET SES LIMITES
+### <h3 id="lecture-10">Dixième Conférence: L'Astrologie, sa Portée et ses Limites</h3>
 
 Dans les temps modernes, la science de l'Astrologie est considérée comme une erreur abandonnée; de même que le clairvoyant, l'astrologue est pris pour un charlatan, et non sans raison, car vous pouvez trouver presque dans chaque journal des annonces offrant d'établir un horoscope décrivant votre sort du berceau à la tombe, pour une somme modique, ce qui justifie jusqu'à un certain point l'appellation de "charlatan". Cette conférence a pour but de montrer un autre aspect peu connu du public, de cette science ancienne et mal jugée, et d'en faire connaître les applications et les limites.
 
@@ -1315,7 +1315,7 @@ Un navire fait voile à l'ouest, l'autre au levant; Ce sont les mêmes vents qui
 
 Pareils aux vents des mers, les arrêts du destin Nous poussent à travers notre vie inquiète; Mais ce qui cependant fixe le but lointain C'est notre âme, et non pas le calme ou la tempête.
 
-### Onzième Conférence: VUE ET PÉNÉTRATION SPIRITUELLES
+### <h3 id="lecture-11">Onzième Conférence: Vue et Pénétration Spirituelles</h3>
 
 Lorsque nous disons "vue spirituelle" nous ne parlons pas symboliquement, ou d'une chose vague, une sensation d'extase, mais d'une faculté bien définie, aussi réelle que la vue physique. Cette faculté est autant nécessaire à la perception des mondes spirituels et à la véritable pénétration des conditions hyperphysiques, que la vue physique est indispensable à la pénétration approfondie des choses matérielles.
 
@@ -1443,7 +1443,7 @@ Lorsque soixante comptes rendus consécutifs auront été reçus par le Siège, 
 
 3İ les Disciples, qui ont terminé leur temps de probation et ont été acceptés par les Frères Aînés; ils reçoivent l'instruction individuelle.
 
-### Douzième Conférence: PARSIFAL, LE CÉLÈBRE DRAME MYSTIQUE DE WAGNER
+### <h3 id="lecture-12">Douzième Conférence: Parsifal, le Célèbre Drame Mystyque de Wagner</h3>
 
 En regardant autour de nous dans le monde matériel, nous voyons une multitude de formes. Ces formes ont une certaine couleur, et beaucoup d'entre elles émettent un son - on peut même dire toutes, car le son existe jusque dans la nature dite inanimée. Le vent dans les arbrees, le murmure des ruisseaux, la houle de l'océan, tous ces sons contribuent à l'harmonie de la nature.
 
@@ -1589,7 +1589,7 @@ Dans son beau poème, "Le Nautile cloisonné" Oliver Wendell Holmes a exprimé e
     De ton écaille devenue inutile,  
     Tu quitteras la mer agitée de la Vie!  
 
-### Treizième Conférence: LES ANGES ET LEUR RÔLE DANS L'ÉVOLUTION
+### <h3 id="lecture-13">Treizième Conférence: Les Anges et leur Rôle dans l'Évolution</h3>
 
 Quand nous parlons d'évolution, l'idée qui se présente à un esprit occidental est surtout d'ordre matérialiste. Nous nous sommes habitué à considérer la question d'un point de vue purement scientifique, qui est le suivant: notre système solaire provient de ce qui fut autrefois le brouillard de feu d'une nébuleuse, dans laquelle se formèrent spontanément des courants qui la mirent en mouvement; elle prit une forme sphérique et en se contractant rejeta des anneaux à sa périphérie; ces anneaux se rompirent et formèrent des planètes qui se refroidirent et se solidifièrent. Une de ces planètes, notre Terre, produisit, par génération spontanée, des organismes simples; plus tard ceux-ci, par le processus de l'évolution, devinrent de plus en plus complexes, s'élevant à travers les Rayonnés (étoiles de mer, oursins), les Mollusques (huîtres, moules), et les Articulés (crabes, homards) jusqu'aux Vertébrés; après avoir traversé les quatre classes de Vertébrés - Poissons, Reptiles, Oiseaux et Mammifères - cette impulsion évolutionnaire spontanée atteint son degré actuel le plus élevé chez l'Homme, qui est regardé comme la fine fleur de l'évolution, la plus haute intelligence du Cosmos.
 
@@ -1699,7 +1699,7 @@ Mais la Loi produit le péché; son influence est séparatrice et l'homme doit a
 
 Quand le Christianisme aura complètement spiritualisé le corps vital, une phase encore plus élevée sera la Religion du Père qui, comme Initié le plus haut de la Période de Saturne, aidera l'homme à spiritualiser le corps physique dont le développement commença à cette période. Alors la Fraternité elle-même sera dépassée - il n'y aura plus ni Moi ni Toi, car nous serons consciemment Un en Dieu; et l'homme sera parvenu à l'émancipation grâce à l'aide antérieure des Anges, des Archanges et autres Hiérarchies.
 
-### Conférence 14: LUCIFER, TENTATEUR, BIENFAITEUR OU TOUS LES DEUX?
+### <h3 id="lecture-14">Quatorzième Conférence: Lucifer, Tentateur, Bienfaiteur ou tous les deux?</h3>
 
 Quand nous regardons autour de nous, rien n'est plus évident que ce fait exprimé par le poète hébreu: "L'homme, sa vie est courte, sans cesse agitée" (Job 14:1); et naturellement nous nous demandons pourquoi il en est ainsi.
 
@@ -1818,7 +1818,7 @@ Cette race est mentionnée sous le nom de "Race du Christ". Cependant il faut bi
     La Croix du Golgotha tu contemples en vain  
     Si toi-même en ton coeur tu ne l'élèves point.  
 
-### Quinzième Conférence: LE MYSTÈRE DU GOLGOTHA ET LE SANG PURIFICATEUR
+### <h3 id="lecture-15">Quinzième Conférence: Le Mystère du Golgotha et le Sang Purificateur</h3>
 
 Pendant les deux mille ans d'existence du Christianisme, et depuis que les doctrines de la Rédemption et du Sang purificateur ont pénétré dans notre monde occidental, des discussions se sont élevées, particulièrement dans les siècles derniers, pour savoir s'il y a réellement quelque efficacité dans ce Sang purificateur, ou s'il s'agit seulement d'une légende. Nous espérons montrer, à la lumière de l'occultisme et de la raison, que cette doctrine renferme quelque chose d'infiniment grand, plus grand que personne ne l'a jamais imaginé. Nous pourrons après cela laisser nos coeurs admettre sans restriction la grande et glorieuse idée du Sang purificateur et du sacrifice réalisé il y a deux mille ans sur le Golgotha (en hébreu), ou "place du crâne.
 
@@ -1906,7 +1906,7 @@ Le corps de Jésus devait être tué et son sang devait couler: par cette mort v
 
 Lorsque ce Grand Etre se dégagea du corps de Jésus par les blessures, ce lumineux Esprit Solaire se répandit sur la Terre entière: et ce furent les ténèbres dont il nous est parlé, car cette lumière spirituelle ne pouvait paraître aux hommes que ténèbres. Mais graduellement Il fut absorbé par la Terre où Il s'établit, permettant à toutes choses, sous Son influence, de revenir à leur condition normale, autant que l'homme pouvait s'en rendre compte. Et les vibrations existantes furent purifiées, l'ordre rythmique des vibrations fut rétabli dans les mondes supérieurs, et une impulsion spirituelle fut donnée qui n'aurait pu l'être autrement: c'est bien de cette manière que le sang du Christ purifia le monde et "enleva le péché du monde", en rétablissant les vibrations rythmiques de manière à permettre à l'homme de progresser. Cette influence est toujours à l'oeuvre pour purifier le monde: elle est la source de l'altruisme et de la bonne volonté qui remplacent progressivement le patriotisme et l'égoïsme, apportant au monde la Fraternité et l'Amitié universelles.
 
-### Seizième Conférence: L'ÉTOILE DE BETHLÉEM, FAIT MYSTIQUE
+### <h3 id="lecture-16">Seizième Conférence: L'Étoil de Bethléem, Fait Mystique</h3>
 
 Il y a plus de 1900 ans, naquit en Palestine un enfant: il naît des enfants chaque jour de chaque mois, d'un bout de l'année à l'autre, sur toute la surface du globe. Mais cette naissance fut différente de toutes les autres; elle eut lieu au milieu de grandes manifestations spirituelles. Des choeurs d'anges annoncèrent cet Etre de paix, qui devait donner à l'homme le plus précieux des dons, la Paix sur la Terre et la Bonne Volonté parmi les hommes: combien c'est nécessaire!
 
@@ -2018,7 +2018,7 @@ Telle est la clé des trois présents offerts par les Mages: l'Esprit, l'âme et
     La Croix du Golgotha tu contemples en vain  
     Si toi-même en ton coeur tu ne l'élèves point.  
 
-### Dix-septième Conférence: LE MYSTÈRE DU SAINT-GRAAL
+### <h3 id="lecture-17">Dix-septième Conférence: Le Mystère du Saint-Graal</h3>
 
 Dans cette conférence, nous allons étudier un de ces anciens Mystères qui existaient au Moyen Age en beaucoup d'endroits du monde occidental, et qui ont toujours existé sous différentes formes et en différentes contrées, depuis la naissance de la conscience humaine.
 
@@ -2044,7 +2044,7 @@ Si le contact était fait de bois ou de verre, il ne serait d'aucune utilité; i
 
 Si nos prières sont égoïstes, mondaines et négligent notre prochain, elles sont alors comme un contact en bois; elles vont à l'encontre du but recherché, parce qu'elles sont contraires aux dessins divins. Pour avoir une valeur, la prière doit être en harmonie avec la nature même de Dieu, qui est Amour. Les vers suivants, parus dans "London-Light" il y a bien des années, ont été précieusement gardés par l'auteur comme
 
-#### UNE PRIÈRE IDÉALE
+#### <h4 id="">Une Prière Idéale</h4>
 
     Je ne demande pas plus de lumière, ô Dieu,  
     Mais des yeux qui voient ce qui est.  
@@ -2182,7 +2182,7 @@ Si nous pouvions trouver le moyen de conserver ce carbone, nous deviendrions ce 
 
 DIAGRAMME "LES QUATRE RÈGNES" - CLIQUER ICI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-### Dis-huitième Conférence: L'ORAISON DOMINICALE
+### <h3 id="lecture-18">Dis-huitième Conférence: L'Oraison Dominicale</h3>
 
 Beaucoup de personnes ayant sérieusement réfléchi aux problèmes de la vie supérieure ont malheureusement abandonné les façons de penser de leur enfance. Elles ont cessé de croire aux enseignements de l'Eglise sur l'expiation, le pouvoir rédempteur de la foi, l'efficacité de la prière et autres dogmes de même ordre. Bien que selon l'opinion de ceux qui recherchent honnêtement et sincèrement la vérité, ces idées puissent sembler fallacieuses, nous voudrions néanmoins donner, des points suivants, une étude impartiale qui permette de les juger en connaissance de cause. Ainsi envisagés, les enseignements de l'Eglise apparaîtront dans une lumière jusqu'ici inconnue, qui leur donnera une signification nouvelle et plus grande, plus satisfaisante pour le coeur et parfaitement acceptable pour l'intelligence.
 
@@ -2312,7 +2312,7 @@ Les animaux suivent aveuglément leurs désirs et ne commettent pas de péché: 
 
 C'est ainsi que l'Oraison Dominicale s'étend à toutes les parties de la constitution humaine et énonce les besoins de chacune d'elles, ce qui montre la merveilleuse sagesse contenue dans cette simple formule.
 
-### Dix-neuvième Conférence: LA FORCE DE L'AVENIR
+### <h3 id="lecture-19">Dix-neuvième Conférence: La Force de l'Avenir</h3>
 
 On parle tant des mondes intérieurs du point de vue occulte, on insiste tellement sur le fait que nous possédons des véhicules supérieurs que nous pouvons développer et utiliser, qu'il semble nécessaire de mettre parfois en relief l'énorme valeur du corps dense et du monde visible avec lequel il nous met en relation, et de combattre le dédain de certaines personnes pour le monde dans lequel nous vivons actuellement.
 
@@ -2420,7 +2420,7 @@ Quand l'homme aura spiritualisé son être sous l'influence de la religion artis
 
 Toutes choses dans la Nature ont été appelées à l'existence par le Verbe qui s'est fait chair (Jean 1). Le Son (Verbe) ou Pensée parlée sera la prochaine force de l'homme en manifestation, une force qui fera de nous des hommes-dieux créateurs, lorsque par notre actuel apprentissage, nous nous serons rendus aptes à utiliser un pouvoir si énorme, pour le bien de tous, sans égard à notre intérêt personnel.
 
-### Vingtième Conférence: AMITIÉ (FELLOWSHIP) ET RACE FUTURE
+### <h3 id="lecture-20">Vingtième Conférence: Amitié (Fellowship) et Race Future</h3>
 
 Issus du noir chaos, de ses petits atomes, Nous sommes devenus enfin ce que nous sommes; Nulle force cachée ne peut nous arrêter, Et nous saurons toujours d'astre en astre monter. Nous briserons les fers, jetterons les entraves. Qui nous ont jusqu'ici toujours tenus en esclaves; Car le monde aujourd'hui est plus rempli d'amour Qu'il ne l'avait jamais été jusqu'à ce jour!
 
