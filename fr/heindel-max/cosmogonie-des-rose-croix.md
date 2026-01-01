@@ -2911,9 +2911,7 @@ Les matérialistes en ont tiré la conclusion qu'il n'y a pas de religion qui ti
 
 Ce fait ne tient pas compte du fait que l'homme n'est pas un corps, mais un esprit intérieur, un Ego qui se sert du corps avec une facilité toujours croissante à mesure que l'évolution avance.
 
-En ce qui concerne le corps, on ne saurait douter de la valeur de la loi de "la Sélection Naturelle".
-
-Quant à l'évolution de l'esprit, la loi est celle du "Sacrifice". Tant que l'homme croit que la "Force prime le Droit" la Forme prospère et devient plus vigoureuse parce qu'elle renverse tous les obstacles qui sont sur son chemin, sans égard pour les autres. S'il n'y avait rien de plus que le corps, cette manière de vivre serait la seule possible pour l'homme. Il serait absolument incapable d'aucune considération pour les autres et résisterait vigoureusement à toute tentative qui empiéterait sur ce qu'il considère comme étant son droit, le droit du plus fort, qui est la seule base de la justice, sous la loi de la Sélection Naturelle. Il n'aurait pas le moindre égard pour ses semblables et serait absolument insensible à toute force extérieure qui tendrait à le faire agir d'une manière qui ne contribue pas momentanément à assurer son plaisir personnel.
+En ce qui concerne le corps, on ne saurait douter de la valeur de la loi de "la Sélection Naturelle". Quant à l'évolution de l'esprit, la loi est celle du "Sacrifice". Tant que l'homme croit que la "Force prime le Droit" la Forme prospère et devient plus vigoureuse parce qu'elle renverse tous les obstacles qui sont sur son chemin, sans égard pour les autres. S'il n'y avait rien de plus que le corps, cette manière de vivre serait la seule possible pour l'homme. Il serait absolument incapable d'aucune considération pour les autres et résisterait vigoureusement à toute tentative qui empiéterait sur ce qu'il considère comme étant son droit, le droit du plus fort, qui est la seule base de la justice, sous la loi de la Sélection Naturelle. Il n'aurait pas le moindre égard pour ses semblables et serait absolument insensible à toute force extérieure qui tendrait à le faire agir d'une manière qui ne contribue pas momentanément à assurer son plaisir personnel.
 
 Il est donc manifeste que toute impulsion qui pousse l'homme à l'adoption d'un idéal plus élevé de conduite dans ses relations avec les autres hommes doit venir de l'intérieur et d'une source qui ne peut être identifiée avec le corps car, autrement, elle n'entrerait pas en lutte avec lui et ne prévaudrait pas souvent contre ses intérêts les plus évidents. De plus, cette force doit être supérieure à celle du corps; sans cela, elle ne pourrait pas réussir à vaincre ses désirs et à le forcer à faire des sacrifices pour ceux qui sont physiquement plus faibles.
 
@@ -2987,8 +2985,6 @@ Ce tableau montre aussi quels sont les véhicules de ces différents ordres d'Et
 
 D'un autre côté, les Initiés ont progressé et ils ont développé pour eux-mêmes des véhicules supérieurs et ils ont abandonné l'usage courant de leur véhicule inférieur, quand ils ont obtenu la faculté de se servir d'un corps nouveau et supérieur. D'ordinaire, le véhicule inférieur d'un Archange est le corps du désir, mais le Christ Qui est le plus haut Initié de la Période du Soleil, utilise généralement l'esprit de vie comme véhicule inférieur et fonctionne aussi consciemment dans le Monde de l'Esprit de vie que nous fonctionnons dans le Monde Physique. Nous prions l'étudiant de prendre spécialement note de ce point, car le Monde de l'Esprit de Vie est le premier Monde Universel, comme l'explique le chapitre sur les Mondes. C'est le Monde dans lequel la différenciation cesse et où l'unité commence à être réalisée, en ce qui concerne notre système solaire.
 
-Tableau 16. Le Père, le Fils et le Saint-Esprit!!!!!!!!!!!!!!!!!!!!!!!
-
 Le Christ a le pouvoir de construire et d'employer un véhicule aussi inférieur que le corps du désir, tel qu'il est utilisé par les Archanges, mais Il ne peut pas descendre plus bas. Nous verrons tout à l'heure la signification de cette particularité.
 
 Jésus appartient à notre humanité. Quand on étudie l'homme appelé Jésus, dans la mémoire de la nature, on peut remonter le cours de son évolution, de vie en vie, et retrouver les différentes circonstances dans lesquelles il vécut, ses noms divers dans des incarnations diverses, comme n'importe quel autre homme. Mais on ne peut en faire autant pour l'être appelé Christ. Dans son cas, on ne peut trouver qu'une seule incarnation.
@@ -3007,7 +3003,7 @@ Jésus fut instruit par les Esséniens et atteignit un très haut développement
 
 On peut dire ici, par parenthèse, que les Esséniens étaient la troisième secte existant à l'époque en Palestine, en même temps que les deux sectes mentionnées dans le Nouveau Testament, celle des Pharisiens et celle des Sadducéens. Les Esséniens étaient d'un ordre extrêmement pieux, très différents des Sadducéens matérialistes, et tout à fait opposé aux Pharisiens hypocrites et amis de la publicité. Ils évitaient de faire mention d'eux-mêmes, de leurs méthodes d'étude et de leur culte. C'est à cette dernière particularité qu'est dû le fait que nous ne savons presque rien d'eux et qu'ils ne sont pas mentionnés dans le Nouveau Testament.
 
-C'est une loi du Cosmos qu'un Etre, si élevé soit-il, ne peut pas fonctionner dans un Monde quelconque sans posséder un véhicule construit avec la matière de ce monde (voir les tableaux 10 et 16). Par conséquent, le corps du désir était le véhicule le plus bas du groupe d'esprits qui atteignirent la condition humaine dans la Période du Soleil.
+C'est une loi du Cosmos qu'un Être, si élevé soit-il, ne peut pas fonctionner dans un Monde quelconque sans posséder un véhicule construit avec la matière de ce monde (voir les tableaux 10 et 16). Par conséquent, le corps du désir était le véhicule le plus bas du groupe d'esprits qui atteignirent la condition humaine dans la Période du Soleil.
 
 Le Christ était un de ces esprits et Il était, par conséquent, incapable de se construire pour Lui-même un corps vital et un véhicule physique dense. Il aurait pu travailler pour l'humanité dans un corps du désir, comme le faisaient Ses plus jeunes frères les Archanges, en tant qu'Esprits de Race. Jéhovah leur avait facilité l'entrée du corps dense de l'homme par l'intermédiaire de l'air que celui-ci respirait. Toutes les Religions de Race étaient des Religions de loi qui créent le péché par désobéissance à cette loi. Elles étaient sous la direction de Jéhovah, Dont le véhicule le plus bas est l'esprit humain qui Le met en relation avec le Monde de la Pensée Abstraite, où tout tend à la séparation et même, par suite, à la recherche de l'intérêt personnel.
 
@@ -3061,7 +3057,12 @@ Il y a visiblement une contradiction formelle entre les paroles de Jésus-Christ
 
 Il y a une contradiction aussi grande entre les paroles et la manière d'agir d'une femme qui dit: "Je vais nettoyer la maison et tout mettre en ordre", et qui commence par enlever les tapis, mettre les chaises les unes sur les autres et produire une confusion générale dans une maison auparavant bien tenue. Une personne qui n'observerait que cet aspect des choses serait en droit de dire: "Elle empire les conditions au lieu de les améliorer"; mais, quand on comprend le but de son travail, on comprend l'utilité du désordre temporaire; finalement, la maison ne se trouvera que mieux du dérangement passager.
 
-De même nous devons nous rappeler que la Période de temps qui s'est écoulée depuis la venue de Jésus-Christ n'est guère qu'un instant en comparaison de la durée d'un seul Jour de Manifestation. Nous devons, comme Whitman, apprendre à "connaître l'amplitude du temps" et regarder, au-delà des cruautés et des jalousies passées et présentes des sectes en lutte, vers l'âge brillant de la Fraternité Universelle qui marquera la prochaine et grande phase du progrès de l'homme dans son long et merveilleux voyage, du limon de la terre au Dieu, du protoplasme à l'unité consciente avec le Père, ce lointain et divin événement, vers lequel tend la Création.
+De même nous devons nous rappeler que la Période de temps qui s'est écoulée depuis la venue de Jésus-Christ n'est guère qu'un instant en comparaison de la durée d'un seul Jour de Manifestation. Nous devons, comme Whitman, apprendre à "connaître l'amplitude du temps" et regarder, au-delà des cruautés et des jalousies passées et présentes des sectes en lutte, vers l'âge brillant de la Fraternité Universelle qui marquera la prochaine et grande phase du progrès de l'homme dans son long et merveilleux voyage, du limon de la terre au Dieu, du protoplasme à l'unité consciente avec le Père, ce
+
+```
+lointain et divin événement, 
+vers lequel tend la Création.
+```
 
 On peut ajouter que le pasteur mentionné auparavant, dans la cérémonie par laquelle il reçut ses élèves dans l'Eglise, leur enseigna que Jésus-Christ est un Etre complexe, que Jésus était la partie humaine et mortelle de cet Etre, tandis que le Christ était l'Esprit divin et immortel. Il est très probable que si l'on avait discuté le sujet avec lui, il n'aurait pu soutenir cette assertion; néanmoins, en le faisant, il énonçait un fait occulte.
 
@@ -3073,23 +3074,25 @@ Les trois sages: Gaspard, Melchior et Balthazar, sont les représentants des Rac
 
 On dit que l'Etoile de Bethléem apparut à l'époque de la naissance de Jésus et qu'elle guida les trois sages vers le Sauveur.
 
-On a beaucoup discuté sur la nature de cette Etoile. La plupart des hommes de science matérialistes ont déclaré qu'elle était un mythe, tandis que d'autres ont dit que, si elle était autre chose qu'un mythe, elle pourrait bien avoir été une coïncidence; deux Soleils éteints auraient pu entrer en collision et causer une conflagration. Tout mystique cependant connaît "l'Etoile" et aussi la "Croix", non seulement comme symboles de la vie de Jésus et de Jésus-Christ, mais comme faisant partie de son expérience personnelle.
+On a beaucoup discuté sur la nature de cette Etoile. La plupart des hommes de science matérialistes ont déclaré qu'elle était un mythe, tandis que d'autres ont dit que, si elle était autre chose qu'un mythe, elle pourrait bien avoir été une coïncidence; deux Soleils éteints auraient pu entrer en collision et causer une conflagration. Tout mystique cependant connaît "l'Etoile" et aussi la "Croix", non seulement comme symboles de la vie de Jésus et de Jésus-Christ, mais comme faisant partie de son expérience personnelle. Paul dit: "Jusqu'à ce que Christ soit formé en vous" (Galates 4:19), et le mystique Angelus Silesius lui fait écho:
 
-Paul dit: "Jusqu'à ce que Christ soit formé en vous" (Galates 4:19), et le mystique Angelus Silesius lui fait écho:
-
-    Le Christ serait-il né mille fois à Bethléem,  
-    S'il ne naît en toi, ton âme est solitaire,  
-    La Croix du Golgotha tu contemples en vain,  
-    Si toi-même en ton coeur, tu ne l'élèves point.  
+```
+Le Christ serait-il né mille fois à Bethléem,  
+S'il ne naît en toi, ton âme est solitaire,  
+La Croix du Golgotha tu contemples en vain,  
+Si toi-même en ton coeur, tu ne l'élèves point.  
+```
 
 Avec son intuition d'artiste, Richard Wagner fait dire à Gurnemanz, en réponse à la question de Parsifal "Qui est le Graal?":
 
-    Nous ne le disons pas, mais si tu a été appelé par Lui,  
-    La vérité ne te sera point cachée,  
-
-    ... Aucun chemin ne conduit à Son royaume,  
-    Et le chercher ne fait que L'éloigner  
-    Lorsque Lui-même n'est point le Guide.  
+```
+Nous ne le disons pas, 
+mais si tu a été appelé par Lui,  
+La vérité ne te sera point cachée,  
+... Aucun chemin ne conduit à Son royaume,  
+Et le chercher ne fait que L'éloigner  
+Lorsque Lui-même n'est point le Guide.  
+```
 
 Sous "l'ancienne dispensation", le chemin de l'Initiation n'était pas ouvert à tous. Il était réservé pour un petit nombre d'élus. On pouvait le chercher, mais seuls ceux qui étaient guidés vers les Temples par les Hiérophantes trouvaient l'entrée. Avant l'avènement du Christ, il n'y avait pas d'invitation aussi générale que "Quiconque veut peut venir."
 
@@ -3097,7 +3100,9 @@ Cependant au moment où le sang coula sur le Golgotha "le voile du temple se dé
 
 Dans les Temples des Mystères, l'Hiérophante apprenait à ses élèves qu'il y a dans le Soleil une force spirituelle aussi bien qu'une force physique. Cette dernière force des rayons solaires est le principe fécondant de la nature. Il cause la croissance du monde végétal et nourrit aussi le règne animal et le règne humain. Il est l'énergie constructive, source de toute force physique.
 
-Cette énergie physique du Soleil atteint le point culminant de sa manifestation au milieu de l'été quand les jours sont les plus longs et les nuits les plus courtes, car les rayons solaires frappent alors directement l'hémisphère nord. A cette époque-là, les forces spirituelles passent par leur minimum d'activité. D'autre part, en décembre, durant les longues nuits d'hiver, la force physique de l'orbe solaire est endormie et les forces spirituelles atteignent leur maximum d'activité.
+Cette énergie physique du Soleil atteint le point culminant de sa manifestation au milieu de l'été quand les jours sont les plus longs et les nuits les plus courtes, car les rayons solaires frappent alors directement l'hémisphère nord. A cette époque-là, les forces spirituelles passent par leur minimum d'activité.
+
+D'autre part, en décembre, durant les longues nuits d'hiver, la force physique de l'orbe solaire est endormie et les forces spirituelles atteignent leur maximum d'activité.
 
 La nuit du 24 au 25 décembre est La Nuit Sainte, par excellence, de toute l'année. Le signe Zodiacal de la Vierge céleste et immaculée se trouve à l'Est au-dessus de l'horizon, vers minuit, et le Soleil de la Nouvelle Année naît alors et commence son voyage de l'extrême point sud vers l'hémisphère nord pour sauver (physiquement) la partie de l'humanité qui l'habite de l'obscurité et de la famine qui suivraient inévitablement s'il demeurait d'une façon permanente au sud de l'équateur.
 
@@ -3109,13 +3114,17 @@ C'est pourquoi les élèves qui étaient prêts pour l'Initiation étaient pris 
 
 C'est l'Etoile qui brilla pendant la Nuit Sainte et qui brille encore pour le mystique dans l'obscurité de la nuit. Quand le bruit et la confusion dus aux activités du jour se sont apaisés, il entre dans sa retraite et cherche la voie qui mène vers le Prince de la Paix. "La Brillante Etoile" est toujours là pour le guider et son âme entend le chant prophétique: "Paix sur la Terre et Bonne Volonté envers les hommes".
 
-Paix et bonne volonté envers tous, sans exception; il n'y a pas de place pour un seul ennemi ou un seul proscrit. Faut-il s'étonner qu'il soit si difficile d'amener l'humanité à suivre une règle de conduite aussi élevée? Y a-t-il un meilleur moyen de montrer la beauté et la nécessité de la paix, de la bonne volonté et de l'amour qu'en les mettant en contraste avec l'état présent de guerre, d'égoïsme et de haine? Plus la lumière est forte, plus accentuée est l'ombre qu'elle projette. Plus notre idéal est élevé, plus aisément nous pouvons voir nos imperfections.
+Paix et bonne volonté envers tous, sans exception; il n'y a pas de place pour un seul ennemi ou un seul proscrit. Faut-il s'étonner qu'il soit si difficile d'amener l'humanité à suivre une règle de conduite aussi élevée? Y a-t-il un meilleur moyen de montrer la beauté et la nécessité de la paix, de la bonne volonté et de l'amour qu'en les mettant en contraste avec l'état présent de guerre, d'égoïsme et de haine? 
+
+Plus la lumière est forte, plus accentuée est l'ombre qu'elle projette. Plus notre idéal est élevé, plus aisément nous pouvons voir nos imperfections.
 
 Malheureusement, dans la phase actuelle de son développement, l'humanité ne consent à être instruite qu'au prix des expériences les plus pénibles. En tant que Race, il lui faut devenir absolument égoïste pour ressentir les angoisses cruelles causées par l'égoïsme d'autrui, de même qu'un homme doit avoir connu la maladie pour être tout à fait reconnaissant de se trouver en bonne santé.
 
 La religion appelée à tort Christianisme a été pour cette raison la religion la plus sanglante que nous connaissions, sans en excepter l'Islam qui, sous ce rapport, se rapproche assez de notre Christianisme mal pratiqué. Sur les champs de bataille et dans les prisons de l'Inquisition, des atrocités horribles et sans nombre ont été commises au nom du tendre Nazaréen. L'Epée et la Coupe de vin, qui sont la perversion de la Croix et du Calice de la Communion, ont été les moyens par lesquels les plus puissantes parmi les nations soi-disant chrétiennes imposèrent leur domination sur les peuples païens, et même sur d'autres peuples plus faibles qui professaient la même religion que leurs conquérants. La lecture la plus superficielle de l'histoire des Races Gréco-Latines, Teutoniques et Anglo-Saxonnes corroborera cette assertion.
 
-Alors que l'homme était complètement sous l'influence des Religions de Race, chaque nation formait un tout uni. Les intérêts de l'individu étaient volontiers subordonnés aux intérêts de la communauté. Tous étaient "soumis à la loi". Un homme était avant tout membre de sa tribu et seulement en second lieu un individu. De nos jours, il y a une tendance marquée vers l'autre extrême, une tendance à exalter le "Moi" au-dessus de tout les autres. On peut en voir les résultats dans les problèmes économiques et industriels soulevés dans chaque nation et qui demandent une solution.
+Alors que l'homme était complètement sous l'influence des Religions de Race, chaque nation formait un tout uni. Les intérêts de l'individu étaient volontiers subordonnés aux intérêts de la communauté. Tous étaient "soumis à la loi". Un homme était avant tout membre de sa tribu et seulement en second lieu un individu.
+
+De nos jours, il y a une tendance marquée vers l'autre extrême, une tendance à exalter le "Moi" au-dessus de tout les autres. On peut en voir les résultats dans les problèmes économiques et industriels soulevés dans chaque nation et qui demandent une solution.
 
 La phase de développement pendant laquelle tout homme se sent être une unité absolument distincte, un Ego qui poursuit indépendamment sa propre route, est une phase nécessaire. L'unité de la nation, de la tribu et de la famille doit être rompue avant que la Fraternité Universelle puisse devenir un fait. Le régime du Paternalisme a été supplanté dans une grande mesure par le règne de l'Individualisme. Nous sommes en train d'apprendre de mieux en mieux les désavantages de cette condition, à mesure que notre civilisation avance. Notre manque de méthode dans la distribution des produits du travail, la rapacité d'un petit nombre et l'exploitation des masses, tous ces crimes sociaux ont pour résultat une consommation restreinte, des dépressions industrielles et des troubles du travail qui détruisent la paix intérieure. La guerre industrielle de l'époque actuelle a une portée beaucoup plus grande et elle est beaucoup plus destructrice que les guerres militaires des nations.
 
@@ -3199,7 +3208,9 @@ Supposez qu'un homme paraisse qui, par pitié pour les victimes du courant, plac
 
 Que penseriez-vous d'un homme qui, étant tombé dans l'eau par sa propre négligence, lutterait de toutes ses forces pour atteindre la rive et s'écrierait: "Comment? Sauver mes jours et tâcher d'éviter le châtiment que mérite ma négligence en m'abritant derrière la force d'un autre qui souffrit sans commettre de faute personnelle et qui donna sa vie afin qu'un être tel que moi puisse vivre? Non, jamais! ce ne serait pas là une attitude "virile". Je subirai la peine que je mérite!" Ne conviendrions-nous pas que cet homme est stupide?
 
-Tous les hommes n'ont pas besoin d'être sauvés. Le Christ savait qu'il y a une très nombreuse classe d'êtres qui n'en ont pas besoin; mais, de même qu'il y en a bien quatre-vingt-dix-neuf pour cent pour qui les lois de la Renaissance et des Conséquences suffisent à assurer l'évolution et qui arriveront de cette manière à la perfection, de même, il y a des "pécheurs" qui se sont "embourbés" dans la matière et qui ne peuvent pas être sauvés sans l'aide d'une corde. Le Christ vint pour les sauver et pour apporter à tous la paix et la bonne volonté, en les élevant jusqu'au degré nécessaire de spiritualité et en amenant un changement dans leurs corps du désir qui rendra plus puissante l'influence de l'esprit de vie dans le coeur. Ses plus jeunes frères, les Esprits Solaires ou Archanges, avaient travaillé comme Esprits de Race au corps du désir de l'homme, mais leur travail avait été fait de l'extérieur. C'était simplement la réflexion d'une Force Solaire spirituelle transmise par la Lune, de même que le clair de lune est la réflexion de la lumière du Soleil. Le Christ, le plus haut Initié des Esprits Solaires, pénétra Lui-même dans le corps dense de la Terre et apporta directement la force Solaire qui Lui permit d'influencer, de l'intérieur, nos corps du désir.
+Tous les hommes n'ont pas besoin d'être sauvés. Le Christ savait qu'il y a une très nombreuse classe d'êtres qui n'en ont pas besoin; mais, de même qu'il y en a bien quatre-vingt-dix-neuf pour cent pour qui les lois de la Renaissance et des Conséquences suffisent à assurer l'évolution et qui arriveront de cette manière à la perfection, de même, il y a des "pécheurs" qui se sont "embourbés" dans la matière et qui ne peuvent pas être sauvés sans l'aide d'une corde. Le Christ vint pour les sauver et pour apporter à tous la paix et la bonne volonté, en les élevant jusqu'au degré nécessaire de spiritualité et en amenant un changement dans leurs corps du désir qui rendra plus puissante l'influence de l'esprit de vie dans le coeur. 
+
+Ses plus jeunes frères, les Esprits Solaires ou Archanges, avaient travaillé comme Esprits de Race au corps du désir de l'homme, mais leur travail avait été fait de l'extérieur. C'était simplement la réflexion d'une Force Solaire spirituelle transmise par la Lune, de même que le clair de lune est la réflexion de la lumière du Soleil. Le Christ, le plus haut Initié des Esprits Solaires, pénétra Lui-même dans le corps dense de la Terre et apporta directement la force Solaire qui Lui permit d'influencer, de l'intérieur, nos corps du désir.
 
 Un homme ne peut regarder longtemps le Soleil sans être aveuglé parce que ses vibrations sont si rapides qu'elles détruisent la rétine de l'oeil, mais il peut observer la Lune sans résultats nuisibles, car ses vibrations sont beaucoup plus lentes; cependant, elles sont aussi de la lumière solaire, mais les vibrations les plus élevées ont été absorbées par la Lune qui nous réfléchit le reste.
 
@@ -3215,7 +3226,9 @@ Sous l'ancienne dispensation, les corps du désir des hommes étaient générale
 
 Toutefois, la vie supérieure (l'Initiation) ne peut être entreprise avant que le travail sur le corps vital ne soit commencé. L'Amour, ou plutôt l'Altruisme, est le moyen employé pour développer l'activité de ce véhicule. On a tellement abusé du mot Amour qu'il n'exprime plus le sens voulu dans ce cas.
 
-Sous l'ancienne dispensation, le chemin de l'Initiation n'était ouvert qu'à un petit nombre d'élus. Les Hiérophantes des Mystères rassemblaient certaines familles près des Temples et les maintenaient séparées du reste des hommes. Ces familles choisies étaient alors rigoureusement surveillées, en ce qui concerne l'accomplissement de certains rites et de certaines cérémonies. Leurs mariages et leurs rapports sexuels étaient contrôlés par les Hiérophantes. Cette manière de procéder eut pour résultat de produire une race qui offrait le degré propre de relâchement entre le corps dense et le corps vital, et aussi de tirer le corps du désir de sa condition léthargique pendant le sommeil. Ainsi, un petit nombre d'individus furent préparés pour l'Initiation et eurent des occasions d'avancement qui ne pouvaient être données à tous. Nous voyons des exemples de cette méthode parmi les Juifs chez lesquels les membres de la tribu de Lévi étaient choisis pour le service du temple; de même, dans la caste des Brahmanes, qui était la seule classe sacerdotale parmi les Hindous.
+Sous l'ancienne dispensation, le chemin de l'Initiation n'était ouvert qu'à un petit nombre d'élus. Les Hiérophantes des Mystères rassemblaient certaines familles près des Temples et les maintenaient séparées du reste des hommes. Ces familles choisies étaient alors rigoureusement surveillées, en ce qui concerne l'accomplissement de certains rites et de certaines cérémonies. Leurs mariages et leurs rapports sexuels étaient contrôlés par les Hiérophantes. 
+
+Cette manière de procéder eut pour résultat de produire une race qui offrait le degré propre de relâchement entre le corps dense et le corps vital, et aussi de tirer le corps du désir de sa condition léthargique pendant le sommeil. Ainsi, un petit nombre d'individus furent préparés pour l'Initiation et eurent des occasions d'avancement qui ne pouvaient être données à tous. Nous voyons des exemples de cette méthode parmi les Juifs chez lesquels les membres de la tribu de Lévi étaient choisis pour le service du temple; de même, dans la caste des Brahmanes, qui était la seule classe sacerdotale parmi les Hindous.
 
 La mission du Christ était de sauver ceux qui étaient perdus, mais aussi de rendre l'initiation possible pour tous; aussi Jésus n'était-il pas un Lévite pour qui la fonction sacerdotale était un droit de naissance. Il sortait du peuple ordinaire et, bien qu'Il n'ait pas appartenu à la classe des instructeurs, Ses enseignements étaient supérieurs à ceux de Moïse.
 
@@ -3261,33 +3274,41 @@ Les Frères Aînés, Jésus parmi eux, se sont efforcés et s'efforcent encore d
 
 Puissent leurs efforts être couronnés de succès et hâter la venue du jour où la science sera spiritualisée et conduira ses investigations de la matière au point de vue de l'esprit, car alors, et alors seulement, elle arrivera à une connaissance vraie du monde.
 
-Tableau 17. "Sur la Terre comme au Ciel"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 ### <h3 id="chapter-16">Chapitre 16: Développement Futur et Initiation</h3>
 
 #### <h4 id="the-seven-days-of-creation">Les Sept Jours de la Création</h4>
 
 Les Rosicruciens parlent de la Période de la Terre comme étant de Mars-Mercure. Le grand Jour créateur de Manifestation est inclus dans le nom des jours de la semaine, car ces jours ont été nommés d'après les phases de l'évolution des esprits vierges dans leur pèlerinage à travers la matière.
 
-Samedi correspond à la Période de Saturne - Saturne Dimanche correspond à la Période du Soleil - Le Soleil Lundi correspond à la Période de la Lune - La Lune Mardi correspond à la 1ère moitié de la Période de la Terre - Mars Mercredi correspond à la 2e moitié de la Période de la Terre - Mercure Jeudi correspond à la Période de Jupiter - Jupiter Vendredi correspond à la Période de Vénus - Vénus
+| Jour      | correspond à la                       | est gouverné par |
+| --------- | ------------------------------------- | ---------------- |
+| Samedi    | Période de Saturne                    | Saturne          |
+| Dimanche  | Période du Soleil                     | Le Soleil        |
+| Lundi     | Période de la Lune                    | La Lune          |
+| Mardi     | 1ère moitié de la Période de la Terre | Mars             |
+| Mercredi  | 2e moitié de la Période de la Terre   | Mercure          |
+| Jeudi     | Période de Jupiter                    | Jupiter          |
+| Vendredi  | Période de Vénus                      | Vénus            |
 
 La Période de Vulcain est la dernière Période de notre plan d'évolution. La quintessence de toutes les Périodes précédentes est alors extraite par la récapitulation d'une spirale après l'autre. Rien de nouveau n'est entrepris avant la dernière Révolution sur le dernier Globe, et alors seulement dans la Septième Epoque. Par conséquent, on peut dire que la Période de Vulcain correspond à la semaine qui comprend les sept jours.
 
-L'affirmation faite par les astrologues que les jours de la semaine sont gouvernés par la planète particulière d'après laquelle ils sont nommés est bien fondée. Les anciens possédaient également cette information occulte, comme le montrent leurs mythologies dans lesquelles les noms des dieux sont associés aux jours de la semaine. Samedi (en latin Sabati dies, jour du sabbat, Saturday, en anglais) est évidemment le "jour de Saturne". Dimanche, (jour du Seigneur, dies dominica, Sunday, en anglais) est en corrélation avec le Soleil (Sun), et Lundi avec la Lune. Les Latins appellent Mardi "dies Martis" (le jour de Mars), ce qui montre évidemment sa relation avec Mars, le dieu de la guerre. Le mot anglais Tuesday (signifiant Mardi) est dérivé de "Tirsdag"; "Tir" ou "Tyr" est le nom du dieu de la guerre scandinave. "Wednesday" (Mercredi) était "Wotensday", d'après Woten, également un dieu scandinave; ce jour est appelé "dies Mercurii" par les Latins, ce qui montre son association avec Mercure, tel que le donne notre liste. Thursday ou "Thorsday" (Jeudi) est nommé d'après "Thor", le dieu scandinave du tonnerre, et les Latins l'appellent "dies Jovis", d'après le nom du dieu du tonnerre, Jupiter. Friday (Vendredi) est nommé d'après la déesse scandinave de la beauté "Freya"; pour des raisons analogues, les Latins l'appellent "dies Veneris" ou jour de Vénus.
+L'affirmation faite par les astrologues que les jours de la semaine sont gouvernés par la planète particulière d'après laquelle ils sont nommés est bien fondée. Les anciens possédaient également cette information occulte, comme le montrent leurs mythologies dans lesquelles les noms des dieux sont associés aux jours de la semaine. Samedi (en latin Sabati dies, jour du sabbat, Saturday, en anglais) est évidemment le "jour de Saturne". Dimanche, (jour du Seigneur, dies dominica, Sunday, en anglais) est en corrélation avec le Soleil (Sun), et Lundi avec la Lune. Les Latins appellent Mardi "dies Martis" (le jour de Mars), ce qui montre évidemment sa relation avec Mars, le dieu de la guerre. Le mot anglais Tuesday (signifiant Mardi) est dérivé de "Tirsdag"; "Tir" ou "Tyr" est le nom du dieu de la guerre scandinave. "Wednesday" (Mercredi) était "Wotensday", d'après Woten, également un dieu scandinave; ce jour est appelé "dies Mercurii" par les Latins, ce qui montre son association avec Mercure, tel que le donne notre liste. 
+
+Thursday ou "Thorsday" (Jeudi) est nommé d'après "Thor", le dieu scandinave du tonnerre, et les Latins l'appellent "dies Jovis", d'après le nom du dieu du tonnerre, Jupiter. 
+
+Friday (Vendredi) est nommé d'après la déesse scandinave de la beauté "Freya"; pour des raisons analogues, les Latins l'appellent "dies Veneris" ou jour de Vénus.
 
 Les noms des Périodes n'ont rien de commun avec les planètes physiques, mais se rapportent aux incarnations passées, présentes et futures de la Terre; car, appliquant de nouveau l'axiome d'Hermès: "Ce qui est en bas est comme ce qui est en haut", le macrocosme doit avoir ses incarnations, tout comme le microcosme, l'homme.
 
 La science occulte enseigne qu'il y a 777 incarnations, mais cela ne veut pas dire que la terre passe par 777 métamorphoses. Cela signifie que la vie en évolution fait:
 
+```
 7 Révolutions autour des
-
 7 Globes des
-
 7 Périodes Mondiales.
+```
 
 Ce pèlerinage de l'Involution et de l'Evolution, y compris le "chemin raccourci" de l'Initiation, est inscrit dans le Caducée ou "Sceptre de Mercure" (voir tableau 18), qui est ainsi nommé parce que ce symbole indique le Sentier de l'Initiation qui n'a été ouvert à l'homme que depuis le début de la moitié Mercurienne de la Période de la Terre. Auparavant, les Lémuriens et les Atlantéens avaient reçu quelques-unes des initiations inférieures, mais pas les Quatre Grandes Initiations.
-
-Tableau 18. Symbolisme du Caducée!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Le serpent noir du tableau 18 indique le chemin sinueux et cyclique de l'Involution, qui comprend la Période de Saturne, les Périodes du Soleil et de la Lune et la moitié Martienne de la Période de la Terre. Pendant ces Périodes, la vie en évolution construisit ses véhicules et ne devint pas complètement éveillée et clairement consciente du monde extérieur avant la dernière partie de l'Epoque Atlantéenne.
 
@@ -3311,7 +3332,23 @@ Il y a une division analogue chez nos animaux actuels, qui peut être retrouvée
 
 Cuvier fut le premier naturaliste qui divisa le règne animal en quatre classes principales, mais il n'eut pas autant de succès en divisant les classes en sous-classes. L'embryologiste Karl Ernst von Baer, le professeur Agassiz et d'autres savants ont classé le règne animal en quatre grandes divisions et en treize subdivisions, comme suit:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I RADIATES:
+  1-Polyps, Sea-anemones and Coral.
+  2-Acaleph, or Jelly-fish.
+  3-Starfish, Sea-urchins.
+II MOLLUSKS:
+  4-Acephala (oysters, etc.).
+  5-Gasteropoda (snails).
+  6-Cephalopoda.
+III ARTICULATES:
+  7-Worms.
+  8-Crustacea (lobsters, etc.).
+  9-Insects.
+IV VERTEBRATES:
+  10-Fishes.
+  11-Reptiles.
+  12-Birds.
+  13-Mammals
 
 Les trois premières divisions correspondent aux trois Révolutions qu'il nous reste à accomplir de la moitié Mercurienne de la Période de la Terre et leurs neuf degrés correspondent aux neuf degrés des mystères mineurs qui auront été pris par l'ensemble de l'humanité quand elle aura atteint le milieu de la dernière Révolution de la Période de la Terre.
 
@@ -3345,19 +3382,15 @@ Le temps nécessaire pour passer par ces Périodes respectives varie grandement.
 
 On peut dresser comme suit le tableau des états de conscience des différentes Périodes:
 
-Période de Saturne - Etat de Conscience: Inconscience similaire à la trance profonde
-
-Période du Soleil - Etat de conscience: Inconscience similaire à un sommeil sans rêves
-
-Période de la Lune - Etat de conscience: Conscience d'images correspondant à l'état de rêve
-
-Période de la Terre - Etat de conscience: Conscience objective à l'état de veille
-
-Période de Jupiter - Etat de conscience: Conscience d'images soi-consciente
-
-Période de Vénus - Etat de conscience: Conscience-créatrice soi-consciente, objective
-
-Période de Vulcain - Etat de conscience: Conscience spirituelle suprême
+| Période | État de conscience                                 |
+| ------- |--------------------------------------------------- |
+| Saturne | Inconscience similaire à la transe profonde        |
+| Soleil  | Inconscience similaire à un sommeil sans rêves     |
+| Lune    | Conscience d'images correspondant à l'état de rêve |
+| Terre   | Conscience objective à l'état de veille            |
+| Jupiter | Conscience d'images soi-consciente                 |
+| Vénus   | Conscience-créatrice soi-consciente, objective     |
+| Vulcain | Conscience spirituelle suprême                     |
 
 Maintenant que nous avons examiné d'une façon générale les états de conscience qui seront développés pendant les trois Périodes et demie futures, nous allons étudier les moyens de les atteindre.
 
@@ -3401,11 +3434,7 @@ L'âme Intellectuelle, en tant que médiatrice entre les deux autres, croît par
 
 Pendant l'Involution, l'esprit progressa en développant des corps, mais l'Evolution dépend de la croissance de l'âme, de la transmutation des corps en âme. L'âme est pour ainsi dire la quintessence, le pouvoir ou la force du corps, et quand la construction d'un corps est complètement achevée et amenée à la perfection, en passant par les phases et les Périodes décrites plus haut, l'âme en est entièrement extraite et elle est absorbée par celui des trois aspects de l'esprit qui, à l'origine, produisit le corps; ainsi:
 
-L'âme Consciente sera absorbée par l'esprit divin dans la septième Révolution de la Période de Jupiter.
-
-L'âme Intellectuelle sera absorbée par l'esprit de vie dans la sixième Révolution de la Période de Vénus.
-
-L'âme Emotionnelle sera absorbée par l'esprit humain dans la cinquième Révolution de la Période de Vulcain.
+L'âme Consciente sera absorbée par l'esprit divin dans la septième Révolution de la Période de Jupiter. L'âme Intellectuelle sera absorbée par l'esprit de vie dans la sixième Révolution de la Période de Vénus. L'âme Emotionnelle sera absorbée par l'esprit humain dans la cinquième Révolution de la Période de Vulcain.
 
 #### <h4 id="the-creative-word">Le Verbe Créateur</h4>
 
@@ -3451,9 +3480,7 @@ Il est temps maintenant d'indiquer le chemin que doit suivre toute personne voul
 
 Un simple exemple permettra d'en indiquer les premiers éléments. Le meilleur mécanicien du monde ne peut rien accomplir s'il est privé des outils propres à son métier. A vrai dire, on peut reconnaître un bon artisan à ses exigences sur la qualité et l'état des outils qu'il emploie, car il sait bien que la qualité de son travail dépend autant de leur excellence que de son habileté personnelle.
 
-L'Ego possède plusieurs instruments: un corps dense, un corps vital, un corps du désir et un intellect.
-
-Ce sont là ses outils et ce qu'il pourra accomplir en travaillant à acquérir de l'expérience dans chaque vie dépend de leur qualité et de leur état. S'ils sont médiocres et émoussés, il n'y aura qu'un minimum de croissance de l'âme, et la vie sera improductive, en ce qui concerne l'esprit.
+L'Ego possède plusieurs instruments: un corps dense, un corps vital, un corps du désir et un intellect. Ce sont là ses outils et ce qu'il pourra accomplir en travaillant à acquérir de l'expérience dans chaque vie dépend de leur qualité et de leur état. S'ils sont médiocres et émoussés, il n'y aura qu'un minimum de croissance de l'âme, et la vie sera improductive, en ce qui concerne l'esprit.
 
 Nous mesurons généralement le succès d'une vie par le compte en banque, la position sociale atteinte ou le bonheur qui résulte d'une existence exempte de soucis et passée dans un milieu exempt de dangers.
 
@@ -3483,7 +3510,9 @@ La deuxième aide dont l'humanité dispose maintenant est la Religion du Fils, l
 
 Paul fait allusion à cet état futur lorsqu'il dit: "Jusqu'à ce que le Christ soit formé en vous" (Galates 4:19), et il exhorte ses disciples à se débarrasser de tout fardeau, tels des hommes qui vont prendre part à une course.
 
-Le principe fondamental du développement du corps vital est la répétition. La répétition des expériences agit sur ce corps pour créer la mémoire. Les Chefs de l'humanité, qui désiraient nous donner une aide inconsciente par l'usage de certains exercices, instituèrent la prière pour que l'influence de pensées pures et élevées agisse sur le corps vital et ils nous recommandèrent de "prier sans cesse". Bien des railleurs demandent par dérision pourquoi il est si nécessaire de prier sans cesse car, si Dieu est omniscient, Il sait ce dont nous avons besoin et, s'Il ne l'est pas, il est peu probable que nos prières L'atteignent jamais; de plus, s'Il n'est pas omniscient, Il ne peut être omnipotent, et, par conséquent, Il ne pourrait pas, de toute façon, exaucer nos prières. Plus d'un Chrétien sincère a pu également penser que c'était une faute que d'importuner continuellement le Trône de Grâce.De telles idées sont fondées sur une conception erronée des faits. En vérité, Dieu est omniscient et Il n'a pas besoin que nous Lui rappelions quels sont nos besoins, mais, si nous prions comme nous devrions le faire, nous nous élevons vers Lui, nous travaillons ainsi à notre corps vital et le purifions. Mais la difficulté est de savoir prier. Nous nous inquiétons généralement beaucoup plus des choses temporelles que du progrès spirituel. Certaines Eglises font des prières spéciales pour la pluie, et les aumôniers d'armées et de flottes ennemies n'hésitent pas à prier avant une bataille pour que le succès favorise leurs armes!
+Le principe fondamental du développement du corps vital est la répétition. La répétition des expériences agit sur ce corps pour créer la mémoire. Les Chefs de l'humanité, qui désiraient nous donner une aide inconsciente par l'usage de certains exercices, instituèrent la prière pour que l'influence de pensées pures et élevées agisse sur le corps vital et ils nous recommandèrent de "prier sans cesse". Bien des railleurs demandent par dérision pourquoi il est si nécessaire de prier sans cesse car, si Dieu est omniscient, Il sait ce dont nous avons besoin et, s'Il ne l'est pas, il est peu probable que nos prières L'atteignent jamais; de plus, s'Il n'est pas omniscient, Il ne peut être omnipotent, et, par conséquent, Il ne pourrait pas, de toute façon, exaucer nos prières. Plus d'un Chrétien sincère a pu également penser que c'était une faute que d'importuner continuellement le Trône de Grâce.
+
+De telles idées sont fondées sur une conception erronée des faits. En vérité, Dieu est omniscient et Il n'a pas besoin que nous Lui rappelions quels sont nos besoins, mais, si nous prions comme nous devrions le faire, nous nous élevons vers Lui, nous travaillons ainsi à notre corps vital et le purifions. Mais la difficulté est de savoir prier. Nous nous inquiétons généralement beaucoup plus des choses temporelles que du progrès spirituel. Certaines Eglises font des prières spéciales pour la pluie, et les aumôniers d'armées et de flottes ennemies n'hésitent pas à prier avant une bataille pour que le succès favorise leurs armes!
 
 De telles prières s'adressent au Dieu de Race Qui combat pour Son peuple, accroît ses troupeaux, remplit ses granges et subvient à ses besoins matériels; de telles prières ne possèdent même pas de pouvoir purificateur. Elles viennent du corps du désir qui résume ainsi la situation: "Maintenant, Seigneur, j'obéis de mon mieux à Vos commandements et je désire que Vous remplissiez Votre rôle en retour."
 
@@ -3505,9 +3534,7 @@ L'idéal de la Religion du Père sera d'éliminer toute distinction en fondant t
 
 Tels sont les degrés et les phases par lesquelles l'humanité est inconsciemment conduite.
 
-Dans le passé, l'Esprit de Race régnait seul. L'homme se contentait d'un gouvernement patriarcal et paternel auquel il ne prenait aucune part. De nos jours, dans le monde entier, nous observons les signes de la dissolution du vieux système. Le système de caste, qui était le rempart de l'Angleterre dans l'Inde, tombe en ruine. Au lieu de rester divisés en petits groupes, les Hindous s'unissent pour demander que l'oppresseur se retire et les laisse vivre en liberté sous le gouvernement du peuple, par le peuple et pour le peuple. La Russie est déchirée par la lutte de ceux qui cherchent à se débarrasser d'un gouvernement dictatorial et autocratique.
-
-La Turquie s'est éveillée et elle a fait un pas important vers la liberté (publié en 1910). Ici, dans notre propre pays (les U.S.A.) où nous croyons jouir à présent d'une liberté pour laquelle d'autres peuples n'ont pu jusqu'ici que faire des voeux ardents et lutter, nous ne sommes pas encore satisfaits. Nous sommes en train d'apprendre qu'il y a encore d'autres oppressions que celle d'une monarchie autocratique. Nous voyons qu'il nous reste à obtenir la liberté industrielle. Nous nous irritons du joug des trusts et d'un système insensé de concurrence. Nous tendons vers la coopération qui est maintenant pratiquée au sein des trusts pour leur profit particulier. Nous désirons une forme de société dans laquelle "chaque homme pourra s'asseoir sous sa vigne et sous son figuier et où personne ne pourra lui faire peur".
+Dans le passé, l'Esprit de Race régnait seul. L'homme se contentait d'un gouvernement patriarcal et paternel auquel il ne prenait aucune part. De nos jours, dans le monde entier, nous observons les signes de la dissolution du vieux système. Le système de caste, qui était le rempart de l'Angleterre dans l'Inde, tombe en ruine. Au lieu de rester divisés en petits groupes, les Hindous s'unissent pour demander que l'oppresseur se retire et les laisse vivre en liberté sous le gouvernement du peuple, par le peuple et pour le peuple. La Russie est déchirée par la lutte de ceux qui cherchent à se débarrasser d'un gouvernement dictatorial et autocratique. La Turquie s'est éveillée et elle a fait un pas important vers la liberté (publié en 1910). Ici, dans notre propre pays (les U.S.A.) où nous croyons jouir à présent d'une liberté pour laquelle d'autres peuples n'ont pu jusqu'ici que faire des voeux ardents et lutter, nous ne sommes pas encore satisfaits. Nous sommes en train d'apprendre qu'il y a encore d'autres oppressions que celle d'une monarchie autocratique. Nous voyons qu'il nous reste à obtenir la liberté industrielle. Nous nous irritons du joug des trusts et d'un système insensé de concurrence. Nous tendons vers la coopération qui est maintenant pratiquée au sein des trusts pour leur profit particulier. Nous désirons une forme de société dans laquelle "chaque homme pourra s'asseoir sous sa vigne et sous son figuier et où personne ne pourra lui faire peur".
 
 Ainsi, dans le monde entier, les anciens systèmes de gouvernement parternel sont en train de changer. Les nations, comme telles, ont fait leur temps et travaillent, à leur insu, pour l'idéal de Fraternité Universel, d'accord avec le plan de nos Guides invisibles qui, bien que ne prenant pas officiellement part aux conciles des nations, n'en influencent pas moins la direction des événements.
 
@@ -3525,9 +3552,7 @@ Si l'on compare ces sept Rayons aux sept couleurs du spectre, on pourra peut-êt
 
 L'Ordre Rosicrucien fut fondé particulièrement pour les hommes dont le haut degré de développement intellectuel leur fit répudier le coeur. L'intellect demande impérieusement une explication logique de tous les phénomènes: du mystère du monde, des questions de la vie et de la mort. La raison d'être de l'existence et son modus operandi n'ont pas été expliqués par l'injonction des prêtres de "ne pas chercher à approfondir les mystères de Dieu".
 
-Pour tout homme ou femme qui a le bonheur ou le malheur de posséder un intellect inquisiteur, il est de la plus grande importance de recevoir toutes les informations désirées, de telle sorte qu'une fois les exigences de la tête satisfaites, le coeur puisse parler. Le savoir intellectuel n'est pas en lui-même un but, mais un moyen pour atteindre un certain but. C'est pourquoi les objectifs Rosicruciens veulent avant tout satisfaire l'aspirant en lui faisant connaître que tout dans l'univers est raisonnable, afin de conquérir l'intellect rebelle.
-
-Quand celui-ci a cessé de critiquer et qu'il est prêt à accepter provisoirement comme vérité probable des affirmations qui ne peuvent pas être immédiatement vérifiées, alors,et alors seulement, l'éducation ésotérique sera efficace pour développer les facultés supérieures grâce auxquelles l'homme passe de la foi à la connaissance acquise par lui-même. Cependant, même quand il en est arrivé là, l'élève verra que à mesure qu'il progresse et qu'il devient capable de faire des recherches pour son propre compte, il trouve toujours des vérités hors de sa portée, qu'il sait être des vérités, bien qu'il ne soit pas suffisamment avancé pour pouvoir les sonder.
+Pour tout homme ou femme qui a le bonheur ou le malheur de posséder un intellect inquisiteur, il est de la plus grande importance de recevoir toutes les informations désirées, de telle sorte qu'une fois les exigences de la tête satisfaites, le coeur puisse parler. Le savoir intellectuel n'est pas en lui-même un but, mais un moyen pour atteindre un certain but. C'est pourquoi les objectifs Rosicruciens veulent avant tout satisfaire l'aspirant en lui faisant connaître que tout dans l'univers est raisonnable, afin de conquérir l'intellect rebelle. Quand celui-ci a cessé de critiquer et qu'il est prêt à accepter provisoirement comme vérité probable des affirmations qui ne peuvent pas être immédiatement vérifiées, alors,et alors seulement, l'éducation ésotérique sera efficace pour développer les facultés supérieures grâce auxquelles l'homme passe de la foi à la connaissance acquise par lui-même. Cependant, même quand il en est arrivé là, l'élève verra que à mesure qu'il progresse et qu'il devient capable de faire des recherches pour son propre compte, il trouve toujours des vérités hors de sa portée, qu'il sait être des vérités, bien qu'il ne soit pas suffisamment avancé pour pouvoir les sonder.
 
 L'élève fera bien de se rappeler que tout ce qui n'est pas logique ne peut exister dans l'univers et que la logique est le guide le plus sûr dans tous les Mondes; mais il ne doit pas oublier que ses facultés sont limitées et qu'un pouvoir de raisonnement logique supérieur au sien peut être nécessaire pour résoudre un problème donné, bien que ce problème soit susceptible d'une explication complète mais seulement par des raisonnements qui sont au-delà de la capacité de l'élève dans la phase actuelle de son développement. Un autre point qui doit être ancré dans l'esprit est qu'une confiance inébranlable dans l'instructeur est absolument nécessaire.
 
@@ -3579,9 +3604,7 @@ L'eau non distillée pour l'usage interne est le pire ennemi de l'homme mais, em
 
 Harvey, qui découvrit la circulation du sang, dit que la bonne santé est le signe de la circulation libre de ce fluide et que la maladie est le résultat d'une circulation imparfaite.
 
-Les bains aident beaucoup à maintenir la santé du corps, et l'aspirant à la vie supérieure devrait en faire un usage fréquent. La transpiration qu'elle soit ou non perceptible, entraîne hors du corps plus de matière solide que n'importe quel autre moyen.
-
-Tant qu'on fournira du combustible et que le feu sera débarrasé des cendres, il continuera à brûler. Les reins ont leur importance dans l'élimination des déchets mais, en dépit de la grande quantité de matière solide évacuée par l'urine, il en reste suffisamment dans bien des cas pour former de la gravelle et des calculs dans la vessie, qui causent des douleurs atroces et provoquent souvent la mort.
+Les bains aident beaucoup à maintenir la santé du corps, et l'aspirant à la vie supérieure devrait en faire un usage fréquent. La transpiration qu'elle soit ou non perceptible, entraîne hors du corps plus de matière solide que n'importe quel autre moyen. Tant qu'on fournira du combustible et que le feu sera débarrasé des cendres, il continuera à brûler. Les reins ont leur importance dans l'élimination des déchets mais, en dépit de la grande quantité de matière solide évacuée par l'urine, il en reste suffisamment dans bien des cas pour former de la gravelle et des calculs dans la vessie, qui causent des douleurs atroces et provoquent souvent la mort.
 
 Il ne faut pas croire que l'eau qui a été bouillie contient moins de calcaire pour cela. Celui qui se dépose au fond de la bouilloire est laissé par l'eau qui s'est évaporée. Si la vapeur était condensée, nous aurions de l'eau distillée, qui est une aide importante pour conserver la jeunesse du corps.
 
@@ -3621,21 +3644,15 @@ Les éléments calcaires sont minéraux, solides et ils encrassent l'organisme. 
 
 Une calorie est l'unité de chaleur, et le tableau montre combien en contient chaque article comestible. Dans une livre anglaise de noix du Brésil, par exemple, 49,6 % du total (les coquilles) forment le déchet, mais le reste contient 1.485 calories. Cela revient à dire qu'environ la moitié de l'achat est du déchet, mais le reste contient le nombre donné de calories. Afin que nous puissions tirer la plus grande somme d'énergie possible de nos aliments, nous devons faire attention au nombre de calories qu'ils contiennent, car c'est par elles que nous obtenons l'énergie nécessaire pour entretenir le corps quand il est soumis à des conditions diverses de travail:
 
-Homme avec travail musculaire très dur : 5500 calories.
-
-Homme avec travail musculaire assez dur : 4150 calories.
-
-Homme avec travail musculaire modéré : 3400 calories.
-
-Homme avec travail musculaire léger : 3050 calories.
-
-Homme avec travail sédentaire : 2700 calories.
-
-Homme sans travail musculaire : 2450 calories.
-
-Femme avec travail manuel léger:modéré : 2450 calories.
-
-Table des valeurs des aliments!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+|                                      |               |
+| ------------------------------------ | ------------- |
+| Homme, travail musculaire très dur   | 5500 calories |
+| Homme, travail musculaire assez dur  | 4150 calories |
+| Homme, travail musculaire modéré     | 3400 calories |
+| Homme, travail musculaire léger      | 3050 calories |
+| Homme, travail sédentaire            | 2700 calories |
+| Homme sans travail musculaire        | 2450 calories |
+| Femme, travail manuel léger à modéré | 2450 calories |
 
 D'après ce tableau, il est évident que le chocolat est l'aliment le plus nourrisant que nous ayons, et aussi que le cacao en poudre est le plus dangereux de tous les aliments, puisqu'il contient trois fois autant de cendres que la plupart des autres et même dix fois pour certains. C'est un aliment puissant, mais aussi un poison puissant, car il encrasse l'organisme plus rapidement que n'importe quelle autre substance.
 
@@ -3655,7 +3672,20 @@ Il est donc très important pour l'aspirant qui veut utiliser son corps pour un 
 
 Le tableau suivant montre la proportion d'acide phosphorique qu'on trouve dans certains aliments:
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+| 100 000 parties de:       | contiennent d’acide phosphorique:   |
+| ------------------------- | ----------------------------------- |
+| Orge, sèche               | 210 parties                         |
+| Haricots                  | 292 parties                         |
+| Betteraves                | 167 parties                         |
+| Betteraves, feuilles de   | 690 parties                         |
+| Sarrasin                  | 170 parties                         |
+| Carottes, sèches          | 395 parties                         |
+| Carottes, feuilles de     | 963 parties                         |
+| Graine de lin             | 880 parties                         |
+| Lin, tiges de             | 118 parties                         |
+| Panais                    | 111 parties                         |
+| Panais, feuilles de       | 1784 parties                        |
+| Pois                      | 190 parties                         |
 
 On peut ainsi résumer brièvement ce qui précède:
 
@@ -3711,41 +3741,25 @@ Le premier commandement de la science occulte est "Tu ne tueras pas" et sa très
 
 Ella Wheeler Wilcox montre la véritable compassion des âmes supérieures en soutenant cette maxime dans les beaux vers qui suivent:
 
-    I am the voice of the voiceless; 1)  
-    Through me the dumb shall speak  
-    Till a deaf world'sear  
-    Shall be made to hear  
-    The wrongs of the wordless weak.  
+```
+Je suis la voix de ceux qui ne peuvent parler,  
+Par moi les muets parleront  
+Jusqu'à ce que l'oreille aujourd'hui sourde du monde  
+Parvienne à entendre  
+La plainte que le faible ne peut exprimer.  
 
-    1) Je suis la voix de ceux qui ne peuvent parler,  
-    Par moi les muets parleront  
-    Jusqu'à ce que l'oreille aujourd'hui sourde du monde  
-    Parvienne à entendre  
-    La plainte que le faible ne peut exprimer.  
+La même force a modelé le moineau,  
+L'homme aussi bien que le roi.  
+Le Dieu du Tout  
+A donné une étincelle d'âme  
+A tout ce qui porte poil ou plume.  
 
-    The same force formed the sparrow 1)  
-    That fashioned man, the king.  
-    The God of the Whole  
-    Gave a spark of soul  
-    To furred and feathered thing.  
-
-    And I am my brother's keeper;  
-    An I will fight his fight,  
-    And speak the word  
-    For beast and bird  
-    Till the world shall set things right.  
-
-    1) La même force a modelé le moineau,  
-    L'homme aussi bien que le roi.  
-    Le Dieu du Tout  
-    A donné une étincelle d'âme  
-    A tout ce qui porte poil ou plume.  
-
-    Et je suis le gardien de mon frère;  
-    Je veux lutter à ses côtés  
-    Et élever la voix  
-    Pour la bête et l'oiseau  
-    Jusqu'à ce que le monde voit les choses correctement.  
+Et je suis le gardien de mon frère;  
+Je veux lutter à ses côtés  
+Et élever la voix  
+Pour la bête et l'oiseau  
+Jusqu'à ce que le monde voit les choses correctement.  
+```
 
 On objecte parfois qu'en faisant usage de légumes et de fruits, on détruit également la vie, mais cette assertion a pour base une conception erronée. Quand le fruit est mûr, il a accompli son objet qui est de servir d'enveloppe pour la maturation de la semence: s'il n'est pas mangé, il se gâte et est perdu. De plus, il a pour but de servir de nourriture au règne animal et à l'homme afin de donner à la semence l'opportunité de se développer dans un terrain fertile. En outre, de même que l'ovule et le liquide séminal des êtres humains sont stériles sans l'atome-germe de l'Ego qui renaît et sans la matrice de son corps vital, de même tout oeuf ou semence sont, par eux-mêmes, privés de vie. S'ils sont soumis aux conditions convenables d'un incubateur ou du sol, ils reçoivent alors la vie de l'esprit-groupe et saisissent ainsi l'occasion qui leur est offerte de produire un corps dense. Si l'oeuf ou la semence sont cuits, broyés, ou s'ils ne sont pas soumis aux conditions nécessaires à la manifestation de la vie, l'occasion est perdue, mais rien de plus.
 
@@ -3755,13 +3769,9 @@ Ne serait-il pas préférable de voir l'homme jouer le rôle d'ami et de protect
 
 #### <h4 id="the-lords-prayer">L'Oraison Dominicale</h4>
 
-Revenant à nos propos sur les aides spirituelles favorisant le progrès humain, on peut considérer L'Oraison Dominicale comme une formule abstraite, algébrique, pour le développement et la purification de tous les véhicules de l'homme; l'idée de prendre le soin convenable du corps dense s'y trouve exprimée par les mots:
+Revenant à nos propos sur les aides spirituelles favorisant le progrès humain, on peut considérer L'Oraison Dominicale comme une formule abstraite, algébrique, pour le développement et la purification de tous les véhicules de l'homme; l'idée de prendre le soin convenable du corps dense s'y trouve exprimée par les mots: "Donne-nous aujourd'hui notre pain quotidien".
 
-"Donne-nous aujourd'hui notre pain quotidien".
-
-La prière qui traite des besoins du corps vital est:
-
-"Pardonne-nous nos offenses, comme nous pardonnons à ceux qui nous ont offensés".
+La prière qui traite des besoins du corps vital est: "Pardonne-nous nos offenses, comme nous pardonnons à ceux qui nous ont offensés".
 
 Le corps vital est le siège de la mémoire. Il contient les images subconscientes de tous les événements passés de notre vie, qu'ils soient bons ou mauvais, et aussi celles des torts que nous avons infligés ou subis et des bienfaits reçus ou dispensés. Or nous savons que les annales de la vie sont formées de ces images transcrites sur le corps du Désir au moment de la mort aussitôt après l'abandon du corps dense. Nous savons aussi que toutes les souffrances de l'existence post mortem ont pour cause les événements que ces images reproduisent.
 
@@ -3783,15 +3793,11 @@ La Gloire, celle qui augmente ses capacités pour répandre la bonne nouvelle, a
 
 La prière pour l'intellect est: "Délivre-nous du mal". Nous avons vu que l'intellect sert de trait d'union entre la nature supérieure et la nature inférieure. Les animaux sont libres de suivre leurs désirs sans la moindre restriction. Dans leur cas, il n'y a ni bien ni mal, parce que l'intellect, la faculté de discrimination, leur fait défaut. La manière dont nous nous protégeons des animaux qui tuent et volent diffère de celle que nous employons envers les hommes qui agissent de même. On ne tient même pas pour responsable l'homme qui est privé d'intellect. On admet qu'il est inconscient et, par suite, on l'empêche seulement de mal faire.
 
-Tableau 19. L'Oraison Dominicale illustre les explications données ici d'une manière simple et facile à retenir; il montre la relation entre les différentes prières et les véhicules correspondants.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 C'est seulement lorsque s'ouvrit la vision mentale de l'homme qu'il vint à connaître le bien et le mal. Quand le trait d'union de l'intellect s'unit au Moi Supérieur et qu'il obéit à ses ordres, nous avons l'homme à l'idéal élevé. Au contraire, l'union de l'intellect avec les désirs inférieurs produit une personne sans idéal; l'objet de cette prière est donc de nous épargner les expériences qui résultent de l'alliance de l'intellect avec le corps du désir et tout ce qu'elle implique.
 
 L'aspirant à la vie supérieure accomplit l'union de la nature supérieure et de la nature inférieure, en méditant sur des sujets élevés. De plus, il cimente cette union par la Contemplation et dépasse ces deux conditions par l'Adoration qui élève l'esprit jusqu'au Trône même de Dieu.
 
-L'Oraison Dominicale, destinée à l'usage général de l'Eglise, donne la première place à l'Adoration, afin d'atteindre l'état d'exaltation spirituelle nécessaire pour offrir une supplique qui présente les besoins des véhicules inférieurs.
-
-Chaque aspect de l'esprit triple, en commençant par l'aspect inférieur, s'élève par l'adoration jusqu'à son aspect correspondant dans la Divinité. Quand les trois aspects de l'esprit sont tous en présence du Trône de Grâce, chacun d'eux offre la prière appropriée aux besoins de sa contrepartie matérielle et tous les trois s'unissent pour la prière finale en faveur de l'intellect.
+L'Oraison Dominicale, destinée à l'usage général de l'Eglise, donne la première place à l'Adoration, afin d'atteindre l'état d'exaltation spirituelle nécessaire pour offrir une supplique qui présente les besoins des véhicules inférieurs. Chaque aspect de l'esprit triple, en commençant par l'aspect inférieur, s'élève par l'adoration jusqu'à son aspect correspondant dans la Divinité. Quand les trois aspects de l'esprit sont tous en présence du Trône de Grâce, chacun d'eux offre la prière appropriée aux besoins de sa contrepartie matérielle et tous les trois s'unissent pour la prière finale en faveur de l'intellect.
 
 L'esprit humain s'élève jusqu'à sa contrepartie, le Saint-Esprit (Jéhovah) et dit "Que Ton Nom soit sanctifié".
 
@@ -3808,6 +3814,8 @@ L'aspect inférieur de l'esprit, l'esprit humain, s'adresse alors à l'aspect in
 Finalement, tous ensemble, les trois aspects de l'esprit de l'homme s'unissent pour offrir la plus importante des prières, au profit de l'intellect, avec les mots "Délivre-nous du mal".
 
 L'introduction "Notre Père, Qui es aux Cieux" est simplement l'adresse sur l'enveloppe. L'ajout "Car c'est à Toi qu'appartiennent Le Règne, la Puissance et la Gloire, aux siècles des siècles. Amen", n'a pas été donné par le Christ, mais est très approprié en tant que dernière adoration de l'esprit triple au moment où il termine son adresse directe à la Divinité.
+
+Diagram 16 illustrates the foregoing explanation in a simple and easily remembered manner, showing the connection between the different prayers and the corresponding vehicles, which are similarly colored. This diagram is inserted opposite page 464.
 
 #### <h4 id="the-vow-of-celibacy">Le Voeu de Célibat</h4>
 
@@ -3854,8 +3862,6 @@ L'aspirant à la vie supérieure ne peut réussir dans ses efforts qu'autant qu'
 Dans le cerveau et à peu près dans la position indiquée au tableau 20, se trouvent deux petits organes qu'on appelle le corps pituitaire et la glande pinéale. La science médicale n'a que peu de chose à dire à leur sujet, comme au sujet d'autres glandes du corps. Elle parle de la glande pinéale comme d'un "troisième oeil atrophié", et cependant ni cette glande, ni le corps pituitaire ne sont en voie de s'atrophier. Ce fait rend les savants très perplexes car la nature ne conserve rien d'inutile. Dans tout le corps, nous trouvons des organes qui s'atrophient ou se développent; les premiers sont pour ainsi dire les bornes qui marquent le chemin par lequel l'humanité a passé pour atteindre son état actuel de développement; les derniers font prévoir les lignes d'amélioration et de développement futurs. Par exemple, les muscles au moyen desquels les animaux remuent leurs oreilles sont également présents chez l'homme mais ils sont en train de s'atrophier: peu de gens peuvent les utiliser. Le coeur appartient à la classe des organes qui indiquent le développement futur; comme nous l'avons déjà montré, il est en voie de devenir un muscle volontaire.
 
 Le corps pituitaire et la glande pinéale appartiennent à une autre classe d'organes qui, à l'époque actuelle, ne sont nullement dans un état d'évolution ou de dégénérescence, mais dans une condition d'inactivité. A une époque reculée, quand l'homme entrait en contact avec les Mondes "intérieurs", c'était par l'intermédiaire de ces organes; ils serviront de nouveau à cette fin dans une phase ultérieure d'évolution. Ils étaient en relation avec le système nerveux involontaire ou sympathique. L'homme voyait alors les Mondes intérieurs comme pendant la Période de la Lune, la dernière partie de l'Epoque Lémurienne et la première partie de l'Epoque Atlantéenne. Des images se présentaient à lui tout à fait indépendamment de sa volonté. Les centres de perception de son corps du désir tournaient sur eux-mêmes dans une direction opposée à celle des aiguilles d'une montre (suivant d'une manière négative le mouvement de la Terre qui tourne sur son axe dans cette direction), de même que le font aujourd'hui les centres de perception des "médiums". Chez la plupart des gens ces centres de perception sont inactifs, mais, au moyen d'un entraînement approprié, on peut les faire tourner dans le sens des aiguilles d'une montre, comme nous l'avons expliqué ailleurs. C'est là le côté difficile du développement de la clairvoyance positive.
-
-Tableau 20. Le trajet des courants sexuels non utilisés!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Le développement des facultés d'un médium est beaucoup plus aisé, parce que ces facultés ne sont rien de plus que l'emploi d'une fonction que l'homme possédait à une époque reculée, par l'intermédiaire de laquelle le monde extérieur se réfléchissait involontairement en lui et qui fut plus tard préservée par le mariage entre personnes de la même famille. Chez les médiums contemporains, ce pouvoir est intermittent et cela explique pourquoi, à certains moments, ils peuvent "voir" et pourquoi, à d'autres moments, ils échouent complètement, sans raison apparente. Il arrive aussi que la force du désir du client leur permet d'obtenir l'information qu'il cherche, et alors ils voient correctement, mais ils ne sont pas toujours honnêtes. Il leur faut payer le loyer de leur demeure et d'autres frais; aussi, quand le pouvoir (sur lequel ils n'ont pas de contrôle conscient) vient à manquer, certains n'hésitent-ils pas à frauder et à énoncer la première absurdité qui leur passe par la tête, afin de satisfaire le client et d'obtenir son argent. Ils jettent ainsi le discrédit sur ce qu'ils voient réellement en d'autres occasions.
 
@@ -4043,8 +4049,6 @@ Ces treize Initiations sont représentées symboliquement par le Christ et les d
 
 Les rites de l'Initiation diffèrent dans les diverses écoles de science occulte et aussi le nombre des Initiations dont elles parlent, mais ce n'est là qu'une affaire de classification. On observera que les vagues descriptions qui sont permises deviennent encore plus vagues à mesure qu'on passe aux Initiations supérieures. Là où l'on parle de sept degrés ou plus on ne dit presque rien de la sixième Initiation et absolument rien de celles qui suivent. La raison est qu'il y a une autre division, les six degrés de "Préparation" et les quatre Initiations qui mènent le candidat à la fin de la Période de la Terre quand il obtient le rang d'Adepte. Il doit y avoir alors trois autres degrés, si la philosophie de l'école ou de la société va aussi loin que cela. L'auteur ne connaît que les Rosicruciens qui aient quelques informations à donner au sujet des trois Périodes précédant la Période de la Terre, excepté la simple assertion que de telles Périodes existèrent; cependant, leur rapport avec notre phase actuelle d'existence n'est pas présenté d'une manière bien définie. Il y a aussi d'autres doctrines occultes qui déclarent seulement qu'il y aura trois plans ultérieurs d'évolution, sans donner de détails. Il va sans dire que, dans ces circonstances, les trois dernières Initiations ne sont pas mentionnées.
 
-Tableau 21. Constitution de la Terre!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 Le tableau 21 donnera une idée de la disposition des couches de la Terre; nous avons omis le noyau central pour pouvoir indiquer plus clairement la forme en lemniscate des courants dans la neuvième couche. Dans ce tableau, les couches sont représentées comme étant d'épaisseur égale, bien qu'en réalité quelques-unes soient beaucoup plus minces que d'autres. En commençant par la surface, elles sont disposées dans l'ordre suivant:
 
 (1) La Terre Minérale: c'est la croûte rocheuse de la Terre dont s'occupe la Géologie, dans la mesure où l'homme est capable de la pénétrer.
@@ -4089,7 +4093,9 @@ Comme on pourrait aisément le déduire du fait que l'immoralité et les tendanc
 
 Le nombre de ces éruptions depuis deux mille ans montre que leur fréquence a augmenté avec la croissance du matérialisme. Spécialement depuis soixante-cinq ans, les éruptions volcaniques sont devenues plus nombreuses dans la proportion où la science matérialiste est devenue plus arrogante dans sa dénégation absolue et formelle de tout ce qui est spirituel. Alors qu'il n'y eut que six éruptions pendant mille ans, depuis la naissance du Christ, les cinq dernières éruptions ont eu lieu dans l'espace de 51 ans, comme nous allons le montrer.
 
-La première éruption pendant l'ère Chrétienne fut celle qui détruisit les villes d'Herculanum et de Pompéi, et au cours de laquelle Pline l'Ancien périt, en l'an 79 de notre Ere. Les autres éruptions suivirent pendant les années 203, 472, 512, 652, 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891, 1906. Pendant les dix premiers siècles, il y eut six éruptions et douze pendant les dix siècles suivants, dont cinq eurent lieu, comme nous l'avons déjà dit, dans l'espace de 51 ans.
+La première éruption pendant l'ère Chrétienne fut celle qui détruisit les villes d'Herculanum et de Pompéi, et au cours de laquelle Pline l'Ancien périt, en l'an 79 de notre Ere. Les autres éruptions suivirent pendant les années 203, 472, 512, 652, 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891, 1906. 
+
+Pendant les dix premiers siècles, il y eut six éruptions et douze pendant les dix siècles suivants, dont cinq eurent lieu, comme nous l'avons déjà dit, dans l'espace de 51 ans.
 
 Du nombre total de dix-huit éruptions, les neuf premières eurent lieu pendant ce qu'on appelle "l'âge des ténèbres", c'est-à-dire pendant les seize siècles qui virent le Monde Occidental dominé par les soi-disant "païens" ou bien par l'Eglise Romaine. Toutes les autres se sont succédées pendant les trois derniers siècles, depuis la naissance et pendant le développement de la Science Moderne, dont les tendances sont matérialistes et qui a presque complètement oblitéré le dernier vestige de spiritualité, particulièrement dans la deuxième moitié du dix-neuvième siècle. Aussi, les éruptions qui correspondent à cette période comprennent-elles presque le tiers du nombre total de celles qui ont eu lieu pendant notre Ere.
 
@@ -4111,9 +4117,7 @@ Plus tard, un Français, qui n'était pas un astronome mais un mécanicien, cons
 
 On pourrait citer de nombreux exemples montrant comment les enseignements occultes ont été corroborés plus tard par la science matérielle. Par exemple, la théorie atomique qui fut soutenue par quelques philosophes grecs et, plus tard, dans la "Doctrine Secrète". Elle fut découverte en 1897 par le Professeur Thomson.
 
-Dans l'ouvrage remarquable de M. Sinnett, La Croissance de l'Ame, publié en 1896, l'auteur affirma qu'il y a deux planètes au-delà de l'orbite de Neptune, dont une seule, pensait-il, serait découverte par les astronomes modernes. Dans le numéro d'août 1906 de Nature on affirme que le Professeur Barnard, avec l'aide du réflecteur de 36 pouces de Lick, avait découvert ladite planète en 1892. Il n'y avait pas d'erreur à ce sujet, et cependant il avait attendu 14 ans avant d'annoncer sa découverte.
-
-Toutefois, il est inutile de se mettre en peine pour cela. Le point important est que la planète est là et que le livre de M. Sinnett la signalait dix ans avant que le Professeur Barnard ait affirmé en avoir fait antérieurement la découverte. Il se peut que si cette affirmation avait été faite avant 1906 elle eût dérangé quelque théorie profondément enracinée!
+Dans l'ouvrage remarquable de M. Sinnett, La Croissance de l'Ame, publié en 1896, l'auteur affirma qu'il y a deux planètes au-delà de l'orbite de Neptune, dont une seule, pensait-il, serait découverte par les astronomes modernes. Dans le numéro d'août 1906 de Nature on affirme que le Professeur Barnard, avec l'aide du réflecteur de 36 pouces de Lick, avait découvert ladite planète en 1892. Il n'y avait pas d'erreur à ce sujet, et cependant il avait attendu 14 ans avant d'annoncer sa découverte. Toutefois, il est inutile de se mettre en peine pour cela. Le point important est que la planète est là et que le livre de M. Sinnett la signalait dix ans avant que le Professeur Barnard ait affirmé en avoir fait antérieurement la découverte. Il se peut que si cette affirmation avait été faite avant 1906 elle eût dérangé quelque théorie profondément enracinée!
 
 Il existe de nombreuses théories de ce genre. Celle de Copernic n'est pas entièrement juste et il y a un grand nombre de faits qui ne peuvent être expliqués au moyen de la seule théorie nébulaire tant vantée. Tycho-Brahé, le célèbre astronome danois, refusa d'accepter la théorie de Copernic. Il avait de bonnes raisons pour s'en tenir à celle de Ptolémée, parce qu'il savait qu'avec cette dernière on peut calculer correctement les mouvements des planètes, tandis qu'avec la théorie de Copernic, il faut se servir d'une table de corrections. Le système de Ptolémée est exact du point de vue du Monde du Désir et il offre certains points qui sont nécessaires dans le Monde Physique.
 
@@ -4133,9 +4137,7 @@ La religion Chrétienne a graduellement poursuivi son chemin vers l'Ouest jusqu'
 
 Le jour et la nuit, l'été et l'hiver, le flux et le reflux se suivent d'une manière ininterrompue, suivant la loi des cycles alternés; de même l'apparition, dans n'importe quelle partie du monde, d'une vague spirituelle est suivie d'une période de réaction matérialiste afin que notre développement soit mieux équilibré.
 
-La Religion, l'Art et la Science sont les trois moyens les plus importants d'éducation de l'homme et forment une trinité qui ne peut être divisée sans fausser le point de vue de toutes nos recherches.
-
-La Religion vraie comprend aussi la science et l'art, car elle nous apprend les bienfaits d'une belle vie, vécue en harmonie avec les lois de la nature.
+La Religion, l'Art et la Science sont les trois moyens les plus importants d'éducation de l'homme et forment une trinité qui ne peut être divisée sans fausser le point de vue de toutes nos recherches. La Religion vraie comprend aussi la science et l'art, car elle nous apprend les bienfaits d'une belle vie, vécue en harmonie avec les lois de la nature.
 
 La Science vraie est artistique et religieuse au plus haut degré, car elle nous apprend à respecter les lois qui gouvernent notre bien-être et à nous y conformer; elle explique pourquoi la vie religieuse contribue à la santé et à la beauté physiques.
 
@@ -4159,15 +4161,7 @@ Bien des siècles ont passé depuis la naissance, sous le nom de Christian Rosen
 
 Il travailla avec les Alchimistes bien des siècles avant les débuts de la science moderne. C'est lui qui, par un intermédiaire, inspira les ouvrages maintenant mutilés de Bacon. Jacob Boehme, et d'autres reçurent de lui l'inspiration qui donne à leurs écrits un tel pouvoir d'illumination spirituelle. Nous retrouvons son influence dans les oeuvres immortelles de Goethe et dans les chefs-d'oeuvre de Wagner. Tous les esprits intrépides qui refusent d'être entravés par l'orthodoxie de la science ou par celle de la religion et qui, rejetant les apparences, pénètrent au centre spirituel des choses, sans souci des diffamateurs ou des flatteurs, tirent leur inspiration de la même source où vint puiser et ou puise encore le grand esprit de Christian Rosenkreuz.
 
-Son nom même est le résumé de la manière et des moyens par lesquels l'homme moderne est transformé en un Surhomme Divin.
-
-Ce symbole,
-
-Christian Rosen Kreuz
-
-(Le) Chrétien (à la) Rose (et à la) Croix
-
-montre la fin et le but de l'évolution humaine, la voie à suivre et les moyens à employer pour atteindre ce but. La croix noire, la tige verte et grimpante, les épines, les roses rouge-sang, cachent la solution des mystères du monde, l'évolution passée de l'Homme, sa constitution présente et surtout le secret de son développement futur.
+Son nom même est le résumé de la manière et des moyens par lesquels l'homme moderne est transformé en un Surhomme Divin. Ce symbole, Christian Rosen Kreuz (Le) Chrétien (à la) Rose (et à la) Croix montre la fin et le but de l'évolution humaine, la voie à suivre et les moyens à employer pour atteindre ce but. La croix noire, la tige verte et grimpante, les épines, les roses rouge-sang, cachent la solution des mystères du monde, l'évolution passée de l'Homme, sa constitution présente et surtout le secret de son développement futur.
 
 Ce symbole, muet pour le profane, révèle d'autant plus clairement à l'Initié comment il doit travailler tous les jours pour tailler lui-même cette pierre précieuse entre toutes, la Pierre Philosophale, plus précieuse que le Kohinoor, plus précieuse même que toutes les richesses de la Terre! Il lui rappelle comment l'humanité, dans son ignorance, gaspille à chaque instant la substance matérielle même dont elle dispose et qu'elle pourrait faire servir à la formation de ce trésor sans prix.
 
@@ -4217,9 +4211,7 @@ Il n'y a pas à craindre non plus que l'instructeur néglige quiconque a atteint
 
 Bien entendu, il est impossible, dans un livre destiné au public, de décrire les degrés de l'Initiation Rosicrucienne; d'abord, ce serait là un abus de confiance et, de plus, les mots manqueraient pour s'exprimer d'une manière adéquate. Mais il est permis de donner un exposé de cette initiation et d'en montrer le but.
 
-Les Mystères Mineurs se rapportent uniquement à l'évolution humaine pendant la Période de la Terre.
-
-Pendant les trois premières Révolutions et demie de la vague de vie sur les sept globes, les Esprits Vierges n'avaient pas encore atteint à la conscience; c'est pourquoi, nous ignorons comment nous sommes parvenus à notre degré d'évolution actuel. Le candidat doit recevoir des éclaircissements sur ce sujet; aussi, pendant la période d'initiation du premier degré, sous l'influence des Hiérophantes, sa conscience est tournée vers cette page de la Mémoire de la Nature sur laquelle est gravée l'image de la première Révolution, alors que nous récapitulions le développement de la Période de Saturne. Toujours en pleine possession de sa conscience à l'état de veille, il connaît et se rappelle les évènements de la vie du 20e siècle, mais il passe maintenant en revue le progrès des légions d'Esprits Vierges dont il faisait lui-même partie pendant la Révolution de Saturne. Ainsi, il apprend quelles furent les premières mesures prises, dans la Période de la Terre, pour arriver au but fixé qui lui sera révélé dans un degré d'initiation ultérieur.
+Les Mystères Mineurs se rapportent uniquement à l'évolution humaine pendant la Période de la Terre. Pendant les trois premières Révolutions et demie de la vague de vie sur les sept globes, les Esprits Vierges n'avaient pas encore atteint à la conscience; c'est pourquoi, nous ignorons comment nous sommes parvenus à notre degré d'évolution actuel. Le candidat doit recevoir des éclaircissements sur ce sujet; aussi, pendant la période d'initiation du premier degré, sous l'influence des Hiérophantes, sa conscience est tournée vers cette page de la Mémoire de la Nature sur laquelle est gravée l'image de la première Révolution, alors que nous récapitulions le développement de la Période de Saturne. Toujours en pleine possession de sa conscience à l'état de veille, il connaît et se rappelle les évènements de la vie du 20e siècle, mais il passe maintenant en revue le progrès des légions d'Esprits Vierges dont il faisait lui-même partie pendant la Révolution de Saturne. Ainsi, il apprend quelles furent les premières mesures prises, dans la Période de la Terre, pour arriver au but fixé qui lui sera révélé dans un degré d'initiation ultérieur.
 
 Après avoir appris la leçon telle qu'elle est pratiquement décrite au chapitre 10, le candidat a acquis sur ce sujet des connaissances personnelles directes; il est entré en contact avec les Hiérarchies Créatrices dans leur travail pour et avec l'homme; il est, par suite, capable d'apprécier les bienfaits de leurs travaux dans le Monde et, dans une certaine mesure, de se mettre en ligne avec elles pour collaborer autant qu'il peut à leurs efforts.
 
@@ -4233,7 +4225,9 @@ Dans le second degré, il suit le travail de la Révolution du Soleil et sa rép
 
 Dans le troisième degré, il observe le travail de la Révolution de la Lune et voit comment ce travail fut le fondement de la vie pendant l'Epoque Lémurienne.
 
-Dans le quatrième degré, il voit l'évolution de la dernière demi-Révolution avec la période correspondante pendant notre séjour actuel sur la Terre, c'est-à-dire la première moitié de l'Epoque Atlantéenne qui prit fin quand la dense atmosphère de brouillard se dissipa et que le Soleil brilla pour la première fois sur les continents et sur les mers. Alors finit la nuit de notre inconscience; les yeux de l'Ego incarné furent complètement ouverts et il fut capable de diriger la Lumière de la Raison sur le problème de la conquête du Monde. C'est à cette époque que l'homme, tel que nous le connaissons maintenant, est né pour la première fois. Lorsque, dans les systèmes d'initiation de l'antiquité, le candidat restait en transe pendant trois jours et demi, cela correspondait à la partie de l'initiation que nous venons de décrire. Les trois jours et demi se rapportent au développement qui était passé en revue et nullement à des jours de vingt-quatre heures. La durée de ce stade d'initiation varie avec chaque candidat mais, dans tous les cas, on lui fait voir le développement inconscient de l'humanité pendant les Périodes passées et, quand on parle de son réveil, le quatrième jour, au lever du soleil, c'est une manière mystique d'expliquer que son initiation au travail d'involution de l'homme cesse au moment où le Soleil se lève sur la claire atmosphère de l'Atlantide. Alors le candidat est aussi salué comme un "premier-né".
+Dans le quatrième degré, il voit l'évolution de la dernière demi-Révolution avec la période correspondante pendant notre séjour actuel sur la Terre, c'est-à-dire la première moitié de l'Epoque Atlantéenne qui prit fin quand la dense atmosphère de brouillard se dissipa et que le Soleil brilla pour la première fois sur les continents et sur les mers. Alors finit la nuit de notre inconscience; les yeux de l'Ego incarné furent complètement ouverts et il fut capable de diriger la Lumière de la Raison sur le problème de la conquête du Monde. C'est à cette époque que l'homme, tel que nous le connaissons maintenant, est né pour la première fois. 
+
+Lorsque, dans les systèmes d'initiation de l'antiquité, le candidat restait en transe pendant trois jours et demi, cela correspondait à la partie de l'initiation que nous venons de décrire. Les trois jours et demi se rapportent au développement qui était passé en revue et nullement à des jours de vingt-quatre heures. La durée de ce stade d'initiation varie avec chaque candidat mais, dans tous les cas, on lui fait voir le développement inconscient de l'humanité pendant les Périodes passées et, quand on parle de son réveil, le quatrième jour, au lever du soleil, c'est une manière mystique d'expliquer que son initiation au travail d'involution de l'homme cesse au moment où le Soleil se lève sur la claire atmosphère de l'Atlantide. Alors le candidat est aussi salué comme un "premier-né".
 
 Familiarisé ainsi avec le chemin parcouru dans le passé, le candidat est amené par le cinquième degré jusqu'à la fin de la Période de la Terre, alors qu'une humanité glorieuse recueille les fruits de cette Période et les emporte, des sept globes sur lesquels elle a évolué pendant chaque jour de manifestation, sur le premier des cinq globes obscurs que nous habitons pendant les Nuits Cosmiques. Le plus dense de ces globes est situé dans la région de la Pensée Abstraite; c'est en réalité, le "Chaos" dont il est parlé à la page 248 et suivantes. Ce globe est aussi le Troisième Ciel et quand Paul dit avoir été ravi jusqu'au Troisième Ciel et avoir entendu des choses qu'il ne lui était pas permis de révéler, il fait allusion à des expériences correspondant au cinquième degré des Mystères Rosicruciens actuels.
 
@@ -4271,7 +4265,7 @@ C'est pourquoi chaque Candidat du Rosicrucian Fellowship accomplit ses exercices
 
 Quand le Candidat a rempli les conditions requises et complété le terme de sa mise à l'épreuve, il peut faire une demande pour recevoir une instruction individuelle par les Frères Aînés, et l'adresser au Siège International.
 
-#### <h4 id="">La Siège International de The Rosicrucian Fellowship</h4>
+#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">La Siège International de The Rosicrucian Fellowship</h4>
 
 The Rosicrucian Fellowship ayant été fondé pour répandre l'enseignement donné dans ce livre et aider les aspirants dans la voie du progrès, il devint nécessaire d'avoir un lieu permanent avec les équipements utiles à l'exécution de ce travail. Dans ce but, un terrain fut acheté dans la ville d'Oceanside, Californie, (Etats-Unis), à 140 km au sud de Los Angeles et 55 km au nord de San Diego, ville la plus au sud-ouest des Etats-Unis.
 
@@ -4279,29 +4273,17 @@ Cette propriété occupe une situation dominante, offrant une vue magnifique sur
 
 La Californie du Sud offre des occasions exceptionnelles de croissance de l'âme grâce aux éthers de l'atmosphère qui y sont plus denses que partout ailleurs dans le monde, et Mount Ecclesia - ainsi se nomme le Siège International du Rosicrucian Fellowship - est particulièrement favorisé à cet égard.
 
-##### <h5 id="">Bâtiments</h5>
+#### <h4 id="our-buildings">Bâtiments</h4>
 
-Les travaux furent commencés à la fin de 1911. La Chapelle, Pro Ecclesia, dans laquelle se célèbrent chaque jour deux services de 15 minutes chacun depuis sa consécration en décembre 1913, a été rénovée en 1962. Le dimanche matin a lieu un service comprenant une allocution. Le public est le bienvenu à tous les services célébrés à la Chapelle.
+The work at Headquarters was begun toward the end of 1911. To date (1973) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two 15-minute services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be conducted on Sundays. A two-story Administration Building was completed in 1917, and renovated in 1962. On the second floor are offices for the various departments: Esoteric, Correspondence Courses, Editorial, Foreign Languages, and Accounting. On the first floor are the Shipping Department and the print shop, where Lessons, RAYS, pamphlets, etc., are printed. An offset press was installed in 1972. 
 
-Le Temple, centre de l'activité de guérison a été inauguré à Noël 1920. Un service auquel n'assistent que les Candidats, y est célébré chaque soir.
-
-Le bâtiment administratif a été construit en 1917 et rénové en 1962. En 1975, un nouveau bâtiment administratif a été construit à proximité de l'ancien; il contient des bureaux pour les divers services: Editions, Esotérique, Espagnol, Comptabilité et Exécutif. Au premier étage de l'ancien bâtiment sont les services Français, Allemand, d'Astrologie et de la Rédaction. Les réserves de brochures et d'autres textes s'y trouvent également. Le rez-de-chaussée du même bâtiment abrite les ateliers d'imprimerie et de reliure, ainsi que notre assortiment de livres. La forte augmentation de nos ventes de livres au cours des dernières années nous a obligé à faire imprimer ailleurs la plupart de nos livres, mais notre "Magazine", Rays from the Rose-Cross (Rayons de la Rose-Croix) est toujours réalisé dans nos ateliers, de même que nos nombreuses brochures et autres imprimés de diffusion.
-
-La salle à manger - ou "Caféteria" - sert des repas végétariens au public et au personnel. Il a été construit en 1914, agrandi en 1939, rénové en 1962 et modernisé en 1977.
-
-Le bâtiment du sanatorium a été inauguré en 1931 et utilisé pendant un certain nombre d'années pour loger et traiter des patients atteints de maladies non contagieuses. Il sert maintenant de Guest House (maison d'accueil) pour nos membres en visite, leur famille, et pour le personnel.
-
-Le bâtiment du Service de guérison a été construit en 1940. Il abrite les bureaux où travaillent les secrétaires chargé(e)s de ce département.
-
-Avec les années, ce terrain naguère broussailleux s'est transformé en un véritable parc, avec de nombreux palmiers, eucalyptus, poivriers d'Amérique et autres arbres d'agrément, sans parler des arbustes et des parterres de fleurs.
+The Dining Hall was built in 1914, added to in the late 30's, and renovated in 1962. Vegetarian meals are served. The Healing Temple, where a healing service is conducted each evening, was completed in 1920. Rose Cross Lodge was built in 1924, for the use of guests and workers. It is now used largely for storing books. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from noncontagious diseases. It is now our Guest House, used by workers and members. Numerous cottages built since 1962, and some renovated ones provide living quarters for workers. The Healing Dept. Building was erected in 1940. Here secretaries conduct our healing work. 
 
 #### <h4 id="corespondence-courses">Nos Cours par Correspondance</h4>
 
 En plus des livres indiqués à la fin de ce volume, il existe trois cours par correspondance offerts sur la base du don volontaire: Philosophie Rosicrucienne, Bible et Astrologie.
 
 #### <h4 id="symbolism-of-the-rose-cross">Le Symbolisme de la Rose-Croix</h4>
-
-Symbole de la Rose-Croix!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Quand nous cherchons la signification d'un mythe, d'une légende ou d'un symbole de valeur occulte, il est absolument nécessaire de comprendre que, de même qu'un objet, dans notre monde à trois dimensions, peut ou plutôt doit être considéré sous toutes ses faces pour que nous en ayons une compréhension entière et complète, de même tous les symboles ont un certain nombre d'aspects. Chaque point de vue révèle une phase différente des autres et tous ont également droit à notre considération.
 
@@ -4327,9 +4309,21 @@ C'est pourquoi les Rosicruciens souhaitent ardemment voir paraître le jour où 
 
 Jean parle de sa purification (1 Jean 3:9) et dit que celui qui est né de Dieu ne peut pas pécher, car il garde sa semence en lui. La chasteté est absolument nécessaire au progrès de l'aspirant. Toutefois il faut tenir compte qu'on n'exige pas de l'homme un célibat absolu jusqu'à ce qu'il ait atteint le point où il est prêt pour les Grandes Initiations, et que c'est notre devoir envers l'humanité de perpétuer la race. Si notre condition mentale, morale, physique et financière le permet, nous pouvons accomplir l'acte de génération comme un saint sacrifice offert sur l'autel de l'humanité, mais non pour le plaisir des sens. L'acte ne devrait pas non plus être accompli d'une manière austère ou avec répugnance, mais dans la joie de se donner soi-même pour le privilège de fournir à un ami qui cherche à renaître le corps et le milieu nécessaires à son développement. Ainsi, nous l'aiderons aussi à faire fleurir les roses sur sa croix.
 
-#### <h4 id="">Exercices du Matin et du Soir de l'Aspirant</h4>
+## Topical Index: Alphabetical List of Words Indexed
 
-##### <h5 id="">L'Exercice du Soir</h5>
+The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
+
+Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
+
+The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
+
+By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
+
+[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
+
+### Addendum A: Exercices du Matin et du Soir de l'Aspirant
+
+#### <h4 id="">L'Exercice du Soir</h4>
 
 L'exercice du soir, la Rétrospection, a une valeur plus grande que toute autre méthode pour faire avancer l'aspirant dans le sentier du progrès. Son effet est tel qu'il permet à celui qui le pratique d'apprendre par anticipation, non seulement toutes les leçons de l'existence présente, mais encore des leçons qui sont d'ordinaire réservées à des vies futures.
 
@@ -4361,6 +4355,16 @@ Une ancienne légende dit que la recherche d'un trésor doit se faire dans le ca
 
 Enfin, évitez de regarder les exercices comme une tâche ennuyeuse. Estimez-les à leur juste valeur; ils sont nos plus grand privilèges. C'est seulement en les considérant ainsi que nous leur rendons justice et en récoltons tous les bienfaits.
 
+### CONCERNING THE ORIGIN OF THE FELLOWSHIP TEACHINGS
+
+Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
+
+In the years 1907-08, after being tested for sincerity of purpose and selfless desire to aid his fellowmen, Max Heindel was selected by the Brothers of the Rose Cross to give out publicly the Western Wisdom Teachings and thus help prepare humanity for the coming Age of Universal Brotherhood. By means of intense self-discipline and devotion to service he earned the status of Lay Brother (Initiate) in the exalted Rosicrucian Order. 
+
+Under the direction of the Brothers of the Rose Cross, spiritual giants of the human race, Max Heindel wrote The Rosicrucian Cosmo-Conception, an epoch-making book which has now become the Western World's leading textbook on occultism. By means of his own spiritual development he was able to verify for himself much that was given in the Cosmo-Conception, as well as to gain additional knowledge that later become embodied in his numerous books. 
+
+One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
+
 ### <h3 id="">Qu'est-ce que la Vérité?</h3>
 
 Pilate a posé la question "Qu'est-ce que la vérité?" mais comme il était incapable de trouver en lui-même la solution, il n'a reçu aucune réponse.
@@ -4384,3 +4388,66 @@ Lorsque le mystique voit la lumière de l'aube, il la regarde comme la venue quo
 A certains moments, nous avons tous foulé des sentiers différents. Un temps, nous avons cheminé à travers la Vie sous le rayon martial, et avons suivi le sentier de l'activité et de la passion, sans nous préoccuper de ceux qui souffraient et de ce qu'il advenait d'autrui. Dans une autre vie, nous sommes venus sous le rayon plus clair de la couleur vénusienne, et suivi le sentier du côté "amour" de la vie. Plus tard, nous avons pris le sentier bleu foncé du Rayon de Saturne, et plus tard encore celui du bleu clair ou Rayon de Jupiter. Ainsi, nous sommes tous dans l'attente de la perception supérieure qui provient du Rayon jaune d'Uranus, bien que la plupart d'entre nous ne soient actuellement capables de le recevoir, et que nous devions nous contenter du jaune inférieur, plus foncé, du Rayon de Mercure. Nous travaillons tous à nous rapprocher graduellement de la lumière blanche qui provient du Soleil, cette lumière qui est l'union de toute couleur. C'est à celle-ci que nous devons aspirer, car la lumière de n'importe quel autre rayon n'est que secondaire. C'est de la grande Source centrale que proviennent toutes choses.
 
 "Et qu'en est-il des ténèbres" pourrait-on demander, "représentent-elles le mal?" Non, il n'y a aucun mal dans l'univers de Dieu. Pendant la journée, la lumière du Soleil nous permet de percevoir les splendeurs de cette petite Terre qui gravite dans l'espace, et s'il n'existait que la lumière, peut-être ne percevrions-nous rien au-delà de notre Terre et resterions ignorants du fait qu'il existe d'autres globes que le Soleil et la Lune. Mais quand vient la nuit et que les splendeurs du jour se sont évanouies, lorsque le Soleil n'illumine plus le ciel, nous devenons capables de nous rendre compte, du moins dans une certaine mesure, de l'immensité de l'espace. Nous pouvons voir des mondes éloignés de millions et de millions de kilomètres, et l'Esprit est saisi d'une merveilleuse dévotion, alors que nous pensons longuement à la Vérité selon laquelle DIEU EST TOUT EN TOUS. (I Corinthiens 15:28).
+
+### Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?
+
+Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
+
+Answer: A question like the above was asked Mr. Heindel at one of his recent lectures in Los Angeles and he answered about as follows: While all great religions are God-given, there is a Western religion for the Western people as well as Hinduism for the people of India and I can see no good reason why we should copy their terminology and force people here to learn Sanskrit when we have an excellent language of our own, with terms capable of explaining everything. To make the matter clear, we will take an instance which occurred a number of years ago. There was at that time a controversy in a certain society which makes the mistake of promulgating Eastern teachings and using their terms here in the West. The dispute was about the word "Avyaktam". 
+
+Not even the Hindus are certain about the meaning of their terminology. Tons of paper and barrels of ink were used to settle the controversy and the following seems to be the definition upon which they finally compromised: "Avyaktam" is Parabraham clothed in Mulaprakriti, from which its UPAHHIS are made during the Manvantara and into which they are again resolved on arrival of the Arolaya." Mr. Heindel then said that he hoped the audience understood the meaning of "Avyaktam". When the audience laughed and shook their heads, the speaker expressed himself as being sorry for their lack of understanding of such a highly learned explanation, he would try the ordinary, garden variety of English and see if that would explain. "Avyaktam is Deity clothed in Cosmic Root Substance, from which its vehicles are made during the Day of Manifestation and into which they again resolve on arrival of the Cosmic Night." 
+
+When the audience had declared they comprehended this explanation, Mr. Heindel said it is the same with the word "karma". Everybody in the U.S. and a large part of the world besides, knows what a "debt of destiny" is without explanation and there are a number of other English words which may be used with better effect than the Hindu word karma, which is meaningless to the majority of Westerners. The speaker also held that such words as "astral" and "incarnation" were out of place because they have been conceived to mean something not warranted. He was sorry that the word "incarnation" had been used in our earliest literature, notably in the Cosmo. The Elder Brothers who gave him the teaching in German always used the word "Wiedergeburt", which means rebirth, and there is a great deal of difference between the two terms which may not appear at first sight. 
+
+It is possible for a Spirit to incarnate in an adult body by ousting the owner from his vehicle, by obsessing the body, but when we say rebirth, there is, and can be, only one meaning. In view of these facts he urges upon students never to use the term "incarnation" but always the word rebirth. 
+_____________________
+
+From The Rosicrucian Philosophy in Questions and Answers, Vol. 2, quoting an article by Mrs. Heindel in the March, 1915 "Echoes". 
+
+### Addendum C: Footnote to Chapter XIII (Regarding Race)
+
+The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
+
+Growth never ceases. In the twenty-first century, we can look back and see the tremendous growth that has taken place in our world. These changes have taken place in accordance with spiritual principles outlined in this book. 
+
+During the Lemurian Epoch, Jehovah came with His Angels and Archangels and made the first great division into Races, giving to each group the guiding influence of a Race-spirit-an Archangel. For each virgin spirit he appointed one of the Angels to act as guardian until the individual spirit had grown strong enough to become emancipated from all outside influence. There will be a total of sixteen races. (Cosmo-Conception, page 352) 
+
+We must recognize that we are not bodies, or races, but virgin spirits striving for perfection. If, as a virgin spirit, we forget this and identify ourselves with our Race, clinging to it with fanatic patriotism, then there is a great likelihood that we will become enmeshed in and sink with it when our fellow virgin spirits have passed to greater heights on the Path of Attainment. (Cosmo-Conception, page 307) 
+
+The reader is requested to note carefully that it is the Forms which degenerate. There is a very important distinction to be kept in mind between the bodies (or forms) of a race, and the spirit which is reborn in those race-bodies. (Cosmo-Conception, page 289) 
+
+Max Heindel gives various examples of groups to whom the integrity of the race was insisted upon. He mentions the Jews, and other early nations, as well as the Scots, Vikings, and Germano-Anglo-Saxons. He points out that occult scientists refer to the Sixteen Races as "the sixteen paths to destruction"; and Max Heindel wishes that "the reader may safely pass them all, for their grip is worse than the retardation in the next revolution." (Cosmo-Conception, page 231) 
+
+History is full of examples of "man's inhumanity to man". All Races have had individuals who have forgotten their spiritual heritage and have identified themselves with their Race and or Race-religion-"clinging to it with fanatic patriotism". Max Heindel gives the example of the white races who "have been guilty of fearful oppression against those other races, having in many cases massacred multitudes of the defenseless and unsuspecting natives-as witness the conduct of the Spaniards towards the ancient Peruvians and Mexicans, to specify but one of many instances". (Cosmo-Conception, page 290) 
+
+Christ came to prepare the way for the emancipation of humanity from the guidance of the differentiating Race and Family spirits, and to unite the whole human family in One Universal Brotherhood. (Cosmo-Conception, page 352) 
+
+Let us be mindful of Max Heindel's words to us: 
+
+```
+There's but one thing the world has need to know,
+There's but one balm for all our human woe,
+There's but one way that leads to heaven above.
+That way is Human Sympathy and Love.
+```
+
+For further study:
+
+Page 5, "A Word to the Wise"
+Page 223, "Stragglers and Newcomers"
+Page 386, "The Lucifer Spirits"
+Page 306, "The Sixteen Paths to Destruction"
+Page 347, "Guardian Angels"
+Page 352, "Mixing Blood in Marriage"
+Page 367, "The Evolution of Religion"
+Page 383, "Not Peace But A Sword"
+
+### Addendum D: Footnote to "Our Buildings"
+
+The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
+
+The Dining Hall was built in 1914, added to in the late 30's, renovated in 1962, with a sprouting room added in 1978. Here vegetarian meals are served to the workers and general public. In the Healing Temple, or Ecclesia, a healing service has been conducted each evening since the day of its dedication on Holy Night, December 24, 1920. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from non-contagious diseases. It is now called the Guest House and is used by workers and Fellowship members as living quarters and visitor accommodations. Numerous cottages have been built and renovated over the years to provide worker residences, the most recent structure being a two-level six-plex completed in 1976. 
+
+The Healing Department Building was erected in 1938. Built in the shape of a cross, it contains offices for the secretaries, who respond to requests for spiritual healing, and a healing Chapel in which a healing service is held at 8:45 am Monday through Friday. Adjacent to the Administration Building is a one-story structure containing the Business Offices, which include the Editorial Office for the "Rays from the Rose Cross" magazine (which was published for the first time in 1911 by Mr. Heindel), the Accounting Office, and Retail and Dealer Sales. 
+
+End of "The Rosicrucian Cosmo-Conception"
