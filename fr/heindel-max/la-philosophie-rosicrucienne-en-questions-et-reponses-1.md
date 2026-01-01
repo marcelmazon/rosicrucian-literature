@@ -252,7 +252,7 @@ Oceanside, California, U.S.A., 92054
     - [The Seven World-Periods](#diagram-the-seven-world-periods)
     - [Four Great Initiations](#diagram-four-great-initiations)
 
-### INTRODUCTION
+### <h3 id="a-word-of-explanation">Introduction</h3>
 
 Les questions que contient ce livre ont été posées à l'auteur à l'issue de conférences faites dans différentes villes des Etats-Unis. Ainsi qu'on pourra le voir, les auteurs de ces questions possédaient déjà une certaine connaissance du sujet.
 
@@ -260,19 +260,19 @@ A l'intention des lecteurs qui ne seraient pas du tout au courant des enseigneme
 
 La philosophie des Rose-Croix enseigne que l'homme est un être composite, possédant:
 
-1) UN CORPS DENSE, intrument visible dans lequel il exerce son activité physiqye en ce monde. C'est ce coprs que l'on prend ordinairement pour l'homme complet.
+(1) UN CORPS DENSE, intrument visible dans lequel il exerce son activité physiqye en ce monde. C'est ce coprs que l'on prend ordinairement pour l'homme complet.
 
-2) UN CORPS VITAL, fait d'éther, qui interpénètre toutes choses, à cette différence près que l'homme polarise l'éther universel dans des proportions plus grandes que ne le font les autres formes. Ce corps éthérique est l'instrument dont se sert l'homme pour assimiler l'énergie vital du soleil.
+(2) UN CORPS VITAL, fait d'éther, qui interpénètre toutes choses, à cette différence près que l'homme polarise l'éther universel dans des proportions plus grandes que ne le font les autres formes. Ce corps éthérique est l'instrument dont se sert l'homme pour assimiler l'énergie vital du soleil.
 
-3) UN CORPS DU DÉSIR, ou nature émotionnelle, qui interpénètre à la fois le corps vital et le corps dense. Ce véhicule subtil apparaît aux yeux du clairvoyant comme un nuage ovoïde s'étendant à quarante centimètres environ de la périphérie du corps physique, lequel se trouve placé en son centre comme le jaune au centre de l'oeuf.
+(3) UN CORPS DU DÉSIR, ou nature émotionnelle, qui interpénètre à la fois le corps vital et le corps dense. Ce véhicule subtil apparaît aux yeux du clairvoyant comme un nuage ovoïde s'étendant à quarante centimètres environ de la périphérie du corps physique, lequel se trouve placé en son centre comme le jaune au centre de l'oeuf.
 
-4) UN INTELLECT OU MENTAL, miroir réfléchissant le monde extérieur, ce qui permet à l'Ego de transmettre ses ordres sous formes de pensées et de paroles et de commander ainsi l'action.
+(4) UN INTELLECT OU MENTAL, miroir réfléchissant le monde extérieur, ce qui permet à l'Ego de transmettre ses ordres sous formes de pensées et de paroles et de commander ainsi l'action.
 
 L'EGO est l'esprit triple qui utilise ces véhicules dans le but d'acquérir de l'expérience à l'école de la vie. 
 
-## PARTIE 1 - QUESTIONS TRAITANT DE LA VIE SUR TERRE
+<h2 id="section-1">Partie 1 - Questions Traitant de la Vie sur Terre</h2>
 
-### QUESTION 1
+### <h3 id="question-1">Question 1</h3>
 
 Si nous étions de pur esprit et partie d'un Dieu Omniscient, pourquoi a-t-il été nécessaire pour nous de faire ce long pèlerinage de péché et de souffrance à travers la matière?
 
@@ -280,13 +280,13 @@ RÉPONSE - Au commencement de la manifestation, Dieu a différencié en Lui-mêm
 
 La plupart des gens ont tendance à croire que tout ce qui existe est le résultat de quelque chose d'autre, ne laissant pas de place pour une construction nouvelle, originale. Ceux qui étudient la vie parlent en général seulement d'involution et d'évolution; ceux qui étudient la forme, à savoir les savants modernes, ne s'intéressent qu'à l'évolution, mais les plus avancés d'entre eux sont en train de découvrir un autre facteur qu'ils ont appelé l'épigénèse. En 1757 déjà, Caspard-Frédéric Wolff publia sa "Theorea Generationis", dans laquelle il démontrait que dans le développement de l'ovule il y a une série de constructions nouvelles qui ne sont pas du tout prévues par ce qui s'est produit auparavant; et Haeckel, adoptant ces conclusions, dit que, de nos jours, il n'est plus justifié d'appeler l'épigénèse une théorie, car elle est un fait que nous pouvons démontrer, à l'aide d'un microscope, dans le cas des formes inférieures où les changements sont rapides. Depuis que l'intellect a été donné à l'homme, c'est l'épigénèse, impulsion créatrice originelle, qui a été la cause de tout notre développement. Certes, nous construisons sur ce qui a déjà été créé, mais il y a aussi quelque chose de nouveau dû à l'activité de l'esprit, et c'est ainsi que nous devenons des créateurs, car si nous ne faisions qu'imiter ce qui a déjà été tracé pour nous par Dieu ou par les Anges, nous n'aurions jamais la possibilité de devenir des intelligences créatrices; nous serions simplement des imitateurs. Et bien que nous fassions des erreurs, on peut dire que souvent nous apprenons plus par nos erreurs que par nos succès. Le péché et la souffrance dont parle l'auteur de la question sont simplement le résultat des erreurs que nous faisons, et l'impression qu'elles font sur notre conscience nous incite à être actifs dans d'autres directions qui se révèlent être bonnes, c'est-à-dire en harmonie avec la nature. Ce monde est donc une école préparatoire et non une vallée de larmes dans laquelle nous aurait placé un Dieu capricieux. (voir question 9).
 
-### QUESTION 2
+### <h3 id="question-2">Question 2</h3>
 
 Si "Dieu a fait l'homme un peu inférieur aux Anges", comment est- il possible que l'homme doive finalement leur être supérieur dans le Monde Spirituel?
 
 RÉPONSE - Cette question révèle une méprise de la part de son auteur. Cela n'a jamais été affirmé de cette manière dans les enseignements Rosicruciens, mais nous avons dit quelque chose qui a pu être mal interprété. Le fait est que l'évolution progresse en spirale et qu'il n'y a jamais répétition de la même condition. Les Anges sont un courant d'évolution antérieur, et il étaient humains au cours d'une précédente incarnation de la Terre, appelée la Période de la Lune par les Rosicruciens. Les Archanges étaient l'humanité de la Période du Soleil, et les Seigneurs de l'Intellect, que Paul appelle les "Puissances des Ténèbres" (Colossiens 1/13), étaient l'humanité de la sombre Période de Saturne. Et nous sommes l'humanité de la quatrième période du plan de manifestation, la Période de la Terre. Comme tous les êtres dans l'univers progressent, l'humanité des précédentes périodes a aussi évolué de sorte qu'elles sont maintenant à un degré supérieur à celui qui était le leur lorsqu'elles étaient au stade humain - et leur développement est suprahumain. Il est donc parfaitement vrai que Dieu a fait l'homme un peu inférieur aux Anges. Mais comme toute chose est dans un état de progression en spirale, il est vrai aussi que notre humanité actuelle est une humanité supérieure à celle des Anges et plus évoluée; et il est vrai aussi que les Anges furent une humanité supérieure à celle des Archanges lorsque ceux-ci étaient humains. Dans notre prochaine étape nous atteindrons quelque chose de semblable au niveau des Anges actuellement, mais nous serons supérieurs à ce qu'ils sont maintenant.
 
-### QUESTION 3
+### <h3 id="question-3">Question 3</h3>
 
 Pourquoi était-il nécessaire pour nous de venir dans cette existence physique? N'aurions-nous pas pu apprendre les même leçons sans être emprisonnés et limités par les conditions denses du monde matériel?
 
@@ -306,7 +306,7 @@ Le Monde Physique enseigne à l'inventeur à penser correctement, et ses machine
 
 Le même principe est valable dans les entreprises commerciales, sociales ou philanthropiques. Si nos idées concernant les divers domaines de la vie sont erronées, elles sont corrigées lorsqu'elles sont mises en pratique, et c'est pourquoi ce monde matériel est d'une nécessité absolue pour nous apprendre à exercer le pouvoir de la pensée et du désir, alors qu'actuellement ces deux forces sont contenues dans une grande mesure par nos conditions matérielles. Mais étant donné qu'avec le temps nous apprenons à penser de plus en plus correctement, nous obtiendrons finalement un pouvoir de la pensée qui nous permettra d'avoir la pensée juste immédiatement, dans chaque cas, sans expérimentation, et alors nous serons aussi capables d'exprimer notre pensée par le Verbe, créateur d'objets tangibles. Dans un passé très, très reculé, alors que l'homme était encore un être spirituel et que l'état de la Terre était plus plastique que de nos jours, il apprenait directement des Dieux à utiliser le Verbe pour créer, et il travaillait alors à la formation des animaux et des plantes. La Bible nous apprend que Dieu amena les animaux devant l'homme qui les nomma (Genèse 2/20). Il ne s'agissait pas simplement d'appeler un lion "lion", mais c'était un processus de formation qui donnait à l'homme un pouvoir sur la chose qu'il nommait, et ce n'est que lorsque l'égoïsme, la cruauté et la colère déchaînée eurent rendu l'homme inapte à cette maîtrise que le pouvoir du Verbe dont parlent les Franc-Maçons a été perdu. Lorsque la sainteté aura à nouveau remplacé l'impiété, le Verbe sera retrouvé et sera le pouvoir créateur de l'homme divin dans un âge futur.
 
-### QUESTION 4
+### <h3 id="question-4">Question 4</h3>
 
 Si cette vie sur terre est tellement importante et constitue réellement la base de notre croissance de l'âme qui, elle, résulte des expériences faites ici-bas, pourquoi est-elle si courte en comparaison de la vie dans les Mondes Intérieurs, dont la durée est approximativement d'un millier d'années entre deux vies ici-bas?
 
@@ -314,7 +314,7 @@ RÉPONSE - Tout ce qui, en ce monde, a été fait de main d'homme est de la pens
 
 Mais il est très différent d'élaborer des objets à l'aide de substance mentale et d'élaborer des objets ici-bas, faits de matière concrète. Actuellement, nous sommes des penseurs très besogneux et il nous faut un temps considérable pour façonner les formes-pensées au Deuxième Ciel; ensuite, nous devons attendre un temps considérable avant que ces formes-pensées ne se soient cristallisées sous la forme de l'environnement physique dans lequel nous devons renaître. C'est la raison pour laquelle il est nécessaire que nous restions dans les Mondes Célestes beaucoup plus longtemps que sur terre. Quand nous aurons appris à penser correctement, nous serons capables de créer des objets ici-bas dans le Monde Physique, en un temps beaucoup plus court qu'il ne nous en faut actuellement pour les fabriquer laborieusement. Il ne sera alors plus nécessaire que nous restions si longtemps dans les Mondes Célestes comme c'est actuellement le cas.
 
-### QUESTION 5
+### <h3 id="question-5">Question 5</h3>
 
 Dans combien de temps pourrons-nous nous passer de nos corps physiques et fonctionner de nouveau uniquement dans les Mondes Spirituels?
 
@@ -322,13 +322,13 @@ RÉPONSE - Cette question révèle un état d'esprit très répandu parmi ceux q
 
 Cette disposition d'esprit est extrêmement regrettable. Nous devrions être reconnaissants de posséder un si bon instrument physique, car il est le plus précieux de tous ceux que nous avons. S'il est parfaitement vrai qu'il est notre véhicule inférieur, il n'en est pas moins le plus perfectionné et, sans lui, nos autres véhicules ne nous serviraient pas à grand-chose, présentement. Car cet instrument splendidement organisé nous permet de faire face aux milliers de conditions que nous rencontrons ici-bas, alors que nos véhicules supérieurs sont pratiquement inorganisés. Notre corps vital est formé, organe pour organe, sur le modèle de notre corps dense mais, tant qu'il n'aura pas été entraîné au moyen d'exercices ésotériques, ce n'est pas un instrument approprié pour y fonctionner. Le corps du désir ne possède qu'un certain nombre de centres de perception qui, chez la majorité des humains, ne sont même pas actifs. Quant à l'intellect, ce n'est encore, chez la plupart d'entre nous, qu'un nuage informe. Aujourd'hui, nous devrions nous efforcer de spiritualiser notre instrument physique, et être conscients que nous devons entraîner nos véhicules supérieurs avant qu'ils puissent être utiles. Pour la grande masse de l'humanité, ce sera un but très très long à atteindre. C'est pourquoi il est préférable d'accomplir le devoir qui est à notre portée, ainsi nous rapprocherons le jour où nous serons capables d'utiliser nos véhicules supérieurs, car ce jour dépend de nous.
 
-### QUESTION 6
+### <h3 id="question-6">Question 6</h3>
 
 L'esprit entre-t-il dans le corps au moment de la conception ou à celui de la naissance?
 
 RÉPONSE - Des investigations faites par des clairvoyants précisent qu'au moment de la mort, l'esprit emporte avec lui les forces d'un petit atome situé dans le ventricule gauche du coeur; c'est l'atome-germe, ainsi nommé parce qu'il forme le noyau, ou germe, autour duquel se rassemblent tous les matériaux dont se compose le corps, et chaque atome dans le corps doit être capable de vibrer à l'unisson de cet atome-germe. Ainsi, cet atome est déposé dans le liquide séminal du père peu avant la conception, et placé ensuite dans la matrice de la mère. Mais la conception ne coïncide pas du tout avec l'union sexuelle des parents. Le spermatozoïde fécondé ne pénétrant parfois dans l'ovule qu'une quinzaine de jours après cette union. C'est cette fécondation de l'ovule qui peut être appelée le moment de la conception, car c'est à l'instant où l'ovule fécondé quitte la trompe de Fallope que commence la période de gestation. Pendant les dix-huit à vingt premiers jours, tout le travail est fait par la mère. A la fin de ce temps, l'Ego qui va renaître, revêtu d'un nuage de matière-désir et de matière mentale qui a la forme d'une cloche, pénètre dans le sein maternel, et le nuage en forme de cloche se ferme à sa base et prend alors une forme ovoïde. Dorénavant, l'esprit se trouve enfermé dans la chair et ne peut plus se dégager, mais doit rester avec la mère jusqu'à ce qu'il soit libéré par la naissance. Au degré actuel de notre développement, l'esprit fait très peu de travail conscient sur son véhicule en formation, mais il est présent en permanence et collabore inconsciemment à la tâche de fournir cet instrument. Ceci n'est pas plus frappant que le fait qui veut que nous soyons capables de digérer nos aliments et de faire fonctionner nos organes respiratoires sans que nous soyons conscient de chaque processus.
 
-### QUESTION 7
+### <h3 id="question-7">Question 7</h3>
 
 Quel était le but de la division des sexes?
 
@@ -336,29 +336,30 @@ RÉPONSE - La division des sexes a été faite tout au début de l'évolution de
 
 Avant cette division, l'homme était, comme certaines plantes de nos jours, une unité créatrice complète, capable de perpétuer son espèce sans l'aide d'autrui. Les facultés de pensée et de parole ont été acquises aux dépens de ce pouvoir créateur; mais actuellement, cette moitié de la force créatrice qui s'exprime par le cerveau et le larynx peut être utilisée pour créer des choses dans le monde physique, des maisons, des bateaux, etc.
 
-### QUESTION 8
+### <h3 id="question-8">Question 8</h3>
 
 L'âme de la femme est-elle masculine et celle de l'homme féminine?
 
-RÉPONSE - Généralement parlant, nous pourrions répondre par l'affirmative, car le corps vital qui est finalement transformé, transmué et spiritualisé en âme est de sexe opposé. Il est formé organe pour organe exactement comme le corps physique dense, à cette exception près, et ceci explique bien des choses autrement incompréhensibles.
-
-Les facultés inhérentes au corps vital sont la croissance, la reproduction, l'assimilation et la mémoire. Ayant un corps vital positif, la femme arrive plus rapidement à maturité que l'homme. Certaines parties de son corps sont à l'image de la plante, tels les cheveux par exemple qui poussent plus longs et plus abondants, et il est évident qu'un corps vital positif produit plus de sang que le corps vital négatif de l'homme; c'est pourquoi la pression sanguine, plus forte chez la femme, subit une diminution, grâce au flux périodique dont la cessation, à la ménopause, occasionne chez elle une seconde croissance, très justement appelée "embonpoint de la cinquantaine".
+RÉPONSE - Généralement parlant, nous pourrions répondre par l'affirmative, car le corps vital qui est finalement transformé, transmué et spiritualisé en âme est de sexe opposé. Il est formé organe pour organe exactement comme le corps physique dense, à cette exception près, et ceci explique bien des choses autrement incompréhensibles. Les facultés inhérentes au corps vital sont la croissance, la reproduction, l'assimilation et la mémoire. Ayant un corps vital positif, la femme arrive plus rapidement à maturité que l'homme. Certaines parties de son corps sont à l'image de la plante, tels les cheveux par exemple qui poussent plus longs et plus abondants, et il est évident qu'un corps vital positif produit plus de sang que le corps vital négatif de l'homme; c'est pourquoi la pression sanguine, plus forte chez la femme, subit une diminution, grâce au flux périodique dont la cessation, à la ménopause, occasionne chez elle une seconde croissance, très justement appelée "embonpoint de la cinquantaine".
 
 Les impulsions du corps du désir font circuler le sang à travers l'organisme à une allure plus ou moins rapide selon l'intensité des émotions. La femme a un excès de sang, et malgré les menstrues qui font baisser sa pression sanguine, elle a besoin par moments, d'une autre issue capable de la soulager; c'est alors que les larmes, qui sont une saignée blanche, servent de soupape de sûreté. Bien que capables autant que les femmes d'éprouver de fortes émotions, les hommes ne sont pas portés aux larmes, parce qu'ils n'ont pas plus de sang qu'ils n'en peuvent utiliser sans cesser de se trouver à l'aise.
 
 Etant polarisée positivement dans la Région Ethérique du Monde Physique, la sphère de la femme a été le foyer familial et l'église où elle est entourée d'amour et de paix, alors que l'homme livre le combat de l'efficacité pour la survivance du plus apte, dans le Monde Physique dense où il est polarisé positivement.
 
-### QUESTION 9
+### <h3 id="question-9">Question 9</h3>
 
 Conservons-nous le même tempérament à travers toutes nos vies?
 
 RÉPONSE - L'Ego peut être comparé à une pierre précieuse, à un diamant dans sa gangue. Lorsqu'elle est extraite de la terre la pierre n'a aucune beauté; la gangue qui l'entoure en cache la splendeur intérieure, et avant que le diamant ne devienne un joyau, il doit être poli sur la dure meule. Chaque passage lui enlève une partie de sa gangue et taille une facette à travers laquelle la lumière entre et se réfracte sous un angle différent de celui des autres facettes.
 
-Ainsi en est-il de l'Ego; tel un diamant dans sa gangue, il entre à l'école de l'expérience, le pèlerinage à travers la matière, et chaque vie ici-bas est un polissage sur la meule. Chaque vie à l'école de l'expérience enlève à l'Ego un peu de sa rudesse, et permet à la lumière de l'intelligence de se réfracter sous un angle nouveau, donnant une expérience différente; et de même que les angles de réfraction diffèrent d'une facette à l'autre du diamant, ainsi le tempérament de l'Ego est différent dans chaque vie. Dans chacune de celles-ci, nous ne pouvons exprimer qu'une petite partie de notre nature spirituelle, réaliser qu'une minime portion de nos possibilités divines, mais chaque vie tend à arrondir nos angles, à équilibrer notre tempérament. En fait, c'est le travail sur le tempérament qui est la partie principale de notre leçon, car le but à atteindre est la maîtrise de soi.
+Ainsi en est-il de l'Ego; tel un diamant dans sa gangue, il entre à l'école de l'expérience, le pèlerinage à travers la matière, et chaque vie ici-bas est un polissage sur la meule. Chaque vie à l'école de l'expérience enlève à l'Ego un peu de sa rudesse, et permet à la lumière de l'intelligence de se réfracter sous un angle nouveau, donnant une expérience différente; et de même que les angles de réfraction diffèrent d'une facette à l'autre du diamant, ainsi le tempérament de l'Ego est différent dans chaque vie. Dans chacune de celles-ci, nous ne pouvons exprimer qu'une petite partie de notre nature spirituelle, réaliser qu'une minime portion de nos possibilités divines, mais chaque vie tend à arrondir nos angles, à équilibrer notre tempérament. En fait, c'est le travail sur le tempérament qui est la partie principale de notre leçon, car le but à atteindre est la maîtrise de soi. Comme le dit Goethe: 
 
-Comme le dit Goethe: "De chaque pouvoir qui enchaîne le monde entier, l'homme se libère par la maîtrise de soi."
+```
+"De chaque pouvoir qui enchaîne le monde entier, 
+l'homme se libère par la maîtrise de soi."
+```
 
-### QUESTION 10
+### <h3 id="question-10">Question 10</h3>
 
 Le corps du désir est-il sujet à la maladie, a-t-il besoin de nourriture et de soin?
 
@@ -366,7 +367,7 @@ RÉPONSE - Dans une certaine mesure, oui, pendant la vie terrestre; c'est-à- di
 
 Toutefois, si notre correspondant a dans l'esprit les conditions d'après-vie, la chose est différente. Bien qu'une personne puisse être malade ici-bas, alitée pendant des années peut-être et incapable de se mouvoir, dès après sa mort lorsqu'elle se sent allégée de son corps physique, il y a immédiatement une sensation de soulagement, un sentiment de joie et de légèreté qui lui est inhabituel; et elle comprend soudain qu'elle ne souffre plus et qu'elle peut aller et venir à sa guise. Si elle comprend ces nouvelles conditions, elle saura aussi qu'il ne lui est plus nécessaire d'absorber des aliments, car le corps du désir se passe de toute nourriture. Bien des gens ignorent ces faits pourtant, et cela explique pourquoi nous trouvons dans les régions inférieures du Monde du Désir des gens qui parfois s'affairent encore aux soins du ménage. De là viennent les histoires des investigateurs spiritualistes qui ont rencontré ces conditions dans le Monde Invisible; et cela justifie aussi une grande partie de ce que raconte George du Maurier sur la vie de Peter Ibbetson et de la comtesse de Towers, dans son roman qui porte le nom du héros (traduit en français chez Gallimard). Nous recommandons la lecture de cet ouvrage car il illustre bien la façon dont la mémoire subconsciente opère, lorsque le héros traite des faits de son enfance, et des conditions réelles dans les régions inférieures du Monde Invisible où se passent ses expériences avec la comtesse.
 
-### QUESTION 11
+### <h3 id="question-11">Question 11</h3>
 
 Comment se fait-il qu'après avoir expié tous les péchés au Purgatoire, il faille, à la renaissance, souffrir à nouveau en vertu de la Loi de Cause à Effet pour les péchés d'une vie précédente?
 
@@ -376,7 +377,7 @@ Mais comme dans ce monde le désir s'éteint, lorsque nous comprenons qu'il ne p
 
 En ce qui concerne le mal fait à autrui, par exemple, si nous avons été cruels envers un enfant confié à nos soins, si nous l'avons battu, affamé ou maltraité de toute autre façon, les scènes où nous avons mal agi auront été enregistrées sur l'atome-germe du coeur et se graveront par la suite sur le corps du désir. Quand le panorama de notre vie se déroulera en sens inverse, il apportera à nouveau ces scènes devant notre conscience. Nous éprouverons alors à notre tour tous les tourments que nous aurons infligés à notre victime; nous ressentirons tous les coups que nous lui avons portés, les angoisses et les humiliations que nous lui avons fait subir, et chaque souffrance dont nous l'avons accablé. Lorsque, dans une vie suivante, nous rencontrerons ce même enfant, nous aurons l'occasion de lui faire autant de bien que nous lui avons jadis fait de mal. Si nous agissons ainsi, tant mieux pour nous. Mais si notre ancienne hostilité s'affirme comme auparavant, nous recevrons alors dans notre prochain Purgatoire de nouveaux coups de fouet qui nous apprendront finalement que nous devons être compatissants envers ceux qui nous sont confiés. Ainsi nous ne souffrons pas à nouveau pour les péchés d'une vie précédente; nous renaissons innocents grâce au ministère bienfaisant du Purgatoire, et toute mauvaise action que nous commettons est un acte de libre arbitre. Mais les tentations sont placées devant nous pour vérifier si l'épuration a été suffisante pour nous enseigner les leçons dont nous avions besoin, et c'est notre privilège de céder ou de rester fort et ferme dans le bien.
 
-### QUESTION 12
+### <h3 id="question-12">Question 12</h3>
 
 La conscience est-elle la voix de Dieu ou celle de notre Ange Gardien?
 
@@ -386,7 +387,7 @@ Lorsqu'une tentation s'est présentée à nous au cours d'une de nos vies terres
 
 Pour répondre à la question posée, nous pouvons donc dire que la conscience est le souvenir que l'esprit garde des souffrances passées, causées par les erreurs faites dans les vies précédentes.
 
-### QUESTION 13
+### <h3 id="question-13">Question 13</h3>
 
 Qu'est-ce que le génie?
 
@@ -398,7 +399,7 @@ Si nous nous référons à la loi de cause à effet et à sa loi jumelle, la loi
 
 Pour pouvoir exprimer quelques-unes de nos facultés, la musique par exemple, il est nécessaire que nous ayons certaines caractéristiques physiques tels des doigts effilés, un système nerveux délicat et, surtout, une oreille particulièrement développée afin de pouvoir nous exprimer en tant que musiciens. De tels matériaux requis pour l'expression de la musique ne se trouvent pas n'importe où, mais la loi d'association attirera naturellement un musicien vers d'autres musiciens, et là, il trouvera à portée de main les matériaux avec lesquels il pourra se construire un corps tel que le nécessite l'expression de son talent. C'est pourquoi il semble parfois que les musiciens naissent en familles; par exemple, vingt-neuf musiciens sont nés dans la famille de Bach en deux cent cinquante ans.
 
-### QUESTION 14
+### <h3 id="question-14">Question 14</h3>
 
 Une âme née dans un corps de femme ne pourra-t-elle jamais habiter un corps d'homme? Quel intervalle y a-t-il entre deux incarnations?
 
@@ -414,7 +415,7 @@ En pareil cas, lorsqu'une famille de musiciens avec laquelle il a des liens est 
 
 Cela nous explique pourquoi un génie dont le talent aura été méconnu de son vivant se verra apprécié à sa juste valeur par les générations suivantes, mieux capables de le comprendre.
 
-### QUESTION 15
+### <h3 id="question-15">Question 15</h3>
 
 Lorsqu'un homme paie ce qu'il doit, prend soin de sa famille et vit une vie morale, n'est-il pas en règle lorsqu'il passe dans l'au-delà?
 
@@ -426,7 +427,7 @@ A son entrée dans le Monde du Désir, après sa mort, cet homme est trop bon po
 
 Tout ce qu'il a donné aux églises, aux institutions compte pour rien à cause de son manque de coeur. C'est seulement lorsque nous donnons par amour que le don servira à apporter de la joie dans l'au-delà. Ce n'est pas la valeur du don qui importe, mais l'esprit dans lequel nous le faisons; il est donc au pouvoir de chacun de nous de donner et de bénéficier nous-mêmes du don ainsi qu'autrui. Donner de l'argent sans discernement peut cependant amener les gens à être dépensiers et à retomber dans la misère, sauf si une sympathie qui vient du coeur est aussi donnée; en aidant les gens à croire en eux et à prendre un nouveau départ dans la vie, avec une ardeur renouvelée, en nous donnant nous-mêmes, par les services rendus à l'humanité, nous amassons des trésors dans les cieux et donnons bien plus que de l'or. Le Christ a dit "Vous aurez toujours les pauvres avec vous" (Marc 14/7). Il se peut que nous ne soyons pas capables de les faire passer de l'indigence à la richesse, ce qui pourrait d'ailleurs n'être pas très bon pour eux, mais nous pouvons les encourager à apprendre la leçon qu'enseigne la pauvreté; nous pouvons les aider à voir la vie sous un angle meilleur. A moins que l'homme, objet de la présente réponse, n'agisse de cette manière, il ne sera pas "en règle", comme vous dites, lorsqu'il passera dans l'au-delà; il souffrira de cette terrible monotonie afin d'apprendre qu'il doit garnir sa vie de choses de vraie valeur, et ainsi, dans une vie suivante, sa conscience le pressera de faire quelque chose de mieux que d'amasser de l'argent, sans toutefois négliger ses devoirs matériels, car cela est aussi mauvais que de dédaigner les efforts spirituels.
 
-### QUESTION 16
+### <h3 id="question-16">Question 16</h3>
 
 Certains soutiennent que nous avons le droit de penser comme bon nous semble et que nous ne sommes pas responsables de nos pensées. Est-ce exact du point de vue occulte?
 
@@ -440,7 +441,7 @@ C'est pourquoi nos pensées ont une importance bien plus considérable que nos a
 
 Il en résulte que si nous voyons bassesse et mesquinerie chez les autres, nous ferions bien de regarder en nous-mêmes afin de nous assurer que ce n'est pas l'atmosphère à travers laquelle nous les considérons qui les colore de cette façon. Regardons si ces qualités indésirables ne se trouvent pas en nous-mêmes, puis commençons à y porter remède. Un être mesquin et malveillant irradie ces qualités autour de lui, et tous ceux qu'il rencontrera lui paraîtront mesquins et malveillants, car il suscite chez les autres les qualités qu'il manifeste, selon le principe d'affinité qui fait vibrer un diapason à l'unisson d'un autre, de même ton, que l'on frappe. Si d'autre part nous cultivons une attitude sereine, une attitude libre de convoitise, sincèrement honnête et secourable, nous susciterons ce qu'il y a de meilleur chez autrui. C'est pourquoi soyons conscients que ce n'est pas avant que nous ayons cultivé en nous les meilleures qualités, que nous pouvons nous attendre à les trouver chez les autres. Nous sommes donc, en vérité, responsables de nos pensées, nous sommes les gardiens de nos frères, car ainsi que nous pensons lorsque nous les rencontrons, tels nous leur apparaissons, et ils reflètent notre attitude. En application du principe qui vient d'être exposé, si nous désirons obtenir de l'aide pour cultiver ces meilleures qualités, recherchons la compagnie de personnes qui sont bonnes, car leur attitude d'esprit sera d'une aide immense pour susciter en nous les plus belles qualités.
 
-### QUESTION 17
+### <h3 id="question-17">Question 17</h3>
 
 Si quelqu'un est sans cesse tourmenté par de mauvaises pensées qui assaillent son intellect, bien qu'il les combatte sans répit, existe-t-il pour lui un moyen de purifier son intellect, de façon qu'il n'ait plus que des pensées bonnes et pures?
 
@@ -448,7 +449,7 @@ RÉPONSE - Oui, ce moyen existe et il est des plus simples. Dans sa question, le
 
 Supposons que nous éprouvions une antipathie particulière pour une personne que nous rencontrons dans la rue tous les jours, et même plusieurs fois par jour. Si, à chaque rencontre, nous nous arrêtons pour l'invectiver sous prétexte qu'elle est sur notre chemin, qu'elle ne se tient pas loin de nos regards, nous jetons à chaque fois de l'huile sur le feu et attisons la haine de cette personne qui, pour nous narguer, est bien capable de nous guetter au passage. La sympathie aussi bien que l'antipathie ont tendance a attirer une pensée ou une idée à nous, et la force de pensée que nous ajoutons pour combattre les mauvaises pensées les maintiennent en vie et les ramènent plus souvent à notre intellect, de la même manière que nos invectives envers la personne que nous n'aimons pas l'incitent à se mettre sur notre chemin. Mais si au lieu de combattre cette personne, nous adoptons la tactique de l'indifférence, si nous tournons notre tête dans une autre direction lorsque nous la rencontrons dans la rue, elle en aura bientôt assez de se mettre sur notre chemin; il en est de même des mauvaises pensées qui pénètrent dans nos intellects. Si nous nous en détournons avec indifférence et dirigeons nos intellects vers quelque chose de bien, vers un idéal, nous constaterons qu'en peu de temps nous sommes libérés de leur compagnie et n'avons plus que les bonnes pensées que nous désirons entretenir.
 
-### QUESTION 18
+### <h3 id="question-18">Question 18</h3>
 
 Si la femme est une émanation de l'homme, selon l'histoire de la côte d'Adam, sera-t-elle réabsorbée lors du retour final à l'unité, perdant ainsi son individualité dans la divinité masculine?
 
@@ -458,13 +459,13 @@ En fait, l'homme était à l'origine semblable aux Dieux, "fait à leur image", 
 
 Quant à imaginer que la femme perde son individualité, une telle chose est impossible, puisque le but de l'évolution est justement que nous devenions des individus soi-conscients et distincts durant l'évolution, soi-conscients et unis entre les intervalles de manifestation.
 
-### QUESTION 19
+### <h3 id="question-19">Question 19</h3>
 
 Pourquoi la femme a-t-elle souffert de l'inégalité des sexes, a- t-elle été traitée en inférieure, a-t-elle été victime de l'injustice depuis le début de l'existence humaine sur ce plan terrestre?
 
 RÉPONSE - Avant tout, nous devons nous souvenir que l'Esprit n'est ni masculin ni féminin mais qu'il se manifeste de l'une et l'autre manière, alternativement, en général. Nous avons tous été des hommes, et nous avons tous été des femmes. C'est pourquoi il ne peut être question d'inégalité si nous considérons la vie d'un point de vue très large. Au cours de chaque ère, l'Esprit ne peut apprendre certaines leçons qu'en adoptant le point de vue d'une femme, alors que d'autres leçons ne seront apprises qu'en renaissant dans un corps masculin, d'où la nécessité de changer de sexe. Evidemment, il arrive parfois que, pour certaines raisons, un Ego ait revêtu, pendant plusieurs vies successives, un corps masculin; lorsqu'enfin cet Ego renaît dans un corps de femme, le désaccord peut être considérable. Dans ce cas, nous aurons une femme hommasse, de tournure et de caractère. Par contre, il est possible qu'un Esprit ait occupé un corps de femme pendant plusieurs vies terrestres consécutives et, lorsqu'il revêt la forme masculine, il présente des manières et une nature efféminées. Mais même en retenant l'hypothèse des renaissances alternées, un bon nombre d'entre nous étaient probablement incarnés à Rome dans le sexe opposé; en prenant en considération la loi de cause à effet, et en songeant à la manière dont les femmes étaient traitées par les hommes à cette époque, on comprend que ces femmes Romaines, si elles sont maintenant incarnées en tant qu'hommes, ne soient guère disposées à faire de grandes concessions à leurs maîtres d'autrefois.
 
-### QUESTIONS 20
+### <h3 id="question-20">Question 20</h3>
 
 Pourquoi les souffrances de Marguerite, allant jusqu'à l'emprisonnement et à la peine de mort, ont-elles été si peu proportionnées à celles de Faust qui, sans être châtié, a continué sa vie librement à la poursuite du bonheur?
 
@@ -472,9 +473,7 @@ RÉPONSE - Cette question se rapporte à un mythe qui nous vient du fond des âg
 
 Goethe, qui était un initié, a traité le mythe de Faust d'une façon merveilleusement révélatrice, et la clé du problème se trouve dans le prologue qui se joue au Ciel, et qui rappelle le début du Livre de Job. Les Fils de Dieu paraissent devant le Trône et le Diable est parmi eux, car il est, lui aussi, un des Fils de Dieu. Il reçoit la permission d'essayer de séduire Faust, afin de réveiller ses activités spirituelles et de fortifier sa vertu. Nous faisons l'erreur de considérer comme synonymes l'innocence et la vertu; nous naissons tous innocents, nous arrivons sur cette terre purifiés de tout péché, mais avec certaines tendances qui peuvent être développées en vices; il est donc nécessaire que nous soyons mis à l'épreuve au cours de chaque vie afin de voir si nous allons céder à la tentation et adopter le vice, ou résister fermement et développer la vertu. Faust est tenté, et il succombe, mais ensuite il se repent sincèrement et transmue les forces du mal en bien, aussi finit-il par être sauvé. La repentance et la réforme de son caractère, avant de mourir, ont assuré son salut, sa passion impure pour Marguerite ayant fait place à son amour pure pour Hélène. Marguerite cède aussi à la tentation, elle se repent et est sauvée par le pardon des péchés. Ainsi, dans le cas de Faust, il s'agit du salut par les oeuvres. Grâce à son énergie qui domine les forces du mal, il construit un nouveau pays, un pays où des gens libres pourront vivre dans de meilleures conditions; il cherche à élever l'humanité sur un plan supérieur et, par cette action, par son travail désintéressé pour autrui, il est racheté des pouvoirs du mal. Dans le cas de Marguerite, le salut vient de la prière et de la repentance. Ainsi nous avons dans ce drame, tel qu'il est représenté par Goethe, un symbole parfait de l'Enseignement de la Sagesse Occidentale, qui englobe à la fois le pardon des péchés et l'expiation d'une mauvaise action par l'action juste correspondante. La mort est quelque chose qui nous concerne tous, et la souffrance inhérente à chacun des deux cas n'est certainement pas moindre pour Faust puisqu'elle a été prolongée durant de nombreuses années, alors que pour Marguerite la vie a pris fin beaucoup plus rapidement. La seule différence est que Faust a triomphé consciemment du mal et que dans une vie future, il sera à l'abri de la tentation, tandis que le cas de Marguerite est problématique. Dans une prochaine vie ici-bas, elle sera soumise à la tentation afin de déterminer si, oui ou non, elle a développé la force de caractère requise pour résister au mal et s'attacher au bien. 
 
-## PARTIE 2 - QUESTIONS CONCERNANT LE MARIAGE ET LES ENFANTS
-
-### QUESTION 21
+### <h3 id="question-21">Question 21</h3>
 
 Y a-t-il dans l'Ancien ou le Nouveau Testament un passage dans lequel il est dit aux hommes de se marier et ensuite de vivre comme frère et soeur, en tout temps et en toutes circonstances? Si cela ne figure pas dans la Bible, pourquoi l'enseignez-vous?
 
@@ -482,7 +481,7 @@ RÉPONSE - Les Sémites Originaux ont été la cinquième des races Atlantéenne
 
 A l'époque où ce noyau devait devenir une race destinée à peupler le monde, il est évident que la natalité était un facteur d'une importance capitale. Chacun considérait alors de son devoir de donner naissance à une postérité extrêmement nombreuse. Mais maintenant, nous ne vivons plus à cette époque; le monde est très peuplé et les Egos en voie de renaître trouvent aisément l'occasion de le faire. Jamais nous n'avons préconisé un célibat général, ou dit que les gens devaient se marier puis vivre en tout temps comme frère et soeur; mais nous avons enseigné que les gens mariés, selon les circonstances qui leur sont propres, devaient aider à perpétuer la race humaine. C'est à dire, si l'homme et la femme en sont tous deux physiquement, moralement et mentalement capables; lorsqu'ils possèdent un foyer où un Ego en voie de renaître puisse obtenir l'occasion de s'incarner et de faire des expériences, ils devraient s'offrir eux-mêmes en vivant sacrifice sur l'autel de l'humanité et donner la substance de leurs corps afin de fournir le véhicule nécessaire à un Ego ,l'invitant à entrer dans leur foyer, comme ils inviteraient un hôte très cher, et reconnaissants d'être en mesure de faire pour lui ce que d'autres ont fait pour eux. Mais, lorsque l'acte de fécondation a eu lieu, ils devraient s'abstenir d'autres rapports sexuels jusqu'à ce qu'ils sentent que les conditions sont à nouveau remplies pour avoir un autre enfant. Tel est l'Enseignement des Rosicruciens concernant les relations idéales entre mari et femme. Ils affirment que la fonction créatrice ne devrait pas avoir pour objet le plaisir des sens, mais la perpétuation de la race, but auquel cette fonction est naturellement destinée. Ceci est une condition idéale et elle peut être hors de portée de la plupart des gens actuellement, tout comme l'injonction d'aimer nos ennemis; mais sans idéals élevés, nous ne ferons pas de progrès.
 
-### QUESTION 22
+### <h3 id="question-22">Question 22</h3>
 
 Chaque âme ne possède-t-elle pas une âme-soeur de toute éternité? Si oui, n'est-il pas préférable de rester célibataire pendant un millier d'années plutôt que d'épouser la personne qui ne nous convient pas?
 
@@ -490,7 +489,7 @@ RÉPONSE - De même que la lumière est réfractée en sept couleurs formant le 
 
 Comme tous les autres mystères, cette belle doctrine a été avilie et rabaissée à une idée physique et matérielle telle la conception populaire des âmes soeurs et des affinités électives qui veut que l'un des partenaires soit homme et l'autre femme, chacun étant souvent marié à un autre conjoint. Dans de tels cas, la doctrine des âmes-soeurs sert souvent d'excuse à une fugue ou à un adultère. C'est une abominable perversion. Chaque Esprit est complet en lui- même, il se revêt alternativement d'un corps masculin et féminin, à différents moments, afin d'apprendre les leçons de la vie, et ce n'est que durant la phase actuelle de son développement que les caractéristiques dues aux sexes existent. L'Ego existait avant les sexes, et il perdurera après que cette phase de sa propre manifestation aura disparu.
 
-### QUESTION 23
+### <h3 id="question-23">Question 23</h3>
 
 Est-ce mal de se marier entre cousins du premier, du second ou du troisième degré? Si oui, pourquoi?
 
@@ -502,7 +501,7 @@ Mais il était devenu nécessaire que les hommes oublient pour un temps le Monde
 
 A mesure que l'homme s'individualisait, il a dû apprendre à se tenir debout tout seul sans l'aide de l'esprit de famille. Alors les mariages internationaux furent autorisés ou même ordonnés, et se marier à l'intérieur de la famille ne fut plus permis. C'est ce qui a détruit la clairvoyance. La science a démontré que l'inoculation du sang d'un animal dans les veines d'un autre animal, produit l'hémolyse, ou destruction du sang, action qui tue l'animal inférieur. L'introduction de sang étranger, quelle que soit la manière dont elle s'effectue, tue toujours quelque chose, si ce n'est la forme du moins une faculté, et le sang étranger introduit par mariage a tué la clairvoyance que l'homme primitif possédait. Cette affirmation sur le pouvoir destructeur du sang étranger peut être vérifiée dans le cas des hybrides. Le croisement de l'âne et du cheval donne le mulet, auquel manque la faculté de se reproduire, car n'étant sous la domination ni de l'esprit-.groupe du cheval ni de l'esprit-groupe de l'âne, s'il devait néanmoins se reproduire, cette espèce ne serait sous la domination d'aucun esprit-groupe. Le mulet n'est cependant pas assez évolué pour guider son corps physique sans l'assistance d'un esprit-groupe, et c'est pourquoi la faculté de reproduction est refusée, l'esprit-groupe retenant l'atome-germe fécondant. En ce qui concerne les humains, le cas est différent. Au moment où les mariages entre nations ont été ordonnés, ils en était arrivé au degré où leur conscience individuelle était suffisamment évoluée pour qu'ils soient capables de mener leur barque eux- mêmes. Le temps était venu pour eux de cesser d'être des automates guidés par Dieu, pour devenir des individus capables de se gouverner eux-mêmes. Plus les sangs sont mélangés, moins l'esprit intérieur peut être influencé par l'un ou l'autre des esprits de race ou de famille qui ont influencé nos ancêtres. Ainsi, lorsque nous épousons des étrangers, les Egos qui renaîtront ont les coudées plus franches que si notre conjoint est un cousin.
 
-### QUESTION 24
+### <h3 id="question-24">Question 24</h3>
 
 Serait-il sage pour deux personnes de même tempérament de se marier si elles sont nées sous le même signe du zodiaque, en août par exemple?
 
@@ -512,7 +511,7 @@ Pour dresser scientifiquement un horoscope, il faut tenir compte du jour et de l
 
 Donc, pour qu'un astrologue puisse dire si le mariage de deux personnes sera harmonieux ou non, il est nécessaire qu'il calcule leurs deux thèmes astrologiques et s'efforce de découvrir si elles s'accorderont physiquement, moralement et mentalement. Pour cela, il compare les ascendants ou signes qui se lèvent à l'horizon Est, qui indiquent les affinités physiques. Les positions de Mars et de Vénus indiqueront s'ils sont, moralement, de même nature ; puis le Soleil et la Lune montrent les caractéristiques mentales. L'astrologue dispose donc d'un instrument précis pour savoir si deux natures sympathiseront. Toute prédiction basée sur autre chose que sur ces calculs est sans valeur.
 
-### QUESTION 25
+### <h3 id="question-25">Question 25</h3>
 
 Quand une personne décédée de mort violente renaît pour mourir dans l'enfance, se trouve-t-elle dans un corps de même sexe ou de sexe opposé? Par exemple, un soldat tué sur le champ de bataille renaît-il comme garçon ou comme fille, ou le sexe n'a-t-il aucune importance quand la seconde vie doit être si courte?
 
@@ -520,7 +519,7 @@ RÉPONSE - Autant que l'auteur ait pu en juger par ses investigations, il semble
 
 Cette question de sexe, à tout prendre, est très élastique, du moins dans le cas de ceux qui ont vécu ce que nous appelons "la vie supérieure", car celle- ci a tendance à rendre le corps vital positif en permanence, si bien que l'atome-germe, logé dans le plexus solaire, attire ainsi automatiquement à lui une quantité toujours croissante d'éther positivement polarisé, de sorte que les éléments constitutifs du corps vital restent positifs, que le corps physique soit masculin ou féminin. C'est pourquoi, dans le cas de personnes dites "avancées", le choix est le plus souvent laissé à l'Ego qui cherche à renaître.
 
-### QUESTION 26
+### <h3 id="question-26">Question 26</h3>
 
 Pourquoi dit-on communément que le Noir est marqué du signe de Caïn? S'il est descendant de Cham, selon l'ethnologie Biblique, comment la race noire pourrait-elle être plus ancienne que celle de Sem ou de Japhet? N'est-ce pas la race la plus intellectuelle, la plus prospère, la plus endurante dont parle l'histoire, celle des Juifs, qui s'est le mieux préservée contre un mélange du sang?
 
@@ -532,7 +531,7 @@ Quant à les considérer comme une race intellectuelle, nous disons non!. Au cou
 
 Les guides de l'humanité se sont efforcés d'amener ce peuple à se mélanger avec les autres races, afin qu'ils puissent sortir de leur condition actuelle. La Bible nous apprend qu'ils ont été exilés maintes et maintes fois, mais sans résultat; ils sont restés un peuple à part. Le Christ leur fut envoyé comme un des leurs, car on pensait qu'ils entendraient la parole de l'un des leurs, mais "ils choisirent Barabbas". C'en était trop; il s'était avéré qu'on ne pourrait jamais les sauver en bloc. Dès lors, ils furent éparpillés de par le monde, afin que, peuple apatride, ils finissent par fusionner avec les autres; mais telle est leur obstination qu'ils sont demeurés, jusqu'à ce jour, sur leurs positions, sauf, pourtant, aux Etats- Unis, "le grand creuset des races", où ils commencent lentement à s'amalgamer. Ils ont été perdus pour s'être alliés en dehors de leur tribu à une race inférieure. Mais, avec le temps, il seront sauvés en s'alliant, sur le continent américain, aux races les plus avancées.
 
-### QUESTION 27
+### <h3 id="question-27">Question 27</h3>
 
 La Philosophie Rosicrucienne a-t-elle un enseignement spécifique concernant l'éducation des enfants?
 
@@ -548,27 +547,35 @@ Il est certaines choses importantes dont les parents ne peuvent s'occuper utilem
 
 Au premier chapitre de Saint Jean, nous lisons "Au commencement était le Verbe ... et rien de ce qui a été fait n'a été fait sans lui ... et le Verbe s'est fait chair." Le Verbe est un son rythmique, et le son est le grand constructeur cosmique, c'est pourquoi durant le premier septénaire de sa vie, l'enfant doit être entouré de musique du genre qui convient, entouré d'un langage musical: la cadence et le rythme des chansons enfantines sont particulièrement précieux. Le sens des paroles est sans importance; seul le rythme importe; plus l'enfant en sera baigné, meilleure sera sa croissance et sa santé.
 
-Deux grands mot d'ordre s'appliquent à cette période de la vie de l'enfant. Ce sont imitation et exemple. Nul être au monde les conditions propres à la production de certains types, car c'est la seule façon de développer les facultés nécessaires au progrès de l'Esprit, et il y eut un temps où il était nécessaire à l'évolution de l'Ego que les mariages se fassent dans la famille. A ce moment là l'humanité n'était pas aussi évoluée et individualisée qu'elle l'est maintenant. Les hommes étaient gouvernés par un Esprit de famille qui pénétrait dans le sang au moyen de l'air inspiré dans les poumons pour aider l'Ego à gouverner son instrument. Alors l'humanité possédait ce que l'on appelle la seconde vue, et cette seconde vue se trouve encore chez les peuples qui ont continué à beaucoup se marier dans la famille, comme par exemple, les habitants de la Haute Ecosse et les Tziganes.
+Deux grands mot d'ordre s'appliquent à cette période de la vie de l'enfant. Ce sont imitation et exemple. There is no creature in the world so imitative as a little child; it follows our example to the smallest detail so far as it is able. Therefore, the parents who seek to bring up their child well will ever be careful when in the presence of the little one. It is no use to teach it not to mind; the child has no mind, it has no reason, it can only imitate, and it cannot help imitating any more than water can help running down hill. If we have one kind of food for ourselves which is highly seasoned and cooked in French style, perhaps, and we give our child another dish, telling it that what we eat is not good for it, the child may not then be able to imitate us, but we implant the appetite for such food in the little one. When it grows up and can gratify its taste it will do so. Therefore, the careful parents should abstain from the foods and liquors they do not wish their child to partake of. 
 
-Mais il était devenu nécessaire que les hommes oublient pour un temps le Monde Spirituel et ne se souviennent d'aucune vie si ce n'est leur existence actuelle. Pour amener ce changement de conscience, les grands guides de l'humanité ont pris diverses mesures, l'une d'elles étant d'interdire les mariages dans la famille. Lorsque nous lisons, au cinquième chapitre de la Genèse, qu'Adam vécut neuf cent ans et que les patriarches ont tous vécu plusieurs siècles, cela ne veut pas dire que les personnes nommées aient vécu elles-mêmes durant le laps de temps mentionné, mais que le sang circulant dans leurs veines était transmis directement à leurs descendants et que ce sang contenait les images de la famille comme le nôtre contient celles de notre vie individuelle, car le sang est le dépôt de toutes les expériences. Ainsi les descendants des familles patriarcales se voyaient comme étant Adam, Mathusalem, etc. Naturellement, avec le temps, ces images ont graduellement pâli et lorsque le souvenir d'Adam a disparu du sang de ses descendants directs, on a dit qu'Adam avait cessé de vivre.
+Regarding the clothing, we may say that at that time the child should be entirely unconscious of its sex organs, and therefore the clothing should be particularly loose at all times. This is specially necessary with little boys, for oftentimes a most seriously bad habit in later life may result from the rubbing of too tight clothing. 
 
-A mesure que l'homme s'individualisait, il a dû apprendre à se tenir debout tout seul sans l'aide de l'esprit de famille. Alors les mariages internationaux furent autorisés ou même ordonnés, et se marier à l'intérieur de la famille ne fut plus permis. C'est ce qui a détruit la clairvoyance. La science a démontré que l'inoculation du sang d'un animal dans les veines d'un autre animal, produit l'hémolyse, ou destruction du sang, action qui tue l'animal inférieur. L'introduction de sang étranger, quelle que soit la manière dont elle s'effectue, tue toujours quelque chose, si ce n'est la forme du moins une faculté, et le sang étranger introduit par mariage a tué la clairvoyance que l'homme primitif possédait. Cette affirmation sur le pouvoir destructeur du sang étranger peut être vérifiée dans le cas des hybrides. Le croisement de l'âne et du cheval donne le mulet, auquel manque la faculté de se reproduire, car n'étant sous la domination ni de l'esprit-.groupe du cheval ni de l'esprit-groupe de l'âne, s'il devait néanmoins se reproduire, cette espèce ne serait sous la domination d'aucun esprit-groupe. Le mulet n'est cependant pas assez évolué pour guider son corps physique sans l'assistance d'un esprit-groupe, et c'est pourquoi la faculté de reproduction est refusée, l'esprit-groupe retenant l'atome-germe fécondant. En ce qui concerne les humains, le cas est différent. Au moment où les mariages entre nations ont été ordonnés, ils en était arrivé au degré où leur conscience individuelle était suffisamment évoluée pour qu'ils soient capables de mener leur barque eux- mêmes. Le temps était venu pour eux de cesser d'être des automates guidés par Dieu, pour devenir des individus capables de se gouverner eux-mêmes. Plus les sangs sont mélangés, moins l'esprit intérieur peut être influencé par l'un ou l'autre des esprits de race ou de famille qui ont influencé nos ancêtres. Ainsi, lorsque nous épousons des étrangers, les Egos qui renaîtront ont les coudées plus franches que si notre conjoint est un cousin.
+There is also the question of punishment to be considered; that too is an important factor at all times in awakening the sex nature and should be carefully avoided. There is no child so refractory that it will not respond to the method of reward for good deeds and the withholding of privileges as retribution for disobedience. Besides, we recognize the fact that whipping breaks the spirit of a dog, and we oftentimes complain that certain people have cultivated a wishbone instead of a backbone--that they are lacking in will. Much of that is due to whippings, mercilessly administered in childhood. Let any parent look at this from the child's standpoint. How would any of us now like to live with someone from whose authority we could not escape, who was much bigger than we, and have to submit to whippings day by day? Leave the whipping alone and much of the social evil will be done away with in a generation. 
 
-### QUESTION 28
+When the vital body has been brought to birth at the seventh year, the faculties of perception and memory are to be educated. The watchword for this period should be authority and discipleship. We should not, if we have a precocious child, seek to goad it into a course of study which requires an enormous expenditure of thought. Child prodigies have usually become men and women of less than ordinary mentality. The child should be allowed to follow his own inclination in that respect. His faculties of observation should be cultivated, he should be shown living examples. Let him see the drunkard and what vice has led him to; show him also the good man, and set before him high ideals. Teach him to take everything you say upon authority and endeavor to be such that he may respect your authority as parents and teachers. At this time he should also be prepared to husband the force which is now being awakened in him, and which will enable him to generate his kind at the end of the second period of seven years. He should not be allowed to gather that knowledge from polluted sources, because the parents shirk the responsibility of telling him from a mistaken sense of modesty. 
+
+A flower may be taken as an object lesson, whence all the children, from the smallest to the biggest, may receive the most beautiful instruction in the form of a fairy tale. They may be taught how flowers are like families without bothering at all with botanical terms, so long as the parents have studied in the slightest degree a little elementary botany. Show the children some flowers. Tell them "Here is a flower family where there are all boys (a staminate flower), and here is another flower where there are only girls (a pistillate flower). Here is one where there are both boys and girls (a flower where there are both stamen and pistils). Show them the pollen in the anthers. Tell them that these little flower boys are just like the boys in the human families; that they are adventuresome and want to go out into the world to fight the battle of life, while the girls (the pistils) stay at home. Show them the bees with the pollen baskets on their legs, and tell them how the little flower boys bestride those winged steeds, like the knights of old, and go out into the world to seek the princess immured in the magic castle (the ovule hidden in the pistil); how the pollen, the flower boy-knights, force their way through the pistil and enter the ovule; then tell them how that signifies that the knight and the princess are married, that they live happy ever afterward and become the parents of many little flower boys and girls. When they have fully grasped that, they will understand also the generation in the animal and human kingdom, for there is no difference; one is just as pure and chaste and holy as the other. And the little children brought up in that way will always have a reverence for the creative function that can be instilled in no better way. 
+
+When a child has been thus equipped, it is well fortified for the birth of the desire body at the time of puberty. When the desires and the emotions are unleashed, it enters upon the most dangerous period of life, the time of the hot youth from fourteen to twenty-one, for at that time the desire body is rampant and the mind has not yet come to birth to act as a brake. At this time it is well for the child that has been brought up as here outlined, for its parents will then be a strength and an anchor to it to tide it over that troublesome period until the time when it is full born--the age of twenty-one , when the mind is born. 
+
+### <h3 id="question-28">Question 28</h3>
 
 Pourquoi des enfants naissent-ils dans une famille où ils ne sont pas désirés?
 
 RÉPONSE - La pertinence de cette question est la preuve du triste état de notre société. Le but essentiel du mariage est la perpétuation de la race, et ceux qui ne désirent pas devenir parents n'ont pas droit au mariage. Ce devrait être le droit de chaque enfant de bien naître et d'être bienvenu. Mais, tandis que nous choisissons, pour l'élevage des animaux, la lignée la plus pure afin d'obtenir le bétail le meilleur et le plus robuste, nous ne nous préoccupons généralement pas des qualités physiques, morales et mentales de la personne que nous choisissons comme père ou comme mère de nos enfants. En fait, on estime que c'est indélicat, indécent même de soulever la question des enfants, et lorsque, en dépit des précautions, l'enfant est annoncé, les parents sont souvent navrés. Mais la loi de cause à effet ne peut être déjouée. Les meules des dieux broient lentement, mais leur mouture est excessivement fine. Bien des siècles pourront s'écouler, mais viendra le temps où le père et la mère qui avaient refusé leur enfant devront renaître dans une famille où ils ne seront pas bienvenus. Il se peut aussi que des enfants soient refusés à ces parents dans leur incarnation suivante. L'auteur connaît des cas où de tels couples, ayant eu le bonheur d'avoir de nombreux enfants qu'ils avaient désirés et qu'ils aimaient passionnément les ont vu mourir en bas âge, les uns après les autres, à leur grand désespoir.
 
-### QUESTION 29
+### <h3 id="question-29">Question 29</h3>
 
 Lorsqu'un homme et une femme désirent avoir des enfants et qu'ils n'en ont pas, y a-t-il moyen d'engager une âme du monde invisible à accepter l'invitation à renaître? Lorsque les conditions sont des plus favorables dans leur foyer, il semble que parmi les nombreuses âmes qui attendent l'occasion de renaître, il devrait s'en trouver une pour accepter ces conditions.
 
-RÉPONSE - Le cas est très certainement celui d'un de ces couples qui, dans une vie antérieure, a négligé cette occasion ou évité d'avoir des enfants. S'il n'en est pas ainsi, il se peut que, quelque jour, leur espoir soit comblé. L'auteur a observé le cas d'un Ego qui, désireux de renaître, suivait partout celle qu'il avait choisie pour être sa mère, et quelqu'un qui connaissait cette femme depuis longtemps, lui a raconté que cet Ego la suivait depuis avant son mariage. Il advint pourtant que l'union fut stérile et nous avons appris récemment qu'un divorce avait eu lieu. Il est clair que cet Ego qui, de toute évidence, voulait renaître avec cette femme pour mère, n'acceptait pas son mari comme père. On entend parfois parler de ménages stériles, mais que le divorce soit prononcé et que chacun des conjoints se remarie, il peut très bien se faire que tous deux aient des enfants, ce qui prouve qu'ils étaient parfaitement aptes à procréer, physiquement parlant, et que seul, l'Ego, manquait. Car, il faut bien le remarquer, à moins qu'un Ego ne cherche à renaître dans un couple, celui-ci demeurera stérile. Bien que cela puisse sembler étrange au premier abord, on sera convaincu de la véracité du fait si l'on réfléchit à ceci: les constituants chimiques du liquide séminal et des ovules sont toujours les mêmes; il n'y aurait donc aucune raison pour qu'une union soit tantôt féconde, tantôt stérile, si les parents étaient les seuls facteurs à considérer. Nous savons que si nous combinons de l'hydrogène avec de l'oxigène dans des proportions adéquates, nous obtenons toujours de l'eau. Nous savons que l'eau coule le long d'une pente. C'est ainsi que les lois de la nature sont invariables; donc, à moins qu'un autre facteur n'entre en jeu, la combinaison chimique de l'ovule et du spermatozoïde devrait donner inévitablement un résultat positif. Or, cet autre facteur inconnu et invisible existe: c'est l'Ego prêt à renaître qui va où il lui plaît d'aller et, sans lui, il n'y a pas de conception.
+RÉPONSE - Le cas est très certainement celui d'un de ces couples qui, dans une vie antérieure, a négligé cette occasion ou évité d'avoir des enfants. S'il n'en est pas ainsi, il se peut que, quelque jour, leur espoir soit comblé. L'auteur a observé le cas d'un Ego qui, désireux de renaître, suivait partout celle qu'il avait choisie pour être sa mère, et quelqu'un qui connaissait cette femme depuis longtemps, lui a raconté que cet Ego la suivait depuis avant son mariage. Il advint pourtant que l'union fut stérile et nous avons appris récemment qu'un divorce avait eu lieu. Il est clair que cet Ego qui, de toute évidence, voulait renaître avec cette femme pour mère, n'acceptait pas son mari comme père. On entend parfois parler de ménages stériles, mais que le divorce soit prononcé et que chacun des conjoints se remarie, il peut très bien se faire que tous deux aient des enfants, ce qui prouve qu'ils étaient parfaitement aptes à procréer, physiquement parlant, et que seul, l'Ego, manquait. Car, il faut bien le remarquer, à moins qu'un Ego ne cherche à renaître dans un couple, celui-ci demeurera stérile. 
+
+Bien que cela puisse sembler étrange au premier abord, on sera convaincu de la véracité du fait si l'on réfléchit à ceci: les constituants chimiques du liquide séminal et des ovules sont toujours les mêmes; il n'y aurait donc aucune raison pour qu'une union soit tantôt féconde, tantôt stérile, si les parents étaient les seuls facteurs à considérer. Nous savons que si nous combinons de l'hydrogène avec de l'oxigène dans des proportions adéquates, nous obtenons toujours de l'eau. Nous savons que l'eau coule le long d'une pente. C'est ainsi que les lois de la nature sont invariables; donc, à moins qu'un autre facteur n'entre en jeu, la combinaison chimique de l'ovule et du spermatozoïde devrait donner inévitablement un résultat positif. Or, cet autre facteur inconnu et invisible existe: c'est l'Ego prêt à renaître qui va où il lui plaît d'aller et, sans lui, il n'y a pas de conception.
 
 Si le demandeur adresse des prières ferventes à l'Ange Gabriel (Luc 1/19 et 26), ambassadeur du Régent de la Lune sur notre Terre, et qui est donc un facteur essentiel dans la génération des corps, il se peut que sa prière soit exaucée. Le moment le plus propice est le Lundi au lever du Soleil, entre la nouvelle et la pleine Lune.
 
-### QUESTION 30
+### <h3 id="question-30">Question 30</h3>
 
 Comment expliquez-vous le fait qu'un enfant hérite si souvent des mauvais côtés de ses parents?
 
@@ -576,7 +583,7 @@ RÉPONSE - Nous expliquerons cela en disant que ce n'est pas du tout certain. Ma
 
 L'homme, le penseur, vient sur terre avec une nature morale et mentale qui lui appartient en propre. Il n'a pris à ses parents que les matériaux nécessaires à la construction de son corps physique. Nous sommes attirés vers certaines personnes par la loi de cause à effet et par la loi d'association. La même loi qui fait que les musiciens, par exemple, recherchent la compagnie d'autres musiciens dans les salles de concert, ou que les joueurs se rassemblent sur les champs de course ou dans les salles de jeu, que les gens de nature studieuse s'assemblent dans les bibliothèques, etc., fait que des personnes de tendances, de caractéristiques et de goûts semblables naîtront dans la même famille. C'est ainsi que lorsque nous entendons une personne déclarer: "Oui,je sais parfaitement que je suis prodigue, mais mes parents ne travaillaient pas. Nous avons toujours eu des domestiques", il ne faut voir là qu'une simple similitude de goûts entre eux et elle. Si quelqu'un d'autre vous dit: "Je me rends compte que je suis un peu fantasque; je tiens ça de famille; je n'y puis rien", il s'agit à nouveau de la loi d'association, et plus tôt nous le reconnaissons au lieu de prendre la loi d'hérédité pour excuser nos mauvaises habitudes, mieux cela vaudra pour nous, et nous ferions bien de nous en corriger et de cultiver les vertus opposées. Nous n'accepterions pas comme une excuse valable la déclaration de l'ivrogne qui dirait: "Je ne peux m'empêcher de boire. Tous mes camarades en font autant". Nous lui dirions de s'éloigner d'eux au plus tôt et d'affirmer sa propre individualité. Cessons donc de nous retrancher derrière nos ancêtres pour nous excuser de nos mauvaises habitudes.
 
-### QUESTION 31
+### <h3 id="question-31">Question 31</h3>
 
 L'enfant n'hérite-t-il pas son sang et son système nerveux de ses parents ? en ce cas n'hérite-t-il pas également leurs maladies et leurs désordres nerveux?
 
@@ -586,19 +593,15 @@ Pendant la première enfance, l'Ego qui est propriétaire du corps de l'enfant n
 
 Donc, puisque l'enfant hérite de ses parents son corps et son sang, il hérite aussi de leurs tendances à la maladie; non de la maladie elle-même, mais uniquement de la tendance. Après la quatorzième année, lorsque l'Ego intérieur a commencé à produire ses propres globules de sang rouge, il dépend de lui dans une large mesure que ces tendances deviennent des réalités dans sa vie. 
 
-## PARTIE 3 - QUESTIONS CONCERNANT LE SOMMEIL ET LES RÊVES
-
-### QUESTION 32
+### <h3 id="question-32">Question 32</h3>
 
 Une personne peut-elle être influencée dans son sommeil naturel comme elle peut l'être dans le sommeil hypnotique, ou bien y a-t-il une différence?
 
 RÉPONSE - Oui, il y a une différence. Dans le sommeil naturel, l'Ego, revêtu de l'intellect et du corps du désir, se retire du corps physique au-dessus duquel il plane habituellement ou, en tout cas, il reste à proximité, relié à lui par la corde d'argent. Le corps dense et le corps éthérique reposent sur le lit.
 
-Il est alors possible d'exercer une influence sur la personne endormie en instillant dans son cerveau les pensées et les idées que nous désirons lui communiquer. Néanmoins nous ne pouvons, ni lui faire faire, ni même lui faire penser quelque chose qui ne soit pas en accord avec ses tendances naturelles. Il est impossible de lui ordonner d'accomplir une action et de la contraindre à obéir, comme il est possible de le faire quand l'Ego a été chassé de son corps par les passes d'un hypnotiseur, car c'est le cerveau qui fait mouvoir les muscles et, durant le sommeil naturel, le cerveau est interpénétré par son propre corps vital et il est parfaitement maître de lui, alors que durant le sommeil hypnotique, les passes de l'hypnotiseur ont chassé hors du cerveau l'éther dont son corps vital est composé et cet éther repose sur ses épaules à la façon d'un col de chandail qui lui retomberait autour du cou. Le cerveau physique est alors ouvert à l'éther du corps vital de l'hypnotiseur qui prend la place de l'éther du véritable possesseur. Ainsi, dans le sommeil hypnotique, la victime n'a en aucune façon le choix de ses idées ni des mouvements qu'il fait avec son corps. Mais dans le sommeil ordinaire, la personne conserve son libre arbitre. En fait, les mères qui ont des enfants indociles trouveront très bénéfique cette méthode de suggestion pendant le sommeil. Assise près du lit de l'enfant endormi, sa mère, en lui tenant la main, lui parle comme elle le ferait s'il était éveillé, et instille dans son cerveau les idées qu'elle aimerait lui voir entretenir. Au réveil de l'enfant, elle découvrira que les idées implantées ont pris racine. Il en est de même d'une personne malade ou qui s'adonne à la boisson ou à tout autre vice. Si la mère, la garde-malade ou quelqu'un d'autre emploie cette méthode, ces personnes constateront qu'il est possible d'instiller espoir, guérison, rétablissement et aide pour la maîtrise de soi.
+Il est alors possible d'exercer une influence sur la personne endormie en instillant dans son cerveau les pensées et les idées que nous désirons lui communiquer. Néanmoins nous ne pouvons, ni lui faire faire, ni même lui faire penser quelque chose qui ne soit pas en accord avec ses tendances naturelles. Il est impossible de lui ordonner d'accomplir une action et de la contraindre à obéir, comme il est possible de le faire quand l'Ego a été chassé de son corps par les passes d'un hypnotiseur, car c'est le cerveau qui fait mouvoir les muscles et, durant le sommeil naturel, le cerveau est interpénétré par son propre corps vital et il est parfaitement maître de lui, alors que durant le sommeil hypnotique, les passes de l'hypnotiseur ont chassé hors du cerveau l'éther dont son corps vital est composé et cet éther repose sur ses épaules à la façon d'un col de chandail qui lui retomberait autour du cou. Le cerveau physique est alors ouvert à l'éther du corps vital de l'hypnotiseur qui prend la place de l'éther du véritable possesseur. Ainsi, dans le sommeil hypnotique, la victime n'a en aucune façon le choix de ses idées ni des mouvements qu'il fait avec son corps. Mais dans le sommeil ordinaire, la personne conserve son libre arbitre. En fait, les mères qui ont des enfants indociles trouveront très bénéfique cette méthode de suggestion pendant le sommeil. Assise près du lit de l'enfant endormi, sa mère, en lui tenant la main, lui parle comme elle le ferait s'il était éveillé, et instille dans son cerveau les idées qu'elle aimerait lui voir entretenir. Au réveil de l'enfant, elle découvrira que les idées implantées ont pris racine. Il en est de même d'une personne malade ou qui s'adonne à la boisson ou à tout autre vice. Si la mère, la garde-malade ou quelqu'un d'autre emploie cette méthode, ces personnes constateront qu'il est possible d'instiller espoir, guérison, rétablissement et aide pour la maîtrise de soi. Cette même méthode peut bien entendu, être utilisée pour le mal; mais nous ne pouvons nous empêcher de la faire connaître, car nous croyons que le bien qui peut en résulter compensera largement le mal que pourraient faire certaines personnes mal intentionnées qui l'emploieraient à mauvais escient.
 
-Cette même méthode peut bien entendu, être utilisée pour le mal; mais nous ne pouvons nous empêcher de la faire connaître, car nous croyons que le bien qui peut en résulter compensera largement le mal que pourraient faire certaines personnes mal intentionnées qui l'emploieraient à mauvais escient.
-
-### QUESTION 33
+### <h3 id="question-33">Question 33</h3>
 
 Que sont les rêves? Ont-ils une signification? Comment pouvons- nous les attirer ou les faire naître?
 
@@ -608,7 +611,7 @@ Il arrive aussi parfois que, lorsque l'Ego est complètement dégagé du corps p
 
 En ce qui concerne la seconde partie de la question, "comment faire naître ou attirer des rêves", nous pouvons dire qu'il n'y a évidemment aucun avantage à attirer ou à faire naître des rêves de nature confuse et fantastique. Quant aux autres rêves, il vient un temps où l'homme commence à vivre la vie supérieure. Alors, graduellement, en accomplissant certains exercices, il développe la faculté de quitter son corps consciemment la nuit, ou à tout autre moment. Il est alors parfaitement conscient dans les mondes invisibles. Il peut aller où il veut, jusqu'aux confins de la terre en quelques minutes, et comme il apprend à travailler consciemment dans les mondes invisibles, il ne "rêve" plus, mais vit une autre vie plus remplie ou plus réelle que celle qu'il vit actuellement.
 
-### QUESTION 34
+### <h3 id="question-34">Question 34</h3>
 
 Qu'est-ce que le sommeil et pourquoi se fait-il que le corps s'endort?
 
@@ -624,9 +627,7 @@ Le sommeil n'est cependant pas un temps d'inactivité; s'il en était ainsi, on 
 
 Lorsqu'une construction s'est délabrée à l'usage, il est nécessaire de la rénover et de la restaurer, et les occupants doivent en sortir pour permettre aux ouvriers de travailler. C'est pour la même raison que l'Ego quitte sa demeure pendant la nuit. De même que les ouvriers travaillent à restaurer le logis pour le rendre de nouveau habitable, l'Ego doit réparer son habitation avant de pouvoir y rentrer. Nous accomplissons ce travail la nuit, bien que nous n'en soyons pas conscients à l'état de veille. C'est grâce à cette activité que l'organisme se débarrasse des toxines, et le matin, quand l'Ego rentre dans son corps à l'heure du réveil, il le trouve dispos et plein de vigueur. 
 
-## PARTIE 4 - QUESTIONS CONCERNANT LA SANTE ET LA MALADIE
-
-### QUESTION 35
+### <h3 id="question-35">Question 35</h3>
 
 Les Rosicruciens croient-ils à la médecine officielle, ou suivent-ils la méthode de guérison du Christ?
 
@@ -642,11 +643,9 @@ Le médecin a sur ses malades une influence analogue, et il est criminel de sa p
 
 Ce scepticisme qui détruisait même Son pouvoir est, peut-être, le plus évident dans le passage où il est précisé qu'Il séjourna dans sa ville natale et constata qu' "Un prophète n'est méprisé que dans sa patrie et dans sa maison". Ceci figure au chapitre 13, versets 57 de l'Evangile de Matthieu, également au chapitre 6 verset 4 de l'Evangile de Marc; et il est significatif que le verset suivant, dans l'Evangile de Matthieu, précise "Et il ne fit pas là beaucoup de miracles à cause de leur incrédulité.", alors qu'au verset 5 de son Evangile, même chapitre, Marc nous dit, à cause de leur scepticisme, "Et il ne fut fait aucun miracle en ce lieu, si ce n'est qu'Il guérit quelques malades en leur imposant les mains.". Autres références: Luc 4/24 et Jean 4/44.
 
-Un esprit ouvert est une exigence essentielle pour n'importe quelle investigation et le scepticisme est absolument fatal à l'acquisition de la connaissance. Nous mentionnerons, en guise d'exemple, le fait suivant: il y a quelques années, l'auteur assistait, à Colombus (Ohio), à une conférence du professeur Hyslop, secrétaire de la Société des recherches psychiques. Le sujet de la conférence était "Preuves nouvelles d'une vie future". Il fut étonné de constater que le conférencier n'apportait aucune preuve qui n'eût déjà été exposée dans les rapports des vingt dernières années de la société à laquelle il appartenait. Le problème fut résolu au moment où une question, posée à l'issue de la conférence, mit en évidence le fait que le professeur Hyslop n'accordait pas foi à ce qui avait été dit dans les rapports de la Société. Il ne croyait qu'aux résultats qu'il obtenait lui-même. Les preuves qu'il venait d'exposer avaient été réunies par lui; elles étaient donc nouvelles pour lui et il s'attendait à ce que son auditoire le crût sur parole, bien qu'il refusât lui-même de croire qui que ce fût. Ce même professeur Hyslop fournit, sans le vouloir, un très bon exemple de la manière dont agit le scepticisme lorsqu'il raconta l'histoire suivante: Comme il s'était un jour rendu chez un médium, feu Richard Hodgson avait parlé par cet intermédiaire. Le professeur lui avait posé des questions très simples auxquelles M. Hodgson n'avait répondu qu'avec la plus grande difficulté. Le professeur, impatienté, s'était enfin écrié. "Qu'est-ce que tu as donc, Richard? De ton vivant, tu avais pourtant l'esprit assez vif!" La réponse arriva du tac au tac "Oh! chaque fois que je me trouve dans votre détestable ambiance, je perds tous mes moyens." Le professeur s'était étonné de cette réponse et n'en avait pas compris la raison, mais quiconque a vu un élève devant une commission d'examinateurs persuadés qu'il est un cancre, saura à quoi s'en tenir. La disposition d'esprit critique et de scepticisme du professeur Hyslop empêchait Hodgson de communiquer facilement avec lui.
+Un esprit ouvert est une exigence essentielle pour n'importe quelle investigation et le scepticisme est absolument fatal à l'acquisition de la connaissance. Nous mentionnerons, en guise d'exemple, le fait suivant: il y a quelques années, l'auteur assistait, à Colombus (Ohio), à une conférence du professeur Hyslop, secrétaire de la Société des recherches psychiques. Le sujet de la conférence était "Preuves nouvelles d'une vie future". Il fut étonné de constater que le conférencier n'apportait aucune preuve qui n'eût déjà été exposée dans les rapports des vingt dernières années de la société à laquelle il appartenait. Le problème fut résolu au moment où une question, posée à l'issue de la conférence, mit en évidence le fait que le professeur Hyslop n'accordait pas foi à ce qui avait été dit dans les rapports de la Société. Il ne croyait qu'aux résultats qu'il obtenait lui-même. Les preuves qu'il venait d'exposer avaient été réunies par lui; elles étaient donc nouvelles pour lui et il s'attendait à ce que son auditoire le crût sur parole, bien qu'il refusât lui-même de croire qui que ce fût. Ce même professeur Hyslop fournit, sans le vouloir, un très bon exemple de la manière dont agit le scepticisme lorsqu'il raconta l'histoire suivante: Comme il s'était un jour rendu chez un médium, feu Richard Hodgson avait parlé par cet intermédiaire. Le professeur lui avait posé des questions très simples auxquelles M. Hodgson n'avait répondu qu'avec la plus grande difficulté. Le professeur, impatienté, s'était enfin écrié. "Qu'est-ce que tu as donc, Richard? De ton vivant, tu avais pourtant l'esprit assez vif!" La réponse arriva du tac au tac "Oh! chaque fois que je me trouve dans votre détestable ambiance, je perds tous mes moyens." Le professeur s'était étonné de cette réponse et n'en avait pas compris la raison, mais quiconque a vu un élève devant une commission d'examinateurs persuadés qu'il est un cancre, saura à quoi s'en tenir. La disposition d'esprit critique et de scepticisme du professeur Hyslop empêchait Hodgson de communiquer facilement avec lui. Nous pouvons donc affirmer que nous croyons à la médecine, lorsqu'elle est utilisée conjointement à l'astrologie, et aussi à la méthode de guérison (healing) du Christ, qui est la Guérison par la Foi (Faith Cure); nous croyons également au pouvoir de la suggestion et aux divers autres procédés de guérison. Tous contiennent une partie de vérité, bien que beaucoup tournent malheureusement au snobisme et à l'exagération. Ils perdent alors leur pouvoir pour le bien et deviennent une menace pour ceux qui, autrement, en auraient bénéficié.
 
-Nous pouvons donc affirmer que nous croyons à la médecine, lorsqu'elle est utilisée conjointement à l'astrologie, et aussi à la méthode de guérison (healing) du Christ, qui est la Guérison par la Foi (Faith Cure); nous croyons également au pouvoir de la suggestion et aux divers autres procédés de guérison. Tous contiennent une partie de vérité, bien que beaucoup tournent malheureusement au snobisme et à l'exagération. Ils perdent alors leur pouvoir pour le bien et deviennent une menace pour ceux qui, autrement, en auraient bénéficié.
-
-### QUESTION 36
+### <h3 id="question-36">Question 36</h3>
 
 Puisque la souffrance est le résultat de nos propres actions, pensez-vous qu'il soit mal de prendre un remède pour soulager la douleur si l'on n'est pas en danger de mort ou mourant?
 
@@ -654,18 +653,27 @@ RÉPONSE - Cette question révèle un état d'esprit vraiment déplorable; on po
 
 Une question comme celle qui nous est posée révèle aussi une idée erronée de la loi de cause à effet. Il est de notre devoir de nous efforcer de triompher des circonstances, au lieu de nous laisser mener par elles. Un beau petit poème d'Ella Wheeler Wilcox exprime très bien cette idée:
 
-    "Un navire fait voile à l'est, l'autre à l'ouest, Poussés par le même vent. C'est la position de la voilure et non le vent Qui fixe le chemin qu'ils suivent.
-    Pareils aux vents des mers sont les chemins du destin Alors que nous voyageons à travers la vie; Mais c'est l'action de l'âme qui détermine le but Et non point le calme ou la tempête."
+```
+"Un navire fait voile à l'est, l'autre à l'ouest, 
+Poussés par le même vent. 
+C'est la position de la voilure et non le vent
+Qui fixe le chemin qu'ils suivent.
+
+Pareils aux vents des mers sont les chemins du destin 
+Alors que nous voyageons à travers la vie; 
+Mais c'est l'action de l'âme qui détermine le but 
+Et non point le calme ou la tempête."
+```
 
 Si nous nous efforçons d'orienter correctement les voiles de la barque de notre vie, nous serons toujours en mesure de modifier, si ce n'est de changer entièrement les conditions et de faire de notre vie ce que nous voulons, au lieu de nous asseoir nonchalamment pour attendre que passent les nuages que nous avons accumulés sur notre tête. Le seul fait que nous les ayons formés devrait nous donner le courage et l'énergie de les faire disparaître, ou de les repousser au plus vite.
 
-### QUESTION 37
+### <h3 id="question-37">Question 37</h3>
 
 Quelle méthode de guérison préconisez-vous? Celle des médecins ou celle des guérisseurs, à la manière de la Science Chrétienne, par exemple?
 
 RÉPONSE - Cela dépend de la nature de la maladie et du tempérament du malade. Dans le cas d'une jambe cassée, il est évident qu'un chirugien s'impose. S'il s'agit d'un désordre interne,et qu'il soit possible de faire appel à un médecin à l'esprit large, celui-ci sera très utile dans la plupart des cas. Si, d'autre part, l'on peut faire venir un guérisseur mental, membre de la Science Chrétienne ou tout autre guérisseur spirituel, ils pourront aider une personne dont la foi est forte car, de même qu'un diapason répond aux vibrations d'une autre diapason de même ton, ainsi une personne qui a une foi profonde répondra au traitement de guérisseurs spirituels. Mais si le malade n'a pas confiance en l'efficacité de ces méthodes, il est préférable d'appeler un médecin attitré qui jouisse de la confiance du malade, car la santé ou la maladie dépendent presque entièrement de l'état mental; et lorsqu'une personne est affaiblie par la maladie, elle devient hypersensible, et ne doit pas être contrariée dans ses préférences. De plus, quelle que soit la valeur d'une méthode de guérison, les effets qu'elle aura seront en proportion exacte de la foi de la personne en son pouvoir de guérison.
 
-### QUESTION 38
+### <h3 id="question-38">Question 38</h3>
 
 Quelle est votre opinion concernant le jeûne comme moyen de guérison?
 
@@ -673,7 +681,7 @@ RÉPONSE - Il est facile de constater qu'en Occident plus de personnes meurent d
 
 Si nous étudions la chimie de l'alimentation, nous voyons que certains aliments possèdent des propriétés précieuses pour notre organisme dans le cas de certains désordres et, consommés de manière adéquate, ces aliments sont de vrais médicaments. Les agrumes, par exemple, sont tous de merveilleux antiseptiques. Ils nettoient et purifient l'appareil digestif. Ils préviennent ainsi la maladie. Les céréales, surtout le riz, sont toutes antitoxiques; elles éliminent la maladie et tuent les germes de la putréfaction. Ainsi, connaissant les propriétés médicinales des divers aliments, nous pouvons très simplement consommer ceux dont nous avons besoin pour guérir nos indispositions ordinaires par la nourriture et non par le jeûne.
 
-### QUESTION 39
+### <h3 id="question-39">Question 39</h3>
 
 Estimez-vous que ce soit une erreur d'essayer de guérir une mauvaise habitude telle que l'ivrognerie, par l'hypnotisme?
 
@@ -683,7 +691,7 @@ Mais si l'on considère le cas du point de vue plus profond de l'occultisme qui 
 
 Ainsi, la victime d'un guérisseur hypnotiseur ne triomphe pas de sa mauvaise habitude par sa volonté propre, mais elle est tout aussi enchaînée que si elle était emprisonnée dans une cellule; et bien que, dans cette vie, elle puisse sembler être devenue une meilleure personne, quand elle reviendra sur terre, elle aura la même faiblesse qu'ellel devra combattre jusqu'à ce qu'elle en ait triomphé par elle-même.
 
-### QUESTION 40
+### <h3 id="question-40">Question 40</h3>
 
 Y a-t-il une méthode propre à éliminer la matière calcaire qui se dépose dans le corps par suite d'une mauvaise alimentation?
 
@@ -693,7 +701,7 @@ Du point de vue occulte, naturellement, il importe peu que nous soyons morts ou 
 
 Pour arriver à ce résultat, nous devons d'abord choisir les aliments qui contiennent le moins possible de ces substances qui durcissent et obstruent les artères et les capillaires. D'une manière générale, ce sont les fruits et les légumes verts qui en contiennent le moins. Ensuite, il importe d'éliminer les matières calcaires déjà absorbées. Mais la science n'a pas encore découvert les aliments ou les médicaments capables de produire cet effet en toute certitude. Les bains électriques se sont révélés assez efficaces, mais pas entièrement satisfaisants. Le babeurre est le meilleur agent éliminatoire de ce résidu calcaire. Le jus de raisin vient ensuite; pris en quantité suffisante et régulièrement, ces deux aliments réduisent considérablement l'induration des artères.
 
-### QUESTION 41
+### <h3 id="question-41">Question 41</h3>
 
 La nature n'est-elle pas à l'origine des fréquentes malformations physiques dans les règnes végétal et animal aussi bien que dans la race humaine? Et une intelligence parfaitement saine et équilibrée, doublée d'une grande force de volonté, peut-elle habiter un corps malade et difforme?
 
@@ -705,7 +713,7 @@ Tous ces êtres sont en train d'évoluer, comme nous, et le seul fait qu'ils soi
 
 Quant à la deuxième partie de la question, qui demande si une intelligence parfaitement saine et équilibrée, doublée d'une grande force de volonté, peut habiter un corps malade ou difforme, nous répondrons, "oui, sans aucun doute", mais comme cette intelligence, pour s'exprimer, est dépendante de l'efficacité de son instrument physique, elle peut évidemment se trouver gênée par la difformité physique, tout comme l'efficacité de l'ouvrier le plus habile dépend dans une large mesure de la qualité de ses outils.
 
-### QUESTION 42
+### <h3 id="question-42">Question 42</h3>
 
 Quel est l'effet de la vaccination du point de vue occulte?
 
@@ -713,7 +721,9 @@ RÉPONSE - Les bactériologues ont découvert que beaucoup de maladies sont caus
 
 On peut tirer des faits énoncés ci-dessus les conclusions suivantes:
 
-(1) Si l'on inocule à une personne saine une petite quantité des germes d'une certaine maladie, elle contractera cette maladie sous une forme bégnigne, car elle sera en mesure de produire l'antitoxine salvatrice qui l'immunisera à l'avenir contre cette même maladie.Tel est le principe de la vaccination employée comme moyen préventif.
+(1) Si l'on inocule à une personne saine une petite quantité des germes d'une certaine maladie, elle contractera cette maladie sous une forme bégnigne, car elle sera en mesure de produire l'antitoxine salvatrice qui l'immunisera à l'avenir contre cette même maladie.
+
+Tel est le principe de la vaccination employée comme moyen préventif.
 
 (2) Quand une personne ayant contracté une certaine maladie se trouve dans l'incapacité de produire la quantité d'antitoxine nécessaire à la destruction des micro-organismes envahisseurs, on pourra lui sauver la vie en lui inoculant le sérum produit pas un autre organisme déjà immunisé.
 
@@ -727,7 +737,7 @@ Des scientifiques de Nancy ont découvert ces émanations au moyen de réactifs 
 
 Si au contraire, nous mangeons modérément, si nous choisissons des aliments dont la digestion est très facile, la diminution du courant vital protecteur sera alors minime et notre immunité contre la maladie sera beaucoup accrue sans qu'il soit nécessaire d'empoisonner notre corps avec des vaccins.
 
-### QUESTION 43
+### <h3 id="question-43">Question 43</h3>
 
 Si, comme vous le dites, l'Ego réside dans le sang, la transfusion du sang d'une personne saine à une personne malade n'est-elle pas dangereuse? N'affecte-t-elle par les Egos et si oui, de quelle manière?
 
@@ -745,7 +755,7 @@ Quand le sang court dans les artères logées profondément dans le corps, c'est
 
 Actuellement, nous sommes tout au début de cette individualisation de notre sang. C'est pourquoi il est possible, à présent, de transfuser le sang d'un être humain à un autre, mais le jour est proche où cela sera impossible. Le sang d'un Blanc tuera tout ce qui lui est inférieur, et le sang d'une personne évoluée intoxiquera une personne moins cultivée. De nos jours, l'enfant reçoit de ses parents sa provision de sang, et celle-ci est mise en réserve dans la glande appelée thymus, pour être utilisée dans les années d'enfance. Mais il arrivera un moment où l'Ego sera beaucoup trop individualisé pour fonctionner dans un sang qu'il n'aura pas généré lui-même. Alors le mode actuel de procréation sera remplacé par un autre grâce auquel l'Ego pourra créer son propre véhicule sans l'aide de parents.
 
-### QUESTION 44
+### <h3 id="question-44">Question 44</h3>
 
 Quelles sont les causes de l'aliénation mentale?
 
@@ -763,7 +773,7 @@ A ce moment, l'Ego revoit dans un éclair les images de sa vie à venir, à la f
 
 La relation inharmonieuse qui existe parfois entre les parents est souvent la goutte qui fait déborder le vase et qui fait que l'Ego sent qu'il ne peut pas entrer dans un tel milieu. Ainsi, on ne saurait trop insister, auprès des futurs parents, sur le fait que durant la période de gestation,il est de la plus haute importance que tout soit fait pour garder la mère dans un état de contentement et d'harmonie. Car c'est une très rude tâche pour l'Ego de pénétrer dans la matrice; toute sa sensibilité est durement mise à l'épreuve, et le manque d'harmonie dans le foyer qui sera le sien est naturellement une source supplémentaire de malaise qui peut avoir pour résultat le terrible état de choses mentionné ci-dessus.
 
-### QUESTION 45
+### <h3 id="question-45">Question 45</h3>
 
 Lorsqu'une personne qui souffre de démence meurt, sera-t-elle encore dans le même état dans le Monde du Désir?
 
@@ -771,9 +781,9 @@ RÉPONSE - Cela dépend de l'endroit où se trouve la rupture, car la démence e
 
 Lorsque la rupture a lieu entre le corps du désir et l'intellect, le corps du désir est, bien évidemment, encore violent, et cause souvent à l'Ego beaucoup de tourments dans son existence dans le Monde du Désir; car il va de soi que l'Ego ne souffre jamais de démence. Ce qui apparaît comme folie vient du fait que l'Ego n'a pas le contrôle de ses véhicules; le pire de tout est évidemment que l'intellect lui-même soit affecté et que l'Ego soit lié à la personnalité pour une longue période, jusqu'à ce que tous les véhicules soient entièrement détruits.
 
-## PARTIE 5 - QUESTIONS CONCERNANT LA VIE APRES LA MORT
+<h2 id="section-2">Partie 2 - Question Concernant la Vie Après la Mort</h2>
 
-### QUESTION 46
+### <h3 id="question-46">Question 46</h3>
 
 Quelle est l'utilité de connaître l'état qui suit la mort, de savoir ce qui se passe dans le monde invisible, et toutes ces choses? N'est- il pas préférable de connaître un monde à la fois? A chaque jour suffit sa peine. Pourquoi se charger d'autres soucis?
 
@@ -783,7 +793,7 @@ Ce qui précède s'applique aussi bien aux Mondes Invisibles. Après la mort, c'
 
 En connaissant déjà les tâches que nous aurons à accomplir au Deuxième Ciel, nous pourrons nous appliquer avec plus d'intelligence à ce travail; nous acquérons une conscience plus large de ce royaume en nous familiarisant quotidiennement avec lui. Ainsi nous préparerons-nous, de diverses manières, à devenir des Aides Invisibles, à vivre consciemment en tout temps, et à écourter notre évolution de millions d'années.
 
-### QUESTION 47
+### <h3 id="question-47">Question 47</h3>
 
 La durée d'une vie terrestre est-elle déterminée avant la naissance?
 
@@ -791,13 +801,13 @@ RÉPONSE - Oui, au moment où l'Ego se prépare à renaître, il forme l'archét
 
 Cependant, la loi de cause à effet détermine la façon dont la vie doit être vécue, et certaines occasions de croissance spirituelle sont offertes à l'Ego à différents moments de sa vie terrestre. S'il utilise ces occasions, la vie se poursuit selon le tracé voulu; sinon, elle dévie dans une impasse, pourrait-on dire, et les Hiérarchies Créatrices y mettent fin en détruisant l'archétype dans le Monde Céleste. Nous pouvons donc dire que la durée d'une vie terrestre est déterminée avant que nous naissions physiquement, mais la vie peut être abrégée si nous négligeons certaines occasions. Il y a aussi quelques rares cas où la vie ayant été vécue dans toute sa plénitude, la personne ayant toujours cherché à être à la hauteur des occasions qui se sont présentées à elle, une prolongation de vie est infusée dans l'archétype, mais comme précisé cela est exceptionnel.
 
-### QUESTION 48
+### <h3 id="question-48">Question 48</h3>
 
 Est-il possible d'abréger le laps de temps entre la mort et une nouvelle naissance afin de hâter notre évolution, et si oui, comment?
 
 RÉPONSE - Oui, cela est possible à toute personne qui se donne la peine de passer en revue, en sens inverse, les événements de la journée, depuis le soir jusqu'au matin, en se jugeant pour les erreurs commises et en prenant la résolution de les réparer de son mieux. En agissant ainsi, elle efface de sa vie les péchés commis et devient progressivement une personne bien meilleure que celles qui ne pratiquent pas ce simple exercice. Ainsi, les péchés qui autrement auraient été expurgés au Purgatoire, ont déjà été effacés durant la vie terrestre, et l'existence au Purgatoire en est matériellement écourtée. Lorsque, pendant cet exercice du soir, la personne revoit le bien qu'elle a fait et se promet d'essayer de faire mieux encore à l'avenir, elle assimile aussi le bien qu'elle fait chaque jour, et acquiert ainsi une très forte croissance de l'âme, ce qui lui permettra d'éviter aussi la vie au Premier Ciel. Une telle personne est définitivement engagée sur la sentier de l'Initiation; elle est alors en réalité en dehors des lois ordinaires qui gouvernent l'humanité, car c'est un aide dans l'évolution et, c'est pourquoi des occasions de retourner sur terre lui seront données dans ce but, et bien plus tôt que cela n'aurait été le cas autrement.
 
-### QUESTION 49
+### <h3 id="question-49">Question 49</h3>
 
 Y a-t-il dans l'autre monde des saisons, des années, des ères et des époques?
 
@@ -807,13 +817,13 @@ C'est la raison pour laquelle ceux qui sont décédés et ont passé dans l'autr
 
 Il n'y a qu'une méthode pour mesurer le temps dans l'au-delà, et le clairvoyant exercé l'emploie pour fixer les événements lorsqu'il lit dans la mémoire de la nature, et c'est l'astrologie qui lui permet de noter la position des astres. Si l'événement qu'il recherche s'est passé à une époque historique, il peut en fixer la date en la rapprochant d'un fait historique qui s'est produit au même moment; mais lorsqu'il s'agit de remonter à des milliers et des milliers d'années en arrière, par exemple lorsqu'il désire déterminer le moment des déluges de l'Atlantide, il utilise en particulier la précession des équinoxes, qui est le mouvement rétrograde du Soleil à travers les douze constellations du zodiaque, un mouvement qui demande vingt-six mille ans environ au Soleil pour en faire le tour. Il peut ainsi lire en arrière dans le temps jusqu'au moment des déluges de l'Atlantide, en comptant combien de période de vingt-six mille ans se sont écoulées entre le premier et le second déluge, entre le second et le troisième, puis le nombre d'années depuis le troisième jusqu'à notre époque. S'il ignore la science des étoiles, il ne peut le faire, c'est donc une raison de plus pour l'étudiant en occultisme de se familiariser avec l'astronomie.
 
-### QUESTION 50
+### <h3 id="question-50">Question 50</h3>
 
 Une personne enterrée vivante prend-elle conscience de sa condition? Comment l'Esprit peut-il retourner à son corps enfermé dans la tombe?
 
 RÉPONSE - D'après le changement de position du corps à l'intérieur du cercueil, il est évident que parfois lorsque celui-ci a été enterré avant que l'esprit l'ait définitivement quitté, l'esprit y est revenu et lui a fait faire des efforts désespérés pour trouver l'air indispensable. Et cela indiquerait que le corps avait repris conscience, car la nature solide de la terre et du cer cueil n'empêche aucunement l'esprit d'aller et venir. Un esprit traverse une muraille ou tout autre obstacle opaque ou dense avec la même facilité que nous passons à travers l'air.
 
-### QUESTION 51
+### <h3 id="question-51">Question 51</h3>
 
 Pourquoi les enfants meurent-ils?
 
@@ -825,7 +835,7 @@ Lorsque ceux qui entourent un mourant éclatent en sanglots au moment où l'espr
 
 Afin de compenser cette perte, l'Ego renaît, le plus généralement chez les parents ou amis qui se sont lamentés à sa mort, et il leur est enlevé dans l'enfance. Il entre alors dans le Monde du Désir, mais comme un petit enfant n'a pas de péchés à expurger, son corps du désir et son intellect restent intacts; il va alors directement au Premier Ciel pour y attendre le moment favorable à une nouvelle renaissance. Ce temps d'attente est employé à lui enseigner directement les effets des différentes émotions, aussi bien bonnes que mauvaises. Souvent c'est un parent ou un ami qui vient au-devant de lui et qui s'occupe de lui enseigner ce qu'il a perdu par les lamentations auxquelles s'étaient livré ses proches. De toute façon, la perte est plus que réparée; de telle sorte que lorsque l'enfant renaît une seconde fois, il a atteint un degré de croissance morale égal à celui auquel il serait parvenu si son passage dans l'au-delà n'avait pas été troublé.
 
-### QUESTION 52
+### <h3 id="question-52">Question 52</h3>
 
 Quelle est la cause du grand nombre de décès dans la première enfance et dans l'enfance?
 
@@ -839,7 +849,7 @@ Ce qui n'a pas été vivifié ne peut mourir; aussi lorsqu'un enfant meurt avant
 
 Comme dans le passé l'homme a toujours été très belliqueux et comme, d'autre part, il n'a pas observé, dans son ignorance, le silence et la paix autour des morts, organisant des veillées mortuaires autour de ceux qui mouraient dans leur lit et qui étaient peu nombreux en comparaison de ceux qui étaient tués sur le champ de bataille, il en résulte une énorme mortalité infantile. Mais comme les humains comprennent mieux les choses, qu'ils se rendent compte qu'ils sont surtout le gardien de leur frère lorsque celui-ci quitte cette vie et qu'ils peuvent l'aider énormément en restant calme et en priant, la mortalité infantile diminuera et ne sera plus ce qu'elle est actuellement.
 
-### QUESTION 53
+### <h3 id="question-53">Question 53</h3>
 
 L'incinération du corps physique après la mort affecte-t-elle l'esprit d'une manière quelconque?
 
@@ -849,7 +859,7 @@ Quand la vie a été remplie d'événements nombreux et que le corps vital de l'
 
 Lorsque le corps dense est inhumé, le corps vital se désagrège lentement en même temps que le corps physique, et quand le bras, par exemple, pourrit dans ls terre, le bras éthérique du corps vital qui plane au-dessus de la tombe est détruit et disparaît, et il en est ainsi jusqu'à ce que rien ne reste plus du corps physique. Si on incinère ce dernier, le corps vital se désintègre immédiatement, et comme il renferme les images de la vie qui vient de prendre fin, images qui doivent être imprimées dans le corps du désir pour former la base de la vie au Purgatoire et au Premier Ciel, c'est une grande calamité d'incinérer le corps physique avant que les trois jours et demi soient écoulés. A moins qu'une aide ne soit donnée, jamais l'esprit ne pourrait rassembler ses souvenirs. Et c'est une partie du travail qui est effectué par les Aides Invisibles pour l'humanité. Parfois ils sont assistés dans cette tâche par les esprits de la nature et par d'autres entités envoyées par les Hiérarchies Créatrices ou par les guides de l'humanité. Il y a également une perte lorsque l'incinération est pratiquée avant que la corde d'argent n'ait été rompue naturellement, car alors l'impression dans le corps du désir n'est pas aussi profonde qu'elle l'aurait été autrement, et ceci a un effet sur les vies futures car, plus cette empreinte de la vie passée est profonde dans le corps du désir, plus aiguës sont les souffrances au Purgatoire pour le mal commis, et plus vives aussi les joies dans le Premier Ciel, qui résultent des bonnes actions de la vie passée. Ce sont ces souffrances et ces joies de nos vies passées qui créent ce que nous appelons la conscience, de sorte que si nous souffrons moins nous sommes aussi moins conscients de ce qui est faux et qui doit nous empêcher de continuer à commettre les mêmes erreurs, encore et encore, dans nos vies futures. C'est pourquoi les effets d'une incinération prématurée sont très néfastes. Il est navrant de devoir dire que si nous avons une science de la naissance, grâce à l'obstétrique, aux infirmières, à l'asepsie et à tout ce qui est nécessaire au comfort et au bien-être du nouveau-né, nous manquons malheureusement d'une science de la mort pour nous aider à assister les amis de toute une vie qui sont en train de nous quitter.
 
-### QUESTION 54
+### <h3 id="question-54">Question 54</h3>
 
 La perte de mémoire, causée par la fièvre ou par un choc nerveux, affecte-t-elle le corps vital d'une personne et l'empêche-t-elle de revoir l'enregistrement de sa vie dans les trois jours et demi qui suivent immédiatement sa mort?
 
@@ -859,7 +869,7 @@ Il doit y avoir une autre mémoire, et c'est ce que les scientifiques ont appel�
 
 George du Maurier a écrit livre intitulé "Peter Ibbetson" dans lequel cette théorie de la mémoire subconsciente est très clairement exposée. Peter Ibbetson, prisonnier dans un pénitencier anglais, a appris à "rêver vrai", c'est-à-dire qu'en plaçant son corps dans une certaine position, il a appris à bloquer en lui les courants d'éther, de manière à pouvoir, à volonté, entrer en contact avec n'importe quelle scène de sa vie écoulée; c'est ainsi que, tout adulte qu'il est, il devient le spectateur de sa propre vie d'enfant, auprès de ses parents et de ses camarades de jeux, et dans l'environnement dans lequel il se trouvait au moment où la scène s'est déroulée. Il revoit la scène complète avec beaucoup plus de détails qu'il n'avait pu en observer au moment où l'événement s'était déroulé dans le monde matériel. La raison tient à ce que dans ses rêves, il peut entrer en contact avec sa mémoire subconsciente. Il aurait été parfaitement incapable d'obtenir des renseignements concernant l'avenir, mais le passé, ayant été inscrit sur l'atome-germe de son coeur, lui était accessible dans des conditions appropriées. C'est de cette mémoire subconsciente qu'est tiré l'enregistrement de la vie, après la mort, et comme cette mémoire dépend uniquement de la respiration, elle continue à fonctionner indépendamment de toute autre circonstance, tant que le corps est en vie. Ainsi, bien qu'une personne puisse perdre sa mémoire consciente et soit incapable de se rappeler à volonté les événements passés, la mémoire subconsciente les contient tous et les cédera en temps voulu.
 
-### QUESTION 55
+### <h3 id="question-55">Question 55</h3>
 
 Si un esprit désincarné peut passer à travers un mur, peut-il aussi passer à travers une montagne et à travers la terre, et voir ce qu'il y a à l'intérieur?
 
@@ -867,7 +877,7 @@ RÉPONSE - Cela dépend du genre d'esprit désincarné que l'auteur de la questi
 
 C'est un fait très connu que bien que la plupart des clairvoyants et des médiums soient capables de nous dire bien des choses sur les spectacles et les scènes du Monde du Désir, il n'y a que très peu d'informations concernant l'intérieur de la Terre, car les clairvoyants déclarent que, s'ils essaient d'y pénétrer, ils éprouvent un heurt semblable à celui que ressent l'homme qui se jetterait contre un mur. C'est que la Terre est le corps d'un grand Esprit, et celui-ci ne peut être approché, en son intérieur, que par la voie de l'Initiation. Il y a neuf couches, d'épaisseur différente, autour du noyau terrestre, noyau qui en constitue la dixième partie, et les Mystères Mineurs sont la porte d'entrée qui donne accès à ce noyau central. Ils comprennent neuf degrés, et chaque degré franchi par le candidat lui permet de pénétrer la couche de la Terre qui y correspond. La dixième initiation appartient aux Mystères Majeurs qui comprennent quatre divisions. La première enseigne tout ce que l'homme est appelé à connaître pendant la Période de la Terre; la deuxième des Initiations Majeures enseigne tout ce qui sera acquis par l'humanité toute entière durant la Période de Jupiter; la troisième lui apporterait la sagesse qu'atteindra l'humanité à la fin de la Période de Vénus, et la quatrième terminerait son évolution dans ce grand Jour de Manifestation. L'initié aurait donc le niveau qu'aura atteint l'humanité à la fin de la Période de Vulcain. L'homme connaîtra alors tout ce que la Terre contiendra dans cette incarnation ci et dans ces manifestations futures. Les Mystères Mineurs lui auront aussi enseigné l'évolution qui fut la sienne durant les trois périodes antérieures à la présente Période de la Terre. Ce sont ces secrets qui sont enfermés dans la Terre, jusqu'à ce que l'homme ait lui-même ouvert la porte de la manière appropriée, et c'est pourquoi aucun Esprit, incarné ou désincarné, ne peut voir ce qui est à l'intérieur de la Terre, jusqu'à ce que la porte de l'Initiation ait ouvert ses facultés latentes.
 
-### QUESTION 56
+### <h3 id="question-56">Question 56</h3>
 
 Après la mort, retrouvons-nous ceux que nous avons aimés, même s'ils ont eu d'autres convictions que les nôtres? Ou, peut-être, s'ils ont été athées?
 
@@ -879,13 +889,13 @@ L'ami matérialiste, s'il a mené une bonne vie morale, ce qui est généralemen
 
 Nous le verrons, le reconnaîtrons, collaborerons avec lui pendant des siècles au travail à faire sur notre milieu futur, et là, notre ami ne serait plus matérialiste du tout, car lorsque l'esprit atteint cette région élevée, il n'est plus sous l'effet des illusions qui l'enveloppent parfois dans ce monde matériel.Tout un chacun se reconnaît comme un être spirituel et ne songe à sa vie terrestre que comme à un mauvais rêve. L'esprit, en entrant dans ce monde s'éveille de toute manière à sa propre, vraie nature.
 
-### QUESTION 57
+### <h3 id="question-57">Question 57</h3>
 
 Reconnaisons-nous les personnes aimées qui sont passées par les portes de la mort?
 
 RÉPONSE - Oui, certainement, nous les reconnaissons. Lorsqu'un homme quitte son corps physique, il demeure exactement ce qu'il était sur la terre. Il n'y a aucune différence si ce n'est qu'il ne possède plus de corps physique; il se voit lui-même dans le Monde du Désir, et comme il garde dans sa conscience l'image de ce qu'il était ici-bas, le corps du désir prend immédiatement la forme du corps physique, si bien que quiconque l'aura connu dans sa vie terrestre le reconnaîtra dans l'au-delà. En outre il peut être utile d'ajouter qu'il n'y a pas de pouvoir transformateur dans la mort, que mentalement et moralement, l'homme reste lui-même. On entend souvent des gens qui ont aimé quelqu'un, parler du cher ange disparu, alors qu'ils admettent qu'ici -bas, il était plutôt un démon, mais ils pensent habituellement qu'il serait irrévérencieux de parler autrement de lui maintenant qu'il est trépassé. Néanmoins, seuls ceux qui ont été bons sur terre sont bons dans le ciel.
 
-### QUESTION 58
+### <h3 id="question-58">Question 58</h3>
 
 Le suicidé reste-t-il plus longtemps au Purgatoire que ceux qui sont décédés de mort naturelle?
 
@@ -893,13 +903,13 @@ RÉPONSE - Lorsque l'Ego vient pour renaître, il descend à travers le Deuxièm
 
 Ce qui précède est la description des conditions normales, lorsque l'ordre de la nature a suivi son cours, mais le cas du suicidé est différent. Il a emporté l'atome-germe, mais l'archétype creux continue encore à vibrer. C'est pourquoi le suicidé se sent comme évidé, et il éprouve un sentiment de tiraillement intérieur comparable aux affres d'une faim intense. La matière pour la construction d'un corps physique l'entoure de toutes parts, mais comme il lui manque le calibre de l'atome-germe, il lui est impossible d'assimiler cette matière et de s'en construire un corps. Cet affreux sentiment de vide dure aussi longtemps que sa vie ordinaire aurait duré. Ainsi, la loi de cause à effet lui enseigne qu'il est mal de déserter l'école de la vie et que nul ne peut le faire impunément. Dans la prochaine vie, quand les difficultés se présenteront sur son chemin, il se rappellera les souffrances que lui ont valu son suicide et il ira jusqu'au bout de l'expérience qui favorise sa croissance de l'âme.
 
-### QUESTION 59
+### <h3 id="question-59">Question 59</h3>
 
 Un homme bon doit-il nécessairement passer par le Purgatoire pour y prendre conscience de tout le mal qui y règne, avant de pouvoir gagner le Premier, le Deuxième et le Troisième Ciel? S'il en est ainsi, n'est-ce pas là, pour lui, un châtiment immérité?
 
 RÉPONSE - L'auteur de cette question devrait se défaire de l'idée de châtiment. Il n'existe pas de châtiment. Tout ce qui arrive à un homme est la conséquence de lois immuables qui ne varient pas, et il n'y a pas deDieu personnel qui donne des récompenses ou des châtiments selon une volonté insondable ou suivvant tout autre méhode. Que l'Ego se vête de ses véhicules ou qu'il s'en dévête, cela se fait exactement sur le même principe et selon les mêmes lois qui gouvernent, par exemple dans le cas d'une planète. Lorsqu'une planète se forme, à partir du brouillard de feu central, une cristallisation a eu lieu aux pôles, où le mouvement est le plus lent. La matière cristallisée est rejetée à l'extérieur par la force centrifuge et elle flotte dans l'espace, parce qu'elle est plus lourde que le reste du brouillard de feu. Pour des raisons similaires, lorsque le corps le plus dense de l'esprit s'est cristallisé et alourdi à tel point que l'esprit ne peut plus l'utiliser pour acquérir de l'expérience, un processus d'enlèvement des véhicules est accompli par la force centrifuge qui, naturellement, élimine d'abord le corps physique. C'est cela que nous nommons la mort. L'esprit est alors libre pendant un certain temps, mais la substance-désir la plus grossière qui était l'incarnation de nos passions et de nos désirs les plus bas, doit aussi être rejetée, et c'est l'éjection forcée des désirs inférieurs qui cause la souffrance au Purgatoire où la force de répulsion est la plus forte. Si un homme a une certaine quantité de cette matière grossière dans son corps du désir, il devra naturellement séjourner au Purgatoire et passer par le processus d'épuration avant de pouvoir entrer au Premier Ciel. Ici, la force centripète d'attraction attire en tourbillons tout le bien de la vie, à l'intérieur vers le centre spirituel, où il est assimilé en tant que pouvoir de l'âme, disponible pour être utilisé par l'Esprit en tant que conscience dans sa prochaine vie terrestre. Ainsi la durée de notre existence au Purgatoire dépend de la quantité de matière grossière contenue dans notre corps du désir, et un homme bon n'aurait naturellement que très peu de matière de cette sorte ou pas du tout. C'est pourquoi il ne ferait au Purgatoire pas de séjour valant la peine d'être mentionné et passerait à travers ces régions directement au Premier Ciel.
 
-### QUESTION 60
+### <h3 id="question-60">Question 60</h3>
 
 Quelle est la situation dans l'au-delà de la victime d'un meurtre et de la victime d'un accident mortel?
 
@@ -909,7 +919,7 @@ Cela n'est cependant pas le cas dans un accident, mais il peut y avoir certaines
 
 Le cas de la victime d'un meurtre, comme le cas du suicide, est différent. L'homme, du fait de sa nature divine, est le seul être qui ait la prérogative de causer du désordre dans le plan de son développement, et de même qu'il peut terminer sa vie par un acte de volonté, il peut aussi mettre un terme à la vie d'autrui, avant que l'heure en ait sonné. Les souffrances d'un homme assassiné devraient être les mêmes que celles d'un suicidé, car l'archétype de son corps continue ses efforts pour attirer à lui une matière qu'il lui est devenu impossible d'assimiler; mais dans ce cas, l'intervention d'autres facteurs empêche la souffrance, et la victime d'un meurtre flotte ça et là dans son corps du désir, dans un état comateux, pendant tout le temps qu'elle aurait eu encore à vivre. Si l'assassin est saisi par la justice et subit la peine de mort, l'attraction magnétique l'attirera vers sa victime, qui restera ainsi constamment sous ses yeux, et c'est vraiment un châtiment autrement sévère pour lui que tous ceux que nous pourrions lui infliger; mais pendant ce temps, la victime ignore la présence de son meurtrier.
 
-### QUESTION 61
+### <h3 id="question-61">Question 61</h3>
 
 Où est le ciel?
 
@@ -925,7 +935,7 @@ Pendant son existence terrestre, l'homme vit sur ce globe ferme et visible, mais
 
 Le Troisième Ciel est un endroit où très peu de personnes sont conscientes à notre degré actuel de développement, parce que nous sommes, pour la plupart, guidés dans nos activités mentales, plus par nos émotions et nos sentiments concernant les choses concrètes, que par la pensée abstraite qui est la faculté appartenant en propre au Troisième Ciel. Lorsque nous pensons à l'amour, nous y pensons habituellement par rapport à une personne précise; il s'agit là d'une pensée concrète. Mais bien peu d'entre nous peuvent penser à l'Amour d'une manière abstraite. Nous pensons à une maison, à un animal, etc., toutes choses concrètes, mais nous n'aimons pas penser à une proposition abstraite telle que, le carré de l'hypoténuse est égal à la somme des carrés des deux autres côtés d'un triangle. C'est pourquoi la plupart d'entre nous n'ont que très peu de conscience dans le Troisième Ciel, et conséquemment il entre très peu de la substance de la région de la pensée abstraite dans la constitution de notre planète.
 
-### QUESTION 62
+### <h3 id="question-62">Question 62</h3>
 
 On dit qu'il n'y a pas de douleur au ciel, mais si les êtres chers que nous y rencontrons doivent nous devancer, la séparation n'implique- t-elle pas au moins un sentiment de regret?
 
@@ -933,7 +943,7 @@ RÉPONSE - Non, car là, nous voyons les choses telles qu'elles sont. Ici-bas no
 
 Quand l'esprit passe dans le Monde Céleste, il rencontre au Premier Ciel bon nombre de ceux qu'il a fréquentés sur terre, mais là il s'est déjà tellement spiritualisé et il est en contact si étroit avec les réalités qu'il sait qu'il n'y a pas de mort. Aussi, lorsqu'un être qui lui est cher passe plus loin, cet avancement est une réjouissance et une joie; et la certitude de le revoir enlève certainement tout serrement de coeur chez ceux qui sont restés en arrière.
 
-### QUESTION 63
+### <h3 id="question-63">Question 63</h3>
 
 Expliquez s'il vous plaît comment se concentrer pour aider ceux qui sont dans l'autre monde. Voulez-vous dire qu'il faut s'asseoir en silence et leur envoyer des pensées d'amour et d'aide?
 
@@ -943,11 +953,16 @@ Il faut une longue pratique, cependant, pour apprendre à faire cela, et il y a 
 
 Donc si nous voulons aider ceux qui sont passés dans l'autre monde, nous pouvons prier avec ferveur pour leur bien-être, et pour qu'ils apprennent les leçons de cette vie complètement durant leurs expériences au Purgatoire et au Premier Ciel; alors nous accomplirons beaucoup plus en leur faveur que si nous essayons la froide méthode intellectuelle de concentration. L'attitude du corps ajoute quelquefois beaucoup à l'intensité de la prière, et si la position agenouillée semble faciliter la prière, il faut la prendre. D'autre part, comme l'a dit Emerson:
 
-"Et bien que vos genoux ne soient jamais pliés, Vers les Cieux, chaque heure, s'élèvent vos prières; Et qu'elles soient faites pour le bien ou pour le mal, Elles sont enregistrées et reçoivent une Réponse,"
+```
+"Et bien que vos genoux ne soient jamais pliés, 
+Vers les Cieux, chaque heure, s'élèvent vos prières; 
+Et qu'elles soient faites pour le bien ou pour le mal, 
+Elles sont enregistrées et reçoivent une Réponse,"
+```
 
 Par conséquent, la position du corps n'a d'importance que si elle concourt à l'intensité de la prière, car c'est l'intensité qui rend la prière efficace.
 
-### QUESTION 64
+### <h3 id="question-64">Question 64</h3>
 
 Ceux qui ont quitté cette vie veillent-ils sur nous qui sommes laissés en arrière; par exemple, les mères veillent-elles sur leurs petits enfants et même sur les plus grands?
 
@@ -957,9 +972,9 @@ Il est donc parfaitement vrai qu'ils veillent sur leurs bien-aimés longtemps ap
 
 Aussi, nous pouvons dire que nos bien-aimés s'intéressent à notre bien-être longtemps encore après leur passage dans l'au-delà, mais il faut se rappeler qu'il n'y a dans la mort aucun pouvoir transformateur; la mort ne donne à ceux qui nous ont quitté aucune capacité spéciale pour prendre soin de nous, et ils n'ont aucun moyen d'influencer réellement nos affaires, en sorte qu'il n'est pas très juste de les considérer comme nos anges gardiens. Ils sont simplement des spectateurs intéressés, sauf dans quelques cas spécifiques où une intense affection les rend capables de rendre un petit service en cas de besoin extrême. Cependant ce service ne prendrait jamais, pour nous, la forme d'un enrichissement ou de quelque autre chose du même ordre, mais serait plutôt de nature à nous avertir d'un danger ou autre fait similaire. 
 
-## PARTIE 6 - QUESTIONS CONCERNANT LA RENAISSANCE
+<h2 id="section-3">Partie 6 - Questions Concernant la Renaissance</h2>
 
-### QUESTION 65
+### <h3 id="question-65">Question 65</h3>
 
 Pourquoi, à peu d'exceptions près, renaissons-nous sans la moindre connaissance de l'une quelconque de nos existences passées, et pourquoi souffrons-nous dans la vie présente pour des transgressions commises dans des vies précédentes dont nous sommes totalement ignorants? Ne pourrions- nous pas avancer spirituellement mieux et plus vite si nous savions où nous nous sommes trompés antérieurement, et quelles façons d'agir nous devons corriger, avant de pouvoir progresser?
 
@@ -971,13 +986,13 @@ Dans "Zanoni", Bulwer Lytton parle d'un spectre terrible que Glyndon rencontra l
 
 Si nous avons le courage de dépasser le gardien hideux que nous apercevons en premier lieu, car il est formé de substance-désir grossière, nous obtiendrons bientôt l'aide consciente de l'autre, et nous aurons alors la force de faire face, sans crainte, à l'avalanche de dénigrements auxquels sont exposés ceux qui essaient de fouler le sentier du désintéressement. Mais tant que nous n'avons pas dépassé ce spectre, nous ne sommes pas aptes à connaître nos vies antérieures; nous devons nous contenter de la vue ordinaire donnée à l'humanité.
 
-### QUESTION 66
+### <h3 id="question-66">Question 66</h3>
 
 Les humains qui peuplent la terre à l'époque actuelle sont-ils tous des âmes déjà venues sur terre auparavant, ou bien y a-t-il toujours de nouvelles âmes créées?
 
 RÉPONSE - La pénétration des esprits dans les corps humains, tels qu'ils sont actuellement constitués, a commencé lors de la phase de solidification de notre terre connue sous le nom d'Epoque Lémurienne, et s'est terminée vers le milieu de l'Epoque Atlantéenne, laps de temps qui représente peut-être des millions d'années. Mais depuis lors, il n'y a pas eu d'autre pénétration; la porte est définitivement close, parce que nous sommes arrivés à un degré d'évolution tel que ceux qui n'avaient pas atteint, à ce moment, le stade où ils pouvaient manipuler un corps humain, sont trop loin derrière nous pour rattrapper notre futur développement. Depuis cette époque, les esprits qui s'étaient incarnés dans des formes humaines ont évolué à travers des existences répétées, en sorte que, sans exception, chaque membre de notre humanité s'est incarné à différentes époques et dans de milieux divers.
 
-### QUESTION 67
+### <h3 id="question-67">Question 67</h3>
 
 Comment savons-nous, sans doute possible, que la renaissance est un fait? Se peut-il que ceux qui la professent soient l'objet d'une hallucination?
 
@@ -985,19 +1000,19 @@ RÉPONSE - Le clairvoyant exercé qui est capable de lire dans la Mémoire de la
 
 Mais, nous dira-t-on, cette clairvoyance dont il est parlé comme moyen d'investigation, n'est-elle pas en elle-même une hallucination? Le chercheur, bien que parfaitement honnête, ne peut-il être victime d'une vision chimérique? On peut affirmer en réponse à cette suggestion que le clairvoyant a tous les jours, à sa disposition, le moyen de vérifier ses observations. Lorsqu'un homme a visité la ville de New York et qu'il a vu la ville il ne sera jamais tenté de dire, "Je me demande si je ne me suis pas trompé"? Il y est allé et il le sait. Ainsi en est-il du clairvoyant. Quand il quitte son corps dense, il rencontre des gens que, dans la vie ordinaire, il ne connaît pas, et il travaille avec eux. Plus tard, il peut être invité à rendre visite à ces amis du monde invisible; il peut, sous leur conduite clairvoyante, se rendre dans une ville qui lui est étrangère, les trouver dans la rue et dans la maison qu'il a vues grâce à la clairvoyance, les reconnaître et être reconnu. Il peut converser avec ces amis des choses qu'ils ont faites ensemble, des endroits qu'ils ont visités dans leur corps invisible, et s'il avait jamais eu quelque doute au sujet de la réalité de sa vie en dehors du monde physique dense, il est dès lors définitivement convaincu de la réalité de ses expériences en dehors de son corps. Il sait qu'elles ne sont pas étranges, il sait qu'il n'a pas été illusionné, mais que sa vie, son travail et ses expériences dans les mondes invisibles sont aussi réels que sa vie, son travail et ses expériences ici-bas.
 
-### QUESTION 68
+### <h3 id="question-68">Question 68</h3>
 
 Les âmes qui ont passé par le Purgatoire et les Premier, Deuxième et Troisième Ciels renaissent-elles sur cette terre ou vont-elles sur d'autres sphères?
 
 RÉPONSE - Elles reviennent sur la Terre jusqu'à ce qu'elles aient appris toutes les leçons qui peuvent être apprises ici-bas. Le même principe est employé lorsque nous envoyons nos enfants à l'école. Nous ne mettons pas un enfant à l'école maternelle un jour, à l'école primaire le lendemain et à l'école secondaire le troisième, mais nous l'envoyons à l'école maternelle jour après jour jusqu'à ce qu'il ait appris toutes les leçons qui doivent y être apprises. Les connaissances qu'il y a acquises forment la base de ce qui doit être appris à l'école primaire; l'instruction acquise à l'école primaire sera la base de celle de l'école secondaire, et ainsi de suite. Selon le même processus, nous avons appris des leçons dans le passé, dans différentes conditions, et à l'avenir, lorsque nous aurons appris tout ce que nous pouvons apprendre dans notre milieu terrestre actuel, nous trouverons aussi en réserve pour nous des tâches convenant à une évolution plus avancée. Le progrès est sans fin, car nous sommes divins comme notre Père céleste, et il n'y a pas de limites.
 
-### QUESTION 69
+### <h3 id="question-69">Question 69</h3>
 
 Sommes-nous en contact avec les amis d'une vie antérieure lorsque nous renaissons à une vie terrestre nouvelle?
 
 RÉPONSE - La loi de renaissance a pour compagne celle de cause à effet. Il est évident qu'il y a de nombreuses causes mises en oeuvre par nous tous, qui n'ont pas d'effets dans cette vie-ci. Par exemple un homme est malade et sa femme se dévoue pour lui jusqu'au sacrifice. Il y a assurément là une dette à payer, et si la maladie n'a de cesse qu'à la mort du mari, il n'y a dans cette vie-ci aucune occasion de rendre cette faveur. Connaissant les lois de la nature et la manière dont elles opèrent, nous savons qu'elles ne sont pas infirmées par d'aussi minces raisons que la cessation de la vie dans un certain corps. Si nous nous cassons un membre, il n'est pas guéri le lendemain, bien que nous puissions avoir dormi la nuit, inconscients de notre fracture; mais quand nous nous réveillons, le membre est à peu près dans le même état où il était le jour précédent. Ainsi en est-il des actions accomplies dans le corps au cours d'une vie. Bien que nous ayons traversé l'existence qui sépare la mort d'une nouvelle naissance, et que nous soyons inconscients de nos vies antérieures, lorsque nous commençons une nouvelle vie, la loi d'association, les causes générées dans une vie précédente, nous amènent dans un nouveau milieu où nous trouvons nos anciens amis et nos anciens ennemis. Nous les connaissons aussi, bien que, peut-être, nous ne les reconnaissions pas directement. Parfois, nous rencontrons une personne pour la première fois et sommes attirés vers elle; nous avons le sentiment que nous l'avons connue dans toutes nos vies et que nous pourrions lui confier notre personne et tout ce que nous avons. Cela vient de ce que l'esprit intérieur voit et reconnaît un vieil ami, bien qu'il lui soit impossible d'imprimer cette ressouvenance sur le cerveau qu'il possède maintenant. Il se peut aussi que nous rencontrions une personne dont la compagnie ne nous plaît pas; instinctivement, nous éprouvons pour elle un sentiment d'antipathie, qu'aucune raison apparente ne justifie; là aussi, c'est l'esprit intérieur qui reconnaît et voit en elle l'ennemi d'une existence passée. Ainsi, nos sympathies et antipathies instinctives sont des indications dictées par des expériences antérieures et, à la lumière des expériences ultérieures on remarque qu'on peut habituellement s'y fier.
 
-### QUESTION 70
+### <h3 id="question-70">Question 70</h3>
 
 L'expérience acquise dans chaque incarnation est-elle enregistrée séparément et ajoutée aux précédentes, si bien qu'à la fin, l'esprit sera entièrement conscient de la totalité de ses expériences, ou bien l'expérience d'une vie est-elle plus ou moins inconsciemment absorbée par l'incarnation suivante, de telle sorte qu'il n'y ait qu'un effet général obtenu?
 
@@ -1007,13 +1022,13 @@ De même, les expériences par lesquelles nous avons passé dans nos différente
 
 Il y a cependant dans la nature un enregistrement de nos vies passées, qui est fait dans les moindres détails. Le clairvoyant exercé, capable de lire dans la Mémoire de la Nature, peut suivre en sens inverse les vies passées d'un homme, comme, par exemple, le film d'un cinéma qui se déroulerait en sens inverse. Il voit d'abord la vie actuelle de l'homme, puis sa naissance, le précédent séjour dans le monde invisible, ensuite la mort de l'existence précédente qui, à son tour, se déroule en sens inverse, de la vieillesse à l'âge mûr, à la jeunesse, à l'enfance, jusqu'à la naissance, et ainsi de suite à travers ses diverses vies.
 
-### QUESTION 71
+### <h3 id="question-71">Question 71</h3>
 
 Lorsque l'esprit en voie de renaître a attiré à lui la substance mentale nécessaire, et qu'il s'enfonce dans le Monde du Désir, ne passe-t-il pas de nouveau par le Purgatoire ?
 
 RÉPONSE - Ce qui embarrasse l'auteur de cette question est qu'il n'a pas bien compris ce qui constitue le Purgatoire. Le Purgatoire se trouve dans les régions inférieures du Monde du Désir, mais ces régions ne sont pas un Purgatoire pour ceux qui n'ont rien à expurger. Les désirs inférieurs de l'homme sont formés de la matière-désir de cette région, et comme il ne peuvent plus être satisfaits, l'homme en souffre. En outre, la force de répulsion y est toute-puissance, et lorsque l'Ego passe dans l'au-delà, il a, gravées dans son corps du désir, les images des mauvaises actions qu'il a commises. Ces images sont formées de substance-désir grossière, parce qu'elles sont générées par les passions de l'homme au moment où il a commis les actions qu'elles représentent, et la force centrifuge de répulsion cherche à les éliminer de son être. C'est le fait de les arracher qui cause la souffrance qu'il ressent. Mais lorsque l'Ego traverse à nouveau cette région pour renaître, la force centripète d'attraction attire à lui une nouvelle substance-désir. Ce n'est donc pas du tout le Purgatoire; ce n'est pas non plus le Purgatoire pour les Aides Invisibles qui vont parmi les esprits emprisonnés, afin d'essayer de les aider à apprendre les leçons qui feront d'eux de meilleurs hommes et de meilleures femmes. Ce n'est que là où le mal doit être expurgé par l'esprit que celui-ci ressent cette région comme étant un lieu de purification.
 
-### QUESTION 72
+### <h3 id="question-72">Question 72</h3>
 
 Comment pouvez-vous croire à la théorie de la réincarnation qui veut que nous revenions ici dans le corps d'un animal? N'est-il pas beaucoup plus beau de croire en la doctrine Chrétienne qui enseigne que nous allons au ciel avec Dieu et les Anges?
 
@@ -1025,9 +1040,9 @@ D'ailleurs, la métempsychose est une impossibilité dans la nature, parce qu'il
 
 L'auteur de la question demande s'il n'est pas plus beau de croire en un ciel avec Dieu et les anges. Peut-être, mais ce qui nous intéresse n'est pas tant de savoir ce qui est plus agréable à notre fantaisie, que de trouver la Vérité, et bien que cette doctrine de la renaissance soit tournée en dérision et considérée comme païenne par quelques ignorants, il ne s'agit pas de savoir si elle est païenne ou non. Lorsque nous cherchons la solution d'un problème mathématique, nous ne nous inquiétons pas de savoir qui l'a trouvée le premier, mais si le problème a été bien résolu. Il en est de même de la doctrine considérée; qui l'a enseignée le premier importe peu. Ce qui nous intéresse, c'est de savoir que c'est la seule doctrine qui résolve tous les problèmes de la vie d'une manière rationnelle, tandis que nous paraît beaucoup plus ridicule la théorie d'après laquelle un homme qui ne s'est peut-être jamais soucié de musique et qui n'a aucune notion d'harmonie éprouve, aussitôt après sa mort, une passion irrésistible pour cet art et sera satisfait s'il peut souffler dans une trompette ou pincer de la harpe pendant toute l'éternité. 
 
-## PARTIE 7 - QUESTIONS CONCERNANT LES ENSEIGNEMENTS DE LA BIBLE
+<h2 id="section-4">Partie 7 - Questions Concernant les Enseignements de la Bible</h2>
 
-### QUESTION 73
+### <h3 id="question-73">Question 73</h3>
 
 Comment se fait-il que chaque secte interprète la Bible différemment, et que chaque chacune trouve une apparente justification aux idées qu'elle émet sur ce Livre?
 
@@ -1037,7 +1052,7 @@ Il y a un fait que le sceptique oublie de considérer. Il part de l'idée que si
 
 On peut dire avec assurance qu'il n'existe aucun système de pensée ayant attiré et retenu l'attention d'un grand nombre d'adhérents pendant une longue période de temps, qui n'ait contenu sa part de vérité. Que nous nous en rendions compte ou non, il y a dans chaque secte un grain de l'enseignement divin qui mène graduellement ses fervents vers le sommet de la montagne, et c'est la raison pour laquelle nous devrions pratiquer la plus grande tolérance à l'égard de toute croyance.
 
-### QUESTION 74
+### <h3 id="question-74">Question 74</h3>
 
 Qu'entend-on par le deuxième aspect du Dieu Trinitaire?
 
@@ -1045,7 +1060,7 @@ RÉPONSE - Dieu est Un, comme la lumière est une; mais de même que la lumière
 
 Ces trois principes de Dieu ont été désignés sous différents noms dans les différentes religions, et beaucoup d'encre a été utilisée pour défendre ou décrier l'idée d'une Trinité qui est cependant évidente pour quiconque regarde d'un esprit attentif autour de lui dans la nature. Dans le monde occidental, nous avons coutume de donner au Second Aspect du Dieu Trinitaire, le principe préservateur unifié, le nom de Christ; et ce nom est très approprié dans un certain sens, car le Christ est venu pour enseigner l'Amour et la Fraternité Universelle, destinée à remplacer les nations qui guerroient les unes contre les autres, et Il a Lui-même dit qu'il y avait une phase encore plus élevée soit lorsque le royaume qu'Il devait établir serait remis au Père, et que tous seraient Un en Lui.
 
-### QUESTION 75
+### <h3 id="question-75">Question 75</h3>
 
 Les Anges de Justice sont-ils des Etres individuels?
 
@@ -1053,7 +1068,7 @@ RÉPONSE - Oui, ce sont de puissantes Individualités, ambassadeurs des Grands A
 
 Les Anges de Justice sont assistés en cela par une grande armée d'auxiliaires et d'esprits de la nature, qui ne sont pas encore individualisés, mais qui travaillent inconsciemment sous la direction des ces Grands Etres, à peu près comme les animaux sont dirigés par les esprits-groupes.
 
-### QUESTION 76
+### <h3 id="question-76">Question 76</h3>
 
 Les Anges et les Archanges veillent-ils sur nous individuellement aussi bien que collectivement, et savent-ils exactement ce que sont nos vies?
 
@@ -1069,13 +1084,13 @@ Dans une future incarnation de la Terre, lorsque ces minéraux seront devenus se
 
 Pour répondre à la question d'une façon plus spécifique, nous dirons que les Archanges travaillent avec les nations et les races de la Terre, tandis que les Anges s'occupent plus particulièrement des familles et des individus au sein de la famille. L'"Ange Gardien", cependant, n'est pas exactement une entité d'une évolution supérieure, mais plutôt l'incarnation personnifiée de nos bonnes actions dans toutes nos vies passées; bien qu'invisible à nos yeux, il est toujours avec nous, nous encourageant à bien faire, nous incitant à faire mieux encore.
 
-### QUESTION 77
+### <h3 id="question-77">Question 77</h3>
 
 Les Anges ont-ils des ailes, comme on les représente?
 
 RÉPONSE - Non, ils n'en ont pas, du moins pas telles qu'en ont les oiseaux; mais il y a quelques classes d'Etres dans le Monde de l'Esprit qui possèdent des accessoires ressemblant à des ailes. Ceux-ci, toutefois, ne leur servent pas à voler, ni à se mouvoir dans l'espace; ce sont des courants de force qui jaillit vers l'extérieur et qui peuvent être projetés dans une certaine direction à la façon dont nous employons nos propres membres. Ainsi, un Archange qui pousse les armées de deux nations à se battre peut envoyer dans une certaine direction un courant de force spirituelle qui paralysera de crainte les soldats d'une armée; dans l'autre direction, il projettera un courant qui enflammera l'armée opposée, influençant ainsi la bataille d'une manière insoupçonnée des combattants.
 
-### QUESTION 78
+### <h3 id="question-78">Question 78</h3>
 
 Les Rosicruciens acceptent-ils la Bible comme la Parole de Dieu, du commencement à la fin?
 
@@ -1089,9 +1104,11 @@ De plus, il n'était pas dans l'intention des écrivains originaux de l'Ancien T
 
 En d'autres termes, il ne font pas attention à la lettre, mais tiennent compte uniquement de l'esprit. De même dans un champ de pommes de terre, il n'y a pas seulement ces végétaux, mais aussi le sol dans lequel ils sont cachés, ainsi dans la Bible, les perles de vérité occulte sont cachées dans ce qui, souvent, ne sont que de hideux habits. L'occultiste qui s'est préparé à posséder ces perles, en reçoit la clé et les voit distinctement. Aux autres, elles demeurent invisibles jusqu'à ce qu'ils aient travaillé pour obtenir cette clé. Ainsi, bien que l'histoire des pérégrinations des enfants d'Israël et de leurs relations avec certain Dieu soit partiellement vraie, il s'y trouve aussi une signification spirituelle beaucoup plus importante que l'histoire matérielle. Bien que les Evangiles contiennent les grandes lignes de la vie d'un être appelé Jésus, ils sont des formulaires d'initiation montrant les expériences par lesquelles chacun doit finalement passer, sur le chemin qui conduit à la vérité et à la vie. .
 
-Ce chemin était prévu par les diverses personnes qui ont écrit la Bible et qui étaient ainsi des prophètes et des clairvoyants, mais seulement dans la mesure où il était possible de l'être à leur époque. Une nouvelle ère exigera une Bible nouvelle, un "mot"nouveau.
+Ce chemin était prévu par les diverses personnes qui ont écrit la Bible et qui étaient ainsi des prophètes et des clairvoyants, mais seulement dans la mesure où il était possible de l'être à leur époque. 
 
-### QUESTION 79
+Une nouvelle ère exigera une Bible nouvelle, un "mot" nouveau.
+
+### <h3 id="question-79">Question 79</h3>
 
 Quel est le point de vue des Rosicruciens sur la création du monde en sept jours?
 
@@ -1113,11 +1130,9 @@ Pendant la première partie de la Période actuelle, la Terre était aussi obscu
 
 La Période ignée du Soleil trouve sa réplique dans l'Epoque Hyperboréenne, décrite aux versets 11-19, comme étant l'époque où les plantes furent générées, et où la Terre devint une planète éclairée du dehors par le Soleil et la Lune. Cette phase termine le travail accompli durant le quatrième grand jour dans le développement de notre Terre.
 
-Pendant l'Epoque Lémurienne, nous avons une récapitulation des conditions de la Période de la Lune, un noyau brûlant et une atmosphère de brouillard de feu, ainsi que la création des espèces animales inférieures, décrite dans la Bible comme ayant été l'oeuvre du cinquième jour.
+Pendant l'Epoque Lémurienne, nous avons une récapitulation des conditions de la Période de la Lune, un noyau brûlant et une atmosphère de brouillard de feu, ainsi que la création des espèces animales inférieures, décrite dans la Bible comme ayant été l'oeuvre du cinquième jour. Pendant l'Epoque Atlantéenne, les mammifères et l'homme furent formés, et ce fut l'oeuvre du sixième jour. Lorsque, dans l'Epoque Aryenne actuelle, l'homme devint un être doué de raison, les Dieux se reposèrent pour le laisser travailler à son propre salut, sous les lois jumelles de renaissance et de cause à effet.
 
-Pendant l'Epoque Atlantéenne, les mammifères et l'homme furent formés, et ce fut l'oeuvre du sixième jour. Lorsque, dans l'Epoque Aryenne actuelle, l'homme devint un être doué de raison, les Dieux se reposèrent pour le laisser travailler à son propre salut, sous les lois jumelles de renaissance et de cause à effet.
-
-### QUESTION 80
+### <h3 id="question-80">Question 80</h3>
 
 La Bible enseigne l'immortalité de l'âme. La Philosophie Rosicrucienne enseigne la même chose, ouvertement, en faisant appel à la raison. N'y a-t-il pas de preuves positives de l'immortalité?
 
@@ -1127,7 +1142,7 @@ En ce qui concerne l'esprit, la question est différente, et même là où il en
 
 On peut dire cependant, en réponse à cette question, que tout dépend du sens donné à "preuve positive", et si la personne qui demande une preuve est qualifiée pour en juger. On ne peut faire la démonstration d'un problème de trigonométrie à un enfant. Par contre, lorsque celui-ci aura grandi, et qu'on lui en aura enseigné les débuts, il sera facile de lui démontrer le problème. On ne peut prouver non plus l'existence des couleurs et de la lumière à un aveugle-né; ce sont des faits qu'il ne peut apprécier parce qu'il lui manque la faculté requise. Mais si, grâce à une opération chirurgicale, il acquiert la faculté de voir, il sera inutile de lui prouver ces faits; il en verra par lui-même la réalité. Pour des raisons analogues, personne ne peut apprécier les preuves de l'immortalité de l'esprit avant de s'être mis en état de voir l'esprit; alors il lui sera facile d'avoir la preuve positive de son immortalité, de son existence avant la naissance et de sa persistance après la mort. Avant de s'être ainsi lui-même qualifié, il devra se satisfaire des déductions raisonnables auxquelles on arrive de diverses manières.
 
-### QUESTION 81
+### <h3 id="question-81">Question 81</h3>
 
 Y a-t-il dans la Bible quelque autorité affirmant la théorie de la renaissance?
 
@@ -1137,7 +1152,7 @@ Dans Matthieu 16/14, Il demande à Ses disciples, "Qu'est-ce que le peuple dit q
 
 Il y a aussi des cas relatés dans la Bible où il est question d'une personne choisie avant sa naissance dans le but d'accomplir une certaine tâche. Un ange avait annoncé la venue de Samson, et sa mission qui était de détruire les Philistins (Juges 13/3-24). Le Seigneur dit au prophète Jérémie, "Avant que tu ne naisses, je t'ai sanctifié et je t'ai ordonné prophète entre les nations" (Jérémie 1/5). Les missions de Jean et de Jésus leur ont été assignées avant leur naissance. Une personne est choisie pour une certaine mission, à cause d'une aptitude spéciale. Cette compétence présuppose que de nombreuses mises en pratique, avant la naissance, ont été réalisées dans unevie passée. Ainsi, la doctrine de la renaissance est aussi enseignée implicitement dans les cas précités.
 
-### QUESTION 82
+### <h3 id="question-82">Question 82</h3>
 
 Selon la Bible, l'homme seul a reçu une âme. Pourquoi donc dites-vous que les animaux ont un esprit-groupe?
 
@@ -1147,21 +1162,19 @@ Pourtant, cette traduction n'est pas correcte; nephesh signifie souffle et non p
 
 Si l'auteur de la question n'accepte que le texte et la version anglaise de la Bible, comme si elle avait été écrite dans cette langue, il serait plausible de demander, "Si l'homme a reçu une âme de la façon décrite dans la Bible, où la femme a-t-elle reçu la sienne, ou bien est-elle sans âme?
 
-### QUESTION 83
+### <h3 id="question-83">Question 83</h3>
 
 Est-il vrai qu'Eve a été tirée de la côte d'Adam?
 
 RÉPONSE - Parmi les quarante-sept traducteurs de la Bible du Roi Jacques, trois seulement connaissaient l'Hébreu, et deux d'entre eux moururent avant que les Psaumes aient été traduits. De plus, dans la langue hébraïque, particulièrement dans les anciens textes, les points-voyelles sont omis; un mot peut ainsi avoir différents sens selon la manière dont on place ces points. Dans l'histoire de la côte d'Adam, le mot qui nous occupe, lorsqu'il est ponctué d'une certaine façon, se lit "tsad" qui signifie côte; ponctué d'une autre façon, il se lit "tsela", qui veut dire côté. Les enseignements occultes concernant le développement de la Terre et de l'homme affirment qu'il fut un temps où, sur un point particulier, l'homme était à l'image de Dieu ou à celle des Elohim qui l'avaient créé; il était à la fois mâle et femelle, hermaphrodite, capable de générer un autre être de lui-même. Plus tard, il devint nécessaire, pour son évolution ultérieure, de développer un cerveau; et alors qu'auparavant il extériorisait de lui-même la double force créatrice, positive et négative, la moitié de celle-ci fut désormais retenue dans le but de construire un cerveau, un larynx et un système nerveux, organes de la pensée et de la parole au moyen desquels l'homme peut mettre en action son corps physique et s'exprimer par la parole. Certains esprits retiennent la force créatrice positive masculine et n'extériorisent que la force négative féminine, alors que d'autres retiennent la force féminine ou négative et extériorise la force positive. On peut donc dire que Dieu a retiré un côté de leur être, non une côte. Cette manière de lire le mot en question, c'est-à- dire "côté" a un droit égal à celle de "côte"; de plus, elle a le mérite d'expliquer un fait inexplicable autrement.
 
-### QUESTION 84
+### <h3 id="question-84">Question 84</h3>
 
 Si Dieu a fait l'homme à Son image, selon Sa ressemblance, c'est-à-dire parfait, pourquoi les différentes époques antérieures à la Chute d'Adam et d'Eve étaient-elles nécessaires?
 
-RÉPONSE - L'auteur de cette question part d'un point de vue erroné. La Bible dit que Dieu vit son oeuvre et estima qu'elle était "bonne", mais non parfaite. Eût-elle été parfaite, il n'y aurait plus rien eu à faire et l'évolution aurait été superflue. La race humaine n'est devenue définitivement humaine que dans la dernière partie de l'Epoque Lémurienne, lorsque l'esprit commença à pénétrer dans ses corps. L'humanité de ce temps-là, Adam et Eve, était fort différente de ce qu'elle est à présent. Elle était aussi le fruit de l'évolution, car il n'y a pas de création spontanée. Ces êtres avaient progressé du règne minéral d'où ils étaient sortis, à travers les phases d'un développement identique à celui des végétaux et des animaux, et ils ne formaient pas un couple, selon les données traditionnelles, mais une humanité à la fois masculine et féminine. "Il les créa mâle et femelle", lisons-nous dans la Bible; en outre, ce n'était pas la première fois que l'homme s'était trouvé sur la Terre, ou que la Terre avait été peuplée, comme on peut s'en rendre compte dans Genèse 1/28, où il fut commandé à l'homme d'aller et de RE-peupler la Terre, montrant ainsi que la Terre avait été la demeure d'autres êtres antérieurement à la venue de ceux appelés Adam et Eve. Flavius Josèphe dit qu'Adam signifie "terre rouge", et le mot Hébreu "Admah", dont dérive Adam, signifie "terre ferme", ce qui décrit très bien la situation. Adm (tel qu'il est écrit dans le texte Hébreu) ne vint pas sur la Terre avant qu'elle ne se fût solidifiée et ne fût devenue ferme, mais il y vint avant qu'elle ne se fût refroidie au point où elle en est maintenant, donc, à cette époque, elle était réellement rouge et à l'état brûlant.
+RÉPONSE - L'auteur de cette question part d'un point de vue erroné. La Bible dit que Dieu vit son oeuvre et estima qu'elle était "bonne", mais non parfaite. Eût-elle été parfaite, il n'y aurait plus rien eu à faire et l'évolution aurait été superflue. La race humaine n'est devenue définitivement humaine que dans la dernière partie de l'Epoque Lémurienne, lorsque l'esprit commença à pénétrer dans ses corps. L'humanité de ce temps-là, Adam et Eve, était fort différente de ce qu'elle est à présent. Elle était aussi le fruit de l'évolution, car il n'y a pas de création spontanée. Ces êtres avaient progressé du règne minéral d'où ils étaient sortis, à travers les phases d'un développement identique à celui des végétaux et des animaux, et ils ne formaient pas un couple, selon les données traditionnelles, mais une humanité à la fois masculine et féminine. "Il les créa mâle et femelle", lisons-nous dans la Bible; en outre, ce n'était pas la première fois que l'homme s'était trouvé sur la Terre, ou que la Terre avait été peuplée, comme on peut s'en rendre compte dans Genèse 1/28, où il fut commandé à l'homme d'aller et de RE-peupler la Terre, montrant ainsi que la Terre avait été la demeure d'autres êtres antérieurement à la venue de ceux appelés Adam et Eve. Flavius Josèphe dit qu'Adam signifie "terre rouge", et le mot Hébreu "Admah", dont dérive Adam, signifie "terre ferme", ce qui décrit très bien la situation. Adm (tel qu'il est écrit dans le texte Hébreu) ne vint pas sur la Terre avant qu'elle ne se fût solidifiée et ne fût devenue ferme, mais il y vint avant qu'elle ne se fût refroidie au point où elle en est maintenant, donc, à cette époque, elle était réellement rouge et à l'état brûlant. Pendant les époques antérieures à l'Epoque Lémurienne, les esprits planaient au-dessus de la Terre ignée, et ils aidaient à la former, à la modeler telle qu'elle est à présent. Les esprits humains apprenaient alors des leçons qui ne les concernent plus actuellement. A cette époque, nous étions inconscients, mais le travail s'accomplissait tout aussi bien, de la même façon, par exemple, que nos organes digestifs accomplissent les opérations chimiques nécessaires à la digestion et à l'assimilation, bien que nous ignorions ces processus dans notre intellect conscient. Il est cependant évident que, de même que le travail de l'enfant à l'école maternelle et à l'école primaire constitue la base essentielle des enseignements des lycées et des universités, ainsi les premières époques ont été les fondements de nos conditions actuelles. Elles étaient aussi nécessaires que d'apprendre l'alphabet avant d'essayer de lire.
 
-Pendant les époques antérieures à l'Epoque Lémurienne, les esprits planaient au-dessus de la Terre ignée, et ils aidaient à la former, à la modeler telle qu'elle est à présent. Les esprits humains apprenaient alors des leçons qui ne les concernent plus actuellement. A cette époque, nous étions inconscients, mais le travail s'accomplissait tout aussi bien, de la même façon, par exemple, que nos organes digestifs accomplissent les opérations chimiques nécessaires à la digestion et à l'assimilation, bien que nous ignorions ces processus dans notre intellect conscient. Il est cependant évident que, de même que le travail de l'enfant à l'école maternelle et à l'école primaire constitue la base essentielle des enseignements des lycées et des universités, ainsi les premières époques ont été les fondements de nos conditions actuelles. Elles étaient aussi nécessaires que d'apprendre l'alphabet avant d'essayer de lire.
-
-### QUESTION 85
+### <h3 id="question-85">Question 85</h3>
 
 Quel a été le péché ou la chute dans l'Eden?
 
@@ -1177,7 +1190,7 @@ Or, en ces temps lointains, "leurs yeux n'étaient pas ouverts", et les êtres h
 
 Le péché est une action contraire à la loi. Tant que l'humanité se multipliait sous la direction des Anges qui comprenaient les lignes de forces cosmiques, l'enfantement se faisait sans douleur, ce qui est le cas chez les animaux sauvages qui se reproduisent seulement aux époques propices de l'année sous la direction de leur esprit-groupe: Mais lorsque l'homme, agissant d'après le conseil d'esprits placés à mi-chemin entre l'humanité et les Anges, entreprit de procréer quand bon lui semblait, sans tenir compte des lignes de forces cosmiques, ce péché de "manger de l'arbre de la connaissance" fut la cause de l'enfantement dans la douleur que l'Ange annonça à Eve. Il ne l'a pas maudite, mais lui a simplement indiqué ce qui résulterait de l'usage ignorant et inconsidéré de la fonction créatrice.
 
-### QUESTION 86
+### <h3 id="question-86">Question 86</h3>
 
 L'Arbre de Vie dont il est parlé dans la Bible (Genèse 2/9, Apocalypse 2/7 et 22/2) est-il la même chose que la pierre philosophale des alchimistes?
 
@@ -1191,7 +1204,7 @@ Dans ce pèlerinage, il vient enfin un temps où l'homme est qualifié pour poss
 
 Partout, le pur et magnifique symbole de la transparence a été donné pour désigner le pouvoir de la pureté. Dans l'Ancien Testament, on dit du Temple de Salomon qu'il fut "bâti sans bruit de marteau", que le plus bel ornement en était la Mer de Fonte. Hiram Abiff, le maître-artisan réussit, comme chef- d'oeuvre final, à fondre tous les métaux de la terre en un alliage transparent comme le verre. A la fin du Nouveau Testament (Apocalypse 21/9 à 22/5), on nous parle d'une merveilleuse cité ayant en son milieu une mer de verre. En Orient, l'initié vise à devenir une âme de diamant, pure et transparente. En Occident, la Pierre Philosophale est le symbole de l'âme purifiée, extraite des corps qui ont été transmués et spiritualisés. "L'âme qui a péché mourra" mais l'âme pure est immortalisée par l'élixir de vie, l'"Arbre de Vie", en un corps vital qui durera des milliers d'années comme véhicule de l'esprit.
 
-### QUESTION 87
+### <h3 id="question-87">Question 87</h3>
 
 Le Seigneur a eu de la considération pour Abel et son offrande sanglante, mais non pas pour Caïn et sa pure et douce offrande. Pourquoi?
 
@@ -1205,7 +1218,7 @@ De Seth descendent les rois et les prêtres qui recevaient leur sagesse toute fa
 
 La raison pour laquelle Jéhovah accepta l'offrande d'Abel était qu'il avait pris les choses comme il les avait trouvées, toutes créées; il était un fils de l'homme, et il n'aspirait pas au divin pouvoir créateur. Mais Caïn était de nature divine, il avait en lui l'instinct créateur, et cela ne plaisait pas à son Dieu.
 
-### QUESTION 88
+### <h3 id="question-88">Question 88</h3>
 
 Quelle est la signification ésotérique de l'Arche d'Alliance?
 
@@ -1223,7 +1236,7 @@ Cela constitua la "chute" dans les conditions matérielles, nécessitant la gén
 
 Nous avons mentionné, dans la première partie de notre réponse, le fait que les Chérubins sont les auteurs de nos pouvoirs vitaux, aussi doivent-ils les préserver jusqu'à ce que l'homme ait acquis les qualités requises pour la maîtrise de soi. C'est pourquoi on dit qu'ils ont été placés à l'entrée du Jardin d'Eden avec une Epée Flamboyante, et il est très significatif que sur les portes du Temple de Salomon on trouve les Chérubins, tenant dans leurs mains, non plus une Epée Flamboyante, mais une fleur ouverte. La fleur est l'organe générateur de la plante qui accomplit l'acte de génération d'une manière pure, sans passion; et lorsque l'homme aura appris à devenir pur et sans passion de manière à concevoir toute forme de façon immaculée, il pourra entrer dans le Temple de Dieu, comme l'Arche est entrée dans le Temple de Salomon, et y demeurer, comme l'indique l'enlèvement des barres, et ainsi que le prophétise l'Apocalypse où l'Esprit annonce, "Celui qui vaincra, j'en ferai un pilier dans le Temple de mon Dieu, et il n'en sortira plus."
 
-### QUESTION 89
+### <h3 id="question-89">Question 89</h3>
 
 Les diverses fêtes Chrétiennes de l'année ont-elles une signification occulte?
 
@@ -1239,7 +1252,7 @@ La fête Juive des Tabernacles avait lieu à l'époque où le Soleil croisait l'
 
 C'est ainsi que toutes les fêtes de l'année se rattachent au mouvement des astres dans l'espace.
 
-### QUESTION 90
+### <h3 id="question-90">Question 90</h3>
 
 Vous avez dit, je crois, que le Christ ne s'était incarné qu'une fois, en Jésus; ne s'était-il pas incarné antérieurement en Gautama Bouddha, et, dans un passé plus reculé encore, en Krishna?
 
@@ -1247,7 +1260,7 @@ RÉPONSE - Non. Jésus est un esprit appartenant à notre évolution humaine, et
 
 Nous pouvons dire qu'avant Sa venue, le Christ travaillait notre planète de l'extérieur, à la manière dont les esprits-groupes travaillent de l'extérieur avec les animaux, les guidant, les assistant jusqu'à ce qu'ils deviennent suffisamment individualisés pour être la demeure d'un esprit individuel.La terre n'avait pas d'esprit intérieur avant la venue du Christ, mais au temps où le sacrifice fut consommé sur le Golgotha et que l'Esprit du Christ fut libéré du corps de Jésus, Il pénétra dans la Terre dont Il est maintenant l'Esprit Intérieur, "gémissant et souffrant attendant le jour de la libération", commme le dit Paul, (Romains 8/22), car, contrairement à l'opinion admise, le sacrifice sur le Golgotha ne s'est pas terminé avec la mort du corps de Jésus; en fait, on peut dire que cet événement n'en était que le début; le sacrifice continuera jusqu'au moment où nous aurons développé l'altruisme et l'amour qui libéreront l'Esprit de la Terre des conditions limitatives de l'existence matérielle, car alors il ne sera plus nécessaire de nous guider.
 
-### QUESTION 91
+### <h3 id="question-91">Question 91</h3>
 
 On nous dit que "Dieu a tant aimé le monde qu'Il a donné Son Fils unique, afin que quiconque croit en Lui ne périsse pas, mais qu'il ait la vie éternelle". Comment concilier cette idée avec les paroles du Christ, "Je ne suis pas venu apporter la paix, mais le glaive"?
 
@@ -1271,7 +1284,7 @@ Nous devons aller au-delà du patriotisme, et apprendre à dire, comme Thomas Pa
 
 Dans la nuit sainte de Noël où naquit l'Enfant Jésus, les Anges ont chanté "Paix sur la terre aux hommes de bonne volonté." Plus tard, lorsque l'enfant eut grandi, Il dit "Je ne suis pas venu apporter la paix, mais le glaive"; or la religion Chrétienne a été la plus sanglante de toutes les religions de l'humanité. Elle a apporté douleurs et désolation avec elle et où qu'elle ait été; mais après ces luttes viendra le jour où l'idéal de paix que proclamait le chant des Anges et les paroles du Christ, "Aimez-vous les uns les autres" deviendront une réalité vécue. Quand les épées auront fait leur travail, on en fera des socs de charrue, et il n'y aura plus de guerres, car il n'y aura plus de nations.
 
-### QUESTION 92
+### <h3 id="question-92">Question 92</h3>
 
 Qu'entend-on par salut et damnation éternels?
 
@@ -1285,7 +1298,7 @@ On peut considérer le monde comme une école préparatoire pour les esprits qui
 
 Ce qui précède n'est pas une interprétation déformée ou erronée de la signification du mot "aïônian". Ce mot a été employé dans d'autres passages de la Bible qui appuient fortement notre thèse. Par exemple, dans la Lettre de Paul à Philémon, lorsque Paul renvoie à ce dernier l'esclave Onésime, nous relevons ces mots, "Peut-être Onésime n'a-t-il été séparé de toi pour un temps que pour qu'il te soit rendu pour toujours". L'expression "pour toujours" correspond au même mot "aïônian", traduit par "éternel" dans les passages où il est question de damnation et de salut; dans le passage qui nous occupe, on se rendra évidemment compte qu'il ne peut être question que d'une partie de la vie, puisque ni Paul ni Philémon, en tant qu'hommes, ne pouvaient vivre "éternellement".
 
-### QUESTION 93
+### <h3 id="question-93">Question 93</h3>
 
 Quel est l'enseignement des Rosicruciens concernant l'Immaculée Conception?
 
@@ -1303,7 +1316,7 @@ Qu'un enfant soit conçu dans le péché ou de façon immaculée dépend donc de
 
 Une telle naissance n'est jamais fortuite. Sa venue est annoncée et attendue avec une anticipation de bonheur et de joie, et il y a actuellement beaucoup de cas qui se rapprochent de la Conception Immaculée, où les deux parents, pures et chastes, accomplissent l'acte générateur dans un esprit de pur amour; la mère est ensuite laissée en paix pendant la période de gestation et l'enfant naît alors d'une manière presque aussi pure que celle qui est figurée dans les conceptions immaculées symboliques. Avec le temps, lorsque l'humanité aura développé des qualités de plus en plus altruistes, la passion sera remplacée par l'amour pur, et tous les humains seront conçus d'une façon immaculée.
 
-### QUESTION 94
+### <h3 id="question-94">Question 94</h3>
 
 L'Etoile de Bethléem n'était-elle pas une comète?
 
@@ -1317,7 +1330,7 @@ Pendant l'été, lorsque la Terre se met à l'oeuvre pour produire le pain de vi
 
 Dans cette nuit particulière de l'année les vibrations spirituelles sont les plus fortes.De toute l'année, c'est la Nuit Sainte par excellence. Celle où le néophyte peut le plus facilement entrer en contact conscient avec les vibrations spirituelles. C'est pourquoi les néophytes entraient jadis dans les temples en cette Nuit Sainte. Ils étaient mis en état de transe sous la direction de Mages qui leur apprenaient à quitter leur corps, consciemment, par un acte de volonté. La Terre devenait alors transparente à leurs yeux et ils voyaient derrière elle le Soleil de minuit, l'astre flamboyant. Non pas le Soleil physique, mais le Soleil spirituel qui est la véritable étoile du Christ, car le Christ cosmique est l'Initié le plus sublime parmi les radieux Archanges, esprits du Soleil.
 
-### QUESTION 95
+### <h3 id="question-95">Question 95</h3>
 
 Quels étaient les dons des Mages?
 
@@ -1335,7 +1348,7 @@ Aucun esprit ne peut travailler dans un monde s'il n'a un véhicule composé de 
 
 Ainsi, nous voyons que les dons des Mages étaient l'esprit, l'âme et le corps, consacrés au service de l'humanité. Se dévouer pour elle, c'est imiter le Christ, c'est marcher sur Ses traces.
 
-### QUESTION 96
+### <h3 id="question-96">Question 96</h3>
 
 Jésus n'était-Il pas Juif? S'il en est ainsi, que voulait-Il dire par ces mots, "Avant qu'Abraham fût, je suis"? Car, quand bien même Il se serait réincarné, Abraham est le père de la race Juive.
 
@@ -1349,7 +1362,7 @@ Dans un autre passage de la Bible, Il dit, "A moins qu'un homme ne quitte son p�
 
 Les guides de l'humanité ont cherché différents moyens qui inciteraient les Juifs à se mélanger aux autres, afin de pouvoir progresser, mais toujours en vain, et le Christ leur a été envoyé pour la même raison que Booker T. Washington l'a été pour aider les Noirs. Quoique plus avancé que ses frères de race, il s'est incarné dans un corps de Noir afin de pouvoir aider ses frères Noirs d'une manière plus efficace. S'il s'était né dans un corps Blanc, sa mission aurait eu un caractère paternaliste. C'est pour la même raison que le Christ a choisi un corps Juif. On pouvait espérer que la nation juive recevrait Ses enseignements, puisque ceux-ci venaient d'un homme de leur race. Mais, loin d'honorer leurs traditions et de considérer Abraham avec une attitude d'esprit révérencieuse, Il a rabaissé leurs idéaux, Il parla de nouveaux Cieux et d'une nouvelle Terre, Il affirma la supériorité de l'individu sur la race, et c'est pourquoi ils n'en ont pas voulu et ont " choisi Barabbas".
 
-### QUESTION 97
+### <h3 id="question-97">Question 97</h3>
 
 Jésus fut baptisé à trente ans, recevant l'Esprit du Christ. Voulez-vous bien nous expliquer ce baptême?
 
@@ -1365,15 +1378,17 @@ L'humanité de ce temps-là n'était pas aussi avancée mentalement qu'elle l'es
 
 Lorsqu'un homme a suffisamment progressé pour apprécier les bénédictions de la fraternité, quand il s'efforce d'abolir l'égotisme et de cultiver l'altruisme, il peut passer par le rite du baptême. Il entre dans l'eau pour symboliser son retour aux conditions idéales de la fraternité qui existaient lorsque l'humanité vivait, pour ainsi dire, dans cet élément. C'est pourquoi nous voyons Jésus, héraut de la Fraternité Universelle, entrer, au début de son ministère, dans les eaux du Jourdain et y recevoir le baptême. Lorsqu'il sortit de l'eau, l'Esprit Universel se posa sur Lui sous forme d'une colombe et, à partir de ce moment, il ne fut plus simplement Jésus, mais Jésus-Christ, devenu Sauveur, en puissance, du monde, pénétré de l'Esprit Universel qui enlèvera finalement tous les maux dus à l'égoïsme et redonnera au genre humain les bénédictions de la fraternité, ce qui se réalisera lorsque l'Esprit Universel sera devenu immanent dans toute l'humanité.
 
-### QUESTION 98
+### <h3 id="question-98">Question 98</h3>
 
 Dans votre enseignement vous déclarez que nous restons durant un certain temps, environ un tiers de l'existence terrestre, au Purgatoire, avant d'entrer dans le Premier Ciel, afin d'y expier nos péchés. Comment conciliez- vous cela avec les paroles du Christ au larron mourant, "Aujourd'hui, tu seras avec moi au Paradis"?
 
-RÉPONSE - Le Nouveau Testament a été écrit en Grec, langue dans laquelle il n'était fait usage d'aucun signe de ponctuation. Ces signes ont été ajoutés dans la Bible par les traducteurs. Or, il arrive souvent que la ponctuation change radicalement le sens d'une phrase. Dans le cas qui nous occupe, si les mots du Christ étaient ainsi ponctués, "En vérité, je te le dis aujourd'hui, tu seras avec moi au Paradis", ils signifieraient que le voleur serait avec Lui au Paradis dans un avenir indéterminé. Mais la virgule ayant été placée devant le mot aujourd'hui, ces mots donnent le sens généralement adopté.
+RÉPONSE - Le Nouveau Testament a été écrit en Grec, langue dans laquelle il n'était fait usage d'aucun signe de ponctuation. Ces signes ont été ajoutés dans la Bible par les traducteurs. Or, il arrive souvent que la ponctuation change radicalement le sens d'une phrase. 
+
+In a prayer meeting some one handed in a request which the pastor read thus: "A sailor going to sea, his mother-in-law desires the prayers of the congregation for his safe return to wife and child." The request was not punctuated at all, but would imply that the young man's mother-in-law was very solicitous to have him return safely to his wife and child and therefore desired the prayers of the congregation. Had the pastor read it without the comma, it would have implied that the sailor, going to see his mother-in-law, desired the prayers of the congregation for his safe return to wife and child, and one would naturally think that the lady in question must be a Tartar when it was necessary for the young man to ask the prayers of the congregation before facing her. Dans le cas qui nous occupe, si les mots du Christ étaient ainsi ponctués, "En vérité, je te le dis aujourd'hui, tu seras avec moi au Paradis", ils signifieraient que le voleur serait avec Lui au Paradis dans un avenir indéterminé. Mais la virgule ayant été placée devant le mot aujourd'hui, ces mots donnent le sens généralement adopté.
 
 Que ce sens soit absolument erroné est prouvé par la remarque que le Christ a faite à la femme, après Sa résurrection, "Ne me touche pas, car je ne suis pas encore retourné vers mon Père." S'Il avait promis au larron qu'il serait avec Lui au Paradis le jour même de la crucifixion et que, trois jours plus tard, Il ait déclaré ne pas y être encore allé, Il se serait contredit, ce qui, bien entendu, est impossible. La virgule, placée à l'endroit proposé, concilie les deux passages de la Bible, d'autant plus que Pierre nous dit que, dans l'intervalle, Il est allé au Purgatoire pour y assister des esprits (I Pierre 3:19).
 
-### QUESTION 99
+### <h3 id="question-99">Question 99</h3>
 
 Quelle est la signification ésotérique des deux larrons et de la croix?
 
@@ -1381,7 +1396,7 @@ RÉPONSE - Contrairement à l'opinion généralement admise, les quatre Evangile
 
 En lisant dans la Mémoire de la Nature, nous trouvons qu'au moment de la crucifixion, il n'y avait pas seulement deux autres hommes crucifiés. En ce temps-là, la peine de mort était infligée pour la moindre offense, et il y avait toujours un grand nombre d'hommes condamnés à cette mort barbare. Ainsi, ceux qui désiraient voiler la signification cachée des Evangiles n'étaient pas embarrassés pour trouver quelques détails propres à compléter l'histoire de la crucifixion et à en obscurcir les points vraiment vitaux. Cette partie du récit concernant les larrons est un pur incident et n'a aucune signification ésotérique.
 
-### QUESTION 100
+### <h3 id="question-100">Question 100</h3>
 
 Quelle est la signification de la croix? Est-elle simplement un instrument de torture, ainsi que l'enseigne la religion traditionnelle?
 
@@ -1397,7 +1412,7 @@ Entre la plante et l'homme se tient l'animal, à la colonne vertébrale horizont
 
 En ésotérisme, la croix n'est jamais considérée comme un instrument de torture, et ce n'est qu'à partir du sixième siècle que l'on a représenté le Christ crucifié. Jusque-là, le symbole du Christ était une croix avec un agneau couché à ses pieds, ce qui exprimait l'idée qu'à la naissance du Christ, le Soleil, à l'équinoxe de printemps, croisait l'équateur dans la constellation du Bélier. Les symboles de toutes les religions ont toujours été établis de cette manière. Au temps où le Soleil, par précession, passait l'équinoxe de printemps dans la constellation du Taureau, une religion fut instituée en Egypte, dans laquelle un culte était rendu au boeuf Apis, à la manière dont nous rendons un culte à l'Agneau de Dieu. A une époque beaucoup plus reculée, le Dieu Nordique Thor conduisait ses chèvres jumelles à travers les cieux. C'était l'époque où l'équinoxe du printemps était dans la constellation des Gémeaux. Au moment de la naissance de Jésus, l'équinoxe du printemps occupait le septième degré environ du Bélier; c'est pourquoi notre Sauveur a été appelé l'Agneau de Dieu. Dans les premiers siècles de notre ère,il y eut une dispute concernant la justesse d'avoir un un agneau comme symbole de notre Sauveur. Quelques-uns alléguaient que l'équinoxe de printemps, à Sa naissance, était en réalité dans le signe des Poissons, et que le symbole de notre Sauveur aurait dû être un poisson. C'est en mémoire de cette discussion que la mitre des évêques a la forme d'une tête de poisson.
 
-### QUESTION 101
+### <h3 id="question-101">Question 101</h3>
 
 La mission du Christ n'aurait-elle pas pu être accomplie sans le mode violent de la crucifixion?
 
@@ -1407,51 +1422,94 @@ C'est ainsi que les guerres d'à présent, bien que regrettables humainement par
 
 En réponse à la question qui nous occupe, nous pouvons dire que, dans le cas du Christ, une mort violente était nécessaire parce qu'elle a mis le Christ à même de se retirer du corps de Jésus sans retenir aucune des impuretés attachées à un véhicule qui n'était qu'humain.
 
-### QUESTION 102
+### <h3 id="question-102">Question 102</h3>
 
 Quand le Christ doit-Il revenir sur la terre, selon l'enseignement Rosicrucien?
 
 RÉPONSE - La Bible dit avec raison que "nul ne connaît le jour ni l'heure", et ceux qui ont essayé de fixer une date ou une certaine année au Second Avènement se sont complètement mépris sur l'objet de la mission du Christ. Son enseignement a été donné à l'humanité afin d'abolir la loi du talion "oeil pour oeil, dent pour dent", et de remplacer la loi de la crainte (de Dieu) par la loi d'amour. "La loi et les prophètes ont prévalu jusqu'à la venue du Christ" est-il dit, mais nous savons que même aujourd'hui la loi demeure, et qu'elle est nécessaire. Il est donc évident qu'elle n'a pas été abolie à la venue du Christ sur terre. C'est la venue du Christ "intérieur", dans la nature intérieure de l'homme, qui doit abolir la loi. Paul parle de cet événement comme du "Christ formé en vous (II Corinthiens 13:5; Galates 4:19) et jusqu'à ce que le Christ ait été formé en nous, nous ne sommes pas prêts pour le Second Avènement. Comme nous le dit si bien Angelus Silesius:
 
-    "Le Christ serait-Il né mille fois à Bethléem, S'Il ne naît en toi ton âme est solitaire. La croix du Golgotha tu contemples en vain, Si toi-même en ton coeur tu ne l'élèves point."
+```
+"Le Christ serait-Il né mille fois à Bethléem, 
+S'Il ne naît en toi ton âme est solitaire. 
+La croix du Golgotha tu contemples en vain, 
+Si toi-même en ton coeur tu ne l'élèves point."
+```
 
 Le Second Avènement du Christ dépend du temps où un nombre suffisant de personnes seront devenues semblables au Christ, en harmonie avec le principe Christique, de sorte que, comme deux diapasons de même hauteur de ton résonnent à l'unisson lorsque l'un d'eux est mis en vibration, elles soient capables de répondre aux vibrations Christiques mises en jeu par le retour du Sauveur. C'est pourquoi la venue de cet événement ne peut être calculée, mais chaque fois que nous nous efforçons d'imiter le Christ et de mettre en pratique Ses enseignements, nous hâtons Sa venue.
 
-### QUESTION 103
+### <h3 id="question-103">Question 103</h3>
 
 Qu'entend-on par, "Le Christ fut fait à jamais grand-prêtre de l'ordre de Melchisedech"?
 
-RÉPONSE - On nous dit que Melchisedech était roi de Salem et aussi son grand- prêtre; que son sacerdoce était bien au-dessus de celui d'Aaron, car il était inamovible, tandis que celui d'Aaron et des Lévites était sujet à de fréquents changements. Pendant les siècles dont l'histoire nous fournit les annales, il y a toujours eu une division entre le pouvoir temporel et le pouvoir ecclésiastique. Moïse était le chef temporel du peuple Juif, tandis qu'Aaron en était le prêtre et veillait à son bien-être spirituel. Et cette division de l'Eglise et de l'Etat est restée manifeste, causant de temps à autre des luttes et des effusions de sang, car leurs intérêts ont toujours paru diamétralement opposés. Mais au temps de Melchisedech (Genèse 14:18; Psaume 110:4; Hébreux, chapitres 5 à 7), roi de Salem , mot qui signifie paix, cette division n'existait pas, le même homme remplissant les deux offices. L'histoire de Melchisedech, un Etre sans généalogie terrestre, se rapporte, naturellement, aux premiers temps de l'Atlantide, alors que l'humanité n'avait pas encore été divisée en nations guerrières, mais formait une grande fraternité pacifique dont les chefs étaient des Etres Divins, à la fois rois et prêtres. La séparation subséquente de l'Eglise et de l'Etat a été l'une des plus abondantes sources de haines et de guerres qui aient ensanglanté l'humanité, chacune de ces deux puissances luttant pour la suprématie, ce qui ne devrait pourtant pas être le cas, car quiconque n'est pas aussi spirituel qu'un prêtre se doit de l'être, n'est pas qualifié pour remplir l'office de roi, et celui qui n'est pas aussi sage et aussi juste qu'un roi se doit de l'être, n'est pas qualifié pour guider spirituellement l'humanité comme le font les prêtres. Lorsque ces qualités se rencontreront à nouveau chez un seul chef, le règne de la paix et de la fraternité universelles deviendra une réalité. Le Christ a été annoncé comme un tel chef, capable d'unir l'Eglise et l'Etat en qualité de roi et de prêtre selon l'Ordre de Melchisedech. Son Second Avènement inaugurera le Millenium, âge de paix et de joie où la symbolique Nouvelle Jérusalem, cité de paix (car Jer-u-Salem veut dire "Ici sera la paix") régnera sur les nations de la terre, unies dans une fraternité universelle. Il y aura alors "paix sur la terre et bonne volonté parmi les hommes."
+RÉPONSE - On nous dit que Melchisedech était roi de Salem et aussi son grand- prêtre; que son sacerdoce était bien au-dessus de celui d'Aaron, car il était inamovible, tandis que celui d'Aaron et des Lévites était sujet à de fréquents changements. 
 
-### QUESTION 104
+Pendant les siècles dont l'histoire nous fournit les annales, il y a toujours eu une division entre le pouvoir temporel et le pouvoir ecclésiastique. Moïse était le chef temporel du peuple Juif, tandis qu'Aaron en était le prêtre et veillait à son bien-être spirituel. Et cette division de l'Eglise et de l'Etat est restée manifeste, causant de temps à autre des luttes et des effusions de sang, car leurs intérêts ont toujours paru diamétralement opposés. Mais au temps de Melchisedech (Genèse 14:18; Psaume 110:4; Hébreux, chapitres 5 à 7), roi de Salem , mot qui signifie paix, cette division n'existait pas, le même homme remplissant les deux offices. L'histoire de Melchisedech, un Etre sans généalogie terrestre, se rapporte, naturellement, aux premiers temps de l'Atlantide, alors que l'humanité n'avait pas encore été divisée en nations guerrières, mais formait une grande fraternité pacifique dont les chefs étaient des Etres Divins, à la fois rois et prêtres. 
+
+La séparation subséquente de l'Eglise et de l'Etat a été l'une des plus abondantes sources de haines et de guerres qui aient ensanglanté l'humanité, chacune de ces deux puissances luttant pour la suprématie, ce qui ne devrait pourtant pas être le cas, car quiconque n'est pas aussi spirituel qu'un prêtre se doit de l'être, n'est pas qualifié pour remplir l'office de roi, et celui qui n'est pas aussi sage et aussi juste qu'un roi se doit de l'être, n'est pas qualifié pour guider spirituellement l'humanité comme le font les prêtres. Lorsque ces qualités se rencontreront à nouveau chez un seul chef, le règne de la paix et de la fraternité universelles deviendra une réalité. Le Christ a été annoncé comme un tel chef, capable d'unir l'Eglise et l'Etat en qualité de roi et de prêtre selon l'Ordre de Melchisedech. Son Second Avènement inaugurera le Millenium, âge de paix et de joie où la symbolique Nouvelle Jérusalem, cité de paix (car Jer-u-Salem veut dire "Ici sera la paix") régnera sur les nations de la terre, unies dans une fraternité universelle. Il y aura alors "paix sur la terre et bonne volonté parmi les hommes."
+
+### <h3 id="question-104">Question 104</h3>
 
 Que veut dire le Christ par ces paroles, "Tous ceux qui sont venus avant Moi étaient des voleurs et des brigands"?
 
-RÉPONSE - L'Apocalypse nous parle de deux grandes cités étrangement semblables, et cependant diamétralement opposées. L'une est Babylone, lieu de confusion où les hommes cessent d'être frères et où ils sont séparés les uns des autres. Elle est située sur sept collines, et est gouvernée par un roi, Lucifer, "étoile du jour", le donneur de lumière. On pleure sa chute au quatorzième chapitre d'Esaïe, et plus loin, on parle encore de la chute de cette grande cité, devenue une abomination, elle est appelée une prostituée, ayant semé la guerre, le malheur et la désolation parmi les peuples de la terre. Puis, comme suprême antithèse, on nous parle d'une autre cité, la Nouvelle Jérusalem, honorée comme une fiancée. Dans cette cité, il n'y a point de rivière courante, mais une mer de verre. Elle aussi est bâtie sur sept collines, est gouvernée par un autre donneur de lumière, appelé "la lumière du monde", et c'est une cité de paix dont les portes ne sont jamais fermées, bien qu'elle renferme le précieux Arbre de Vie. Cette cité n'est pas de ce monde, mais c'est une cité descendue du ciel. Pour comprendre ce symbole, il est nécessaire de remonter à l'époque lointaine où l'homme en devenir n'avait pas encore atteint le développement d'aujourd'hui. Lors de la première apparition de l'homme sur cette Terre, son corps dense fut construit à l'Epoque Polaire, et fut vitalisé par l'interpénétration du corps vital durant l'Epoque Hyperboréenne. A ce moment, l'homme était comme les Anges, mâle et femelle, une unité créatrice complète, capable de créer de lui-même en projetant toute sa force créatrice - qui est Amour.
+RÉPONSE - L'Apocalypse nous parle de deux grandes cités étrangement semblables, et cependant diamétralement opposées. L'une est Babylone, lieu de confusion où les hommes cessent d'être frères et où ils sont séparés les uns des autres. Elle est située sur sept collines, et est gouvernée par un roi, Lucifer, "étoile du jour", le donneur de lumière. On pleure sa chute au quatorzième chapitre d'Esaïe, et plus loin, on parle encore de la chute de cette grande cité, devenue une abomination, elle est appelée une prostituée, ayant semé la guerre, le malheur et la désolation parmi les peuples de la terre. 
 
-Plus tard, il devint nécessaire que l'homme forme un cerveau; afin d'atteindre ce but, la moitié de sa force créatrice a été tournée vers l'intérieur pour construire les organes nécessaires. Depuis ce temps, l'homme doit chercher la coopération d'un être ayant l'autre moitié de la force sexuelle disponible pour la procréation. Maintenant, il aime d'une façon égoïste dans le seul but d'obtenir cette coopération; l'autre moitié de sa force créatrice, avec laquelle il s'est construit un cerveau et un larynx, est utilisée tout aussi égoïstement pour penser, car il désire acquérir des connaissances. Antérieurement, l'homme avait projeté toute sa force créatrice sans réserve et en tout désintéressement. Depuis la division de la force sexuelle, l'homme est finalement devenu égoïste, et c'est pourquoi la loi d'attraction en a fait la proie d'êtres de même nature. Les Anges étaient l'humanité de la Période de la Lune et ils ont depuis lors atteint leur présent degré de développement supérieur; mais, dans la masse, il y a toujours des retardataires. Tel a été le cas chez les Anges, parmi lesquels une certaine classe, en-dessous d'eux mais au-dessus de notre humanité, est restée en arrière. Ces êtres se trouvaient dans une triste situation, car ils étaient incapables de suivre le développement actuel des Anges, et ils ne pouvaient pas non plus descendre aussi bas dans la matière que les hommes. Il leur était impossible de se dispenser d'un cerveau, comme les Anges, mais ils étaient incapables d'en construire un; aussi, lorsque l'humanité développa un cerveau et une moelle épinière, ils virent en la femme une occasion d'évolution, car elle exprime le pôle négatif de la force créatrice, l'imagination, faculté qui la rend capable de construire un corps physique dans son sein. Afin de gagner l'accès de sa conscience, ces Intelligences tirèrent parti de la perplexité de la femme au sujet de l'exercice de sa faculté d'imagination. A cette époque, les yeux des hommes n'étaient pas encore ouverts; êtres essentiellement spirituels, ils n'étaient pas encore pleinement conscients de la possession d'un corps physique. La femme fut la première à observer confusément qu'elle- même, et les autres, possédait un tel instrument, qu'à certains moments quelques-uns de ses amis qu'elle avait perçus auparavant avec ce véhicule l'avaient perdu, et elle en était troublée. Elle ne pouvait obtenir aucune information de la part des Anges, mais l'intelligence qui lui apparut en elle- même dans la moelle épinière serpentine, l'éclaira sur ce sujet, "et le serpent dit à la femme: Dieu vous a-t-il dit, "Vous ne mangerez d'aucun Arbre du Jardin?", à quoi elle répondit, "On nous a défendu de manger de l'Arbre de la Connaissance du Bien et du Mal sous peine de mort." Mais le serpent répartit, "Vous ne mourrez certainement point, car Dieu sait que le jour où vous en mangerez, vos yeux seront ouverts, et vous serez comme les dieux, connaissant le bien et le mal." La femme s'assura la coopération de l'homme, suivant les instructions de Lucifer, donneur de lumière, et dès lors leurs yeux furent ouverts, et ils connurent le bien et le mal. Jusque-là, l'homme n'avait pas eu conscience de son corps; celui-ci l'avait quitté de temps à autre, comme la feuille tombe de l'arbre, sans l'incommoder ou le troubler, car sa conscience était alors centrée sur le Monde Spirituel. Mais les esprits Lucifer désiraient exercer leur pouvoir sur lui et avoir prise sur son cerveau et sa moelle épinière. Ils l'incitèrent donc à rompre le joug des Anges et à prendre en mains la fonction créatrice. Par l'abus répété et ignorant de cette faculté, sa conscience se retira des Mondes Spirituels et se concentra dans le Monde Physique. Alors vint la mort sous ses terribles aspects actuels, car l'homme considère maintenant la vie terrestre comme la seule vie réelle. Lorsqu'elle se termine, il entre dans une existence dont il ne sait rien, et qu'en conséquence il redoute. Ainsi, pour avoir écouté Lucifer, le donneur de fausse lumière, l'homme est devenu sujet à l'affliction, à la douleur et à la mort. On lui a volé son innocence et sa paix. Le Christ est venu dans le monde pour sauver l'humanité du péché, de l'affliction et de la mort. C'est pourquoi Il s'est appelé la vraie lumière, et Il a déclaré que ceux qui étaient venus avant Lui étaient des voleurs et des brigands, car ils avaient dérobé à l'homme sa vue spirituelle, tout en l'éclairant au point de vue physique.
+Puis, comme suprême antithèse, on nous parle d'une autre cité, la Nouvelle Jérusalem, honorée comme une fiancée. Dans cette cité, il n'y a point de rivière courante, mais une mer de verre. Elle aussi est bâtie sur sept collines, est gouvernée par un autre donneur de lumière, appelé "la lumière du monde", et c'est une cité de paix dont les portes ne sont jamais fermées, bien qu'elle renferme le précieux Arbre de Vie. Cette cité n'est pas de ce monde, mais c'est une cité descendue du ciel. 
 
-### QUESTION 105
+Pour comprendre ce symbole, il est nécessaire de remonter à l'époque lointaine où l'homme en devenir n'avait pas encore atteint le développement d'aujourd'hui. Lors de la première apparition de l'homme sur cette Terre, son corps dense fut construit à l'Epoque Polaire, et fut vitalisé par l'interpénétration du corps vital durant l'Epoque Hyperboréenne. A ce moment, l'homme était comme les Anges, mâle et femelle, une unité créatrice complète, capable de créer de lui-même en projetant toute sa force créatrice - qui est Amour.
+
+Plus tard, il devint nécessaire que l'homme forme un cerveau; afin d'atteindre ce but, la moitié de sa force créatrice a été tournée vers l'intérieur pour construire les organes nécessaires. Depuis ce temps, l'homme doit chercher la coopération d'un être ayant l'autre moitié de la force sexuelle disponible pour la procréation. Maintenant, il aime d'une façon égoïste dans le seul but d'obtenir cette coopération; l'autre moitié de sa force créatrice, avec laquelle il s'est construit un cerveau et un larynx, est utilisée tout aussi égoïstement pour penser, car il désire acquérir des connaissances. 
+
+Antérieurement, l'homme avait projeté toute sa force créatrice sans réserve et en tout désintéressement. Depuis la division de la force sexuelle, l'homme est finalement devenu égoïste, et c'est pourquoi la loi d'attraction en a fait la proie d'êtres de même nature. 
+
+Les Anges étaient l'humanité de la Période de la Lune et ils ont depuis lors atteint leur présent degré de développement supérieur; mais, dans la masse, il y a toujours des retardataires. Tel a été le cas chez les Anges, parmi lesquels une certaine classe, en-dessous d'eux mais au-dessus de notre humanité, est restée en arrière. Ces êtres se trouvaient dans une triste situation, car ils étaient incapables de suivre le développement actuel des Anges, et ils ne pouvaient pas non plus descendre aussi bas dans la matière que les hommes. Il leur était impossible de se dispenser d'un cerveau, comme les Anges, mais ils étaient incapables d'en construire un; aussi, lorsque l'humanité développa un cerveau et une moelle épinière, ils virent en la femme une occasion d'évolution, car elle exprime le pôle négatif de la force créatrice, l'imagination, faculté qui la rend capable de construire un corps physique dans son sein. Afin de gagner l'accès de sa conscience, ces Intelligences tirèrent parti de la perplexité de la femme au sujet de l'exercice de sa faculté d'imagination. 
+
+A cette époque, les yeux des hommes n'étaient pas encore ouverts; êtres essentiellement spirituels, ils n'étaient pas encore pleinement conscients de la possession d'un corps physique. La femme fut la première à observer confusément qu'elle- même, et les autres, possédait un tel instrument, qu'à certains moments quelques-uns de ses amis qu'elle avait perçus auparavant avec ce véhicule l'avaient perdu, et elle en était troublée. Elle ne pouvait obtenir aucune information de la part des Anges, mais l'intelligence qui lui apparut en elle- même dans la moelle épinière serpentine, l'éclaira sur ce sujet, "et le serpent dit à la femme: Dieu vous a-t-il dit, "Vous ne mangerez d'aucun Arbre du Jardin?", à quoi elle répondit, "On nous a défendu de manger de l'Arbre de la Connaissance du Bien et du Mal sous peine de mort." Mais le serpent répartit, "Vous ne mourrez certainement point, car Dieu sait que le jour où vous en mangerez, vos yeux seront ouverts, et vous serez comme les dieux, connaissant le bien et le mal." La femme s'assura la coopération de l'homme, suivant les instructions de Lucifer, donneur de lumière, et dès lors leurs yeux furent ouverts, et ils connurent le bien et le mal. Jusque-là, l'homme n'avait pas eu conscience de son corps; celui-ci l'avait quitté de temps à autre, comme la feuille tombe de l'arbre, sans l'incommoder ou le troubler, car sa conscience était alors centrée sur le Monde Spirituel. Mais les esprits Lucifer désiraient exercer leur pouvoir sur lui et avoir prise sur son cerveau et sa moelle épinière. Ils l'incitèrent donc à rompre le joug des Anges et à prendre en mains la fonction créatrice. Par l'abus répété et ignorant de cette faculté, sa conscience se retira des Mondes Spirituels et se concentra dans le Monde Physique. Alors vint la mort sous ses terribles aspects actuels, car l'homme considère maintenant la vie terrestre comme la seule vie réelle. Lorsqu'elle se termine, il entre dans une existence dont il ne sait rien, et qu'en conséquence il redoute. 
+
+Ainsi, pour avoir écouté Lucifer, le donneur de fausse lumière, l'homme est devenu sujet à l'affliction, à la douleur et à la mort. On lui a volé son innocence et sa paix. Le Christ est venu dans le monde pour sauver l'humanité du péché, de l'affliction et de la mort. C'est pourquoi Il s'est appelé la vraie lumière, et Il a déclaré que ceux qui étaient venus avant Lui étaient des voleurs et des brigands, car ils avaient dérobé à l'homme sa vue spirituelle, tout en l'éclairant au point de vue physique.
+
+### <h3 id="question-105">Question 105</h3>
 
 Que voulait dire le Christ par ces paroles, "Quiconque ne recevra pas le Royaume de Dieu comme un petit enfant n'y entrera point." (Marc 10:15)?
 
-RÉPONSE - Dans le monde qui nous entoure, nous voyons le royaume des hommes, où chacun s'efforce de maintenir sa propre situation, ne comptant que sur ses idées et ses paroles pour la conserver à l'encontre des nouveaux venus. Lorsqu'on lui présente une idée nouvelle, son attitude mentale est généralement teintée de scepticisme. Il craint d'être abusé. L'attitude du petit enfant, concernant ce qu'il voit ou ce qu'il entend, est exactement le contraire de celle de ses aînés. Il n'a pas d'opinion exagérée sur ses hautes connaissances, mais il est franchement ignorant et, par conséquent, éminemment réceptif. C'est à cela que se référait le Sauveur dans le passage cité. Quand nous entrons dans la vie supérieure, nous devons d'abord oublier tout ce que nous savons du monde, commencer à regarder les choses d'une manière tout à fait différente, et lorsqu'un nouvel enseignement nous est offert, nous devons nous efforcer de le recevoir sans tenir compte d'autres faits observés antérieurement. Ceci, afin de rester parfaitement impartiaux. Bien sûr, on ne nous demande pas de croire d'emblée que "le noir est blanc", mais si quelqu'un affirme qu'un objet que nous avions considéré jusqu'à présent comme noir, est vraiment blanc, notre intellect devrait être assez ouvert pour ne pas nous inciter à porter aussitôt le jugement suivant, "je suis sûr que cet objet est noir!". Nous devrions être disposés à examiner la chose, afin de voir s'il n'existe pas un point de vue d'où l'objet que nous pensons être noir, pourrait apparaître blanc. Lorsqu'après un sérieux examen, nous constatons qu'il est véritablement noir, de quelque point de vue qu'on l'examine, il nous est loisible alors de revenir à notre première opinion. Rien n'est plus remarquable chez l'enfant que cette souplesse de l'intellect qui le rend tellement réceptif, et l'étudiant qui s'efforce de vivre la vie supérieure devrait toujours aspirer à garder à son intellect cette souplesse, car dès que nos idées deviennent fixes et incapables d'être changées, nos progrès cessent. C'est là la grande vérité que le Christ S'est efforcé de présenter à Ses auditeurs lorsqu'Il a fait la déclaration ayant fait l'objet de la question posée.
+RÉPONSE - Dans le monde qui nous entoure, nous voyons le royaume des hommes, où chacun s'efforce de maintenir sa propre situation, ne comptant que sur ses idées et ses paroles pour la conserver à l'encontre des nouveaux venus. Lorsqu'on lui présente une idée nouvelle, son attitude mentale est généralement teintée de scepticisme. Il craint d'être abusé. 
 
-### QUESTION 106
+L'attitude du petit enfant, concernant ce qu'il voit ou ce qu'il entend, est exactement le contraire de celle de ses aînés. Il n'a pas d'opinion exagérée sur ses hautes connaissances, mais il est franchement ignorant et, par conséquent, éminemment réceptif. C'est à cela que se référait le Sauveur dans le passage cité. 
+
+Quand nous entrons dans la vie supérieure, nous devons d'abord oublier tout ce que nous savons du monde, commencer à regarder les choses d'une manière tout à fait différente, et lorsqu'un nouvel enseignement nous est offert, nous devons nous efforcer de le recevoir sans tenir compte d'autres faits observés antérieurement. Ceci, afin de rester parfaitement impartiaux. Bien sûr, on ne nous demande pas de croire d'emblée que "le noir est blanc", mais si quelqu'un affirme qu'un objet que nous avions considéré jusqu'à présent comme noir, est vraiment blanc, notre intellect devrait être assez ouvert pour ne pas nous inciter à porter aussitôt le jugement suivant, "je suis sûr que cet objet est noir!". Nous devrions être disposés à examiner la chose, afin de voir s'il n'existe pas un point de vue d'où l'objet que nous pensons être noir, pourrait apparaître blanc. Lorsqu'après un sérieux examen, nous constatons qu'il est véritablement noir, de quelque point de vue qu'on l'examine, il nous est loisible alors de revenir à notre première opinion. 
+
+Rien n'est plus remarquable chez l'enfant que cette souplesse de l'intellect qui le rend tellement réceptif, et l'étudiant qui s'efforce de vivre la vie supérieure devrait toujours aspirer à garder à son intellect cette souplesse, car dès que nos idées deviennent fixes et incapables d'être changées, nos progrès cessent. C'est là la grande vérité que le Christ S'est efforcé de présenter à Ses auditeurs lorsqu'Il a fait la déclaration ayant fait l'objet de la question posée.
+
+### <h3 id="question-106">Question 106</h3>
 
 Jésus n'a-t-Il pas mangé du poisson? Pourquoi les Rosicruciens sont-ils donc végétariens?
 
-RÉPONSE - Après la Résurrection, le Christ est apparu un jour à Ses disciples tandis qu'ils étaient dans une chambre fermée à clé. Ils ne Le reconnurent pas tout d'abord, et ne pensaient pas que Son corps fût matériel. Le véhicule dans lequel Il leur apparut était le corps vital de Jésus, et Il lui était possible, comme à toute personne capable de fonctionner dans ce véhicule, d'attirer de la Région Chimique une quantité suffisante de matière pour se construire en un instant un corps dense parfaitement tangible. Afin de les convaincre qu'Il était comme à l'ordinaire, Il leur demanda quelque chose à manger, et ils lui donnèrent un morceau de rayon de miel et du poisson. Il est dit qu'Il mangea (Luc 24:43), mais non qu'Il mangea du poisson, car ayant été élevé parmi les Esséniens qui étaient strictement végétariens, Il n'aurait pas plus mangé de poisson qu'Il n'aurait mangé de viande si on la Lui avait présentée. Il est aussi écrit que le Bouddha mourut après s'être gorgé de viande de sanglier, ce qui est vraiment divertissant pour quiconque sait qu'il enseignait à ses disciples la vie simple et inoffensive qu'il menait lui-même, qu'il leur conseillait de se nourrir des aliments les plus purs et les meilleurs provenant directement du sol, et qu'il était ému de la plus grande pitié à la vue des souffrances des hommes et des animaux. L'étudiant en ésotérisme sait que, dans les temps anciens, le sanglier était le symbole des connaissances ésotériques. Or nous pouvons donner aux autres toutes nos connaissances; plus nous en donnons, plus nous en avons, et la même somme de savoir subsiste. Cette vérité était enseignée dans la mythologie scandinave; dans le Valhalla, les guerriers ayant combattu le bon combat s'asseyaient à un festin autour d'un sanglier fait de telle sorte qu'un morceau de chair coupée repoussait aussitôt, si bien qu'il y avait toujours abondance de viande, quelle que fût la quantité enlevée, et quel que fût le nombre des convives. Or, Bouddha s'était gorgé des connaissances sacrées et, à sa mort, il en était rempli. Néanmoins l'auteur de la question part d'une idée fausse. Les Rosicruciens n'enseignent pas que tout le monde devrait être végétarien sur- le-champ. En fait ils disent qu'une alimentation végétarienne fournit beaucoup plus d'énergie qu'une alimentation carnée. Cette énergie n'est pas seulement physique mais spirituelle, en sorte que si un homme mène une vie sédentaire, qu'il ait des tendances matérialistes et soit uniquement préoccupé de sordides opérations commerciales ou d'autres affaires strictement matérielles, cette énergie spirituelle ne peut trouver aucune issue, et elle est susceptible d'occasionner des troubles dans son organisme. Seuls, ceux qui vivent une vie active, au grand air, où l'abondance d'énergie générée par la nourriture végétarienne peut être dépensée, ou ceux qui transmuent cette énergie en efforts spirituels peuvent se trouver bien de cette alimentation. Nous reconnaissons en outre que les habitudes suivies pendant de nombreuses générations ont fait de l'homme un être en partie carnivore, de sorte que, dans un grand nombre de cas, le changement d'une alimentation carnée à une alimentation végétarienne doit se faire graduellement. D'autre part, il faut se rappeler que l'alimentation qui convient à l'un ne convient pas nécessairement à l'autre, et le vieux proverbe est vrai qui dit que "ce qui est nourriture pour l'un est poison pour un autre". On ne peut donc établir aucune règle rigoureuse qui convienne également à tous. C'est pourquoi il est préférable que ce que nous mangeons, aussi bien que tout ce qui se rapporte à notre personnalité, fasse l'objet d'un choix individuel. La Bible enseigne fort justement que ce n'est pas ce qui entre par la bouche qui nous souille. Si nous mangeons une nourriture répugnante et que nous en soyons avides, c'est l'avidité qui constitue notre péché et non la nourriture elle-même. Si quelqu'un se trouve en un lieu où il ne puisse obtenir la nourriture pure qui lui plaît, il fera bien d'accepter la nourriture qui lui est offerte, même de la viande, et cela sans dégoût, et avec autant de reconnaissance que s'il s'agissait d'aliments purs. Il ne sera nullement corrompu, grâce à cette attitude d'esprit.
+RÉPONSE - Après la Résurrection, le Christ est apparu un jour à Ses disciples tandis qu'ils étaient dans une chambre fermée à clé. Ils ne Le reconnurent pas tout d'abord, et ne pensaient pas que Son corps fût matériel. Le véhicule dans lequel Il leur apparut était le corps vital de Jésus, et Il lui était possible, comme à toute personne capable de fonctionner dans ce véhicule, d'attirer de la Région Chimique une quantité suffisante de matière pour se construire en un instant un corps dense parfaitement tangible. Afin de les convaincre qu'Il était comme à l'ordinaire, Il leur demanda quelque chose à manger, et ils lui donnèrent un morceau de rayon de miel et du poisson. Il est dit qu'Il mangea (Luc 24:43), mais non qu'Il mangea du poisson, car ayant été élevé parmi les Esséniens qui étaient strictement végétariens, Il n'aurait pas plus mangé de poisson qu'Il n'aurait mangé de viande si on la Lui avait présentée. 
 
-### QUESTION 107
+Il est aussi écrit que le Bouddha mourut après s'être gorgé de viande de sanglier, ce qui est vraiment divertissant pour quiconque sait qu'il enseignait à ses disciples la vie simple et inoffensive qu'il menait lui-même, qu'il leur conseillait de se nourrir des aliments les plus purs et les meilleurs provenant directement du sol, et qu'il était ému de la plus grande pitié à la vue des souffrances des hommes et des animaux. L'étudiant en ésotérisme sait que, dans les temps anciens, le sanglier était le symbole des connaissances ésotériques. Or nous pouvons donner aux autres toutes nos connaissances; plus nous en donnons, plus nous en avons, et la même somme de savoir subsiste. Cette vérité était enseignée dans la mythologie scandinave; dans le Valhalla, les guerriers ayant combattu le bon combat s'asseyaient à un festin autour d'un sanglier fait de telle sorte qu'un morceau de chair coupée repoussait aussitôt, si bien qu'il y avait toujours abondance de viande, quelle que fût la quantité enlevée, et quel que fût le nombre des convives. Or, Bouddha s'était gorgé des connaissances sacrées et, à sa mort, il en était rempli. 
+
+Néanmoins l'auteur de la question part d'une idée fausse. Les Rosicruciens n'enseignent pas que tout le monde devrait être végétarien sur- le-champ. En fait ils disent qu'une alimentation végétarienne fournit beaucoup plus d'énergie qu'une alimentation carnée. Cette énergie n'est pas seulement physique mais spirituelle, en sorte que si un homme mène une vie sédentaire, qu'il ait des tendances matérialistes et soit uniquement préoccupé de sordides opérations commerciales ou d'autres affaires strictement matérielles, cette énergie spirituelle ne peut trouver aucune issue, et elle est susceptible d'occasionner des troubles dans son organisme. Seuls, ceux qui vivent une vie active, au grand air, où l'abondance d'énergie générée par la nourriture végétarienne peut être dépensée, ou ceux qui transmuent cette énergie en efforts spirituels peuvent se trouver bien de cette alimentation. Nous reconnaissons en outre que les habitudes suivies pendant de nombreuses générations ont fait de l'homme un être en partie carnivore, de sorte que, dans un grand nombre de cas, le changement d'une alimentation carnée à une alimentation végétarienne doit se faire graduellement. D'autre part, il faut se rappeler que l'alimentation qui convient à l'un ne convient pas nécessairement à l'autre, et le vieux proverbe est vrai qui dit que "ce qui est nourriture pour l'un est poison pour un autre". On ne peut donc établir aucune règle rigoureuse qui convienne également à tous. C'est pourquoi il est préférable que ce que nous mangeons, aussi bien que tout ce qui se rapporte à notre personnalité, fasse l'objet d'un choix individuel. 
+
+La Bible enseigne fort justement que ce n'est pas ce qui entre par la bouche qui nous souille. Si nous mangeons une nourriture répugnante et que nous en soyons avides, c'est l'avidité qui constitue notre péché et non la nourriture elle-même. Si quelqu'un se trouve en un lieu où il ne puisse obtenir la nourriture pure qui lui plaît, il fera bien d'accepter la nourriture qui lui est offerte, même de la viande, et cela sans dégoût, et avec autant de reconnaissance que s'il s'agissait d'aliments purs. Il ne sera nullement corrompu, grâce à cette attitude d'esprit.
+
+### <h3 id="question-107">Question 107</h3>
 
 Si le Christ a nourri la multitude de poisson, pourquoi est-il faux que nous en fassions usage comme nourriture, ainsi que de la viande?
 
-RÉPONSE - Il est dans la nature des animaux de proie de dévorer tout animal qu'il trouve sur son chemin, et son organisme exige cette sorte de nourriture pour subsister; mais toute chose est dans un état de devenir, et est en train de changer en quelque chose de supérieur. L'homme, aux premiers degrés de son développement, était semblable à certains égards aux animaux de proie; cependant il doit devenir semblable à Dieu, et il lui faudra cesser de détruire, à un moment donné, afin de pouvoir commencer à créer. Les Juifs, au temps du Christ, se trouvaient encore à un degré où leur nature animale était tellement impérieuse qu'ils n'avaient qu'une très petite idée de l'altruisme. Ils adhéraient à la loi "oeil pour oeil, dent pour dent", et n'étaient miséricordieux sous aucuns rapports.Nous sommes allés un peu plus loin sur le chemin de l'évolution, depuis deux mille ans, et l'altruisme passe de plus en plus au premier rang. On nous enseigne qu'il n'y a dans l'univers qu'une vie, celle de Dieu. "Qu'en Lui nous avons la vie, le mouvement et l'être". Que Sa vie anime tout ce qui est, et c'est pourquoi nous comprenons que si nous prenons la vie, nous détruisons la forme construite par Dieu pour Sa manifestation. Les animaux, nos jeunes frères sur l'échelle de l'évolution, sont des esprits qui évoluent, et ils sont doués de sensibilité. Le désir qu'ils ont d'acquérir de l'expérience leur fait construire des formes variées et lorsque nous les privons de ces formes, nous leur ôtons l'occasion d'acquérir de l'expérience. Nous entravons leur évolution au lieu de les aider. Le cannibale est excusable de manger ses semblables, parce qu'il ne sait rien d'autre. Nous considérons maintenant le cannibalisme avec horreur, et le jour viendra aussi où nous ressentirons le même dégoût à l'idée de faire de notre estomac la sépulture des cadavres d'animaux massacrés. Il est naturel pour nous de désirer la meilleure nourriture possible, mais la chair des animaux renferme les poisons de la putréfaction. Le sang veineux, dans son cours vers les reins, vers les pores de la peau, est chargé d'acide carbonique et autres composés nocifs qui doivent être expulsés sous forme d'urine ou de sueur. Ces substances toxiques se trouvent dans toutes les parties de la chair de l'animal; en la mangeant, nous remplissons notre corps de toxines. Un grand nombre de maladies sont dues à la consommation d'aliments carnés. Lorsque nous en appelons à l'autorité de la Bible pour nous excuser de manger de la viande, nous devrions aussi être disposés à suivre ses injonctions et cesser de manger de la viande de porc qui est bien la plus horrible des nourritures. C'est un fait notoire que les Juifs pratiquants qui s'abstiennent des aliments interdits par la Bible échappent à la tuberculose et au cancer.
+RÉPONSE - Il est dans la nature des animaux de proie de dévorer tout animal qu'il trouve sur son chemin, et son organisme exige cette sorte de nourriture pour subsister; mais toute chose est dans un état de devenir, et est en train de changer en quelque chose de supérieur. L'homme, aux premiers degrés de son développement, était semblable à certains égards aux animaux de proie; cependant il doit devenir semblable à Dieu, et il lui faudra cesser de détruire, à un moment donné, afin de pouvoir commencer à créer. Les Juifs, au temps du Christ, se trouvaient encore à un degré où leur nature animale était tellement impérieuse qu'ils n'avaient qu'une très petite idée de l'altruisme. Ils adhéraient à la loi "oeil pour oeil, dent pour dent", et n'étaient miséricordieux sous aucuns rapports.Nous sommes allés un peu plus loin sur le chemin de l'évolution, depuis deux mille ans, et l'altruisme passe de plus en plus au premier rang. 
 
-Dans maints endroits où la Bible parle de "meat", mot anglais à double sens, il est clair qu'il ne s'agit pas de la chair des animaux. Au premier chapitre de la Genèse, où la nourriture de l'homme est décrite pour la première fois, il est dit qu'il devra se nourrir "de tout arbre, de toute herbe portant fruits et semences et que ce sera là sa nourriture (meat)." Les personnes les plus évoluées de tous les temps se sont toujours abstenues de manger la chair des animaux. A titre d'exemple, nous voyons que le saint et sage Daniel avait prié qu'on ne l'oblige pas, lui et ses compagnons, à manger de la viande, mais qu'on leur donne des légumineuses. On dit des enfants d'Israël dans le désert qu'ils "regrettaient les pots de viande" de l'Egypte, ce qui avait suscité le courroux de leur Dieu. Le récit de la multitude nourrie de poissons a une signification ésotérique, mais nous bornant à considérer l'aspect purement matériel des choses, nous résumerons les différents points examinés dans notre réponse en rappelant que le temps viendra où, ayant progressé sur le chemin de l'évolution, nous perdrons l'habitude de consommer de la viande et du poisson, comme nous nous sommes élevés au-dessus du cannibalisme. Tout ce qui peut avoir été licite dans les temps barbares disparaîtra dans un avenir où l'altruisme, fruit d'une sensibilité plus affinée, aura éveillé en nous la pleine signification des horreurs qu'entraîne la satisfaction des goûts carnivores.
+On nous enseigne qu'il n'y a dans l'univers qu'une vie, celle de Dieu. "Qu'en Lui nous avons la vie, le mouvement et l'être". Que Sa vie anime tout ce qui est, et c'est pourquoi nous comprenons que si nous prenons la vie, nous détruisons la forme construite par Dieu pour Sa manifestation. Les animaux, nos jeunes frères sur l'échelle de l'évolution, sont des esprits qui évoluent, et ils sont doués de sensibilité. Le désir qu'ils ont d'acquérir de l'expérience leur fait construire des formes variées et lorsque nous les privons de ces formes, nous leur ôtons l'occasion d'acquérir de l'expérience. Nous entravons leur évolution au lieu de les aider. Le cannibale est excusable de manger ses semblables, parce qu'il ne sait rien d'autre. Nous considérons maintenant le cannibalisme avec horreur, et le jour viendra aussi où nous ressentirons le même dégoût à l'idée de faire de notre estomac la sépulture des cadavres d'animaux massacrés. 
 
-### QUESTION 108
+Il est naturel pour nous de désirer la meilleure nourriture possible, mais la chair des animaux renferme les poisons de la putréfaction. Le sang veineux, dans son cours vers les reins, vers les pores de la peau, est chargé d'acide carbonique et autres composés nocifs qui doivent être expulsés sous forme d'urine ou de sueur. Ces substances toxiques se trouvent dans toutes les parties de la chair de l'animal; en la mangeant, nous remplissons notre corps de toxines. Un grand nombre de maladies sont dues à la consommation d'aliments carnés. 
+
+Lorsque nous en appelons à l'autorité de la Bible pour nous excuser de manger de la viande, nous devrions aussi être disposés à suivre ses injonctions et cesser de manger de la viande de porc qui est bien la plus horrible des nourritures. C'est un fait notoire que les Juifs pratiquants qui s'abstiennent des aliments interdits par la Bible échappent à la tuberculose et au cancer.
+
+Dans maints endroits où la Bible parle de "meat", mot anglais à double sens, il est clair qu'il ne s'agit pas de la chair des animaux. Au premier chapitre de la Genèse, où la nourriture de l'homme est décrite pour la première fois, il est dit qu'il devra se nourrir "de tout arbre, de toute herbe portant fruits et semences et que ce sera là sa nourriture (meat)." Les personnes les plus évoluées de tous les temps se sont toujours abstenues de manger la chair des animaux. A titre d'exemple, nous voyons que le saint et sage Daniel avait prié qu'on ne l'oblige pas, lui et ses compagnons, à manger de la viande, mais qu'on leur donne des légumineuses. On dit des enfants d'Israël dans le désert qu'ils "regrettaient les pots de viande" de l'Egypte, ce qui avait suscité le courroux de leur Dieu. 
+
+Le récit de la multitude nourrie de poissons a une signification ésotérique, mais nous bornant à considérer l'aspect purement matériel des choses, nous résumerons les différents points examinés dans notre réponse en rappelant que le temps viendra où, ayant progressé sur le chemin de l'évolution, nous perdrons l'habitude de consommer de la viande et du poisson, comme nous nous sommes élevés au-dessus du cannibalisme. Tout ce qui peut avoir été licite dans les temps barbares disparaîtra dans un avenir où l'altruisme, fruit d'une sensibilité plus affinée, aura éveillé en nous la pleine signification des horreurs qu'entraîne la satisfaction des goûts carnivores.
+
+For a very full presentation of the question, "Does the Bible justify Flesh Eating," we would refer the inquirer to a little pamphlet by that name issued by the Unity Society of Kansas City, Missouri, which gives the pro and the con with great impartiality, and shows that it was only as a concession to the before mentioned lust for flesh that the practice was tolerated at all. 
+
+### <h3 id="question-108">Question 108</h3>
 
 Expliquez, je vous prie, pourquoi le veau gras n'a pas été tué pour le fils vertueux plutôt que pour le fils prodigue (Luc 15:11-32). N'était-ce pas récompenser une mauvaise action?
 
@@ -1459,25 +1517,27 @@ RÉPONSE - L'histoire du fils prodigue est une parabole par laquelle le Christ a
 
 Vient alors le rude labeur de se dépouiller des divers véhicules dans lesquels il s'est immergé et de s'élever une fois encore à la communion consciente avec Dieu. Alors qu'il est engagé dans cette tâche ardue, "le Père vient à sa rencontre un long bout de chemin"; la petite voix intérieure, toujours présente, commence à se faire entendre au-dedans de lui, à lui parler de la gloire des cieux; enfin, lorsque l'humanité a terminé son évolution, ou que l'esprit individuel a pris le plus court sentier de l'initiation, il y a réunion avec Dieu et les autres esprits qui ne sont pas encore entrés à l'école de l'expérience. Naturellement, il y a plus de réjouissance pour le retour de celui qui a soutenu le bon combat et qui est revenu dans sa céleste demeure, que pour celui qui n'a pas encore cherché à tirer parti de l'occasion qui lui est présentée.
 
-### QUESTION 109
+### <h3 id="question-109">Question 109</h3>
 
 Pourquoi le Seigneur a-t-il loué l'économe infidèle, comme on le raconte au 16e chapitre de Luc?
 
 RÉPONSE - L'auteur de la question devrait relire attentivement le 16e chapitre de Luc. On y parle d'un économe infidèle amené devant son seigneur qui soupçonnait que ses comptes n'étaient pas exacts. L'économe fit un marché avec les débiteurs de son maître afin de s'en faire des amis pour le moment où il aurait perdu son emploi. Il est dit au verset 8 que "le seigneur loua l'économe infidèle". Lorsqu'il rendit ses comptes, il avait dû les arranger si adroitement que son maître y fut trompé, car le "seigneur" dont il est question était le maître de l'économe, comme on peut s'en rendre compte par le fait que le mot "seigneur" est écrit avec une minuscule, tandis qu'une majuscule est toujours employée lorsque le mot se rapporte au Christ.
 
-### QUESTION 110
+### <h3 id="question-110">Question 110</h3>
 
 Voulez-vous bien expliquer ce que veut dire: pécher contre le Saint-Esprit?
 
 RÉPONSE - Généralement parlant, le Saint-Esprit est le pouvoir créateur de Dieu. Le passage du credo, "conçu du Saint-Esprit", ce que l'Ange Gabriel avait annoncé à Marie, en est une confirmation. Tout ce qui est, a été amené à l'existence par ce pouvoir créateur, et c'est un rayon de cet attribut de Dieu dont se servent les hommes pour la perpétuation de la race humaine. Lorsque nous en abusons, c'est-à-dire que nous en usons pour la satisfaction des sens, soit solitairement, soit en association, dans le mariage ou en dehors du mariage, nous péchons contre le Saint-Esprit. Ce péché, nous dit-on, n'est pas pardonné, il doit être expié. L'humanité tout entière souffre aujourd'hui de ce péché. Les corps débiles, les maladies que nous voyons autour de nous sont dus à des siècles d'excès et, tant que nous n'aurons pas appris à maîtriser nos passions, il ne pourra pas y avoir de vraie santé dans la race humaine. Nous sommes nés de parents qui pensaient qu'il était juste de satisfaire leurs passions en tout temps et à n'importe quel moment. En conséquence, nous en souffrons maintenant, et par notre attitude à l'égard de la question "sexe", la plupart d'entre nous sommes en train de reporter actuellement les mêmes maladies sur nos enfants. C'est ainsi que les péchés des parents retombent sur les enfants, de génération en génération, et continueront à apporter affliction et souffrances jusqu'à ce que nous ayons compris que chaque enfant a le droit d'être "bien né" et de bénéficier des conditions physiques appropriées pendant sa vie prénatale.
 
-### QUESTION 111
+### <h3 id="question-111">Question 111</h3>
 
 Le credo Chrétien est-il de source divine?
 
-RÉPONSE - Il y a trois formes de credo Chrétien. L'un est connu sous le nom de Credo des Apôtres, non pas qu'il ait été composé par les Apôtres, mais parce qu'il est supposé exprimer leurs croyances. Un autre credo fut formulé et adopté au Concile de Nicée, et est appelé Credo de Nicée. Le credo d'Athanase, est le plus récent. Ils ne sont pas plus de source divine que n'importe quelle autre affirmation des hommes concernant la Bible. La Bible elle-même donne un credo, dans le passage qui affirme qu'il n'y a pas d'autre nom que celui de Jésus-Christ par lequel l'homme doive être sauvé (Actes 4:12), et ceci est en harmonie avec l'enseignement occulte, car Jéhovah fut l'auteur de toutes les Religions de Race où la crainte de Dieu faisait obstacle aux désirs de la chair et où la loi était imposée à l'homme pour réfréner le désir. Les Religions de Race éduquent la nature-désir par les moyens précités, mais elles seront remplacées le moment venu par la Religion du Christ. Cette religion de fraternité et d'amour bannira la crainte engendrée par la loi de Jéhovah. Elle essaiera d'abolir les nations, leurs lois, leurs luttes et rivalités, en travaillant sur le corps vital, en sorte que l'humanité soit animée entièrement par l'amour, au lieu de l'être par la loi. Mais là n'est pas le point final, cependant. Lorsque le royaume aura été complètement établi, le Christ le remettra entre les mains du Père. La Religion du Père sera plus élevée encore que la Religion du Fils.
+RÉPONSE - Il y a trois formes de credo Chrétien. L'un est connu sous le nom de Credo des Apôtres, non pas qu'il ait été composé par les Apôtres, mais parce qu'il est supposé exprimer leurs croyances. Un autre credo fut formulé et adopté au Concile de Nicée, et est appelé Credo de Nicée. Le credo d'Athanase, est le plus récent. Ils ne sont pas plus de source divine que n'importe quelle autre affirmation des hommes concernant la Bible. 
 
-### QUESTION 112
+La Bible elle-même donne un credo, dans le passage qui affirme qu'il n'y a pas d'autre nom que celui de Jésus-Christ par lequel l'homme doive être sauvé (Actes 4:12), et ceci est en harmonie avec l'enseignement occulte, car Jéhovah fut l'auteur de toutes les Religions de Race où la crainte de Dieu faisait obstacle aux désirs de la chair et où la loi était imposée à l'homme pour réfréner le désir. Les Religions de Race éduquent la nature-désir par les moyens précités, mais elles seront remplacées le moment venu par la Religion du Christ. Cette religion de fraternité et d'amour bannira la crainte engendrée par la loi de Jéhovah. Elle essaiera d'abolir les nations, leurs lois, leurs luttes et rivalités, en travaillant sur le corps vital, en sorte que l'humanité soit animée entièrement par l'amour, au lieu de l'être par la loi. Mais là n'est pas le point final, cependant. Lorsque le royaume aura été complètement établi, le Christ le remettra entre les mains du Père. La Religion du Père sera plus élevée encore que la Religion du Fils.
+
+### <h3 id="question-112">Question 112</h3>
 
 Comment conciliez-vous la loi de cause à effet avec la doctrine du pardon des péchés?
 
@@ -1485,11 +1545,21 @@ RÉPONSE - Parce qu'ils ne peuvent croire au pardon des péchés, beaucoup croie
 
 En fait, cependant, l'enseignement Chrétien énonce aussi la doctrine qui veut que "ce qu'un homme a semé, il le récoltera", (Galates 6:7), et c'est ainsi qu'il enseigne à la fois la loi de cause à effet et celle du pardon des péchés. Ces deux lois opèrent de façon vitale dans l'épanouissement de l'humanité, et il y a de bonnes raisons au fait que les religions orientales primitives ne contiennent qu'une partie de l'enseignement complet que l'on trouve dans la religion Chrétienne.
 
-Dans les temps reculés où les religions de l'Orient furent données à l'humanité, les hommes étaient de nature plus spirituelle que ne le sont de nos jours les êtres essentiellement matériels du Monde Occidental. Ils savaient que nous vivons ici-bas un grand nombre de vie en des corps différents. De nos jours, les Orientaux, encore complètement imbus de cette idée, sont en conséquence extrêmement indolents. Ils sont plus préoccupés du Nirvana - monde invisible où ils se reposeront dans la paix et la joie - qu'à chercher à tirer parti de leurs ressources matérielles présentes, en vue de leur avancement. C'est la raison pour laquelle leur pays est aride, inculte, leurs récoltes minimes et souvent détruites par un soleil brûlant, ou dévastées par des inondations. Ils souffrent de la famine, ils meurent par milliers; et bien qu'ils enseignent la loi de cause à effet, ils semblent ne pas se rendre compte que leurs misérable conditions sont amenées par leur indolence et leur indifférence vis-à-vis des choses matérielles. Il est naturel que, n'ayant pas travaillé ici-bas, ils n'aient rien à assimiler au cours de la vie céleste entre la mort et une nouvelle naissance; et tel un organe s'atrophie graduellement faute d'être utilisé, ainsi un pays qui n'est pas développé par les esprits qui y sont incarnés, dépérit graduellement et devient impropre à être habité par les humains. Il était nécessaire à l'évolution de l'humanité que celle-ci passe par ce monde matériel pour en développer toutes les ressources. C'est pourquoi les Grands Guides de l'humanité ont employé divers moyens pour nous faire oublier temporairement le côté spirituel de notre nature. En Occident, où se trouvent les pionniers de la race humaine, ils ont ordonné que les mariages se fassent en dehors de la famille. Ils ont donné à l'Occident une religion qui n'enseignait pas d'une manière précise la doctrine de la renaissance et la loi de cause à effet comme moyens de progrès. Ils ont établi l'usage des boissons alcoolisées qui ont pour effet de paralyser la sensibilité spirituelle de l'homme. Par suite, nous avons en Occident temporairement oublié qu'il existe autre chose que cette seule vie sur terre, et, en conséquence, nous nous appliquons avec la plus grande diligence à faire le meilleur usage possible de ce que nous croyons être notre seule occasion ici-bas. Ainsi, nous avons développé l'Occident en de véritables jardins; nous en avons fait, dans l'entre-deux vies, une terre extrêmement fertile et riche, par ailleurs, en minéraux de toutes sortes, qui nous fournissent tout ce dont nous avons besoin pour nos diverses industries; nous faisons ainsi la conquête du monde matériel visible.
+Dans les temps reculés où les religions de l'Orient furent données à l'humanité, les hommes étaient de nature plus spirituelle que ne le sont de nos jours les êtres essentiellement matériels du Monde Occidental. Ils savaient que nous vivons ici-bas un grand nombre de vie en des corps différents. De nos jours, les Orientaux, encore complètement imbus de cette idée, sont en conséquence extrêmement indolents. Ils sont plus préoccupés du Nirvana - monde invisible où ils se reposeront dans la paix et la joie - qu'à chercher à tirer parti de leurs ressources matérielles présentes, en vue de leur avancement. C'est la raison pour laquelle leur pays est aride, inculte, leurs récoltes minimes et souvent détruites par un soleil brûlant, ou dévastées par des inondations. Ils souffrent de la famine, ils meurent par milliers; et bien qu'ils enseignent la loi de cause à effet, ils semblent ne pas se rendre compte que leurs misérable conditions sont amenées par leur indolence et leur indifférence vis-à-vis des choses matérielles. Il est naturel que, n'ayant pas travaillé ici-bas, ils n'aient rien à assimiler au cours de la vie céleste entre la mort et une nouvelle naissance; et tel un organe s'atrophie graduellement faute d'être utilisé, ainsi un pays qui n'est pas développé par les esprits qui y sont incarnés, dépérit graduellement et devient impropre à être habité par les humains. Il était nécessaire à l'évolution de l'humanité que celle-ci passe par ce monde matériel pour en développer toutes les ressources. 
 
-Il est évident, cependant, que le côté religieux de la nature humaine ne doit pas être entièrement négligé, et c'est pourquoi le Christ, idéal sublime de la religion Chrétienne, nous a été donné comme exemple à imiter. Et du moment que nous ne pouvons pas espérer devenir semblables au Christ au cours d'une seule vie, qui est tout ce que nous connaissons pour le présent, il doit nous être donné une doctrine compensatrice; autrement, en désespoir de cause, nous cesserions tous nos efforts, connaissant leur futilité. C'est la raison pour laquelle on a enseigné au Monde Occidental la doctrine du pardon des péchés par la vertu de Jésus-Christ. Il est également certain, toutefois, qu'une doctrine qui n'est pas une vérité de la nature ne peut exercer une puissance élévatrice, et c'est pourquoi il doit aussi y avoir une base solide derrière la doctrine du pardon des péchés qui semble invalider la loi de cause à effet; la voici: Lorsque nous regardons autour de nous dans le monde matériel, nous observons les différents phénomènes de la nature, nous rencontrons d'autres personnes avec lesquelles nous engageons diverses transactions, et c'est au moyen de nos organes des sens que nous observons l'ensemble de ces spectacles, de ces sons et de ces scènes. Pas tous, cependant, car nous sommes très peu observateurs en ce qui concerne les détails. Et il est vrai de dire, même si c'est exaspérant, que "nous avons des yeux qui ne voient pas et des oreilles qui n'entendent pas". De ce fait, nous perdons une grande partie de l'expérience qui pourrait être acquise. De plus, la mémoire nous fait déplorablement défaut; puisque nous ne sommes capables de nous souvenir que d'une petite partie de nos expériences et la plupart d'entre elles sont perdues parce que nous les oublions. S'il est vrai que notre mémoire consciente est faible, nous en possédons une autre, plus fidèle: la mémoire subconsciente. De même que l'éther et l'air transmettent sur le film photographique l'impression du paysage compris dans le champ de l'appareil, sans que le moindre détail soit omis, ainsi l'air et l'éther qui transmettent les impressions du dehors à nos organes des sens portent aux poumons, et de là, au sang, l'image et l'enregistrement de tout ce avec quoi nous entrons en contact. Ces images sont emmagasinées dans le petit atome-germe placé dans le ventricule gauche du coeur, et ce petit atome peut être considéré comme le Livre des Anges de Justice où sont inscrites toutes nos actions. De là, elles sont imprimées dans l'éther réflecteur de notre corps vital. Dans le cours ordinaire de la vie, l'homme entre au Purgatoire à la mort pour y expier les péchés gravés sur cet atome. Plus tard, il assimile au Premier Ciel le bien également enregistré sur ce même atome. Au Deuxième Ciel, l'homme travaille à son milieu futur. Mais une personne pieuse se rend compte chaque jour de ses fautes et de ses faiblesses. Elle examine scrupuleusement les évènements de sa vie journalière et prie avec ferveur pour le pardon des péchés qu'elle a commis. Alors les images enregistrées des péchés d'omission et de commission s'effacent et sont enlevés jour après jour des annales de sa vie. En effet, le but de Dieu et de la nature n'est pas de nous "rendre la pareille", comme cela semble être le cas sous la loi de cause à effet qui exige l'exacte rétribution pour chaque transgression, aussi bien que la juste récompense ou compensation pour chaque bonne action. Le dessein de Dieu est de nous faire apprendre par l'expérience ce qui est juste et bon. Lorsque, nous nous sommes rendu compte que nous avions mal agi et que nous avons pris la résolution de faire mieux, notre leçon est apprise, et il n'est pas nécessaire que nous soyons punis. Ainsi, la doctrine du pardon des péchés est un fait réel dans la Nature. Si nous nous repentons, si nous prions et nous corrigeons, les péchés dont nous nous sommes repentis, pour lesquels nous avons prié et fait les réformes nécessaires, nous sont pardonnés et sont effacés des annales de notre vie. Si ce n'est pas le cas, ils sont extirpés après la mort, par les souffrances appropriées au Purgatoire. Ainsi, la doctrine du Karma ou loi de cause à effet, telle qu'elle est enseignée en Orient, ne satisfait pas entièrement les besoins humains, tandis que l'enseignement Chrétien, qui comprend à la fois la loi de cause à effet et la doctrine du pardon des péchés, donne un enseignement plus complet de la méthode employée par les Grands Chefs de l'humanité pour nous instruire.
+C'est pourquoi les Grands Guides de l'humanité ont employé divers moyens pour nous faire oublier temporairement le côté spirituel de notre nature. En Occident, où se trouvent les pionniers de la race humaine, ils ont ordonné que les mariages se fassent en dehors de la famille. Ils ont donné à l'Occident une religion qui n'enseignait pas d'une manière précise la doctrine de la renaissance et la loi de cause à effet comme moyens de progrès. Ils ont établi l'usage des boissons alcoolisées qui ont pour effet de paralyser la sensibilité spirituelle de l'homme. Par suite, nous avons en Occident temporairement oublié qu'il existe autre chose que cette seule vie sur terre, et, en conséquence, nous nous appliquons avec la plus grande diligence à faire le meilleur usage possible de ce que nous croyons être notre seule occasion ici-bas. Ainsi, nous avons développé l'Occident en de véritables jardins; nous en avons fait, dans l'entre-deux vies, une terre extrêmement fertile et riche, par ailleurs, en minéraux de toutes sortes, qui nous fournissent tout ce dont nous avons besoin pour nos diverses industries; nous faisons ainsi la conquête du monde matériel visible.
 
-### QUESTION 113
+Il est évident, cependant, que le côté religieux de la nature humaine ne doit pas être entièrement négligé, et c'est pourquoi le Christ, idéal sublime de la religion Chrétienne, nous a été donné comme exemple à imiter. Et du moment que nous ne pouvons pas espérer devenir semblables au Christ au cours d'une seule vie, qui est tout ce que nous connaissons pour le présent, il doit nous être donné une doctrine compensatrice; autrement, en désespoir de cause, nous cesserions tous nos efforts, connaissant leur futilité. C'est la raison pour laquelle on a enseigné au Monde Occidental la doctrine du pardon des péchés par la vertu de Jésus-Christ. 
+
+Il est également certain, toutefois, qu'une doctrine qui n'est pas une vérité de la nature ne peut exercer une puissance élévatrice, et c'est pourquoi il doit aussi y avoir une base solide derrière la doctrine du pardon des péchés qui semble invalider la loi de cause à effet; la voici: 
+
+Lorsque nous regardons autour de nous dans le monde matériel, nous observons les différents phénomènes de la nature, nous rencontrons d'autres personnes avec lesquelles nous engageons diverses transactions, et c'est au moyen de nos organes des sens que nous observons l'ensemble de ces spectacles, de ces sons et de ces scènes. Pas tous, cependant, car nous sommes très peu observateurs en ce qui concerne les détails. Et il est vrai de dire, même si c'est exaspérant, que "nous avons des yeux qui ne voient pas et des oreilles qui n'entendent pas". De ce fait, nous perdons une grande partie de l'expérience qui pourrait être acquise. De plus, la mémoire nous fait déplorablement défaut; puisque nous ne sommes capables de nous souvenir que d'une petite partie de nos expériences et la plupart d'entre elles sont perdues parce que nous les oublions. S'il est vrai que notre mémoire consciente est faible, nous en possédons une autre, plus fidèle: la mémoire subconsciente. De même que l'éther et l'air transmettent sur le film photographique l'impression du paysage compris dans le champ de l'appareil, sans que le moindre détail soit omis, ainsi l'air et l'éther qui transmettent les impressions du dehors à nos organes des sens portent aux poumons, et de là, au sang, l'image et l'enregistrement de tout ce avec quoi nous entrons en contact. Ces images sont emmagasinées dans le petit atome-germe placé dans le ventricule gauche du coeur, et ce petit atome peut être considéré comme le Livre des Anges de Justice où sont inscrites toutes nos actions. De là, elles sont imprimées dans l'éther réflecteur de notre corps vital. 
+
+Dans le cours ordinaire de la vie, l'homme entre au Purgatoire à la mort pour y expier les péchés gravés sur cet atome. Plus tard, il assimile au Premier Ciel le bien également enregistré sur ce même atome. Au Deuxième Ciel, l'homme travaille à son milieu futur. Mais une personne pieuse se rend compte chaque jour de ses fautes et de ses faiblesses. Elle examine scrupuleusement les évènements de sa vie journalière et prie avec ferveur pour le pardon des péchés qu'elle a commis. Alors les images enregistrées des péchés d'omission et de commission s'effacent et sont enlevés jour après jour des annales de sa vie. En effet, le but de Dieu et de la nature n'est pas de nous "rendre la pareille", comme cela semble être le cas sous la loi de cause à effet qui exige l'exacte rétribution pour chaque transgression, aussi bien que la juste récompense ou compensation pour chaque bonne action. Le dessein de Dieu est de nous faire apprendre par l'expérience ce qui est juste et bon. Lorsque, nous nous sommes rendu compte que nous avions mal agi et que nous avons pris la résolution de faire mieux, notre leçon est apprise, et il n'est pas nécessaire que nous soyons punis. 
+
+Ainsi, la doctrine du pardon des péchés est un fait réel dans la Nature. Si nous nous repentons, si nous prions et nous corrigeons, les péchés dont nous nous sommes repentis, pour lesquels nous avons prié et fait les réformes nécessaires, nous sont pardonnés et sont effacés des annales de notre vie. Si ce n'est pas le cas, ils sont extirpés après la mort, par les souffrances appropriées au Purgatoire. Ainsi, la doctrine du Karma ou loi de cause à effet, telle qu'elle est enseignée en Orient, ne satisfait pas entièrement les besoins humains, tandis que l'enseignement Chrétien, qui comprend à la fois la loi de cause à effet et la doctrine du pardon des péchés, donne un enseignement plus complet de la méthode employée par les Grands Chefs de l'humanité pour nous instruire.
+
+### <h3 id="question-113">Question 113</h3>
 
 Par quel pouvoir Pierre a-t-il ressuscité Dorcas (Actes 9:36- 41)?
 
@@ -1507,7 +1577,7 @@ Pendant le sommeil, l'Ego se retire aussi du corps dense, mais le corps vital y 
 
 Il peut arriver qu'au matin l'Ego ne réintègre pas son corps pour l'éveiller comme à l'ordinaire, et qu'il reste en dehors pendant une période qui varie d'un jour à un temps indéfini. Nous disons alors que le corps est en transe naturelle. Mais la corde d'argent n'est rompue à aucun des deux endroits mentionnés. Lorsque la rupture a eu lieu, aucune restauration n'est possible. Etant clairvoyants, le Christ et les apôtres voyaient qu'aucune rupture n'avait eu lieu dans les cas mentionnés. De là ces paroles, "Il n'est pas mort, mais il dort." Ils possédaient le pouvoir de forcer l'Ego à rentrer dans son corps et à y ramener les conditions normales. C'est ainsi qu'ils ont accompli ces prétendus miracles.
 
-### QUESTION 114
+### <h3 id="question-114">Question 114</h3>
 
 Croyez-vous à la conversion?
 
@@ -1515,7 +1585,7 @@ RÉPONSE - Certainement, mais il y a conversion et conversion. Il y a la convers
 
 Il y a une autre conversion, cependant, qui est toujours accompagnée d'influences planétaires, et selon la force de ces dernières, la conversion, ou le changement de vie, est plus ou moins radical. Elle montre que l'âme a atteint un certain point dans son pèlerinage où elle se sent attirée vers la vie supérieure. La cause immédiate de la conversion peut être un sermon, une conférence, un livre, un verset de la Bible, ou quelque chose dans la nature, mais ce n'est que la cause physique de quelque chose qui était déjà un fait spirituellement. Dès ce moment, la personne commence à envisager la vie d'une manière différente, elle rompt avec ses anciens vices, suit une nouvelle ligne de pensées et d'efforts. Cette conversion peut changer entièrement son attitude à l'égard de la vie et de son milieu également. En fait, il arrive souvent qu'un voyage l'éloigne pendant quelque temps de son entourage, pour lui donner l'occasion de semer la nouvelle semence.
 
-### QUESTION 115
+### <h3 id="question-115">Question 115</h3>
 
 La confession et l'absolution ont-elles une valeur quelconque?
 
@@ -1525,7 +1595,7 @@ Si, au contraire, la confession est faite comme celle du Publicain, dans un espr
 
 C'est un fait souvent constaté par de bons parents qu'un repentir non exprimé est insuffisant pour l'enfant. Il éprouve le besoin d'aller vers son père ou sa mère pour lui confesser son péché. Lorsqu'il a obtenu le pardon du père ou de la mère, sa conscience est en repos. Il en est de même des enfants de Dieu, Nous péchons et nous sommes attristés pour nos péchés; nous prenons la résolution de ne plus les commettre ou de ne plus faire le mal à nouveau; mais si nous pouvons nous confesser à quelqu'un en qui nous avons confiance, gagner sa sympathie et en obtenir l'assurance que notre faute ne sera pas retenue contre nous, nous sentons notre conscience plus légère. C'est là le principe sur lequel repose le commandement de la Bible, "Confessez vos péchés les uns aux autres.", (Psaumes 32:5; Proverbes 20:9; IJean 1:9). La personne à laquelle nous nous confessons doit, bien entendu, nous inspirer le plus profond respect et la plus grande affection. Elle sera, à ce moment, le représentant de Dieu ou de notre nature supérieure, et nous nous sentirons ainsi grandement soulagés en recevant sa sympathie. Mais nous sentirons aissi que le pacte fait avec nous-mêmes de ne plus commettre le péché en question a été fortifié par la présence d'un témoin. Si la confession est faite ainsi, et l'absolution obtenue de cette façon, l'une et l'autre ont sans nul doute un effet très salutaire.
 
-### QUESTION 116
+### <h3 id="question-116">Question 116</h3>
 
 Le rituel latin employé dans les églises catholiques a-t-il une valeur quelconque? Ne vaudrait-il pas mieux le traduire pour que les gens puissent le comprendre? Les sermons et les prières spontanées dans les églises protestantes ne sont-ils pas préférables au rituel et aux messes stéréotypées des catholiques?
 
@@ -1539,7 +1609,7 @@ Voici ce qu'il en est du rituel. A propos de l'emploi de la langue latine, il es
 
 Souvent, les gens s'étonnent de constater combien l'Eglise Catholique a d'emprise sur ses membres, et l'on peut dire que si elle abandonnait le rituel latin, elle ne perdrait pas un de ses adhérents en dix ans. D'ailleurs, leurs rituels véritablement occultes n'ont jamais été transposés en aucune langue, et même chez les Rosicruciens, les rituels latins, bien que ce ne soit pas ceux utilisés dans l'Eglise Catholique, sont en usage durant les services.
 
-### QUESTION 117
+### <h3 id="question-117">Question 117</h3>
 
 Quel est le mérite du martyre? Les martyrs deviennent-il vraiment des saints?
 
@@ -1547,47 +1617,41 @@ RÉPONSE - L'homme s'élève jusqu'à l'union avec Dieu grâce à quatre grands 
 
 En réalité, si le martyre peut nous ouvrir le ciel en vue d'un bonheur éternel, c'est là une méthode bien facile d'obtenir cette récompense. Il faut certainement du courage pour mourir, mais après tout, il en faut infiniment plus pour vivre. Nous sommes très enclins à croire que lorsqu'un homme a donné sa vie, il a tout donné, et souvent l'on entend dire d'un homme qui s'est suicidé, qu'"il s'est acquitté". En fait, le suicide est généralement la marque de la plus grande lâcheté possible, et le martyr est souvent beaucoup moins à admirer que la vie de certaines personnes qui, jour après jour, s'efforcent de suivre les enseignements de la Bible en menant une noble vie. Nous admettons volontiers que les martyrs doivent être admirés pour leur attachement inébranlable à leur foi en face de la mort et de la torture. Ils auront très certainement de plus grandes occasions de croissance spirituelle dans leurs vies futures que dans celle dont ils ont été privés lorsqu'ils ont été brûlés sur le bûcher ou exterminés d'une autre façon. Et nous pouvons aussi dire qu'ils étaient des saints et de saintes gens en ce sens que leur foi avait à leurs yeux plus de valeur que la vie, mais nous maintenons que les édits d'une Eglise sont incapables de faire d'un pécheur un saint.
 
-### QUESTION 118
+### <h3 id="question-118">Question 118</h3>
 
 Dans une de vos conférences, vous avez déclaré que c'était une erreur d'envoyer des missionnaires dans les pays étrangers; que les religions pratiquées par les peuples dits païens sont actuellement bonnes pour eux; que fort heureusement les missionnaires n'ont encore fait jusqu'à présent que peu de mal. Comment donc expliquez-vous le commandement du Christ à Ses disciple, "Allez par tout le monde et prêchez la bonne nouvelle", (Marc 16:15)?
 
-RÉPONSE - Le sens de cette parole du Christ repose évidemment sur l'interprétation du mot "monde". Si, par ce mot, nous entendons toute la terre, elle donnerait à penser qu'il est bon d'envoyer des missionnaires dans les pays étrangers; mais la Bible nous apprend que les disciples auxquels ce commandement avait été donné revinrent après avoir accompli leur mission, indiquant ainsi que ce mot ne pouvait signifier toute la terre. En ce sens, "monde" doit être interprété par "la contrée" ou "le pays". Au temps du Christ, les gens ne connaissaient pas le monde entier. L'extrémité ouest de l'Espagne s'appelle encore de nos jours le cap Finisterre - la fin de la terre. Ce mot, au moment où le Christ a donné son commandement, ne pouvait donc s'appliquer au monde entier tel que nous le connaissons aujourd'hui. Notre affirmation n'est donc pas contraire aux enseignements de la Bible. C'est une erreur d'envoyer des missionnaires vers des gens que nous appelons "païens", car leur présent développement ne leur permet pas de comprendre une religion qui prêche l'amour de ses semblables, religion que, même nous, n'avons pas encore appris à pratiquer!
-
-En outre, si les Anges de Justice, chargés de l'évolution humaine, sont capables de juger de nos besoins, et de placer chacun de nous dans le milieu où il trouvera les influences les plus favorables à son avancement, il faut croire qu'ils ont aussi donné à chaque nation la religion la plus salutaire à son épanouissement. En conséquence, lorsqu'un homme a été placé dans un pays où la religion Chrétienne est enseignée, c'est que cette religion renferme l'idéal qu'il doit s'efforcer d'atteindre, mais essayer de l'imposer à d'autres peuples qui ont été placés dans un entourage différent, c'est prétendre que notre propre jugement l'emporte sur celui de Dieu et de Ses Ministres, les Anges de Justice. Cependant, comme nous l'avons dit, les missionnaires ont fait peu de mal aux gens qu'ils sont allés convertir, mais ils auraient pu faire plus de bien autour d'eux sans partir. Nous n'avons pas besoin de quitter notre pays pour trouver des païens ayant besoin des enseignements de la Bible. A titre d' exemple, le professeur de Yale, Wilbur L. Cross, mentionne que dans un cours de quarante étudiants, pas un seul ne savait qui était Judas Iscariote; qu'il avait un étudiant Juif qui n'avait jamais entendu parle de Moïse. Si les missionnaires étaient mis en contact avec ces païens-là, peut-être pourraient-ils leur faire quelque bien.
+RÉPONSE - Le sens de cette parole du Christ repose évidemment sur l'interprétation du mot "monde". Si, par ce mot, nous entendons toute la terre, elle donnerait à penser qu'il est bon d'envoyer des missionnaires dans les pays étrangers; mais la Bible nous apprend que les disciples auxquels ce commandement avait été donné revinrent après avoir accompli leur mission, indiquant ainsi que ce mot ne pouvait signifier toute la terre. En ce sens, "monde" doit être interprété par "la contrée" ou "le pays". Au temps du Christ, les gens ne connaissaient pas le monde entier. L'extrémité ouest de l'Espagne s'appelle encore de nos jours le cap Finisterre - la fin de la terre. Ce mot, au moment où le Christ a donné son commandement, ne pouvait donc s'appliquer au monde entier tel que nous le connaissons aujourd'hui. Notre affirmation n'est donc pas contraire aux enseignements de la Bible. C'est une erreur d'envoyer des missionnaires vers des gens que nous appelons "païens", car leur présent développement ne leur permet pas de comprendre une religion qui prêche l'amour de ses semblables, religion que, même nous, n'avons pas encore appris à pratiquer! En outre, si les Anges de Justice, chargés de l'évolution humaine, sont capables de juger de nos besoins, et de placer chacun de nous dans le milieu où il trouvera les influences les plus favorables à son avancement, il faut croire qu'ils ont aussi donné à chaque nation la religion la plus salutaire à son épanouissement. En conséquence, lorsqu'un homme a été placé dans un pays où la religion Chrétienne est enseignée, c'est que cette religion renferme l'idéal qu'il doit s'efforcer d'atteindre, mais essayer de l'imposer à d'autres peuples qui ont été placés dans un entourage différent, c'est prétendre que notre propre jugement l'emporte sur celui de Dieu et de Ses Ministres, les Anges de Justice. Cependant, comme nous l'avons dit, les missionnaires ont fait peu de mal aux gens qu'ils sont allés convertir, mais ils auraient pu faire plus de bien autour d'eux sans partir. Nous n'avons pas besoin de quitter notre pays pour trouver des païens ayant besoin des enseignements de la Bible. A titre d' exemple, le professeur de Yale, Wilbur L. Cross, mentionne que dans un cours de quarante étudiants, pas un seul ne savait qui était Judas Iscariote; qu'il avait un étudiant Juif qui n'avait jamais entendu parle de Moïse. Si les missionnaires étaient mis en contact avec ces païens-là, peut-être pourraient-ils leur faire quelque bien.
 
 Par contre, l'envoi de missionnaires orientaux chez les Occidentaux pour les convertire à l'Hindouisme et autres religions orientales similaires, fait plus de mal, car les adeptes de ces dernières enseignent des exercices respiratoires qui causent la folie ou la tuberculose, parce que nos corps occidentaux ne sont pas faits pour de telles pratiques. Il est plus sûr de s'en tenir à la religion de son propre pays, de l'étudier et de la pratiquer, laissant aux autres nations le privilège d'en faire de même avec la leur. 
 
-## PARTIE 8 - QUESTIONS CONCERNANT LES PHENOMÈNES SPIRITES
+<h2 id="section-5">Partie 5 - Questions Concernant les Phenomènes Spirites</h2>
 
-### QUESTION 119
+### <h3 id="question-119">Question 119</h3>
 
 La médiumnité peut-elle porter atteinte à la santé?
 
 RÉPONSE - Cela dépend. Lorsqu'une personne devient le médium d'un esprit désincarné qui, prenant possession de son corps comme c'est le cas pour les médiums à transe, s'en sert comme s'il était à lui, il n'y a pas grand mal, pourvu que l'esprit-contrôle n'abuse pas de son privilège. En fait, il est certains cas où l'esprit-contrôle a de meilleures idées sur les soins à donner à un corps que le possesseur de ce corps lui-même, et il peut en améliorer la santé. Mais les esprits de nature hautement morale se servent rarement de médiums; ce sont plutôt des esprits attachés à la terre, des esprits inférieurs, tels que ceux des Amérindiens, qui agissent ainsi; et lorsqu'ils ont pris possession du corps d'une personne, il s'en servent pour satisfaire leurs viles passions pour la boisson et le sexe. Ils causent ainsi des troubles dans l'organisme et une détérioration du corps.
 
-Dans le cas du médium à matérialisaiton, on peut dire que l'influence est toujours pernicieuse. L'esprit qui cherche à se matérialiser endort le médium et soutire l'éther de son corps vital par la rate, car la différence entre un médium à matérialisation et une personne ordinaire est le fait que le lien entre le corps vital et le corps physique est estrêmement relâché, ce qui donne la possibilité de retirer presque entièrement ce corps vital. Or, le corps vital est le véhicule par lequel les courants solaires qui nous donnent la vitalité sont spécialisés. Privé de son principe vitalisant, le corps du médium, pendant la matérialisation, se réduit quelque fois à la moitié de sa taille; ses chairs deviennent flasques et l'étincelle de vie qui l'anime est presque éteinte. Quand la séance est terminée et que le corps vital est remis en place, le médium se réveille et reprend sa conscience normale. Mais il éprouve une sensation d'épuisement extrême et, malheureusement, il a souvent recours à la boisson pour ranimer sa force vitale. Dans ce cas, naturellement, sa santé est bientôt affectée, et il devient une épave. A tous les points de vue, la médiumnité doit être évitée, car en plus du danger immédiat qu'elle cause au corps physique, il en résulte d'autres conséquences plus graves encore pour les véhicules subtils du médium, particulièrement dans l'après- vie.
+Dans le cas du médium à matérialisaiton, on peut dire que l'influence est toujours pernicieuse. L'esprit qui cherche à se matérialiser endort le médium et soutire l'éther de son corps vital par la rate, car la différence entre un médium à matérialisation et une personne ordinaire est le fait que le lien entre le corps vital et le corps physique est estrêmement relâché, ce qui donne la possibilité de retirer presque entièrement ce corps vital. Or, le corps vital est le véhicule par lequel les courants solaires qui nous donnent la vitalité sont spécialisés. Privé de son principe vitalisant, le corps du médium, pendant la matérialisation, se réduit quelque fois à la moitié de sa taille; ses chairs deviennent flasques et l'étincelle de vie qui l'anime est presque éteinte. Quand la séance est terminée et que le corps vital est remis en place, le médium se réveille et reprend sa conscience normale. Mais il éprouve une sensation d'épuisement extrême et, malheureusement, il a souvent recours à la boisson pour ranimer sa force vitale. Dans ce cas, naturellement, sa santé est bientôt affectée, et il devient une épave. A tous les points de vue, la médiumnité doit être évitée, car en plus du danger immédiat qu'elle cause au corps physique, il en résulte d'autres conséquences plus graves encore pour les véhicules subtils du médium, particulièrement dans l'après-vie.
 
-### QUESTION 120
+### <h3 id="question-120">Question 120</h3>
 
 Lorsque les médiums font ce qu'ils appellent des envolées d'âme, qu'est-ce qui quitte le corps physique? Celui-ci peut-il rester à l'état de veille pour se souvenir?
 
 RÉPONSE - Un médium est un clairvoyant négatif ou involontaire, sous la domination d'un esprit du Monde du Désir. Il occupe la place de la victime d'un hypnotiseur du Monde Physique. Dans un cas d'hypnotisme, tant que la victime est éveillée, elle peut voir l'hypnotiseur, tandis que le médium ne voit l'esprit qui l'hypnotise que lorsqu'il a été chassé de son propre corps. Il est alors revêtu de son corps du désir, et par conséquent incapable, dans la plupart des cas, de se rappeler ses expériences.
 
-Toutes les expériences du médium ont lieu alors que son corps physique est en état de transe. C'est l'Ego, revêtu de l'intellect et du corps du désir, qui quitte le corps physique, et la même séparation a lieu dans le sommeil ordinaire sans rêves, avec cette différence toutefois, que le corps physique n'est pas laissé inhabité, car l'esprit-contrôle entre habituellement dans le corps physique du médium, en prend possession et s'en sert selon son bon plaisir, bien souvent au détriment du médium. Car si un esprit-contrôle a été un ivrogne ou un libertin pendant sa vie terrestre, il se sert du corps de sa victime pour se livrer à sa passion pour la boisson et satisfaire ses bas instincts. Nous ne saurions trop répéter que le corps physique est notre instrument le plus précieux, et que c'est lui faire un tort immense que de l'abandonner à la merci d'un hypnotiseur ou d'un esprit-contrôle.
+Toutes les expériences du médium ont lieu alors que son corps physique est en état de transe. C'est l'Ego, revêtu de l'intellect et du corps du désir, qui quitte le corps physique, et la même séparation a lieu dans le sommeil ordinaire sans rêves, avec cette différence toutefois, que le corps physique n'est pas laissé inhabité, car l'esprit-contrôle entre habituellement dans le corps physique du médium, en prend possession et s'en sert selon son bon plaisir, bien souvent au détriment du médium. Car si un esprit-contrôle a été un ivrogne ou un libertin pendant sa vie terrestre, il se sert du corps de sa victime pour se livrer à sa passion pour la boisson et satisfaire ses bas instincts. Nous ne saurions trop répéter que le corps physique est notre instrument le plus précieux, et que c'est lui faire un tort immense que de l'abandonner à la merci d'un hypnotiseur ou d'un esprit-contrôle. Les médiums courent un danger encore plus grave, car il peut arriver que l'esprit-contrôle ne soit pas un Ego humain, mais un élémental qui ne peut fonctionner normalement dans le Monde Physique. Lorsque, après sa mort, le médium entre dans le Monde du Désir, l'élémental a pris un tel pouvoir sur son corps du désir qu'il peut le priver de ce véhicule. Or, le corps du désir est le ressort de l'action, et lorsque l'Ego est privé de ce véhicule, il n'y a rien qui le pousse à renaître. L'élémental peut même conserver ce corps pendant des millions d'années, et tandis que le reste de l'humanité évolue, le malheureux Ego, dépouillé de son corps du désir, reste inerte, et sera probablement bien en arrière de ses semblables avant qu'il ne soit affranchi de son esclavage. C'est pourquoi la médiumnité est, pour l'âme, le danger le plus grave que l'auteur connaisse et puisse concevoir, si ce n'est la pratique de la magie noire.
 
-Les médiums courent un danger encore plus grave, car il peut arriver que l'esprit-contrôle ne soit pas un Ego humain, mais un élémental qui ne peut fonctionner normalement dans le Monde Physique. Lorsque, après sa mort, le médium entre dans le Monde du Désir, l'élémental a pris un tel pouvoir sur son corps du désir qu'il peut le priver de ce véhicule. Or, le corps du désir est le ressort de l'action, et lorsque l'Ego est privé de ce véhicule, il n'y a rien qui le pousse à renaître. L'élémental peut même conserver ce corps pendant des millions d'années, et tandis que le reste de l'humanité évolue, le malheureux Ego, dépouillé de son corps du désir, reste inerte, et sera probablement bien en arrière de ses semblables avant qu'il ne soit affranchi de son esclavage. C'est pourquoi la médiumnité est, pour l'âme, le danger le plus grave que l'auteur connaisse et puisse concevoir, si ce n'est la pratique de la magie noire.
-
-### QUESTION 121
+### <h3 id="question-121">Question 121</h3>
 
 J'ai fait bien des envolées d'âme et, dans l'une d'elles, mon guide m'a mené, en passant par les portes d'une ville de cristal, dans un temple rempli d'êtres éthériques qui disaient, "C'est isi la cité sainte de Dieu." Voulez-vous me dire où cette cité est située, pourquoi il y a des portes et des murs autour de la ville et pourquoi tout y semble de cristal?
 
 RÉPONSE - Une des particularités de la subtance-désir, matière du Monde du Désir, est d'être excessivement plastique et facilement modelée par la pensée. En un clin d'oeil, elle prend les formes les plus diverses selon la pensée qui l'anime, et lorsque les pensées d'un grand nombre de personnes suivent la même direction, ces pensées se groupent et forment un ensemble grandiose.
 
-Ainsi, dans les régions inférieures du Monde du Désir, les pensées des gens qui croient à un Enfer embrasé, semblable à une fournaise ardente, font de la substance de ce lieu l'endroit de torture qu'ils imaginent. On peut y voir des démons cornus, aux pieds fourchus, à la queue terminée en lance, piquant les malheureux pécheurs avec leurs fourches. Il arrive souvent que les personnes ayant eu toute leur vie cette conception de l'enfer éprouvent, au moment de la mort, une grande frayeur à contempler cette vision qu'elles ont contribué à créer.
+Ainsi, dans les régions inférieures du Monde du Désir, les pensées des gens qui croient à un Enfer embrasé, semblable à une fournaise ardente, font de la substance de ce lieu l'endroit de torture qu'ils imaginent. On peut y voir des démons cornus, aux pieds fourchus, à la queue terminée en lance, piquant les malheureux pécheurs avec leurs fourches. Il arrive souvent que les personnes ayant eu toute leur vie cette conception de l'enfer éprouvent, au moment de la mort, une grande frayeur à contempler cette vision qu'elles ont contribué à créer. Il y a aussi, dans les régions supérieures du Monde du Désir, une cité telle que celle que vous décrivez, une Nouvelle Jérusalem, avec ses portes de perles, sa mer de verre et son grand trône blanc sur lequel est assis une forme-pensée de Dieu sous l'apparence d'un vieillard. Il est probable que vous avez visité ces lieux et vu ces formes qui subsisteront dans le Monde du Désir tant que les gens se représenteront ainsi la Nouvelle Jérusalem, car ces formes n'ont de vie que celle que leur donnent les pensées entretenues par l'humanité. Lorsqu'à l'avenir celle-ci se sera élevée au-dessus de cette croyance, la cité créée par ses pensées cessera d'exister. L'apparence cristalline de cette cité est due à l'état brillant de la substance-désir dont elle est faite. C'est la raison pour laquelle les anciens alchimistes appelaient le Monde du Désir, monde "astral" ou "étoilé".
 
-Il y a aussi, dans les régions supérieures du Monde du Désir, une cité telle que celle que vous décrivez, une Nouvelle Jérusalem, avec ses portes de perles, sa mer de verre et son grand trône blanc sur lequel est assis une forme-pensée de Dieu sous l'apparence d'un vieillard. Il est probable que vous avez visité ces lieux et vu ces formes qui subsisteront dans le Monde du Désir tant que les gens se représenteront ainsi la Nouvelle Jérusalem, car ces formes n'ont de vie que celle que leur donnent les pensées entretenues par l'humanité. Lorsqu'à l'avenir celle-ci se sera élevée au-dessus de cette croyance, la cité créée par ses pensées cessera d'exister. L'apparence cristalline de cette cité est due à l'état brillant de la substance-désir dont elle est faite. C'est la raison pour laquelle les anciens alchimistes appelaient le Monde du Désir, monde "astral" ou "étoilé".
-
-### QUESTION 122
+### <h3 id="question-122">Question 122</h3>
 
 Les corps du désir quittés par les Egos qui avancent ne servent-ils pas à des élémentals pour tromper les amis et les parents des personnes décédées? Comment peut-on les détecter et les reconnaître?
 
@@ -1597,13 +1661,15 @@ Ce sont ces coques vides, animées par les élémentals, qui expliquent la plupa
 
 Quant à la manière de les détecter ou de les reconnaître, nous savons évidemment que nos parents, nos amis défunts étaient doués de bon sens pendant leur vie terrestre, alors que ces coques vides ne peuvent nous fournir que des banalités n'ayant aucun sens. C'est pourquoi nous pouvons les juger d'après leurs paroles et leurs actes, comme nous le faisons pour les personnes ici- bas.
 
-### QUESTION 123
+### <h3 id="question-123">Question 123</h3>
 
 Les élémentals peuvent-ils affecter la forme d'un animal, d'un reptile, et que peut-on faire pour qu'ils arrêtent de le faire?
 
-RÉPONSE - Dans notre monde matériel, toutes les formes sont stables et ne se modifient pas aisément. A cet égard, le Monde du Désir est tout à fait différent. Les métamorphoses narrées dans les contes de fées, telles les souris de Cendrillon transformées en laquais, ou la citrouille changée en carrosse, sont des faits réels dans le Monde du Désir, car les formes changent avec la rapidité de l'éclair selon la volonté de la vie qui les anime, ce qui désoriente le néophyte entrant dans ce monde. Il est donc nécessaire que le clairvoyant soit instruit afin d'échapper à l'illusion de la forme qui change continuellement et qui prend n'importe quelle configuration n'importe quand. Lorsque nous sommes capables de voir la vie qui anime toute chose, la forme dont elle se vêt n'a dès lors plus d'importance et ne nous abuse plus. Comme tout ce qui appartient au Monde du Désir, les élémentals ont cette faculté de changer de tournure, et c'est à ce fait que sont dus tant de récits ou de visions étranges que le clairvoyant non entraîné accepte comme réels. Rien ne peut empêcher les élémentals de changer de forme, mais nous avons le pouvoir de les chasser, comme nous chassons un chat qui donne une sérénade sous nos fenêtres.
+RÉPONSE - Dans notre monde matériel, toutes les formes sont stables et ne se modifient pas aisément. A cet égard, le Monde du Désir est tout à fait différent. Les métamorphoses narrées dans les contes de fées, telles les souris de Cendrillon transformées en laquais, ou la citrouille changée en carrosse, sont des faits réels dans le Monde du Désir, car les formes changent avec la rapidité de l'éclair selon la volonté de la vie qui les anime, ce qui désoriente le néophyte entrant dans ce monde. Il est donc nécessaire que le clairvoyant soit instruit afin d'échapper à l'illusion de la forme qui change continuellement et qui prend n'importe quelle configuration n'importe quand. Lorsque nous sommes capables de voir la vie qui anime toute chose, la forme dont elle se vêt n'a dès lors plus d'importance et ne nous abuse plus. 
 
-### QUESTION 124
+Comme tout ce qui appartient au Monde du Désir, les élémentals ont cette faculté de changer de tournure, et c'est à ce fait que sont dus tant de récits ou de visions étranges que le clairvoyant non entraîné accepte comme réels. Rien ne peut empêcher les élémentals de changer de forme, mais nous avons le pouvoir de les chasser, comme nous chassons un chat qui donne une sérénade sous nos fenêtres.
+
+### <h3 id="question-124">Question 124</h3>
 
 Comment peut-on éviter d'être obsédé?
 
@@ -1613,7 +1679,7 @@ Il y a un moyen infaillible de savoir si une personne est vraiment obsédée, et
 
 Nulle personne qui garde une attitude d'esprit positive ne peut être obsédée; car tant que nous affirmons notre personnalité, cela est suffisant pour tenir éloignés tous les intrus. Mais dans les séances spirites où les assistants sont passifs, il y a toujours un grand danger d'obsession. Toute personne portée à être négative devrait éviter d'y assister, éviter de fixer une boule de cristal et s'interdire les autres méthodes d'évoquer les esprits. C'est une très mauvaise habitude, car ceux qui ont passé dans l'au-delà ont terminé leur tâche ici-bas, et ne doivent pas y être rappelés.
 
-### QUESTION 125
+### <h3 id="question-125">Question 125</h3>
 
 Qu'est-ce que la psychométrie?
 
@@ -1621,7 +1687,7 @@ RÉPONSE - La science nous enseigne que toute particule de matière du Monde Phy
 
 L'éther qui pénètre chaque objet garde aussi l'image de milieu où il se trouve. Sur les murs des pièces de notre demeure sont inscrits tous les incidents, toutes les scènes qui s'y sont déroulées, et quand bien même nous en changerions les lattes et le plâtre, il pourrait être impossible de se débarrasser de toutes les images qui s'y sont gravées. Si nous portons à une personne douée de la vue éthérique un morceau de plâtre d'une chambre, il est possible à celle-ci de voir l'éther de ce morceau de plâtre et de parler des scènes qui se sont déroulées à cet endroit. Un morceau de pierre provenant des Pyramides d'Egypte les ferait voir à cette personne tout aussi bien que si on lui en présentait des photographies, car c'est l'éther de l'objet même qui impressionne le film d'un appareil photographique; et la seule différence entre cette impression et celle que reçoit notre oeil est que la photographie rend possible la fixation de l'image sur le film, et que nous pouvons regarder la photographie quand bon nous semble, tandis que nous ne sommes pas encore capables, dans les circonstances présentes, de visualiser clairement les scènes de notre passé. Mais le psychomètre, capable de lire l'éther, a une merveilleuse galerie de tableaux à sa disposition.
 
-### QUESTION 126
+### <h3 id="question-126">Question 126</h3>
 
 Est-il vrai que, parfois, au cours de séances spirites, des personnes sont transportées d'un endroit à l'autre par des mains invisibles, que des fleurs sont apportées dans la pièce alors que les fenêtres et les portes sont closes, et s'il en est ainsi, comment cela se produit-il?
 
@@ -1629,7 +1695,7 @@ RÉPONSE - Oui, il est parfaitement vrai que de tels phénomènes ont lieu parfo
 
 L'auteur de la question dira peut-être, "d'accord, mais si vous prenez une pièce d'argent, que vous la fondiez dans un creuset, ou que vous la changiez en gaz, ce n'est pas la forme d'une pièce d'argent qu'elle reprendra lorsqu'elle retournera à l'état métallique, car ce sera une simple masse de métal fondu". Cela est vrai lorsque l'opération est faite par un homme ordinaire, incapable de séparer la matière dense de sa contrepartie éthérique pendant la fusion, mais les entités spirituelles qui accomplissent ces exploits savent comment séparer la partie éthérique de la fleur de la partie dense. Et c'est la partie éthérique qui retient la configuration, et forme la matrice ou le moule qui donne forme à la matière dont la fleur est composée, lorsque cette matière est libérée dans la chambre après avoir passé à travers le mur.
 
-### QUESTION 127
+### <h3 id="question-127">Question 127</h3>
 
 Voulez-vous bien expliquer l'usage de la planchette à écrire et dire s'il est à conseiller d'essayer de produire le phénomène entre amateurs?
 
@@ -1637,17 +1703,15 @@ RÉPONSE - Il s'agit d'une planchette montée sur des roulements à billes et mu
 
 Lorsqu'une entité a quitté cette vie terrestre pour entrer dans l'au-delà invisible, une évolution d'une nature différente de la nôtre l'attend au Purgatoire et dans les différents Ciels. C'est donc pour elle une rétrogradation que d'essayer de communiquer avec nous, dans des circonstances ordinaires. Ainsi, tout phénomène spirite qui ramène l'esprit désincarné en contact avec le Monde Physique est déconseillé comme ayant un effet néfaste sur les esprits ainsi rappelés. D'autre part, les entités communiquant avec nous dans une réunion spirite sont dangereuses pour les assistants passifs qui leur abandonnent, jusqu'à un certain point, leur pouvoir de volonté et leur corps.
 
-Bien entendu, dans cette pratique de la planchette à écrire, le corps n'entre par forcément tout entier en transe, bien que cela arrive quelquefois, mais le bras, tout au moins, est abandonné au contrôle de l'esprit désincarné que le médium ne voit pas et qui est peut-être, mais qui peut aussi ne pas être, ce qu'il prétend. Si un vagabond se présentait à notre porte pour nous persuader de lui abandonner notre maison et de lui permettre d'en prendre possession pendant un moment, nous la lui refuserions avec indignation; mais lorsqu'un vagabond du Monde du Désir nous demande de prendre possession de cette maison bien plus précieuse qu'est notre corps, beaucoup y consentent aussitôt, flattés dans leur conviction qu'un "cher Ange" est venu les visiter. Mais les "chers Anges" ne sont pas plus nombreux dans le Monde du Désir que les philanthropes ici-bas.
+Bien entendu, dans cette pratique de la planchette à écrire, le corps n'entre par forcément tout entier en transe, bien que cela arrive quelquefois, mais le bras, tout au moins, est abandonné au contrôle de l'esprit désincarné que le médium ne voit pas et qui est peut-être, mais qui peut aussi ne pas être, ce qu'il prétend. Si un vagabond se présentait à notre porte pour nous persuader de lui abandonner notre maison et de lui permettre d'en prendre possession pendant un moment, nous la lui refuserions avec indignation; mais lorsqu'un vagabond du Monde du Désir nous demande de prendre possession de cette maison bien plus précieuse qu'est notre corps, beaucoup y consentent aussitôt, flattés dans leur conviction qu'un "cher Ange" est venu les visiter. Mais les "chers Anges" ne sont pas plus nombreux dans le Monde du Désir que les philanthropes ici-bas. On ne saurait trop répéter que la mort n'a pas de pouvoir transformateur; l'ignorant ne devient pas tout à coup un sage parce qu'il a passé de ce monde dans l'autre. De même qu'il est nécessaire d'étudier dans le Monde Physique pour acquérir des connaissances, ainsi les esprits désincarnés doivent s'appliquer, s'ils désirent étudier les conditions du monde dans lequel ils sont entrés, et jusqu'à ce qu'ils aient acquis la somme d'expérience nécessaire, ils ne sont pas plus capables de nous servir de guides là-haut qu'ils ne l'étaient ici-bas. Le plus sûr parti est de se garder de tout phénomène négatif, de concentrer nos énergies à "vivre la vie" et de pratiquer les exercices qui développent en nous la faculté d'entrer à volonté dans ce monde, soit en y voyageant dans nos véhicules subtils, soit en l'observant par la clairvoyance, en restant dans notre corps dense. C'est cela progresser; lorsque nous aurons cette capacité, nous pourrons voir les entités désincarnées face à face, et juger par nous-même s'il est sage ou non d'écouter leurs conseils. Jusque-là, le désavantage est de notre côté, et nous devons nous tenir sur nos gardes.
 
-On ne saurait trop répéter que la mort n'a pas de pouvoir transformateur; l'ignorant ne devient pas tout à coup un sage parce qu'il a passé de ce monde dans l'autre. De même qu'il est nécessaire d'étudier dans le Monde Physique pour acquérir des connaissances, ainsi les esprits désincarnés doivent s'appliquer, s'ils désirent étudier les conditions du monde dans lequel ils sont entrés, et jusqu'à ce qu'ils aient acquis la somme d'expérience nécessaire, ils ne sont pas plus capables de nous servir de guides là-haut qu'ils ne l'étaient ici-bas. Le plus sûr parti est de se garder de tout phénomène négatif, de concentrer nos énergies à "vivre la vie" et de pratiquer les exercices qui développent en nous la faculté d'entrer à volonté dans ce monde, soit en y voyageant dans nos véhicules subtils, soit en l'observant par la clairvoyance, en restant dans notre corps dense. C'est cela progresser; lorsque nous aurons cette capacité, nous pourrons voir les entités désincarnées face à face, et juger par nous-même s'il est sage ou non d'écouter leurs conseils. Jusque-là, le désavantage est de notre côté, et nous devons nous tenir sur nos gardes.
-
-### QUESTION 128
+### <h3 id="question-128">Question 128</h3>
 
 Un vampire est-il la même chose qu'un loup-garou?
 
 RÉPONSE - Non, un vampire est une personne qui absorbe la vitalité d'une autre, tandis que ce qu'on appelait loup-garou, au Moyen Age, était le corps vital d'un magicien noir d'ordre inférieur. Il donnait une forme effrayante à son corps vital qu'il garnissait en partie de matière dense afin de faire du mal à ceux qu'il voulait atteindre. Dans les vieilles légendes, on rappelle qu'il ne servait à rien de frapper des loups-garous, ces coups ne pouvant leur faire de mal, mais si l'on réussissait à ler percer avec un couteau ou quelqu'autre instrument tranchant, ils se mettaient à dégorger le sang de leurs victimes, et se sauvaient précipitamment vers leur demeure en hurlant. Là, on pouvait trouver le magicien qui avait pris la forme d'un loup-garou souffrant d'une blessure à l'endroit même où l'animal avait été frappé. Ceci se produit par une circonstance curieuse que les occultistes appellent répercussion, et le même phénomène peut être observé au cours des séances spirites où des esprits se matérialisent. L'éther dans lequel ces esprits se matérialisent a été soutiré du corps du médium, et si un morceau du vêtement de cet esprit est coupé, un même morceau manquera à celui du médium à la fin de la séance. Des chercheurs sceptiques, ignorant la loi de répercussion, se sont servis de ce fait pour accuser les médiums de fraude, alors qu'ils étaient parfaitement honnêtes, bien qu'incapables d'expliquer l'évidence semblant les accuser.
 
-### QUESTION 129
+### <h3 id="question-129">Question 129</h3>
 
 Quelle est la différence entre un médium à transe, un médium à matérialisation, un clairvoyant exercé et une personne ordinaire?
 
@@ -1661,7 +1725,7 @@ Là où le lien entre le corps vital et le corps dense est relâché au point qu
 
 Lorsqu'une personne de nature négative possède ce relâchement entre le corps vital et le corps dense, les esprits retenus à la terre, et qui cherchent à s'y manifester, peuvent soutirer son corps vital par la rate, se servir temporairement de l'éther dont ce corps est composé pour se matérialiser, et rendre cet éther au médium lorsque la séance spirite est terminée.
 
-### QUESTION 130
+### <h3 id="question-130">Question 130</h3>
 
 Si la médiumnité est si dangereuse, pourquoi les médiums ne cessent-ils pas de permettre qu'on se serve d'eux?
 
@@ -1671,9 +1735,9 @@ L'auteur a connu des cas où des médiums ont voulu se dérober à l'esprit- con
 
 Ainsi, on peut voir qu'une fois entré dans la médiumnité, ce n'est généralement plus pour le médium une question de choix; il a perdu le pouvoir d'interdire l'entrée de son corps aux esprits-contrôles. Tant qu'ils obéissent docilement à leurs oppresseurs, les médiums ne sentent peut-être pas le mors qui leur est appliqué; mais que l'un d'eux tente de se dérober, et il ne tardera pas à se rendre compte que l'esprit-contrôle possède à la fois le mors et les éperons, dont il fait usage impitoyablement. 
 
-## PARTIE 9 - QUESTIONS CONCERNANT LA CLAIRVOYANCE
+<h2 id="section-6">Partie 6 - Questions Concernant la Clairvoynce</h2>
 
-### QUESTION 131
+### <h3 id="question-131">Question 131</h3>
 
 Quelle est la différence entre un Clairvoyant, un Initié et un Adepte?
 
@@ -1693,19 +1757,21 @@ Pour exercer son pouvoir sur les objets et sur les forces du monde invisible en 
 
 Ainsi, le Clairvoyant voit le monde invisible; l'Initié voit le monde invisible et il comprend ce qu'il voit; l'Adepte voit le monde invisible, comprend ce qu'il voit et a pouvoir sur les choses et les forces qui s'y trouvent.
 
-### QUESTION 132
+### <h3 id="question-132">Question 132</h3>
 
 Pourquoi les clairvoyants exercés n'offrent-ils pas de se prêter à quelques expériences simples mais concluantes? Réalisées par des hommes de science, ces expériences convaincraient tout le monde de la réalité de certaines facultés dépassant les organes des sens.
 
 RÉPONSE - En premier lieu, les clairvoyants exercés ne poursuivent aucun but d'intérêt personnel; ils ne se soucient nullement de ce que les gens croient ou ne croient pas. Alors que, pour nous, cela aurait une très grande importance que nous puissions croire, pour le clairvoyant lui-même cela ne fait absolument aucune différence. Jamais le clairvoyant ne recherche l'argent ou toute autre considération de la part de gens convaincus; il ne désire aucun pouvoir temporel, ne fait jamais étalage de ses facultés et ne s'en vante pas. S'ils en parle, ce n'est qu'avec une extrême modestie. S'il accomplit des actes méritoires, en venant en aide à ses semblables, par exemple, il ne tient pas à ce que ces actes soient connus. Et sa main gauche ignore habituellement le bien que fait sa main droite.
 
-Un aveugle ne voit ni la lumière ni les couleurs, bien que celles-ci soient partout présentent autour de lui, et s'il nous demandait de nous soumettre à des épreuves qui lui prouveraient sans doute aucun que nous percevons bien la lumière et les couleurs, nous serions fort embarrassés pour trouver quelles expériences pourraient le convaincre de ces réalités. Il en est de même du clairvoyant exercé qui se demande quelles expériences seraient susceptibles de convaincre tout le monde. On n'a pas encore présenté d'expériences, à ce jour, qui se soient montrées assez concluantes pour ne pas susciter le besoin d'autres explications. Et le malheureux clairvoyant qui se prêterait à de telles exigences devrait les poursuivre sans fin, et des générations de sceptiques continueraient de le traiter d'imposteur. On lui demanderait de se soumettre aux demandes des hommes de science, de chacun en particulier, alors qu'ils ne se fient pas eux-mêmes à leurs propres yeux. Si leur raison leur dit qu'une chose est impossible, ils refusent d'y croire, même lorsqu'on leur démontre le contraire. Les scientifiques sont obligés de se contenter d'expériences faites d'après les lois de la nature, lorsqu'ils se livrent à leurs propres recherches, en chimie par exemple, mais ils s'arrogent le droit de prescrire certaines conditions au clairvoyant quand il s'agit de questions supraphysiques au sujet desquelles ils s'avouent tout à fait ignorants. C'est ainsi que lorsque des médiums requièrent une chambre obscure pour réaliser leurs expériences, les hommes de science de dire, "cela ne prouve-t-il pas que ces médiums ne sont que des imposteurs? Ils veulent une chambre obscure pour qu'on ne puisse voir comment se jouent leurs tours!" Les médiums ne savent habituellement pas pourquoi la chambre doit être obscure, et n'en peuvent donner l'explication, mais une loi est à la base de leur demande.
+Un aveugle ne voit ni la lumière ni les couleurs, bien que celles-ci soient partout présentent autour de lui, et s'il nous demandait de nous soumettre à des épreuves qui lui prouveraient sans doute aucun que nous percevons bien la lumière et les couleurs, nous serions fort embarrassés pour trouver quelles expériences pourraient le convaincre de ces réalités. Il en est de même du clairvoyant exercé qui se demande quelles expériences seraient susceptibles de convaincre tout le monde. On n'a pas encore présenté d'expériences, à ce jour, qui se soient montrées assez concluantes pour ne pas susciter le besoin d'autres explications. Et le malheureux clairvoyant qui se prêterait à de telles exigences devrait les poursuivre sans fin, et des générations de sceptiques continueraient de le traiter d'imposteur. On lui demanderait de se soumettre aux demandes des hommes de science, de chacun en particulier, alors qu'ils ne se fient pas eux-mêmes à leurs propres yeux. Si leur raison leur dit qu'une chose est impossible, ils refusent d'y croire, même lorsqu'on leur démontre le contraire. Les scientifiques sont obligés de se contenter d'expériences faites d'après les lois de la nature, lorsqu'ils se livrent à leurs propres recherches, en chimie par exemple, mais ils s'arrogent le droit de prescrire certaines conditions au clairvoyant quand il s'agit de questions supraphysiques au sujet desquelles ils s'avouent tout à fait ignorants. C'est ainsi que lorsque des médiums requièrent une chambre obscure pour réaliser leurs expériences, les hommes de science de dire, 
+
+"cela ne prouve-t-il pas que ces médiums ne sont que des imposteurs? Ils veulent une chambre obscure pour qu'on ne puisse voir comment se jouent leurs tours!" Les médiums ne savent habituellement pas pourquoi la chambre doit être obscure, et n'en peuvent donner l'explication, mais une loi est à la base de leur demande.
 
 La voici: les rayons de la lumière mettent l'éther en vibration violente, et il est difficile, dans ces conditions, aux entités cherchant à se manifester, de travailler l'éther, de le mouler en un corps, un organe vocal, une main ou toute autre manifestation matérielle. Plus la chambre est sombre, moins l'éther vibre, et plus il est facile à ces entités de s'en servir pour réaliser les phénomènes spirites.
 
-Ily a de nombreuses autres lois à la base des phénomènes supraphysiques dont la science n'a aucune idée, et cette ignorance même disqualifie de prime abord les hommes de science pour prescrire leurs conditions. Cependant, le chemin de la connaissance directe leur reste ouvert. Ils nous disent, "procurez-vous un certain nombre de lentilles, de certaines formes, placez-les dans un tube, d'une certaine manière, dirigez le tout vers le ciel, dans une certaine direction, et vous verrez huit lunes accomplissant leur révolution autour de Saturne". Si nous nous conformons à leurs directives, nous verrons que ce qu'ils nous ont annoncé est bien là, en effet. Mais si nous refusons de nous procurer l'instrument nécessaire, nous ne pouvons pas voir les lunes de Saturne. Nous leur disons donc, "vivez la vie sainte, comme il convient, faites les exercices qui vous permettent de développer en vous la faculté dont nous parlons. Vous verrez alors que ce que nous vous avons dit est la vérité, et vous serez obligés de reconnaître vous-mêmes ce que nous avançons". S'ils refusent de se soumettre à nos directives, ils resteront incrédules au sujet des plans supraphysiques autant que l'homme qui, faute de se procurer un télescope mettrait en doute l'existence des lunes de Saturne, toutes choses dont le clairvoyant entraîné se préoccupe.
+Il y a de nombreuses autres lois à la base des phénomènes supraphysiques dont la science n'a aucune idée, et cette ignorance même disqualifie de prime abord les hommes de science pour prescrire leurs conditions. Cependant, le chemin de la connaissance directe leur reste ouvert. Ils nous disent, "procurez-vous un certain nombre de lentilles, de certaines formes, placez-les dans un tube, d'une certaine manière, dirigez le tout vers le ciel, dans une certaine direction, et vous verrez huit lunes accomplissant leur révolution autour de Saturne". Si nous nous conformons à leurs directives, nous verrons que ce qu'ils nous ont annoncé est bien là, en effet. Mais si nous refusons de nous procurer l'instrument nécessaire, nous ne pouvons pas voir les lunes de Saturne. Nous leur disons donc, "vivez la vie sainte, comme il convient, faites les exercices qui vous permettent de développer en vous la faculté dont nous parlons. Vous verrez alors que ce que nous vous avons dit est la vérité, et vous serez obligés de reconnaître vous-mêmes ce que nous avançons". S'ils refusent de se soumettre à nos directives, ils resteront incrédules au sujet des plans supraphysiques autant que l'homme qui, faute de se procurer un télescope mettrait en doute l'existence des lunes de Saturne, toutes choses dont le clairvoyant entraîné se préoccupe.
 
-### QUESTION 133
+### <h3 id="question-133">Question 133</h3>
 
 Si la clairvoyance est un moyen d'investigation si précis, une faculté si hautement spirituelle, pourquoi est-elle généralement le partage de gens peu instruits, sortant de milieux vulgaires, ayant apparemment peu de spiritualité et qui disent souvent des mensonges?
 
@@ -1719,7 +1785,7 @@ Celui qui développe consciemment ses facultés spirituelles maîtrise la vibrat
 
 Développer la clairvoyance volontaire est une tâche ardue; c'est pourquoi peu de gens possèdent cette faculté, tandis que la clairvoyance négative est, malheureusement, développée par de nombreuses personnes qui n'ont pas d'idéals élevés pour les empêcher de prostituer leur faculté pour de l'argent.
 
-### QUESTION 134
+### <h3 id="question-134">Question 134</h3>
 
 Qu'entend-on par initiation? Pourquoi les Initiés sont-ils tous des hommes?
 
@@ -1727,17 +1793,15 @@ RÉPONSE - L'initiation est, en général, considérée comme une admission dans
 
 Lorsqu'une personne s'est efforcée de vivre la vie supérieure pendant un certain temps, a purifié ses véhicules par ses efforts mentaux, moraux et physiques, elle émet une lumière dans le monde invisible, et accumule un pouvoir intérieur. Il arrive un moment où ce pouvoir doit trouver une issue. Alors, dans sa vie apparaît un instructeur qui lui montre le pouvoir qu'elle a cultivé, souvent inconsciemment, et lui en indique l'usage. Cette démonstration s'appelle initiation. Elle peut avoir lieu ou non dans un temple; elle peut être accompagnée ou non d'une cérémonie. Mais qu'il soit bien compris qu'aucune cérémonie ne peut donner à l'aspirant les pouvoirs dont l'initiation lui enseigne l'usage, pas plus que la détente de la gâchette d'un pistolet non chargé ne peut produire une explosion. La cérémonie n'a d'autre valeur que d'être le couronnement de la vie du disciple.
 
-Il est donc évident que l'initiation est le résultat infaillible du mérite. Elle n'est jamais vendue pour de l'argent, bien qu'il ne manque pas de charlatans sans scrupules offrant d'initier tout venant dans les arts occultes - auxquels ils ne connaissent rien eux-mêmes - pas plus qu'il ne manque de gens crédules assez fous pour s'y laisser prendre, et de personnes malhonnêtes qui espèrent ainsi obtenir un pouvoir néfaste sur leurs semblables. Simon, le sorcier, (Actes 8:20-23), a encouru le blâme sévère de Pierre lorsqu'il tenta d'acheter à prix d'or son pouvoir spirituel; on peut donc se demander quelle juste condamnation attend ceux qui offrent comme une denrée commerciale une marchandise que, dans la nature des choses, ils sont incapables de fournir.
+Il est donc évident que l'initiation est le résultat infaillible du mérite. Elle n'est jamais vendue pour de l'argent, bien qu'il ne manque pas de charlatans sans scrupules offrant d'initier tout venant dans les arts occultes - auxquels ils ne connaissent rien eux-mêmes - pas plus qu'il ne manque de gens crédules assez fous pour s'y laisser prendre, et de personnes malhonnêtes qui espèrent ainsi obtenir un pouvoir néfaste sur leurs semblables. Simon, le sorcier, (Actes 8:20-23), a encouru le blâme sévère de Pierre lorsqu'il tenta d'acheter à prix d'or son pouvoir spirituel; on peut donc se demander quelle juste condamnation attend ceux qui offrent comme une denrée commerciale une marchandise que, dans la nature des choses, ils sont incapables de fournir. L'auteur de la question se méprend lorsqu'il croit que seuls les hommes sont initiés, du moins en ce qui concerne les Mystères Mineurs. Il y a des femmes qui sont initiées, et parfois même les Initiés des Mystères Majeurs prennent un corps féminin dans le but d'accomplir une certaine tâche. Il est vrai, cependant, que ceux qui sont assez avancés pour avoir le choix en ce qui concerne le sexe préfèrent un corps masculin, et la raison en est facile à comprendre. La femme, ayant un corps vital positif et un corps dense négatif, se trouve quelque peu désavantagée dans le monde tel qu'il est constitué à présent. En luttant pour des idéals supérieurs et en vivant la vie supérieure, nous spiritualisons le corps vital et le transmuons en âme qui est toujours positive, elle - c'est là un pouvoir qui n'a rien à voir avec le sexe - et lorsque l'Initié a aussi un corps physique masculin, il est entièrement positif dans le Monde Physique, et il a plus de chances d'avancement qu'en utilisant un corps féminin.
 
-L'auteur de la question se méprend lorsqu'il croit que seuls les hommes sont initiés, du moins en ce qui concerne les Mystères Mineurs. Il y a des femmes qui sont initiées, et parfois même les Initiés des Mystères Majeurs prennent un corps féminin dans le but d'accomplir une certaine tâche. Il est vrai, cependant, que ceux qui sont assez avancés pour avoir le choix en ce qui concerne le sexe préfèrent un corps masculin, et la raison en est facile à comprendre. La femme, ayant un corps vital positif et un corps dense négatif, se trouve quelque peu désavantagée dans le monde tel qu'il est constitué à présent. En luttant pour des idéals supérieurs et en vivant la vie supérieure, nous spiritualisons le corps vital et le transmuons en âme qui est toujours positive, elle - c'est là un pouvoir qui n'a rien à voir avec le sexe - et lorsque l'Initié a aussi un corps physique masculin, il est entièrement positif dans le Monde Physique, et il a plus de chances d'avancement qu'en utilisant un corps féminin.
-
-### QUESTION 135
+### <h3 id="question-135">Question 135</h3>
 
 N'est-ce pas le devoir de celui qui est instruit sur les sujets concernant la vie supérieure d'instruire et d'aider ceux qui le sont moins?
 
 RÉPONSE - Certainement. Le savoir est l'une des choses que nous pouvons donner tout en le conservant nous-même. En fait, lorsque nous aidons les autres en leur faisant partager nos connaissances, nous nous rendons service à nous- mêmes, en augmentant notre savoir. Car on ne sait vraiment une chose que lorsqu'on l'a dite et expliquée à d'autres, et n'oublions pas que, quelles que soient les connaissances que nous ayons, elles ne sont pas notre propriété exclusive, mais doivent servir au bien universel. Si nous les conservons égoïstement et refusons d'éclairer autrui, nous arriverons au même résultat qu'en continuant à manger, alors que l'élimination ne se fait pas convenablement. Il viendra un moment où nous ne pourrons plus manger et deviendrons malade. Il en est de même de ceux qui ont acquis des connaissances concernant les choses de la vie supérieure. Lorsqu'ils les accumulent au lieu d'en faire bénéficier autrui, ils sont portés à vivre en reclus et peuvent en perdre la raison.
 
-### QUESTION 136
+### <h3 id="question-136">Question 136</h3>
 
 Quelles sont les qualifications nécessaires pour devenir un Aide Invisible? La vie entière doit-elle être consacrées aux efforts spirituels?
 
@@ -1749,7 +1813,7 @@ La connaissance est une autre qualité demandée à l'aspirant. A moins d'avoir 
 
 La dernière qualité, non des moindres, requise d'un Aide Invisible, est qu'il doit être pénétré d'un amour qui englobe l'humanité tout entière. Nous ne pouvons pas être insensible aux souffrances de nos semblables ici-bas, et simultanément être rempli d'amour et du désir d'aider dans l'autre monde, pas plus que celui qui ne connaît pas une note de musique n'est capable de devenir, par le seul fait de la mort, un musicien remarquable ou d'acquérir une telle passion de la musique qu'il désire passer l'éternité à souffler dans une trompette ou à pincer de la harpe. En conclusion, nous répétons que, pour devenir un Aide Invisible dans l'au-delà, nous devons d'abord nous qualifier en aidant ici-bas.
 
-### QUESTION 137
+### <h3 id="question-137">Question 137</h3>
 
 A quoi sert-il de sortir de son corps?
 
@@ -1757,7 +1821,7 @@ RÉPONSE - Au degré actuel de notre évolution, la plupart des humains sont li�
 
 Le but cherché en sortant de notre corps est d'acquérir une plus grande connaissance. Mais cette connaissance n'est que le moyen de parvenir à une fin, qui est d'aider les autres dans leur avancement. C'est pourquoi ceux qui sont capables de quitter leur corps physique sont connus sous le nom d'Aides Invisibles. Leur tâche consiste à aider les vivants et les morts selon leurs aptitudes.
 
-### QUESTION 138
+### <h3 id="question-138">Question 138</h3>
 
 Est-il absolument nécessaire de vivre une vie d'ascétisme pour se développer spirituellement et pour acquérir des pouvoirs psychiques?
 
@@ -1769,7 +1833,7 @@ Mais d'autres personnes entendent par ascétisme, "une vie propre et pure". Elle
 
 Cela ne peut se faire. Nos corps sont nos outils. Un bon ouvrier apprécie la valeur de bons outils et il les garde en parfaite condition, aiguisés et propres. Lorsque nos sens ont été émoussés par l'alcool et le tabac, que l'organisme est obligé de déployer toute son énergie pour digérer ou éliminer une nourriture grossière, peut-on s'attendre à devenir "un sensitif"? On ne peut servir Dieu et Mammon. Si nous désirons des pouvoirs spirituels, nous devons payer le prix de vies propres, donner à notre corps une nourriture pure et nous conformer aux règles d'une vie simple; nous devons nous abstenir de tout ce qui émousse les sens: alcool, tabac et abus similaires. Si c'est là ce qu'on appelle une "vie d'ascétisme", alors l'ascétisme est absolument nécessaire.
 
-### QUESTION 139
+### <h3 id="question-139">Question 139</h3>
 
 Les enfants sont-ils tous clairvoyants jusqu'à un certain âge?
 
@@ -1785,7 +1849,7 @@ Il eut beau protester de son innocence, supplier qu'on lui permît d'aller s'occ
 
 On montra à l'enfant des photographies mêlées avec celles de M. Roberts et de sa femme. M. Roberts avait beaucoup changé depuis que sa photographie avait été prise. Néanmoins, l'enfant, lorsqu'elle la vit, s'écria joyeusement: "voilà papa!" Elle reconnut aussi la photographie de celle qui avait été sa mère dans sa précédente existence. La petite fille n'avait que trois ans environ lorsque M. Roberts l'avait retrouvée et elle n'aurait certainement pas pu inventer une telle histoire. Plus tard, un des grands journaux de la Californie, le "Los Angeles Times", fit une enquête sur ce cas et les faits furent confirmés, tels que nous les avons rapportés ici.
 
-### QUESTION 140
+### <h3 id="question-140">Question 140</h3>
 
 Quelle est la différence entre la magie blanche et la magie noire, et quel effet la pratique de la magie noire a-elle sur l'âme?
 
@@ -1795,7 +1859,7 @@ Il se peut que le magicien noir puisse, grâce à ses connaissance et à son art
 
 La magie noire, dans ses formes mineures, telles que l'hypnotisme, par exemple, cause parfois l'idiotie congénitale dans une vie ultérieure. L'hypnotiseur prive ses victimes du libre usage de leur corps. De par la loi de conséquence, il est alors lié à un corps dont le cerveau mal conformé l'empêche de s'exprimer. Il ne faut pas en déduire, cependant, que tous les cas d'idiotie congénitale sont dus à des pratiques illicites de la part de l'Ego dans une vie passée; il y a aussi d'autres causes susceptibles de provoquer cette infirmité.
 
-### QUESTION 141
+### <h3 id="question-141">Question 141</h3>
 
 Vous parlez des écoles d'occultisme orientale et occidentale. L'école occidentale n'est-elle pas la meilleure et si oui, pourquoi?
 
@@ -1803,13 +1867,15 @@ RÉPONSE - Il y a actuellement sur terre plusieurs races différentes. Les Hindo
 
 Il y a, bien entendu, quelques Orientaux qui sont très avancés dans les enseignements de leur école, mais on atteint généralement un degré correspondant par la méthode occidentale dans un temps plus court et avec moins d'efforts.
 
-### QUESTION 142
+### <h3 id="question-142">Question 142</h3>
 
 Quelle différence y a-t-il entre la vue éthérique, la clairvoyance et la vue appartenant au Monde de la Pensée?
 
-RÉPONSE - Lorsqu'une personne douée de la vue éthérique regarde un homme, elle voit d'abord ses vêtements extérieurs, ensuite leur doublure, puis les sous- vêtements, la peau, les côtes frontales, les différents organes du corps qui se trouvent dans le champ de sa vision; puis la colonne vertébrale, les côtes dorsales, la chair, la peau et le dos des vêtements. En d'autres termes, elle voit à travers lui. La vue éthérique permet de voir à travers les livres, les papiers, les murs, ou tout ce qui se trouve placé à une courte distance. En fait, cette faculté peut être appelée «vue rayons X». Une seule substance est impénétrable à la vision éthérique: le verre, qui lui est aussi opaque qu'un mur de pierre l'est à la vue physique ordinaire, probablement pour la même raison qui fait que cette substance est un puissant isolant pour l'électricité. Lorsqu'un clairvoyant regarde une personne, il voit son corps du désir ainsi que les contreparties intérieure et extérieure - chaque particule en même temps - de ses autres véhicules subtils. Il est plutôt difficile de lire un livre ou même une lettre avec la vue éthérique, parce qu'il faut regarder à travers d'autres pages qui brouillent celle que l'on désire lire. Mais au clairvoyant ordinaire il semble que le livre ou la lettre sont ouverts, de sorte qu'il peut lire n'importe quel passage ou page sans avoir à regarder à travers une autre partie du livre. Mais lorsqu'on regarde un objet en se servant de la vue appartenant aux quatre régions inférieures du Monde de la Pensée, et l'auteur n'a pas une connaissance personnelle des régions plus élevées, on trouve, au lieu de formes, des espaces vides ou des moules, qui nous parlent et nous donnent des détails sur eux-mêmes. La nécessité de faire des investigations est éliminée de ce monde. Là nous savons sur-le-champ tout ce qui concerne l'objet sur lequel se porte notre attention. Il y a cependant un curieux inconvénient à la connaissance acquise de cette manière; elle apparaît toute entière à la fois. La somme de cette connaissance est un tout, et n'a ni commencement ni fin. Aussi est-ce une tâche herculéenne que de la développer en un concept ordonné, séquentiel, compréhensible aux autres, et à nous-mêmes.
+RÉPONSE - Lorsqu'une personne douée de la vue éthérique regarde un homme, elle voit d'abord ses vêtements extérieurs, ensuite leur doublure, puis les sous- vêtements, la peau, les côtes frontales, les différents organes du corps qui se trouvent dans le champ de sa vision; puis la colonne vertébrale, les côtes dorsales, la chair, la peau et le dos des vêtements. En d'autres termes, elle voit à travers lui. La vue éthérique permet de voir à travers les livres, les papiers, les murs, ou tout ce qui se trouve placé à une courte distance. En fait, cette faculté peut être appelée «vue rayons X». Une seule substance est impénétrable à la vision éthérique: le verre, qui lui est aussi opaque qu'un mur de pierre l'est à la vue physique ordinaire, probablement pour la même raison qui fait que cette substance est un puissant isolant pour l'électricité. 
 
-### QUESTION 143
+Lorsqu'un clairvoyant regarde une personne, il voit son corps du désir ainsi que les contreparties intérieure et extérieure - chaque particule en même temps - de ses autres véhicules subtils. Il est plutôt difficile de lire un livre ou même une lettre avec la vue éthérique, parce qu'il faut regarder à travers d'autres pages qui brouillent celle que l'on désire lire. Mais au clairvoyant ordinaire il semble que le livre ou la lettre sont ouverts, de sorte qu'il peut lire n'importe quel passage ou page sans avoir à regarder à travers une autre partie du livre. Mais lorsqu'on regarde un objet en se servant de la vue appartenant aux quatre régions inférieures du Monde de la Pensée, et l'auteur n'a pas une connaissance personnelle des régions plus élevées, on trouve, au lieu de formes, des espaces vides ou des moules, qui nous parlent et nous donnent des détails sur eux-mêmes. La nécessité de faire des investigations est éliminée de ce monde. Là nous savons sur-le-champ tout ce qui concerne l'objet sur lequel se porte notre attention. Il y a cependant un curieux inconvénient à la connaissance acquise de cette manière; elle apparaît toute entière à la fois. La somme de cette connaissance est un tout, et n'a ni commencement ni fin. Aussi est-ce une tâche herculéenne que de la développer en un concept ordonné, séquentiel, compréhensible aux autres, et à nous-mêmes.
+
+### <h3 id="question-143">Question 143</h3>
 
 Est-il bon pour une personne très faible nerveusement de suivre l'entraînement occulte donné par les Rosicruciens, ou est-il nécessaire que cette personne recouvre d'abord la santé? Peut-on recouvrer la santé grâce à un entraînement occulte?
 
@@ -1819,7 +1885,7 @@ Si une personne d'un tempérament nerveux s'efforce de faire calmement et tranqu
 
 L'attitude d'un chat, guettant le trou d'une souris fournit une excellente illustration de la détente. Il est assis dans une position parfaitement aisée; calmement, tranquillement il attend que la souris apparaisse. Aucune énergie n'est dissipée en inquiétude ou en anxiété. Il persiste tranquillement, ayant foi que tôt ou tard, l'occasion se présentera. Toute sa force est réservée pour le moment suprême où il bondira pour saisir sa proie. Si l'élève détend complètement ses muscles, passe en revue calmement et tranquillement les évènements de la journée durant l'exercice du soir, et se concentre sur un idéal élevé pendant l'exercice du matin, sa nervosité disparaîtra graduellement, et un jour, l'occasion se présentera: sa vision spirituelle s'épanouira.
 
-### QUESTION 144
+### <h3 id="question-144">Question 144</h3>
 
 Un corps sain étant nécessaire à l'épanouissement spirituel, que peuvent offrir les enseignements Rosicruciens à celui dont la condition physique laisse à désirer? Une santé parfaite sera-t-elle un résultat de l'étude de cette philosophie, et si l'enseignement est mis en pratique tend-il à garder une personne en bonne santé?
 
@@ -1831,7 +1897,7 @@ Lorsque nous étudions les hautes philosophies, que nous vivons la vie qu'elles 
 
 Il est des cas, cependant, où une maladie est nécessaire pour apporter au corps certains changements, précurseurs d'un plus haut degré d'épanouissement spirituel. Dans ces conditions, bien entendu, la maladie est une bénédiction et non une malédiction. D'une manière générale, on peut dire que l'étude de la haute philosophie tendra toujours à améliorer la santé, car "savoir c'est pouvoir", et plus nos connaissances sont nombreuses, plus nous sommes capables de nous mesurer avec toutes les circonstances qui se présentent, pourvu, bien entendu, que nous mettions notre savoir en pratique, que nous vivions la vie, que nous ne nous bornions pas à écouter, mais que nous agissions, car un enseignement ne nous sert à rien si nous ne l'incorporons pas à notre vie et ne le vivons pas jour après jour.
 
-### QUESTION 145
+### <h3 id="question-145">Question 145</h3>
 
 De quelle manière la clairvoyance nous aidera-t-elle après la mort, si nous l'avons cultivée dans cette vie?
 
@@ -1839,7 +1905,7 @@ RÉPONSE - De plusieurs manières. D'abord, bien des gens ont une grande crainte
 
 Il arrive parfois qu'une personne ayant cultivé la clairvoyance pendant sa vie terrestre soit tourmentée, elle aussi, à sa première entrée dans le Monde Invisible, par diverses entités élémentales qui prennent les formes les plus hideuses. Reconnaissant dans le néophyte un futur maître possible, elles cherchent à l'intimider et à le détourner de ses desseins, mais, comme il est généralement aidé par un instructeur qui lui enseigne que ces entités n'ont aucun pouvoir sur lui, il domine bientôt sa crainte. Lorsqu'à la mort il quitte son corps et entre dans le Monde Invisible, il est déjà familiarisé avec la plupart des spectacles et des scènes de ce monde; et surtout aucune crainte ne l'entrave plus.
 
-### QUESTION 146
+### <h3 id="question-146">Question 146</h3>
 
 La contemplation du Dieu intérieur, effectuée d'une façon persistante, aide-t-elle à la croissance spirituelle et mène-t-elle à l'état d'adepte?
 
@@ -1849,11 +1915,14 @@ Quelques personnes, malheureusement, se croient autorisées à laisser leurs dev
 
 Les pays d'Extrême-Orient illustrent, par un exemple affreux, les mauvais résultats que donne la négligence des devoirs matériels pour la poursuite fallacieuse de ce que l'on imagine être des pouvoirs spirituels. Là, les gens émacient et déforment leur corps par des pratiques telles que celle qui consiste à tenir son bras levé au-dessus de la tête jusqu'à ce qu'il se dessèche. Il n'y a de vraie spiritualité que celle qui aide le monde entier. Ce qui ne tend pas à élever l'humanité tout entière n'élèvera jamais personne. Un désir ardent et profond d'aider au bien commun est la seule chose qui puisse justifier un surcroît d'efforts apportés à la culture des pouvoirs spirituels. Que penser d'une mère qui fréquenterait les réunions où l'on discute la question des meilleurs soins à donner aux enfants, alors que les siens sont laissés à l'abandon dans une maison en désordre? De telles histoires ne sont pas de simples plaisanteries; elles contiennent une plus grande part de vérité que d'invraisemblance. Et ceux qui discourent sur la spiritualité, désirant contempler l'ange intérieur, et qui négligent leur famille et leurs devoirs immédiats ont des points communs avec de telles mères. Plus tôt nous nous éveillerons à la compréhension du fait qu'aucun devoir présent, si humble soit-il, ne peut être négligé avec impunité pour un travail spirituel, même exaltant, mieux cela vaudra pour nous et mieux s'en trouveront ceux qui nous entourent. Nous conseillons à notre correspondant de lire le poème de Longfellow, "La Belle Légende" ("Enseignement d'un Initié", chapitre 3). Il est très adapté à la situation: Un moine en prière est agenouillé sur le carreau de sa cellule lorsqu'une adorable vision du Christ paraît devant ses yeux, cela juste au moment où la cloche de midi l'appelle à la porte où les pauvres attendent les aumônes qui leur sont distribuées chaque jour à cette heure. Une question vient alors à l'esprit du moine: dois-je rester pour m'entretenir avec mon Visiteur Béni? ou faut-il que je Le quitte pour quelques mendiants affamés? Une voix intérieure lui dit:
 
-"Fais ton devoir, cela vaut mieux. Pour le reste, remets-t'en à Dieu."
+```
+"Fais ton devoir, cela vaut mieux. 
+Pour le reste, remets-t'en à Dieu."
+```
 
 Il suit le conseil de cette voix, laissant la Vision dans la cellule en se demandant si elle sera encore là à son retour. Il sent pourtant qu'il a raison de faire son devoir vis-à-vis d'autrui, sans tenir compte d'une perte éventuelle pour lui, et lorsqu'après avoir distribué les aumônes aux pauvres il retourne à sa cellule, la Vision l'accueille par ces mots, "Serais-tu resté, j'aurais dû partir".
 
-### QUESTION 147
+### <h3 id="question-147">Question 147</h3>
 
 Ne dit-on pas que certaines personnes ont développé le pouvoir spirituel, appelé clairvoyance, sixième sens, ou tel autre nom qu'on veut bien lui donner, en vivant une vie pure, en harmonie avec les lois de la nature? Les enseignements des occultistes modernes, avec leurs nombreux termes techniques, n'ont-ils pas tendance à créer de la confusion plutôt que d'apporter le résultat désiré?
 
@@ -1867,7 +1936,7 @@ L'art vrai est aussi éducatif que la science, et nous élève, par son influenc
 
 Rien de moins qu'un enseignement qui embrasse tous ces sujets ne saurait répondre aux besoins d'une large catégorie d'humains dont le nombre va croissant, et c'est pourquoi une religion à la fois technique et dévotionnelle est absolument nécessaire à notre époque.
 
-### QUESTION 148
+### <h3 id="question-148">Question 148</h3>
 
 Est-il possible de développer la clairvoyance en usant de drogues, en fixant une boule de cristal ou par des exercices respiratoires, et ces méthodes n'amènent-elles pas des résultats plus rapides que celles que vous recommandez?
 
@@ -1877,25 +1946,43 @@ Si un homme apprend à maîtriser un cheval non dressé, il peut en maîtriser d
 
 De plus, il y a différentes sortes de clairvoyants. Il y en a qui ont une faculté telle, que le clairvoyant peut être comparé à un prisonnier assis dans sa cellule derrière les barreaux. De là, il voit un certain paysage; il ne peut échapper à ce qui vient dans son champ visuel, car il ne peut détourner les yeux. Devant sa fenêtre se trouvent aussi des volets qu'il ne peut pas manoeuvrer. Ainsi, tant que ces volets sont ouverts, il est obligé de voir ce qui se passe de l'autre côté de la fenêtre, que le spectacle lui plaise ou non. Une faculté de cette nature est souvent une vraie malédiction, car les scènes les plus horribles passent quelquefois devant les yeux de tels clairvoyants. L'auteur se rappelle le cas d'un certain conférencier qui possédait cette sorte de clairvoyance. Un jour où il faisait une conférence, pendant la guerre des Philippines, une horrible scène de bataille se présenta devant ses yeux. Une rencontre avait lieu à ce moment même entre les Philippins et les Américains; il voyait des chevaux éventrés, des Américains taillés en pièces par les bolos des indigènes. Dans l'impossibilité d'écarter cette vision, il devint d'une pâleur mortelle, mais, par le pouvoir de sa volonté il vint à bout de sa conférence sans attirer l'attention de ses auditeurs sur son propre désarroi.
 
-Il y a d'autres clairvoyants qui n'ont qu'une maîtrise partielle de leur faculté et qui ne peuvent compter sur ce pouvoir en tout temps. C'est à cette classe qu'appartient le médium ordinaire qui prostitue sa clairvoyance pour de l'argent. De temps à autre, lorsque le courant passe, le médium peut donner d'excellents renseignements et dire la vérité, mais à d'autres moments, lorsque le courant ne passe pas, il peut être tenté d'assurer son gagne-pain et ses frais courants en simulant. Le seul moyen sûr de cultiver la faculté de clairvoyance est de faire les exercices enseignés dans les Ecoles des Mystères, mais ces exercices et leçons destinés au développement des facultés supérieures ne sont jamais vendus à prix d'or ou pour des considérations matérielles. Ils sont toujours donnés en récompense au mérite. Celui qui possède la faculté de clairvoyance positive, cultivée par cette méthode, ne connaît pas de jours de défaillance; cependant, il ne consentira jamais à employer cette faculté pour satisfaire la curiosité, pour des expériences, ou autre but frivole. Il oriente toute son énergie pour aider à élever l'humanité.
+Il y a d'autres clairvoyants qui n'ont qu'une maîtrise partielle de leur faculté et qui ne peuvent compter sur ce pouvoir en tout temps. C'est à cette classe qu'appartient le médium ordinaire qui prostitue sa clairvoyance pour de l'argent. De temps à autre, lorsque le courant passe, le médium peut donner d'excellents renseignements et dire la vérité, mais à d'autres moments, lorsque le courant ne passe pas, il peut être tenté d'assurer son gagne-pain et ses frais courants en simulant. 
 
-### QUESTION 149
+Le seul moyen sûr de cultiver la faculté de clairvoyance est de faire les exercices enseignés dans les Ecoles des Mystères, mais ces exercices et leçons destinés au développement des facultés supérieures ne sont jamais vendus à prix d'or ou pour des considérations matérielles. Ils sont toujours donnés en récompense au mérite. Celui qui possède la faculté de clairvoyance positive, cultivée par cette méthode, ne connaît pas de jours de défaillance; cependant, il ne consentira jamais à employer cette faculté pour satisfaire la curiosité, pour des expériences, ou autre but frivole. Il oriente toute son énergie pour aider à élever l'humanité.
+
+### <h3 id="question-149">Question 149</h3>
 
 Quel est le meilleur moment de la matinée pour la concentration?
 
-RÉPONSE - Le but des exercices, aussi bien celui du matin que celui du soir, est d'amener l'élève en contact conscient avec les mondes invisibles, et il n'y a pas de meilleur moment pour cela que le réveil, car durant la nuit l'esprit se retire du corps dense pour entrer dans les mondes invisibles, laissant le corps physique endormi sur le lit; et c'est le retour de l'esprit, le matin, qui cause le réveil du corps et concentre la conscience sur le monde matériel au moyen des organes des sens.
+RÉPONSE - Le but des exercices, aussi bien celui du matin que celui du soir, est d'amener l'élève en contact conscient avec les mondes invisibles, et il n'y a pas de meilleur moment pour cela que le réveil, car durant la nuit l'esprit se retire du corps dense pour entrer dans les mondes invisibles, laissant le corps physique endormi sur le lit; et c'est le retour de l'esprit, le matin, qui cause le réveil du corps et concentre la conscience sur le monde matériel au moyen des organes des sens. Dans sa magnifique "Ode à l'Immortalité" Wordsworth dit:
 
-Dans sa magnifique "Ode à l'Immortalité" Wordsworth dit:
+```
+"La naissance n'est qu'un sommeil et qu'un oubli, 
+Et l'Ame qui se lève avec nous, cette Etoile de notre vie, 
+A eu son coucher ailleurs, et revient de loin, 
+Non pas dans un oubli entier, ni une nudité complète, 
+Mais portant des nuages de gloire; nous venons bien 
+De Dieu qui est notre maison.
 
-"La naissance n'est qu'un sommeil et qu'un oubli, Et l'Ame qui se lève avec nous, cette Etoile de notre vie, A eu son coucher ailleurs, et revient de loin, Non pas dans un oubli entier, ni une nudité complète, Mais portant des nuages de gloire; nous venons bien De Dieu qui est notre maison.
+Le ciel est tout autour de nous dans notre enfance! 
+Les ombres d'une prison commencent à se refermer 
+Sur le Garçon qui grandit, 
+Mais Il voit la lumière et d'où elle se déverse, 
+Il la voit, dans sa joie. 
 
-Le ciel est tout autour de nous dans notre enfance! Les ombres d'une prison commencent à se refermer Sur le Garçon qui grandit, Mais Il voit la lumière et d'où elle se déverse, Il la voit, dans sa joie. L'Adolescent qui, chaque jour s'éloignant de l'Est Doit voyager, est cependant encore Prêtre de la Nature, Et la vision splendide l'accompagne sur sa route. Avec le temps enfin, l'Homme la voit mourir, Et disparaître dans la lumière d'un jour ordinaire."
+L'Adolescent qui, chaque jour s'éloignant de l'Est 
+Doit voyager, est cependant encore 
+Prêtre de la Nature, 
+Et la vision splendide l'accompagne sur sa route. 
+Avec le temps enfin, l'Homme la voit mourir, 
+Et disparaître dans la lumière d'un jour ordinaire."
+```
 
 Comme le chante le poète, les Mondes Intérieurs sont le plus près de nous dans notre enfance, car c'est le matin de la vie, et il en est de même pour nous; lorsque nous nous éveillons le matin, nous sommes en contact plus étroit qu'à tout autre moment du jour avec les Mondes Spirituels, et il nous est alors très facile d'y retourner. C'est pourquoi l'élève doit commencer ses exercices au moment même où il s'éveille, sans laisser à son esprit le temps de se fixer sur autre chose. Relâchant complètement tous les muscles de son corps, il fixera son esprit sur un idéal élevé, ou sur les cinq premiers versets de l'Evangile de Jean, phrase après phrase ou dans leur ensemble. Cela le mettra en contact avec les vibrations cosmiques. Il doit laisser les sens en repos de façon à ne rien entendre, à ne rien voir dans sa chambre. Lorsqu'il y sera parvenu, les scènes du Monde du Désir se présenteront d'elles-mêmes à sa vision intérieure; d'abord par intermittence, ensuite de plus en plus clairement, car la pratique rend la vision parfaite.
 
 Mais, pour la plupart l'exercice du soir est plus important et amènera probablement des résultats plus rapides, parce qu'il agit directement sur la vie que nous menons et nous ennoblit d'une manière que l'exercice du matin ne peut réussir.
 
-### QUESTION 150
+### <h3 id="question-150">Question 150</h3>
 
 Il m'est difficile de passer en revue les évènements du jour en ordre inverse au cours de l'exercice du soir. Est-ce absolument nécessaire et si oui, pourquoi?
 
@@ -1903,7 +1990,7 @@ RÉPONSE - Dans l'exercice du soir, l'étudiant revoit les évènements et juge 
 
 Il est de notre devoir de chercher cette cause et d'analyser la raison qui conduit à chaque développement, afin que nous puissions savoir, à l'avenir, comment tirer parti des occasions pour notre croissance de l'âme, et éviter le mal. Ainsi, en revivant l'expérience quotidienne en ordre inverse, nous profitons immédiatement des expériences faites, au lieu d'attendre que nous ayons quitté cette vie et soyons forcés de récolter au Purgatoire et au Premier Ciel le fruit de nos actions.
 
-### QUESTION 151
+### <h3 id="question-151">Question 151</h3>
 
 Quelle est la valeur des exercices respiratoires pour le développement du corps et de l'intellect?
 
@@ -1913,11 +2000,27 @@ Chaque être humain est un individu et a besoin d'exercices individuels. Les exe
 
 La raison en est évidente: une personne qui exerce à volonté la faculté de clairvoyance possède un pouvoir énorme qui, s'il est mal utilisé, peut faire plus de mal qu'aucune arme terrestre. Il pourrait causer la panique sur les marchés mondiaux, amener la guerre et la discorde entre les nations, et le possesseur de ce pouvoir deviendrait ainsi un fléau pour la société, s'il aspirait à autre chose qu'au bien. Les puissances qui sont derrière l'évolution, les Frères Aînés de l'humanité qui ont développé ces pouvoirs et sont capables de les enseigner, prennent un soin extrême que nul n'y parvienne s'il n'a donné des preuves d'altruisme et s'il n'est lié par des voeux et des restrictions. C'est pourquoi nul ne devrait entreprendre des exercices respiratoires à moins qu'ils ne soient prescrits par un véritable instructeur, et il n'est pas nécessaire non plus de courir le monde à la recherche d'un tel instructeur. L'aspirant doit avant tout s'efforcer de faire le bien et d'utiliser les facultés qu'il possède dans le milieu où il se trouve, car c'est là le seul moyen d'arriver à un pouvoir plus élevé. Lorsqu'il s'y sera préparé suffisamment, l'instructeur apparaîtra dans sa vie, et l'aspirant n'aura aucun doute sur l'authenticité de l'enseignement qui lui sera alors donné. A ce sujet, nous citerons un petit poème qui est extrêmement beau:
 
-"Ne perdez pas votre temps à soupirer Après des choses glorieuses, mais impossibles. N'attendez pas, dans une molle apathie, Qu'il vous pousse des ailes d'ange. Ne dédaignez pas d'être d'humbles chandelles, Car chacun ne peut être une étoile; Mais illuminez une partie de l'obscurité En brillant simplement là où vous êtes.
+```
+"Ne perdez pas votre temps à soupirer 
+Après des choses glorieuses, mais impossibles. 
+N'attendez pas, dans une molle apathie, 
+Qu'il vous pousse des ailes d'ange. 
+Ne dédaignez pas d'être d'humbles chandelles, 
+Car chacun ne peut être une étoile; 
+Mais illuminez une partie de l'obscurité 
+En brillant simplement là où vous êtes.
 
-L'humble lumignon est nécessaire Aussi bien que le superbe Soleil. Et l'acte le plus humble est ennobli, Lorsqu'il est dignement accompli. Vous pouvez n'être jamais appelés A éclairer de lointaines régions obscures. Alors accomplissez votre mission jour après jour En brillant simplement là où vous êtes."
+L'humble lumignon est nécessaire 
+Aussi bien que le superbe Soleil. 
+Et l'acte le plus humble est ennobli, 
+Lorsqu'il est dignement accompli. 
+Vous pouvez n'être jamais appelés 
+A éclairer de lointaines régions obscures. 
+Alors accomplissez votre mission jour après jour 
+En brillant simplement là où vous êtes."
+```
 
-### QUESTION 152
+### <h3 id="question-152">Question 152</h3>
 
 Le monde invisible dont vous parlez n'est-il pas irréel, chimérique, en comparaison du monde dans lequel nous vivons?
 
@@ -1927,9 +2030,9 @@ Lorsqu'un architecte désire construire une maison, il y réfléchit d'abord. Il
 
 D'après l'opinion générale, cette maison concrète est bien plus réelle que la forme-pensée dans l'intellect de l'architecte, mais en réalité il n'en est rien. La maison tangible peut être détruite en un instant par un tremblement de terre, par une explosion, ou de toute autre manière, tandis que l'idée qui est dans l'intellect de l'architecte durera tant que l'homme vivra, et l'on pourra construire une nouvelle maison ou une douzaine de maisons semblables d'après cette idée. Même après la mort de l'architecte, la maison existera encore dans l'éther à l'état de modèle, et tout clairvoyant capable d'entrer en contact avec les Mondes Invisibles et de lire dans la Mémoire de la Nature sera encore capable de l'y voir, à n'importe quel moment, bien que des millions d'années se soient écoulées. Ainsi, le Monde Invisible est la source et l'enregistrement durable de tout ce qui est, ou a été, ici-bas, il est donc la réalité primordiale.
 
-## PARTIE 10 - QUESTIONS CONCERNANT L'ASTROLOGIE
+<h2 id="section-7">Partie 7 - Questions Concernant l'Astrologie</h2>
 
-### QUESTION 153
+### <h3 id="question-153">Question 153</h3>
 
 Est-ce possible que l'astrologie et la chiromancie soient vraies au point que nous puissions détourner un danger futur si nous en avons été avertis par ces moyens? N'est-ce pas intervenir dans notre destinée?
 
@@ -1947,7 +2050,7 @@ Quel ne fut pas son étonnement en apprenant, quelques jours plus tard, par un a
 
 Ce cas, de l'avis de l'auteur, montre qu'on ne peut intervenir dans la destinée mûre, et qu'il nous est possible de faire en toute sécurité tout ce que nous pouvons pour éviter un danger imminent, sans craindre du tout d'interférer avec la loi de conséquence. Il y a des agents invisibles tout autour de nous, prêts à contrecarrer chaque effort de notre part. Et ce sont ces agents qui, de l'avis de l'auteur, sont responsables de la confusion de dates de M.L.
 
-### QUESTION 154
+### <h3 id="question-154">Question 154</h3>
 
 Est-il mal d'employer la chiromancie, l'astrologie ou la phrénologie comme gagne-pain?
 
@@ -1955,7 +2058,7 @@ RÉPONSE - Ce qui est bien et ce qui est mal dépend du point de vue de l'indivi
 
 Il y a une récompense qui a plus de valeur que l'or. Si nous employons notre savoir pour guérir et pour aider, nous ne manquerons jamais de moyens d'existence, et nous amasserons dans le Ciel des trésors que ni les vers ni la rouille ne peuvent corrompre. De plus grandes, de meilleures occasions de service seront nôtres si nous employons nos talents à servir en tout désintéressement.
 
-### QUESTION 155
+### <h3 id="question-155">Question 155</h3>
 
 Mars, Jupiter et les autres planètes sont-elles habitées? Si oui, les habitants de ces planètes sont-ils supérieurs aux Terriens? Les âmes de la Terre renaissent-elles sur d'autres planètes, et vice-versa?
 
@@ -1965,7 +2068,7 @@ Le principe est le suivant: les vibrations les plus hautes existent dans le Sole
 
 Chaque classe d'esprits reste dans son milieu, et se trouve sous la tutelle et la surveillance directes de l'un des Esprits Planétaires dont le corps est la planète qu'ils habitent. Comme les esprits ont été incarnés sur différentes planètes parce qu'ils sont à des degrés très différents d'épanouissement spirituel, ils ne s'incarnent généralement pas sur d'autres planètes, si ce n'est que, parfois, quelques esprits des planètes intérieures sont envoyés comme instructeurs sur les planètes extérieures. Tel fut le cas lorsque notre humanité eut besoin d'instructeurs incarnés et visibles. Alors quelques êtres de Vénus et de Mercure vinrent sur la Terre pour guider l'humanité naissante. Ils étaient connus comme les messagers des Dieux, et les Seigneurs de Vénus furent les premiers rois et gouverneurs de la race humaine. Plus tard, les plus avancés parmi les êtres humains furent confiés aux Seigneurs de Mercure qui les initièrent aux Mystères; et, à leur tour, ils gouvernèrent leurs frères. Ils furent alors vraiment rois par la grâce de Dieu, n'ayant en vue que l'élévation et le bien de leurs peuples, sans se soucier de pouvoir ou de prestige.
 
-### QUESTION 156
+### <h3 id="question-156">Question 156</h3>
 
 La théorie nébulaire ne fournit-elle pas une explication plus scientifique sur l'existence de l'univers que les histoires de la création dans la Bible?
 
@@ -1979,15 +2082,15 @@ On se demande comment des hommes dont l'intellect est capable de concevoir cette
 
 Ainsi, loin de réfuter l'assertion de la Bible selon laquelle Dieu est le Créateur et la force agissante du Cosmos, la théorie nébulaire démontre à l'évidence la nécessité d'une intervention divine, et lorsqu'ils sont compris correctement, il n'y a pas de différence essentielle entre les concepts scientifique et religieux.
 
-### QUESTION 157
+### <h3 id="question-157">Question 157</h3>
 
 Qu'est-ce qu'une comète?
 
 RÉPONSE - Considérant la sagesse des Grandes Hiérarchies Créatrices comparée à la nôtre, nous nous sentons naturellement enclins à penser qu'elles sont au- dessus de toute erreur; réflexion faite, il semble raisonnable que ces Hiérarchies fassent parfois des erreurs, étant donné qu'elles évoluent toujours, et bien qu'elles apprennent des leçons au-delà de notre portée. Elles sont actives dans le Macrocosme - "Grand Monde" ou Corps de Dieu - comme nous travaillons dans le Microcosme - "Petit Monde" - composé de nos différents véhicules, et de même que nous commettons des erreurs en traitant nos affaires et en apprenant les leçons que nous sommes en train d'apprendre, ainsi les Grandes Hiérarchies Créatrices échouent quelquefois dans leurs travaux.
 
-Nous savons qu'en voulant donner naissance à un enfant, il peut y avoir un avortement. Le foetus est alors expulsé de l'organisme et commence à se corrompre. Le même risque existe lorsqu'un monde est en formation, c'est-à- dire qu'il se cristallise ou se fige avant d'avoir terminé la période de gestation dans le Monde du Désir. En ce cas, il n'a pas été modelé correctement, et on peut le comparer à du plâtre qu'un sculpteur aurait délayé pour en faire une belle statue, mais qui s'est durci en une masse informe et inutile avant d'être modelé. Lorsque cela se produit lors de la formation d'un monde, il en résulte ce qui est appelé une comète, et l'orbite elliptique qu'elle suit est la route d'un courant dans le Monde du Désir. Il y a du reste quelque chose de semblable dans la présence de l'Ego avant qu'il ne pénètre dans la matrice de la mère. Il affecte alors la forme d'une cloche ayant un noyau au sommet et une grande quantité de matière flottant derrière lui, semblable à la queue d'une comète. Et ces Egos en voie de renaissance, ayant la forme d'une cloche, décrivent aussi des orbites elliptiques autour de la terre jusqu'à ce que le temps soit venu pour eux d'entrer dans la matrice de leur future mère.
+Nous savons qu'en voulant donner naissance à un enfant, il peut y avoir un avortement. Le foetus est alors expulsé de l'organisme et commence à se corrompre. Le même risque existe lorsqu'un monde est en formation, c'est-à-dire qu'il se cristallise ou se fige avant d'avoir terminé la période de gestation dans le Monde du Désir. En ce cas, il n'a pas été modelé correctement, et on peut le comparer à du plâtre qu'un sculpteur aurait délayé pour en faire une belle statue, mais qui s'est durci en une masse informe et inutile avant d'être modelé. Lorsque cela se produit lors de la formation d'un monde, il en résulte ce qui est appelé une comète, et l'orbite elliptique qu'elle suit est la route d'un courant dans le Monde du Désir. Il y a du reste quelque chose de semblable dans la présence de l'Ego avant qu'il ne pénètre dans la matrice de la mère. Il affecte alors la forme d'une cloche ayant un noyau au sommet et une grande quantité de matière flottant derrière lui, semblable à la queue d'une comète. Et ces Egos en voie de renaissance, ayant la forme d'une cloche, décrivent aussi des orbites elliptiques autour de la terre jusqu'à ce que le temps soit venu pour eux d'entrer dans la matrice de leur future mère.
 
-### QUESTION 158
+### <h3 id="question-158">Question 158</h3>
 
 Le mouvement d'une planète à travers l'espace produit-il un bruit?
 
@@ -1997,13 +2100,23 @@ Dans la sphère de vision de l'occultiste, le système solaire entier est un vas
 
 Il y a quelques années, un orchestre était occupé à répéter à proximité d'une vieille ruine de la région d'Heidelberg. A un certain endroit de la répétition, ils en vinrent à une note très haute et très prolongée, et lorsqu'elle retentit, la muraille de la ruine toute proche s'effondra dans un terrible fracas. Cette note était la tonique de la muraille et celle-ci s'était effondrée. En regard de ces faits, le dédaigneux sourire avec lequel nous avons écouté autrefois l'histoire de Josué et des murs de Jéricho n'est plus de mise. Très certainement les trompettes avaient retenti de la tonique de ces murs déjà rendus sensibles par la marche rythmique de l'armée, ce qui devait préparer le dénouement. La marche rythmique d'un grand nombre de piétons peut détruire un pont, et c'est pourquoi l'on commande aux soldats de rompre le pas lorsqu'ils en traversent un. Nous pouvons donc répondre ceci à la question posée: toute planète émet une certaine tonique qui est la somme totale de tous les bruits qui y résonnent, fondus, harmonisés par l'Esprit Planétaire intérieur. Ce son peut être entendu par l'oreille de l'esprit. Comme le dit Goethe dans le prologue de Faust:
 
-"Le Soleil entonnant sa chanson de toujours, Parmi les chants rivaux des autres sphères, Se hâte sur le cours que lui prescrit la Loi, En grondant, à travers les ans, comme un tonnerre."
+```
+"Le Soleil entonnant sa chanson de toujours, 
+Parmi les chants rivaux des autres sphères, 
+Se hâte sur le cours que lui prescrit la Loi, 
+En grondant, à travers les ans, comme un tonnerre."
+```
 
 Et, dans la seconde partie, où les esprits des airs saluent le Soleil levant de ces mots:
 
-"Et c'est le son qui, à l'oreille de l'esprit, Proclame que le jour naissant est là. Des craquements secouent les barrières de roche, Et les roues de Phébus roulent et chantent Le son intense apporté par la lumière!"
+```
+"Et c'est le son qui, à l'oreille de l'esprit, Proclame que le jour naissant est là. 
+Des craquements secouent les barrières de roche, 
+Et les roues de Phébus roulent et chantent 
+Le son intense apporté par la lumière!"
+```
 
-### QUESTION 159
+### <h3 id="question-159">Question 159</h3>
 
 Quelle est la signification ésotérique de l'emploi des noms des douze fils de Jacob appliqués aux douze signes du zodiaque, et sont-ils employés en relation avec le zodiaque de la Terre, avec celui du Soleil ou avec tous les deux?
 
@@ -2013,7 +2126,7 @@ De même, si l'on considère la façon dont le camp des Israélites était dress
 
 La raison spirituelle de l'analogie entre Jacob, ses femmes, leurs enfants et le Cosmos peut être trouvée dans l'axiome hermétique, "Ce qui est en bas est comme ce qui est en haut". Jacob et ses quatre femmes symbolisent le Soleil et les quatre phases de la Lune, astres dispensateurs de vie à tout ce qui vit sur terre; les douze fils et la fille de Jacob symbolisent les Hiérarchies Créatrices qui ont été actives au cours de l'évolution de notre système solaire et qui ont amené, non seulement l'humanité, mais également tous les autres règnes de la nature, au présent degré de leur évolution; ces Hiérarchies travaillent, maintenant encore avec eux, afin de les développer encore en êtres spirituels. Ce sont elles qui ont fait l'homme à leur ressemblance. Même aujourd'hui l'humanité est empreinte des caractéristiques des douze signes célestes. C'est pourquoi, les Sémites originaux, qui devaient être les ancêtres d'une nouvelle race, ont été divisés en douze tribus par leur chef, chacune d'elles représentant une constellation.
 
-### QUESTION 160
+### <h3 id="question-160">Question 160</h3>
 
 Pouvez-vous donner une idée de la différence entre les astrologies héliocentrique et géocentrique? Cette dernière concerne-t-elle seulement les affaires de cette Terre, la vie matérielle, et la première, l'âme et le côté spirituel? Nous serions enclins à le croire, étant donné que le Soleil est l'astre spirituel, gouverneur de notre système solaire, et que nous nous servons du zodiaque du Soleil en astrologie héliocentrique, et de celui de la Terre en astrologie géocentrique. Des prédictions concernant la vie terrestre peuvent-elles aussi être faites d'après le zodiaque solaire, ou bien celui-ci a-t-il seulement trait au côté spirituel de la nature de la personne?
 
@@ -2025,7 +2138,7 @@ Il y a parfois des prédictions qui ne se réalisent pas, à cause d'une mauvais
 
 Le système géocentrique est correct et considère tous les côtés de la nature de l'homme, tant spirituel que matériel. Le système héliocentrique a été forgé par des gens qui visent à suivre la science, et qui ne sont pas intéressés par le côté spirituel de la nature, c'est pourquoi ce système est le moins satisfaisant. En outre, ceux qui ont utilisé l'astrologie géocentrique depuis des siècles, ont consigné leurs observations des effets des planètes d'après ce point de vue, alors qu'une telle connaissance empirique en encore à ses débuts pour le système héliocentrique; aussi nous aimerions conseiller à l'auteur de la question de laisser ce dernier de côté.
 
-### QUESTION 161
+### <h3 id="question-161">Question 161</h3>
 
 Comment est-il possible de se mettre en bons termes avec Saturne? Je me suis trouvé sous son influence toute ma vie. Maladie, pauvreté, perte d'héritage et accidents sont assez fâcheux en eux-mêmes, mais Saturne peut-il aussi nous causer des peines sur le plan spirituel; peut-il mettre des barrières à notre épanouissement alors que notre esprit lutte pour le bien? Et sommes-nous libérés de son influence lorsque nous passons dans l'au-delà à la mort?
 
@@ -2037,7 +2150,7 @@ La plupart des gens sont entraînés par le courant et agissent selon les tendan
 
 Les planètes nous aident dans notre évolution. Ce ne sont pas des corps de matière inanimée, ce sont les corps vivants, palpitants et vibrants, de grandes Intelligences spirituelles appelées dans la religion Chrétienne les Sept Esprits devant le Trône. A mesure que nous nous changeons, leur influence change à notre égard, mais nous n'échappons pas à cette influence par le simple incident de la mort. Lorsque l'aurore d'une vie nouvelle se lève pour nous, nous nous présenterons avec un nouvel horoscope, et si nous avons tenté de croître spirituellement, d'apprendre les leçons que les Anges Stellaires se sont efforcés de nous enseigner dans notre vie passée, nous aurons de nouveaux aspects et de nouvelles positions planétaires pour nous aider à progresser sur le sentier de l'évolution. Par contre, si nous nous sommes regimbés dans notre précédente existence, nous trouverons que les vis ont été un peu resserrées, et que nous nous trouvons placés sous des influences un peu plus fortes, de façon à nous faire enfin apprendre nos leçons. Et le plus tôt sera le mieux.
 
-### QUESTION 162
+### <h3 id="question-162">Question 162</h3>
 
 Comment pouvons-nous prier Saturne lorsqu'il est la planète régnante, nous causant des ennuis et de l'affliction?
 
@@ -2048,28 +2161,21 @@ Une des lois de l'électricité est qu'elle parcourt des fils de cuivre ou d'aut
 De même qu'une grande nation envoie son ambassadeur et des plénipotentiaires à d'autres nations, ainsi les ambassadeurs de chacun des grands Anges Stellaires sont présents sur notre Terre. Leurs noms sont les suivants:
 
 Ithuriel est l'ambassadeur d'Uranus,
-
 Cassiel est l'ambassadeur de Saturne,
-
 Zachariel est l'ambassadeur de Jupiter,
-
 Samaël est l'ambassadeur de Mars,
-
 Anaël est l'ambassadeur de Vénus,
-
 Raphaël est l'ambassadeur de Mercure,
-
 Michaël est l'ambassadeur du Soleil,
-
 Gabriel est l'ambassadeur de la Lune.
 
 La Lune est notre satellite et ne se trouve pas vis-à-vis de nous dans la même position que les autres planètes dont les ambassadeurs sont des Archanges, tandis que celui de la Lune, Gabriel, est un Ange.
 
 Ordinairement, l'humanité prie Dieu. La plupart du temps, ses prières sont égoïstes et ignorantes. Elles ne peuvent attirer l'attention des ambassadeurs qui ont la charge des divers départements de la vie, mais généralement les Aides Invisibles qui travaillent à l'élévation de leurs frères humains en prennent soin, dans la mesure du possible. L'astrologue occulte, cependant, qui sait ce qu'il veut et qui est capable de travailler en harmonie avec les forces astrales, s'adresse directement aux ambassadeurs des Anges Stellaires et obtient de cette manière plus facilement ce qu'il désire. Il étudie les heures planétaires pendant lesquelles ces astres gouvernent et à ce moment il présente sa requête, qui est habituellement en faveur de quelqu'un d'autre, ou pour obtenir une illumination spirituelle concernant certaines affaires pour le bien commun.
 
-## PARTIE 11 - QUESTIONS CONCERNANT LES ANIMAUX
+<h2 id="section-8">Partie 8: Questions Concernant les Animaux</h2>
 
-### QUESTION 163
+### <h3 id="question-163">Question 163</h3>
 
 Pourquoi les animaux, qui sont une évolution inférieure, ont- ils un instinct paraissant bien plus sûr que la raison des êtres humains?
 
@@ -2081,9 +2187,13 @@ La main est l'outil le plus précieux de l'homme, et sa dextérité n'est peut- 
 
 Quiconque verrait le musicien essayer de jouer, moufles aux mains, sans l'avoir jamais entendu avant qu'il enfile des gants, pourrait douter de ses capacités à jouer, mais cette déduction serait fausse. L'Ego humain est dans une position semblable, ses pouvoirs spirituels ont été cachés par les véhicules dans lesquels il est aujourd'hui enfermé, mais il viendra un temps où il aura appris à utiliser ces véhicules correctement, et alors son pouvoir spirituel rayonnera d'une splendeur inimaginable pour le moment.
 
-### QUESTION 164
+### <h3 id="question-164">Question 164</h3>
 
-Quelle devrait être notre conduite envers les formes inférieures de la vie? Avons-nous le droit de tuer d'inoffensifs animaux qui sont en quelque sorte nos frères? Et que dire des insectes et des reptiles venimeux?
+Quelle devrait être notre conduite envers les formes inférieures de la vie? 
+
+Avons-nous le droit de tuer d'inoffensifs animaux qui sont en quelque sorte nos frères? 
+
+Et que dire des insectes et des reptiles venimeux?
 
 RÉPONSE - Il n'y a qu'Une Vie dans l'Univers, celle de Dieu. "En lui, nous avons la vie, le mouvement et l'être." Et non seulement nous-mêmes, mais tout ce qui vit est ainsi une manifestation de Dieu. En temps voulu, nous sommes appelés à devenir des créateurs comme Il est un Créateur, mais tant que nous détruisons brutalement les formes d'autres êtres, nous retardons notre avancement. L'auteur de la question a raison de dire que les animaux inférieurs sont nos frères, mais il est triste de constater qu'au lieu de prendre soin d'eux et de leur inspirer confiance et amour, nous agissons de manière à nous faire craindre de chaque animal à la surface du globe, cela à force de les détruire. Et la peur que nous entretenons de la vie microscopique, qui se manifeste sous forme de bacilles impossibles à détruire avec le fusil et le couteau, semble être la juste rétribution de notre conduite.
 
@@ -2091,13 +2201,13 @@ En ce qui concerne les insectes et les reptiles destructeurs, on peut dire qu'il
 
 Nous avons, nous aussi, contribué à transformer des êtres humains en animaux de proie - nous les appelons voleurs, bandits - qui épient leurs semblables pour les voler, les blesser souvent, les tuer quelques fois; et tout cela résulte de notre rude traitement dicté par la peur. Si nous avions aimé, nous n'aurions pas éprouvé de crainte, car "l'amour parfait bannit toute crainte"; et si nous étions dépourvus de crainte, rien ne pourrait nous faire du mal, car une attitude sans crainte et confiante est une protection plus sûre qu'un revolver et un verrou. C'est pourquoi nous devrions cultiver cette attitude d'amour pour tout ce qui vit et respire; nous devrions cesser de tuer les animaux inférieurs par millions pour notre nourriture, et par sport, la pire forme de cruauté. Une attitude d'amour envers nos semblables générerait en eux des émotions semblables; serruriers et armuriers deviendraient bientôt inutiles. Nous nous plaignons des impôts énormes nécessaires à l'entretien d'une force de police forte, du mécanisme des cours de justice, des prisons et des pénitenciers, mais toutes ces institutions disparaîtraient comme par enchantement si nous remplacions la crainte par l'amour. La Bible nous dépeint le temps où le lion et le boeuf, le petit enfant et le serpent venimeux joueront ensemble en paix. Cela peut vraiment devenir une réalité, car les animaux de proie n'ont pas toujours été carnivores. Dans un lointain passé, l'homme a joué son rôle dans leur développement, et à l'avenir, ce sera sa tâche de changer ces conditions.
 
-### QUESTION 165
+### <h3 id="question-165">Question 165</h3>
 
 Les reptiles destructeurs et venimeux n'ont-ils pas été créés, en ce qui concerne leur forme, par les mauvaises pensées des hommes? N'est-ce donc pas un acte d'amour de les tuer et de libérer ainsi l'étincelle divine intérieure, afin qu'elle puisse occuper une forme plus élevée?
 
 RÉPONSE - Aucune des formes animales que nous voyons autour de nous n'a été créée par l'homme. Toutes, de la plus supérieure à la plus inférieure, sont les émanations d'esprits-groupes, entités spirituelles appartenant à une évolution différente du règne humain. Mais l'homme est un créateur au moyen de ses pensées, et les mauvaises pensées, les pensées de crainte et de haine prennent effectivement forme et au cours des siècles elles se cristallisent en ce que nous appelons les bacilles. Les microbes des maladies infectieuses, en particulier, sont l'incarnation de la crainte et de la haine, et c'est pourquoi ils sont aussi vaincus par la force opposée, le courage. De même qu'un diapason commence à vibrer lorsqu'on en frappe un autre de même note, ainsi "vibrent" à leur tour les micro-organismes. Si nous nous approchons, tremblants de peur, d'une personne infectée d'une maladie contagieuse, nous attirerons très certainement sur nous les microbes pathogènes. Par contre, si nous sommes sans crainte, nous échapperons à l'infection, surtout si l'amour nous inspire. Jamais l'amour ne nous pousse à tuer dans le sens usuel du mot. Il est vrai que si nous pouvions agir directement avec la Vie de choses mauvaises et venimeuses et les aider à s'incarner dans une forme supérieure, nous pourrions faire du bien; mais, en premier lieu, nous ne sommes pas capables de juger quand la présente forme à vécu tout le temps nécessaire; et c'est pourquoi nous ne pouvons prendre la liberté et assumer la responsabilité de priver de son véhicule, par bonté, la vie qui bâtit une forme. L'unique cas où nous puissions parfois tuer vraiment par amour est quand nous voyons un animal incurablement mutilé; il nous est alors permis de mettre fin à ses souffrances en le tuant.
 
-### QUESTION 166
+### <h3 id="question-166">Question 166</h3>
 
 Qu'est-ce qu'un esprit-groupe, où est-il et à quoi ressemble-t- il?
 
@@ -2105,7 +2215,7 @@ RÉPONSE - De même que l'homme a un corps composé de nombreuses cellules dont 
 
 Les esprits-groupes des animaux se voient souvent dans le Monde du Désir avec des corps humains et des têtes d'animaux. Les dessins sur les temples égyptiens représentent d'une manière fruste l'aspect de ces esprits-groupes. Le clairvoyant exercé n'a aucune difficulté à s'entretenir avec eux et il a souvent l'occasion de s'émerveiller de leur érudition.
 
-### QUESTION 167
+### <h3 id="question-167">Question 167</h3>
 
 Les animaux relèvent-ils de la loi de cause à effet?
 
@@ -2113,7 +2223,7 @@ RÉPONSE - Non, pas dans le sens d'être responsable moralement. Evidemment, si 
 
 La raison pour laquelle l'animal n'a pas de responsabilité morale est qu'il ne possède pas le pouvoir de raisonner, mais agit habituellement d'après les directives de l'esprit-groupe que nous nommons instinct; et il se peut que cet instinct ait instillé chez l'animal une frayeur telle qu'il ait été poussé à un mouvement ayant eu pour effet de meurtrir son corps. Avant qu'une créature puisse être moralement responsable, elle doit avoir un certain libre arbitre et un certain libre choix, ainsi que le pouvoir de raisonner correctement; et c'est pourquoi nous répétons qu'étant dépourvus de ces attributs, les animaux ne relèvent pas moralement de la loi de cause à effet.
 
-### QUESTION 168: 
+### <h3 id="question-168">Question 168</h3>
 
 Les animaux vivent-ils après la mort?
 
@@ -2121,7 +2231,7 @@ RÉPONSE - Ce qui vit, c'est l'esprit, qui n'a ni commencement ni fin, IL EST. M
 
 Lorsque Rider Haggard s'éveilla le matin suivant, son rêve lui revint en mémoire de la manière la plus nette, mais il n'y fit pas autrement attention jusqu'à ce que, plus tard, dans la journée, on s'aperçut que le chien manquait. Après de vaines recherches dans le voisinage immédiat, Rider Haggard se rendit enfin à l'endroit qu'il avait vu en rêve. Il y trouva, dans les joncs, le corps du chien dans une position identique à celle où il l'avait vu dans son rêve. Bien entendu, aucune explication ne put être donnée; pour lui, c'était une expérience curieuse, rien de plus. Mais pour l'occultiste, il est clair que le chien intelligent, ayant trouvé la mort et se trouvant dans le Monde du Désir, était venu la nuit vers son maître endormi, donc en dehors de son corps physique, et l'avait amené à l'endroit de l'accident pour obtenir son assistance et des explications.
 
-### QUESTION 169
+### <h3 id="question-169">Question 169</h3>
 
 Lorsqu'un chien ou un chat favoris meurent, l'esprit-groupe auquel ils appartiennent meurt-il en même temps? Que devient l'âme de l'animal? Les soins, l'affection humaine qu'ils ont reçus l'aident-ils dans son voyage dans l'au-delà?
 
@@ -2129,40 +2239,35 @@ RÉPONSE - Cette question montre que son auteur n'a pas une idée bien précise 
 
 Ainsi, à propos de ce que devient l'âme animale après la mort, nous pouvons dire qu'après avoir quitté le corps, elle retourne bientôt à l'esprit-groupe, et que l'affection et les soins que leur maître leur a prodigués aident beaucoup les animaux dans leur évolution, car, alors que les animaux sauvages agissent uniquement selon les commandements de l'esprit-groupe que nous appelons instinct, les animaux domestiques montrent une aptitude à penser qui dépasse complètement leur évolution normale actuelle. C'est de nous qu'ils ont reçu cette capacité, selon le principe de l'induction qui veut qu'un câble électrique de haut voltage placé à proximité d'un câble non chargé, induise dans celui-ci une charge d'électricité de voltage inférieur. D'une manière analogue, l'animal qui entre en contact avec des êtres humains n'est pas capable de penser par lui-même, mais il apprend à le faire, dans une certaine mesure, à ce contact. Et nous pouvons en déduire avec certitude que les animaux qui ont été domestiqués deviendront en temps voulu les instructeurs de leurs frères moins avancés.
 
-### QUESTION 170
+### <h3 id="question-170">Question 170</h3>
 
 Quelle sorte de substance les personnes ou les animaux émettent-ils qui fait qu'ils peuvent être suivis à la trace, comme par exemple les criminels par les limiers?
 
 RÉPONSE - Un clairvoyant regardant pour la première fois les gens avec la vue éthérique est très étonné d'apercevoir, soit un jet d'étoiles, soit des pyramides superposées ou d'autres formes géométriques leur sortir des mains, du visage, et il se demande avec surprise ce qu'elles peuvent bien être. Plus tard, il apprend que ce sont les cristaux dont est composé le corps qui sont ainsi éliminés par la peau. La plupart de ces excrétions restent dans les vêtements et fournissent aux limiers et aux chiens, le point de départ nécessaire à leurs recherches. Lorsque ces atomes se putréfient, ils émettent des effluves semblables à ceux de tous les corps qui se décomposent. Nous percevons ces effluves lorsque du linge ou des vêtements usagés sont laissés pendant quelque temps sans être lavés ou nettoyés. Les chiens, ayant un odorat plus développé que les humains, peuvent faire la distinction entre les effluves d'une personne et d'une autre, et comme les atomes laissés par une personne fuyant la justice sont répandus le long du chemin qu'elle a pris, il est aisé au limier, pendant un court laps de temps, de les distinguer des atomes d'autres personnes ou animaux.
 
-## PARTIE 12 - QUESTIONS DIVERSES
+<h2 id="section-9">Partie 9 - Questions Diverses</h2>
 
-### QUESTION 171
+### <h3 id="question-171">Question 171</h3>
 
 Quelle est l'origine de la vie?
 
 RÉPONSE - Si l'on pose cette question à un homme de science, il commence par nous parler de protoplasme, de protyle ou d'autre chose de même nature, mais tout cela est la forme. Si petite, insignifiante et simple que soit cette forme, c'est toujours une forme, et du point de vue de l'occultiste, la question est mal posée, car l'esprit EST, ETAIT et SERA TOUJOURS. Comme le dit Sir Edwin Arnold dans son beau poème, "Le Chant Céleste":
 
-    "Jamais l'Esprit n'est né,  
-    Jamais l'Esprit ne cessera d'être;  
-    Jamais il n'y eut un temps où il n'était pas,  
-    Fin et Début sont des rêves!  
-    Ni né, ni mort, l'Esprit demeure sans changement à jamais;  
-    La mort en rien n'a jamais pu l'atteindre,  
-    Même quand sa demeure nous paraît morte.  
+```
+"Jamais l'Esprit n'est né, Jamais l'Esprit ne cessera d'être;  
+Jamais il n'y eut un temps où il n'était pas,  
+Fin et Début sont des rêves! Ni né, ni mort, l'Esprit demeure sans changement à jamais;  
+La mort en rien n'a jamais pu l'atteindre, Même quand sa demeure nous paraît morte.  
 
-    Ainsi l'homme, ayant ôté  
-    Son vieil habit longtemps porté,  
-    En en prenant un autre dit:  
-    Aujourd'hui je mets celui-ci.  
-    Ainsi l'Esprit va se défaire  
-    De l'habit de chair, doucement,  
-    Prendre son vol, pour hériter  
-    D'une demeure plus belle."  
+Ainsi l'homme, ayant ôté Son vieil habit longtemps porté,  
+En en prenant un autre dit: Aujourd'hui je mets celui-ci.  
+Ainsi l'Esprit va se défaire De l'habit de chair, doucement,  
+Prendre son vol, pour hériter D'une demeure plus belle."  
+```
 
 C'est la Vie qui construit les formes et les emploie pour un temps de façon à pouvoir progresser. Lorsqu'elles ont cessé d'être utiles, la vie continue, laissant les formes qui, alors, sont mortes. Ainsi, la question devrait plutôt être, "Quelle est l'origine de la mort?" car la vie EST; elle n'a ni origine ni cessation.
 
-### QUESTION 172
+### <h3 id="question-172">Question 172</h3>
 
 Qu'est-ce que la matière? N'est-elle pas irréelle?
 
@@ -2172,13 +2277,13 @@ Lorsque Dieu désire se manifester, Il émane en Lui-même les formes-pensées d
 
 Nous pouvons donc dire avec l'adhérent de la Science Chrétienne que tout est esprit, que ce qui apparaît comme matière est, en réalité, de l'esprit en état de cristallisation, et nous pouvons aussi admettre avec le matérialiste que tout est matière, car l'esprit qui n'est pas encore cristallisé en matière se cristallisera finalement. C'est une erreur de considérer quoi que ce soit dans l'Univers de Dieu comme irréel; esprit et matière sont tous deux réels. Ce sont les pôles positif et négatif de Dieu.
 
-### QUESTION 173
+### <h3 id="question-173">Question 173</h3>
 
 Vous avez dit dans une de vos conférences précédentes que la Terre est le corps d'un Esprit qui donne sa vie aux habitants qui vivent à sa surface. Pourquoi donne-t-il fleurs et fruits aux uns, séismes et famines aux autres?
 
 RÉPONSE - Pendant l'intervalle de temps compris entre une mort et une renaissance, les esprits désincarnés qui ont atteint le Deuxième Ciel où sont les archétypes de tout ce qui existe, construisent leur milieu futur dans lequel ils récolteront ce qu'ils ont semé. S'ils ont été diligents dans leurs vies passées, s'ils ont cultivé le sol et fait pousser deux brins d'herbe là où il n'y en avait qu'un, ils se construiront une terre plus fertile encore, capable de produire avec plus d'abondance et moins de peine. S'ils ont passé leur vie à rêver au Nirvana, lieu céleste de repos et d'indolence, s'ils ont préféré discuter métaphysique plutôt que de s'occuper des choses matérielles, ils continueront à faire de même au Deuxième Ciel; ainsi, lorsqu'ils reviendront vivre ici-bas, leurs terres seront arides et ils souffriront de famines, d'inondations, de séismes, jusqu'à ce qu'ils se rendent compte de la nécessité de pourvoir aux conditions matérielles de leur existence. De cette façon, ils finiront par apprendre leur leçon et feront l'effort nécessaire pour conquérir ce monde, comme nous l'avons fait en Occident, car il est évident que l'auteur de la question fait allusion aux peuples orientaux qui souffrent de la famine et des inondations. Ce sont nos jeunes frères, en retard sur nous dans leur évolution; ils doivent marcher sur nos traces et, pour cela, apprendre à oublier temporairement les mondes spirituels pour parvenir au développement que, seul, le monde matériel peut leur donner. Il y a donc un dessein délibéré à l'origine de la famine qui est actuellement leur lot, tout comme il y a un dessein profond à notre prospérité, La famine des Orientaux les amènera finalement à s'attacher à des conditions plus matérielles. Par contre, nous qui possédons une terre fertile où abondent tous les biens de ce monde, où d'ingénieuses inventions rendent la vie plus facile, nous nous dirons finalement, une fois rassasiés de toutes ces bénédictions matérielles, "A quoi bon tout cela? Donnez-nous plutôt des choses spirituelles", et ceci nous vaudra un développement spirituel bien supérieur à celui des peuples de l'Orient.
 
-### QUESTION 174
+### <h3 id="question-174">Question 174</h3>
 
 Quel est le sens de la maxime, "Homme, connais-toi toi-même"?
 
@@ -2196,7 +2301,7 @@ Lorsque l'homme se laisse aller aux penchants de sa nature animale et qu'il fait
 
 Actuellement, la coopération des deux sexes est nécessaire à la procréation de véhicules pour les Egos en voie de renaissance; mais le temps viendra où l'homme cessera de créer de cette manière. Il se connaîtra lui-même. La pensée concentrée, comme la semence, demeurera en lui, et il la manifestera au moyen du larynx en un Verbe Créateur qui formera les choses dans le Monde Physique. L'être humain n'aura plus besoin de chercher la coopération d'un autre être pour fournir de nouveaux véhicules. Ceci lui était enseigné dans les Ecoles des Mystères, qui sont autant de jalons placés sur le sentier de la connaissance, et c'est pourquoi la maxime "Homme, connais-toi toi-même" était inscrite sur le Temple des Oracles de Delphes.
 
-### QUESTION 175
+### <h3 id="question-175">Question 175</h3>
 
 Qu'est-ce que le Saint-Graal?
 
@@ -2206,7 +2311,7 @@ L'histoire du Graal, diversement contée, se retrouve dans toutes les races prim
 
 Au Moyen Age, maintes versions de cette légende étaient récitées par les ménestrels, les chanteurs ambulants et les troubadours. La plus belle, peut- être, était la simple version de Wolfram von Eschenbach qui a été interprétée par le grand compositeur Richard Wagner, dans son célèbre drame musical "Parsifal".
 
-L^histoire relate que le soir du dernier repas de notre Sauveur avec Ses disciples, Il ait bu dans une certaine coupe ou calice et que, plus tard, quand le sang de vie coula de Son flanc transpercé, Joseph d'Arimathie ait recueilli dans ce même calice le sang de vie de notre Sauveur mourant. Il prit aussi la lance avec laquelle la blessure avait été faite. Pendant plusieurs années, il conserva ces reliques, et le pouvoir donneur de vie du sang de notre Saveur était si merveilleux qu'il l'a soutenu au cours de toutes ses privations, en prison, et dans ses courses errantes. A la fin, les reliques furent transportées au Ciel et confiées à la garde des Anges. Mais une nuit, un messager mystique, envoyé par Dieu, apparut à Titurel, un saint homme, lui enjoignant de construire un château, haut dans les airs, au sommet d'une montagne et d'y réunir une assemblée de chevaliers qui devaient être chastes et purs. Les Chevaliers du Graal étaient autorisés à contempler les reliques sacrées à certaines époques de l'année, ce qui leur donnait le désir et le pouvoir d'aller dans le monde pour y accomplir des actes héroïques d'ordre spirituel. Plus tard, Titurel confia la garde du Saint-Graal à son fils Amfortas, et sous le règne de ce dernier, une terrible calamité frappa les Chevaliers du Graal.
+L'histoire relate que le soir du dernier repas de notre Sauveur avec Ses disciples, Il ait bu dans une certaine coupe ou calice et que, plus tard, quand le sang de vie coula de Son flanc transpercé, Joseph d'Arimathie ait recueilli dans ce même calice le sang de vie de notre Sauveur mourant. Il prit aussi la lance avec laquelle la blessure avait été faite. Pendant plusieurs années, il conserva ces reliques, et le pouvoir donneur de vie du sang de notre Saveur était si merveilleux qu'il l'a soutenu au cours de toutes ses privations, en prison, et dans ses courses errantes. A la fin, les reliques furent transportées au Ciel et confiées à la garde des Anges. Mais une nuit, un messager mystique, envoyé par Dieu, apparut à Titurel, un saint homme, lui enjoignant de construire un château, haut dans les airs, au sommet d'une montagne et d'y réunir une assemblée de chevaliers qui devaient être chastes et purs. Les Chevaliers du Graal étaient autorisés à contempler les reliques sacrées à certaines époques de l'année, ce qui leur donnait le désir et le pouvoir d'aller dans le monde pour y accomplir des actes héroïques d'ordre spirituel. Plus tard, Titurel confia la garde du Saint-Graal à son fils Amfortas, et sous le règne de ce dernier, une terrible calamité frappa les Chevaliers du Graal.
 
 Au-dessous du château, dans une "vallée impie", demeurait un chevalier noir du nom de Klingsor qui désirait devenir Chevalier du Graal. Il n'était pas chaste, et pour répondre aux conditions requises, il se mutila de manière à ne pouvoir satisfaire ses désirs. Mais lorsqu'il adressa sa requête à Titurel, celui-ci lut dans son coeur, et lui refusa son admission. Alors Klingsor jura que s'il ne pouvait servir le Graal, le Graal le servirait. Il peupla le jardin de son château magique de chimériques filles-fleurs qui guettaient les Chevaliers du Graal au passage, les séduisaient, et ainsi les disqualifiaient pour leur service auprès du Graal.
 
@@ -2224,7 +2329,7 @@ Dans le royaume des Dieux, qui sont au-dessus de nous, cette activité est aussi
 
 La sève de la plante coule incolore, pure, chaste à travers sa tige et ses feuilles vertes. Ton sang est rouge et rempli de passion, mais par la régénération ce sang doit être purifié par la force spirituelle qui te viendra du Soleil spirituel, comme les forces du Soleil physique produisent la sève de la plante. Etant ainsi régénéré, tu mourras en tant qu'homme pour ressusciter comme un dieu.
 
-### QUESTION 176
+### <h3 id="question-176">Question 176</h3>
 
 Quel rapport y a-t-il entre les constructeurs des pyramides d'Egypte et ceux des pyramides de l'Amérique Centrale? Laquelle de ces deux civilisations est la plus ancienne?
 
@@ -2234,7 +2339,7 @@ On n'a écrit que peu de choses au sujet des pyramides de l'Amérique Centrale; 
 
 En réalité, les Pyramides étaient des temples d'initiation construits par les Hiérophantes des Mystères Mineurs, et comme l'initiation des candidats est fondée sur le passage des corps célestes dans les douze signes du zodiaque, il est naturel que les temples d'initiation renferment toutes les mesures cosmiques. En Egypte, seule la pyramide de Chéops était employée à cet usage. Les autres ne sont que de simples imitations construites à des époques plus récentes par quelques Pharaons. Les Mystères Mineurs ont existé dans diverses parties du monde à des époques différentes, en Egypte, en Grèce, dans l'Inde et aussi en Amérique Centrale. Ainsi, le rapport entre les constructeurs des pyramides de l'une et de l'autre des différentes parties du monde est que tous étaient des Hiérophantes des Mystères Mineurs, et que leurs temples servaient à des fins d'initiation.
 
-### QUESTION 177
+### <h3 id="question-177">Question 177</h3>
 
 Quelle est la différence essentielle entre les enseignements de la Philosophie Rosicrucienne et ceux de l'Eglise traditionnelle?
 
@@ -2246,17 +2351,17 @@ Notre sens de la justice se révolte devant un enseignement qui envoie une âme 
 
 C'est pourquoi l'enseignement Rosicrucien maintient que nous naissons dans le milieu le mieux adapté aux expériences de nos vies antérieures, et que nous recevons exactement ce que nous méritons dans tous les cas; que toutes les expériences par lesquelles nous passons sont exactement celles dont nous avons besoin pour donner l'impulsion nécessaire à la prochaine étape de notre épanouissement.
 
-### QUESTION 178
+### <h3 id="question-178">Question 178</h3>
 
 Voulez-vous préciser en quoi la Philosophie Rosicrucienne diffère de la Théosophie?
 
 RÉPONSE - Nous nous intéressons moins à rechercher les différences qu'à trouver les points de concordance. On peut dire cependant que la Philosophie Rosicrucienne est l'enseignement Occidental donné aux peuples de l'Occident pour leur avancement. Si nous donnons au mot Théosophie la signification Theos Sophia (Divine Sagesse), alors, à l'évidence, la Philosophie Rosicrucienne n'est qu'une partie de la Sagesse Divine, comme tous les autres systèmes religieux. Mais si nous entendons par théosophie, la philosophie propagée par la Société ou les Sociétés Théosophiques, car il y a plusieurs tendances, alors nous pouvons dire que l'enseignement Rosicrucien est beaucoup plus vaste et complet. En outre, en enseignant leur philosophie, les Rosicruciens sont diamétralement opposés à la méthode de la Société Théosophique, qui a pour objets:
 
-1. La formation d'un noyau de Fraternité Universelle.
+1/. La formation d'un noyau de Fraternité Universelle.
 
-2. L'étude des religions comparées, et
+2/. L'étude des religions comparées, et
 
-3. L'investigation sur les lois inexpliquées de la nature et sur les pouvoirs latents en l'homme.
+3/. L'investigation sur les lois inexpliquées de la nature et sur les pouvoirs latents en l'homme.
 
 Les Frères de la Rose-Croix soutiennent que la majorité des gens avancés sont en sympathie avec l'idée de Fraternité Universelle, et qu'il n'est pas besoin d'être théosophe pour avoir cette idée à coeur. Nombre d'autres sociétés ont des idées altruistes, en accord avec celles de fraternité. Beaucoup de savants étudient les religions comparées, et le font très bien. Il n'est donc pas nécessaire d'être théosophe pour poursuivre cet objectif, par contre, il faut être occultiste pour accomplir le troisième dessein de la Société Théosophique, à savoir, l'étude des lois inexpliquées de la nature et des pouvoirs latents en l'homme.
 
@@ -2266,7 +2371,7 @@ Pour parvenir à ce dernier degré, nous devons avoir une vue exact du sujet. No
 
 C'est pourquoi, la principale différence entre la Société Théosophique et The Rosicrucian Fellowship est une inversion complète de méthode. Car, là où la Société Théosophique vise à former un noyau de Fraternité Universelle par l'étude des religions comparées, et ne considère qu'en dernier lieu le développement du côté caché de la nature humaine - d'aucuns même décrient le développement des pouvoirs cachés - l'enseignement Rosicrucien exhorte l'aspirant à vivre la vie avant tout, à concentrer toute les énergies de son être de manière à être apte à posséder les pouvoirs de l'âme absolument essentiels aux investigations qu'il envisage.
 
-### QUESTION 179
+### <h3 id="question-179">Question 179</h3>
 
 La Loge Blanche de la Société Théosophique et le Temple des Rosicruciens sont-ils identiques?
 
@@ -2274,7 +2379,7 @@ RÉPONSE - Non, la Société Théosophique est une organisation exotérique qui 
 
 En ce qui concerne la relation entre l'Ordre des Rosicruciens ou autres Ordres des Mystères de même nature, et la Loge Blanche, nous pouvons dire qu'il y a, en différents lieux de la Terre, un certain nombre de ces écoles des Mystères Mineurs; que chacune d'elles est composée de douze frères et d'un treizième membre. Ce dernier est le lien entre les différentes écoles, et tous ces chefs, ou treizièmes membres, composent ce qu'on appelle la Loge Blanche, soit un conseil suprême des Aînés de nos Frères ayant actuellement la charge entière de l'évolution humaine, et qui nous préparent la marche à suivre.
 
-### QUESTION 180
+### <h3 id="question-180">Question 180</h3>
 
 Qu'entendez-vous par le terme "Maître", et The Rosicrucian Fellowship est-elle inspirée par eux?
 
@@ -2286,7 +2391,7 @@ De plus, il nous est possible de manquer aux promesses faites à autrui et l'abu
 
 The Rosicrucian Fellowship n'est pas soutenue par ces instructeurs ni inspirée par eux; ils ont donné à l'auteur certains enseignements à condition qu'il les répande dans la mesure de ses moyens, et ils ont annoncé qu'ils étaient prêts à aider ceux qui se qualifieraient pour recevoir cette instruction. Les étudiants de ces enseignements se sont groupés pour bénéficier d'une étude en association, mais il n'y a pas d'organisation rigoureuse et fixe, et il n'est pas prévu d'en créer une, mais de laisser les gens se procurer cet enseignement là où cela leur convient. Nous préférons qu'ils restent dans leur église.
 
-### QUESTION 181
+### <h3 id="question-181">Question 181</h3>
 
 Si une personne qui croit sincèrement aux enseignements avancés par les Rosicruciens affirme en toute certitude qu'ils sont vrais, ne risque- t-elle pas de devenir dogmatique et intolérante en ce qui concerne les opinions d'autrui? Et quelle devrait être son attitude à l'égard de ceux qui refusent d'accepter ces enseignements?
 
@@ -2294,7 +2399,7 @@ RÉPONSE - Il est de la plus grande importance de reconnaître le fait que nous 
 
 Certaines personnes qui ont découvert quelque chose qui les séduit comme étant une vérité, sont saisies d'un tel enthousiasme qu'elles entreprennent une véritable croisade afin de faire partager aux autres leur trouvaille. C'est là une grande erreur. Si nous nous trouvons parmi les membres d'une église, et commençons à poser des questions qui apportent le doute dans leur esprit et les ébranlent dans leur foi, nous pouvons aisément créer en eux un trouble regrettable. Si ce que nous avons à leur apprendre trouve un écho en eux, si cela est pour eux une ancre de salut à laquelle ils peuvent accrocher une foi nouvelle et plus élevée, c'est tant mieux. Mais si ce que nous avons à leur apporter est pour eux inaccessible ou inacceptable, nous risquons de les amener à un état d'esprit très malheureux et ils peuvent se tourner vers le matérialisme, l'athéisme ou tout autre attitude éminemment sceptique. Nous porterons alors la responsabilité de cet état de choses. Nous devons donc nous faire une règle d'être toujours discrets au sujet de nos convictions, sans jamais négliger de dire un petit mot quand l'occasion se présente, et si ce mot suscite une demande de renseignements, répondons-y sans hésiter. De cette manière, nous pouvons encourager graduellement notre interlocuteur à parler. Ainsi, il ne parlera que s'il cherche vraiment, et si nous nous rendons compte qu'il désire des renseignements, nous devons lui donner tout ce qu'il désire, et le donner gratuitement. Mais nous répétons que c'est une responsabilité sérieuse que d'imposer notre opinion à ceux qui ne sont pas disposés ou pas prêts à la recevoir.
 
-### QUESTION 182
+### <h3 id="question-182">Question 182</h3>
 
 Comment se fait-il que, parmi ceux qui étudient la haute philosophie, il y en ait si peu qui s'occupent à améliorer les conditions sociales, telles que l'abolition de l'esclavage des salariés, aussi dégradant et aussi brutal que l'esclavage des Noirs?
 
@@ -2302,15 +2407,13 @@ RÉPONSE - Tous les occultistes reconnaissent les besoins pressants de notre tem
 
 Dans les circonstances actuelles, dès que les syndicats ouvriers, par le moyen des grèves ou de la menace de grève, ont réussi à obtenir de meilleures conditions, le patron commence aussitôt à rechercher comment il pourra déjouer et faire échec à leurs plans. Pour se protéger, il s'associe avec d'autres patrons, si bien que les syndicats patronaux et ouvriers sont toujours en guerre. Les conditions meilleures obtenues par les uns sont continuellement changées par les autres. Mais lorsque patrons et ouvriers seront devenus de véritables Chrétiens, et auront appris à faire aux autres ce qu'ils voudraient qu'on leur fasse, il ne sera plus nécessaire d'avoir des syndicats ouvriers, car les patrons veilleront au bien-être de leurs employés et préviendront leurs besoins. L'occultiste sait que cet état de choses peut être amené à force d'y penser et de le vouloir, parce que tout ce qui existe, tout ce qui arrive, est le fruit de pensées antérieures dans l'intellect des hommes. Aussi prie-t-il ardemment que l'intellect des hommes puisse s'ouvrir à la réalité de la fraternité universelle, qu'ils puissent recevoir dans leur coeur l'amour de Dieu, et qu'ils s'unissent en cherchant à faire ce qui est juste, au lieu de faire séparément des plans pour opprimer et intimider autrui.
 
-### QUESTION 183
+### <h3 id="question-183">Question 183</h3>
 
 Quelqu'un peut-il étudier l'occultisme, vivre la vie supérieure et être millionnaire?
 
-RÉPONSE - Le Christ a dit au jeune homme riche, "Va, vends tout ce que tu as", mais le jeune homme riche était très attaché aux bonnes choses de la vie, et il s'éloigna tristement. Le Christ fit alors remarquer combien il était difficile aux riches d'entrer dans le Royaume des cieux. Il n'a pas dit que la chose était impossible, mais il savait ce que les richesses renferment d'embûches et de tentations. Néanmoins, un homme peut être millionnaire et s'efforcer de vivre la vie supérieure. Les richesses nous enchaînent et nous entravent, mais il serait absolument erroné d'en déduire qu'elles empêchent tout développement occulte. Tout dépend de l'usage que l'homme se propose de faire de sa fortune. S'il l'emploie pour se donner de l'importance et pour opprimer son prochain, il ne peut évidemment y trouver des occasions de croissance spirituelle, mais s'il se considère comme l'intendant de sa fortune et qu'il construise, grâce à elle, des fabriques, des usines pourvues du matériel moderne, des habitations modèles, s'il travaille avec ardeur à la réalisation de ses idées philanthropiques afin d'améliorer la condition humaine et de donner aux autres toutes les chances de se développer par eux- mêmes, alors sa fortune représente un pouvoir énorme pour le bien. Lorsqu'un homme travaille ainsi généreusement au bien-être d'autrui, il n'a guère le temps de penser à son avancement personnel et sa croissance spirituelle sera inconsciente. Néanmoins, il fera d'énormes progrès, et les occasions de faire mieux et davantage se multiplieront dans cette vie et aussi dans ses vies futures. C'est là le véritable sens de la parabole des talents. Ceux qui avaient fait bon usage des leurs ont été nommés gouverneurs d'un certain nombre de cités, afin de leur donner un emploi approprié dans le plan de l'évolution spirituelle.
+RÉPONSE - Le Christ a dit au jeune homme riche, "Va, vends tout ce que tu as", mais le jeune homme riche était très attaché aux bonnes choses de la vie, et il s'éloigna tristement. Le Christ fit alors remarquer combien il était difficile aux riches d'entrer dans le Royaume des cieux. Il n'a pas dit que la chose était impossible, mais il savait ce que les richesses renferment d'embûches et de tentations. Néanmoins, un homme peut être millionnaire et s'efforcer de vivre la vie supérieure. Les richesses nous enchaînent et nous entravent, mais il serait absolument erroné d'en déduire qu'elles empêchent tout développement occulte. Tout dépend de l'usage que l'homme se propose de faire de sa fortune. S'il l'emploie pour se donner de l'importance et pour opprimer son prochain, il ne peut évidemment y trouver des occasions de croissance spirituelle, mais s'il se considère comme l'intendant de sa fortune et qu'il construise, grâce à elle, des fabriques, des usines pourvues du matériel moderne, des habitations modèles, s'il travaille avec ardeur à la réalisation de ses idées philanthropiques afin d'améliorer la condition humaine et de donner aux autres toutes les chances de se développer par eux- mêmes, alors sa fortune représente un pouvoir énorme pour le bien. Lorsqu'un homme travaille ainsi généreusement au bien-être d'autrui, il n'a guère le temps de penser à son avancement personnel et sa croissance spirituelle sera inconsciente. Néanmoins, il fera d'énormes progrès, et les occasions de faire mieux et davantage se multiplieront dans cette vie et aussi dans ses vies futures. C'est là le véritable sens de la parabole des talents. Ceux qui avaient fait bon usage des leurs ont été nommés gouverneurs d'un certain nombre de cités, afin de leur donner un emploi approprié dans le plan de l'évolution spirituelle. Par contre, si un homme, possesseur d'une usine, se laisse dominer par le désir de se développer spirituellement, et vend égoïstement cette usine, privant ainsi ses ouvriers de travail, afin de développer ses propres pouvoirs et et de vivre la vie supérieure, un tel homme se dérobe à son devoir. Il n'est pas douteux qu'il sera blâmé par son Instructeur, car il aura enterré le talent qui lui avait été confié, et dans une vie suivante, il sera privé de l'occasion qu'il aura volontairement négligée.
 
-Par contre, si un homme, possesseur d'une usine, se laisse dominer par le désir de se développer spirituellement, et vend égoïstement cette usine, privant ainsi ses ouvriers de travail, afin de développer ses propres pouvoirs et et de vivre la vie supérieure, un tel homme se dérobe à son devoir. Il n'est pas douteux qu'il sera blâmé par son Instructeur, car il aura enterré le talent qui lui avait été confié, et dans une vie suivante, il sera privé de l'occasion qu'il aura volontairement négligée.
-
-### QUESTION 184
+### <h3 id="question-184">Question 184</h3>
 
 Que pensez-vous de la peine capitale? N'est-elle pas préférable à la détention à vie, et plus clémente?
 
@@ -2320,17 +2423,19 @@ Nous proclamons que nous n'usons pas de représailles, mais sous prétexte de sa
 
 En ce qui concerne la seconde partie de la question, "La mort n'est-elle pas préférable à l'emprisonnement à vie?", nous répondrons, "Peut-être l'est-elle, dans les conditions actuelles du régime carcéral." Car cette branche de nos institutions appelle des réformes, et nous avons beaucoup à faire et à défaire en ce qui concerne le traitement de ceux que nous appelons des criminels. Ils sont nos frères, tout autant que certains soi-disant respectables membres de la société qui n'ont pas encore commis l'impardonnable crime d'être démasqués. Il est vrai que nous avons rendu la vie carcérale meilleure et moins barbare qu'elle ne l'était; que nous avons introduit la clause du sursis; que les condamnés peuvent en appeler à la cour de cassation; cependant, nous sommes encore loin de traiter d'une façon convenable ces frères plus faibles. Si nous pouvions vraiment comprendre qu'ils sont nos frères et les traiter comme nous traiterions un frère plus faible, fils de notre propre mère, nous agirions bien plus justement. En effet, qui parmi nous, si son propre frère avait fait le mal,l'enverrait en prison avec mépris, l'appellerait gibier de potence à sa libération, ou lui fermerait sa porte pour la vie à cause d'un moment de faiblesse? Lorsqu'une personne est malade de la fièvre typhoïde, nous ne nous mettons pas en colère contre elle, nous l'envoyons à l'hôpital jusqu'à ce qu'elle soit guérie; nous prenons soin d'elle, nous faisons tous nos efforts pour la rendre à la santé, et nous nous réjouissons lorsqu'elle est guérie. Un criminel est un faible, malade mentalement; il ne devrait pas être envoyé en prison, mais dans une institution où il pourrait apprendre à vaincre sa faiblesse. Ce n'est que lorsque nous traiterons nos frères plus faibles avec un soin affectueux que nous pourrons dire que nous nous sommes élevés au- dessus de la maxime barbare qui exigeait "oeil pour oeil, dent pour dent". Comment osons-nous prier "pardonne-nous nos offenses comme nous pardonnons à ceux qui nous ont offensés, alors que nous traitons ces pauvres frères comme nous le faisons maintenant encore?
 
-### QUESTION 185
+### <h3 id="question-185">Question 185</h3>
 
 Quel est le point de vue Rosicrucien sur le suffrage féminin?
 
-RÉPONSE - L'esprit n'est ni masculin ni féminin, mais se manifeste alternativement comme homme et comme femme, si bien qu'en considérant le suffrage des femmes du point de vue le plus large, il serait à l'avantage des hommes de notre temps d'accorder aux femmes ce qui est réellement leur droit, c'est-à-dire une égalité pleine et entière, à tous égards. Le travail de la femme devrait être payé autant que celui de l'homme, et il serait bon de suivre, au moins dans les grandes lignes, les idées si admirablement exposées par Edward Bellamy dans son roman "Looking Backward" (Regards en arrière). L'opportunité de l'équitable arrangement social qui y est exposé est évidente si nous considérons que la présente existence terrestre est l'une de nos nombreuses vies sur terre, et que nous naissons alternativement homme et femme; mais il y a d'autres raisons pour lesquelles la femme devrait jouir de ce droit. Chez l'homme, le corps dense est positif, et il en résulte que ses forces positives sont particulièrement centrées dans la Région Chimique du Monde Physique. L'homme s'intéresse surtout à ce qu'il peut peser, mesurer, analyser, et travailler dans la vie quotidienne; son développement se fait particulièrement dans la direction matérielle, façonnant la terre, et tout ce qui la couvre, à sa fantaisie, mais prenant peu ou point d'intérêt au côté spirituel des choses.
+RÉPONSE - L'esprit n'est ni masculin ni féminin, mais se manifeste alternativement comme homme et comme femme, si bien qu'en considérant le suffrage des femmes du point de vue le plus large, il serait à l'avantage des hommes de notre temps d'accorder aux femmes ce qui est réellement leur droit, c'est-à-dire une égalité pleine et entière, à tous égards. Le travail de la femme devrait être payé autant que celui de l'homme, et il serait bon de suivre, au moins dans les grandes lignes, les idées si admirablement exposées par Edward Bellamy dans son roman "Looking Backward" (Regards en arrière). 
+
+L'opportunité de l'équitable arrangement social qui y est exposé est évidente si nous considérons que la présente existence terrestre est l'une de nos nombreuses vies sur terre, et que nous naissons alternativement homme et femme; mais il y a d'autres raisons pour lesquelles la femme devrait jouir de ce droit. Chez l'homme, le corps dense est positif, et il en résulte que ses forces positives sont particulièrement centrées dans la Région Chimique du Monde Physique. L'homme s'intéresse surtout à ce qu'il peut peser, mesurer, analyser, et travailler dans la vie quotidienne; son développement se fait particulièrement dans la direction matérielle, façonnant la terre, et tout ce qui la couvre, à sa fantaisie, mais prenant peu ou point d'intérêt au côté spirituel des choses.
 
 La femme, au contraire, possède un corps vital positif et il en résulte qu'elle est intuitivement en contact avec les vibrations spirituelles de l'univers. Elle est plus idéaliste et imaginative, prenant un grand intérêt à toutes les choses qui tendent à l'élévation morale de la race humaine, et comme ce n'est que par la croissance morale et spirituelle que l'humanité peut progresser actuellement, la femme est vraiment le premier facteur de l'évolution. Ce serait un immense bienfait pour la race humaine si on lui accordait, en toutes choses, des droits égaux à ceux de l'homme. Tant que cela ne sera pas, nous ne pouvons espérer voir les réformes qui uniront vraiment l'humanité. Nous voyons cela, par analogie, si nous considérons le foyer où la femme est vraiment le pilier central, autour duquel se groupent le mari et les enfants. Selon sa capacité, elle fait le foyer ce qu'il est, elle est l'influence qui cimente, qui pacifie. Le père peut mourir ou quitter la maison, les enfants peuvent s'éloigner, tant que la mère reste au foyer, le foyer subsiste; mais que la mère soit enlevée par la mort, aussitôt le foyer est brisé
 
 Certains diront, "D'accord, mais si la femme se consacre à la politique, son foyer sera tout aussi bien brisé". Or c'est là une chose qui n'est pas à craindre. Il se peut que, pendant la période de transition où la femme devra lutter pour acquérir ses droits, elle néglige plus ou moins son foyer, cela jusqu'à ce qu'elle se soit adaptée aux conditions nouvellement créées; mais dans les pays où ces conditions sont déjà établies, aucun foyer n'a été détruit, et il en est résulté beaucoup de bien, car les femmes sont toujours à l'avant-garde du progrès moral. Alors que les lois sont des expédients pour élever l'humanité à un plan supérieur, où chacun sera une loi en lui-même faisant ce qui est juste sans contrainte, il est néanmoins nécessaire, de nos jours, de réaliser légalement de telles réformes.
 
-### QUESTION 186
+### <h3 id="question-186">Question 186</h3>
 
 Si les occultistes s'abstiennent de manger de la viande à cause de la tragédie causée par la mort des animaux, tragédie à laquelle ils ne veulent prendre part en aucune façon, ni directement ni indirectement, n'est- ce pas aussi ôter la vie que de manger des oeufs, des fruits ou des légumes?
 
@@ -2338,7 +2443,7 @@ RÉPONSE - Le cas est bien différent, car alors qu'il est nécessaire de tuer l
 
 Le processus est le même avec les animaux comme avec les êtres humains, et en fait dans tous les règnes. Lorsqu'un animal va naître, l'esprit-groupe, aidé par les esprits de la nature et par les anges, façonne son corps vital qui est ensuite déposé dans la matrice de la mère, tandis que les atomes-germes sont placés dans le fluide séminal du père; ensuite la gestation a lieu, et l'animal vient au monde. Sans la présence de l'atome-germe et de la matrice du corps vital, aucun corps physique animal ne peut se former. Les mêmes conditions gouvernent la fécondation de l'oeuf ou celle de la graine.Elles sont comme les ovules de la femelle, toutes représentant autant d'occasions. Si un oeuf est placé dans un incubateur ou couvé par une poule, l'esprit- groupe envoie la vie requise, acceptant l'occasion ainsi offerte. Si une graine est mise en terre, elle est aussi fertilisée lorsque les conditions qu'exige son développement sont réunies, mais pas avant. Quand un oeuf est écrasé, cuit ou transformé de quelque autre manière, ce qui l'écarte de sa destination première, ou lorsqu'une graine a été emmagasinée, pendant des années peut-être, il n'y a pas de vie, et par conséquent, il n'y a aucun mal à utiliser ces produits comme nourriture. Il est même profitable aux plantes de leur enlever leurs fruits, parce que ceux-ci cessent alors d'absorber inutilement la sève de l'arbre.
 
-### QUESTION 187
+### <h3 id="question-187">Question 187</h3>
 
 La terrible entité vue par Glyndon dans le "Zanoni" de Bulwer Lytton est-elle la même que celle dont parle Robert L. Stevenson dans son histoire de M. Hyde?
 
@@ -2348,7 +2453,7 @@ Cette entité n'est même pas apparente à l'homme ordinaire pendant l'intervall
 
 Il arrive quelquefois, cependant, qu'à la mort un individu passe dans l'au- delà avec une nature-désir tellement forte qu'après avoir expié au Purgatoire les actions qu'elle contenait et être entré au Deuxième Ciel, cette coque se conserve et dure jusqu'à ce que l'individu renaisse. Cette coque est alors attirée vers lui par une force magnétique et il possède, pour ainsi dire, un corps du désir double. Le corps du désir de la vie passée peut alors se faire sentir à certains moments, et lui faire mener une vie double comme celle du "docteur Jekyll" que son double, "M. Hyde" - ainsi que l'a raconté R.L. Stevenson - pousse à des actes qu'il abhorre, car la souffrance engendrée en expiant ceux-ci au Purgatoire agit en tant que conscience qui lui fait éprouver de la répulsion pour le mal. Heureusement, de tels cas sont extrêmement rares de nos jours.
 
-### QUESTION 188
+### <h3 id="question-188">Question 188</h3>
 
 Si le bras d'une personne est amputé, une branche d'arbre coupée, une partie de falaise dynamitée, la contrepartie invisible de ces différentes choses sera-t-elle enlevée aussi?
 
@@ -2356,8 +2461,8 @@ RÉPONSE - Dans le cas d'un bras amputé, la contrepartie éthérique de ce bras
 
 Le corps vital de la plante n'est composé que des deux éthers les plus denses - l'éther chimique et l'éther vital - qui rendent la plante capable de croître et de se multiplier, mais les deux éthers supérieurs, l'éther-lumière et l'éther réflecteur, lui manquent; la plante n'a donc ni la sensation, ni la mémoire de ce qui se passe autour d'elle. Par conséquent, le fait de couper une branche n'est pas ressenti par l'arbre. Et dans le cas d'une falaise dynamitée, seul l'éther chimique est présent, de sorte que les cristaux n'auront pas de sentiments du tout. On aurait tort toutefois d'en déduire qu'il n'y a pas de sentiment dans aucun de ces cas, car bien que les plantes et les minéraux n'aient aucun moyen individuel de ressentir, ils sont enveloppés et interpénétrés par les éthers et le Monde de Désir de notre planète, ainsi l'Esprit Planétaire ressent toute chose, selon le même principe qui fait que notre doigt, qui n'a pas de corps du désir individuel, ne peut ressentir, mais nous, les esprits intérieurs habitant le corps dense, ressentons toute blessure faite au doigt.
 
-### QUESTION 189
+### <h3 id="question-189">Question 189</h3>
 
 Connaissez-vous un lieu, un foyer, une retraite où l'on puisse vivre cette vie belle, simple et inoffensive que vous préconisez?
 
-RÉPONSE - Non, nous n'en connaissons pas, et si un tel foyer était fondé dans ce but, nous plaindrions vivement ceux qui l'habiteraient. Si, ayant un caractère emporté, nous allons dans la montagne vivre en reclus, là où il n'y a personne pour mettre nos nerfs à l'épreuve, nous aurons bien peu de mérite à rester calmes et tranquilles. Si nous trouvons difficile de triompher de nos vices ou de nos défauts au milieu des villes, et que nous allions dans un lieu désert où ces tentations n'existent pas, nous avons peu de mérite de ne pas céder à la tentation? Nous avons été placés dans des villes et parmi nos semblables afin de nous habituer à eux, de concilier ce qui doit l'être entre eux et nous, et apprendre à retenir nos accès de colère en dépit de notre exaspération, apprendre à éviter la tentation là où elle est. Nous pouvons aller dans le désert et laisser notre coeur à la ville, ou nous emmurer dans un monastère et soupirer encore après les plaisirs du monde. Il est mieux de rester là où nous nous trouvons et de développer à cet endroit les qualités spirituelles qui feront de nous de meilleurs hommes et de meilleures femmes. Il y a du travail à faire dans le monde, et si nous fuyons le monde, apprendre à retenir nos accès de colère en dépit de notre exaspération, apprendre à éviter la tentation là où elle est. Nous pouvons aller dans le désert et laisser notre coeur à la ville, ou nous emmurer dans un monastère et soupirer encore après les plaisirs du monde. Il est mieux de rester là où nous nous trouvons et de développer à cet endroit les qualités spirituelles qui feront de nous de meilleurs hommes et de meilleures femmes. Il y a du travail à faire dans le monde, et si nous fuyons le monde, apprendre à retenir nos accès de colère en dépit de notre exaspération, apprendre à éviter la tentation là où elle est. Nous pouvons aller dans le désert et laisser notre coeur à la ville, ou nous emmurer dans un monastère et soupirer encore après les plaisirs du monde. Il est mieux de rester là où nous nous trouvons et de développer à cet endroit les qualités spirituelles qui feront de nous de meilleurs hommes et de meilleures femmes. Il y a du travail à faire dans le monde, et si nous fuyons le monde, apprendre à retenir nos accès de colère en dépit de notre exaspération, apprendre à éviter la tentation là où elle est. Nous pouvons aller dans le désert et laisser notre coeur à la ville, ou nous emmurer dans un monastère et soupirer encore après les plaisirs du monde. Il est mieux de rester là où nous nous trouvons et de développer à cet endroit les qualités spirituelles qui feront de nous de meilleurs hommes et de meilleures femmes. Il y a du travail à faire dans le monde, et si nous fuyons le monde, comment le ferons-nous? Nous avons tous une responsabilité à l'égard de nos semblables. A moins de nous acquitter de cette responsabilité, nous esquivons notre devoir et le destin nous ramènera dans un milieu dont nous ne pourrons pas échapper. C'est pourquoi mieux vaut nous appliquer à apprendre les leçons qui sont à notre portée plutôt que d'essayer de nous y soustraire.
+RÉPONSE - Non, nous n'en connaissons pas, et si un tel foyer était fondé dans ce but, nous plaindrions vivement ceux qui l'habiteraient. Si, ayant un caractère emporté, nous allons dans la montagne vivre en reclus, là où il n'y a personne pour mettre nos nerfs à l'épreuve, nous aurons bien peu de mérite à rester calmes et tranquilles. Si nous trouvons difficile de triompher de nos vices ou de nos défauts au milieu des villes, et que nous allions dans un lieu désert où ces tentations n'existent pas, nous avons peu de mérite de ne pas céder à la tentation? Nous avons été placés dans des villes et parmi nos semblables afin de nous habituer à eux, de concilier ce qui doit l'être entre eux et nous, et apprendre à retenir nos accès de colère en dépit de notre exaspération, apprendre à éviter la tentation là où elle est. Nous pouvons aller dans le désert et laisser notre coeur à la ville, ou nous emmurer dans un monastère et soupirer encore après les plaisirs du monde. Il est mieux de rester là où nous nous trouvons et de développer à cet endroit les qualités spirituelles qui feront de nous de meilleurs hommes et de meilleures femmes. Il y a du travail à faire dans le monde, et si nous fuyons le monde, how shall we do it? We have a responsibility to our fellowmen. unless we discharge that responsibility we are shirking our duty, and fate will bring us back in such an environment that we cannot escape. Therefore, it is better to aim to learn all the lessons that are at our hands instead of running away from them.
