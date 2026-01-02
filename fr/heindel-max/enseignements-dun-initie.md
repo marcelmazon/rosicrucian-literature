@@ -330,56 +330,70 @@ Alors est venu l'âge de la vapeur et de la machine, instaurant un nouveau syst�
 
 Que dirions-nous d'un jeune homme qui se donnerait pour but d'accumuler un million de mouchoirs qu'il ne pourrait jamais utiliser? Nous le traiterions sûrement d'insensé, mais pourquoi ne pas ranger dans la même catégorie un homme qui dépenserait toute son énergie et qui dépenserait tous les agréments de la vie pour devenir millionnaire? Ce système ne peut pas durer, car il donne une pierre à l'homme au lieu du pain qu'il réclame, et il devrait y avoir d'autres possibilités de se développer. De nouvelles normes doivent s'élaborer, de nouveaux idéaux doivent se faire jour et nous apporter un élargissement de nos perspectives. Pour avoir une idée de la direction que prendra l'évolution, il nous faut recourir à ceux qui, parmi nous, sont les plus doués d'inspiration: les poètes et les clairvoyants. Parmi eux, Lowell est peut-être celui qui exprime le mieux cette idée dans sa Vision de Sir Launfal. Un chevalier quitte son château, animé du désir de faire de grands exploits pour Dieu, va rejoindre les croisés et part à la recherche du Saint- Graal dans la lointaine Palestine. Il se prépare à partir, satisfait de lui- même, orgueilleux et arrogant, ne pensant qu'à sa mission. A la grille du château, il rencontre un pauvre lépreux qui tend une main suppliante en demandant l'aumône. Sir Launfal, cependant, n'a aucune compassion, mais afin de se débarrasser de cet être répugnant, il lui jette une pièce d'or et s'efforce de l'oublier.
 
-    "Le lépreux ne ramassa pas l'or dans la poussière:  
-    "Mieux vaut pour moi la croûte du pauvre,  
-    Mieux vaut sa bénédiction,  
-    Même si, les mains vides, je quitte sa porte.  
-    L'aumône que la main peut tenir  
-    N'est pas la véritable aumône.  
-    Celui qui donne par sentiment du devoir  
-    Ne donne qu'un métal sans valeur.  
-    Mais celui qui partage son maigre avoir  
-    Avec ce qui est invisible, et que relie  
-    Ce lien de beauté spirituelle  
-    Qui soutient, pénètre et unit tout,  
-    La main ne peut étreindre son don entier;  
-    Le coeur se tend, avide, pour le recevoir,  
-    Car un dieu accompagne cette aumône  
-    Et la rend abondante pour l'âme  
-    Qui mourait de faim dans l'ombre".  
+```
+"Le lépreux ne ramassa pas l'or dans la poussière:  
+"Mieux vaut pour moi la croûte du pauvre,  
+Mieux vaut sa bénédiction,  
+Même si, les mains vides, je quitte sa porte.  
+L'aumône que la main peut tenir N'est pas la véritable aumône.  
+Celui qui donne par sentiment du devoir  
+Ne donne qu'un métal sans valeur.  
+Mais celui qui partage son maigre avoir  
+Avec ce qui est invisible, et que relie  
+Ce lien de beauté spirituelle  
+Qui soutient, pénètre et unit tout,  
+La main ne peut étreindre son don entier;  
+Le coeur se tend, avide, pour le recevoir,  
+Car un dieu accompagne cette aumône Et la rend abondante pour l'âme  
+Qui mourait de faim dans l'ombre".  
+```
 
 Mais qu'est devenu Sir Launfal? Pouvait-il espérer, dans un tel état d'esprit, parvenir au succès et découvrir le Graal? Sûrement pas, et c'est pourquoi il ne rencontre que déceptions sur déceptions. Finalement, il revient vers son château, découragé et devenu humble de coeur. Il y retrouve le lépreux, et à sa vue,
 
-    "En lui, son coeur était cendre et poussière;  
-    Il partagea avec lui son unique croûte,  
-    Il brisa la glace au bord du ruisseau  
-    Et donna au lépreux à manger et à boire".  
+```
+"En lui, son coeur était cendre et poussière;  
+Il partagea avec lui son unique croûte,  
+Il brisa la glace au bord du ruisseau  
+Et donna au lépreux à manger et à boire".  
+```
 
 Ayant ainsi accompli son devoir charitable, il voit enfin venir sa récompense:
 
-    "Le lépreux n'était plus accroupi à son côté,  
-    Mais se tenait devant lui, glorifié" (...)  
+```
+"Le lépreux n'était plus accroupi à son côté,  
+Mais se tenait devant lui, glorifié" 
 
-    "Et la Voix plus douce que le silence dit:  
-    "Oui, c'est moi, ne sois pas effrayé.  
-    Dans bien des pays, sans succès,  
-    Tu as passé ta vie à chercher le Saint-Graal.  
-    Regarde, il est ici! Cette coupe que tu viens  
-    De remplir pour moi au ruisseau,  
-    Cette croûte est mon corps brisé pour toi,  
-    Cet eau le sang que je versai sur la croix;  
-    La Sainte Cène est célébrée vraiment  
-    Dans tout ce que nous partageons avec autrui.  
-    Ce n'est pas ce que l'on donne, mais ce que l'on partage,  
-    Car le don, sans celui qui donne, est stérile.  
-    Qui se donne avec son aumône nourrit trois personnes  
-    Lui-même, son prochain affamé et moi-même".  
+(...)  
+
+"Et la Voix plus douce que le silence dit:  
+"Oui, c'est moi, ne sois pas effrayé.  
+Dans bien des pays, sans succès,  
+Tu as passé ta vie à chercher le Saint-Graal.  
+Regarde, il est ici! Cette coupe que tu viens  
+De remplir pour moi au ruisseau,  
+Cette croûte est mon corps brisé pour toi,  
+Cet eau le sang que je versai sur la croix;  
+La Sainte Cène est célébrée vraiment  
+Dans tout ce que nous partageons avec autrui.  
+Ce n'est pas ce que l'on donne, mais ce que l'on partage,  
+Car le don, sans celui qui donne, est stérile.  
+Qui se donne avec son aumône nourrit trois personnes  
+Lui-même, son prochain affamé et moi-même".  
+```
 
 Dans ces vers, on découvre le secret du succès, qui consiste à faire les petites choses apparemment désagréables, mais qui sont à notre portée, au lieu de s'en aller au loin à la recherche d'illusions chimériques qui n'apportent jamais rien de défini ni de tangible.
 
 "Et quel avantage peut-on obtenir par le moyen préconisé?" pourrait-on demander. Là encore, nous pouvons trouver la réponse chez un poète, Oliver Wendell Holmes, qui nous parle du petit nautile enfermé dans sa coquille. Il construit d'abord une petite cellule juste assez grande pour le contenir. Ensuite, à mesure qu'il grandit, il en ajoute une un peu plus vaste, qu'il occupera dans la période suivante de croissance, et ainsi de suite, jusqu'à ce qu'il ait formé une coquille en spirale aussi grande que possible, qu'il abandonne alors. L'auteur développe cette idée dans les vers qui suivent:
 
-    "Mon âme, bâtis-toi de plus fières maisons, Durant que coulent les saisons Laisse au passé sa voûte basse; Fais un temple plus beau que celui qu'il remplace! Abrite-toi sous un dôme plus altier Jusqu'au jour où, enfin libérée De ton écaille devenue inutile, Tu quitteras la mer agitée de la vie!"
+```
+"Mon âme, bâtis-toi de plus fières maisons, 
+Durant que coulent les saisons 
+Laisse au passé sa voûte basse; 
+Fais un temple plus beau que celui qu'il remplace! 
+Abrite-toi sous un dôme plus altier 
+Jusqu'au jour où, enfin libérée 
+De ton écaille devenue inutile, Tu quitteras la mer agitée de la vie!"
+```
 
 Quand nous en sommes à ce point, nous avons obtenu le succès, tout le succès qu'il est possible d'obtenir dans le monde actuel, et nous entrons dans une nouvelle sphère, avec de plus importantes occasions de servir. 
 
@@ -387,7 +401,9 @@ Quand nous en sommes à ce point, nous avons obtenu le succès, tout le succès 
 
 De temps à autre, suivant apparemment une loi périodique, les mêmes difficultés surviennent dans l'esprit des étudiants. A un certain moment, des lettres arrivent de différentes parties du monde pour demander des précisions sur un même sujet, à un autre moment sur un sujet différent, mais après quelques années, les mêmes sujets reviennent sur le tapis. Alors que nous aidons ceux qui nous posent eux-mêmes ces questions, il se peut donc que beaucoup d'autres soient intéressés au même moment; de là cette leçon sur la mort de l'âme qui semble préoccuper les esprits, peut-être parce qu'en ces temps de guerre la mort du corps est si commune et si fréquente.
 
-Il y a quelques années, en mars 1912, nous avions publié une leçon sur"Le péché impardonnable et les âmes perdues" (voir chapitre 7, Glanes d'un Mystique, tome II de cet ouvrage) et leur rapport avec les sacrements. Dans cette leçon, nous avions dit que tous les sacrements se référaient à la transmission des atomes-germes qui forment les noyaux de nos différents corps. Le germe de notre corps terrestre doit être placé de la bonne manière dans un sol fertile pour faire croître un véhicule utilisable et pour cette raison, comme l'indique la Genèse (1:27) "Il les créa homme et femme". Les mots hébraïques sont "Sacr va N'cabah", qui sont les noms des organes sexuels. Littéralement traduit, Sacr signifie "porteur de germe"; ainsi le mariage est un sacrement, car il permet la transmission de l'atome-germe physique du père à la mère et tend à préserver la race humaine des ravages de la mort.
+Il y a quelques années, en mars 1912, nous avions publié une leçon sur"Le péché impardonnable et les âmes perdues" (voir chapitre 7, Glanes d'un Mystique, tome II de cet ouvrage) et leur rapport avec les sacrements. Dans cette leçon, nous avions dit que tous les sacrements se référaient à la transmission des atomes-germes qui forment les noyaux de nos différents corps. Le germe de notre corps terrestre doit être placé de la bonne manière dans un sol fertile pour faire croître un véhicule utilisable et pour cette raison, comme l'indique la Genèse (1:27) "Il les créa homme et femme". Les mots hébraïques sont "Sacr va N'cabah".
+
+Qui sont les noms des organes sexuels. Littéralement traduit, Sacr signifie "porteur de germe"; ainsi le mariage est un sacrement, car il permet la transmission de l'atome-germe physique du père à la mère et tend à préserver la race humaine des ravages de la mort.
 
 En tant que sacrement, le baptême signifie l'aspiration germinale de l'âme à une vie plus élevée, l'implantation d'une semence spirituelle.
 
@@ -461,7 +477,9 @@ Ainsi s'est développé inconsciemment dans l'esprit des nations occidentales un
 
 Si les Juifs avaient appuyé leurs prétentions à la faveur divine par de nobles vies et une conduite exemplaire, ils auraient probablement suscité l'admiration de beaucoup de gens parmi les nations chez lesquelles ils vivaient, et même ceux qui auraient été envieux de leur avancement les au- raient probablement respectés. Mais comme leurs hautes prétentions et leurs pratiques divergeaient parfois considérablement, il est triste, mais non pas surprenant, qu'ils aient été haïs et persécutés.
 
-Le lecteur est prié de ne pas considérer ce qui précède comme une critique du peuple juif, lequel a aussi produit des hommes éminents et des génies. Il est mal de mettre en lumière les fautes du prochain et de les critiquer, à moins d'avoir en vue une fin constructive. Il est toujours trop facile de voir la paille dans l'oeil de son prochain, mais bien plus difficile de voir la poutre dans le sien. Donc, la raison qui nous a fait parler du désaccord entre les prétentions du peuple juif et ses pratiques est de nous demander si, en cessant de tourner le projecteur vers la paille qui est dans leur oeil, nous ne trouverons pas une énorme poutre dans le nôtre. Dans ce cas, nous ferions un bon travail en essayant d'enlever la poutre.
+Le lecteur est prié de ne pas considérer ce qui précède comme une critique du peuple juif, lequel a aussi produit des hommes éminents et des génies. Il est mal de mettre en lumière les fautes du prochain et de les critiquer, à moins d'avoir en vue une fin constructive. Il est toujours trop facile de voir la paille dans l'oeil de son prochain, mais bien plus difficile de voir la poutre dans le sien. 
+
+Donc, la raison qui nous a fait parler du désaccord entre les prétentions du peuple juif et ses pratiques est de nous demander si, en cessant de tourner le projecteur vers la paille qui est dans leur oeil, nous ne trouverons pas une énorme poutre dans le nôtre. Dans ce cas, nous ferions un bon travail en essayant d'enlever la poutre.
 
 Tant que nous vivons au même niveau que la majorité des gens, agissant comme les autres en bien, en mal, ou indifféremment, personne ne prête attention à nous, mais si, comme les Juifs, nous prétendons être différents, le regard observateur de la société se porte aussitôt sur nous pour voir quelle relation il y a entre nos prétentions et notre conduite. Où que nous allions, quoi que nous fassions, on nous observe, et c'est pourquoi nous encourons une grande responsabilité, laquelle nous oblige à bien agir et à faire honneur aux enseignements des Frères Aînés en toutes choses, afin de stimuler chez les autres le désir de suivre aussi ces enseignements.
 
@@ -553,11 +571,25 @@ Mais il existe une troisième catégorie de gens qui comprennent que toute vie a
 
 Notre propre sécurité, celle de nos enfants et même celle de la race humaine exigent que nous écoutions la voix inspirée de la poétesse Ella Wheeler Wilcox, dont le poème qui suit est un vibrant appel en faveur de ces créatures qui ne peuvent s'exprimer en paroles et que nous devrions protéger:
 
-"Je suis la voix de l'inarticulé Par moi les muets parleront Jusqu'à ce que les oreilles d'un monde Aujourd'hui sourd, soient forcées d'écouter La plainte du faible qui restait sans voix.
+```
+"Je suis la voix de l'inarticulé 
+Par moi les muets parleront 
+Jusqu'à ce que les oreilles d'un monde 
+Aujourd'hui sourd, soient forcées d'écouter 
+La plainte du faible qui restait sans voix.
 
-La même force qui a modelé l'homme-roi A façonné le petit moineau; Le Dieu du Grand Tout A donné une étincelle d'âme Au monde porteur de poils ou de plumes.
+La même force qui a modelé l'homme-roi 
+A façonné le petit moineau; 
+Le Dieu du Grand Tout 
+A donné une étincelle d'âme 
+Au monde porteur de poils ou de plumes.
 
-Et je suis le gardien de mon frère; Je veux lutter pour sa défense En élevant bien haut ma voix Jusqu'à ce que le monde comprenne Et que les bêtes soient épargnées."
+Et je suis le gardien de mon frère; 
+Je veux lutter pour sa défense 
+En élevant bien haut ma voix 
+Jusqu'à ce que le monde comprenne 
+Et que les bêtes soient épargnées."
+```
 
 ### <h3 id="chapter-12">Chapitre 12 - Lumière Mystique sur la Guerre Mondiale - Quatrième Parite: L'Évangile de la Joie - Mai 1918</h3>
 
@@ -573,7 +605,9 @@ Il y a quelque temps, notre attention a été attirée sur un livre intitulé "P
 
 Finalement, la vie étant devenue de plus en plus dure, la mère de Pollyanna mourut, bientôt suivie par le père, laissant Pollyanna dépendre d'une tante, vieille fille riche, mais revêche et inhospitalière. En dépit de l'accueil et du logis peu agréable qui lui était dévolu sous les combles, la petite fille ne voyait aucune raison de ne pas être contente; elle rayonnait littéralement de joie, entraînant par son charme la bonne, le jardinier et pour finir la tante revêche elle-même. L'esprit de cette enfant voyant tout en rose apportait de la beauté sur les murs nus de sa mansarde obscure. S'il n'y avait pas de tableaux, elle pouvait être heureuse à l'idée que sa petite fenêtre donnait sur un paysage bien plus beau que ce qu'un artiste aurait pu peindre, car c'était un tapis vert et or, plus beau qu'une tapisserie due au plus habile des tisserands. Si son lavabo primitif n'avait pas de miroir, elle était heureuse que son absence l'empêche de contempler ses taches de rousseur; et n'avait-elle pas de raison d'être heureuse que ces taches ne soient pas des verrues? Si sa malle était petite et ses vêtements peu nombreux, n'y avait-il pas de raison d'être heureuse que le déballage ne soit plus vite fait? Si ses parents ne pouvaient être avec elle, n'était-ce pas une raison d'être contente qu'ils soient avec Dieu dans le ciel? S'ils ne pouvaient plus lui parler, ne devait-elle pas se réjouir de ce qu'elle-même pouvait leur parler?
 
-En parcourant les prés et les landes, légère comme un oiseau, elle avait oublié l'heure du dîner, et à son retour sa tante lui ordonna d'aller à la cuisine et de faire son repas de pain et de lait. A sa tante qui s'attendait à des pleurs et à des bouderies, elle répondit: "Oh, tante, je suis bien contente de ce que vous m'offrez; j'aime tant le pain avec du lait!" Aucune mesure sévère, et elles étaient nombreuses au début, sans qu'elle imagine, avec une pensée reconnaissante, quelque motif caché. Sa première convertie fut la bonne, qui n'aimait pas penser au lundi, jour de lessive où elle était d'humeur maussade. Bientôt cette petite fille transforma les sentiments de Nancy qui, de ce jour, devint plus heureuse le lundi matin que les autres jours, parce qu'il n'y avait qu'un jour de lessive pour toute une semaine, et bien-tôt elle fut joyeuse à la pensée que son nom n'était pas Hephzibah, mais Nancy, nom qui lui déplaisait jusqu'alors. Un jour où Nancy protestait en disant: "Tout de même, il n'y a rien de réjouissant dans un enterrement", Pollyanna répondit du tac au tac: "Mais si, nous pouvons être heureux que ce ne soit pas le nôtre!" Au jardinier qui se plaignait d'être à moitié courbé par ses rhumatismes, elle enseigna aussi son jeu en lui disant qu'il pouvait être heureux, vu que la moitié du mouvement nécessaire pour arracher les mauvaises herbes était déjà faite.
+En parcourant les prés et les landes, légère comme un oiseau, elle avait oublié l'heure du dîner, et à son retour sa tante lui ordonna d'aller à la cuisine et de faire son repas de pain et de lait. A sa tante qui s'attendait à des pleurs et à des bouderies, elle répondit: "Oh, tante, je suis bien contente de ce que vous m'offrez; j'aime tant le pain avec du lait!" Aucune mesure sévère, et elles étaient nombreuses au début, sans qu'elle imagine, avec une pensée reconnaissante, quelque motif caché. 
+
+Sa première convertie fut la bonne, qui n'aimait pas penser au lundi, jour de lessive où elle était d'humeur maussade. Bientôt cette petite fille transforma les sentiments de Nancy qui, de ce jour, devint plus heureuse le lundi matin que les autres jours, parce qu'il n'y avait qu'un jour de lessive pour toute une semaine, et bien-tôt elle fut joyeuse à la pensée que son nom n'était pas Hephzibah, mais Nancy, nom qui lui déplaisait jusqu'alors. Un jour où Nancy protestait en disant: "Tout de même, il n'y a rien de réjouissant dans un enterrement", Pollyanna répondit du tac au tac: "Mais si, nous pouvons être heureux que ce ne soit pas le nôtre!" Au jardinier qui se plaignait d'être à moitié courbé par ses rhumatismes, elle enseigna aussi son jeu en lui disant qu'il pouvait être heureux, vu que la moitié du mouvement nécessaire pour arracher les mauvaises herbes était déjà faite.
 
 Tout près de chez elle, dans une demeure luxueuse, vivait un célibataire âgé, un solitaire maussade. Plus il la repoussait, plus elle se sentait encouragée d'aller vers lui parce que personne ne venait le voir. Dans son innocence et sa pitié, elle attribuait ce manque de courtoisie à un chagrin secret, ce qui la rendait plus désireuse de lui enseigner son jeu optimiste. Elle parvint à le lui apprendre, mais non sans peine, et lorsqu'il se cassa la jambe, il ne fut pas facile de lui faire admettre que son sort serait pire s'il était un mille-pattes avec toutes ses pattes fracturées. Son caractère aimant finit par lui faire aimer la lumière du soleil, monter ses stores, tirer les rideaux et ouvrir son coeur au monde. Il aurait voulu l'adopter, mais n'y parvenant pas, il adopta un petit orphelin qu'elle avait eu l'occasion de rencontrer sur son chemin.
 
@@ -587,7 +621,9 @@ Quant à son application à la guerre en général, au lieu d'être découragés
 
 Grandes sont les souffrances accompagnant la naissance de l'altruisme dans une multitude de coeurs humains, mais c'est par la souffrance suprême de cette guerre que l'humanité deviendra plus aimable, plus noble et meilleure qu'elle ne l'a jamais été précédemment. Si nous pouvons seulement voir sous cet angle les souffrances et les chagrins actuels, si nous pouvons apprendre à d'autres à envisager les bénédictions futures qui découleront de ces peines et de ces souffrances, nous serons personnellement plus à même de nous remettre de la tension présente et d'autant plus qualifiés pour aider les autres à en faire de même.
 
-De cette manière, nous pouvons imiter Pollyanna et, si nos arguments reposent sur des bases solides, ils se répandront et prendront racine dans d'autres coeurs. Alors, comme les pensées sont des choses réelles et que les bonnes pensées sont plus puissantes que les mauvaises en raison de leur harmonie avec le sens de l'évolution, le jour viendra où nous gagnerons cette bataille qui nous rapprochera de la paix permanente. Nous souhaitons que cette suggestion soit prise au sérieux et mise en pratique par chacun de nos étudiants, car sa nécessité est grande, plus grande aujourd'hui qu'elle ne l'a jamais été.
+De cette manière, nous pouvons imiter Pollyanna et, si nos arguments reposent sur des bases solides, ils se répandront et prendront racine dans d'autres coeurs. Alors, comme les pensées sont des choses réelles et que les bonnes pensées sont plus puissantes que les mauvaises en raison de leur harmonie avec le sens de l'évolution, le jour viendra où nous gagnerons cette bataille qui nous rapprochera de la paix permanente. 
+
+Nous souhaitons que cette suggestion soit prise au sérieux et mise en pratique par chacun de nos étudiants, car sa nécessité est grande, plus grande aujourd'hui qu'elle ne l'a jamais été.
 
 ### <h3 id="chapter-13">Chapitre 13 - La Signification Ésotérique de Paques - Et la Diffusion de la Philosophie Rosicrucienne</h3>
 
@@ -649,7 +685,9 @@ Que le lecteur veuille bien observer qu'il n'est pas possible de forcer ces éne
 
 D'autres problèmes se sont présentés aux expérimentateurs dans leur transformation de l'énergie hydraulique à bonne distance de sa source. Il s'est trouvé que le courant électrique tendait toujours à se perdre dans la terre par le chemin le plus court s'il existait une possibilité quelconque d'y parvenir. Il était donc nécessaire de séparer les fils conducteurs de la terre par une substance qui l'empêcherait de s'échapper, tout comme la haute muraille empêche le prisonnier de s'évader. Il fallait donc trouver un corps pour lequel l'électricité avait de l'aversion et l'on a trouvé dans le verre, la porcelaine et autres substances fibreuses, ré-solvant ainsi par des moyens scientifiques et ingénieux, toujours en accord avec les lois de la nature, le problème de l'utilisation la plus avantageuse, à de grandes distances, de la considérable énergie que les anciens moulins rustiques gaspillaient autrefois à sa source.
 
-La même application des procédés scientifiques à d'autres problèmes de la vie, tels le jardinage, a également don-né de merveilleux résultats pour le bien- être et le confort de l'humanité, faisait pousser deux cents brins d'herbe là où les méthodes anciennes n'arrivaient pas à en faire pousser un seul. Des hommes tels que Luther Burbank ont amélioré des variétés de fruits et légumes sauvages, les rendant plus gros, plus agréables au goût, aussi bien que plus nombreux, et dans tous les domaines où les procédés scientifiques ont remplacé certaines pratiques arriérées, les mêmes bons résultats ont été obtenus. Mais, comme nous l'avons vu, et cela est très important, tout ce qui a été vraiment amélioré l'a été en se conformant aux lois naturelles. L'axiome d'Hermès "en bas comme en haut" énonce la loi de l'analogie, clé de tous les mystères, qu'ils soient spirituels ou matériels; nous pouvons donc en déduire que ce qui est bon et qui réussit pour l'application de méthodes scientifiques aux problèmes matériels, réussira tout aussi bien pour la solution des mystères spirituels. Un rapide coup d'oeil au développement religieux dans le passé nous suffira pour nous démontrer qu'il n'a été, ni scientifique, ni systématique, et que des procédés des plus aléatoires ont prévalu. Grâce à leur capacité dévotionnelle, quelques-uns seule-ment ont atteint les hauteurs sublimes de la spiritualité et sont reconnus au cours des siècles comme des saints, projetant de la lumière sur le sentier, montrant ce qui est possible. Mais comment arriver à cette spiritualité, voilà qui a été et qui est encore un mystère pour tous, même pour ceux qui étaient le plus ardemment désireux d'y parvenir, et de nos jours ils sont peu nombreux, hélas!
+La même application des procédés scientifiques à d'autres problèmes de la vie, tels le jardinage, a également don-né de merveilleux résultats pour le bien- être et le confort de l'humanité, faisait pousser deux cents brins d'herbe là où les méthodes anciennes n'arrivaient pas à en faire pousser un seul. Des hommes tels que Luther Burbank ont amélioré des variétés de fruits et légumes sauvages, les rendant plus gros, plus agréables au goût, aussi bien que plus nombreux, et dans tous les domaines où les procédés scientifiques ont remplacé certaines pratiques arriérées, les mêmes bons résultats ont été obtenus. Mais, comme nous l'avons vu, et cela est très important, tout ce qui a été vraiment amélioré l'a été en se conformant aux lois naturelles. 
+
+L'axiome d'Hermès "en bas comme en haut" énonce la loi de l'analogie, clé de tous les mystères, qu'ils soient spirituels ou matériels; nous pouvons donc en déduire que ce qui est bon et qui réussit pour l'application de méthodes scientifiques aux problèmes matériels, réussira tout aussi bien pour la solution des mystères spirituels. Un rapide coup d'oeil au développement religieux dans le passé nous suffira pour nous démontrer qu'il n'a été, ni scientifique, ni systématique, et que des procédés des plus aléatoires ont prévalu. Grâce à leur capacité dévotionnelle, quelques-uns seule-ment ont atteint les hauteurs sublimes de la spiritualité et sont reconnus au cours des siècles comme des saints, projetant de la lumière sur le sentier, montrant ce qui est possible. Mais comment arriver à cette spiritualité, voilà qui a été et qui est encore un mystère pour tous, même pour ceux qui étaient le plus ardemment désireux d'y parvenir, et de nos jours ils sont peu nombreux, hélas!
 
 Les Frères Aînés de la Rose-Croix ont toutefois élaboré un procédé scientifique qui, s'il est appliqué rationnelle-ment et avec persévérance, développera les pouvoirs endormis de l'âme dans chaque individu, aussi sûrement qu'une application constante rendra une personne habile dans n'importe quelle branche matérielle où ses efforts se con-centrent. Pour comprendre ce sujet, il faut bien considérer les faits: c'est l'ancien moulin rustique qui a donné aux ingénieurs l'idée d'utiliser cette énergie d'une manière efficace et bien plus avantageuse. Si nous étudions en premier lieu le développement naturel du pouvoir de l'âme au cours de l'évolution, nous pourrons aussi comprendre les grands résultats bienfaisants qui découlent de l'utilisation de pro-cédés scientifiques dans cette affaire si importante. Ceux qui étudient les enseignements rosicruciens sont évidemment familiarisés avec les principales particularités du développement de l'humanité par l'évolution, mais il se peut que certains lecteurs n'en soient pas informés, et ce qui suit est un aperçu un peu plus complet qu'il ne serait autrement nécessaire.
 
@@ -667,21 +705,13 @@ Il existe une autre classe de gens qui ont entrevu la vision d'un avenir lointai
 
 Mais lorsqu'on parle de Rétropsection, il est fréquent que l'on nous réponde: "Oh, mais ceci est enseigné par d'autres mouvements religieux, et je l'ai pratiqué toute ma vie. Je fais mon examen de conscience tous les soir avant de m'endormir".
 
-C'est bien, mais ce n'est pas suffisant. Pour faire scientifiquement cet exercice, il est nécessaire de suivre le procédé de la Nature comme l'ont fait les électriciens pour isoler le courant électrique attiré par la terre, et qui ont trouvé que le verre, la porcelaine et les fibres serviraient à empêcher son passage. Nous devons nous conformer à chaque particularité du procédé de la nature en vue de produire la croissance spirituelle. Lorsque nous étudions comment se produit l'expiation au purgatoire, nous trouvons que le panorama de la vie écoulée se déroule en sens inverse, de-puis le tombeau jusqu'au berceau, les derniers évènements de la vie se présentant en premier pour être expiés, et ceux de la première jeunesse en dernier, ceci étant fait dans l'intention de montrer à l'âme comment certains effets de la vie découlent des causes produites durant les années précédentes. De même, la méthode scientifique de développement spirituel exige que l'aspirant revoie sa vie chaque soir avant de s'endormir, en commençant par les évènements de la soirée, puis graduellement repassant en sens contraire tout ce qui est arrivé dans l'après-midi, puis ce qui s'est passé le matin, et ceci jusqu'au réveil.
-
-Mais ce qui importe surtout, c'est de ne pas se contenter de revoir les scènes pour la forme et d'admettre que l'on regrette d'avoir été peu aimable ou injuste envers une autre personne. A ce sujet, le symbole de l'autel des holocaustes nous donne un enseignement bien défini: tout comme les sacrifices étaient frottés au sel qui, on le sait, brûle et produit une douleur cuisante lorsqu'on en met sur une blessure; et comme le feu consume également le sacrifice sur l'autel des holocaustes, ainsi l'aspirant à la croissance spirituelle doit comprendre qu'il est à la fois le prêtre et le sacrifice, l'autel et le feu qui s'y trouve, il doit permettre au sel et au feu du remords de le brûler, et ressentir au plus profond du coeur une contrition qui le ronge à la pensée du mal qu'il a commis. En effet, c'est seulement de cette manière extrêmement intense et sérieuse qu'il lui sera possible de faire disparaître le souvenir de cet événement gravé sur l'atome-germe du coeur et de s'en débarrasser entièrement. Sans cela, rien ne se réalise, mais si l'aspirant au développement scientifique de l'âme réussit à attiser avec suffisamment d'intensité ce feu du remords et de la contrition, il en résultera que l'atome-germe sera purifié des péchés commis jour après jour au cours de sa vie, et même les choses qui se sont produites avant de se livrer à cet exercice disparaîtront graduellement devant ce feu purificateur. A la fin de sa vie, lorsque se rompra la corde d'argent, l'aspirant se trouvera sans panorama de la vie écoulée qui requière son attention comme chez les gens ordinaires qui n'ont pas la chance d'avoir été mis au courant de cette méthode scientifique et de la pratiquer.
-
-Pour l'aspirant, il se trouve qu'au lieu de passer au purgatoire une période de temps d'environ un tiers de la vie vécue dans le corps physique, il pourra, s'il a eu de la cons-tance et de la fermeté dans la pratique de cette méthode, être libre de toute entrave dans le monde invisible, n'étant plus lié par des limitations qui retiennent et enchaînent les autres, si bien qu'il pourra, s'il le veut, consacrer tout son temps au service de l'humanité souffrante pendant qu'il est dans les régions inférieures.
-
-Mais il y a une grande différence entre les occasions de servir dans ce monde- ci et dans l'autre: ici-bas, un tiers de notre vie est pris par le sommeil et la récupération, un autre tiers est pris par le travail qui nous permet de nous nourrir, nous vêtir et nous loger, et il ne reste plus qu'un tiers qui reste libre pour nous reposer, nous divertir ou développer notre âme. Il en va tout autrement dans le monde du désir, où l'esprit se trouve après sa mort. Les corps dans lesquels nous agissons alors n'ont aucun besoin de nourriture, de vêtements et d'abri; ils ne sont pas non plus sujets à la fatigue, si bien qu'au lieu de consacrer deux tiers de la journée comme ici-bas à prendre soin des nécessités du corps, l'esprit est libre d'utiliser ses véhicules durant les vingt-quatre heures de chaque jour. C'est ainsi que le temps économisé dans le monde invisible, après avoir vécu notre purgatoire jour après jour, est l'équivalent de la portion de toute une vie terrestre que nous dépensons en travail. Et de plus, durant tout ce temps où nous travaillons sans interruption, aucune pensée ni aucun soin ne doit être consacré à autre chose qu'à aider à l'avancement de nos plus jeunes et malheureux frères dans leur évolution.
-
-De cette manière, nous pouvons récolter une abondante moisson et progresser davantage au cours de cette période d'après-vie qu'il ne serait possible en plusieurs vies terrestres. Lors de notre vie suivante, nous posséderons tous les pouvoirs ainsi acquis, et nous serons bien plus avancés sur le sentier de l'évolution que les circonstances ordinaires ne l'auraient permis.
+C'est bien, mais ce n'est pas suffisant. Pour faire scientifiquement cet exercice, il est nécessaire de suivre le procédé de la Nature comme l'ont fait les électriciens pour isoler le courant électrique attiré par la terre, et qui ont trouvé que le verre, la porcelaine et les fibres serviraient à empêcher son passage. Nous devons nous conformer à chaque particularité du procédé de la nature en vue de produire la croissance spirituelle. Lorsque nous étudions comment se produit l'expiation au purgatoire, nous trouvons que le panorama de la vie écoulée se déroule en sens inverse, de-puis le tombeau jusqu'au berceau, les derniers évènements de la vie se présentant en premier pour être expiés, et ceux de la première jeunesse en dernier, ceci étant fait dans l'intention de montrer à l'âme comment certains effets de la vie découlent des causes produites durant les années précédentes. De même, la méthode scientifique de développement spirituel exige que l'aspirant revoie sa vie chaque soir avant de s'endormir, en commençant par les évènements de la soirée, puis graduellement repassant en sens contraire tout ce qui est arrivé dans l'après-midi, puis ce qui s'est passé le matin, et ceci jusqu'au réveil. Mais ce qui importe surtout, c'est de ne pas se contenter de revoir les scènes pour la forme et d'admettre que l'on regrette d'avoir été peu aimable ou injuste envers une autre personne. A ce sujet, le symbole de l'autel des holocaustes nous donne un enseignement bien défini: tout comme les sacrifices étaient frottés au sel qui, on le sait, brûle et produit une douleur cuisante lorsqu'on en met sur une blessure; et comme le feu consume également le sacrifice sur l'autel des holocaustes, ainsi l'aspirant à la croissance spirituelle doit comprendre qu'il est à la fois le prêtre et le sacrifice, l'autel et le feu qui s'y trouve, il doit permettre au sel et au feu du remords de le brûler, et ressentir au plus profond du coeur une contrition qui le ronge à la pensée du mal qu'il a commis. En effet, c'est seulement de cette manière extrêmement intense et sérieuse qu'il lui sera possible de faire disparaître le souvenir de cet événement gravé sur l'atome-germe du coeur et de s'en débarrasser entièrement. Sans cela, rien ne se réalise, mais si l'aspirant au développement scientifique de l'âme réussit à attiser avec suffisamment d'intensité ce feu du remords et de la contrition, il en résultera que l'atome-germe sera purifié des péchés commis jour après jour au cours de sa vie, et même les choses qui se sont produites avant de se livrer à cet exercice disparaîtront graduellement devant ce feu purificateur. A la fin de sa vie, lorsque se rompra la corde d'argent, l'aspirant se trouvera sans panorama de la vie écoulée qui requière son attention comme chez les gens ordinaires qui n'ont pas la chance d'avoir été mis au courant de cette méthode scientifique et de la pratiquer. Pour l'aspirant, il se trouve qu'au lieu de passer au purgatoire une période de temps d'environ un tiers de la vie vécue dans le corps physique, il pourra, s'il a eu de la cons-tance et de la fermeté dans la pratique de cette méthode, être libre de toute entrave dans le monde invisible, n'étant plus lié par des limitations qui retiennent et enchaînent les autres, si bien qu'il pourra, s'il le veut, consacrer tout son temps au service de l'humanité souffrante pendant qu'il est dans les régions inférieures. Mais il y a une grande différence entre les occasions de servir dans ce monde- ci et dans l'autre: ici-bas, un tiers de notre vie est pris par le sommeil et la récupération, un autre tiers est pris par le travail qui nous permet de nous nourrir, nous vêtir et nous loger, et il ne reste plus qu'un tiers qui reste libre pour nous reposer, nous divertir ou développer notre âme. Il en va tout autrement dans le monde du désir, où l'esprit se trouve après sa mort. Les corps dans lesquels nous agissons alors n'ont aucun besoin de nourriture, de vêtements et d'abri; ils ne sont pas non plus sujets à la fatigue, si bien qu'au lieu de consacrer deux tiers de la journée comme ici-bas à prendre soin des nécessités du corps, l'esprit est libre d'utiliser ses véhicules durant les vingt-quatre heures de chaque jour. C'est ainsi que le temps économisé dans le monde invisible, après avoir vécu notre purgatoire jour après jour, est l'équivalent de la portion de toute une vie terrestre que nous dépensons en travail. Et de plus, durant tout ce temps où nous travaillons sans interruption, aucune pensée ni aucun soin ne doit être consacré à autre chose qu'à aider à l'avancement de nos plus jeunes et malheureux frères dans leur évolution. De cette manière, nous pouvons récolter une abondante moisson et progresser davantage au cours de cette période d'après-vie qu'il ne serait possible en plusieurs vies terrestres. Lors de notre vie suivante, nous posséderons tous les pouvoirs ainsi acquis, et nous serons bien plus avancés sur le sentier de l'évolution que les circonstances ordinaires ne l'auraient permis.
 
 Il est également important de noter que certaines méthodes de développement spirituel enseignées et pratiquées par d'autres écoles sont dangereuses et peuvent nous conduire dans un asile d'aliénés, alors que la méthode scientifique conseillée par les Frères Aînés de l'Ordre de la Rose-Croix profitera toujours à quiconque la pratique et qu'elle ne pourra jamais, dans aucune circonstance, faire du mal à qui que ce soit. Nous pouvons également dire qu'en cas de nécessité, d'autres aides non mentionnées ici peuvent être données à ceux qui ont montré leur mérite par leur persévérance, et quoique cela ne concerne pas directement la vue spirituelle, celle-ci se développera chez ceux qui seront suffisamment fidèles et persévérants.
 
 ### <h3 id="chapter-17">Chapitre 17 - Les Cieux Racontent la Gloire de Dieu</h3>
 
-Allocution prononcée par Max Heindel le 5 janvier 1919, la veille de son décès.
+() - Allocution prononcée par Max Heindel le 5 janvier 1919, la veille de son décès.
 
 "Les cieux nous racontent la gloire de Dieu, et le firmament nous montre son oeuvre. Le jour instruit un autre jour, et la nuit en donne connaissance à une autre nuit. Ce n'est pas un langage, ce ne sont pas des paroles dont le son ne soit pas entendu. Leur retentissement parcourt toute la terre, leurs accents vont aux extrémités du monde, où il a dressé une tente pour le soleil. Et le soleil, semblable à un époux qui sort de sa chambre, s'élance dans la carrière avec la joie d'un héros" (Psaume 19).
 
@@ -689,23 +719,17 @@ Autour de nous, de tous côtés, nous voyons le glorieux lever du soleil apporta
 
 Dans ce kaléidoscope toujours changeant des cieux, une seule étoile, appelée l'étoile polaire, reste à peu près stationnaire. Du point de vue de notre courte vie sur terre de cinquante, soixante ou cent ans, nous pouvons dire qu'elle est fixe. Lorsqu'un navigateur voyage sur l'étendue des mers, il sait qu'aussi longtemps qu'il se dirigera sur la base de ce repère, il arrivera sûrement à destination. Il n'est même pas découragé lorsque des nuages lui cachent l'étoile qui le guide, car il a une boussole magnétisée par un pouvoir mystérieux, si bien qu'à travers le soleil, la pluie et les brouillards, elle indiquera infailliblement cette étoile fixe, ce qui lui permet de se diriger avec autant de certitude que si elle était visible. En vérité, les cieux racontent les merveilles du Seigneur.
 
-Ce qui existe dans le macrocosme, le grand univers qui nous entoure, se reflète aussi dans nos propres vies. A notre naissance, le soleil de notre vie se lève, et nous commençons notre ascension par les années de l'enfance et de la jeunesse jusqu'au zénith de l'âge adulte. Le monde changeant de notre milieu nous entoure de nos parents, père, mère, frères et soeurs. Avec nos amis, nos connaissances et nos ennemis, nous affrontons la lutte pour la vie avec la force plus ou moins grande acquise dans nos vies antérieures, pour payer les dettes contractées et pour supporter le poids de cette vie, ou peut- être pour les rendre plus lourdes, selon notre sagesse ou notre manque de bon sens.
-
-Mais parmi toutes les circonstances changeantes de la vie et les vicissitudes de l'existence, nous avons cependant un grand, un sublime guide qui, de même que l'étoile polaire, ne nous fait jamais défaut, un guide toujours prêt, comme l'étoile fixe des cieux, à nous aider à diriger l'embarcation de notre vie vers les eaux calmes, et c'est Dieu. Il est significatif de lire dans la Bible que les rois mages, dans leur recherche du Christ, notre grand instructeur spirituel, ont également suivi une étoile les conduisant vers cette grande lumière spirituelle. Que penserions-nous d'un capitaine de vaisseau qui laisserait son navire voguer au hasard et l'abandonnerait à la merci des vents ou au caprice du sort? Serions-nous surpris d'apprendre qu'il a fait naufrage et perdu la vie sur des récifs? Sûrement pas, car c'eût été un miracle de le voir arriver à bon port.
+Ce qui existe dans le macrocosme, le grand univers qui nous entoure, se reflète aussi dans nos propres vies. A notre naissance, le soleil de notre vie se lève, et nous commençons notre ascension par les années de l'enfance et de la jeunesse jusqu'au zénith de l'âge adulte. Le monde changeant de notre milieu nous entoure de nos parents, père, mère, frères et soeurs. Avec nos amis, nos connaissances et nos ennemis, nous affrontons la lutte pour la vie avec la force plus ou moins grande acquise dans nos vies antérieures, pour payer les dettes contractées et pour supporter le poids de cette vie, ou peut- être pour les rendre plus lourdes, selon notre sagesse ou notre manque de bon sens. Mais parmi toutes les circonstances changeantes de la vie et les vicissitudes de l'existence, nous avons cependant un grand, un sublime guide qui, de même que l'étoile polaire, ne nous fait jamais défaut, un guide toujours prêt, comme l'étoile fixe des cieux, à nous aider à diriger l'embarcation de notre vie vers les eaux calmes, et c'est Dieu. Il est significatif de lire dans la Bible que les rois mages, dans leur recherche du Christ, notre grand instructeur spirituel, ont également suivi une étoile les conduisant vers cette grande lumière spirituelle. Que penserions-nous d'un capitaine de vaisseau qui laisserait son navire voguer au hasard et l'abandonnerait à la merci des vents ou au caprice du sort? Serions-nous surpris d'apprendre qu'il a fait naufrage et perdu la vie sur des récifs? Sûrement pas, car c'eût été un miracle de le voir arriver à bon port.
 
 Une merveilleuse allégorie se trouve inscrite en caractères cosmiques dans les cieux. Elle se trouve également gravée dans nos propres vies, et elle nous avertit d'abandonner la vie fugitive du monde matériel et de rechercher la vie éternelle de Dieu.
 
-Nous ne restons pas sans guide, bien que le voile de la chair, l'orgueil de la vie et les convoitises nous aveuglent pour un temps. Mais comme la boussole du navigateur pointe sur l'étoile qui nous guide, ainsi l'esprit nous attire vers sa source avec une aspiration et un désir qui ne peuvent être entièrement comblés, quelles que soient les profondeurs du matérialisme dans lequel nous cherchons à les satisfaire. Nombreux sont ceux qui, maintenant, tâtonnent, cherchent et s'efforcent de résoudre le problème de ce trouble intérieur. Quelque chose semble les pousser, mais ils ne savent pas quoi; ils sont attirés vers le spirituel et cherchent quelque chose de plus élevé, notre Père Céleste. David a écrit dans le Psaume 139:
+Nous ne restons pas sans guide, bien que le voile de la chair, l'orgueil de la vie et les convoitises nous aveuglent pour un temps. Mais comme la boussole du navigateur pointe sur l'étoile qui nous guide, ainsi l'esprit nous attire vers sa source avec une aspiration et un désir qui ne peuvent être entièrement comblés, quelles que soient les profondeurs du matérialisme dans lequel nous cherchons à les satisfaire. Nombreux sont ceux qui, maintenant, tâtonnent, cherchent et s'efforcent de résoudre le problème de ce trouble intérieur. Quelque chose semble les pousser, mais ils ne savent pas quoi; ils sont attirés vers le spirituel et cherchent quelque chose de plus élevé, notre Père Céleste. 
 
-"Si je monte aux cieux, tu y est, Si je me couche au séjour des morts, t'y voilà Ta main droite me tiendra et me guidera." Et dans le Psaume 8, il dit:
-
-"Quand je contemple les cieux, ouvrage de tes mains, La lune et les étoiles que tu as créées,
-
-Qu'est-ce que l'homme pour que tu te souviennes de lui? Et le fils de l'homme, pour que tu prennes garde de lui? Tu l'as fait de peu inférieur aux anges, (Elohim) Tu l'as couronné de gloire et d'honneur, Tu lui as donné la domination sur les oeuvres de tes mains, Tu as tout mis sous ses pieds."
+David a écrit dans le Psaume 139: "Si je monte aux cieux, tu y est, Si je me couche au séjour des morts, t'y voilà Ta main droite me tiendra et me guidera." Et dans le Psaume 8, il dit: "Quand je contemple les cieux, ouvrage de tes mains, La lune et les étoiles que tu as créées, Qu'est-ce que l'homme pour que tu te souviennes de lui? Et le fils de l'homme, pour que tu prennes garde de lui? Tu l'as fait de peu inférieur aux anges, (Elohim) Tu l'as couronné de gloire et d'honneur, Tu lui as donné la domination sur les oeuvres de tes mains, Tu as tout mis sous ses pieds."
 
 Ceci n'est pas nouveau pour ceux qui cherchent la lumière, qui ont fait leur possible pour vivre la vie régénérée, mais le danger existe qu'ils deviennent indifférents, qu'ils tombent dans la banalité spirituelle. C'est pourquoi, de même que le navigateur est constamment attentif et surveille la boussole, il est très important de se secouer constamment, de peur de s'endormir et de laisser aller notre embarcation à la dérive. Que chacun de nous se tourne vers cette étoile de l'espoir, cette grande lumière spirituelle, la seule chose vraiment réelle et de valeur, la vie de Dieu.
 
-### <h3 id="chapter-18">Chapitre 18 - Religion te Guérison</h3>
+### <h3 id="chapter-18">Chapitre 18 - Religion et Guérison</h3>
 
 A différentes époques et de différentes manières, l'humanité a reçu des religions propres à la faire progresser sur le sentier de l'évolution. Dans chacune d'elles, l'idéal était juste assez élevé pour éveiller les aspirations de la classe des êtres auxquels il était donné, mais pas au-delà de leur faculté de compréhension, car alors il ne les aurait pas séduits du tout. Par exemple, un primitif doit avoir un Dieu fort, qui tient l'épée flamboyante de la foudre dans sa main puissante. Il peut respecter un tel Dieu avec crainte, mais il méprisera un Dieu montrant de l'amour et de la compassion.
 
@@ -718,6 +742,8 @@ Tel est le cas dans le monde occidental actuel, et c'est la raison pour laquelle
 Les enseignements supérieurs ne sont jamais monnayés. Dans les temps anciens, Pierre a reproché à Simon le sorcier d'avoir tenté d'acheté des pouvoirs spirituels en vue d'un gain matériel. Les Frères Aînés refusent également de recevoir ceux qui avilissent les sciences spirituelles en monnayant les consultations d'astrologie, de chiromancie ou de clairvoyance. The Rosicrucian Fellowship encourage l'étude de l'astrologie et de la chiromancie par ses membres; elle a édité des ouvrages sur l'astrologie dans des manuels donnant des instructions en un langage clair, au prix de l'impression du livre de sorte que chacun peut acquérir cette science au lieu de se faire duper par des professionnels qui ne sont souvent que des ignorants.
 
 Au cours des quelques années où nous avons diffusé les enseignements rosicruciens, ils se sont répandus comme une traînée de poudre dans le monde. Ils ont trouvé un écho dans le coeur de toutes les classes, depuis le Cap de Bonne-Espérance jusqu'au Cercle arctique et au-delà. Nos adhérents se trouvent tout autant dans les organisations gouvernementales que dans les milieux les plus humbles; tous correspondent et sont en contact intime avec notre mouvement et travaillent à la diffusion de ces vérités profondes concernant la vie et l'être, qui les aident dans leurs problèmes.
+
+#### <h4 id="the-rosicrucian-principles-of-healing">THE ROSICRUCIAN PRINCIPLES OF HEALING</h4>
 
 En ce qui concerne notre activité de guérison, il est bien vrai que, comme il est écrit dans le Livre de Job, "la vie de l'homme est brève et sans cesse agitée". Parmi toutes les vicissitudes de la vie, aucune ne nous affecte autant que la perte de la santé. En effet, nous pouvons perdre de l'argent, des amis, avec une certaine sérénité, mais quand la santé décline et que la mort menace, les plus forts chancellent. Alors conscients de notre faiblesse humaine, nous sommes, à ce moment-là, plus disposés qu'en toute autre période à nous tourner vers le divin pour en obtenir du secours, et c'est pourquoi les fonctions de guide spirituel sont toujours plus ou moins liées au pouvoir de guérison.
 
@@ -739,7 +765,7 @@ L'ordre des Rose-Croix s'efforce d'aider l'humanité à réaliser la santé du c
 
 ### <h3 id="chapter-19">Chapitre 19 - Premier Coup de Pelle à Mount Ecclesia</h3>
 
-Allocution prononcée le 28 octobre 1911
+() - Allocution prononcée le 28 octobre 1911
 
 Le Christ a dit: "Là où deux ou trois sont assemblés en mon nom, je suis au milieu d'eux" (Matthieu 18:20) et comme tout ce qu'il disait, cette parole était une expression de la plus profonde sagesse, étant basée sur une loi naturelle aussi immuable que Dieu lui-même. Lorsque les pensées de deux ou trois personnes sont concentrées sur un certain objet ou sur un certain être, une puissante forme-pensée, expression définie de leur désir, est produite et projetée instantanément vers son but. L'effet dépend de l'affinité entre la pensée et celui qui doit la recevoir, tout comme un second diapason de calibre identique vibre en réponse à la note émise par le premier.
 
@@ -877,13 +903,27 @@ Au moment où le point vernal du soleil passe dans une nouvelle constellation zo
 
 Nous savons comment, au cours des dix-neuf cents ans passés, le retour du Christ avait été attendu, et comment, du temps des apôtres, certains espéraient voir son avènement et croyaient qu'il allait fonder sur la terre un royaume de ce monde. Il en est de même aujourd'hui, et nous trouvons des gens attendant sa venue comme celle d'une personne physique. Mais comme le dit Angelus Silesius:
 
-"Le Christ serait-il né mille fois sur la terre S'il ne naît en toi, ton âme est solitaire. La croix du Golgotha tu contemples en vain, Tant qu'en ton coeur tu ne l'élèves point".
+```
+"Le Christ serait-il né mille fois sur la terre 
+S'il ne naît en toi, ton âme est solitaire. 
+La croix du Golgotha tu contemples en vain, 
+Tant qu'en ton coeur tu ne l'élèves point".
+```
 
-Tout comme un diapason donnant une certaine note commence à vibrer lorsque l'on frappe un autre diapason de même tonalité, il en sera de même pour nous. Lorsque nous aurons accordé nos vibrations à celles du Christ, nous serons capables d'exprimer l'amour qu'il est venu enseigner à l'humanité et qu'ici nous essayons d'inculquer dans nos services du dimanche. Avant de vivre conformément à cet amour et de percevoir le Christ intérieur, nous ne pouvons pas voir le Christ extérieur. Par conséquent, rappelons-nous ce petit poème:
+Tout comme un diapason donnant une certaine note commence à vibrer lorsque l'on frappe un autre diapason de même tonalité, il en sera de même pour nous. Lorsque nous aurons accordé nos vibrations à celles du Christ, nous serons capables d'exprimer l'amour qu'il est venu enseigner à l'humanité et qu'ici nous essayons d'inculquer dans nos services du dimanche. Avant de vivre conformément à cet amour et de percevoir le Christ intérieur, nous ne pouvons pas voir le Christ extérieur. 
 
-Ne perdons pas notre temps à soupirer Après des choses glorieuses mais impossibles. N'attendons pas en rêvassant Qu'il nous pousse des ailes d'ange. Ne dédaignons pas d'être d'humbles chandelles, Car chacun ne peut être une étoile; Mais éclairons l'obscurité En brillant juste là où nous sommes.
+Par conséquent, rappelons-nous ce petit poème:
 
-L'humble lumignon a son office Tout comme le superbe soleil, Et l'acte le plus simple est ennobli Lorsqu'il est dignement accompli. Nous pouvons n'être jamais appelés A illuminer de lointains lieux obscurs. Remplissons donc notre mission En brillant juste là où nous sommes." 
+```
+Ne perdons pas notre temps à soupirer 
+Après des choses glorieuses mais impossibles. 
+N'attendons pas en rêvassant 
+Qu'il nous pousse des ailes d'ange. 
+Ne dédaignons pas d'être d'humbles chandelles, 
+Car chacun ne peut être une étoile; 
+Mais éclairons l'obscurité 
+En brillant juste là où nous sommes.
+```
 
 ### <h3 id="chapter-24">Chapitre 24 - L'Arc-en-Ciel</h3>
 
@@ -901,7 +941,9 @@ Tant qu'avait subsisté cette atmosphère humide, l'arc-en-ciel était une impos
 
 En considérant cet arc comme l'une des manifestations de la divinité, nous pouvons apprendre de merveilleuses leçons de dévotion, car tandis que nous regardons les éclairs avec un respect mêlé de crainte et que nous entendons le tonnerre avec frayeur, l'arc-en-ciel éveille toujours dans le coeur humain un sentiment d'admiration pour la beauté de ses sept couleurs. Rien ne peut se comparer avec cet arc merveilleux, et je voudrais attirer votre attention, à ce sujet, sur quelques faits physiques.
 
-Tout d'abord, l'arc-en-ciel n'apparaît jamais à midi; il apparaît toujours lorsque le soleil monte sur l'horizon ou lorsqu'il redescend après avoir traversé plus de la moitié de la distance entre le méridien et l'horizon. Plus le soleil est près de se coucher, plus l'arc-en-ciel est clair, grand et beau. Il n'apparaît jamais dans un ciel sans nuages., Il a ordinairement comme fond un nuage sombre et lugubre, et nous le voyons toujours en tournant le dos au soleil, car on ne peut voir l'arc-en-ciel et le soleil en même temps. Lorsqu'on regarde l'arc d'en-bas, il apparaît comme un demi-cercle au-dessus de la terre et de nous, mais plus nous montons, plus le cercle est grand, et dans les montagnes, lorsque nous atteignons une certaine hauteur au-dessus de l'arc-en-ciel, nous le voyons comme un cercle septuple, tout comme la septuple divinité dont il est la manifestation.
+Tout d'abord, l'arc-en-ciel n'apparaît jamais à midi; il apparaît toujours lorsque le soleil monte sur l'horizon ou lorsqu'il redescend après avoir traversé plus de la moitié de la distance entre le méridien et l'horizon. Plus le soleil est près de se coucher, plus l'arc-en-ciel est clair, grand et beau. Il n'apparaît jamais dans un ciel sans nuages., Il a ordinairement comme fond un nuage sombre et lugubre, et nous le voyons toujours en tournant le dos au soleil, car on ne peut voir l'arc-en-ciel et le soleil en même temps. 
+
+Lorsqu'on regarde l'arc d'en-bas, il apparaît comme un demi-cercle au-dessus de la terre et de nous, mais plus nous montons, plus le cercle est grand, et dans les montagnes, lorsque nous atteignons une certaine hauteur au-dessus de l'arc-en-ciel, nous le voyons comme un cercle septuple, tout comme la septuple divinité dont il est la manifestation.
 
 Ayant devant nous ces réalités physiques, voyons maintenant l'interprétation mystique du sujet. Dans la vie ordinaire, lorsque nous sommes au plus haut point de notre activité physique, lorsque la prospérité est à son degré le plus élevé, que toutes choses nous apparaissent claires et lumineuses, nous n'avons pas besoin de la manifestation de la vie et de la lumière divines. Nous n'avons pas besoin de l'alliance que Dieu a conclue avec l'homme lors de son entrée dans l'époque Aryenne. La vie régénérée ne nous intéresse pas. Notre esquif vogue sur une mer sereine d'été et rien ne nous inquiète; tout va tellement bien pour nous ici qu'il ne semble pas nécessaire de voir plus loin.
 
@@ -951,11 +993,7 @@ Quel que soit notre milieu, il y a toujours une occasion où nous pouvons faire 
 
 Thomas a Kempis a exprimé cette pensée comme seul un mystique pouvait le faire, et en des termes si choisis que nous trouverons une grande satisfaction à lire et à méditer quelques passages de son "Imitation de Jésus-Christ". Il nous dit:
 
-"Tout homme désire naturellement savoir mais la science sans la crainte de Dieu, que vaut-elle? En vérité, un humble paysan qui sert Dieu est certainement au-dessus d'un philosophe prétentieux qui, se négligeant lui-même, étudie le cours des astres.
-
-Plus tu sais de choses, plus tu seras sévèrement jugé si tu n'en vis pas plus saintement. N'en tire point de vanité, mais tremble plutôt à cause des lumières qui t'ont été données.
-
-Si tu crois en savoir beaucoup, songe qu'il y a bien des choses que tu ignores. Tu ne sais pas non plus combien de temps tu persévéreras dans le bien."
+"Tout homme désire naturellement savoir mais la science sans la crainte de Dieu, que vaut-elle? En vérité, un humble paysan qui sert Dieu est certainement au-dessus d'un philosophe prétentieux qui, se négligeant lui-même, étudie le cours des astres. Plus tu sais de choses, plus tu seras sévèrement jugé si tu n'en vis pas plus saintement. N'en tire point de vanité, mais tremble plutôt à cause des lumières qui t'ont été données. Si tu crois en savoir beaucoup, songe qu'il y a bien des choses que tu ignores. Tu ne sais pas non plus combien de temps tu persévéreras dans le bien."
 
 Par conséquent, rappelons-nous qu'il ne faut pas chercher la connaissance uniquement pour elle-même, mais comme un moyen de vivre une vie meilleure et plus pure, car cela seul pourra justifier une telle recherche. 
 
@@ -991,7 +1029,9 @@ C'est alors qu'a commencé le pèlerinage à travers le désert, un désert de l
 
 La première chose que nous apprenons du point de vue occulte au sujet du Tabernacle dans le désert est que Moïse fut appelé sur la montagne, et que là on lui montra certains clichés. Vous vous rappellerez que la "Cosmogonie" parle de "clichés-images", ou archétypes dans les mondes célestes. Dans la langue grecque, nous trouvons le mot "arkhé", signifiant "au commencement". Le Christ disait de lui-même - et l'initié qui comprend sa divinité le dit également - "Je suis le commencement (arkhé) et la fin". Dans ce mot de "commencement" (arkhé) se trouve le noyau de toute chose qui existe.
 
-Dans le Tabernacle se trouvait une arche, et cette arche était arrangée de telle manière que les barres de soutien ne pouvaient ou ne devaient pas en être retirées, car pendant tout le pèlerinage à travers le désert, ces barres devaient rester en place. Elles n'ont été enlevées que quand l'arche a été placée dans le Temple de Salomon. Nous voyons ici une condition dans laquelle un certain symbole, un archétype, quelque chose provenant du "commencement", est formé de telle manière qu'il peut être repris à n'importe quelle époque et développé plus avant. Dans cette arche se trouvait le noyau autour duquel tout convergeait: le rameau magique d'Aaron, le vase contenant la manne et les deux tables de la loi.
+Dans le Tabernacle se trouvait une arche, et cette arche était arrangée de telle manière que les barres de soutien ne pouvaient ou ne devaient pas en être retirées, car pendant tout le pèlerinage à travers le désert, ces barres devaient rester en place. Elles n'ont été enlevées que quand l'arche a été placée dans le Temple de Salomon. 
+
+Nous voyons ici une condition dans laquelle un certain symbole, un archétype, quelque chose provenant du "commencement", est formé de telle manière qu'il peut être repris à n'importe quelle époque et développé plus avant. Dans cette arche se trouvait le noyau autour duquel tout convergeait: le rameau magique d'Aaron, le vase contenant la manne et les deux tables de la loi.
 
 Nous avons ici une parfaite description symbolique de ce que l'homme est en réalité, car durant tout le temps qu'il erre dans cette vallée de la matière et qu'il se déplace continuellement d'une endroit à un autre, les barres ne sont jamais enlevées. Elles ne seront pas retirées avant qu'il arrive à cet état symbolisé dans l'Apocalypse où il est dit: "Celui qui vaincra, j'en ferai un pilier du Temple de mon Dieu, et il n'en sortira plus" (Apocalypse 3:12).
 
@@ -1013,6 +1053,6 @@ Pouvons-nous développer notre pouvoir spirituel? Où sont la voie, la vérité 
 
 La durée de notre pèlerinage à travers le désert dépend de nous-mêmes. Chacun de nous possède le pouvoir latent intérieur qui le conduira dans la cité de Paix où l'affliction et la souffrance sont inconnues. Chacun de nous peut et doit se mettre un jour en route, et le premier pas est la purification, car sans une vie pure, il ne saurait y avoir d'avancement spirituel. "Vous ne pouvez servir à la fois Dieu et Mammon" (Matthieu 6:24), est-il écrit, mais "Mammon" est généralement traduit par "argent". Cependant, un homme peut rester dans les affaires et en prendre soin pour le bien général, non pour son avidité égoïste et son propre intérêt, mais en faisant tout ce qu'il peut pour les autres, sans servir Mammon, malgré sa fortune. D'autre part, une personne peut n'aimer que ceux qui l'entourent, mais il existe un amour plus élevé qui se déverse sur tous ceux qui sont au-delà du cercle familial, et c'est celui- là qu'il faut développer. Chaque devoir doit être rempli si l'on veut avoir l'avantage des plus hautes occasions de service qui se présenteront sans cesse pour nous.
 
-Ainsi, nous devons tous apprendre nos leçons de service: service à l'humanité, service aux animaux, service à nos frères plus jeunes, service de tous côtés, car cela seul peut nous faire sortir du "désert". Il est dit que ceux qui étaient les plus grands dans le Tabernacle en étaient les officiants, et le Christ a dit: "Celui qui veut être le plus grand parmi vous, qu'ils se fasse le serviteur de tous" (Matthieu 20:26).
+Ainsi, nous devons tous apprendre nos leçons de service: service à l'humanité, service aux animaux, service à nos frères plus jeunes, service de tous côtés, car cela seul peut nous faire sortir du "désert". Il est dit que ceux qui étaient les plus grands dans le Tabernacle en étaient les officiants, et le Christ a dit: "Celui qui veut être le plus grand parmi vous, qu'ils se fasse le serviteur de tous" (Matthieu 20:26). Efforçons-nous donc de rendre ce service; c'est facile lorsqu'on le veut vraiment. Alors arrivera un jour pas trop éloigné où nous entendrons cette voix douce, la voix de l'Instructeur, qui vient à quiconque sert son prochain et écoute la voix de Dieu.
 
-Efforçons-nous donc de rendre ce service; c'est facile lorsqu'on le veut vraiment. Alors arrivera un jour pas trop éloigné où nous entendrons cette voix douce, la voix de l'Instructeur, qui vient à quiconque sert son prochain et écoute la voix de Dieu.
+Fin
