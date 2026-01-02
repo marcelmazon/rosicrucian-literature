@@ -4,7 +4,7 @@ language: 'fr'
 original_title: "Teachings of an Initiate"
 original_language: 'en'
 author: 'Max Heindel'
-original_source_file: 'self'
+original_source_file: 'teachings-of-an-initiane.md'
 ---
 
 <h1 id="teachings-of-an-initiate">Enseignements d'un Initié</h1>
@@ -30,40 +30,34 @@ Max Heindel, qui était le porte-parole du véritable Ordre de la Rose-Croix, vi
 ### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
 - [Préface](#foreword) 
-- [Chapter I: The Days of Noah and of Christ](#chapter-1)
-- [Chapter II: The Sign of the Master](#chapter-2)
-- [Chapter III: What is Spiritual Work?](#chapter-3)
-- [Chapter IV: The Way of Wisdom](#chapter-4)
-- [Chapter V: The Secret of Success](#chapter-5)
-- [Chapter VI: The Death of the Soul](#chapter-6)
-- [Chapter VII: The New Sense of the New Age](#chapter-7)
-- [Chapter VIII: God's Chosen People](#chapter-8)
-- [Chapter IX: Mystic Light on the World War](#chapter-9)
-    - [Part I - Secret Springs](#part-1)
-- [Chapter X: Mystic Light on the World War](#chapter-10)
-    - [Part II - Its Promotion of Spiritual Sight](#part-2)
-- [Chapter XI: Mystic Light on the World War](#chapter-11)
-    - [Part III - Peace on Earth](#part-3)
-- [Chapter XII: Mystic Light on the World War](#chapter-12)
-    - [Part IV - The Gospel of Gladness](#part-4)
-- [Chapter XIII: The Esoteric Significance of Easter](#chapter-13)
-- [Chapter XIV: The Lesson of Easter](#chapter-14)
-- [Chapter XV: Scientific Method of Spiritual Unfoldment](#chapter-15)
-    - [Part V - Material Analogies](#part-5)
-- [Chapter XVI: Scientific Method of Spiritual Unfoldment](#chapter-16)
-    - [Part VI - Retrospection](#part-6)
-- [Chapter XVII: The Heavens Declare the Glory of God](#chapter-17)
-- [Chapter XVIII: Religion and Healing](#chapter-18)
-- [Chapter XIX: Address at Ground Breaking, Mt. Ecclesia](#chapter-19)
-- [Chapter XX: Our Work in the World, Part I](#chapter-20)
-- [Chapter XXI: Our Work in the World, Part II](#chapter-21)
-- [Chapter XXII: Our Work in the World, Part III](#chapter-22)
-- [Chapter XXIII: Eternal Damnation, and Salvation](#chapter-23)
-- [Chapter XXIV: The Bow in the Cloud](#chapter-24)
-- [Chapter XXV: The Responsibility of Knowledge](#chapter-25)
-- [Chapter XXVI: The Journey Through the Wilderness](#chapter-26)
+- [Chapitre 1 - Les Jours de Noé et du Christ - Novembre 1916](#chapter-1)
+- [Chapitre 2 - Le Signe du Maître - Novembre 1915](#chapter-2)
+- [Chapitre 3 - Qu'est-ce que le Travail Spirituel - Septembre 1916](#chapter-3)
+- [Chapitre 4 - Le Chemin de la Sagesse - Janvier 1915](#chapter-4)
+- [Chapitre 5 - Le Secret du Succes - Octobre 1917](#chapter-5)
+- [Chapitre 6 - La Mort de l'Âme - Juin 1918](#chapter-6)
+- [Chapitre 7 - Le Sixième Sens et l'Ere Nouvelle - Novembre 1918](#chapter-7)
+- [Chapitre 8 - Le Peuple Élu de Dieu - Janvier 1919](#chapter-8)
+- [Chapitre 9 - Lumière Mystique sur la Guerre Mondiale - Première partie: Les Origines Secrets - Septembre 1918](#chapter-9)
+- [Chapitre 10 - Lumière Mystique sur la Guerre Mondiale - Deuxième Partie: Développement de la Vue Spirituelle - Janvier 1917](#chapter-10)
+- [Chapitre 11 - Lumière Mystique sur la Guerre Mondiale - Troisième Partie: Paix sur la Terre - Novembre 1917](#chapter-11)
+- [Chapitre 12 - Lumière Mystique sur la Guerre Mondiale - Quatrième Parite: L'Évangile de la Joie - Mai 1918](#chapter-12)
+- [Chapitre 13 - La Signification Ésotérique de Paques - Et la Diffusion de la Philosophie Rosicrucienne](#chapter-13)
+- [Chapitre 14 - La Leçon de Pâques - Avril 1918](#chapter-14)
+- [Chapitre 15 - La Méthode Scientifique du Développement Spirituel - Première Partie - Analogies Matérielles - Juillet 1917](#chapter-15)
+- [Chapitre 16 - La Méthode Scientifique du Développement Spirituel - Deuxième Partie: La Rétrospection, un Moyen d'Éviter le Purgatoire - Août 1917](#chapter-16)
+- [Chapitre 17 - Les Cieux Racontent la Gloire de Dieu](#chapter-17)
+- [Chapitre 18 - Religion te Guérison](#chapter-18)
+- [Chapitre 19 - Premier Coup de Pelle à Mount Ecclesia](#chapter-19)
+- [Chapitre 20 - Notre Travail dans le Monde - Première partie - Mai 1912](#chapter-20)
+- [Chapitre 21 - Notre Travail dans le Monde - Deuxième Partie - Juin 1912](#chapter-21)
+- [Chapitre 22 - Notre Travail dans le Monde - Troisième Partie - Juillet 1912](#chapter-22)
+- [Chapitre 23 - La Damnation Éternelle et le Salut](#chapter-23)
+- [Chapitre 24 - L'Arc-en-Ciel](#chapter-24)
+- [Chapitre 25 - La Responsabilité de la Connaissance](#chapter-25)
+- [Chapitre 26 - Le Pelerinage a travers le Désert](#chapter-26)
 
-### CHAPITRE 1 - LES JOURS DE NOÉ ET DU CHRIST - Novembre 1916
+### <h3 id="chapter-1">Chapitre 1 - Les Jours de Noé et du Christ - Novembre 1916</h3>
 
 Lors de son entretien avec le Christ au sujet de la nécessité de "naître de nouveau", Nicodème avait demandé: "Comment cela est-il possible?" (Jean 3:3-5). Il en va de même pour nous, dont le mental interrogateur recherche souvent des éclaircissements sur les divers enseignements relatifs à notre avenir. Si ces enseignements sont en concordance avec ce que nous savons des conditions du monde physique, cela peut nous aider en nous donnant une base sûre pour accepter d'autres faits dont nous n'avons pas encore de preuves.
 
@@ -101,7 +95,7 @@ Les résultats des recherches ayant donné lieu à la présente étude peuvent n
 
 Puissions-nous, en marchant sur les traces du Christ, nous préparer en vue de ce jour! 
 
-### CHAPITRE 2 - LE SIGNE DU MAîTRE - Novembre 1915
+### <h3 id="chapter-2">Chapitre 2 - Le Signe du Maître - Novembre 1915</h3>
 
 A l'heure actuelle, il y a beaucoup de personnes qui jugeant d'après les signes des temps, s'imaginent que le retour du Christ est imminent, aussi l'attendent-elles avec une joyeuse espérance. Toutefois, selon l'opinion de l'auteur, bien que les "choses qui doivent d'abord se produire" ne soient pas encore manifestées sur de nombreux points importants, nous ne devons pas oublier que le Christ nous a prévenus en disant que "comme il en était aux jours de Noé, ainsi en sera-t-il au jour du Fils de l'homme". Alors ils buvaient, mangeaient, se mariaient et étaient donnés en mariage jusqu'au moment où le déluge est descendu sur eux pour les engloutir. Quelques-uns seulement ont été sauvés, aussi, lorsque nous prions en vue de l'avènement du Christ, nous ferons bien d'être vigilants, de peur que nos prières ne soient exaucées avant que nous ne soyons prêts, car selon ses paroles, "le jour du Seigneur viendra comme un voleur dans la nuit" (Matthieu 24:37-44).
 
@@ -129,9 +123,7 @@ Ni la Terre, ni ses habitants, n'étaient capables de maintenir leur équilibre 
 
 Au moment de son baptême, Jésus est ainsi devenu un "Fils de la Colombe", et il a été reconnu comme tel par un autre "Simon bar Jonas" (Simon, fils de la Colombe). Après avoir été ainsi reconnu à ce signe, le Maître appelle Simon un rocher, une pierre de soubassement, et lui promet les "clés du ciel" (Matthieu 16:19). Ce ne sont pas là des mots vides de sens ou des promesses en l'air, car ces paroles se rapportent à des phases de développement psychique par lesquelles chacun devra passer, si ce n'est déjà fait.
 
-Quel est donc ce "signe de Jonas" que le Christ portait en lui, qui est visible à tous ceux qui sont capables de le voir, sinon la "demeure céleste" (II Corinthiens 5:2) dont Paul souhaitait être revêtu? N'est-ce pas cet admirable "trésor" (Matthieu 6:20) où les nobles actions de nombreuses vies brillent et scintillent comme des pierres précieuses? Chacun de nous possède sa petite "demeure céleste", et Jésus, l'être pur et saint par excellence, était probablement splendide à voir, mais que dire de l'éclat du glorieux véhicule du Christ lorsqu'il est descendu dans le corps de Jésus? Cela ne nous donne-t-il pas une idée de l' "aveuglement" de ceux qui demandaient un miracle?
-
-Même parmi ses autres disciples, le Christ a trouvé le même aveuglement spirituel. "Montre-nous le Père", disait Philippe, oubliant la mystique Trinité dans l'Unité qui aurait dû lui être évidente. Toutefois, Simon avait immédiatement compris parce que, par l'alchimie spirituelle, il avait lui- même développé ce "Petros" spirituel, ou pierre philosophale, qui lui donnait droit aux "clés du Royaume", ou initiation rendant utilisables les pouvoirs latents que le candidat développe par le service.
+Quel est donc ce "signe de Jonas" que le Christ portait en lui, qui est visible à tous ceux qui sont capables de le voir, sinon la "demeure céleste" (II Corinthiens 5:2) dont Paul souhaitait être revêtu? N'est-ce pas cet admirable "trésor" (Matthieu 6:20) où les nobles actions de nombreuses vies brillent et scintillent comme des pierres précieuses? Chacun de nous possède sa petite "demeure céleste", et Jésus, l'être pur et saint par excellence, était probablement splendide à voir, mais que dire de l'éclat du glorieux véhicule du Christ lorsqu'il est descendu dans le corps de Jésus? Cela ne nous donne-t-il pas une idée de l' "aveuglement" de ceux qui demandaient un miracle? Même parmi ses autres disciples, le Christ a trouvé le même aveuglement spirituel. "Montre-nous le Père", disait Philippe, oubliant la mystique Trinité dans l'Unité qui aurait dû lui être évidente. Toutefois, Simon avait immédiatement compris parce que, par l'alchimie spirituelle, il avait lui- même développé ce "Petros" spirituel, ou pierre philosophale, qui lui donnait droit aux "clés du Royaume", ou initiation rendant utilisables les pouvoirs latents que le candidat développe par le service.
 
 Nous voyons que ces "pierres" pour le "temple non construit de main d'homme" passent par une évolution, ou degré de préparation. Premièrement, il y a "Petros", le diamant brut dans sa gangue, c'est-à-dire tel qu'on le trouve dans la nature. Si nous pouvons lire avec notre coeur ce passage de I Corinthiens 10:4 "et tous ont bu le même breuvage spirituel; ils buvaient en effet à un rocher spirituel (Petros) qui les accompagnait, et ce rocher, c'était le Christ", cette citation nous éclairera à ce sujet. Petit à petit, bien lentement, nous avons été imprégnés de cette eau vitale qui jaillit du grand rocher. Nous avons été polis comme des galets, comme des "Lithoï zôntès" (pierres vivantes) destinées à être groupées avec la Grande Pierre rejetée par les constructeurs (Matthieu 21:42), et quand nous aurons bien oeuvré jusqu'au bout, nous recevrons finalement dans le Royaume, le joyau le plus précieux de tous, la "psêphos leukê" (pierre blanche) avec le nouveau Nom (Apocalypse 2:17).
 
@@ -139,118 +131,135 @@ Il y a donc trois étapes dans le développement de la "Pierre du Sage": tout d'
 
 Si nous espérons construire le Temple vivant avec le Christ dans son Royaume, nous ferons bien de nous préparer pour être à la hauteur des circonstances, et alors nous connaîtrons à la fois le Maître et le signe du Maître.
 
-### CHAPITRE 3 - QU'EST-CE QUE LE TRAVAIL SPIRITUEL - Septembre 1916
+### <h3 id="chapter-3">Chapitre 3 - Qu'est-ce que le Travail Spirituel - Septembre 1916</h3>
 
 En rapport avec ce sujet, nous citons quelques extraits du merveilleux poème de Longfellow, intitulé "La Belle Légende":
 
-    "Seul dans sa cellule,  
-    Agenouillé sur des dalles de pierre,  
-    Le moine priait avec contrition  
-    Pour ses péchés et négligences;  
-    Priait pour plus d'abnégation  
-    Dans l'épreuve et dans la tentation.  
-    Le cadran marquait midi,  
-    Et tout seul était le moine  
-    Soudain, comme dans un éclair,  
-    Une lumière d'une splendeur extraordinaire  
-    Illumina tout en lui et autour de lui  
-    Dans cette étroite cellule de pierre,  
-    Et devant lui était la vision bénie  
-    De notre Seigneur, qu'un halo élyséen  
-    Entourait d'un divin rayonnement,  
-    Le recouvrant comme un vêtement."  
+```
+"Seul dans sa cellule,  
+Agenouillé sur des dalles de pierre,  
+Le moine priait avec contrition  
+Pour ses péchés et négligences;  
+Priait pour plus d'abnégation  
+Dans l'épreuve et dans la tentation.  
+Le cadran marquait midi,  
+Et tout seul était le moine  
+
+Soudain, comme dans un éclair,  
+Une lumière d'une splendeur extraordinaire  
+Illumina tout en lui et autour de lui  
+Dans cette étroite cellule de pierre,  
+Et devant lui était la vision bénie  
+De notre Seigneur, qu'un halo élyséen  
+Entourait d'un divin rayonnement,  
+Le recouvrant comme un vêtement."  
+```
 
 Ce n'était cependant pas le Seigneur souffrant, mais le Christ nourrissant la multitude et guérissant les malades.
 
-    Dans une attitude suppliante,  
-    Les mains croisées sur sa poitrine,  
-    Emerveillé dans son adoration.  
-    Le moine était dans l'extase (...)  
-    Alors, durant cette exaltation,  
-    Il entendit avec consternation  
-    Retentir la cloche du couvent  
-    Qui, à travers cours et corridors,  
-    Semblant ne vouloir cesser jamais,  
-    Sonnait, sonnait sans arrêt."  
+```
+Dans une attitude suppliante,  
+Les mains croisées sur sa poitrine,  
+Emerveillé dans son adoration.  
+Le moine était dans l'extase 
+
+(...)  
+
+Alors, durant cette exaltation,  
+Il entendit avec consternation  
+Retentir la cloche du couvent  
+Qui, à travers cours et corridors,  
+Semblant ne vouloir cesser jamais,  
+Sonnait, sonnait sans arrêt."  
+```
 
 C'était l'appel au devoir de nourrir les pauvres comme l'avait fait le Christ, car il était l'aumônier de la Fraternité.
 
-    L'hésitation et la détresse  
-    Se mêlaient à son adoration;  
-    Fallait-il s'en aller, ou bien rester?  
-    Devait-il faire attendre les pauvres  
-    Affamés à la porte du couvent,  
-    Jusqu'au départ de la vision?  
-    Devait-il négliger cet hôte radieux,  
-    Manquer d'égards envers son visiteur  
-    Pour une troupe de grossiers mendiants,  
-    Se pressant à la grille du couvent?  
-    La vision resterait-elle, ou non?  
-    Reviendrait-elle après son absence?  
-    Alors, en lui, une voix intérieure  
-    Murmura, clairement et distinctement,  
-    Comme tout près de l'oreille:  
-    Fais ton devoir, cela vaut mieux;  
-    Pour le reste, remets-t'en à Dieu  
+```
+L'hésitation et la détresse  
+Se mêlaient à son adoration;  
+Fallait-il s'en aller, ou bien rester?  
+Devait-il faire attendre les pauvres  
+Affamés à la porte du couvent,  
+Jusqu'au départ de la vision?  
+Devait-il négliger cet hôte radieux,  
+Manquer d'égards envers son visiteur  
 
-    Aussitôt, il se met debout  
-    Avec un regard désolé,  
-    Vers la vision qu'il doit quitter,  
-    Sort en hésitant de sa cellule,  
-    S'éloigne lentement vers sa tâche.  
-    A la grille, les pauvres attendaient,  
-    Regardant à travers les barreaux  
-    Avec des regards terrorisés  
-    Qui sont le lot des malheureux  
-    Dont les besoins, trop souvent,  
-    Suscitent les portes qui se ferment,  
-    Et le dédain des pas qui s'éloignent,  
-    Habitués qu'ils sont à la disgrâce,  
-    Accoutumés, hélas, au goût  
-    Du pain par lequel on meurt!  
-    Mais aujourd'hui, pourquoi leur semblait-il  
-    Que la grille, en s'ouvrant lentement,  
-    Etait comme la porte du paradis?  
-    En son coeur attendri, le moine priait,  
-    Songeant aux malheureux sans foyer,  
-    A ce qu'ils doivent souffrir et endurer  
-    A ce qui se voit ou ne se voit pas.  
-    Et la voix intérieure murmura:  
-    Quoi que ce soit que tu fasses  
-    Envers le plus humble des miens,  
-    C'est vraiment à moi que tu le fais.  
+Pour une troupe de grossiers mendiants,  
+Se pressant à la grille du couvent?  
+La vision resterait-elle, ou non?  
+Reviendrait-elle après son absence?  
+Alors, en lui, une voix intérieure  
+Murmura, clairement et distinctement,  
+Comme tout près de l'oreille:  
+Fais ton devoir, cela vaut mieux;  
+Pour le reste, remets-t'en à Dieu  
 
-    A lui vraiment? Mais alors,  
-    Si la vision lui était apparue  
-    Sous forme d'un hère déguenillé,  
-    Se serait-il agenouillé devant lui,  
-    Ou l'aurait-il écouté avec dédain  
-    Avant de s'en détourner avec dégoût?  
-    Ainsi le questionnait sa conscience  
-    Pleine de troublantes suggestions,  
-    Et finalement, d'une allure précipitée,  
-    Il se dirigea vers sa cellule,  
-    Et vit alors le couvent illuminé  
-    D'une lumière surnaturelle,  
-    Comme une nuée se déployant  
-    Sur le sol, les murs et le toit.  
+Aussitôt, il se met debout  
+Avec un regard désolé,  
+Vers la vision qu'il doit quitter,  
+Sort en hésitant de sa cellule,  
+S'éloigne lentement vers sa tâche.  
 
-    Mais il s'arrêta émerveillé  
-    Vers le seuil de sa porte,  
-    Car la vision était toujours là,  
-    Tout comme il l'avait quittée  
-    Quand la cloche du couvent,  
-    Semblant ne vouloir cesser jamais,  
-    Sonnait, sonnait sans arrêt  
-    Pour l'appeler à remplir sa tâche.  
-    Durant cette heure interminable,  
-    Elle avait attendu son retour,  
-    Et il sentit son coeur se serrer  
-    Comprenant soudain la signification  
-    Quand la vision bénie lui dit:  
-    Si tu étais resté, j'aurais dû te quitter!"  
+A la grille, les pauvres attendaient,  
+Regardant à travers les barreaux  
+Avec des regards terrorisés  
+Qui sont le lot des malheureux  
+Dont les besoins, trop souvent,  
+Suscitent les portes qui se ferment,  
+Et le dédain des pas qui s'éloignent,  
+Habitués qu'ils sont à la disgrâce,  
+Accoutumés, hélas, au goût  
+Du pain par lequel on meurt!  
+Mais aujourd'hui, pourquoi leur semblait-il  
+Que la grille, en s'ouvrant lentement,  
+Etait comme la porte du paradis?
 
-Permettez-moi de vous raconter une histoire: dans les anciens temps - très, très anciens - les ténèbres enveloppaient la terre et les hommes cherchaient à tâtons la lumière. Certains l'avaient trouvée, et il s'efforçaient d'en montrer la réflexion à d'autres, aussi étaient-ils très recherchés. Parmi eux se trouvait quelqu'un qui avait séjourné un peu de temps à la ville de lumière et avait absorbé un peu de sa luminosité; aussitôt, les gens de toutes les régions de ce monde obscur sont partis à sa recherche. Ils ont couvert de très grandes distances parce qu'ils avaient entendu parler de cette lumière. En apprenant qu'une foule nombreuse se dirigeait vers sa maison, cet homme s'est mis au travail et s'est préparé à les recevoir de son mieux. Il a planté des poteaux tout autour de sa demeure et y a installé des lampes pour que ses visiteurs ne trébuchent pas dans l'obscurité. Son entourage et lui-même se sont mis à leur service, et il les enseignait de son mieux.
+En son coeur attendri, 
+le moine priait,  
+Songeant aux malheureux sans foyer,  
+A ce qu'ils doivent souffrir et endurer  
+A ce qui se voit ou ne se voit pas.  
+Et la voix intérieure murmura:  
+Quoi que ce soit que tu fasses  
+Envers le plus humble des miens,  
+C'est vraiment à moi 
+que tu le fais.  
+
+A lui vraiment? Mais alors,  
+Si la vision lui était apparue  
+Sous forme d'un hère déguenillé,  
+Se serait-il agenouillé devant lui,  
+Ou l'aurait-il écouté avec dédain  
+Avant de s'en détourner avec dégoût?  
+
+Ainsi le questionnait sa conscience  
+Pleine de troublantes suggestions,  
+Et finalement, d'une allure précipitée,  
+Il se dirigea vers sa cellule,  
+Et vit alors le couvent illuminé  
+D'une lumière surnaturelle,  
+Comme une nuée se déployant  
+Sur le sol, les murs et le toit.  
+
+Mais il s'arrêta émerveillé  
+Vers le seuil de sa porte,  
+Car la vision était toujours là,  
+Tout comme il l'avait quittée  
+Quand la cloche du couvent,  
+Semblant ne vouloir cesser jamais, Sonnait, sonnait sans arrêt  
+Pour l'appeler à remplir sa tâche.  
+Durant cette heure interminable,  
+Elle avait attendu son retour,  
+Et il sentit son coeur se serrer  
+Comprenant soudain la signification  
+Quand la vision bénie lui dit:  
+Si tu étais resté, j'aurais dû te quitter!"  
+```
+
+Permettez-moi de vous raconter une histoire: 
+
+Dans les anciens temps - très, très anciens - les ténèbres enveloppaient la terre et les hommes cherchaient à tâtons la lumière. Certains l'avaient trouvée, et il s'efforçaient d'en montrer la réflexion à d'autres, aussi étaient-ils très recherchés. Parmi eux se trouvait quelqu'un qui avait séjourné un peu de temps à la ville de lumière et avait absorbé un peu de sa luminosité; aussitôt, les gens de toutes les régions de ce monde obscur sont partis à sa recherche. Ils ont couvert de très grandes distances parce qu'ils avaient entendu parler de cette lumière. En apprenant qu'une foule nombreuse se dirigeait vers sa maison, cet homme s'est mis au travail et s'est préparé à les recevoir de son mieux. Il a planté des poteaux tout autour de sa demeure et y a installé des lampes pour que ses visiteurs ne trébuchent pas dans l'obscurité. Son entourage et lui-même se sont mis à leur service, et il les enseignait de son mieux.
 
 Mais bientôt quelques-uns des visiteurs ont murmuré contre lui; ils avaient pensé le trouver assis sur un trône, rayonnant d'une lumière céleste et, dans leur imagination, ils s'étaient vu en adoration devant lui. Mais au lieu de la lumière spirituelle qu'ils attendaient, ils l'avaient surpris en train d'installer des fils électriques pour éclairer l'endroit. Il ne portait même ni turban, ni robe, parce qu'une règle fondamentale de l'Ordre auquel il appartenait prescrivait à ses membres de se vêtir suivant la coutume du pays dans lequel ils vivaient.
 
@@ -264,12 +273,16 @@ Dans la "Belle Légende", le moine l'a vu lorsqu'il priait et qu'il a eu son ext
 
 Un acte aussi égoïste serait allé complètement à l'encontre du but recherché. S'il n'avait pas été fidèle dans les petites choses faisant partie de ses devoirs terrestres, comment aurait-il pu espérer être fidèle dans les travaux spirituels plus importants (Luc 16:10)? Naturellement, à moins qu'il n'ait bien passé l'épreuve, on ne saurait lui donner de plus grands pouvoirs.
 
-Nombreux sont ceux qui recherchent des pouvoirs spirituels et qui vont d'un centre d'occultisme à un autre, ou qui se retirent dans des couvents ou autres retraites, espérant par là éviter les bruits et les séductions du monde pour cultiver leur nature spirituelle. Ils sont plongés du matin au soir dans le rayonnement de la prière et de la méditation pendant que le monde gémit dans la douleur. Ils s'étonnent alors de ne faire aucun progrès, de ne pas avancer sur le sentier de l'aspiration. En vérité, la prière et la méditation sont nécessaires, absolument nécessaires à la croissance de l'âme, mais nos efforts sont voués à l'échec si nous faisons dépendre cette croissance des prières, car alors elles ne sont que des mots. Pour obtenir des résultats, nous devons vivre de telle manière que toute notre vie devienne une prière, une aspiration. Comme l'exprime Emerson:
+Nombreux sont ceux qui recherchent des pouvoirs spirituels et qui vont d'un centre d'occultisme à un autre, ou qui se retirent dans des couvents ou autres retraites, espérant par là éviter les bruits et les séductions du monde pour cultiver leur nature spirituelle. Ils sont plongés du matin au soir dans le rayonnement de la prière et de la méditation pendant que le monde gémit dans la douleur. 
 
+Ils s'étonnent alors de ne faire aucun progrès, de ne pas avancer sur le sentier de l'aspiration. En vérité, la prière et la méditation sont nécessaires, absolument nécessaires à la croissance de l'âme, mais nos efforts sont voués à l'échec si nous faisons dépendre cette croissance des prières, car alors elles ne sont que des mots. Pour obtenir des résultats, nous devons vivre de telle manière que toute notre vie devienne une prière, une aspiration. Comme l'exprime Emerson:
+
+```
 "Même si vos genoux jamais ne se plièrent,  
 Vers les cieux s'élèvent vos constantes prières.  
 Inspirées par le bien, ou le beaucoup moins bien,  
 Recevant la réponse qui le mieux leur convient."  
+```
 
 Autrement dit, ce ne sont pas les paroles de la prière qui comptent, mais bien la vie qui suscite cette prière.
 
@@ -279,7 +292,7 @@ Il n'y a qu'un moyen de prouver notre foi: c'est par nos oeuvres. Peu importent 
 
 Le seul critère qui détermine si un travail est spirituel ou matériel, c'est notre attitude à cet égard. L'ouvrier qui installe l'électricité peut être bien plus avancé en spiritualité que le conférencier, car nombreux sont ceux, hélas, qui se livrent à ce devoir sacré avec le désir de charmer les oreilles de leur assemblée par un beau discours plutôt que de faire preuve d'amour sincère et de sympathie. Il est bien plus noble de nettoyer un égout obstrué, comme l'a fait le "frère méprisé" dans la pièce de Kennedy, "Le Serviteur dans la Maison" (voir "Trame de la Destinée", chapitre 14), que de vivre dans la fausse dignité des fonctions d'un "maître" qui impliquent une spiritualité brillant parfois par son absence. Tous ceux qui essaient de cultiver cette rare faculté doivent toujours commencer par faire toutes choses à la gloire du Seigneur, car alors le genre de travail ne joue aucun rôle. Creuser un égout, inventer un procédé économique, prêcher un sermon, ou toute autre activité, est un travail spirituel quand il est accompli dans l'amour de Dieu et de l'humanité. 
 
-### CHAPITRE 4 - LE CHEMIN DE LA SAGESSE - Janvier 1915
+### <h3 id="chapter-4">Chapitre 4 - Le Chemin de la Sagesse - Janvier 1915</h3>
 
 Plusieurs années se sont écoulées depuis la publication de l'enseignement des Frères Aînés dans la "Cosmogonie des Rose-Croix" et, depuis lors, nous avons publié d'autres ouvrages. Il nous semble maintenant indiqué de faire le point pour voir ce que nous avons fait des "talents" qui nous ont été confiés.
 
@@ -305,7 +318,7 @@ Ainsi, la mission du Rosicrucian Fellowship est de propager une doctrine qui ré
 
 Mais comment ferons-nous connaître cette doctrine merveilleuse reçue des Frères Aînés? La réponse à cette question restera toujours éternellement: en vivant la vie régénérée. A l'honneur éternel de Mahomet, il a été dit que sa femme est devenue son premier disciple, et il est certain que ce n'est pas son enseignement seul, mais la vie qu'il menait chez lui de jour en jour, d'année en année, qui a gagné la confiance de sa compagne à tel point qu'elle lui a confié sa destinée spirituelle. Il est relativement facile de se tenir devant des tiers qui ne savent rien à notre sujet et de qui nos faiblesses ne sont pas connues, de prêcher une heure ou deux chaque semaine, mais c'est une chose bien différente de prêcher vingt-quatre heures par jour chez soi comme doit l'avoir fait Mahomet en "vivant la Vie". Si nous voulons, comme lui, faire connaître avec succès notre message, nous devons commencer chez nous en démontrant à ceux avec qui nous vivons que les enseignements qui nous guident sont vraiment des enseignements de sagesse. Il est dit que "charité bien ordonnée commence au foyer". Ce mot de "charité" est celui de l'Epître aux Corinthiens auquel il faut préférer "amour". En remplaçant ces termes par "sagesse", nous aurons: "La propagande de la sagesse commence au foyer". Que ceci soit notre devise durant toutes les années à venir. En "vivant la vie" chez nous, nous pouvons mieux faire progresser notre cause que par tout autre moyen. Beaucoup de familles sceptiques ont été converties par le mari ou la femme et sont devenues membres du Rosicrucian Fellowship. Puissent les autres leur succéder!
 
-### CHAPITRE 5 - LE SECRET DU SUCCES - Octobre 1917
+### <h3 id="chapter-5">Chapitre 5 - Le Secret du Succes - Octobre 1917</h3>
 
 Ce sujet intéressera sans doute tout le monde, car nous désirons tous la réussite et le succès, mais il faut d'abord préciser en quoi consiste le succès. A cette question, il se peut que chacun trouve une réponse différente, mais un peu de réflexion nous fera comprendre que, quel que soit le chemin choisi pour l'atteindre, ce chemin doit suivre l'orientation générale de l'évolution de l'humanité. Par conséquent, il doit exister une réponse générale à la question: "En quoi consiste le succès, et quel en est le secret?" Cependant, on ne trouvera pas la solution en examinant seulement la vie de l'homme à l'époque actuelle. Il faut en effet considérer ce qu'elle a été précédemment et envisager ce qu'elle pourrait être dans le futur, afin d'obtenir la perspective nécessaire pour arriver à trouver une réponse logique à cette importante question.
 
@@ -370,7 +383,7 @@ Dans ces vers, on découvre le secret du succès, qui consiste à faire les peti
 
 Quand nous en sommes à ce point, nous avons obtenu le succès, tout le succès qu'il est possible d'obtenir dans le monde actuel, et nous entrons dans une nouvelle sphère, avec de plus importantes occasions de servir. 
 
-### CHAPITRE 6 - LA MORT DE L'ÂME - Juin 1918
+### <h3 id="chapter-6">Chapitre 6 - La Mort de l'Âme - Juin 1918</h3>
 
 De temps à autre, suivant apparemment une loi périodique, les mêmes difficultés surviennent dans l'esprit des étudiants. A un certain moment, des lettres arrivent de différentes parties du monde pour demander des précisions sur un même sujet, à un autre moment sur un sujet différent, mais après quelques années, les mêmes sujets reviennent sur le tapis. Alors que nous aidons ceux qui nous posent eux-mêmes ces questions, il se peut donc que beaucoup d'autres soient intéressés au même moment; de là cette leçon sur la mort de l'âme qui semble préoccuper les esprits, peut-être parce qu'en ces temps de guerre la mort du corps est si commune et si fréquente.
 
@@ -400,7 +413,7 @@ Ceci est du moins la tendance générale, mais il y a malheureusement des exempl
 
 Pendant ce temps, l'esprit reste nu; il n'a point d'atomes-germes lui permettant de créer de nouveaux corps et, par conséquent, il se met à graviter vers la planète Saturne et de là dans le Chaos où il devra rester jusqu'à l'aube d'un nouveau Jour de Manifestation. A première vue, il pourrait paraître injuste que l'esprit doive ainsi souffrir sans avoir commis d'actes pervers, mais à la réflexion, il est évident que, la personnalité étant une créature du Moi supérieur, la responsabilité existe et ne peut être éludée. Toutefois, de tels cas deviennent de plus en plus rares à mesure que nous avançons sur le sentier de l'évolution. Néanmoins, il importe que chacun de nous se tourne résolument vers le but, afin que la lumière sur le sentier conduisant à notre idéal spirituel, l'union avec le Moi supérieur, puisse devenir de jour en jour plus intense.
 
-### CHAPITRE 7 - LE SIXIEME SENS ET L'ERE NOUVELLE - Novembre 1918
+### <h3 id="chapter-7">Chapitre 7 - Le Sixième Sens et l'Ere Nouvelle - Novembre 1918</h3>
 
 Vers la fin de l'ère du Taureau, il y a environ 4000 ans, le "peuple élu de Dieu" s'enfuit devant le courroux divin qui s'annonçait pour l'Egypte, le pays où l'on adorait le Taureau. Ils étaient conduits vers la Terre promise par Moïse dont la tête, sur les anciennes images ésotériques, était ornée des cornes entrelacées du bélier, symbolisant le fait qu'il était le précurseur de l'ère Aryenne de 2100 ans durant laquelle, le matin de Pâques, le point vernal du Soleil colorerait de lumière rouge les montants des portes comme avec le sang de l'agneau, lorsqu'il passait l'équateur dans la constellation (non pas le signe) du Bélier. De la même manière, lorsque le Soleil s'approchait par précession de la constellation d'eau des Poissons, Jean-Baptiste plongeait dans les eaux du Jourdain ceux qui se convertissaient à la religion du Messie, et Jésus-Christ appelait ses disciples des "pêcheurs d'hommes". Tout comme l'"agneau" était immolé à Pâques pendant que le point vernal passait par la constellation du Bélier, ainsi les fidèles qui obéissent aux commandements de leur Eglise se nourrissent de poisson durant le Carême dans cette présente ère des Poissons.
 
@@ -436,7 +449,7 @@ La vue éthérique ne nous permettra pas de voir mutuellement nos pensées, car 
 
 Le lecteur peut facilement imaginer d'autres conditions résultant de cette extension de la vue qui nous viendra avec l'ère du Verseau. En vivant aussi près que possible de ces conditions, chacun peut devenir un des pionniers de cette ère.
 
-### CHAPITRE 8 - LE PEUPLE ÉLU DE DIEU - Janvier 1919
+### <h3 id="chapter-8">Chapitre 8 - Le Peuple Élu de Dieu - Janvier 1919</h3>
 
 Lorsque nous lisons l'histoire des Hébreux, telle qu'elle est racontée dans la Bible et dans des textes moyenâgeux ou modernes, un fait saillant se présente clairement à l'es-prit, à savoir qu'ils ont été exilés et traités en esclaves, haïs dans chaque pays où ils ont été dispersés, et persécutés dans tous les pays où le caractère des habitants les incitait à recourir à de tels procédés. Selon la Bible, considérée comme la "Parole de Dieu" chez les nations occidentales, les Juifs sont tout spécialement le "peuple élu de Dieu", et pourtant, par ces mêmes nations, ils sont méprisés et déconsidérés. En essayant de trouver les raisons de cette tragique situation, deux faits saillants se présentent à l'esprit:
 
@@ -466,11 +479,9 @@ Toutefois, loin de nous faire abandonner le sentier du progrès, nos échecs doi
 
 Nous connaissons tous nos propres faiblesses, notre "péché qui nous assiège si facilement" (Hébreux 12:1) et chacun devra formuler pour lui-même ses propres résolutions. Mais pendant que nous rendons ces résolutions effectives, afin de faire croître notre âme et de tisser la glorieuse "robe nuptiale d'or", nous serons certainement beaucoup aidés si nos regards et nos pensées se fixent sur un être possédant la vertu que nous cherchons à développer. Nous avons un grand exemple dans le Christ, "tenté comme nous en beaucoup de choses, sans commettre le péché" (Hébreux 4:15). Par conséquent, que son exemple soit toujours devant nous pendant l'année nouvelle, et nous pourrons certaine-ment faire de grands progrès spirituels. Et c'est aussi la meilleure propagande que nous puissions faire pour nos enseignements, car en les observant scrupuleusement, nous éveillerons sûrement chez les autres un désir de participer à leurs bienfaits.
 
-### CHAPITRE 9 - LUMIERE MYSTIQUE SUR LA GUERRE MONDIALE - Première partie: LES ORIGINES SECRETES - Septembre 1918
+### <h3 id="chapter-9">Chapitre 9 - Lumière Mystique sur la Guerre Mondiale - Première partie: Les Origines Secrets - Septembre 1918</h3>
 
-Tous ceux qui ont étudié les enseignements rosicruciens savent que, comme
-
-esprits, nous sommes immortels, sans commencement ni fin, que nous avons fréquenté la grande école de l'expérience durant de nombreuses journées de vie dans le passé, chaque fois revêtus d'un nouveau corps d'enfant de plus en plus parfait, dans lequel nous vivions pour un temps variant entre quelques heures et toute une vie.
+Tous ceux qui ont étudié les enseignements rosicruciens savent que, comme esprits, nous sommes immortels, sans commencement ni fin, que nous avons fréquenté la grande école de l'expérience durant de nombreuses journées de vie dans le passé, chaque fois revêtus d'un nouveau corps d'enfant de plus en plus parfait, dans lequel nous vivions pour un temps variant entre quelques heures et toute une vie.
 
 Durant chaque jour passé à cette école, nous avons rencontré d'autres esprits et formé des liens d'amitié et de haine. Dans les vies suivantes, nous nous sommes de nouveau rencontrés de manière à pouvoir liquider les dettes de destinée ainsi encourues. Ainsi, les amis d'aujourd'hui sont ceux dont nous avons fait la connaissance dans une vie précédente, et nos ennemis sont ceux avec qui nous n'étions pas d'accord dans un passé aujourd'hui oublié. Par conséquent, nous tissons continuellement la trame de la destinée sur le métier du temps, en créant pour nous un vêtement de gloire ou de chagrin, selon que nous avons bien ou mal travaillé.
 
@@ -488,7 +499,7 @@ Cependant, la haine d'Hannibal n'avait nullement diminué, et lorsque ses compat
 
 La justice doit se faire, mais elle devrait être adoucie par la compassion, de manière à éviter que les haines se perpétuent. Les mesures sévères, telles que le boycottage industriel, devraient être évitées. Il suffirait de veiller à ce que les empires centraux n'obtiennent pas davantage qu'une part équitable dans le commerce mondial. La nouvelle nation américaine, qui n'est pas encore sous la domination d'un esprit de race, voit parfois plus impartialement, et donc plus clairement qu'une autre, ce qui est juste. Rappelons-nous qu'un mal ne doit jamais en compenser un autre et que nous devons vivre et laisser vivre.
 
-### CHAPITRE 10 - LUMIERE MYSTIQUE SUR LA GUERRE MONDIALE - Deuxième partie: DÉVELOPPEMENT DE LA VUE SPIRITUELLE - Janvier 1917
+### <h3 id="chapter-10">Chapitre 10 - Lumière Mystique sur la Guerre Mondiale - Deuxième Partie: Développement de la Vue Spirituelle - Janvier 1917</h3>
 
 Si étrange que puisse paraître cette affirmation, il est néanmoins vrai que la grande majorité des êtres humains sont partiellement endormis la plupart du temps, même si les corps physiques semblent être intensément occupés à un travail actif. En temps ordinaire, le corps du désir, chez la plupart des gens, est le plus éveillé de l'homme composite, lequel vit presque entièrement dans ses émotions et sentiments, mais songe rarement aux problèmes de l'existence au-delà de ce qui est nécessaire pour tenir ensemble le corps et l'âme. La majorité des gens n'ont probablement jamais porté leur attention sur les grandes questions de la vie: D'où venons-nous? pourquoi sommes-nous ici? et où allons-nous? et ne les ont jamais examinées de près. Leur corps vital est constamment occupé à réparer les ravages du corps du désir sur leur corps physique et à fournir la vitalité que ce dernier va dissiper en se laissant aller à ses désirs et à ses émotions.
 
@@ -514,7 +525,7 @@ Quant au deuxième procédé de développement de l'âme, qui se poursuit chez l
 
 Mais certains pourront se demander si ces gens n'oublieront pas lorsque les efforts et l'intensité de la guerre auront disparu. Une grande partie d'entre eux ne vont-ils pas retomber dans les mêmes ornières qu'auparavant? A cela, nous pouvons répondre que nous sommes certains que cela n'arrivera pas, car lorsque les véhicules invisibles, et surtout le corps vital, sont endormis, l'homme peut pour-suivre ses tendances matérialistes, mais aussitôt que ce véhicule a été éveillé et à goûté au pain de vie, il devient, tout comme le corps physique, sujet à la faim, la faim de l'âme, et il ne renoncera à ce désir ardent qu'après une lutte excessivement dure. Dans ce cas-là, "sa dernière condition est pire que la première" (II Pierre 2:20). En tout cas, il est bon de sentir que, de ces chagrins et souffrances dus à la guerre, le bien est élaboré dans le creuset des dieux et sera durable. Puissions-nous réunir toutes nos forces et aider à extraire le bien, afin de montrer l'exemple pour aider l'humanité et la guider vers l'ère nouvelle!
 
-### CHAPITRE 11 - LUMIERE MYSTIQUE SUR LA GUERRE MONDIALE - Troisième partie: PAIX SUR LA TERRE - Novembre 1917
+### <h3 id="chapter-11">Chapitre 11 - Lumière Mystique sur la Guerre Mondiale - Troisième Partie: Paix sur la Terre - Novembre 1917</h3>
 
 Un monde lassé de la guerre, un monde rougi par le sang de millions de victimes, l'espoir de l'avenir, la fleur de la jeunesse, gémit dans l'agonie en priant pour la paix, non pas un armistice, une cessation temporaire des hostilités, mais une paix à perpétuité; comment arriver à ce but ardemment désiré? C'est le problème qu'il s'efforce de résoudre. Mais il s'attaque à des effets à cause de son aveugle-ment ou de son ignorance de cette grande cause fondamentale qui est la férocité des gens, laquelle était à peine cachée sous un léger vernis de civilisation avant de déborder comme le volcan destructeur auquel nous venons d'assister et que nous commençons à déplorer.
 
@@ -548,7 +559,7 @@ La même force qui a modelé l'homme-roi A façonné le petit moineau; Le Dieu d
 
 Et je suis le gardien de mon frère; Je veux lutter pour sa défense En élevant bien haut ma voix Jusqu'à ce que le monde comprenne Et que les bêtes soient épargnées."
 
-### CHAPITRE 12 - LUMIERE MYSTIQUE SUR LA GUERRE MONDIALE - Quatrième partie - L'ÉVANGILE DE LA JOIE - Mai 1918
+### <h3 id="chapter-12">Chapitre 12 - Lumière Mystique sur la Guerre Mondiale - Quatrième Parite: L'Évangile de la Joie - Mai 1918</h3>
 
 La lutte gigantesque des nations européennes a bouleversé à tel point l'équilibre du monde entier que les émotions des gens vivant dans les régions les plus éloignées des combats ont été attisées comme elles ne l'avaient jamais été auparavant, exprimant la colère, la haine, l'excitation ou la tristesse, selon leur nature et leur tempérament. Pour ceux qui ont étudié les profonds mystères de la vie et qui comprennent comment opèrent les lois naturelles dans les mon-des spirituels, il est évident que les habitants des mondes invisibles peuvent avoir été affectés beaucoup plus que ceux qui vivent dans leur corps physique, lequel par sa densité, nous empêche de ressentir les émotions dans toute leur force.
 
@@ -578,7 +589,7 @@ Grandes sont les souffrances accompagnant la naissance de l'altruisme dans une m
 
 De cette manière, nous pouvons imiter Pollyanna et, si nos arguments reposent sur des bases solides, ils se répandront et prendront racine dans d'autres coeurs. Alors, comme les pensées sont des choses réelles et que les bonnes pensées sont plus puissantes que les mauvaises en raison de leur harmonie avec le sens de l'évolution, le jour viendra où nous gagnerons cette bataille qui nous rapprochera de la paix permanente. Nous souhaitons que cette suggestion soit prise au sérieux et mise en pratique par chacun de nos étudiants, car sa nécessité est grande, plus grande aujourd'hui qu'elle ne l'a jamais été.
 
-### CHAPITRE 13 - LA SIGNIFICATION ÉSOTÉRIQUE DE PAQUES - Et la diffusion de la Philosophie Rosicrucienne
+### <h3 id="chapter-13">Chapitre 13 - La Signification Ésotérique de Paques - Et la Diffusion de la Philosophie Rosicrucienne</h3>
 
 Dans son mouvement annuel circulaire autour du Soleil, la Terre a de nouveau atteint l'équinoxe de printemps, et nous voici à Pâques. Le rayon spirituel que nous envoie le Christ à chaque automne pour renouveler la vitalité faiblissante de la Terre, est sur le point de reprendre l'ascension vers le trône du Père. Les activités spirituelles de fécondation et de germination qui se sont poursuivies durant l'hiver et le début du printemps vont être suivies par la croissance matérielle et la maturation pendant l'été et l'automne sous l'influence de l'Esprit de la Terre, revenu dans notre globe. Ce cycle se termine à la fête des moissons. Ainsi, ce grand drame se déroule et se renouvelle d'année en année, comme une lutte entre la vie et la mort, chacune devenant à son tour victorieuse, puis vaincue à mesure que se suivent les cycles.
 
@@ -608,7 +619,7 @@ A mon retour dans ma chambre avec mon billet en poche, j'ai revu l'instructeur q
 
 Quant aux instructions qui m'ont été données pour prendre un certain train dans une certaine gare pour une destination dont je n'avais jamais entendu parler, comment j'y ai rencontré le Frère dans son corps physique, comment j'ai été conduit au Temple où j'ai reçu les principaux enseignements contenus dans nos livres, ceci a peu d'importance. Ce qui importe, c'est que si j'avais accepté de garder le secret sur ces enseignements, j'aurais évidemment été jugé inapte à devenir le messager des Frères Aînés, lesquels auraient dû en trouver un autre. Il en va de même de chacun de nous; si nous thésaurisons les bénédictions spirituelles que nous avons reçues, le malheur est proche. Par conséquent, imitons la Terre en cette époque pascale en produisant, dans le monde physique de l'action, les fruits de l'esprit semé dans nos âmes au cours de l'hiver dernier. Ainsi, d'année en an-née, nos bénédictions seront plus abondantes. (Ce chapitre est commenté dans la Lettre aux Etudiants n. 18)
 
-### CHAPITRE 14 - LA LEÇON DE PÂQUES - Avril 1918
+### <h3 id="chapter-14">Chapitre 14 - La Leçon de Pâques - Avril 1918</h3>
 
 Et de nouveau voici Pâques. Les jours tristes et sombres de l'hiver sont passés. Notre Mère Nature enlève son manteau neigeux et glacial, et les myriades de graines protégées dans le sol meuble percent cette couche et parent la terre de ses plus beaux atours, en une vraie profusion de cou-leurs gaies et vives, préparant les berceaux de verdure pour les noces des bêtes et des oiseaux. Même en cette année de guerre (1918) le chant de vie résonne plus fort que le chant de mort. "O mort! où est ton aiguillon? O tombeau! où est ta victoire?" (1 Corinthiens 15:55). Christ est ressuscité; il est les prémices, la résurrection et la vie; quiconque croit en lui ne périra pas, mais aura la vie éternelle (I Corinthiens 15:20).
 
@@ -626,7 +637,7 @@ Nous sommes épouvantés du carnage qui a lieu sur les champs de bataille d'Euro
 
 En outre, nous devons nous rendre compte que la mort est une nécessité cosmique dans les circonstances actuelles, car si nous étions emprisonnés dans un corps tel que le nôtre, sans autre possibilité que d'y vivre éternellement et dans notre milieu actuel, les infirmités du corps et la nature peu satisfaisante de notre milieu nous rendraient bien vite tellement fatigués de vivre que nous supplierions d'être délivrés. Cela empêcherait tout progrès, si bien qu'il nous serait impossible de nous élever plus haut, ainsi que nous pouvons le faire en nous réincarnant dans de nouveaux véhicules et en naissant dans d'autres milieux, qui nous offrent de nouvelles possibilités de progresser. Ainsi, nous pouvons remercier Dieu de ce que, aussi longtemps que la renaissance dans un corps dense sera nécessaire pour nous développer, la délivrance par la mort existe pour nous permettre de nous libérer d'un instrument usé. Une nouvel-le naissance sous les cieux plus cléments d'un autre milieu nous donnera une chance de commencer une nouvelle vie pour y apprendre les leçons qui n'avaient pu être bien assimilées auparavant. Grâce à cette méthode, nous deviendrons, avec le temps, aussi parfaits que le Christ ressuscité. Il nous l'a ordonné et il nous aidera dans nos efforts.
 
-### CHAPITRE 15 - LA MÉTHODE SCIENTIFIQUE DU DÉVELOPPEMENT SPIRITUEL - Première partie - ANALOGIES MATÉRIELLES - Juillet 1917
+### <h3 id="chapter-15">Chapitre 15 - La Méthode Scientifique du Développement Spirituel - Première Partie - Analogies Matérielles - Juillet 1917</h3>
 
 Lors de notre descente ici-bas dans l'existence concrète durant l'involution, nos progrès se faisaient entièrement dans la direction du développement matériel. Mais depuis que nous avons dépassé le tréfonds de la matérialité et que nous commençons à nous élever au-dessus du concret, le développement spirituel gagne en importance comme facteur nécessaire à nos progrès, bien que nous ayons encore de grandes leçons à apprendre de la phase matérielle de notre existence. Ceci s'applique à l'humanité en général, mais tout particulièrement à ceux qui commencent déjà à aspirer consciemment à la vie supérieure. Il peut donc être utile de revoir les enseignements rosicruciens sous un autre angle, celui de la méthode scientifique propre à l'acquisition de ce pouvoir spirituel.
 
@@ -648,7 +659,7 @@ Mais il y a nombre de gens qui ont le malheur de manquer d'un sens ou d'un autre
 
 Dans la prochaine leçon (voir ci-après) nous verrons comment ces archives sont employées et comment, par des procédés scientifiques, la croissance de l'âme peut être accomplie et le pouvoir de l'âme développé par l'amélioration de ce processus.
 
-### CHAPITRE 16 - LA MÉTHODE SCIENTIFIQUE DU DÉVELOPPEMENT SPIRITUEL - Deuxième partie - LA RÉTROSPECTION, UN MOYEN D'ÉVITER LE PURGATOIRE - Août 1917
+### <h3 id="chapter-16">Chapitre 16 - La Méthode Scientifique du Développement Spirituel - Deuxième Partie: La Rétrospection, un Moyen d'Éviter le Purgatoire - Août 1917</h3>
 
 Comme nous l'avons vu dans la précédente leçon, il se fait, de nos actes, un enregistrement analogue à un film de cinéma, du berceau à la tombe, sur un petit atome situé dans le coeur, par l'intermédiaire de l'éther que nous respirons. Cet éther transmet des images du monde extérieur dans lequel nous vivons; il forme la base de notre existence d'après-vie; durant une pénible expérience purgatorielle, le souvenir vivant de nos mauvaises actions est extirpé par le feu du remords, qui brûle l'âme au fur et à mesure du déroulement des images de ses fautes, nous rendant ainsi moins enclins à répéter les mêmes fautes et les mêmes erreurs dans nos vies futures. D'autre part, la réaction des bonnes actions est une joie céleste, dont le souvenir subconscient, dans une autre vie, incitera l'âme à faire encore plus de bien. Mais ce procédé est nécessairement lent et peut se comparer à l'action du vieux moulin. Cependant, c'est la façon dont la Nature apprend aux humains à se conduire avec prudence et à obéir à ses lois. Par ce lent procédé, la plus grande partie des êtres humains se développe graduellement de l'égocentrisme à l'altruisme, et même s'il paraît extrêmement lent, il semble que ce soit le seul moyen par lequel ils puissent apprendre leurs leçons.
 
@@ -668,7 +679,7 @@ De cette manière, nous pouvons récolter une abondante moisson et progresser da
 
 Il est également important de noter que certaines méthodes de développement spirituel enseignées et pratiquées par d'autres écoles sont dangereuses et peuvent nous conduire dans un asile d'aliénés, alors que la méthode scientifique conseillée par les Frères Aînés de l'Ordre de la Rose-Croix profitera toujours à quiconque la pratique et qu'elle ne pourra jamais, dans aucune circonstance, faire du mal à qui que ce soit. Nous pouvons également dire qu'en cas de nécessité, d'autres aides non mentionnées ici peuvent être données à ceux qui ont montré leur mérite par leur persévérance, et quoique cela ne concerne pas directement la vue spirituelle, celle-ci se développera chez ceux qui seront suffisamment fidèles et persévérants.
 
-### CHAPITRE 17 - LES CIEUX RACONTENT LA GLOIRE DE DIEU
+### <h3 id="chapter-17">Chapitre 17 - Les Cieux Racontent la Gloire de Dieu</h3>
 
 Allocution prononcée par Max Heindel le 5 janvier 1919, la veille de son décès.
 
@@ -694,7 +705,7 @@ Qu'est-ce que l'homme pour que tu te souviennes de lui? Et le fils de l'homme, p
 
 Ceci n'est pas nouveau pour ceux qui cherchent la lumière, qui ont fait leur possible pour vivre la vie régénérée, mais le danger existe qu'ils deviennent indifférents, qu'ils tombent dans la banalité spirituelle. C'est pourquoi, de même que le navigateur est constamment attentif et surveille la boussole, il est très important de se secouer constamment, de peur de s'endormir et de laisser aller notre embarcation à la dérive. Que chacun de nous se tourne vers cette étoile de l'espoir, cette grande lumière spirituelle, la seule chose vraiment réelle et de valeur, la vie de Dieu.
 
-### CHAPITRE 18 - RELIGION ET GUÉRISON
+### <h3 id="chapter-18">Chapitre 18 - Religion te Guérison</h3>
 
 A différentes époques et de différentes manières, l'humanité a reçu des religions propres à la faire progresser sur le sentier de l'évolution. Dans chacune d'elles, l'idéal était juste assez élevé pour éveiller les aspirations de la classe des êtres auxquels il était donné, mais pas au-delà de leur faculté de compréhension, car alors il ne les aurait pas séduits du tout. Par exemple, un primitif doit avoir un Dieu fort, qui tient l'épée flamboyante de la foudre dans sa main puissante. Il peut respecter un tel Dieu avec crainte, mais il méprisera un Dieu montrant de l'amour et de la compassion.
 
@@ -726,7 +737,7 @@ Cependant, la foi sans les oeuvres est morte (Jacques 2:26). Si nous continuons 
 
 L'ordre des Rose-Croix s'efforce d'aider l'humanité à réaliser la santé du corps. Dans différents ouvrages, on peut lire que les membres de l'ordre faisaient le voeu de guérir gratuitement les malades. Cette affirmation est quelque peu déformée. Ce sont les frères lais qui font le voeu de secourir le mieux possible toux ceux qui en ont besoin, et gratuitement. Ce voeu inclut la guérison, bien entendu, dans le cas d'un Paracelse, par exemple, qui avait le don de guérir par la méthode combinée de remèdes physiques pris sous l'influence d'aspects astrologiques bénéfiques et, bien sûr, de conseils spirituels. D'autres, qui n'étaient pas qualifiés comme guérisseurs, ont porté leurs efforts dans d'autres directions, mais ils avaient tous un point commun: ils ne demandaient rien pour leurs services et travaillaient en secret, sans bruit ni réclame. 
 
-### CHAPITRE 19 - PREMIER COUP DE PELLE A MOUNT ECCLESIA
+### <h3 id="chapter-19">Chapitre 19 - Premier Coup de Pelle à Mount Ecclesia</h3>
 
 Allocution prononcée le 28 octobre 1911
 
@@ -762,9 +773,7 @@ Tous ces développements et le moyen de parvenir à cet idéal sont symbolisés 
 
 Lorsque nous arriverons à la pureté de vie symbolisée par la rose, nous serons libérés de la croix de la matière, et les conditions éthérées du millénium seront réalisées. Le but du Rosicrucian Fellowship est de hâter ce jour heureux où la douleur et la souffrance, le péché et la mort auront cessé d'exister, où nous serons délivrés des illusions fascinantes et captivantes de la matière et où nous nous éveillerons à la vérité suprême de la réalité de l'esprit. Puisse Dieu favoriser nos efforts pour parvenir au succès. (Ce chapitre est commenté dans la lettre n. 12 aux étudiants)
 
-### CHAPITRE 20 - NOTRE TRAVAIL DANS LE MONDE
-
-Première partie - Mai 1912
+### <h3 id="chapter-20">Chapitre 20 - Notre Travail dans le Monde - Première partie - Mai 1912</h3>
 
 Dernièrement, il nous est venu l'idée que le travail du Rosicrucian Fellowship n'est pas notre oeuvre personnelle; c'est celle des Frères Aînés, ainsi que celle de chaque membre du Fellowship. Dans l'accomplissement de cette oeuvre se trouve une merveilleuse occasion de progrès spirituel, et nous n'avons pas plus le droit de la revendiquer pour nous-mêmes que nous n'avons celui de priver nos membres de nourriture physique. Nous devons accorder à tous l'occasion de donner leur aide, mentale ou financière selon le temps disponible, le talent et les capacités de chacun. Nous comprenons aussi qu'à moins d'agir, le travail restera en suspens, et nous serons alors des serviteurs inutiles pour les Frères Aînés. Le fardeau est plus lourd que ce que nous pouvons supporter, et pour prospérer, la grande oeuvre a besoin de beaucoup de travailleurs. Je vais donc vous donner, dans cette leçon, un historique du travail jusqu'à ce jour, afin que nos étudiants puissent se rendre plus exactement compte des développements futurs. Ceci va m'obliger à user largement du pronom "je", aussi les étudiants voudront bien m'excuser, car nul ne désapprouve autant que l'auteur l'introduction de l'élément personnel, mais ici cela semble inévitable.
 
@@ -782,9 +791,7 @@ Le Christ a donné deux commandements à ses messagers: "Prêchez l'Evangile" (d
 
 Au cours de la nuit du 9 avril 1910, jour de la nouvelle lune dans le Bélier, mon instructeur est apparu dans ma chambre et m'a dit qu'une nouvelle décennie, ou cycle, avait commencé cette nuit. La nuit précédente, mon travail dans le nouveau Centre du Fellowship à Los Angeles s'était terminé. J'avais voyagé et donné des conférences six soirs sur sept et, de plus, quelques après-midis. Depuis mon travail à Chicago pour la publication de la "Cosmogonie", j'avais été malade, et j'allais abandonner quelque temps le travail en public pour récupérer mes forces. Je savais qu'il est très dangereux de quitter son corps consciemment si l'on est malade, car l'éther est alors très atténué et la corde d'argent se rompt facilement. Mourir dans de telles conditions aurait causé les mêmes souffrances qu'un suicide, aussi est-il recommandé aux aides invisibles de rester dans leurs corps quand ils sont souffrants. Mais à la demande de mon Instructeur, j'ai déclaré que j'étais prêt, et quelqu'un a pris place près de mon corps pour veiller sur lui.
 
-### CHAPITRE 21 - NOTRE TRAVAIL DANS LE MONDE
-
-Deuxième partie - Juin 1912
+### <h3 id="chapter-21">Chapitre 21 - Notre Travail dans le Monde - Deuxième Partie - Juin 1912</h3>
 
 Comme nous l'avons expliqué antérieurement dans notre littérature, les Ecoles des Mystères Mineurs ont toutes neuf degrés, et l'Ordre de la Rose-Croix ne fait pas exception. Le premier degré correspond à la Période de Saturne, et les exercices qui y correspondent se font le samedi, jour de Saturne, à minuit. Le deuxième degré correspond à la Période du Soleil, et ce rite particulier est célébré chaque dimanche, jour solaire. Le troisième degré correspond à la Période de la Lune et se tient le lundi à minuit, et ainsi de suite avec le restant des sept degrés, chacun correspondant à une Période et se tenant le jour avec lequel il est en rapport. Le huitième degré est célébré à la nouvelle lune et à la pleine lune, et le neuvième degré aux solstices d'été et d'hiver.
 
@@ -814,9 +821,7 @@ En ce qui me concerne, un travail assidu, aussi bien physique que mental, jusqu'
 
 J'ai vu notre Siège, vers lequel se dirigeaient une foule de gens venant de toutes les parties du monde pour recevoir l'enseignement. Je les ai vus sortir de là pour soulager les affligés proches ou lointains. Tandis qu'ici, en ce bas monde, il est nécessaire de chercher pour se renseigner sur n'importe quoi, sur ce niveau élevé, la voix de chaque archétype apporte avec elle, au moment où elle rencontre la conscience spirituelle, la connaissance de ce que cet archétype représente. Ainsi, durant cette nuit, il m'est venu une compréhension bien au-delà de ce que mes paroles peuvent exprimer, car le monde dans lequel nous vivons est basé sur le principe du temps, alors que dans les régions élevées des archétypes, tout est un éternel Maintenant. Ces archétypes ne racontent pas leur histoire comme je le fais ici, mais il se crée en nous une conception instantanée de toute l'idée, bien plus lumineuse que celle que nous donnerait un narrateur par son éloquence. Depuis le temps où cela s'est produit, je n'ai pas osé essayer de le traduire en paroles, mais je vais m'efforcer, dans la leçon suivante de vous en donner une image. (Cette leçon est mentionnée et commentée dans les "Lettres aux Etudiants" n. 19 et 20)
 
-### CHAPITRE 22 - NOTRE TRAVAIL DANS LE MONDE
-
-Troisième partie - Juillet 1912
+### <h3 id="chapter-22">Chapitre 22 - Notre Travail dans le Monde - Troisième Partie - Juillet 1912</h3>
 
 La région de la pensée concrète, ainsi que vous l'aurez appris par nos enseignements, est le royaume du son, où l'harmonie des sphères, cette musique céleste, pénètre toutes choses, comme l'atmosphère de la Terre entoure et enveloppe tout ce qui est terrestre. On peut dire que tout ce qui existe sur ce plan élevé est entouré et pénétré par la musique, car cette région vit par la musique et se développe par elle. C'est là que le Verbe de Dieu se fait entendre et forme tous les différents modèles qui se cristallisent ensuite en choses que nous voyons dans ce monde terrestre.
 
@@ -840,7 +845,7 @@ Lors de la nuit mémorable mentionnée précédemment, il a été montré à l'a
 
 (Note - Les quatre chapitres qui suivent proviennent de manuscrits de Max Heindel qui n'étaient pas encore publiés lors de son décès. Plus tard, ils ont paru dans la revue "Rays from the Rose-Cross") 
 
-### CHAPITRE 23 - LA DAMNATION ÉTERNELLE ET LE SALUT
+### <h3 id="chapter-23">Chapitre 23 - La Damnation Éternelle et le Salut</h3>
 
 Comme nous avons chaque semaine, au Siège, un certain nombre de cours où peut s'exercer la partie intellectuelle de notre nature, le service du dimanche après-midi (actuellement, ce service n'a plus lieu en fin d'après-midi, mais le matin à 11 heures), y compris l'allocution, s'adresse à notre coeur. Vous savez que l'objectif du Rosicrucian Fellowship est de combiner l'intelligence et le coeur; c'est pourquoi les allocution du dimanche devraient être largement consacrées à éveiller notre coeur, à en faire vibrer les cordes. C'est une chose dont nous avons grand besoin, beaucoup plus même que du développement intellectuel. Nous sommes trop enclins, dans notre civilisation actuelle, à suivre la direction intellectuelle et à toujours chercher, pour nos problèmes, une explication qui satisfasse uniquement le mental, en oubliant ce qui pourrait aussi trouver un écho dans le coeur. C'est la raison pour laquelle celui qui vous parle va tâcher de vous conduire plutôt dans une forme de méditation dans laquelle les exhortations s'appliqueront davantage au coeur qu'à l'esprit et qui s'adresseront aussi bien à lui-même qu'à toute autre personne.
 
@@ -880,7 +885,7 @@ Ne perdons pas notre temps à soupirer Après des choses glorieuses mais impossi
 
 L'humble lumignon a son office Tout comme le superbe soleil, Et l'acte le plus simple est ennobli Lorsqu'il est dignement accompli. Nous pouvons n'être jamais appelés A illuminer de lointains lieux obscurs. Remplissons donc notre mission En brillant juste là où nous sommes." 
 
-### CHAPITRE 24 - L'ARC-EN-CIEL
+### <h3 id="chapter-24">Chapitre 24 - L'Arc-en-Ciel</h3>
 
 Avant de vous parler à nouveau de l'arc-en-ciel", un sujet déjà traité auparavant, je dois vous expliquer pourquoi. Récemment j'ai dicté le texte d'un livre, et certains des points qui avaient été traités ont exigé quelques recherches, l'un d'eux étant la force vitale qui entre dans le corps par la rate (il doit s'agir du sujet "Le corps vital", page 79 à 83 des "Mystères Rosicruciens", rédigé durant l'hiver 1910-1911, donc avant l'installation à Mount Ecclesia. Vu son ton personnel, l'allocution ci-après s'adressait probablement à un petit groupe de membres du nouveau centre de Los Angeles). Ces recherches ont montré que cette force se manifeste en diverses couleurs et que, dans les différents règnes, elle travaille différemment. Par conséquent, avant de publier le livre, j'avais plusieurs choses à vérifier. Après avoir lu une partie de mon manuscrit, un ami a fait venir de sa bibliothèque, à Seattle, un livre du Dr Babbitt, publié quarante ans auparavant, et intitulé: "Principes de la lumière et de la couleur". J'ai trouvé ce livre très intéressant et je me suis aperçu qu'il avait été écrit par un clairvoyant. Après avoir passé une heure à étudier ce livre, je me suis mis à faire moi- même des recherches, si bien que de nombreux éclaircissements m'ont été donnés à ce sujet. C'est d'ailleurs un sujet des plus profonds, car la vie même de Dieu semble incorporée dans ces couleurs.
 
@@ -912,7 +917,7 @@ Regardons donc vers le haut et efforçons-nous d'oublier les petits ennuis de la
 
 Nous devrions nous rappeler que chacun a en lui un grand pouvoir spirituel latent, bien plus grand que n'importe quel pouvoir de ce monde, et lorsqu'il se développe, nous sommes responsables de son usage. Pour augmenter ce pouvoir, nous devrions nous forcer d'employer une partie de nos loisirs à cultiver cette vie supérieure, de telle sorte que lorsque le nuage du malheur descend sur nous, ce pouvoir nous aide à trouver l'arc dans le nuage. De même que l'arc se montre à la fin de l'orage, ainsi lorsque nous aurons développé le pouvoir de discerner le brillant arc-en-ciel dans notre funeste nuage, la fin de ce malheur sera venue et la partie lumineuse commencera d'apparaître. Plus le malheur est grand, plus la leçon nécessaire est importante. Lorsque nous suivons le sentier du mal, tôt ou tard, nous sommes, gentiment mais fermement, fouettés par les réalités de la vie pour nous faire réintégrer notre rang, et forcés de reconnaître que le sentier de la vérité se dirige vers le haut, et non vers le bas, et que Dieu gouverne le monde.
 
-### CHAPITRE 25 - LA RESPONSABILITÉ DE LA CONNAISSANCE
+### <h3 id="chapter-25">Chapitre 25 - La Responsabilité de la Connaissance</h3>
 
 Tout au début, dans un lointain passé où nous avons commencé à vivre comme être humains, nous avions bien peu d'expérience, et, par conséquent, très peu de responsabilité, car celle-ci dépend de notre connaissance. Il se trouve que les animaux ne sont pas soumis à la loi de cause à effet au point de vue moral, bien que, si un chien saute par une fenêtre, il soit soumis à la phase physique de cette loi, puisqu'en tombant sur le sol il peut se casser un membre. Si un homme en faisait de même, il serait soumis, non seulement à la loi de cause à effet, mais encore à la loi de responsabilité, car il y a pour lui une responsabilité morale, puisqu'il a la connaissance et qu'il n'a pas le droit d'estropier l'instrument qui lui a été donné. Ainsi, nous voyons que notre responsabilité morale dépend de notre connaissance.
 
@@ -954,7 +959,7 @@ Si tu crois en savoir beaucoup, songe qu'il y a bien des choses que tu ignores. 
 
 Par conséquent, rappelons-nous qu'il ne faut pas chercher la connaissance uniquement pour elle-même, mais comme un moyen de vivre une vie meilleure et plus pure, car cela seul pourra justifier une telle recherche. 
 
-### CHAPITRE 26 - LE PELERINAGE A TRAVERS LE DÉSERT
+### <h3 id="chapitre-26">Chapitre 26 - Le Pelerinage a travers le Désert</h3>
 
 Notre sujet est tiré de l'histoire de la Bible "Le Tabernacle dans le désert", et nous allons essayer de l'interpréter du point de vue des enseignements rosicruciens. Ceux qui n'ont pas étudié ces enseignements peuvent croire qu'une interprétation est aussi valable et aussi digne de croyance qu'une autre, mais un nouvel examen du sujet peut donner une opinion quelque peu différente. Dans sa deuxième Epître (1:20) Pierre nous dit: "Avant tout, sachez-le, aucune prophétie d'Ecriture n'est objet d'explication personnelle". Dans notre vie quotidienne, nous comprenons que si notre opinion sur un sujet quelconque doit être valable, cette opinion doit être basée sur une certaine connaissance. Dans un tribunal, les témoignages sont basés sur ce principe. Si une personne qualifiée par l'étude ou par l'expérience exprime une opinion sur un sujet, on l'écoute avec respect et considération, et il devrait en être de même avec quelqu'un qui interprète les Ecritures.
 
