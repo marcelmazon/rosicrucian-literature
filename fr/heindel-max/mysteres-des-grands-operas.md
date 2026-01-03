@@ -72,77 +72,174 @@ L'auteur s'est toujours efforcé de se tenir aussi près de son sujet que possib
 
 Dans la première scène, trois Esprits Planétaires, Fils de Dieu, s'inclinent devant le Grand Architecte de l'Univers, chantant les mélodies des sphères dans leur adoration de l'Etre Ineffable qui est la source de la vie, l'auteur de toute manifestation. Goethe représente l'un de ces Esprits divins célestes prononçant ces paroles:
 
-"Le Soleil résonne sur le mode antique Dans le choeur harmonieux des sphères; Sa course ordonnée s'accomplit D'année en année, rapide comme l'éclair."
+```
+"Le Soleil résonne sur le mode antique 
+Dans le choeur harmonieux des sphères; 
+Sa course ordonnée s'accomplit 
+D'année en année, rapide comme l'éclair."
+```
 
-Des instruments scientifiques ont été inventés, expérimentés en laboratoire, où ils transforment les rayons lumineux en sons, démontrant ainsi dans le Monde Physique le principe mystique de l'identité de ces deux manifestations; ce qui auparavant n'était évident qu'au mystique capable d'élever sa conscience jusqu'à la Région de la Pensée Concrète, est à présent perçu également par le savant. La musique des sphères, dont Pythagore a parlé publiquement, ne doit être considérée ni comme une idée vide de sens créée par une imagination poétique trop vive, ni comme l'hallucination d'un cerveau déséquilibré.
+Des instruments scientifiques ont été inventés, expérimentés en laboratoire, où ils transforment les rayons lumineux en sons, démontrant ainsi dans le Monde Physique le principe mystique de l'identité de ces deux manifestations; ce qui auparavant n'était évident qu'au mystique capable d'élever sa conscience jusqu'à la Région de la Pensée Concrète, est à présent perçu également par le savant. La musique des sphères, dont Pythagore a parlé publiquement, ne doit être considérée ni comme une idée vide de sens créée par une imagination poétique trop vive, ni comme l'hallucination d'un cerveau déséquilibré. Goethe pensait réellement ce qu'il écrivait. Les planètes ont chacune leur note dominante propre; elles gravitent autour du Soleil à des degrés de vitesse si divers que leur position présente ne pourra se renouveler avant 26 000 ans. Ainsi, l'harmonie des cieux se modifie à chaque moment de la vie, et lorsqu'elle change, les idées et les idéaux du monde changent aussi. Cette danse circulaire des astres se mouvant au son de la symphonie céleste qu'ils créent, marque le progrès de l'homme sur le sentier que nous appelons évolution.
 
-Goethe pensait réellement ce qu'il écrivait. Les planètes ont chacune leur note dominante propre; elles gravitent autour du Soleil à des degrés de vitesse si divers que leur position présente ne pourra se renouveler avant 26 000 ans. Ainsi, l'harmonie des cieux se modifie à chaque moment de la vie, et lorsqu'elle change, les idées et les idéaux du monde changent aussi. Cette danse circulaire des astres se mouvant au son de la symphonie céleste qu'ils créent, marque le progrès de l'homme sur le sentier que nous appelons évolution.
-
-Mais il est erroné de penser qu'une harmonie constante est agréable. Ainsi exprimée, la musique deviendrait monotone, et nous nous lasserions d'une harmonie continuelle. La musique perdrait réellement son charme si des dissonances n'intervenaient pas fréquemment.
-
-Plus le compositeur approche de la dissonance sans qu'elle fasse partie de la mélodie, plus sa création est agréable à entendre quand les instruments lui donnent vie. Il en est de même dans la musique des sphères; nous ne pourrions jamais atteindre l'individualité et la conscience de soi vers lesquelles tend l'évolution, sans la dissonance divine.
+Mais il est erroné de penser qu'une harmonie constante est agréable. Ainsi exprimée, la musique deviendrait monotone, et nous nous lasserions d'une harmonie continuelle. La musique perdrait réellement son charme si des dissonances n'intervenaient pas fréquemment. Plus le compositeur approche de la dissonance sans qu'elle fasse partie de la mélodie, plus sa création est agréable à entendre quand les instruments lui donnent vie. Il en est de même dans la musique des sphères; nous ne pourrions jamais atteindre l'individualité et la conscience de soi vers lesquelles tend l'évolution, sans la dissonance divine.
 
 Pour cette raison, le Livre de Job désigne Satan comme l'un des Fils de Dieu. Et le mythe de Faust indique que Lucifer est également présent à la convocation mentionnée au premier chapitre de l'histoire. C'est de lui que vient la note salvatrice de dissonance qui forme un contraste avec l'harmonie céleste; et comme la lumière la plus intense projette l'ombre la plus obscure, la voix de Lucifer rehausse la beauté du chant céleste.
 
 Tandis que les autres Esprits Planétaires s'inclinent en adoration lorsqu'ils contemplent les oeuvres du Maître Architecte révélées dans l'univers, Lucifer émet la note de critique et de blâme dans les vers suivants dirigés contre le chef-d'oeuvre de Dieu, le roi des créatures, l'homme:
 
-"Des Soleils et des Mondes, je n'ai rien à dire; Je vois seule ment les hommes se tourmenter. Le petit dieu du monde est toujours de même sorte, Aussi surprenant qu'au premier jour. Le pauvre! il vivrait un peu mieux, je pense, Sans ton don de la lumière divine. Il l'appelle Raison, mais ne l'emploie Qu'à se rendre plus bête que les bêtes."
+```
+"Des Soleils et des Mondes, je n'ai rien à dire; 
+Je vois seule ment les hommes se tourmenter. 
+Le petit dieu du monde est toujours de même sorte, 
+Aussi surprenant qu'au premier jour. 
+Le pauvre! il vivrait un peu mieux, je pense, 
+Sans ton don de la lumière divine. 
+Il l'appelle Raison, mais ne l'emploie 
+Qu'à se rendre plus bête que les bêtes."
+```
 
 Au point de vue des générations précédentes, ceci peut paraître sacrilège. Mais à la lumière plus vive de nos temps modernes, nous pouvons comprendre qu'une évolution doit exister, même pour un être aussi élevé que celui que nous désignons par le nom de Dieu. Nous pouvons pressentir la lutte pour développer de plus grandes aptitudes, l'idée d'univers futurs offrant des facilités accrues pour les évolutions ultérieures d'autres Esprits Vierges, tout cela comme résultat des imperfections notées dans le plan de manifestation par son Auteur exalté. De plus, comme c'est "en Lui que nous avons la vie, le mouvement et l'être", la note discordante émise par les Esprits Lucifer devrait aussi se faire entendre en Lui. Ce n'est pas une intervention extérieure qui attire Son attention ou Le met à l'oeuvre, mais Sa propre et divine reconnaissance d'une imperfection à transmuer en un plus grand bien.
 
 Nous lisons dans la Bible que Job était un homme parfait, et dans le mythe de Faust, le personnage principal est un serviteur de Dieu car, naturellement, le problème de la progression, de la croissance plus grande, doit être résolu par le plus évolué. Les individus ordinaires, ou ceux qui sont inférieurs en évolution, ont encore cette partie du chemin à parcourir, étapes dépassées par Faust et Job, qui sont à l'avant-garde de la race et que la masse de l'humanité considère de la même manière que Lucifer qui les traite de naïfs et d'illuminés:
 
-"Pauvre imbécile! sa nourriture n'est pas terrestre; Son effervescence le projette dans l'espace; A demi conscient de son état délirant, Il voudrait du ciel ses plus belles étoiles, Et de la Terre ses plus grandes délectations. De loin ni de près, rien ne pourrait Apaiser les passions qui le dévorent.
+```
+"Pauvre imbécile! sa nourriture n'est pas terrestre; 
+Son effervescence le projette dans l'espace; 
+A demi conscient de son état délirant, 
+Il voudrait du ciel ses plus belles étoiles, 
+Et de la Terre ses plus grandes délectations. 
+De loin ni de près, rien ne pourrait 
+Apaiser les passions qui le dévorent.
+```
 
 Pour de tels êtres un sentier nouveau et plus élevé doit être ouvert, afin de leur donner de plus grandes occasions de croissance, d'où la réponse de Dieu:
 
-"Il me sert aujourd'hui avec égarement, Mais je le conduirai bientôt à la lumière. Sur le jeune arbre, le jardinier Entrevoit fleurs et fruits des futures années."
+```
+"Il me sert aujourd'hui avec égarement, 
+Mais je le conduirai bientôt à la lumière. 
+Sur le jeune arbre, le jardinier 
+Entrevoit fleurs et fruits des futures années."
+```
 
 ### <h3 id="chapter-2">Chapitre II: Les Angoisses de l'Âme qui Cherche (1re Partie)</h3>
 
 Tout comme l'exercice est nécessaire au développement des muscles physiques, ainsi le développement de la nature morale s'accomplit par la tentation. Le choix étant donné à l'Ego, il peut l'exercer dans la direction qui lui plaît, car il apprendra tout autant, peut-être même davantage, par ses erreurs que par ses actions justes. C'est pourquoi, dans le mythe de Job, le diable est autorisé à le tenter; et dans le mythe de Faust, le tentateur adresse sa requête à Dieu:
 
-"Gage que vous allez le perdre, Seigneur, Si vous me laissez le conduire à ma guise."
+```
+"Gage que vous allez le perdre, Seigneur, 
+Si vous me laissez le conduire à ma guise."
+```
 
 Le Seigneur réplique:
 
-"C'est bien; je vais te laisser conduire Cet esprit loin de sa source originelle. Mène-toi, si tu peux le convaincre De descendre avec toi la pente. Mais tienne sera la honte, si tu dois reconnaître Qu'un honnête homme, dans ses plus vils désirs, Peut encore trouver le chemin du salut."(...)"
+```
+"C'est bien; je vais te laisser conduire 
+Cet esprit loin de sa source originelle. 
+Mène-toi, si tu peux le convaincre 
+De descendre avec toi la pente. 
+Mais tienne sera la honte, si tu dois reconnaître 
+Qu'un honnête homme, dans ses plus vils désirs, 
+Peut encore trouver le chemin du salut."(...)"
+Tu peux toujours venir ici librement; 
+Je n'ai pas de haine pour tes pareils; 
+De tous les esprits de négation, 
 
-Tu peux toujours venir ici librement; Je n'ai pas de haine pour tes pareils; De tous les esprits de négation, Ce sont les fripons qui me pèsent le moins. L'homme est trop enclin à la paresse, Son activité tend à se relâcher, Et je lui donne exprès ce compagnon actif, Qui l'émoustille et joue le rôle de diable. Mais vous, les vrais enfants de Dieu, Réjouissez-vous de l'inépuisable beauté; Que tout ce qui vit, croît et se développe, vous entoure d'un climat d'amour et de devoir."
+Ce sont les fripons qui me pèsent le moins. 
+L'homme est trop enclin à la paresse, 
+Son activité tend à se relâcher, 
+Et je lui donne exprès ce compagnon actif, 
+Qui l'émoustille et joue le rôle de diable. 
+Mais vous, les vrais enfants de Dieu, 
+Réjouissez-vous de l'inépuisable beauté; 
+Que tout ce qui vit, croît et se développe, 
+vous entoure d'un climat d'amour et de devoir."
+```
 
 Ainsi la trame est prête, et Faust sur le point de se laisser prendre dans les mailles des filets tendus sur le sentier de toute âme qui cherche. Ce qui suit nous montre toutefois le but bienfaisant et la nécessité de la tentation. L'Esprit est une partie intégrante de Dieu; tout d'abord innocent , mais non vertueux. La vertu est une qualité positive qui se développe en résistant fermement à la tentation ou en subissant les souffrances qu'entraînent les mauvaises actions. Ainsi, le prologue dans les cieux donne au mythe de Faust une grande valeur en tant que guide et encouragement à l'âme qui cherche. Il montre le but éternel au-delà des conditions terrestres qui causent souffrance et douleur.
 
 Maintenant, Goethe nous présente Faust installé dans sa sombre salle d'études; il est plongé dans l'introspection et la rétrospection:
 
-"Philosophie, jurisprudence, médecine, Et toi aussi, triste théologie, hélas! Etudiées à fond, avec ardeur, Et me voici, pauvre imbécile, Aussi peu habile que devant!" (...)
-
-"Je ne crois pas savoir quelque chose de sensé pour élever et enseigner l'humanité. Je n'ai pas travaillé pour amasser de l'or, Pour la célébrité, le rang social, les plaisirs." (...)
-
-"Il ne me reste plus que l'art de la magie. Oh! si la force de l'esprit, ou de la parole, Pouvait me dévoiler les secrets que j'ignore, Que je n'aie plus à enseigner péniblement Des choses dont je ne connais le premier mot." (...)
-
-"Malheur à moi, prisonnier dans le noir De ces murs étouffants que je déteste, Où pénètre à peine la lumière du ciel A travers ces carreaux multicolores!" (...)
-
-"Debout; enfuis-toi vers les lointains espaces! Ce livre de magie, par Nostradamus, Te fera connaître le cours des astres. Si la nature te révèle ses secrets, Ton âme fortifiée s'élèvera jusqu'à elle; Tu lui parleras comme d'esprit à esprit."
+```
+"Philosophie, jurisprudence, médecine, 
+Et toi aussi, triste théologie, hélas! 
+Etudiées à fond, avec ardeur, 
+Et me voici, pauvre imbécile, 
+Aussi peu habile que devant!" (...)
+"Je ne crois pas savoir quelque chose de sensé 
+pour élever et enseigner l'humanité. 
+Je n'ai pas travaillé pour amasser de l'or, 
+Pour la célébrité, le rang social, les plaisirs." (...)
+"Il ne me reste plus que l'art de la magie. 
+Oh! si la force de l'esprit, ou de la parole, 
+Pouvait me dévoiler les secrets que j'ignore, 
+Que je n'aie plus à enseigner péniblement 
+Des choses dont je ne connais le premier mot." (...)
+"Malheur à moi, prisonnier dans le noir 
+De ces murs étouffants que je déteste, 
+Où pénètre à peine la lumière du ciel 
+A travers ces carreaux multicolores!" (...)
+"Debout; enfuis-toi vers les lointains espaces! 
+Ce livre de magie, par Nostradamus, 
+Te fera connaître le cours des astres. 
+Si la nature te révèle ses secrets, 
+Ton âme fortifiée s'élèvera jusqu'à elle; 
+Tu lui parleras comme d'esprit à esprit."
+```
 
 Toute une vie consacrée à l'étude n'a pas apporté à Faust de connaissances réelles. Les sources conventionnelles du savoir se révèlent finalement stériles. Le savant peut penser que Dieu est superflu; il peut croire que la vie consiste en actions et réactions chimiques, du moins au début, mais plus il approfondit ses recherches sur le sujet, plus les mystères rencontrés en chemin sont grands; enfin il ne pourra poursuivre ses recherches plus avant et il sera forcé de les abandonner ou de croire en Dieu en tant qu'Esprit dont la vie pénètre chaque atome de matière. Or, Faust en est à ce point. Il dit que ses études n'ont été faites "ni pour l'or, ni pour la célébrité, ni pour le rang social, ni pour les plaisirs". Ayant lutté par amour de la recherche, il est arrivé au point où il voit que le monde de l'esprit nous enveloppe tous; et grâce à ce monde, au moyen de la magie, il aspire maintenant à une plus haute, plus réelle connaissance que celle contenue dans les livres.
 
 Un volume écrit par le célèbre Nostradamus est entre ses mains, et en l'ouvrant, il aperçoit le signe du macrocosme. Le pouvoir contenu dans ce signe ouvre à sa conscience une partie du monde qu'il recherche; dans une extase de joie, il s'écrie:
 
-"Ah! quelle extase s'empare de tout mon être! Je ressens une vie nouvelle, sainte et intense. Je perçois le sens des paroles du Sage: "Le monde des esprits s'ouvre devant toi Quand tes sens sont assoupis, quand ton coeur est mort. Debout! disciple, plonge-toi sans trêve Dans les rayons rougeâtres de l'aurore!"
-
+```
+"Ah! quelle extase s'empare de tout mon être! 
+Je ressens une vie nouvelle, sainte et intense. 
+Je perçois le sens des paroles du Sage: 
+"Le monde des esprits s'ouvre devant toi 
+Quand tes sens sont assoupis, quand ton coeur est mort. 
+Debout! disciple, plonge-toi sans trêve 
+Dans les rayons rougeâtres de l'aurore!"
 Il examine le signe:
-
-"Comme tout ce qui vit s'amalgame sans cesse! Et tout ce qui se meut, agit l'un dans l'autre! Les pouvoirs célestes montent et descendent sans trêve, Se transmettant de mains en mains des seaux d'or. Du ciel à la terre, des vibrations bénies, Rosée parfumée qui revigore le sol aride, apportent à tous l'harmonie du Tout."
+"Comme tout ce qui vit s'amalgame sans cesse! 
+Et tout ce qui se meut, agit l'un dans l'autre! 
+Les pouvoirs célestes montent et descendent sans trêve, 
+Se transmettant de mains en mains des seaux d'or. 
+Du ciel à la terre, des vibrations bénies, 
+Rosée parfumée qui revigore le sol aride, 
+apportent à tous l'harmonie du Tout."
+```
 
 Mais de nouveau le balancier revient en arrière. De même qu'essayer de fixer l'éclatante lumière du Soleil détruit la rétine des yeux, ainsi l'audacieux qui veut sonder l'Infini rencontre la défaite, et l'âme qui cherche est rejetée de l'extase de la joie dans les ténèbres du désespoir:
 
-"Quel spectacle!...ce n'est qu'un spectacle, hélas! Où pourrais-je te saisir, nature infinie? Où saisir les mamelles, source de toute vie, Auxquelles ciel et terre demeurent suspendus? Comment s'abreuver de ce lait intarissable? Il coule partout, il inonde tout; et moi Je languis vainement après lui."
+```
+"Quel spectacle!...ce n'est qu'un spectacle, hélas! 
+Où pourrais-je te saisir, nature infinie? 
+Où saisir les mamelles, source de toute vie, 
+Auxquelles ciel et terre demeurent suspendus? 
+Comment s'abreuver de ce lait intarissable? 
+Il coule partout, il inonde tout; et moi 
+Je languis vainement après lui."
+```
 
 Nous devons comprendre ce qui nous environne ici-bas avant d'aspirer à la connaissance supérieure. Il est absurde de se passionner pour les mondes supérieurs et les corps subtiles, alors que nous ignorons à peu près tout des véhicules qui nous servent journellement, ainsi que du milieu dans lequel nous agissons. "Homme, connais-toi toi-même" est un sage précepte. L'unique sécurité consiste à gravir l'échelle échelon par échelon, à ne jamais tenter d'atteindre un degré supérieur avant de nous être "assurés", avant d'être bien en équilibre sur celui où nous sommes. Plus d'une âme peut faire écho dans sa propre expérience au désespoir contenu dans les paroles de Faust.
 
 Imprudemment, il est parti du point le plus élevé. Il a rencontré la déception, mais ne comprend pas encore qu'il doit commencer tout en bas; et il essaie d'évoquer l'Esprit de la Terre:
 
-"Esprit de la Terre, tu es plus près de moi; Déjà je sens mes forces s'accroître, Déjà j'ose me risquer dans le monde, En supportant les peines, aussi bien que les joies, Lutter contre la tempête, et ne pas pâlir Des craquements du vaisseau faisant naufrage. Les nuages s'amoncellent, obscurcissent la lune; La lumière s'éteint, des vapeurs s'élèvent, Des rayons ardents font le tour de ma tête, Je me sens saisi d'un frisson qui m'oppresse. Esprit que j'invoque, tu es autour de moi, Je te sens tout près, manifeste-toi! Mon coeur s'abandonne à toi, Parais, dût-il m'en coûter la vie!"
+```
+"Esprit de la Terre, tu es plus près de moi; 
+Déjà je sens mes forces s'accroître, 
+Déjà j'ose me risquer dans le monde, 
+En supportant les peines, aussi bien que les joies, 
+Lutter contre la tempête, et ne pas pâlir 
+Des craquements du vaisseau faisant naufrage. 
+Les nuages s'amoncellent, obscurcissent la lune; 
+La lumière s'éteint, des vapeurs s'élèvent, 
+Des rayons ardents font le tour de ma tête, 
+Je me sens saisi d'un frisson qui m'oppresse. 
+Esprit que j'invoque, tu es autour de moi, 
+Je te sens tout près, manifeste-toi! 
+Mon coeur s'abandonne à toi, 
+Parais, dût-il m'en coûter la vie!"
+```
 
 Comme nous l'avons dit dans la "Cosmogonie Rosicrucienne" et ailleurs où nous avons répondu à une question (Questions et Réponses I, nÝ 116) concernant le rituel Latin dans l'Eglise Catholique, un mot est un son. S'il est correctement prononcé - et peu importe par qui - il a une influence contraignante sur l'intelligence qu'il représente, et le mot donné à chaque degré d'Initiation donne à l'homme l'accès à une sphère particulière de vibrations, habitée par certaines classes d'Esprits. Donc, comme le diapason répond à une note de même ton, ainsi, quand Faust prononce le nom de l'Esprit de la Terre, sa conscience s'ouvre à cette toute-pénétrante présence.
 
@@ -154,31 +251,64 @@ Nous avons déjà donné quelques aperçus d'une phase de l'Initiation en expliq
 
 Les paroles que Goethe fait adresser à Faust par l'Esprit de la Terre offrent un magnifique sujet de méditation, car elles représentent ce que le candidat ressent lorsqu'il saisit pour la première fois la présence vivante de l'Esprit de la Terre oeuvrant sans cesse pour notre élévation:
 
-"Dans le flot de la vie, l'action de la tempête, Je monte et je descends, je vais et je repars. Naissance et tombeau, une mer sans limites, Une trame changeante, une vie ardente, Ainsi je tisse, au métier bourdonnant du Temps, Le vêtement vivant de la Divinité."
+```
+"Dans le flot de la vie, l'action de la tempête, 
+Je monte et je descends, je vais et je repars. 
+Naissance et tombeau, une mer sans limites, 
+Une trame changeante, une vie ardente, 
+Ainsi je tisse, au métier bourdonnant du Temps, 
+Le vêtement vivant de la Divinité."
+```
 
 Naturellement, il ne faut pas imaginer l'Esprit de la Terre comme une grande forme humaine, ou possédant des contours autres que ceux de la Terre. Le corps vital de Jésus, dans lequel l'Esprit du Christ s'était concentré avant sa pénétration dans notre Terre, a une forme humaine ordinaire; il est conservé et montré au candidat à un certain moment de son évolution. Dans un lointain avenir, ce véhicule deviendra à nouveau la demeure du bienveillant Esprit du Christ lorsqu'Il quittera le centre de la Terre, que nous serons à l'état éthérique, et qu'Il sera prêt à s'élever dans des sphères plus élevées, nous laissant sous la direction du Père dont la religion dépassera le Christianisme.
 
 Lorsqu'un Esprit entre par une certaine porte, il doit également s'en aller par le même chemin, est une vérité ésotérique enseignée par Goethe lors de la première apparition de Méphistophélès à Faust. Faust n'est pas sur le sentier régulier de l'Initiation, il n'a pas gagné l'admission ni l'aide des Frères Aînés; son impatience lui fait chercher la mauvaise porte. Il est donc repoussé par l'Esprit de la Terre et, lorsqu'il croit avoir réussi, il est précipité du sommet de la joie dans l'abîme du désespoir, et c'est là qu'il comprend qu'il a échoué:
 
-"Moi, l'image de Dieu, qui me croyais déjà Près du miroir de l'éternelle vérité, Dans la lumière et la clarté du ciel; Moi dont l'âme se croyait libérée, Pensant nager dans les veines de la nature Et jouir en créateur de la vie des dieux, Me voilà bien puni. Ta foudroyante parole M'a rejeté bien loin, parmi les autres hommes. Oui, j'ai pu t'attirer, mais non te retenir. Qui va donc m'enseigner, et que dois-je éviter?"
+```
+"Moi, l'image de Dieu, qui me croyais déjà 
+Près du miroir de l'éternelle vérité, 
+Dans la lumière et la clarté du ciel; 
+Moi dont l'âme se croyait libérée, 
+Pensant nager dans les veines de la nature 
+Et jouir en créateur de la vie des dieux, 
+Me voilà bien puni. Ta foudroyante parole 
+M'a rejeté bien loin, parmi les autres hommes. 
+Oui, j'ai pu t'attirer, mais non te retenir. 
+Qui va donc m'enseigner, et que dois-je éviter?"
+```
 
 Il pense que les sources du savoir sont taries et qu'il ne pourra jamais atteindre à la véritable connaissance. Craignant la triste monotonie d'une vie ordinaire, il saisit une fiole de poison et s'apprête à la boire, quand il entend à l'extérieur des chants proclamant la résurrection du Christ car c'est le matin de Pâques. A cette pensée, un nouvel espoir emplit son âme, mais il est dérangé dans ses desseins par son ami Wagner qui frappe à la porte.
 
-En se promenant avec ce dernier, Faust fait entendre le cri d'angoisse de toute âme qui aspire et qui est aux prises avec l'effroyable lutte entre la nature supérieure et la nature inférieure. Tant que nous vivons d'une vie mondaine sans aspirations élevées, la paix est en nous. Mais dès que nous sentons l'appel de l'esprit, notre équilibre s'en va, et plus ardemment nous poursuivons la recherche du Graal, plus terrible est la lutte intérieure.
+En se promenant avec ce dernier, Faust fait entendre le cri d'angoisse de toute âme qui aspire et qui est aux prises avec l'effroyable lutte entre la nature supérieure et la nature inférieure. Tant que nous vivons d'une vie mondaine sans aspirations élevées, la paix est en nous. Mais dès que nous sentons l'appel de l'esprit, notre équilibre s'en va, et plus ardemment nous poursuivons la recherche du Graal, plus terrible est la lutte intérieure. Paul gémissait sur lui-même à cause de ses désirs inférieurs qui combattaient dans sa chair ses hautes aspirations spirituelles (Romains 7:18-25) et Faust lui ressemble lorsqu'il dit:
 
-Paul gémissait sur lui-même à cause de ses désirs inférieurs qui combattaient dans sa chair ses hautes aspirations spirituelles (Romains 7:18-25) et Faust lui ressemble lorsqu'il dit:
-
-"Deux âmes, hélas, se partagent mon coeur Et luttent pour la suprématie. L'une, de toutes ses fibres, s'attache à la terre Et s'y cramponne avec passion. L'autre, pleine d'une ardeur sacrée, aspire A s'élever dans des sphères plus pures."
+```
+"Deux âmes, hélas, se partagent mon coeur 
+Et luttent pour la suprématie. 
+L'une, de toutes ses fibres, s'attache à la terre 
+Et s'y cramponne avec passion. 
+L'autre, pleine d'une ardeur sacrée, aspire 
+A s'élever dans des sphères plus pures."
+```
 
 Il ne se rend pas compte qu'il n'existe aucune grande route pour nous conduire au but; chacun doit parcourir seul le sentier vers la paix. Il s'imagine que des Esprits pourront lui donner le pouvoir de l'âme prêt à être utilisé:
 
-"Oh! y a-t-il dans l'air des esprits Planant entre le ciel et la terre? Qu'ils descendent de leurs nuages dorés Et me mènent à une vie nouvelle, plus variée! Si seulement j'avais un manteau magique Pour me transporter vers des régions lointaines, Ce serait de mes vêtements le plus précieux, Je ne l'échangerais pas contre celui d'un roi."
+```
+"Oh! y a-t-il dans l'air des esprits 
+Planant entre le ciel et la terre? 
+Qu'ils descendent de leurs nuages dorés 
+Et me mènent à une vie nouvelle, plus variée! 
+Si seulement j'avais un manteau magique 
+Pour me transporter vers des régions lointaines, 
+Ce serait de mes vêtements le plus précieux, 
+Je ne l'échangerais pas contre celui d'un roi."
+```
 
-Il est condamné au désappointement parce qu'il compte sur les autres. "Si tu es le Christ, aide-toi", affirme la règle universelle, et la confiance en soi est la vertu principale que les aspirants doivent cultiver dans l'Ecole des Mystères Occidentaux. Il n'est permis à personne de s'appuyer sur des Maîtres ou de suivre aveuglément des Guides. Les Frères de la Rose-Croix cherchent à émanciper les âmes qui viennent à eux, à les instruire, à les fortifier et à en faire des collaborateurs. Les philanthropes sont rares, et ceux qui attendent d'un Instructeur qu'il fasse plus que d'indiquer le chemin seront déçus. Quels que soient leurs titres, qu'ils se présentent dans un corps de chair ou en tant qu'Esprit, aussi spiritualisés qu'ils puissent paraître, les Instructeurs ne peuvent absolument pas accomplir les bonnes actions nécessaires à la croissance de l'âme, ni les assimiler et nous donner le pouvoir de l'âme qui en résulte, pas plus qu'ils ne peuvent nous donner la force physique en mangeant notre nourriture.
+Il est condamné au désappointement parce qu'il compte sur les autres. "Si tu es le Christ, aide-toi", affirme la règle universelle, et la confiance en soi est la vertu principale que les aspirants doivent cultiver dans l'Ecole des Mystères Occidentaux. Il n'est permis à personne de s'appuyer sur des Maîtres ou de suivre aveuglément des Guides. Les Frères de la Rose-Croix cherchent à émanciper les âmes qui viennent à eux, à les instruire, à les fortifier et à en faire des collaborateurs. Les philanthropes sont rares, et ceux qui attendent d'un Instructeur qu'il fasse plus que d'indiquer le chemin seront déçus. Quels que soient leurs titres, qu'ils se présentent dans un corps de chair ou en tant qu'Esprit, aussi spiritualisés qu'ils puissent paraître, les Instructeurs ne peuvent absolument pas accomplir les bonnes actions nécessaires à la croissance de l'âme, ni les assimiler et nous donner le pouvoir de l'âme qui en résulte, pas plus qu'ils ne peuvent nous donner la force physique en mangeant notre nourriture. Il est vrai que Faust, l'âme qui cherche, attire un Esprit prêt à le servir, mais c'est un Esprit de nature indésirable, Lucifer. Faust s'enquiert de son nom, il répond:
 
-Il est vrai que Faust, l'âme qui cherche, attire un Esprit prêt à le servir, mais c'est un Esprit de nature indésirable, Lucifer. Faust s'enquiert de son nom, il répond:
-
-"Je suis l'esprit de négation, Le pouvoir qui oeuvre pour le bien, Tout en voulant le mal."
+```
+"Je suis l'esprit de négation, Le pouvoir 
+qui oeuvre pour le bien, Tout en voulant le mal."
+```
 
 Les gens ou les Esprits qui offrent de satisfaire nos désirs ont généralement un but.
 
@@ -188,11 +318,18 @@ Attiré par l'attitude mentale de Faust, Lucifer le suit dans son cabinet. Par t
 
 Le magicien noir, qui ne possède ni âme, ni pouvoir de l'âme, utilise aussi l'énergie sexuelle. Il quitte et réintègre son corps dense par les pieds, la corde d'argent passant par les organes sexuels. Le pentacle avec deux pointes en haut est par conséquent le symbole de la magie noire. Lucifer n'a aucune difficulté pour pénétrer dans le cabinet de Faust, mais lorsqu'il veut partir, l'unique pointe lui barre le chemin. Il demande à Faust de déplacer le signe, mais ce dernier répond:
 
-"Le pentacle te met en peine? Explique-moi donc, fils de l'enfer, si ce signe t'écarte, comment es-tu entré? (...) Pourquoi ne pas sortir par la fenêtre?"
+```
+"Le pentacle te met en peine? 
+Explique-moi donc, fils de l'enfer, 
+si ce signe t'écarte, comment es-tu entré? (...) 
+Pourquoi ne pas sortir par la fenêtre?"
 
 Et Lucifer de répondre:
 
-"C'est une loi des diables et des autres esprits Qu'ils doivent ressortir par où ils sont entrés. L'un des actes est libre, mais l'autre est imposé."
+"C'est une loi des diables et des autres esprits 
+Qu'ils doivent ressortir par où ils sont entrés. 
+L'un des actes est libre, mais l'autre est imposé."
+```
 
 Avant l'an 33 de notre ère, Jéhovah guidait notre planète dans son orbite et dirigeait de l'extérieur l'humanité sur le sentier de l'évolution. Sur le Golgotha, le Christ a pénétré dans la Terre, qu'Il gouverne maintenant de l'intérieur et qu'Il dirigera jusqu'à ce qu'un nombre suffisant d'êtres humains aient développé le pouvoir de l'âme nécessaire pour conduire la Terre sur son orbite et guider nos plus jeunes frères. Pour cela, il faut être apte à vivre dans un corps vital, capable de lévitation. Le corps vital de Jésus, qui a permis au Christ de pénétrer dans la Terre, est Son unique moyen de retour vers le Soleil. Le Second Avènement se produira donc dans le corps vital de Jésus.
 
@@ -212,7 +349,12 @@ Cependant, Faust cherche d'abord à entrer en communication avec le macrocosme, 
 
 Comme nous l'avons déjà dit, il est cependant trop ignorant pour conserver la maîtrise, et le pouvoir de l'esprit supprime rapidement les obstacles, libérant ainsi Lucifer. Mais, bien qu'il quitte la chambre de Faust, il revient bientôt, prêt à faire un pacte avec l'âme qui cherche. Il fait passer devant les yeux de Faust les tableaux les plus vivants de ce que sera son existence et lui montre comment il peut vivre sa vie, satisfaire ses passions et ses désirs. Faust, sachant que Lucifer n'est nullement désintéressé, le questionne sur le prix qu'il en demande. Et Lucifer répond:
 
-"Je m'engage à te servir ici-bas, A t'obéir au moindre signe, Mais quand nous nous rencontrerons dans l'au-delà, Tu devras me rendre la pareille."
+```
+"Je m'engage à te servir ici-bas, 
+A t'obéir au moindre signe, 
+Mais quand nous nous rencontrerons dans l'au-delà, 
+Tu devras me rendre la pareille."
+```
 
 Faust ajoute lui-même une condition apparemment singulière quant à l'heure où le service de Lucifer prendra fin, et quant au terme de sa propre vie terrestre.
 
@@ -220,9 +362,22 @@ Aussi étrange que cela puisse paraître l'acceptation de Lucifer et la clause p
 
 De plus, nous sommes tous des "constructeurs du temple" oeuvrant sous la direction de Dieu et de Ses ministres, les Hiérarchies divines. Si nous négligeons la tâche qui nous est assignée en cette vie, nous serons placés dans des conditions qui nous obligeront à l'accomplir. Il n'y a ni paix ni repos sur le chemin de l'évolution, et si nous cherchons les plaisirs et la joie à l'exclusion de tout travail utile, la mort sonnera bientôt son glas. Si nous parvenions jamais à un point tel que nous serions prêts à prier l'heure qui passe de durer, où les conditions nous contenteraient tant, que nous cesserions nos efforts vers le progrès, notre existence se terminerait rapidement. Nous pouvons remarquer que ceux qui se retirent de leurs affaires uniquement pour jouir de ce qu'ils ont accumulé s'éteignent bientôt; au contraire, l'homme à la retraite qui se consacre à une autre occupation vit généralement plus longtemps: rien ne termine plus rapidement une existence que l'inaction. Ainsi, les lois de la Nature sont énoncées dans le marché de Lucifer et la condition ajoutée par Faust:
 
-"Si jamais je me plais dans la fainéantise, Que cette heure soit la dernière! Si tu peux me flatter au point Que je me plaise à moi-même, Si tu peux m'abuser par des jouissances, Que c'en soit fait de moi!" (...)
-
-Si jamais je dis à l'instant qui passe: reste donc, tu me plais tant! Tu pourras m'entourer de liens, la cloche des morts pourra sonner, tu seras libéré de mon service, que la pendule s'arrête, que l'aiguille tombe, que pour moi le temps cesse d'exister!"
+```
+"Si jamais je me plais dans la fainéantise, 
+Que cette heure soit la dernière! 
+Si tu peux me flatter au point 
+Que je me plaise à moi-même, 
+Si tu peux m'abuser par des jouissances, 
+Que c'en soit fait de moi!" (...)
+Si jamais je dis à l'instant qui passe: 
+reste donc, tu me plais tant! 
+Tu pourras m'entourer de liens, 
+la cloche des morts pourra sonner, 
+tu seras libéré de mon service, 
+que la pendule s'arrête, 
+que l'aiguille tombe, 
+que pour moi le temps cesse d'exister!"
+```
 
 Lucifer demande à Faust de signer avec une goutte de sang, et lorsque ce dernier lui en demande la raison, il répond avec astuce: "Le sang est une essence très spéciale". La Bible nous dit qu'il est le siège de l'âme (Lévitique 17:11-14).
 
@@ -240,25 +395,56 @@ Faust essaie d'acquérir des pouvoirs rapidement avec l'aide des autres; il touc
 
 A Lucifer qui lui demande de signer le pacte avec son sang, Faust répond avec mépris:
 
-"Ne crains pas que je viole ma parole; Je mets toute ma force dans cet engagement. J'avais visé trop haut; je suis à ton niveau. Le Grand Esprit m'a dédaigné, et la Nature Se ferme à mon approche. Le fil de ma pensée Est rompu. La science m'est en horreur. Dans les gouffres profonds de la sensualité, Que s'apaisent mes terribles passions! Dans les impénétrables voiles de la magie, Des charmes merveilleux exciteront nos sens!"
+```
+"Ne crains pas que je viole ma parole; 
+Je mets toute ma force dans cet engagement. 
+J'avais visé trop haut; je suis à ton niveau. 
+Le Grand Esprit m'a dédaigné, et la Nature 
+Se ferme à mon approche. Le fil de ma pensée 
+Est rompu. La science m'est en horreur. 
+Dans les gouffres profonds de la sensualité, 
+Que s'apaisent mes terribles passions! 
+Dans les impénétrables voiles de la magie, 
+Des charmes merveilleux exciteront nos sens!"
+```
 
 Ayant été dédaigné par les puissances du bien, enflammé du désir d'acquérir la connaissance directe pour obtenir un pouvoir réel, il est prêt à tout sacrifier. Mais Dieu dit dans le prologue:
 
-"Un honnête homme, dans ses plus vils désirs, Peut encore trouver le chemin du salut."
+```
+"Un honnête homme, dans ses plus vils désirs, 
+Peut encore trouver le chemin du salut."
+```
 
-Faust représente l'âme qui aspire, et l'âme ne peut pas s'écarter en permanence du sentier de l'évolution. Le but poursuivi par Faust nous démontre que même lorsqu'il s'égare dans la fange, son idéal est élevé; il a besoin d'expériences:
+Faust représente l'âme qui aspire, et l'âme ne peut pas s'écarter en permanence du sentier de l'évolution. 
 
-"Tu m'entends, il ne s'agit pas de joie; je veux L'ivresse du vertige, l'agonie du plaisir, La haine dans l'amour, la vie dans le dépit . Revenu de l'amour de la science, mon coeur Ne sera plus fermé à aucune douleur. Ce qui est le partage de l'humanité entière, Je veux le ressentir au plus profond de moi. Je veux, par mon esprit, connaître le plus haut, Et aussi le plus bas; entasser sur mon coeur, Le bien comme le mal qui est, hélas! son lot, Et me gonflant comme elle, finir par me briser!"
+Le but poursuivi par Faust nous démontre que même lorsqu'il s'égare dans la fange, son idéal est élevé; il a besoin d'expériences:
+
+```
+"Tu m'entends, il ne s'agit pas de joie; 
+je veux L'ivresse du vertige, l'agonie du plaisir, 
+La haine dans l'amour, la vie dans le dépit. 
+Revenu de l'amour de la science, mon coeur 
+Ne sera plus fermé à aucune douleur. 
+Ce qui est le partage de l'humanité entière, 
+Je veux le ressentir au plus profond de moi. 
+Je veux, par mon esprit, connaître le plus haut, 
+Et aussi le plus bas; entasser sur mon coeur, 
+Le bien comme le mal qui est, hélas! son lot, 
+Et me gonflant comme elle, finir par me briser!"
+```
 
 Avant que quiconque puisse devenir véritablement compatissant, il doit ressentir, comme que Faust le désire, toute la profondeur des souffrances de l'âme humaine, aussi bien que ses joies les plus extatiques; car c'est seulement lorsque nous connaissons ces extrêmes de la passion humaine que nous pouvons ressentir la compassion nécessaire à ceux qui désirent aider à l'élévation de l'humanité. Avec l'aide de Lucifer, Faust peut apprendre à connaître la joie et la souffrance, et dans ce sens, Lucifer est vraiment comme il le dit:
 
-"Le pouvoir qui oeuvre pour le bien, Tout en voulant le mal."
+```
+"Le pouvoir qui oeuvre pour le bien, 
+Tout en voulant le mal."
+```
 
 L'intervention des Esprits Lucifer dans le plan de l'évolution intensifie et canalise les passions humaines, occasionnant toutes les souffrances et les maladies du monde. Néanmoins, leur intervention a éveillé l'individualité de l'homme et l'a libéré de la tutelle des Anges. Faust, également avec l'aide de Lucifer, est conduit hors des sentiers conventionnels, et s'individualise ainsi. Faust et Lucifer, dans le marché qu'ils viennent de conclure, sont la réplique des Fils de Caïn, qui sont les descendants et les protégés des Esprits Lucifer, comme nous l'avons vu dans "Franc-Maçonnerie et Catholicisme".
 
-Dans la tragédie de Faust, Marguerite est la protégée des Fils de Seth, la prêtrise décrite dans la légende Maçonnique. Les deux classes représentées par Faust et Marguerite doivent se rencontrer, et entre ces deux se jouera la tragédie de la vie, et des souffrances endurées par chacune, l'âme développera des ailes qui l'élèveront de nouveau vers les régions de félicité d'où elle vient.
+Dans la tragédie de Faust, Marguerite est la protégée des Fils de Seth, la prêtrise décrite dans la légende Maçonnique. Les deux classes représentées par Faust et Marguerite doivent se rencontrer, et entre ces deux se jouera la tragédie de la vie, et des souffrances endurées par chacune, l'âme développera des ailes qui l'élèveront de nouveau vers les régions de félicité d'où elle vient.Pendant ce temps, Lucifer conduit Faust dans la cuisine d'une sorcière qui lui donne un élixir de jeunesse afin que, rajeuni, il puisse devenir désirable aux yeux de Marguerite. 
 
-Pendant ce temps, Lucifer conduit Faust dans la cuisine d'une sorcière qui lui donne un élixir de jeunesse afin que, rajeuni, il puisse devenir désirable aux yeux de Marguerite. Quand "Faust" est représenté sur scène, la cuisine de la sorcière est pleine d'instruments présumés utiles aux opérations magiques, et autres bizarreries: un feu d'enfer brûle sous une marmite contenant des philtres d'amour. Passons sous silence les objets inanimés pour étudier la signification de la famille de singes que nous voyons là, car il représentent une phase de notre évolution.
+Quand "Faust" est représenté sur scène, la cuisine de la sorcière est pleine d'instruments présumés utiles aux opérations magiques, et autres bizarreries: un feu d'enfer brûle sous une marmite contenant des philtres d'amour. Passons sous silence les objets inanimés pour étudier la signification de la famille de singes que nous voyons là, car il représentent une phase de notre évolution.
 
 Remplie de la passion instillée par les Esprits Lucifer ou Anges déchus, l'humanité s'est détachée des Anges guidés par Jéhovah. En conséquence du pouvoir cristallisant du désir, des "vêtements de peau" ont bientôt revêtu les humains, les séparant les uns des autres. L'égotisme a remplacé le sentiment de fraternité à mesure que l'on approchait du point le plus bas de la matérialité. Quelques-uns, plus passionnés que d'autres, ont cristallisé leur corps à un plus grand degré, si bien qu'ils ont dégénéré et sont devenus des anthropoïdes. Leur taille s'est réduite de plus en plus en approchant du point où toute espèce s'éteint. Ils sont donc tout spécialement confiés aux Esprits Lucifer. Ainsi le mythe de Faust nous montre une phase de l'évolution humaine qui ne figure pas dans la légende Maçonnique, et il nous donne une vue plus étendue de ce qui s'est réellement produit.
 
@@ -266,7 +452,12 @@ A un moment donné, toute l'humanité se trouvait au point considéré par les s
 
 A un certain moment, l'âme qui aspire, entre, comme Faust, dans la cuisine de la sorcière et réalise la leçon objective des conséquences du mal représenté par les singes. L'âme est ensuite laissée seule dans le jardin où elle rencontre Marguerite, pour tenter et être tentée, pour choisir entre la pureté et la passion, succomber comme Faust ou rester fermement fidèle à la pureté comme Parsifal. Conformément à la loi de Compensation, elle recevra alors son salaire pour les actions accomplies dans le corps dense. Vraiment, la chance est liée au mérite, ainsi que Lucifer le dit à Faust, et la véritable sagesse ne peut s'acquérir que par une patiente persistance dans le bien:
 
-"De combien près la chance est liée au mérite, Le sot n'en est jamais conscient. S'il possédait la pierre philosophale, Elle serait, je gage, sans son philosophe."
+```
+"De combien près la chance est liée au mérite, 
+Le sot n'en est jamais conscient. 
+S'il possédait la pierre philosophale, 
+Elle serait, je gage, sans son philosophe."
+```
 
 Fidèle à son propos d'étudier la vie plutôt que les livres, Faust demande à Lucifer de le faire admettre chez Marguerite, et s'efforce de gagner son coeur par le cadeau princier de joyaux précieux que Lucifer introduit subrepticement dans son placard. Le frère de Marguerite se bat au loin pour son pays. Sa mère est indécise et ne sait pas ce qu'il convient de faire de ces bijoux; elle les apporte au conseiller spirituel de son église. Mais ce dernier préfère les pierres brillantes aux âmes précieuses confiées à ses soins. Il néglige son devoir pour un collier de perles, plus désireux de s'assurer des gemmes pour en parer une idole que de protéger l'enfant de l'église contre les dangers de moralité qui rôdent sournoisement autour d'elle. Ainsi, Lucifer parvient à ses fins et récolte bientôt un butin de sang et d'âmes humaines, car pour accéder à la chambre de Marguerite, Faust la décide à administrer à sa mère un somnifère qui entraîne sa mort. Valentin, le frère de Marguerite, est tué par Faust, Marguerite est jetée en prison et condamnée à la peine capitale.
 
@@ -274,7 +465,12 @@ Si nous nous rappelons que le sang est le siège de l'âme, et qu'il adhère à 
 
 Par une juste appréciation de ce fait, Goethe a écrit:
 
-"Qui n'a jamais mangé son pain dans la tristesse, Qui n'a jamais passé les heures de la nuit A pleurer dans l'attente du matin, Ne vous connaît pas, ô pouvoirs célestes!"
+```
+"Qui n'a jamais mangé son pain dans la tristesse, 
+Qui n'a jamais passé les heures de la nuit 
+A pleurer dans l'attente du matin, 
+Ne vous connaît pas, ô pouvoirs célestes!"
+```
 
 ### <h3 id="chapter-6">Chapitre VI: Le Salaire du Péché et le Chemin du Salut</h3>
 
@@ -294,25 +490,49 @@ Dans la seconde partie de Faust, nous retrouvons le héros, l'esprit brisé par 
 
 Non content cependant de servir dans les conditions existantes, Faust oblige les forces diaboliques à créer un pays, à le faire surgir des eaux, pour fonder une Nouvelle Terre. Il fait un rêve utopique, dans lequel il voit cette terre libre devenir la patrie d'un peuple indépendant qui habitera là en paix et heureux en vivant les plus nobles idéaux.
 
-Cet idéal prend naissance en son âme par l'amour d'une personne nommée Hélène, amour de la nature la plus douce et la plus spirituelle, complètement différent de la passion et de la sensualité. Avec le temps, il voit la terre émerger de la mer, mais ses yeux se voilent de cécité, car il transfère son regard d'une condition terrestre à une condition céleste. Tandis qu'il voit les forces commandées par Lucifer travailler sous ses ordres jour et nuit, Faust comprend qu'il a réalisé le postulat de Lucifer:
-
-"Le pouvoir qui oeuvre pour le bien, Tout en voulant le mal."
+Cet idéal prend naissance en son âme par l'amour d'une personne nommée Hélène, amour de la nature la plus douce et la plus spirituelle, complètement différent de la passion et de la sensualité. Avec le temps, il voit la terre émerger de la mer, mais ses yeux se voilent de cécité, car il transfère son regard d'une condition terrestre à une condition céleste. Tandis qu'il voit les forces commandées par Lucifer travailler sous ses ordres jour et nuit, Faust comprend qu'il a réalisé le postulat de Lucifer: "Le pouvoir qui oeuvre pour le bien, Tout en voulant le mal."
 
 Il voit son oeuvre avec les forces inférieures sur le point d'être achevée, mais sa vue baisse, et avec l'intense désir qui saisit toute âme désireuse de contempler le fruit de ses travaux, il veut conserver sa vue jusqu'à la réalisation de son rêve - cette terre émergeant des eaux et ce peuple heureux vivant en toute fraternité. Comme sa vision commence à s'estomper devant ses yeux faibles, il murmure les mots fatals déjà prononcés au moment de son marché avec Lucifer:
 
-"Si jamais je dis à l'instant qui passe: Reste donc, tu me plais tant ! Tu pourras m'entourer de liens, La cloche des morts pourra sonner, Tu sera libéré de mon service. Que la pendule s'arrête, que l'aiguille tombe, Que pour moi le temps cesse d'exister!"
+```
+"Si jamais je dis à l'instant qui passe: 
+Reste donc, tu me plais tant! 
+Tu pourras m'entourer de liens, 
+La cloche des morts pourra sonner, 
+Tu sera libéré de mon service. 
+Que la pendule s'arrête, que l'aiguille tombe, 
+Que pour moi le temps cesse d'exister!"
+```
 
 Selon les termes du contrat, une fois que Faust a prononcé les mots fatidiques, les forces infernales sont libérées de leur servitude envers lui, mais lui, en retour, devient leur proie, du moins en apparence. Mais Faust ne désirait nullement arrêter la marche du temps pour jouir des plaisirs des sens ou pour satisfaire des désirs égoïstes, comme le prévoyait le marché. Il souhaitait consacrer son heure dernière à contempler la réalisation d'un idéal altruiste et noble. Il est donc réellement libéré de Lucifer et une bataille entre les forces angéliques et les suppôts de Lucifer se termine par une victoire des Anges qui emportent l'âme qui cherche dans le repos céleste, au royaume du Christ, en chantant:
 
-"Sauvée des pièges du Malin est la noble âme; Celui qui ne cesse de s'efforcer, Nous pouvons certes le sauver. S'il a même goûté à l'amour céleste, Les anges descendent à sa rencontre Et l'accueillent par des vivats."
+```
+"Sauvée des pièges du Malin est la noble âme; 
+Celui qui ne cesse de s'efforcer, 
+Nous pouvons certes le sauver. 
+S'il a même goûté à l'amour céleste, 
+Les anges descendent à sa rencontre 
+Et l'accueillent par des vivats."
+```
 
 Ainsi, le Faust du mythe est un personnage bien différent du Faust de la scène. Le drame qui débute dans les cieux où Lucifer est autorisé à tenter Faust, comme Job le fut dans les temps anciens, se termine également dans les cieux quand la tentation a été surmontée et que l'âme retourne vers son Père.
 
 Goethe, le grand mystique, termine magistralement son texte par la strophe la plus mystique que l'on puisse trouver en littérature:
 
-"Ce qui est transitoire N'est qu'une apparence, Et l'inaccessible Devient réalité. Ce qui est indescriptible Est ici atteint. L'Eternel Féminin Nous attire à lui."
+```
+"Ce qui est transitoire 
+N'est qu'une apparence, 
+Et l'inaccessible 
+Devient réalité. 
+Ce qui est indescriptible 
+Est ici atteint. 
+L'Eternel Féminin 
+Nous attire à lui."
+```
 
-Cette strophe rend perplexes tous ceux qui sont incapables de pénétrer dans les royaumes où elle est censée être chantée. Elle exprime que tout ce qui est périssable n'est qu'une apparence, c'est à dire que les formes matérielles qui sont vouées aux transmutations et à la mort ne sont que les images des archétypes visibles dans le ciel. "L'inaccessible devient ici réalité": ce qui est impossible sur terre est accompli dans le ciel, et nul ne le sait mieux que celui qui peut fonctionner dans ce monde, car là chaque aspiration noble et élevée y trouve son expression. Les désirs, les idées et les expériences indescriptibles que l'âme ne peut même pas exprimer sont clairement définies dans le ciel; l'Eternel Féminin, la grande Force Créatrice de la Nature, la Mère Divine, qui nous pousse le long du sentier de l'évolution, devient là une réalité. Ainsi, le mythe de Faust nous conte l'histoire du Temple du Monde construit par deux classes d'humains; ce temple qui sera un jour les Nouveaux Cieux et la Nouvelle Terre prophétisés dans la Bible.
+Cette strophe rend perplexes tous ceux qui sont incapables de pénétrer dans les royaumes où elle est censée être chantée. 
+
+Elle exprime que tout ce qui est périssable n'est qu'une apparence, c'est à dire que les formes matérielles qui sont vouées aux transmutations et à la mort ne sont que les images des archétypes visibles dans le ciel. "L'inaccessible devient ici réalité": ce qui est impossible sur terre est accompli dans le ciel, et nul ne le sait mieux que celui qui peut fonctionner dans ce monde, car là chaque aspiration noble et élevée y trouve son expression. Les désirs, les idées et les expériences indescriptibles que l'âme ne peut même pas exprimer sont clairement définies dans le ciel; l'Eternel Féminin, la grande Force Créatrice de la Nature, la Mère Divine, qui nous pousse le long du sentier de l'évolution, devient là une réalité. Ainsi, le mythe de Faust nous conte l'histoire du Temple du Monde construit par deux classes d'humains; ce temple qui sera un jour les Nouveaux Cieux et la Nouvelle Terre prophétisés dans la Bible.
 
 <h2 id="parsifal">Parsifal</h2>
 
@@ -320,7 +540,9 @@ Cette strophe rend perplexes tous ceux qui sont incapables de pénétrer dans le
 
 En regardant autour de nous dans l'univers matériel, nous voyons une myriade de formes, et toutes ont une certaine couleur , et beaucoup d'entre elles émettent un son défini; on peut même dire toutes, car le son existe même dans la Nature dite inanimée. Le vent dans la cime des arbres, le murmure du ruisseau, la houle de l'océan, sont tous des contributions précises à l'harmonie de la Nature.
 
-De ces trois attributs de la Nature, forme, couleur et son, la forme est la plus stable, elle tend à demeurer très longtemps dans le statu quo et ne se modifie que lentement. Par contre la couleur change plus rapidement: elle passe, et certaines couleurs changent de nuance selon l'angle de la lumière; mais le son est le plus insaisissable des trois; il va et vient comme un feu follet que nul ne peut saisir ni retenir. Nous avons aussi trois arts qui cherchent à exprimer le bien, le vrai et le beau dans ces trois attributs du Monde de l'Ame: la sculpture, la peinture et la musique.
+De ces trois attributs de la Nature, forme, couleur et son, la forme est la plus stable, elle tend à demeurer très longtemps dans le statu quo et ne se modifie que lentement. Par contre la couleur change plus rapidement: elle passe, et certaines couleurs changent de nuance selon l'angle de la lumière; mais le son est le plus insaisissable des trois; il va et vient comme un feu follet que nul ne peut saisir ni retenir. 
+
+Nous avons aussi trois arts qui cherchent à exprimer le bien, le vrai et le beau dans ces trois attributs du Monde de l'Ame: la sculpture, la peinture et la musique.
 
 Le sculpteur, qui s'occupe de la forme, cherche à emprisonner la beauté dans une statue de marbre qui résistera aux ravages du temps durant des millénaires; mais une statue de marbre est froide et ne parle qu'aux êtres les plus évolués qui sont capables de lui infuser leur propre vie.
 
@@ -340,9 +562,7 @@ Tout comme le monde physique est la base dont furent tirés les matériaux de no
 
 Cette compréhension de la nature de la musique est nécessaire pour apprécier à sa juste valeur un aussi grand chef-d'oeuvre que "Parsifal" de Richard Wagner, où la musique et les caractères sont plus intensément liés que dans toute autre production musicale moderne.
 
-L'opéra de Wagner est inspiré de la légende de Parsifal dont l'origine se perd dans le mystère qui recouvre l'enfance de la race humaine. Il est erroné de penser qu'un mythe est une fiction de la fantaisie humaine, n'ayant aucun fondement. Au contraire, un mythe est un écrin contenant parfois les plus profonds et les plus précieux joyaux de vérité spirituelle, perles d'une beauté si rare et si éthérée qu'elles ne supportent pas d'être exposées à l'intellect matériel.
-
-Pour les protéger et en même temps leur permettre de travailler sur l'humanité en vue de son élévation spirituelle, les Grands Instructeurs qui guident l'évolution, invisibles, mais puissants, ont donné à l'humanité naissante ces vérités spirituelles enchâssées dans le symbolisme pittoresque des mythes, afin qu'elles puissent travailler sur nos sentiments jusqu'à ce que nos intellects naissants soient parvenus à une évolution et à une spiritualité suffisantes pour qu'à la fois nous puissions ressentir et savoir.
+L'opéra de Wagner est inspiré de la légende de Parsifal dont l'origine se perd dans le mystère qui recouvre l'enfance de la race humaine. Il est erroné de penser qu'un mythe est une fiction de la fantaisie humaine, n'ayant aucun fondement. Au contraire, un mythe est un écrin contenant parfois les plus profonds et les plus précieux joyaux de vérité spirituelle, perles d'une beauté si rare et si éthérée qu'elles ne supportent pas d'être exposées à l'intellect matériel. Pour les protéger et en même temps leur permettre de travailler sur l'humanité en vue de son élévation spirituelle, les Grands Instructeurs qui guident l'évolution, invisibles, mais puissants, ont donné à l'humanité naissante ces vérités spirituelles enchâssées dans le symbolisme pittoresque des mythes, afin qu'elles puissent travailler sur nos sentiments jusqu'à ce que nos intellects naissants soient parvenus à une évolution et à une spiritualité suffisantes pour qu'à la fois nous puissions ressentir et savoir.
 
 En vertu du même principe nous donnons à nos enfants des leçons de morale par le moyen de livres d'images et de contes de fées, réservant à plus tard un enseignement plus direct.
 
@@ -356,7 +576,14 @@ C'est l'aube, et nous voyons Gurnemanz, le doyen des Chevaliers du Graal, sous u
 
 Au premier acte, Kundry est vêtue d'une robe en peau de serpent, symbole de la doctrine de renaissance, car, de même que le serpent se dépouille, l'une après l'autre, des peaux qui émanent de lui-même, ainsi l'Ego, au cours de son pèlerinage évolutionnaire, émane de lui-même un corps après l'autre, puis s'en dépouille comme le serpent de ses peaux, une fois que ces corps se sont durcis, affaissés et cristallisés de manière à perdre leur efficience. Cette idée de renaissance est aussi liée à la Loi de Conséquence, qui nous fait récolter ce que nous avons semé, ce que Gurnemanz explique au jeune écuyer, en réponse à l'aveu de sa méfiance à l'égard de Kundry:
 
-"Peut-être est-elle sous la fatalité De quelque vie d'un obscur passé, Cherchant à se racheter du péché Par des actes de service envers nous. Sans doute est-elle à la recherche du bien, S'aidant elle-même, tandis qu'elle nous sert."
+```
+"Peut-être est-elle sous la fatalité 
+De quelque vie d'un obscur passé, 
+Cherchant à se racheter du péché 
+Par des actes de service envers nous. 
+Sans doute est-elle à la recherche du bien, 
+S'aidant elle-même, tandis qu'elle nous sert."
+```
 
 Lorsque Kundry arrive en scène, elle tire de son sein une fiole qu'elle dit avoir rapportée d'Arabie et dont le contenu, espère-t-elle, sera un baume pour la blessure qu'Amfortas, le roi du Graal, porte à son côté, qui lui cause d'intolérables souffrances et qui ne veut pas guérir. Vient alors à passer le roi malade, porté sur une litière, en route vers le lac voisin où il se baigne chaque jour. Deux cygnes qui en agitent l'eau la transforment en une lotion bienfaisante qui apaise ses terribles souffrances. Amfortas remercie Kundry, tout en émettant l'avis qu'il n'y aura pas de soulagement pour lui avant l'arrivée du libérateur dont le Graal a prédit la venue: "chaste fou, illuminé par la pitié". Cependant, le roi pense que sa mort surviendra avant sa délivrance.
 
@@ -384,19 +611,25 @@ Cette histoire nous offre une excellente image de l'âme à la recherche des ré
 
 Gurnemanz est maintenant pénétré de l'idée que Parsifal doit être le libérateur d'Amfortas, et il l'emmène au Château du Graal. A la question de Parsifal "Qui est le Graal?" il répond:
 
-"Nous ne pouvons le dire Si c'est Lui qui t'appelle, La vérité, à tes yeux, ne restera point cachée, Et il me semble bien reconnaître ton visage. Aucun chemin ne conduit à son royaume, Et le rechercher ne fait que l'éloigner, Lorsque lui-même n'est point le guide."
+```
+"Nous ne pouvons le dire 
+Si c'est Lui qui t'appelle, La vérité, à tes yeux, ne restera point cachée, Et il me semble bien reconnaître ton visage. 
+Aucun chemin ne conduit à son royaume, 
+Et le rechercher ne fait que l'éloigner, 
+Lorsque lui-même n'est point le guide."
+```
 
 Wagner, ici, nous ramène aux temps antérieurs au Christianisme, car avant l'avènement du Christ, l'Initiation n'était pas accessible à "quiconque voulait" la chercher de la bonne manière, mais elle était réservée à certains élus, tels les Brahmanes et les Lévites, qui recevaient des privilèges spéciaux en retour de leur consécration au service du temple. La venue du Christ a toutefois apporté certains changements bien déterminés dans la constitution des humains, si bien que tous sont maintenant capables d'entrer dans le sentier de l'Initiation. Il devait en être ainsi lorsque les mariages internationaux ont supprimé les castes.
 
-Au Château du Graal, Amfortas est prié par tous de célébrer le rite sacré du service du Graal, de découvrir le saint calice, afin que sa vue renouvelle, l'ardeur des chevaliers et les stimule dans l'accomplissement du service spirituel; mais il se dérobe, par peur de la douleur que lui cause chaque fois cette vision. Sa blessure au côté recommence toujours à saigner à la vue du Graal, comme la blessure du remords nous fait tous souffrir lorsque nous avons péché contre notre idéal.
-
-Il cède enfin aux instances de son père et des chevaliers. Il célèbre le rite sacré, bien qu'en même temps, il souffre la plus atroce des agonies, et Parsifal, debout dans un coin, ressent par sympathie la même douleur, sans comprendre pourquoi; et lorsque Gurnemanz, après la cérémonie, le presse de dire ce qu'il a vu, il reste muet, aussi est-il chassé du château par le vieux chevalier irrité et déçu.
+Au Château du Graal, Amfortas est prié par tous de célébrer le rite sacré du service du Graal, de découvrir le saint calice, afin que sa vue renouvelle, l'ardeur des chevaliers et les stimule dans l'accomplissement du service spirituel; mais il se dérobe, par peur de la douleur que lui cause chaque fois cette vision. Sa blessure au côté recommence toujours à saigner à la vue du Graal, comme la blessure du remords nous fait tous souffrir lorsque nous avons péché contre notre idéal. Il cède enfin aux instances de son père et des chevaliers. Il célèbre le rite sacré, bien qu'en même temps, il souffre la plus atroce des agonies, et Parsifal, debout dans un coin, ressent par sympathie la même douleur, sans comprendre pourquoi; et lorsque Gurnemanz, après la cérémonie, le presse de dire ce qu'il a vu, il reste muet, aussi est-il chassé du château par le vieux chevalier irrité et déçu.
 
 Les sentiments et les émotions que la connaissance ne modère pas sont des sources fertiles de tentation. Pour l'âme qui aspire, le fait d'être inoffensive et naïve en fait souvent une proie facile du péché. Il est nécessaire à la croissance de l'âme que ces tentations surviennent pour faire ressortir nos points faibles. Si nous succombons, nous souffrons comme Amfortas, mais la souffrance développe la conscience et donne l'horreur du péché et nous fortifie contre la tentation. Tout enfant est innocent parce qu'il n'a pas été tenté, mais ce n'est que lorsque nous avons été tentés et que nous sommes restés purs, ou lorsque nous avons failli, nous sommes repentis et réformés, que nous sommes vertueux . C'est pourquoi Parsifal doit être tenté.
 
 Au deuxième acte, nous voyons Klingsor évoquant Kundry, car il a épié Parsifal se dirigeant vers son château, et il le craint davantage que tous ceux qui sont venus avant lui, parce que c'est un fou . Un sage du monde est facilement pris au piège des filles-fleurs, mais la naïveté de Parsifal le protège, et lorsque les filles-fleurs se groupent autour de lui, il demande innocemment: "Etes-vous des fleurs, que votre parfum est si doux?". Contre lui, les savants artifices de Kundry sont nécessaires, et bien qu'elle supplie, proteste et se rebelle, elle est forcée de tenter Parsifal; à cet effet, elle apparaît devant lui comme une femme d'une grande beauté, appelant Parsifal par son nom. Ce nom évoque en lui des souvenirs d'enfance, l'amour de sa mère, et Kundry l'invite à ses côtés, et commence à jouer subtilement sur ses sentiments, rappelant à sa mémoire des visions de l'amour de sa mère et du chagrin qu'elle ressentit à son départ, un chagrin dont elle est morte. Ensuite elle lui parle de l'autre amour qui pourrait servir de compensation, celui de l'homme pour la femme, et finalement imprime sur ses lèvres un long baiser, fervent et passionné.
 
-Suit un profond et terrible silence, comme si le destin du monde entier était suspendu à ce fervent baiser, puis tandis qu'elle le tient toujours dans ses bras, le visage de Parsifal change graduellement et se contracte de douleur. Il se lève soudain comme si ce baiser avait empreint son être d'une autre douleur, ses traits se crispent sa face livide et ses deux mains se pressent fortement pour comprimer les battements de son coeur et atténuer quelque horrible angoisse - la coupe du Graal lui apparaît, puis Amfortas dans la même affreuse agonie, et enfin il s'écrie: "Amfortas, oh, Amfortas! je sais maintenant - la blessure de la lance dans ton flanc - elle me brûle le coeur, elle consume mon âme.... O douleur! ô détresse! Angoisse sans nom! la blessure saigne ici, à mon propre côté!" Et il reprend, du même accent douloureux: "Non, ce n'est pas la blessure de la lance à mon côté, car c'est le feu dans mon coeur, c'est sa flamme qui met en délire tous mes sens, c'est la terrible folie des tourments d'amour...Maintenant je sais comment le monde entier est agité, tiraillé, convulsé et souvent perdu de honte par les terribles passions du coeur."
+Suit un profond et terrible silence, comme si le destin du monde entier était suspendu à ce fervent baiser, puis tandis qu'elle le tient toujours dans ses bras, le visage de Parsifal change graduellement et se contracte de douleur. Il se lève soudain comme si ce baiser avait empreint son être d'une autre douleur, ses traits se crispent sa face livide et ses deux mains se pressent fortement pour comprimer les battements de son coeur et atténuer quelque horrible angoisse - la coupe du Graal lui apparaît, puis Amfortas dans la même affreuse agonie, et enfin il s'écrie: "Amfortas, oh, Amfortas! je sais maintenant - la blessure de la lance dans ton flanc - elle me brûle le coeur, elle consume mon âme.... O douleur! ô détresse! Angoisse sans nom! la blessure saigne ici, à mon propre côté!" 
+
+Et il reprend, du même accent douloureux: "Non, ce n'est pas la blessure de la lance à mon côté, car c'est le feu dans mon coeur, c'est sa flamme qui met en délire tous mes sens, c'est la terrible folie des tourments d'amour...Maintenant je sais comment le monde entier est agité, tiraillé, convulsé et souvent perdu de honte par les terribles passions du coeur."
 
 Kundry le tente à nouveau: "Si ce seul baiser t'a donné tant de connaissance, combien plus grande sera-t-elle si tu cèdes à mon amour, ne fût-ce qu'une heure!".
 
@@ -408,19 +641,39 @@ Le troisième acte se passe le jour du Vendredi-Saint, plusieurs années après.
 
 A sa première visite, Parsifal avait répondu "je ne sais pas" à la même question. Mais cette fois sa réponse est bien différente: "A force de chercher et de souffrir, je suis arrivé". La première circonstance dépeint l'une des brèves visions des réalités supérieures entrevues par l'âme, alors que la seconde est la réalisation consciente d'un niveau supérieur d'activité spirituelle atteint par celui qui s'est développé par le chagrin et la souffrance. Et Parsifal poursuit en disant qu'il a souvent été serré de près par des ennemis et qu'il aurait pu se sauver en employant la lance, mais qu'il s'en est abstenu, la considérant comme un instrument propre à guérir et non à blesser. La lance est le pouvoir spirituel qui vient à celui dont le coeur et la vie sont purs, mais qui ne doit être employé qu'à des fins désintéressées ; l'impureté et la passion causent sa perte, comme ce fut le cas d'Amfortas. L'homme qui le possède peut s'en servir à l'occasion pour nourrir cinq mille personnes affamées, mais il ne peut changer une seule pierre en pain pour apaiser sa propre faim; même s'il peut l'utiliser pour arrêter le sang coulant de l'oreille du soldat qui vient l'arrêter, il ne peut pas l'utiliser pour arrêter le sang qui coule de son propre flanc. On a toujours dite de tels êtres: "Ils ont sauvé les autres; mais ils n'ont pas pu - ou pas voulu - se sauver eux-mêmes".
 
-Parsifal et Gurnemanz entrent dans le Château du Graal, où Amfortas est instamment prié de célébrer le rite sacré, mais il refuse afin d'éviter la souffrance que lui cause la vue du Saint-Graal; mettant sa poitrine à nu, il supplie ses compagnons de le tuer. A ce moment, Parsifal s'approche de lui et touchant de sa lance la blessure il la guérit. Toutefois, il détrône Amfortas et assume lui-même la garde du Saint-Graal et de la Lance Sacrée.
-
-Seuls, ceux qui sont parvenus au désintéressement le plus parfait, associé au discernement le plus juste, sont qualifiés pour la possession du pouvoir spirituel symbolisé par la lance. Amfortas s'en était servi pour attaquer et blesser un ennemi, alors que Parsifal n'avait pas même voulu s'en servir pour se défendre. C'est pourquoi il est capable de guérir, alors qu'Amfortas était tombé dans le piège même qu'il avait tendu à Klingsor.
+Parsifal et Gurnemanz entrent dans le Château du Graal, où Amfortas est instamment prié de célébrer le rite sacré, mais il refuse afin d'éviter la souffrance que lui cause la vue du Saint-Graal; mettant sa poitrine à nu, il supplie ses compagnons de le tuer. A ce moment, Parsifal s'approche de lui et touchant de sa lance la blessure il la guérit. Toutefois, il détrône Amfortas et assume lui-même la garde du Saint-Graal et de la Lance Sacrée. Seuls, ceux qui sont parvenus au désintéressement le plus parfait, associé au discernement le plus juste, sont qualifiés pour la possession du pouvoir spirituel symbolisé par la lance. Amfortas s'en était servi pour attaquer et blesser un ennemi, alors que Parsifal n'avait pas même voulu s'en servir pour se défendre. C'est pourquoi il est capable de guérir, alors qu'Amfortas était tombé dans le piège même qu'il avait tendu à Klingsor.
 
 Au dernier acte, Kundry, qui symbolise la nature inférieure, ne prononce qu'un seul mot: Service. Elle aide Parsifal, l'Esprit, à atteindre par son intermédiaire le service parfait. Au premier acte, lors de la visite de Parsifal, elle s'était endormie. A ce stade, l'Esprit ne peut prendre son essor vers les cieux que lorsque le corps repose dans le sommeil ou dans la mort. Mais au dernier acte, Kundry, le corps, entre aussi dans le château, car il s'est consacré au moi supérieur, et lorsque l'Esprit, Parsifal, a triomphé, il a atteint le niveau de libération dont il est parlé dans l'Apocalypse: "Celui qui vaincra, j'en ferai un pilier dans le Temple de mon Dieu, et il n'en sortira plus". Un tel être travaille sur les plans supérieurs à l'avancement de l'humanité; il n'a plus besoin de corps dense; il est au-delà de la Loi de renaissance, et c'est pourquoi Kundry meurt.
 
 Dans son beau poème, "Le Nautile cloisonné", Oliver Wendel Holmes a exprimé en vers cette idée de progression constante dans des véhicules graduellement perfectionnés, vers la libération finale. Le Nautile construit la spirale de sa coquille en sections séparées par des cloisons, abandonnant sans cesse les plus petites qu'il a dépassées pour la dernière construite:
 
-Une année après l'autre vit le labeur silencieux Qui étendit son enroulement lustré; La nouvelle spire développée, Il quitta la demeure de l'année passée pour la nouvelle, Passa sans bruit à travers son arche brillante, Construisit sa fausse porte, S'étira dans sa demeure nouvelle, délaissant l'ancienne.
+```
+Une année après l'autre vit le labeur silencieux 
+Qui étendit son enroulement lustré; 
+La nouvelle spire développée, 
+Il quitta la demeure de l'année passée pour la nouvelle, 
+Passa sans bruit à travers son arche brillante, 
+Construisit sa fausse porte, 
+S'étira dans sa demeure nouvelle, délaissant l'ancienne.
 
-Merci pour le message céleste que tu nous apportes, Enfant de la mer aventureuse, Jeté hors de son sein abandonné! De tes lèvres mortes jaillit une note plus claire Que celle que Triton tira jamais de sa conque enroulée! Pendant qu'elle résonne à mon oreille, A travers les cavernes profondes de ma pensée, j'entends une voix qui chante:
+Merci pour le message céleste que tu nous apportes, 
+Enfant de la mer aventureuse, 
+Jeté hors de son sein abandonné! 
+De tes lèvres mortes jaillit une note plus claire 
+Que celle que Triton tira jamais de sa conque enroulée! 
+Pendant qu'elle résonne à mon oreille, 
+A travers les cavernes profondes de ma pensée, 
+j'entends une voix qui chante:
 
-Construis-toi des demeures plus vastes, ô mon âme! A mesure que passent les saisons rapides, Abandonne la voûte basse de ton passé! Que chaque nouveau temple, plus noble que le dernier T'abrite du ciel sous un dôme plus altier, Jusqu'à ce qu'enfin tu sois libre, Laissant ta coquille, devenue inutile, au bord de la mer agitée de la vie!
+Construis-toi des demeures plus vastes, ô mon âme! 
+A mesure que passent les saisons rapides, 
+Abandonne la voûte basse de ton passé! 
+Que chaque nouveau temple, plus noble que le dernier 
+T'abrite du ciel sous un dôme plus altier, 
+Jusqu'à ce qu'enfin tu sois libre, 
+Laissant ta coquille, devenue inutile, 
+au bord de la mer agitée de la vie!
+```
 
 <h2 id="ring-of-the-niebelung">L'Anneau du Niebelung</h2>
 
@@ -470,7 +723,9 @@ Lorsque Noé emmena l'humanité primitive loin du Déluge, on lui dit que, tant 
 
 La vérité est universelle et infinie; elle ne connaît pas de frontières, mais lorsque l'Ego s'est enveloppé d'un anneau de véhicules distincts qui le séparait des autres, cette limitation l'a rendu incapable de comprendre la vérité absolue. C'est pourquoi une religion comprenant la totalité de la vérité à l'état pur aurait été incompréhensible à l'humanité et sans utilité pour l'aider. Aussi, comme l'écolier apprend les leçons préliminaires qui le préparent aux problèmes plus compliqués, de même on donna à l'humanité des religions très primitives pour l'éduquer à recevoir par étapes faciles quelque chose de plus élevé.
 
-Ainsi, dans le mythe, les dieux, gardiens de la religion, sont désireux de construire une enceinte fortifiée derrière laquelle ils pourront se retrancher et concentrer leurs pouvoirs contre l'autre foi. L'Esprit ne peut être limité qu'en se plongeant dans la matérialité. C'est pourquoi, sur les conseils de Loge, l'esprit de fourberie et d'erreur, les dieux concluent un marché avec les géants Fafner et Fasolt (représentant l'égoïsme) pour bâtir le mur de la limitation. Une fois que ce mur entoure les dieux, ils ont perdu la lumière et la connaissance universelles et, d'après le mythe, le prix de la construction du Valhalla devait être le Soleil et la Lune. En outre, lorsqu'une religion s'est elle-même limitée derrière le mur du credo, l'esprit de décadence s'y introduit, et elle menace de tomber en ruines. C'est pourquoi il est aussi dit que Wotan, la sagesse ou la raison, accepta de donner aux géants Freya, la déesse de la beauté, qui nourrissait les dieux avec ses pommes d'or pour préserver leur jeunesse. Ainsi, en écoutant le conseil de Loge, l'esprit trompeur, les dieux ont sacrifié leur lumière, leur connaissance, et leur espoir de jeunesse éternelle et d'utilité. C'était cependant nécessaire, car à ce moment-là, l'humanité n'aurait pu comprendre la vérité dans toute sa plénitude: nous ne pouvons pas la comprendre, même maintenant.
+Ainsi, dans le mythe, les dieux, gardiens de la religion, sont désireux de construire une enceinte fortifiée derrière laquelle ils pourront se retrancher et concentrer leurs pouvoirs contre l'autre foi. L'Esprit ne peut être limité qu'en se plongeant dans la matérialité. C'est pourquoi, sur les conseils de Loge, l'esprit de fourberie et d'erreur, les dieux concluent un marché avec les géants Fafner et Fasolt (représentant l'égoïsme) pour bâtir le mur de la limitation. Une fois que ce mur entoure les dieux, ils ont perdu la lumière et la connaissance universelles et, d'après le mythe, le prix de la construction du Valhalla devait être le Soleil et la Lune. 
+
+En outre, lorsqu'une religion s'est elle-même limitée derrière le mur du credo, l'esprit de décadence s'y introduit, et elle menace de tomber en ruines. C'est pourquoi il est aussi dit que Wotan, la sagesse ou la raison, accepta de donner aux géants Freya, la déesse de la beauté, qui nourrissait les dieux avec ses pommes d'or pour préserver leur jeunesse. Ainsi, en écoutant le conseil de Loge, l'esprit trompeur, les dieux ont sacrifié leur lumière, leur connaissance, et leur espoir de jeunesse éternelle et d'utilité. C'était cependant nécessaire, car à ce moment-là, l'humanité n'aurait pu comprendre la vérité dans toute sa plénitude: nous ne pouvons pas la comprendre, même maintenant.
 
 Le pouvoir spirituel de la religion est symbolisé dans la Bible par le rameau magique d'Aaron, dans le mythe du Graal par la lance de Parsifal, et dans l'histoire du Niebelung par la lance de Wotan. Pour conclure le pacte avec les géants, des caractères magiques ont été gravés sur le manche de la lance et l'ont ainsi affaiblie, ceci montre que la religion perd en pouvoir spirituel ce qu'elle gagne en moyens temporels quand elle se lie avec ceux qui gouvernent le monde et sert les appétits inférieurs.
 
@@ -492,19 +747,17 @@ La Valkyrie est le nom de la seconde partie de l'opéra de Wagner basé sur le m
 
 La justesse de ce nom, dont la racine signifie de nouveau "choisir", apparaîtra immédiatement, lorsque nous comprenons que la mission des Valkyries consistait à se rendre sur le lieu des batailles, entre deux ou plusieurs, à prendre les tués sur leurs chevaux, et à les conduire au Valhalla. C'est pourquoi le champ de bataille ou le théâtre d'un combat était nommé Valplads, autrement dit la place où le dieu Wotan choisissait les vaillants qui mouraient en combattant pour la vérité (telle qu'ils la voyaient) pour être ses compagnons dans le royaume de béatitude (comme ils le concevaient). Brunhilde, l'esprit de vérité, était le chef des Valkyries, le guide de ses soeurs, les autres vertus. Elle était la fille favorite du dieu Wotan.
 
-Mais lorsque les dieux se limitèrent eux-mêmes et qu'ils repoussèrent l'universalité de la vérité par l'Anneau du Credo et du dogme, symbolisé par le Valhalla, les Walsungs, qui sont les premiers chercheurs de vérité et les plus avancés, se rebellèrent. Ils se manifestent sous différents aspects comme le montre le mythe nordique par les noms qui leur sont donnés. La racine de leur nom est Sieg, mot allemand qui signifie victoire, et il est parfaitement adapté, car malgré tous les revers qu'elle subit, la vérité triomphera finalement. Le courageux Siegmund, qui est poussé à rechercher la vérité à tout prix, est tué à cause de son audace; nous verrons tout à l'heure comment et pourquoi. Sieglinde, sa soeur et plus tard son épouse, qui a les mêmes aspirations intérieures, mais n'ose les satisfaire ouvertement, meurt de désespoir. Elle transmet cette soif ardente de vérité à leur enfant Siegfried, dont le nom signifie celui qui obtient la paix par la victoire. Ainsi, ce qu'une génération de chercheurs ne parvient pas à accomplir le sera par ses descendants, et finalement la vérité triomphera du credo et régnera souveraine.
+Mais lorsque les dieux se limitèrent eux-mêmes et qu'ils repoussèrent l'universalité de la vérité par l'Anneau du Credo et du dogme, symbolisé par le Valhalla, les Walsungs, qui sont les premiers chercheurs de vérité et les plus avancés, se rebellèrent. Ils se manifestent sous différents aspects comme le montre le mythe nordique par les noms qui leur sont donnés. La racine de leur nom est Sieg, mot allemand qui signifie victoire, et il est parfaitement adapté, car malgré tous les revers qu'elle subit, la vérité triomphera finalement. 
+
+Le courageux Siegmund, qui est poussé à rechercher la vérité à tout prix, est tué à cause de son audace; nous verrons tout à l'heure comment et pourquoi. Sieglinde, sa soeur et plus tard son épouse, qui a les mêmes aspirations intérieures, mais n'ose les satisfaire ouvertement, meurt de désespoir. Elle transmet cette soif ardente de vérité à leur enfant Siegfried, dont le nom signifie celui qui obtient la paix par la victoire. Ainsi, ce qu'une génération de chercheurs ne parvient pas à accomplir le sera par ses descendants, et finalement la vérité triomphera du credo et régnera souveraine.
 
 En faisant allusion à cette fin, nous précipitons le déroulement de cette belle légende, mais nous avons ainsi l'assurance qu'à présent nous voyons "comme à travers un miroir, d'une façon obscure". Malgré les murs et les limitations de l'existence physique, un jour viendra où "nous verrons et nous connaîtrons comme nous sommes connus" (I Corinthiens 13:12).
 
 Lorsque Siegmund, guidé par l'irrésistible désir de vérité, quitte le Valhalla, Wotan est furieux et, pour faire échec à cet esprit indépendant des Walsungs, il ordonne que Sieglinde épouse Hunding, l'esprit de conformisme. Désespérée, elle s'évanouit dans ses bras car elle n'a pas le courage d'abandonner ses ancêtres comme l'a fait son frère. Elle symbolise bien ceux qui, malgré leur révolte intérieure, se soumettent aux usages du monde parce qu'ils n'osent pas se détourner franchement du code établi par l'église, par crainte de l'opinion publique. Alors, bien qu'indignés dans leur nature intérieure et déçus dans leurs plus saintes ambitions, ils continuent à supporter le joug du conformisme et suivent le sentier tracé par l'église pour sauver les apparences.
 
-Un jour, Siegmund arrive par hasard dans la demeure de Hunding où il rencontre sa soeur qu'il ne reconnaît pas tout de suite, mais lorsqu'ils se reconnaissent l'un l'autre, il l'incite à se sauver avec lui. Ils savent tous deux que leur acte est un outrage à Hunding, l'esprit de conformisme, et ne sera pas pardonné par les dieux. Pour se protéger dans le combat qu'ils prévoient, ils emportent une épée magique, appelée Nothung. Noth signifie nécessité ou détresse, et ung, comme nous l'avons déjà vu, signifie enfant. Ainsi, l'épée est l'enfant de la détresse, le courage du désespoir. Cette épée avait été enterrée jusqu'à la garde dans l'Yggdrasil par Wotan lui-même, pour servir dans un cas imprévu comme celui-ci.
+Un jour, Siegmund arrive par hasard dans la demeure de Hunding où il rencontre sa soeur qu'il ne reconnaît pas tout de suite, mais lorsqu'ils se reconnaissent l'un l'autre, il l'incite à se sauver avec lui. Ils savent tous deux que leur acte est un outrage à Hunding, l'esprit de conformisme, et ne sera pas pardonné par les dieux. Pour se protéger dans le combat qu'ils prévoient, ils emportent une épée magique, appelée Nothung. Noth signifie nécessité ou détresse, et ung, comme nous l'avons déjà vu, signifie enfant. Ainsi, l'épée est l'enfant de la détresse, le courage du désespoir. Cette épée avait été enterrée jusqu'à la garde dans l'Yggdrasil par Wotan lui-même, pour servir dans un cas imprévu comme celui-ci. Afin de comprendre ce magnifique symbole et la conduite apparemment paradoxale de Wotan, nous allons expliquer la signification de l'Yggdrasil, le Frêne du Monde, l'arbre de la vie et de l'être selon la mythologie scandinave.
 
-Afin de comprendre ce magnifique symbole et la conduite apparemment paradoxale de Wotan, nous allons expliquer la signification de l'Yggdrasil, le Frêne du Monde, l'arbre de la vie et de l'être selon la mythologie scandinave.
-
-Cet arbre merveilleux s'étendait depuis la Terre jusqu'au ciel. Une de ses racines était dans le monde inférieur avec Hel, une furie terrible qui régnait sur ceux qui étaient morts de maladie et qui, de ce fait, n'étaient pas dignes de demeurer avec Wotan au Valhalla. Ils représentent les êtres indolents qui négligent de combattre jusqu'au bout dans la bataille de la vie. Hel a trois enfants qui lui ressemblent et luttent constamment contre les dieux qui ont à coeur le bien-être de l'homme. Ils symbolisent les éléments qui constituent le monde matériel où la mort règne seule. L'un d'eux est le serpent Midgaard, un monstre prodigieux qui entoure la Terre et se mord la queue; c'est l'océan.
-
-L'autre est le loup Fenris, si subtil et pourtant si fort, que rien ne peut le retenir; il représente l'atmosphère entourant la Terre et les vents qui ne peuvent être dominés. Loge, que nous connaissons déjà, est l'esprit du feu, de la déception et de l'illusion. L'autre racine de l'Yggdrasil est avec les Géants de Glace dans le chaos, d'où provient l'univers entier. La troisième racine est avec les dieux.
+Cet arbre merveilleux s'étendait depuis la Terre jusqu'au ciel. Une de ses racines était dans le monde inférieur avec Hel, une furie terrible qui régnait sur ceux qui étaient morts de maladie et qui, de ce fait, n'étaient pas dignes de demeurer avec Wotan au Valhalla. Ils représentent les êtres indolents qui négligent de combattre jusqu'au bout dans la bataille de la vie. Hel a trois enfants qui lui ressemblent et luttent constamment contre les dieux qui ont à coeur le bien-être de l'homme. Ils symbolisent les éléments qui constituent le monde matériel où la mort règne seule. L'un d'eux est le serpent Midgaard, un monstre prodigieux qui entoure la Terre et se mord la queue; c'est l'océan. L'autre est le loup Fenris, si subtil et pourtant si fort, que rien ne peut le retenir; il représente l'atmosphère entourant la Terre et les vents qui ne peuvent être dominés. Loge, que nous connaissons déjà, est l'esprit du feu, de la déception et de l'illusion. L'autre racine de l'Yggdrasil est avec les Géants de Glace dans le chaos, d'où provient l'univers entier. La troisième racine est avec les dieux.
 
 Sous la racine de Hel gît le serpent Nidhog. C'est l'esprit de l'envie et de la méchanceté, le destructeur du bien: Nid signifie envie, et hog, abattre. Yggdrasil, l'arbre de la vie en manifestation, vit par l'amour; et l'envie et la méchanceté voudraient l'abattre et le livrer à Hel. Mais sous la racine des dieux coule la source Urd où les trois Norns, ou Parques, vont chercher l'eau de vie, la force agissante et spirituelle pour arroser et garder à l'arbre ses feuilles verdoyantes et fraîches. Les noms des trois Norns sont Urd, Skuld et Verdande. Urd vient de l'allemand Ur, l'état passé, primordial, l'état virginal en relation avec l'homme et l'univers. Urd file sur son rouet la destinée que nous avons générée dans le passé; Skuld, qui signifie dette, est la seconde Norn et elle figure le présent. C'est à elle qu'Urd donne le fil de la destinée que nous devons expier en cette incarnation. Puis il est donné à Verdande, la troisième Norn, dont le nom est dérivé de werdende, le mot allemand devenir. Elle représente le futur, et lorsque le fil du destin représentant la dette acquittée lui est tendu, elle le casse morceau par morceau. Ce merveilleux symbole nous dévoile que lorsque la cause générée dans le passé a produit ses effets dans cette vie, la dette est effacée à jamais.
 
@@ -512,13 +765,17 @@ Une infinité d'autres Norns existait en plus des trois principales dont nous ve
 
 Sous la troisième racine, celle des Géants de Glace, se trouvait le puits de Mime. Ces Géants de Glace, ou forces de la nature, existaient avant la constitution de la Terre. Ils avaient contribué à sa formation et, en conséquence, savaient maintes choses inconnues des dieux. Donc Wotan lui-même, le dieu de la sagesse, devait boire à la source de Mime pour y recevoir la connaissance du passé. Il lui fallait boire aussi l'eau de la fontaine d'Urd pour renouveler sa vie.
 
-Ainsi, nous voyons que les Hiérarchies qui nous aident à évoluer vivent elles- mêmes pour apprendre; et le seul fait qu'elles apprennent indique qu'elles sont sujettes à l'erreur, et aussi, pourquoi Wotan, leur chef, devait procurer, aux victimes de ses erreurs, l'épée Nothung - le courage du désespoir - afin que ces victimes puissent, en cas d'urgence, avoir une arme pour se défendre.
+Ainsi, nous voyons que les Hiérarchies qui nous aident à évoluer vivent elles- mêmes pour apprendre; et le seul fait qu'elles apprennent indique qu'elles sont sujettes à l'erreur, et aussi, pourquoi Wotan, leur chef, devait procurer, aux victimes de ses erreurs, l'épée Nothung - le courage du désespoir - afin que ces victimes puissent, en cas d'urgence, avoir une arme pour se défendre. Nous pourrions ajouter bien d'autres informations concernant ce merveilleux Frêne du Monde, l'Yggdrasil, mais le lecteur possède maintenant suffisamment de renseignements pour comprendre la relation qui existe entre l'épée et ce qui va suivre.
 
-Nous pourrions ajouter bien d'autres informations concernant ce merveilleux Frêne du Monde, l'Yggdrasil, mais le lecteur possède maintenant suffisamment de renseignements pour comprendre la relation qui existe entre l'épée et ce qui va suivre.
+Lorsque Siegmund et Sieglinde, fortifiés par l'épée magique - le courage du désespoir - quittent la maison de Hunding pour chercher la vérité dans le vaste monde, Hunding, outragé, n'attend pas l'ordre de Wotan pour les poursuivre avec l'intention de les tuer. Wotan ordonne à Brunhilde, la Valkyrie, d'être présente invisible au combat qui va se livrer et de lutter pour Hunding, l'esprit de conformisme. Mais l'esprit de vérité ne peut combattre contre le chercheur de vérité; Brunhilde, tristement, refuse de se soumettre aux ordres de Wotan. Lorsque Siegmund rencontre Hunding en un combat sans merci et qu'il s'apprête à le vaincre, Wotan interpose sa lance et l'épée Nothung est fracassée; Siegmund, sans défense, est alors tué par Hunding. 
 
-Lorsque Siegmund et Sieglinde, fortifiés par l'épée magique - le courage du désespoir - quittent la maison de Hunding pour chercher la vérité dans le vaste monde, Hunding, outragé, n'attend pas l'ordre de Wotan pour les poursuivre avec l'intention de les tuer. Wotan ordonne à Brunhilde, la Valkyrie, d'être présente invisible au combat qui va se livrer et de lutter pour Hunding, l'esprit de conformisme. Mais l'esprit de vérité ne peut combattre contre le chercheur de vérité; Brunhilde, tristement, refuse de se soumettre aux ordres de Wotan. Lorsque Siegmund rencontre Hunding en un combat sans merci et qu'il s'apprête à le vaincre, Wotan interpose sa lance et l'épée Nothung est fracassée; Siegmund, sans défense, est alors tué par Hunding. Ainsi, la vérité est toujours aux côtés de celui qui la cherche dans la lutte contre les coutumes de l'église et les conventions sociales. Mais quand le pouvoir religieux, qui lui fournit le courage du désespoir nécessaire pour soutenir ses convictions, s'oppose au pouvoir du credo symbolisé par la lance de Wotan, plus d'une âme ardente est vaincue, mais non convaincue. Siegmund peut mourir, et Sieglinde peut le suivre au tombeau, le coeur brisé, après avoir donné naissance à Siegfried, le vainqueur, avec l'aide de Brunhilde, car la soif de vérité une fois ressentie, ne peut jamais être étanchée tant qu'elle n'a pas reçu satisfaction.
+Ainsi, la vérité est toujours aux côtés de celui qui la cherche dans la lutte contre les coutumes de l'église et les conventions sociales. Mais quand le pouvoir religieux, qui lui fournit le courage du désespoir nécessaire pour soutenir ses convictions, s'oppose au pouvoir du credo symbolisé par la lance de Wotan, plus d'une âme ardente est vaincue, mais non convaincue. Siegmund peut mourir, et Sieglinde peut le suivre au tombeau, le coeur brisé, après avoir donné naissance à Siegfried, le vainqueur, avec l'aide de Brunhilde, car la soif de vérité une fois ressentie, ne peut jamais être étanchée tant qu'elle n'a pas reçu satisfaction.
 
-Entre temps, sans pouvoir abandonner le Valhalla - l'Anneau du Credo - Wotan est obligé de se séparer de Brunhilde - l'esprit de vérité - qui lui a désobéi; car être autocratique et ne souffrir aucune contradiction est une condition du Credo. Mais comme toutes les religions sont imbues de l'esprit d'amour et d'un désir sincère d'améliorer et d'aider les hommes, Wotan éprouve une tristesse accablante en pensant à l'acte nécessaire à la poursuite de la ligne de conduite qu'il a adoptée et à laquelle il se soumet en dépit des supplications déchirantes de Brunhilde. Se séparer de la vérité est une chose terrible, et tous deux le ressentent plus intensément que les mots ne sauraient l'exprimer. Lorsque le pauvre Wotan, lié par le credo, doit endormir de force Brunhilde, il ajoute: "pour n'être jamais réveillée, jusqu'à ce qu'il en vienne un autre, plus libre que moi".
+Entre temps, sans pouvoir abandonner le Valhalla - l'Anneau du Credo - Wotan est obligé de se séparer de Brunhilde - l'esprit de vérité - qui lui a désobéi; car être autocratique et ne souffrir aucune contradiction est une condition du Credo. Mais comme toutes les religions sont imbues de l'esprit d'amour et d'un désir sincère d'améliorer et d'aider les hommes, Wotan éprouve une tristesse accablante en pensant à l'acte nécessaire à la poursuite de la ligne de conduite qu'il a adoptée et à laquelle il se soumet en dépit des supplications déchirantes de Brunhilde. Se séparer de la vérité est une chose terrible, et tous deux le ressentent plus intensément que les mots ne sauraient l'exprimer. Lorsque le pauvre Wotan, lié par le credo, doit endormir de force Brunhilde, il ajoute: 
+
+```
+"pour n'être jamais réveillée, jusqu'à ce qu'il en vienne un autre, plus libre que moi".
+```
 
 Dans cette phrase, il révèle la condition suprême exigée dans la recherche de la vérité: "A moins qu'un homme ne quitte son père et sa mère, dit le Christ, il ne peut devenir mon disciple" (Matthieu 19:29). Toutes les limitations doivent être écartées avant que l'on puisse espérer le succès dans la recherche de la vérité.
 
@@ -536,11 +793,13 @@ Lorsque, par sa force prodigieuse, il capture un ours et le conduit dans la cave
 
 Bien que de longs siècles se soient écoulés depuis qu'Alberich, le Niebelung, avait été forcé d'abandonner l'Anneau comme rançon aux dieux, ni lui ni les siens n'oublient le pouvoir détenu par son possesseur, et le désir de retrouver le trésor perdu demeure toujours aussi vif en eux. En effet, libres et d'essence spirituelle, les humains ne s'habitueront jamais à la perte de leur individualité, exigée sous le régime de l'église. Bien qu'ils puissent, comme Mime, trembler sous l'empire d'une peur insurmontable, ou bien flatter les pouvoirs supérieurs, comme Alberich s'abaissait devant Wotan, ils se souviennent, subconsciemment ou d'une autre façon, de leur héritage spirituel et cherchent à recouvrer leur condition d'êtres libres, sans attache à aucun credo ou autres limitations.
 
-A cette fin, les humains conspirent d'une manière subtile, symbolisée par l'aide que Mime donne à Siegfried pour reforger l'épée brisée par Wotan. Il voit que le jeune chercheur de vérité est sans peur. Il sait que Fafner, l'un des géants qui avait obtenu des dieux l'anneau, couve son trésor sous la forme d'un gigantesque dragon qui inspire une terreur extrême. Il peut à peine croire que quelqu'un vaincra ce monstre, mais il pense que si la chose est possible, le jeune géant Siegfried est le seul à pouvoir accomplir cet exploit. Il a en effet été dit que celui qui réussirait à reforger Nothung tuerait le dragon. Mime a foi dans sa ruse et il espère que si Siegfried tue le monstre, lui, Mime, pourra obtenir l'Anneau du Niebelung et devenir le maître du monde. Cette légende contient une très profonde signification spirituelle; principalement celle de la nature inférieure manoeuvrant dans le but d'utiliser le moi supérieur pour ses vils desseins personnels. Siegfried (celui qui gagne la paix par la victoire), est le moi supérieur à ce degré du pèlerinage où il est laissé seul, sans parents ni amis, où il découvre que cette enveloppe de limon terrestre symbolisée par Mime ne fait pas partie de lui mais est de race et de lignée différentes, où il est prêt à reprendre ses recherches de la vérité commencées dans des vies précédentes, comme le firent Siegmund et Sieglinde, dont il a hérité l'indomptable courage qui ne connaît ni la crainte, ni la défaite.
+A cette fin, les humains conspirent d'une manière subtile, symbolisée par l'aide que Mime donne à Siegfried pour reforger l'épée brisée par Wotan. Il voit que le jeune chercheur de vérité est sans peur. Il sait que Fafner, l'un des géants qui avait obtenu des dieux l'anneau, couve son trésor sous la forme d'un gigantesque dragon qui inspire une terreur extrême. Il peut à peine croire que quelqu'un vaincra ce monstre, mais il pense que si la chose est possible, le jeune géant Siegfried est le seul à pouvoir accomplir cet exploit. Il a en effet été dit que celui qui réussirait à reforger Nothung tuerait le dragon. Mime a foi dans sa ruse et il espère que si Siegfried tue le monstre, lui, Mime, pourra obtenir l'Anneau du Niebelung et devenir le maître du monde. 
 
-Mais, bien que l'âme qui cherche puisse abandonner le monde, comme le fit Herzleide qui donna naissance à Parsifal, le chercheur de vérité, dans une épaisse forêt, et comme Sieglinde qui mit au monde Siegfried dans la caverne de Mime, la nature inférieure suit et tente d'utiliser le pouvoir de l'esprit à des fins matérielles. Hélas, combien, désespérés, ont abandonné les églises à cause du credo, comme Siegmund abandonna Wotan. Ils ont acquis une certaine connaissance des choses supérieures, puis en ont mésusé en employant leurs pouvoirs divins sous forme d'hypnotisme ou de suggestion mentale pour s'attirer les biens de ce monde, cherchant plutôt les biens terrestres qui nous enchaînent plutôt que les trésors célestes qui libèrent l'âme. Jamais nous n'avons vécu un siècle où cette phase du grand mythe ne se soit manifestée avec tant de force qu'actuellement. Des milliers d'êtres personnifient en eux-mêmes Siegfried et Mime, le Docteur Jekyll et Mr. Hyde.
+Cette légende contient une très profonde signification spirituelle; principalement celle de la nature inférieure manoeuvrant dans le but d'utiliser le moi supérieur pour ses vils desseins personnels. Siegfried (celui qui gagne la paix par la victoire), est le moi supérieur à ce degré du pèlerinage où il est laissé seul, sans parents ni amis, où il découvre que cette enveloppe de limon terrestre symbolisée par Mime ne fait pas partie de lui mais est de race et de lignée différentes, où il est prêt à reprendre ses recherches de la vérité commencées dans des vies précédentes, comme le firent Siegmund et Sieglinde, dont il a hérité l'indomptable courage qui ne connaît ni la crainte, ni la défaite.
 
-Comme Siegfried, ils se sont éveillés à une compréhension plus ou moins grande des pouvoirs de l'esprit, de leur nature divine et de ses attributs, mais la partie inférieure de leur nature, représentée par Mime, désire toujours profiter des biens matériels.
+Mais, bien que l'âme qui cherche puisse abandonner le monde, comme le fit Herzleide qui donna naissance à Parsifal, le chercheur de vérité, dans une épaisse forêt, et comme Sieglinde qui mit au monde Siegfried dans la caverne de Mime, la nature inférieure suit et tente d'utiliser le pouvoir de l'esprit à des fins matérielles. Hélas, combien, désespérés, ont abandonné les églises à cause du credo, comme Siegmund abandonna Wotan. Ils ont acquis une certaine connaissance des choses supérieures, puis en ont mésusé en employant leurs pouvoirs divins sous forme d'hypnotisme ou de suggestion mentale pour s'attirer les biens de ce monde, cherchant plutôt les biens terrestres qui nous enchaînent plutôt que les trésors célestes qui libèrent l'âme. 
+
+Jamais nous n'avons vécu un siècle où cette phase du grand mythe ne se soit manifestée avec tant de force qu'actuellement. Des milliers d'êtres personnifient en eux-mêmes Siegfried et Mime, le Docteur Jekyll et Mr. Hyde. Comme Siegfried, ils se sont éveillés à une compréhension plus ou moins grande des pouvoirs de l'esprit, de leur nature divine et de ses attributs, mais la partie inférieure de leur nature, représentée par Mime, désire toujours profiter des biens matériels.
 
 Même si nous qualifions de Chrétienne ou d'un autre nom l'utilisation de ces pouvoirs divins, ce n'est pas la science de l'âme. Nous devrions être honnêtes envers nous-mêmes et reconnaître le fait que Lui, la véritable incarnation du pouvoir Christique d'attraction, n'avait pas une place où reposer Sa tête, et qu'Il refusa toujours d'utiliser ce pouvoir pour son propre compte. Même devant la mort, Il s'abstint, et on a dit de Lui qu'Il sauvait les autres, mais qu'Il ne pouvait pas (ne voulait pas) se sauver lui-même, parce que la Loi du Sacrifice est plus élevée que la Loi de (Soi-)conservation: "Que servirait à un homme de gagner le monde entier s'il perdait son âme?" (Marc 8:36).
 
@@ -550,9 +809,7 @@ Conduit par Mime, Siegfried trouve le géant Fafner montant la garde devant la c
 
 Libéré de l'enveloppe mortelle, l'Esprit est capable de comprendre le langage de la Nature, et sent intuitivement où est cachée la vérité représentée par Brunhilde, la Valkyrie, et, suivant cette intuition qui, dans le mythe, prend la forme d'un oiseau, il se dirige vers le rocher encerclé de feu pour éveiller et courtiser la belle dormeuse. Mais bien que nous puissions entrer dans le royaume où réside la vérité en quittant notre corps dense, le sentier n'est nullement libre, car Wotan, gardien du credo, barre le chemin à Siegfried avec sa lance et tente de le dissuader ou de décourager le chercheur indépendant. Cependant, le pouvoir du credo, représenté par la lance de Wotan, a été affaibli par le marché avec les géants, autrement dit quand il a fait appel au côté inférieur de la nature de l'homme, car en témoignage de cet affaiblissement, des caractères magiques ont été taillés sur le manche de la lance. Celle-ci est donc aisément brisée en deux au premier choc de Nothung, le courage du désespoir.
 
-Lorsque le chercheur de vérité est parvenu à ce degré, plus rien ne peut contrecarrer ses recherches. Que l'opposition provienne de démons tels que Fafner ou de dieux comme Wotan, il renverse tous les obstacles par son énergie, car il n'a qu'un seul désir au monde, qu'une insatiable soif: connaître la vérité. Ainsi, après avoir brisé la lance de Wotan, il s'élance, guidé par l'oiseau de l'intuition, jusqu'au cercle de flammes cachant
-
-Brunhilde, l'esprit de vérité, endormie. La vue des flammes d'illusion et d'égarement de Loge ne l'intimide pas. Il fonce hardiment au travers et ô surprise! là se trouve ce qu'il a désiré ardemment durant de nombreuses vies. En s'inclinant, il soulève Brunhilde de ses bras vigoureux mais tendres, et, par un baiser fervent, réveille l'esprit de vérité de son long sommeil séculaire.
+Lorsque le chercheur de vérité est parvenu à ce degré, plus rien ne peut contrecarrer ses recherches. Que l'opposition provienne de démons tels que Fafner ou de dieux comme Wotan, il renverse tous les obstacles par son énergie, car il n'a qu'un seul désir au monde, qu'une insatiable soif: connaître la vérité. Ainsi, après avoir brisé la lance de Wotan, il s'élance, guidé par l'oiseau de l'intuition, jusqu'au cercle de flammes cachant Brunhilde, l'esprit de vérité, endormie. La vue des flammes d'illusion et d'égarement de Loge ne l'intimide pas. Il fonce hardiment au travers et ô surprise! là se trouve ce qu'il a désiré ardemment durant de nombreuses vies. En s'inclinant, il soulève Brunhilde de ses bras vigoureux mais tendres, et, par un baiser fervent, réveille l'esprit de vérité de son long sommeil séculaire.
 
 ### <h3 id="chapter-12">Chapitre XII: La Bataille de la Vérité et de l'Erreur</h3>
 
@@ -584,29 +841,58 @@ La cour de Gunther est précisément sur le chemin de Siegfried. En hâte, Alber
 
 ### <h3 id="chapter-13">Chapitre XIII: La Renaissance et l'Eau du Léthé</h3>
 
-"La naissance n'est qu'un sommeil et qu'un oubli, Et l'âme qui se lève avec nous, cette étoile De notre vie, s'était couchée ailleurs qu'ici, Et revient de loin au-delà du voile." (Wordsworth)
+```
+"La naissance n'est qu'un sommeil et qu'un oubli, 
+Et l'âme qui se lève avec nous, cette étoile 
+De notre vie, s'était couchée ailleurs qu'ici, 
+Et revient de loin au-delà du voile." 
+
+(Wordsworth)
+```
 
 Lorsque Siegfried quitte le rocher de la Valkyrie et arrive à la cour terrestre de Gunther, un breuvage lui est versé, dosé pour lui faire oublier tout son passé, et aussi Brunhilde, l'esprit de vérité qu'il avait conquise.
 
 On suppose généralement que la doctrine de la renaissance est uniquement enseignée par les anciennes religions d'Orient, mais l'étude de la mythologie scandinave détruit cette erreur. Ils croyaient effectivement à la renaissance et à la Loi de Cause à Effet appliquée à la conduite morale, jusqu'au moment où le Christianisme obscurcit ces doctrines pour les raisons indiquées dans la "Cosmogonie des Rose-Croix". La confusion fut grande quand l'ancienne religion de Wotan fut remplacée par le Christianisme. Au fond de leurs coeurs, les hommes croyaient à la renaissance mais la répudiaient extérieurement, ainsi qu'en témoigne l'histoire suivante sur Saint Olaf, roi de Norvège, l'un des premiers et des plus zélés convertis au Christianisme. Alors qu'Asta, la femme du roi Harold, était en travail d'enfantement sans parvenir à accoucher, un homme vint à la cour, porteur de bijoux dont il expliqua ainsi la provenance: un ancêtre d'Harold, le roi Olaf Geirstad, qui régnait autrefois en Norvège et était l'ancêtre direct de Harold, lui était apparu en songe, lui ordonnant d'ouvrir le grand tumulus où reposait son corps, de faire sauter le couvercle du cercueil avec son épée, d'y prendre certains bijoux qu'il y trouverait et de les donner à la reine, dont les douleurs cesseraient aussitôt. Les bijoux furent apportés dans la chambre de la reine, et peu après, elle mit au monde un garçon. Il fut nommé Olaf. Tous croyaient que l'Esprit d'Olaf Geirstad était entré dans le corps de l'enfant auquel on avait donné son nom.
 
-Plusieurs années après, Olaf, devenu roi de Norvège et ayant embrassé la religion Chrétienne, chevauchait à son accoutumée et passait devant le tumulus où reposait son ancêtre; un courtisan de sa suite lui demanda: "Est-il vrai, Altesse, qu'un jour vous gisiez sous ce tumulus?" "Jamais, répliqua le roi, mon Esprit n'habita en deux corps." "Pourtant l'on rapporte qu'un jour, en passant devant ce monument, vous auriez dit: ici je fus, ici je vécus." "Je ne l'ai pas dit, rétorqua le roi, et ne le dirai jamais."
+Plusieurs années après, Olaf, devenu roi de Norvège et ayant embrassé la religion Chrétienne, chevauchait à son accoutumée et passait devant le tumulus où reposait son ancêtre; un courtisan de sa suite lui demanda: 
+
+"Est-il vrai, Altesse, qu'un jour vous gisiez sous ce tumulus?"
+
+"Jamais, répliqua le roi, mon Esprit n'habita en deux corps." 
+
+"Pourtant l'on rapporte qu'un jour, en passant devant ce monument, vous auriez dit: ici je fus, ici je vécus." 
+
+"Je ne l'ai pas dit, rétorqua le roi, et ne le dirai jamais."
 
 Il était très contrarié et s'éloigna hâtivement, sans doute pour éviter de discuter une conviction intime que tous les dogmes de la nouvelle foi ne pouvait effacer.
 
 En fait, la seconde vue étant alors bien plus répandue, tous les peuples anciens d'Orient ou d'Occident possédaient sur la naissance et la mort des connaissances à présent oubliées. Aujourd'hui encore, de nombreux paysans norvégiens affirment voir l'Esprit, semblable à un étroit nuage blanc, quitter le corps des mourants. Il s'agit naturellement du corps vital, et, les enseignements Rosicruciens qui nous apprennent que les décédés errent un certain temps autour de leur demeure terrestre, après leur mort, qu'ils revêtent un corps lumineux et s'affligent douloureusement de la peine de ceux qu'ils chérissent, étaient une connaissance généralisée chez les anciens scandinaves. Lorsqu'après sa mort, le roi de Danemark se matérialisa pour apaiser le chagrin de sa veuve et qu'elle s'écria angoissée: "la rosée de mort a baigné son corps de guerrier", il répondit
 
-"A cause de toi seule, Sigruna, La rosée de douleur baigne Helge. Tu ne veux abandonner ta douleur Ni sécher tes larmes amères; Chacune d'elles, sanglante, Tombe, glacée, sur ma poitrine. Ne me laissant aucun repos."
+```
+"A cause de toi seule, Sigruna, 
+La rosée de douleur baigne Helge. 
+Tu ne veux abandonner ta douleur 
+Ni sécher tes larmes amères; 
+Chacune d'elles, sanglante, 
+Tombe, glacée, sur ma poitrine. 
+Ne me laissant aucun repos."
+```
 
 Quand nos étudiants comprennent le fait de la renaissance, ils se demandent généralement pourquoi le souvenir des vies antérieures est effacé. Un désir irrésistible de connaître le passé anime beaucoup d'entre eux. Ils ne comprennent pas quel avantage procure l'eau du Léthé, dispensatrice d'oubli, et considèrent avec envie les personnes qui prétendent connaître leurs existences passées, disant qu'elles ont été rois, reines, philosophes, prêtres, etc. Cependant, une raison bénéfique commande cet oubli, car aucune action dans la vie ne présente de valeur, sauf par l'impression qu'elle laisse en passant par l'expérience post mortem du purgatoire et du ciel. Cette empreinte agit alors de telle sorte qu'elle dirige au moment voulu, avertit ou pousse à un certain genre d'action; et cet avertissement, bien que dissocié de l'expérience, ou plutôt parce qu'il est dissocié de l'expérience dont il est extrait, agit avec une rapidité plus grande que celle de la pensée.
 
-Pour que ce point soit clairement saisi, comparons cette empreinte gravée sur nos véhicules subtils à un disque de gramophone qui, en tournant, ferait vibrer à chaque note émise toute une batterie de diapasons placés à proximité. A première vue, il ne semble y avoir aucune raison pour qu'à un certain sillon du disque corresponde la note d'un son donné et que, lorsque l'aiguille passe sur cet endroit, un son déterminé soit produit qui fait vibrer le diapason. Mais, que nous comprenions ou non la démonstration, elle prouve qu'un lien de tonalité existe entre ce petit sillon et le diapason. Ce fait ne dépend aucunement de nos connaissances concernant la façon dont l'impression est enregistrée sur le disque, ou la raison pour laquelle le diapason répond à cette vibration. Le phénomène existe, que nous connaissions ou non tous les faits s'y rapportant. D'une façon similaire, quand nous avons vécu une certaine expérience joyeuse ou triste, elle se condense dans l'état d'après- vie, gravant sur notre âme l'impression d'une mise en garde si l'expérience est purgatorielle, ou d'un encouragement si elle est céleste. Et dans une existence postérieure, quand une expérience similaire à celle qui a causé les vibrations se présentera, les vibrations seront ressenties par l'âme, elles éveilleront dans l'enregistrement de la vie passée la tonalité de peine ou de plaisir bien plus rapidement et avec une précision plus grande que si l'expérience elle-même surgissait devant les yeux de notre esprit. Car même à présent, tandis que le voile de chair nous gêne, nous ne pourrions voir la situation sous son jour véritable. Mais le fruit de l'expérience récolté dans le ciel ou le purgatoire nous conseille sans erreur et nous apprend si nous pouvons imiter nos actions passées ou en éviter la répétition.
+Pour que ce point soit clairement saisi, comparons cette empreinte gravée sur nos véhicules subtils à un disque de gramophone qui, en tournant, ferait vibrer à chaque note émise toute une batterie de diapasons placés à proximité. A première vue, il ne semble y avoir aucune raison pour qu'à un certain sillon du disque corresponde la note d'un son donné et que, lorsque l'aiguille passe sur cet endroit, un son déterminé soit produit qui fait vibrer le diapason. Mais, que nous comprenions ou non la démonstration, elle prouve qu'un lien de tonalité existe entre ce petit sillon et le diapason. Ce fait ne dépend aucunement de nos connaissances concernant la façon dont l'impression est enregistrée sur le disque, ou la raison pour laquelle le diapason répond à cette vibration. Le phénomène existe, que nous connaissions ou non tous les faits s'y rapportant. 
+
+D'une façon similaire, quand nous avons vécu une certaine expérience joyeuse ou triste, elle se condense dans l'état d'après- vie, gravant sur notre âme l'impression d'une mise en garde si l'expérience est purgatorielle, ou d'un encouragement si elle est céleste. Et dans une existence postérieure, quand une expérience similaire à celle qui a causé les vibrations se présentera, les vibrations seront ressenties par l'âme, elles éveilleront dans l'enregistrement de la vie passée la tonalité de peine ou de plaisir bien plus rapidement et avec une précision plus grande que si l'expérience elle-même surgissait devant les yeux de notre esprit. Car même à présent, tandis que le voile de chair nous gêne, nous ne pourrions voir la situation sous son jour véritable. Mais le fruit de l'expérience récolté dans le ciel ou le purgatoire nous conseille sans erreur et nous apprend si nous pouvons imiter nos actions passées ou en éviter la répétition.
 
 Supposons en outre que nous ayons vraiment connaissance de nos vies précédentes, et que nous ayons acquis cette faculté par nos efforts actuels pour vivre noblement et dignement. Supposons que nous ayons vécu antérieurement dans la débauche, la cruauté, le crime et l'égoïsme. Si quelqu'un nous méprisait aujourd'hui à cause de ces actes, nous soutiendrions que nous ne devrions pas être jugés d'après ce passé, et qu'on aurait tort de nous repousser. Nous affirmerions avec raison que notre vie présente d'efforts respectables devrait servir de base au jugement, à l'exclusion des conditions antérieures. Mais alors, pour la même raison, pourquoi prétendrions-nous aux honneurs de l'adulation et de l'admiration pour avoir été rois ou reines dans une vie antérieure? En admettant même que ce soit exact, pourquoi s'exposer à être ridiculisé par les sceptiques en relatant de tels faits? Donc, il est préférable de concentrer nos efforts sur les plus hautes possibilités d'aujourd'hui, que nous ayons ou non le souvenir de nos vies passées.
 
-Il est certain que toute personne capable de faire des recherches dans la Mémoire de la Nature, et qui le fait dans l'intérêt d'investigations en rapport avec l'évolution et l'avancement de l'humanité, rencontrera un jour des vestiges de son passé. Mais un véritable serviteur qui sait travailler dans la vigne du Christ ne se permettra jamais de s'écarter du sentier du service pour suivre celui de la curiosité. Le Disciple qui reçoit les enseignements des Frères Aînés est averti dès la première Initiation de ne jamais employer son pouvoir pour la satisfaction de la curiosité, et à chaque visite suivante au Temple, cette idée lui est répétée. La distinction entre l'usage légitime et illégitime des pouvoirs spirituels est si fine et si subtile, et lorsque nous avançons dans la spiritualité, les restrictions auxquelles chacun semble assujetti se multiplient tellement, que si la chose était contée, neuf personnes sur dix diraient: "A quoi bon posséder la vue spirituelle ou être capable de quitter son corps? En présence de tant de restrictions, il semble que les possibilités de transgression sont multipliées à un point tel, qu'il est presque inutile de posséder ces facultés". Elles sont néanmoins d'une grande valeur, et la responsabilité n'est que le résultat d'une croissance accrue.
+Il est certain que toute personne capable de faire des recherches dans la Mémoire de la Nature, et qui le fait dans l'intérêt d'investigations en rapport avec l'évolution et l'avancement de l'humanité, rencontrera un jour des vestiges de son passé. Mais un véritable serviteur qui sait travailler dans la vigne du Christ ne se permettra jamais de s'écarter du sentier du service pour suivre celui de la curiosité. Le Disciple qui reçoit les enseignements des Frères Aînés est averti dès la première Initiation de ne jamais employer son pouvoir pour la satisfaction de la curiosité, et à chaque visite suivante au Temple, cette idée lui est répétée. 
 
-Un animal prend librement tout ce qu'il désire. Il ne commet pas de péchés et n'est pas tenu responsable de ses actes, parce qu'il ne connaît rien de mieux. La responsabilité commence dès que l'idée du tien et du mien est imprimée sur la conscience. Plus notre savoir est grand, plus s'accroît la responsabilité; plus les qualités de l'âme sont pures, plus subtiles aussi les distinctions entre le bien et le mal. Nous observons ceci dans nos vies quotidiennes où les degrés de ce qui est permis ou non varient selon la qualité de chaque individu. Et lorsque nous aspirons à ce pouvoir grâce auquel nous pouvons connaître le passé, nous découvrons que nous ne sommes pas plus fondés à nous en servir pour nous donner de l'importance que nous ne le serions à l'utiliser pour obtenir les richesses du monde et la puissance. Ainsi la vie ou les vies antérieures nous sont cachées à dessein jusqu'à ce que nous sachions ouvrir la porte. Quand nous en aurons la clef, nous ne voudrons probablement pas nous en servir.
+La distinction entre l'usage légitime et illégitime des pouvoirs spirituels est si fine et si subtile, et lorsque nous avançons dans la spiritualité, les restrictions auxquelles chacun semble assujetti se multiplient tellement, que si la chose était contée, neuf personnes sur dix diraient: "A quoi bon posséder la vue spirituelle ou être capable de quitter son corps? En présence de tant de restrictions, il semble que les possibilités de transgression sont multipliées à un point tel, qu'il est presque inutile de posséder ces facultés". Elles sont néanmoins d'une grande valeur, et la responsabilité n'est que le résultat d'une croissance accrue.
+
+Un animal prend librement tout ce qu'il désire. Il ne commet pas de péchés et n'est pas tenu responsable de ses actes, parce qu'il ne connaît rien de mieux. La responsabilité commence dès que l'idée du tien et du mien est imprimée sur la conscience. Plus notre savoir est grand, plus s'accroît la responsabilité; plus les qualités de l'âme sont pures, plus subtiles aussi les distinctions entre le bien et le mal. Nous observons ceci dans nos vies quotidiennes où les degrés de ce qui est permis ou non varient selon la qualité de chaque individu. 
+
+Et lorsque nous aspirons à ce pouvoir grâce auquel nous pouvons connaître le passé, nous découvrons que nous ne sommes pas plus fondés à nous en servir pour nous donner de l'importance que nous ne le serions à l'utiliser pour obtenir les richesses du monde et la puissance. Ainsi la vie ou les vies antérieures nous sont cachées à dessein jusqu'à ce que nous sachions ouvrir la porte. Quand nous en aurons la clef, nous ne voudrons probablement pas nous en servir.
 
 C'est donc pour cette raison que l'on fait boire à Siegfried l'eau du Léthé lorsqu'il arrive à la cour de Gunther, et il oublie aussitôt tout ce qui concerne son passé avec Mime, le nain qui prétendait être son père. Il oublie comment il forgea l'épée magique "le courage du désespoir" qui lui donna l'avantage dans le combat contre Fafner, l'esprit de passion et de désir. Il oublie qu'il avait alors conquis l'Anneau du Niebelung, emblème de l'égocentrisme grâce auquel il avait acquis la connaissance de sa véritable identité spirituelle et tué Mime, la personnalité, qui disait, à tort, être son père. Il oublie comment, étant un Esprit libre, indompté par la peur, il a brisé la lance de Wotan, gardien du credo, et suivi l'oiseau de l'intuition jusqu'à la demeure de l'esprit de vérité endormi. Il oublie son mariage avec Brunhilde et le voeu d'altruisme consenti lorsqu'il lui donna l'anneau.
 
@@ -634,13 +920,28 @@ Au son de la trompette de Heimdal, tous les facteurs de destruction se pressent 
 
 Mais, de même que le phénix renaît de ses cendres, rajeuni et merveilleux, l'ancienne prophétesse voyait une Nouvelle Terre plus belle et plus éthérée sortir de la grande conflagration où "les éléments fondaient sous l'ardente chaleur" - elle l'appelait "Gimle". Elle n'était pas sans population, car pendant la grande conflagration, un homme et une femme appelés Lif et Liftharaser (lif signifie vie) avaient été sauvés et ils donnent naissance à une nouvelle race qui vit en paix et près de Dieu:
 
-"Je vois un palais Plus brillant que le Soleil, Tout recouvert d'or. Sur les sommets de Gimle, Une race vertueuse Y aura sa demeure.
+```
+"Je vois un palais 
+Plus brillant que le Soleil, 
+Tout recouvert d'or. 
+Sur les sommets de Gimle, 
+Une race vertueuse 
+Y aura sa demeure.
+Jouissant des bénédictions 
+Pendant toute l'éternité. (...)
+Là viendra le Tout Puissant, 
+le Tout, le Père 
+Au Conseil des dieux, 
+Dans toute sa force venant d'en-haut. 
+Celui qui pense pour tous, 
+Jugera et fera cesser les luttes. 
+Il établira la paix 
+Pour toute l'éternité."
+```
 
-Jouissant des bénédictions Pendant toute l'éternité. (...)
+Ainsi, l'ancien mythe nordique enseigne, mais sous un angle différent, les mêmes vérités qui se trouvent, plus amplement développées, dans les Ecritures Chrétiennes depuis la Genèse jusqu'à l'Apocalypse, et il est important que nous comprenions la vérité de ces contes. Trop nombreux, hélas! sont ceux qui appartiennent à la classe décrite par Pierre et disent: "Où est la promesse de son avènement? car depuis que les pères sont morts, toutes choses continuent comme elles étaient au commencement de la création". (2 Pierre 3:4). Bien peu comprennent l'importance de ce passage du second chapitre de la Genèse "une vapeur montait de la terre et arrosait toute la surface du sol" (versets 6 ), et ainsi, les enfants du brouillard ont dû être physiologiquement différents de l'homme d'aujourd'hui qui respire l'air depuis le "Déluge" lorsque le brouillard se condensa et devint l'océan. Mais, aussi certainement que ces changements se sont produits dans le passé, ainsi un autre se produira prochainement. Il est vrai qu'il peut ne pas survenir de notre temps, "personne ne connaît le jour ni l'heure, ni les hommes, ni les Anges, ni le Fils" et l'avertissement de Noé doit être présent à notre esprit (Matthieu 24:36-39; Marc 13:31-33; Luc 17:26-30; Actes 1:7. Ce jour-là, ils mangeaient et buvaient, se mariaient étaient donnés en mariage, mais soudain, les eaux engloutirent tous ceux qui n'avaient pas développé les conditions physiologiques requises, les poumons nécessaires pour vivre dans la condition nouvelle, et ils périrent. L'Arche porta les premiers pionniers et les sauva de la catastrophe. 
 
-Là viendra le Tout Puissant, le Tout, le Père Au Conseil des dieux, Dans toute sa force venant d'en-haut. Celui qui pense pour tous, Jugera et fera cesser les luttes. Il établira la paix Pour toute l'éternité."
-
-Ainsi, l'ancien mythe nordique enseigne, mais sous un angle différent, les mêmes vérités qui se trouvent, plus amplement développées, dans les Ecritures Chrétiennes depuis la Genèse jusqu'à l'Apocalypse, et il est important que nous comprenions la vérité de ces contes. Trop nombreux, hélas! sont ceux qui appartiennent à la classe décrite par Pierre et disent: "Où est la promesse de son avènement? car depuis que les pères sont morts, toutes choses continuent comme elles étaient au commencement de la création". (2 Pierre 3:4). Bien peu comprennent l'importance de ce passage du second chapitre de la Genèse "une vapeur montait de la terre et arrosait toute la surface du sol" (versets 6 ), et ainsi, les enfants du brouillard ont dû être physiologiquement différents de l'homme d'aujourd'hui qui respire l'air depuis le "Déluge" lorsque le brouillard se condensa et devint l'océan. Mais, aussi certainement que ces changements se sont produits dans le passé, ainsi un autre se produira prochainement. Il est vrai qu'il peut ne pas survenir de notre temps, "personne ne connaît le jour ni l'heure, ni les hommes, ni les Anges, ni le Fils" et l'avertissement de Noé doit être présent à notre esprit (Matthieu 24:36-39; Marc 13:31-33; Luc 17:26-30; Actes 1:7. Ce jour-là, ils mangeaient et buvaient, se mariaient étaient donnés en mariage, mais soudain, les eaux engloutirent tous ceux qui n'avaient pas développé les conditions physiologiques requises, les poumons nécessaires pour vivre dans la condition nouvelle, et ils périrent. L'Arche porta les premiers pionniers et les sauva de la catastrophe. Pour affronter en toute sécurité le prochain bouleversement, une Robe Nuptiale est indispensable et il est de la plus grande importance pour nous d'y travailler. C'est le sôma psuchikon ou "corps de l'âme" mentionné par Paul (I Corinthiens 15:44), véhicule éthérique d'une importance capitale; car lorsque les éléments actuels auront été dissouts dans le changement à venir, comment survivrons-nous si, comme à présent, nous ne pouvons fonctionner que dans notre corps dense?
+Pour affronter en toute sécurité le prochain bouleversement, une Robe Nuptiale est indispensable et il est de la plus grande importance pour nous d'y travailler. C'est le sôma psuchikon ou "corps de l'âme" mentionné par Paul (I Corinthiens 15:44), véhicule éthérique d'une importance capitale; car lorsque les éléments actuels auront été dissouts dans le changement à venir, comment survivrons-nous si, comme à présent, nous ne pouvons fonctionner que dans notre corps dense?
 
 A la race germano-anglo-saxonne, deux races succéderont encore avant que la Sixième Epoque soit définitivement introduite, mais aujourd'hui, et de notre race est préparée la semence du Nouvel Age. La mission de l'Ordre Rosicrucien, travaillant par l'intermédiaire de "The Rosicrucian Fellowship", consiste à propager une méthode scientifique de développement particulièrement adaptée aux peuples d'Occident, grâce à laquelle cette Robe Nuptiale peut être tissée, pour nous permettre de hâter le jour du Seigneur.
 
@@ -652,9 +953,7 @@ Dans ce drame, il s'agit une fois de plus d'une ancienne légende. Elle a été 
 
 Dans l'ancien temps, l'amour était brutal; l'homme achetait l'épouse, la volait ou la prenait comme butin de guerre. Il ne désirait que la possession du corps , de sorte que la femme était un objet prisé par son maître pour le plaisir qu'elle lui procurait, et pour rien d'autre. Aucune chance de s'exprimer n'était laissée aux plus hautes et plus fines qualités de sa nature. Il était nécessaire de changer cet état de choses, faute de quoi les progrès de l'humanité auraient cessé. Le fruit ne tombe pas loin de l'arbre. Quiconque naît d'une union brutale est brutal aussi; et pour que l'humanité puisse s'élever, il fallait également élever le niveau de l'amour; Tannhäuser est un effort dans cette direction.
 
-Cette légende s'appelle aussi "Le Tournoi des Troubadours", car les ménestrels d'Europe étaient les éducateurs du Moyen Age; ils étaient des chevaliers errants, doués pour le chant et la parole, voyageant par monts et par vaux, bienvenus et honorés à la cour et dans les châteaux.
-
-Leur influence était puissante dans la formation des idées et des idéaux du temps. Au tournoi de chant qui avait lieu au Château de Wartburg, l'un des sujets était le suivant: la femme a-t-elle ou non un droit sur son propre corps, droit de protection contre les excès licencieux de l'époux et doit-elle être considérée comme une compagne aimée d'âme à âme ou comme une esclave réduite à se soumettre aux ordres de son maître? C'était la question débattue.
+Cette légende s'appelle aussi "Le Tournoi des Troubadours", car les ménestrels d'Europe étaient les éducateurs du Moyen Age; ils étaient des chevaliers errants, doués pour le chant et la parole, voyageant par monts et par vaux, bienvenus et honorés à la cour et dans les châteaux. Leur influence était puissante dans la formation des idées et des idéaux du temps. Au tournoi de chant qui avait lieu au Château de Wartburg, l'un des sujets était le suivant: la femme a-t-elle ou non un droit sur son propre corps, droit de protection contre les excès licencieux de l'époux et doit-elle être considérée comme une compagne aimée d'âme à âme ou comme une esclave réduite à se soumettre aux ordres de son maître? C'était la question débattue.
 
 Naturellement, il y a toujours à chaque changement ceux qui se déclarent pour les vieilles coutumes contre les nouvelles. Les champions des deux causes prenaient part à cette compétition de chants au Château de Wartburg.
 
@@ -670,19 +969,56 @@ L'histoire raconte comment il découvre la Montagne de Vénus, comment son aimab
 
 Le premier acte de Tannhäuser nous montre une scène de licencieuse débauche dans la grotte de Vénus. Tannhäuser est agenouillé devant la déesse qui repose allongée sur une couche. Il s'éveille comme d'un songe. Son rêve lui a inculqué le désir de revoir la terre, il le dit à la déesse qui répond:
 
-"Quelle sotte plainte! As-tu oublié Combien naguère tu avais souffert? Debout! prends ta harpe, chante Aphrodite, Déesse de l'amour et du ravissement!"
+```
+"Quelle sotte plainte! As-tu oublié 
+Combien naguère tu avais souffert? 
+Debout! prends ta harpe, chante Aphrodite, 
+Déesse de l'amour et du ravissement!"
+```
 
 Enflammé d'ardeur nouvelle, Tannhäuser saisit sa harpe et chante son éloge:
 
-"Louange à toi! Tu accomplis des miracles; Que j'aime la douceur de tes embrassements, Les cris de joie que tes plaisirs m'arrachent! Mon coeur a soif de jouissance; Tout mon être se porte intensément vers toi. Ce qui est pour les dieux, tu me l'as fait connaître, Ce don de toi, cette félicité sans nom. Mais hélas! je ne suis qu'un mortel, Et ton amour est trop surhumain pour moi Qui ai besoin du changement. A force de plaisirs, j'aspire à la souffrance. O Reine, ô déesse, laisse-moi partir!"
+```
+"Louange à toi! Tu accomplis des miracles; 
+Que j'aime la douceur de tes embrassements, 
+Les cris de joie que tes plaisirs m'arrachent! 
+Mon coeur a soif de jouissance; 
+Tout mon être se porte intensément vers toi. 
+Ce qui est pour les dieux, tu me l'as fait connaître, 
+Ce don de toi, cette félicité sans nom. 
+Mais hélas! je ne suis qu'un mortel, 
+Et ton amour est trop surhumain pour moi 
+Qui ai besoin du changement.
+A force de plaisirs, j'aspire à la souffrance. 
+O Reine, ô déesse, laisse-moi partir!"
+```
 
 Lorsque l'humanité émergea de l'Atlantide et entra dans l'air d'Aryana, un arc-en-ciel brilla pour la première fois dans le firmament comme le signe de la nouvelle époque. En ce temps, il fut dit que tant que cet arc serait dans les nuages, les saisons ne cesseraient pas de changer; jour et nuit, été et hiver, flux et reflux et tous les autres phénomènes alternants de la Nature se suivraient en une succession ininterrompue (Genèse 9:13; 8:22). En musique, l'harmonie ne peut pas toujours durer. La dissonance intervient par moments pour mettre en valeur la mélodie. Il en est ainsi de la souffrance et de la douleur, de la joie et du bonheur, phénomènes également alternants . Nous ne pouvons pas vivre dans un état sans désirer l'autre, pas plus que nous ne pouvons rester au ciel et passer par des expériences que la Terre est seule à permettre. Et c'est justement cette poussée intérieure, cette alternance de la joie à la douleur et inversement, qui pousse Tannhäuser à quitter la grotte de Vénus, afin de pouvoir de nouveau connaître dans le monde l'effort et la lutte. Il acquerra ainsi de nouvelles expériences que seule l'affliction pourra lui donner et oubliera les plaisirs qui ne lui apportent aucun pouvoir de l'âme. Mais c'est une des caractéristiques des forces inférieures que de toujours chercher à influencer une âme contre son gré, de s'efforcer par tous les moyens de la détourner du droit chemin. Ainsi Vénus, qui représente ces pouvoirs dans le drame de Tannhäuser, l'avertit et le dissuade.
 
-"Je te vois déjà revenir vers moi Dans l'humiliation de ton âme rebelle, Foulé aux pieds, contrit, me suppliant De te faire jouir de mes enchantements."
+```
+"Je te vois déjà revenir vers moi 
+Dans l'humiliation de ton âme rebelle, 
+Foulé aux pieds, contrit, me suppliant 
+De te faire jouir de mes enchantements."
+```
 
 Mais Tannhäuser est ferme en sa décision. Son incitation intérieure est si forte que rien ne peut l'arrêter. Bien qu'il soit encore sous le charme, il s'exclame avec ferveur:
 
-"Tant que je vivrai, mon chant sera pour toi; D'aucun sujet moins beau il ne s'inspirera. Source de beauté et d'aimable grâce, avec tes plus doux chants, tu attises Le feu qui dévore mon coeur. Puisse sa flamme briller pour toi seule! Bien qu'avec chagrin je m'éloigne de toi, Je ne cesserai pas d'être ton partisan, Mais je dois m'éloigner et fuir ton esclavage, Connaître le monde et vivre de sa vie. J'ai soif de liberté, en dussè-je mourir; O Reine, ô déesse, laisse-moi partir!"
+```
+"Tant que je vivrai, mon chant sera pour toi; 
+D'aucun sujet moins beau il ne s'inspirera. 
+Source de beauté et d'aimable grâce, 
+avec tes plus doux chants, tu attises 
+Le feu qui dévore mon coeur. 
+Puisse sa flamme briller pour toi seule! 
+Bien qu'avec chagrin je m'éloigne de toi, 
+
+Je ne cesserai pas d'être ton partisan, 
+Mais je dois m'éloigner et fuir ton esclavage, 
+Connaître le monde et vivre de sa vie. 
+J'ai soif de liberté, en dussè-je mourir; 
+O Reine, ô déesse, laisse-moi partir!"
+```
 
 Ainsi, lorsque Tannhäuser quitte la grotte de Vénus, il s'est engagé à soutenir la cause du côté vil et sensuel de l'amour. Il retourne dans le monde pour l'enseigner, car telle est la nature humaine: tout ce que le coeur éprouve doit s'exprimer.
 
@@ -696,43 +1032,135 @@ Apprenant que le sujet du débat choral sera l'amour et que le prix sera offert 
 
 A sa sortie de la grotte de Vénus, l'un des premiers sons qui accueillirent Tannhäuser fut le chant d'une troupe de pèlerins se rendant à Rome pour obtenir le pardon de leurs péchés, et ceci éveille en lui un accablant sentiment de sa propre culpabilité. Il s'agenouille et s'écrie, profondément contrit:
 
-"Louange à toi, ô Tout-Puissant, Grands sont les miracles de ta Grâce. Le sentiment du péché me tourmente; son fardeau est trop lourd pour moi. Je n'ai pas la paix, ne trouve pas de repos Tant que de toi je n'ai reçu le pardon."
+```
+"Louange à toi, ô Tout-Puissant, 
+Grands sont les miracles de ta Grâce. 
+Le sentiment du péché me tourmente; 
+son fardeau est trop lourd pour moi. 
+Je n'ai pas la paix, ne trouve pas de repos 
+Tant que de toi je n'ai reçu le pardon."
+```
 
 Tandis que le découragement l'oppresse et qu'il se sent condamné à errer seul et malheureux de par le monde à cause de son amour impie pour Vénus, les troubadours viennent à sa rencontre, le reconnaissent et s'efforcent de le persuader de les accompagner au Château de Wartburg mais, comme nous l'avons déjà dit, c'est son amour passionnel pour Elisabeth qui l'attire en ces lieux, aussi il n'ose l'approcher. Wolfram von Eschenbach, comme dernier argument, apprend à Tannhäuser qu'Elisabeth l'aime. Elisabeth n'avait plus assisté aux tournois de chant depuis le départ de Tannhäuser, et Wolfram von Eschenbach, l'un des plus beaux et des plus purs personnages de l'histoire médiévale, essaie d'assurer le bonheur d'Elisabeth en lui ramenant Tannhäuser, bien qu'il l'aime et se brise le coeur en agissant de la sorte. Entendant cela, la passion enflamme de nouveau l'âme de Tannhäuser, et il chante:
 
-"Ah! tu me réjouis encore, Monde rayonnant que j'ai voulu fuir. Le ciel me sourit, la prairie est en fleurs; C'est le printemps avec ses sons enchanteurs qui apaise mon chagrin. Un rayon de splendeur Illumine mon âme. O joie, c'est elle!"
+```
+"Ah! tu me réjouis encore, 
+Monde rayonnant que j'ai voulu fuir. 
+Le ciel me sourit, la prairie est en fleurs; 
+C'est le printemps avec ses sons enchanteurs 
+qui apaise mon chagrin. 
+Un rayon de splendeur Illumine mon âme. 
+O joie, c'est elle!"
+```
 
 Elisabeth, le rencontrant au château, lui dit:
 
-"Ce que j'aimais avait disparu: J'avais perdu la paix et la joie Depuis que j'avais entendu tes chants. J'ai connu la souffrance et la félicité, Et depuis que tu as quitté ce lieu, La paix de mon coeur s'en est allée. Nul ménestrel n'a pu me rendre ma joie; Tous les chants me semblaient ternes et mornes. Dans mon sommeil, je me sentais angoissée; Eveillée, je méditais mes tristes illusions. Oh! dis-moi, que m'as-tu donc fait?"
+```
+"Ce que j'aimais avait disparu: 
+J'avais perdu la paix et la joie 
+Depuis que j'avais entendu tes chants. 
+J'ai connu la souffrance et la félicité, 
+Et depuis que tu as quitté ce lieu, 
+La paix de mon coeur s'en est allée. 
+Nul ménestrel n'a pu me rendre ma joie; 
+Tous les chants me semblaient ternes et mornes. 
+Dans mon sommeil, je me sentais angoissée; 
+Eveillée, je méditais mes tristes illusions. 
+Oh! dis-moi, que m'as-tu donc fait?"
+```
 
 Et Tannhäuser de répondre:
 
-"C'est l'amour qui t'inspire ce doux témoignage, C'est sa magie qui a touché ma harpe; L'amour t'a parlé à travers mon chant, C'est lui qui m'amène vers toi."
+```
+"C'est l'amour qui t'inspire ce doux témoignage, 
+C'est sa magie qui a touché ma harpe; 
+L'amour t'a parlé à travers mon chant, 
+C'est lui qui m'amène vers toi."
+```
 
 Elisabeth avoue alors:
 
-"O heure bénie de notre rencontre, ô pouvoir béni de l'amour! enfin je puis t'accueillir; Tu ne partiras plus à l'aventure. Maintenant que renaît la vie, Les nuages de tristesse se dissipent Aux rayons du soleil de la joie."
+```
+"O heure bénie de notre rencontre,
+ ô pouvoir béni de l'amour! 
+ enfin je puis t'accueillir; 
+ Tu ne partiras plus à l'aventure. 
+ Maintenant que renaît la vie, 
+ Les nuages de tristesse se dissipent 
+ Aux rayons du soleil de la joie."
+```
 
 Ainsi, Elisabeth a éveillé l'amour dans le coeur des deux ménestrels, Wolfram et Tannhäuser, mais la différence de ces deux amours se fera sentir par la manière dont chacun interprète le thème dans le tournoi de chant qui se déroule au second acte. Le seigneur de Wartburg ouvre le concours par ces paroles:
 
-"Comme aux temps de la guerre, où nos épées Combattaient pour l'honneur des chevaliers, Ainsi, ménestrels qui avez lutté pour la vertu, Soutenez la vraie foi par vos chants et vos harpes, Préparez-vous, entonnez un chant nouveau: Décrivez le véritable amour, afin Que nous sachions le reconnaître, Et celui qui le plus noblement le fera. Elisabeth lui remettre sa récompense."
+```
+"Comme aux temps de la guerre, où nos épées 
+Combattaient pour l'honneur des chevaliers, 
+Ainsi, ménestrels qui avez lutté pour la vertu, 
+Soutenez la vraie foi par vos chants et vos harpes, 
+Préparez-vous, entonnez un chant nouveau: 
+Décrivez le véritable amour, afin 
+Que nous sachions le reconnaître, 
+Et celui qui le plus noblement le fera. 
+Elisabeth lui remettre sa récompense."
+```
 
-Dans ces derniers vers, nous découvrons la véritable signification de la mission de la chevalerie et des troubadours. C'était le devoir des chevaliers de faire la guerre, de défendre par l'épée ceux qui en avaient besoin, de lutter vaillamment pour les faibles. Dans la mesure où le chevalier observait le code de l'honneur en vogue, défendait le faible et restait loyal envers ses amis comme ses ennemis, il apprenait les leçons du courage physique et moral, indispensable à la croissance de l'âme.
+Dans ces derniers vers, nous découvrons la véritable signification de la mission de la chevalerie et des troubadours. C'était le devoir des chevaliers de faire la guerre, de défendre par l'épée ceux qui en avaient besoin, de lutter vaillamment pour les faibles. Dans la mesure où le chevalier observait le code de l'honneur en vogue, défendait le faible et restait loyal envers ses amis comme ses ennemis, il apprenait les leçons du courage physique et moral, indispensable à la croissance de l'âme. Quiconque prend le sentier du développement spirituel est aussi un chevalier de haute naissance, et il importe qu'il comprenne la nécessité de posséder les vertus exigées des chevaliers d'autrefois, car sur le sentier spirituel il y a également des dangers et des circonstances où le courage physique est demandé. L'Esprit, par exemple, ne peut parvenir à la libération sans inconvénients physiques. La maladie accompagne généralement la croissance de l'âme à un degré plus ou moins grand, et il faut du courage pour endurer les souffrances liées à cette acquisition pour laquelle nous combattons tous, sacrifiant ainsi le corps à l'âme. 
 
-Quiconque prend le sentier du développement spirituel est aussi un chevalier de haute naissance, et il importe qu'il comprenne la nécessité de posséder les vertus exigées des chevaliers d'autrefois, car sur le sentier spirituel il y a également des dangers et des circonstances où le courage physique est demandé. L'Esprit, par exemple, ne peut parvenir à la libération sans inconvénients physiques. La maladie accompagne généralement la croissance de l'âme à un degré plus ou moins grand, et il faut du courage pour endurer les souffrances liées à cette acquisition pour laquelle nous combattons tous, sacrifiant ainsi le corps à l'âme. La mission des ménestrels consistait à développer ce courage et aussi à inculquer les plus hautes vertus. Tous les troubadours avaient donc ce don de la poésie qui nous met en contact avec les vérités spirituelles les plus élevées de la Nature, que l'humanité ordinaire ne ressent pas. De plus, de nombreux troubadours du Moyen Âge étaient eux-mêmes des Initiés, ou peut- être des frères lais. C'est pourquoi leurs paroles étaient souvent des perles de sagesse. On les considérait comme des instructeurs, comme des sages, et ils étaient les amis de la véritable noblesse.
+La mission des ménestrels consistait à développer ce courage et aussi à inculquer les plus hautes vertus. Tous les troubadours avaient donc ce don de la poésie qui nous met en contact avec les vérités spirituelles les plus élevées de la Nature, que l'humanité ordinaire ne ressent pas. De plus, de nombreux troubadours du Moyen Âge étaient eux-mêmes des Initiés, ou peut- être des frères lais. C'est pourquoi leurs paroles étaient souvent des perles de sagesse. On les considérait comme des instructeurs, comme des sages, et ils étaient les amis de la véritable noblesse.
 
-Il y avait naturellement des exceptions, cependant Tannhäuser n'était pas de celles-là. Nous verrons qu'il avait l'âme noble en dépit de ses fautes, et en fait, nous devrions nous souvenir que nous sommes tous des Tannhäuser avant de devenir des Wolfram. Nous répondons tous à la définition de l'amour par Tannhäuser avant de parvenir à la conception spirituelle de Wolfram, telle qu'elle est présentée dans le concours. Les noms sont tirés au sort pour savoir qui commencera l'épreuve, et celui de Wolfram apparaît sur le premier bulletin. Il commence ainsi:
+Il y avait naturellement des exceptions, cependant Tannhäuser n'était pas de celles-là. Nous verrons qu'il avait l'âme noble en dépit de ses fautes, et en fait, nous devrions nous souvenir que nous sommes tous des Tannhäuser avant de devenir des Wolfram. Nous répondons tous à la définition de l'amour par Tannhäuser avant de parvenir à la conception spirituelle de Wolfram, telle qu'elle est présentée dans le concours. 
 
-"En considérant cette noble assemblée, comme le coeur s'emplit de joie à cette vue. Tous ces héros vaillants, sages et aimables, comme de belles forêts de verdure et fraîcheur. A leur côté, charmantes et vertueuses, Voici une guirlande de dames et demoiselles. Leur gloire à toutes éblouit le spectateur. Mon chant se tarit à cette rare vision; Je lève mon regard sur celle dont la splendeur Rayonne dans ce ciel d'une douce lueur. En contemplant ce tendre et doux rayonnement, Mon coeur se recueille en prière et en rêve sacré.
+Les noms sont tirés au sort pour savoir qui commencera l'épreuve, et celui de Wolfram apparaît sur le premier bulletin. Il commence ainsi:
 
-Et voici: la source de tout délice et pouvoir Est alors révélée à mon âme attentive. De ses profonds abîmes découle toute joie, Tendre baume qui guérit toute affliction. Puissé-je ne jamais ternir ses eaux limpides, Ni oser les troubler par de pervers désirs. Je veux t'adorer de mon âme recueillie, Vivre et mourir pour toi est le voeu de mon coeur. C'est donc ainsi, devant votre noble assemblée, Que je conçois le tendre et véritable amour."
+```
+"En considérant cette noble assemblée, 
+comme le coeur s'emplit de joie à cette vue. 
+Tous ces héros vaillants, sages et aimables, 
+comme de belles forêts de verdure et fraîcheur. 
+A leur côté, charmantes et vertueuses, 
+Voici une guirlande de dames et demoiselles. 
+Leur gloire à toutes éblouit le spectateur. 
+Mon chant se tarit à cette rare vision; 
+Je lève mon regard sur celle dont la splendeur 
+Rayonne dans ce ciel d'une douce lueur. 
+En contemplant ce tendre et doux rayonnement, 
+Mon coeur se recueille en prière et en rêve sacré.
+
+Et voici: la source de tout délice et pouvoir 
+Est alors révélée à mon âme attentive. 
+De ses profonds abîmes découle toute joie, 
+Tendre baume qui guérit toute affliction. 
+Puissé-je ne jamais ternir ses eaux limpides, 
+Ni oser les troubler par de pervers désirs. 
+Je veux t'adorer de mon âme recueillie, 
+Vivre et mourir pour toi est le voeu de mon coeur. 
+C'est donc ainsi, devant votre noble assemblée, 
+Que je conçois le tendre et véritable amour."
+```
 
 A la fin du chant de Wolfram, Tannhäuser semble sortir en sursaut d'un rêve. Il se lève et chante:
 
-"Moi aussi, j'ai bu à cette source de plaisir; J'ai connu, Wolfram, ce que tu as connu. Qui oserait prétendre ignorer ses eaux? A moins que le désir ne consume mon âme, Je ne saurais jamais m'approcher de ses bords. C'est une ardente soif que je dois apaiser; A pleines gorgées, je me délecte de l'extase Qui rafraîchit mon coeur et me redonne vie. O source de joie, laisse-moi te posséder, La crainte et le doute devant toi s'envoler; Que des transports ineffables me ravissent! C'est pour toi seule que mon coeur veut battre, Que je brûle du désir de détenir cette splendeur. Je te dis, Wolfram, c'est ainsi que je décris Ce que j'ai éprouvé du véritable amour."
+```
+"Moi aussi, j'ai bu à cette source de plaisir; 
+J'ai connu, Wolfram, ce que tu as connu. 
+Qui oserait prétendre ignorer ses eaux? 
+A moins que le désir ne consume mon âme, 
+Je ne saurais jamais m'approcher de ses bords. 
+C'est une ardente soif que je dois apaiser; 
+A pleines gorgées, je me délecte de l'extase 
+Qui rafraîchit mon coeur et me redonne vie. 
+O source de joie, laisse-moi te posséder, 
+La crainte et le doute devant toi s'envoler; 
+Que des transports ineffables me ravissent! 
+C'est pour toi seule que mon coeur veut battre, 
+Que je brûle du désir de détenir cette splendeur. 
+Je te dis, Wolfram, c'est ainsi que je décris 
+Ce que j'ai éprouvé du véritable amour."
+```
 
-Nous avons ici une fidèle description des deux extrêmes de l'amour, celui de Wolfram étant l'amour de l'âme pour l'âme, Tannhäuser exprimant l'amour des sens. L'un est l'amour qui cherche à donner, l'autre demande la possession afin de recevoir. Ce n'est que le début du tournoi, mais ces définitions étant les premières données par les deux principaux interprètes de l'amour, il est utile de noter que Wolfram von Eschenbach défend un amour nouveau et plus beau qui remplacera la conception primitive. Même de nos jours, malheureusement, on entretient l'idée que la possession est la signature de l'amour. Ceux qui croient à la renaissance en des sexes alternés devraient, puisque l'âme est bissexuelle et que nos corps contiennent des organes rudimentaires appartenant au sexe opposé, être convaincus que chaque être humain doit obtenir, en toute justice, indépendamment de la polarité de son corps dense, les mêmes privilèges que l'autre.
+Nous avons ici une fidèle description des deux extrêmes de l'amour, celui de Wolfram étant l'amour de l'âme pour l'âme, Tannhäuser exprimant l'amour des sens. L'un est l'amour qui cherche à donner, l'autre demande la possession afin de recevoir. Ce n'est que le début du tournoi, mais ces définitions étant les premières données par les deux principaux interprètes de l'amour, il est utile de noter que Wolfram von Eschenbach défend un amour nouveau et plus beau qui remplacera la conception primitive. 
+
+Même de nos jours, malheureusement, on entretient l'idée que la possession est la signature de l'amour. Ceux qui croient à la renaissance en des sexes alternés devraient, puisque l'âme est bissexuelle et que nos corps contiennent des organes rudimentaires appartenant au sexe opposé, être convaincus que chaque être humain doit obtenir, en toute justice, indépendamment de la polarité de son corps dense, les mêmes privilèges que l'autre.
 
 ### <h3 id="chapter-17">Chapitre XVII: Le Péché Impardonable</h3>
 
@@ -750,7 +1178,9 @@ Son tour vint enfin. En cette auguste présence, il attendit patiemment le messa
 
 A ce verdict impitoyable, la dernière lueur d'espoir s'éteignit en Tannhäuser, et la luxure, en rapport avec le sang, se réveilla toute-puissante. Son amour tourna en haine et, bouillant de colère, il maudit le ciel et la Terre, jurant que s'il ne pouvait avoir le véritable amour il retournerait à la grotte de Vénus; puis éloignant de lui ses compagnons, il partit seul pour rentrer au pays.
 
-Durant ce temps, la pure et chaste vierge pour qui l'amour de Tannhäuser s'était éteint, implorait sans cesse le pardon du pécheur. Elle attendait pleine d'espoir le retour des pèlerins, mais lorsqu'ils arrivèrent enfin, sans Tannhäuser, le désespoir la saisit. Sentant qu'il n'y avait pas d'autre issue, elle quitta ce monde pour présenter personnellement sa requête au Trône de Grâce devant notre Père Céleste. Au retour, Tannhäuser croise le cortège funèbre. Une indicible peine le saisit à cette vue. Alors un autre groupe de pèlerins arrive à son tour et raconte qu'un grand miracle s'est produit à Rome. La crosse du Pape a reverdi pour révéler que la rémission, refusée au pécheur sur Terre, avait été accordée au ciel.
+Durant ce temps, la pure et chaste vierge pour qui l'amour de Tannhäuser s'était éteint, implorait sans cesse le pardon du pécheur. Elle attendait pleine d'espoir le retour des pèlerins, mais lorsqu'ils arrivèrent enfin, sans Tannhäuser, le désespoir la saisit. Sentant qu'il n'y avait pas d'autre issue, elle quitta ce monde pour présenter personnellement sa requête au Trône de Grâce devant notre Père Céleste. Au retour, Tannhäuser croise le cortège funèbre. Une indicible peine le saisit à cette vue. 
+
+Alors un autre groupe de pèlerins arrive à son tour et raconte qu'un grand miracle s'est produit à Rome. La crosse du Pape a reverdi pour révéler que la rémission, refusée au pécheur sur Terre, avait été accordée au ciel.
 
 Bien que la légende soit enrobée d'une phraséologie catholique et médiévale, et que nous puissions ne pas tenir compte de l'idée qu'un homme ait le pouvoir de pardonner le péché ou d'en refuser la rémission, elle contient des vérités spirituelles dont la pertinence s'accroît avec les années. Elle traite du péché impardonnable, le seul qui ne puisse être absout, mais qui doive être expié. Nous savons que Jéhovah est le plus haut Initié de la Période de la Lune, le chef des Anges qui, durant le présent Jour de Manifestation, travaillent avec notre humanité par les forces Lunaires. Il est l'auteur de la génération et le premier facteur dans la gestation, le dispensateur de la postérité à l'homme et à l'animal, utilisant le rayon lunaire comme véhicule de travail pendant les moments favorables à la génération. Jéhovah est un Dieu jaloux de sa prérogative, et c'est pourquoi lorsque les hommes eurent goûté au fruit de l'arbre de la connaissance et pris la libre initiative en matière de procréation, Jéhovah les chassa du paradis pour errer dans le désert (wilderness) du monde. Il n'y avait pas de pardon. Ils doivent expier ce péché dans le travail et la douleur, récoltant le fruit de leurs transgressions.
 
@@ -766,7 +1196,12 @@ Une distinction très importante doit être faite entre l'innocence et la vertu,
 
 Dans le prologue de Faust, Goethe prête à Dieu les paroles suivantes au sujet de son héros:
 
-"Il me sert aujourd'hui avec égarement, Mais je le conduirai bientôt à la lumière. Sur le jeune arbre bourgeonnant, le jardinier Entrevoit fleurs et fruits des futures années."
+```
+"Il me sert aujourd'hui avec égarement, 
+Mais je le conduirai bientôt à la lumière. 
+Sur le jeune arbre bourgeonnant, le jardinier 
+Entrevoit fleurs et fruits des futures années."
+```
 
 Ce fait, actuel, s'applique à toute l'humanité; présentement, nous servons Dieu imparfaitement à cause de notre vision limitée. Nous n'avons pas la perception réelle, vraie, de ce qui est demandé et nous ne savons pas comment utiliser les talents dont nous sommes doués. Néanmoins Dieu, par le processus de l'évolution, nous conduit constamment dans une lumière de plus en plus grande, et par degrés nous cesserons d'être improductifs spirituellement, nous fleurirons et porterons des fruits. Ainsi nous serons capables de servir Dieu comme nous le voudrions et non comme nous le faisons.
 
@@ -816,7 +1251,9 @@ Il y a certainement, insinuent-ils, un événement dans sa vie dont il est honte
 
 Par ces arguments, ils éveillent le doute dans l'âme d'Elsa; après cette conversation, elle revient, toute changée vers Lohengrin. Il remarque le changement survenu en elle et lui en demande la raison. Elle admet donc qu'elle a des incertitudes à son sujet et qu'elle voudrait connaître son nom. Elle a ainsi transgressé la condition qu'il lui avait imposée, et il lui dit qu'ayant maintenant exprimé un doute sur lui, il lui est impossible de rester. Ni les pleurs, ni les protestations ne peuvent changer cette résolution. Ils se dirigent donc tous deux vers la rivière où Lohengrin appelle son fidèle cygne. Lorsqu'il le voit revenir, il révèle enfin son identité et dit: "Je suis Lohengrin, le fils de Parsifal". Quant au cygne, il se transforme alors devant tous, et Elsa reconnaît en lui son frère. Il devient désormais son protecteur à la place de Lohengrin.
 
-Comme déjà précisé, l'histoire de Lohengrin contient une des plus importantes leçons à apprendre sur le sentier de la connaissance. Nul n'obtiendra jamais l'Initiation avant qu'elle n'ait été apprise. Pour bien saisir ce point, examinons d'abord le symbole du cygne, ce qu'il représente, et pourquoi il est employé. Ceux qui ont vu l'opéra, Parsifal, ou qui ont lu attentivement la littérature sur le Graal, savent déjà que le cygne était l'emblème porté par tous les Chevaliers du Graal. Dans cet opéra, il est dit que deux cygnes préparent un bain calmant pour le roi malade Amfortas. Parsifal ayant abattu un de ces cygnes, les chevaliers du Graal manifestent beaucoup d'affliction devant cette cruauté injustifiée.
+Comme déjà précisé, l'histoire de Lohengrin contient une des plus importantes leçons à apprendre sur le sentier de la connaissance. Nul n'obtiendra jamais l'Initiation avant qu'elle n'ait été apprise. Pour bien saisir ce point, examinons d'abord le symbole du cygne, ce qu'il représente, et pourquoi il est employé. Ceux qui ont vu l'opéra, Parsifal, ou qui ont lu attentivement la littérature sur le Graal, savent déjà que le cygne était l'emblème porté par tous les Chevaliers du Graal. 
+
+Dans cet opéra, il est dit que deux cygnes préparent un bain calmant pour le roi malade Amfortas. Parsifal ayant abattu un de ces cygnes, les chevaliers du Graal manifestent beaucoup d'affliction devant cette cruauté injustifiée.
 
 Le cygne est capable de se mouvoir dans plusieurs éléments. Il peut voler très rapidement dans les airs, glisser majestueusement sur l'eau et, avec son long cou, il peut même explorer les eaux à la recherche de tout ce qu'il pourrait trouver au fond d'un étang peu profond. Il est donc un symbole approprié de l'Initié qui, par le pouvoir développé en lui, est capable de s'élever vers les royaumes plus élevés et de se mouvoir en différents mondes. Comme le cygne vole dans l'espace, ainsi celui qui a développé les pouvoirs de son corps de l'âme peut voyager dans ce véhicule au-dessus des lacs et des montagnes; de même que le cygne plonge sous les eaux, l'Initié peut plonger sous la surface de la mer dans son corps de l'âme, lequel ne court de danger ni dans le feu, ni dans la terre, l'air ou l'eau. En fait, c'est l'une des premières choses que les Aides Invisibles doivent apprendre: ils sont immunisés contre les dangers que peut rencontrer le corps dense, lorsqu'ils sont revêtus de cette "Robe Nuptiale d'Or" dont nous avons déjà beaucoup parlé. Ainsi ils peuvent entrer dans un bâtiment en flammes en toute sécurité et y assister ceux qui sont en danger, d'une manière parfois miraculeuse; ou ils peuvent pénétrer à bord d'un navire qui sombre et soutenir le courage de ceux qui vont devoir affronter le grand changement.
 
@@ -830,4 +1267,6 @@ Voici la grande leçon enseignée par Lohengrin, et elle est d'une importance ca
 
 Il est donc de la plus haute importance que ceux qui cherchent l'Initiation comprennent que quelque chose leur est dû de la part de celui qui se dit instructeur, avant qu'ils l'acceptent. Il doit leur montrer le fruit de ses oeuvres car, ainsi que le Christ le dit: "Vous les reconnaîtrez à leurs fruits" (Matthieu 7:16). Ceci, le véritable Instructeur le fait toujours sans qu'on le lui demande et sans paraître le faire , ni vouloir donner un signe. Il apporte toujours en témoignage indubitable de sa connaissance supérieure et de son pouvoir, une preuve irréfutable à laquelle peut s'attacher l'esprit de l'aspirant. Lorsque cela a été démontré, il est absolument essentiel que l'aspirant fasse acte de loyauté envers l'Instructeur ; quels que soient les propos qu'il entend ou les écrits qu'il a l'occasion de lire, l'aspirant ne doit pas se laisser distraire, mais résolument s'accrocher au fait prouvé, rester fermement attaché à ce qu'il croit et soutenir fidèlement celui dont il attend les enseignements, car si cette foi fait défaut, il est inutile de continuer les relations.
 
-Il est toutefois très significatif, comme nous l'apprend la scène finale, que le frère d'Elsa ait été le cygne qui avait conduit Lohengrin, et qu'il ait repris sa forme naturelle au départ de Lohengrin. Il avait passé par l'Initiation. Puisqu'une âme avancée connaît les luttes d'autrui, il connaissait les tourments de sa soeur, mais bien qu'il ait connu l'épreuve de cette aspirante, ou âme soeur, il ne redoutait rien, car n'était-il pas l'intermédiaire qui lui apportait l'aide dont elle aurait pu profiter éternellement si elle était demeurée aussi fidèle que lui ?
+Il est toutefois très significatif, comme nous l'apprend la scène finale, que le frère d'Elsa ait été le cygne qui avait conduit Lohengrin, et qu'il ait repris sa forme naturelle au départ de Lohengrin. Il avait passé par l'Initiation. Puisqu'une âme avancée connaît les luttes d'autrui, il connaissait les tourments de sa soeur, mais bien qu'il ait connu l'épreuve de cette aspirante, ou âme soeur, il ne redoutait rien, car n'était-il pas l'intermédiaire qui lui apportait l'aide dont elle aurait pu profiter éternellement si elle était demeurée aussi fidèle que lui?
+
+Fin
