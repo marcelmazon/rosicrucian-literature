@@ -1,0 +1,54 @@
+---
+title: "Foglietto №6: Il Valore Educativo dell'Astrologia"
+language: "it"
+original_title: "Pamphlet №6: The Educational Value of Astrology"
+original_language: "en"
+author: "???"
+original_source_file: "pamphlet-6-the-educational-value-of-astrology.md"
+---
+
+<h1 id="pamphlet-6-the-educational-value-of-astrology">Foglietto №6: Il Valore Educativo dell'Astrologia</h1>
+
+### <h3 id="the-educational-value-of-astrology">Il Valore Educativo dell'Astrologia</h3>
+
+Il valore educativo dell’Astrologia si basa sul presupposto che più di ogni altra scienza essa è in grado di rivelare l’uomo a se stesso. Nessun’altra scienza infatti è così sublime, così profonda e così ampia nelle sue possibilità. Essa pone le basi affinché possano essere comprese le relazioni tra il “Grande uomo cosmico” ed il piccolo Dio presente in ogni uomo. Dio ha creato l’uomo “a sua immagine e somiglianza”, le energie che hanno costruito l’universo (la Grande Matrice) sono le stesse che hanno costruito l’uomo che dell’universo rappresenta una miniatura. Il macrocosmo e l’uomo (il microcosmo), così intimamente relazionati, sono fondamentalmente una cosa unica.
+
+La cienza materiale ha determinato, seppure parzialmente, gli effetti apportati dai raggi del Sole e della Luna. Per l’effetto degli altri pianeti sono state fatte soltanto delle semplici ipotesi speculative. La scienza occulta invece, investigando sulle forze sottili, ne ha definito la natura, ed il modo in cui esse esercitano la loro influenza sulla terra, il mare, le piante, gli uomini, gli animali, la mente e le emozioni.
+
+### <h3 id="revealing-hidden-causes">Revealing Hidden Causes</h3>
+
+Mediante queste conoscenze noi possiamo determinare la trama delle influenze astrologiche che agiscono su ogni individuo ed arrivare a conoscere le energie che operano nella sua vita, nonché la loro relativa forza e debolezza. Nella misura in cui siamo padroni di tali conoscenze possiamo iniziare una vera e propria opera di costruzione del carattere, essendo in grado di scegliere i momenti più favorevoli per sviluppare le qualità latenti, correggere i tratti negativi ed eliminare le tendenze di genere distruttivo. 
+
+Il valore educativo dell’Astrologia giace nella sua capacità di rivelarci le cause segrete che agiscono nella nostra vita. Essa penetra i fattori intangibili, ma pur sempre presenti e potenti: essa trascende la forma, rivela lo spirito, dimostra la realtà delle cose e copre ogni aspetto della umana esistenza. Essa consiglia l’adulto sulla professione da seguire; i genitori sul come crescere ed educare la prole; gli insegnanti sul modo di istruire gli allievi; i giudici nella pronuncia delle sentenze; i medici nella diagnosi delle malattie e, nello stesso modo, offre un aiuto a chiunque debba affrontare una determinata impresa nell’ambito della vita.
+
+L’Astrologia e l’Astronomia furono un tempo un soggetto comune perché l’intima essenza delle cose poteva essere recepita da gran parte dell’umanità. Ben diversa è stata la situazione negli ultimi due secoli, dominati dallo scetticismo e dalle conoscenze materiali offerte dall’investigazione scientifica. Noi ci siamo così allontananti dalla verità e dalla profondità di questa scienza per cui oggi viene praticata soltanto da pochi illuminati, generalmente sconosciuti. Alcuni suoi frammenti sono stati invece impugnati da ciarlatani che ne fanno uno strumento speculativo approfittando dell’ignoranza e della superstizione che alberga in coloro che hanno conoscenze in proposito.
+
+### <h3 id="ruling-our-stars">Ruling Our Stars</h3>
+
+L’Astronomia, figlia dell’Astrologia, dopo aver abbandonato la casa paterna si è avventurata in paesi lontani e proibiti, basandosi soltanto sulla forma esteriore degli oggetti e delle figure. Agendo in questo modo essa ha voltato le spalle alla sua dimora, dove un banchetto di spirituale abbondanza è preparato per festeggiare il suo eventuale ritorno. Oggi scienziati famosi stanno investigando l’influenza dei raggi cosmici sull’uomo e sullo stesso pianeta. Questo comporta un progressivo estendersi della conoscenza. La coscienza delle persone si sta rapidamente preparando a riconoscere che i corpi stellari non influiscono soltanto sulle stagioni e le maree, ma anche sulle motivazioni profonde della natura umana in quanto lo spirito in ogni uomo è assoggettato alle loro influenze. Assoggettato non significa esserne schiavo perché il destino di ogni essere umano tende al momento in cui egli potrà controllare le influenze stellari. La conoscenza delle leggi astrologiche, e l’obbedienza alle stesse, sono mezzi con cui si può raggiungere tale traguardo. Parte una nave diretta verso Est, ne parte un’altra diretta verso Ovest, mentre il vento soffia in una direzione. Cosi è l’assetto delle vele, e non il vento che determina il Paese da raggiungere.
+
+L’Astrologia è la più grande, la più sublime e la più antica di tutte le scienze. La sua origine precorre la storia, le sue tracce più antiche sembrano appartenere al tempo in cui gli Dei camminavano e parlavano con gli uomini. è infatti difficile attribuire all’umanità primitiva la grande invenzione della simbologia astrologica, universalmente riconosciuta in tutte le epoche, punto di partenza per i ricercatori di ogni Paese e religione, desiderosi di trovare una rappresentanza pittorica dell’evoluzione e dei pianeti. In essa, l’occhio esperto riesce infatti a discernere lo sviluppo e la caduta delle civiltà e il progressivo evolversi nel mondo delle filosofie e delle religioni. L’Astrologia fornisce pure la chiave affinché si possano scoprire i profondi tesori di conoscenza che sono stati racchiusi nella Bibbia e nei testi religiosi di tutto il mondo.
+
+### <h3 id="a-science-and-a-religion">A Science and a Religion</h3>
+
+L’Astrologia è nello stesso tempo una scienza, una filosofia ed una religione. Essa è metafisica, occulta e pratica. I suoi concetti basilari possono essere imparati da chiunque sia in grado di fare dei semplici calcoli matematici. Le informazioni fornite possono essere verificate nella nostra stessa vita e dimostrate inconfutabilmente vere. Ogni applicazione dei suoi principi, anche se non perfettamente compresi, non può mancare di portare la debita ricompensa.
+
+Coloro che praticano l’Astrologia possono commettere degli errori; questo dipende dalla fallibilità della natura umana. Ciò non può essere impugnato per indicare l’inesattezza dell’Astrologia, così come gli errori di un professante cristiano non possono costituire pretesto per mettere in dubbio la validità del cristianesimo, o l’esistenza del Cristo.
+
+I veri astrologhi, così come i veri santi, sono pochi e in genere poco noti. Entrambi rappresentano il frutto di molte vite spese in nobili intenti e servizio amorevole e disinteressato. Le qualità divine non maturano nei credo, ma con una vita vissuta in fraterno aiuto ed amicizia. La saggezza non viene a formarsi con le conoscenze da noi memorizzate, ma con l’estratto delle esperienze fatte nel corso di un lunghissimo periodo di tempo.
+
+Solo coloro che hanno purificato la loro natura e sensibilizzato i loro veicoli mediante una vita vissuta in purezza ed alti ideali possono ricevere e trasmutare le alte influenze spirituali che ci provengono dai corpi celesti. Lilly, una valente astrologa del 17° secolo, avendolo compreso, soleva dire ai suoi discepoli che se più pura era la loro vita, migliore sarebbe stato il loro discernimento. Mediante l’orecchio spirituale noi possiamo udire la musica delle sfere e mediante l’occhio dello spirito possiamo vedere ed interpretare le loro molteplici rivelazioni.
+
+### <h3 id="esoteric-and-exoteric">Esoteric and Exoteric</h3>
+
+L’Astrologia ampia l’orizzonte della nostra vita; si interessa di questa nostra breve esistenza prospettandola quale frammento di un tutto. Il nostro tema natale, inappropriatamente definito oroscopo, non costituisce un’azione arbitraria fattaci dal destino, ma il riscontro di azioni fatte o trascurate in passato. Esso indica le condizioni magnetiche prevalenti al momento della ‘nostra’ nascita e le prospetta quali migliori opportunità per l’acquisizione delle esperienze particolarmente indicate per l’esistenza in corso. La legge di conseguenza è la dottrina della speranza e dell’equità. Essa permette di riconoscere il presente quale conseguenza del passato e seme per il futuro. Con queste informazioni si può comprendere come carattere diventi destino.
+
+L’Astrologia, come la Religione, comprende due tipi di insegnamenti, quello exoterico (esterno) per tutti, e quello esoterico (interno) riservato a coloro che possono recepirlo. L’insegnamento exoterico riguarda gli affari essenzialmente mondani. Indica al marinaio il tempo migliore per la navigazione; agli agricoltori i tempi per la semina; ai medici le cause segrete e profonde delle malattie; agli insegnanti la natura peculiare dei loro allievi e ai genitori le innate capacità e tendenze dei loro figlioli.
+
+L’insegnamento esoterico trascende invece le necessità esteriori. Si interessa della nostra natura intima, dei veri principi vitali e della sorgente del nostro essere. Non si occupa delle temporanee vicissitudini della nostra personalità, ma delle qualità animiche e dello sviluppo spirituale. Non si interessa di ciò che accade nel mondo delle forme, ma il suo insegnamento si focalizza sulla nostra essenza divina e sui nostri intenti per acquisire sempre maggior consapevolezza della nostra unità col “Tutto” nel tempo e nello spazio. Come tale, l’Astrologia esoterica, costituisce scienza spirituale e religione universale. Solo questa scienza e questa religione possono soddisfare adeguatamente le domande poste dalla mente e dal cuore dell’umanità evolvente. 
+
+### <h3 id="charting-invisible-forces">Charting Invisible Forces</h3>
+
+Più di ogni altra scienza nel mondo odierno l’Astrologia può indurre una generazione orientata verso il materialismo a considerare i problemi dello spirito. La Scienza materiale è vittima delle limitazioni auto impostesi. La religione è ritenuta di scarso interesse perché le sue cerimonie ritenute vuote ed antiquate. L’Astrologia unisce la basi fondamentali della scienza e della religione. Si basa su dati astronomici; fornisce la mappa delle forze invisibili; essa unisce il visibile e l’invisibile, il corpo e l’anima, la forma e lo spirito.
+
+Quando lo sviluppo spirituale dell’umanità la spingerà ad investigare i misteri celesti, noi potremo aspettarci un periodo di potere e di illuminazione che la storia non ha mai annoverato. Nessun altro soggetto, nell’ambito di tutte le conoscenze umane, appare in grado di offrire, in tale epoca, l’aiuto che gli astrologi potranno fornire nell’elevare gli uomini ad un più alto senso di dignità quali cittadini del Cosmo, ad una maggiore comprensione delle leggi cosmiche ed alla consapevolezza di essere eternamente al sicuro nell’amorevole fluire della vita universale e dell’essere infinito.
