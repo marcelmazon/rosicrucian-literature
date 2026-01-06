@@ -42,17 +42,17 @@ Oceanside, California, 91054, USA
     - [La Regione Eterica del Mondo Fisico](#etheric-region-of-the-physical-world)
     - [Il Mondo del Desiderio](#the-desire-world)
     - [Il Mondo del Pensiero](#the-world-of-thought)
-    - [Diagram 1. The Material World a Reverse Reflection of the Spiritual Worlds](#diagram-1-the-material-world-a-reverse-reflection-of-the-spiritual-worlds)
-    - [Diagram 2. The Seven Worlds](#diagram-2-the-seven-worlds)
+    - [Figura A: Una Lanterna Magica](#diagram-1-the-material-world-a-reverse-reflection-of-the-spiritual-worlds)
+    - [Tavola Schematica A: I Sette Mondi](#diagram-2-the-seven-worlds)
   - [Capitolo 2°: I Quattro Regni](#chapter-2)
-    - [Diagram 3. The Vehicles of the Four Kingdoms](#diagram-3-the-vehicles-of-the-four-kingdoms)
-    - [Diagram 4. The Consciousness of the Four Kingdoms](#diagram-4-the-consciousness-of-the-four-kingdoms)
+    - [Figura B: I Quattro Regni](#diagram-3-the-vehicles-of-the-four-kingdoms)
+    - [Tavola Schematica C: Stati di Coscienza di ciascun Regno](#diagram-4-the-consciousness-of-the-four-kingdoms)
   - [Capitolo 3°: L'Uomo e il Metodo di Evoluzione](#chapter-3)
     - [Attività della Vita: La Memoria e lo Sviluppo Animico](#activities-of-life-memory-and-soul-growth)
-    - [The Constitution of the Seven-fold Man](#constitution-of-the-seven-fold-man)
-    - [Diagram 5. The Three-fold Spirit, the Three-fold Body and the Three-fold Soul](#diagram-5-the-three-fold-spirit-the-three-fold-body-and-the-three-fold-soul)
+    - [Tavola Schematica D: La Settemplice costituzione dell'uomo](#constitution-of-the-seven-fold-man)
+    - [Figura F: La decupla costituzione dell'uomo](#diagram-5-the-three-fold-spirit-the-three-fold-body-and-the-three-fold-soul)
     - [La Morte e il Purgatorio](#death-and-purgatory)
-    - [Diagram 5 1/2. The Silver Cord](#diagram-5-1-2-the-silver-cord)
+    - [Figura G: Il Cordone Argenteo](#diagram-5-1-2-the-silver-cord)
     - [Il Territorio di Confine](#the-borderland)
     - [Il Primo Cielo](#the-first-heaven)
     - [Il Secondo Cielo](#the-second-heaven)
@@ -63,7 +63,7 @@ Oceanside, California, 91054, USA
     - [Nascita del Corpo del Desiderio](#birth-of-the-desire-body)
     - [Nascita della Mente](#birth-of-the-mind)
     - [Il Sangue, Veicolo dell'Ego](#the-blood-the-vehicle-of-the-ego)
-    - [Figura: Un Ciclo della Vita](#diagram-a-life-cycle)
+    - [Figura I: Un Ciclo della Vita](#diagram-a-life-cycle)
   - [Capitolo 4°: La Reincarnazione e la Legge di Conseguenza](#chapter-4)
     - [Il Vino come Fattore di Evoluzione](#wine-as-a-factor-in-evolution)
     - [Un Racconto Notevole](#a-remarkable-story)
@@ -192,7 +192,49 @@ Oceanside, California, 91054, USA
 
 ### <h3 id="creed-or-christ">Un Dogma o il Cristo</h3>
 
-E' nemico di Dio chi odia il suo prossimo, e calpesta il cuore e l'anima del fratello. E colui che si sforza, con la minaccia dell'inferno, di paralizzare i nostri pensieri e di gettarli in profonde tenebre, non ha compreso il nostro fine ultimo. Ogni religione ci è stata rivelata da Dio. Ed è il Cristo la Via, la Verità, la Vita. Egli dona la quiete a chi è schiacciato da pesante fardello; Egli dispensa la pace a coloro che il dolore, le prove e il peccato atterrano. Per Suo volere lo Spirito del Mondo è venuto ad illuminare tutte le chiese e non una soltanto; ed è su tutti gli apostoli che nel mattino della Pentecoste la fiamma divina brillò come un'aureola. Da allora, come avvoltoi famelici e rapaci, ci siamo battuti per delle parole vuote di senso. Abbiamo mandato al rogo i nostri fratelli, in nome dei dogmi, delle credenze e delle leggi. E' dunque a due facce il Cristo? Pietro Paolo, non sono stati crocefissi per la salvazione del mondo? E allora, perché mai siamo nemici, quando l'amore del Cristo ci abbraccia tutti, voi come me? Il Suo amore, fatto di dolcezza e di tenerezza non conosce i limiti di credenze che separano e innalzano muraglie: avvolge e abbraccia tutta l'umanità; poco importa il nome che noi Gli diamo o che diamo a noi stessi. Perché, allora, non seguire la Sua parola? Perché stabilire dei dogmi che ci dividono? Non c'è che una cosa che conti: ogni cuore sia colmo dell'amore del prossimo. Una cosa sola il mondo deve conoscere; un solo balsamo per guarire da ogni nostro dolore una sola strada per condurci verso il Cielo. Questa strada è l'unione di tutti i cuori umani; questa strada è l'Amore. Poesia di Max Heindel (traduzione) 
+```
+E' nemico di Dio chi odia il suo prossimo, 
+e calpesta il cuore e l'anima del fratello. 
+E colui che si sforza, con la minaccia dell'inferno, di paralizzare i nostri pensieri e di gettarli in profonde tenebre, 
+non ha compreso il nostro fine ultimo. 
+
+Ogni religione ci è stata rivelata da Dio. 
+Ed è il Cristo la Via, la Verità, la Vita. 
+Egli dona la quiete a chi è schiacciato da pesante fardello; 
+Egli dispensa la pace a coloro che il dolore, le prove e il peccato atterrano. 
+
+Per Suo volere lo Spirito del Mondo è venuto 
+ad illuminare tutte le chiese e non una soltanto; 
+ed è su tutti gli apostoli che nel mattino della Pentecoste 
+la fiamma divina brillò come un'aureola. 
+
+Da allora, come avvoltoi famelici e rapaci, 
+ci siamo battuti per delle parole vuote di senso. 
+Abbiamo mandato al rogo i nostri fratelli, 
+in nome dei dogmi, delle credenze e delle leggi. 
+
+E' dunque a due facce il Cristo? Pietro Paolo, 
+non sono stati crocefissi per la salvazione del mondo? 
+E allora, perché mai siamo nemici, 
+quando l'amore del Cristo ci abbraccia tutti, voi come me? 
+
+Il Suo amore, fatto di dolcezza e di tenerezza non conosce i limiti
+di credenze che separano e innalzano muraglie: 
+avvolge e abbraccia tutta l'umanità; 
+poco importa il nome che noi Gli diamo o che diamo a noi stessi. 
+
+Perché, allora, non seguire la Sua parola? 
+Perché stabilire dei dogmi che ci dividono? 
+Non c'è che una cosa che conti: 
+ogni cuore sia colmo dell'amore del prossimo. 
+
+Una cosa sola il mondo deve conoscere; 
+un solo balsamo per guarire da ogni nostro dolore 
+una sola strada per condurci verso il Cielo. 
+Questa strada è l'unione di tutti i cuori umani; questa strada è l'Amore. 
+
+-- Poesia di Max Heindel (traduzione) 
+```
 
 ### <h3 id="a-word-to-the-wise">Avvertimento al Saggio</h3>
 
@@ -228,9 +270,9 @@ Durante i quattro anni trascorsi dalla redazione dei precedenti paragrafi, lo sc
 
 Se avessimo detto che il corpo vitale è costituito da prismi invece che da punti, sarebbe stato meglio perché è per la rifrazione attraverso questi minuti prismi che il fluido solare incolore si trasforma in una gradazione di rosa come altri scrittori, oltre all'autore, hanno osservato. 
 
-Sono state fatte anche altre nuove e importanti scoperte: per esempio noi sappiamo ora che il cordone argenteo si sviluppa di nuovo in ogni vita; che una parte nasce dall'atomo -seme del corpo del desiderio nel gran vortice del fegato, mentre l'altra parte si sviluppa dall'atomo -seme del corpo denso nel cuore. Entrambe le parti si incontrano nell'atomo -seme del corpo vitale nel plesso solare che unisce i veicoli superiori al veicolo inferiore, causando i movimenti del feto. L'ulteriore sviluppo del cordone argenteo fra il cuore ed il plesso solare durante i primi sette anni ha una relazione importante col mistero della vita infantile, come il suo più completo sviluppo dal fegato al plesso solare, che ha luogo nel secondo settenario, contribuisce al lavoro dell'adolescenza. Il completamento del cordone argenteo segna la fine della fanciullezza e da quel tempo l'energia solare che penetra attraverso la milza ed è colorata mediante la rifrazione dell'atomo - seme prismatico del corpo vitale collocato nel plesso solare, comincia a dare una distinta e individuale colorazione all'aura che osserviamo negli adulti 1. 
+Sono state fatte anche altre nuove e importanti scoperte: per esempio noi sappiamo ora che il cordone argenteo si sviluppa di nuovo in ogni vita; che una parte nasce dall'atomo -seme del corpo del desiderio nel gran vortice del fegato, mentre l'altra parte si sviluppa dall'atomo -seme del corpo denso nel cuore. Entrambe le parti si incontrano nell'atomo -seme del corpo vitale nel plesso solare che unisce i veicoli superiori al veicolo inferiore, causando i movimenti del feto. L'ulteriore sviluppo del cordone argenteo fra il cuore ed il plesso solare durante i primi sette anni ha una relazione importante col mistero della vita infantile, come il suo più completo sviluppo dal fegato al plesso solare, che ha luogo nel secondo settenario, contribuisce al lavoro dell'adolescenza. Il completamento del cordone argenteo segna la fine della fanciullezza e da quel tempo l'energia solare che penetra attraverso la milza ed è colorata mediante la rifrazione dell'atomo - seme prismatico del corpo vitale collocato nel plesso solare, comincia a dare una distinta e individuale colorazione all'aura che osserviamo negli adulti (1). 
 
-1 Investigazioni successive di Max Heindel hanno appurato che il cordone argenteo è suddiviso in tre parti: un segmento è composto di etere, un altro di sostanza del desiderio e il terzo di sostanza mentale. Questi segmenti sono uniti agli atomi-seme dei relativi corpi. (Ved. la figura h a pag. 45). 
+() - (1) Investigazioni successive di Max Heindel hanno appurato che il cordone argenteo è suddiviso in tre parti: un segmento è composto di etere, un altro di sostanza del desiderio e il terzo di sostanza mentale. Questi segmenti sono uniti agli atomi-seme dei relativi corpi. (Ved. la figura h a pag. 45). 
 
 <h2 id="part-1">Sezione I: La Costituzione Attuale dell'Uomo ed il Metodo di Sviluppo</h2>
 
@@ -264,7 +306,9 @@ Se, tuttavia, per il loro studio e la loro esperienza, essi sono giudicati idone
 
 La testimonianza irrefutabile di tale persona vale più di quella di una dozzina o di un milione di altri uomini che non sanno quello che si dicono, perché lo zero, anche se moltiplicato per un milione, rimane ancora zero. E ciò è vero non solo in matematica, ma per qualsiasi altro argomento. 
 
-Come abbiamo già detto, questi fatti vengono ammessi senza difficoltà nelle questioni di natura materiale, ma quando si tratta di cose che esorbitano dal mondo del senso, quando il mondo superfisico è in discussione, quando le relazioni di Dio con l'uomo, i più segreti misteri dell'immortale scintilla divina, comunemente detta anima, debbono essere provati, allora tutti reclamano a gran voce perché le loro opinioni e idee su questioni spirituali vengano prese in così seria considerazione come quelle del saggio che ha impiegato tutta una vita in pazienti e faticose ricerche per acquisire conoscenza intorno a questi argomenti trascendentali. Più ancora, molti non si contenteranno neppure di reclamare uguale considerazione per le loro opinioni, ma pretenderanno anche di deridere le parole del saggio, d'infirmare la sua testimonianza dichiarandola fraudolenta e di assicurare con la suprema fiducia della più profonda ignoranza, che siccome essi nulla sanno di tali cose, è impossibile che nessun altro possa saperne. 
+Come abbiamo già detto, questi fatti vengono ammessi senza difficoltà nelle questioni di natura materiale, ma quando si tratta di cose che esorbitano dal mondo del senso, quando il mondo superfisico è in discussione, quando le relazioni di Dio con l'uomo, i più segreti misteri dell'immortale scintilla divina, comunemente detta anima, debbono essere provati, allora tutti reclamano a gran voce perché le loro opinioni e idee su questioni spirituali vengano prese in così seria considerazione come quelle del saggio che ha impiegato tutta una vita in pazienti e faticose ricerche per acquisire conoscenza intorno a questi argomenti trascendentali. 
+
+Più ancora, molti non si contenteranno neppure di reclamare uguale considerazione per le loro opinioni, ma pretenderanno anche di deridere le parole del saggio, d'infirmare la sua testimonianza dichiarandola fraudolenta e di assicurare con la suprema fiducia della più profonda ignoranza, che siccome essi nulla sanno di tali cose, è impossibile che nessun altro possa saperne. 
 
 L'uomo che riconosce la propria ignoranza ha già fatto il primo passo verso la conoscenza. 
 
@@ -288,9 +332,7 @@ Il giovane rispose senza esitare: « Aria, aria; desideravo l'aria! ».
 
 Questo è il primo, basilare requisito che deve possedere l'aspirante alla sapienza occulta; egli deve avere un fermo desiderio, una sete ardente di sapere, uno zelo che non si lascia vincere da nessun ostacolo; ma il motivo supremo per la ricerca di questo sapere occulto deve essere l'ardente aspirazione di beneficare l'umanità, e di lavorare per gli altri nel completo oblio di sé. Se non viene ricercato per questo motivo, il sapere occulto riesce dannoso. 
 
-Senza possedere queste due qualità - specialmente l'ultima (l'altruismo) - almeno in una certa misura, ogni tentativo di calcare l'arduo sentiero dell'occultismo sarebbe impresa arrischiata. Un'altra condizione è tuttavia richiesta per acquisire la conoscenza diretta: occorre aver appreso i primi elementi della dottrina occulta. 
-
-Alcuni poteri occulti sono indispensabili per l'investigazione diretta delle condizioni anteriori alla nascita e posteriori alla morte dell'uomo, ma nessuno deve disperare di acquistare tali cognizioni per non aver ancora sviluppato poteri occulti. Come l'uomo può imparare molte cose sull'Africa senza esserci andato personalmente, leggendo le descrizioni degli esploratori che vi sono stati, così egli può visitare i regni superfisici, se ha acquistato il potere di farlo, o può leggere frattanto ciò che altri, in possesso di tale potere, hanno riferito come risultato della loro investigazione. 
+Senza possedere queste due qualità - specialmente l'ultima (l'altruismo) - almeno in una certa misura, ogni tentativo di calcare l'arduo sentiero dell'occultismo sarebbe impresa arrischiata. Un'altra condizione è tuttavia richiesta per acquisire la conoscenza diretta: occorre aver appreso i primi elementi della dottrina occulta.  Alcuni poteri occulti sono indispensabili per l'investigazione diretta delle condizioni anteriori alla nascita e posteriori alla morte dell'uomo, ma nessuno deve disperare di acquistare tali cognizioni per non aver ancora sviluppato poteri occulti. Come l'uomo può imparare molte cose sull'Africa senza esserci andato personalmente, leggendo le descrizioni degli esploratori che vi sono stati, così egli può visitare i regni superfisici, se ha acquistato il potere di farlo, o può leggere frattanto ciò che altri, in possesso di tale potere, hanno riferito come risultato della loro investigazione. 
 
 Il Cristo disse: « La verità vi farà liberi », ma la verità non si trova una volta per sempre. La verità è eterna ed anche la sua ricerca deve essere eterna. L'occultismo non conosce alcuna fede rivelata una volta per tutte. Ci sono alcune verità basilari che persistono ma che possono essere osservate sotto diversi aspetti, ciascuno dei quali offre una visione differente che completa le precedenti; così per quello che noi possiamo vedere attualmente, non è possibile arrivare alla verità definitiva. 
 
@@ -340,33 +382,29 @@ Avendo così veduto quanto sia ragionevole asserire che tali Mondi esistono ed e
 
 Secondo l'insegnamento dei Rosacroce l'Universo è diviso in sette Mondi differenti, o stati di materia, come segue: 
 
+```
 1. Mondo di Dio. 
-
 2. Mondo degli Spiriti Vergini. 
-
 3. Mondo dello Spirito Divino. 
-
 4. Mondo dello Spirito Vitale. 
-
 5. Mondo del Pensiero. 
-
 6. Mondo del Desiderio. 
-
 7. Mondo Fisico. 
+```
 
 Questa divisione non è arbitraria; ma necessaria, perché la sostanza di ognuno di questi Mondi è sottoposta a leggi che sono praticamente inoperose negli altri. Per esempio, nel Mondo Fisico la materia è soggetta alla gravità e ai fenomeni ai contrazione ed espansione. Nel Mondo del Desiderio non esiste né caldo né freddo, e le forme levitano, altrettanto facilmente di come gravitano. Anche tempo e distanza sono fattori che governano l'esistenza nel Mondo Fisico, ma nel Mondo del Desiderio essi sono quasi inesistenti. 
 
 La materia di questi Mondi varia anche per densità, ed il Mondo Fisico è il più denso dei sette. 
 
-Ciascun Mondo è diviso in sette regioni o suddivisioni di materia. Nel Mondo Fisico i solidi, i liquidi ed i gas formano le tre più dense suddivisioni; le quattro rimanenti sono formate da eteri di diversa densità. Analoghe suddivisioni sono necessarie negli altri Mondi, perché la materia dalla quale sono formati non è di densità uniforme. 
+Ciascun Mondo è diviso in sette regioni o suddivisioni di materia.
+
+Nel Mondo Fisico i solidi, i liquidi ed i gas formano le tre più dense suddivisioni; le quattro rimanenti sono formate da eteri di diversa densità. Analoghe suddivisioni sono necessarie negli altri Mondi, perché la materia dalla quale sono formati non è di densità uniforme. 
 
 Vi sono ancora due distinzioni da fare. Le tre suddivisioni dense del Mondo Fisico - i solidi, i liquidi ed i gas - costituiscono quella che viene detta Regione Chimica. La sostanza di questa Regione è la base di tutte le forme dense. 
 
 Anche l'Etere è materia fisica. Non è omogeneo come dichiara la scienza materialista, ma esiste in quattro stati differenti. E' grazie ad esso che lo Spirito vitalizza le Forme nella Regione Chimica. Le quattro più sottili o eteriche suddivisioni del Mondo Fisico costituiscono ciò che chiamiamo Regione Eterica. 
 
-Nel Mondo del Pensiero le tre più elevate suddivisioni sono la base del pensiero astratto e perciò esse sono collericamente chiamate Regione del Pensiero Astratto. 
-
-Le quattro più dense forniscono la « sostanza mentale » per mezzo della quale diamo corpo alle nostre idee e le concretiamo; esse vengono quindi indicate col nome di Regione del Pensiero Concreto. 
+Nel Mondo del Pensiero le tre più elevate suddivisioni sono la base del pensiero astratto e perciò esse sono collericamente chiamate Regione del Pensiero Astratto.  Le quattro più dense forniscono la « sostanza mentale » per mezzo della quale diamo corpo alle nostre idee e le concretiamo; esse vengono quindi indicate col nome di Regione del Pensiero Concreto. 
 
 L'attenzione consacrata dall'occultista al Mondo Fisico potrebbe apparire superflua se non fosse per il fatto che egli considera tutte le cose da un punto di vista completamente diverso da quello del materialista. Questi riconosce tre stati della materia: solido, liquido e gassoso. Questi sono tutti corpi chimici derivanti dagli elementi chimici che costituiscono la Terra. Da questa materia chimica tutte le forme dei minerali, delle piante, degli animali e dell'uomo sono state costruite, perciò esse sono effettivamente chimiche come lo sono le sostanze chiamate comunemente in tal modo. Così, se noi consideriamo la montagna o la nuvola che avvolge la sua cima il succo della pianta o il sangue dell'animale, la tela del ragno, l'ala della farfalla o le ossa dell'elefante, l'aria che respiriamo o l'acqua che beviamo ogni cosa si compone della stessa materia chimica. 
 
@@ -388,13 +426,9 @@ Ciò è ugualmente applicabile a tutte le condizioni della vita - sociale, comme
 
 Non appena penetriamo in questo regno della natura, ci troviamo nel Mondo invisibile ed intangibile dove i sensi ordinari non servono più. Perciò questa parte del Mondo Fisico è pratica inesplorata dalla scienza materiale. 
 
-L'aria è invisibile, tuttavia la scienza moderna sa che essa esiste. 
+L'aria è invisibile, tuttavia la scienza moderna sa che essa esiste.  Mediante strumenti adatti si può misurare la sua velocità come vento, comprimendola si può renderla visibile come aria liquida. Con l'etere la cosa non è altrettanto facile. La scienza materiale trova necessario spiegare in qualche modo la trasmissione dell'elettricità con o senza fili. Con essa e obbligata a postulare una sostanza più fine di quelle note e chiama questa sostanza etere. La scienza non sa realmente se etere esista, perché l'ingegnosità degli scienziati non è ancora riuscita ad escogitare un recipiente nel quale sia possibile chiudere questa sostanza troppo esclusiva per il comodo del « mago del laboratorio ». Questi non può misurarla, né pesarla né analizzarla con alcuno dei mezzi oggi a sua disposizione. 
 
-Mediante strumenti adatti si può misurare la sua velocità come vento, comprimendola si può renderla visibile come aria liquida. Con l'etere la cosa non è altrettanto facile. La scienza materiale trova necessario spiegare in qualche modo la trasmissione dell'elettricità con o senza fili. Con essa e obbligata a postulare una sostanza più fine di quelle note e chiama questa sostanza etere. La scienza non sa realmente se etere esista, perché l'ingegnosità degli scienziati non è ancora riuscita ad escogitare un recipiente nel quale sia possibile chiudere questa sostanza troppo esclusiva per il comodo del « mago del laboratorio ». Questi non può misurarla, né pesarla né analizzarla con alcuno dei mezzi oggi a sua disposizione. 
-
-In verità le realizzazioni della scienza moderna sono meravigliose. 
-
-Tuttavia il miglior modo per apprendere i segreti della natura non consiste nell'inventare apparecchi, ma nel migliorare lo stesso osservatore. L'uomo ha in sé delle facoltà che eliminano la distanza e compensano la sua esiguità. Queste facoltà superano in potenza il telefono, il microscopio e il telescopio, quanto quest'ultimo supera quella dell'occhio nudo. Esse costituiscono i mezzi di investigazione usati dagli occultisti. Sono il loro « apriti sesamo » nella ricerca della verità. 
+In verità le realizzazioni della scienza moderna sono meravigliose. Tuttavia il miglior modo per apprendere i segreti della natura non consiste nell'inventare apparecchi, ma nel migliorare lo stesso osservatore. L'uomo ha in sé delle facoltà che eliminano la distanza e compensano la sua esiguità. Queste facoltà superano in potenza il telefono, il microscopio e il telescopio, quanto quest'ultimo supera quella dell'occhio nudo. Esse costituiscono i mezzi di investigazione usati dagli occultisti. Sono il loro « apriti sesamo » nella ricerca della verità. 
 
 Per l'esercitato chiaroveggente l'etere è tanto tangibile quanto lo sono i solidi, i liquidi e i gas della Regione Chimica per un uomo ordinario. Egli vede che le forze che danno vita alle forme minerali, vegetali, animali ed umane fluiscono in queste forme per mezzo dei quattro stati dell'etere. I nomi e le funzioni specifiche di questi quattro eteri sono: 
 
@@ -486,7 +520,9 @@ Come le linee di forza permeano l'acqua, il Mondo Fisico è permeato dal Mondo d
 
 Anche il Mondo del Pensiero è costituito da sette regioni di diversa qualità e densità e, come il Mondo Fisico, il Mondo del Pensiero si divide in due sezioni principali: la Regione del Pensiero Concreto, comprendente le quattro suddivisioni più dense e la Regione del Pensiero Astratto che comprende le tre suddivisioni di sostanza più sottile. Il Mondo del Pensiero è quello centrale dei cinque Mondi dai quali l'uomo trae i suoi veicoli. Qui s'incontrano Spirito e corpo. E' anche il più alto dei tre Mondi nei quali l'evoluzione dell'uomo sta procedendo attualmente, perché fino a questo momento non abbiamo praticamente alcuna relazione con i due Mondi superiori. 
 
-Sappiamo che i materiali della Regione Chimica sono usati nella costruzione di tutte le forme fisiche. Queste forme acquistano vita e potere di muoversi per mezzo delle forze operanti nella Regione Eterica, ed alcune di queste forme viventi sono spinte all'azione dai sentimenti gemelli del Mondo del Desiderio. La Regione del Pensiero Concreto fornisce la materia mentale destinata a rivestire le idee che si generano nella Regione del Pensiero Astratto e che così concretizzate, diventano forme-pensiero. Queste agiscono come regolatori e come meccanismo equilibratore sugl'impulsi generati nel Mondo del Desiderio dai contatti col mondo fenomenico (fisico). 
+Sappiamo che i materiali della Regione Chimica sono usati nella costruzione di tutte le forme fisiche. Queste forme acquistano vita e potere di muoversi per mezzo delle forze operanti nella Regione Eterica, ed alcune di queste forme viventi sono spinte all'azione dai sentimenti gemelli del Mondo del Desiderio. 
+
+La Regione del Pensiero Concreto fornisce la materia mentale destinata a rivestire le idee che si generano nella Regione del Pensiero Astratto e che così concretizzate, diventano forme-pensiero. Queste agiscono come regolatori e come meccanismo equilibratore sugl'impulsi generati nel Mondo del Desiderio dai contatti col mondo fenomenico (fisico). 
 
 Vediamo così come i tre Mondi nei quali l'uomo attualmente si evolve, si completano l'uno con l'altro, costituendo un tutto che mostra la Suprema Sapienza del Grande Architetto del Sistema al quale apparteniamo e che noi adoriamo col santo nome di Dio. 
 
@@ -494,19 +530,13 @@ Esaminando più particolarmente le diverse suddivisioni della Regione del Pensie
 
 Quando noi parliamo degli archetipi di tutte le differenti forme esistenti nel Mondo Fisico, non si deve pensare che essi siano semplicemente modelli, nello stesso senso di un oggetto costruito in piccolo o in un materiale diverso da quello idoneo per il suo specifico uso finale. Essi non sono semplicemente somiglianze delle forme che ci circondano; essi sono archetipi creativi, modellano cioè le forme del Mondo Fisico secondo la loro o le loro immagini - poiché spesso molti agiscono insieme onde formare determinate specie - e ciascun archetipo dà parte di se stesso per costruire la forma richiesta. 
 
-La seconda suddivisione della Regione del Pensiero Concreto è detta « regione Oceanica ». Essa è meglio descritta come vitalità fluente e pulsante. Tutte le forze che agiscono attraverso i quattro eteri che costituiscono la Regione Eterica si possono ritrovare in questa regione come archetipi. E' una corrente di vita fluente, che pulsa attraverso tutte le forme, come il sangue pulsa attraverso il corpo. Qui il chiaroveggente esperto può rendersi conto come sia vero che ''tutta la Vita è Una'' . 
+La seconda suddivisione della Regione del Pensiero Concreto è detta « regione Oceanica ». Essa è meglio descritta come vitalità fluente e pulsante. Tutte le forze che agiscono attraverso i quattro eteri che costituiscono la Regione Eterica si possono ritrovare in questa regione come archetipi. E' una corrente di vita fluente, che pulsa attraverso tutte le forme, come il sangue pulsa attraverso il corpo. Qui il chiaroveggente esperto può rendersi conto come sia vero che "tutta la Vita è Una". 
 
 La « regione Aerea » è la terza suddivisione della Regione del Pensiero Concreto. Si trovano qui gli archetipi dei desideri, delle passioni, dei sentimenti e delle emozioni, che noi sperimentiamo nel Mondo del Desiderio. Qui tutte le attività del Mondo del Desiderio appaiono come condizioni atmosferiche. Le sensazioni di piacere e di gioia arrivano ai sensi del chiaroveggente come la carezza della brezza estiva; le aspirazioni dell'anima sono come il sospirare del vento fra le cime degli alberi, e vampe lampeggianti sembrano le passioni delle nazioni in guerra. Le emozioni dell'uomo e degli animali sono ugualmente riprodotte nell'atmosfera di questa regione. 
 
-La « regione delle Forze Archetipe » è la quarta suddivisione della Regione del Pensiero Concreto. 
+La « regione delle Forze Archetipe » è la quarta suddivisione della Regione del Pensiero Concreto.  E' la regione centrale e la più importante nei cinque Mondi in cui si svolge l'intera evoluzione umana. Da una parte di questa regione ci sono le tre regioni superiori del Mondo del Pensiero, il Mondo dello Spirito Vitale ed il Mondo dello Spirito Divino. Dall'altra parte ci sono le tre regioni più basse del Mondo del Pensiero, il Mondo del Desiderio e il Mondo Fisico. Questa regione è quindi una specie di « frontiera » fra i Regni Spirituali e i Mondi della forma. E' il punto focale attraverso il quale lo Spirito si riflette nella materia. 
 
-Figura A: UNA LANTERNA MAGICA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-E' la regione centrale e la più importante nei cinque Mondi in cui si svolge l'intera evoluzione umana. Da una parte di questa regione ci sono le tre regioni superiori del Mondo del Pensiero, il Mondo dello Spirito Vitale ed il Mondo dello Spirito Divino. Dall'altra parte ci sono le tre regioni più basse del Mondo del Pensiero, il Mondo del Desiderio e il Mondo Fisico. Questa regione è quindi una specie di « frontiera » fra i Regni Spirituali e i Mondi della forma. E' il punto focale attraverso il quale lo Spirito si riflette nella materia. 
-
-Come è indicato anche dal nome, questa regione è la dimora delle forze archetipe che dirigono le attività degli archetipi nella Regione del Pensiero Concreto. Da questa regione lo Spirito agisce sulla materia per darle le forme più svariate. La figura 1 mette in evidenza il fatto che la personalità è l'immagine riflessa dello Spirito, attraverso la lente della Mente. 
-
-La quinta regione del Mondo del Pensiero, che è la più vicina al punto focale dal lato spirituale, si riflette nella terza regione, che è la più vicina al punto focale dal lato della Forma. La sesta regione si riflette nella seconda e la settima nella prima. 
+Come è indicato anche dal nome, questa regione è la dimora delle forze archetipe che dirigono le attività degli archetipi nella Regione del Pensiero Concreto. Da questa regione lo Spirito agisce sulla materia per darle le forme più svariate. La figura 1 mette in evidenza il fatto che la personalità è l'immagine riflessa dello Spirito, attraverso la lente della Mente.  La quinta regione del Mondo del Pensiero, che è la più vicina al punto focale dal lato spirituale, si riflette nella terza regione, che è la più vicina al punto focale dal lato della Forma. La sesta regione si riflette nella seconda e la settima nella prima. 
 
 L'intera Regione del Pensiero Astratto si riflette nel Mondo del Desiderio; il Mondo dello Spirito Vitale nella Regione Eterica del Mondo Fisico, e il Mondo dello Spirito Divino nella Regione Chimica del Mondo Fisico. 
 
@@ -516,25 +546,27 @@ Usiamo una spugna sferica per rappresentare la terra densa, cioè la Regione Chi
 
 Immaginiamo poi spugna e sabbia immerse in un vaso sferico di vetro pieno di acqua limpida e un poco più grande della spugna ricoperta di sabbia e poniamola al centro del vaso, come il tuorlo è posto nel centro di un uovo. Noi abbiamo ora uno spazio pieno di limpida acqua fra la sabbia ed il vaso. L'acqua nel suo insieme rappresenterà il Mondo del Desiderio, perché proprio come l'acqua filtra fra i granelli della sabbia, attraversa tutti i pori della spugna e forma quel limpido strato esterno, così il corpo del desiderio permea sia la terra densa che l'etere e si estende oltre ambedue queste sostanze. 
 
-Sappiamo che c'è dell'aria nell'acqua e se pensiamo all'aria nell'acqua (nel nostro esempio) come raffigurante il Mondo del Pensiero, avremo una buona immagine mentale di come il Mondo del Pensiero, che è più fine e più sottile, interpenetra i due Mondi più densi. Finalmente, immaginiamo che il vaso contenente la spugna, la sabbia e l'acqua, sia collocato al centro di un recipiente sferico più grande; allora l'aria che riempie lo spazio fra i due vasi rappresenterà quella parte del Mondo del Pensiero che si estende al di là del Mondo del Desiderio. 
+Sappiamo che c'è dell'aria nell'acqua e se pensiamo all'aria nell'acqua (nel nostro esempio) come raffigurante il Mondo del Pensiero, avremo una buona immagine mentale di come il Mondo del Pensiero, che è più fine e più sottile, interpenetra i due Mondi più densi. 
+
+Finalmente, immaginiamo che il vaso contenente la spugna, la sabbia e l'acqua, sia collocato al centro di un recipiente sferico più grande; allora l'aria che riempie lo spazio fra i due vasi rappresenterà quella parte del Mondo del Pensiero che si estende al di là del Mondo del Desiderio. 
 
 Ognuno dei pianeti del nostro sistema solare possiede tre simili Mondi che si interpenetrano, e se noi pensiamo a ciascuno dei pianeti che consistono di tre Mondi, come a singole spugne ed al quarto Mondo, il Mondo dello Spirito Vitale, come se fosse l'acqua in un grande vaso dove queste triplici spugne fossero immerse, noi comprendiamo che, come l'acqua nel vaso riempie lo spazio fra le spugne e filtra attraverso di esse, così il Mondo dello Spirito Vitale pervade lo spazio interplanetario ed interpenetra i singoli pianeti. Esso forma un vincolo comune fra loro, così come è necessario possedere una nave e saperla dirigere se desideriamo andare dall'America all'Africa, così è necessario possedere un veicolo adatto nel Mondo dello Spirito Vitale e saperlo scientemente controllare per poter viaggiare da un pianeta all'altro. 
 
 In modo analogo a quello col quale il Mondo dello Spirito Vitale ci mette in relazione con gli altri pianeti del nostro sistema solare, il Mondo dello Spirito Divino ci mette in relazione con gli altri sistemi solari. Noi possiamo considerare i sistemi solari come spugne separate immerse nel Mondo dello Spirito Divino, e così ci sarà chiaro che, per viaggiare da un sistema solare all'altro, sarebbe necessario saper funzionare coscientemente nel più alto veicolo dell'uomo, quello dello Spirito Divino. 
 
-Tavola Schematica A: I Sette Mondi!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 ### <h3 id="chapter-2">Capitolo 2°: I Quattro Regni</h3>
 
-I tre Mondi del nostro pianeta sono attualmente il campo di evoluzione per un certo numero di differenti regni di vita giunti a diversi stadi di sviluppo. Solo quattro di questi ci riguardano ora, e cioè i regni minerale, vegetale, animale e umano. Questi quattro regni sono in rapporto con i tre Mondi in modi diversi, secondo il progresso che questi gruppi di vita in evoluzione hanno fatto alla scuola dell'esperienza. Per quello che si riferisce alla forma, i corpi densi di tutti i regni sono composti delle medesime sostanze: solidi, liquidi e gas della Regione Chimica. 
+I tre Mondi del nostro pianeta sono attualmente il campo di evoluzione per un certo numero di differenti regni di vita giunti a diversi stadi di sviluppo. Solo quattro di questi ci riguardano ora, e cioè i regni minerale, vegetale, animale e umano. 
 
-Il corpo denso di un uomo è veramente un composto chimico quanto lo è la pietra, sebbene quest'ultima sia animata solo da vita minerale. Ma, anche parlando dal solo punto di vista fisico, lasciando da parte per ora tutte le altre considerazioni, molte e importanti sono le differenze fra il corpo denso dell'essere umano e il minerale della terra. L'uomo si muove, cresce e propaga la sua specie; il minerale al suo stato nativo non fa nessuna di queste cose. 
+Questi quattro regni sono in rapporto con i tre Mondi in modi diversi, secondo il progresso che questi gruppi di vita in evoluzione hanno fatto alla scuola dell'esperienza. Per quello che si riferisce alla forma, i corpi densi di tutti i regni sono composti delle medesime sostanze: solidi, liquidi e gas della Regione Chimica.  Il corpo denso di un uomo è veramente un composto chimico quanto lo è la pietra, sebbene quest'ultima sia animata solo da vita minerale. Ma, anche parlando dal solo punto di vista fisico, lasciando da parte per ora tutte le altre considerazioni, molte e importanti sono le differenze fra il corpo denso dell'essere umano e il minerale della terra. L'uomo si muove, cresce e propaga la sua specie; il minerale al suo stato nativo non fa nessuna di queste cose. 
 
 Paragonando l'uomo con le forme del regno vegetale, noi troviamo che, tanto la pianta quanto l'uomo possiedono un corpo denso, capace di sviluppo e di propagazione. Ma l'uomo possiede facoltà che il vegetale non ha. Egli sente, ha il potere di muoversi, e la facoltà di percepire le cose al di fuori di sé. 
 
 Se noi compariamo l'uomo con l'animale, vediamo che l'uno e l'altro hanno le facoltà di sentire, di muoversi, di crescere, di propagarsi e la percezione dei sensi. In più l'uomo possiede la facoltà di parlare, una struttura superiore del cervello e infine le mani, che costituiscono un grandissimo vantaggio fisico. Notiamo in modo particolare la conformazione del pollice, che rende la mano molto più efficiente di quella degli antropoidi. L'uomo ha anche sviluppato un determinato linguaggio mediante il quale esprime i suoi sentimenti e pensieri, e tutto ciò pone il corpo denso dell'essere umano in una classe a sé al di sopra dei tre regni inferiori. 
 
-Onde spiegare tali differenze nei quattro regni, noi dobbiamo passare nei Mondi invisibili e cercarvi le cause che danno ad un regno quello che è negato all'altro. Per funzionare in qualunque Mondo ed esprimere le qualità che ad esso sono peculiari, dobbiamo per prima cosa possedere un veicolo fatto dei suoi materiali. Per funzionare nel Mondo Fisico denso, è necessario avere un corpo denso, adatto al nostro ambiente. Altrimenti saremmo come fantasmi, e invisibili alla maggior parte degli esseri fisici. Così dobbiamo possedere un corpo vitale prima di poter manifestare la vita, crescere od esternare le altre qualità inerenti alla Regione Eterica. 
+Onde spiegare tali differenze nei quattro regni, noi dobbiamo passare nei Mondi invisibili e cercarvi le cause che danno ad un regno quello che è negato all'altro. 
+
+Per funzionare in qualunque Mondo ed esprimere le qualità che ad esso sono peculiari, dobbiamo per prima cosa possedere un veicolo fatto dei suoi materiali. Per funzionare nel Mondo Fisico denso, è necessario avere un corpo denso, adatto al nostro ambiente. Altrimenti saremmo come fantasmi, e invisibili alla maggior parte degli esseri fisici. Così dobbiamo possedere un corpo vitale prima di poter manifestare la vita, crescere od esternare le altre qualità inerenti alla Regione Eterica. 
 
 Per mostrare sentimento ed emozione, è necessario avere un corpo formato della materia del Mondo del Desiderio; ed una mente formata della sostanza della Regione del Pensiero Concreto, è necessaria per poter pensare. 
 
@@ -546,13 +578,13 @@ I cultori di occultismo sanno che questo è vero per la Regione Chimica e che il
 
 Se noi consideriamo i rapporti dei vegetali, degli animali e dell'uomo con la Regione Eterica, notiamo che ciascuno ha un corpo vitale separato, oltre ad essere penetrato dall'etere planetario, il quale forma questa Regione. Tuttavia esiste una differenza fra il corpo vitale della pianta e il corpo vitale dell'animale e dell'uomo. Nel corpo vitale della pianta sono completamente attivi soltanto gli eteri chimico e vitale. Perciò la pianta può crescere per mezzo dell'azione dell'etere chimico, e può propagare la sua specie per mezzo dell'attività dell'etere vitale del corpo vitale separato che essa possiede. L'etere luminoso è presente, ma è parzialmente latente o inattivo, e l'etere riflettore è mancante. E' quindi evidente che le facoltà della percezione sensibile e della memoria, che costituiscono le qualità di questi due eteri, non possono essere espresse dal regno vegetale. 
 
-Figura B: I QUATTRO REGNI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Volgendo la nostra attenzione al corpo vitale dell'animale, noi troviamo che in esso gli eteri chimico vitale e luminoso sono dinamicamente attivi. Perciò l'animale possiede le facoltà di assimilazione e di sviluppo, prodotte dalle attività dell'etere chimico, e la facoltà di propagazione dovuta all'etere vitale; ciò analogamente alle piante. Ma inoltre, in conseguenza dell'azione dell'etere luminoso, l'animale ha la facoltà di produrre il calore interno ed ha la percezione sensibile. Tuttavia il quarto etere è inattivo nell'animale e perciò esso non possiede né pensiero né memoria. Vedremo in seguito come ciò che può sembrare tale, sia di diversa natura. 
 
 Se analizziamo l'essere umano troviamo che in lui tutti i quattro eteri sono dinamicamente attivi nel suo corpo vitale altamente organizzato. Per mezzo delle attività dell'etere chimico, l'uomo può assimilare il cibo e svilupparsi; le forze che operano nell'etere vitale lo rendono atto alla propagazione della specie; le forze dell'etere luminoso forniscono il corpo denso di calore, stimolano il sistema nervoso ed i muscoli, aprendo così le porte di comunicazione col mondo esterno per la via dei sensi, e l'etere riflettore permette allo Spirito di controllare i suoi veicoli per mezzo del pensiero. Quest'etere accumula inoltre le esperienze passate costituendo così la memoria. 
 
-Il corpo vitale della pianta, dell'animale e dell'uomo si estende al di là della periferia del corpo denso, come la regione eterica, che è il corpo vitale del nostro pianeta, si estende al di là della sua parte densa, dimostrando ancora una volta la verità dell'assioma ermetico: « Come in alto così in basso ». L'estensione del corpo vitale dell'uomo oltre il suo corpo fisico è di circa quattro centimetri. La parte che eccede il corpo denso è molto luminosa ed ha approssimativamente il colore dei fiori di pesco appena sbocciati. E' sovente visibile anche da persone che posseggono una lieve chiaroveggenza involontaria. L'autore si è accorto, parlando con tali persone, che esse non avevano coscienza di vedere qualcosa d'insolito, e non sapevano che cosa vedevano. Il corpo fisico è costruito nella matrice di questo corpo vitale durante la vita prenatale: e, con una sola eccezione, ne è la copia esatta, molecola per molecola. Come le linee di forza dell'acqua che gela sono le vie di formazione dei cristalli di ghiaccio, così le linee di forza del corpo vitale determinano la forma del corpo denso. Durante tutto il corso della vita, il corpo vitale è il costruttore e il restauratore della forma densa. Senza l'attività del cuore eterico, il cuore denso si spezzerebbe rapidamente sotto lo sforzo costante cui è sottoposto. Tutti gli abusi ai quali noi assoggettiamo il corpo fisico sono neutralizzati, per quanto è in suo potere, dal corpo vitale, che combatte senza posa contro la morte del corpo fisico. 
+Il corpo vitale della pianta, dell'animale e dell'uomo si estende al di là della periferia del corpo denso, come la regione eterica, che è il corpo vitale del nostro pianeta, si estende al di là della sua parte densa, dimostrando ancora una volta la verità dell'assioma ermetico: « Come in alto così in basso ». L'estensione del corpo vitale dell'uomo oltre il suo corpo fisico è di circa quattro centimetri. La parte che eccede il corpo denso è molto luminosa ed ha approssimativamente il colore dei fiori di pesco appena sbocciati. E' sovente visibile anche da persone che posseggono una lieve chiaroveggenza involontaria. L'autore si è accorto, parlando con tali persone, che esse non avevano coscienza di vedere qualcosa d'insolito, e non sapevano che cosa vedevano. 
+
+Il corpo fisico è costruito nella matrice di questo corpo vitale durante la vita prenatale: e, con una sola eccezione, ne è la copia esatta, molecola per molecola. Come le linee di forza dell'acqua che gela sono le vie di formazione dei cristalli di ghiaccio, così le linee di forza del corpo vitale determinano la forma del corpo denso. Durante tutto il corso della vita, il corpo vitale è il costruttore e il restauratore della forma densa. Senza l'attività del cuore eterico, il cuore denso si spezzerebbe rapidamente sotto lo sforzo costante cui è sottoposto. Tutti gli abusi ai quali noi assoggettiamo il corpo fisico sono neutralizzati, per quanto è in suo potere, dal corpo vitale, che combatte senza posa contro la morte del corpo fisico. 
 
 La sola eccezione menzionata sopra consiste nel fatto che il corpo vitale di un uomo è femminile, o negativo, mentre quello di una donna è maschile, o positivo. Troviamo in ciò la spiegazione a molti problemi imbarazzanti della vita. Che la donna si abbandoni alle sue emozioni, è dovuto alla polarità cui si è accennato, poiché il suo corpo vitale positivo produce un eccesso di sangue e la costringe ad agire sotto l'effetto di un'enorme pressione interna, che infrangerebbe la sua struttura fisica, ove non soccorresse una valvola di sicurezza costituita dal flusso periodico, e un'altra fornita dalle lacrime che attenuano quella pressione in determinate occasioni, perché le lacrime sono come « un'emorragia bianca ». 
 
@@ -560,15 +592,13 @@ L'uomo può provare, e prova, emozioni tanto forti quanto quelle della donna, ma
 
 Contrariamente a quanto fanno i veicoli superiori dell'uomo, il corpo vitale (meno in alcune circostanze, che saranno illustrate quando tratteremo dell’«Iniziazione») non abbandona ordinariamente il corpo fisico fino a che questo venga a morte. Le forze chimiche del corpo denso allora non sono più tenute a freno dalla vita evolventesi. Esse provvedono a ricondurre la materia alla sua condizione primordiale mediante la decomposizione, per renderla idonea alla costituzione di altre forme, nell'economia della natura. La decomposizione è perciò dovuta all'attività delle forze planetarie nell'etere chimico. 
 
-Il tessuto del corpo vitale può essere grosso modo paragonato a quelle cornici fatte di centinaia di pezzetti di legno concatenati fra loro, che presentano innumerevoli piccole asperità. Il corpo vitale presenta milioni di punti. Questi punti penetrano dentro i centri cavi degli atomi fisici, li imbevono di forza vitale che li spinge a vibrare ad un ritmo più alto di quello del minerale della terra, che non è così accelerato ed animato 1. 
+Il tessuto del corpo vitale può essere grosso modo paragonato a quelle cornici fatte di centinaia di pezzetti di legno concatenati fra loro, che presentano innumerevoli piccole asperità. Il corpo vitale presenta milioni di punti. Questi punti penetrano dentro i centri cavi degli atomi fisici, li imbevono di forza vitale che li spinge a vibrare ad un ritmo più alto di quello del minerale della terra, che non è così accelerato ed animato (1). 
 
-1 Ved. anche quanto è detto a questo proposito a pag. 5. 
+() - (1) Ved. anche quanto è detto a questo proposito a pag. 5. 
 
 Se una persona sta per affogare o cade da una grande altezza, o è sul punto di morire per congelamento, il corpo vitale lascia il corpo fisico e i suoi atomi divengono, in conseguenza, temporaneamente inerti; ma non appena la persona rinviene, il corpo vitale rientra nel corpo fisico e i « punti » tornano di nuovo ad inserirsi negli atomi fisici. Lo stato di inerzia spinge questi ultimi a resistere alla ripresa della vibrazione, e ciò è causa della pungente pena e della sensazione di ronzio che si avverte in tali momenti, ma non abitualmente, per la stessa ragione che noi diveniamo consci dell'inizio del moto di un orologio o del suo arresto, mentre non ci accorgiamo del suo ticchettio quando esso cammina. 
 
-Ci sono alcuni casi nei quali il corpo vitale abbandona parzialmente il corpo fisico, come quando una mano s'intorpidisce per aver assunto una cattiva posizione. Allora la mano eterica del corpo vitale si può vedere pendente sotto il braccio fisico come un guanto. 
-
-Quando la mano ritorna in posizione normale e la circolazione non è impedita, la mano eterica riprende il suo posto e i suoi « punti » producono una particolare sensazione di formicolio. Talvolta, nell'ipnosi, la testa del corpo vitale si divide in due parti e pende fuori dalla testa fisica, metà sopra ciascuna spalla, o giace attorno al collo come il colletto di una maglia. L'assenza della sensazione di formicolio al risveglio, in casi di questo genere, deriva dal fatto che, durante l'ipnosi, una parte del corpo vitale dell'ipnotizzatore ha sostituito quella dell'ipnotizzato. 
+Ci sono alcuni casi nei quali il corpo vitale abbandona parzialmente il corpo fisico, come quando una mano s'intorpidisce per aver assunto una cattiva posizione. Allora la mano eterica del corpo vitale si può vedere pendente sotto il braccio fisico come un guanto.  Quando la mano ritorna in posizione normale e la circolazione non è impedita, la mano eterica riprende il suo posto e i suoi « punti » producono una particolare sensazione di formicolio. Talvolta, nell'ipnosi, la testa del corpo vitale si divide in due parti e pende fuori dalla testa fisica, metà sopra ciascuna spalla, o giace attorno al collo come il colletto di una maglia. L'assenza della sensazione di formicolio al risveglio, in casi di questo genere, deriva dal fatto che, durante l'ipnosi, una parte del corpo vitale dell'ipnotizzatore ha sostituito quella dell'ipnotizzato. 
 
 Se vengono somministrati anestetici, il corpo vitale è spinto fuori coi veicoli superiori, e se la dose è troppo forte e l'etere vitale viene espulso, ne può seguire la morte. Lo stesso fenomeno si può anche osservare nelle materializzazioni prodotte dai medium. Infatti la differenza fra un medium materializzatore ed un uomo o donna comuni è proprio questa: nell'uomo o donna comuni il corpo vitale ed il corpo fisico sono, allo stadio attuale di evoluzione, saldamente uniti insieme, mentre nel medium sono debolmente connessi. Non è sempre stato così, e verrà il giorno in cui il corpo vitale potrà lasciare agevolmente il corpo fisico, come era capace di fare una volta; ma ciò non si può di regola effettuare attualmente. Quando un medium abbandona il suo corpo vitale per farlo usare da entità del Mondo del Desiderio, che desiderano materializzarsi, il corpo vitale defluisce in generale dolcemente dal lato sinistro, attraverso la milza, che è la sua « porta » particolare. Allora le forze vitali non possono circolare nel corpo come fanno normalmente; il medium diviene fortemente esausto, e molti di essi ricorrono a stimolanti per combattere questo indebolimento, divenendo col tempo bevitori incurabili. 
 
@@ -580,13 +610,17 @@ Nei casi in cui vengono amputate parti del corpo fisico, soltanto l'etere planet
 
 Dopo avere osservato le relazioni dei quattro regni con la Regione Eterica del Mondo Fisico, volgiamo la nostra attenzione alla loro relazione col Mondo del Desiderio. 
 
-Qui troviamo che tanto i minerali come le piante mancano di un corpo del desiderio separato. Essi sono permeati soltanto dal corpo del desiderio planetario. Mancando di un veicolo separato, sono incapaci di sentimento, desiderio ed emozione, che sono facoltà pertinenti al Mondo del Desiderio. Se una pietra è spezzata, essa non soffre; ma sarebbe errato dedurne che nessun sentimento è connesso con siffatta azione. Questo è il punto di vista materialistico, accettato dalla moltitudine incomprensiva. Gli occultisti sanno che non c'è nessuna azione, grande o piccola, che non sia avvertita in tutto l'universo, e sebbene la pietra, priva com'è di un corpo del desiderio separato, non possa soffrire, lo Spirito della Terra sente, poiché è appunto il corpo del desiderio della Terra che permea la pietra. Se un uomo si taglia un dito, il dito, non avendo alcun corpo del desiderio separato, non sente il dolore, ma lo sente l'uomo il cui corpo del desiderio permea anche il dito. Se una pianta è strappata dalle radici, ciò è avvertito dallo Spirito della Terra, come un uomo avverte se un capello gli viene strappato dalla testa. La nostra Terra è un corpo vivente e sensibile e tutte le forme sprovviste di corpi del desiderio individuali, per mezzo dei quali gli Spiriti in evoluzione che le animano potrebbero sperimentare delle sensazioni, sono comprese nel corpo del desiderio della Terra il quale è dotato di sensibilità. Lo spezzare una pietra e il cogliere fiori producono piacere alla Terra, mentre lo strappare le piante dalle radici produce pena. La ragione di ciò verrà data in una parte successiva di quest'opera, perché a questo punto del nostro studio la spiegazione sarebbe prematura e incomprensibile al comune lettore. 
+Qui troviamo che tanto i minerali come le piante mancano di un corpo del desiderio separato. Essi sono permeati soltanto dal corpo del desiderio planetario. Mancando di un veicolo separato, sono incapaci di sentimento, desiderio ed emozione, che sono facoltà pertinenti al Mondo del Desiderio. 
+
+Se una pietra è spezzata, essa non soffre; ma sarebbe errato dedurne che nessun sentimento è connesso con siffatta azione. Questo è il punto di vista materialistico, accettato dalla moltitudine incomprensiva. Gli occultisti sanno che non c'è nessuna azione, grande o piccola, che non sia avvertita in tutto l'universo, e sebbene la pietra, priva com'è di un corpo del desiderio separato, non possa soffrire, lo Spirito della Terra sente, poiché è appunto il corpo del desiderio della Terra che permea la pietra. Se un uomo si taglia un dito, il dito, non avendo alcun corpo del desiderio separato, non sente il dolore, ma lo sente l'uomo il cui corpo del desiderio permea anche il dito. Se una pianta è strappata dalle radici, ciò è avvertito dallo Spirito della Terra, come un uomo avverte se un capello gli viene strappato dalla testa. La nostra Terra è un corpo vivente e sensibile e tutte le forme sprovviste di corpi del desiderio individuali, per mezzo dei quali gli Spiriti in evoluzione che le animano potrebbero sperimentare delle sensazioni, sono comprese nel corpo del desiderio della Terra il quale è dotato di sensibilità. Lo spezzare una pietra e il cogliere fiori producono piacere alla Terra, mentre lo strappare le piante dalle radici produce pena. La ragione di ciò verrà data in una parte successiva di quest'opera, perché a questo punto del nostro studio la spiegazione sarebbe prematura e incomprensibile al comune lettore. 
 
 Il Mondo planetario del Desiderio pulsa nei corpi vitale e fisico dell'animale e dell'uomo, allo stesso modo che nei minerali e nelle piante; i primi hanno inoltre un corpo del desiderio separato, che permette loro di provare desideri, emozioni e passioni. C'è tuttavia una differenza fra gli animali e l'uomo. Il corpo del desiderio dell'animale è formato interamente col materiale delle regioni più dense del Mondo del Desiderio, mentre, anche nel caso delle razze umane più primitive una piccola quantità di materia delle regioni più elevate entra nella composizione del loro corpo del desiderio. I sentimenti degli animali e delle razze umane meno evolute sono quasi del tutto rivolti alla soddisfazione dei desideri e delle passioni più basse, che trovano la loro espressione nella materia delle regioni inferiori del Mondo del desiderio. Perciò, affinché possano avere emozioni che li conducano ad un grado superiore di sviluppo, è indispensabile che essi abbiano i materiali corrispondenti nei loro corpi del desiderio. Via via che un uomo avanza nella scuola della vita, le sue esperienze lo ammaestrano ed egli desidera di divenire più puro e migliore. Così, gradatamente, nella materia del suo corpo del desiderio interviene un cambiamento corrispondente. Il materiale più puro e più brillante delle regioni superiori del Mondo del Desiderio sostituisce gli oscuri colori delle regioni inferiori. Il corpo del desiderio cresce anche di dimensioni, così che in un santo esso è veramente una cosa meravigliosa a vedersi la purezza dei suoi colori e la sua luminosa trasparenza non trovano adeguata similitudine. Occorre vederlo per apprezzarlo. 
 
 Attualmente i materiali, sia delle regioni inferiori che di quelle superiori, entrano nella composizione dei corpi del desiderio della grande maggioranza dell'umanità. Non c'è nessuno che sia tanto cattivo, da non possedere qualche buona qualità. Questa trova espressione nei materiali delle regioni superiori, che si trovano nei loro corpi del desiderio. Ma, d'altra parte, pochi, pochissimi, sono tanto buoni da non usare affatto i materiali delle regioni inferiori. 
 
 Allo stesso modo che i corpi planetari vitale e del desiderio. interpenetrano la materia densa della Terra come abbiamo visto nell'esempio della spugna, della sabbia e dell'acqua così i corpi vitali e del desiderio interpenetrano il corpo denso della pianta, dell'animale e dell'uomo. Ma durante la vita dell'uomo sulla Terra il suo corpo del desiderio non ha la stessa forma dei corpi denso e vitale. Assume quell'aspetto dopo la morte. Durante la vita ha l'apparenza di un ovoide luminoso il quale, nelle ore di veglia, avvolge completamente il corpo fisico, come l'albume avvolge il tuorlo di un uovo. Esso si estende da 30 a 40 centimetri al di là del corpo fisico. In questo corpo del desiderio ci sono numerosi centri di percezione ma, nella maggioranza delle persone, essi sono ancora allo stato latente. Il risveglio di questo centri corrisponde all'acquisizione del senso della vista da parte del cieco del nostro primo esempio. La materia del corpo del desiderio dell'uomo è in movimento incessante, di una rapidità inconcepibile. Non esiste nessun posto fisso per nessuna delle sue particelle, come è invece il caso per il corpo fisico denso. La materia che ora è alla testa, un istante dopo può essere ai piedi, e così di seguito. Nel corpo del desiderio, non esiste alcun organo di senso, come nel corpo fisico o nel corpo vitale; ma ci sono dei centri di percezione i quali, quando sono attivi, appaiono come vortici, che rimangono sempre nella stessa posizione relativamente al corpo fisico. Nella maggioranza delle persone questi centri sono dei semplici vortici, e non sono di alcuna utilità come centri di percezione. Essi sono, tuttavia, suscettibili di essere risvegliati in ciascuno; ma, a seconda dei diversi metodi usati per il loro risveglio, si hanno risultati differenti. 
+
+Diagrams:
 
 Nel chiaroveggente involontario, sviluppato con metodi negativi, questi vortici girano da destra a sinistra ossia nella direzione opposta a quella delle lancette di un orologio. 
 
@@ -600,21 +634,15 @@ In un futuro molto lontano, il corpo del desiderio dell'uomo diverrà tanto comp
 
 Le creature a sangue caldo sono le più evolute nella scala degli esseri; esse provano sentimenti, passioni ed emozioni che si esteriorizzano nel Mondo col desiderio; creature delle quali si può dire vivano realmente nel più vasto senso della parola, e non semplicemente vegetino; in esse le correnti del corpo del desiderio fluiscono all'esterno del fegato. La materia del desiderio scaturisce in ruscelli o correnti, che procedono per linee curve verso ogni punto della periferia dell'ovoide e fanno poi ritorno al fegato attraverso una quantità di vortici, pressappoco come fa l'acqua bollendo, che scaturisce continuamente all'esterno dalla sorgente del calore e vi ritorna dopo aver compiuto il proprio ciclo. 
 
-Le piante sono prive di questo principio dinamico ed energetico e per questo esse non possono esprimere la vita ed il movimento, come fanno gli organismi più altamente sviluppati. Dove esiste vitalità e movimento, ma non sangue rosso, non esiste un corpo del desiderio separato. La creatura si trova semplicemente in un periodo di transizione dalla pianta all'animale e quindi si muove interamente sotto il controllo dello Spirito-gruppo. 
+Le piante sono prive di questo principio dinamico ed energetico e per questo esse non possono esprimere la vita ed il movimento, come fanno gli organismi più altamente sviluppati. 
+
+Dove esiste vitalità e movimento, ma non sangue rosso, non esiste un corpo del desiderio separato. La creatura si trova semplicemente in un periodo di transizione dalla pianta all'animale e quindi si muove interamente sotto il controllo dello Spirito-gruppo. 
 
 Negli animali a sangue freddo, che hanno un fegato e sangue rosso, esiste un corpo del desiderio separato, e lo Spirito- gruppo dirige le correnti verso l'interno perché nel loro caso, lo Spirito individuale (del singolo pesce o del rettile, per esempio) è del tutto al di fuori del veicolo fisico. 
 
-Quando l'organismo si è sviluppato al punto che lo Spirito individuale possa cominciare a penetrare nei suoi veicoli, comincia a dirigere le correnti verso l'esterno, e noi vediamo allora l'inizio del periodo di esistenza caratterizzato dalle passioni e la comparsa del sangue caldo. E' dunque il sangue rosso e caldo nel fegato dell'organismo sviluppato al punto da possedere in sé uno Spirito individuale 2 - il quale dirige col suo dinamismo le correnti della materia del desiderio verso l'esterno - che produce la manifestazione del desiderio e della passione nell'animale e nell'uomo. Nel caso dell'animale, lo Spirito non dimora ancora interamente in lui. 
+Quando l'organismo si è sviluppato al punto che lo Spirito individuale possa cominciare a penetrare nei suoi veicoli, comincia a dirigere le correnti verso l'esterno, e noi vediamo allora l'inizio del periodo di esistenza caratterizzato dalle passioni e la comparsa del sangue caldo. E' dunque il sangue rosso e caldo nel fegato dell'organismo sviluppato al punto da possedere in sé uno Spirito individuale (2) - il quale dirige col suo dinamismo le correnti della materia del desiderio verso l'esterno - che produce la manifestazione del desiderio e della passione nell'animale e nell'uomo. Nel caso dell'animale, lo Spirito non dimora ancora interamente in lui. Ciò non avviene finche i punti del corpo vitale e del corpo fisico non vengono in corrispondenza fra loro, come vedremo nel capitolo XII. Per questa ragione l'animale non vive tanto completamente quanto l'uomo, non essendo capace di desideri ed emozioni così elevati, in quanto esso non è altrettanto cosciente. I mammiferi odierni si trovano su di un gradino più elevato di quello raggiunto dall'uomo quando si trovava nella fase animale della sua evoluzione, perché essi posseggono sangue rosso e caldo, che l'uomo a quello stadio non possedeva. Questa differenza di condizione è spiegata dal sentiero dell'evoluzione a spirale; l'uomo attuale appartiene ad un più alto tipo di umanità che non gli attuali Angeli, quando si trovavano allo stadio umano. I mammiferi che ai nostri giorni attraversano la loro fase animale, hanno conseguito il possesso del sangue rosso e caldo, e sono quindi atti a sperimentare in certa misura desideri ed emozioni; essi saranno nel Periodo di Giove un tipo di umanità più puro e migliore di quello che non siamo noi ora, mentre fra la nostra presente umanità ci sarà qualcuno, anche nel Periodo di Giove, che sarà manifestamente ed apertamente malvagio. Questi non potranno allora dissimulare la loro vera natura, come fanno ora; ma non si vergogneranno affatto delle loro malvagità. 
 
-2 L'Ego. 
-
-Figura C: Il corpo del desiderio nell’uomo ordinario!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-Figura D: Il corpo del desiderio nel chiaroveggente involontario!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-Figura E: Il corpo del desiderio nel Chiaroveggente Volontario!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-Ciò non avviene finche i punti del corpo vitale e del corpo fisico non vengono in corrispondenza fra loro, come vedremo nel capitolo XII. Per questa ragione l'animale non vive tanto completamente quanto l'uomo, non essendo capace di desideri ed emozioni così elevati, in quanto esso non è altrettanto cosciente. I mammiferi odierni si trovano su di un gradino più elevato di quello raggiunto dall'uomo quando si trovava nella fase animale della sua evoluzione, perché essi posseggono sangue rosso e caldo, che l'uomo a quello stadio non possedeva. Questa differenza di condizione è spiegata dal sentiero dell'evoluzione a spirale; l'uomo attuale appartiene ad un più alto tipo di umanità che non gli attuali Angeli, quando si trovavano allo stadio umano. I mammiferi che ai nostri giorni attraversano la loro fase animale, hanno conseguito il possesso del sangue rosso e caldo, e sono quindi atti a sperimentare in certa misura desideri ed emozioni; essi saranno nel Periodo di Giove un tipo di umanità più puro e migliore di quello che non siamo noi ora, mentre fra la nostra presente umanità ci sarà qualcuno, anche nel Periodo di Giove, che sarà manifestamente ed apertamente malvagio. Questi non potranno allora dissimulare la loro vera natura, come fanno ora; ma non si vergogneranno affatto delle loro malvagità. 
+() - (2) L'Ego. 
 
 Alla luce di questa esposizione circa il rapporto fra il fegato e la vita dell'organismo, è curioso notare che in parecchie lingue europee (l’inglese, la tedesca e le lingue scandinave) la parola che indica l'organo del corpo (liver = il fegato) ha anche il significato di persona che vive, « vivente ». 
 
@@ -631,10 +659,6 @@ Al contrario, per descrivere minerali, piante ed animali, è sufficiente che noi
 Gli Spiriti-gruppo dei tre regni inferiori sono variamente situati nei Mondi superiori, come vedremo fra breve quando investigheremo la coscienza dei diversi regni; ma per intendere correttamente la loro rispettiva posizione, è necessario rammentare e chiaramente comprendere quello che è stato detto intorno a tutte le forme che si trovano nel mondo visibile e che sono cristallizzazioni dei modelli e delle idee esistenti nei Mondi superiori, come è stato esemplificato con la casa dell'architetto e la macchina dell'inventore. Come gli umori del molle corpo della chiocciola si cristallizzano nel duro guscio che essa si porta dietro, così gli Spiriti dei Mondi superiori cristallizzano all'esterno di se stessi i corpi materiali densi dei diversi regni. 
 
 Così, i veicoli che chiamiamo « superiori », benché tanto sottili e nebulosi da essere invisibili, non sono affatto « emanazioni » del corpo denso; ma i veicoli solidi di tutti i regni corrispondono per così dire al guscio della chiocciola, che è cristallizzato dai suoi umori mentre la chiocciola rappresenta lo Spirito; gli umori del suo corpo nel loro processo di cristallizzazione, rappresentano la mente, il corpo del desiderio e il corpo vitale. Questi diversi veicoli furono emanati dallo Spirito stesso allo scopo, grazie ad essi, di acquisire esperienza. E' lo Spirito che muove il corpo fisico a suo piacimento, come la chiocciola muove la sua casa, e non è il corpo che controlla i movimenti dello Spirito. Più strettamente entra lo Spirito in contatto col suo veicolo, meglio può controllarlo ed esprimersi attraverso quel veicolo e viceversa. Questa è la chiave per i diversi stati di coscienza nei diversi regni. Lo studio delle Tavole schematiche n. 2 e n. 3 darà una chiara idea dei veicoli di ciascun regno e del modo col quale essi sono in correlazione coi diversi Mondi, e lo stato di coscienza che ne risulta. 
-
-Tavola Schematica B: Relazione tra i veicoli ed i Mondi!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-Tavola Schematica C: Stati di Coscienza di ciascun Regno!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 Dalla Tavola schematica n. 2 impariamo che l'Ego separato è completamente racchiuso entro lo Spirito Universale nella Regione del Pensiero Astratto. Questa Tavola mostra che solo l'uomo possiede la completa catena dei veicoli che lo mettono in relazione con tutte le divisioni dei tre Mondi. All'animale manca un anello della catena: la mente; alla pianta ne mancano due, la mente e il corpo del desiderio; ed al minerale mancano i tre anelli della catena di veicoli necessari per funzionare in modo autocosciente nel Mondo Fisico: la mente, il corpo del desiderio e il corpo vitale. 
 
@@ -678,13 +702,11 @@ Così, mentre un Ego separato autocosciente si trova in ogni corpo umano e domin
 
 Questo Spirito-gruppo domina le azioni degli animali in armonia con la legge cosmica, finché gli Spiriti Vergini in sua balìa non abbiano raggiunto l'autocoscienza e siano individualizzati allo stato umano. Allora essi manifesteranno gradatamente una volontà personale, emancipandosi semp re più dallo Spirito-gruppo e divenendo responsabili delle loro azioni. Lo Spirito-gruppo le influenzerà tuttavia (sebbene in misura decrescente) come Spirito di razza, tribù comunità, o famiglia, sino a che ogni individuo non acquisti la capacità di agire in piena armonia con la legge cosmica. Finché non sia giunto un tal momento l'Ego non sarà completamente libero ed indipendente dallo Spirito-gruppo e quando ciò avverrà s'inizierà una fase superiore della evoluzione. 
 
-Il fatto che lo Spirito-gruppo si trovi nel Mondo del Desiderio conferisce all'animale una coscienza diversa da quella dell'uomo, il quale possiede una coscienza di veglia chiara e precisa. L'uomo vede le cose esteriori con contorni ben netti e distinti. In virtù del sentiero dell'evoluzione che si svolge a spirale, gli animali domestici superiori, specialmente il cane, il cavallo, il gatto e l'elefante, vedono gli oggetti quasi allo stesso modo benché, forse, non proprio distintamente. 
+Il fatto che lo Spirito-gruppo si trovi nel Mondo del Desiderio conferisce all'animale una coscienza diversa da quella dell'uomo, il quale possiede una coscienza di veglia chiara e precisa. L'uomo vede le cose esteriori con contorni ben netti e distinti. In virtù del sentiero dell'evoluzione che si svolge a spirale, gli animali domestici superiori, specialmente il cane, il cavallo, il gatto e l'elefante, vedono gli oggetti quasi allo stesso modo benché, forse, non proprio distintamente.  Tutti gli altri animali posseggono una « coscienza rappresentativa » interiore simile a quella dell'uomo quando sogna. In presenza di un oggetto, essi percepiscono interiormente un'immagine accompagnata da una forte impressione che inquadra l'oggetto come favorevole o contrario al loro benessere. Se il sentimento che suscita è di paura, esso si associa ad una suggestione proveniente dallo Spirito-gruppo che gl'indica come sfuggire al minacciato pericolo. Questo stato negativo di coscienza facilita allo Spirito-gruppo la guida dei corpi fisici degli animali mediante la suggestione, perché gli animali non posseggono volontà individuale. 
 
-Tutti gli altri animali posseggono una « coscienza rappresentativa » interiore simile a quella dell'uomo quando sogna. In presenza di un oggetto, essi percepiscono interiormente un'immagine accompagnata da una forte impressione che inquadra l'oggetto come favorevole o contrario al loro benessere. Se il sentimento che suscita è di paura, esso si associa ad una suggestione proveniente dallo Spirito-gruppo che gl'indica come sfuggire al minacciato pericolo. Questo stato negativo di coscienza facilita allo Spirito-gruppo la guida dei corpi fisici degli animali mediante la suggestione, perché gli animali non posseggono volontà individuale. 
+L'uomo non è facilmente guidato dall'esterno con o senza il suo consenso. Via via che l'evoluzione avanza e la volontà dell'uomo si sviluppa sempre di più, egli si affrancherà dalle suggestioni esteriori e sarà libero di agire secondo il proprio volere, indipendentemente dalle influenze altrui. Questa è la principale differenza fra l'uomo e gli altri regni. Questi agiscono secondo la legge e gl'imperiosi ordini dello Spirito-gruppo (che noi chiamiamo istinto), mentre l'uomo diviene sempre più legge a se stesso. Noi non chiediamo al minerale se si vuol cristallizzare o no, né al fiore se vuole o non vuole sbocciare, né al leone se vuole o non vuole cessare di predare. Essi sono tutti, nelle cose piccole come nelle grandi, sotto il dominio assoluto dello Spirito-gruppo, in quanto privi di libero arbitrio e di iniziativa, qualità possedute invece, in diverso grado, da ogni essere umano. Tutti gli animali della stessa specie appaiono approssimativamente uguali, perché essi sono l'emanazione dello stesso Spirito-gruppo, mentre fra il miliardo e mezzo di esseri umani che popolano la terra (1), non due soli esseri umani appaiono esattamente simili neppure i gemelli nell'adolescenza, perché il segno posto su ciascuno dall'Ego individuale, produce la differenza nell'aspetto come nel carattere. 
 
-L'uomo non è facilmente guidato dall'esterno con o senza il suo consenso. Via via che l'evoluzione avanza e la volontà dell'uomo si sviluppa sempre di più, egli si affrancherà dalle suggestioni esteriori e sarà libero di agire secondo il proprio volere, indipendentemente dalle influenze altrui. Questa è la principale differenza fra l'uomo e gli altri regni. Questi agiscono secondo la legge e gl'imperiosi ordini dello Spirito-gruppo (che noi chiamiamo istinto), mentre l'uomo diviene sempre più legge a se stesso. Noi non chiediamo al minerale se si vuol cristallizzare o no, né al fiore se vuole o non vuole sbocciare, né al leone se vuole o non vuole cessare di predare. Essi sono tutti, nelle cose piccole come nelle grandi, sotto il dominio assoluto dello Spirito-gruppo, in quanto privi di libero arbitrio e di iniziativa, qualità possedute invece, in diverso grado, da ogni essere umano. Tutti gli animali della stessa specie appaiono approssimativamente uguali, perché essi sono l'emanazione dello stesso Spirito-gruppo, mentre fra il miliardo e mezzo di esseri umani che popolano la terra 1, non due soli esseri umani appaiono esattamente simili neppure i gemelli nell'adolescenza, perché il segno posto su ciascuno dall'Ego individuale, produce la differenza nell'aspetto come nel carattere. 
-
-1 Max Heindel scrisse questo libro nel 1909. 
+() - (1) Max Heindel scrisse questo libro nel 1909. 
 
 Che tutti i buoi si nutrano d'erba e tutti i leoni mangino carne, mentre ciò che costituisce un buon nutrimento per un uomo, non sempre conviene ad un altro uomo, è ancora una prova dell'universale influenza dello Spirito-gruppo sugli animali, in contrasto con l'Ego, il quale fa sì che ogni essere umano richieda una proporzione di cibo specialmente adatta al proprio organismo. I medici notano perplessi la stessa particolarità negli effetti delle loro medicine. Queste agiscono in modo differente nei vari individui, mentre la stessa medicina produrrà identici effetti in due animali della stessa specie, in virtù del fatto che tutti gli animali seguono gli ordini dello Spirito-gruppo e della Legge Cosmica, ed agiscono sempre in modo simile nelle identiche circostanze. Soltanto l'uomo è, in qualche misura, capace di seguire, entro certi limiti, i suoi propri desideri. Che i suoi errori siano molti e gravi, si concede, ed a molti potrebbe sembrare preferibile che egli fosse obbligato a seguire la retta via; ma, se così fosse, egli non imparerebbe mai ad agire correttamente. Le lezioni per discernere il bene dal male, non possono essere imparate se non a condizione che egli sia libero di scegliere il proprio genere di vita, ed abbia appreso ad evitare il male come una vera « fonte di dolore ». Se egli agisse correttamente solo perché non ha altra scelta, e non avesse alternativa di agire in modo diverso, sarebbe un automa e non un Dio in evoluzione. Come il costruttore impara dai suoi errori a correggersi nelle future costruzioni, così l'uomo, mediante i suoi errori ed il dolore che ne deriva, consegue (perché autocosciente) una sapienza superiore a quella dell'animale, il quale agisce saggiamente perché forzato dallo Spirito-gruppo. Col tempo l'animale giungerà allo stadio umano, avrà libertà di scelta e, attraverso gli errori, imparerà come noi facciamo adesso. 
 
@@ -698,19 +720,7 @@ Il braccio inferiore della croce indica la pianta con le sue radici che affondan
 
 L'uomo è rappresentato dal braccio superiore; egli è la pianta rovesciata. La pianta assorbe il suo nutrimento attraverso la radice; l'uomo prende il cibo dalla testa. La pianta spinge i suoi organi della generazione verso il sole; l'uomo, pianta rovesciata, volge i suoi verso il centro della terra. La pianta riceve le correnti spirituali dello Spirito-gruppo proveniente dal centro della terra, che penetrano in essa attraverso la radice; vedremo in seguito che la più alta influenza spirituale giunge all'uomo dal sole i cui raggi penetrano in lui attraverso la testa. La pianta inala il velenoso biossido di carbonio esalato dall'uomo ed esala l'ossigeno, datore di vita, inalato da lui. 
 
-Gli animali, simbolizzati dal braccio orizzontale della croce, stanno fra la pianta e l'uomo. La loro spina dorsale è in posizione orizzontale ed attraverso di essa vibrano le correnti dello Spirito-gruppo, correnti che circolano intorno alla Terra. 
-
-Nessun animale può rimanere costantemente in posizione eretta, perché in questo caso le correnti dello Spirito-gruppo non potrebbero guidarlo, e non essendo abbastanza individualizzato da sopportare le correnti spirituali che attraversano la spina dorsale verticale dell'uomo, morirebbe. 
-
-E' necessario che un veicolo, affinché possa servire per l'espressione di un Ego individuale, soddisfi a tre condizioni: 
-
-1°) un'andatura eretta che gli permetta di mettersi in contatto con le correnti ora menzionate; 
-
-2°) una laringe verticale, perché solo questa rende possibile il parlare (ai pappagalli, alle gazze e agli stornelli, che hanno una laringe verticale, si può insegnare a parlare); 
-
-3°) un sangue caldo, capace di ricevere le correnti solari. 
-
-Quest'ultima condizione è della massima importanza per l'Ego, come in seguito razionalmente spiegheremo e illustreremo . Per il momento ci limitiamo alla menzione degli elementi necessari all'Ego, terminando questo studio sui rapporti dei Quattro Regni, fra loro e con i differenti Mondi. 
+Gli animali, simbolizzati dal braccio orizzontale della croce, stanno fra la pianta e l'uomo. La loro spina dorsale è in posizione orizzontale ed attraverso di essa vibrano le correnti dello Spirito-gruppo, correnti che circolano intorno alla Terra. Nessun animale può rimanere costantemente in posizione eretta, perché in questo caso le correnti dello Spirito-gruppo non potrebbero guidarlo, e non essendo abbastanza individualizzato da sopportare le correnti spirituali che attraversano la spina dorsale verticale dell'uomo, morirebbe. E' necessario che un veicolo, affinché possa servire per l'espressione di un Ego individuale, soddisfi a tre condizioni: 1°) un'andatura eretta che gli permetta di mettersi in contatto con le correnti ora menzionate; 2°) una laringe verticale, perché solo questa rende possibile il parlare (ai pappagalli, alle gazze e agli stornelli, che hanno una laringe verticale, si può insegnare a parlare); 3°) un sangue caldo, capace di ricevere le correnti solari. Quest'ultima condizione è della massima importanza per l'Ego, come in seguito razionalmente spiegheremo e illustreremo . Per il momento ci limitiamo alla menzione degli elementi necessari all'Ego, terminando questo studio sui rapporti dei Quattro Regni, fra loro e con i differenti Mondi. 
 
 ### <h3 id="chapter-3">Capitolo 3°: L'Uomo e il Metodo di Evoluzione</h3>
 
@@ -718,13 +728,13 @@ Quest'ultima condizione è della massima importanza per l'Ego, come in seguito r
 
 Lo studio da noi fatto finora dei sette Mondi, o sette stati della materia, ci ha mostrato che ciascuno di essi serve ad uno scopo determinato nell'economia della natura, e che Dio, il Grande Spirito nel quale noi effettivamente « viviamo, ci muoviamo ed abbiamo il nostro essere », è il Potere che permea e sostiene l'Universo con la Sua Vita; ma mentre quella Vita fluisce ed è immanente in ogni atomo dei sei Mondi inferiori ed in tutto ciò che essi contengono, nel settimo - il più alto - il solo Dio Trino E'. 
 
-Dopo questo settimo Mondo, il regno più elevato, il sesto, è il Mondo degli Spiriti Vergini. Qui le scintille provenienti dalla « Fiamma » divina dimorano prima di iniziare il loro lungo pellegrinaggio attraverso i cinque Mondi più densi, allo scopo di sviluppare i loro poteri latenti in poteri dinamici. Come il seme manifesta la sua potenza nascosta quando viene sepolto nella terra, così questi Spiriti Vergini, col tempo, quando saranno passati attraverso la materia (la scuola dell'esperienza), diverranno essi stessi pure « Fiamme » divine, capaci di emanare da sé degli Universi. Di questi cinque Mondi che costituiscono il campo dell'evoluzione dell'uomo, i tre inferiori e più densi sono la scena della fase attuale del suo sviluppo. Consideriamo ora l'uomo in relazione con i cinque Mondi mediante i suoi appropriati veicoli, ricordando le due grandi partizioni in cui due di questi Mondi sono divisi, e come l'uomo possegga un veicolo per ciascuna di queste Regioni. 
+Dopo questo settimo Mondo, il regno più elevato, il sesto, è il Mondo degli Spiriti Vergini. Qui le scintille provenienti dalla « Fiamma » divina dimorano prima di iniziare il loro lungo pellegrinaggio attraverso i cinque Mondi più densi, allo scopo di sviluppare i loro poteri latenti in poteri dinamici. Come il seme manifesta la sua potenza nascosta quando viene sepolto nella terra, così questi Spiriti Vergini, col tempo, quando saranno passati attraverso la materia (la scuola dell'esperienza), diverranno essi stessi pure « Fiamme » divine, capaci di emanare da sé degli Universi. 
+
+Di questi cinque Mondi che costituiscono il campo dell'evoluzione dell'uomo, i tre inferiori e più densi sono la scena della fase attuale del suo sviluppo. Consideriamo ora l'uomo in relazione con i cinque Mondi mediante i suoi appropriati veicoli, ricordando le due grandi partizioni in cui due di questi Mondi sono divisi, e come l'uomo possegga un veicolo per ciascuna di queste Regioni. 
 
 Nello stato di veglia questi veicoli s'interpenetrano come s'interpenetrano il sangue, la linfa e gli altri fluidi del corpo. Grazie a questi veicoli l'Ego è capace di agire nel Mondo Fisico. 
 
 Noi stessi, come Ego, funzioniamo direttamente nella sottile sostanza della Regione del Pensiero Astratto che abbiamo specializzato entro i limiti della nostra aura individuale. Di là osserviamo le impressioni prodotte dal mondo esterno sopra il corpo vitale attraverso i sensi, insieme coi sentimenti e le emozioni generati da queste impressioni nel corpo del desiderio e rispecchiate nella mente. 
-
-Tavola Schematica D: La Settemplice costituzione dell'uomo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 Da queste immagini mentali noi formiamo le nostre conclusioni nella tenue sostanza della Regione del Pensiero Astratto intorno ai soggetti cui esse si riferiscono. Queste conclusioni sono le idee. Per forza di volontà noi proiettiamo un'idea attraverso la mente dove essa prende concretezza come forma-pensiero attirandosi materia mentale dalla Regione del Pensiero Concreto. 
 
@@ -732,7 +742,9 @@ La mente è simile alla lente di proiezione di una lanterna magica. Essa proiett
 
 1.- Questa immagine può essere proiettata contro il corpo del desiderio nel tentativo di destare sentimenti atti a spingere all'azione immediata. 
 
-a) Se il pensiero suscita Interesse, una delle forze gemelle, l'Attrazione o la Repulsione, sarà risvegliata; se predomina l'Attrazione, forza centripeta, essa afferra il pensiero, lo immette come un turbine nel corpo del desiderio, arricchisce l'immagine di nuova vita e la riveste di sostanza del desiderio. Allora il pensiero può agire sul cervello eterico e spingere la forza vitale, attraverso i convenienti centri cerebrali ed i nervi ai muscoli volontari che eseguono l'azione necessaria. Così viene dispensata la forza spirituale contenuta nel pensiero e l'immagine si fissa nell'etere adatto del corpo vitale, come memoria dell'azione e del sentimento che la provocarono. 
+a) Se il pensiero suscita Interesse, una delle forze gemelle, l'Attrazione o la Repulsione, sarà risvegliata.
+
+Se predomina l'Attrazione, forza centripeta, essa afferra il pensiero, lo immette come un turbine nel corpo del desiderio, arricchisce l'immagine di nuova vita e la riveste di sostanza del desiderio. Allora il pensiero può agire sul cervello eterico e spingere la forza vitale, attraverso i convenienti centri cerebrali ed i nervi ai muscoli volontari che eseguono l'azione necessaria. Così viene dispensata la forza spirituale contenuta nel pensiero e l'immagine si fissa nell'etere adatto del corpo vitale, come memoria dell'azione e del sentimento che la provocarono. 
 
 b) La Repulsione è la forza centrifuga e se è lei ad esser risvegliata dalla forma-pensiero, vi è lotta tra la forza spirituale (la volontà dell'uomo) che si trova nella forma-pensiero, ed il corpo del desiderio. E' la battaglia fra coscienza e desiderio, fra la natura superiore e quella inferiore. La forza spirituale, malgrado la resistenza, cercherà di rivestire la forma-pensiero con la materia del desiderio necessaria per far agire cervello e muscoli. La forza di repulsione cercherà di disperdere il materiale adatto e di scacciare il pensiero. Se l'energia spirituale è forte, essa può aprirsi un varco fino ai centri cerebrali e mantenere il suo rivestimento di materia di desiderio dominando la forza vitale e obbligando all'azione: essa determinerà quindi nella memoria una vivida impressione della lotta e della vittoria. Se l'energia spirituale si esaurisce prima che sia prodotta l'azione, la forma-pensiero verrà sopraffatta dalla forza di Repulsione, e si accumulerà nella memoria, come tutte le altre forme-pensiero, quando hanno esaurito la loro energia. 
 
@@ -776,29 +788,17 @@ L'Anima Intellettiva aggiunge potenza allo Spirito Vitale perché essa è tratta
 
 L'Anima Cosciente aumenta la consapevolezza dello Spirito Divino perché essa (l'anima cosciente) è l'essenza del corpo denso che è la controparte dello Spirito Divino. 
 
-Figura F: La decupla costituzione dell'uomo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-L'uomo è un triplice Spirito , in possesso di una Mente per mezzo della quale domina il triplice corpo, che lo stesso triplice Spirito ha emanato per accumulare esperienza. Egli tramuta questo triplice corpo in triplice anima per ascendere dalla impotenza alla onnipotenza. 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-Lo specchio della mente contribuisce pure all'accrescimento dello sviluppo spirituale. I pensieri che la mente trasmette allo Spirito o che riceve da lui la detergono e mantengono lucida, rendendo più acuto è più intenso il suo fuoco, concentrandolo sempre più in un unico punto e perfettamente ubbidiente al controllo dello Spirito. 
-
 #### <h4 id="death-and-purgatory">La Morte e il Purgatorio</h4>
 
 Così l'uomo edifica e semina fino al momento della morte. E allora il tempo di semina e i periodi di crescita e di maturazione sono finiti. Quando lo scheletrico spettro della Morte si presenta con la sua falce e con la clessidra, il tempo di raccogliere è giunto. Questo è un simbolo particolarmente esatto. Lo scheletro simbolizza la parte relativamente permanente del corpo. La falce ricorda che la parte permanente, la quale sta per essere mietuta dallo Spirito, è il frutto della vita che sta per terminare. La clessidra nelle mani della Morte indica che l'ora non può scoccare sino a che tutta la vita non sia trascorsa in armonia con leggi immutabili. Quando arriva quel momento avviene la separazione dei veicoli. Poiché la vita nel Mondo Fisico è per il momento finita, non occorre più che l'uomo mantenga il suo corpo fisico. Il corpo vitale che, come è stato detto, appartiene ugualmente al Mondo Fisico, si ritira dalla testa e lascia il corpo fisico inanimato. 
 
 I veicoli superiori - il corpo vitale, il corpo del desiderio e la mente - escono dal corpo fisico con un movimento a spirale recando con loro l'anima di un solo atomo fisico. Non l'atomo stesso, ma le forze che agivano per suo mezzo. I risultati delle esperienze vissute nel corpo fisico durante la vita ora finita, sono impressi sopra questo speciale atomo. Mentre tutti gli altri atomi del corpo fisico sono stati continuamente rinnovati, questo atomo permanente ha resistito. E rimasto fisso, non solo attraverso una vita, ma ha preso parte alla formazione di tutti i corpi fisici usati nel corso della evoluzione di un particolare Ego. Esso si ritira alla morte solo per risvegliarsi all'aurora di un'altra vita fisica e per servire ancora come nucleo attorno al quale si costruirà il nuovo corpo fisico che sarà usato dallo stesso Ego. Perciò è chiamato « atomo - seme ». Durante la vita terrena l'atomo -seme sta nel ventricolo sinistro del cuore vicino all'apice. Al momento della morte esso sale al cervello seguendo il nervo pneumogastrico e abbandona il corpo fisico insieme ai veicoli superiori attraverso le suture fra le ossa parietali ed occipitali del cranio. 
 
-Figura G: Il Cordone Argenteo (Schema della parte doppia)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Quando i veicoli superiori hanno lasciato il corpo fisico, essi rimangono ancora uniti ad esso mediante un sottile cordone risplendente argenteo, di forma simile a due 6 rovesciati, uno eretto, l'altro orizzontale, collegati alle estremità degli uncini. (Vedi le figure 7 e 8 e la nota a pag. 5). 
 
 Un'estremità è unita al cuore mediante l'atomo -seme, ed è la rottura dell'atomo -seme che fa arrestare il cuore. Il cordone stesso non è strappato fino a che il panorama della vita trascorsa contenuto nel corpo vitale, non sia stato contemplato. 
 
 Si deve tuttavia aver cura di non cremare o ferire il corpo almeno fino a quando siano trascorsi tre giorni dalla morte, perché mentre il corpo vitale si trova coi veicoli superiori ed essi sono ancora uniti al corpo fisico per mezzo del cordone argenteo, qualunque autopsia od altra lesione al corpo fisico, sarebbe in certo modo risentita dall'uomo. 
-
-Figura H: Il Cordone Argenteo (Schema generale)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 La cremazione dovrebbe specialmente essere evitata nei tre giorni successivi alla morte, perché essa tende a disintegrare il corpo vitale che invece deve mantenersi integro finché il panorama della vita passata sia stato inciso nel corpo del desiderio. 
 
@@ -830,7 +830,9 @@ Allorché l'uomo si è liberato dal corpo fisico che costituisce il più grave o
 
 Tutta la sua vita trascorsa passa davanti a lui come un panorama, ma gli eventi si presentano in ordine inverso. Quelli dei giorni che precedono immediatamente la morte vengono per primi, e così di seguito, risalendo attraverso l'età matura, alla giovinezza, alla fanciullezza ed all'infanzia. Tutto viene registrato e ricordato. 
 
-L'uomo contempla da semplice spettatore il panorama della sua vita passata. Osserva i quadri via via che gli passano davanti, ed essi rimangono impressi nei suoi veicoli superiori, ma in questo momento l'uomo non prova alcun sentimento a loro riguardo. Ciò è riservato per il momento in cui egli farà il suo ingresso nel Mondo del Desiderio, che è il mondo del sentimento e delle emozioni. Per ora egli si trova soltanto nella Regione Eterica del Mondo Fisico. Questo panorama dura per poche ore o per parecchi giorni a seconda della lunghezza del tempo in cui l'uomo può, se necessario, rimanere desto. Alcuni possono rimaner desti solo dodici ore o meno, altri possono durare nella veglia per un certo numero di giorni, ma per tutta la durata della veglia dura anche questo panorama. 
+L'uomo contempla da semplice spettatore il panorama della sua vita passata. Osserva i quadri via via che gli passano davanti, ed essi rimangono impressi nei suoi veicoli superiori, ma in questo momento l'uomo non prova alcun sentimento a loro riguardo. Ciò è riservato per il momento in cui egli farà il suo ingresso nel Mondo del Desiderio, che è il mondo del sentimento e delle emozioni. Per ora egli si trova soltanto nella Regione Eterica del Mondo Fisico. 
+
+Questo panorama dura per poche ore o per parecchi giorni a seconda della lunghezza del tempo in cui l'uomo può, se necessario, rimanere desto. Alcuni possono rimaner desti solo dodici ore o meno, altri possono durare nella veglia per un certo numero di giorni, ma per tutta la durata della veglia dura anche questo panorama. 
 
 Questa fase della vita dopo la morte è analoga a quanto accade allorché un uomo annega o cade da una certa altezza. In tali casi anche il corpo vitale abbandona il corpo fisico, e la vita trascorsa si presenta all'uomo in un lampo, perché egli perde immediatamente conoscenza. Il « cordone argenteo », naturalmente, non si rompe poiché allora non potrebbe esservi ritorno in vita. 
 
@@ -854,7 +856,9 @@ Consideriamo ora il caso di un ubriacone. Dopo la morte egli ama le bevande alco
 
 Vediamo così che non è una divinità vendicativa a condannarci al purgatorio o all'inferno, ma sono le nostre cattive abitudini e le nostre azioni. La durata e l'intensità delle sofferenze causate dalla estirpazione dei nostri vizi è in proporzione all'intensità dei nostri desideri. Nei casi menzionati, l'ubriacone non avrebbe provato sofferenza alcuna perdendo le sue proprietà terrene. Se ne aveva, non provava per esse uno speciale attaccamento. Né l'avaro avrebbe sofferto trovandosi privo di bevande alcoliche. Si può affermare che egli sarebbe restato indifferente anche se non vi fosse stata una sola goccia di liquore in tutto il mondo. Ma egli teneva al suo oro, come l'ubriacone alla sua bevanda, e perciò una legge ineluttabile dà a ciascuno ciò che gli è necessario per purificarlo dai propri desideri inferiori e dalle sue cattive abitudini. 
 
-Questa è la legge simboleggiata dalla falce della Morte; la legge che dice: « ciò che un uomo semina, quello egli raccoglierà ». E' la legge di causa ed effetto che regola tutte le cose nei tre Mondi, in ogni regno della natura, fisico, morale e mentale. Dappertutto essa agisce inesorabilmente, sistemando ogni cosa, ristabilendo l'equilibrio ovunque l'atto più insignificante l'abbia turbato. Il risultato può essere immediatamente manifesto o può tardare per anni e per vite, ma un giorno, nel luogo designato, la retribuzione giusta ed esatta verrà. Lo studente noti in modo particolare che questa legge è assolutamente impersonale. Nell'universo non esiste né ricompensa né punizione. Tutto è conseguenza di una legge immutabile. Il modo di agire di questa legge sarà più completamente esposto nel seguente capitolo dove la troveremo associata ad un'altra grande legge cosmica che pure coopera all'evoluzione dell'uomo. La legge che ora consideriamo è la legge di Conseguenza. 
+Questa è la legge simboleggiata dalla falce della Morte; la legge che dice: « ciò che un uomo semina, quello egli raccoglierà ». E' la legge di causa ed effetto che regola tutte le cose nei tre Mondi, in ogni regno della natura, fisico, morale e mentale. Dappertutto essa agisce inesorabilmente, sistemando ogni cosa, ristabilendo l'equilibrio ovunque l'atto più insignificante l'abbia turbato. Il risultato può essere immediatamente manifesto o può tardare per anni e per vite, ma un giorno, nel luogo designato, la retribuzione giusta ed esatta verrà. Lo studente noti in modo particolare che questa legge è assolutamente impersonale. 
+
+Nell'universo non esiste né ricompensa né punizione. Tutto è conseguenza di una legge immutabile. Il modo di agire di questa legge sarà più completamente esposto nel seguente capitolo dove la troveremo associata ad un'altra grande legge cosmica che pure coopera all'evoluzione dell'uomo. La legge che ora consideriamo è la legge di Conseguenza. 
 
 Nel Mondo del Desiderio essa opera in modo da purificare l'uomo dai più bassi desideri e correggerlo delle debolezze e dei vizi che ostacolano il suo progresso, sottoponendolo alle sofferenze più adatte a tale scopo. Se egli ha fatto soffrire altri, o se si è comportato ingiustamente verso di loro, verrà sottoposto a sofferenze identiche. Occorre tuttavia notare che se una persona si è dedicata a soddisfare certi vizi o ha fatto del male agli altri, ma è riuscita a vincersi o a pentirsi, nella misura del possibile, o ha riparato il male commesso, tale vittoria, tale pentimento e tale rimedio la purificano dai vizi e dalle cattive azioni. L'equilibrio è stato ristabilito e la lezione è stata appresa durante l'incarnazione, quindi non vi è ragione di sofferenza dopo la morte. 
 
@@ -878,9 +882,7 @@ Nel riesaminare gli eventi del giorno e nel condannarci per il male, non dobbiam
 
 Il pentimento e la riforma sono potenti fattori per abbreviare il periodo del purgatorio, perché la natura non disperde mai i suoi sforzi con procedimenti inutili. Se ci rendiamo conto della perversità di certe abitudini o di certe azioni della nostra vita passata, e ci proponiamo di sradicare l'abitudine e di riparare il male commesso, cancelliamo i loro quadri nella memoria subconscia, ed esse, abitudini ed azioni, non si ergeranno a nostri giudici dopo la morte. Anche se non possiamo riparare un male, la sincerità del pentimento sarà sufficiente. La natura non vuole né « ottenere vendetta », né prendersi la « rivincita ». Il compenso può venire alla nostra vittima per altre vie. 
 
-Molto progresso, ordinariamente riservato alle vite future, sarà compiuto dall'uomo che si giudica in tal modo e sradica il vizio riformando il proprio carattere. 
-
-Questa pratica è premurosamente raccomandata. Essa costituisce, forse, l'insegnamento più importante di tutta la presente opera. 
+Molto progresso, ordinariamente riservato alle vite future, sarà compiuto dall'uomo che si giudica in tal modo e sradica il vizio riformando il proprio carattere.  Questa pratica è premurosamente raccomandata. Essa costituisce, forse, l'insegnamento più importante di tutta la presente opera. 
 
 #### <h4 id="the-borderland">Il Territorio di Confine</h4>
 
@@ -892,95 +894,116 @@ Costoro si trovano in uno stato veramente pietoso. Non hanno generalmente la pos
 
 Terminata l'esistenza purgatoriale, lo Spirito purificato sale al primo cielo, che si trova nelle tre regioni superiori del Mondo del Desiderio, dove i risultati delle sue sofferenze vengono incorporati nell'atomo -seme del corpo del desiderio comunicandogli in tal modo la qualità del retto sentire che agirà nel futuro come impulso al bene e come orrore del male. Anche qui il panorama del passato si svolge a ritroso, ma questa volta sono le buone azioni che costituiscono la base del sentimento. Quando contempliamo delle scene che mostrano l'aiuto da noi dato ad altri, proviamo di nuovo tutta la gioia di allora, ed in più sentiamo tutta la gratitudine riversata su di noi da chi ricevette il nostro aiuto. Noi vediamo così l'importanza dell'apprezzare la bontà dimostrataci dagli altri, perché la gratitudine è un fattore dello sviluppo dell'anima. La nostra felicità nel cielo dipende dalla gioia che abbiamo procurato agli altri e dalla nostra valutazione di ciò che gli altri fecero per noi. 
 
-Dovremmo metterci bene in mente che il potere di dare non riguarda solo le persone danarose. Il distribuire denaro indiscriminatamente può anche essere un male. E' bene dare denaro per uno scopo della cui bontà siamo convinti, ma il servizio è mille volte migliore. Come dice Whitman 1: 
+Dovremmo metterci bene in mente che il potere di dare non riguarda solo le persone danarose. Il distribuire denaro indiscriminatamente può anche essere un male. E' bene dare denaro per uno scopo della cui bontà siamo convinti, ma il servizio è mille volte migliore. Come dice Whitman (1): 
 
-1 Walt Whitman, poeta americano. Morì nel 1892. 
+() - (1) Walt Whitman, poeta americano. Morì nel 1892. 
 
-    - Ecco! Io non do conferenze o una piccola elemosina; quando io do, do me stesso. 
+```
+Ecco! Io non do conferenze o una piccola elemosina; 
+quando io do, do me stesso. 
+```
 
 Uno sguardo amorevole, l'espressione della nostra confidenza, un aiuto affettuoso e pieno di simpatia, sono doni alla portata di tutti. Inoltre dovremmo specialmente aiutare l'infelice ad aiutare se stesso fisicamente, finanziariamente, moralmente o mentalmente e non portarlo a dover dipendere da noi o da altri. 
 
-Questa etica del dono di sé che produce nel donatore l'effetto di una lezione spirituale è resa con molta evidenza nella «Visione di Sir Launfal» del Lowell 2. Il giovane ed ambizioso cavaliere, Sir Launfal, vestito di brillante armatura e cavalcante un superbo destriero sta partendo dal suo castello alla ricerca del Santo Graal. Splende la croce sul suo scudo, simbolo della bontà ed amorevolezza del nostro dolce e umile Salvatore, ma il cuore del cavaliere è pieno di orgoglio e di superbo disdegno verso i poveri ed i bisognosi. Incontra un lebbroso che gli chiede l'elemosina ed egli con cipiglio sprezzante gli getta una moneta come si potrebbe gettare un osso ad un cane ma, 
+Questa etica del dono di sé che produce nel donatore l'effetto di una lezione spirituale è resa con molta evidenza nella «Visione di Sir Launfal» del Lowell (2). Il giovane ed ambizioso cavaliere, Sir Launfal, vestito di brillante armatura e cavalcante un superbo destriero sta partendo dal suo castello alla ricerca del Santo Graal. Splende la croce sul suo scudo, simbolo della bontà ed amorevolezza del nostro dolce e umile Salvatore, ma il cuore del cavaliere è pieno di orgoglio e di superbo disdegno verso i poveri ed i bisognosi. Incontra un lebbroso che gli chiede l'elemosina ed egli con cipiglio sprezzante gli getta una moneta come si potrebbe gettare un osso ad un cane ma, 
 
-2 James Russel Lowell, poeta e critico statunitense; morì nel 1891. « The Vision of Sir Launfal » è del 1848. 
+() - (2) James Russel Lowell, poeta e critico statunitense; morì nel 1891. « The Vision of Sir Launfal » è del 1848. 
 
-    Il lebbroso non raccolse l'oro dalla polvere,   
-    « Preferisco il tozzo di pane del povero,   
-    Preferisco la benedizione del povero,   
-    Anche se torno a mani vuote dalla sua porta.   
-    Non è vera elemosina quella che solo la mano può afferrare;   
-    Dà solo dell'oro senza alcun valore   
-    Colui che dà per un senso di dovere;   
-    Ma colui che dà pur avendo ben poco,   
-    E dà a colui che è invisibile -   
-    Quel filo di bellezza ineffabile   
-    Che tutti pervade e tutti unisce, -   
-    Non vede la mano che non può contenere tutta la sua elemosina,   
-    Ma un cuore che stende le sue palme ansiose,   
-    Perché un Dio accompagna quella elemosina e la rende abbondante   
-    Per l'anima che prima languiva nelle tenebre ».   
+```
+Il lebbroso non raccolse l'oro dalla polvere,   
+« Preferisco il tozzo di pane del povero,   
+Preferisco la benedizione del povero,   
+Anche se torno a mani vuote dalla sua porta.   
+Non è vera elemosina quella che solo la mano può afferrare;   
+Dà solo dell'oro senza alcun valore   
+Colui che dà per un senso di dovere;   
+Ma colui che dà pur avendo ben poco,   
+E dà a colui che è invisibile -   
+Quel filo di bellezza ineffabile   
+Che tutti pervade e tutti unisce, -   
+Non vede la mano che non può contenere tutta la sua elemosina,   
+Ma un cuore che stende le sue palme ansiose,   
+Perché un Dio accompagna quella elemosina e la rende abbondante   
+Per l'anima che prima languiva nelle tenebre ».   
+```
 
 Al suo ritorno Sir Launfal trova che un altro si è impossessato del suo castello, ed egli ne viene scacciato. 
 
-    Era un vecchio curvo, stanco e fragile   
-    Quando tornò dalla ricerca del Santo Graal;   
-    Poco si affligge della sua casa baronale perduta,   
-    La croce non ornava più il suo mantello   
-    Ma portava impresso nel cuore il segno,   
-    L'emblema dei sofferenti e dei poveri.   
+```
+Era un vecchio curvo, stanco e fragile   
+Quando tornò dalla ricerca del Santo Graal;   
+Poco si affligge della sua casa baronale perduta,   
+La croce non ornava più il suo mantello   
+Ma portava impresso nel cuore il segno,   
+L'emblema dei sofferenti e dei poveri.   
+```
 
 Ed ancora s'incontra col lebbroso che di nuovo gli chiede l'elemosina. Questa volta la risposta del cavaliere è ben diversa. 
 
-    E Sir Launfal disse: « Io contemplo in te   
-    L'immagine di Colui che morì sulla croce   
-    Tu pure hai avuto la tua corona di spine,   
-    Tu pure hai ricevuto gli schiaffi e le ingiurie del mondo,   
-    Ed alla tua vita non furono negate   
-    Le ferite alle mani ed ai piedi ed al costato;   
-    Mite Figlio di Maria, riconoscimi;   
-    Ecco, per suo mezzo, io do a Te!   
+```
+E Sir Launfal disse: « Io contemplo in te   
+L'immagine di Colui che morì sulla croce   
+Tu pure hai avuto la tua corona di spine,   
+Tu pure hai ricevuto gli schiaffi e le ingiurie del mondo,   
+
+Ed alla tua vita non furono negate   
+Le ferite alle mani ed ai piedi ed al costato;   
+Mite Figlio di Maria, riconoscimi;   
+Ecco, per suo mezzo, io do a Te!   
+```
 
 Un lampo negli occhi del lebbroso manifesta ricordo e riconoscimento, e 
 
-    Il cuore in lui era cenere e polvere   
-    Divise in due parti l'unico tozzo di pane,   
-    Spezzò il ghiaccio sull'orlo del ruscello,   
-    E dette al lebbroso da mangiare e da bere.   
+```
+Il cuore in lui era cenere e polvere   
+Divise in due parti l'unico tozzo di pane,   
+Spezzò il ghiaccio sull'orlo del ruscello,   
+E dette al lebbroso da mangiare e da bere.   
+```
 
 Avviene una trasformazione: 
 
-    Il lebbroso non era più curvo al suo fianco   
-    Ma si ergeva davanti a lui glorificato, [...]   
-    [...] E la Voce che era più dolce del silenzio disse:   
-    « Ecco, sono Io, non temere!   
-    In molti paesi, senza profitto   
-    Tu hai arrischiato la vita per il Santo Graal;   
-    Guarda, Esso è qui! Questa coppa che tu   
-    Hai riempita al ruscello per me or ora;   
-    Questo tozzo di pane è il mio corpo spezzato per te,   
-    Quest'acqua, il sangue che sparsi sulla croce;   
-    La Santa Cena è celebrata in verità,   
-    In tutto ciò che dividiamo con il bisogno d'un altro   
-    Non ciò che diamo, ma ciò che dividiamo importa   
-    Perché il dono senza il donatore è sterile;   
-    Chi con la sua elemosina dona se stesso nutre tre persone:   
-    Se stesso, il suo prossimo affamato e me ».   
+```
+Il lebbroso non era più curvo al suo fianco   
+Ma si ergeva davanti a lui glorificato, 
+[...]   
 
-Il primo cielo è un luogo di gioia senza una sola goccia di amarezza. Lo Spirito è sottratto all'influenza delle condizioni materiali terrene ed assimila tutto il bene contenuto nella vita passata vivendola di nuovo. Qui tutte le mete più nobili cui l'uomo aspirò sono in ampia misura realizzate. E' un luogo di quiete, e più dura è stata la vita, più completamente sarà goduto il riposo. Malattia, preoccupazione, dolore, sono qui sconosciute. Questo è il « Summerland » 1 degli Spiritualisti. I pensieri del Cristiano devoto vi hanno costruito la Nuova Gerusalemme. Case magnifiche, fiori, ecc., appartengono a coloro che le hanno desiderate; se le costruiscono da loro stessi con la sottile materia del desiderio. Nondimeno queste cose sono per loro così reali e tangibili come lo sono per noi le nostre case materiali. Tutti hanno qui le soddisfazioni che non trovarono sulla terra. 
+E la Voce che era più dolce del silenzio disse:   
+« Ecco, sono Io, non temere!   
+In molti paesi, senza profitto   
+Tu hai arrischiato la vita per il Santo Graal;   
+Guarda, Esso è qui! Questa coppa che tu   
+Hai riempita al ruscello per me or ora;   
+Questo tozzo di pane è il mio corpo spezzato per te,   
+Quest'acqua, il sangue che sparsi sulla croce;   
+La Santa Cena è celebrata in verità,   
+In tutto ciò che dividiamo con il bisogno d'un altro   
+Non ciò che diamo, ma ciò che dividiamo importa   
+Perché il dono senza il donatore è sterile;   
+Chi con la sua elemosina dona se stesso nutre tre persone:   
+Se stesso, il suo prossimo affamato e me ».   
+```
 
-1 Il Paese dell'eterna estate e della felicità. 
+Il primo cielo è un luogo di gioia senza una sola goccia di amarezza. Lo Spirito è sottratto all'influenza delle condizioni materiali terrene ed assimila tutto il bene contenuto nella vita passata vivendola di nuovo. Qui tutte le mete più nobili cui l'uomo aspirò sono in ampia misura realizzate. E' un luogo di quiete, e più dura è stata la vita, più completamente sarà goduto il riposo. Malattia, preoccupazione, dolore, sono qui sconosciute. Questo è il « Summerland » (1) degli Spiritualisti. I pensieri del Cristiano devoto vi hanno costruito la Nuova Gerusalemme. Case magnifiche, fiori, ecc., appartengono a coloro che le hanno desiderate; se le costruiscono da loro stessi con la sottile materia del desiderio. Nondimeno queste cose sono per loro così reali e tangibili come lo sono per noi le nostre case materiali. Tutti hanno qui le soddisfazioni che non trovarono sulla terra. 
+
+() - (1) Il Paese dell'eterna estate e della felicità. 
 
 Una categoria di entità abitanti il primo cielo conduce una vita particolarmente beata: i fanciulli. Se potessimo vederli, cesserebbe ogni nostro dolore a loro riguardo. Se un fanciullo muore prima della nascita del corpo del desiderio, che avviene circa al quattordicesimo anno, esso non si innalza oltre il primo cielo, perché egli non è responsabile delle proprie azioni, più di quanto non sia responsabile per il male fisico che produce alla madre col muoversi e contorcersi nel suo seno prima della nascita. Il bambino non ha quindi una esistenza purgatoriale. Ciò che non è vivificato non può morire, quindi il corpo del desiderio di un bambino, insieme con la sua mente, persisterà fino alla nuova nascita. Per questa ragione tali fanciulli possono talvolta ricordare la loro vita anteriore come nell'esempio che citeremo più avanti. 
 
 Per questi bambini il primo cielo è un luogo di attesa dove essi rimangono da uno a venti anni fino a che si presenti l'occasione di una nuova nascita. Tuttavia il primo cielo è qualcosa di più che un luogo di attesa, perché un grande avanzamento viene compiuto durante questo intervallo. 
 
-Allorché un bambino muore c'è sempre qualche parente ad aspettarlo o, in sua mancanza, ci sono persone che amavano «far da madre» ai bambini nella vita terrena e che sono liete di prendersi cura di un piccolo abbandonato. L'estrema plasticità della materia del desiderio facilita la costruzione dei più deliziosi giocattoli viventi per i bambini la cui vita è un piacevolissimo gioco; non si trascura peraltro la loro istruzione. Essi sono divisi in classi secondo il loro temperamento e non secondo le età. Nel Mondo del Desiderio è facile dare lezioni oggettive circa l'influenza che le passioni buone e cattive esercitano sulla condotta e sulla felicità. Queste lezioni s'imprimono in modo indelebile sul corpo del desiderio sensibile ed emotivo del fanciullo, e permangono in lui dopo la rinascita. Molti devono il vivere una nobile vita in gran parte al fatto di aver ricevuto questo speciale ammaestramento. Spesso, quando nasce uno Spirito debole, gli Esseri Misericordiosi (i Capi invisibili che guidano la nostra evoluzione) lo fanno morire nella prima età affinché esso possa trarre vantaggio da questo ammaestramento supplementare il quale lo prepara ad affrontare quella che sarà forse una vita difficile. 
+Allorché un bambino muore c'è sempre qualche parente ad aspettarlo o, in sua mancanza, ci sono persone che amavano «far da madre» ai bambini nella vita terrena e che sono liete di prendersi cura di un piccolo abbandonato. L'estrema plasticità della materia del desiderio facilita la costruzione dei più deliziosi giocattoli viventi per i bambini la cui vita è un piacevolissimo gioco; non si trascura peraltro la loro istruzione. Essi sono divisi in classi secondo il loro temperamento e non secondo le età. Nel Mondo del Desiderio è facile dare lezioni oggettive circa l'influenza che le passioni buone e cattive esercitano sulla condotta e sulla felicità. Queste lezioni s'imprimono in modo indelebile sul corpo del desiderio sensibile ed emotivo del fanciullo, e permangono in lui dopo la rinascita. Molti devono il vivere una nobile vita in gran parte al fatto di aver ricevuto questo speciale ammaestramento. Spesso, quando nasce uno Spirito debole, gli Esseri Misericordiosi (i Capi invisibili che guidano la nostra evoluzione) lo fanno morire nella prima età affinché esso possa trarre vantaggio da questo ammaestramento supplementare il quale lo prepara ad affrontare quella che sarà forse una vita difficile.  Un tale caso sembra verificarsi specialmente quando l'impressione sul corpo del desiderio è stata debole a causa dei parenti che coi loro gemiti disturbarono il morente, o perché questi incontrò la morte in un incidente o sul campo di battaglia. Date tali circostanze, costui non provò la necessaria intensità di sentimento durante l'esistenza post-mortem, quindi il morire all'inizio della vita gli permette di colmare la lacuna come abbiamo detto sopra. Spesso il dovere d'interessarsi ad un tale fanciullo nella vita celeste cade su coloro che motivarono l'anomalia. Essi vengono così messi in condizione di riparare una colpa e d'imparare a far meglio. Può anche darsi che essi divengano i genitori di quello a cui recarono danno, e così si prendono cura di lui nel breve corso della sua vita. Non importa allora se quando il piccolo muore essi si abbandonano a lamenti isterici perché nel corpo vitale di un bambino non sono impresse immagini di particolare importanza. 
 
-Un tale caso sembra verificarsi specialmente quando l'impressione sul corpo del desiderio è stata debole a causa dei parenti che coi loro gemiti disturbarono il morente, o perché questi incontrò la morte in un incidente o sul campo di battaglia. Date tali circostanze, costui non provò la necessaria intensità di sentimento durante l'esistenza post-mortem, quindi il morire all'inizio della vita gli permette di colmare la lacuna come abbiamo detto sopra. Spesso il dovere d'interessarsi ad un tale fanciullo nella vita celeste cade su coloro che motivarono l'anomalia. Essi vengono così messi in condizione di riparare una colpa e d'imparare a far meglio. Può anche darsi che essi divengano i genitori di quello a cui recarono danno, e così si prendono cura di lui nel breve corso della sua vita. Non importa allora se quando il piccolo muore essi si abbandonano a lamenti isterici perché nel corpo vitale di un bambino non sono impresse immagini di particolare importanza. 
+Il primo cielo è un luogo di perfezionamento anche per tutti coloro che sono stati laboriosi, che hanno coltivato l'amore per l'arte o che hanno praticato l'altruismo. Lo studioso ed il filosofo hanno immediato accesso a tutte le biblioteche del mondo. Il pittore prova una delizia senza fine nelle sempre mutevoli combinazioni di colori. Egli impara presto che il suo pensiero mischia e dispone questi colori a volontà. 
 
-Il primo cielo è un luogo di perfezionamento anche per tutti coloro che sono stati laboriosi, che hanno coltivato l'amore per l'arte o che hanno praticato l'altruismo. Lo studioso ed il filosofo hanno immediato accesso a tutte le biblioteche del mondo. Il pittore prova una delizia senza fine nelle sempre mutevoli combinazioni di colori. Egli impara presto che il suo pensiero mischia e dispone questi colori a volontà. Nelle sue creazioni rifulge una vita impossibile a conseguirsi da chi lavora con gli opachi colori terreni. Egli può, per così dire, dipingere con materiali viventi e risplendenti, e può mettere in pratica le sue idee con una facilità che gli riempie l'anima di letizia. Il musicista qui non ha ancora raggiunto il luogo dove la sua arte si effonderà in modo completo. Il Mondo Fisico è il mondo della Forma. Il Mondo del Desiderio, dove si trovano il purgatorio ed il primo cielo, è, in modo particolare, il mondo del Colore; ma il Mondo del Pensiero, dove si trovano il secondo ed il terzo cielo, è la sfera del Suono. La musica celeste è un fatto, e non una semplice figura retorica. Pitagora non si abbandonò all'immaginazione quando parlò della musica delle sfere, poiché ognuno dei globi celesti ha il suo tono determinato ed insieme essi suonano la sinfonia celeste che anche Goethe menziona nel prologo del suo « Faust » l'azione del quale si svolge in cielo. L'Arcangelo Raffaele dice: 
+Nelle sue creazioni rifulge una vita impossibile a conseguirsi da chi lavora con gli opachi colori terreni. Egli può, per così dire, dipingere con materiali viventi e risplendenti, e può mettere in pratica le sue idee con una facilità che gli riempie l'anima di letizia. Il musicista qui non ha ancora raggiunto il luogo dove la sua arte si effonderà in modo completo. Il Mondo Fisico è il mondo della Forma. Il Mondo del Desiderio, dove si trovano il purgatorio ed il primo cielo, è, in modo particolare, il mondo del Colore; ma il Mondo del Pensiero, dove si trovano il secondo ed il terzo cielo, è la sfera del Suono. La musica celeste è un fatto, e non una semplice figura retorica. Pitagora non si abbandonò all'immaginazione quando parlò della musica delle sfere, poiché ognuno dei globi celesti ha il suo tono determinato ed insieme essi suonano la sinfonia celeste che anche Goethe menziona nel prologo del suo « Faust » l'azione del quale si svolge in cielo. L'Arcangelo Raffaele dice: 
 
-    Il Sole risuona, come da antico, tra l'emula armonia delle sfere fraterne e compie il prescritto suo viaggio con l'andamento della     Folgore. 
+```
+Il Sole risuona, come da antico, 
+tra l'emula armonia delle sfere fraterne 
+e compie il prescritto suo viaggio 
+con l'andamento della Folgore. 
+```
 
 Echi di quella musica celeste ci raggiungono anche qui nel Mondo Fisico. Essi costituiscono il nostro tesoro più prezioso benché siano elusivi e non possano essere creati in maniera permanente, come si può fare per altre opere d'arte: una statua, un dipinto, un libro. Nel Mondo Fisico il suono svanisce e muore un momento dopo esser nato. Nel primo cielo questi echi sono, naturalmente, molto più belli ed hanno maggior durata; là il musicista percepisce melodie più dolci di quelle che ascoltò sulla terra. 
 
@@ -1010,9 +1033,9 @@ Poi avviene il risveglio. Lo Spirito si trova ora nella sua vera Patria: il ciel
 
 Il potere delle vibrazioni ritmiche è ben noto a tutti coloro che hanno studiato, anche solo superficialmente, questo soggetto. Per esempio: si ordina ai soldati di rompere il passo quando attraversano un ponte, perché la loro cadenza infrangerebbe la più solida costruzione. Il racconto biblico del suono del corno di ariete durante la marcia attorno alle mura della città di Gerico e del crollo di queste non è assurdo agli occhi dell'occultista. Talvolta sono accadute cose analoghe senza che il mondo abbia sorriso con orgogliosa incredulità. Alcuni anni or sono un complesso musicale suonava in un giardino contiguo alle solide mura di un vecchio castello. Ad un certo momento vi fu nella musica un suono acuto e prolungato. Improvvisamente, all'echeggiare di questa nota, le mura del castello crollarono. I musicisti avevano suonato la nota fondamentale del muro per un tempo abbastanza lungo da farlo cadere. 
 
-Allorché si dice che questo secondo cielo è il mondo del suono, non bisogna credere vi manchino i colori; molti sanno che esiste un'intima relazione tra colori e suoni e che quando si suona una data nota appare simultaneamente un certo colore. Lo stesso accade nel Mondo celeste, dove colore e suono sono entrambi presenti; ma il suono è quello che dà origine al colore. Perciò si dice che questo è in modo particolare il mondo del suono ed è questo suono che costruisce tutte le forme del Mondo Fisico. Certi suoni possono essere percepiti in diverse parti della natura: nel frangersi delle onde sugli scogli, nel vento della foresta, nel muggito dell'oceano e nella voce mutevole delle cascate e dei ruscelli. Questi suoni, combinandosi fra loro, producono un insieme che è la nota fondamentale della Terra - la sua « tonica ». Come con lo sfregamento di un arco di violino sull'orlo di una lastra di vetro si producono figure geometriche 1 , così le vibrazioni sonore delle forze attive negli archetipi viventi del Mondo celeste, hanno creato e creano incessantemente le forme che ci circondano. 
+Allorché si dice che questo secondo cielo è il mondo del suono, non bisogna credere vi manchino i colori; molti sanno che esiste un'intima relazione tra colori e suoni e che quando si suona una data nota appare simultaneamente un certo colore. Lo stesso accade nel Mondo celeste, dove colore e suono sono entrambi presenti; ma il suono è quello che dà origine al colore. Perciò si dice che questo è in modo particolare il mondo del suono ed è questo suono che costruisce tutte le forme del Mondo Fisico. Certi suoni possono essere percepiti in diverse parti della natura: nel frangersi delle onde sugli scogli, nel vento della foresta, nel muggito dell'oceano e nella voce mutevole delle cascate e dei ruscelli. Questi suoni, combinandosi fra loro, producono un insieme che è la nota fondamentale della Terra - la sua « tonica ». Come con lo sfregamento di un arco di violino sull'orlo di una lastra di vetro si producono figure geometriche (1) , così le vibrazioni sonore delle forze attive negli archetipi viventi del Mondo celeste, hanno creato e creano incessantemente le forme che ci circondano. 
 
-1 Sono le cosiddette «figure di Chladni». Ernst Chladni era un fisico tedesco dei primi dell'800. 
+() - (1) Sono le cosiddette «figure di Chladni». Ernst Chladni era un fisico tedesco dei primi dell'800. 
 
 Il lavoro compiuto dall'uomo nel Mondo celeste è assai vario. Non è affatto un'esistenza inattiva, sognante o illusoria. E', invece, un periodo della più grande e più importante attività per la preparazione alla vita futura, così come il sonno è una preparazione attiva per il lavoro del giorno seguente. 
 
@@ -1024,9 +1047,7 @@ Quel tanto del corpo denso che lo Spirito Divino ha salvato agendo rettamente, v
 
 Questa spiritualizzazione dei veicoli si compie coltivando le facoltà di osservazione, discernimento e memoria, di devozione agli alti ideali, di preghiera, di concentrazione e meditazione e usando moderatamente e ragionevolmente le forze vitali. 
 
-Il secondo cielo è la vera patria dell'Ego, l'uomo pensante. Qui egli rimane per secoli, assimilando il frutto dell'ultima vita terrena e preparando le condizioni terrene più adatte per il suo nuovo passo sulla via del progresso. Il suono dominante che pervade questa regione, e che si manifesta dovunque come colore, costituisce, per così dire, il suo strumento. 
-
-E' questa armoniosa vibrazione sonora che, pari ad un elisir vitale, stabilisce nel triplice Spirito la quintessenza del triplice corpo, dal quale dipende per il suo sviluppo. 
+Il secondo cielo è la vera patria dell'Ego, l'uomo pensante. Qui egli rimane per secoli, assimilando il frutto dell'ultima vita terrena e preparando le condizioni terrene più adatte per il suo nuovo passo sulla via del progresso. Il suono dominante che pervade questa regione, e che si manifesta dovunque come colore, costituisce, per così dire, il suo strumento.  E' questa armoniosa vibrazione sonora che, pari ad un elisir vitale, stabilisce nel triplice Spirito la quintessenza del triplice corpo, dal quale dipende per il suo sviluppo. 
 
 La vita nel secondo cielo è straordinariamente attiva e varia. L'Ego assimila i frutti dell'ultima vita terrena e prepara l'ambiente per una nuova esistenza fisica. Non basta ripetere che le nuove condizioni saranno determinate dalla condotta e dalle azioni della vita da poco giunta a termine. E' necessario che i frutti del passato vengano immessi nel mondo, che sta per essere la prossima scena di attività, dove l'Ego andrà acquistando nuove esperienze fisiche e raccogliendo nuovi frutti. Perciò tutti gli abitanti del Mondo celeste operano su modelli terreni che si trovano tutti nella Regione del Pensiero Concreto. Essi modificano l'aspetto fisico della Terra e vi apportano i graduali cambiamenti che variano la sua apparenza, così che ad ogni ritorno alla vita fisica si prepara un ambiente nuovo, dove possono essere fatte nuove esperienze. Il clima, la flora, la fauna sono modificate dall'uomo sotto la direzione degli Esseri superiori che descriveremo in seguito. Così il mondo è proprio come noi individualmente e collericamente lo abbiamo fatto, e sarà come lo faremo. In ogni cosa che accade lo scienziato occultista vede manifestarsi una causa di natura spirituale, non escludendo la prevalente ed allarmante frequenza dei disturbi sismici che attribuisce al pensiero materialistico della scienza moderna. 
 
@@ -1036,13 +1057,13 @@ L'azione dell'uomo nel Mondo celeste non si limita alla modificazione della supe
 
 Abbiamo parlato delle forze che agiscono lungo i poli positivo e negativo dei diversi eteri. L'uomo stesso fa parte di quelle forze. Coloro che noi chiamiamo morti sono quelli che ci aiutano a vivere. A loro volta, essi sono aiutati dai cosiddetti «elementali» o «spiriti della natura», ai quali comandano. L'uomo è guidato in questo lavoro dagli Istruttori appartenenti alle Gerarchie Creatrici superiori, che lo aiutarono a formare i suoi veicoli prima che egli avesse raggiunto l'autocoscienza, analogamente a come egli stesso costruisce ora i suoi corpi nel sonno. Durante la vita celeste egli riceve coscientemente le lezioni degli Istruttori. Il pittore impara a formarsi un occhio perfetto, capace di ritrarre con prospettiva impeccabile e di distinguere colori ed ombre fino a un punto inconcepibile per coloro che non si interessano ai colori e agli effetti di luce. 
 
-Il matematico si occupa dello spazio, e la facoltà di percepire lo spazio è connessa alla delicata conformazione dei tre canali semicircolari situati nell'orecchio e rivolti ciascuno verso una delle tre dimensioni dello spazio. Il pensiero logico e la capacità matematica sono in proporzione all'esattezza della sistemazione di questi canali semicircolari. Anche il talento musicale dipende dallo stesso fattore, ma, oltre alla giusta sistemazione dei canali semicircolari, il musicista deve possedere un'estrema delicatezza delle cellule cigliate del Corti 1 che si contano in circa 16.500 nell'orecchio umano ed ognuna delle quali è capace d'interpretare circa venticinque gradazioni di tono. Nella maggioranza delle persone esse non reagiscono a più che da tre a dieci delle possibili gradazioni. Fra le persone comunemente sensibili alla musica, il massimo grado di efficienza è di circa quindici suoni per ogni cellula; ma il vero musicista che può interpretare e far discendere la musica dal Mondo Celeste, richiede un'estensione maggiore per distinguere i differenti suoni e percepire la minima stonatura nei più complicati accordi. Coloro ai quali necessitano simili delicati organi per poter esprimere tali facoltà, vengono curati in modo particolare come la condizione superiore del loro sviluppo merita e richiede. Nessuna categoria è superiore a quella del musicista, il che è logico se consideriamo che, mentre il pittore trae la sua ispirazione principalmente dal mondo del colore - il più vicino Mondo del Desiderio - il musicista tenta di trasmetterci l'atmo sfera della nostra patria celeste (della quale, come Spiriti, siamo cittadini) e di tradurla in suoni nella vita terrena. La sua è la missione più alta perché la musica è il più elevato modo di espressione della vita dell'anima. Che la musica differisca da tutte le altre arti e sia ad esse superiore possiamo capirlo se pensiamo che una statua od un quadro, una volta creati, sono duraturi. Essi vengono tratti dal Mondo del Desiderio e sono quindi più facilmente cristallizzati, mentre la musica, derivando dal Mondo Celeste, è più elusiva e deve essere ricreata tutte le volte che la vogliamo udire. Non può essere imprigionata come dimostrano i tentativi infruttuosi di fissarla parzialmente mediante invenzioni meccaniche come il fonografo o la pianola 2. 
+Il matematico si occupa dello spazio, e la facoltà di percepire lo spazio è connessa alla delicata conformazione dei tre canali semicircolari situati nell'orecchio e rivolti ciascuno verso una delle tre dimensioni dello spazio. Il pensiero logico e la capacità matematica sono in proporzione all'esattezza della sistemazione di questi canali semicircolari. Anche il talento musicale dipende dallo stesso fattore, ma, oltre alla giusta sistemazione dei canali semicircolari, il musicista deve possedere un'estrema delicatezza delle cellule cigliate del Corti (1) che si contano in circa 16.500 nell'orecchio umano ed ognuna delle quali è capace d'interpretare circa venticinque gradazioni di tono. Nella maggioranza delle persone esse non reagiscono a più che da tre a dieci delle possibili gradazioni. 
 
-1 Alfonso Corti era un istologo e anatomista italiano del secolo scorso. 
+() - (1) Alfonso Corti era un istologo e anatomista italiano del secolo scorso. 
 
-2 I grandi progressi compiuti dalle tecniche di registrazione sonora e dall'elettronica digitale consentono di dire oggi, a 85 anni di distanza dalla stesura del presente volume, che questo scoglio è stato del tutto superato. 
+Fra le persone comunemente sensibili alla musica, il massimo grado di efficienza è di circa quindici suoni per ogni cellula; ma il vero musicista che può interpretare e far discendere la musica dal Mondo Celeste, richiede un'estensione maggiore per distinguere i differenti suoni e percepire la minima stonatura nei più complicati accordi. Coloro ai quali necessitano simili delicati organi per poter esprimere tali facoltà, vengono curati in modo particolare come la condizione superiore del loro sviluppo merita e richiede. Nessuna categoria è superiore a quella del musicista, il che è logico se consideriamo che, mentre il pittore trae la sua ispirazione principalmente dal mondo del colore - il più vicino Mondo del Desiderio - il musicista tenta di trasmetterci l'atmo sfera della nostra patria celeste (della quale, come Spiriti, siamo cittadini) e di tradurla in suoni nella vita terrena. La sua è la missione più alta perché la musica è il più elevato modo di espressione della vita dell'anima. Che la musica differisca da tutte le altre arti e sia ad esse superiore possiamo capirlo se pensiamo che una statua od un quadro, una volta creati, sono duraturi. Essi vengono tratti dal Mondo del Desiderio e sono quindi più facilmente cristallizzati, mentre la musica, derivando dal Mondo Celeste, è più elusiva e deve essere ricreata tutte le volte che la vogliamo udire. Non può essere imprigionata come dimostrano i tentativi infruttuosi di fissarla parzialmente mediante invenzioni meccaniche come il fonografo o la pianola (2). La musica così riprodotta perde molto della dolcezza che essa possiede quando ci giunge fresca dal suo proprio mondo, portando all'anima il ricordo del suo ambiente e parlandole in un linguaggio che nessuna bellezza espressa nel marmo o sulla tela può eguagliare.
 
-La musica così riprodotta perde molto della dolcezza che essa possiede quando ci giunge fresca dal suo proprio mondo, portando all'anima il ricordo del suo ambiente e parlandole in un linguaggio che nessuna bellezza espressa nel marmo o sulla tela può eguagliare. 
+() - (2) I grandi progressi compiuti dalle tecniche di registrazione sonora e dall'elettronica digitale consentono di dire oggi, a 85 anni di distanza dalla stesura del presente volume, che questo scoglio è stato del tutto superato. 
 
 L'organo attraverso il quale l'uomo sente la musica, è il più perfetto organo sensoriale del corpo umano. L'occhio è lontano dall'essere perfetto; ma l'orecchio è veritiero nel senso che esso percepisce ogni suono senza alterazione, mentre l'occhio sovente altera ciò che vede. 
 
@@ -1068,9 +1089,7 @@ Tali domande sono basate su malintesi di vario genere. In primo luogo dovremo ca
 
 Questa dottrina appare assai dura, e il cuore insorge al solo pensiero che ciò possa esser vero. Tuttavia questa è la realtà, e dopo averla esaminata, vedremo che tale dottrina non è poi così severa. 
 
-Considerate la benedizione del dolore. Se si potesse posare una mano su una stufa accesa e non soffrirne, potremmo lasciarvela fintanto che essa, e forse anche il braccio, non fossero bruciati senza che noi ce ne accorgessimo in tempo per salvarli. 
-
-Il dolore risultante dal contatto con la stufa calda ci fa ritirare la mano prima che il danno sia irreparabile. Invece di perdere la mano ce la caviamo con una scottatura, presto guaribile. Questa è un'illustrazione tratta dal Mondo Fisico. Se offendiamo la moralità, lo spasimo della coscienza ci porta sofferenze che c'impediranno di ripetere quel particolare atto, e se non teniamo conto della prima lezione, la natura ci fornirà esperienze sempre più dure, sino ad inculcare per forza nella nostra coscienza la verità che « la strada del trasgressore è aspra ». Ciò continuerà sino a che saremo forzati a battere un'altra via indirizzandoci verso una vita migliore. 
+Considerate la benedizione del dolore. Se si potesse posare una mano su una stufa accesa e non soffrirne, potremmo lasciarvela fintanto che essa, e forse anche il braccio, non fossero bruciati senza che noi ce ne accorgessimo in tempo per salvarli.  Il dolore risultante dal contatto con la stufa calda ci fa ritirare la mano prima che il danno sia irreparabile. Invece di perdere la mano ce la caviamo con una scottatura, presto guaribile. Questa è un'illustrazione tratta dal Mondo Fisico. Se offendiamo la moralità, lo spasimo della coscienza ci porta sofferenze che c'impediranno di ripetere quel particolare atto, e se non teniamo conto della prima lezione, la natura ci fornirà esperienze sempre più dure, sino ad inculcare per forza nella nostra coscienza la verità che « la strada del trasgressore è aspra ». Ciò continuerà sino a che saremo forzati a battere un'altra via indirizzandoci verso una vita migliore. 
 
 L'esperienza è « conoscenza degli effetti che seguono le azioni ». Tale è lo scopo della vita insieme con lo sviluppo della Volontà, che è la forza mediante la quale applichiamo i risultati dell'esperienza. Noi dobbiamo acquisire esperienza, ma possiamo scegliere se guadagnarla attraverso il duro cammino delle prove personali o coll'osservare gli atti altrui, ragionandovi e riflettendovi su, guidati dalla luce di qualsiasi esperienza precedentemente acquisita. 
 
@@ -1078,7 +1097,9 @@ Questo è il metodo col quale lo studente di occultismo dovrebbe imparare, anzic
 
 La scelta sta a noi, ma fino a che non avremo imparato tutto quanto vi è da apprendere in questo mondo, dovremo ritornarvi. Non potremo restare nei mondi superiori e là imparare, fino a che non ci saremo impossessati dell'esperienza terrena. Ciò sarebbe senza senso come se mandassimo un bambino all'asilo oggi, e all'università domani. Il bambino dovrà tornare all'asilo ogni giorno e trascorrere anni nelle scuole primarie e secondarie prima che i suoi studi lo mettano in grado di comprendere le lezioni insegnate all'università. 
 
-Anche l'uomo è ora in una scuola - la scuola dell'esperienza. Deve tornarvi molte volte affinché possa giungere a impossessarsi di tutta la conoscenza del mondo dei sensi. Una sola vita terrena, per ricca di esperienza che essa sia, non potrà fornire tanta conoscenza; perciò la natura decreta che egli ritorni sulla Terra, dopo intervalli di riposo, per riprendere il suo lavoro dove lo lasciò, esattamente come un bambino riprende quotidianamente il suo lavoro a scuola dopo il sonno riparatore della notte. Obbiettare che l'uomo non ricorda le sue vite precedenti non è un argomento valido contro questa teoria. Non possiamo ricordare tutti gli eventi della nostra vita presente. Non ricordiamo nemmeno le fatiche che ci costò l'imparare a scrivere; abbiamo tuttavia acquistato la conoscenza dell'arte dello scrivere, e ciò prova che imparammo. Tutte le facoltà da noi possedute sono una prova che le acquistammo una volta in qualche luogo. Alcuni però ricordano il loro passato, come dimostrerà il notevole esempio che racconteremo alla fine del prossimo capitolo. E questo non è che uno fra tanti. Del resto se non vi fosse un ritorno sulla Terra, a che servirebbe vivere una vita così breve? Perché lottare per qualche cosa? Perché una vita felice in un eterno paradiso dovrebbe essere la ricompensa per una buona vita? Quale beneficio verrebbe da una buona vita in un paradiso in cui ognuno è già felice? Certamente in un luogo in cui ognuno è felice e contento, non c'è bisogno di simpatia né di saggi consigli, né di sacrificio di sé! Nessuno lì ne avrebbe bisogno; ma sulla Terra ci sono molti che necessitano di tale aiuto e queste qualità umanitarie e altruistiche sono il miglior servizio per l'umanità travagliata. Perciò la Grande Legge che lavora per il Bene, riconduce l'uomo al suo lavoro nel mondo per l’altrui beneficio e per il proprio, coi tesori che ha accumulato frutto delle sue esperienze, invece di lasciarli disperdere in un paradiso dove nessuno ne ha bisogno. 
+Anche l'uomo è ora in una scuola - la scuola dell'esperienza. Deve tornarvi molte volte affinché possa giungere a impossessarsi di tutta la conoscenza del mondo dei sensi. Una sola vita terrena, per ricca di esperienza che essa sia, non potrà fornire tanta conoscenza; perciò la natura decreta che egli ritorni sulla Terra, dopo intervalli di riposo, per riprendere il suo lavoro dove lo lasciò, esattamente come un bambino riprende quotidianamente il suo lavoro a scuola dopo il sonno riparatore della notte. Obbiettare che l'uomo non ricorda le sue vite precedenti non è un argomento valido contro questa teoria. Non possiamo ricordare tutti gli eventi della nostra vita presente. Non ricordiamo nemmeno le fatiche che ci costò l'imparare a scrivere; abbiamo tuttavia acquistato la conoscenza dell'arte dello scrivere, e ciò prova che imparammo. Tutte le facoltà da noi possedute sono una prova che le acquistammo una volta in qualche luogo. Alcuni però ricordano il loro passato, come dimostrerà il notevole esempio che racconteremo alla fine del prossimo capitolo. E questo non è che uno fra tanti. 
+
+Del resto se non vi fosse un ritorno sulla Terra, a che servirebbe vivere una vita così breve? Perché lottare per qualche cosa? Perché una vita felice in un eterno paradiso dovrebbe essere la ricompensa per una buona vita? Quale beneficio verrebbe da una buona vita in un paradiso in cui ognuno è già felice? Certamente in un luogo in cui ognuno è felice e contento, non c'è bisogno di simpatia né di saggi consigli, né di sacrificio di sé! Nessuno lì ne avrebbe bisogno; ma sulla Terra ci sono molti che necessitano di tale aiuto e queste qualità umanitarie e altruistiche sono il miglior servizio per l'umanità travagliata. Perciò la Grande Legge che lavora per il Bene, riconduce l'uomo al suo lavoro nel mondo per l’altrui beneficio e per il proprio, coi tesori che ha accumulato frutto delle sue esperienze, invece di lasciarli disperdere in un paradiso dove nessuno ne ha bisogno. 
 
 #### <h4 id="preparations-for-rebirth">Preparazione per la Reincarnazione</h4>
 
@@ -1090,18 +1111,16 @@ Se teniamo un magnete al di sopra di un miscuglio di limatura di ottone, oro, pi
 
 Il materiale scelto dal triplice Spirito si dispone a forma di grande campana aperta alla base, con l'atomo -seme alla sommità. Per formarci un'immagine di questo concetto spirituale, potremo rappresentarci una campana da palombaro che s'immerge in un mare di fluidi di densità crescente. Questi corrispondono alle differenti suddivisioni di ciascun Mondo. La materia accumulata in questo corpo a forma di campana lo rende più pesante, così da farlo affondare nella suddivisione sottostante dalla quale prende l'opportuna quantità di materia. Così esso aumenta ancora di peso e può immergersi più profondamente fino a che abbia traversato le quattro suddivisioni della Regione del Pensiero Concreto, e che l'involucro della nuova mente dell'uomo sia completo. Le forze dell'atomo -seme del corpo del desiderio vengono quindi risvegliate. Esso si colloca al sommo della campana, internamente, ed attira il materiale della settima regione del Mondo del Desiderio che gli si dispone attorno facendolo affondare nella sesta regione dove riunisce altro materiale. Questo processo continua fino a che la prima regione del Mondo del Desiderio non sia raggiunta. La campana ha ora due strati: l'involucro della mente all'esterno e il nuovo corpo del desiderio internamente. 
 
-L'atomo -seme del corpo vitale viene ora messo in attività, ma qui il processo di formazione del corpo vitale non è così semplice come nel caso della mente e del corpo del desiderio, poiché occorre tener presente che questi veicoli erano relativamente disorganizzati, mentre il corpo vitale e il corpo denso sono più organizzati e molto complicati. La materia di una data qualità e quantità è attratta nella medesima maniera sotto l'impulso della stessa legge come nel caso dei corpi superiori, ma la costruzione del nuovo corpo e il suo collocamento nell'ambiente adatto vengono attuati da quattro grandi Esseri di incommensurabile saggezza, i quali sono gli Angeli di Giustizia, o « Signori del Destino ». Essi impressionano l'etere riflettore del corpo vitale in modo tale che i quadri della vita nascente vi si riflettono. Esso (il corpo vitale), è costruito dagli abitanti del Mondo Celeste e dagli spiriti elementari in modo tale da formare un tipo particolare di cervello. Ma si tenga presente questo: l'Ego che si reincarna incorpora egli stesso la quintessenza dei suoi precedenti corpi vitali e in più compie anche una certa quantità di lavoro originale. Questo perché nella vita che si prepara possa esservi un certo margine per espressioni individuali originali, non predeterminate da azioni passate. 
+L'atomo-seme del corpo vitale viene ora messo in attività, ma qui il processo di formazione del corpo vitale non è così semplice come nel caso della mente e del corpo del desiderio, poiché occorre tener presente che questi veicoli erano relativamente disorganizzati, mentre il corpo vitale e il corpo denso sono più organizzati e molto complicati. La materia di una data qualità e quantità è attratta nella medesima maniera sotto l'impulso della stessa legge come nel caso dei corpi superiori, ma la costruzione del nuovo corpo e il suo collocamento nell'ambiente adatto vengono attuati da quattro grandi Esseri di incommensurabile saggezza, i quali sono gli Angeli di Giustizia, o « Signori del Destino ». Essi impressionano l'etere riflettore del corpo vitale in modo tale che i quadri della vita nascente vi si riflettono. Esso (il corpo vitale), è costruito dagli abitanti del Mondo Celeste e dagli spiriti elementari in modo tale da formare un tipo particolare di cervello. Ma si tenga presente questo: l'Ego che si reincarna incorpora egli stesso la quintessenza dei suoi precedenti corpi vitali e in più compie anche una certa quantità di lavoro originale. Questo perché nella vita che si prepara possa esservi un certo margine per espressioni individuali originali, non predeterminate da azioni passate. 
 
-E' importantissimo ricordare questo. Vi è una troppo grande tendenza a pensare che tutto ciò che esiste attualmente, sia il risultato di qualcosa precedentemente esistito; ma, se così fosse, non vi sarebbe margine per nuovi tentativi originali e per nuove cause. La catena di cause ed effetti non è una monotona ripetizione. Vi è continuamente un afflusso di cause nuove ed originali. Questo è il vero fondamento dell'evoluzione, la sola cosa che gli dia un significato e lo differenzi da uno svolgimento di realtà latenti. 
+E' importantissimo ricordare questo. Vi è una troppo grande tendenza a pensare che tutto ciò che esiste attualmente, sia il risultato di qualcosa precedentemente esistito; ma, se così fosse, non vi sarebbe margine per nuovi tentativi originali e per nuove cause. La catena di cause ed effetti non è una monotona ripetizione. Vi è continuamente un afflusso di cause nuove ed originali. Questo è il vero fondamento dell'evoluzione, la sola cosa che gli dia un significato e lo differenzi da uno svolgimento di realtà latenti.  Questa è « Epigenesi », la libera volontà che deriva dalla libertà di inaugurare qualcosa di completamente nuovo, non solo una scelta fra due alternative di azione. Questo è il fattore importante che solo può spiegare in maniera soddisfacente il sistema al quale apparteniamo. L'Involuzione e l'Evoluzione per se stesse sono insufficienti, ma accoppiate all'Epigenesi formano una completa triade esplicativa. 
 
-Questa è « Epigenesi », la libera volontà che deriva dalla libertà di inaugurare qualcosa di completamente nuovo, non solo una scelta fra due alternative di azione. Questo è il fattore importante che solo può spiegare in maniera soddisfacente il sistema al quale apparteniamo. L'Involuzione e l'Evoluzione per se stesse sono insufficienti, ma accoppiate all'Epigenesi formano una completa triade esplicativa. Il destino individuale è sottomesso alla legge di Conseguenza; è molto complesso, e comporta una costante relazione con diversi Ego, sia incarnati che disincarnati. Anche coloro che vivono contemporaneamente possono non abitare nella stessa località e così è impossibile che un destino individuale si compia tutto in una sola vita o in un solo luogo. L'Ego perciò è portato in un determinato ambiente e in una speciale famiglia alla quale è in particolar modo legato. 
+Il destino individuale è sottomesso alla legge di Conseguenza; è molto complesso, e comporta una costante relazione con diversi Ego, sia incarnati che disincarnati. Anche coloro che vivono contemporaneamente possono non abitare nella stessa località e così è impossibile che un destino individuale si compia tutto in una sola vita o in un solo luogo. L'Ego perciò è portato in un determinato ambiente e in una speciale famiglia alla quale è in particolar modo legato.  Riguardo al compimento del destino, talvolta non ha importanza in quale ambiente, fra i tanti, l'Ego rinasca: quando sia il caso, la scelta è concessa nei limiti del possibile, ma una volta che questa sia stata fatta gli agenti dei Signori del Destino sorvegliano non visti perché nessun atto arbitrario frustri l'adempimento della parte di destino scelta. Se tentiamo di sottrarcene essi ricorreranno ad un altro modo d'azione per forzare l'ademp imento del destino. Non sarà però mai ripetuto abbastanza che ciò non rende l'individuo impotente. E' semplicemente la stessa legge che agisce dopo che noi abbiamo sparato un colpo di pistola. Siamo allora incapaci di arrestare il proiettile e perfino di farlo deviare. La sua direzione era stata determinata dalla posizione in cui tenevamo la pistola quando sparammo. Essa avrebbe potuto esser cambiata in qualunque momento, prima che si abbassasse il grilletto, poiché, fino ad allora, ne avevamo il pieno controllo. Lo stesso vale per le nuove azioni che sono la causa del destino futuro. Possiamo, fino ad un certo punto, modificare, o anche completamente neutralizzare, certe cause già messe in azione; ma una volta messe in moto, se da parte nostra restiamo inattivi, esse sfuggiranno al nostro controllo. Ciò si chiama destino « maturo » ed è a questo che ci riferiamo dicendo che i Signori del Destino impediscono ogni tentativo di schivarlo. Riguardo al passato, siamo impotenti, fino ad un certo punto; ma per quello che concerne i nostri atti avvenire, noi possiamo dirigerli nella misura in cui non sono determinati dalle nostre azioni passate. Tuttavia, imparando che siamo noi stessi la causa delle nostre gioie e dei nostri dolori, capiremo presto la necessità di ordinare più armonicamente la nostra vita con le leggi divine, e sollevarci così al di sopra delle leggi del Mondo Fisico. Questa è la chiave per l'emancipazione, come dice Goethe: 
 
-Riguardo al compimento del destino, talvolta non ha importanza in quale ambiente, fra i tanti, l'Ego rinasca: quando sia il caso, la scelta è concessa nei limiti del possibile, ma una volta che questa sia stata fatta gli agenti dei Signori del Destino sorvegliano non visti perché nessun atto arbitrario frustri l'adempimento della parte di destino scelta. Se tentiamo di sottrarcene essi ricorreranno ad un altro modo d'azione per forzare l'ademp imento del destino. Non sarà però mai ripetuto abbastanza che ciò non rende l'individuo impotente. E' semplicemente la stessa legge che agisce dopo che noi abbiamo sparato un colpo di pistola. Siamo allora incapaci di arrestare il proiettile e perfino di farlo deviare. La sua direzione era stata determinata dalla posizione in cui tenevamo la pistola quando sparammo. 
-
-Essa avrebbe potuto esser cambiata in qualunque momento, prima che si abbassasse il grilletto, poiché, fino ad allora, ne avevamo il pieno controllo. Lo stesso vale per le nuove azioni che sono la causa del destino futuro. Possiamo, fino ad un certo punto, modificare, o anche completamente neutralizzare, certe cause già messe in azione; ma una volta messe in moto, se da parte nostra restiamo inattivi, esse sfuggiranno al nostro controllo. Ciò si chiama destino « maturo » ed è a questo che ci riferiamo dicendo che i Signori del Destino impediscono ogni tentativo di schivarlo. Riguardo al passato, siamo impotenti, fino ad un certo punto; ma per quello che concerne i nostri atti avvenire, noi possiamo dirigerli nella misura in cui non sono determinati dalle nostre azioni passate. Tuttavia, imparando che siamo noi stessi la causa delle nostre gioie e dei nostri dolori, capiremo presto la necessità di ordinare più armonicamente la nostra vita con le leggi divine, e sollevarci così al di sopra delle leggi del Mondo Fisico. Questa è la chiave per l'emancipazione, come dice Goethe: 
-
-    Da ogni forza che incatena il mondo   
-    L'uomo si libera se consegue controllo di sé.   
+```
+Da ogni forza che incatena il mondo   
+L'uomo si libera se consegue controllo di sé.   
+```
 
 Il corpo vitale, essendo stato modellato dai Signori del Destino, darà la sua forma al corpo fisico, organo per organo. Questa matrice, o stampo, viene allora posta nel seno della futura madre. L'atomo -seme del corpo fisico si trova nella testa triangolare di uno degli spermatozoi del seme del padre. Questo solo rende possibile la fecondazione e spiega il perché sovente le unioni sessuali siano sterili. I costituenti chimici del fluido seminale e dell'ovulo sono sempre gli stessi, e se fossero i soli elementi necessari, la spiegazione del fenomeno della sterilità, se ricercata nel solo mondo materiale visibile, non verrebbe trovata. Tuttavia la cosa diventa chiara se comprendiamo che, mentre le molecole dell'acqua si congelano solo lungo le linee di forza preesistenti nell'acqua, e si manifestano come cristalli di ghiaccio invece di congelare in massa omogenea, come accadrebbe se non ci fossero linee di forza prima della congelazione, così il corpo fisico non può costituirsi fino a che non vi sia un corpo vitale nel quale elaborare la materia per il corpo fisico; occorre anche un atomo -seme che agisca come misura della quantità e qualità della materia da trasformare in corpo fisico. Benché nell'attuale stadio di sviluppo non ci sia mai piena armonia nella materia del corpo, perché ciò costituirebbe un corpo perfetto, tuttavia le discordanze non devono essere tali da divenire una causa di rottura nell'organismo. 
 
@@ -1115,11 +1134,7 @@ Quando la fecondazione dell'uovo ha avuto luogo, il corpo del desiderio materno 
 
 I veicoli del nuovo nato non diventano immediatamente attivi. Il corpo fisico è impotente per lungo tempo dopo la nascita. Ragionando per analogia, possiamo facilmente renderci conto che lo stesso deve succedere per i veicoli superiori. Lo scienziato occultista può vederlo; ma anche senza essere chiaroveggenti, la ragione dimostrerà che deve essere così. Come il corpo fisico sta lentamente preparandosi per la vita individuale entro l'involucro protettivo del seno materno, così gli altri corpi gradatamente nascono e vengono messi in attività. I tempi che diamo nella seguente descrizione non sono che approssimativi, ma tuttavia sufficientemente esatti; essi mostrano la relazione fra Microcosmo e Macrocosmo, fra l'individuo e il Mondo. 
 
-Nel periodo che segue immediatamente la nascita, i vari veicoli s'interpenetrano a vicenda, come nella nostra precedente illustrazione la sabbia penetra nella spugna e l'acqua penetra in entrambe, sabbia e spugna. Ma, benché tutti siano presenti, come nella vita adulta, essi sono soltanto latenti. Nessuna delle loro facoltà positive è attiva. 
-
-Il corpo vitale non può usare le forze che operano lungo il polo positivo degli eteri. L'assimilazione che opera lungo il polo positivo dell'etere chimico è eccellente durante l'infanzia, e la sua azione è dovuta all'attività nel corpo vitale macrocosmico; gli eteri agiscono come un involucro per il corpo vitale del bambino fino al settimo anno, gradatamente maturandolo durante tale periodo. La facoltà propagativa che agisce lungo il polo positivo dell'etere vitale, è pure latente. 
-
-Il calore del corpo - che è prodotto dall'attività delle forze operanti lungo il polo positivo dell'etere luminoso - e la circolazione del sangue, sono dovuti all'attività nel corpo vitale macrocosmico: gli eteri agiscono sul bambino e lentamente lo sviluppano fino a che esso può controllare queste funzioni da sé. Le forze che agiscono lungo il polo negativo degli eteri sono, così, di gran lunga le più attive. L'escrezione dei solidi, attuata lungo il polo negativo dell'etere chimico (corrispondente alla suddivisione dei solidi della Regione Chimica), è assai abbondante, come lo è l'escrezione dei fluidi attuata lungo il polo negativo dell'etere vitale (corrispondente alla seconda suddivisione della Regione Chimica). La percezione sensibile passiva, dovuta alle forze negative dell'etere luminoso, è pure rimarchevole. Il bambino è molto impressionabile ed è « tutto occhi e orecchi ». 
+Nel periodo che segue immediatamente la nascita, i vari veicoli s'interpenetrano a vicenda, come nella nostra precedente illustrazione la sabbia penetra nella spugna e l'acqua penetra in entrambe, sabbia e spugna. Ma, benché tutti siano presenti, come nella vita adulta, essi sono soltanto latenti. Nessuna delle loro facoltà positive è attiva. Il corpo vitale non può usare le forze che operano lungo il polo positivo degli eteri. L'assimilazione che opera lungo il polo positivo dell'etere chimico è eccellente durante l'infanzia, e la sua azione è dovuta all'attività nel corpo vitale macrocosmico; gli eteri agiscono come un involucro per il corpo vitale del bambino fino al settimo anno, gradatamente maturandolo durante tale periodo. La facoltà propagativa che agisce lungo il polo positivo dell'etere vitale, è pure latente. Il calore del corpo - che è prodotto dall'attività delle forze operanti lungo il polo positivo dell'etere luminoso - e la circolazione del sangue, sono dovuti all'attività nel corpo vitale macrocosmico: gli eteri agiscono sul bambino e lentamente lo sviluppano fino a che esso può controllare queste funzioni da sé. Le forze che agiscono lungo il polo negativo degli eteri sono, così, di gran lunga le più attive. L'escrezione dei solidi, attuata lungo il polo negativo dell'etere chimico (corrispondente alla suddivisione dei solidi della Regione Chimica), è assai abbondante, come lo è l'escrezione dei fluidi attuata lungo il polo negativo dell'etere vitale (corrispondente alla seconda suddivisione della Regione Chimica). La percezione sensibile passiva, dovuta alle forze negative dell'etere luminoso, è pure rimarchevole. Il bambino è molto impressionabile ed è « tutto occhi e orecchi ». 
 
 Durante i primi anni, le forze operanti lungo il polo negativo dell'etere riflettore sono pure molto attive. In questi anni i bambini possono « vedere » i Mondi superiori e sovente raccontano di quanto vedono fino a che il dileggio dei più grandi, o qualche punizione per « avere inventato storie », insegna loro a desistere. 
 
@@ -1127,7 +1142,9 @@ E' deplorevole che i piccini siano forzati a mentire - o almeno a negare la veri
 
 Lo stesso dicasi per le forze agenti nel corpo del desiderio. La sensibilità passiva del dolore fisico è presente, mentre il senso dell'emozione è quasi del tutto assente. Il bambino, naturalmente, manifesterà emozione alla minima provocazione; ma sarà un'emozione momentanea e superficiale. 
 
-Il bambino possiede anche una mente; ma è quasi incapace di attività di pensiero individuale. Eccessivamente sensibile alle forze agenti lungo il polo negativo, è facilmente educabile grazie alla sua facoltà d'imitazione. Viene così dimostrato che tutte le qualità negative sono attive nella nuova entità; ma prima che essa possa fare uso dei vari veicoli, le qualità positive debbono maturarsi. 
+Il bambino possiede anche una mente; ma è quasi incapace di attività di pensiero individuale. Eccessivamente sensibile alle forze agenti lungo il polo negativo, è facilmente educabile grazie alla sua facoltà d'imitazione. 
+
+Viene così dimostrato che tutte le qualità negative sono attive nella nuova entità; ma prima che essa possa fare uso dei vari veicoli, le qualità positive debbono maturarsi. 
 
 Ogni suo veicolo è perciò condotto ad un certo grado di maturità, grazie all'attività del corrispondente veicolo macrocosmico, che gli serve da « matrice » fino a che tale grado sia raggiunto. 
 
@@ -1159,15 +1176,11 @@ Per mostrare ancor meglio il nesso dell'Ego col sangue possiamo menzionare il co
 
 La persona di temperamento sanguigno, nella quale il sangue non è eccessivamente caldo, è attiva di corpo e di mente, mentre la persona anemica è sonnolenta. Nell'una l'Ego ha miglior controllo dei suoi veicoli, nell'altra il controllo è meno efficace. Quando l'Ego ha bisogno di pensare, attira sangue al cervello a giusta temperatura. Quando un pasto troppo grave concentra l'attività dell'Ego sugli organi digestivi, l'individuo non può pensare, perché è sonnolento. 
 
-Gli antichi Scandinavi e gli Scozzesi, sapevano che l'Ego era nel sangue. Nessuno straniero poteva entrare a far parte delle loro famiglie fino a che non avesse « mescolato il sangue » con essi, diventando perciò un membro della famiglia stessa. Goethe, che era un Iniziato, sostiene la stessa teoria nel suo « Faust ». Faust sta per firmare il patto con Mefistofele e chiede: « Perché non firmare con inchiostro comune? Perché usare il sangue? ». Mefistofele risponde: 
-
-« Il sangue è un succo di virtù singolare ». Egli sa che chi possiede il sangue possiede l'uomo, che senza il sangue caldo nessun Ego può trovare espressione. 
+Gli antichi Scandinavi e gli Scozzesi, sapevano che l'Ego era nel sangue. Nessuno straniero poteva entrare a far parte delle loro famiglie fino a che non avesse « mescolato il sangue » con essi, diventando perciò un membro della famiglia stessa. Goethe, che era un Iniziato, sostiene la stessa teoria nel suo « Faust ». Faust sta per firmare il patto con Mefistofele e chiede: « Perché non firmare con inchiostro comune? Perché usare il sangue? ». Mefistofele risponde: « Il sangue è un succo di virtù singolare ». Egli sa che chi possiede il sangue possiede l'uomo, che senza il sangue caldo nessun Ego può trovare espressione. 
 
 Il giusto calore affinché l'Ego possa realmente funzionare, non è raggiunto finché la mente individuale non sia nata dalla Mente Concreta macrocosmica, quando l'individuo ha circa ventun’ anni di età. Anche le leggi statali riconoscono questa come la più bassa età in cui l'uomo sia riconosciuto adatto ad esercitare i diritti civili. 
 
 Allo stadio attuale dello sviluppo umano, l'uomo attraversa queste fasi principali in ciascun ciclo della vita, da una nascita all'altra. 
-
-Figura I: Un Ciclo della Vita!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 ### <h3 id="chapter-4">Capitolo 4°: La Reincarnazione e la Legge di Conseguenza</h3>
 
@@ -1189,9 +1202,7 @@ Se studiamo la relazione che intercorre fra la teoria materialistica e le leggi 
 
 Possiamo dunque liberamente passare dalla teoria materialistica che è inadeguata a risolvere il mistero della vita e della morte, alla teoria seguente. 
 
-Una delle più serie obbiezioni alla dottrina teologica ortodossa, come essa viene esposta, è la sua manifesta insufficienza. Delle miriadi di anime che sono state create e che hanno abitato su questo Globo dal principio del Mondo, anche se tale principio datasse da non più di seimila anni, l'insignificante numero di 144.000 anime deve salvarsi! 1. Il resto dovrà essere torturato per l'eternità. Il diavolo trionfa. Non si può fare a meno di dire con Buddha: « Se Dio permette una tale calamità Egli non può essere buono, e se non può impedirla non può essere Dio ». 
-
-1 Apocalisse VII,4 . 
+Una delle più serie obbiezioni alla dottrina teologica ortodossa, come essa viene esposta, è la sua manifesta insufficienza. Delle miriadi di anime che sono state create e che hanno abitato su questo Globo dal principio del Mondo, anche se tale principio datasse da non più di seimila anni, l'insignificante numero di 144.000 anime deve salvarsi! [Apocalisse VII,4.]. Il resto dovrà essere torturato per l'eternità. Il diavolo trionfa. Non si può fare a meno di dire con Buddha: « Se Dio permette una tale calamità Egli non può essere buono, e se non può impedirla non può essere Dio ». 
 
 Nulla nella natura si attaglia ad un metodo di creazione cui fa seguito la distruzione. Si afferma che Dio desidera che TUTTI siano salvati e che Egli è contrario a ogni distruzione avendo per la salvezza di tutti dato « il Suo proprio Figlio », e tuttavia questo « glorioso piano di salvezza », non riesce a salvare! 
 
@@ -1215,11 +1226,7 @@ Lo stesso dicasi del Sole. Sorge al mattino di ogni giorno, ma ogni mattino è s
 
 Ovunque la spirale: avanti, verso l'alto, per sempre! 
 
-E' mai possibile che questa legge, così universale in ogni regno, non operi nella vita dell'uomo? 
-
-La terra si risveglierà ogni anno dal suo sonno invernale, gli alberi e i fiori vivranno nuovamente, mentre l'uomo dovrà morire? Ciò non può essere! 
-
-La stessa legge che risveglia la vita della pianta per una nuova crescita, risveglierà l'essere umano a nuove esperienze per avanzare sempre più verso la perfezione. Perciò la teoria della Reincarnazione, che postula ripetute incarnazioni in veicoli gradatamente perfezionantisi, è in perfetto accordo con l'evoluzione e coi fenomeni della natura, mentre le altre due teorie non lo sono. 
+E' mai possibile che questa legge, così universale in ogni regno, non operi nella vita dell'uomo? La terra si risveglierà ogni anno dal suo sonno invernale, gli alberi e i fiori vivranno nuovamente, mentre l'uomo dovrà morire? Ciò non può essere! La stessa legge che risveglia la vita della pianta per una nuova crescita, risveglierà l'essere umano a nuove esperienze per avanzare sempre più verso la perfezione. Perciò la teoria della Reincarnazione, che postula ripetute incarnazioni in veicoli gradatamente perfezionantisi, è in perfetto accordo con l'evoluzione e coi fenomeni della natura, mentre le altre due teorie non lo sono. 
 
 Considerando la vita da un punto di vista etico, troviamo che la legge della Reincarnazione accoppiata alla legge di Conseguenza, dalla quale è inseparabile, è la sola teoria che soddisfi il nostro senso di giustizia, in armonia con gli eventi della vita come li osserviamo intorno a noi. 
 
@@ -1257,31 +1264,35 @@ Gli Spiriti s'incarnano solo per acquistare esperienza, per conquistare il mondo
 
 Nell'Apocalisse troviamo queste parole: « Colui che vince lo farò una colonna nel tempio del mio Dio ed egli non ne uscirà più » allusione alla completa liberazione dall'esistenza concreta. In nessun luogo si afferma la dottrina della trasmigrazione dell'anima. L'uomo evoluto al punto di possedere una propria anima individuale, non può retrocedere nel suo progresso e entrare nel veicolo di un animale o di una pianta che si trovano soggetti a uno Spirito-gruppo. Lo Spirito individuale è superiore allo Spirito-gruppo, e il meno non può contenere il più. 
 
-Oliver Wendell Holmes 1, nel suo bellissimo poema, « Il Nautilo Imprigionato », ha personificato questa idea di costante avanzamento in veicoli gradualmente perfezionantisi sino alla liberazione finale. Il nautilo costruisce la sua conchiglia a spirale con celle separate lasciando costantemente indietro le più piccole, divenute troppo anguste, per occupare l'ultima costruita: 
+Oliver Wendell Holmes (1), nel suo bellissimo poema, « Il Nautilo Imprigionato », ha personificato questa idea di costante avanzamento in veicoli gradualmente perfezionantisi sino alla liberazione finale. Il nautilo costruisce la sua conchiglia a spirale con celle separate lasciando costantemente indietro le più piccole, divenute troppo anguste, per occupare l'ultima costruita: 
 
-1 Saggista, romanziere e poeta americano; 1809-1896. 
+() - (1) Saggista, romanziere e poeta americano; 1809-1896. 
 
-    Anno dopo anno contemplò il silente lavoro   
-    che produceva la sua lucida spira.   
-    Tuttavia, mentre la spirale progrediva,   
-    lasciò la dimora del trascorso anno, per la nuova.   
-    Penetrò con passo leggero nella lucida arcata,   
-    ne costruì la pigra porta,   
-    si adagiò nella nuova dimora, dimenticando la vecchia.   
-    Grazie per il celeste messaggio da te recato,   
-    figlio dell'irrequieto mare   
-    rigettato dal suo desolato grembo!   
-    Dalle tue labbra morte echeggia una nota più chiara   
-    di quella che Tritone mai soffiò dal suo corno inghirlandato.   
-    Mentre essa risuona al mio orecchio,   
-    attraverso le profonde caverne del pensiero odo una voce che canta:   
-    Costruisciti più maestose dimore, o anima mia!   
-    Mentre le brevi stagioni trapassano   
-    abbandona il tuo passato angusto!   
-    Lascia che ogni nuovo tempio, più nobile dell'ultimo   
-    ti abbracci dal cielo con una volta più vasta   
-    fino a che tu sia finalmente libera   
-    abbandonando la tua conchiglia, ormai troppo piccola, lungo l'irrequieto mare della vita!   
+```
+Anno dopo anno contemplò il silente lavoro   
+che produceva la sua lucida spira.   
+Tuttavia, mentre la spirale progrediva,   
+lasciò la dimora del trascorso anno, per la nuova.   
+Penetrò con passo leggero nella lucida arcata,   
+ne costruì la pigra porta,   
+si adagiò nella nuova dimora, dimenticando la vecchia.  
+
+Grazie per il celeste messaggio da te recato,   
+figlio dell'irrequieto mare   
+rigettato dal suo desolato grembo!   
+Dalle tue labbra morte echeggia una nota più chiara   
+di quella che Tritone mai soffiò dal suo corno inghirlandato.   
+Mentre essa risuona al mio orecchio,   
+attraverso le profonde caverne del pensiero odo una voce che canta: 
+
+Costruisciti più maestose dimore, o anima mia!   
+Mentre le brevi stagioni trapassano   
+abbandona il tuo passato angusto!   
+Lascia che ogni nuovo tempio, più nobile dell'ultimo   
+ti abbracci dal cielo con una volta più vasta   
+fino a che tu sia finalmente libera   
+abbandonando la tua conchiglia, ormai troppo piccola, lungo l'irrequieto mare della vita!   
+```
 
 La necessità menzionata di ottenere un organismo di natura particolare, ci riporta alla mente una fase interessante delle leggi gemelle di Reincarnazione e di Conseguenza. Queste leggi sono in rapporto col movimento dei corpi celesti del Sole, dei pianeti e delle costellazioni dello Zodiaco. Tutti si muovono in armonia con queste leggi, guidati nelle loro orbite dalle interne Intelligenze spirituali che le abitano - gli Spiriti Planetari. 
 
@@ -1293,9 +1304,9 @@ A causa di questo movimento secondario il Sole non attraversa ogni anno l'equato
 
 Tutti i fenomeni della Terra in relazione con gli altri corpi Cosmici e coi loro abitanti, sono collegati con la precessione degli equinozi e con altri movimenti Cosmici. Lo stesso dicasi per le Leggi della Reincarnazione e di Conseguenza. 
 
-Mentre il Sole attraversa i vari segni nel corso dell'anno, i cambiamenti climatici e di altra specie influenzano l'uomo e le sue attività in vari modi. Similmente, a causa della precessione degli equinozi, il passaggio del Sole attraverso le dodici costellazioni dello Zodiaco - il che viene chiamato Anno Platonico 1 - produce sulla Terra condizioni ancora molto più svariate. E' necessario, per il perfezionarsi dell'anima, che essa le esperimenti tutte. Effettivamente, come abbiamo visto, l'uomo stesso prepara tali condizioni mentre si trova nel Mondo celeste fra nascita e nascita. Perciò ogni Ego rinasce due volte durante il tempo in cui il Sole attraversa un segno dello Zodiaco, e siccome l'anima è necessariamente bisessuale, per poter ottenere l'opportuna varietà di esperienze essa rinasce alternativamente in un corpo maschile e in uno femminile. Questo perché l'esperienza di uno dei sessi differisce largamente da quella dell'altro. Al tempo stesso, le condizioni esterne non sono molto cambiate in un millennio e permettono quindi all'entità di ricevere esperienza nello stesso identico ambiente, dal punto di vista sia dell'uomo che della donna. 
+Mentre il Sole attraversa i vari segni nel corso dell'anno, i cambiamenti climatici e di altra specie influenzano l'uomo e le sue attività in vari modi. Similmente, a causa della precessione degli equinozi, il passaggio del Sole attraverso le dodici costellazioni dello Zodiaco - il che viene chiamato Anno Platonico (1) - produce sulla Terra condizioni ancora molto più svariate. E' necessario, per il perfezionarsi dell'anima, che essa le esperimenti tutte. Effettivamente, come abbiamo visto, l'uomo stesso prepara tali condizioni mentre si trova nel Mondo celeste fra nascita e nascita. Perciò ogni Ego rinasce due volte durante il tempo in cui il Sole attraversa un segno dello Zodiaco, e siccome l'anima è necessariamente bisessuale, per poter ottenere l'opportuna varietà di esperienze essa rinasce alternativamente in un corpo maschile e in uno femminile. Questo perché l'esperienza di uno dei sessi differisce largamente da quella dell'altro. Al tempo stesso, le condizioni esterne non sono molto cambiate in un millennio e permettono quindi all'entità di ricevere esperienza nello stesso identico ambiente, dal punto di vista sia dell'uomo che della donna. 
 
-1 Gli astronomi hanno così chiamato questo lungo ciclo, in onore di Platone, poiché il filosofo, per primo, espresse l'opinione che esistesse un grande anno che « racchiude in sé il principio di ogni cosa ». 
+() - (1) Gli astronomi hanno così chiamato questo lungo ciclo, in onore di Platone, poiché il filosofo, per primo, espresse l'opinione che esistesse un grande anno che « racchiude in sé il principio di ogni cosa ». 
 
 Queste sono le condizioni generali secondo le quali la legge della Reincarnazione opera, ma poiché essa non è una legge cieca, va soggetta a frequenti modifiche determinate dai Signori del Destino, gli Angeli di Giustizia, come per es. nel caso di un Ego il quale necessita di un occhio o di un orecchio sensibile, e vi è l'opportunità di fornirgli lo strumento necessario in una famiglia con la quale erano state stabilite delle relazioni in precedenza. Il tempo, per la reincarnazione dell'Ego in questione maturerebbe forse, secondo la media dei periodi, fra 250 anni, ma i Signori del Destino vedono che se non si coglie l'opportunità, l'Ego dovrà trascorrere in cielo quattro o cinquecento anni più del tempo richiesto prima che si presenti un'altra occasione. Perciò l'Ego viene, per così dire, condotto alla rinascita prima del tempo dovuto, e l'insufficienza di riposo nel terzo cielo verrà compensata in altra epoca. Vediamo così che, non solamente gli scomparsi agiscono su di noi dal Mondo celeste, ma noi pure operiamo su di loro attraendoli o respingendoli. Le condizioni favorevoli per procurarsi uno strumento adatto possono attirare un Ego alla rinascita. Se nessuno strumento fosse stato disponibile, esso sarebbe stato trattenuto più a lungo in cielo e il tempo in più dedotto dalle sue future vite celesti. 
 
@@ -1315,14 +1326,17 @@ Le stelle possono perciò essere chiamate « l'Orologio del Destino ». I dodici
 
 Non ripeteremo mai abbastanza che, benché vi siano avvenimenti ai quali non possiamo sfuggire, l'uomo dispone di una certa libertà per modificare le cause già in marcia. Un poeta lo esprime così: 
 
-    Un bastimento naviga a est e l'altro a ovest   
-    con gli stessi venti che soffiano.   
-    E la posizione delle vele e non la bufera   
-    che determina la rotta da essi seguita.   
-    Simili ai venti del mare sono le vie del destino   
-    mentre navighiamo attraverso la vita;   
-    è un atto dell'anima quello che determina la meta,   
-    e non la calma o la tempesta.   
+```
+Un bastimento naviga a est e l'altro a ovest   
+con gli stessi venti che soffiano.   
+E la posizione delle vele e non la bufera   
+che determina la rotta da essi seguita.   
+
+Simili ai venti del mare sono le vie del destino   
+mentre navighiamo attraverso la vita;   
+è un atto dell'anima quello che determina la meta,   
+e non la calma o la tempesta.   
+```
 
 Il punto da considerare in particolar modo è che le nostre attuali azioni determinano le nostre future condizioni. 
 
@@ -1398,15 +1412,11 @@ Il corpo fisico non ha peccato. Il Dio interiore ha compiuto qualche atto che si
 
 Infine, benché la maggior parte degli individui non sia capace di ricordare le vite trascorse, alcuni vi sono che le ricordano, e tutti potranno arrivarci se vivranno nel modo richiesto per il conseguimento della conoscenza. Ciò richiede una grande forza di carattere, perché il ricordo delle nostre vite passate porta con sé la conoscenza dei debiti che dobbiamo saldare nell'avvenire, fato imminente che può sinistramente incombere sopra qualcuno e forse presagio di un qualche terribile disastro. La natura ci ha benignamente nascosto il passato e il futuro per non privarci della nostra pace interiore col soffrire in anticipo i dolori che ci sono riservati. Nel graduale conseguimento di un sempre maggiore sviluppo, impareremo ad accettare tutti gli eventi con equanimità, a scorgere in tutti i mali le conseguenze di un male passato e a sentirai riconoscenti perché gli obblighi, nei quali siano così incorsi, ci verranno rimessi. Infine, ci renderemo conto che a misura che saldiamo i nostri debiti si avvicina per noi il giorno della liberazione dalla ruota della nascita e della morte. 
 
-Quando una creatura muore nell'infanzia della vita, essa non di rado ricorda questa vita nella sua esistenza successiva perché i bambini al di sotto dei quattordici anni non percorrono l'intero ciclo della vita per il quale è necessaria la costruzione di una serie completa di nuovi veicoli. Essi passano semplicemente nelle più alte regioni del Mondo del Desiderio e lì attendono la nuova incarnazione che usualmente ha luogo fra il primo e il ventesimo anno dopo la morte. 
-
-Quando essi tornano a nascere, portano seco la vecchia mente e il vecchio corpo del desiderio, e se noi ascoltassimo il balbettare dei bambini, potremmo sovente apprendere e ricostruire storie come quella che segue. 
+Quando una creatura muore nell'infanzia della vita, essa non di rado ricorda questa vita nella sua esistenza successiva perché i bambini al di sotto dei quattordici anni non percorrono l'intero ciclo della vita per il quale è necessaria la costruzione di una serie completa di nuovi veicoli. Essi passano semplicemente nelle più alte regioni del Mondo del Desiderio e lì attendono la nuova incarnazione che usualmente ha luogo fra il primo e il ventesimo anno dopo la morte.  Quando essi tornano a nascere, portano seco la vecchia mente e il vecchio corpo del desiderio, e se noi ascoltassimo il balbettare dei bambini, potremmo sovente apprendere e ricostruire storie come quella che segue. 
 
 #### <h4 id="a-remarkable-story">Un Racconto Notevole</h4>
 
-Un giorno in Santa Barbara, California, un uomo, a nome Roberta, si presentò a un chiaroveggente il quale teneva conferenze di Teosofia, e richiese il suo aiuto per un caso sconcertante. Il giorno precedente il Sig. Roberts stava passeggiando in una strada quando una bambina, dell'età di tre anni, gli andò incontro, e gli cinse con le piccole braccia i ginocchi chiamandolo papà. Il Sig. R. s'indignò al pensiero che qualcuno volesse attribuirgli la paternità della piccola, ma la madre di questa, che subito si fece avanti, apparve pure assai sconcertata e cercò di trascinar via la bambina. Ciononostante questa continuava ad aggrapparsi a lui insistendo che egli era suo padre. Per circostanze che racconteremo in seguito, il Sig. R. non riusciva a togliersela dalla mente, e cercò del chiaroveggente il quale andò con lui alla casa dei genitori della bimba ove questa corse immediatamente incontro al Sig. R. chiamandolo papà. Per prima cosa il chiaroveggente, che chiameremo X., avvicinò la bambina alla finestra per vedere se l'iride dell'occhio si dilatasse e si contraesse voltandola verso e contro la luce onde accertarsi se un'altra entità, diversa da quella legittima, possedesse il corpo della bambina, giacché l'occhio è la finestra dell'anima e nessuna entità « ossessionante » può prenderne il controllo. 
-
-Il Sig. X trovò che la bambina era normale e cominciò a interrogarla prudentemente. Dopo un paziente interrogatorio svolto ad intervalli durante il pomeriggio per non stancarla, ecco quello che la bimba raccontò: 
+Un giorno in Santa Barbara, California, un uomo, a nome Roberta, si presentò a un chiaroveggente il quale teneva conferenze di Teosofia, e richiese il suo aiuto per un caso sconcertante. Il giorno precedente il Sig. Roberts stava passeggiando in una strada quando una bambina, dell'età di tre anni, gli andò incontro, e gli cinse con le piccole braccia i ginocchi chiamandolo papà. Il Sig. R. s'indignò al pensiero che qualcuno volesse attribuirgli la paternità della piccola, ma la madre di questa, che subito si fece avanti, apparve pure assai sconcertata e cercò di trascinar via la bambina. Ciononostante questa continuava ad aggrapparsi a lui insistendo che egli era suo padre. Per circostanze che racconteremo in seguito, il Sig. R. non riusciva a togliersela dalla mente, e cercò del chiaroveggente il quale andò con lui alla casa dei genitori della bimba ove questa corse immediatamente incontro al Sig. R. chiamandolo papà. Per prima cosa il chiaroveggente, che chiameremo X., avvicinò la bambina alla finestra per vedere se l'iride dell'occhio si dilatasse e si contraesse voltandola verso e contro la luce onde accertarsi se un'altra entità, diversa da quella legittima, possedesse il corpo della bambina, giacché l'occhio è la finestra dell'anima e nessuna entità « ossessionante » può prenderne il controllo.  Il Sig. X trovò che la bambina era normale e cominciò a interrogarla prudentemente. Dopo un paziente interrogatorio svolto ad intervalli durante il pomeriggio per non stancarla, ecco quello che la bimba raccontò: 
 
 Essa aveva vissuto col padre, il Sig. R., e con un'altra madre in una casetta isolata donde non si scorgeva nessun altra abitazione. Vicino alla casa scorreva un piccolo ruscello dove crescevano dei fiori (e qui essa uscì dalla stanza per tornarvi subito con alcuni fiori di salice). Un'asse era stata gettata attraverso il ruscello; ma a lei era proibito di attraversarlo per timore che potesse cadervi. Un giorno il padre era uscito senza far più ritorno. Quando le loro provviste furono esaurite, la madre si adagiò sul letto e rimase immobile. E qui la bimba disse in un modo strano: « Allora anch'io morii, ma non morii; venni qua ». 
 
