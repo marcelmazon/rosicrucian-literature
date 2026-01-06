@@ -2975,9 +2975,9 @@ Benché nulla di veramente spirituale possa essere pienamente compreso, un esemp
 
 Se prendiamo due diapason identici, cioè che diano esattamente la stessa nota, ed eccitiamo uno di essi, la vibrazione che esso produce, per effetto della risonanza, sarà indotta nell'altro, debole in principio; ma se le vibrazioni continueranno, il secondo diapason darà un suono sempre più rinforzato finché emetterà un volume di suono uguale a quello del primo. Ciò accadrà anche se i due diapason sono collocati a molti metri di distanza uno dall'altro e anche se uno di essi è messo sotto una campana di cristallo. Il suono di quello in vibrazione penetra attraverso il cristallo e il diapason rinchiuso emette un'uguale nota di risposta. 
 
-Queste vibrazioni invisibili del suono hanno un grande potere sulla materia concreta. Esse possono tanto costruire come distruggere. Se una piccola quantità di polvere finissima viene posta sopra una lastra di vetro o di bronzo e l'archetto di un violino viene fatto scorrere sull'orlo di essa, la vibrazione farà assumere alla polvere delle bellissime figure geometriche. Anche la voce umana è capace di produrre tali figure, e ogni figura corrisponde sempre alla medesima nota 1. 
+Queste vibrazioni invisibili del suono hanno un grande potere sulla materia concreta. Esse possono tanto costruire come distruggere. Se una piccola quantità di polvere finissima viene posta sopra una lastra di vetro o di bronzo e l'archetto di un violino viene fatto scorrere sull'orlo di essa, la vibrazione farà assumere alla polvere delle bellissime figure geometriche. Anche la voce umana è capace di produrre tali figure, e ogni figura corrisponde sempre alla medesima nota (1). 
 
-1 Vedere nota a pag. 53. 
+() - (1) Vedere nota a pag. 53. 
 
 Se si fanno vibrare una dopo l'altra le corde di uno strumento musicale - un pianoforte o, preferibilmente, un violino, perché da questo si potrà ottenere tutta la gamma delle note - finiremo col trovare una nota che produrrà in chi ascolta una distinta vibrazione nella parte inferiore della nuca. Ogni volta che sarà prodotta tale nota, la vibrazione sarà risentita. Questa è « la nota fondamentale » di quella persona, la quale risente di questa vibrazione. Se questa nota verrà fatta vibrare lentamente e dolcemente, essa ristorerà e riposerà il suo corpo, metterà i nervi in equilibrio e migliorerà la salute. Se, al contrario, verrà fatta vibrare in modo brutale, forte e abbastanza a lungo, ucciderà la persona con la stessa sicurezza di una palla sparata da una pistola. 
 
@@ -3001,7 +3001,9 @@ Non si creda che questi successivi gradi fossero raggiunti facilmente e senza ri
 
 Vi sono sempre pionieri, però, che richiedono un ideale più elevato. Quando questi diventano sufficientemente numerosi, comincia una nuova fase dell'evoluzione, in modo che esistono sempre diverse gradazioni di evoluti. Venne un tempo, circa duemila anni fa, in cui i più progrediti dell'umanità furono pronti ad avanzare di un altro passo, e atti ad imparare la religione del vivere una buona vita in vista di una ricompensa futura, in uno stato di esistenza nel quale essi dovevano aver fede. 
 
-Questo fu un lungo ed arduo passo da superare. Era relativamente facile condurre al tempio un agnello o un bue per offrirli in sacrificio. Se l'uomo portava i primi frutti dei suoi campi e delle sue vigne, o le greggi e le mandrie, sapeva che ne aveva degli altri e sapeva anche che il Dio della Tribù gli avrebbe fatto riempire i magazzini e lo avrebbe abbondantemente ricompensato. Ma, in questo nuovo ordine di cose, non si trattava di sacrificare i propri beni materiali. Gli si domandava di sacrificare se stesso. Non era nemmeno un sacrificio da compiersi con un supremo sforzo di martirio; anche questo sarebbe stato relativamente facile. Invece gli si chiedeva che, giorno per giorno, ora per ora, egli agisse misericordiosamente verso tutti. Doveva liberarsi dall'egoismo e amare il prossimo come era abituato ad amare se stesso. Inoltre non aveva la promessa di alcuna immediata e visibile ricompensa; ma doveva aver fede in una futura felicità. E' forse strano che l'uomo trovi difficoltà ad attuare quest'alto ideale che consiste nell'operare sempre bene, ideale reso ancor più difficile dal fatto che il proprio interesse viene completamente ignorato? Il sacrificio viene richiesto senza alcuna precisa assicurazione di ricompensa. Certamente fa molto onore all'umanità, che l'altruismo venga praticato e sia in continuo aumento. Le Sagge Guide dell'umanità, conoscendo la fragilità dello Spirito nella lotta contro gli istinti egoistici del corpo, ed i pericoli dello scoraggiamento di fronte a tali rigori di condotta, diedero un nuovo impulso spirituale agli uomini, quando incorporarono nella nuova religione la dottrina dell'« Espiazione » dei loro peccati per mezzo di un Cristo redentore. 
+Questo fu un lungo ed arduo passo da superare. Era relativamente facile condurre al tempio un agnello o un bue per offrirli in sacrificio. Se l'uomo portava i primi frutti dei suoi campi e delle sue vigne, o le greggi e le mandrie, sapeva che ne aveva degli altri e sapeva anche che il Dio della Tribù gli avrebbe fatto riempire i magazzini e lo avrebbe abbondantemente ricompensato. Ma, in questo nuovo ordine di cose, non si trattava di sacrificare i propri beni materiali. Gli si domandava di sacrificare se stesso. Non era nemmeno un sacrificio da compiersi con un supremo sforzo di martirio; anche questo sarebbe stato relativamente facile. Invece gli si chiedeva che, giorno per giorno, ora per ora, egli agisse misericordiosamente verso tutti. Doveva liberarsi dall'egoismo e amare il prossimo come era abituato ad amare se stesso. Inoltre non aveva la promessa di alcuna immediata e visibile ricompensa; ma doveva aver fede in una futura felicità. 
+
+E' forse strano che l'uomo trovi difficoltà ad attuare quest'alto ideale che consiste nell'operare sempre bene, ideale reso ancor più difficile dal fatto che il proprio interesse viene completamente ignorato? Il sacrificio viene richiesto senza alcuna precisa assicurazione di ricompensa. Certamente fa molto onore all'umanità, che l'altruismo venga praticato e sia in continuo aumento. Le Sagge Guide dell'umanità, conoscendo la fragilità dello Spirito nella lotta contro gli istinti egoistici del corpo, ed i pericoli dello scoraggiamento di fronte a tali rigori di condotta, diedero un nuovo impulso spirituale agli uomini, quando incorporarono nella nuova religione la dottrina dell'« Espiazione » dei loro peccati per mezzo di un Cristo redentore. 
 
 Questa dottrina è stata respinta da certi filosofi molto avanzati che mettono in prima linea la legge di Conseguenza. Se il lettore fosse d'accordo con codesti filosofi, lo esortiamo ad attendere la spiegazione che qui esporremo per dimostrare che tutte e due le dottrine fanno parte del piano di salvezza. Basti dire, per il momento, che questa dottrina dell'espiazione dà a molte anime sincere la forza di lottare, e malgrado i ripetuti insuccessi, di assoggettare la natura inferiore. Non dimentichiamo che, per le ragioni esposte quando discutemmo le leggi della Reincarnazione e di Conseguenza, l'umanità occidentale quasi nulla conosceva di tali leggi. Di fronte ad un ideale così elevato, come quello del Cristo, e credendo di non avere che pochi brevi anni per raggiungere un così alto grado di perfezione, non sarebbe stata la più grande crudeltà immaginabile il lasciar l'uomo senza aiuto? Perciò il GRANDE SACRIFICIO del Calvario - benché, come dimostreremo, sia servito anche ad altri scopi - divenne la Stella della Speranza per cui ogni anima di buona volontà lotta per attuare l'impossibile, tentando di raggiungere nel corso di una breve vita la perfezione richiesta dalla Religione Cristiana. 
 
@@ -3009,7 +3011,9 @@ Questa dottrina è stata respinta da certi filosofi molto avanzati che mettono i
 
 Per avere un barlume di quel che racchiude il grandioso Mistero del Golgota, e per comprendere la Missione del Cristo come Fondatore della Religione Universale futura, è necessario familiarizzarci prima con la Sua esatta natura e, incidentalmente, con quella di Jehovah, che è il Capo delle Religioni di Razza quali il Taoismo, il Buddismo, l'Induismo, il Giudaismo, ecc.; come pure con l'identità del « Padre » a cui il Cristo deve a suo tempo rimettere il Regno. 
 
-Nel credo Cristiano incontriamo questa espressione: « Gesù Cristo, Figlio Unigenito di Dio ». Con questo si intende generalmente che una certa persona apparsa in Palestina circa duemila anni fa, che è detta essere Gesù Cristo - cioè, un determinato individuo - era l'Unigenito Figlio di Dio. Ciò è un grande errore. Tre Esseri distinti e assai differenti sono presenti in quest'espressione. E' della massima importanza che lo studente comprenda chiaramente l'esatta natura di questi Tre Grandi, Sublimi Esseri, molto diversi in gloria, a ognuno dei quali è dovuta tuttavia la nostra più profonda e devota adorazione. 
+Nel credo Cristiano incontriamo questa espressione: « Gesù Cristo, Figlio Unigenito di Dio ». Con questo si intende generalmente che una certa persona apparsa in Palestina circa duemila anni fa, che è detta essere Gesù Cristo - cioè, un determinato individuo - era l'Unigenito Figlio di Dio. 
+
+Ciò è un grande errore. Tre Esseri distinti e assai differenti sono presenti in quest'espressione. E' della massima importanza che lo studente comprenda chiaramente l'esatta natura di questi Tre Grandi, Sublimi Esseri, molto diversi in gloria, a ognuno dei quali è dovuta tuttavia la nostra più profonda e devota adorazione. 
 
 Si prega lo studente di osservare la figura 10 e di notare che il « Figlio Unigenito » (« Il Verbo », di cui S. Giovanni parla) è il secondo aspetto dell'Essere Supremo. 
 
@@ -3022,8 +3026,6 @@ Il secondo aspetto dell'Essere Supremo è quello che si manifesta nella materia 
 « Il Verbo » non avrebbe tuttavia potuto far questo, finché il terzo aspetto dell'Essere supremo non avesse preparato la Sostanza-Radice Cosmica, non l'avesse risvegliata dal suo normale stato d'inerzia e non avesse infuso il movimento di rotazione intorno al proprio asse negli innumerevoli atomi indistinti, disponendo gli assi con diverse angolazioni gli uni rispetto agli altri, dando a ciascuna qualità una certa « rapidità di vibrazione ». 
 
 Questa diversità degli angoli d'inclinazione degli assi e dei gradi di vibrazione, resero la Sostanza-Radice Cosmica capace di formare le differenti combinazioni che sono alla base dei Sette Grandi Piani Cosmici. In ciascuno di questi piani vi è una differente inclinazione degli assi e anche una differente rapidità di vibrazione; per conseguenza le condizioni e le combinazioni di ciascuno di essi differiscono da quelle di tutti gli altri, e ciò a causa dell'attività del « Figlio Unigenito ». 
-
-Figura P: I Veicoli dei Supremi Iniziati e degli uomini dei vari Periodi!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 La figura 16 mostra che: 
 
@@ -3049,7 +3051,9 @@ Così il bellissimo, puro ed amorevole Spirito che conosciamo come Gesù di Naza
 
 Gesù di Nazareth nacque intorno all'epoca indicata dalla storia e non nel 105 a. C., come si trova in alcune opere di occultismo. Il nome di Gesù era comune in Oriente, ed un iniziato del medesimo nome visse, effettivamente, nel 105 a. C., ma egli prese l'Iniziazione Egiziana e non fu il Gesù di Nazareth che ci concerne. 
 
-L'Ego che più tardi si incarnò sotto il nome di Christian Rosenkreuz e che ancor oggi è incarnato, era un essere altamente evoluto quando nacque Gesù di Nazareth. Tanto la sua testimonianza come le ricerche dirette di Rosacroce posteriori concordano nel collocare la nascita di Gesù di Nazareth al principio dell'Era Cristiana, nella data usualmente assegnata a tale evento. Gesù fu educato dagli Esseni e raggiunse un altissimo grado di sviluppo spirituale durante i trenta anni che egli fece uso del proprio corpo. 
+L'Ego che più tardi si incarnò sotto il nome di Christian Rosenkreuz e che ancor oggi è incarnato, era un essere altamente evoluto quando nacque Gesù di Nazareth. Tanto la sua testimonianza come le ricerche dirette di Rosacroce posteriori concordano nel collocare la nascita di Gesù di Nazareth al principio dell'Era Cristiana, nella data usualmente assegnata a tale evento. 
+
+Gesù fu educato dagli Esseni e raggiunse un altissimo grado di sviluppo spirituale durante i trenta anni che egli fece uso del proprio corpo. 
 
 Qui possiamo dire, fra parentesi, che gli Esseni erano la terza setta esistente all'epoca in Palestina oltre alle due menzionate nel Nuovo Testamento: quella dei Farisei e quella dei Sadducei. Gli Esseni erano un ordine straordinariamente devoto, ben differenti dai materialisti Sadducei e addirittura all'opposto degli ipocriti Farisei avidi di riconoscimenti esteriori. Essi evitavano qualunque menzione di loro stessi, dei loro metodi di studio e del loro culto. A questa particolarità si deve il fatto che quasi nulla si sappia di loro e che non siano menzionati nel Nuovo Testamento. 
 
@@ -3069,7 +3073,9 @@ Questo cambiamento fu attuato con il libero e pieno consenso di Gesù, che aveva
 
 Così (come mostra la figura 16) il Cristo Gesù possedeva i dodici veicoli che formavano una catena ininterrotta dal Mondo Fisico fino al Trono stesso di Dio. Egli è perciò il solo Essere del nostro sistema solare che fu in contatto con Dio e con l'uomo e il solo capace di fare da mediatore fra loro perché Egli ha personalmente e individualmente sperimentato tutte le condizioni e conosce tutte le limitazioni inerenti all'esistenza fisica. 
 
-Il Cristo è unico fra tutti gli Esseri di tutti e sette i Mondi. LUI solo possiede i dodici veicoli. Nessuno all'infuori di LUI è capace di sentire tanta compassione e di pienamente comprendere la posizione ed i bisogni dell'umanità; nessuno, eccetto Lui, ha le qualità richieste per portare quell'aiuto necessario alla piena soddisfazione dei nostri bisogni. Tale è dunque la natura del Cristo. Egli è il supremo Iniziato del Periodo del Sole e si incarnò nel corpo denso e nel corpo vitale di Gesù onde poter funzionare direttamente nel Mondo Fisico e apparire uomo fra gli uomini. Se si fosse manifestato in maniera miracolosa, ciò sarebbe stato contrario al piano di evoluzione, perché alla fine dell'Epoca Atlantidea l'umanità aveva ricevuto la libertà di fare il bene o di fare il male. Affinché gli uomini divenissero capaci di governarsi non si doveva usare coercizione alcuna. Essi dovevano saper discernere il bene dal male attraverso l'esperienza personale. Prima di quell'Epoca essi erano stati governati volenti o nolenti, ma a quell'Epoca fu data loro la libertà nei limiti consentiti dalle varie Religioni di Razza, ciascuna delle quali era adatta ai bisogni di una Tribù o di una Nazione particolari. 
+Il Cristo è unico fra tutti gli Esseri di tutti e sette i Mondi. LUI solo possiede i dodici veicoli. Nessuno all'infuori di LUI è capace di sentire tanta compassione e di pienamente comprendere la posizione ed i bisogni dell'umanità; nessuno, eccetto Lui, ha le qualità richieste per portare quell'aiuto necessario alla piena soddisfazione dei nostri bisogni. 
+
+Tale è dunque la natura del Cristo. Egli è il supremo Iniziato del Periodo del Sole e si incarnò nel corpo denso e nel corpo vitale di Gesù onde poter funzionare direttamente nel Mondo Fisico e apparire uomo fra gli uomini. Se si fosse manifestato in maniera miracolosa, ciò sarebbe stato contrario al piano di evoluzione, perché alla fine dell'Epoca Atlantidea l'umanità aveva ricevuto la libertà di fare il bene o di fare il male. Affinché gli uomini divenissero capaci di governarsi non si doveva usare coercizione alcuna. Essi dovevano saper discernere il bene dal male attraverso l'esperienza personale. Prima di quell'Epoca essi erano stati governati volenti o nolenti, ma a quell'Epoca fu data loro la libertà nei limiti consentiti dalle varie Religioni di Razza, ciascuna delle quali era adatta ai bisogni di una Tribù o di una Nazione particolari. 
 
 #### <h4 id="not-peace-but-a-sword">Non la Pace, ma la Spada</h4>
 
@@ -3091,9 +3097,7 @@ Possiamo tuttavia rallegrarci che la società senta l'obbligo di scusarsi per i 
 
 Tuttavia, benché il mondo vada progredendo e benché per esempio, l'autore di questo libro abbia potuto con relativa facilità esporre i propri punti di vista nelle varie città dove ha tenuto conferenze ed i quotidiani abbiano dedicato intere pagine alle sue idee (talvolta prime pagine) finché egli si limitava a parlare dei Mondi superiori e delle condizioni post- mortem, ha constatato che appena il tema era la Fratellanza Universale, i suoi articoli venivano sempre cestinati. 
 
-Il mondo è in generale molto restio a prendere in considerazione ciò che gli sembra troppo disinteressato. Deve esserci «qualcosa sotto». Una linea di condotta non è considerata proprio naturale se non offre qualche opportunità di sopraffare il prossimo. Le imprese commerciali vengono progettate e condotte secondo tale principio e, davanti alla mente di coloro che sono divenuti schiavi del desiderio di accumulare inutili ricchezze, l'idea di una Fratellanza Universale evoca spaventose visioni di abolizione del capitalismo e della sua conseguenza inevitabile: lo sfruttamento altrui, insieme con l'inevitabile disastro degli « interessi commerciali » che la cosa implica. La parola « schiavo » descrive esattamente questa condizione. Secondo la Bibbia, l'uomo doveva dominare il Mondo, ma nella maggioranza dei casi, è vero il contrario: è il mondo che domina l'uomo. Qualunque uomo abbia dei beni ammetterà, se vuole essere sincero che essi sono per lui sorgente inesauribile di ansietà; che egli è costretto a fare continuamente progetti per riuscire a mantenere i suoi possessi, o almeno per evitare di esserne privato dalle manovre fraudolente di coloro che li desiderano. 
-
-L'uomo è schiavo di ciò che egli, con ironia involontaria, chiama « mio possesso », mentre in realtà, esso possiede lui. Ben disse il Saggio di Concord, Emerson, che « le Cose sono in sella e cavalcano l'umanità! ». 
+Il mondo è in generale molto restio a prendere in considerazione ciò che gli sembra troppo disinteressato. Deve esserci «qualcosa sotto». Una linea di condotta non è considerata proprio naturale se non offre qualche opportunità di sopraffare il prossimo. Le imprese commerciali vengono progettate e condotte secondo tale principio e, davanti alla mente di coloro che sono divenuti schiavi del desiderio di accumulare inutili ricchezze, l'idea di una Fratellanza Universale evoca spaventose visioni di abolizione del capitalismo e della sua conseguenza inevitabile: lo sfruttamento altrui, insieme con l'inevitabile disastro degli « interessi commerciali » che la cosa implica. La parola « schiavo » descrive esattamente questa condizione. Secondo la Bibbia, l'uomo doveva dominare il Mondo, ma nella maggioranza dei casi, è vero il contrario: è il mondo che domina l'uomo. Qualunque uomo abbia dei beni ammetterà, se vuole essere sincero che essi sono per lui sorgente inesauribile di ansietà; che egli è costretto a fare continuamente progetti per riuscire a mantenere i suoi possessi, o almeno per evitare di esserne privato dalle manovre fraudolente di coloro che li desiderano. L'uomo è schiavo di ciò che egli, con ironia involontaria, chiama « mio possesso », mentre in realtà, esso possiede lui. Ben disse il Saggio di Concord, Emerson, che « le Cose sono in sella e cavalcano l'umanità! ». 
 
 Queste condizioni sono l'effetto delle Religioni di Razza e del loro sistema di leggi; perciò esse tutte aspettano « Colui Che deve venire ». La Religione Cristiana SOLA non attende Colui che deve venire, ma Colui che deve ritornare. L'epoca di questo ritorno dipende da quando la Chiesa potrà separarsi dallo Stato. La Chiesa, soprattutto in Europa, è legata al carro dello Stato. I Capi religiosi sono legati da considerazioni economiche e non si arrischiano a proclamare quelle verità che gli studi hanno loro rivelato. 
 
@@ -3107,12 +3111,14 @@ In apparenza vi è manifesta contraddizione fra le parole di Gesù Cristo « Io 
 
 Un'altrettanto grande contraddizione sembra esistere fra le parole di una donna e le sue azioni quando essa dice: « Pulisco e metto in ordine la casa » e poi comincia a levare i tappeti e ad accatastare le sedie, producendo confusione generale in una casa precedentemente ordinata. Chi osservasse questo solo aspetto della cosa, avrebbe ragione di dire: « Essa peggiora la situazione invece di migliorarla », ma quando si comprenda lo scopo del suo lavoro, si capisce pure che si tratta di un espediente e che la casa non potrà che guadagnare col passeggero disturbo. 
 
-Similmente dobbiamo tener presente che il tempo trascorso dopo la venuta di Gesù Cristo, è solo poco più di un istante a paragone della durata di un sol Giorno di Manifestazione. Dobbiamo imparare, con Whitman, a « conoscere l'ampiezza del tempo »1 e guardare, al di là delle crudeltà passate e presenti e delle gelosie delle sette in lotta, verso la splendente Era della Fratellanza Universale che segnerà il prossimo grande passo del progresso dell'uomo, nel suo lungo e meraviglioso viaggio dalla Terra a Dio, dal protoplasma all'unità cosciente col Padre, quel 
+Similmente dobbiamo tener presente che il tempo trascorso dopo la venuta di Gesù Cristo, è solo poco più di un istante a paragone della durata di un sol Giorno di Manifestazione. Dobbiamo imparare, con Whitman, a « conoscere l'ampiezza del tempo » (1) e guardare, al di là delle crudeltà passate e presenti e delle gelosie delle sette in lotta, verso la splendente Era della Fratellanza Universale che segnerà il prossimo grande passo del progresso dell'uomo, nel suo lungo e meraviglioso viaggio dalla Terra a Dio, dal protoplasma all'unità cosciente col Padre, quel 
 
-1 Walt Whitman era un poeta e pensatore americano (1819-1899). 
+() - (1) Walt Whitman era un poeta e pensatore americano (1819-1899). 
 
-    ...lontano, divino evento   
-    Verso il quale tutta la creazione si muove.   
+```
+...lontano, divino evento   
+Verso il quale tutta la creazione si muove.   
+```
 
 Si potrà aggiungere che il Pastore prima menzionato, durante la cerimonia nella quale ricevette i suoi allievi nella Chiesa, insegnò loro che Gesù Cristo era un individuo composito; che Gesù era la parte mortale, umana, mentre il Cris to era la parte divina, lo Spirito immortale. Presumibilmente, se la cosa fosse stata discussa con lui non sarebbe stato in grado di sostenere la sua asserzione, tuttavia facendola, egli affermò un fatto occulto. 
 
@@ -3126,19 +3132,23 @@ Si dice che la Stella di Betlemme sia apparsa all'epoca della nascita di Gesù e
 
 Molto si è discusso sulla natura di questa Stella. La maggior parte degli scienziati materialisti hanno dichiarato essere stata un mito, mentre altri hanno detto che se fosse stata qualcosa di più di mito, potrebbe esser stata una « coincidenza » - due Soli estinti potrebbero essersi scontrati ed aver causato una conflagrazione. Ogni mistico, però, conosce la « Stella » ed anche la « Croce », non solo come simboli connessi con la vita di Gesù e del Cristo Gesù, ma per sua esperienza personale. S. Paolo dice: « Fino a che il Cristo sia formato in voi »; e il mistico Angelo Silesio, fa eco: 
 
-    Anche se il Cristo mille volte in Betlemme fosse nato   
-    E non entro di te, l'anima tua sarà desolata.   
-    Alla Croce sul Golgota invano guardi   
-    Se entro di te essa non sia di nuovo innalzata.   
+```
+Anche se il Cristo mille volte in Betlemme fosse nato   
+E non entro di te, l'anima tua sarà desolata.   
+Alla Croce sul Golgota invano guardi   
+Se entro di te essa non sia di nuovo innalzata.   
+```
 
 Richard Wagner mostra la conoscenza intuitiva dell'artista, quando, alla domanda di Parsifal « Chi è il Graal? » Gurnemanz risponde: 
 
-    Questo non lo diciamo;   
-    Ma se tu da Lui sei stato comandato   
-    A te la verità non rimarrà celata.   
-    ... A Lui non conduce nessun sentiero della terra,   
-    E la ricerca allontana sempre più da Lui   
-    Se Lui stesso non è la Guida.   
+```
+Questo non lo diciamo;   
+Ma se tu da Lui sei stato comandato   
+A te la verità non rimarrà celata.   
+... A Lui non conduce nessun sentiero della terra,   
+E la ricerca allontana sempre più da Lui   
+Se Lui stesso non è la Guida.   
+```
 
 Sotto l'« antica dispensazione », il sentiero dell'Iniziazione non era aperto a tutti. Esso era riservato a pochi eletti. Alcuni potevano cercare il sentiero, ma solo coloro che venivano guidati verso i Templi dagli Ierofanti trovavano l'ingresso. Prima dell'avvento del Cristo non vi era mai stato invito così universale: da quel momento « Chiunque lo voglia, potrà entrare ». 
 
@@ -3186,7 +3196,9 @@ Così succede con l'Ego. Esso lavora con un triplice corpo che controlla, o dovr
 
 Questa volontà « inferiore » antagonistica, è l'espressione della parte superiore del corpo del desiderio. Quando ebbe luogo la separazione del Sole, della Luna e della Terra, al principio dell'Epoca Lemuriana, il corpo del desiderio della parte più progredita dell'umanità in formazione furono divisi in due parti, una superiore e una inferiore. Il resto dell'umanità fece altrettanto al principio dell'Epoca Atlantidea. 
 
-Questa parte superiore del corpo del desiderio divenne una specie di anima-animale. Essa costruì il sistema nervoso cerebrospinale ed i muscoli volontari, controllando con tale mezzo la parte inferiore del triplice corpo fino a che non ricevette il legame della mente. Allora la mente « si unì » con quest'anima-animale e condivise il suo dominio sul corpo. Così la mente è legata al desiderio; è ostacolata dall'egoismo della natura inferiore e ciò rende difficile allo Spirito il controllo del corpo. La mente centralizzatrice, che doveva essere l'alleato della natura superiore, viene alienata e unita alla natura inferiore, divenendo schiava del desiderio. 
+Questa parte superiore del corpo del desiderio divenne una specie di anima-animale. Essa costruì il sistema nervoso cerebrospinale ed i muscoli volontari, controllando con tale mezzo la parte inferiore del triplice corpo fino a che non ricevette il legame della mente. Allora la mente « si unì » con quest'anima-animale e condivise il suo dominio sul corpo. 
+
+Così la mente è legata al desiderio; è ostacolata dall'egoismo della natura inferiore e ciò rende difficile allo Spirito il controllo del corpo. La mente centralizzatrice, che doveva essere l'alleato della natura superiore, viene alienata e unita alla natura inferiore, divenendo schiava del desiderio. 
 
 La legge delle religioni di Razza fu fatta per sottrarre l'intelletto al dominio del desiderio. Il « timore di Dio » venne opposto alla « concupiscenza della carne ». Questo, però, non era sufficiente a rendere l'uomo capace di dominare il corpo e ad assicurarne la volontaria cooperazione. Fu necessario che lo Spirito trovasse nel corpo un'altra posizione vantaggiosa che non fosse dominata dalla natura del desiderio. Tutti i muscoli sono l'espressione del corpo del desiderio e offrono una via diretta verso il punto centrale, dove la mente traditrice è alleata ai desideri e regna sovrana. 
 
@@ -3206,7 +3218,9 @@ Il sangue è la più alta espressione del corpo-vitale, poiché nutre l'intero o
 
 Esistono tre punti particolari situati nella testa, ognuno dei quali è la dimora di uno dei tre aspetti dello Spirito (vedi la figura 19 a pag. 191), il secondo e il terzo aspetto hanno in più una base elettiva secondaria. 
 
-Il corpo del desiderio è l'espressione pervertita dell'Ego. Esso converte « l'individualità » dello Spirito in « egoismo ». L'individualità non cerca il proprio vantaggio a spese degli altri. L'egoismo, invece, cerca il profitto senza riguardo per gli altri. Lo Spirito Umano risiede in primo luogo nella ghiandola pineale e in secondo luogo nel cervello e nel sis tema cerebro-spinale, che controlla i muscoli volontari. L'amore e l'unità del Mondo dello Spirito Vitale, trovano la loro illusoria controparte nella Regione Eterica alla quale siamo uniti per mezzo del corpo vitale promotore dell'amore sensuale e dell'unione sessuale. Lo Spirito Vitale risiede in primo luogo nel corpo pituitario, e secondariamente nel cuore, porta d'ingresso del sangue il quale nutre i muscoli. 
+Il corpo del desiderio è l'espressione pervertita dell'Ego. Esso converte « l'individualità » dello Spirito in « egoismo ». L'individualità non cerca il proprio vantaggio a spese degli altri. L'egoismo, invece, cerca il profitto senza riguardo per gli altri. Lo Spirito Umano risiede in primo luogo nella ghiandola pineale e in secondo luogo nel cervello e nel sis tema cerebro-spinale, che controlla i muscoli volontari. 
+
+L'amore e l'unità del Mondo dello Spirito Vitale, trovano la loro illusoria controparte nella Regione Eterica alla quale siamo uniti per mezzo del corpo vitale promotore dell'amore sensuale e dell'unione sessuale. Lo Spirito Vitale risiede in primo luogo nel corpo pituitario, e secondariamente nel cuore, porta d'ingresso del sangue il quale nutre i muscoli. 
 
 Il passivo Spirito Divino - il Guardiano Silenzioso - trova la sua espressione materiale nello scheletro inerte e passivo del corpo fisico, che è il docile strumento degli altri corpi, ma che non ha potere di agire di sua iniziativa. Lo Spirito Divino ha la sua dimora nell'impenetrabile punto che si trova alla radice del naso. 
 
@@ -3274,9 +3288,7 @@ Questa maniera di procedere ebbe il risultato di produrre una Razza avente il gi
 
 La Missione del Cristo, oltre a salvare coloro che si erano perduti, doveva rendere l'Iniziazione accessibile a tutti; perciò Gesù non era un Levita al quale per diritto di nascita era riservata la funzione sacerdotale. Egli proveniva da gente del popolo e, benché non appartenesse alla classe degli istruttori, i Suoi insegnamenti erano superiori a quelli di Mosè. 
 
-Gesù Cristo non rinnegò Mosè, ne la legge, né i Profeti. Al contrario, Egli li riconobbe tutti e mostrò al popolo come essi fossero Suoi testimoni, perché tutti alludevano a Uno che doveva venire. 
-
-Egli disse al popolo che l'antica dispensazione aveva esaurito il suo scopo e che, da allora in poi, l'Amore doveva prendere il posto della Legge. 
+Gesù Cristo non rinnegò Mosè, ne la legge, né i Profeti. Al contrario, Egli li riconobbe tutti e mostrò al popolo come essi fossero Suoi testimoni, perché tutti alludevano a Uno che doveva venire. Egli disse al popolo che l'antica dispensazione aveva esaurito il suo scopo e che, da allora in poi, l'Amore doveva prendere il posto della Legge. 
 
 Gesù Cristo venne ucciso. In relazione a questo fatto, siamo portati a parlare della suprema e fondamentale differenza fra Lui e i precedenti Istruttori che furono Incarnazioni degli Spiriti di razza. Essi morirono tutti e dovevano più volte rinascere per aiutare i loro popoli a sopportare il peso del proprio destino. L'Arcangelo Michele (lo Spirito di Razza degli Ebrei) fece nascere Mosè che fu portato a morire sul Monte Nebo. Egli rinacque in Elia. Elia riapparve come Giovanni Battista, Buddha morì e rinacque come Shankaracharya; Shri Krishna dice « Allorquando vi è decadenza di Dharma... e... esaltazione di Adharma, io stesso apparirò per proteggere il buono, per la distruzione dei cattivi, allo scopo di fermamente stabilire il Dharma. Sono rinato di età in età ». 
 
@@ -3318,25 +3330,39 @@ I Fratelli Maggiori, Gesù tra Essi, hanno combattuto e combattono per contrappo
 
 Possano i Loro sforzi essere coronati dal successo e avvicinare il giorno in cui la scienza, spiritualizzandosi, conduca le sue ricerche nell'universo materiale osservandolo dal punto di vista dello Spirito poiché allora, e non prima, essa potrà giungere ad una conoscenza vera del mondo. 
 
-Figura Q: “Come in Alto, così in Basso”!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 ### <h3 id="chapter-16">Capitolo 16°: Il Futuro Sviluppo e l'Iniziazione</h3>
 
 #### <h4 id="the-seven-days-of-creation">I Sette Giorni della Creazione</h4>
 
 I Rosacroce parlano del Periodo della Terra come della fase Marte-Mercurio. Il Grande Giorno Creativo della Manifestazione è ricordato nel nome dei giorni della settimana, poiché questi giorni ebbero il loro nome dalle fasi evolutive per le quali gli Spiriti Vergini passano durante il loro pellegrinaggio attraverso la materia. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+| Giorno    | Corrisponde al                       | È governato da |
+| --------- | ------------------------------------ | -------------- |
+| Sabato    | Periodo di Saturno                   | Saturno        |
+| Domenica  | Periodo del Sole                     | Il Sole        |
+| Lunedì    | Periodo della Luna                   | Luna           |
+| Martedì   | Prima metà del Periodo della Terra   | Marte          |
+| Mercoledì | Seconda metà del Periodo della Terra | Mercurio       |
+| Giovedì   | Periodo di Giove                     | Giove          |
+| Venerdì   | Periodo di Venere                    | Venere         |
 
 Il Periodo di Vulcano è l'ultimo Periodo del nostro Piano di evoluzione. La quintessenza di tutti i Periodi precedenti è allora estratta dalla ricapitolazione delle spirali le une dopo le altre. Nessun nuovo lavoro viene intrapreso prima della definitiva Rivoluzione sull'ultimo Globo e ciò solo nella Settima Epoca. Per cui il Periodo di Vulcano può dirsi corrispondente alla settimana che include tutti e sette i giorni. 
 
-L'asserzione degli astrologi che i giorni della settimana sono governati dal pianeta particolare che ha dato loro il nome, è ben fondata. Anche gli antichi possedevano questa informazione occulta, come lo dimostrano le loro mitologie, nelle quali i nomi degli Dei sono associati ai nomi dei giorni della settimana. Sabato (in latino Sabati dies, giorno del sabbat, Saturday in inglese) è chiaramente il « giorno di Saturno », la Domenica è in relazione con il Sole (sun); e il Lunedì con la Luna. I Latini chiamavano il Martedì, dies Martis (il « giorno di Marte »), ciò che evidentemente dimostra la sua relazione con Marte, il Dio della guerra. Il nome Inglese « Tuesday » (Martedì) è derivato da « Thirsdag », « Tir » o « Tyr » essendo il nome del Dio della guerra scandinavo; lo stesso dicasi per Mercoledì (inglese « Wednesday ») che era in origine « Wotensdag » da Wotan, pure un Dio scandinavo: i Latini lo chiamavano dies Mercurii la qual cosa mostra la sua relazione con Mercurio come appare nella nostra lista. Giovedì (Inglese « Thursday ») o « Thorsdag » è così chiamato da « Thor », il Dio scandinavo del tuono e i Latini lo chiamavano dies Jovis, dal Dio del tuono Giove. Venerdì (in inglese Friday) prende il nome della Dea scandinava della bellezza « Freya », e per ragioni analoghe, i Latini lo chiamavano dies Veneris o giorno di Venere. 
+L'asserzione degli astrologi che i giorni della settimana sono governati dal pianeta particolare che ha dato loro il nome, è ben fondata. Anche gli antichi possedevano questa informazione occulta, come lo dimostrano le loro mitologie, nelle quali i nomi degli Dei sono associati ai nomi dei giorni della settimana. Sabato (in latino Sabati dies, giorno del sabbat, Saturday in inglese) è chiaramente il « giorno di Saturno », la Domenica è in relazione con il Sole (sun); e il Lunedì con la Luna. I Latini chiamavano il Martedì, dies Martis (il « giorno di Marte »), ciò che evidentemente dimostra la sua relazione con Marte, il Dio della guerra. Il nome Inglese « Tuesday » (Martedì) è derivato da « Thirsdag », « Tir » o « Tyr » essendo il nome del Dio della guerra scandinavo; lo stesso dicasi per Mercoledì (inglese « Wednesday ») che era in origine « Wotensdag » da Wotan, pure un Dio scandinavo: i Latini lo chiamavano dies Mercurii la qual cosa mostra la sua relazione con Mercurio come appare nella nostra lista. 
+
+Giovedì (Inglese « Thursday ») o « Thorsdag » è così chiamato da « Thor », il Dio scandinavo del tuono e i Latini lo chiamavano dies Jovis, dal Dio del tuono Giove. 
+
+Venerdì (in inglese Friday) prende il nome della Dea scandinava della bellezza « Freya », e per ragioni analoghe, i Latini lo chiamavano dies Veneris o giorno di Venere. 
 
 I nomi dei Periodi non hanno nulla in comune con i pianeti fisici, ma si riferiscono alle passate, presenti e future incarnazioni della Terra; poiché, applicando nuovamente l'assioma ermetico, « come in alto così in basso », il macrocosmo deve avere le sue incarnazioni come le ha il microcosmo, l'uomo. 
 
 La scienza occulta insegna che ci sono 777 incarnazioni, ma ciò non significa che la Terra compia 777 metamorfosi. Significa invece che la vita in evoluzione fa: 
 
-7 Rivoluzioni attorno ai 7 Globi dei 7 Periodi Mondiali. 
+```
+7 Rivoluzioni attorno ai 
+7 Globi dei 
+7 Periodi Mondiali. 
+```
 
 Questo pellegrinaggio dell'Involuzione e dell'Evoluzione, inclusa la « scorciatoia » dell'Iniziazione e riassunto nel Caduceo, o « Bastone di Mercurio » (vedi la figura 18) così chiamato perché questo simbolo occulto indica il sentiero dell'Iniziazione, che è stato aperto all'uomo solamente dal principio della metà Mercuriana del Periodo della Terra. Alcuni dei Misteri Minori furono dati ai primi Lemuriani ed agli Atlantidei, ma non furono date loro le quattro Grandi Iniziazioni. 
 
@@ -3346,9 +3372,7 @@ Il serpente bianco rappresenta il sentiero che la Razza umana seguirà durante l
 
 Il sentiero sinuoso è il sentiero seguito dalla gran maggioranza degli uomini, ma il « Bastone di Mercurio », attorno al quale i serpenti si avvolgono, indica la « via diritta e angusta », il Sentiero dell'Iniziazione, che dà la possibilità a coloro che lo percorrono di compiere in poche vite ciò che richiede milioni di anni alla maggior parte dell'umanità. 
 
-Non occorre dire che nessuna descrizione delle cerimonie iniziatrici può essere data, poiché la prima promessa solenne dell'Iniziato è il silenzio; ma anche se potessimo farlo, questa descrizione avrebbe un'importanza del tutto relativa. L'essenziale, in uno sguardo d'insieme del cammino dell'evoluzione, è di conoscere il risultato delle Iniziazioni. 
-
-Figura R: I Sette giorni della Creazione!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+Non occorre dire che nessuna descrizione delle cerimonie iniziatrici può essere data, poiché la prima promessa solenne dell'Iniziato è il silenzio; ma anche se potessimo farlo, questa descrizione avrebbe un'importanza del tutto relativa. L'essenziale, in uno sguardo d'insieme del cammino dell'evoluzione, è di conoscere il risultato delle Iniziazioni.  
 
 Esse hanno lo scopo di permettere all'aspirante spirituale di sviluppare in breve tempo le facoltà superiori per mezzo di un rigoroso tirocinio e di acquisire nello stesso tempo certi poteri inerenti a un'espansione della coscienza che tutta l'umanità dovrà un giorno possedere, ma che la maggior parte degli uomini si accontenta di acquisire attraverso il lento processo della comune evoluzione. Possiamo sapere a quale stato di coscienza il candidato può giungere e quali poteri corrispondenti egli ottiene passando attraverso le Grandi Iniziazioni, se riusciamo a immaginare ciò che tali stati di coscienza saranno in un lontano futuro per l'umanità in generale e di quali poteri essa disporrà. Abbiamo già accennato alle condizioni che prevarranno in avvenire, ed è facile giungere a delle conclusioni utili se applichiamo la legge d'Analogia. Saremo in grado, così, di farci una chiara idea dell'evoluzione riservata all'umanità e agli Iniziati, e di comprendere l'importanza degli alti gradi della Iniziazione. Per fare questo potrà giovarci volgere uno sguardo retrospettivo sulle fasi evolutive della coscienza umana durante i vari Periodi. 
 
@@ -3362,13 +3386,29 @@ Entro questi quattro stadi di coscienza già trascorsi, vi sono in tutto tredici
 
 Allo stesso modo possiamo dividere i nostri animali attuali secondo le loro forme, perché, essendo la Forma l'espressione della vita, ogni grado deve necessariamente mostrare un progresso nell'evoluzione della coscienza. 
 
-Cuvier fu il primo a dividere il regno animale in quattro classi primarie ma non ebbe molto successo nella divisione di queste classi in sottoclassi 1. L'embriologo Karl Ernst von Baer ed il Prof. Agassiz 2 e altri scienziati, classificarono il regno animale in quattro divisioni primarie e 13 suddivisioni come segue: 
+Cuvier fu il primo a dividere il regno animale in quattro classi primarie ma non ebbe molto successo nella divisione di queste classi in sottoclassi (1). L'embriologo Karl Ernst von Baer ed il Prof. Agassiz (2) e altri scienziati, classificarono il regno animale in quattro divisioni primarie e 13 suddivisioni come segue: 
 
-1 Georges Cuvier, naturalista francese (1769-1832); è il fondatore dell'anatomia comparata. 
+() - (1) Georges Cuvier, naturalista francese (1769-1832); è il fondatore dell'anatomia comparata. 
 
-2 Von Baer era un naturalista e geografo estone; fu il fondatore dell'embriologia comparata. Il prof. Louis Agassiz era uno zoologo e paleontologo svizzero sostenitore delle idee di Cuvier. Ambedue vissero ai primi dell'800. 
+() - (2) Von Baer era un naturalista e geografo estone; fu il fondatore dell'embriologia comparata. Il prof. Louis Agassiz era uno zoologo e paleontologo svizzero sostenitore delle idee di Cuvier. Ambedue vissero ai primi dell'800. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+I RADIATI:
+    1 – Polipi, Attinie e Coralli  
+    2 – Acaleffi, o Meduse  
+    3 – Stelle marine, Ricci di mare  
+II MOLLUSCHI:  
+    4 – Acefali (ostriche, ecc.)  
+    5 – Gasteropodi (lumache)  
+    6 – Cefalopodi  
+III ARTICOLATI: 
+    7 – Vermi  
+    8 – Crostacei (aragoste, ecc.)  
+    9 – Insetti  
+IV VERTEBRATI:  
+    10 – Pesci  
+    11 – Rettili  
+    12 – Uccelli  
+    13 – Mammiferi  
 
 Le prime tre divisioni corrispondono alle rimanenti tre Rivoluzioni della metà Mercuriana del Periodo della Terra, ed i loro nove gradi corrispondono ai nove gradi dei Misteri Minori, che saranno conseguiti dall'Umanità in generale quando essa avrà raggiunto la metà dell'ultima Rivoluzione del Periodo della Terra. 
 
@@ -3398,25 +3438,19 @@ La coscienza del Periodo di Giove non si manifesterà, nel Periodo di Giove fino
 
 Ugualmente, la coscienza del Periodo di Venere non comincerà a manifestarsi fino a quando la sesta Rivoluzione non sarà giunta al sesto Globo ed Epoca ed il lavoro speciale del Periodo di Vulcano sarà confinato all'ultimo Globo ed Epoca che precedono immediatamente la fine del Giorno di Manifestazione. 
 
-Il tempo necessario per attraversare questi rispettivi Periodi varia grandemente. Più gli Spiriti Vergini penetrano nella materia, più lento si fa il loro progresso. Quando l'apice dell'esistenza materiale è stato sorpassato e l'onda di vita si eleva a condizioni più tenui e mobili, il progresso si accelererà gradatamente. Il Periodo del Sole è di maggior durata del Periodo di Saturno, e il Periodo della Luna è più lungo del Periodo del Sole. 
-
-La fase marziana, o prima fase del Periodo della Terra, è più lunga di qualsiasi altro Periodo. In seguito i Periodi diventano più brevi, in modo che la metà Mercuriana del Periodo della Terra, le ultime tre Rivoluzioni e mezzo, prenderanno meno tempo che la metà Marziana. Il Periodo di Giove sarà più breve del Periodo della Luna; quello di Venere più breve del Periodo corrispondente del Sole; e il Periodo di Vulcano il più breve di tutti. 
+Il tempo necessario per attraversare questi rispettivi Periodi varia grandemente. Più gli Spiriti Vergini penetrano nella materia, più lento si fa il loro progresso. Quando l'apice dell'esistenza materiale è stato sorpassato e l'onda di vita si eleva a condizioni più tenui e mobili, il progresso si accelererà gradatamente. Il Periodo del Sole è di maggior durata del Periodo di Saturno, e il Periodo della Luna è più lungo del Periodo del Sole. La fase marziana, o prima fase del Periodo della Terra, è più lunga di qualsiasi altro Periodo. In seguito i Periodi diventano più brevi, in modo che la metà Mercuriana del Periodo della Terra, le ultime tre Rivoluzioni e mezzo, prenderanno meno tempo che la metà Marziana. Il Periodo di Giove sarà più breve del Periodo della Luna; quello di Venere più breve del Periodo corrispondente del Sole; e il Periodo di Vulcano il più breve di tutti. 
 
 Gli stati di coscienza dei differenti Periodi possono essere elencati come segue: 
 
-Periodo di Saturno - Incoscienza simile alla pi profonda trance (Fase Minerale) 
-
-Periodo del Sole - Incoscienza simile al sonno profondo, senza sogni (Fase Vegetale) 
-
-Periodo della Luna - Coscienza d’immagini alla condizione di sogno (Fase Animale) 
-
-Periodo della Terra - Coscienza obiettiva di veglia (Fase Umana o di Creazione Minerale) 
-
-Periodo di Giove - Coscienza di immagini autocosciente (Fase di Creazione Vegetale) 
-
-Periodo di Venere - Autocoscienza creatrice obbiettiva, consapevole (Fase di Creazione Animale) 
-
-Periodo di Vulcano - La più alta coscienza spirituale (Fase di Creazione Umana) 
+| Periodo              | Tipo di Coscienza                                                                  |
+| -------------------- | --------------------------------------------------------------------------- |
+| Periodo di Saturno   | Incoscienza simile alla più profonda trance (Fase Minerale)                 |
+| Periodo del Sole     | Incoscienza simile al sonno profondo, senza sogni (Fase Vegetale)           |
+| Periodo della Luna   | Coscienza d’immagini simile alla condizione di sogno (Fase Animale)         |
+| Periodo della Terra  | Coscienza obiettiva di veglia (Fase Umana o di Creazione Minerale)          |
+| Periodo di Giove     | Coscienza di immagini autocosciente (Fase di Creazione Vegetale)            |
+| Periodo di Venere    | Autocoscienza creatrice obiettiva e consapevole (Fase di Creazione Animale) |
+| Periodo di Vulcano   | La più alta coscienza spirituale (Fase di Creazione Umana)                  |
 
 Dopo aver dato uno sguardo generale agli stati di coscienza che saranno sviluppati nei prossimi tre Periodi e mezzo, studieremo ora con quali mezzi essi saranno ottenuti. 
 
@@ -3460,11 +3494,7 @@ L'Anima Intellettiva, come mediatrice fra le altre due, cresce con l'esercizio d
 
 Durante l'involuzione, lo Spirito progredisce costruendo dei corpi, ma l'evoluzione dipende dalla crescita dell'anima, dalla trasmutazione dei corpi in anima. L'anima è, per così dire, la quintessenza, il potere o forza del corpo, e quando un corpo è stato completamente costruito e portato alla perfezione attraverso le fasi e i Periodi che abbiamo descritto, l'anima ne viene completamente estratta per essere assorbita da quello dei tre aspetti dello Spirito che all'origine produsse il corpo corrispondente, come segue: 
 
-L'Anima Cosciente, verrà assorbita dallo Spirito Divino nella Settima Rivoluzione del Periodo di Giove; 
-
-L'Anima Intellettiva, verrà assorbita dallo Spirito Vitale nella Sesta Rivoluzione del Periodo di Venere; 
-
-L'Anima Emozionale, verrà assorbita dallo Spirito Umano nella Quinta Rivoluzione del Periodo di Vulcano. 
+L'Anima Cosciente, verrà assorbita dallo Spirito Divino nella Settima Rivoluzione del Periodo di Giove; L'Anima Intellettiva, verrà assorbita dallo Spirito Vitale nella Sesta Rivoluzione del Periodo di Venere; L'Anima Emozionale, verrà assorbita dallo Spirito Umano nella Quinta Rivoluzione del Periodo di Vulcano. 
 
 #### <h4 id="the-creative-word">Il Verbo Creatore</h4>
 
@@ -3510,7 +3540,9 @@ E' giunto il momento di indicare il sentiero che dovrà seguire chi voglia compi
 
 Un solo esempio basterà ad indicare i primi passi. Il miglior meccanico è quasi impotente senza gli arnesi del suo mestiere. A dire il vero, una delle caratteristiche di un buon artigiano è quella di essere assai esigente riguardo alla qualità e alle condizioni degli arnesi che usa, poiché sa bene che la qualità del suo lavoro dipende tanto dalla loro perfezione, quanto dalla sua abilità. 
 
-L'Ego possiede molti strumenti: un corpo denso, un corpo vitale, un corpo del desiderio e una mente. Questi sono gli arnesi e dalla loro qualità e dal loro stato dipende quanto potrà compiere lavorando per acquisire esperienza in ciascuna vita. Se gli strumenti sono mediocri e consumati, lo sviluppo spirituale sarà minimo, e la vita, per quanto si riferisce allo Spirito, sarà sterile. Generalmente misuriamo il successo di una vita dal conto che si ha in banca, dalla posizione sociale raggiunta, o dalla felicità risultante da un'esistenza scevra di preoccupazioni e in un ambiente sicuro. 
+L'Ego possiede molti strumenti: un corpo denso, un corpo vitale, un corpo del desiderio e una mente. Questi sono gli arnesi e dalla loro qualità e dal loro stato dipende quanto potrà compiere lavorando per acquisire esperienza in ciascuna vita. Se gli strumenti sono mediocri e consumati, lo sviluppo spirituale sarà minimo, e la vita, per quanto si riferisce allo Spirito, sarà sterile. 
+
+Generalmente misuriamo il successo di una vita dal conto che si ha in banca, dalla posizione sociale raggiunta, o dalla felicità risultante da un'esistenza scevra di preoccupazioni e in un ambiente sicuro. 
 
 Colui che vede la vita in tal modo, dimentica tutto ciò che è importante e durevole; l'individuo è accecato da tutto ciò che è evanescente ed illusorio; un conto in banca gli sembra un successo tanto reale, da fargli perdere di vista il fatto che, dal momento in cui l'Ego abbandona il corpo, egli deve rinunciare a ogni altro possedimento terreno. Può perfino accadere che si debba rispondere dei metodi impiegati per accumulare il gruzzolo, e soffrire terribilmente vedendolo dissipare dagli altri. Egli dimentica che anche l'importanza della posizione sociale svanisce quando il cordone argenteo è reciso. Coloro che egli una volta adulò, possono allora sogghignare, ed anche gli amici fedeli della vita appena trascorsa, rabbrividiscono al pensiero di trascorrere un'ora in sola compagnia del morto. Tutto ciò che è soltanto di questa vita, è vanità. Ha vero valore soltanto ciò che può essere portato con noi, oltre la soglia, come tesoro dello Spirito. 
 
@@ -3524,7 +3556,9 @@ Colui che ha scosso da sé l'abituale sonnolenza e sente l'ardente desiderio di 
 
 Senza arnesi ben tenuti, il meccanico non può eseguire un buon lavoro: similmente gli strumenti dell'Ego debbono essere purificati e sensibilizzati; può allora cominciare a lavorare per uno scopo definito. Lavorando con tali meravigliosi arnesi, questi si perfezionano se sono convenientemente utilizzati, e divengono sempre più efficienti per aiutarci nel lavoro. Oggetto di questo lavoro è l'Unione col Sé Superiore. 
 
-Vi sono tre gradi in questo lavoro di soggiogamento della natura inferiore, ma essi in realtà non vengono attraversati uno dopo l'altro. In un certo senso possiamo dire che essi vanno di pari passo, così che all'epoca attuale il primo riceve la massima attenzione, il secondo meno ed il terzo meno ancora. In seguito, quando il primo grado è stato completamente superato, naturalmente si presterà maggiore attenzione agli altri due. Tre aiuti sono accordati per conseguire questi tre gradi. Si possono vedere nel mondo esterno, dove le grandi Guide dell'umanità li hanno collocati. 
+Vi sono tre gradi in questo lavoro di soggiogamento della natura inferiore, ma essi in realtà non vengono attraversati uno dopo l'altro. In un certo senso possiamo dire che essi vanno di pari passo, così che all'epoca attuale il primo riceve la massima attenzione, il secondo meno ed il terzo meno ancora. In seguito, quando il primo grado è stato completamente superato, naturalmente si presterà maggiore attenzione agli altri due. 
+
+Tre aiuti sono accordati per conseguire questi tre gradi. Si possono vedere nel mondo esterno, dove le grandi Guide dell'umanità li hanno collocati. 
 
 Il primo aiuto e costituito dalle Religioni di Razza che, aiutando l'umanità a dominare il corpo del desiderio, lo preparano all'unione con lo Spirito Santo. 
 
@@ -3540,9 +3574,7 @@ Il principio fondamentale dello sviluppo del corpo vitale è la ripetizione. Le 
 
 Tali idee sono fondate sopra una falsa comprensione dei fatti. In verità Dio è onnisciente e non ha bisogno di nessuno che Gli ricordi le nostre necessità; ma se noi preghiamo nella maniera dovuta, eleviamo il nostro pensiero e il nostro cuore verso di Lui, agendo così sul nostro corpo vitale e purificandolo. La difficoltà consiste nel sapere come dobbiamo pregare e come ben pregare. In genere ci preoccupiamo molto più dei valori temporali che del nostro progresso spirituale. 
 
-Certe Chiese elevano speciali preghiere per ottenere la pioggia e i cappellani di opposti eserciti o flotte, non esitano a pregare prima di una battaglia, perché il successo arrida alle loro armi! 
-
-Tali preghiere sono rivolte al Dio della Razza, il quale combatte per il Suo popolo, accresce le sue greggi e gli armenti, riempie i suoi granai e provvede ai suoi bisogni materiali. Tali preghiere non sono nemmeno purificatrici. Esse provengono dal corpo del desiderio, il quale riassume la situazione così: « Signore siccome ho osservato tutti i tuoi comandamenti come meglio ho potuto, mi aspetto che vorrai rimunerarmi da parte Tua ». 
+Certe Chiese elevano speciali preghiere per ottenere la pioggia e i cappellani di opposti eserciti o flotte, non esitano a pregare prima di una battaglia, perché il successo arrida alle loro armi! Tali preghiere sono rivolte al Dio della Razza, il quale combatte per il Suo popolo, accresce le sue greggi e gli armenti, riempie i suoi granai e provvede ai suoi bisogni materiali. Tali preghiere non sono nemmeno purificatrici. Esse provengono dal corpo del desiderio, il quale riassume la situazione così: « Signore siccome ho osservato tutti i tuoi comandamenti come meglio ho potuto, mi aspetto che vorrai rimunerarmi da parte Tua ». 
 
 Il Cristo ha dato all'umanità una preghiera che è, come Lui medesimo unica e completa. Essa comprende sette distinte preghiere; una per ciascuno dei sette principi dell'uomo: il triplice corpo, il triplice Spirito e l'anello di congiunzione della mente. Ciascuna preghiera ha lo scopo speciale di favorire il progresso di quella parte dell'uomo composito alla quale si riferisce. 
 
@@ -3562,11 +3594,11 @@ L'ideale della Religione del Padre sarà l'eliminazione di qualsiasi separativit
 
 Questi sono i gradi e le tappe attraverso i quali l'umanità è inconsciamente condotta. 
 
-Nelle età passate lo Spirito di Razza era l'unico che regnava. L'uomo si contentava di un governo patriarcale e paternalistico nel quale non aveva alcuna parte. Ora, in tutto il mondo, scorgiamo i segni dell'abbattimento del vecchio sistema. Il sistema delle caste che era baluardo dell'Inghilterra in India, sta stritolandosi. Invece di rimanere separati in piccoli gruppi, gli Indù hanno cercato di unirsi per chiedere che l'oppressore se ne vada e li lasci vivere in libertà sotto un governo del e per il popolo. La Russia è dilaniata dalla lotta per la libertà contro un governo dittatoriale ed autocratico 1. La Turchia si è risvegliata ed ha fatto un gran passo verso la libertà. Qui nel nostro stesso Paese 2, dove crediamo di godere effettivamente quella libertà che gli altri possono solo desiderare ardentemente, lottando per conquistarla, non siamo tuttavia ancora soddisfatti. Stiamo imparando che ci sono altre oppressioni oltre quella di una monarchia autocratica. Vediamo che dobbiamo ancora conquistare la libertà industriale; ci troviamo schiacciati dal giogo dei « trusts » e da un insensato sistema di concorrenza. Ci indirizziamo verso una cooperazione praticata in seno ai « trusts » per il loro vantaggio privato. Vorremmo una società dove « tutti gli uomini sederanno ciascuno sotto la propria vite e sotto il proprio fico; e nessuno potrà intimorirli ». 
+Nelle età passate lo Spirito di Razza era l'unico che regnava. L'uomo si contentava di un governo patriarcale e paternalistico nel quale non aveva alcuna parte. Ora, in tutto il mondo, scorgiamo i segni dell'abbattimento del vecchio sistema. Il sistema delle caste che era baluardo dell'Inghilterra in India, sta stritolandosi. Invece di rimanere separati in piccoli gruppi, gli Indù hanno cercato di unirsi per chiedere che l'oppressore se ne vada e li lasci vivere in libertà sotto un governo del e per il popolo. La Russia è dilaniata dalla lotta per la libertà contro un governo dittatoriale ed autocratico (1). La Turchia si è risvegliata ed ha fatto un gran passo verso la libertà. Qui nel nostro stesso Paese (2), dove crediamo di godere effettivamente quella libertà che gli altri possono solo desiderare ardentemente, lottando per conquistarla, non siamo tuttavia ancora soddisfatti. Stiamo imparando che ci sono altre oppressioni oltre quella di una monarchia autocratica. Vediamo che dobbiamo ancora conquistare la libertà industriale; ci troviamo schiacciati dal giogo dei « trusts » e da un insensato sistema di concorrenza. Ci indirizziamo verso una cooperazione praticata in seno ai « trusts » per il loro vantaggio privato. Vorremmo una società dove « tutti gli uomini sederanno ciascuno sotto la propria vite e sotto il proprio fico; e nessuno potrà intimorirli ». 
 
-1 La prima edizione di questo libro è del 1909. 
+(1) La prima edizione di questo libro è del 1909. 
 
-2 Gli Stati Uniti. 
+(2) Gli Stati Uniti. 
 
 Così ovunque nel mondo i vecchi sistemi di governo stanno cambiando. Le nazioni, come tali, hanno fatto il loro tempo e lavorano inconsapevolmente per un ideale di Fratellanza Universale, in accordo col piano delle nostre Guide Invisibili che, sebbene non facciano ufficialmente parte dei Consigli delle Nazioni, influenzano tuttavia il corso degli avvenimenti. 
 
@@ -3634,13 +3666,11 @@ Si è calcolato che l'acqua ordinaria non distillata, contenga carbonato di calc
 
 L'acqua non distillata usata come bevanda è il peggior nemico dell'uomo, ma usata esternamente diviene il suo miglior amico. Essa mantiene i pori della pelle aperti, ciò che impedisce il deposito dei sali di calcio solidi, causa di morte a più o meno lunga scadenza. 
 
-Harvey, che scoprì la circolazione del sangue, affermò che la salute è il risultato di una libera circolazione di questo fluido e la malattia è il risultato di una circolazione imperfetta 1. 
+Harvey, che scoprì la circolazione del sangue, affermò che la salute è il risultato di una libera circolazione di questo fluido e la malattia è il risultato di una circolazione imperfetta (1). 
 
-1 William Harvey, medico e anatomista inglese (1578-1657). Nel 1628 pubblicò l'Esercitatio anatomica de motu cordis et sanguinis in animalibus, che chiarì il problema della circolazione sanguigna. Fu allievo della Scuola Medica Padovana. 
+() - (1) William Harvey, medico e anatomista inglese (1578-1657). Nel 1628 pubblicò l'Esercitatio anatomica de motu cordis et sanguinis in animalibus, che chiarì il problema della circolazione sanguigna. Fu allievo della Scuola Medica Padovana. 
 
-I bagni aiutano molto il mantenimento della salute del corpo e l'aspirante alla vita superiore dovrebbe farne uso frequente. La traspirazione, sensibile o inavvertita, espelle dal corpo maggior quantità di materia solida di qualunque altra funzione. 
-
-Fintanto che gli si fornisce combustibile ed è tenuto libero dalle ceneri, il fuoco continuerà a bruciare. Importantissimi sono i reni per l'eliminazione delle scorie dal corpo; ma, nonostante la grande quantità di materia solida eliminata dall'urina, in molti casi ne rimane abbastanza per formare renelle e calcoli nella vescica, provocando gravissime sofferenze e spesso la morte. 
+I bagni aiutano molto il mantenimento della salute del corpo e l'aspirante alla vita superiore dovrebbe farne uso frequente. La traspirazione, sensibile o inavvertita, espelle dal corpo maggior quantità di materia solida di qualunque altra funzione. Fintanto che gli si fornisce combustibile ed è tenuto libero dalle ceneri, il fuoco continuerà a bruciare. Importantissimi sono i reni per l'eliminazione delle scorie dal corpo; ma, nonostante la grande quantità di materia solida eliminata dall'urina, in molti casi ne rimane abbastanza per formare renelle e calcoli nella vescica, provocando gravissime sofferenze e spesso la morte. 
 
 Né si deve credere che l'acqua bollita contenga minor quantità di sostanza calcarea. Il deposito che si forma sul fondo del ramino in cui si bolle l'acqua, è prodotto dall'acqua sfuggita dal ramino sotto forma di vapore. Se il vapore fosse condensato otterremmo acqua distillata che è un importante aiuto per mantenere il corpo giovane. 
 
@@ -3648,9 +3678,7 @@ Non vi è assolutamente alcuna sostanza solida nell'acqua distillata, e neppure 
 
 In generale, possiamo dire che i legumi e le frutta mature contengono la più alta proporzione di sostanza nutritiva e la più bassa di materie solide. 
 
-Possiamo inoltre aggiungere, poiché scriviamo per l'aspirante alla vita superiore, e non per il pubblico ordinario, che gli alimenti animali dovrebbero possibilmente essere del tutto evitati. Chi uccide non può andare molto lontano nel sentiero della santità. 
-
-Ma noi facciamo anche di peggio, perché, per evitare di commettere personalmente questo atto e tuttavia raccoglierne i vantaggi, obblighiamo un nostro simile a fare il mestiere di uccisore, cosa che contribuisce a fare di lui un essere brutale, fino al punto che la legge gli vieta (negli U.S.A.) di far parte della giuria che debba sentenziare su casi di assassinio, poiché le sue occupazioni giornaliere gli hanno reso troppo familiare l'atto di uccidere. 
+Possiamo inoltre aggiungere, poiché scriviamo per l'aspirante alla vita superiore, e non per il pubblico ordinario, che gli alimenti animali dovrebbero possibilmente essere del tutto evitati. Chi uccide non può andare molto lontano nel sentiero della santità. Ma noi facciamo anche di peggio, perché, per evitare di commettere personalmente questo atto e tuttavia raccoglierne i vantaggi, obblighiamo un nostro simile a fare il mestiere di uccisore, cosa che contribuisce a fare di lui un essere brutale, fino al punto che la legge gli vieta (negli U.S.A.) di far parte della giuria che debba sentenziare su casi di assassinio, poiché le sue occupazioni giornaliere gli hanno reso troppo familiare l'atto di uccidere. 
 
 Gli esoteristi sanno che gli animali sono i loro più giovani fratelli e che saranno umani nel Periodo di Giove. Noi li aiuteremo allora, come gli Angeli, che erano umani nel Periodo della Luna, ci aiutano adesso; e per un aspirante ad alti ideali, l'uccidere - sia direttamente che per mezzo di un intermediario - è senza discussione vietato. 
 
@@ -3680,21 +3708,23 @@ I grassi mantengono il calore del corpo e formano la riserva di energia.
 
 Gli elementi calcarei, o ceneri, sono minerali, solidi ed ostruiscono l'organismo. Non occorre temere di non averne in quantità sufficiente per la formazione delle ossa; al contrario, dobbiamo stare attenti per assorbirne la minor quantità possibile. 
 
-La caloria è la semplice unità di calore. La Tavola mostra la quantità di calorie contenuta in ciascun alimento esclusi i rifiuti. Il 49,6% di noci del Brasile, per esempio, sono rifiuti (i gusci), mentre 100 grammi netti - corrispondenti quindi a poco meno di 200 gr. così come vengono acquistati al mercato - contengono 676 calorie. Affinché Si possa trarre la maggior quantità di energia dalla nostra alimentazione, dobbiamo far attenzione al numero delle calorie che contiene, perché da esse riceviamo l'energia necessaria al nostro lavoro quotidiano. Il numero di calorie necessario per sostenere il corpo sotto condizioni diverse, è mostrato dalla tabella seguente (per ogni giorno) 1: 
+La caloria è la semplice unità di calore. La Tavola mostra la quantità di calorie contenuta in ciascun alimento esclusi i rifiuti. Il 49,6% di noci del Brasile, per esempio, sono rifiuti (i gusci), mentre 100 grammi netti - corrispondenti quindi a poco meno di 200 gr. così come vengono acquistati al mercato - contengono 676 calorie. Affinché Si possa trarre la maggior quantità di energia dalla nostra alimentazione, dobbiamo far attenzione al numero delle calorie che contiene, perché da esse riceviamo l'energia necessaria al nostro lavoro quotidiano. Il numero di calorie necessario per sostenere il corpo sotto condizioni diverse, è mostrato dalla tabella seguente (per ogni giorno) (1): 
 
-1 La tabella è stata sostituita con altra più recente, desunta dal volume di Cooper, Barber e Mitchell: Nutrition in health and desease; Philadelphia 1958 aggiornata in pubblicazioni successive. 
+() - (1) La tabella è stata sostituita con altra più recente, desunta dal volume di Cooper, Barber e Mitchell: Nutrition in health and desease; Philadelphia 1958 aggiornata in pubblicazioni successive. 
 
-2!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|                                                |              |
+| ---------------------------------------------- | ------------ |
+| Uomo con lavoro muscolare molto pesante        | 5500 Calorie |
+| Uomo con lavoro muscolare abbastanza pesante   | 4150 Calorie |
+| Uomo con lavoro muscolare moderato             | 3400 Calorie |
+| Uomo con lavoro leggero                        | 3050 Calorie |
+| Uomo con lavoro sedentario                     | 2700 Calorie |
+| Uomo senza esercizio muscolare                 | 2450 Calorie |
+| Donna con lavoro manuale da leggero a moderato | 2450 Calorie |
 
-2 Cioè le energie necessarie al funzionamento del corpo: cuore, polmoni, regolazione termica, ecc. . 
+() - (2) Cioè le energie necessarie al funzionamento del corpo: cuore, polmoni, regolazione termica, ecc. . 
 
-Queste quantità vanno proporzionalmente diminuite o aumentate secondo le età: maggiori in età giovanile, minori via via che si avanza negli anni. 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-1 I dati contrassegnati con * sono desunti da: Composizione in alcuni principi nutritivi degli alimenti comunemente usati in Italia; Roma 1972, per gentile concessione dell’Istituto Nazionale della Nutrizione. Tutti gli altri dati sono stati desunti da : Table de composition des aliments; di L.Randon, P.Le Gallic, Y. Dupuis, A.Bernardin, dell’Institut Scientifique d’Hygiène Alimentaire, Parigi. 1961. Nota sui legumi: con la cottura in acqua i legumi perdono dal 30 al 70% della loro quantità di carboidrati, e dal 20 al 50% di fosforo. 
-
-2 I dati contrassegnati con * sono desunti da: Composizione in alcuni principi nutritivi degli alimenti comunemente usati in Italia; Roma 1972, per gentile concessione dell’Istituto Nazionale della Nutrizione. Tutti gli altri dati sono stati desunti da : Table de composition des aliments; di L.Randon, P.Le Gallic, Y. Dupuis, A.Bernardin, dell’Institut Scientifique d’Hygiène Alimentaire, Parigi. 1961. Nota sui legumi: con la cottura in acqua i legumi perdono dal 30 al 70% della loro quantità di carboidrati, e dal 20 al 50% di fosforo. 
+() - (1) I dati contrassegnati con * sono desunti da: Composizione in alcuni principi nutritivi degli alimenti comunemente usati in Italia; Roma 1972, per gentile concessione dell’Istituto Nazionale della Nutrizione. Tutti gli altri dati sono stati desunti da : Table de composition des aliments; di L.Randon, P.Le Gallic, Y. Dupuis, A.Bernardin, dell’Institut Scientifique d’Hygiène Alimentaire, Parigi. 1961. Nota sui legumi: con la cottura in acqua i legumi perdono dal 30 al 70% della loro quantità di carboidrati, e dal 20 al 50% di fosforo.
 
 Secondo questa tavola è evidente che il cioccolato è il cibo più nutriente che possediamo , e che il cacao in polvere è il più dannoso di tutti gli alimenti perché contiene residui in quantità tripla della maggior parte degli altri e in quantità decupla di alcuni. E' un alimento potente ma è anche un potente veleno, perché ostruisce il sistema più rapidamente di qualsiasi altra sostanza. 
 
@@ -3712,31 +3742,42 @@ Si può logicamente concludere che il fosforo è l'elemento particolare per mezz
 
 E' quindi di grande importanza che l'aspirante, il quale voglia utilizzare il proprio corpo per un lavoro mentale e spirituale, provveda al suo cervello la sostanza necessaria a tale scopo. La maggior parte dei vegetali e della frutta contiene una certa quantità di fosforo; ma è assai curioso che la maggior proporzione si trovi nelle foglie, le quali vengono di solito gettate via. Si trova in quantità considerevole nell'uva, nelle cipolle, nella salvia, nelle fave, nei fagioli, nei chiodi di garofano, negli ananas, nelle foglie e nei talli di molti vegetali, come pure nel succo della canna da zucchero; non però nello zucchero raffinato. 
 
-La tabellina seguente mostra la proporzione di acido fosforico contenuto in alcuni alimenti, su 100.000 parti 3: 
+La tabellina seguente mostra la proporzione di acido fosforico contenuto in alcuni alimenti, su 100.000 parti (3): 
 
-1 Solo un terzo di questa quantità è utilizzabile dall’organismo. 
+| 100.000 parti di:        | contengono di acido fosforico: |
+| ------------------------ | ------------------------------ |
+| Orzo, secco              | 210 parti                      |
+| Fagioli                  | 292 parti                      |
+| Barbabietole             | 167 parti                      |
+| Barbabietole, foglie     | 690 parti                      |
+| Grano saraceno           | 170 parti                      |
+| Carote, secche           | 395 parti                      |
+| Carote, foglie           | 963 parti                      |
+| Semi di lino             | 880 parti                      |
+| Semi di lino, steli      | 118 parti                      |
+| Pastinache               | 111 parti                      |
+| Pastinache, foglie       | 1784 parti                     |
+| Piselli                  | 190 parti                      |
 
-3 Le voci contrassegnate da asterisco (*) sono state da noi aggiunte. I loro valori in fosforo si riferiscono a 100 grammi di alimento edibile e sono stati desunti da: Composizione in alcuni principi nutritivi, ecc., già citato. 
+() - (1) Solo un terzo di questa quantità è utilizzabile dall’organismo. 
+
+() - (3) Le voci contrassegnate da asterisco (*) sono state da noi aggiunte. I loro valori in fosforo si riferiscono a 100 grammi di alimento edibile e sono stati desunti da: Composizione in alcuni principi nutritivi, ecc., già citato. 
 
 Tutto quanto di essenziale è stato detto del precedente argomento può così riassumersi: 
 
-1. Il corpo, durante l'intero periodo della vita, è sottoposto a un processo di indurimento. 
+1\. Il corpo, durante l'intero periodo della vita, è sottoposto a un processo di indurimento. 
 
-2. Questo processo è determinato dal deposito, da parte del sangue, di sostanze calcaree, soprattutto fosfato e carbonato di calcio, che convertono le diverse parti del corpo in ossa e in materie analoghe. 
+2\. Questo processo è determinato dal deposito, da parte del sangue, di sostanze calcaree, soprattutto fosfato e carbonato di calcio, che convertono le diverse parti del corpo in ossa e in materie analoghe. 
 
-3. Questa ossificazione distrugge l'elasticità dei vasi, dei muscoli e delle altre parti del corpo suscettibili di movimento. Essa ispessisce il sangue e ostruisce i minutissimi vasi capillari, in modo che la circolazione dei fluidi e l'attività dell'organismo in generale declina; il termine di questo processo è la morte. 
+3\. Questa ossificazione distrugge l'elasticità dei vasi, dei muscoli e delle altre parti del corpo suscettibili di movimento. Essa ispessisce il sangue e ostruisce i minutissimi vasi capillari, in modo che la circolazione dei fluidi e l'attività dell'organismo in generale declina; il termine di questo processo è la morte. 
 
-4. Questo processo di indurimento può essere ritardato, e la vita prolungata, evitando accuratamente cibi che contengono molte ceneri, bevendo acqua distillata, e favorendo l'eliminazione delle scorie attraverso la pelle con bagni frequenti. 
+4\. Questo processo di indurimento può essere ritardato, e la vita prolungata, evitando accuratamente cibi che contengono molte ceneri, bevendo acqua distillata, e favorendo l'eliminazione delle scorie attraverso la pelle con bagni frequenti. 
 
-Quanto sopra spiega perché alcune religioni prescrivano frequenti abluzioni come pratica religiosa, dato che esse rafforzano la salute e purificano il corpo fisico. 
-
-Anche i digiuni sono prescritti per la stessa ragione. Essi danno allo stomaco il necessario riposo, permettono al corpo di eliminare i materiali che non servono più e, se non sono troppo frequenti o troppo prolungati, favoriscono la salute; ma di solito si possono ottenere risultati equivalenti o superiori, dando al corpo alimenti adatti, i quali sono ancora le migliori medicine. 
+Quanto sopra spiega perché alcune religioni prescrivano frequenti abluzioni come pratica religiosa, dato che esse rafforzano la salute e purificano il corpo fisico. Anche i digiuni sono prescritti per la stessa ragione. Essi danno allo stomaco il necessario riposo, permettono al corpo di eliminare i materiali che non servono più e, se non sono troppo frequenti o troppo prolungati, favoriscono la salute; ma di solito si possono ottenere risultati equivalenti o superiori, dando al corpo alimenti adatti, i quali sono ancora le migliori medicine. 
 
 La prima preoccupazione d'un medico è sempre quella di accertarsi che l'escrezione avvenga normalmente, poiché essa è il mezzo principale impiegato dalla Natura per liberare il corpo dai veleni contenuti dagli alimenti. 
 
-In conclusione, l'aspirante scelga l'alimento di più facile digestione, perché, quanto più facilmente l'energia viene estratta dal cibo, più l'organismo avrà tempo di riposarsi, prima che gli sia necessario assorbire nuovi alimenti. 
-
-Il latte non si dovrebbe mai bere come se si bevesse un bicchiere d'acqua, perché allora forma nello stomaco una palla di formaggio sulla quale i succhi gastrici non hanno che una modesta azione. Esso dovrebbe essere bevuto a piccoli sorsi, come il tè o il caffè. In tal modo formerà nello stomaco piccoli globuli i quali saranno agevolmente assimilati. Convenientemente impiegato, il latte è uno dei migliori alimenti. Gli agrumi sono potenti antisettici, e i cereali, specialmente il riso, sono antitossici di grande efficacia. 
+In conclusione, l'aspirante scelga l'alimento di più facile digestione, perché, quanto più facilmente l'energia viene estratta dal cibo, più l'organismo avrà tempo di riposarsi, prima che gli sia necessario assorbire nuovi alimenti. Il latte non si dovrebbe mai bere come se si bevesse un bicchiere d'acqua, perché allora forma nello stomaco una palla di formaggio sulla quale i succhi gastrici non hanno che una modesta azione. Esso dovrebbe essere bevuto a piccoli sorsi, come il tè o il caffè. In tal modo formerà nello stomaco piccoli globuli i quali saranno agevolmente assimilati. Convenientemente impiegato, il latte è uno dei migliori alimenti. Gli agrumi sono potenti antisettici, e i cereali, specialmente il riso, sono antitossici di grande efficacia. 
 
 Avendo ora spiegato dal punto di vista puramente materiale, quali sono le necessità del corpo fisico, considereremo il soggetto dal lato occulto, prendendo in esame gli effetti che il regime alimentare produce sui due corpi invisibili che interpenetrano il corpo denso. 
 
@@ -3758,9 +3799,7 @@ Questo è il più alto punto di sviluppo del corpo fisico. Gli animali superiori
 
 #### <h4 id="the-law-of-assimilation">La Legge di Assimilazione</h4>
 
-Questa legge ci impedisce di assimilare una qualsiasi particella che, in quanto Spiriti, non abbiamo vinto e sottomesso. Come ricorderemo, le forze consacrate a questa attività sono principalmente i nostri « morti » che hanno avuto accesso al «cielo» dove stanno imparando a costruire i corpi da usare in questo mondo; ma essi lavorano secondo determinate leggi che non possono eludere. Esiste la vita in ogni particella di alimento che noi introduciamo nei nostri corpi e prima di poter innestare questa vita in essi mediante il processo di assimilazione, noi dobbiamo vincerla e sottometterla. In caso contrario, nel corpo non potrebbe esserci armonia. 
-
-Le diverse parti agirebbero indipendentemente una dall'altra, come fanno quando viene ritirata la vita coordinatrice. Questo è ciò che chiamiamo deperimento, il processo di disintegrazione che è esattamente l'opposto dell'assimilazione. Più le particelle da assimilare sono individualizzate, più energia sarà richiesta per digerire e più breve sarà la durata della loro assimilazione, fino al momento in cui cercheranno nuovamente di affermare la loro individualità. 
+Questa legge ci impedisce di assimilare una qualsiasi particella che, in quanto Spiriti, non abbiamo vinto e sottomesso. Come ricorderemo, le forze consacrate a questa attività sono principalmente i nostri « morti » che hanno avuto accesso al «cielo» dove stanno imparando a costruire i corpi da usare in questo mondo; ma essi lavorano secondo determinate leggi che non possono eludere. Esiste la vita in ogni particella di alimento che noi introduciamo nei nostri corpi e prima di poter innestare questa vita in essi mediante il processo di assimilazione, noi dobbiamo vincerla e sottometterla. In caso contrario, nel corpo non potrebbe esserci armonia. Le diverse parti agirebbero indipendentemente una dall'altra, come fanno quando viene ritirata la vita coordinatrice. Questo è ciò che chiamiamo deperimento, il processo di disintegrazione che è esattamente l'opposto dell'assimilazione. Più le particelle da assimilare sono individualizzate, più energia sarà richiesta per digerire e più breve sarà la durata della loro assimilazione, fino al momento in cui cercheranno nuovamente di affermare la loro individualità. 
 
 Gli esseri umani non sono organizzati in modo da poter utilizzare i minerali come alimenti. Quando, per esempio, si ingerisce una sostanza puramente minerale come il sale, essa passa attraverso il corpo lasciando ben poche scorie dietro di sé; ciò che resta ha comunque un'azione insignificante. Se l'uomo potesse nutrirsi di minerali, questi sarebbero un regime ideale, a causa della loro stabilità e della poca energia richiesta per dominarli ed assoggettarli alla vita del corpo. Mangeremo meno abbondantemente e meno spesso di come facciamo attualmente. I nostri laboratori provvederanno, col tempo, alimenti chimici di una qualità molto superiore a quella dei nostri cibi attuali e inoltre saranno sempre freschi. L'alimento ottenuto dalle piante superiori e maggiormente quello ottenuto dal più elevato regno animale, è decisamente ripugnante a causa della rapidità con cui quest'alimento si decompone, sotto lo sforzo delle particelle individuali che lo costituiscono e che cercano di liberarsi dal dominio dell'insieme. 
 
@@ -3776,25 +3815,29 @@ Se la carne degli animali erbivori fosse l'essenza di ciò che di meglio esiste 
 
 La prima legge della scienza occulta è: « Non uccidere! »; e la sua grande importanza non deve sfuggire all'aspirante alla vita superiore. Noi non possiamo creare nulla, neppure un granello di polvere, che diritto abbiamo, dunque, di distruggere sia pure la più umile delle forme? Tutte le forme sono espressione dell'Unica Vita, della vita di Dio. Non abbiamo il diritto di distruggere la Forma mediante la quale la Vita cerca di fare nuove esperienze per costruire così un nuovo veicolo. 
 
-Ella Wheeler Wilcox 1, con la vera compassione che hanno tutte le anime superiori, ha illustrato questa massima occulta nei seguenti bei versi: 
+Ella Wheeler Wilcox (1), con la vera compassione che hanno tutte le anime superiori, ha illustrato questa massima occulta nei seguenti bei versi: 
 
-1 Era una poetessa e romanziera americana (1855-1919), nelle sue opere, tutte di elevata spiritualità, è espressa la sua fede nella dottrina della Reincarnazione. 
+() - (1) Era una poetessa e romanziera americana (1855-1919), nelle sue opere, tutte di elevata spiritualità, è espressa la sua fede nella dottrina della Reincarnazione. 
 
-    Io sono la voce di coloro che non possono parlare:   
-    Per mio mezzo il muto parlerà   
-    Fino a che il sordo orecchio del mondo   
-    Finirà con l'ascoltare   
-    Le ingiustizie subite dal debole privo di parola.   
-    La stessa forza che ha modellato il passero   
-    Ha formato anche l'uomo, il re.   
-    Il Dio del Tutto   
-    Donò una scintilla animica   
-    Ad ogni essere coperto di pelliccia o di piuma.   
-    Ed io sono il guardiano di mio fratello;   
-    E combatterò le sue battaglie,   
-    E pronuncerò la parola   
-    Per le bestie e per gli uccelli   
-    Finché il mondo non attuerà la giustizia.   
+```
+Io sono la voce di coloro che non possono parlare:   
+Per mio mezzo il muto parlerà   
+Fino a che il sordo orecchio del mondo   
+Finirà con l'ascoltare   
+Le ingiustizie subite dal debole privo di parola.   
+
+La stessa forza che ha modellato il passero   
+Ha formato anche l'uomo, il re.   
+Il Dio del Tutto   
+Donò una scintilla animica   
+Ad ogni essere coperto di pelliccia o di piuma.   
+
+Ed io sono il guardiano di mio fratello;   
+E combatterò le sue battaglie,   
+E pronuncerò la parola   
+Per le bestie e per gli uccelli   
+Finché il mondo non attuerà la giustizia.   
+```
 
 Si obbietta a volte che, anche mangiando verdura e frutta, si distrugge la vita; ma questa obiezione è fondata su di un concetto errato. Quando il frutto è maturo, esso ha raggiunto il suo fine che è quello di fungere da matrice per il seme. Se non è mangiato, esso deperisce ed è gettato fra i rifiuti. Per questo è designato ad alimentare il regno animale e il regno umano per dare al seme l'opportunità di cadere nel suolo fertile e nascere e crescere. D'altronde, proprio come l'ovulo ed il seme degli esseri umani sono sterili senza l'atomo -seme dell'Ego reincarnantesi e senza la matrice del suo corpo vitale, così qualunque uovo o seme è per se stesso privo di vita. Se all'uovo o al seme si procurano le necessarie condizioni di incubazione o di terreno, la vita dello Spirito-gruppo è infusa in esso che così approfitta dell'occasione offertagli di produrre un corpo fisico. Se l'uovo o il seme viene cotto o macinato, o se mancano le condizioni necessarie per la manifestazione della loro vita, l'occasione è perduta e tutto ha termine. 
 
@@ -3810,19 +3853,17 @@ L'orazione che si riferisce ai bisogni del corpo vitale è: « Rimetti a noi i n
 
 Il corpo vitale è la sede della memoria. Esso contiene le immagini subconsce di tutti gli avvenimenti passati della nostra vita, siano essi buoni o cattivi, con tutti i danni arrecati o quelli subiti, i benefici ricevuti o quelli dispensati. Ora, noi sappiamo che gli annali della vita sono formati da queste immagini trascritte sul corpo del desiderio immediatamente dopo aver lasciato il corpo fis ico, al momento della morte, e che tutte le sofferenze dell'esistenza post-mortem sono il risultato degli eventi che queste immagini riproducono. 
 
-Tavola Secondo: Il Padre Nostro!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Se, con la continua preghiera, noi otteniamo il perdono dei torti che abbiamo fatto agli altri, (i nostri debiti), e se facciamo quanto possiamo per la loro riparazione, se purifichiamo il nostro corpo vitale perdonando coloro che ci hanno fatto torto (i nostri debitori), ed eliminiamo tutti i cattivi sentimenti, ci risparmiamo molte sofferenze dopo la morte, oltre a preparare la via per la Fratellanza Universale che dipende particolarmente dalla vittoria del corpo vitale sul corpo del desiderio. Sotto forma di memoria il corpo del desiderio imprime nel corpo vitale l'idea della vendetta. Una calma imperturbabile di fronte alle varie cure della vita quotidiana, è una vittoria al nostro attivo; perciò l'aspirante dovrebbe praticare il controllo del carattere, perché questo sforzo ha influenza su entrambi i corpi. Anche la Preghiera del Signore possiede questa influenza, perché quando noi ci accorgiamo che stiamo danneggiando gli altri, vi riflettiamo attentamente e cerchiamo di trovarne la causa. La collera è una di esse e proviene dal corpo del desiderio. 
 
 La maggior parte degli uomini possiede, alla fine della vita fisica, lo stesso temperamento che aveva in gioventù, ma l'aspirante deve sistematicamente dominare tutti gli sforzi che il corpo del desiderio compie per assumere la supremazia. Ciò può essere fatto mediante la concentrazione del pensiero verso ideali elevati; questo esercizio fortifica il corpo vitale ed è molto più efficace delle comuni preghiere della Chiesa. L'occultista usa la concentrazione a preferenza della preghiera, perché la prima è compiuta col concorso della mente che è fredda e priva di sentimento, mentre la preghiera è di solito dettata dall'emozione. Ove sia invece dettata da una devozione disinteressata per un ideale elevato, la preghiera è molto superiore alla fredda concentrazione. Essa non può mai essere fredda, perché reca sulle ali dell'amore le effusioni del mistico verso la divinità. 
 
 La preghiera per il corpo del desiderio è: « Non c'indurre in tentazione ». Il desiderio è il grande tentatore dell'umanità. E' il grande incentivo all'azione e fino a che le azioni favoriscono gli scopi dello Spirito, esso è un bene; ma quando il desiderio si rivolge verso qualcosa di degradante, che avvilisce la natura, è veramente necessario pregare per non essere indotti in tentazione. 
 
-Amore, Ricchezza, Potere e Gloria! Ecco i quattro grandi motivi dell'azione umana. Il desiderio per l'una o per l'altra di queste cose è l'incentivo per tutto ciò che l'uomo fa o tralascia di fare. Le grandi Guide dell'umanità le hanno saggiamente date agli uomini per spingerli all'azione affinché potessero acquisire esperienza e da essa imparare. 
-
-Esse sono necessarie, e l'aspirante può sicuramente continuare ad usarle come spinta all'azione, ma bisogna che egli le trasmuti in qualche cosa di superiore. Egli deve vincere l'amare egoistico che cerca il possesso di un altro corpo, e tutti i desideri di ricchezza, di potere e di gloria suscitati da ragioni meschine e personali. 
+Amore, Ricchezza, Potere e Gloria! Ecco i quattro grandi motivi dell'azione umana. Il desiderio per l'una o per l'altra di queste cose è l'incentivo per tutto ciò che l'uomo fa o tralascia di fare. Le grandi Guide dell'umanità le hanno saggiamente date agli uomini per spingerli all'azione affinché potessero acquisire esperienza e da essa imparare. Esse sono necessarie, e l'aspirante può sicuramente continuare ad usarle come spinta all'azione, ma bisogna che egli le trasmuti in qualche cosa di superiore. Egli deve vincere l'amare egoistico che cerca il possesso di un altro corpo, e tutti i desideri di ricchezza, di potere e di gloria suscitati da ragioni meschine e personali. 
 
 L'Amore al quale egli deve anelare è quello che proviene dall'anima ed abbraccia tutti gli esseri a qualsiasi condizione essi appartengano, amore che si accresce in proporzione diretta ai bisogni di colui che ne è l'oggetto. 
+
+La ricchezza, quella che consiste unicamente in un’abbondanza di opportunità per servire i propri simili.
 
 Il Potere che deve desiderare, è solo quello che può servire per elevare il livello dell'umanità. 
 
@@ -3834,9 +3875,7 @@ Soltanto quando gli occhi della mente furono aperti, l'uomo ebbe la conoscenza d
 
 L'aspirante alla vita superiore attua l'unione della natura superiore con quella inferiore meditando su soggetti molto elevati. L'unione è ulteriormente cementata per mezzo della Contemplazione; queste due condizioni sono poi superate dall'Adorazione che innalza lo Spirito fino al Trono stesso di Dio. 
 
-La Preghiera del Signore destinata all'uso generale della Chiesa, mette al primo posto l'Adorazione onde conseguire l'esaltazione spirituale necessaria ad offrire una supplica che presenti i bisogni dei veicoli inferiori. Ogni aspetto del triplice Spirito, cominciando dall'aspetto inferiore, si eleva per mezzo dell'Adorazione al suo corrispondente aspetto nella Divinità. 
-
-Quando i tre aspetti dello Spirito sono tutti alla presenza del Trono di Grazia, ciascuno offre la preghiera adatta alle necessità della sua controparte materiale, tutti e tre congiungendosi nella preghiera finale a favore della mente. 
+La Preghiera del Signore destinata all'uso generale della Chiesa, mette al primo posto l'Adorazione onde conseguire l'esaltazione spirituale necessaria ad offrire una supplica che presenti i bisogni dei veicoli inferiori. Ogni aspetto del triplice Spirito, cominciando dall'aspetto inferiore, si eleva per mezzo dell'Adorazione al suo corrispondente aspetto nella Divinità. Quando i tre aspetti dello Spirito sono tutti alla presenza del Trono di Grazia, ciascuno offre la preghiera adatta alle necessità della sua controparte materiale, tutti e tre congiungendosi nella preghiera finale a favore della mente. 
 
 Lo Spirito Umano si eleva fino alla sua controparte, lo Spirito Santo (Jehovah), dicendo: « Sia santificato il Tuo Nome ». 
 
@@ -3874,7 +3913,9 @@ Coloro che, per le ragioni suddette, rifuggono dal compiere il loro dovere verso
 
 E' verità evidente che « nessun uomo vive per se stesso ». Le nostre parole e le nostre azioni, influenzano continuamente gli altri. Con lo scrupoloso adempimento o con la negligenza del nostro dovere, noi edifichiamo o roviniamo prima le esistenze di coloro che sono a noi immediatamente vicini e poi quelle di tutti gli abitanti della Terra e più ancora. Nessuno ha il diritto di cercare la vita superiore senza prima avere adempiuto il suo dovere verso la famiglia, la patria e l'umanità. Mettere egoisticamente da parte ogni ostacolo e vivere solo per il proprio avanzamento spirituale è tanto riprovevole quanto il non curarsi affatto della vita spirituale. Anzi, è peggio, perché coloro che adempiono il loro dovere nella vita quotidiana secondo le rispettive capacità, e si dedicano al benessere di chi dipende da loro, coltivano la qualità essenziale del dovere. Essi certamente avanzeranno a tempo debito fino al punto di risvegliarsi alle necessità spirituali, e porteranno nel lavoro spirituale il senso del dovere sviluppato altrove. L'uomo che volge deliberatamente le spalle ai suoi doveri presenti per abbracciare la vita spirituale, sarà senz'altro forzato a seguire nuovamente la via del dovere, dalla quale si era erroneamente allontanato, né potrà sfuggirvi finché non abbia appreso la sua lezione. 
 
-Alcune popolazioni dell'India fanno la seguente ottima divisione della vita: i primi venti anni sono dedicati all'istruzione, il periodo dai 20 ai 40 anni è consacrato al dovere di allevare la famiglia e il tempo rimanente allo sviluppo spirituale, senza che nessuna cura fisica molesti o distrugga lo Spirito. Durante il primo periodo i genitori provvedono alle necessità del fanciullo, durante il secondo, questo, divenuto uomo, non soltanto provvede alla necessità della propria famiglia, ma ha cura dei propri genitori, i quali dedicano allora la loro attenzione alle cose superiori; e per il resto della vita egli è, a sua volta, mantenuto dai figli. 
+Alcune popolazioni dell'India fanno la seguente ottima divisione della vita: i primi venti anni sono dedicati all'istruzione, il periodo dai 20 ai 40 anni è consacrato al dovere di allevare la famiglia e il tempo rimanente allo sviluppo spirituale, senza che nessuna cura fisica molesti o distrugga lo Spirito. 
+
+Durante il primo periodo i genitori provvedono alle necessità del fanciullo, durante il secondo, questo, divenuto uomo, non soltanto provvede alla necessità della propria famiglia, ma ha cura dei propri genitori, i quali dedicano allora la loro attenzione alle cose superiori; e per il resto della vita egli è, a sua volta, mantenuto dai figli. 
 
 Questo sembra un metodo assai razionale, ed è soddisfacente in un paese dove tutti, dalla culla alla tomba, provano aspirazioni spirituali ad un grado tale da trascurare erroneamente il loro sviluppo materiale, ad eccezione di quando si vedono costretti dal bisogno immediato; in un paese dove i figli lietamente provvedono ai genitori, certi che ad essi sarà anche provveduto quando si dedicheranno alla vita superiore dopo aver adempiuto al loro dovere verso la patria e verso l'umanità. Nel mondo occidentale tuttavia, dove nessun bisogno spirituale è ora sentito dall'uomo medio, perché egli sta opportunamente seguendo linee materiali di sviluppo, un simile modo di vita non potrebbe trovare attuazione. 
 
@@ -3884,7 +3925,9 @@ Se il desiderio di vivere nel celibato sorge in una persona che ha già contratt
 
 La maggior parte dell'umanità considera che il matrimonio autorizzi una sfrenata libertà nel soddisfacimento dei desideri sessuali. Agli occhi delle leggi umane può essere così, ma non esiste legge o costume umano che abbia il diritto di decidere di questa materia. La scienza occulta insegna che la funzione sessuale non dovrebbe mai essere usata per il soddisfacimento dei sensi; ma soltanto per la propagazione della specie. Perciò un aspirante alla vita superiore sarebbe giustificato di rifiutarsi al coniuge se lo scopo non fosse quello di generare un figlio, mentre aderirà soltanto se entrambi i coniugi si trovano in perfetta condizione di salute, fisica, morale e mentale perché, in caso diverso, l'unione porterebbe secondo ogni probabilità alla generazione di un corpo debole o, al limite, degenerato. 
 
-Ciascuno è padrone del proprio corpo, ed è responsabile davanti alla legge di Conseguenza di qualsiasi uso improprio risultante dall'abbandono del proprio corpo ad un altro, per mancanza di volontà. In ragione di quanto precede, e considerando la materia dal punto di vista occulto, è insieme dovere e privilegio (che dovrebbe essere esercitato con riconoscenza) di tutte le persone sane di corpo e di spirito, provvedere veicoli per quante entità siano compatibili con la loro salute e con la loro possibilità di averne cura. E, come già affermammo, proprio gli aspiranti alla vita superiore, sono, al riguardo sottoposti a maggiori obblighi a causa della purificazione che le loro vite più pure hanno operato nei loro corpi, i quali sono perciò meglio qualificati dell'umanità ordinaria a generare veicoli puri. 
+Ciascuno è padrone del proprio corpo, ed è responsabile davanti alla legge di Conseguenza di qualsiasi uso improprio risultante dall'abbandono del proprio corpo ad un altro, per mancanza di volontà. 
+
+In ragione di quanto precede, e considerando la materia dal punto di vista occulto, è insieme dovere e privilegio (che dovrebbe essere esercitato con riconoscenza) di tutte le persone sane di corpo e di spirito, provvedere veicoli per quante entità siano compatibili con la loro salute e con la loro possibilità di averne cura. E, come già affermammo, proprio gli aspiranti alla vita superiore, sono, al riguardo sottoposti a maggiori obblighi a causa della purificazione che le loro vite più pure hanno operato nei loro corpi, i quali sono perciò meglio qualificati dell'umanità ordinaria a generare veicoli puri. Così essi permettono a entità di alto livello di trovare veicoli adatti e aiutano l’umanità a progredire offrendo a questi Ego in attesa l’opportunità di incarnarsi ed esercitare la loro influenza in un periodo più precoce di quanto sarebbe altrimenti possibile.
 
 Se la forza sessuale è usata nel modo indicato, l'atto sessuale avrà luogo solo poche volte nella vita e praticamente l'intera forza sessuale sarà usata per lo sviluppo spirituale. Non è l'uso moderato ma l'abuso di questa forza che causa il male ed ostacola la vita spirituale, col pretesto che non gli è possibile vivere nel celibato. Non c'è bisogno di un'astinenza totale finché non si sia passati per le Iniziazioni minori. Il voto di assoluta castità non è indispensabile che nelle Iniziazioni maggiori ed anche allora un singolo atto di fecondazione può essere necessario quale atto di sacrificio, come quando fu necessario provvedere un corpo per il Cristo. 
 
@@ -3894,11 +3937,7 @@ L'aspirante alla vita superiore può trionfare soltanto in proporzione diretta a
 
 #### <h4 id="the-pituitary-body-and-the-pineal-gland">Il Corpo Pituitario e la Ghiandola Pineale</h4>
 
-Nel cervello, e approssimativamente nelle posizioni indicate dalla figura 18, si trovano due piccoli organi chiamati corpo pituitario e ghiandola pineale. La scienza medica sa ben poco intorno ad essi come intorno ad altre ghiandole del nostro corpo. Essa chiama la ghiandola pineale « il terzo occhio atrofizzato », tuttavia né essa né il corpo pituitario sono atrofizzati, né in procinto di esserlo. Ciò è causa di molta perplessità negli scienziati, poiché la natura non conserva nulla che sia inutile. In tutto il nostro corpo troviamo organi che sono in via di atrofizzarsi e organi in via di sviluppo; i primi sono, per così dire, le pietre miliari lungo il sentiero che l'uomo ha percorso per raggiungere il presente grado di sviluppo; i secondi indicano le linee del futuro progresso e sviluppo. I muscoli che l'animale usa per muovere gli orecchi, per esempio, sono presenti anche nell'uomo; ma siccome essi stanno atrofizzandosi, sono poche le persone che possono farne uso. 
-
-Figura S: I Frutti della Forza Creatrice!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-Il cuore appartiene alla classe di organi che indicano il futuro sviluppo, perché, come già abbiamo mostrato, esso tende a divenire un muscolo volontario. 
+Nel cervello, e approssimativamente nelle posizioni indicate dalla figura 18, si trovano due piccoli organi chiamati corpo pituitario e ghiandola pineale. La scienza medica sa ben poco intorno ad essi come intorno ad altre ghiandole del nostro corpo. Essa chiama la ghiandola pineale « il terzo occhio atrofizzato », tuttavia né essa né il corpo pituitario sono atrofizzati, né in procinto di esserlo. Ciò è causa di molta perplessità negli scienziati, poiché la natura non conserva nulla che sia inutile. In tutto il nostro corpo troviamo organi che sono in via di atrofizzarsi e organi in via di sviluppo; i primi sono, per così dire, le pietre miliari lungo il sentiero che l'uomo ha percorso per raggiungere il presente grado di sviluppo; i secondi indicano le linee del futuro progresso e sviluppo. I muscoli che l'animale usa per muovere gli orecchi, per esempio, sono presenti anche nell'uomo; ma siccome essi stanno atrofizzandosi, sono poche le persone che possono farne uso. Il cuore appartiene alla classe di organi che indicano il futuro sviluppo, perché, come già abbiamo mostrato, esso tende a divenire un muscolo volontario. 
 
 Il corpo pituitario e la ghiandola pineale appartengono a una classe particolare di organi che attualmente né si evolvono né degenerano, ma sono in uno stato di inattività. Nel lontano passato, quando l'uomo era ancora in contatto con i Mondi «interiori», questi organi erano i suoi mezzi di accesso a quei Mondi, ed essi serviranno ancora a tale scopo, in una fase ulteriore della nostra evoluzione. Essi furono in relazione col sistema nervoso involontario o simpatico, durante il Periodo della Luna, l'ultima parte dell'Epoca Lemuriana e la prima parte dell'Epoca Atlantidea, quando l'uomo percepiva i Mondi interiori. Le immagini si presentavano indipendentemente dalla sua volontà. I centri di percezione del suo corpo del desiderio giravano in senso inverso a quello delle lancette di un orologio, come fanno attualmente i centri di percezione dei medium, seguendo negativamente il moto della Terra, che ruota intorno al proprio asse in questo senso. Nella maggior parte delle persone, questi centri di percezione sono inattivi, ma l'opportuno sviluppo li metterà in rotazione nel senso delle lancette dell'orologio, come abbiamo spiegato altrove. Questa è la difficile caratteristica nello sviluppo della chiaroveggenza positiva. 
 
@@ -3990,6 +4029,8 @@ Questa e una cosa che l'aspirante alla vita superiore deve assolutamente imparar
 
 Qualunque soggetto può venire scelto secondo il temperamento o le convinzioni dell'aspirante, sempre che detto soggetto sia puro e tenga ad elevare lo Spirito. Il Cristo sarà adatto per alcuni; altri, che amano i fiori in maniera speciale, otterranno maggiore progresso col prenderne uno come soggetto di concentrazione. L'oggetto importa poco; ma qualunque esso sia, bisogna immaginarlo come esso è in realtà e viverlo in tutti i dettagli. Se è il Cristo, dobbiamo immaginare un Cristo reale, con lineamenti mobili, con gli occhi pieni di vita, con una espressione vivente che non sia dura e morta come quella di un crocefisso. Dobbiamo costruire un ideale vivente, non una statua. Se l'oggetto è un fiore, possiamo immaginare il seme sepolto nella terra, e concentrando fermamente su di esso la nostra mente, non tarderemo a vederlo svilupparsi, estendendo le piccole radici che penetrano nella terra con un percorso a spirale. Dalle principali diramazioni delle radici osserveremo le miriadi di radichette che esse emettono e che si ramificano in tutte le direzioni. Allora comincia a spuntare attraverso la superficie della terra un piccolo stelo di un color verde tenero. Esso cresce; ed ecco, un germoglio, un ramoscello sottile che si diparte dal fusto principale. Cresce; un altro germoglio, ed appare un ramo; dai rami spuntano piccoli steli con gemme all'apice; ora vi è un gran numero di foglie. Finalmente una gemma appare sulla cima, si forma un bocciolo che cresce fino a che sboccia e allora appare tra il verde delle foglie una graziosa rosa rossa. Essa sboccia completamente all'aria emanando un profumo delizioso, che sentiamo perfettamente come se ci fosse recato dal balsamico venticello estivo, il quale fa dolcemente ondeggiare la bella pianta davanti alla nostra visione mentale. 
 
+Solo quando “immaginiamo” con contorni così chiari e completi entriamo davvero nello spirito della concentrazione. Non deve esserci alcuna somiglianza vaga o indistinta.
+
 Alcuni che hanno viaggiato in India narrano di fachiri i quali, dopo aver mostrato un seme, lo interrano e dinanzi agli occhi attoniti degli spettatori si vede il seme crescere rapidamente e produrre fiori e frutta che sono gustate dagli stessi spettatori. Ciò era ottenuto da una concentrazione così intensa che rendeva visibile il quadro non solo al fachiro, ma anche agli spettatori. Si racconta di un caso nel quale i membri di un comitato scientifico videro coi loro propri occhi queste cose meravigliose e in tali condizioni che qualsiasi mistificazione era impossibile; ma le fotografie che furono scattate durante l'esperimento non riprodussero nulla. Le lastre fotografiche non avevano la più piccola impressione perché non erano stati prodotti oggetti materiali e concreti. 
 
 In principio i quadri costruiti dall'aspirante non avranno che una povera somiglianza con la realtà; ma se egli persevera, finirà per evocare un'immagine più reale e vivente delle cose del Mondo Fisico. 
@@ -4030,6 +4071,8 @@ La meditazione è l'esercizio per mezzo del quale la storia dell'oggetto della n
 
 Questi due esercizi si applicano nella più profonda e completa maniera immaginabile, alle cose. Essi conducono l'aspirante verso una più elevata, più profonda e più sottile fase di sviluppo mentale, il quale ha relazione con l'anima stessa delle cose. 
 
+Il nome di quello stadio è Contemplazione.
+
 #### <h4 id="contemplation">Contemplazione</h4>
 
 La Contemplazione non consiste in uno sforzo del pensiero o dell'immaginazione, allo scopo di ottenere informazioni come avviene nella Meditazione. Essa ha semplicemente il fine di tenere un oggetto davanti alla nostra visione mentale e lasciare che l'anima ci parli di esso. Noi riposiamo tranquillamente abbandonati su un divano o su di un letto, non in maniera passiva, ma ben vigilanti in attesa dell'informazione che indubbiamente verrà, se avremo raggiunto il necessario sviluppo. Allora la Forma dell'oggetto sembra svanire e vediamo soltanto la Vita che opera. La Contemplazione ci insegnerà che cosa sia la Vita, come la Meditazione ci aveva istruito su ciò che è la Forma. 
@@ -4054,15 +4097,13 @@ Gli scienziati moderni ne sanno ben poco. Per quel che concerne i fenomeni sismi
 
 In un certo senso, le loro teorie hanno qualche fondamento; ma in questo caso essi, come sempre, trascurano le cause spirituali le quali, all'occultista, appaiono essere le cause reali. Per l'occultista il mondo è ben lungi dall'essere una massa inerte, « morta ». Al contrario, egli sa che il nostro pianeta è permeato in tutte le sue parti dallo Spirito, il quale è la leva che provoca delle trasformazioni sia all'interno che alla superficie del pianeta. 
 
-Le varie specie di quarzo, i metalli, la disposizione dei diversi strati, tutto ha un significato molto più alto di quello che l'investigatore materialista sia mai stato capace di afferrare. Per l'occultista il modo col quale tali materiali sono disposti e pieno di significato. 
+Le varie specie di quarzo, i metalli, la disposizione dei diversi strati, tutto ha un significato molto più alto di quello che l'investigatore materialista sia mai stato capace di afferrare. Per l'occultista il modo col quale tali materiali sono disposti e pieno di significato. Su questo soggetto, come su ogni altro, la scienza occulta sta alla scienza moderna come la fisiologia sta all'anatomia. L'anatomia fornisce i dettagli di ogni osso, muscolo, legamento, nervo, ecc., le loro reciproche posizioni e via di seguito; ma non fornisce alcuna spiegazione sul loro funzionamento e sul loro uso. La fisiologia invece, non soltanto studia la posizione e la struttura di ogni parte del corpo, ma ne precisa anche la funzione. 
 
-Su questo soggetto, come su ogni altro, la scienza occulta sta alla scienza moderna come la fisiologia sta all'anatomia. L'anatomia fornisce i dettagli di ogni osso, muscolo, legamento, nervo, ecc., le loro reciproche posizioni e via di seguito; ma non fornisce alcuna spiegazione sul loro funzionamento e sul loro uso. La fisiologia invece, non soltanto studia la posizione e la struttura di ogni parte del corpo, ma ne precisa anche la funzione. Il conoscere i differenti strati della Terra e la relativa posizione dei pianeti nel cielo senza avere in pari tempo conoscenza del loro ruolo e del loro significato nella vita e nel piano del Cosmo, è altrettanto utile quanto il conoscere semplicemente la posizione delle ossa, o dei nervi, ecc., senza comprenderne le funzioni che disimpegnano nell'economia del corpo. 
+Il conoscere i differenti strati della Terra e la relativa posizione dei pianeti nel cielo senza avere in pari tempo conoscenza del loro ruolo e del loro significato nella vita e nel piano del Cosmo, è altrettanto utile quanto il conoscere semplicemente la posizione delle ossa, o dei nervi, ecc., senza comprenderne le funzioni che disimpegnano nell'economia del corpo. 
 
 #### <h4 id="the-number-of-the-beast">Il Numero della Bestia</h4>
 
-Alla percezione del chiaroveggente ben sviluppato, dell'Iniziato ai vari gradi dei Misteri, la Terra si presenta formata da differenti strati sovrapposti, assai simili a quelli di una cipolla. 
-
-Di tali strati ve ne sono nove oltre al nucleo centrale: dieci in tutto. Tali strati vengono rivelati gradatamente all'iniziato, il quale ad ogni Iniziazione, ha accesso ad un nuovo strato, in modo che, alla fine delle nove Iniziazioni minori, egli è padrone di tutte le nove suddivisioni, ma non può ancora penetrare i segreti del nucleo centrale della Terra. 
+Alla percezione del chiaroveggente ben sviluppato, dell'Iniziato ai vari gradi dei Misteri, la Terra si presenta formata da differenti strati sovrapposti, assai simili a quelli di una cipolla. Di tali strati ve ne sono nove oltre al nucleo centrale: dieci in tutto. Tali strati vengono rivelati gradatamente all'iniziato, il quale ad ogni Iniziazione, ha accesso ad un nuovo strato, in modo che, alla fine delle nove Iniziazioni minori, egli è padrone di tutte le nove suddivisioni, ma non può ancora penetrare i segreti del nucleo centrale della Terra. 
 
 Questi nove gradi erano anticamente chiamati « Misteri Minori ». Essi conducono coscientemente il neofita attraverso tutto quanto ha attinenza con la sua passata evoluzione, cominciando dall'attività dell'esistenza involontaria, così che egli possa comprendere la maniera e il significato del lavoro che egli allora inconsciamente compiva. Gli viene mostrato come furono sviluppati i nove principi della presente costituzione (il triplice corpo, la triplice anima e il triplice Spirito); come le Grandi Gerarchie Creatrici operarono sullo Spirito Vergine risvegliando in esso l'Ego, aiutandolo a formare il corpo; e anche il lavoro che egli stesso ha compiuto per estrarre dal triplice corpo quanto ora possiede di triplice anima. Successivamente viene guidato attraverso i nove gradi dei Misteri Minori, corrispondenti ai nove strati. 
 
@@ -4070,15 +4111,19 @@ Il numero 9 è il numero-radice dell'attuale fase di evoluzione. Esso ha un sign
 
 Se passiamo dal libro della Genesi che tratta della creazione dell'uomo nel remoto passato, al libro dell'Apocalisse, che tratta della sua futura condizione, troviamo che il numero della bestia che impedisce il progresso è 666. Sommando queste cifre 6 + 6 + 6 = 18; e proseguendo 1+8=9 ritroviamo il numero dell'umanità la quale è, essa stessa, causa di tutto il male che impedisce il suo progresso. Proseguendo ancora, fino al punto dove è indicato il numero di coloro che debbono venir salvati, troviamo che esso è 144.000. Addizionando come prima 1+ 4 + 4 + 000 = 9; di nuovo troviamo il numero dell'umanità, il quale dimostra che, praticamente, essa sarà salvata nella sua totalità perché il numero degli incapaci di proseguire nell'attuale evoluzione è trascurabile a paragone del gran totale; e anche i pochi che non riusciranno, non saranno perduti, ma continueranno la loro evoluzione in un successivo Piano Cosmico. 
 
-Lo stato di coscienza dei vegetali e dei minerali è, veramente, incoscienza. 
+Lo stato di coscienza dei vegetali e dei minerali è, veramente, incoscienza. Il primo barlume di coscienza comincia col regno animale. Abbiamo pure visto che, secondo la più moderna classificazione, nel regno animale vi sono tredici gradi: tre classi di Raggiati, tre di Molluschi; tre di Articolati e quattro di Vertebrati. 
 
-Il primo barlume di coscienza comincia col regno animale. Abbiamo pure visto che, secondo la più moderna classificazione, nel regno animale vi sono tredici gradi: tre classi di Raggiati, tre di Molluschi; tre di Articolati e quattro di Vertebrati. 
+Se consideriamo l'uomo come formante un grado a sé, e ricordiamo che dall'uomo a Dio vi sono tredici Iniziazioni, partendo dal momento in cui esso cominciò a divenire un'Intelligenza Creatrice cosciente, abbiamo di nuovo lo stesso numero, nove: 13+1+ 13=27; 2+7=9. 
 
-Se consideriamo l'uomo come formante un grado a sé, e ricordiamo che dall'uomo a Dio vi sono tredici Iniziazioni, partendo dal momento in cui esso cominciò a divenire un'Intelligenza Creatrice cosciente, abbiamo di nuovo lo stesso numero, nove: 13+1+ 13=27; 2+7=9. Il numero 9 è pure nascosto nell'età del Cristo Gesù, 33 (3x3)=9, e similmente è nascosto nei 33 gradi della Massoneria. Anticamente la Massoneria era un sistema di Iniziazione ai Misteri Minori, i quali come abbiamo visto, hanno 9 gradi, ma gli Iniziati l'hanno spesso scritto sotto forma di 33. Analogamente dobbiamo intendere per il 18° grado Rosacroce, il quale era solo un « velo » per il profano, perché non vi sono mai più di nove gradi nei Misteri minori; nei gradi dei Massoni di oggi ben poco è rimasto del rituale occulto. 
+Il numero 9 è pure nascosto nell'età del Cristo Gesù, 33 (3x3)=9, e similmente è nascosto nei 33 gradi della Massoneria. Anticamente la Massoneria era un sistema di Iniziazione ai Misteri Minori, i quali come abbiamo visto, hanno 9 gradi, ma gli Iniziati l'hanno spesso scritto sotto forma di 33. Analogamente dobbiamo intendere per il 18° grado Rosacroce, il quale era solo un « velo » per il profano, perché non vi sono mai più di nove gradi nei Misteri minori; nei gradi dei Massoni di oggi ben poco è rimasto del rituale occulto. 
 
 Dobbiamo anche considerare i nove mesi di gestazione durante i quali il corpo si sviluppa, fino a raggiungere il suo attuale grado di efficienza, e vi sono nel corpo nove meati: due occhi, due fosse nasali, due orecchi, la bocca, e i due orifizi inferiori. 
 
-Quando l'uomo in via di progresso è passato attraverso le nove Iniziazioni minori ottenendo così l'ingresso a tutti gli strati della Terra dovrà ancora conquistare l'accesso al nucleo centrale. Questo nucleo gli diventa accessibile in virtù della prima delle quattro Grandi Iniziazioni, nel corso della quale egli impara a conoscere il mistero della mente, quella parte del suo essere che cominciò la sua evoluzione sulla Terra. Quando egli è pronto per la sua Grande Iniziazione, la sua mente è sviluppata fino al punto al quale tutti gli uomini l'avranno sviluppata alla fine del Periodo della Terra. In questa Iniziazione gli viene data la chiave che gli permette di entrare nella fase seguente e tutto il lavoro che egli compirà in seguito sarà quello dell'umanità del Periodo di Giove, il quale attualmente non ci concerne. Dopo la sua prima Grande Iniziazione egli è un Adepto. La seconda, terza e quarta Iniziazione appartengono agli stadi di sviluppo attraverso i quali passerà l'umanità ordinaria nei Periodi di Giove Venere e Vulcano. Queste tredici Iniziazioni sono simbolicamente rappresentate dal Cristo e dai suoi dodici Apostoli. Giuda Iscariota rappresenta le tendenze traditrici della natura inferiore del neofita. L'amato Giovanni rappresenta l'Iniziazione di Venere, e il Cristo stesso simbolizza l'Iniziato Divino del Periodo di Vulcano. 
+Quando l'uomo in via di progresso è passato attraverso le nove Iniziazioni minori ottenendo così l'ingresso a tutti gli strati della Terra dovrà ancora conquistare l'accesso al nucleo centrale. Questo nucleo gli diventa accessibile in virtù della prima delle quattro Grandi Iniziazioni, nel corso della quale egli impara a conoscere il mistero della mente, quella parte del suo essere che cominciò la sua evoluzione sulla Terra. Quando egli è pronto per la sua Grande Iniziazione, la sua mente è sviluppata fino al punto al quale tutti gli uomini l'avranno sviluppata alla fine del Periodo della Terra. In questa Iniziazione gli viene data la chiave che gli permette di entrare nella fase seguente e tutto il lavoro che egli compirà in seguito sarà quello dell'umanità del Periodo di Giove, il quale attualmente non ci concerne. 
+
+Dopo la sua prima Grande Iniziazione egli è un Adepto. La seconda, terza e quarta Iniziazione appartengono agli stadi di sviluppo attraverso i quali passerà l'umanità ordinaria nei Periodi di Giove Venere e Vulcano. 
+
+Queste tredici Iniziazioni sono simbolicamente rappresentate dal Cristo e dai suoi dodici Apostoli. Giuda Iscariota rappresenta le tendenze traditrici della natura inferiore del neofita. L'amato Giovanni rappresenta l'Iniziazione di Venere, e il Cristo stesso simbolizza l'Iniziato Divino del Periodo di Vulcano. 
 
 Nelle varie scuole di scienza occulta i riti di Iniziazione variano, come pure il loro numero; ma ciò non è che questione di classificazione. Si osserverà che tutte le descrizioni che possono esserne fatte, diventano sempre più vaghe mano a mano che si avanza verso le Iniziazioni superiori. Dove si parla di sette o più gradi, quasi nulla viene rivelato sulla sesta Iniziazione, e nulla del tutto sulla settima. Ciò dipende da una divisione differente: i sei gradi di « Preparazione », e le quattro Iniziazioni che alla fine del Periodo della Terra, conducono il candidato alla qualifica di Adepto. Quindi ve ne debbono sempre essere ancora tre, se la filosofia di quella Scuola arriva a tal punto. L'autore, però, all'infuori dei Rosacroce non conosce nessuno che abbia qualche informazione da dare sui tre Periodi che precedettero il Periodo della Terra, salvo la semplice dichiarazione che vi sono stati tali Periodi. Essi però, non sono messi molto chiaramente in relazione con l'attuale nostra fase di esistenza. Esistono poi altre dottrine occulte, le quali dicono semplicemente che vi saranno ancora tre Piani di evoluzione, ma su essi nessun dettaglio viene fornito. Naturalmente in tali circostanze, le tre ultime Iniziazioni non sono nominate. 
 
@@ -4108,13 +4153,9 @@ Si potrebbe supporre che lo sfruttamento delle miniere causi molto dolore alla T
 
 Come la sensibilità negli animali e negli uomini è dovuta ai loro corpi vitali separati, così la sensibilità della Terra è particolarmente attiva in questo sesto strato, che corrisponde al Mondo dello Spirito Vitale. Per comprendere il senso di piacere provato quando le mine disintegrano la dura roccia, e il dolore che causano i depositi alluvionali, dobbiamo tener presente che la Terra è il corpo fisico di un Grande Spirito il quale per dare a noi la possibilità di vivere in un ambiente che ci fornisca esperienze, dovette cristallizzare questo corpo fino alle attuali condizioni solide. 
 
-Figura T: La Costituzione della Terra!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Col procedere dell'evoluzione però, e via via che l'uomo apprende le lezioni pertinenti a questo massimo di solidificazione, la Terra diverrà meno densa ed il suo Spirito si libererà sempre più. Questo è ciò che S. Paolo intendeva quando dichiarò che l'intera creazione era gemente e dolente, in attesa del Giorno della Liberazione. 
 
-7)- Lo Strato Rifrangente: Questa parte della Terra corrisponde al Mondo dello Spirito Divino. Nella scienza occulta, esistono quelli che sono chiamati « I Sette Segreti Inesprimibili ». Per coloro che non conoscono questi segreti, o che non hanno almeno una vaga idea del loro significato, le proprietà di questo strato devono sembrare particolarmente assurde e grottesche. In esso tutte le forze da noi conosciute come « Leggi di Natura » esistono come forze morali, o immorali. Al principio della carriera cosciente dell'uomo esse erano molto più ostili di ora. 
-
-Ma sembra che col progredire morale dell'umanità, anche queste forze migliorino di pari passo e che ogni rilassamento della morale tenda a scatenare queste forze che producono distruzione sulla Terra, mentre la lotta per raggiungere ideali più elevati le rende meno ostili all'uomo. 
+7)- Lo Strato Rifrangente: Questa parte della Terra corrisponde al Mondo dello Spirito Divino. Nella scienza occulta, esistono quelli che sono chiamati « I Sette Segreti Inesprimibili ». Per coloro che non conoscono questi segreti, o che non hanno almeno una vaga idea del loro significato, le proprietà di questo strato devono sembrare particolarmente assurde e grottesche. In esso tutte le forze da noi conosciute come « Leggi di Natura » esistono come forze morali, o immorali. Al principio della carriera cosciente dell'uomo esse erano molto più ostili di ora. Ma sembra che col progredire morale dell'umanità, anche queste forze migliorino di pari passo e che ogni rilassamento della morale tenda a scatenare queste forze che producono distruzione sulla Terra, mentre la lotta per raggiungere ideali più elevati le rende meno ostili all'uomo. 
 
 Le forze di questo strato sono così in qualunque momento un riflesso esatto delle condizioni morali dell'umanità. Dal punto di vista occulto, la « Mano di Dio » che colpisce Sodoma e Gomorra non è una sciocca superstizione poiché, come è certo che esiste una responsabilità individuale verso la legge di Conseguenza che porta ad ogni persona il giusto compenso dei suoi atti, siano essi buoni o cattivi, così esiste anche una responsabilità collettiva o nazionale che porta a certi gruppi di uomini la retribuzione che meritano i loro atti collettivi. Le forze della natura sono gli agenti generali di tale giustizia retributiva, causando sia alluvioni che terremoti, la benefica formazione di petrolio e quella di carbone, per vari gruppi secondo i loro meriti. 
 
@@ -4126,7 +4167,9 @@ Le forze di questo strato sono così in qualunque momento un riflesso esatto del
 
 Un grande numero di « pozzi », in diversi luoghi, mettono in comunicazione il sesto strato, o Strato Incandescente con la superficie della Terra. Noi chiamiamo « crateri vulcanici » la loro estremità superiore. Quando le forze naturali del settimo strato sono sufficientemente liberate da potersi manifestare attraverso una eruzione vulcanica, esse mettono in moto il sesto strato (quello incandescente) e l'agitazione si propaga verso l'esterno fino alla bocca del cratere. La massa del materiale viene presa dalla sostanza del secondo strato, poiché questa è la controparte più densa del sesto strato, come il corpo vitale, secondo veicolo dell'uomo, è la controparte più densa dello Spirito Vitale, il sesto principio. Questo strato fluido, del quale la proprietà d'espansione e d'esplosione è molto grande assicura un rifornimento illimitato di materiali al punto di eruzione. Il contatto con l'atmosfera esterna indurisce quella parte di esso che non viene proiettata nello spazio, formando così lava e cenere, fino a che, come il sangue di una ferita si coagula e arresta l'emorragia, così la lava finalmente sigilla l'apertura che comunica con le parti interne della Terra. 
 
-Come si potrebbe rilevare anche dal fatto che l'immoralità e le tendenze antispirituali risvegliano l'attività distruttiva delle forze della Natura nel settimo strato, in queste catastrofi generalmente soccombono popoli dissoluti e degenerati. Questi, insieme con altri il cui destino autogenerato sotto la Legge di Conseguenza, per ragioni varie implica una morte violenta, si trovano riuniti da forze soprannaturali, dai vari paesi, verso il punto in cui l'eruzione dovrà avvenire. A chi vi rifletta, le eruzioni vulcaniche del Vesuvio, per esempio, confermeranno quanto abbiamo detto. Il numero di tali eruzioni registrato durante questi ultimi 2000 anni, mostra che la loro frequenza è andata aumentando col dilagare del materialismo. Negli ultimi sessant'anni specialmente, la scienza materialistica è cresciuta di arroganza nella sua assoluta e travolgente negazione di tutto quanto è spirituale, e le eruzioni sono state più frequenti. Mentre non vi furono che sei eruzioni nei primi 1000 anni dell'Era Cristiana, se ne contano cinque entro un periodo di 51 anni, come mostriamo: 
+Come si potrebbe rilevare anche dal fatto che l'immoralità e le tendenze antispirituali risvegliano l'attività distruttiva delle forze della Natura nel settimo strato, in queste catastrofi generalmente soccombono popoli dissoluti e degenerati. Questi, insieme con altri il cui destino autogenerato sotto la Legge di Conseguenza, per ragioni varie implica una morte violenta, si trovano riuniti da forze soprannaturali, dai vari paesi, verso il punto in cui l'eruzione dovrà avvenire. A chi vi rifletta, le eruzioni vulcaniche del Vesuvio, per esempio, confermeranno quanto abbiamo detto. 
+
+Il numero di tali eruzioni registrato durante questi ultimi 2000 anni, mostra che la loro frequenza è andata aumentando col dilagare del materialismo. Negli ultimi sessant'anni specialmente, la scienza materialistica è cresciuta di arroganza nella sua assoluta e travolgente negazione di tutto quanto è spirituale, e le eruzioni sono state più frequenti. Mentre non vi furono che sei eruzioni nei primi 1000 anni dell'Era Cristiana, se ne contano cinque entro un periodo di 51 anni, come mostriamo: 
 
 La prima eruzione durante l'Era Cristiana fu quella che distrusse Ercolano e Pompei nella quale perì Plinio il Vecchio nell'anno 79 della nostra era. Le altre eruzioni si produssero negli anni: 203, 472 512, 652, 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891; 1906. 
 
@@ -4172,9 +4215,7 @@ La Religione Cristiana si è gradatamente aperta la via verso Occidente, fino al
 
 Allo stesso modo di come si alternano con ininterrotta successione il giorno e la notte, l'estate e l'inverno, il flusso e riflusso, secondo la legge dei cicli alterni, così l'apparizione in una parte qualunque del mondo di un'onda di risveglio spirituale è seguita da un periodo di reazione materialistica in modo che il nostro sviluppo sia meglio equilibrato. 
 
-La Religione, l'Arte e la Scienza sono i tre mezzi più importanti dell'educazione umana, e formano una triade che non si può scindere senza falsare il nostro punto di vista su qualunque ricerca. 
-
-La vera Religione comprende tanto la scienza che l'arte, poiché essa insegna a trascorrere una vita bella in armonia con le leggi della Natura. 
+La Religione, l'Arte e la Scienza sono i tre mezzi più importanti dell'educazione umana, e formano una triade che non si può scindere senza falsare il nostro punto di vista su qualunque ricerca. La vera Religione comprende tanto la scienza che l'arte, poiché essa insegna a trascorrere una vita bella in armonia con le leggi della Natura. 
 
 La vera Scienza è artistica e religiosa nel senso più elevato della parola, perché essa ci insegna a rispettare e ad osservare le leggi che governano il nostro benessere e ci spiega perché la vita religiosa conduca alla salute e alla bellezza fisiche. 
 
@@ -4196,13 +4237,9 @@ Nel XIII secolo un grande Maestro spirituale avente il nome simbolico di Christi
 
 Molti secoli sono trascorsi dalla Sua incarnazione col nome di Christian Rosenkreuz, il Fondatore della Scuola dei Misteri che porta il Suo nome, e da molti la Sua esistenza è perfino ritenuta un mito. Ma la Sua nascita come Christian Rosenkreuz segnò il principio di una nuova era nella vita spirituale nel Mondo Occidentale. Fin da allora questo particolare Ego si è costantemente reincarnato, nell'uno o nell'altro dei Paesi europei. Egli ha preso un nuovo corpo ogni qualvolta i suoi veicoli avevano perduto la loro utilità, o quando le circostanze rendevano necessario il cambiamento del luogo delle Sue attività. Inoltre, attualmente è incarnato ed è un Iniziato di alto grado, un fattore potente e attivo in tutti gli avvenimenti dell'Occidente, benché al Mondo sia sconosciuto. 
 
-Egli lavorò con gli alchimisti secoli prima dell'avvento della scienza moderna. Col concorso di un intermediario, Egli ispirò le oggi mutilate opere di Bacone. Jacopo Boehme ed altri ricevettero per Suo mezzo l'ispirazione che dona alle loro opere un cosi grande potere di illuminazione spirituale. Nelle opere dell'immortale Goethe e nei capolavori di Wagner ritroviamo la stessa influenza. Ogni spirito intrepido e audace che rifiuta gli impacci sia della scienza che della religione ortodosse, rifugge dalla schiavitù e cerca di penetrare nei regni spirituali senza mire di gloria o di vanità, trae le sue ispirazioni dalla stessa sorgente che dissetò e tuttora disseta il grande Spirito che animò Christian Rosenkreuz. Il Suo stesso nome esprime il modo e i mezzi coi quali l'uomo odierno viene trasformato in un Superuomo Divino. Questo simbolo, 
+Egli lavorò con gli alchimisti secoli prima dell'avvento della scienza moderna. Col concorso di un intermediario, Egli ispirò le oggi mutilate opere di Bacone. Jacopo Boehme ed altri ricevettero per Suo mezzo l'ispirazione che dona alle loro opere un cosi grande potere di illuminazione spirituale. Nelle opere dell'immortale Goethe e nei capolavori di Wagner ritroviamo la stessa influenza. Ogni spirito intrepido e audace che rifiuta gli impacci sia della scienza che della religione ortodosse, rifugge dalla schiavitù e cerca di penetrare nei regni spirituali senza mire di gloria o di vanità, trae le sue ispirazioni dalla stessa sorgente che dissetò e tuttora disseta il grande Spirito che animò Christian Rosenkreuz. 
 
-Christian Rosenkreuz 
-
-(Il) Cristiano (con la) Rosa (e con la) Croce 
-
-indica lo scopo è l'oggetto dell'evoluzione umana, la via da percorrere, ed i mezzi coi quali tale fine viene conquistato. La croce bianca, il verde stelo rampicante della pianta, le spine, le rose sanguigne, nascondono la soluzione dei misteri del Mondo: l'evoluzione passata dell'Uomo, la sua attuale costituzione, e specialmente il segreto del suo futuro sviluppo. 
+Il Suo stesso nome esprime il modo e i mezzi coi quali l'uomo odierno viene trasformato in un Superuomo Divino. Questo simbolo, Christian Rosenkreuz (Il) Cristiano (con la) Rosa (e con la) Croce indica lo scopo è l'oggetto dell'evoluzione umana, la via da percorrere, ed i mezzi coi quali tale fine viene conquistato. La croce bianca, il verde stelo rampicante della pianta, le spine, le rose sanguigne, nascondono la soluzione dei misteri del Mondo: l'evoluzione passata dell'Uomo, la sua attuale costituzione, e specialmente il segreto del suo futuro sviluppo. 
 
 Questo simbolo, muto per il profano, rivela all'Iniziato sempre più chiaramente come egli debba lavorare giorno per giorno per produrre con le proprie forze la più rara di tutte le gemme, la Pietra Filosofale, molto più preziosa del diamante Ko-hi-noor; più preziosa ancora di tutte le ricchezze terrene. Gli ricorda come adesso l'umanità, nella sua ignoranza, sperperi follemente la sostanza rara della quale dispone, invece di servirsene per la formazione di questo inestimabile tesoro. 
 
@@ -4246,7 +4283,9 @@ Sebbene questo sia vero per la pseudo iniziazione in ordini fraterni e anche nel
 
 In primo luogo non esiste una chiave d'oro che ammetta al tempio; ciò che conta è il merito e non il denaro. Il merito non si acquista in un giorno, esso è il prodotto accumulato delle precedenti buone azioni. Il candidato all'iniziazione è di solito perfettamente inconscio di esserlo; egli ordinariamente vive la sua vita nella comunità e serve i suoi simili per giorni ed anni senza alcun ulteriore pensiero, fino a che un bel giorno appare nella sua vita il Maestro, uno Ierofante dei Misteri Minori, addetto al paese in cui il candidato risiede. Fino a questo momento il candidato ha coltivato in sé certe facoltà ed ha accumulato certi poteri di servizio e di aiuto dei quali è generalmente inconsapevole o che non sa come propriamente utilizzare. Allora il compito dell'Iniziatore sarà semplice; esso indica al candidato le facoltà latenti, i poteri dormienti, e lo inizia al loro uso; gli spiega o gli dimostra per la prima volta come può cambiare l'energia statica in potenza dinamica. 
 
-L'Iniziazione può avvenire con o senza una cerimonia; ma si osservi particolarmente che mentre l'Iniziazione è il culmine inevitabile di prolungati sforzi spirituali, sia che il candidato ne sia conscio o no, essa non può mai aver luogo positivamente finché il necessario sviluppo interno non abbia accumulato l'energia latente che l'Iniziazione insegna ad usare dinamicamente, allo stesso modo che lo scatto del grilletto non può causare l'esplosione di un proiettile in un fucile che non sia prima stato caricato. Non c’è nemmeno il pericolo che al Maestro passi inosservato qualcuno che abbia raggiunto il richiesto grado di sviluppo. Ogni buona e altruistica azione aumenta enormemente la luminosità e il potere vibratorio dell'aura del candidato, e come la calamita attrae l'ago, così lo splendore dell'aura luminosa attrarrà il Maestro. 
+L'Iniziazione può avvenire con o senza una cerimonia; ma si osservi particolarmente che mentre l'Iniziazione è il culmine inevitabile di prolungati sforzi spirituali, sia che il candidato ne sia conscio o no, essa non può mai aver luogo positivamente finché il necessario sviluppo interno non abbia accumulato l'energia latente che l'Iniziazione insegna ad usare dinamicamente, allo stesso modo che lo scatto del grilletto non può causare l'esplosione di un proiettile in un fucile che non sia prima stato caricato. 
+
+Non c’è nemmeno il pericolo che al Maestro passi inosservato qualcuno che abbia raggiunto il richiesto grado di sviluppo. Ogni buona e altruistica azione aumenta enormemente la luminosità e il potere vibratorio dell'aura del candidato, e come la calamita attrae l'ago, così lo splendore dell'aura luminosa attrarrà il Maestro. 
 
 Naturalmente è impossibile descrivere in un libro destinato al pubblico gli stadi della Iniziazione Rosacroce; il farlo significherebbe venir meno all'impegno preso e la cosa sarebbe anche impossibile per la mancanza di parole atte ad esprimere adeguatamente i fatti. Però è possibile darne un'idea generale e mostrare lo scopo dell'Iniziazione. 
 
@@ -4254,7 +4293,9 @@ I Misteri Minori trattano solamente dell'evoluzione dell'umanità durante il Per
 
 Dopo aver imparato la sua lezione, come abbiamo descritto nel capitolo X, il candidato ha acquistato in proposito la conoscenza diretta sul soggetto ed è venuto a diretto contatto con le Gerarchie Creatrici nel loro lavoro per e con l'uomo; perciò egli è capace di apprezzare la loro opera benefica nel mondo e può mettersi fino ad un certo punto in linea con esse, convertendosi di fatto in loro collaboratore. 
 
-Quando per il candidato arriva il momento di prendere il secondo grado, è in modo simile portato a dirigere la sua attenzione verso le condizioni della seconda Rivoluzione del Periodo della Terra, come sono registrate nella memoria della natura; allora osserva con piena coscienza il progresso fatto in quell'epoca dagli Spiriti Vergini, come Peter Ibbetsen - l'eroe dell'opera omonima di Georges du Maurier (libro interessante per la descrizione che offre di certe fasi del subconscio) - osserva la vita di suo figlio nelle notti durante le quali « sognava il vero ». Nel terzo grado, il candidato segue l'evoluzione della terza Rivoluzione, o Rivoluzione della Luna, e nel quarto vede il progresso compiuto nella prima metà della nostra attuale Rivoluzione. Ciascun grado comporta tuttavia un insegnamento supplementare. L'allievo vede, oltre al lavoro fatto corrispondente a ciascuna Rivoluzione, anche il lavoro compiuto nell'epoca corrispondente, durante il nostro Soggiorno sul Globo D, la Terra. 
+Quando per il candidato arriva il momento di prendere il secondo grado, è in modo simile portato a dirigere la sua attenzione verso le condizioni della seconda Rivoluzione del Periodo della Terra, come sono registrate nella memoria della natura; allora osserva con piena coscienza il progresso fatto in quell'epoca dagli Spiriti Vergini, come Peter Ibbetsen - l'eroe dell'opera omonima di Georges du Maurier (libro interessante per la descrizione che offre di certe fasi del subconscio) - osserva la vita di suo figlio nelle notti durante le quali « sognava il vero ». Nel terzo grado, il candidato segue l'evoluzione della terza Rivoluzione, o Rivoluzione della Luna, e nel quarto vede il progresso compiuto nella prima metà della nostra attuale Rivoluzione. 
+
+Ciascun grado comporta tuttavia un insegnamento supplementare. L'allievo vede, oltre al lavoro fatto corrispondente a ciascuna Rivoluzione, anche il lavoro compiuto nell'epoca corrispondente, durante il nostro Soggiorno sul Globo D, la Terra. 
 
 Durante il primo grado, egli segue il lavoro della Rivoluzione di Saturno e la sua ultima Ricapitolazione nell'Epoca Polare. 
 
@@ -4302,7 +4343,7 @@ Perciò ogni Probazionista dell'Associazione Rosacrociana compie i suoi esercizi
 
 Quando il Probazionista avrà raggiunto i requisiti necessari e completato il tempo di prova, potrà inoltrare domanda direttamente alla Sezione Esoterica della Sede Centrale di Oceanside, per ricevere istruzioni individuali da parte dei Fratelli Maggiori. 
 
-#### <h4 id="">La Sede Centrale dell'Associazione Rosacrociana</h4>
+#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">La Sede Centrale dell'Associazione Rosacrociana</h4>
 
 L 'Associazione Rosacrociana, allo scopo di promulgare l'insegnamento dato in questo libro, ed aiutare gli aspiranti sulla via del progresso, riconobbe il bisogno di trovare una sede permanente adatta, fornita dei mezzi per compiere quest'opera. Così acquistò un pezzo di terreno nella città di Oceanside, California, novanta miglia a sud di Los Angeles e quaranta a nord di San Diego, la città più a sud-ovest degli Stati Uniti. 
 
@@ -4310,7 +4351,7 @@ Questo terreno è situato in una posizione dominante dalla quale si può godere 
 
 La California del sud offre opportunità eccezionali per lo sviluppo spirituale, a causa della maggior quantità di etere contenuta nell'atmosfera, più densa qui che in ogni altra parte del mondo, e Monte Ecclesia, come viene chiamata la Sede Centrale dell'Associazione Rosacrociana, è particolarmente favorito sotto tale aspetto. 
 
-#### <h4 id="">I Nostri Fabbricati</h4>
+#### <h4 id="our-buildings">I Nostri Fabbricati</h4>
 
 I lavori furono cominciati verso la fine del 1911. Da allora è stato costruito un Santuario nel quale hanno luogo le funzioni del Tempio Rosacroce, un Tempio per le cure e uno stabile di due piani per l'Amministrazione. Questo, al secondo piano, ha vari uffici un dipartimento editoriale e uno per la Direzione. Al primo piano è situata un'ampia tipografia contenente una linotype, torchi a cilindro e piani, macchine piegatrici e macchine per tagliare la carta, come pure una rilegatorìa che ci dà la possibilità di produrre interamente le nostre pubblicazioni dalla stampa al prodotto finito. In questo settore, la Rivista mensile « Rays from the Rose Cross» (« Raggi dalla Rosa Croce ») viene stampata, e così pure tutte le altre pubblicazioni Rosacrociane dell'Associazione. 
 
@@ -4338,7 +4379,7 @@ La funzione della generazione si effettuava sotto la guida degli Angeli. In cert
 
 Già fin da ora l'uomo dà forza alla materia sia col pensiero che con la voce, come dimostrano esperimenti scientifici in cui il pensiero ha creato immagini su lastre fotografiche (1), e la voce umana ha formato delle figure geometriche sulla rena, ecc. A misura che l'uomo diviene altruista farà uso moderato della forza. Ciò gli darà maggior forza di pensiero e gli permetterà di utilizzarla per elevare altri suoi consimili invece di studiare come degradarli e soggiogarli alla sua volontà. Egli imparerà a dominarsi e cesserà di cercare di dominare gli altri, salvo quando ciò debba esser fatto temporaneamente a scopo di bene, mai per scopi egoistici. Solamente chi abbia imparato a dominare se stesso è qualificato a governare gli altri, è capace di giudicare quando una cosa debba esser fatta, e che cosa sia meglio fare per loro. 
 
-(I) Le prime esperienze di fotografie di questo genere risalgono al 1861. 
+() - (1) Le prime esperienze di fotografie di questo genere risalgono al 1861. 
 
 Vediamo dunque che col tempo l'ardente e passionale modo di generare cesserà e sarà sostituito da un metodo più puro ed efficace di quello attuale, e anche questo è simbolizzato nell'emblema della Rosa Croce, nel quale una rosa bianca è posta nel centro dei quattro bracci della Croce. Il tronco più lungo rappresenta il corpo, i due bracci orizzontali rappresentano le braccia, e la parte superiore più breve, la testa. La rosa è collocata al posto della laringe. 
 
