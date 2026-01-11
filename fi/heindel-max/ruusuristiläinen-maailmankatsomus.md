@@ -100,7 +100,7 @@ Oceanside, California, 91054, USA
     - [Jumalan ja ihmisen olemuspuolet, kaavio 11](#diagram-11-aspects-of-god-and-man)
     - [Table of Vibrations](#table-of-vibrations)
     - [Ihmisruumiin muoto, kaavio 12](#diagram-12-a-mans-past-present-and-future-form)
-  - [XII Luku. Maanpäällinen evoluutio](#chapter-12)
+  - [XII Luku: Maanpäällinen evoluutio](#chapter-12)
     - [Polaarinen ajanjakso](#the-polarian-epoch)
     - [Hyperborealainen ajanjakso](#the-hyperborean-epoch)
     - [Kuu, kahdeksas piiri](#the-moon-the-eighth-sphere)
@@ -117,7 +117,7 @@ Oceanside, California, 91054, USA
     - [Arjalainen ajanjakso](#the-aryan-epoch)
     - [Kuusitoista häviön tietä](#the-sixteen-paths-to-destruction)
   - [XIII Luku: Takaisin Raamattuun](#chapter-13)
-  - [XIV Luku. Ensimmäisen Mooseksen kirjan salatieteellinen selitys](#chapter-14)
+  - [XIV Luku: Ensimmäisen Mooseksen kirjan salatieteellinen selitys](#chapter-14)
     - [Raamatun rajoitukset](#limitations-of-the-bible)
     - [Alussa](#in-the-beginning)
     - [Tähtisumuteoria](#the-nebular-theory)
@@ -1558,15 +1558,13 @@ Tämän tiedon ymmärtäminen on äärettömän tärkeää, ja uskoi simme jokai
 
 Siitä syystä mitä paremmin tunnemme luonnon toimintaa, joka on näkyvä symboli näkymättömästä Jumalasta, sitä paremmin voimme käyttää hyväksemme luonnon tarjoamia tilaisuuksia kasva miseen ja voimaan, vapautuaksemme rajoituksista ja kohotaksemme mestariuteen. 
 
-### VII LUKU: KEHITYKSEN TIE 
+### <h3 id="chapter-7">VII Luku: Kehityksen tie</h3>
 
 Lienee tarpeellista esittää varoitus kaavioiden käytöstä. Opiskelijan tulee pitää mielessä, ettei mikään, mikä muutetaan ylemmästä ulot tuvuudesta alempaan voi koskaan olla täsmällinen. Maalaus talosta merkitsisi meille hyvin vähän tai ei mitään, jos emme koskaan oli si nähneet taloa. Näkisimme vain viivoja ja väriläiskiä, jotka eivät merkitsisi meille mitään. Vielä vähemmän täsmällisiä ovat kaaviot, joita käytetään selittämään ylifyysisiä asioita. Kuva talosta esittää kolmiulotteista taloa muutettuna kaksiulotteiseksi, mutta kaaviot, jotka esittävät aikakausia, maailmoja ja palloja, kuvaavat neli- ja jopa seitsenulotteisia asioita kaksiulotteisina. Tästä syystä on vielä vähemmän mahdollista selittää asioita täsmällisesti. Meidän tulee aina pitää mielessä, että maailmat läpäisevät toisensa ja pallot ovat sisäkkäin. Kaavioilla kuvaaminen on samantapaista kuin jos irrot taisimme kellosta kaikki rattaat ja asettaisimme ne vierekkäin ku vaamaan kellon käyntiä. Saadakseen kaavioista jotakin hyötyä täytyy opiskelijan ymmärtää ne henkisesti, tai niistä on enemmän haittaa kuin hyötyä. 
 
-#### Kierrokset ja kosmiset yöt 
+#### <h4 id="revolutions-and-cosmic-nights">Kierrokset ja kosmiset yöt</h4>
 
 Saturnuskausi on seitsemästä aikakaudesta ensimmäinen, ja tällä alkuasteella neitseelliset henget ottavat ensimmäiset askeleensa kohti kehitystä, tajuntaa ja muotoa. Kuten kaavio 7 osoittaa, kehitysvirta kiertää seitsemän kertaa seitsemää palloa – A, B, C, D, E, F ja G – nuolen osoittamaan suuntaan. 
-
-DIAGRAM7!!!!!!!!!!!! Kaavio 7 Saturnuskausi. 
 
 Ensimmäinen kehitysaste tapahtuu A-pallolla, jumalallisen hen gen maailmassa, hienoimmassa meidän kehityskenttämme viidestä maailmasta. Sen jälkeen kehittyvä elämä siirtyy vähitellen B-pallolle, joka on jonkin verran tiheämmässä elämänhengen maailmassa. Sii nä eletään toinen kehitysjakso. Aikanaan kehittyvä elämä on valmis astumaan C-pallon areenalle, joka on muodostettu vieläkin tiheäm mästä abstraktin ajattelun tason aineesta. Opittuaan tämän tason ominaisuudet, elämänaalto siirtyy edelleen D-pallolle, joka on muo dostettu konkreettisen ajattelun tason aineesta. Tämä taso on tihein, jonka elämänaalto saavuttaa Saturnuskauden aikana. 
 
@@ -1583,8 +1581,6 @@ Kun elämänaalto Saturnuskaudella viimeisen kerran jättää A-pal lon, se alka
 Kun elämänaalto Saturnuskaudella viimeisen kerran jättää B pallon, se myös alkaa hitaasti hajota alkuosiinsa. Sen voimat käyte tään, samoin kuin ihmisen käyttövälineiden siemenatomi, ytimeksi Aurinkokauden B-palloon, joka sijaitsee abstraktin ajattelun tasolla. 
 
 Samalla tavalla C-pallon voimat siirtyvät konkreettisen ajattelun tasolle kokoamaan ainetta tulevan Aurinkokauden uudeksi C-pal loksi. D-pallo muuttuu samalla tavalla ja siirtyy tunnemaailmaan. Pallot E, F ja G muuttuvat samoin kukin vuorollaan. Tästä seuraa (kuten kaavio 8 esittää), että Aurinkokaudella kaikki pallot ovat siirtyneet askelta alemmaksi tiiviimpään aineeseen kuin missä ne Saturnuskaudella olivat. Kun elämänaalto uudelleen ilmenee kosmi sen yön jälkeen, joka on Saturnuskauden G-pallon lakanneen toi minnan ja Aurinkokauden A-pallolla heränneen uuden toiminnan välillä, niin sitä on vastassa uusi ympäristö, jossa sille annetaan mah dollisuudet uusiin kokemuksiin. 
-
-DIAGRAM8!!!!!!!!! Kaavio 8 Seitsemän maailmaa, seitsemän palloa ja seitsemän aikakautta. 
 
 Aurinkokaudella elämänaalto kiertää jälleen seitsemän kertaa seitsemän pallon ympäri kulkien seitsemän kertaa ylös ja alas nii den neljän maailman tai tason kautta, jossa pallot sijaitsevat. Se tekee seitsemän kierrosta Aurinkokaudella niin kuin Saturnuskaudellakin. 
 
@@ -1604,9 +1600,9 @@ Kun elämänaalto on täyttänyt matkansa Maakaudella ja sitä seu raava kosmine
 
 Sitten seuraa toisia vielä suurempia kehitysjärjestelmiä, mutta me voimme keskittyä vain näihin seitsemään käsiteltävänä olevaan aikakauteen. 
 
-### VIII: LUKU KEHITYSTYÖ 
+### <h3 id="chapter-8">VIII Luku: Kehitystyö</h3>
 
-#### Ariadnen lanka 
+#### <h4 id="ariadnes-thread">Ariadnen lanka</h4>
 
 Nyt kun olemme perehtyneet maailmoihin, palloihin ja kierroksiin, jotka muodostavat kehitystien seitsemällä aikakaudella, voimme ryhtyä tutkimaan, minkälaista työtä kullakin aikakaudella on tehty, sekä työmenetelmiä, joita on käytetty. 
 
@@ -1620,9 +1616,9 @@ Edellä esitetty on avain siihen, mitä seuraavaksi käsittelemme.
 
 Opiskelijalle on erittäin tärkeää ymmärtää hyvin planeetta järjestelmien kehitys, joka on edellä esitetty pääpiirteittäin. Jotkut, jotka uskovat jälleensyntymiseen ja seuraamuksen lakiin, pitävät tätä tietoa melko turhana ja hyödyttömänä. Kuitenkin sen merkitys on var sin suuri näiden lakien vakaville opiskelijoille. Se kehittää mieltämme abstraktissa ajattelussa ja nostattaa mielemme ikävien maallisten asi oiden yläpuolelle ja auttaa mielikuvitusta kohoamaan haitallisen itse keskeisyyden yläpuolelle. Tunnemaailmaa tutkiessamme huomasim me, että mielenkiinto on toiminnan kannustin. Kuitenkin nykyisellä kehitysasteellamme mielenkiinto on yleensä itsekkyyden herättä mä. Se on toisinaan hyvinkin aavistuksenomainen, mutta kannus taa silti kaikenlaiseen toimintaan. Kaikki mielenkiinnon aiheuttama toiminta aikaansaa tiettyjä seurauksia, jotka vaikuttavat meihin, ja sen tähden olemme toiminnallamme sidottuja konkreettiseen maa ilmaan. Mutta jos mielessämme pohdiskelemme matematiikkaa tai opiskelemme planeettojen kehitysjaksoja, olemme puhtaasti abst raktin ajattelun tasolla, tunteiden vaikutuksen ulkopuolella ja mie lemme on suunnattu ylöspäin henkisille tasoille ja vapautumiseen. Laskiessamme neliöjuuria, kertoessamme lukuja tai ajatellessamme aikakausia ja kierroksia jne., meillä ei ole tunteita niistä. Emme rii tele siitä, että kaksi kertaa kaksi on neljä. Jos sekoittaisimme siihen tunteita, saattaisimme ehkä väittää sen olevan viisi ja joutuisimme riitaan henkilön kanssa, joka ehkä persoonallisista syistä väittäisi sen olevan kolme. Matematiikassa totuus on selvä ja ilman tunteita. Tästä syystä tavalliselle ihmiselle, joka haluaa elää tunteissa, matematiikka on kuivaa ja vailla mielenkiintoa. Pythagoras opetti oppilaitaan elä mään ikuisen hengen maailmassa, ja hän vaati oppilaikseen pyrkiviä ensin tutkimaan matematiikkaa. Mieli, joka kykenee ymmärtämään matematiikkaa, on keskitason yläpuolella ja kykenee nousemaan hengen maailmaan, koska se ei ole kahlehdittu tunteiden ja halujen maailmaan. Mitä enemmän totutamme itsemme ajattelemaan hen kisten maailmojen ehdoilla, sitä helpommin voimme nousta niiden harhojen yläpuolelle, jotka ympäröivät meitä konkreettisessa olo tilassamme, jossa kaksoistunteet, kiinnostus ja välinpitämättömyys, sumentavat totuuden ja vääristävät näköämme samoin kuin valon säteiden heijastus maan ilmakehän läpi antaa väärän käsityksen valolähteen sijainnista. 
 
-Siksi opiskelijaa, joka haluaa tietää totuuden ja joka haluaa as tua hengen tasoille, tutkia niitä ja vapauttaa itsensä lihallisesta työstä niin pian kuin se on mahdollista turvallisuuden ja oikean kasvun puitteissa, kehotetaan tutkimaan seuraavia opetuksia niin huolelli sesti kuin mahdollista, sulattamaan ne ja luomaan itselleen tarkka mentaalinen kuva maailmoista, palloista ja aikakausista. Jos hän haluaa edistyä tällä tiellä, matematiikan opiskelu ja Hintonin ”The Fourth Dimension”12 -niminen kirja ovat erinomaisia harjoituksia abstraktissa ajattelussa. Tämä Hintonin teos (vaikka oleellises ti virheellinen, koska neliulotteista maailmaa ei voi kuvata kolmi ulotteisen maailman menetelmillä) on kuitenkin avannut monen siihen syventyneen tutkijan silmät ja tehnyt heidät selvänäköisiksi. Lisäksi kun muistamme, että logiikka on paras opettaja kaikissa maailmoissa, on varmaa, että henkilö, joka onnistuu menemään ylifyysiseen maailmaan tällaisten abstraktien tutkimusten kautta, ei hämmenny, vaan suoriutuu hyvin kaikissa olosuhteissa. 
+Siksi opiskelijaa, joka haluaa tietää totuuden ja joka haluaa as tua hengen tasoille, tutkia niitä ja vapauttaa itsensä lihallisesta työstä niin pian kuin se on mahdollista turvallisuuden ja oikean kasvun puitteissa, kehotetaan tutkimaan seuraavia opetuksia niin huolelli sesti kuin mahdollista, sulattamaan ne ja luomaan itselleen tarkka mentaalinen kuva maailmoista, palloista ja aikakausista. Jos hän haluaa edistyä tällä tiellä, matematiikan opiskelu ja Hintonin ”The Fourth Dimension” (12) -niminen kirja ovat erinomaisia harjoituksia abstraktissa ajattelussa. Tämä Hintonin teos (vaikka oleellises ti virheellinen, koska neliulotteista maailmaa ei voi kuvata kolmi ulotteisen maailman menetelmillä) on kuitenkin avannut monen siihen syventyneen tutkijan silmät ja tehnyt heidät selvänäköisiksi. Lisäksi kun muistamme, että logiikka on paras opettaja kaikissa maailmoissa, on varmaa, että henkilö, joka onnistuu menemään ylifyysiseen maailmaan tällaisten abstraktien tutkimusten kautta, ei hämmenny, vaan suoriutuu hyvin kaikissa olosuhteissa. 
 
-12 ”Neljäs ulottuvuus”. – Suom. huom. 
+() - (12) ”Neljäs ulottuvuus”. – Suom. huom. 
 
 Tässä on esitetty vaikuttava suunnitelma, ja kun siihen lisätään yksityiskohtia, sen monimutkaisuus tulee melkein käsittämättömäk si. Jokainen, joka kykenee sitä ymmärtämään, saa vaivastaan suuren palkan. Opiskelijan tulee lukea hitaasti, kerrata luettua usein, ajatella syvästi ja paljon. 
 
@@ -1630,7 +1626,7 @@ Tätä kirjaa, ja varsinkaan tätä lukua, ei voi lukea ylimalkaises ti. Jokaine
 
 Ei mikään tämän kaltainen teos, joka käsittelee syvimpiä suuren maailman mysteereitä, joita ihmisäly nykyisellä kehitysasteellaan saattaa tajuta, voi olla kirjoitettu siten, että se olisi kevyttä luetta vaa. Kuitenkin syvimmätkin asiat, joita nyt ymmärrämme, ovat vain aakkosia siitä järjestelmästä, joka meille paljastuu, kun järkemme kykenee myöhemmillä kehitysasteilla ymmärtämään enemmän yli ihmisen tilaan kehittyessämme. 
 
-#### Saturnuskausi 
+#### <h4 id="the-saturn-period">Saturnuskausi</h4>
 
 Saturnuskaudella pallot olivat paljon hienompaa ja ohuempaa ai netta kuin maapallo nyt on. Tämä selviää tutkiessamme kaavioita 7 ja 8. Opiskelijaa kehotetaan pitämään kaaviot saatavilla voidakseen perehtyä niihin opiskellessaan näitä asioita. Tuon aikakauden tihein pallo oli samalla ajatusmaailman tasolla, jossa nykyisen aikakauden hienoimmat pallot sijaitsevat – konkreettisen ajattelun tasolla. Näillä palloilla ei ollut sellaista kokoonpanoa, jota me voimme aistia. ”Läm pö” on ainoa sana, joka likimäärin kuvaa muinaista Saturnuskautta. Oli pimeää, ja jos ihminen olisi voinut mennä sellaiseen tilaan, hän ei olisi nähnyt mitään. Kaikki olisi ollut pimeää hänen ympärillään, mutta hän olisi aistinut sen lämmön. 
 
@@ -1656,9 +1652,11 @@ Herättäessään idulla olevaa tajuntaa liekin herrojen toiminta oli voimakkain
 
 Painotamme jälleen, että kosminen yö ei ole toimetonta aikaa. Se ei ole toimetonta olemista, kuten huomasimme tutkiessamme yksi lön olotilaa kuoleman ja uuden syntymän välillä. Sama koskee aika kauden kaikkien pallojen suurta kuolemantilaa. Se on toiminnalli sen ilmennyksen lakkauttamista niin, että suhteellisesti kiihkeämpi subjektiivinen toiminta voisi kehittyä. 
 
-Saamme ehkä parhaan käsityksen subjektiivisesta toiminnasta seuraamalla, mitä tapahtuu kypsälle hedelmälle, kun se haudataan maahan. Hedelmän käyminen ja mätäneminen alkaa, mutta kaa oksesta syntyy uusi kasvi, joka tunkeutuu ylös ilmaan ja auringon paisteeseen. Samalla tavalla aikakauden loputtua kaikki hajoaa kaa okseen, jonka palautuminen järjestykseen näyttää mahdottomalta. Kuitenkin ajallaan muodostetaan uuden aikakauden pallot, jotka valmistetaan ihmisille sopiviksi maailmoiksi. Kehittyvä elämä siir retään tänne viidestä pimeästä pallosta. Kosmisen yön aikana se on kulkenut niissä aloittaakseen toiminnan uuden luomispäivän ympä ristössä, joka on valmistettu ja saanut ulkoisen muodon kosmisen yön kuluessa. Samoin kuin hedelmän käymisvoimat voimistavat siementä ja hedelmöittävät maapohjan, jossa se kasvaa, liekin her rat antavat voimaa jumalallisen hengen idulle erityisesti Saturnus- ja Aurinkokausien välisen kosmisen yön aikana, jatkaen toimintaansa, kunnes saavutaan Aurinkokauden ensimmäisen kierroksen keski vaiheille. 
+Saamme ehkä parhaan käsityksen subjektiivisesta toiminnasta seuraamalla, mitä tapahtuu kypsälle hedelmälle, kun se haudataan maahan. 
 
-#### Yhteenveto 
+Hedelmän käyminen ja mätäneminen alkaa, mutta kaa oksesta syntyy uusi kasvi, joka tunkeutuu ylös ilmaan ja auringon paisteeseen. Samalla tavalla aikakauden loputtua kaikki hajoaa kaa okseen, jonka palautuminen järjestykseen näyttää mahdottomalta. Kuitenkin ajallaan muodostetaan uuden aikakauden pallot, jotka valmistetaan ihmisille sopiviksi maailmoiksi. Kehittyvä elämä siir retään tänne viidestä pimeästä pallosta. Kosmisen yön aikana se on kulkenut niissä aloittaakseen toiminnan uuden luomispäivän ympä ristössä, joka on valmistettu ja saanut ulkoisen muodon kosmisen yön kuluessa. Samoin kuin hedelmän käymisvoimat voimistavat siementä ja hedelmöittävät maapohjan, jossa se kasvaa, liekin her rat antavat voimaa jumalallisen hengen idulle erityisesti Saturnus- ja Aurinkokausien välisen kosmisen yön aikana, jatkaen toimintaansa, kunnes saavutaan Aurinkokauden ensimmäisen kierroksen keski vaiheille. 
+
+#### <h4 id="recapitulation">Yhteenveto</h4>
 
 Ennen kuin toiminta voi alkaa kullakin kierroksella, kerrataan kaik ki, mitä aiemmin on menty läpi. Kehityksen spiraaliliikkeestä johtuu, että kertaustoiminta tapahtuu joka kerta yhtä astetta korkeammalla kuin kerrattavana oleva jakso oli. Miksi tämä on välttämätöntä, sel viää, kun kertausmenetelmä selitetään. 
 
@@ -1674,7 +1672,7 @@ Seitsemästä aikakaudesta viimeisellä – Vulkanuskaudella – aloi tetaan Vul
 
 Tämän lisäksi (tämä erityisesti auttaa opiskelijaa muistamaan) jo kaisen aikakauden Saturnuskierroksella kiinteään ruumiiseen kehit tyy jokin uusi piirre, koska sen muodostaminen alkoi ensimmäisellä kierroksella, ja aina seitsemännellä eli Vulkanuskierroksella erikois tehtävä liittyy jumalalliseen henkeen, koska se luotiin seitsemännellä kierroksella. Samoin huomaamme, että on olemassa yhteys eri kier rosten ja ihmisen kaikkien käyttövälineiden välillä. 
 
-#### Aurinkokausi 
+#### <h4 id="the-sun-period">Aurinkokausi</h4>
 
 Aurinkokauden olosuhteet olivat täysin erilaiset kuin Saturnuskau den. Aurinkokauden pallot olivat Saturnuskauden ”lämpöpalloihin” verrattuna rakenteeltaan kaasumaisia hehkuvia valopalloja. Näihin suuriin kaasupalloihin sisältyi kaikki Saturnuskauden kehitys, ja sa moin luovat hierarkiat sisältyivät niiden ilmakehään. 
 
@@ -1708,7 +1706,7 @@ Samalla tavalla ja samoista syistä ihminen kulki Aurinkokauden aikana läpi kas
 
 Aurinkokauden päätyttyä alkoi toinen kosminen yö, jonka aikana tapahtuva sulatustoiminta ja subjektiivinen työ olivat välttämättö miä ennen Kuukauden alkamista. Tämä oli yhtä pitkä kuin edellinen objektiivinen ilmennyksen aikakausi. 
 
-#### Kuukausi 
+#### <h4 id="the-moon-period">Kuukausi</h4>
 
 Pimeiden Saturnus-pallojen pääominaisuus kuvattiin termillä ”läm pö” ja Aurinkokauden pallojen ominaisuutta sanalla ”valo” tai heh kuva kuumuus. Kuukauden pallojen pääominaisuutta kuvataan sanalla ”kosteus”. Ilmaa, sellaisena kuin me sitä ajattelemme, ei ol lut. Pallon sisällä oli kuuma, tulinen ydin. Sitä seuraavana ja koske tuksessa ulkopiirin kylmyyden kanssa oli tiheä kosteus. Kun se tuli kosketukseen tulisen ytimen kanssa, se muuttui kuumaksi höyryksi, joka ryöppysi ulospäin jäähtyen ja laskeutui jälleen kohti keskustaa. Sen tähden salatieteilijä nimittää Kuukauden palloja ”vedeksi” ja nimittää sen ajan ilmakehää ”tulisumuksi”. Tällainen oli kehittyvän elämän seuraavan edistysaskeleen näyttämö. 
 
@@ -1766,11 +1764,11 @@ Toisilla luovilla hierarkioilla oli tällä kehityksen asteella tehtävänä huo
 
 Kaksitoista suurta luovaa hierarkiaa toimi kehitystyössä Saturnus kauden alussa. Alussa kaksi näistä oli apuna tässä työssä. Ei niistä eikä niiden työstä ole annettu mitään tietoa paitsi, että ne toimivat vapaasta tahdostaan ja vetäytyivät sitten rajoitetusta olemassaolosta vapauteen. 
 
-Kolme luovaa hierarkiaa seurasi niitä Maakauden alussa, liekin herrat, kerubit ja serafit, ja seitsemän hierarkiaa jäi varsinaiseen työhön Maakauden alussa. (Kaavio 9 antaa selvän kuvan näistä kahdestatoista luovasta hierarkiasta ja niiden asemasta.) 
+Kolme luovaa hierarkiaa seurasi niitä Maakauden alussa, liekin herrat, kerubit ja serafit, ja seitsemän hierarkiaa jäi varsinaiseen työhön Maakauden alussa. 
 
-Järjen herroista tuli taitavia muodostamaan ruumiita ”järkiai neesta”, samoin meistä tulee taitavia muodostamaan ruumiita ke miallisesta aineesta. Samasta syystä konkreettisen ajattelun taso oli tihein aineen tila Saturnuskaudella järjen herrojen ollessa ihmisiä. Kemiallinen taso on tihein aineen tila, jonka nykyinen ihmiskunta saavuttaa. 
+(Kaavio 9 antaa selvän kuvan näistä kahdestatoista luovasta hierarkiasta ja niiden asemasta.) 
 
-DIAGRAM9!!!!!!!!!!! Kaavio 9 Kaksitoista suurta luovaa hierarkiaa. 
+Järjen herroista tuli taitavia muodostamaan ruumiita ”järkiai neesta”, samoin meistä tulee taitavia muodostamaan ruumiita ke miallisesta aineesta. Samasta syystä konkreettisen ajattelun taso oli tihein aineen tila Saturnuskaudella järjen herrojen ollessa ihmisiä. Kemiallinen taso on tihein aineen tila, jonka nykyinen ihmiskunta saavuttaa.  
 
 Maakauden aikana järjen herrat nousivat luoja-asteelle. Ne säteili vät itsestään meihin materiaalin ytimen, josta me nyt pyrimme muo dostamaan järjestäytyneen mielen. Paavali nimittää niitä ”Pimeyden voimiksi”, koska ne tulivat pimeältä Saturnuskaudelta. Niitä pidetään pahoina niiden erottavien taipumusten tähden, jotka kuuluvat jär jen tasolle vastakohtana elämänhengen maailman, rakkauden valta kunnan yhdistäville voimille. Järjen herrat työskentelevät ihmis kunnan kanssa, mutta eivät kolmen alemman luontokunnan kanssa. 
 
@@ -1778,7 +1776,7 @@ Arkkienkeleistä tuli taitavia muodostamaan ruumiita tunne aineesta, joka oli Au
 
 Enkelit ovat todella taitavia elollisruumiin muodostamisessa, koska niiden ollessa ihmisiä Kuukauden aikana eetteri oli tihein ainetila. Siitä johtuu, että ne voivat asianmukaisesti opettaa ihmisiä, eläimiä ja kasveja kaikessa, mikä koskee elintoimintoja, kuten lisään tymistä, ravitsemusta jne. 
 
-### IX LUKU: JÄLKEENJÄÄNEET JA VASTATULLEET 
+### <h3 id="chapter-9">IX Luku: Jälkeenjääneet ja vastatulleet</h3>
 
 Olemme edellisissä luvuissa seuranneet elämän kehitystä tajunnassa ja muodoissa – neitseellisten henkien kolminkertaisessa ilmennys vaiheessa – joka on se elämä, joka rakentaa ympärilleen muodon ja saavuttaa sen kautta tajunnan. Olemme puhuneet ikään kuin olisi vain yksi neitseellisten henkien luokka, jonka kehitys on ollut poik keuksetta jatkuva ja yhdenmukainen. 
 
@@ -1808,13 +1806,17 @@ Liekin herrat ilmestyivät jälleen Aurinkokauden seitsemännen kierroksen aikan
 
 Seuraavat luokitukset olivat olemassa Kuukauden alkaessa: 
 
-1. Uranuurtajat, jotka olivat menestyksellisesti kulkeneet Saturnus- ja Aurinkokausien läpi. Niillä oli kiinteä ruumis, elollisruumis ja juma lallinen henki sekä elämänhenki itämässä.    
-2. Aurinkokauden jälkeenjääneet, joilla oli kiinteä ruumis, elollis ruumis ja jumalallinen henki – kaikki idulla.    
-3. Saturnuskauden jälkeenjääneet, jotka oli korotettu Aurinkokauden seitsemännen kierroksen aikana. Niillä oli kiinteän ruumiin ja ju malallisen hengen idut.    
-4. Uuden elonaallon uranuurtajat, joilla oli samat käyttövälineet kuin    
-3. luokalla, mutta jotka kuuluvat eri kehitysjärjestelmään.    
-5. Uuden elonaallon jälkeenjääneet, joilla oli vain kiinteän ruumiin itu.    
-6. Uusi elonaalto, joka aloitti kehityksensä Kuukauden alussa. Tämä on se elämä, joka elävöittää nykyiset kasvit.    
+1\. Uranuurtajat, jotka olivat menestyksellisesti kulkeneet Saturnus- ja Aurinkokausien läpi. Niillä oli kiinteä ruumis, elollisruumis ja juma lallinen henki sekä elämänhenki itämässä.  
+
+2\. Aurinkokauden jälkeenjääneet, joilla oli kiinteä ruumis, elollis ruumis ja jumalallinen henki – kaikki idulla.    
+
+3\. Saturnuskauden jälkeenjääneet, jotka oli korotettu Aurinkokauden seitsemännen kierroksen aikana. Niillä oli kiinteän ruumiin ja ju malallisen hengen idut.    
+
+4\. Uuden elonaallon uranuurtajat, joilla oli samat käyttövälineet kuin luokalla, mutta jotka kuuluvat eri kehitysjärjestelmään.    
+
+5\. Uuden elonaallon jälkeenjääneet, joilla oli vain kiinteän ruumiin itu.    
+
+6\. Uusi elonaalto, joka aloitti kehityksensä Kuukauden alussa. Tämä on se elämä, joka elävöittää nykyiset kasvit.    
 
 On tärkeää muistaa, että elämä kiiruhtaa hitaasti. Se ei tee kos kaan äkkipikaisia muodon muutoksia. Sille aika ei merkitse mitään, täydellisyyden saavuttaminen on kaikki kaikessa. Kivennäinen ei muutu kasviksi yhdellä hyppäyksellä, vaan vähitellen, melkein huo maamattomin astein. Kasvista ei tule eläintä yhdessä yössä. Vaadi taan miljoonia vuosia sen muutoksen aikaansaamiseksi. Sen tähden tapaamme luonnossa kaikenlaisia asteita ja ala-asteita. Olemassa olon portaat nousevat keskeytymättä protoplasmasta Jumalaan. 
 
@@ -1834,10 +1836,6 @@ Toinen ja kolmas luokka muodostivat kasvikunnan, vaikka ne molemmat tosin olivat
 
 Ensimmäisen luokan muodostivat neitseellisten henkien elon aallon uranuurtajat. Kuukaudella ne menivät eläimen tapaisen olo tilan läpi. Ne muistuttivat meidän aikamme eläimiä ainoastaan sii nä, että niillä oli samat käyttövälineet ja niitä hallitsi ryhmähenki, johon koko ihmisperhe sisältyi. Muodoltaan ne olivat aivan toisen laisia kuin meidän aikamme eläimet, mikä ilmenee edellisissä luvuis sa annetusta osittaisesta selityksestä. Ne eivät koskettaneet planeetan pintaa, vaan kelluivat vapaina köydentapaisista säikeistä. Keuhkojen sijasta niillä oli kidusten kaltainen elin, jonka kautta ne hengittivät kuumaa, höyrymäistä ”tulisumua”. Kuukauden olotila kertautuu yhä sikiössä raskauden aikana. Tietyllä kehitysasteella silläkin on kiduk set. Tämän ajan Kuu-olennoilla oli vaakasuora selkäranka, kuten eläimellä nyt. 
 
-DIAGRAM10!!!!!!!!!!!!!!!!!! Kaavio 10 Olentoluokat Maakauden alussa. 
-
-Osoittaa useiden eri elonaaltojen luokat, jotka kehittyvät maan neljässä luonto kunnassa, niiden tilan Maakauden alussa ja niiden silloiset käyttövälineet sekä nykyisen tilan. 
-
 Kuukaudella ilmeni jälleen uusia alaluokkia niin kuin aikaisem pina aikakausina, koska taas oli jälkeenjääneitä, jotka eivät olleet jaksaneet pysyä kehityksen mukana. Sen seurauksena Maakauden alussa oli viisi olentoluokkaa, joista muutamat olivat vuorostaan ja kautuneet 10. kaavion osoittamalla tavalla. Nämä jaotukset tapahtui vat seuraavina aikoina ja seuraavista syistä: 
 
 Kuukauden viidennen kierroksen puolivälissä, kun serafit pai noivat ihmisen hengen idun niihin uranuurtajiin, jotka olivat val miita astumaan eteenpäin, todettiin joidenkin olevan puutteellisia ja sen tähden kykenemättömiä vastaanottamaan henkistä sysäystä, joka herättää kolminaishengen. 
@@ -1854,7 +1852,9 @@ Sikäli kuin nykyinen ihmiskunta on kysymyksessä, tämä mah dollisuus on niin 
 
 Salatieteilijöiden suurin huoli on materialismi. Jos se menee liian pitkälle, se ei ole ainoastaan kehityksen esteenä, vaan hävittää neitseellisen hengen kaikki seitsemän käyttövälinettä jättäen sen alastomaksi. Silloin sen täytyy aloittaa kehitys aivan alusta. Kaikki Saturnuskauden alusta lähtien tehty työ on mennyt täysin hukkaan. Sen tähden nykyinen kehityskausi on kaikista ratkaisevin ihmis kunnallemme. Siksi salatieteilijät puhuvat kuudestatoista rodusta, joista anglosaksinen on yksi ”kuutenatoista tuhoutumisen mahdolli suudesta”. Kulkekoon lukija turvallisesti niiden kaikkien ohitse, sillä niiden ote on vaarallisempi kuin seuraavan kierroksen taantuminen. 
 
-Yleisesti sanoen edellisen luettelon viides luokka sai jumalallisen hengen idun seitsemännen kierroksen aikana, kun liekin herrat il mestyivät uudelleen. Ne olivat edellisen elämänaallon uranuurtajia ja olivat alkaneet kehityksensä Kuukauden aikana, jolloin ne meni vät kivennäiskauden läpi. Tämän elonaallon jälkeenjääneille jäi niin muodoin vain kiinteän ruumiin itu. 
+Yleisesti sanoen edellisen luettelon viides luokka sai jumalallisen hengen idun seitsemännen kierroksen aikana, kun liekin herrat il mestyivät uudelleen. Ne olivat edellisen elämänaallon uranuurtajia ja olivat alkaneet kehityksensä Kuukauden aikana, jolloin ne meni vät kivennäiskauden läpi. 
+
+Tämän elonaallon jälkeenjääneille jäi niin muodoin vain kiinteän ruumiin itu. 
 
 Yllämainittujen lisäksi astui Maakauden alkaessa uusi elonaalto (nykyinen kivikunta) kehityksen tielle. 
 
@@ -1862,7 +1862,7 @@ Kuukauden lopussa ja Maakauden alussa oli näillä olentoluokilla ne käyttövä
 
 Täten eri olentoluokat ovat saavuttaneet ne käyttövälineet, jotka kuvataan kaaviossa 3, johon lukijaa kehotetaan tutustumaan. 
 
-### X LUKU: MAAKAUSI 
+### <h3 id="chapter-10">X Luku: Maakausi</h3>
 
 Maakauden pallot sijaitsevat neljässä tiheimmässä aineen tilassa – konkreettisen ajattelun tasolla, tunnemaailmassa, eetterisellä ja ke miallisella tasolla (Katso kaaviota 8.). Tihein pallo (D) on nykyinen maamme. 
 
@@ -1888,7 +1888,7 @@ Kun tunneruumis jakautui, sen korkeammasta osasta tuli jolla kin tavalla alemman
 
 Olennoissa, joiden tunneruumis jakautui, kiinteä ruumis omak sui vähitellen pystyasennon ottaen selkärangan pois tunnemaailman pyörteiden vaakasuorasta asennosta, jonka kautta ryhmähenki vai kuttaa eläimeen vaakasuoran selkärangan kautta. Ego sai silloin mahdollisuuden toimia ja ilmaista itseään pystysuoran selkärangan kautta, muodostaa pystyn kurkunpään ja aivot ilmaisemaan itseään kiinteässä ruumiissa. Vaakasuora kurkunpää on joukkohengen vai kutuksen alainen. Vaikka jotkin eläimet, kuten kottarainen, korp pi, papukaija ym., niin kuin edellä jo mainittiin, kykenevät pystyn kurkunpäänsä avulla huudahtamaan sanoja, eivät ne kuitenkaan ymmärrä niiden merkitystä. Sanojen käyttäminen ajatusten ilmaisi joina on ihmisen korkein etuoikeus, ja sitä voi harjoittaa vain järkeä käyttävä, ajatteleva olento kuten ihminen. Jos opiskelija pitää tämän mielessään, hänen on helpompi seurata niitä askeleita, jotka johtavat tähän saavutukseen. 
 
-#### Maakauden Saturnuskierros 
+#### <h4 id="the-saturn-revolution-of-the-earth-period">Maakauden Saturnuskierros</h4>
 
 Jokaisen aikakauden Saturnuskierroksella muodostetaan kiinteä ruumis uudelleen. Tällä kertaa sille annettiin kyky rakentaa aivot ja tulla käyttövälineeksi älyn idulle, joka lisättiin siihen myöhemmin. Tämä lisäys päätti kiinteän ruumiin uudelleen muodostamisen ja antoi tälle käyttövälineelle mahdollisuuden saavuttaa korkein mah dollinen suorituskyky. 
 
@@ -1916,15 +1916,15 @@ Pääasiallisen osan tässä jälleenrakentamistyössä tekivät muodon herrat. 
 
 Maakausi on pääasiassa muodon aikakausi, ja tänä aikakautena muoto tai aineellinen kehitys saavuttaa korkeimman ja ilmeisimmän asteen. Tällä ajalla henki on avuttomampi ja sorretummassa tilassa ja muoto on voimakkain tekijä – siitä syystä muodon herroilla on nyt huomattavin asema. 
 
-#### Maakauden Aurinkokierros 
+#### <h4 id="the-sun-revolution-of-the-earth-period">Maakauden Aurinkokierros</h4>
 
 Tämän kierroksen aikana elollisruumis muodostettiin uudelleen so pivaksi ottamaan vastaan älyn itu. Elollisruumis muokattiin enem män kiinteän ruumiin kaltaiseksi, niin että se voisi paremmin toimia tiheimpänä käyttövälineenä Jupiterkaudella, jolloin kiinteästä ruu miista on tullut henkinen. 
 
 Tässä uudelleen rakentamisessa muodon herrat auttoivat en keleitä, jotka olivat Kuukauden ihmiskunta. Tällä hetkellä elollis ruumis on rakenteeltaan kiinteän ruumiin jälkeen käyttökelpoisin käyttöväline. Jotkut tätä asiaa käsittelevät kirjailijat kutsuvat edellä mainittua vain yhdyssiteeksi ja päättelevät sen olevan vain kiinteän ruumiin muotti eikä erillinen käyttöväline. 
 
-Emme halua kritisoida tätä kantaa ja myönnämme, että tämä kä sitys on oikeutettu siinä mielessä, ettei ihminen nykyisellä kehitysas teellaan tavallisesti voi käyttää elollisruumistaan varsinaisena käyttö välineenä – koska se pysyy aina kiinteän ruumiin yhteydessä. Jos se erotettaisiin siitä in toto13, siitä aiheutuisi kiinteän ruumiin kuolema. Oli kuitenkin aika, jolloin se ei ollut niin tiukasti yhdistynyt kiinte ään ruumiiseen, kuten tulemme näkemään. 
+Emme halua kritisoida tätä kantaa ja myönnämme, että tämä kä sitys on oikeutettu siinä mielessä, ettei ihminen nykyisellä kehitysas teellaan tavallisesti voi käyttää elollisruumistaan varsinaisena käyttö välineenä – koska se pysyy aina kiinteän ruumiin yhteydessä. Jos se erotettaisiin siitä in toto (13), siitä aiheutuisi kiinteän ruumiin kuolema. Oli kuitenkin aika, jolloin se ei ollut niin tiukasti yhdistynyt kiinte ään ruumiiseen, kuten tulemme näkemään. 
 
-13 Kokonaisuudessaan, täysin. – Suom. huom. 
+() - (13) Kokonaisuudessaan, täysin. – Suom. huom. 
 
 Maapallon historian aikoina, joita olemme nimittäneet lemu rialaiseksi ja atlantislaiseksi ajanjaksoiksi, ihminen oli vaistonvarai nen selvänäkijä, ja tämä johtui kiinteän ruumiin ja elollisruumiin löysästä yhteydestä. (Sen ajan vihkijät auttoivat pyrkijää irrottamaan yhteyttä yhä enemmän samanlaiseksi kuin tahdonalaisella selvä näkijällä.) 
 
@@ -1932,7 +1932,7 @@ Sen jälkeen suurimmalla osalla ihmiskuntaa elollisruumis on pu noutunut paljon 
 
 Jupiterkaudella ihminen toimii elollisruumiissaan samalla ta valla kuin nyt kiinteässä ruumiissa. Koska kehitys elämässä ei kos kaan tapahdu äkillisesti, näiden kahden käyttövälineen erottuminen on jo alkanut. Elollisruumis tulee saavuttamaan paljon suuremman suorituskyvyn kuin nykyinen kiinteä ruumis, ja koska se on paljon taipuisampi käyttöväline, henki voi tulevaisuudessa käyttää sitä ta valla, joka nykyiselle kiinteälle ruumiille olisi mahdotonta. 
 
-#### Maakauden Kuukierros 
+#### <h4 id="the-moon-revolution-of-the-earth-period">Maakauden Kuukierros</h4>
 
 Tänä aikana Kuukauden toiminta kerrattiin olosuhteissa, jotka muistuttivat Kuukauden D-pallolla olleita olosuhteita (mutta edis tyneemmällä tasolla). Ilma oli samanlaista tulisumua, samanlainen tulikeskus. Samoin pallo jakaantui kahteen osaan, jotta kehitty neemmät olennot voisivat edistyä oikealla tavalla ja nopeudella, joka ihmiskuntaa vastaaville olennoille ei vielä ollut mahdollista. 
 
@@ -1946,7 +1946,7 @@ Tunneruumis muodostettiin uudelleen niin, että älyn itu voisi lä päistä sen
 
 Kuten aikaisemmin on selitetty, tunneruumis on järjestäytymä tön ja muodoltaan munan kaltainen. Kiinteä ruumis on sen keskellä tummana pisteenä, kuten keltuainen on munanvalkuaisen ympä röimänä. Tässä munanmuodossa on joukko aistikeskuksia, jotka ovat siihen muodostuneet Maakauden kuluessa. Tavallisessa ihmi sessä nämä keskukset esiintyvät vain heikkoina pyörteinä, eivätkä ole vielä heränneet toimintaan. Tästä syystä tunneruumiista ei ole minkäänlaista hyötyä erillisenä tietoisena käyttövälineenä, mutta kun nämä aistikeskukset herätetään toimintaan, ne näyttävät voi makkailta pyörteiltä. 
 
-#### Kierrosten väliset lepoajat 
+#### <h4 id="rest-periods-between-revolutions">Kierrosten väliset lepoajat</h4>
 
 Olemme tähän asti huomioineet ainoastaan aikakausien väliset kos miset yöt. Huomasimme, että Saturnus- ja Aurinkokausien välillä oli levon ja sulattamisen aika ja että toinen kosminen yö vallitsi Aurinko ja Kuukauden välillä jne. Mutta näiden lisäksi oli samanlaisia lepo aikoja kierrosten välillä. 
 
@@ -1960,25 +1960,25 @@ Päästyään vapaaksi kehittyvien henkien kiteyttävästä vaikutuk sesta ainee
 
 Täten Maakauden Kuukierroksen päätyttyä kaikki pallot ja kaikki niillä asuva elämä palasivat kaaokseen ilmestyäkseen uudelleen nel jännen kierroksen alkaessa. 
 
-#### Maakauden neljäs kierros 
+#### <h4 id="the-fourth-revolution-of-the-earth-period">Maakauden neljäs kierros</h4>
 
-Kehitysjärjestelmän äärettömän monimutkaisessa kokoonpanossa spiraalit kiertävät aina spiraalien sisässä ad infinitum14. Ei siis ole yllättävää huomata, että eri palloilla jokaisen kierroksen aikana ta pahtuu kertaus ja lepoajat toistuvat. Kun elonaalto saavutti uudel leen A-pallon tämän kierroksen aikana, se kertasi Saturnuskauden kehityksen. Lepoajan jälkeen, jolloin pallo ei kuitenkaan täydellisesti hävinnyt vaan muuttui, se ilmestyi B-pallolla, jolla Aurinkokauden työ kerrattiin. Lepoajan jälkeen kulki elonaalto edelleen C-pallolle, jossa Kuukauden työ kerrattiin. Lopulta elonaalto saapui D-pallolle, joka on meidän maamme, ja vasta täällä alkoi Maakauden varsinai nen työ. 
+Kehitysjärjestelmän äärettömän monimutkaisessa kokoonpanossa spiraalit kiertävät aina spiraalien sisässä ad infinitum (14). Ei siis ole yllättävää huomata, että eri palloilla jokaisen kierroksen aikana ta pahtuu kertaus ja lepoajat toistuvat. Kun elonaalto saavutti uudel leen A-pallon tämän kierroksen aikana, se kertasi Saturnuskauden kehityksen. Lepoajan jälkeen, jolloin pallo ei kuitenkaan täydellisesti hävinnyt vaan muuttui, se ilmestyi B-pallolla, jolla Aurinkokauden työ kerrattiin. Lepoajan jälkeen kulki elonaalto edelleen C-pallolle, jossa Kuukauden työ kerrattiin. Lopulta elonaalto saapui D-pallolle, joka on meidän maamme, ja vasta täällä alkoi Maakauden varsinai nen työ. 
 
-14 Ikuisesti, loputtomasti. – Suom. huom. 
+() - (14) Ikuisesti, loputtomasti. – Suom. huom. 
 
 Mutta silloinkin spiraali spiraalin sisässä esti Maakauden todel lisen työn alkamista heti C-pallolta saapumisen jälkeen. Älyn itu annettiin varsinaisesti vasta neljännen ajanjakson aikana, ja kolmen ensimmäisen ajanjakson aikana kerrattiin Aurinko-, Saturnus- ja Kuukausien työ, vaikkakin joka kerralla korkeammalla tasolla. 
 
-### XI LUKU: AURINKOJÄRJESTELMÄMME SYNTY JA KEHITYS 
+### <h3 id="chapter-11">XI Luku: Meidän aurinkojärjestelmämme synty ja kehitys</h3>
 
-#### Kaaos15 
+#### <h4 id="chaos">Kaaos (15)</h4>
 
-15 Kaaos-sanalla on myös merkitys ”maailmankaikkeuden järjestymätön alku tila”. – Suom. huom. 
+() - (15) Kaaos-sanalla on myös merkitys ”maailmankaikkeuden järjestymätön alku tila”. – Suom. huom. 
 
 Edellisillä sivuilla ei ole mainittu mitään meidän aurinkojärjestelmäs tämme eikä niistä planeetoista, jotka sen muodostavat, siitä syys tä että nykyinen järjestely tapahtui vasta Maakauden aikana. Maa kausi on monipuolisuuden huippu, ja vaikka tähän asti olemmekin puhuneet vain yhdenlajisista neitseellisistä hengistä – niistä, jotka täsmällisimmässä ja rajoitetuimmassa merkityksessä liittyvät maan kehitykseen – itse asiassa on olemassa seitsemän eri ”sädettä” eli ryh mää. Jokainen näistä seuraa eri kehitysjärjestelmää, mutta ne kuulu vat kuitenkin alkuperäiseen neitseellisten henkien luokkaan, johon ihmiskunta kuuluu. 
 
-Edellisten aikakausien aikana kaikki eri alaluokat eli säteet saivat sopivan ympäristön kehitykselleen samalla planeetalla. Kuitenkin Maakauden aikana olosuhteet muuttuivat, ja jotta kullekin luokalle voitiin tarjota niiden kehitykselle tarvittavat lämpötila ja värähtely aste, ne oli pakko sijoittaa eri planeetoille eri etäisyyksien päähän auringosta – elämän keskuslähteestä. Tämä on raison d’étre16 meidän aurinkokunnallemme ja kaikille muille aurinkokunnille maailman kaikkeudessa. 
+Edellisten aikakausien aikana kaikki eri alaluokat eli säteet saivat sopivan ympäristön kehitykselleen samalla planeetalla. Kuitenkin Maakauden aikana olosuhteet muuttuivat, ja jotta kullekin luokalle voitiin tarjota niiden kehitykselle tarvittavat lämpötila ja värähtely aste, ne oli pakko sijoittaa eri planeetoille eri etäisyyksien päähän auringosta – elämän keskuslähteestä. Tämä on raison d’étre (16) meidän aurinkokunnallemme ja kaikille muille aurinkokunnille maailman kaikkeudessa. 
 
-16 Olemassaolon oikeutus. – Suom. huom. 
+() - (16) Olemassaolon oikeutus. – Suom. huom. 
 
 Ennen kuin jatkamme kuvausta ihmiskuntamme kehityksestä maan päällä sen erottua keskusauringosta, on välttämätöntä oikean järjestyksen ylläpitämiseksi selittää se erottelu, jonka mukaan järjes telmämme planeetat hajaantuivat avaruuteen. 
 
@@ -2006,12 +2006,14 @@ Kaaos ei ole tila, joka on ennen ollut olemassa ja on nyt täydelli sesti kadonn
 
 On selvää, että ”mitä useammin kuolemme, sitä paremmin eläm me”. Vihitty runoilija Goethe sanoo: 
 
-    Hän, joka ei tunne tätä –    
-    Aina kuolla ja syntyä uudelleen –    
-    Tulee olemaan murheellinen vieras    
-    Tämän synkän maan päällä.17    
+```
+Hän, joka ei tunne tätä –    
+Aina kuolla ja syntyä uudelleen –    
+Tulee olemaan murheellinen vieras    
+Tämän synkän maan päällä. (17)    
+```
 
-17 Ote runosta ”Siunattu kaipaus” [Selige Sehnsucht]. – Suom. huom. 
+() - (17) Ote runosta ”Siunattu kaipaus” [Selige Sehnsucht]. – Suom. huom. 
 
 ja Paavali sanoo: ”Minä kuolen päivittäin.” 
 
@@ -2019,9 +2021,9 @@ Sen tähden salatieteen oppilaan on tarpeellista ymmärtää, että myös aktiiv
 
 Olemme nähneet, minkä hyödyn ihmisen henki saa kuoleman ja uuden syntymän välisestä ajanjaksosta. Muoto on yhä olemassa, vaikka paljon hienommassa muodossa kuin kiinteä ruumis, mutta kosmisen yön aikana sekä aikakausien ja kierrosten välisinä lepo aikoina elämä on täysin vapaa muodosta, ja siksi menneiden koke musten hyödylliset tulokset voidaan sulattaa paljon paremmin. 
 
-On olemassa sana, jolla alun perin pyrittiin ilmaisemaan olotilaa ilmennyksien välisinä aikoina. Tätä sanaa on kuitenkin käytetty ai neellisessa tarkoituksessa niin paljon, että se on kadottanut alkupe räisen merkityksensä. Tämä sana on kaasu18. 
+On olemassa sana, jolla alun perin pyrittiin ilmaisemaan olotilaa ilmennyksien välisinä aikoina. Tätä sanaa on kuitenkin käytetty ai neellisessa tarkoituksessa niin paljon, että se on kadottanut alkupe räisen merkityksensä. Tämä sana on kaasu (18). 
 
-18 Englanniksi ”gas”. – Suom. huom. 
+() - (18) Englanniksi ”gas”. – Suom. huom. 
 
 Voidaan ajatella, että tämä sana on hyvin vanha ja että sitä on melkein aina käytetty tarkoittamaan ainetta, joka on kevyempää kuin neste, mutta asia ei ole näin. Sanaa käytettiin ensimmäisen ker ran ”Physica”-nimisessä teoksessa, joka ilmestyi vuonna 1633 ja jon ka kirjoittaja oli ruusuristiläinen Helmont. 
 
@@ -2035,19 +2037,15 @@ Meidän tulee oppia ajattelemaan kaaosta Jumalan henkenä, joka läpäisee jokai
 
 Se ilmenee kaikissa luontokunnissa. Se on ihmisen, eläimen ja kasvin edistyvän hengen ilmaus. Sen tähden kaaos on pyhä nimi, joka ilmaisee syyn kaikkeen, mitä näemme luonnossa ja herättää hartauden tunteen jokaisessa harjaantuneessa, koetellussa ja todel lisessa salatieteilijässä. Hän pitää näkyvää aistimaailmaa kaaoksen salattujen mahdollisuuksien ilmennyksenä. 
 
-#### Planeettojen synty 
+#### <h4 id="the-birth-of-the-planets">Planeettojen synty</h4>
 
 Voidakseen ilmaista itseään fyysisessä maailmassa ihmisen täytyi ke hittää sopiva kiinteä ruumis. Tällaisessa maailmassa hänellä täytyy olla ruumis, jossa on liikkumista mahdollistamassa jäsenet, elimet ja lihakset sekä aivot, jotka ohjaavat ja hallitsevat hänen liikkeitään. Jos olosuhteet olisivat olleet erilaiset, ruumis olisi muodostunut niiden mukaisesti. 
 
 On välttämätöntä, että kaikilla kehitystasoilla olevilla olennoil la on käyttövälineet kaikissa niissä maailmoissa, missä ne tahtovat ilmentää itseään. Jopa valtaistuimen edessä olevalla seitsemällä hen gellä täytyy olla vaadittavat käyttövälineet, ja tietenkin nämä omi naisuudet ovat erilaiset näillä jokaisella. Yhdessä ne muodostavat Ju malan, kolmiyhteisen jumaluuden, ja Hän ilmenee eri tavalla kunkin kautta. 
 
-DIAGRAM OCTAVES!!!!!!!! Värähtelytaulukko, tieteen tutkimia ja tunnustamia tuloksia. 
-
 Ei ole mitään ristiriitaa siinä, että Jumala kuvataan useampana olentona. Emme loukkaa valon ”ykseyttä”, vaikka erotamme siinä kolme perusväriä, joihin se jakaantuu. Auringon valkoinen valo sisältää kaikki spektrin seitsemän väriä. Salatieteilijä näkee jopa kaksitoista väriä. Näkyvän spektrin punaisen, oranssin, keltaisen ja vihreän jne. lisäksi hän näkee punaisen ja violetin välillä viisi väriä samaan suuntaan kehän ympärillä. Näistä väreistä neljää on melkein mahdoton kuvata, mutta viides – keskimmäinen niistä – muistut taa hiukan vastapuhjenneen persikankukan väriä. Tämä on elollis ruumiin väri. Kun harjaantunut selvänäkijä kuvaa sitä ”siniharmaa na” tai ”punaharmaana” jne., hän pyrkii kuvaamaan väriä, jota ei ole fyysisessä maailmassa, ja sen tähden hänen on pakko käyttää kieles sämme sitä lähinnä kuvaavaa sanaa. 
 
 Ehkäpä värit auttavat meitä ymmärtämään paremmin kuin mi kään muu Jumalan ja valtaistuimen edessä olevan seitsemän hengen ykseyden. Sen tähden tutkikaamme kaaviota 11. 
-
-DIAGRAM11!!!!!!!!!!!!!! Kaavio 11 Jumalan ja ihmisen 1, 3, 7 ja 10 olemuspuolta. 
 
 Näemme siinä valkoisen kolmion mustaa taustaa vasten. Valkoi nen väri on yhdistelmä ja sisältää itsessään kaikki muut värit, samoin kuin Jumala sisältää itsessään kaiken aurinkokunnassamme. 
 
@@ -2055,9 +2053,9 @@ Valkoisen kolmion sisällä on sininen, punainen ja keltainen ym pyrä. Kaikki m
 
 Näiden kolmen värin sekoittuessa keskenään, kuten kaavio 11 osoittaa, ilmenee neljä lisäväriä, kolme toisen luokan väriä – joista kukin muodostuu kahden perusvärin sekoituksesta – ja neljäs (in digo), joka sisältää kaikki asteikon värit ja siis spektrin kaikki seit semän väriä. Nämä värit edustavat seitsemää valtaistuimen edessä olevaa henkeä. Värit ovat erilaisia samoin kuin nuo seitsemän hen keäkin, joilla jokaisella on oma tehtävänsä Jumalan valtakunnassa – aurinkojärjestelmässämme. 
 
-Seitsemän planeettaa, jotka kiertävät aurinkoa, ovat seitsemän planeettahengen kiinteät ruumiit. Ne ovat Uranus sekä sen yksi kuu, Saturnus ja sen kahdeksan kuuta, Jupiter ja sen neljä kuuta, Mars ja sen kaksi kuuta, Maa ja sen kuu sekä Venus ja Merkurius.19 
+Seitsemän planeettaa, jotka kiertävät aurinkoa, ovat seitsemän planeettahengen kiinteät ruumiit. Ne ovat Uranus sekä sen yksi kuu, Saturnus ja sen kahdeksan kuuta, Jupiter ja sen neljä kuuta, Mars ja sen kaksi kuuta, Maa ja sen kuu sekä Venus ja Merkurius.* 
 
-19 Tämän kirjan kirjoittamisen jälkeen on todettu Uranuksella olevan 27, Sa turnuksella 62 ja Jupiterilla 67 kuuta. [2015] – Suom. huom. 
+*Tämän kirjan kirjoittamisen jälkeen on todettu Uranuksella olevan 27, Sa turnuksella 62 ja Jupiterilla 67 kuuta. [2015] – Suom. huom. 
 
 Kiinteät ruumiit soveltuvat aina siihen tarkoitukseen, johon ne on valmistettu. Seitsemän planeettahengen kiinteät ruumiit ovat pallonmuotoisia, koska tämä muoto parhaiten soveltuu nopeuteen, jolla ne liikkuvat avaruudessa. Esimerkiksi Maa kulkee radallaan noin yli 100 000 kilometriä tunnissa. 
 
@@ -2066,8 +2064,6 @@ Ihmisen ruumis oli ennen muodoltaan erilainen kuin nykyisin ja erilainen kuin mi
 Ihmisen kiinteä ruumis ja hänen elollisruumiinsa ovat nyt suo ristuneet, mutta korkeimmilla käyttövälineillä on vieläkin munan muoto. Koordinoivat ja hallitsevat aivot sijaitsevat kiinteän ruumiin toisessa päässä. Tämä on hyvin epäedullinen asema tällaisen elimen paikaksi. Kestää kovin kauan, ennen kuin impulssit kulkevat toises ta päästä toiseen – aivoista jalkoihin tai tieto jalkoja kohdannees ta vahingosta päähän. Tiede on osoittanut, että esimerkiksi palo vammojen sattuessa paljon arvokasta aikaa menee hukkaan ja iho ehtii nousta rakoille, ennen kuin sanoma sattuneesta vahingosta on kulkenut aivoihin ja takaisin. 
 
 Tämä tehottomuus korjautuisi, jos aivot olisivat keskellä ruumis ta. Impulssit ja vastaukset välittyisivät paljon nopeammin. Pallon muotoisissa planeetoissa planeettahenki johtaa keskuksesta käyttö välineidensä liikkeitä. Tulevaisuudessa ihmisruumis tulee taipumaan taaksepäin, kuten kaavio 12 osoittaa. Se taipuu kehän muotoon ja voi sen tähden kohdistaa voimansa ulospäin, koska kehämuoto sallii joustavimman liikkumisen kaikkiin suuntiin ja tekee mahdolliseksi myös samanaikaiset liikkeet. 
-
-DIAGRAM12!!!!!!!!!!!!!! Kaavio 12 Ihmisruumiin muoto. 
 
 Ruusuristiläinen maailmankatsomus opettaa, että planeetat jatka vat kehitystään edelleen. 
 
@@ -2085,9 +2081,9 @@ Sen jälkeen eristettiin Saturnus. Siinä toimii elämänmuoto, jonka kehitysast
 
 Jupiter eristettiin pian tähtisumun syttymisen jälkeen. Jupiterin lämpö ei ole yhtä suuri kuin auringon, Venuksen tai Merkuriuksen, mutta sen suunnaton koko pidättää lämpöä, ja sen tähden se sovel tuu hyvin korkeiden olentojen kehityskentäksi. Se vastaa sitä tilaa, jonka maa saavuttaa Jupiterkaudella. 
 
-Mars on mysteeri, ja siitä voidaan antaa tietoa vain rajoitetusti. Voimme kuitenkin sanoa, että siinä kehittyvä elämä on hyvin taan tuvaa ja että sen niin sanotut ”kanavat” eivät ole planeetan pinnalla olevia leikkauksia. Ne ovat sellaisia pyörteitä, joita Atlantiksen aika na levisi yli meidän planeettamme ja jonka jäänteitä ovat edelleen aurora borealis ja aurora australis20. Marsin ”kanavien” muutokset, joita tähtitieteilijät ovat havainneet, aiheutuvat tästä. Jos ne olisivat tavallisia kanavia, eivät ne voisi liikkua, mutta Marsin navoista lähte vät pyörteet voivat liikkua. 
+Mars on mysteeri, ja siitä voidaan antaa tietoa vain rajoitetusti. Voimme kuitenkin sanoa, että siinä kehittyvä elämä on hyvin taan tuvaa ja että sen niin sanotut ”kanavat” eivät ole planeetan pinnalla olevia leikkauksia. Ne ovat sellaisia pyörteitä, joita Atlantiksen aika na levisi yli meidän planeettamme ja jonka jäänteitä ovat edelleen aurora borealis ja aurora australis (20). Marsin ”kanavien” muutokset, joita tähtitieteilijät ovat havainneet, aiheutuvat tästä. Jos ne olisivat tavallisia kanavia, eivät ne voisi liikkua, mutta Marsin navoista lähte vät pyörteet voivat liikkua. 
 
-20 Pohjoisen ja eteläisen napapiirin lähistöllä tavattavat revontulet. – Suom. huom. 
+() - (20) Pohjoisen ja eteläisen napapiirin lähistöllä tavattavat revontulet. – Suom. huom. 
 
 Seuraavaksi erotettiin Auringosta Maa ja sen kuu, sen jälkeen Venus ja Merkurius. Myöhemmin käsittelemme näitä sekä Mars planeettaa puhuessamme ihmisen kehityksestä maan päällä, sen täh den emme tällä kertaa tarkastele niitä sen enempää. 
 
@@ -2097,9 +2093,9 @@ Neptunus ja sen kuut eivät varsinaisesti kuulu meidän aurinko järjestelmääm
 
 Kun ne jälkeenjääneet, jotka ovat asuttaneet kuun, saavat takaisin asemansa ja palaavat emäplaneetalle tai kun jatkuva taantuminen ai heuttaa niiden käyttövälineiden täydellisen hajoamisen, niin alkaa hylätty planeettakin hajota. Henkinen sysäys, joka saattoi sen kier tämään tiettyä rataa aikakausien ajoiksi, voi kestää vielä miljoonia vuosia sen jälkeen, kun se on jäänyt tyhjäksi ja fyysisesti se näyt tää edelleen olevan sen planeetan kuu, jota se kiertää. Ajan kuluessa kuitenkin vetovoima, joka lähtee emäplaneetasta, heikkenee, ja kuun rata laajenee, kunnes se saavuttaa aurinkokuntamme äärirajat. Silloin se poistetaan planeettojen väliseen avaruuteen ja se sulautuu kaaok seen. Menetelmä, joka poistaa kuolleet, hiiltyneen kaltaiset maail mat, muistuttaa tapaa, joka työntää ihmisruumiiseen uppoutuneet kovat ja vieraat kappaleet ihon pintaan. Asteroidit kuvaavat hyvin tätä asiaa. Ne ovat jäänteitä kuista, jotka kerran kiersivät Venusta ja Merkuriusta. Olennot, jotka kerran asuivat niillä, tunnetaan esotee risessa kirjallisuudessa nimillä ”Venuksen herrat” ja ”Merkuriuk sen herrat”. Ne paransivat huomattavasti menettämäänsä kehitys tilaa työskennellessään ihmiskunnan hyväksi, kuten myöhemmin osoitetaan. Ne ovat nyt turvassa emäplaneetallaan, mutta kuut, joilla ne asuivat, ovat osaksi hajonneet ja ovat jo kaukana maamme radan ulkopuolella. Aurinkojärjestelmässämme on muitakin ”näennäisiä” kuita, mutta ruusuristiläinen maailmankatsomus ei käsittele niitä, koska ne ovat kehityksen piirin ulkopuolella. 
 
-### XII LUKU: MAANPÄÄLLINEN EVOLUUTIO 
+### <h3 id="chapter-12">XII Luku: Maanpäällinen evoluutio</h3>
 
-#### Polaarinen ajanjakso 
+#### <h4 id="the-polarian-epoch">Polaarinen ajanjakso</h4>
 
 Kun aine, joka muodostaa maapallomme, oli osa Aurinkoa, se luon nollisesti oli tulisessa tilassa. Mutta koska tuli ei polta henkeä, alkoi ihmiskuntamme kehitys välittömästi ja rajoittui pääasiassa Aurin gon napaseuduille. 
 
@@ -2113,7 +2109,7 @@ Tämä elin on nyt surkastunut niin sanotuksi käpyrauhaseksi. Jos kus sitä kut
 
 Tässä aikaisessa kehitysvaiheessa, josta nyt puhumme, tapahtui jonkinlaista lisääntymistä. Nämä mahdottoman suuret pussimaiset olennot jakaantuivat kahtia samoin kuin solut nykyisin jakautuvat. Mutta siten syntyneet osat eivät kasvaneet, vaan säilyttivät jakaantu neen kokonsa, joka oli puolet alkuperäisestä. 
 
-#### Hyperborealainen ajanjakso 
+#### <h4 id="the-hyperborean-epoch">Hyperborealainen ajanjakso</h4>
 
 Eri paikoissa tässä tulisessa pallossa alkoi aikojen kuluessa muodos tua kovapintaisia saaria. 
 
@@ -2131,7 +2127,7 @@ Aikaisemmin on mainittu, että eri aikakausien jälkeenjääneet sai vat myöhem
 
 Lemurialaisen ajanjakson aikana nämä ”epäonnistuneet” olennot – ne olivat epäonnistuneita, eivätkä ainoastaan jälkeenjääneitä – olivat kiteyttäneet asuttamansa osan maapalloa siinä määrin, että siitä muodostui valtava tuhka tai kuonamainen osa muuten pehmeään ja tuliperäiseen maahan. Ne tulivat haitaksi ja esteeksi, ja sen tähden ne poistettiin samoin kuin se osa Maata, jonka ne olivat kiteyttäneet, ja heitettiin peruuttamattomasti ulos avaruuteen. Näin syntyi Kuu. 
 
-#### Kuu, kahdeksas piiri 
+#### <h4 id="the-moon-the-eighth-sphere">Kuu, kahdeksas piiri</h4>
 
 Seitsemän palloa, A-pallosta G-palloon, muodostavat kehityskent tämme. Kuu on hajoamisen alue. 
 
@@ -2139,7 +2135,7 @@ Jos Maa ei olisi irronnut alkuperäisestä pallosta, joka nyt on Au rinkomme, ni
 
 Aurinko toimii elollisruumiissa ja on se voima, joka saa aikaan elämän taistellen kuolemaa aiheuttavaa kuuvoimaa vastaan. 
 
-#### Lemurialainen ajanjakso 
+#### <h4 id="the-lemurian-epoch">Lemurialainen ajanjakso</h4>
 
 Tämän ajanjakson aikana ilmestyivät arkkienkelit (Aurinkokauden ihmiskunta) sekä järjen herrat (Saturnuskauden ihmiskunta). Näi tä luovia hierarkioita auttoivat muodon herrat, joiden huostaan oli annettu Maakauden kehitys. Ne auttoivat ihmistä tunneruumiin muodostamisessa, ja järjen herrat antoivat järjen idun suurimmalle osalle niitä uranuurtajia, jotka muodostivat kaaviossa 10 mainitun 1. luokan. 
 
@@ -2149,7 +2145,7 @@ Järjen herrat ottivat huolehtiakseen tunneruumiin korkeamman osan ja älyn idun
 
 Olemme kiitollisuuden velassa järjen herroille erillisestä persoo nallisuudestamme ja kaikista kokemusten ja kasvun mahdollisuuk sista, joita se tarjoaa. Tämä vaihe osoittaa yksilön synnyn. 
 
-#### Yksilön synty 
+#### <h4 id="birth-of-the-individual">Yksilön synty</h4>
 
 Kaavio 1 tekee selväksi, että persoonallisuus on hengen heijastunut kuva ja että äly on peili eli polttopiste. 
 
@@ -2159,7 +2155,7 @@ Involuution aikana henki laskeutui alas korkeammista maailmois ta, ja saman ajan
 
 Emme saa kuitenkaan luulla, että ihminen tämän seurauksena het kessä kohosi nykyiselle kehitysasteelleen ja tuli itsetietoiseksi, ajattele vaksi olennoksi, joka hän nyt on. Ennen kuin tämä vaihe saavutettiin, oli kuljettava pitkä ja vaivalloinen matka, koska elimet olivat vielä ai van alkeellisessa tilassa, eikä ilmaisun välikappaleena ollut aivoja. Sen tähden tajunta oli erittäin hämärä. Lyhyesti sanoen sen ajan ihminen oli kaukana nykyisten eläinten älykkyydestä. Ensimmäinen askel edis tymisen suuntaan fyysisessä maailmassa oli aivojen muodostaminen järjen välikappaleeksi. Tämä saavutettiin erottamalla ihmiskunta kah teen sukupuoleen. 
 
-#### Sukupuolten erottaminen 
+#### <h4 id="separation-of-the-sexes">Sukupuolten erottaminen</h4>
 
 Päinvastoin kuin yleensä luullaan ego on kaksineuvoinen. Jos egolla ei olisi sukupuolta, silloin ruumiskin olisi sukupuoleton, sillä ruumis on vain sisässä asuvan hengen ulkoinen kuva. 
 
@@ -2169,7 +2165,7 @@ Kun se aine, josta Maa ja Kuu myöhemmin muodostettiin, oli osa Aurinkoa, kehitt
 
 Kun Maa erosi Auringosta ja Kuu poistettiin siitä myöhemmin, voimat näistä kahdesta valonlähteestä eivät enää vaikuttaneet samal la tavalla kaikissa kuten aikaisemmin. Toiset ruumiit tulivat enem män vastaanottavaisiksi Auringon voimille ja toiset Kuun voimille. 
 
-#### Marsin vaikutus 
+#### <h4 id="influence-of-mars">Marsin vaikutus</h4>
 
 Sen Maakauden aikana, joka kului ennen sukupuolten erottamista – kolmen ja puolen kierroksen aikana, joka kului Marsin irrottami sen ja lemurialaisen ajanjakson alkamisen välillä –, Mars kiersi toista rataa kuin nykyään. Sen aura (se osa hienompia käyttövälineitä, joka ulottuu kiinteän planeetan ulkopuolelle) läpäisi keskusplaneetan ja muodosti magneettiset navat siinä olevaan rautaan. 
 
@@ -2191,7 +2187,7 @@ Tämän muutoksen seurauksena ainoastaan osa voimasta, joka oli välttämätön 
 
 Täten kehittyvä olento saavutti tietoisuuden ulkopuolisesta maa ilmasta aivojen avulla ja sen kustannuksena menetti toisen puolen luovasta voimastaan. Ennen tätä aikaa hänellä itsellään olivat nämä molemmat voimat käytössä uuden olennon luomiseksi. Kuitenkin tämän muutoksen seurauksena hän on oppinut luomaan ja ilmai semaan ajatuksia. Ennen tätä hän kykeni luomaan ainoastaan fyy sisessä maailmassa, tämän jälkeen hän tuli kykeneväksi luomaan kolmessa maailmassa. 
 
-#### Rodut ja niiden johtajat 
+#### <h4 id="the-races-and-their-leaders">Rodut ja niiden johtajat</h4>
 
 Ennen kuin ryhdymme tarkemmin tutkimaan lemurialaisten kehi tystä, on hyvä luoda yleissilmäys rotuihin ja niiden johtajiin. 
 
@@ -2217,7 +2213,7 @@ Kun ihmiskunta oli näiden olentojen ohjauksessa saavuttanut tietyn kehitysastee
 
 Tähän aikaan hallitsijalla oli pyhä velvollisuus opettaa ja auttaa kansaansa, tuoda helpotusta sekä edistää tasa-arvoa ja hyvinvoin tia. Jumalan valo antoi hänelle viisautta ja ohjasi hänen päätöksiään. Siksi näiden kuninkaiden hallitessa kaikki menestyi, ja se oli todella kulta-aikaa. Jos kuitenkin tarkemmin seuraamme ihmisen kehitystä, huomaamme, että nykyinen vaiheemme eli kehityskautemme, vaik ka sitä ei voi kutsua kulta-ajaksi muuten kuin ainoastaan materiaali sessa mielessä, on kuitenkin aivan välttämätön ihmisen nousemisek si asteelle, jolla hän pystyy hallitsemaan itseään. Itsensä hallitseminen on kaiken hallinnan tarkoitus ja päämäärä. Yhtäkään ihmistä, joka ei ole oppinut hallitsemaan itseään, ei voi turvallisesti jättää ilman ulko puolista hallintaa. Nykyisellä kehitysasteella tämä on vaikein tehtävä, mikä hänelle voidaan antaa. On helppo käskeä toisia, mutta on vai kea vaatia kuuliaisuutta itseltään. 
 
-#### Merkuriuksen vaikutus 
+#### <h4 id="influence-of-mercury">Merkuriuksen vaikutus</h4>
 
 Siihen aikaan Merkuriuksen herrojen ja siitä lähtien kaikkien mys teerien hierofanttien sekä nykyisten salatieteellisten koulujen tar koitus oli ja on opettaa pyrkijöille itsensä hallitsemisen taitoa. Siinä määrin ja ainoastaan sen verran kuin ihminen hallitsee itseään, hän on oikeutettu hallitsemaan muita. Jos kansojen nykyiset hallitsi jat kykenisivät hallitsemaan itseään, meillä olisi taas tuhatvuotinen valtakunta eli kulta-aika. 
 
@@ -2227,9 +2223,9 @@ Mars hallitsi ensimmäisen kolmen ja puolen kierroksen aikana ja polarisoi rauda
 
 Viimeisen kolmen ja puolen kierroksen aikana Merkurius toimii vapauttaakseen egon sen tiheimmästä käyttövälineestä vihkimysten avulla. 
 
-Huomautettakoon, että samoin kuin Mars erotti raudan, niin Merkurius on erottanut metallin, joka kantaa sen nimeä 21. Tämän metallin toiminta kuvaa hyvin selvästi pyrkimystä erottaa kiinteä ruumis hengestä – vapauttaa viimeksi mainittu edellisestä. 
+Huomautettakoon, että samoin kuin Mars erotti raudan, niin Merkurius on erottanut metallin, joka kantaa sen nimeä (21). Tämän metallin toiminta kuvaa hyvin selvästi pyrkimystä erottaa kiinteä ruumis hengestä – vapauttaa viimeksi mainittu edellisestä. 
 
-21 Merkurius englanniksi, ’mercury’ = elohopea. – Suom. huom. 
+() - (21) Merkurius englanniksi, ’mercury’ = elohopea. – Suom. huom. 
 
 Eräs kauhea tauti, kuppa, on esimerkki tilanteesta, jossa ego on erityisen kouristavalla tavalla kahlehdittu ja teljetty ruumiiseen. Oi kea määrä elohopeaa lievittää tilaa, vähentää ruumiin otetta egosta ja jättää sille saman suhteellisen vapauden ruumiissa, joka terveellä ihmisellä on. Toisaalta liiallinen määrä elohopeaa aiheuttaa halvaan tumisen riistäen siten ihmiseltä kiinteän ruumiin väärällä tavalla. 
 
@@ -2239,7 +2235,7 @@ Sen tähden salatiede puhuu Maakaudesta Marsin ja Merkuriuk sen aikakautena, nii
 
 Merkurius on nykyään syrjäinen ja vaikuttaa meihin hyvin vä hän, mutta se on heräämässä planeetallisesta levosta ja aikaa myö ten sen vaikutus tulee huomattavasti kasvamaan tärkeänä tekijänä kehityksessämme. Tulevat rodut saavat paljon apua Merkuriuksen olennoilta ja myöhempien ajanjaksojen ja kierrosten ihmiset vielä enemmän. 
 
-#### Lemurialainen rotu 
+#### <h4 id="the-lemurian-race">Lemurialainen rotu</h4>
 
 Olemme nyt siinä asemassa, että voimme paremmin ymmärtää sitä tietoa, jota seuraavassa käsitellään ihmisistä, jotka elivät lemurialai sen ajanjakson viimeisellä puoliskolla ja joita voimme kutsua lemu rialaiseksi roduksi. 
 
@@ -2287,9 +2283,11 @@ Jumalan suunnitelma ei kuitenkaan raukea tyhjiin. Jokainen teko on seuraamuksen 
 
 Sen tähden ”lankeemus” ja siitä johtuva tuska ja kärsimys on vain väliaikainen tila, jossa näemme kuin kuvastimesta arvoituksen ta voin, mutta pian tulemme näkemään Jumalan sisäisesti ja ulkoisesti kasvoista kasvoihin, niin kuin puhdassydämiset ovat aina nähneet. 
 
-#### Ihmisen lankeemus 
+#### <h4 id="the-fall-of-man">Ihmisen lankeemus</h4>
 
-Kabbalistisesti tämä on kuvattu kahden ihmisen kokemuksena, vaikka luonnollisesti he edustavat koko ihmiskuntaa. Avain tähän annetaan siinä lauseessa, jossa jumalien lähettiläs sanoo vaimolle: ”Kivulla sinä olet synnyttävä lapsesi.” Johtolanka löytyy myös siinä kuolemaa koskevassa lauseessa, joka lausuttiin samalla kertaa. Huomaamme, että ennen lankeemusta ihmisen tajunta ei ollut suuntautunut fyysiseen maailmaan. Hän oli tietämätön lisääntymi sestä, syntymästä ja kuolemasta. Enkelit, jotka huolehtivat elollis ruumiin toiminnasta (lisääntymisen välikappale), säätivät lisään tymistoiminnan johtaen sukupuolet toistensa yhteyteen tiettyinä vuodenaikoina. Käyttäen Auringon ja Kuun voimia he saivat aikaan suotuisimmat olosuhteet hedelmöittymiselle. Aluksi osapuolet olivat tietämättömiä tästä, mutta myöhemmin se aiheutti hetkellisen fyy sinen havainnon. Silloin raskauden aika ei tuottanut mitään vaivaa ja synnyttäminen oli tuskaton synnyttäjän ollessa syvässä unessa. Syntymä ja kuolema eivät aiheuttaneet tajunnan katkeamista, eivät kä lemurialaiset sen tähden niitä huomanneet. 
+Kabbalistisesti tämä on kuvattu kahden ihmisen kokemuksena, vaikka luonnollisesti he edustavat koko ihmiskuntaa. Avain tähän annetaan siinä lauseessa, jossa jumalien lähettiläs sanoo vaimolle: ”Kivulla sinä olet synnyttävä lapsesi.” Johtolanka löytyy myös siinä kuolemaa koskevassa lauseessa, joka lausuttiin samalla kertaa.
+
+Huomaamme, että ennen lankeemusta ihmisen tajunta ei ollut suuntautunut fyysiseen maailmaan. Hän oli tietämätön lisääntymi sestä, syntymästä ja kuolemasta. Enkelit, jotka huolehtivat elollis ruumiin toiminnasta (lisääntymisen välikappale), säätivät lisään tymistoiminnan johtaen sukupuolet toistensa yhteyteen tiettyinä vuodenaikoina. Käyttäen Auringon ja Kuun voimia he saivat aikaan suotuisimmat olosuhteet hedelmöittymiselle. Aluksi osapuolet olivat tietämättömiä tästä, mutta myöhemmin se aiheutti hetkellisen fyy sinen havainnon. Silloin raskauden aika ei tuottanut mitään vaivaa ja synnyttäminen oli tuskaton synnyttäjän ollessa syvässä unessa. Syntymä ja kuolema eivät aiheuttaneet tajunnan katkeamista, eivät kä lemurialaiset sen tähden niitä huomanneet. 
 
 Heidän tajuntansa oli sisäänpäin suuntautunut. He havaitsivat fyysiset asiat henkisellä tavalla, samoin kuin me havaitsemme ne unissamme – jolloin kaikki, mitä näemme, on sisäpuolellamme. 
 
@@ -2315,7 +2313,7 @@ Enkelit auttoivat ihmistä lisääntymisessä senkin jälkeen kun osa hänen sie
 
 Jos tämä järjestelmä olisi jatkunut, ihminen olisi jäänyt yksin kertaisesti Jumalan johtamaksi automaatiksi, eikä hän olisi koskaan tullut persoonallisuudeksi – yksilöksi. Se, että hänestä on tullut sel lainen, johtuu paljon parjatusta olentoluokasta, joka tunnetaan ni mellä Lucifer-henget. 
 
-#### Lucifer-henget 
+#### <h4 id="the-lucifer-spirits">Lucifer-henget</h4>
 
 Nämä henget ovat enkelien elämänaallosta jälkeenjääneiden jouk ko. Kuukaudella ne edistyivät huomattavasti edelle nykyisen ihmis kunnan kehittyneintä joukkoa. He eivät olleet kehittyneet niin pitkäl le kuin enkelit, jotka olivat Kuukauden ihmiskunnan uranuurtajia, mutta he olivat kuitenkin niin paljon edellä nykyistä ihmiskuntaa, että heidän oli mahdoton ottaa käyttöön kiinteää ruumista kuten me teimme. He eivät kuitenkaan voineet saada tietoa ilman sisäisen eli men, aivojen, käyttöä. Nämä henget olivat ihmisten, joilla on aivot, ja enkeleiden, jotka eivät niitä tarvinneet, välillä – lyhyesti sanoen he olivat puolijumalia. 
 
@@ -2349,7 +2347,7 @@ Valkoinen mies on itse sanonut omaa rotuaan vastaan, että siel lä missä valko
 
 Tiede puhuu ainoastaan kehityksestä. Se ei ota huomioon degene raatiota, rappeutumista, joka hitaasti mutta varmasti hävittää sellai set ruumiit, jotka ovat kiteytyneet kehitysmahdollisuuksien rajojen ulkopuolelle. 
 
-#### Atlantislainen ajanjakso 
+#### <h4 id="the-atlantean-epoch">Atlantislainen ajanjakso</h4>
 
 Tulivuorenpurkaukset hävittivät suurimman osan Lemurian mante reesta, ja sinne, missä nyt on Atlantin valtameri, kohosi Atlantiksen manner. 
 
@@ -2425,11 +2423,13 @@ Kaikkien edellisten aikakausien aikana – Saturnuskauden alusta Aurinko- ja Kuu
 
 Sen tähden heidän johtajansa kutsui kansan koolle ja piti sydäntä liikuttavan puheen, joka voitaisiin ilmaista seuraavaan tapaan: 
 
-    Tähän saakka te olette nähneet ne, jotka teitä ohjasivat, mutta on olemas     sa muita loistossaan eriasteisia johtajia ja korkeampia kuin ne, joita te     ette ole nähneet ja jotka ohjasivat jokaista horjuvaa askeltanne tajunnan     kehityksessä. 
+Tähän saakka te olette nähneet ne, jotka teitä ohjasivat, mutta on olemas sa muita loistossaan eriasteisia johtajia ja korkeampia kuin ne, joita te ette ole nähneet ja jotka ohjasivat jokaista horjuvaa askeltanne tajunnan kehityksessä. 
 
-    Yläpuolella kaikkia näitä loistavia olentoja on näkymätön Jumala, joka on     luonut taivaan ja maan, jossa te asutte. Hän on antanut valtanne alaiseksi     kaiken tämän maan, jotta tulisitte hedelmällisiksi ja täyttäisitte sen.     Ainoastaan tätä näkymätöntä Jumalaa tulee teidän palvella, ja teidän täy     tyy palvella Häntä hengessä ja totuudessa, ettekä saa tehdä Hänestä min     käänlaista epäjumalaa tai käyttää mitään kuvaamaan Häntä, koska Hän     on kaikkialla läsnä oleva ja kaiken arvostelun ja muodon yläpuolella. 
+Yläpuolella kaikkia näitä loistavia olentoja on näkymätön Jumala, joka on luonut taivaan ja maan, jossa te asutte. Hän on antanut valtanne alaiseksi kaiken tämän maan, jotta tulisitte hedelmällisiksi ja täyttäisitte sen. 
 
-    Jos seuraatte Hänen käskyjään, Hän siunaa teitä runsaasti kaikella hyväl     lä. Jos poikkeatte Hänen tieltään, siitä seuraa pahaa. Valinta on teidän.     Olette vapaita, mutta teidän täytyy itse kantaa tekojenne seuraukset. 
+Ainoastaan tätä näkymätöntä Jumalaa tulee teidän palvella, ja teidän täy tyy palvella Häntä hengessä ja totuudessa, ettekä saa tehdä Hänestä min käänlaista epäjumalaa tai käyttää mitään kuvaamaan Häntä, koska Hän on kaikkialla läsnä oleva ja kaiken arvostelun ja muodon yläpuolella. 
+
+Jos seuraatte Hänen käskyjään, Hän siunaa teitä runsaasti kaikella hyväl lä. Jos poikkeatte Hänen tieltään, siitä seuraa pahaa. Valinta on teidän. Olette vapaita, mutta teidän täytyy itse kantaa tekojenne seuraukset. 
 
 Ihmisen kehittyminen kulkee neljän suuren askeleen kautta. En sin häneen vaikutetaan ulkoapäin hänen tietämättään. Sitten hänet asetetaan näkyvien jumalallisten lähettien ja kuninkaiden vallan alaiseksi, joiden käskyjä hänen on toteltava. Seuraavaksi hänet ope tetaan kunnioittamaan ja palvomaan hallitsevaa Jumalaa, jota hän ei näe. Lopuksi hän oppii nousemaan käskyvallan yläpuolelle, hän tulee laiksi itselleen ja voittaa itsensä omasta vapaasta tahdostaan oppien elämään sopusoinnussa luonnonjärjestyksen kanssa, joka on Jumalan laki. 
 
@@ -2453,7 +2453,7 @@ Kun Atlantiksen paksu usva tiivistyi enemmän, lisääntynyt vesi määrä peitt
 
 Tulvat ajoivat suuret määrät ihmisiä pakoon tuomitulta mante reelta, ja he vaelsivat Euroopan läpi. Mongolit ovat näiden atlantis laisten pakolaisten jälkeläisiä. Mustat ja kiharatukkaiset villikansat ovat lemurialaisten viimeisiä jälkeläisiä. 
 
-#### Arjalainen ajanjakso 
+#### <h4 id="the-aryan-epoch">Arjalainen ajanjakso</h4>
 
 Keski-Aasia oli kehtona arjalaiselle rodulle, joka polveutui alkupe räisistä seemiläisistä. Sieltä ovat eri rodut lähtöisin. Tässä on tarpee tonta kuvata niitä, koska historiantutkijat ovat kyllin tarkoin kuvail leet niiden erikoispiirteet. 
 
@@ -2461,13 +2461,15 @@ Nykyisen (viidennen eli arjalaisen) ajanjakson aikana ihminen oppi käyttämää
 
 Pisimmälle kehittyneet saivat korkeampia vihkimyksiä arjalaisen ajanjakson alussa, jotta he voisivat astua Jumalan lähettiläiden ts. Ve nuksen herrojen paikalle. Tästä lähtien vihkimyksen saaneet ihmiset olivat ainoat välittäjät Jumalan ja ihmisten välillä. Mutta he eivät esiintyneet julkisesti, eivätkä tehneet mitään ihmeitä todistaakseen, että he olivat johtajia ja opettajia. Ihmiselle annettiin täysi vapaus etsiä heitä tai olla etsimättä, kuten hän halusi. 
 
-Nykyisen ajanjaksomme lopussa korkein vihitty tulee ilmes tymään julkisesti, kun riittävä määrä ihmiskunnasta sitä haluaa ja vapaaehtoisesti tahtoo alistua johtajan hallittavaksi. Täten he muo dostavat ytimen viimeiselle rodulle, joka syntyy kuudennen ajan jakson alussa. Tämän jälkeen rodut ja kansakunnat lakkaavat ole masta. Ihmiskunta tulee muodostamaan yhden henkisen veljeskun nan, kuten oli ennen lemurialaisen ajanjakson loppua. Seuraavaksi rodut, jotka ovat levinneet ympäri maailman viiden nellä ajanjaksolla ja sen jälkeen tähän päivään asti: 
+Nykyisen ajanjaksomme lopussa korkein vihitty tulee ilmes tymään julkisesti, kun riittävä määrä ihmiskunnasta sitä haluaa ja vapaaehtoisesti tahtoo alistua johtajan hallittavaksi. Täten he muo dostavat ytimen viimeiselle rodulle, joka syntyy kuudennen ajan jakson alussa. Tämän jälkeen rodut ja kansakunnat lakkaavat ole masta. Ihmiskunta tulee muodostamaan yhden henkisen veljeskun nan, kuten oli ennen lemurialaisen ajanjakson loppua. 
 
-1. Arjalainen, joka vaelsi Intiaan    
-2. Babylonialais-assyrialais-kaldealainen    
-3. Persialais-kreikkalais-latinalainen    
-4. Kelttiläinen    
-5. Teutoni-anglosaksinen (mihin me kuulumme)    
+Seuraavaksi rodut, jotka ovat levinneet ympäri maailman viiden nellä ajanjaksolla ja sen jälkeen tähän päivään asti: 
+
+1\. Arjalainen, joka vaelsi Intiaan    
+2\. Babylonialais-assyrialais-kaldealainen    
+3\. Persialais-kreikkalais-latinalainen    
+4\. Kelttiläinen    
+5\. Teutoni-anglosaksinen (mihin me kuulumme)    
 
 Näiden rotujen sekoituksesta, joka nykyään tapahtuu Yhdys valloissa, syntyy viimeisen rodun ”siemen” kuudennen ajanjakson alussa. 
 
@@ -2475,15 +2477,13 @@ Vielä kaksi rotua tulee kehittymään nykyisen ajanjaksomme ku luessa, yksi nii
 
 Slaavilaisista polveutuu arjalaisen ajanjakson seitsemäs ja viimei nen rotu. Kuudennen ajanjakson alussa Yhdysvaltojen kansasta tulee polveutumaan tämän kehitysjärjestelmän kaikista viimeisin rotu. 
 
-#### Kuusitoista häviön tietä 
+#### <h4 id="the-sixteen-paths-to-destruction">Kuusitoista häviön tietä</h4>
 
 Kuuttatoista rotua sanotaan ”kuudeksitoista häviön tieksi”, koska aina jokaisessa rodussa on vaara, että sielu voi takertua liiaksi ro tuun. Se saattaa kietoutua rotuominaisuuksiin niin, ettei se voi nous ta rotukäsitteen yläpuolelle, eikä siksi kykene edistymään. Se voi niin sanoaksemme kiteytyä rotuun ja olla sidottuna roturuumiisiin nii den alkaessa turmeltua, kuten juutalaisille on käynyt. 
 
 Aikakausien, kierrosten ja ajanjaksojen aikana, jolloin rotuja ei ole olemassa, aikaa on paljon enemmän, eikä kivettymisen vaara ole niin suuri eikä niin yleinen. Mutta nämä kuusitoista rotua syntyvät ja kuolevat niin suhteellisen lyhyessä ajassa, että on olemassa suuri jälkeenjäämisen vaara sellaiselle, joka liiaksi kiintyy olosuhteisiin. 
 
-Kristus on suuri yhdistävä johtaja tällä kuudennella ajanjaksolla. Hän julisti tämän lain lausuessaan nuo hyvin vähän ymmärretyt sanat: 
-
-”Jos joku ihminen tulee luokseni eikä vihaa isäänsä ja äitiään ja vaimoaan ja lapsiaan ja veljiään ja sisariaan ja omaa elämäänsä, ei hän voi tulla minun opetuslapsekseni.” 
+Kristus on suuri yhdistävä johtaja tällä kuudennella ajanjaksolla. Hän julisti tämän lain lausuessaan nuo hyvin vähän ymmärretyt sanat: ”Jos joku ihminen tulee luokseni eikä vihaa isäänsä ja äitiään ja vaimoaan ja lapsiaan ja veljiään ja sisariaan ja omaa elämäänsä, ei hän voi tulla minun opetuslapsekseni.” 
 
 ”Ja joka ei ota ristiänsä ja seuraa minua, hän ei voi tulla opetus lapsekseni.” 
 
@@ -2491,7 +2491,7 @@ Kristus on suuri yhdistävä johtaja tällä kuudennella ajanjaksolla. Hän juli
 
 Ei niin, että meidän tulisi jättää perhe tai aliarvioida perhe siteitä, mutta meidän tulee nousta niiden yläpuolelle. Isä ja äiti ovat ”ruumiita”. Kaikki ihmissuhteet ovat osa rotua – joka kuuluu muo toon. Sielujen täytyy ymmärtää, että he eivät ole ruumiita eivätkä rotuja, vaan egoja pyrkimässä täydellisyyteen. Jos ihminen unohtaa tämän ja samaistaa itsensä rotuun – takertuen siihen fanaattisel la isänmaanrakkaudella –, niin hän mahdollisesti kietoutuu siihen ja uppoaa sen mukana, kun hänen vertaisensa ovat jo saapuneet korkeammille alueille saavutusten poluilla. 
 
-### XIII LUKU: TAKAISIN RAAMATTUUN 
+### <h3 id="chapter-13">XIII Luku: Takaisin Raamattuun</h3>
 
 Nykyisin into tehdä lähetystyötä on kova. Länsimaiset kirkot lähettä vät lähetyssaarnaajia ympäri maailmaa käännyttämään kaikkia kan soja omaan uskoonsa, eivätkä he ole ainoita tässä käännytystyössä. Itä on aloittanut voimakkaan hyökkäyksen länteen, ja monet kris tityt, jotka ovat tulleet tyytymättömiksi papiston opettamiin uskon kappaleisiin, ovat järkensä tyydyttämiseksi olleet pakotettuja etsi mään totuutta, joka selittäisi tyydyttävästi elämän kysymykset. He ovat perehtyneet Idän opetuksiin ja monessa tapauksessa ottaneet vastaan buddhalaisuuden, hindulaisuuden jne. 
 
@@ -2521,7 +2521,9 @@ Viimeisenä yrityksenä saada heidät irrottautumaan rotukahleis taan huomaamme 
 
 Kristuksen hylkääminen oli juutalaisten suurin todistus heidän rotuorjuudestaan. Tämän jälkeen kaikki yritykset pelastaa heidät kokonaisuutena lähettämällä heille erityisiä profeettoja ja opetta jia hylättiin. Koska oli myös todettu hyödyttömäksi lähettää heitä maanpakoon kokonaisena kansana, viimeisenä keinona heidät hajo tettiin kaikkien maailman kansojen joukkoon. Kaikesta huolimatta tämän kansan erityisen luja itsepintaisuus on kestänyt tähän päivään saakka ja suurin osa siitä on vielä oikeaoppisia. Amerikassa havaitaan kuitenkin vähäistä luopumista. Nuorempi sukupolvi alkaa avioitua rodun ulkopuolelle. Aikaa myöten kasvaa niiden ruumiiden määrä, joissa on vähemmän ja vähemmän juutalaisia rotuominaisuuksia ja joihin juutalaisille hengille annetaan mahdollisuus jälleensyntyä. Tällä tavalla he tahtomattaan tulevat pelastetuiksi. He tulevat ”kado tetuiksi” avioitumalla alempien rotujen kanssa; he pelastuvat sulau tumalla pitemmälle kehittyneisiin. 
 
-Koska nykyiset arjalaiset rodut ovat järkeä käyttäviä ihmis olentoja, jotka kykenevät oppimaan menneistä kokemuksista, on loogista auttaa heitä kertomalla entisistä kehitysasteista ja siitä koh talosta, joka tuli tottelemattomien juutalaisten osaksi. Näillä kapi noitsijoilla oli muistiinpanoja siitä, kuinka johtajat olivat heitä koh delleet. Niistä selviää, kuinka he olivat valittuja, kuinka he kapinoivat ja kuinka heitä rangaistiin, mutta silti he toivoivat lopullista pelastu mista. Näitä muistiinpanoja voimme käyttää hyväksemme, että op pisimme, kuinka ei tule toimia. On epäolennaista, että aikojen kulu essa ne ovat tulleet tärvellyiksi ja että juutalaiset vielä tänä päivänä ovat siinä harhauskossa, että he ovat ”valittu kansa”. Se, mitä voimme oppia heidän kokemuksistaan, on siitä huolimatta voimassa. Voim me oppia, kuinka ”valittu kansa” voi ahdistaa johtajaansa, tehdä tur haksi hänen suunnitelmansa ja kahlita itsensä rotuun pitkiksi ajoiksi. Heidän kokemuksensa pitäisi olla varoituksena jokaiselle tuleval le ”valitulle kansalle”. Tämän Paavali ilmaisee vakuuttavin sanoin (Hepr. 2:2–3): ”Sillä jos enkelien kautta puhuttu sana pysyi lujana ja jokainen rikkomus ja tottelemattomuus saivat oikeudenmukaisen palkkansa, kuinka me voimme päästä pakoon, jos emme välitä tuos ta suuresta pelastuksesta, jonka Herra alkuaan julisti ja joka niiden vahvistamana, jotka olivat sen kuulleet, saatettiin meille.” Paavali puhui kristityille, sillä heprealaiset, joille hän kirjoitti, oli käänny tetty. He olivat vastaanottaneet Kristuksen ja olivat ihmisiä, joiden hän tulevaisuudessa toivoi olevan uuden ”valitun kansan” joukossa, kansan joka vapaaehtoisesti tulee seuraamaan johtajaansa ja kehittä mään rakkauden ja henkisen näkemisen kykyä, intuitiota, joka tulee voittamaan itsekkyyden ja järjen. 
+Koska nykyiset arjalaiset rodut ovat järkeä käyttäviä ihmis olentoja, jotka kykenevät oppimaan menneistä kokemuksista, on loogista auttaa heitä kertomalla entisistä kehitysasteista ja siitä koh talosta, joka tuli tottelemattomien juutalaisten osaksi. Näillä kapi noitsijoilla oli muistiinpanoja siitä, kuinka johtajat olivat heitä koh delleet. Niistä selviää, kuinka he olivat valittuja, kuinka he kapinoivat ja kuinka heitä rangaistiin, mutta silti he toivoivat lopullista pelastu mista. Näitä muistiinpanoja voimme käyttää hyväksemme, että op pisimme, kuinka ei tule toimia. On epäolennaista, että aikojen kulu essa ne ovat tulleet tärvellyiksi ja että juutalaiset vielä tänä päivänä ovat siinä harhauskossa, että he ovat ”valittu kansa”. Se, mitä voimme oppia heidän kokemuksistaan, on siitä huolimatta voimassa. Voim me oppia, kuinka ”valittu kansa” voi ahdistaa johtajaansa, tehdä tur haksi hänen suunnitelmansa ja kahlita itsensä rotuun pitkiksi ajoiksi. Heidän kokemuksensa pitäisi olla varoituksena jokaiselle tuleval le ”valitulle kansalle”. 
+
+Tämän Paavali ilmaisee vakuuttavin sanoin (Hepr. 2:2–3): ”Sillä jos enkelien kautta puhuttu sana pysyi lujana ja jokainen rikkomus ja tottelemattomuus saivat oikeudenmukaisen palkkansa, kuinka me voimme päästä pakoon, jos emme välitä tuos ta suuresta pelastuksesta, jonka Herra alkuaan julisti ja joka niiden vahvistamana, jotka olivat sen kuulleet, saatettiin meille.” Paavali puhui kristityille, sillä heprealaiset, joille hän kirjoitti, oli käänny tetty. He olivat vastaanottaneet Kristuksen ja olivat ihmisiä, joiden hän tulevaisuudessa toivoi olevan uuden ”valitun kansan” joukossa, kansan joka vapaaehtoisesti tulee seuraamaan johtajaansa ja kehittä mään rakkauden ja henkisen näkemisen kykyä, intuitiota, joka tulee voittamaan itsekkyyden ja järjen. 
 
 Uuden testamentin kristillinen opetus kuuluu erityisesti länsi maiden uranuurtajaroduille. Se on istutettu varsinkin Yhdysvalloissa asuvien ihmisten mieliin, koska kuudennen ajanjakson uuden rodun tehtävänä tulee olemaan kaikkien rotujen yhdistäminen ja Yhdys vallat tulee olemaan se ”sulatusuuni”, jossa kaikki maailman kansat yhdistetään, ja siitä pääasiassa polveutuu seuraava ”valittu kansa”. 
 
@@ -2529,9 +2531,9 @@ Ne kaikkiin maailman kansoihin kuuluvat henget, jotka ovat pyr kineet seuraamaan
 
 Täten huomaamme Raamatun sisältävän opetuksia, joita eri tyisesti länsimaalaiset kansat tarvitsevat, jotta heille voidaan opet taa esimerkkinä siitä hirvittävästä kohtalosta, joka on kirjoitettu muistiin Vanhassa testamentissa juutalaisista, ja jotta he oppisivat elämään Kristuksen Uudessa testamentissa ilmoittaman opetuksen mukaan antamalla ruumiinsa vapaaehtoisesti elävänä uhrina veljey den ja rakkauden alttarille. 
 
-### XIV LUKU: ENSIMMÄISEN MOOSEKSEN KIRJAN SALATIETEELLINEN SELITYS 
+### <h3 id="chapter-14">XIV Luku: Ensimmäisen Mooseksen kirjan salatieteellinen selitys</h3>
 
-#### Raamatun rajoitukset 
+#### <h4 id="limitations-of-the-bible">Raamatun rajoitukset</h4>
 
 Tähänastisissa tutkimuksissamme ennen XIII lukua olemme verrat tain vähän viitanneet Raamattuun, mutta nyt kiinnitämme huomion siihen joksikin aikaa. Tarkoituksemme ei ole todistaa, että Raamattu (siinä muodossa missä se nykyään tunnetaan) olisi ainoa oikea ja inspiroitu Jumalan sana, mutta on totta, että se sisältää paljon arvo kasta salaista tietoa. Suurelta osin se on piiloutunut lisäyksien jouk koon ja sumentunut, koska tiettyjä osia on mielivaltaisesti poistettu ”epäilyttävinä”. Salatieteilijä, joka ymmärtää todellisen tarkoituksen, huomaa helposti, mitkä osat ovat alkuperäisiä ja mitkä lisättyjä. Jos otamme Ensimmäisen Mooseksen kirjan ensimmäisen luvun sel laisena kuin se on parhaissa käännöksissämme, huomaamme, että se sisältää saman kehitysjärjestelmän, jonka olemme selittäneet ai kaisemmin tässä kirjassa ja joka on sopusoinnussa salatieteen kier roksia, aikakausia, rotuja jne. koskevien opetusten kanssa. Mainitut pääpiirteet ovat pakostakin lyhimmässä ja tiiveimmässä muodossa. Kokonainen aikakausi kuvataan muutamalla sanalla – kuitenkin pääpiirteet ovat siellä. 
 
@@ -2561,7 +2563,7 @@ Masoreettinen koulukunta, joka toimi pääasiassa Tiberiassa, otti huostaansa Ta
 
 Tätä masoreettista tekstiä tullaan käyttämään seuraavassa En simmäisen Mooseksen kirjan selvittämisessä, ja ettemme turvautuisi vain yhteen kääntäjään, tullaan apuna käyttämään kolmen kuului san hepreankielen tutkijan, H. Arnheimin, M. Sachsin ja J. Furstin, saksalaista käännöstä. He toimivat yhteistyössä neljännen, tohtori Zunzin kanssa, joka myös toimi kustantajana. 
 
-#### Alussa 
+#### <h4 id="in-the-beginning">Alussa</h4>
 
 Raamatun ensimmäinen lause on erittäin hyvä esimerkki heprean kielisen tekstin tulkinnasta, joka voidaan muuttaa sijoittamalla vo kaalit eri paikkoihin ja jakamalla sanat eri tavalla. 
 
@@ -2571,11 +2573,11 @@ Paljon on puhuttu ja kirjoitettu siitä, kumpi näistä kahdesta tul kinnasta on
 
 Jo se tosiseikka, että tämä lause ja monet muut Tooran puvus sa voivat ilmaista monta eri merkitystä, hämmentää vihkimätöntä, mutta on valaiseva niille, joilla on avain hallussaan. Siitä näkyy nii den loistavien järkiolentojen yliluonnollinen viisaus, jotka innoitti vat Tooran. Jos vokaalit olisivat olleet paikoillaan ja sanat erillään, olisi ollut vain yksi tapa lukea sitä, eikä näitä suuria ja yleviä mystee reitä olisi voitu siihen kätkeä. Tämä olisi ollut oikea kirjoitustapa, jos tekijöiden tarkoituksena olisi ollut kirjoittaa ”avoin” kirja Jumalasta, mutta se ei ollut heidän tarkoituksensa. Se oli kirjoitettu ainoastaan vihityille, ja vain he voivat sitä ymmärryksellä lukea. Paljon vähem män taitoa olisi tarvittu, jos kirja olisi kirjoitettu avoimesti, eikä sen sanomaa olisi salattu. Ponnistuksia ei koskaan säästetä tiedon anta miseksi niille, jotka ovat valmiita sen vastaanottamaan, mutta sitä ei anneta niille, jotka eivät ole vielä sitä ansainneet. 
 
-#### Tähtisumuteoria 
+#### <h4 id="the-nebular-theory">Tähtisumuteoria</h4>
 
-Jos tässä valossa tutkimme Raamatun alkulausetta ja järjestelmäm me kehitystä, on selvää, että molemmat tulkinnat ovat välttämättö miä asian ymmärtämiseksi. Ensimmäinen kertoo, että kehityksen alussa taivaat luotiin, ja toinen tulkinta lisää ensimmäiseen, että kaikki on luotu ”aina olemassa olevasta aineesta” eikä ”tyhjästä”, ku ten materialisti ivaten väittää. Kosminen juuriaine on koottu yhteen ja pantu liikkeeseen. Renkaat, jotka muodostuvat kiertävän massan liikkeestä, irtautuvat keskuksesta planeetoiksi jne. kuten nykyajan tiedemiehet erikoisen kekseliäästi ovat huomanneet. Salatiede ja nykyajan tiede ovat täydellisessä sopusoinnussa modus operandin22 suhteen. Nämä lausunnot eivät ole mitenkään ristiriidassa näiden kahden teorian kanssa, kuten nyt tulemme osoittamaan. Salatiede opettaa, että Jumala pani alulle luomisjärjestelmän ja että Hän jatku vasti johtaa tämän järjestelmän kulkua. Nykyajan tiedemies hylkää tämän muka järjettömän ajatuksen hullutuksena ja todistaakseen, ettei Jumalan olemassaolo ole välttämätön. Hän kaataa vesiastiaan hiukan öljyä. Vesi ja öljy esittävät avaruutta ja tulisumua. Hän pyö rittää öljyä neulalla muodostaen siitä pallon. Hän selittää, että tämä esittää keskusaurinkoa. Kiertäessään öljypalloa yhä nopeammin se pullistuu reunalta ja siitä irtoaa rengas, joka hajoaa ja muodostaa uuden pallon, joka kiertää Aurinkoa. Sitten hän säälien kysyy sala tieteilijältä: ”Etkö näe, kuinka se tapahtuu? Ei tarvita sinun Jumalaasi tai muuta yliluonnollista voimaa.” 
+Jos tässä valossa tutkimme Raamatun alkulausetta ja järjestelmäm me kehitystä, on selvää, että molemmat tulkinnat ovat välttämättö miä asian ymmärtämiseksi. Ensimmäinen kertoo, että kehityksen alussa taivaat luotiin, ja toinen tulkinta lisää ensimmäiseen, että kaikki on luotu ”aina olemassa olevasta aineesta” eikä ”tyhjästä”, ku ten materialisti ivaten väittää. Kosminen juuriaine on koottu yhteen ja pantu liikkeeseen. Renkaat, jotka muodostuvat kiertävän massan liikkeestä, irtautuvat keskuksesta planeetoiksi jne. kuten nykyajan tiedemiehet erikoisen kekseliäästi ovat huomanneet. Salatiede ja nykyajan tiede ovat täydellisessä sopusoinnussa modus operandin (22) suhteen. Nämä lausunnot eivät ole mitenkään ristiriidassa näiden kahden teorian kanssa, kuten nyt tulemme osoittamaan. Salatiede opettaa, että Jumala pani alulle luomisjärjestelmän ja että Hän jatku vasti johtaa tämän järjestelmän kulkua. Nykyajan tiedemies hylkää tämän muka järjettömän ajatuksen hullutuksena ja todistaakseen, ettei Jumalan olemassaolo ole välttämätön. Hän kaataa vesiastiaan hiukan öljyä. Vesi ja öljy esittävät avaruutta ja tulisumua. Hän pyö rittää öljyä neulalla muodostaen siitä pallon. Hän selittää, että tämä esittää keskusaurinkoa. Kiertäessään öljypalloa yhä nopeammin se pullistuu reunalta ja siitä irtoaa rengas, joka hajoaa ja muodostaa uuden pallon, joka kiertää Aurinkoa. Sitten hän säälien kysyy sala tieteilijältä: ”Etkö näe, kuinka se tapahtuu? Ei tarvita sinun Jumalaasi tai muuta yliluonnollista voimaa.” 
 
-22 Toimintatapojen. – Suom. huom. 
+() - (22) Toimintatapojen. – Suom. huom. 
 
 Salatieteilijä myöntää auliisti, että aurinkojärjestelmä voidaan luoda suunnilleen edellä kuvatulla tavalla. Mutta hän ihmettelee suuresti, että ihminen, jolla on näin selvä intuitio, joka auttaa häntä näin tarkasti ymmärtämään kosmisen prosessin toiminnan ja jonka äly näin nerokkaalla tavalla voi kuvata tätä mahtavaa teoriaa, samalla kertaa on täysin kykenemätön näkemään, että hän itse esittää kuva uksessaan Jumalan osaa. Hän edustaa sitä ulkopuolista voimaa, joka asetti öljyn veteen. Se olisi jäänyt ikuisesti paikoilleen ja muodotto maksi, ellei hän olisi antanut siihen liikkeellepanevaa voimaa, joka muodosti Auringon ja planeettoja esittävän järjestelmän. Hänen aja tuksensa suunnitteli kokeen, jossa vettä, öljyä ja voimaa käytettiin ja joka esittää suurenmoisella tavalla kolmiyhteistä Jumalaa muodosta massa aurinkojärjestelmää kosmisesta aineolemuksesta. 
 
@@ -2589,7 +2591,7 @@ Kun kolmiyhteisen Jumalan ensimmäinen olemuspuoli ilmenee tahtona luoda, se her
 
 Täten huomaamme Raamatun alkulauseen kertovan meille, että alussa järjestelmällinen, rytminen liike kosmisessa juuriaineessa muodosti maailmankaikkeuden. 
 
-#### Luovat hierarkiat 
+#### <h4 id="the-creative-hierarchies">Luovat hierarkiat</h4>
 
 Alkulauseen toinen tulkinta antaa meille myös täydellisemmän käsi tyksen Jumalasta, kun se kertoo kaksinkertaisesta energiasta ja viit taa yhden Jumalan Hengen positiiviseen ja negatiiviseen olemukseen ilmennyksen aikana. Harmoniassa salatieteellisten oppien kanssa Ju mala esitetään yhdistettynä olentona. Tätä painotetaan saman luvun myöhemmissä jakeissa. 
 
@@ -2609,29 +2611,29 @@ Jokaisen luomisosan kuvauksen jälkeen sanotaan ”ja elohim näki, että se oli
 
 Sanotaan, että seitsemäntenä päivänä ”Jumala lepäsi”. Tämä on sopusoinnussa sen salaisen opetuksen osan kanssa, joka käsittelee sitä, mitä jokainen luova hierarkia teki nykyiseen ajanjaksoon saak ka. Opetetaan myös, että tämän ajanjakson aikana jumalat ja luovat hierarkiat ovat vetäytyneet pois suoranaisesta toiminnasta, jotta ih minen itse työskentelisi omaksi pelastuksekseen. He ovat jättäneet ihmiskunnan enemmistön välttämättömän johdon vanhemmille veljille, jotka nyt ovat jumalien ja ihmisten välittäjiä. 
 
-#### Saturnuskausi 
+#### <h4 id="the-saturn-period">Saturnuskausi</h4>
 
 Kun olemme nyt vakuuttuneet siitä, että järjestelmämme alku ja luo vien hierarkioiden työ sellaisena kuin salainen tiede sen esittää, on sopusoinnussa Raamatun opetusten kanssa, ryhdymme nyt tutki maan Raamatun ”luomispäiviä” ja sitä, miten ne ovat sopusoinnussa salaisten opetusten kanssa koskien Saturnus-, Aurinko- ja Kuu kausia sekä Maakauden kolmea ja puolta kierrosta eli polaarista, hyperborealaista, lemurialaista ja atlantislaista ajanjaksoa, jotka ovat olleet ennen nykyistä arjalaista ajanjaksoa. 
 
 Luonnollisestikaan tarkkaa selvitystä asiasta ei voida antaa muu tamissa riveissä kuten Ensimmäisen Mooseksen kirjan ensimmäi sessä luvussa, mutta pääkohdat ovat siinä oikeassa järjestyksessä niin kuin algebran kaava luomisesta. 
 
-Neljännessä jakeessa sanotaan: ”Maa oli autio ja asumaton, ja pi meys lepäsi syvyyden edessä, ja elohimin henget leijuivat syvyyden päällä.”23 Ilmennyksen alussa nykyinen Maa oli Saturnuskaudessa ja täsmälleen sellaisessa tilassa, jollaiseksi se on jo aiemmin kuvattu. Se ei ollut ”ilman muotoa ja tyhjä”, niin kuin sanotaan kuningas Jaakon käännöksessä. Se oli kuuma ja tarkkarajainen ja erottui avaruuden syvyydestä, joka oli kylmä. Tosin se oli pimeä, mutta se voi olla pimeä ja silti kuuma, koska ”pimeä” kuumuus on välttämätön ennen heh kuvaa tai näkyvää kuumuutta. Luovat hierarkiat leijuivat Saturnus kauden pimeän maan yllä. He työskentelivät ja muokkasivat sitä ul koa päin. Raamattu nimittää heitä ”elohimin hengiksi”. 
+Neljännessä jakeessa sanotaan: ”Maa oli autio ja asumaton, ja pi meys lepäsi syvyyden edessä, ja elohimin henget leijuivat syvyyden päällä.” (23) Ilmennyksen alussa nykyinen Maa oli Saturnuskaudessa ja täsmälleen sellaisessa tilassa, jollaiseksi se on jo aiemmin kuvattu. Se ei ollut ”ilman muotoa ja tyhjä”, niin kuin sanotaan kuningas Jaakon käännöksessä. Se oli kuuma ja tarkkarajainen ja erottui avaruuden syvyydestä, joka oli kylmä. Tosin se oli pimeä, mutta se voi olla pimeä ja silti kuuma, koska ”pimeä” kuumuus on välttämätön ennen heh kuvaa tai näkyvää kuumuutta. Luovat hierarkiat leijuivat Saturnus kauden pimeän maan yllä. He työskentelivät ja muokkasivat sitä ul koa päin. Raamattu nimittää heitä ”elohimin hengiksi”. 
 
-23 Englanninkielisen käännöksen mukaan. – Suom. huom. 
+() - (23) Englanninkielisen käännöksen mukaan. – Suom. huom. 
 
-#### Aurinkokausi 
+#### <h4 id="the-sun-period">Aurinkokausi</h4>
 
 Aurinkokausi on hyvin kuvattu kolmannessa jakeessa. ”Ja elohim sanoi: ’Tulkoon valo’, ja valo tuli.” Tätä lausetta on ivattu nauretta vimpana hulluutena. Pilkallisesti on kysytty, kuinka maan päällä oli valoa, kun aurinko luotiin vasta neljäntenä päivänä. Raamatun kertoja ei kuitenkaan puhu yksinomaan maasta. Hän puhuu keskuk sessa olevasta ”tulisumusta”, josta järjestelmämme planeetat luotiin, Maa mukaan lukien. Kun tähtisumu saavutti hehkuvan kuumuuden, joka tapahtui Aurinkokaudella, niin ei enää tarvittu ulkopuolista valonlähdettä, koska valo oli sisäinen. 
 
 Neljännessä jakeessa sanotaan: ”Elohim erotti valon pimeydes tä.” Tämä oli tarpeellista, koska ulkopuolinen avaruus oli pimeä vastakohtana hehkuvalle tähtisumulle, joka Aurinkokaudella oli olemassa. 
 
-#### Kuukausi 
+#### <h4 id="the-moon-period">Kuukausi</h4>
 
 Kuukausi selitetään kuudennessa jakeessa seuraavasti: ”...ja elohim sa noi: ’Tulkoon laajeneminen [”taivaankansi” muissa käännöksissä] ve sien väliin erottamaan vedet toisistaan.’” Tämä kuvaa tarkalleen Kuu kauden olosuhteita, jolloin hehkuvan tulisumun kuumuus ja ulko puolisen avaruuden kylmyys olivat muodostaneet vesikuoren tuli sen sydämen ympärille. Tulen ja veden yhtymä synnytti höyryä, joka on laajentunutta vettä, kuten jakeessa sanotaan. Se oli erilaista kuin se verrattain kylmä vesi, joka jatkuvasti pyrki kohti kuumaa, tulista sydäntä, siitä ulospäin purkautuvan höyryn tilalle. Täten vesi kiersi alituiseen sekä tiivistyvässä että laajenevassa tilassa, kun höyry, joka syöksyi ulos tulisesta keskuksesta, muodosti tiivistetyn ”tulisumun” yhtyessään ulkopuoliseen avaruuteen. Se palasi taas keskukseen tul lakseen uudelleen kuumennetuksi ja tehdäkseen uuden kierroksen. Täten oli kahdenlaista vettä ja ne olivat erillään, kuten Raamattu il moittaa. Tiheä vesi oli lähimpänä tulista sydäntä, laajentunut vesi eli höyry ulkopuolella. 
 
 Tämä on sopusoinnussa myös nykyajan tieteellisten teorioiden kanssa. Ensin oli pimeä kuumuus, sitten hehkuva tähtisumu, sitten ulkopuolella oleva kosteus ja sisäpuolinen kuumuus ja lopuksi kuo ren kovettuminen. 
 
-#### Maakausi 
+#### <h4 id="the-earth-period">Maakausi</h4>
 
 Seuraavaksi kuvataan Maakausi. Kuitenkin ennen kuin alamme ku vata sitä, meidän on käsiteltävä kierrosten kertautumista. Siteeratut jakeet ja kuvaukset vastaavat myös kertausjaksoja. Se, mikä on sa nottu Saturnuskaudesta, kuvaa myös järjestelmämme olosuhteita, kun se herää jokaisen lepokauden jälkeen. Siksi Saturnus-, Aurinko ja Kuukauden kuvaukset vastaavat nykyisen Maakautemme kolmea ensimmäistä kierrosta, ja seuraava kuvaus vastaa Maan olosuhteita nykyisen kierroksen aikana. 
 
@@ -2667,13 +2669,13 @@ Arjalainen ajanjakso vastaa luomisen seitsemättä päivää, jolloin jumalat le
 
 Tähän loppuu kertomus siitä, kuinka muodot luotiin. Seuraavas sa luvussa käsitellään asiaa hiukan enemmän elämän näkökulmasta. 
 
-#### Jehova ja hänen tehtävänsä 
+#### <h4 id="jehovah-and-his-mission">Jehova ja hänen tehtävänsä</h4>
 
 Oppineiden kesken on paljon keskusteltu siitä ristiriidasta, joka on ensimmäisen luvun luomiskertomuksen ja toisen luvun neljännestä jakeesta alkavan luomiskertomuksen välillä, ja etenkin niiden kir joittajasta. On väitetty, että näiden kertomusten kirjoittajat ovat kak si eri henkilöä, koska olento tai ne olennot, joiden nimen kääntäjät ovat tulkinneet sanalla ”Jumala” englantilaisen käännöksen ensim mäisessä ja toisessa luvussa, ovat heprealaisessa tekstissä ensimmäi sessä luvussa mainittu nimellä ”Elohim” ja toisessa luvussa nimellä Jehova. Väitetään, ettei sama kirjoittaja olisi nimittänyt Jumalaa kah della eri nimellä. 
 
-Jos hän olisi tarkoittanut samaa Jumalaa molemmissa tapa uksissa, hän ei luultavasti olisi niin menetellyt, mutta hän ei ollut monoteisti24. Hän tiesi enemmän. Hän ei pitänyt Jumalaa vain kor keampana ihmisenä, jolla oli taivaankansi valtaistuimenaan ja Maa astinlautanaan. Kirjoittaessaan Jehovasta hän tarkoitti johtajaa, jolla oli johdossaan tietty osa luomistyöstä, joka sen jälkeen kuva taan. Jehova oli ja on yksi jumalista. Hän on niiden enkelien johtaja, jotka olivat ihmiskunta Kuukaudella, ja hän on nykyisen Kuumme hallitsija. Lukijaa kehotetaan tutkimaan kaaviota 14 saadakseen tar kan käsityksen Jehovan asemasta ja rakenteesta. 
+Jos hän olisi tarkoittanut samaa Jumalaa molemmissa tapa uksissa, hän ei luultavasti olisi niin menetellyt, mutta hän ei ollut monoteisti (24). Hän tiesi enemmän. Hän ei pitänyt Jumalaa vain kor keampana ihmisenä, jolla oli taivaankansi valtaistuimenaan ja Maa astinlautanaan. Kirjoittaessaan Jehovasta hän tarkoitti johtajaa, jolla oli johdossaan tietty osa luomistyöstä, joka sen jälkeen kuva taan. Jehova oli ja on yksi jumalista. Hän on niiden enkelien johtaja, jotka olivat ihmiskunta Kuukaudella, ja hän on nykyisen Kuumme hallitsija. Lukijaa kehotetaan tutkimaan kaaviota 14 saadakseen tar kan käsityksen Jehovan asemasta ja rakenteesta. 
 
-24 Yksijumalaisuuden kannattaja. – Suom. huom. 
+() - (24) Yksijumalaisuuden kannattaja. – Suom. huom. 
 
 Kuun hallitsijana hän johtaa siellä olevia turmeltuneita ja pahoja olentoja; hän on myös enkelien johtaja. Hänen kanssaan työskente levät muutamat arkkienkelit, jotka kuuluivat Aurinkokauden ihmis kuntaan. Näitä sanotaan ”rotuhengiksi”. 
 
@@ -2691,9 +2693,9 @@ Nämä ristisiitokset olivat nykyisten juutalaisten esi-isiä, heidän, jotka ny
 
 Salatiede yhtyy kernaasti Raamatun vastustajien mielipiteeseen siinä, että se on vain kokoelma alkuperäisten kirjoitusten muunnel mia. Myönnetään, että kokonaiset osat ovat tekaistuja, eikä yrite täkään todistaa niiden todenperäisyyttä sen nykyisessä muodossa. Käsillä olevan tutkimuksemme tarkoituksena on vain tuoda esille muutamia salaisen totuuden jyviä siitä hämmentävien ja väärien tulkintojen joukosta, johon useat kääntäjät ja tarkastajat ovat ne haudanneet. 
 
-#### Involuutio, evoluutio ja epigeneesi25 
+#### <h4 id="involution-evolution-and-epigenesis">Involuutio, evoluutio ja epigeneesi (25)</h4>
 
-25 Involuutio = sisäänkehitys (hengen laskeutuminen aineeseen), evoluutio = kehitys, epigeneesi = kyky luoda uutta. – Suom. huom. 
+() - (25) Involuutio = sisäänkehitys (hengen laskeutuminen aineeseen), evoluutio = kehitys, epigeneesi = kyky luoda uutta. – Suom. huom. 
 
 Kun olemme edellisissä kappaleissa päässeet selville niistä yleisistä epäselvyyksistä, jotka koskevat Jehovan todellista olemusta ja hänen tehtäväänsä, niin voimme kenties nyt löytää selityksen ihmisen luo mista koskevien kertomusten ristiriitaan, joka on kirjoitettu Ensim mäisen Mooseksen kirjan ensimmäisessä ja toisessa luvussa. En simmäisessä luvussa sanotaan, että ihminen luotiin viimeiseksi, ja toisessa, että hänet luotiin ensimmäisenä kaikista elävistä olennoista. 
 
@@ -2755,7 +2757,9 @@ Apina on rappeutunut ihmisestä.
 
 Polyypit ovat nisäkkäiden rappeutunein muoto. 
 
-Sammaleet ovat kaikkein rappeutuneimpia kasvikunnan muotoja. Kivikunta on viimeinen määränpää, kun kaikkien luontokuntien muodot ovat saavuttaneet rappeutumisen huipun. 
+Sammaleet ovat kaikkein rappeutuneimpia kasvikunnan muotoja.
+
+Kivikunta on viimeinen määränpää, kun kaikkien luontokuntien muodot ovat saavuttaneet rappeutumisen huipun. 
 
 Vahvistuksen tähän löydämme hiilestä, joka ennen on ollut kasvi samoin kuin kivettynyt puu, ja fossiilit ovat eri eläinten jäänteitä. Ku kaan tiedemies ei myönnä, että tavallisen kiven tai kallion alkuperä olisi jostain muusta luontokunnasta, mutta salatieteen tutkijan kan nalta katsoen se on todella kivettynyttä kasvikuntaa kuten hiilikin. Kivennäistutkija selittää oppineesti, että se on kokoonpantu sarveis välkkeestä, maasälvästä ja kiilteestä, mutta harjaantunut selvänäki jä, joka voi seurata sen kehitystä luonnonmuistissa miljoonia vuo sia taaksepäin, voi täydentää tuota lausuntoa lisäämällä seuraavaa: ”Niin kyllä, mutta se, mitä sanotte sarveisvälkkeeksi ja maasälväksi on esihistoriallisten kukkien lehtiä ja runkoja, ja kiille on kaikki, mitä on jäljellä niiden terälehdistä.” 
 
@@ -2767,7 +2771,7 @@ Toisaalta se elämänmuoto, joka käyttää ihmisen munasolua, eli kivennäistil
 
 Siellä, missä uuden luominen (epigeneesi) on passiivista yksilös sä, suvussa, kansassa tai rodussa, kehitys pysähtyy ja rappeutuminen alkaa. 
 
-#### Elävä sielu? 
+#### <h4 id="a-living-soul">Elävä sielu?</h4>
 
 Täten nämä kaksi luomiskertomusta ovat harmoniassa keskenään. 
 
@@ -2777,9 +2781,9 @@ Toinen kertoo, että elämä, joka nyt ilmenee ihmisen muodossa, oli olemassa ai
 
 Ainoastaan yksi luomiskertomus ei olisi ollut tarpeeksi. Ihmisen luomista koskevaan kertomukseen on salattu tärkeitä yksityiskohtia, esimerkiksi toisessa luvussa sanotaan: ”Sitten Jehova muovasi ih misen maan tomusta ja puhalsi hänen sieraimiinsa henkäyksen [nephesh] ja niin tuli ihmisestä elävä olento [nephesh chayim].” 
 
-Toisissa kohdissa kuningas Jaakon käännöksessä on sana nephesh käännetty sanaksi ”elämä”, mutta tässä kohdassa (I Moos. 2:7) se on käännetty ”elävä sielu”, joka ilmaisee ajatuksen, että oli olemassa ero ihmisessä olleen elämän ja alemmissa olennoissa asuneen elämän välillä. Tällainen tulkinta on mielivaltainen ja vailla perustaa. Elä mänhenki [nephesh] on sama ihmisessä ja eläimessä. Tämä voidaan näyttää niillekin, jotka pitävät Raamattua täysin oikeana, sillä ku ningas Jaakonkin käännöksessä26 sanotaan selvästi (Saarn. 3:19–20) ”samalla tavoin kuolevat molemmat, yhtäläinen henki [nephesh] on kaikilla. Ihmisillä ei ole etusijaa eläimiin nähden... Kaikki menee sa maan paikkaan.” 
+Toisissa kohdissa kuningas Jaakon käännöksessä on sana nephesh käännetty sanaksi ”elämä”, mutta tässä kohdassa (I Moos. 2:7) se on käännetty ”elävä sielu”, joka ilmaisee ajatuksen, että oli olemassa ero ihmisessä olleen elämän ja alemmissa olennoissa asuneen elämän välillä. Tällainen tulkinta on mielivaltainen ja vailla perustaa. Elä mänhenki [nephesh] on sama ihmisessä ja eläimessä. Tämä voidaan näyttää niillekin, jotka pitävät Raamattua täysin oikeana, sillä ku ningas Jaakonkin käännöksessä (26) sanotaan selvästi (Saarn. 3:19–20) ”samalla tavoin kuolevat molemmat, yhtäläinen henki [nephesh] on kaikilla. Ihmisillä ei ole etusijaa eläimiin nähden... Kaikki menee sa maan paikkaan.” 
 
-26 Myös suomalaisessa Raamatussa. – Suom. huom. 
+() - (26) Myös suomalaisessa Raamatussa. – Suom. huom. 
 
 Eläimet ovat vain ”nuorempia veljiämme” ja vaikka ne eivät ole niin hienorakenteisia, ne tulevat saavuttamaan yhtä korkean tason kuin mikä meillä on, ja silloin me olemme nousseet korkeammalle. 
 
@@ -2793,15 +2797,17 @@ Tähän aikaan kehittyvä ihminen ei vielä ollut alkanut hengittää keuhkojen 
 
 Jehovan tehtävänä oli liittää kiinteää, kovaa luuainetta pehmeisiin ruumiisiin. Ennen tätä aikaa, polaarisella ja hyperborealaisella ajan jaksolla, ei eläimillä eikä ihmisillä ollut luita. 
 
-#### Adamin kylkiluu 
+#### <h4 id="adams-rib">Adamin kylkiluu</h4>
 
-Se karkea ja mahdoton tapa, jonka sukupuolten erottamisen (ta vallisissa raamatunkäännöksissä ja myös masoreettisessa tekstissä) kerrotaan tapahtuneen, on jälleen esimerkki siitä, mitä vanhassa heprealaisessa tekstissä voidaan tehdä vokaaleja vaihtamalla. Yhdel lä tavalla luettuna sana on ”kylkiluu”, mutta toisella tavalla, joka on ainakin yhtä hyvin perusteltu ja jota käyttämällä asia sitä paitsi tulee järjelliseksi, se on ”puoli”. Jos tulkitsemme tämän niin, että ihminen oli miesnaisellinen ja että Jehova teki toisen puolen eli sukupuolen kummassakin olennossa uinuvaksi, niin emme loukkaa järkeämme yhtä paljon kuin uskomalla ”kylkiluu”-tarinaan. 
+Se karkea ja mahdoton tapa, jonka sukupuolten erottamisen (ta vallisissa raamatunkäännöksissä ja myös masoreettisessa tekstissä) kerrotaan tapahtuneen, on jälleen esimerkki siitä, mitä vanhassa heprealaisessa tekstissä voidaan tehdä vokaaleja vaihtamalla. 
+
+Yhdel lä tavalla luettuna sana on ”kylkiluu”, mutta toisella tavalla, joka on ainakin yhtä hyvin perusteltu ja jota käyttämällä asia sitä paitsi tulee järjelliseksi, se on ”puoli”. Jos tulkitsemme tämän niin, että ihminen oli miesnaisellinen ja että Jehova teki toisen puolen eli sukupuolen kummassakin olennossa uinuvaksi, niin emme loukkaa järkeämme yhtä paljon kuin uskomalla ”kylkiluu”-tarinaan. 
 
 Kun tehdään tämä muutos, aikaisemmin esitetty salainen opetus on sopusoinnussa Raamatun opetusten kanssa ja molemmat sopivat nykyisen tieteen ymmärrykseen, että ihminen oli aikanaan kaksi neuvoinen ennen kuin hän kehitti yhtä sukupuolta toisen kustan nuksella. Tätä tukee sekin, että sikiö on tietylle kehitysasteelle saakka kaksineuvoinen, minkä jälkeen toinen sukupuoli saa vallan ja toi nen surkastuu. Jokaisella ihmisellä on siten vastakkaisen sukupuolen sukuelimet alkeistilassa, ja sen tähden hän todella on kaksineuvoinen, kuten alkuperäinen ihminen. 
 
 Nähtävästi raamatunkirjoittaja ei tässä toisessa luomiskertomuk sessa halua antaa tarkkaa kuvaa koko kehityksestä vaan pikemmin hieman täsmentää ensimmäisessä luvussa kerrottuja asioita. Hän kertoo meille, että ihminen ei aina hengittänyt samalla tavalla kuin nyt, että oli aika, jolloin häntä ei vielä ollut erotettu sukupuoliin, ja että Jehova sai tämän muutoksen aikaan määräten tapahtuman ajan kohdan. Kun menemme eteenpäin, tulemme huomaamaan, että pal jon lisää tietoa tulee esille. 
 
-#### Suojelusenkelit 
+#### <h4 id="guardian-angels">Suojelusenkelit</h4>
 
 Aikaisempien aikakausien ja ajanjaksojen aikana suuret luovat hie rarkiat työskentelivät ihmiskunnan hyväksi, kun se tiedottomasti kehittyi eteenpäin. Silloin oli KAIKILLA ihmisillä vain yksi yleinen tajunta, yksi yhteinen joukkohenki koko ihmiskunnalla. 
 
@@ -2837,7 +2843,7 @@ Ennen Jehovan tuloa maapallon ollessa vielä osa Aurinkoa oli olemassa yksi ylei
 
 Jehova tuli enkeleineen ja arkkienkeleineen ja teki ensimmäi sen suuren jaon rotuihin antaen jokaiselle joukolle johtavan rotu hengen – arkkienkelin. Jokaiselle egolle hän määräsi enkelin suojeli jaksi, kunnes yksilöllinen henki kasvaisi kyllin voimakkaaksi vapau tuakseen ulkopuolisesta vaikutuksesta. 
 
-#### Veren sekoittaminen avioliitossa 
+#### <h4 id="mixing-blood-in-marriage">Veren sekoittaminen avioliitossa</h4>
 
 Kristus tuli valmistamaan tietä ihmiskunnan vapautumiseksi erilli syyttä aiheuttavasta rotu- ja sukuhengen ohjauksesta ja yhdistämään koko ihmissukua yhdeksi yleismaailmalliseksi veljeskunnaksi. 
 
@@ -2845,9 +2851,9 @@ Hän opetti ”Abrahamin siemenen” viittaavan vain ruumiisiin ja kiinnitti ihm
 
 Ihmisen kolminaishenki, ego, on hänen sisässään asuva Jumala, jota persoonallisen, ruumiillisen ihmisen täytyy oppia seuraamaan. Sen tähden Kristus sanoi, että tullakseen hänen opetuslapsekseen ihmisen täytyy luopua kaikesta, mitä hänellä oli. Hänen opetuksen sa tarkoittaa ihmisen sisäisen Jumalan vapauttamista. Hän kehottaa ihmistä käyttämään omaa etuoikeuttaan yksilönä ja nousemaan su vun, heimon ja kansan yläpuolelle. Hänen ei suinkaan tule halveksia kansaansa ja maataan. Hänen tulee täyttää kaikki velvollisuutensa, mutta hänen on lakattava samaistamasta itseään vain osaan ihmis kuntaa ja hänen täytyy tuntea tasavertaista yhteyttä koko ihmiskun taan. Tämä on se ihanne, jonka Kristus antoi ihmiskunnalle. 
 
-Rotuhengen vallan alaisena kansa, heimo ja suku otettiin huo mioon ensimmäisenä – yksilö viimeisenä. Suku täytyi pitää koske mattomana. Jos mies kuoli jättämättä jälkeläistä jatkamaan nimeään, hänen veljensä täytyi ”kantaa siemen” leskelle, ettei suku kuolisi. (V Moos. 25:5–10) Avioitumista suvun ulkopuolelle katsottiin kau hulla menneinä aikoina. Heimon jäsen ei voinut liittyä toiseen hei moon menettämättä asemaansa omassa heimossaan. Ei ollut help poa tulla toisen suvun jäseneksi. Eivät ainoastaan juutalaiset ja muut vanhat kansat pitäneet välttämättömänä heimonsa puhtautta, vaan sitä harjoitetaan vielä nykyaikanakin. Kuten aikaisemmin on mai nittu, skotlantilaiset ovat aivan näihin päiviin saakka pitäneet lujasti kiinni klaanistaan, eivätkä vanhat pohjoisen viikingit ottaneet ketään sukuunsa, ennen kuin he ”sekoittivat veren” hänen kanssaan saadak seen aikaan hemolyysin27 henkiset vaikutukset, joita nykyinen mate rialistinen tiede ei tunne mutta jotka olivat vanhojen tiedossa. 
+Rotuhengen vallan alaisena kansa, heimo ja suku otettiin huo mioon ensimmäisenä – yksilö viimeisenä. Suku täytyi pitää koske mattomana. Jos mies kuoli jättämättä jälkeläistä jatkamaan nimeään, hänen veljensä täytyi ”kantaa siemen” leskelle, ettei suku kuolisi. (V Moos. 25:5–10) Avioitumista suvun ulkopuolelle katsottiin kau hulla menneinä aikoina. Heimon jäsen ei voinut liittyä toiseen hei moon menettämättä asemaansa omassa heimossaan. Ei ollut help poa tulla toisen suvun jäseneksi. Eivät ainoastaan juutalaiset ja muut vanhat kansat pitäneet välttämättömänä heimonsa puhtautta, vaan sitä harjoitetaan vielä nykyaikanakin. Kuten aikaisemmin on mai nittu, skotlantilaiset ovat aivan näihin päiviin saakka pitäneet lujasti kiinni klaanistaan, eivätkä vanhat pohjoisen viikingit ottaneet ketään sukuunsa, ennen kuin he ”sekoittivat veren” hänen kanssaan saadak seen aikaan hemolyysin (27) henkiset vaikutukset, joita nykyinen mate rialistinen tiede ei tunne mutta jotka olivat vanhojen tiedossa. 
 
-27 Punasolujen hajoaminen. – Suom. huom. 
+() - (27) Punasolujen hajoaminen. – Suom. huom. 
 
 Kaikki nämä tavat johtuivat rotu- ja heimohengen toiminnasta veressä. Jos olisi hyväksytty jäseneksi henkilö, jolla ei ollut samaa verta, olisi aiheutettu ”sekaannusta kastissa”. Mitä läheisemmin jat kettiin sukua lähisukulaisten kesken, sitä suuremmaksi tuli rotu hengen voima ja sitä lujemmiksi tulivat siteet, jotka liittivät yksilön heimoon, sillä ihmisen elinvoima on hänen veressään. Muisti on lä heisesti yhteydessä vereen, joka on elollisruumiin korkein ilmaisu muoto. 
 
@@ -2857,9 +2863,9 @@ Kun sekoittumaton veri virtaa saman suvun suonissa monessa sukupolvessa, samat m
 
 Tämän yhteisen veren johdosta ihmisten sanotaan eläneen mon ta sukupolvea, koska veren kautta heidän jälkeläisillään oli pääsy luonnonmuistiin, jossa esi-isien elämäkertomukset säilytettiin. Sen tähden Ensimmäisen Mooseksen kirjan viidennessä luvussa sano taan, että patriarkat elivät vuosisatoja. Adam, Methusalem ja muut patriarkat eivät persoonallisesti saavuttaneet niin korkeaa ikää, mutta he elivät jälkeläistensä tajunnassa, ja nämä näkivät esi-isiensä elämät kuin ominaan. Tietyn ajan kuluttua jälkeläiset eivät enää ajatelleet it seään Adamina tai Methusalemina. Näiden esi-isien muisto hälveni, ja sanotaan, että he kuolivat. 
 
-Skotlannin ylämaalaisten ”toinen näkö” osoittaa, että endoga mian28 johdosta tietoisuus sisäisistä maailmoista säilyy. He ovat avioituneet oman klaaninsa sisällä aivan viimeisiin aikoihin asti, sa moin mustalaiset, jotka aina avioituvat oman heimonsa sisällä. Mitä pienempi heimo ja mitä läheisemmin avioidutaan, sitä selvempi tämä ”näkö” on. 
+Skotlannin ylämaalaisten ”toinen näkö” osoittaa, että endoga mian (28) johdosta tietoisuus sisäisistä maailmoista säilyy. He ovat avioituneet oman klaaninsa sisällä aivan viimeisiin aikoihin asti, sa moin mustalaiset, jotka aina avioituvat oman heimonsa sisällä. Mitä pienempi heimo ja mitä läheisemmin avioidutaan, sitä selvempi tämä ”näkö” on. 
 
-28 Avioituminen lähisukulaisten kesken. 
+() - (28) Avioituminen lähisukulaisten kesken. 
 
 Varhaisemmat rodut eivät olisi uskaltaneet olla tottelematta heimojumalan määräystä olla avioitumatta heimon ulkopuolelle. Tä hän heillä ei olisi ollut haluakaan, koska heillä ei ollut omaa älyä. 
 
@@ -2891,10 +2897,13 @@ Kun ihminen kehittyi näiden asteiden läpi ja vähitellen kadotti kosketuksensa
 
 Neljä syytä, jotka edesauttoivat tätä tapahtumaa: 
 
-1. Atlantiksen mantereen sumuisen ilmakehän kirkastuminen.    
-2. Elollisruumiin vetäytyminen sisään, niin että nenän juuressa oleva piste tuli vastaamaan samaa pistettä elollisruumiissa.    
-3. Läheisten sukulaisten välisen lisääntymisen poistaminen ja sen korvaaminen heimon ja suvun ulkopuolisilla avioliitoilla.    
-4. Päihdeaineiden käyttö.    
+1\. Atlantiksen mantereen sumuisen ilmakehän kirkastuminen.  
+
+2\. Elollisruumiin vetäytyminen sisään, niin että nenän juuressa oleva piste tuli vastaamaan samaa pistettä elollisruumiissa.   
+
+3\. Läheisten sukulaisten välisen lisääntymisen poistaminen ja sen korvaaminen heimon ja suvun ulkopuolisilla avioliitoilla.  
+
+4\. Päihdeaineiden käyttö.    
 
 Rotuhenget ovat yhä olemassa ja toimivat ihmisessä, mutta mitä kehittyneempi kansa, sitä enemmän vapautta sen yksilöille anne taan. Niissä maissa, joissa ihmiset ovat lujimmin kahlehdittu, rotu henki on voimakkain. Mitä enemmän ihminen on sopusoinnussa rakkauden lain kanssa ja mitä ylevämmät hänen aatteensa ovat, sitä enemmän hän vapautuu rotuhengestä. Isänmaallisuus, joka sinän sä on hyvä, on rotuhengen kahle. Yleismaailmallisen veljeyden aate, joka ei yhdistä itseään maahan eikä rotuun, on ainoa tie vapauteen. 
 
@@ -2902,13 +2911,15 @@ Kristus tuli yhdistämään erotetut rodut rauhan ja hyväntahdon liittoon, joss
 
 Nykyinen kristillisyys ei ole edes varjo todellisesta Kristuksen uskonnosta, joka pysyy salattuna niin kauan kunnes kaikki rotu tunne on voitettu. Kuudennella ajanjaksolla tulee olemaan vain yksi yleismaailmallinen veljeskunta takaisin tulleen Kristuksen johtama na, mutta päivää ja tuntia, milloin se tapahtuu, kukaan ei tiedä, vaan se määräytyy sen mukaan, kuinka pian riittävän suuri määrä ihmisiä on alkanut elää veljeydessä ja rakkaudessa, jotka ovat uuden liiton tunnusmerkit. 
 
-#### Ihmisen lankeemus 
+#### <h4 id="the-fall-of-man">Ihmisen lankeemus</h4>
 
 Ensimmäisen Mooseksen kirjan tutkimuksen johdosta on vielä li sättävä muutama sana ihmisen ”lankeemuksesta”, joka on yleisen kristinuskon ydin ja selkäranka. Jos ”lankeemusta” ei olisi ollut, ”pelastussuunnitelmaakaan” ei olisi tarvittu. 
 
 Kun sukupuolten erottaminen tapahtui lemurialaisen ajanjakson keskivaiheilla (Jehovan ja hänen enkeliensä toimesta), ego alkoi vä hitellen vaikuttaa kiinteässä ruumiissa muodostaen sisäelimiä. Sii hen aikaan ihminen ei ollut täysin valveilla eikä niin tietoinen kuin nykyään, mutta sukupuolivoiman toisen puolen avulla hän muodosti aivonsa ajatusten ilmaisuvälineeksi, kuten aikaisemmin on selitetty. Hän oli enemmän tietoinen henkisestä kuin fyysisestä maailmasta. Hän tuskin näki omaa ruumistaan, eikä ollut tietoinen lisääntymis tapahtumasta. Raamatun ilmaus, että Jehova piti ihmisen unessa lisääntymisen aikana, pitää paikkansa. Lapsen syntyminen ei aihe uttanut kipua eikä vaivaa, ja (koska ihmisellä oli erittäin heikko taju fyysisestä ympäristöstään) hän ei tiennyt mitään kiinteän ruumiin sa menettämisestä kuolemassa tai asettumisesta uuteen ruumiiseen syntymässä. 
 
-On muistettava, että Lucifer-henget olivat osa Kuukauden ihmis kuntaa. Ne ovat enkelien elämänaallon jälkeenjääneitä ja liian kehit tyneitä voidakseen elää kiinteässä ruumiissa, mutta ne tarvitsivat ”si säisen” elimen tiedon hankkimiseksi. Lisäksi ne pystyivät toimimaan fyysisten aivojen kautta, mitä eivät enkelit eikä Jehova voineet tehdä. Nämä henget menivät selkäytimeen ja aivoihin ja puhuivat nai selle, jonka mielikuvitus, kuten muualla on selitetty, oli kehittynyt lemurialaisen rodun harjoitusten avulla. Koska hänen tajuntansa pääasiallisesti oli sisäinen, hän näki kuvatajunnassaan ne käärmei nä, koska ne olivat kulkeneet hänen aivoihinsa käärmemäisen selkä ytimen kautta. 
+On muistettava, että Lucifer-henget olivat osa Kuukauden ihmis kuntaa. Ne ovat enkelien elämänaallon jälkeenjääneitä ja liian kehit tyneitä voidakseen elää kiinteässä ruumiissa, mutta ne tarvitsivat ”si säisen” elimen tiedon hankkimiseksi. Lisäksi ne pystyivät toimimaan fyysisten aivojen kautta, mitä eivät enkelit eikä Jehova voineet tehdä. 
+
+Nämä henget menivät selkäytimeen ja aivoihin ja puhuivat nai selle, jonka mielikuvitus, kuten muualla on selitetty, oli kehittynyt lemurialaisen rodun harjoitusten avulla. Koska hänen tajuntansa pääasiallisesti oli sisäinen, hän näki kuvatajunnassaan ne käärmei nä, koska ne olivat kulkeneet hänen aivoihinsa käärmemäisen selkä ytimen kautta. 
 
 Naisten koulutukseen kuului seurata miesten tahdonvoiman ke hittämiseen valmentavia vaarallisia urotekoja ja taisteluja, ja näissä taisteluissa ruumis kuoli usein pakostakin. Näiden erikoisten asioi den hämärä tajuaminen herätti hänen mielikuvituksensa ihmettele mään, miksi hän näki näitä outoja asioita. Hän tiedosti niiden hen get, jotka olivat menettäneet ruumiinsa, mutta hänen epätäydellinen tietoisuutensa fyysisestä maailmasta ei sallinut hänen tunnistaa näitä ystäviä, joiden kiinteä ruumis oli tuhoutunut. 
 
@@ -2930,15 +2941,13 @@ Lankeaminen tietoiseen lisääntymistoimintaan oli välttämätöntä aivojen mu
 
 Ihmisestä tulee silloin todellinen luoja. Ei nykyajan hitaassa ja vaivalloisessa merkityksessä, vaan oikeita sanoja tai maagisia lauseita käyttämällä hän kykenee luomaan ruumiin. 
 
-DIAGRAM13!!!!!!!!!!!!! Kaavio 13 Sukupuolten esiintymisen alku ja loppu. 
-
 Kaikki, mikä ilmeni involuutiossa laskeutuvan ajanjakson kulu essa, pysyy, kunnes vastaava kohta evoluution nousevalla kaarella on saavutettu. Nykyiset lisääntymiselimet tulevat rappeutumaan ja sur kastumaan. Naisen elin heräsi ensin toimintaan erillisenä elimenä, ja sen lain mukaan, että ”ensimmäinen tulee olemaan viimeinen”, se surkastuu viimeiseksi. Miehen elin eriytyi viimeiseksi ja on jo nyt alkanut erota pois ruumiista. Kuvio 13 selvittää tämän. 
 
-## III OSA: IHMISEN TULEVA KEHITYS JA VIHKIMYS 
+<h2 id="part-3">III Osa: Ihmisen tuleva kehitys ja vihkimys</h2>
 
-### XV LUKU: KRISTUS JA HÄNEN TEHTÄVÄNSÄ 
+### <h3 id="chapter-15">XV Luku: Kristus ja hänen tehtävänsä</h3>
 
-#### Uskonnon kehitys 
+#### <h4 id="the-evolution-of-religion">Uskonnon kehitys</h4>
 
 Teoksen edellisessä osassa olemme perehtyneet siihen, kuinka ny kyinen maailma syntyi ja kuinka ihminen kehitti monimutkaisen elimistön, jolla hän on yhteydessä ympäristönsä kanssa. Olemme myös jossakin määrin tutkineet juutalaisten rotu-uskontoa. Seu raavaksi tutustumme viimeisimpään ja suurimpaan jumalalliseen toimenpiteeseen ihmiskunnan kohottamiseksi, ts. kristinuskoon, joka tulee olemaan yleismaailmallinen uskonto. 
 
