@@ -184,7 +184,7 @@ Oceanside, California, 91054, USA
     - [Correspondence Courses](#correspondence-courses)
     - [Ruusuristin symboliikka](#symbolism-of-the-rose-cross)
 - [Topical Index]()
-  - [Addendum A - Ruusuristiläisen kokelaan aamu- ja iltaharjoitukset](#addendum-a)
+  - [Addendum A: Ruusuristiläisen kokelaan aamu- ja iltaharjoitukset](#addendum-a)
   - [Concerning the Origin of the Fellowship Teachings]()
   - [Addendum B: Footnote to Chapter III](#addendum-b)
   - [Addendum C: Footnote to Chapter XIII (Regarding Race)](#addendum-c)
@@ -2999,7 +2999,7 @@ Onko ihmeteltävää, että ihmisten on vaikea toteuttaa tätä korkeaa aatetta,
 
 Jotkut hyvin edistyneet filosofit hylkäävät tämän opin ja pitävät seuraamuksen lakia tärkeimpänä. Jos lukija on samaa mieltä näiden filosofien kanssa, pyydämme häntä odottamaan selitystä, joka täs sä annetaan ja joka osoittaa, että kummatkin opit kuuluvat kehitys suunnitelmaan. Sanottakoon vain tältä erää, että sijaissovitusoppi antaa monelle hartaalle ihmiselle voimaa pyrkiä eteenpäin ja lankee muksista huolimatta auttaa saamaan alemman luonnon hallintaan sa. Muistettakoon, että syistä, jotka mainittiin jälleensyntymisen ja seuraamuksen lakeja tutkittaessa, länsimaalaiset eivät tienneet näistä juuri mitään. Nähdessään tämän valtavan Kristus-ihanteen silmien sä edessä ja uskoen, että heillä oli vain muutamia lyhyitä vuosia tuon korkean kehitysasteen saavuttamiseksi, eikö olisi ollut suurinta jul muutta jättää heidät ilman apua? Sen tähden Golgatan SUURI UHRI – joka palveli muitakin tarkoituksia, kuten tullaan näkemään – tulee totisesti toivon kipinäksi jokaiselle vakavalle sielulle, joka pyrkii saa vuttamaan mahdottoman, saavuttamaan Kristuksen uskonnon vaati man täydellisyyden yhdessä lyhyessä elämässä. 
 
-#### Jeesus ja Kristus-Jeesus 
+#### <h4 id="jesus-and-christ-jesus">Jeesus ja Kristus-Jeesus</h4>
 
 Päästäksemme edes jossakin määrin ymmärtämään suurta Golgatan mysteeriä ja Kristuksen tehtävää tulevan yleismaailmallisen uskon non perustajana on tarpeellista, että me ensin tutustumme hänen todelliseen luonteeseen ja samalla myös Jehovaan, joka on taolaisuu den, buddhalaisuuden, hindulaisuuden, juutalaisuuden ym. rotu uskontojen johtaja. Lisäksi sekä tulemme tuntemaan ”Isän”, jolle Kristus aikanaan antaa valtakunnan. 
 
@@ -3019,8 +3019,8 @@ Korkeimman Olennon toinen olemuspuoli ilmenee aineessa veto- ja kiinnevoimana an
 
 Näiden akselien eri kaltevuuskulmat ja niiden värähtely saivat kosmisen juuriolemuksen muodostamaan erilaisia yhdistelmiä, jot ka ovat seitsemän suuren kosmisen tason perusta. Jokaisella tasolla on erilainen akselikaltevuus ja värähtelynopeus, sen tähden jokaisel la tasolla vallitsee toisistaan eroavat olosuhteet ja yhdistelmät ”aino syntyisen” toiminnan johdosta. 
 
-DIAGRAM14!!!!!!!!!!!!!! Kaavio 14 Isä, Poika ja Pyhä Henki. 
 Kaavio 14 näyttää, että: 
+
 ”Isä” on Saturnuskauden ihmiskunnan korkein vihitty. Sen aikakauden ihmiset ovat nyt järjen herroja. 
 
 ”Poika” (Kristus) on Aurinkokauden korkein vihitty. Sen aikakauden ihmiset ovat nyt arkkienkeleitä. 
@@ -3069,7 +3069,7 @@ Kristus on ainoalaatuinen olento kaikissa seitsemässä maailmas sa. Ainoastaan 
 
 Tunnemme nyt Kristuksen luonteen. Hän on Aurinkokauden korkein vihitty ja otti Jeesuksen elollis- ja kiinteän ruumiin käyt töönsä voidakseen toimia suoraan fyysisellä tasolla ja olla ihmisenä ihmisten joukossa. Jos hänen ilmaantumisensa oli ollut suoranainen ihme, se olisi ollut vastoin kehitysjärjestelmää, koska atlantislaisen ajanjakson lopussa oli ihmiskunnalle annettu vapaus tehdä oikein tai väärin. Jotta ihmiset voisivat oppia hallitsemaan itseään, ei mitään pakkokeinoja voitu käyttää. Heidän täytyi tuntea hyvä ja paha ko kemuksen avulla. Tätä ennen heitä oli johdettu tahtomattaan, mutta nyt rotu-uskontojen alaisina he olivat saaneet vapauden, koska kukin uskonto soveltui tietyn heimon ja kansan tarpeisiin. 
 
-#### Ei rauhaa vaan miekan 
+#### <h4 id="not-peace-but-a-sword">Ei rauhaa vaan miekan</h4>
 
 Kaikki rotu-uskonnot ovat Pyhän Hengen antamia. Ne ovat puut teellisia, koska ne perustuvat lakiin, joka aiheuttaa syntiä ja tuottaa kuolemaa, kärsimystä ja surua. 
 
@@ -3089,9 +3089,9 @@ On kuitenkin huomionarvoista, että yhteiskunta tuntee tarvetta pyytää anteeks
 
 Maailma edistyy, ja esimerkiksi tämän teoksen kirjoittajan on ol lut verrattain helppo saada kuulijakuntaa näkökannoilleen eri kau pungeissa, joissa hän on luennoinut. Lisäksi päivälehdet ovat joskus uhranneet kokonaisia sivuja – jopa etusivujakin – hänen puheilleen, kun kysymyksessä ovat olleet korkeammat maailmat ja kuoleman jälkeiset olotilat. Tästä kaikesta huolimatta on ollut merkille panta vaa, että niin pian kuin aiheena on ollut yleismaailmallinen veljeys, hänen kirjoituksensa ovat aina päätyneet roskakoriin. 
 
-Maailma yleensä on erittäin haluton sallimaan mitään sellaista, mitä se pitää ”liian” epäitsekkäänä. Siinä täytyy olla ”jotakin takana”. Mitään ei pidetä luonnollisena, jos siinä ei ole ”hyötymisen mahdol lisuutta” lähimmäisten kustannuksella. Liiketoiminta on suunniteltu ja sitä johdetaan tämän periaatteen mukaan. Niiden mielissä, jotka haluavat koota turhaa rikkautta, aate yleismaailmallisesta veljeydes tä herättää kauheita kuvia kapitalismin ja siihen väistämättä liitty vän toisten hyväksikäytön loppumisesta, mistä seuraisi tuho ”liike maailman intresseille”. Sana ”orjuutettu” kuvaa tarkasti tätä tilaa. Raamatun mukaan ihmisen tulisi hallita maailmaa, mutta useim missa tapauksissa totuus onkin päinvastainen – maailma hallitsee ihmistä. Jokainen ihminen, jolla on omaisuutta, myöntää, että siitä on hänelle ainaista huolta ja että hänen täytyy aina miettiä, kuinka hän voisi säilyttää omaisuutensa tai edes huolehtia siitä niin, ettei sitä häneltä riistettäisi ”petoksella”. Sillä hän tietää, että myös toiset jatkuvasti laativat suunnitelmia ajaakseen omaa etuaan. Ihminen on sen orja, jota hän tietämättömyyden ironiassa kutsuu ”omaisuudek seen”, kun todellisuudessa se omistaa hänet. Concorden viisas29 sanoi osuvasti: ”Asiat ovat satulassa ja ratsastavat ihmiskunnalla.” 
+Maailma yleensä on erittäin haluton sallimaan mitään sellaista, mitä se pitää ”liian” epäitsekkäänä. Siinä täytyy olla ”jotakin takana”. Mitään ei pidetä luonnollisena, jos siinä ei ole ”hyötymisen mahdol lisuutta” lähimmäisten kustannuksella. Liiketoiminta on suunniteltu ja sitä johdetaan tämän periaatteen mukaan. Niiden mielissä, jotka haluavat koota turhaa rikkautta, aate yleismaailmallisesta veljeydes tä herättää kauheita kuvia kapitalismin ja siihen väistämättä liitty vän toisten hyväksikäytön loppumisesta, mistä seuraisi tuho ”liike maailman intresseille”. Sana ”orjuutettu” kuvaa tarkasti tätä tilaa. Raamatun mukaan ihmisen tulisi hallita maailmaa, mutta useim missa tapauksissa totuus onkin päinvastainen – maailma hallitsee ihmistä. Jokainen ihminen, jolla on omaisuutta, myöntää, että siitä on hänelle ainaista huolta ja että hänen täytyy aina miettiä, kuinka hän voisi säilyttää omaisuutensa tai edes huolehtia siitä niin, ettei sitä häneltä riistettäisi ”petoksella”. Sillä hän tietää, että myös toiset jatkuvasti laativat suunnitelmia ajaakseen omaa etuaan. Ihminen on sen orja, jota hän tietämättömyyden ironiassa kutsuu ”omaisuudek seen”, kun todellisuudessa se omistaa hänet. Concorden viisas (29) sanoi osuvasti: ”Asiat ovat satulassa ja ratsastavat ihmiskunnalla.” 
 
-29 Ralph Waldo Emerson – Suom. huom. 
+() - (29) Ralph Waldo Emerson – Suom. huom. 
 
 Tämä tilanne on rotu-uskontojen ja niiden lakijärjestelmän tulos ta, sen tähden ne kaikki odottavat häntä, ”joka on tuleva”. AINOAS TAAN kristinusko ei odota häntä, joka tulee, vaan häntä, joka tulee uudestaan. Toisen tulemisen aika riippuu siitä, milloin kirkko pääsee vapautumaan valtiosta. Varsinkin Euroopassa kirkko on sidottu val tion rattaisiin. Papit ovat kahlittuja taloudellisiin ratkaisuihin eivätkä he uskalla julistaa niitä totuuksia, joita heidän tutkimuksensa ovat heille paljastaneet. 
 
@@ -3107,12 +3107,14 @@ Näennäinen ristiriita on myös naisen sanojen ja hänen toimiensa välillä, k
 
 Samoin on pidettävä mielessä, että aika, joka on kulunut siitä, kun Kristus Jeesus tuli, on vain hetki verrattuna yhteenkään luomis päivään. Niin kuin Whitman meidän täytyy oppia ”tuntemaan ajan vaihteluväli” ja suunnata katse sotivien lahkojen menneiden ja ny kyisten julmuuksien ja kademielen ohi kohti loistavaa yleismaail mallista veljeyttä, joka on seuraava suuri askel ihmisen kehitykses sä tällä pitkällä, ihmeellisellä matkalla savikokkareesta Jumalaksi, protoplasmasta itsetietoiseen yhteyteen Isän kanssa, siihen 
 
-    ...kaukaiseen jumalalliseen tapahtumaan,    
-    jota kohti koko luomakunta liikkuu.    
+```
+...kaukaiseen jumalalliseen tapahtumaan,    
+jota kohti koko luomakunta liikkuu.    
+```
 
 Voidaan lisätä, että edellä mainittu pappi, ottaessaan oppilaansa kirkon yhteyteen, opetti heille, että Jeesus Kristus oli yhdistetty olen to, että Jeesus oli kuolevainen, inhimillinen osa, mutta Kristus oli jumalallinen, kuolematon henki. Oletettavasti, jos asiasta olisi kes kusteltu hänen kanssaan, tuskinpa hän olisi itse kannattanut lausun toaan. Joka tapauksessa hän lausui salatieteellisen totuuden. 
 
-#### Betlehemin tähti 
+#### <h4 id="the-star-of-bethlehem">Betlehemin tähti</h4>
 
 Kristuksen yhdistävä vaikutus Jumalan palvontaan on kuvattu kau niisti tarussa Itämaan tietäjistä, ja sama tarina on taitavasti punottu kenraali Lew Wallacen lumoavassa kirjassa ”Ben Hur”. 
 
@@ -3122,24 +3124,26 @@ Betlehemin tähden on sanottu ilmestyneen Jeesuksen syntymän aikaan ja johtanee
 
 On paljon esitetty arveluja tuon tähden luonteesta. Useimmat materialistiset tiedemiehet pitävät sitä myyttinä. Toiset sanovat, että jos se on jotakin muuta kuin myytti, se on saattanut olla ”sattuma” – kaksi kuollutta aurinkoa olisi voinut törmätä yhteen ja aiheuttaa valoilmiön. Jokainen mystikko kuitenkin tietää, että ”tähti” ja ”risti” eivät ole ainoastaan vertauskuvia Jeesuksen ja Kristus Jeesuksen elä mästä, vaan ovat hänen omia persoonallisia kokemuksiaan. Paavali sanoo: ”Kunnes Kristus saa muodon teissä” – ja mystikko Angelus Silesius: 
 
-    Jos Kristus tuhat kertaa Betlehemiin sais,    
-    mut ei sun sydämees, se sua ei vapahtais;    
-    luot katseesi turhaan kohti Golgataa,    
-    tuo risti itsessäsi ellei nousta saa.30    
+Jos Kristus tuhat kertaa Betlehemiin sais,    
+mut ei sun sydämees, se sua ei vapahtais;    
+luot katseesi turhaan kohti Golgataa,    
+tuo risti itsessäsi ellei nousta saa. (30)    
 
-30 Suom. Jussi Snellman. 
+() - (30) Suom. Jussi Snellman. 
 
 Richard Wagner ilmaisee taiteilijan intuitiivista tietoa, kun Gur nemanz vastaa Parsifalin kysymykseen ”Kuka on Graal” seuraavasti: 
 
-    On salaisuus;    
-    Vaan kuullut jos oot kutsuansa,    
-    saat täyden tiedon aikanansa.    
-    Ja kas! Mä sinut tunnen tosiaan:    
-    Ei luokseen vie tie ainutkaan,    
-    ei sitä kenkään käydä voisi,    
-    Hän itse ellei opas oisi.31    
+```
+On salaisuus;    
+Vaan kuullut jos oot kutsuansa,    
+saat täyden tiedon aikanansa.    
+Ja kas! Mä sinut tunnen tosiaan:    
+Ei luokseen vie tie ainutkaan,    
+ei sitä kenkään käydä voisi,    
+Hän itse ellei opas oisi. (31)    
+```
 
-31 Suom. Jussi Snellman. 
+() - (31) Suom. Jussi Snellman. 
 
 ”Vanhan liiton” aikana vihkimyksen tie ei ollut avoin. Se oli va rattu vain harvoille ja valituille. Jotkut saattoivat etsiä tietä, mutta vain ne, joita hierofantit johtivat temppeleihin, pääsivät sisälle. En nen Kristuksen tuloa ei lausuttu sellaista yleistä kutsua kuin ”kuka ikinä haluaa saa tulla”. 
 
@@ -3175,7 +3179,7 @@ Nykyisin on pyrkimys toiseen äärimmäisyyteen – korottaa ”it sensä” yli
 
 Kehitysvaihe, jossa jokainen ihminen tuntee itsensä ehdottomasti erilliseksi yksiköksi, egoksi, joka riippumattomana voi seurata omaa tietään, on välttämätön vaihe. Kansallis-, heimo- ja sukuyhteys on ensin hajotettava ennen kuin yleismaailmallinen veljeys voi toteu tua. Yksilön oma valta on enimmäkseen syrjäyttänyt valtiollisen holhousvallan. Näemme tästä johtuvia vahingollisia seurauksia sitä enemmän, mitä pitemmälle sivistyksemme edistyy. Epäjärjestelmäl linen tapamme jakaa työn tulokset harvojen saaliinhimoisten käsiin toisten kustannuksella on niitä yhteiskunnallisia rikoksia, jotka aihe uttavat puutetta, teollisuuden lamaa, työselkkauksia ja sisäisen rau han hajoamista. Nykyinen kauppasota on paljon kauaskantoisempi ja tuhoisampi kuin kansojen väliset aseelliset sodat. 
 
-#### Sydän, poikkeuksellinen elin 
+#### <h4 id="the-heart-as-an-anomaly">Sydän, poikkeuksellinen elin</h4> 
 
 Ei mikään opetus, vaikka sen totuudenmukaisuus pintapuolisesti hyväksytäänkin, ole minkään arvoinen toimivana elämänohjeena, ennen kuin sydän on oppinut sen kaipauksen ja kyynelien kautta. Totuus, joka ihmisen täytyy näin oppia, on se, että mikä ei ole hyö dyllinen kaikille, ei koskaan voi todella olla hyödyksi kenellekään. Lähes 2000 vuotta olemme heikosti huulillamme tunnustaneet, että elämäämme tulisi hallita sellaiset ohjeet kuten ”palkitse paha hyväl lä”. Sydän kehottaa myötätuntoon ja rakkauteen, mutta järki vaatii sotaisia ja kostavia toimenpiteitä, tai vaikka ei suoranaista kostoa, niin ainakin keinoja uusien hyökkäysten estämiseksi. Tämä järjen ja sydämen ero toisistaan estää todellisen yleismaailmallisen veljeyden kasvua ja Kristuksen – rakkauden herran – opetusten omaksumista. 
 
@@ -3233,7 +3237,7 @@ Sydämen poikkisäikeitä voidaan muodostaa tietyillä henkisillä harjoituksill
 
 Kuten tämän luvun alussa sanottiin, kaikki, jotka vakavasti halu avat korkeampaa tietoa, voivat olla varmoja siitä, että jos he todella etsivät, he löytävät tien avoinna edessään. Kristus itse valmisti tien ”jokaiselle joka haluaa”. Hän auttaa ja lausuu tervetulleeksi jokaisen todellisen etsijän, joka haluaa työskennellä yleismaailmallisen vel jeyden puolesta. 
 
-#### Golgatan mysteerio 
+#### <h4 id="the-mystery-of-golgotha">Golgatan mysteerio</h4>
 
 Kuluneiden 2000 vuoden aikana on puhuttu paljon ”puhdistavasta verestä”. Saarnatuoleista Kristuksen veri on julistettu varmimmaksi parannuskeinoksi syntiä vastaan, ainoaksi lunastuksen ja vapahduk sen lunnaaksi. 
 
@@ -3245,7 +3249,9 @@ Teoriassa aika ei merkitse mitään. Jotkut voivat jäädä jälkeen niin paljon
 
 Tavallisessa kehityksessä jälleensyntymisen ja seuraamuksen lait ovat täysin riittävät tuomaan suurimman osan elonaallosta täydel lisyyteen, mutta ne eivät ole riittäviä auttamaan eri rotujen jälkeen jääneitä. Yksilöllisyyden vaiheen aikana, jolloin erillisyyden harha on huipussaan, koko ihmiskunta tarvitsee ylimääräistä apua, mutta jälkeenjääneille on annettava vielä erityistä lisäapua. 
 
-Kristuksen tehtävänä oli antaa tämä erikoisapu jälkeenjääneille, pelastaa heidät. Hän sanoi tulleensa etsimään ja pelastamaan kado tetut. Hän avasi tien vihkimykseen kaikille, jotka halusivat sitä etsiä. Sijaissovituksen vastustajat tähdentävät, että on pelkurimaista piiloutua toisen taakse ja että jokaisen ihmisen pitäisi vapaaehtoisesti ottaa vastuu teoistaan. 
+Kristuksen tehtävänä oli antaa tämä erikoisapu jälkeenjääneille, pelastaa heidät. Hän sanoi tulleensa etsimään ja pelastamaan kado tetut. Hän avasi tien vihkimykseen kaikille, jotka halusivat sitä etsiä. 
+
+Sijaissovituksen vastustajat tähdentävät, että on pelkurimaista piiloutua toisen taakse ja että jokaisen ihmisen pitäisi vapaaehtoisesti ottaa vastuu teoistaan. 
 
 Ottakaamme esille vertauskuvallinen tapaus. Suurten järvien ve det kapenevat Niagara-jokeen. Kahdenkymmenen mailin matkan tämä suunnaton vesimäärä virtaa nopeasti vesiputouksia kohden. Joen-uoma on täynnä kiviä, ja jos ihminen joutuu virtaan eikä me netä henkeään näissä kuohuissa ennen vesiputousta, hän varmasti tekee sen viimeistään putouksessa. 
 
@@ -3287,7 +3293,7 @@ Kristus Jeesus saavutti tämän asteen Kirkastusvuorella. Kaikkein merkittävint
 
 Tulla surmatuksi on aivan eri asia kuin kuoleminen. Veren, joka on ollut rotuhengen käyttöväline, täytyi virrata ja puhdistua tästä saastuttavasta vaikutuksesta. Sellainen rakkaus omaan isään ja äitiin, joka erottaa kaikki muut isät ja äidit, täytyy hävitä – muuten ei yleis maailmallinen veljeys ja kaikkia käsittävä epäitsekäs lähimmäisen rakkaus voi koskaan tulla todellisuudeksi. 
 
-#### Puhdistava veri 
+#### <h4 id="the-cleansing-blood">Puhdistava veri</h4>
 
 Kun Vapahtaja, Kristus Jeesus ristiinnaulittiin, hänen ruumiinsa lä vistettiin viidestä kohdasta, joissa elollisruumiin pyörteet virtaavat, ja orjantappurakruunun piikit aiheuttivat verenvuodon kuudennes ta keskuksesta. (Tämä viittaus annetaan niille, jotka jo tuntevat nämä pyörteet. Täyttä selitystä ei vielä voida antaa julkisesti.) 
 
@@ -3319,46 +3325,45 @@ Vanhemmat veljet, Jeesus heidän joukossaan, ovat yrittäneet ja yrittävät yh�
 
 Olkoon heidän ponnistelunsa kruunattu hyvillä tuloksilla ja tul koon pian se päivä, jolloin nykyajan tiede tulee henkistymään ja al kaa tutkia ainetta henkiseltä kannalta, koska silloin ja vasta silloin se saavuttaa todellisen ymmärryksen maailmasta. 
 
-DIAGRAM14a!!!!!!!!!!!! Kaavio 14 a ”Niin ylhäällä kuin alhaalla.” 
+### <h3 id="chapter-16">XVI Luku: Tuleva kehitys ja vihkimys</h3>
 
-Samat lait hallitsevat maailmaa, ihmistä ja atomia. Kiinteä maapallomme on nyt neljännessä tiivistymisen asteessa. Mieli, tunneruumis ja elollisruumis ei vät ole niin tiheitä kuin neljäs käyttövälineemme, kiinteä ruumis. Kemiallisten elementtien atomipainojen kohdalla on samanlainen järjestys. Neljäs ryhmä osoittaa tiheyden huippukohdan. 
-
-### XVI LUKU: TULEVA KEHITYS JA VIHKIMYS 
-
-#### Seitsemän luomispäivää 
+#### <h4 id="the-seven-days-of-creation">Seitsemän luomispäivää</h4>
 
 Ruusuristiläiset sanovat Maakautta Mars-Merkuriuskaudeksi. Tämä suuri luomisen päivä on sisällytetty viikonpäivien nimiin, sillä viikonpäivämme on nimetty kehitysvaiheiden mukaan, joiden kaut ta neitseelliset henget kulkevat pyhiinvaellusmatkallaan aineessa. 
 
-Päivä32 Vastaa Sitä hallitsee 
-Saturday (lauantai)................ Saturnuskautta............................. Saturnus 
-Sunday (sunnuntai)...............Aurinkokautta.............................. Aurinko 
-Monday (maanantai)............ Kuukautta..................................... Kuu 
-Tuesday (tiistai)..................... Maakauden alkupuoliskoa......... Mars 
-Wednesday (keskiviikko)..... Maakauden loppupuoliskoa....... Merkurius 
-Thursday (torstai).................. Jupiterkautta................................. Jupiter 
-Friday (perjantai).................. Venuskautta.................................. Venus 
+| Päivä (32)              | Vastaa                   | Sitä hallitsee |
+| ----------------------- | ------------------------ | -------------- |
+| Saturday (lauantai)     | Saturnuskautta           | Saturnus       |
+| Sunday (sunnuntai)      | Aurinkokautta            | Aurinko        |
+| Monday (maanantai)      | Kuukautta                | Kuu            |
+| Tuesday (tiistai)       | Maakauden alkupuoliskoa  | Mars           |
+| Wednesday (keskiviikko) | Maakauden loppupuoliskoa | Merkurius      |
+| Thursday (torstai)      | Jupiterkautta            | Jupiter        |
+| Friday (perjantai)      | Venuskautta              | Venus          |
 
-32 Viikonpäiville on jätetty englanninkieliset nimet, koska ne muistuttavat useissa muissa eurooppalaisissa kielissä käytettyjä. Jotkut suomenkielisistä ni mistä ovat toisten kielten johdannaisia. – Suom. huom. 
+() - (32) Viikonpäiville on jätetty englanninkieliset nimet, koska ne muistuttavat useissa muissa eurooppalaisissa kielissä käytettyjä. Jotkut suomenkielisistä ni mistä ovat toisten kielten johdannaisia. – Suom. huom. 
 
 Vulkanuskausi on viimeinen aikakausi kehitysjärjestelmässämme. Kaikkien edellisten aikakausien olennaisin osa irrotetaan, ja se tois tuu spiraali spiraalin jälkeen. Uutta työtä ei aloiteta ennen kuin vii meisen pallon viimeisen kierroksen aikana, ja silloinkin vasta seit semännellä aikakaudella. Vulkanuskauden voidaan sanoa vastaavan viikkoa, joka sisältää kaikki seitsemän päivää. 
 
 Astrologien väite, että viikonpäiviä hallitsee tietty planeetta, jonka mukaan ne ovat saaneet nimensä, on hyvin perusteltu. Antiikin kan soille nämä salatieteelliset asiat olivat tuttuja, kuten ilmenee heidän jumaltaruistaan, joissa jumalten nimet yhdistetään viikonpäiviin. Saturday (lauantai) on yksinkertaisesti Saturnuksen päivä. Sunday (sunnuntai) vastaa aurinkoa ja monday (maanantai) kuuta. Latinaksi tiistai on ”Dies Martis”, joka selvästi viittaa Marsiin, sodan jumalaan. Tuesday (tiistai) on peräisin sanasta ”Tirsdag”, ”Tir” eli ”Tyr”, joka oli pohjan kansojen sodanjumalan nimi. Wednesday (keskiviikko) oli ”Wotensdag” Wotenista, joka myös oli pohjan kansojen jumala; latinaksi sitä kutsutaan ”Dies Mercurii”, josta ilmenee yhteys Merku riukseen, kuten listasta näkyy. 
 
-Thursday (torstai) eli ”Thorsdag” on omistettu ”Thorille”, Poh jolan kansojen ukkosen jumalalle. Latinaksi sitä kutsutaan ”Dies Jovis” ukkosen jumalan, ”Jovesin eli Jupiterin”, mukaan. Friday (per jantai) on nimetty pohjan kansojen kaunottaren ”Freyan” mukaan, ja samoista syistä latinalaiset kutsuvat sitä ”Dies Veneris”, Venuksen päivä. 
+Thursday (torstai) eli ”Thorsdag” on omistettu ”Thorille”, Poh jolan kansojen ukkosen jumalalle. Latinaksi sitä kutsutaan ”Dies Jovis” ukkosen jumalan, ”Jovesin eli Jupiterin”, mukaan. 
+
+Friday (per jantai) on nimetty pohjan kansojen kaunottaren ”Freyan” mukaan, ja samoista syistä latinalaiset kutsuvat sitä ”Dies Veneris”, Venuksen päivä. 
 
 Aikakausien nimillä ei ole mitään tekemistä fyysisten planeetto jen kanssa, vaan ne viittaavat menneisiin, nykyisiin ja tuleviin Maan inkarnaatioihin. Käyttäen hermeettistä aksiomaa ”niin ylhäällä kuin alhaalla” täytyy makrokosmoksellakin olla ruumiillistumansa sa moin kuin mikrokosmoksella, ihmisellä. 
 
 Salatiede opettaa, että on olemassa 777 ruumiillistumaa, mutta tämä ei tarkoita, että maapallo menee läpi 777 muodonvaihdosta. Se tarkoittaa, että kehittyvä elämä tekee 
 
-    7 kierrosta    
-    7 pallolla   
-    7 Maan aikakaudella.   
+```
+7 kierrosta    
+7 pallolla   
+7 Maan aikakaudella.   
+```
 
 Tämä pyhiinvaellusmatka, involuutio ja evoluutio sekä vihki myksen ”oikotie”, kuvataan Caduceuksessa eli ”Merkuriuksen sau vassa” (ks. kaavio 15), joksi sitä kutsutaan, koska tämä salatieteel linen symboli kuvaa vihkimysten tietä, joka on ollut avoin ihmisille vasta Maakauden Merkurius-puoliskon alusta. Joitakin pienempiä mysteerioita opetettiin muinaisille lemurialaisille ja atlantislaisille lukuun ottamatta neljää suurta vihkimystä. 
 
 Musta käärme kaaviossa 15 kuvaa kiemurtelevaa aaltomaista in voluution polkua sisältäen Saturnus-, Aurinko- ja Kuukaudet sekä Maakauden Mars-puoliskon, joiden aikana kehittyvä elämä muodosti käyttövälineensä. Se ei ollut täysin hereillä eikä selvästi tietoinen ulkoisesta maailmasta ennen kuin vasta atlantislaisen ajanjakson loppupuolella. 
-
-DIAGRAM15!!!!!!!!!!!!!!! Kaavio 15: Merkuriuksen sauvan symboliikka. 
 
 Valkoinen käärme kuvaa sitä tietä, jota ihmiskunta kulkee Maakauden Merkurius puoliskon aikana sekä Jupiter-, Venus- ja Vulkanuskausien kuluessa, joiden aikana ihmisen tajunta laajenee kaikkitietäväksi luovaksi älyksi. 
 
@@ -3381,22 +3386,22 @@ Nykyisessä eläinkunnassa on samankaltainen jaottelu, jota voi daan seurata muo
 Eläintieteilijä Georges Cuvier oli ensimmäinen, joka jakoi eläin kunnan neljään pääluokkaan, mutta ei oikein onnistunut alaluo kittelussaan. Embryologi Karl Ernst von Baer ja professori Agassis sekä eräät muut tiedemiehet jakavat eläinkunnan neljään pää- ja kolmeentoista alaluokkaan seuraavasti: 
 
 I Piikkinahkaiset    
-1. Polyypit, merivuokot ja korallit    
-2. Likoeläimet eli meduusat    
-3. Meritähdet, meripiikkiäiset    
+    1\. Polyypit, merivuokot ja korallit    
+    2\. Likoeläimet eli meduusat    
+    3\. Meritähdet, meripiikkiäiset    
 II Nilviäiset    
-4. Simpukat ym.    
-5. Kotilot    
-6. Mustekalat    
+    4\. Simpukat ym.    
+    5\. Kotilot    
+    6\. Mustekalat    
 III Niveljalkaiset    
-7. Madot    
-8. Äyriäiset ym.    
-9. Hyönteiset    
+    7\. Madot    
+    8\. Äyriäiset ym.    
+    9\. Hyönteiset    
 IV Selkärankaiset    
-10. Kalat    
-11. Matelijat    
-12. Linnut    
-13. Nisäkkäät    
+    10\. Kalat    
+    11\. Matelijat    
+    12\. Linnut    
+    13\. Nisäkkäät    
 
 Kolme ensimmäistä luokkaa vastaavat Maakauden kolmea jäljellä olevaa Merkurius-puoliskon kierrosta ja niiden 9 askelta vastaavat pienempien mysteerien 9 astetta, jotka ihmiskunta kokonaisuu dessaan saavuttaa Maakauden tultua viimeisen kierroksensa keski vaiheille. 
 
@@ -3418,7 +3423,7 @@ Venuskauden lopussa hän osaa käyttää omia voimiaan antaak seen kuvilleen el�
 
 Hyvin vähän voidaan sanoa korkeasta henkisestä tajunnasta, joka saavutetaan Vulkanuskauden aikana. Se on täysin nykyisen käsityskykymme yläpuolella. 
 
-#### Spiraalit spiraaleissa 
+#### <h4 id="spirals-within-spirals">Spiraalit spiraaleissa</h4>
 
 Ei tule olettaa, että nämä tajunnan asteet alkavat sen aikakauden alussa, johon ne kuuluvat, ja kestävät sen loppuun. Kertaamista ta pahtuu koko ajan ja siksi on oltava vastaavia tajunnan tiloja ylene vässä asteikossa. Jokaisen aikakauden Saturnuskierros, joka tapahtuu A-pallolla, ja jokaisen pallon ensimmäinen ajanjakso ovat Saturnus kauden kehitysasteiden kertaamista. Aurinkokierros, joka tapahtuu B-pallolla, ja jokaisen pallon toinen ajanjakso ovat Aurinkokauden kertaamista ja niin edelleen jokaisella aikakaudella. Tästä näemme, että jokaisen aikakauden erityisominaisuus ei ala kehittyä ennen kuin kaikki kertaamiset ovat tapahtuneet. Maakauden valvetajunta alkoi kehittyä neljännellä pallolla (D) sen neljännellä kierroksella eli atlantislaisella ajanjaksolla. 
 
@@ -3430,19 +3435,19 @@ Aika, joka vaaditaan näiden aikakausien läpi kulkemiseen, vaihtelee suuresti. 
 
 Eri aikakausien tajunnantilat voidaan taulukoida seuraavasti: 
 
-Ajanjakso Vastaava tajunnantila    
-Saturnus........... Tajuttomuus, vastaa syvää transsitilaa    
-Aurinko............ Tajuttomuus, muistuttaa unetonta nukkumista    
-Kuu................... Kuvatajunta, vastaa meidän unitajuntaamme    
-Maa.................. Valvetajunta, ulkokohtainen tajunnantila    
-Jupiter.............. Itsetietoinen kuvatajunta    
-Venus............... Objektiivinen, itsetietoinen ja luova tajunta    
-Vulkanus.......... Korkein henkinen tajunta    
-
+| Ajanjakso | Vastaava tajunnantila                         |
+| --------- | --------------------------------------------- |
+| Saturnus  | Tajuttomuus, vastaa syvää transsitilaa        |
+| Aurinko   | Tajuttomuus, muistuttaa unetonta nukkumista   |
+| Kuu       | Kuvatajunta, vastaa meidän unitajuntaamme     |
+| Maa       | Valvetajunta, ulkokohtainen tajunnantila      |
+| Jupiter   | Itsetietoinen kuvatajunta                     |
+| Venus     | Objektiivinen, itsetietoinen ja luova tajunta |
+| Vulkanus  | Korkein henkinen tajunta                      |
 
 Olemme nyt yleisluonteisesti käyneet läpi tajunnan tilat, jotka tullaan kehittämään seuraavien kolmen ja puolen aikakauden aika na. Seuraavaksi tutkimme, kuinka ne saavutetaan. 
 
-#### Alkemia ja sielun kasvu 
+#### <h4 id="alchemy-and-soul-growth">Alkemia ja sielun kasvu</h4>
 
 Kiinteä ruumis sai alkunsa Saturnuskaudella. Aurinko- ja Kuu kausien aikana siinä tapahtui useita muutoksia, ja korkeimman kehitysasteensa se tulee saavuttamaan Maakaudella. 
 
@@ -3482,13 +3487,9 @@ Tunnesielu kasvaa toiminnan ja kokemusten aiheuttamien tun teiden ja mielialojen
 
 Involuution aikana henki edistyi muodostamalla ruumiita, mut ta kehityksen edistyminen riippuu sielun kehittymisestä – ruumii den muuttumisesta sieluksi. Sielu on niin sanoaksemme ruumiin ydinolemus, sen voima ja kyvyt. Kun ruumis on rakennettu täydel liseksi näiden vaiheiden ja aikakausien aikana, sielu irrotetaan siitä kokonaan ja se sulautetaan yhteen hengen kolmesta osasta, hengen, joka sen alkujaan loi, joten: 
 
-Tietoinen sielu sulautuu jumalalliseen henkeen Jupiterkauden seitsemännellä kierroksella. 
+Tietoinen sielu sulautuu jumalalliseen henkeen Jupiterkauden seitsemännellä kierroksella. Älysielu sulautuu elämänhenkeen Venuskauden kuudennella kier roksella. Tunnesielu sulautuu ihmisen henkeen Vulkanuskauden viiden nellä kierroksella. 
 
-Älysielu sulautuu elämänhenkeen Venuskauden kuudennella kier roksella. 
-
-Tunnesielu sulautuu ihmisen henkeen Vulkanuskauden viiden nellä kierroksella. 
-
-#### Luova sana 
+#### <h4 id="the-creative-word">Luova sana</h4>
 
 Järki on hengen tärkein välikappale ja luomistyössä sen käyttämä erikoistyöväline. Henkevöitynyt ja täydellinen kurkunpää ilmaisee luovan Sanan, mutta täydellinen järki päättää värähtelyjen muodon ja määrän ollen siten ratkaiseva tekijä. Mielikuvitus tulee olemaan henkevöitynyt kyky, joka ohjaa luomistyötä. 
 
@@ -3524,9 +3525,9 @@ Ihmisen henki sulautuu jumalalliseen henkeen Jupiterkauden lo pussa, elämänhen
 
 Tämän jälkeen seuraa pitkä subjektiivisen toiminnan aika, jol loin neitseellinen henki omaksuu kaikkien seitsenkertaisten aika kausien ilmennysten hedelmät. Sitten se liittyy Jumalaan, josta se on lähtöisin ilmestyäkseen taas uudelleen yhtenä Hänen loistavista auttajistaan uuden luomispäivän aamuna. Menneen kehityskauden aikana uinuvat mahdollisuudet ovat muuttuneet dynaamisiksi voi miksi. Neitseellinen henki on saavuttanut sielunvoiman ja luovan järjen tuloksena aineen läpi kulkevasta pyhiinvaellusmatkastaan. Se on kehittynyt kykenemättömyydestä kaikkivaltiuteen ja tietämät tömyydestä kaikkitietoisuuteen. 
 
-### XVII LUKU: KOKEMUSPERÄISEN TIEDON HANKKIMINEN 
+### <h3 id="chapter-17">XVII Luku: Kokemusperäisen tiedon hankkiminen</h3>
 
-#### Ensimmäiset askeleet 
+#### <h4 id="the-first-steps">Ensimmäiset askeleet</h4> 
 
 Aika on nyt kypsynyt, jolloin jokainen voi itse tutkia kaikkia näitä asioita, joita olemme opiskelussamme käsitelleet tähän saakka. Kuten alussa sanottiin, kenellekään ei ole suotu mitään erityisiä ”lahjoja”. Kaikki voivat löytää omakohtaisesti totuuden sielun pyhiinvaellus matkasta, menneistä kehityskausista ja maailman tulevasta kohta losta, eikä kenenkään ole pakko turvautua toisten näkemyksiin. On olemassa menetelmä, jonka avulla tämä arvokas kyky voidaan saa vuttaa ja jonka kautta vilpitön tutkija voi tehdä omia tutkimuksiaan yliaistillisissa maailmoissa. Tämän menetelmän avulla, jos sitä kärsi vällisesti seurataan, voidaan kehittää jumalallisia voimia. 
 
@@ -3592,7 +3593,7 @@ Ympäri maailmaa vanhat holhoushallitusten järjestelmät ovat muuttumassa. Kans
 
 Nämä ovat ne hitaat keinot, joilla ihmiskuntaa puhdistetaan, mutta henkilö joka pyrkii korkeampaan tietoon, työskentelee tietoi sesti saman päämäärän saavuttamiseksi tiettyjen harjoitusten avulla, rakenteensa mukaan. 
 
-#### Länsimaisia keinoja länsimaisille kansoille 
+#### <h4 id="western-methods-for-western-people">Länsimaisia keinoja länsimaisille kansoille</h4>
 
 Intiassa käytetään tiettyjä menetelmiä eri joogajärjestelmien mu kaan. Jooga merkitsee yhtymistä, ja niin kuin lännessäkin kokelaan pyrkimyksenä on yhtyminen korkeampaan itseen, mutta mene telmien täytyy olla erilaisia, jotta ne olisivat tehokkaita. Hindujen käyttövälineet ovat aivan eri tavoin muodostuneet kuin valkoihois ten. Hindut ovat eläneet monien tuhansien vuosien ajan erilaisessa ympäristössä ja ilmastossa kuin me. He ovat noudattaneet toisen laista ajattelutapaa ja kulttuuria, jotka huolimatta hyvin korkeas ta asteestaan ovat vaikutukseltaan aivan erilaisia kuin meidän. Sen tähden meidän on hyödytöntä omaksua heidän menetelmiään, jotka tosin ovat korkeimpien salatieteen tietojen mukaisia ja heille täysin sopivia, mutta yhtä sopimattomia länsimaalaisille kuin kauraruoka leijonalle. 
 
@@ -3602,9 +3603,9 @@ Kaikki okkulttiset koulut jakautuvat seitsemään ryhmään, kuten elämän ”s
 
 Ehkäpä jos vertaamme näitä seitsemää sädettä seitsemään sateen kaaren väriin, niiden suhde toisiinsa voidaan ymmärtää paremmin. Jos esimerkiksi punainen säde yhtyisi vihreään, syntyisi epäsointu. Sama periaate pätee henkisyydessä. Jokaisen täytyy kulkea sen ryhmän kanssa, johon hän kuuluu, ja kuitenkin kaikki ovat yhtä. Valkoinen valo sisältää kaikki värit, mutta ilmakehämme erottava ominaisuus näyttää jakavan sen seitsemään väriin. Samalla tavalla konkreettisen olemassaolon illuusio näyttää jakavan neitseelliset hengetkin eri ryhmiin, ja tämä ryhmitys jatkuu niin kauan kuin olemme tässä tilassa. 
 
-Ruusuristiläinen järjestö perustettiin erityisesti niitä varten, jotka korkean älyllisen kehityksensä johdosta torjuivat sydämen tien. Jär ki vaatii ehdottomasti loogisen selityksen kaikkeen – olemassaolon mysteeriin, elämän ja kuoleman kysymyksiin. Olemassaolon syyt ja modus operandi33, jäivät vaille selitystä, sillä kirkko määräsi, että ”Jumalan salaisuuksia ei saa tutkia”. 
+Ruusuristiläinen järjestö perustettiin erityisesti niitä varten, jotka korkean älyllisen kehityksensä johdosta torjuivat sydämen tien. Jär ki vaatii ehdottomasti loogisen selityksen kaikkeen – olemassaolon mysteeriin, elämän ja kuoleman kysymyksiin. Olemassaolon syyt ja modus operandi (33), jäivät vaille selitystä, sillä kirkko määräsi, että ”Jumalan salaisuuksia ei saa tutkia”. 
 
-33 Toiminnan tapa. – Suom. huom. 
+() - (33) Toiminnan tapa. – Suom. huom. 
 
 Jokaiselle henkilölle, joka on siunattu tällaisella kyselevällä mielellä, on arvaamattoman tärkeää saada kaikki se tieto, jota hän kaipaa, jotta sydän voisi puhua pään ollessa hiljaa. Älyllinen tieto on vain keino päämäärän saavuttamiseen, ei itse päämäärä. Niin pä ruusuristiläisyyden tarkoitus on ennen kaikkea tyydyttää tietoa janoavan mieli sillä tiedolla, että kaikki maailmankaikkeudessa on järkeenkäypää, ja näin voittaa puolelleen kapinoiva järki. Kun se on lakannut arvostelemasta ja on valmis pitämään väliaikaisesti tiettyjä selityksiä todennäköisinä, vaikka niitä ei välittömästi voidakaan to distaa, niin silloin ja vasta silloin voidaan esoteerisella valmennuk sella kehittää menestyksellisesti korkeampia kykyjä, joiden avulla ihminen nousee uskosta ensi käden tietoon. Vielä senkin jälkeen, kun oppilas kehittyy ensi käden tiedossa ja voi itse tutkia asioita, hän huomaa, että on edelleen asioita, joiden hän tietää olevan tosia mutta joiden tutkimiseen hän ei ole vielä kyllin kehittynyt. 
 
@@ -3620,7 +3621,7 @@ Toisaalta jos kaikista esteistä huolimatta kehitämme tasapainoista mielenlaatu
 
 Tunteiden kehittäminen vaikuttaa myös muihin käyttövälineisiin ja auttaa niiden kehittämisessä. 
 
-#### Ravitsemustiede 
+#### <h4 id="the-science-of-nutrition">Ravitsemustiede</h4>
 
 Jos alamme tutkia fyysistä ruumista ja keinoja sen kehittämiseksi mahdollisimman käyttökelpoiseksi hengen käyttövälineeksi ja sen jälkeen tarkastelemme henkisiä keinoja saman päämäärään saa vuttamiseksi, niin sisällytämme tähän tarkasteluun kaikki muutkin käyttövälineet. Siksi noudatamme tätä menetelmää. 
 
@@ -3658,9 +3659,7 @@ Tislaamaton vesi sisäisesti nautittuna on ihmisen suurin vihol linen, mutta ulk
 
 Englantilainen lääkäri William Harvey, joka selvitti verenkierron, totesi, että terveys osoittaa vapaata verenkiertoa ja että sairaus on tulos verenkierron estymisestä. 
 
-Kylpyamme on suuri apu ruumiin terveyden ylläpitämisessä ja korkeampaan elämään pyrkijän tulisi käyttää sitä ahkerasti. Hikoile minen, sekä tietoinen että tiedostamaton, poistaa maaperäisiä ainei ta ruumiista enemmän kuin mikään muu. 
-
-Tuli palaa niin kauan kuin sille annetaan polttoainetta ja se pide tään vapaana tuhkasta. Munuaiset ovat tärkeät elimet tuhkan pois tajina ruumiista. Vaikka virtsan mukana poistuu paljon maaperäisiä aineita, usein niitä jää vielä sen verran, että muodostuu kiviä, jotka aiheuttavat sietämätöntä kipua ja jopa kuoleman. 
+Kylpyamme on suuri apu ruumiin terveyden ylläpitämisessä ja korkeampaan elämään pyrkijän tulisi käyttää sitä ahkerasti. Hikoile minen, sekä tietoinen että tiedostamaton, poistaa maaperäisiä ainei ta ruumiista enemmän kuin mikään muu. Tuli palaa niin kauan kuin sille annetaan polttoainetta ja se pide tään vapaana tuhkasta. Munuaiset ovat tärkeät elimet tuhkan pois tajina ruumiista. Vaikka virtsan mukana poistuu paljon maaperäisiä aineita, usein niitä jää vielä sen verran, että muodostuu kiviä, jotka aiheuttavat sietämätöntä kipua ja jopa kuoleman. 
 
 Älköön kukaan luulko, että keitetty vesi sisältää vähemmän kiveä. Teekattilan pohjalle jää kiveä vedestä, joka on höyrynä poistunut kattilasta. Jos vesihöyry tiivistetään, siitä saadaan tislattua vettä, joka on tärkeä tekijä ruumiin nuorena pitämisessä. 
 
@@ -3686,27 +3685,30 @@ Katsoessamme ruumista puhtaasti fyysiseltä kannalta, voisim me kutsua sitä kem
 
 Emme saa antaa ihmisen ulkomuodon vaikuttaa arvosteluum me hänen terveydestään. Siihen ei ole mitään pätevää syytä, vaikka on tiettyjä yleisesti hyväksyttyjä käsityksiä siitä, millaiselta terveen ihmisen tulisi näyttää. Punertavat posket voivat yhdessä ihmises sä osoittaa terveyttä ja toisessa sairautta. Ei ole olemassa erityistä sääntöä, jonka mukaan hyvää terveyttä voidaan arvostella, paitsi se levon ja hyvinvoinnin tunne, jonka henkilö itse kokee ulkonäöstä riippumatta. 
 
-Kalori on energian perusyksikkö, ja taulukko osoittaa kuin ka paljon kukin ravintoaine niitä sisältää. Esimerkiksi puoli kiloa parapähkinöitä sisältää 49,6 % koko määrästä kuorta, mutta jäljellä oleva 50,4 % sisältää 1688 kaloria. Tämä merkitsee, että noin puo let niiden painosta on tyhjää kuorta, mutta jäljelle jäävä osa sisältää mainitun määrän kaloreita. Saadaksemme mahdollisimman paljon energiaa ravinnostamme meidän tulee kiinnittää huomiota siihen, kuinka paljon kaloreita se sisältää, koska ne tuottavat energian, jon ka tarvitsemme jokapäiväisen työmme tekemiseen. Seuraava luettelo osoittaa kalorimäärän, joka on välttämätön ruumiin ylläpitämiseksi eri olosuhteissa (päivässä)34: 
+The table of foods here given deals with five chemical compounds. 
 
-34 Alkuperäistekstissä esitetty taulukko kuvaa 1900-luvun alun raskasta työtä tekevälle ja melko karkeissa olosuhteissa asuvalle ihmiselle tyypillistä energian kulutustasoa ja joka näin ollen ei ole käyttökelpoinen arvioitaessa nyky ihmisen energiankulutusta. Siksi alkuperäinen taulukko on korvattu taulu kolla, joka kuvaa paremmin tämän päivän länsimaalaisen ihmisen päivittäistä energiankulutusta. Päivittäinen energian tarve riippuu sukupuolesta, iästä (iän myötä energian kulutus pienenee), painosta, työn raskaudesta ja muun liikun nan määrästä. – Suom. huom. 
+Water is the great solvent. 
 
-Mies, raskas työ 3500–5300 kcal Mies, kohtalainen työ 2700–4800 kcal Mies, kevyt työ 2400–4400 kcal Nainen, raskas työ 2400–4000 kcal Nainen, kohtalainen työ 2100–3700 kcal Nainen, kevyt työ 1800–3400 kcal 
+Nitrogen or protein is the essential builder of flesh, but contains some earthy matter. 
 
-Seuraavassa ravintoainetaulukossa35 on mm. joitakin kemiallisia yhdisteitä ja alkuaineita. 
+Carbohydrates or sugars are the principal power-producers. 
 
-Vesi on tärkeä liuotin. 
+Fats are the producers of heat and the storers of reserve force. 
 
-Typpi ja proteiinit ovat välttämättömiä lihasten muodostamiseen, mutta sisältävät jonkin verran maaperäisiä aineita. 
+Ash is mineral, earthy, and chokes the system. We need have no fear of not obtaining it in sufficient quantities to build the bones; on the contrary, we cannot be too careful to get as little as possible. 
 
-35 Alkuperäinen taulukko on päivitetty vastaamaan nykyistä [v. 2014] tietämys tä. Se antaa pyrkijälle käsityksen siitä, kuinka paljon kutakin ravintoainetta on syötävä eri kaloritarpeisiin, ja siinä on myös määritelty, kuinka paljon nämä ruuat sisältävät tiettyjä aineita. – Suom. huom. 
+Kalori on energian perusyksikkö, ja taulukko osoittaa kuin ka paljon kukin ravintoaine niitä sisältää. Esimerkiksi puoli kiloa parapähkinöitä sisältää 49,6 % koko määrästä kuorta, mutta jäljellä oleva 50,4 % sisältää 1688 kaloria. Tämä merkitsee, että noin puo let niiden painosta on tyhjää kuorta, mutta jäljelle jäävä osa sisältää mainitun määrän kaloreita. Saadaksemme mahdollisimman paljon energiaa ravinnostamme meidän tulee kiinnittää huomiota siihen, kuinka paljon kaloreita se sisältää, koska ne tuottavat energian, jon ka tarvitsemme jokapäiväisen työmme tekemiseen. Seuraava luettelo osoittaa kalorimäärän, joka on välttämätön ruumiin ylläpitämiseksi eri olosuhteissa (päivässä) (34): 
 
-Hiilihydraatit, joihin kuuluvat sokerit, ovat tärkeimpiä energia lähteitä. 
+() - (34) Alkuperäistekstissä esitetty taulukko kuvaa 1900-luvun alun raskasta työtä tekevälle ja melko karkeissa olosuhteissa asuvalle ihmiselle tyypillistä energian kulutustasoa ja joka näin ollen ei ole käyttökelpoinen arvioitaessa nyky ihmisen energiankulutusta. Siksi alkuperäinen taulukko on korvattu taulu kolla, joka kuvaa paremmin tämän päivän länsimaalaisen ihmisen päivittäistä energiankulutusta. Päivittäinen energian tarve riippuu sukupuolesta, iästä (iän myötä energian kulutus pienenee), painosta, työn raskaudesta ja muun liikun nan määrästä. – Suom. huom. 
 
-Rasvat tuottavat lämpöä ja varastoivat energiaa. 
-
-Tuhka on kivennäistä, maaperäistä ainetta ja tukkii elimistön. Ei ole pelkoa, ettemmekö saa sitä riittävästi luustomme muodostami seen, päinvastoin emme voi olla kyllin varovaisia saadaksemme sitä mahdollisimman vähän. 
-
-DIAGRAM NUTRITION!!!!!!!!!!! Ravintoainetaulukko 
+|                         |                |
+| ----------------------- | -------------- |
+| Mies, raskas työ        | 3500–5300 kcal |
+| Mies, kohtalainen työ   | 2700–4800 kcal |
+| Mies, kevyt työ         | 2400–4400 kcal |
+| Nainen, raskas työ      | 2400–4000 kcal |
+| Nainen, kohtalainen työ | 2100–3700 kcal |
+| Nainen, kevyt työ       | 1800–3400 kcal |
 
 Ravintoainetaulukosta käy ilmi, että suklaa on ravitsevin ruoka, mikä meillä on, ja että kaakaojauhe on kaikkein haitallisin, koska se sisältää tuhkaa yli kaksinkertaisen määrän verrattuna useimpiin muihin ravintoaineisiin ja jopa yli kymmenkertaisen määrän ver rattuna muutamiin muihin ravintoaineisiin. Myös kaakaojauhe on ravitseva ruoka, mutta samalla myrkyllinen, sillä se tukkii elimistön nopeammin kuin mikään muu aine. 
 
@@ -3726,17 +3728,30 @@ Siksi on erittäin tärkeää, että pyrkijä, joka aikoo käyttää ruumis taan
 
 Seuraava taulukko osoittaa fosforihappojen määrän muutamissa ravintoaineissa: 
 
-DIAGRAM!!!!!!!!!!!!!!!!!!!!!! 
+| 100,000 Parts of:   | contain, of phosphoric acid, |
+| ------------------- | ---------------------------- |
+| Barley, dry,        | 210 parts                    |
+| Beans               | 292 parts                    |
+| Beets               | 167 parts                    |
+| Beets, Leaves of    | 690 parts                    |
+| Buckwheat           | 170 parts                    |
+| Carrots, dry        | 395 parts                    |
+| Carrots, Leaves of  | 963 parts                    |
+| Linseed             | 880 parts                    |
+| Linseed, Stalks of  | 118 parts                    |
+| Parsnips            | 111 parts                    |
+| Parsnips, Leaves of | 1784 parts                   |
+| Peas                | 190 parts                    |
 
 Edellä olevan asian ydin voidaan ilmaista ytimekkäästi seuraa valla tavalla: 
 
-1) Ruumiissa tapahtuu kovettumista koko elämän ajan. 
+(1) Ruumiissa tapahtuu kovettumista koko elämän ajan. 
 
-2) Tämä tapahtuu, kun veri jättää jälkeensä maaperäisiä ainei ta, etenkin fosfaattia ja kalsiumia, jotka kovettavat ja luuduttavat ruumiinosia. 
+(2) Tämä tapahtuu, kun veri jättää jälkeensä maaperäisiä ainei ta, etenkin fosfaattia ja kalsiumia, jotka kovettavat ja luuduttavat ruumiinosia. 
 
-3) Tämä kovettuminen tuhoaa suonten, lihasten ja liikkuvien ruumiinosien joustavuuden. Veri paksunee ja pienemmät hiussuonet tukkeutuvat täysin, niin että nesteiden virtaaminen ja koko elimis tön toiminta heikkenee, minkä seurauksena on kuolema. 
+(3) Tämä kovettuminen tuhoaa suonten, lihasten ja liikkuvien ruumiinosien joustavuuden. Veri paksunee ja pienemmät hiussuonet tukkeutuvat täysin, niin että nesteiden virtaaminen ja koko elimis tön toiminta heikkenee, minkä seurauksena on kuolema. 
 
-4) Kovettumista voidaan hidastaa ja elämää pidentää välttämällä tuhkaa sisältäviä ravintoaineita, käyttämällä tislattua vettä sisäisesti ja edistämällä hikoilemista kylpemällä usein. 
+(4) Kovettumista voidaan hidastaa ja elämää pidentää välttämällä tuhkaa sisältäviä ravintoaineita, käyttämällä tislattua vettä sisäisesti ja edistämällä hikoilemista kylpemällä usein. 
 
 Edellä mainittu selittää, miksi joissakin uskonnoissa uskonnol lisiin harjoituksiin kuuluu usein tapahtuva peseytyminen, koska se edistää terveyttä ja puhdistaa ruumista. Samasta syystä määrättiin paastoamaan, koska se antaa vatsalle tarpeellista lepoa sekä sallii ruumiin poistaa loppuun kuluneita aineita. Ja jos paastoa ei käytetä liian usein eikä liian pitkään, se edistää terveyttä. Tavallisesti kui tenkin on yhtä hyödyllistä ja suotuisampaa antaa ruumiille oikeaa ravintoa, joka on parasta lääkettä. 
 
@@ -3762,7 +3777,7 @@ Kauan, kauan sitten menneisyydessä oli aika, jolloin työnsimme ulos kovettumat
 
 Tämä on kiinteän ruumiin korkein kehitysaste. Tässä yhteydessä ei merkitse mitään, että korkeimmilla eläinluokilla on samanlainen sisäinen luunmuodostus kuin ihmisellä. Niillä ei ole vielä sisäistä henkeä, ja ne kuuluvat eri kehitysaaltoon. 
 
-#### Imeytymisen laki 
+#### <h4 id="the-law-of-assimilation">Imeytymisen laki</h4>
 
 Imeytymisen laki ei salli ruumiimme osaksi mitään sellaista, mitä me henkenä emme ole voittaneet ja tehneet hallittavaksemme. Voi mat, jotka tässä toimivat, ovat niitä, jotka ovat ”kuolleet” ja menneet ”taivaaseen”. Siellä he oppivat muodostamaan maan päällä käytettä viä ruumiita, mutta he työskentelevät tiettyjen lakien alaisina, joita he eivät voi muuttaa. Jokaisessa ravintohiukkasessa, jonka otamme ruumiiseemme, on elämää, ja ennen kuin voimme liittää tämän elä män ruumiiseemme imeytymisen avulla, meidän täytyy voittaa ja tehdä se alamaiseksemme; muuten ei ruumiissa voi olla sopusointua, vaan jokainen osa toimisi toisistaan riippumatta. Tätä kutsutaan rap peutumiseksi, hajoamisprosessiksi, joka on imeytymisen vastakohta. Mitä yksilöityneempää ruoka on, sitä enemmän energiaa tarvitaan sen sulattamiseen ja sitä nopeammin ruumis tarvitsee uutta energiaa. 
 
@@ -3774,22 +3789,22 @@ Ruoka, joka on valmistettu kuolleen eläimen ruumiista, sisältää osia, joissa
 
 Koska kasveja syövistä eläimistä saatu ravinto on näin epävakaa ta, on selvää, että jos käyttäisimme lihaa syövien eläinten lihaa, jossa solut ovat vielä enemmän yksilöityneitä, niin meidän olisi pakko syö dä aivan suunnattomia määriä ruokaa. Syöminen veisi suurimman osan ajastamme, mutta siitä huolimatta olisimme laihoja ja nälkäisiä. Tämä vaikutus voidaan nähdä sudessa ja korppikotkassa, jotka ovat tunnettuja laihuudesta ja nälkäisyydestä. Ihmissyöjät syövät ihmisen lihaa, mutta vain hyvin harvoin ja ylellisyytenä. Koska ihminen ei ole täysin lihansyöjä, hänen lihansa ei ole samanlaista kuin lihansyöjä eläimen, mutta silti ihmissyöjienkin nälästä on syntynyt sananparsia. 
 
-Jos kasveja syövien eläinten liha sisältäisi kaiken parhaan kasveis ta, silloin loogisesti lihaa syövien eläinten liha sisältäisi kaiken olen naisen. Susien ja korppikotkien liha olisi siis crème de la crème36 ja hyvin haluttua. Tiedämme, että asia ei ole näin, vaan aivan päinvas toin. Mitä lähemmäs pääsemme kasvikuntaa, sitä enemmän voimaa saamme ravinnostamme. Jos asia olisi päinvastoin, lihaa syövien eläinten lihaa haluaisivat muutkin petoeläimet, mutta luonnossa on hyvin harvoja esimerkkejä siitä, että ”koira söisi koiraa”. 
+Jos kasveja syövien eläinten liha sisältäisi kaiken parhaan kasveis ta, silloin loogisesti lihaa syövien eläinten liha sisältäisi kaiken olen naisen. Susien ja korppikotkien liha olisi siis crème de la crème (36) ja hyvin haluttua. Tiedämme, että asia ei ole näin, vaan aivan päinvas toin. Mitä lähemmäs pääsemme kasvikuntaa, sitä enemmän voimaa saamme ravinnostamme. Jos asia olisi päinvastoin, lihaa syövien eläinten lihaa haluaisivat muutkin petoeläimet, mutta luonnossa on hyvin harvoja esimerkkejä siitä, että ”koira söisi koiraa”. 
 
-36 Paras parhaista. – Suom. huom. 
+() - (36) Paras parhaista. – Suom. huom. 
 
-#### Elä ja anna elää 
+#### <h4 id="live-and-let-live">Elä ja anna elää</h4>
 
 Salatieteen ensimmäinen käsky on ”Älä tapa”, ja tämän tulisi olla tär kein ohjenuora korkeampaan elämään pyrkijälle. Emme voi luoda tomuhiukkastakaan, kuinka meillä siis olisi oikeutta hävittää vähäi sintäkään muotoa? Kaikki muodot ovat ilmausta yhdestä elämästä – Jumalan elämästä. Meillä ei ole oikeutta hävittää muotoa, jonka kautta elämä etsii kokemusta, ja siten pakottaa sitä muodostamaan uutta käyttövälinettä. 
 
 Ella Wheeler Wilcox, kaikkien kehittyneiden sielujen myötätun nolla, lausuu tämän salatieteellisen elämänohjeen seuraavin ihanin sanoin: 
 
+```
 Olen ääni äänettömyyden;    
 mykkä suullani haastelee,    
 kunnes kuuro maailma tää,    
 korvin kuulee ja ymmärtää,    
 mikä vääryys kauttansa vallitsee.    
-
 
 Myös varpusen muodosti voima sama,    
 joka ihmisen loi, tuon kuninkaan.    
@@ -3801,9 +3816,10 @@ Minä veljeni olen puolustaja;
 minä taistelen hänen taisteluaan,    
 minä huudan ja huhun,    
 pedon, linnun puolesta puhun,    
-kunnes kaikki on oikein päällä maan.37    
+kunnes kaikki on oikein päällä maan. (37)    
+```
 
-37 Suom. Jussi Snellman 
+() - (37) Suom. Jussi Snellman 
 
 Toisinaan väitetään, että elämä riistetään myös silloin, kun syö dään vihanneksia ja hedelmiä, mutta tämä johtuu asioiden väärin käsittämisestä. Kun hedelmä on kypsä, se on täyttänyt tarkoituk sensa ollen kohtuna kypsyvälle siemenelle. Jos sitä ei syödä, se ha joaa ja menee hukkaan. Sen lisäksi hedelmä on tarkoitettu eläin- ja ihmiskunnan ruoaksi, ja sitä kautta siemen saa kasvumahdollisuu den, kun se pääsee hedelmälliseen maaperään. Aivan kuten ihmi sen munasolu ja siemenneste ovat tehottomia ilman jälleensyntyvän egon siemenatomia ja elollisruumiin kasvupohjaa, samoin jokainen munasolu tai siemen yksin on vailla elämää. Jos sille annetaan sopi vat olosuhteet, joukkohengen elämä virtaa siihen ja silloin se käyttää hyväkseen tarjottua tilaisuutta kiinteän ruumiin valmistamiseen. Jos munasolu tai siemen keitetään, muserretaan tai sille ei suoda elä mään tarvittavia olosuhteita, tilaisuus on menetetty, siinä kaikki. 
 
@@ -3811,7 +3827,7 @@ Nykyisellä kehitysasteellamme jokainen luonnollisesti ym märtää, että tappa
 
 Kuinka paljon ihanampaa olisi ihmiselle olla heikkojen ystä vä ja suojelija? Kukapa ei mielellään käy New Yorkin kaupungin Keskuspuistossa silittämässä ja syöttämässä oravia, jotka siellä juok sentelevat turvassa tietäen, ettei kukaan kiusaa niitä? Varmaankin kaikki iloitsevat oravien puolesta kyltistä, jossa lukee: ”Koirat, jot ka tavataan hätyyttämästä oravia, ammutaan.” Tämä on tylyä koi ria kohtaan, mutta sitä on pidettävä osoituksena sellaisen yleisen mielipiteen vahvistuminen, joka suosii heikompien suojelemista järjettömiltä tai säälimättömiltä ja voimakkaammilta. Kyltissä ei ole kieltoa ihmisille oravien vahingoittamisesta, koska sellainen ei tulisi kysymykseenkään. Noilla pienillä eläimillä on niin vahva luottamus ihmisen hyvyyteen, ettei kukaan halua rikkoa sitä. 
 
-#### Herran rukous 
+#### <h4 id="the-lords-prayer">Herran rukous</h4>
 
 Palaamme käsittelemään ihmisen kehitykseen annettuja henkisiä apukeinoja. Herran rukousta voidaan pitää kuin abstraktina algeb ran kaavana ihmisen käyttövälineiden kohottamiseksi ja puhdista miseksi. Ajatus pitää huolta fyysisestä ruumiista ilmaistaan sanoilla: ”Anna meille tänä päivänä meidän jokapäiväinen leipämme.” 
 
@@ -3827,7 +3843,13 @@ Tunneruumiille kuuluva rukous on: ”Äläkä saata meitä kiusa ukseen.” Halu
 
 Rakkaus, rikkaus, valta ja kunnia ovat neljä suurta ihmisen toi minnan motiivia. Jokin tai useampi näistä haluista on yllykkeenä siihen, mitä ihminen tekee tai jättää tekemättä. Ihmiskunnan suuret johtajat ovat viisaudessaan antaneet ne yllykkeeksi toimintaan, että ihminen saisi kokemusta ja oppisi niiden avulla. Ne ovat välttämät tömiä, ja pyrkijä voi turvallisesti jatkaa niiden käyttämistä toimin nan vaikuttimina, mutta hänen täytyy muuntaa ne ylevämmiksi. Hänen täytyy jalommilla pyrkimyksillä voittaa itsekäs rakkaus, joka tavoittelee toisen ihmisen omistamista, ja kaikki persoonallisista syistä johtuvat halut, jotka liittyvät rikkauteen, valtaan ja kunniaan. 
 
-Hänen täytyy kaivata rakkautta, joka on lähtöisin sielusta ja joka sulkee piiriinsä kaikki olennot, ylhäiset ja alhaiset, kasvaen samassa suhteessa vastaanottajan tarpeiden mukaan. Hänen on tavoiteltava rikkautta yksinomaan siksi, että se suo runsaasti mahdollisuuksia toisten palvelemiseen, ja ainoastaan sellaista valtaa, mitä käytetään ihmiskunnan kohottamiseksi, sekä sellaista kunniaa, mikä lisää hä nen kykyään levittää hyvää sanomaa, niin että kaikki kärsivät saavat lohdutusta sydämensä suruihin. 
+Hänen täytyy kaivata rakkautta, joka on lähtöisin sielusta ja joka sulkee piiriinsä kaikki olennot, ylhäiset ja alhaiset, kasvaen samassa suhteessa vastaanottajan tarpeiden mukaan. 
+
+Hänen on tavoiteltava rikkautta yksinomaan siksi, että se suo runsaasti mahdollisuuksia toisten palvelemiseen, 
+
+Ja ainoastaan sellaista valtaa, mitä käytetään ihmiskunnan kohottamiseksi, 
+
+Sekä sellaista kunniaa, mikä lisää hä nen kykyään levittää hyvää sanomaa, niin että kaikki kärsivät saavat lohdutusta sydämensä suruihin. 
 
 Mielen rukous on: ”Päästä meidät pahasta.” Tiedämme, että mie li on yhdysside korkeamman ja alemman luonnon välillä. Eläimet saavat seurata halujaan ilman minkäänlaisia rajoituksia. Niiden elä mässä ei ole hyvää tai pahaa, koska niiltä puuttuu järki, kyky ajatella. Tapa, jolla suojelemme itseämme petoeläimiä vastaan, on erilainen kuin se, miten suhtaudumme ihmisiin, jotka tappavat ja ryöstävät. Emme pidä sellaista ihmistäkään, joka on menettänyt järkensä, vastuunalaisena teoistaan. Yleisesti hyväksytään, että hän ei itse ym märrä tehneensä mitään väärää, ja sen tähden hänet yksinkertaisesti eristetään hoitoon. 
 
@@ -3855,9 +3877,7 @@ Johdanto ”Isä meidän, joka olet taivaissa” on ainoastaan kuin osoite kuore
 
 Kaavio 16 valaisee edellä olevan selityksen yksinkertaisella ja hel posti muistettavalla tavalla osoittaen värien avulla yhteyden eri ru kousten ja niitä vastaavien käyttövälineiden välillä. 
 
-DIAGRAM16 OUR FATHER!!!!!!!!!!!!!! Kaavio 16 
-
-#### Selibaattilupaus 
+#### <h4 id="the-vow-of-celibacy">Selibaattilupaus</h4>
 
 Seksimaanikko tai perverssi osoittaa oikeaksi salatieteen väitteen, että osa sukupuolivoimasta käytetään aivojen muodostamiseen. Täl laisesta henkilöstä tulee tylsämielinen, kykenemätön ajattelemaan, koska hän vetää puoleensa ja säteilee normaalisti lisääntymiseen käytettävää (riippuen siitä, onko hän mies tai nainen) negatiivista tai positiivista osaa sukupuolivoimasta ja lisäksi kuluttaa osan ener giasta, joka tulisi käyttää aivojen kehittämiseen, jotta ne pystyisivät tuottamaan ajatuksia. 
 
@@ -3897,9 +3917,7 @@ Voidaan myös sanoa, että on vahingollisempaa kärsiä palavasta himosta ja jat
 
 Korkeampaan elämään pyrkivä onnistuu vain suhteessa siihen, kuinka paljon hän kykenee hallitsemaan alempaa luontoaan, mutta tulee varoa myös toista äärimmäisyyttä. 
 
-DIAGRAM17!!!!!!!!!!!!!!!!!!!!!!!! Kaavio 17 
-
-#### Aivolisäke ja käpyrauhanen 
+#### <h4 id="the-pituitary-body-and-the-pineal-gland">Aivolisäke ja käpyrauhanen</h4>
 
 Kaavio 17 osoittaa suunnilleen, missä kohtaa aivoja sijaitsee kaksi pientä rauhasta, aivolisäke ja käpyrauhanen. Lääketiede tietää niistä sangen vähän, kuten muistakin umpirauhasista. Se sanoo käpyrau hasta ”surkastuneeksi kolmanneksi silmäksi”. Se ei kuitenkaan ole surkastunut sen enempää kuin aivolisäkekään. Tämä on hyvin häm mentävää tiedemiehille, sillä luonto ei säilytä mitään hyödytöntä. Joka puolella ruumista löytyy elimiä, jotka ovat joko surkastumassa tai kehittymässä. Edelliset ovat virstanpylväitä tiellä, jonka ihminen on kulkenut saavuttaessaan nykyisen kehitysasteensa, ja viimeksi maini tut osoittavat tulevan edistymisen ja kehityksen suunnan. Esimerkik si ihmisellä on vielä jäljellä lihakset, joita eläin käyttää liikuttamaan korviaan, mutta koska ne ovat ihmisellä surkastumaisillaan, vain harvat osaavat käyttää niitä. Sydän kuuluu siihen ryhmään, joka viit taa tulevaan kehitykseen; kuten on osoitettu, siitä on tulossa tahdon alainen lihas. 
 
@@ -3919,13 +3937,11 @@ Lemurialaisen ajanjakson jälkeen ihmiskunta on vähitellen muo dostanut tahdona
 
 Sen jälkeen käpyrauhasen ja aivolisäkkeen yhteyden rakentumi nen selkäydinhermostoon on tapahtunut hitaasti, ja se on jo melkein valmis. 
 
-Saadaksemme jälleen yhteyden sisäisiin maailmoihin on tar peellista herättää uudelleen toimintaan aivolisäke ja käpyrauhanen. 
-
-Kun tämä toteutuu, ihmisellä on jälleen kyky nähdä korkeampiin maa ilmoihin, mutta vielä suuremmassa mittakaavassa kuin aikaisemmin, koska tämä kyky tulee olemaan yhteydessä tahdonalaisen hermo järjestelmän kanssa ja on täten ihmisen tahdon alainen. Sisäisen havaitsemiskyvyn ansiosta kaikki tiedon kanavat avautuvat ihmisel le, ja hänen käytössään tulee olemaan tiedonhankkimiskeinoja, joi hin verrattuna kaikki muut tutkimusmenetelmät ovat pelkkää lasten leikkiä. 
+Saadaksemme jälleen yhteyden sisäisiin maailmoihin on tar peellista herättää uudelleen toimintaan aivolisäke ja käpyrauhanen. Kun tämä toteutuu, ihmisellä on jälleen kyky nähdä korkeampiin maa ilmoihin, mutta vielä suuremmassa mittakaavassa kuin aikaisemmin, koska tämä kyky tulee olemaan yhteydessä tahdonalaisen hermo järjestelmän kanssa ja on täten ihmisen tahdon alainen. Sisäisen havaitsemiskyvyn ansiosta kaikki tiedon kanavat avautuvat ihmisel le, ja hänen käytössään tulee olemaan tiedonhankkimiskeinoja, joi hin verrattuna kaikki muut tutkimusmenetelmät ovat pelkkää lasten leikkiä. 
 
 Nämä elimet herätetään esoteeristen harjoitusten avulla, joita ku vailemme seuraavaksi siinä määrin kuin julkisesti on mahdollista. 
 
-#### Esoteeriset harjoitukset 
+#### <h4 id="esoteric-training">Esoteeriset harjoitukset</h4>
 
 Suurin osa ihmisistä käyttää aistinautintoihin valtaosan siitä suku puolivoimasta, joka voitaisiin oikeutetusti antaa luovien elinten käyttöön. Sen tähden näillä ihmisillä nähdään hyvin vähän nousevaa voimaa, joka on kuvattu kaaviossa 17. 
 
@@ -3947,7 +3963,7 @@ Kuten selitimme aikaisemmin tässä teoksessa, aloittelijan täytyy oppia näkem
 
 On olemassa myös toinen ja kaikkein tärkeä eroavuus. Kyky, joka mahdollistaa näkemisen näkymättömässä maailmassa, ei ole saman lainen kuin kyky astua tähän maailmaan ja toimia siellä. Tahdon alainen selvänäkijä, joka on saanut jonkin verran opetusta ja kyke nee tunnemaailmassa erottamaan oikean väärästä, on käytännöl lisesti katsoen kuitenkin samassa asemassa kuin kalterien takana oleva vanki on ulkopuoliseen maailmaan – hän näkee sen, mutta ei voi toimia siellä. Sen tähden esoteerinen harjoitus ei ainoastaan avaa pyrkijän sisäistä näkökykyä, vaan otollisella ajalla hänelle annetaan uusia harjoituksia luomaan käyttövälinettä, jonka avulla hänen on mahdollista toimia sisäisissä maailmoissa täysin itsetietoisesti. 
 
-#### Kuinka sisäinen käyttöväline muodostetaan 
+#### <h4 id="how-the-inner-vehicle-is-built">Kuinka sisäinen käyttöväline muodostetaan</h4>
 
 Tavallisessa elämässä useimmat ihmiset elävät syödäkseen, juo dakseen ja tyydyttääkseen sukupuolihimoaan rajattomasti, ja he menettävät malttinsa pienimmästäkin syystä. Vaikka ulkonaisesti nämä henkilöt saattavat olla hyvin ”kunniallisia”, melkein jokaisena elämänsä päivänä he saavat aikaan miltei täydellisen sekasorron eli mistössään. Koko nukkumisen ajan tunne- ja elollisruumis joutuvat korjaamaan vahinkoa, joka päivän aikana on tehty, eikä aikaa jää mi hinkään ulkopuoliseen työhön lainkaan. Kun ihminen alkaa tuntea tarvetta korkeampaan elämään, hallita sukupuolielämäänsä, hillitä itsensä ja kehittää rauhallista mielenlaatua, niin päivän aikana hänen käyttövälineissään tapahtuu vähemmän vahinkoa ja siksi nukkuessa tarvitaan vähemmän aikaa vahingon korjaamiseen. Näin tulee mah dolliseksi unen aikana jättää fyysinen ruumis pitkäksi aikaa ja toimia sisäisissä maailmoissa korkeampien käyttövälineiden avulla. Koska tunneruumis ja mieli eivät ole vielä jäsentyneitä, niistä ei ole hyö tyä erillisinä tajunnan käyttövälineinä. Elollisruumis ei myöskään voi jättää kiinteää ruumista, koska se aiheuttaisi kuoleman. On siis selvää, että on luotava jäsentynyt käyttöväline, joka on joustava ja niin konstruoitu, että se täyttää egon tarpeet sisäisissä maailmoissa samoin kuin kiinteä ruumis fyysisessä maailmassa. 
 
@@ -3979,7 +3995,7 @@ Korkeampien käyttövälineiden irrottamiseen tarvittavia ohjeita ei voida antaa
 
 Paras aika harjoitusten tekemiseen on aamulla heti heräämisen jälkeen, ennen kuin elämän huolet ja murheet tulevat mieleen. Sil loin ihminen on juuri tullut sisäisistä maailmoista, ja siksi hänen on helpompi päästä takaisin kosketuksiin niiden kanssa kuin muulloin päivän aikana. Älä pukeudu tai nouse istumaan, vaan rentoudu täy sin ja anna harjoitusten olla ensimmäisiä ajatuksiasi. Rentoutumi nen ei tarkoita ainoastaan mukavaa asentoa. Jos jokainen lihas on odotuksesta jännittyneenä, tämä tekee tyhjäksi harjoituksen, sillä tuossa tilassa tunneruumis ottaa lihakset valtaansa – muuta se ei voi tehdä ennen kuin rauhoitamme mielemme. 
 
-#### Keskittyminen 
+#### <h4 id="concentration">Keskittyminen</h4>
 
 Ensimmäinen asia, jota on harjoiteltava, on kiinnittää ajatukset jo honkin ihanteeseen ja pitää ne siinä antamatta niiden harhailla. Se on erittäin vaikea tehtävä, mutta siinä täytyy onnistua ainakin jonkin verran ennen kuin on mahdollista kehittyä eteenpäin. Ajatus on se voima, jota käytämme saadessamme aikaan imaginaatioita, kuvia ja ajatusmuotoja sisäisten ideoiden mukaan. Se on tärkein kykymme, ja meidän täytyy oppia hallitsemaan sitä täysin, niin että se, mitä saam me aikaan, ei ole ulkoisten olosuhteiden aikaansaamaa järjetöntä il luusiota, vaan todellista sisäisen hengen synnyttämää imaginaatiota. (Ks. kaaviota 1.) 
 
@@ -4005,7 +4021,7 @@ Kun pyrkijä on oppinut muodostamaan tällaisia kuvia ja onnis tuu pitämään t
 
 Pitkään aikaan ei ehkä tule mitään, ja pyrkijän on huolellisesti suojeltava itseään itse tehdyiltä näyiltä. Jos hän uskollisesti ja kärsi vällisesti jatkaa joka aamu, tulee aika, jolloin hän päästettyään mie lestään luomansa kuvan näkee ympäröivän tunnemaailman silmän räpäyksessä avautuvan hänen sisäisten silmiensä eteen. Ensiksi se voi olla vain vilaus, mutta se on esimakua siitä, mikä myöhemmin on mahdollista milloin vain tahtoo. 
 
-#### Mietiskely 
+#### <h4 id="meditation">Mietiskely</h4>
 
 Kun pyrkijä on harjoittanut keskittymistä jonkin aikaa keskittä mällä mielensä johonkin yksinkertaiseen kohteeseen ja kun hän on muodostanut elävän ajatusmuodon mielikuvituksensa avulla, niin mietiskelemällä hän oppii tietämään kaiken tästä luomastaan ajatus kuvasta. 
 
@@ -4015,7 +4031,7 @@ Kun kuva pöydästä on selkeästi luotu mieleen, ajattele minkälai sesta puust
 
 Näin mietiskelyn avulla olemme perehtyneet eri teollisuuden haaroihin, joita tarvitaan metsän puun muuttamiseksi huonekaluksi. Olemme nähneet kaikki koneet ja työläiset ja panneet merkille monenlaisten paikkojen ominaisuuksia. Olemme jopa seuranneet puun elämän kulkua, aina sen kasvua pienestä siemenestä lähtien. Olemme oppineet, kuinka aivan tavallisten jokapäiväisten esineiden takana on huomattava ja kiintoisa historia. Neula, tulitikku, jolla sy tytämme kaasun, kaasu itsessään ja huone, jossa kaasua poltetaan – kaikilla niillä on mielenkiintoinen ja tutkimisen arvoinen historia. 
 
-#### Havainnoiminen 
+#### <h4 id="observation">Havainnoiminen</h4>
 
 Havainnoiminen on yksi tärkeimpiä pyrkijän apukeinoja hänen ponnistuksissaan. Useimmat ihmiset kulkevat elämän läpi silmät ummessa. Heidän kohdallaan on kirjaimellisesti totta, että ”heillä on silmät, mutta he eivät näe... heillä on korvat, mutta he eivät kuule”. Suurin osa ihmiskunnasta kärsii valitettavaa huomiokyvyn puutetta. 
 
@@ -4023,7 +4039,7 @@ Useimmille ihmisille tämä on kuitenkin anteeksiannettavaa, kos ka heidän näk
 
 Korkeampaan elämään pyrkivälle on hyvin tärkeää, että hän ky kenee näkemään kaikki ympärillään olevat kohteet selvästi, kaikki ne yksityiskohtineen. Henkilölle, jolla on huono näkö, silmälasien käyttö ikään kuin avaa uuden maailman. Sumeuden sijasta kaikki nähdään tarkasti ja selvästi. Jos henkilö tarvitsee lasit sekä liki- että kaukonäköön, ei tulisi tyytyä käyttämään kaksia eri laseja, yksiä likinäköön ja toisia kaukonäköön. Silmälasien vaihtaminen on ra sittavaa, ja ulos lähdettäessä toiset lasit unohtuvat helposti kotiin. Kaksiteholaseilla voidaan nähdä sekä kauas että lähelle, ja niitä tulisi käyttää helpottamaan pienimpien yksityiskohtien havainnointia. 
 
-#### Erottelukyky 
+#### <h4 id="discrimination">Erottelukyky</h4>
 
 Kun pyrkijä on huolehtinut siitä, että hänen näkönsä on kunnossa, hänen tulee järjestelmällisesti tarkkailla kaikkea ympärillään, tehdä siitä johtopäätöksiä ja kehittää loogista ajattelua. Logiikka on paras opettaja fyysisessä maailmassa ja turvallisin ja varmin opas muissa kin maailmoissa. 
 
@@ -4039,13 +4055,13 @@ Nämä kaksi mentaalista harjoitusta ovat tekemisissä syvimmällä ja täydelli
 
 Tämän vaiheen nimi on kontemplaatio. 
 
-#### Kontemplaatio 
+#### <h4 id="contemplation">Kontemplaatio</h4>
 
 Kontemplaatiossa ei pyritä ajatuksin tai mielikuvituksen avulla saa maan tietoa kuten mietiskelyssä. Siinä yksinkertaisesti pidämme kohdetta mentaalisen näkömme edessä ja annamme kohteen sielun puhua meille. Olemme hiljaa ja tyyniä – ilman negatiivisuutta ja täy sin valppaina – odottaen tietoa, joka varmasti tulee, mikäli olemme saavuttaneet oikean kehitysasteen. Silloin kohteen muoto näyttää ka toavan ja näemme ainoastaan siinä toimivan elämän. Kontemplaatio opettaa meitä elämästä, kun taas mietiskely opettaa meitä tuntemaan muotoa. 
 
 Kun olemme saavuttaneet tämän vaiheen ja katselemme vaikka pa puuta metsässä, emme näe lainkaan muotoa, vaan ainoastaan elä män, joka tässä tapauksessa on ryhmähenki. Tulemme ihmeeksem me näkemään, että puun ryhmähenki pitää sisällään kaikki erilaiset hyönteiset, jotka siitä elävät, ja että loiset ja isäntäkasvi kuuluvat samaan ryhmähenkeen. Mitä korkeammalle nousemme näkymättö missä maailmoissa, sitä vähemmän muodot ovat erillään toisistaan ja sitä täydellisemmin yksi elämä hallitsee. Tämä juurruttaa tutkijan mieleen sitä korkeinta totuutta, että on olemassa vain yksi elämä – Jumalan kosminen elämä, jossa todella ”elämme, liikumme ja olem me”. Kivennäiset, kasvit, eläimet ja ihmiset ovat kaikki poikkeuksetta ilmennyksiä Jumalasta, ja tämä totuus antaa perustan todelliselle vel jeydelle – veljeydelle, joka käsittää kaiken atomista aurinkoon, kos ka kaikki on lähtöisin Jumalasta. Veljeyskäsitteet, jotka perustuvat muihin aatteisiin kuten luokkaeroihin, rotusukulaisuuteen, saman ammatin harjoittamiseen jne., ovat kaukana todellisesta yhteydestä, sillä salatieteilijä huomaa selvästi nähdessään universaalin elämän virtaavan kaikessa olemassa olevassa. 
 
-#### Palvominen 
+#### <h4 id="adoration">Palvominen</h4>
 
 Kun tämä aste on kontemplaation avulla saavutettu ja pyrkijä on ym märtänyt, että hän todella näkee Jumalan kaikkialla elämässä, niin vielä on otettava askel korkeammalle, palvomiseen. Sen avulla hän pääsee kosketuksiin kaiken alkulähteeseen ja saavuttaa ihmisen kor keimman mahdollisen päämäärän, kunnes pysyvä yhteenliittyminen tapahtuu suuren ilmestyspäivän lopussa. 
 
@@ -4055,7 +4071,7 @@ Vaadittava aika tulosten saavuttamiseksi harjoitusten avulla vaihtelee kunkin yk
 
 Siitä hetkestä alkaen hänen tietoisuutensa on katkeamaton – he reillä tai unessa, läpi sen mitä ihmiset kutsuvat elämäksi ja läpi sen mitä ihmiset kutsuvat kuolemaksi. Hänen olemassaolonsa on elämää keskeytymättömässä tietoisuudessa, jossa hän hyödyntää ne kaikki olosuhteet, jotka edistävät yhä nopeampaa kehittymistä mihin ta hansa korkeampaan luottamustehtävään rodun kohottamiseksi. 
 
-### XVIII LUKU: MAAPALLON RAKENNE JA TULIVUORTEN PURKAUKSET 
+### <h3 id="chapter-18">XVIII Luku: Maapallon rakenne ja tulivuorten purkaukset</h3>
 
 Jopa salatieteilijöiden keskuudessa pidetään maapallon mystisen ra kenteen tutkimista kaikkein vaikeimpana tehtävänä. Jokainen sala tieteilijä tietää, kuinka paljon helpompi on tutkia perin pohjin ja tar kasti tunnemaailmaa ja konkreettisen ajattelun tasoa ja tuoda tutki mustulokset sieltä tullessaan fyysiseen maailmaan kuin täydellises ti päästä selville fyysisen planeettamme salaisuuksista. Pystyäkseen tähän pyrkijän on täytynyt läpäistä yhdeksän pienempää mysteerio vihkimystä ja ensimmäinen suuri vihkimys. 
 
@@ -4067,7 +4083,7 @@ Eri kvartsilajeilla ja metalleilla sekä maakerrosten järjestäytymi sellä on 
 
 On yhtä hyödytöntä tuntea maan eri kerrokset ja taivaan planeet tojen suhteelliset asemat toisiinsa nähden, jos samalla ei käsitetä nii den merkitystä kosmiseen elämään, kuin tuntea pelkästään luiden, hermojen ym. sijainti ymmärtämättä niiden käyttöä ja tehtäviä ruu miin rakenteessa. 
 
-#### Pedon luku 
+#### <h4 id="the-number-of-the-beast">Pedon luku</h4>
 
 Useita vihkimyksiä saavuttanut mystikko näkee harjaantuneella selvä näköisyydellään maapallon rakentuneen kerroksista, jotka ovat toi nen toisensa päällä niin kuin sipulissa. Näitä kerroksia on yhdeksän ja keskus muodostaa kymmenennen. Kerrokset paljastetaan vihitylle vähitellen. Kussakin vihkimyksessä hänelle avautuu yksi kerros, niin että yhdeksän pienemmän vihkimyksen jälkeen hän on kaikkien ker rosten herra, mutta hänellä ei vielä ole pääsyä ytimen salaisuuksiin. 
 
@@ -4093,21 +4109,19 @@ Nämä kolmetoista vihkimystä kuvaavat symbolisesti Kristusta ja hänen kahtato
 
 Eri salatieteellisissä kouluissa vihkimysmenot, kuten myös vih kimysten lukumäärä, vaihtelevat, mutta tämä ero on vain luokittelu tavassa. Huomaamme, että epämääräiset kuvaukset, joita annetaan, tulevat yhä epämääräisemmiksi, mitä ylemmäksi edetään. Puhutta essa seitsemästä tai useammasta vihkimyksestä kuudennesta vihki myksestä ei kerrota juuri mitään, eikä mitään sen jälkeisistä. Tämä johtuu toisenlaisesta luokittelusta – kuusi ”valmistautumisen” askelta ja neljä vihkimystä, jotka vievät pyrkijän Maakauden lopussa mesta riuteen. Sen jälkeen täytyy olla vielä kolme astetta, jos kysymyksessä olevan koulun tai yhdistyksen filosofia vie niin pitkälle. Kirjoittaja ei kuitenkaan tiedä muiden kuin ruusuristiläisten kertovan niistä kolmesta aikakaudesta, jotka edelsivät Maakautta, muut pelkästään mainitsevat, että sellaisia aikakausia on ollut. Niiden suhdetta nykyi seen kehitysasteeseemme ei kuitenkaan täsmällisesti määritellä. Sen lisäksi muut okkulttiset opetukset yksinkertaisesti vain mainitsevat, että vielä on jäljellä kolme kehitysjärjestelmää, mutta niiden yksityis kohtia ei kuvata. Näin ollen kolmesta viimeisestä vihkimyksestä ei tietenkään puhuta. 
 
-DIAGRAM 18!!!!!!!!!!!!!!!!!!!!! Kaavio 18 Maan rakenne. 
+Kaavio 18 antaa käsityksen maan kerrosten järjestäytymisestä jättäen pois keskuksen, joka selventää yhdeksännen kerroksen virta usten lemniskaattista (38) kulkua. Kaaviossa kerrokset on kuvattu yhtä paksuina, vaikka todellisuudessa jotkin ovat paljon muita ohuempia. Ulkokuoresta alkaen ne esiintyvät seuraavassa järjestyksessä: 
 
-Kaavio 18 antaa käsityksen maan kerrosten järjestäytymisestä jättäen pois keskuksen, joka selventää yhdeksännen kerroksen virta usten lemniskaattista38 kulkua. Kaaviossa kerrokset on kuvattu yhtä paksuina, vaikka todellisuudessa jotkin ovat paljon muita ohuempia. Ulkokuoresta alkaen ne esiintyvät seuraavassa järjestyksessä: 
+() - (38) Lemniskaatta on matematiikassa algebrallinen käyrä. Esimerkiksi Bernoul lin lemniskaatta on muodoltaan ∞. – Suom. huom. 
 
-38 Lemniskaatta on matematiikassa algebrallinen käyrä. Esimerkiksi Bernoul lin lemniskaatta on muodoltaan ∞. – Suom. huom. 
+(1) Kivennäiskerros. Tämä on maapallon kivinen kuori, jota geolo gia käsittelee niin pitkälle kuin se kykenee. 
 
-1) Kivennäiskerros. Tämä on maapallon kivinen kuori, jota geolo gia käsittelee niin pitkälle kuin se kykenee. 
+(2) Nestemäinen kerros. Tämän kerroksen aine on juoksevampaa kuin ulkokuoren, ei kuitenkaan vetistä, vaan paremminkin paksun taikinan tapaista. Se kykenee laajenemaan kuten herkästi räjähtävät kaasut ja pysyy paikoillaan ainoastaan ulkokuoren suunnattoman paineen ansiosta. Jos tämä poistettaisiin, koko nestekerrostuma häi pyisi avaruuteen valtavana räjähdyksenä. Tämä kerros vastaa fyysi sessä maailmassa fyysisen maailman kemiallista ja eetteristä tasoa. 
 
-2) Nestemäinen kerros. Tämän kerroksen aine on juoksevampaa kuin ulkokuoren, ei kuitenkaan vetistä, vaan paremminkin paksun taikinan tapaista. Se kykenee laajenemaan kuten herkästi räjähtävät kaasut ja pysyy paikoillaan ainoastaan ulkokuoren suunnattoman paineen ansiosta. Jos tämä poistettaisiin, koko nestekerrostuma häi pyisi avaruuteen valtavana räjähdyksenä. Tämä kerros vastaa fyysi sessä maailmassa fyysisen maailman kemiallista ja eetteristä tasoa. 
+(3) Höyrykerros. Kahdessa ensimmäisessä kerroksessa ei oikeas taan ole tietoista elämää, mutta tässä kerroksessa on alati virtaavaa ja sykkivää elämää, kuten tunnemaailmassa, joka ympäröi ja läpäisee maapallon. 
 
-3) Höyrykerros. Kahdessa ensimmäisessä kerroksessa ei oikeas taan ole tietoista elämää, mutta tässä kerroksessa on alati virtaavaa ja sykkivää elämää, kuten tunnemaailmassa, joka ympäröi ja läpäisee maapallon. 
+(4) Vesikerros. Tämä kerros sisältää orastavat mahdollisuudet kaikkeen, mikä ilmenee maan pinnalla. Täällä ovat ryhmähenkien takana olevat arkkityyppiset voimat kuten myös kivennäisten arkki tyyppiset voimat, koska tämä on konkreettisen ajattelun tason fyysi nen ilmaisu. 
 
-4) Vesikerros. Tämä kerros sisältää orastavat mahdollisuudet kaikkeen, mikä ilmenee maan pinnalla. Täällä ovat ryhmähenkien takana olevat arkkityyppiset voimat kuten myös kivennäisten arkki tyyppiset voimat, koska tämä on konkreettisen ajattelun tason fyysi nen ilmaisu. 
-
-5) Siemenkerros. Materialistiset tiedemiehet ovat etsiessään elä män alkuperää ymmällä siitä, kuinka ensimmäiset elävät oliot tulivat alun perin esiin kuolleesta aineesta. 
+(5) Siemenkerros. Materialistiset tiedemiehet ovat etsiessään elä män alkuperää ymmällä siitä, kuinka ensimmäiset elävät oliot tulivat alun perin esiin kuolleesta aineesta. 
 
 Itse asiassa sen mukaan, miten salatiede ymmärtää kehityksen kulun, olisi kysyttävä, kuinka ”kuollut” aine syntyi. Elämä oli olemas sa ennen kuolleita muotoja. Se muodosti ruumiinsa ohuesta, usvai sesta aineesta kauan ennen kuin se tiivistyi maan kiinteäksi kuoreksi. Vasta sitten kun elämä poistui muodoista, ne kykenivät kiteytymään ja tulemaan koviksi ja kuolleiksi. 
 
@@ -4115,7 +4129,7 @@ Hiili on vain kiteytynyttä kasvia, ja koralli on muodostunut kitey tyneistä el
 
 Tässä viidennessä kerroksessa on alkuperäinen elämänlähde. Sii tä lähti impulssi, joka rakensi kaikki muodot maan päällä. Se vastaa abstraktin ajattelun tasoa. 
 
-6) Tulikerros. Niin oudolta kuin tämä kuulostaakin, tämä kerros sisältää aistituntemukset. Nautinto ja tuska, sympatia ja antipatia 409maapallon rakenne ja tulivuorten purkaukset vaikuttavat täällä maapalloon. Yleinen käsitys on, että maapallo ei voi missään olosuhteissa tuntea mitään. Kuitenkin kun salatieteilijä seuraa kypsän viljan korjuuta ja hedelmien keräämistä syksyllä tai kukkien poimimista, hän pystyy erottamaan sen nautinnon, jonka maapallo kokee. Se on samanlainen kuin minkä lehmä tuntee va sikan imiessä maitoa pullottavista utareista. Maa tuntee mielihyvää annettuaan ravintoa maanpäällisen elämän jatkumiseen, ja tämä mielihyvä saavuttaa huipennuksen elonkorjuuaikana. 
+(6) Tulikerros. Niin oudolta kuin tämä kuulostaakin, tämä kerros sisältää aistituntemukset. Nautinto ja tuska, sympatia ja antipatia 409maapallon rakenne ja tulivuorten purkaukset vaikuttavat täällä maapalloon. Yleinen käsitys on, että maapallo ei voi missään olosuhteissa tuntea mitään. Kuitenkin kun salatieteilijä seuraa kypsän viljan korjuuta ja hedelmien keräämistä syksyllä tai kukkien poimimista, hän pystyy erottamaan sen nautinnon, jonka maapallo kokee. Se on samanlainen kuin minkä lehmä tuntee va sikan imiessä maitoa pullottavista utareista. Maa tuntee mielihyvää annettuaan ravintoa maanpäällisen elämän jatkumiseen, ja tämä mielihyvä saavuttaa huipennuksen elonkorjuuaikana. 
 
 Toisaalta kun kasvi repäistään juurineen maasta, salatieteilijälle on ilmiselvää, että maa tuntee tuskan piston. Siitä syystä hän ei syö maan pinnan alapuolella kasvanutta kasvisravintoa. Ensiksikin ne ovat täynnä maaenergiaa, eikä niissä ole riittävästi aurinkoenergiaa. Sen lisäksi ne myrkyttyvät, kun ne vedetään maasta juurineen. Aino ana poikkeus tähän sääntöön on, että hän voi käyttää jonkin verran perunaa, joka alkuaan kasvoi maan päällä ja on vain verrattain ly hyen ajan kasvanut maan pinnan alapuolella. Salatieteilijät pyrkivät ravitsemaan ruumistaan hedelmillä, jotka kasvavat kohti aurinkoa, koska ne sisältävät enemmän korkealaatuista aurinkovoimaa, eivät kä aiheuta maapallolle tuskaa. 
 
@@ -4125,15 +4139,15 @@ Kuten eläinten ja ihmisten tuntemukset johtuvat niiden erillises tä elollisruu
 
 Sitä mukaa kuin kehitys etenee ja ihminen oppii poistamaan ne syyt, jotka aiheuttavat tämän kiinteytymisen, maa tulee pehmeäm mäksi ja sen henki vapautuu yhä enemmän. Tätä Paavali tarkoitti sanoessaan, että koko luomakunta huokaa synnytystuskissaan odot taessaan vapautumisen päivää. 
 
-7) Heijastava kerros. Tämä maapallon kerros vastaa jumalallisen hengen maailmaa. Täällä ovat ne ”seitsemän sanoin kuvaamatonta salaisuutta”, joista salainen tiede puhuu. Niille, jotka eivät tunne näi tä seitsemää salaisuutta tai joilla ei ole edes aavistusta niiden merki tyksestä, tämän kerroksen ominaisuudet tuntuvat hyvin omituisilta. Täällä kaikki ne voimat, jotka tunnemme nimellä ”luonnonlait”, ovat olemassa siveellisinä tai pikemmin epäsiveellisinä voimina. Ihmisen tietoisen kehityksen alussa ne olivat paljon pahempia kuin nykyisin. Näyttää siltä, että ihmiskunnan kehittyessä siveellisesti nämä energi at kehittyvät vastaavasti. Samoin jokainen moraalinen hairahtumi nen pyrkii päästämään nämä luonnonvoimat irti ja saa ne aiheutta maan tuhoa maan päällä. Kun taas pyrkiminen korkeampia ihanteita kohti tekee ne vähemmän vahingollisiksi ihmisille. 
+(7) Heijastava kerros. Tämä maapallon kerros vastaa jumalallisen hengen maailmaa. Täällä ovat ne ”seitsemän sanoin kuvaamatonta salaisuutta”, joista salainen tiede puhuu. Niille, jotka eivät tunne näi tä seitsemää salaisuutta tai joilla ei ole edes aavistusta niiden merki tyksestä, tämän kerroksen ominaisuudet tuntuvat hyvin omituisilta. Täällä kaikki ne voimat, jotka tunnemme nimellä ”luonnonlait”, ovat olemassa siveellisinä tai pikemmin epäsiveellisinä voimina. Ihmisen tietoisen kehityksen alussa ne olivat paljon pahempia kuin nykyisin. Näyttää siltä, että ihmiskunnan kehittyessä siveellisesti nämä energi at kehittyvät vastaavasti. Samoin jokainen moraalinen hairahtumi nen pyrkii päästämään nämä luonnonvoimat irti ja saa ne aiheutta maan tuhoa maan päällä. Kun taas pyrkiminen korkeampia ihanteita kohti tekee ne vähemmän vahingollisiksi ihmisille. 
 
 Tämän kerroksen energiat ovat siten aina tarkka heijastus ihmis kunnan sen hetkisestä siveellisestä tasosta. Salatieteelliseltä kannal ta katsoen ”Jumalan käsi”, joka hävitti Sodoman ja Gomorran ei ole naurettavaa taikauskoa. Yhtä varmasti kuin on olemassa yksilöl linen vastuu seuraamuksen lain edessä – lain, joka antaa kullekin oikeudenmukaisen tuomion teoistaan, hyvistä ja pahoista – niin on myös olemassa yhteiskunnallinen ja kansallinen edesvastuu, joka aiheuttaa ihmisryhmille heidän yhteisten tekojensa seuraukset. Luonnonvoimat ovat tämän oikeuden yleismaailmallisia jakajia ai heuttaen tulvia ja maanjäristyksiä tai suunnaten öljy- tai hiilivaroja niille, jotka ovat ne ansainneet. 
 
-8) Atomikerros. Tämän nimen ruusuristiläiset ovat antaneet maapallon kahdeksannelle kerrokselle, joka on ilmennys neitseel listen henkien maailmasta. Sillä näyttää olevan ominaisuus monin kertaistaa sisältämänsä asiat. Tämä koskee kuitenkin vain sellaisia asioita, jotka ovat selvästi muodostuneet. Muotoutumaton puun pa lanen tai kivi ei ole olemassa siellä, mutta kaikkeen, missä on elämä ja muoto (kuten kukka tai kuva), tämä kerros vaikuttaa aivan häm mästyttävällä tavalla monistavasti. 
+(8) Atomikerros. Tämän nimen ruusuristiläiset ovat antaneet maapallon kahdeksannelle kerrokselle, joka on ilmennys neitseel listen henkien maailmasta. Sillä näyttää olevan ominaisuus monin kertaistaa sisältämänsä asiat. Tämä koskee kuitenkin vain sellaisia asioita, jotka ovat selvästi muodostuneet. Muotoutumaton puun pa lanen tai kivi ei ole olemassa siellä, mutta kaikkeen, missä on elämä ja muoto (kuten kukka tai kuva), tämä kerros vaikuttaa aivan häm mästyttävällä tavalla monistavasti. 
 
-9) Maan hengen aineellinen ilmenemismuoto. Täällä ilmenevät lemniskaatan muotoiset virtaukset, jotka ovat läheisessä yhteydessä ihmisen aivoihin, sydämeen ja sukupuolielimiin. Tämä vastaa Juma lan maailmaa. 
+(9) Maan hengen aineellinen ilmenemismuoto. Täällä ilmenevät lemniskaatan muotoiset virtaukset, jotka ovat läheisessä yhteydessä ihmisen aivoihin, sydämeen ja sukupuolielimiin. Tämä vastaa Juma lan maailmaa. 
 
-10) Maan hengen olemuksen keskipiste. Tällä hetkellä tästä ei voi da sanoa muuta kuin että se on korkein siemenkota kaikelle, mitä maassa ja maan päällä on. Se vastaa Absoluuttia. 
+(10) Maan hengen olemuksen keskipiste. Tällä hetkellä tästä ei voi da sanoa muuta kuin että se on korkein siemenkota kaikelle, mitä maassa ja maan päällä on. Se vastaa Absoluuttia. 
 
 Maan kuudennesta eli tulisesta kerroksesta aina maan pintaan saakka on useita kuiluja eri paikoissa. Niiden uloimpia aukkoja kut sutaan ”tulivuoren kraattereiksi”. Kun luonnonvoimat seitsemän nessä kerroksessa vapautetaan, niin että ne voivat ilmentää itseään tulivuorenpurkauksina, ne panevat kuudennen eli tulikerroksen liik keeseen, ja tämä kuohunta leviää ulospäin tulivuoren suulle. Aine otetaan toisen kerroksen materiaalista. Se on kuudennen kerrok sen tiheämpi vastapuoli, samoin kuin elollisruumis, ihmisen toinen käyttöväline, on elämänhengen, kuudennen olemuspuolen tiheämpi vastapuoli. Tämän nestemäisen kerroksen laajeneva ja herkästi rä jähtävä ominaisuus takaa rajoittamattoman määrän ainetta purka uksen aikana. Tullessaan kosketukseen ilmakehän kanssa se osa, joka ei haihdu avaruuteen, kovettuu muodostaen laavaa ja tuhkaa kunnes, kuten haavasta vuotava veri hyytyy ja pysäyttää vuodon, lo pulta laava sulkee maan sisältä tulevan aukon. 
 
@@ -4141,9 +4155,13 @@ Koska ihmiskunnan siveettömyys ja henkisyyttä vastustavat tai pumukset herätt
 
 Viimeisen 2000 vuoden aikana tapahtuneet purkaukset osoitta vat, että niiden esiintymistiheys on kasvanut aineellisuuden kasvun mukana. Varsinkin viimeisten 60 vuoden aikana, jolloin aineellinen tiede on tullut niin ylimieliseksi, että se ehdottomasti kieltää kaiken henkisen olemassaolon, näitä purkauksia on tapahtunut useammin. Ensimmäisten 1000 vuoden aikana jälkeen Kristuksen tapahtui vain kuusi purkausta, mutta viisi viimeistä purkausta on tapahtunut vii meisten 51 vuoden aikana, kuten seuraavasta huomaamme. 
 
-Ensimmäinen kristillisellä aikakaudella tapahtunut tulivuoren purkaus oli se, joka hävitti Herculanumin ja Pompeijin kaupungit ja jossa Plinius vanhempi sai surmansa vuonna 79 jKr. Seuraavat purkaukset tapahtuivat vuosina 203, 472, 512, 652, 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891, 1906. En simmäisen 1000 vuoden aikana oli siis kuusi purkausta, seuraavan vuosituhannen aikana kaksitoista ja viimeiset viisi 51 vuoden aikana, kuten aiemmin mainittiin.39 Kaikista 18 purkauksesta ensimmäiset yhdeksän tapahtuivat niin sanotun ”pimeän ajan” kuluessa, niiden 1600 vuoden aikana, jolloin länsimaailmaa hallitsi ”pakanallisuus” tai Rooman kirkko. Muut ovat tapahtuneet viimeisen kolmensadan vuoden kuluessa, jona aikana nykytieteen herääminen ja kasvami nen materialistisine taipumuksineen on hävittänyt melkein viimei sen henkisyyden pilkahduksenkin, etenkin 19. vuosisadan viimeisel lä puoliskolla. Sen tähden lähes yksi kolmasosa näistä purkauksista on tapahtunut sinä aikana. 
+Ensimmäinen kristillisellä aikakaudella tapahtunut tulivuoren purkaus oli se, joka hävitti Herculanumin ja Pompeijin kaupungit ja jossa Plinius vanhempi sai surmansa vuonna 79 jKr. Seuraavat purkaukset tapahtuivat vuosina 203, 472, 512, 652, 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891, 1906. 
 
-39 Teoksen kirjoittamisen jälkeen Vesuvius on purkaantunut vuosina 1926, 1929 ja 1944. – Suom. huom. 
+En simmäisen 1000 vuoden aikana oli siis kuusi purkausta, seuraavan vuosituhannen aikana kaksitoista ja viimeiset viisi 51 vuoden aikana, kuten aiemmin mainittiin. (39) 
+
+() - (39) Teoksen kirjoittamisen jälkeen Vesuvius on purkaantunut vuosina 1926, 1929 ja 1944. – Suom. huom. 
+
+Kaikista 18 purkauksesta ensimmäiset yhdeksän tapahtuivat niin sanotun ”pimeän ajan” kuluessa, niiden 1600 vuoden aikana, jolloin länsimaailmaa hallitsi ”pakanallisuus” tai Rooman kirkko. Muut ovat tapahtuneet viimeisen kolmensadan vuoden kuluessa, jona aikana nykytieteen herääminen ja kasvami nen materialistisine taipumuksineen on hävittänyt melkein viimei sen henkisyyden pilkahduksenkin, etenkin 19. vuosisadan viimeisel lä puoliskolla. Sen tähden lähes yksi kolmasosa näistä purkauksista on tapahtunut sinä aikana. 
 
 Kumotakseen tämän turmelevan vaikutuksen vanhemmat veljet, jotka aina työskentelevät ihmiskunnan hyväksi, ovat antaneet paljon salaista tietoa näinä aikoina. Tarkoitus on, että antamalla tätä tietoa ja opetusta muutamille harvoille, jotka vielä ottavat niitä vastaan, tulisi mahdolliseksi ehkäistä materialismin tulva, joka muuten aihe uttaisi hyvin vakavia seurauksia pitkään henkisyyden olemassaolon kieltäneille. Heille voi olla kuoltuaan mahdotonta löytää tasapaino huomatessaan, että he ovat vielä olemassa, vaikka ovat jättäneet kiinteän ruumiinsa. Näiden ihmisten kohtalo saattaa olla liian mur heellinen, että sitä voisi tarkastella tyynesti. Yksi syy tähän kauheaan ”valkoiseen vitsaukseen” on materialismi, joka ei ehkä johdu nykyi sestä inkarnaatiosta vaan aikaisemmista materialistisista uskomuk sista ja vakaumuksista. 
 
@@ -4169,9 +4187,9 @@ Tällaisia teorioita on monia. Kopernikuksen teoria ei ole täysin oikea ja on m
 
 Edellisillä sivuilla esitetyt asiat saattavat tuntua monen mielestä mielikuvituksellisilta. Olkoon niin. Aika tulee osoittamaan kaikille, että tässä esitetyt tiedot pitävät paikkansa. Tämä kirja on ainoas taan niitä harvoja varten, jotka ovat vapauttamalla mielensä oikea oppisen tieteen ja uskonnon kahleista valmiita hyväksymään sen, kunnes ovat osoittaneet sen vääräksi. 
 
-### XIX LUKU: CHRISTIAN ROSENKREUTZ JA RUUSURISTILÄINEN JÄRJESTÖ 
+### <h3 id="chapter-19">XIX Luku: Christian Rosenkreutz ja Ruusuristiläinen järjestö</h3>
 
-#### Ikivanhoja totuuksia nykyaikaisissa vaatteissa 
+#### <h4 id="ancient-truths-in-modern-dress">Ikivanhoja totuuksia nykyaikaisissa vaatteissa</h4>
 
 Koska kansan keskuudessa on herännyt halu saada tietoa ruusu ristiläisjärjestöstä ja koska ruusuristiläisveljien merkitystä länsimai sessa sivistyksessä ei ymmärretä edes tutkijoidemme keskuudessa, saattaa olla paikallaan antaa jonkin verran luotettavaa tietoa asiasta. 
 
@@ -4189,7 +4207,9 @@ Todellinen uskonto sisältää sekä tieteen että taiteen, sillä se opet taa k
 
 Todellinen tiede on taidetta ja uskontoa niiden korkeimmassa merkityksessä, koska se opettaa meitä kunnioittamaan ja sopeutu maan lakeihin, jotka ylläpitävät hyvinvointiamme, ja selittää, kuinka uskonnollinen elämä edistää terveyttä ja kauneutta. 
 
-Todellinen taide on yhtä opettavaista kuin tiede ja yhtä kohotta vaa vaikutukseltaan kuin uskonto. Rakennustaide esittää mitä yle vimmällä tavalla maailmankaikkeuden kosmisia voimia. Se täyttää henkisen katsojan suurella hartaudella ja palvonnalla, joka syntyy Jumalan ylitsevuotavan suuruuden ja majesteettisuuden kunnioitta misesta ja ymmärtämisestä. Kuvanveisto ja maalaus, musiikki ja kir jallisuus inspiroivat meitä Jumalan – kauniin maailmamme muuttu mattoman lähteen ja päämäärän – ylivertaisella ihanuudella. Mikään muu kuin tällainen kaiken käsittävä opetus ei voi pysyvästi vastata ihmiskunnan tarpeisiin. Vielä niinkin myöhään kuin kreikkalaisuu den aikaan mysteeritemppeleissä opetettiin uskontoa, taidetta ja tie dettä yhdessä. Mutta oli välttämätöntä erottaa ne toisistaan joksikin aikaa, jotta ne pääsisivät kehittymään paremmin. 
+Todellinen taide on yhtä opettavaista kuin tiede ja yhtä kohotta vaa vaikutukseltaan kuin uskonto. Rakennustaide esittää mitä yle vimmällä tavalla maailmankaikkeuden kosmisia voimia. Se täyttää henkisen katsojan suurella hartaudella ja palvonnalla, joka syntyy Jumalan ylitsevuotavan suuruuden ja majesteettisuuden kunnioitta misesta ja ymmärtämisestä. Kuvanveisto ja maalaus, musiikki ja kir jallisuus inspiroivat meitä Jumalan – kauniin maailmamme muuttu mattoman lähteen ja päämäärän – ylivertaisella ihanuudella. 
+
+Mikään muu kuin tällainen kaiken käsittävä opetus ei voi pysyvästi vastata ihmiskunnan tarpeisiin. Vielä niinkin myöhään kuin kreikkalaisuu den aikaan mysteeritemppeleissä opetettiin uskontoa, taidetta ja tie dettä yhdessä. Mutta oli välttämätöntä erottaa ne toisistaan joksikin aikaa, jotta ne pääsisivät kehittymään paremmin. 
 
 Uskonnolla oli yksinvalta niin sanotulla ”pimeällä keskiajalla”. Silloin sekä tiede että taide oli sidottu sen kahleisiin. Sitten tuli re nessanssin aika, jolloin taide astui etualalle kaikissa muodoissaan. Kuitenkin uskonnon asema oli edelleen vahva, ja taidetta käytettiin hyvin usein palvelemaan uskontoa. Viimeiseksi tuli nykyisen tieteen aalto, ja se on alistanut uskonnon rautaisella kädellä valtaansa. 
 
@@ -4207,12 +4227,7 @@ Monta vuosisataa on kulunut siitä, kun ruusuristiläisen mysteeri koulun perust
 
 Hän työskenteli alkemistien kanssa satoja vuosia ennen nykyisen tieteen syntymistä. Hän inspiroi välillisesti Baconin nykyisin raa dellut teokset. Jakob Böhme ja monet muut saivat hänen kauttaan innoitusta, joka teki heidän teoksistaan henkisesti valaisevia. Koh taamme saman vaikutuksen Goethen ja Wagnerin mestariteoksis sa. Kaikki pelottomat sielut, jotka torjuvat oikeaoppisen tieteen tai oikeaoppisen uskonnon kahleet ja jotka huolimatta parjauksesta ja imartelusta heittävät pois kuoren ja tunkeutuvat hengen ytimeen, saavat inspiraation samasta lähteestä kuin tämä suuri henki, joka elävöitti Christian Rosenkreutzia. 
 
-Jo hänen nimensä osoittaa tavan ja keinot, joiden avulla nykyajan ihminen muuttuu jumalalliseksi yli-ihmiseksi. Tämä vertauskuva 
-
-”Christian Rosen Kreutz”    
-Kristillinen Ruusu-Risti,    
-
-osoittaa ihmiskunnan kehityksen päämäärän ja tarkoituksen: tien, joka on kuljettava, ja keinot joiden avulla tuo päämäärä saavutetaan. Musta risti, kasvin vihreä punottu varsi, piikit ja verenpunainen ruu su – näihin on kätkettynä ratkaisu maailman mysteeriin – ihmisen aikaisempi kehitys, nykyinen rakenne ja erityisesti salaisuus hänen tulevaan kehitykseensä. 
+Jo hänen nimensä osoittaa tavan ja keinot, joiden avulla nykyajan ihminen muuttuu jumalalliseksi yli-ihmiseksi. Tämä vertauskuva ”Christian Rosen Kreutz” Kristillinen Ruusu-Risti, osoittaa ihmiskunnan kehityksen päämäärän ja tarkoituksen: tien, joka on kuljettava, ja keinot joiden avulla tuo päämäärä saavutetaan. Musta risti, kasvin vihreä punottu varsi, piikit ja verenpunainen ruu su – näihin on kätkettynä ratkaisu maailman mysteeriin – ihmisen aikaisempi kehitys, nykyinen rakenne ja erityisesti salaisuus hänen tulevaan kehitykseensä. 
 
 Se kätkee tietämättömältä, mutta paljastaa vihitylle yhä selvem min, miten hänen on työskenneltävä päivästä päivään luodakseen itselleen tuon parhaimman kaikista aarteista, viisasten kiven – kal liimman kuin Kohinoor, vieläpä kalliimman kuin kaikki maailman rikkaus yhteensä! Se muistuttaa hänelle, kuinka ihmiskunta tuhlaa tietämättömyydessään kaiken aikaa sitä todellista ainesta, jota voi taisiin käyttää tuon kalliin aarteen muodostamiseen. 
 
@@ -4248,7 +4263,7 @@ Kaksitoista veljeä pitää salassa järjestön johtajan ulkopuoliselta maailmal
 
 Ruusu-Ristin veljien ympärillä heidän oppilainaan on joukko ”maallikkoveljiä” – ihmisiä, jotka asuvat eri puolilla länsimaailmaa. He kykenevät tietoisesti jättämään ruumiinsa ja ottamaan osaa palvelusmenoihin sekä toimimaan temppelin henkisessä työssä, johon vanhemmat veljet ovat heidät kaikki ”vihkineet”. Useimmat muistavat kaiken, mitä tapahtuu, mutta on muutamia tapauksia, joissa ihminen on saavuttanut ruumiista poistumisen kyvyn edel lisen elämän ansioiden perusteella, mutta päihdyttävien aineiden käyttö tai sairaus tässä elämässä on tehnyt hänen aivonsa kykene mättömiksi vastaanottamaan vaikutelmia työstä, jota hän tekee ruu miista poissa ollessaan. 
 
-#### Vihkimys 
+#### <h4 id="initiation">Vihkimys</h4>
 
 Yleisen käsityksen mukaan vihkimystä pidetään pelkästään sere moniana, jolla henkilö otetaan jäseneksi johonkin salaiseen seuraan, ja se voidaan myöntää jokaiselle, joka haluaa maksaa tietyn hinnan, useimmissa tapauksissa jonkin rahasumman. 
 
@@ -4296,7 +4311,7 @@ Nyt on kuitenkin tullut aika, jolloin salaisten ponnistelujen lisäk si otetaan 
 
 On kuitenkin olemassa erittäin tärkeä ”mutta”: Ruusuristiläiset eivät pidä älyllistä ymmärrystä Jumalasta ja maailmankaikkeudesta kaiken päämääränä, kaukana siitä! Mitä suurempi äly, sitä suurempi on vaara sen väärinkäyttämiseen. Tästä syystä tämä tieteellinen, loo ginen ja tyhjentävä opetus on annettu, jotta ihminen oppisi uskomaan sydämessään, minkä hänen järkensä on hyväksynyt, ja alkaisi elää uskonnollista elämää. 
 
-#### Ruusuristiläinen veljeskunta (The Rosicrusian Fellowship) 
+#### <h4 id="the-rosicrucian-fellowship">Ruusuristiläinen veljeskunta (The Rosicrusian Fellowship)</h4>
 
 Ruusuristiläinen veljeskunta on perustettu saattamaan julkisuuteen tätä opetusta. Kuka tahansa, joka ei ole HYPNOTISOIJA, ammat timainen MEEDIO, SELVÄNÄKIJÄ, KÄDESTÄENNUSTAJA tai ASTROLOGI, voi tulla valmistavan kurssin opiskelijaksi ottamalla yhteyttä Rosicrucian Fellowship -järjestöön. Vihkimys- tai jäsen maksuja ei ole. Opetuksiamme ei voi ostaa rahalla, edistyminen riip puu pyrkimysten tuloksista. 
 
@@ -4316,7 +4331,7 @@ Sen tähden jokainen ruusuristiläisen veljeskunnan kokelas tekee harjoituksensa
 
 Kun kokelas on täyttänyt asetetut vaatimukset ja pyrkijäaikansa, hän voi pyytää vanhempien veljien yksilöllistä opetusta Rosicrucian Fellowshipin kautta. 
 
-#### Ruusuristiläisen veljeskunnan yleismaailmallinen päämaja 
+#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">Ruusuristiläisen veljeskunnan yleismaailmallinen päämaja</h4>
 
 Koska ruusuristiläinen veljeskunta oli perustettu levittämään tässä kirjassa annettuja opetuksia ja auttamaan pyrkijöitä edistymään tällä tiellä, tuli välttämättömäksi löytää vakituinen paikka ja tarpeelliset tilat tämän työn tekemiseen. Tätä tarkoitusta varten ostettiin maa pala Kaliforniasta Oceansiden kaupungista. Se sijaitsee 90 mailia Los Angelesista etelään ja 40 mailia pohjoiseen San Diegosta, joka on Yhdysvaltain lounaisin kaupunki. 
 
@@ -4324,17 +4339,17 @@ Tämä maa-alue on hyvin erikoisella paikalla ja siitä on erittäin kaunis näk
 
 Etelä-Kalifornia tarjoaa poikkeuksellisen hyvät olosuhteet hen kiseen kasvuun, koska eetterinen atmosfääri on siellä sakeampaa kuin missään muualla maailmassa, ja Mount Ecclesia, millä nimellä Rosicrucian Fellowshipin keskuspaikka tunnetaan, on erittäin suo tuisa tässä suhteessa. 
 
-#### RAKENNUKSET 
+#### <h4 id="our-buildings">Rakennukset</h4>
 
 Työ aloitettiin vuoden 1911 lopulla. Vuoteen 1973 mennessä oli pystytetty useita rakennuksia, joista osa ei ole enää olemassa. Vuonna 1962 perus korjattiin kappeli, jossa on pidetty päivittäin kaksi 15 minuutin palvelusta siitä lähtien kun se vihittiin käyttöön joulukuussa 1913. Samoin siellä pide tään edelleen hartaustilaisuus ja luento joka sunnuntai. Kaksikerroksinen toimistorakennus valmistui 1917, ja se peruskorjattiin 1962. Sen toisessa kerroksessa sijaitsevat eri osastojen toimistotilat: esoteerinen, kirjekurssi-, toimitus-, vieraiden kielten ja kirjanpito-osasto. Ensimmäisessä kerrokses sa on postitusosasto ja kirjapaino, jossa painetaan Rays from the Rose Cross -lehti ja kaikki muut Ruusuristiläisen veljeskunnan julkaisut. 
 
 Ruokala rakennettiin 1914, sitä suurennettiin 1930-luvun lopulla ja se peruskorjattiin 1962. Siellä tarjotaan kasvisruokaa. Parannustemppeli, jossa toimitetaan parannusseremonia joka ilta, valmistui 1920. Ruusu Risti-asuntola rakennettiin 1924 työntekijöitä ja vieraita varten. Parantola avattiin 1939, ja sitä käytettiin useita vuosia ei-tarttuvia tauteja sairastavi en hoitamiseen. Nykyisin siellä majoitetaan vieraita ja työntekijöitä. Vuo den 1962 jälkeen on rakennettu useita mökkejä, joissa työntekijät asuvat. Parannusosasto-rakennus pystytettiin 1940, josta käsin tehdään parannus työtä. 
 
-#### KIRJEKURSSIT 
+#### <h4 id="the-correspondence-school">Kirjekurssit</h4>
 
 Julkaisutyön lisäksi Rosicrucian Fellowship tarjoaa lahjoitusperiaatteella kolmea kirjekurssia: Ruusuristiläinen filosofia, Raamatun selitys ja Astrolo gia. Näistä saa lisätietoja pyydettäessä. 
 
-#### RUUSU-RISTIN SYMBOLIIKKA 
+#### <h4 id="the-symbolism-of-the-rose-cross">Ruusu-ristin symbolikka</h4>
 
 Kun tutkitaan jonkin myytin, legendan tai mystisen vertauskuvan tarkoitusta, on ehdottoman välttämätöntä ymmärtää, kuten kolmi ulotteisessa maailmassakin, että asioita täytyy tarkastella kaikilta näkökulmilta saadaksemme täydellisen käsityksen, koska jokaisella vertauskuvalla on monta puolta. Jokainen näkökanta paljastaa jon kin puolen, ja ne on otettava huomioon tasavertaisesti. 
 
@@ -4360,9 +4375,21 @@ Ruusuristiläiset odottavat innokkaasti päivää, jolloin ruusut kuk kivat ihmi
 
 Omasta puhdistuksestaan puhuessaan Johannes sanoo (1. Joh. 3:9): ”Ei yksikään Jumalasta syntynyt tee syntiä, sillä Jumalan siemen pysyy hänessä.” Pyrkijän edistymiselle on ehdottoman välttämätöntä, että hän on puhdas. On kuitenkin pidettävä mielessä, että ihmisel tä ei vaadita ehdotonta selibaattia, ennen kuin hän on saavuttanut kehitysvaiheen, jolloin hän on valmis suuriin vihkimyksiin. Meidän velvollisuutemme ja velkamme maailmankaikkeudelle on säilyttää ihmisrotu. Jos olemme mentaalisesti, moraalisesti, fyysisesti ja ai neellisesti kykeneviä, me voimme lähestyä suvunjatkamista pyhä nä uhrina ihmiskunnan alttarille, eikä aistillisena nautintona. Sitä ei myöskään saa tehdä tylyllä, vastahakoisella mielellä, vaan tulee ilolla luovuttaa itsensä etuoikeudelle tuottaa ruumis ystävälle, joka etsii jälleensyntymistä ruumiiseen ja olosuhteisiin, joita hän tarvit see kehitykseensä. Näin autamme myös häntä viljelemään kukkivia ruusuja ristillään. 
 
-### RUUSURISTILÄISEN KOKELAAN AAMU- JA ILTAHARJOITUKSET 
+## Topical Index: Alphabetical List of Words Indexed
 
-#### Iltaharjoitus 
+The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
+
+Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
+
+The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
+
+By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
+
+[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
+
+### <h3 id="addendum-a">Addendum A: Ruusuristiläisen kokelaan aamu- ja iltaharjoitukset</h3>
+
+#### <h4 id="">Iltaharjoitus</h4>
 
 Iltaharjoitus, ajatuksissa menneen päivän uudelleen kertaaminen, on kaikista suurin apu viemään pyrkijää eteenpäin saavutusten tiellä. Sillä on niin kauaskantoinen vaikutus, että sen avulla voidaan oppia, ei ainoastaan tämän elämän opetuksia, vaan jopa opetuksia, jotka muuten olisi varattu tulevia elämiä varten. 
 
@@ -4374,7 +4401,7 @@ Tämä menneen päivän tapahtumien läpikäymisen arvo on suun naton – suurem
 
 Kristus sanoi, että puhdassydämiset näkevät Jumalan. Opettaja avaa pikaisesti silmämme, kun olemme valmiit astumaan sisään ”op pimisen saliin”, tunnemaailmaan, jossa saamme ensimmäiset koke muksemme tietoisesta elämästä ilman kiinteää ruumista. 
 
-#### Aamuharjoitus 
+#### <h4 id="">Aamuharjoitus</h4>
 
 Toinen harjoitus, keskittyminen, suoritetaan aamulla mahdollisim man pian kokelaan herättyä. Hän ei saa nousta avaamaan verhoja eikä tehdä mitään muutakaan turhaa askaretta. Jos olo on ruumiil lisesti miellyttävä, tulisi heti rentoutua ja aloittaa keskittyminen. Tämä on erittäin tärkeää, koska heräämisen hetkellä henki on juuri palannut tunnemaailmasta ja silloin tietoinen kosketus tuohon maa ilmaan on helpompi saada takaisin kuin muulloin päivän aikana. 
 
@@ -4394,7 +4421,7 @@ Muinainen legenda kertoo, että aarteen etsiminen täytyy suorit taa yön hiljai
 
 Lopuksi, varo pitämästä näitä harjoituksia rasittavana tehtävänä. Anna niille niiden oikea arvo: ne ovat korkein etuoikeutemme. Aino astaan arvostamalla niitä tällä tavoin voimme tehdä niille oikeutta ja saamme niistä täyden hyödyn. 
 
-#### VELJESKUNNAN OPETUSTEN ALKUPERÄ 
+### <h3 id="">VELJESKUNNAN OPETUSTEN ALKUPERÄ</h3>
 
 Vaikka monet järjestöt käyttävät sanaa ”ruusuristi”, Ruusuristiläisellä veljes kunnalla (The Rosicrucian Fellowship) ei ole mitään yhteyttä niiden kanssa. 
 
@@ -4404,7 +4431,7 @@ Ruusuristiveljien ja ihmiskunnan hengen jättiläisten ohjauksessa Max Heindel k
 
 Yksi perusedellytys, jonka mukaan läntisen viisauden opetukset annet tiin Max Heindelille, oli, että niille ei saa asettaa hintaa. Hän piti uskolli sesti kiinni tästä periaatteesta koko elämänsä, ja sen jälkeen Rosicrucian Fellowshipin asioita hoitaneet ovat sittemmin tarkoin noudattaneet tätä sääntöä. Vaikka Veljeskunnan kirjat ovat myynnissä, kaikki kirjekurssit ja parannusosaston palvelukset ovat vapaaehtoisten lahjoitusten varassa. Mitään jäsenmaksuja ei ole. 
 
-### MIKÄ ON TOTUUS? 
+### <h3 id="">MIKÄ ON TOTUUS?</h3>
 
 Pilatus kysyi: ”Mikä on totuus?”, ja koska hän ei kyennyt sitä itse ym märtämään, hän ei saanut vastausta. 
 
@@ -4427,3 +4454,66 @@ Kun mystikko näkee valon aamun sarastuksessa, hän katsoo sitä kuin jokapäiv�
 Olemme kaikki kulkeneet elämässä eri polkuja eri aikoina. Jos kus olemme kulkeneet elämän läpi sotaisan säteen alla, kulkien toiminnanhalun ja kiihkon tietä välittämättä siitä, kuka kärsi tai mitä toisille tapahtui. Toisessa elämässä olemme tulleet kirkkaam man Venuksen värin säteen alla, kulkien rakkauden tietä. Joskus taas tiemme on kulkenut syvän sinisen Saturnuksen säteen alla ja toisen kerran vaaleamman sinisen Jupiterin säteen vaikutuksessa. Me kaik ki odotamme innolla Uranuksen keltaisesta säteestä tulevaa korke ampaa tietoisuutta. Kuitenkaan useimmat eivät kykene tällä hetkellä vastaanottamaan sitä, vaan heidän täytyy tyytyä Merkuriuksen alem paan, tummemman keltaiseen säteeseen. Me kaikki ponnistelemme vähitellen kohti auringosta tulevaa valkoista valoa, jossa kaikki värit yhdistyvät. Siihen meidän tulee pyrkiä, sillä kaikkien muiden sätei den valo on ainoastaan toissijaista. Suuresta keskuslähteestä tulee kaikki. 
 
 ”Entä sitten pimeys”, joku kysyy, ”onko se pahasta?” Ei, Jumalan maailmankaikkeudessa ei ole mitään pahaa. Päivällä näemme aurin gon valossa kaiken ihanuuden tällä pienellä avaruudessa pyörivällä maapallollamme. Jos olisi ainoastaan valoa, emme ehkä havaitsisi mitään maapallon ulkopuolelta ja pysyisimme tietämättöminä mis tään muusta kuin auringosta ja kuusta. Mutta kun ilta tulee ja päivän loiste on lakannut, eikä aurinko enää valaise taivasta, voimme tajuta ainakin jossakin määrin avaruuden valtavan suuruuden. Voimme nähdä miljoonien mailien päässä olevia maailmoja, ja henkemme yl tyy ihanaan antaumukseen, kun pysähdymme sen totuuden äärelle, että JUMALA ON KAIKKI JA KAIKESSA. – Max Heindel
+
+### Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?
+
+Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
+
+Answer: A question like the above was asked Mr. Heindel at one of his recent lectures in Los Angeles and he answered about as follows: While all great religions are God-given, there is a Western religion for the Western people as well as Hinduism for the people of India and I can see no good reason why we should copy their terminology and force people here to learn Sanskrit when we have an excellent language of our own, with terms capable of explaining everything. To make the matter clear, we will take an instance which occurred a number of years ago. There was at that time a controversy in a certain society which makes the mistake of promulgating Eastern teachings and using their terms here in the West. The dispute was about the word "Avyaktam". 
+
+Not even the Hindus are certain about the meaning of their terminology. Tons of paper and barrels of ink were used to settle the controversy and the following seems to be the definition upon which they finally compromised: "Avyaktam" is Parabraham clothed in Mulaprakriti, from which its UPAHHIS are made during the Manvantara and into which they are again resolved on arrival of the Arolaya." Mr. Heindel then said that he hoped the audience understood the meaning of "Avyaktam". When the audience laughed and shook their heads, the speaker expressed himself as being sorry for their lack of understanding of such a highly learned explanation, he would try the ordinary, garden variety of English and see if that would explain. "Avyaktam is Deity clothed in Cosmic Root Substance, from which its vehicles are made during the Day of Manifestation and into which they again resolve on arrival of the Cosmic Night." 
+
+When the audience had declared they comprehended this explanation, Mr. Heindel said it is the same with the word "karma". Everybody in the U.S. and a large part of the world besides, knows what a "debt of destiny" is without explanation and there are a number of other English words which may be used with better effect than the Hindu word karma, which is meaningless to the majority of Westerners. The speaker also held that such words as "astral" and "incarnation" were out of place because they have been conceived to mean something not warranted. He was sorry that the word "incarnation" had been used in our earliest literature, notably in the Cosmo. The Elder Brothers who gave him the teaching in German always used the word "Wiedergeburt", which means rebirth, and there is a great deal of difference between the two terms which may not appear at first sight. 
+
+It is possible for a Spirit to incarnate in an adult body by ousting the owner from his vehicle, by obsessing the body, but when we say rebirth, there is, and can be, only one meaning. In view of these facts he urges upon students never to use the term "incarnation" but always the word rebirth. 
+_____________________
+
+From The Rosicrucian Philosophy in Questions and Answers, Vol. 2, quoting an article by Mrs. Heindel in the March, 1915 "Echoes". 
+
+### Addendum C: Footnote to Chapter XIII (Regarding Race)
+
+The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
+
+Growth never ceases. In the twenty-first century, we can look back and see the tremendous growth that has taken place in our world. These changes have taken place in accordance with spiritual principles outlined in this book. 
+
+During the Lemurian Epoch, Jehovah came with His Angels and Archangels and made the first great division into Races, giving to each group the guiding influence of a Race-spirit-an Archangel. For each virgin spirit he appointed one of the Angels to act as guardian until the individual spirit had grown strong enough to become emancipated from all outside influence. There will be a total of sixteen races. (Cosmo-Conception, page 352) 
+
+We must recognize that we are not bodies, or races, but virgin spirits striving for perfection. If, as a virgin spirit, we forget this and identify ourselves with our Race, clinging to it with fanatic patriotism, then there is a great likelihood that we will become enmeshed in and sink with it when our fellow virgin spirits have passed to greater heights on the Path of Attainment. (Cosmo-Conception, page 307) 
+
+The reader is requested to note carefully that it is the Forms which degenerate. There is a very important distinction to be kept in mind between the bodies (or forms) of a race, and the spirit which is reborn in those race-bodies. (Cosmo-Conception, page 289) 
+
+Max Heindel gives various examples of groups to whom the integrity of the race was insisted upon. He mentions the Jews, and other early nations, as well as the Scots, Vikings, and Germano-Anglo-Saxons. He points out that occult scientists refer to the Sixteen Races as "the sixteen paths to destruction"; and Max Heindel wishes that "the reader may safely pass them all, for their grip is worse than the retardation in the next revolution." (Cosmo-Conception, page 231) 
+
+History is full of examples of "man's inhumanity to man". All Races have had individuals who have forgotten their spiritual heritage and have identified themselves with their Race and or Race-religion-"clinging to it with fanatic patriotism". Max Heindel gives the example of the white races who "have been guilty of fearful oppression against those other races, having in many cases massacred multitudes of the defenseless and unsuspecting natives-as witness the conduct of the Spaniards towards the ancient Peruvians and Mexicans, to specify but one of many instances". (Cosmo-Conception, page 290) 
+
+Christ came to prepare the way for the emancipation of humanity from the guidance of the differentiating Race and Family spirits, and to unite the whole human family in One Universal Brotherhood. (Cosmo-Conception, page 352) 
+
+Let us be mindful of Max Heindel's words to us: 
+
+```
+There's but one thing the world has need to know,
+There's but one balm for all our human woe,
+There's but one way that leads to heaven above.
+That way is Human Sympathy and Love.
+```
+
+For further study:
+
+Page 5, "A Word to the Wise"
+Page 223, "Stragglers and Newcomers"
+Page 386, "The Lucifer Spirits"
+Page 306, "The Sixteen Paths to Destruction"
+Page 347, "Guardian Angels"
+Page 352, "Mixing Blood in Marriage"
+Page 367, "The Evolution of Religion"
+Page 383, "Not Peace But A Sword"
+
+### Addendum D: Footnote to "Our Buildings"
+
+The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
+
+The Dining Hall was built in 1914, added to in the late 30's, renovated in 1962, with a sprouting room added in 1978. Here vegetarian meals are served to the workers and general public. In the Healing Temple, or Ecclesia, a healing service has been conducted each evening since the day of its dedication on Holy Night, December 24, 1920. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from non-contagious diseases. It is now called the Guest House and is used by workers and Fellowship members as living quarters and visitor accommodations. Numerous cottages have been built and renovated over the years to provide worker residences, the most recent structure being a two-level six-plex completed in 1976. 
+
+The Healing Department Building was erected in 1938. Built in the shape of a cross, it contains offices for the secretaries, who respond to requests for spiritual healing, and a healing Chapel in which a healing service is held at 8:45 am Monday through Friday. Adjacent to the Administration Building is a one-story structure containing the Business Offices, which include the Editorial Office for the "Rays from the Rose Cross" magazine (which was published for the first time in 1911 by Mr. Heindel), the Accounting Office, and Retail and Dealer Sales. 
+
+End of "The Rosicrucian Cosmo-Conception"
