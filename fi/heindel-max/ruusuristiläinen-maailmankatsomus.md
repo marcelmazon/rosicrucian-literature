@@ -68,7 +68,7 @@ Oceanside, California, 91054, USA
     - [Viinin vaikutus kehityksessä](#wine-as-a-factor-in-evolution)
     - [Ihmeellinen kertomus](#a-remarkable-story)
 - [II Osa: Maailman synty ja ihmisen synty](#part-2)
-  - [V Luku. Ihmisen suhde Jumalaan](#chapter-5)
+  - [V Luku: Ihmisen suhde Jumalaan](#chapter-5)
     - [Korkein Olento, Kosmiset tasot ja Jumala, kaavio 6](#diagram-6-the-supreme-being-the-cosmic-planes-and-god)
   - [VI Luku: Kehityssuunnitelma](#chapter-6)
     - [Alku](#the-beginning)
@@ -264,9 +264,9 @@ Ruusuristiläisen veljeskunnan opetus maailman mysteeriosta on laajin ja loogisi
 
 Edellä sanotusta selviää, ettei tekijä pidä kirjaansa alfana ja omega na, eikä lopullisena salatieteellisenä totuuden esityksenä, vaikka hän on antanut sille nimeksi Ruusuristiläinen maailmankatsomus. Hän haluaa voimakkaasti painottaa, että se ei sisällä uskontunnustusta, jonka järjestön perustaja tai joku muu henkilö kerta kaikkiaan olisi ruusuristiläisille julistanut. Yhä uudelleen hän painottaa, että tämä teos sisältää ainoastaan sen, minkä kirjoittaja itse on ruusuristiläisten opetusten mukaan maailman mysteeriosta ymmärtänyt. Tätä käsitys tä tukevat hänen omakohtaiset tutkimuksensa sisäisistä maailmoista sekä ihmisen tilasta ennen syntymää ja kuoleman jälkeen jne. Tekijä on täysin selvillä siitä, mikä vastuu on ihmisellä, joka joko tietoisesti tai tietämättään johtaa toisia harhaan ja sen tähden hän yrittää, mi käli mahdollista, omasta puolestaan välttää tätä ja samalla suojella muita ottamasta harha-askelia. 
 
-Lukijan tulee siis oman arvostelukykynsä perusteella joko omak sua tai hylätä tässä teoksessa esitetyt opetukset. Erityisesti on pyritty saamaan sanoma ymmärrettävään muotoon ja käyttämään helpos ti tajuttavia sanoja. Siitä syystä on käytetty vain yhtä sanaa kutakin käsitettä ilmaisemaan ja jokaisessa yhteydessä sillä on aina sama merkitys. Kun jotakin tiettyä käsitettä kuvaavaa sanaa ensi kerran käytetään, tekijä on yrittänyt määritellä sen mahdollisimman sel västi. Yksinomaan englanninkielisiä3 sanoja on käytetty, ja kieli on yritetty saada mahdollisimman yksinkertaiseksi. Tekijä on pyrkinyt selittämään käsiteltävänä olevia aiheita niin tarkasti ja selvästi kuin mahdollista ja välttämään kaksinaisen merkityksen mahdollisuutta. Missä määrin hän on tässä onnistunut, jääköön opiskelijan itsensä arvosteltavaksi. Samalla kun hän on käyttänyt kaikki mahdolliset keinot tuodakseen opetukset esille selvästi, hän näkee myös velvol lisuudekseen puolustautua sitä mahdollisuutta vastaan, että teosta pidettäisiin täydellisesti sanasta sanaan ruusuristiläisoppina. Jos hän laiminlyö tämän varoituksen, tämä teos voi joidenkin tutkijoiden mielessä saada liian suuren painoarvon. Tämä olisi epäoikeudenmu kaista sekä ruusuristiläisten veljeskuntaa että lukijaa kohtaan. Tämä panisi vastuun veljeskunnalle niistä erehdyksistä, joita tässä teoksessa, samoin kuin muissakin ihmiskätten töissä ilmenee. Tässä syy edellä olevaan varoitukseen. 
+Lukijan tulee siis oman arvostelukykynsä perusteella joko omak sua tai hylätä tässä teoksessa esitetyt opetukset. Erityisesti on pyritty saamaan sanoma ymmärrettävään muotoon ja käyttämään helpos ti tajuttavia sanoja. Siitä syystä on käytetty vain yhtä sanaa kutakin käsitettä ilmaisemaan ja jokaisessa yhteydessä sillä on aina sama merkitys. Kun jotakin tiettyä käsitettä kuvaavaa sanaa ensi kerran käytetään, tekijä on yrittänyt määritellä sen mahdollisimman sel västi. Yksinomaan englanninkielisiä (3) sanoja on käytetty, ja kieli on yritetty saada mahdollisimman yksinkertaiseksi. Tekijä on pyrkinyt selittämään käsiteltävänä olevia aiheita niin tarkasti ja selvästi kuin mahdollista ja välttämään kaksinaisen merkityksen mahdollisuutta. Missä määrin hän on tässä onnistunut, jääköön opiskelijan itsensä arvosteltavaksi. Samalla kun hän on käyttänyt kaikki mahdolliset keinot tuodakseen opetukset esille selvästi, hän näkee myös velvol lisuudekseen puolustautua sitä mahdollisuutta vastaan, että teosta pidettäisiin täydellisesti sanasta sanaan ruusuristiläisoppina. Jos hän laiminlyö tämän varoituksen, tämä teos voi joidenkin tutkijoiden mielessä saada liian suuren painoarvon. Tämä olisi epäoikeudenmu kaista sekä ruusuristiläisten veljeskuntaa että lukijaa kohtaan. Tämä panisi vastuun veljeskunnalle niistä erehdyksistä, joita tässä teoksessa, samoin kuin muissakin ihmiskätten töissä ilmenee. Tässä syy edellä olevaan varoitukseen. 
 
-3 Käännöksessä suomenkielisiä. – Suom. huom. 
+() - (3) Käännöksessä suomenkielisiä. – Suom. huom. 
 
 Viimeisen neljän vuoden aikana, jotka ovat kuluneet siitä, kun tekijä kirjoitti tässä esitetyt opetukset, hän on jatkanut näkymättö miä maailmoja koskevia tutkimuksiaan. Hän on kokenut myös ta junnan laajentumista, jota mainitut luontokunnat edellyttävät ja joka saavutetaan länsimaisen mysteerikoulun harjoitusten avulla. Muut kin tutkijat, jotka ovat seuranneet tässä esitettyjä, erityisesti länsi maalaisille sopivia harjoituksia laajemman tajunnan saavuttami seksi, ovat kyenneet omaperäisesti todistamaan useita tässä esitet tyjä asioita. Täten on se käsitys, jonka tekijä on saanut vanhempien veljien saamistaan opetuksista, tullut vahvistetuksi ja osoittautunut oleellisesti oikeaksi. Hän katsoo velvollisuudekseen tuoda tämän esille rohkaisuksi niille, jotka eivät vielä itse kykene näkemään. 
 
@@ -274,11 +274,9 @@ Olisi ollut parempi sanoa elollisruumiin muodostuvan prismoista eikä pisteistä
 
 Muitakin uusia ja tärkeitä havaintoja on tehty. Tiedämme nyt esi merkiksi, että hopealanka kasvaa uudelleen jokaisen elämän aika na. Yksi haara versoo esille tunneruumiin siemenatomista maksan kohdalla olevasta suuresta pyörteestä, toinen haara kasvaa kiinteän ruumiin sydämessä olevasta siemenatomista. Molemmat haarat yh tyvät elollisruumiin siemenatomissa solar plexuksessa. Tämä korke ampien ja alempien käyttövälineiden yhtyminen aiheuttaa heräämi sen. Hopealangan kehittymisellä sydämen ja solar plexuksen välillä ensimmäisen seitsemän vuoden aikana on erittäin tärkeä merkitys lapsen elämän mysteerissä. Samoin sen kasvaminen edelleen mak sasta solar plexukseen seuraavan seitsemän vuoden aikana aiheut taa nuoruuden kehityksen. Hopealangan valmistuminen ilmentää lapsuuselämän loppumista. Siitä lähtien pernan kautta virtaava au ringon energia antaa yksilöllisen värin aikuisen auraan heijastut tuaan elollisruumiin prismaattisessa siemenatomissa, joka sijaitsee solar plexuksessa. 
 
-## I OSA: IHMISEN NYKYINEN RAKENNE JA KEHITYSMENETELMÄ 
+<h2 id="part-1">I Osa: Ihmisen nykyinen rakenne ja kehitysmenetelmä</h2>
 
-Neljä luontokuntaa DIAGRAM!!!!!!!!! 
-
-### JOHDANTO 
+### <h3 id="introduction">Johdanto</h3>
 
 Länsimaailma on epäilemättä ihmisrodun etuvartijajoukko. Tässä kirjassa valaistaan syitä, joiden mukaan ruusuristiläiset eivät pidä juutalaisuutta eivätkä ”kansanomaista kristillisyyttä” vaan esoteeris ta kristinuskoa tulevana maailman uskontona. 
 
@@ -298,15 +296,13 @@ Jokaisessa syntymässä näyttää uusi elämä heräävän joukkoom me. Katsele
 
 Joka kynnykselle luo kuoleman luuranko kaamean varjonsa. Vanhan ja nuoren, hyvän ja pahan, rikkaan ja köyhän, kaikkien täy tyy lähteä tuon varjon mukana, ja kautta aikakausien on kaikunut surkea huuto, joka vaatii ratkaisua elämän arvoitukseen ja ratkaisua kuoleman arvoitukseen! 
 
-Ihmisten suuri enemmistö hakee vielä tänä päivänä vastausta noihin kolmeen kysymykseen: ”Mistä olemme tulleet? Miksi olem me täällä? Mihin menemme?” 
-
-Valitettavasti yleinen mielipide on, että näistä asioista, jotka ih miselle merkitsevät niin paljon, ei voida tietää mitään varmaa. Kui tenkin tällainen ajatus on aivan väärä. Jokainen ihminen voi poik keuksetta saada varmaa ja ensi käden tietoa näistä asioista. Hän voi persoonallisesti tutkia ihmishengen tilaa ennen syntymää ja sen jäl keen. Minkäänlaista suositusta ei tarvita eikä erikoisia lahjoja. Meillä jokaisella on synnynnäinen mahdollisuus oppia tuntemaan nuo asi at. Mutta! – Niin, on olemassa mutta-sana ja vieläpä MUTTA isoilla kirjaimilla kirjoitettuna. Jokaisella ihmisellä on tämä kyky, kuitenkin se on useimmilla uinuvassa tilassa. Sen herättäminen vaatii kestävää ponnistelua, ja tämä näyttää olevan suuri este. Jos tuon tietoisuu den kyky voitaisiin hankkia rahalla, monet maksaisivat korkeankin hinnan ollakseen etulyöntiasemassa kanssaihmisiinsä nähden. Har vat ovat halukkaita elämään sillä tavalla, että tällainen kyky heräisi. Tämä saavutetaan vain kärsivällisellä ja kestävällä ponnistelulla. Sitä ei voi rahalla hankkia, eikä siihen pääse valtatietä kulkemalla. 
+Ihmisten suuri enemmistö hakee vielä tänä päivänä vastausta noihin kolmeen kysymykseen: ”Mistä olemme tulleet? Miksi olem me täällä? Mihin menemme?” Valitettavasti yleinen mielipide on, että näistä asioista, jotka ih miselle merkitsevät niin paljon, ei voida tietää mitään varmaa. Kui tenkin tällainen ajatus on aivan väärä. Jokainen ihminen voi poik keuksetta saada varmaa ja ensi käden tietoa näistä asioista. Hän voi persoonallisesti tutkia ihmishengen tilaa ennen syntymää ja sen jäl keen. Minkäänlaista suositusta ei tarvita eikä erikoisia lahjoja. Meillä jokaisella on synnynnäinen mahdollisuus oppia tuntemaan nuo asi at. Mutta! – Niin, on olemassa mutta-sana ja vieläpä MUTTA isoilla kirjaimilla kirjoitettuna. Jokaisella ihmisellä on tämä kyky, kuitenkin se on useimmilla uinuvassa tilassa. Sen herättäminen vaatii kestävää ponnistelua, ja tämä näyttää olevan suuri este. Jos tuon tietoisuu den kyky voitaisiin hankkia rahalla, monet maksaisivat korkeankin hinnan ollakseen etulyöntiasemassa kanssaihmisiinsä nähden. Har vat ovat halukkaita elämään sillä tavalla, että tällainen kyky heräisi. Tämä saavutetaan vain kärsivällisellä ja kestävällä ponnistelulla. Sitä ei voi rahalla hankkia, eikä siihen pääse valtatietä kulkemalla. 
 
 Myönnetään, että pianon soiton oppiminen vaatii suurta harjoi tusta. Myönnetään, että kellosepäksi ei voi päästä oppilasaikaa suo rittamatta. Mutta kun kysymyksessä on sielu, kuolema ja sen jälkeiset asiat sekä olemassaolon suuret syyt, niin jokainen arvelee tietävänsä niistä yhtä paljon kuin muut ja olevansa yhtä oikeutettu lausumaan niistä mielipiteensä, vaikka hän ei ole uhrannut hetkeäkään niiden tutkimiseen. 
 
-Kenenkään ei pitäisi vaatia kunnioitusta mielipiteelleen, jos hän ei ole tutkimusten perusteella tehnyt itseään kelvolliseksi lausumaan arvostelua asiasta. Kun asiantuntijaa pyydetään todistajaksi laki asiassa, tutkitaan ensin hänen pätevyytensä. 
+Kenenkään ei pitäisi vaatia kunnioitusta mielipiteelleen, jos hän ei ole tutkimusten perusteella tehnyt itseään kelvolliseksi lausumaan arvostelua asiasta. Kun asiantuntijaa pyydetään todistajaksi laki asiassa, tutkitaan ensin hänen pätevyytensä. Jos häntä ei havaita täysin päteväksi sillä alalla, jossa hänen näke mystään pyydetään, niin todistuksella ei ole mitään arvoa. 
 
-Jos häntä ei havaita täysin päteväksi sillä alalla, jossa hänen näke mystään pyydetään, niin todistuksella ei ole mitään arvoa. Jos huo mataan, että hän tutkimusten ja kokemuksen perusteella on saavutta nut tarvittavan pätevyyden, niin hänen asiantuntijana lausumalleen todistukselle annetaan erittäin suuri arvo ja merkitys. Jos vielä tuon asiantuntijan todistusta vahvistavat toiset yhtä pätevät todistajat, sen arvo kasvaa suuresti jokaisen lisätodistuksen seurauksena. 
+Jos huo mataan, että hän tutkimusten ja kokemuksen perusteella on saavutta nut tarvittavan pätevyyden, niin hänen asiantuntijana lausumalleen todistukselle annetaan erittäin suuri arvo ja merkitys. Jos vielä tuon asiantuntijan todistusta vahvistavat toiset yhtä pätevät todistajat, sen arvo kasvaa suuresti jokaisen lisätodistuksen seurauksena. 
 
 Sellaisen ihmisen kumoamaton todistus mitätöi helposti yhden, tusinan tai miljoonan asiasta tietämättömän ihmisen lausunnot. Sillä ei mitään kerrottuna miljoonalla on edelleen ei mitään. Matematii kan lisäksi sama pitää paikkansa muissakin asioissa. 
 
@@ -342,7 +338,7 @@ Kristus sanoi: ”Totuus tekee teidät vapaiksi.” Totuutta ei kui tenkaan löy
 
 Siinä, missä tämä kirja eroaa muista filosofisista teoksista, on asiaa katsottu eri näkökulmasta. Täysi kunnioitus annetaan toisten tutkijoiden johtopäätöksille ja käsityksille. Tekijän harras toive on, että seuraavien sivujen tutkiminen auttaisi etsijää selkiyttämään ja tarkentamaan aiempia käsityksiään. 
 
-### I LUKU: NÄKYVÄ JA NÄKYMÄTÖN MAAILMA 
+### <h3 id="chapter-1">I Luku: Näkyvä ja näkymätön maailma</h3>
 
 Ensimmäinen askel salatieteessä on näkymättömien maailmojen tutkiminen. Nämä maailmat ovat näkymättömiä suurimmalle osalle ihmisiä, koska hienommat aistit, joilla nämä maailmat voidaan ta juta, ovat heillä vielä uinuvassa tilassa. Niin kuin fyysinen maailma tajutaan fyysisillä aisteilla, näkymätön maailma tajutaan korkeam milla aisteilla. Useimmat ihmiset suhtautuvat näkymättömään maa ilmaan samalla tavalla kuin sokeana syntynyt aistimaailmaamme. Vaikka valo ja värit ympäröivät häntä, hän ei kykene niitä näkemään. Ne ovat hänelle olemattomia ja käsittämättömiä siitä yksinkertaises ta syystä, että häneltä puuttuu aisti, joka tekee niiden havaitsemisen mahdolliseksi. Esineet ovat käsin kosketeltavia, siksi ne ovat hänel le todellisia, mutta valo ja värit ovat hänen havaintokykynsä ulko puolella. 
 
@@ -382,15 +378,27 @@ Näin tulee ajatuskuvasta aineellinen todellisuus. Materialisti pitää sitä pa
 
 Kun näin olemme tulleet vakuuttuneiksi korkeampien ja näky mättömien maailmoiden mahdollisuudesta ympärillämme ja kun olemme käsittäneet niiden todellisuuden ja kestävyyden sekä ym märtäneet, mitä hyötyä niiden tutkimisesta on, niin käymme nyt tar kastelemaan niitä erikseen ja yksitellen alkaen fyysisestä maailmasta. 
 
-#### Fyysisen maailman kemiallinen taso 
+#### <h4 id="chemical-region-of-the-physical-world">Fyysisen maailman kemiallinen taso</h4>
 
 Ruusuristiläiset opettavat maailmankaikkeuden jakautuvan seitse mään eri maailmaan eli ainetilaan seuraavalla tavalla: 
 
-1. Jumalan maailma    2. Neitseellisten henkien maailma    3. Jumalallisen hengen maailma    4. Elämänhengen maailma    5. Ajatusmaailma    6. Tunnemaailma    7. Fyysinen maailma    
+```
+1. Jumalan maailma    
+2. Neitseellisten henkien maailma    
+3. Jumalallisen hengen maailma    
+4. Elämänhengen maailma    
+5. Ajatusmaailma    
+6. Tunnemaailma    
+7. Fyysinen maailma    
+```
 
-Tämä jako ei ole mielivaltainen vaan välttämätön, koska kunkin maailman aines noudattaa lakeja, jotka eivät ole lähes poikkeuk setta voimassa muissa maailmoissa. Fyysisen tason ainetta esimer kiksi hallitsee painovoima, kokoon puristuminen ja laajeneminen. Tunnemaailmassa ei ole kuumuutta eikä kylmyyttä, ja siellä muodot nousevat ylöspäin yhtä helposti kuin laskeutuvat alaspäin. Paikka ja aika hallitsevat niin ikään fyysisessä maailmassa, mutta niillä ei ole juuri lainkaan vaikutusta tunnemaailmassa. Näiden maailmojen ai neksilla on myös erilainen tiheys. Fyysisen maailman aine on kaikis ta seitsemästä aineksesta tiheintä. 
+Tämä jako ei ole mielivaltainen vaan välttämätön, koska kunkin maailman aines noudattaa lakeja, jotka eivät ole lähes poikkeuk setta voimassa muissa maailmoissa. Fyysisen tason ainetta esimer kiksi hallitsee painovoima, kokoon puristuminen ja laajeneminen. Tunnemaailmassa ei ole kuumuutta eikä kylmyyttä, ja siellä muodot nousevat ylöspäin yhtä helposti kuin laskeutuvat alaspäin. Paikka ja aika hallitsevat niin ikään fyysisessä maailmassa, mutta niillä ei ole juuri lainkaan vaikutusta tunnemaailmassa. 
 
-Jokainen maailma jakautuu seitsemään alatasoon. Fyysisen maa ilman aineista kiinteät, nestemäiset ja kaasumaiset muodostavat kol me tiheintä alatasoa, muut neljä tasoa ovat eri tiheysasteen eetteriä. Myös toisissa maailmoissa on samanlainen alatasoihin luokittelu tarpeellista, koska niissä on tiheydeltään erilaisia aineita. 
+Näiden maailmojen ai neksilla on myös erilainen tiheys. Fyysisen maailman aine on kaikis ta seitsemästä aineksesta tiheintä. 
+
+Jokainen maailma jakautuu seitsemään alatasoon. 
+
+Fyysisen maa ilman aineista kiinteät, nestemäiset ja kaasumaiset muodostavat kol me tiheintä alatasoa, muut neljä tasoa ovat eri tiheysasteen eetteriä. Myös toisissa maailmoissa on samanlainen alatasoihin luokittelu tarpeellista, koska niissä on tiheydeltään erilaisia aineita. 
 
 Vielä on huomattava kaksi erityistä jakoa. Fyysisen maailman kolme tiheintä alatasoa – kiinteät, nesteet ja kaasut – muodostavat niin sanotun kemiallisen tason. Tämän tason aine on kaikkien kiin teiden muotojen perusta. 
 
@@ -414,7 +422,7 @@ On kuitenkin melko varmaa, että vielä on tehtävä parannuksia ennen kuin kone
 
 Tämä koskee kaikkia elämän olosuhteita – yhteiskunnallisia, kaupallisia tai hyväntekeväisyyteen liittyviä. Monet suunnitelmat näyttävät sangen onnistuneilta laatijoiden mielestä ja voivat vielä pa perillakin näyttää hyvältä, mutta ne voivat olla aivan mahdottomia soveltaa käytäntöön. Tämän ei kuitenkaan pitäisi lannistaa meitä. On totta, että opimme enemmän virheistä kuin menestyksestämme. Sen tähden meidän tulee katsella fyysistä maailmaa oikeassa valossa ja ymmärtää, että se on koulu, jossa kokemusten kautta saamme ar vaamattoman tärkeitä opetuksia. 
 
-#### Fyysisen maailman eetteritaso 
+#### <h4 id="the-etheric-region-of-the-physical-world">Fyysisen maailman eetteritaso</h4>
 
 Astuttuamme tälle luomakunnan tasolle olemme joutuneet näky mättömään ja tuntemattomaan maailmaan, jossa tavalliset aisti memme ovat riittämättömiä. Siten tämä fyysisen maailman taso on tieteen kannalta käytännössä tutkimaton. 
 
@@ -424,29 +432,29 @@ Nykyajan tieteen saavutukset ovat todella ihmeellisiä. Laitteilla tutkiminen ei
 
 Harjaantuneelle selvänäkijälle eetteri on yhtä konkreettinen kuin kiinteät, nestemäiset ja kaasumaiset aineet tavalliselle ihmiselle. Hän näkee, että elinvoimat, jotka antavat elämän kasvien, eläinten ja ih misen mineraaliosalle, virtaavat niihin neljän eetterin välityksellä. Näiden neljän eetterin nimet ja erikoistoiminnat ovat seuraavat: 
 
-1) Kemiallinen eetteri. – Tämä eetteri ilmenee sekä positiivisena että negatiivisena. Sulatus- ja eritysvoimat toimivat sen kautta. Sulat taminen on se toiminta, jonka kautta ravinnon erilaiset hyötyaineet sulautuvat kasvin, eläimen ja ihmisen ruumiiseen. Tämä tapahtuu voimien avulla, joihin tutustumme myöhemmin. Ne toimivat kemi allisen eetterin positiivisen navan kautta vetäen luokseen tarvittavia aineksia, joita ne sitten liittävät kysymyksessä oleviin muotoihin. Nämä voimat eivät toimi sokeasti tai mekaanisesti, vaan valikoiden, kuten tiedemiehet hyvin tietävät. Sen avulla ne täyttävät tarkoituk sensa, joka on ruumiin kasvu ja ylläpitäminen. 
+(1) Kemiallinen eetteri. – Tämä eetteri ilmenee sekä positiivisena että negatiivisena. Sulatus- ja eritysvoimat toimivat sen kautta. Sulat taminen on se toiminta, jonka kautta ravinnon erilaiset hyötyaineet sulautuvat kasvin, eläimen ja ihmisen ruumiiseen. Tämä tapahtuu voimien avulla, joihin tutustumme myöhemmin. Ne toimivat kemi allisen eetterin positiivisen navan kautta vetäen luokseen tarvittavia aineksia, joita ne sitten liittävät kysymyksessä oleviin muotoihin. Nämä voimat eivät toimi sokeasti tai mekaanisesti, vaan valikoiden, kuten tiedemiehet hyvin tietävät. Sen avulla ne täyttävät tarkoituk sensa, joka on ruumiin kasvu ja ylläpitäminen. 
 
 Erittäminen tapahtuu samanlaisten voimien vaikutuksesta, mut ta ne toimivat kemiallisen eetterin negatiivisen navan kautta. Tämän navan kautta poistuu ruumiista kaikki käytettäviksi kelpaamattomat ruuassa olevat aineet sekä ne, jotka jo ovat tehneet tehtävänsä ruu miissa ja sen tähden poistuvat elimistöstä. Tämä toiminto on vii sas ja valikoiva eikä ainoastaan mekaaninen, niin kuin ovat kaikki muutkin ihmisen tahdosta riippumattomat toiminnot. Esimerkiksi munuaisissa vain virtsa siivilöityy niiden läpi, kun ne ovat kunnossa, mutta jos ne eivät ole kunnossa, poistuu arvokas valkuaisaine virtsan mukana. Epänormaaleista olosuhteista johtuen kunnon erottelua ei tapahdu. 
 
-2) Elämäneetteri. – Niin kuin kemiallinen eetteri on kulkutie voi mille, jotka ylläpitävät yksilöllisiä muotoja, samoin elämäneetteri on tie niille voimille, joiden tehtävänä on lajien ylläpito ja lisääntyminen. 
+(2) Elämäneetteri. – Niin kuin kemiallinen eetteri on kulkutie voi mille, jotka ylläpitävät yksilöllisiä muotoja, samoin elämäneetteri on tie niille voimille, joiden tehtävänä on lajien ylläpito ja lisääntyminen. 
 
 Kuten kemiallisella eetterillä, elämäneetterilläkin on positiivinen ja negatiivinen napa. Positiivisen navan voimat vaikuttavat naisessa raskauden aikana. Näin hän kykenee aktiivisesti suorittamaan uuden elämän luomisen. Mies muodostaa siemennestettä elämäneetterin negatiivisen navan välityksellä. 
 
 Eläimen tai ihmisen hedelmöittyneessä munasolussa ja kasvin siemenessä toimivat elämäneetterin positiiviset voimat aikaansaavat urospuolisia kasveja, eläimiä ja ihmisiä, ja negatiivisen navan kautta toimivat voimat luovat naaraspuolisia yksilöitä. 
 
-3) Valoeetteri. – Myös tässä eetterissä on positiivinen ja negatiivi nen puoli. Positiivisen navan kautta toimivat voimat synnyttävät veren lämmön korkeimmissa eläimissä ja ihmisessä. Tämä tekee niistä yksi löllisiä lämmön lähteitä. Valoeetterin negatiivisen navan kautta toimi vat voimat vaikuttavat aisteissa näön, kuulon, tunnon, maun ja hajun passiivisina toimintoina. Ne myös kehittävät ja ravitsevat silmää. 
+(3) Valoeetteri. – Myös tässä eetterissä on positiivinen ja negatiivi nen puoli. Positiivisen navan kautta toimivat voimat synnyttävät veren lämmön korkeimmissa eläimissä ja ihmisessä. Tämä tekee niistä yksi löllisiä lämmön lähteitä. Valoeetterin negatiivisen navan kautta toimi vat voimat vaikuttavat aisteissa näön, kuulon, tunnon, maun ja hajun passiivisina toimintoina. Ne myös kehittävät ja ravitsevat silmää. 
 
 Kylmäverisissä eläimissä valoeetterin positiivisen navan kaut ta toimivat voimat, jotka panevat veren kiertämään. Negatiivisel la voimalla on sama tehtävä silmään nähden kuin korkeammissa eläimissä ja ihmisessä. Silmien puuttuessa valoeetterin negatiivisen navan kautta toimivat voimat voivat kehittää ja vahvistaa muita aisti elimiä. 
 
 Kasveissa valoeetterin positiivisen puolen kautta toimiva voima aikaansaa nesteen kierron. Talvella, kun valoeetteri ei saa voimaa auringonvalosta kuten kesällä, lakkaa mahla virtaamasta kasveis sa, kunnes kesäaurinko taas lisää valoeetterin voimaa. Valoeetterin negatiivisen puolen kautta toimiva voima erittää klorofylliä, kas vin vihreää ainesta, ja myös antaa värin kukille. Kaikki värit koko luomakunnassa välittyvät valoeetterin negatiivisen puolen kautta. Siksi eläimillä on tummin väri selkäpuolella ja kukilla syvin väri auringonvalon puolella. Maapallon napaseuduilla, jossa auringon sä teet ovat heikkoja, ovat väritkin vaaleita ja toisinaan jopa niin vähäi siä, että ne haihtuvat kokonaan talvella ja eläimet tulevat valkeiksi. 
 
-4) Heijastava eetteri. – Edellä kerrottiin, että rakennuksen idea voidaan löytää luonnonmuistista arkkitehdin kuolemankin jälkeen. Kaikki, mitä koskaan on tapahtunut, on jättänyt häviämättömän kuvan heijastavaan eetteriin. Niin kuin jättiläissananjalat maailman lapsuuden ajoilta ovat painaneet kuvansa kivihiilikerroksiin, samoin kuin muinaisen jäätikön jälkiä voidaan seurata merkkien mukaan, joita se on jättänyt kallioihin, samoin ovat ihmistenkin ajatukset ja teot piirretty häviämättömästi luonnonmuistiin heijastavassa eette rissä. Sieltä selvännäkijä voi lukea kaiken niin tarkasti kuin hänen kykynsä sallivat. 
+(4) Heijastava eetteri. – Edellä kerrottiin, että rakennuksen idea voidaan löytää luonnonmuistista arkkitehdin kuolemankin jälkeen. Kaikki, mitä koskaan on tapahtunut, on jättänyt häviämättömän kuvan heijastavaan eetteriin. Niin kuin jättiläissananjalat maailman lapsuuden ajoilta ovat painaneet kuvansa kivihiilikerroksiin, samoin kuin muinaisen jäätikön jälkiä voidaan seurata merkkien mukaan, joita se on jättänyt kallioihin, samoin ovat ihmistenkin ajatukset ja teot piirretty häviämättömästi luonnonmuistiin heijastavassa eette rissä. Sieltä selvännäkijä voi lukea kaiken niin tarkasti kuin hänen kykynsä sallivat. 
 
 Heijastava eetteri on saanut nimensä useammastakin syystä. Sen kuvat ovat vain heijastuksia luonnonmuistista. Luonnon todellinen muisti on paljon korkeammalla tasolla. Todella harjaantunut selvä näkijä ei mielellään tutki kuvia heijastavasta eetteristä, koska kuvat siinä ovat epäselviä ja himmeitä verrattuna korkeammalla tasolla oleviin kuviin. Heijastavasta eetteristä lukevat yleensä ne, joilla ei ole valinnanvaraa eivätkä itse tiedä, mitä lukevat. Tavalliset psyko metrikot ja meediot saavat yleensä tietonsa heijastavan eetterin kaut ta. Harjoitusaikansa ensimmäisillä asteilla salatieteiden oppilas tut kii jonkin verran heijastavaa eetteriä, mutta opettaja varoittaa häntä luottamasta siihen, ettei hän tarkan tiedon saamiseksi tekisi vääriä johtopäätöksiä. 
 
 Tämä eetteri on myös välittäjä, jonka kautta ajatus saa aikaan vaikutuksen ihmisen aivoihin. Se on hyvin läheisessä yhteydessä ajatusmaailman neljännen alatason kanssa. Tämä on korkein niistä neljästä alatasosta, jotka muodostavat konkreettisen ajattelun tason ja josta ihmisäly on kotoisin. Siellä luonnonmuistiin painuneet kuvat ovat paljon selvempiä kuin heijastavassa eetterissä. 
 
-#### Tunnemaailma 
+#### <h4 id="the-desire-world">Tunnemaailma</h4>
 
 Kuten fyysinen maailma ja kaikki muut luomakunnan tasot, tunne maailmakin on jakautunut seitsemään alajaotukseen, joita sanotaan tasoiksi. Se eroaa kuitenkin siinä suhteessa fyysisestä maailmasta, ettei siinä ole niitä suuria alajaotteluja, jotka vastaisivat kemiallista ja eetteritasoa. Tunnemaailman tunneaine on tunteiden verhona sa manlaista kaikilla seitsemällä alajaotuksella tai -tasolla. Kemiallinen taso on muodon taso. Eetteritaso on niiden voimien asumus, jotka hoitavat muotojen elintoimintoja ja saavat ne elämään, liikkumaan ja lisääntymään. Tunnemaailman voimat taas työskentelevät eläh dyttäjinä kiinteässä ruumiissa ja saavat sen liikkumaan eri suuntiin. 
 
@@ -458,9 +466,9 @@ On totta, että aine tunnemaailmassa on yhden asteen vähem män tiheää kuin f
 
 Vaikka vuori ja kukka, ihminen, hevonen ja rautakappale ovat atomaarisesti samaa ainetta, emme kuitenkaan sano, että kukka on raudan hienompi muoto. Samalla tavalla on mahdotonta sanoin se littää, mikä ero tai muutos on tapahtunut fyysisessä aineessa, kun se muuttuu tunnemaailman aineeksi. Jos mitään eroa ei olisi, tunneaine olisi fyysisen maailman lakien alainen, mitä se ei kuitenkaan ole. 
 
-Kemiallisella tasolla vaikuttaa aineessa hitauden laki, taipumus pysyä status quossa4. Hitauden voittamiseksi tarvitaan voimaa, saa maan levossa oleva ruumis liikkeeseen tai liikkeessä oleva pysäh tymään. Näin ei ole tunnemaailmassa, vaan siellä aine on itsessään miltei elävää. Se on lakkaamattomassa, nestemäisessä liikkeessä, ottaen kaikenlaisia kuviteltavissa olevia ja arvaamattomia muotoja uskomattoman helposti ja nopeasti, säkenöiden ja välkkyen samalla tuhansissa alati muuttuvissa värisävyissä. Sitä ei voi verrata mihin kään täällä fyysisessä tajunnantilassamme. Tämän aineen toimintaa ja edestakaista värileikkiä muistuttaa hämärästi abalonisimpukan värihohde auringonvalon heijastuksessa. 
+Kemiallisella tasolla vaikuttaa aineessa hitauden laki, taipumus pysyä status quossa (4). Hitauden voittamiseksi tarvitaan voimaa, saa maan levossa oleva ruumis liikkeeseen tai liikkeessä oleva pysäh tymään. Näin ei ole tunnemaailmassa, vaan siellä aine on itsessään miltei elävää. Se on lakkaamattomassa, nestemäisessä liikkeessä, ottaen kaikenlaisia kuviteltavissa olevia ja arvaamattomia muotoja uskomattoman helposti ja nopeasti, säkenöiden ja välkkyen samalla tuhansissa alati muuttuvissa värisävyissä. Sitä ei voi verrata mihin kään täällä fyysisessä tajunnantilassamme. Tämän aineen toimintaa ja edestakaista värileikkiä muistuttaa hämärästi abalonisimpukan värihohde auringonvalon heijastuksessa. 
 
-4 Muuttumattomana. – Suom. huom. 
+() - (4) Muuttumattomana. – Suom. huom. 
 
 Sellainen on tunnemaailma – alati muuttuvaa valoa ja väriä. Sii nä sekoittuvat eläinten ja ihmisten voimat lukemattomien henkisten hierarkioiden olentoihin, jotka eivät esiinny fyysisessä maailmassa, mutta toimivat tunnemaailmassa, kuten me täällä. Myöhemmin käsitellään joitakin noista olentoluokista ja selitetään niiden suh detta ihmisen kehitykseen. 
 
@@ -510,11 +518,13 @@ Fyysinen ja tunnemaailma eivät ole avaruudellisesti erossa toi sistaan. Ne ovat
 
 Tunnemaailman eri tasot ja lukemattomat vaikutteet läpäisevät fyysisen maailman niin kuin energiavirrat veden – näkymättöminä, mutta aina läsnä olevina ja vaikuttavana. Näissä piilee syy kaikkeen, mitä fyysisessä maailmassa tapahtuu. 
 
-#### Ajatusmaailma 
+#### <h4 id="the-world-of-thought">Ajatusmaailma</h4>
 
 Myös ajatusmaailma on muodostunut seitsemästä tasosta, jotka ero avat laadultaan ja tiheydeltään. Samoin kuin fyysinen maailma, se jakautuu kahteen pääosaan, konkreettisen ajattelun tasoon, joka kä sittää neljä tiheintä alatasoa, sekä abstraktin ajattelun tasoon, joka käsittää kolmen hienoimman aineen tasot. Ajatusmaailma on kes kimmäinen niistä viidestä maailmasta, joista ihminen saa käyttö välineensä. Täällä henki ja ruumis tapaavat toisensa. Se on myös korkein niistä kolmesta maailmasta, joilla ihmisen kehitys nykyisellä asteella etenee. Kahden korkeamman maailman vaikutus ihmisen nykyisellä kehitysasteella on melkein olematon. 
 
-Tiedämme, että kaikkien fyysiset muodot on muodostettu kemi allisen tason aineksista. Eetteritason voimat antavat näille muodoille elämän ja energian liikkumiseen. Tunnemaailman kaksoistunteet saavat jotkut näistä elävistä muodoista aktiivisiksi. Konkreettisen ajattelun taso antaa järkiaineen ajatuksille, jotka syntyvät abstraktin ajattelun tasolla pukeutuen ajatusmuotoihin, jotka toimivat säännös telijöinä ja tasapainottajina tunnemaailman yllykkeille ja ympäristön vaikutteille. 
+Tiedämme, että kaikkien fyysiset muodot on muodostettu kemi allisen tason aineksista. Eetteritason voimat antavat näille muodoille elämän ja energian liikkumiseen. Tunnemaailman kaksoistunteet saavat jotkut näistä elävistä muodoista aktiivisiksi. 
+
+Konkreettisen ajattelun taso antaa järkiaineen ajatuksille, jotka syntyvät abstraktin ajattelun tasolla pukeutuen ajatusmuotoihin, jotka toimivat säännös telijöinä ja tasapainottajina tunnemaailman yllykkeille ja ympäristön vaikutteille. 
 
 Tästä huomaamme, kuinka nämä kolme maailmaa, joissa ihmi nen tällä asteella kehittyy, täydentävät toinen toistaan. Ne muodos tavat kokonaisuuden, joka osoittaa järjestelmämme Suuren Arkki tehdin ylevää viisautta – arkkitehdin, jota kunnioitamme pyhän Jumalan nimellä. 
 
@@ -528,13 +538,9 @@ Konkreettisen ajattelun tason toista alatasoa sanotaan ”valta meren tasoksi”
 
 Konkreettisen ajattelun tason neljättä tasoa sanotaan ”arkkityyp pisten voimien tasoksi”. Se on keskimmäinen ja tärkein taso niistä viidestä maailmasta, joissa ihmisen kehitys etenee. Elämänhengen maailma, jumalallisen hengen maailma ja ajatusmaailman kolme korkeinta tasoa ovat yhdellä puolella arkkityyppisten voimien tasoa, ja toisella puolella ovat tunnemaailma, fyysinen maailma ja ajatus maailman kolme alinta tasoa. Siten tästä tasosta tulee eräänlainen ”ydin”, jossa toisiinsa sitoutuvat yhdellä puolella hengen valtakunnat ja toisella muodon maailmat. Se on kiintopiste, jossa henki heijastaa itseään aineessa. 
 
-DIAGRAM1 !!!!!!!!!!!!!!!!!! Näkyvän ja näkymättömän maailman ilmiöiden suhteellinen kestävyys. (Havainnollistettu diakuvaan rinnastettuna.) 
-
 Kuten nimikin antaa ymmärtää, tämä taso on koti niille arkki tyyppisille voimille, jotka johtavat toimintaa konkreettisen ajattelun tason arkkityypeissä. Tältä tasolta henki toimii aineessa sitä kehit täen. Kaavio 1 osoittaa tämän ajatuksen kaavamaisesti esitettynä. Se kuvaa alemman maailman muodot heijastuksina korkeamman maailman hengestä. Viides taso, joka on lähinnä kiintopistettä hen gen puolella, heijastuu kolmannessa tasossa, joka on lähinnä kiinto pistettä muodon puolella. Kuudes taso heijastuu toisessa ja seitsemäs ensimmäisessä. 
 
 Koko abstraktin ajattelun taso heijastuu tunnemaailmassa, elä mänhengen maailma fyysisen maailman eetteritasossa ja jumalalli sen hengen maailma fyysisen maailman kemiallisessa tasossa. 
-
-DIAGRAM2 !!!!!!!!!!!!!!!!!! 
 
 Kaavio 2 antaa laajemman käsityksen seitsemästä maailmasta, jotka muodostavat kehityksemme piirin. Mutta meidän on huolel lisesti pidettävä mielessä, että nämä maailmat eivät todellisuudessa ole toistensa yläpuolella kuten kaaviossa, vaan ne läpäisevät toisensa. Vertasimme fyysisen maailman suhdetta tunnemaailmaan siten, että kuvasimme tunnemaailmaa voimavirroiksi jäätyneessä vedessä ja vettä fyysiseksi maailmaksi. Samoin voimme ajatella jokaisen seitse män maailman voimavirroista ja kuvauksessamme vesi vastaisi seu raavaksi tiheämpää maailmaa. Seuraava esimerkki tekee ehkä asian vielä selvemmäksi. 
 
@@ -550,7 +556,7 @@ Jokaisella aurinkokuntamme planeetalla on kolme tällaista toi sensa läpäisev�
 
 Samalla tavalla kuin elämänhengen maailma yhdistää meidät toi siin planeettoihin, jumalallisen hengen maailma yhdistää meidät toi siin aurinkokuntiin. Voimme kuvitella aurinkokuntia sieninä, jotka uiskentelevat jumalallisen hengen maailmassa. Tästä ymmärrämme, että voidaksemme matkustaa yhdestä aurinkokunnasta toiseen, on välttämätöntä, että voimme tietoisesti toimia ihmisen korkeimmassa käyttövälineessä, jumalallisessa hengessä. 
 
-### II LUKU: NELJÄ LUONTOKUNTAA 
+### <h3 id="the-four-kingdoms">II Luku: Neljä luontokuntaa</h3>
 
 Tällä hetkellä planeettamme kolmen maailman lukuisissa luonto kunnissa tapahtuu kehitystä eri asteilla. Meidän on tarpeen tällä ker taa käsitellä vain neljää näistä: kivi-, kasvi-, eläin- ja ihmiskuntaa. 
 
@@ -604,7 +610,9 @@ Kun kiinteästä ruumiista leikataan osa pois, ainoastaan planeetta eetteri seur
 
 Olemme tarkastelleet neljän luontokunnan suhdetta fyysisen maailman eetteritasoon. Nyt käännymme tarkastelemaan niiden suhdetta tunnemaailmaan. 
 
-Huomaamme, että sekä kivennäisiltä että kasveilta puuttuu eril linen tunneruumis. Niitä läpäisee vain planeetallinen tunneruumis, tunnemaailma. Koska niiltä siis puuttuu erillinen käyttöväline, ne eivät kykene kokemaan tunteita ja intohimoja, sillä nämä kyvyt ovat tunnemaailman ominaisuuksia. Kun kivi murskataan, se ei tunne sitä, mutta olisi väärin päätellä, ettei tuohon tekoon liittyisi lainkaan tunnetta. Se on materialistien ja ymmärtämättömän enemmistön näkökanta. Salatieteilijä tietää, että jokainen teko, kuinka vähä pätöinen tahansa, tuntuu kautta koko maailmankaikkeuden. Koska kivellä ei ole erillistä tunneruumista, se ei voi tuntea, mutta maa henki tuntee, koska sen tunneruumis läpäisee kiven. Kun ihminen leikkaa sormeensa, sormi ei tunne kipua, koska sillä ei ole erillis tä tunneruumista. Ihminen tuntee kivun, koska hänen tunne ruumiinsa läpäisee sormen. Kun kasvi revitään maasta juurineen, maahenki tuntee sen, samoin kuin ihminen tuntee, jos hius vedetään hänen päästään. Maapallo on elävä, tunteva ruumis. Kaikki muodot vailla erillistä tunneruumista, jonka kautta niitä hallitseva henki voisi tunnetta kokea, kuuluvat maan tunneruumiiseen, ja sen tunne ruumiilla on tunteet. Kiven murskaaminen ja kukan poimiminen tuottavat maalle nautintoa, mutta kukkien repiminen maasta juuri neen aiheuttaa tuskaa. Myöhemmin kerromme, mistä tämä johtuu. Tällä tutkimusasteella ei tavallinen lukija ymmärtäisi selitystä. 
+Huomaamme, että sekä kivennäisiltä että kasveilta puuttuu eril linen tunneruumis. Niitä läpäisee vain planeetallinen tunneruumis, tunnemaailma. Koska niiltä siis puuttuu erillinen käyttöväline, ne eivät kykene kokemaan tunteita ja intohimoja, sillä nämä kyvyt ovat tunnemaailman ominaisuuksia. 
+
+Kun kivi murskataan, se ei tunne sitä, mutta olisi väärin päätellä, ettei tuohon tekoon liittyisi lainkaan tunnetta. Se on materialistien ja ymmärtämättömän enemmistön näkökanta. Salatieteilijä tietää, että jokainen teko, kuinka vähä pätöinen tahansa, tuntuu kautta koko maailmankaikkeuden. Koska kivellä ei ole erillistä tunneruumista, se ei voi tuntea, mutta maa henki tuntee, koska sen tunneruumis läpäisee kiven. Kun ihminen leikkaa sormeensa, sormi ei tunne kipua, koska sillä ei ole erillis tä tunneruumista. Ihminen tuntee kivun, koska hänen tunne ruumiinsa läpäisee sormen. Kun kasvi revitään maasta juurineen, maahenki tuntee sen, samoin kuin ihminen tuntee, jos hius vedetään hänen päästään. Maapallo on elävä, tunteva ruumis. Kaikki muodot vailla erillistä tunneruumista, jonka kautta niitä hallitseva henki voisi tunnetta kokea, kuuluvat maan tunneruumiiseen, ja sen tunne ruumiilla on tunteet. Kiven murskaaminen ja kukan poimiminen tuottavat maalle nautintoa, mutta kukkien repiminen maasta juuri neen aiheuttaa tuskaa. Myöhemmin kerromme, mistä tämä johtuu. Tällä tutkimusasteella ei tavallinen lukija ymmärtäisi selitystä. 
 
 Planeetallinen tunnemaailma sykkii eläimen ja ihmisen tunne ruumiin läpi samalla tavalla kuin kasvien, mutta lisäksi eläimellä ja ihmisellä on erillinen tunneruumis, joka saa heidät kokemaan tun teita, haluja ja intohimoja. Näiden välillä on kuitenkin olemassa ero. Eläimen tunneruumis on kokonaan muodostettu tunnemaailman alempien tason aineista, sitä vastoin alimmissakin ihmisroduissa liittyy tunneruumiin koostumukseen jonkin verran korkeampienkin tasojen aineita. Eläinten ja alempien ihmisrotujen tunteet koskevat melkein kokonaan alempien halujen ja intohimojen tyydyttämistä ja saavat ilmaisunsa tunnemaailman alempien tasojen aineessa. Kos ka niiden täytyy kokea näitä tunteita voidakseen kehittyä, on välttä mätöntä, että niiden tunneruumiissa on näitä vastaavia aineita. Sitä mukaa kuin ihminen edistyy elämän koulussa kokemusten avulla, hänen tunteensa tulevat paremmiksi ja puhtaimmiksi. Hänen tunne ruumiinsa aineet muuttuvat tällöin asteittain. Tunnemaailman kor keampien tasojen kirkkaampi ja puhtaampi aine muuttaa alempien tasojen synkkien aineiden värin. Tunneruumis kasvaa myös kool taan. Pyhimyksen tunneruumis on todella loistava ilmestys katsella. Siinä ilmenevien värien puhtautta ja kirkasta loistetta on mahdoton ta kuvata sanoin. Täytyy nähdä tällainen tunneruumis, jotta sen voisi ymmärtää. 
 
@@ -612,16 +620,9 @@ Nykyisellä kehitysasteellamme on useimpien ihmisten tunne ruumiissa sekä ylemp
 
 Esittäessämme kuvaustamme sienestä, hiekasta ja vedestä tote simme, että planeetalliset elollis- ja tunneruumiit läpäisevät maan kiinteän aineen. Samalla tavalla nämä elollis- ja tunneruumiit läpäi sevät eläimen ja ihmisenkin kiinteät ruumiit. Mutta elämän aikana ihmisen tunneruumis ei ole kiinteän ja elollisruumiin muotoinen. Vasta kuoleman jälkeen se saa tämän muodon. Elämän aikana se on ihmisen valveilla ollessa loistava, munanmuotoinen ja ympäröi ko konaan kiinteän ruumiin, kuten munavalkuainen ympäröi keltuai sen. Se leviää noin 30–40 cm kiinteän ruumiin ulkopuolelle. Tunne ruumiissa on joukko aistikeskuksia, mutta useimmissa ihmisissä ne ovat vielä uinuvassa tilassa. Näiden havaintokeskusten herääminen vastaa sokean ihmisen silmien avautumista, viitataksemme edellä käytettyyn kuvaan. Ihmisen tunneruumiin aine on lakkaamattomas sa ja äärettömän nopeassa liikkeessä. Siinä ei millään aineosasella ole tiettyä paikkaansa, kuten kiinteässä ruumiissa. Ainehiukkanen, joka yhdellä hetkellä on päässä, voi seuraavassa olla jalassa ja taas sitä seuraavalla hetkellä entisessä paikassaan. Tunneruumiilla ei ole elimiä, kuten elollisruumiilla ja kiinteällä ruumiilla, vaan sen sijaan mainitsemiamme havaintokeskuksia, jotka ollessaan toiminnassa näyttävät pyörteiltä. Ne jäävät aina samaan paikkaan kiinteään ruu miiseen nähden. Useimmat ovat pään kohdalla. Useimmissa ihmi sissä ne ovat vain pienten pyörrevirtojen kaltaisia ilman minkään laisia merkittäviä havainnon keskuksia, mutta jokaisessa ihmisessä ne voidaan herättää toimintaan. Erilaiset menetelmät saavat aikaan erilaisia tuloksia. 
 
+Diagrams:
+
 Vaistonvaraisessa selvänäkijässä nämä ovat kehittyneet väärien, negatiivisten menetelmien johdosta. Hänen tunneruumiissaan nämä pyörteet liikkuvat oikealta vasemmalle, siis vastapäivään. 
-
-Pyörteet tunneruumiissa    
-
-DIAGRAM DESIRE BODY 
-
-Tavallinen    ihminen    
-Tahdonalainen    selvänäkijä    
-
-Vaistonvarainen    selvänäkijä    
 
 Oikealla tavalla harjaantuneen tahdonalaisen selvänäkijän tunne ruumiissa ne liikkuvat samaan suuntaan kuin kellon viisarit loistaen ihanissa väreissä ja paljon kirkkaampina kuin tavallisen ihmisen tunneruumiissa. Nämä keskukset ovat niitä välineitä, joiden avulla tahdonalainen selvänäkijä havaitsee tunnemaailman ilmiöt ja joiden kautta hän voi tutkia niitä tahtonsa mukaan, mutta sellainen ihmi nen, jonka pyörteet liikkuvat vastakkaiseen suuntaan kuin kellon vii sarit, on kuin peili, joka vain heijastaa niitä ilmiöitä, jotka kulkevat hänen ohitseen. Hän ei itse kykene tutkimaan tunnemaailmaa; tämä selitetään myöhemmässä luvussa. Tässä on ero meedion ja oikealla tavalla harjaantuneen selvänäkijän välillä. Useimmille on mahdo tonta tehdä eroa näiden välillä. On kuitenkin olemassa pettämätön sääntö, jota jokainen voi noudattaa. Oikealla tavalla kehittynyt nä kijä ei koskaan harjoita kykyjään rahasta tai omanvoitonpyynnöstä. Hän ei myöskään käytä niitä uteliaisuutta tyydyttääkseen vaan yksin omaan ihmiskunnan auttamiseksi. 
 
@@ -656,14 +657,6 @@ Toisaalta opimme tuntemaan kivennäiset, kasvit ja eläimet tutki malla yhtä ku
 Kolmen alemman luontokunnan ryhmähenget asuvat eri tasoil la korkeammissa maailmoissa, kuten tulemme näkemään tutkies samme eri valtakuntien tajuntaa. Ymmärtääksemme oikein ryhmä henkien aseman sisäisissä maailmoissa meidän täytyy muistaa ja ymmärtää selvästi, mitä on kerrottu näkyvän maailman muodoista. Ne ovat kiteytyneitä kuvia sisäisten maailmojen malleista ja ideois ta, kuten osoitimme esimerkeillä arkkitehdistä ja hänen rakennuk sestaan sekä keksijästä ja hänen koneestaan. Etanan pehmeän ruu miin nesteet kiteytyvät kuoreksi, jota se kantaa selässään. Samalla tavalla korkeampien maailmojen henget ovat kiteyttäneet itsensä eri luontokunnissa esiintyviin aineellisiin ruumiisiin. 
 
 Vaikka siis niin sanotut ”korkeammat” ruumiit ovat niin hienoja ja pilvimäisiä ettemme voi nähdä niitä, ne eivät missään tapauksessa ole saaneet alkuaan ”kiinteästä ruumiista”. Eri luontokuntien kiinteät käyttövälineet vastaavat etanan kuorta, joka on kiteytynyt sen nes teistä. Etana esittää henkeä, ja nesteet, jotka ovat kovettumassa, esit tävät älyä sekä tunne- ja elollisruumista. Eri käyttövälineet ovat läh töisin hengestä, jotta se niiden kautta saavuttaisi kokemuksia. Henki johtaa kiinteää ruumista tahtonsa mukaan, kuten etana koteloaan, eikä ruumis hengen liikkeitä. Mitä lähemmäksi henki pääsee käyt tövälineitään, sitä paremmin se voi hallita niitä ja ilmaista itseään niiden kautta, ja päinvastoin, sitä paremmin ne ilmaisevat henkeä. Tässä on avain, joka selittää eri luontokunnissa esiintyvät erilaiset tajunnantilat. Kaavioiden 3 ja 4 tutkiminen antaa selvän kuvan eri luontokuntien käyttövälineistä ja niiden suhteesta eri maailmoihin sekä selittää niitä vastaavat tajunnantilat. 
-
-Kaavio 3 
-
-Eri luontokuntien käyttövälineiden esittely, miten nuo käyttövälineet vastaavat eri maailmoja. 
-
-Kaavio 4 
-
-Eri luontokunnissa vallitseva tajunnantila. 
 
 Kaavio 3 osoittaa, että erillinen ego on ehdottomasti yksilöllinen kaikkiallisessa hengessä abstraktin ajattelun tasolla. Se osoittaa, että vain ihmisellä on sellainen sarja täydellisiä käyttövälineitä, että hän voi olla yhteydessä kaikkien kolmen maailman eri jaotteluiden kans sa. Eläimeltä puuttuu yksi rengas tästä sarjasta, äly. Kasvilta puut tuu kaksi, äly ja tunneruumis. Kivennäiseltä puuttuu kolme käyttö välinettä, äly, tunneruumis ja elollisruumis, jotka kaikki ovat välttä mättömiä itsetietoista toimintaa varten fyysisessä maailmassa. 
 
@@ -709,9 +702,9 @@ Ryhmähenki johtaa eläimien toimintaa kosmisen lain mukaan, kunnes sen huolenpi
 
 Asema, joka ryhmähengellä on tunnemaailmassa, vaikuttaa niin, että eläimellä on toisenlainen tajunta kuin ihmisellä, jolla on selvä, täysin valveilla oleva tajunta. Ihminen näkee ulkopuolellaan olevat esineet tarkoissa ja tietyissä ulkopiirteissä. Riippuen kehityksen spiraalikulusta näkevät korkeammat kotieläimet, varsinkin koira, hevonen, kissa ja elefantti, kaikki kappaleet jokseenkin samalla ta valla, vaikka ehkä ei niin selvästi. Kaikilla muilla eläimillä on ”sisäi nen kuvatajunta”, samanlainen kuin ihmisen unitajunta. Kun jokin objekti asetetaan eläimen eteen, se näkee heti kuvan sisässään, mitä seuraa voimakas vaikutelma siitä, onko objekti vihamielinen vai hy vää tekevä sitä kohtaan. Jos tuo vaikutelma on pelkoa, seuraa samalla ryhmähengestä tuleva opastava tunne siitä, kuinka uhkaavaa vaaraa on päästävä pakoon. Tällaisesta negatiivisesta tajunnasta johtuu, että ryhmähenki voi helposti suggestion avulla johtaa suojattiensa kiin teitä ruumiita, koska eläimellä ei ole omaa tahtoa. 
 
-Ihmistä ei niin helposti voi johtaa ulkoapäin vastoin hänen tah toaan tai edes hänen suostumuksellaan. Kehityksen mukana kehit tyy ihmisen tahtokin, niin ettei siihen vaikuta ulkonainen suggestio, vaan hän toimii oman mielensä mukaan toisten vaikutuksesta huo limatta. Tässä piilee pääeroavaisuus ihmiskunnan ja toisten luonto kuntien välillä. Ne toimivat lakien ja ryhmähengen käskyjen mukaan (kutsumme sitä vaistoksi). Ihminen sen sijaan tulee yhä enemmän laiksi itselleen. Emme kysy kivennäiseltä, haluaako se kiteytyä, ku kalta, haluaako se kukkia, tai leijonalta, haluaako se saalistaa. Kaikki nuo oliot, pienimmästä suurimpaan, ovat täysin ryhmähengen hal littavina ilman vapaata tahtoa ja aloitekykyä, joita jokaisella ihmisel lä on jossakin määrin. Kaikki saman eläinlajin yksilöt ovat melkein samannäköisiä, koska ne ovat lähtöisin samasta ryhmähengestä. Mutta niistä tuhannestaviidestäsadasta miljoonasta5 ihmisestä, jot ka maailmaa kansoittavat, ei ole kahta tarkalleen samannäköistä, ei edes kaksosia nuoruuden aikana, sillä sisässä asuva yksilöllinen ego on painanut niihin oman leimansa, joka aiheuttaa erilaisuutta sekä ulkomuotoon että luonteeseen. 
+Ihmistä ei niin helposti voi johtaa ulkoapäin vastoin hänen tah toaan tai edes hänen suostumuksellaan. Kehityksen mukana kehit tyy ihmisen tahtokin, niin ettei siihen vaikuta ulkonainen suggestio, vaan hän toimii oman mielensä mukaan toisten vaikutuksesta huo limatta. Tässä piilee pääeroavaisuus ihmiskunnan ja toisten luonto kuntien välillä. Ne toimivat lakien ja ryhmähengen käskyjen mukaan (kutsumme sitä vaistoksi). Ihminen sen sijaan tulee yhä enemmän laiksi itselleen. Emme kysy kivennäiseltä, haluaako se kiteytyä, ku kalta, haluaako se kukkia, tai leijonalta, haluaako se saalistaa. Kaikki nuo oliot, pienimmästä suurimpaan, ovat täysin ryhmähengen hal littavina ilman vapaata tahtoa ja aloitekykyä, joita jokaisella ihmisel lä on jossakin määrin. Kaikki saman eläinlajin yksilöt ovat melkein samannäköisiä, koska ne ovat lähtöisin samasta ryhmähengestä. Mutta niistä tuhannestaviidestäsadasta miljoonasta (5) ihmisestä, jot ka maailmaa kansoittavat, ei ole kahta tarkalleen samannäköistä, ei edes kaksosia nuoruuden aikana, sillä sisässä asuva yksilöllinen ego on painanut niihin oman leimansa, joka aiheuttaa erilaisuutta sekä ulkomuotoon että luonteeseen. 
 
-5 Teos on kirjoitettu 1900-luvun alussa. – Suom. huom. 
+() - (5) Teos on kirjoitettu 1900-luvun alussa. – Suom. huom. 
 
 Kaikki härät syövät ruohoa, leijonat lihaa, mutta ”yhden ihmisen ruoka voi olla myrkkyä toiselle”. Tämäkin kuvaa ryhmähengen kaik kialle ulottuvaa vaikutusta vastakohtana ihmiselle. Jokaisen ihmisen ego vaatii yksilöllisen ruokavalion. Lääkärit huomaavat saman omi naisuuden lääkkeitä jakaessaan. Ne vaikuttavat eri tavalla eri ihmi siin. Sama lääke aiheuttaa samoja seurauksia kahdessa samaan lajiin kuuluvassa eläimessä. Se johtuu siitä, että kaikki eläimet seuraavat ryhmähengen käskyjä ja kosmista lakia, – toimien aina samalla ta valla samoissa olosuhteissa. Ihminen yksin kykenee jonkin verran ja tietyissä rajoissa seuraamaan omia halujaan. On itsestään selvää, että hänen erehdyksensä ovat suuria ja vaikeita ja monen mielestä olisi parempi, että hänet pakotettaisiin oikealle tielle, mutta silloin hän ei koskaan oppisi tekemään oikein omasta tahdostaan. Ihminen ei voi oppia erottamaan hyvää ja pahaa, jos hän ei saa vapaasti valita ja jos hän ei itse opi näkemään pahaa ”tuskan kohtuna”. Jos hän tekisi oikein vain siksi, ettei muuta mahdollisuutta ole eikä hänellä olisi valtaa menetellä toisin, niin hänestä tulisi vain kone eikä koskaan kehittyvä jumala. Samoin kuin rakentaja oppii erehdyksistään, jot ka hän uusia rakennuksia tehdessään korjaa, niin ihminenkin op pii erehdyksistään ja niistä tuskista, joita ne aiheuttavat. Ihminen saavuttaa (koska hän on itsetietoinen) korkeamman viisauden kuin eläin, joka puolestaan toimii viisaasti ryhmähengen vaikutuksesta. Ennen pitkää eläin saavuttaa ihmisasteen, saa valinnanvapauden, tekee erehdyksiä ja oppii niiden välityksellä niin kuin ihminen nyt. 
 
@@ -727,9 +720,9 @@ Ihminen edustaa ylintä haaraa ja on kuin ylösalaisin oleva kas vi. Kasvi saa r
 
 Eläin, jota ristin vaakasuora haara edustaa, on kasvin ja ihmisen välillä. Sen selkäranka on vaakasuorassa asennossa, ja sitä pitkin vir taavat eläimen ryhmähengen voimapyörteet, jotka kiertävät maata. Mikään eläin ei voi jäädä pystysuoraan asentoon pysyvästi, koska ryhmähengen voimavirrat eivät siinä tapauksessa voisi sitä johtaa. Jos se ei olisi kyllin yksilöitynyt voidakseen kestää henkisiä virtoja, jotka laskeutuvat pystysuoraan ihmisen selkärankaan, niin se kuolisi. Kol me seikkaa on välttämätöntä yksilöllisen egon ilmaisuksi ruumiis sa: pystysuora käynti, jotta se voisi päästä yhteyteen yllämainittujen virtojen kanssa, pystysuora kurkunpää, koska vain sellainen kyke nee puhumaan (huomaamme pystysuoran kurkunpään vaikutuksen papukaijassa ja kottaraisessa), ja aurinkovirroista johtuen lämmin veri on välttämätön. Tämä seikka on äärettömän tärkeä egolle, ja se selitetään ja kuvataan loogisesti myöhemmin. Nämä edellytykset on tässä mainittu ainoastaan loppusanoina selitykseemme neljän luontokunnan suhteesta toisiinsa ja maailman tasoihin. 
 
-### III LUKU: IHMINEN JA KEHITYSMENETELMÄ 
+### <h3 id="chapter-3">III Luku: Ihminen ja kehitysmenetelmä</h3>
 
-#### Elämän toiminnat, muisti ja sielunkasvu 
+#### <h4 id="activities-of-life-memory-and-soul-growth">Elämän toiminnat, muisti ja sielunkasvu</h4>
 
 Tutkittuamme seitsemää maailmaa eli ainetilaa olemme huoman neet, että kukin niistä täyttää tietyn tehtävän luonnon taloudessa. Olemme huomanneet, että Jumala, Suuri Henki, jossa me todella ”elämme, liikumme ja olemme”, on se voima, joka läpäisee ja yllä pitää elämällään koko maailmankaikkeutta. Tämä elämä asustaa ja virtaa kuuden alemman maailman jokaisessa atomissa ja kaikessa, mikä näihin maailmoihin sisältyy, mutta ainoastaan kolmiyhteinen Jumala on – korkeimmassa – seitsemännessä maailmassa. 
 
@@ -737,29 +730,27 @@ Seuraava, kuudes taso, on neitseellisten henkien maailma. Tääl lä ovat jumala
 
 Viisi alempaa maailmaa muodostaa ihmisen kehityskentän, ja niistä kolme alinta ja tiheintä ovat hänen nykyisen kehityksensä näyttämönä. Tarkastelemme, kuinka hän on yhteydessä viiteen maa ilmaan sopivien käyttövälineidensä kautta. Muistamme, että kaksi näistä maailmoista on jaettu kahteen suureen alatasoon ja että ihmi sellä on sopiva käyttöväline näille jokaiselle tasolle. 
 
-DIAGRAM!!!!!!!!! Ihmisen seitsenkertainen rakenne 
-
-
-
 Valveilla oltaessa kaikki käyttövälineet ovat yhdessä. Ne läpäise vät toinen toisensa kuten veri, imuneste ja muut nesteet läpäisevät ruumiin. Siten ego kykenee toimimaan fyysisessä maailmassa. 
 
-Me ihmiset toimimme egoina abstraktin ajattelun tason hienossa aineessa, jota olemme kehittäneet yksilöllisen auramme ympärille. Siinä näemme vaikutelmat, jotka ulkomaailman sysäykset aistiem me kautta ovat tehneet elollisruumiiseen. Nämä yhdessä tunteiden ja halujen kanssa vaikuttavat tunneruumiiseen ja kuvastuvat mieleen. Näistä mentaalisista kuvista teemme johtopäätökset vastaavista asi oista abstraktin ajattelun tason aineeseen. Nämä johtopäätökset ovat ideoita. Tahdonvoimalla heijastamme idean mieleemme, jossa se saa konkreettisen muodon ajatuskuvana vetäen ympärilleen järkiainetta konkreettisen ajattelun tasolta. 
+Me ihmiset toimimme egoina abstraktin ajattelun tason hienossa aineessa, jota olemme kehittäneet yksilöllisen auramme ympärille. Siinä näemme vaikutelmat, jotka ulkomaailman sysäykset aistiem me kautta ovat tehneet elollisruumiiseen. Nämä yhdessä tunteiden ja halujen kanssa vaikuttavat tunneruumiiseen ja kuvastuvat mieleen. 
+
+Näistä mentaalisista kuvista teemme johtopäätökset vastaavista asi oista abstraktin ajattelun tason aineeseen. Nämä johtopäätökset ovat ideoita. Tahdonvoimalla heijastamme idean mieleemme, jossa se saa konkreettisen muodon ajatuskuvana vetäen ympärilleen järkiainetta konkreettisen ajattelun tasolta. 
 
 Mieli on kuin diaprojektorin linssi. Se heijastaa mielikuvan yh teen kolmesta eri kohteesta riippuen ajattelijasta, joka elävöittää ajatusmuodon. 
 
-1) Se voidaan heijastaa tunneruumiiseen pyrkimällä herättämään tunnetta, jolloin se aiheuttaa välittömän toiminnan. 
+1\. Se voidaan heijastaa tunneruumiiseen pyrkimällä herättämään tunnetta, jolloin se aiheuttaa välittömän toiminnan. 
 
-a) Jos ajatus herättää mielenkiintoa, joko puoleensavetävä tai hylkimisvoima alkaa toimia. 
+a. Jos ajatus herättää mielenkiintoa, joko puoleensavetävä tai hylkimisvoima alkaa toimia. 
 
 Jos puoleensavetävän voiman keskihakuinen voima herää, se tart tuu ajatukseen, lennättää sen tunneruumiiseen, antaa mielikuvalle lisää elinvoimaa ja pukee sen tunneaineeseen. Näin ajatus vaikuttaa eetteriaivoihin ja johtaa eetterivoiman vaadittavien aivokeskusten ja hermojen kautta niihin liikkuviin lihaksiin, jotka suorittavat välttä mättömän toiminnan. Täten ajatuksen voima on tullut käytetyksi ja kuva jää elollisruumiin eetteriin muistiin siitä teosta ja tunteesta, joka sen aiheutti. 
 
-b) Hylkimisvoima on keskipakoinen, ja jos ajatus herättää sen toimintaan, ajatusmuodossa syntyy taistelu henkisen voiman (ihmi sen tahdon) ja tunneruumiin välillä. Tämä on taistelua omantunnon ja halun välillä, korkeamman ja alemman luonnon välillä. Vastus tuksesta huolimatta henkinen voima koettaa pukea ajatusmuodon tunneaineeseen, jota se tarvitsee voidakseen vaikuttaa aivoihin ja lihaksiin. Hylkimisvoima pyrkii hajottamaan kokoontuvat aineet ja karkottaa ajatuksen. Jos henkinen energia on kyllin vahva, se saat taa päästä aivokeskuksiin tunneaineeseen puettuna, ja vaikuttamal la eetterivoimaan se voi saada aikaan toiminnan. Muistiin jää elävä kuva taistelusta ja voitosta. Jos henkinen energia haihtuu ennen kuin toimintaa on tapahtunut, hylkimisvoima voittaa sen ja se painetaan muistiin kuten muutkin ajatusmuodot, jotka ovat kuluttaneet ener giansa loppuun. 
+b. Hylkimisvoima on keskipakoinen, ja jos ajatus herättää sen toimintaan, ajatusmuodossa syntyy taistelu henkisen voiman (ihmi sen tahdon) ja tunneruumiin välillä. Tämä on taistelua omantunnon ja halun välillä, korkeamman ja alemman luonnon välillä. Vastus tuksesta huolimatta henkinen voima koettaa pukea ajatusmuodon tunneaineeseen, jota se tarvitsee voidakseen vaikuttaa aivoihin ja lihaksiin. Hylkimisvoima pyrkii hajottamaan kokoontuvat aineet ja karkottaa ajatuksen. Jos henkinen energia on kyllin vahva, se saat taa päästä aivokeskuksiin tunneaineeseen puettuna, ja vaikuttamal la eetterivoimaan se voi saada aikaan toiminnan. Muistiin jää elävä kuva taistelusta ja voitosta. Jos henkinen energia haihtuu ennen kuin toimintaa on tapahtunut, hylkimisvoima voittaa sen ja se painetaan muistiin kuten muutkin ajatusmuodot, jotka ovat kuluttaneet ener giansa loppuun. 
 
-c) Jos ajatusmuoto kohtaa kuihduttavaa välinpitämättömyyttä, riippuu sen sisältämän henkisen energian voimakkuudesta, kyke neekö se aiheuttamaan toimintaa vai jättääkö se liike-energian haih duttua yksinkertaisesti vain heikon kuvan elollisruumiin heijasta vaan eetteriin. 
+c. Jos ajatusmuoto kohtaa kuihduttavaa välinpitämättömyyttä, riippuu sen sisältämän henkisen energian voimakkuudesta, kyke neekö se aiheuttamaan toimintaa vai jättääkö se liike-energian haih duttua yksinkertaisesti vain heikon kuvan elollisruumiin heijasta vaan eetteriin. 
 
-2) Jos ulkoapäin tulevat sysäykset mentaalisina kuvina eivät vaadi välitöntä toimintaa, nämä ajatuskuvat voidaan painaa heijastavaan eetteriin yhdessä mielikuvan luomien ajatusten kanssa käytettävik si tulevaisuudessa. Hengellä on aina älyn kautta vapaa pääsy tietoi sen muistin lokeroihin. Se voi milloin tahansa herättää eloon siellä olevan kuvan johtamalla siihen uutta henkistä voimaa ja suuntaa malla sen tunneruumiiseen vaatimaan toimintaa. Aina kun samaa ajatuskuvaa käytetään, se voimistuu elinvoimaisuudessaan ja käyttö kelpoisuudessaan vaatien toimintaa kiihkeämmin kuin ennen, koska kertauksen kautta ajatusilmiö luo syvät urat itselleen näin kasvaen ja voimistuen. 
+2\. Jos ulkoapäin tulevat sysäykset mentaalisina kuvina eivät vaadi välitöntä toimintaa, nämä ajatuskuvat voidaan painaa heijastavaan eetteriin yhdessä mielikuvan luomien ajatusten kanssa käytettävik si tulevaisuudessa. Hengellä on aina älyn kautta vapaa pääsy tietoi sen muistin lokeroihin. Se voi milloin tahansa herättää eloon siellä olevan kuvan johtamalla siihen uutta henkistä voimaa ja suuntaa malla sen tunneruumiiseen vaatimaan toimintaa. Aina kun samaa ajatuskuvaa käytetään, se voimistuu elinvoimaisuudessaan ja käyttö kelpoisuudessaan vaatien toimintaa kiihkeämmin kuin ennen, koska kertauksen kautta ajatusilmiö luo syvät urat itselleen näin kasvaen ja voimistuen. 
 
-3) Kolmas tapa käyttää ajatusvoimaa on antaa tietoa suggestiolla toisen ihmisen mieleen jne., kuten esimerkiksi ajatuksensiirrossa ta pahtuu. Se voidaan myös suunnata toisen ihmisen tunneruumiiseen vaatimaan toimintaa kuten hypnotisoija vaikuttaa uhriinsa. Hyp notisoijan ajatusvoima toimii niin, että se tuntuu uhrin omalta aja tukselta. Jos sillä on yhtäläisyyttä hypnotisoitavan omien ajatusten kanssa, se toimii kuten edellä on selitetty kohdassa 1 a. Jos se taas on vastoin hänen omaa luontaista ajatustapaansa, se toimii kuten kerro taan kohdissa 1 b ja 1 c. 
+3\. Kolmas tapa käyttää ajatusvoimaa on antaa tietoa suggestiolla toisen ihmisen mieleen jne., kuten esimerkiksi ajatuksensiirrossa ta pahtuu. Se voidaan myös suunnata toisen ihmisen tunneruumiiseen vaatimaan toimintaa kuten hypnotisoija vaikuttaa uhriinsa. Hyp notisoijan ajatusvoima toimii niin, että se tuntuu uhrin omalta aja tukselta. Jos sillä on yhtäläisyyttä hypnotisoitavan omien ajatusten kanssa, se toimii kuten edellä on selitetty kohdassa 1a. Jos se taas on vastoin hänen omaa luontaista ajatustapaansa, se toimii kuten kerro taan kohdissa 1b ja 1c. 
 
 Kun tietyn ajatusmuodon tehtävä on täytetty tai sen energia on kulunut loppuun sen yritettyä turhaan suorittaa tehtäväänsä, se pa laa takaisin lähettäjälleen tuoden mukanaan häviämättömän kuva uksen matkastaan. Sen menestys tai epäonnistuminen on painettuna ajatuksen luojan elollisruumiin heijastavan eetterin negatiivisiin ato meihin, joissa se muodostaa osan siitä ajattelijan elämän ja toimin nan kuvasarjasta, jota sanotaan alitajunnaksi. 
 
@@ -785,23 +776,17 @@ Joskus kuitenkin tapahtuu niin, ettei tunneruumis vetäydy koko naan pois, vaan 
 
 Kolminaishenki, ego elää ja toimii elämän aikana kolminaisruu miissa, johon se mielen siteellä on yhdistynyt. Tämä toiminta syn nyttää kolminaissielun. Sielu on henkevöitynyt luomus ruumiista. 
 
-DIAGRAM!!!!!!! Kaavio 5 Ihmisen kymmenkertainen rakenne. 
-
-Ihminen on kolminaishenki, ja hänellä on mieli, jonka avulla hän hallitsee kolminaisruumista. Hän on luonut sen itsestään saavuttaakseen kokemusta. Tämän kolminaisruumiin hän muuttaa kolminaissieluksi, jonka kautta hän kohottaa itsensä voimattomuudesta kaikkivaltiuteen. 
-
-DIAGRAM!!!!!!!!!!!!!!! 
-
-Mielen peili edistää henkistä kasvua yhä enemmän sitä mukaa kuin ajatukset, joita se välittää hengestä ja henkeen, kiillottavat sitä kirkkaammaksi ja terävöit-tävät ja vahventavat sen polttopistettä yhä enemmän yhteen pisteeseen, kunnes se on täysin mukautunut hengen hallittavaksi. 
-
 Sopiva ruoka ravitsee ruumista aineellisessa merkityksessä, ja sa malla tavalla hengen työ fyysisessä ruumiissa, kun sen tuloksena on oikea toiminta, edistää itsetietoisen sielun kasvua. Auringon voimat vaikuttavat elollisruumiiseen ja ravitsevat sitä, jotta se vuorostaan vaikuttaisi fyysiseen ruumiiseen. Samalla tavoin muisti fyysisessä ruumiissa tehdystä toiminnasta – halujen ja tunteiden toiminnasta tunneruumiissa sekä ajatusten ja aatteiden toiminnasta älyruumiissa – aiheuttaa älysielun kasvamisen. Tunneruumiin korkeampien halu jen ja tunteiden toiminta taas muodostaa tunnesielun. 
 
 Tämä kolminaissielu vuorostaan tehostaa kolminaishengen tajuntaa. 
 
 Tunnesielu, tunneruumiin luomus, lisää ihmisen hengen käyttö kelpoisuutta, joka on tunneruumiin henkinen vastapuoli. 
 
-Älysielu lisää elämänhengen voimaa, koska älysielu on lähtöisin elollisruumiista, joka taas on elämänhengen aineellinen vastapuoli. Tietoinen sielu lisää jumalallisen hengen tajuntaa, koska tietoi nen sielu on fyysisen ruumiin luoma ja fyysinen ruumis on jumalal lisen hengen vastapuoli. 
+Älysielu lisää elämänhengen voimaa, koska älysielu on lähtöisin elollisruumiista, joka taas on elämänhengen aineellinen vastapuoli.
 
-#### Kuolema ja kiirastuli 
+Tietoinen sielu lisää jumalallisen hengen tajuntaa, koska tietoi nen sielu on fyysisen ruumiin luoma ja fyysinen ruumis on jumalal lisen hengen vastapuoli. 
+
+#### <h4 id="death-and-purgatory">Kuolema ja kiirastuli</h4>
 
 Ihminen rakentaa ja kylvää, kunnes kuoleman hetki saapuu. Kylvön, kasvun ja hedelmöinnin ajat ovat ohi. Elonkorjuun aika on saapunut, kun kuoleman luuranko tulee viikatteineen ja tiimalaseineen. Tämä on hyvä vertauskuva. Luuranko kuvaa ruumiimme suhteellisesti pysyvintä osaa. Viikate osoittaa, että tämä pysyvä osa, jonka henki juuri on korjaamaisillaan, on loppuun kuluneen elämän hedelmä. Tiimalasi hänen kädessään osoittaa, ettei hetki lyö, ennen kuin täysi matka on kuljettu muuttumattomien lakien mukaisesti. Kun tämä hetki saapuu, käyttövälineet eroavat toisistaan. Ihmisen elämä fyy sisessä maailmassa on tällä kertaa päättynyt, eikä hän enää tarvitse fyysistä ruumista. Elollisruumis, kuten olemme selittäneet, kuuluu fyysiseen maailmaan ja on vetäytynyt pois pään kautta jättäen fyysi sen ruumiin elottomaksi. 
 
@@ -809,11 +794,11 @@ Korkeampien käyttövälineiden – elollisruumiin, tunneruumiin ja mielen – n
 
 Kun korkeammat käyttövälineet ovat jättäneet fyysisen ruumiin, ne ovat vielä siihen yhdistetyt hienon, välkkyvän hopealangan väli tyksellä, joka muistuttaa muodoltaan kahta kuutosta, jotka yhtyvät hakasten kohdalla. Katso kaaviota 5 a. 
 
-DIAGRAM!!!!!!!!!!! Kaavio 5 a Hopealanka. Irtoamiskohta 
-
 Toinen pää on kiinnitetty sydämeen siemenatomin kautta, ja vas ta siemenatomin irtautuminen pysäyttää sydämen. Lankaa ei kat kaista, ennen kuin kuluneen elämän elollisruumissa oleva kuvasarja on eletty uudelleen. 
 
-On tärkeää, ettei ruumista polteta tai palsamoida ennen kuin kuolemasta on kulunut kolme päivää. Koska elollisruumis on vielä yhteydessä korkeampien käyttövälineiden kanssa ja ne kaikki ovat vielä hopealangalla yhdistettyinä fyysiseen ruumiiseen, voi ihmi nen jossakin määrin tuntea ruumiinavauksesta tai muusta fyysiselle ruumiille tehdystä vahingosta johtuvan tuskan. Etenkin tulee välttää ruumiinpolttoa kolmena ensimmäisenä päivää kuoleman jälkeen, koska se yleensä hajottaa elollisruumiin, joka olisi pidettävä vahin goittumattomana kunnes kuluneen elämän kuvasarja on muistona painettu tunneruumiiseen. 
+On tärkeää, ettei ruumista polteta tai palsamoida ennen kuin kuolemasta on kulunut kolme päivää. Koska elollisruumis on vielä yhteydessä korkeampien käyttövälineiden kanssa ja ne kaikki ovat vielä hopealangalla yhdistettyinä fyysiseen ruumiiseen, voi ihmi nen jossakin määrin tuntea ruumiinavauksesta tai muusta fyysiselle ruumiille tehdystä vahingosta johtuvan tuskan. 
+
+Etenkin tulee välttää ruumiinpolttoa kolmena ensimmäisenä päivää kuoleman jälkeen, koska se yleensä hajottaa elollisruumiin, joka olisi pidettävä vahin goittumattomana kunnes kuluneen elämän kuvasarja on muistona painettu tunneruumiiseen. 
 
 Hopealanka katkeaa kohdasta, jossa ”kuutoset” yhtyvät. Toinen puoli jää fyysiseen ruumiiseen, toinen seuraa korkeampia käyttövä lineitä. Sillä hetkellä, kun hopealanka katkeaa, fyysinen ruumis on ehdottomasti kuollut. 
 
@@ -869,7 +854,9 @@ Tai ottakaamme esimerkiksi alkoholisti. Kuoleman jälkeen hän on mieltynyt naut
 
 Tästä näemme, ettei kostava jumala tee meille kiirastulta tai hel vettiä, vaan omat yksilölliset pahat tapamme ja tekomme luovat sen. Halujemme kiihkeydestä riippuu aika ja kärsimys, joka niiden puhdistamiseen vaaditaan. Viitataksemme vielä edellä mainittuihin tapauksiin, juopottelijalle ei olisi tuottanut kärsimystä, jos hän olisi kadottanut maallisen omaisuutensa. Jos hänellä jotakin olikin, hän ei ollut siihen takertunut. Saiturille ei olisi tuottanut vähintäkään tuskaa, jos hän olisi jäänyt osattomaksi nautintoaineista. Tuskin hän olisi välittänyt, vaikka maailmassa ei olisi ollut tippaakaan alkoho lia. Mutta hän välitti kullastaan ja juoppo välitti juomisistaan, ja niin erehtymätön laki antoi kummallekin sen kärsimyksen, jota he tarvit sivat puhdistuakseen tyhjistä haluistaan ja pahoista tavoistaan. 
 
-Viikatemies kuvaa kuolema lakia, joka sanoo: ”Mitä ihminen kylvää, sitä hän myös niittää.” Se on syyn ja seurauksen laki, joka hallitsee kaikkialla kolminkertaisessa maailmassa ja kaikilla luonnon tasoilla – fyysisellä, siveellisellä ja mentaalisella. Se toimii kaikkial la vääjäämättömästi sovittaen kaikki asiat ja palauttaen tasapainon kaikkialle, missä pieninkin teko on saanut aikaan häiriötä. Seurauk sen voi nähdä heti tai se voi viipyä vuosia tai useiden elämien ajan, mutta joskus tai jossakin vaaditaan vastaava korvaus. Opiskelijan tu lee erityisesti huomata, että tämä laki toimii täysin persoonattomasti. Maailmankaikkeudessa ei anneta palkintoa eikä rangaistusta. Kaikki on muuttumattoman lain tulosta. Mainitun lain toimintaa tullaan tarkemmin valaisemaan seuraavassa luvussa, jossa kerromme sen toiminnasta toisen suuren kosmisen lain yhteydessä, joka vaikuttaa ihmisen kehityksessä. Laki, jota nyt käsittelemme, on seuraamuksen laki. 
+Viikatemies kuvaa kuolema lakia, joka sanoo: ”Mitä ihminen kylvää, sitä hän myös niittää.” Se on syyn ja seurauksen laki, joka hallitsee kaikkialla kolminkertaisessa maailmassa ja kaikilla luonnon tasoilla – fyysisellä, siveellisellä ja mentaalisella. Se toimii kaikkial la vääjäämättömästi sovittaen kaikki asiat ja palauttaen tasapainon kaikkialle, missä pieninkin teko on saanut aikaan häiriötä. Seurauk sen voi nähdä heti tai se voi viipyä vuosia tai useiden elämien ajan, mutta joskus tai jossakin vaaditaan vastaava korvaus. Opiskelijan tu lee erityisesti huomata, että tämä laki toimii täysin persoonattomasti. 
+
+Maailmankaikkeudessa ei anneta palkintoa eikä rangaistusta. Kaikki on muuttumattoman lain tulosta. Mainitun lain toimintaa tullaan tarkemmin valaisemaan seuraavassa luvussa, jossa kerromme sen toiminnasta toisen suuren kosmisen lain yhteydessä, joka vaikuttaa ihmisen kehityksessä. Laki, jota nyt käsittelemme, on seuraamuksen laki. 
 
 Tunnemaailmassa tämä laki saa ihmisen kärsimään tavalla, joka parhaiten puhdistaa hänet alemmista haluista ja korjaa heikkouksia ja paheita, jotka estävät hänen edistymistään. Jos hän on aiheuttanut kärsimystä ja kohdellut toisia epäoikeudenmukaisesti, hän joutuu kärsimään samalla tavalla. On kuitenkin tärkeää huomata, että jos ihminen on ollut paheiden vallassa tai on tehnyt vääryyttä toisille, mutta on voittanut paheensa, katunut tekojaan ja niin paljon kuin mahdollista hyvittänyt virheensä, ovat katumus, uudistuminen ja sovitus puhdistaneet hänet näistä paheista ja pahojen tekojen seura uksista. Näin tasapaino on palautettu ja läksy opittu jo elämän aika na, eivätkä nämä voitetut paheet enää aiheuta kärsimystä kuoleman jälkeen. 
 
@@ -895,24 +882,28 @@ Katumus ja parannus ovat myös voimakkaita tekijöitä kiirastulen lyhentämisek
 
 Saavutetaan huomattavaa edistystä, joka tavallisesti jäisi tuleviin elämiin, kun ihminen näin arvostelee itseään, poistaa paheitaan ja uudistaa luonnettaan. Tätä harjoitusta suositellaan vakavasti. Se on kenties tärkein opetus tässä kirjassa. 
 
-#### Raja-alue 
+#### <h4 id="the-borderland">Raja-alue</h4>
 
 Kiirastuli sisältää tunnemaailman kolme alinta tasoa. Ensimmäinen taivas muodostuu kolmesta ylimmästä tasosta. Keskimmäinen taso on jonkinlainen raja-alue, joka ei ole taivasta eikä helvettiä. Tällä ta solla löydämme kunniallisia ja rehellisiä ihmisiä, jotka eivät tehneet kenellekään pahaa, mutta olivat syvästi kiintyneet jokapäiväiseen elämään, eivätkä ajatelleet henkisiä asioita. Heille tunnemaailma on kuvaamattoman yksitoikkoinen tila, koska siellä ei ole ”maallista elämää” eikä mitään, mikä tällaiselle ihmiselle vastaisi jokapäiväistä työtä. Hänellä on erittäin vaikeaa, kunnes hän oppii ajattelemaan korkeampia asioita kuin tilikirjoja ja maksuosoituksia. Myös ihmi set, jotka ajattelivat elämän arvoitusta ja tulivat siihen tulokseen, että ”kuolema on kaiken loppu”, ja jotka kielsivät kaiken olemassa olon materiaalisen maailman ulkopuolella, kokevat kauheaa yksi toikkoisuutta. He olivat varustautuneet tajunnan täydelliseen haih tumiseen kuolemassa, mutta sen sijaan huomaavat havaintokykynsä olevan entistäkin tarkemman. He olivat tottuneet kieltämään tällais ten asioiden mahdollisuuden niin kiihkeästi, että he vieläkin luulevat tunnemaailman olevan aistiharhaa. Heidän kuullaan huutavan sy vimmässä epätoivossa: ”Milloin tämä loppuu? Milloin tämä loppuu?” 
 
 Nämä ihmiset ovat todella säälittävässä tilassa. Heitä on yleen sä mahdotonta auttaa, ja he kärsivät kauemmin kuin monet muut. Heillä tuskin on minkäänlaista taivaselämää, jossa uusien ruumiiden muodostamista opetetaan tulevaisuutta varten. He kiteyttävät ajatuk sensa tulevan ruumiin muodostamiseen ilman minkäänlaista ope tusta. Tällä tavalla muodostunut ruumis on taipuvainen sairauksiin. Raihnaisen ruumiin aiheuttama kärsimys saattaa kuitenkin kään tää ihmisen ajatukset kohti Jumalaa, jolloin hänen kehityksensä voi edistyä, mutta materialistisen mielentilan vakavin seuraus on yhtey den kadottaminen hengen kanssa ja syrjäytetyksi joutuminen tästä kehitysaallosta. Sen tähden vanhemmat veljet ovat viimeisten vuosi satojen aikana olleet hyvin huolissaan läntisen maailman kohtalos ta. Ilman heidän siunauksellisesta toimintaansa emme olisi voineet välttää yhteiskunnallista hirmumyrskyä, johon verrattuna Ranskan vallankumous oli leikin tekoa. Harjaantunut selvänäkijä voi näh dä, kuinka täpärästi ihmiskunta on välttynyt tuhoisista luonnon mullistuksista, joissa mantereet olisivat vaipuneet mereen. XVIII lu vussa annetaan laajempi ja seikkaperäisempi kuvaus aineellisuuden ja tulivuortenpurkausten välillä, jossa oleva luettelo Vesuviuksen pur kauksista näyttää tukevan näiden asioiden yhteyttä toisiinsa. Epäilijä kuitenkin sanoo näitä asioita ”sattumaksi”, niin kuin tavallisesti käy, kun on kysymys sellaisesta tapahtumasta, jota hän ei voi selittää. 
 
-#### Ensimmäinen taivas 
+#### <h4 id="the-first-heaven">Ensimmäinen taivas</h4>
 
 Kun aika kiirastulessa on ohi, nousee puhdistunut henki ensimmäi seen taivaaseen, joka sijaitsee tunnemaailman kolmella korkeim malla tasolla. Kärsimysten seuraukset painautuvat tunneruumiin siemenatomiin antaen omantunnon, joka vaikuttaa sysäyksenä hyvään ja varoittaa pahasta tulevassa elämässä. Menneen elämän kuvasarja nähdään jälleen päinvastaisessa järjestyksessä, mutta täl lä kertaa tunteet perustuvat elämän hyviin tekoihin. Kun tulemme kohtauksiin, joissa autoimme toisia, niin tunnemme uudestaan kai ken auttamisen ilon ja lisäksi sen kiitollisuuden, jonka auttamam me lähimmäinen meille osoitti. Kun tulemme kohtaan, jossa joku auttoi meitä, tunnemme jälleen samaa kiitollisuutta, jota tunsimme hyväntekijäämme kohtaan. Tästä huomaamme, kuinka tärkeää on osoittaa kiitollisuutta toisilta saamastamme hyvästä, koska kiitolli suuden tunne edistää sielun kasvua. Taivasonnemme riippuu siitä ilosta, jota tuotimme muille sekä siitä arvosta, jonka itse annoimme toisten tekemälle hyvälle. 
 
 On aina muistettava, ettei antamiskyky kuulu yksinomaan rik kaille. Umpimähkäinen rahan antaminen voi olla pahaksi. On hyvä antaa rahaa tarpeelliseksi katsomaamme hyvään tarkoitukseen, mut ta palveleminen on tuhat kertaa suurempiarvoista. Whitman sanoo: 
 
-    Katso! En pidä esitelmiä, en harjoita hyväntekeväisyyttä;        Kun annan, niin annan itseni!    
+```
+Katso! En pidä esitelmiä, en harjoita hyväntekeväisyyttä;        
+Kun annan, niin annan itseni!    
+```
 
 Ystävällinen katse, luottamuksen osoitus, myötätuntoinen ja ra kastava avunanto – näitä voi antaa varallisuudesta riippumatta. Eri tyisesti meidän pitäisi yrittää, että apua tarvitseva oppisi auttamaan itse itseään sekä fyysisesti, rahallisesti, siveellisesti että mentaalisesti, ettei hän tulisi riippuvaiseksi meistä tai muista. 
 
 Runoilija Lowell esittää runoelmassaan ”The Vision of Sir Launfal” (Ritari Launfalin näky) hyvin kauniilla tavalla antamisen etiikkaa, jolloin antamisen seurauksena on henkinen opetus. Nuori, kunnian himoinen ritari, Sir Launfal, lähtee loistaviin varustuksiin puettuna mainion ratsunsa selässä hakemaan Pyhää Graalia. Hänen kilves sään loistaa risti, siunatun ja lempeän Vapahtajamme, nöyrän ja rakastavan Herramme vertauskuva, mutta ritarin sydän on täynnä ylpeyttä ja ylimielisyyttä köyhiä ja tarvitsevia kohtaan. Hän tapaa tiellään spitaalisen, joka pyytää almua. Halveksivasti nenäänsä nyr pistäen ritari heittää hänelle rahan kuin luun nälkäiselle koiralle. 
 
+```
 Ei koskenut kultaan spitaalinen.    
 ”On parempi kannikka köyhien,    
 parempi köyhältä siunaus ois,    
@@ -928,58 +919,64 @@ sitä ropoa ottamaan käsi ei riitä,
 saa sydän myös täyden osansa siitä,    
 jokin jumala seuraa mukana sen,    
 sillä ruokkivi sieluja nälkäisten.”    
+```
 
 Matkalta palattuaan ritari Launfal huomaa linnansa valloitetuksi ja hänet käännytetään portilta pois. 
 
+```
 Mies köyryssä kulkien vanhuuttaan,    
 Pyhän Graalin etsintämatkaltaan.    
 Vähät siitä, on linnansa toisen nyt oma,    
 Ei loista rinnalla risti nyt soma;    
 mutta sydämessä syvällä merkki on yhä,    
 joka köyhien, kärsiväin pantti on pyhä.    
+```
 
 Hän tapasi taas spitaalisen, joka kerjäsi häneltä almua. Tällä ker taa ritari vastasi toisella tavalla. 
 
-Näin ritari haastoi:    
-”Sinussa nään    
-minä Hänet,    
-mi kuollut on ristillään;    
+```
+Näin ritari haastoi: ”Sinussa nään    
+minä Hänet, mi kuollut on ristillään;    
 oot sinäkin ohdakeseppeleen saanut,    
-häväistynä, lyötynä maassa oot maannut;    
+häväistynä, lyötynä maassa oot maannut;   
+
 maailman katkerat kärsimyshaavat    
 sun kätesi jalkasi, kylkesi saavat;    
 Pyhä Maarian Poika, armahda mua!    
 – Hänen kauttaan, veljeni, autan mä sua.    
+```
 
 Hän katsahti spitaalisen silmiin ja hän muisti ja hän tunsi: 
 
+```
 Sydän rinnassa hällä on nöyrtynyt, vakaa.    
 Hän leipänsä aineen kahtia jakaa,    
 ja reunalta virran murtaen jään    
 hän syötti ja juotteli ystävätään.    
+```
 
 Ja tapahtui muutos: 
 
+```
 Ei varsi oo enää vaivainen tällä,    
 pään ympäri loistava kehä on hällä.    
-– – – – – – – – – – – – – – – –    
+– – – – – – – – – – – – – – – –   
+
 Ja äänensä kuiskeena värähteli:    
-”Minä se olen!    
-Älä pelkää, veli!    
+”Minä se olen! Älä pelkää, veli!    
 Monessa maassa sä harhailla sait,    
 kun Graalin maljaa turhaan hait:    
 Oi katso! Se sulla on kädessäsi,    
 mulle täytetty vedellä vierestäsi.    
-Tämä leipä on ruumiini,    
-kuollut sen vuoksi,    
-tämä vesi on veri,    
-joka ristillä juoksi.    
+Tämä leipä on ruumiini, kuollut sen vuoksi,    
+tämä vesi on veri, joka ristillä juoksi.    
 Näin ehtoollisatrian siellä me saamme,    
 missä me autamme heikompaamme;    
 vain antamisessa on lahjan arvo,    
 sitä ilman almu vain pelkkä varjo.    
 Kera antimes aina jos itsesi jaat,    
 sua, köyhää ja minua ruokkia saat.”    
+```
 
 Ensimmäisessä taivaassa vallitsee ilo ilman ainuttakaan katkeruu den pisaraa. Henki on siellä aineellisten ja maallisten olosuhteiden ja vaikutusten ulkopuolella sulattaen siellä kaiken hyvän, mikä sisältyi menneeseen elämään. Kaikki ihmisen jalot pyrkimykset täyttyvät täällä täydessä mitassaan. Tämä on levon tila, ja mitä kovempi elämä oli maan päällä, sitä syvemmin ihminen nauttii levosta. Tämä on spi ritualistien kesämaa. Tänne hartaiden kristittyjen ajatukset ovat ra kentaneet Uuden Jerusalemin. Kauniit rakennukset, kukat ja kaikki kauneus, mitä he kaipasivat, on täällä heidän osanaan. Omilla aja tuksillaan he ovat muodostaneet ne hienosta tunneaineesta. Kaikki tämä on yhtä todellista ja käsin kosketeltavaa heille kuin aineelliset rakennukset meille. Kaikki ihmiset saavat täällä tyydytyksen siinä, missä se heiltä maan päällä puuttui. 
 
@@ -989,14 +986,18 @@ Tällaisille lapsille ensimmäinen taivas on odotuspaikka, jossa he odottavat 1�
 
 Kun lapsi kuolee, joku sukulainen on aina häntä vastassa. Jos ei niin sattuisi, siellä on aina ihmisiä, jotka maan päällä rakastivat lapsia ja mielellään huolehtivat pienestä orvosta. Tunneaineen suuri joustavuus tekee mahdolliseksi mitä merkillisimpien elävien leikki kalujen muodostamisen, ja sen tähden lasten elämä siellä onkin jat kuvaa kaunista leikkiä. Opetusta ei kuitenkaan laiminlyödä. Lapset on jaettu luokkiin, ei kuitenkaan iän vaan luonteenlaadun mukaan. Tunnemaailmassa on helppo antaa havainto-opetusta hyvän ja pa han vaikutuksesta ihmisen käytökseen ja menestymiseen elämässä. Nämä opetukset painautuvat häviämättömästi lapsen herkkään ja vastaanottavaiseen tunneruumiiseen, ja ne pysyvät siellä syntymän jälkeen. Tästä saamastaan opetuksesta moni saa kiittää jaloa elä määnsä. Usein, kun heikko henki on syntynyt, säälin herrat (näky mättömät kehityksemme ohjaajat) saattavat hänet aikaiseen kuole maan vain sen vuoksi, että hän saisi tämän ylimääräisen opetuksen harjaantuakseen ehkä hyvinkin vaikeaan elämään. Tämä näyt tää usein tapahtuvan, kun kuvasarjan painuminen tunneruumii seen häiriintyi kuolevan sukulaisten valituksesta tai kun hän kuoli tapaturmaisesti tai taistelukentällä. Näiden olosuhteiden vallitessa ihminen ei kokenut asianmukaisen intensiivisesti kuolemanjälkeistä elämää. Sen tähden hän kuolee pian uuden syntymän jälkeen ja tämä epäonnistuminen korjataan mainitulla tavalla. Usein huolehtiminen lapsen taivaselämästä lankeaa niille, jotka olivat hämmingin aiheut taneet. Siten heille annetaan tilaisuus korjata virhe ja oppia menette lemään toisin. Tai ehkä heistä tulee vanhemmat sille sielulle, jota he olivat vahingoittaneet, ja he saavat huolehtia hänestä ne muutamat vuodet, jotka hän elää. Mutta silloin ei ole vaarallista, vaikka he sure vat hysteerisesti hänen kuolemaansa, sillä lapsen elollisruumiissa ei tällä kertaa ole mitään tärkeitä kuvia. 
 
-Tämä ensimmäinen taivas on myös edistymisen paikka tiedon haluisille, taiteilijoille ja epäitsekkäille ihmisille. Tutkijoilla ja filoso feilla on aina vapaa pääsy kaikkiin maailman kirjastoihin. Maalari saa lakkaamatta nauttia alati vaihtuvista väriyhdistelmistä. Hän op pii ajatuksellaan sekoittamaan värejä tahtonsa mukaan muodoiksi. Hänen taideteoksensa säteilevät ja värähtelevät elämää tavalla, jota maan hämärillä väreillä ei voi saada aikaan. Hän ikään kuin maalaa elävillä, liekehtivillä aineilla ja saa kuvansa valmiiksi niin helposti, että hänen sielunsa täyttyy nautinnolla. Muusikko ei vielä ole tul lut maailmaan, jossa hänen taiteensa saa täyden ilmaisun. Fyysinen maailma on muodon maailma. Tunnemaailma, jossa kiirastuli ja en simmäinen taivas ovat, on erikoisominaisuudeltaan värin maailma. Ajatusmaailma, jossa toinen ja kolmas taivas sijaitsevat, on säveli en aluetta. Taivaallinen soitto on tosiasia eikä vain kuvaannollinen puhetapa. Pythagoras ei kertonut satuja puhuessaan taivaankannen soitosta, sillä kullakin taivaankappaleella on oma nuottinsa, ja ne kaikki yhdessä soittavat taivaallista sinfoniaa. Siitä puhuu Goethekin ”Faustin” prologissa, joka esitetään taivasmaailmassa. Arkkienkeli Rafael sanoo: 
+Tämä ensimmäinen taivas on myös edistymisen paikka tiedon haluisille, taiteilijoille ja epäitsekkäille ihmisille. Tutkijoilla ja filoso feilla on aina vapaa pääsy kaikkiin maailman kirjastoihin. Maalari saa lakkaamatta nauttia alati vaihtuvista väriyhdistelmistä. Hän op pii ajatuksellaan sekoittamaan värejä tahtonsa mukaan muodoiksi. Hänen taideteoksensa säteilevät ja värähtelevät elämää tavalla, jota maan hämärillä väreillä ei voi saada aikaan. 
 
-    Aurinkos soipi niinkuin ennen        
-    Kilvassa siskomailmojen,        
-    Rataansa säätämääsi mennen        
-    Se pauhaa halki taivasten.6    
+Hän ikään kuin maalaa elävillä, liekehtivillä aineilla ja saa kuvansa valmiiksi niin helposti, että hänen sielunsa täyttyy nautinnolla. Muusikko ei vielä ole tul lut maailmaan, jossa hänen taiteensa saa täyden ilmaisun. Fyysinen maailma on muodon maailma. Tunnemaailma, jossa kiirastuli ja en simmäinen taivas ovat, on erikoisominaisuudeltaan värin maailma. Ajatusmaailma, jossa toinen ja kolmas taivas sijaitsevat, on säveli en aluetta. Taivaallinen soitto on tosiasia eikä vain kuvaannollinen puhetapa. Pythagoras ei kertonut satuja puhuessaan taivaankannen soitosta, sillä kullakin taivaankappaleella on oma nuottinsa, ja ne kaikki yhdessä soittavat taivaallista sinfoniaa. Siitä puhuu Goethekin ”Faustin” prologissa, joka esitetään taivasmaailmassa. Arkkienkeli Rafael sanoo: 
 
-6 Suom. Kaarlo Forsman 
+```
+Aurinkos soipi niinkuin ennen        
+Kilvassa siskomailmojen,        
+Rataansa säätämääsi mennen        
+Se pauhaa halki taivasten. (6)    
+```
+
+() - (6) Suom. Kaarlo Forsman 
 
 Taivaallisen soiton kaiku kuuluu tänne fyysiseenkin maailmaan. Tuo kaiku on kalleimpia aarteitamme, vaikka se haihtuu kuin varjo kuva, eikä sitä voi luoda pysyvään muotoon kuten muita taiteen luo muksia – veistoksia, maalauksia tai kirjoja. Fyysisessä maailmassa ääni kuolee ja katoaa miltei heti syntymänsä jälkeen. Ensimmäisessä taivaassa äänet ovat paljon kauniimpia ja kestävät kauemmin, sii tä syystä muusikko kuulee siellä kauniimpia sointuja kuin koskaan maan päällä. 
 
@@ -1012,7 +1013,7 @@ Voima on samaa henkeä, mutta ei ole vielä kiteytynyt.
 
 Tätä on käsitelty ennenkin, mutta sitä ei voi liikaa painottaa. Täs sä yhteydessä kuvaus etanasta on hyödyllinen. Aine, joka on kitey tynyt henki, vastaa etanan kuorta, joka on kiteytynyttä etanaa. Ke miallinen voima, joka liikuttaa ainetta valmistaen sen eri muotojen käyttöön sopivaksi, ja etana, joka liikuttaa kuortaan, kuvaavat hyvin aineen ja voiman suhdetta toisiinsa. Se, mikä nyt on etana, tulee aika naan kuoreksi, ja se, mikä nyt on voimaa, kiteytyy aikanaan aineek si. Päinvastainen prosessi, joka muuttaa aineen takaisin hengeksi, on myös toiminnassa jatkuvasti. Karkeampi jakso tässä prosessissa on nähtävissä mätänemisessä. Kun ihminen jättää käyttövälineensä kuolemassa, atomin henki irtoaa helposti karkeammasta hengestä, joka on ilmennyt aineena. 
 
-#### Toinen taivas 
+#### <h4 id="the-second-heaven">Toinen taivas</h4>
 
 Vihdoin ihminen, ego, kolminaishenki, astuu toiseen taivaaseen. Hän on pukeutunut älyn kilpeen, joka sisältää kolme siemenatomia – hylättyjen käyttövälineiden ydinolemukset. 
 
@@ -1026,9 +1027,7 @@ Sen jälkeen tapahtuu herääminen. Henki on nyt kotimaailmas saan – taivaassa
 
 Rytmillisten värähtelyjen voima on tuttu kaikille, jotka ovat vä hänkään näitä asioita tutkineet. Esimerkiksi sotilaita komennetaan keskeyttämään tahti siltaa ylitettäessä, sillä heidän rytmillinen mars sinsa voisi särkeä lujimmankin rakenteen. Salatieteilijä ei pidä mah dottomana Raamatun kertomusta siitä, kuinka Jerikon muurit kaatui vat, kun hyökkääjät puhalsivat oinaan sarviin marssiessaan kaupun gin ympäri. Samanlaisia asioita on tapahtunut ilman, että maailma on niille ylimielisesti hymyillyt. Muutamia vuosia sitten muuan soitto kunta harjoitteli puutarhassa lähellä vanhan linnan vahvaa muu ria. Yhdessä kohtaa musiikkia sattui olemaan hyvin pitkä ja terävä sävel. Sen soidessa linnan muuri sortui. Muusikot olivat sattuneet soittamaan muurin perussävelen, joka soi riittävän pitkään murtaak seen sen. 
 
-Kun sanomme toista taivasta sävelten maailmaksi, emme saa luulla, ettei siellä olisi värejäkin. Monet tietävät, että värin ja sävelen välillä on läheinen yhteys, niin että tietty väri ilmenee tietyn sävelen soidessa. Sama tapahtuu taivasmaailmassa. Väri ja ääni ovat siellä ole massa, ja sävel saa aikaan värin. Siitä syystä tätä maailmaa kutsutaan erityisesti sävelten maailmaksi. Sävel luo kaikki muodot fyysisessä kin maailmassa. Muusikko kuulee joitakin säveliä eri puolilla luon toa, kuten tuulen huminassa metsässä, aaltojen loiskeessa rantaa vas taan, valtameren kuohussa ja purojen solinassa. Kaikki nämä äänet muodostavat kokonaisuuden, maan perussävelen – maan ”sävelen”. 
-
-Voimme aikaansaada geometrisiä kuvioita vetämällä viulun jousta hiekalla päällystetyn lasilevyn reunaa vastaan. Samoin muodot, joita näemme ympärillämme, ovat taivasmaailman arkkityyppisten voi mien kiteytyneitä äänimuotoja. 
+Kun sanomme toista taivasta sävelten maailmaksi, emme saa luulla, ettei siellä olisi värejäkin. Monet tietävät, että värin ja sävelen välillä on läheinen yhteys, niin että tietty väri ilmenee tietyn sävelen soidessa. Sama tapahtuu taivasmaailmassa. Väri ja ääni ovat siellä ole massa, ja sävel saa aikaan värin. Siitä syystä tätä maailmaa kutsutaan erityisesti sävelten maailmaksi. Sävel luo kaikki muodot fyysisessä kin maailmassa. Muusikko kuulee joitakin säveliä eri puolilla luon toa, kuten tuulen huminassa metsässä, aaltojen loiskeessa rantaa vas taan, valtameren kuohussa ja purojen solinassa. Kaikki nämä äänet muodostavat kokonaisuuden, maan perussävelen – maan ”sävelen”. Voimme aikaansaada geometrisiä kuvioita vetämällä viulun jousta hiekalla päällystetyn lasilevyn reunaa vastaan. Samoin muodot, joita näemme ympärillämme, ovat taivasmaailman arkkityyppisten voi mien kiteytyneitä äänimuotoja. 
 
 Ihmisen työ taivasmaailmassa on hyvin monipuolista. Se ei suin kaan ole toimetonta, unelmoivaa ja harhailevaa oleilemista. Se on kaikkein tärkeintä toiminnan aikaa valmistautuessamme seuraavaan elämään, samoin kuin uni valmistaa meitä seuraavan päivän työhön. 
 
@@ -1050,7 +1049,9 @@ Ihmisen työ taivaissa ei rajoitu yksinomaan muokkaamaan ym päristöä, joka tu
 
 Olemme puhuneet voimista, jotka toimivat eri eettereiden posi tiivisissa ja negatiivisissa navoissa. Ihminen itse on osa näitä voimia. Ne, joita sanomme kuolleiksi, auttavat meitä elämään. Heitä auttavat vuorostaan niin sanotut ”luonnonhenget”, jotka ovat heidän käsky jensä alaisia. Tässä työssä ihmistä ohjaavat korkeampiin luoviin hie rarkioihin kuuluvat opettajat, jotka auttoivat ihmistä muodostamaan käyttövälineensä ennen kuin hän tuli itsetietoiseksi, samalla tavalla ihminen itse nyt rakentaa ruumiitaan unen aikana. Taivaselämän aikana nämä opettajat ohjaavat ihmistä tietoisesti. Taiteilijalle ope tetaan, miten muodostetaan silmä, niin että hän kykenee huomioi maan mittasuhteet ja erottamaan värivivahdukset niin tarkasti, että se on käsittämätöntä sellaiselle, joka ei ole kiinnostunut väreistä ja valosta. 
 
-Matemaatikko käsittelee tilavuussuhteita. Kyky ymmärtää ma temaattisia suhteita riippuu korvassa olevien kolmen kaarikäytävän rakenteesta, jotka kukin osoittavat yhteen kolmesta ulottuvuudesta. Looginen ajattelukyky ja matemaattiset taipumukset riippuvat näi den kaarikäytävien täsmällisestä sopusuhteesta. Musikaaliset taipu mukset riippuvat samoista korvan rakenteen tekijöistä, mutta näi den lisäksi muusikolla täytyy olla erikoisen herkkä ”Cortin elin”, joka sisältää noin kymmenen tuhatta aistinsolua, ja kukin niistä kykenee erottamaan noin 25 eri ääniaskelta. Useimpien ihmisten korvissa ne eivät reagoi kuin kolmesta kymmeneen kaikista mahdollisista ääni vivahteista. Musikaalisilla ihmisillä vastaanottokyky on noin 15 ään tä aistisolua kohden. Mestarisoittaja, joka kykenee tulkitsemaan taivasmaailman musiikkia ja tuomaan sen maan päälle, tarvitsee laajemman äänialan voidakseen erottaa erilaiset nuotit ja havaita pienen epävireen kaikista vaikeimmissakin soinnuissa. Henkilöistä, joiden elimet ovat näin hienoa rakennetta, pidetään erikoista huol ta, kuten heidän korkea kehityksensä ansaitsee ja vaatii. Taiteilijois ta muusikkoa arvostetaan korkeimmalle. Tämä on ymmärrettävää, kun otamme huomioon, että taidemaalari ottaa inspiraationsa pää asiassa värien maailmasta – lähellä olevasta tunnemaailmasta – kun taas muusikko pyrkii luomaan meille taivaallisen kotimaamme ilma piiriä (jonka kansalaisia me henkinä olemme) ja yrittää tulki ta taivaallista musiikkia maan päälle sopiviksi ääniksi. Muusikon tehtävä on korkein, koska musiikki on korkein ilmaisumuoto ilmen tämään sielunelämää. Ymmärrämme musiikin erilaisuuden ja korke amman luonteen, kun vertaamme sitä veistokseen tai maalaukseen, jotka ovat pysyviä taideteoksia. Ne ovat kotoisin tunnemaailmasta ja kiteytyvät sen tähden helpommin. Musiikki taas on kotoisin taivas maailmasta ja on vaikeammin tavoitettavissa. Se on aina luotava uudestaan, kun haluamme kuulla sitä. Sitä ei voida vangita, vaikka sitä on yritetty vangita fonograafeihin tai automaattipianoihin. Näin toistettu musiikki kadottaa suurimman osan sen taivaallisesta, sielua liikuttavasta kauneudesta, joka sillä on tullessaan raikkaana omasta maailmastaan, kun se tuo sielulle muistoja kotimaasta ja puhuu kiel tä, jonka kauneudelle ei vedä vertoja marmoriin tai kankaalle tehty luomus. 
+Matemaatikko käsittelee tilavuussuhteita. Kyky ymmärtää ma temaattisia suhteita riippuu korvassa olevien kolmen kaarikäytävän rakenteesta, jotka kukin osoittavat yhteen kolmesta ulottuvuudesta. Looginen ajattelukyky ja matemaattiset taipumukset riippuvat näi den kaarikäytävien täsmällisestä sopusuhteesta. Musikaaliset taipu mukset riippuvat samoista korvan rakenteen tekijöistä, mutta näi den lisäksi muusikolla täytyy olla erikoisen herkkä ”Cortin elin”, joka sisältää noin kymmenen tuhatta aistinsolua, ja kukin niistä kykenee erottamaan noin 25 eri ääniaskelta. Useimpien ihmisten korvissa ne eivät reagoi kuin kolmesta kymmeneen kaikista mahdollisista ääni vivahteista. 
+
+Musikaalisilla ihmisillä vastaanottokyky on noin 15 ään tä aistisolua kohden. Mestarisoittaja, joka kykenee tulkitsemaan taivasmaailman musiikkia ja tuomaan sen maan päälle, tarvitsee laajemman äänialan voidakseen erottaa erilaiset nuotit ja havaita pienen epävireen kaikista vaikeimmissakin soinnuissa. Henkilöistä, joiden elimet ovat näin hienoa rakennetta, pidetään erikoista huol ta, kuten heidän korkea kehityksensä ansaitsee ja vaatii. Taiteilijois ta muusikkoa arvostetaan korkeimmalle. Tämä on ymmärrettävää, kun otamme huomioon, että taidemaalari ottaa inspiraationsa pää asiassa värien maailmasta – lähellä olevasta tunnemaailmasta – kun taas muusikko pyrkii luomaan meille taivaallisen kotimaamme ilma piiriä (jonka kansalaisia me henkinä olemme) ja yrittää tulki ta taivaallista musiikkia maan päälle sopiviksi ääniksi. Muusikon tehtävä on korkein, koska musiikki on korkein ilmaisumuoto ilmen tämään sielunelämää. Ymmärrämme musiikin erilaisuuden ja korke amman luonteen, kun vertaamme sitä veistokseen tai maalaukseen, jotka ovat pysyviä taideteoksia. Ne ovat kotoisin tunnemaailmasta ja kiteytyvät sen tähden helpommin. Musiikki taas on kotoisin taivas maailmasta ja on vaikeammin tavoitettavissa. Se on aina luotava uudestaan, kun haluamme kuulla sitä. Sitä ei voida vangita, vaikka sitä on yritetty vangita fonograafeihin tai automaattipianoihin. Näin toistettu musiikki kadottaa suurimman osan sen taivaallisesta, sielua liikuttavasta kauneudesta, joka sillä on tullessaan raikkaana omasta maailmastaan, kun se tuo sielulle muistoja kotimaasta ja puhuu kiel tä, jonka kauneudelle ei vedä vertoja marmoriin tai kankaalle tehty luomus. 
 
 Väline, jolla ihminen aistii musiikkia, on hänen ruumiinsa täydel lisin aistinelin. Silmä voi erehtyä, mutta korva kuulee jokaisen äänen ilman vääristymää. Silmä sitä vastoin usein vääristää näkemänsä. 
 
@@ -1062,7 +1063,7 @@ Kaikki ihmiset muodostavat ruumiitaan ennen syntymää tiedot tomasti, kunnes he
 
 Ihminen oppii muodostamaan käyttövälineitään taivasmaailmas sa ja käyttämään niitä fyysisessä maailmassa. Elämä järjestää kaikki kokemuksiemme vaiheet ihmeellisellä tavalla ja sellaisella täydel lisellä viisaudella, että mitä syvemmin opimme näkemään sen sa laisuuksia, sitä paremmin tunnemme oman vähäpätöisyytemme ja kunnioituksemme Jumalaa kohtaan kasvaa, Jumalaa, jonka näkyvä vertauskuva luonto on. Mitä enemmän opimme tuntemaan sen ih meitä, sitä paremmin ymmärrämme, ettei maailmankaikkeus ole suuri ikiliikkuja, niin kuin ajattelemattomat ihmiset tahtoisivat mei dän uskovan. Yhtä järjetöntä olisi ajatella, että heittämällä rasiallisen kirjaimia ilmaan niistä muodostuisi maahan pudotessa ihana runo elma. Mitä monimutkaisempi suunnitelma, sitä suuremman paino arvon saa teoria jumalallisesta luojasta. 
 
-#### Kolmas taivas 
+#### <h4 id="the-third-heaven">Kolmas taivas</h4>
 
 Kun ihminen on sulattanut kaikki edellisen elämänsä hedelmät, muovaillut maan ulkomuotoa sopivaksi ympäristöksi uuden edistys askeleen ottamista varten kohti täydellisyyttä ja on oppinut, työs kenneltyään toisten hyväksi, muodostamaan itselleen sopivan ruu miin ilmaisuvälineeksi fyysiseen maailmaan ja vihdoin lisännyt siihen älyn muodostaen kolminaishengen, niin yksilöllinen henki nousee ajatusmaailman korkeimmalle tasolle – kolmanteen taivaa seen. Täällä korkeamman maailman sanoin kuvaamattomassa sopu soinnussa se vahvistuu seuraavaa maanpäällistä elämää varten. 
 
@@ -1088,7 +1089,7 @@ Samoin ihminen on koulussa – kokemusten koulussa. Hänen täy tyy palata maan 
 
 Mitä varten eläisimme täällä, ellemme palaisi takaisin maan päälle? Miksi yrittäisimme mitään? Miksi onnellinen elämä ikuises sa taivaassa olisi hyvän elämän palkka? Mitä siunausta hyvä elämä tuottaisi taivaassa, jossa kaikki jo ovat onnellisia? Onhan selvää, ettei paikassa, jossa kaikki ovat onnellisia ja tyytyväisiä, tarvita myötä tuntoa, uhrautuvaisuutta tai hyviä neuvoja. Siellä kukaan ei niitä tarvitse, mutta maan päällä monet tarvitsevat juuri niitä ja sen täh den ovat tällaiset inhimilliset ja ihmisystävälliset ominaisuudet suu reksi hyödyksi ihmiskunnalle elämäntaistelussa. Siksi jumalallinen laki, joka toimii hyvän puolesta, lähettää meidät saavuttamiemme aarteiden kanssa takaisin maan päälle siunaukseksi sekä itsellemme että muille, sen sijaan että tuhlaisimme avujamme taivaassa, jossa kukaan ei niitä tarvitse. 
 
-#### Valmistautuminen jälleensyntymiseen 
+#### <h4 id="preparations-for-rebirth">Valmistautuminen jälleensyntymiseen</h4>
 
 Kun olemme nyt huomanneet uudistuvien syntymien välttämättö myyden, tutkimme kuinka se tapahtuu. 
 
@@ -1104,8 +1105,10 @@ On erittäin tärkeää muistaa tämä tosiseikka. Olemme taipuvaisia ajattelema
 
 Syyn ja seurauksen lain alaisena syntyneen yksilön kohtalo on hyvin monimutkainen yhdistelmä, joka samalla kertaa käsittää yh teyden egoihin, jotka ovat fyysisessä maailmassa tai täältä poissa. Monet ovat samaan aikaan fyysisessä ruumiissa, mutta eivät elä sa massa paikassa. Siksi ihmisen kohtalon on mahdoton tulla täytetyksi yhden elämän aikana tai yhdessä paikassa. Ego johdetaan tiettyyn ympäristöön ja perheeseen, jonka kanssa se tavalla tai toisella on yhteydessä. Joskus on merkityksetöntä, minkä eri vaihtoehdoista ego valitsee. Tällaisessa tapauksessa ihmiselle annetaan suuri valin nan vapaus, mutta kohtalon herrat vartioivat näkymättöminä, ettei vapaa tahto tee tyhjäksi sitä osaa kohtalosta, jonka on määrä täyttyä. Jos valintamme tekee kohtalon täyttymisen mahdottomaksi, kohta lon herrat tekevät uuden toimenpiteen, niin että tietty kohtalo täyt tyy. Ei voida kyllin usein vakuuttaa, että tämä asioiden järjestely ei tee ihmistä avuttomaksi. Tämä on sama laki, joka toimii esimerkiksi pistoolilla ammuttaessa. Emme voi pysäyttää luotia tai muuttaa sen suuntaa millään tavalla. Luodin suunta määräytyi pistoolin asennos ta laukaisuhetkellä. Suuntaa olisi voitu muuttaa milloin tahansa en nen laukaisua, koska siihen saakka meillä oli täysi kontrolli. Sama koskee uusia tekoja, jotka aiheuttavat kohtalomme. Voimme tiettyyn pisteeseen asti muuttaa osittain tai kokonaan toiminnan suuntaa, mutta kun jokin asia on pantu alulle, emme voi sitä enää kumota. Tätä kutsutaan ”kypsyneeksi” kohtaloksi ja sitä tarkoitetaan, kun sa notaan, että kohtalon herrat estävät yrityksemme välttää kohtaloam me. Menneisyyden suhteen olemme sidottuja, mutta tulevia tapah tumia voimme vapaasti valita, elleivät entiset tekomme sitä estä. Kun vähitellen huomaamme, että olemme itse aiheuttaneet surumme ja ilomme, heräämme ymmärtämään, kuinka välttämätöntä on järjes tää elämämme sopusointuun taivaallisten lakien mukaan ja nousta fyysisen maailman lakien yläpuolelle. Tämä on avain, joka johtaa meidät vapauteen. Kuten Goethe sanoo: 
 
-    Ihminen vapautuu kaikista maailmaa kahlehtivista voimista,     
-    niin pian kuin hän oppii itseänsä hallitsemaan. 
+```
+Ihminen vapautuu kaikista maailmaa kahlehtivista voimista,     
+niin pian kuin hän oppii itseänsä hallitsemaan. 
+```
 
 Elollisruumis, jonka kohtalon herrat ovat muovailleet, on fyysi sen ruumiin mallina jokaista elintä myöten. Tämä malli eli muotti asetetaan tulevan äidin kohtuun. Fyysisen ruumiin siemenatomi pii lee yhden isässä olevan siittiön kolmiomaisessa päässä. Tämä tekee hedelmöittymisen mahdolliseksi, ja tässä on selitys, miksi niin moni sukupuoliyhdyntä jää hedelmättömäksi. Siemennesteen ja muna solun kemiallinen rakenne on aina sama. Jos se olisi ainoa edellytys hedelmöitymiseen ja jos hedelmättömyyden syytä haettaisiin vain aineellisesta maailmasta, ei sitä koskaan löytyisi. Kuitenkin asia tulee selväksi, kun ymmärrämme, että vesimolekyylit jäätyvät jääkiteiksi ainoastaan vedessä olevien voimavirtausten mukaisesti eivätkä yh denmukaiseksi jäämassaksi, mikä tapahtuisi, mikäli voimavirtoja ei jäätymisen aikana olisi vedessä. Samoin fyysistä ruumistakaan ei voi muodostaa ennen elollisruumista, jonka mukaan fyysinen keho muodostetaan. Ruumiin muodostamiseen tarvitaan myös siemen atomi, joka määrää siihen tulevien aineiden laadun ja määrän. Ny kyisellä kehitysasteella aineet ruumiissamme eivät ole täydellisessä sopusoinnussa, sillä jos niin olisi, ruumiimme olisi täydellinen, mut ta epäsointu ei saa olla niin suuri, että se häiritsisi elimistöä. 
 
@@ -1115,7 +1118,7 @@ Lukuun ottamatta hyvin korkealle kehittyneitä henkilöitä egon osallistuminen 
 
 Sen jälkeen kun munasolu on hedelmöitynyt, äidin tunneruumis työskentelee siinä 18–21 päivän ajan. Ego, tunneruumis ja äly ovat ulkopuolella, mutta kuitenkin läheisessä yhteydessä äitiin. Tämän ajan päätyttyä ego liittyy äidin ruumiissa olevaan sikiöön. Kellon muotoiset käyttövälineet vetäytyvät alas elollisruumiin pään yli ja kello sulkeutuu alapäästä. Tästä lähtien ego ikään kuin hautoo tu levaa käyttövälinettään, kunnes lapsi syntyy ja palaavan egon uusi maaelämä alkaa. 
 
-#### Fyysisen ruumiin syntymä 
+#### <h4 id="birth-of-the-dense-body">Fyysisen ruumiin syntymä</h4>
 
 Vastasyntyneen lapsen käyttövälineet eivät ala toimia heti. Fyysinen ruumis on avuton kauan aikaa syntymän jälkeen. Vertailevalla ajat telulla voimme havaita, että tämä täytyy olla samoin korkeammis sakin käyttövälineissä. Salatieteilijä näkee sen, mutta ilman selvä näköisyyttäkin järki osoittaa, että näin täytyy olla. Niin kuin fyysistä ruumista valmistetaan yksilöllistä elämää varten vähitellen kohdun suojaavassa verhossa, samoin muutkin ruumiit syntyvät ja kehittyvät vähitellen toimintaan. Seuraavassa mainitut ajankohdat ovat vain liki määräisiä, mutta kuitenkin kyllin tarkkoja yleistä esitystä varten ja osoittavat suhteen makrokosmoksen ja mikrokosmoksen – maail man ja yksilön – välillä. 
 
@@ -1135,21 +1138,21 @@ Sen tähden kutakin käyttövälinettä kasvatetaan tiettyyn kypsyy den tilaan m
 
 Ensimmäisten seitsemän ikävuoden aikana elollisruumis kas vaa vähitellen kypsyen makrokosmisen elollisruumiin kohdussa, ja makrokosmisen käyttövälineen suuresta viisaudesta johtuu, että lapsen ruumis on pyöreämpi ja voimakasrakenteisempi kuin täysi kasvuisen henkilön ruumis. 
 
-#### Elollisruumiin syntymä 
+#### <h4 id="birth-of-the-vital-body">Elollisruumiin syntymä</h4>
 
 Makrokosminen elollisruumis ohjaa lapsen ruumiin kasvua ja suo jelee sitä vaaroilta, jotka uhkaavat sitä myöhemminkin, kun ymmär rykseltään vielä heikko yksilö ottaa elollisruumiin omaan hallin taansa. Se tapahtuu seitsemännellä ikävuodella, ajanjaksona, jolloin kiihkeä, vaarallinen kasvuaika alkaa, jatkuen seuraavat seitsemän vuotta. Tänä aikana makrokosminen tunneruumis toimii yksilön tunneruumiin kohtuna. 
 
 Jos elollisruumiin kasvu ihmiskunnassa olisi jatkuvaa ja hillitse mätöntä kuten kasveissa, ihminen kasvaisi valtavan suureksi. Kau kaisessa menneisyydessä ihminen oli kasvin kaltainen, ja hänellä oli vain fyysinen ja elollisruumis. Kaikkialla maailmassa mytologi set perinnetarut ja kansanperinne kertovat entisaikojen jättiläisistä. Nämä kertomukset ovat tosia, koska edellä mainitusta syystä ihmiset ennen kasvoivat yhtä suuriksi kuin puut. 
 
-#### Tunneruumiin syntymä 
+#### <h4 id="birth-of-the-desire-body">Tunneruumiin syntymä</h4>
 
 Kasvin elollisruumis kasvattaa lehden toisensa jälkeen kohottaen rungon yhä pitemmäksi. Jos makrokosminen tunneruumis ei vai kuttaisi kasviin, se jatkaisi tällä tavalla äärettömiin, mutta nyt makro kosminen tunneruumis estää kasvun tietyllä kohdalla. Voima, jota ei enää tarvita kasvuun, käytetään kukan ja siemenen muodostami seen. Ihmisen fyysinen ruumis kasvaa hyvin nopeasti seitsemännen ikävuoden jälkeen, kun se tulee elollisruumiin vaikutuksen alaisek si. Ihmisen ollessa noin 14-vuotias syntyy yksilöllinen tunneruumis makrokosmisen tunneruumiin kohdusta ja alkaa vapaasti vaikuttaa fyysisessä ruumiissa. Näin ehkäistään liiallinen kasvu ja siihen käy tetty voima suuntautuu suvunjatkamiskyvyn kehittymiseen, jotta ihmiskasvi voisi kukkia ja kantaa hedelmää. Yksilöllisen tunne ruumiin syntyminen osoittaa murrosiän alkamisen. Tästä ajan kohdasta lähtien ihminen tuntee vetovoimaa toista sukupuolta koh taan. Tämä tunne kehittyy erittäin voimakkaaksi ja toimivaksi kol mannessa ihmiselämän seitsenjaksossa, 14–21 ikävuoden välillä, koska hillitsevä järki ei ole vielä syntynyt. 
 
-#### Järjen syntymä 
+#### <h4 id="birth-of-the-mind">Järjen syntymä</h4>
 
 Seuraavaksi 14 ikävuoden jälkeen makrokosminen järki hoitaa ja ravitsee yksilöllisen järjen kehitystä ja sen uinuvia kykyjä tehden omakohtaisen ajattelun mahdolliseksi. Ihmisen eri käyttövälineissä toimivat voimat ovat nyt kehittyneet sille tasolle, että hän voi käyt tää niitä kehityksessään, ja sen tähden ego saa 21-vuotiaana valmiin käyttövälineen käyttöönsä. Tämä tapahtuu veren lämmön ja yksilöl lisen veren välityksellä. Samassa yhteydessä valoeetteri kehittyy täy teen mittaansa. 
 
-#### Veri, egon käyttöväline 
+#### <h4 id="the-blood-the-vehicle-of-the-ego">Veri, egon käyttöväline</h4>
 
 Lapsuudessa noin neljääntoista ikävuoteen saakka punainen luuydin ei muodosta kaikkia verisoluja, vaan suurimman osan muodostaa kateenkorvarauhanen (lat. thymus), joka on suurimmillaan sikiös sä ja pienenee vähitellen sitä mukaa kuin kyky veren muodostami seen kehittyy lapsessa. Kateenkorvarauhanen sisältää vanhempien antaman verisoluvaraston, josta lapsi saa verisolunsa, ja tästä syystä lapsi ei ymmärrä yksilöllisyyttään. Lapsi ei tajua minuuttaan, ennen kuin hän kehittää oman verensä, ja kun kateenkorvarauhanen kato aa kokonaan noin neljätoistavuotiaana, ”minuuden” tunto saavuttaa täyden ilmaisunsa, sillä silloin ego muodostaa veren ja hallitsee sitä. Seuraavaksi selitämme, mistä tämä johtuu. 
 
@@ -1167,9 +1170,7 @@ Egon todelliseen ilmaisuun vaadittava veren oikea lämpötila saa vutetaan vasta
 
 Nämä ovat tärkeimmät kehitysasteet, joiden läpi ihminen ny kyisessä kehityskaudessa kulkee jokaisen elämänkierroksen aikana matkallaan yhdestä syntymästä toiseen. 
 
-DIAGRAM!!!!!!! Kaavio 5 b 
-
-### IV LUKU: JÄLLEENSYNTYMINEN JA SEURAAMUKSEN LAKI 
+### <h3 id="chapter-4">IV Luku: Jälleensyntyminen ja seuraamuksen laki</h3>
 
 Ainoastaan kolme käsittelemisen arvoista teoriaa on esitetty elämän ja kuoleman arvoituksen ratkaisemiseksi. 
 
@@ -1177,11 +1178,11 @@ Yhtä näistä kolmesta teoriasta – nimittäin jälleensyntymistä ja siihen l
 
 Suurten luonnonlakien täytyy toimia sopusoinnussa muiden luonnon lainalaisuuksien kanssa. Sen tähden tutkijan on hyvä tar kastella ja verrata näitä teorioita suhteessa niihin, joita eri oppien kannattajat pitävät ”tunnettuina luonnonlakeina” siinä maailman kaikkeuden osassa, josta meillä on havaintoja. Siinä tarkoituksessa määrittelemme nuo kolme eri teoriaa. 
 
-1) Materialistinen teoria esittää, että elämä on kulkua kohdusta hautaan, että äly on tiettyjen aineyhdisteiden tulos, että ihmi nen on korkein älyolento kosmoksessa ja että hänen älynsä haihtuu ruumiin hajotessa kuolemassa. 
+1\. Materialistinen teoria esittää, että elämä on kulkua kohdusta hautaan, että äly on tiettyjen aineyhdisteiden tulos, että ihmi nen on korkein älyolento kosmoksessa ja että hänen älynsä haihtuu ruumiin hajotessa kuolemassa. 
 
-2) Teologia esittää, että jokaisessa ihmissyntymässä uusi vasta luotu sielu astuu Jumalan kädestä elämän näyttämölle. Hän saapuu näkymättömästä olotilastaan syntymän portin kautta näkyvään olotilaan, ja kuljettuaan loppuun lyhyen elämän matkansa ainemaailmassa hän astuu kuoleman portin kautta näkymättömään olotilaan. Sieltä hän ei enää palaa, ja hänen iankaikkinen onnellisuuden tai kärsimyksen tilansa riippuu hänen teoistaan sinä äärettömän pienenä ajanhetkenä, joka kestää syntymästä kuolemaan. 
+2\. Teologia esittää, että jokaisessa ihmissyntymässä uusi vasta luotu sielu astuu Jumalan kädestä elämän näyttämölle. Hän saapuu näkymättömästä olotilastaan syntymän portin kautta näkyvään olotilaan, ja kuljettuaan loppuun lyhyen elämän matkansa ainemaailmassa hän astuu kuoleman portin kautta näkymättömään olotilaan. Sieltä hän ei enää palaa, ja hänen iankaikkinen onnellisuuden tai kärsimyksen tilansa riippuu hänen teoistaan sinä äärettömän pienenä ajanhetkenä, joka kestää syntymästä kuolemaan. 
 
-3) Oppi jälleensyntymisestä opettaa, että jokainen sielu on olen nainen osa Jumalaa sisältäen kaikki jumalalliset mahdollisuu det samoin kuin siemen sisältää kasvin. Nämä uinuvat mah dollisuudet kehittyvät vähitellen uudistuvien maanpäällisten elämien kautta dynaamisiksi voimiksi. Tämän kehitysmene telmän mukaan kukaan ei joudu kadotukseen, vaan kaikki ih miset saavuttavat lopulta täydellisyyden ja yhtyvät Jumalaan. 
+3\. Oppi jälleensyntymisestä opettaa, että jokainen sielu on olen nainen osa Jumalaa sisältäen kaikki jumalalliset mahdollisuu det samoin kuin siemen sisältää kasvin. Nämä uinuvat mah dollisuudet kehittyvät vähitellen uudistuvien maanpäällisten elämien kautta dynaamisiksi voimiksi. Tämän kehitysmene telmän mukaan kukaan ei joudu kadotukseen, vaan kaikki ih miset saavuttavat lopulta täydellisyyden ja yhtyvät Jumalaan. 
 
 Ensimmäinen teoria on monistinen. Se pyrkii selittämään kaikki olemassaoloon liittyvät asiat ainemaailman ilmiöiksi. Kaksi muu ta teoriaa ovat dualistisia. Ne ovat yhtäpitäviä siinä, että jotkut olemassaolon ilmiöt ja toiminnot tapahtuvat ylifyysisellä, näkymät tömällä tasolla, mutta ne eroavat suuresti muissa asioissa. 
 
@@ -1209,7 +1210,9 @@ Katsellessamme pientä vaatimatonta kasvia puutarhassamme tai Luoteis-Kalifornia
 
 Tarkastelkaamme kaareutuvaa taivaankantta, tulisia tähtisumu ja tai aurinkojärjestelmien kiertokulkua – kaikkialla silmä kohtaa spiraaliliikkeen. Keväällä maa riisuu valkean peitteensä ja nousee levolta – talviunestaan. Luonnontoiminnot ponnistelevat herättääk seen kaikkialla uutta elämää. Aika kuluu. Vilja ja rypäleet kypsyvät, ja ne korjataan. Sen jälkeen kiireinen kesä vaipuu talven hiljaisuu teen ja toimettomuuteen. Taas kietoutuu maa lumivaippaan. Mutta sen uni ei ole ainaista, maa herää jälleen uuden kevään lauluun, joka merkitsee uuden askeleen ottamista kehityksen polulla. 
 
-Sama koskee aurinkoa. Se nousee jokaisen päivän alkaessa, mutta joka aamu se on askelta pitemmällä matkallaan vuoden ympäri. Kaikkialla näemme spiraalin – eteenpäin, ylöspäin, ikuisesti! 
+Sama koskee aurinkoa. Se nousee jokaisen päivän alkaessa, mutta joka aamu se on askelta pitemmällä matkallaan vuoden ympäri.
+
+Kaikkialla näemme spiraalin – eteenpäin, ylöspäin, ikuisesti! 
 
 Onko mahdollista, että tämä laki, joka toimii kaikilla muilla elä män alueilla, olisi toimimatta ihmiselämässä? Maa, puut ja kukatko vain joka vuosi heräävät talviunestaan ja elävät uudelleen, mutta ih misenkö täytyisi kuolla? Näin ei voi olla! Sama laki, joka herättää kasvin uuteen kasvuun, herättää myös ihmisen uusiin kokemuksiin, jatkuvaan kehitykseen kohti täydellisyyttä. Oppi jälleensyntymisestä, joka opettaa syntymistä uusiin ruumiisiin yhä paranevissa käyttö välineissä, on täydellisessä sopusoinnussa kehityksen ja luonnon ilmiöiden kanssa, toisin kuin kaksi muuta teoriaa. 
 
@@ -1251,7 +1254,7 @@ Ilmestyskirjasta löydämme nämä sanat ”Siitä, joka voittaa, minä teen pyl
 
 Oliver Wendell Holmes ilmentää tämän idean jatkuvasta kasvusta kehittyneemmissä käyttövälineissä sekä lopullisesta vapautumisesta kauniissa runossaan ”Kahlehdittu merenkulkija”. Simpukka raken taa spiraalinmuotoisen kuorensa osina jättäen taakseen pienemmän kuoren kasvettuaan siitä ulos ja muuttaa viimeksi rakentamaansa: 
 
-* * * * * * * *    
+```
 Vuodesta vuoteen hän ahersi hiljaa,    
 kierukkaa loistavaa rakentaen;    
 Kun kasvoi spiraali yhä,    
@@ -1268,7 +1271,6 @@ Kuin koskaan meren jumalan torvesta seppelöidystä!
 Kun korvaani se soittaa,    
 Läpi syvien ajatuskuilujen kuulen äänen joka laulaa:    
 
-
 Rakenna kammiot mahtavammat, oi sieluni!    
 Kun ohi kiitävät vuodenajat!    
 Jätä taakse menneet holvit matalat,    
@@ -1276,12 +1278,13 @@ Anna jokaisen uuden temppelin jalompi olla kuin entinen,
 Sulje itsesi taivaasta kupolilla mahtavimmalla,    
 kunnes lopulta olet vapaa    
 jättämään pieneksi käyneen kuoresi elämän meren rantaan!    
+```
 
 Kuten aiemmin on mainittu, tarve saada tietynlainen elimistö tuo mieleen erään mielenkiintoisen kohdan jälleensyntymisen ja seuraamuksen kaksoislakien toiminnassa. Nämä lait ovat yhteydessä kosmisten taivaankappaleiden, auringon, planeettojen ja eläinradan liikkeiden kanssa. Ne kaikki liikkuvat näiden lakien mukaan, ja nii den kiertokulkua johtavat niiden sisässä asuvat henkiset älyolennot – planeettahenget. 
 
-Päiväntasauspisteiden prekessioliikkeen7 johdosta aurinko siirtyy taaksepäin eläinradan kahdentoista merkin kautta, edeten noin yh den asteen 72 vuodessa, siis jokaisen merkin läpi (30 astetta) noin 2100 vuodessa ja koko eläinradan läpi noin 26 000 vuodessa. 
+Päiväntasauspisteiden prekessioliikkeen (7) johdosta aurinko siirtyy taaksepäin eläinradan kahdentoista merkin kautta, edeten noin yh den asteen 72 vuodessa, siis jokaisen merkin läpi (30 astetta) noin 2100 vuodessa ja koko eläinradan läpi noin 26 000 vuodessa. 
 
-7 Tähtitieteessä prekessiolla tarkoitetaan Maan tai muun taivaankappaleen ak selin kaltevuussuunnan muuttumista pitkän ajan kuluessa. – Suom. huom. 
+() - (7) Tähtitieteessä prekessiolla tarkoitetaan Maan tai muun taivaankappaleen ak selin kaltevuussuunnan muuttumista pitkän ajan kuluessa. – Suom. huom. 
 
 Tämä johtuu siitä, että maapallo ei pyöri paikallaan olevan ak selin ympäri. Sen akselilla on oma hidas liikkeensä, joka muistut taa pysähtymäisillään olevan hyrrän hoippuvaa kiertoliikettä. Tästä syystä se ikään kuin piirtää ympyrää avaruuteen, jonka myötä tähti toisensa jälkeen tulee pohjantähdeksi. 
 
@@ -1307,12 +1310,11 @@ Kirjoittajalla ei ole epäilystäkään, etteikö tässä olisi ollut kysy mykse
 
 Näin ollen tähtiä voidaan nimittää ”kohtalon kelloksi”. Eläinrata ja sen kaksitoista merkkiä vastaavat kellotaulua: aurinko ja planeetat ovat tuntiviisari, joka osoittaa vuotta; kuu on minuuttiviisari, osoit taen kuukautta, jolloin kypsän kohtalon asiat tulevat kohdattaviksi. 
 
-Tarpeeksi ei voida korostaa sitä tosiasiaa, että vaikka joitakin asi oita elämässä ei voi välttää, ihminen voi jonkin verran käyttää vapaa ta tahtoaan muuttamaan jo alkuun pantuja asioita. 
+Tarpeeksi ei voida korostaa sitä tosiasiaa, että vaikka joitakin asi oita elämässä ei voi välttää, ihminen voi jonkin verran käyttää vapaa ta tahtoaan muuttamaan jo alkuun pantuja asioita. Runoilija (8) esittää sen näin: 
 
-Runoilija8 esittää sen näin: 
+() - (8) Ella Wheeler Wilcox: “Winds of Fate”. 
 
-8 Ella Wheeler Wilcox: “Winds of Fate”. 
-
+```
 Yksi laiva purjehtii länteen, toinen itään,    
 sama tuuli molempia kuljettaa.    
 Ei tuuli vaan asento purjeiden määrää,    
@@ -1322,6 +1324,7 @@ On kohtalon tie kuin merellä tuuli
 kun matkamme läpi elämän käy.    
 Teko sielun määrää tien,    
 eikä elon tyyneys tai taistelu.    
+```
 
 Tärkeintä on pitää mielessä, että nykyiset tekomme määräävät tulevat olosuhteemme. 
 
@@ -1333,7 +1336,7 @@ Sitä paitsi tämän opin nimittäminen pakanaopiksi ei osoita sitä vääräksi
 
 Kaikki muut uskonnot ovat johtaneet vähitellen kristinuskoon. Ne olivat rotu-uskontoja ja sisälsivät vain osittain sen, mikä sisältyy kristinuskoon täydellisempänä. Todellista esoteerista kristinuskoa ei vielä ole julkisesti opetettu, eikä sitä opeteta ennen kuin ihmis kunta on ohittanut materialistisen kauden ja kypsynyt vastaanotta maan sen. Kuten tulemme näkemään, Kristuksen määräyksen mu kaan jälleensyntymisoppia ja seuraamuksen lakia ei ole opetettu jul kisesti länsimailla kuluneiden 2000 vuoden aikana, vaan näitä kahta oppia on opetettu salaisesti kaikkina aikoina. 
 
-#### Viinin vaikutus kehityksessä 
+#### <h4 id="wine-as-a-factor-in-evolution">Viinin vaikutus kehityksessä</h4>
 
 Ymmärtääksemme syyn näiden opetusten poisjättämiseen ja nii den hämärryttämiseen meidän täytyy palata takaisin ihmishistorian alkuaikoihin ja nähdä, miten ihmiskunnan Suuri Opettaja on johta nut ihmistä hänen omaksi parhaakseen. 
 
@@ -1399,7 +1402,7 @@ Vaikka useimmat ihmiset eivät muista edellisiä elämiään, on joi takin, jotk
 
 Kun henkilö kuolee lapsena, hän usein muistaa sen elämän seu raavassa ruumiillistumassaan, koska alle 14-vuotiaat eivät mene ympäri koko elämänkierrosta ja siten heidän ei tarvitse muodostaa uudelleen käyttövälineitään. He pääsevät tunnemaailman ylemmil le tasoille odottamaan seuraavaa ruumiillistumista, joka tavallises ti tapahtuu 10–20 vuoden kuluessa kuoleman jälkeen. Palatessaan syntymään he tuovat mukanaan entisen älynsä ja tunneruumiinsa. Jos kuuntelisimme tarkemmin lasten puheita, voisimme löytää niistä seuraavanlaisia kertomuksia: 
 
-#### Ihmeellinen kertomus 
+#### <h4 id="a-remarkable-story">Ihmeellinen kertomus</h4>
 
 Santa Barbarassa, Kaliforniassa Roberts-niminen herrasmies tuli eräänä päivänä pyytämään apua vaikeassa tilanteessa selvänäkijältä, joka oli myös teosofinen luennoitsija. Kävellessään edellisenä päivänä kadulla pieni kolmevuotias tyttö juoksi hänen luokseen, kiersi käten sä hänen polviensa ympäri ja kutsui häntä isäkseen. Närkästyneenä herra Roberts ajatteli, että joku tahallaan tahtoi tehdä hänet lapsen isäksi. Lapsen äiti oli yhtä harmistunut tilanteesta ja yritti saada lap sen mukaansa. Lapsi kuitenkin piti edelleen kiinni herra Robertsista ja väitti häntä isäkseen. Herra Roberts ei saanut asiaa pois mieles tään, vaan pyysi selvänäkijän mukaansa lapsen vanhempien luo. Jäl leen tyttö juoksi herra Robertsin luo ja kutsui häntä isäksi. Selvä näkijä vei lapsen ikkunan luo tarkastaakseen, vetäytyikö silmäterä kokoon valon vaikutuksesta. Jos toinen olento olisi hallinnut lapsen ruumista, selvänäkijä olisi nähnyt sen, koska silmää, joka on sielun ikkuna, ei vieras olento voi saada haltuunsa. Selvänäkijä huomioi, että lapsi oli terve, ja hän teki varovaisesti kysymyksiä pienokaiselle. Iltapäivän kuluessa hän vähitellen ja kärsivällisesti haastatteli lasta, ettei tämä väsyisi, ja sai kootuksi seuraavan kertomuksen. 
 
@@ -1411,9 +1414,9 @@ Vasta silloin viranomaiset ottivat huomioon hänen alituiset pu heensa vaimosta 
 
 Hän näytti oman ja vaimonsa valokuvan, ja selvänäkijän keho tuksesta ne sekoitettiin toisten kuvien joukkoon ja näytettiin tytölle. Hän tunnisti epäröimättä molempien vanhempiensa kuvat, vaikka herra Roberts oli tuolloin erinäköinen kuin nykyisin. 
 
-## II OSA: MAAILMAN SYNTY JA IHMISEN SYNTY 
+<h2 id="part-2">II Osa: Maailman synty ja ihmisen synty</h2>
 
-### V LUKU: IHMISEN SUHDE JUMALAAN 
+### <h3 id="chapter-5">V Luku: Ihmisen suhde Jumalaan</h3>
 
 Edellisissä luvuissa olemme tutkineet ihmisen suhdetta kolmeen niis tä viidestä maailmasta, jotka muodostavat hänen kehityskenttänsä. Olemme osittain kuvailleet näitä maailmoja ja huomioineet tajunnan eri käyttövälineet, joilla ihminen on yhdistetty niihin. Olemme tut kineet hänen suhdettaan kolmeen luontokuntaan, – kivi-, kasvi- ja eläinkuntaan – ja huomioineet niiden käyttövälineiden erilaisuuden ja siitä johtuvan tajunnan erovaisuuden ihmisen ja näiden toisten luontokuntien välillä. Olemme seuranneet ihmistä yhden elämän jakson ajan hänen kulkiessaan kolmen maailman läpi, ja olemme tarkastelleet seuraamuksen ja jälleensyntymisen kaksoislakien toi mintaa ihmisen kehityksessä. 
 
@@ -1421,13 +1424,13 @@ Ymmärtääksemme tarkemmin ihmisen kehitystä koskevia yksityiskohtia on vältt
 
 Tämä on äärimmäisen vaikea tehtävä, ja sitä edelleen vaikeuttaa valtaosan tätä aihetta käsittelevää kirjallisuutta lukevien ihmisten epämääräinen käsitys Jumalasta. On totta, että nimet sinänsä eivät ole tärkeitä, mutta on erittäin tärkeää, että tiedämme, mitä nimi tar koittaa, muuten syntyy jatkuvasti väärinkäsityksiä, ja jos kirjoittajat ja opettajat eivät käytä samaa nimistöä, saadaan yhä enemmän häm mennystä aikaan. Kun käytetään nimitystä ”Jumala”, on aina epävar maa tarkoitetaanko Absoluuttia, Ainoaa Olemassaoloa vai Korkeinta Olentoa, maailmankaikkeuden Suurta Arkkitehtia, vai onko kysy myksessä se Jumala, joka on meidän aurinkokuntamme arkkitehti. 
 
-Jumaluuden jakaminen ”Isään”, ”Poikaan” ja ”Pyhään Henkeen” on myös hämmentävää. Vaikka kaikki näillä nimillä määritellyt olennot ovat äärettömän paljon korkeammalla ihmistä ja vaativat osakseen kaikkea sitä kunnioitusta ja palvontaa, jonka ihminen ky kenee antamaan korkeimmalle jumalakäsitteelleen, niin ne eroavat kuitenkin oleellisesti toinen toisestaan. 
+Jumaluuden jakaminen ”Isään”, ”Poikaan” ja ”Pyhään Henkeen” on myös hämmentävää. Vaikka kaikki näillä nimillä määritellyt olennot ovat äärettömän paljon korkeammalla ihmistä ja vaativat osakseen kaikkea sitä kunnioitusta ja palvontaa, jonka ihminen ky kenee antamaan korkeimmalle jumalakäsitteelleen, niin ne eroavat kuitenkin oleellisesti toinen toisestaan.  
 
-DIAGRAM 6!!!!!!! Kaavio 6 Korkein Olento, Kosmiset tasot ja Jumala. 
-
-Kaaviot 6 ja 11 ehkä tekevät asian selväksi. On pidettävä mieles sä, että maailmat ja kosmiset tasot eivät sijaitse toinen toisensa ylä puolella avaruudessa, vaan seitsemän kosmista tasoa läpäisevät toi nen toisensa ja kaikki seitsemän maailmaa. Ne ovat erilaisia henki aineen tiloja, jotka läpäisevät toinen toisensa, joten Jumala sekä muut edellä mainitut korkeat olennot eivät ole jossakin kaukana ava ruudessa. Ne läpäisevät oman tasonsa jokaisen osan ja kaikki niitä tiheämmät tasot. Ne ovat siis kaikki läsnä meidän maailmassamme ja ovat itse asiassa ja de facto9 ”lähempänä kuin kädet ja jalat”. On kirjaimellisesti totta, kun sanomme ”Hänessä me elämme, olemme ja liikumme”, sillä kukaan meistä ei voi elää ulkopuolella näitä suu ria älyolentoja, jotka läpäisevät ja ylläpitävät maailmamme omalla elämällään. On osoitettu, että eetteritaso leviää kiinteän maapallon ilmakehän ulkopuolelle, että tunnemaailma ulottuu laajemmalle avaruuteen kuin eetteritaso ja vielä että ajatusmaailma leviää laa jemmalle planeettojen väliseen avaruuteen kuin mikään edellisistä. On luonnollista, että ohuemmasta aineesta muodostuneet maailmat vaativat laajemman tilan kuin tiheämpi maailma, joka kiteytyneenä ja tiivistyneenä tarvitsee vähemmän tilaa. 
+Kaaviot 6 ja 11 ehkä tekevät asian selväksi. On pidettävä mieles sä, että maailmat ja kosmiset tasot eivät sijaitse toinen toisensa ylä puolella avaruudessa, vaan seitsemän kosmista tasoa läpäisevät toi nen toisensa ja kaikki seitsemän maailmaa. Ne ovat erilaisia henki aineen tiloja, jotka läpäisevät toinen toisensa, joten Jumala sekä muut edellä mainitut korkeat olennot eivät ole jossakin kaukana ava ruudessa. Ne läpäisevät oman tasonsa jokaisen osan ja kaikki niitä tiheämmät tasot. Ne ovat siis kaikki läsnä meidän maailmassamme ja ovat itse asiassa ja de facto (9) ”lähempänä kuin kädet ja jalat”. On kirjaimellisesti totta, kun sanomme ”Hänessä me elämme, olemme ja liikumme”, sillä kukaan meistä ei voi elää ulkopuolella näitä suu ria älyolentoja, jotka läpäisevät ja ylläpitävät maailmamme omalla elämällään. 
 
 9 Käytännössä, yleisesti. – Suom. huom. 
+
+On osoitettu, että eetteritaso leviää kiinteän maapallon ilmakehän ulkopuolelle, että tunnemaailma ulottuu laajemmalle avaruuteen kuin eetteritaso ja vielä että ajatusmaailma leviää laa jemmalle planeettojen väliseen avaruuteen kuin mikään edellisistä. On luonnollista, että ohuemmasta aineesta muodostuneet maailmat vaativat laajemman tilan kuin tiheämpi maailma, joka kiteytyneenä ja tiivistyneenä tarvitsee vähemmän tilaa. 
 
 Sama periaate toimii kosmisilla tasoilla. Tihein niistä on seitse mäs (ylhäältä alaspäin laskien). Kaaviossa se on tehty laajemmaksi, koska olemme tämän tason kanssa lähimmin kosketuksissa ja halu amme näyttää sen tärkeimmät alatasot. Todellisuudessa se kuiten kin vaatii vähemmän tilaa kuin mikään muu kosminen taso. Täytyy pitää mielessä, että vaikka se on kuvattu verrattain rajoittuneesti, se on kuitenkin laajuudeltaan mittaamattoman suuri ja huomattavasti ihmisymmärryksen yläpuolella pitäen sisällään miljoonia saman tapaisia aurinkojärjestelmiä kuin omamme, jotka ovat kehitys kenttänä monille eriasteisille olennoille, jotka ovat suunnilleen meidän tasollamme. 
 
@@ -1445,9 +1448,9 @@ Absoluutti on käsityskykymme yläpuolella. Mikään ilmaisumuoto tai vertauskuv
 
 Olemassaolon juuresta – Absoluutista – lähtee Korkein Olento luomispäivän sarastaessa. Tämä on SE YKSI. 
 
-Johanneksen evankeliumin ensimmäisessä luvussa tätä suurta olentoa kutsutaan Jumalaksi. Tästä Korkeimmasta Olennosta läh tee Sana, Luova Fiat, ”jota ilman ei mitään ole tehty”, ja tämä Sana on ennen kaikkia maailmoja Isästä, ”Korkeimmasta Olennosta” eli yhdestä syntynyt10, ainosyntyinen Poika – mutta ehdottomasti se ei ole Kristus. Kristus on suuri ja loistava, paljon ihmisten yläpuolella, mutta Hän ei ole tämä ylhäinen olento. Todellakin ”Sana on tullut lihaksi”, mutta ei vain yhden ruumiin lihaksi, vaan lihaksi kaikessa, mikä on tässä ja miljoonissa muissa aurinkojärjestelmissä. 
+Johanneksen evankeliumin ensimmäisessä luvussa tätä suurta olentoa kutsutaan Jumalaksi. Tästä Korkeimmasta Olennosta läh tee Sana, Luova Fiat, ”jota ilman ei mitään ole tehty”, ja tämä Sana on ennen kaikkia maailmoja Isästä, ”Korkeimmasta Olennosta” eli yhdestä syntynyt (10), ainosyntyinen Poika – mutta ehdottomasti se ei ole Kristus. Kristus on suuri ja loistava, paljon ihmisten yläpuolella, mutta Hän ei ole tämä ylhäinen olento. Todellakin ”Sana on tullut lihaksi”, mutta ei vain yhden ruumiin lihaksi, vaan lihaksi kaikessa, mikä on tässä ja miljoonissa muissa aurinkojärjestelmissä. 
 
-10 Monogenesis [muinaiskreikkaa]. – Suom. huom. 
+() - (10) Monogenesis [muinaiskreikkaa]. – Suom. huom. 
 
 Tämän korkean olennon ensimmäisen ominaisuuden voidaan ilmaista olevan VOIMA. Tästä lähtee toinen olemuspuoli, SANA, ja näistä molemmista lähtee kolmas, LIIKE. 
 
@@ -1461,13 +1464,13 @@ Voimme vielä todeta, että ainakin tässä meidän planeettajärjes telmässäm
 
 Tämä edellä kerrottu opetus koskee kaikkia aurinkojärjestelmiä. Aurinkojärjestelmässä, johon me kuulumme, kyllin harjaantunut selvänäkijä voi henkilökohtaisesti tutkien saada luonnonmuistista seuraavassa kerrotut opetukset. 
 
-### VI LUKU: KEHITYSSUUNNITELMA 
+### <h3 id="chapter-6">VI Luku: Kehityssuunnitelma</h3>
 
-#### Alku 
+#### <h4 id="the-beginning">Alku</h4>
 
-Sopusoinnussa hermeettisen aksiooman kanssa ”niin ylhäällä kuin alhaalla” ja vice versa11 aurinkokunnat syntyvät, kuolevat ja syntyvät uudelleen toiminnan ja levon kiertokulussa kuten ihminenkin. 
+Sopusoinnussa hermeettisen aksiooman kanssa ”niin ylhäällä kuin alhaalla” ja vice versa (11) aurinkokunnat syntyvät, kuolevat ja syntyvät uudelleen toiminnan ja levon kiertokulussa kuten ihminenkin. 
 
-11 Päinvastoin, toisinpäin. – Suom. huom. 
+() - (11) Päinvastoin, toisinpäin. – Suom. huom. 
 
 Kaikilla luonnon alueilla tapahtuu jatkuvaa elämän toiminnan leimahtamista ja sammumista vastaten luoteen ja vuoksen vaihtelua, päivää ja yötä, kesää ja talvea, elämää ja kuolemaa. 
 
@@ -1493,7 +1496,7 @@ Kehittyvässä olennossa on voima, joka tekee evoluution siksi, mitä se on, eik
 
 Monet nykyajan edistyneemmät filosofiat tunnustavat involuu tion ja evoluution. Tiede tunnustaa vain viimeksi mainitun, koska se (tiede) käsittelee ainoastaan ilmennyksen muotopuolta. Involuutio liittyy elämään, mutta edistyneemmät tiedemiehet pitävät epigenee siä toteen näytettävänä asiana. Ruusuristiläinen maailmankatsomus pitää näiden kolmen ilmiön yhdistelmää välttämättömänä ymmär tääksemme täysin järjestelmämme menneisyyden, nykyisyyden ja tulevaisuuden. 
 
-#### Seitsemän maailmaa 
+#### <h4 id="the-worlds">Seitsemän maailmaa</h4>
 
 Voimme käyttää jokapäiväisestä elämästä otettua esimerkkiä kuvaa maan kosmosta. Olettakaamme, että ihminen haluaa rakentaa ko din. Ensin hän valitsee sopivan paikan ja ryhtyy rakentamaan taloa jakaen sen tarkoituksenmukaisuussyistä eri huoneisiin. Hän tekee keittiön, ruokailu-, makuu- ja kylpyhuoneen kalustaen ne kaikki tiettyjä tarkoituksia varten. 
 
@@ -1515,7 +1518,7 @@ Korkeimmat maailmat luotiin ensin. Koska involuution tarkoi tus on vähitellen s
 
 Korkeimmat (hienoimmat, harvinaisimmat, eetterisimmät) maa ilmat luotiin ensin ja ne katoavat viimeiseksi. Kolme tiheintä maa ilmaa, joissa nykyinen kehityksemme tapahtuu, ovat suhteellisesti katoavaisia ilmiöitä hengen laskeutuessa aineeseen. 
 
-#### Seitsemän aikakautta 
+#### <h4 id="the-seven-periods">Seitsemän aikakautta</h4>
 
 Kehityssuunnitelma toteutuu näiden viiden maailman avulla seitse män suuren aikakauden jaksossa, joiden kuluessa neitseelliset hen get, kehittyvä elämä, tulee ensin ihmiseksi – sitten Jumalaksi. 
 
@@ -1540,8 +1543,8 @@ Ruusuristiläisessä sanastossa seitsemällä aikakaudella on seuraa vat nimet:
 5. Jupiterkausi    
 6. Venuskausi    
 7. Vulkanuskausi    
-} Nämä aikakaudet ovat Maan peräkkäisiä ruumiillistumia. 
 
+Nämä aikakaudet ovat Maan peräkkäisiä ruumiillistumia. 
 
 Ei tule ajatella, että näillä ajanjaksoilla on mitään tekemistä niiden planeettojen kanssa, jotka kiertävät radoillansa kuten Maa Auringon ympäri. Emme voi tarpeeksi korostaa sitä, että näiden planeettojen ja näiden aikakausien välillä ei ole mitään yhtyettä. Mainitut aika kaudet ovat yksinkertaisesti Maan entisiä, nykyisiä ja tulevia ruu miillistumia, ”olosuhteita”, joiden läpi se on kulkenut, parhaillaan kulkee ja tulee tulevaisuudessa kulkemaan. 
 
