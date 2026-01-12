@@ -57,9 +57,9 @@ Mt. Ecclesia, Novembro 1949
 
 ### <h3 id="chapter-1">Capítulo I: Assim como era no princípio</h3>
 
-Todo o sistema solar é um vasto instrumento musical, denominado na Mitologia Grega como "a lira de sete cordas de Apolo". Os signos do zodíaco podem ser considerados a caixa de ressonância da Harpa Cósmica, sendo os sete planetas suas cordas, que emitem sons diferentes à medida que passam pelos vários signos, influenciando a humanidade de diversas maneiras. Se a harmonia falhasse por um único momento, se houvesse a mínima dissonância na orquestra celestial, todo o universo poderia desintegrar-se. 
-
-Max Heindel 
+```
+Todo o sistema solar é um vasto instrumento musical, denominado na Mitologia Grega como "a lira de sete cordas de Apolo". Os signos do zodíaco podem ser considerados a caixa de ressonância da Harpa Cósmica, sendo os sete planetas suas cordas, que emitem sons diferentes à medida que passam pelos vários signos, influenciando a humanidade de diversas maneiras. Se a harmonia falhasse por um único momento, se houvesse a mínima dissonância na orquestra celestial, todo o universo poderia desintegrar-se. - Max Heindel 
+```
 
 O método usado pelas Hierarquias Criadoras para ajudar o homem a desenvolver suas potencialidades, foi planejado de acordo com os veículos que necessitava para contatar as várias regiões, onde o trabalho ligado ao seu desenvolvimento devia ser realizado. Os veículos necessários eram um corpo denso, um corpo vital, um corpo de desejos e uma mente; e o método usado pelos grandes Seres para construir estes quatro veículos estava e está relacionado com os diferentes Períodos Terrestres, e cada um foi e continua sendo permeado por uma particular nota-chave. 
 
@@ -81,7 +81,9 @@ A vontade do homem teve sua origem na vontade de Deus. O músico, por meio de su
 
 Arquitetura, escultura e pintura foram impressas no homem pelos grandes Seres espirituais, e essas artes tornaram-se parte da sua natureza. Mas, é através do poder da própria vontade do homem que o músico é capaz de perceber os tons expressos pela vontade de Deus e, até certo ponto, reproduzi-los. Esta é a origem de nossa música no mundo físico, criação própria do homem. 
 
-A música produz expressões de tom que procedem do poder mais elevado de Deus e do homem, isto é, da vontade. Portanto, podemos ver que terrível conseqüência o homem está construindo para si, ao profanar a música, ao introduzir nela todos os tipos de dissonâncias, ruídos estridentes e penetrantes, gemidos e desarmonias que afetam os nervos. Um conhecido filósofo expressou bem uma grande verdade cósmica quando disse: "Deixem-me escrever música para uma nação e não me preocuparei com quem faça suas leis". O termo músico aqui usado não se aplica ao cantor ou ao executante musical comum, mas a mestres criadores de música, tais como Beethoven, Mozart, Wagner, Liszt, Chopin e outros da mesma classe. A arquitetura pode ser comparada à música congelada; a escultura à música aprisionada; a pintura à música lutando para se libertar; a música à livre e flutuante manifestação do som. 
+A música produz expressões de tom que procedem do poder mais elevado de Deus e do homem, isto é, da vontade. Portanto, podemos ver que terrível conseqüência o homem está construindo para si, ao profanar a música, ao introduzir nela todos os tipos de dissonâncias, ruídos estridentes e penetrantes, gemidos e desarmonias que afetam os nervos. Um conhecido filósofo expressou bem uma grande verdade cósmica quando disse: "Deixem-me escrever música para uma nação e não me preocuparei com quem faça suas leis". O termo músico aqui usado não se aplica ao cantor ou ao executante musical comum, mas a mestres criadores de música, tais como Beethoven, Mozart, Wagner, Liszt, Chopin e outros da mesma classe. 
+
+A arquitetura pode ser comparada à música congelada; a escultura à música aprisionada; a pintura à música lutando para se libertar; a música à livre e flutuante manifestação do som. 
 
 ### <h3 id="chapter-2">Capítulo II: O monocórdio do homem</h3>
 
@@ -97,13 +99,17 @@ A música é composta de três elementos primários: melodia, harmonia e ritmo. 
 
 O homem tem dentro de seu cérebro sete cavidades que durante a vida são comumente consideradas vazias. Na realidade, estas cavidades estão cheias de uma essência do espírito, sendo que cada cavidade tem seu próprio tom e cor. Os tons produzidos por estas cavidades estão correlacionados àqueles dos Sete Espíritos diante do Trono: Urano, Saturno, Júpiter, Marte, Terra, Vênus e Mercúrio. As cavidades ou ventrículos, começando pela frente do cérebro, são (1) ventrículo olfativo, (2) ventrículo lateral, (3) terceiro ventrículo, (4) quarto ventrículo, (5) corpo pituitário, (6) glândula pineal. A sétima cavidade é o crânio, que reúne todos os elementos em um grande todo. 
 
-O sistema solar é um vasto instrumento musical. Assim como existem doze semitons na escala cromática, temos no céu doze signos do zodíaco. Assim como temos as sete teclas brancas ou tons no teclado do piano, temos os sete planetas. Os signos do zodíaco podem ser considerados como a caixa de ressonância da harpa cósmica, e os sete planetas são as cordas influenciando a humanidade de diversas maneiras, Na Bíblia notamos como a lira de sete cordas de Davi representa, astrologicamente, as notas-chaves da corrente planetária sétupla. A nota-chave de cada planeta é composta da quintessência de seus sons reunidos. Uma amalgamação das tristezas e alegrias de nossa Terra, os sons de seus ventos e mares, o ritmo de toda as suas forças viventes combinadas, formam seu tom ou nota-chave. Da mesma maneira, e em escala sempre ascendente, soam as notas de toda a corrente planetária, sendo que sua união constitui a sublime Música das Esferas ... "Não existe a menor orbe que observes que, em seu movimento, não cante como um anjo". Assim escreveu o grande poeta-iniciado, Shakespeare. Esta música celestial é o produto daquele Verbo ao qual São João se referia quando escreveu: "No início era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus ... e nada do que foi feito, foi feito sem Ele". (João I.1-3) 
+O sistema solar é um vasto instrumento musical. Assim como existem doze semitons na escala cromática, temos no céu doze signos do zodíaco. Assim como temos as sete teclas brancas ou tons no teclado do piano, temos os sete planetas. Os signos do zodíaco podem ser considerados como a caixa de ressonância da harpa cósmica, e os sete planetas são as cordas influenciando a humanidade de diversas maneiras.
+
+PICTURE!!!!!!!!!!!!!
+
+Na Bíblia notamos como a lira de sete cordas de Davi representa, astrologicamente, as notas-chaves da corrente planetária sétupla. A nota-chave de cada planeta é composta da quintessência de seus sons reunidos. Uma amalgamação das tristezas e alegrias de nossa Terra, os sons de seus ventos e mares, o ritmo de toda as suas forças viventes combinadas, formam seu tom ou nota-chave. Da mesma maneira, e em escala sempre ascendente, soam as notas de toda a corrente planetária, sendo que sua união constitui a sublime Música das Esferas ... "Não existe a menor orbe que observes que, em seu movimento, não cante como um anjo". Assim escreveu o grande poeta-iniciado, Shakespeare. Esta música celestial é o produto daquele Verbo ao qual São João se referia quando escreveu: "No início era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus ... e nada do que foi feito, foi feito sem Ele". (João I.1-3) 
 
 ### <h3 id="chapter-3">Capítulo III: O poder da música</h3>
 
-    A música é, na saúde, a mestra da perfeita ordem, a voz da obediência dos anjos, a companheira do curso das esferas celestes; na depravação, é também a mestra da perfeita desordem e desobediência. 
-
-    Ruskin 
+```
+A música é, na saúde, a mestra da perfeita ordem, a voz da obediência dos anjos, a companheira do curso das esferas celestes; na depravação, é também a mestra da perfeita desordem e desobediência. - Ruskin 
+```
 
 NA música, entre a melodia e o ritmo, encontramos a harmonia, que tanto pode se elevar e misturar-se com a vibração de pensamento puro - melodia - como descer misturando-se com o movimento puro da atividade - impulso. Se o puro elemento melódico na música, que carrega a vibração da vontade de Deus e do Espírito, for omitido de uma composição, o poder diretor não estará lá para controlar as atividades dos corpos de desejos e denso. Então, os desejos revelam-se em excitação e, estando sem o poder controlador da razão, o resultado provavelmente será o desastre. A probabilidade da harmonia misturar-se com o impulso explica por que é possível para a chamada música moderna, que tende a trazer confusão ao invés de coerência unificante, existir. 
 
@@ -121,7 +127,11 @@ As três divisões primárias da música - melodia, harmonia e ritmo - estão co
 
 ### <h3 id="chapter-4">Capítulo IV: A correlação da música com o Deus Solar</h3>
 
-| Música       | Deus       | Poderes       | Expressão        | |--------------|------------|---------------|------------------| | 1 - Melodia  | 1 - Pai    | 1 - Vontade   | 1 - Inteligência | | 2 - Harmonia | 2 - Cristo | 2 - Amor      | 2 - Sentimento   | | 3 - Ritmo    | 3 - Jeová  | 3 - Atividade | 3 - Movimento    | 
+| Música       | Deus       | Poderes       | Expressão        | 
+|--------------|------------|---------------|------------------| 
+| 1 - Melodia  | 1 - Pai    | 1 - Vontade   | 1 - Inteligência | 
+| 2 - Harmonia | 2 - Cristo | 2 - Amor      | 2 - Sentimento   | 
+| 3 - Ritmo    | 3 - Jeová  | 3 - Atividade | 3 - Movimento    | 
 
 A melodia, o mais elevado poder da música, inclui razão, intelecto e entendimento. Quando harmonia e ritmo se unem e ficam divorciados da melodia, temos uma sucessão de tons não dirigidos pela inteligência, que despertam os sentimentos (harmonia) e se expressam em uma série de movimentos (moções) giratórios, estranhos e sensuais. Isto pode levar à forma mais baixa de excessos emocionais (atividade), alguns dos quais o regente da banda de 'Jazz" Benny Goodman descreve como o indivíduo que chuta o que encontra pela frente, o tipo valentão, barulhento, que arremessa garrafas, que grita, que parece ter a doença de São Vito quando os pés sapateiam fora do tempo e os braços se sacodem com o ritmo. Temos aqui o tipo que gira como um moinho de vento em um furacão, observamos a histeria das massas, sentimos a vibração como um pesadelo - tudo como reação da música que está sendo tocada em algumas de nossas escolas, em lugares públicos e nos salões de dança. Exatamente aqui se situa a forma de música enervante (que reduz o vigor mental e moral) mencionada por Platão, como um perigo para o futuro de qualquer nação. O Sr. Goodman cita, particularmente, Ziggy Elman que, ao soprar em seu clarim "uma nota aguda e prolongada que penetrava na pessoa arrepiando-lhe a espinha", fazia os dançarinos perderem o auto-controle, e quando Gene Krupa produzia uma série de notas em seu tambor, semelhantes a uma metralhadora, eles agitavam-se, seus olhos esbugalhavam e começavam a sacudir freneticamente a cabeça e os braços. 
 
@@ -263,35 +273,71 @@ A terceira oitava da escala cromática forneceu os sons musicais usados durante 
 
 Na aurora do Período Lunar, as várias ondas de vida em evolução começaram a aparecer. Primeiro surgiram os Senhores da Sabedoria, os de Virgo, trazendo consigo os veículos germinais do homem em evolução. Logo após, os Senhores da Individualidade, os de Libra, que tiveram a tarefa especial da evolução material do Período Lunar. Durante o Período de Saturno, o corpo denso germinal do homem começou a desenvolver os órgãos dos sentidos. A música era Lá#, nota-chave de Leo (ou SP). Para sustenizar uma nota, toca-se a tecla preta próxima, acima dela. Para bemolizar uma nota, toca-se a tecla preta próxima, abaixo dela. Se a chave de Lá# (ou SP) foi usada para desenvolver os órgãos dos sentidos no germe do corpo denso, então, os tons da escala de Lá#, (ou SP) podem ser usados para favorecer a continuidade desse desenvolvimento. A escala Lá# contém quatro notas sustenidas, Lá#, Si#, Ré#, Mi#, e três notas dobradas sustenidos, Fá##, Dó##, Sol##. Os acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|          |          |          |          |          |          |          |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|          |          |          |          |          | Si#      |          |
+| Lá#      | Si#      | Lá#      | Lá#      | Lá#      | Sol##    | Lá#      |
+| Mi#      | Sol##    | Mi#      | Fá##     | Mi#      | Mi#      | Mi#      |
+| Dó##     | Mi#      | Dó##     | Ré#      | Dó##     | Ré#      | Dó##     |
+| Lá# oit. | Mi# oit. | Lá# oit. | Ré# oit. | Mi# oit. | Mi# oit. | Lá# oit. |
 
 A escala Sib contém duas notas bemolizadas, mas reparem que as notas, exceto os sustenidos e bemóis, são exatamente as mesmas. As notas bemolizadas são Si e Mi. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|         |        |         |         |         |           |         |
+| ------- | ------ | ------- | ------- | ------- | --------- | ------- |
+|         |        |         |         |         | Lá#       |         |
+| Sib     | Lá     | Sib     | Sib     | Sib     | Fá        | Sib     |
+| Fá      | Fá     | Fá      | Sol     | Fá      | Mib       | Fá      |
+| Ré      | Dó     | Ré      | Mib     | Ré      | Dó        | Ré      |
+| Sib ac. | Fá ac. | Sib ac. | Mib ac. | Sib ac. | Fá 7ª ac. | Sib ac. |
 
 Os Leoninos, Senhores da Chama, exerceram a liderança durante o Período de Saturno. Como a sua escala musical L# (OU Sib) continha os tons usados para despertar o poder do Espírito Divino, que é a vontade, esses mesmos tons possuem um valor imenso para futuramente ajudar a desenvolver este poder tão elevado do espírito, a vontade. 
 
 Na segunda imersão (revolução) na matéria, no Período Solar, a onda de vida de Virgo (Senhores da Sabedoria) irradiou de seus próprios corpos o germe do corpo vital do homem, incluindo toda a capacidade que ele possui, e o implantou no próprio corpo do homem. A onda de vida de Virgo tem Dó natural como sua nota-chave e, conseqüentemente, os acordes pertencentes a esta escala, a escala de Dó natural, quando tocados ajudarão o futuro desenvolvimento das potencialidades do corpo vital. Estes acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |         |        |        |        |            |        |
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ |
+|        |         |        |        |        | Si         |        |
+| Sol    | Si      | Sol    | Lá     | Sol    | Sol        | Sol    |
+| Mi     | Sol     | Mi     | Fá     | Mi     | Fá         | Mi     |
+| Dó     | Ré      | Dó     | Dó     | Dó     | Ré         | Dó     |
+| Dó ac. | Sol ac. | Dó ac. | Fá ac. | Dó ac. | Sol 7ª ac. | Dó ac. |
 
 Algumas das potencialidades do corpo vital são crescimento, desenvolvimento das percepções sensoriais, propagação, desenvolvimento e ação das glândulas e de todos os órgãos físicos possuídos pelo corpo denso. 
 
 Durante a sexta imersão (revolução) na matéria, no Período Solar, a onda de vida de Câncer despertou o germe do Espírito de Vida. A nota-chave de Câncer é Sol# maior, e os tons do acorde pertencentes a esta onda de vida é que foram usados para obter efeitos. Os acordes pertencentes a Sol# maior são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|           |          |           |          |          |          |           |
+| --------- | -------- | --------- | -------- | -------- | -------- | --------- |
+|           |          |           |          |          | Lá#      |           |
+| Si#       | Lá#      | Si#       | Sol#     | Si#      | Fá##     | Si#       |
+| Sol#      | Fá##     | Sol#      | Mi#      | Sol#     | Ré#      | Sol#      |
+| Ré#       | Ré#      | Ré#       | Dó#      | Ré#      | Dó#      | Ré#       |
+| Sol# oit. | Ré# oit. | Sol# oit. | Dó# oit. | Ré# oit. | Ré# oit. | Sol# oit. |
 
 Se os tons do acorde de Sol# maior despertaram o germe do Espírito de Vida, estes mesmos tons musicais ajudarão, por sua vez, a estimular e a desenvolver poderes potenciais do Espírito de Vida. 
 
 A terceira oitava da escala cromática forneceu os tons musicais usados durante o Período Lunar. No Período Lunar, durante a terceira imersão (revolução) em substância mais densa, a onda de vida de Libra, Senhores da individualidade, irradiaram de si mesmos o germe que mais tarde se desenvolveu no corpo de desejos do homem. A nota-chave de Libra é Ré maior, e os tons pertencentes a esta escala, representados pelos seus acordes, é que foram usados para concluir esse trabalho. Os acordes pertencentes a Ré maior são encontrados na escala que usa 2 sustenidos. As notas sustenidas são Dó e Fá. Os acordes desta escala são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |        |        |         |        |           |        |
+| ------ | ------ | ------ | ------- | ------ | --------- | ------ |
+|        |        |        |         |        | Lá        |        |
+| Lá     | Lá     | Lá     | Si      | Lá     | Sol       | Lá     |
+| Fá#    | Mi     | Fá#    | Sol     | Fá#    | Mi        | Fá#    |
+| Ré     | Dó#    | Ré     | Ré      | Ré     | Dó#       | Ré     |
+| Ré ac. | Mi ac. | Ré ac. | Sol ac. | Lá ac. | Lá 7ª ac. | Ré ac. |
 
 Os tons encontrados nos acordes de Ré maior ajudarão a desenvolver o corpo de desejos de acordo com o perfeito padrão cósmico. 
 
 Durante a quinta imersão (revolução) em substância mais densa no Período Lunar, a onda de vida de Gemini, os Serafins, reapareceram e despertaram o antes passivo Espírito Humano. A nota-chave da onda de vida de Gemini é Fá# maior. As notas sustenidas são Lá, Dó, Ré, Mi, Fá, e Sol (todas sustenidas exceto o Si). Os acordes de Fá# maior são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|          |          |          |         |          |          |          |
+| -------- | -------- | -------- | ------- | -------- | -------- | -------- |
+|          |          |          |         |          | Si       |          |
+| Lá#      | Sol#     | Lá#      | Si      | Lá#      | Sol#     | Lá#      |
+| Fá#      | Mi#      | Fá#      | Fá#     | Fá#      | Mi#      | Fá#      |
+| Dó#      | Dó#      | Dó#      | Ré#     | Dó#      | Dó#      | Dó#      |
+| Fá# oit. | Dó# oit. | Fá# oit. | Si oit. | Dó# oit. | Dó# oit. | Fá# oit. |
 
 Os tons usados para estimular e ajudar a promover o desenvolvimento do espírito humano são encontrados nos tons do acorde pertencente à tonalidade de Fá# maior. 
 
@@ -317,13 +363,25 @@ Na onda de vida de Libra, os Senhores da Individualidade estavam suficientemente
 
 Na onda de vida de Scorpio, os Senhores da Forma encarregaram-se do terceiro poder no homem, o Espírito Humano, que é o poder da atividade e se manifesta como fecundação - o poder de produzir e crescer. A nota-chave de Scorpio é Mi maior, 4 sustenidos, Dó, Ré, Fá, Sol. Os acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |        |        |        |        |        |        |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+|        |        |        |        |        | Ré#    |        |
+| Mi     | Ré#    | Mi     | Lá     | Mi     | Si     | Mi     |
+| Si     | Si     | Si     | Dó#    | Si     | Lá     | Si     |
+| Sol#   | Fá#    | Sol#   | Mi     | Sol#   | Fá#    | Sol#   |
+| Mi ac. | Si ac. | Mi ac. | Lá ac. | Si ac. | Si ac. | Mi ac. |
 
 No decurso da quarta imersão (ou revolução) na matéria, durante a época Atlante, a onda de vida de Sagittarius, os Senhores da Mente irradiaram de si mesmos para o nosso ser, o núcleo do material com o qual estamos agora procurando construir uma mente organizada. A mente é formada de substância das quatro divisões da Região do Pensamento Concreto. A segunda região contém os arquétipos da vitalidade universal; a terceira contém os arquétipos do desejo e da emoção; a quarta contém as forças arquetípicas da mente humana, sendo que a primeira, ou região mais baixa, contém os arquétipos da forma. A Região das idéias germinais na Região do Pensamento Abstrato é refletida na primeira Região do Pensamento Concreto. As idéias germinais de vida na Região do Pensamento Abstrato são refletidas na segunda Região do Pensamento Concreto, e a Região das idéias germinais abstratas do desejo e das emoções é refletida na terceira Região do Pensamento Concreto. No final da Época Lemúrica, uma pequena parte de nossa humanidade estava suficientemente desenvolvida para o germe da mente ser-lhe dado. 
 
 A nota-chave de Sagittarius é Fá maior e tem um bemol, que é Si. Os acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |        |        |         |        |           |        |
+| ------ | ------ | ------ | ------- | ------ | --------- | ------ |
+|        |        |        |         |        | Mi        |        |
+| Fá     | Mi     | Fá     | Fá      | Fá     | Dó        | Fá     |
+| Dó     | Dó     | Dó     | Ré      | Dó     | Sib       | Dó     |
+| Lá     | Sol    | Lá     | Sib     | Lá     | Sol       | Lá     |
+| Fá ac. | Dó ac. | Fá ac. | Sib ac. | Fá ac. | Dó 7ª ac. | Fá ac. |
 
 Observemos que este acorde está correlacionado à mente, o último veículo adquirido pelo homem e o menos desenvolvido dos quatro que ele possui: denso, vital, de desejos e mental. Aqui temos a chave para o rápido desenvolvimento mental, os acordes de Fá maior, que contém Sib. 
 
@@ -335,23 +393,53 @@ Os Senhores da Mente, Sagitarianos, só trabalham com a humanidade no plano terr
 
 Os Arcanjos especializaram-se na construção do corpo de desejos e são, portanto, capazes de ensinar tanto o homem como os animais a moldar e usar os corpos de desejos. A nota-chave dos Arcanjos, a onda de vida Capricorniana, é Sol maior. Sua escala tem 1 sustenido, a saber Fá#. Seus acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|         |        |         |        |         |           |         |
+| ------- | ------ | ------- | ------ | ------- | --------- | ------- |
+|         |        |         |        |         | Fá#       |         |
+| Sol     | Fá#    | Sol     | Sol    | Sol     | Ré        | Sol     |
+| Ré      | Ré     | Ré      | Mi     | Ré      | Dó        | Ré      |
+| Si      | Lá     | Si      | Dó     | Si      | Lá        | Si      |
+| Sol ac. | Ré ac. | Sol ac. | Dó ac. | Sol ac. | Ré 7ª ac. | Sol ac. |
 
 Os Anjos são muito experientes na construção do corpo vital, pois, no Período Lunar, quando eram humanos, o éter era o estado mais denso de matéria. Devido a sua habilidade em construir e modelar o éter, eles são realmente os instrutores do homem, do animal e das plantas em relação às funções vitais, incluindo propagação e nutrição. A nota-chave dos Anjos, os Aquarianos, é Lá maior. Sua escala tem 3 sustenidos, a saber, Fá#, Dó#, Sol#. Seus acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|         |         |         |         |         |         |         |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+|         |         |         |         |         | Sol#    |         |
+| Lá      | Sol#    | Lá      | Lá      | Lá      | Mi      | Lá      |
+| Mi      | Mi      | Mi      | Fá#     | Mi      | Ré      | Mi      |
+| Dó#     | Si      | Dó#     | Ré      | Dó#     | Si      | Dó#     |
+| Lá oit. | Mi oit. | Lá oit. | Ré oit. | Mi oit. | Mi oit. | Lá oit. |
 
 Nossa própria onda de vida humana está aprendendo a tornar-se perita na construção do corpo utilizando substância física. Portanto, as pessoas estão ficando aptas a se tornarem instrutoras para o reino mineral, quando os membros desse reino estiverem suficientemente individualizados para utilizar formas separadas. Já estamos começando a modelar vários minerais em foi-mas individuais. A nota-chave da humanidade, os Piscianos, é Si maior. Sua escala tem 5 sustenidos, a saber, Fá#, Dó#, Sol#, Ré#, Lá#. Seus acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|         |          |         |         |         |          |         |
+| ------- | -------- | ------- | ------- | ------- | -------- | ------- |
+|         |          |         |         |         | Lá#      |         |
+| Si      | Lá#      | Si      | Si      | Si      | Fá#      | Si      |
+| Fá#     | Fá#      | Fá#     | Sol#    | Fá#     | Mi       | Fá#     |
+| Ré#     | Dó#      | Ré#     | Mi      | Ré#     | Dó#      | Ré#     |
+| Si oit. | Fá# oit. | Si oit. | Mi oit. | Si oit. | Fá# oit. | Si oit. |
 
 A nota-chave da onda de vida de Áries é Ré bemol maior. Sua escala contém 5 bemóis, a saber, Solb, Sib, Réb, Mib, Láb. Seus acordes são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|          |          |          |           |          |          |          |
+| -------- | -------- | -------- | --------- | -------- | -------- | -------- |
+|          |          |          |           |          | Dó       |          |
+| Ré♭      | Dó       | Ré♭      | Ré♭       | Ré♭      | Lá♭      | Ré♭      |
+| Lá♭      | Lá♭      | Lá♭      | Sib       | Lá♭      | Sol♭     | Lá♭      |
+| Fá       | Mib      | Fá       | Sol♭      | Fá       | Mi♭      | Fá       |
+| Ré♭ oit. | Lá♭ oit. | Ré♭ oit. | Sol♭ oit. | Lá♭ oit. | Lá♭ oit. | Ré♭ oit. |
+
 
 A nota-chave da onda de vida de Taurus é Mi bemol maior. Sua escala contém 3 bemóis, a saber, Láb, Sib, Mib. Seus acordes são: 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|          |         |         |         |         |            |         |
+| -------- | ------- | ------- | ------- | ------- | ---------- | ------- |
+|          |         |         |         |         | Ré         |         |
+| Mi♭      | Ré      | Mi♭     | Mi♭     | Mi♭     | Si♭        | Mi♭     |
+| Si♭      | Si♭     | Si♭     | Dó      | Si♭     | Lá♭        | Si♭     |
+| Sol      | Fá      | Sol     | Lá♭     | Sol     | Fá         | Sol     |
+| Mi♭ ac.  | Si♭ ac. | Mi♭ ac. | Lá♭ ac. | Si♭ ac. | Si♭ 7ª ac. | Mi♭ ac. |
 
 Cada parte do corpo do homem foi construído pelas notas-chaves vibratórias das doze grandes ondas de vida assistidas pelos Sete Espíritos diante do Trono: Urano, Saturno, Júpiter, Marte, Terra, Vênus, Mercúrio, mais a ação de Netuno e a da Lua. Os poderes espirituais do homem foram despertados por algumas das doze grandes ondas de vida, como mencionamos em capítulos anteriores. Este trabalho foi e continua a ser executado em toda a humanidade, independente do signo Solar planetário do indivíduo. Todos estes grandes Auxiliares estavam ou estão agora executando suas atividades sob a direção do Deus de nosso sistema solar, e são, por assim dizer, Seus embaixadores terrestres. 
 
@@ -391,49 +479,59 @@ Os acordes relacionados aos três poderes do Espírito e aos quatro veículos do
 
 A Harmonia das Esferas não está composta em um tom monótono e uniforme; varia constantemente de dia para dia, de mês para mês, conforme o percurso do Sol e dos planetas através de cada signo. Existem também variações anuais periódicas devido à precessão dos equinócios. Há real e infinita variedade na Música das Esferas, como realmente deve haver, pois a constante mudança da vibração espiritual é a base de toda evolução física e espiritual. Na primavera, os tons dinâmicos e ativos de Áries e Marte - propícios à germinação, renovação de vida e crescimento em todos os reinos, do homem à planta inclusive - predominam. Se pudéssemos ter uma leve idéia da Música das Esferas nesta época, ouviríamos canções de Páscoa como: 
 
-    Jesus Cristo hoje ressuscitado, Aleluia!   
-    Nosso dia santo triunfal, Aleluia!   
-    Aquele que na Cruz pregado, Aleluia!   
-    Sofreu para redimír nosso mal, Aleluía! 
+```
+Jesus Cristo hoje ressuscitado, Aleluia!   
+Nosso dia santo triunfal, Aleluia!   
+Aquele que na Cruz pregado, Aleluia!   
+Sofreu para redimír nosso mal, Aleluía! 
+```
 
 Cristo Jesus é a personificação do amor espiritual. Portanto, música composta na tonalidade de Libra (Ré maior), regida por Vênus, o planeta do amor, está em total harmonia com Sua vibração, e tende a elevar e harmonizar a própria vibração com a desse grande Ser. 
 
 No meio do verão, os tons produzidos por Câncer e pela Lua predominam, estimulados pelos de Leo e do Sol, os quais tendem a amadurecer os processos iniciados pelos sons energizantes da primavera. Durante o verão, o amor e a vida agem intensamente sobre os corações das pessoas, pois eles são Mestres na luta pela existência, enquanto o Sol é exaltado nos céus do norte até ao máximo de seu poder na época do solstício de verão. Esta é a época em que o Cristo, tendo alcançado o trono do Pai (o Mundo do Espírito Divino) depois de ter completado Seu trabalho terrestre por mais um ano, é saudado pela hoste celestial, os Senhores da Sabedoria, que também habitam lá. Em honra a este grande Ser, que deu Sua vida até à exaustão, é apropriado juntarmo-nos àquele coro celeste cantando: 
 
-    Aclamem todos o poder do nome de (Cristo) Jesus!   
-    Deixem os anjos prostrados caírem;   
-    Tragam o diadema real,   
-    E como o Senhor de todos, O coroem.   
+```
+Aclamem todos o poder do nome de (Cristo) Jesus!   
+Deixem os anjos prostrados caírem;   
+Tragam o diadema real,   
+E como o Senhor de todos, O coroem.   
+```
 
 A nota-chave de Leo é Lá# maior. O Sol é seu regente e sua nota-chave é Vida. A nota-chave de Câncer é Sol# maior e sua palavra-chave é fecundação. 
 
 No Outono temos os tons de Virgo, cuja nota-chave é Dó natural e a palavra-chave de Mercúrio é razão. Energizados pelos tons de Scorpio, cuja nota-chave é Mi maior e pela palavra-chave de Marte que é energia dinâmica, preparam-se para o encontro com a força do raio de Cristo que se aproxima, na sua descida anual à Terra. As poderosas vibrações espirituais estão na atmosfera da Terra, e a humanidade poderia usá-las com maior proveito se conhecesse os fatos e redobrasse seus esforços para prestar serviço amoroso e desinteressado aos seus semelhantes. Apresentamos em seguida a letra e a música que podem ajudar o nosso desenvolvimento evolucionário: 
 
-    Oh, adorem o Rei, todos que são gloriosos no além,   
-    E, com gratidão, cantem Seu maravilhoso amor;   
-    Nosso Amparo e Defensor, a Venerável dos Dias vem,   
-    Envolvido em grande luz e cingido com louvor.   
+```
+Oh, adorem o Rei, todos que são gloriosos no além,   
+E, com gratidão, cantem Seu maravilhoso amor;   
+Nosso Amparo e Defensor, a Venerável dos Dias vem,   
+Envolvido em grande luz e cingido com louvor.   
+```
 
 Verdadeiramente é assim, pois, à medida que Cristo desce para a Terra, uma canção harmoniosa, rítmica, vibratória, uma hosana é cantada pelas hostes celestiais enchendo a atmosfera da Terra e atuando sobre todos, como um impulso em direção à aspiração espiritual. 
 
 Durante o inverno, os tons do filantrópico Sagittarius, nota-chave Fá maior, regido pelo otimista e benevolente planeta Júpiter, cuja palavra-chave é idealismo e o quieto, metódico Capricornus, nota-chave Sol maior, regido pelo conservador e perseverante Saturno cuja palavra-chave é obstrução com suas sistemáticas atividades construtivas, preparam a Terra para receber o raio do amor de Cristo e nutri-la até que esteja preparada para a liberação no centro da Terra. Então, começa sua viagem para fora, em direção à periferia da Terra, alcançando-a na época do equinócio da primavera. Quando os dias são mais curtos e as noites mais longas, na Noite Santa, o raio do Espírito de Cristo alcança o centro da Terra. Aqui, Ele permanece três dias e três noites, libertando de Si mesmo a germinante força do Espírito Santo que, lentamente, vai permear a Terra e frutificá-la para outro ano. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+![Diagram: Constitution of the Earth](#)
 
 Sem este poder vitalizante, energizante, liberado pelo Cristo, a Terra permaneceria fria, estéril e sombria; todas as coisas viventes pereceriam, e todo progresso ordenado seria frustrado no que se refere ao nosso atual esquema de desenvolvimento. Portanto, seria mais apropriado que na época do Santo Natal emanássemos nosso sincero reconhecimento e adoração juntando-nos às hostes celestiais, entoando canções de louvor sintonizadas à música celestial dada a nós pelo grande músico e mestre Felix Mendelssohn: 
 
-    Ouçam! Os anjos mensageiros cantam;   
-    Glória ao recém-nascido Rei;   
-    Paz na Terra e suave misericórdia,   
-    Deus e pecadores reconciliados;   
-    Alegres, que todas as nações se levantem   
-    O triunfo dos céus compartilhem bem,   
-    Com as hostes angelicais proclamem,   
-    Cristo nasceu em Belém.   
+```
+Ouçam! Os anjos mensageiros cantam;   
+Glória ao recém-nascido Rei;   
+Paz na Terra e suave misericórdia,   
+Deus e pecadores reconciliados;   
+Alegres, que todas as nações se levantem   
+O triunfo dos céus compartilhem bem,   
+Com as hostes angelicais proclamem,   
+Cristo nasceu em Belém.   
+```
 
 As ondas de vida Hierárquicas e os signos zodiacais não têm sido os únicos auxiliares da humanidade para ajudá-la em sua evolução. Os Sete Espíritos diante do Trono: Marte, Mercúrio, Vênus, Terra, Saturno, Júpiter e Urano estão prestando um grande serviço à humanidade e, no momento, em contato muito íntimo com ela. Cada planeta tem uma nota-chave própria, e é através do poder vibratório de cada uma delas que os planetas nos podem auxiliar. 
 
-Quando o Espírito inicia os preparativos para renascer, ele forma o arquétipo criador de sua forma física no Segundo Céu, o Mundo do Pensamento Concreto, com a assistência dos Sete Espíritos diante do Trono. Este arquétipo é um modelo ou um molde sonoro, vibrante - uma cavidade oca posta em ação pelo Espírito com uma certa força que é proporcional ao tempo a ser vivido na Terra. Até que o arquétipo cesse de vibrar, a forma correspondente construída dos elementos químicos da terra continuará a existir. . A Região do Pensamento Concreto é o reino do som, onde a Harmonia das Esferas, uma música verdadeiramente celestial, impregna tudo que lá existe, assim como a atmosfera da Terra circunda e envolve tudo, aqui. Podemos dizer que todas as coisas nessa região estão envolvidas e permeadas por música - viver e crescer através da música. 
+Quando o Espírito inicia os preparativos para renascer, ele forma o arquétipo criador de sua forma física no Segundo Céu, o Mundo do Pensamento Concreto, com a assistência dos Sete Espíritos diante do Trono. Este arquétipo é um modelo ou um molde sonoro, vibrante - uma cavidade oca posta em ação pelo Espírito com uma certa força que é proporcional ao tempo a ser vivido na Terra. Até que o arquétipo cesse de vibrar, a forma correspondente construída dos elementos químicos da terra continuará a existir. 
+
+A Região do Pensamento Concreto é o reino do som, onde a Harmonia das Esferas, uma música verdadeiramente celestial, impregna tudo que lá existe, assim como a atmosfera da Terra circunda e envolve tudo, aqui. Podemos dizer que todas as coisas nessa região estão envolvidas e permeadas por música - viver e crescer através da música. 
 
 Tudo isto demonstra claramente que nossa música terrena não aconteceu por acaso, mas foi estabelecida sobre bases encontradas nos mundos espirituais mais elevados, cuja origem está na palavra falada de Deus, o Criador de nosso sistema solar. 
 
@@ -469,11 +567,11 @@ VIBRAÇÃO é vida manifestada, é a origem de todas as coisas que existem ou se
 
 O espectro solar reflete sete cores distintas: vermelho, laranja, amarelo, verde, azul, índigo e violeta. Existem sete sons produzidos no teclado do piano pelas teclas brancas de uma oitava . Dó corresponde ao vermelho, Ré ao laranja, Mi ao amarelo, Fá ao verde, Sol ao azul, Lá ao índigo, Si ao violeta. Quando uma oitava musical termina, outra começa e progride exatamente com duas vezes mais vibrações que as usadas na primeira oitava. Conseqüentemente, as mesmas notas são repetidas em uma escala mais delicada. O mesmo sucede com a escala das cores. Quando esta escala, visível ao olho comum, é completada no violeta, outra oitava das mais delicadas cores, invisíveis com duas vezes mais vibrações, terá início e progredirá de acordo com a mesma lei. 
 
-Áries exerce controle geral sobre a cabeça e os vários órgãos dentro da cabeça, e também sobre os olhos. Mas o nariz está sob a regência de Scorpio. Assim, uma doença de algum destes órgãos, exceto o nariz, será beneficiada por música tocada suavemente na escala de Réb maior. 
-
-As doenças de Áries são dor-de-cabeça, nevralgia, coma e condições de transe, doenças do cérebro e hemorragias cerebrais. O tratamento para minimizar estas doenças é música tocada suavemente no tom de Réb maior. 
+Áries exerce controle geral sobre a cabeça e os vários órgãos dentro da cabeça, e também sobre os olhos. Mas o nariz está sob a regência de Scorpio. Assim, uma doença de algum destes órgãos, exceto o nariz, será beneficiada por música tocada suavemente na escala de Réb maior. As doenças de Áries são dor-de-cabeça, nevralgia, coma e condições de transe, doenças do cérebro e hemorragias cerebrais. O tratamento para minimizar estas doenças é música tocada suavemente no tom de Réb maior. 
 
 Taurus rege o pescoço, a garganta, o pálato, a laringe, as amigdalas, a mandíbula inferior, os ouvidos, a região ocipital do cérebro, o atlas, as vértebras cervicais, as artérias carótidas, as veias jugulares e alguns vasos sanguíneos menores. Música tocada suavemente no tom de Mib maior é de grande benefício quando um destes órgãos começa a mostrar sinais de doença. As doenças de Taurus são bócio, difteria, crupe e apoplexia. Como cada signo sempre reage sobre o signo oposto, aflições em Taurus podem também produzir doenças venéreas, constipação ou menstruações irregulares. 
+
+DIAGRAM!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 
 Gemini rege os braços e as mãos, os ombros, os pulmões, a glândula timo, e também a caixa torácica superior. Qualquer doença em uma destas partes pode ser controlada por música tocada suavemente no tom de Fá# maior. As doenças de Gemini são pneumonia, doenças pulmonares, pleurisia, bronquite, asma e inflamação do pericárdio. Música tocada suavemente na nota-chave de Fá# maior é benéfica para neutralizar a atividade dessas doenças. 
 
@@ -495,8 +593,6 @@ Aquarius rege os tornozelos, as pernas desde os joelhos até os tornozelos, e ta
 
 Pisces governa os pés e os dedos. Exerce também um efeito reflexo sobre a região abdominal governada pelo signo oposto Virgo. Portanto, aflições neste signo indicam, além de problemas e deformações dos Pés, doenças dos intestinos e hidropisia, desejo por bebida e drogas que podem levar ao delirium-tremens. Música tocada suavemente em Si maior é o melhor lenitivo para as doenças mencionadas. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 ### <h3 di="chapter-11">Capítulo XI: Auxiliares invisíveis e cura</h3>
 
 O Serviço de Auxílio e Cura da Fraternidade Rosacruz é realizado pelos probacionistas que trabalham à noite no mundo espiritual, enquanto estão fora de seus corpos densos que ficam adormecidos. Eles são chamados Auxiliares Invisíveis porque não são vistos pela visão normal. Seu trabalho de cura depende dos seguintes fatores principais: o tom do corpo vital do paciente e o do probacionista Auxiliar Invisível devem estar em perfeita harmonia (isto está sob os cuidados dos Irmãos Maiores). O probacionista Auxiliar Invisível, em sua consciência desperta, deve ter decidido estar sempre disponível para ser um auxiliar de cura no plano invisível. Esses auxiliares devem ser probacionistas porque quando se dedicam ao probacionismo, eles começam a vibrar em uníssono com os Irmãos Maiores da Ordem Rosacruz e, cada manhã, quando realizam seu exercício matinal de concentração, eles fortalecem esta vibração. 
@@ -509,7 +605,13 @@ Nenhum desenvolvimento espiritual pode ser atingido sem a ajuda da mente, pois a
 
 No Período Terrestre, os Senhores da Mente irradiaram de si próprios para dentro do homem, o germe da mente. A nota-chave dos Senhores da Mente (Sagitarianos) é Fá maior. Sua escala tem um bemol, a saber SP. Qualquer música escrita no tom de um bemol tenderá a influenciar e a desenvolver os poderes mentais do homem. Exemplos: América; Trabalhe pois a Noite Está Chegando; Para Onde Ele me Levar Eu O Seguirei. Os acordes de Fá maior são: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |        |        |         |        |           |        |
+| ------ | ------ | ------ | ------- | ------ | --------- | ------ |
+|        |        |        |         |        | Sib       |        |
+| Lá     | Sol    | Lá     | Sib     | Lá     | Sol       | Lá     |
+| Fá     | Mi     | Fá     | Fá      | Fá     | Mi        | Fá     |
+| Dó     | Dó     | Dó     | Ré      | Dó     | Dó        | Dó     |
+| Fá ac. | Dó ac. | Fá ac. | Sib ac. | Dó ac. | Dó 7ª ac. | Fá ac. |
 
 O Espírito está inteiramente no mundo físico enquanto vive sua vida terrena, exceto quando o corpo está adormecido ou inconsciente por qualquer causa. Durante as horas de vigília, o Espírito está habitando e contatando conscientemente o mundo exterior através do poder mental. Quanto mais desenvolvida for a mente, melhor o Espírito será capaz de contatar o mundo exterior. No momento atual, a mente é uma nuvem disforme que penetra e circunda a cabeça. A mente ainda não desenvolveu qualquer órgão. Age como um espelho que reflete o mundo exterior e capacita o Espírito a transmitir suas ordens na forma de pensamentos e palavras, compelindo à ação. O Espírito gera o pensamento e o injeta na mente, a mente o passa para os centros cerebrais e os centros cerebrais o transmutam em incentivos para a ação. 
 
@@ -518,6 +620,8 @@ Porém, no momento atual, a mente não está capacitada a mostrar um quadro clar
 Na melhor das hipóteses, somos capazes de moldar através da mente apenas aquelas imagens relacionadas à forma, porque a mente só começou a atuar no Período Terrestre e, portanto, está agora em sua forma ou estágio mineral; daí, em nossas ações estarmos limitados às formas minerais. Podemos imaginar modos e meios de trabalhar com os minerais dos três reinos inferiores, mas pouco ou nada podemos fazer com corpos vivos. É certo que enxertamos galhos vivos em árvores vivas, partes vivas de animal ou homem em outras partes vivas, mas não é com a vida que estamos trabalhando; é somente com a forma. Na verdade, estamos procurando condições diferentes, mas a vida que já habitou a forma faz as conexões permanentes e não o homem. Todas as formas criadas pelo homem são inanimadas, e continuarão a ser assim até que a mente se torne viva - isto é até que alcance um estágio semelhante ao da planta em seu desenvolvimento. 
 
 Três das glândulas endócrinas estão intimamente ligadas à mente do homem. As sete glândulas endócrinas, mencionadas por Max Heindel como as sete rosas na cruz do corpo vital, são todas centros espirituais correlacionados a Netuno, Urano, Mercúrio, Vênus, Sol e Júpiter. Netuno é o regente da glândula pineal, Urano da pituitária, Mercúrio da tiróide, Vênus do timo, o Sol do baço, e Júpiter das duas supra-renais. A nota-chave de cada um destes planetas ao locar continuamente seu tom, está aos poucos despertando o centro espiritual correspondente à glândula com a qual está relacionado. Quando o centro espiritual em cada uma destas glândulas se torna desperto e em atividade dinâmica, as sete glândulas endócrinas ligarão o Espírito ao plano invisível com o qual cada planeta está correlacionado. O tom de Júpiter, regente das duas supra-renais, despertará e desenvolverá gradualmente os poderes espirituais em potencial dessas duas glândulas. Assim, ajudará o homem a aprender a lição concernente à Região Química do Plano Físico. O tom do Sol, regente do baço, despertará e desenvolverá gradualmente os poderes espirituais em potencial daquela glândula. Assim, ajudará o homem a dominar as lições que pertencem à Região Etérica do Plano Físico. O tom de Vênus, regente da glândula timo, despertará e desenvolverá gradualmente os poderes espirituais em potencial daquela glândula e ajudará o homem a aprender as lições concernentes ao Mundo do Desejo. O tom de Mercúrio, regente da glândula tiróide, despertará e desenvolverá gradualmente os poderes espirituais daquela glândula. Com isto, ajudará o homem a dominar as lições concernentes ao Mundo do Pensamento. O tom de Urano, regente do corpo pituitário, despertará e desenvolverá gradualmente os poderes espirituais em potencial daquela glândula e ajudará o homem a aprender as lições concernentes ao Mundo do Espírito de Vida. O tom de Netuno, regente da glândula pineal, despertará e desenvolverá gradualmente os poderes espirituais em potencial daquela glândula e ajudará o homem a dominar as lições concernentes ao Mundo do Espírito Divino. 
+
+DIAGRAM!!!!!!!!!!!!!
 
 ### <h3 id="chapter-12">Capítulo XII: Musica como um poder construtor</h3>
 
@@ -531,15 +635,32 @@ Uma das razões para a construção de um cérebro e de uma laringe era que o ge
 
 O Espírito, guiado e dirigido pelos Anjos, construiu o cérebro e a laringe pelo poder do amor. A nota-chave do homem é Si maior (5 sustenidos). A nota-chave dos Anjos é Lá maior (3 sustenidos), e a nota-chave dos Senhores da Mente (Sagittarius), que irradiaram o germe da mente de si próprios para dentro de nós, é Fá maior (1 bemol). Portanto, estas notas-chaves, seus acordes e qualquer música escrita na escala pertencente à nota-chave de Fá maior, Si maior e Lá maior ajudarão o desenvolvimento dos poderes da mente e do cérebro, de maneira que possam expressar as coisas que o Espírito deseja objetivar no mundo físico. Os Senhores da Mente (Sagittarius), nota-chave Fá maior (1 bemol), os acordes e a canção, Mais perto de Ti, meu Deus: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |        |        |         |        |           |        |
+| ------ | ------ | ------ | ------- | ------ | --------- | ------ |
+|        |        |        |         |        | Sib       |        |
+| Lá     | Sol    | Lá     | Sib     | Lá     | Sol       | Lá     |
+| Fá     | Mi     | Fá     | Fá      | Fá     | Mi        | Fá     |
+| Dó     | Dó     | Dó     | Ré      | Dó     | Dó        | Dó     |
+| Fá ac. | Dó ac. | Fá ac. | Sib ac. | Dó ac. | Dó 7ª ac. | Fá ac. |
 
 A onda de vida Angélica, nota-chave Lá maior (3 sustenidos), acordes e canção, O Lar que está lá: 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |        |        |        |        |           |        |
+| ------ | ------ | ------ | ------ | ------ | --------- | ------ |
+| Lá     | Si     | Lá     | Lá     | Lá     | Sol#      | Lá     |
+| Mi     | Sol#   | Mi     | Fá#    | Mi     | Mi        | Mi     |
+| Dó#    | Mi     | Dó#    | Ré     | Dó#    | Ré        | Dó#    |
+| Lá ac. | Mi ac. | Lá ac. | Si ac. | Mi ac. | Mi 7ª ac. | Lá ac. |
 
 A nota-chave da humanidade Si maior (5 sustenidos), acordes e canção, "Star-Spangled Banner" (Bandeira Estrelada): 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+|        |         |        |        |        |            |        |
+| ------ | ------- | ------ | ------ | ------ | ---------- | ------ |
+|        |         |        |        |        | Lá#        |        |
+| Si     | Lá#     | Si     | Si     | Si     | Fá#        | Si     |
+| Fá#    | Fá#     | Fá#    | Sol#   | Fá#    | Mi         | Fá#    |
+| Ré#    | Dó#     | Ré#    | Mi     | Ré#    | Dó#        | Ré#    |
+| Si ac. | Fá# ac. | Si ac. | Mi ac. | Si ac. | Fá# 7ª ac. | Si ac. |
 
 Música escrita em Si maior (5 sustenidos), é difícil de ser encontrada. Exemplos de música escrita em Lá maior (3 sustenidos, tom da onda de vida Angélica) são: Haverá algumas estrelas em minha coroa? Oh, Pense em um Lar que está lá, e Oh, Venham todos Vós, Fiéis. 
 
@@ -581,19 +702,13 @@ Quem estudou este assunto, sabe quantas pessoas são ativadas pelos pensamentos-
 
 Pensamentos-forma diminuem em poder, na proporção da distância percorrida por eles. A distância percorrida e a persistência que os tornam efetivos dependem da força, da exatidão e da clareza do pensamento original. 
 
-De maneira geral, os pensamentos-forma podem ser agrupados em três classes específicas: 
+De maneira geral, os pensamentos-forma podem ser agrupados em três classes específicas: 1 - Um pensamento-forma pode ter o aspecto do pensador. Isso freqüentemente acontece. Uma pessoa pode desejar intensamente estar em um determinado lugar e, como resultado, o pensamento adquire forma e viaja para aquele lugar determinado. Muitos clarividentes inexperientes viram tais pensamentos-forma de amigos ou parentes e, não conhecendo a natureza do que viram, ficaram muito perturbados por eles. O clarividente treinado reconhece-os imediatamente. 2 - O pensamento-forma que adquire a forma de algum objeto material. Por exemplo, uma pessoa pode pensar em um livro predileto, e imediatamente aquele livro, quando ela o invoca, aparece na sua aura como o pensamento-forma de um livro. Pode ser também uma flor predileta, ou mesmo um amigo. O arquiteto constrói um pensamento-forma da casa que deseja construir; o artista constrói um pensamento-forma do quadro que deseja pintar; o escritor constrói pensamentos-forma dos personagens, do cenário, etc., que ele deseja usar em seu livro. Lembremos que é a vontade do indivíduo que origina pensamentos-forma, e estes têm uma certa quantidade de vontade incorporada neles. Freqüentemente, depois que são criados, eles procuram manter-se dentro da consciência do pensador, a ponto de se tornarem, muitas vezes, indesejáveis, especialmente se o pensador mudou sua idéia a respeito do assunto que eles representam. 
 
-1 - Um pensamento-forma pode ter o aspecto do pensador. Isso freqüentemente acontece. Uma pessoa pode desejar intensamente estar em um determinado lugar e, como resultado, o pensamento adquire forma e viaja para aquele lugar determinado. Muitos clarividentes inexperientes viram tais pensamentos-forma de amigos ou parentes e, não conhecendo a natureza do que viram, ficaram muito perturbados por eles. O clarividente treinado reconhece-os imediatamente. 
+<img alt="Thought form built by envy and greed">
 
-2 - O pensamento-forma que adquire a forma de algum objeto material. Por exemplo, uma pessoa pode pensar em um livro predileto, e imediatamente aquele livro, quando ela o invoca, aparece na sua aura como o pensamento-forma de um livro. Pode ser também uma flor predileta, ou mesmo um amigo. O arquiteto constrói um pensamento-forma da casa que deseja construir; o artista constrói um pensamento-forma do quadro que deseja pintar; o escritor constrói pensamentos-forma dos personagens, do cenário, etc., que ele deseja usar em seu livro. Lembremos que é a vontade do indivíduo que origina pensamentos-forma, e estes têm uma certa quantidade de vontade incorporada neles. Freqüentemente, depois que são criados, eles procuram manter-se dentro da consciência do pensador, a ponto de se tornarem, muitas vezes, indesejáveis, especialmente se o pensador mudou sua idéia a respeito do assunto que eles representam. 
+A única maneira de libertarmo-nos de tais pensamentos desagradáveis, é através da indiferença. Se tentarmos lutar contra eles, a força adicional desprendida irá mantê-los vivos e irá trazê-los à mente com mais freqüência. 3 - Pensamentos que adquirem uma forma totalmente própria expressando sua natureza inerente. Pensamentos-forma de ódio adquirem formas ameaçadoras horríveis; a raiva forma figuras pontudas e afiadas; a avareza e a inveja formam massas iguais a ganchos que se projetam como para agarrar o objeto desejado e puxa-lo para si. O amor manifesta-se como nuvens rosadas; a devoção como lindos objetos graduando o azul claro até ao branco; a oração cria a forma de um funil voltado para cima, para o espaço. Todos estes pensamentos-forma parecem estar cheios de vida e vibram em um grau intensamente elevado. Naturalmente, todos têm cor e som. 
 
-Pensamento-forma construído pela inveja e cobiça.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-A única maneira de libertarmo-nos de tais pensamentos desagradáveis, é através da indiferença. Se tentarmos lutar contra eles, a força adicional desprendida irá mantê-los vivos e irá trazê-los à mente com mais freqüência. 
-
-3 - Pensamentos que adquirem uma forma totalmente própria expressando sua natureza inerente. Pensamentos-forma de ódio adquirem formas ameaçadoras horríveis; a raiva forma figuras pontudas e afiadas; a avareza e a inveja formam massas iguais a ganchos que se projetam como para agarrar o objeto desejado e puxa-lo para si. O amor manifesta-se como nuvens rosadas; a devoção como lindos objetos graduando o azul claro até ao branco; a oração cria a forma de um funil voltado para cima, para o espaço. Todos estes pensamentos-forma parecem estar cheios de vida e vibram em um grau intensamente elevado. Naturalmente, todos têm cor e som. 
-
-Oração e a resposta do alto!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+<img alt="Oração e a resposta do alto">
 
 Pensamentos-forma dirigidos para um indivíduo produzem um resultado muito interessante. Ou eles encontram entrada na aura do indivíduo, ou ricocheteiam da aura daquela pessoa e retornam ao remetente. Todo pensamento-forma carrega um determinado grau de vibração, e só pode afetar o indivíduo que tenha uma vibração semelhante. Se um pensamento-forma é gerado por um motivo mau e é enviado a uma determinada pessoa, se não existir nenhuma vibração semelhante dentro da aura dessa pessoa, ele não pode, de maneira alguma, afetar sua aura. Conseqüentemente, ele retorna ao seu criador, ricocheteando com a mesma força com que foi enviado. Todos os impactos externos alcançam o Espírito de um indivíduo através do corpo vital, cujos dois éteres mais elevados, o luminoso e o refletor, formam o corpo-alma. É este veículo que repele todos os maus pensamentos, contanto que esteja suficientemente organizado, pois ele age como um bumerangue, isto é, reverte para aquele que enviou o mau pensamento, o mesmo mal que desejou provocar na pessoa alvejada. Se os freqüentadores de certo tipo de salões de dança, de casas de jogos e lugares similares pudessem ver o enxame de maus pensamentos-forma arremessando-se de um lado para outro, e ouvir os tons barulhentos, sensuais, insinuantes, emitidos por eles, abandonariam tais lugares tão rapidamente como sairiam de um hospital ou de um edifício infectado pela peste bubônica. Esses lugares devem ser evitados, pois estas vibrações pervertidas só servem para instigar o mal e fortalecê-lo. 
 
@@ -603,37 +718,19 @@ INFELIZMENTE, no momento atual, nenhum de nós completamente bom, e não podemos
 
 A principal questão a ser relembrada aqui é que todo ato, seja bom ou mau, é dirigido pelo pensamento, Portanto, cada indivíduo está participando no trabalho executado pelas forças do bem ou do mal. Conseqüentemente, cabe a nós mantermos vigília constante sobre nossos pensamentos, pois, se eles são íntegros, nossos atos serão sempre dirigidos para o bem. 
 
-Existem quatro maneiras em que a mente, dirigida pelo Espírito, usa o cérebro como um veículo de expressão do pensamento: 
-
-1 - o pensamento é lançado contra o corpo de desejos,para impelir à ação. 
-
-2 - o pensamento é impresso no cérebro por meio do sangue, através da ação do éter refletor, 
-
-3 - a memória super-consciente, que é inerente ao Espírito de Vida, é capaz de imprimir-se diretamente sobre o éter refletor do corpo vital, sem necessidade de revestir-se na substância do desejo. 
-
-4 - o Espírito de Vida pode transmitir sua mensagem diretamente para o coração que, no mesmo instante, a conduz para o cérebro por meio do nervo pneumogástrico. 
+Existem quatro maneiras em que a mente, dirigida pelo Espírito, usa o cérebro como um veículo de expressão do pensamento: 1 - o pensamento é lançado contra o corpo de desejos,para impelir à ação. 2 - o pensamento é impresso no cérebro por meio do sangue, através da ação do éter refletor, 3 - a memória super-consciente, que é inerente ao Espírito de Vida, é capaz de imprimir-se diretamente sobre o éter refletor do corpo vital, sem necessidade de revestir-se na substância do desejo. 4 - o Espírito de Vida pode transmitir sua mensagem diretamente para o coração que, no mesmo instante, a conduz para o cérebro por meio do nervo pneumogástrico. 
 
 O cérebro é construído, praticamente, pelas mesmas substâncias que as outras partes do corpo, com a adição de fósforo que é característica apenas do cérebro. A proporção e variação desta substância corresponde ao estado e estágio da inteligência do indivíduo. Portanto, é de grande importância que o indivíduo supra seu cérebro com esta substância indispensável. A maioria dos vegetais e frutas contém uma certa quantidade de fósforo, que também é encontrado na uva, cebola, salvia, feijão, cravo-da-Índia, abacaxi, nas folhas e talos de beterrabas, cenouras, linhaça (talos), e folhas de nabo. O método para adquirir fósforo em maior quantidade não é por metabolismo químico, mas por um processo alquímico de crescimento anímico. 
 
 O fósforo no cérebro é a avenida de ingresso do impulso divino. Literalmente, é o portador da luz, não da luz propriamente dita, mas da que vem do Espírito. Assim, à medida que nos tornamos capazes de assimilar esta substância (fósforo) ficamos plenos de luz e começamos a brilhar internamente. Contudo, podemos notar que fósforo é somente um meio físico que capacita a luz espiritual a se expressar através do cérebro físico. A luz, propriamente dita, é o produto do Espírito, e é aumentada pelo crescimento da alma que capacita o cérebro a assimilar uma quantidade crescente de fósforo. O crescimento da alma é conseguido através do serviço amoroso e desinteressado para com os outros. A Bíblia afirma que: "Todo aquele que pratica o mal, odeia a luz (que o revelará), nem vem à luz com receio que seus atos sejam reprovados (por uma consciência iluminada). Mas aquele que pratica a verdade vem para a luz, para que seus atos possam ser manifestados, pois são elaborados por Deus". 
 
-Em seguida, lembremos como a mente, que é o elo entre o Espírito e o cérebro, pode ser melhorada: 
+Em seguida, lembremos como a mente, que é o elo entre o Espírito e o cérebro, pode ser melhorada: 1 - Concentração é uma das maiores ajudas e, por este exercício, a mente torna-se unidirecional. 2 - Estudos de pensamento abstrato, tal como matemática, o estudo de períodos, cursos e todas as revoluções em relação à evolução da Terra. Isto liberta a mente da influência do corpo de desejos. 3 - Preservando o estado fluídico de adaptabilidade, isto é, mantendo a mente aberta para que não se torne cristalizada em uma linha de pensamento, mas possa estar sempre pronta para investigar novas idéias. 4 - Estudo da religião, que emancipa a mente da influência do desejo, pois é de suma importância que tenhamos somente pensamentos corretos em nossa mente. Pensamentos de caráter semelhante serão atraídos para nós pelos pensamentos já existentes em nossa mente. Como os semelhantes se atraem, se a mente está centralizada em coisas espirituais, nossos pensamentos espirituais crescerão e aumentarão como também se tornarão um poder para o bem no mundo. 
 
-1 - Concentração é uma das maiores ajudas e, por este exercício, a mente torna-se unidirecional. 
-
-2 - Estudos de pensamento abstrato, tal como matemática, o estudo de períodos, cursos e todas as revoluções em relação à evolução da Terra. Isto liberta a mente da influência do corpo de desejos. 
-
-3 - Preservando o estado fluídico de adaptabilidade, isto é, mantendo a mente aberta para que não se torne cristalizada em uma linha de pensamento, mas possa estar sempre pronta para investigar novas idéias. 
-
-4 - Estudo da religião, que emancipa a mente da influência do desejo, pois é de suma importância que tenhamos somente pensamentos corretos em nossa mente. Pensamentos de caráter semelhante serão atraídos para nós pelos pensamentos já existentes em nossa mente. Como os semelhantes se atraem, se a mente está centralizada em coisas espirituais, nossos pensamentos espirituais crescerão e aumentarão como também se tornarão um poder para o bem no mundo. 
+<img alt="Pensamento-forma originado por uma bênção">
 
 Pensamentos-forma poderosos, sejam bons ou maus, com muita freqüência tornam-se animados pelos elementais que, por sua natureza, atraem o bem ou o mal para nós, causando um efeito realmente poderoso sobre nossas vidas. Em música, os tons maiores expressam alegria, contentamento, esperança, satisfação, aspiração, etc., enquanto os tons menores produzem um lamento de tristeza, um gemido de mágoa, um suspiro de depressão, etc. Naturalmente, elementais brilhantes e alegres são atraídos para os bons pensamentos-forma que são sempre simétricos e vivazes na cor, enquanto os elementaís de baixa vibração são atraidos para pensamentos-forma insípidos, melancólicos, repugnantes em forma e sombrios na cor. Por isso, bem dentro de nossa aura, eles soam suas notas-chave individuais, enchendo nossa atmosfera imediata com luminosidade e alegria, ou com tristeza, temor, malícia, etc., conforme o caso. Além disso, elementais desprendem um odor muito particular. Os elementais de escala maior exalam certos perfumes semelhantes àqueles desprendidos pelas flores de cheiro doce. Os de tom menor desprendem um tipo de odor depressivo, debilitante, similar àquele do gambá, e alguns deles cheiram quase tão mal quanto corpos em decomposição. No momento, muitos destes pensamentos-forma são vistos nas auras das pessoas, e muitos deles foram sentidos pelo olfato. 
 
-Pensamento-forma originado por uma bênção!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-Aqui está um fato digno de ser conhecido. Pensamentos-forma são mantidos vivos e fortalecidos pela repetição dos mesmos pensamentos, os quais originalmente os construíram. Se os pensamentos não são repetidos, as formas gradualmente se desintegram e levam os elementais que os animam para outro lugar onde estabelecerão morada. Portanto, temos o poder de nos livrarmos tanto dos pensamentos-forma como dos elementais que não desejamos ao nosso redor. 
-
-Temor, preocupação, melancolia, queixas, demonstrações temperamentais, etc., podem encher uma aura com visões e cheiros desagradáveis, conseguindo assim tornar uma pessoa um incômodo público. À luz do que foi dito, é fácil compreender porque a presença de algumas pessoas nos encorajam, enquanto outras causam um efeito desanimador nos que entram em contato com elas. 
+Aqui está um fato digno de ser conhecido. Pensamentos-forma são mantidos vivos e fortalecidos pela repetição dos mesmos pensamentos, os quais originalmente os construíram. Se os pensamentos não são repetidos, as formas gradualmente se desintegram e levam os elementais que os animam para outro lugar onde estabelecerão morada. Portanto, temos o poder de nos livrarmos tanto dos pensamentos-forma como dos elementais que não desejamos ao nosso redor. Temor, preocupação, melancolia, queixas, demonstrações temperamentais, etc., podem encher uma aura com visões e cheiros desagradáveis, conseguindo assim tornar uma pessoa um incômodo público. À luz do que foi dito, é fácil compreender porque a presença de algumas pessoas nos encorajam, enquanto outras causam um efeito desanimador nos que entram em contato com elas. 
 
 Não devemos pensar que todos os pensamentos-forma que vibram em tons maiores ou menores são animados por elementais, mas alguns deles o são. Quando um elemental anima um pensamento-forma, se sua própria vibração for alegre e vibrante, ele o anima ao vibrar em um tom maior. Mas, se sua vibração for melancólica, morosa, triste, deprimida, ele é atraído para pensamentos-forma que vibrem em um tom menor. Tudo está em harmonia com a lei cósmica quando afirmamos que os semelhantes se atraem. 
 
@@ -645,9 +742,11 @@ Sabemos que a aura é composta dos corpos vital, de desejos e mental. Cada aura 
 
 Por exemplo, tomemos um indivíduo belicoso que está tentando incitar uma greve em uma indústria. Naturalmente, ele está muito excitado e embora a cor básica de sua aura seja laranja escuro, essa cor, naquele momento, irá ser substituída por uma tonalidade escarlate brilhante. O contorno de seu corpo de desejos será como o corpo de um porco espinho, com seus espinhos saindo em todas as direções, pronto para atacar. 
 
-Pensamentos de medo e preocupação dão à aura uma cor cinzenta semelhante ao aço. Aqueles que possuem tais auras são chamados homens ou mulheres de aço. Têm medo de milhares de coisas que nunca acontecem, cristalizando uma armadura ao seu redor que parece protegê-los de interferências externas, mas que, na realidade, encerram os próprios pensamentos-forma dentro de sua própria aura. Lá são alimentados e avivados por cada pensamento semelhante gerado por eles. Tais auras estão afinadas em um tom menor, que soa como uma canção triste que pode ser sentida pelas pessoas sensitivas e, freqüentemente, leva algum tempo para elas livrarem-se do sentimento de depressão que isto gera. Esta barreira áurica saturnina é tão forte que é preciso um choque violento para rompê-la. Às vezes, é até necessário retirar tais pessoas de seu antigo ambiente e colocá-las em outros lugares totalmente diferentes. Elas parecem estar dentro de uma concha, e esta concha saturnina precisa ser quebrada para podermos ter acesso a essas pessoas e tirá-las de seu estado deplorável. 
+Pensamentos de medo e preocupação dão à aura uma cor cinzenta semelhante ao aço. Aqueles que possuem tais auras são chamados homens ou mulheres de aço. Têm medo de milhares de coisas que nunca acontecem, cristalizando uma armadura ao seu redor que parece protegê-los de interferências externas, mas que, na realidade, encerram os próprios pensamentos-forma dentro de sua própria aura. Lá são alimentados e avivados por cada pensamento semelhante gerado por eles. Tais auras estão afinadas em um tom menor, que soa como uma canção triste que pode ser sentida pelas pessoas sensitivas e, freqüentemente, leva algum tempo para elas livrarem-se do sentimento de depressão que isto gera. 
 
-Pensamento-forma originado pelo medo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+<img alt="Pensamento-forma originado pelo medo">
+
+Esta barreira áurica saturnina é tão forte que é preciso um choque violento para rompê-la. Às vezes, é até necessário retirar tais pessoas de seu antigo ambiente e colocá-las em outros lugares totalmente diferentes. Elas parecem estar dentro de uma concha, e esta concha saturnina precisa ser quebrada para podermos ter acesso a essas pessoas e tirá-las de seu estado deplorável. 
 
 Um susto repentino pode formar esta concha como acontece, com freqüência, durante batalhas terríveis. Então, a vítima sofre da chamada "neurose de guerra" causada pelo choque. Na maioria dos casos, o repentino medo sofrido pela vítima provoca um choque em certos nervos, assim como a ausência do poder de coordenação necessário para pensar claramente, deixando a pobre vítima tão incapaz de se ajudar, como seria incapaz de fugir de uma cela de prisão. Existem ocasiões em que outro choque pode quebrar a concha, restabelecer a ordem e o ritmo harmonioso no desordenado sistema nervoso. Mais uma vez, o tempo é que fará o ajustamento necessário. 
 
@@ -683,7 +782,9 @@ A nota-chave do Espírito Humano é Fá# maior, cuja escala tem seis sustenidos.
 
 Como foi dito anteriormente, o germe do corpo denso foi dado à humanidade pela onda de vida de Leo, e como este germe levava a vibração da nota-chave Lá# maior daquela onda de vida, o corpo denso ou físico de cada indivíduo vibra em uníssono com a vibração da onda de vida de Leo. Portanto, a nota-chave do corpo denso é Lá# maior e toda música escrita nesse tom ajuda a desenvolver o corpo denso do homem. Os acordes de Lá# maior são encontrados no Capítulo VI. 
 
-O germe do corpo vital foi dado à humanidade pela onda de vida de Virgo. Portanto, o corpo vital vibra na nota-chave daquela onda de vida que é Dó natural. Toda música cuja nota-chave é Dó natural ajuda a desenvolver os poderes do corpo vital. Os acordes de Dó natural são encontrados no Capítulo VI. O germe do corpo de desejos foi uma dádiva da onda de vida de Libra e carrega a vibração de Libra que é sintonizada em Ré maior. Portanto, toda música escrita nesse tom ajuda a desenvolver os poderes do corpo de desejos. Os acordes de Ré maior são encontradas no Capítulo VI. 
+O germe do corpo vital foi dado à humanidade pela onda de vida de Virgo. Portanto, o corpo vital vibra na nota-chave daquela onda de vida que é Dó natural. Toda música cuja nota-chave é Dó natural ajuda a desenvolver os poderes do corpo vital. Os acordes de Dó natural são encontrados no Capítulo VI. 
+
+O germe do corpo de desejos foi uma dádiva da onda de vida de Libra e carrega a vibração de Libra que é sintonizada em Ré maior. Portanto, toda música escrita nesse tom ajuda a desenvolver os poderes do corpo de desejos. Os acordes de Ré maior são encontradas no Capítulo VI. 
 
 O germe da mente foi dado à humanidade pela onda de vida sagitariana, portanto, vibra na sua nota-chave, que é Fá maior. Toda música escrita no tom de Fá maior ajuda a desenvolver os poderes da mente cujo desenvolvimento é uma das maiores realizações a serem alcançadas durante a presente Época Ária. Muitas músicas foram escritas neste tom, particularmente canções populares e religiosas. Temos o exemplo de duas: O Trabalho para a Noite está Por Vir, e América. Os acordes de Fá maior são encontrados no Capítulo VII. 
 
@@ -695,14 +796,14 @@ Todo sistema solar é um vasto instrumento musical, fato conhecido por todos os 
 
 Os ocultistas avançados estabelecem uma relação entre os signos do zodíaco e o corpo sonoro da harpa cósmica. Percebem a correlação entre os sete planetas e as cordas, que emitem sons diferentes à medida que passam pelos vários signos zodiacais e, portanto, influenciam a humanidade de diversas maneiras. 
 
-Um fato impressionante, até aqui desconhecido, é que cada indivíduo é, em si próprio, um instrumento musical, onde várias partes de sua composição total estão correlacionadas, através de tons vibratórios, aos Sete Espíritos diante do Trono e aos doze signos do zodíaco, os quais são guiados e dirigidos pelo Criador do nosso sistema solar. 
+Um fato impressionante, até aqui desconhecido, é que cada indivíduo é, em si próprio, um instrumento musical, onde várias partes de sua composição total estão correlacionadas, através de tons vibratórios, aos Sete Espíritos diante do Trono e aos doze signos do zodíaco, os quais são guiados e dirigidos pelo Criador do nosso sistema solar. Por essa razão, a música é um fator preponderante no desenvolvimento das potencialidades do homem. Sem ela, não poderia haver manifestação e, portanto, nenhum progresso. Aqui encontramos a razão oculta para a advertência dos iluminados: "Homem, conhece-te a ti mesmo". Quando o homem chegar à compreensão consciente de sua verdadeira natureza, ele possuirá finalmente a chave de todo progresso futuro. 
 
-Por essa razão, a música é um fator preponderante no desenvolvimento das potencialidades do homem. Sem ela, não poderia haver manifestação e, portanto, nenhum progresso. Aqui encontramos a razão oculta para a advertência dos iluminados: "Homem, conhece-te a ti mesmo". Quando o homem chegar à compreensão consciente de sua verdadeira natureza, ele possuirá finalmente a chave de todo progresso futuro. 
-
-    Quando a Luz sua face radiante revelou,   
-    E, em seu abraço, o mundo acalentou,   
-    Quando no espaço os planetas a girar,   
-    Esta canção o coro celestial cantou:   
-    "Oh sagrada vibração! Oh divina lei!   
-    Todo propósito e todo o poder é vosso,   
-    A vida para sempre vai continuar".  
+```
+Quando a Luz sua face radiante revelou,   
+E, em seu abraço, o mundo acalentou,   
+Quando no espaço os planetas a girar,   
+Esta canção o coro celestial cantou:   
+"Oh sagrada vibração! Oh divina lei!   
+Todo propósito e todo o poder é vosso,   
+A vida para sempre vai continuar".  
+```
