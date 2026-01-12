@@ -130,8 +130,6 @@ Em muitas destas cartas aparece uma referência às lições que as acompanhavam
 
 Ao oferecer estas cartas ao mundo, sentimos que estamos contribuindo para proporcionar a todos uma fonte de valor e importância permanentes, na qual o estudante do esoterismo obterá substancial ajuda em seu progresso pelo Caminho.
 
-– Augusta Foss Heindel
-
 ### <h3 id="letter-1">Carta nº1 - Natal de 1910 – A amizade como um ideal</h3>
 
 Nos movimentos religiosos é costume dar-se o tratamento de "Irmã" e "Irmão" como reconhecimento de que todos somos filhos de Deus, que é nosso Pai comum. Não obstante, irmãos e irmãs nem sempre estão em harmonia. Algumas vezes chegam ao extremo de odiar-se, no entanto, entre amigos não deveria haver outro sentimento que não fosse o amor.
@@ -152,23 +150,11 @@ Espero que tenham estudado profundamente a lição de Natal e estejam familiariz
 
 Mas, ainda que tenham estudado a lição de Natal e estejam aptos para discutir sobre o fluxo e refluxo espirituais, ou se sintam preparados para expor o que sabem sobre a Imaculada Concepção, tudo isso terá uma importância secundária comparada à resposta que derem a esta pergunta: "Aproveitaram o fluxo espiritual do Natal para auxiliar alguém que estivesse sofrendo, como foi sugerido no último parágrafo daquela lição? Praticaram alguma ação altruísta no trabalho do mundo?" Espero que assim tenham feito, pois somente quando praticamos os ensinamentos no nosso círculo de influência, é que eles produzem o fruto do crescimento anímico. Podemos ler até chegar a uma indigestão mental, mas as ações falam mais alto que as palavras. Diz-se que está em má situação quem tiver somente boas intenções. Portanto, queridos amigos, permitam mostrar-lhes a necessidade de trabalhar! Trabalhar! Trabalhar!
 
-Muitas vezes constatamos no nosso lar, no trabalho, na rua ou em reuniões, certas coisas que deveriam ser feitas. Mas a atitude do homem é a de esquivar-se. Afastase dizendo: "Por que devo ser eu a fazê-lo? Que outra pessoa cuide disso". No entanto, devíamos raciocinar de forma diferente. Não devíamos pensar o quão pouco queremos fazer. Se assim procedermos, não estamos obrando para tornar-nos Auxiliares Invisíveis. Se vemos que há um trabalho a fazer, devemos decidir "Alguém terá que fazê-lo, por que não eu?"
+Muitas vezes constatamos no nosso lar, no trabalho, na rua ou em reuniões, certas coisas que deveriam ser feitas. Mas a atitude do homem é a de esquivar-se. Afastase dizendo: "Por que devo ser eu a fazê-lo? Que outra pessoa cuide disso". No entanto, devíamos raciocinar de forma diferente. Não devíamos pensar o quão pouco queremos fazer. Se assim procedermos, não estamos obrando para tornar-nos Auxiliares Invisíveis. Se vemos que há um trabalho a fazer, devemos decidir "Alguém terá que fazê-lo, por que não eu?" No próximo mês, queridos amigos, tomemos como um exercício espiritual, o seguinte lema: "Por que não eu?" 
 
-No próximo mês, queridos amigos, tomemos como um exercício espiritual, o seguinte lema: "Por que não eu?" Se seguirmos persistentemente esse caminho, colheremos bênçãos bem maiores do que as que já temos recebido.
+Se seguirmos persistentemente esse caminho, colheremos bênçãos bem maiores do que as que já temos recebido.
 
 Que Deus os abençoe abundantemente e os fortaleça em seus esforços.
-
-Nos movimentos religiosos é costume dar-se o tratamento de "Irmã" e "Irmão" como reconhecimento de que todos somos filhos de Deus, que é nosso Pai comum. Não obstante, irmãos e irmãs nem sempre estão em harmonia. Algumas vezes chegam ao extremo de odiar-se, no entanto, entre amigos não deveria haver outro sentimento que não fosse o amor.
-
-O reconhecimento deste fato foi que levou Cristo, nosso grande e glorioso Ideal, a dizer a Seus discípulos: "De agora em diante já não vos chamarei servos... mas amigos" (João 15:15). Nada melhor podemos fazer do que seguir o nosso grande Guia, tanto neste como em todos os outros acontecimentos de Sua vida. Não nos devemos contentar com simples relações fraternais, mas esforçar-nos por ser amigos no mais santo, puro e amplo sentido da palavra.
-
-Os Irmãos Maiores, cujos belos ensinamentos nos uniram no Caminho da Realização, honram os seus discípulos do mesmo modo que Cristo honrou os Seus apóstolos chamando-os "Amigos". Se persistirmos no caminho que começamos a percorrer, algum dia nos acharemos na presença deles e ouviremos a palavra "Amigo" pronunciada em voz tão suave, carinhosa e dócil que ultrapassará qualquer descrição ou até a nossa própria imaginação. A partir desse dia, não haverá trabalho que não efetuemos para merecer tal amizade. Servi-los será o nosso único desejo, nossa única aspiração, e nenhuma distinção terrena será comparável a esta amizade.
-
-Sobre os meus indignos ombros caiu o grande privilégio de transmitir os Ensinamentos dos Irmãos Maiores ao público em geral e, em particular, aos estudantes, probacionistas e discípulos da Fraternidade Rosacruz. Um aspirante pediu que o seu nome figurasse na minha lista de correspondentes, e eu, alegremente, estendo-lhe a minha mão direita, cumprimentando-o como amigo. Aprecio a confiança que depositou em mim, e asseguro-lhe que me esforçarei para ajudá-lo em tudo que estiver ao meu alcance e ser merecedor de sua confiança. Espero que também me auxilie no trabalho que me proponho a fazer em benefício de todos, e peço que me desculpe no caso de descobrir em mim ou em meus escritos, alguma falha. Ninguém necessita mais de orações de seus semelhantes do que aquele que tem por missão ser um guia.
-
-Peço que se lembre de mim em suas preces e confie que o terei nas minhas.
-
-Incluo a primeira lição com a esperança que o que foi exposto nesta carta, estabeleça e firme entre nós unia sincera amizade.
 
 ### <h3 id="letter-3">Carta nº3 - Março de 1911 – Serviço desinteressado aos outros</h3>
 
@@ -236,10 +222,12 @@ Podemos e muitas vezes mudamos a nossa mente; podemos cultiva-la em uma ou em ou
 
 A qualidade de mutação da matéria e a dissipação da forma são a base de todo progresso espiritual. Se a matéria fosse imutável como é o espírito, não haveria possibilidade alguma de progresso. Enquanto nos deixarmos arrastar pela corrente de vida e não controlarmos conscientemente o fluxo e refluxo da matéria para e do nosso ser, seremos joguetes das circunstâncias. Então, quando um raio de Marte se projeta em certo ângulo sobre os átomos do nosso corpo, sentimos toda a agressividade que ele carrega. Por outro lado, um raio de Saturno provoca-nos depressão, enche-nos de melancolia e de terríveis pressentimentos. Mas, à medida que evoluímos e chegamos à compreensão do mistério da luz, da cor e da consciência, vamos aprendendo gradualmente a reger nossas estrelas. Em conformidade às leis da natureza, tornamo-nos donos do nosso próprio destino; e é de importância vital que, sejam quais forem os aspectos que possam influenciar-nos em qualquer momento, afirmemos sempre:
 
-    "Não importa quão estreito o portão,  
-    ou quanta punição contenha o pergaminho,  
-    de meu destino sou o timoneiro,  
-    e de minha alma sou o capitão".  
+```
+"Não importa quão estreito o portão,  
+ou quanta punição contenha o pergaminho,  
+de meu destino sou o timoneiro,  
+e de minha alma sou o capitão".  
+```
 
 ### <h3 id="letter-9">Carta nº9 – Setembro de 1911 – Guardiões invisíveis da humanidade</h3>
 
@@ -371,7 +359,7 @@ Mas, perguntarão os estudantes, o que sobrou então dos nossos ensinamentos? So
 
 Se realmente queremos trabalhar na vinha do Senhor – o mundo – não nos isolemos. O estudo abstrato pode ocupar uma agradável parte do nosso tempo, mas devemos sair para o mundo, ganhar a confiança das pessoas na igreja, no clube, na profissão. Se dermos um bom exemplo, perguntar-nos-ão o segredo, e teremos o privilégio de dar-lhes o maior de todos os ensinamentos jamais conhecidos:
 
-#### <h4 id="">O Segredo do Crescimento da Alma</h4>
+**O Segredo do Crescimento da Alma**
 
 Poderemos transmitir-lhes algo, como o seguinte:
 
@@ -425,17 +413,18 @@ Cristo entrou na Terra pelo Gólgota. Está novamente fermentando o planeta, faz
 
 Lembram-se da "Visão de Sir Launfal?" não foi o tamanho da dádiva o que realmente valeu. A moeda de ouro atirada ao mendigo tinha mais valor material do que a côdea de pão que lhe deu mais tarde. Sir Launfal deu a moeda para livrar-se de uma presença aborrecida, mas a côdea de pão, ele a deu em memória de Cristo e por Seu Amor, e nisso está toda a diferença.
 
-E Sir Launfal lhe disse:
+```
+E Sir Launfal lhe disse: "Vejo em ti  
+a imagem d’Aquele que na cruz morreu.  
+Tu tens a coroa de espinhos de quem padeceu.  
+Muitos escárnios tens também sofrido  
+e o desprezo do mundo hás sentido. 
 
-    "Vejo em ti  
-    a imagem d’Aquele que na cruz morreu.  
-    Tu tens a coroa de espinhos de quem padeceu.  
-    Muitos escárnios tens também sofrido  
-    e o desprezo do mundo hás sentido.  
-    As feridas em tua vida não faltaram,  
-    nos pés, nas mãos, no corpo, elas te machucaram.  
-    Filho da clemente Maria, reconhece quem eu sou  
-    e vê, através do pobre, é a Ti que eu dou!"  
+As feridas em tua vida não faltaram,  
+nos pés, nas mãos, no corpo, elas te machucaram.  
+Filho da clemente Maria, reconhece quem eu sou  
+e vê, através do pobre, é a Ti que eu dou!"  
+```
 
 Quanto mais cultivarmos o espírito de tudo fazer pelo Amor de Cristo e Sua Libertação, melhores e mais frutíferas serão as nossas vidas.
 
@@ -517,7 +506,9 @@ Este mês tenho várias comunicações importantes a fazer e, para tal, usarei a
 
 Isto aliviou um pouco a carga sobre os meus ombros e os de minha esposa. Juntamos os donativos e contribuições feitos à Fraternidade, que variam desde um simples selo de correio a modestas importâncias em dinheiro (até agora não recebemos grandes quantias). Com esses exíguos recursos, cuidadosamente empregados, estabelecemos os alicerces de algo tão imensamente grande que está muito além de minha capacidade de narração. Cada um, com sua contribuição voluntária, ajudou Mount Ecclesia sob o ponto de vista material. Ela é de todos, e de todos continuará sendo, pois nem Mrs. Heindel nem eu temos o menor interesse em valores ou propriedades terrenas, mas apenas a glória pelo inestimável privilégio de termos sido úteis. É evidente que muito mais é necessário para que o trabalho possa florescer ao máximo, mas estamos seguros da assistência dos Irmãos Maiores, e confiamos que, quando estivermos prontos para alcançar um desenvolvimento maior, prestando os serviços a que está destinada a Fraternidade Rosacruz, as coisas necessárias chegarão. Entretanto, continuamos trabalhando, dia após dia, com os meios que temos atualmente ao nosso alcance, pois assim e somente desse modo, podemos ser merecedores a um serviço maior.
 
-É também uma grande satisfação informar que, embora não tivéssemos de início grande ajuda, conseguimos reunir agora nesta Sede um grupo de auxiliares capazes e fiéis. Não obstante o nosso corpo de ajudantes ter duplicado nestes últimos meses, também o trabalho aumentou em todos os departamentos e a atividade é tão intensa como sempre. Devemos recordar que a nossa literatura já mencionou que Ciência, Arte e Religião divorciaram-se nos tempos modernos. Esta separação foi necessária para que cada uma pudesse obter o seu completo desenvolvimento. Também dissemos que, assim como a Ciência, a Arte e a Religião foram ensinadas juntas nos antigos Templos de Mistérios, assim também haverá uma nova união no futuro, porque isto é necessário para o nosso crescimento espiritual. Em Junho, começará a funcionar uma escola em Mount Ecclesia para nela ministrarmos esses ensinamentos, com ênfase particular sobre a arte de curar. Prospectos e detalhes complementares serão enviados aos estudantes interessados, mediante solicitação feita a esta Sede. As despesas serão cobertas pelos donativos que nos enviarem.
+É também uma grande satisfação informar que, embora não tivéssemos de início grande ajuda, conseguimos reunir agora nesta Sede um grupo de auxiliares capazes e fiéis. Não obstante o nosso corpo de ajudantes ter duplicado nestes últimos meses, também o trabalho aumentou em todos os departamentos e a atividade é tão intensa como sempre. 
+
+Devemos recordar que a nossa literatura já mencionou que Ciência, Arte e Religião divorciaram-se nos tempos modernos. Esta separação foi necessária para que cada uma pudesse obter o seu completo desenvolvimento. Também dissemos que, assim como a Ciência, a Arte e a Religião foram ensinadas juntas nos antigos Templos de Mistérios, assim também haverá uma nova união no futuro, porque isto é necessário para o nosso crescimento espiritual. Em Junho, começará a funcionar uma escola em Mount Ecclesia para nela ministrarmos esses ensinamentos, com ênfase particular sobre a arte de curar. Prospectos e detalhes complementares serão enviados aos estudantes interessados, mediante solicitação feita a esta Sede. As despesas serão cobertas pelos donativos que nos enviarem.
 
 ### <h3 id="letter-29">Carta nº29 – Abril de 1913 – Maçonaria, Co‑maçonaria e Catolicismo</h3>
 
@@ -583,13 +574,17 @@ Trabalhemos, vigiemos e roguemos pelo dia glorioso da Sua libertação.
 
 ### <h3 id="letter-33">Carta nº33 – Agosto de 1913 – Aproveitar nossas oportunidades</h3>
 
-Um dos pontos mais interessantes da nossa última lição, refere-se ao fato de que nós temos poder para prolongar a nossa vida material por uma dedicação sincera no propósito da existência - aquisição de experiências. Quer o saibamos ou não, cada ato das nossas vidas apressa ou prolonga o fim, na medida em que a nossa atitude esteja ou não em harmonia com a lei. Se não nos aplicarmos no trabalho da vida, ou se, persistentemente, seguirmos um caminho que é inadequado ao crescimento da alma, nossa vida discordante destrói o arquétipo. O renascimento, num ambiente diferente, dar-nos-á a chance de recuperar as oportunidades negligenciadas. Por outro lado, quando vivemos em harmonia com o plano de vida inscrito no arquétipo do nosso corpo denso, produz-se uma construtiva consonância em suas vibrações, o que aumenta a vida do arquétipo e, conseqüentemente, também a vida do corpo denso.
+Um dos pontos mais interessantes da nossa última lição, refere-se ao fato de que nós temos poder para prolongar a nossa vida material por uma dedicação sincera no propósito da existência - aquisição de experiências. Quer o saibamos ou não, cada ato das nossas vidas apressa ou prolonga o fim, na medida em que a nossa atitude esteja ou não em harmonia com a lei. Se não nos aplicarmos no trabalho da vida, ou se, persistentemente, seguirmos um caminho que é inadequado ao crescimento da alma, nossa vida discordante destrói o arquétipo. 
+
+O renascimento, num ambiente diferente, dar-nos-á a chance de recuperar as oportunidades negligenciadas. Por outro lado, quando vivemos em harmonia com o plano de vida inscrito no arquétipo do nosso corpo denso, produz-se uma construtiva consonância em suas vibrações, o que aumenta a vida do arquétipo e, conseqüentemente, também a vida do corpo denso.
 
 Quando nos apercebemos que nossa vida na Terra é o tempo de sementeira, e que o valor da nossa existência "post-mortem" está em razão direta do incremento que tenhamos dado aos nossos talentos, é evidente reconhecer a suprema importância em usar as nossas faculdades numa direção correta. Esta lei é extensiva para toda humanidade, mas é de vital valor para as almas aspirantes, pois quando trabalhamos para o Bem com todas as nossas forças, cada ano acrescentado de vida aumenta enormemente o nosso tesouro celestial. Os anos adicionados darão mais tempo para o cultivo da alma, e o fruto dos últimos anos poderá, facilmente, superar os colhidos na primeira parte da vida.
 
 Se sentimos que isto é verdade e se estivermos ansiosos por alcançar o máximo grau de realização, naturalmente faremos esta pergunta: "Como conhecerei o caminho verdadeiro?" A resposta não é difícil; as estrelas relatam a história. Elas mostram nossas faculdades e o momento mais propício, tanto para plantar as sementes da alma como para auxiliar e curar. Por isso, a Fraternidade Rosacruz tem muito empenho no estudo dos astros. No horóscopo, estes assuntos estão claramente assinalados. O conhecimento dessa escrita estelar é força para melhor agir, e assim obter um maior crescimento anímico. Isto está ao alcance de qualquer pessoa que queira estudar o sistema simplificado do nosso curso de astrologia por correspondência. Se o leitor deseja progredir, sugiro que peça imediatamente uma folha de inscrição para este curso. Assim, poderá aprender como dirigir sua vida para um maior progresso em todos os sentidos.
 
 Enquanto sugiro determinados passos para o desenvolvimento, é oportuno chamar a atenção do estudante para o fato que, quando completarem seis meses (*) na nossa lista de estudantes por correspondência, tornam-se aptos para a solicitação de ingresso na Sede Mundial. Embora as lições esotéricas de cura emitidas para os probacionistas contenham somente uma débil delineação dos ensinamentos ministrados, são, ainda assim, um perfeito material de ajuda para a alma aspirante.
+
+(*) O tempo agora é de dois anos. 
 
 No dia seis de Agosto, 2.00 P.M., começaremos a lançar as fundações do núcleo do nosso Sanatório, para que possamos começar a cuidar dos enfermos e dar orientações práticas aos nossos estudantes. Peço que se unam a nós em práticas aos nossos estudantes. Peço que se unam a nós em oração para o bom êxito da obra. Daremos detalhes na nossa revista Echoes que publicaremos no dia dez de cada mês.
 
@@ -611,8 +606,10 @@ Em Lúcifer e em Fausto encontramos a réplica dos Filhos de Caim, que são posi
 
 Por nosso próprio esforço, empregando as forças do mal para fazer o bem, libertar-nos-emos finalmente das limitações, tanto as da Igreja como as do Estado, que agora nos mantêm manietados. Ainda que as convenções sociais e as leis da Terra sejam agora necessárias para refrear-nos e evitar que infrinjamos os direitos dos outros, dia virá em que o espírito nos animará e nos purificará, da mesma maneira que o amor de Fausto por Helena purificou-o e incentivou-o a empregar as forças de Lúcifer no caminho do bem. Quando sentirmos o desejo de trabalhar por espontânea vontade, quando ficarmos felizes pelo serviço que prestamos aos outros - como Fausto estava quando com sua quase extinta visão pôde observar que a terra dos seus sonhos emergia do mar - então, nunca mais será necessária a restrição da lei e os convencionalismos, porque nós nos teremos elevado acima deles pelo cumprimento consciente de todas as suas exigências. Somente desta maneira poderemos ser realmente livres. É muito fácil dizer aos outros o que deve ou não ser feito, mas o verdadeiramente difícil é impor-nos o cumprimento da obediência, ainda quando, intelectualmente, possamos aceitar os ditames do convencionalismo. Como diz Goethe:
 
-    "De todo o poder que mantém o mundo agrilhoado,  
-    O homem se liberta quando o autocontrole há conquistado".  
+```
+"De todo o poder que mantém o mundo agrilhoado,  
+O homem se liberta quando o autocontrole há conquistado".  
+```
 
 O mito de Fausto diz-nos que há uma condição utópica reservada para nós quando tivermos, pela força do trabalho, conquistado a nossa própria salvação, ao pôr em atividade as enormes forças internas que nos tornarão realmente livres. Esforçando-nos pelas nossas ações diárias, poderemos apressar esse dia.
 
@@ -668,13 +665,13 @@ A segunda parte da pergunta: "Como conheceremos a verdade?" Responderemos melhor
 
 ### <h3 id="letter-40">Carta nº40 – Março de 1914 – Por que o que busca a verdade deve viver no mundo</h3>
 
-Depois da passagem da transfiguração, quando Cristo e Seus discípulos estavam prontos para descer o Monte, os últimos sugeriram que permaneceriam aí, onde, com imenso prazer, fariam sua morada.
-
-Isto não lhes foi permitido porque havia no mundo muito trabalho a fazer, e sua missão não seria executada se aí permanecessem.
+Depois da passagem da transfiguração, quando Cristo e Seus discípulos estavam prontos para descer o Monte, os últimos sugeriram que permaneceriam aí, onde, com imenso prazer, fariam sua morada. Isto não lhes foi permitido porque havia no mundo muito trabalho a fazer, e sua missão não seria executada se aí permanecessem.
 
 O Monte da Transfiguração é a "Rocha da Verdade", onde o espírito libertado pode contemplar as realidades eternas. Ali, no GRANDE AGORA (o passado simbolizado por Moisés e Elias), os profetas da velha dispensação encontraram Cristo, o regente do Reinado que estava para vir. Todo espírito a quem é permitido contemplar os esplendores supremos deste plano celestial, ouvir os acordes sublimes da harmonia das esferas e ver o colorido maravilhoso que acompanha a música, reluta realmente em abandonar tal lugar. Se não fosse por parecer que perdemos nossa forma e personalidade encerrando todo esse reino de nós mesmos, provavelmente não teríamos força para voltar à terra. Mas, esta sensação de que "temos o céu dentro de nós" fortifica-nos quando chega o momento de contemplar o lado de fora e atender o trabalho do mundo.
 
 Os objetos no mundo físico ocultam sempre sua construção ou natureza interna; vemos apenas a superfície. No Mundo do Desejo vemos os objetos fora e dentro de nós, mas nada nos dizem deles mesmos, nem da vida que os anima. Na Região Arquetípica parece não haver circunferência, mas, para onde quer que dirijamos nossa atenção, ali está o centro de tudo, e a nossa consciência, instantaneamente, enche-se do conhecimento em relação ao ser ou à coisa que estivermos olhando. É mais fácil gravar num fonógrafo o som que nos chega do céu, do que mencionar as experiências que tivemos naquele reino, pois não há palavras adequadas para expressá-las; tudo o que podemos fazer é tentar vivê-las. E, conforme a nossa decisão e diligência ao plantarmos, adubarmos e regarmos tal campo, assim será a nossa colheita.
+
+Mas, para vivê-las, ainda que imperfeitamente, precisamos estar no mundo; não temos o direito de permanecer isolados com a verdade que encontramos. Essa é a grande lição ensinada quando Siegfried deixa sua amada. Ele não deve permanecer. A vida é um fluxo constante; a estagnação é o pecado capital, pois novas experiências são o próprio sopro vital do progresso. Se encontramos a verdade, é nosso dever sagrado buscar também um campo onde ela possa ser útil. E, de acordo com o nosso discernimento nesse assunto, e com a diligência com que plantamos e regamos, será a nossa colheita.
 
 Este é um assunto que deve ser considerado muito atentamente por cada um de nós: "Que uso estou fazendo dos ensinamentos que recebo?" Possa estar imaginando uma montanha no país dos sonhos, embora vivendo numa cidade, tão surdo aos apelos que me cercam e que me soam aos ouvidos, como se estivesse distante milhares de quilômetros. A menos que repartamos, por nosso modo de viver (que deve soar mais alto que as palavras), a verdade que encontramos, incorreremos numa grande responsabilidade, pois, "a quem muito é dado muito será exigido".
 
@@ -682,9 +679,7 @@ Lembremo-nos que o "conhecimento ensoberbece, mas o amor edifica" e que o servi�
 
 ### <h3 id="letter-41">Carta nº41 – Abril de 1914 – O método para distinguir o autêntico da imitação</h3>
 
-Na carta do mês de Fevereiro tratamos da seguinte questão: "Onde devemos procurar a verdade e como a conheceremos?"
-
-No entanto, devemos saber que nenhuma utilidade decorrerá em procurar a verdade e conhecê-la, a menos que a ponhamos em prática nas nossas vidas, pois não se justifica que nos esforcemos tanto só para encontrá-la. Há muitas pessoas que percorrem o mundo civilizado à procura de tesouros raros, de antiguidades, quer sejam quadros ou moedas. Há muitas que fabricam imitações de peças autênticas, e aquelas que estão à procura de coisas antigas correm o risco de serem burladas por hábeis trapaceiros, a menos que tenham possibilidade de distinguir o legítimo do falso.
+Na carta do mês de Fevereiro tratamos da seguinte questão: "Onde devemos procurar a verdade e como a conheceremos?" No entanto, devemos saber que nenhuma utilidade decorrerá em procurar a verdade e conhecê-la, a menos que a ponhamos em prática nas nossas vidas, pois não se justifica que nos esforcemos tanto só para encontrá-la. Há muitas pessoas que percorrem o mundo civilizado à procura de tesouros raros, de antiguidades, quer sejam quadros ou moedas. Há muitas que fabricam imitações de peças autênticas, e aquelas que estão à procura de coisas antigas correm o risco de serem burladas por hábeis trapaceiros, a menos que tenham possibilidade de distinguir o legítimo do falso.
 
 Assim, compreendemos que quem procura a verdade está ameaçado do mesmo perigo, porque há muitos pseudo-entendidos, muitas falsificações perfeitas que podem confundir-nos. O colecionador, freqüentemente, guarda o seu tesouro num quarto fechado e, em solidão, deleita-se na sua contemplação. No entanto, depois de muitos anos ou talvez depois de morto, descobre que algumas das coisas que guardava com tanto ciúme e zelo eram meras imitações sem nenhum valor. Do mesmo modo, alguém que acredite ter encontrado a verdade, pode "ocultar seu tesouro" em seu próprio coração, ou "enterrar sua luz" para compreender, talvez muitos anos depois, que foi enganado por uma imitação. Assim, há necessidade de uma prova final, uma prova que elimine toda a possibilidade de decepção, e a questão é como descobri-la.
 
@@ -744,7 +739,9 @@ Em primeiro lugar, naturalmente, este ponto de vista afeta a todos nós. Associa
 
 Com efeito, desde que o mundo existe, nunca houve semelhante dor universal como a que experimentamos atualmente. Além disso, não devemos esquecer que estamos acumulando para nós sofrimentos futuros, pois, como já explicamos na literatura Rosacruz, é impossível a essas pessoas, que foram arrancadas tão violenta e rapidamente dos seus corpos densos, rever suas vidas passadas e, como conseqüência, a gravação do panorama da vida não se processará corretamente. Portanto, esses Egos não colherão o fruto de suas presentes existências no purgatório e no Primeiro Céu como deveria acontecer. Futuramente, eles voltarão despojados dessa experiência e será necessário, com o fim de poderem ganhar o que agora perderam, morrer na infância, para que se imprima em seus novos corpos de desejo e vital, a essência de suas vidas presentes.
 
-Em algum dia futuro, iremos enfrentar uma epidemia ou algo dessa natureza, que arrastará seus contemporâneos, lamentaremos tal perda. Oh, se fosse entendida esta lei da mortalidade infantil! Então, não teríamos necessidade de rogar tanto pela paz como agora o fazemos. Que todos os membros da Fraternidade Rosacruz orem pela manhã, à tarde e a noite pelo restabelecimento da paz no mundo, no mais curto prazo de tempo possível. Compreendamos muito bem a responsabilidade que nos advém do conhecimento, vivamos à altura dele, esforçando-nos, diariamente, por cumprir o nosso dever. Este conhecimento deve ser divulgado onde quer que se apresente uma oportunidade, mas sem impô-lo a ninguém. Se o mundo conhecesse e acreditasse nas Leis do Renascimento e de Conseqüência, se compreendesse a lei da mortalidade infantil, esta guerra desumana nunca teria acontecido. Quanto mais nos esforçarmos por divulgar estes ensinamentos, mais estaremos contribuindo para estabelecer a paz e a boa vontade entre os homens. Assim, melhor serviremos a humanidade. Peço que sejam particularmente fervorosos e se concentrem com toda a devoção sobre o Serviço e Auxílio de Cura nos dias determinados para esse serviço amoroso e desinteressado. Precisamos de todo o auxílio que nos possam dar.
+Em algum dia futuro, iremos enfrentar uma epidemia ou algo dessa natureza, que arrastará seus contemporâneos, lamentaremos tal perda. Oh, se fosse entendida esta lei da mortalidade infantil! Então, não teríamos necessidade de rogar tanto pela paz como agora o fazemos. Que todos os membros da Fraternidade Rosacruz orem pela manhã, à tarde e a noite pelo restabelecimento da paz no mundo, no mais curto prazo de tempo possível. Compreendamos muito bem a responsabilidade que nos advém do conhecimento, vivamos à altura dele, esforçando-nos, diariamente, por cumprir o nosso dever. Este conhecimento deve ser divulgado onde quer que se apresente uma oportunidade, mas sem impô-lo a ninguém. Se o mundo conhecesse e acreditasse nas Leis do Renascimento e de Conseqüência, se compreendesse a lei da mortalidade infantil, esta guerra desumana nunca teria acontecido. Quanto mais nos esforçarmos por divulgar estes ensinamentos, mais estaremos contribuindo para estabelecer a paz e a boa vontade entre os homens. Assim, melhor serviremos a humanidade. 
+
+Peço que sejam particularmente fervorosos e se concentrem com toda a devoção sobre o Serviço e Auxílio de Cura nos dias determinados para esse serviço amoroso e desinteressado. Precisamos de todo o auxílio que nos possam dar.
 
 ### <h3 id="letter-47">Carta nº47 – Outubro de 1914 – Os auxiliares invisíveis e o seu trabalho nos campos de batalha</h3>
 
@@ -774,8 +771,10 @@ Nesta luta real, sinto-me como um pobre soldado onde o curso da batalha freqüen
 
 Unamo-nos todos ao nosso irmão em tão nobre luta, recordando as palavras de Goethe:
 
-    "De todo o poder que mantém o mundo agrilhoado,  
-    O homem se liberta quando o auto-controle há conquistado".  
+```
+"De todo o poder que mantém o mundo agrilhoado,  
+O homem se liberta quando o auto-controle há conquistado".  
+```
 
 ### <h3 id="letter-49">Carta nº49 – Dezembro de 1914 – Desejo – uma espada de dois gumes</h3>
 
@@ -803,9 +802,14 @@ O mais profundo desejo do autor é que cada estudante da Fraternidade Rosacruz a
 
 Este mês iniciaremos uma série de lições que intitulamos "A Teia do Destino - Como se tece e destece", e esperamos que os seus ensinamentos sejam muitos proveitosos para a vida de todos os leitores. Embora as lições sejam analíticas e técnicas em alguns aspectos, o assunto deve ser abordado com o espírito da mais profunda devoção, sem perder de vista o propósito principal da vida.
 
-Provavelmente o estudante sabe que a palavra "filosofia" se compõe de dois vocábulos que significam "amor pela sabedoria". Muitas pessoas julgam que "amor pela sabedoria" é sinônimo de desejo de conhecer, mas, como vimos em lição recente, existe uma grande diferença entre conhecimento e sabedoria. Sabedoria implica amor antes, depois e sempre, enquanto que o conhecimento pode ser usado para os piores propósitos imagináveis. O verdadeiro esotérico, que é inspirado por uma fervorosa devoção ao seu estudo e trabalho, é demasiado modesto para aceitar o título de filósofo, pois para ele isto significa muito mais na medida que altera a ordem das palavras. Ele compreende e vive para a "Sabedoria do Amor", em vez do amor pela sabedoria. Uma ligeira consideração esclarecerá melhor esse ponto. 0 assunto escolhido para as próximas lições é dos mais sagrados que podemos levar ao conhecimento dos nossos irmãos, pelo que facilmente se compreenderá que é necessário abordá-lo com espírito de "Sabedoria do Amor", o amor que envolve a completa compreensão do que é a verdadeira filosofia e o que ela significa. Robert Burns disse uma vez:
+Provavelmente o estudante sabe que a palavra "filosofia" se compõe de dois vocábulos que significam "amor pela sabedoria". Muitas pessoas julgam que "amor pela sabedoria" é sinônimo de desejo de conhecer, mas, como vimos em lição recente, existe uma grande diferença entre conhecimento e sabedoria. Sabedoria implica amor antes, depois e sempre, enquanto que o conhecimento pode ser usado para os piores propósitos imagináveis. O verdadeiro esotérico, que é inspirado por uma fervorosa devoção ao seu estudo e trabalho, é demasiado modesto para aceitar o título de filósofo, pois para ele isto significa muito mais na medida que altera a ordem das palavras. Ele compreende e vive para a "Sabedoria do Amor", em vez do amor pela sabedoria. Uma ligeira consideração esclarecerá melhor esse ponto. 0 assunto escolhido para as próximas lições é dos mais sagrados que podemos levar ao conhecimento dos nossos irmãos, pelo que facilmente se compreenderá que é necessário abordá-lo com espírito de "Sabedoria do Amor", o amor que envolve a completa compreensão do que é a verdadeira filosofia e o que ela significa. 
 
-"Oh! Que poder teríamos se nós nos víssemos como os outros nos vêem!"
+Robert Burns disse uma vez:
+
+```
+"Oh! Que poder teríamos se nós 
+nos víssemos como os outros nos vêem!"
+```
 
 Receio que esse poder seja uma amarga posse, ainda que pareça desejável se for encarado superficialmente. Cada um de nós está repleto de defeitos. Há momentos em que fazemos um triste papel no cenário do mundo. Algumas vezes, parece que somos joguetes do destino, sem objetivos, enquanto outras pessoas, que são incapazes de ver a trave no seu próprio olho, criticam-nos fazendo com que pareçamos ridículos. Se nós nos víssemos com os seus olhos, certamente perderíamos o mais essencial dos atributos - o auto-respeito, e recuaríamos envergonhados de encarar os nossos semelhantes.
 
@@ -875,9 +879,13 @@ Também existem ocasiões em que um espírito termina sua missão num ambiente e
 
 Relendo a lição mensal que acompanha esta carta, avaliando o resultado das investigações feitas há algum tempo atrás, impressionou-me de novo e mais intensamente, o fato da existência das temíveis condições que pesam sobre nós. Atualmente, quando os horrores da guerra apontam números sem precedentes dos que passam do mundo físico para os reinos invisíveis sob condições horripilantes, parece apropriado um esforço extraordinário para, dentro do possível, terminar ou minimizar o mal. A Fraternidade Rosacruz é só uma gota de água no oceano da humanidade, mas se fizermos a nossa parte, obteremos uma maior oportunidade de serviço.
 
-Não há melhor recurso para as presentes condições do que o conhecimento da continuidade da vida e sabermos que, periodicamente, renascemos sob a imutável Lei de Conseqüência. Se estes fatos e tudo o que eles implicam pudessem trazer de volta ao lar um grande número de pessoas, este fermento deveria basicamente agir para ajudar a mudar condições em todo o mundo. Um homem, Galileu, mudou o ponto de vista da humanidade em relação ao sistema solar. Ainda que sejamos apenas alguns milhares, não será possível exercer alguma influência sobre a opinião do mundo, quando sabemos que essas leis são verdadeiras?
+Não há melhor recurso para as presentes condições do que o conhecimento da continuidade da vida e sabermos que, periodicamente, renascemos sob a imutável Lei de Conseqüência. Se estes fatos e tudo o que eles implicam pudessem trazer de volta ao lar um grande número de pessoas, este fermento deveria basicamente agir para ajudar a mudar condições em todo o mundo. 
 
-Freqüentemente ouvimos dizer que as pessoas não se interessam pelos assuntos espirituais e que não conseguiremos que nos ouçam. Na realidade, não é assim. Milhares de pessoas ocorreram para ouvir Billy Sunday, o notável evangelista. Se uma grande parte sentiu-se atraída por curiosidade ou compareceu para zombar, outros milhares sentiram um forte desejo de algo que nem eles mesmos puderam definir, mas que justificou suas presenças. Recentemente teve lugar um debate entre um evangelista de New York e um advogado acerca do assunto: "Onde estão os mortos?" Esse encontro foi efetuado num auditório que comportava milhares de indivíduos e que ficou repleto nos três dias de debate. Todos os lugares estavam ocupados e, se bem me lembro, muitos nem de pé encontraram lugar. Não, o humanidade procura alguma coisa; procura-a com todo o coração. Depende unicamente de nós desempenhar bem esta tarefa ante os olhos do mundo, divulgando a explicação racional da vida que os Irmãos Maiores nos transmitiram. É um grande privilégio executar esse serviço, e será bom para nós executá-lo.
+Um homem, Galileu, mudou o ponto de vista da humanidade em relação ao sistema solar. Ainda que sejamos apenas alguns milhares, não será possível exercer alguma influência sobre a opinião do mundo, quando sabemos que essas leis são verdadeiras?
+
+Freqüentemente ouvimos dizer que as pessoas não se interessam pelos assuntos espirituais e que não conseguiremos que nos ouçam. Na realidade, não é assim. Milhares de pessoas ocorreram para ouvir Billy Sunday, o notável evangelista. Se uma grande parte sentiu-se atraída por curiosidade ou compareceu para zombar, outros milhares sentiram um forte desejo de algo que nem eles mesmos puderam definir, mas que justificou suas presenças. Recentemente teve lugar um debate entre um evangelista de New York e um advogado acerca do assunto: "Onde estão os mortos?" 
+
+Esse encontro foi efetuado num auditório que comportava milhares de indivíduos e que ficou repleto nos três dias de debate. Todos os lugares estavam ocupados e, se bem me lembro, muitos nem de pé encontraram lugar. Não, o humanidade procura alguma coisa; procura-a com todo o coração. Depende unicamente de nós desempenhar bem esta tarefa ante os olhos do mundo, divulgando a explicação racional da vida que os Irmãos Maiores nos transmitiram. É um grande privilégio executar esse serviço, e será bom para nós executá-lo.
 
 Mas a questão é: Como? Eu sugiro e pergunto: "O jornal que você lê diariamente não admitiria um artigo sobre a matéria?" Na Fraternidade existem centenas de pessoas capazes de escrever tais artigos. Um comitê podia ser formado para receber os artigos e fornecê-los a quem os pedisse. Também poderiam ser entregues aos editores dos jornais das suas respectivas cidades, proporcionando um veículo para a Fraternidade Rosacruz divulgar os seus ensinamentos. Se um artigo é bem escrito, raramente é recusado, pois os editores estão sempre desejosos de oferecer ao público- algo que possa parecer-lhes interessante, mesmo quando as simpatias desses editores estejam muito longe da essência do artigo.
 
@@ -943,17 +951,13 @@ As notícias que diariamente os jornais publicam nas primeiras páginas em grand
 
 Mas, entre as mudanças caleidoscópicas que alteram constantemente o estado do mundo em seus aspectos moral, mental e físico, ocorrem certos acontecimentos cíclicos que, ainda que sejam periódicos em sua natureza, têm entre si uma causa permanente e uma estabilidade que distingue o método macrocósmico do microcósmico em conduzir os fatos.
 
-Na primavera, pela ocasião da Páscoa (Hemisfério Norte), quando o Sol cruza o equinócio oriental ou vernal, a Terra desperta do seu repouso do inverno, sacudindo a branca camada de neve que a cobriu como se fosse um manto de pureza imaculada. A voz da natureza começa a ouvir-se quando os pequenos regatos murmuram ao deslizar suavemente pelas encostas das montanhas em direção ao oceano. Essa voz também é ouvida quando o vento sussurra a canção do amor por entre as folhas recém brotadas nas árvores dos bosques, o que impulsiona o botão e também a flor que produz o pólen, e este é levado através de asas invisíveis ao
-
-companheiro que o espera. Essa voz é ouvida nas canções de amor quando do acasalamento dos pássaros, e nas chamadas dos animais às suas fêmeas. Ela ressoa em todas as manifestações da natureza até que o nascimento de novas vidas compense as destruídas pela morte.
+Na primavera, pela ocasião da Páscoa (Hemisfério Norte), quando o Sol cruza o equinócio oriental ou vernal, a Terra desperta do seu repouso do inverno, sacudindo a branca camada de neve que a cobriu como se fosse um manto de pureza imaculada. A voz da natureza começa a ouvir-se quando os pequenos regatos murmuram ao deslizar suavemente pelas encostas das montanhas em direção ao oceano. Essa voz também é ouvida quando o vento sussurra a canção do amor por entre as folhas recém brotadas nas árvores dos bosques, o que impulsiona o botão e também a flor que produz o pólen, e este é levado através de asas invisíveis ao companheiro que o espera. Essa voz é ouvida nas canções de amor quando do acasalamento dos pássaros, e nas chamadas dos animais às suas fêmeas. Ela ressoa em todas as manifestações da natureza até que o nascimento de novas vidas compense as destruídas pela morte.
 
 Durante o verão, Amor e Vida trabalham incessantemente num sentimento de plena alegria. São os Senhores que batalham pela existência, enquanto o Sol está exaltado nos céus do norte no máximo de sua força no solstício de verão. No entanto, o tempo prossegue e chega outro ponto decisivo com o equinócio de outono. Acalma-se o canto nas florestas; cessa o chamamento amoroso dos animais e dos pássaros, e a natureza retorna ao silêncio. A luz decai à medida que crescem as sombras da noite, até que, no solstício de inverno, onde estamos agora, a Terra prepara-se para o seu profundo sono, pois precisa da noite de repouso após as atividades extenuantes do dia precedente.
 
 Mas, da mesma forma que a atividade espiritual do homem é maior enquanto o seu corpo está adormecido, assim também, pela Lei de Analogia, podemos compreender que a chama espiritual na Terra é mais radiante nesta época do ano, e é esta a ocasião propícia para o melhor desenvolvimento da alma, para a investigação e estudo dos mais profundos mistérios da vida. Cabe-nos aproveitar esta oportunidade e utilizar o tempo da melhor maneira possível. Não precisamos ter pressa nem ansiedade, mas trabalhar paciente e devotadamente, sem esquecer que entre todas as coisas que mudam no mundo, esta onda grandiosa de luz espiritual permanecerá conosco nas estações de inverno pelos anos que virão. Será cada vez mais brilhante à medida que a Terra e nós próprios evoluirmos, atingindo graus mais elevados de espiritualidade. Estamos trabalhando como precursores para difundir os Ensinamentos Rosacruzes, que ajudarão a iluminar o mundo durante os séculos que se seguirão ao atual. Existe uma lei que diz: "Receberás na proporção que deres". Esta estação do ano é a mais propícia para dar e receber. Assim, procuremos que a nossa luz brilhe na grande árvore cósmica do Natal, para que seja vista pelos homens e possa atrai-los para as verdades que sabemos serem de importância vital para o desenvolvimento dos nossos semelhantes.
 
-Concluindo esta carta, quero agradecer a cada um dos estudantes por sua cooperação nos trabalhos do ano passado.
-
-Oxalá possamos juntos fazer um trabalho melhor e mais proveitoso no próximo ano.
+Concluindo esta carta, quero agradecer a cada um dos estudantes por sua cooperação nos trabalhos do ano passado. Oxalá possamos juntos fazer um trabalho melhor e mais proveitoso no próximo ano.
 
 ### <h3 id="letter-62">Carta nº62 – Janeiro de 1916 – A dívida de gratidão do Mestre</h3>
 
@@ -1055,9 +1059,7 @@ Suplicamos aos estudantes da Fraternidade Rosacruz que se abstenham de participa
 
 De tempos em tempos, chegam à Sede Mundial cartas desalentadoras de pessoas que se culpam e sentem a consciência pesada por não serem capazes de viver conforme os seus altos ideais, e acham que seria mais honesto abandonar a doutrina e viver como os que não fizeram qualquer profissão de fé. Afirma que enquanto leem, estudam ou ouvem as palavras cristãs que os exortam a amar os seus inimigos, a abençoa-los em lugar de maldizê-los, a rezar por aqueles que os usaram sem consideração, estão de alam e coração afins com estes sentimentos e dispostos a seguir esses preceitos. Mas, quando no mundo, perante tais situações e confrontos, não podem moldar-se ao mandamento bíblico e, sendo assim, consideram-se hipócritas.
 
-Se o homem fosse um todo homogêneo, se o espírito, a alma e o corpo fossem unos e indivisíveis, decerto tais pessoas seriam hipócritas. Mas, espírito, alma e corpo não forma um todo único, e isto nós descobrimos com tristeza logo no primeiro dia em que pretendemos trilhar o caminho da vida superior. Nisto reside a equação e também a solução do problema. Em cada um de nós, há duas naturezas distintas. Enquanto não temos aspirações, a natureza espiritual superior permanece adormecida.
-
-O eu pessoal mundano é o senhor absoluto de todas as nossas ações. A paz e a serenidade estão conosco. Mas, assim que a natureza espiritual desperta começa a guerra. À medida que crescemos espiritualmente, intensifica-se a batalha, até que, com o correr do tempo, a personalidade sucumbe e alcançamos a paz que ultrapassa tudo o que se possa imaginar.
+Se o homem fosse um todo homogêneo, se o espírito, a alma e o corpo fossem unos e indivisíveis, decerto tais pessoas seriam hipócritas. Mas, espírito, alma e corpo não forma um todo único, e isto nós descobrimos com tristeza logo no primeiro dia em que pretendemos trilhar o caminho da vida superior. Nisto reside a equação e também a solução do problema. Em cada um de nós, há duas naturezas distintas. Enquanto não temos aspirações, a natureza espiritual superior permanece adormecida. O eu pessoal mundano é o senhor absoluto de todas as nossas ações. A paz e a serenidade estão conosco. Mas, assim que a natureza espiritual desperta começa a guerra. À medida que crescemos espiritualmente, intensifica-se a batalha, até que, com o correr do tempo, a personalidade sucumbe e alcançamos a paz que ultrapassa tudo o que se possa imaginar.
 
 (Realmente, todos passamos pela situação da qual se queixam alguns estudantes como aconteceu também com Paulo, Fausto e tantas outras almas aspirantes). É fácil querer, mas o bem que queremos fazer, não fazemos, e o mal que não queremos, é o que fazemos. O autor já sentiu e sente, da forma mais aguda e em cada dia da sua vida, esta discrepância entre os ensinamentos e as suas ações. Uma parte do seu ser aspira com um ardor de intensidade dolorosa todas as coisas mais nobres e mais elevadas, enquanto uma forte personalidade, excessivamente difícil de dominar, é uma fonte de constante pesar para ele. Mas crê que, não pretendendo passar por “santo”, admitindo os seus defeitos com toda a honestidade, confessando sua tristeza por isso e usando em todas as suas exortações a palavra “NÓS”, não engana quem quer que seja e não se considera um hipócrita. Tudo o que diz, primeiro aplica a si mesmo e, mesmo sem êxito, esforça-se por seguir os Ensinamentos Rosacruzes. Esperamos que este esclarecimento satisfaça cada um dos nossos estudantes que se sentem perturbados e que inspiraram esta carta.
 
@@ -1075,6 +1077,10 @@ Em primeiro lugar e sem dúvida alguma, estamos de acordo que os nossos corpos p
 
 Em relação às nossas faculdades morais e mentais, estamos também longe de ser perfeitos, portanto, cada um de nós deve procurar o aperfeiçoamento dessas faculdades. Percebemos que temos um espírito crítico, uma língua mordaz, um temperamento irritável, ou outras faltas que nos indispõem com os outros e tornam a vida ao nosso redor pouco agradável? Pois bem. Visualizando o nosso desejo e fixando na mente o nosso próprio ideal para o futuro – conservar o equilíbrio em todas as circunstâncias, ser dóceis e comedidos no falar, atentos e afetuosos, etc. – construiremos esses ideais como pensamento-forma que levaremos, já formados, dentro de nós para a próxima vida. O resultado estará de acordo com a intensidade de concentração aplicada nessas metas. Na medida em que nos esforçamos agora para cultivar e aspirar tais virtudes, nós as possuiremos, e isto se aplicará igualmente às faculdades. Se agora somos desmazelados, o desejo de manter ordem em nossa vida dará corpo a essa virtude. Carecemos de sentido de ritmo? Podemos obtê-lo no futuro se o pedirmos agora. Habilidade mecânica ou outra aptidão que seja necessária para uma experiência de vida, pode ser adquirida da mesma forma.
 
+Portanto, devemos reservar sistematicamente, em intervalos tão frequentes quanto forem compatíveis com nossos outros deveres, um certo tempo para pensar adiante e planejar a vida futura — que tipo de corpo, quais faculdades, virtudes e ambiente desejamos. Quando somos capazes de fazer nossa escolha de modo inteligente, sem dúvida nos é concedida muito mais liberdade do que se jamais tivéssemos refletido sobre o assunto.
+
+Você entende, é claro, que a forma mais elevada de aspiração à virtude é o esforço constante de praticá-la em nossa vida diária. Mas, enquanto nos empenhamos em cultivar virtudes — como devemos — pela prática, é científico planejar de antemão o uso que faremos da vida futura, assim como agora planejamos o uso do dia que temos diante de nós. Confio que essa ideia possa criar raízes entre os estudantes e ser levada de modo consistente à sua legítima consumação, pois dessa forma certamente terá um efeito maravilhoso sobre o nosso futuro e sobre o futuro do mundo ao nosso redor.
+
 ### <h3 id="letter-71">Carta nº71 – Outubro de 1916 – Descida da vida de Cristo no outono (no hemisfério norte)</h3>
 
 Estamos agora no equinócio de outono (Hemisfério Norte), no qual o Sol físico deixa o hemisfério norte depois de haver provido as necessidades de vida para o próximo ano. A corrente espiritual, que carrega em sua crista a vida que achará expressão física no ano vindouro, está gora caminhando em direção à nossa Terra. A metade do ano diante de nós é a parte santa do ano. Desde a festa da Imaculada Concepção até o Nascimento Místico do Natal (enquanto esta onda está descendo para a Terra), e desta data até a Páscoa (enquanto está dirigindo-se para fora), uma canção vibra de forma rítmica e harmoniosa – descrita na lenda do Nascimento Místico como “hosanna”- cantada por um coro de anjos, som que enche a atmosfera planetária e atua sobre todos nós como um impulso à inspiração espiritual. Naturalmente, isto não atua na mesma medida sobre cada pessoa, mas de acordo com seu caráter peculiar.
@@ -1087,7 +1093,7 @@ Façamos um inventário das faltas e erros que mais facilmente nos afligem, já 
 
 Uma vez realizado conscientemente esse trabalho pessoal, olhemos à nossa volta para ver, em nossos círculos de relações, quem nos parece estar buscando a iluminação espiritual e interessado em conhecer nossos ensinamentos. Isto requer discernimento, pois não temos o direito de impor nossas ideias a quem não as quer ouvir, do mesmo modo que não podemos ficar tocando um tambor em suas casas durantes uma ou duas horas por dia.Se percebemos que não pretendem ouvir o que lhe temos a dizer, é melhor deixa-los. No entanto, há muitos que, se soubessem, poderiam despertar com a vibração espiritual de Cristo nos meses de inverno, vibrações que não seriam obtidas no verão. Confio que possamos utilizar os próximos meses para obter, da forma mais proveitosa possível, maiores aquisições espirituais e desenvolvimento anímico.
 
-Nota do editor:  No Hemisfério Sul a projeção do Raio do Cristo Cósmico, nesta mesma época, se dá na Primavera.
+() - Nota do editor: No Hemisfério Sul a projeção do Raio do Cristo Cósmico, nesta mesma época, se dá na Primavera.
 
 ### <h3 id="letter-72">Carta nº72 – Novembro de 1916 – A razão das provas que afligem o estudante ocultista</h3>
 
@@ -1103,9 +1109,7 @@ Cristo comparou as almas aspirantes do Seu tem­po, aos administradores que rece
 
 Essa contabilidade, no que se refere à maioria da humanidade, é adiada até o dia da morte, quando as pessoas se deparam no Purgatório para auferir o resultado das ações praticadas no corpo, quer sejam boas ou más.
 
-Mas, o que pensaríamos de um homem que con­duzisse os seus negócios de maneira displicente?
-
-Não nos pareceria que estaria navegando direta­mente para a falência se não equilibrasse as suas contas, inventariasse os débitos e os créditos anualmente? E eviden­te que seu fracasso nos pareceria merecido por sua negligência.
+Mas, o que pensaríamos de um homem que con­duzisse os seus negócios de maneira displicente? Não nos pareceria que estaria navegando direta­mente para a falência se não equilibrasse as suas contas, inventariasse os débitos e os créditos anualmente? E eviden­te que seu fracasso nos pareceria merecido por sua negligência.
 
 Se considerarmos ovalor de um sistema e o benefício de constantemente saber a situação dos nossos negócios materiais, da mesma maneira deveríamos consi­derar determinados métodos relativos aos assuntos espiri­tuais. Deveríamos ser mais circunspectos na conduta dos assuntos celestiais do que na dos mundanos, pois nossa prosperidade material não é mais do que um lampejo na noite, se comparada com o bem-estar eterno do espírito.
 
@@ -1151,7 +1155,7 @@ Se nos empenharmos em assim proceder, o nosso crescimento anímico aumentará co
 
 Pediram-nos uma lição sobre as “almas perdidas” e as atrasadas, pois nosso correspondente quer conhecer os Ensinamentos Rosacruzes referentes ao assunto. Como esta questão foi tratada nas primeiras páginas deste livro, na Carta nº 17 de Abril de 1912, nada melhor podemos fazer do que aconselhar o nosso amigo a estudar essa lição e esperamos que esta lhe seja proveitosa. Agradar-nos ia muito que outros estudantes, que têm perguntas a fazer de interesse geral, escrevessem-nos pedindo as elucidações necessárias. Embora na nossa revista “Rays” dediquemos uma sessão a essas perguntas, nem todos os estudantes são assinantes. Os problemas assim tratados têm um caráter mais íntimo do que é possível sentir numa revista que, eventualmente, será lida por um público menos conhecedor da filosofia do que nossos estudantes.
 
-Nota do editor: Para a Filosofia Rosacruz existe uma diferença conceitual entre espírito e alma. O espírito, considerado uma célula da divindade  é imortal e eterno.A alma é a essencia do trabalho do espirito através de diversos corpos em sua peregrinação através de diversos planos. O espírito, sendo uma célula da divindade jamais pode se perder. A perda é relativa a alma ou veículo animico do espirito, quando em seu processo de perigrinação através da matéria pode se enredar com a perversão que caracteriza o sendero negro, a contra-mão do desenvolvimento espiritual. Nestes casos extremos é privado de seus veiculos e de sua alma, devendo aguardar novas possibilidades de evolução noutro eon numa outra onda de vida.
+() - Nota do editor: Para a Filosofia Rosacruz existe uma diferença conceitual entre espírito e alma. O espírito, considerado uma célula da divindade  é imortal e eterno.A alma é a essencia do trabalho do espirito através de diversos corpos em sua peregrinação através de diversos planos. O espírito, sendo uma célula da divindade jamais pode se perder. A perda é relativa a alma ou veículo animico do espirito, quando em seu processo de perigrinação através da matéria pode se enredar com a perversão que caracteriza o sendero negro, a contra-mão do desenvolvimento espiritual. Nestes casos extremos é privado de seus veiculos e de sua alma, devendo aguardar novas possibilidades de evolução noutro eon numa outra onda de vida.
 
 ### <h3 id="letter-77">Carta nº77 – Abril de 1917 – O medo desnecessário da morte</h3>
 
@@ -1191,7 +1195,9 @@ O mesmo acontece em nossos dias. Embora de forma diferente. Desejamos estar sent
 
 É perfeitamente certo que ao assumir obrigações devemos cumpri-las da melhor forma que pudermos. Ao mesmo tempo, e refletindo profundamente sobre o assunto, há sempre uma possibilidade de encontrarmos alguns momentos fora de nossos deveres que poderiam ser dedicados à Grande Obra. A este respeito seria bom lembrar o incidente ocorrido quando alguns se dirigiram a Cristo e lhe disseram: “Tua mãe e teus irmãos estão lá fora e desejam falar Contigo”. Ele respondeu: “Quem é minha mãe, e quem são meus irmãos?.... Todo aquele que cumpre a vontade de meu Pai, que está no Céu, é meu irmão, minha irmã e minha mãe”. E acrescentou: ‘Se qualquer homem se chega a Mim e não renega seu pai, sua mãe, sua esposa, seus filhos, seus irmãos, suas irmãs e certamente, até a sua própria vida, não pode ser meu discípulo. E todo aquele que tenha abandonada casas, irmãs, irmãos, pai, e mãe, esposas, filhos ou terras, por Meu Nome, recebê-lo-á centuplicada e herdará a vida eterna.”.
 
-No processo de regeneração há e deverá haver sempre um sacrifício envolvido. Tanto pela minha experiência pessoal como pelo que tenho observado em milhares de outras pessoas, o benefício espiritual que se colherá está na proporção direta da forma como cada um emprega o seu pensamento, seu tempo e seu dinheiro para a causa que tenha abraçado. Quando alguém se consagra totalmente à vida da regeneração e segue o ditame do espírito, logo verá que a mesma intensidade de propósito na nova direção fará desaparecer as coisas antigas. Não terá ais tempo para elas. Desaparecem de seus pensamentos e desvanecem-se. De uma forma ou outra, a filha irá para a Faculdade ou encontrará um emprego adequado. Os negócios prosperarão até melhor do que quando o proprietário devotava todo o seu tempo e suas energias na preocupação para obter dinheiro. Os filhos encontrarão outro acompanhante tão capaz como sua mãe nas ocasiões em que ela estiver trabalhando para a causa espiritual. Em todos os casos em que tenhamos renunciado a alguma coisa pelo bem da obra, o tempo que empregamos na causa de Cristo e o dinheiro que distribuímos numa lúcida caridade, será provido e compensado sob lei que trabalha para o bem.
+No processo de regeneração há e deverá haver sempre um sacrifício envolvido. Tanto pela minha experiência pessoal como pelo que tenho observado em milhares de outras pessoas, o benefício espiritual que se colherá está na proporção direta da forma como cada um emprega o seu pensamento, seu tempo e seu dinheiro para a causa que tenha abraçado. Quando alguém se consagra totalmente à vida da regeneração e segue o ditame do espírito, logo verá que a mesma intensidade de propósito na nova direção fará desaparecer as coisas antigas. Não terá ais tempo para elas. 
+
+Desaparecem de seus pensamentos e desvanecem-se. De uma forma ou outra, a filha irá para a Faculdade ou encontrará um emprego adequado. Os negócios prosperarão até melhor do que quando o proprietário devotava todo o seu tempo e suas energias na preocupação para obter dinheiro. Os filhos encontrarão outro acompanhante tão capaz como sua mãe nas ocasiões em que ela estiver trabalhando para a causa espiritual. Em todos os casos em que tenhamos renunciado a alguma coisa pelo bem da obra, o tempo que empregamos na causa de Cristo e o dinheiro que distribuímos numa lúcida caridade, será provido e compensado sob lei que trabalha para o bem.
 
 Como disse o Salmista: “Fui jovem e agora sou velho e ainda não vi o justo abandonado, nem a sua semente mendigando”. A lei pregada por Cristo: “Buscai primeiro o Reino de Deus e Sua justiça, e todas as outras coisas vos virão por acréscimo”, é tão verdadeira atualmente como o foi quando proferida. Posso assegurar isto por experiência própria, e todo aquele que viva a vida e cumpra o seu trabalho verá que esta lei é verdadeira. Somente o serviço desinteressado proporciona crescimento.
 
@@ -1221,41 +1227,7 @@ Se os estudantes mentalizassem que a repetição é a nota-chave do corpo vital 
 
 Os nossos estudantes devem saber que temos em Mt. Ecclesia um pequeno serviço pela manhã e à tarde, no qual incluímos uma leitura da Bíblia. Mrs. Heindel e eu gostamos de ler, de tempos em tempos, o terceiro capítulo de São Tiago, porque nele encontramos uma lição muito importante. Pensei que não seria mal submetê-lo à atenção de todos, especialmente por causa de um incidente que aqui ocorreu há pouco tempo e que teve a virtude de gravar fortemente aquela passagem bíblica em minha consciência. Creio que todos podem tirar proveito se a infiltrarmos em nossos corações. Permitam-me que cite alguns versículos do capítulo mencionado, e contarei depois o incidente a que me referi.
 
-1. Meus irmãos, não haja muitos entre vós a se arvorar em mestres; sabeis que seremos julgados mais severamente,
-
-2. porque todos nós caímos em muitos pontos. Se alguém não cair por palavra, este é um homem perfeito, capaz de refrear todo o seu corpo.
-
-3. Quando pomos o freio na boca dos cavalos, para que nos obedeçam, governamos também todo o seu corpo.
-
-4. Vede também os navios: por grandes que sejam e embora agitados por ventos impetuosos, são governados com um pequeno leme à vontade do piloto.
-
-5. Assim também a língua é um pequeno membro, mas pode gloriar-se de grandes coisas. Considerai como uma pequena chama pode incendiar uma grande floresta!
-
-6. Também a língua é um fogo, um mundo de iniqüidade. A língua está entre os nossos membros e contamina todo o corpo; e sendo inflamada pelo inferno, incendeia o curso da nossa vida.
-
-7. Todas as espécies de feras selvagens, de aves, de répteis e de peixes do mar se domam e têm sido domadas pela espécie humana.
-
-8. A língua, porém, nenhum homem a pode domar. É um mal irrequieto, cheia de veneno mortífero.
-
-9. Com ela bendizemos o Senhor, nosso Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus.
-
-10. De uma mesma boca procede a bênção e a maldição. Não convém, meus irmãos, que seja assim.
-
-11. Porventura lança uma fonte por uma mesma bica água doce e água amargosa?
-
-12. Acaso, meus irmãos, pode a figueira dar azeitonas ou a videira dar figos? Do mesmo modo a fonte de água salobra não pode dar água doce.
-
-13. Quem dentre vós é sábio e inteligente? Mostre com um bom proceder as suas obras repassadas de doçura e de sabedoria.
-
-14. Mas, se tendes no coração um ciúme amargo e gosto pelas contendas, não vos glorieis, nem mintais contra a verdade.
-
-15. Esta não é a sabedoria que vem do alto, mas é uma sabedoria terrena, humana, diabólica.
-
-16. Onde houver ciúme e contenda, ali há também perturbação e toda espécie de vícios.
-
-17. A sabedoria, porém, que vem de cima, é primeiramente pura, depois pacífica, condescendente, conciliadora, cheia de misericórdia e de bons frutos, sem parcialidade, nem fingimento.
-
-18. O fruto da justiça semeia-se na paz para aqueles que praticam a paz.
+Meus irmãos, não haja muitos entre vós a se arvorar em mestres; sabeis que seremos julgados mais severamente, porque todos nós caímos em muitos pontos. Se alguém não cair por palavra, este é um homem perfeito, capaz de refrear todo o seu corpo. Quando pomos o freio na boca dos cavalos, para que nos obedeçam, governamos também todo o seu corpo. Vede também os navios: por grandes que sejam e embora agitados por ventos impetuosos, são governados com um pequeno leme à vontade do piloto. Assim também a língua é um pequeno membro, mas pode gloriar-se de grandes coisas. Considerai como uma pequena chama pode incendiar uma grande floresta! Também a língua é um fogo, um mundo de iniqüidade. A língua está entre os nossos membros e contamina todo o corpo; e sendo inflamada pelo inferno, incendeia o curso da nossa vida. Todas as espécies de feras selvagens, de aves, de répteis e de peixes do mar se domam e têm sido domadas pela espécie humana. A língua, porém, nenhum homem a pode domar. É um mal irrequieto, cheia de veneno mortífero. Com ela bendizemos o Senhor, nosso Pai, e com ela amaldiçoamos os homens, feitos à semelhança de Deus. De uma mesma boca procede a bênção e a maldição. Não convém, meus irmãos, que seja assim. Porventura lança uma fonte por uma mesma bica água doce e água amargosa? Acaso, meus irmãos, pode a figueira dar azeitonas ou a videira dar figos? Do mesmo modo a fonte de água salobra não pode dar água doce. Quem dentre vós é sábio e inteligente? Mostre com um bom proceder as suas obras repassadas de doçura e de sabedoria. Mas, se tendes no coração um ciúme amargo e gosto pelas contendas, não vos glorieis, nem mintais contra a verdade. Esta não é a sabedoria que vem do alto, mas é uma sabedoria terrena, humana, diabólica. Onde houver ciúme e contenda, ali há também perturbação e toda espécie de vícios. A sabedoria, porém, que vem de cima, é primeiramente pura, depois pacífica, condescendente, conciliadora, cheia de misericórdia e de bons frutos, sem parcialidade, nem fingimento. O fruto da justiça semeia-se na paz para aqueles que praticam a paz.
 
 Em Mt. Ecclesia temos vários enxames de abelhas. Há algum tempo os jardineiros mudaram o sítio de um deles. As abelhas irritaram-se por aquela intromissão na sua vida e no seu trabalho, e picaram os seus agressores, dolorosa e severamente, em inúmeras partes do corpo. Quando soube do sucedido e refletindo sobre isto, veio-me o pensamento de que havia ali uma lição muito importante. A abelha perde o seu ferrão ao picar alguém e morre em seguida. Reflita bem nisto! Como se aplica rigorosamente à lei de justiça! Automaticamente ela própria se mata ao ferir alguém. Não é obra de um Deus vingativo, mas a sua própria ação que lhe dá o retorno. Reflitamos bem nisto!
 
@@ -1273,9 +1245,7 @@ Então, qual é o caminho que conduz às alturas da realização religiosa e ond
 
 O Eu Interno é o único tribunal da verdade. Se nós, consistente e persistentemente, levarmos nossos problemas ante este tribunal, desenvolveremos com o tempo tal senso superior da verdade que, automaticamente, onde ouvirmos uma ideia avançada saberemos se ela é ou não correta e legítima. A Bíblia, em várias passagens exorta-nos para que estejamos atentos a todas as espécies de doutrinas que flutuam no ar e ao nosso redor, porque muitas são perigosas e perturbam a mente. Livros são lançados para promover esta, aquela ou outro sistema de filosofia. A menos que tenhamos estabelecidos ou começado a estabelecer este tribunal interno da verdade, poderemos ficar como a pessoa referida acima – vagueando de um lugar para outro, sem encontrar descanso na vida e, no final, sabendo pouco mais ou talvez até menos do que no princípio.
 
-Meu conselho aos estudantes é que nunca aceitem, rejeitem ou sigam cegamente.
-
-Qualquer autoridade. Esforcem-se para estabelecer internamente o tribunal da verdade. Remetam todos os assuntos a esse tribunal, comprovando todas as coisas e absorvendo firmemente tudo o que nele existir de bom.
+Meu conselho aos estudantes é que nunca aceitem, rejeitem ou sigam cegamente qualquer autoridade. Esforcem-se para estabelecer internamente o tribunal da verdade. Remetam todos os assuntos a esse tribunal, comprovando todas as coisas e absorvendo firmemente tudo o que nele existir de bom.
 
 ### <h3 id="letter-84">Carta nº84 – Novembro de 1917 – A epigênese e a lei de causa e efeito</h3>
 
@@ -1291,23 +1261,37 @@ Espero que retenham firmemente esta lição e possam obter um grande benefício 
 
 De um passado obscuro e distante, chega-nos a voz de Isaias, numa das maiores profecias que a alma inspirou.
 
-“Um menino nasceu entre nós, um filho foi nos dado: e o governo há de passar sobre os seus ombros e o seu nome será o de Maravilhoso, Consolador, Deus Todo Poderoso, Pai Eterno, Príncipe da Paz”.
+```
+“Um menino nasceu entre nós, um filho foi nos dado: 
+e o governo há de passar sobre os seus ombros 
+e o seu nome será o de Maravilhoso, Consolador, 
+Deus Todo Poderoso, Pai Eterno, 
+Príncipe da Paz”.
 
-“Do desenrolar do seu governo e paz, não haverá fim sobre o trono de David e sobre o seu reino, e para ordena-lo e estabelecê-lo com juízo e justiça, desde então pelos séculos dos séculos”.
+“Do desenrolar do seu governo e paz, 
+não haverá fim sobre o trono de David 
+e sobre o seu reino, e para ordena-lo 
+e estabelecê-lo com juízo e justiça, 
+desde então pelos séculos dos séculos”.
+```
 
 Também não é menos potente o canto do coro de anjos sobre a Galiléia para elevar as almas com seu sublime ideal:
 
-    “Paz na Terra e  
-    Boa Vontade entre os homens”.  
+```
+“Paz na Terra e  
+Boa Vontade entre os homens”.  
+```
 
 Mas, vendo realmente os acontecimentos atuais do mundo, tais ditos parecem que soar como zombarias e, sob o ponto de vista habitual do homem, todas as banalidades oferecidas pelos religiosos não podem tornar menos odiosa a situação no chamado “mundo Cristão”.
 
 No entanto, quando aplicamos a escala cósmica de medida e perspectiva, tudo é muito diferente. Goethe disse muito bem:
 
-    “Quem nunca comeu seu pão em amargo afã  
-    Quem nunca acordado a meia-noite viu passar  
-    Chorando, esperando pelo amanhã,  
-    Os poderes celestiais não sabe ainda avaliar”.  
+```
+“Quem nunca comeu seu pão em amargo afã  
+Quem nunca acordado a meia-noite viu passar  
+Chorando, esperando pelo amanhã,  
+Os poderes celestiais não sabe ainda avaliar”.  
+```
 
 Passa-se o mesmo tanto com os indivíduos como com as nações. Infelizmente, a dor e o sofrimento parecem ser os únicos mestres que querem ouvir. Daí a necessidade dessas lições. Sabendo que a vida é eterna, não nos desanima o incidente chamado “perda da vida” na guerra atual. Os que morrem, voltarão a nascer, e por esta experiência, serão melhores do que foram antes. A paz e a boa vontade estão empenhadas em manifestar-se a seu devido tempo, quando aprendermos a abolir a guerra e a regozijar-nos com esta perspectiva, orando ardentemente pela sua consumação. De uma maneira especial, peço aos estudantes da Fraternidade Rosacruz que se unam a nós nesta prece, à meia noite da Noite de Natal, quando o serviço usual na nossa Pro-Ecclesia será celebrado pelos que trabalham em Mt. Ecclesia.
 
@@ -1449,10 +1433,12 @@ Parece próprio começarmos a nossa correspondência do ano de 1919 desejando a 
 
 Os estudantes da Fraternidade Rosacruz estão familiarizados com a ideia de que não existe “sorte” e estão de acordo com Mefistófeles em Fausto, quando diz:
 
-    “Quão ligada está a sorte ao merecimento,  
-    Isso ao tolo jamais ocorreria:  
-    Eu juro, tivesse ele a pedra do homem sábio,  
-    A pedra do filósofo não seria”.  
+```
+“Quão ligada está a sorte ao merecimento,  
+Isso ao tolo jamais ocorreria:  
+Eu juro, tivesse ele a pedra do homem sábio,  
+A pedra do filósofo não seria”.  
+```
 
 Ao chegarmos aqui, uma dúvida assaltará imediatamente a mente de muitos: “É possível reduzir o êxito a uma lei?”
 
@@ -1470,5 +1456,6 @@ Quando este ponto for alcançado, quando estivermos totalmente persuadidos do pl
 
 Confio que aplique esta Lei cuidadosamente no desenvolvimento da própria alma, não somente durante este ano, mas em todos os anos futuro
 
-NOTA: Esta foi a última carta escrita por Max Heindel aos seus estudantes em Janeiro de 1919, cinco dias antes de sua passagem para o além. É uma mensagem oportuna e valiosa, tanto para os novos como para os antigos estudantes.
+() - NOTA: Esta foi a última carta escrita por Max Heindel aos seus estudantes em Janeiro de 1919, cinco dias antes de sua passagem para o além. É uma mensagem oportuna e valiosa, tanto para os novos como para os antigos estudantes.
 
+Fim
