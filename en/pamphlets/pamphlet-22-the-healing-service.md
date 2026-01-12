@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-healing-service">Pamphlet №22: The Healing Service</h1>
+<h1 id="pamphlet-22-the-healing-service">Pamphlet №22: The Healing Service</h1>
 
 ### <h3 id="the-healing-service">The Healing Service</h3>
 

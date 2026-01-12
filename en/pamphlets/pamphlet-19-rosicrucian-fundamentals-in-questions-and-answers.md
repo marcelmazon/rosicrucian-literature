@@ -7,11 +7,11 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="rosicrucian-fundamentals-in-questions-and-answers">Pamphlet №19: Rosicrucian Fundamentals in Questions and Answers</h1>
+<h1 id="pamphlet-19-rosicrucian-fundamentals-in-questions-and-answers">Pamphlet №19: Rosicrucian Fundamentals in Questions and Answers</h1>
 
 ### <h3 id="rosicrucian-fundamentals-in-questions-and-answers">Rosicrucian Fundamentals in Questions and Answers</h3>
 
-<strong><em>Question</em>: Who are the Rosicrucians and what does the name signify?</strong>
+<strong><em>Question:</em> Who are the Rosicrucians and what does the name signify?</strong>
 
 <strong><em>Answer:</em></strong> The ancient Rosicrucian Brotherhood consisted of high spiritual beings who had advanced far beyond ordinary man in purity and spiritual wisdom. They were learned alchemists, doctors, and mathematicians – <em>twelve Supermen</em> of the fourteenth century, who were guided by and who worked with a thirteenth known by the name of Christian Rosenkreuz (Christian Rose Cross). These thirteen august men worked secretly. They formed themselves into a Brotherhood known as the Rosicrucian Order or Order of the Rose Cross. The teachings of this Order were given only to a very few wise men; nothing was printed until the year 1614 when a small pamphlet written in the German language was circulated among those only who were ready to receive these teachings.
 

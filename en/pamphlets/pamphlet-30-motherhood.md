@@ -1,20 +1,13 @@
 ---
-
 title: "Pamphlet №30: Motherhood"
-
 language: 'en'
-
 original_title: "Pamphlet №30: Motherhood"
-
 original_language: 'en'
-
 author: '???'
-
 original_source_file: 'self'
-
 ---
 
-<h1 id="motherhood">Pamphlet №30: Motherhood</h1>
+<h1 id="pamphlet-30-motherhood">Pamphlet №30: Motherhood</h1>
 
 ### <h3 id="motherhood">Motherhood</h3>
 

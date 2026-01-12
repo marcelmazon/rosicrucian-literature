@@ -1,20 +1,13 @@
 ---
-
 title: "Pamphlet №43: Sprouting for Health"
-
 language: 'en'
-
 original_title: "Pamphlet №43: Sprouting for Health"
-
 original_language: 'en'
-
 author: '???'
-
 original_source_file: 'self'
-
 ---
 
-<h1 id="sprouting-for-health">Pamphlet №43: Sprouting for Health</h1>
+<h1 id="pamphlet-43-sprouting-for-health">Pamphlet №43: Sprouting for Health</h1>
 
 ### <h3 id="sprouting-for-health">Sprouting for Health</h3>
 
@@ -32,11 +25,11 @@ With the equipment at hand, we now consider the sprouting procedures required fo
 
 ### <h3 id="how-to-sprout">How to Sprout</h3>
 
-SEEDS include alfalfa, celery, clover, oats, radish, fenugreek, and sunflower. Soak the desired amount of seeds, about one to two tablespoonfuls, in a two-quart jar by filling the jar half-way with tepid water and covering it with cheese-cloth or nylon, securing the cloth with a rubber band. Place the jar in a dark area, at about room temperature, for about five hours. After five hours, drain, rinse, and let the seeds stand without water for about eight to twelve hours. Rinse again and drain well to prevent rotting. For the next six days, the seeds should be rinsed and drained twice a day using lukewarm water. They should be kept at room temperature in a dark place. After the sixth day, place them in the light for one more day to increase their chlorophyll content. When determining the desired amount of seeds for each container, consider that seeds will expand about eight times the original amount. One jar may be used as a starter and others added as the need arises.
+1\. SEEDS include alfalfa, celery, clover, oats, radish, fenugreek, and sunflower. Soak the desired amount of seeds, about one to two tablespoonfuls, in a two-quart jar by filling the jar half-way with tepid water and covering it with cheese-cloth or nylon, securing the cloth with a rubber band. Place the jar in a dark area, at about room temperature, for about five hours. After five hours, drain, rinse, and let the seeds stand without water for about eight to twelve hours. Rinse again and drain well to prevent rotting. For the next six days, the seeds should be rinsed and drained twice a day using lukewarm water. They should be kept at room temperature in a dark place. After the sixth day, place them in the light for one more day to increase their chlorophyll content. When determining the desired amount of seeds for each container, consider that seeds will expand about eight times the original amount. One jar may be used as a starter and others added as the need arises.
 
-GRAINS include rye, wheat, buckwheat, barley, millet, and rice. Their preparation is the same as for the seeds.
+2\. GRAINS include rye, wheat, buckwheat, barley, millet, and rice. Their preparation is the same as for the seeds.
 
-LEGUMES include lentils, mung beans, and soy beans. Due to their hardness, they require an initial soaking of about fifteen hours. They should be rinsed twice a day and given three days for adequate germination. One cup of beans may be used for each two-quart jar, since expansion in their case is not so great as in the case of seeds and grains.
+3\. LEGUMES include lentils, mung beans, and soy beans. Due to their hardness, they require an initial soaking of about fifteen hours. They should be rinsed twice a day and given three days for adequate germination. One cup of beans may be used for each two-quart jar, since expansion in their case is not so great as in the case of seeds and grains.
 
 It should be noted that sunflower and lentil sprouts should not be larger than the seed itself in order to be palatable. The time required for these seeds to sprout is about two or three days.
 
@@ -48,13 +41,13 @@ Seeds, grains, and lentils for sprouting may be obtained in most natural food st
 
 One of the many benefits of sprouts is their high energy content. The following is a brief outline of the nutritional value of some of the more popular sprouts.
 
-All LEGUMES such as those mentioned above are highly concentrated in both protein and starch and are acid-forming unless sprouted.
+1\. All LEGUMES such as those mentioned above are highly concentrated in both protein and starch and are acid-forming unless sprouted.
 
 When a proper diet of greens, seeds, nuts, vegetables, and fruit is followed, a proper balance of acid vs. alkaline foods is maintained. When the diet is heavy on the protein side, acidity results and then it is necessary to eliminate as many acid-forming foods as possible. Sprouting helps to reduce the acid-alkaline imbalance which might occur when grains, legumes, and other proteins are used.
 
 Mung beans, similar in composition to fruits, are rich in vitamins A, C, and B complex.
 
-Most SEEDS contain a great deal of phosphorous, an important mineral for spiritual aspirants, who want to increase their alertness and mental abilities. Phosphorous is also necessary for healthy bones and teeth, a fact which makes sprouted seeds desirable for babies and children.
+2\. Most SEEDS contain a great deal of phosphorous, an important mineral for spiritual aspirants, who want to increase their alertness and mental abilities. Phosphorous is also necessary for healthy bones and teeth, a fact which makes sprouted seeds desirable for babies and children.
 
 Sunflower seeds are rich in vitamins B and D and all the essential amino acids.
 
@@ -62,7 +55,7 @@ Sesame seeds are a rich source of calcium, iron, phosphorous, niacin, and protei
 
 Alfalfa, probably the most popular sprouted seed, contains much chlorophyll, as well as vitamins A, B complex, C, D, E, G. K, and U. It also has large amounts of iron, calcium, phosphorous, and sulphur.
 
-GRAINS. Sprouted wheat has become a favorite with many who try to follow a natural diet. These sprouts contain vitamins C, E, B complex, magnesium, calcium, phosphorous, sodium, potassium, protein, enzymes, chlorophyll, and possibly B-17. In its cooked form, wheat is unacceptable to some individuals, causing mucus congestion, allergic reaction, and constipation. In its sprouted form, a large portion of starch is converted to simple sugars, making it a wholesome food acceptable to many who would otherwise need to eliminate wheat as a food source.
+3\. GRAINS. Sprouted wheat has become a favorite with many who try to follow a natural diet. These sprouts contain vitamins C, E, B complex, magnesium, calcium, phosphorous, sodium, potassium, protein, enzymes, chlorophyll, and possibly B-17. In its cooked form, wheat is unacceptable to some individuals, causing mucus congestion, allergic reaction, and constipation. In its sprouted form, a large portion of starch is converted to simple sugars, making it a wholesome food acceptable to many who would otherwise need to eliminate wheat as a food source.
 
 Another way to use wheat is to grow the whole wheat berries as grass. The chlorophyll and laetrile content of wheat grass is very high. The wheat grass should be chewed to obtain the juice, discarding the pulp. Special juicers for wheat grass are now on the market.
 

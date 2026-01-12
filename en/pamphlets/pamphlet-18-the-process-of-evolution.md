@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-process-of-evolution">Pamphlet №18: The Process of Evolution</h1>
+<h1 id="pamphlet-18-the-process-of-evolution">Pamphlet №18: The Process of Evolution</h1>
 
 ### <h3 id="the-process-of-evolution">The Process of Evolution</h3>
 

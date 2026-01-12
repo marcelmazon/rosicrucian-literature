@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-newer-hygiene-of-living">Pamphlet №24: The Newer Hygiene of Living</h1>
+<h1 id="pamphlet-24-the-newer-hygiene-of-living">Pamphlet №24: The Newer Hygiene of Living</h1>
 
 ### <h3 id="spiritual-healing">Spiritual Healing</h3>
 
@@ -173,7 +173,13 @@ BLOOD-FORMERS: Vegetables, especially green leafy ones, egg yolk, bran and whole
 
 ### <h3 id="fuels-for-heat-and-energy">Fuels (For Heat and Energy)</h3>
 
-FATS AND OILS: Butter, cream, olive and other oils, nuts. STARCHES: Cereals, potatoes, breads. SUGARS: Cane, beet, maple, fruits, sweets. PROTEINS: Milk, cheese, eggs, nuts, legumes.
+FATS AND OILS: Butter, cream, olive and other oils, nuts. 
+
+STARCHES: Cereals, potatoes, breads. 
+
+SUGARS: Cane, beet, maple, fruits, sweets. 
+
+PROTEINS: Milk, cheese, eggs, nuts, legumes.
 
 ### <h3 id="body-regulators">Body Regulators</h3>
 

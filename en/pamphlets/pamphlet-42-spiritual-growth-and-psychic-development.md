@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="spiritual-growth-and-psychic-development">Pamphlet №42: Spiritual Growth and Psychic Development</h1>
+<h1 id="pamphlet-42-spiritual-growth-and-psychic-development">Pamphlet №42: Spiritual Growth and Psychic Development</h1>
 
 ### <h3 id="spiritual-growth-and-psychic-development">Spiritual Growth and Psychic Development</h3>
 

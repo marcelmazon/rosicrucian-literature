@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-dangers-of-hypnotism">Pamphlet №25: The Dangers of Hypnotism</h1>
+<h1 id="pamphlet-25-the-dangers-of-hypnotism">Pamphlet №25: The Dangers of Hypnotism</h1>
 
 ### <h3 id="the-dangers-of-hypnotism">The Dangers of Hypnotism</h3>
 

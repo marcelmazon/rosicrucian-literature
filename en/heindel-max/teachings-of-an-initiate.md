@@ -38,20 +38,14 @@ Max Heindel, who was the authorized messenger of the true Rosicrucian Brotherhoo
 - [Chapter VI: The Death of the Soul](#chapter-6)
 - [Chapter VII: The New Sense of the New Age](#chapter-7)
 - [Chapter VIII: God's Chosen People](#chapter-8)
-- [Chapter IX: Mystic Light on the World War](#chapter-9)
-    - [Part I - Secret Springs](#part-1)
-- [Chapter X: Mystic Light on the World War](#chapter-10)
-    - [Part II - Its Promotion of Spiritual Sight](#part-2)
-- [Chapter XI: Mystic Light on the World War](#chapter-11)
-    - [Part III - Peace on Earth](#part-3)
-- [Chapter XII: Mystic Light on the World War](#chapter-12)
-    - [Part IV - The Gospel of Gladness](#part-4)
+- [Chapter IX: Mystic Light on the World War - Part I - Secret Springs](#chapter-9)
+- [Chapter X: Mystic Light on the World War - Part II - Its Promotion of Spiritual Sight](#chapter-10)
+- [Chapter XI: Mystic Light on the World War - Part III - Peace on Earth](#chapter-11)
+- [Chapter XII: Mystic Light on the World War - Part IV - The Gospel of Gladness](#chapter-12)
 - [Chapter XIII: The Esoteric Significance of Easter](#chapter-13)
 - [Chapter XIV: The Lesson of Easter](#chapter-14)
-- [Chapter XV: Scientific Method of Spiritual Unfoldment](#chapter-15)
-    - [Part V - Material Analogies](#part-5)
-- [Chapter XVI: Scientific Method of Spiritual Unfoldment](#chapter-16)
-    - [Part VI - Retrospection](#part-6)
+- [Chapter XV: Scientific Method of Spiritual Unfoldment - Part V - Material Analogies](#chapter-15)
+- [Chapter XVI: Scientific Method of Spiritual Unfoldment - Part VI - Retrospection](#chapter-16)
 - [Chapter XVII: The Heavens Declare the Glory of God](#chapter-17)
 - [Chapter XVIII: Religion and Healing](#chapter-18)
 - [Chapter XIX: Address at Ground Breaking, Mt. Ecclesia](#chapter-19)
@@ -336,7 +330,23 @@ Then came the age of steam and machinery and with it a new system of labor. Inst
 
 What would we say of a young man who should set himself the goal of accumulating a million handkerchiefs which he could never by any possible chance use? Surely we should call him a fool; and why should we not place the man who spends all his energy and foregoes all the comforts of life to become a millionaire, in the same category? This system cannot continue, for it is giving man a stone when he asks for bread, and there must be some other development in store for him. New standards must be in the process of development, new ideals must be looming up to give us a wider vision. For hints as to the trend of evolution we must look to those among us who are most gifted with inspiration, the poets and seers. James Russell Lowell sounds perhaps the clearest note in his vision of Sir Launfal. A knight leaving his castle imbued with a desire to do great and valiant things for God, is going to join the Crusaders and seek the Holy Grail in far distant Palestine. He leaves his castle self-satisfied, proud, and arrogant, bent on his mission. At the castle gate he meets a poor beggar, a leper, who stretches out his hands asking for alms. Sir Launfal, however, has no compassion, but in order to be rid of the loathsome thing, he throws him a golden coin and endeavors to forget him. 
 
-"But the leper raised not the gold from the dust, 'Better to me the poor man's crust, Better the blessing of the poor, Though I turn empty for his door. That is not true alms which the hand can hold; He gives only the worthless gold Who gives from a sense of duty; But he who gives from a slender mite, And gives to that which is out of sight--That thread of all-sustaining beauty Which runs through all and doth all unite--The hand cannot clasp the whole of his aims, The heart outstretches its eager palms, For a god goes with it and makes it store To the soul that was starving in darkness before.'" 
+```
+"But the leper raised not the gold from the dust, '
+Better to me the poor man's crust, 
+Better the blessing of the poor, 
+Though I turn empty for his door. 
+That is not true alms which the hand can hold; 
+He gives only the worthless gold 
+Who gives from a sense of duty; 
+But he who gives from a slender mite, 
+And gives to that which is out of sight--
+That thread of all-sustaining beauty 
+Which runs through all and doth all unite--
+The hand cannot clasp the whole of his aims, 
+The heart outstretches its eager palms, 
+For a god goes with it and makes it store 
+To the soul that was starving in darkness before.'" 
+```
 
 But what of Sir Launfal? Could he be expected in such a frame of mind to attain success and find the Grail? Certainly not. So disappointment after disappointment meets him, and finally he returns to his castle, discouraged and humbled in heart. There he again meets the leper, and at the sight of him, 
 
@@ -487,9 +497,7 @@ Instead, so far from causing us to forsake the path of progress, our failures sh
 
 We all know our own particular shortcomings, "the sin which doth so easily beset us," and each will naturally have to formulate the proper resolutions for himself. But in carrying these resolutions into effect so that they may be productive of soul growth and help to weave the glorious golden wedding garment, it will undoubtedly help us immensely to fasten our eyes and thoughts upon one who possessed the virtue we are seeking to cultivate. Such a great example we have in Christ, who "was tempted in all things like ourselves, yet without sin." Let us therefore keep Him closely before our mind's eye during the coming year, and we shall surely make great soul growth. This is also the best propaganda we can make for the Rosicrucian teachings, for by living close to them we shall surely evoke in others a desire to share in their blessings. 
 
-### <h3 id="chapter-9">CHAPTER IX: MYSTIC LIGHT ON THE WORLD WAR</h3>
-
-#### <h4 id="part-1">PART I - SECRET SPRINGS</h4>
+### <h3 id="chapter-9">CHAPTER IX: MYSTIC LIGHT ON THE WORLD WAR - PART I - SECRET SPRINGS</h3>
 
 It is well known to students of the Rosicrucian teachings that we as spirits are immortal, without beginning and without end; that we have gone to the great school of experience many life-days in the past each time clad in a new child's body of finer texture, in which we lived for a time varying from a few hours to a lifetime, and when a day at life's school had been completed, we shuffled off this mortal coil, worn out and decrepit, to return to our heavenly home for rest and assimilation during the night of death of the lessons learned; later to be reborn and take up our lessons where we left them when we were called home from the previous session of the school of life. 
 
@@ -509,9 +517,7 @@ But the hate of Hannibal was unabated, and when he and his compatriots, the Cart
 
 Justice ought to be done, but it should be tempered with mercy in order to avoid perpetuating hate, and therefore such harsh measures as, for instance, the industrial boycott are wrong. It should be sufficient to see that the Central Empires get no more than a fair share of the world's trade. The new American nation, which is not yet under the domination of any race spirits, sees more impartially and therefore more clearly than any other what is right. Therefore it is to be hoped that the American ideas of justice will prevail. Let us remember that one wrong never can and never will right another, and that we must live and let live. 
 
-### <h3 id="chapter-10">CHAPTER X: MYSTIC LIGHT ON THE WORLD WAR</h3>
-
-#### <h4 id="part-2">PART II - ITS PROMOTION OF SPIRITUAL SIGHT</h4>
+### <h3 id="chapter-10">CHAPTER X: MYSTIC LIGHT ON THE WORLD WAR - PART II - ITS PROMOTION OF SPIRITUAL SIGHT</h3>
 
 Strange as the statement may seem, it is nevertheless true that the great majority of mankind are partially asleep most of the time, notwithstanding the fact that their physical bodies may seem to be intensely occupied in active work. Under ordinary conditions the desire body in the case of the great majority is the most awake part of composite man, who lives almost entirely in his feelings and emotions, but scarcely ever thinks of the problem of existence beyond what is necessary to keep body and soul together. Most of this class have probably never given the great questions of life, Whence have we come, why are we here, and whither are we going? any serious consideration. Their vital bodies are kept active repairing the ravages of the desire body upon the physical vehicle, and purveying the vitality which is later dissipated in gratifying the desires and emotions. 
 
@@ -537,9 +543,7 @@ With regard to the second process of soul unfoldment which is carried on among t
 
 "But," some may ask, "will they not forget when the stress and strain of war are over? Will not a large percentage of these people go back into the same rut where they were before?" To this we may answer that we feel confident it can never come to pass, for while the invisible vehicles, especially the vital body, are asleep, man may pursue a materialistic career; but once this vehicle has been awakened and has tasted the bread of life, it is like the physical body, subject to hunger--soul hunger,--and its cravings will not be denied save after an exceedingly hard struggle. In the latter case, of course, the words of Peter are applicable: "The last state of that man is worse than the first." However, it is good to feel that out of all the indescribable sorrow and trouble of the war good is being wrought in the crucible of the gods, and it will be a lasting good. May we all align our forces and help extract the good, so that we may be shining examples to help lead humanity to the New Age. 
 
-### <h3 id="chapter-11">CHAPTER XI: MYSTIC LIGHT ON THE WORLD WAR</h3>
-
-#### <h4 id="part-3">PART III - PEACE ON EARTH</h4> 
+### <h3 id="chapter-11">CHAPTER XI: MYSTIC LIGHT ON THE WORLD WAR - PART III - PEACE ON EARTH</h3>
 
 A war-weary world, red with the blood of millions, the hope of its future, the flower of its young manhood, is groaning in agony, praying for peace, not an armistice, a temporary cessation of hostilities, but everlasting peace, and it is striving to solve the problem of how to accomplish this much desired end. But it is striking at effects because ignorant of or blind to the one great underlying cause of the ferocity of the people, which was but barely hidden under a thin veneer of civilization before it burst into the volcano of destruction which we have recently witnessed and are now lamenting. 
 
@@ -587,9 +591,7 @@ For beast and bird
 Till the world shall set things right."
 ```
 
-### <h3 id="chapter-12">CHAPTER XII: MYSTIC LIGHT ON THE WORLD WAR</h3>
-
-#### <h4 id="part-4">PART IV - THE GOSPEL OF GLADNESS</h4>
+### <h3 id="chapter-12">CHAPTER XII: MYSTIC LIGHT ON THE WORLD WAR - PART IV - THE GOSPEL OF GLADNESS</h3>
 
 The recent titanic struggle among the nations in Europe upset the equilibrium of the whole world to such an extent that the emotions of the people who lived in even the most remote regions of the earth were stirred as they had never been stirred before, the people expressing anger, hate, hysteria, or gloom according to their nature and temperament. It is evident to those who have studied the deeper mysteries of life and who understand the operation of natural law in the spiritual worlds that the inhabitants of the invisible realms were affected in perhaps a greater degree than those who lived in physical bodies, which by their very density make it impossible for us to feel the full force of the emotions. 
 
@@ -671,9 +673,7 @@ We are appalled at the carnage on the European battle fields, and rightly so bec
 
 Furthermore, we must realize that death is a cosmic necessity under the present circumstances for if we were imprisoned in a body of the kind we now use and placed in an environment such as we find today, there to live forever, the infirmities of the body and the unsatisfactory nature of the environment would very soon make us so tired of life that we would cry for release. It would block all progress and make it impossible for us to evolve to greater heights such as we may evolve to by re-embodiment in new vehicles and placement in new environments which give us new possibilities of growth. Thus we may thank God that so long as birth into a concrete body is necessary for our further development, release by death has been provided to free us from the outgrown instrument, while resurrection and a new birth under the smiling skies of a new environment furnish another chance to begin life with a clean slate and learn the lessons which we failed to master before. By this method we shall some time become perfect as is the risen Christ. He commanded it, and he will aid us to achieve it. 
 
-### <h3 id="chapter-15">CHAPTER XV: THE SCIENTIFIC METHOD OF SPIRITUAL UNFOLDMENT</h3>
-
-#### <h4 id="part-5">PART V - MATERIAL ANALOGIES</h4>
+### <h3 id="chapter-15">CHAPTER XV: THE SCIENTIFIC METHOD OF SPIRITUAL UNFOLDMENT - PART V - MATERIAL ANALOGIES</h3>
 
 WHILE we were coming down by involution into concrete existence our line of progress lay entirely in material development; but since we have rounded the nadir of materiality and are beginning to rise above the concrete, spiritual unfoldment is becoming increasingly important as a necessary factor in our development, although we still have many great and important lessons to learn from the material phase of our existence. This applies to humanity in general but particularly, of course, to those who are already consciously beginning to aspire to live the higher life. It may therefore be expedient to review from another angle the Rosicrucian teachings as to the scientific method of acquiring this spiritual unfoldment. 
 
@@ -697,9 +697,7 @@ But there are a number of people who are deficient in various senses; one thing 
 
 In the next chapter we shall see how it is thus used and how by scientific means soul growth may be accomplished and soul power unfolded by an improvement on this process. 
 
-### <h3 id="chapter-16">CHAPTER XVI: THE SCIENTIFIC METHOD OF SPIRITUAL UNFOLDMENT</h4>
-
-#### <h4 id="part-6">PART VI - RETROSPECTION - A MEANS OF AVOIDING PURGATORY</h4>
+### <h3 id="chapter-16">CHAPTER XVI: THE SCIENTIFIC METHOD OF SPIRITUAL UNFOLDMENT PART VI - RETROSPECTION - A MEANS OF AVOIDING PURGATORY</h4>
 
 We saw in the last chapter that a record resembling a picture film, of our life from the cradle to the grave is inscribed upon a little atom in the heart by the action of the ether which we inhale with every breath, and which carries with it a picture of the outside world in which we are living and moving at the time. This forms the basis of our post-mortem existence, the record of deeds of wrongdoing being eradicated in a painful purgatorial experience caused by the fire of remorse, which sears the soul as the pictures of its misdeeds unroll before its gaze, thus making it less prone to repeat the same wrongdoing and mistakes in future lives. The reaction from the pictures where good was done is a heavenly joy, the subconscious remembrance of which will in later lives prompt the soul to do more good. But this process is necessarily slow and may be likened to the action and operation of the old mill wheel. However, it is the way designed by nature to teach humanity how to walk circumspectly and obey her laws. By this slow process the greater part of humanity is gradually evolving from egoism to altruism, and though exceedingly slow it seems to be the only method by which they will learn. 
 

@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="life-more-abundant">Pamphlet №27: Life More Abundant</h1>
+<h1 id="pamphlet-27-life-more-abundant">Pamphlet №27: Life More Abundant</h1>
 
 ### <h3 id="life-more-abundant">Life More Abundant</h3>
 

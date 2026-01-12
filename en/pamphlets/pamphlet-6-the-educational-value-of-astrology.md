@@ -1,20 +1,13 @@
 ---
-
 title: "Pamphlet №6: The Educational Value of Astrology"
-
 language: 'en'
-
 original_title: "Pamphlet №6: The Educational Value of Astrology"
-
 original_language: 'en'
-
 author: '???'
-
 original_source_file: 'self'
-
 ---
 
-<h1 id="the-educational-value-of-astrology">Pamphlet №6: The Educational Value of Astrology</h1>
+<h1 id="pamphlet-6-the-educational-value-of-astrology">Pamphlet №6: The Educational Value of Astrology</h1>
 
 ### <h3 id="the-educational-value-of-astrology">The Educational Value of Astrology</h3>
 

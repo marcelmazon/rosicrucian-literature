@@ -1,9 +1,9 @@
 ---
-title: 'Evolution from the Rosicrucian Standpoint'
+title: "Evolution from the Rosicrucian Standpoint"
 language: 'en'
 original_title: "Evolution from the Rosicrucian Standpoint"
 original_language: 'en'
-author: 'Augusta Foss Heindel'
+author: "Augusta Foss Heindel"
 original_source_file: 'self'
 ---
 
@@ -18,7 +18,7 @@ by Mrs. Max Heindel
 - [Chapter III: The Lucifer Spirits and the Children of the Mist](#chapter-3)
 - [Chapter IV: Biblical Correspondences and the Darwin Theory](#chapter-4)
 
-### <h3 id="chapter-1">CHAPTER I: PREHISTORIC PERIODS</h3>
+### <h3 id="chapter-1">Chapter I: Prehistoric Periods</h3>
 
 As we look off into the starry dome of the heavens, we may see a picture that is awe-inspiring, and the longer we gaze, the greater are the number of stars which present themselves to view. Among them there are two bright stars called by astronomers the lamps of the night. They are ever revolving about the North or Pole Star, the mariner's guide. These two stars are the foremost in a group called the Plow or Dipper, and are ever pointing the way to the Pole Star, which is almost stationary and for that reason most reliable as a friend to give direction to the sailor at sea. We admire the splendor of these bright stars, and our eyes at once begin to trace the figure of the Great Bear, of which they are a part.
 
@@ -50,7 +50,7 @@ This loss of the spiritual sight now caused the spirit to turn within for the li
 
 The vegetation, as we may observe in our moving picture, was growing to an enormous size; the steam-laden atmosphere was conducive to rapid growth.
 
-### <h3 id="chapter-2">CHAPTER II: THE DEVELOPMENT OF BODIES</h3>
+### <h3 id="chapter-2">Chapter II: The Development of Bodies</h3>
 
 We emerged from the long sleep of a cosmic night after the Moon Period. As we stated in the preceding chapter, a cosmic night must come after each period. We will now skim lightly over the views of the fourth or Earth Period. Like the human spirit, which must find its growth and expression through successive lives in the physical body, so is the earth the body of a Great Spirit seeking its development through these successive periods.
 
@@ -74,13 +74,13 @@ In the Lemurian Epoch man became animal-like. There came to his assistance at th
 
 Heretofore we have said little about the stragglers who failed to keep up with the forward march of the pioneers. In every life wave we find the straggler. At the present time we find imperfection in the mineral; the weeds are imperfect plants; the mongrel is an imperfect animal. In the human life wave we find the stragglers in the lower races. The anthropoids were left behind in the Saturn and Sun Periods, and the savages, Negroes, and Mongolians are the stragglers of the Moon Period. In the different revolutions of the Earth Period this segregation has continued. At the end of each epoch the human race must pass an examination, which is well described in the 25th chapter of St. Matthew, where Christ gives a description of the last judgment as follows:
 
-31.--"When the Son of man shall come in His glory, and all the holy angels with Him, then shall He sit upon the throne of His glory:
+31\. - "When the Son of man shall come in His glory, and all the holy angels with Him, then shall He sit upon the throne of His glory:
 
-32.--"And before Him shall be gathered all nations: and He shall separate them one from another, as a shepherd divideth his sheep from the goats:
+32\. - "And before Him shall be gathered all nations: and He shall separate them one from another, as a shepherd divideth his sheep from the goats:
 
-33.--"And He shall set the sheep on His right hand, but the goats on the left.
+33\. - "And He shall set the sheep on His right hand, but the goats on the left.
 
-34.--"Then shall the King say unto them on His right hand, Come ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world."
+34\. - "Then shall the King say unto them on His right hand, Come ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world."
 
 The sheep are the chosen ones who at the close of each epoch are carried forward into the next period. The goats are the stragglers, and may be likened to the boy who plays truant and stays away from school; when the final examinations come, he is left behind to stay in the same class a second term, while his comrades who were faithful in their attendance and work pass on to the higher grade.
 
@@ -92,7 +92,7 @@ Again turning to the picture of the earth during the Lemurian Epoch, we find the
 
 Man had developed the sense of hearing and sight was just beginning to develop in two sensitive spots, which the sun, faintly shining through the clouds, was sensitizing and which later became the eyes.
 
-### <h3 id="chapter-3">CHAPTER III: THE LUCIFER SPIRITS AND THE CHILDREN OF THE MIST</h3>
+### <h3 id="chapter-3">Chapter III: The Lucifer Spirits and the Children of the Mist</h3>
 
 We now come to the part of God's great picture reel which depicts the earth in the latter part of the Lemurian Epoch. Man was gradually taking an upright position. The spinal column was becoming hardened, and the blood was taking in the iron which was supplied by the Martian influence. The ego, which up to that time had worked upon its vehicles from without, was gradually drawing within, and man began to sense things outside of him. At this period he was wholly unconscious of his physical body. He was awake, however, in the desire world and could at that stage commune directly with the gods.
 
@@ -118,7 +118,7 @@ A similar condition may be noted at the present day: in the lower phases of evol
 
 We now pass on to the picture which is perhaps the most familiar to us, that of the fifth or Aryan Epoch. The man whom we have pictured up to this present period was expressing himself through a fourfold body, a physical, vital, desire, and partially developed mental body. But as man evolves and necessity calls for them, changes take place. Man is now forming the matrix for a new body, the soul body, that shining raiment in which he is to meet Christ in the air, the body in which he will again meet his spiritual teachers and commune with them direct. This body is now shaping in many who are working to purify their lives and who are beginning to sense the necessity of living not for self but for all. As the desire body is mastered and the physical body purified, and as the two higher ethers are developed, this new soul body shapes itself.
 
-### <h3 id="chapter-4">CHAPTER IV: BIBLICAL CORRESPONDENCES AND THE DARWIN THEORY</h3>
+### <h3 id="chapter-4">Chapter IV: Biblical Correspondences and the Darwin Theory</h3>
 
 We have previously touched lightly upon the principal points on the path of evolution of the earth and man to the present period. We will now see how this connects with the story given to us in the Bible.
 

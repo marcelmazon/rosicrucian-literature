@@ -31,7 +31,7 @@ Mt. Ecclesia, June 1940
 - [Dedication](#dedication)
 - [Foreword](#foreword)
 - [Chapter I: MAN'S DEVELOPMENT](#chapter-1)
-    - [Individual Work of the Spirit](#individual-work-of-the-spirit)
+    - [Individual Work of the Spirit](#the-individual-work-of-the-spirit)
     - [The Adrenals](#the-adrenals)
 - [Chapter II: TYPES PRODUCED BY THE DUCTLESS GLANDS](#chapter-2)
     - [Adrenal Type of Personality](#adrenal-type-of-personality)
@@ -66,14 +66,12 @@ Mt. Ecclesia, June 1940
 - [Pineal Type](#pineal-type)
 - [Ductless Glands and Their Rulers](#ductless-glands-and-their-rulers)
 
-
 <h2 id="the-mystery-of-the-ductless-glands-h2">The Mystery of the Ductless Glands</h2>
 
 ### <h3 id="chapter-1">CHAPTER I: MAN'S DEVELOPMENT</h3>
 
 ```
-When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;
-What is man, that thou art mindful of him? and the son of man, that thou visitest him?
+When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; What is man, that thou art mindful of him? and the son of man, that thou visitest him?
 
 - Psalm 8:3,5. 
 ```
@@ -82,7 +80,7 @@ Before beginning these lessons on the ductless glands it would be well for us to
 
 There is nothing in the universe other than pure spirit, and there never has been; but there are two forms or poles of spirit. One is positive, acting, directing, and the other is negative, passive, receiving, assimilating. This positive-negative spirit substance, its two poles working together, is all inclusive and has produced all that there is from the clod to God. All creation is in a state of ever becoming and perfection is the goal. The positive pole of spirit manifests as energy. The negative pole acts as its receptacle, and the two produce both life and form. Form, which is a lower vibration of spirit, is brought into being for the use of the spirit, and form and spirit evolve side by side.
 
-God, the Creator of our solar system, has within Himself three great dynamic forces, which for want of better names we designate as will, wisdom- love, and activity; and by putting these forces into directed orderly action He created our solar system and all therein. The ultimate goal to be attained by each of His creations is Godhood. Each individual brought into existence by this mighty Being has within Himself in POTENTIALITY all of the powers of his Creator, including epigenesis, the spirit's power to inaugurate something entirely new; and the work of each is to develop these potentialities into dynamic forces like unto those of our great Progenitor. In man we speak of these potentialities as the divine, life, and human spirits. It means that man, who is pure spirit, has within himself three great spirit-force potentialities.
+God, the Creator of our solar system, has within Himself three great dynamic forces, which for want of better names we designate as will, wisdom-love, and activity; and by putting these forces into directed orderly action He created our solar system and all therein. The ultimate goal to be attained by each of His creations is Godhood. Each individual brought into existence by this mighty Being has within Himself in POTENTIALITY all of the powers of his Creator, including epigenesis, the spirit's power to inaugurate something entirely new; and the work of each is to develop these potentialities into dynamic forces like unto those of our great Progenitor. In man we speak of these potentialities as the divine, life, and human spirits. It means that man, who is pure spirit, has within himself three great spirit-force potentialities.
 
 Man's latent potentialities are developed in two ways, namely, through his own efforts, and by the help of others, chief among which are great Beings who are far beyond him on the path of evolution.
 
@@ -156,7 +154,7 @@ Dr. Louis Berman in discussing like cases says:
 
 In the case of the pure type, one particular gland, either by its excessive action or its subnormal activity exercises a dominating influence upon the traits of the individual; and either as the strongest link in the chain of glands or the weakest, it becomes the ruler and all of the others must accommodate themselves to its dominancy. Among all the others as the chief commander of growth, development, and normal function, it holds the balance of power. It dominates every emergency by its strength or weakness, and in this way it creates its own type of individual with characteristics and attributes peculiar to itself. The pure types are the adrenal, the thyroid, the pituitary, the pineal, and the thymus.
 
-With a little practice each person representing a pure type can be readily identified as one passes him or her on the street, for each is stamped with identifying characteristics of figure, height, hair, skin, and temperament, with the corresponding ambitions, social inclinations, and even a predisposition to particular diseases. The various types differ in appearance as greatly as do different animals of the same genus. For instance, no one ever mistakes a mastiff for a bulldog or a fox terrier for a dachshund. Each has a distinctive size and shape, each has certain traits and characteristics, and each is built and organized in the most efficient manner to work out its own specific destiny in a particular way, all of which is true of glandular- typed people.
+With a little practice each person representing a pure type can be readily identified as one passes him or her on the street, for each is stamped with identifying characteristics of figure, height, hair, skin, and temperament, with the corresponding ambitions, social inclinations, and even a predisposition to particular diseases. The various types differ in appearance as greatly as do different animals of the same genus. For instance, no one ever mistakes a mastiff for a bulldog or a fox terrier for a dachshund. Each has a distinctive size and shape, each has certain traits and characteristics, and each is built and organized in the most efficient manner to work out its own specific destiny in a particular way, all of which is true of glandular-typed people.
 
 The distinctions are less marked among the mixed types and consequently they are more difficult to classify. In them there is a conflict as to which ductless gland shall dominate, and of course the combined action of the different glands results in a considerable modification of the primary characteristics. In some cases not only two but even three of the ductless glands strive for supremacy, and their combined action causes a modification in the primary glandular appearance. A compromise effect is then necessitated. Also it is possible for an individual to be under the domination of one gland during one period of his life, and under another at a later time. In such instances the gland ruling the early life will leave its impress on the earliest developing features while other signs will indicate the more recent influence. Such combinations are classified as the adrenal-thyroid type, the pituitary-adrenal type, et cetera.
 
@@ -314,7 +312,7 @@ A person afflicted with this disease has a high warm color, is restless, does no
 
 The cause of goiter is lack of iodine in the thyroid secretion. Iodine is rather abundantly present in sea water and in smaller quantities in the spring and soil water of most regions; but is some mountainous districts and in some other regions far removed from the sea, there is practically no iodine present for the thyroid to use. It may then enlarge in an effort to do its utmost to function properly under the existing circumstances; but still it cannot supply the secretion in the absence of iodine.
 
-Iodine in the form of sodium iodide is small doses will act as a goiter preventive. prolonged physical, mental, and emotional rest free from all excitement and worry is often most effective in curing this disease. A surgical operation should always be the last resort, and in no case should all of the thyroid be removed as the result would be certain death.
+Iodine in the form of sodium iodide is small doses will act as a goiter preventive. Prolonged physical, mental, and emotional rest free from all excitement and worry is often most effective in curing this disease. A surgical operation should always be the last resort, and in no case should all of the thyroid be removed as the result would be certain death.
 
 This mysterious gland which gives balance to the brain, aids in digestion, and mixes iron with the food cells, secretes the iodine which combats the poisons of the body, helps to control the amount of fat stored there, and in some mysterious way both prevents and cures goiter. The more thyroid, the more energetic one will be - the less thyroid, the less energetic and the lazier.
 
@@ -362,7 +360,7 @@ Shelley was only thirty years old when he was drowned yet the number of his lite
 
 ### <h3 id="chapter-6">CHAPTER VI: THE PITUITARY BODY</h3>
 
-The pituitary body or hypophysis is a lump of tissue about the size of a pea, situated almost exactly in the center of the head at the base of the brain and just behind the root of the nose. it hangs SUSPENDED from the under side of the brain like a cherry from the limb of a tree. It is a grayish- yellow color. It increases in size until about the thirtieth year, and in the adult weighs about five grains, or 1/1400 of a pound. During pregnancy the gland increases somewhat in size. It lies in a saddle-like depression in the sphenoid bone called the SELLA TURCICA and is enclosed in a strong membranous tissue called DURA MATER. The pituitary body can be traced from the most primitive form of life to man. Humanity has brought this gland and the salt of the blood in its development all the way from the sea to its present state.
+The pituitary body or hypophysis is a lump of tissue about the size of a pea, situated almost exactly in the center of the head at the base of the brain and just behind the root of the nose. it hangs SUSPENDED from the under side of the brain like a cherry from the limb of a tree. It is a grayish-yellow color. It increases in size until about the thirtieth year, and in the adult weighs about five grains, or 1/1400 of a pound. During pregnancy the gland increases somewhat in size. It lies in a saddle-like depression in the sphenoid bone called the SELLA TURCICA and is enclosed in a strong membranous tissue called DURA MATER. The pituitary body can be traced from the most primitive form of life to man. Humanity has brought this gland and the salt of the blood in its development all the way from the sea to its present state.
 
 The pituitary body is a veteran in the ductless gland system. Its name is derived from a Latin word, PITUITA. This name was given to the gland because it was supposed to secrete a fluid which lubricated the throat. it was believed that the secretion filtered through the porous ethnoid bone that intervenes between the pituitary body and the nasal cavity.
 
@@ -468,7 +466,7 @@ We will now consider the spiritual connection which the ductless glands have wit
 
 All that we see about us in our entire solar system had been created by the WORD which is sound-music, the Voice of God. It was this great primordial Word which brought or SPOKE into being, in finest matter, all the different worlds with all their myriads of FORMS, and these forms have since been copied and worked out in detail by innumerable creative Hierarchies chief among which, so far as our won particular solar system is concerned, are the Seven Planetary Spirits before the throne, namely: Uranus, Saturn, Jupiter, Earth, Mars, Venus, and Mercury.
 
-The Word of God sounds forth through the medium of these seven Planetary Spirits and forms all the various types which later crystallize into the manifold things which we behold in the Physical World. Thus we see that the
+The Word of God sounds forth through the medium of these seven Planetary Spirits and forms all the various types which later crystallize into the manifold things which we behold in the Physical World. Thus we see that the Word manifests in seven great tones sounded by the seven Planetary Spirits. Each planet has its own keynote and emits a sound varying from that of every other planet. These are all building tones. All the music in the world is based on these seven tones emitted by the seven Planetary Spirits, and all form is created by them, and after the form is created they assist the indwelling Ego in developing its LATENT POTENTIALITIES, all of which are embryonic God-powers. This assistance is given to humanity largely through the medium of the ductless glands.
 
 #### <h4 id="the-ductless-glands-and-their-rulers">THE DUCTLESS GLANDS AND THEIR RULERS</h4>
 
@@ -476,10 +474,9 @@ The Word of God sounds forth through the medium of these seven Planetary Spirits
 
 <p><cite>The Ductless Glands and Their Rulers</cite></p>
 
-Word manifests in seven great tones sounded by the seven Planetary Spirits. Each planet has its own keynote and emits a sound varying from that of every other planet. These are all building tones. All the music in the world is based on these seven tones emitted by the seven Planetary Spirits, and all form is created by them, and after the form is created they assist the indwelling Ego in developing its LATENT POTENTIALITIES, all of which are embryonic God-powers. This assistance is given to humanity largely through the medium of the ductless glands.
-
 Each ductless gland has a dominant keynote within itself, which when awakened, will develop certain latent potentialities in the Ego. Each of these keynotes is attuned to that of one of the Planetary Spirits and the sounding forth of the keynote of that particular Planetary Spirit is gradually awakening the keynote of the gland which is attuned to it. When the keynote of the gland is awakened it will develop in the Ego the specific energies which this particular Planetary Spirit expresses. These energies are forces which the Ego must learn TO CONTROL and DIRECT, for according to their USE DO THEY MANIFEST AS GOOD OR EVIL. Remember that all evil is MISDIRECTED good.
-THE ADRENAL GLANDS---PHYSICAL WORLD
+
+#### <h4 id="adrenal-glands--physical-world--jupiter">THE ADRENAL GLANDS---PHYSICAL WORLD</h4>
 
 The adrenal glands are ruled by Jupiter. The energies expressed by Jupiter manifest principally as benevolence, vision, expansion, optimism, honor, philanthropy, courtesy, generosity, cheerfulness, ability to comprehend the working out of cosmic law, ideation (the power to form and relate ideas), and religious understanding.
 
@@ -487,7 +484,7 @@ When one contacts the keynote of Jupiter it is found to be clear, full, round, a
 
 Once having attained these powers it is possible for the individual to misuse them. This is one of the greatest crimes that it is possible to commit. The wrong use of spiritual power is black magic which can be indulged in to the extent that finally the bridge of mind which connects the Spirit with its personality is broken and after a time the Spirit automatically gravitates to the planet Saturn where it leaves a record of its past lives and is then by dissolution of its vehicles propelled outward toward chaos by way of Saturn's moons, there to remain until the dawn of a new creative day when it will have to begin its work all over again in an appropriate day of manifestation.
 
-The wrong use of these energies expresses itself principally in over- confidence, extravagance, self-indulgence, prodigality, showiness, bombastry, sportiness, conceit, lawlessness, dissipation, improvidence, and procrastination. All of which plunges the Ego into so much deep sorrow, suffering, and distress that in time it usually learns the lesson that only by the RIGHT use of these spiritual powers can it free itself from its self-made, distressful predicament. When this lesson is mastered, through pain and travail, the Ego is indeed ready for another forward step on the path of evolution. for, corresponding to the two adrenals, the FIRST TWO ROSES on the cross of his vital body HAVE BURST INTO FULL BLOOM!
+The wrong use of these energies expresses itself principally in over-confidence, extravagance, self-indulgence, prodigality, showiness, bombastry, sportiness, conceit, lawlessness, dissipation, improvidence, and procrastination. All of which plunges the Ego into so much deep sorrow, suffering, and distress that in time it usually learns the lesson that only by the RIGHT use of these spiritual powers can it free itself from its self-made, distressful predicament. When this lesson is mastered, through pain and travail, the Ego is indeed ready for another forward step on the path of evolution. for, corresponding to the two adrenals, the FIRST TWO ROSES on the cross of his vital body HAVE BURST INTO FULL BLOOM!
 
 No longer does the emergency energy of the adrenal glands express itself in belligerence, aggression, and combat, but rather it is directed by the power born in a chastened, contrite spirit into energies which manifest as benevolence, vision, expansion, and philanthropy.
 

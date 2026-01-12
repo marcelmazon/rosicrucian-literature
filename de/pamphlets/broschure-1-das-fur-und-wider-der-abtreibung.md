@@ -7,9 +7,9 @@ author: '???'
 original_source_file: 'pamphlet-1-the-pros-and-cons-of-abortion.md'
 ---
 
-<h1 id="das-für-und-wider-der-abtreibung">Broschüre №1: Das für und wider der Abtreibung</h1>
+<h1 id="pamphlet-1-the-pros-and-cons-of-abortion">Broschüre №1: Das für und wider der Abtreibung</h1>
 
-### <h3 id="das-für-und-wider-der-abtreibung-h3">Das für und wider der Abtreibung</h3>
+### <h3 id="court-decisions">Court Decisions</h3>
 
 So viel wurde schon gesagt und wird noch immer gesprochen, geschrieben, via Radio und Fernsehen übermittelt und in den Gerichtsräumen über die Abtreibung erwähnt, daß man geneigt ist zu glauben, daß jegliche weitere Erörterung dieses Themas den meisten unserer Leser höchst unangenehm sei. Wie auch immer, die Entscheidung bezüglich dieser Angelegenheit durch den obersten Gerichtshof der Vereinigten Staaten, welche die Aufhebung aller einschränkenden Abtreibungsgesetze in den verschiedenen Staaten bewirkte, macht den Studenten der tieferen Weisheitslehren des Lebens und Seins auf sehr unangenehme Weise bewußt, daß noch ein großer, sehr notwendiger Bedarf an Aufklärung dahingehend besteht, um jene bedauernswerten Umstände und Konsequenzen in Verbindung mit diesen unchristlichen Praktiken zu verstehen, welche so alarmierende Zwanglosigkeit und Häufig-keit erhalten haben.
 

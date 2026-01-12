@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="organ-transplants">Pamphlet №51: Organ Transplants</h1>
+<h1 id="pamphlet-51-organ-transplants">Pamphlet №51: Organ Transplants</h1>
 
 ### <h3 id="organ-transplants">Organ Transplants</h3>
 

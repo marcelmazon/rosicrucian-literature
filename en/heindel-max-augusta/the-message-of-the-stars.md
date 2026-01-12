@@ -22,8 +22,6 @@ Oceanside, California, 92049, U.S.A.
 
 <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
 
----
-
 - [CHAPTER I: Evolution as Shown in the Zodiac](#chapter-1)
     - [Early Atlantean Epoch [Cancer-Capricorn]](#early-atlantean-epoch) 
     - [Middle Atlantean Epoch [Gemini-Sagittarius]](#middle-atlantean-epoch)

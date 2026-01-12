@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self' 
 ---
 
-<h1 id="the-aquarian-age">Pamphlet №5: The Aquarian Age</h1>
+<h1 id="pamphlet-5-the-aquarian-age">Pamphlet №5: The Aquarian Age</h1>
 
 ### <h3 id="astrological-aspects">Astrological Aspects</h3>
 

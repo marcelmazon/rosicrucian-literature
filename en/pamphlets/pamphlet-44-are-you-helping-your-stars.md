@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="are-you-helping-your-stars">Pamphlet №44: Are You Helping Your Stars?</h1>
+<h1 id="pamphlet-44-are-you-helping-your-stars">Pamphlet №44: Are You Helping Your Stars?</h1>
 
 ### <h3 id="misuse-of-astrology">Misuse of Astrology</h3>
 

@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="mediumship">Pamphlet №28: Mediumship</h1>
+<h1 id="pamphlet-28-mediumship">Pamphlet №28: Mediumship</h1>
 
 ### <h3 id="mediumship">Mediumship</h3>
 
@@ -29,7 +29,7 @@ A medium is a negative or involuntary clairvoyant, having the dense and vital bo
 
 In the case of a trance medium all her experiences take place while the physical body is in a trance. It is the Ego clothed in the mind and desire body which leaves the physical body behind, and the same separation takes place then as in dreamless sleep, with the difference, however, that the physical body is not left tenantless upon the bed. The spirit control usually enters the physical body of the medium, taking possession and using it according to his pleasure often to the great detriment of the medium. For instance, when such a spirit control has been a drunkard or libertine during earth life, it will often use the medium’s body to gratify its craving for liquor, or its base sensual instincts. We cannot too strongly impress upon people that this physical body is our most valuable instrument and that it is very wrong for anyone to abandon it to the mercy of either a hypnotist or a Spirit control.
 
-In regard to earthbound Spirits, it should be remembered that they are in every respect like the hypnotists, except that they are invisible to the victims and have more power over them, because they are looked up to as “higher beings,” “angels,” devoid of evil, and unselfishly aiming to diffuse happiness or wisdom. As a matter of fact, there is no transforming power in death. The sinner does not become a saint nor the ignoramus a Solomon because of death, and it is a pathetic sight to the trained clairvoyant to see the imposition practiced by their unprincipled spirit controls upon their unsuspecting victims, who are so thoroughly unsophisticated that they fail to distinguish the true character of the imposters and accept their inane, goody- goody phrases as sublime wisdom. They have done some good in proving the reality of life after death, but much harm to mediums.
+In regard to earthbound Spirits, it should be remembered that they are in every respect like the hypnotists, except that they are invisible to the victims and have more power over them, because they are looked up to as “higher beings,” “angels,” devoid of evil, and unselfishly aiming to diffuse happiness or wisdom. As a matter of fact, there is no transforming power in death. The sinner does not become a saint nor the ignoramus a Solomon because of death, and it is a pathetic sight to the trained clairvoyant to see the imposition practiced by their unprincipled spirit controls upon their unsuspecting victims, who are so thoroughly unsophisticated that they fail to distinguish the true character of the imposters and accept their inane, goody-goody phrases as sublime wisdom. They have done some good in proving the reality of life after death, but much harm to mediums.
 
 It is to be expected that Spirits of a high ethical nature or great spiritual attainment do not usually control a medium. Rather it is the earthbound and low Spirits who obtain a control over mediumistic persons, and when in possession of the body they may use it to gratify their low passions for drink and sex. Thus they cause a disturbance to the system and a deterioration of the instrument.
 

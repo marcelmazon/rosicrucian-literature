@@ -1,20 +1,20 @@
+--- 
+title: "Pamphlet №4: Aquaria - The Last Hours of a Spy" 
+language: 'en' 
+original_title: "Pamphlet №4: Aquaria - The Last Hours of a Spy" 
+original_language: 'en' 
+author: 'Max Heindel' 
+original_source_file: 'self' 
 ---
-title: "Pamphlet №4: Aquaria - The Last Hours of a Spy"
-language: 'en'
-original_title: "Pamphlet №4: Aquaria - The Last Hours of a Spy"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
----
 
-<h1 id="aquaria-the-last-hours-of-a-spy">Pamphlet №4: Aquaria - The Last Hours of a Spy</h1>
+<h1 id="pamphlet-4-aquaria-the-last-hours-of-a-spy">Pamphlet №4: Aquaria - The Last Hours of a Spy</h1>
 
-<p>by Max Heindel</p>
+by Max Heindel
 
-<h3 id="aquaria-the-last-hours-of-a-spy">Aquaria - The Last Hours of a Spy</h3>
+### <h3 id="aquaria-the-last-hours-of-a-spy">Aquaria - The Last Hours of a Spy</h3>
 
-```
-“There are more things in heaven and Earth than are dreamt of in your philosophy.”
+``` 
+“There are more things in heaven and Earth than are dreamt of in your philosophy.” 
 ```
 
 He was sitting in the ruined garden of an ancient monastery looking at the confusion of flowers and weeds, children of care and carelessness; the latter seemed to be gaining the upper hand since war had driven the original owners away, for the soldiers who now camped there had no time for flowers.

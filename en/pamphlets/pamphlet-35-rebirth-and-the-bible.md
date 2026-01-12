@@ -1,20 +1,13 @@
 ---
-
 title: "Pamphlet №35: Rebirth and the Bible"
-
 language: "en"
-
 original_title: "Pamphlet №35: Rebirth and the Bible"
-
 original_language: "en"
-
 author: '???'
-
 original_source_file: 'self'
-
 ---
 
-<h1 id="rebirth-and-the-bible">Pamphlet №35: Rebirth and the Bible</h1>
+<h1 id="pamphlet-35-rebirth-and-the-bible">Pamphlet №35: Rebirth and the Bible</h1>
 
 ### <h3 id="elijah-became-john-the-baptist">Elijah Became John the Baptist</h3>
 

@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="homosexuality">Pamphlet №54: Homosexuality</h1>
+<h1 id="pamphlet-54-homosexuality">Pamphlet №54: Homosexuality</h1>
 
 ### <h3 id="homosexuality">Homosexuality</h3>
 

@@ -1,13 +1,13 @@
 ---
-title: "Pamphlet №20: THE FUNERAL SERVICE"
+title: "Pamphlet №20: The Funeral Service"
 language: 'en'
-original_title: "Pamphlet №20: THE FUNERAL SERVICE"
+original_title: "Pamphlet №20: The Funeral Service"
 original_language: 'en'
 author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-funeral-service">Pamphlet №20: THE FUNERAL SERVICE</h1>
+<h1 id="pamphlet-20-the-funeral-service">Pamphlet №20: The Funeral Service</h1>
 
 ### <h3 id="the-funeral-service">THE FUNERAL SERVICE</h3>
 
@@ -63,9 +63,8 @@ Leave thy low vaulted past!
 Let each new temple, nobler than the last,
 Shut thee from heaven with a dome more vast,
 Till thou at length art free,
-```
-
 Leaving thine outgrown shell by life’s unresting sea!”
+```
 
 We know that our friend will come back sometime, somewhere, with a better and nobler body than the garment which he (or she) has discarded. We know that under the immutable law of association he (or she) must return so that by repeated lives and friendships his (or her) love nature may be widened and deepened into an ocean of LOVE.
 

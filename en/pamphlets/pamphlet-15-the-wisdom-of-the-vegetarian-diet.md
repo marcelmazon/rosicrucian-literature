@@ -7,9 +7,9 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-wisdom-of-the-vegetarian-diet">Pamphlet №15: The Wisdom of the Vegetarian Diet</h1>
+<h1 id="pamphlet-15-the-wisdom-of-the-vegetarian-diet">Pamphlet №15: The Wisdom of the Vegetarian Diet</h1>
 
-### <h3 id="the-wisdom-of-the-vegetarian-diet-h3">The Wisdom of the Vegetarian Diet</h3>
+### <h3 id="the-wisdom-of-the-vegetarian-diet">The Wisdom of the Vegetarian Diet</h3>
 
 Most people feel that a meal without meat is incomplete, for from time immemorial it has been regarded as an axiom that meat is the most strengthening food we have. All other foodstuffs have been looked upon as mere accessories to the one or more kinds of flesh on the menu. Nothing could be more erroneous; science has proven by experiments that invariably the nourishment obtained from vegetables has a greater sustaining power, and the reason is easy to see when we look at the matter from the occult side.
 

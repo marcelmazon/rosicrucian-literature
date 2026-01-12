@@ -1,13 +1,13 @@
 ---
-title: "Children"
+title: "Pamphlet №7: Children"
 language: 'en'
-original_title: "Children"
+original_title: "Pamphlet №7: Children"
 original_language: 'en'
 author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="children">Pamphlet №7: Children</h1>
+<h1 id="pamphlet-7-children">Pamphlet №7: Children</h1>
 
 ### <h3 id="children">Children</h3>
 

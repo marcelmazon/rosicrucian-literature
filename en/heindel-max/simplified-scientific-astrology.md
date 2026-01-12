@@ -20,7 +20,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, U.S.A.  
 
-## Table of Contents
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [PART I](#part-1)
     - [Introduction](#introduction)

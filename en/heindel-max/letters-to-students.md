@@ -3,7 +3,7 @@ title: "Letters to Students"
 language: 'en'
 original_title: "Letters to Students"
 original_language: 'en'
-author: 'Max Heindel'
+author: "Max Heindel"
 original_source_file: 'self'
 ---
 
@@ -433,19 +433,7 @@ Looking over the last month's lesson, the most important points are the great an
 
 Let the diagram below represent the epochs through which the spirit descends and ascends, also the worlds and their corresponding bodies--then the relative connection of the various factors will be plain. 
 
---------------------------------------------------------------
-      1st Epoch                                                 7th Epoch
---------------------------------------------------------------
-          2nd Epoch                                    6th Epoch
---------------------------------------------------------------
-                3rd Epoch                        5th Epoch
-
-          Bodies separated into          Spirits separated into
-        sexes-male and female.        sexes--statecraft and priestcraft.
---------------------------------------------------------------
-                                    4th Epoch
-                                (Turning Point)
---------------------------------------------------------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 In Lemuria, the land of the Third Epoch, mankind was separated into sexes--male and female. At that time they were spiritual beings reaching downwards into materiality, and the pioneers listened eagerly to the "gospel of the body" which they sensed dimly, but learned to know as time went on and the spiritual world faded from sight. Then the Lucifer Spirits were the teachers of the woman (Eve), and Jehovah addressed himself to man (Adam). Women was then more advanced than man along material lines for we were then upon the descending arc of the evolutionary path. 
 
@@ -595,9 +583,9 @@ If we feel that this is true, and if we are anxious to reach the highest degree 
 
 While I am suggesting immediate steps towards attainment, it may be in season to call attention of students to the fact that when they have been six months (*) on the correspondence list as students, they become eligible to apply for admission to the Inner School; and though the esoteric lessons in healing issued to probationers contain only a faint outline of the teachings given at Headquarters, they are a very material aid to the aspiring soul. 
 
-On August 6th at 2:00 P.M., we are going to lay the foundation for the nucleus of our Sanitarium, so that we may commence forthwith to care for the sick and give our students practical experience. Please join us in prayer for the success of the work. More details will be given in the Echoes which we shall publish on the 10th of each month in the future. 
-
 (*) The time is now two years. 
+
+On August 6th at 2:00 P.M., we are going to lay the foundation for the nucleus of our Sanitarium, so that we may commence forthwith to care for the sick and give our students practical experience. Please join us in prayer for the success of the work. More details will be given in the Echoes which we shall publish on the 10th of each month in the future. 
 
 ### <h3 id="letter-34">LETTER NO. 34 - September, 1913 - A PLEA FOR PURITY</h3>
 

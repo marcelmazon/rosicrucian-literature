@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="responsibility-and-the-spiritual-aspirant">Pamphlet №37: Responsibility and the Spiritual Aspirant</h1>
+<h1 id="pamphlet-37-responsibility-and-the-spiritual-aspirant">Pamphlet №37: Responsibility and the Spiritual Aspirant</h1>
 
 ### <h3 id="responsibility-and-the-spiritual-aspirant">Responsibility and the Spiritual Aspirant</h3>
 

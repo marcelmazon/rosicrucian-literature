@@ -1,15 +1,15 @@
 --- 
-title: "Pamphlet №26: THE LAW AND OUR NEEDS" 
+title: "Pamphlet №26: The Law and our Needs" 
 language: 'en' 
-original_title: "Pamphlet №26: THE LAW AND OUR NEEDS" 
+original_title: "Pamphlet №26: The Law and our Needs" 
 original_language: 'en' 
 author: '???' 
 original_source_file: 'self' 
 ---
 
-<h1 id="the-law-and-our-needs">Pamphlet №26: THE LAW AND OUR NEEDS</h1>
+<h1 id="pamphlet-26-the-law-and-our-needs">Pamphlet №26: The Law and our Needs</h1>
 
-### <h3 id="the-law-and-our-needs">THE LAW AND OUR NEEDS</h3>
+### <h3 id="the-law-and-our-needs">The Law and our Needs</h3>
 
 The Law of Consequence is undoubtedly the most fundamental law in human destiny, but we have to remember that it is not a static law. We constantly use it to set new causes into operation which will create new destiny to balance and improve the old destiny brought from the past. The Law of Consequence is intimately tied up with the Law of Rebirth, sometimes called the Law of Reincarnation. We have all lived many lives on Earth in the past, and we shall live many more in the future. In each of these past lives we have set various causes into operation, some of which are only now in the present life bringing their effects into manifestation. These effects are called karma, or debts of destiny. Thus we are paying debts from the past, and we also are reaping rewards from the past. We call these, respectively, bad and good destiny.
 
@@ -25,7 +25,7 @@ Therefore, if we wish to change our environment and our fortune, we must <em>cha
 
 The destructive desires and emotions such as anger, hate, revenge, resentment—but particularly anger—disrupt and disarrange the thought forms and the thought creations of good which we have previously made, and thereby delay their materialization. When we have yielded to anger or revenge, for instance, and dissipated some mental creation of good, the corresponding thought form configuration has to reassemble itself before materialization can proceed. This takes time and delays the period when there might have been a favorable change in our environment or general fortune. Therefore, we see the great importance of watching our emotions.
 
-Someone may ask: “How can I avoid harmful thoughts and desires and keep them out of my mind? It seems almost impossible at times to keep them from slipping in.” The answer is, <em>thought substitution</em>. It is based on the principle that two thoughts cannot occupy the mind at the same time, and is similar to the principle of physics that two bodies cannot occupy the same space at the same time. When we are bothered by harmful thoughts of any kind, it is well to s<em>ubstitute another thought</em> and concentrate on it so positively that the harmful thought cannot get in. This answer is very simple and only requires practice to make it comparatively easy. Harmful desires are excluded from the mind by the same process; thus, by substituting some constructive thought in place of the thought of wrong desire, the latter is very nearly shut out.
+Someone may ask: “How can I avoid harmful thoughts and desires and keep them out of my mind? It seems almost impossible at times to keep them from slipping in.” The answer is, <em>thought substitution</em>. It is based on the principle that two thoughts cannot occupy the mind at the same time, and is similar to the principle of physics that two bodies cannot occupy the same space at the same time. When we are bothered by harmful thoughts of any kind, it is well to <em>substitute another thought</em> and concentrate on it so positively that the harmful thought cannot get in. This answer is very simple and only requires practice to make it comparatively easy. Harmful desires are excluded from the mind by the same process; thus, by substituting some constructive thought in place of the thought of wrong desire, the latter is very nearly shut out.
 
 The next potent subject which we will consider is the existence of the <em>Inner Power</em>. This is something about which most people have no knowledge, and something which they usually do not even suspect the existence of. Nevertheless, the Inner Power is a stupendous factor in human life and the one upon which general success in life is most dependent. The Inner Power is the Ego, the Spirit, the Higher Self, the vitalizing Life which comes from God, and the essential power that keeps man going. The Inner Power is the God Within, and the God Within is part of the God Without, the God of the Universe. The Inner Power is our personal link with God. Therefore, we can see how powerful is this inner, higher self. It is omnipotent because it is a part of the God of the Universe. This omnipotence, however, is more or less latent in humanity at the present time. It is the function of evolution to unfold it into positive, dynamic omnipotence. This is what we are gradually learning to do in our daily lives and by our succession of rebirths.
 

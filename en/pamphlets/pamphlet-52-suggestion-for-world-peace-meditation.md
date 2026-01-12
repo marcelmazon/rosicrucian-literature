@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="suggestion-for-world-peace-meditation">Pamphlet №52: Suggestion For World Peace Meditation</h1>
+<h1 id="pamphlet-52-suggestion-for-world-peace-meditation">Pamphlet №52: Suggestion For World Peace Meditation</h1>
 
 ### <h3 id="suggestion-for-world-peace-meditation">Suggestion For World Peace Meditation</h3>
 
@@ -21,4 +21,34 @@ If preferred, the Rosicrucian Fellowship Prayer may be used in response form in 
 
 ### <h3 id="the-rosicrucian-fellowship-prayer">The Rosicrucian Fellowship Prayer</h3>
 
-Not more of Light we ask, O God, But eyes to see what is; Not sweeter songs, but ears to hear The present melodies; Not greater strength, but how to use The power that we possess; Not more of love, but skill to turn A frown to a caress; Not more of joy, but how to feel It kindling presence near, To give to others all we have Of courage and of cheer. No other gift, dear God, we ask, But only sense to see How best the precious gifts to use We have received from Thee. Give us all fears to dominate, All holy joys to know, To be the friends we wish to be, To speak the truth we know; To love the pure, to seek the good, To lift with all our might, All souls to dwell in harmony In Freedom’s perfect light.
+```
+Not more of Light we ask, O God, 
+But eyes to see what is; 
+Not sweeter songs, but ears to hear 
+The present melodies; 
+
+Not greater strength, but how to use 
+The power that we possess; 
+Not more of love, but skill to turn 
+A frown to a caress; 
+
+Not more of joy, but how to feel 
+It kindling presence near, 
+To give to others all we have 
+Of courage and of cheer. 
+
+No other gift, dear God, we ask, 
+But only sense to see 
+How best the precious gifts to use 
+We have received from Thee. 
+
+Give us all fears to dominate, 
+All holy joys to know, 
+To be the friends we wish to be, 
+To speak the truth we know; 
+
+To love the pure, to seek the good, 
+To lift with all our might, 
+All souls to dwell in harmony 
+In Freedom’s perfect light.
+```

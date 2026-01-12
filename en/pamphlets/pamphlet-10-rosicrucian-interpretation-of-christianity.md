@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="rosicrucian-interpretation-of-christianity">Pamphlet №10: Rosicrucian Interpretation of Christianity</h1>
+<h1 id="pamphlet-10-rosicrucian-interpretation-of-christianity">Pamphlet №10: Rosicrucian Interpretation of Christianity</h1>
 
 ### <h3 id="rosicrucian-interpretation-of-christianity">Rosicrucian Interpretation of Christianity</h3>
 

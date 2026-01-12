@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="eastern-and-western-spiritual-alternatives">Pamphlet №16: Eastern and Western Spiritual Alternatives</h1>
+<h1 id="pamphlet-16-eastern-and-western-spiritual-alternatives">Pamphlet №16: Eastern and Western Spiritual Alternatives</h1>
 
 ### <h3 id="scientific-materialism">Scientific Materialism</h3>
 

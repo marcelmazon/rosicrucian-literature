@@ -9,7 +9,7 @@ original_source_file: "pamphlet-7-children.md"
 
 <h1 id="pamphlet-7-children">Broschüre №7: Kinder</h1>
 
-### <h3 id="children-h3">Kinder</h3>
+### <h3 id="children">Kinder</h3>
 
 Das Großziehen und die Erziehung unserer Kinder ist der wichtigste Beitrag, den wir zur menschlichen Entwicklung beisteuern können. Weise Eltern, die dem Kind die bestmöglichen Vorteile geben möchten, beginnen vor der Geburt des Kindes, sogar vor der Empfängnis durch Beten ihre Gedanken auf die Aufgabe, die sie angehen wollen, auszurichten. Sie achten darauf, daß die Vereinigung, die das Keimen verursachen wird, dann stattfindet, wenn der Einfluß der Sterne günstig ist; wenn der Mond durch die Zeichen geht, die einen starken und gesunden Körper befördern. Natürlich sind die Körper der künftigen Eltern im bestmöglichen physischen, moralischen und geistigen Zustand.
 

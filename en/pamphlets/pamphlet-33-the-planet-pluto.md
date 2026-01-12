@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-planet-pluto">Pamphlet №33: The Planet Pluto</h1>
+<h1 id="pamphlet-33-the-planet-pluto">Pamphlet №33: The Planet Pluto</h1>
 
 ### <h3 id="the-planet-pluto">The Planet Pluto</h3>
 

@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="understanding-the-animals">Pamphlet №3: Understanding the Animals</h1>
+<h1 id="pamphlet-3-understanding-the-animals">Pamphlet №3: Understanding the Animals</h1>
 
 ### <h3 id="why-animals-seem-to-think">Why Animals Seem to Think</h3>
 
@@ -98,7 +98,8 @@ Ella Wheeler Wilcox offers the rightful claim of the entire animal kingdom in th
 ```
 I am the voice of the voiceless; 
 Through me the dumb shall speak, 
-Till a deaf world’s ear Shall be made to hear 
+Till a deaf world’s ear 
+Shall be made to hear 
 The wrongs of the wordless weak. 
 The same force formed the sparrow 
 That fashioned man the King. 

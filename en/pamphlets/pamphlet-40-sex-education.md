@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="sex-education">Pamphlet №40: Sex Education</h1>
+<h1 id="pamphlet-40-sex-education">Pamphlet №40: Sex Education</h1>
 
 ### <h3 id="sex-education">Sex Education</h3>
 
@@ -43,7 +43,7 @@ Parents who are properly informed concerning the true nature and function of the
 
 “The power of passion to degenerate those who indulge in it is illustrated in the case of the apes, which have been held back and have degenerated into animal-like forms because of their action in abusing the creative force. Let us therefore continue steadfastly upon the path of purity. If we are tempted at any time by unclean thoughts, let us at once turn our minds to another subject far removed from sensuality. Above all, let us respect the laws of our country which require the ceremonial of marriage prior to union; for though the words of the marriage ceremony do not mate people, it is, nevertheless, meet that we should not offend the common decencies by living together without wedlock. Those above the law render perfect obedience as Christ did, for when we comply with all laws without rebellion because it is right to do so, then we have risen above the law and are no longer in bondage.”
 
-### <h3 id="transmutation">TRANSMUTATION</h3>
+### <h3 id="transmutation">Transmutation</h3>
 
 Instead of seeking physical gratification when conscious of the surging impulses of the lower nature, if the individual will focus his or her thoughts and imagination upon something he or she desires to create–a poem, an invention, a picture, a musical composition, or some material demonstration such as a home or a new business venture–he or she will find that a double purpose is served. The objective demonstration will be accelerated and the process of transmutation or regeneration within his or her body will, at the same time, be noticeably stimulated. Physical exercise alone is also of help, but when accompanied by creative thoughts is more effective.
 

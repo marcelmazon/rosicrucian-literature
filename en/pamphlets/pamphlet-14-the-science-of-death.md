@@ -1,13 +1,13 @@
 ---
-title: "Christ or Buddha?"
+title: "Pamphlet №14: The Science of Death"
 language: 'en'
-original_title: "Christ or Buddha?"
+original_title: "Pamphlet №14: The Science of Death"
 original_language: 'en'
 author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-<h1 id="the-science-of-death">Pamphlet №14: The Science of Death</h1>
+<h1 id="pamphlet-14-the-science-of-death">Pamphlet №14: The Science of Death</h1>
 
 ### <h3 id="fear-of-death">Fear of Death</h3>
 

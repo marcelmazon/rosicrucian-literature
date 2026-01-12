@@ -1,5 +1,5 @@
 ---
-title: 'THe Rosicrucian Christianity Lectures'
+title: 'The Rosicrucian Christianity Lectures'
 language: 'en'
 original_title: "The Rosicrucian Christianity Lectures"
 original_language: 'en'
@@ -16,7 +16,7 @@ International Headquarters Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-<h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 The lectures here presented in book form were first written in twenty lectures and delivered during the month of November, 1908, in Columbus, Ohio, by Max Heindel. He also mimeographed them and distributed copies to all who attended his lectures in that city, and in other cities. After his lectures in Seattle, Washington, a friend, Mr. William M. Patterson, traveled with him to Chicago, Illinois, where he not only financed the publishing, but also assisted Mr. Heindel in proofreading both The Rosicrucian Cosmo-Conception and these Twenty Lectures. The latter were then printed in paper-covered pamphlets while the Cosmo-Conception was bound in cloth. 
 
@@ -576,7 +576,7 @@ When the break is between the Ego and the mind, the latter takes charge of the t
 
 The object lesson to be learned from a knowledge of these matters is that we must remain our own masters and never under any pretext allow ourselves to be hypnotized or controlled by an outside agency; also that self-mastery is our goal, and not mastery over others. 
 
-### <h3 id="lecture-5">LECTURE FIVE: DEATH: AND LIFE IN PURGATORY</h3>
+### <h3 id="lecture-5">LECTURE FIVE: DEATH AND LIFE IN PURGATORY</h3>
 
 Amid all the uncertainties which are the characteristics of the world, there is but one certainty--Death. At one time or another, after a short or a long life, comes this termination to the material phrase of our existence which is a birth into a new world, as that which we term "birth" is, in the beautiful words of Wordsworth, a forgetting past. 
 

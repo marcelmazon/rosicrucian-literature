@@ -19,7 +19,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-<h3 id="preface">PREFACE</h3>
+### <h3 id="preface">PREFACE</h3>
 
 The contents of this book were sent in lesson form to students from time to time by the author. They comprise six of his ninety-nine epistles. The principal feature of these lessons is the mystic birth and death of the great Christ Spirit, given from the viewpoint of a seer. The author received these rare gems of truth through divine illumination. The most pronounced materialist must become convinced of the divinity of man after reading this writer's revelations on the inner significance of the Christ and the principles which He proclaimed. 
 

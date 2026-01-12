@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="effects-of-alcohol-drugs-and-tobacco">Pamphlet №2: Effects of Alcohol, Drugs, and Tobacco</h1>
+<h1 id="pamphlet-2-effects-of-alcohol-drugs-and-tobacco">Pamphlet №2: Effects of Alcohol, Drugs, and Tobacco</h1>
 
 ### <h3 id="effects-of-alcohol-drugs-and-tobacco">Effects of Alcohol, Drugs, and Tobacco</h3>
 

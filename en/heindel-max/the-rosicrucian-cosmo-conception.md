@@ -5,10 +5,9 @@ original_title: "The Rosicrucian Cosmo-Conception"
 original_language: 'en'
 author: 'Max Heindel'
 original_source_file: 'self'
-edition_source: '28th Edition'
 ---
 
-# The Rosicrucian Cosmo-Conception
+<h1 id="the-rosicrucian-cosmo-conception">The Rosicrucian Cosmo-Conception</h1>
 
 or Mystic Christianity
 
@@ -31,7 +30,7 @@ International Headquarters
 Mt. Ecclesia  
 Oceanside, California, 91054, USA  
 
-## List of Contents
+### <h3 id="list-of-contents">List of Contents</h3>
 
 - [Creed or Christ](#creed-or-christ)
 - [A Word to the Wise](#a-word-to-the-wise)
@@ -112,7 +111,7 @@ Oceanside, California, 91054, USA
     - [The Races and Their Leaders](#the-races-and-their-leaders)
     - [Influence of Mercury](#influence-of-mercury)
     - [The Lemurian Race](#the-lemurian-race)
-    - [The Fall of Man](#the-fall-of-man)
+    - [The Fall of Man](#the-fall-of-man-1)
     - [The Lucifer Spirits](#the-lucifer-spirits)
     - [The Atlantean Epoch](#the-atlantean-epoch)
     - [The Aryan Epoch](#the-aryan-epoch)
@@ -133,11 +132,11 @@ Oceanside, California, 91054, USA
     - [Adam's Rib](#adams-rib)
     - [Guardian Angels](#guardian-angels)
     - [Mixing Blood in Marriage](#mixing-blood-in-marriage)
-    - [The Fall of Man](#the-fall-of-man)
+    - [The Fall of Man](#the-fall-of-man-2)
     - [Diagram 13. The Beginning and End of Sex](#diagram-13-the-beginning-and-end-of-sex)
 - [PART III: MAN'S FUTURE DEVELOPMENT AND INITIATION](#part-3)
   - [Diagram. The Seven Days of Creation](#diagram-the-seven-days-of-creation)
-  - [CHAPTER XV - Christ and His Mission](#chapter-15-christ-and-his-mission)
+  - [CHAPTER XV - Christ and His Mission](#chapter-15)
     - [The Evolution of Religion](#the-evolution-of-religion)
     - [Jesus and Christ-Jesus](#jesus-and-christ-jesus)
     - [Diagram 14. The Father, the Son and the Holy Spirit](#diagram-14-the-father-the-son-and-the-holy-spirit)
@@ -191,8 +190,9 @@ Oceanside, California, 91054, USA
   - [Addendum C: Footnote to Chapter XIII (Regarding Race)](#addendum-c)
   - [Addendum D: Footnote to "Our Buildings"](#addendum-d)
 
-### CREED OR CHRIST
+### <h3 id="creed-or-christ">CREED OR CHRIST</h3>
 
+```
 No man loves God who hates his kind,  
 Who tramples on his brother's heart and soul;  
 Who seeks to shackle, cloud, or fog the mind  
@@ -234,6 +234,7 @@ There's but one way that leads to heaven above -
 That way is human sympathy and love.  
 
 -- Max Heindel.
+```
 
 ### <h3 id="a-word-to-the-wise">A Word to the Wise</h3>
 
@@ -271,10 +272,9 @@ If we said that the vital body is built of prisms instead of points, it would ha
 
 Other new and important discoveries have also been made; for instance, we know now that the Silver Cord is grown anew in each life, that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that both parts meet in the seed atom of the vital body in the solar plexus, and that this union of the higher and lower vehicles causes the quickening. Further development of the cord between the heart and solar plexus during the first seven years has an important bearing on the mystery of childlife, likewise its fuller growth from the liver to the solar plexus, which takes place during the second septenary period, is a contributory cause of adolescence. Completion of the Silver Cord marks the end of childlife, and from that time the solar energy which enters through the spleen and is tinted by refraction through the prismatic seed atom of the vital body located in the solar plexus, commences to give a distinctive and individual coloring to the aura which we observe in adults.
 
-## <h2 id="part-1">PART I: Man's Present Constitution and
-Method of Development</h2>
+<h2 id="part-1">PART I: Man's Present Constitution and Method of Development</h2>
 
-### <h3 id="introduction">INTRODUCTION</#h3>
+### <h3 id="introduction">INTRODUCTION</h3>
 
 The Western world is undoubtedly the vanguard of the human race, and, for reasons given in the following pages, it is held by the Rosicrucian that neither Judaism nor "popular Christianity," but true Esoteric Christianity is to be its world-religion. 
 
@@ -536,7 +536,7 @@ The "Region of Archetypal Forces" is the fourth division of the Region of Concre
 
 As the name implies, this Region is the home of the Archetypal Forces which direct the activity of the archetypes in the Region of Concrete Thought. From this Region Spirit works on matter in a formative manner. Diagram 1 shows the idea in a schematic way, the forms in the lower World being reflections of the Spirit in the higher Worlds. The fifth Region, which is the one nearest to the focusing point on the Spirit side, reflects itself in the third Region, which is nearest the focusing point on the Form side. The sixth Region reflects itself in the second and the seventh reflects itself in the first.
 
-The whole of the Region of Abstract thought is reflected in the World of Desire; the World of Life Spirit in the Etheric Region of the Physical World; and the World of Divine Spirit in the Chemical Region of the Physical World
+The whole of the Region of Abstract thought is reflected in the World of Desire; the World of Life Spirit in the Etheric Region of the Physical World; and the World of Divine Spirit in the Chemical Region of the Physical World.
 
 Diagram 2 will give a comprehensive idea of the seven Worlds which are the sphere of our development, but we must carefully keep in mind that these Worlds are not placed one above another, as shown in the diagram. They interpenetrate--that is to say, that as in the case where the relation of the Physical World and the Desire World was compared, where we likened the Desire World to the lines for force in freezing water and the water itself to the Physical World, in the same way we may think of the lines of force as being any of the seven Worlds, and the water, as in our illustration, would correspond to the next denser World in the scale. Another illustration may perhaps make the subject clearer. 
 
@@ -732,19 +732,19 @@ From these mental images we form our conclusions, in the substance of the Region
 
 The mind is like the projecting lens of a stereopticon. It projects the image in one of three directions, according to the will of the thinker, which ensouls the thought-form. 
 
-1) It may be projected against the desire body in an endeavor to arouse feeling which will lead to immediate action. 
+1\. It may be projected against the desire body in an endeavor to arouse feeling which will lead to immediate action. 
 
-    a. If the thought awakens Interest, one of the twin forces, Attraction or Repulsion, will be stirred up. 
+a. If the thought awakens Interest, one of the twin forces, Attraction or Repulsion, will be stirred up. 
 
-    If Attraction, the centripetal force, is aroused, it seizes the thought, whirls it into the desire body, endows the image with added life and clothes it with desire-stuff. Then the thought is able to act on the etheric brain, and propel the vital force through the appropriate brain centers and nerves to the voluntary muscles which perform the necessary action. Thus the force in the thought is expended and the image remains in the ether of the vital body as memory of the act and the feeling that caused it. 
+If Attraction, the centripetal force, is aroused, it seizes the thought, whirls it into the desire body, endows the image with added life and clothes it with desire-stuff. Then the thought is able to act on the etheric brain, and propel the vital force through the appropriate brain centers and nerves to the voluntary muscles which perform the necessary action. Thus the force in the thought is expended and the image remains in the ether of the vital body as memory of the act and the feeling that caused it. 
 
-    b. Repulsion is the centrifugal force and if that is aroused by the thought there will be a struggle between the spiritual force (the will of the man) within the thought-form, and the desire body. This is the battle between conscience and desire, the higher and the lower nature. The spiritual force, in spite of resistance will seek to clothe the thought-form in the desire-stuff needed to manipulate the brain and muscles. The force of Repulsion will endeavor to scatter the appropriated material and oust the thought. If the spiritual energy is strong it may force its way through to the brain centers and hold its clothing of desire-stuff while manipulating the vital force, thus compelling action, and will then leave upon the memory a vivid impression of the struggle and the victory. If the spiritual energy is exhausted before action has resulted, it will be overcome by the force of Repulsion, and will be stored in the memory, as are all other thought-forms when they have expended their energy.
+b. Repulsion is the centrifugal force and if that is aroused by the thought there will be a struggle between the spiritual force (the will of the man) within the thought-form, and the desire body. This is the battle between conscience and desire, the higher and the lower nature. The spiritual force, in spite of resistance will seek to clothe the thought-form in the desire-stuff needed to manipulate the brain and muscles. The force of Repulsion will endeavor to scatter the appropriated material and oust the thought. If the spiritual energy is strong it may force its way through to the brain centers and hold its clothing of desire-stuff while manipulating the vital force, thus compelling action, and will then leave upon the memory a vivid impression of the struggle and the victory. If the spiritual energy is exhausted before action has resulted, it will be overcome by the force of Repulsion, and will be stored in the memory, as are all other thought-forms when they have expended their energy.
 
-    c. If the thought-form meets the withering feeling of Indifference it depends upon the spiritual energy contained in it whether it will be able to compel action, or simply leave a weak impress upon the Reflecting Ether of the vital body after its kinetic energy has been exhausted. 
+c. If the thought-form meets the withering feeling of Indifference it depends upon the spiritual energy contained in it whether it will be able to compel action, or simply leave a weak impress upon the Reflecting Ether of the vital body after its kinetic energy has been exhausted. 
 
-2) Where no immediate action is called for by the mental images of impacts from without, these may be projected directly upon the Reflecting Ether, together with the thoughts occasioned by them, to be used at some future time. The spirit, working through the mind, has instant access to the storehouse of conscious memory and may at any time resurrect any of the pictures found there, endue them with new spiritual force, and project them upon the desire body to compel action. Each time such a picture is thus used it will gain in vividness, strength and efficiency, and will compel action along its particular line grooves, and produces the phenomenon of thought, "gaining" or "growing" upon us by repetition. 
+2\. Where no immediate action is called for by the mental images of impacts from without, these may be projected directly upon the Reflecting Ether, together with the thoughts occasioned by them, to be used at some future time. The spirit, working through the mind, has instant access to the storehouse of conscious memory and may at any time resurrect any of the pictures found there, endue them with new spiritual force, and project them upon the desire body to compel action. Each time such a picture is thus used it will gain in vividness, strength and efficiency, and will compel action along its particular line grooves, and produces the phenomenon of thought, "gaining" or "growing" upon us by repetition. 
 
-3) A third way of using a thought-form is when the thinker projects it toward another mind to act as a suggestion, to carry information, etc., as in thought-transference, or it may be directed against the desire body of another person to compel action, as in the case of a hypnotist influencing a victim at a distance. It will then act in precisely the same manner as if it were the victim's own thought. If in line with his proclivities it will act as per paragraph 1a. If contrary to his nature, as described in 1b or 1c. 
+3\. A third way of using a thought-form is when the thinker projects it toward another mind to act as a suggestion, to carry information, etc., as in thought-transference, or it may be directed against the desire body of another person to compel action, as in the case of a hypnotist influencing a victim at a distance. It will then act in precisely the same manner as if it were the victim's own thought. If in line with his proclivities it will act as per paragraph 1a. If contrary to his nature, as described in 1b or 1c. 
 
 When the work designed for such a projected thought-form has been accomplished, or its energy expended in vain attempts to achieve its object, it gravitates back to its creator, bearing with it the indelible record of the journey. Its success or failure is imprinted on the negative atoms of the Reflecting Ether of its creator's vital body, where it forms that part of the record of the thinker's life and action which is sometimes called the subconscious mind. 
 
@@ -888,8 +888,11 @@ When the purgatorial existence is over the purified spirit rises into the first 
 
 It should be ever borne in mind that the power of giving is not vested chiefly in the monied man. Indiscriminate giving of money may even be an evil. It is well to give money for a purpose we are convinced is good, but service is a thousandfold better. As Whitman says, 
 
+```
 Behold! I do not give lectures, or a little charity;
 When I give, I give myself.
+```
+
 A kind look, expression of confidence, a sympathetic and loving helpfulness--these can be given by all regardless of wealth. Moreover, we should particularly endeavor to help the needy one to help himself, whether physically, financially, morally, or mentally, and not cause him to become dependent upon us or others. 
 
 The ethics of giving, with the effect on the giver as a spiritual lesson, are most beautifully shown in Lowell's "The Vision of Sir Launfal." The young and ambitious knight, Sir Launfal, clad in shining armor and astride a splendid charger, is setting out from his castle to seek The Holy Grail. On his shield gleams the cross, the symbol of the benignity and tenderness of Our Savior, the meek and lowly One, but the knight's heart is filled with pride and haughty disdain for the poor and needy. He meets a leper asking alms and with a contemptuous frown throws him a coin, as one might cast a bone to a hungry cur, but 
@@ -1167,11 +1170,11 @@ In the previous chapter we have, to some extent, explained one of these three th
 
 Any great law of nature must necessarily be in harmony with all her other laws. Therefore it may be very helpful to the inquirer to examine these theories in their relation to what are admitted by all parties to be "known laws of nature," as observed in that part of our universe with which we are more familiar. To this end we will first state the three theories: 
 
-1. The Materialistic Theory holds that life is a journey from the womb to the tomb; that mind is the result of certain correlations of matter; than man is the highest intelligence in the Cosmos; and, that his intelligence perishes when the body disintegrates at death. 
+1\. The Materialistic Theory holds that life is a journey from the womb to the tomb; that mind is the result of certain correlations of matter; than man is the highest intelligence in the Cosmos; and, that his intelligence perishes when the body disintegrates at death. 
 
-2. The Theory of Theology asserts that at each birth a newly-created soul enters the arena of life fresh from the hand of God, passing from an invisible state through the gate of birth into visible existence; that at the end of one short span of life in the material world it passes out through the gate of death into the invisible beyond, whence it returns no more; that its happiness or misery there is determined for all eternity by its actions during the infinitesimal period intervening between birth and death. 
+2\. The Theory of Theology asserts that at each birth a newly-created soul enters the arena of life fresh from the hand of God, passing from an invisible state through the gate of birth into visible existence; that at the end of one short span of life in the material world it passes out through the gate of death into the invisible beyond, whence it returns no more; that its happiness or misery there is determined for all eternity by its actions during the infinitesimal period intervening between birth and death. 
 
-3. The Theory of Rebirth teaches that each soul is an integral part of God, enfolding all divine possibilities as the seed enfolds the plant; that by means of repeated existences in an earthly body of gradually improving quality, the latent possibilities are slowly developed into dynamic powers; that none are lost by this process, but that all mankind will ultimately attain the goal of perfection and reunion with God. 
+3\. The Theory of Rebirth teaches that each soul is an integral part of God, enfolding all divine possibilities as the seed enfolds the plant; that by means of repeated existences in an earthly body of gradually improving quality, the latent possibilities are slowly developed into dynamic powers; that none are lost by this process, but that all mankind will ultimately attain the goal of perfection and reunion with God. 
 
 The first of these theories is monistic. It seeks to explain all facts of existence as processes within the material world. The two other theories agree in being dualistic, that is, they ascribe some of the facts and phases of existence to a superphysical, invisible state, but they differ widely on other points. 
 
@@ -1399,7 +1402,7 @@ First then did the authorities take heed of his constant ravings about his wife 
 
 He then produced photographs of himself and his wife, and at the suggestion of Mr. X. they were mixed with a number of other photographs and shown to the little girl, who unhesitatingly picked out the photographs of both her alleged parents, although the photograph shown was very different from the present appearance of Mr. Roberts. 
 
-## <h2 id="part-2">PART II. COSMOGENESIS AND ANTHROPOGENESIS</h2>
+<h2 id="part-2">PART II. COSMOGENESIS AND ANTHROPOGENESIS</h2>
 
 ### <h3 id="chapter-5">CHAPTER V: THE RELATION OF MAN TO GOD</h3>
 
@@ -1783,17 +1786,17 @@ In the seventh Revolution of the Sun Period of Lords of the flame reappeared to 
 
 Thus at the beginning of the Moon Period there were the following classes: 
 
-1. The Pioneers who had successfully passed through the Saturn and the Sun Periods. They had dense and vital bodies, Divine and Life Spirit germinally active.
+1\. The Pioneers who had successfully passed through the Saturn and the Sun Periods. They had dense and vital bodies, Divine and Life Spirit germinally active.
 
-2. The Stragglers of the Sun Period, who had dense and vital bodies, also Divine Spirit--all germinal.
+2\. The Stragglers of the Sun Period, who had dense and vital bodies, also Divine Spirit--all germinal.
 
-3. The Stragglers of the Saturn Period, who had been promoted in the seventh Revolution of the Sun Period. They had the germ of dense body and Divine Spirit.
+3\. The Stragglers of the Saturn Period, who had been promoted in the seventh Revolution of the Sun Period. They had the germ of dense body and Divine Spirit.
 
-4. The Pioneers of the new Life Wave, who had the same vehicles as class 3, but belong to a different scheme of evolution from ours.
+4\. The Pioneers of the new Life Wave, who had the same vehicles as class 3, but belong to a different scheme of evolution from ours.
 
-5. The Stragglers of the new Life Wave, who had only the germ for the dense body.
+5\. The Stragglers of the new Life Wave, who had only the germ for the dense body.
 
-6. The New Life Wave, which entered upon its evolution at the beginning of the Moon Period and is the life that ensouls our plants of the present day.
+6\. The New Life Wave, which entered upon its evolution at the beginning of the Moon Period and is the life that ensouls our plants of the present day.
 
 It is necessary to remember that Nature hastens slowly. She makes no sudden changes in forms. To her, time is nothing; the attainment of perfection is everything. A mineral does not change to a plant at one bound, but by gradual, almost imperceptible degrees. A plant does not become an animal in a night. It requires millions of years to bring about the change. Thus at all times there are all stages and gradations to be found in nature. The Ladder of Being stretches without break from protoplasm to God. 
 
@@ -2090,7 +2093,7 @@ Mention has been made of the stragglers of various Periods who in later Periods 
 
 In the beginning of the Lemurian Epoch, these "failures" (note that they were failures, not merely stragglers) had crystallized that part of the Earth occupied by them to such a degree that it became as a huge cinder or clinker, in the otherwise soft and fiery Earth. They were a hindrance and an obstruction, so they, with the part of the Earth they had crystallized, were thrown out into space beyond recall. That is the genesis of the Moon. 
 
-#### <h4 id="the-moon-the-eighth-fear">THE MOON - THE EIGHTH SPHERE</h4>
+#### <h4 id="the-moon-the-eighth-sphere">THE MOON - THE EIGHTH SPHERE</h4>
 
 The seven Globes, A to G, inclusive, are the field of Evolution. The Moon is the field of Disintegration. 
 
@@ -2404,7 +2407,7 @@ Next, he is taught to worship God by prayer and the living of a good life; and t
 
 At last he comes to a point where he can do right without any thought of reward, bribe, or punishment, but simply because "it is right to do right." He loves right for its own sake and seeks to govern his conduct thereby, regardless of present benefit or injury, or of painful results at some future time. 
 
-The Original Semites had reached the second of these steps. They were taught to worship an invisible God and to expect to be rewarded my material benefits, or punished by painful afflictions. 
+The Original Semites had reached the second of these steps. They were taught to worship an invisible God and to expect to be rewarded by material benefits, or punished by painful afflictions. 
 
 Popular Christianity is at the third step. Esoteric Christians, and the pupils of all occult schools are trying to reach the highest step, which will be generally achieved in the Sixth Epoch, the new Galilee, when the unifying Christian religion will open the hearts of men, as their understanding is being opened now. 
 
@@ -2422,17 +2425,15 @@ In the present (the Fifth or Aryan) Epoch, man came to know the use of fire and 
 
 The most advanced among humanity at the beginning of the Aryan Epoch were given the higher Initiations, that they might take the place of the messengers of God, i.e. the Lords of Venus. Such human Initiates were from this time forth the only mediators between God and man. Even they did not appear publicly nor show any signs of wonders that they were Leaders and Teachers. Man was left entirely free to seek them or not, as he desired. 
 
-At the end of our present Epoch the highest Initiate will appear publicly, when a sufficient number of ordinary humanity desire, and will 
-
-voluntarily subject themselves to such a Leader. They will thus form the nucleus for the last Race, which will appear at the beginning of the Sixth Epoch. After that time races and nations will cease to exist. Humanity will form one spiritual Fellowship as before the end of the Lemurian Epoch. 
+At the end of our present Epoch the highest Initiate will appear publicly, when a sufficient number of ordinary humanity desire, and will  voluntarily subject themselves to such a Leader. They will thus form the nucleus for the last Race, which will appear at the beginning of the Sixth Epoch. After that time races and nations will cease to exist. Humanity will form one spiritual Fellowship as before the end of the Lemurian Epoch. 
 
 The names of the Races which have spread over the Earth during the Fifth Epoch, up to the present time, are as follows: 
 
-  1. The Aryan, which went south to India,
-  2. The Babylonian-Assyrian-Chaldean.
-  3. The Persian-Greco-Latin.
-  4. The Celtic.
-  5. The Teutonic-Anglo-Saxon (to which we belong).
+1\. The Aryan, which went south to India,
+2\. The Babylonian-Assyrian-Chaldean.
+3\. The Persian-Greco-Latin.
+4\. The Celtic.
+5\. The Teutonic-Anglo-Saxon (to which we belong).
 
 From the mixture of the different nations now taking place in the United States will come the "Seed" for the last Race, in the beginning of the Sixth Epoch. 
 
@@ -2454,7 +2455,7 @@ Christ is the great unifying Leader of the Sixth Epoch, and He enunciated this l
 
 Not that we are to leave, nor underestimate family ties, but that we are to rise above them. Father and mother are "bodies"; all relations are part of the Race--which belongs to Form. The souls must recognize that they are not Bodies, nor Races, but Egos striving for perfection. If a man forgets this, and identifies himself with his Race--clinging to it with fanatic patriotism--he is likely to become enmeshed in and sink with it when his compeers have passed to greater heights on the Path of Attainment. 
 
-### <h3 id="chapter-13">CHAPTER XIII: BACK TO THE BIBLE</h4>
+### <h3 id="chapter-13">CHAPTER XIII: BACK TO THE BIBLE</h3>
 
 In our age the missionary spirit is strong. The Western churches are sending missionaries all over the world to convert the people of every nation to a belief in their creeds; nor are they alone in their proselyting efforts. The East has commenced a strong invasion of Western fields, and many Christians who have become dissatisfied with the creeds and dogmas taught by the clergy and impelled to search for truth to satisfy the demands of the intellect for an adequate explanation of the problems of life, have familiarized themselves with, and in many cases accepted, the Eastern teachings of Buddhism, Hinduism, etc. 
 
@@ -2580,13 +2581,13 @@ Naturally, a detailed account could not be given in a few lines like the first c
 
 The second verse proceeds: "The Earth was waste and uninhabited, and darkness rested upon the face of the deep; and the Spirits of the Elohim floated above the deep." In the beginning of manifestation that which is now the Earth was in the Saturn Period, and in exactly the condition described, as may be seen by referring to the descriptions already given of that Period. It was not "without form and void," as expressed in the King James version. It was hot, and thus well-defined and separate from the deep of space, which was cold. It is true that it was dark, but it could be dark and still be hot, for "dark" heat necessarily precedes glowing or visible heat. Above this dark Earth of the Saturn Period floated the creative Hierarchies. They worked upon it from the outside and molded it. The Bible refers to them as the "Spirits of the Elohim." 
 
-#### </h4 id="the-sun-period">THE SUN PERIOD</h4>
+#### <h4 id="the-sun-period">THE SUN PERIOD</h4>
 
 The Sun Period is well described in the third verse, which says, "And the Elohim said, Let there be Light; and there was Light." This passage has been jeered at as the most ridiculous nonsense. The scornful query has been put, How could there be light upon the Earth when the Sun was not made until the fourth day? The Bible narrator, however, is not speaking of the Earth alone. He is speaking of the central "Fire-mist," from which were formed the planets of our system including the Earth. Thus when the nebula reached a state of glowing heat, which it did in the Sun Period, there was no necessity for an outside illuminant, the Light was within. 
 
 In the fourth verse we read: "The Elohim differentiated between the light and the darkness." Necessarily, for the outside space was dark, in contradistinction to the glowing nebula which existed during the Sun Period. 
 
-#### </h4 id="the-moon-period">THE MOON PERIOD</h4>
+#### <h4 id="the-moon-period">THE MOON PERIOD</h4>
 
 The Moon Period is described in the sixth verse, as follows: "and Elohim said, Let there be an expansion (translated "firmament" in other versions) in the waters, to divide the water from the water." This exactly describes conditions in the Moon Period, when the heat of the glowing fire-mist and the cold of outside space had formed a body of water around the fiery core. The contact of fire and water generated steam, which is water in expansion, as our verse describes. It was different from the comparatively cool water, which constantly gravitated toward the hot, fiery core, to replace the outrushing stream. Thus there was a constant circulation of water held in suspension, and also an expansion, as the steam, rushing outward from the fiery core, formed an atmosphere of "fire-fog" condensed by contact with outside space, returning again to the core to be reheated and perform another cycle. Thus there were two kinds of water, and a division between them, as stated in the Bible. The dense water was nearest the fiery core; the expanded water or stream was on the outside. 
 
@@ -2846,13 +2847,13 @@ As man progressed through these stages, and gradually lost touch with the inner 
 
 The four causes contributing to this condition were: 
 
-1. The clearing of the foggy atmosphere of the Atlantean continent. 
+1\. The clearing of the foggy atmosphere of the Atlantean continent. 
 
-2. The indrawing of the vital body, so that a point at the root of the nose corresponds to a similar point in the vital body. 
+2\. The indrawing of the vital body, so that a point at the root of the nose corresponds to a similar point in the vital body. 
 
-3. The elimination of inbreeding and the substitution therefore of marriages outside the family and tribe. 
+3\. The elimination of inbreeding and the substitution therefore of marriages outside the family and tribe. 
 
-4. The use of intoxicants. 
+4\. The use of intoxicants. 
 
 The Race-spirits still exist in and work with man, but the more advanced nation, the more freedom is given the individual. In countries where people are most fettered, the Race-spirit is strongest. The more in harmony a man is with the law of Love, and the higher his ideals, the more he frees himself from the spirit of the Races. Patriotism, while good in itself, is a tie of the Race-spirit. The ideal of Universal Brotherhood, which identifies itself with neither country nor race, is the only path which leads to emancipation. 
 
@@ -2892,7 +2893,7 @@ Man will then be a creator in very truth. Not in the slow and toilsome manner of
 
 All that was manifested during the descending period of involution remains until the corresponding point on the ascending arc of evolution has been reached. The present generative organs will degenerate and atrophy. The female organ was the first to come into existence as a separate unit and, according to the law that "the first shall be last," will be the last to atrophy. The male organ was differentiated last and is even now commencing to divide itself from the body. Diagram 13 (below) will make this clear. 
 
-## <h2 id="part-3">PART III. MAN'S FUTURE DEVELOPMENT AND INITIATION</h2>
+<h2 id="part-3">PART III. MAN'S FUTURE DEVELOPMENT AND INITIATION</h2>
 
 ### <h3 id="chapter-15">CHAPTER XV: CHRIST AND HIS MISSION</h3>
 
@@ -2912,9 +2913,7 @@ It is manifest, then, that whatever urges man toward a higher standard of conduc
 
 That such a force exists, surely no one will deny. We have come to that stage in our advancement where, instead of seeing in physical weakness an opportunity for easy prey, we recognize in the very frailty of another a valid claim upon our protection. Selfishness is being slowly but surely routed by Altruism. 
 
-Nature is sure to accomplish her purposes. Though slow, her progress is orderly and certain. In the breast of every man this force of Altruism 
-
-works as a leaven. It is transforming the savage into the civilized man, and will in time transform the latter into a God. 
+Nature is sure to accomplish her purposes. Though slow, her progress is orderly and certain. In the breast of every man this force of Altruism works as a leaven. It is transforming the savage into the civilized man, and will in time transform the latter into a God. 
 
 Though nothing that is truly spiritual can be thoroughly comprehended, yet it may at least be apprehended by means of an illustration. 
 
@@ -2972,8 +2971,7 @@ These varying angles of inclination of the axes and the measures of vibration ma
 
 Diagram 14 shows us that: 
 
-"The Father" is the highest Initiate among the humanity of the Saturn Period. The ordinary humanity of that Period are now the Lords of
-Mind.
+"The Father" is the highest Initiate among the humanity of the Saturn Period. The ordinary humanity of that Period are now the Lords of Mind.
 
 "The Son" (Christ) is the highest Initiate of the Sun Period. The ordinary humanity of that Period are now the Archangels.
 
@@ -3358,7 +3356,7 @@ The ideas and thoughts of today, however, have an evolution before them; they ar
 
 As early as the Jupiter Period there will be a marked change in this respect. The the dream-pictures of the Moon Period will return, but they will be subject to the call of the thinker, and not mere reproductions of outer objects. Thus there will be a combination of the pictures of the Moon Period and the thoughts and ideas consciously developed during the Earth Period, that is, it will be a Self-Consciousness Picture-Consciousness. 
 
-When a man of the Jupiter Period says "red" or speaks the name of an object, a clear and exact reproduction of the particular shade of red of which he is thinking, or of the object to which he refers, will be presented to his inner vision and will also be quite visible to the hearer. There will be no misconception as to what is meant by the words spoken. Thoughts and ideas will be alive and visible, therefore hypocrisy and flattery will be entirely eliminated. People can be seen exactly as they are. There will be both good and bad, but the two qualities will not be mingled in the same person. There will be the thoroughly good man and the downright evil man, and one of the serious problems of that time will be how to deal with the latter. The Manichees, an Order of still higher, spirituality than the Rosicrucians, are at present studying that very problem. An idea of the condition anticipated may be gained from a short resume of their legend. (All mystic orders have a legend symbolic of their ideals and aspirations. 
+When a man of the Jupiter Period says "red" or speaks the name of an object, a clear and exact reproduction of the particular shade of red of which he is thinking, or of the object to which he refers, will be presented to his inner vision and will also be quite visible to the hearer. There will be no misconception as to what is meant by the words spoken. Thoughts and ideas will be alive and visible, therefore hypocrisy and flattery will be entirely eliminated. People can be seen exactly as they are. There will be both good and bad, but the two qualities will not be mingled in the same person. There will be the thoroughly good man and the downright evil man, and one of the serious problems of that time will be how to deal with the latter. The Manichees, an Order of still higher, spirituality than the Rosicrucians, are at present studying that very problem. An idea of the condition anticipated may be gained from a short resume of their legend. (All mystic orders have a legend symbolic of their ideals and aspirations.)
 
 In the legend of the Manichees there are two kingdoms--that of the Light-Elves and that of the Night Elves. The latter attack the former, are defeated and must be punished. But, as the Light-Elves are as thoroughly good as the Night-Elves are bad, they cannot inflict evil upon their foes, so they must be punished with Good. Therefore a part of the kingdom of the Light-Elves is incorporated with that of the Night-Elves and in this way the evil is in time overcome. Hate which will not submit to hate, must succumb to Love. 
 
@@ -4307,9 +4305,7 @@ Therefore the Rosicrucians look ardently forward to the day when the roses shall
 
 John speaks of his purification (1st epistle, 3:9) and says that he who is born of God cannot sin, for he keepeth his seed within him. It is an absolute necessity to progress that the aspirant should be chaste. Yet it must be borne in mind, that absolute celibacy is not required of man until he has reached a point where he is ready for the great initiations, and that is a duty we owe to the whole to perpetuate the race. If we are mentally, morally, physically and financially able, we may approach the act of generation as a holy sacrifice laid upon the altar of humanity, but not for sensual pleasure. Neither should it be performed in an austere, forbidding frame of mind, but in glad giving up of oneself for the privilege of furnishing a friend seeking rebirth with the body and environment he needs for development. Thus we shall also help him cultivate the blooming roses upon his cross. 
 
-Topical Index
-
-Alphabetical List of Words Indexed
+## Topical Index: Alphabetical List of Words Indexed
 
 The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
 
@@ -4323,7 +4319,7 @@ By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception w
 
 ### Addendum A: MORNING AND EVENING EXERCISES PERFORMED BY THE ROSICRUCIAN ASPIRANT
 
-#### THE EVENING EXERCISE (Mentioned on page 111)
+#### <h4 id="">THE EVENING EXERCISE (Mentioned on page 111)</h4>
 
 The value of exercise, Retrospection, is of greater value than any other method in advancing the aspirant upon the path of attainment. It has such a far-reaching effect that it enables one to learn now, not only the lessons of this life, but lessons ordinarily reserved for future lives. 
 
@@ -4335,7 +4331,7 @@ The value of retrospection is enormous--far-reaching beyond imagination. In the 
 
 The pure shall see God, said Christ, and the Teacher will quickly open our eyes when we are fit to enter into the "Hall of Learning," the Desire World, where we obtain our first experiences of conscious life without the dense body. 
 
-#### THE MORNING EXERCISE
+#### <h4 id="">THE MORNING EXERCISE</h4>
 
 Concentration, the second exercise, is performed in the morning at the very earliest moment possible after the aspirant awakes. He must not arise to open blinds or perform any other unnecessary act. If the body is comfortable he should at once relax and commence to concentrate. This is very  important, as the spirit has just returned from the Desire World at the moment of waking, and at that time the conscious touch with that world is more easily regained than at any other time of the day. 
 
@@ -4355,7 +4351,7 @@ An ancient legend says that digging for treasure must be done in the stillness o
 
 Finally, beware of regarding the exercises as a burdensome task. estimate them at their true worth; they are our highest privilege. Only when thus regarded can we do them justice and reap the full benefits from them. 
 
-### CONCERNING THE ORIGIN OF THE FELLOWSHIP TEACHINGS
+### <h3 id="">CONCERNING THE ORIGIN OF THE FELLOWSHIP TEACHINGS</h3>
 
 Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
 
@@ -4365,7 +4361,7 @@ Under the direction of the Brothers of the Rose Cross, spiritual giants of the h
 
 One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
 
-### WHAT IS TRUTH?
+### <h3 di="">WHAT IS TRUTH?</h3>
 
 Pilate asked the question "What is Truth?" and being incapable of knowing from within, he received no answer. 
 

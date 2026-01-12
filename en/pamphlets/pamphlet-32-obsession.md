@@ -7,9 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<article id="obsession">
-
-<h1 id="obsession">Pamphlet №32: Obsession</h1>
+<h1 id="pamphlet-32-obsession">Pamphlet №32: Obsession</h1>
 
 ### <h3 id="obsession">Obsession</h3>
 
@@ -39,7 +37,7 @@ During man’s life in the physical world he is constantly building his invisibl
 
 ### <h3 id="discarnate-spirits">Discarnate Spirits</h3>
 
-If we should take a refined, sensitive man who has lived a pure, clean life to the slums of a great city and force him to live in those surroundings, he would suffer, become ill and at the first opportunity he would gravitate back to his kind. Also if we take a low and degraded man, one who has always lived in the slums amidst filth and dishonesty and place him in a palace amidst cultured people, he would be most uncomfortable ant would at the first chance drift back to his old haunts. Similar conditions exist in the desire world. The man who has lived a clean and spiritual life, after passing out at death remains but a short time in the lower part of the desire world. As soon as he has freed himself from his physical body he quickly rises into the finer matter of the desire world. But the man who has never known what a pure life meant, who had not thought of life beyond the grave, is like the thick, black smoke: he hovers dose to the physical plane. He prefers to cling close to his old haunts, especially if he has a grudge against someone on the earth plane and wishes to get even; then he will remain earthbound until he has succeeded in revenging himself upon the other fellow. He will hover about spiritualistic seances or the place where his enemy lives until he has succeeded in influencing some weak or negative person to carry out his plan of revenge. How often do we read of a murderer or thief making a statement in court that a feeling came over him suddenly and he could not help committing the crime – some force made him do it. The poor, weak drunkard is also used by discarnate spirits and is often forced to drink, for in this way the degenerate in the desire world gets some satisfaction.
+If we should take a refined, sensitive man who has lived a pure, clean life to the slums of a great city and force him to live in those surroundings, he would suffer, become ill and at the first opportunity he would gravitate back to his kind. Also if we take a low and degraded man, one who has always lived in the slums amidst filth and dishonesty and place him in a palace amidst cultured people, he would be most uncomfortable ant would at the first chance drift back to his old haunts. Similar conditions exist in the desire world. The man who has lived a clean and spiritual life, after passing out at death remains but a short time in the lower part of the desire world. As soon as he has freed himself from his physical body he quickly rises into the finer matter of the desire world. But the man who has never known what a pure life meant, who had not thought of life beyond the grave, is like the thick, black smoke: he hovers close to the physical plane. He prefers to cling close to his old haunts, especially if he has a grudge against someone on the earth plane and wishes to get even; then he will remain earthbound until he has succeeded in revenging himself upon the other fellow. He will hover about spiritualistic seances or the place where his enemy lives until he has succeeded in influencing some weak or negative person to carry out his plan of revenge. How often do we read of a murderer or thief making a statement in court that a feeling came over him suddenly and he could not help committing the crime – some force made him do it. The poor, weak drunkard is also used by discarnate spirits and is often forced to drink, for in this way the degenerate in the desire world gets some satisfaction.
 
 ### <h3 id="elementals">Elementals</h3>
 
@@ -47,7 +45,7 @@ It is a curious fact that subhuman elementals sometimes attach themselves to cer
 
 This is only another illustration of the fact that purity of motive will not protect us when we go contrary to the laws of God, any more than we can escape a burn if we put our hand on a hot stove, no matter why we did it. But, nevertheless, it has been found in cases where a medium has been ensouled by pure motives and high religious devotion, it is very difficult for such evil entities to hold the vital body for a long time; they soon tire of the effort and seek another victim who is more in accordance with their nature.
 
-### <h3 id="obsession-1">Obsession</h3>
+### <h3 id="obsession-2">Obsession</h3>
 
 In early childhood the blood very often rises to an abnormal temperature. During the period of excessive growth it is frequently the reverse, but in hot-headed, unrestrained youth, passion and temper very often drive the Ego out by over-heating the blood. We very appropriately call this an ebullition or boiling over of temper and describe the effect as causing the person to “lose his head,” i.e., become incapable of thought. That is exactly what happens when passion, rage, or temper overheats the blood, thus drawing the Ego outside the bodies. The description is accurate when, of a person in such a state, we say, “he has lost control of himself.” The Ego is outside of his vehicles and they are running amuck, bereft of the guiding influence of thought, part of the work of which is to act as a brake on impulse. The great and terrible danger of such outbursts is that before the owner re-enters his body some disembodied entity may take possession of it and keep him out. This is called “obsession.” Only the man who keeps cool and does not allow excess of heat to drive him out can think properly.
 

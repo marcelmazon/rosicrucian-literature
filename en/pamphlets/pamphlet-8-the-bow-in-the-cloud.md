@@ -7,9 +7,9 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-<h1 id="the-bow-in-the-cloud">Pamphlet №8: The Bow in the Cloud</h1>
+<h1 id="pamphlet-8-the-bow-in-the-cloud">Pamphlet №8: The Bow in the Cloud</h1>
 
-<p>by Max Heindel</p>
+by Max Heindel
 
 ### <h3 id="the-bow-in-the-cloud">The Bow in the Cloud</h3>
 

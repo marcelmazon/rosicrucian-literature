@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-rosicrucian-method-of-caring-for-the-dead">Pamphlet №13: The Rosicrucian Method of Caring for the Dead</h1>
+<h1 id="pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead">Pamphlet №13: The Rosicrucian Method of Caring for the Dead</h1>
 
 ### <h3 id="the-rosicrucian-method-of-caring-for-the-dead">The Rosicrucian Method of Caring for the Dead</h3>
 

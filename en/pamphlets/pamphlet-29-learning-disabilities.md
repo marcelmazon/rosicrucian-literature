@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="learning-disabilities">Pamphlet №29: Learning Disabilities</h1>
+<h1 id="pamphlet-29-learning-disabilities">Pamphlet №29: Learning Disabilities</h1>
 
 ### <h3 id="learning-disabilities">Learning Disabilities</h3>
 

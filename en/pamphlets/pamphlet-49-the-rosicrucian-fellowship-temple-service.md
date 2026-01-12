@@ -7,19 +7,19 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-rosicrucian-fellowship-temple-service">Pamphlet №49: The Rosicrucian Fellowship Temple Service</h1>
+<h1 id="pamphlet-49-the-rosicrucian-fellowship-temple-service">Pamphlet №49: The Rosicrucian Fellowship Temple Service</h1>
 
 ### <h3 id="the-rosicrucian-fellowship-temple-service">The Rosicrucian Fellowship Temple Service</h3>
 
 <em>Order of the Sunday Devotional Service at Headquarters and in Rosicrucian Fellowship Centers</em>
 
-Sing the Rosicrucian Fellowship Opening Hymn (see separate card).
+1\. Sing the Rosicrucian Fellowship Opening Hymn (see separate card).
 
-Unveil the Emblem.
+2\. Unveil the Emblem.
 
-A member reads aloud the following Rosicrucian Fellowship Temple Service.
+3\. A member reads aloud the following Rosicrucian Fellowship Temple Service.
 
-My Dear Sisters and Brothers:
+*My Dear Sisters and Brothers:*
 
 Once more we have withdrawn from the material world and are entering into the living temple of our own inner natures in spiritual conclave. As a symbol of this withdrawal from the visible world we have darkened our meeting place.
 
@@ -59,9 +59,9 @@ We will now enter the silence together and concentrate on SERVICE for a few mome
 
 (After the concentration the emblem is veiled, the lights are turned on, and the lecture for the day is delivered by a member who is of the opposite sex to the reader, if possible.)
 
-Lecture
+4\. Lecture
 
-At conclusion of lecture the reader returns to the platform and reads –
+5\. At conclusion of lecture the reader returns to the platform and reads –
 
 ### <h3 id="the-rosicrucian-fellowship-prayer"><em>THE ROSICRUCIAN FELLOWSHIP PRAYER</em></h3>
 

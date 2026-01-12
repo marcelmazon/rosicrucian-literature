@@ -14,24 +14,23 @@ by Augusta Foss Heindel
 [Note: Links to additional pictures not contained in the original
 version of Memoirs may be found in the book’s text.]
 
-
-I-B MAX HEINDEL AT NIAGRA FALLS
-I-C MAX HEINDEL
-I-D AUGUSTA FOSS HEINDEL
-I-E MR. & MRS. HEINDEL AT OCEAN PARK
-SECRETARIES AT OCEAN PARK
-I-F MAX HEINDEL, GROUNDBREAKING 1911
-I-F FIRST CROSS, MR. & MRS. HEINDEL & MEMBERS
-I-G FIRST CROSS, MR. & MRS. HEINDEL & MEMBERS, 1911
-I-G MR. & MRS HEINDEL ON PORCH OF FIRST MT. ECCLESIA BUILDING
-I-H TENNIS COURT CONSTRUCTION
-I-I MAX HEINDEL AMIDST CONSTRUCTION
-MEMBERS PLAYING TENNIS
-I-J CANYON OFF MOUNT ECCLESIA
-SAN LUIS REY VALLEY
-I-K MOUNT ECCLESIA CANYON AND SAN LUIS REY VALLEY
-I-L FIRST BUILDING ON MOUNT ECCLESIA
-I – M FIRST BUILDING & SNOW-COVERED SAN JACINTO MOUNTAIN
+<img alt="I-B MAX HEINDEL AT NIAGRA FALLS">
+<img alt="I-C MAX HEINDEL">
+<img alt="I-D AUGUSTA FOSS HEINDEL">
+<img alt="I-E MR. & MRS. HEINDEL AT OCEAN PARK">
+<img alt="SECRETARIES AT OCEAN PARK">
+<img alt="I-F MAX HEINDEL, GROUNDBREAKING 1911">
+<img alt="I-F FIRST CROSS, MR. & MRS. HEINDEL & MEMBERS">
+<img alt="I-G FIRST CROSS, MR. & MRS. HEINDEL & MEMBERS, 1911">
+<img alt="I-G MR. & MRS HEINDEL ON PORCH OF FIRST MT. ECCLESIA BUILDING">
+<img alt="I-H TENNIS COURT CONSTRUCTION">
+<img alt="I-I MAX HEINDEL AMIDST CONSTRUCTION">
+<img alt="MEMBERS PLAYING TENNIS">
+<img alt="I-J CANYON OFF MOUNT ECCLESIA">
+<img alt="SAN LUIS REY VALLEY">
+<img alt="I-K MOUNT ECCLESIA CANYON AND SAN LUIS REY VALLEY">
+<img alt="I-L FIRST BUILDING ON MOUNT ECCLESIA">
+<img alt="I – M FIRST BUILDING & SNOW-COVERED SAN JACINTO MOUNTAIN">
 
 <h2 id="part-1">Part I: Max Heindel - The Rosicrucian Order and The Rosicrucian Fellowship</h2>
 
@@ -624,6 +623,7 @@ correspondence course and open permanent headquarters in
 Ocean Park, California, under Post Office Box 866.
 
 ```
+
 Letter to Members 20-A - November 1910
 
 Dear Friend:
@@ -656,6 +656,7 @@ will follow from time to time. Several letters may sometimes be issued in a mont
 and at times more than a month may intervene between.
 
 The Rosicrucian Fellowship
+
 ```
 
 The response was good from both students and probationers:
@@ -1293,25 +1294,24 @@ morning at the return of the two helpers.
 
 <h2 id="part-2">Part II: The Rosicrucian Fellowship Headquarters</h2>
 
-
-II - E First Building with Vegetable Garden
-II-F First Building with TrellisII - F First Building with Trellis
-II - G 1912 SUMMER SCHOOL TENT CITY
-II - H 1912 SUMMER SCHOOL TENT CITY
-II - I Max Heindel Surveying Pro-Ecclesia 1912 Construction
-II - J Newly Constructed Pro-Ecclesia
-New Palms Lining First Driveway
-II - K Pro-Ecclesia Interior
-II - L Max Heindel in Pro-Ecclesia
-II - M First Buildings and Pro-Ecclesia
-Early Star Pine
-II - N Dining Hall Interior
-Dining Hall with Banner Flying 1915
-II - O New Administration Building
-II - P Three New Cottages
-Old Administration Building and New Emblem
-II - Q Grell Cottage (later Ecclesia Cottage)
-II - R Mr. & Mrs. Heindel with Neice and Nephew
+<img alt="II - E First Building with Vegetable Garden">
+<img alt="II-F First Building with TrellisII - F First Building with Trellis">
+<img alt="II - G 1912 SUMMER SCHOOL TENT CITY">
+<img alt="II - H 1912 SUMMER SCHOOL TENT CITY">
+<img alt="II - I Max Heindel Surveying Pro-Ecclesia 1912 Construction">
+<img alt="II - J Newly Constructed Pro-Ecclesia">
+<img alt="New Palms Lining First Driveway">
+<img alt="II - K Pro-Ecclesia Interior">
+<img alt="II - L Max Heindel in Pro-Ecclesia">
+<img alt="II - M First Buildings and Pro-Ecclesia">
+<img alt="Early Star Pine">
+<img alt="II - N Dining Hall Interior">
+<img alt="Dining Hall with Banner Flying 1915">
+<img alt="II - O New Administration Building">
+<img alt="II - P Three New Cottages">
+<img alt="Old Administration Building and New Emblem">
+<img alt="II - Q Grell Cottage (later Ecclesia Cottage)">
+<img alt="II - R Mr. & Mrs. Heindel with Neice and Nephew">
 
 Echoes from Mount Ecclesia
 
@@ -1348,15 +1348,15 @@ of ‘common sense’ we may awaken the ‘Echo of assent’ in thousands of
 hearts. This plan, of course. Requires both men, money, and time to mature,
 but it will be realized.
 
-II – S First [part of June 1913] “Echoes from Mount Ecclesia”
-II – T June 1915 “Rays from the Rose Cross”
-II – U Mrs. Heindel at Work in the Lord’s Vineyard
-II – V East Gate, Driveway
-II – W Mr. & Mrs. Heindel, Olga Grellin & Brother 1917
-II – X Temple Cottage
-Mount Ecclesia Drive
-II – Y Mount Ecclesia, 1917
-(Tennis Court on Left)
+<img alt="II – S First [part of June 1913] “Echoes from Mount Ecclesia”">
+<img alt="II – T June 1915 “Rays from the Rose Cross”">
+<img alt="II – U Mrs. Heindel at Work in the Lord’s Vineyard">
+<img alt="II – V East Gate, Driveway">
+<img alt="II – W Mr. & Mrs. Heindel, Olga Grellin & Brother 1917">
+<img alt="II – X Temple Cottage">
+<img alt="Mount Ecclesia Drive">
+<img alt="II – Y Mount Ecclesia, 1917">
+<img alt="(Tennis Court on Left)">
 
 <h3 id="part-2-h3">Part II: The Rosicrucian Fellowship Headquarters</h3>
 
@@ -2100,6 +2100,7 @@ The following quotation comes from the "Echoes" of
 January 1914 and was dictated by Max Heindel himself:
 
 ```
+
 The acoustic properties of the Pro-Ecclesia are very
 fine, every word spoken, in even the lowest voice, is plainly
 heard by everyone. And the resonance of the organ is thus
@@ -2145,6 +2146,7 @@ precious than if the work had been done entirely by help
 hired on a commercial basis. Surely, it will be more easy to
 build the unseen spiritual temple around this nucleus, on
 that account.
+
 ```
 
 You who have been at Headquarters in earlier years may
@@ -2367,6 +2369,7 @@ written by Eva G. Taylor who was on a visit and gave her
 impressions.
 
 ```
+
 ...In order to get even a faint conception of the
 magnitude of the service which is being rendered to
 humanity from the Headquarters of the Fellowship, it is
@@ -2391,6 +2394,7 @@ magazine—'Rays from the Rose Cross'. As the teaching
 is spreading rapidly the proportions of the work at
 Headquarters have assumed a magnitude undreamed of
 by those who do not see the inside of the movement.
+
 ```
 
 #### <h4 id="first-healing-service">FIRST HEALING SERVICE</h4>
@@ -2714,6 +2718,7 @@ world that is now groaning in pain and suffering.
 The flag was then raised and Mr. Heindel continued:
 
 ```
+
 But while we have faith that in due time the darkness, the
 sorrow and the suffering will cease, the glorious Millennium,
 the Kingdom of Christ, spoken of in the Bible, will in time
@@ -2784,6 +2789,7 @@ Ecclesia seems an augur that this great movement will also
 become a universal vehicle of glad tidings, of deeper
 understanding, and a true feeling of fellowship to all who live
 upon earth.
+
 ```
 
 The members then started toward the place where sand and
@@ -3196,6 +3202,7 @@ Mount Ecclesia Cross and Emblem................................................ 
 Collage of Mount Ecclesia Buildings............................................ III-W
 Collage of Mount Ecclesia Buildings............................................. III-X
 Augusta Foss Heindel......................................................................III-Y
+
 III – B July 23, 1920 Laying of Temple Cornerstone
 Mrs. Heindel Trueing Temple Cornerstone (Architect on Left)
 Temple Under Construction (Upper Left)—Mt. Ecclesia
@@ -3325,6 +3332,7 @@ will step into our places, and the work will go on.
 From "Echoes From Mount Ecclesia," March 1919:
 
 ```
+
 “Mount Ecclesia has been my home for over five years and I have
 had every opportunity to verify my first impressions.
 
@@ -3392,6 +3400,7 @@ melody which he did with appropriate action.
 “We miss the bodily presence, but he is yet our Leader, and we still
 hear his voice as he repeated that favorite poem, 'There is no Death'"—
 Mary L. Lyon.
+
 ```
 
 #### <h4 id="the-ecclesia-temple-of-healing">THE ECCLESIA—TEMPLE OF HEALING</h4>
@@ -3453,6 +3462,7 @@ become the central focusing point of the Rosicrucian Method of
 Healing.
 
 ```
+
 At the foot of the cross in front of the library there is a large star
 laid out in lippia, a plant lying close to the ground and bearing a pretty
 little flower that seems to be a veritable honey mine for the bees. All
@@ -3476,6 +3486,7 @@ of a great work in the world. It is such a swift moving panorama: First
 the ground breaking, then the trench digging, then the filling in with
 concrete and finally our red letter day, July 23rd, 1920, the Laying of
 the Cornerstone. It was glorious!
+
 ```
 
 In order to take care of all our extra workers at this time we
@@ -3523,6 +3534,7 @@ the 'Echoes' as written by Arline Cramer in the magazine of
 February 1921:
 
 ```
+
 “The completion of the Temple was delayed because of the impossibility
 of getting the interior finish or trim from the mills, although the order had
 been placed in September. However, all necessary things came along a few
@@ -3544,7 +3556,6 @@ dedication of the Temple, swept us swiftly onward to Holy Night.... The
 mist lifted and hovered over us in a silvery dome, illumined from above by
 the full moon, as though to veil "the birth of the Babe" from all who should
 not see....
-
 
 Dedication Service
 
@@ -3590,6 +3601,7 @@ played an organ “Recessional.”
 “At eleven o'clock on the following Christmas Day, another service was
 held in the Temple. All during that day the exercises and spiritual services
 continued. It was a day long to be remembered by those who were present.”
+
 ```
 
 #### <h4 id="ecclesia-cottage">ECCLESIA COTTAGE</h4>
@@ -3826,6 +3838,7 @@ built along a secluded path off Ecclesia Drive which led around
 the sunken garden.
 
 ```
+
 [Building update reprinted from our 1996 Edition of The
 Rosicrucian Cosmo-Conception, Addendum D, pp 716-717:
 
@@ -3870,6 +3883,7 @@ Editorial Office for the Rays from the Rose Cross magazine (which
 was published for the first time in 1911 by Mr. Heindel), the
 Accounting Office, Retail and Dealer Book Sales, and the
 Rosicrucian Fellowship BBS.”]
+
 ```
 
 We must not forget to mention another dear and faithful

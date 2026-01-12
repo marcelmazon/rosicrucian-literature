@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Dépliant №21: Comment les Rose-Croix guérissent les malades"
 language: "fr"
 original_title: "Pamphlet №21: How the Rosicrucians Heal the Sick"
 original_language: "en"

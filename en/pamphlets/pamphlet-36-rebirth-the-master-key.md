@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="rebirth-the-master-key">Pamphlet №36: Rebirth, the Master Key</h1>
+<h1 id="pamphlet-36-rebirth-the-master-key">Pamphlet №36: Rebirth, the Master Key</h1>
 
 ### <h3 id="unanswered-questions">Unanswered Questions</h3>
 
@@ -37,7 +37,7 @@ The God of our solar system creates in life waves and the beings belonging to ea
 
 ### <h3 id="developmental-stages">Developmental Stages</h3>
 
-<p>We have never been animals, yet we have passed through an animal-like stage. Similarly, the plants will pass through an animal-like stage in a later period, and the minerals will reach the plant stage. In neither case, however, will they be of the same type as our present animals and plants. Each life wave has its own separate and distinct method of development, but eventually the Virgin Spirits composing it will attain perfection, for that is the ultimate object of evolution.
+We have never been animals, yet we have passed through an animal-like stage. Similarly, the plants will pass through an animal-like stage in a later period, and the minerals will reach the plant stage. In neither case, however, will they be of the same type as our present animals and plants. Each life wave has its own separate and distinct method of development, but eventually the Virgin Spirits composing it will attain perfection, for that is the ultimate object of evolution.
 
 ### <h3 id="life-as-a-school">Life as a School</h3>
 

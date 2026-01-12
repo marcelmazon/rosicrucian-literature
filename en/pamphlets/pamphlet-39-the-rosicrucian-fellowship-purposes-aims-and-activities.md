@@ -7,9 +7,9 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="rosicrucian-fellowship-purposes-aims-and-activities">Pamphlet №39: Rosicrucian Fellowship - Purposes, Aims, and Activities</h1>
+<h1 id="pamphlet-39-rosicrucian-fellowship-purposes-aims-and-activities">Pamphlet №39: Rosicrucian Fellowship - Purposes, Aims, and Activities</h1>
 
-### <h3 id="rosicrucian-fellowship-purposes-aims-and-activities-h3">Rosicrucian     Fellowship - Purposes, Aims, and Activities</h3>
+### <h3 id="rosicrucian-fellowship-purposes-aims-and-activities">Rosicrucian Fellowship - Purposes, Aims, and Activities</h3>
 
 The Rosicrucian Fellowship is a Christian organization composed of men and women who are students of the <a href="www.rosicrucian.com/wwisdom.html">Rosicrucian Philosophy</a> as presented in <a href="www.rosicrucian.com/rcc/rcceng00.html">The Rosicrucian Cosmo-Conception</a>. This philosophy is known as the <a href="www.rosicrucian.com/wwisdom.html">Western Wisdom Teaching</a> and establishes a meeting ground for Art, Religion, and Science. Its students are located throughout the world; but their International Headquarters is located at Oceanside, California, USA.
 

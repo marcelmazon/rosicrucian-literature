@@ -3,11 +3,11 @@ title: "Pamphlet №46: Practical Methods of Achieving Success"
 language: 'en'
 original_title: "Pamphlet №46: Practical Methods of Achieving Success"
 original_language: 'en'
-author: '???'
+author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-<h1 id="practical-methods-of-achieving-success">Pamphlet №46: Practical Methods of Achieving Success</h1>
+<h1 id="pamphlet-46-practical-methods-of-achieving-success">Pamphlet №46: Practical Methods of Achieving Success</h1>
 
 ### <h3 id="based-upon-conservation-of-sex-force">Based Upon Conservation of Sex Force</h3>
 
@@ -37,7 +37,7 @@ If we turn again to the garden we may obtain a striking illustration of the resu
 
 When we realize that success does not consist in accumulation of wealth but in soul-growth, it will be evident that continence is a vital factor in the attainment of success in life.
 
-Instead of seeking physical gratification when conscious of the surging impulses of the lower nature, if the individual will focus his thoughts and imagination upon something he desires to create – whether it be a poem, an invention, a picture, a musical composition, or some material demonstration such as a home or a new business venture – he will find that a double purpose is served. The objective demonstration will be accelerated and the process of transmutation or regeneration within his body will, at the same dime, be noticeably stimulated. Physical exercise alone is also of help, but when accompanied by creative thoughts is more effective.
+Instead of seeking physical gratification when conscious of the surging impulses of the lower nature, if the individual will focus his thoughts and imagination upon something he desires to create – whether it be a poem, an invention, a picture, a musical composition, or some material demonstration such as a home or a new business venture – he will find that a double purpose is served. The objective demonstration will be accelerated and the process of transmutation or regeneration within his body will, at the same time, be noticeably stimulated. Physical exercise alone is also of help, but when accompanied by creative thoughts is more effective.
 
 Meditation upon high and inspiring subjects has power literally to transform forces impregnating the sexual fluids, for these fluids are really carriers of etheric force, the true creative agent. An inspiring poem or passage from the scriptures can be the channel for immediate direction of the thoughts and creative power into uplifting currents. By consciously directing pure love currents from the heart into the creative centers of the brain, sexual activity may be transmuted into activities of mind and Spirit, with a corresponding birth upon the mental and spiritual plane.
 

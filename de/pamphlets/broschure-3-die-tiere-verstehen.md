@@ -99,7 +99,8 @@ Ellen Wheeler Wilcox formuliert den berechtigten Anspruch des gesamten Königrei
 “Ich bin des Stimmlosen Stimme, 
 Die für ihn die Lande durchstreift, 
 Bis der Welt taubes Ohr seine 
-Dumpfheit verlor Und des Wortlosen Qualen begreift.
+Dumpfheit verlor 
+Und des Wortlosen Qualen begreift.
 Die gleiche Kraft schuf den Sperling, 
 Die den Menschen, den König, beruft. 
 Einen Seelenstrahl gab der Schöpfer des All 

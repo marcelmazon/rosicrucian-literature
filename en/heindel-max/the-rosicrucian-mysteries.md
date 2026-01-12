@@ -7,7 +7,7 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-<h1 id="the-rosicrucian">The Rosicrucian Mysteries</h1>
+<h1 id="the-rosicrucian-mysteries">The Rosicrucian Mysteries</h1>
 
 by Max Heindel [1865-1919] 
 
@@ -62,9 +62,9 @@ Oceanside, California, 92054, USA
 Our Message and Mission:
 
 ```
-A SANE MIND
-A SOFT HEART
-A SOUND BODY
+A Sane Mind
+    A Soft Heart
+        A Sound Body
 ```
 
 Before entering upon an explanation of the teachings of the Rosicrucians, it may be well to say a word about them and about the place they hold in the evolution of humanity. 
@@ -168,7 +168,6 @@ Thus the Bible teaches that the body is made of dust and returns thereto, that a
 3 - The theory of Rebirth: which teaches that each Spirit is an integral part of God, that it enfolds all divine possibilities as the acorn enfolds the oak; that by means of many existences in an earthly body of gradually improving texture its latent powers are being slowly unfolded and become available as dynamic energy; that none can be lost but that all will ultimately attain to perfection and reunion with God, each bringing with it the accumulated experiences which are the fruitage of its pilgrimage through matter. 
 
 Or, as we may poetically express it: 
-
 
 <pre id="we-are-eternal">
 WE ARE ETERNAL
@@ -406,9 +405,7 @@ In the higher Regions of the Desire World the confusion of tongues gives place t
 
 To arrive at an understanding of how such a universal language becomes possible and is at once comprehended by all, without preparation, we may take as an illustration the manner in which a musician reads music. A German or a Polish composer may write an opera. Each has his own peculiar terminology and expresses it in his own language. When that opera is to be played by an Italian bandmaster, or by a Spanish or American musician, it need not be translated; the notes and symbols upon the page are a universally understood language of symbols which is intelligible to musicians of no matter what nationality. Similarly with figures, the German counts: ein, zwei, drei; the Frenchman says: un, deux, trois, and in English we use the words: one, two, three, but the figures: 1,2,3, though differently spoken, are intelligible to all and mean the same. There is no possibility of misunderstanding in the cases of either music or figures. Thus it is also with the universal language peculiar to the higher regions of the Desire World and the still more subtle realms in nature, it is intelligible to all, an exact mode of expression. 
 
-Returning to our description of the entities commonly met with in the lower Desire World, we may note that other systems of religion than the Egyptian, already mentioned, has spoken of various classes of beings native to these realms. The Zoroastrian religion, for instance, mentions Seven Amshaspands and the Izzards as having dominion over certain days in the month and certain months in the year. The Christian religion speaks of Seven Spirits before the Throne, which are the same beings the Persians called 
-
-Amshaspands. Each of them rules over two months in the year while the seventh: Michael, the highest, is their leader, for he is ambassador from the Sun to the Earth; the others are ambassadors from the planets. The Catholic religion with its abundant occult information takes most notice of these "star-angels" and knows considerable about their influence upon the affairs of the earth. 
+Returning to our description of the entities commonly met with in the lower Desire World, we may note that other systems of religion than the Egyptian, already mentioned, has spoken of various classes of beings native to these realms. The Zoroastrian religion, for instance, mentions Seven Amshaspands and the Izzards as having dominion over certain days in the month and certain months in the year. The Christian religion speaks of Seven Spirits before the Throne, which are the same beings the Persians called Amshaspands. Each of them rules over two months in the year while the seventh: Michael, the highest, is their leader, for he is ambassador from the Sun to the Earth; the others are ambassadors from the planets. The Catholic religion with its abundant occult information takes most notice of these "star-angels" and knows considerable about their influence upon the affairs of the earth. 
 
 The Amshaspands, however, do not inhabit the lower regions of the Desire World but influence the Izzards. According to the old Persian legend these beings are divisible into two groups: one of twenty-eight classes, and the other of three classes. Each of these classes has dominion over, or takes the lead of all the other classes on one certain day of the month. They regulate the weather conditions on that day and work with animal and man in particular. At least the twenty-eight classes do that, the other group of three classes has nothing to do with animals, because they have only twenty-eight pairs of spinal nerves, while human beings have thirty-one. Thus animals are attuned to the lunar month of twenty-eight days, while man is correlated to the solar month of thirty or thirty-one days. The ancient Persians were astronomers but not physiologists; they had no means of knowing the different nervous constitution of animal and man, but they saw clairvoyantly these superphysical beings; they noted and recorded their work with animal and men, and our own anatomical investigations may show us the reason for these divisions of the classes of Izzards recorded in that ancient system of philosophy. 
 
@@ -422,9 +419,7 @@ Upon one of many occasions when she visited the writer subsequent to her release
 
 At this she exclaimed impatiently: "Oh, yes! Of course I attend the classes. I have done so right along; I have also found a friend who helps me here. But you cannot imagine how difficult it is to concentrate here upon mathematical calculations and the judgment of a horoscope or in fact upon any subject here, where every little thought-current takes you miles away from your study. I used to think it difficult to concentrate when I had a physical body, but it cannot compare to the obstacles which face the student here." 
 
-The physical body was an anchor to her, and it is that to all of us. Being dense, it is also to a great extent impervious to disturbing influences from which the more subtle spiritual bodies do not shield us. It enables us to bring our ideas to a logical conclusion with far less effort at concentration 
-
-than is necessary in that realm where all is in such incessant and turbulent motion. Thus we are gradually developing the faculty of holding our thoughts to a center by existence in this world, and we should value our opportunities here, rather than deplore the limitations which help in one direction more than they fetter in another. In fact, we should never deplore any condition, each has its lesson. If we try to learn what that lesson is and to assimilate the experience which may be extracted therefrom, we are wiser than those who waste time in vain regrets. 
+The physical body was an anchor to her, and it is that to all of us. Being dense, it is also to a great extent impervious to disturbing influences from which the more subtle spiritual bodies do not shield us. It enables us to bring our ideas to a logical conclusion with far less effort at concentration than is necessary in that realm where all is in such incessant and turbulent motion. Thus we are gradually developing the faculty of holding our thoughts to a center by existence in this world, and we should value our opportunities here, rather than deplore the limitations which help in one direction more than they fetter in another. In fact, we should never deplore any condition, each has its lesson. If we try to learn what that lesson is and to assimilate the experience which may be extracted therefrom, we are wiser than those who waste time in vain regrets. 
 
 We said there is no time in the Desire World, and the reader will readily understand that such must be the case from the fact, already mentioned, that nothing there is opaque. 
 
@@ -496,9 +491,7 @@ It is that basic principle which John called arche: primordial matter, and the d
 
 Thus we see that when the opening sentence of St. John's Gospel is properly translated, our Christian religion teaches that once a virgin substance enfolded the divine Thinker: God. 
 
-That is the identical condition which the earlier Greeks called Chaos. A little thought will make it evident that we are not arbitrary in finding fault with the translation of the gospel, for it is self-evident that a word 
-
-cannot be the beginning, a thought must precede the word, and a thinker must originate thought before it can be expressed as a word. When properly translated the teaching of John fully embodies that idea, for the Greek term logos means both the reasonable thought (we also say logic) and the word which expresses this (logical) thought. 
+That is the identical condition which the earlier Greeks called Chaos. A little thought will make it evident that we are not arbitrary in finding fault with the translation of the gospel, for it is self-evident that a word cannot be the beginning, a thought must precede the word, and a thinker must originate thought before it can be expressed as a word. When properly translated the teaching of John fully embodies that idea, for the Greek term logos means both the reasonable thought (we also say logic) and the word which expresses this (logical) thought. 
 
 1 - In the primordial substance was thought, and the thought was with God, And God was the word, 
 
@@ -538,8 +531,7 @@ Study of philosophy and science has a tendency to further perception of truth, a
 
 In this place we are dealing with worlds in particular, and will therefore defer comment upon the remainder of the first five verse of St. John's Gospel: 
 
-And Life became Light in man,  
-5 - and Light shines in Darkness.  
+5 - And Life became Light in man, and Light shines in Darkness.  
 
 We have now seen that the Earth is composed of three worlds which interpenetrate one another so that it is perfectly true when Christ said that "heaven is within you" or, as the translation should rather have been, among you. We have also seen that of these three realms two are subdivided. It has also been explained that each division serves a great purpose in the unfoldment of various forms of life which dwell in each of these worlds, and we may note in conclusion, that the lower regions of the Desire World constitute what the Catholic religion calls Purgatory, a place where the evil of a past life is transmuted to good, usable by the Spirit as conscience in later lives. The higher regions of the Desire World are the First Heaven where all the good a man has done is assimilated by the Spirit as soul power. The Region of Concrete Thought is the Second Heaven, where, as already said, the Spirit prepares its future environment on Earth, and the Region of Abstract Thought is the Third Heaven, but as Paul said, it is scarcely lawful to speak about that. 
 

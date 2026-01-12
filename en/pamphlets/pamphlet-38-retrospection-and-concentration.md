@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="retrospection-and-concentration">Pamphlet №38: Retrospection and Concentration</h1>
+<h1 id="pamphlet-38-retrospection-and-concentration">Pamphlet №38: Retrospection and Concentration</h1>
 
 ### <h3 id="retrospection-and-concentration">Retrospection and Concentration</h3>
 

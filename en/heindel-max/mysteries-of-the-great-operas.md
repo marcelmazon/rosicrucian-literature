@@ -25,9 +25,9 @@ Oceanside, California, 92054, U.S.A.
     - [Chapter I: Divine Discord](#chapter-1)
     - [Chapter II: The Sorrows of the Seeking Soul](#chapter-2)
     - [Chapter III: The Sorrows of the Seeking Soul (cont.)](#chapter-3) 
-    - [Chapter IV: Selling His Soul to Satan](#chapter-3)
-    - [Chapter V: Selling His Soul to Satan (cont.)](#chapter-4)
-    - [Chapter VI: The Wages of Sin and the Ways of Salvation](#chapter-5)
+    - [Chapter IV: Selling His Soul to Satan](#chapter-4)
+    - [Chapter V: Selling His Soul to Satan (cont.)](#chapter-5)
+    - [Chapter VI: The Wages of Sin and the Ways of Salvation](#chapter-6)
 
 - [PARSIFAL](#parsifal)
     - [Chapter VII: Wagner's Mystic Music Drama](#chapter-7)

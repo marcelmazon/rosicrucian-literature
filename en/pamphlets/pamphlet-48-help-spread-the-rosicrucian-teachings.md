@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="help-spread-the-rosicrucian-teachings">Pamphlet №48: Help Spread the Rosicrucian Teachings!</h1>
+<h1 id="pamphlet-48-help-spread-the-rosicrucian-teachings">Pamphlet №48: Help Spread the Rosicrucian Teachings!</h1>
 
 ### <h3 id="help-spread-the-rosicrucian-teachings">Help Spread the Rosicrucian Teachings!</h3>
 

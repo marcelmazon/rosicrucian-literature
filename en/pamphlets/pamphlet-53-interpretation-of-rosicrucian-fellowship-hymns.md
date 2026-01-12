@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="interpretation-of-rosicrucian-fellowship-hymns">Pamphlet №53: Interpretation of Rosicrucian Fellowship Hymns</h1>
+<h1 id="pamphlet-53-interpretation-of-rosicrucian-fellowship-hymns">Pamphlet №53: Interpretation of Rosicrucian Fellowship Hymns</h1>
 
 ### <h3 id="the-rosicrucian-fellowship-opening-hymn">The Rosicrucian Fellowship Opening Hymn</h3>
 

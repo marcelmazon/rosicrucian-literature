@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-heart-a-wonderful-organ">Pamphlet №23: The Heart: A Wonderful Organ</h1>
+<h1 id="pamphlet-23-the-heart-a-wonderful-organ">Pamphlet №23: The Heart: A Wonderful Organ</h1>
 
 ### <h3 id="the-heart-a-wonderful-organ">The Heart: A Wonderful Organ</h3>
 

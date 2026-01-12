@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="how-the-rosicrucians-heal-the-sick">Pamphlet №21: How the Rosicrucians Heal the Sick</h1>
+<h1 id="pamphlet-21-how-the-rosicrucians-heal-the-sick">Pamphlet №21: How the Rosicrucians Heal the Sick</h1>
 
 ### <h3 id="how-the-rosicrucians-heal-the-sick">How the Rosicrucians Heal the Sick</h3>
 

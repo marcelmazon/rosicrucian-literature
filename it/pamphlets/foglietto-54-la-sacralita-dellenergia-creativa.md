@@ -9,7 +9,7 @@ original_source_file: "pamphlet-54-homosexuality.md"
 
 <h1 id="pamphlet-54-homosexuality">Foglietto №54: La Sacralità dell'Energia Creativa</h1>
 
-### <h3 id="homosexuality">Il fenomeno dell’omosessualità</h3>
+### <h3 id="homosexuality">Il Fenomeno dell’Omosessualità</h3>
 
 <strong>Domanda:</strong> Riguardo l’omosessualità, ho capito che nasciamo due volte durante ogni fase zodiacale, che è della durata di circa 2000 anni, una volta in un corpo femminile ed una volta in un corpo maschile, al fine di poter fare una più vasta gamma di esperienze in ogni corpo. Può accadere che talvolta rinasciamo due volte consecutive in un corpo femminile, e per questa ragione, nell’incarnazione successiva, potremmo essere un uomo molto effeminato, o viceversa. Tutto questo è in qualche modo legato al fatto per cui alcune persone sono attratte da individui del loro stesso sesso. Qual è la ragione esoterica che è all’origine delle relazioni e delle pratiche omosessuali? Le persone, in tal modo coinvolte, in che posizione si trovano rispetto alla loro crescita ed evoluzione?
 

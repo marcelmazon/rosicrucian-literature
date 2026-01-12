@@ -7,9 +7,9 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-brothers-of-the-rose-cross">Pamphlet №9: The Brothers of the Rose Cross</h1>
+<h1 id="pamphlet-9-the-brothers-of-the-rose-cross">Pamphlet №9: The Brothers of the Rose Cross</h1>
 
-<h3 id="the-brothers-of-the-rose-cross">The Brothers of the Rose Cross</h3>
+### <h3 id="the-brothers-of-the-rose-cross">The Brothers of the Rose Cross</h3>
 
 All those aspiring ones who align themselves, “in spirit and in truth,” with The Rosicrucian Fellowship and its Teachings, place themselves within the sphere of the Illumined ones of the human race whom we speak of as the Elder Brothers of the Rose Cross. It is greatly to our advantage as spiritual aspirants to realize the full significance of this fact and endeavor zealously to reap the full benefit of such a wonderful privilege. We can help make ourselves more attractive to their assistance by taking time to meditate upon them and their humanitarian endeavors, to send them our gratitude and love, to rededicate ourselves to serving them in their constant efforts of uplifting humanity.
 

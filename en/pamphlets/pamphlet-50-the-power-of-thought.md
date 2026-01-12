@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="the-power-of-thought">Pamphlet №50: The Power of Thought</h1>
+<h1 id="pamphlet-50-the-power-of-thought">Pamphlet №50: The Power of Thought</h1>
 
 ### <h3 id="the-power-of-thought">The Power of Thought</h3>
 

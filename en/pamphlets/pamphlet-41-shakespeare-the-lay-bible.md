@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="shakespeare-the-lay-bible">Pamphlet №41: Shakespeare – The Lay Bible</h1>
+<h1 id="pamphlet-41-shakespeare-the-lay-bible">Pamphlet №41: Shakespeare – The Lay Bible</h1>
 
 ### <h3 id="shakespeare-the-lay-bible">Shakespeare – The Lay Bible</h3>
 

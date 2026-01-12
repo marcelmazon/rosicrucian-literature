@@ -310,9 +310,7 @@ Ba, większość nawet nie zadowoli się równym braniem pod uwagę ich opinii. 
 
 Człowiek, który zdał sobie sprawę z własnej ignorancji podjął pierwszy krok ku wiedzy. 
 
-Droga ku uzyskaniu wiedzy z pierwszej ręki nie jest łatwa. Nic, co jest warte posiadania, nie przychodzi bez wytrwałego wysiłku. Nie zdoła wspomnieć wystarczającą ilość razy, że nie ma takich rzeczy jak dary lub „szczęście”. 
-
-Wszystko, czym ktokolwiek jest bądź cokolwiek ma, jest rezultatem wysiłku. Wszystko, czego jednostce brakuje w porównaniu z inną, jest po prostu uśpione u tej pierwszej i może zostać odkryte przy użyciu odpowiednich metod. 
+Droga ku uzyskaniu wiedzy z pierwszej ręki nie jest łatwa. Nic, co jest warte posiadania, nie przychodzi bez wytrwałego wysiłku. Nie zdoła wspomnieć wystarczającą ilość razy, że nie ma takich rzeczy jak dary lub „szczęście”. Wszystko, czym ktokolwiek jest bądź cokolwiek ma, jest rezultatem wysiłku. Wszystko, czego jednostce brakuje w porównaniu z inną, jest po prostu uśpione u tej pierwszej i może zostać odkryte przy użyciu odpowiednich metod. 
 
 Jeżeli czytelnik, w pełni pojmując tę ideę, zapyta co musi zrobić, by zdobyć tę wiedzę z pierwszej ręki, następująca historia, która jest najważniejszą w okultyzmie, może posłużyć za przykład: 
 
@@ -338,7 +336,7 @@ Jezus powiedział: „Prawda was wyzwoli”. Jednak Prawda nie jest znajdywana r
 
 To, co sprawia, że praca ta różni się od niektórych prac filozoficznych, to odmienny punkt widzenia. Jednakże oddaje się tu należyty szacunek nowo ustanowionym ideom oraz wnioskom wyciąganym przez innych badaczy. Autor szczerze liczy, że badanie kolejnych stron pomoże sprawić, że pojmowanie studentów stanie się pełniejsze i wyraźniejsze niż wcześniej. 
 
-### ROZDZIAŁ I: ŚWIATY WIDZIALNE I NIEWIDZIALNE 
+### <h3 id="chapter-1">ROZDZIAŁ I: ŚWIATY WIDZIALNE I NIEWIDZIALNE</h3> 
 
 Pierwszym krokiem w Okultyzmie jest badanie światów niewidzialnych. Światy te są niewidoczne dla większości ludzi z powodu uśpienia subtelniejszych i wyższych zmysłów, poprzez które takie światy mogą zostać dostrzeżone, w taki sam sposób jak Świat Fizyczny może zostać dostrzeżony przez zmysły fizyczne. Większość ludzi znajduje się w takim samym położeniu względem Światów nadnaturalnych, jak człowiek, który urodził się ślepy względem naszego świata zmysłów. Mimo że światło i kolor są dokoła niego, on nie jest w stanie ich zobaczyć. Dla niego one nie istnieją i są nie do pojęcia tylko dlatego, że brakuje mu zmysłu wzroku, którym mógłby je dostrzec. Potrafi on poczuć obiekty i wydają się one prawdziwe, jednakże światło i kolor są poza jego rozumieniem. 
 
@@ -378,17 +376,27 @@ Tak oto ta forma myślowa stała się materialną rzeczywistością. Materialist
 
 Zatem zobaczywszy rozsądność tych istniejących dokoła nas Światów i uzmysłowiwszy sobie ich realność i trwałość, a także użyteczność wiedzy o nich, przejdziemy teraz do badania ich jeden po drugim, zaczynając od Świata Fizycznego. 
 
-#### REGION CHEMICZNY ŚWIATA FIZYCZNEGO 
+#### <h4 id="chemical-region-of-the-physical-world">REGION CHEMICZNY ŚWIATA FIZYCZNEGO</h4>
 
 W naukach Różokrzyża wszechświat podzielony jest na siedem różnych Światów bądź stanów materii: 
 
-1. Świat Boga 2. Świat Dziewiczych Duchów 3. Świat Ducha Boskiego 4. Świat Ducha Życiowego 5. Świat Myśli 6. Świat Pożądań 7. Świat Fizyczny 
+```
+1. Świat Boga 
+2. Świat Dziewiczych Duchów 
+3. Świat Ducha Boskiego 
+4. Świat Ducha Życiowego 
+5. Świat Myśli 
+6. Świat Pożądań 
+7. Świat Fizyczny 
+```
 
 Podział ten nie jest przypadkowy, lecz konieczny, ponieważ substancje każdego z tych Światów odpowiadają prawom praktycznie nie funkcjonującym w innych. Na przykład w Świecie Fizycznym materia podlega grawitacji, kurczeniu się i rozszerzaniu. W Świecie Pożądań nie ma ani ciepła, ani zimna, a formy lewitują tak łatwo jak grawitują. Dystans i czas także są czynnikami kierującymi egzystencją w Świecie Fizycznym, lecz prawie w ogóle nie istnieją w Świecie Pożądań. 
 
 Materia tych światów różni się także pod względem gęstości. Świat Fizyczny jest najgęstszy z nich wszystkich. 
 
-Każdy Świat podzielony jest na siedem Regionów lub obszarów materii. W świecie fizycznym ciała stałe, ciecze i gazy tworzą trzy gęstsze obszary, a cztery pozostałe są eterami o różnych gęstościach. W innych światach podobne podziały są konieczne, ponieważ materia, z której się składają nie jest jednakowej gęstości. 
+Każdy Świat podzielony jest na siedem Regionów lub obszarów materii. 
+
+W świecie fizycznym ciała stałe, ciecze i gazy tworzą trzy gęstsze obszary, a cztery pozostałe są eterami o różnych gęstościach. W innych światach podobne podziały są konieczne, ponieważ materia, z której się składają nie jest jednakowej gęstości. 
 
 Pozostają jeszcze do opisania dwa rozróżnienia. Trzy gęste obszary Świata Fizycznego – ciała stałe, ciecze i gazy – stanowią Region Chemiczny. Substancje tego Regionu stanowią podstawę wszystkich gęstych Form. 
 
@@ -412,7 +420,7 @@ Teraz jest prawie pewne, że dalsze modyfikacje okażą się konieczne zanim mas
 
 Tyczy się to w równym stopniu wszystkich warunków życia – społecznych, handlowych i filantropijnych. Wiele planów wygląda na doskonałe dla tych, którzy je opracowują, i mogą nawet wyglądać dobrze na papierze, jednak, kiedy zostają poddane właściwym testom użyteczności, zawodzą. To jednak nie powinno nas zniechęcać. Prawdą jest, że „uczymy się więcej z naszych błędów niż z sukcesów”. Odpowiednim sposobem postrzegania tego Świata Fizycznego, jest postrzeganie go jako szkołę wartościowych doświadczeń, w której uczymy się lekcji najwyższej wagi. 
 
-#### REGION ETERYCZNY ŚWIATA FIZYCZNEGO 
+#### <h4 id="the-etheric-region-of-the-physical-world">REGION ETERYCZNY ŚWIATA FIZYCZNEGO</h4>
 
 Gdy wchodzimy w tę sferę natury, znajdujemy się w niewidzialnym, niematerialnym Świecie, gdzie nasze zwykłe zmysły zawodzą, stąd ta część Świata Fizycznego jest praktycznie niezbadana przez naukę materialną. 
 
@@ -444,7 +452,7 @@ Eter odzwierciedlający zasługuje na swoją nazwę z więcej niż jednego powod
 
 Eter ten jest także medium, poprzez które myśl oddziałuje na ludzki mózg. Jest on najbliżej połączony z czwartym obszarem Świata Myśli. Jest to najwyższy ze wszystkich czterech obszarów zawartych w Regionie Konkretnych Myśli i jest domem umysłu ludzkiego. Tutaj znajduje się znacznie przejrzystsza wersja pamięci natury niż w eterze odzwierciedlającym. 
 
-#### ŚWIAT POŻĄDAŃ 
+#### <h4 id="the-desire-world">ŚWIAT POŻĄDAŃ</h4>
 
 Tak samo jak Świat Fizyczny i każdy inny region natury, Świat Pożądań ma siedem obszarów zwanych „Regionami”, lecz w przeciwieństwie do Świata Fizycznego nie ma w nim wielkiego podziału odpowiadającego Regionom Chemicznym i Eterycznym. Materiał emocjonalny Świata Pożądań utrzymuje się poprzez jego siedem obszarów lub regionów jako materiał dla ucieleśniania pożądań. Podobnie jak Region Chemiczny jest regionem form, a Region Eteryczny jest domem sił przeprowadzających czynności życiowe tych form, dając im możliwość żyć, poruszać się i rozmnażać, tak siły w Świecie Pożądań, pracujące w ożywionym ciele fizycznym, pchają je w jednym lub drugim kierunku. 
 
@@ -506,11 +514,13 @@ Nazwy trzech wyższych Regionów Świata Pożądań to „Region Życia Duszy”
 
 Świat Pożądań ze swoimi niezliczonymi mieszkańcami, przenika Świat Fizyczny, tak jak linie siły przenikają wodę – niewidocznie, lecz wszechobecnie i potężnie, jako przyczyna wszystkiego w Świecie Fizycznym. 
 
-#### ŚWIAT MYŚLI 
+#### <h4 id="the-world-of-thought">ŚWIAT MYŚLI</h4>
 
 Świat Myśli także składa się z siedmiu Regionów o różnych właściwościach i gęstościach oraz, tak jak Świat Fizyczny, podzielony jest na dwa główne obszary – Region Konkretnych Myśli, składający się z czterech najgęstszych Regionów; i Region Abstrakcyjnych Myśli, składający się z trzech Regionów o najsubtelniejszej substancji. Świat Myśli jest centralnym spośród pięciu Światów, z których człowiek uzyskuje swoje pojazdy. Tutaj spotykają się ciało i duch. Jest to także najwyższy z trzech Światów, w których ludzka ewolucja postępuje w obecnym czasie. Dwa wyższe Światy tkwią, póki co, praktycznie w zawieszeniu, jeżeli chodzi o ludzi. 
 
-Wiemy, że materiały Regionu Chemicznego są używane do budowy wszystkich form fizycznych. Formy te otrzymują życie i moc ruchu od sił działających w Regionie Eterycznym i niektóre z tych żyjących form są pobudzane do aktywności poprzez bliźniacze Uczucia Świata Pożądań. Region Konkretnych Myśli dostarcza materiał myślowy, w którym idee wygenerowane w Regionie Abstrakcyjnych Myśli ubrane są jako formy myśli, by służyć jako regulatory i balanse wobec impulsów wytwarzanych w Świecie Pożądań poprzez wpływy z tego fenomenalnego Świata. 
+Wiemy, że materiały Regionu Chemicznego są używane do budowy wszystkich form fizycznych. Formy te otrzymują życie i moc ruchu od sił działających w Regionie Eterycznym i niektóre z tych żyjących form są pobudzane do aktywności poprzez bliźniacze Uczucia Świata Pożądań. 
+
+Region Konkretnych Myśli dostarcza materiał myślowy, w którym idee wygenerowane w Regionie Abstrakcyjnych Myśli ubrane są jako formy myśli, by służyć jako regulatory i balanse wobec impulsów wytwarzanych w Świecie Pożądań poprzez wpływy z tego fenomenalnego Świata. 
 
 A więc widzimy jak te trzy Światy, w których człowiek obecnie ewoluuje, uzupełniają się wzajemnie tworząc całość, która ujawnia Najwyższą Mądrość Wielkiego Architekta systemu, do którego należymy i którego czcimy świętym imieniem Boga. 
 
@@ -526,7 +536,9 @@ Drugi obszar Regionu Konkretnych Myśli nazywa się „Regionem Oceanicznym”. 
 
 Tak jak wynika z nazwy, Region ten jest domem Sił Archetypowych, które kierują aktywnością archetypów w Regionie Konkretnych Myśli. Z tego regionu Duch pracuje nad materią w formatywny sposób. Diagram 1 obrazuje tę zależność w sposób schematyczny, przedstawiając formy z niższego Świata jako odbicia Ducha z wyższych Światów. Piąty Region, który jest najbliżej punktu skupienia po stronie Ducha, odzwierciedla się w trzecim Regionie, który jest najbliżej punktu skupienia po stronie Form. Szósty Region odzwierciedla się w drugim, a siódmy odzwierciedla się w pierwszym. 
 
-Cały Region Abstrakcyjnych Myśli jest odzwierciedlany w Świecie Pożądań; Świat Ducha Życiowego w Regionie Eterycznym Świata Fizycznego, a Świat Ducha Boskiego w Regionie Chemicznym Świata Fizycznego. Diagram 2 ukaże pełen zarys siedmiu Światów, które stanowią sferą naszego rozwoju. Musimy jednak uważnie pamiętać, że Światy te nie są umieszczone jeden nad drugim, tak jak jest to ukazane na diagramie. One przenikają się wzajemnie. Wcześniej porównany został związek Świata Fizycznego ze Światem Pożądań i przyrównaliśmy Świat Pożądań do linii siły w zamarzniętej wodzie, a wodę do Świata Fizycznego. W ten sam sposób możemy myśleć, że linie siły są którymkolwiek z siedmiu Światów, a woda, tak jak w naszym przykładzie, odpowiada kolejnemu gęstszemu w skali Światu. Kolejny przykład może rozjaśni sprawę. 
+Cały Region Abstrakcyjnych Myśli jest odzwierciedlany w Świecie Pożądań; Świat Ducha Życiowego w Regionie Eterycznym Świata Fizycznego, a Świat Ducha Boskiego w Regionie Chemicznym Świata Fizycznego. 
+
+Diagram 2 ukaże pełen zarys siedmiu Światów, które stanowią sferą naszego rozwoju. Musimy jednak uważnie pamiętać, że Światy te nie są umieszczone jeden nad drugim, tak jak jest to ukazane na diagramie. One przenikają się wzajemnie. Wcześniej porównany został związek Świata Fizycznego ze Światem Pożądań i przyrównaliśmy Świat Pożądań do linii siły w zamarzniętej wodzie, a wodę do Świata Fizycznego. W ten sam sposób możemy myśleć, że linie siły są którymkolwiek z siedmiu Światów, a woda, tak jak w naszym przykładzie, odpowiada kolejnemu gęstszemu w skali Światu. Kolejny przykład może rozjaśni sprawę. 
 
 Spójrzmy na kulistą gąbkę jak na gęstą ziemię – Region Chemiczny. Wyobraźmy sobie, że piasek przenika każdą część gąbki, a także tworzy warstwę na zewnątrz gąbki. Niech piasek odpowiada Regionowi Eterycznemu, który w podobny sposób przenika gęstą ziemię i wykracza poza jej atmosferę. 
 
@@ -536,14 +548,11 @@ Wiemy, że w wodzie jest powietrze i jeżeli pomyślimy o powietrzu w wodzie (z 
 
 Wreszcie wyobraźmy sobie, że naczynie z gąbką, piaskiem i wodą umieszczone jest w centrum innego dużego kulistego naczynia. Wtedy powietrze w przestrzeni pomiędzy dwoma naczyniami reprezentowałoby tę część Świata Myśli, która wychodzi poza Świat Pożądań. 
 
-Każda z planet w naszym układzie słonecznym ma trzy przenikające się światy. Jeśli pomyślimy o każdej z tych planet składających się z trzech Światów jak o pojedynczych gąbkach i o czwartym Świecie, Świecie Ducha Życiowego, jak o wodzie w dużym naczyniu, w którym te trzy oddzielne gąbki pływają, zrozumiemy, że podobnie jak woda w naczyniu wypełnia przestrzeń pomiędzy gąbkami i przenika je, tak Świat Ducha Życiowego przenika międzyplanetarną przestrzeń i poszczególne planety. Świat ten formuje wspólną więź między nimi. 
-
-W związku z tym podobnie jak koniecznym jest, aby mieć łódź i być stanie ją kontrolować, jeżeli chcemy przepłynąć z Ameryki do Afryki, tak i trzeba świadomie kontrolować pojazd odpowiedni dla Świata Ducha Życiowego, aby być w stanie podróżować z jednej planety na drugą. 
+Każda z planet w naszym układzie słonecznym ma trzy przenikające się światy. Jeśli pomyślimy o każdej z tych planet składających się z trzech Światów jak o pojedynczych gąbkach i o czwartym Świecie, Świecie Ducha Życiowego, jak o wodzie w dużym naczyniu, w którym te trzy oddzielne gąbki pływają, zrozumiemy, że podobnie jak woda w naczyniu wypełnia przestrzeń pomiędzy gąbkami i przenika je, tak Świat Ducha Życiowego przenika międzyplanetarną przestrzeń i poszczególne planety. Świat ten formuje wspólną więź między nimi. W związku z tym podobnie jak koniecznym jest, aby mieć łódź i być stanie ją kontrolować, jeżeli chcemy przepłynąć z Ameryki do Afryki, tak i trzeba świadomie kontrolować pojazd odpowiedni dla Świata Ducha Życiowego, aby być w stanie podróżować z jednej planety na drugą. 
 
 W podobny sposób jak Świat Ducha Życiowego łączy nas z innymi planetami w naszym własnym układzie słonecznym, Świat Ducha Boskiego łączy nas z innymi układami słonecznymi. Możemy postrzegać układy słoneczne jak oddzielne gąbki, pływające w Świecie Ducha Boskiego. Wtedy stanie się oczywiste, że, aby podróżować z jednego układu słonecznego do drugiego, koniecznym byłoby świadome funkcjonowanie w najwyższym pojeździe człowieka - Duchu Boskim. 
 
-
-### ROZDZIAŁ II: CZTERY KRÓLESTWA 
+### <h3 id="the-four-kingdoms">ROZDZIAŁ II: CZTERY KRÓLESTWA</h3>
 
 Te trzy Światy naszej planety są obecnie polem ewolucji dla wielu różnych królestw życia w różnych etapach rozwoju. Tylko cztery z nich powinny nas obecnie interesować: królestwa minerałów, roślin, zwierząt i ludzi. 
 

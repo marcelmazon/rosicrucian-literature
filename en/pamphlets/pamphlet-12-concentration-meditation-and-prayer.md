@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="concentration-meditation-and-prayer">Pamphlet №12: Concentration, Meditation, and Prayer</h1>
+<h1 id="pamphlet-12-concentration-meditation-and-prayer">Pamphlet №12: Concentration, Meditation, and Prayer</h1>
 
 ### <h3 id="concentration-meditation-and-prayer">Concentration, Meditation, and Prayer</h3>
 

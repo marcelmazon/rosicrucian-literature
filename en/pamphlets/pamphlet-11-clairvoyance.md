@@ -7,7 +7,7 @@ author: '???'
 original_source_file: 'self'
 ---
 
-<h1 id="clairvoyance">Pamphlet №11: Clairvoyance</h1>
+<h1 id="pamphlet-11-clairvoyance">Pamphlet №11: Clairvoyance</h1>
 
 ### <h3 id="clairvoyance">Clairvoyance</h3>
 

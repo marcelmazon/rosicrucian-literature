@@ -1,5 +1,5 @@
 ---
-title: "Interprétation Rosicrucienne du Christianisme"
+title: "Dépliant №10: Interprétation Rosicrucienne du Christianisme"
 language: "fr"
 original_title: "Pamphlet №10: Rosicrucian Interpretation of Christianity"
 original_language: "en"
@@ -7,7 +7,7 @@ author: "???"
 original_source_file: "pamphlet-10-rosicrucian-interpretation-of-christianity.md"
 ---
 
-<h1 id="pamphlet-10-rosicrucian-interpretation-of-christianity">Interprétation Rosicrucienne du Christianisme</h1>
+<h1 id="pamphlet-10-rosicrucian-interpretation-of-christianity">Dépliant 10: Interprétation Rosicrucienne du Christianisme</h1>
 
 ### <h3 id="rosicrucian-interpretation-of-christianity">Rosicrucian Interpretation of Christianity</h3>
 

@@ -19,7 +19,7 @@ Practical Methods Of Achieving Success
 
 by Max Heindel [1865-1919]
 
-A Series of Lessons upon the Hidden Side fo Life, Showing the Occult Forces Which Shape Our Destiny
+A Series of Lessons upon the Hidden Side of Life, Showing the Occult Forces Which Shape Our Destiny
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters  
