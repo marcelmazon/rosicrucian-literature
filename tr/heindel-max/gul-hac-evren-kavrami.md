@@ -1,0 +1,4447 @@
+---
+title: "Gül-Haç Evren Kavramı"
+language: 'en'
+original_title: "The Rosicrucian Cosmo-Conception"
+original_language: 'en'
+author: 'Max Heindel'
+original_source_file: "the-rosicrucian-cosmo-conception.md"
+---
+
+<h1 id="the-rosicrucian-cosmo-conception">Gül-Haç Evren Kavramı</h1>
+
+or Mystic Christianity
+
+An Elementary Treatise Upon Man's Past Evolution, Present Constitution and Future Development
+
+![Picture of Max Heindel](../../assets/max-heindel.jpg)
+
+By Max Heindel [1865-1919] 
+
+Its Message and Mission: 
+
+```
+A Sane Mind
+    A Soft Heart
+        A Sound Body
+```
+
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters  
+Mt. Ecclesia  
+Oceanside, California, 91054, USA  
+
+### <h3 id="list-of-contents">List of Contents</h3>
+
+- [Creed or Christ](#creed-or-christ)
+- [Bilgeye Bir Söz](#a-word-to-the-wise)
+- [1. KISIM: İnsanın Şimdiki Yapısı ve Onun Gelişim Yöntemi](#part-1)
+  - [Dort Alem](#diagram-the-four-kingdoms)
+  - [Giriş](#introduction)
+  - [1. Bölüm: Görünen ve Görünmeyen Dünyalar](#chapter-1)
+    - [Fizik Âlemin Kimyasal Bölgesi](#chemical-region-of-the-physical-world)
+    - [Fizik Âlemin Eter Bölgesi ](#etheric-region-of-the-physical-world)
+    - [Arzu Âlemi](#the-desire-world)
+    - [Düşünce Âlemi](#the-world-of-thought)
+    - [ŞEKİL 1: Görünür ve görünmez alemlerin karşılıklı konumları (bir projektörle karşılaştırmalı olarak)](#diagram-1-the-material-world-a-reverse-reflection-of-the-spiritual-worlds)
+    - [Diagram 2. Yedi Alem](#diagram-2-the-seven-worlds)
+  - [2. Bölüm: Dört Âlem](#chapter-2)
+    - [Diagram 3. The Vehicles of the Four Kingdoms](#diagram-3-the-vehicles-of-the-four-kingdoms)
+    - [Diagram 4. The Consciousness of the Four Kingdoms](#diagram-4-the-consciousness-of-the-four-kingdoms)
+  - [3. Bölüm: İnsan ve Evrim Metodu](#chapter-3)
+    - [Yaşam Faaliyetleri, Hafıza ve Rûhun Büyümesi ](#activities-of-life-memory-and-soul-growth)
+    - [The Constitution of the Seven-fold Man](#constitution-of-the-seven-fold-man)
+    - [Diagram 5. The Three-fold Spirit, the Three-fold Body and the Three-fold Soul](#diagram-5-the-three-fold-spirit-the-three-fold-body-and-the-three-fold-soul)
+    - [Ölüm ve Araf](#death-and-purgatory)
+    - [Diagram 5 1/2. The Silver Cord](#diagram-5-1-2-the-silver-cord)
+    - [Sınır bölgesi](#the-borderland)
+    - [Birinci Cennet](#the-first-heaven)
+    - [İkinci Cennet](#the-second-heaven)
+    - [Üçüncü Cennet](#the-third-heaven)
+    - [Yeniden Doğuşa Hazırlık](#preparations-for-rebirth)
+    - [Yoğun Bedenin Doğuşu](#birth-of-the-dense-body)
+    - [Yaşam Bedenin Doğuşu](#birth-of-the-vital-body)
+    - [Arzu Bedenin Doğuşu](#birth-of-the-desire-body)
+    - [Zihnin Doğuşu](#birth-of-the-mind)
+    - [Ego’nun Aracı Olarak Kan](#the-blood-the-vehicle-of-the-ego)
+    - [A Life Cycle (diagram)](#diagram-a-life-cycle)
+  - [4. Bölüm: Yeniden Doğuş ile Sebep ve Sonuç Yasası](#chapter-4)
+    - [Evrim’de Bir Faktör Olarak Şarap](#wine-as-a-factor-in-evolution)
+    - [Dikkate Değer Bir Hikâye](#a-remarkable-story)
+- [2. KISIM: Evrenin Yaratılışı (Kosmogenesis) ve İnsanın Yaratılışı (Antropogenesis)](#part-2)
+  - [5. Bölüm: İnsanın Tanrı ile Olan İlişkisi](#chapter-5)
+    - [Diagram 6. The Supreme Being, the Cosmic Planes and God](#diagram-6-the-supreme-being-the-cosmic-planes-and-god)
+  - [6. Bölüm: Evrim Projesi](#chapter-6)
+    - [Başlangıç](#the-beginning)
+    - [Yedi Âlem](#the-seven-worlds)
+    - [Yedi Evre](#the-seven-periods)
+    - [Diagram 7. The Saturn Period](#diagram-7-the-saturn-period)
+  - [7. Bölüm: Evrim Yolu](#chapter-7)
+    - [Devirler ve Kozmik Geceler](#revolutions-and-cosmic-nights)
+    - [Diagram 8. The Seven Worlds, Seven Globes and Seven Periods](#diagram-8-the-seven-worlds-seven-globes-and-seven-periods)
+  - [8. Bölüm: Evrimin İşleyişi](#chapter-8)
+    - [Aryan’ın (Ariadne) İpi](#ariadnes-thread)
+    - [Satürn Evresi](#the-saturn-period)
+    - [Tekrarlama](#recapitulation)
+    - [Güneş Evresi](#the-sun-period)
+    - [Ay Evresi](#the-moon-period)
+    - [Diagram 9. The Twelve Creative Hierarchies](#diagram-9-twelve-creative-hierarchies)
+  - [9. Bölüm: Geri Kalmışlar ve Yeni Gelenler](#chapter-9)
+    - [Classes of Beings at the Beginning of the Moon Period](#classes-of-beings-at-the-beginning-of-the-moon-period)
+    - [Diagram 10. Classes at the Beginning of Earth Period](#diagram-10-classes-at-the-beginning-of-earth-period)
+  - [10. Bölüm: Yer Evresi](#chapter-10)
+    - [Yer Evresi’nin Satürn Devri](#the-saturn-revolution-of-the-earth-period)
+    - [Yer Evresi’nin Güneş Devri](#the-sun-revolution-of-the-earth-period)
+    - [Yer Evresi’nin Ay Devri](#the-moon-revolution-of-the-earth-period)
+    - [Devirler Arasındaki Dinlenme Aralıkları](#rest-periods-between-revolutions)
+    - [Yer Evresi’nin Dördüncü Devri](#the-fourth-revolution-of-the-earth-period)
+  - [11. Bölüm: Güneş Sistemimizin Yaratılışı ve Evrimi](#chapter-11)
+    - [Kaos](#chaos)
+    - [Gezegenlerin Doğuşu](#the-birth-of-the-planets)
+    - [Diagram 11. Aspects of God and Man](#diagram-11-aspects-of-god-and-man)
+    - [Table of Vibrations](#table-of-vibrations)
+    - [Diagram 12. A Man's Past, Present and Future Form](#diagram-12-a-mans-past-present-and-future-form)
+  - [12. Bölüm: Dünya’da Evrim](#chapter-12)
+    - [Kutup Çağı](#the-polarian-epoch)
+    - [Uzak-Kuzey (Hiperboreik) Çağı](#the-hyperborean-epoch)
+    - [Sekizinci Gezegen: Ay](#the-moon-the-eighth-sphere)
+    - [Lemurya Çağı](#the-lemurian-epoch)
+    - [Bireyin Doğuşu](#birth-of-the-individual)
+    - [Cinsiyetlerin Ayrılması](#separation-of-the-sexes)
+    - [Mars’ın Etkisi](#influence-of-mars)
+    - [Irklar ve Liderleri](#the-races-and-their-leaders)
+    - [Merkür’ün Etkisi](#influence-of-mercury)
+    - [Lemurya Irkı](#the-lemurian-race)
+    - [İnsanın Düşüşü](#the-fall-of-man-1)
+    - [Lüsifer Ruhları](#the-lucifer-spirits)
+    - [Atlantis Çağı](#the-atlantean-epoch)
+    - [Âri Çağı](#the-aryan-epoch)
+    - [Yıkımın On Altı Yolu](#the-sixteen-paths-to-destruction)
+  - [13. Bölüm: Kutsal Kitap’a Dönüş](#chapter-13)
+  - [14. Bölüm: Yaratılışın Okült Analizi](#chapter-14)
+    - [Kutsal Kitap’ın Kısıtlamaları](#limitations-of-the-bible)
+    - [Başlangıçta](#in-the-beginning)
+    - [Nebula Teorisi](#the-nebular-theory)
+    - [Yaratıcı Hiyerarşiler](#the-creative-hierarchies)
+    - [Satürn Evresi](#the-saturn-period)
+    - [Güneş Evresi](#the-sun-period)
+    - [Ay Evresi](#the-moon-period)
+    - [Yer Evresi](#the-earth-period)
+    - [Yehova ve Misyonu](#jehovah-and-his-mission)
+    - [Bozunum (Involution), Evrim (Evolution) ve Hücreden Yaratım (Epigenesis)](#involution-evolution-and-epigenesis)
+    - [Yaşayan Bir Ruh mu?](#a-living-soul)
+    - [Adem’in Kaburgası](#adams-rib)
+    - [Koruyucu Melekler](#guardian-angels)
+    - [Evlilikte Kan Karışımı](#mixing-blood-in-marriage)
+    - [İnsanın Düşüşü](#the-fall-of-man-2)
+    - [Diagram 13. The Beginning and End of Sex](#diagram-13-the-beginning-and-end-of-sex)
+- [PART III: MAN'S FUTURE DEVELOPMENT AND INITIATION](#part-3)
+  - [Diagram. The Seven Days of Creation](#diagram-the-seven-days-of-creation)
+  - [15. Bölüm: Mesih ve Misyonu](#chapter-15)
+    - [Dinin Gelişimi](#the-evolution-of-religion)
+    - [İsa ve İsa Mesih](#jesus-and-christ-jesus)
+    - [Diagram 14. The Father, the Son and the Holy Spirit](#diagram-14-the-father-the-son-and-the-holy-spirit)
+    - [Barış Değil Bir Kılıç](#not-peace-but-a-sword)
+    - [Bethlehem Yıldızı](#the-star-of-bethlehem)
+    - [Bir Rahatsızlık Olarak Kalp](#the-heart-as-an-anomaly)
+    - [Golgotha’nın Esrarı](#the-mystery-of-golgotha)
+    - [Arındırıcı Kan](#the-cleansing-blood)
+    - [Diagram, "As Above, so Below"](#diagram-as-above-so-below)
+  - [16. Bölüm: Gelecekteki Gelişim ve İnisiyasyon](#chapter-16)
+    - [Yaratılışın Yedi Günü](#the-seven-days-of-creation)
+    - [Diagram 15. The Symbolism of the Caduceus](#diagram-15-the-symbolism-of-the-caduceus)
+    - [Radiates, Mollusks, Articulates and Vertebrates](#radiates-mollusks-articulates-and-vertebrates)
+    - [Spiraller İçinde Spiraller](#spirals-within-spirals)
+    - [Simya ve Ruhun Büyümesi](#alchemy-and-soul-growth)
+    - [Yaratıcı Kelime](#the-creative-word)
+  - [17. Bölüm: Bilgiyi İlk Elden Edinmenin Yöntemi](#chapter-17)
+    - [İlk Adımlar](#the-first-steps)
+    - [Batı İnsanı için Batılı Yöntemler](#western-methods-for-western-people)
+    - [Beslenme Bilimi](#the-science-of-nutrition)
+    - [Table of Food Values, Part I](#table-of-food-values-part-1)
+    - [Table of Food Values, Part II](#table-of-food-values-part-2)
+    - [Sindirim Yasası](#the-law-of-assimilation)
+    - [Yaşamak ve Yaşatmak](#live-and-let-live)
+    - [Efendi’nin Duası](#the-lords-prayer)
+    - [Diagram 16. The Lord's Prayer](#diagram-16-the-lords-prayer)
+    - [Evlenmeme Yemini](#the-vow-of-celibacy)
+    - [Hipofiz ve Epifiz](#the-pituitary-body-and-the-pineal-gland)
+    - [Diagram 17. Path of the Unused Sex Currents](#diagram-17-path-of-the-unused-sex-currents)
+    - [Ezoterik Eğitim](#esoteric-training)
+    - [İçsel Araç Nasıl Yapılır](#how-the-inner-vehicle-is-built)
+    - [Konsantrasyon](#concentration)
+    - [Meditasyon](#meditation)
+    - [Gözlem](#observation)
+    - [Ayırım](#discrimination)
+    - [Seyir (Contemplation)](#contemplation)
+    - [Tapınma (Adoration)](#adoration)
+  - [18. Bölüm: Yerin Yapısı ve Yanardağ Püskürmeleri](#chapter-18)
+    - [Hayvanların Sayısı](#the-number-of-the-beast)
+    - [Diagram 18. The Constitution of the Earth](#diagram-18-the-constitution-of-the-earth)
+  - [19. Bölüm: Christian Rosenkreuz ve Gülhaç Tarikatı](#chapter-19)
+    - [Modern Elbise İçindeki Antik Gerçekler ](#ancient-truths-in-modern-dress)
+    - [İnisiyasyon](#initiation)
+    - [Gülhaç Cemaati](#the-rosicrucian-fellowship)
+    - [Correspondence Courses](#correspondence-courses)
+    - [Gülhaç Sembolizmi](#symbolism-of-the-rose-cross)
+- [Topical Index]()
+  - [Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant](#addendum-a)
+  - [Concerning the Origin of the Fellowship Teachings]()
+  - [Addendum B: Footnote to Chapter III](#addendum-b)
+  - [Addendum C: Footnote to Chapter XIII (Regarding Race)](#addendum-c)
+  - [Addendum D: Footnote to "Our Buildings"](#addendum-d)
+
+### <h3 id="creed-or-christ">CREED OR CHRIST</h3>
+
+```
+No man loves God who hates his kind,  
+Who tramples on his brother's heart and soul;  
+Who seeks to shackle, cloud, or fog the mind  
+By fears of hell has not perceived our goal.  
+
+God-sent are all religions blest;  
+And Christ, the Way, the Truth, the Life,  
+To give the heavy laden rest  
+And peace from sorrow, sin, and strife.  
+
+Behold the Universal Spirit came  
+To all the churches, not to one alone;  
+On Pentecostal morn a tongue of flame  
+Round each apostle as a halo shone.  
+
+Since then, as vultures ravenous with greed,  
+We oft have battled for an empty name,  
+And sought by dogma, edict, cult, or creed,  
+To send each other to the quenchless flame.  
+
+Is Christ then twain? Was Cephas, Paul,  
+To save the world, nailed to the tree?  
+Then why divisions here at all?  
+Christ's love enfolds both you and me.  
+
+His pure sweet love is not confined  
+By creed which segregate and raise a wall.  
+His love enfolds, embraces human kind,  
+No matter what ourselves or Him we call.  
+
+Then why not take Him at His word?  
+Why hold to creeds which tear apart?  
+But one thing matters, be it heard  
+That brother love fill every heart.  
+
+There's but one thing the world has need to know.  
+There's but one balm for all our human woe:  
+There's but one way that leads to heaven above -  
+That way is human sympathy and love.  
+
+-- Max Heindel.
+```
+
+### <h3 id="a-word-to-the-wise">Bilgeye Bir Söz</h3>
+
+Hıristiyan dininin kurucusu, “Tanrı’nın Krallığı’nı küçük bir çocuk gibi kabul etmeyen onun krallığına giremeyecektir” (Mark. 10, 15) dediğinde okült bir gerçeği bildirmiştir. Tüm okültistler, İsa’nın bu öğretisinin büyük öneminin farkındadırlar ve gün be gün bu öğretiye göre “yaşamaya” gayret ederler. 
+
+Dünyâ’ya yeni bir felsefe sunulduğunda farklı insanlar onunla farklı şekillerde buluşurlar. 
+
+Bazıları her yeni felsefi çabayı, kendi fikirlerini ne kadar desteklediğini ortaya çıkarmak için hırsla anlamaya çalışır. Böyle birisi için felsefenin kendisi, fazla bir önem taşımaz. Ve de felsefenin onun için birincil görevi, onun kendi fikirlerini kanıtlamasıdır. Eğer eser bu açıdan onun beklentilerini karşılıyorsa hevesle onu benimseyecek ve en mantıksız bir fanatizmle ona bağlı kalacaktır. Ancak eğer eser onun beklentilerine cevap vermiyorsa muhtemelen kitabı öfke ve hayal kırıklığı ile bir kenara atacaktır. Ve de kendisini, sanki kitabın yazarı ona bir haksızlık yapmış gibi hissedecektir. 
+
+Başkaları da kitabın, daha önce okumadıkları, duymadıkları veya kendi düşüncelerinde yaratmadıkları şeyler içerdiğini anlar anlamaz şüpheci bir tutum takınacaklardır. Böyle bir kişi, onun takındığı bu ruhsal tutumun kendini beğenmenin ve hoşgörüsüzlüğün zirvesi olduğu suçlamasına muhtemelen kızacak ve de kendisine yöneltilen bu suçlamayı çok haksızca bularak reddedecektir. Ancak ona yöneltilen suçlama doğrudur. Ve de o, bu şekilde, hemen reddettiği şeyde saklı olması muhtemel gerçeklere kendisini kapatmıştır. 
+
+Ancak bu iki grubun ikisi de kendi ışıklarında dururlar. “Sabit” fikirler onları gerçeğin ışıklarını alamaz hale getirmiştir. “Küçük bir çocuk” ise bu konuda yetişkinlerin tam tersidir. O, ne yüksek bilginin çok büyük duygusuyla doludur ve ne de kendisini bilge görünmek veya herhangi bir konudaki bilgisizliğini gülme veya alay etmeyle saklamak zorunda hisseder. O, samimi bir bilgisizdir ve önyargılı fikirlerle zincirlenmemiştir ve böylece her şeyi kolaylıkla öğrenebilir. Çocuk her şeyi, bizim “çocuksu inanç” olarak adlandırdığımız ve içinde hiçbir şüphenin gölgesi bulunmayan güzel bir güvenle alır. Aldığı öğretiyi o, bu öğreti kanıtlanana veya çürütülene dek bu inanç içerisinde tutar. 
+
+Tüm okült okullarda öğrenciye ilk olarak, kendisine yeni bir öğreti verildiğinde başka her şeyi unutması öğretilir. Böylelikle öğrenci yönetimi, ne eğilime ve ne de önyargıya bırakmamayı; aksine zihni sakin ve ağırbaşlı bekleme durumunda tutmayı öğrenir. Şüphecilik bizi en etkili bir şekilde gerçeğe karşı körleştirirken, zihnin bu sakin ve güven dolu tutumu, sezgiye ya da diğer bir deyişle gerçeğin bilincine varmayı sağlayan “içten öğretime” imkân verir. Bu, gerçeğin tamamen kesin bir anlayışını geliştirmek için tek yoldur. 
+
+Hiç kimse öğrenciden, onun beyaz olarak gördüğü bir nesnenin, (böyle bir şey iddia edilirse) gerçekte siyah olduğuna körü körüne inanmasını talep etmez. Fakat öğrenci, “her şeye inanmanın” mümkün olabileceği bir düşünce biçimini geliştirmelidir. Bu ona, genelde “bilinen gerçekleri” belli bir süreliğine bir kenara bırakmasını ve onun tarafından şimdiye kadar fark edilmemiş başka bir bakış açısı olup olmadığını araştırabilmesini mümkün kılar. Böylece öğrenci belki de, bu noktadan baktığında biraz önce söylediğimiz şeyin gerçekten siyah göründüğünü fark edecektir. Ve de hiçbir zaman herhangi bir şeyi “bilinen bir gerçek” olarak görmeye cesaret edemeyecektir. Zira o, zihnini çocuklara has bir özellik olan uyum yeteneğinin hareketli hâlinde tutmanın öneminin tamamen farkındadır. O, varlığının her telinde “şimdi bir camın arkasından baktığımızın ve karanlık gördüğümüzün” bilincindedir ve Ajax gibi hep özlemle “ışık, daha çok ışığın” peşindedir. 
+
+Böyle bir zihinsel tutumun büyük avantajı, herhangi bir özne, nesne veya fikri araştırırken açıkça görülür. Değişmez ve kesin bir şekilde çelişkili görünen ve karşıt tarafların savunucularına çok büyük duygusal çabalara mal olmuş olan tespitler, bu kitaptaki bir örnekte gösterileceği gibi yine de mükemmel bir uzlaşmayı sağlayabilir. Uzlaşma bağı ancak açık bir zihin aracılığıyla keşfedilebilir. Bu kitap, okuyucu tarafından diğerlerinden çok farklı bulunsa da yazar, kendisinden sonra gelen yargıya temel olmak üzere, kitaba tarafsız bir kulak verme istemektedir. Eğer kitap “tartılıp hafif bulunursa” yazar bundan şikayet etmeyecektir. O yalnızca, savunucusu olduğu sistemin bilgisizliğine dayanan aceleci bir yargı duymaktan endişe etmektedir. Zira tarafsız bir eleştirinin reddedilmesinin sonucunda varılan yargı kusurlu olur. Yazar ayrıca açıkça ifade etmektedir ki dinlenilmeye lâyık tek görüş, ancak bilgiye dayanan görüştür. 
+
+Bir şeyi yargılarken dikkatli olunması gereken bir başka neden de aceleyle bildirilen bir görüşü geri almanın pek çok kişi için son derece zor olmasıdır. Bu yüzden okuyucudan, eserin incelemesi onu eserin değerine veya değersizliğine tam olarak ikna edene kadar övgü veya yergi dolu tüm görüşlerini kendisinde tutması rica edilmektedir. 
+
+Gülhaç evren anlayışı dogmatik (inanca dayalı) bir anlayış değildir. Ve de öğrencinin aklından başka bir otoriteye hitap etmez. Bu anlayış bir polemik de değildir. Bu eser, geçmişte derin felsefelerin öğrencilerin zihinlerini kuşatarak yarattığı bazı zorlukların aşılmasında yardımı olması umuduyla yayınlanmaktadır. Ciddi yanlış anlamalardan kaçınmak için öğrencinin özellikle dikkatini çekmek isteriz ki, güneşin altındaki her şeyi ve güneşin üstünü de kapsayan böyle karmaşık bir konuda hatasız bir eser yazılması mümkün değildir. 
+
+Hatasız bir eser, her şeyi bilmeyi gerektirir ki bu da kitabın yazarının kapasitesinin üzerindedir. Ve Büyük Biraderlerin kendileri bile bazen yargılarında hatalı olduklarını söylemektedirler. Bu yüzden Gizemler Dünyâsı hakkında son sözü söyleyecek bir kitap yoktur. Bu eserin yazarı da hiçbir şekilde böyle bir iddiada bulunmamaktadır. Bu eser bir bakıma Gülhaç’ın en temel öğretilerini yeniden söylemektedir. 
+
+Gülhaç Kardeşliği Gizem-Dünyâsı’nda, yazarın yalnızca bu konuyu araştırmaya adadığı pek çok yıl sonunda bilgisine sahip olduğu tüm yollar içerisinde en ileri ve en mantıklı anlayışa sahip olanıdır. Yazar, araştırabildiği ölçüde Gülhaç öğretilerinin bildiği gerçeklere uygun olduğunu tespit etmiştir. Ancak yazar emindir ki, Gülhaç Dünyâ Anlayışı da bu konu üzerinde son sözü söylemekten çok uzaktır ve bizim daha da ilerlememizle birlikte gerçeklerin daha geniş bir görünümü bize açılacak ve şu anda “bir camın arkasından karanlık olarak gördüğümüz” bir çok şeyi apaçık görebileceğiz. Aynı zamanda yazar yürekten inanmaktadır ki, geleceğin tüm diğer felsefi sitemleri de aynı ana çizgileri takip edecektir, çünkü tümü tamamen gerçek gibi görünmektedirler. 
+
+Yukarıda söylenenlerden apaçık görülür ki bu kitap, yazarı tarafından ‘Alfa ve Omega’ (A’dan Z’ye) ve okült bilginin zirvesi olarak düşünülmemiştir. Kitap, “Gülhaç Evren Anlayışı” adını taşısa bile yazar, altını çizerek vurgulamak istemektedir ki o, Gülhaçcılara tarikatın kurucusu veya başka bir kişi tarafından “bir defada verilen bir inanç” olarak anlaşılmamalıdır. Bir kez daha belirtelim ki bu eser, Gizem-Dünyâsı’na ilişkin Gülhaç öğretilerinden yazarın anlayışını ve insanın doğum öncesi ve biyolojik ölüm sonrasındaki halleriyle ilgili olarak iç âlemlerdeki kişisel araştırmalarını içermektedir. Bilerek ya da bilmeyerek başkalarını yoldan çıkaranların nasıl bir vebalin altında olduklarını yazar çok iyi bilmektedir. Ve de mümkün olduğunca kendisini böyle bir ihtimalden korumayı ve dikkatsizlikten yoldan çıkmaya karşı başkalarını da korumayı dilemektedir. 
+
+Bu eserde söylenenler okuyucu tarafından kabul edilebilir veya reddedilebilir. Bu, okuyucunun takdirine bağlıdır. Öğretiyi açık ve anlaşılır kılmak için büyük bir özen gösterilmiştir. Ve de onu kolayca anlaşılacak sözlere dökmede büyük çaba harcanmıştır. Bu sebepten bir kavram için kitabın başından sonuna hep sadece bir terim kullanılmıştır. Kullanıldığı her yerde, aynı kelime hep aynı anlama sahiptir. Bir fikri tanımlayan herhangi bir kelime ilk defa kullanıldığında öncelikle onun yazar tarafından mümkün olan en açık tanımı verilmiştir. Ve de sadece bilinen terimler ve en yalın dil kullanılmıştır. Yazar, belirsizliği ortadan kaldırmak ve her şeyi apaçık kılmak için yapabildiği ölçüde işlenen konunun daima tam ve kesin açıklamalarını vermeye çaba göstermiştir. Onun bunda ne kadar başarılı olduğu okuyucunun takdirine kalmıştır. Öğretiyi sunmada hiçbir çabadan kaçınmadığı gibi aynı şekilde yazar, bu eserin Gülhaç öğretilerinin harfi harfine tam bir anlatımı olarak algılanma olasılığına karşı uyarmayı da bir görev bilmektedir. Bu uyarıya aldırmamak, bazı öğrencilerin zihninde bu esere gereğinden çok daha fazla ağırlık vermelerine sebep olabilir. Böyle bir şey, ne Kardeşlik için ve ne de okuyucu için uygun olmaz. Ve de bu, diğer tüm insan eserlerinde olduğu gibi bu eserde de meydana gelmesi kaçınılmaz hataları, Kardeşliğin üzerine atmaya çalışmak olurdu. Yukarıdaki uyarı da bu yüzden yapılmıştır. 
+
+Yukarıdaki paragraflar yazıldığından (1909) bu yana geçen dört yıl boyunca yazar, görünmez âlemlere ilişkin araştırmalarına devam etmiş ve Batı Gizem Okulu’nda öğretilen kurallarla elde edilen bu doğa âlemlerine ilişkin bilincinin gelişimini deneyimlemiştir. Burada tanımlanmış ve Batı insanı için özellikle uygun olan ‘rûhun açığa çıkarılması’ yöntemini izleyen diğer kişiler de aynı şekilde burada öğretilen birçok şeyi kendi kendilerine doğrulayabildiler. Böylece yazarın, Büyük Biraderler tarafından verilmiş olan bilgisi bazı başkalarından da bazı doğrulamalar aldı ve bu bilgi, büyük ölçüde doğru gibi gözükmektedir. Bu yüzden de yazar, kendi kendilerine bu gerçekleri göremeyenler için bir yüreklendirme olmak üzere bunu ifade etmeyi bir görev olarak görmektedir. 
+
+Eğer yaşam bedenin noktalardan değil de prizmalardan yapıldığını söylüyorsa bunun nedeni, bu çok küçük prizmalardan geçen renksiz güneş ışınının gül renkli bir tona dönüşmesidir. Bu durumu yazarın yanı sıra başka kişiler de gözlemlemiştir. Başka yeni ve önemli keşifler de yapılmıştır, mesela artık Gümüş Kordon’un her yeni yaşamda yeniden büyüdüğünü biliyoruz. Onun bir parçası, arzu bedenin karaciğerin büyük vorteksinde bulunan tohum-atomundan filizlenmekte; diğer parçası da yoğun bedenin kalpteki tohum-atomundan filizlenmektedir. Bu iki parça, yaşam bedenin güneş sinir ağı’nda (solar plexus) bulunan tohum atomunda birleşir. Bu birleşme de yüksek ve alçak araçların canlanmasını sağlar. Kalp ile güneş sinir ağı arasındaki kordonun ilk yedi yıl boyunca daha da ileri gelişimi ile çocuk yaşamının gizemi arasında çok önemli bir ilişki vardır. Aynı şekilde onun ikinci yedi yıllık dönem boyunca karaciğerden güneş sinir ağı’na doğru daha da büyümesi, ergenliğe yol açan sebeplerden biridir. Gümüş Kordon’un tamamlanması, çocukluk döneminin sona erdiğini gösterir ve bu andan itibaren dalaktan giren ve yaşam bedenin, güneş sinir ağı’nda bulunan prizmatik tohum atomu aracılığıyla renklenen güneş enerjisi, aura’ya ayırt edici ve kişisel rengini vermeye başlar. Bu, yetişkinlerde gözlediğimiz bir durumdur. 
+
+<h2 id="part-1">1. KISIM: İnsanın Şimdiki Yapısı ve Onun Gelişim Yöntemi</h2>
+
+DORT ALEM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+### <h3 id="introduction">Giriş</h3>
+
+Batı Dünyâsı şüphesiz ki insan ırkının öncüsüdür. İlerideki sayfalarda ayrıntılı şekilde açıklanacak sebeplerden dolayı Gülhaçcı yürekten inanmaktadır ki, Yahudilik veya “popüler Hıristiyanlık” değil de gerçek Ezoterik[32] Hıristiyanlık, dünyâ dini olacaktır. 
+
+Yüce, Büyük ve Aydınlanmış Buda, “Asya’nın ışığı” olabilir; ama İsâ, “Dünyâ’nın ışığı” olarak kabul edilecektir. Güneş nasıl doğduğunda göğün en parlak yıldızının ışığı bile kayboluyorsa ve nasıl en derindeki karanlıklara giriyor ve tüm canlılara hayat ve ışık veriyorsa, aynı şekilde –çok uzak olmayan bir gelecekte– İsa’nın gerçek dini de insanlığın ebedi yararı için tüm diğer dinleri geçersiz kılacak ve onların yerine geçecektir. 
+
+Şimdiki uygarlığımızda akıl ve kalp arasındaki uçurum oldukça derin ve geniştir. Rûh, bilim âlemlerinde bir keşiften diğer bir keşfe uçup durdukça, uçurum sürekli olarak daha da derinleşmekte ve kalp, hep daha fazla geride kalmaktadır. Zihin, sesli olarak ister ve o sadece, olaylar âlemini oluşturan insanın ve onun hemcinslerinin elle tutulur ve kanıtlanabilir bir izahı ile susturulabilir. Kalp, içgüdüsel olarak daha yüce bir şeyin olduğunu hisseder ve duygularının, sadece zihnin kavrayabileceği gerçeklikten daha yüce bir gerçekliği içerdiğini sezer. İnsân Rûhu sezginin göksel kanatlarında bulunmayı, ruhsal ışık ve aşkın ölümsüz pınarında yıkanmayı ne çok ister. Fakat modern bilimsel görüşler onun kanatlarını kestiler, şimdi o zincirlenmiş bir halde ve sessiz bir şekilde yas çekmekte. Dinmeyen özlem, akbabaların Prometheus’un akciğerlerini yediği gibi onun içgüdülerini kemiriyor. 
+
+Peki bu zorunlu mudur? Kalbin ve beynin buluşabileceği ve ikisinin birbirini destekleyeceği, böylece ebedi gerçeklik arayışında daha başarılı olacakları ve bu başarıdan her ikisinin de eşit bir şekilde tatmin olacağı bir ortak temel yok mudur? 
+
+Daha önce yaratılan ışık, görülebilmek için nasıl gözü yarattıysa; başlangıçta varolan büyüme arzusu kendisini tatmin için nasıl sindirim ve özümseme sistemlerini yarattıysa; beyinden önce varolan düşünce, nasıl kendisini ifade etmek için beyni inşa ettiyse ve halen de inşa etmeye devam ediyorsa; nasıl zihin şu an için kalbin önünde gidiyor ve cesaretinin büyük gücüyle doğanın sırlarını büyük çabalarla açığa çıkarıyorsa; aynı şekilde de kalp, özlemini dindirmek için zincirlerini kırmanın bir yolunu bulacaktır. Şu an için kalp, her şeye egemen olan beyin tarafından zincirlenmiş durumdadır. Ancak onun, kuvvetini toplayarak içinde bulunduğu hapishanenin demir parmaklıklarını parçalayacağı ve şu anda zihnin sahip olduğu güçten daha fazla bir güce erişeceği gün gelecektir. 
+
+Aynı şekilde kesin olan bir şey de, doğada çelişki olamayacağıdır. Bu yüzden kalp ve zihin birleşebilmelidirler. Bunun olabileceğini göstermek, bu kitabın amacıdır. Bu kitap; kalbin sezgilerinin de yardımıyla zihnin nerede ve nasıl, varoluşun sırlarının daha da derinlerine dalabileceğini göstermek için yazılmıştır. Zihin ve kalp, ayrı ayrı bu derinliklere erişemezler. Ayrıca ikisinin birleşmesiyle kalp, yoldan çıkmaktan korunabilir. Aynı zamanda her ikisi de, maksimum faaliyet alanına sahip olabilirler. Bu birleşmede hiçbiri diğerine karşı şiddet uygulamadan hem zihin ve hem de kalp tatmin edilebilir. 
+
+Ancak bu işbirliğine eriştikten ve bunda mükemmel bir hale geldikten sonra insân, kendisinin ve bir parçası olduğu Dünyâ’nın daha yüksek ve gerçek anlayışını elde edecektir. Sadece bu sâyede o, engin bir zihne ve büyük bir kalbe erişir. 
+
+Her doğumda yeni bir yaşam aramızda ortaya çıkmış görünür. Bu küçük Form’un yaşadığını ve büyüdüğünü görürüz. Ve o, günden güne, aydan aya, yıldan yıla yaşamımızda bir faktör olur. En sonunda da o Form’un öldüğü ve çözüldüğü gün gelir. Bilinmeyen âlemden gelen o yaşam, görünmeyen öte tarafa kaybolmuştur ve biz kendi kendimize üzüntüyle dolu olarak sorarız: O nereden geldi? Neden buradaydı? Ve nereye gitti? 
+
+Ölümün iskeleti, her eşiğin üzerine korkunç gölgesini fırlatır. Genç ve yaşlı, sağlıklı ve hasta, zengin ve fakir herkes, herkes aynı şekilde bu gölgede kaybolmak zorundadır ve yaşamın bulmacasının, yaşam ve ölüm bulmacasının bir çözümünün çağlar boyunca acı dolu çığlığı yankılanır. 
+
+İnsanlığın geniş yığınları için söz konusu olduğunda bu üç büyük soru bugüne kadar yanıtlanmamış kaldı: Nereden geldik? Neden buradayız? Nereye gidiyoruz? En derin insani ilgiden kaynaklanan bu sorular hakkında kesin bir şey bilinemeyeceği, ne yazık ki insanların genelde kabul ettikleri yaygın bir kanıdır. Ancak hiçbir şey bu kanıdan daha yanlış olamaz. İstisnasız herkes, bu konu hakkında ilk elden ve kesin bilgi alma kâbiliyetini edinebilir. Ve de herkes insan rûhunun doğumdan önceki ve ölümden sonraki durumunu araştırabilir. Bu araştırmayı herkes yapabilir, zira özel yetenekler gerektirmez. Her birimiz doğuştan bütün bunları bilme yeteneğine sahibiz, fakat! Evet, burada bir “fakat” var, büyük yazılması gereken bir “FAKAT”. Pek çoğumuzda pasif ve gelişmemiş bir durumda olsalar da bu yetenekler herkeste vardır. Bu yetenekleri uyandırmak için çok yoğun ve sürekli çalışmak gerekir ve bu da, sıradan insanlar için caydırıcı bir etkendir. Eğer bu yetenekler “uyanık ve bilinçli” bir şekilde parayla edinilebilselerdi; fiyatı çok yüksek de olsa birçok insan, kendilerine hemcinsleri karşısında çok büyük bir avantaj sağlayan bu yetenekleri edinmek isteyeceklerdi. Ancak bu yetenekler parayla elde edilemezler ve çok az insan onları uyandırmak için gerekli hayatı yaşamaya isteklidir. Ruhsal uyanış, ancak sabırlı ve ısrarlı çabaların neticesinde gelir. Bu yüzden satın alınmayla edinilemez ve ruhsal uyanışa, asfaltlı yollar çıkmaz. 
+
+Bu bilinen bir gerçektir, insân piyano çalabilmek için çok çalışmalıdır. Veya senelerce çırak olmamış bir kişi saatçi olamaz. Fakat varoluşun büyük meseleleri olan rûh, ölüm ve öte taraf söz konusu olduğunda birçok kişi, bu konular hakkında bir tek saat bile düşünmemiş olsa bile diğerleri kadar çok şey bildiğini ve onlar kadar görüş bildirmeye hakkı olduğunu düşünür. 
+
+Aslında kimse konu hakkında uzman olmayan kişilerin o konudaki görüşlerinin dikkate değer bulunmasını bekleyemez. Hukuki meselelerde mahkemeye bilirkişi olarak çağırılan uzmanların ilk önce konu hakkındaki yeterlilikleri incelenir. Bilirkişi oldukları dalda tamamen yeterli oldukları görülmediğinde, mahkemeye verecekleri ifadenin hiçbir değeri yoktur. 
+
+Ancak öğrenimleri ve deneyimleriyle bir uzman görüşü bildirme niteliğine sahip oldukları görülürse, çok büyük saygı ve hürmetle mahkemede dinlenirler. Ve de iki eşit yetkili uzmanın görüşleri birbiriyle uyuşuyorsa, sonra gelen her uzmanın görüşü olağanüstü ikna edici olur. 
+
+Böyle uzman birisinin çürütülemez şahitliği, bu konuda onun karşısında ifade veren ve bu konuda hiçbir şey bilmeyen onlarca, yüzlerce veya bir milyon insanın şahitliğinden daha üstündür. Zîra bir milyon kere hiçbir şeyden hep hiçbir şey kalır. Bu sadece matematikte değil, her konuda geçerlidir. 
+
+Daha önce de belirtildiği gibi dünyasal meseleler söz konusu olduğunda, bu olguları hemen kabul ederiz. Fakat duyular dünyasının ötesindeki şeyler ve fizik-üstü dünya söz konusu olduğunda, Tanrı’nın insânla olan ilişkisi, Rûh olarak adlandırılan ölümsüz tanrısal kıvılcımın en içteki sırları incelenmesi gerektiğinde herkes, ruhsal konular üzerine oluşturduğu kendi görüş ve düşünceleri için, sabırlı ve zahmetli araştırmayla dolu bir hayat boyu bu yüce şeylerin ilmini edinmiş bir bilgenin görüş ve düşünceleriyle aynı oranda saygınlık talep eder. 
+
+Dahası, bazıları eşit orandaki saygınlık talebiyle de yetinmez. Ve de bilgenin sözleriyle alay eder ve onları küçümserler. Hatta bilgenin şahitliğinin sahte olduğunu öne sürerek onu yalancı çıkarmaya çalışırlar. Bir de en derin cahilliğin verdiği üstün güvenle eğer kendileri bu şeyler hakkında bir şey bilmemiş olsalardı, başka hiç kimse de bu konular hakkında bir şey bilemezdi diye iddia ederler. 
+
+Kendi bilgisizliğini fark eden insan, ilme ilk adımını atmış demektir. 
+
+İlk elden bilgi alma yolu, kolay bir yol değildir. Sürekli çaba göstermeksizin değerli hiçbir şey gelmez. Şu ne kadar tekrarlansa azdır: özel yetenekler ve “şans” yoktur. Bir kişi neyse ve neye sâhipse hepsi, onun mücadelelerin başarısıdır. Bir kişide diğerlerine göre eksik olan bir özellik, sadece onda pasif ve uykudadır. Ve de onu uygun yöntemlerle geliştirmek mümkündür. 
+
+Bu fikri iyice kavrayan okuyucu sormak isteyecektir: Bilgiyi ilk elden edinmek için ne yapmak gerekir? Aşağıdaki öykü onun, ezoterik ilmin çekirdeği olan fikri anlamasını sağlayacaktır. 
+
+Günün birinde genç bir adam, bir bilgenin yanına gider ve ona sorar: “Efendim, bilge olmak için ne yapmalıyım?” Bilge yanıt vermez. Genç adam, soruyu bir çok kez daha tekrarlar, ancak yine bilgeden bir yanıt alamaz. Sonunda bilgenin yanından ayrılır, ancak ertesi gün aynı soruyla bilgenin tekrar yanına gelir. Yine hiçbir cevap alamaz. Genç adam üçüncü gün yine gelir ve tekrarlar: “Efendim, bilge olmak için ne yapmalıyım?” 
+
+En sonunda bilge ona döner ve hiçbir şey söylemeden onu yakındaki bir nehre götürür. Suya girer ve genç adama da kendisini takip etmesini işaret eder. Bilge, su yeterince derinleştiğinde genç adamı omuzlarından tutar ve genç adamın çırpınışlarına karşı suya daldırır. Sonra onu suyun altından çıkarır ve genç adam tekrar nefes almaya başladığında sorar: 
+
+“Oğul, suyun altındayken en çok neyi özledin?” 
+
+Genç adam tereddütsüz cevaplar: “Hava, hava almaya ihtiyacım vardı!” 
+
+“Zenginlik, güç, eğlence ya da aşka sahip olmak senin için daha iyi olmaz mıydı oğlum? Bunları düşünmedin mi?” diye sorunca bilge: 
+
+“Hayır efendim, hava almayı istedim ve sadece havayı düşündüm” diye yanıtlar genç adam. 
+
+Bilge; “o halde bilge olmak istiyorsan bilgeliği, suyun altında havayı arzuladığın kadar çok arzulamalısın. Onun için mücadele etmelisin ve yaşamdaki diğer bütün amaçları yok etmelisin. Gündüz ve gece bilgelik, senin ilk ve tek hedefin olmalı. Eğer gerçeği bu şekilde ararsan, kesinlikle bilge olursun oğul”, diye cevap verir. 
+
+İşte okült ilmi arzulayan herkes için gerekli olan ilk ve en önemli şey, işte budur: Sürekli bir istek, ilme olan yakıcı bir susuzluk ve engel tanımayan bir şevk. Fakat bu okült ilmi aramanın ana sebebi, insanlığın yararı ve kendini düşünmeden diğerleri için çalışma olmalıdır. Bu sebep olmadan edinilen okült ilim tehlikelidir. 
+
+Yukarıda belirttiğimiz özelliklere –özellikle de sonuncusuna- sahip olmadan okültizmin sarp yollarında yürümeye kalkışan bir kişi için bu, tehlikeli bir girişimdir. İlk elden bilgi edinmek için bir diğer önkoşul da ikinci elden okültizm öğrenimidir. İnsanın doğumdan önce ve ölümden sonraki halleri ile ilgili konulardaki ilk elden araştırmalar için bazı okült güçler gereklidir. Fakat hiç kimse gelişmemiş okült güçleri sebebiyle bu durumlar hakkında bilgi edinmede ümitsizliğe kapılmamalıdır. Bir insan, çeşitli yollarla Afrika hakkında bilgi sahibi olabilir. Ya Afrika’ya kendisi gider, ya da orada bulunmuş kişilerin yazdığı betimlemeleri okur. Aynı şekilde Fizik-üstü âlemler hakkında bilgi sahibi olmak isteyen kişi de ya onun üzerinde uzmanlaşır ve o âlemleri kendi ziyaret eder ya da bu konuda uzmanlaşmış kişilerin araştırmalarını okur. 
+
+İsa der ki: “Gerçek, sizi özgür kılsın”. Fakat gerçek, bir defada bulunamaz. Gerçek ebedidir ve gerçeğin arayışı da ebedi olmak zorundadır. Okültizm için insana “bir defada verilen” inanç yoktur. Kalmış olan belli temel gerçekler vardır. Bunlara farklı açılardan bakılabilir. Her bakış açısı bize, diğer bakış açılarını tamamlayan bir görüş verir. Bu yüzden zamanımızda görebildiğimiz kadarıyla nihai gerçeğe ulaşma imkânı yoktur. 
+
+Eğer bu eser diğer felsefi eserlerden farklıysa bu, onun farklı bakış açısındandır. Diğer araştırmacılar tarafından ulaşılmış sonuçlara ve ileri sürülmüş fikirlere saygılar sunarız. Aşağıdaki sayfaların okunup araştırılmasının, öğrencinin düşüncelerini geliştirmesinde ve daha yükseğe çıkarmasında yardımcı olması, yazarın en içten umududur. 
+
+### <h3 id="chapter-1">1. Bölüm: Görünen ve Görünmeyen Dünyalar</h3> 
+
+Okültizmdeki ilk adım, görünmeyen dünyaların öğrenimidir. Bu dünyâlar insanların çoğu tarafından algılanmaz, çünkü onların yüksek ve ince duyuları uykudadır. Sadece bu yüksek ve ince duyular aracılığıyla görünmeyen dünyâlar algılanabilir, tıpkı etrafımızdaki görünen dünyânın yalnızca fiziksel duyularımız vasıtasıyla algılanabilmesi gibi. Fizikötesi (metafizik) dünyâ karşısında insanların çoğunluğu, duyular dünyâmızda görme engellilerin durumundadırlar. Onlar, ışık ve renk ile çevrili olmalarına rağmen, ışık ve rengi göremezler. Körler için ışık ve renk yoktur ve anlaşılmazdır, çünkü kendisiyle onları algılayabilecekleri görme duyusu onlarda eksiktir. Nesneleri hissedebilirler, nesneler onlar için gerçektirler. Fakat ışık ve renk, onların bilgisinin ötesindedir. 
+
+İnsanlığın çok büyük bir kısmı da böyledir. İnsanlar nesneleri hissederler, görürler ve Fizik Dünyadaki sesleri duyarlar. Fakat körler için renkler ne kadar anlaşılmazsa durugörürlerin[33] yüksek Dünyalar olarak adlandırdıkları diğer dünyalar da, onlar için o kadar anlaşılmazdır. Bununla birlikte kör bir insanın ışığı görmemesi ışığın, var ve gerçek olmadığının kanıtı değildir. Aynı şekilde insanların pek çoğunun onu algılayamaması da fizikötesi dünyâların olmadığına dair bir kanıt teşkil etmez. Eğer kör bir kişi görmeye başlarsa, ışığı ve renkleri görür. Fizikötesi dünyaları göremeyen kişinin yüksek duyuları da, tıpkı körlerin gözlerinin açılması gibi uygun yöntemlerle açılabilirse, onlar da varlıkları kendilerine şu anda saklı bulunan bu dünyâların farkına varabilirler. 
+
+İnsanların bir kısmı fizikötesi dünyaların varlığı veya gerçekliğine inanmamak hatasını işlerken, birçoğu da bu dünyaların varlığından emin olduktan sonra diğer uçtaki aşırılığa varıyorlar. Onlar sanıyorlar ki, bir kişi durugörür olduğunda bir anda bütün gerçeklikler ona açılır ve insan yüksek dünyâları “görebildiğinde”, bir anda fiziksel dünyâdaki “her şeyi bilebilir”. 
+
+Bu çok büyük bir hatadır. Günlük yaşamla ilgili meselelerde böyle bir bakış açısının yanlışlığını kolayca tanırız. Kör olarak doğmuş birinin bir şekilde görme yetisini kazandıktan sonra bir anda Fizik Dünya ile ilgili her şeyi “bileceğini” düşünmeyiz. Dahası çok iyi biliriz ki, aramızda bulunan ve ömrü boyunca her şeyi görme yetisine sahip olanlar bile, gördükleri şeylerin evrensel bir bilgisine sahip olmaktan çok uzaktırlar. Ve yine biliriz ki, şeylerin günlük yaşamımızda kullandığımız sadece sonsuz küçük bir parçasını bilmek için bile, zorlu öğrenimler ve yıllar süren uygulamalar gerekir. Ve “yukarıda nasılsa aşağıda da öyledir” hermetik özdeyişini, “aşağıda nasılsa yukarıda da öyle olmalıdır” şeklinde tersten okursak hemen kavrarız ki, bir şey bu dünyâda nasılsa diğer dünyâlarda da öyle olmak zorundadır. Ancak aynı zamanda fizikötesi dünyalarda bilgi edinmek, bizim şimdiki yoğun fizik dünyamız koşullarında bilgi edinmekten çok daha kolaydır. Fakat titiz bir öğrenimin gerekliliği ve gözlemlerde yanılma olasılığı sebebiyle bu iş o kadar da kolay olmaz. Güvenilir ve nitelikli gözlemcilerin ifadeleri, diğer dünyalarda gözlem yapmanın, fiziksel dünyadakinden çok daha fazla dikkat gerektirdiğini göstermiştir. 
+
+Bir durugörür, gözlemlerinin bir değerinin olması için öncelikle bu konuda eğitimli olmalıdır. O, işinde ne kadar uzmanlaşırsa, gördüklerini bildirmede o kadar alçakgönüllü olacak ve diğer durugörürlerin bildirdiklerine de o kadar saygı duyacaktır. Zira iyi bir durugörür bilir ki, öğrenilecek çok ama çok şey vardır. Ve de tek bir araştırmacının araştırmalarının tüm detaylarından ancak pek azını kavrayabildiğinin bilincindedir. 
+
+Aynı zamanda bu, yüksek dünyâların tariflerinin farklılığını da açıklamaktadır. Yüzeysel insanlar bu farklılığı öne sürerek yüksek dünyaların olmadığını iddia ederler. Onlar, eğer bu dünyâlar gerçekten varsa, araştırmacıların onlar hakkında aynı tarifleri yapmaları gerektiğini ileri sürerler. Günlük yaşamdan bir örnek getirirsek bu görüşün yanlışlığı kendiliğinden ortaya çıkar. 
+
+Varsayalım ki bir gazete 20 muhabirini büyük bir şehre bu şehir hakkında “yazı yazmak” üzere yolluyor. Gazeteciler deneyimli gözlemcilerdir, en azından öyle olmaları gerekir. Meslekleri her şeyi görmelerini gerektirir. Ve onlardan olayları en iyi şekilde ifade etmeleri beklenir. Ancak belirttiğimiz 
+
+20 muhabirin bahsedilen şehir hakkında yapacağı 20 betimlemenin bırakın hepsini, iki tanesi bile kesinlikle tam olarak birbirinin aynısı değildir. Ancak daha kesin olan bir şey de, bu betimlemelerin birbirleriyle çelişik de olmadıklarıdır. Bu betimlemeler belki de birkaç aynı genel özellikler içereceklerdir ancak bunun dışında, betimlemenin özelliği ve içeriği bakımından birbirlerinden tamamen farklı olacaklardır. 
+
+Bu betimlemelerin birbirlerinden farklı olması, bahsedilen şehrin olmadığı anlamına mı gelir? Elbette gelmez! Her biri şehri kendi bakış açısından görmüştür. Bu örnek, her şeyi çok iyi anlatır. İnsan bu betimlemelerin farklılığı karşısında şaşırıp ümitsizliğe kapılacağına, tek bir betimlemeyi okuyup diğerlerini çöp sepetine atmak yerine bu betimlemelerin hepsini değerlendirerek, şehrin daha tam ve daha iyi anlayışına ve betimlemesine ulaşacağını kabul etse daha iyi ederdi. Her bir betimleme diğerinin daha iyi açıklanmasını sağlar ve onu tamamlar. 
+
+Aynı şey yüksek dünyâları araştıranların anlattıkları için de geçerlidir. Herkesin, kendine özgü bir nesnelere bakma yöntemi vardır ve herkes, sadece kendi belirli bakış açısından gördüğünü betimleyebilir. Her kişinin anlattıkları diğerlerinin anlattıklarından çok farklı olsa da, her gözlemcinin kendi kişisel bakış açısından anlattığı aynı derecede doğru olabilir. 
+
+Bazen sorulur: Bu dünyâları araştırmak niye? İnsan neden kendi zamanında var olan dünyâyla yetinmez, neden insan fiziksel dünyânın şimdiki zamanda sunduğu öğretilerle memnun olmaz? Ve de eğer görünmeyen dünyâlar varsa da, araştırmalarımızla onlara erişinceye kadar neden beklemiyoruz? ‘Her güne o günün kendi zahmeti yeter.’ Neden sonraki günlerin zahmetini önceden üzerimize alalım? 
+
+Eğer yeni ve bize yabancı koşullar altında yıllarca içinde yaşamak zorunda kalacağımız uzak bir ülkeye er ya da geç götürüleceğimizi kesinlikle bilseydik, mantıklı bir şekilde bu ülke hakkında bilinen her şeyi öğrenmek için çaba göstermez miydik? Bu bilgiler bizim yeni koşullara uyum sağlamamızı oldukça kolaylaştırırdı. 
+
+Hayatta kesin olan bir tek şey vardır ve bu da ölümdür! Biz öbür tarafa gittiğimizde ve yeni koşullar ile karşılaştığımızda, bize orada en çok yarayacak şey, muhakkak ki bu koşulları önceden bilmemizdir. 
+
+Hepsi bu da değil! Etkilerin dünyâsı olan fizik dünyâyı anlamak için, önce fizik-ötesi dünyâyı anlamak zorunludur, çünkü o, nedenler dünyâsıdır. Sokakta tramvayları görürüz ve telgrafın seslerini duyarız (1909), fakat her ikisini de harekete geçiren gizemli kuvvet, yine de bizim için gizlidir. Bu güç, elektriktir deriz; fakat sadece isim bir açıklama getirmez. O kuvvetin kendisi hakkında hiçbir şey öğrenemeyiz, sadece onun etkilerini görürüz ve duyarız. 
+
+Soğuk suyla dolu bir çanağı yeterince düşük sıcaklıktaki bir ortama koyarsak hemen buz kristalleri biçimlenmeye başlar ve biz de onların biçimlenme sürecini görebiliriz. Suyun kendisi boyunca kristalleştiği çizgiler, ‘kuvvet çizgileri’ olarak hep vardı, ancak su donana kadar görünmez kalmışlardı. Pencerelerde oluşan güzelim “buz çiçekleri” de yüksek dünyâlardaki akımların görünür görünümleridir. Bunlar yüksek dünyâlardan açığa çıkarlar ve sürekli olarak üzerimizde etkindirler. Pek çoğumuz onların farkında olmayız ancak bu, onların üzerimizdeki etkilerini azaltmaz. 
+
+Bu yüzden yüksek Dünyâlar, nedenlerin ve kuvvetlerin dünyâlarıdırlar. Ve biz diğer dünyâları bilmeden ve tüm maddesel şeyleri yalnızca etkiler olan güçleri ve sebepleri kavramadan önce bu aşağı dünyâyı tamamen anlayamayız. 
+
+Fizik Dünyâ ile bu yüksek Dünyâların gerçekliğini karşılaştırdığımızda şu sonuca varırız: Şaşırtıcı olsa da insanların çoğunluğuna serap veya hatta daha az gerçek olarak görünen yüksek Dünyâlar, aslında daha gerçektirler ve bu dünyâlardaki nesneler, Fizik Dünyâ’daki nesnelerden daha kalıcı ve daha dayanıklıdırlar. Bir örnekle bunu kolayca görebiliriz. Hiçbir mimar, malzemeleri temin edip bir düşüncesi veya planı olmadan onları işçilere rasgele kullandırarak bir yapı yapmaz. Öncelikle o, “yapıyı kafasında düşünür”. Sonra yavaş yavaş bu düşünce zihninde biçimlenir ve sonunda bitmiş evin küçük bir resmi, yani evin düşünce formu onun zihninde oluşur. 
+
+Bu aşamada mimardan başka hiç kimse evi göremez. Ve de mimar evi ancak kâğıt üzerinde görünür hâle getirir. O, sonra da evin planlarını çizer. Düşünce formunun bu nesnel resmine göre usta da tahta, demir veya taşlardan, mimar tarafından meydana getirilen düşünce-formuna tam uygun bir şekilde evi inşa eder. 
+
+Böylece düşünce formu, maddesel bir gerçeklik hâline gelir. Materyalist kişi bu evin, mimârın zihnindeki evden çok daha gerçek, kalıcı ve cisimsel olduğunu iddia edecektir. Fakat bir düşünelim. Düşünce formu olmadan ev asla inşa edilemezdi. Maddesel nesne dinamit, deprem, ateş veya çürüme ile yok olabilir, ancak düşünce formu hep kalacaktır. Mimâr yaşadığı sürece bu düşünce formu da varolacaktır. Ve bir ev yıkılırsa, o eve ait düşünce formuna göre bir çok benzer ev inşa edilebilir. Mimârın kendisi bile bu düşünce formunu yok edemez. Hatta mimârın ölümünden sonra bile bu düşünce formu, doğanın hafızasını okuma özelliğini sahip kişiler tarafından tekrar keşfedilebilir. Bu kişilerden ileride bahsedeceğiz. 
+
+Etrafımızda ve üzerimizde bulunan bu dünyâların varlığının akla uygun olduğunu gördükten, onların gerçeklikleri ve süreklilikleri hakkında iknâ olduktan ve onlarla ilgili ilimin yararını kavradıktan sonra, şimdi de onları teker teker inceleyelim. İncelememize Fizik Âlem ile başlayalım. 
+
+#### <h4 id="chemical-region-of-the-physical-world">Fizik Âlemin Kimyasal Bölgesi</h4>
+
+Gülhaç öğretisinde evren, yedi farklı Âleme ya da Madde hallerine ayrılır: 
+
+1- Tanrı Âlemi 
+
+2- Sâf Rûhlar Âlemi 
+
+3- Tanrısal Rûh (Divine Spirit) Âlemi 
+
+4- Hayat Rûhu Âlemi 
+
+5- Düşünce Âlemi 
+
+6- Arzu Âlemi 
+
+7- Fizik Âlem 
+
+Bu, keyfi bir ayrım değil, aksine gerekli bir ayrımdır. Çünkü yukarıda belirttiğimiz her bir âlemin ‘maddesi’ (substance), diğer âlemlerde geçerli olmayan yasalara tâbidir. Böylece örneğin Fizik Âlemde madde; yerçekimi, büzülme ve yayılma yasalarına bağlıdır. Arzu Âleminde ise ne sıcaklık, ne de soğukluk vardır ve de formlar, bu âlemde kolaylıkla yükselebildikleri gibi aşağıya da kolayca inebilirler. Fizik Âlemde hükmedici faktör olan mekân ve zaman da, Arzu Âlemde hemen hemen hiç yoktur. 
+
+Bu âlemlerin maddeleri, yoğunluk bakımından da farklılık gösterirler. Yedi âlemden biri olan Fizik Âlem, içlerinden en yoğun maddeye sahip olanıdır. 
+
+Âlemlerin her biri, kendi içerisinde de yedi bölgeye veya alt-bölüme ayrılırlar. Fizik Âlemde Katılar, Sıvılar ve Gazlar, yoğun üç bölgeyi oluşturur; diğer dört bölge ise farklı yoğunluklardaki eterdirler. Diğer âlemlerde de benzer bölümlendirmeler yapmak zorunludur, çünkü kendilerini oluşturan madde, bir âlemin her yerinde homojen yoğunluğa sahip değildir. 
+
+Burada iki ayrım daha yapmamız gereklidir. Fizik Âlemin yoğun üç bölgesi olan Katı, Sıvı ve Gazlar, Kimyasal Bölgeyi oluştururlar. Bu bölgenin maddesi ( substance), tüm yoğun Form’ların temelidir. 
+
+Eter de bir fiziksel maddedir. O, maddeci bilimin kabul ettiği gibi homojen değildir ve dört farklı hâlde bulunur. Eter, Kimyasal Bölgenin cisimlerine yaşam gücü veren hareketli Rûh için gerekli ortamı sağlar. Daha ince olan dört eter alt-bölümü, Eter Bölgesi olarak bilinen bölgeyi oluştururlar. 
+
+Düşünce Âleminde yüksekteki üç alt-bölüm, soyut düşünce’nin temelini oluştururlar. Bu yüzden bu üç alt-bölüm topluca, Soyut Düşünce Bölgesi olarak adlandırılır. Daha yoğun dört alt-bölüm ise kendi fikirlerimizi cisimlendirmemizi ve somutlaştırmamızı sağlayan düşünce maddesini bize verirler. Bu yüzden bu dört alt-bölümü Somut Düşünceler Bölgesi diye adlandırıyoruz. 
+
+Eğer her şeyi materyalistin bakış açısından çok farklı bir bakış açısıyla görmeseydi okültistin Fizik Âlemin özelliklerine titiz bakışı gereksiz gibi görünebilirdi. Materyalist, maddenin üç hâlini bilir: Katılar, Sıvılar ve Gazlar. Bunların hepsi kimyasaldır, çünkü hepsi Yer’in kimyasal bileşenlerinden oluşmuşlardır. Bütün maden, bitki, hayvan ve insan formları bu kimyasal malzemeden inşa edilmişlerdir. Bu yüzden bunlar, maddenin kendisi kadar kimyasaldırlar. 
+
+Dağa veya onun zirvesini çevreleyen buluta; bitkilerin özsuyuna veya hayvanların kanına; örümceğin ipine, kelebeğin kanadına veya filin kemiklerine; her nefeste aldığımız havaya veya içtiğimiz suya baktığımızda görürüz ki, bunların hepsi aynı kimyasal maddelerden oluşmuşlardır. 
+
+Peki bu temel maddenin (substance), etrafımızda gördüğümüz sonsuz çeşitli Formlara bürünmesini sağlayan nedir? Bunu sağlayan, Tek Evrensel Rûh’tur. Tek Evrensel Rûh görünür dünyâda Kendisini, gelişimin farklı aşamalarında bulunan dört büyük Yaşam nehri olarak ifade eder. 
+
+Bu dörtlü ruhsal etki (impulse) yer’in kimyasal malzemesini biçimlendirerek dört âlemin çok çeşitli formlarının ortaya çıkmasını sağlar. Bu dört âlem; Maden, Bitki, Hayvan ve İnsan Âlemleridir. 
+
+Bir form, dört yaşam akımından üstteki üçü için bir ifâde aracı olma görevini yerine getirdiğinde kimyasal güçler bu formu parçalarlar. Böylece bu formu oluşturan malzeme, yeni formların yapımında tekrar kullanılırlar. 
+
+Bu yüzden nasıl bir marangoz, içinde oturmak için (tahtadan) yaptığı evden farklı ve kişisel olarak ondan bağımsız ise, aynı şekilde formu kendisinin bir ifâdesi olarak biçimlendiren Rûh veya Yaşam da maddeye o kadar yabancıdır. 
+
+Bütün maden, bitki, hayvan ve insan formları kimyasal olduklarından, mantıken ilkel durumlarındaki kimyasal malzeme iken oldukları gibi ölü ve hissiz kalmaları gerekir. Ve Gülhaçcı bunun böyle olduğunu öne sürer. 
+
+Bazı bilim adamları, hangi âleme ait olursa olsun canlı ya da ölü her dokuda hissin bulunduğunu iddia ederler. Hatta onlar, genelde maden olarak sınıflandırılan maddeleri de hisleri olan nesneler kategorisine dahil ederler. Buna kanıt olarak da araştırmalarından elde ettikleri enerji şekillerini gösterirler. 
+
+Araştırmacıların diğer bir kısmı ise hislerin merkezi olan beyin hariç, insan vücûdunda bile hislerin olmadığını ileri sürerler. Bu araştırmacılar, parmak yaralandığında acıyı “hisseden”in parmak değil de beyin olduğunu söylemektedirler. 
+
+Böylece bilim evi, diğer pek çok noktada olduğu gibi bu noktada da kendi içinde bölünür. Her biri kısmen haklıdır. Bu, “hissetme”den ne anladığımıza bağlıdır. 
+
+Eğer biz bununla, tıpkı yere fırlatılan topun tekrar yukarıya sıçraması gibi bir etkiye karşılık verilen tepkiyi kastediyorsak, elbette ki hem madensel, hem bitkisel ve hem de hayvansal dokulara duygu isnat etmek doğrudur. 
+
+Fakat biz bununla haz ve acı, sevgi ve nefret, sevinç ve kederi kastediyorsak, bunları düşük yaşam formlarına, örneğin ayrı bir dokuya veya ilkel haldeki madenlere veya hatta beynin kendisine atfetmek mantıksız olurdu. Çünkü böyle hisler ancak öz-bilinçli (self-conscious) ölümsüz rûhun ifadesidirler ve de beyin sadece, insan rûhunun yaşam senfonisini çaldığı harikulâde enstrümanının (piyano) klavyesidir. Nasıl bir müzisyen kemanında kendisini ifade ediyorsa rûh da kendisini, klavyesi beyin olan bu enstrümanla ifade eder. 
+
+Yüksek âlemlerin olması gerektiği ve olduğunu anlayamayan insanlar olduğu gibi, bu âlemler hakkında çok az bilgi sahibi olur olmaz Fizik Âlemi küçümseme alışkanlığı edinen insanlar da vardır. Bu tutum, materyalistin tutumu kadar yanlıştır. 
+
+Tanrı’nın irâdesini ve planını gerçekleştirmekle görevli yüce ve bilge varlıklar, başka hiçbir koşullarda öğrenilemeyecek büyük ve önemli dersleri öğrenebilmemiz için bizi bu fiziksel çevreye koymuşlardır. 
+
+Bizim görevimiz de yüksek âlemlere ilişkin bilgilerimizi en iyi şekilde kullanarak bu maddi dünyânın bize verdiği dersleri en iyi şekilde öğrenmektir. 
+
+Fizik Âlem bir anlamda, diğer âlemlerde doğru olarak çalışabilmemiz için bir çeşit ‘model okul’ veya ‘deneyim istasyonu’dur. 
+
+Diğer âlemlerin varlığını bilsek de bilmesek de bu dersler bize verilir. Bu da, bu planın yaratıcılarının büyük bilgeliğinin bir ispatıdır. 
+
+Eğer sadece yüksek âlemlerin bilgisine sahip olsaydık birçok hatalar yapardık. Ve de bu hatalar ancak fiziksel koşullar ölçüt alındığında görünür hâle gelirlerdi. Bir örnekle açıklarsak: 
+
+Kafasındaki düşünceden bir makine yapan mucidin durumunu ele alalım. O ilk olarak makineyi düşüncesinde yapar. Zihninde de bu makineyi bitmiş olarak görür. Bu makine, tasarlandığı işi en iyi şekilde yapar. 
+
+Mucit bundan sonra da tasarımının çizimini yapar ve ilk düşüncesinde değişiklikler yapmanın gerekli olduğunu düşünebilir. Ancak çizimlerden, planının yapılabilir olduğuna kanaat getirdikten sonra, uygun malzemeden gerçek makineyi yapmaya başlar. 
+
+Makine, planladığı gibi çalışabilecek konuma gelmeden önce daha değişikliklerin olacağı hemen hemen kesindir. Belki de makinenin yeni baştan oluşturulması gerekecek veya hatta ortaya çıkmış olan makine, tamamen işe yaramaz bir şey olacaktır ve atılacaktır. Bu durumda yeni bir planın geliştirilmesi gerekecektir. 
+
+Fakat önemli olan nokta şudur: Yeni düşünce veya plan, önceki işe yaramaz makinenin hatalarını giderme amacına göre yapılacaktır. Makine, ilk düşünceye göre maddeden yapılmasaydı, ondan doğan hatalar ortaya çıkmayacaktı ve böylelikle makine konusunda ikinci ve doğru düşünce asla oluşmayacaktı. 
+
+Bu durum aynı şekilde diğer tüm sosyal, ekonomik ve insancıl yaşam koşulları için de geçerlidir. Bir çok plan, onu tasarlayanlara ilk başta mükemmel görünür, hatta kağıt üzerinde de iyi gözükebilir, ancak gerçeklendiklerinde başarısız olur. Ancak bu bizi asla yıldırmamalıdır. Zira şu bir gerçektir ki, “hatalarımızdan, başarılarımızdan öğrendiklerimizden daha fazla öğreniriz”. Doğru değerlendirme noktası şudur ki, bu Fizik Âlem, içinde çok önemli şeyleri öğrendiğimiz en değerli deneyim okuludur. 
+
+#### <h4 id="etheric-region-of-the-physical-world">Fizik Âlemin Eter Bölgesi</h4>
+
+Bu doğa âlemine girdiğimizde kendimizi, görünmez ve maddi olmayan bir dünyada buluruz. Burada alışkın olduğumuz duyular bizi terk ederler. Bu nedenle Fizik Âlemin bu kısmı gerçekte materyalist bilim tarafından araştırılmamıştır. 
+
+Hava görünmez, ancak modern bilim onun varolduğunu bilir. Havanın rüzgâr olarak hareketi, aletlerle ölçülebiliyor. Hava, basınçla sıvı ve görünür hâle getirilebilir. Fakat eter, o kadar kolay kavranabilecek bir şey değildir. 
+
+Maddeci bilim, elektriğin telli ve telsiz iletiminin nasıl gerçekleştiğini açıklamak için mecburiyetten, bilinenden daha ince bir madde kabul etmek zorunda kaldı. Bu madde, “eter” olarak adlandırılır. 
+
+Maddeci bilim, eterin gerçekten varolup varolmadığını bilmiyor. Zira şimdiye kadar hiçbir bilim adamının dehâsı, eter’i de kapsayan bir teori ortaya çıkaramadılar. Zira “laboratuvar sihirbazı” için eter ele geçmez bir özelliğe sahiptir. O, eter’i ne ölçebilir, ne tartabilir, ne de herhangi bir şekilde analiz edebilir, çünkü zamanımızda (1909) henüz bu iş için geliştirilmiş bir cihaz yoktur. 
+
+Gerçekten de modern bilimin başarıları olağanüstüdür. Fakat doğanın sırlarını öğrenmenin en iyi yolu bunun için yeni araçlar bulmak değil, bizzat araştırıcının kendisini geliştirmektir. İnsanın yetileri[34] kendi içindedir ve bu güçler yardımıyla o, çok çok büyük ve çok çok küçük şeyleri inceleyebilir. Nasıl teleskop ve mikroskobun görüş gücü, çıplak insan gözünün görüş gücünü kat kat aşıyorsa, aynı şekilde insandaki bu yetilerin görüş gücü de teleskop ve mikroskop’un görüş gücünü kat kat aşar. Bu duyular veya yetiler, okültistlerin araştırmalarında kullandıkları araçlardır ve gerçeği arayışlarında “açıl susam açıl”dırlar. 
+
+Sıradan insanlar için Kimyasal Bölge’de bulunan katı, sıvı ve gazlar ne kadar gerçekse eğitimli bir durugörür için eter de o kadar gerçektir. Tıpkı sıradan insanların katı, sıvı ve gazları duyularıyla algıladıkları gibi durugörür, eteri duyularıyla algılayabilir. Ve de bir durugörür; bitki, hayvan ve insanın ‘madensel form’larına hayat veren yaşamsal güçlerin bu formlara, eter’in dört hâli aracılığıyla aktığını görür. Şimdi de bu dört eterin isimlerini ve özel işlevlerini inceleyelim. 
+
+1\. Kimyasal Eter: Bu eter kendisini hem pozitif, hem de negatif olarak açığa çıkar. Sindirim ve boşaltımı sağlayan güçler, onun aracılığıyla çalışırlar. Sindirim, kimyasal eter aracılığıyla çeşitli besin elementlerinin bitki, hayvan ve insan vücutlarına dâhil olmasını sağlayan süreçtir. Bu işlem, daha ileride göreceğimiz güçler tarafından gerçekleştirilir. Bunlar, kimyasal eter’in pozitif kutbu boyunca faaliyet gösterirler ve ilgili formu oluşturabilmek için gerekli elementleri kendilerine çekerler. Bu güçler ne körü körüne ne de mekanik bir şekilde (motomot) çalışırlar. Aksine onların çalışmaları, iyi düşünülmüş bir seçime göre olur. Bilim adamları bu tercihi, onun etkilerinden bilebilirler. Sonuçta bu güçler, vücudu büyütme ve onun varlığının devamlılığını sağlama amaçlarını gerçekleştirirler. 
+
+Boşaltım da buna benzer güçler tarafından gerçekleştirilir, ancak boşaltımı sağlayan güçler kimyasal eterin negatif kutbu boyunca çalışırlar. Negatif kutbun yardımıyla yiyecekte bulunan ve kullanım için uygun olmayan maddeler ile vücutta kullanımları son bulmuş olan ve atılması gereken maddeler vücuttan dışarı atılırlar. İnsan irâdesine bağlı olmayan diğer bütün işlemler gibi bu işlem de ‘akıllı’dır, yâni belirli ve kesin bir seçiciliğe göre çalışır ve kesinlikle mekanik bir şekilde çalışan bir sistem değildir. Örneğin böbrekler ancak sağlıklı olduklarında idrarı süzerler, eğer böbreklerde bir sorun varsa, süzme işlemini yapmazlar ve vücut için değerli olan albümin maddesini de idrarla birlikte atarlar. Uygun seçim, normal olmayan koşullar sebebiyle yapılmaz. 
+
+2\. Yaşam Eteri: Nasıl ki kimyasal eter, bireysel formun varlığının devamlılığını sağlayan güçlerin çalıştığı bir yol ise; yaşam eteri de, türün devamlılığını sağlayan güçlerin, yâni üreme güçlerinin etkin olduğu bir yoldur. 
+
+Yaşam eterinin de tıpkı kimyasal eter gibi pozitif ve negatif kutbu vardır. Pozitif kutup boyunca çalışan güçler, kadında hamilelik sırasında çalışan güçlerdir. Bu güçler dişinin, pozitif ve aktif bir iş olan yeni bir varlığın doğurulması işini yapmasını mümkün kılar. Öte yandan yaşam eterinin negatif kutbu boyunca faal olan güçler de erkeğin meni üretmesini sağlar. 
+
+Döllenmiş insan ve hayvan yumurtası ve bitki tohumunda yaşam eterinin pozitif kutup boyunca çalışan güçler, erkek insan, hayvan veya bitkiler meydana getirirken; negatif kutup boyunca kendilerini açığa vuran güçler de dişileri meydana getirir. 
+
+3\. Işık Eteri: Bu eter de hem pozitif, hem de negatiftir. Onun pozitif kutbu boyunca çalışan güçler, yüksek organizmalı hayvanlarda ve insanlarda, onları bireysel ısı kaynağı haline getiren kan sıcaklığını üretirler. Işık eterinin negatif kutbu boyunca işlev gören güçler de duyular aracılığıyla etkinlik gösterirler ve kendilerini; görme, duyma, tatma, dokunma ve koku almanın pasif fonksiyonları olarak ifade ederler. Bu güçler ayrıca gözü inşa eder ve beslerler. 
+
+Soğukkanlı hayvanlarda ışık eterinin pozitif kutbu, kan dolaşımını sağlayan güçlerin çalıştığı yoldur. Negatif güçler ise, yüksek organizmalı hayvanlarda ve insanlardaki negatif güçlerin göz fonksiyonları ile aynı fonksiyona sahiptirler. Gözlerin olmadığı hayvanlarda ise, ışık eterinin negatif kutup boyunca çalışan güçler muhtemelen, duyu organları olan bütün canlılarda yaptıkları gibi, diğer duyu organlarını inşa eder veya beslerler. 
+
+Bitkilerde ışık eterinin pozitif kutbu boyunca çalışan güçler, bitki özsuyunun dolaşımını sağlarlar. Böylece kışın, ışık eteri güneş ışığı ile yeterince yüklenmediği için, yaz güneşi ışık eterini yeterince yükleyene kadar bitki özsuyunun dolaşımı gerçekleşmez. 
+
+Işık eterinin negatif kutbu boyunca faaliyet gösteren güçler, bitkilerin yeşil özü olan klorofil verirler ve bitkileri renklendirirler. Gerçekte doğanın tüm âlemlerindeki bütün renkleri, ışık eterinin negatif kutbu tarafından verilir. Bu yüzden hayvanların en koyu renkleri sırtlarında bulunur ve bitkilerin de güneşe dönük tarafları en koyu renklendirilmiş kısımlarıdır. Dünyânın, güneş ışınlarının zayıf olduğu kutup bölgelerinde tüm renkler daha açıktırlar, hatta bazı durumlarda bu renkler o kadar kısıtlı verilmiştir ki, bu renkler kışın tamamen kaybolurlar ve bu da hayvanların tamamen beyaz görünmelerine sebep olur. 
+
+4\. Yansıtıcı Eter: Daha önce de belirttiğimiz gibi, zihinde varolan ev fikri, mimarın ölümünden sonra bile doğanın hafızasından tekrar bulunabilir. 
+
+Olmuş olan her şey, yansıtıcı eter’de silinemez bir resim bırakır. Yerin ilk zamanlarındaki çok büyük eğreltiotları, resimlerini kömür yataklarında bıraktılar. Buzulların geçmiş dönemlerdeki ilerleyişi de, yolları boyunca buzulların kayalıklar üzerinde bıraktıkları izlerden belirlenebilir. Aynı şekilde insanların düşünceleri ve eylemleri de doğa tarafından yansıtıcı eter’e silinemez bir şekilde kaydedilmektedir. Bu kayıtlar deneyimli bir durugörür tarafından, yeteneğiyle doğru orantılı bir kesinlikte okunabilirler. 
+
+Yansıtıcı eter, ismini birden fazla sebepten dolayı hak eder. Çünkü bu eterde bulunan resimler, yalnızca doğanın hafızasının yansımalarıdır. Doğanın gerçek hafızası ise çok daha yüksek bir âlemde bulunmaktadır. 
+
+İşinin ehli hiçbir durugörür, yansıtıcı eter’in resimlerini anlamaya uğraşmaz. Zira, yüksek âlemlerdekine göre bu resimler bulanık ve belirsizdirler. 
+
+Yansıtıcı eteri okuyabilenlerin genel olarak hiçbir üstünlükleri yoktur, çünkü gerçekte neyi okuduklarını bilmezler. 
+
+Sıradan psikometristler[35] ve durugörürler genellikle bilgilerini yansıtıcı eter’den elde ederler. Okült okulların ilk aşamalarındaki öğrenciler de, eğitimleri sırasında sınırlı ölçüde yansıtıcı eteri okurlar. Fakat bu öğrenciler, öğretmenleri tarafından, buradan okuduklarıyla hemen yanlış sonuçlara varmamaları için kesin bilgi edinmede bu eterin yetersiz olduğu konusunda uyarılırlar. 
+
+Bu eter aynı zamanda, düşüncenin beyin üzerinde bir etki yaratmasını sağlayan ortamdır. Yansıtıcı eter, Düşünce Âleminin dördüncü alt-bölümüyle çok yakından ilişkilidir. Bu alt-bölüm, Somut Düşünce Bölgesinin en üstteki alt-bölümüdür ve insan zihninin evidir. Orada doğanın hafızası, yansıtıcı eterdekinden çok daha açıktır. 
+
+#### <h4 id="the-desire-world">Arzu Âlemi</h4>
+
+Fizik âlem ve doğanın diğer tüm âlemleri gibi Arzu Âlemi de “bölge” olarak adlandırılan yedi alt-bölümden oluşur. Fakat bu âlem, Fizik Âlem gibi Kimyasal ve Eter Bölgeleri olarak ikiye ayrılmaz. 
+
+Arzu’nun cisimlenme maddesi olarak yedi alt-bölümün veya bölgenin tümünde arzu maddesi bulunur. 
+
+Kimyasal Bölgenin formlar âlemi olması ve Eter Bölgesinin, bu formlardaki yaşamsal faaliyetler olan yaşama, hareket etme ve üremeyi yürüten güçlerin evi olması gibi Arzu Âlemindeki güçler de yaşatılan yoğun beden üzerine etkindirler ve onu, şu veya bu yönde hareket etmeye sevk ederler. 
+
+Eğer yalnızca Fizik Âlemin Kimyasal ve Eter Bölgelerinin faaliyetleri olsaydı, hareket edebilen canlı vücutlara sahip olurduk, ancak bu hareketler için bir dürtümüz olmazdı. Bu dürtü, Arzu Âleminde etkin olan kozmik güçler tarafından sağlanır. Kendisine hayat verilen vücudun her lifine nüfuz eden ve eylemi şu ya da bu yöne gitmeye iten bu dürtü olmasaydı, ne deneyim ve ne de ahlaki büyüme olabilirdi. 
+
+Çeşitli eterlerin fonksiyonları, form’un cisim olarak büyümesini tek başlarına sağlayabilirlerdi, ancak moral büyüme tamamen eksik olurdu. Böylelikle hem form’un, hem de yaşamın evrimi imkânsız olurdu, zira form’ların daha yüksek basamaklara doğru evrimi, ancak onların ruhsal olarak büyümeleri ile gerçekleşebilir. Buradan aynı zamanda, bu doğa âleminin büyük önemini de görebiliriz. 
+
+Form ve özellik, kendisini Fizik Âlemin Kimyasal Bölgesinde nasıl ifade ediyorsa, aynı şekilde arzular, dilekler, tutkular ve duygular da kendilerini, Arzu Âleminin çeşitli bölgelerinin maddesinde ifade ederler. Arzular, dilekler, tutkular ve duygular; yoğunluklarına göre değişen ve içinde cisimlendikleri formlara bürünürler. Bu formlar, kısa veya uzun ömürlü olabilirler. 
+
+Arzu âleminde güçler ve madde arasındaki ayrım, Fizik Âlemde olduğu kadar kesin ve açık değildir. Hatta neredeyse burada güç kavramı ile madde kavramının özdeş ve birbirinin yerine geçebilir olduğu bile söylenebilir. Bu tam böyle değildir ancak biz belli bir noktaya kadar Ârzu âleminin güç-maddesi’nden (force-matter) meydana geldiğini söyleyebiliriz. 
+
+İtiraf etmemiz gerekir ki Arzu Âlemin maddesi, Fizik Âlemin maddesinden bir derece daha az yoğundur. Fakat Arzu Âlemin maddesinin, daha ince bir fiziksel madde olduğunu düşünmek tamamen yanlıştır. Okült felsefeyle uğraşan bir çok kişi tarafından ileri sürülmesine karşın bu iddia doğru değildir. 
+
+Bu yanlış izlenim özellikle, yüksek âlemlere ilişkin mükemmel ve kesin betimleme yapmanın zorluğundan kaynaklanır. Bu betimleme, yüksek âlemlerin eksiksiz kavranması için zorunludur. 
+
+Ne yazık ki dilimiz, maddi şeyleri betimlemeye yarar ve bu yüzden fizik-ötesi âlemlerdeki durumları açıklamak için hiç de uygun değildir. Bu âlemler hakkında söylenen her şey, her yönüyle ve tam olarak gerçeği yansıtamayan bir deneme ve bir benzetme olarak algılanmalıdır. 
+
+Dağ ve papatya, insan, at ve bir parça demir, bir ve aynı atomsal ilk-maddeden meydana gelseler de papatyanın, bir parça demirin daha ince bir formu olduğunu söyleyemeyiz. Aynı şekilde fiziksel maddenin Arzu maddesinde parçalandığında meydana gelen değişimi ve farkı kelimelerle açıklamak imkânsızdır. Eğer bu durumda hiçbir fark olmasaydı, arzu maddesi de Fizik Âlemin kurallarına tâbi olurdu. Oysa ki durum böyle değildir. 
+
+Kimyasal Bölgenin maddesinin yasası, atâlet (eylemsizlik) yâni eski durumu korumadır. Bu atâleti yenmek ve duran bir vücûdu harekete geçirmek için veya hareket halindeki bir gücü durdurmak için, belli miktarda bir güç gerekir. 
+
+Arzu Âleminin maddesinde ise durum farklıdır. Bu maddenin neredeyse kendisi yaşar. Devamlı hareket halindedir ve sürekli akan bir nehir gibidir; tüm hayal edilebilen ve hayal edilemeyen formları çok büyük bir kolaylıkla ve hızla alır. Aynı zamanda bu madde, sürekli değişen bin renk tonuyla parıldar ve ışıldar. Bu olay, bilincin bu fiziksel durumunda bildiğimiz hiçbir şeyle kıyaslanamaz. 
+
+Bu maddenin hareketinin ve görünümünün silik bir benzetmesini, bir istiridye kabuğunu güneş ışığında ileri ve geri hareket ettirdiğimizde görebiliriz. 
+
+Bu, Arzu âleminin karakteristiğidir: durmadan değişen ışık ve renk. Bu ışık ve renk cümbüşünün içinde hayvan ve insan güçleri, ruhsal varlıkların sayısız hiyerarşilerdeki güçleri ile birbirine karışır. Bu varlıklar bizim Fizik Âlemimizde görünmezler, ancak bizim burada etkin olduğumuz kadar onlar da Ârzu Âleminde etkindirler. Onlardan bazılarından ileride bahsedilecektir. Orada onların insanın evrimiyle ilişkileri açıklanacaktır. 
+
+Çok büyük ve çeşitli varlık gruplarından çıkan güçler, hep değişen Arzu Âlemi maddesinden sayısız ve çeşitli formlar oluştururlar. Bu formların varlıkları, onları doğuran tepi’nin (impulse) kinetik enerjisine göre kısa ya da uzun süreli olabilir. 
+
+Bu kısa açıklamadan bile, içsel gözleri yeni açılmış acemi birisi için Arzu Âleminde dengesini bulmasının ne kadar zor olduğu anlaşılabilir. 
+
+Deneyimli bir durugörür, bir süre sonra artık medyumlar tarafından getirilen imkânsız açıklamalara hayret etmeyecektir. 
+
+Bu medyumlar tamamen dürüst olabilirler, ancak yanılma (parallax) ve (gelen bilgiyi) yanlış alma olasılıkları o kadar çok ve bu durum o kadar hassastır ki, onların herhangi bir şeyi doğru iletebilmeleri bile bir mucizedir. 
+
+Bir bebeği izleyerek kolayca görebileceğimiz gibi hepimizin bebeklik çağında görmeyi öğrenmemiz gerekti. Bir bebeği izlediğimizde görürüz ki bebek, odadaki nesnelere, sokağın öte yanındaki nesnelere veya aya uzanmaya çalışır. Bebek için aradaki mesafeyi değerlendirmek tamamen imkânsızdır. 
+
+Aynı şekilde önceden kör olan ve gözleri sonradan görmeye başlamış kişide de şunu gözleyebiliriz: O, ilk zamanlarda yâni gözlerini kullanmayı öğrenmeden önce bir yerden bir yere yürümek için öncelikle gözlerini kapatır. Gözlerini tam anlamıyla kullanana dek şunu söyleyecektir: Hissederek ileriye doğru ilerlemek, görerek ilerlemekten daha iyidir. Aynı şekilde, iç algı organları yeni canlandırılmış bir öğrenci de, yeni edinmiş olduğu yeteneği kullanmak için öncelikle eğitilmelidir. 
+
+Bu acemi öğrenci ilk başta, Fizik Âlemdeki deneyimlerinden edindiği bilgiyi, Arzu âleminde de kullanmaya kalkışacaktır. Çünkü yeni girdiği Arzu âlemin yasalarını henüz öğrenmemiştir. Bu durum da sayısız rahatsızlık ve karışıklığın kaynağı olacaktır. Bu âlemi anlamadan önce kişi, önceden edinilmiş hiçbir deneyimi işin içine katmadan kendisine gelen bilgiyi özümseyen küçük bir çocuk gibi olmalıdır. 
+
+Arzu âlemini doğru bir şekilde anlayabilmek için kişi, bu âlemin hisler, arzular ve duygular âlemi olduğunun bilincine varmalıdır. Hisler, arzular ve duygular, iki büyük gücün egemenliği altındadırlar: Çekme ve İtme güçleri. Bu güçler, Arzu Âleminin en yoğun ( alttaki) üç bölgesinde, daha ince (üstteki) olan bölgelerden farklı bir şekilde faaliyet gösterirler. Merkezdeki (ortadaki) bölge ise ‘nötral toprak’ olarak da adlandırılabilir. 
+
+Bu merkezdeki bölge, duyguların bölgesidir. Burada, bir nesne veya bir düşünceye duyulan ilgi veya kayıtsızlık, terazinin kefesinin itme veya çekme güçlerinden biri lehine ağır basmasını sağlar. Ve böylece ilgili nesne veya düşünce, Arzu Âleminin ya yüksek üç bölgesine ya da aşağı üç bölgesine konulur; veya bu güçler onu tamamen dışarı atarlar. Şimdi bunun nasıl meydana geldiğini görelim. 
+
+Çekim gücü, Arzu âleminin yüksek üç Bölgesinin en ince ve en saf maddesinde tek başına egemenliğe sahiptir. Fakat bu güç, üç aşağı Bölgenin daha yoğun maddesinin içinde de belli bir oranda bulunmaktadır ve bu bölgede baskın olan İtme gücüne karşı faaliyet gösterir. 
+
+Eğer çekme gücünün bu karşı koyucu etkisi olmasaydı, İtme gücü çözücü özelliğiyle, üç aşağı Bölgeye giren her formun hemen yok olmasına neden olurdu. 
+
+İtme gücü, en kuvvetli olduğu en yoğun ve en aşağıdaki Bölgede, burada yapılmış her formu, göreni dehşete düşürecek bir şekilde yırtar ve parçalar. Fakat İtme gücü yine de vahşi bir güç değildir. Doğadaki hiçbir şey vahşi değildir. Öyle görünse bile her şey iyiliğe çalışır. İtme gücünün Arzu Âleminin en alt Bölgesindeki faaliyeti de bu şekildedir. Burada formlar, insan ve hayvanın en kaba tutkuları ve arzuları tarafından yaratılan şeytani yaratıklardır. 
+
+Arzu âlemindeki her form, kendisiyle aynı türden her şeyi kendisine çekerek büyümek ister. Eğer bu Çekim isteği, en aşağıdaki Bölgelerde üstün gelirse kötülük, yabani otlar gibi büyür. Bu durumda evrende düzen yerine anarşi olur. 
+
+Bu durum İtme gücünün bu bölgede terazinin öbür kefesinde ağır basmasıyla engellenir. Kaba bir arzu formu, kendisiyle aynı doğaya sahip bir başka arzu formu tarafından çekildiğinde, ikisinin de titreşimlerinde bir uyumsuzluk meydana gelir ve biri, diğeri üzerinde yıkıcı etki gösterir. Kötülük kötülükle birleşip artmaz, aksine birbirlerine karşı yıkıcı bir şekilde hareket ederler. Böylelikle de kötülük, dünyâda belli sınırlar içerisinde tutulmuş olur. 
+
+Bu ikiz güçlerin çalışmasını bu şekilde anlarsak, okült kuralı da anlamış oluruz: “Arzu Âleminde bir yalan, hem cinâyet ve hem de intihar demektir”. 
+
+Fizik Âlemde olan her şey, doğanın diğer tüm âlemlerine yansıtılır ve de daha önce gördüğümüz gibi, Arzu Âleminde kendine uygun formunu oluşturur. Olay gerçek bir şekilde anlatılır anlatılmaz, ilki ile tamamen aynı yeni bir form oluşturulur. Bu formlar birbirlerine çekilirler ve birleşerek daha da güçlenirler. 
+
+Ancak olay, gerçekdışı bir şekilde anlatılırsa, gerçek temel formdan farklı ve ona düşman bir form oluşur. İki form da aynı olayla ilişkili olduklarından birbirlerine doğru çekilirler. Fakat titreşimleri farklı olduğu için birbirlerine karşı yıkıcı davranırlar. Bu yüzden şeytanca ve kötü niyetli yalanlar, eğer yeterince güçlü olurlarsa ve belli sıklıkta tekrarlanırlarsa, iyi olan her şeyi öldürebilirler. 
+
+Fakat tersine, kötüde iyiyi aramak zamanla kötüyü iyiye dönüştürür. Kötülüğü azaltmak için oluşturulmuş olan formlar eğer zayıf iseler, kötülüğe karşı bir etkileri olmaz ve kötülük formu tarafından yok edilirler. Fakat oluşturulan form güçlü ise ve sık sık tekrarlanıyorsa kötülük formunu yok etmeyi başarır ve yerine iyiliği getirir. Herhalde okuyucu fark etmiştir ki bu başarı, yalanlar sayesinde veya kötülüğün yadsınmasıyla değil, aksine iyilik arayışıyla sağlanır. Okült bilim adamı, her şeyde iyinin aranması prensibine sıkı bir şekilde uyar, çünkü bu prensibin kötülüğü kontrol altında tutmada nasıl bir güce sahip olduğunu bilir. 
+
+İsâ ile ilgili bir hikâye bu noktayı çok iyi aydınlatır. İsâ, havarileriyle beraber dolaşırken çürüyen ve kötü kokan bir köpek leşine rastladı. Yanındakiler tiksintiyle ondan yüz çevirdiler ve mide bulandırıcı görüntü hakkında olumsuz konuşmaya başladılar. Fakat İsâ leşe baktı ve şöyle dedi: “Köpeğin dişleri, incilerden daha beyaz”. O, her zaman iyiyi bulmaya kararlıydı. Ve iyinin ifade edilmesinin Arzu Âlemindeki yararlı etkisini biliyordu. 
+
+Arzu âleminin en alt Bölgesi, “Tutku ve Cinsel Arzu Bölgesi” olarak adlandırılır. Bu bölgenin hemen üstündeki bölge en iyi, “İzlenim Yeteneği Bölgesi” olarak adlandırılır. Burada İtme ve Çekme ikiz güçlerinin etkileri eşit olacak şekilde birbirlerine karşı dengelenmiştir. Bu bölge nötraldir ve bu yüzden bu bölgenin maddesinden oluşmuş olan bütün izlenimlerimiz de nötraldir. 
+
+Sadece kendileriyle dördüncü bölgede karşılaşacağımız ikiz duygular etkinlik kazandıklarında ikiz güçler faaliyete geçerler. 
+
+Bununla birlikte herhangi bir şeyin saf izlenimi, onu ortaya çıkaran duygudan tamamen ayrıdır. İzlenim, nötraldir ve Arzu Âleminin ikinci Bölgesindeki bir faaliyettir. Bu bölgede, insanın yaşam bedenindeki duyusal algı güçleri aracılığıyla resimler oluşur. 
+
+Arzu Âleminin üçüncü Bölgesinde, birleştirici ve yapıcı güç olan Çekim gücü, yıkıcı etkiye sahip itme gücüne galip gelir. 
+
+Eğer bu İtme gücünün faaliyetinin ana sebebinin kendini ortaya koyma (self-assertion), yâni yer kazanmak için kendinden başka her şeyin uzağa itilmesi olduğunu kavrarsak, şunu da anlamış oluruz ki, bu güç, diğer şeylere duyulan arzuya çok kolay boyun eğer. Bu sebeple Arzu Âleminin üçüncü Bölgesinin maddesine çoğunlukla, diğer şeylere yönelik olan ve bencil bir yapıya sahip Çekim gücü hâkimdir. Bu yüzden bu bölge, ‘Dilekler Bölgesi’dir. 
+
+Kaba Arzular Bölgesi, Fizik Âlemdeki katı cisimlerle; İzlenim Yeteneği Bölgesi, sıvı cisimlerle ve de kararsız ve değişken doğasıyla Dilekler Bölgesi de gazlarla kıyaslanabilir. Bu üç bölge bizim; deneyim, ruhsal büyüme ve evrimimizi sağlayan formların maddesini verirler. Bu formlar, bütünüyle zararlı olanı temizlerler ve ilerlemede kullanılabilecek maddeyi tutarlar. 
+
+Arzu Âlemin dördüncü Bölgesi, “Duygu Bölgesi”dir. Burada, daha önce açıkladığımız formlarla ilişkili olan duygular ortaya çıkar. Bu formların bizim için canlılıkları ve onların üzerimizdeki etkisi, bu bölgede oluşan duygulara bağlıdır. Bu aşamada nesnelerin ve düşüncelerin, birbirleri için iyi mi kötü mü oldukları önemli değildir. Nesnenin ya da düşüncenin kaderinde belirleyici faktör olan, kendi İlgi ya da Kayıtsızlık duygumuzdur. 
+
+Bir nesnenin veya bir düşüncenin etkisi altında karşılaştığımız duygu İlgi ise, bu duygunun etkisi, ışığın ve havanın bitkiler üzerindeki etkisi gibidir. Bir düşünce de yaşamlarımızda bu şekilde büyür ve gelişir. Öte yandan bir nesnenin veya bir düşüncenin etkisi altında karşılaştığımız duygu Kayıtsızlık ise, bu duygu, karanlık bir bodrumdaki bitki gibi solar. 
+
+Böylece Arzu Âleminin bu merkez Bölgesinden eylem dürtüsü ya da ondan kaçınma kararı gelir. (Sonuncusu da okült bilim adamının gözünde bir eylemdir). Zirâ gelişimimizin şimdiki aşamasında, ikiz duygular İlgi ve Kayıtsızlık, eylem dürtüsünü sağlarlar ve de dünyâyı hareket ettiren kaynaklardır. İleriki aşamalarda bu duygular, tüm etkilerini kaybedecekler. Zira belirleyici faktör o zaman, görev bilinci olacaktır. 
+
+İlgi (interese), Çekme ve İtme güçlerini harekete geçirir. Kayıtsızlık ise, kendisine yönelen nesnenin veya düşüncenin, ilişkimiz onunla ilgili olduğu sürece onun solmasına sebep olur. Bir nesneye veya bir düşünceye olan ilgimiz İtme yaratırsa, doğal olarak, ilgili nesne veya düşünceyle ilgili olan her şeyi yaşamımızdan uzaklaştırma çabası içerisinde oluruz. Fakat İtme gücünün eylemi ile Kayıtsızlığın saf duygusu arasında büyük bir fark vardır. İkiz duygular ile ikiz güçlerin çalışma biçimlerini açıklamak için bir örnek vermek belki de daha yararlı olacaktır. 
+
+Üç adam, bir yol boyunca yürüyorlar. Bir hasta köpeğe rast geliyorlar. Köpek yara bere içinde ve acı ve susuzluk içinde ızdırap çekiyor. Bu durum, üç adamın üçü için de açık. Çünkü bu anda onların duyuları bunu onlara bu şekilde söylüyor. Ancak şimdi ek olarak duygular geliyor. Adamlardan ikisi hayvanla “ilgi”leniyorlar, üçüncüsünde ise hayvana karşı bir “kayıtsızlık” duygusu var. O, geçip gidiyor ve hayvanı kaderine terk ediyor. Diğer ikisi ise orada kalıyorlar. İkisi de ilgililer, ancak ikisi ilgilerini oldukça farklı biçimlerde açığa vuruyorlar. İlkinin ilgisi, onu, zavallı hayvanla ilgilenmeye ve hayvanın acılarını dindirmeye ve onu iyileştirmeye yönelten, anlayışlı ve yardımsever bir ilgi. İlgi duygusu onda Çekim gücünü uyandırdı. Diğer adamın ilgisi ise çok daha farklı. O, sadece kendisi için tiksindirici olan bir manzara görüyor ve mümkün olduğunca çabuk bir şekilde kendisini ve bu dünyayı bu iğrenç manzaradan kurtarmayı diliyor. Ve de hayvanı hemen öldürüp gömmeyi öneriyor. İlgi duygusu onda, yokedici İtme gücünü uyandırdı. 
+
+Aşağı nesnelere ve arzulara yönelik ilgi duygusu Çekim gücünü uyandırdığında, Çekim gücü, Arzu Âleminin aşağı Bölgelerinde etkinlik gösterir. Daha önce açıklandığı gibi bu Bölgelerde zıt yönde etkiyen güç olan İtme gücü faaliyet gösterir. İkiz güçler olan Çekme ve İtme’nin mücadelesinden, kötü veya yanlış yönlendirilmiş çabalara bağlı (bu çabalar kasıtlı olsun olmasın) tüm acılar ve ızdıraplar doğar. 
+
+Böylece, herhangi bir şeye karşı duyduğumuz Duygunun ne kadar önemli olduğunu görebiliriz. Zira bu duygu, kendi kendimize yarattığımız atmosferin doğasını belirler. Eğer iyiyi seviyorsak, etrafımızda iyi olan her şeyi koruyucu melekler olarak korumalı ve beslemeliyiz. Diğer durumda yolumuzu, kendi yarattığımız şeytanlarla doldururuz. 
+
+Arzu Âleminin üstteki üç Bölgesinin isimleri, “Rûh Hayatı Bölgesi”, “Rûh Işığı Bölgesi” ve “Rûh Gücü Bölgesi”dir. Bu bölgelerde sanat, fedâkârlık, hayırseverlik ve yüksek rûh-yaşamının tüm aktiviteleri ikâmet ederler. Eğer bu yüksek bölgelerin isimleriyle belirtilen özelliklerinin, aşağı Bölgelerin Formlarına yansıdıklarını düşünürsek, yüksek ve aşağı Bölgelerin aktivitelerini doğru anlamış oluruz. Yine de Rûh-gücü, iyi amaçlar için olduğu kadar bir süre için kötü amaçlar için de kullanılabilir. Fakat sonunda İtme gücü etkin olur ve ahlaksızlıkları yok ederken Çekim gücü de, yıkılmış kalıntılardan erdem’i inşa eder. Sonuçta bütün her şey, İYİ lehine çalışır. 
+
+Fizik ve Arzu Âlemleri birbirlerinden mekânsal olarak ayrı değildirler. Ve de bize “ellerimiz ve ayaklarımızdan daha yakındırlar”. Bir âlemden veya bir bölgeden diğerine gitmek için hareket etmeye gerek yoktur. Katılar, sıvılar ve gazlar vücudumuzda nasıl bir aradalar ve iç içe durumdalarsa, Arzu Âleminin bölgeleri de içimizde bu şekildedirler. Suda kendileri boyunca buz kristalleri oluşturan güç çizgilerini bir kere daha, Arzu Âleminde oluşan ve görünmeyen sebeplerle karşılaştırabiliriz. Ki bu sebepler, Fizik Âlemde görünürler ve herhangi bir doğrultuda bize harekete geçme dürtüsü verirler. 
+
+Güç çizgileri nasıl ki görünmez oldukları halde su içinde her yerde bulunuyor ve Fizik Âlemde olan her şeye neden olmaya muktedirse; içerisinde yaşayan sayısız varlıkla Arzu Âlemi de, Fizik Âlemin içine bu şekilde ve bu özelliklerle nüfuz etmiş haldedir. 
+
+#### <h4 id="the-world-of-thought">Düşünce Âlemi</h4>
+
+Düşünce Âlemi de farklı özelliklerde ve yoğunluktaki yedi Bölgeden oluşur ve de Fizik Âlemi gibi iki ana kısma ayrılır: En yoğun dört bölgeyi kapsayan “Somut Düşünce Bölgesi” ve en ince maddeye sahip üç Bölgeyi kapsayan “Soyut Düşünce Bölgesi”. Düşünce Âlemi, insanın kendisine araçlarını edindiği beş âlemden ortada bulunanıdır. Rûh ve beden burada karşılaşırlar. Bu âlem aynı zamanda, içinde insanın şu anki evriminin sürdüğü üç âlemden, en yukarıda olanıdır. Daha yüksekteki diğer iki âlem, insan için gerçekte henüz bir anlam ifade etmemektedir. 
+
+Biliyoruz ki Kimyasal Bölgenin maddeleri, tüm fiziksel formların yapımında kullanılmaktadır. Bu formlara, Eter Bölgesinde faal olan güçler aracılığıyla hareket gücü ve yaşam verilir. Ve bu canlı formlardan bazılarını, Arzu Âleminin ikiz Duyguları harekete geçirir. Somut Düşünce Bölgesi, düşünce maddesini verir. Soyut Düşünce Bölgesinde oluşan fikirler, düşünce-formları olarak kendilerini bu maddede ifade ederler. Ki böylece Fizik Âlemde oluşan etkilerden dolayı Arzu Âleminde üretilen tepi’lere (impulse) karşı düzenleyici ve nâzım çark[36] (balance wheels) olarak işlev görürler. 
+
+Böylece, insanın şu anda içinde geliştiği üç âlemin, birbirlerini tamamladığını ve bir bütün oluşturduğunu görürüz. Ki bu bütünü, sistemin Büyük Mimarının Yüce Bilgeliği açıklamıştır. Ve bu sistemin biz de bir parçasıyız ve onu Tanrı’nın kutsal ismi adına yüceltmekteyiz. 
+
+Somut Düşünce Bölge’sinin çeşitli bölümlerini ayrı ayrı incelersek, en aşağıda bulunan ve “kıtasal bölge” olarak adlandırılan alt-bölgede, hangi âleme ait olursa olsun bütün fizik Formların arketip’ini (ilk-örnek) buluruz. Bu “kıtasal bölge”de aynı zamanda dünyânın kıtalarının ve adalarının arketipleri de bulunur. Kıtalar ve adalar, bu arketiplere göre şekillendirilmişlerdir. Yerkabuğundaki değişiklikler ilk önce kıtasal bölgede çizilmelidir. Ancak arketip değiştirildikten sonra, (cahilliğimizi saklamak için) “doğa kanunları” olarak adlandırdığımız Zekâlar (Intelligences) fizik koşullara sebep olurlar. Bu fizik koşullar da, evrimin verdiği yetkiyle Hiyerarşiler tarafından tasarlanan değişikliklere uygun olarak yerin fiziksel özelliklerini değiştirirler. Bunlar, tıpkı mimarın bir yapıda, işçiler o yapıya somut biçim vermeden önce yaptığı gibi değişiklikleri tasarlarlar. Aynı şekilde bitkiler âlemi (Flora) ve hayvanlar âlemindeki (Fauna) değişimler de, onların ilgili arketiplerindeki dönüşümler (metamorphoses) sayesinde meydana gelir. 
+
+Yoğun dünyâdaki farklı formların arketiplerinden bahsettiğimizde onların, sadece formların minyatür bir örnekleri olduğunu ya da bu formların uygun ve nihai kullanımları için yapıldıkları malzemeden başka bir malzemeyle yapılmış olduğunu düşünmemeliyiz. 
+
+!!!!!!!!!!!!!!!!!!!!!!ŞEKİL 1: Görünür ve görünmez alemlerin karşılıklı konumları (bir projektörle karşılaştırmalı olarak). 
+
+Onlar yalnızca etrafımızda gördüğümüz kopyalar ya da formların modelleri değildirler. Aksine onlar, yaratıcı arketiplerdir. Yâni onlar, Fizik Âlemin formlarını, bu formların benzerine ya da benzerlerine göre biçimlendirirler. Birçok arketip, belirli bir türü biçimlendirmek için birlikte çalışırlar ve her arketip, gerekli formu oluşturmada kendisinden gerekeni forma verir. 
+
+Somut Düşünce Bölgesinin ikinci alt-bölgesi, “Okyanus Bölgesi” olarak adlandırılır. Bu bölge en iyi, akan ve titreşen yaşam gücü olarak betimlenebilir. Burada arketip olarak, eter bölgesini oluşturan dört eter aracılığıyla çalışan tüm güçler görülürler. Bu alt-bölge, kanın vücudu dolaştığı gibi tüm formları dolaşarak akan bir yaşam nehridir. Bu nehir, tüm formlardaki bir ve aynı yaşamdır. Deneyimli durugörür burada, “tüm yaşamın bir olduğu” görüşünün ne kadar gerçek olduğunu görür. 
+
+Yedi Alem!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+“Hava bölgesi”, Somut Düşünce Bölgesinin üçüncü alt-bölgesidir. Burada, Arzu Âleminde yaşadığımız arzular, tutkular, dilekler, hisler ve duyguların arketiplerini buluruz. Arzu Âleminin tüm faaliyetleri burada atmosferik durumlar olarak görünür. Durugörürü burada, bir yaz melteminin esintisi gibi hoşnutluk ve neşe duyguları sarar. Rüzgârın sesiyle ağaçların hışırdaması gibi rûhun özlemi belirir. Burada, savaşçı ulusların tutkuları ise yıldırımların çakmasına benzer. Bu Somut Düşünce bölgesinde aynı zamanda insanların ve hayvanların duygularının resimleri bulunur. 
+
+“Arketip Güçler Bölgesi”, Somut Düşünce bölgesinin dördüncü alt-bölgesidir. Bu alt-bölge, beş âlem içerisinde, ortada bulunur ve en önemli bölgedir. Çünkü insanın tüm evrimi bu bölgede sürmektedir. Bu bölgenin üst tarafında Düşünce Âleminin yüksekteki üç bölgesi ile Yaşam Rûhu Âlemi ve Tanrısal Rûh Âlemi bulunur. Bu “Arketip Güçler Bölgesi”nin alt tarafında ise Düşünce Âleminin alttaki üç bölgesi ile Arzu Âlemi ve Fizik Âlem bulunur. Bu sebeple bu bölge, bir tarafında Rûh Âlemleri, diğer tarafında da Form Âlemleri olan bir çeşit “haç” durumundadır. Ve de Rûhun kendisini maddeye yansıttığı odak noktasıdır. 
+
+Bu bölge, isminden de anlaşılacağı gibi Somut Düşünce Bölgesindeki arketiplerin faaliyetini yöneten Arketip Güçlerin evidir. Rûh, madde üzerindeki biçimlendirici çalışmasını bu bölgeden yapar. Şekil 1 bunu şematik olarak göstermektedir. Aşağı âlemdeki formlar, yüksek âlemlerdeki Rûhun yansımalarıdır. Rûh tarafında odak noktasına en yakın bölge olan beşinci bölge kendisini, Form tarafındaki odak noktasına en yakın bölge olan üçüncü bölgede yansıtır. Aynı şekilde altıncı bölge kendisini ikinci bölgede; yedinci bölge de kendisini birinci bölgede yansıtırlar. 
+
+Soyut Düşünce bölgesinin tamamı Arzu Âlemine yansır. Yine aynı şekilde Yaşam Rûhu Âlemi, Fizik Âlemin Eter bölgesine ve de Tanrısal Rûh Âlemi de Fizik Âlemin Kimyasal Bölgesine yansırlar. 
+
+Şekil 2, bizim gelişim küremiz olan yedi âlem hakkında kapsamlı bir fikir verecektir. Ancak unutulmamalıdır ki, bu âlemler şemada gösterildiği gibi birbirlerinin üzerinde bulunmazlar. Aksine bu âlemler, iç içe geçmiş bir haldedirler. Tıpkı Fizik Âlemi ve Arzu Âlemi karşılaştırdığımızda söylediğimiz gibi: Demiştik ki Arzu Âlemi, donan sudaki kuvvet çizgilerine; suyun kendisi de Fizik âlemine benzer. Aynı şekilde örnekteki kuvvet çizgilerini yedi âlemdekinden her birine benzetebiliriz. O zaman su da, örnek gösterilen âlemden bir derece daha yoğun âleme işaret edecektir. Vereceğimiz başka bir örnek bu durumu daha anlaşılır kılacaktır. 
+
+Yoğun Yer’i ( Kimyasal Bölge), yuvarlak bir süngerle gösterelim. Düşünelim ki kum, bu süngerin bütün boşluklarına dolmuş ve süngerin etrafında da bir tabaka oluşturmuş olsun. Burada kum, yoğun Yer’in içine sızmış ve Yer’in atmosferinin dışına dek uzanan Eter bölgesini ifade eder. 
+
+Ve daha da ileri gidip bu sünger ve kumu, onlardan biraz daha büyük ve berrak bir su ile doldurulmuş yuvarlak bir cam kabın içine daldırdığımızı düşünelim. Sünger ve kumu cam kabın ortasına, tıpkı yumurta sarısının yumurtanın ortasında bulunduğu gibi yerleştirdiğimizi varsayalım. Su, bütün olarak Arzu Âlemini göstermektedir, zira su nasıl kum taneciklerinin ve süngerin içine sızıyor ve sünger ile kumun etrafında bir tabaka oluşturuyorsa, Arzu Âlemi de aynı şekilde yoğun Yer’in ve Eter’in içine nüfuz etmiştir ve ayrıca onların etrafında da bir tabaka oluşturmuştur. 
+
+Suda havanın bulunduğunu biliyoruz. Örneğimizde, sudaki havanın da Düşünce Âlemi’ni gösterdiğini düşünürsek, ince ve sübtil Düşünce Âleminin kendisinden daha yoğun iki âlemin içine nasıl nüfuz ettiğini gösteren güzel bir zihinsel resme sahip olmuş oluruz. Son olarak da içinde sünger bulunan cam kabın, kendisinden daha büyük ve küre şeklindeki bir kabın merkezine konulduğunu varsayalım. İki kap arasındaki hava boşluğu, Arzu Âleminin etrafında bulunan ve ona nüfuz etmiş olan Düşünce Âlemini gösterir. 
+
+Güneş sistemimizin her bir gezegeni de aynı şekilde iç içe geçmiş üç âleme sahiptir. Üç âlemden oluşmuş olan bu gezegenlerin her birinin, örneğimizdeki sünger gibi olduklarını düşünürsek, Yaşam Rûhu olan dördüncü âlemi de, büyük bir cam kapta bulunan ve içinde birbirinden ayrı üç süngerin yüzdüğü su olarak hayal edebiliriz. Böylece anlayabiliriz ki, nasıl kaptaki su, süngerlerin arasındaki boşluğu dolduruyor ve onların arasındaki bağlantıyı sağlıyorsa, aynı şekilde Yaşam Rûhu Âlemi de gezegenler arasındaki boşluğu doldurmakta, ayrı gezegenleri birbirlerine bağlamakta ve onlara nüfuz etmiş durumda bulunmaktadır. Yaşam Rûhu Âlemi, gezegenler arasında ortak bir bağ oluşturur ve nasıl Amerika’dan Afrika’ya gidebilmemiz için bir gemimizin olması gerekirse, bir gezegenden diğerine gidebilmemiz için de Yaşam Rûhu Âlemiyle ilişkili olan ve bilinçli olarak kontrol edebildiğimiz bir araca gereksinim duyarız. 
+
+Yaşam Rûhu Âlemi, nasıl güneş sistemimizin diğer gezegenleriyle bağlantılı olmamızı sağlıyorsa, Tanrısal Rûh Âlemi de bizim diğer güneş sistemleriyle bağlantılı olmamızı sağlar. Güneş sistemlerini, örneğimizdeki Tanrısal Rûh Âleminde yüzen ayrı süngerler olarak düşünürsek, bir güneş sisteminden diğerine gidebilmemiz için, insanın en yüksek aracı olan Tanrısal Rûhun üzerinde bilinçli olarak etkin olabilmesi gerektiği görülür. 
+
+### <h3 id="chapter-2">2. Bölüm: Dört Âlem</h3>
+
+Gezegenimizin üç âlemi (Fizik, Arzu ve Düşünce Âlemleri) zamanımızda, çeşitli gelişim aşamalarındaki birçok yaşam âleminin evrim alanıdır. Bunlardan şimdilik sadece dördünü ele almamız gerekiyor: Maden, Bitki, Hayvan ve İnsan Âlemleri. 
+
+Bu dört âlem, deneyim okulunda gelişen yaşam gruplarının kat ettiği ilerlemeye bağlı olarak, üç âlemle (Fizik, Arzu ve Düşünce Âlemleri) farklı ilişkilere sahiptir. Sadece form söz konusu olduğunda, dört âlemin tümünün yoğun bedenleri, aynı kimyasal özden, yâni Kimyasal bölgenin katı, sıvı ve gazlarından yapılmışlardır. Taşa sadece madensel yaşam verilmiş olmasına rağmen, insanın yoğun vücudu da tıpkı taşın kendisi gibi bir kimyasal üründür. Sadece fiziksel bakış açısından konuya baksak ve diğer tüm yargıları bir an için bir kenara bıraksak bile, yoğun insan vücudu ile yerdeki maden arasında çok çeşitli ve önemli farklar buluruz. İnsan hareket eder, büyür ve türünü devam ettirir. Ancak doğal halindeki bir maden, bunları yapamaz. 
+
+İnsanı, bitki âleminin formlarıyla karşılaştırdığımızda, hem insanın hem de bitkilerin, büyüme ve üreme yeteneklerine sahip yoğun bedenlerinin olduğunu görürüz. Fakat insanın, bitkilerde olmayan yetenekleri de bulunmaktadır. İnsan; hislere, hareket etme yeteneğine ve kendisi dışındaki şeyleri algılama yeteneklerine sahiptir. 
+
+İnsanı hayvanla karşılaştırdığımızda görürüz ki, her ikisinde de hissetme, hareket etme, büyüme, üreme ve duyusal algılama yetenekleri bulunur. İnsan ayrıca, ona çok büyük fiziksel bir avantaj sağlayan konuşma yeteneğine, üstün bir beyne ve el yapısına da sahiptir. Elimizi, insana fiziksel olarak en çok benzeyen maymunun elinden bile çok daha değerli kılan başparmağımızın gelişimi de özellikle dikkate değerdir. İnsan ayrıca, hislerini ve düşüncelerini ifade edebildiği belli bir dil de geliştirmiştir. Tüm bunlar insanın yoğun bedenini, diğer üç âlemden üstün bir âlemde yer almasını sağlar. Dört âlemdeki bu farklılıkları açıklamak için görünmez (gayb) âlemlere gitmeli ve bir doğa âlemine verilen bir özelliğin, diğerine neden verilmediğini araştıracağız. 
+
+Bir âlemde iş görebilmek ve ona özgü özellikleri açığa vurabilmemiz için ilk koşul, o âlemin malzemesinden yapılmış bir araca sâhip olmamızın zorunlu olmasıdır. Fizik Âlemde iş görebilmek için, fizik çevremizle uyumlu yoğun bir bedene sahip olmamız gereklidir. Aksi takdirde, genel olarak hayalet olarak adlandırılan şeyler olurduk ve birçok fizik varlık için görünmez kalırdık. Aynı şekilde yaşamı ifade edebilmek, büyüyebilmek veya Eter Bölgesine ait herhangi bir özelliği açığa vurabilmek için canlı bir bedene sahip olmamız şarttır. 
+
+His ve duygu gösterebilmek için de Arzu Âleminin maddesinden oluşturulmuş bir araca sahip olmamız zorunludur. Ve de Somut Düşünce Bölgesinin malzemesinden biçimlendirilmiş bir zihin de düşünme işini yapabilmemizi sağlar. 
+
+Dört âlemin Eter bölgesiyle olan ilişkisini incelersek, madenlerin ayrı bir yaşam bedenlerinin olmadığını görürüz. Bu da onların büyüme, üreme ve duyusal yaşam göstermelerini imkânsız kılar. 
+
+Materyalist bilim çeşitli gerçekleri açıklamak için, hipotezler üretmeyi doğru kabul etmiştir. Ne en yoğun katılarda, ne de en ince olan gazlarda bile iki atomun birbirine değmediği, her bir atomu bir eter tabakasının çevrelediği ve evrenin atomlarının bir eter okyanusunda yüzdükleri, materyalist bilimin ortaya koyduğu hipotezlerden bazılarıdır. 
+
+Okült bilim adamı ise belirtilen hipotezlerin, Kimyasal Bölge için doğru olduklarını ve madenin, eterden oluşmuş ayrı bir yaşam bedeninin olmadığını bilir. Ve maden atomlarını yalnızca gezegen eter çevrelediği için, belirtilen bu fark meydana gelir. Arzu Âleminin, Düşünce Âleminin ve hatta daha yüksek âlemlerin atomları yoğun insan bedenin içine nüfuz etmiş olmalarına rağmen yine de, her bir âlemin özelliklerini ifade edebilmek için mutlaka gösterdiğimiz gibi ayrı bir yaşam bedene, ayrı bir arzu bedene vs sahip olmamız gerekir. Gezegen eterinin, yâni madenlerin atomlarını çevreleyen eterin madene nüfuz etmiş olması tek başına madene duygu ve üreme yetilerini vermeye yeterli olsaydı, o zaman gezegen Düşünce Âleminin onlara nüfuz etmiş olması, madenlere düşünme yeteneğini kazandırmak için yeterli olacaktı. Ancak bu gerçekleşmez, çünkü bunun olması için gerekli olan ayrı bir araç eksiktir. Madene sadece, gezegen Eter nüfuz etmiştir, bu yüzden de o, bireysel büyüme yeteneğine sahip değildir. Madende, dört eter türünden yalnızca en aşağıda olan kimyasal eter etkindir. Madenler kimyasal güçlerini bu eter sayesinde kazanmışlardır. 
+
+Bitkileri, hayvanları ve insanları Eter Bölgesi açısından incelersek fark ederiz ki bunların tümü, ayrı bir yaşam bedene sahiptirler ve ayrıca gezegen eter de bu yaşam bedenlere nüfuz etmiş durumdadır. Bununla birlikte bitkilerin yaşam bedenleri ile hayvan ve insanların yaşam bedenleri arasında bir fark vardır. Bitkinin yaşam bedeninde, yalnızca kimyasal ve yaşam eterler tümüyle aktiftir. Bu sayede bitki, kimyasal eterin faaliyetiyle büyüyebilir ve de sahip olduğu ayrı yaşam bedeninin yaşam eteri sayesinde de türünü devam ettirmek için çoğalabilir. Bitkide ışık eteri de bulunur ancak kısmen gelişmemiştir veya uykudadır. Buna karşın yansıtıcı eter bitkide hiç bulunmaz. Bu yüzden, bu eterin özellikleri olan duyusal algılama ve hafıza yetilerinin bitki âleminde açığa çıkamayacağı görülür. 
+
+Dikkatimizi hayvanın yaşam bedenine çevirdiğimizde görürüz ki, hayvanda hem kimyasal, hem de yaşam ve ışık eterleri dinamik bir biçimde aktiftirler. Bu yüzden hayvan, kimyasal eterin faaliyetleri sayesinde bitkilerdeki gibi yiyecek sindirme ve büyüme yetilerine; yaşam eter aracılığıyla da yine bitkilerdeki gibi çoğalma yetisine sahiptir. Bütün bu yetiler bitkilerdeki yetilerin aynısıdır. Ancak hayvan âlemi ayrıca, ışık eterinin faaliyeti sayesinde iç sıcaklık üretimi ve duyusal algılama yetilerine de sahiptir. Ancak dördüncü eter, bitkilerde olduğu gibi hayvanlarda da aktif değildir, dolayısıyla hayvan da düşünceye ve hafızaya sahip değildir. Hayvanların sanki düşünce ve hafızaya sahipmiş gibi görünmelerinin sebebi ileride açıklanacaktır. 
+
+İnsan varlığını incelediğimizde ise, dört eterin hepsinin de onun yüksek seviyeli yaşam bedeninde dinamik bir biçimde aktif olduğunu görürüz. Kimyasal eterin faaliyetleri yardımıyla insan, yiyecekleri sindirebilir ve büyüyebilir. Yaşam eterinde iş gören güçler ona türünü devam ettirme yetisini verirler. Işık eterdeki güçler yoğun bedene ısı sağlarlar ve sinir sistemi ve kaslar üzerinde etkinlik kazanırlar. Böylece duyular yoluyla dış dünya ile iletişim kapıları açılır. Yansıtıcı eter de rûha, sahip olduğu aracı düşünce yoluyla kontrol etme imkânı verir. Bu eter aynı zamanda, geçmişteki deneyimleri hafıza olarak kaydeder. 
+
+Yer’in Eter Bölgesinin yoğun kimyasal bölgesinin dışını da kapladığı gibi bitki, hayvan ve insanın yaşam bedenleri de, yoğun bedenlerinin dışını da kaplar. Ki bu da yine, “yukarıda nasılsa aşağıda da öyledir” diyen hermetik yasanın gerçek olduğunun bir kanıtıdır. Yaşam bedenin, yoğun bedenin dışına olan bu uzanımı insanda yaklaşık dört santimetredir. Yoğun bedenin dışında bulunan bu kısım çok parlaktır ve rengi, yeni açmış şeftali çiçeğinin rengine benzer. Durugörür yeteneğine istençsiz (involuntary) sahip olanlar genellikle bu kısmı görürler. Bu kişilerle yaptığı görüşmeler sonucunda kitabın yazarı, bu kişilerin olağandışı bir şey gördüklerinin bilincinde olmadıklarını ve gördükleri şeyin ne olduğunu bilmediklerini tespit etmiştir. 
+
+Doğum öncesi (anne karnındaki) yaşam esnasında yoğun beden, bu yaşam bedenin kalıbı içinde oluşturulur ve onun tek bir istisna dışında molekül molekül aynen kopyasıdır. Donan sudaki kuvvet çizgileri nasıl buz kristallerinin oluşumunu biçimlendiriyorlarsa, aynı şekilde yaşam bedendeki kuvvet çizgileri de yoğun bedenin biçimini belirlerler. Tüm yaşam boyunca yaşam beden, yoğun bedenin inşa edicisi ve onarıcısıdır. Eter kalp olmasaydı yoğun kalp, üzerine yüklediğimiz sürekli gerilimden dolayı çok çabuk iflas ederdi. Yoğun bedenimizi kötü kullanmamız sonucu oluşan etkilere karşı yaşam bedenimiz elindeki bütün güçlerle ve kesintisiz olarak mücadele eder. Yani yaşam beden, yoğun bedenin ölümüne karşı sürekli mücadele verir. 
+
+Yukarıda belirtilen istisna şudur: Erkeğin yaşam bedeni dişil ve negatif iken, kadının yaşam bedeni eril ve pozitiftir. Bu gerçekte, yaşamın pek çok anlaşılmaz probleminin çözüm anahtarını buluruz. Kadının duygularına teslim olması, belirttiğimiz bu pozitifliğin bir sonucudur. Zira kadının pozitif yaşam bedeni, fazla kan üretir ve onun, müthiş bir içsel basıncın etkisi altında kalmasına sebep olur. Bu müthiş basınç, iki güvenlik vanası ile azaltılır ve dengelenir. Birincisi, düzenli aybaşı diğeri de özel duygusal durumlardaki basıncı hafifletmek için kullanılan gözyaşlarıdır. Çünkü gözyaşı, “beyaz kan” olarak da bilinir. 
+
+Erkeğin de kadın kadar güçlü duyguları olabilir ve vardır da. Ancak erkeğin onları gözyaşı dökmeden bastırabilme yeteneği vardır, zira onun negatif yaşam bedeni aşırı kan üretmez ve de erkek böylelikle duygularını daha kolay kontrol edebilir. 
+
+İnsanın daha yüksek araçlarının aksine, yaşam beden (“inisiyasyon” konusu altında incelenecek belli koşullar haricinde) yoğun bedenin ölümüne kadar yoğun bedeni terk etmez. Ölümle birlikte yoğun bedenin kimyasal güçleri artık, gelişen yaşamı kontrol altında tutamazlar ve yoğun bedenin ‘malzeme’sinin en baştaki haline ayrışmasını gerçekleştirmeye başlarlar. Böylece bedendeki ‘malzeme’, doğa ekonomisinde diğer bedenlerin inşasında kullanılabilir hale gelir. Parçalanma, kimyasal eterdeki gezegensel güçlerin faaliyetinin bir sonucudur. 
+
+Yaşam bedenin oluşturulmasına bir örnek olarak, birbirine geçmiş ve gözlemciye sayısız nokta olarak görünen yüzlerce küçük tahta parçasından oluşmuş resim çerçevesi verilebilir. Yaşam beden de bu şekilde noktalara sahiptir. Bu noktalar, yoğun atomların boş merkezlerine girerler ve onları yaşam gücü ile doldururlar ve böylece onların, çok hızlı olmayan ve ruhla donanmamış maden atomlarından daha yüksek bir oranda titreşmelerini sağlarlar. 
+
+Bir insan boğulduğunda, yüksek bir yerden düştüğünde veya donduğunda yaşam beden, yoğun bedeni (vücudu) terk eder ve bunun sonucunda atomlar geçici olarak yaşamsız kalır. Fakat acil müdahale ile insan tekrar canlandırıldığında yaşam beden, tekrar yoğun bedene girer ve “noktalar” tekrar atomların içine yerleşirler. Atomların ataleti, onların titreşime yeniden başlamaya direnç göstermelerine sebep olur ve bu da, normalde olmayan ve iğne gibi batan yoğun bir ağrı ile bir kaşınma duygusunun bu esnada hissedilme nedenidir. Aynı sebepten, normalde çalışan bir saatin tiktaklarının bilincinde olmasak da, tiktakların başlamasını ve durmasını fark ederiz. 
+
+Yaşam bedenin yoğun bedeni kısmen terk ettiği durumlar vardır, örneğin bir elin “uyuması”. Bu durumda yaşam bedenin eter elinin, bir eldiven gibi yoğun elin aşağısında asılı vaziyette olduğu görülebilir. Eter el, yoğun elin içine tekrar girdiğinde, eter elin noktaları, karıncalanma hissine sebep olurlar. Bazen hipnoz esnasında yaşam bedenin kafası ikiye ayrılır ve her bir parça yoğun bedenin kafası dışında ve omuzun üstünde asılı kalır veya bir kazağın yakası gibi boyun etrafında dolanmış halde bulunur. Böyle durumlarda uyandırma esnasında karıncalanma hissedilmez, zira hipnoz sırasında hipnoz yapan kişinin yaşam bedeninin ilgili kısmı, kurbanın yaşam bedenin hipnoz olan kısmına girer. 
+
+Uyuşturucu madde kullanılırsa, yaşam bedeni daha yüksek araçlarıyla birlikte yoğun bedenden kısmen çıkarır ve eğer kullanım çok kuvvetli olursa yaşam eter vücuttan sürülür ve ölüm meydana gelir. Aynı fenomen, materyalizasyon medyumlarında da gözlenebilir. Aslında bir materyalizasyon medyumu ile normal bir erkek veya kadın arasındaki fark şudur: Medyumda yaşam beden ve yoğun beden birbirlerine sadece gevşekçe bağlı iken, evrimimizin şimdiki aşamasında normal bir erkek veya kadında bu iki beden, birbirlerine oldukça sıkı bir biçimde nüfuz etmiş durumdadırlar. Bu her zaman böyle değildi ve yaşam bedenin gayet normal bir şekilde yoğun bedeni terk edebileceği zaman tekrar gelecektir. Henüz zamanımızda bu, genelde olan bir şey değildir. Bir medyum kendi yoğun bedenini, Arzu âlemindeki kendilerini maddeleştirmek isteyen varlıkların kullanmasına izin verirse yaşam beden genel olarak soldan, kendi özel “kapı”sı olan dalaktan dışarı çıkar. Bundan sonra artık yaşam güçleri normal bir şekilde vücutta akamazlar. Bu sebeple medyumlar oldukça bitkin bir hale gelir ve onlardan bazıları bu duruma karşı alkollü içeceklere sığınırlar ve zamanla da şifa bulmaz alkolikler haline gelirler. 
+
+Güneşten gelen ve etrafımızı renksiz bir sıvı halinde çevreleyen yaşam gücü, yaşam bedeni tarafından dalağın eter ikizi aracılığıyla emilir. Bu eter organın içinde garip bir renk dönüşümü gerçekleşir. Bu yaşam gücü eter organda açık gül rengini alır ve sinirler boyunca yoğun bedenin her tarafına yayılır. Bir telefon sistemi için elektrik neyse, sinir sistemi için de bu güç odur. Tüm bağlantılar, araçlar ve telgraf operatörleri olsa bile, elektrik yoksa, telgraf üzerinden hiçbir mesaj gönderilemez. Ego, beyin ve sinir sistemi görünürde işler bir durumda olabilirler, ancak Ego’nun mesajlarını sinirler aracılığıyla kaslara ileten yaşam gücü olmadığında, yoğun beden hareketsiz kalacaktır. Bu tam da, yoğun bedenin bir kısmına felç indiğinde olan olaydır. Yaşam beden hastalanmıştır ve yaşam gücü, artık felçli bölgede akamaz. Hastalıkların pek çoğunda olduğu gibi bu durumda da sorun, daha ‘ince’ ve görünmez araçlarda yatar. Bilinçli veya bilinçsiz bu gerçeği gören doktorlar, mesleklerinde en başarılılar olurlar. Ve ilaç tedavisine ek olarak, daha yüksekteki araçlar üzerinde etkin olan telkin yöntemini kullanırlar. Bir doktor hastasına inancı ve umudu ne kadar çok aşılayabilirse, hastalık o kadar hızlı yok olacak ve yerini mükemmel sağlığa bırakacaktır. 
+
+Sağlıklı durumda yaşam beden, bol miktarda yaşam gücü üretir. Bu güç, yoğun bedenin içinden geçtikten sonra, bir çemberin merkezinden tüm yönlere doğru çıkan düz çizgiler şeklinde ışır. Fakat hastalıkta yaşam beden zayıftır ve aynı ölçüde gücü alamaz. Ve buna ek olarak yoğun beden de yaşam bedenden beslenir. Bu durumda yoğun bedenden çıkan ışınların, arkalarındaki güç eksikliğini gösterecek şekilde buruşuk ve eğik olduğu görülebilir. Sağlıklı durumda dışarı çıkan güçlü ışınlar, yoğun bedenin sağlığına zararlı olan virüsleri ve mikropları da beraberinde götürür. Fakat hastalık esnasında yaşam gücü eksik iken bu ışınlar, virüsleri ve mikropları o kadar kolay dışarı atamazlar. Bu yüzden zayıf kalmış bir vücut için hastalık tehlikesi, tamamen sağlıklı bir vücudunkinden çok daha fazladır. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!ŞEKİL B1: Sıradan insanın arzu bedenindeki duyu merkezleri ve akımlar (henüz uyandırılmadıklarından belirsizler). 
+
+!!!!!!!!!!!!!!!!!!!ŞEKİL B2: İstemli Durugörür’ün arzu bedenindeki duyu merkezleri ve akımlar (düzenli ve kullanılmaya hazır) 
+
+!!!!!!!!!!!!!!!!!!!!ŞEKİL B3: İradedışı Durugörür ya da Medyum’un arzu bedenindeki duyu merkezleri ve akımlar (negatif gelişmiş ve güvenilmez). 
+
+Yoğun bedenin bir kısmı veya bir organı alındığında bu kısma veya organa sadece gezegensel eter eşlik eder. Ayrılmış yaşam beden ve yoğun beden, ölümden sonra eşzamanlı çözülürler. Vücuttan ayrılan uzuvların eter ikizleri için de aynı şey geçerlidir. Uzuv nasıl çürüyerek çözülüyorsa aynı şekilde eter ikiz de çözülür. Fakat bu arada insanın daha bir süre eter uzva sahip olması, onun uzvu ve uzvun acısını hissettiğini iddia etmesine sebep olur. Ayrıca gömülen uzuvla arasında mesafeye bağlı olmayan bir bağlantı da vardır. Şöyle bir olay anlatılır: Adamın biri kesilen uzvunda çivi batması şeklinde büyük bir acı hissetmektedir. Büyük ısrarları sonucu gömülen uzuv tekrar çıkarılır ve görülür ki, defin esnasında tabuta konulurken gerçekten de bir çivi uzva girmiştir. Çivi uzuvdan çıkarıldığında adamın acısı da hemen kesilmiştir. İnsanların alınan uzuvlarındaki ağrılardan iki ya da üç sene boyunca bahsetmesi de bu olayla örtüşmektedir. Ancak alınma işleminden iki ya da üç sene sonra ağrılar dinmektedir. Bu şundan kaynaklanır, çünkü hastalık, henüz bedenden ayrılmamış olan eter uzuvda hâlâ bulunmaktadır, fakat alınmış olan uzuv çözüldükçe eter uzuv da onunla beraber çözülür ve böylece ağrılar durur. 
+
+Böylelikle dört âlemle, Fizik âlemin Eter bölgesi arasındaki ilişkiyi öğrenmiş olduk. Şimdi de bu âlemlerin, Arzu âlemi ile olan ilişkisini inceleyelim. 
+
+Burada hem madenlerin, hem de bitkilerin, ayrı bir arzu bedenlerinin olmadığını görürüz. sadece Arzu âleminin gezegen arzu bedeni onlara nüfuz etmiştir. Maden ve bitkiler ayrı bir araca sahip olduklarından, Arzu âlemine özgü olan hissetme, arzulama ve duygu yetilerinden yoksundurlar. Bir taş parçalandığında, taş bunu hissetmez; fakat hiçbir hissin böyle bir eylemle ilişkili olmadığını kabul etmek yanıltıcı olur. Bu, bilmeyen yığınların büyük çoğunluğunun sahip olduğu materyalist bakış açısıdır. Okült bilim adamı bilir ki, büyük veya küçük hiçbir eylem yoktur ki, evren tarafından hissedilmesin. Taşın parçalanmasını, ayrı bir arzu bedeni olmadığı için taş hissedemese de Yer’in Rûhu hisseder, zira yerin arzu bedeni, taşa da nüfuz etmiştir. Bir insan parmağını kestiğinde, ayrı bir arzu bedeni olmayan parmak acıyı hissetmez. Ancak parmağa da nüfuz etmiş olan bir arzu bedeni olduğu için insan, acıyı hisseder. Bir bitki kökünden koparılırsa, Yerin Rûhu, kafamızdan bir saç koparıldığında bizim duyduğumuz acının aynısını duyar. Yer, yaşayan ve hisseden bir bedendir. Gelişimlerinde, onun aracılığıyla hissi deneyimleyebilecekleri ayrı bir arzu bedene sahip olmayan bütün formlar, yer’in arzu bedenine dahildirler ve bu arzu beden hisseder. Taşın kırılması ve çiçeğin koparılması yer’de haz duygusu uyandırırken, bitkinin kökünden koparılması acı duygusuna yol açar. Bunun nedeni bu çalışmanın daha ileriki bölümlerinde izah edilecektir, çünkü çalışmamızın bu aşamasında yapacağımız herhangi bir açıklama, ortalama okuyucuların geneli için anlaşılmaz kalacaktır. 
+
+Gezegen Arzu Âlem, maden ve bitkilere nasıl nüfuz ediyorsa, aynı şekilde de hayvan ve insanın yoğun ve yaşam bedenleri içinde akar. Ancak buna ek olarak hayvan ve insanın arzu, duygu ve tutku hissetmesine olanak veren ayrı arzu bedenleri de vardır. Fakat burada, hayvan ve insan arasında bir fark vardır: Hayvanın arzu bedeni, Arzu Âleminin yoğun bölgelerinin maddesinden yapılmışken en düşük insan ırklarında bile, arzu bedenin yapısında yüksek bölgelerin maddesinden de az bir miktar bulunur. Hayvanların ve en düşük insan ırklarının hisleri hep dalgalanır ve bu hislerin neredeyse tamamı, en aşağı arzu ve tutkuların tatmin edilmesi ile ilgilidir. Bu düşük arzu ve tutkular, kendilerini Arzu Âleminin alttaki üç bölgesinin maddesiyle ifade ederler. Bu yüzden daha yüksek bir şey için kendilerini eğitecek duygulara sahip olabilmeleri için, arzu bedenlerinde uygun maddeye sahip olmak zorundadırlar. İnsan, yaşam okulunda ilerlediği ölçüde deneyimleri onu yetiştirir ve arzuları zamanla daha saf ve daha iyi hale gelir. Buna bağlı olarak da arzu bedeninin maddesel yapısı da benzer bir değişikliğe uğrar. Arzu âleminin yüksek bölgelerinin daha saf ve parlak malzemesi, aşağı bölgelerin koyu renkli malzemesinin yerini alır. Arzu beden boyut bakımından da büyür. Bir azizde bu beden, gerçekten de olağanüstü bir görünüm arz eder. Renklerinin saflığı ve bedenin parlak şeffaflığı eşsizdir. Bu güzelliği değerlendirmek için onu görmüş olmak gerekir. 
+
+Günümüzde insanların büyük çoğunluğunun arzu bedenlerinin bileşiminde, alçak ve yüksek Bölgelerin maddelerinin her ikisi de bulunmaktadır. Hiçbir insan, bir tane dahi iyi özelliği olmayacak kadar kötü değildir. İnsanların iyilik özellikleri, onların arzu bedenlerinde bulunan yüksek Bölgelerin maddeleriyle açığa vurulur. Ancak öte yandan da çok çok az kişi, aşağı Bölgelerin maddesini hiç kullanmayacak kadar iyidir. 
+
+Sünger, kum ve su örneğinde gezegensel yaşam ve arzu bedenlerin, yer’in yoğun maddesine nüfuz etmiş olduğunu gördük. Yaşam ve arzu bedenler aynı şekilde, bitki, hayvan ve insanların yoğun bedenlerine de nüfuz etmiştirler. Fakat insanın yaşamı boyunca arzu bedeni, yoğun ve yaşam bedenleri gibi şekillenmez. Arzu beden ancak ölümden sonra şekil alır. Yaşam esnasında onun parlak ve oval bir görünümü vardır. Arzu beden, insanın uyanık olduğu saatlerde yoğun bedeni, tıpkı yumurta akının, yumurtanın sarısını kuşattığı gibi tamamen kuşatır. Ve de vücudun 30 ila 37,5 cm dışına kadar uzanır. Arzu bedende birçok duyu merkezleri bulunur, ancak bunlar insanların çoğunda gelişmemiş ve uyur durumdadır. Bu algı merkezlerinin açılması, önceden verdiğimiz örnekteki kör adamın gözlerinin açılmasına benzer. İnsanın arzu bedeninin maddesi, sürekli hareket halindedir ve bu hareket, gözlenemeyecek kadar hızlıdır. Arzu beden içinde, yoğun bedenimizde olduğu gibi herhangi bir kısım için belirli bir yer yoktur. Aynı madde, bir an için kafada, bir an sonra ayakta ve başka bir an tekrar kafada bulunabilir. Yoğun beden ve yaşam bedende olduğu gibi arzu bedende organlar bulunmaz, ancak bu bedende algı merkezleri yer alır. Bu algı merkezleri aktifken girdap şeklinde görülürler ve yoğun bedene hep aynı göreceli konumda kalırlar. Bunlardan çoğu kafanın etrafında bulunur. İnsanların çoğunda bunlar sadece girdaptırlar ve algı merkezleri olarak kullanılmazlar. Bu merkezler herkesde uyandırılabilir, ancak farklı metodlar farklı sonuçlar verirler. 
+
+Uygun olmayan negatif yönde gelişmiş olan istençsiz durugörür’de bu girdaplar sağdan sola, saatin tersi yönünde dönerler. 
+
+Uygun şekilde eğitilmiş istençli durugörür’de ise girdaplar saat yönünde büyük bir parlaklıkla dönerler. Bu parlaklık, sıradan arzu bedenin aydınlığını kat kat aşar. Bu merkezler istençli durugörür’ü, Arzu âlemindeki şeylerin algılanması için gerekli araçlarla donatırlar. Ve de o, istediği gibi görür ve araştırır. Buna karşın, merkezleri saatin ters yönünde dönen kişi, bir aynaya benzer ve önünde geçen şeyleri yansıtır. Böyle kişiler, doğru bilgi edinme yetisine sahip değildirler. Bunun nedeninden başka bir bölümde bahsedilecektir, fakat yukarıda belirtilen fark, bir medyum ile uygun deneyimli bir durugörür arasındaki temel farklardan biridir. İnsanların pek çoğu bu ikisini ayırt edemezler. Fakat onları ayırt etmek isteyen herkes için şaşmaz bir kural vardır: Hiçbir gerçek durugörür bu kâbiliyetini, para veya benzeri şeyler karşılığı kullanmaz. O, bu kâbiliyetini merakını yenmek için de kullanmaz. Aksine gerçek durugörür, yeteneğini sadece insanlığa hizmet için kullanır. 
+
+Bu yeteneğin geliştirilmesi için uygun metodu öğretebilecek hiçbir kimse, verdiği dersler için en ufak bir şey dahi talep etmez. Uygulama veya ders verme için para talep edenlerin, hiçbir zaman para ödemeye değer bir şeyleri yoktur. Yukarıdaki kural sağlamdır ve herkes bu kurala kesinlikle güvenebilir. 
+
+Uzak bir gelecekte insanın arzu bedeni, yaşam ve yoğun bedenler gibi organize olmuş olacaktır. İnsanın en eski ve en iyi düzenlenmiş aracı olan yoğun bedende şimdi nasıl iş görebiliyorsak, o aşamaya eriştiğimizde arzu bedende de aynı şekilde iş görebilmek için gerekli güce sahip olacağız. Arzu beden, insanın sahip olduğu bedenler arasında en genç olan bedendir. Yaşam beden nasıl dalakta kök saldıysa, arzu beden de karaciğerde kök salar. 
+
+Tüm sıcakkanlı varlıklarda arzu beden akımları, karaciğerden dışarıya doğru akar. Onlar, en gelişmiş varlıklardır. Sıcakkanlı varlıkların hisleri, tutkuları ve duyguları vardır ve bunlarla dışarılarındaki Dünyâ’da etkin olurlar. Ve bitkiler gibi sadece pasif bir yaşam sürmezler, kelimenin tam anlamıyla gerçekten yaşarlar. Arzu maddesi, yumurta biçimli bedenin etrafındaki her noktaya doğru kavisli bir çizgi izleyerek ve sürekli bir biçimde akar. Ve sonra da girdap gibi dönerek karaciğere geri gelir. Bu hareket, kaynayan suyun sürekli olarak ısı kaynağından yukarıya çıkmasına ve döngüsünü tamamladıktan sonra tekrar çıktığı yere dönmesine benzer. 
+
+Bitkiler, bu itici ve kuvvetlendirici prensipten yoksundurlar. Bu yüzden kendilerinden daha gelişmiş organizmaların sahip olduğu ölçüde yaşam ve hareket gösteremezler. Yaşam ve harekete sahip olup da kırmızı kana sahip olmayan canlılarda ayrı bir arzu beden yoktur. Böyle bir varlık, yalnızca bitki ile hayvan arasındaki geçiş aşamasındadır ve de tamamıyla grup-rûhunun egemenliği altında hareket eder. Bir karaciğere ve kırmızı kana sahip olan soğukkanlı hayvanlar ise, ayrı bir arzu bedene sahiptirler. Onların grup-rûhu, belirtilen akımların dıştan içe doğru olanlarını yönlendirir. Çünkü bu gruba giren varlıklarda (örneğin balık veya sürüngenlerin her birinde) kendi canları tamamen yoğun aracın dışında bulunur. 
+
+Eğer organizma, kendi araçlarına ayrı bir rûhu çekecek kadar evrimleşmişse bu rûh (bireysel rûh), içten dışa olan akımları yönlendirmeye başlar ve biz, tutkulu yaşamı ve sıcak kanı görmeye başlarız. İçerisinde rûhun oturabileceği derecede gelişmiş organizmaya sahip olan bireylerin, arzu maddelerinin içten dışa giden akımlarına enerjiyi sağlayan, karaciğerlerindeki sıcak kırmızı kandır. Bu akımlar da, hayvan ve insanın arzu ve tutku göstermelerine yol açarlar. Gelişiminin şimdiki aşamasında hayvanın, henüz tamamen içerisinde oturan ayrı bir rûhu yoktur. Ancak yaşam bedendeki noktalar, yoğun bedende kendilerine karşılık gelen noktalar ile 12. Bölüm’de açıklandığı gibi bağlantılı hâle gelince bir varlık, kendi içinde ayrı bir rûha sahip olur. Bu sebepten dolayı hayvan “yaşayan” değildir, yâni tam olarak insanın yaşadığı anlamda yaşamaz. Çünkü hayvan, henüz tamamen bilinçli olmadığı için ince arzulara ve duygulara sahip olamaz. Günümüzdeki memeliler, insanın evriminin hayvan safhasında iken bulunduğundan daha yüksek seviyededirler. Çünkü memeliler şu anda, insanın o aşamada sahip olmadığı sıcak kırmızı kana sahiptirler. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Bu açıklamanın ışığında, yâni karaciğer ile organizmanın yaşamı arasındaki ilişkide, vücudun bu organının çeşitli Avrupa dillerinde ( İngilizce, Almanca ve İskandinav dillerinde), “yaşayan” (liver, leber) anlamına gelen kelime ile ifade ediliyor olması dikkate değerdir. 
+
+Dört âlemin, Düşünce Âlemi ile ilişkisine dikkatimizi yöneltirsek görürüz ki, madenler, bitkiler ve hayvanların bu âlemle bağlantılı olmalarını sağlayacak araçları yoktur. Buna rağmen biliyoruz ki, bazı hayvanlar düşünürler. Fakat böyle hayvanlar yalnızca, en fazla evcilleşmiş ve nesiller boyunca insana en yakın olmuş hayvanlardır. Bu sayede onlar, kendilerinde daha önce olmayan ve diğer hayvanların da sahip olmadıkları bir yeti geliştirmişlerdir. Bu etkileşimin bir benzerini elektrikte de görebiliriz. Yüksek bir gerilimle yüklü bir tel, yanına yaklaştırılan başka bir telde, “indüklenme” etkisi sonucu küçük bir akım yaratır. Aynı şekilde yüksek ahlaklı bir insan da, kötü bir çevrede ise, ahlaki yıkıma uğrayabilecek karakterli bir insanda yüksek ahlak eğilimleri oluşturacaktır. Yaptığımız, söylediğimiz ya da olduğumuz her şey, çevremizden bize geri yansır. Bu yüzden en evcilleşmiş hayvanlar düşünürler. Onlar türünün en ileridekileridirler, öyle ki neredeyse bireyleşme noktasındadırlar. İnsanın düşünce titreşimleri onlarda, insana benzer ama daha düşük dereceli bir düşünme aktivitesini aynı şekilde “indüklemiştir”. İstisnalar haricinde hayvan âlemi henüz düşünme yetisine sahip değildir. Onlar, bireyleşmemişlerdir. Bu, hayvanlar ve insanlar arasındaki büyük ve esas farktır. Her bir insan, bir bireydir. Hayvanlar, bitkiler ve madenler ise türlere ayrılırlar. Ve de insanın bireyleştiği anlamda bireyleşmemişlerdir. 
+
+İnsanları ırklara, soylara ve uluslara ayırarak sınıflandırdığımız doğrudur. Kafkaslar, Zenciler veya Hintliler arasında farklılıklar vardır, ancak bunlar temel farklılıklar değildirler. Eğer aslan, fil veya başka herhangi bir hayvan türünün diğer hayvan türleriyle arasındaki farkları incelemek istersek, bu hayvan türlerinden birer örnek almak yetecektir. Bir hayvanın özelliklerini öğrenirsek, o hayvanın ait olduğu türün özelliklerini öğrenmiş oluruz. Aynı hayvan türüne ait tüm hayvanlar, birbirinin aynıdır. Ve de dikkat edilecek nokta budur. Bir aslan, onun babası veya yavrusu, benzer görünüme sahiptirler ve aynı koşullar altında benzer davranış sergileyeceklerdir. Hepsinin hoşlandığı ve hoşlanmadığı şeyler aynıdır ve birbirlerine benzerler. 
+
+İnsanlarda ise durum farklıdır. Eğer zencilerin özelliklerini öğrenmek istiyorsak, tek bir zenci bireyi incelememiz buna yetmeyecektir. Her bir bireyi tek tek incelemek gerekir. Ancak bundan sonra bile zenciler hakkında tam bir bilgiye sahip olamayız. Çünkü her bir bireyin özellikleri, bir ırkın tamamı için geçerli değildir. 
+
+Eğer Abraham Lincoln’ün karakterini bilmek istiyorsak, bunun için onun babasını, dedesini veya oğlunu incelemek bize hiçbir yarar sağlamayacaktır. Çünkü bütün bu bireyler birbirlerinden tamamen farklıdırlar. Bunların her birinin, Abraham Lincoln’ün karakteristik özelliklerden çok farklı kendi karakteristik özellikleri vardır. 
+
+Öte yandan, madenler, bitkiler ve hayvanların herhangi bir türünün özelliklerini bilebilmek için, o türden bir örneği etraflıca incelemek yeterlidir. Buna karşın insanda, birey sayısı kadar tür vardır. Her birey bir “tür”dür, her birey önceden öngörülemez bir şekilde farklı hareket eder ve diğer tüm bireylerden ayrı ve farklıdır. İki birey arasındaki bu fark, düşük âlemlerdeki iki tür arasındaki fark kadar açık ve belirgindir. Bir insanın biyografisini yazabiliriz, fakat bir hayvanın biyografisi olamaz. Bu, her insanın içinde ayrı ve bireysel bir rûh bulunmasından ve bu rûhun, her bir insanın düşünce ve eylemlerini yönetmesinden ileri gelir. Halbuki bir türdeki farklı hayvan ve bitkilerin her birinde, ortak bir “grup-rûhu” bulunur. Bu grup-rûhu dışarıdan, türün tüm üyeleri üzerinde etkindir. Hindistan’ın ormanlarında dolaşan kaplanla, bir hayvanat bahçesinin kafesine hapsedilmiş kaplan, aynı grup-rûhunun kendini ifadesidirler. Bu rûh, Arzu âleminden her iki kaplanı da aynı şekilde etkiler. Çünkü mesafeler, yüksek âlemlerde hemen hemen hiçbir rol oynamazlar. 
+
+Aşağıdaki üç âlemin grup-rûhları, yüksek âlemlerde farklı yerlerdedirler. Farklı âlemlerdeki bilinci incelerken bunu daha iyi göreceğiz. Fakat bu grup-rûhlarının iç âlemlerdeki konumlarını doğru anlayabilmek için, görünür dünyâdaki tüm formların, iç âlemlerdeki modellerden ve fikirlerden kristalleşerek ortaya çıktıklarına ilişkin söylediklerimizin hatırlanması ve çok iyi anlaşılması gerekir. Daha önce bahsettiğimiz, mimarın evi ve mucitin makinesi örneklerini hatırlayalım. Sivrisineğin sıvımsı yumuşak doku, kristalleşerek nasıl sırtında taşıdığı sert kabuğu meydana getiriyorsa, aynı şekilde yüksek Âlemlerdeki Rûhlar da, kristalleşerek, kendilerinden, çeşitli âlemlerdeki yoğun ve maddesel bedeni meydana getirirler. 
+
+Bu yüzden (çok ince ve görünmeyecek derecede bulutsu olmalarına rağmen) “yüksek” bedenler olarak da adlandırılan bu bedenler, yoğun bedenden çıkan ışımalar değil de tüm âlemlerdeki yoğun araçlardır. Ve sivrisineğin sıvımsı kısmından oluşan kabuğuna benzerler. Burada Rûh, sivrisineğe; sıvımsı kısım da, farklı kristalleşme derecelerine göre zihin, arzu beden ve yaşam bedene karşılık gelir. Bu muhtelif araçlar sayesinde deneyim kazanma amacıyla rûh, ışıyarak bu araçları kendinden meydana getirir. Sivrisinek nasıl kabuğunu dilediği yere götürüyorsa, Rûh da yoğun bedeni dilediği yere hareket ettirir. Ve de rûhun hareketlerini beden kontrol edemez. Rûh, aracıyla ne kadar yakın bağlantı kurabilirse, aracı o kadar iyi kontrol edebilir ve kendisini bu araçla ifade eder. Ve de rûh, aracını ne kadar iyi kontrol edebilirse onunla o kadar iyi bağlantı kurabilir. Bu, çeşitli âlemlerdeki farklı bilinç hâllerinin anahtarıdır. Şekil 3 ve Şekil 4, maden, bitki, hayvan ve insan âlemlerinin araçlarını ve her bir âlemle nasıl bağlantılı olduklarını ve ortaya çıkan bilinç hâllerini göstermektedir. 
+
+Şekil 3’ten görürüz ki, bireysel Ego, Soyut Düşünce Bölgesinde Evrensel Rûhtan çıkarak tamamen ayrılmıştır. Bu da gösterir ki, sadece insan, üç âlemin tüm kısımlarıyla bağlantıyı sağlayan araçlar zincirinin tüm halkalarına sahiptir. Hayvanda bir halka eksiktir (zihin); bitkide iki halka bulunmaz (zihin ve Arzu beden); madende ise Fizik Âlemde bilinçli bir şekilde etkin olabilmek için gereken üç halka yoktur (zihin, Arzu Beden ve Yaşam beden). 
+
+Bu eksikliklerin sebebi, Maden âleminin, gelişen yaşamın en son dalgasının ifadesi olmasıdır. Bitki âlemi, daha uzun zamandır evrim yolunda bulunan bir yaşam dalgası tarafından canlandırılmıştır. Hayvan âleminin yaşam dalgasının daha da uzun bir geçmişi vardır. İnsan ya da daha iyi bir söylemle Yaşam, kendisini zamanımızda insan formunda ifade eder. Neticede o, dört âlem arasında en uzun yolculuğa sahip olanıdır, bu sebeple de en önde bulunanıdır. Düşük âlemleri yaşatan üç yaşam dalgası da zamanla insan aşamasına ulaşacaktır. Bu esnada bizler de gelişimimizin daha yüksek aşamalarında bulunacağız. 
+
+Dört âlemde gelişen yaşamın kullandığı araçlara sahip olunmasına göre oluşan bilincin derecesini anlamak için Şekil 4’e bakalım. Bu şekilden görebiliriz ki; İnsan ya da Ego, ya da Düşünür; Fizik Âlemin Kimyasal Bölgesine inmiştir. Burada tüm araçlarını bir araya getirerek sıralamış ve bu sayede de uyanık bilinç hâline erişmiştir. Ve de araçlarını kontrol etmeyi öğrenmektedir. Arzu bedenin ve zihnin organları henüz gelişmemiştir. Hatta zihin, henüz bir beden bile değildir. Günümüzde zihin, bir bağlantı (rabıta) ve Ego’nun odak noktası olarak kullandığı bir mercektir. Ve o, yapılmış araçlardan sonuncusudur. Rûh, en ince maddeden en kaba maddeye doğru dereceli olarak çalışır. Araçlar da önce ince maddede, sonra da hep ondan daha kaba maddelerde sırasıyla inşa edilir. En önce yoğun beden inşa edilir; bu beden, günümüzde dördüncü yoğunluk aşamasına girmiştir. Yaşam beden üçüncü, Arzu beden de ikinci aşamalarındadırlar ve henüz bulutsu biçimdedirler. Zihin yapısı ise daha da geri bir aşamadadır. Bu araçlar şimdiye kadar herhangi bir organ geliştiremediklerinden, açıktır ki, tek başlarına bilinç araçları olarak faydasızdırlar. Fakat Ego, yoğun bedene girer ve bu organsız araçları fiziksel duyu merkezlerine bağlar. Böylelikle de Ego, Fizik âlemdeki uyanık bilinç durumuna erişir. 
+
+Öğrenci özellikle dikkat etmelidir ki zamanımızda bu yüksek araçlar yalnızca, harika bir şekilde düzenlenmiş yoğun bedenle bağlantıları sebebiyle değerlidirler. Bu nedenle öğrenci, yüksek araçlar hakkında biraz bilgi sahip olur olmaz fizik bedeni küçümseme, onu “aşağı” ve “adi” sayma, gözlerini göğe kaldırıp da bu dünyasal çamur yığınını terk etme ve “daha yüksek araçlar”da uçmayı dileme hatasına düşmemelidir. 
+
+Böyle düşünenler genellikle “daha yüksek” ile “mükemmel” arasındaki farkı anlayamazlar. En yoğun beden olması ve insanları duyu âlemine tüm sınırlamalarıyla bağlaması anlamında yoğun beden, muhakkak ki en aşağıdaki bedendir. Belirtildiği gibi yoğun beden, çok uzun bir evrim dönemini geride bırakmıştır. Evriminin dördüncü basamağındadır ve zamanımızda yüksek ve olağanüstü bir beceri seviyesine ulaşmıştır. Zamanla mükemmeliğe de erişecektir, ancak zamanımızda bile insanın araçları içerisinde en iyi organizasyona sahip araçtır. Buna karşın yaşam beden, evriminin üçüncü aşamasındadır ve yoğun bedenden daha az organize olmuştur. Arzu beden ve zihinse, şimdiye dek hemen hemen hiç organize olamamışlardır. En düşük insan varlıklarında bu araçlar, oval biçimli bile değildirler ve de az veya çok belirsiz formlara sahiptirler. 
+
+Yoğun beden, harika bir şekilde inşa edilmiş bir enstrümandır. Bunu, insan bedeninin yapısından bir şey bildiğini iddia eden herkes anlamalıdır. Örneğin kalça kemiğini ele alalım. Bu kemik, vücudun bütün ağırlığını taşır. Dıştan, sert kemik maddesinden ince bir tabakayla kaplı olan kalça kemiği, içten de dikey ve çapraz-payandalarla öyle hayret verici kuvvetlendirilmiştir ki, en usta mühendis bile, böyle olağanüstü bir yöntemle ve bu kadar az ağırlıkla, bu kadar kuvvetli bir sütunu yapamazdı. Kafatası kemiği de aynı şekilde, mümkün olduğunca az maddeden maksimum dayanıklılık elde edilecek şekilde tasarlanmıştır. Ve de kalbin yapısında açığa vurulan bilgeliğe dikkat edilirse, böyle görkemli bir mekanizmanın, küçümsenmeyi hiç de hak etmediği görülebilir. Bilge kişi, kendisine verilmiş olan yoğun beden için minnettardır ve ona titizlikle bakar, zira bilir ki yoğun beden, şu an için onun en değerli enstrümanıdır. 
+
+Hayvanların rûhu, inişinde yalnızca Arzu âlemine kadar ulaşmıştır. Henüz, yoğun bir bedene “girecek” kadar evrimleşmemiştir. Bu yüzden hayvanların içlerinde oturan bireysel rûhları yoktur, onlar ancak kendilerini dışarıdan güden grup-rûhuna sahiptirler. Hayvanın bir yoğun bedeni, bir yaşam bedeni ve bir de arzu bedeni vardır, ancak bu bedenleri yönlendiren rûh, dışarıda bulunur. Yaşam beden ve arzu beden de tamamen yoğun beden içinde değildirler. Bu durum özellikle kafa için geçerlidir. Böylece örneğin atın eter kafası, yoğun kafanın çok üstüne dek uzanır. Nadiren de olsa onun bu eter kafasının, yoğun bedenin kafası içine çekildiği de görülür. Böyle bir durumda at, okumayı ve saymayı öğrenebilir ve temel aritmetik örnekler üzerinde çalışabilir. Atlar, köpekler, kediler ve diğer evcil hayvanlar, duyularla Arzu Âlemini algılamalarını da bu özelliğe borçludurlar. Ancak onlar, bu âlemle Fizik Âlem arasındaki farkı kavrayamazlar. Atlar, at arabasını süren kişiye görünmeyen bir figürü görüp ürkebilirler. Kediler de görünmez ayaklara sürtünme hareketini sık sık tekrarlar. Onlar hayaleti görürler ancak onun, sürünmeye uygun, yoğun ayakları olmadığının farkında değildirler. Kediden veya attan daha akıllı olan köpek ise, ölmüş olan sahibinin görünümünü genelde algılar, ancak onun ellerini yalayamamasının sebebini anlayamaz. Bu yüzden dertli dertli havlar ve kuyruğunu bacakları arasına sıkıştırarak bir köşeye siner. Aşağıda vereceğimiz örnek, içinde rûhun oturduğu insan ile grup-rûhu ile hareket eden hayvan arasındaki farkı daha iyi açıklayabilir. 
+
+Bir perdeyle ikiye bölünmüş bir oda düşünelim. Perdenin bir tarafı Arzu âlemini, diğer tarafı da Fizik Âlemi temsil etsin. Odada, her biri bir bölümde olmak üzere iki adam olduğunu varsayalım. Adamlar birbirlerini ne görebiliyor ve ne de karşı bölüme geçebiliyorlar. Bununla birlikte perdede on delik bulunmakta ve Arzu âlemini temsil eden adam, on parmağını bu deliklerden sokarak Fizik âleme parmaklarıyla girebiliyor. İşte tam bu tarifiyle adam, Arzu âlemindeki grup-rûhunu göstermektedir. Adamın parmakları, bir türe âit olan hayvanları temsil etmektedir. Adam parmaklarını istediği gibi hareket ettirebilir ancak, onları ne serbestçe kullanabilir ve ne de, Fizik Âlemde yürüyen ve vücudunu istediği gibi yöneten insan gibi bu parmakları dilediği şekilde yönlendirebilir. Diğer adam ise, perde deliklerinden sokulmuş parmakların hepsinin hareket ettiğini görür, fakat aralarındaki ilişkiyi bilemez. Ona bu parmaklar, birbirlerinden ayrı ve farklı gibi görünürler. Ve de parmakların, perde gerisindeki adamın parmakları olduğunu ve bu perde gerisindeki bu adamın, aklı ile bu parmakları hareket ettirdiğini bilemez. Eğer Fizik Âlemi simgeleyen bölümdeki adam, bu parmaklardan birini yaralayacak olursa, sadece tek bir parmağı yaralamış olmaz, aynı zamanda ve aslında, perdenin öte tarafındaki adamı yaralamış olur. Bir hayvan yaralanırsa acı çeker, ancak bu acı, grup-rûhunun çektiği acı ölçüsünde değildir. Parmağın kişisel bilinci yoktur ve parmak, (perde arkasındaki) adamın emrettiği şekilde hareket eder. Aynı şekilde hayvan da grup-rûhunun emrettiği şekilde davranır. “Hayvansal” içgüdü ve “kör” içgüdü denildiğini duyarız. Bir “kör” içgüdü kadar belirsiz bir şey yoktur. Grup-rûhunun, üyelerini yönlendirmesiyle ilgili bir “körlük” ise söz konusu değildir. Burada gerçek bir bilgelik vardır. Deneyimli bir durugörür, Arzu âleminde faal iken, bu grup-rûhlarıyla kontak kurabilir. Bu durumda o görecektir ki, grup-rûhu, insanların pek çoğundan çok daha fazla akıllıdır. Ve de grup-rûhlarının, kendilerinin fiziksel bedenleri olan hayvanları yönetmede ne kadar olağanüstü bir anlayışa sahip olduklarını fark edecektir. 
+
+Sonbaharda kuş sürülerini toplayıp, onların kışın soğuk rüzgârından kaçması için güneye ne çok geç, ne de çok erken göç etmeye sevk eden bu grup-rûhudur. Baharda onların tekrar geri dönüşünü sağlayan ve her bir kuş türü için farklı olan uygun yükseklikte uçmalarını sağlayan da odur. 
+
+Kunduzların grup-rûhu, onların nehre tam olarak uygun açıda set yapmalarını sağlar. Bu grup- rûhu, akıntının hızını ve tüm koşulları, teknik eğitimli bir kişi gibi dikkate alır ve eserinin her bir ayrıntısında usta bir mühendis kadar mükemmel görünür. Arılara peteklerini böyle geometrik bir kesinlikle altıgen yapmalarını, salyangoza evini tam ve güzel bir spiral şeklinde yapmasını, okyanus yumuşakçalarına yanardöner kabuklarını sanatkarca renklendirmesini öğreten hep, Grup-rûhunun bilgeliğidir. Bilgelik, her yerde bilgelik! O kadar büyük, o kadar yüce ki, ona dikkatle bakan bir gözün hayret ve saygıyla dolmasını sağlar. 
+
+Bu noktada şöyle bir soru ortaya çıkar: Eğer hayvanların grup-rûhu bu kadar akıllı ise ve insanla karşılaştırıldığında hayvanın evrim kısa süresinin daha kısa olduğu da göz önünde bulundurulursa neden insan çok daha fazla akıllı olmuyor ve hayvanların grup-rûhu bunu kendiliğinden ve hiçbir eğitim görmeksizin yaparken, neden köprüler ve geometrik yapılar yapmak için insanın önce bir eğitim alması zorunlu oluyor? 
+
+Bu sorunun yanıtı, Evrensel Rûhun inişinin hep daha yoğun maddeye doğru olmasında yatıyor. Yüksek âlemlerde araçlar, daha incedirler ve daha az sayıdadırlar. Ve Evrensel Rûh, yoğun Fizik Âlemde inanılmaz bir güzellikle parlayan evrensel Bilgelik ile yakın temas halindedir. Fakat Rûh, yoğun âlemlerden aşağıya indikçe bilgeliğin ışığı da o kadar kararır, öyle ki en yoğun âlemde neredeyse tamamen kararmış hale gelir. 
+
+Bir örnekle bunu daha iyi açıklayalım. El, insanların en değerli hizmetçisidir. Elin yapısı onun, en sessiz emirleri bile yerine getirmesini sağlayacak şekildedir. Bazı mesleklerde, örneğin banka memurlarında, elin yumuşak dokunma duyusu, sahte bir madeni parayı gerçeğinden ayırt edebilecek derecede gelişmiştir. Öyle ki insanın bu el için, bireysel zekaya sahip diyesi gelir. 
+
+Belki de el, en yüksek performansa müzik yaparken erişir. Bu durumda o, rûhu titreten en güzel melodileri ortaya çıkarma kabiliyetine sahiptir. Elin tatlı ve hassas dokunuşu enstrümanın, rûh dilinin en ince tonlarını çıkartmasını sağlar. Bu tonlar acı ve sevinci, umut ve korkuyu ve rûhun özlemini, müzikten başka hiçbir şeyin yapamayacağı şekilde anlatırlar. Bu, göksel âlemin yâni rûhun gerçek evinin dilidir ve et içinde hapsolmuş olan tanrısal kıvılcıma, anavatanından gelen bir mesaj gibi gelir. Müzik, ırktan, inançta veya diğer dünyasal ayrımlardan bağımsız olarak herkese hitap eder. Birey ne kadar yüksek ve ne kadar ruhsal ise, bu hitap o kadar açıktır. Öyle ki “taşlaşmış bir kalp” bile onun tarafından etkilenmemiş halde kalamaz. 
+
+Ellerine ince eldivenlerini giyerek keman çalan bir müzisyeni gözümüzün önüne getirelim. Onun kemana yumuşak dokunuşunun artık daha az sübtil olduğunu hemen fark ederiz. Müziğin rûhu gitmiştir. Eğer müzisyen, bu eldivenlerinin üzerine daha kalın ikinci bir eldiven giyerse eller, zaman zaman ahenkli sesler yerine uyumsuz sesler ortaya çıkartacaktır. En sonunda da bu iki eldivenin üzerine bir çift boksör eldiveni giyse, enstrümanı hiç çalamayacaktır ve onu daha önce dinlememiş birisi, hele ellerindeki engelleri de fark etmemişse, bu müzisyenin enstrümanı hiç çalamadığını söyleyecektir. 
+
+Rûhla ilgili olarak da böyledir. Rûh için aşağıya doğru atılan her adım, daha kaba maddeye doğru her iniş, müzisyenin boksör eldivenlerini giymesi gibidir. Aşağıya doğru her adım, onun ifade gücünü daha da sınırlandırır. Bu durum Rûhun, sınırlamaya alışmasına ve odak noktasını bulmasına dek devam eder. Bu tıpkı parlak bir yaz gününde dışarıdan bir eve girmeye benzer. Yaz güneşinin ışığından dolayı göz bebeği, küçülebildiği kadar küçülür ve de eve girişte her şey karanlık gözükür. Fakat göz bebekleri tekrar büyüyüp, daha fazla ışığın geçmesine izin verdiğinde, evin loş ışığında nesneleri, parlak güneş ışığındaki kadar iyi görebilme imkânına sahip olur. 
+
+İnsan evriminin bu dünyâdaki amacı, onun bu Fizik Âlemdeki odak noktasını bulmasını sağlamaktır. Günümüzde bilgeliğin ışığı, Fizik Âlemde henüz tam anlamıyla parlamamaktadır. Fakat zamanla “ışığı bulduğumuzda”, insan hikmeti eylemlerinde parlayacak ve hayvanların grup-rûhu tarafından açığa vurulan bilgeliğin çok daha ilerisine erişecektir. 
+
+Bunun dışında grup rûhu ile kendisini zamanımızda hayvan âleminde ifade eden yaşam dalgasının bâkir rûhları arasında ayrım yapılmalıdır. Grup-rûhu, farklı bir evrime âittir ve hayvan rûhlarının koruyucusudur. 
+
+İçinde iş gördüğümüz yoğun beden, sayısız hücrelerden oluşmuştur. Bu hücrelerin her biri, çok düşük dereceli de olsa ayrı bir hücre-bilincine sâhiptir. Ve bedenimizin bir kısmını oluşturdukları sürece, bizim bilincimize bağlıdırlar ve bu bilincin hâkimiyeti altındadırlar. Hayvansal grup-rûhu ise, kendisinin en düşük aracı olan “rûhsal beden” içinde iş görür. Bu araç, değişken sayıdaki bâkir rûhlardan oluşmuştur ve bu rûhlar, grup-rûhu bilinci ile doludurlar. Grup-rûhu, kendi kontrolü altında bu bâkir rûhlar tarafından inşa edilen araçları yönetir, onların bakımını sağlar ve araçlarını geliştirmelerine yardım eder. Kendisine bağlı olanların evrimi gibi Grup-rûhu da gelişir ve bir dizi dönüşüm geçirir. Nasıl biz büyüyor ve yediğimiz yiyeceklerin hücrelerinden aldıklarımızla deneyim kazanıyorsak, bu dönüşüm de aynı şekilde gerçekleşir. Yediğimiz yiyeceklerin hücrelerinin bilinci de, bir süre için bizim bilincimizle donatıldıklarından yükselir. 
+
+Her insan bedeninde ayrı ve kendisinin bilincinde bir Ego oturur ve bu Ego, kendisine ait araçların eylemlerini yönetir. Buna karşın her bir hayvanda bulunan rûh, henüz bireyselleşmemiştir ve kendinin bilincinde değildir. Ve de kendisinin bilincinde olan bir varlığın aracının bir parçasını oluşturur. Bu varlık, farklı bir evrime (grup-rûhunun evrimine) aittir. 
+
+Bu grup-rûhu, evrensel yasa ile uyumlu olarak hayvanların eylemlerini kontrol eder. Bu kontrol, bâkir rûhlar grup-rûhunun kontrolü altında öz-bilinç (self-consciousness) kazanıp insan oluncaya dek sürer. Bundan sonra bâkir rûhlâr, yavaş yavaş kendi irâdelerini açığa vuracaklar ve grup-rûhundan hep daha fazla bağımsızlık kazanacaklardır. Aynı zamanda da kendi eylemlerinden hep daha fazla sorumlu olacaklardır. Yine de grup-rûhu onları ( azalan bir derece de olsa da) ırk, soy, toplum veya aile rûhu olarak daha etkilemeye devam edecektir. Bu etkileme, her bir birey evrensel yasayla tam uyumlu hareket etme yetisine sahip olana dek sürecektir. Ego o zamana kadar da, tamamen hür ve grup-rûhundan bağımsız olamayacaktır. Ego grup-rûhundan bağımsız olduğunda, grup-rûhu da evriminin daha yüksek bir aşamasına geçecektir. 
+
+Grup-rûhunun Arzu âleminde sahip olduğu konum hayvana, açık ve tamamen uyanmış bilince sahip olan insan bilincinden daha farklı bir bilinç verir. İnsan, kendisi dışındaki şeyleri keskin ve belirgin kaba hatları (outline) ile görür. Bir spiral şeklindeki evrim yolları sayesinde yüksek derecede evcilleşmiş hayvanlar – özellikle atlar, köpekler, kediler ve filler- nesneleri, insanlar kadar açık ve belirgin olmasa da neredeyse onlar kadar iyi görürler. Diğer tüm hayvanlar ise, insandaki rüyâ hâline benzer bir iç “resim bilinci”ne sahiptirler. Böyle bir hayvan, bir nesnenin karşısına konulduğunda, hemen bir içsel resim algılayacaktır. Bu resme, hayvanın karşısındaki nesnenin kendisine zararlı mı yararlı mı olduğunu belirten kuvvetli bir izlenim eşlik eder. Eğer bir korku duygusu uyandıysa, bu duyguya, varolan bu tehlikeden nasıl kaçılacağına ilişkin grup-rûhundan gelen bir öneri de eşlik eder. Bilincin bu negatif (pasif) hâli grup-rûhunun, sorumluluğu altındakilerin yoğun bedenlerini telkin yoluyla yönlendirmesini kolaylaştırır. Zira hayvanların kendi iradeleri yoktur. 
+
+İnsan, rızası olsa da olmasa da dışarıdan o kadar kolay yönetilemez. Evrimin ilerlemesiyle birlikte insanın irâdesi de gelişmektedir. Öyle ki insan artık dış telkinlere kapalıdır ve diğerlerinin telkinlerine aldırmadan kendi ölçüsüne göre hareket etmektedir. Bu, insan âlemi ile diğer doğa âlemleri arasındaki temel farktır. Diğer doğa âlemleri, yasalara ve bizim içgüdü olarak adlandırdığımız grup-rûhu emirlerine göre hareket ederken insan, gitgide kendisi bir yasa olmaktadır. Biz, madene kristalleşip kristalleşmeyeceğini veya çiçeklere açıp açmayacaklarını, ya da aslana avlanıp avlanmayacağını sormayız. En küçüğünden en büyüğüne onların hepsi, grup-rûhunun mutlak egemenliği altındadırlar ve insanların az ya da çok miktarda sahip oldukları serbest irade ile inisiyatiften yoksundurlar. Dünyâ üzerinde yaşayan beş buçuk milyar insandan ikisi bile tıpatıp birbirine benzemezken, bir türün tüm hayvanları neredeyse tamamen aynı görünüme sahiptirler, çünkü hepsi de aynı grup-rûhundan fışkırmışlardır. Halbuki insanda, ergenlik çağına geldiklerinde ikizler bile birbirine tamamen benzemezler, zira her birinin içindeki farklı ve kişisel Ego’su tarafından onlara vurulan damga, hem görünüşte hem de karakterde farklılıklar meydana getirir. 
+
+Tüm inekler otlanırlar ve tüm aslanlar et yerler. Buna karşın “bir insanın besini, diğer bir insan için zehir ölçüsünde olabilir”. Bu da, her bir insan varlığının diğerlerinden farklı yiyeceklere ihtiyaç duymasını sağlayan Ego ile karşılaştırıldığında grup-rûhunun, her şeyi kapsayan etkisine bir başka örnektir. Doktorlar hayvanlara verdikleri ilaçların aynı etkileri oluşturmasını hayretle fark edeceklerdir. Aynı ilaç, bir türün iki farklı hayvanında özdeş etki yaratırken, farklı bireylerde farklı etkiler yaratacaktır. Bu da tüm hayvanların, grup-rûhunun ve Evrensel Yasa’nın, benzer koşullarda hep aynı davranışı göstermelerini sağlayan emirlerine tâbi olmalarından kaynaklanır. 
+
+ŞEKİL 4A: İnsanın yedi katmanlı bileşimi.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Sadece insan, bir dereceye kadar kendi arzularını belli sınırlar içerisinde takip etme kâbiliyetine sahiptir. Onun, bir çok ağır hata işlemesi gerektiği kesindir. Hatayı işlemeden önce onun doğru yola zorlanması çoğu kimseye daha iyi gibi gözükebilir. Fakat böyle yapılmış olsaydı, kişi hiçbir zaman doğru hareket etmeyi öğrenemeyecekti. Kişi, iyi ve kötü arasındaki ayrımı, kendi yolunu izlemekte özgür olmadan öğrenemez. Böylelikle aynı zamanda kötünün “tüm acıların kaynağı” olduğunu da bilemez. Eğer kişi, başka hiçbir tercihi ve hiçbir başka türlü davranma şansı olmadan sadece iyi eylemleri işlemiş olsaydı, gelişen (evrimleşen) bir Tanrı değil de sadece bir robot olacaktı. Mimarın yaptığı hatalardan ders alarak yapacağı binalarda bu hatalardan kaçınması gibi insan da, hataları ve bu hataların yol açtığı acılar sayesinde, grup-rûhunun yönlendirmesiyle bilgece hareket eden hayvandan daha yüksek bir bilgeliğe erişir (çünkü kendinin bilincindedir). Zamanla hayvan da, insan olacaktır. Ve de tıpkı şimdi bizim yaptığımız gibi hatalar yapacak ve bu hatalardan ders alacaktır. 
+
+Şekil 4’ü incelersek şunu buluruz: Bitki âleminin grup-rûhunun en düşük aracı Somut Düşünce Bölgesindedir ve en yoğun aracından 2 basamak yukarıdadır. Bu yüzden bitkiler, rüyâsız uykudaki bilince benzer bir bilince sahiptirler. Madenin grup-rûhunun en düşük aracı ise Soyut Düşünce Bölgesindedir, yâni en yoğun aracından 3 basamak yukarıdadır. Bu yüzden de maden, trans halindeki bilince benzer bir derin bilinçsizlik hâline sahiptir. 
+
+Böylece göstermiş bulunuyoruz ki insan, tek ve içte oturan bir rûhtur ve de o, diğer bütün varlıklardan ayrı bir Ego’dur. İnsan, araçlarını kendisi yönetir ve bunu içeriden dışarıya doğru yapar. Bitkiler ve hayvanlar ise Fizik Âlemde, belli bir sayıdaki bitki veya hayvanın idâresini elinde bulunduran bir grup-rûhu tarafından dıştan yönetilirler. Ve de ancak dış görünümlerinden birbirlerinden ayırt edilebilirler. 
+
+Bitkilerin, hayvanların ve insanların Yer’in atmosferindeki yaşam akımıyla olan ilişkileri, sembolik olarak haçla gösterilir. Maden âlemi burada yer almaz, zira gördüğümüz gibi onun bireysel bir yaşam bedeni yoktur ve bu yüzden yüksek âlemlere âit olan akımlar için araç olamaz. İnisiye bir kişi olan Platon, sık sık okült gerçekleri dile getirirdi. Söylediği bu gerçeklerden biri de, “Dünyâ- Rûhu çarmıha gerildi” sözüdür. 
+
+Haç’ın alt kısmı, kimyasal ve madensel tabanıyla bitkileri simgeler. Bitkilerin grup-rûhları yerin merkezindedir. Bunlar, hatırlanacağı üzere diğer tüm âlemler gibi, Arz’a nüfuz etmiş olan Somut Düşünce Bölgesi’nde bulunurlar. Bu grup-rûhlarından akan akımlar, yer yüzeyinin bütün noktalarına tüm yönlerde dağılırlar. Ve bitkilerin veya ağaçların içinden geçerek yerin içinden dışarıya çıkarlar. 
+
+İnsan ise, haçın üst kısmıyla simgelenir. O, baş aşağı çevrilmiş bitkidir. Bitki, yiyeceğini kökleri aracılığıyla alır. İnsansa yiyeceğini başı aracılığıyla alır. Bitkinin üreme organları güneşe doğru yönelmiştir. İnsanın üreme organları ise yerin merkezine doğru yöneliktir. Yerin merkezindeki grup-rûhunun yaydığı ruhsal akımlar, bitkinin köklerinden girerek bitkiyi sürekli desteklerler. İnsana gelen en yüksek ruhsal etki, ileride göreceğimiz gibi güneşten kaynaklanır. Güneş, baş aşağı çevrilmiş bitki olan insana ışınlarını, kafasından aşağıya doğru gönderir. Bitki, zehirli karbondioksiti alır ve yaşam veren oksijeni dışarıya verir. İnsan ise oksijeni alır ve karbondioksiti dışarıya verir. 
+
+Haçın yatay kolu ile simgelenen hayvan, insan ve bitki arasında bulunur. Onun omurgası yatay konumdadır ve hayvansal grup-rûhunun yeri çevreleyen akımları omurganın içinden geçerler. Hiçbir hayvan sürekli olarak dikey konumda tutulamaz, zira bu durumda grup-rûhunun akımları hayvana kılavuzluk edemez. Sürekli olarak dikey durumda tutulan bir hayvan, dikey insan omurgasına giren ruhsal akımları taşıyacak derecede bireyleşmemişse, ölür. Bir bireysel Ego’nun kendisini ifade etmesine yarayacak bir araçta üç özellik bulunmalıdır: Bahsettiğimiz dikey akımları alabilmek için dikey yürüme, bir dikey gırtlak, ki ancak bir dikey gırtlakla konuşma yeteneği mümkündür (papağanlar ve sığırcık kuşları, dikey gırtlağın bu etkisi için güzel bir örnektirler) ve de güneş akımlarından yararlanmak için sıcak kan. En çok bu sonuncusunun, ileride mantıklı bir şekilde açıklanacağı ve örneklerle kanıtlanacağı üzere Ego için önemi vardır. Bu gereklilikler sadece dört âlemin birbirleriyle ve diğer âlemlerle olan durumu üzerine söylenebilecek son sözler olarak burada anılmıştır. 
+
+### <h3 id="chapter-3">3. Bölüm: İnsan ve Evrim Metodu</h3>
+
+#### <h4 id="activities-of-life-memory-and-soul-growth">Yaşam Faaliyetleri, Hafıza ve Rûhun Büyümesi</h4>
+
+Yedi âlem (ya da maddenin hâlleri) üzerine şimdiye dek yaptığımız inceleme, aslında doğada her şeyin belli bir amaca hizmet ettiğini bize göstermiştir. Aslında içinde, “yaşadığımız, hareket ettiğimiz ve varlığımıza sahip olduğumuz” güç, Tanrı yâni yüce Rûh’tur. O, yaşamıyla tüm evreni kapsayan ve ayakta tutan güçtür. Fakat bu yaşam, altı aşağı âlemin her bir atomuna ve bu atomların içerdiği her şeye akarken ve bütün her şeyde mevcut iken, Yedinci ve en yüksek âlemde yalnız üçsel bir Tanrı vardır. Altıncı ve en yüksek ikinci âlemde ise ‘Saf Rûhlar Âlemi’ bulunur. Burada tanrısal alevin kıvılcımları bulunmaktadır. Bu kıvılcımlar, uyuyan içsel ve potansiyel güçlerini geliştirerek dinamik güçlere sahip olma amacıyla beş yoğun âlemden geçen uzun hac yolculuklarına başlamadan önce bu âlemde bulunmaktadırlar. Nasıl ki bir tohum kendinde saklı olan olasılıkları, yere gömülerek açığa çıkarıyorsa aynı şekilde de bu saf rûhlar, madde (deneyim okulu) içinden geçerek zamanla, kendi içinden evrenler üretme kâbiliyetine sahip tanrısal “kıvılcımlar” da olacaklardır. 
+
+Beş âlem, insanın evrim alanını oluştururlar. Bunlardan aşağıda veya yoğun olan üçü, insan gelişiminin şimdiki aşamasına sahne olmaktadır. Şimdi, insan ve onun araçları yardımıyla, ilişkili olduğu beş âlemi gözönüne alalım. Hatırlayalım ki bu âlemlerden ikisi, iki büyük kısma ayrılırlar ve insan, bu kısımlardan her birinde bir araca sahiptir. 
+
+Uyanık haldeyken bütün araçlar bir aradadırlar. Kan, lenf ve vücûdun kanda akan diğer sıvıları nasıl iç içe bulunuyorlarsa, bunlar da o şekilde iç içe halde bulunurlar. Ancak bu sayede Ego, Fizik Âlemde iş görebilir. 
+
+Biz Ego olarak doğrudan, Soyut Düşünce Bölgesi’nin bireysel aura’mızın dış yüzünde kendimiz için geliştirdiğimiz ince maddesinde iş görürüz. O yüzden dış dünyâ tarafından yaşam beden üzerinde bırakılan izlenimleri ve bu izlenimler tarafından Arzu bedende yaratılan ve zihinde yansıtılan duygu ve hisleri, duyular aracılığıyla görürüz. 
+
+Bu zihinsel görüntülerden, Soyut Düşünce Bölgesinin maddesinde, sonuçlar çıkarırız. Bu sonuçlar, düşüncelerdir. İrade gücümüzle bir düşünceyi, zihne yansıtırız. Böylece düşünce burada, Somut Düşünce Bölgesi’ndeki zihin-maddesini kendi üzerine çekerek somut bir biçim kazanır. Zihin, bir projektörün merceği gibidir. Ve de görüntüyü, düşünce-formuna sahip olan kişinin irâdesine uygun bir şekilde, varolan üç yönden birinde yansıtır. 
+
+263-1) Bu görüntü, hemen eyleme götüren bir duyguyu uyandırmak için doğrudan Arzu bedene yansıtılabilir. 
+
+263-1-a) Eğer düşünce ilgi uyandırırsa İtme ve Çekme ikiz güçlerinden birisi uyarılır. Eğer Çekme yâni merkezcil kuvvet uyarılmışsa bu kuvvet, düşünceyi güçlendirir ve onu topaç gibi döndürerek Arzu bedenin içine girmesini sağlar. Ve de resme ekstra yaşam verir ve onu arzu-maddesi ile giydirir. Bundan sonra düşünce artık eter beyinde etkin olabilir ve yaşam gücünü uygun beyin merkezlerinden ve sinirlerden geçirerek, gerekli eylemleri gerçekleştiren istençli kaslara sürebilir. Böylece düşüncedeki güç harcanır ve görüntü, yaşam bedenin eterinde eylemin ve onun ortaya çıkardığı duygunun anısı olarak kalır. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+263-1-b) İtme, merkezkaç kuvvettir ve düşünce yoluyla bu kuvvet uyarılırsa, düşünce-formu içindeki ruhsal güç (insan irâdesi) ile Arzu beden arasında bir çarpışma meydana gelir. Bu, vicdan ve arzu arasındaki, yüksek doğa ve alçak doğa arasındaki savaştır. Ruhsal güç, direnişe rağmen düşünce formunu arzu-maddesinde giydirmeye çalışır. Beyni ve kasları kullanabilmek için bu gereklidir. İtme gücü ise toplanmış malzemeyi dağıtmaya ve düşünceyi kovmaya çabalar. Eğer ruhsal enerji güçlüyse onları beyin merkezlerine doğru olan yollarına yollayabilir ve onlar yaşam gücünü kullanırken ruhsal enerji, onların arzu maddesinden yapılmış giysilerini tutabilir. Böylece bu zorlayıcı eylem, hafızada mücadelenin ve zaferin canlı bir izlenimini bırakacaktır. Eğer eylem sonuçlanmadan ruhsal enerji tükenirse, itme kuvveti tarafından mağlubiyete uğratılacaktır ve bu sonuç da diğer tüm düşünce formları gibi enerjisini harcadıktan sonra hafızada saklanacaktır. 
+
+263-1-c) Düşünce formu, öldürücü Kayıtsızlık duygusuyla karşılaşırsa, kendi içinde varolan ruhsal güce bağlı olarak ya eylemi gerektirecek ya da kinetik enerjisi bittikten sonra yaşam bedenin yansıtıcı eterinde zayıf bir iz bırakacaktır. 
+
+263-2) Dış etkilerin zihinsel resimleri, hemen eylem gerektirmiyorlarsa, ürettikleri ve daha sonraki kullanım için saklanan düşüncelerle birlikte, anında yansıtıcı etere yansıtılabilirler. Zihin aracılığıyla etkin olan Ruh, bilinçli hafızanın deposuna anlık erişime sahiptir ve istediği zaman orada bulunan herhangi bir resmi, onu yeni ruhsal güçle donatmak, arzu bedene yansıtmak ve eyleme zorlamak için yeniden canlandırabilir. Ne zaman böyle bir resim bu şekilde kullanılırsa, canlılık, güç ve etkinlik kazanacaktır. Ve de bizde, güç çizgileri bırakacaktır. Ki bu çizgiler, ilgili eylemleri daha hızlı olmaya zorlayacaklardır. Böylece tekrarlama yoluyla, düşüncenin “güçlenmesi” ve “büyümesi” fenomeni ortaya çıkar. 
+
+3. Bir düşünce formu kullanmanın üçüncü yolu da tavsiye etmek, bilgilendirmek amacıyla doğrudan düşünce transferinde olduğu gibi düşüncenin başka bir zihin üzerine yansıtılmasıdır. Veya tıpkı hipnozcunun kurbanını belli bir mesafeden etki altına almasında olduğu gibi düşünce, kişiyi eyleme zorlamak için doğrudan o kişinin Arzu bedenine de yöneltilebilir. Bu durumda düşüncenin yönlendirildiği kişi, kendisine empoze edilen düşünce sanki kendisininmiş gibi hareket eden hipnotize edilmiş kurbanla tamamen aynı şekilde davranacaktır. Eğer düşünce, kişinin eğilimleri ile uyuşuyorsa kişi, paragraf 1a’daki gibi hareket edecektir. Eğer düşünce kişinin doğasına ters ise bu durumda 1.b veya 1.c’de belirtildiği şekilde bir davranış gösterecektir. 
+
+Yansıtılmış bir düşünce-formu için yapılmış böyle bir çalışma tamamlandığında veya bu düşünce, gücünü hedefine varmak için boşuna girişimlerle harcayıp tükettiğinde, yaratıcısına geri döner ve beraberinde yolculuğunun silinmez kaydını da getirir. Bu düşün- ce-formunun başarısı veya başarısızlığı, onun yaratıcısının yaşam bedenindeki yansıtıcı eterin negatif atomlarına kazınmıştır. Yaşam bedeninin yansıtıcı eter’i, düşünen kişinin yaşam ve eylem kayıtlarının (ki biz buna bazen bilinçaltı da diyoruz) bir kısmını oluşturur. 
+
+Bu kısım, bilinçli erişimine sahip olduğumuz hafızadan çok daha önemlidir. Çünkü bu hafıza, eksik ve aldatıcı duyusal algılamalardan oluşmuştur ve de istençli hafıza veya bilinçli zihin olarak da adlandırılabilir. 
+
+İstemdışı hafıza veya bilinçaltı zihin, henüz bizim hâkimiyetimiz altında olmamasına karşın, başka bir şekilde görünür hale gelir. Nasıl ki eter, çevredeki manzaranın bir kopyasını fotoğraf makinesindeki ışığa duyarlı filme taşır ve fotoğrafı çeken kişinin onu görüp görmediğine bakmaksızın en küçük detayları bile filme aktarırsa aynı şekilde havadaki eter de, soluduğumuz havada tüm çevremizin tam ve detaylı bir resmini beraberinde taşır. Bu resim, sadece maddesel şeyleri değil, Aura’mız içinde her an varolan koşulları da içerir. En sessiz düşünceler, duygular ve hisler akciğere, buradan da akciğerler tarafından kana gönderilirler. Kan, yaşam bedenin en yüksek ürünlerinden biridir. Çünkü besini vücudun tüm kısımlarına taşır ve Ego’nun direkt aracıdır. Kanın içerdiği resimler, ölümden sonraki evrede insanın kaderi hakkında hakem olarak iş görmek üzere yaşam bedenin negatif atomlarına kazınır. 
+
+Bilinçli veya bilinçaltı hafıza, tamamen bu yaşamın deneyimleriyle ilişkilidir ve yaşam bedendeki olayların izlenimlerinden oluşmuştur. Birkaç sayfa ileride bahsedilecek olan günahların bağışlanması hakkındaki açıklamamızda da görüleceği gibi bu izlenimler, değiştirilebilirler ve hatta imha edilebilirler. Bu değiştirme ve imha etme işlemi, izlenimlerin yaşam bedenin eterinden silinebilmesine bağlıdır. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Ayrıca bir bilinçötesi hafıza da vardır. Bu hafıza, bu yaşamda gizil ve gelişmemiş olsalar bile, önceki yaşamlarda edinilmiş tüm yeteneklerin ve kazanılmış bilgilerin deposudur. Bu kayıtlar, silinmez bir şekilde yaşam rûhuna kazınmışlardır. Ve kendilerini genellikle, tüm düşünce-formlarını canlandıran vicdan ve karakter olarak açığa vururlar. Ancak bu açığa vurma, maksimum seviyede gerçekleşmez. Bu bilinçötesi hafıza bazen öğüt verir. Bazen de karşı konulmaz bir güçle, akıl ve arzu ona karşı olsa bile eyleme zorlar. 
+
+Yaşam bedenleri pozitif olan birçok kadında ve yaşam bedenleri temiz ve kutsal bir yaşamla ve dua ve konsantrasyonla hassas bir hale gelmiş kadın veya erkek ilerlemiş insanlarda, yaşam rûhunun içinde bulunan bu bilinçötesi hafıza zaman zaman ve belli bir dereceye kadar, eylemi gerçekleşmeye zorlamak için zihin-maddesi ve arzu-maddesini giyinme zorunluluğundan kurtulur. Bilinçötesi hafıza, her zaman aklın hâkimiyetine boyun eğdirilmiş olma tehlikesine maruz kalmak ve belki de onun tarafından baskı altına alınmak zorunda değildir. Bazen kendisini, içe doğma veya içten öğretme biçiminde doğrudan yaşam bedenin yansıtıcı eteri aracılığıyla ifade eder. Onu fark etmeye ve emirlerini takip etmede ne kadar hevesli olursak o da, ebedi mutluluğumuz için bize o kadar sık konuşur. 
+
+Uyanık olduğu saatler boyunca süren faaliyetleri sebebiyle arzu beden ve zihin, yoğun bedeni sürekli tahrip ederler. Her düşünce ve hareket onun dokusunu bozar. Diğer yandan yaşam beden, sürekli olarak uyumu sağlama ve diğer araçların bozdukları şeyleri yeniden yapma uğraşısı içerisindedir. Ancak yaşam beden, düşüncelerin ve ani tutkuların güçlü saldırılarına tamamen karşı koyabilecek kadar güçlü değildir. Yavaş yavaş topraklarını kaybeder ve sonunda çöktüğü an gelir. Ve de yaşam bedenin “noktaları”, deyim yerindeyse “buruşurlar”. Yaşam akımı sinirlerde artık yeterli miktarda akmaz olur ve vücudun uykusu gelir. Düşünen kişi böylelikle faaliyetinde engellenmiş bir hale gelir ve çekilmeye zorlanır. Kişi çekilirken de arzu bedeni beraberinde götürür. Yüksek araçların bu çekilmesi, yaşam beden tarafından nüfuz edilmiş ve kapsanmış olan yoğun bedende, uyku dediğimiz bilinçsiz durumu meydana getirir. 
+
+Ancak uyku, genelde zannedildiği gibi kesinlikle eylemsiz bir durum değildir. Eğer öyle olsaydı vücut, sabah uyandığında akşam yatarkenki halinin aynısıyla karşılaşırdı. Aksine uyku, yoğun bir faaliyet evresidir ve ne kadar yoğun olursa değeri o kadar fazla olur. Zira uykuda, günün zihinsel ve fiziksel aktiviteleri sonucu dokuda oluşan zehirler atılır. Ayrıca dokular yeniden yapılır ve vücûdun ritmi yenilenir. Bu işlem ne kadar iyi yapılırsa uykudan elde edilecek fayda o kadar çok olur. 
+
+Arzu Âlemi, bir bilgelik ve ahenk okyanusudur. Daha düşük araçlar uykuda terk edildiklerinde Ego, zihni ve arzu bedeni bu okyanusun içine getirir. Ego’nun ilk uğraşısı, zihin ve Arzu bedenin ritim ve armonisini onarmaktır. Arzu âlemin ahenkli titreşimleri içlerinden aktıkça onların onarımları da gerçekleşir. Arzu âleminde, yaşam beden aracılığıyla yoğun bedende akan yaşam sıvısına benzeyen bir öz vardır. Yüksek araçlar adeta bu yaşam iksirinin içine dalarlar. Tekrar eski güçlerine kavuştuklarında, yoğun bedenin uyumasıyla bıraktıkları yaşam bedenindeki faaliyetlerine tekrar başlarlar. Bundan sonra yaşam beden, tekrar güneş enerjisi üzerinde yoğunlaşmaya başlar ve yoğun bedeni, onarım işleminde özellikle kimyasal eteri ortamı olarak kullanarak yeniden inşa eder. 
+
+Sonraki gündeki faaliyetlerin temelini oluşturan da, uyku esnasında farklı araçların bu faaliyetidir. Bu faaliyet olmaksızın yeniden-uyanma söz konusu olamazdı, zira aksi halde Ego, yorgunlukları sebebiyle faydasız hale gelmiş araçları terk etmek zorunda kalacaktı. Bu yorgunluğu ortadan kaldıran çalışma yapılmasaydı bedenler, tıpkı doğal trans halinde olduğu gibi uykuda kalacaklardı. İşte tam da bu armonize edici ve iyileştirici faaliyeti sebebiyle uyku, sağlığı korumada doktordan ve ilaçlardan daha iyidir. Sadece dinlenme, kesinlikle uykuyla kıyaslanamaz. Sadece yüksek araçlar Arzu âlemindeyken, atıkların uzaklaştırılması ve onarıcı gücün içeriye akması işlemleri gerçekleşir. Dinlenme esnasında yaşam bedenin, yaptığı işte dokular tarafından engellenmediği doğrudur. Zira dokuların faal hareketi ve kasların gerilmesiyle yaşam bedenin yaptığı iş tahrip olur. Fakat yine de yaşam beden, düşüncelerin yıkıcı enerjisi ile mücadele etmek zorundadır ve bu sebeple, uyku esnasında Arzu beden tarafından dışarıdan gönderilen iyileştirici gücü, uykuda aldığı gibi alamaz. 
+
+Bununla birlikte sık sık Arzu bedenin tamamen çekilmediği de olur; böylelikle ondan bir parça da duyusal algılamanın ve hafızanın aracı olan yaşam bedenle bağlantılı halde kalır. Bunun sonucu olarak da onarım, sadece kısmen gerçekleşir ve Arzu âlemin eylemleri ve sahneleri, rüyalar olarak fiziksel bilince girerler. Elbette ki pek çok rüyâ karmakarışıktır. Çünkü algılama ekseni, iki beden arasındaki uygun olmayan bağlantı sebebiyle eğrilmiştir. Hafıza da araçların bu uygunsuz ilişkisi nedeniyle karışıktır ve onarıcı gücün eksikliğinin bir sonucu olarak rüyâ dolu uyku, rahatsızdır ve beden, kendisini uyandığında yorgun hisseder. 
+
+Yaşam esnasında üçüz Rûh yâni Ego, zihin bağı ile bağlandığı üçüz bedenin üzerinde ve içinde çalışır. Bu çalışma, üçüz Rûhu varlık hâline getirir. Rûh, bedenin ruhlaşmış ürünüdür. Uygun besin nasıl maddesel anlamda yoğun bedeni besliyorsa, yoğun bedendeki rûhun doğru hareket etme ile sonuçlanan faaliyetleri de yoğun bedende Bilinçli Rûhun büyümesini sağlar. Güneşin yaşam bedendeki güçleri, yaşam bedenin yoğun beden üzerinde etkin olabilmesi için nasıl faal iseler ve yaşam bedeni besliyorlarsa, yoğun bedendeki eylemlerin hafızası da (Arzu bedenin arzuları, hisleri ve duyguları ile zihindeki düşünceler ve fikirler) Zihinsel Rûhun büyümesine yol açar. Aynı şekilde arzu bedenin en yüksek arzuları ve duyguları da Duygusal Rûhu biçimlendirirler. 
+
+Bu üçüz Rûh, üçüz can’ın üç yönden bilincini yükseltir. 
+
+Arzu bedenin özü olan Duygusal Rûh, Arzu bedenin ruhsal kopyası olan insan Rûhunun etkinliğini arttırır. 
+
+Zihinsel Rûh da Yaşam Rûhunun gücünü arttırır, zira Zihinsel Rûh, Yaşam Rûhunun maddesel kopyası olan yaşam bedenden oluşturulur. 
+
+Bilinçli Rûh da Tanrısal Rûhun bilincini arttırır. Çünkü Bilinçli Rûh, yoğun bedenin özüdür ve yoğun beden de Tanrısal Rûhun kopyasıdır. 
+
+#### <h4 id="death-and-purgatory">Ölüm ve Araf[37]</h4>
+
+Böylece insan, ölüm anı gelene kadar eker ve inşa eder. Ölüm anından sonra ekme, büyüme ve olgunlaşma zamanı artık geçmiştir. Hasat zamanı gelmiştir ve ölümün iskelet biçimi, kum saati ve orağıyla görünür. Bu, etkileyici bir semboldür. İskelet, vücudun görece kalıcı kısmını simgeler. Orak, Ruh tarafından hasat edilecek bu kalıcı kısmın, şu anda bitmekte olan yaşamın meyvesi olduğu olgusuna işaret eder. İskeletin elindeki kum saati ise değişmez yasalarla belirlenen zaman dolana dek saatin vurmayacağını belirtir. Zaman dolduğunda araçların ayrılması gerçekleşir. Bu sırada kişinin Fizik Âlemdeki yaşamı sona erdiğinden yoğun bedenini tutmasına gerek kalmaz. Daha önce de açıkladığımız gibi, aynı zamanda Fizik Âleme de ait olan yaşam beden, vücudun kafasından çıkar ve yoğun bedeni cansız halde bırakarak terk eder. 
+
+Yüksek araçların (Yaşam beden, Arzu beden ve Zihin) yoğun bedeni spiral biçimli bir hareketle terk ettikleri görülür. Onlarla birlikte yoğun bir atomun rûhu da gider. Burada giden, atomun kendisi değil de onun aracılığıyla etkin olan güçlerdir. Bitmiş olan yaşam boyunca yoğun beden aracılığıyla kazanılmış deneyimler bu özel atoma kazınmışlardır. Yoğun bedenin diğer bütün atomları zamanla yenilenirken bu tek atom, değişmeden kalır. Ve sadece bu yaşamda değil, bütün yaşamlarda değişmez. Bu atom, bütün yaşamlar boyunca hep aynı Ego tarafından kullanılan her yoğun bedenin değişmez kısmını oluşturur. Bu atom ancak ölümde, ölen bedenden çekilip alınır. Ki böylece bu atom, yeni bir fizik yaşamın şafağında, aynı Ego tarafından kullanılacak yeni bir yoğun bedenin oluşturulmasında çekirdek olarak işlev görür. Bu yüzden o, “tohum atom“ (seed-atom) olarak da adlandırılır. Tohum atom, yaşam boyunca kalbin sol kulakçığında yukarıya yakın bir yerde bulunur. Ölümde pnömo-gastrik sinirler vasıtasıyla beyne çıkar ve yüksek araçlarla birlikte beyindeki parietale ve occipital arasından yoğun bedeni terk eder. 
+
+Yüksek araçlar yoğun bedeni terk ettikten sonra da yoğun bedene hâlâ ince, parlak ve gümüş renkli bir kordonla bağlıdırlar. Bu kordon, biri düz, diğeri de ters halde ve uçlarından birbirine bağlanmış şekilde duran iki 6 rakamından oluşmuştur (Şekil 5a). 
+
+Bu kordonun bir ucu, “tohum atomu” aracılığıyla kalbe bağlanır. “Tohum atomu”nun kopması, kalbin durmasına sebep olur. Kordon, yaşam bedende bulunan geçmiş yaşamın filmi tekrar izlenmeden kopmaz. Ölümün gerçekleşmesinden sonraki üç günde bedenin yakılmaması veya tahnit edilmemesi çok önemlidir. Yaşam beden, yüksek araçlarla birlikte olduğu ve bunlar yoğun bedene gümüş kordon aracılığıyla hâlâ bağlı oldukları sürece kişinin yoğun bedenine yapılan her ölüm sonrası işlem veya yoğun bedenin yaralanması, o kişi tarafından belli bir ölçüde hissedilir. 
+
+Özellikle ölümden sonraki ilk üç günde cesedi yakma işleminden kaçınılmalıdır. Çünkü ceset üç günden önce yakılırsa geçmiş yaşamın filmini Arzu bedene kazıması gereken ve bu sürede sağlam kalması gereken yaşam beden de yanar. 
+
+Gümüş kordon, iki “6 figürünün” birleştiği yerden kopar. Yarısı yoğun bedende, öbür yarısı da yüksek araçlarda kalır. Ancak kordonun koptuğu bu andan itibaren yoğun beden tamamen ölür. 
+
+1906 yılının başında Massachusetts Genel Hastane’sinde Doktor McDougall, ölüm esnasında normalde görünmeyen herhangi bir şeyin vücudu terk edip etmediğini eğer mümkünse tespit etmek için bir dizi deney gerçekleştirdi. Bu amaç için de 3 gramlık farklılıkları bile tespit edebilen bir terazi tasarladı. 
+
+Ölen kişi ve yatağı, terazinin bir kefesine konulurken diğer kefeye de uygun ağırlıklar yerleştirildi. Yapılan her denemede, ölen kişi son nefesini verdiği anda, şaşırtıcı bir biçimde terazinin ağırlıkla dolu kefesi hızla aşağıya inerken, ölen kişi ve yatağının bulunduğu diğer kefe de yukarıya gidiyordu. Böylelikle görünmeyen ancak ağırlığı ölçülebilen „bir şeyin“, ölümle vücudu terk ettiği anlaşılıyordu. Bu olayın ardından bütün gazeteler Doktor McDougall’ın „ruhun ağırlığını ölçtüğünü“ yazdılar. 
+
+Okültistler, modern bilmin her keşfini sevinçle karşılarlar, zira bu keşiflerle okült ilmin çok uzun zamandan beri öğrettiği olgular, değişmez bir şekilde onaylanmış olurlar. Doktor McDougall’ın deneyleri kesin bir şekilde göstermiştir ki, ölüm esnasında sıradan göz için görünmeyen bir şey, vücudu terk etmektedir. Ki bunu deneyimli durugörürler gözlemliyor ve Doktor McDougall’ın keşfinden yıllar önce biliyorlardı. Ve bu, derslerde ve konferanslarda öğretiliyordu. 
+
+Fakat bu görünmeyen „bir şey“, ruh değildir. Onunla ruh arasında çok büyük bir fark vardır. Gazeteciler, bilimadamlarının ruhun ağırlığını ölçmeyi başardıklarını sandıklarından yanlış sonuçlara vardılar. Ölçüm yapılan terazinin hassasiyeti 3 gram değil de bir buğday tanesinin ağırlığının milyonda biri kadar olsa dahi Ruhun ağırlığı ölçülemez. Çünkü Ruh, yüksek âlemlere aittir. Bilimadamının gerçekte ölçtüğü ise yaşam bedenin ağırlığıdır. Yaşam beden, Fizik Âlem’in dört eterinden oluşmuştur. 
+
+Gördüğümüz gibi bu eter türlerinin belli bir miktarı, insan vücudunun atomlarını çevreleyen eterin üzerine gelir ve fizik yaşam esnasında burada hapsolur. Bu da bitki, hayvan ve insanların ağırlığını çok az bir ölçüde arttırır. Ölümün gerçekleşmesiyle bu eter kaçar. Bu yüzden de Doktor McDougall’ın deneylerinde, insan ölümlerinden sonra tespit ettiği ağırlık azalması meydana gelmektedir. 
+
+Doktor McDougall terazi deneyini ölen hayvanlarda da yaptı. Köpeklerden biri St. Bernard tipi bir köpek olmasına rağmen hayvanlarda hiçbir ağırlık azalması görülmedi. Buradan, hayvanların ruhları olmadığı sonucuna varıldı. Fakat kısa bir zaman sonra Los Angeles Politeknik Okulu’nun Bilim Departmanı başkanı Prof. La V. Twinigg, fareler ve yavru kedileri bir kavanoza koyup ağızlarını sıkıca kapatarak deneyler yaptı. Sahip olduğu terazi, zamanının en hassas terazisiydi. Ve bu terazi, her tür nemden korunması için cam bir kutunun içine konulmuştu. Bu deneylerde, tüm hayvanların ölümde ağırlık kaybettiklerini ortaya koydu. 12,886 gram ağırlığındaki iri bir fare, ölümünde birden 3,1 miligram kaybetti. Diğer bir deneyde ise yavru bir kedi, önce 100 miligram, son nefesinde de aniden tekrar 60 miligram kaybetti. Bundan sonra da buharlaşma sebebiyle ağırlıkta yavaş yavaş azalma gözlendi. 
+
+Hassas teraziler kullanılarak hayvanların da bir yaşam bedene sahip olduğu görüldü. Böylelikle okült ilim öğretilerinin bu tezi de ispatlanmış oldu. St. Bernard köpeği ile yeterince hassas olmayan bir terazi ile yapılan deneyde, hayvanın ölüm esnasında ağırlık kaybetmemesi ise sadece hayvanların yaşam bedeninin, insanın yaşam bedeninden oransal olarak daha hafif olduğunu gösterir. 
+
+Kalpteki „gümüş kordon“ çözülüp de insan, yoğun bedeninden koptuğunda, Ego için en önemli an gelir çatar. Ölen bir kişinin yakınlarına, yüksek sesle ağlama ve sızlamanın ölen kişiye karşı işlenen en büyük suç olduğu ne kadar anlatılsa azdır. Çünkü o anda ölen kişi, en önemli mesele ile meşguldür. Geçmiş yaşamın değerinin önemli bir kısmı, ruhun bu meseleye ne kadar dikkat verebileceğine bağlıdır. Arzu âlemindeki insan yaşamını incelersek, bu konuyu daha iyi anlayabiliriz. 
+
+Ölen kişiye uyarıcı maddeler vermek de aynı şekilde büyük bir suçtur, zira uyarıcılar, yüksek araçları yoğun bedene birden bire geri çekerler. Bu da insanı büyük bir şiddetle sarsar. Bayılmak bir işkence değildir, ancak tekrar acı çekmeye devam etmesi için vücuda zorla geri çekilmek bir işkencedir. Bazı ölmüş kişiler araştırmacılara, bu şekilde saatlerce ölmek zorunda kaldıklarını ve akrabalarına sürekli olarak, iyilik sandıkları bu şeye son vererek kendilerinin ölmelerine izin vermeleri için yalvardıklarını anlatmışlardır. 
+
+İnsan, ruhsal gücüne ağır kurşun bir ağırlık gibi asılı bulunan (tıpkı önceki örneğimizdeki müzisyenin elindeki ağır eldiven gibi) yoğun bedeninden kurtulduğu anda, ruhsal gücüne belli bir ölçüde yeniden kavuşur ve yaşam bedenin bir kısmını oluşturan ve bilinçaltı hafızanın bulunduğu yer olan yansıtıcı eter’in negatif kutbundaki resimleri okuyabilir. 
+
+Geçmiş yaşamının tümü gözlerinin önünden, bir film şeridi gibi geçer. Ancak olaylar, sondan başa dizilmişlerdir. Öncelikle ölümden hemen önceki günler görünür, sonra da erkeklik veya kadınlık çağı, gençlik, çocukluk ve bebeklik çağları gelir. Her şey bu hafızaya kaydedilmiştir. 
+
+Ölen kişi, izlediği bu geçmiş yaşamına ait film karşısında bir izleyicidir. O, gelip geçen resimleri görür ve bu resimler onun yüksek araçları üzerinde izlenim bırakırlar. Ancak bu izlenimler, bu kişide herhangi bir duygu uyandırmaz. Kişide duygu uyanması ancak kişi, duygular ve heyecanlar âlemi olan Arzu âlemine girdiğinde gerçekleşeceklerdir. Kişi henüz daha Fizik Âlemin Eter Bölgesindedir. 
+
+Bu film, insanın uyanık kalacağı sürenin uzunluğuna bağlı olarak birkaç saatten birkaç güne dek sürebilir. Bazı insanlar sadece 12 saat uyanık kalabilirlerken bazıları günlerce uyanık kalabilirler. Bu film her durumda, kişi uyanık kalabildiği süre boyunca devam edecektir. 
+
+Ölümden sonraki yaşamın bu özelliği, insanın boğulurken veya yüksekten düşerken yaşadıklarına benzer. Böyle durumlarda da yaşam beden yoğun bedeni terk eder ve insan, yaşamının bir film şeridi gibi bir anda gözlerinin önünden geçtiğini görür, çünkü o anda bilincini kaybetmiştir. Elbette ki “gümüş kordon” bu durumlarda kopmaz, aksi takdirde tekrar yaşama dönüş gerçekleşmezdi. 
+
+Yaşam beden, dayanma gücünün sınırına eriştiğinde uyku olayını incelerken tarif ettiğimize benzer bir şekilde çöker. Fizik yaşamda Ego kendi araçlarını kontrol ettiği sürece bu çöküş, uyanık kalınan saatleri bitirir; ölümden sonra yaşam bedenin çöküşü ise yaşamın filmini sonlandırır ve insanı, Arzu âlemine girmeye zorlar. Gümüş kordon, “iki altı”nın birleştiği yerden kopar (bkz. Şekil 
+
+5a). Aynı olay uykuda da meydana gelir. Ancak önemli bir fark vardır: Ölümde yaşam beden, uykudaki gibi fizik bedeni içine almaz, tersine onun üzerinde yüzer. Yaşam beden mezarın üzerinde yüzer ve yoğun araçla (bedenle) birlikte çürür. Bu sebepten dolayı bir durugörür için mezarlığın, mide bulandırıcı bir manzarası vardır. Eğer durugörür’ün gördüğü bu manzarayı diğer insanlar da görmüş olsaydı, şu anki hijyen olmayan defin işlemi yerine çok daha akıllıca olan ölüleri yakma işlemi için insanları ikna etmek çok kolay olurdu. Çünkü ölüleri yakma işleminde, elementler bir anda ilk hallerine geri dönerler. Böylelikle de tiksindirici yavaş yavaş çürüme sahnelerine yol açılmamış olunur. 
+
+Yaşam bedenin terk edilmesinde de yapılan işlem, yoğun bedenin bırakılma işlemiyle aynıdır. Burada da, gelecekteki bir bedenlenmede yaşam bedeni oluşturmak için, tohum olarak kullanılmak üzere bir atomun yaşam güçleri alınır. Böylece insan, Arzu âlemine girişinde Arzu beden ve zihnin yanısıra yoğun ve yaşam bedenlerin tohum-atomlarını da birlikte getirir. 
+
+Eğer ölen insan, tüm arzularını geride bırakabilseydi Arzu bedeni oldukça hızlı bir şekilde ondan düşer ve onu göksel âleme girmesi için özgür bırakırdı. Ancak genelde bu olmaz. Çoğu insan, özellikle de yaşamının baharında ölenler, henüz dünya yaşamına birçok bağ ve ilgiyle zincirlidirler. Arzularını değiştirmemişlerdir, çünkü fizik bedenlerini kaybetmişlerdir. Hatta onların arzuları, ( fizik âleme duyulan) şiddetli özlem nedeniyle daha da şiddetlenir. Bu da onları, ne yazık ki bunu fark etmemelerine rağmen hiç de hoş olmayan bir şekilde Arzu âleme bağlar. Fakat yaşlı insanlar ve uzun süren hastalık sebebiyle çok zayıflamış ve yaşam yorgunu olanlar, Arzu Âlemini çok hızlı aşarlar. 
+
+Bu meseleyi, olmuş meyveden çok kolayca düşen ve kendisine meyvenin etinden hiçbir şey kalmayan çekirdekle karşılaştırabiliriz. Olgunlaşmamış meyvede çekirdek, büyük bir sıkılıkla etli kısma bağlıdır. Fiziksel sağlıklarının ve güçlerinin iyi olduğu bir durumdayken bir kazaya uğramaları neticesinde fizik bedenlerini terk etmek zorunda kalan insanlar için ölüm, özellikle zordur. Çünkü bu kişiler, fizik yaşamın sayısız aktivitelerine saplanıp kalmışlardır ve henüz evlilik, aile, akrabalık, arkadaş, eğlence ve iş bağlarıyla bağlıdırlar. 
+
+Yaşamdan kaçmaya çalışmış ve intihar etmiş olan kişi ise, her zamanki gibi canlı olduğunu görecektir. En acıklı durum onunkidir. En kötüsü de onda tarifsiz bir “içi oyulmuşluk” duygusunun olmasıdır. Yumurta biçimli Aura’sının şimdiye kadar yoğun bedenini kapsayan kısmı boştur. Arzu beden, ayrılmış olan yoğun bedenin biçimini almış olsa da boş bir kabuk olma duygusu devam eder. Çünkü Somut Düşünce Bölgesindeki vücudun yaratıcı arketipi, boş bir kalıp olarak fizik vücudun gerçekte yaşayabileceği süre boyunca etkindir. Yaşamının baharında bile olsa doğal bir ölümle vefat eden kişide arketipin faaliyeti durur. Ve de Arzu beden, kendisini uydurarak formun tamamını kaplar. İntiharda ise “boş olmanın” korkunç duygusu kalır. Bu duygu ancak, olaylar normal akışında kalıp da normal ölümün gerçekleşmiş olacağı zaman son bulur. 
+
+İnsan, yer yaşamıyla bağlantılı arzuları bırakmadığı sürece Arzu bedeninde kalmak zorundadır. Bireyin gelişimi, daha yüksek bölgelere geçmeyi gerektirdiği için, Arzu Âlemindeki kalış doğal olarak arındırıcı olmalıdır ve de kişiyi, kendisini zincirleyen arzulardan kurtarmalıdır. Bunun nasıl olduğu en iyi, örneklerle anlaşılacaktır. 
+
+Dünya hayatında altınlarını sevmiş cimri kişi, ölümünden sonra da aynı şekilde onları sevmeye devam edecektir. Fakat şimdi Arzu âleminde altınları elleriyle kavrayabileceği bir yoğun bedeni artık yoktur ve en kötüsü de geçmiş yaşamında biriktirdiklerini bile tutamayacaktır. Belki de orada oturmak ve sevgili altınlarını ve hisse senetlerini görmek için kasasına gidecektir. Fakat birazdan mirasçılar görünecek ve belki de “cimri yaşlı aptal” hakkında şakalar yapacaklar. Mirasçılar, onu göremeyecekler ancak o, mirasçıları görecek ve duyacak. Kasasını açacaklar ve de o, altınlarını korumak için onların üzerine kapanacak. Fakat mirasçıların elleri onun vücudunun içinden geçecek, onun varlığından haberleri bile olmayacak, onunla ilgilenmeyecekler de. Ve de onun biriktirdiklerini harcamak üzere, onu keder ve çaresiz bir öfke içinde bırakarak oradan uzaklaşacaklar. 
+
+Cimri adam şimdi şiddetli acı duyuyor, çünkü acıları tamamen zihinsel türden acılardır. Önceden yoğun beden bu acıları bir ölçüde hafifletiyordu. Ancak Arzu âleminde bu acıların tam etkinliği vardır ve insan, altının ancak bir lânet olduğunu anlayana kadar acı çeker. Böylelikle yavaş yavaş kaderine razı olur ve en sonunda Arzu bedeninden kurtularak serbest kalır. Ancak şimdi gitmeye hazırdır. 
+
+Veya bir alkoliğin durumunu ele alalım. Bu kişi ölümünden sonra da yaşamındaki kadar alkollü içkileri sever. İçkiyi arzulayan yoğun beden değildir, çünkü yoğun beden, içkiden sadece hasta olur ve aslında ondan kaçınmak ister. Ve de farklı yollarla içki içilmesine çaresizce karşı koyar. Zira ayyaş kişinin Arzu bedeni, alkollü içkileri şiddetle arzulamaktadır ve yüksek titreşimlerin eğlencesini tadabilmesi için yoğun bedeni bu içkileri vücuda almaya zorlar. Bu arzu, yoğun bedenin ölümünden sonra da devam eder, fakat ayyaş kişinin Arzu bedeni şimdi, içmek için ne bir ağıza sahiptir, ne de içkileri içeride tutacak bir midesi vardır. Belki de –hatta kesinlikle- bu kişi araçlarını, yüksek titreşimlerin hazzını hiç olmazsa onların titreşimlerinden “indüklenerek” elde etmek için diğer alkoliklerin vücutlarına girmeye zorlayacaktır. Fakat bu, ona yeterli doyumu vermek için çok zayıftır. Bu kişi, bir viski fıçısına da girebilir, fakat bunun da bir yararı olmaz. Zira orada, içen bir kişinin sindirim organlarında oluşan gazlardan hiçbiri oluşmaz. O, hiçbir etki hissetmeyecektir ve de onun durumu, okyanustaki açık bir botta bulunan bir insana benzer. “Su, her yerde su, ancak içmek için bir damla bile yok!” diyerek büyük acılar çekecektir. Fakat zamanla o, bu özleminin yararsızlığını anlayacaktır. Bu dünya yaşamındaki pek çok arzumuz gibi bütün arzular, onları Arzu âleminde doyurma imkânı bulunmadığında ölürler. İçkici kimse de arındığında, en azından bu alışkanlık açısından bu “Araf” ya da ”arınma” durumunu terk etmeye ve göksel âleme girmeye hazırdır. 
+
+Bütün bunlardan görüyoruz ki, bizim için Araf veya cehennemi yaratan bir öcalıcı Tanrı yoktur. Aksine Araf veya cehennem, bizim kendi kötü alışkanlıklarımız ve eylemlerimizdir. Arzularımızın yoğunluğuna bağlı olarak, onlardan arınmamız için gerekli sürenin uzunluğu ve acının yoğunluğu değişir. Daha önce bahsedilen durumda içki içmeyi seven kişi için dünyadaki bütün mal varlığını kaybetmek onun için çok büyük bir sorun olmazdı. Hazinelere sahip olsa bile onun bunlara büyük bir bağlılığı bulunmazdı. Cimri kişiye de artık içki içemeyecek olmak büyük bir acı vermezdi. Yeryüzünde bir damla bile içki kalmamış olsa, büyük bir ihtimalle bu onu ilgilendirmezdi. Fakat cimri kişi tüm ilgisini altınlarına, alkolik kişi de içkisine vermişti. Böylece şaşmaz yasa, onların aşağı arzulardan ve kötü alışkanlıklarından arınabilmeleri için gereksinim duydukları şeyi her birine verir. 
+
+Bu, ölümü simgeleyen iskeletin elindeki orakla sembolize edilen yasadır. Ve de “insan ne ekerse, onu biçer” diyen yasadır. Bu, sebep ve sonuç yasasıdır ve üç âlemdeki tüm şeylere hükmeder. Ve her doğa âlemi ( fizik, moral ve zihinsel) bu yasanın egemenliği altındadır. O her yerde amansız bir şekilde çalışır, her şeyi düzenler, bir yerde en küçük bir eylem bile bir karışıklık yarattığında dengeyi tekrar sağlar. Zira her eylemin bir karışıklık yaratması kaçınılmazdır. Sonuç, hemen veya yıllar sonra ve hatta yaşamlar sonra açığa çıkabilir, fakat bir zaman bir yerde, adil ve eşit bir karşılık muhakkak ki olacaktır. Öğrenci özellikle şuna çok dikkat etmelidir ki, bu yasanın işleyişi kesinlikle kişisel değildir. Doğada ne ödül bulunur ne de ceza. Her şey, değişmez bir yasanın sonucudur. Bu yasanın çalışma şekli, sonraki bölümde daha etraflıca anlatılacaktır. Orada göreceğiz ki bu yasa, insan evriminde de geçerli olan başka bir evrensel Büyük Yasa ile bağlantılıdır. Şu anda açıkladığımız yasa, Sebep ve Sonuç Yasası olarak adlandırılır. 
+
+Yine bu yasa Arzu âleminde insanı, arzularından arındırır ve onun zayıflıklarını ve kötü alışkanlıklarını düzeltir. Böylelikle insan, gelişiminin önündeki bütün engellerden kurtulmuş olur. İnsanı bu amaca en kısa yoldan ulaştırmak için yasa, mümkün olan en uygun yöntemle ve en az acı çektirerek bu işi gerçekleştirir. Fakat kaydedilmesi gereken bir husus da, bir kişi kötü ahlaklı davranmış veya başkalarına haksızlık yapmış fakat daha sonra bu hataların üstesinden gelmiş ya da bu hatalarına pişman olmuş ve de mümkün olduğunca yaptığı kötü şeyleri telafi etmeye çalışmışsa; pişmanlık, kendini düzeltme ve hatalarını telâfi yoluyla yapmış olduğu ahlaksızlıklardan ve kötü eylemlerden kurtulur. Denge, böylelikle yeniden kurulmuş olur. Ve de bundan, bu dünyâ yaşamında gerekli ders alınmış olur, ki bu da ölümden sonra bu konuda ızdırap çekmemeyi sağlayacaktır. 
+
+Arzu âleminde yaşam, fizik âlemdeki yaşamdan yaklaşık olarak üç kat daha hızlı geçer. Fizik âlemde 50 yaşına gelmiş bir insan, Arzu âleminde aynı olayları yaklaşık 16 yılda yaşardı. Elbette ki bu, genel bir ölçüdür. Ancak Arzu âleminde, Fizik âleme göre belirtilen orandan çok daha fazla yaşayan insanlar vardır. Birkaç büyük arzu ile yaşamlarını sürdürmüş diğer insanlar ise Arzu âlemini çok daha kısa sürede geçerler. Fakat yukarıda verilmiş olan oran, günümüzdeki ortalama insan için doğrudur. 
+
+Yoğun bedeni terk ederken insanın geçmiş yaşamının, resimler halinde gözlerinin önünden geçtiğinden bahsetmiştik. Ancak kişi bu anda, bu resimlere ilişkin hiçbir duygu hissetmez. 
+
+Kişinin Arzu âlemindeki yaşamı esnasında da bu yaşam resimleri aynı şekilde sondan başa doğru geçer. Ancak insan artık, resimler birbiri ardına önünden geçerken, sahip olabileceği bütün duygulara sahiptir. Şimdi kişi, geçmiş yaşamındaki her olayı yeniden yaşamaktadır. Ve de birisine haksızlık yaptığı bir noktaya gelince bu haksızlığı, aynen o insanın hissettiği gibi hisseder. Başkalarında yarattığı tüm üzüntü ve acıları şimdi o yaşamaktadır ve böylelikle, sebep olduğu incinmenin ne kadar acı verici olduğunu ve sebep olduğu kedere dayanmanın ne kadar zor olduğunu öğrenir. Buna ek olarak – daha önce de belirtildiği gibi- hissedilen acı, çok daha yakıcıdır, zira artık acıyı hafifleten yoğun beden yoktur. Belki de bu yüzden acılar, güç olarak kazandıklarını zaman olarak kaybetsinler diye yaşamın hızı burada üç katına çıkar. Doğanın ölçüsü, olağanüstü âdil ve gerçektir. 
+
+Ölüm sonrası varoluşun bu evresine ilişkin bir başka özellik daha vardır. Bu da, Arzu âleminde (daha önce belirtildiği gibi) mesafelerin neredeyse tamamen kaybolması olgusudur. Bir insan öldüğünde, bir anda yaşam bedenin içine doğru genişlemiş gibi görünür. Ve de insan kendisini çok büyük ölçüde büyümüş gibi görür. Gerçekte beden büyümez, fakat algısal yetiler (perceptive faculties), her biri çok yakın gibi görünen farklı kaynaklardan çok fazla izlenim alır. Aynı şey Arzu beden için de geçerlidir. Kişiye, birlikte yeryüzünde yaşadığı ve herhangi bir şekilde ilişkili olduğu bütün insanlarda sanki kendisi mevcutmuş gibi gelir. Ve de insanlarla olan bu ilişkinin şimdi düzeltilmesi gerekmektedir. Eğer o, San Fransisco’da bir adamı ve New York’ta da başka bir adamı incitmişse, kendisinden birer parçanın bu iki yerde olduğunu hissedecektir. Bu duygu da ona, parçalara ayrılmış olma hissini verecektir. 
+
+Öğrenci şimdi, arınma sırasında geçmiş yaşama ait filmin önemini anlayacaktır. Zira orada bu film şeridi, sınırları kesin bir şekilde belirlenmiş duygular içerisinde gerçeklenmektedir. Eğer bu işlem uzun sürer ve bu esnada insan rahatsız edilmezse, Arzu bedene kazınmış tam ve açık bir izlenim, Arzu âlemindeki yaşamı daha canlı ve bilinçli kılacaktır. Böylelikle de arınma, daha ayrıntılı bir şekilde gerçekleşebilir. Halbuki ölüm döşeğindeki ölümden sonra ve sonraki üç gün içerisinde ümitsizlik ve acı içinde yapılacak sesli feryatlar, -daha önce de belirttiğimiz gibi- ölen insanın geçmiş yaşamından, sadece bulanık ve belli belirsiz izlenimler almasına neden olur. Arzu bedenine derin ve açık bir izlenim kazımış olan can, geçmiş yaşamının hatalarını çok daha açık ve belirgin hissedecektir. Etrafının acısı ve kederi sebebiyle bunu başaramamış can ise, geçmiş yaşamındaki hataları ancak belli belirsiz ve bulanık bir şekilde duyumsayacaktır. Arzu âlemde kişinin şu anda varolan acılarına sebep olan şeylere ilişkin duyguları, eğer bu duygular yeterince uzun bir film izleniminden çıkarılmışlarsa çok daha belirgin olacaktır. 
+
+Bu keskin ve açık duygu, gelecekteki yaşamlar için çok büyük öneme sahiptir. Bu duygu, Arzu bedenin tohum atomuna kendi silinemez damgasını vurur. Deneyimler sonraki yaşamlarda unutulacaktır ancak Duygu hep kalacaktır. Sonraki yaşamlarda daha önce işlenmiş bir hatanın aynısını işleme olasılığı ortaya çıkarsa bu duygu, bizi açık ve şüphe götürmez bir şekilde uyaracaktır. Bu, bizi uyaran ve nedenini bilmediğimiz “sessiz ve alçak tonlu ses”tir. Ancak geçmiş yaşamın filmi ne kadar açık ve belirgin ise, bu sesi o kadar sık, güçlü ve net duyarız. Böylece, ölümden sonra çıkan ruhu sessizlik içinde bırakmanın ne kadar önemli olduğunu görürüz. Bu şekilde hareket ederek kişinin, yeni sona ermiş olan hayatından mümkün olan en fazla faydayı elde etmesini ve aynı hataları tekrarlamasının önüne geçebilmesini sağlamış oluruz. Bizim bencil ve histerik yakınmalarımız ölen kişiyi, henüz sona ermiş yaşamının sonuçlarından mahrum bırakmamız anlamına gelecektir. 
+
+Araf’ın görevi, zararlı alışkanlıkları doyumdan mahrum ederek onların kökünü kazımaktır. Sahtekârlığı, acımasızlığı, hoşgörüsüzlüğü vesaire sebebiyle kişi, diğer insanlara çektirdiği acıların aynısını burada çeker. Bu acılardan da kişi, sonraki yaşamlarında diğer insanlara karşı şefkatli, dürüst ve hoşgörülü olmayı öğrenir. Böylelikle kişi, bu faydalı durumun varlığı sayesinde fazileti ve doğru davranışı kavrar. Ve kişi yeniden doğduğunda kötü alışkanlıklarından kurtulmuştur ve bundan sonra işleyeceği her kötü hata, onun kendi özgür iradesinden kaynaklanmaktadır. Geçmiş yaşamdaki kötü hataları tekrarlama eğilimi hep kalır. Bunun için de doğru olanı, bilinçli olarak ve kendi özgür irademizle yapmayı öğrenmeliyiz. Sık sık bu eğilimler bizi ayartmaya çalışacak ve böylelikle de bize, kötü ahlak ve bozukluğun tarafından merhamet ve erdem’in bulunduğu tarafa geçme fırsatı yaratacaktır. Hataları temizleyerek ve geçmiş yaşamlardaki kötü eylemleri bertaraf ederek büyüyen bir duyguya sahip oluruz. Bu duygu bize, doğru eylem tarzını bilmede ve ayartılmanın tuzak ve hilelerine karşı dirençli olmada yardım eder. Eğer bu duyguya önem verir ve kendimizi bu özel kötülükten uzak tutarsak ayartılma kesilecektir. Böylelikle kendimizi bu kötülükten ebediyen kurtarmış oluruz. Eğer boyun eğersek öncekinden daha fazla acı çekmeye başlarız. Bu acılar, şu altın kurala göre yaşamayı öğrenene kadar devam eder: Azgının yolu zordur. Bu kurala uygun yaşamayı başardıktan sonra bile henüz hedefe ulaşabilmiş değilizdir. Onların bize iyilik yapmaları için bizim başkalarına iyilik yapmamız da aslında bencilce bir davranıştır. İyiliği, kişilerin bize olan davranışından bağımsız olarak yapmayı zamanla öğrenmeliyiz. İsa’nın söylediği gibi düşmanlarımızı bile sevmeliyiz. 
+
+Arınmanın bu yöntemini ve amacını bilmek, insan için paha biçilmez bir hazinedir. Zira ancak bu şekilde, Araf’ımızı daha burada ve şimdi, gün be gün yaşamak ve böylelikle normalde yapabileceğimizden çok daha hızlı yol kat etmek bizim için mümkün olur. Bu kitabın son kısımlarında, ruhsal görüş’ün gelişimi için gerekli olan arınmaya yönelik bir alıştırma verilecektir. Bu alıştırma, her gün yatmadan önce gün içinde olan olaylar üzerinde düşünmeyi içermektedir. Böylelikle günün tüm olaylarını sondan başa doğru gözden geçiririz. Bu olayların özellikle ahlaki yönüne dikkatimizi veririz. Ve de her bir olayda eylemler, ruhsal tutum ve alışkanlıklar yönünden doğru mu yanlış mı davrandığımızı tespit ederiz. Bu şekilde kendi kendimizi eleştirir ve hatalarımızla kötü eylemlerimizi bulup düzeltmeye çalışırsak, Araf’taki arınma zamanını oldukça kısaltabiliriz ve hatta bu arınmaya gerek bile kalmaz ve ölümden sonra doğrudan birinci cennete geçeriz. Eğer zayıflıklarımızla böyle bilinçli bir şekilde mücadele edersek, evrim okulunda oldukça önemli ilerlemeler kaydederiz. Eylemlerimizi düzeltmede başarısız olsak bile, kendimizi eleştirme yönteminden çok büyük yarar görürüz. Zira bu şekilde kendimizde iyiye doğru bir istek yaratırız ve bunun da zamanla doğru eyleme yol açacağı muhakkaktır. 
+
+Günlük olayları gözden geçirirken ve hatalarımız için kendimizi suçlarken, objektif bir şekilde iyi eylemlerimizi de takdir etmeyi ve daha iyi davranmaya kendi kendimize söz vermeyi de kesinlikle unutmamalıyız. Bu şekilde iyi’yi onaylamayla arttırır ve kötü’yü de suçlamayla azaltmış oluruz. Pişmanlık ve kendini düzeltme de aynı şekilde arınma sürecini kısaltmada güçlü faktörlerdir. Zira doğa, hiçbir zaman faydasız işlemlerle gücünü boşa harcamaz. Eğer geçen yaşamımızda belli alışkanlıklarımızın ve eylemlerimizin yarattığı haksızlıkların farkına varır ve haksızlığı telafi etmeye ve kötü alışkanlığı bırakmaya azmedersek, bilinçaltı hafızadan onların resimlerini sileriz. Böylelikle onlar, ölümden sonra bizi yargılamak için karşımızda bulunmazlar. Bir yanlışın zararını tazmin edemesek bile, pişmanlığımızdaki içtenlik kâfi gelecektir. Doğanın amacı, öç almak değildir. Kurbanlarımıza, bu uğradıkları zararın ‘tazminatı’ başka şekillerde verilecektir. 
+
+Genellikle gelecekteki yaşamlar için öngörülmüş pek çok ilerleme, yaşadığı her anı çok iyi değerlendiren ve kendisini yargılayarak karakterini düzelten ve kötü alışkanlıkları bırakan kişiye şimdiki yaşamında ulaştırılır. Belirttiğimiz bu alıştırmayı okuyucuya şiddetle tavsiye ederiz. Bu alıştırma, bu kitabın belki de en önemli öğretisidir. 
+
+#### <h4 id="the-borderland">Sınır bölgesi</h4>
+
+Araf, Arzu âleminin üç aşağı bölgesini kaplar. Birinci cennet, üstteki üç bölgede yer alır. Ortadaki bölge ise bir tür sınırdır. Bu sınır bölgesi, ne cennettir, ne de cehennemdir. Burada dürüst, namuslu ve hiç kimseye kötülük yapmamış insanlara rastlarız. Onlar bu bölgededirler, çünkü yaşamlarında dünyevi işlere o kadar dalmışlardır ki yüce bir yaşamı hiç düşünmemişlerdir. Onlar için Arzu âlem, tarif edilmez bir monotonluk halidir. Burada ne “iş” vardır, ve ne de onun yerine koyabilecekleri bir şey vardır. Bu kişiler, çeklerden ve hesap defterlerinden daha yüksek şeyleri düşünmeyi öğrenene kadar burada çok zor zamanları olacaktır. Yaşam problemi hakkında düşünmüş, “ölümün her şeyin sonu olduğu” sonucuna varmış ve maddesel duyuların ötesindeki şeylerin varlığını inkâr etmiş insanlar da bu korkunç monotonluğu hissedeceklerdir. Onlar, bilincin yokedileceğini sanıyorlardı, fakat burada kendilerini, etrafındaki kişileri ve şeyleri çok daha iyi bir şekilde algılar durumda bulurlar. Onlar bu şeyleri, hararetli bir şekilde inkâr etmeye alışmışlardı ve böylece kendilerini Arzu âleminin bir duyusal yanılsama (halüsinasyon) olduğuna inandırmışlardı. Onların sık sık burada, “bu ne zaman bitecek? Bu ne zaman bitecek?” diye ümitsizce bağırdıkları duyulur. 
+
+Böyle insanlar gerçekten de acıklı bir konumdadırlar. Genellikle her türlü yardım alanının dışındadırlar ve diğer insanların pek çoğundan daha fazla azap çekerler. Ayrıca, gelecekteki yaşamda kullanmak için beden inşasının öğretildiği göksel âlemde, bu kişilerin hemen hemen hiç yaşamları yoktur. Böylece bu kişiler, tüm kristalleştirici düşüncelerini, gelecekteki yaşam için inşa edecekleri herhangi bir bedene atarlar. Sonuçta da tüberkülozlularda da görebileceğimiz gibi kötü eğilimler gösteren bir beden meydana gelir. Bazen böyle zayıf bedenlerin bu şekilde çektikleri azap, bu bedenlerin içindeki can’ın düşüncelerini Tanrı’ya çevirmelerine sebep olur. Bu şekilde de evrimlerinde ilerleyebilirler. Fakat materyalist zihinde, en büyük tehlike olan rûhla temâsı kaybetme ve kovulmuş olma tehlikesi vardır. Bu yüzden Büyük Biraderler, son yüzyıl boyunca Batı Dünyâsının kaderi ile çok ciddi olarak endişelenmişlerdir. Eğer onların bu özel lütufkâr çabaları olmasaydı, yanında Fransız Devrimi’nin çocuk oyuncağı gibi kalacağı bir sosyal felaketle karşılaşırdık. Deneyimli bir durugörür, insanlığın, tüm kıtaları denize gömecek bir felâketten nasıl kıl payı kurtulduğunu görebilir. 18. bölümde okuyucu, materyalizm ile yanardağ püskürmeleri arasında nasıl bir ilişki olduğunu gösteren ayrıntılı ve tam bir açıklamayı bulacaktır. Şüpheciler (skeptikler), olguları ve sayıları açıklayamadıkları zaman hep yaptıkları gibi bunu bir “tesâdüf” olarak görseler de Vezüv yanardağının patlama listesi, böyle bir ilişkinin varlığını doğrular görünmektedir. 
+
+#### <h4 id="the-first-heaven">Birinci Cennet</h4>
+
+Arınmış can, Araf’taki kalışı sona erdiğinde birinci cennete çıkar. Bu cennet, Arzu Âlemin yüksekteki üç Bölgesinde yer alır. Can’ın çekmiş olduğu azapların sonuçları, Arzu bedenin tohum- atomuna dahil edilir. Bu tohum-atom cana, doğru hissetme yeteneğini verir. Bu yetenek gelecekte, iyiye yönelme ve kötüden kaçınma tepi’si olarak çalışır. Burada da geçmiş yaşamın filmi sondan başa doğru tekrar geçecektir, ancak bu defa duyguların temelini, kişinin yaptığı iyi işler oluşturur. Başkalarına yardım ettiğimiz sahnelere geldiğimizde, o anda yaşamış olduğumuz yardım sevincinin aynısını bir kez daha yaşarız ve aynı zamanda yardım ettiğimiz kişilerin minnettarlığını da hissederiz. Bize başkalarının yardım ettiği sahnelere geldiğimizde de, bize yardım edenler için hissetmiş olduğumuz minnettarlığı tekrar hissederiz. Buradan da bize yapılmış olan iyiliklere minnettar olmanın ne kadar önemli olduğunu görürüz. Cennetteki mutluluğumuz, başkalarını ne kadar sevindirdiğimize ve başkalarının bize yaptığı iyilikleri ne kadar takdir ettiğimize bağlıdır. 
+
+İnsan şunun farkına varmalıdır ki, bir şeyler vermenin ölçüsü, verilen miktara bağlı değildir. Hatta gelişigüzel para vermek, kötü bir davranış bile olabilir. İyi bir amaç için para vermek doğrudur, ancak hizmet etmek bundan bin kat daha iyidir. Whitman’ın söylediği gibi: 
+
+    Bak! Ne ders veririm, ne de küçük bir sadaka   
+    Verirsem ben, kendimi veririm infaka   
+
+Güzel bir bakış, güven ifâdesi, anlayışlı ve sevgi dolu yardımseverlik –bunlar, zengin olunmadan da verilebilecek şeylerdir. Dahası, yoksul birine her şeyden önce kendisine yardım edebilmesi için yardım etmeliyiz. Bu yardım fiziksel, parasal, moral veya duygusal bir yardım olabilir. Ancak bunu yaparken yardım ettiğimiz kişinin bize veya başkalarına bağımlı hale gelmesine yol açmamalıyız. 
+
+Vermenin etik değeri ve ruhsal bir ders olarak veren kişi üzerinde yarattığı etki, en güzel Lowell’ın şiiri “Sir Launfal’ın Vizyonu”nda ifade edilmiştir. Genç ve hırslı şövalye Sir Launfal, Kutsal Kâse’yi aramak için ışıltılı donanımı ile görkemli atına binerek kalesinden ayrılır. Kalkanının üzerinde, uysal ve alçakgönüllü kurtarıcımızın şefkatinin ve merhametinin sembolü olan haç parlamaktadır. Fakat şövalyenin kalbi, gururla doludur ve o kalp, fakir ve muhtaçları kibirle hor görmektedir. Şövalye yolda kendisinden sadaka isteyen bir cüzamlıya rastlar ve ona küçümseyici bakışlarla, tıpkı bir sokak köpeğinin önüne kemik atar gibi bir altın para atar, fakat: 
+
+    Yerden almadı altını, düşmüş olsa da cüzama   
+    Verse de acı, yarasının kabukları adama   
+    Garibin hayır duası daha iyidir muhakkak   
+    Ellerim bomboş döndüm ben onun kapısından ancak   
+    Sadece bir avuç dolusu verme fakiri horlayarak   
+    Ancak değersiz altın vermiş olursun kendini zorlayarak   
+    Ama kim ki verir az meteliğini yoktan   
+    Erişir sevdiği gizli İsâ’ya çoktan   
+    Gösterir her şeyi kaplayan güzelliğini kalbi   
+    Ve her şeyi sarıp birleştirir bir ip gibi   
+    Elin alabileceğinden çok fazladır armağanı   
+    Onun kalbi yenmiştir hırslı avuçlarını   
+    Bir Tanrı izler ve onu hazine olarak getirir   
+    Karanlıkta ölmek üzere olan rûha yetirir   
+
+Sir Launfal dönüşünde kalesine başka birinin sahip olduğunu görür ve kapıdan sürülür: 
+
+    Yaşlı bir adam, zayıf ve bitkin   
+    Kutsal Kâse’yi aramaktan bezgin   
+    Topraklarını kaybetmişti ama umursamadı hiç   
+    Artık parlamıyordu çünkü giysisindeki haç   
+    Ama kalbin derinliklerinde vardı bir işâret   
+    Mazlumların ve fakirlerin bıraktığı alâmet   
+
+Tekrar karşılaşır, kendisinden yine sadaka isteyen cüzamlıyla. Ancak onu bu defa çok farklı bir şekilde yanıtlar: 
+
+    Ve Sir Launfal dedi: “Bil ki gördüm sende   
+    Çarmıh’ta ölmüş O’nun bir resmini ben de   
+    Sana da dünyâ dikenden bir taç ördü   
+    Sana da vurdu o, seni de hor gördü   
+    Yaşamında hissettin kutsal acıyı,   
+    Elin, ayağın ve vücudundaki sancıyı   
+    Uysal Meryem’in Oğlu, lütfet bana   
+    Bak, onunla veriyorum kendimi Sana   
+    Cüzamlının gözlerine bakınca onu hatırlar ve tanır:   
+    Onun kalbi toz ve küldü   
+    Tek ekmeğini ikiye böldü   
+    Derenin kenarındaki buzu bölerek   
+    Sağladı cüzamlıya yiyecek ve içecek   
+
+Bu anda bir mucize meydana gelir: 
+
+    Cüzzamlı inlemiyordu artık   
+    Başında vardı bir halka, saf ışık   
+    ....   
+    Ve sesi, sessizlikten yumuşaktı ve daha ince   
+    ‘Benim! Kalk ve korkma!’ dedi sâkince   
+    Birçok memlekette boşu boşuna niçin   
+    Harcadın ömrünü Kutsal Kâse için   
+    O burada, elinde! Sen buldun, bak!   
+    Dereden onu benim için doldurarak   
+    Bu ekmek, senin için parçalanmış bedenim   
+    Bu su ise ırmaktan dökülmüş kanım   
+    Böyle olur kutsal akşam yemeği   
+    Paylaşırsak başkasının ihtiyacı olan her neyi   
+    Paylaştığımızdır asıl, değil verdiğimiz   
+    Zira kalpsiz verme, yetersiz   
+    Sadakayla birlikte verirsen kendini   
+    Besler bu seni, fakir komşunu ve Beni.”   
+
+Birinci cennet, içinde bir damla bile acılığın olmadığı bir sevinç yeridir. Rûh, maddesel ve dünyâsal koşulların ötesindedir. Ve geçmiş yaşamı şimdi yeniden yaşıyormuş gibi, o yaşamdaki tüm iyilikleri emer. Burada, onun yaşamı boyunca peşinden koştuğu tüm yüksek emelleri tam ölçüde gerçekleşir. Burası bir dinlenme yeridir ve yaşanmış hayat ne kadar sert geçmişse, huzur da burada o kadar tatlı hissedilecektir. Burada hastalık, dert ve acı bilinmez. Burası spritüalistlerin yaz ülkesidir. Yine burası, dindar Hıristiyanların düşünceleriyle, ‘Yeni Kudüs’ü inşa ettikleri yerdir. Güzel evler, çiçekler vb. şeylere sahip olmayı arzu etmiş olanların istedikleri her şeyi elde edebilirler. Bu istedikleri şeyleri kendilerine, sübtil arzu maddesinden düşünce yoluyla yaparlar. Yine de bu şeyler, onlar için gerçek ve somuttur. Bu tıpkı dünyâdaki evlerimizin bizim için gerçek ve somut olması gibidir. Burada herkes, dünyâ yaşamında eksikliğini duyduğu şeylerin doyumunu elde eder. 
+
+Bir grup, burada özellikle güzel bir yaşam sürer: Çocuklar. Eğer onları görebilmiş olsaydık, onlarla ilgili acılarımız hemen son bulurdu. Arzu bedenin doğumundan –ki bu yaklaşık 14. yıla denk gelir- önce ölen bir çocuk, birinci Cennet’ten daha yukarıya çıkamaz. Çünkü çocuk, yaptığı eylemlerden sorumlu değildir. Nasıl doğmamış bebek, anne karnında hareket ederek anneye verdiği acılardan sorumlu tutulamazsa tüm çocuklar da yaptıklarından sorumlu tutulamazlar. Bu sebeple çocuk Araf’ta hiç kalmaz ve dolayısıyla da acı çekmez. Canlanmamış olan ölmeyecektir. Böylece çocuğun Arzu bedeni, zihni ile birlikte yeni bir doğuma kadar varolmaya devam edecektir. Bu sebeple bazı çocuklar, ileride vereceğimiz örnekte de göreceğimiz gibi önceki dünyâ yaşamlarını hatırlayabilmeye yatkındırlar. 
+
+Böyle çocuklar için birinci Cennet, Yeniden Doğuş için yeni bir fırsat çıkıncaya kadar bir ilâ yirmi sene arasında kaldıkları bir bekleme yeridir. Ancak onlar burada sadece beklemezler. Bu süre esnasında birçok ilerleme de kaydederler. 
+
+Bir çocuk öldüğünde her zaman onu öte tarafta bekleyen akrabalar bulunur. Şayet ölen çocuğun kimsesi yoksa, yer yaşamlarında severek çocuklara “annelik” yapmış olan ve bu küçük ve yalnız varlığı sevinçle kabul edecek insanlar vardır. Arzu maddesinin hamur gibi yoğrulabilir olma özelliği, çocuklar için bu maddeden mükemmel canlı oyuncaklar yapılabilmesine imkân verir. Bu sâyede de çocukların buradaki yaşamı eşsiz ve güzel bir oyun hâline dönüşür. Ancak burada onların eğitimleri de ihmal edilmez. Çocuklar, yaşlarına bakılmaksızın mizaçlarına göre sınıflara ayrılırlar. Arzu âleminde, iyi ve kötü tutkuların davranış ve mutluluk üzerindeki etkileri hakkında eğitici örnekler vermek kolaydır. Bu dersler, çocuğun duyarlı ve hassas Arzu bedenine silinemez bir şekilde kazınır ve yeniden doğumda da aynı şekilde kalırlar. Soylu bir yaşam süren çoğu insan bu soyluluğu büyük oranda, aldığı bu eğitime borçludur. Zayıf bir Can doğduğunda Merhametliler (evrimimize kılavuzluk eden görünmez Liderler) onun yaşamının ilk yıllarında ölmesine neden olurlar. Böylece bu zayıf Can, olası zor bir yaşama hazırlanması için, yukarıda bahsedilen özel eğitimi alabilir. Kişi ölürken yakınlarının feryatlarıyla rahatsız edilmişse veya bir savaş alanında ya da bir kazada hayatını kaybetmişse, Arzu bedenine kazınmış olan yazı çok zayıftır ve özellikle böyle kişiler için yukarıda bahsettiğimiz öldürme olayı meydana geldiği görülmektedir. Böyle ölen bir kişi, ölümünden sonraki varlığında, duyguları gerekli yoğunlukta deneyimleyemez. Bu eksiklik, onun yeniden doğup erken yaşlarda tekrar ölmesiyle telâfi edilir. Cennet yaşamında böyle bir çocukla ilgilenme işi çoğu kez, bu bozukluğa sebep olmuş kişilere düşer. Böylelikle bu kişiler, suçlarını telâfi etme ve daha iyi olmayı öğrenme fırsatını elde ederler. Ya da belki de onlar, zarar verdikleri kişilerin anne babası olurlar ve dünyâda yaşadıkları birkaç yıl boyunca onlarla ilgilenirler. Çocukların ölümlerinde histerik feryatlar kopsa da önemli değildir. Çünkü çocuğun Yaşam bedeninde önemli herhangi bir deneyim sonucunun resmi bulunmaz. 
+
+Bu cennet aynı zamanda dünyâ yaşamlarında çalışkan, sanata yetenekli veyâ fedâkar birisi olmuş bütün kişiler için bir ilerleme yeridir. Öğrenci ve filozof burada, dünyânın tüm kütüphânelerine anında erişim imkânına sahiptir. Ressamda ise, sürekli değişen renk kombinasyonlarının sonsuz zevki bulunur. O, kısa sürede düşüncelerini bu renklere uydurmayı ve bu renkleri istediği gibi değiştirmeyi öğrenir. Onun eserleri, donuk dünyâ renkleri ile çalışan biri için imkânsız olan bir parlaklıkta ve canlılıktadır. Burada tasarımlarını, canlı ve parlak bir malzemeyle ve ruhunu sevinçle dolduran bir kolaylıkla gerçekleştirebilir. Müzisyen ise, sanatını tam olarak icrâ edebileceği yere henüz ulaşmamıştır. Fizik Âlem, bir Form âlemidir. İçinde Araf’ın ve birinci Cennetin bulunduğu Arzu âlem, özellikle bir Renk âlemidir. Fakat ikinci ve üçüncü Cennette bulunan Düşünce âlemi, bir Ses âlemidir. Göksel müzik, gerçek bir olgudur ve sadece simgesel bir ifâde değildir. Pisagor, kürelerin müziğinden bahsederken masal anlatmıyordu. Zira her cennet (göksel) kürenin kendi belirli bir sesi vardır ve bütün göksel küreler birlikte, Goethe’nin cennette geçen “Faust” prologunda da belirttiği gibi göksel senfoniyi oluştururlar. “Faust”ta Yüce Melek Rafael şöyle hitap eder: 
+
+    “Güneş söyler kadim şarkısını   
+    Kardeş kürelere bir şarkı, rakip   
+    Ve tamamlar yazgısını   
+    Yıl boyunca şimşekli yolunu çizip“   
+
+Göksel müziğin yankıları burada Fizik Âlemde bulunan bizlere bile ulaşır. Ele geçmez ve aldatıcı olmalarına ve diğer sanat dallarındaki eserler gibi (örn. bir kitap, bir resim veya bir kitap gibi) kalıcı olarak yaratılamamalarına rağmen onlar, bizim en değerli varlığımızdır. Fizik âlemde bir ses, doğduktan sonra ölür ve kaybolur. Birinci cennette bu yankılar elbette çok daha güzel ve çok daha kalıcıdırlar. Bu yüzden müzisyen burada melodileri, dünyâ yaşamında duyduğundan daha tatlı olarak duyar. 
+
+Şairin deneyimleri, müzisyenin deneyimlerine benzer. Şiir sanatı, ruhun müzikle ‘taşmasını’ yöneten aynı armoni ve ritim yasalarına göre düzenlenmiş en içten duyguların, kelimelerle ruhsal ifâdesidir. Ek olarak şair, Arzu âlemine has resimler ve renklerde hârikulâde bir ilham bulur. Aynı şekilde yazar da yetenek ve materyal biriktirir. Hayırsever kişi de insanlığın ilerlemesini amaçlayan fedâkar planlarını geliştirir. Eğer bir yaşamda başarısızlığa uğramışsa, bu başarısızlığın neden kaynaklandığını birinci Cennette anlayacak ve engelleri aşmayı ve planlarının başarısızlığa uğramasına sebep olan hatalardan kaçınmayı öğrenecektir. 
+
+Zamanla, arınma sebebiyle oluşan acı ve azabın sonucu ile geçmiş yaşamdaki iyi eylemlerden çıkarılan sevincin, birlikte Arzu bedenin tohum-atomuna konulduğu bir noktaya erişilir. Bu ikisi birlikte, bizim vicdan olarak adlandırdığımız şeyi oluştururlar. Vicdan bizi, acıların kaynağı olan kötü eylemlere karşı uyaran ve mutluluğun ve sevincin kaynağı olan iyiye sevk eden güçtür. Bundan sonra insan, Arzu bedenini terk eder ve bu beden çürüyerek dağılır. Ve de kendisiyle birlikte yalnızca tohum-atomun güçlerini alır. Bu atom, geçmişteki duygu araçlarının kalıcı kısmını oluşturduğu gibi gelecekteki Arzu bedenin de çekirdeğini oluşturacaktır. 
+
+Yukarıda belirtildiği gibi tohum-atomun güçleri ondan geri alınır. Materyalistler için güç ve madde birbirinden ayrılmazdır. Okültistin bu konudaki düşüncesi ise farklıdır. Onun için bu iki kavram, tamamen farklı ve ayrı değildirler, aksine bir rûhun iki kutbudurlar. 
+
+    Madde, kristalleşmiş rûhtur.   
+    Güç ise henüz kristalleşmemiş rûhtur.   
+
+Bu daha önce de ifade edilmişti, ancak bu gerçek, zihne ne kadar anlatılsa azdır. Bu bağlamda sivrisinek örneği çok yararlı olacaktır. Kristalleşmiş rûh olan madde, sivrisineğin kristalleşmiş evine karşılık gelmektedir. Maddeyi hareket ettiren kimyasal güç onu, form oluşturmada kullanılabilir hale getirir. Evini kendisiyle birlikte taşıyan sivrisinek, buna iyi bir örnektir. Şu anda sivrisinek olan şey, zamanla sivrisineğin evi olacak ve şu anda güç olan şey, zamanla – daha da kristalleştiğinde - madde olacaktır. Ters yöndeki işlem olan maddenin çözülerek rûha dönüşmesi işlemi de sürekli devam eder. Bu işlemin ana aşamalarını biz, bir insan, araçlarını gerisinde bırakarak terk ettiğinde meydana gelen çürüme olarak görürüz. Zira bu anda bir atomun rûhu, kendisini madde olarak açığa vurmuş rûhtan kolaylıkla ayrılabilir. 
+
+#### <h4 id="the-second-heaven">İkinci Cennet</h4>
+
+En sonunda insan yâni Ego ya da üçüz Rûh İkinci Cennet’e girer. Burada o, zihin kılıfının içerisindedir. Zihnin içinde de terk edilmiş araçların özü olan üç tohum-atomu bulunmaktadır. 
+
+İnsanın, ölüp de yoğun ve yaşam bedenlerini terk ettiğinde içinde bulunduğu durum, uykuya dalan birisinin durumuna benzer. Daha önce de belirtildiği gibi Arzu bedenin kullanıma hazır bir organı yoktur. Bu beden şimdi, yumurta biçiminden, terk edilmiş yoğun bedene benzeyen bir biçime dönüşür. Kolaylıkla anlayabiliriz ki, Arzu Âleminde tekrar uyanmadan önce insanın, uykuya benzer bilinçsiz bir hâli belli bir süre yaşaması gerekir. Bu hâli yaşayan insanların uzun zaman kendilerine ne olduğunun bilincinde olmadıkları görülür. Öldüklerinin farkına varamazlar. Hareket edebildiklerini ve düşünebildiklerini bilirler. Hatta bazen onları gerçekten “öldüklerine” inandırabilmek çok zordur. Bir şeyin değiştiğinin farkındadırlar, ancak bunun ne olduğunu anlayamamaktadırlar. 
+
+Ancak, Arzu Âlemindeki birinci Cennet’ten Somut Düşünce Bölgesi’ndeki ikinci Cennet’e geçildiğinde durum değişir. Zira burada insan, Arzu bedenini terk eder. O şimdi, tamamen bilinçlidir ve büyük bir sessizliğin içine girer. O anda her şey, ona yavaş yavaş yok oluyormuş gibi görünür. Bu aşamadaki insan, düşünemez de. Hiçbir yeti canlı değildir ve ancak şimdi, kendisini bilir. “Büyük Sonsuzluk”ta durduğu, tamamen yalnız olduğu ve ancak korkmadığına ilişkin bir duygu vardır içinde. Ve rûhu, “tüm anlayışı aşan” olağanüstü bir huzur ile doludur. 
+
+Okült ilim bunu, “Büyük Sessizlik” olarak adlandırır. Bundan sonra uyanış gelir. Rûh şimdi, kendi vatanı olan cennettedir. Buradaki ilk uyanış, rûha “küreler müziğinin” sesini getirir. Yer yaşamımızdaki sınırlı çevremizin küçük gürültülerine ve seslerine o kadar dalmışızdır ki, dönen gök cisimlerinin müziğini duyamayız. Fakat bu müziği, okült bilim adamı duyar. O, 12 burcun ve yedi gezegenin “Apollo’nun yedi telli liri”nin kapağını (soundboard) ve tellerini oluşturduğunu bilir. Ve yine bilir ki, bir tek yanlış akort bu görkemli enstrümanın göksel armonisini bozar ve bu da “maddenin harap olmasına ve âlemlerin çökmesine” yol açar. 
+
+Ritmik titreşimlerin gücünü, bu konuda az bir bilgisi olan bile bilir. Örneğin askerler bir köprü üzerinden birlik olarak geçerlerken düzensiz yürüme emrini alırlar, çünkü uygun adım hâlinde ritmik adımlarla yürüme, en güçlü konstrüksiyonları bile mahvedebilir. Kutsal Kitap’ta anlatılan bir hikâyede, koç boynuzunun çıkardığı sesle Jericho şehrinin surlarının aşılması Okültist’in gözünde anlamsız değildir. Dünyâ kibirli inanmazlık içinde gülse de bazı durumlarda buna benzer şeyler hep olur. Birkaç yıl önce bir müzik grubu, eski bir kalenin çok sağlam duvarlarına yakın yerdeki bir bahçede prova yapıyorlardı. Müzik parçasının içerisindeki belli bir noktada çok uzun ve delici bir ton bulunuyordu. Bu nota çalındığında kalenin duvarı âniden çöktü. Müzisyenler ana nota ile duvarı sarsmışlar ve uzun nota ile de onun çökmesine sebep olmuşlardı. 
+
+İkinci Cennetin, sesler âlemi olduğunu söylememiz, burada renklerin olmadığı anlamına gelmez. Bir çok insan bilir ki, ses ve renk arasında içsel bir bağlantı vardır ve belli bir nota çalındığı anda, o notaya karşılık gelen renk oluşur. Cennet âleminde de bu böyledir. Ses ve rengin ikisi de mevcuttur, fakat ses, rengin yaratıcısıdır. Bu yüzden burasının özellikle sesler âlemi olduğunu söylüyoruz. Fizik Âlemdeki tüm formları yapan da bu sestir. Müzisyen kişi, doğanın çeşitli yerlerinde belli sesler duyabilir. Örneğin ormanda rüzgârın sesi, sâhilde sörf tahtasının kırılma sesi, okyanusun kükremesinin sesi veya şelâlenin çağlama sesi. Tüm bu sesler, bir bütün oluştururlar ve bu bütün, Yer’in temel sesidir. İçerisinde kum bulunan bir tepsinin kenarına bir keman yayı sürtüldüğünde nasıl geometrik kum şekilleri oluşuyorsa; etrafımızda gördüğümüz formlar da arketip güçlerin, cennet âlemindeki arketipler üzerinde etkin olan kristalleşmiş ses-figürleridir. 
+
+Cennet âleminde insanın yaptığı iş çok yönlüdür. İnsan orada aktif olmayan, rüya gibi ve aldatıcı bir durumda değildir. Nasıl ki uyku, bir sonraki günün çalışması için bir aktif hazırlanma ise, buradaki çalışma da sonraki yaşam için hazırlıktaki en büyük ve en önemli faaliyeti ifade etmektedir. 
+
+Burada üç bedenin özü, üçüz rûha yerleştirilir. Ve de insan, yaşamı boyunca arzularını ve duygularını arındırmada ne kadar etkili olmuşsa Arzu bedeninin o kadarı, onun insan rûhuyla birleşir. Böylece bu kişi gelecekte daha iyi bir zihne sahip olur. 
+
+Yaşam rûhunun, yaşam bedeninden geliştiği, dönüştüğü, rûhlaştığı ve böylece yaşam bedeninin kalan kısmının mahkûm olduğu çürümeden kurtardığı kısmı ancak, gelecekteki yaşam için daha iyi bir yaşam beden ve mizaç sağlamak amacıyla yaşam rûhuyla birleşir. 
+
+Ve de yoğun bedenin ancak, Tanrısal rûhun doğru davranışla koruyabildiği kısmı Tanrısal rûhla birleşir. Ve de bu sâyede gelecek enkarnasyonlar için daha iyi bir çevre ve daha iyi koşullar sağlanır. 
+
+Araçların bu rûhlaşması gözlem, ayrım etme ve hafıza yeteneklerinin geliştirilmesi ve yüksek ideallere, dualara, konsantrasyona, azme ve yaşam güçlerinin doğru kullanımına kendini adama ile başarılır. 
+
+İkinci Cennet, insanın yâni Ego’nun veyâ düşünürün gerçek vatanıdır. Burada o yüzyıllarca oturur, son yer yaşamının meyvelerini sindirir ve ilerleyişinde sonraki basamak için en uygun olan yersel koşulları hazırlar. Bu bölgeyi kaplayan ve her yerde renk olarak görünüm kazanan ses veya ton, tâbiri câizse onun enstrümanıdır. Üçüz rûha, yaşam iksiri olarak üçüz bedenin özünü katan işte bu armonik ses titreşimidir. Ki rûhun büyümesi bu üçüz bedene bağlıdır. 
+
+İkinci Cennetteki yaşam, çok çeşitlilik gösteren son derece aktif bir yaşamdır. Ego, son dünyâ yaşamının meyvelerini sindirir ve yeni bir fiziksel varoluş için çevreyi hazırlar. Yeni koşulların, henüz sona ermiş yaşama ve ondaki eylemlere bağlı olduğunu söylemek yeterli değildir. Ego, yeni fizik deneyimler ve meyveler kazanmaya devam ederken, geçmişin meyvelerinin de rûhun faaliyetinin sonraki sahnesi olacak olan âlemde işlenmesi gereklidir. Bu yüzden Cennet âleminin tüm sâkinleri, tümü Somut Düşünceler Bölgesi’nde bulunan yer modelleri üzerinde çalışırlar. Onlar, yerin fiziksel özelliklerini değiştirirler ve böylece yerin görünüşünde gitgide değişimler meydana getirirler. Böylelikle fizik yaşama bir sonraki dönüşlerinde, içinde yeni deneyimlerin toplanabileceği farklı bir çevre hazırlamış olurlar. İklim ile bitki ve hayvan âlemleri, daha yüce varlıkların yönetimi altındaki insan tarafından değiştirilir. Bu varlıklardan daha ileride bahsedeceğiz. Böylece dünyâ, biz onu bireysel ve kollektif olarak nasıl biçimlendirdiysek, tam olarak öyledir. Ve gelecekte de onu nasıl biçimlendireceksek öyle olacaktır. Okült bilim adamı, meydana gelen her şeyin arkasında kendini açığa vuran rûhsal doğayı görür ve de depremlerin, alarm verecek şekilde artan yaygınlık alanlarını ve sıklıklarını unutmaz. Ve de okült bilim adamı bunun sebebini, modern bilimin materyalist düşüncesi olarak görür. 
+
+Sadece fiziksel sebeplerin böyle depremlere yol açabileceği doğrudur. Fakat bu, bu konu üzerine söylenebilecek son söz müdür? Yer yüzeyinde meydana gelen olayların tam izahına, sadece bu olayların kayıtlarına bakarak ulaşabilir miyiz? Elbette ki hayır! Sokakta birbiriyle konuşan iki adam görüyoruz, adamlardan biri birden ötekine vurup yere düşürüyor. Olayı gören biri, olayın sebebinin öfkeli kişi olduğunu söyleyebilir. Bir başka kişi de bu açıklamayla alay edecek ve havadaki kola ve kasların gerilmesine işaret ederek, kurbanla temas edenin kol olduğunu ve olayın sebebinin de kol olduğunu ileri sürecektir. Bu da doğrudur. Ancak şu da doğrudur ve hatta kesindir ki, ilk önce öfke düşüncesi olmasaydı, adam diğerine vurmayacaktı. Okültist aynı şekilde der ki, materyalizm olmasaydı deprem de olmazdı. 
+
+Yer yüzeyi, insanın Fizik Âlemi zaptetmede gelecekteki mücâdelelerine sahne olacaktır. Yine de cennet âleminde insanın işi sadece yer yüzeyinin biçimini değiştirmek değildir. O aynı zamanda aktif olarak, kendini hep daha iyi ifâde etmenin bir aracı olan vücûdun nasıl inşâ edileceğini öğrenmekle meşguldür. İnsanın yazgısı, yaratıcı bir zekâ olmaktır ve o, sürekli çırak olarak çalışır. Cennet’teki yaşamı esnasında o, insan vücûdu da dahil olmak üzere her türlü vücûdu yapmayı öğrenir. 
+
+Farklı eterlerin pozitif ve negatif kutupları boyunca etkin olan güçlerden bahsetmiştik. İnsanın kendisi de bu güçlerin bir parçasıdır. Bizim ölü olarak adlandırdıklarımız, bizim yaşamamıza yardım edenlerdir. Onlar, emirleri altındaki “doğa rûhları”ndan yardım alırlar. İnsan, çalışmalarında daha yüksek yaratıcı Hiyerarşilerden Öğretmenler tarafından yönlendirilir. Bu öğretmenler onun, öz- bilinç’e erişmeden önce, kendi araçlarını yapmasına da yardım ederler. O zamana kadar o, şimdi vücûdunu uykuda tekrar inşa ettiği gibi inşa ediyordu. Öğretmenleri cennet yaşamı süresince onu bilinçli bir şekilde eğitirler. Ressama, mükemmel bir perspektif alma ve renkleri ve gölgeleri, renk ve ışıkla ilgilenmeyen birinin anlayamayacağı derecede ayırt edebilen kusursuz gözler yapma öğretilir. 
+
+Matematikçinin uğraşısı ise mekânladır. Mekân algılama yetisi, kulağın iç tarafında bulunan ve her biri uzayın bir boyutunu belirten üç yarı dairesel kanaldaki hassas değişimlerle bağlantılıdır. Mantıksal düşünme ve matematik yeteneği, bu yarı dairesel kanallardaki değişimlerin kesinliğiyle orantılıdır. Müzik yeteneği de aynı faktöre bağlıdır. Fakat yarı-daire biçimli kanalların ince uyumunun zorunlu olmasına ek olarak müzisyen, insan kulağındaki her biri yaklaşık 25 farklı ses derecesini algılayabilen yaklaşık on bin adet “Corti lifi”nin aşırı duyarlılığına gereksinim duyar. İnsanların çoğunun kulakları, varolan derecelerden yalnızca üç ilâ onuna tepki verirler. Ortalama müzisyenlerde bu sayı, lif başına maksimum 15 sese kadar çıkar. Fakat müziği cennet âleminden buraya yâni aşağıya getirme ve onu çevirme yeteneğine sahip dâhi bir müzisyen, farklı notaları ayırt edebilmek ve en karmaşık akortlarda dâhi an küçük akortsuzluğu sezebilmek için daha yüksek bir hassasiyete gereksinim duyar. Yeteneklerini ifade edebilmeleri için böyle özel hassasiyette organlara ihtiyaç duyan kişilere, özel bir özen gösterilir. Zira bu kişiler, gelişimlerinde diğerlerinden daha yüksek bir aşamadadırlar ve bu aşamada gerekli olan ve hakettikleri özeni görürler. Başka hiçbir sanatçının mertebesi, müzisyenin mertebesi kadar yüksek değildir. Bunun nedeni de açıktır. Ressam, ilhamlarını başlıca Arzu Âlemine yakın renkler âleminden yaratırken müzisyen bizi, içinde rûhlar olarak oturduğumuz ve anavatanımız olan cennetin atmosferini getirmeye ve onu yer yaşamının seslerine çevirmeye çalışır. Sanatçı olarak en yüksek misyon onunkidir ve rûh yaşamının ifâde biçimlerinden en yüksekte olanı da müziktir. Müziğin, diğer sanatlardan farklı ve daha yüksek olduğunu şöyle de anlayabiliriz. Bir heykel veya resim, bir kez yaratıldıktan sonra kalıcıdır. Diğer sanatlar, Arzu Âleminden gelirler ve bu yüzden de daha kolay kristalleşirler. Müzik ise Cennet âlemine aittir ve daha ele geçmez bir yapıya sahiptir ve bu yüzden onu her duymak istediğimizde yeniden yaratılması gerekir. O, özellikle bazı mekanik aletlerle yaratılan fonograflar ve piyano çalıcılar (1909) gibi başarısız girişimlerde de görüldüğü üzere hapsedilemez. Bu şekilde üretilen müzik, kendi âleminden gelir gelmez rûhu titreten tatlılığından çok şey kaybeder. Canlı icrâ edilen müzikse rûhu kendi evinin anılarına götürür ve ona, hiçbir mermerde veya tuvalde ifâde edilemeyecek bir güzellikteki dilden konuşur. 
+
+İnsanın müziği algıladığı enstrüman olan kulak, insan bedenindeki en mükemmel duyu organıdır. Göz, bu konuda kesinlikle güvenilir değildir ve gördüğü şeyleri bozulmaya (distorsiyon) uğratır, fakat kulak her türlü sesi bozulmaya (distorsiyon) uğratmadan duyar. 
+
+Müzikal kulağa ek olarak müzisyen ayrıca, narin parmaklara ve hassas sinirlere sahip ince ve zarif eller yapmayı da öğrenmelidir. Aksi takdirde o, duyduğu melodileri yeniden üretemeyecektir. 
+
+Bu bir doğa yasasıdır, hiç kimse, yapabileceğinden daha iyi bir bedende oturamaz. Önce kişi, belli bir kalitedeki vücûdu yapmayı ve bundan sonra da onun içinde yaşamayı öğrenir. Bu şekilde kendi hatalarını keşfeder ve onu nasıl düzeltebileceği kendisine öğretilir. 
+
+Tüm insanlar, doğum öncesi yaşamları boyunca bedenlerinin yapımında bilinçsiz bir şekilde çalışırlar. Kendileri tarafından saklanmış olan önceki bedenlerinin özünün, bu bedenin içine konulacağı andan sonra ise bilinçli çalışma başlar. Buradan da görülür ki, insan ne kadar çok gelişir ve araçları üzerinde ne kadar çok çalışırsa onları o kadar ölümsüz yapar ve yeni bir yaşam inşa etmek için o kadar çok güce sahip olur. Bir okült okulun ilerlemiş bir öğrencisi, (yalnızca anneye ait olan ilk üç hafta tamamlanır tamamlanmaz) hemen kendi yeni bedenini yapmaya başlayabilir. Bilinçsiz yapım aşaması sona erdiğinde insanın, yeni doğmuş yaratıcı gücünü kullanma şansı doğar ve gerçek yaratıcı süreç olan “Epigenesis” (Hücreden Yaratım) başlar. 
+
+Böylece görürüz ki, cennet âleminde insan, araçlarını yapmayı ve Fizik Âlemde de onları kullanmayı öğrenir. Doğa, tüm deneyim evrelerini öyle hayret verici bir şekilde ve öyle mükemmel bir bilgelikle hazırlar ki ne kadar onun sırlarının derinliklerine bakmayı öğrenirsek o kadar çok kendi önemsizliğimiz ve Tanrı’nın yüceliği duygusuyla dolarız. Ki doğa, Tanrı’nın görünür sembolüdür. Bu dünyâ sistemi, düşüncesiz insanların bizi inandırmaya çalıştıkları gibi sürekli devinen çok büyük mekanik bir makine değildir. Doğanın mucizelerinden ne kadar çoğunu öğrenirsek, bundan o kadar çok emin oluruz. Doğanın tesâdüflerden oluştuğuna inanmak, havaya atılan ve içi metal harflerle dolu olan bir kutudan saçılan harflerin yere düşerek çok güzel bir şiirin kelimelerini oluşturacağını varsaymak kadar mantıksızdır. Plan’ın karmaşıklığı ne kadar büyükse, bir akıllı ve Tanrısal Yaratıcı teorisinin lehine olan kanıtların gücü de o kadar artar. 
+
+#### <h4 id="the-third-heaven">Üçüncü Cennet</h4> 
+
+Şimdi artık Ego, en son yaşamının tüm meyvelerini sindirmiş ve mükemmelliğe doğru bir sonraki adımı için Yerin görünümünü, kendisine gerekli çevreyi oluşturacak şekilde değiştirmiştir. Ve başkalarının vücûdu üzerinde de çalışıp, Fizik Âlemde kendini ifâde edebileceği ve kendine uygun bir vücudu yapmayı öğrenmiştir. Ve son olarak da Ego, üçüz rûhu oluşturan cevherde zihni çözmüştür. Bundan sonra çıplak ve bireysel Rûh, Düşünce Âleminin daha yüksek Bölgesi olan Üçüncü Cennet’e çıkar. Burada o, bu yüce âlemin tarif edilemez armonisi sayesinde maddeye yapacağı yeni iniş için kuvvet toplar. 
+
+Bir müddet sonra yeni deneyim arzusu ve yeni bir doğum düşüncesi gelir. Bu, bir dizi resmin rûhun önünde oluşmasına sebep olur: Bu, onu bekleyen yeni yaşamın filmidir. Fakat dikkat edilmesi gerekir ki bu film, yalnızca en önemli olayları göstermektedir. Detaylar ise rûhun serbest iradesine bırakılmıştır. Bu, yabancı bir şehre geziye gidecek ve bunun için de süre sınırlı bir bileti olan bir adamın, güzergah seçiminde serbest olması gibidir. Güzergahı seçtikten ve yolculuğa başladıktan sonra onun, yolculuk esnasında o güzergâhı değiştirmeyeceği belli değildir. Bu sınırlı süre boyunca istediği kadar çok yerde kalabilir, fakat geri dönemez. Yolculuğuna başladığı yerden, yaptığı seçime göre uzaklaştıkça hep daha sınırlı bir hale gelir (sınırlı bir seçim hakkı olur). Eğer o, kömür tozu ile ısıtılan bir buharlı tren yolunu seçtiyse, kirli ve tozlu olmayı göze alacaktır. Antrasit yakan veya elektrik kullanan bir treni seçtiyse daha temiz kalabilir. Yeni yaşamda da aynen böyledir. Zor bir yaşam sürmek zorunda olabilir, fakat onu temiz mi, çamurlara bulanarak mı yaşayacak? Bu onun kendi seçimine bağlıdır. Yaşamının diğer koşulları da, geçmiş seçimlerinin ve eylemlerinin sınırları içinde kalmak kaydıyla onun kontrolü altındadır. 
+
+Gelecek yaşama ait filmin resimleri, beşikte başlar ve mezarda sona erer. Bu resimler, ölümden sonra rûhun yoğun bedenden çözülmesinin hemen ardından önünden geçen filmin resimlerinin tersi yöndedir. Bu filmden daha önce bahsetmiştik. İki film arasındaki bu temel farkın nedeni, doğum öncesi filmin amacının tekrar bedenlenen Ego’ya, belli nedenlerin ve eylemlerin daima nasıl belli sonuçlar üreteceğini göstermektir. Ölümden sonraki filmde ise durum tersinedir. Onun amacı ise, geçmiş yaşamda meydana gelen her bir olayın nasıl daha önceden bir sebebi olduğunu göstermektir. Doğa veya Tanrı, mantıklı bir sebebi olmaksızın hiç bir şey yapmaz. Ne kadar çok araştırırsak bize o kadar âşikâr olur ki, doğa, hedefe ulaşmak için her zaman en iyi vasıtaları kullanan akıllı bir annedir. 
+
+Fakat sorulabilir, neden biz yeniden doğmak zorundayız? Neden bu sınırlı ve sefil Yer hayatına yeniden dönmek zorundayız? Neden deneyimlerimizi Yer’e gelmeden yüksek âlemlerde toplayamıyoruz? Biz bu kasvetli ve yorucu Dünyâ yaşamı yorgunuyuz! 
+
+Böyle soruların temelinde çeşitli yanlış anlamalar bulunmaktadır. Her şeyden önce şunu anlayalım ve hafıza tahtamıza derin bir şekilde kazıyalım ki, yaşamın amacı mutluluk değil, deneyimdir. Dert ve acı, bizim en hayırlı öğretmenlerimizdirler. Halbuki yaşamın sevinçleri yalnızca geçici şeylerdir. 
+
+Bu, kasvetli ve sert bir öğretiymiş gibi gözükmektedir ve kalp, bunun doğru olabileceği düşüncesinden bile ürker. Ancak bu öğreti doğrudur ve daha yakından incelendiğinde o kadar da katı bir öğreti olmadığı görülecektir. 
+
+Acının faydalarını göz önüne alalım. Hiçbir acı duymaksızın elimizi sıcak bir sobaya değdirebilseydik, muhtemelen onu, elimiz –belki de kolumuz da- tamamen yanıncaya kadar öylece bırakırdık. Ve bizim bu esnada hiçbir şeyden haberimiz olmazdı. Böylelikle yanan bir eli kurtarmak için çok geç olurdu. Sıcak soba ile elin temasından sonra ortaya çıkan acı, biz ciddi bir zarar görmeden elimizi sobadan çekmemizi sağlar. Böylece elimizi kaybetmek yerine çabucak iyileşen bir kabarcıkla bu olayı atlatırız. Bu, Fizik Âlemden bir örnektir. Aynı prensibin Moral ve Ruhsal Âlemler için de geçerli olduğunu görürüz. Moral bir kötülük yaptığımızda vicdan azabımız bize, aynı eylemi tekrarlamamızı engelleyecek şekilde acı verecektir. Ve biz onun verdiği bu derse dikkat etmezsek doğa, bize en sonunda “azanın yolunun çetin” olduğunun bilincine varana kadar bize hep daha sert deneyimler yaşatacaktır. Bu, en sonunda biz, yeni bir yöne yönelene ve daha iyi bir yaşama doğru bir adım atana kadar devam eder. 
+
+Deneyim, “eylemleri takip eden sonuçların bilgisidir”. İradenin gelişimi ile birlikte bu, hayatın amacıdır. “İrade”, kendisi aracılığıyla deneyim sonuçlarını uyguladığımız güçtür. Biz deneyim kazanmak zorundayız. Fakat bunu, ya kişisel deneyimin zorlu yolu aracılığıyla ya da diğer kişilerin eylemlerini, şimdiye dek edindiğimiz deneyimlerin ışığında dikkatlice gözleyerek ve üzerinde düşünerek yapma tercihimiz vardır. 
+
+Talihsizlik ve acı istemek yerine okült öğrencinin öğrenmesi gereken deneyim budur. Bu yöntemle öğrenmeye ne kadar istekli olursak o kadar az “acı yolu”nun dikenlerini hissederiz ve o kadar da çabuk “huzur yolu”na erişmeyi başarırız. 
+
+Tercih bizimdir. Ancak bu dünyâda öğrenebileceğimiz her şeyi tam olarak öğrenmediğimiz sürece, buraya geri dönmek zorundayız. Yüce âlemlerde kalamayız ve yer yaşamının derslerini tam olarak kavramadan önce orada öğrenemeyiz. Bu, bir çocuğu anaokuluna gönderip, ertesi gün onu üniversiteye yollamak gibi anlamsız bir şey olurdu. Çocuk, gün be gün anaokuluna dönmek zorundadır ve ilkokulda ve lisede yıllar geçirmek zorundadır ki üniversite öğrenimini anlayabilmesi için kapasitesi yeterince gelişmiş hale gelsin. 
+
+İnsan da okuldadır, onun okulu deneyimler okuludur. Duyular âlemindeki ( dünyâdaki) tüm bilgiyi tam olarak öğrenmeden önce o, birçok kereler geri gelmek zorundadır. Deneyim bakımından çok zengin olsa bile hiçbir yer yaşamı, tüm bilgiyi kapsayamaz ve doğa, kısa dinlenme aralarından sonra onun Yere geri dönmesini emreder. Ve o, işine bıraktığı yerden tekrar başlar. Tıpkı her sabah çocuğun okulunda, uykuyla geçirdiği bir gecenin ardından derslerine bıraktığı yerden devam etmesi gibi. İnsanın geçmiş yaşamlarını hatırlamaması da bu teoriye karşı kanıt olarak ileri sürülemez. Biz, şimdiki yaşamımızın tüm olaylarını bile hatırlayamayız. Yazmayı öğrenmek için verdiğimiz çabaları da hatırlamayız, ancak yazma sanatı ile ilgili bilgiyi edinmişizdir. Bu da bizim onu öğrendiğimizin kanıtıdır. Sahip olduğumuz bütün yetiler, onları bir zaman bir yerde öğrendiğimizin kanıtıdır. Kitabın sonraki kısmının son bölümünde de gösterileceği gibi bazı insanlar geçmiş yaşamlarını hatırlarlar. Ve bu şekilde birçok kişi vardır. 
+
+Yer’e geri dönüş olmasaydı yaşamın amacı ne olurdu? O halde herhangi bir şey için çabalamak niye? Neden iyi bir yaşamın ödülü sonsuz cennette mutluluk dolu bir yaşam olsun? Herkesin zaten mutlu olduğu bir cennette insanın iyi bir yaşamının bulunmasının faydası nedir? Herkesin mutlu ve hoşnut olduğu bir yerde dert ortaklığının, kendini fedâ etmenin veya iyi öğütün olmayacağı kesindir. Bunlara orada kimsenin ihtiyacı olmazdı. Fakat yeryüzünde bu şeylere ihtiyaç duyan pek çok insan vardır ve böyle insani ve fedakârca özellikler, sürekli çabalayan insanlık için en büyük hizmetlerdir. Bu yüzden, İyilik için çalışan Büyük Yasa, kendisinin ve diğerlerinin yararına çalışsın diye insanları dünyâya tekrar geri getirir. Geri gelen bu insanlar, daha önceden edinmiş oldukları hazineleriyle gelirler. Ki bu hazineler cennette hiçbir işe yaramazlar, çünkü kimsenin onlara ihtiyacı yoktur. 
+
+#### <h4 id="preparations-for-rebirth">Yeniden Doğuşa Hazırlık</h4> 
+
+Tekrarlanan bedenlenmelerin gerekliliğini gördükten sonra şimdi de bu amaç için uygulanacak metodu inceleyeceğiz. 
+
+Maddeye dalmadan önce üçüz Rûh çıplaktır ve sadece dört tohum-atomunun (üçüz bedenin üç çekirdeği ve zihin kılıfı) güçlerine sahiptir. Onun inişi, daha önce verdiğimiz bir örnekte bahsettiğimiz gibi, her basamakta birbirinden daha büyük ve kalın eldivenlerin birbirleri üzerine giyilmesine benzer. Son yaşamın zihin güçleri, tohum-atom’daki gizil hallerinden uyandırılırlar. Tohum-atom, mıknatısın demir parçalarını çekmesi gibi Somut Düşünce Bölgesinin en yüksek alt- bölgesinden maddeyi kendine çekmeye başlar. 
+
+Eğer bir mıknatısı pirinç, gümüş, demir, altın, kurşun ve diğer metallerin parçacıklarından oluşan bir yığının üzerine tutarsak görürüz ki mıknatıs, sadece demir parçacıklarını kendine çeker. Ve ayrıca mıknatıs, gücünün taşıyabileceği miktarda demirden fazlasını çekemez. Mıknatısın çekim gücü, sadece özel bir tür için geçerlidir ve bu tür için de belli bir miktarla sınırlıdır. Aynı şey, tohum-atom için de geçerlidir. Tohum-atom da her Bölgeden sadece ilgi duyduğu maddeyi çekebilir ve çekebileceği madde miktarı da belirli bir değerin üzerine çıkamaz. Böylece bu çekirdeğin etrafına çekilen maddeden oluşan araç, son yer yaşamındaki aracın tam bir kopyası hâline gelir. Ancak arınma sayesinde önceki araca göre bu araçtaki Kötülük azalmış ve tohum-atomda cisimlenmiş olan İyilik özü de artmıştır. 
+
+Üçüz Rûh tarafından seçilmiş olan madde kendisini, en yüksek noktasında tohum-atomu bulunan ve alt kısmı açık olan büyük bir çan şekline sokar. Bunu bir dalıcı çanı[38] ile karşılaştırabiliriz. Bu dalıcı çanının, derine indikçe yoğunluğu artan farklı sıvı tabakalardan meydana gelmiş bir göle daldırıldığını düşünelim. Burada yoğunlukları farklı sıvı tabakaları, her bir âlemin farklı alt-bölgelerini temsil etmektedir. Çan şeklindeki yapının içine dolan madde, onu daha ağır yapar. Böylece o, bir alttaki daha yoğun tabakaya batar ve yine içine bu daha yoğun tabakanın maddesinden de belli bir miktarı alır. Böylelikle çan, daha ağır bir hale gelir ve daha da aşağıya doğru batmaya devam eder. Bu batış çanın, Somut Düşünce Bölgesi’nin dört alt-bölgesini geçmesine ve insanın yeni zihninin kılıfının tamamlanmasına dek devam eder. Bundan sonra, Arzu bedenin tohum-atomundaki güçler uyandırılır. Bu tohum-atom çanın en üstüne, iç tarafa yerleşir ve Arzu Âleminin yedinci bölgesindeki madde, onun etrafına doğru çekilip, bir alt bölge olan altıncı bölgeye batıncaya kadar etrafını kaplar. Çan altıncı bölgeye düştüğünde de altıncı bölgenin maddesi onun etrafını kaplar ve bu şekilde çan, Arzu Âleminin birinci bölgesine ulaşıncaya kadar maddeyi kendisine çeker. Buraya ulaştığında çan, iki tabakaya sahiptir: dışta zihin kılıfı ve içte de yeni Arzu beden bulunur. 
+
+Bundan sonra da Yaşam Beden’in tohum-atomu, aktif hâle geçirilir. Fakat buradaki olay, zihin ve Arzu bedende olduğu kadar basit değildir.Okuyucu, bu iki aracın diğerlerine göre daha az organize olduğunu hatırlayacaktır. Halbuki Yaşam Beden ve Yoğun Beden daha fazla organizedir ve çok karmaşıktır. Yüksekteki iki bedende olduğu gibi yine belirli miktar ve kalitedeki madde, aynı şekilde ve aynı yasaya bağlı olarak burada da çekilir. Fakat yeni bedenin inşası ve onun doğru çevreye yerleştirilmesi, Tutanak Melekleri ve “Kaderin Efendileri” olarak da adlandırılan sınırsız bilgeliğe sahip dört yüce Varlık tarafından gerçekleştirilir. Bunlar, yaşam bedenin yansıtıcı eterini öyle bir etkilerler ki, gelen yaşamın resimleri onun üzerine yansır. Bu Yaşam beden, Cennet âleminin sâkinleri ve elementel Rûhlar tarafından, özel bir beyin tipi oluşacak şekilde yapılır. Fakat dikkat edilmelidir ki tekrar dönen Ego, daha önceki yaşam bedenlerinin özünü de onun içine katar ve buna ek olarak biraz da özgün çalışma yapar. Bu, gelecek yaşamda özgün ve bireysel bir kendini ifade için yeterli alanı olması ve her şeyin geçmiş eylemler tarafından önceden belirlenmiş olmaması için yapılır. 
+
+Bu gerçeği hatırlamak çok önemlidir. Şu anda varolan her şeyin, daha önce olmuş olan bir şeyin sonucu olduğunu düşünmeye doğru çok büyük bir eğilim vardır. Ve eğer bu gerçekten böyle olsaydı, yeni ve orijinal çabalar ve yeni nedenler için hiçbir alan kalmazdı. Sebep ve sonuç zinciri, monoton bir tekrarlama değildir. Sürekli olarak yeni ve orijinal sebeplerin bir akını vardır. Bu, evrimin gerçek omurgasıdır. Evrime anlam veren ve de evrimi, örtülü gerçekliklerin sadece düz bir şekilde açılması hâline gelmekten kurtaran tek şey budur. Bu, “Epigenesis”dir; yâni sadece iki farklı eylemi seçme değil, tamamen yeni bir şey yaratma özgürlüğünden oluşan hür irâdedir. Bu, bizim de ait olduğumuz sistemi kâfi derecede açıklayan önemli bir faktördür. Çürüme (involution) ve Evrim (evolution) bunu açıklamada tek başlarına yetersizdirler. Fakat Epigenesis ile birleştirildiklerinde konunun tam izahını veren üçlü bir takımı oluştururlar. 
+
+Sebep ve Sonuç Yasası’na göre belirlenen bir bireyin kaderi, çok karmaşıktır. Bu kader, fiziksel varlığın içindeki ve dışındaki Ego ile sürekli olarak bağlantılıdır. Aynı zaman dilimi içerisinde yaşayanlar bile, topluca aynı yerde olamazlar. Böylece bir bireyin kaderinin bir yaşam döneminde veya bir yerde yaşanıp bitmesi mümkün değildir. Bu yüzden de Ego, bir şekilde ilişkili olduğu belli bir çevre ve aile içine getirilir. Yaşanılacak kadere gelince, bazen Ego’nun olası birçok çevreden hangisine doğacağı önemli değildir ve böyle bir durumda tercihi, mümkün olduğunca kendisinin yapmasına izin verilir. Fakat bir kere Ego yerleştirildi mi, Kaderin Efendileri’nin ajanları görünmeden onu izlerler. Ve onun hür irâdesinin hiçbir eyleminin, seçilmiş olan kaderin herhangi bir kısmını boşa çıkarmamasını sağlarlar. Eğer biz bu kısmı atlayacak herhangi bir şey yaparsak bu ajanlar, hemen başka bir hamle yaparlar ve bizi, kaderin yerine getirilmesine zorlarlar. Fakat bunun insanları âciz kılmadığı ne kadar söylense azdır. Bu, bir tabancayı ateşlediğimizde olanla aynı şeydir. Ateş edildikten sonra artık mermiyi durduramayız ve hatta onu herhangi bir şekilde yörüngesinden saptıramayız. Merminin yönü, tabancanın ateşlendiği anda tutulduğu konumla belirlenmiştir. Bu konum, tetiğe basılmadan önceki herhangi bir zamanda değiştirilebilirdi, zira bu anda bu eylem hakkında tam bir kontrole sahiptik. Bu durum aynı şekilde, gelecekteki kaderi oluşturan yeni eylemlerde de geçerlidir. Belli bir noktaya kadar harekete geçmiş nedenleri değiştirebilir ve hatta onları tamamen önleyebiliriz. Fakat bu sebepler bir kere etkin olduklarında artık onları hiçbir şey durduramaz ve onlar kontrolümüzden çıkmışlardır. Bu olay, “olgun” kader olarak adlandırılır. Kaderin Efendileri, kişinin kendi kaderinden kaçmaya yönelik her girişimini durdurduğu için bu kader türüne “olgun” kader adı verilmiştir. Geçmişimiz karşısında büyük ölçüde çaresiziz, fakat gelecekteki eylemlerimiz üzerinde, geçmişteki eylemlerimiz tarafından engellenmediğimiz sürece tam kontrole sahibiz. Böylece yavaş yavaş, kendi acı ve neşemizin sebebinin yine kendimiz olduğunu öğrenmekteyiz. Bu deneyim bizi, yaşamımızı Tanrı’nın yasalarıyla daha fazla uyumlu hale getirme ve böylelikle Fizik Âlemin yasalarının üzerine yükselme gerekliliğinin bilincini verir. İşte bu, Goethe’nin söylediği gibi kurtuluşun anahtarıdır: 
+
+    Tüm varlıkları zincirleyen güçten   
+    Kurtarır kendini, kendini yenen   
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Kaderin Efendileri tarafından biçimlendirildikten sonra yaşam beden, yoğun bedene organ organ biçim verir. Sonra da bu yapı veya kalıp, gelecekteki annenin rahmine yerleştirilir. Yoğun bedenin tohum-atomu, babanın menisindeki sperm hücrelerinden (spermatozoa) birinin üçgen kafasında bulunur. Sadece bu hücre döllenmeyi sağlayabilir ve cinsel birleşmelerin bu kadar çok kere verimsiz olmasına neden olur. Meninin ve kadın yumurtasının kimyasal bileşenleri her zaman aynıdır. Sadece bunlar bir döllenmenin meydana gelmesinde etkin olan faktörler olsalardı, genellikle nedeni maddesel, görünür Dünyâ’da aranan kısırlık sorununun açıklaması bulunamazdı. Su moleküllerinin homojen bir kitle halinde donmak yerine sadece, suda bulunan güç çizgileri boyunca donduğunu ve bu güç-çizgilerinin kendisini su kristalleri olarak ifade ettiğini hatırlayalım. Su eğer homojen bir kitle halinde donmuş olsaydı donma olayından önce hiçbir güç çizgisi bulunmazdı. Aynı şekilde önceden, içinde bileşenlerin inşa edilebileceği bir Yaşam Beden olmaksızın Yoğun Beden yapılamaz. Yoğun bedenin inşasında kullanılan malzemenin kalite ve miktarının ölçüsü olarak hizmet etmek üzere yoğun beden için de, bir tohum-atom bulunmalıdır. Gelişimin şu anki aşamasında yoğun bedenin bileşenleri arasında tam bir uyum kesinlikle olmamasına karşın (ki tam bir uyum olsaydı, bu onun mükemmel bir beden olduğu anlamına gelirdi) yine de uyuşmazlık, organizmayı bozacak kadar büyük olmamalıdır. 
+
+Kalıtım, sadece Yoğun Bedenin bileşenleri söz konusu olduğunda doğrudur. Rûhun özellikleri ise tamamen kişiseldir. Yeniden doğan Ego, kendi yoğun bedeninde de geçmiş fiziksel özelliklerinin özünü onun içine katarak belli bir miktarda iş yapar. Ego, sadece baba ve annenin vücûtlarından alınan maddeleri kullanabiliyor olsa da hiçbir vücût, sadece anne babanın özelliklerinin bir karışımı değildir. Bu yüzden müzisyen, nârin elleri ve duyarlı kortik liflere ve hassas ayarlı üç yarı-dairesel kanala sahip hassas kulakları yapabileceği maddeyi bulduğu bir ortamda yeniden bedenlenir. Bununla birlikte bu maddelerin düzenlenmesi Ego’nun kontrolü altındaki sınırlar içerisindedir. Bu tıpkı, insanın bir marangoza içinde yaşayacağı evin yapımında kullanılmak üzere belli bir miktar kalası vermesi, ancak yapacağı evin nasıl olacağını onun fikrine bırakması gibidir. Çok yüksek düzeyde gelişmiş varlıkların haricinde insan evriminin şu anki aşamasında Ego’nun bu işi tamamen önemsizdir. Ona en büyük hareket serbestliği, Arzu Bedenin yapımı için verilir. Ego, Yaşam Bedenin yapımı için ise çok çok küçük bir hareket serbestliğine sahiptir. Yoğun Bedenin yapımı içinse hiçbir hareket serbestliğine sahip değildir. Fakat bu kadar az hareket serbestliği bile her bir bireyi kendi rûhunun bir ifâdesi yapmaya ve onu ana babasından farklı kılmaya yeter. 
+
+Yumurtanın döllenmesi gerçekleştikten sonra annenin Arzu bedeni, döllenmiş yumurtanın üzerinde onsekiz ilâ yirmi bir günlük bir süre boyunca çalışır. Bu süre esnasında Ego, kendi Arzu bedeninin ve zihin kılıfının içinde kalır, ancak yine de anne ile yakın temastadır. Sürenin dolmasından sonra Ego, annenin bedeni içine girer. Çan biçimli araçlar, yaşam bedenin kafası üzerine inerler ve de çan, aşağı kısmından kapanır. Bu andan itibaren Ego, çocuğun doğumuna ve böylece yeniden dönen Ego’nun yeni yer yaşamına başlamasına dek yavaş yavaş oluşan araçları üzerinde kuluçkaya yatar. 
+
+#### <h4 id="birth-of-the-dense-body">Yoğun Bedenin Doğuşu</h4>
+
+Yeni doğmuş bir bebeğin araçları hemen aktif hâle gelmezler. Doğumdan sonra uzun bir süre yoğun beden âcizdir. Yüksek araçların durumu da aynı şekildedir. Okült ilim adamı bunu görür ve durugörü yeteneği olmadan da bunun böyle olması gerektiğini görür. Nasıl yoğun beden, ana rahminin koruyucu örtüsü içinde yavaş yavaş ayrı ve bireysel bir yaşama hazırlanıyorsa, aynı şekilde diğer bedenler de yavaş yavaş doğmalı ve aktif hale getirilmelidir. Aşağıda belirttiğimiz zamanlar sadece yaklaşık zaman olsalar da, genel amaçlar için yine de yeterince kesindirler ve Mikrokozmos ile Makrokozmos (birey ile dünyâ) arasındaki ilişkiyi gösterirler. 
+
+Doğumun hemen sonrasındaki dönemde farklı araçlar birbirlerinin içine nüfuz ederler, tıpkı daha önce verdiğimiz örnekte kumun, süngerin içine nüfuz etmesi ve suyun da bu ikisinin içine nüfuz etmesi gibi. Yetişkinlerde varolan araçların tamamı yeni doğmuş çocuklarda da bulunur, ancak pasif ve gelişmemiş (latent) bir durumdadır. Onların pozitif yetilerinden hiçbiri aktif halde değildir. Yaşam beden henüz güçlerini Eterlerin pozitif kutbu boyunca kullanamaz. Kimyasal eterin pozitif kutbu boyunca çalışan sindirim sistemi, çocukluk çağında çok narindir ve makrokozmik yaşam beden aracılığıyla etkinlik gösterir. Makrokozmik yaşam bedenin eteri, yedi yaşına kadar çocuğun yaşam bedeni için rahim görevi görür. Ve de bu süre boyunca onun derece derece olgunlaşmasını sağlar. Yaşam eterin pozitif kutbu boyunca etkin olan üreme yetisi de aynı şekilde pasif ve gelişmemiştir. Çocuk, ışık eterin pozitif kutbu aracılığıyla gerçekleşen bedenin ısıtılma işlemini ve kan dolaşımını da makrokozmik yaşam bedene borçludur. Eterler, çocuk üzerinde faaliyet gösterirler ve onun yavaş yavaş bu fonksiyonları kendi başına kontrol edebileceği noktaya doğru gelişimini sağlarlar. Eterlerin negatif kutbu aracılığıyla çalışan güçler de aynı şekilde çok aktiftirler. Hatta çocukta (Kimyasal Bölge’nin katı alt-bölgesine karşılık gelen) kimyasal eterin negatif kutbu boyunca gerçekleşen katı maddelerin vücuttan boşaltımı işlemi, çok kontrolsüzdür ve frenlenemez. (Kimyasal bölgenin ikinci ya da sıvı alt-bölgesine karşılık gelen) yaşam eterinin negatif kutbu boyunca gerçekleşen sıvıların vücuttan atılması işlemi de aynı şekilde kontrolsüzdür ve frenlenemez. Işık eterin negatif güçlerinin bir sonucu olan pasif duyusal algılar da son derece dikkat çekicidir. Çocuk, etrafındaki her şeyden çok çabuk etkilenebilir bir yapıya sahiptir ve o, “sırf göz ve kulaktır”. 
+
+İlk yıllarda yansıtıcı eterin negatif kutbu boyunca faaliyet gösteren güçler de aşırı derecede aktiftirler. Bu yıllarda çocuklar, yüksek âlemleri “görebilirler” ve gördükleri hakkında safça konuşurlar. Bu konuşmalar, büyüklerin alayları ve hatta verdikleri cezalar onlara, “hikâyeler anlatmaktansa” susmayı öğretene kadar sürer. 
+
+“Akıllı” anne babalarının inanmamaları sebebiyle küçüklerin yalan söylemeye veya en azından gerçeği inkâr etmeye zorlanmaları çok acıdır. Hatta Ruhsal Araştırma Derneği’nin araştırmaları çocukların çoğu kez, üç dört yaşlarına gelene kadar kendilerini sık sık ziyaret eden görünmez oyun arkadaşlarının olduğunu ortaya koymuştur. Bu ilk yıllar boyunca çocukların durugörürlüğü, medyumların durugörürlüğüyle aynı negatif (pasif) karaktere sahiptir. 
+
+Arzu bedende etkin olan güçler de durum aynıdır. Çocukta, heyecan hissi neredeyse hiç yoktur, fakat fiziksel acının pasif hissi vardır. Elbetteki çocuk, en küçük bir sebepten duygu gösterecektir, fakat bu çok kısa süreli olur. Ve onda olan biten her şey, yüzeydedir. 
+
+Çocuk zihin bağlantısına da sahiptir, fakat bireysel düşünme faaliyetinde bulunma yeteneği hemen hemen hiç yoktur. Negatif kutup boyunca çalışan güçlere de aşırı duyarlıdır, bu yüzden de taklit edebilir ve öğrenebilir. 
+
+Böylece görürüz ki, bu yeni doğmuş varlıkta tüm negatif (pasif) özellikler faaldirler. Fakat onun, kendi araçlarını kullanma yeteneğine sahip olması için pozitif (aktif) özellikleri de olgunlaşmalıdır. 
+
+Bu sebeple her bir araç, uygun makrokozmik aracın faaliyeti ile belli bir olgunluk derecesine getirilir. Bu makrokozmik araçlar, çocuğun araçları belli bir olgunluk seviyesine gelene kadar onlar için rahim görevi görürler. 
+
+Yaşam beden, birinci yıldan yedinci yıla kadar makrokozmik yaşam bedenin rahminde büyür ve yavaş yavaş olgun hale gelir. Evrenin (makrokozm) bu aracının büyük bilgeliği sayesinde çocuk, ilerideki yaşında sahip olacağından daha iyi biçimlenmiş ve inşa edilmiş bir bedene sahip olur. 
+
+#### <h4 id="birth-of-the-vital-body">Yaşam Bedenin Doğuşu</h4> 
+
+Makrokozmik yaşam beden, çocuğun bedeninin büyümesine kılavuzluk ederken kendisini bekleyen tehlikelere karşı da korunmuş olur. Bu tehlikeler, akılsız bireysel yaşam beden, kontrolsüz bir şekilde egemenliği eline aldığında ortaya çıkarlar. Bu durum, yaklaşık olarak yedinci yılda meydana gelmeye başlar. Bu aşırı ve tehlikeli büyüme dönemi 14. yıla kadar sürer. Bu süre boyunca makrokozmik Arzu beden, bireysel arzu beden için bir rahim görevi görür. 
+
+Eğer insandaki yaşam beden, bitkilerde olduğu gibi sürekli ve sınırsız bir hâkimiyete sahip olsaydı insan, devasa boyutlarda büyürdü. Çok eski bir geçmişte insanın, bitkinin yapısına benzer bir yapıya sahip olduğu ve bitki gibi yalnızca bir yoğun beden ve bir yaşam bedeninin bulunduğu bir zaman vardı. Dünyâ’nın her yerinde, eski zamanların devlerinden bahseden mitoloji ve halk efsaneleri tamamen gerçektir. Zira o zamanlar insan, yukarıda belirtilen sebepten dolayı uzun bir ağaç gibi büyüyorlardı. 
+
+#### <h4 id="birth-of-the-desire-body">Arzu Bedenin Doğuşu</h4>
+
+Bitkinin yaşam bedeni bitkiyi yaprak yaprak inşa eder ve gövdeyi hep daha yükseğe çıkartır. Makrokozmik arzu beden belli bir noktadan sonra ona müdahale etmese ve büyümenin devam etmesini engellemeseydi, bedenler bu şekilde sınırsızca büyümeye devam ederlerdi. Ancak bu olmaz ve büyümenin devamı için artık gerekmeyen bu güç, başka amaçlar için kullanılır. Bu güç, artık çiçek ve tohum yapma işlerini gerçekleştirir. Aynı şekilde yaşam beden, insanın yoğun bedeni yedinci yıldan itibaren onun egemenliği altına girdiğinde onun çok hızlı bir şekilde büyümesini sağlar. Fakat ondördüncü yılda makrokozmik arzu bedenin rahminden arzu beden doğar ve yoğun beden üzerinde çalışmada belirleyici etkiye sahip olur. Böylelikle aşırı büyüme durur ve bu amaç için kullanılan güç, ‘insan-bitki’nin çiçek açıp meyveler verebilmesi için üreme amaçlı olarak kullanılabilir hale gelir. Bu yüzden kişisel arzu bedenin doğumu, ergenlik çağına girişi ifade eder. Bu andan itibaren karşı cinse doğru bir çekim hissedilir. Bu çekim, insan bedeninin üçüncü yedilik döneminde (14. yıldan 21. yıla kadar) özellikle güçlüdür, zira onu dizginleyen zihin henüz doğmamıştır. 
+
+#### <h4 id="birth-of-the-mind">Zihnin Doğuşu</h4>
+
+14. yıldan sonra makrokozmik zihin, kişisel zihni kuluçkaya yatırır ve besler. Ve böylece zihin, kendindeki pasif ve gelişmemiş olanakları açığa çıkarabilir ve kendi düşüncelerini üretebilme yeteneğine sahip olur. Bireyin çeşitli araçlarının güçleri, artık bireyin, onların tamamını evriminde kullanabileceği belli bir olgunluk derecesine erişmişlerdir. Bu yüzden 21. yılla birlikte Ego, tüm araçlarının tek sahibi olur. Bu sahiplik, kanın sıcaklığı yardımıyla ve bireysel kanın gelişimiyle meydana gelir. Bu da ışık eterinin tam gelişimiyle bağlantılıdır. 
+
+#### <h4 id="the-blood-the-vehicle-of-the-ego">Ego’nun Aracı Olarak Kan</h4>
+
+Çocukluk esnasında ve ondördüncü yıla kadar kırmızı kemik ilikleri, kan hücrelerinin (yuvar) tamamını oluşturmazlar. Onlardan pek çoğu, timüs bezi aracılığıyla temin edilirler. Timüs, cenindeki en büyük bezdir ve büyüyen çocukta bireysel kan-yapım yetisi geliştikçe giderek küçülür. Timüs bezi, ana babanın çocuğa verdiği kan hücrelerinin bir bakıma deposudur ve bu yüzden kanını bu kaynaktan alan çocuk, kendi bireyselliğinin farkına varamaz. Çocuk kendi kanını kendisi üretmeden önce kendisini “Ben” olarak düşünmez ve 14. yılla birlikte timüs bezi kaybolduğunda “Ben” duygusunun kendini ifadesi en yüksek seviyeye ulaşır. Zira bu andan itibaren kan yalnızca Ego tarafından üretilmekte ve kana yalnızca Ego hükmetmektedir. Bu fikir ve onun mantığı şu şekilde açıklanabilir: 
+
+Sindirim ve büyümenin, yaşam bedende bulunan kimyasal eterin pozitif kutbu boyunca varolan güçlere bağlı olduğu hatırlanacaktır. Bu eter, yedinci yılda yaşam bedenin kalan kısmıyla birlikte serbest bırakılır. Ancak bu anda sadece kimyasal eter tamamıyla olgunlaşmıştır, diğer kısımların ise daha olgunlaşması gerekir. Ondördüncü yılda, üreme ile ilişkili olan yaşam bedenin yaşam eteri tamamen olgunlaşır. Yedinci yıldan ondördüncü yıla kadar olan süre boyunca çok fazla yiyecek alımıyla belli bir miktarda güç biriktirilir ve bu güç cinsel organlara yönlendirilir. Böylelikle arzu beden serbest bırakıldığında bu organlar kullanılmaya hazır olurlar. 
+
+Bu cinsel güç, üçüncü yedi yıllık dönem boyunca kanda biriktirilir ve bu zaman zarfında kan ısısının taşıyıcısı olan ışık eter gelişir ve vücudun çok sıcak ya da çok soğuk olmaması için kalbi kontrolü altına alır. Erken çocukluk döneminde kan sıcaklığı kolayca normal değerlerin üstüne çıkar. Aşırı büyüme döneminde ise genelde durum bunun tersidir. Öfkeli ve zaptedilemez gençlik döneminde tutku ve ruh hali, kanın aşırı ısınmasını sağlayarak Ego’yu dışarı atarlar. Çok isabetli bir şekilde bu durumu tutkunun kaynaması veya taşması olarak adlandırırız. Böyle bir kişiyi de “aklını kaybetmiş”, yâni düşünemez duruma gelmiş diye tarif ederiz. Tutku, öfke ve ruh hali kanın aşırı ısınmasına sebep olduklarında ve böylece Ego’yu bedenlerden kovduklarında olan, tam da budur. Burada da böyle bir kişi hakkında söylenen, “kontrolünü kaybetti” ifadesi çok doğrudur. Böyle bir durumda Ego, araçlarının dışındadır ve araçlar çıldırmış bir haldedirler, zira bu anda, onları yöneten düşüncenin etkisi altında değillerdir. Düşüncelerin görevlerinin bir bölümü de ani tepi’lere (impulse) karşı bir fren gibi davranmaktır. Böyle patlamaların büyük ve korkunç bir tehlikesi de Ego, sahip olduğu bedenlerine tekrar girmeden önce bedensiz bir varlığın o bedenleri ele geçirme ve Ego’yu dışarıda bırakması ihtimalidir. Bu durum “obsesyon” (saplantı) olarak adlandırılır. Böyle durumlarda ancak sükûnetini koruyan ve Ego’sunun aşırı ısınma sebebiyle dışarıya atılmasına yolaçmayan kimseler, düzgün düşünebilirler. Ego, kan ısısı çok düşük ya da çok yüksekse bedende çalışamaz. Bu iddia için şöyle bir kanıt getirebiliriz: Bilinen bir gerçektir ki aşırı sıcak bizim uykumuzu getirir ve sıcak belli bir dereceyi geçerse Ego’yu dışarı atar ve bedeni baygın ve bilinçsiz bir konuma sokar. Aşırı soğuk da bedeni uykulu veya bilinçsiz bir konuma sokmaya çalışır. Yalnızca kan sıcaklığı normal sıcaklığa sahipse veya bu sıcaklık civarındaysa Ego onu bir bilinç aracı olarak kullanabilir. 
+
+Ego’nun kanla olan yakın ilişkisini daha iyi açıklamak için, utandığımızda meydana gelen yüz kızarmasını örnek gösterebiliriz. Kanın beyne sürülmesi ve böylelikle beynin aşırı ısınmasına ve düşünme faaliyetini felce uğratmasına sebep olması da Ego-kan ilişkisi için önemli bir kanıttır. Korku, dış dünyânın tehlikelerine karşı Ego’da kendisini koruma gerekliliği uyandıran durumdur. Bu durum, kanın vücudun iç taraflarına doğru çekilmesine ve insanın renginin solmasına sebep olur. Zira kan, vücudun dış taraflarından çekilmiş ve ısı kaybetmiştir. Bu durum neticesinde yine düşünme faaliyeti felce uğrar. Kişinin kanı böyle bir durumda “donar”. Sanki ortam kendiliğinden soğumuş gibi kişi titrer ve dişleri birbirine vurmaya başlar. Yüksek ateş’te oluşan fazla ısı da sayıklamaya sebep olur. 
+
+Tam kanlı (full-blooded) bir insan, (eğer kanı çok sıcak da değilse) bedensel ve zihinsel olarak aktiftir. Buna karşın kansız bir insan, bedensel ve zihinsel olarak sürekli yorgundur. İlkini Ego daha iyi yönetebilir, ikincisinde ise daha az kontrole sahiptir. Ego, düşünmek istediğinde uygun sıcaklıktaki kanı beyne yönlendirir. Ağır bir yemek sonrası Ego faaliyetini sindirim sistemine yönlendirmişken insan düşünemez ve yorgundur. 
+
+Eski Normanlar (Kuzey Cermen Halkları) ve İskoçlar, Ego’nun kanda bulunduğunu biliyorlardı. Hiçbir yabancı, kanını onların kanıyla “karıştırmadan” ve böylece onlardan biri olmadan, o halklardan birisiyle evlenemezdi. İnisiye bir kişi olan Goethe, bunu “Faust” adlı eserinde de göstermiştir. Faust, Mephisto ile anlaşma yapmak üzeredir ve Mephisto’ya sorar: “Neden anlaşmayı sıradan bir mürekkeple imzalamıyoruz? Neden ille de kanla imzalamak zorundayız?” Mephisto yanıtlar: “Kan, çok özel bir sıvıdır”. O, insanın kanına sahip olanın insana da sahip olacağını biliyordu Hiçbir Ego, sıcak kan olmadan kendisini ifade edemez. 
+
+Ego’nun kendini gerçek anlamda ifadesi için uygun ısı zihin, makrokozmik Somut Zihin tarafından doğuruluncaya kadar oluşmaz. Bu doğum, yaklaşık olarak yirmibirinci yılda meydana gelir. Bu yaşı en erken oy verme yaşı olarak belirleyen yasa da (1909- Amerika) bu gerçeği göstermektedir. 
+
+İnsan gelişiminin şimdiki safhasında insan, her yaşam döngüsünde, bir doğumdan diğerine kadar bu ana aşamalardan geçer. 
+
+### <h3 id="chapter-4">4. Bölüm: Yeniden Doğuş ile Sebep ve Sonuç Yasası</h3>
+
+Yaşam ve ölüm bilmecesini çözebilmek için şimdiye dek sadece üç dikkate değer teori ortaya atılmıştır. 
+
+Önceki bölümde, bu teorilerden biri olan Yeniden Doğuş, ve ona eşlik eden Sebep ve Sonuç yasası bir dereceye kadar incelendi. Yeniden Doğuş teorisini diğer iki teoriyle karşılaştırmak ve onların doğadaki esaslarına bir bakmak isabetli olacaktır. Okültist için bu teorilerin ilişkili olduklarına dair hiçbir şüphe yoktur. Bizim, gülün açmasına veya ırmağın akmasına veya maddesel dünyânın gözümüzün önündeki herhangi bir işine inandığımızı söylemediğimiz gibi, o da teoriye “inandığını” söylemeyecektir. Biz bu şeylere ilişkin olarak onlara “inandığımızı” söylemeyiz; biz onları “bildiğimizi” söyleriz, çünkü onları görürüz. Böylece okült bilimadamı, Yeniden Doğuş ve Sebep ve Sonuç yasaları için de “biliyorum” diyebilir. O, Ego’yu görür ve ölümde yoğun bedenden çıkıp gittiği yolu ve yeni bir doğumda tekrar dünyâda göründüğü yolu izleyebilir. Bunun için onun inanmaya ihtiyacı yoktur. Fakat diğer insanları bu konuda tatmin etmek ve kolay anlaşılır bir sonuca ulaşmak için, ölüm ve yaşama ilişkin olan bu üç teoriyi etraflıca incelemek iyi olacaktır. 
+
+Her büyük doğa yasası, diğer doğa yasalarıyla mutlaka uyum içerisinde olmalıdır. Bu yüzden bu teorileri, tüm taraflar tarafından kabul edilen ve evrenimizin, bizim tarafımızdan daha iyi bilinen kısmında gözlemlenen “bilinen doğa yasaları” açısından incelemek çok faydalı olacaktır. Bu maksatla öncelikle bu üç teorinin neler olduğunu inceleyeceğiz. 
+
+407-1) Materyalist Teori şunları öne sürer: ‘Yaşam, ana karnından mezara kadar süren bir yolculuktur. Zihin, maddenin içindeki belli ve karşılıklı ilişkilerin sonucudur. İnsan, evrendeki en yüksek zekâya sahiptir. Beden, ölümden sonra çürürken bu zekâ da yok olur’. 
+
+407-2) Teologların Teorisi ise şunları iddia eder: ‘Her doğumda, yeni yaratılmış bir rûh Tanrı’nın elinden hemen yaşam arenasına girer ve doğum kapısından geçerek görünmez bir hâlden, görünür bir hâle erişir. Rûh, maddesel dünyâda geçirdiği kısa bir yaşam süresi sonunda ölüm kapısından görünmeyen öte tarafa geçer ve bir daha asla geri dönmez. Onun oradaki mutluluk veya sefâleti, yaşam ve ölüm arasındaki bu küçücük zaman dilimindeki eylemlerine göre ebediyyen belirlenir’. 
+
+407-3) Yeniden Doğuş teorisi ise şunları öne sürer: ‘Her bir rûh, Tanrı’nın ayrılmaz bir parçasıdır. Tohum nasıl bitkinin tüm özelliklerini içeriyorsa insan rûhu da bütün tanrısal olasılıkları içerir. Hep daha iyi dünyâsal bedenlerde tekrarlanan yaşamlar sayesinde gizil olasılıklar, yavaş yavaş gelişerek dinamik güçler hâline gelir. Bu süreç boyunca hiç kimsenin bu özelliği kaybolmaz. Ve tüm insanlar, mükemmellik ve Tanrı’yla tekrar birleşme hedefine en sonunda ulaşacaktır’. 
+
+Bu teorilerden ilki, tek taraflıdır (monistik). Ve de tüm varoluş olgularını madde içinde araştırmaya çalışmaktadır. Diğer iki teori ise ikilikçidir (düalistik) ve varoluşun bazı gerçeklerini ve evrelerini, fizikötesi ve görünmez bir duruma atfederler. Ancak bu iki teori, diğer noktalarda birbirlerinden çok ayrıdırlar. 
+
+Materyalist teoriyi evrenin bilinen yasalarıyla kıyaslarsak buluruz ki; gücün sürekliliği, maddenin sürekliliği gibi mevcuttur ve ikisinin de açıklanmasına gerek yoktur. Ayrıca biliriz ki, Fizik Âlemde madde ve güç, ayrılmaz bir haldedirler. Bu, materyalist teoriye terstir, zira o, zihnin ölümde yokolacağını iddia eder. Eğer bir şey yok edilemiyorsa, buna zihin de dahil olmalıdır. Dahası biliriz ki zihin maddeden üstündür, zira gerçeği biçimlendirir. Bu sebeple madde, zihnin bir yansıması veya aynasıdır. İnsanoğlu, vücûdundaki parçacıkların sürekli olarak değiştiklerini keşfetti. Yedi yılda en az bir defa, vücûdumuzda maddeyi oluşturan her bir atom değişmektedir. Eğer materyalist teori gerçek olsaydı, bilinç de bu değişime tâbi olmalıydı ve de herhangi bir olayın hatırlanması sözkonusu olamazdı. Böylece bizim, yedi yıldan daha önceki hiçbir olayı hatırlamamız hiçbir zaman mümkün olmazdı. Ancak biliriz ki, durum böyle değildir. Çocukluğumuzun anılarını bile hatırlamaktayız. Boğulan bir kişi, tüm yaşamına ait kısa bir vizyon görür. Bu anda normal bilincin çoktan unuttuğu birçok anlamsız olay, kişinin gördüğü vizyonda açığa çıkmaktadır. Bunu, bu kişilerin kurtarılıp tekrar yaşama döndürüldükten sonra anlattıklarından öğrenmekteyiz. Trans halinde de buna benzer deneyimler çok sık yaşanmaktadır. Materyalizm, bu bilinçaltı ve bilinçüstü halleri açıklayabilmekten uzaktır ve onları görmezden gelir. Son yıllardaki bilimsel araştırmalarla (1909) önde gelen bilimadamları bu fenomenin varlığını şüphe bırakmayacak şekilde ortaya koymuştur. Bu fenomeni görmezden gelme politikası izleyen Materyalizm için bu, önemli bir hatadır; hele bu teori yaşamın en büyük problemi olan yaşamın kendisinin gizemini çözdüğünü iddia ediyorsa. 
+
+Bu yüzden materyalist teoriyi yaşamın ve ölümün gizemini çözmede başarısızdır ve bu teoriyi geçerek diğer teoriyi incelemeye başlayabiliriz. 
+
+Ortodoks teolojik doktrine yapılan en büyük itirazlardan biri de, onun kabul edilmiş olan büyük yetersizliğidir. Bu teoriye göre, yaratılmış olan ve bu yerkürede varoluşun başlangıcından beri bulunmuş olan (ki bu başlangıç bile günümüzden 6000 yıldan fazla geriye gitmese de) sayısız rûhtan sadece “yüz kırk dört bin” tanesi kurtarılacak, diğerleri ise ebediyyen azaba uğratılacak! Yâni buna göre en büyük zafer hep şeytanın olacak! İnsanın burada Buda gibi şunu söylemekten başka çaresi kalmıyor: “Eğer Tanrı böyle sefilliğin olmasına izin veriyorsa O, iyi olamaz ve eğer bunu engelleyecek kudreti yoksa O, Tanrı olamaz!” 
+
+Doğada, buna benzer şekilde bir şeyin mahvedilmek için yaratılması olayı yoktur. Tanrı’nın HERKESİN kurtarılmasını istediğinden bahsedilmektedir ve O, tek bir kişinin bile helâk olmasına karşıdır. Ve de onların kurtuluşu için “kendi tek Oğlunu vermiştir”, ancak şimdiye dek bu “hârikulâde kurtarma planı” başarısızlığa uğramıştır. 
+
+Eğer, içinde iki bin rûhun bulunduğu bir transatlantik gemisi, Sandy Hook yakınlarında batmakta olduğunu bir telsiz mesajıyla bildirse ve bunun üzerine yolcuları kurtarmak üzere iki ya da üç kişi alan bir hızlı motor-botu gönderilse bu, bir “hârikulâde kurtarma planı” olarak görülebilir mi? Elbette ki hayır! Eğer kurtarma için uygun araçlarla tehlikedeki yolcuların en azından çoğunluğunun kurtarılması sağlanmazsa yapılan plan daha çok bir “yoketme planı” olur. 
+
+Ama Teologların kurtarma planı bundan da kötüdür, zirâ ikibin kişide iki ya da üç kişi, yaratılmış sayısız rûhun içinden yalnızca 144.000’ini kurtaracak olan ortodoks teoloji planının yüzdesine göre yine de büyük bir yüzdedir. Bu yüzden bu teoriyi de, gerçekdışı olduğu için güvenle reddedebiliriz. Zira bu teori mantıklı değildir. Eğer Tanrı ‘her şeyi bilen’ ise, daha etkili bir plan düşünürdü. Ve O, her şeyi bilendir ve bunu düşünmüştür. Yukarıda bahsedilense sadece teologların teorisidir. Daha ileride görüleceği gibi Kutsal Kitap’ın öğretisi çok daha başkadır. 
+
+Şimdi de Yeniden Doğuş öğretisini ele alalım. Bu teori, yavaş bir gelişim süreci varsaymaktadır. Bu süreçte herkes, sürekli bir azimle tekrarlanan bedenlenmelerle hep artan bir mükemmeliğe erişir ve zamanla, şu an için kavrayamayacağımız yüksek bir ruhsal parlaklık seviyesine gelir. Böyle bir teoride ne mantıkdışı bir şey vardır ve ne de zor kabul edilebilir bir şey vardır. Doğaya dikkatlice baktığımızda her yerde, yavaş ve sürekli bir şekilde oluşan bu mükemmellik uğraşısını görürüz. Yine doğada, yaratımın ve yok etme işleminin hiçbir zaman teologların öğrettiği gibi birden olmadığının farkına varırız. Yine doğada her yerde ancak “evrim”i buluruz. 
+
+Evrim, “rûhun zamanda ilerlemesinin tarihidir”. Evrendeki değişik fenomenleri gördüğümüz her yerde fark ederiz ki, evrimin yolu bir spiral şeklindedir. Spiralin her kıvrımı, bir çemberdir. Her çember, sanki spiralin kıvrımları devam ediyormuş gibi diğeriyle birleşir. Her bir çember, kendisinden öncekilerin daha iyi bir ürünüdür ve de kendisinden sonra gelen ve daha gelişmiş durumdakinin yaratıcısıdır. 
+
+Düz bir çizgi sadece bir noktanın uzamış halidir. Ve mekânda sadece bir tek boyutu işgal eder. Materyalist’in ve teologun teorilerinin ikisi de bu düz çizgiye benzerler. Materyalist yaşam çizgisini doğumda başlatır ve tutarlı olmak için onu ölüm saatinde bitirmek zorundadır. Teolog ise çizgisini, doğumdan hemen önce rûhun yaratılmasıyla başlatır. Ölümden sonra rûh yaşamaya devam eder ve onun kaderi, geri dönülmez bir şekilde birkaç kısa yıllık Dünyâ yaşamındaki eylemleri sonucunda belirlenir. Hataları düzeltmek için geri dönüş yoktur. Çizgi dosdoğru devam eder, zerre kadar bir deneyim bırakır ve ölümden sonra ruhun yükselişi yoktur. 
+
+Doğal gelişim, bu iki teorinin kabul ettikleri gibi düz çizgi şeklinde gitmez. Bu gelişme, dairesel bir şekilde de olmaz, zira bu, aksi takdirde aynı deneyimlerin sonsuz bir döngüsü olurdu ve uzayda sadece iki boyutu kullanırdı. Tüm şeyler, ilerleyen döngüler şeklinde hareket ederler. Bize üç boyutlu evrenimiz tarafından sunulan bütün fırsatların tüm avantajlarını alabilmemiz için gelişen yaşam, hep ileri ve yukarı giden üç boyutlu spiral yolu izlemelidir. 
+
+Bahçemizdeki küçük bitkiye de baksak veya Kaliforniya’nın Redwood bölgesine gidip, 12 metrelik çaplarıyla dünyanın en büyük ağaçlarından olan sequias’lardan birine de baksak göreceğimiz şey hep aynıdır: Her dal, her sürgün, her yaprak bir spiral şeklinde veya ikili spiral şeklinde ya da dengedeki karşıt bir çift şeklinde büyür. Dengedeki karşıt çiftlere örnek olarak med ve cezir, gündüz ve gece, yaşam ve ölüm ve doğadaki diğer karşılıklı değişen faaliyetleri gösterebiliriz. 
+
+Gökkubbeyi veya ateşten Nebulaları ya da Güneş Sisteminin yolunu incele! Göz, her yerde spirali görecektir. Baharda Yer, beyaz battaniyesini üzerinden atar ve dinlenme evresinden ( kış uykusundan) çıkar. Ve de bahar, tüm güçlerini, her yere yeni yaşam getirmek için kullanır. Zaman geçer, mısır ve üzüm hasat edilir ve tekrar hareketli güneş, kışın sessizliğinde ve hareketsizliğinde kaybolur. Yeniden kar örtüsü yeri kaplar. Fakat doğanın uykusu sonsuza dek sürmez, kendisi için zaman yolunda küçük bir ilerleme anlamına gelen yeni baharın şarkısıyla tekrar uyanacaktır. 
+
+Aynı şekilde güneş de her günün sabahında doğar ve her sabah yıl boyunca yaptığı yolculuğunun bir kısmını geride bırakmış olur. 
+
+Her yerde Spiraller – öne, yukarı, sonsuza dek! 
+
+Mümkün müdür ki, diğer tüm âlemlerde bu kadar evrensel olan bu yasa, insan için geçerli olmasın? Yer her sene kış uykusundan uyansın, ağaçlar ve çiçekler yeniden yaşama dönsünler ve buna karşın insan ölüp gitsin? Bu olamaz! Bitkiyi yeniden büyümesi için uyandıran yasa, insan varlığını da mükemmellik hedefine doğru yeni deneyim için, daha fazla gelişim için uyandıracaktır. Bu yüzden, gittikçe daha iyi araçlarda yinelenen bedenlenmeyi öğreten Yeniden Doğuş teorisi, evrimle ve doğa olayları ile tam uyum içerisindedir. Bu uyum, diğer iki teoride ise bulunmamaktadır. 
+
+Yaşamı etnik bakış açısından incelersek buluruz ki, Yeniden Doğuş yasası, bağlantılı olduğu kardeş yasa Sebep ve Sonuç yasası ile birlikte, yaşamın etrafımızda gördüğümüz gerçekleriyle uyuşan ve adalet duygumuzu tatmin eden tek teoridir. 
+
+Mantıklı bir zihin için, “âdil ve şefkatli” Tanrı’nın milyarlarca insanın tümünden aynı erdemleri isteyebilmesini anlamak hiç de kolay değildir. Ki O, bu erdemleri görünür bir kurala ve de belli bir sisteme göre değil de Kendi kaprisli rûh hâline göre “farklı durumlara dağıtarak hoşnut olmuştur”. Kimi lüks içinde yaşarken kimi de “tekme ve kırıntılarla” yaşar. Bir kişi, moral eğitime ve yüksek ideallerle dolu bir ortama sahiptir. Diğer bir kişi ise kötü bir çevreye yerleştirilmiştir. Ve ona yalan, hırsızlık ve bu ikisini ne kadar iyi yaparsa başarısının da o kadar büyük olacağı öğretilir. Bu iki kişiden aynı şeyleri talep etmek âdil midir? Doğru yoldan sapmanın çok zor olduğu bir çevreye konulan birisini iyi bir yaşamla ödüllendirip, gerçek ahlâkın ne olduğunu anlayamayacak derecede (bulunduğu çevre tarafından) engellenmiş birini cezalandırmak âdaletli midir? Elbette ki değildir! Bizim Kutsal Kitab’ı yanlış yorumladığımızı ve Tanrı’ya böyle canavarca bir planı ve böyle absürd bir davranış biçimini bizim yüklediğimizi düşünmek daha mantıklı değil midir? 
+
+Tanrı’nın, bizim anlayışımızın ötesinde bulunan gizemleri hakkında fikir yürütmememiz gerektiğini söylemek faydasızdır. Yaşamın eşitsizlikleri, ikiz yasalar olan ‘Yeniden Doğuş’ ve ‘Sebep ve Sonuç’ yasalarıyla doyurucu bir şekilde açıklanabilir. Böylelikle yaşamın eşitsizlikleri, İsa’nın bizzat kendisi tarafından öğretilen âdil ve şefkatli bir Tanrı kavramıyla uyumlu hâle gelmiş olur. 
+
+Ayrıca bu ikiz yasalar aracılığıyla, şu anda istemediğimiz bir konumdan veya çevreden - gösterildiği gibi - kurtuluşun yolu da görünür. Aynı zamanda şu anda ne kadar eksik olursak olalım bu ikiz yasalar, gelişimin herhangi bir aşamasına erişmemizi sağlayacak aracı da bize verirler. 
+
+Neysek, neye sahipsek ve ne kadar çok iyi özelliklerimiz varsa hepsi, geçmişteki kendi eylemlerimizin sonucudur. Fizik, moral veya zihinsel olarak hangi konuda mükemmel değilsek, gelecekte mükemmel olabiliriz. 
+
+Yaşamımızı bir önceki gece nasıl bıraktıysak ve sabah aynı yaşama bıraktığımız yerden devam etmekten başka yapacak bir şeyimiz nasıl yoksa, aynı şekilde de önceki yaşamlarımızdaki çalışmamızla şu anda içinde yaşadığımız ve çabaladığımız koşulları yarattık ve şu anda da gelecek yaşamlarımızın koşullarını yaratıyoruz. İstediğimiz herhangi bir yetinin eksikliğine yakınmak yerine, o yetiyi elde etmek için çalışmalıyız. 
+
+Eğer bir çocuk bir müzik âletini çalmayı kolayca öğreniyorsa ve onunla karşılaştırıldığında diğer bir çocuk ısrarlı çabasına rağmen bu âleti çalmada zayıf kalıyorsa bu, ilk çocuğun önceki bir yaşamında bu iş için çok çaba sarfettiğini ve şimdi kolayca erken bir ustalığı tekrar kazandığını, buna karşın diğer çocuğun uğraşısına daha bu yaşamında başladığını gösterir. 
+
+Ve sonuçta bu ikinci çocuğun yokuş yukarı çalışmasını görürüz. Fakat bu çalışmasında ısrarcı olursa daha bu yaşamında, kendisinden daha iyi olan çocuğu (şayet bu çocuk kendisini sürekli geliştirmezse) bile geçebilir. 
+
+Bir yetiyi edinmek için yaptığımız zorlu çalışmaları hatırlamıyor olmamızın hiçbir önemi yoktur. Bu, yetinin bizde kaldığı gerçeğini değiştirmez. 
+
+Dâhilik, geçmişteki birçok yaşam boyunca yaptığı yoğun çalışmalarla herhangi bir yönde ırkın ortalamasının üstünde ilerlemiş bir Rûhun özelliğidir. Bu durum, gelecek ırkta genel olarak sahip olacağımız mükemmellik derecesi hakkında bize bir fikir verir. Dehâ, yoğun bedende kısmen geçerli olan, ancak rûhun özelliklerinde kesinlikle geçerli olmayan kalıtım teorisiyle izah edilemez. Eğer kalıtım, dâhiliğin asıl nedeni ise niçin Thomas Edison, her biri bir öncekinden daha yetenekli olan uzun bir atalar zincirine sahip değildir? Neden kalıtım sonraki kuşaklara geçmez? Ve neden oğul Siegfried, babası Richard Wagner’den daha büyük değildir? 
+
+Dehânın kendisini ifâdesinin, özel yapılmış organlara sahip olmaya bağlı olduğu durumda bu organların gelişimi için tüm bir yaşam boyunca çalışmak gereklidir. Bu durumda Ego doğal olarak kuşaklar boyunca aynı organları yapmak için çalışmış bir aile içinde yeniden doğacaktır. İşte bu, Bach ailesinde 250 yıl boyunca birbirinden daha az veya daha çok dehâya sahip 29 müzisyenin doğma sebebidir. Aile içindeki bu dehâ dereceli olarak gelişip Johann Sebastian Bach’ın kişiliğinde zirveye erişmemiştir. Aksine Johann Sebastian Bach’ın dehâsı, kendinden önceki ve sonrakilerin dehâsının çok üstündedir. Böylece görürüz ki dehâ, aile içinde kuşaktan kuşağa derece derece gelişmez. Bu olgudan dehânın, bedenin değil de rûhun bir ifâdesi olduğu ortaya çıkar. 
+
+Çalınan melodinin kalitesi nasıl müzisyenin çalgısına değil de ustalığına bağlı ise ve çalgının sesi onu sadece destekliyor ise aynı şekilde beden de, basit olarak sadece bir enstrümandır ve onun gördüğü iş, kendisine yol gösteren Ego’ya bağlıdır. İyi bir müzisyen, kendisini kötü bir çalgıda tam olarak ifade edemez. Hatta aynı çalgıyı tüm müzisyenler aynı şekilde çalmazlar ve çalamazlar. Bir Ego, büyük bir müzisyenin oğlu olarak yeniden doğsa bile bu onun, mutlaka babasından daha büyük bir dâhi olacağı anlamına gelmez. Fakat dehâ, fiziksel olarak iletilen bir şey olsaydı ve rûhun bir özelliği olmasaydı bunun böyle olması gerekirdi. 
+
+“Çekim Kanunu”, kalıtıma atfettiğimiz olguları tamamen yeterli bir şekilde açıklar. Biliriz ki aynı ilgi alanlarına sahip insanlar birbirini ararlar. Eğer bir arkadaşımızın oturduğu şehri biliyor ancak adresini bilmiyorsak, sosyal alışkanlıkları aracılığıyla onu kolayca bulabiliriz. Eğer o bir müzisyen ise, müzisyenlerin genelde toplandıkları yerde mutlaka onu buluruz; eğer bir öğrenci ise kütüphanelerden veya kitapçılardan onu sorabiliriz; veya bir kumar oynamayı seven biri ise onu hipodromlarda veya kumarhanelerde veya buna benzer yerlerde ararız. Ve de bu sonuncu kişiyi kütüphanede veya bir klasik müzik konserinde bulamayacağımızdan emin olabiliriz. 
+
+Aynı şekilde Ego da genellikle en uygun sosyal topluluklara yönelir. Bu durumda o, Arzu Âleminin ikiz güçlerinden biri olan Çekim Gücü tarafından buna zorlanır. 
+
+Aynı ailede bile çok farklı zevkleri olan ve hatta birbirlerine düşman olan kişilerin olduğu ve Çekim Gücü’nün böyle insanları biraraya getirmesinin nasıl mümkün olabileceği şeklinde buna itiraz edilebilir. 
+
+Böyle durumların izahı, bir dünyâ yaşamı boyunca çeşitli insanlarla birçok ilişki kurulmasında yatar. Bu ilişkilerin bazısı hoş karakterli ve bazısı da hoş olmayan karakterlidir. Ve de bu ilişkiler zamanında yerine getirilmemiş yükümlülükleri kapsar veya kırıcı bir davranışa izin verir ve kırılan kişi ile düşmanı arasında çok güçlü bir nefret duygusu geliştirir. “Sebep ve Sonuç Yasası”, skorun kesin bir şekilde dengelenmesini gerektirir. Nasıl başka bir şehire taşınma kişinin borcunu kapatması anlamına gelmezse ölüm de aynı şekilde “her şeyi ödemez” (yâni her bedelin karşılığı olma anlamına gelmez). İki düşmanın tekrar karşılaşmaları gereken bir zaman gelecektir. Eski nefret, ikisini aynı ailede biraraya getirir, çünkü bu Tanrı’nın amacıdır ve O, herkesin birbirini sevmesini diler. Bu yüzden nefret aşka dönüşmek zorundadır. İnsanlar, bu nefreti yenebilmek için yaşamlar geçirmek zorunda kalsa da en sonunda gerekli dersi alacaklar ve birbirlerine düşman olmak yerine arkadaş ve dost olacaklardır. Böyle durumlarda bu insanlarda birbirlerine karşı ilgi, Çekim Gücünü uyandırır ve onları biraraya getirir. Eğer birbirlerine karşı kayıtsız olmuş olsalardı biraraya gelemeyeceklerdi. 
+
+Böylelikle insan, evrimdeki yeni basamak olan üst-insan basamağına doğru durmadan ilerlerken ikiz yasalar Yeniden Doğuş yasası ile Sebep ve Sonuç yasası onun yaşamında oluşan tüm problemleri mantıklı bir şekilde çözer. Bu teori, insanlığın ilerleme yolunun hep ileri ve yukarı doğru olduğunu söyler. Bazıları bunun tersine inanırlar. Bazı Hintli gruplar, Yeniden Doğuş teorisini yanlış yorumlayıp insanın, hayvanlarda ve bitkilerde yeniden doğduğuna inanmaktadırlar. Böyle olsaydı bu, gerileme anlamına gelirdi. Bu gerileme öğretisine ilişkin ne doğada ve ne de dinlerin kutsal kitaplarında hiçbir kanıt yoktur. Hindistan’ın dinsel yazmalarından birinde (ve sadece bir tanesinde) bu öğretiye değinilmiştir. Kathupanishadlar’da (5,9’da) şöyle denilmektedir: “Bazı insanlar ölümlerinden sonra dünyâdaki çalışmalarının karşılığı olarak bir kadın rahmine giderler, diğerleri ise ‘sthanu’ya giderler. ‘Sthanu’, Sanskritçe bir sözcüktür ve hem “hareketsiz”, hem de “sütun” anlamına gelir. Bu yüzden de bu, bazı insanların günâhlarının karşılığı olarak bitki âlemine gittiği şeklinde yorumlanmıştır. 
+
+Rûhlar ancak deneyim kazanmak, Dünyâyı fethetmek, nefslerini (alt-benliklerini) yenmek ve kendilerine hâkim olmak için bedenlenirler (enkarne olurlar). Eğer bunun üzerine etraflıca düşünürsek, tüm dersler alındığı için artık daha fazla bedenlenmenin gerekmediği bir zamanın geleceğini kavrarız. Kathupanishadlar’daki öğreti insanın, doğum ve ölüm çemberinde sürekli dönüp durmak yerine bir gün “Nirvana”nın hareketsiz hâline erişeceğine işaret etmektedir. 
+
+Kutsal Kitap’taki Vahiyler Kitabı’nda, somut ( maddi) varoluştan tamamen kurtuluşa işaret eden şu sözcükleri buluruz: “Gâlip geleni Tanrı’mın tapınağında bir sütun yapacağım ve o artık dışarı gitmeyecek”. Hiçbir yerde Rûhların geriye doğru gittiklerine ilişkin bir kanıt yoktur. Bağımsız ve ayrı bir Rûh’a sahip olacak kadar evrimleşmiş bir insan, ilerleyişinde geriye dönemez ve bir grup- rûhunun idaresi altında bulunan hayvanların ve bitkilerin araçlarına giremez. Bireysel Rûh, grup- rûhundan daha yüksek bir evrim basamağındadır ve küçük olan, büyük olanı ele geçiremez. 
+
+Oliver Wendell Holmes güzel şiiri “Denizkabuğunun Odaları”nda, dereceli olarak iyileşen araçlarda sürekli ilerleme ve sonunda özgürlüğe erişme fikri anlatılmaktadır. Denizkabuğu, spiral şeklindeki kabuğunu odacıklar halinde inşa eder ve içinde büyüdüğü ve artık kendisine küçük gelen kabuğunu her sene terk eder: 
+
+    Bak, her yıl sessiz çalışması sahiden   
+    Onun parlak kabuğunu büyüten   
+    Spiral biçiminde gelişirken Sessiz,   
+    Geçmiş yıldaki evini terk eder, kalmaz bir iz   
+    Yumuşak adımlarla yürür parlak kemerli yapısını   
+    Ve yapar kendi tembel kapısını   
+    Yeni yuvasıyla büyür beraber   
+    Ve eskisinden artık bihaber   
+    Taşan denizin çocuğu, o deniz ki adeta gürler   
+    Verdiğin ilahi mesaj için teşekkürler   
+    Bana getiren göksel haberi, ki eşsiz   
+    Ağzından çıkan içsel bir ses, çok tiz   
+    Triton’un boynuzundan üflediğinden daha sessiz, ama bâriz   
+    Kulaklarımda çınlayan düşüncenin   
+    Bir ses duydum mağaralarında derin   
+    Yap kendine ey Rûhum, hep daha heybetli konaklar   
+    Kısa mevsimler birbiri ardına sende konaklar   
+    Öyle ki yaptığın yeni tapınaklar,   
+    Eskisinden olsun daha asil   
+    Düşük kubbeli geçmişini terk et ve sil !   
+    Özgürlük yolunda yürü, yaşamın vahşi denizinde   
+    İçinde büyüdüğün kabuğunu terk ederek, kal zinde   
+
+Yukarıda bahsettiğimiz, özel vasıflara sahip bir organizmaya sahip olmanın gerekliliği, ikiz yasalar olan Yeniden Doğuş ile Sebep ve Sonuç yasaları hakkında bizi ilginç bir noktaya ulaştırır. Bu yasalar; yıldızların, güneşin, gezegenlerin ve on iki burcun hareketleri ile bağlantılıdırlar. Bütün bu gökcisimleri bu yasalara göre birbirleri ile uyum içerisinde yörüngelerinde hareket ederler. Gezegenlerin içlerinde bulunan ruhsal Zekâlar (spiritual Intelligences) olan Gezegensel Rûhları gezegenlere bu yörüngelerinde rehberlik ederler. 
+
+Ekinoksların presesyonu[39] (gün-gece eşitliği zamanının gerilemesi) sebebiyle güneş, on iki burç boyunca, her 72 yılda yaklaşık bir derece oranında geriye doğru hareket eder ve 30 derecelik her bir burçtan yaklaşık 2100 yılda geçer ve tüm daireyi yaklaşık 26.000 yılda tamamlar. 
+
+Bu, yerin sabit bir eksen etrafında hareket etmemesinden kaynaklanır. Yerin ekseni, yavaş ve salınımlı bir harekete sahiptir (tıpkı dönen bir fırıldağın durmaya yakınki hareketi gibi). Böylece bu eksen uzayda bir daire çizer ve bu yüzden kutup yıldızı[40] sürekli değişir. 
+
+Bu salınımlı hareket sebebiyle güneş, ekvatoru her yıl aynı yerden değil de birkaç yüz metre geriden keser. Astronomideki “Ekinoksların presesyonu” ( ekinoksların geri gitmesi) ifadesi de buradan gelir, zira ekinoks gerilemektedir, yâni öncekine göre daha erken gelmektedir. 
+
+Diğer gökcisimleri ve onlarda oturanlar ile ilkişkili olan yerdeki tüm olaylar, bu ve bunun gibi kozmik hareketlerle bağlantılıdır. Aynı şey, “Yeniden Doğuş” ile “Sebep ve Sonuç” yasaları için de geçerlidir. 
+
+Güneş yıl boyunca farklı burçlardan geçerken, iklim değişiklikleri ve diğer değişiklikler de insanı ve faaliyetlerini farklı şekillerde etkiler. Aynı şekilde güneşin, “ekinoks presesyonları”na yol açan ve bir dünyâ yılı olarak adlandırılan on iki burç boyunca geçişi de yerdeki koşulların, çok büyük farklılıklar göstermesine neden olur. Bu farklılıklar Rûhun büyümesi için kesinlikle gereklidir. Rûh, ancak bu şekilde farklılıklarla bağlı olan deneyimlerin tümünü yaşayabilir. Daha önce gördüğümüz gibi aslında insanın kendisi, bu koşulları Cennet Âleminde insanların doğumları arasında hazırlamaktadır. Bu yüzden her bir Ego, güneş bir burcu geçerken (2100 yıl) iki defa doğar. Rûhun kendisi çift cinsiyetlidir. Bu yüzden tüm deneyimleri kazanabilmesi için Rûh, sırayla bir erkek bedende ve bir kadın bedende doğar. Zira her iki cinsin deneyimleri birbirlerinden çok büyük farklılıklar gösterirler. Aynı zamanda 1000 yıl süresince dış koşullarda çok büyük değişiklikler olmadığı için Rûha, hemen hemen aynı çevrede hem eril ve hem de dişil deneyimleri kazanma fırsatı doğar. 
+
+Bunlar, temel ilkelerdir ve Yeniden Doğuş yasası bu ilkelere göre işler. Fakat bu yasa, kör bir yasa olmadığı için sık sık değişikliklere uğrar. Yasadaki değişiklikler, Tutanak Melekleri olan Kaderin Efendileri tarafından belirlenir. Farzedelim ki bir Ego, duyarlı bir göze veya kulağa ihtiyaç duyuyor ve bunu edinebilmesi için önceden kendisiyle ilişki kurduğu ve ona aynı zamanda bu duyarlı enstrümanın eğitimi için gerekli şartları sunabilecek bir aile içinde bedenlenme fırsatı belirdi. Fakat bir sonraki Yeniden Bedenlenme için daha 200 yılı eksik. Bu fırsatı kaçırırsa bir sonraki fırsat ortaya çıkana kadar daha 400 ve hatta 500 yıl boyunca, yâni gereken zamandan çok daha fazla Cennet’te beklemek zorunda kalabilir. Fakat bu durum Kaderin Efendileri tarafından görülür ve böylelikle Ego’nun, daha erken bir zamanda yeniden doğması sağlanır. Üçüncü Cennet’teki kalan zaman eksikliği bir sonraki sefer telafi edilebilir. Böylece görürüz ki, ölenler yalnızca cennetten bizi etkilemezler, biz de onları çekerek veya iterek etkileriz. Uygun bir enstrümanın edinilmesi için uygun bir fırsat, Ego’yu Yeniden Doğuş’a çekebilir. Eğer kendisine kullanabileceği bir enstrüman bulamasaydı ölen kişi cennette daha uzun süre kalırdı ve bu fazla süre, onun gelecekteki cennet yaşamından düşülürdü. 
+
+Sebep ve Sonuç Yasası da yıldızlarla uyum içinde çalışır. Böylece bir insan öyle bir zamanda doğar ki, o anda güneş sistemindeki gökcisimlerinin konumu, yaşam okulunda onun deneyimi ve gelişimi için gerekli koşulları ona sağlar. Bu sebepten dolayı Astroloji, en iyi astrologlar bile onu yanlış yorumlayabiliyor olmalarına rağmen kesinlikle gerçek bir ilimdir. Astrologlar da tüm insanlar gibi yanılabilirler. Yıldızlar bir insanın yaşamında, Kaderin Efendileri’nin suçunu ona ödetmek için seçtikleri zamanı kesin olarak gösterirler. Ve bu kaderden kaçmak imkânsızdır. Evet, biz onları hep doğru okuma kâbiliyetine sahip olmasak da onlar, insan yaşamındaki böyle zamanları, günü gününe gösterirler. 
+
+İnsan, kaderinden tamamen haberdar olsa da ondan kaçamaz. Buna ilişkin olarak yazar tarafından bilinen belki de en dikkat çekici örnek 1906 yılında Kaliforniya’nın Los Angeles şehrinde meydana geldi. Tanınan bir öğretmen olan Bay L.’ye, astrolojiye bakılarak belli zamanlarda dikkatli olması gerektiği söylendi. Bay L.’ye horoskopu[41] gösterildi. Çünkü bir öğrenci kendisiyle ilgili bir konuda, bir yabancıyla ilgili bir konudan daha çok ilgilenir. Onun da, kendisine verilen burç yorumlarının ne kadar kesin olduğunu kontrol etmesine izin verildi. Horoskop, birkaç kaza gösteriyordu. Bay L.’nin geçmişte başına gelmiş kazalar ve olaylarla horoskopa bakılarak söylenen tarihler de tutuyordu. Ayrıca ona, başka bir kazanın daha başına geleceği ve bu kazanın gelecek Temmuz’un 21’inde ya da 7 gün sonrasında, yâni 28’inde vuku bulacağı ve son söylenen tarihin daha tehlikeli olduğu bildirildi. Ve de Bay L., belirtilen günlerde hiçbir ulaşım aracına binmemesi, aksi takdirde göğüs, omuz, kol veya başın alt kısmındaki bölgelerden yaralanacağı konusunda uyarıldı. Bay L., bir tehlikenin sözkonusu olduğuna tamamen ikna oldu ve o iki gün evde kalmaya söz verdi. 
+
+Bu kitabın yazarı Seattle’a gitti ve kritik zamandan birkaç gün önce ona mektup yazdı ve onu tekrar uyardı. Bay L., cevabında uyarının aklında olduğunu ve bu uyarıya uyacağını belirtti. 
+
+Bu konuda bir sonraki haber, ikimizin de arkadaşı olan bir kişiden geldi. Bu arkadaşımız mektubunda, 29 Temmuz’da Bay L.’nin Sierra Madre’ye giderken, içinde bulunduğu elektrikli tramvayın bir trenle çarpıştığını ve Bay L.’nin tamamen daha önce kendisine söylenen bölgelerinden yaralandığını ve aynı zamanda sol ayağında bir tendon’un kesildiğini bildiriyordu. 
+
+Peki Bay L., bu kehâneti tamamen biliyorken kendisine verilen bu uyarıyı neden gözardı etmişti? Üç ay sonra, Bay L. yazabilecek kadar iyileştiğinde bunun yanıtını şöyle verdi: “Ayın 28’ini 29’u sandım”. 
+
+Yazara göre bu olayın, yıldızlar tarafından önceden belirlenen ve kendisinden kaçılamayan “olgun” kaderin bir parçası olduğuna hiç şüphe yoktur. 
+
+Yıldızlar bu yüzden “Kaderin Saati” olarak da adlandırılabilirler. Olgun kader, kişinin her yaşamına farklı farklı dağıtılmıştır. Ve kişinin, olgun kaderin hesabındaki çeşitli borçlarından birini ödemesi gerektiğinde Burçlar Kuşağının On İki Burcu, bu saatin kadranına karşılık gelir. Güneş ve gezegenler, yılı simgeleyen akrebe ve dünyâ’nın uydusu ay da, ayları gösteren yelkovana karşılık gelirler. 
+
+Ancak ne kadar söylense azdır, kendisinden kaçamayacağı bazı şeyler olmasına karşın insanın, önceden harekete geçmiş sebepleri değiştirebilmesi için kendi hür irâdesinin belli bir kapsamı vardır. Bir şair bu konu hakkında şöyle der: 
+
+    Aynı rüzgârdır gemileri götüren   
+    Onları doğuya, batıya her yöne süren   
+    Yönlerini belirleyen değil rüzgâr, esen   
+    Yelkenin kendisidir asıl etken   
+    Denizin rüzgârları benzer kaderin yollarına   
+    Yaşam boyunca gideriz onun kollarına   
+    İster sesli olsun, ister sessiz   
+    Rûhun dediğidir yaşam hedefimiz   
+
+Burada yakalanacak en büyük nokta, şimdiki eylemlerimizin gelecekteki koşulları belirlediğidir. 
+
+Ortodoks dindarlar ve hatta hiçbir dini kabul etmeyen bazı insanlar bile sık sık, Yeniden Doğuş Yasası’na itiraz sebebi olarak yeniden doğuşun, buna inanan “câhil kâfirler” tarafından Hindistan’da öğretildiğini ileri sürerler. Eğer bu bir doğa yasası ise, bunu geçersiz kılmaya veya boş ilân etmeye hiçbir itirazın gücü yetmez. “Câhil kâfirler”den bahsetmeden veya onlara misyonerleri yollamadan önce kendi bilgimizi birazcık yoklasak daha iyi olurdu. Eğitimciler her yerde öğrencilerinin yüzeyselliği hakkında şikâyet ediyorlar. Yale Üniversitesi’nden Profesör Wilbur L. Cross, diğer şaşırtıcı câhillik vakaları yanında bir gerçekten bahsediyor: “40 kişilik bir sınıfta hiçbir öğrenci Judas Iscariot’un ne olduğunu bilemedi !” 
+
+Misyonerlerin, çalışmalarını “kâfir” ülkelerde veya kenar mahallelerde yapmaları yerine kendi ülkemizin yüksekokullarında ve o okulların öğrencilerini aydınlatmada yürütmeleri daha anlamlı olurdu. Bu yöntem şu ilkelere de uygun düşer: “İyilik kendi evinde başlar” ve “Tanrı, bilgisiz kâfirleri öldürmez”. Böyle kişileri, sayesinde cennete gideceklerinden emin oldukları câhillikleri içinde bırakmak, onları “aydınlatıp” böylelikle cehenneme gitme ihtimâlini arttırmaktan daha iyi olurdu. Muhakkak ki bu da, “câhilliğin mutluluk olduğu yerde, bilgi aptallıktır” sözünün kapsamına giren durumlardan biridir. Kâfirleri kendi hallerine bırakır ve de evimizdeki câhil Hristiyanlarla ilgilenirsek kendimize ve kâfirlere çok büyük bir hizmet yapmış oluruz. Bundan başka, Yeniden Doğuş öğretisinin kâfirlere özgü bir öğreti olduğunu söylemek, onun yanlış olduğunu kanıtlamak anlamına gelmez. Bu teorinin Doğuda kabul edilen üstünlüğünü ona karşı bir kanıt olarak kullanmak, bir matematik probleminin çözümünün doğruluğunu, onu ilk çözen kişiyi beğenmediğimiz için kabul etmememize benzer. Buradaki yegâne soru şudur: “Bu teori doğru mudur?” Eğer doğruysa, onun ilk çözümünün kimden geldiği tamamen önemsizdir. 
+
+Diğer tüm dinler Hristiyanlığa çıkar. Zira onlar, ırk dinleridir ve Hristiyanlığın tam ölçüde içerdiği şeylerden sadece belli bir miktarda içerirler. Gerçek Ezoterik Hristiyanlık henüz halka öğretilmemiştir. Ve de insanlık, maddeci aşamayı geçip onu almaya hazır olana dek de öğretilmeyecektir. Yeniden Doğuş ile Sebep ve Sonuç Yasaları hep gizlice öğretilmişlerdir. İlerideki kısımlarda göreceğimiz gibi İsâ’nın doğrudan Emri ile, geçen iki bin yıl boyunca bu iki yasa Batı Dünyâsında açıkça öğretilmemiştir. 
+
+#### <h4 id="wine-as-a-factor-in-evolution">Evrim’de Bir Faktör Olarak Şarap</h4>
+
+Bu yasaların neden atlandığını ve bu öğretinin neden üstünün örtüldüğünü anlamak için, insan tarihinin başlangıcına gitmemiz ve ona, kendi iyiliği için insanlığın Büyük Öğretmenleri tarafından nasıl yol gösterildiğini görmemiz gerekir. 
+
+Okült ilim öğretilerinde, yerdeki gelişim evreleri, “çağ” olarak adlandırılan dönemlere ayrılırlar. İnsanlık 4 çağdan geçti ve bunlar sırasıyla Kutup Çağı, Üstkuzey (Hyperbore) çağı, Lemurya Çağı ve Atlantis Çağı’dır. Günümüzde Âri Çağı’nda bulunmaktayız. 
+
+Birinci çağ olan Kutup Çağı’nda zamanın insanlığı, tıpkı şimdiki madenler gibi sadece yoğun bedene sahipti. Bu yüzden insanlık o zaman madene benzer bir haldeydi. 
+
+İkinci çağ olan Üstkuzey (Hyperbore) Çağda insanlık bir Yaşam Bedene de sahip oldu ve oluşan insan, bitkilerin sahip olduğu bir varlığa sahip oldu. O, bir bitki değildi, ancak bitki gibiydi. 
+
+Üçüncü çağ Lemurya Çağı’nda ise insan, bir Arzu Bedeni’ne sahip oldu ve hayvanın varlığına benzer bir ‘hayvansal insan’ yapısındaydı. 
+
+Dördüncü çağ olan Atlantis Çağı’nda zihin ortaya çıktı ve o, araçları gözönüne alındığında, bu çağda fizik yaşam sahnesine İNSAN olarak çıktı. 
+
+Beşinci ve şimdiki çağ olan Âri Çağı’nda insan, üçüz Rûhu olan Ego’nun üçüncü ve en aşağı yüzünü belli bir dereceye kadar açacaktır. 
+
+Öğrenci bunu iyice kafasına yerleştirsin ki, gelişim sürecinde insanın öz-bilinç’i kazanacağı zamana kadar kesinlikle hiçbir şey şansa bırakılmaz. 
+
+Öz-bilinç’i kazanmasından sonra insana, kendi tanrısal güçlerini açığa çıkarması için kişisel irâdesini kullanabilmesi maksadıyla belli bir faaliyet alanı bırakılır. 
+
+İnsanlığın büyük liderleri, insanın yiyeceği de dâhil olmak üzere her şeyi düşünmüşlerdir. Zira insanın yiyecekleri, onun gelişimiyle çok yakından ilişkilidir. “Bana ne yediğini söyle, sana kim olduğunu söyleyeyim” sözü, akıldışı bir söz değildir ve doğadaki büyük bir gerçektir. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Şekil 6 
+
+Birinci çağın insanı, göksel bir yapıya sahipti. Bu, onun madene benzer bir halde olduğu gerçeğine aykırı değildir, çünkü bütün gazlar da madendirler. Yer hâlâ yumuşaktı ve henüz katılaşmamıştı. Kutsal Kitap insana Âdem der ve onun topraktan, yâni Yer’den yapıldığını anlatır. 
+
+Kâbil, bir çiftçi olarak tanımlanır. O, ikinci çağın insanını simgeler. O bitkiler gibi bir yaşam bedene sahipti ve bu beden onu besliyordu. 
+
+Üçüncü çağda insan, önceki bitkisel yiyeceğine ilave olarak canlı hayvanlardan da yiyecek elde etmeye başladı. Arzu bedeni geliştirmek için kullanılan yol süt içmekti. Ki bu da o zamanın insanını hayvana benzer biçimli yaptı. Bu, Kutsal Kitap’ta şöyle ifade edildi: “Hâbil, bir çobandı”. Fakat hiçbir yerde onun hayvanları öldürdüğü yazmaz. 
+
+Dördüncü çağda insan, hayvanların da ilerisine gelişti ve bir zihne sahip oldu. Düşünceler, sinir hücrelerini öldürürler, mahvederler ve çöküşe neden olurlar. Buna benzer şekilde ve bu sebeple Atlantis Çağı insanlarının yiyeceği hayvan etinden oluşuyordu. O, yemek için öldürüyordu. Bu yüzden de Kutsal Kitap’ta şöyle denilmiştir: “Nemrud, güçlü bir avcıydı”. Nemrud, dördüncü çağ insanını temsil etmektedir. 
+
+Bu arada insan, maddede hep daha derine düşmektedir. Onun önceki yaşam bedeni, içinin iskeletini oluşturmuş ve katılaşmıştır. Ayrıca önceki çağlarda sahip olduğu ruhsal algıları da gitgide kaybetmiştir. Zaten bunun böyle olması planlanmıştı. O, bu kaybettiklerini daha yüksek bir mertebede tekrar kazanmak ve ayrıca daha önceden kendisinde olmayan öz-bilinç’e kavuşmak için yaratılmıştır. Bununla birlikte ilk dört çağ boyunca o, ruhsal âlemin daha geniş bir bilgisine sahipti. Ve de o, ölmediğini ve bir vücûdun yokolup gitmesinin sonbaharda bir yaprağın solup gitmesine benzediğini ve onun yerine başka bir bedeninin büyüyeceğini biliyordu. Bu yüzden somut varlığın bu yer yaşamının fırsatlarını ve avantajlarını çok da iyi değerlendiremiyordu. 
+
+Ancak bu somut varoluştan öğrenilebilecek ne varsa tümünü öğrenebilmesi için onun, bu varoluşun büyük öneminin tamamen bilincinde olması gerekliydi. Kendisinin yüce âlemlerin bir vatandaşı olduğunu hissettiği ve fizik yaşamı gerçek varoluşun sadece küçük bir kısmı olduğunu tam olarak bildiği sürece bu fizik yaşamı yeterince ciddiye almazdı. Ve de yalnızca varoluşunun şimdiki evresinin kendisine sunabileceği büyüme fırsatlarıyla ilgilenmezdi. Zamanını, bugün (1909) hâlâ Hindistan halkının aynı sebepten yaptığı gibi, yerin olanaklarını geliştirmeden boşa harcardı. 
+
+Somut fizik yaşamlarının değerini bilmesini sağlamanın tek yolu insanı, birkaç yaşam boyunca, sahip olduğu yüksek ve ruhsal hafızasından yoksun bırakmaktı. Böylece yer yaşamı boyunca şimdiki tek yaşamında sahip olduğu bilgiden başka hiçbir pozitif bilgi edinmemesi ve bu şekilde bu yaşamı, gerekli ciddiyetle yaşaması sağlandı. 
+
+Hristiyanlık’tan önce, Yeniden Doğuş ile Sebep ve Sonuç yasalarını öğreten dinler vardı. Fakat bu öğretileri bilmesinin insanın ilerlemesine artık yardımcı olmadığı bir zaman gelmişti. Ve de bu öğretileri bildirmemek, ilerlemenin bir sinyali olarak görüldü. Bu bir tek yaşam, en önemli şey hâline getirilmeliydi. Bu yüzden de herkese öğretildiği haliyle Hristiyanlık dininin, Sebep ve Sonuç ile Yeniden Doğuş yasalarını içermediğini görürüz. Bununla birlikte Hristiyanlık, en gelişmiş Irkların dini olduğundan en gelişmiş din de olmalıdır. Ve de bu öğretinin herkese açık öğretimlerden çıkarılmasıyla maddesel Dünyâ, bu evreyi en yüksek noktasına getiren Anglosakson ve Cermen ırkları tarafından fethedildi. 
+
+Her çağda, o çağın koşullarına uymak ve o çağın amaçlarını yerine getirmek için insanın besinleri değiştirildiği veya ona yeni bir şey eklendiği gibi bu çağda da, bir önceki çağın besinlerine yeni bir ürünün eklendiğini görürüz: ŞARAP. İnsandaki ruhsal ilke üzerindeki uyuşturucu etkisi nedeniyle şaraba gerek duyuldu. Zira kendiliğinden hiçbir din insana ruhsal doğasını unutturamadı ve onun, kendisinin “bir toprak solucanı” olduğunu düşünmesini sağlayamadı. Din, “düşündüğümüz gücün yürüdüğümüz gücün aynısı olduğuna” insanı inandıramadı. Aslında kimse, bu kadar ileri gitmeyi amaçlamamıştı. 
+
+O zamana kadar içmek için sadece su kullanılmıştı. Tapınak âyinlerinde de sadece su kullanılmaktaydı. Fakat Atlantis’in (bir zamanlar Amerika ile Avrupa arasında ve bugün Atlas (Atlantik) Okyanusunun işgal ettiği yerde bulunan kıta) batışından sonra bu felaketten kaçan insanlar, üzüm yetiştirmeye ve şarap yapmaya başladılar. Bu olayı Kutsal Kitap’ta anlatılan Nûh’un hikâyesinde buluruz. Nûh, felâketten kurtularak Beşinci Irkın çekirdeğini oluşturan ve bu yüzden de bizim atalarımız olan Atlantis Çağı’nın insanlarını simgelemektedir. 
+
+Alkol’deki aktif prensip bir “rûh”tur. Önceki çağların insanlığı, kendi araçları için en uygun besinleri aldığı gibi beşinci çağda da bu rûh, gelişen insanlık tarafından alınan besinlere eklendi. Bu rûh, beşinci çağ insanının rûhu üzerinde etkili olur ve onu geçici olarak felç ederek insanın Fizik Âleme hakettiği değeri vermesini ve onu bilebilmesini ve onu fethedebilmesini sağlar. Böylece zamanımızdaki insan, kendi ruhsal vatanını unutur. Kendisinin bu varoluştan başka bir şey olmadığı duygusundan doğan büyük bir kararlılıkla artık o, daha önce küçümsediği bu yaşam biçimine sıkı sıkıya sarılır. Ya da en azından bu dünyâdaki somut varoluşu, şimdiki karışık durumunda anlayamadığı bir cennet ihtimaline tercih eder. 
+
+Tapınaklarda sadece su kullanılmaktaydı, fakat bu şimdi değişti. Bir şarap tanrısı olan “Bacchus” ortaya çıktı ve en ileri halklar onun egemenliği altında daha yüce bir yaşam olduğunu unuttular. Şarabın veya fermentasyon ve çürümenin ürünü olan diğer alkollü içeceklerin sahte rûhuna bedel ödeyen hiç kimse, hiçbir zaman kendi yüce Özü, tüm yaşamın kaynağı olan gerçek Rûhu hakkında bir şey bilemeyecektir. 
+
+Bütün bunlar İsâ’nın gelişini hazırlayan olaylardı. Ve de O’nun ilk eyleminin “suyu şaraba çevirmek” (Yuhanna 2,11) olması, en büyük anlamı taşıyordu. 
+
+Havarilerine O, gizlice Yeniden Doğuş’u öğretti. Ve de bunu sadece sözcüklerle yapmadı, aynı zamanda onları “dağa” götürdü. Bu, mistik bir ifadedir ve inisiyasyon yeri anlamına gelir. İnisiyasyon esnasında onlar, Yeniden Doğuş gerçeğini kendi gözleriyle gördüler. Çünkü İlyas, onların önünde belirdi ve onlara, görünen kişinin aynı zamanda Vaftizci Yahyâ olduğu söylendi. İsâ’nın kendisi bunu daha önce de çok açık bir şekilde söylemişti. İsâ, Vaftizci Yahyâ’dan bahsederken “o, gelmesi beklenen İlyas’dır” demişti. İsâ bunu, ölümden dirilişinde (transfiguration) “İlyas çoktan geldi, fakat onu tanımadılar ve ona istediklerini yaptılar” diyerek de ifade etti. Ve bunun ardından onlar, “O’nun Vaftizci Yahya’dan bahsettiğini anladılar” (Matta 17, 12-13). İsa’yla havarileri Yeniden Doğuş’u tartışırlarken havarileri İsa’ya, aralarından bazılarının O’nun İlyas olduğunu, diğerlerinin de O’nun yeniden doğmuş peygamberlerden biri olduğunu düşündüklerini söylediler. İsa onlara, bunu “kimseye söylememelerini” emretti. (Matt 17,9 ; Luk 9,21). Bu öğreti, binlerce yıl boyunca sır olarak kalmalı ve kendilerini bu bilgiye hazırlamış ve de sadece bu gerçeklerin insanlarca yeniden bilineceği gelişim seviyesine yükselmiş olan birkaç öncü tarafından bilinmeliydi. 
+
+İsâ’nın Yeniden Doğuş’u ve Sebep ve Sonuç yasasını öğrettiği, doğuştan kör adamla ilgili olayda, başka hiçbir yerde olmadığı kadar açıkça görülür. Orada havarileri sorar: “Bu adam veya âilesinden kim, kör doğmasına sebep olan günâhı işledi?” (John 9,2) 
+
+İsâ, Yeniden Doğuş ve Sebep ve Sonuç Yasalarını öğretmemiş olsaydı bu soruya verilecek cevap şu olurdu: “Saçma! Bir insan nasıl doğmadan önce günah işlemiş ve körlük cezasını haketmiş olabilir?” Fakat İsâ, bundan daha farklı bir cevap verdi. O, soruya şaşırmadı ve soruyu tuhaf karşılamadı. Bununla da bu olayın, kendi öğretileriyle tam bir uyum içerisinde olduğunu gösterdi. Ve de şu cevabı verdi: “Ne bu adam ve ne de ailesi günah işledi; fakat Tanrı’nın eserleri onda açığa çıktı”. 
+
+Bu olayın ortodoks yorumu, İsâ’nın gücünü göstermesi ve bir mucize meydana getirme fırsatına sahip olabilmesi için adamın kör doğduğunu ileri sürer. Ancak o zaman Tanrı, İsa’nın şöhretini arttırmak için keyfi bir biçimde, sırf İsâ günün birinde gelip “gösteriş” yapsın diye bir adamı yıllarca körlüğe ve sefâlete mahkum etmiş olurdu. Bir insan bu şekilde davranmış olsaydı biz onu acımasız bir canavar olarak adlandırırdık. 
+
+Bu olayın başka bir açıklamasının olduğunu varsaymak çok daha mantıklıdır. Çünkü Tanrı’ya, bir insanda bile gördüğümüzde en ağır şekilde kınayacağımız bir davranışı atfetmek kesinlikle saçmadır. 
+
+İsâ, insanın fiziksel olarak kör bedeniyle, onun Yüce Öz’ü olan içindeki Tanrı’yı birbirinden ayırır. 
+
+Yoğun beden günah işlememiştir. Onun içindeki Tanrı, şu anda insana ızdırap veren belli dertler şeklinde ortaya çıkan bazı işler yapmıştır. İnsanı Tanrı olarak adlandırmak abartılı değildir. Paul, “Tanrılar olduğunuzu bilmiyor musunuz?” der. Ve de insan bedeninin, “Tanrı’nın tapınağı” yâni onun içindeki Rûhun tapınağı olduğuna işaret eder. 
+
+Sonuçta, insanların pek çoğu geçmiş yaşamlarını hatırlamamalarına rağmen, geçmiş yaşamlarını hatırlayan insanlar da vardır. Eğer bilgiye ulaşmak için uygun bir hayat sürebilselerdi, tüm insanlar da geçmiş yaşamlarını hatırlayabilirlerdi. Fakat bu bilgiyi edinmek için çok güçlü bir karaktere sahip olmak zorunludur. Zira böyle bir bilgi bize, üzerimizde asılı bulunan kara ve kötü bir kadere sahip olduğumuzu söyleyebilir. Ve bu kader, yakında gerçekleşecek korkunç bir felâketle kendini açığa vuracak olabilir. Doğa, bizi bekleyen acıları düşünerek zihnimizin huzurunu bozmamamız için şefkatli bir şekilde geçmişi ve geleceği bizden gizlemiştir. Gelişerek daha da yükseğe çıktığımızda yaşamın tüm deneyimlerini aynı soğukkanlılıkla ve memnuniyetle karşılamasını öğreneceğiz. Tüm dertlerimizi, geçmişteki haksızlıklarımızın sonucu olarak göreceğiz ve bu haksızlıkların bedelini ödeyip onları kaldırma fırsatı olan dertlerimizi minnettarlıkla kabul edeceğiz. Zira biliyoruz ki, ancak böylelikle bizim ile yaşam ve ölüm çarkından kurtuluş günü arasındaki engelleri ortadan kaldırabiliriz. 
+
+Bir insan herhangi bir yaşamında daha çocukken ölürse bir sonraki bedenlenmesinde o yaşamını hatırlaması, ender görülen bir olay değildir. Çünkü 14 yaşın altındaki çocuklar, yeni araçlarının tamamının yapımı için gerekli olan tüm yaşam çemberini dolaşma işlemini yerine getirmemişlerdir. Onlar kolayca Arzu Âlemin üst Bölgelerine geçerler ve genelde ölümden sonraki bir ilâ yirmi yıl arasında meydana gelen yeni bir bedenlenmeyi beklerler. Yeniden bedenlendiklerinde, beraberlerinde eski zihinlerini ve Arzu bedenlerini getirirler ve onların çocukça konuşmalarını dikkatle dinlediğimizde, tıpkı aşağıda anlatacağımız örnekte olduğu gibi onların hikâyelerini keşfedebilir ve su yüzüne çıkarabiliriz: 
+
+#### <h4 id="a-remarkable-story">Dikkate Değer Bir Hikâye</h4>
+
+Günlerden birinde Kaliforniya’daki Santa Barbara’da, Teosofi üzerine konferanslar da veren deneyimli bir durugörüre, Roberts adında bir adam geldi ve içinde bulunduğu karmaşık durum için ondan yardım diledi. Bay Roberts önceki gün sokakta yürürken üç yaşındaki bir kız çocuğu ona doğru koşmuş ve “baba” diyerek onun dizlerine sarılmıştı. Bay Roberts önce, birisinin çocuğu, onun babası olduğuna inandırmaya çalıştığını sanarak kızmıştı. Ancak çocuğun hemen arkasından gelen annesi de aynı şekilde kızgındı ve çocuğu Bay Roberts’den uzaklaştırmaya çalıştı. Fakat çocuk Bay Roberts’e sıkıca tutunarak onun babası olduğunda diretti. İleride bahsedeceğimiz, önceden yaşadığı olaylar sebebiyle Bay Roberts kızı aklından çıkaramıyordu. Bu nedenle de durugörüre başvurmuştu. Bay Roberts ve durugörür, birlikte çocuğun evine gittiler ve çocuğun bulunduğu odaya girer girmez küçük kız hemen Bay Roberts’e doğru koştu ve ona baba demeye başladı. Kendisini X olarak adlandıracağım durugörür, önce çocuğu pencerenin kenarına getirdi ve de çocuğun gözbebeklerinin, ışıkla büyüyüp büyümediklerini ve ışıktan uzaklaştırıldığında da küçülüp küçülmediklerini kontrol etti. Bu şekilde o, çocuğun bedenini gerçek sâhibinin dışında başka bir varlığın ele geçirip geçirmediğini tespit etmek istedi. Çünkü göz, rûhun penceresidir ve bir bedeni “ele geçiren” hiçbir varlık gözü tam bir şekilde kontrol edemez. Ancak Bay X, çocuğun tamamen normal olduğunu gördü ve onu dikkatli bir şekilde sorgulamaya başladı. Çocuğun yorulmaması için aralıklı olarak tüm öğleden sonra devam eden sabırlı bir uğraşıdan sonra çocuğun hikâyesi ortaya çıktı. Çocuk hikâyesini şöyle anlattı: 
+
+Bu kız çocuğu bir zamanlar, babası Bay Roberts ve diğer annesi ile birlikte, başka hiçbir evin olmadığı ıssız bir yerdeki evlerinde yaşıyordu. Evin yakınlarından küçük bir dere akıyordu ve derenin kenarında çiçekler vardı (bu sözlerden sonra çocuk dışarıya koştu ve bir süre sonra içeriye birkaç tane çiçek getirdi). Derenin üstünde küçük bir köprü vardı ve dereye düşebileceği korkusuyla anne babası onu, köprüyü geçmemesi konusunda uyarmıştı. Günün birinde babası onu ve annesini terk etmiş ve bir daha geri dönmemişti. Yiyecekleri tamamen bittiğinde annesi yatağa uzandı ve hiç hareket etmedi. En sonunda kız çocuğu oldukça tuhaf bir şekilde şöyle dedi: “Sonra ben de öldüm, ama ölmedim, buraya geldim”. 
+
+Bundan sonra Bay Roberts hayat hikâyesini anlattı. Bundan on sekiz yıl önce Londra’da yaşamaktaydı ve babası bira yapımcısıydı. Garson kızlardan birine aşık oldu. Ancak babası bu ilişkiye karşı çıkmış, o da evlendikten sonra garson kızla birlikte Avustralya’ya göç etmişti. Orada ıssız bir yere yerleşmiş ve küçük bir çiftlik kurmuştu. Tam da çocuğun tarif ettiği gibi bir dere kenarına da küçük bir kulübe yapmıştı. Bundan sonra Bay Roberts’in bir kız çocuğu oldu. Bir gün, bu çocuk iki yaşlarındayken Bay Roberts, biraz uzaktan odun kesmek üzere evinden çıktı. Odun keserken silahlı bir adam ona doğru geldi ve onu bir banka hırsızlığı sebebiyle kanun namına tutukladığını söyledi. Polis memuru, onun aranan bir suçlu olduğunu düşünerek buraya kadar izini sürmüştü. Bay Roberts karısını ve çocuğunu görmek için izin istedi. Fakat polis memuru, bunun kendisini suç ortaklarının eline düşürmek için bir tuzak olduğunu sandı ve bu isteğini reddetti. Ve de Bay Roberts’i silah zoruyla sahile götürdü. Böylece tekrar İngiltere’ye götürüldü ve daha sonra suçsuzluğunun ispatlanacağı mahkemeye çıkarıldı. 
+
+Ancak suçsuzluğu ispatlandıktan sonra görevliler onun, vahşi ve ıssız bir yerde açlıktan ölüme terk ettiği karısı ve çocuğu hakkında söyleyip durduğu yakınmalarını dinlediler. Böylelikle kulübeye bir araştırma ekibi gönderildi. Fakat onlar kadının ve çocuğun iskeletleriyle karşılaştılar. Bu arada Bay Roberts’in babası da öldü. Ancak babası onu mirasından mahrum bırakmıştı. Buna rağmen kardeşleri mirası onunla paylaştılar. En sonunda da o, umudunu yitirmiş bir adam olarak Amerika’ya gelmişti. 
+
+Bay Roberts, hayat hikâyesini anlattıktan sonra Bay X.’in tavsiyesiyle kendisine ve eşine ait birkaç fotoğrafı başka fotoğraflarla karıştırıp kız çocuğunun önüne koydu. Bay Roberts’in fotoğraftaki haliyle şimdiki hali çok farklı olmasına rağmen çocuk hiç tereddüt etmeden önceki anne babasını tanıdı. 
+
+<h2 id="part-2">2. KISIM: Evrenin Yaratılışı (Kosmogenesis) ve İnsanın Yaratılışı (Antropogenesis)</h2>
+
+### <h3 id="chapter-5">5. Bölüm: İnsanın Tanrı ile Olan İlişkisi</h3>
+
+Önceki bölümlerde insanın, içinde evriminin devam ettiği beş âlemden üçüyle olan ilişkisinden bahsettik. Bu üç âlemi kısmen anlattık ve bilincin bu âlemlerle ilişkide olmasını sağlayan araçlarını gördük. Ayrıca insanın, maden, bitki ve hayvan krallıklarıyla ilişkisini de inceledik ve insan krallığı ile diğer üç krallık arasında araçların farklılığını ve bunun sonucu olarak da bilinç hallerinin farklılığını inceledik. İnsanı, bir yaşam döngüsü boyunca üç âlemde izledik ve ikiz yasalar Sebep ve sonuç ile Yeniden Doğuş’un, insan evrimi üzerindeki etkilerini inceledik. 
+
+İnsan gelişiminin daha ilerideki detaylarını öğrenmek için şimdi de onun, Evrenin Yüce Mimarı olan Tanrı ve Göksel Varlıkların Hiyerarşileri’ni incelememiz gerekir. Bu Göksel Varlıklar, Yakup’un Merdiveni’nin çok çeşitli basamaklarında bulunmaktadır ve bu Merdiven, insandan Tanrı ve ötesine kadar uzanmaktadır. 
+
+Böyle bir inceleme yapmak, son derece zordur ve bu konuyla ilgili eserleri okumuş olan okuyucuların çoğunun zihninde oluşmuş olan belirsiz Tanrı anlayışları ile iş daha da zorlaşmaktadır. İsimlerin kendi içlerinde ve birbirleri için önemli olmadığı doğrudur. Fakat bizim bir isimle neyi kastettiğimizi bilmemiz çok önemlidir. Aksi takdirde yanlış anlama kaçınılmaz olacaktır. Ve yazarlar ve öğretmenler ortak bir terminoloji üzerinde anlaşmazlarsa belirttiğimiz karışıklık daha da içinden çıkılmaz olacaktır. “Tanrı” kelimesi kullanıldığında, bununla Mutlak ve Bir Olan ve Evrenin Yüce Mimarı olan Tanrı’nın mı, bizim Güneş Sisteminin Mimarı’nın mı kastedildiği belli değildir. 
+
+Tanrılığın “Baba”, “Oğul” ve “Kutsal Rûh” olarak üçe bölünmesi de kafa karıştırıcıdır. Bu isimlerle anılan Varlıklar, insanın sonsuz derecede yukarısında olmalarına ve insanın, Tanrısallığın en yüksek kavrayışıyla yapabileceği bütün yüceltmelere ve tapınımlara lâyık olmalarına karşın Onlar, birbirlerinden farklıdırlar. 
+
+Şekil 6 ve Şekil 11 belki bu konuyu daha açık ifade edebilir. Âlemler ve Kozmik Planlar’ın uzayda birbirlerinin üzerlerinde bulunmadığı unutulmamalıdır. Aksine yedi Kozmik Plan, birbirlerine ve yedi âleme nüfuz etmiş bir halde bulunmaktadırlar. Onlar rûh-maddesi’nin, birbirlerine nüfuz etmiş olan halleridirler. Böylece Tanrı ve belirttiğimiz diğer yüce Varlıklar, uzayda birbirlerinden ayrı değildirler. Onlar, kendi âlemlerinin her kısmını ve kendilerinden daha yoğun âlemleri kaplamışlardır. Ve onların tümü, dünyâmızda da bulunmaktadırlar ve bize “ellerimizden ve ayaklarımızdan daha yakın”dırlar. Şu apaçık bir hakikattir: “O’nda yaşarız, hareket ederiz ve O’nda varoluruz”. Çünkü hiçbirimiz, dünyâmızı kaplayan ve ayakta tutan bu yüce Varlıkların ( Intelligence) dışında varolamayız. Eter Bölge’nin, yoğun Dünyamızın atmosferinin dışına dek uzandığını; Arzu Âlemi’nin uzayda Eter Bölge’nin ötesine dek ulaştığını ve Düşünce Âleminin de bu iki âlemin ötesine, uzayda gezegenler arasındaki boşluğa dek uzandığını söylemiştik. Elbette ki daha ince maddeden oluşan âlemler uzayda, kendilerinden daha yoğun âlemlerden daha fazla yer kaplarlar, çünkü daha yoğun âlemler, kristalleşmiş ve yoğunlaşmışlardır ve bu yüzden de daha az yer işgal ederler. 
+
+Aynı ilke Kozmik Planlar için de geçerlidir. Onları yukarıdan aşağıya doğru birden itibaren numarandırırsak, hepsinin içerisinde en yoğun olanı yedincidir. Ancak biz şekilde yedinci planı diğerlerinden daha büyük gösterdik, çünkü bu plan bizim en yakından ilişkili olduğumuz plandır ve onun herbir alt-bölümü şekilde tek tek gösterilmek istenmiştir. Fakat gerçekte bu plan, uzayda diğer Kozmik Planlardan daha az yer kaplar. Ancak hatırlanmalı ve dikkate alınmalıdır ki, boyutsal olarak tüm planların en küçüğü olmasına karşın bu plan bile, yine de tahmin edilemeyecek ölçüde büyüktür ve büyüklüğü, insan zihninin kavrayabileceğinin çok ötesindedir. O, bizimkine benzeyen milyonlarca Güneş Sistemi’ni kaplar. Bu Güneş Sistemleri bizim evrim seviyemize yakın birçok farklı derecedeki varlıkların evrim alanlarıdır. 
+
+Bizim planımızdan yukarıda bulunan altı Kozmik Plan’la ilgili olarak hiçbir şey bilmiyoruz. Bize sadece bu Kozmik Planların, tarif edilemez ihtişama sahip Varlıkların büyük Hiyerarşilerinin faaliyet alanları olduğu söylenmiştir. 
+
+Kendi Fizik Âlemimizden, içteki ve ince âlemlere Kozmik Planlardan geçerek ilerlersek görürüz ki bizim Güneş Sistemimizin Mimarı ve bizim varoluşumuzun kaynağı ve amacı olan Tanrı, yedinci Kozmik Planın en yüksek bölümünde bulunmaktadır. Bu, O’nun âlemidir. 
+
+O’nun âlemi, bizim güneş sistemimize ait olan diğer gezegenlerde (Uranüs, Satürn, Jüpiter, Mars, Dünyâ, Venüs, Merkür) ve onların uydularında devam eden evrim sistemlerini içermektedir. 
+
+Gezegensel Rûhlar olarak belirttiğimiz Büyük Ruhsal Zekâlar bizim evrimimizi yönetirler ve “Tahtın önündeki Yedi Rûh” olarak adlandırılırlar. Ve de Tanrı’nın Elçileri’dirler. Onlardan herbiri, bizim Güneş Sistemimiz olan Tanrı’nın Krallığı’nda belli bir bölümden sorumludurlar. Güneş ise evrenimizdeki en yüce varlıkların evrim alanıdır. Ancak en yüce varlıklar, güneşin korkunç titreşimlerine dayanabilirler ve o titreşimler aracılığıyla gelişebilirler. Güneş, doğada Tanrı’nın simgesi olarak gördüğümüz şeylerden Tanrı’ya en yakın olanıdır. Ancak güneş sadece bir örtüdür ve örtünün altında bulunanı saklar. Örtünün altında bulunan ise burada açıkça söylenemez. 
+
+Bizim Güneş Sistemimizin Mimarının kaynağını keşfetmeye çalıştığımızda yedi Kozmik Plan’dan en yüksekte olanına gitmemiz gerekir. En yüksekteki Kozmik Plan, Mutlak’tan (ZÂT) çıkmış olan En Yüce Varlığın (ALLAH) âlemidir. 
+
+Mutlak, her türlü anlayışın ötesindedir. Anlayabileceğimiz hiçbir tanım, hiçbir benzetme onunla ilgili herhangi bir fikri bize iletemez. Açıklama, daima sınırlama da içerir. Bu yüzden Mutlak’ı en iyi, ‘Sınırsız Varlık’ ve ‘Varoluşun Kökü’ olarak niteleyebiliriz. 
+
+Şekil 7!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Varoluşun Kökü’nden yâni Mutlak’tan, tezâhür’ün (manifestasyon) başlangıcında ilk olarak Yüce Varlık açığa çıkar. O, BİR’dir. 
+
+Yuhanna İncili’nin birinci bölümünde bu Büyük Varlık, Tanrı olarak adlandırılmıştır. Bu En Yüce Varlık’tan “onsuz hiçbir şeyin yaratılmadığı”, yaratıcı emir olan Kelime, “Olsun!” çıkar. Bu Kelime, daha hiçbir âlem yaratılmadan babası En Yüce Varlık tarafından doğurulmuş olan tek Oğul’dur. Ancak O, kesinlikle Mesih ( Christ) değildir. Mesih ne kadar yüce ve ihtişamlı olsa da ve sâf insan doğasının ne kadar yükseğinde olsa da bu Yüce Varlık, İsa değildir. Gerçekten de “Söz, et oldu”; ancak bahsedilen et, bir bedenin eti gibi sınırlı bir anlamda değil, bu güneş sistemindeki ve diğer milyonlarca güneş sistemlerindeki her şeyin eti anlamındadır. 
+
+En Yüce Varlığın birinci görünümü GÜÇ olarak nitelendirilebilir. Bu görünümden ikinci görünüm olan KELİME çıkar. Ve bu iki görünümden de üçüncü görünüm olan HAREKET meydana gelir. 
+
+Üçüz olan bu En Yüce Varlık’tan yedi Büyük Kelime çıkar. Bunlar Kendilerinde, çeşitli Kozmik Planlara dağıldıkça hep daha fazla farklılaşan bütün büyük Hiyerarşileri içerirler (Bakınız Şekil 6) . İkinci Kozmik Planda 49 Hiyerarşi; üçüncü Kozmik Planda ise 343 Hiyerarşi bulunmaktadır. Bunların herbiri de yedi bölüme ve alt-bölüme ayrılabilirler. Böylece Güneş Sisteminin tezâhür ettiği en alt Kozmik Plan’da bölüm ve alt-bölümlerin sayısı neredeyse sonsuzdur. 
+
+Yedinci Kozmik Planın en yüksek âleminde bizim Güneş Sistemimizin Tanrı’sı ve tüm diğer Güneş Sistemlerinin Tanrıları oturmaktadır. Bu Yüce Varlıklar da, En Yüce Varlık gibi üçüz olarak görünürler (tezâhür ederler). Bunların üç görünümleri, İrâde, Bilgelik ve Faaliyet’tir. 
+
+Tanrı’dan çıkmış olan ve kendilerine yedi gezegenden birindeki yaşam evriminin sorumluluğu verilmiş olan yedi Gezegensel Rûhtan herbiri de aynı şekilde üçüzdürler ve kendi içlerinde Yaratıcı Hiyerarşilere ayrılırlar. Bu Yaratıcı Hiyerarşiler yedili bir evrimden geçmektedirler. Gezegensel Rûhların herbiri tarafından yürütülen gelişim, diğer Gezegensel Rûhların kullandığı gelişim yöntemlerinden farklıdır. 
+
+Evrimlerinde en erken evrelerde en gelişmiş varlıklar yavaş yavaş Gezegensel Rûhun asıl görevini üzerlerine almakta ve evrimi onlar devam ettirmektedirler. Böylelikle de Gezegensel Rûh, bu işteki aktif katılımından çekilmekte ve sadece vekillerini yönetmektedir. Bu, en azından bizim ait olduğumuz gezegenler sisteminde geçerlidir. 
+
+Yukarıda bahsedilen öğreti, tüm Güneş Sistemleriyle ilgili öğretidir. Aşağıda da bizim ait olduğumuz Güneş Sistemi’ne inip, onunla ilgili öğretiyi vereceğiz. Deneyimli bir durugörür, doğanın hafızasını araştırarak bu öğretiyi kendisi de bulabilir. 
+
+### <h3 id="chapter-6">6. Bölüm: Evrim Projesi</h3>
+
+#### <h3 id="the-beginning">Başlangıç</h3>
+
+“Yukarıda nasılsa aşağıda da öyledir” ( ya da “aşağıda nasılsa yukarıda da öyledir”) hermetik ilkesiyle uyumlu olarak Güneş Sistemleri de doğar ve ölür ve de insanlar gibi faaliyet ve dinlenme döngülerinden geçerek yeniden doğarlar. 
+
+Doğanın her yerinde faal yaşamın alevlenmesini ve ölüp gitmesini görürüz. Her şey, sırasıyla Med ve Cezir, Gündüz ve Gece, Yaz ve Kış ile Yaşam ve Ölüme benzer. 
+
+Bir Tezâhür Günü’nün (yaratım günü) başlangıcında, (Batı’da Tanrı adıyla, dünyânın diğer bölgelerinde ise başka adlarla ifade edilen) büyük bir Varlığın, Kendisini uzayın Kendi seçtiği belli bir bölgesine sınırladığı öğretilir. Burada O, çoğaltılmış öz-bilincin evrimi için bir Güneş Sistemi yaratmıştır. (Bakınız Şekil 6) 
+
+O, Kendi Varlığında çok sayıda görkemli Hiyerarşi içerir. Bu Hiyerarşiler bizim kavramlarımıza göre ifade edilemeyecek ölçüde büyük ruhsal güç ve görkem sahibidirler. Ve de aynı Varlığın daha önceki tezâhürlerinin meyveleridirler. Aynı şekilde O’nda gelişimin aşağıya doğru alçalan evrelerinde varlıklar da bulunurlar. En düşük evrelerdeki varlıklar, insanlığın şimdiki bilinç seviyesine ulaşmamış varlıklar da vardır. Onlar, evrimlerini bizim Sistemimizde tamamlayamayacaklar. Tanrı’da, yâni bu büyük ve kollektif Varlıkta, her zekâ seviyesinden ve her bilinç seviyesinden varlıklar bulunur. Bu seviyeler, Her şeyi Bilme seviyesinden başlar, en derin trans hâlinden daha derin bilinçsizlik seviyesine kadar iner. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Şu anda ilgilendiğimiz tezâhür dönemi boyunca çeşitli derecelerden bu varlıklar, bu varoluş döneminin başında sahip oldukları deneyimi arttırmaya çalışırlar. Önceki varoluşlarında en yüksek bilinç seviyesine erişmiş olanlar, henüz hiç bilinç geliştirmemiş olanlar üzerinde çalışırlar. Bu ilk grup, ikinci gruptakilerin içinde bir öz-bilinç hâli uyandırır ve bu durum da onların kendilerini geliştirmeye devam edebilmelerini sağlarlar. Evrimlerine daha önceki bir Tezâhür Gününde başlamış, ancak çok ileriye gidememiş olanlar, şimdi bu işlerine devam ederler. Bu, bizim her sabah günlük işimize, bir önceki akşam bıraktığımız yerden devam etmemize benzer. 
+
+Ancak bu çeşitli Varlıkların tümü, evrimlerine yeni bir tezâhürün ilk aşamalarında hemen başlayamazlar. Onlardan bazıları, evrimlerinin devamı için gerekli koşulları kendilerinden ileride olanların yaratmalarını beklerler. Doğada hiçbir işlem birdenbire olup bitmez. Her şey, olağanüstü yavaş bir açılım ve olağanüstü yavaş meydana gelse de kesinlikle nihai mükemmelliğe erişmeyi hedefleyen bir gelişmedir. Nasıl insanın yaşamında ilerleyen aşamalar –çocukluk, gençlik, yetişkinlik ve yaşlılık- varsa makrokozmos’ta da, mikrokozmik yaşamın çeşitli dönemlerine karşılık gelen farklı aşamaları buluruz. 
+
+Bir çocuk, babalık veya annelik görevlerini üstlenemez. Henüz gelişmemiş zihinsel ve fiziksel yetileri onun böyle bir işi yapmasını olanaksız kılar. Aynı şey, az gelişmiş olanlar için de tezâhür döneminin başlangıcında geçerlidir. Evrimlerinde daha yükseğe erişmiş olanlar, onlar için uygun koşulları hazırlayana dek beklemek zorundadırlar. Evrim yolundaki varlığın zekâ seviyesi ne kadar düşükse, dışarıdan yardıma o kadar çok muhtaçtır. 
+
+İşte en yüksek Varlıklar, yâni en ileri derecede evrimleşmiş olanlar başlangıçta, en derin bilinçsizlik seviyesine sahip olanlar üzerinde böyle çalışırlar. Yüksek Varlıklar bu işi daha sonra biraz gelişmiş varlıklara devrederler; çünkü bu varlıklar da artık bu işi daha ileri götürebilecek durumdadırlar. En sonunda öz-bilinç uyandırılır. Gelişen yaşam, İnsan olmuştur. 
+
+Öz-bilinçli kişisel Ego onun varlığına girdiği andan itibaren varlık, artık dışarıdan yardım almadan devam etmek ve bilincini genişletmek zorundadır. Artık dış öğretmenlerin yerini deneyim ve düşünce alır ve kişinin edinebileceği şan, güç ve ihtişamın sınırı yoktur. 
+
+Öz-bilincin kazanıldığı ve Rûhun insanda tezâhür edebilmesini sağlayan araçların yapıldığı zaman dönemine “İnvolüsyon” (involution) denir. Bu dönemden sonra gelen ve bireysel insan varlığının öz-bilincini, tanrısal Her şeyi bilme durumuna geliştirdiği yaşam dönemine de “Evrim” (evolution) denir. 
+
+Gelişen varlığın içinde bulunan güç, evrimi tam anlamıyla gerçekleştirir. Bu güç sayesinde evrim, sadece tohumda varolan gizil olasılıkların açılımı olmaktan çıkar. Ve bu güç, her bir bireyin evrimini, diğer bireylerin evriminden farklı kılar. Ayrıca orijinallik unsurunu sağlar. Bu güç, yaratıcı yeteneklere faaliyet alanı sağlar. Gelişen varlık, bir Tanrı olabilmek için bu yaratıcı yeteneğini ilerletmelidir. Bu güç, “Dehâ” olarak adlandırılır ve önceden açıklandığı gibi “Epigenesis” (hücreden yaratım) olarak tezâhür eder. 
+
+Modern zamanların ileri felsefelerinin çoğu, involüsyon ve evrimi kabul etmektedirler. Bilim ise yalnızca evrimi kabul eder. Çünkü bilim, tezâhürün yalnızca Form kısmıyla ilgilenir. İnvolüsyon ise yaşam tarafına aittir. Fakat en ileri bilimadamları Epigenesis’i kanıtlanabilir bir gerçek olarak görmektedirler. Gülhaç Evren Görüşü; Epigenesis, İnvolüsyon ve Evrimi birleştirir. Çünkü bu görüş, ait olduğumuz Sistemin geçmişteki, şimdiki ve gelecekteki gelişimini tam olarak anlayabilmek için bunu gerekli olarak görmektedir. 
+
+#### <h4 id="the-seven-worlds">Yedi Âlem</h4>
+
+Bir Evrenin inşasının nasıl olduğunu göstermek için basit bir örnek verebiliriz. Varsayalım ki bir adam, içinde yaşamak için bir ev inşa ettirmek istiyor. O, öncelikle ev için uygun bir yer seçecek ve sonra da evi inşa etme işine geçecektir. Adam evi belli amaçlarla kullanmak için çeşitli odalara bölecektir. Bu odalardan bir mutfak, bir yemek odası, yatak odaları ve banyo yapacaktır. Ve daha sonra tüm bunları, amaçlarına uygun olarak kullanılabilmeleri için uygun şekilde döşeyecektir. 
+
+Tanrı, yaratmayı dilediğinde uzayda uygun bir yer seçer ve orasını Aurası ile doldurur. Bu uzay kısmının kök-maddesinin her atomuna O’nun yaşamı nüfûz eder. Bu şekilde her bir ayrı atomda gizil halde bulunan faaliyet uyandırılır. 
+
+Bu Kozmik Kök-madde, Evrensel Rûhun negatif kutbunun bir ifâdesidir. Bizim Tanrı dediğimiz (ve rûhlar olarak bir parçası olduğumuz) büyük Yaratıcı Varlık ise aynı Evrensel Mutlak Rûhun pozitif enerjisinin bir ifadesidir. Birinin diğeri üzerindeki çalışmasıyla Fizik Âlemde etrafımızda gördüğümüz her şey meydana gelmiştir. Okyanuslar, Yer ve kendisini maden, bitki, hayvan ve insan formları olarak açığa vurmuş her şey, bu negatif Rûh-maddeden fışkıran kristalleşmiş uzaydır. Bu Rûh-madde, Varoluşun başlangıcında tek başına vardı. Sivrisineğin sert ve katı evinin, onun yumuşak bedeninin katılaşmış sıvılarından yapıldığından ne kadar eminsek, tüm formların, Rûhun negatif kutbu etrafındaki kristalleşmeler olduklarından da o kadar eminiz. 
+
+Tanrı, Kendi Küre’sinin yakınındaki Kozmik Kök-maddeyi Kendisine çeker. Böylece oluşan evrenin içindeki madde, uzayda Güneş Sistemleri arasındaki boşlukta bulunan maddeden daha yoğun hâle gelir. 
+
+Tanrı bu şekilde, içinde oturacağı maddeyi hazırladıktan sonra onda düzen kurar. Sistemin her bir parçasına O’nun bilinci nüfûz etmiştir, fakat her bir parçada farklı bir bilinç ifadesi bulunur. Kozmik Kök-madde çeşitli titreşim oranlarına ayarlanmıştır ve bu yüzden kendi kısımlarında veya bölgelerinde farklı oluşumlara sahiptir. 
+
+Böylece görürüz ki, âlemler varolurlar ve evrimsel şema içerisinde farklı amaçlara hizmet etmek üzere düzenlenirler. Bu tıpkı Fizik Âlemdeki günlük yaşama hizmet etmek için evin odalarının farklı farklı düzenlenmesine benzer. 
+
+Yedi Âlemin varolduğunu daha önce görmüştük. Bu âlemlerin herbiri farklı bir “ritim” (measure) ve titreşim oranına sahiptir. En yoğun âlem olan Fizik Âlemdeki titreşimlerin hızı (ona her sâniyede yüzmilyonlarca ışık dalgası ulaşmasına karşın), kendisine en yakın âlem olan Arzu Âlemine göre bile çok çok küçüktür. Titreşimin ve onun hızının ne olduğu hakkında bir fikir edinmek için belki de en kolay yol, çok sıcak bir sobadan veya pencere kenarındaki kaloriferden çıkan ısı titreşimlerini gözlemektir. 
+
+Hiçbir zaman unutmamalıyız ki bu âlemler, Dünyâmızın diğer gezegenlerden ayrı olması gibi mekân veya mesafe olarak birbirlerinden ayrı değildirler. Bu âlemler, farklı yoğunluk ve titreşimdeki –tıpkı bizim Fizik Âlemimizdeki katı, sıvı ve gazlar gibi– maddenin halleridirler. Ve onlar, bir Yaratım gününün başlangıcında birdenbire yaratılmamışlardır ve onun sonuna dek de kalmayacaklardır. Fakat bir örümcek, ağındaki her bir ipi birbiri ardına nasıl örüyorsa, Tanrı da İçerisindeki âlemleri birbiri ardına kendisinden ayırır. Bu, O’nun uğraştığı evrim planındaki yeni koşullardan ortaya çıkan gereksinime göre olur. Böylece yedi Âlemin tamamı, bugünkü formlarına erişinceye dek derece derece ayrılmışlardır. 
+
+İlk önce en yüksek Âlemler yaratıldı. Ve de involüsyon, yaşamı formların inşası için yavaş yavaş hep daha yoğun maddeye getirmekle sorumlu olduğu için, ince âlemler de gittikçe yoğunlaşırlar ve Tanrı’nın içinde yeni Âlemler ayrışırlar. Bu Âlemler, Tanrı’yla yoğun âlemler arasında gerekli bağlantıyı oluştururlar. Tam zamanında en büyük yoğunluk noktasına, maddesel yaşamın en alt noktasına ulaşılır. Yaşam, ilerleyen evrimle birlikte bu noktadan yüksek Âlemlere doğru çıkmaya başlar. Bu da yoğun Âlemleri birer birer boş bir halde bırakır. Amaca ulaşılıp da özel bir Âlem yaratıldığında Tanrı, bu Âlemlere varlık veren ve onu devam ettiren İçindeki özel faaliyeti durdurarak, o âlemlerin artık gerekli olmayan varlığını sonlandırır. 
+
+En yüksek (en ince, en az yoğun, en eterik) Âlemler en önce yaratılırlar ve en son yokedilirler. Evrimimizin şu anki evresinin sürdüğü en yoğun üç âlem, diğerlerine göre geçicidir (fâni) ve rûhun maddeye dalmasına karşılık gelirler. 
+
+#### <h4 id="the-seven-periods">Yedi Evre</h4>
+
+Evrim planı yedi büyük Tezâhür Evresi boyunca bu beş Âlemden geçilerek tamamlanır. Bu yedi dönemde bâkir Rûh veya gelişen yaşam, önce insan ve sonra da bir Tanrı olur. 
+
+Tezâhürün başlangıcında Tanrı, tıpkı bir alevden kıvılcımın ayrılması gibi kendisindeki bu bâkir rûhları ayırır. Bu ayırma işlemi O’ndan ayrılma şeklinde değil de O’nun içinde bölümlenme şeklinde olur. Alev ve ondan çıkan kıvılcım, aynı doğaya sahiptirler ve ikisi de kendilerinden alev yaratabilirler. Bu bâkir rûhlarda, onların Tanrısal Babasının tüm olasılıkları bulunmaktadır. Ve bu olasılıklara, özgür İrâde’nin tohumu da dahildir. Bu da bâkir rûhların, kendilerinde gizil olarak dahi bulunmayan yeni evreler meydana getirebilmelerine imkân verir. Gizil (latent) olasılıklar, dinamik güçlere ve evrim sırasında kullanılacak yetilere dönüştürülürler. Bu sırada bağımsız İrâde veya Epigenesis de yeni ve orijinal değişiklikler yaratırlar. 
+
+Bâkir Rûh, madde içindeki hac yolculuğuna başlamadan önce, Bâkir Rûhlar Âleminde bulunur. Bu âlem, yedi âlemden en yüksekte bulunan âleme en yakın olanıdır. Onun Tanrısal Bilinci vardır, ancak Öz-bilinci yoktur. Rûh gücü ve Yaratıcı Zekâ, evrim aracılığıyla edinilmesi gereken yetiler veya güçlerdir. 
+
+Bâkir Rûh, Tanrısal Rûh Âlemi’ne daldığında bu madde tarafından kör ve tamamen bilinçsiz hâle getirilir. Ve de o, en derin trans hâlindeki insan gibi dış koşullara karşı duyarsızdır. Bu bilinçsizlik hâli ilk evre boyunca sürer. 
+
+Bu rûh, İkinci Evre’de (Period) rüyâsız uyku hâline yükselir; Üçüncü Evre’de rüyâ hâline erişir ve Dördüncü Evre’nin şu anda bulunduğumuz ortasında da insanın tam uyanık bilincini edinir. Bu, yedi âlemin sadece en aşağısındakine âit bilinçtir. Bu Evre’nin kalan yarısında ve ileride erişeceğimiz üç Evre boyunca insan, bilinci bu Fizik Âlemin üstündeki altı âlemin tamamını kapsayacak şekilde genişletmelidir. 
+
+İnsan, inişi sırasında bu Âlemlerden geçerken enerjileri yüce Varlıklar tarafından yönetildi. Yüce varlıklar, bilinçsiz enerjisini içe yönlendirmede ona yardım ederek onun uygun araçları inşa etmesini sağladılar. En sonunda yeterince geliştiğinde ve gerekli bir enstrüman olan üçüz bedenle donandığında bu yüce Varlıklar, “onun gözlerini açtılar” ve onun bakışını dışa, Fizik Âlemin Kimyasal Bölgesine yönlendirdiler ki, enerjisi orayı fethetsin. 
+
+Kimyasal Bölgede yaptığı çalışmayla hazır olduğunda, ilerlemesinin sonraki basamağı, bilincin kapsamının Eter Bölgesine uzaması olacaktır. Bundan sonra da Arzu Âlemine ve hazır olunca da diğer âlemlere inecektir. 
+
+Gülhaç Literatüründe yedi Evre’nin isimleri aşağıdaki gibidir: 
+
+Satürn Evresi 
+
+Güneş Evresi 
+
+Ay Evresi 
+
+Yer Evresi 
+
+Jüpiter Evresi 
+
+Venüs Evresi 
+
+Vülken Evresi 
+
+Bu evreler, Yer’imizin birbirini takip eden Yeniden Doğuşlarıdır. 
+
+Yukarıda belirtilen Evrelerin, Yer gibi kendi yörüngelerinde güneş etrafında dönen gezegenlerle bir ilgisi olduğu düşünülmemelidir. Gerçekte bu gezegenlerle evreler arasında bir ilişki olmadığı ne kadar söylense azdır. Bu Evreler sadece bizim Dünyâ’mızın geçmişteki, şimdiki ve gelecekteki bedenlenmeleridir (enkarnasyon). Ve bu Evreler, Yer’in içinden geçtiği, geçmekte olduğu ve gelecekte geçeceği koşullardır. 
+
+İlk üç evre (Satürn, Güneş ve Ay Evreleri ) geçildi. Şu anda dördüncü evre olan Yer Evresindeyiz. Gezegenimizin bu Yer Evresi tamamlandığında o ve biz, Tezâhür’ün yedi büyük Günü sona ermeden önce sırasıyla Jüpiter, Venüs ve Vülken Evrelerinden geçeceğiz. Ve de şu anda varolan her şey, dinlenmek için bir evre boyunca Mutlak’ın (Tanrı’nın) içine dalacak ve bu dinlenme evresinde de evriminin meyvelerini sindirecek. Ve sonra da başka bir Büyük Gün’ün şafağında, daha ileri ve daha yüksek bir gelişim için tekrar ortaya çıkacak. 
+
+Geride bıraktığımız üçbuçuk Evreyi, şimdiki araçlarımızı ve bilincimizi kazanmada harcadık. Kalan üçbuçuk evre ise bu araçların mükemmelleştirilmesi ve bilincimizin Her şeyi-Bilme’ye yakın bir hâle genişletilmesinde kullanılacak. 
+
+Bâkir Rûh tarafından bilinçsizlikten Her şeyi-Bilme’ye doğru yapılan yolculuk ve bu yolculuk esnasında onun gizil güçlerini, hareketli enerjiler şeklinde açığa çıkarması olağanüstü karmaşık bir süreçtir. Bu yüzden ilk olarak sadece konunun en kaba hatları verilecektir. Ancak çalışmamızda ilerledikçe, elimizden geldiği ölçüde resmi tamamlayarak detaylara gireceğiz. Öğrencinin dikkati özellikle, sunulan yeni fikirlerle verilen terimlerin tanımlarına yönelik olmalıdır. Bunları ciddiyetle ele alması ondan özellikle istenmektedir. Zira aynı fikir için eser boyunca, anlamayı kolaylaştırmak için bilinen ve bir tek sözcük kullanılmasına çalışılmıştır. Sözcük, nakledilen fikre olabildiğince uygun olabilecek şekilde seçilmiştir. Böylelikle farklı bir terminolojinin yaratabileceği karışıklığın önleneceği umulmaktadır. Terimlerin tanımına çok dikkatli bir şekilde eğilen ortalama bir zekâya sahip bir kişi, evrim şemasının en azından kaba hatlarının bilgisine erişebilir. 
+
+Her zeki birey bize göre, bu bilginin en büyük öneme sahip olduğunun farkındadır. Biz, doğa yasaları tarafından yönetilen bu âlemde yaşarız. Bu yasalara bağlı olarak yaşamak ve çalışmak zorundayız ve onları değiştirme gücüne sâhip değiliz. Eğer bu yasaları bilir ve onlarla akıllıca çalışırsak, bu doğa güçleri elektrik enerjisi ve buharın itme enerjisinde olduğu gibi bizim en değerli hizmetkârlarımız hâline gelirler. Öte taraftan eğer onları anlamaz ve câhilliğimizle onlara karşı çalışırsak, korkunç yıkımlara yolaçabilen en tehlikeli düşmanlarımız hâline gelirler. 
+
+Doğa, görünmeyen Tanrı’nın yalnızca görünür sembolüdür. Doğanın çalışma yöntemlerini ne kadar iyi bilirsek, onun sunduğu büyüme, güç, kölelikten kurtuluş ve ustalığa yükselme fırsatlarını da o kadar iyi kullanabileceğiz. 
+
+### <h3 id="chapter-7">7. Bölüm: Evrim Yolu</h3>
+
+Burada yeri gelmişken konuları daha iyi açıklamak için kullanılan şekillerle ilgili bir uyarı yapalım. Öğrenci aklından hiç çıkarmamalıdır ki, başka bir boyuta indirgenen herhangi bir şey, asla bulunduğu boyuttaki kadar tam ve kesin olamaz. Gerçek bir ev görmemiş olsaydık, bir evin resmi bize çok az şey ifade ederdi veya hatta hiçbir şey ifade etmezdi. Bu durumda resimde sadece çizgileri ve renkleri görürdük. Bu da bizim için herhangi bir anlam ifade etmezdi. Fizikötesi şeyleri betimlemek için kullanılan şekiller, hakikatin olduğundan çok daha küçük ölçüde gerçek ifadeleridirler. Bu da şu basit nedene dayanır: Üç boyutlu ev, resim olarak gösterimde iki boyuta indirgenmektedir. İki boyutlu bu şekillerle, dört ilâ yedi boyut gerçekliğine sahip olan Devreler, Âlemler ve Küreler gösterilmeye çalı- şılmaktadır. Bu yüzden bu şekillerle onların doğru bir şekilde resmedilme imkânı daha da azdır. Hiç unutmamalıyız ki, bu Âlemler ve Küreler içiçe geçmiş bir haldedirler ve onları şekillerde göstermek, bir saatin düzgün çalıştığını göstermek için onu parçalarına ayırıp, çarklarını bir masa üstünde yanyana dizmeye benzer. Eğer öğrenci, bu şekillerden herhangi bir fayda sağlamak istiyorsa onları ruhsal olarak anlamalıdır. Aksi takdirde şekiller onda aydınlanma sağlayacağı yerde yanılgı yaratacaktır. 
+
+#### <h4 id="revolutions-and-cosmic-nights">Devirler ve Kozmik Geceler</h4>
+
+Satürn Evresi yedi Evre’den ilkidir ve bu ilk aşamada bâkir rûhlar, Bilincin ve Form’un evrimine doğru ilk adımlarını atarlar. Şekil 7’den de görüleceği gibi evrimsel tepi (impulse), yedi Küre (A, B, C, D, E, F ve G küreleri) etrafında okların gösterdiği yönde yedi defa dolanır. 
+
+İlk olarak evrimin bir parçası A Küresinde tamamlanır. A Küresi, Tanrısal Rûh Âlemi’nde bulunur. Bu âlem, bizim evrim alanımızı oluşturan beş âlem içinde en seyrek olanıdır. Bundan sonra gelişen yaşam kademeli olarak B Küresine taşınır. Bu küre, ilkinden biraz daha yoğun olan Yaşam Rûhu Âlemi’nde yeralır. Burada evrimin başka bir aşaması gerçekleşir. Gelişen yaşam, belli bir zaman sonra C Küresi’nin arenasını adımlamaya hazır hale gelir. C Küresi, Soyut Düşünce Âleminde bulunur ve bu âlem, ilk iki âlemden daha yoğun bir maddeden meydana gelmiştir. Bu varoluş aşamasındaki dersler öğrenildikten sonra yaşam dalgası D Küresine geçer. D Küresi, Somut Düşünce Bölgesi’nde yeralır. Burası Satürn Evresi’nde yaşam dalgasının en yoğun maddeye eriştiği yerdir. 
+
+Bu noktadan itibaren yaşam dalgası tekrar yukarı yönde E Küresine doğru hareket eder. E Küresi, C Küresi gibi Soyut Düşünce Bölgesi’nde bulunur, fakat buradaki koşullar C Küresinin koşullarından farklıdır. Yaşam dalgası involüsyon’da bulunmaktadır ve âlemlerin maddesi sürekli hep daha yoğun olmaktadır. Her şeydeki eğilim, zamanla daha yoğun ve daha katı olma yönündedir. Evrimin yolu spiral şeklinde olduğundan açıktır ki, aynı noktalar aşılmasına rağmen koşullar hiçbir zaman aynı olmaz. Aksine bu koşullar hep daha yüksek ve daha gelişmiş bir planda bulunurlar. 
+
+E Küresindeki çalışma tamamlandığında F Küresinde bulunan bir sonraki aşamaya geçilir. F Küresi de tıpkı B Küresi gibi Yaşam Rûhu Âleminde yeralır. Yaşam dalgası buradan da G Küresine çıkar. Buradaki çalışma da bitirildiğinde yaşam dalgası bütün bu yedi küre etrafında bir kez dolanmış olur. Bu dolanma, dört farklı Âlem boyunca bir kere aşağı ve bir kere de yukarı doğru gerçekleşir. Bu yaşam yolculuğu bir Devir (Revolution) olarak adlandırılır ve yedi Devir de bir Evre’yi (Period) meydana getirir. 
+
+Yaşam dalgası, yedi Küre etrafında yedi kez dolandığında ve böylece yedi Devri tamamladığında Yaratımın Birinci Günü bitmiş olur. Bu günü, dinlenme ve özümseme için bir Kozmik Gece takip eder. Bu geceden sonra da Güneş Evresi başlar. 
+
+İki dünyâ günü arasındaki bir uyku gecesi ve iki dünyâ yaşamı arasındaki uzun dinlenme süresinde olduğu gibi; Kozmik Dinlenme Gecesi de pasif bir dinlenme dönemi değil, bir sonraki evre olan Güneş Evresi’ndeki faaliyetler için bir hazırlık evresidir. Zira oluşan insan, Güneş Evresi’nde maddenin daha da derinliklerine dalacaktır. Bu yüzden, konumları Satürn Evresi’nde yedi Âlemdeki Küre konumlarından farklı yeni Küreler gereklidir. Bu yeni kürelerin ve diğer kişisel faaliyetlerin sağlanması rûhları, evreler arasındaki süreler olan Kozmik Gecelerde meşgul eder. Bunun işleyişi şu şekilde olur: 
+
+Yaşam dalgası Satürn Evresi’nde A Küresini son kez terk ettiğinde küre, yavaş yavaş çözülmeye başlar. Onu inşa etmiş olan güçler, ( A Küresinin Satürn Evresi boyunca içinde bulunduğu) Tanrısal Rûh Âlemi’nden (A Küresinin Güneş Evresi boyunca içinde bulunduğu) Yaşam Rûhu Âlemi’ne nakledilir. Bu durumu Şekil 8’den görebiliriz. 
+
+Satürn Evresi’nde yaşam dalgası, B Küresi’ni son kez terk eder etmez, bu küre de çözülmeye başlar. Onun güçleri de tıpkı bir insan aracının tohum-atomunda olduğu gibi, Güneş Evresi’ndeki B Küresi’nde tohum olarak kullanılırlar. Güneş Evresi’nde bu küre Soyut Düşünce Bölgesi’nde bulunur. 
+
+Aynı şekilde C Küresi’nin güçleri de Somut Düşünce Bölgesi’ne nakledilirler. Bu güçler, yaklaşmakta olan Güneş Evresi için yeni bir C Küresi yapmak üzere bu bölgenin maddesini kendilerine çekerler. D Küresi de aynı dönüşüme uğrar ve Arzu Âlemine yerleşir. E, F ve G Küreleri de sırasıyla benzer biçimde nakledilir. Şekil 8’den de görüleceği gibi sonuçta Güneş Evresi’nde tüm küreler maddede, Satürn Evresi’nde olduklarından bir adım daha derine inmişlerdir. Bu iki evre arasında Kozmik Dinlenme Gecesi, Satürn Evresi’nde G Küresi’nin son faaliyeti ile Güneş Evresi’nde A Küresi’nin yenilenmiş faaliyeti arasında bulunur. Böylece yaşam dalgası Kozmik Dinlenme Gecesi’nden çıkışından sonra etrafında yeni bir ortam bulur. Bu ortamda da yeni deneyim fırsatları bulunmaktadır. 
+
+Güneş Evresi boyunca yaşam dalgası yedi Küre etrafında yedi kez döner ve içinde Kürelerin bulunduğu dört Âlem veya Bölgenin içinden aşağı ve yukarı doğru yedi kez geçer. Bu da tıpkı Satürn Evresi’nde olduğu gibi Güneş Evresi’nde de yedi Devir meydana getirir. 
+
+Yaşam Dalgası Güneş Evresi’nde A Küresi’ni son kez terk ettiğinde bu küre çözülmeye başlar. A Küresi’nin güçleri Soyut Düşünce Bölgesi’nin yoğun bölgesine nakledilirler. Bu güçler burada, Ay Evresi’nde kullanılmak üzere bir gezegen oluştururlar. Aynı şekilde diğer Kürelerin güçleri de nakledilirler ve Ay Evresi’nin kürelerinde tohum olarak işgörürler. Şekil 8’de de gösterildiği gibi, Ay Evresi’nin kürelerinde de işlem, tıpkı Satürn Evresi’nde kürelerin yerlerinden kaldırılıp Güneş Evresi’nde bulundukları konuma getirilme işlemi gibidir. Böylece Ay Evresi’nin küreleri maddede, Güneş Evresi’nde bulundukları konumdan bir adım daha aşağıya yerleştirilmiş olurlar. En aşağıdaki küre olan D Küresi bu aşamada Fizik Âlemin Eter Bölgesi’ne gelmiştir. 
+
+Güneş Evresi’ni takip eden Kozmik Gece’den sonra yaşam dalgası Ay Evresi’nde, A Küresi üzerinde yol almaya başlar. Ve önceki evrede olduğu gibi burada da yedi Devir tamamlar. Bundan sonra da yine bir Kozmik Gece geçirir. Bu esnada da küreler yine bir adım aşağıya taşınırlar. Bu kez en yoğun Küre, Şekil 8’den de görüleceği üzere Fizik Âlemin Kimyasal Bölgesi’nde bulunmaktadır. 
+
+Şu anda Yer Evresi’ndeyiz ve en aşağıdaki ve en yoğun küre olan D Küresi, bizim şimdiki dünyâmızdır. 
+
+Ay Evresi’ni takip eden bir Kozmik Geceden sonra yaşam dalgası burada da yolculuğuna A Küresi’nden başladı. Yaşam dalgası zamanımızda yedi küreden üç defa geçmiştir ve şu anda D Küresindeki dördüncü devrinde bulunmaktadır. 
+
+Burada yer yüzeyinde ve bu dördüncü devirde, zamanımızdan birkaç milyon yıl önce maddenin en yoğun olduğu –maddedeki en aşağı nokta– duruma erişilmiştir. Bu yüzden bundan sonraki eğilim yukarı yönlüdür ve daha ince maddede de bilinç kazanmayı sağlayacaktır. Bu evreyi tamamlamamız için geçmemiz gereken 3,5 devir boyunca Yer hep daha eterik olacaktır. Ve bir sonraki Evre olan Jüpiter Evresi’nde D Küresi, Ay Evresi’nde olduğu gibi yine Eter Bölgede bulunacaktır. Aynı şekilde diğer küreler de yükseleceklerdir. 
+
+Venüs Evresi’nde bu küreler, Güneş Evresi’nde bulundukları konumda olacaklar. Vülken Evresi’nde ise Satürn Evresi’ndeki kürelerle aynı yoğunlukta olacaklar ve Satürn Evresi’nde kürelerin bulunduğu âlemlerle aynı âlemlerde bulunacaklar. Tüm bunlar Şekil 8’de gösterilmiştir. 
+
+Yaşam Dalgası, Yer Evresi’ndeki çalışmasını tamamladıktan ve onu takip eden Kozmik Gece geçtikten sonra Jüpiter Evresi’nin yedi küresindeki yedi devrini yapacaktır. Bu Evre’den sonra da her zamanki gibi yine bir Kozmik Gece gelecektir. Onun hemen ardından da yedi Devir’e sahip Venüs Evresi gelecektir. Bunu, dinlenme için yine bir Kozmik Gece takip edecektir. Sonuçta da şimdiki evrim planının son evresi olan Vülken Evresi yeralacaktır. Burada da yaşam dalgası yedi Devir yapacaktır. Yedinci devrin sonunda tüm küreler çözülüp yok edileceklerdir. Sonunda da yaşam dalgası Tanrı tarafından tekrar emilecektir. Bu işlem, yedi faaliyet evresi kadar sürecektir. Bundan sonra da Tanrı’nın kendisi de, içinde, başka bir Büyük Gün için özümseme ve hazırlığın meydana geldiği Evrensel Gece boyunca Mutlak’ın içine dalacaktır. 
+
+Bundan sonra da başka ve daha büyük evrimler gelecek, ancak biz sadece bahsettiğimiz bu yedi Evre ile ilgilenebiliriz. 
+
+### <h3 id="chapter-8">8. Bölüm: Evrimin İşleyişi</h3>
+
+#### <h4 id="ariadnes-thread">Aryan’ın (Ariadne) İpi</h4>
+
+Yedi Evre boyunca evrim yolunu oluşturan Âlemler, Küreler ve Devirleri gördükten sonra şimdi artık her bir Evre’de yapılan işleri ve bu işlerin gerçekleştirilmesinde hangi yöntemlerin kullanıldığını işleyebilecek konumdayız. 
+
+Şunu hatırlar ve daima aklımızda tutarsak, bizi bu Küreler, Devirler ve Evreler labirentinden çıkaracak olan “Aryan’ın ipi”ni bulabiliriz: Gelişen yaşamı meydana getiren bâkir rûhlar, beş Âlemin içine doğru olan evrimsel yolculuklarına başlayınca tamamen bilinçsiz bir hâle gelirler. Zira bu beş Âlemin maddeleri, bâkir Rûhlar Âleminin maddesinden daha yoğundur. Evrimin amacı, bu bilinçsiz bâkir Rûhları tam bilinçli hâle getirmek ve onların tüm âlemlerin maddesine hâkim olmalarını sağlamaktır. Bu yüzden Küreler, Âlemler, Devirler ve Evreler’de sunulan koşullar, bu nihai amaca göre düzenlenmiştir. 
+
+Satürn, Güneş ve Ay Evreleri ile şimdiki Yer Evresi’nin geride bıraktığımız yarısı boyunca bâkir Rûhlar, gelişmelerini yönlendiren yüce Varlıkların yönetimi altında farklı araçlarını bilinçsiz bir şekilde inşa ettiler. Ve de şimdi sahip oldukları uyanık bilinç hâline erişinceye dek derece derece uyandırıldılar. Bu evre, “involüsyon” (involution) olarak adlandırılır. 
+
+Günümüzden Vülken Evresi’nin sonuna dek, bizim şimdiki insanlığımız olan bâkir rûhlar, araçlarını mükemmelleştirecek ve bilinçlerini, kendi çaba ve dehâlarıyla beş Âleme genişleteceklerdir. Bu evre de “evolüsyon” (evrim, evolution) olarak adlandırılır. 
+
+Yukarıda söylenenler, aşağıda belirteceklerimizi anlamanın anahtarıdır. 
+
+Gezegen evrim planını tam olarak anlayabilmek, önceki sayfalarda da belirtildiği gibi öğrenci için çok ama çok önemlidir. Yeniden Doğuş ile Sebep ve Sonuç Yasalarına inanan bazıları, bu bilgiye sahip olmanın önemsiz ve gereksiz olduğunu düşünseler de bu yasalar, onları ciddiyetle öğrenmeye çalışanlar için çok büyük öneme sahiptirler. Bu zihne, soyut düşünceleri kavramayı ve somut varoluşun günlük meselelerinin üzerine çıkmayı öğretir. Ve de hayalgücüne, kişinin kendi çıkarının (self-interest) engelleyici etkilerini aşmasında yardım eder. Arzu Âlemini anlatırken söylediğimiz gibi İlgi, eylemin ana nedenidir. Gelişimimizin şimdiki aşamasında İlgi genellikle bencillik tarafından uyandırılır. O, genellikle çok ince bir doğaya sahiptir, ancak çeşitli türden eylemleri teşvik eder. İlgi tarafından uyandırılan her eylem, bizim üzerimizde belirli etkiler meydana getirir. Sonuç olarak da somut Dünyâlarla ilgili olan eylemler tarafından bağlanırız. Fakat zihinlerimiz matematik ya da evrimin gezegen aşamalarıyla meşgul olduğunda, yalnızca Soyut Düşünce’nin olduğu bir bölgede bulunuruz ve bu bölge, tüm duyguların etkisinin ötesindedir. Böylelikle zihin, yukarıya yani ruhsal gerçekçilik ve kurtuluşa doğru yöneliktir. Küp kökü (ya da kök3) hesaplarken veya sayıları çarparken ya da Evreleri, Devirleri ve buna benzer şeyleri düşünürken, bu düşündüklerimizle ilgili herhangi bir duygu hissetmeyiz. İki kere ikinin dört olduğunu tartışmayız. Eğer işin içine duygularımız da girmiş olsaydı, belki de sonucu beş yapmaya çalışacaktık ve tamamen kişisel sebeplerden dolayı sonucun üç olduğunu iddia eden başka biriyle tartışmaya girecektik. Fakat matematikte Hakikat, en açık bir şekilde ortadadır ve duygulardan arınmıştır. Bu yüzden duygularda yaşamayı seven ortalama bir insan için matematik kurudur ve ilgi çekici değildir. Pisagor öğrencilerine Sonsuz Rûh Âleminde yaşamalarını öğütlemiş ve onun öğrencisi olmak isteyenlerden önce matematik öğrenmelerini istemiştir. Matematiği kavrama yeteneği bulunan bir zihin, ortalamanın üstündedir ve Rûh Âlemine yükselme kâbiliyetine de sahiptir, çünkü Duygu ve Arzular tarafından zincirlenmemiştir. Rûhsal Âlemdeki ifadelerde düşünmeye ne kadar çok alışırsak, bu somut varoluşumuzda etrafımızda bulunan yanılsamaların (ilüzyon) üstüne çıkabilmemiz o kadar mümkün olur. Zira bu somut varoluşumuzda Hakikat, ikiz duygular olan İlgi ve Kayıtsızlık tarafından belirsizleştirilmektedir. Bu duygular bizi, tıpkı ışık ışınlarının Yer’in atmosferinden geçerken kırılarak gök cisimlerinin yeri hakkında bizi yanıltması gibi yanıltırlar. 
+
+Bu yüzden Hakikati bilmek isteyen öğrenciye Rûh âlemlerine girmesi, onları araştırması ve kendisini ‘et’in tuzaklarından, güvenli ve düzgün büyümesi ile uygun olarak hızlı bir şekilde kurtarması şiddetle tavsiye edilir. Yine ona tavsiyemiz, aşağıdaki bilgileri tamamıyle ve iyi bir şekilde öğrenmesi; onları özümsemesi ve bu Âlemleri, Küreleri ve Evre’leri zihninde canlandırmasıdır. Bu yolda ilerlemek isterse ona, soyut düşüncede çok güzel alıştırmalar olan matematik öğrenimi ve Hinton’un “Dördüncü Boyut” adlı kitabını da öneririz. Hinton’un bu eseri (aslında yanlış, çünkü dört-boyutlu Arzu Âlemi gerçekte üç-boyutlu yöntemlerle bulunamaz), onu okuyan pek çok kişinin gözlerini açmıştır ve onları birer durugörür yapmıştır. Ayrıca mantığın, herhangi bir âlemdeki en iyi öğretmen olduğu hatırlanacak olursa, bu soyut düşünce çalışmaları ile başarılı bir şekilde fizik-üstü Âleme giren bir öğrencinin kafası karışmayacak, tersine burada kendisine düşeni her koşulda en iyi şekilde yapacaktır. 
+
+Burada muazzam bir plan açığa vurulmuştur ve detaylara inildikçe onun karmaşıklığı neredeyse tamamen kavranılmaz bir hal alır. Onu anlayabilen kişi, harcadığı çabaların karşılığında yüksek bir ödül alacaktır. Bu yüzden öğrenci, kitabı yavaş yavaş ve sık sık tekrarlayarak okumalı ve okudukları üzerinde çokça ve derin bir şekilde düşünmelidir. 
+
+Bu kitap ve özellikle bu bölüm, gelişigüzel okunamaz. Her cümlenin bir ağırlığı ve sonraki cümleler üzerinde bir etkisi vardır. Bir sonraki cümle, önceki cümlelerin anlaşılmış olmasını şart koşar. Eseri temelden ve sistematik olarak incelemeyen birisi için, ilerleyen her sayfa, eseri daha da anlaşılmaz hale getirir. Kitap, tam aksine dikkatli bir şekilde çalışılır, üzerinde etraflıca düşünülür ve her sayfada, öncekiler üzerinde çalışarak edinilmiş olan ve hep artan bir bilgiyle okunursa konuyu aydınlatıcı olacaktır. 
+
+Bu kitap gibi Büyük Âlem Sırrının en derin aşamalarını açıklayan türden hiçbir kitap, insan zihninin gelişiminin şu anki aşamasında anlama kapasitesi sözkonusu olduğunda, kolayca okunabilecek bir şekilde yazılamaz. Ve de şu anda bize anlaşılır görünen en derin aşamalar, gelişimimizin ileriki aşamalarında bizler Üst-insan olup zihinlerimiz daha da fazlasını anlama kapasitesine sahip oluncaya kadar, bize açıklanan planın sadece ABC’sidirler. 
+
+#### <h4 id="the-saturn-period">Satürn Evresi</h4>
+
+Satürn Evresi’nin Küreleri, Şekil 7 ve Şekil 8’den de gördüğümüz gibi Dünyâ’mızın maddesinden çok daha seyrek ve çok daha ince maddelerden meydana gelir. Öğrenciye bu iki şekli sürekli elinin altında bulundurmasını tavsiye ederiz, çünkü metinde ona sık sık başvuracağız. Bu Evre’nin en yoğun Küresi, Düşünce Âlemi’nin şimdiki Evremizde en seyrek Küre’nin bulunduğu kısmıyla aynı kısımda, Somut Düşünce Bölgesi’nde yeralıyordu. Bu Kürelerin, bizim duyu organlarıyla algılayabileceğimiz bir yoğunlukları yoktu. “Sıcaklık”, bu kadim Satürn Evresi fikrine en yakın kelimedir. Bu evre karanlıktı ve bir kişi bu Küre’nin bulunduğu yere girebilseydi, hiçbir şey göremezdi. Etrafındaki her şey karanlık olacaktı, fakat o, sıcaklığı hissedebilecekti. 
+
+Şekil 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Bir materyalist için böyle bir şeyi “Küre” olarak adlandırmak ve onun, Form ve Yaşam’ın evrim alanı olduğunu öne sürmek elbette ki saçmalık olurdu. Güneş Sisteminin bulut şeklindeki bir madde yığınından meydana geldiğini öne süren Bulut Teori’sine bakarsak bulutun, ışıkla parlamadan önce karanlık olması gerektiğini ve alevlenmeden önce de sıcak olması gerektiğini kavrarız. Bu sıcaklık, hareket tarafından meydana getirilmiş olmalıdır ve hareket, yaşamdır. 
+
+Bilinci ve formu geliştirmeleri gereken bâkir rûhların bu Küre’nin içerisine yerleşmiş olduklarını söyleyebiliriz. Ve hatta, nasıl ahududu çok sayıdaki küçük ahudududan meydana geliyorsa tüm Küre’nin de bu şekilde bâkir rûhlardan oluştuğunu söyleyebiliriz. Onlar Küre’ye dahil olmuşlardır, tıpkı Dünyâ’mızdaki madene hayat veren yaşam gibi. Bu yüzden Okültist kişi, Satürn Evresi’nde insanın maden aşamasından geçtiğini söyler. 
+
+Bu “Sıcak-Küre”nin dışında, bir bakıma onun atmosferinde Form ve Bilinci geliştirmesi gereken bâkir rûhların evrimine yardım eden ve Satürn Evresi’ndeki en önemli işi yapan, büyük yaratıcı Hiyerarşiler bulunmaktadır. 
+
+Onlar, Gülhaç terminolojisinde bedenlerinin gözalıcı parlaklıkları ve büyük ruhsal güçleri sebebiyle “Alev’in Efendileri” olarak adlandırılırlar. Onların Kutsal Kitap’taki adları “Tahtlar”dır ve gönüllü olarak insan üzerinde çalışırlar. O kadar ileri derecede gelişmişlerdir ki, bu evrimsel tezahür onlara yeni bir deneyim ve böylece de daha fazla bir bilgelik sunmaz. Bu durum, bu Hiyerarşiden daha büyük olan ve adlarını ileriki sayfalarda açıklayacağımız iki Hiyerarşi için daha geçerlidir. Diğer bütün yaratıcı Hiyerarşiler, kendi evrimlerini tamamlamak için insanların üzerinde, içinde ve insanlarla çalışmaya zorun- ludurlar. 
+
+Bu “Alevin Efendileri”, karanlık Satürn Küresi’nin dışındaydılar ve bedenleri güçlü bir ışık yayıyordu. Onlar tâbiri câizse resimlerini bu önceki Satürn Küresi’nin yüzeyine yansıttılar. Bu yüzey, kendisine gelenin çok azını alıp, geri kalanını yansıtan ve böylece resimleri çoğaltan bir yapıya sahipti. Böylece resimler çoğaldı. ( Bu, Yunan Mitolojisi’nde de Satürn’ün kendi çocuklarını yok etmesi olarak yeralmaktadır). 
+
+Bununla birlikte “Alev’in Efendileri”, birinci devir esnasında defalarca uğraşarak gelişen yaşamın içine, bizim şimdiki yoğun bedenimizi oluşturmuş olan tohumu ekmeyi başardılar. Bu tohum ilk altı devrin kalan süresi boyunca biraz gelişti ve duyu organlarını, özellikle de kulağı oluşturma yeteneğine sahip oldu. Bu yüzden kulak, sahip olduğumuz duyu organları içinde en gelişmişidir. O, dış koşulların izlenimlerini en büyük kesinlikle bilince taşıyan enstrümandır. Ve de o, diğer duyu organlarına göre Fizik Âlemin yanılsamalarının daha az tesiri altındadır. 
+
+Gelişen yaşamın bu Evre’deki bilinci, günümüzde madenlerin sahip olduğu bilinçti. Bu, medyumların en derin transta elde ettiklerine benzer bir bilinçsizlik hâlidir. Yine de gelişen yaşam, ilk altı devir boyunca çeşitli yaratıcı Hiyerarşilerin yönetimi altında ve onların yardımıyla yoğun beden tohumu üzerinde çalıştı. Birinci devirde yoğun bedenin tohumunu verdikten sonra etkin olmayan “Alev’in Efendileri”, yedinci devrin ortasında en yüksek rûhsal ilkeyi uyandırmak için tekrar faal oldular. Ve de insandaki tanrısal rûhun ilk faaliyetini uyandırdılar. 
+
+Böylece insan, en yüksek aracı olan tanrısal rûh ile en düşük aracı olan yoğun bedeni, Satürn Evresi’ndeki evrimine borçludur. Bu iki aracın tezâhür etmesini sağlamak için “Alev’in Efendileri”, tamamen gönüllü olarak ve en ufak bir zorlama olmaksızın insana yardım ettiler. 
+
+Çeşitli yaratıcı Hiyerarşilerin çalışmaları, A Küresi’ndeki bir Evrenin ya da bir Devir’in başlangıcında başlamadı. Bu çalışmalar, bir Devir’in ortasında başladı, güç kazandı ve hem Devirlerin, hem de Evrelerin arasında bulunan Kozmik Gece’nin ortasında en yüksek gücüne erişti. Sonra da bu çalışmalar, yaşam dalgası bir sonraki Devir’in ortasına giderken yavaş yavaş azaldı. 
+
+Bu yüzden “Alev’in Efendileri”nin çalışması, tohum hâlindeki bilincin uyanmasında Satürn Evresi ile Güneş Evresi arasında bulunan Dinlenme Evresindeki en etkili çalışma olmuştur. 
+
+Kozmik Gece’nin, içinde hiçbir faaliyetin olmadığı bir evre olarak görülmemesi gerektiğini bir kez daha tekrarlayalım. Bireyin ölümden yeni bir doğuma gidişinde gördüğümüz gibi o, eylemsiz bir varoluş durumu değildir. Bir Evredeki tüm Kürelerin büyük ölümü de, daha güçlü öznel faaliyetin açığa çıkması için sadece faal tezâhürün sona ermesi demektir. 
+
+Bu öznel faaliyetin doğasına ilişkin belki de en iyi fikri, olgun bir meyve toprağa düştüğünde neler olduğunu gözleyerek edinebiliriz. Bu olayda meyvenin etli kısmının fermantasyonu ve çürümesi başlar. Fakat bu kaostan, havaya ve güneş ışığına doğru filizlenen yeni bir bitki meydana gelir. Bir Evre sona erdiğinde de durum böyledir. Görünürde her şey kaosta çözülmektedir ve onun içindeki düzenin bilincine varmak bizim için imkânsızdır. Ancak uygun bir zamanda yeni bir Evrenin Küreleri oluşturulur ve insanların yerleşimi için hazırlanır. Gelişen yaşam, Kozmik Gece boyunca içinden geçtiği beş karanlık Küre’den buraya taşınır. Böylece o, değişik bir çevrede, Kozmik Gece faaliyetleri sayesinde hazırlandığı ve dışa vurduğu (externalized) yeni bir yaratım gününün faaliyetlerine başlar. Meyvedeki fermentasyon güçlerinin tohumu kuvvetlendirmesi ve tohumun büyüyeceği toprağı verimli kılması gibi Alev’in Efendileri de Tanrısal Rûh’un tohumunu da özellikle Satürn ve Güneş Evreleri arasındaki Kozmik Gece esnasında kuvvetlendirdiler ve faaliyetlerini de Güneş Evresi’nin birinci Devir’inin ortasına kadar devam ettirdiler. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+#### <h4 id="recapitulation">Tekrarlama</h4>
+
+Bir Evre’deki faaliyetin başlayabilmesi için önce, o ana kadar geçilmiş her şeyin bir tekrarı meydana gelir. Evrimin spiral yolu sebebiyle bu tekrarlama da (recapitulation), tekrarlanan gelişim aşamasının bir basamak üstünde gerçekleşir. Bu zorunluluk, tekrarlamadaki asıl iş açıklandığında daha da iyi anlaşılacaktır. 
+
+Bir Evre’nin birinci Devri, Satürn Evresi’nde yoğun bedendeki çalışmanın bir tekrarıdır ve Gülhaçcılar buna “Satürn Devri” demektedirler. 
+
+İkinci Evre Güneş Evresi’dir. Bu yüzden her Evre’nin, Güneş Evresinden sonraki ikinci devri “Güneş Devri” olarak adlandırılacaktır. 
+
+Üçüncü Evre Ay Evresidir, bu yüzden takip eden her Evre’nin üçüncü devri, Ay Evresi’nde gerçekleştirilmiş olan işin bir tekrarı olacaktır ve “Ay Devri” olarak adlandırılır. 
+
+Tekrarlanan Devirler bitmeden bir Evre’deki asıl iş başlamaz. Örneğin şimdiki Yer Evresi’nde biz, üç buçuk Devirden geçtik. Bu demek oluyor ki, birinci Devirde, yâni Yer Evresi’nin Satürn Devri’nde Satürn Evresi’nde yapılmış olan çalışma, ileri bir aşamada tekrarlandı. İkinci Devir olan Güneş Devrinde de Güneş Evresi çalışması tekrar edildi. Üçüncü Devir olan Ay Devrinde de Ay Evresindeki çalışma tekrarlandı. Ve ancak dördüncü ve şimdiki Devir olan Yer Devrinde Yer Evresi’nin gerçek çalışması başladı. 
+
+Yedi Evre’nin sonuncusu olan Vülken Evresi’nde sadece son Devir gerçekten Vülken çalışması ile dolu olacaktır. Önceki altı Devirde daha önceki altı Evrenin çalışması yapılacaktır. 
+
+Bundan başka (ve bu öğrenciye hatırlamada özellikle yardımcı olacaktır ) herbir Evre’nin Satürn Devri, yoğun bedenin yeni bir özelliğinin gelişimiyle ilişkili olacaktır, çünkü bu işlem Satürn Evresi’nde başlamıştır. Ve yedinci Devir olan her Vülken Devrinde de Tanrısal Rûhla ilişkili bir faaliyet yer alacaktır, çünkü bu faaliyet de Satürn Evresi’nin yedinci Devrinde başlamıştır ve yedinci Evrenin yedinci Devrinde tamamlanacaktır. Aynı şekilde farklı Devirlerle insanın tüm araçları arasında bir bağlantı olduğunu göreceğiz. 
+
+#### <h4 id="the-sun-period">Güneş Evresi</h4>
+
+Güneş Evresindeki koşullar, Satürn Evresi’ndeki koşullardan temelden farklıdır. Satürn Evresi’nin “sıcaklık Küreleri” yerine Güneş Evresi’ndeki Küreler, gazdan oluşmuş ve parlayan ışık toplarıdırlar. Bu büyük gaz topları, Satürn Evresi’nde gelişmiş olan her şeyi içermekteydi. Yaratıcı Hiyerarşiler aynı şekilde bu Evrede de atmosferde bulunmaktaydılar. 
+
+Satürn Evresi’nin yankıya benzer yansıtıcı özelliği yerine bu Küreler, yüzeylerine yansıtılan resmi veya sesi bir ölçüye kadar alma ve işleme özelliğine sahiptiler. Onlar, bir bakıma “duyu yeteneğine sahip” şeylerdi. Yer, böyle değilmiş gibi görünmesine ve materyalistler tarafından alay edilen bir görüş olmasına karşın okültist kişi Yer’in, üzerindeki ve içindeki her şeyi hissettiğini bilir. Bahsettiğimiz daha hafif Küre, Yer’den çok daha fazla duyarlıydı, çünkü bizim şimdiki ortamımızda olduğu gibi maddenin katı ve sıkı koşullarıyla sınırlanmamıştı ve o koşullara bağlı değildi. 
+
+Oradaki yaşam elbette ki farklıydı, çünkü bildiğimiz formlar orada varolamazlardı. Fakat yaşam kendisini alevli gaz formlarında da, şimdiki yoğun maden, bitki, hayvan ve insan formları gibi katı kimyasal maddede olduğu kadar ve hatta ondan daha iyi ifade edebilir. 
+
+Gelişen yaşam Güneş Evresi’nin birinci devri olan Satürn Devri’nin A Küresi’nde belirdiğinde hala, insanda Satürn Evresinin son devrinin ortalarında tanrısal rûh tohumunu uyandırmış olan Alev’in Efendileri’nin gözetimi altındaydı. 
+
+Onlar önceden yoğun bedenin tohumunu vermişlerdi ve Güneş Evresindeki Satürn Devrinin ilk yarısı boyunca onun üzerindeki bazı iyileştirmelerle meşguldüler. 
+
+Güneş Evresi’nde yaşam bedenin biçimlendirilmesine ve sindirme, büyüme, üreme, salgı bezleri vs ile ilgili yetenekleri içeren her şeyin oluşturulmasına başlandı. 
+
+Alev’in Efendileri yoğun bedenin tohumuna sadece duyu organları geliştirme yeteneğini ektiler. Şu anda anlatmakta olduğumuz zamanda tohumu, bir yaşam bedenle içiçe geçmeye izin verecek şekilde değiştirmek zorunlu oldu. Bu aynı zamanda gelişen salgı bezlerini ve bir sindirim borusunu da mümkün kılacaktı. Bu da, ilk tohumu vermiş olan Alev’in Efendileri ile Güneş Evresi’ndeki maddi evrimin idaresini alan Bilgeliğin Efendilerinin ortak faaliyeti ile gerçekleştirildi. 
+
+Alev’in Efendileri kadar yüksek düzeyde evrimleşmemiş olan Bilgeliğin Efendileri, kendi evrimlerini tamamlamak için çalıştılar. Bu yüzden onlar, tıpkı Alev’in Efendileri gibi kendi iradeleriyle hareket eden bir dizi Yüce Varlıktan yardım aldılar. Ezoterik dilde bu Yüce Varlıklara Kerrubim denilmektedir. Ancak bu Yüce Varlıklar, oluşan insanımızdaki ikinci ruhsal ilkenin tohumunu uyandırmanın gerektiği ana kadar bu çalışmada etkin olmadılar. Zira Bilgeliğin Efendileri Güneş Evre’sinde insanın yapısına konulması gereken yaşam bedenle ilgili çalışmayı yapabilecek durumdaydılar. Ancak ikinci ruhsal ilkeyi uyandırma yeteneğine sahip değildiler. 
+
+Alev’in Efendileri ve Bilgeliğin Efendileri birleştiklerinde Güneş Evre’sinin Satürn Devrinde tohum halindeki yoğun bedeni yeniden inşa ettiler. İkinci Devirde Bilgeliğin Efendileri Güneş Evre’sindeki asıl çalışmayı yapmaya başladılar. Böylece onlar kendi bedenlerinden yaşam beden tohumunun ışımasını sağlayarak onun yoğun bedenle içiçe geçebilmesini sağladılar ve tohuma, büyüme ve üremeyi ilerletme yeteneği ile yoğun bedenin duyu organlarını uyandırma ve faaliyete geçirme yeteneğini verdiler. Kısacası onlar, şimdi ortaya çıkarılan yaşam bedene, ruhun kullanımı için mükemmel ve esnek bir enstrüman olabilmesi için gereken tüm yetileri verdiler. 
+
+Bu çalışma, Güneş Evresinin ikinci, üçüncü, dördüncü ve beşinci Devirleri boyunca devam etti. Altıncı Devirde devreye Kerrubim girdi ve insandaki üçüz ruhun ikinci görünümünün tohumunu, yâni yaşam ruhunu uyandırdı. Yedinci ve son Devirde yaşam ruhunun yeni uyandırılmış tohumu, tanrısal ruhun tohumuna katıldı. Tanrısal ruhun tohumu üzerinde halen çalışılmaya devam edilmektedir. 
+
+Satürn Evresinde bilincimizin transa benzer bir bilinç olduğunu hatırlayalım. Güneş Evresindeki faaliyet sayesinde bu bilinç, değişerek rüyasız uykudaki bilinç halini aldı. 
+
+Güneş Evresi’ndeki evrim, gelişen ilkel insan yapısına, onun şu anda varolan araçlarının bir üst ve bir alt araçlarını ekledi. Satürn Evresi’nin sonunda o, bir yoğun beden tohumuna ve tanrısal rûha sahipti. Güneş Evresi’nin sonunda da bir yoğun beden tohumu, bir yaşam beden tohumu, tanrısal rûh tohumu ve yaşam beden tohumuna sahip oldu. Bu da onun, artık ikili bir rûha ve ikili bir bedene sahip olduğu anlamına geliyordu. 
+
+Aynı zamanda kaydedelim ki, her Evre’nin birinci devri olan Satürn Devri, yoğun beden üzerindeki çalışmalarla uğraştığı gibi (çünkü bu çalışma ilk defa bir ilk devirde başlamıştı), her Evre’nin ikinci devri olan Güneş Devri de yaşam beden üzerindeki iyileştirmelerle uğraşır (çünkü bu çalışma da ilk defa bir ikinci devirde başlamıştı). Aynı şekilde bir Evre’nin altıncı devri de yaşam rûhu üzerindeki çalışmalara ayrılmıştır. Ve yedinci devirler de özellikle tanrısal rûhla ilgili konularla uğraşır. 
+
+Oluşan insan, Satürn Evresi’nde varoluşun maden aşamasından geçmiştir. Yani onun, madenin sahip olduğu anlamda sadece bir yoğun bedeni vardı. İnsanın bilinci de şimdiki madenin bilinciyle aynıydı. 
+
+Aynı şekilde ve benzer sebeplerden, insanın Güneş Evresi’nde de bitki aşamasından geçtiği söylenebilir. O, tıpkı bitkilerde olduğu gibi bir yoğun bedene ve bir yaşam bedene sahipti ve bilinci de tıpkı bitkilerin bilinci gibi rüyasız uyku bilinciydi. Öğrenci, dört krallıkla ilgili bölümdeki Şekil 
+
+4’ü incelerse bu karşılaştırmayı tamamen anlayacaktır. Şekil 4’de maden, bitki, hayvan ve insanın sahip olduğu bilinç araçları, bu araçlara sahip olmayla oluşan bilinç halleriyle birlikte şematik olarak gösterilmiştir. 
+
+Güneş Evresi sona erdiğinde, içinde sindirimin gerçekleştiği bir başka Kozmik Gece onu takip etti. Ayrıca bu Gecede, Ay Evresi’nin başlamasından önce gerekli olan öznel ( sübjektif) faaliyet de gerçekleşir. Bu, süre bakımından nesnel (objektif) tezahürün önceki Evre’sine eşittir. 
+
+#### <h4 id="the-moon-period">Ay Evresi</h4>
+
+Karanlık Satürn Evresi’ndeki Kürelerin temel karakteristik özelliğini “sıcaklık”, Güneş Evresindeki Kürelerin temel karakteristik özelliğini “ışık” ya da parlayan sıcaklık olarak tarif ettiğimiz gibi, Ay Evresi Kürelerinin de karakteristik özelliğini en iyi “nem” kelimesiyle tarif edilebilir. Ancak bizim bildiğimiz anlamdaki hava orada yoktu. Merkezde sıcak alevli çekirdek bulunuyordu. Onun etrafında da, dış uzayın soğukluğu ile temas sonucu oluşmuş olan yoğun nem bulunuyordu. Yoğun nem, alevli merkez çekirdekle temas sonucu sıcak buhara dönüştü. Bu buhar, soğumak için dışa doğru hareket ediyor ve sonra da tekrar merkeze düşüyordu. Bu yüzden okült bilgin, Ay Evresi’nin Kürelerini “su” olarak adlandırır ve o zamanki atmosferi “ateş sisi” olarak tarif eder. Yaşam evriminin bir ileri adımının manzarası böyleydi. 
+
+Ay Evresi’nin işi, insanın arzu beden tohumuna sahip olmasını sağlamak ve insandaki üçüz rûhun üçüncü görünümü olan insan rûhunun, yâni Ego’nun tohum faaliyetini başlatmaktı. 
+
+Güneş Evresi’nin yedinci devrinin ortasında Bilgeliğin Efendileri, insana Kerrubim tarafından Güneş Evresi’nin altıncı devrinde verilmiş olan tohumsal yaşam rûhunun idaresini aldılar. Amaçları tohumsal yaşam rûhunu tanrısal rûha bağlamaktı. Bu çalışmadaki faaliyetlerinin zirvesine, Güneş ve Ay Evreleri arasındaki Kozmik Gece’de erişildi. Ay Evresi’nin en başında yaşam dalgası yeni hac yolculuğuna başlarken Bilgeliğin Efendileri tekrar göründüler ve gelişen insana tohumsal araçları verdiler. Ay Evresi’nin birinci devri olan Satürn Devrinde onlar, Ay Evresi’ndeki maddi gelişimde özel sorumluluğa sahip olan “Bireyselliğin Efendileri” ile birlikte çalıştılar. Ve de onlarla birlikte Güneş Evresi’nden getirilmiş olan yoğun beden tohumunu yeniden oluşturdular. Bu tohum, ilkel duyu organlarını, sindirim organlarını, salgı bezlerini vs ortaya çıkardı ve gelişmekte olan bir yaşam beden onu içine almıştı. Bu yaşam beden ilkel yoğun bedene belli bir derecede yaşam veriyordu. Elbette ki bu yoğun beden, şimdi olduğu kadar yoğun ve görünür değildi, fakat belli ve ham bir şekilde belirli ölçüde organlaşmıştı. Doğanın hafızasındaki uzak geçmiş olayları üzerinde çalışan uzman ve durugörür bir araştırmacının deneyimli bakışı, onu tamamıyle görebilir. 
+
+Ay Evresi’nde, içine bir arzu bedenin girebilmesi ve bir sinir sistemi, kaslar, kıkırdak ve basit bir iskelet geliştirebilme yeteneğini edinebilmesi için yoğun bedeni yeniden oluşturmak gerekiyordu. Bu yeniden oluşturma (reconstruction) Ay Evresi’ndeki Satürn Devrinin işiydi. 
+
+İkinci devir olan Güneş Devrinde yaşam beden de arzu bedeni içine alabilecek ve kendisini sinir sistemine, kaslara, iskelete vs uyduracak şekilde değiştirildi. Yaşam bedenin yaratıcıları olan Bilgeliğin Efendileri, bu çalışmada Bireyselliğin Efendileri’ne yardım ettiler. 
+
+Üçüncü devirde Ay Evresi’nin gerçek çalışması başladı. Bireyselliğin Efendileri kendilerinden bir madde ışımasını sağladılar. Bu sayede gelişen bilinçsiz insanın, bir tohum arzu beden edinmesine ve onu kendisine katmasına yardım ettiler. Ayrıca bu tohum arzu bedenin, insanın önceden sahip olduğu birleşik yaşam beden ve yoğun bedenle birleştirilmesi işlemi de onların yardımıyla gerçekleşti. Bu çalışma, Ay Evresinin üçüncü ve dördüncü devirlerinin tamamı boyunca sürdü. 
+
+Bilgeliğin Efendileri gibi Bireyselliğin Efendileri de, ondan çok yüce olmalarına rağmen kendi evrimlerini tamamlamak için insanın üzerinde ve içinde çalıştılar. Onlar, düşük araçları geliştirebilme yeteneğine sahip olmalarına karşın yüksek araçlarla çalışma konusunda acizdiler. Ve de insanda üçüz ruhun üçüncü görünümünü uyandırmak için gerekli olan ruhsal tepiyi (impulse) veremediler. Bu yüzden Ay Evresi’nin beşinci devrinde, bizim geçtiğimiz evrim gibi bir evrime kendi gelişimleri için gereksinim duymayan, dolayısıyla Alev’in Efendileri ve Kerrubim gibi kendiliklerinden bu evrime katkı sağlayan başka bir varlık sınıfı insana yardım etmek için devreye girdi. Bu varlıklar “Seraphim” olarak adlandırılırlar. Onlar, insanda ruhun üçüncü görünümü olan insan ruhunun tohumunu uyandırdılar. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Ay Evresinin altıncı devrinde Kerrubim tekrar göründü ve yeni edinilmiş olan insan ruhu tohumunu yaşam ruhuna bağlamak için Bireyselliğin Efendileri ile birlikte çalıştılar. 
+
+Ay Evresinin yedinci devrinde Alev’in Efendileri tekrar insanın yardımına geldiler ve Bireyselliğin Efendilerine, insan ruhunu tanrısal ruha bağlamalarında yardım ettiler. Böylece ayrı Ego, yani üçüz ruh varoldu. 
+
+Günümüzde insan olan bâkir ruhlar Satürn Evresi’nin başlangıcından önce Bâkir Rûhlar Âleminde bulunuyorlardı. Onlar, Tanrı’da ( Tanrı’dan değil ) farklılaşmışlardı ve Tanrı gibi “her şeyi-bi- len”diler. Ancak “kendilerinin” bilincinde değillerdi. Bu yeteneğin edinilmesi kısmen evrimin görevidir. Evrim, bâkir ruhları hep artan yoğunlukta madde denizine daldırmış ve sonunda onları “her şeyi bilen” konumundan düşürmüştür. 
+
+Böylece bakir ruhlar, Satürn Evresi’nde tanrısal ruh âlemine daldırılmışlardır ve bu âlemin maddesinin en ince örtüsüyle örtünmüşlerdir. Bu örtüyü onlar Alev’in Efendileri yardımıyla kısmen yırtabilmişlerdir. 
+
+Güneş Evresi boyunca bâkir ruh, daha da yoğun olan Yaşam Rûhu Âlemi’ne daldırıldı ve Yaşam Rûhu Âleminin maddesinden ikinci bir örtü aracılığıyla “her şeyi-bilme” hâlinde daha da fazla körleşti. Fakat Kerrubim’in yardımıyla kısmen bu ikinci örtüyü de yırtabildi. Her şeyin birliği duygusu hâlâ kaybolmamıştı. Zira Yaşam Rûhu Âlemi hâlâ evrensel bir âlemdir ve Güneş Sistemimizin bütün gezegenlerini kaplamıştır ve onların tümünde vardır. 
+
+Ancak Ay Evresi boyunca bâkir ruhlar, Soyut Düşünce Bölgesinin daha da yoğun maddesine daldılar ve burada örtülerin en kalını olan insan ruhu eklendi. Bu andan itibaren bâkir rûhun “birlik- bilinci” kayboldu. O, onun örtüsünü bu defa yırtamadı, dışarı bakamadı ve diğerlerini algılayamadı. Bu yüzden de orada tüm diğerlerinden ayrı ve farklı bir Ego olarak kendisini bulmak için bilincini içeriye yönlendirmeye zorlandı. 
+
+Böylece bâkir ruh, üç katlı bir örtünün içine konulmuştur ve onun en dış örtüsü olarak insan ruhu etkin bir şekilde tüm yaşamın birliğini bâkir ruhtan gizler. İnvolüsyon esnasında o, ayrı varoluş yanılsamasına (illusion) alışır ve böylelikle Ego haline gelir. Evrim bu yanılsamayı aşama aşama çözecek, “tümel-bilinci” (all-consciousness) geri getirecek ve ona öz-bilinci (self- consciousness) katacaktır. 
+
+Böylece görmekteyiz ki, Ay Evresi’nin sonunda insan, gelişimin farklı aşamalarındaki üçüz bir beden ve aynı zamanda da üçüz bir rûh tohumuna sahipti. Onun bir yoğun bedeni, bir yaşam bedeni ve bir arzu bedeni ve de bir tanrısal, bir yaşam ve bir insan ruhu vardı. İnsanda şimdi eksik olan tek şey, bunları birbirine bağlayacak bağdı. 
+
+İnsanın Satürn Evresi’nde maden aşamasından, Güneş Evresi’nde de bitki aşamasından geçtiği belirtilmişti. Ay Evresi’ndeki koşullardan geçerek yaptığı hac yolculuğu da, bu evrelerdeki gibi ifade edilecek olursa hayvansal varoluş aşamasına karşılık gelir. Tıpkı günümüzde hayvanların sahip olduğu gibi insan bu evrede, bir yoğun beden, bir yaşam beden ve bir arzu bedene sahipti. Ve de insanın bilinci, tıpkı günümüzdeki alt hayvanlarda olduğu gibi bir iç resim-bilinciydi. Resim-bilinci, bir istisna dışında insanın rüya bilincine benzer. Tek fark, hayvanlar grup-rûhu tarafından yönlendirildiğinden onlardaki resim-bilinci tamamen mantıklıdır (rational) . Daha iyi anlamak için öğrenci, içinde bu durumun gösterildiği dört krallık bölümündeki Şekil 4’e tekrar bir gözatmalıdır. 
+
+Bu Ay varlıkları artık, önceki evrelerde olduğu gibi başlangıç aşamasında değillerdi. Deneyimli bir durugörür’e onlar, ateş-sisten atmosferde, tıpkı göbek kordonuyla anneye bağlanmış olan embriyo gibi iplerle bağlanmış olarak görünürler. Bir çeşit besin sağlayan ortak akımlar, atmosferden ve atmosfere doğru bu kordonlar aracılığıyla akarlar. Bu akımlar etkinlik bakımından bir dereceye kadar günümüzdeki kana benzerler. “Kan” kelimesi bu akımlar için kullanıldığında sadece bir benzetmeyi ifade etmektedir. Çünkü Ay Evresi’nin bu varlıkları, insanın en son edinimlerinden biri olan kırmızı kan benzeri bir şeye sahip değillerdi. 
+
+Ay Evresi’nin sonlarına doğru, bizim ve diğer evrimlerin meydana geldiği alan olan Küre’nin bölünmesi meydana geldi. Anlatımın anlaşılır olmasını istediğimiz için bu konuya şimdiye kadar değinmemiştik, ancak hemen şimdi bu konuya değineceğiz. 
+
+Bu büyük kürenin bir parçası, insan tarafından kristalleştirildi. Çünkü o, içinde oturduğu parçayı, orada kendisiyle bulunan diğer Varlıkların gereksinim duyduğu yüksek titreşim seviyesinde tutma kâbiliyetine sahip değildi. Ve bu kısım hareketsiz kaldıkça dönen Küre’nin merkezkaç kuvveti, bu kısmın uzayda dönen bir harekete sahip olmasını ve böylece merkezdeki yanan ateşli parçanın etrafında dönmesini sağladı. 
+
+Böyle bir kristalleşmenin dışarıya atılmasının meydana gelmesinin ruhsal sebebi, böyle bir Küre üzerindeki en yüce Varlıkların, kendi evrimleri için ateşin en yüksek hızdaki titreşimlerine ihtiyaç duymalarıdır. Onların evrimleri, yoğun ortamlarda durur. Halbuki daha düşük titreşimlere gereksinim duyan daha az gelişmiş Varlıklar, kendi evrimleri için böyle yoğun ortamlara ihtiyaç duyarlar. Bu yüzden herhangi bir Kürenin bir parçası, gelişmekte olan bir varlık grubu tarafından diğerlerinin zararına olacak şekilde yoğunlaştırıldığında bu parça, merkez kütleden tam uygun uzaklığa atılır ve burada bir uydu olarak, kendisinden atıldığı gezegenin etrafında döner. Onun burada sahip olduğu ısı titreşimleri, bu uydu üzerinde bulunan Varlıkların hız ve güç bakımından tam gereksindiği titreşimlerdir. Elbette ki çekim kanunu, fenomenin fiziksel bir bakış açısından açıklanması için tamamen yeterlidir. Fakat burada da, olayların ruhsal tarafını araştırdığımızda bulacağımız ve daha kapsamlı bir açıklama getiren hep daha derin bir sebep vardır. Fiziksel eylemin, ondan önce varolması gereken görünmez düşüncenin bir dışavurumu olması gibi bir merkezi güneşten bir gezegenin dışarıya atılması da görünmez ruhsal koşulların görünür ve kaçınılmaz etkisidir. 
+
+Ay Evresinde dışarıya atılan daha küçük gezegen, nispeten hızlı bir şekilde yoğunlaştı ve bu Evre’nin sonuna kadar evrimimizin içinden geçtiği alan olarak kaldı. Bu küçük gezegen, kendisinden çıktığı anne gezegen etrafında, tıpkı bizim Ay’ın Dünya’mız etrafında döndüğü gibi dönen bir ay’dı, ancak bizim Ay’ımız gibi dönüş evreleri göstermemekteydi. Öyle dönmekteydi ki, tıpkı şimdi Venüs gezegeninde gözlediğimiz gibi bir tarafı daima aydınlık, bir tarafı da daima karanlık oluyordu. Kutuplarından biri tam olarak büyük ateşli küreye yönelmişti, tıpkı Venüs’ün kutuplarından birinin doğrudan Güneş’e yönelik olması gibi. 
+
+Grup rûhları nasıl Dünyâmızı çevreliyorlarsa Ay Evresi’nin bu uydusunda da kendisini çevreleyen akımlar bulunmaktaydı. Ay varlıkları bu eski Ay’ın aydınlık tarafından karanlık tarafına doğru içgüdüsel olarak bu akımları takip ediyorlardı. Yılın belli zamanlarında onlar, ışıklı tarafta iken bir çeşit üreme meydana geliyordu. Atalara ait üreme amaçlı bu gezilerin kalıntılarını, günümüzde aynı amaçla Yer’in etrafındaki grup-rûhunu yılın belli mevsimlerinde takip eden göçmen kuşların göçlerinde bulabiliriz. Hatta insanlar arasındaki balayı (ay) gezileri de çiftleşmede göçün itici gücünden insanın bile henüz vazgeçmediğini gösterir. 
+
+Bu son aşamadaki Ay varlıkları aynı zamanda ses veya çığlık çıkarma yeteneğine de sahiptiler. Bunlar, bireysel neşe ve üzüntünün ifadeleri değil, kozmik seslerdi; çünkü henüz hiçbir birey yoktu. Birey’in gelişimi ancak daha sonra Yer Evresi’nde meydana gelecekti. 
+
+Ay Evresi’nin sonunda bir kere daha dinlenme aralığı olan Kozmik Gece geldi. Ayrılmış olan parçalar çözüldüler ve genel Kaosun içinde eriyip gittiler. Bu Kaostan sonra da Ay Evresi için kürelerin yeniden oluşturulmalarına başlandı. 
+
+Bilgeliğin Efendileri şimdi, en yüksek yaratıcı Hiyerarşi olarak sorumluluğu alabilecek kadar gelişmişlerdi. Ay Evresi’nde onlara insandaki Tanrısal rûhun özel sorumluluğu verildi. 
+
+Bireyselliğin Efendileri de aynı şekilde insan ruhu üzerinde çalışacak kadar evrimleşmişlerdi ve bu sebeple yaşam ruhu onların sorumluluğuna verildi. 
+
+Başka bir yaratıcı Hiyerarşi, gelişimlerinde ilerleyen yoğun, yaşam ve arzu beden tohumlarıyla özel olarak ilgilenmekteydi. Onlar, yüksek derecedeki Hiyerarşilerin yönetimi altında bu bedenler üzerindeki asıl çalışmayı yapan ve gelişen yaşamı bir çeşit enstrüman gibi kullananlardır. Bu Hiyerarşi, Form’un Efendileri olarak adlandırılır. Onlar evrimlerinde o kadar ilerlemişlerdi ki, bir sonraki evre olan Yer Evresinde insandaki rûhun üçüncü görünümünün sorumluluğu onlara verildi. 
+
+Evrim çalışmasında, Satürn Evresi’nin başlangıcında oniki büyük Yaratıcı Hiyerarşi faaldi. Bu Hiyerarşilerden ikisi en başta yardımcı oldular. Onların ne yaptığına ve kim olduklarına ilişkin hiçbir bilgi verilmemiştir. Sadece bu çalışmayı gönüllü olarak yaptıkları ve bundan sonra da sınırlı varoluştan tekrar özgürlüğe döndükleri belirtilmiştir. 
+
+Bu iki Hiyerarşiyi, şimdiki Yer Evresinin başlangıcına kadar üç Yaratıcı Hiyerarşi takip etti: Alev’in Efendileri, Kerrubim ve Seraphim. Bunlar, Yer Evresi başladığında aktif hizmette yedi Hiyerarşi’yi geride bıraktılar. (Şekil 9, Oniki Yaratıcı Hiyerarşi ve onların durumları hakkında daha da açık bir fikir verecektir). 
+
+Zihnin Efendileri “zihin maddesinden” bedenler inşa etmede, tıpkı bizim aynı sebepten kimyasal maddeden bedenler inşa etmede uzmanlaştığımız gibi uzmanlaştılar. Somut Düşünce Bölgesi, Satürn Evresi’nde erişilmiş olan ve maddenin en yoğun halinin bulunduğu bölgeydi. Bu Evre’de onlar insandılar ve kimyasal bölge, insanlığımız tarafından temas edilebilecek en yoğun madde haliydi. 
+
+Yer Evresi’nde Zihnin Efendileri Yaratıcı seviyesine eriştiler ve ışıyarak kendilerinden, bizim şu anda organize olmuş bir zihin yapmaya çalıştığımız malzemenin çekirdeğini varlığımıza kattılar. Onlar, Paul tarafından “Karanlığın Güçleri” olarak adlandırıldılar, çünkü onlar karanlık olan Satürn Evresi’nden gelmişlerdi. Kötü olarak düşünüldüler, çünkü yaşam rûhu âleminin, yâni sevgi âleminin birleştirici güçlerinin zıttı olan akıl küresine ait ayrımcı bir eğilime sahiptiler. Zihnin Efendileri insanlıkla birlikte çalışırlar; ancak en aşağıdaki üç Krallıkta faaliyette bulunmazlar. 
+
+Başmelekler, Güneş Evresi’ndeki en yoğun madde olan arzu maddesinden beden inşa etmede uzman oldular. Bu yüzden onlar, insanlar ve hayvanlar gibi daha az evrimleşmiş varlıklara bir arzu bedenin nasıl biçimlendirileceği ve kullanılacağını öğretebilecek durumdadırlar. 
+
+Melekler, bir yaşam bedenin inşa edilmesini ayrıntılı olarak deneyimlemişlerdir. Zira Ay Evresi’nde henüz onlar daha insan iken Eter, maddenin en yoğun haliydi. Bu yetenekleri sebebiyle onlar, yaşamsal fonksiyonlar olan üreme, beslenme vs sözkonusu olduğunda insan, hayvan ve bitki için doğru öğretmenlerdir. 
+
+### <h3 id="chapter-9">9. Bölüm: Geri Kalmışlar ve Yeni Gelenler</h3>
+
+Önceki bölümde bâkir rûhun tezahürünün üç aşaması olan yaşam, bilinç ve form’un evrimini izledik. Bâkir rûhun kendisi, “Form”u kendi etrafında toplayan ve böylece “bilinç” kazanan yaşamdır. Ve de şimdiye dek anlatımımız, sanki sadece bir çeşit ilerleme varmış ve bâkir ruhların istisnasız hepsi sabit ve bir örnek ilerleme kaydediyorlarmış gibi ifade edildi. 
+
+Konuyu yalın bir şekilde anlatabilmek için böyle bir anlatım yapıldı. Zira her büyük kurum veya toplulukta olduğu gibi evrimde de geri kalmışlar vardı. 
+
+Okulda her sene bir üst sınıfa geçmek için gerekli seviyeye erişemeyen öğrenciler bulunur. Aynı şekilde her gelişim evresinde de geri kalmış varlıklar vardır, çünkü onlar bir sonraki daha yüksek aşamaya geçebilmek için zorunlu hedefe ulaşamamışlardır. 
+
+Daha Satürn Evresi’nin ilk zamanlarında, yukarı doğru bir sonraki adımı atmak için yeterince gelişmiş bir aşamaya gelmede başarısız olanlar oldu. Bu aşamada Yüce Varlıklar, kendi içinde bilinçsiz olan yaşamla çalışıyorlardı. Ancak bu bilinçsizlik, bâkir ruhlardan, diğerleri gibi esnek ve uyumlu olmayan birkaçının geri kalmasını engellemedi. 
+
+Bu “uyum yeteneği” ifadesinde, ilerlemenin veya geri kalmanın büyük sırrını buluruz. Her ilerleme, gelişen Varlığın, yeni koşullara alışabilmesi için esnek, uyumlu ve uysal olmasına bağlıdır. Aksi takdirde o, kristalleşir, kalakalır ve değişemez. Uyum yeteneği, yüksek veya alçak evrim aşamasında bulunmasına bağlı olmaksızın bir varlığın ilerlemesini sağlayan niteliktir. Onun eksikliği, ruhun geri kalmasının ve formun gerilemesinin sebebidir. Bu yasa, geçmiş, şimdi ve gelecek için geçerlidir. Nitelikli olanlarla olmayanların ayrılması, Sebep ve Sonuç yasasının kişiye göre olmayan ve kesin adaletine göre gerçekleşir. Hiçbir zaman “koyunlarla” “keçiler” arasında keyfi bir ayrım yapılmamıştır ve hiçbir zaman da yapılmayacaktır. 
+
+Bazı Satürn varlıklarının sertleşmiş ve tepkisiz durumu onların içinde tanrısal rûhun uyanmasını engelledi ve onlar sadece maden olarak kaldılar. Onların kazandığı tek şey, yoğun beden tohumuydu. 
+
+Böylece Güneş Evresi’nde iki sınıf ya da krallık bulunmaktaydı: hâlâ maden olan Satürn Evresi Geri Kalmışları (Straggler) ve bir yaşam beden tohumunu alabilecek ve bitki benzeri olabilecek durumda olan Satürn Evresi Öncüleri (Pioneer). 
+
+Bu iki krallığa, bir üçüncü krallık daha eklendi: Faaliyetine Güneş Evresi’nin başlangıcında başlayan yeni bir yaşam dalgası. (Bu, şimdi hayvanlarda bulunan yaşam dalgasıdır). 
+
+Satürn Evresi’nin Geri Kalmışları ile yeni yaşam dalgasının birlikte içerisine girdikleri madde, Güneş Evresi’nin maden krallığını oluşturdu. Ancak ikinci krallığın bu iki sınıfı ya da alt- bölümü arasında büyük bir fark vardı. Geri Kalmışlar için bir “atak” yaparak şimdiki insanlığımızı oluşturan Öncüleri yakalamak mümkündü, ancak yeni yaşam dalgası için bu imkânsızdı. Bu yaşam dalgası ileride insana karşılık gelen bir aşamaya erişecektir, ancak bu durumun koşulları çok farklı olacaktır. 
+
+Geri Kalmışlar ile Öncülerin ayrılması, Satürn Evresi’nin yedinci devrinde Alev’in Efendileri tarafından tanrısal ruh uyandırıldığında meydana geldi. Bu anda, evrimleşmekte olan varlıklardan bir kısmının, uyandırılmalarını olanaksız hale getiren tepkisiz ve katı bir durumda bulundukları görüldü. Bu yüzden bu varlıklar, gelişimlerinin bağlı olduğu tanrısal kıvılcımı alamadılar ve aynı aşamada kalmaya mecbur oldular. Çünkü onların, içlerinde tanrısal kıvılcım uyandırılmış olanları takip etmeleri mümkün değildi. Gerçekten de olduğumuz veya olamadığımız her şey, bizim kendi uğraştıklarımızın veya uğraşmadıklarımızın sonucudur. 
+
+Bu Geri Kalmışlar ve yeni gelen yaşam dalgası, Güneş Evresi’nin en yoğun küresi olan parlak Gaz küresinde karanlık lekeler oluşturdular. Bizim şimdiki Güneş’imizde varolan lekeler de bu durumun kadim kalıntılarıdır. 
+
+Güneş Evresi’nin altıncı devrinde Kerrubim tarafından yaşam ruhu uyandırıldı. Ve yine, Satürn Evresi’ndeki kritik noktayı sağ salim geçmiş olanlardan bir kısmının Güneş Evresi’nde geri düştüğü ve ruhun ikinci görünümünü canlandırılmış olarak almaya uygun olmadıkları görüldü. Böylece, yaşam dalgasının zirvesinden geriye düşen bir geri kalmış sınıfı daha oluştu. 
+
+Satürn Evresi’nin sonunda tanrısal ruhun kendi içlerinde uyandırılmasına uygun olmamış olan, ancak şimdi Güneş Evresi’nde ruhsal tepiyi alma noktasına erişmiş olanlarda tanrısal ruhu uyandırmak için Güneş Evresi’nin yedinci devrinde Alev’in Efendileri tekrar ortaya çıktılar. Alev’in Efendileri, yeni yaşam dalgasında, hazır olanların birçoklarında da tanrısal rûh tohumunu uyandırdılar. Fakat burada da geri kalmışlar oldu. 
+
+Böylece Ay Evresinin başlangıcında aşağıdaki sınıflar oluştu: 
+
+Satürn ve Güneş Evrelerinden başarıyla geçen Öncüler. Bunlar, tohumsal faaliyetteki bir yoğun bedene, bir yaşam bedene, bir tanrısal ruha ve bir yaşam ruhuna sahiptiler. 
+
+Güneş Evresinin Geri Kalmışları. Bunlar, tümü tohum halinde olan bir yoğun bedene, bir yaşam bedene ve bir de tanrısal ruha sahiptiler. 
+
+Güneş Evresi’nin yedinci devrinde terfi etmiş olan Satürn Evresi’nin Geri Kalmışları. Bir yoğun beden ve bir yaşam beden tohumuna sahiptiler. 
+
+Yeni Yaşam Dalgası’nın Öncüleri. 3. gruptakilerle aynı araçlara sahiptiler, ancak bizimkinden farklı bir evrim planına aitlerdi. 
+
+Yeni Yaşam Dalgasının Geri Kalmışları. Sadece yoğun beden tohumuna sahiptiler. 
+
+Yeni Bir Yaşam Dalgası. Evrimlerine Ay Evresi’nin başlangıcında başladılar ve günümüzdeki Bitkilere rûh vermektedirler. 
+
+Doğanın yavaş yavaş geliştiğini hatırlayalım. Doğa, formlarda ani değişimler gerçekleştirmez. Onun için zaman hiçbir şey, mükemmelliğe erişilmesi ise her şeydir. Bir maden, bir sıçrayışta bir bitkiye dönüşmez. Bu dönüşüm basamak basamak ve neredeyse ayırt edilmeyecek derecelerle gerçekleşir. Bir bitki bir gecede bir hayvana dönüşmez. Değişimlerin meydana gelmesi için milyonlarca yıl gerekir. Bu yüzden doğada daima basamakların ve alt-basamakların tamamı birarada bulunur. Varoluşun merdiveni, protoplazmadan Tanrı’ya kadar kesintisiz bir şekilde uzanır. 
+
+Bu yüzden Ay Evresi’nin başlangıcında evrim arenasına girmiş olan ve yukarıda belirttiğimiz altı sınıfa karşılık gelen altı farklı Krallıkla değil, sadece üç krallıkla, maden, bitki ve hayvan krallığıyla ilişkimiz vardı. 
+
+Ay Evresi’ndeki en alt sınıfı, orada kendi evrimine başlayan yeni yaşam akımını oluşturdu. O, madenlerin en sert olan çeşitlerini meydana getirdi. Fakat unutulmamalıdır ki o, günümüzdeki madenler kadar katı değildi ve yaklaşık olarak bizim odunumuz kadar bir yoğunluğa sahipti. 
+
+Bu tespit, yukarıda Ay’ı ıslak olarak tarif etmiş olmamızla ya da Ay Evresi’ndeki en yoğun Küreyi Eter Bölgesindeki Küre olarak gösteren Şekil 8’le çelişmez. Daha önce de söylediğimiz gibi evrimin spiral biçimli yolu, herhangi bir durumun tekrarlanmasını önler. Benzerlikler olur, ancak hiçbir zaman aynı koşullardaki tekrarlar meydana gelmez. Bu koşulları her zaman en kesin şekilde tarif etmek mümkün değildir. Yine de burada koşulları en açık bir şekilde verecek ifadeler kullanılmaya çalışılmaktadır. 
+
+Listemizdeki 5. sınıf, neredeyse madendi fakat Güneş Evresi’nde maden durumunu geçtiği için birkaç bitki özelliğine de sahipti. 
+
+4. sınıf ise hemen hemen bitkiydi ve Ay Evresi bitmeden önce bitki durumuna çıktı. Ancak maden krallığına, yüksek krallıkları oluşturan üstteki iki basamaktan daha yakındı. Bu yüzden dördüncü ve beşinci sınıfları birleştirebiliriz ve onları bir tür ara basamak olarak bir “maden-bitki” krallığı olarak adlandırabiliriz. Bu krallık, Ay Evresi’nin eski Gezegeninin yüzeyini oluşturmaktaydı. O, günümüzdeki maden ve bitki arasındaki bir durum olan bataklık kömürü benzeri bir şeydi. Maden- bitki krallığı, Ay Evresinin sulu olması gerçeğine uygun olarak yaş ve ıslaktı. 
+
+Böylece dördüncü, beşinci ve altıncı sınıflar, Ay Evresi’nde maden krallığının farklı alt- basamaklarını oluşturdular. En yüksektekiler neredeyse bitki durumuna ulaştılar. En alttakiler ise bu zamanın en sert maden maddesini meydana getirdiler. 
+
+Sınıf 2 ve Sınıf 3, aslında bu zamanda bir bitkiden daha fazlası olmalarına rağmen, daha tamamen hayvan olmadıkları için bitki krallığını oluşturdular. Bunlar maden-bitki karışımı bir toprakta büyüdüler. Bitkiler gibi sabittiler ve eğer şimdiki bitkilerin olduğu gibi sırf madenden oluşan bir toprakta bulunsalardı büyüyemezlerdi. Bunların neye benzediklerine dair iyi bir örnek olarak şimdiki parazit bitkiler gösterilebilir. Bu parazit bitkiler, sırf madensel bir toprakta yetişemezler, bunun yerine besinlerini hazır olarak gerçek bir bitkiden veya gerçek bir ağaçtan alırlar. 
+
+Sınıf 1, bakir ruhların yaşam dalgasının Öncülerinden oluşur. Ay Evresi esnasında onlar, bir çeşit hayvan benzeri yaşamdan geçtiler. Ancak zamanımızdaki hayvanlara sadece, onlarla aynı araçlara sahip olmaları ve tüm insan ailesini çevreleyen bir grup ruhunun egemenliği altında bulunmaları yönünden benziyorlardı. Geçen bölümdeki anlatımdan da anlaşılacağı üzere görünüş olarak zamanımızın hayvanlarından çok farklıydılar. Onlar, gezegenin yüzeyine temas etmiyorlardı ve göbek bağı benzeri kordonlarla havada asılı bir şekilde bulunuyorlardı. Akciğerler yerine solungaç benzeri aygıtlara sahiptiler ve bunlar aracılığıyla sıcak buharlı “alev-sisi”ni soluyorlardı. Ay varoluşunun bu özellikleri halen gebelik evresi boyunca ceninde tekrarlanmaktadır. Gelişiminin belirli aşamalarında cenin solungaçlara sahiptir. O zamanın Ay varlıkları aynı zamanda, zamanımızdaki hayvanda olduğu gibi yatay omurgaya da sahiptiler. 
+
+Ay Evresi esnasında birçok sınıfta daha bölümler meydana geldi. Çünkü yine burada da evrim dalgasının gerisinde kalan Geri kalmışlar vardı. Sonuç olarak Yer Evresi’nin başlangıcında 5 sınıf oluştu ve Şekil 10’dan da görüleceği gibi bu sınıflardan bazıları alt-bölümlerden oluşuyordu. Bu alt- bölümler, aşağıdaki zamanlarda ve aşağıdaki sebeplerden meydana geldi: 
+
+Ay Evresi’nin beşinci devrinin ortasında Seraphim, kendilerini daha da ileri gelişme için hazır hale getiren Öncülere insan rûhunun tohumunu verdiğinde bazılarının bu tohumu almaya uygun olmadıkları görüldü. Bunlar, üçüz ruhu uyandırmış olan ruhsal tepi’yi (impulse) almaya uygun değildiler. 
+
+Ay Evresi’nin altıncı devrinde Kerrubim tekrar ortaya çıktı ve Güneş Evresi’nde geri kalmış, ancak ondan sonra gerekli gelişim aşamasına (önceki tablomuzda Sınıf 2) erişmiş olanlarda ve de Ay Evresi’ndeki bitkisel varoluşları sırasında yaşam beden geliştirememiş olan Güneş Evresi’nin geri kalmışlarında yaşam ruhunu canlandırdılar. (Bunlar da önceki Tablodaki Sınıf 3’tüler). 
+
+Önceki listemizdeki Sınıf 4, bitkisel varoluşun bir düşük aşamasından geçmiştir. Ancak onlardan çoğu, yaşam ruhunun uyandırılabilmesi için gerekli olan yaşam bedeni yeterince geliştirmiştir. 
+
+Böylece Yer Evresi başladığında son üç sınıf, aynı araçlara sahiptiler. Ancak bunlardan yalnızca ilk ikisi (Şekil 10’da Sınıf 3a ve Sınıf 3b) bizim yaşam dalgamıza aittirler ve Yer’in bundan sonraki devrinde gelecek olan kritik noktayı aştıklarında bizi yakalama şansları bile vardır. Bu noktayı aşamayanların tamamı, ileride yeni bir evrim belli bir aşamaya erişip, onların içine atlayabilecekleri ve yeni bir insan evresinde gelişimlerini devam ettirecekleri zamana dek geride kalacaklardır. Onlar, bizim insanlığımızla birlikte gitmekten yoksun bırakılacaklardır. Çünkü bizim insanlığımız o zaman onların durumlarının çok ötesinde ilerlemiş olacaktır ve gelişmemize ciddi bir engel olarak onları bizimle birlikte sürüklemek gerekecektir. Onlar yokedilmeyeceklerdir, ancak başka bir evrim evresine dek beklemeleri gerekecektir. 
+
+Hristiyanlık dini “kurtuluş”tan bahsederken bizim şimdiki evrim dalgamızla birlikte ilerlemeyi kastetmiştir. Kurtuluş, ciddiyetle aranması gereken birşeydir. Çünkü “kurtuluş”a ermeyenler için ne “sonsuz lanet” vardır, ne yokedilme ve ne de sonsuz azab vardır. Ancak yeni bir evrim dalgasının, burada ilerleme kaydedemeyenlerin içine girebilecekleri kadar gelişmesini milyarlarca yıl eylemsiz bir şekilde beklemek üzere geri bırakılmaları yine de ciddi bir meseledir. Gerçi rûh, zaman kaybının bilincinde değildir, ancak bu yine de ciddi bir kayıptır ve bu, böyle rûhlar yeni bir evrim içerisinde kendilerini buluncaya kadar bir yurtsuzluk durumu demektir. 
+
+Şimdiki insanlığımız sözkonusu olduğunda bu ihtimal, ihmal edilebilecek derecede önemsizdir. Bununla birlikte, evrimleri Satürn Evresi ile başlamış olan bakir rûhların tümünden yalnızca beşte üçünün, Yer Evresinin bir sonraki devri olan beşinci devrinde kritik noktayı aşacakları ve hedefe varacakları söylenmektedir. 
+
+Okült bilgin’in en büyük endişesi materyalizmdir. Eğer materyalizm çok ileri giderse sadece ilerlemeyi durdurmayla kalmayacak, aynı zamanda bakir ruhun yedi aracının tamamını yokededecek ve onu çıplak bırakacaktır. O zaman bu ruh, yeni evrimde tekrar en baştan başlamak zorunda kalacaktır. Onun Satürn Evresi’nden beri yaptığı bütün çalışma tamamen ziyan olacaktır. Bu yüzden bizim insanlığımız için şimdiki evre, tüm evreler içerisinde en kritik olanıdır. Bu yüzden okült bilgin, bir tanesi de cermen-anglosakson olan on altı ırktan, “yokedilmenin on altı olasılığı” olarak bahseder. Okuyucu umarız ki tüm bunları emin bir şekilde geçer. Zira onun zincirleri, gelecek devirdeki gecikmeden daha kötüdür. 
+
+Genel olarak belirtmek gerekirse, son gösterilen listede Sınıf 5, yedinci devirde Alev’in Efendileri tekrar göründüğünde tanrısal ruh tohumunu alacaktır. Bu yüzden onlar, Ay Evresinin başlangıcında gelişmeye başlamış olan son evrim dalgasının öncüleriydiler. Orada maden varoluşundan geçtiler. Böylece o yaşam dalgasının Geri kalmışları, sadece yoğun bir beden tohumuna sahip olarak kaldılar. 
+
+Yukarıdakilere ek olarak, yeni bir yaşam dalgası ( bizim şimdiki maden krallığımız) daha geldi ve evrimine Yer Evresi’nin başında başladı. 
+
+Ay Evresi’nin sonunda bu dalgalar, Şekil 10’da gösterilmiş olan araçlara sahiptiler ve onlarla Yer Evresi’ne girdiler. O zamandan bu yana geçmiş olan zamanla insanlık, zihin bağını geliştirdi ve böylece tam-uyanık bir bilince sahip oldu. Hayvanlar bu sürede bir arzu beden edinirken bitkilerin de bir yaşam bedeni oldu. Gelişimlerine Ay Evresi’nde başlamış olan yaşam dalgasının Geri kalmışları, kaya formlarının sıkı ve katı koşullarından kaçındılar ve yoğun bedenleri şimdi Dünyâmızdaki daha yumuşak formları oluşturuyor. Evrimine Yer Evresi’yle başlamış olan yaşam dalgası da sert kaya ve taşları oluşturuyorlar. 
+
+Böylelik farklı sınıflar, okuyucunun dikkatine sunulan Şekil 3’te gösterilmiş olan araçlara sahip olmuş oldular. 
+
+### <h3 id="chapter-10">10. Bölüm: Yer Evresi</h3> 
+
+Yer Evresi’nin Küreleri, maddenin en yoğun dört durumunda bulunurlar: Somut Düşünceler Bölgesi, Arzu Âlemi, Eter Bölgesi ve Kimyasal Bölge (Şekil 8) En yoğun Küre ( D Küresi) bizim şimdiki Dünyâmızdır. 
+
+“En yoğun âlemler”den ya da “maddenin en yoğun halleri”nden bahsettiğimizde bu ifadelerin göreceli kavramlar olduğu unutulmamalıdır. Aksi takdirde Mutlak’ı sınırlamış olurduk, ki bu da mantığa aykırıdır. ‘Daha yoğun’ ve ‘daha ince’ kavramları, ‘yukarı’ ve ‘aşağı’ gibi, doğu ve batı gibi, bizim şimdiki durumumuz veya konumumuz itibariyle göreceli olarak kullanılabilecek kavramlardır. Bizim yaşam dalgamızın temas ettiği âlemlerden daha yüksek ve daha ince âlemler olduğu gibi, başka sınıf varlıkların evrim alanı olarak işlev gören ve bizimkinden daha yoğun madde hallerine sahip olan âlemler de vardır. Ayrıca bu yoğun âlemlerin uzayda başka bir yerde bulunduğunu da sanmamalıyız. Nasıl yüksek âlemler bizim âlemimizi kapsıyorlarsa bu âlemler de, bizim âlemlerimiz tarafından kapsanmaktadır. Bizim katı ve yoğun duvarlarımız, nasıl Arzu Bedendeki bir insanın geçişine engel değilse, aynı şekilde Yer’in ve gördüğümüz nesnelerin hayali katılığı, yoğun bir bedenin onların içinden geçişine de engel değildir. Ayrıca katılık, alüminyum örneğinde olduğu gibi yoğunlukla da eş anlamlı değildir. Alüminyum, bir sıvı olan civadan daha az yoğundur. Yine de civa, yoğunluğuna rağmen buharlaşır ve pek çok katı maddenin içine sızar. 
+
+Şu anda dördüncü evrede bulunduğumuzdan, dört elemente sahibiz. Satürn Evresi’nde yalnızca bir tek ateş elementi vardı. Yani sıcaklık veya yeni başlayan ateşin ısısı vardı. İkinci Evre olan Güneş Evresi’nde ise iki element bulunmaktaydı: Ateş ve Hava. Üçüncü Evre olan Ay Evresi’nde de üç element bulunuyordu ve belirttiğimizi iki elemente su elementi de katılmıştı. Dördüncü Evre olan Yer Evresi’nde de dördüncü element olan toprak, diğer elementlere eklendi. Böylece gördüğümüz gibi varolan elementlere her evrede yeni bir element eklenmektedir. 
+
+Jüpiter Evresi’nde konuşma ile birleşecek bir ruhsal doğa elementi eklenecektir. Böylece kelimeler, günümüzde sık sık olduğu gibi yanlış anlamayla değil tam bir anlamayla anlaşılacaktır. Örneğin birisi “ev” dediğinde bir kulübeyi kastediyor olabilir, buna karşın onu dinleyen kişi de evden büyük bir apartmanı anlıyor olabilir. 
+
+Yukarıda belirtilen dört elementin çevresine, Şekil 10’da gösterilmiş olan farklı sınıflar, bu sınıflardan sorumlu olan Hiyerarşiler tarafından getirildi. Hatırlayalım ki, Ay Evresi’nde bu sınıflar üç krallığı oluşturuyorlardı: Hayvan krallığı, Hayvan-bitki krallığı ve bitki-maden krallığı. Ancak burada, yani yeryüzündeki koşullarda, büyük yarı-sınıflar oluşamaz ve de sınıflar, birbirlerinden belirgin şekilde farklı dört krallık olmak zorundadır. Bu kristalleşmiş varoluş aşamasında onların aralarındaki çizgiler, önceden birinin diğerinin içine dereceli olarak geçtiği durumdan daha kesin bir şekilde çizilmiş olmalıdır. Bu yüzden on sınıftan birkaçı, yarım adım ileri gitmiş; diğerleri de yarım adım geri kalmıştır. 
+
+Maden-bitkilerin birkaçı tamamen bitki krallığına geçtiler ve yeşillikleri oluşturdular. Diğerleri ise aşağıya indiler ve içinde bitkilerin büyüdüğü saf madensel toprak haline geldiler. Bitki- hayvanlardan bazıları önceden hayvan krallığına girecek kadar gelişti. Bu türler halen renksiz bitki kanı taşımaktalar. Hatta denizyıldızı gibi türler, bitkilerin taç yaprakları gibi beş kolludur. 
+
+Arzu bedenleri (Sınıf 1’de olduğu gibi) iki parçaya bölünebilen Sınıf 2’nin tamamı da insan araçları edinmeye uygundular ve böylece insan grubuna geçtiler. 
+
+Şunun bilincinde olmalıyız ki, yukarıdaki paragraflarda Form’un içinde oturan yaşamdan değil, Form’dan bahsettik. Enstrüman, içerisinde oturacak yaşama uymasına göre derecelendirilir. Araçlarında, yukarıda anlattığımız bölünmenin gerçekleştirilebilmiş olduğu Sınıf 2, insan krallığına yükseldi. Ancak bu sınıfın içinde oturacak rûh ona, zamansal olarak Sınıf 1’den daha sonra verildi. Bu yüzden onlar şu anda Sınıf 1 kadar gelişmiş değillerdir ve insanlığın daha az gelişmiş ırklarını oluşturmaktadırlar. 
+
+Arzu bedenleri bölünemeyenler ise Sınıf 3a ve Sınıf 3b gibi aynı grup içerisinde yeraldılar. Onlar, günümüzdeki anthropoidlerdir (form olarak insana benzeyen maymunlar). Bunlar, daha önce belirtilmiş olan beşinci devrin ortasındaki kritik noktadan önce belli bir gelişme derecesine erişirlerse hâlâ bizim evrimimize yetişebilirler. Bu zaman içerisinde bizi yakalayamazlarsa da bizim evrimimizle olan temaslarını kaybedeceklerdir. 
+
+İnsanın üçüz bedenini, kendisinden yüce olan başkalarının yardımıyla yaptığı söylenmektedir. Fakat önceki Evrede hiçbir düzenleyici güç bulunmamaktaydı. Üçüz ruh, yâni Ego ayrıydı ve araçlarından farklı yerdeydi. İşte şimdi, beden ve ruhu birleştirme zamanı gelmişti. 
+
+Arzu beden bölündüğünde yüksek olan kısım, alçaktaki kısım, yoğun beden ve yaşam beden üzerinde bir miktar hakimiyet kurdu. O, bir çeşit hayvan-ruhu oluşturdu. Bununla da ruh, zihin bağı yardımıyla birleşebildi. Arzu bedenin bölünmesi gerçekleşmediğinde ise araç, arzulara ve tutkulara kontrolsüz bırakıldı ve bu yüzden de içte oturan rûha araç olarak hizmet edemedi. Böylece o, kendisini dışarıdan yönlendiren bir grup ruhunun egemenliği altına konuldu. O, bir hayvan beden oldu ve bu tür, şimdi antropoid olarak yozlaştı. 
+
+Arzu bedenin bölünmesi gerçekleştiğinde yoğun beden yavaş yavaş dikey bir hale geldi ve içinde, yatay omurga aracılığıyla grup-ruhunun hayvanı yönlendirdiği Arz aleminin yatay akımların etkisinden omurgasını çıkarmış oldu. Ego ancak bundan sonra Form’a girebildi, onun içinde çalışabildi ve kendini, dikey omurga aracılığıyla ifade edebildi. Ayrıca kendisini yoğun bedende uygun bir şekilde ifade edebilmek için dikey gırtlağı ve beyni yaptı. Yatay bir gırtlak da grup-ruhunun egemenliği altında bulunur. Sığırcık, kuzgun, papağan gibi bazı hayvanlar, dikey bir gırtlağa sahip olmaları sebebiyle çeşitli kelimeler çıkarabilmelerine rağmen, gırtlağı anlaşılır kelimeler çıkaracak şekilde kullanamazlar. Düşünceyi ifade etmek için kelimelerin kullanımı, insanın en yüksek ayrıcalığıdır ve ancak, insan gibi hüküm yürütebilen ve düşünen bir varlık tarafından yapılabilir. Eğer öğrenci bunu idrak ederse, bu hedefe götüren farklı adımları takip etmek onun için daha kolay olacaktır. 
+
+#### <h4 id="the-saturn-revolution-of-the-earth-period">Yer Evresi’nin Satürn Devri</h4>
+
+Her Evre’de bu devir, yoğun bedenin tekrar inşa edilip daha da mükemmel bir hale getirildiği devredir. Yer Evresi’ndeki bu devirde insan, bir beyin oluşturma yeteneğine ve zihin tohumu için, daha sonra kendisine eklenecek bir araca sahip oldu. Bu ekleme işlemi, yoğun bedenin nihai yeniden inşasını oluşturdu ve insanı, böyle bir aracın en yüksek derecede kullanımına erişebilmeye yetenekli kıldı. 
+
+Yoğun bedenin inşası için tarif edilemez Bilgelik kullanılmıştır; o mucizevi bir eserdir. Öğrenci şunu ne kadar anlasa azdır; bu enstrüman, bilgelik kazanmada ne kadar mucizevi bir araçtır; o insan için ne büyük bir nimettir ve insan, bu araç için ne kadar minnettarlık duysa azdır. 
+
+Bu enstrümanın yapısının mükemmelliği ve zeki uyum yeteneğine ilişkin daha önce birkaç örnek verilmişti. Ancak öğrencinin zihnine bu büyük gerçeği daha derin kazımak için örnekler aracılığıyla bu bilgeliği daha ayrıntılı açıklamak ve aynı zamanda Ego’nun kandaki çalışmasını da göstermek yerinde olacaktır. 
+
+Anlaşılmaz olsa da genel olarak bilinen bir şeydir ki, sindirimi desteklemek için mide sıvısı, yenen yiyecekler üzerinde faaliyet gösterir. Ancak tıp uzmanları dışında çok az insan, birçok farklı mide sıvısının varolduğunu ve bunların herbirinin, belli bir çeşit yiyeceğin sindirimi için uygun olduğunu bilir. Pavloff’un araştırmaları şüphe bırakmayacak şekilde göstermiştir ki, etlerin sindirimi için bir tür mide sıvısı; süt sindirimi için bir diğeri; asitli meyveler için de bir başka mide sıvısı vardır. Bu arada bu gerçek, yiyeceklerin birbiriyle her zaman uyum sağlamamalarının da sebebidir. Örneğin süt, nişastalı yiyecekler hariç diğer yiyeceklerin neredeyse tamamından farklı bir mide sıvısına ihtiyaç duyar ve tahıllar dışındaki yiyeceklerle kolayca sindirilmez. Burada mucizevi bir bilgelik açığa çıkar, çünkü bilinçaltında çalışan Ego, mideye giren yiyeceklerin her bir türü için farklı sıvıları seçme ve yiyeceklerin sindirimi için onları doğru kalite ve miktarda hazırlama kâbiliyetine sahiptir. Bu süreci daha da mucizevi kılansa mide sıvısının yiyecekten önce mideye boşaltılmasıdır. 
+
+Biz, mide sıvılarını karıştırma işini bilinçli olarak yönetmeyiz. İnsanların büyük çoğunluğu bu metabolizmayı ya da herhangi bir kimya yasasını bilmez. Bu yüzden bizim yiyecekleri yediğimiz ve geri kalan işlemi sinir sistemimizdeki sinyallerin yönettiği varsayımı yeterli değildir. 
+
+Bu sıvıların seçimi olgusu ispatlandığında bu sefer de bilimadamları sıkıntıyla şu soruları çözmeye çalışacaklardır: Nasıl oluyor da doğru mide sıvısı seçiliyor ve yiyecekten önce mideye boşaltılması sağlanıyor? Onlar, sinyalin sinir sistemi boyunca verildiğini düşünüyorlardı. Ancak ispatlanmıştır ki, uygun sıvı, sinir sistemi onu bloke etse de mideye dökülmektedir. 
+
+En sonunda Starling ve Bayliss, parlak bir zekayla yaptıkları ciddi birtakım deneyler dizisi sonucu, yiyeceğin ölçülemeyecek kadar küçük parçacıklarının, yiyecek ağıza girer girmez kan tarafından alınıp derhal sindirim bezlerine ulaştırıldığı ve bunun da uygun mide sıvısı akışına sebep olduğunu ispatlamışlardır. 
+
+Bu yine, olayın yalnızca fiziksel tarafıdır. Tüm harikulade bağlantıyı anlamak için okült ilme başvurmalıyız. Yalnızca okült ilim, sinyalin neden kanla taşındığını araştırır. 
+
+Kan, yaşam bedenin en yüksek ifadelerinden biridir. Ego, kendi yoğun enstrümanına kan aracılığıyla kılavuzluk eder ve onu kontrolünde bulundurur. Bu yüzden kan, aynı zamanda sinir sistemi üzerinde etkin olma aracıdır. Zamanın bir kısmı boyunca sindirim gerçekleşirken, Ego kısmen de sinir sistemi üzerinde etkin olur. Fakat o, (özellikle de sindirim işleminin başında) mide üzerinde doğrudan etkindir. Bilimsel deneylerde sinir sistemi bloke edildiğinde direkt kan yolu hâlâ açıktır ve Ego, gerekli bilgiyi bu yoldan alır. 
+
+Ayrıca görülecektir ki Ego, kanı en büyük faaliyeti sürdürdüğü yere sürmektedir. Bir durum, ani düşünce ve eylem gerektirdiğinde kan hemen kafaya sürülmektedir. Ağır bir yemeğin sindirilmesi gerektiğinde ise kanın büyük bir kısmı kafayı terk eder ve sindirim organları etrafında birikir. Ego çalışmalarını, yararsız yiyeceklerden bedenin kurtarılması üzerinde yoğunlaştırır. Bu yüzden ağır bir yemekten sonra insan iyi düşünemez. Uykulu bir hale gelir, çünkü beyinden çok fazla kan çekilmiştir ve beyinde kalan kan, tam uyanık bilinç için gerekli fonksiyonları devam ettirmede yetersizdir. Ayrıca neredeyse tüm yaşam enerjisi (ki bu, dalak tarafından salgılanan Güneş Enerjisidir) kandan alınır. Dalak, yemekten sonra bu enerjiyi, diğer zamankinden daha fazla salgılar. Böylece bedenin geri kalan kısmı, sindirim esnasında büyük bir ölçüde yaşam sıvısından mahrum kalır. Kanı beyne süren Ego’dur. Bunu şöyle ispatlayabiliriz: Bir insanı, iki ayağı üzerinde terazi biçiminde dengede bulunan bir masaya yatıralım. Beden uykuya daldığında masa, ayaklar yönünde aşağıya inecek, kafa da yukarıya çıkacaktır. Cinsel birleşme sırasında kan, cinsel organlar etrafında birikir. Tüm bu örnekler Ego’nun, uyanık olunan saatler boyunca kan aracılığıyla yoğun bedende çalıştığını ve onu kontrol ettiğini gösterir. Kanın büyük kısmı Ego’nun o an üzerinde faaliyet gösterdiği organa gider. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Yer Evresi’nin Satürn Devrinde yoğun bedenin yeniden oluşturulmasının amacı, yoğun bedenin zihin tarafından kapsanabilmesini sağlamaktır. Satürn Devri, beynin ön tarafının inşası ve sinir sisteminde yeni başlayan bölünme için ilk tepiyi (impulse) verir. Bundan sonra sinir sistemi, iki alt-bölümle (istençli ve sempatik) görünür hale gelir. Sadece sempatik sinir sistemi Ay Evresi’nde hazırlanmıştır. Yoğun bedeni sadece, dışarıdan uyarıcıların kontrolü altında otomatik hareket eden bir makine olmaktan çıkarıp olağanüstü uyumlu ve Ego tarafından yönlendirilebilen ve kontrol edilebilen bir enstrüman haline dönüştüren istençli sinir sistemi, şimdiki Yer Evresi’ne kadar insana eklenmemişti. 
+
+Bu yeniden inşa çalışmasının ana kısmı Form’un Efendileri tarafından gerçekleştirildi. Satürn Evresi’nde en aktif Yaratıcı Hiyerarşi, Alev’in Efendileri; Güneş Evresi’nde Bilgeliğin Efendileri, Ay Evresi’nde Bireyselliğin Efendileri iken Yer Evresi’nde en aktif Yaratıcı Hiyerarşi, Form’un Efendileri’dir. 
+
+Yer Evresi her şeyden önce Form Evresi’dir. Zira evrimin form ya da madde tarafı, en büyük ve en anlamlı durumuna burada erişmiştir. Burada ruh artık en çaresiz ve en bastırılmış haldedir ve Form, en baskın faktördür. Form’un Efendileri’nin önemi bu yüzdendir. 
+
+#### <h4 id="the-sun-revolution-of-the-earth-period">Yer Evresi’nin Güneş Devri</h4>
+
+Bu devir boyunca yaşam beden, tohumlanan zihinle uyum sağlamak üzere yeniden inşa edilmiştir. Yaşam beden, yoğun bedene daha da benzer biçimde biçimlendirilmiştir. Böylece yaşam beden, yoğun beden ruhsallaştıktan sonra, Jüpiter Evresi boyunca en yoğun araç olarak kullanılmaya hazır hale gelmiştir. 
+
+Ay Evresi’nde insan olan melekler, bu yeniden inşada Form’un Efendileri’nden yardım aldılar. Yaşam bedenin organizasyonu, etkinlik bakımından şimdi yoğun bedene en yakın olan organizasyondur. Bu konu hakkında bazı yazarlar yaşam bedeni bir bağ olarak adlandırmışlar ve onun yoğun beden için sadece bir form olduğunu ve ayrı bir araç olmadığını iddia etmişlerdir. 
+
+Biz eleştirmek istemiyoruz, ancak evriminin şimdiki safhasında insan, normalde yaşam bedeni ayrı bir araç olarak kullanamaz. Çünkü o, her zaman yoğun bedenin içinde kalır. Yaşam beden, yoğun bedenden tamamen çekip çıkarılabilseydi bu, yoğun bedenin ölümüne yolaçardı. Ancak, yaşam bedenin yoğun bedenle çok sıkı bir şekilde bağlı olmadığı bir zaman da vardı ve biz hemen bu zamandan bahsedelim. 
+
+Bizim dünyâmızın, önceden Lemurya ve Atlantis Çağları olarak adlandırdığımız çağları boyunca insan, iradedışı bir durugörürdü. Bunun nedeni de onun, yoğun bedeni ile yaşam bedeni arasındaki gevşek bağdı. (O zamanın öğretmenleri, iradeli öğrencilere bu bağın nasıl daha da gevşetileceğini öğretiyorlardı.) 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+O zamandan sonra insanların büyük çoğunluğunda yaşam beden, yoğun bedenle çok daha sıkı olarak bağlandı. Ancak duyuların tamamında bağlantı gevşektir. Ruhsal insanla sıradan insan arasındaki farkı yaratan da bu gevşek bağdır. Sıradan insan beş duyu dışındaki titreşimleri algılayamaz. Tüm insanlar, taşıyıcılarla olan bu sıkı bağlantı evresinden geçmek ve bundan dolayı meydana gelen bilincin sınırlılığını deneyimlemek zorundadırlar. Bu yüzden iki tür duyu vardır: Birincisi henüz maddenin tuzağına tam bir şekilde düşmemiş olanlar. Buna örnek olarak Hinduların ve Kızılderililerin pekçoğunu verebiliriz. Onlar, belli düşük bir derecede durugörürlüğe sahiptirler, doğanın seslerine karşı duyarlıdırlar ve evrimin öncü kolunda bulunanlardır. İkinci tür duyu da maddenin en derin noktasından ortaya çıkar ve kendi arasında ikiye ayrılır: Zayıf iradeyle pasif bir şekilde gelişmiş olanlar. Bunlar başkalarının yardımıyla istençsiz sinir sistemiyle bağlantılı olan solar pleksus’u ya da diğer organları yeniden uyandırırlar. Bunlar, yetenekleri üzerinde kontrole sahip olmayan istençsiz durugörürler ve medyumlardır. Ve de geriye doğru giderler. Diğer grup da kendi iradesi ve kendi bilinciyle istençli sinir sistemiyle bağlantılı organların titreşimsel güçlerini açığa çıkaranlardır. Bunlar deneyimli okültistlerdir ve kendi bedenlerini kontrol ederler ve kendi durugörür yetilerini ne zaman isterlerse kullanabilirler. Ve de istençli veya eğitimli durugörürler olarak adlandırılırlar. 
+
+İnsan, şimdi yoğun bedeni üzerinde nasıl işgörüyorsa, Jüpiter Evresi’nde de aynı şekilde yaşam bedeni üzerinde işgörecektir. Doğada hiçbir gelişim aniden gerçekleşmediğinden bu iki bedenin ayrım süreci şimdiden başlamıştır. Yaşam beden bundan sonra, yoğun bedenin günümüzde olduğundan çok daha yüksek dereceli bir etkinlik kazanacaktır. Çok daha fazla uyum yetisine sahip bir araç olduğundan, ruh için bu bedeni, yoğun bedeni kullanmanın mümkün olmadığı bir şekilde kullanmak olanaklı olacaktır. 
+
+#### <h4 id="the-moon-revolution-of-the-earth-period">Yer Evresi’nin Ay Devri</h4>
+
+Burada Ay Evresi tekrarlandı. Her periyodun D Küresi’ndeki koşullara benzer koşullar, daha yüksek bir seviyede yeniden meydana geldi. Bu devirde de aynı türden ateş-sis atmosfer, aynı alevli çekirdek bulunmaktaydı. Daha gelişmiş varlıkların bu gelişimlerine uygun, ancak bizim insanlığımız mertebesindeki varlıklar için imkânsız olan bir oran ve hızda ilerlemelerini sağlamak için Küre’nin aynı şekilde iki parçaya bölünmesi gerçekleşti. 
+
+Bu devirde Baş Melekler (Güneş Evresi’nin insanları) ve Form’un Efendileri, Arzu Bedenin yeniden inşasını üzerlerine aldılar, ancak bu işte yalnız değillerdi. Küre’nin ikiye bölünmesi gerçekleştiğinde gelişen varlıkların bazılarında da benzer bölünme gerçekleşti. Daha önce de belirttiğimiz gibi bölünmenin gerçekleştiği yerde Form, içte oturan bir ruhun aracı olmaya hazırdı. Bu amacı sağlamak için Zihnin Efendileri (Satürn Evresi’nin insanları) arzu bedenin yüksek olan kısmına sahip oldular ve ona ayrı bir benlik ektiler. Bu benlik olmaksızın insan, tüm görkemli olasılıklarıyla hiçbir zaman varolamazdı. 
+
+Böylece Zihnin Efendileri aracılığıyla Ay Devrinin bundan sonraki kısmında ayrı kişiliğin ilk tohumu, arzu bedenin yüksek kısmına ekilmiş oldu. 
+
+Baş Melekler arzu bedenin aşağı kısmında faaliyet gösterdiler ve saf hayvansal arzuları verdiler. Onlar aynı zamanda bölünmenin olmadığı arzu bedenler üzerinde de çalıştılar. Baş Meleklerden bazıları, varlıklar üzerinde dışarıdan çalışan hayvan grup-ruhlarının araçları oldular, ancak bireysel ruhun insan bedenine girdiği gibi onlar, tamamen hayvan formlarına girmediler. 
+
+Arzu beden, tohum zihnin kendisine nüfuz edebilmesi için yeniden inşa edildi. Zihin, Yer Evresi boyunca önceden bahsettiğimiz bölünmeyi gerçekleştirebilen tüm arzu bedenlere yerleştirildi. 
+
+Daha önce de açıklandığı gibi arzu beden, organize olmamıştır ve oval bir biçime sahiptir ve yoğun bedeni merkezinde karanlık bir benek gibi taşımaktadır. Bu tıpkı yumurtanın akının, sarısını çevrelemesine benzer. Bu oval bedende, Yer Evresi’nin başlangıcında görünmeye başlamış bir dizi duyu merkezi bulunmaktadır. Ortalama bir insan varlığında bu merkezler sadece bir nehirdeki girdaplar gibi gözükürler ve uyanmış değillerdir. Bu yüzden arzu beden tarafından ayrı bir bilinç aracı olarak kullanılamazlar. Bu merkezler uyandıklarında dönen girdaplar olarak görünürler. 
+
+#### <h4 id="rest-periods-between-revolutions">Devirler Arasındaki Dinlenme Aralıkları</h4>
+
+Şimdiye dek sadece Evreler arasındaki Kozmik Gecelerden bahsettik. Satürn ve Güneş Evreleri arasında bir dinlenme ve sindirme aralığı bulunduğunu gördük. Yine Güneş ve Ay Evreleri arasında da bir Kozmik Gece bulunmuş olduğundan bahsettik. Fakat Evreler arasındaki Kozmik Gecelere ek olarak devirler arasında da dinlenme aralıkları bulunur. 
+
+Evreleri, insanın farklı bedenlenmelerine (enkarnasyon); Evrelerin aralarındaki Kozmik Geceleri de ölümler ve doğumlar arasındaki sürelere benzetebiliriz. Bu durumda Devirler arasındaki aralıklar da gündüzlerin arasındaki gecelere benzerler. 
+
+Bir Kozmik Gece başladığında tüm tezahür etmiş (ortaya çıkmış, manifest etmiş) şeyler, tekrar homojen bir kitle haline çözünürler. Kozmos (evren), tekrar Kaos olur. 
+
+Ruha evrimleşme (gelişme) imkânı veren, maddenin bu ilksel haline geri dönüşüdür. Aktif tezahürün (manifestasyon) kristalleşme süreci sınırsızca devam edip gitseydi bu, ruhun ilerlemesi için aşılamaz bir engel haline gelirdi. Madde, ruhun çalışmasının artık çok zor olduğu belli bir dereceye kadar her yoğunlaştığında ruh, tükenmiş olan enerjisini geri çeker. Bu tıpkı, sert bir metali delmeye çalışan elektrikli bir matkaba benzer. Katı metali daha fazla delemeyen matkabın, yeniden eski gücüne kavuşması için delmeye çalıştığı metalden çekilmesi gerekir. Böylece matkabın metalin daha da derinine inebilmesi mümkün olur. 
+
+Madde içerisinde, gelişen ruhun kristalleştirici enerjisinden kurtulmuş bir haldeki kimyasal güçler, maddeyi ilksel haline döndürerek Kozmos’u Kaosa çevirirler. Böylece yeniden hayat bulan bakir ruhlar, yeni bir Tezahür Günü başladığında yeni bir başlangıç yapabilirler. Önceki Evrelerde ve Devirlerde kazandığı deneyim, ruhun bu Evrelerde ve Devirlerde en son eriştiği noktayı görece hızlı bir şekilde inşa edebilmesini sağlar. Aynı zamanda da topladığı deneyimin dikte ettiği değişiklikler aracılığıyla daha da ilerlemesi kolaylaşır. 
+
+Böylece Yer Evresi’nin Ay Devri sonunda tüm Küreler ve tüm yaşam Kaos’a geri döndü ve Dördüncü Devrin başlangıcında yeniden ortaya çıktı. 
+
+#### <h4 id="the-fourth-revolution-of-the-earth-period">Yer Evresi’nin Dördüncü Devri</h4>
+
+Evrim planının tarif edilemez karmaşıklığında, sonsuz sayıda spiraller içinde spiraller vardır. Böylece tekrarlama ve dinlenme işinin her Devirde farklı Kürelerde de uygulandığını öğrenmek bizim için sürpriz olmayacaktır. Yaşam dalgası bu Devirde A Küresi’nde tekrar belirdiğinde Satürn Evresi’ndeki gelişimden geçer. Ardından Küre’nin tamamen yokedilmesi değil de değişimi anlamına gelen bir dinlenme aralığından sonra, Güneş Evresi’nin çalışmasının tekrarlandığı B Küresi’nde belirir. Tekrar bir dinlenme aralığından sonra yaşam dalgası C Küresine geçer ve Ay Evresi’nin çalışması tekrar edilir. En sonunda yaşam dalgası, bizim Dünyamız olan D Küresi’ne ulaşmıştır. Ve bu zamandan önce Yer Evresi’nin gerçek çalışması başlamamıştır. 
+
+Bundan sonra bile spiral içinde spiral, yaşam dalgasının C Küresi’nden buraya varışından hemen sonra başlamasını imkânsız kılar. Çünkü zihin tohumunun verilmesi, aslında dördüncü Çağ’a kadar gerçekleşmemiştir. İlk üç Çağ boyunca daha yüksek bir seviyede Satürn, Güneş ve Ay Evrelerinin tekrarı meydana gelmiştir. 
+
+### <h3 id="chapter-11">11. Bölüm: Güneş Sistemimizin Yaratılışı ve Evrimi</h3>
+
+#### <h4 id="chaos">Kaos</h4>
+
+Önceki sayfalarda Güneş Sistemimiz ve onu oluşturan çeşitli gezegenler hakkında hiçbir şey söylenmedi. Zira şimdiki ayrımlaşma, Yer Evresi’ne erişilmeden meydana gelmedi. Yer Evresi çeşitliliğin zirvesidir ve sürekli tek tip bakir ruhlardan bahsetmemize karşın gerçekte, en dar ve en sınırlı anlamda bizim evrimimizle bağlantılı olanlardan yedi “Işın” veya hayat akımı vardır. Bunların herbiri farklı evrimleri izlerler, ancak yine de bizim insanlığımızın da ait olduğu bakir ruhların aynı orijinal sınıfına aittirler. 
+
+Önceki evrelerde tüm bu farklı alt-sınıflar veya Işınlar, aynı gezegen üzerinde kendi evrimleri için uygun bir çevrede bulundular. Fakat Yer Evresi’nde koşullar, çeşitli sınıfların farklı aşamalardaki evrimleri için gereken farklı titreşim ve ısıların sağlanabilmesi amacıyla farklı gezegenlere ayrılmalarını zorunlu kıldı. Onlar, merkezi yaşam kaynağı olan güneşten farklı uzaklıklara konuldular. Bu, evrende bizim Sistemimizin ve diğer tüm Güneş Sistemlerinin varoluş nedenidir. 
+
+Merkezi güneşten ayrılmasından sonra Dünya’daki insanlığımızın evrimini anlatmaya başlamadan önce açıklamadaki olayların sırasını koruyabilmek için, sistemimizin gezegenlerini uzaya saçan ayrımlaşmayı anlatmamız gereklidir. 
+
+Özellikle Fizik Âlemdeki aktif tezahür, ayrılığa, yaşamın Form tarafından sınırlanmasına bağlıdır. Fakat Evreler ve Devirler arasındaki dinlenme aralıkları esnasında yaşam ve Form arasındaki belirlenmiş ayrışma kesilir. Bu, yalnızca insan ve düşük seviyedeki krallıklar için geçerli değildir. Aynı zamanda gelişen yaşamın temeli olan Dünyalar ve Küreler için de geçerlidir. Yalnızca tohum-atomlar ve Kürelerin çekirdekleri veya merkezleri kalır, geri kalan her şey homojen bir maddedir. Mekânı kapsayan yalnızca ruhtur. Onun pozitif ve negatif kutupları olan Yaşam ve Form, birdir. 
+
+Şeylerin bu durumu, Yunan Mitolojisi’nde “Chaos” olarak adlandırılmıştı. Eski Kuzey ve Cermen Mitolojisi buna “Ginnungagap” diyordu ve o, kuzeyden soğuk ve sisli “Niflheim” (Soğuk ve Sis Ülkesi) ve güneyden de alevli “Muspelheim” ile çevriliydi. Sıcak ve soğuk, Chaos veya Ginnungagap tarafından işgal edilmiş mekâna girdiğinde görünür evrenin kristalleşmesine neden oluyorlardı. 
+
+Kutsal Kitap da ruhun faaliyetinden önce bulunan sonsuz uzay fikrini verir. 
+
+Şimdiki maddeci evremizde ne yazık ki Uzay sözcüğünün arkasında yatan fikri kaybettik. “Boş” mekândan veya mekânın “büyük boşluğundan” bahsetmeye o kadar alıştık ki, bu kelimenin büyük ve kutsal anlamını tamamen unuttuk ve Uzay ve Kaos kelimelerinin bizde uyandırması gereken derin saygı duygusunu duyamıyoruz. 
+
+Diğer okült okullar için olduğu gibi Gülhaç için de boş bir uzay veya bunun benzeri bir şey yoktur. Onlar için uzay, çözünmüş formdaki ruhtur; madde de kristalleşmiş uzay ya da ruhtur. Ruh, tezahürde (görünümde) ikilidir (dual). Bizim Form olarak gördüklerimiz, ruhun kristalleşmiş ve hareketsiz özellikteki negatif tezahürüdür. Ruhun pozitif kutbu ise Yaşam olarak tezahür eder ve negatif kutbu eylemle kaplar. Fakat Yaşam ve Form’un her ikisi de Ruh, Uzay ve Kaos’tan çıkarlar. 
+
+Günlük yaşamdan buna benzer bir örnek olarak bir yumurtanın kuluçkalanmasını verebiliriz. Yumurta, kısmen yapışkan bir sıvı ile doludur. Bu sıvı ya da ıslaklık sıcak bir ortama konulur ve yumuşak sıvı maddeden, sert kemikli, nispeten katı etli ve tüylü olan canlı bir civciv meydana gelir. 
+
+Dışarıdan katılaştırıcı herhangi bir madde olmadan yumurtanın hareketsiz sıvısından canlı bir civciv meydana gelebilmesini gözönünde bulundurarak evrenin kristalleşmiş Uzay veya Ruh olduğunu iddia etmek çok uçuk bir fikir midir? Şüphesiz ki bu iddia pek çoklarına aptalca görünecektir. Fakat bu kitap Dünya’yı, şeylerin ne olduklarına ikna etmek için yazılmamıştır. Kitap, bu şeylerin olması gerektiğini içsel olarak hissedenlere yardımcı olmak ve bu büyük Dünya sırrının üzerindeki ışığı onların görmesine yardım etmek için yazılmıştır, ki yazarın onu görmesine izin verilmiştir. Şu an için temel mesele, ruhun bir taraftan Tezahür (manifestasyon) esnasında diğer taraftan da Kaos esnasında her zaman faal olduğunu göstermektir. 
+
+Modern bilim, daha oluşum sürecinde iken bir Küre’nin üzerinde hayat olabileceği fikrini küçümserdi. Bu, bilimin Yaşam ve Form’u birbirinden ayırt edememesinden kaynaklanır. Modern bilim sadece, beş duyumuzdan biri tarafından algılanabilen katı Form’ları kavrayabilir. 
+
+Okült bilgin, yukarıdaki Yaşam ve Form tanımlamalarıyla uyumlu olarak yaşamın somut Formdan bağımsız olarak varolabileceği ve bizim sınırlı duyularımızın algılayamayacağı ve maddenin şimdiki somut halinin yasalarına bağlı olmayan Formlar alabileceği görüşündedir. 
+
+Nebula Teorisinin, tüm varlığın (yani Uzaydaki âlemler ve ondan meydana gelen tüm Formlar) ateşli Nebula’dan (bulutsu) geldiği görüşünde olduğu doğrudur. Fakat bu teori, okült ilim tarafından iddia edilen ve bunun devamı olan olguyu, yani ateşli Nebula’nın ruh olduğunu kabul etmez. Ayrıca o, etrafımızdaki tüm atmosferin ve gezegenler arasındaki boşluğun ruh olduğunu ve sürekli ve karşılıklı bir değişimin olduğunu, yani Form’un Boşlukta çözüldüğünü ve Boşluğun Form’da kristalleştiğini kabul etmez. 
+
+Kaos, geçmişte olmuş olan ve artık zamanımızda kaybolmuş bir durum değildir. O, şu anda da daima etrafımızdadır. Eğer kullanılmış olan tüm eski formlar sürekli çözülmek üzere Kaos’a geri dönmeselerdi ve Kaos sürekli yeni Formlar doğurmasaydı ilerleme olmazdı. Evrimin çalışması kesilirdi ve böyle bir engel ilerleme olasılığını önlerdi. 
+
+Bilinen bir prensiptir ki, “ne kadar sık ölürsek, o kadar iyi yaşarız”. Şair-İnisiye olan Goethe der ki: 
+
+    Ve buna sahip olmadığın sürece   
+    Bu ölüme ve oluşa   
+    Kederli bir misafirsin sadece   
+    Karanlık Dünya’da   
+
+Ve Paul der ki: “Ben hergün ölüyorum”. 
+
+Bu yüzden okült ilim öğrencisi olarak kişinin, aktif tezahür esnasında bile tüm gelişmenin temelinde Kaos olduğunu idrak etmesi zorunludur. Kaos esnasındaki yaşamımız, aktif tezahür esnasındaki yaşamımıza dayanır, yani aktif tezahür esnasında ne elde edebildiğimize bağlıdır ve bunun tersi de geçerlidir. İlerleme kabiliyeti, Kaos’taki varlığın sonucudur. Evreler ve Devirler arasındaki zaman, aslında ruhun büyümesi için somut varoluştan çok daha önemlidir. Ve bu, Evreler ve Devirlerin aradaki dinlenme zamanlarının temeli olmalarına ve bunun için vazgeçilmez olmalarına rağmen yine de böyledir. Aradaki kaos zamanlarının önemi, bu süre boyunca tüm sınıftan gelişen varlıkların, gerçekte birbirleriyle, bir olacak kadar yakın bir şekilde birleşmiş olmaları olgusundan kaynaklanmaktadır. Bu yüzden tezahür esnasında düşük gelişime sahip olanlar, gelişmiş varlıklarla en yakın temasları sayesinde, sahip olduklarından çok daha yüksek bir titreşimi deneyimler ve bundan yararlanırlar. Bu, onların geçmiş deneyimlerini, Form’larına bağlılarken mümkün olmayacak bir şekilde yeniden yaşamalarını ve sindirmelerini sağlar. 
+
+Ölüm ve yaşam arasındaki ara sürenin insan ruhu için yararını daha önce görmüştük. Ancak burada Form, yoğun bedenle karşılaştırıldığında olağanüstü incelmiş de olsa hâlâ bulunmaktadır. Fakat Kozmik Gece’de ve Evre’lerle Devirlerin aralarındaki, her türlü Form’dan tam bağımsızlığın olduğu sürelerde geçmiş deneyimlerin yararlı sonuçları çok daha etkin bir şekilde sindirilebilir. 
+
+Tezahürler arasındaki şeylerin durumunu belirtmek için bir kelimemiz vardır. Ancak bu kelime günümüzde maddi anlamda o kadar çok kullanılmıştır ki ilk anlamını kaybetmiştir. Bu kelime ‘gaz’dır. 
+
+Bu kelimenin, sıvılardan daha hafif madde halini tanımlamak için neredeyse her zaman kullanılmış çok eski bir kelime olduğu düşünülebilir, ancak durum böyle değildir. Bu kelime ilk defa “Physica”da kullanılmıştır. Bu eser 1633’de yayınlandı ve yazarı da bir Gülhaçcı olan Helmont’du. 
+
+Helmont kendisinin Gülhaçcı olduğunu söylemedi. Hiçbir gerçek Birader alenen kendisinin Gülhaçcı olduğunu söylemez. Ancak Gülhaçcı Gülhaçcıyı bilir. En yakın arkadaşlar veya akrabalar dahi onun tarikatla bağlantısını bilmez. Sadece kendileri İnisiye olanlar geçmiş yazarlardan Gülhaçcı olanları bilir. Onlar, bu yazarların eserlerindeki İnisiye olmayan kişiye saklı kalan, derin anlama sahip ve apaçık kelimeleri, cümleleri ve işaretleri görürler. Gülhaç Kardeşliği, tarikatın şimdi artık alenen herkese verilen öğretilerini öğrenenlerden oluşmuştur. Bu öğretiler artık herkese verilmektedir, çünkü dünyadaki insanların aklı, onları anlamak için gerekli olan seviyeye ulaşmıştır. Bu eser, Gülhaç ilminin açıkça yayımlanan ilk birkaç parçasından biridir. Birkaç yıl öncesine kadar (1909) bu konuda basılan her şey, şarlatanların veya hainlerin eserleriydi. 
+
+Paracelsus, Comenius, Bacon, Helmont ve diğerleri gibi Gülhaçcılar eserlerinde ipucu verdiler ve diğerlerini etkilediler. Shakespeare’in yazarlığıyla ilgili (boşu boşuna çok fazla tüy kalemi körletmiş ve daha iyi bir amaç için kullanılabilecek olan çok fazla iyi mürekkebi ziyan etmiş olan) büyük tartışma, Shakespeare ve Bacon’un büyük benzerliğinin, her ikisinin de aynı İnisiyeden etkilendiği gerçeğinden kaynaklandığı bilinseydi hiç çıkmayacaktı. Ki aynı İnisiye, Jacob Boehme ve Ingolstadt’da bir rahip olan Jacobus Baldus’u da etkilemiştir. Jacobus Baldus, Shakespeare’in ölümünden sonra da yaşamıştır ve lirik lâtince şiirler yazmıştır. Onun ilk şiiri belli bir anahtarla okunursa, satırların yukarı ve aşağı okunmasıyla aşağıdaki cümle bulunacaktır: “Şimdiye dek denizin öte tarafından Drama yardımıyla konuştum, artık kendimi lirikle ifade edeceğim.” 
+
+“Physica” adlı eserinde Gülhaçcı Helmont şöyle yazar: “Ad huc spiritum incognitum Gas voco”. Türkçe olarak, “Şimdiye dek bilinmeyen bu ruhu Gaz olarak adlandırıyorum.” Eserinde devam olarak şöyle der: “Gaz olarak adlandırdığım bu buhar, antik çağların bahsettiği Kaos’tan çok uzak değildir.” 
+
+Kaos’u, sonsuzluğun her kısmını kaplayan Tanrı’nın Ruh’u olarak düşünmeyi öğrenmeliyiz. Ancak o zaman her şey kendi gerçek ışığında görülecektir. Çünkü okült özdeyiş şöyledir: “Kaos, Evrenin tohum-temelidir”. Böylece biz artık, nasıl olup da “hiçbir şeyden bir şeyin meydana geldiğine” şaşırmayacağız, çünkü Uzay, “hiçbir şeyle” eşanlamlı değildir. Kaos, içinde, bir fiziksel tezahür boyunca varolan her şeyi tohum halinde barındırır. Hepsi bu değil, çünkü Kozmos’un Kaos’la evliliğinden her defasında yeni bir şey vücuda gelir. Bu yeni şey, daha önce varolmamıştır, önceden tahmin edilmemiştir ve gizil değildir. Bu şeyin ismi, ‘Yaratıcı güç’tür ve o, Yaratım’ın nedenidir. 
+
+O, tüm krallıklarda görünür. Ve insan, hayvan ve bitkideki gelişen ruhun ifadesidir. Bu yüzden Kaos kutsal bir kelimedir, Doğa’da gördüğümüz her şeyin Neden’ini belirtir ve denenmiş, gerçek ve deneyimli her okültistte bir saygı duygusu uyandırır. O, görünür duyu dünyasını Kaos’un gizli olasılıklarının açığa vurması olarak görür. 
+
+#### <h4 id="the-birth-of-the-planets">Gezegenlerin Doğuşu</h4>
+
+İnsanın, kendisini yoğun fizik âlemde ifade etmesi için uygun, yoğun bir beden geliştirmesi zorunluydu. Böyle bir âlemde onun, uzuvları ve organları olan bir bedene sahip olması gerekiyordu. Bu bedenin, insanın onun aracılığıyla hareket edebileceği bir kas sistemi bulunmalıydı. Ve de hareketlerini yönlendirmek ve düzenlemek için bir beyne sahip olmalıydı. Eğer koşullar farklı olsaydı, bu koşullara uygun olarak beden de farklı olurdu. 
+
+Varlık skalasında düşük ya da yüksek bütün varlıklar, tezahür etmek ( görünmek) istedikleri her âlemde, kendilerini ifade etmek için o âleme ait bir araca sahip olmaya mecburdurlar. Tahtın Önündeki Yedi Ruh bile kendileri için gerekli ve elbette ki Onlardan herbiri için farklı özelliklere sahip araçlara sahip olmak zorundadırlar. Toplu olarak onlar Tanrı’dırlar ve tanrısal Triune’u ( birde üç olan) oluştururlar. O kendisini, onların herbirinde farklı bir şekilde tezahür ettirir. 
+
+Tanrı’ya belli sayı değerleri atfetmek çelişki değildir. Biz böyle yaparak ışığın “birliğine” karşı günah işlemiş olmayız, çünkü ışığı, ayrıştığı üç ilksel renge ayırırız. Beyaz güneş ışığı, spektrumun yedi rengini içerir. Hatta Okültist oniki renk görür, çünkü görünür spektrum dairesi bir yönde takip edildiğinde Kırmızı ve Turuncu arasında Turuncu, Sarı, Yeşil vs dışında beş renk daha bulunur. Bu renklerden dördü tarif edilemez, ancak tam ortada bulunan beşincisi, yeni açılmış şeftali çiçeği rengine benzer. O aslında yaşam bedenin rengidir. Onu “mavimsi gri” veya “kırmızımsı gri” olarak tarif eden deneyimli durugörürler, Fizik Âlemde eşdeğeri olmayan bir şeyi betimlemeye çalışmışlar ve bu yüzden dilimizde ona en yakın ifadeyi seçmeye mecbur kalmışlardır. 
+
+Tanrı’nın, Tahtın Önündeki Yedi Ruhla birliğini idrak edebilmemizi Renk, belki de başka her şeyden daha fazla sağlar. Bu yüzden Şekil 12’ye bir bakalım. 
+
+Burada, siyah bir arkaplân üzerinde beyaz bir üçgen görmekteyiz. Beyaz, tüm renkleri kendisinde içeren bir bileşimdir. Tanrı da Kendisinde, Güneş Sistemi’ndeki her şeyi içerir. 
+
+Beyaz üçgenin içinde bir mavi, bir kırmızı ve bir sarı çember bulunmaktadır. Diğer tüm renkler, bu üç ana rengin bileşimidirler. Bu çemberler, sadece aktif tezahür esnasında dışa doğru etkin olmalarına rağmen, Tanrı’nın, Tanrı’da başlangıcı ve sonu olmadan bulunan üç yönüne karşılık gelirler. 
+
+Şekil 11’de de görüldüğü gibi bu üç renk karışırsa dört renk ortaya çıkar. Bu renklerden üçü, iki ana rengin karışımı olan ara renklerdir. Diğer dördüncüsü ise tüm renk skalasını içeren, yani spektrumun tüm yedi rengine de sahip olan çivittir (indigo). Bu yedi renk, Tahtın Önündeki Yedi Ruhu temsil eder. Renkler gibi herbiri Tanrı’nın Krallığında, yani Güneş Sistemimizde farklı bir misyona sahip olan Yedi Ruh da farklıdır. 
+
+Güneşin etrafında dönen yedi gezegen, yedi gezegen ruhunun yoğun bedenleridir. Bunların isimleri şöyledir: Bir uydulu Uranüs, sekiz uydulu Satürn, dört uydulu Jüpiter, iki uydulu Mars, tek uydulu Dünya, Venüs ve Merkür. (1909)[42] 
+
+Yaratılan bedenin, daima yaratıldığı amaca uygun olduğu görülmüştür. Bu yüzden yedi gezegen ruhunun yoğun bedenleri küre biçimlidir. Böylece bu form, gezegenlerin uzayda çok yüksek hareket hızlarına en iyi uyan formdur. Örneğin Dünya, yörüngesinde saatte yaklaşık 119.000 km hızla hareket eder. 
+
+İnsan bedeni geçmişte, şimdiki olduğundan farklıydı ve gelecekte de şimdikinden farklı olacaktır. İnvolüsyon esnasında o, şimdi doğum öncesi yaşamındaki bir evrede hâlen olduğu gibi yaklaşık küre şeklindeydi. Rahimdeki gelişim, geçmiş evrim aşamalarının bir tekrarıdır. O aşamada insan, gelişerek küre formuna erişti, çünkü onun enerjileri, tıpkı rahimde kürenin içindeki embriyonun gelişirkenki hâli gibi içe doğru, kendi araçlarının yapımına yönelikti. 
+
+İnsanın yoğun bedeni ve yaşam bedeni doğrusal bir biçim almışlardı, ancak onun daha yüksek araçları halen yumurta formunu koruyorlardı. Düzenleyici ve hükmedici beyin, yoğun bedenin bir ucunda bulunuyordu. Bu, böyle bir organ için uygun olmayan bir konumdu. Beyinden çıkan tepilerin (impulse), bedenin diğer ucuna, örneğin ayaklara ulaşması çok zaman alıyordu. Aynı şekilde ayaktan oluşan etkiler de beyne çok geç ulaşıyorlardı. Örneğin yanık vakalarında bilim, mesajın tehdit edilen yerden beyne gidip dönene kadar çok fazla zaman kaybettiğini kanıtlamıştır. Bu yüzden de yanık yerde kabarcıklar oluşmaktadır. 
+
+Bu yetersizlik durumu, eğer beyin tam ortada bulunsaydı büyük oranda azaltılabilirdi. Hisler ve tepkiler çok daha hızlı alınabilir ve gönderilebilirdi. Küre biçimli gezegenlerde Gezegen Ruhu, aracının hareketlerini merkezden yönetir. Gelecek zamanda insan, Şekil 12’de gösterildiği gibi geriye doğru bükülecektir. O, bir küre olacak ve enerjilerini dışarıya yöneltecektir, çünkü küre formu, tüm yönlerde en yüksek hareket imkânı ve eşzamanlı hareketlerin en iyi şekilde yapılmasını sağlar. 
+
+Gülhaç Evren Anlayışı, gezegenler için daha yüksek bir evrimin öngörüldüğünü öğretir. 
+
+Bir gezegen üzerindeki varlıklar, belli bir dereceye kadar evrimleştiklerinde o gezegen bir Güneş, yani bir Güneş Sisteminin sabit merkezi olur. Onun üzerindeki varlıklar, daha da yüksek bir dereceye evrimleştiklerinde ve bu Güneş, en büyük boyutuna ve parlaklığına eriştiğinde burçlar kuşağında (Zodyak’ta) çözünür ve tabiri caizse yeni bir Güneş Sistemi için rahim olur. 
+
+Böylece o zamana dek o Güneşin içinde sınırlanmış olan büyük tanrısal Varlıklar grubu, çok sayıda yıldız üzerinde hareket özgürlüğü kazanırlar ve buradan, kendi etki küreleri içerisinde büyüyen sistemleri çeşitli yollarla etkileyebilirler. Gezegenler veya insan taşıyan Dünyalar, burçlar kuşağı içinde eriştikleri evrim aşamasına göre farklı şekillerde olsa da, bu güçler tarafından sürekli olarak etkilenmektedir. 
+
+Bizim Güneşimiz, belli bir seviyeye erişmiş varlıkların yüksek titreşim oranını ve büyük parlaklığını kaldıracak kadar gelişmemiş bütün varlıkları dışarı atmadan Güneş olamadı. Şimdi farklı gezegenlere ait olan bütün varlıklar, eğer Güneşin içinde kalsalardı yokedilirlerdi. 
+
+Ancak bu görünür Güneş, insanın çok üzerindeki Varlıkların evrim alanı olsa da kesinlikle maddeci bilimin zannettiği gibi diğer gezegenlerin babası değildir. Tam aksine o, Güneş Sistemimizdeki her şeyin görünmez kaynağı olan merkez güneşin bir yansımasıdır. Bizim görünür Güneşimiz yalnızca, Ruhsal Güneşin enerji ışınlarının yansıtıldığı bir aynadır. Gerçek Güneş, gerçek İnsan kadar görünmezdir. 
+
+Yer Evresi’nin başlangıcında Kaos’ta ayrışma başladığında nebuladan ilk dışarı atılan gezegen Uranüs oldu. Burçlar kuşağının zayıf ışığı dışında ışık yoktu. Uranüs’le birlikte ayrılmış olan yaşam, oldukça geri kalmıştır ve çok çok yavaş geliştiği söylenmektedir. 
+
+Bundan sonra Satürn ayrıldı. Bu, Satürn Evresi’ndeki evrime karşılık gelen yaşamın hareket alanıydı. Bu gezegen, nebula’nın tutuşmasından önce atıldı ve (evrimin Satürn Evresi’nden geçen tüm nebulalar gibi) bir ışık kaynağı değil, sadece bir yansıtıcıydı. 
+
+Bundan kısa bir süre sonra da nebula alevli bir halde iken Jüpiter ayrıldı. Jüpiter’deki sıcaklık, Güneş, Venüs ve Merkür’deki sıcaklık kadar yüksek değildir. Ancak muazzam büyüklüğü sayesinde Jüpiter, sıcaklığını koruma yeteneğine sahiptir ve böylece çok ileri varlıklar için uygun bir evrim alanı sunar. O, Dünya tarafından Jüpiter Evresi’nde erişilecek olan aşamaya karşılık gelir. 
+
+Mars ise çok gizemlidir ve ancak onun hakkında sadece sınırlı miktarda bilgi verilebilir. Yine de diyebiliriz ki, Mars’taki yaşam çok geri kalmıştır ve sözde “kanallar”, gezegenin yüzeyindeki kazılar değildirler. Bu kanallar, tıpkı Atlantis Çağı boyunca bizim gezegenimiz üzerinde yayılmış olan akımlar gibidirler. Ki o kanalların kalıntıları, kuzey ışığı (Aurora Borealis ) ve Güney ışığı’nda (Aurora Australis) görülebilir. Bu şekilde gökbilimciler tarafından tespit edilmiş olan Mars kanallarının kayması açıklanabilir. Onlar gerçekten kanal olsalardı, kaymazlardı. Fakat Mars’ın kutuplarından çıkan akımlar kayabilmektedirler. 
+
+Bundan sonra Ay’la birlikte Dünya ve daha sonra Venüs ve Merkür atıldı. Bu gezegenler ve Mars, daha sonra Dünya’daki insan evrimiyle ilgili olarak daha ayrıntılı işlenecektir ve şu an için daha fazla bir açıklamaya gerek yoktur. 
+
+Bir gezegenin uydusu varsa bu, bir zamanlar o gezegende evrimleri, ana yaşam dalgasına katılmada çok geri kalmış varlıklar olduğunu ve öncülerin ilerlemesini engellememek için o varlıkların gezegenden dışarı atıldığını gösterir. Bu, Ay’da oturan varlıklarla ilgili de böyle olmuştur. Jüpiter’de ise onun uydularından üçünde oturanların muhtemelen ana gezegendeki yaşamı yakalayabilecekleri düşünülmüştü. Ancak diğerlerinden en azından birinin, tıpkı Ay gibi sekizinci bir evrim alanı olduğu ve burada, gelişen varlıkların maddi varoluşla çok yakın bir şekilde ilişki içinde olan ve kendi kendilerini bu acıklı sona getiren kısmının bu ilişki sonucunda, edindikleri araçların gerileyeceği ve çözüleceği düşünülmektedir. 
+
+Neptün ve uyduları, aslında bizim Güneş Sistemimize ait değildirler. Diğer gezegenler -ya da daha doğrusu onların Ruhları-, tüm insanlık üzerinde bir etki uygularken Neptün, Astrologların da içinde bulunduğu bir sınıf insan üzerinde çok özel ve güçlü bir etkiye sahiptir. Örneğin kitabın yazarı, birçok defa onun zorlayıcı etkisini açıkça hissetmiştir. 
+
+Bir uydu üzerindeki Geri Kalmışlar durumlarını iyileştirip ana gezegene geri döndüklerinde veya devam eden gerileme, araçlarının tamamen çözülmesine sebep olduğunda, terk edilen uydu da aynı şekilde çözülmeye başlar. Ancak bu uyduyu çok uzun çağlar boyunca yörüngesinde hareket ettiren ruhsal etki, terk edildikten sonra bile onu daha çok uzun çağlar boyu yörüngesinde döndürebilir ve fiziksel açıdan o, etrafında döndüğü gezegenin bir uydusu olabilir. Ancak zamanla ana gezegenin ona uyguladığı çekim gücü azalacak ve yörüngesi, Güneş Sistemimizin sınırına kadar genişleyecektir. Bundan sonra o, yıldızlar arasında bulunan uzaya atılacak ve Kaos’ta eriyecektir. Bu kül benzeri ölü dünyanın atılması, insan organizması tarafından katı ve yabancı bir maddenin içeriden deriye sürülerek dışarı atılmasına benzemektedir. Asteroidler, buna güzel bir örnektirler. Onlar, bir zamanlar Venüs ve Merkür’ü çevreleyen uyduların parçalarıdırlar. Bir zamanlar onlar üzerinde hapsedilmiş varlıklar Ezoterizm’de “Venüs’ün Efendileri” ve “Merkür’ün Efendileri” olarak adlandırılırlar. Onlar, bizim insanlığımıza hizmet ederek kaybetmiş oldukları konumlarını büyük bir ölçüde geri kazandılar. Bunu ileride daha ayrıntılı anlatacağız. Onlar şimdi kendi gezegenlerinde güvende bulunmaktadırlar. Bir zamanlar üzerinde oturdukları kısmen çözülmüş uydular ise dünyanın yörüngesinin çok dışında bir yörüngede dönmekteler. Bizim Sistemimizde daha başka “görünür” uydular da bulunmaktadır, fakat evrim yolunun dışında bulunduklarından Gülhaç Dünya görüşü onlarla ilgilenmez. 
+
+### <h3 id="chapter-12">12. Bölüm: Dünya’da Evrim</h3>
+
+#### <h4 id="the-polarian-epoch">Kutup Çağı</h4>
+
+Şimdi bizim dünyamızı oluşturan madde, henüz Güneş’in bir parçasıyken elbette ki ateşli bir durumdaydı. Fakat ateş ruhu yakmadığından bizim insan evrimimiz hemen başladı. Ancak bu evrim, Güneş’in Kutup Bölgesi ile sınırlıydı. 
+
+En önce, geleceğin insanlığının en yüksek derecede gelişmiş varlıkları ortaya çıktılar. Şimdi Dünya’yı meydana getiren maddeler henüz erimiş haldeydiler ve atmosfer gazla doluydu. İnsan burada maden aşamasını tekrarladı. 
+
+Bu inceltilmiş kimyasal maddeden insan, Form’un Efendileri’nin yardımıyla kendi kendine ilk maden bedenini yaptı. Eğer, insanın bilinçsiz bir şeyler yapamayacağı iddia edilerek buna karşı çıkılırsa anneyi örnek olarak verebiliriz. Anne, bedeninde çocuğun yapımının bilincinde midir? Ve herhalde şimdi kimse, onun bu yapımla ilgisi olduğunu söylemeyecektir. Buradaki tek fark, annenin inşayı çocuk için yaparken, insanın kendisi için yapmasıdır. 
+
+İnsanın ilk yoğun bedeni, onun şimdiki olağanüstü organlaşmış aracına hiç benzemiyordu. Bu araç ancak sayısız yıllar boyunca geliştirilmişti. İlk yoğun beden, tepesinde bir delikle büyük, şişkin bir nesneydi. Bu delikten bir organ çıkıyordu. Bu bir tür yönelme organıydı. Zamanla yoğun beden büzüldü ve daha da yoğunlaştı. Dayanabileceğinden daha yüksek sıcaklıkların olduğu yerlerin çok yakınına geldiğinde çözüldü. Zamanla organ, yokolmaya sebep olan bu durumlara tepki vermeye başladı ve yoğun beden otomatik olarak daha güvenli bir yere hareket etti. 
+
+Bu organ şimdi epifize dönüşmüştür ve bazen “üçüncü göz” olarak da adlandırılmaktadır. Ancak bu, yanlış bir tanımlamadır. Çünkü sıcak ve soğuğun algılanması bir göz tarafından değil, belli bir yerdeki organ tarafından yapılmıştır ve şu anda onun bu yetisi tüm bedene yayılmış haldedir. Kutup Çağı’nda bu duyu, nasıl şimdi görme duyusu gözde ve işitme duyusu da kulakta ise aynı şekilde tek bir organdaydı. Dokunma duyusunun Kutup Çağı’ndan bu yana vücudun her yerine genişlemesi, tüm bedenin daha yüksek bir seviyeye çıkarılmasının nasıl gerçekleştiğini gösteren bir ipucudur. Yine aynı şekilde gelecekteki bir zamanda insanın her parçası tüm şeyleri algılayabilecektir. Görme ve işitme duyuları, şimdi dokunma duyusunda olduğu gibi tüm bedene yayılacaktır. O zaman insan, sırf göz ve kulak olacaktır. Özel duyu organları sınırlılığı ifade eder. Tüm bedenle yapılan duyu algılaması, göreli olarak mükemmelliyettir. 
+
+Şu anda üzerinde konuştuğumuz erken aşamalarda bir çeşit üreme yöntemi vardı. Bu büyük ve şişkin yaratıklar, hücrelerin bölünmesine benzer bir şekilde iki yarım parçaya bölünüyorlardı. Ancak ayrılan parçalar büyümüyordu ve herbiri ilk formun yarısı kadar bir büyüklükte kalıyorlardı. 
+
+#### <h4 id="the-hyperborean-epoch">Uzak-Kuzey (Hiperboreik) Çağı</h4>
+
+Alevden kürenin zamanla farklı noktalarında, alev denizi içinde kabuk adalar oluşmaya başladı. 
+
+(Ay Evresinin insanları olan) Meleklerle Form’un Efendileri ortaya çıktılar ve insanın yoğun formunu bir yaşam bedenle giydirdiler. Bu şişkin bedenler, içlerine dışarıdan, geçişmeye ( osmosis) benzer bir yöntemle madde çekerek boyut olarak büyümeye başladılar. Artık çoğaldıklarında iki yarıya bölünmüyorlar, birbirine eşit olmayan iki parçaya bölünüyorlardı. Ve her iki parça da ana parçanın boyutuna gelene dek büyüyordu. 
+
+Kutup Çağı, Satürn Evresi’nin gerçek bir tekrarı olduğu için bu süre boyunca insanın maden aşamasından geçtiği söylenebilir. O, yoğun bedene ve trans haline benzer bir bilince, yani madenle aynı araç ve bilince sahipti. Benzer sebeplerden dolayı insanın Uzak-kuzey Çağı’nda da bitki aşamasından geçtiğini söyleyebiliriz. Zira o, bir yoğun ve bir yaşam bedene ve uykusuz rüya bilincine sahipti. 
+
+Mars, merkez kitleden atıldıktan sonra insan, Dünya’daki evrimine başladı. Ancak o dünya, henüz güneşten ayrılmamıştı. Uzak-kuzey Çağı’nın sonuna doğru kabuklaşma o kadar ilerlemişti ki, Güneşteki daha yüksek evrime sahip varlıkların bazılarının ilerlemesinde bir engel oluşturmaya başladı. Aynı zamanda alevli ortam da, gelişimlerinin devamı için daha yoğun bir dünyaya gereksinim duyan insan gibi düşük seviyeli varlıkların gelişimini engelliyordu. Bu yüzden Uzak-kuzey Çağı’nın sonunda şimdiki Dünya olan parça güneşten atıldı. Bu parça, ana parçanın etrafında, şimdikinden biraz daha farklı uzaklıktaki bir yörüngede dönmeye başladı. Bundan kısa bir süre sonra da benzer sebeplerle Venüs ve Merkür dışarı atıldılar. 
+
+Kristalleşme daima, bir gezegenin yavaş hareket eden kutbunda başlar. Yoğunlaşmış kısım merkezkaç kuvvetinin etkisiyle yavaş yavaş dışarı, ekvatora doğru çıkar. Eğer bu güç, birarada tutucu eğilimden daha güçlü ise yoğunlaşmış kısım dışarıya uzaya atılır. 
+
+Yerküre ana kitleden ayrıldığı zaman içerisinde Ay da bulunmaktaydı. Bu büyük kürede, şimdiki insanlığı oluşturan yaşam dalgası ile evrime Güneş, Ay ve Yer Evrelerinde giren ve günümüzde halen de hayvan, bitki ve maden krallıklarında bulunan yaşam dalgaları gelişmektedir. 
+
+Çeşitli Evrelerin, daha sonraki Evrelerde evrimde yukarı bir adım daha atmalarına izin verilen Geri Kalmışlarından bahsetmiştik. Bununla birlikte bu adımı atamayanlar da vardı. Onlar gelişemediler ve ilerleyenler için bir yük ve bir engel oluşturana dek hep daha fazla geri kaldılar. Diğerlerinin gelişimlerinin durmaması için onları yoldan temizlemek zorunlu oldu. 
+
+Lemurya Çağı’nın başlangıcında bu “başarısızlar” (dikkat edilmelidir ki onlar yalnızca Geri Kalmışlar değildi, onlar başarısızdı) Dünyanın işgal ettikleri kısmını öyle bir dereceye kadar kristalleştirmişlerdi ki, diğer bütün yerleri yumuşak ve ateşli olan Dünya’nın bu kısmı, devasa bir kül veya cüruf yığını olmuştu. Onlar bir engeldiler ve Dünya’nın kristalleştirdikleri parçası ile birlikte geri dönüşü olmayan bir şekilde uzaya atıldılar. Bu, Ay’ın Yaratım (Genesis) hikâyesidir. 
+
+#### <h4 id="the-moon-the-eighth-sphere">Sekizinci Gezegen: Ay</h4> 
+
+A’dan G’ye yedi Küre Evrim’in alanıdır. Sekizinci gezegen olarak Ay ise çözülme alanıdır. 
+
+Eğer Dünya, şu anda Güneş olan ilk Küre’den ayrılmasaydı, onun titreşimlerinin hızı insanın araçlarını parçalardı. İnsan o kadar hızlı büyürdü ki, onun yanında mantarın büyümesi bile yavaş kalırdı. Daha gençliğini yaşamak için zamanı olmadan yaşlanırdı. Güneşin bu etkisi, ergenliğe ve yaşlılığa kuzeydekinden daha erken erişilen tropikal kuşaktaki büyüme hızında da görülür. Öte yandan eğer Ay Dünya’da kalmış olsaydı, insan şimdi bir heykel şeklinde kristalleşmiş olurdu. Dünya’nın, şimdi ışınlarını uzak bir mesafeden yollayan Güneş’ten ayrılması insanın, uygun titreşim oranında yaşamasını ve yavaş yavaş ortaya çıkmasını sağladı. Ay güçleri onun uygun yoğunlukta bir beden inşa edebilmesi için zorunlu olan mesafeden ona erişirler. Fakat bu güçler formun yapımında faal olmalarına rağmen, aynı zamanda sürekli çalışmaları sonunda bedendeki dokuların kristalleşmesine ve böylece ölüme yol açarlar. 
+
+Güneş, yaşam bedende çalışır ve yaşam veren güçtür ve ölüm getiren Ay güçlerine karşı savaşır. 
+
+#### <h4 id="the-lemurian-epoch">Lemurya Çağı</h4>
+
+Bu Çağda Güneş Evresi’nin insanlığı olan Baş Melekler (Archangels) ve Satürn Evresi’nin insanlığı olan Zihnin Efendileri ortaya çıktılar. Bu Hiyerarşiler, kendilerine Yer Evresi’nin sorumluluğu verilmiş olan Form’un Efendileri tarafından desteklendi. Onlar insana Arzu bedenini yapmasında yardım ettiler. Zihnin Efendileri de Sınıf 1’i oluşturan (Şekil 10’daki sınıflandırmaya bakınız) Öncülerin büyük kısmına zihin tohumunu verdiler. 
+
+Formun Efendileri gerekli ilerlemeyi, Yer Evresi’nin başlangıcından bu yana geçmiş olan üç buçuk devir boyunca yapmış olan Ay Evresi’nin pekçok geri kalmışlarında insan ruhunu canlandırdılar. Ancak bu zaman içinde Zihnin Efendileri onlara zihin tohumunu veremedi. Böylece yeni oluşan insanlığın büyük bir kısmı, üçüz ruh ve üçüz beden arasında bu bağlantı olmadığından geri kaldılar. 
+
+Zihnin Efendileri, arzu bedenin yüksek kısmının ve tohumlanan zihnin sorumluluğunu aldılar ve onları ayrı bireysellik yeteneğiyle donattılar. Bu yetenek olmasaydı, bugün olduğumuz gibi ayrı ve özbilinçli Varlıklar olamazdık. 
+
+Deneyim ve büyüme için bize sunduğu tüm olasılıkları ile ‘ayrı kişiliği’ Zihnin Efendilerine borçluyuz. Ve bu nokta, Bireyin doğum noktasıdır. 
+
+#### <h4 id="birth-of-the-individual">Bireyin Doğuşu</h4>
+
+Şekil 1’den de görüleceği üzere kişilik, ruhun yansıtılmış resmidir. Burada zihin, ayna ya da odak noktası olarak işlev görür. 
+
+Nasıl ki bir göle yansıdığında ağaçların resmi ters görünür ve ağaç yaprakları insana sanki suyun derinliklerindeymiş gibi gelirse ruhun en yüksek görünümü de (tanrısal ruh) yansımasını üç beden içinde en yoğununda (yoğun beden) bulur. Bir sonraki en yüksek ruh da (yaşam ruhu) bir sonraki en düşük bedende (yaşam beden) yansır. Üçüncü ruh (insan ruhu) ve onun yansıması (arzu beden), zihnin yansıtıcı aynasına en yakın olanlardır. Böylece arzu beden, benzetmemizdeki yansıtıcı öğe olan gölün yüzeyine karşılık gelir. 
+
+Ruh, involüsyon esnasında yüksek âlemlerden aşağıya indi ve eşzamanlı olarak da aynı evre boyunca bedenler yukarıya doğru inşa edildiler. Bu iki akımın zihnin odağında karşılaşması, ruhun, kendi araçlarına sahip olmasıyla bireyin –yani insan varlığının, Ego’nun– doğduğu zaman noktasını belirtir. 
+
+Ancak insanın bu yüzden bir defada evrimde şimdiki durumuna geldiğini veya onun birdenbire bugünkü gibi bilinçli ve düşünen bir varlık olduğunu zannetmemeliyiz. Onun, bu noktaya erişebilmeden önce uzun ve zahmetli bir yolu aşmış olması gerekiyordu. Zira bahsettiğimiz zamanlarda organları henüz tamamen başlangıç durumunda bulunan organlardı ve ifade aracı olarak kullanılabilecek bir beyin yoktu. Bu yüzden bilinç tahmin edilemeyecek kadar zayıftı. Kısaca o günün insanı, günümüzdeki hayvanların olduğu kadar zeki olmaktan bile çok uzaktı. İlerleme yönündeki ilk adım, Fizik Âlemde zihnin enstrümanı olarak kullanmak üzere bir beyin inşa etmekti. Bu, insanlığın erkek ve kadın cinsiyetlerine ayrılmasıyla sağlandı. 
+
+#### <h4 id="separation-of-the-sexes">Cinsiyetlerin Ayrılması</h4> 
+
+Genel olarak kabul edilen fikrin aksine Ego, çift cinsiyetlidir. Ego, cinsiyetsiz olsaydı beden de cinsiyetsiz olurdu. Zira beden, içte oturan ruhun dış sembolüdür. 
+
+Ego’nun cinsiyeti kendisini iç âlemlerde bu şekilde ifade etmez. O kendisini iki ayrı özellikle tezahür ettirir: İrade ve Hayal gücü (imagination). İrade eril güçtür ve Güneş güçleri ile çalışır. Hayal gücü ise dişil bir güçtür ve daima Ay güçleri ile bağlantılıdır. Bu, kadının hayal gücüne eğişimini ve Ay’ın dişil organizma üzerinde gösterdiği özel gücü açıklar. 
+
+Dünya’yı ve daha sonra Ay’ı oluşturacak olan madde, henüz Güneşin bir parçası iken oluşan insanın bedeni esnekti. Sonradan Güneş’i oluşturmuş olan güçlerle şimdi Ay oluşturan güçler, gönüllü olarak tüm bedenlerde çalıştılar. Böylece Uzak-kuzey çağı insanı, erselik (hermafrodit, çift cinsiyetli) oldu ve bu sayede de kendisinden, tek başına başka bir varlık doğurabilme yeteneğine kavuştu. 
+
+Dünya Güneş’den ayrıldığında ve bundan kısa bir süre sonra Ay dışarı fırlatıldığında bu iki gök cisminin güçleri tüm insanlarda önceki gibi aynı ifadeyi gösteremediler. Bazı bedenler Güneş’in etkilerine duyarlı olurken, diğer kısım da Ay’ın etkilerine duyarlı hale geldi. 
+
+#### <h4 id="influence-of-mars">Mars’ın Etkisi</h4>
+
+Cinsiyetlerin ayrılmasından önceki Yer Evresi kısmında Mars, şimdikinden farklı bir yörüngede dönüyordu. Mars’ın ayrılması ile Lemurya Çağı’nın başlangıcı arasındaki süre, üç buçuk Devirdir. Mars’ın, içinde ince araçlarının yoğun gezegenin ötesine uzandığı aurası, merkez gezegenin yoğun bedenini kapsıyordu ve onun içindeki demiri kutuplaştırıyordu (polarize). 
+
+Demir, kırmızı ve sıcak kanın üretilmesi için kesinlikle gerekli olduğu için demirsiz tüm varlıklar soğukkanlıydı, yani beden sıvılarının sıcaklığı, onu çevreleyen ortamın sıcaklığından daha fazla değildi. 
+
+Dünya, Merkez Güneş’ten serbest kaldığında bu olay, gezegenlerin yörüngelerini değiştirdi ve böylece Mars’ın, Dünya’daki demir üzerindeki etkisi en aza indirgendi. En sonunda da Mars’ın Gezegen Ruhu, bu etkinin kalanını da geri çekti ve Dünya ile Mars’ın arzu bedenleri hâlâ birbirinin içine geçmiş olsa da Mars’ın, bir Mars metali olan demirin dinamik (hareket ettirici) gücü kesildi. Böylece demir, gezegenemizdeki kullanım için serbest kaldı. 
+
+Demir aslında ayrı ve tek başına varoluşun temelidir. Sıcaklık veren kırmızı kan, demirsiz olamazdı ve onsuz Ego, vücudu zaptedemezdi. Lemurya Çağı’nın sonraki kısmında kırmızı kan geliştiğinde beden, dikey bir hale geldi ve Ego, onun içinde oturmaya ve onu kontrol etmeye başladı. 
+
+Fakat Ego’nun bu bedende oturması, evrimin sonu ve amacı değildir. Yoğun beden, onun aracılığıyla Ego’nun kendisini Fizik Âlemde daha iyi tezahür ettirmesi için sadece bir alet, bir enstrümandır. Bu amaç için daha duyu organları, gırtlak ve her şeyden önce bir beyin yapılmalı ve mükemmel hale getirilmeliydi. 
+
+Uzak-kuzey Çağı’nın ilk kısımlarında, Dünya hâlâ Güneş’le birleşik iken güneş güçleri insana, ihtiyaç duyduğu bütün besinleri sağladı ve bilinçsiz insan, kalan kısmın üreme amaçlı olarak kendisinden ışımasını sağladı. 
+
+Ego, kendi araçlarının sahibi olduğunda bu gücün bir kısmının beynin ve gırtlağın yapımında kullanılması gerekti. Gırtlak başlangıçta yaratıcı organın bir parçasıydı. Henüz yoğun beden, tıpkı hâlâ insan embriyosu gibi daha önce betimlediğimiz balona benzer biçimde kıvrılmış vaziyette iken gırtlak yapıldı. Yoğun beden düzleştiğinde ve dikey hale geldiğinde yaratıcı organın bir kısmı, yoğun bedenin üst tarafında kaldı ve bu kısım, gırtlak halini aldı. 
+
+Böylece şimdiye dek başka bir varlık yaratmak için sadece tek tönde çalışan ikiz yaratıcı güç bölündü. Bir parça, Ego’ya düşünmek ve düşüncelerini başkalarına bildirmek için beyin ve gırtlak yapmak üzere yukarıya yönlendirildi. 
+
+Bu değişimin sonucu olarak bireyde, başka bir varlığın yaratılmasında iki parçadan sadece biri bulunmaya başladı. Bu andan itibaren (yeni varlığın yaratılmasında) her insan için, bu yaratıcı gücün kendisinde eksik olan parçasına sahip bir hemcinsinin işbirliğini aramak zorunlu oldu. 
+
+Böylece gelişen varlık, yaratıcı gücünün yarısı karşılığında dış dünyanın beyin bilincini elde etti. Bundan önce o, başka bir varlık yaratmak için bu gücün kendi içindeki iki kısmını da kullanıyordu. Bu değişikliğin sonucu olarak yaratıcı düşünce üretme ve ifade etme gücü gelişti. Bu zamandan önce o, sadece Fizik Âlemde bir yaratıcıydı. Ancak bahsettiğimiz olaydan sonra üç âlemde de yaratabilme olanağına sahip oldu. 
+
+#### <h4 id="the-races-and-their-leaders">Irklar ve Liderleri</h4>
+
+Lemuryalıların evrimini ayrıntılı olarak açıklamadan önce ırklara ve liderlerine genel bir gözatmak yararlı olacaktır. 
+
+Tüm insanlara doğu bilgeliğinin öğretilerini getiren Okültizm hakkındaki bazı çok değerli eserler, yine de bu öğretileri alan şanslı kişilerin yanlış anlamalarından kaynaklanan belli hatalar içerdiler. Doğrudan Büyük Biraderler tarafından yazılmayan tüm kitapların böyle hatalar yapmış olma ihtimali vardır. Bu konuların olağanüstü karışıklığı ve karmaşık olması gözönünde bulundurulduğunda insan, hataların meydana gelmesine değil de hataların bu kadar az olmasına hayret etmektedir. Bu yüzden yazar, onları eleştirmeye kalkışmayacaktır, zira belki bu eserin de, öğretileri kendi yanlış anlamasından doğabilecek çok sayıda ciddi hataları vardır. Takip eden birkaç sayfada farklı (ve görünüşte de zıt) öğretilere sahip iki çok değerli eserin, H.P. Blavatsky’nin “Gizli Öğreti”si ile A.P. Sinnet’in “Ezoterik Budizm”inin nasıl bağdaştırılabildiğini göstermek için bu kitabın yazarı ne aldığını gösterecektir. 
+
+İnsan evriminin, şu anda Dünya’mızdaki yaşam dalgası ile tamamlanacak olan kısmı, yedi büyük basamağa veya çağa ayrılır. Ancak bu ayrımlar ırk olarak adlandırılamazlar. Bu ismin doğru olarak kullanılabileceği hiçbir şey, Lemurya Çağı’nın sonundan önce ortaya çıkmamıştır. Ancak Lemurya Çağı’ndan itibaren farklı ırklar Atlantis ve Âri Çağları boyunca birbiri ardına meydana gelmişlerdir ve altıncı büyük Çağa kadar önemlerini yitirmiş olsalar da devam edeceklerdir. 
+
+Bizim evrim planımızın içerisinde bulunan geçmiş, şimdi ve gelecekteki ırkların toplam sayısı 
+
+16’dır. Bunlardan biri Lemurya Çağı’nın sonuna, yedisi Atlantis Çağı’na, yedisi şimdiki Âri Çağımıza ve biri de Altıncı Çağın başlangıcına aittir. Altıncı Çağın başlangıcından sonra artık ırk olarak adlandırılabilecek bir şey varolmayacaktır. 
+
+Yer Evresi’nden önceki evrelerde ırklar yoktu. Bundan sonraki evrelerde de ırk olmayacaktır. Sadece burada, maddesel varoluşun en alt noktasında insanla insan arasındaki fark, ırklara ayrımı gerektirecek kadar büyüktür. 
+
+İnsana, involüsyon onu gerekli araçlarla donattıktan sonra evrimdeki ilk titrek adımlarını atmada yardım etmiş olan insanlığın (yaratıcı Hiyerarşiler dışındaki) doğrudan Liderleri, evrim yolunu takip eden insandan çok daha ileri Varlıklardı. Onlar, bu sevgi hizmeti için Dünya ve Güneş arasında bulunan iki gezegenden, Venüs ve Merkür’den gönderildiler. 
+
+Venüs ve Merkür’de oturan varlıklar, şimdiki evrim alanları Güneş olanlar kadar ileri değillerdi, ancak bizim insanlığımızdan çok daha fazla gelişmişlerdi. Bu yüzden onlar, Dünya sâkinlerine göre merkezi kitleyle biraz daha fazla birlikte kaldılar. Fakat belli bir noktada evrimleri, ayrı alanlar gerektirdi. Böylece bu iki gezegen, önce Venüs, sonra da Merkür dışarı atıldı. İkisine de merkezi kitleden, kendilerine evrimleri için gerekli titreşim sayısını sağlayan yakınlık verildi. Merkür’ün sakinleri en gelişmiş olanlardı, bu yüzden de Güneş’e en yakın olarak kaldılar. 
+
+Her iki gezegende oturanlardan bazıları, yeni oluşan insanlığa yardım etmek üzere Dünya’ya yollandılar. Bunlar, Okült bilginler tarafından “Venüs’ün Efendileri” ve “Merkür’ün Efendileri” olarak bilinirler. 
+
+Venüs’ün Efendileri, halk kitlelerimizin liderleriydiler. Onlar, Venüs evrimindeki ikinci dereceden varlıklardı. İnsanlar arasında göründüler ve “Tanrı’ların elçileri” olarak biliniyorlardı. İnsanlığımızın iyiliği için adım adım yol gösterdiler ve kılavuzluk ettiler. Onların otoritesine karşı bir isyan yoktu, çünkü insan henüz özgür bir iradeye sahip değildi. Onların insanları, kendi irade ve yargılarını ortaya koyabilecekleri aşamaya çıkarmaları gerekiyordu. Ve insanlar kendi kendilerine rehberlik edebilene dek onlara rehberlik ettiler. 
+
+Bu elçilerin Tanrılarla (Ç.N.‘Hakerenler’) iletişimde oldukları da bilinmektedir. Onlara karşı derin bir saygı duyuldu ve emirlerine tartışmasız itaat edildi. 
+
+Bu varlıkların eğitimi sayesinde insanlık belli bir gelişim seviyesine eriştiğinde en gelişmiş insanlar, “Merkür’ün Efendileri”nin rehberliği altına girdiler. “Merkür’ün Efendileri”, halkların liderleri yapmak için onları daha yüksek gerçeklere inisiye ettiler. Bu inisiyeler bundan sonra “hükümdarlık” makamına yükseltildiler ve gerçekte “Tanrı’nın rahmetiyle” kral olmuş olan tanrısal hükümdar hanedanlarının kurucusu oldular. Yani onlar, çocuk insanlığa Tanrılar olarak görünmek zorunda olan Venüs ve Merkür Efendileri’nin rahmetiyle krallığa eriştiler. Venüs ve Merkür Efendileri kralları, kendilerini yüceltmeleri için veya hakları gaspetmeleri için değil, insanların iyiliği için eğittiler ve yönettiler. 
+
+O zamanlar hükümdarın, kendi halkını eğitmek, halkına yardım etmek, adaleti ve refahı desteklemek ve teşvik etmek gibi kutsal bir görevi vardı. Hükümdar Tanrı’nın, kendisine bilgelik veren ve kararlarına rehberlik eden ışığına sahipti. Bu yüzden bu kralların egemenliği altındaki tüm şeyler gelişti ve aslında bu, bir Altın Çağ’dı. Ancak insanın evrimini ayrıntılı bir şekilde takip edersek görürüz ki, şimdiki gelişim evresi veya aşaması, sadece maddesel anlamda bir Altın Çağ olarak adlandırılabilir. Ancak yine de içinde bulunduğumuz çağ, insanın kendisine hükmedebileceği noktaya erişmesi için zorunludur. Kendisine hakim olma, tüm hükümdarlıkların amacı ve hedefidir. Kendisine hükmetmeyi öğrenmemiş hiç kimse, tehlikesiz ve kontrolsuz bir şekilde kalamaz. Gelişimin bu aşamasında bu, onun kendisine verilebilecek en zor görevidir. Başkalarına emir vermek kolaydır, kendi kendini itaate zorlamak ise zordur. 
+
+#### <h4 id="influence-of-mercury">Merkür’ün Etkisi</h4>
+
+O zamanlar Merkür’ün Efendileri, o zamandan beri Gizemlerin rahipleri ve günümüzün tüm okült okulları bir amaç güdüyorlardı ve gütmekteler: Kendi kendine hükmetme sanatını öğretmek. Bir insan, ancak kendisine hükmettiği ölçüde başkalarına hükmedebilir. Eğer kitlelerin şimdiki hükümdarları kendilerini yönetebilselerdi bizler, Milenyum veya Altın Çağı yaşıyor olurduk. 
+
+Venüs’ün Efendileri’nin çok eski bir zamanda kitleler üzerinde çalıştıkları gibi şimdi de Merkür’ün Efendileri aynı şekilde birey üzerinde çalışmaktalar. Onlar bireyleri, kendi kendisinin efendisi olma ve (ilk plânda değil, belli koşullar altında) diğerlerinin efendisi olmak için yetiştirmektedirler. Bu çalışma, Dünya Evresinin kalan üç buçuk devri boyunca Merkür’ün artan etkisiyle hep daha da yoğun olarak ortaya konacak şeyin sadece başlangıcıdır. 
+
+İlk üç buçuk devir boyunca hükümdarlık Mars’ta idi. O, demiri kutupladı, kırmızı kanın oluşumunu önledi ve Ego’yu, gerekli gelişim aşamasına erişmeden önce bedende hapsolmaktan korudu. 
+
+Önümüzdeki üç buçuk devir boyunca Merkür, inisiyasyon yoluyla Ego’yu, sahip olduğu en yoğun araçtan kurtarmaya çalışacaktır. 
+
+Bu arada, Mars’ın demiri kutupladığı gibi Merkür’ün de kendi adını taşıyan civayı (ingilizce’de mercury) kutuplayacağı not edilmelidir. Bu metalin etkisi, ruhu yoğun bedenden kurtarma çabasını çok iyi gösterir. 
+
+Korkulan frengi hastalığı Ego’nun bedende, neredeyse kramp gibi zincirlenmiş ve hapsolmuş haline bir örnektir. Bedene yeterli derecede civa verilmesi bu durumu yatıştırır. Zira civa, bedenin Ego üzerindeki gücünü azaltır ve Ego’ya, beden içinde nispi bir özgürlük sağlar. Ancak civanın aşırı alınması, yoğun bedeni uygun olmayan bir şekilde Ego’dan uzaklaştırarak felce yolaçar. 
+
+Merkür’ün Efendileri insana, yoğun bedeninden bağımsız olarak yüksek araçlarında iş görebilmesi için yoğun bedenine dilediği gibi girip çıkmasını öğrettiler. Böylece yoğun beden insan için, sıkıca kapatılmış bir hapishane yerine rahat bir yuva ve ona engel olan bir pranga yerine yararlı bir enstrüman oldu. 
+
+Bu yüzden okült ilim, Dünya Evresi’nden bir Mars-Merkür Evresi olarak bahseder. Ve iddia edilebilir ki, az önce andığımız okült eserlerden birinde öğretildiği gibi bir zamanlar Mars’taydık ve Merkür’e gidiyoruz. Ancak yukarıda anılmış olan diğer eserde de ilk eserin yanlışını düzeltmek için belirtildiği gibi bizim hiç bir zaman Mars’ta oturmadığımız ve Mars’ta oturmak için Dünya’yı da gelecekte terk etmeyeceğimiz de aynı şekilde bir gerçektir. 
+
+Şimdi kararmakta olan Merkür, üzerimizde çok küçük bir etkiye sahiptir, fakat gezegensel bir dinlenme döneminden çıkmaktadır ve zamanla etkisi, evrimimizde bir faktör olarak hep daha belirgin olacaktır. Gelen ırklar Merkürlülerden çok yardım göreceklerdir ve daha sonraki Çağların ve Devirlerin insanları, onlardan daha da fazla yardım alacaklardır. 
+
+#### <h4 id="the-lemurian-race">Lemurya Irkı</h4>
+
+Artık, Lemurya Çağının geç kısmında yaşamış olan insanlar hakkında aşağıdaki öğretileri anlayabilecek konumdayız. Bu insanları Lemurya ırkı olarak adlandıracağız. 
+
+Lemuria’nın atmosferi henüz çok yoğundu. Bu yoğunluk, Ay Evresi’nin alev-sisi kadar ve hatta ondan daha fazlaydı. Yerkabuğu hemen bazı yerlerde sertleşmeye ve katılaşmaya başlamıştı. Diğer noktalarda ise halen ateşliydi. Yerkabuğunun adaları arasında da kaynar sudan oluşmuş okyanuslar bulunuyordu. İçteki ateşin, kendisini kuşatan duvarın oluşumuna karşı verdiği sert mücadelenin meydana geldiği zamana volkanik patlamalar ve seller damgasını vurdu. 
+
+Daha katı ve göreli olarak daha soğuk olan ve dev eğreltiotu ormanları ve muazzam büyüklükteki hayvanlarla çevrili yerlerde insan yaşamaktaydı. İnsanların ve hayvanların bedenleri daha tamamen yumuşaktı. İskelet iyi biçimlenmişti ve insan, kendi bedeninin etini ve hayvanların etini, onun etrafında biçimlendirmede büyük güce sahipti. 
+
+Doğumundan itibaren duyabiliyor ve hissedebiliyordu, ancak ışığı algılaması daha sonra meydana geliyordu. Benzer duruma yavruları, görme duyusunu doğumdan ancak belli bir süre sonra kazanan kedi ve köpek gibi hayvanlarda da rastlarız. Lemuryalıların gözleri yoktu. Onlar, eski Lemuria’nın alevli atmosferinde zayıf görünen güneş ışığına duyarlı iki beneğe sahiptiler. Ancak insan, Atlantis Çağı’nın sonuna doğru, şimdi sahip olduğumuz görme duyusunu kazandı. Belirttiğimiz zamana kadar sürekli gözün yapımı üzerinde çalışıldı. Güneşi içte algıladığı sürece ve Dünya, ışık veren Güneşin bir parçası iken insan, dışarıdan bir aydınlatmaya ihtiyaç duymuyordu, o kendisi ışık saçıyordu. Fakat karanlık Dünya Güneş’ten ayırıldığında, ışığın algılanması gerekti. Bu yüzden insan, kendisine çarpan ışınları algıladı. Doğa, zaten varolan işlevin isteğine yanıt olarak, gözü bir ışık algılayıcı olarak yaptı. Profesör Huxley’in de ustalıkla gösterdiği gibi bu işlev, duruma göre değişmez. Amipin midesi yoktur, ancak sindirim yapar. O, tamamen midedir. Yiyeceğin sindirilme zorunluluğu, zaman içinde mideyi yapmıştır. Ancak sindirim, sindirim borusu oluşturulmadan önce meydana gelmeye başlamıştır. Benzer şekilde ışığın algılanması, gözü ortaya çıkarmıştır. Işığın kendisi gözü yapmıştır ve onun varlığını devam ettirmektedir. Işığın olmadığı yerde göz de varolamaz. Hayvanlar ortalıktan çekilip de mağaralarda yaşadıklarında ve ışıktan uzak olduklarında gözleri yozlaşır ve körelir, çünkü karanlıkta göz gerekli değildir. Lemuryalıların göze ihtiyacı doğdu, onlar bir ışık algılamasına sahip oldu. Böylece ışık, onun isteğine yanıt olarak gözü yapmaya başladı. 
+
+Onun dili, doğa seslerine benzer seslerden oluşuyordu. O aşırı tropik klimadaki büyük bollukta büyüyen uçsuz bucaksız ormanlardaki rüzgârın iç çekişi, ırmağın dalgalanması, şelalenin çağlaması, fırtınanın inlemesi (çünkü Lemurya, fırtınanın getirdiğiydi), volkanın kükremesi onun için, kendisini onların soyundan gelen olarak bildiği Tanrıların sesleriydi. 
+
+Bedeninin doğumuna ilişkin hiçbir şey bilmiyordu. Ne onu ve ne de başka bir şeyi görebiliyordu. Ancak kendisi gibi olan varlıkları algılayabiliyordu. Fakat bu, tıpkı bizim rüyalarımızda kişileri ve şeyleri algıladığımız gibi içsel bir algılamaydı. Ancak onun algılamasında önemli bir fark vardı, onun rüya-algılaması açık ve mantıklıydı. 
+
+Böylece o, bedeniyle ilgili hiçbir şey bilmiyordu. Aslında o, bizim, sağlıklı olduğu sürece bir midemiz olduğunun bilincinde olmamamız gibi, bir bedeninin olduğunun farkında bile değildi. Biz midemizin varlığını yalnızca, onu ihmal ettiğimizde bize acı vermesiyle hatırlarız. Günlük yaşamda onun yaptığı işlerin hiçbir şekilde farkında olmayız. Aynı şekilde bedeni de Lemuryalı’ya, o onun varlığının bilincinde olmasa da mükemmel bir şekilde hizmet etti. Acı, onun kendi bedeninin ve dış dünyanın farkında olmasını sağlama yöntemiydi. 
+
+Irkın çoğalması ve doğumla ilgili olan her şey, Ay vekili Yehova’nın liderliği altındaki Meleklerin yönetimiyle gerçekleşti. Çoğalma faaliyeti, gezegenden gezegene giden güç çizgilerinin uygun açılarda olduğu yılın belli zamanlarında gerçekleştirildi. Böylece yaratıcı güç, hiçbir engelle karşılaşmadı ve doğum, acısızdı. İnsan doğumun farkında değildi, çünkü o zamanlarda o, tıpkı günümüzde uykudayken olduğu gibi fizik âlemin bilincinde değildi. Sadece cinsel ilişkinin yakın teması ruhun, etin bilincine varmasını sağladı ve adam, eşini “tanıdı”. Bu durum Kutsal Kitap’ta böyle belirtilmiştir: “Adem, Havva’yı tanıdı ve Havva Şit’i doğurdu”, “Elkana, Hanna’yı tanıdı ve Hanna Samuel’i doğurdu”. Meryem de şöyle sormuştu: “Hiçbir adamı bilmeden nasıl hamile kalırım?” Bu aynı zamanda “Bilgelik Ağacı”nın anlamının da anahtarıdır. O ağacın meyvesi Adem ve Havva’nın gözlerini açtı ve böylece onlar, iyi ve kötüyü bilmeye başladılar. Önceden sadece iyiyi biliyorlardı, ancak yaratıcı faaliyeti bağımsız olarak kullanmayı denemeye başladıklarında, kendilerinden gelen nesiller gibi onlar da yıldız etkilerini tanımadılar. Yehova’nın lânet olarak kabûl edilen ilenci, bir lânet değildi. Aksine o, sadece üreme güçleri kullanılır kullanılmaz, yıldız ışınlarının çocuk doğumundaki etkisini hesaba katmadan meydana gelmesi gereken sonucun basit bir tespitiydi. 
+
+Böylece, üreme gücünün bilmeden kullanımı, acı, hastalık ve derde sebep oldu. 
+
+Lemuryalı ölümü bilmiyordu. Uzun yılların geçmesiyle bedeni düştüğünde yeni bir bedenin içine girerdi. Ancak o, bu değişikliğin bilincinde olmazdı. Onun bilinci fizik âleme odaklanmamıştı. Bu yüzden bir bedenin bırakılıp yeni bir bedenin alınması onun için bir yaprağın veya bir dalın ağaçtan düşüp yerine yenisinin büyümesinden daha fazla bir şey ifade etmiyordu. 
+
+Lemuryalı için kendi dilleri kutsal bir şeydi. O dil, bizim şimdiki dilimiz gibi ölü değildi. Ve de sadece seslerin düzenli bir şekilde arka arkaya sıralanmasından ibaret değildi. Lemuryalı tarafından çıkarılan her ses, onun hemcinsi olan varlıklar üzerinde, hayvanlar üzerinde ve hatta etrafındaki doğa üzerinde bir güce sahipti. Bu yüzden Tanrı’nın habercileri, Yaratıcı Hiyerarşiler arasındaki arabulucular olan Venüs’ün Efendileri’nin idaresi altında konuşmanın gücü, büyük saygıyla ve en kutsal bir şey olarak kullanıldı. 
+
+Erkek çocuklarının eğitimi, kız çocuklarının eğitiminden oldukça farklıydı. Lemuryalıların eğitim yöntemleri, bizim nazik hassasiyetimiz için çok şaşırtıcı görünmektedir. Okuyucunun duygularını zedelememek için yalnızca daha az acımasız olanlara değinilecektir. Unutulmamalıdır ki, onların olağanüstü sıkı görünen eğitimlerinde Lemuryalıların bedeni, günümüzdeki insan bedenleri gibi sinirlerle donatılmış değildi. Ve de olağanüstü zayıf bilince, sadece en sert yöntemlerle erişilebiliniyordu. Zamanla bilinç, hep daha fazla uyanık- laştığında o zamanlar kullanılmış olan böyle katı yöntemler gereksiz hale geldiler ve kayboldular. Ancak kendi zamanlarında bu yöntemler, ruhun uykudaki güçlerini dış dünyanın bilincine eriştirmek için vazgeçilmezlerdi. 
+
+Erkek çocuklarının eğitimi özellikle İrade meziyetini geliştirmek üzere tasarlanmıştı. Onların birbirleriyle karşılıklı dövüşmeleri sağlandı ve bu dövüşler aşırı derecede acımasızdı. Onlar, kazıklara oturtuluyorlardı ve kendilerini kurtarabilecek tam güce sahip olmalarına karşın irade güçlerini uygulamak için acıya rağmen kazıklar üzerinde kalıyorlardı. Kaslarını germeyi ve iradeyi uygulayarak çok büyük yükleri taşımayı öğreniyorlardı. 
+
+Kızların eğitimi ile de onların hayalgücünün (imagination) geliştirilmesi amaçlanıyordu. Onlar aynı zamanda sıkı ve ağır bir muameleye tabi tutuluyorlardı. Kızlar, ağaç tepelerinde rüzgârın seslerinin etkilerini kendilerinde görebilmek ve selin ve fırtınanın öfkeli patlamalarını dinlemeleri için büyük ormanlara yollandılar. Böylelikle onlar, Doğa’nın bu öfke anlarında korkmamayı ve savaşan elementlerin yalnızca görkemli yüceliğini anlamayı kavradılar. Sık sık olan yanardağ püskürmeleri, yetiştirme aracı olarak çok değerli kabul ediliyordu, çünkü bu püskürmeler, hafıza yeteneğinin uyandırılmasında özellikle yardımcı oluyorlardı. 
+
+Bu eğitim metodları günümüzde sözkonusu bile olamaz. Fakat bu yöntemler Lemuryalıları korkutmadı, zira onların hafızaları yoktu. Katlanılan deneyim ne kadar acı verici ve korkunç olsa da geçmiş olunca her şey unutuluyordu. Yukarıda anılmış olan ağır deneyimler, hafızanın geliştirilmesi amacını taşıyorlardı. Çünkü geçmişin tecrübelerinin şimdiki eylemlere kılavuzluk edebilmesi için hafıza zorunludur. 
+
+Kızların eğitimi, tohumlanan ve parıldayan bir ilk hafızayı geliştirdi. İlk iyi ve kötü kavramı onlar tarafından geliştirildi, çünkü onların tecrübeleri en çok hayalgüçleri üzerinde etkindi. En büyük olasılıkla bir anı bırakacak olan tecrübeler “İyi” olarak görüldü. Bu çok arzu edilen sonuca yolaçmayan anılar da “Kötü” olarak değerlendirildi. 
+
+Böylece kadın, ilk defa iyi bir yaşam fikrini geliştirdiğinden kültürde öncü oldu. Sonuçta o, eski zamanlarda saygı duyulan taraf oldu ve bu açıdan bugüne dek öncülüğünü korudu. Elbette ki tüm Ego’lar sırasıyla erkek ve dişi olarak bedenlendiklerinden gerçekte bir üstünlük yoktur. Bu basitçe şu şekildedir: Şu anda dişi bir bedende yaşayanlar pozitif bir yaşam bedene sahiptirler ve ruhsal etkilere, negatif bir yaşam bedene sahip olan erkeklerden daha duyarlıdırlar. 
+
+Gördüğümüz gibi Lemuryalı doğuştan majisyendi. O, kendisini Tanrı’nın soyu olan ruhsal bir varlık olarak görüyordu; bu yüzden onun gelişim çizgisi ruhsal değil maddesel bilgi kazanmaktı. En ileri olanlar için olan İnisiyasyon tapınakları, insanda onun kendi yüksek kökenini açığa çıkarmak, maji ustalıkları için onu eğitmek, ona arzu âleminde ve daha yüksek âlemlerde nasıl çalışacağını öğretmek zorunda değillerdi. Bütün bunlara ancak günümüzde gereksinim duyulmaktadır, çünkü ortalama bir insan günümüzde ne ruhsal âlemin bilgisine sahiptir ve ne de metafizik âlemlerde nasıl çalışacağını bilmektedir. Fakat Lemuryalı, kendi yöntemiyle bu bilgiye sahipti ve bahsedilen yetileri kullanabiliyordu. Ancak diğer yandan da o, ne Kozmos’un Yasalarını ve ne de günümüzde bizim için sıradan olan fizik âlemin gerçeklerini bilebiliyordu. Bu yüzden ona İnisiyasyon okulunda doğa yasaları ve fizik âlemle ilgili olan gerçekler öğretildi. İradesi güçlendirildi, hayalgücü ve hafızası uyandırıldı. Böylece o, deneyimlerini ilişkilendirebildi ve geçmiş tecrübeleri ona bir yol göstermediğinde de çeşitli eylem yöntemleri geliştirebildi. Sonuç olarak Lemurya zamanındaki İnisiyasyon Tapınakları İrade-gücünün ve Hayalgücünün yetiştirildiği yüksek okullardı. Bu okullar, Sanat ve Bilimde “mezuniyet sonrası kurslar” da sunmaktaydı. 
+
+Doğuştan majisyen olmasına karşın Lemuryalı, güçlerini hiçbir zaman kötüye kullanmadı. Çünkü kendisini Tanrılarla bağlantılı hissediyordu. Tanrıların Elçilerinin -ki onlardan bahsetmiştik- idaresi altında onun güçleri hayvan ve bitki âleminde formlar oluşturmaya yönlendirilmişti. Maddeci kişi için, etrafını göremeden bu işi nasıl gerçekleştirdiğini anlamak zor olabilir. Lemuryalıların bizim anladığımız şekilde “göremedikleri”, yani fizik âlemdeki şeyleri gözleriyle fark edemedikleri doğrudur. Yine de günümüzde çocuklarımızdan en saf olanlarının hala, günahsız masum hallerinde kaldıkları sürece durugörür oldukları gibi, henüz temiz ve günahsız olan Lemuryalılar da bir içsel duyuya sahiptiler. Bu duyu onlara, herhangi bir nesnenin dış görünümünün sadece bulanık bir resmini veriyordu. Ancak bu duyu, masum saflıktan doğmuş olan ruhsal bir idrakla, belirtilen nesnenin iç doğasını, yani ruhsal özelliklerini çok daha fazla aydınlatıyordu. 
+
+Ancak Masumiyet, Erdem demek değildir. Masumiyet, cehaletin çocuğudur ve hedefi bilgelik kazanmak olan bir evrende kalamaz. Bu hedefe erişmek için iyinin ve kötünün, doğru ve yanlışın bilgisi de eylemin seçimi gibi esastır. 
+
+Eğer insan, tam bilgi ve seçme özgürlüğüne sahipken İyinin ve Doğrunun yanında yeralıyorsa Erdem ve Bilgeliği yetiştirmeye başlar. Eğer o, ayartılmaya yenik düşüyorsa ve bilerek yanlış yapıyorsa kötülüğü besler. 
+
+Tanrı’nın planları yokedilemez. Her eylem, Sebep ve Sonuç Yasası için bir tohum toprağıdır. Ektiğimizi biçeriz. Yanlış eylemlerin yabani otları, keder ve acı çiçekleri taşırlar; ve tohum, arındırıcı kalbe düşerse ve pişmanlık gözyaşlarıyla sulanırsa ondan Erdem çiçek açacaktır. İşlediğimiz her kötülüğü İyiye çevirebilecek olan çok kutsal bir güvencedir. Babamızın Krallığında sadece İyi varolmaya devam eder. 
+
+Bu yüzden “düşüş”, onu takip eden acılar ve kederlerle birlikte sadece, bir cam aracılığıyla karanlık gördüğümüz geçici bir durumdur. Fakat yakın bir zamanda kalbi sâf olanlar tarafından daima hissedilen Tanrı’yı içte ve dışta yüz yüze göreceğiz. 
+
+#### <h4 id="the-fall-of-man-1">İnsanın Düşüşü</h4>
+
+Bu “düşüş” kabalistik olarak bir çiftin deneyimi olarak betimlenmiştir. Bu çift, elbette ki insanlığı temsil etmektedir. Anahtar, Tanrı’nın elçisinin kadına seslendiği şu âyettedir: “Acı içinde çocuk doğuracaksın!” Anahtarı yine aynı zamanda verilen ölüm cümlesinde de buluruz. 
+
+Düşüşten önce bilincin odağının fizik âlemde olmadığını söyleyebiliriz. İnsan, üreme, doğum ve ölümün bilincinde değildi. Yaşam bedene bakan ve onda çalışmış olan melekler ( çünkü yaşam beden üreme ortamıdır) üreme faaliyetini yönetiyorlardı ve farklı cinsiyetleri Güneş ve Ay güçlerini kullanarak döllenme için en uygun zamanlar olan yılın belli mevsimlerinde biraraya getiriyorlardı. Başlangıçta birleşme faaliyeti, onu gerçekleştirenlerin bilincinde olmadıkları bir faaliyetti. Fakat daha sonra bu faaliyet, anlık bir fiziksel fark ediş üretti. Hamilelik dönemi hiçbir rahatsızlığa yol açmıyordu ve doğum, doğuranın derin bir uykusu esnasında acısız bir şekilde meydana geliyordu. Doğum ve Ölüm, bilinçteki kırılmayla bağlantılı değildi ve bu yüzden Lemuryalılar için yoktu. 
+
+Onların bilinçleri içe dönüktü. Ve de fiziksel şeyleri, tıpkı bizim nesneleri rüyamızda iken gördüğümüz her şeyi kendi içimizde algılamamız gibi ruhsal bir şekilde algılıyorlardı. 
+
+“Onların gözleri açıldığında” ve bilinçleri Fizik Âlemin gerçeklerine, yani dışarıya yönlendiğinde durum değişti. Üreme artık melekler aracılığıyla değil, Güneş ve Ay güçlerinin çalışmasından habersiz olan insanın kendisi tarafından yönlendirilmeye başladı. O aynı zamanda cinsel fonksiyonları duyuların tatmini için kötüye kullandı. Bunun sonucunda da çocuk doğurma işlemine acı eklendi. Bu andan itibaren, Atlantis Çağı’nın sonlarına kadar nesneleri belirgin anahatlarıyla görememesine rağmen insan bilincinin odağı fizik âlem oldu. Yine de, bilincinin ölüm sonrasında yüksek âlemlere taşınıp yeniden doğuşta fizik âleme geri dönmesinin bilincinde meydana getirdiği kırılma sebebiyle yavaş yavaş ölümün farkına varmaya başladı. 
+
+“Gözlerin açılması” ise şu şekilde meydana geldi: Cinsiyetlerin ayrılmasında erkeğin, ikiz ruh gücünün İrade’nin ifadesi olan kısmı, dişinin ise Hayalgücü’nün (imagination) ifadesi olan kısmı olduğunu hatırlayalım. Eğer kadınlar hayalgücüne sahip olmasalardı rahimde yeni bir beden inşa edemezlerdi ve erkeğin sperm hücresi, yoğunlaşmış insan iradesinin somut hali olamazdı. Sonuçta sperm hücresi, döllenmeyi gerçekleştiremez ve rahimde sürekli bir hücre bölünmesine yolaçan filizlenmeyi başlatamazdı. 
+
+Bu ikiz güçlerin, yani İrade ve Hayalgücü’nün ikisi de bedenlerin çoğalması için gereklidir. Ancak cinsiyetlerin ayrılmasından beri bu iki güçten herbiri bir cinsiyetin içinde kalmıştır ve dışarı aktarılabilen bu kısımlar ancak üreme için kullanılabilirler. Bu yüzden, ruh gücünün sadece bir yarısını ifade edebilen tek cinsiyetli bir varlık için, içinde ruh gücünün diğer yarısı olan bedenle birleşme zorunluluğu vardır. Ruh gücünün üreme için kullanılmayan kısmının içsel büyüme için kullanılabileceğini daha önce söylemiştik. İnsan, bu ikili cinsel gücü üreme için harcadığı sürece kendi ruhsal büyümesi için hiçbir şey yapamadı. Ancak ne zaman ruhun herbir cinsiyette kalan kısmı, cinsel organlar tarafından kullanılmamaya başladı ve Ruh tarafından değerlendirildi, ancak o zaman o, ruhun kendini ifade etmesi için beyin ve gırtlak yapımında kullanıldı. 
+
+Böylece insan, Lemurya Çağı’nın ikinci yarısının tamamı ve Atlantis Çağı’nın ilk üçte ikilik kısmı boyunca kendisini inşa etmeyi sürdürdü. Bu inşa, yarı cinsel gücünün yukarıda belirttiğimiz şekilde kullanımıyla insanın, tam bilinçli, düşünen ve akıl yürüten bir varlık olmasına dek devam etti. 
+
+Beyin, insanda ruh ile dış dünya arasındaki bağlantıdır. İnsan, ancak beyin aracılığıyla dış dünya hakkında bilgi sahibi olabilir. Duyu organları yalnızca dışarıdan gelen etkileri beyine taşıyıcı görev görürler. Bu etkileri değerlendiren ve düzenleyen araç, beyindir. Melekler farklı bir evrime aittiler ve onlar hiçbir zaman bizim fizik bedenimiz gibi yoğun ve hantal bir beden içine hapsolmadılar. Onlar, bir fizik beyne sahip olmadan Bilgi edinmeyi öğrenmişlerdi. En düşük araçları da yaşam bedendir. Onlar bilgeliğe, onun için bir fizik beyin aracılığıyla emek vererek düşünme zorunluluğu olmaksızın bir yetenek gibi sahip olmuşlardır. 
+
+Ancak insan, “çoğalmaya düşmeli” ve bilgisini edinmek için çalışmalıydı. Ruh, cinsel gücün yarı kısmının içe yönelmesiyle beyni yaptı. Aynı güç bugün de beyni beslemekte ve onu inşa etmeye devam etmektedir. Bu güç, üreme için dışarıya yönlendirilmesi gerekirken insanın onu bencil amaçlarla kendisinde tutmasıyla doğru yolundan saptırılmıştır. Ancak Melekler böyle davranmaz. Onlar ruh güçlerinin bölünmesini deneyimlememişlerdir, bu yüzden herhangi bir bencilce amaç gütmeden ikiz ruh güçlerini dışarıya yönlendirebildiler. 
+
+Başka bir varlık yaratmak için dışarıya giden güç, Sevgidir. Melekler, bencillik veya arzu olmaksızın tüm sevgilerini dışarıya yollamışlardır ve sonuçta Kozmik Bilgelik onlara akmıştır. 
+
+İnsan, sevgisinin yalnızca bir parçasını dışarıya yollamış, kalanını da bencilce kendi iç ifade organlarını yapmak ve kendini daha iyi bir hale getirmek için kullanmıştır. Böylece onun sevgisi bencil ve duyusal olmuştur. O, sahip olduğu yaratıcı ruh-gücünün bir parçasıyla bencilce başka bir varlığı sever, çünkü üremek için işbirliğini arzu eder. Yaratıcı ruh-gücünün diğer parçasıyla da ( aynı şekilde bencilce amaçlar için) düşünür, çünkü bilgiyi arzulamaktadır. 
+
+Melekler arzusuz severler, fakat insan bencillik aracılığıyla bunu yapmak zorundadır. Daha yüksek bir aşamadaki kendini düşünmeme haline erişebilmek için o, arzu etmek ve bilgi için bencilce çalışmak mecburiyetindedir. 
+
+Melekler ona, ruh gücünün bir parçasını kötüye kullandıktan sonra bile üremede yardım etmişlerdi. Onlar, fizik beyin inşa etmesinde insana yardım etmişlerdi, ancak beyin yoluyla bilginin gönderilebileceğini bilmiyorlardı. Çünkü böyle bir enstrümanı, yani beyni kullanmasını bilmiyorlardı. Ve de bir beyin varlığına doğrudan konuşamadılar. Onların tüm yaptıkları, insan sevgisinin fiziksel ifadesini kontrol etmek ve onu, sevgi dolu ve masum bir tarzdaki duygular aracılığıyla yönlendirmek, böylelikle de cahilce cinsel fonksiyonların kullanılmasına bağlı olarak meydana gelebilecek acı ve rahatsızlıklardan korumaktı. 
+
+Bu şekildeki yönetim sistemi devam etseydi insan, sadece Tanrı tarafından yönlendirilen bir otomat[43] olarak kalacak ve hiçbir zaman bir şahsiyet, bir kişilik olamayacaktı. Bir şahsiyet ve bir kişilik olmasını o, çok iftiraya uğrayan bir varlık grubuna, Lüsifer ruhlarına borçludur. 
+
+#### <h4 id="the-lucifer-spirits">Lüsifer Ruhları</h4>
+
+Bu ruhlar, Meleklerin yaşam dalgasında geri kalmış olanlardı. Bunlar Ay Evresi’nde, şu anda insanlığımızın öncüleri olanlardan çok daha ileri bir aşamaya ulaştılar. Ancak onlar, Ay Evresi’nin öncü insanlığı olan Melekler kadar gelişmiş değillerdir. Fakat bizim insanlığımızdan da çok ilerideydiler. Öyle ki bizim yaptığımız gibi yoğun bir beden almak onlar için imkânsızdı. Fakat bir iç organı, yani bir fizik beyni kullanmadan da bilgi kazanamadılar. Onlar, bir beyni olan insanlarla beyne gereksinimi olmayan Melekler arasındaydılar. Kısacası onlar, yarı-Tanrı idiler. 
+
+Böylece bu varlıklar, ciddi bir durumla karşı karşıyaydılar. Kendini ifade etmenin bir yolunu bulmanın ve bilgi kazanmanın tek yolu, insanın fizik beynini kullanmaktı. Böylece meleklerin yapamadığı şekilde beyinle donanmış fiziksel insan varlığına kendilerini ifade edebildiler. 
+
+Lemurya Çağının son zamanlarında insan fizik Dünya’yı, şimdi bizim görmekte olduğumuz gibi görmüyordu. İnsan için Arzu âlemi çok daha gerçekti. O, Ay Evresi’nin rüya-bilincine, yani bir içsel resim bilincine sahipti ve kendisi dışındaki dünyanın bilincinde değildi. Onun iç bilincine görünmek ve onun dikkatini, şimdiye kadar algılamadığı kendi dış formuna çekmek Lüsiferler için hiç de zor değildi. Lüsiferler insana, “iyi ve kötünün bilgisiyle” nasıl dış güçlerin kölesi olmaktan kurtulacağını ve kendisinin efendisi olarak nasıl Tanrılara benzeyebileceğini açıkladılar. Ve de ona, bedeni ölürse korkmasına gerek olmadığını, çünkü meleklerin yardımı olmaksızın yeni bir beden yapma yeteneğinin kendi içinde bulunduğunu söylediler. Tüm bu bildirimlerin bir tek amacı vardı: Onun bilincini bilgi edinmek için dışarıya döndürmekti. 
+
+Lüsiferler bunu, insanın edindiği bilgiyi kazanarak kendileri için yarar sağlama amacıyla yaptılar. Onlar insana, önceden olmayan acı ve kederi getirdiler. Ama aynı zamanda da dış etkiler ve kontrollerden kurtuluşun paha biçilmez nimetini sağladılar. Böylelikle onlar, insanın kendi ruhsal güçlerinin ortaya çıkmasını sağladılar. Bu, kendi iradesini kullanmadan önce ona kılavuzluk eden Melekler ve diğer Varlıklar gibi bilgelikle onun da er ya da geç kendisini inşa edebilmesini sağlayan gelişim yoludur. 
+
+Lüsifer Ruhları tarafından aydınlatılmadan önce insan, hastalık, acı ve ölüm nedir bilmiyordu. Bütün bunlar, üreme yetisinin akılsızca kullanımı ve onun, duyuların tatmin edilmesi için kötüye kullanılması nedeniyle meydana geldi. Hayvanlar, yabani konumlarında hastalık ve acıdan özgürdürler, çünkü onların üremesi, bilge grup ruhunun gözetimi ve idaresi altında yılın sadece bu iş için en uygun zamanlarında gerçekleşir. Cinsellik işlevi yalnızca türün devamı için tasarlanmıştır ve kesinlikle cinsel arzuların tatmini için değildir. 
+
+Tanrı tarafından yönlendirilen bir otomat (robot) olarak kalsaydı, insan günümüze kadar hastalık, acı ve ölüm nedir bilmeyecekti. Fakat aynı zamanda onda, “ışık veren” Lusifer ruhları tarafından verilmiş olan aydınlanmanın yolaçtığı beyin-bilinci ve bağımsızlık olmayacaktı. Lüsifer ruhları onun anlayış gözlerini açtılar ve ona, Fizik Âlem hakkında -ki onun ezelden, Fizik Âlemi fethetmesi amaçlanmıştı- bilgi kazanmak için o zamanki bulanık görme yetisini kullanmayı öğrettiler. 
+
+O zamandan itibaren insanda iki güç çalışmaya başladı. Bunlardan biri Melek güçleridir. Onlar sevgi aracılığıyla rahimde yeni varlıklar yaparlar ve bu gücü, üreme için aşağıya yönlendirirler. Bu yüzden onlar, ırkın devam ettiricisidirler. 
+
+Diğer güç ise Lüsifer Ruhlarıdır. Bunlar, cinsel gücün yukarı, beyindeki çalışmaya yönlenmiş diğer yarısı aracılığıyla tüm zihinsel faaliyetlerin teşvik edicisidirler. 
+
+Lüsifer Ruhları “yılanlar” olarak da adlandırılırlar ve farklı mitolojilerde farklı farklı ifade edilmişlerdir. Yaratımın çözümlemesine geldiğimizde onlardan daha fazla bahsedeceğiz. Şimdilik onlar hakkında, araştırmanın ana çizgisini ve bu çizgiyle birlikte insan evriminin Atlantis ve Âri Çağlarından günümüze dek gelişimini izlemek için söylediklerimiz yeterlidir. 
+
+Lemuryalıların aydınlanması üzerine söylenmiş olanlar sadece, bu çağın ikinci yarısında yaşamış ve Yedi Atlantis Irkının tohumu olmuş olan küçük bir azınlık için geçerlidir. Lemuryalıların büyük çoğunluğu hayvan benzeriydi ve onların yerleşmiş oldukları Formlar, günümüzün vahşi maymunlarına yozlaştılar. 
+
+Öğrenciden, sadece Formların yozlaştığını dikkatle not etmelerini rica ediyoruz. Bir ırkın bedenleri (veya formları) ile bu ırkın bedenlerinden doğmuş olan Ego’ları (veya yaşamları) arasında çok önemli bir fark olduğu akıldan çıkarılmamalıdır. 
+
+Bir ırk doğduğunda “Formlara” belli bir Ruh grubu yerleşir. Formlar doğuştan ancak belli bir mükemmellik seviyesine kadar erişme yeteneğine sahiptirler. Doğada hiçbir durma hali olamayacağından, mükemmellik seviyesine ulaşılır ulaşılmaz bu ırkın bedenleri ya da Formları, yozlaşmaya başlar ve de ırk ölene kadar hep daha aşağı düşer. 
+
+Bunun nedenini çok uzaklarda aramaya gerek yoktur. Yeni ırk bedenleri özellikle esnek ve kolay biçimlenebilir yapıdadır. Bu araçlar, içlerinde yeniden doğan Ego’lara kendilerini daha iyi hale getirmeleri için büyük hareket serbestliği sağlarlar. En gelişmiş Ego’lar bu bedenlerde doğarlar ve bedenleri ellerinden gelenin en iyisine dek iyileştirirler. Ancak bu Ego’lar acemidirler ve bedenlerin, bu özel beden türü için sınıra erişilinceye dek yavaş yavaş sertleşmesine ve kristalleşmesine yolaçarlar. Bundan sonra, gelişen Egoların daha da ileri deneyimler yaşaması ve daha da büyük gelişim göstermeleri amacıyla yeni ve başka bir ırk için Formlar yaratılır. Onlar eski ırk bedenlerini, yenileriyle değiştirmek için terk ederler. Terk edilmiş bedenlere, bu bedenleri ilerleme yolunda bir basamak olarak kullanacak olan daha az gelişmiş Ego’lar otururlar. Böylece eski ırkın bedenleri, hep daha az gelişmiş Egolar tarafından kullanılmış olur. Sonuçta bu bedenler gittikçe yozlaşırlar ve sonunda böyle bir bedende bir doğumdan yarar sağlayacak, yeterince düşük Ego bulamaz hale gelirler. Bundan sonra da dişiler kısır olurlar ve ırk formları ölürler. 
+
+Bu süreci farklı örnekler aracılığıyla kolaylıkla izleyebiliriz. Cermen-anglo-sakson ırkı, özellikle de onun Amerika kolu, daha yumuşak ve daha esnek bir bedene ve günümüzde yeryüzündeki diğer bütün ırklardan daha gergin bir sinir sistemine sahiptir. Kızılderililer ve Zencilerin bedenleri daha serttir ve daha yavaş tepki gösteren sinir sistemleri sebebiyle yaralanmalara karşı daha az duyarlıdırlar. Bir kızılderili, yaralanmış olsa da vuruşmaya devam edecektir. Beyaz derili bir insanı yere serebilecek veya öldürebilecek böyle bir yaradan kızılderili çabucak iyileşebilir. İngiliz hükümeti soylarının devamı için gerekli her şeyi yapmasına rağmen Avustralyalı Aborijiniler veya Bushmanlar, kısırlık sebebiyle ölen ırklar için bir örnektir. 
+
+Beyaz insanlar nerede görünürlerse diğer bütün ırkların tükenecekleri söylenir. Beyazlar, bu diğer ırklara karşı korkunç zulümler yaparak suçlu duruma düştüler. Onlar birçok olayda savunmasız ve masum yerli gruplarını katlettiler. Bunlardan sadece birini anmak gerekirse İspanyolların eski Perululara ve Meksikalılara karşı yaptıklarını söyleyebiliriz. Böyle bir güvene ihaneti ve üstün akıl ve güce sahip olmanın kötüye kullanımını, onu gerçekleştirenler en küçük zerresine kadar ödeyeceklerdir. Fakat şu da gerçektir ki, beyazlar bu eski ırkları katletmemiş, açlıktan öldürmemiş, köleleştirmemiş, sürgün etmemiş ve diğer başka şekillerde kötülük etmemiş olsaydı bile yine de bu ırkların soyu, yavaş da olsa tükenecekti. Çünkü bu Evrim Yasasıdır, Doğa’nın Düzenidir. Şimdi kızıl, siyah, sarı veya esmer deride bedenlenmiş olan Ego’lar, gelecek bir zamanda beyaz ırk bedenlerin içine yerleştiğinde bu bedenler de bir gün başka ve daha iyi araçlara yer açmak için kaybolacak derecede yozlaşmış olacaklardır. 
+
+Bilim yalnızca evrimden bahseder. O, yozlaşmanın, daha da iyi hale gelemeyecek derecede kristalize olmuş olan tüm bedenleri yavaş yavaş ancak kesin bir şekilde yokeden ana çizgilerini dikkate almaz. 
+
+#### <h4 id="the-atlantean-epoch">Atlantis Çağı</h4>
+
+Volkanik patlamalar Lemurya kıtasının büyük kısmını yoketti ve onun yerine, şu anda Atlas Okyanusunun bulunduğu yerde Atlantis kıtası yükseldi. 
+
+Materyalist bilimadamları Platon’un hikâyesinin etkisiyle Atlantis ile ilgili araştırmalara giriştiler ve böyle bir kıtanın bir zamanlar varolduğuna ilişkin anlatınların gerçek olduğuna dair yeterince nedenin mevcut olduğunu açıkladılar (1909). Okült bilginler bu kıtanın bir zamanlar varolduğunu ve oradaki koşulların, şimdi tarif edeceğimiz gibi olduğunu bilirler. 
+
+Antik Atlantis birçok yönden günümüz dünyasından farklıdır. Fakat en büyük fark, atmosferin bileşimi ve o çağdaki su idi. 
+
+Gezegenin güneyinden, halen oldukça aktif olan volkanların sıcak ve ateşli nefesi geliyordu. Kuzeyden ise Kutup bölgesinin dondurucu nefesi iniyordu. Atlantis kıtası bu iki akımın karşılaştığı yerdi ve bu yüzden atmosferi daima kalın ve karanlık bir sisle kaplıydı. Su, şimdi olduğu kadar yoğun değildi fakat büyük bir oranda hava içeriyordu. Çok miktarda su, aynı zamanda ağır ve sisli Atlantis atmosferinde asılı vaziyette tutuluyordu. 
+
+Bu atmosferin içinden güneş hiçbir zaman apaçık ışımazdı. Tıpkı yoğun sis içindeki sokak lambalarında olduğu gibi ışık sisiyle çevrilmiş gibi görünmekteydi. Bu yüzden herhangi bir yönde ancak birkaç ayak ilerisini görmek mümkündü ve oldukça yakın nesnelerin kaba hatları ancak bulanık, sisli ve belirsiz görülüyordu. İnsan, dışsal görümden çok içsel algıyla yönlendiriliyordu. 
+
+Sadece kıta değil, insan da şu anda yeryüzünde varolan insandan oldukça farklıydı. Onun bir kafası vardı, ancak neredeyse hiç alına sahip değildi. Beyni alın kısmında gelişim göstermemişti. Kafası, gözlerin hemen üzerinden birden geriye çökmüş gibiydi. Şimdiki insanlığımız ile karşılaştırıldığında o bir devdi, kolları ve bacakları bizim bedenimize oranla çok daha uzundu. Yürümek yerine kangurularınkine çok benzeyen bir dizi uçan sıçramalarla ilerliyordu. Küçük yanıp sönen gözlere ve yuvarlak bir kesime sahipti. Bu özellik, halen aramızda yaşayan Atlantis ırkından gelenleri, günümüze kadar gelmiş olan diğer ırklardan ayırır. Onların saçı düz, parlak, siyah ve kesimde yuvarlaktı. Âri ırkından olanların saçı, farklı renklerde olsa da kesimde daima ovaldi. Atlantislilerin kulakları Ârilerinkinden çok daha geride bulunuyordu. 
+
+İlk Atlantislilerin yüksek araçları, bizde olduğu gibi yoğun bedene odaklı değillerdi. Ruh, tamamen içte oturan bir ruh değildi ve kısmen araçların dışındaydı. Bu yüzden onların tamamen içlerine girmiş olsaydı, bu durumda araçları kontrol edebileceği kadar iyi bir şekilde ve kolaylıkla araçları kontrol edemiyordu. Yaşam bedenin kafası, fizik kafanın çok yukarısına dek uzanıyordu. Kaşlar arasında ve derinin yaklaşık 1 cm altında bir nokta bulunmaktaydı. Bu nokta, yaşam bedendeki bir noktaya karşılık geliyordu. “Burun kökü” olarak adlandırılabilecek bu nokta, yoğun bedenin kafasında çok daha derinlerde bulunan hipofiz değildi. Birisi yoğun bedende, diğeri de yaşam bedende bulunan bu iki nokta, günümüz insanlığında olduğu gibi birbirleriyle bağlantıya geçerse durugörür onu siyah bir nokta, ya da bir gaz alevinin görünmez merkezine benzeyen boş bir alan olarak görür. Bu, insanın içinde oturan Ruhun makamıdır ve yuvası olarak burada oturan Ego’nun dışında herkese kapalıdır. Burası, insan bedeni adlı tapınağın en kutsal yeridir. Deneyimli bir durugörür, gelişimine ve eğitimine göre az veya çok berraklıkla insanın Aura’sını oluşturan tüm bu farklı bedenleri görebilir. Yalnızca bu nokta ona kapalıdır. O, örtüsünü hiç kimsenin açamayacağı İsis’tir. Dünya’daki en gelişmiş varlıklar bile, en düşük ve en az gelişmiş varlıkların Ego’sunu dahi göremez. Ego, sadece Ego, yeryüzünde içine girişin asla mümkün olmayacağı derecede kutsaldır. 
+
+Biri yoğun bedende ve karşılığı da yaşam bedende bulunan ve bahsetmiş olduğumuz bu iki nokta, Atlantis Çağı’nın ilk zamanlarında birbirinden uzaktı. Günümüzdeki hayvanlarda da durum benzer şekildedir. Atta, yaşam bedenin başı fizik başının çok dışındadır. Köpekteki bu iki nokta, diğer tüm hayvanlara göre daha fazla birbirine yakındır. Belki bu duruma istisna olarak yalnızca filleri gösterebiliriz. Hayvanlarda bu noktalar birbirleriyle buluştuğunda sayı sayabilen, konuşabilen vs mucize bir hayvana sahip oluruz. 
+
+Bu iki nokta arasındaki mesafe nedeniyle Atlantislilerin algılama gücü veya görmesi iç âlemlerde, kalın ve ağır sis sebebiyle yoğun Fizik âlemde olduğundan çok daha keskindi. Fakat zamanla atmosfer daha açık olmaya başladı. Aynı zamanda da yaşam bedendeki bahsedilen nokta, yoğun bedende kendisine karşılık gelen noktaya yakınlaşmaya başladı. İki nokta birbirlerine yakınlaştığı ölçüde insan, iç âlemlerle olan temasını kaybetti. İç âlemler bulanıklaştıkça, fizik âlem berraklaştı. En sonunda Atlantis Çağı’nın son üçte birlik kısmında yaşam bedendeki nokta, fizik bedende kendisine karşılık gelen noktayla birleştirildi. Ancak bu andan itibaren insan, yoğun Fizik Âlemde tam bilinçli oldu. Fakat Fizik Âlemde tam görüş ve algı kazanıldıkça, iç âlemleri algılama yetisi de insanların pekçoğunda yavaş yavaş kayboldu. 
+
+İlk zamanlarda Atlantisliler, bir nesnenin veya bir kişinin kaba hatlarını açıkça göremiyordu. Ancak ruhu görüyordu ve bir defada onun özelliklerini, yani kendisi için dost mu düşman mı tanıyordu. Ruhsal algı ona, diğerlerine nasıl davranacağını ve kötülükten nasıl kaçacağını tam olarak öğretmişti. Bu yüzden Ruhsal Âlem derece derece onun bilincinden soldukça, onu kaybetmenin acısı da büyük oldu. 
+
+Rmoahal’lar ilk Atlantis ırkı idiler. Sadece çok az bir hafızaya sahiptiler ve bu hafıza da temel olarak duyulara bağlıydı. Onlar renkleri ve sesleri hatırladılar ve böylece bir dereceye kadar Duygular geliştirdiler. Lemuryalılarda en azından kelimenin ince anlamıyla duygu tamamen eksikti. Onlar dokunma duyusuna sahiptiler, acının fiziksel duyusunu hissedebiliyorlardı, aynı şekilde rahatlığını da. Ancak sevinç, keder, anlayış ve hoşlanmama duygularının zihinsel ve ruhsal şeklini hissedemiyorlardı. 
+
+Hafızayla birlikte Atlantislilere bir dilin en temel kuralları geldi. Kelimeler geliştirdiler ve Lemuryalıların yaptıkları gibi doğal sesleri artık kullanmamaya başladılar. Rmoahal’lar şeylere isim vermeye başladılar. Onlar hâlâ ruhsal bir ırktılar ve ruh güçleri, doğanın güçlerine benzemekteydi. Onlar, yalnızca etraflarındaki nesneleri adlandırmadılar, aksine kelimelerinde, adlandırdıkları şeyler üzerindeki güç de bulunuyordu. Son Lemuryalılar gibi onlar da ruh oldukları duygusu ile doluydular ve hiçbir zaman biri diğerine bir kötülükte bulunmadı. Onlar için dil, ruhun en yüksek doğrudan ifadesi olarak kutsaldı. Dedikodu veya havadan sudan konuşma yoluyla güç hiçbir zaman kötüye kullanılmadı veya küçük düşürülmedi. Açık bir dilin kullanılmasıyla bu ırktaki ruh, ilk defa dış dünyadaki şeylerin ruhuyla temasa geçebildi. 
+
+Tlavatli’ler ikinci Atlantis ırkıydılar. Onlar kendi değerlerini ayrı insani varlıklar olarak hissetmeye başladılar. Hırslı oldular ve eserleri hatırlansın istediler. Hafıza toplum yaşamında bir faktör haline geldi. İçlerinden bazıları tarafından gerçekleştirilmiş olan eylemlerin anısı, aralarından bir grubun, büyük işler yapmış birini liderleri olarak seçmesine neden oldu. Bu, krallığın tohumuydu. 
+
+Büyük adamların övgüye değer eylemlerinin bu hatırası, onların ölümünden sonrasına dek uzadı. İnsanlık, atalarının anısını onurlandırmaya ve büyük erdemler göstermiş olanlara tapınmaya başladı. Bu halen birkaç Asya ülkesi tarafından bugüne kadar uygulanan bir tapınma biçiminin başlangıcıydı. 
+
+Toltec’ler üçüncü Atlantis ırkıydılar. Onlar atalarının fikirlerini daha da ileri taşıdılar ve Monarşi ile babadan oğula geçen bir Hanedan sistemi kurdular. Toltec’ler öncelikle atalarının gerçekleştirdiği büyük eylemler için onların soyundan gelenlere tapınma geleneğini başlattılar. Bunun için çok iyi bir sebepleri de vardı. O zamana özgü eğitim nedeniyle bir babanın, kendi özelliklerini günümüz insanlığı için imkânsız olan bir şekilde oğluna aktarabilme gücü vardı. 
+
+Eğitim, farklı yaşam evrelerine ait resimlerin çocuğun ruhunun önüne konulmasından ibaretti. İlk Atlantislilerin bilinci o zamana kadar temel olarak hâlâ bir iç resim bilinciydi. Eğitimcilerin sahip olduğu resimleri çocuğun ruhunun önüne çağırma gücü, yetişkin insanın sahip olabileceği ruh özellikleri için belirleyici faktördü. Akıl değil de içgüdü isteniyor ve uyandırılıyordu. Bu eğitim yöntemiyle oğul, babanın özelliklerinin büyük çoğunluğunu alıyordu. Bu yüzden açıktır ki, o zamanlarda büyük adamların oğullarına saygı göstermek için yeterince sebep vardı; çünkü oğul, hemen hemen her zaman babanın iyi özelliklerinden büyük çoğunluğunu kalıtsal olarak alıyordu. Ne yazık ki bu durum günümüz için geçerli değildir. Halen büyük adamların oğullarına saygı gösterme geleneğini, bunun için artık geçerli sebebimiz olmamasına rağmen sürdürmekteyiz. 
+
+Toltec’ler arasında deneyimlere büyük önem verilmeye başlandı. En farklı deneyimleri kazanmış olan insan, en çok sayılan ve en çok aranan insan oluyordu. O zamanlar hafıza o kadar büyük ve keskindi ki, bizim şimdiki hafızamız onunla karşılaştırılamaz bile. Acil bir durumda geniş pratik deneyime sahip bir Toltec’li, çok büyük bir olasılıkla geçmişteki benzer durumları hatırlıyor ve ne yapılması gerektiğini söylüyordu. Böylece toplumun hiçbir üyesinin karşılaşmadığı zor bir durum meydana geldiğinde ve bu yüzden bu zor durumda geçmişle karşılaştırarak nasıl davranılacağını bilmediklerinde o, toplum için değerli bir öğüt verici oluyordu. Böyle bir kişi mevcut olmadığında en iyi davranış biçimini bulmak için deneme yapmaya mecbur kalıyorlardı. 
+
+Atlantis Çağı’nın ortalarında ayrı uluslar döneminin başladığını görüyoruz. Aralarında benzer eğilimler ve alışkanlıkları keşfeden insan grupları eski evlerini terk ettiler ve yeni bir koloni kurdular. Onlar eski geleneklerini hatırladılar ve yeni evlerinde yararlı olanları yerine getirdiler. Kendi özel fikirlerini ve ihtiyaçlarını karşılamak için ek olarak yeni alışkanlıklara da uyum sağladılar. 
+
+İnsanlığın Liderleri o zamanlarda halkları yönetmek için krallar inisiye ettiler ve onlara, insanlar üzerinde büyük güç verdiler. Kitleler bu kralları, “Tanrı’nın lütfundan olan” gerçek kralların layık olduğu derin bir saygıyla saydılar. Ancak bu mutlu durum aynı zamanda içinde, parçalanmanın tohumunu da taşıyordu. Zira krallar zamanla güçlerinin sarhoşu oldular. Onlar, güçlerini Tanrı’nın lütfuyla kutsal bir emanet olarak aldıklarını ve halklarına adil davranmaları ve onlara yardım etmeleri için kral yapıldıklarını unuttular. Krallar güçlerini, halkın menfaati yerine kötü bir şekilde bencil amaçlar ve kendilerini büyütmek için kullanmaya başladılar. Haksız yere kendilerine, onlara asla verilmemiş olan yetkiler ve ayrıcalıklar tanıdılar. Onlara hırs ve bencillik hakim oldu ve Tanrı tarafından verilmiş güçlerini zulüm ve öç amacıyla kullandılar. Bu durum sadece krallar için değil, aynı zamanda soylular ve üst sınıflar için geçerliydi. Onların, daha az gelişmiş sınıflar üzerinde nasıl güç sahibi oldukları dikkate alınırsa bu gücün kötüye kullanımının korkunç sonuçlar doğurabileceği kolaylıkla anlaşılabilir. 
+
+İlk Turanlar dördüncü Atlantis ırkıydılar. Onlar özellikle kendi tiksindirici bencillikleriyle kötüydüler. Ve de içlerinde kralların Tanrılar gibi tapınıldığı tapınaklar inşa ettiler ve çaresiz alt- sınıflara aşırı baskı uyguladılar. Kara büyünün en kötü ve en iğrenci gelişti ve onların tüm çabaları kibir ve dış gösterilerin doyurulmasına yönelikti. 
+
+İlk Sâmi’ler Atlantis ırklarının beşinci ve en önemli olanlarıydı, çünkü onlarda Düşüncenin ıslah edici niteliğinin ilk tohumunu buluruz. Bu yüzden ilk Sâmi ırkı, şimdiki Âri Çağı’nın yedi ırkı için “tohum ırk” olmuştur. 
+
+Kutup çağında insan, yoğun bedeni bir eylem aracı olarak edindi. Uzak-kuzey (Hiper-boreik) çağda ona, eylem için gerekli hareket gücü vermek amacıyla yaşam beden eklendi. Lemurya Çağında arzu beden aracılığıyla eylem teşvik edildi. 
+
+Atlantis çağında insan, eyleme anlam vermek için zihne sahip oldu. Fakat Ego, olağanüstü zayıf ve arzu doğası kuvvetli olduğundan yeni oluşan zihin arzu bedenle birleşti. Bu da, Atlantis Çağının ortalarında tüm kötülüğün nedeni olan kurnazlık yetisinin ortaya çıkmasını sağladı. 
+
+Âri Çağı’nda arzuları, evrimin nihai hedefi olan ruhsal mükemmelliğin edinilmesine götüren kanallara sevketmek için Ego’nun zihindeki çalışmasıyla Düşünce ve Akıl’ın geliştirilmesi gerekiyordu. Ancak insanlar tarafından bu Düşünce ve Fikir yürütme yetisi, yaşam güçleri üzerindeki kontrolün kaybedilmesiyle, yani doğa üzerinde sahip olunan gücün kaybedilmesiyle edinildi. 
+
+İnsan, Düşünce ve Zihinle günümüzde sadece kimyasal maddeler ve madenler üzerinde gücünü kullanabilir. Çünkü onun zihni şu anda, tıpkı yoğun bedeninin Satürn Evresi’nde olduğu gibi evriminin ilk çağı olan mineral çağdadır. Onun bitki ve hayvan yaşamı üzerinde herhangi bir gücü yoktur. Odun ve farklı bitki maddeleri, hayvanların farklı parçalarıyla birlikte onun endüstrisinde kullanılmaktadır. Bu maddelerin tümü son çözümlemede, madensel yaşam tarafından ruhlandırılan ve daha önce de açıklandığı gibi tüm âlemlerdeki bedenleri oluşturan kimyasal maddeden meydana gelmektedir. İnsan şimdiki aşamasında, tüm bu farklı türden kimyasal ve madensel bileşimler üzerinde hakimiyet sahibi olabilir. Ancak bu hakimiyet, o Jüpiter Evresi’ne erişmeden onun yaşamla birlikte çalışabileceği dereceye dek genişletilmeyecektir. Bu evrede o, tıpkı şimdiki Yer Evresi’ndeki meleklerde olduğu gibi bitki yaşamıyla çalışma gücüne sahip olacaktır. 
+
+Materyalist bilimadamları yıllarca yaşam “yaratmak” üzerinde çalıştı, fakat onlar bunu, Laboratuvar masasına bir tapınağın sunağı gibi en derin saygıyla ve temiz bir kalp ve kutsal ellerle bencil ve açgözlü hırslardan uzak bir şekilde yaklaşmayı öğrenmeden başaramayacaklardır. 
+
+Akıllıca bir kararla Büyük Biraderler bu ve doğanın diğer derin sırlarını insan, onları kişisel kazanç ya da kendini büyütmek için değil de ırkın yükseltilmesi ve Tanrı’nın kutsallığı için kullanmaya uygun olacağı zamana dek saklamışlardır. 
+
+Bununla birlikte Atlantislilerin yaşam gücü üzerindeki gücü kaybetmeleri insanın gelişmeye devam etmesini sağladı. Artan bencilliğine önceki masum durumunda sahip olduğu o büyük güç eşlik etseydi insan, kendisini ve doğayı tamamen yokedebilirdi. Böylelikle onun bencilliği ne kadar artarsa artsın böyle bir felaketin gerçekleşmesi önlenmiş oldu. Yalnızca insanda çalışan düşüncenin, doğaya hükmetme gücü yoktur. Doğa güçleri Düşünce’nin hakimiyeti altında olmuş olsaydı insanlığı tehlikeye atabilirdi. Ancak Düşünce’nin bu güçlere hakimiyeti elinden alındığı için böyle bir tehlike önlenmiş oldu. 
+
+İlk Sâmiler zihin aracılığıyla arzularını bir dereceye kadar hakimiyet altına aldılar. Ancak saf arzuların yerine, kendisi aracılığıyla insanların bencil hedeflerine ulaşmaya çalıştıkları kurnazlık geldi. Çok çalkantılı bir halk olmalarına karşın tutkularını büyük ölçüde kontrol etmesini ve kaba güçten daha sübtil ve daha kuvvetli olan kurnazlıkla amaçlarına erişmesini öğrendiler. Onlar, “beynin” “kas gücünden” daha üstün olduğunu ilk keşfedenlerdi. 
+
+Bu ırkın varlığı boyunca Atlantis’in atmosferi tamamen açılmaya başladı ve yaşam bedendeki daha önce bahsettiğimiz nokta, yoğun bedendeki kendisine karşılık gelen nokta ile bağlandı. Bu olay insana nesneleri keskin dış hatlarıyla açıkça görebilme yeteneğini verdi. Fakat aynı zamanda da onun iç âlemleri görüşünün kaybolmasına yolaçtı. 
+
+Buradan şu yasayı çıkartabiliriz: Kaydedilmiş olan her gelişme, önceden sahip olunan bazı yeteneklerin kaybedilmesi karşılığında sağlanmıştır. Bu yetenekler daha sonra daha yüksek bir Formda tekrar kazanılacaktır. 
+
+İnsan, kendisinden üremesi yani yalnız olarak çocuk doğurması gücünü geçici olarak kaybetmesi karşılığında beynini yapmıştır. Yoğun bedenini yönetebileceği enstrümanı elde etmek için, ırkın devamında gerekli olan tüm zorlukların, kederin ve acının kurbanı olmuştur. Böylece insan, ruhsal sezgisini geçici olarak kaybetme karşılığında akıl yürütme gücüne kavuşmuştur. 
+
+Akıl birçok yönden fayda sağlarken aynı zamanda da insanı şeylerin, daha önce kendisine konuşan ruhuna da kapatmıştır. Şu anda insanların sahip olduğu en değerli şey olan zihnin elde edilmesi Atlantisliler tarafından önceleri üzüntüyle karşılanmıştı. Çünkü onlar zihne sahip olma karşılığında ruhsal görüş ve gücün kaybının üzüntüsünü yaşıyorlardı. 
+
+Ancak ruhsal güçler karşılığında fizik yeteneklerin elde edilmesi gerekliydi. Böylelikle insan, keşfetmesi gereken Fizik âlemde dışarıdan bir yönlendirme olmaksızın işgörebilirdi. Zamanla o, yoğun fizik âlemden geçerek edindiği deneyimler vasıtasıyla, kaybetmiş olduğu bu ruhsal güçlerini doğru kullanmayı öğrendiğinde onları tekrar kazanacaktır. O, ruhsal güçlere sahip iken bu güçleri nasıl kullanacağını bilmiyordu ve bu güçler, tıpkı oyuncaklar gibi deneyerek öğrenilemeyecek kadar değerli ve tehlikeliydi. 
+
+Büyük bir varlığın rehberliği altında ilk Sâmi Irkı, Atlantis kıtasından ve Avrupa üzerinden doğuya, Orta Asya’nın Gobi Çölü olarak bilinen büyük ıssız alanına götürüldü. Büyük varlık orada bu ırkı Âri Çağı’nın yedi ırkının tohumu olarak hazırladı ve onları, soylarından gelecekler tarafından geliştirilecek olan özelliklerle donattı. 
+
+Satürn Evresi’nin başlangıcından, Güneş ve Ay Evrelerine ve Yer Evresi’nin üçbuçuk devrine kadar (Kutup, Uzak-kuzey, Lemurya Çağları ile Atlantis Çağı’nın ilk kısmı) tüm bu geçmiş zamanlar boyunca insan, en ufak bir tercih hakkı olmaksızın yüce Varlıklar tarafından yönetildi. O, kendi kendini yönetme yeteneğine sahip değildi, çünkü henüz kendisine bir zihin geliştirmemişti. Ancak şimdi en sonunda, gelişiminin devamı için onun kendi kendisini yönlendirmesi gereken zaman gelmişti. O, bağımsızlığı ve kendi eylemlerinin sorumluluğunu almayı öğrenmeliydi. Şimdiye kadar yöneticisinin emirlerine uymaya zorlanmıştı. Şimdi düşünceleri, Tanrıların elçileri olarak tapındığı görünür Liderlerden, Venüs’ün Efendileri’nden, Sistemin görünmez Yaratıcısı olan gerçek Tanrı fikrine çevirilmeliydi. İnsan, göremediği bir Tanrı’ya tapınmayı ve O’nun emirlerine uymayı öğrenmek zorundaydı. 
+
+Bu yüzden Liderleri, insanları biraraya topladı. Onların ruhlarına heyecan veren ve şu şekilde ifade edilebilecek şu konuşmayı yaptılar: 
+
+“Şimdiye dek, sizi yönetenleri görüyordunuz. Fakat daha yüksekte olan ve çeşitli ihtişam derecelerinde bulunan Liderler de vardır. Onları görmemiş olsanız da onlar, bilincin gelişiminde sizin her bir titrek adımınızı yönlendirmişlerdir. 
+
+Tüm bu büyük ve şanlı Varlıkların üstünde, göğü ve sizin ikamet ettiğiniz yeri yaratmış olan Tanrı bulunmaktadır. O, bol meyve vermeniz ve içinde çoğalmanız için tüm bu toprakları sizin hakimiyetinize vermeyi diledi. 
+
+Yalnızca bu görünmez Tanrı’ya tapmalısınız, fakat O’na Ruhta ve Hakikatta tapmalısınız. Ve kendinize O’nun resmini, ve heykelini yapmamalısınız, çünkü O her yerdedir ve her türlü karşılaştırmadan ve benzerlikten beridir. 
+
+O’nun emirlerini izlerseniz sizi tüm iyiliklerle bol bol kutsayacaktır. Eğer O’nun yolundan saparsanız, kötülük gelecek. Seçim sizin. Özgürsünüz, ancak kendi eylemlerinizin sonuçlarına katlanmalısınız.” 
+
+İnsanın eğitimi dört büyük aşamada gerçekleşmiştir. Birincisinde o hiçbir şeyin bilincinde olmadan dışarıdan onun üzerinde çalışılmıştır. İkinci aşamada o, gördüğü ve emirlerine uymasının zorunlu olduğu İlahi Elçiler ve Kralların liderliği altına girmiştir. Üçüncü olarak ona, görmediği Tanrı’nın emirlerini yerine getirmesi öğretilmiştir. En sonunda da ona, emirlerin üzerine çıkması, kendisinin bir yasa olması ve kendisini kendi hür iradesiyle yenerek Tanrı’nın yasaları olan Doğa Yasaları ile uyum içinde yaşaması öğretilmektedir. 
+
+Bu dörtlü gelişim aşaması sayesinde insan, Tanrı’ya erişir. 
+
+İlk olarak o, hissetmeye başladığı Tanrı’ya korkusundan tapar, tıpkı fetişe tapanlar gibi O’na kendisini affettirmek için kurban sunar. 
+
+Daha sonra Tanrı’nın, tüm şeyleri lütfeden olduğunun farkına varır ve O’ndan burada ve şimdi maddi çıkarlar sağlamayı umar. O, açgözlülüğüyle Efendisinin bunun yüz mislini ödeyeceğini bekleyerek kurban sunar. Ve bu sayede de salgın, savaş vb. belalardan kurtulabileceğini kurnazca umar. 
+
+Sonra o, Tanrı’ya dualar ve iyi bir yaşam sürerek tapmayı öğrenir. Gelecekte ödüllendirileceği yer olan cennet inancını taşımak zorundadır ve gelecekte cehennemde cezalandırılmaktan kurtulmak için kötülükten kaçınmalıdır. 
+
+En sonunda o, içinde herhangi bir ödüllendirilme, rüşvet veya cezalandırılma düşüncesi olmaksızın iyi olabildiği bir noktaya gelir. Çünkü “doğru davranmak doğrudur”. O, iyiyi kendisi için sever ve şimdiki yararlar ya da aşağılanmalara ve gelecekteki acı verici sonuçlara bakmaksızın ona göre davranır. 
+
+İlk Sâmiler bu aşamalardan ikincisine ulaşmışlardı. Onlara, görünmez bir Tanrı’ya tapmaları ve maddi şeylerle ödüllendirilmeyi ya da acı verici belalarla cezalandırılmayı beklemeleri öğretilmişti. 
+
+Popüler Hristiyanlık ise üçüncü aşamadadır. Ezoterik Hristiyanlar ve tüm ezoterik okulların öğrencileri ise en yüksek aşamaya ulaşmaya çalışmaktadırlar. Bu aşamaya genel olarak altıncı çağ olan Yeni Galilea çağında erişilecektir. O zaman birleştirici Hristiyanlık dini, şimdi insanların anlayışlarını açtığı gibi kalplerini de açacaktır. 
+
+Akkadlar altıncı ve Moğollar da yedinci Atlantis ırkıydılar. Onlar düşünce yetisini daha da geliştirdiler, fakat gelişen yaşamın ana çizgisinden hep daha fazla sapan düşünce yollarını izlediler. Çin Moğolları halen eskiden izlenen yolların en iyi yollar oldukları görüşündedirler (1909). Ancak ilerleme, sürekli olarak yeni yöntemler ve uyum yeteneği gerektirir. O, fikirleri akışkan bir durumda tutar, bu yüzden bu ırklar geri kaldılar ve Atlantis Irklarından kalanlarla birlikte yozlaşmaktadırlar. 
+
+Atlantis’in ağır sisi hep daha fazla yoğunlaştıkça bu kıta, artan su seviyesinin altında kaldı ve nufüsun büyük kısmıyla birlikte onların uygarlıklarının izlerini de yoketti. 
+
+Bu mahkum edilmiş kıtadan çok sayıda insan sürüldü ve Avrupa’ya göç ettiler. Atlantis’ten kaçanların torunları bugünkü Moğollardır. Buna karşın Zenciler ve kıvırcık saçlı ilkel ırklar da Lemur- yalılardan geriye kalanlardır. 
+
+#### <h4 id="the-aryan-epoch">Âri Çağı</h4>
+
+Orta Asya, ilk Sâmilerin torunları olan Âri ırklarının beşiğiydi. Buradan çeşitli ırklar ortaya çıktı. Burada onları anlatmak gereksizdir, çünkü tarihsel araştırmalar onların temel özelliklerini yeterince açıklamışlardır. 
+
+Şimdiki çağ olan beşinci Çağ veya Âri Çağı’nda insan, daha yüksek amaçlar ya da kendi gelişimi için kullanabilmesi amacıyla, tanrısal kökeni bilinçli olarak kendisinden gizlenen ateşin ve diğer güçlerin bilgisine erişti. Bu yüzden şimdiki çağımızda iki tür insan grubu vardır: Bunlardan biri bu yeri ve insanı, tanrısal kökenli varlık olarak görür, diğeri ise her şeye sırf faydacı bir bakış açısından bakar. 
+
+Âri Çağı’nın başlangıcında insanlık içinde en gelişmiş olanlara, Tanrı’nın elçilerinin, yani Venüs’ün Efendileri’nin yerini alabilmeleri için yüksek inisiyasyonlar verildi. Bu insan İnisiyeler bundan sonra Tanrı ve insan arasındaki tek aracı idiler. Fakat onlar bile insanların arasına açıkça çıkmıyorlar ve öğretmen ve lider olduklarını mucizelerle göstermiyorlardı. İnsan, onları isterse araması ya da istemezse aramaması için tamamen özgür bırakıldı. 
+
+Şimdiki çağımızın sonunda, yeterli sayıda sıradan insan diler ve gönüllü olarak onların liderliğine tâbi olurlarsa en yüksek İnisiyeler insanların önünde açıkça görüneceklerdir. Böylelikle onlar, altıncı çağın başlangıcında ortaya çıkacak olan son ırk için çekirdeği oluşturacaklardır. Bundan sonra da ırklar ve uluslar kalmayacaktır. İnsanlık, tıpkı Lemurya çağının sonlarındaki gibi ruhsal bir kardeşliği oluşturacaktır. 
+
+Beşinci çağ boyunca günümüze kadar Yer üzerinde yayılmış olan ırklar şunlardır: 
+
+Güneye, Hindistan’a gitmiş olan Âri ırkı. 
+
+Bâbil-Asur-Kaldean ırkı. 
+
+Fars-Yunan-Latin ırkı. 
+
+Kelt ırkı. 
+
+Cermen-Anglo-Sakson (yazarın da ait olduğu ırk) 
+
+Şu anda ABD’de meydana gelmekte olan farklı ulusların karışımından, Altıncı Çağın başlangıcında son ırkın “tohum”u çıkacaktır. 
+
+Şimdi bulunduğumuz çağda iki ırk daha gelişecektir. Bunlardan biri Slavlar’dır. Birkaç yüzyıl sonra ekinoksların presesyonu nedeniyle Güneş Kova burcuna girdiğinde Rus Halkı ve Slav Irkları genel olarak şimdiki ruhsal gelişim derecelerinden çok daha ileri bir dereceye erişeceklerdir. Bu gelişimin ana faktörü müzik olacaktır. Müziğin titreşimlerine uymuş olan ruh, Tanrı’nın Tahtı’na erişebilir. Zihin oraya tek başına erişemez. Ancak bu şekilde edinilmiş bir gelişme kalıcı değildir, çünkü tek taraflıdır. Bu yüzden de evrim yasasıyla uyuşmaz. Bu yasa, bir gelişmenin kalıcı olabilmesi için iki tarafının da dengeli olmasını gerektirir. Yani ruhsallık, zihin aracılığıyla ya da en azından zihinle birlikte gelişmelidir. Bu sebepten Slav uygarlığı kısa ömürlü, ancak yaşadığı sürece de büyük ve sevinçli olacaktır. Çünkü bu uygarlık, derin keder ve tarifsiz acıdan doğmuştur ve Telafi Yasası zamanı geldiğinde bunun karşıtını da getirecektir. 
+
+Slavlardan, Âri Çağı’nın yedi Irkının sonuncusunu biçimlendirecek olan bir ulus gelecektir. Amerika Birleşik Devletleri’nin halkından da bu evrim planının tüm Irklarının sonuncusu gelecektir. Bu ırk da yoluna Altıncı Çağın başında başlayacaktır. 
+
+#### <h4 id="the-sixteen-paths-to-destruction">Yıkımın On Altı Yolu</h4>
+
+On altı ırk, “Yıkımın on altı yolu” olarak adlandırılır, çünkü her Irkta daima, ruhun Irka çok fazla bağlanma tehlikesi bulunmaktadır. Böyle bir durumda ruh, Irk özelliklerinin ağına düşmekte ve Irk fikrinin üzerine yükselememektedir. O zaman da ruh, gelişmesinde başarısızlığa uğramaktadır. Böylece tabiri caizse ruh, Irkın içinde kristalleşmektedir. Sonuç olarak da ruh, tıpkı Yahudiler’de olduğu gibi yozlaşmaya başlayarak Irkın bedenleri içinde hapsolur. 
+
+Irkların olmadığı Evrelerde, Devirlerde ve Çağlarda taşlaşma (fosilleşme) olasılığı çok büyük değildir ve çok sık karşılaşılan bir şey değildir, çünkü evrim bu zamanlarda daha uzun bir zaman dilimi üzerine yayılmıştır. Fakat on altı Irk nispeten daha kısa bir zamanda doğmuş ve ölmüştür. Böylece de her biri koşullara çok fazla bağlı kalmakta ve geri kalma tehlikesiyle karşı karşıyadır. 
+
+Mesih, Altıncı Çağın büyük ve birleştirici Lideridir ve O, çok az anlaşılan sözlerini söylediğinde şu yasayı ifade etmiştir: “Eğer birisi bana gelir de babasından, annesinden, karısından, kardeşlerinden ve kendi yaşamından nefret etmezse o benim öğrencim olamaz”. (Luk. 14:26) 
+
+“Ve kim haçını sırtına alıp beni izlemezse, o benim öğrencim olamaz”. (Matth. 10:38) 
+
+“Her kim sahip olduğu her şeyden vazgeçmezse o benim öğrencim olamaz”. (Luk 14:33) 
+
+Aile bağlarını koparmamalıyız ve bu bağları küçümsememeliyiz, ancak kendimizi onun üzerine çıkarmasını öğrenmeliyiz. Baba ve Anne “bedenler”dir, tüm akrabalar da Form’a ait olan Irkın parçalarıdır. Canlar, ne beden ve ne de ırk olmadıklarını, sadece mükemmellik için uğraşan Ego’lar olduklarını bilmelidir. İnsan bunu unutur ve kendisini Irkıyla özdeşleştirirse ve ona fanatik bir şekilde bağlanırsa, akranları Erme Yolunda daha yükseklere çıkarken o, kolayca ona yapışabilir ve onunla beraber batabilir. 
+
+#### <h4 id="the-sixteen-paths-to-destruction">13. Bölüm: Kutsal Kitap’a Dönüş</h4>
+
+Çağımızda misyoner ruhu güçlüdür. Batı kiliseleri her ulustan insanı kendi inançlarına çevirmek için tüm Dünya’ya misyonerler yolladılar. Ancak yandaş kazanma çabalarında yalnız değiller. Doğu da, Batı topraklarına güçlü bir saldırı başlattı. Rahipler tarafından öğretilen inançlar ve dogmaların kendilerine yeterli gelmediği birçok Hristiyan, zihinlerinin talepleri sonucunda yaşamın problemlerinin uygun bir açıklamasını bulmaya ve gerçeği araştırmaya kendilerini zorunlu hissettiler. Böylelikle de Budizm, Hinduizm vs gibi doğu öğretilerini tanıdılar ve birçok durumda onları kabul ettiler. 
+
+Okült bakış açısından Doğu’dan Batı’ya ya da Batı’dan Doğu’ya olan bu misyonerlik çabaları arzu edilir şeyler değildirler, çünkü evrimin akışının aksinedirler. Bizim gelişimimizden sorumlu olan insanlığın büyük Liderleri, evrimimizin hedefine ulaşmak için gerekli her yardımı vermişlerdir. Din de bu yardımlardan biridir. Kutsal Kitab’ın, Batı’ya verilmiş olan Yahudilik ve Hristiyanlığın ikisini birden neden içerdiğini anlamak için yeterli sebebimiz vardır. Ciddiyetle ışığı ararsak, bize bu iki dini vermiş olan Yüce Hikmeti fark edeceğiz. Günümüzdeki başka hiçbir din bize özgü gereksinimlere yanıt veremez. Bu yüzden bu bölümde, daha önceden farklı yerlerde ve bağlamlarda ortaya koyduğumuz belli noktalara tekrar değineceğiz. 
+
+Kutup, Uzak-kuzey ve Lemurya Çağlarında insanlığa rehberlik görevi görece kolaydı. O zamanlar insan, zihne sahip değildi. Fakat Atlantis Çağının ilk kısmında bu rahatsız edici element kendisine verildiğinde insan, kurnazlığı geliştirdi. Kurnazlık, ruh tarafından kontrol edilmeyen zihnin ürünüdür. Arzu’nun doyurulması, onun iyi ve kötü olduğuna, neşe ya da keder getirmesine bakılmaksızın kurnazlık tarafından desteklenir. 
+
+Atlantis Çağı’nın ortalarında Ruh, araçlarının içine tamamen yerleşmişti. Bu andan itibaren o, Düşünceyi ve Akıl yürütmeyi üretmek için zihin üzerinde çalışmaya başladı. Böylece de Ruh, belirli bir sebepten onun kaçınılmaz sonucunu izleme ve belirli bir etkiden onu ortaya çıkarmış olan sebebi anlama yeteneğini yarattı. Akıl yürütme ya da Mantık yetisi, Âri Çağı’nda daha da gelişti. Bu yüzden ilk Sâmiler (Atlantis Çağı’nın 5. Irkı) “seçilmiş bir halk” idiler. Onlar, bu tohum halindeki yetiyi, kendi soylarından gelenlere aktardıkları, böylece de soylarının Yeni Irk olduğu bir olgunluğa dek geliştirdiler. 
+
+Kurnazlığı akla dönüştürmek kolay bir iş değildir. Önceleri insan doğasında değişimler meydana getirmek kolaydı. Çünkü önceden o kolayca yönlendirilebiliyordu, bilinçli Arzuları yoktu ve zihin ona rehberlik etmiyordu. Ancak o, ilk Sâmilerin zamanında özgürlüğünün kısıtlamalarına kızacak ve onu sınırlar içerisinde tutacak tedbirlerin etrafından dolanacak derecede kurnazlaşmıştı. Ona yol gösterme görevi artık çok daha zordu, çünkü zamanla kendi kendini yönetebilmeyi öğrenebilmesi için seçim özgürlüğüne sahip olması gerekliydi. Bu yüzden itaat durumunda anında ödüllendirmeye ve yasanın hükümlerine uymama durumunda da anında cezalandırmaya hükmeden bir yasa konuldu. Böylece sabır ve sevgiyle insana, “günahkârın yolunun zor olduğu” ve onun “Tanrı”dan ve onun yönetici Rehberlerinden korkması gerektiği öğretildi. Ve o buna ikna edildi ve hatta o, bir dereceye kadar da buna zorlandı. 
+
+Yeni ırk için “tohum” olarak seçilmiş olanlardan çok azı buna sadık kaldılar. Onların pekçoğu asilerden oldu ve diğer Atlantis ırkları ile evlenerek (ruhsal) Liderlerinin amaçlarına engel oldular. Böylelikle de kendi soylarına yabancı kanını soktular. Bu, Kutsal Kitap’ta Tanrı’nın çocuklarının insan kızları alması olarak ifade edilmiştir. Bu itaatsizlikleri sonucunda da terk edildiler ve “kaybolmuş” oldular. Sadık kalanların bile bedenleri, Orta Asya’da şimdiki ırkın beşiği olan Gobi Çölü’nde (“Issızlık”ta) öldü. Ancak bu sadık kalanlar, kendi soylarından yeniden doğdular ve “Vaat Edilmiş Ülke”yi, yani şimdiki Dünya’yı miras olarak aldılar. Bunlar, kendilerinde aklın mükemmel olana dek geliştirileceği Âri ırklarıdır. 
+
+Terk edilmiş olan isyankârlar ise, içlerinden hâlâ büyük çoğunluğu Akıl’dan çok, Atlantis’den gelen kurnazlıkla yönlendirilen Yahudilerdi. Onlarda ırk-duygusu o kadar güçlüdür ki, insanları sadece iki sınıfa ayırırlar: Yahudiler ve Yahudi olmayanlar. Onlar diğer halkları küçümserler ve diğer halklar tarafından da kurnazlıkları, bencillikleri ve para tutkuları sebebiyle küçümsenirler. Hayır işlerine verdikleri paralar da inkâr edilemez, ancak bunu özellikle kendi Halklarının içinde ve nadiren de tıpkı İtalya’daki deprem felaketinde olduğu gibi inanç, ırk ve ulusallık sınırlarının insan olmanın duygudaşlığı duygusu içinde unutulduğu uluslararası durumlarda yaparlar. 
+
+Örneğin San Fransisco felâketi gibi durumlarda insanın iç ruhsal doğası, diğer durumlara göre daha görünür hâle gelir ve dikkatli bir gözlemci bunun gelişim çizgisini takip edebilir. Günlük yaşamın stresinde eylemlerimiz yalanlasa da hepimizin yine de kardeşler olduğumuz gerçeğini ve birimizin yaralanmasının hepimiz tarafından gerçekten hissedildiğini kalpte bilir ve kabul ederiz. Böyle olaylar bu yüzden evrimin yönüne dikkat çekerler. İnsanın Akılla kontrolünü, Sevgi’nin kontrolü izlemelidir. Sevgi zamanımızda akıldan bağımsız ve bazen de ona karşı hareket eder. Bu bozukluk, zamanımızda Sevgimizin çok nadir bencillikten tamamen uzak olmasından ve Akıl’ın her zaman doğru olmamasından kaynaklanmaktadır. Önümüzdeki Altıncı Çağ olan “Yeni Galilea”da Sevgi, bencil olmaktan çıkacaktır. Böylece onun eylemleri de daima Akıl tarafından onaylanacaktır. Bundan sonra tam anlamıyla Evrensel Kardeşlik gerçekleştirilecektir. Her bir birey bütünün yararına çalışacaktır; çünkü bencillik geçmişte kalmış olacaktır. 
+
+Bu çok arzu edilen sonuca ulaşabilmek için şimdiki insanlıktan, yeni bir ırkın çekirdeği olarak başka bir “seçilmiş halk” seçmek gereklidir. Bu seçim, seçilenlerin iradesine rağmen yapılamaz. Her insan kendisi için seçim yapmak zorundadır ve isteyerek bu gruba dahil olmalıdır. 
+
+Irklar, evrimin yalnızca geçici bir görünüm formudur. Lemurya Çağı’nın sonundan önce, o zamanın sıradan insanlığından farklı “seçilmiş insanlar” vardı. Onlar, Atlantis ırklarının ataları oldular. Bu ırkların beşincisinden de başka bir “seçilmiş halk” meydana getirildi. Bunlardan da Âri ırkları geldi. Şimdiye dek beş Âri ırkı oluştu, iki Âri ırkı daha meydana gelecektir. Fakat yeni bir çağın açılması için “yeni bir Gök ve yeni bir Yer” olmalıdır. Yerin fiziksel özellikleri değişecek ve yoğunluğu azalacaktır. Bundan sonraki çağın başlangıcında yalnızca bir ırk olacaktır, ancak bundan sonra ırka dair her düşünce ve her duygu yok olup gidecektir. İnsanlık, aralarındaki farklara bakmaksızın tekrar çok geniş bir Kardeşliği oluşturacaktır. Irklar yalnızca, evrimde geçilmesi gereken basamaklardır, aksi takdirde onlarda yeniden doğan ruhlar için ilerleme mümkün olmazdı. Fakat gerekli basamaklar olsalar da, yine de çok tehlikelidirler ve bu yüzden de insanlığın Rehberleri için endişe kaynağıdırlar. Rehberler bu on altı ırkı “yıkımın on altı yolu” olarak adlandırırlar. Önceki çağlarda değişimler o kadar uzun zaman dilimlerinde meydana gelmişlerdir ve varlıkların çoğunluğunu ilerleme yoluna getirmek daha kolay olmuştur. Ancak ırklarda durum farklıdır. Onlar bir dereceye kadar geçicidir. Bu yüzden Irkın zincirlerine olabildiğince az ruhun hapsolması için özel bir dikkat gösterilmelidir. 
+
+Bu tam da Yahudi Irk-bedenlerinde yeniden doğan bedenlerin başına gelen şeydir. Onlar Irka o kadar sıkı bağlanmışlardır ki, yeniden doğumlarında ardı ardına bu Irka çekilmektedirler. Onların sloganları “Bir kez bir Yahudi, daima bir Yahudi”dir. Onlar ruhsal doğalarını tamamen unutmuşlardır ve “İbrahim’in tohumu” olmalarının maddi gerçekliğiyle övünmektedirler. Bu yüzden “ne balık ve ne de ettirler”. Onların gelişen Âri Irkında payları yoktur, ancak Lemurya ve Atlantis halklarından kalan ve halen aramızda bulunanlardan yine de yüksektedirler. Yahudiler, insanlık içinde bir bozukluk ve vatansız bir halk haline gelmişlerdir. 
+
+Irk-fikrine bağımlılıkları sebebiyle ilk Liderleri onları terk etmek zorunda kalmıştır ve onlar “kayıp” bir hâldedirler. Kendilerini diğer Halklardan ayrı olarak görmeyi bırakmaları için insanlığın Liderleri, diğer halkları onların üzerine göndermişlerdir. Onlar birçok defa vatanlarından köle olarak çıkarılmışlardır, ama boşuna. İnatla diğer Irklarla karışmayı reddetmişlerdir. Tekrar ve tekrar kurak topraklarına geri dönmüşlerdir. Kendi Irklarının, onları acımasızca eleştiren ve onlara korkunç belâların kehanetinde bulunan peygamberleri uyandırılmıştır, fakat boşuna. 
+
+Irk zincirlerinden kurtulmaları için son bir teşebbüs olarak, gelecek Irkın Lideri olan Büyük Öğretmen Mesih, Yahudilerin içinde görünmüştür. Bu, görünüşte bozuk bir durumdur. Ancak evrimi yönlendiren yüce Varlıkların merhametini ve Bilgeliğini gösterir. Dünya’daki Irklar arasında bu anlamda hiçbir Irk, Yahudiler gibi kaybolmamıştır ve hiçbiri onlar kadar şiddetle yardıma muhtaç değildir. Onlara bir yabancıyı, kendi Irklarından olmayan birini göndermek kesinlikle işe yaramazdı. Onu hemen reddedecekleri kolayca tahmin edilebilecek bir sonuçtu. Booker T. Washington olarak tanınan büyük Ruh, kendisini onlardan biri olarak kabul etmeleri için nasıl zenciler arasında yeniden doğdu ve onları hiçbir beyaz adamın yapamayacağı kadar aydınlattı ise, aynı şekilde de büyük Liderler, İsa’nın, kendilerinden biri olarak Yahudiler arasından çıkmasının da onun ve öğretilerinin Yahudiler tarafından kabul edilmesini sağlayacağını umut ettiler. Böylelikle de Yahudiler, Irk-bedenlerinin ağından kurtulabileceklerdi. Ancak insan önyargısının nasıl galip geldiğini görmek üzücüdür. “O, onlar arasında göründü”, onlar Barabbas’ı[44] seçtiler. O, ne İbrahim’le ve ne de eski geleneklerinden başka biriyle övündü. O, “başka Dünya”dan bahsetti. Yeni bir Dünya, sevginin ve affetmenin dünyası dedi ve “göze göz” kuralını reddetti. Onları Sezar’a karşı silahlanmaya da çağırmadı. Eğer böyle yapsaydı O’nu kurtarıcı olarak selâmlayacaklardı. Bu açıdan O, kendi Havarileri tarafından bile yanlış anlaşıldı. Havarileri O’nun Romalılar elinde öldürülmesine üzüldükleri kadar bu Dünya’da kaybolan bir krallık umuduna da üzülmüşlerdi. 
+
+İsa’yı reddetmeleri Yahudilerin Irk köleliklerinin en büyük kanıtıdır. Bundan sonra da özel Peygamberler ve Öğretmenlerle onları toptan kurtarma çabalarına son verilmiştir. Onları toplu hâlde sürgün etmenin yararsızlığı da ortaya çıkınca son çare olarak Yahudiler, Dünya’daki halkların arasına parça parça dağıtılmışlardır. Yine de tüm bunlara rağmen bu halkın aşırı inadı günümüze dek baskın çıkmıştır. Yahudilerin çoğunluğu halen ortodokstur. Ancak Amerika’dakilerinde yavaş yavaş değişim gözlenmektedir. Genç nesiller, kendi Irkları dışındakilerle evlenmeye başladılar. Böylece geçmişin Yahudileri’nin yeniden bedenlenen ruhları için zamanla hep daha az Irk özelliklerine sahip artan sayıda beden olması sağlanacaktır. Bu şekilde, kendilerine rağmen onlar, kurtarılmış olacaklardır. Onlar, aşağı Irklarla evlendikleri için “kayıp” hâline geldiler, kendilerinden ileri Irklarla kaynaşarak kurtarılacaklardır. 
+
+Şimdiki Âri Irkları, mantıklı düşünen insani Varlıklardır. Ve önceki deneyimlerinden yararlanabilme yeteneğine sahiptirler. Önceki gelişim basamakları ve söz dinlemez Yahudileri yakalayan kader onlara anlatıldığında, kendilerine mantıklı düşünme aracı verilmiş olur. Bu asilerin, Liderlerinin onlarla nasıl uğraştıklarını anlatan kitapları vardır. Bu kitap, onların nasıl seçilmiş olduklarını, ve asi olduklarını, nasıl cezalandırıldıklarını ve de nasıl kurtuluşu beklediklerini gösterir. Bu kayıtlar, nasıl davranmamamız gerektiğini görmek için bizim tarafımızdan başarıyla kullanılabilir. Çağlar boyunca bu kayıtların bozulmuş olması ve günümüz Yahudilerinin hâlâ “seçilmiş insanlar” olma yanılgısı içinde olmaları önemli değildir. Onların deneyimlerinden çıkarılabilecek dersler, bu yüzden değerinden bir şey kaybetmez. “Seçilmiş bir halkın” Liderini nasıl bezdirebileceğini ve plânlarını mahvedebileceğini ve bu halkın çağlar boyunca bir Irk’a nasıl bağlı kalabileceğini onlardan öğrenebiliriz. Onların deneyimleri, gelecekteki herhangi bir “seçilmiş topluluğa” bir uyarı olmalıdır. Paul bunu yanlış anlaşılamayacak kadar açık kelimelerle ifade etmiştir: “Çünkü melekler aracılığıyla bildirilmiş olan söz geçerli olduysa, her suç ve her itaatsizlik hakettiği karşılığı aldıysa, bu kadar büyük kurtuluşu görmezden gelip nasıl kurtulabiliriz?” (İbraniler, 2:3-4) Paul burada Hristiyanlara konuşmaktadır, zira mektubu yazdığı Yahudiler, Hristiyanlığa geçmişlerdi. Onlar Paul’un, gelecekteki bir Dünya yaşamında yeni “seçilmiş Halk” arasında olmalarını beklediği insanlardı. Bu halk, bir Lideri seve seve takip eden ve Sevgi ile ruhsal idrak (spiritual perception) yeteneğini geliştiren bir halk olacaktır. Ruhsal idrak, bencillik ile aklın yerine geçecek sezgidir (intuition). 
+
+Yeni Ahit’in Hristiyan öğretisi özellikle Batı Dünyası’nın öncü Irkları için uygundur. Bu Irklar özellikle Birleşik Devletler halkına aşılanmışlardır. Altıncı Çağın yeni ırkının amacı, bütün Irkların birleştirilmesi olacaktır. Birleşik Devletler, içinde dünyanın bütün uluslarının kaynaşacağı bir “pota” olacaktır ve bu karışımdan da bundan sonraki “seçilmiş halk”ın çekirdeği meydana gelecektir. 
+
+Burada Birleşik Devletler’de, Dünya’nın tüm ülkelerinde ister bilinçli isterse de bilinçsiz olsun, İsa’nın öğretilerini takip etmeye çalışmış ruhlar yeniden doğacaklardır. Burada onlara, bu gelişim için gerekli koşullar sağlanacaktır. Bu yüzden Amerika doğumlu Yahudi, diğer ülkelerde doğmuş olan Yahudiler’den farklıdır. Batı dünyasında yeniden doğmuş olması olgusu bile, onun Irk ruhundan kurtulmakta olduğunu gösterir. Tıpkı anne babası gibi O da, eski dünyada kristalleşmiş ortodoks Yahudiler’den ileridedir. Öyle olmasaydı onlar, eski zincirleri kırma ve Amerika’ya göç etme düşüncesini kavrayamazlardı. Bu yüzden Amerika’da doğmuş olan Yahudi, daha sonra halkının takip edeceği yolu hazırlayan bir öncüdür. 
+
+Böylelikle görebiliriz ki Kutsal Kitap, Yahudi Irkının Eski Ahit’te kaydedilmiş korkunç kaderinden örnek alması ve Yeni Ahit’ten İsa’nın öğretilerine göre yaşamayı öğrenmesi ve bedenini Kardeşlik ve Sevgi’nin sunağına canlı bir kurban olarak sunması için özellikle Batı insanının gereksinim duyduğu öğretileri içerir. 
+
+### <h3 id="chapter-14">14. Bölüm: Yaratılışın Okült Analizi</h3>
+
+#### <h4 id="limitations-of-the-bible">Kutsal Kitap’ın Kısıtlamaları</h4>
+
+13. Bölüme kadar İncil, nispeten az referans gösterildi. Fakat şimdi dikkatimizi belli bir süreliğine onun üzerinde yoğunlaştıracağız. Ancak bununla (günümüzde genellikle bilinen biçimde) Tanrı’nın sanki bir tek gerçek ve vahyedilmiş kitabı imiş gibi İncil’in savunulması amaçlanmamıştır. Yine de şu bir gerçektir ki İncil, çok değerli okült bilgiler içermektedir. Bu bilgiler, büyük oranda ana metnin arkasına gizlenmiştir ve sonradan eklenen ve doğruluğu şüpheli olan (“apocryphal”) kısımların metne ilavesiyle karartılmıştır. Kastedilen anlamı bilen okült bilgin, elbette ki hangi parçaların orijinal ve hangilerinin sonradan ekleme olduklarını kolaylıkla görebilir. Ve de birinci bölüm olan Yaratım Bölümü’nü sahip olduğumuz en iyi çeviriyle ele alırsak görürüz ki, bu bölüm, bu eserin ilk kısmında açıklanmış olanla aynı evrim plânını ortaya çıkarmıştır. Ve de ilk kısımda Evreler, Devirler ve Irklar vs’ye ilişkin okült bilgilerle tam uyumludur. Verilmiş olan anahatlar çok kısa ve rafine bilgilerdir ve bir Evre’nin tamamını birkaç kelimeyle ifade etmiştir. Ancak yine de anahatlar vardır. 
+
+Bir analize başlamadan önce şunu söylemek zorunludur ki, İbrani dilinin kelimeleri, özellikle eski stilden olanları, içiçe geçmişlerdir ve bizim dillerimizde olduğu gibi ayrı değildirler. Buna ek olarak İbranice’de sesli harfler kelimelerde yazılmamaktadırlar[45]. Bu yüzden de metin, okunuşunda sesli harflerin nereye ve nasıl konulacağına çok bağlıdır. İlk anlamı kesin bir şekilde tespit etmenin zorluğunun ne kadar büyük olduğu da gösterilecektir. Ufak bir değişiklik, neredeyse her cümlenin anlamını değiştirebilir. 
+
+Bu büyük zorluklara ek olarak, İngiltere ve Amerika’da en yaygın olan Kral James versiyonunu yazan 47 İncil çevirmeninden yalnızca üçünün İbranice bilgini olduğunu ve bunlardan ikisinin Mezmurlar çevrilmeden önce öldüğünü gözönüne alalım. Şuna da dikkat edelim ki, çevirmenin çevirisine ancak, o zamanda varolan inançtan sapmadığı veya onu rahatsız etmediği sürece çeviri izni verilmiştir. Bu yüzden, balirttiğimiz kitapta tam bir çeviri şansının aslında çok küçük olduğu açıktır. 
+
+Almanya’da da koşullar, yukarıda anlatıldığından daha iyi değildi. Zira burada da Martin Luther tek çevirmendi. O bile çevirisini orijinal İbranice’den değil sadece Lâtince’den yapmıştı. Kıta ülkelerindeki Protestanlar tarafından günümüzde kullanılan versiyonların çoğu, Luther çevirisinin farklı dillere tercümelerinden başka bir şey değildir. 
+
+Metinde sonradan düzeltmeler yapıldığı doğrudur, ancak bunlar metinde büyük iyileştirmeler sağlamamıştır. Bunun dışında Kuzey Amerika’da Kral James versiyonunun İngilizce metninin, sanki İncil orijinalinde İngilizce yazılmış gibi başından sonuna kadar mutlak doğru olduğunda ısrar eden pek çok insan vardır. Yine de hataları yoketmeye yönelik tüm çabalara karşın hatalar hâlâ onun içinde mevcuttur. 
+
+Ayrıca şunu da not etmek gerekir ki, İncil’i ilk olarak yazmış olanların hakikati, herkesin okuyabileceği ölçüde birtek anlamlı bir şekilde vermek gibi bir amaçları yoktu. “Tanrı’nın açık kitabını” yazmak onlara her şeyden uzaktı. Zohar’ı yazmış olan büyük Okültistler, bu noktaya çok önem veriyorlardı. Aşağıdaki alıntıdan da görülebileceği gibi Torah’ın[46] sırları herkes tarafından anlaşılmamalıydı: 
+
+“Tora’da (Yasa’da) sadece basit hikâyeleri ve alışıldık sözleri gören insanın vay haline! Çünkü gerçekte böyle olsaydı, Tora’dan çok daha takdire layık bir Tora’yı bugün de oluşturabilirdik. Fakat Tora böyle değildir. Tora’nın her bir kelimesi yüce bir anlam ve büyük bir sır içerir. (...) Tora’nın bildirdikleri onun elbisesidirler. Tora’nın elbisesini Tora’nın kendisi kabul edenin vay haline! (...) Basit kişiler Tora’nın sadece giysisini ve hikâyelerini fark eder. Ve onlar, başka bir şeyi bilmezler. Onlar, giysinin altında ne olduğunu görmezler. Daha bilgili kişi ise giysiye değil, onun altındaki bedene dikkat eder.” 
+
+Yukarıdaki kelimelerde mecazi anlamlar net bir şekilde belirtilmiştir. Paul da, İbrahim’in hikâyesi ve onun Sara ve Hacer’den olan iki oğlunun tamamen mecaz olduğunu apaçık bir şekilde söylemiştir (Gal 4, 22-26) Birçok pasaj örtülüdür, diğerleri ise kelimesi kelimesine alınması gereken pasajlardır. Ve okült anahtara sahip olmayan hiç kimse, genelde çok çirkin bir örtüde saklanmış olan derin gerçeği bulamaz. 
+
+Halk yığınlarının okült gerçeklerle ilişki kurmasına izin verildiğinde bu derin sırlarla ilgili olarak sır saklama ve benzetmelerle konuşma, İsa’nın uygulamalarında da görünmektedir. O, sadece Havarilerine derin anlamları gizlice açıklamıştır. Birçok defa da bu sırlarla ilgili olarak konuşmamaları konusunda onları uyarmıştır. 
+
+Paul’un yöntemleri de bununla uyumludur. O, inançtaki “süt”ü, yani temel öğretileri “bebekler”e vermiş; “et”i, yani daha derin öğretileri ise onları anlamaya ve algılamaya hak kazanmış olanlara saklamıştır. 
+
+Yahudi Kutsal Kitab’ı ( Eski Ahit) aslında İbranice olarak yazılmıştır, fakat bugün bu ilk yazılardan bir satıra bile sahip değiliz. M.Ö. 280 yıllarında bilinen en eski Yunanca çeviri olan Septuagint meydana getirildi. İsa’nın zamanında bile neyin orijinal, neyin sonradan ekleme sayılması gerektiği konusunda çok büyük karışıklık ve görüş ayrılığı vardı. 
+
+Ancak Babil sürgününden dönüşten sonra yazıcılar, ilk defa farklı yazıları biraraya getirmeye başladılar. Talmud ilk defa M.S. 500 yılında ortaya çıktı. Bu kitap, şimdikine benzeyen bir metin içeriyordu. Ancak o, yukarıdaki olgulardan ötürü mükemmel olamadı. 
+
+Bundan sonra Talmud, M.S. 590’dan 800’e kadar süren bir dönemde özellikle Tiberias’da gelişen Masorete okulu tarafından ele alındı. Büyük ve yorucu bir çalışmayla bizim şu anda sahip olduğumuz orijinal metne en yakın İbranice bir Eski Ahit meydana getirildi. 
+
+Bu masoterik metin, Yaratım’ın[47] (Genesis) aşağıdaki açıklamasında kullanılacaktır ve sadece bir tek çevirmenin eserine bağlı kalınmaksızın üç seçkin ibrani bilgin olan H. Arnheim, M. Sachs, Jul. Fürst ve bunlarla işbirliği içinde çalışmış olan Dr. Zunz’un birlikte meydana getirdiği Almanca çeviriden de yararlanılacaktır. 
+
+#### <h4 id="in-the-beginning">Başlangıçta</h4>
+
+Daha önce de belirtildiği gibi İbranice metnin anlamı, sesli harflerin farklı biçimlerde metne konmasına ve cümlede kelimelerin ayırılmasına göre tamamen değişebilmektedir. İncil’deki Yaratım (Genesis) bölümünün birinci cümlesi buna çok iyi bir örnektir. 
+
+Bu cümlenin bilinen iki farklı okunma şekli vardır. Birisi: “Başlangıçta Tanrı, gökleri ve yeri yarattı”. Diğer anlam ise: “İkiz enerji, (uzayda) daima varolan öz’den, ikiz göğü biçimlendirdi”. 
+
+Bu iki anlamdan hangisinin doğru olduğu hakkında çok şey söylendi ve yazıldı. Buradaki zorluk, insanların sabit ve belirli bir şey istemelerinden kaynaklanmaktadır. Onlar, bir açıklama doğru ise diğer tüm açıklamaların yanlış olması gerektiği gibi bir bakış açısına sahiptirler. Fakat bu kesinlikle insanı, çok taraflı ve çok düzeyli olan hakikate götüren yol değildir. Her okült gerçeğin farklı bakış açılarından incelenmesi gerekir. Her bir bakış açısı gerçeğin belli bir evresini sunar. İncelenen konuyu tam ve kesin olarak idrak edebilmek için onların hepsi gereklidir. 
+
+Bu cümlenin ve Tevrat’taki başka birçok cümlenin birden fazla anlama sahip olabilmesi olgusu bile inisiye olmamış kişi için kafa karıştırıcıdır. Fakat bu olgu, anahtara sahip olanlar için, Tevrat’ın vahyi ile dolmuş olan mucizevi Zekâ’ların aşkın bilgeliğinin bir kanıtı olarak aydınlatıcıdır. Sesli harfler onun içine konulmuş olsalar ve kelimeler birbirlerinden ayrılmış olsalardı, Tevrat’ı okumanın sadece tek bir yolu olacaktı ve bu görkemli ve yüce sırlar onların ardında gizlenmiş olamayacaklardı. Böyle bir üslup, eğer onu yazanlar Tanrı’nın “açık” kitabını yazmayı amaçlamış olsalardı uygun bir yöntem olabilirdi. Fakat onların amaçları bu değildi. Bu kitap sadece inisiye kişiler için yazıldı ve ancak sadece onlar tarafından kavranarak okunabilir. Anlamı tek ve açık bir kitap yazmak, anlamı gizli bir kitap yazmaktan çok daha basit olurdu. Hiçbir çaba harcanmazdı, ancak zamanı geldiğinde sadece onu hakedenlere bilgi vermek ve haketmeyenlere de gerçeği saklı tutmak mümkün olmazdı. 
+
+#### <h4 id="the-nebular-theory">Nebula Teorisi</h4>
+
+Güneş Sistemimizin yaratımı ve evriminin ışığı altında incelendiğinde, Yaratım Kitabı’ndaki başlangıç cümlesinin her iki anlamının da konunun anlaşılması için gerekli olduğu görülür. Bu anlamlardan ilki bize, evrimimizin bir başlangıcı olduğunu ve bu başlangıçta göklerin yaratıldığını söyler; diğer anlam da göklerin ve yerin, materyalistlerin alaycı bir şekilde dikkat çektikleri gibi yoktan değil de “hep varolan bir özden (essence)” yaratıldığını ekleyerek birinci anlamı tamamlar. Kozmik Kök-madde biraraya toplandı ve harekete geçirildi. Dönen kitlenin ataleti sonucu oluşan halkalar, merkezdeki parçadan ayrıldılar ve modern bilimadamının olağanüstü zekasıyla ortaya çıkardığı gibi gezegenleri vs oluşturdular. Okült ilim ve modern bilim, işleyiş yöntemi bakımından tam bir uyum içerisindedirler. Şimdi gösterileceği gibi bu tespitlerde iki teorinin uyum içinde olmadığını gösteren hiçbir şey yoktur. Okült ilim der ki, Tanrı oluşum sürecine ilk hareketi vermiştir ve sistemi sürekli olarak belli bir yolda götürmektedir. Modern bilimadamı aptalca gördüğü bu fikri reddeder ve Tanrı’yı bunun için kabul etmenin gerekli olmadığını ispatlamak için içi su dolu bir kap alır. Bu kaptaki suya biraz yağ döker. Su ve yağ, mekânı ve alev bulutunu simgelemektedir. Sonra da yağı, bir iğne vasıtasıyla daireler çizerek döndürmeye başlar. Yağ, küre biçimli bir form alır ve bunun Merkezi Güneş olduğunu söyler. Yağ küresini çevirmeyi hızlandırdığında küre, Ekvator’dan bölünür ve kendisinden dışarıya halka biçiminde bir yağ parçası atar. Bu halka parçalanır, parçalar birleşmeye başlarlar ve tıpkı Güneş’in etrafında dönen bir gezegen gibi merkezi yağ parçasının etrafında dönen daha küçük bir küre oluştururlar. Sonra da acıma dolu bir bakışla okült bilgine sorar: “Ne olduğunu görmüyor musunuz? Bunu yapmak için Tanrı’nıza ya da doğaüstü herhangi bir güce gerek yok!” 
+
+Okült kişi, bir Güneş Sisteminin buna benzer bir şekilde oluşabileceğini kolayca kabul eder. Fakat şuna da çok şaşırmıştır ki, Kozmik güçlerin çalışmasını bu kadar kesinlikle bilecek kadar açık bir sezgiye ve bu muazzam teorinin dahice bir örneğini gösterecek derecede akla sahip olan bir kişi, aynı zamanda, verdiği örnekte kendisinin Tanrı rolünü oynadığını görmemektedir. Öylece bırakılsaydı sonsuza dek atıl ve şekilsiz kalacak olan yağı, suyun içine döken onun gücüdür. Yağın, Güneş’i ve gezegenleri simgelediği şekle dönüşmesine neden olan da odur. Bir Güneş Sistemi oluşturmak için Kozmik madde üzerinde çalışan ve Üçte Tek Olan (Triune) Tanrı’yı mucizevi bir şekilde Yağ, su ve güç kullanarak anlatan bu deneyi oluşturma fikri de onundur. 
+
+Tanrı’nın özellikleri, İrade, Bilgelik (Hikmet) ve Faaliyet’tir (Şekil 6’ya bakınız ve burada “Tanrı” isminin bu terminolojide ne anlama geldiğine dikkat ediniz). Bilimadamının, deneyi yapma İradesi vardır. Onun ustalığı, deneyi tamamlamak için izlenmesi gereken yolu ve olması gereken gereçleri bulur. Bu ustalık, Tanrı’nın ikinci özelliği olan Bilgeliğe denk gelir. Eylemi gerçekleştirebilmek için onun aynı zamanda kas gücüne de ihtiyacı vardır, bu da Tanrı’nın üçüncü özelliği olan Faaliyet’e denk gelir. 
+
+Dahası evren, bir kere harekete geçirildiğinde herhangi bir iç sebep ve yol gösterici güç olmaksızın kendi kendine sürekli çalışan muazzam bir hareket-makinesi değildir. Bu aynı zamanda bilimadamının deneyinde de ispatlanmıştır ki, yağ topunun döndürülmesi bırakıldığı anda minyatür gezegenlerin hareketi de aynı şekilde durmakta ve her şey tekrar, suda yüzen şekilsiz bir kütleye dönüşmektedir. Eğer Tanrı da aynı şekilde her şeyi saran ilgisini ve yaşatıcı faaliyetini bir an durdurursa Evren bir anda “ince uzayda” çözülüp gider. 
+
+Yaratımın ikinci anlamı, biçimlendirici ikiz enerji tanımıyla dikkate değerdir. Bu anlam Tanrı’nın üçte tek olduğunu (triune) belirgin bir biçimde vurgulamaz. O, okuyucunun bu bilgiye sahip olduğunu kabul eder. Ve de bir evrenin biçimlendirilmesinde yalnızca iki gücün etkin olduğunu söyleyerek kesin hakikati belirtir. 
+
+Üçte Tek Olan Tanrı’nın birinci görünümü ( aspect), yaratım için İrade’yi ortaya koyduğunda bu, gelecekteki evren için bir plan tasarlamak amacıyla ikinci görünüm olan Bilgeliği uyandırır. Bu ilk tezahür gücü Hayalgücü’dür (imagination). Bu birincil Yaratım Gücü bir evren Fikrini tasarladığında üçüncü görünüm olan Faaliyet, Kozmik madde üzerinde çalışarak Hareket’i meydana getirir. Bu, Gücün ikinci tezahürüdür. Ancak tek başına Hareket yeterli değildir. Bir âlemler sistemi oluşturmak için bu, düzenli bir hareket olmalıdır. Bu yüzden belli sonuçlar elde etmek amacıyla Hareketi zeka ile yönetmek için Bilgelik gereklidir. 
+
+Böylelikle Yaratım’ın ilk cümlesinde şu anlamı buluruz: Başlangıçta Kozmik Kök- maddedeki düzenli ve ritmik hareket, evreni biçimlendirdi. 
+
+#### <h4 id="the-creative-hierarchies">Yaratıcı Hiyerarşiler</h4> 
+
+Açılış cümlesinin ikinci yorumu, ikiz enerjiden bahsederek bize aynı zamanda Tanrı hakkında daha yetkin bir fikir verir. Bu ilk cümle, Tanrı’nın Bir Rûhu’nun, tezahürü sırasındaki pozitif ve negatif taraflarına işaret eder. Okült ilim öğretisiyle uyumlu olarak burada Tanrı, birleşik bir Varlık olarak gösterilir. Bu fikir, aynı bölümdeki diğer ayetlerde de vurgulanır. 
+
+Bizim evrimimizde gönüllü olarak çalışmış olan Yaratıcı Hiyerarşilere ek olarak bizim evrimimize ait olan ve Tanrı ile birlikte evrenin inşasında çalışan yedi Hiyerarşi daha vardır. Yaratım’ın ilk cümlesinde bu Hiyerarşiler “Elohim” olarak adlandırılırlar. Bu isim, ikiz ve çift cinsiyetli bir Varlık grubunu ifade eder. Kelimenin birinci kısmı “Eloh”dur ve bu, dişil bir isimdir. Kelimenin sonundaki “h”, cinsiyeti belirtir. Sadece bir tek dişi Varlık kastediliyor olsaydı, “Eloh” kelimesinin kullanılması gerekirdi. Dişil çoğul takısı “oth”dur. Eğer dişi cinsiyete sahip bir dizi Tanrıça’dan bahsediliyor olsaydı o zaman da kullanılması gereken kelime “Elooth” olmalıydı. Bu formların yerine dişil isim olan “Eloh”a eklenmiş olan eril çoğul takısını görmekteyiz. Elohim, bir dizi eril ve dişil, yani çift cinsiyetli varlığı tanımlamaktadır. Onlar, ikiz bir yapıya sahip olan pozitif- negatif yaratıcı enerjinin ifadesidirler. 
+
+Bölümün sonraki kısmında yine Yaratıcıların çoğulluğuna işaret edilir. Şu sözler Elohim’e atfedilmektedir: “İnsanı kendi suretimize benzer yapalım”. Bundan sonra da çelişkili biçimde eklenir: “O onları erkek ve dişi olarak yarattı”. 
+
+Çevirmenler burada (kesinlikle sadece çoğul bir kelime değil, hem erkek ve hem de dişi bir kelime olan) kafa karıştırıcı Elohim’i cinsiyetsiz tekil kelime olan “Tanrı” ile aynı anlamlı kabul ettiler. Eğer anlamı bilselerdi bile, bu anlamı yazabilirler miydi? Varolan fikirleri rahatsız etmek onlara yasaktı. Kral James ne pahasına olursa olsun gerçeği değil barışı istedi ve onun tek derdi, krallığında bir rahatsızlık yaratabilecek herhangi bir tartışmadan kaçınmaktı. 
+
+İnsanın yaratımı anlatılırken çoğul olan “onlar” kelimesi de kullanılır ve bununla insan türü olan ADM’nin yaratımının kastedildiği açıktır, yoksa bir birey olan Âdem kastedilmemiştir. 
+
+(Alev’in Efendileri, Kerrubim, Seraphim ve özgürleşmiş olan iki isimsiz Hiyerarşi ile birlikte) altı yaratıcı Hiyerarşinin bâkir ruhlara yardım ettiklerini gösterdik. Bu bâkir ruhların kendileri de yedinci bir Hiyerarşi oluştururlar. 
+
+Kerrubim ve Seraphim’in Form’un yaratımıyla ilgileri yoktu, bu yüzden yaratımın Form tarafının anlatıldığı önceki bölümde onlardan bahsedilmedi. Burada yalnızca insana, yoğun bir fizik Form edindiği noktaya kadar rehberlik eden yedi Yaratıcı Hiyerarşiden bahsedilmiştir. Böylece onun ruhu, bu fizik Form’un içinde ve onun aracılığıyla çalışabilecekti. 
+
+Yaratım işinin her kısmının açıklanmasından sonra şöyle söylenir: “ve Elohim bunun iyi olduğunu gördü”. Bu ifade yedi defa söylenir, son söylenişi ise altıncı günde insan Formu’nun yaratılmasından sonradır. 
+
+Yedinci günde “Elohim’in dinlendiği” söylenmiştir. Bu, bizim okült öğretilerimizin şimdiki Evre’ye kadar olan evrim çalışmasında Yaratıcı Hiyerarşilerden her birinin üzerine aldığı kısımla tam uyum içindedir. Yine öğretilmektedir ki, şimdiki Çağımızda Tanrılar ve yaratıcı Hiyerarşiler insanın, kendi kurtuluşuna çalışabilmesi için aktif katılımdan çekilmişler ve de sıradan insanlık için gerekli olan yol göstermeyi de şu anda insan ile Tanrılar arasında aracı olan “Büyük Biraderler”e bırakmışlardır. 
+
+#### <h4 id="the-saturn-period">Satürn Evresi</h4>
+
+Okült ilmin açıkladığı, Güneş Sistemimizin başlangıcı ve yaratıcı Hiyerarşilerin çalışmasının İncil öğretileriyle uyumlu olduğuna ikna olduktan sonra şimdi de İncil’in farklı “yaratım günleri” hakkındaki açıklamasını inceleyelim ve de bu günlerin, Satürn, Güneş, Ay Evreleri ile Yer Evresi’nin üç buçuk Devri ve Kutup, Uzak-kuzey (Hyperborean), Lemurya ve Atlantis Çağları ile nasıl uyumlu olduklarını görelim. 
+
+Doğal olarak Yaratım’ın ilk bölümünde olduğu gibi birkaç satırda detaylı bir tarif verilememiştir. Fakat ana noktalar düzenli bir sırada bulunmaktadırlar ve Yaratım için bir cebir formülüne çok benzerler. 
+
+(İngilizce Kral James çevirisinde) ikinci âyet şöyledir: “Yer boş ve ıssızdı. Derinliğin yüzü karanlıkla kaplıydı; ve Elohim’in ruhları derinliğin üzerinde yüzüyordu”. Tezâhür’ün başlangıcında şimdiki Yer, Satürn Evresi’nde bulunuyordu. Onda, bu Evre’yi anlatırken belirttiğimiz koşullar hüküm sürüyordu. Yer, Kral James çevirisinde belirtildiği gibi “Formsuz ve boş” değildi. O, çok sıcaktı ve bu yüzden belli bir bölgeye sınırlanmıştı ve soğuk olan uzayın derinliklerinden ayrılmıştı. Onun karanlık olduğu doğrudur, fakat o, hem karanlık ve hem de sıcak olabilir. Çünkü “karanlık” ısı muhakkak ki parlak ya da görünür ısıdan önce gelir. Satürn Evresi’ndeki bu karanlık Yer’in üzerinde yaratıcı Hiyerarşiler yüzüyordu. Onlar dışarıdan onun üzerinde çalıştılar ve yeri biçimlendirdiler. İncil onları, “Elohim’in Ruhları” olarak adlandırır. 
+
+#### <h4 id="the-sun-period">Güneş Evresi</h4>
+
+Güneş Evresi üçüncü âyette iyice anlatılmıştır: “Ve Elohim konuştu: “Işık olsun, ve Işık oldu”. Burası ile en gülünç zırva diye alay edildi. Küçümseyici bir edayla, ‘Güneş ancak dördüncü Günde yaratılmışken nasıl ışık olabildi’ diye soruldu. Ancak İncil’deki anlatıcı yalnızca Yer’den bahsetmemektedir. O, merkezi “ateş bulutsu”sundan bahsetmektedir. Ki bu “ateş bulutsu”sundan Güneş sistemimizin Yer de dahil tüm gezegenleri oluşmuştur. Böylece bulutsu, Güneş Evresi’nde olduğu gibi yanan ısı durumuna ulaştığında dışarıdan aydınlatma zorunluluğu ortadan kalktı, çünkü ışık artık içerideydi. 
+
+Dördüncü âyette şunu okuruz: “Elohim ışıkla karanlığı birbirinden ayırdı”. Elbette yanan bulutsunun bulunduğu Güneş Evresi’ndekinin aksine dış uzay karanlıktı. 
+
+#### <h4 id="the-moon-period">Ay Evresi</h4>
+
+Ay Evresi altıncı âyette şöyle tarif edilir (Kral James çevirisi): “Ve Elohim dedi, suyu sudan ayırmak için bir kubbe olsun”. Bu cümle tam olarak Ay Evresi’ndeki durumu tarif etmektedir. Bu Evre’de parlayan ateş bulutsusunun (fire nebula) sıcaklığı ve dış uzayın soğukluğu, ateş çekirdeğin etrafında bir su kütlesi oluşturmuştur. Ateş ve Suyun teması, genleşmiş su olan ve âyetimizde de belirtilen buharı üretti. Bu buhar, dışarı akan buhar akımı sebebiyle sürekli olarak sıcak, alevli çekirdeğe doğru çekilen ve buhara göre daha soğuk olan sudan farklıydı. Böylece havada asılı gibi duran bir kütlenin oluşmasına yolaçan kesintisiz bir su dolaşımı meydana geldi. Genleşme ile bir gök veya bir kubbe ya da “alev sisi”nden bir atmosfer meydana geldi. Buhar ateşli çekirdekten dışarı kaçarken dış uzayla temas sonucu yoğunlaşıyor ve tekrar ısınmak üzere çekirdeğe geri dönüyordu. Bu böyle döngüsel olarak devam ediyordu. Böylece İncil’de belirtildiği gibi iki çeşit su ve aralarında bir ayrım vardı. Yoğun su, ateş çekirdeğe daha yakındı ve genleşmiş su ya da buhar daha dıştaydı. 
+
+Bu aynı zamanda modern zamanların bilimsel teorisi ile de uyuşmaktadır. Önce karanlık ısı, sonra yanan bulutsu ve daha sonra da dışta nem, içte sıcaklık; en sonunda da kabuk bağlama. 
+
+#### <h4 id="the-earth-period">Yer Evresi</h4>
+
+Bundan sonra da Yer Evresi tarif edilmiştir. Ancak bu tarife bakmadan önce biraz tekrarlamalarla (recapitulation) ilgilenmemiz gerekiyor. Aktardığımız âyetler ve verdiğimiz açıklamalar aynı zamanda tekrarlama Devirlerle de uyuşmaktadır. Bu yüzden Satürn Evresi’ne ilişkin olarak söylenen koşullar aynı zamanda, herhangi bir Dinlenme Evresi’nden çıkan Sistemin koşullarıdır. Satürn, Güneş ve Ay Evreleri ile ilgili açıklamalar bu yüzden şimdiki Yer Evremizin ilk üç Devri için de geçerli olacaktır. 
+
+Dokuzuncu âyette şunu okuruz: “Ve Elohim dedi, sular kuru topraktan ayrılsın, (...) ve Elohim kuru alana Yer adını verdi”. Bu, ilk katı kabuk bağlamayı ifade etmektedir. Sıcaklık ve nem şimdiki Dünya’mızın katı bedenini meydana getirmişlerdir. 
+
+Kutup Çağı. Yer Evresi’nin Dördüncü Devrini anlatan ( ki bu Evre’nin asıl çalışması dördüncü devirde başlamıştır ) dokuzuncu âyet aynı zamanda Maden Krallığının oluşumunu ve Kutup Çağı’ndaki insanın maden aşamasında bunu tekrarlamasını anlatmaktadır. Her Çağ aynı zamanda önceki aşamanın bir tekrarıdır. Tıpkı Küre’lerin, Devir’lerin ve Evre’lerin herbirinin tekrarı olduğu gibi, her Küre’de geçmiş her şeyin tekrarı da vardır. Bu Tekrarlamalar sonsuzdur. Her zaman bir spiral içinde başka bir spiral vardır, atomda, Küre’de ve evrimin diğer bütün aşamalarında. 
+
+İlk başta karmaşık ve şaşırtıcı görünseler de aslında anlaşılmaları o kadar zor değildir. Tümünü kapsayan düzenli bir şema vardır ve kişi zamanla bu şemanın çalışmasını kavrayıp, tıpkı labirentteki bir izi takip eder gibi onu takip edebilir. Benzerlik (analogy), evrimi anlamadaki en iyi yardımcılardan biridir. 
+
+Uzak-kuzey Çağ, 11 ila 19. âyetler arasında dördüncü Gün’ün işleri olarak anlatılmıştır. Bu âyetlerde Elohim’in Bitki Krallığını, Güneş’i, Ay’ı ve yıldızları yarattığı kaydedilmektedir. 
+
+İncil, bitkilerin madenlerden sonra geldiği konusunda modern bilimle uyuşmaktadır. İki öğreti arasındaki fark, Yer’in merkez kütle’den atıldığı zamandır. Bilim bu olayın, maden ve bitki olarak adlandırılabilecek herhangi bir kabuğun oluşumundan önce olduğunu iddia eder. Eğer günümüzdeki maden ve bitkileri kastediyorsak bu iddia doğrudur. Orada yoğun bir madde yoktu, fakat merkezi Güneşte meydana gelen ilk kabuk oluşumu madenseldi. İncil anlatıcısı yalnızca en temel olayları vermektedir. Merkezi kitleden kopartılıp atıldığında bir yüzük formunu aldığı, sonra parçalandığı ve en sonunda da parçaların küre şeklinde eridiği İncil’de anlatılmamaktadır. Yer kadar küçük bir kütlede yeniden kristalleşme süresi, tarihçinin anmasına değmeyecek kadar kısaydı. Ay, Yer’den atıldığında ikinci bir kez daha meydana gelen ve ikincil bir olay olan erime işleminden de İncil anlatıcısı bahsetmemektedir. Muhtemelen o, okült bilgi edinmeyi hakeden bir kişinin bu gibi küçük detayları bildiğini kabul etmiştir. 
+
+Merkezi ateş kütlesinin kabuk bağladığı zamanda bitkiler henüz eterikti. Bu yüzden erime işlemi onları yoketmedi. Yer kristalleştiğinde güç çizgileri ( ki suda bulundukları hatlar boyunca buz kristalleri oluşur) üzerindeki hatlar boyunca bitki formları oluştu. Bu Formlar, yoğun maddeyi üzerlerine çekerek günümüz bitki bedenlerini ve Yerkürenin katmanları içine gömülmüş olan geçmiş bitki bedenlerini oluşturdular. 
+
+Yer’in Güneş’ten ve Ay’dan ayrılmasından sonra Yer’e dışarıdan gelen sıcaklık, bu eterik bitki-formlarının daha da gelişmesine yardım etti. Bu sıcaklık, daha da yoğun maddeleri kendilerine çekebilmeleri için onlara yaşam enerjisini verdi. 
+
+Lemurya Çağı beşinci günün işi olarak anlatılmaktadır. Bu üçüncü Çağ, bir anlamda Ay Evresi’nin bir tekrarıdır. Ve İncil’in öyküsünde Ay Evresi’nde bahsedilmiş olan su, ateş bulutsusu ve hareket eden ve nefes alan Yaşam’ın ilk çabaları yeralır. 
+
+20. ve 21. ayetler bize şöyle der: “Elohim dedi, Su’da canlı varlıklar oluşsun, (...) ve kuşlar (...) ; ve Elohim hem suda hem de karada yaşayabilen büyük varlıkları (amphibian), türlerine göre tüm canlıları ve kanatlı tüm kuşları yarattı.” 
+
+Bu aynı zamanda maddi bilimin, hem suda hem de karada yaşayabilen büyük varlıkların kuşlardan önce geldiğini belirten öğretisiyle uyuşmaktadır. 
+
+Öğrencinin özellikle şuna dikkat etmesi istenmektedir ki, oluşturulan şeyler yaşam değildiler. Fakat bu, yaşamın yaratıldığı anlamına gelmez, aksine nefes alan veya yaşamı soluyan “şeyler” yaratılmıştır... İbranice’de soluk almak anlamında kullanılan kelime nefeş’tir (arapça nefes). Bu kelime dikkatle not edilmelidir, çünkü onunla daha sonra başka bir biçimde tekrar karşılaşacağız. 
+
+Altıncı günde Atlantis Çağı’ndan bahsedilir. 24. ayette memelilerin yaratımı anılır. Ve burada ‘nefeş’ kelimesi, memelilerin “yaşamı soluduğu” açıklamasıyla geçer. “Elohim dedi; Yer, yaşam soluyan varlıklar meydana getirsin (...) memeliler (...)” ve 27. ayette “Elohim insanı kendi suretinde yarattılar; onu erkek ve dişi yaptılar.” 
+
+İncil tarihçisi burada cinsiyetsiz ve çift cinsiyetli (hermafrodit) insan aşamalarını atlamakta ve doğrudan onun şimdi bildiğimiz iki ayrı cinsiyetli aşamasına geçmektedir. O, bunu yapmak zorundaydı çünkü Atlantis Çağı’nı betimliyordu. O zamanda ne cinsiyetsiz insanlar ve ne de çift cinsiyetli insanlar vardı. Çünkü cinsiyetlerin ayrımı daha önce Lemurya Çağı’nda meydana gelmişti. Daha sonra insan olacak olan varlığı, gelişiminin daha önceki evrelerinde insan olarak adlandırmak zordu, çünkü hayvanlardan çok az farkı vardı. Bu yüzden İncil anlatıcısı, insanın Atlantis Çağı’nda oluşturulduğunu belirttiğinde onun gerçekleri zorlamış olduğu söylenemez. 
+
+(Tüm çevirilerde) 28. ayette çok büyük anlama sahip olan küçük bir önekle karşılaşırız: “Elohim dedi, verimli OLUN ve Yer’i TEKRAR doldurun.” Bu açıkça göstermektedir ki, bunu yazan kişi burada, yani Yer Evresi’nin D Küresi’nde bulunan yaşam dalgasının önceki Devirlerde önceden geliştiğini bildiren okült öğretiden haberdardı. 
+
+Âri Çağı, Yaratım’ın yedinci gününe denk gelmektedir. Bu günde Elohim, Yaratıcılık ve Liderlik işlerinden sonra dinlenmişler ve insanlık, bağımsız bir döneme başlamıştır. 
+
+Bu, Formların yaratıldığı hikâye sunumunu sonlandırır. Önümüzdeki bölümde aynı hikâyeyi, daha çok Yaşam tarafıyla ilgilenen bir bakış açısından ele alacağız. 
+
+#### <h4 id="jehovah-and-his-mission">Yehova ve Misyonu</h4>
+
+1. bölümdeki Yaratılış hikâyesi ile 2. bölümün 4. âyetiyle başlayan kısım arasındaki çelişki ve özellikle de bunların yazarları hakkında birçok ilmi tartışma meydana gelmiştir. Bu iki bölümün farklı kişiler tarafından yazıldığı tespit edilmiştir. Çünkü çevirmenlerin birinci ve ikinci bölümde diğer dillere “Tanrı” olarak tercüme ettiği Varlık ya da Varlıklar, İbranice metnin birinci bölümünde “Elohim”, ikinci bölümde de “Yehova” olarak adlandırılmışlardır. Bunun için aynı yazarın Tanrı kelimesi için iki farklı sözcük kullanmayacağı savunulmuştur. 
+
+Yazar her iki durumda da aynı Tanrı’yı kastetmiş olsaydı bile, muhtemelen yine farklı sözcükler kullanacaktı. Fakat o Tektanrıcı (Monotheist) değildi. O herhâlde Tanrı’yı basitçe, göğü taht ve yeri de ayak iskemlesi olarak kullanan üstün bir insan olarak düşünemeyeceğini biliyordu. Yehova hakkında yazarken de, Yaratım işinin özel bir kısmının sorumluluğu kendisine verilmiş ve belirtilen bölümde anlatılmış olan Lideri kastediyordu. Yehova, Elohim’den biriydi ve halen de onlardan biridir. O, Ay Evresi’nde insan olan Meleklerin Lideriydi ve bizim Ay’ımızın Hükümdarıdır. Yehova’nın konumunu ve bileşimini daha iyi anlamak için okuyucu Şekil 14’e başvurmalıdır. 
+
+O, bizim Ay’ımızın Hükümdarı olarak oradaki yozlaşmış kötü varlıkları kontrol etmekte ve melekleri de yönetmektedir. O’nunla birlikte Güneş Evresi’nin insanlığı olan Yüce Melekler’den bazıları da bulunmaktadır. Bunlar, “Irk Ruhları”dırlar. 
+
+Yehova’nın işi, katılaştırıcı, kristalleştirici Ay güçleri aracılığıyla somut beden veya formlar yaratmaktır. Bu yüzden O, insana çocukları verendir ve bu işte Melekler, O’nun elçileridirler. Fizyologlar, hamilelikle Ay arasında çok yakın bir ilişki olduğunu çok iyi bilirler ve en azından Ay’ın, rahim içindeki yaşam evresini ve diğer fizyolojik faaliyetleri yönettiğini gözlemlemişlerdir. 
+
+Yüce Melekler’in, bir Irk’ın Ruhları ve Liderleri olarak, o ırkın evrim koşullarına göre bir halkla birlikte, ya da bir halka karşı savaştıkları bilinmektedir. Daniel 10. Bölüm 20. âyette Yüce Melek Daniel’e şöyle der: “Şimdi dönüp Pers önderiyle savaşacağım, ben gidince Yunan Önderi gelecek”. 
+
+Yüce Melek Mikail (Michael), Yahudilerin Irk-ruhudur (Daniel 12:1). Fakat Yehova yalnızca Yahudilerin Tanrısı değildir. O, Hristiyanlığa giden tüm Irk-dinlerinin kurucusudur. Yine de O’nun, şimdiki yozlaşmış Yahudilerin ataları ve Âri Çağı’nın yedi ırkı için “tohum-ırk” olan İlk Samiler’e özel bir ilgi gösterdiği doğrudur. Yehova elbette ki, yeni bir Çağ insanlığının temel yetilerini içlerine aşılayacağı tohum-ırka özel bir önem vermiştir. Bu nedenden dolayı O, İlk Samilerle özel olarak ilgilenmiştir. Onlar O’nun “seçilmiş halkı” idiler. Bu halk, yeni bir ırkın tohumu olmak üzere seçilmişti ve “Vaad edilmiş Topraklar”ı miras olarak alacaklardı. Bu topraklar, yalnızca önemsiz Filistin’den ibaret değildi ve şimdiki tüm Dünya idi. 
+
+Yehova onları Mısır’dan çıkarmadı. Bu hikâye onların torunları arasında ortaya çıktı. Bu hikâye aslında onların, sellere ve felaketlere mahkum edilmiş olan Atlantis’ten “çöle” (Orta Asya’daki Gobi Çölü) doğru kaçışlarının ve Vaadedilmiş Ülkeye girebilmeden önce çölde kabalistik kırk yıl boyunca dolaşmalarının hikâyesidir. Bu hususta “vaat edilmiş” kelimesinde özel bir ikili anlam bulunmaktadır. Bu ülke, “vaat edilmiş” olarak adlandırılmıştır, çünkü “seçilmiş halk” “çöle” götürüldüğünde yerleşim yeri olarak böyle bir yer yoktu. Yerin bir kısmı seller tarafından yutuldu, diğer kısımları da volkanik patlamalar tarafından değişikliğe uğratıldı. Yeni Yer’in Âri ırkına yurt olacak şekilde uygun koşullara sahip olması için belli bir sürenin geçmesi gerekiyordu. 
+
+İlk Samiler, izole edilmişlerdi ve diğer boylarla ya da halklarla evlenmeleri yasaklanmıştı. Ancak onlar inatçı ve zor bir halktılar. Hemen hemen tamamı arzu ve kurnazlık tarafından yönetiliyorlardı ve bu yüzden emre itaatsizlik ettiler. Onların Kutsal Kitapları, Tanrı’nın oğullarının insan kızlarıyla evlendiklerini bildirir. Burada bahsedilen insan kızları, Atlantisten düşük dereceli halklardır. Böylelikle onlar, Yehova’nın amaçlarını boşa çıkardılar ve reddedildiler. Çünkü böyle melez birleşmelerin meyveleri, gelecek Irk için tohum olarak kullanılamazdı. 
+
+Bu melez birleşmelerin meyveleri, “kayıp boylar”dan bahseden şimdiki Yahudilerin atalarıdır. Onlar, ilk sayıdan bazılarının kendilerini terk ettiklerini ve başka bir yoldan gittiklerini bilirler. Fakat bu az sayının sadık kaldıklarını bilmezler. On kayıp boy hikâyesi bir masaldır. Onların çoğu yokoldular, ancak sâdık olanlar kurtulmuşlar ve bu sâdık kalanlardan da şimdiki Âri ırkı meydana gelmiştir. 
+
+İncil karşıtlarının, İncil’in orijinal yazılarının bozulmuş olduğu iddiasına okült ilim de seve seve katılır. Ve hatta itiraf eder ki onun bazı bölümleri tamamen sahtedir. Ayrıca onun şu anda sahip olduğumuz biçimiyle tüm olarak gerçek olduğunu ispatlamak için hiçbir çalışma yapılmamıştır. Şimdiki çaba sadece, çeşitli çevirmen ve denetçiler tarafından şaşırtıcı derecede çok, saptırıcı ve yanlış yorum yığınlarının içine gömülmüş olan birkaç okült hakikat cevherini bulundukları yerden çıkarmaya çalışmaktır. 
+
+#### <h4 id="involution-evolution-and-epigenesis">Bozunum (Involution), Evrim (Evolution) ve Hücreden Yaratım (Epigenesis)</h4>
+
+Önceki paragraflarda Yehova’nın kimliğini ve gönderilişini genel yanılgıdan kurtararak açıkladıktan sonra şimdi, Yaratım’ın, insanın yaratılışını anlatan ve birbirleriyle çelişkili gibi görünen birinci ve ikinci bölümlerinin birbiriyle uyum içinde olduklarını göstermeye çalışabiliriz. Birinci bölümde insanın tüm yaşayan varlıklar içinde en son yaratılan olduğu, ikinci bölümde de ilk yaratılan olduğu yeralmaktadır. 
+
+Şunu dikkate alalım ki, ilk bölüm temel olarak Form’un yaratılmasını ele alır. İkinci bölüm ise Yaşam’ın incelenmesine ayrılmıştır. Beşinci bölüm de Bilinç ile ilgilenir. Anlamın kavranmasının anahtarı, fizik Form ile bu Formu kendi ifadesi için inşa eden Yaşam’ı ayırt etmektir. İkinci bölümde diğer krallıkların yaratılış sırası, ilk bölümdeki kadar doğru verilmemiş olsa da insanı, Yaşam açısından dikkate alırsak o, ilk olarak yaratılmıştır. Fakat onu, birinci bölümde olduğu gibi Form açısından ele aldığımızda o, en son yaratılmıştır. 
+
+Tüm evrimin seyri boyunca - Evre’ler, Küre’ler, Devir’ler ve Irklar boyunca- yeni özelliklerin oluşmasıyla daha iyi hale gelemeyenler, geri kalmışlardır ve hemen yozlaşmaya başlamışlardır. Yalnızca genişleyen bilincin kendisini ifadesi için uygun olan yeni Formlara girmede uysal ve esnek olup, yeni koşullara uyum sağlayabilenler kalmışlardır. Sadece, içine girdiği Formlarda varolan büyüme olasılıklarını değerlendirebilen Yaşam, herhangi bir yaşam dalgasının Öncüleriyle birlikte gelişebilir. Tüm diğerleri Geride Kalanlar’dan olmak zorunda kalırlar. 
+
+Bu, okült öğretinin özüdür. İlerleme, basitçe açılım; basitçe Bozunum ve Evrim demek değildir. Burada bir üçlü oluşturacak şekilde bir üçüncü faktör daha vardır: Hücreden Yaratım (Epigenesis). 
+
+İlk iki kelime, Yaşam ve Form üzerinde çalışmış herkesin bildiği kelimelerdir. Genel olarak bilinir ki, Ruhun maddeye doğru bozunumu meydana gelmiştir ki, Form inşa edilebilsin. Çok az bilinen ise şudur: Ruhun bozunumu, Form’un Evrimiyle birlikte yan yana gider. 
+
+Satürn Evresi’nin en başından Atlantis Çağı’ndaki zamana kadar, Lüsifer ruhları aracılığıyla “insanın gözleri açıldığında” bu gözler, insanın – ya da insan olmuş yaşam gücünün – faaliyetlerinin bir sonucu olarak temelde içe dönüktü. Onun demiryolları, buharlı gemiler vs yapmak için şimdi dışarıya yolladığı bu güç, bir araç yapmak üzere içte kullanıldı. O, bu araç sayesinde kendisini ifade edecekti. Bu araç da, onu inşa eden ruh gibi üçüzdür. 
+
+Şu anda kendisiyle insanın dış koşulları iyileştirmekte olduğu güç, bozunum (involution) esnasında içsel büyüme amacıyla kullanılıyordu. 
+
+Form, Evrim (evolution) tarafından yaratıldı. Ruh, bedeni yarattı ve Bozunum (involution) esnasında onun içine girdi, fakat iyileştirmeler yapma aracı Hücreden Yaratım’dır (Epigenesis). 
+
+İnsan, şimdiyi geçmişe bakarak açıklamaya meyillidir. Önceki Formlardaki tüm iyileştirmeler, sanki onlar önceden Formların içinde gizil bir vaziyette bulunuyorlarmış gibi görüldü. Evrim yalnızca tohumda varolan şeyin basitçe açılımı olarak değerlendirildi. Böyle bir anlayış, Hücreden Yaratım’ı evrimin içinden çıkardı, ona herhangi yeni bir şey inşa edilme imkânı tanımadı ve orijinalliğe bir alan bırakmadı. 
+
+Okült kişi, evrimin amacının insanın durağan bir konumdan dinamik bir Tanrı, bir Yaratıcı konumuna gelişimi olduğuna inanır. Eğer onun şimdiki gelişimi, yalnızca yetiştirilmesi olsaydı ve ilerlemesi esnasında sadece gizil olasılıkları geliştirseydi, YARATMAYI nasıl öğrenecekti? 
+
+Eğer insanın gelişimi onun sadece, Yaratıcısının zihninde önceden varolan örneklere göre hep daha iyi Formlar yapmasından ibaret olsaydı o, en iyi ihtimalle iyi bir taklitçi olabilirdi, ancak hiçbir zaman bir yaratıcı olamazdı. 
+
+Bağımsız ve orijinal bir yaratıcı olabilmesi için, yetiştirilmesinde ona yeterince hareket serbestisi bırakılmalıdır ki, yaratımı taklitten ayırt eden bireysel özgünlüğünü kulllanabilsin. Eski Formların belirli özellikleri, ilerleme için gerekli şartlara uygun oldukları sürece muhafaza edilirler, fakat her yeniden doğumda, gelişen Yaşam ona belirli orijinal iyileştirmeler de ekler. Bu da onun kendisini daha iyi bir seviyede ifade edebilmesi için gereklidir. 
+
+Bilimin öncüleri doğadaki her alanda sürekli olarak Hücreden Yaratım gerçeğiyle yüzyüze gelmektedirler. Daha 1759’da Caspar Wolf “Theoria Generationis” adlı kitabını yayınladı. O, bu kitapta göstermiştir ki, insan yumurtasında, ondan meydana gelecek olan organizmaya ait hiçbir iz bulunmamaktadır ve bu yeni organizmanın evrimi, yeni oluşumların ona eklenmesinden, yumurtada gizil olarak bulunmayan bir şeyin yaratılmasından meydana gelmektedir. 
+
+Haeckel (evrim hakkındaki tüm gerçeğin bilgisine çok yaklaşmış olan, doğanın bu büyük ve korkusuz araştırmacısı) “Theoria Generationis”e ilişkin olarak şunu söyler: “Küçük alanına ve zor terminolojisine karşın bu eser, tüm biyoloji literatüründeki en değerli eserlerden biridir.” 
+
+Haeckel’in kendi görüşlerini “Anthropogenie” adlı kitabında buluruz: “Şimdilerde Hücreden Yaratım’ı bir hipotez olarak adlandırmaya pek hakkımız yoktur, çünkü onun bir GERÇEK olduğundan tamamen eminiz. Onu mikroskop yardımıyla her zaman ispatlayabiliriz.” 
+
+Öğrenim süresi boyunca bir mimar yeteneklerini, yalnızca ustasından öğrendiği bir modele göre olan, ancak yeni gereksinimlere hiçbir şekilde uymayan evler yapmaya kısıtlasaydı üzgün bir mimar olurdu. Başarılı olmak için o, daha yeni ve daha iyi evler tasarlayabilmelidir. O, tecrübesiyle eski evde işe yaramaz olan şeyleri iyileştirmelidir. Müteahhidin yeni koşullara daha uygun evler inşa etmek için dışarıya yönlendirdiği güç, geçmiş Evre’lerde de, gelişen Ego için yeni ve daha iyi araçların inşasında kullanılmıştır. 
+
+En basit organizmalarla başlayarak şimdi insan olan Yaşam, gereksinimlerine uyan Form’u inşa etmiştir. Zamanla varlık ilerledikçe, önceden takip edilen çizgilerle çelişen yeni iyileştirmelerin eklenmesi zorunluluğu ortaya çıktı. Yeni bir biçimde yeni bir hamlenin yapılması gerekiyordu. Böylece önceden yapılmış olan her hatadan kaçınmak mümkündü. Zira tecrübe göstermiştir ki, gelişim engellenmiş olsaydı, insan hep eski çizgilerini takip ederdi. Böylelikle oluşan Yaşam için, yeni bir türde daha da gelişmek mümkün oldu. Yeni tecrübeler artık, yeni Form’un da uygun olmadığını ve gerekli iyileştirmelerin gelişen yaşama uyum sağlayamadığını öğrettiğinde onlar da bırakılırlar. Yeni bir yola girilir ve gerekli iyileştirmeye uyum sağlayabilir yeni bir Form edinilir. 
+
+Gelişen yaşam bu şekilde ardışık adımlarla araçlarını daha iyi hale getirir. Bu dönüşüm halen devam etmektedir. Gelişimin öncüsü olan insan, bedenlerini amip[48] benzeri bir noktadan vahşi insan formu noktasına kadar geliştirmiştir. Bu noktadan itibaren de Yer’deki en iyi ve en organize bedenleri kullananlara kadar derece derece insan bulunmaktadır. Ölümler ve yeniden doğumlar arasında sürekli olarak, içlerinde yaşamımız boyunca çalışacağımız bedenler yaparız. Bu bedenler ileride, şimdiki konumlarından çok daha yüksek bir konuma da bizim tarafımızdan eriştirileceklerdir. Eğer yaşamlar arasında beden inşa ederken hatalar yaparsak, bu hatalar o bedeni Yer yaşamı sırasında kullanmaya başlayınca görünür hale gelirler. Eğer hatalarımızı algılıyor ve onların farkında oluyorsak bu bizim için, sonraki yaşamımızda o hatalardan kaçınabilmemiz açısından iyidir. 
+
+Ancak tıpkı ticari olarak geri kalan ve inşaat yöntemlerini mesleğinin gereksinimlerine cevap vermek için hep daha iyi hale getirmeyen mimarlar gibi ısrarla eski Formlara yapışıp kalan ve türlerin üzerine çıkmada başarısız olan insanlar da Geri Kalmışlar’dan olurlar. Onlar, Öncü’lerin içinde büyüyüp bıraktıkları Formları alırlar ve daha önce de açıklandığı gibi aşağı Irkları ve doğa krallıklarının Formlarını alırlar. Şimdi insan olan Yaşam; maden, bitki ve hayvan aşamaları ile aşağı insan ırklarından geçerken, bütün yol boyunca Geri Kalmışlar meydana gelmiştir. Onlar, evrimin zirvesinde kalmak için gerekli olgunluğa erişememişlerdir. Ve de Öncülerin bıraktıkları Formları alarak onlara yetişmeye çalışmışlardır. Fakat ilerlemiş Formlar da boş durmadılar. Evrimin ilerlemesinde durma noktası yoktur. Ticarette olduğu gibi gelişen Yaşamda da durmak, yalnızca yaşlılıkta mümkündür. Yasa şöyledir: İlerleme ya da Gerileme. Daha iyi olamayan Form, yozlaşmak zorunda kalır. 
+
+Bu yüzden, gelişen Yaşam’ın Öncüleri tarafından kullanılan bir iyileşen Formlar yolu ile Öncüler tarafından terk edilmiş ve Geri Kalmışlar tarafından kullanılan ve yozlaşan Formların oluşturduğu bir yol vardır. Bu ikinci yol, Formların ait oldukları yaşam dalgasının Geri Kalmışları varolduğu sürece de varolacaktır. 
+
+Hiçbir Geri Kalmış kalmadığında ise ilgili Türlerin derece derece nesli tükenir. Bu durumda artık Formların iyileşme olasılıkları kalmaz ve onların hep daha yeteneksiz sâkinleri sebebiyle tamamen kristalleşirler. Bu yüzden de doğanın Maden Krallığına geri dönerler ve fosilleşirler. Sonuçta da Yerkabuğunun farklı tabakalarında toplanırlar. 
+
+İnsanın, şu anda etrafımızda bulunan Bitki ve Hayvan Krallıkları’ndan geçerek maymuna ve oradan da insana evrimleştiğini söyleyen materyalist bilim, tamamen haklı değildir. İnsan hiçbir zaman günümüzdeki hayvanlarla özdeş formlarda ya da günümüzdeki maymun türlerinin formlarında yaşamadı. Fakat o, şimdiki maymunlara benzeyen ancak onlardan daha yüksek olan formlarda oturmuştur. 
+
+Bilimadamı, insan ve maymun arasında anatomik bir benzerlik olduğunu görür. Ancak evrimsel tepi (impulse) hep daha iyiye doğru olduğundan insanın maymundan geldiği sonucuna varır. Fakat o, iki türü bağlayan “kayıp bağlantıyı” bulana dek şaşkın şaşkın çabalayacaktır. 
+
+Bir zamanlar maymun benzeri formlarda bulunan içinde bulunduğumuz yaşam dalgasının öncüleri (Âri ırkları), şimdiki gelişim seviyelerine dek ilerlemişlerdir. (“Kayıp bağlantı” olmuş olan) Formlar yozlaşmışlardır ve şimdi Satürn Evresi’nin son Geri Kalmışları onların içine yerleşmişlerdir. 
+
+Düşük maymunlar, daha yüksek türlerin ataları değillerdir, aksine bir zamanlar insan formunda bulunup, sonradan en yozlaşmış formlara yerleşmiş olan Geri Kalmışlardır. İnsan, maymundan gelmemiştir. Aksine maymunlar, insandan yozlaştılar. Yalnızca Form’la uğraşan maddeci bilim, kendi kendisini yanıltmış ve bu konuda yanlış sonuçlara ulaşmıştır. 
+
+Nispeten benzer koşullar hayvan krallığında da bulunur. Evrime Güneş Evresi’nde girmiş olan yaşam dalgasının Öncüleri, günümüzün memelileridirler. Farklı dereceler, bir zamanlar insan tarafından çıkılmış basamaklara karşılık gelir. Fakat Geri Kalmışlar tarafından kullanıldıklarında bütün Formlar yozlaşırlar. Benzer şekilde evrime Ay Evresi’nde girmiş olan yaşam dalgasının Öncüleri de, meyve veren ağaçlarda bulunmaktadırlar. Bu yaşam dalgasının Geri Kalmışları ise diğer tüm bitki formlarında bulunurlar. 
+
+Şekil 13!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Bununla birlikte her yaşam dalgası kendi sınırları içerisinde kalır. Önceden bizimle aynı yaşam dalgasında olduklarından maymunlar, bize yetişebilir ve insan olabilirler. Fakat başka hiçbir hayvan, bizim özel gelişim noktasına erişemeyecek. Onlar benzer bir aşamaya ancak Jüpiter Evresi’nde farklı koşullarda ulaşacaklar. Şimdiki bitkiler Venüs Evresi’nin insanlığı olacak ve madenler de Vülken Evresi’nin koşulları altında insan aşamasına erişeceklerdir. 
+
+Modern evrim teorisi, özellikle de Haeckel’inki, tam tersine çevrilebilseydi, okült ilmin bilgisiyle hemen hemen tamamen uyum içerisinde olacaktı. 
+
+Maymun, insandan yozlaştı. Polipler, memeli hayvanların son yozlaşma basamaklarıdır. Yosunlar, bitki krallığının en aşağısındaki yozlaşmalarıdır. Maden krallığı, tüm krallıklarda yozlaşmanın zirvesine ulaşmış olan Formların son hedefidir. 
+
+Buna örnek olarak bir zamanlar bitki ya da bitki formları olan kömürü, taşlaşmış odunu ve farklı hayvanlardan geriye kalmış fosilleri verebiliriz. Hiçbir bilimadamının, kökeninin başka bir krallıkta olduğunu kabul etmeyeceği basit taş veya kayanın kökeni başka bir krallıktadır ve okült araştırmacı için o, kömürün kendisi kadar madenleşmiş bir bitkidir. Maden bilimci, eğitimine dayanarak onun hordblende, feldispat ve mikadan oluştuğunu söyleyecektir. Ancak onu doğanın hafızasında milyonlarca yıl geriye kadar izleyebilen deneyimli bir durugörür, bu tespite şunu da ekleyebilir: Evet, sizin maden olarak adlandırdığınız bu maddeler, tarihöncesi çiçeklerin yaprakları ve saplarıdırlar. Mika ise, çiçeklerin yapraklarından geriye kalan her şeydir. 
+
+Okült evrim öğretisi, doğum öncesi safhanın, tüm geçmiş gelişim aşamalarının bir tekrarı olduğunu belirleyen embriyoloji bilimi ile de doğrulanır. Bir insan yumurtası ile üst seviyedeki birkaç memeli hayvanın yumurtası arasındaki ve hatta bitki krallığında yüksek gelişim seviyelerindekilerin yumurtaları arasındaki fark, mikroskop altında bile fark edilemez. Uzmanlar, hangi yumurta insanınki, hangisi hayvanınki bilememektedirler. Hatta bazı doğumöncesi aşamalardan sonra bile uzman kişi, insan embriyosu ile hayvan embriyosunu ayırt edememektedir. 
+
+Fakat tüm hamilelik evresi boyunca bir hayvan yumurtası incelendiğinde görülür ki, bu yumurta, sadece maden ve bitki aşamalarından geçer ve hayvan aşamasına ulaşınca doğar. Bu böyle olur, çünkü yumurtanın içine girmiş ve Güneş Evresi’nde madensel evrimden, Ay Evresi’nde de bitki evriminden geçmiş olan Yaşam, şimdi Yer Evresi’nde hayvan aşamasında durmaya zorlanır. 
+
+Öte yandan insan yumurtasını kullanan Yaşam, Satürn Evresi’nde madensel varoluşunu, Güneş Evresi’nde bitkisel varoluşunu ve Ay Evresi’nde de hayvansal varoluşunu tamamlayarak hayvan hâline eriştikten sonra Hücreden Yaratım ( Epigenesis) için daha hareket imkânı vardır ve insan hâline geçer ve bu hâlde de durmaz. Baba ve anne, çocuk bedenini yapması için ona bedenlerinden madde verirler. Fakat özellikle yüksek Irklarda Hücreden Yaratım, çocuğu ana babasından farklı kılacak özelliklerin eklenmesini mümkün kılar. 
+
+Hücreden Yaratım; birey, aile, ulus veya Irk’ta atıl ( inactive) kaldığında evrim biter ve yozlaşma başlar. 
+
+#### <h4 id="a-living-soul">Yaşayan Bir Ruh mu?</h4>
+
+Böylece iki Yaratım hikâyesi birbirleriyle tam uyum içersindedirler. 
+
+Birisi; maden, bitki ve hayvan basamakları için inşa edilen ve en sonunda insan basamağına erişen Form ile ilgilenir. 
+
+Diğeri ise, şimdi insan Form’larına ruh veren Yaşam’ın, diğer krallıkların Formlarına ruh veren Yaşam’dan daha önce tezahür ettiğini söyler. 
+
+Bu Yaratım açıklamalarından tek başına biri yeterli olmazdı. İkinci bölümde insanın yaratım hikâyesinin arkasında önemli detaylar saklıdır. Bu âyet şöyledir: “Sonra Yehova, insanı Yer’in tozundan yaptı ve onun burun deliklerine nefes (ibr. ‘nefeş’) üfledi ve insan, nefes alan (ibr. ‘nefeş hayim’) bir varlık oldu.” 
+
+Kral James versiyonunun diğer tüm yerlerinde ‘nefeş’ kelimesi, “yaşam” olarak çevrilmiştir, fakat bu özel durum için (Genesis 2, Bölüm 7) bu kelime “canlı ruh” olarak verilmiştir. Böylelikle insan form’una ruh veren Yaşam ile bu formun varlıklarına ruh veren Yaşam arasında bir ayrım yapılmıştır. Çevirideki bu fark, tamamen keyfidir. Yaşam-nefesi ( nefeş), insanda ve hayvanda aynıdır. Bu, her zaman İncil’i referans alan kişilere bile kolaylıkla gösterilebilir, zira Kral James versiyonu bile açıkça şöyle belirtir (Ecclesiastes 3: 19,20) : “(...) birinin öldüğü gibi diğeri de ölür, evet, onların hepsi aynı nefese (nefeş) sahiptir, öyle ki insanın hayvan karşısında üstünlüğü yoktur, (...) hepsi aynı yere gider.” 
+
+Hayvanlar, bizim “genç kardeşlerimiz”den başka bir şey değildirler ve şu anda o kadar iyi organize olmamış olsalar da gün gelecek bizim seviyemize erişecekler. Ancak bu gerçekleştiğinde biz, daha yüksek bir seviyede olacağız. 
+
+Eğer insanın, ruhunu Yaratım’ın ( Genesis) 2. bölümünün 7. âyetinde belirtilen yolla aldığı iddia edilirse ve onu alabileceği başka hiçbir yol yoksa, şu soruyu sormak yerinde olur: Peki kadın, kendi ruhunu nerede ve nasıl almıştır? 
+
+Bu bölümün ve Yehova tarafından yaşam nefesinin verilmesinin anlamı, okült anahtarı kullandığımızda sade ve açıktır. Ayrıca bu anahtar, mantıklı olması sebebiyle çok büyük bir avantaja sahiptir. 
+
+Ay’ın Hükümdarı’nın ( Yehova), Melekleri ve Yüce Melekleri ile bu olayda baş rolü oynadıkları olgusu, bu Yaratım’ın meydana geldiği zamanı ortaya çıkarmaktadır. Belirtilen Yaratım, Lemurya Çağı’nın ilk ve orta kısımları arasındaydı ve Ay’ın, Yer’den atıldığı zaman olmalıydı. Çünkü Ay, dışarıya atılmadan önce Yehova’nın, bedenlerin yaratılmasıyla hiçbir ilgisi yoktu. Formlar o zaman daha eterikti. Yoğun ve maddi bedenler henüz yoktu. Bu bedenleri yapmak sadece katılaştırıcı ve kristalleştirici Ay güçlerinin yardımıyla mümkündü. Bu, Lemurya Çağı’nın ilk yarısında olmuş olmalıdır, çünkü ileride belirtileceği gibi cinsiyetlerin ayrımı bu Çağın ortasında meydana geldi. 
+
+O zamanlar yaratımı halen devam eden insan, henüz ciğerleriyle nefes almaya başlamamıştı. Ve doğum öncesi yaşam evresinden geçen insan embriyosunda bu çağa karşılık gelen ve halen mevcut olan solungaç benzeri bir aygıta sahipti. O, sıcak ve kırmızı bir kana sahip değildi, çünkü içinde ayrı bir ruh oturmuyordu. Tüm form’u yumşak ve esnekti. İskeleti kıkırdak gibi yumuşaktı. Ancak insanları iki ayrı cinsiyete ayırmak gerekli olduğunda, iskelet de katı ve sert hale geldi. 
+
+Yehova tarafından yapılan iş, zaten varolan yumuşak bedene, yoğun ve sert kemik maddesini dahil etmekti. Bu çağdan önce, yani Kutup ve Uzak-kuzey Çağlarında, ne insanın ve ne de hayvanın kemikleri vardı. 
+
+#### <h4 id="adams-rib">Adem’in Kaburgası</h4>
+
+İncil’in yaygın versiyonlarında ve bu durum için Masoretik metinde de, cinsiyetlerin ayrılmasının gülünç ve olanaksız bir şekilde anlatılması, eski İbranice metinlere sesli harflerin yanlış konulmasının nelere yolaçabileceğini gösteren bir başka örnektir. Burada kullanılan sözcüğün bir türlü okunuşunun anlamı gerçekten “kaburga”dır. Fakat en az bu anlam kadar önemli ve ayrıca sağduyuya hitap eden öteki anlam ise “yan”dır. Bunu, insanın eril-dişil olduğunu ve Yehova’nın her insanda bir “yan”ı ya da bir cinsiyeti gizil ve gelişmemiş (latent) bıraktığını gözönüne alarak yorumlarsak, “kaburga” hikâyesini nasıl kabul edeceğimiz konusunda kendimizi zorlamamış oluruz. 
+
+Kelimenin bu anlamı kabul edildiğinde okült öğreti İncil’le uyuşmakta ve her ikisi de modern bilimin, bir zamanlar insanın, bir cinsiyeti geliştirmek için diğer cinsiyeti gizil bırakmadan önce çift cinsiyetli olduğu öğretisiyle örtüşmektedir. Bununla ilgili bir başka kanıt da ceninin belli bir noktaya kadar çift cinsiyetli olması ve bu noktadan sonra bir cinsiyetin üstün gelerek diğerinin geri kalmasıdır. Her insan karşıt cinsel organlara da temel bir formda sahiptir ve bu yüzden, tıpkı ilk insan gibi o da çift cinsiyetlidir. 
+
+Görünüşe göre İncil’in anlatıcısı, yaratımın bu ikinci açıklamasından tüm evrimin tam bir betimlemesini vermek istememektedir. O daha çok, ilk bölümde söylenmiş olanları daha ayrıntılı olarak tekrar vermeyi tercih etmektedir. Ve bize anlatmaktadır ki insan, her zaman şimdi nefes aldığı gibi nefes almadı. Onun cinsiyetlere ayrılmış olmadığı bir zaman vardı. Cinsiyetlere ayırma değişikliğinin zamanını ayarlayan ve onu gerçekleştiren Yehova’ydı. Evrimimizde ilerledikçe bu konu hakkında daha fazla bilginin verildiğini göreceğiz. 
+
+#### <h4 id="guardian-angels">Koruyucu Melekler</h4>
+
+Daha önceki Çağlar ve Evreler boyunca insan, bilinçsiz bir şekilde gelişirken, yaratıcı Hiyerarşiler onun üzerinde çalıştılar. Tüm insan varlıklarının o zamanlar sadece bir tek ortak bilinçleri vardı. Adeta tüm insanlık için bir Grup Ruhu bulunuyordu. 
+
+Lemurya Çağı’nda yeni bir adım atıldı. Bedenler kesin olarak biçimlendiler. Ancak bu bedenlerin ruhla dolabilmeleri ve içte oturan Ruhun evi olabilmeleri için kırmızı sıcak kana sahip olmaları gerekiyordu. 
+
+Doğada birden oluveren işlemler yoktur. Eğer buruna üflenmiş havanın, Yer’deki bir Form’a bir ruh verdiğini ve onu duygusal ve düşünen bir varlık haline getirebileceğini inanırsak yanlış bir fikre sahip olmuş oluruz. 
+
+Bireysel Ruh, kendi yoğun araçlarını yönetmek için uygun durumda değildi, çok zayıf ve güçsüzdü. O, bu açıdan şimdi de güçlü değildir. Arzu bedenin, gelişimimizin şimdiki aşamasında bile kişiliği Ruh’tan daha fazla etkilediği vasıflı bir gözlemcinin dikkatini çekecektir. Ancak Lemurya Çağı’nın ortalarında Ego’nun ışığıyla donatılacak olan ve üçüz bedenden oluşan düşük seviyedeki kişilik, kendi kendine bırakılacak olsaydı, kendi araçlarını yönetmede tamamen güçsüz kalacaktı. 
+
+Bu yüzden çok daha gelişmiş bir varlığın yardım etmesi ve onu, araçlarıyla tam bir şekilde birleşme yoluna kademe kademe hazırlaması gerekliydi. Bu tıpkı zayıf bir ulusun kendini yönetebilir duruma gelmeden önce belli bir süre daha kuvvetli bir gücün, kendisini dış tehlikelerden ve iç düşüncesizliklerden koruyacak olan himayesine girmesi gibiydi. Gelişen insanlığa böyle bir himaye, Irk Ruhu tarafından sağlandı. Hayvanlar için himaye ise, biraz farklı bir yolla olsa da Grup ruhudur. 
+
+Yehova en yüksek Irk Ruhudur. O’nun, Irk-Tanrı’sı olduğu söylenebilir ve tüm Formlar üzerinde hakimiyete sahiptir. O, Baş Hükümdardır ve formun korumasında en yüksek güce sahiptir. Yüce Melekler Irk-Ruhlarıdır ve her birinin belli bir insan topluluğu üzerinde hakimiyeti vardır. Yüce Melekler ayrıca hayvanlar üzerinde de egemenliğe sahiptir. Bitkiler üzerindeki egemenlik ise Meleklerdedir. 
+
+Yüce Melekler ırklar, insan toplulukları ve de hayvanlar üzerinde egemenliğe sahiptir, çünkü bu iki krallığın (hayvan ve insan krallıkları) arzu bedenleri vardır ve Yüce Melekler arzu maddesinin uzman mimarlarıdırlar. Güneş Evresi’nde en yoğun küre, bu maddeden meydana geliyordu. Tıpkı bizim şimdi Yerküremizi oluşturan kimyasal elementlerden yoğun bedenimizi oluşturmayı öğrendiğimiz gibi o evrenin, şimdi Yüce Melekler olan insanları da arzu maddesinden kendilerine en yoğun araçlarını yapmayı öğrendiler. 
+
+Benzer sebeplerden Melekler de insan, hayvan ve bitkilerin yaşam bedenleri üzerinde çalışırlar. Meleklerin en yoğun bedenleri Eter’den yapılmıştır ve Ay Evresi’nin D Küre’sinde onlar insan iken de durum böyleydi. 
+
+Yehova ve O’nun Yüce Melekleri bu yüzden Irklarla, Grup-ruhunun hayvanlarla ilişkisine benzer bir ilişkiye sahiptir. Bir Irkın herbir üyesi, tam olarak kendi kontrolünü sağladığında Irk ruhunun ve benzer varlıkların etkisinden kurtulurlar. 
+
+Gördüğümüz gibi hem Grup-ruhunun ve hem de yoğun bedende yaşayan herbir Ego’nun hareket noktası kandadır. Masoretik metin, 3. Kitap Musa’nın (Leviticus) yazarının bu bilgiye sahip olduğunu gösterir. 17. bölümün 14. ayetinde Yahudiler’e kanı yeme yasaklanıyor çünkü, “ (...) Tüm etin ruhu (canı), kandadır. (...) “. Ve de aynı bölümün 11. âyetinde şu sözlere rastlıyoruz: “Zira etin ruhu kandadır (...) kanın kendisi ruhun aracısıdır”. Bu âyet hem insanlar ve hem de hayvanlar için geçerlidir. Çünkü burada kullanılan İbranice kelime ‘neşamah’dır ve Kral James versiyonunda çevrildiği gibi “yaşam” değil “ruh” anlamına gelir. 
+
+Ego doğrudan kan aracılığıyla çalışır. Irk ruhu kandaki çalışmasıyla Irkları, Grup-ruhunun kendi türünün hayvanlarını kan aracılığıyla yönlendirdiği gibi yönetir. Ego da bu şekilde kendi araçlarına hükmeder. Yalnız arada bir fark vardır. 
+
+Irk ruhu (örn. Soy veya aile ruhu) ciğerlere çekilen hava aracılığıyla etki ederken Ego, kan ısısı aracılığıyla çalışır. Bu yüzden Yehova ya da O’nun elçileri, “insanın burun deliklerine üflerler”. Böylece de Irk-ruhu, Topluluk Ruhu vs’nin girişini güvenli bir şekilde sağlarlar. 
+
+Farklı sınıflardaki Irk ruhları, halklarını farklı farklı iklimlere ve Yer’in farklı farklı kısımlarına yönlendirirler. İyi bir durugörür’e bir soy ruhu, bu ruhun hakimiyeti altındaki halkın yerleşmiş olduğu tüm bölgenin atmosferini kaplayan ve bütün bölgeye yayılmış olan bir bulut olarak görünür. Böylece farklı insanlar ve uluslar meydana getirilir. Paulus “Hava Gücü’nün Prensi”nden (Efesliler 2,2) ve “prenslikler ve güçler”den (Efesliler 3,10) bahsetmiş ve böylece Irk ruhlarını bildiğini göstermiştir. Ancak insan günümüzde, etkileri çok kuvvetle hissedilmesine rağmen onların ne anlama geldiğini anlamaya bile çalışmıyor. Yurtseverlik de onlardan yayılan ve onlardan beslenen duygulardan biridir. Onlar bugün (1909), halklar üzerinde eskiden olduğu kadar güçlü değildir. Irk ruhundan özgürleşmiş insanlar vardır ve Thomas Paine ile şöyle söyleyebilmektedirler: “Dünya, benim vatanımdır”. Anne ve babasını terk etmiş ve bütün insanları kendi kardeşi olarak görebilen kişiler vardır. Onlar da Irk ruhundan farklı olan ve eterik bir Varlık olan Aşiret ruhundan veya Soy ruhundan kurtulmuşlardır. Buna karşın Aşiret ruhunun veya Soy ruhunun zincirlerine derin bir şekilde hapsolmuş diğerleri, evlerini ve vatanlarını terk ettiklerinde en kötü depresyonu yaşarlar ve başka bir Irk ya da Soy ruhunu solumak zorunda kalırlar. 
+
+Zamanımızda Irk ruhu insan bedenine girdiğinde bireyselleşmiş Ego, kendi araçları üzerinde belli bir güç kazanmaktadır. Her insan varlığı, kendisinin diğer insanlardan farklı olduğunun hep daha fazla bilincine vardı, ancak tüm çağlar boyunca kendisini ilk planda tek bir birey olarak değil bir aileye, bir soya mensup varlık olarak düşündü. Günümüzde halen bazı isimlerin sonuna takılan “- son” (-oğlu) takısı bu duygunun bir kalıntısıdır. Bir kişinin adı basitçe “John” veya “James” değildi. İsimler, “John Robertson” ya da “James Williamson” olarak veriliyordu. Bazı ülkelerde kız adları da sadece “Mary” veya “Martha” değildi. İsimler, “Marta kızı Mary” veya “Marry kızı Marta” şeklinde veriliyordu. Bu gelenek bazı Avrupa ülkelerinde birkaç nesil öncesine kadar devam etti. “-son” takısı ise bizimle günümüze kadar geldi ve böyle aile isimleri hâlâ çok onurlu olarak kabul edilmektedir. 
+
+İsa’nın zamanına kadar Yahudiler arasında Irk ruhu, bireysel ruhtan daha güçlüydü. Her Yahudi kendisini her şeyden önce belli bir kabile veya aileye mensup olarak görüyordu. “İbrahim’in Tohumu” olmak onun en çok gurur duyduğu şeydi. Bütün bunlar, Irk-ruhunun etkileriydi. 
+
+Daha Yehova gelmemişken ve Yer, henüz Güneş’in bir parçası iken tüm Yaratıcı Hiyerarşiler’in oluşturduğu ve bütün insanlık ailesini yöneten ortak bir Grup-ruhu vardı. Ancak herbir bedenin, içinde oturan ruhun tapınağı ve uysal aracı olması amaçlanmıştı ve bu, egemenliğin sonsuz parçalara bölünmesi anlamına geliyordu. 
+
+Yehova, Melekleri ve Yüce Melekler ile geldi ve ilk büyük bölünme olan Irkları yarattı ve her grubu, bir Irk Ruhunun, yani Yüce Melek’in yol gösterici etkisi altına soktu. Ve de kişisel Ruh, yeterince güçlü olup tüm dış etkilerden kendini kurtarıncaya dek, her Ego’ya Koruyucu olarak Meleklerinden birini atadı. 
+
+#### <h4 id="mixing-blood-in-marriage">Evlilikte Kan Karışımı</h4>
+
+İnsanlığı, ayrımcı Irk- ve Aile-ruhunun güdümünden kurtuluşa hazırlamak ve tüm insanlık ailesini Tek Evrensel Kardeşlik’te birleştirmek için İsa geldi. 
+
+O, “İbrahim’in tohumu”nun sadece bedenlerle ilgili olmadığını öğretti ve İbrahim’den önce “Ben”, yani Ego’nun varolduğu gerçeğine dikkat çekti. Üçüz bireysel Ruh, tüm Soylar ve Irklardan önce vardı ve tüm Soylar ve Irklar geçtikten ve hatta onların anısı kalmadıktan sonra da varolacaktır. 
+
+İnsandaki Üçüz Ruh olan Ego, kişisel ve bedensel insanın itaat etmesi gereken ve içte oturan Tanrı’dır. Bu yüzden İsa, kim öğrencisi olmak isterse sahip olduğu her şeyi bırakması gerektiğini söyler. Onun öğretisi, içteki Tanrı’nın kurtuluşuna işaret eder. O, insanları bir birey olarak ayrıcalıklarını kullanmaya ve aile, soy ve ulusun üzerine yükselmeye çağırdı. Kişi, akrabalık ve vatanını önemsememezlik etmemeli ve tüm görevlerini yerine getirmelidir. Ancak kendisini insanlığın sadece bir kısmıyla özdeşleştirmeyi bırakmalı ve kendisini tüm dünyadaki insanlarla aynı derecede akraba olarak görmelidir. Bu, İsa tarafından insanlığa verilen idealdir. 
+
+Irk ruhunun egemenliği altında en önce ulus, soy ve aile dikkate alınır, ancak bunlardan sonra Birey gelir. Aile sağlam kalmalıdır. Eğer bir adam geride evlat bırakmadan ölürse, onun ismini devam ettirmek ve soyun devamını sağlamak için erkek kardeşi, dul kalan eşine “tohum vermek” zorundadır. (5. Musa 25,5-10) İlk dönemlerde akrabaların dışında bir yabancıyla evlenmek, dehşetle karşılanıyordu. Bir boyun ya da aşiretin bir üyesi, başka boydan biriyle evlendiğinde toplumdaki yerini kaybederdi. Başka bir boyun üyesi olmak kolay değildi. Sadece Yahudilerde değil, önceki diğer halklarda da boyun bütünlüğü önemliydi. Bu durum, birçok açıdan bugün de halen geçerlidir. Daha önce belirttiğimiz gibi çok kısa zaman öncesine kadar İskoçlar, kendi boylarına sıkı sıkıya bağlıydılar. Eski Norveç Vikingleri de, bir kişiyle kanlarını karıştırmadan, hiç kimseyi aralarına almazlardı. Çünkü maddi bilime yabancı olan kan karışımının ruhsal etkisini onlar biliyorlardı. 
+
+Tüm bu âdetler, Irk ve Boy ruhunun kandaki faaliyetlerinden meydana geldi. Damarlarında bu ortak kanın akmadığı kişiyi bir topluluğa kabul etmek o toplumda bir “sosyal sınıf (kast) karmaşası” yaratırdı. Bu yüzden yakın akrabalarla evlenme arttıkça Irk-ruhunun gücü de arttı ve bu da bireyi boya bağlayan bağın kuvvetlenmesine sebep oldu, çünkü insanın yaşam gücü, yaşam bedenin en yüksek ifadesi olan kanda bulunur. 
+
+Beden ve Sinir sistemi, arzu bedenin en yüksek ifadesidirler. Onlar dış dünyanın resimlerini çağırırlar, fakat zihinsel görüntü oluşturmada mesela hayal ederken kan, resimler için gerekli olan malzemeyi sağlar. Bu yüzden düşünme faaliyetinde kan, beyne akar. 
+
+Aynı karışmamış kan akımı, nesiller boyunca bir soyda aktığında büyük büyükbaba, büyükbaba ve baba tarafından oluşturulmuş olan zihinsel resimler, kandaki hemoglobinde yaşayan aile-ruhu tarafından oğulda tekrar oluşturulur. O kendisini, kendisinde yaşayan uzun bir atalar zincirinin devamı olarak görür. Boyun geçmiş yaşamının tüm olaylarını, sanki onlar olurken oradaymış gibi görür. Bu yüzden kendisinin bir Ego olduğunun farkına varamaz. O sadece “Davud” değildir, aynı zamanda “İbrahim’in oğlu”dur; sadece “Yusuf” değildir, aynı zamanda “Davud’un oğlu”dur. 
+
+Böyle ortak kan taşıyan adamların nesiller boyunca yaşadığı söylenmiştir, çünkü onların torunları, içinde atalarının yaşamlarının saklandığı doğa hafızasına kan aracılığıyla erişebiliyorlardı. Bu yüzden Yaratım’ın beşinci bölümünde Boy reislerinin yüzyıllarca yaşadıkları söylenir. Âdem, Methuselah ve diğer Boy reisleri, bu büyük yaşlara erişmemişlerdir, fakat onlar, Atalarının yaşamlarını sanki o hayatı kendileri yaşamışlar gibi görebilen torunlarının bilincinde yaşamışlardır. Bu sürenin sonunda torunları kendilerini Âdem veya Methuselah olarak düşünmemişlerdir. Bu ataların anısı da solmuş ve onların öldükleri söylenmiştir. 
+
+İskoç dağlılarının “ikinci görüşü” de gösterir ki, iç dünyanın bilinci, boy içinden evlilikle devam eder. Onlar, tıpkı daima kendi aralarında evlenen çingeneler gibi yakın zamana dek boy içinde evliliği sürdürdüler. Boy, sayı olarak ne kadar azsa ve evlenmede yakınlık ne kadar artarsa “durugörü” o kadar açık olur. 
+
+Önceki Irklar, ait oldukları boyun Tanrı’sı tarafından konulmuş emirlere karşı gelmeyi veya boyun dışındaki birisiyle evlenmeyi düşünmemişlerdir. Onların böyle bir istekleri de hiç olmadı, çünkü kendilerine ait bir zihne sahip değillerdi. 
+
+İradeyi ilk geliştirmiş olanlar Sâmilerdi ve bunu yapar yapmaz diğer boylardan adamların kızlarıyla evlendiler. Böylece de kendi Irk-ruhlarının amaçlarını geçici olarak engellediler ve anında kötü işler yapan insanlar olarak dışlandılar. Çünkü “yabancı putlara tapıyorlardı” ve böylelikle şimdiki Âri çağımızın yedi Irkı için “tohum” vermeye uygun olmadıklarını göstermişlerdi. İlk Sâmiler, o zamanlar Irk-ruhunun diğer ırklardan ayrı tutmaya çalıştığı son ırktı. 
+
+Daha sonra insan, özgür iradeye sahip oldu. Onun bireyselleşmeye hazır olacağı zaman gelmişti. Önceki “ortak” bilinç, iradedışı durugörürlük ya da ikinci görüş, bir boyun üyesine sürekli atalarının yaşamlarına ait resimleri gösteriyordu. Bu onun kendisini, aile ya da boy ile çok daha fazla özdeşleştirmesine yolaçtı. Bu bilincin, belli bir zaman için maddi dünya ile sınırlı ve kesin bir bireysel bilinçle değiştirilmesi gerekiyordu. Ve böylece uluslar bireylere ayrılmalıydılar ki dış koşullar ne olursa olsun İnsanların Kardeşliğini yaratmak gerçekleştirilebilsin. Birden fazla yapıyı geniş ve tek bir yapı haline dönüştürmek istediğimizde takip ettiğimiz ilke burada da geçerlidir. Binalar önce tuğlalarına dek parçalarına ayrıştırılmalıdır. Ancak bundan sonra tek ve büyük bina inşa edilebilir. 
+
+Halkların bu bireylere ayrışmasını elde edebilmek için, soy içinde veya aile içindeki evliliği yasaklayan yasalar konuldu. Bu andan itibaren ensest evlilikler, dehşetle karşılanmaya başlandı. Böylelikle yabancı kan, Dünya’daki tüm ailelere girdi. Yabancı kan sayesinde insanlığı gruplara ayıran boy duygusu tarafından desteklenen iradedışı durugörürlükler de kayboldu. Vatanseverliğin yerini Fedakarlık aldı ve kan karışımının sonucu olarak aileye bağlılık kayboldu. 
+
+Şimdilerde (1909) bilim, iki farklı türden canlı arasında yapılan kan naklinin, bu iki canlıdan aşağı olanın ölümüne yolaçtığını keşfetti. Aynı şekilde kendisine insan kanı verilen her hayvan ölür. Bir köpeğin kanı, kuşun damarlarına verildiğinde kuşu öldürür, ancak köpeğin damarlarına verilen kuş kanı köpeğe bir zarar vermez. Bilim burada sadece olguyu tespit eder, okült ilim ise onun sebebini açıklar. Daha önce de gösterildiği gibi kan, Rûh’un çalışma sahasıdır. İnsandaki Ego, kan ısısı aracılığıyla kendi araçları içinde çalışır. Buna karşın Irk, Aile ya da Topluluk rûhu, kana girişlerini soluk aldığımız hava aracılığıyla sağlar. Hayvanlarda hayvanın kendi ruhu olduğu gibi bağlı olduğu grubun Grup rûhu da vardır. Ancak hayvanın ruhu bireyselleşmemiştir ve Ego’nun kendi araçlarında çalıştığı gibi çalışmaz. Bu yüzden hayvan ruhu tamamen, hayvanın kanı içinde çalışan Grup rûhu tarafından yönetilir. 
+
+Farklı iki hayvandan yüksek olanınkinin kanı, aşağı olana verilirse, yüksek hayvanın kanındaki ruh, daha az gelişmiş olan hayvanın kanındaki ruhtan elbetteki daha güçlüdür. Bu yüzden bu ruh, kendini kabul ettirmeye çalıştığında hapsolmuş formu öldürür ve kendisini kurtarır. Düşük bir türün kanı, yüksek bir türün damarlarına verildiğinde yüksek ruh, yabancı kandaki daha az gelişmiş ruhu kovmaya ve kanı kendi kullanımına uydurmaya muktedirdir. Böyle bir durumda görünür bir felaket meydana gelmez. 
+
+Grup ruhu daima, kendi gözetimi altında bulunan türlerin kanındaki hakimiyetinin tümünü korumaya çalışır. Tıpkı insanın Irk-Tanrı’sı gibi o da kullarının başka türlerle evlenmelerine karşı çıkar ve melez hayvanlarda olduğu gibi babaların günahları için çocuklarının başına belalar verir. Örneğin bir atla bir eşek çiftleştiğinde yabancı kan karışımı, oluşan katırın üreme yeteneğini yok eder ki, grup ruhunun bakış açısından iğrenç olan katır, soyunu devam ettiremesin. Çünkü katır, safkan türler gibi tam olarak ne atların ve ne de eşeklerin grup ruhunun hâkimiyeti altındadır. Ancak katırların bu iki grup ruhunun hâkimiyetinin tamamen dışında oldukları da söylenemez. Eğer katırlar çiftleşebilselerdi, onların yavruları daha da az ölçüde bu iki grup ruhunun etki alanında bulunacaklardı ve sonuç olarak GRUP RUHU OLMAYAN bir tür ortaya çıkacaktı. Eğer oluşturulabilseydi böyle bir tür, kendisini yöneten ve gerçekte grup rûhunun oluşturduğu içgüdü olmaksızın, tıpkı doğumdan önce analarının rahminden çıkarılan kedi yavruları gibi olacaklardı. Ve de çaresiz bir durumda ölümden başka seçeneği olmayacaktı. 
+
+Hayvanların birbirlerinden ayrı ruhlarını bedenlenmeye gönderen, o hayvanların Grup-ruhu olduğu için, birbirlerine uzak türlerin çiftleşmelerinde o, döllemeyi sağlayan tohum atomunu alıkoyar. Birbirlerine yakın türden hayvanlar çiftleştiklerinde ise Grup-ruhu, kontrolü altındaki hayvanların bedenlenme fırsatını değerlendirmelerine izin verir, ancak melezlerin üremesine izin vermez. Böylece görürüz ki, yabancı kanın karıştırılması, grup ruhunun kontrolünü zayıflatır. Bu yüzden o, güce sahip olduğu her yerde ya Form’u ya da üreme yetisini yokeder. 
+
+İnsan rûhu bireyselleştiğinde bir Ego olur ve hür irade ve sorumluluk geliştirmeye başlar. Karşı konulmaz bir yasa olan Sebep ve Sonuç yasası Irk, Topluluk ya da Aile ruhunun dışında kalması ve insan gelişiminin şimdiki aşamasında bir enkarnasyondan geri düşmemesi için onu doğuma çeker. Farklı kanların karışımı ve farklı boylardan veya halklardan insanlar arasındaki evlilikler sayesinde insanlığın liderleri onun, aile, ırk ya da ulus ruhunu dışarı atmasına yardım ederler. Ancak bununla birlikte kişide, kanın saflığına bağlı olan ve kendisi aracılığıyla aile geleneklerine bağlı olduğu iradedışı durugörürlük de kaybolur. Böylece görürüz ki, kanların karışmasıyla insanda da bir yetenek yokedilmektedir. Ancak bu kayıp aslında bir kazançtır, zira bu, insanın enerjisini maddi dünya üzerine yöneltmesine sebep olur. Bu yüzden artık bu kişi, iç âlemleri görüşü sebebiyle kafası karışmış bir durumda iken olduğundan daha fazla onun öğretilerini kavrayabilir. 
+
+İnsan özgürleştikçe yavaş yavaş kendisini “İbrahim’in Tohumu”, bir “Stewart soyundan insan”, “Brahman” ya da bir “Levi”li olarak düşünmeyi bırakır; ve artık kendisini bir birey ve bir “Ben”den daha fazlası olarak düşünmeyi öğrenir. Bu “kendini” ne kadar çok geliştirirse, kanındaki Aile- ve Irk-ruhundan kendisini o kadar özgür kılar. 
+
+Nefs’den, Nefs’in yok olmasına götüren birçok aptalca ve hatta tehlikeli konuşmalar vardır. Eğer ancak bir “Nefs” geliştirirsek nefsimizi fedâ edebilir ve onu BÜTÜN’e verebiliriz. Kendi ailemizi ve kendi ulusumuzu sevdiğimiz sürece diğerlerini sevmemiz olanaklı değildir. Akrabalık ve anavatan zincirleriyle bağlıyız. Kan bağını kopartır, kendimizi öne sürer ve kendi kendimize yeten bir hale gelirsek insanlığın, fedakâr yardımcıları olabiliriz. Bir kişi bu aşamaya ulaştığında görecektir ki, kendi ailesini kaybetmiştir; ama onun yerine Dünya’daki tüm aileleri kazanmıştır. Artık dikkatini onlara yönlendirmesi ve onlara yardım etmesi için tüm Dünya onun kız ve erkek kardeşleri, anneleri ve babaları olmuştur. 
+
+Bundan sonra o, kan karışımıyla kaybettiği Ruhsal Âlemi tekrar görebilecektir. Ancak bu görme, daha yüksek bir yeti, zeki ve istençli (iradi) bir durugörürlük olacaktır. Bu durugörürlük sayesinde insan, istediği her şeyi görebilecektir. O artık, kanında aile ruhunun etkisi altında bulunan ve insanı, diğer tüm ailelerin dışında kendi ailesine bağlayan negatif bir yetiye sahip olmayacaktır. Onun bu durugörürlüğü evrensel olacak ve insanlığın iyiliği için kullanılacaktır. 
+
+Bu yüzden yukarıda belirtilmiş olan sebeplerden dolayı yavaş yavaş başka boylardan insanlarla evlenme ve daha sonra uluslar arasında evlenme, boy içinden veya akrabalar arasında evlenmeye göre daha istenir ve tercih edilir hale gelecektir. 
+
+İnsan bu aşamalardan geçerek ilerledikçe ve kademe kademe iç âlemlerle temasını kaybettikçe, bu kayıp onun acı çekmesine neden oldu ve “içsel” vizyonunu tekrar kazanmanın özlemini duydu. Ancak zamanla kökenini unuttu ve zihni önünde maddi Dünya, derece derece tek gerçek realite haline geldi. En sonunda da içsel âlemlerin olduğu fikrini tamamen kaybetti ve inanca, sadece boş bir hurafe olarak bakmaya başladı. 
+
+Bunun dört nedeni şunlardı: 
+
+1. Atlantis kıtasının sisli atmosferinin değişerek sissiz ve açık bir hale gelmesi. 
+
+2. Burun kökündeki nokta ile yaşam bedenin ona karşılık gelen noktası birbirleriyle çakışacak şekilde yaşam bedenin, yoğun beden içine çekilmesi. 
+
+3. Yakın akrabalardan çocuk sahibi olmanın kaldırılması ve onun yerine aile ve kabile dışından evlilikler yapılması 
+
+4. Sarhoş edici maddelerin kullanılması. 
+
+Irk ruhu, insanda hâlâ yaşamakta ve insanla çalışmaktadır. Ancak bir ulus ne kadar ilerlemişse bireye de o kadar çok özgürlük verilmiştir. Ulusları en kuvvetli şekilde zincirlenmiş ülkelerde Irk ruhu hâlâ en güçlü konumdadır. İnsan, Sevgi yasası ile ne kadar çok uyum içinde olursa, idealleri ne kadar yüksek olursa kendisini Irk ruhundan o kadar kurtarır. Kendi içinde iyi bir şey olan yurtseverlik, Irk ruhunun bir zinciridir. Kendisini bir ülke veya ırkla özdeşleştirmeyen Evrensel Kardeşlik ideali, insanı zincirlerden kurtuluşa götüren tek yoldur. 
+
+Ayrı Irkları tekrar birleştirip, barış ve iyi niyetle bağlayarak içinde herkesin isteyerek ve bilinçli olarak Sevgi yasasını takip ettiği birliği kurmak için İsa geldi. 
+
+Şimdiki Hristiyanlık, İsa’nın gerçek dininin gölgesi bile değildir. Bu gerçek din, tüm ırk duyguları aşılana dek de gizli kalacaktır. Altıncı çağda yeniden gelen İsa’nın liderliği altında tek Evrensel Kardeşlik kurulacaktır. Ancak hiçbir insan bu olayın günü ve saatini bilemez, çünkü bu olayın ne zaman olacağı belirlenmemiştir. Bu olay, ne kadar insanın, yeni çağın sembolü olan Kardeşlik ve Sevgi dolu bir yaşama başladığına bağlıdır. 
+
+#### <h4 id="the-fall-of-man-2">İnsanın Düşüşü</h4>
+
+Yaratım incelememizle bağlantılı olarak, popüler Hristiyanlığın belkemiği ve dayanağı olan “Düşüş”e ilişkin birkaç söz daha söylenmesi gerekmektedir. Eğer “Düşüş” olmasaydı, “kurtuluş planı” da olmayacaktı. 
+
+Lemurya Çağı’nın ortalarında (Yehova ve O’nun Melekleri’nin etkin olduğu) cinsiyetlerin ayrım işlemi meydana geldiğinde Ego yavaş yavaş yoğun beden üzerinde çalışmaya ve onun içinde organlar yapmaya başladı. O zamanlar insan, şimdiki gibi tamamen uyanık ve bilinçli bir varlık değildi. Ancak daha önce de belirttiğimiz gibi o, düşünceyi ifade edebilmek için cinsel gücünün yarısı ile bir beyin inşa etti. O, ruhsal dünyada, fizik dünyada olduğundan daha uyanıktı. Bedenini zar zor algılayabiliyordu ve çiftleşme faaliyetinin bilincinde değildi. Doğuracağı zaman insanın Yehova tarafından uyutulduğuna dair İncil tespiti doğrudur. (Fizik çevresinin bilinci, kendisinde olağanüstü zayıf olduğu için) insanın, çocuğun doğumuyla ilgili olarak ne acı ve ne de bir sorunu vardı ve ölüm nedeniyle yoğun bedeninin kaybından veya doğumla yeni bir yoğun bedene girişinden haberi yoktu. 
+
+Lüsifer ruhlarının, Ay Evresi insanlığının bir bölümünü oluşturduğu hatırlanacaktır. Onlar, Meleklerin yaşam dalgasının Geri Kalmışlarıdır ve yoğun bir fizik bedene ihtiyaç duymayacak derecede gelişmiş varlıklardır. Ancak bilgi edinmek için bir “iç” organa gereksinimleri vardır. Ayrıca onlar, bir fizik beyin aracılığıyla çalışabilir. Melekler ve Yehova ise bunu yapamazdı. 
+
+Bu ruhlar, insanın omuriliğine ve beynine girdiler ve daha önce açıkladığımız gibi Lemurya Irkı’ndaki eğitim sebebiyle hayalgüçleri uyandırılmış olan kadına konuştular. Kadının bilinci temel olarak içsel olduğu için bu ruhlara ait bir resim-bilinci kadın tarafından algılandı ve onları yılanlar olarak gördü. Çünkü onlar, kadının beynine yılan şeklinde olan omurilikten girmişlerdi. 
+
+Kadınların eğitimi aynı zamanda erkeklerin, iradelerini geliştirmek için yaptıkları çok tehlikeli kahramanlıklarını ve dövüşlerini izlemeyi de içeriyordu. Bu dövüşlerde de bedenler, sık sık ister istemez öldürülüyordu. Bu alışılmamış durumun zayıf bilinci, kadının hayalgücünü harekete geçirdi ve o, bu tuhaf şeyleri neden gördüğüne hayret etti. O, bedenlerini kaybeden ruhları görüyordu, fakat Fizik Âlemi tam olarak algılayamamasından dolayı yoğun bedenleri yokolmuş olan arkadaşlarını tanıyamıyordu. 
+
+Lüsifer’ler kadının bu problemini, onun “gözlerini açarak” çözdüler. Onlar ona kendi bedenini ve erkeğin bedenini gösterdiler ve yeni bedenler yaratarak ölümü nasıl yenebileceğini öğrettiler. Böylece ölüm ona dokunamadı, çünkü Yehova gibi o da istediği bedeni yaratabiliyordu. 
+
+Lüsifer kadının gözlerini açtı. Kadın da erkeğe yardım etmeye çalıştı ve onun gözlerini açtı. Bu yüzden, zayıf bir şekilde de olsa ilkönce onlar “bildiler” veya diğerlerinin ve Fizik Dünya’nın farkına vardılar. Ve ölümün ve acının bilincine vardılar. Bu şekilde içteki insanı, giydiği dış giysisinden ayırdetmeyi öğrendiler. Öğrendikleri bir başka şey de insanın, evrimindeki yeni adımın gerektirdiği her zaman bu elbiseyi değiştirdiğiydi. Böylece bir otomat olarak davranmayı bıraktılar ve acıdan, hastalıktan ve ölümden muaf olmayı vererek yerine hür düşünen varlık olmayı aldılar. 
+
+Meyve yemenin, çiftleşmenin sembolü olarak yorumlanmasının inanılması güç bir fikir olmadığı Yehova’nın ifadesinde de gösterilmiştir ( o kesinlikle bir beddua değildir, aksine bu eylemin sonuçlarının söylenmesidir). O, insanlara öleceklerini ve kadınların acı içinde doğum yapacaklarını bildirmiştir. Ve de insanın dikkati kendi yoğun bedenine yönlendirildikten sonra onun, bu bedenini ölümle kaybetmesinin bilincinde olacağını da biliyordu. Ayrıca çocuk doğurmada acı çekmenin de bu cinsel işlemin bilgisizce kötüye kullanımının sonucu olduğunun da farkındaydı. 
+
+İncil yorumcuları için, bir meyvenin yenmesi ile çocuk doğurma arasında nasıl bir bağlantı olduğu daima bir bilmeceydi. Ancak meyve yemenin, insanın “Tanrı gibi” ( like God) olmasını sağlayacak cinsel birleşmenin bir sembolü olduğunu anlarsak bilmecenin çözümü kolaydır. Çünkü bu sayede insan kendi türünü tanıyacak ve yeni varlıklar yaratabilecekti. 
+
+Lemurya Çağı’nın son kısımlarında insan, her istediği her zaman birleşme faaliyetini gerçekleştirme hakkını haksız yere iddia etti. Ona bunu yapma olanağını veren güçlenmiş iradesiydi. “Bilgi ağacından meyve yiyerek” eskisini kaybettiğinde istediği her zaman yeni bir araç yaratabilme olanağına sahip oldu. 
+
+Genellikle ölümün korkulacak bir şey olduğunu düşünürüz. Eğer insan, “Yaşam Ağacı’ndan da yeseydi”, bedenini sürekli yenilemenin sırrını öğrenecekti. Bu da daha kötü bir duruma yolaçacaktı. Biliyoruz ki şimdiki bedenlerimiz mükemmel değildirler ve o kadim çağlarda son derece ilkeldiler. Bu yüzden Yaratıcı Hiyerarşilerin kaygısı, insanın “yaşam ağacından da yiyebileceği” ve böylece yaşam bedenini yenileme olanağına kavuşacağı içindi. Eğer insan böyle yapsaydı gerçekten ölümsüz olurdu, ancak artık kendisini geliştirme olanağına sahip olmazdı. Ego’nun evrimi, onun araçlarına bağlıdır. Eğer o, ölüm ve doğumla yeni ve daha iyi araçlar alamasaydı, o zaman durağanlık olurdu. “Ne kadar çok ölürsek o kadar iyi yaşayabiliriz” sözü, okült bir özdeyiştir. Her yeni doğum, bize yeni bir şans verir. 
+
+Gördük ki insan, beraberindeki bencillikle beyin bilgisini, kendisinden ve tek başına doğurma gücünü kaybetmesi karşılığında edinmiştir. O, özgür iradesini de acı ve ölümü almasıyla kazanmıştır. Fakat insan, zihnini İnsanlığın iyiliği için kullanmayı öğrenirse yaşam üzerinde ruhsal güç kazanacak ve buna ek olarak bir içsel bilgi kendisine kılavuzluk edecektir. Bu içsel bilgi, bizim şimdiki beyin bilincimizden çok daha yüksektir, öyle ki bizim şu anda sahip olduğumuz beyin bilinci karşısında en düşük hayvan bilinci ne ise, içsel bilginin seviyesi de bizim bilincimiz karşısında odur. 
+
+Beyni inşa etmek için çiftleşmeye düşüş zorunluydu. Fakat bu, bilgi kazanmanın olsa olsa dolaylı bir yoluydu. Bunu, Doğa’nın Bilgeliğinin doğrudan dokunuşu takip edecektir. Bundan sonra insan, bu bilgeliği başka herhangi birinin işbirliği olmaksızın yeni bedenlerin yaratımında kullanabilecektir. 
+
+İnsan, gerçekten bir Yaratıcı olacaktır. Bu, günümüzün yavaş ve zorlu şekliyle değil, ancak doğru kelimeyi ya da sihirli formülü kullanarak yeni bir beden yaratma yoluyla olacaktır. 
+
+İnvolüsyon’un alçalan evresi boyunca tezahür etmiş her şey, evrimin yükselen eğrisinin başladığı noktaya erişilene kadar kalacaktır. Şimdiki cinsiyet organları körelecektir. İlk olarak dişil organ, ayrı bir birim olarak varolmuştu. “Birinciler, sonuncu olacak” şeklindeki yasaya göre en son onlar körelecek. Son olarak eril organ farklılaşmıştı ve daha şimdiden kendini bedenden ayırmaya başlamıştır. Şekil 13’den bunu daha açık şekilde görebiliriz. 
+
+<h2 id="part-3">3. KISIM: İnsanın Gelecekteki Gelişimi ve İnisiyasyon</h2>
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+### <h3 id="chapter-15">15. Bölüm: Mesih ve Misyonu</h3>
+
+#### <h4 id="the-evolution-of-religion">Dinin Gelişimi</h4>
+
+Bu eserin önceki bölümünde, etrafımızdaki dış dünyanın nasıl oluştuğunu ve insanın, dış dünyayla bağlantıda olmasını sağlayan karmaşık organizmayı nasıl geliştirdiğini öğrendik. Biraz da Yahudi Irk-dinini inceledik. Şimdi de insanlığın yükseltilmesi için yapılan en son ve en büyük tanrısal hamle olan Hristiyanlığı inceleyeceğiz. O, geleceğin Evrensel Dini olacaktır. 
+
+Şu dikkate değer bir gerçektir ki, insan ve onun dinleri, birlikte yan yana ve aynı derecede gelişmişlerdir. Bir ırkın ilk dininin, onun hakim olduğu ırk kadar vahşi olduğunu görürüz. Halkların uygarlaşması ile birlikte, onların dinleri de insani olmuşlar ve yüksek ideallerle daha uyumlu olmuşlardır. 
+
+Materyalistler bu olgudan yola çıkarak hiçbir dinin, insanın sahip olduğu kaynaktan daha yüksek bir kaynağa sahip olmadığı sonucunu çıkarmışlardır. Onların ilk zamanlara ilişkin araştırmaları şöyle bir kanaata sahip olmalarına yolaçtı: İnsan, gelişimiyle orantılı olarak Tanrı’sını medenileştirmekte ve onu kendi suretine göre modernleştirmektedir. 
+
+Bu akıl yürütme eksiktir, çünkü insanın beden değil, evrim ilerledikçe bedeni hep daha iyi bir yetenekle kullanan içte oturan bir ruh, bir Ego olduğu gerçeğini dikkate almamaktadır. 
+
+Beden için yasanın, “en uygun olanın Hayatta Kalması” olduğu şüphe götürmez. Ruhun Evriminin yasası ise “fedakârlık” talep eder. İnsan, “Güç haklıdır” şeklinde inandığı sürece beden gelişir ve güçlenir. Çünkü tüm engeller, başkaları dikkate alınmadan bertaraf edilir. Eğer beden her şey olsaydı, o zaman insan için tek bir yaşam biçimi olurdu. O, başkalarını hiçbir şekilde dikkate almaz ve kendi hakkı olarak gördüğü, yani güçlünün hakkı olarak gördüğü şeylere yapılan tecavüzlere karşı her şeyi güçle karşı koyarak deneyebilirdi. Çünkü, En Uygunun Hayatta Kalması yasasına göre tek adalet ölçütü, güçlünün haklı olduğudur. O, kendi hemcinslerine karşı tamamen saygısız olurdu. Ve onu, o anki keyfinden alıkoymaya yönelik olan ve dışarıdan gelen her türlü güce karşı tamamen duyarsız olurdu. 
+
+Bu yüzden açıktır ki, insanı daha soylu bir davranış biçimine götüren şey, onun içinden, bedenle özdeş olmayan bir kaynaktan gelmelidir. Çünkü ancak o zaman o, bedensel hazlarla çatışmaya girmez ve çoğu kez bedenin çok açık ilgilerine karşı galip gelemezdi. Ayrıca bedensel olan güçten daha kuvvetli bir güç olmalıdır, aksi takdirde o, bedensel arzuları başarıyla aşamaz ve o arzuları, fiziksel olarak kendisinden daha zayıf olanlara fedakarlık için zorlayamazdı. 
+
+Böyle bir kuvvetin varolduğunu elbette kimse inkar etmeyecektir. Gelişimimizde öyle bir aşamaya geldik ki, artık fiziksel olarak zayıf olanları kolay bir av olarak görmüyoruz ve onları koruyoruz. Bencillik, yavaş ama emin bir şekilde Fedakârlık tarafından defediliyor. 
+
+Doğa, kendinden emin bir şekilde amaçlarına ulaşır. Onun işleyişi, yavaş olmasına karşın düzenli ve kesindir. Her insanın göğsünde bu fedakarlık gücü, bir maya gibi çalışır. O, vahşi insanı medeni insan haline dönüştürdü, zamanla onu, bir Tanrı’ya dönüştürecektir. 
+
+Saf ruhsal olan, akıl ile bütünüyle kavranamasa da bir örnek yardımıyla en azından anlaşılabilir. 
+
+İki diyapazondan biri, aynı frekansla vurulursa ses, diğer diyapazonda da aynı titreşimin oluşmasına neden olacaktır. Bu titreşim başlangıçta zayıftır. Ancak aynı frekansla diyapazona vurulmaya devam edilirse ikinci diyapazomun sesi hep daha kuvvetli olacak ve sonuçta da birincisinin sesiyle aynı seviyeye gelecektir. İki diyapazom arasındaki mesafe birkaç metre olduğunda bile ve hatta diyapazonlardan biri, cam bir kapla kapatıldığında dahi aynı olay meydana gelir. Vurulan diyapazondan gelen ses, camı aşacak ve camın içindeki diyapazonda rezonansı oluşturacaktır. 
+
+Bu görünmez ses titreşimlerinin somut madde üzerinde büyük bir gücü vardır. Bu ses titreşimleri hem yaratabilir ve hem de yokedebilir. Çok ince pudra veya kumun az bir miktarı, bir metal veya cam plakanın üzerine serpilir ve plakanın kenarına bir keman yayı sürtülürse, tabakanın üzerindeki pudra, güzel ve geometrik formlara bürünür. İnsan sesi de, hep aynı sesi çıkardığında hep aynı formu yaratabilir. 
+
+Bir müzik aletinde (piyano veya daha iyisi kemanda, çünkü kemanda daha çok ses derecesi elde edilebilir) nota veya akort ardı ardına çalınırsa bu, dinleyicinin kafanın arka kısmının alt tarafında açıkça algılanabilir bir titreşim hissetmesine neden olur. Notanın çalındığı her seferde titreşim hissedilecektir. Onu bu kadar etkileyen bu ses, insan için “temel ses”tir. Eğer bu ses, yavaş ve yumuşak bir şekilde çalınırsa bedeni inşa edecek ve onu yenileyecek; sinirleri uyaracak ve sağlığı yeniden geri getirecektir. Ancak öte yandan baskın bir şekilde yeterince kuvvetli ve uzun çalınacak olursa o zaman, muhakkak ki tabancadan çıkan bir kurşun gibi insanı öldürecektir. 
+
+Müzik veya ses ile ilgili olarak söylediklerimizi şimdi bu içsel güç problemine uygularsak, belki konuyu daha iyi anlayabiliriz. 
+
+İlk olarak, yukarıda örneğini vermiş olduğumuz iki diyapazonun aynı ses seviyesine sahip olduklarını hatırlayalım. Eğer durum böyle olmasaydı, diyapazomlardan birini sur borusu ötene kadar ardarda çalmış olsaydık bile diğeri sessiz kalacaktı. Şunu iyice anlayalım: Ancak her iki diyapazonda da aynı ton varsa, bir diyapazondaki titreşimler, diğerinde de bir etkileşim meydana getirir. Her şeyin veya her varlığın, yukarıda belirtildiği gibi sadece kendi temel sesi aracılığıyla etkilenmesi sağlanabilir. 
+
+Fedakârlık gücünün varolduğunu biliriz. Uygarlaşmamış topluluklarda, daha yüksek sosyal topluluklardakine göre bu gücün daha az olduğunu da biliriz. Bu güç, en aşağı Irklarda neredeyse tamamen eksiktir. Bunun mantıksal sonucu şudur, bu gücün insanda tamamiyle eksik olduğu bir zaman vardı. O halde doğal olarak şu soruyu sormamız gerekir: “Bunun ortaya çıkmasına ne sebep oldu?” 
+
+Bunun maddi kişiliklikle bir ilgisi yoktur. Aksine insan doğasının bu parçası, onsuz çok daha fazla huzurludur. İnsanın içinde fedakârlık gücü gizil halde bulunuyor olmalıdır, aksi takdirde bu güç uyandırılamazdı. Dahası o, tıpkı ilk diyapazonun harekete geçirilmesinden sonra ikincisinin de harekete geçmesi gibi önceden beri faal olan benzer bir güçle uyandırılmış olmalıdır. 
+
+Aynı zamanda gördük ki, ikinci diyapazondaki titreşimler, birincisinden gelen sesin etkisiyle hep daha kuvvetli hale gelirler ve cam kap, ses etkileşimini önleyemez. İnsanda varolan güce benzeyen bir gücün sürekli etkisi altında Tanrı’nın insana olan Sevgisi, fedakârlık gücünü onda uyandırdı ve sürekli olarak bu gücün etkisini arttırdı. 
+
+Bu yüzden başlangıçta insana, câhilliğine uygun bir din vermenin zorunlu olduğunu kabul etmek makul ve mantıklıdır. Daha ilk zamanlarında ona, tamamen Şefkat ve Sevgi olan bir Tanrı’dan bahsetmek faydasız olurdu. Onun bakış açısından bu özellikler birer zayıflıktı ve insanlardan, kendilerine göre zayıf özelliklere sahip bir Tanrı’ya itaat etmeleri beklenemezdi. Onun itaat edeceği Tanrı, güçlü bir Tanrı olmalıydı. İnsanın korktuğu, yıldırımlar fırlatabilen ve yıldırım ışığını elinde tutabilen bir Tanrı. 
+
+Böylece insanın, ilk olarak Tanrı’dan korkması ve korkuyla onun ruhsal esenliğini destekleyen dinlere sahip olması sağlandı. 
+
+Bundan sonraki adım, onda bir çeşit özveri özelliğini uyandırmak oldu. Bunun için insanın kendi dünyasal malından bir kısmını vermesi, kurban etmesi sağlandı. Bu, ona kıskanç bir Tanrı olan bir Kabile ya da Irk Tanrısı verilmesi yoluyla sağladı. Bu Tanrı onlardan, en katı bağlılığı ve büyüyen insan tarafından çok değer verilen maldan kurban vermeyi talep ediyordu. Diğer yandan bu Irk-Tanrısı bir arkadaş ve güçlü bir dosttu. O, savaşları idare ediyor ve insana, kurban olarak sunduğu koyun, boğa ve tahılın kat kat fazlasını ona geri veriyordu. İnsan henüz tüm Yaratıkların benzer olduğunu anlayabileceği aşamaya erişmemişti. Fakat Kabile Tanrısı ona, kabilesindeki kardeşlerine karşı şefkatli davranmasını öğretti ve ona, aynı Irkın tüm insanları arasında adaleti ve dürüst ticareti sağlayan yasalar verdi. 
+
+Bu adımların kolayca gerçekleştirildiği ve onların ilkel insan tarafından direnç ve karşı gelmeyle karşılanmadığı düşünülmemelidir. Bencillik günümüze kadar bile aşağı doğada kökleşmiştir ve burada birçok yanılma ve doğru yoldan sapma olacaktır. Yahudi Kutsal Kitab’ında insanın Tanrı’nın emirlerini nasıl unuttuğuna ve Irk Tanrısı tarafından sabırla ve sürekli olarak nasıl “dürtülmesi” gerektiğine dair çok iyi örnekler vardır. Yalnızca sabırlı bir Irk-ruhunun belaları, o zamanlar insanı yasaya yeniden döndürecek derecede güce sahipti. Ki bu yasaya itaat etmeyi o zamana kadar çok az insan öğrenmişti. 
+
+Ancak her şeye rağmen daima, biraz daha yükseği talep eden öncüler varolmuştur. Sayıca yeterli düzeye geldiklerinde çeşitli evrim aşamalarının olması için daima evrimde yeni bir aşamaya geçilmiştir. Yaklaşık 2000 yıl önce insanlığın en ilerlemiş olanlarının bir aşama daha ilerisine ihtiyaç duydukları ve gelecekteki inanmaları gereken bir varoluşta ödüllendirilmek için iyi bir yaşam sürmelerinin zorunlu olduğu bir dine sahip olabilecekleri zaman geldi. 
+
+Bu, atılması gereken uzun ve zorlu bir adımdı. Bir koyunu veya öküzü tapınağa getirip bir kurban olarak sunmak nispeten kolaydı. Kişi ekininin, üzüm bağının veya hayvanlarının ilk ürünlerini sunduğunda Kabile Tanrısının ambarını tekrar dolduracağına ve ona ödül olarak verdiğinden çok daha fazlasını vereceğine inanırdı. Fakat bu yeni yolda malını kurban etmek değil, çok daha fazlası, kendini kurban etmek isteniyordu. Bu, en yüksek bir şehitlik eylemiyle bile karşılaştırılamazdı. Çünkü en yüksek şehitlik eylemini gerçekleştirmek bile buna göre kolaydır. Onun yerine insandan günbegün, sabahtan akşama kadar herkese karşı şefkatli davranması talep ediliyordu. İnsan artık bencilliğin önüne geçmeli ve komşusunu da kendisini sevdiği gibi sevmeliydi. Ayrıca ona doğrudan ve görünür bir ödül de verilmeyecekti. Onun sadece gelecekteki bir mutluluğa inanması gerekiyordu. 
+
+Gariptir ki insanlar, bu devamlı iyi davranmaya ilişkin yüksek ideali gerçekleştirmeyi, kendi çıkarlarını tamamen bir kenara bırakmaları gerektiğinden iki kat daha zor bulmuşlardır. Kurban talep ediliyordu, ancak bunun herhangi bir ödül garantisi yoktu. Elbette böyle bir fedakarlığın daima gerçekleştirilmesi ve bunun sürekli artması insanlığın lehinedir. İnsan ruhunun, bedenin bencil içgüdüleriyle mücadelede nasıl zayıf olduğunu ve böyle davranış kuralları karşısında ümitsizlik tehlikesinin ne kadar büyük olduğunu bilen Bilge Liderler, insanlara bir başka yükseltici güç verdiler. Onlar yeni dine, “vekil kefareti” öğretisini de dahil ettiler. 
+
+Yalnızca “Sebep ve Sonuç” yasasını üstün gören birkaç çok ileri düzeydeki filozof tarafından bu fikir horgörülerek reddedildi. Okuyucu bu filozoflarla aynı fikirde ise ondan, her iki görüşün de evrim planının bir parçası olduğunu gösteren ve aşağıda verilecek olan açıklamayı incelemesini rica edeceğiz. Kefaret (günah kurbanı) öğretisinin birçok ciddi ruha, kendi aşağı doğalarını sürekli başarısız çabalarına karşın buyrukları altına almada mücadele cesareti verdiğini söylememiz şimdilik yeterlidir. Hatırlayalım ki daha önce Yenidendoğuş ile Sebep ve Sonuç Yasalarını anlatırken bahsedilen sebeplerden dolayı Batı insanı gerçekte bu yasaları hiç bilmemektedir. İsa’dan önceki yaşamda böyle büyük bir idealle, birkaç kısa yıldan başka bir şeye sahip olmadan gelişimin böyle yüksek bir olgunluk seviyesine erişme inancında olanlara yardım etmemek en büyük zulüm olurdu. Bu yüzden Golgota’daki[49] YÜCE KURBAN, diğer amaçlara da hizmet etmiş olsa da, ileride gösterileceği gibi imkânsızı elde etmeye çalışan, yani Hristiyan dini tarafından talep edilen mükemmelliğe bir kısa yaşamda erişmeye çalışan her ciddi ruh için haklı bir umut ışığı oldu. 
+
+#### <h4 id="jesus-and-christ-jesus">İsa ve İsa Mesih</h4>
+
+Golgotha’nın Büyük Sırrını biraz olsun anlayabilmek ve gelecekteki Evrensel Dinin Kurucusu olan İsa’nın Misyonunu kavrayabilmek için her şeyden önce O’nun gerçek doğasına ve aynı zamanda da Taoizm, Budizm, Hinduizm, Yahudilik vs gibi Irk-dinlerinin başı olan Yehova’nın gerçek doğasına aşina olmalıyız. Aynı şekilde vakti geldiğinde Mesih’in Krallığı bırakacağı “Baba”nın kimliğini de tanımalıyız. 
+
+Hristiyan inancında şu cümleyi buluruz: “İsa Mesih, Tanrı’nın yegâne oğlu”. Bu genel olarak şöyle anlaşılmıştır: “Filistin’de yaklaşık 2000 yıl önce ortaya çıkmış ve İsa Mesih olarak bilinen bir kişi, belli bir birey, Tanrı’nın bir tek oğludur”. 
+
+Bu, büyük bir hatadır. Yukarıdaki cümlede, ayrı ve birbirinden çok farklı üç Varlık tanımlanmıştır. Öğrencinin bu Üç Büyük ve Yüce Varlığın doğalarını tam olarak anlaması hayati önem arzeder. Bu Üç Varlık, ihtişam bakımından birbirlerinden çok farklıdır, ancak herbiri de bizim en derin ve en samimi tapınmamıza lâyıktırlar. 
+
+Öğrenci şimdi Şekil 6’ya baksın ve “yegâne çocuğun” (Yuhanna’nın konuştuğu “Kelime”) En Yüce Varlığın ikinci görünümü olduğuna dikkat etsin. 
+
+Bu “Kelime” ve sadece bu “Kelime”, “Babasından (birinci Görünüm’den) tüm âlemlerden önce doğmuştur”. “Yaratılmış olan hiçbir şey O’nsuz yaratılmamıştır. Buna, her ikisinden meydana gelmiş olan Yüce Varlığın üçüncü Görünümü de dahildir. Bu yüzden “Tek doğurulmuş olan”, evrendeki her şeyin üzerinde olan Yüce Varlıktır. O’nu da yaratmış olan Güç-görünümü, sadece onun üstündedir. 
+
+Tezahür başlamadan önce En Yüce Varlığın birinci Görünümü, “düşünür” ya da olmasını diler. Her şey, milyonlarca Güneş Sistemleri ve varoluşun Kozmik Düzlemlerinden, bizim evrim alanımızın üzerindeki yedinci Kozmik Düzlemde bulunan (Şekil 6’ya bakınız) büyük Yaratıcı Hiyerarşiler de buna dahildir. Bu Görünüm aynı zamanda, daha da fazla büyüme olasılığını kaybederek kristalleşmiş olan her şeyi çözen güçtür. En sonunda aktif tezahürün sonu geldiğinde de içindeki her şeyi bir başka Tezahür Evresi’ne dek tekrar yutan güçtür. 
+
+En Yüce Varlığın üçüncü görünümü de, maddede kendisini itme ve çekme kuvvetleri olarak gösteren güçlerdir. Bu güçler ona farklı çeşitlerde Formlar oluşturma imkânı verir. Bu, Kozmik Kök- maddenin, daha önce bahsettiğimiz müzik titreşimleri yoluyla şekillerin oluşturulmasına benzer bir yöntemle en farklı türlerdeki formları oluşturan “kelime” ya da “yaratıcı buyruk”tur. Aynı ses daima aynı şekli meydana getirir. Böylece bu büyük ilk “KELİME”, en ince maddede sayısız Formlarla dolu tüm bu farklı âlemleri meydana getirdi ya da yaşama çağırdı. O zamandan bu yana bu âlemler ve Formlar sayısız yaratıcı Hiyerarşi tarafından kopyalandı ve onların tüm ayrıntıları üzerinde çalışıldı. 
+
+Ancak En Yüce Varlığın üçüncü görünümü, Kozmik Kök-Maddeyi normal atalet durumundan uyandırmasaydı ve sayısız birleşik atomun, kendi ekseni etrafında dönme hareketine geçmelerini sağlamasaydı, bu eksenleri birbirlerine farklı açılara yerleştirmemiş ve onlardan her biri özel bir “titreşim sayısına” sahip olmuş olmasaydı, “Kelime” bunu yapamazdı. 
+
+Eksenlerin bu farklı eğilim açıları ve titreşim sayıları, Kozmik Kök-maddeye yedi büyük Kozmik Düzlemin temeli olan farklı kombinasyonlar oluşturabilme imkânı sağladı. Bu yedi Düzlemin her birinde başka bir eksen eğilimi ve başka bir titreşim sayısı bulunur. Bu yüzden her bir Düzlemde koşullar ve bileşimler, “Tek Doğurulmuş Olan”ın faaliyeti sayesinde diğerlerindekilerden farklıdır. Şekil 14 bize şunları gösterir: 
+
+“Baba”, Satürn Evresi insanlığındaki en yüksek inisiyedir. O Evrenin sıradan insanlığı şimdi Zihnin Efendileri’dirler. 
+
+Şekil 14!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+“Oğul” (Mesih), Güneş Evresi’ndeki en yüksek inisiyedir. O Evre’nin sıradan insanlığı şimdi Yüce Meleklerdirler. 
+
+“Kutsal Rûh” (Yehova), Ay Evresi’nin en yüksek inisiyesidir. O Evre’nin sıradan insanlığı şimdi Meleklerdir. 
+
+Bu şekil aynı zamanda bu farklı Varlık gruplarına ait araçların neler olduklarını gösterir. Ayrıca Şekil 8’le karşılaştırılarak onların, Şekil 14’de kare şeklinde gösterilmiş olan bedenlerinin ya da araçlarının, insan oldukları Evre’nin Küre’sine karşılık geldikleri görülecektir. Genel insanlık dikkate alındığında, bu daima böyledir. Zira herhangi bir yaşam dalgasının insan varlıkları olarak bireyselleştiği her Evre’nin sonunda bu varlıklar, üzerlerinde faal oldukları Kürelere karşılık gelen bedenlerini muhafaza ederler. 
+
+Öte yandan İnisiyeler ilerlemişlerdir ve daha yüksek araçlar geliştirmişler, böylelikle de yeni ve elde etmiş oldukları daha yüksek bir aracı kullanabilmeye başlar başlamaz daha aşağı aracı bırakmışlardır. Normalde bir Yüce Meleğin en düşük aracı arzu bedendir. Fakat Güneş Evresi’nin en yüksek İnisiye’si olan Mesih, en düşük araç olarak yaşam ruhunu kullanır ve Yaşam Ruhu Âleminde, tıpkı bizim Fizik Âlemde etkin olduğumuz gibi bilinçli olarak etkindir. Öğrenciden bu noktaya özellikle dikkat etmesi istenmektedir. Çünkü Yaşam Ruhu Âlemi, âlemlerin anlatıldığı bölümde açıklandığı gibi her şeyi kapsayan ilk Âlemdir. O, bizim Güneş sistemimiz sözkonusu olduğunda ayrımın bittiği ve birliğin gerçekleşmeye başladığı âlemdir. 
+
+Mesih’in, Yüce Melekler’in kullandığı arzu beden gibi düşük seviyeli bir aracı yaratma ve onun içinde etkin olma gücü vardır. Ancak O, daha aşağıya inemez. Bunun ne anlama geldiğini şimdi görelim. 
+
+İsa, bizim insanlığımıza aittir. İnsan olan İsa, doğanın hafızasında incelenirse farklı koşullarda, farklı isimlerle, farklı bedenlenmelerde ve bu bakımdan diğer insan varlıklarına benzer olarak yaşam yaşam takip edilebilir. Fakat bu, Mesih için yapılamaz. O’nun durumunda sadece bir bedenlenme karşımıza çıkar. 
+
+Bununla birlikte İsa’nın sıradan bir birey olduğu zannedilmemelidir. O, şimdiki insanlığımızın büyük çoğunluğundan üstün ve benzersiz saflıkta bir zihne sahip birisiydi. Birçok yaşam boyunca Kutsallık Yolu’nda yürümüş ve bir insan varlığına ihsan edilmiş en büyük onura layık olmuştu. 
+
+Annesi Bâkire Meryem de en yüksek insan saflığına sahip birisiydi ve bu yüzden de İsa’nın annesi olması için seçilmişti. Meryem’in babası yüksek bir İnisiye idi ve dölleme eylemini, herhangi bir kişisel arzu veya tutku olmaksızın dinsel ayin gibi yapabiliyordu. 
+
+Böylece Nâsıra’lı İsa olarak bildiğimiz güzel, temiz ve sevimli Rûh, temiz ve arzusuz bir bedende doğdu. Bu beden, Dünya’da yapılabilecek en iyi bedendi ve İsa’nın bu bedenlenmede görevi, ona dikkat etmek, ondan mümkün olan en yüksek randımanı almak ve onu, hizmet edeceği büyük amaç için hazırlamaktı. 
+
+Nâsıra’lı İsa, bazı okült eserlerde iddia edildiği gibi M.Ö. 105 yılında değil, yaklaşık olarak tarihi kayıtlardaki tarihte doğdu. Doğuda İsa adı yaygındır ve İsa adında bir İnisiye de M.Ö. 105’de yaşadı. Fakat o, Mısır İnisiyasyonu aldı ve bizim ilgilendiğimiz Nâsıra’lı İsa değildi. 
+
+Daha sonraları Christian Rosenkreuz adı altında doğmuş ve bugün de bedenli olan kişi, daha Nâsıra’lı İsa doğduğunda yüksek evrimli bir varlıktı. İlk elden araştırmaların tanıklığı gibi onun daha sonraki tanıklığı da, Nâsıra’lı İsa’nın doğumunun Hristiyan Çağı’nın başlangıcında ve yaklaşık olarak tarihte kaydedilmiş zamanda gerçekleştiğini göstermektedir. 
+
+İsa Esseniler tarafından yetiştirildi ve fizik bedenini kullanışının 30. yılında ruhsal gelişiminin çok yüksek bir seviyesine erişti. 
+
+Bu arada şunu da söyleyelim ki Esseniler, Filistin’de varolan ve Yeni Ahitte adı geçen Ferisilerin ve Saddukilerin yanında üçüncü mezhebi oluşturuyorlardı. Esseniler aşırı dindar bir tarikattılar ve maddeci Saddukilerden ve şan şöhret arayan ikiyüzlü Ferisilerden oldukça farklıydılar. Onlar, kendilerinden, çalışma ve dua yöntemlerinden bahsetmekten tamamen kaçınırlardı. Onlara ilişkin nerdeyse hiçbir şeyin bilinmemesi ve Yeni Ahit’te anılmamaları da bunu kanıtlar. 
+
+Ne kadar yüce olsa da hiçbir varlık, bir âlemin maddesinden yapılmış bir araca sahip olmadığı sürece o âlemde iş göremez. Bu, Evrenin bir Yasasıdır. (Şekil 8 ve 14’e bakınız) Bu yüzden arzu beden, Güneş Evresi’nde insan aşamasına erişmiş olan ruhların en düşük aracıdır. 
+
+Mesih de (Christ) bu ruhlardan biriydi ve bu yüzden Kendisine bir yaşam beden ve bir yoğun beden aracı yapamazdı. O, tıpkı kardeşleri olan Yüce Melekler’in Irk-ruhları olarak yaptıkları gibi insanlık üzerinde ancak bir arzu beden içinde çalışabilirdi. Yoğun insan bedenine giremedikleri için Yehova onlara, alınan nefes aracılığıyla giden bir yol açmıştı. Tüm Irk-dinleri, yasa dinleriydiler ve bu yasaya itaatsizlikte günah yaratıcılarıydılar. Onlar, en aşağı aracı insan ruhu olan Yehova’nın idaresi altındaydılar. Bu da O’nun, her şeyin ayrı olduğu ve bu yüzden de Egoizm’e yol açan Soyut Düşünce Âlemi ile ilişkili olmasına yolaçmaktaydı. 
+
+Bu da tam olarak Mesih’in müdahalesini gerekli zorunlu kılan sebepti. Yehova’nın egemenliği altında birlik imkânsızdır. Bu yüzden en aşağı araç olarak birleştirici yaşam ruhuna sahip olan Mesih, fizik insan bedenine girmeliydi. O, insanlar arasında insan olarak görünmeliydi ve bu bedende oturmalıydı. Zira O, insanları dışarıdan nüfuzu altına alan Irk-dinini ancak içeriden yenebilirdi. 
+
+Mesih, yoğun bir bedende doğamazdı, çünkü Yer Evresi’ndeki gibi bir evrimden geçmemişti. Bu yüzden ilk olarak O, bizimki gibi yoğun bir beden yapma yetisini edinmek zorundaydı. Ancak O, bu yetiye sahip olsaydı bile, böyle çok yüce bir varlık için doğum öncesi yaşamda, çocuklukta ve gençlikte fizik bedenin inşası ve onu olgunlaştırmak ve kullanmak için gerekli enerjiyi tüketmesi uygun olmazdı. Normalde O, Güneş Evresi’nde onları yapmayı öğrenmiş olduğu ve istenildiği veya gerekli olduğu takdirde onlar aracılığıyla işgörebilme yetisine sahip olduğu halde bizim insan ruhumuza, zihnimize ve arzu bedenimize karşılık gelen araçları kullanmadı. Bu yüzden Mesih, hep kendi araçlarını kullandı ve İsa’dan sadece yaşam bedeni ve yoğun bedeni aldı. İsa (Jesus), 30 yaşına girdiğinde Mesih (Christ) bu bedenlere girdi ve onları Golgotha’da Misyonunun zirvesine dek kullandı. Yoğun bedenin yıkılmasından sonra Mesih, Havarileri arasında yaşam bedende göründü. O, yaşam bedende belli bir süre işgördü. Yaşam beden aynı zamanda, O’nun tekrar görünmesinde kullanacağı araçtır, çünkü O, bir daha başka bir yoğun beden almayacaktır. 
+
+Tüm ezoterik eğitimlerin amacının, yaşam ruhunun inşa edilmesi ve yaşatılması için yaşam beden üzerinde çalışmak olduğunu söylememiz, daha sonra anlatacağımız bir konuya tecavüz etmek olur. İleride İnisiyasyon konusuna geldiğimizde bu konu hakkında daha fazlasını söylememiz mümkün olacaktır, ancak şimdi bu konuya ekleyeceğimiz bir şey yoktur. Ölüm sonrası varoluşa dair olayları anlattığımızda bu konuya da kısmen değinilmiştir. Öğrenciden burada, ezoterik konularla uğraşmaya başlamadan önce arzu bedenine önemli ölçüde hakim olması gerektiğini unutmaması istenmektedir. Ezoterik eğitimler ve önceki İnisiyasyonlar, yaşam beden üzerinde çalışmaya dayanmaktadır ve yaşam ruhunun inşası ile sonuçlanmaktadır. Mesih, İsa’nın bedenine girdiğinde İsa, yüksek dereceli bir öğrenciydi. Bu yüzden Mesih’in içinde etkili olduğu en aşağı araç, İsa’nın yüksek araçlarından en iyi organize olmuş olanı ile özdeşti. Ve Mesih, İsa’nın yaşam bedenini ve yoğun bedenini aldığında tüm araç zinciri ile donanmış oldu. Ki bu zincir de Yaşam Rûhu Âlemi ile yoğun Fizik Âlemi arasındaki boşlukta bir köprü oldu. 
+
+İsa’nın birkaç İnisiyasyondan geçmesinin gerçek anlamı, yaşam beden üzerindeki etkidedir. İsa’nın yaşam bedeni zaten yaşam ruhunun yüksek titreşimlerine uymuştu. İsa’nın bedenine girmiş olan Yüce Ruhun müthiş titreşimleri altında ortalama bir insanın yaşam bedeni hemen çökerdi. İsa’nın arı ve yüksek akortlu (uyumlu) bedeni bile bu muazzam etkilere dayanamıyordu. Ve zaman zaman geçici olarak Havarilerinden ayrıldığında (örneğin onlarla buluşmak için daha sonra suyun üzerine yürüdüğünde) okültist bilir ki Mesih, ona Esseni Kardeşlerinin bakımı altında biraz dinlenme sağlamak için İsa’nın araçlarından çekiliyordu. Esseni Kardeşler bu araçlara nasıl davranılacağını Mesih’in kendisinden daha iyi biliyordu. 
+
+Bu değişim, bütün yaşamı boyunca Mesih için bir araç hazırladığını bilen İsa’nın tam ve hür rızâsıyla olmaktaydı. O, kardeşleri olan insanlığın, gelişiminde Golgotha’daki esrarengiz kurban aracılığıyla verilen devasa ivmeyi alabilsin diye seve seve buna teslim oldu. 
+
+Böylece (Şekil 14’de gösterildiği gibi) İsa Mesih, Fizik Âlemden Tanrı’nın Tahtına dek kesintisiz bir zincir oluşturan oniki araca da sahipti. Bu yüzden hem Tanrı ve hem de İnsan’la bağlantıda olan ve onların arasında aracılık edebilecek Evren’deki tek Varlıktı. Zira O, kişisel ve bireysel olarak tüm halleri deneyimledi ve fiziksel varoluşun tüm sınırlamalarını bilir. 
+
+Mesih, tüm bu yedi Âlemin bütün Varlıkları arasında tek ve benzersizdir. Yalnızca O, oniki araca sahiptir. Hiç kimse O’nun kadar merhamet hissedemez veya O’nun kadar insanlığın konumunu ve ihtiyaçlarını bilemez. Yalnızca O, darda kaldığımızda bize kurtuluşu getirebilir. 
+
+Böylelikle Mesih’in doğasını artık bilmiş oluyoruz. O, Güneş Evresi’nin en yüksek İnisiye’sidir ve Fizik Âlemde işgörebilmek ve insanların arasında bir insan olarak görünebilmek için İsa’nın bedenini almıştır. Eğer O, doğaüstü bir yolla görünmüş olsaydı bu, evrim plânının aksine hareket etmek olurdu. Zira Atlantis Çağı’nın sonlarına doğru insanlık, iyi ya da kötü hareket edebilme özgürlüğüne sahip oldu. Kendi kendisini yönetebilmeyi öğrenebilmesi için ona karşı hiçbir baskı kullanılamaz. İnsanlık, iyiyi ve kötüyü deneyim aracılığıyla öğrenmelidir. Bu zamana kadar o, iradesiz bir şekilde yönetilmişti. Fakat bu zamandan sonra ona farklı Irk dinlerine, kabilelerinin veya halklarının özel gereksinimlerine uyma özgürlüğü verildi. 
+
+#### <h4 id="not-peace-but-a-sword">Barış Değil Bir Kılıç</h4>
+
+Tüm Irk-ruhları Kutsal Ruhtandırlar. Onlar yetersizdirler, çünkü günaha neden olurlar ve ölüm, acı ve keder getirirler. 
+
+Tüm Irk-ruhları bunu bilirler ve dinlerinin yalnızca daha iyiye olan adımlar olduğunu da bilirler. Bu, istisnasız tüm Irk-dinlerinin gelecek bir Seçilmiş’e işaret ettikleri gerçeğinden de bellidir. Farslıların dini Mithras’a, Keldanilerin dini Tammuz’a işaret eder. Eski Kuzey Cermen halkları, parlak Güneş Ruhu Surtr üzerlerinden geçtiğinde “Tanrıların Alacakaranlığı”nın yaklaştığını ve böylece de yenilenmiş Dünya “Gimle”de yeni ve daha iyi bir düzen oluşacağını bilirlerdi. Mısırlılar, yeni doğmuş Güneş olan Horus’u beklerlerdi. Mithras ve Tammuz da Güneş küreleri olarak sembolize ediliyorlardı ve doğan güneş ışınlarının açık kapılardan direkt içeriye girebilmesi için tüm ana tapınaklar, yüzleri Doğu’ya bakacak şekilde inşa edilmişlerdi. Rom’daki Aziz Peter Kilisesi bile bu şekilde yapılmıştır. Tüm bu olgular gösterir ki, gelmesi beklenen Seçilmiş, tüm Irk- dinleri içerisinde zorunlu olarak bulunan ve insanlığı bölen etkilerden kurtaracak olan bir Güneş ruhuydu. 
+
+Bu dinler, Mesih’in gelişine hazır olmak için insanlığın mutlaka atması gereken adımlardı. İnsanın gerçekten özverili olabilmesi ve daha yüksek bir basamak olan Evrensel Kardeşliği, yani amacın ve çabanın birliğini anlayabilmesi için ilk olarak o, bir “nefs” (self, benlik) geliştirmeliydi. Ki bu Evrensel Kardeşlik için İsa, ilk gelişinde onun temelini attı, yeniden geldiğinde de onu canlı bir gerçeklik yapacaktır. 
+
+Bir Irk dininin ana ilkesi insanın, diğer insanların ve halkların pahasına kendisini sevmesini telkin eden ayırımdır. Bunun için açıktır ki, bu ilke sonuna kadar uygulanacak olursa, mutlaka sürekli artan bir yıkıcı eğilim haline gelir. Ve nihayetinde onun yerini daha yapıcı bir din almazsa evrimi de engeller. 
+
+Bu yüzden Kutsal Ruhun ayrımcı dinleri, Oğul’un birleştirici dinine, yani Mesih’in dinine yerlerini bırakmalıdırlar. 
+
+Yasa, yerini Sevgi’ye bırakmaldır ve ayrı Irklar ve Uluslar, Mesih’in En Büyük Biraderler ile birleştiği gibi tek Evrensel Kardeşlikte birleşmelidirler. 
+
+Hristiyan Dini henüz, bu büyük ödevi gerçekleştirmek için yeterli zamana sahip olamadı. İnsan hala, egemen Irk-ruhunun zincirlerine bağlıdır ve Hristiyanlığın idealleri onun için henüz çok yüksektir. Zihin Hristiyanlık dininin bazı güzelliklerini görebilir ve gönülden bizim düşmanlarımızı sevmemiz gerektiğini kabul edebilir, fakat arzu bedenin tutkuları hâlâ çok güçlüdür. Irk-ruhunun yasası “göze göz”dür, duygusu ise “ben öç istiyorum”dur. Kalp, Sevgi için dua eder, arzu beden ise öç almayı umar. Zihin, soyutta düşmanları sevmenin güzelliğini görür, fakat somut durumlarda kendisini arzu bedenin intikamcı duygusuyla birleştirir ve “öç” ile “sosyal organizmanın korunması”nı bahane eder. 
+
+Bununla birlikte yine de toplumun, kullanılan intikamcı yöntemler için kendini özür dilemeye mecbur hissetmesi tebrik edilecek bir durumdur. Islah edici yöntemler ve merhamet, mahkemelerde hep daha fazla önemli hale gelmeye başlamıştır. Buna örnek olarak Gençlik Mahkemesinin oldukça modern kurumunun bulduğu kabul şeklini verebiliriz. Bu eğilimin daha ileri göstergesi de suçlu bulunan mahkumların hep daha sık olarak şartlı tahliye edilmesidir. Savaş suçlularına da son yıllarda çok insani bir şekilde davranıldı. Bunlar, yavaş ama emin bir şekilde etkisini hissettiren Evrensel Kardeşlik duygusunun öncüleridir. 
+
+Ancak Dünya ilerlemeler kaydetmesine ve kitabın yazarı için konferans verdiği şehirlerde belli bir dinleyici kitlesi bulma işi bir dereceye kadar kolay olmasına karşın, günlük gazeteler yazarın görüşlerine ancak, konuşmalarını yüksek âlemler ve ölüm sonrası hallerle ilgili konularla sınırlandırdığında bazen tam sayfa ve hatta birinci sayfayı ayırmaktadırlar. Fakat şu da çok dikkat çekicidir ki, konu Evrensel Kardeşlik olduğunda yazarın makaleleri daima çöp sepetine gönderilmektedir. 
+
+Dünya, “çok fazla” özverili görüşler üzerinde düşünmeye genelde çok isteksizdir. “Onun içinde bir şey” olmalıdır. Eğer kendi tarafındakilere “bir üstünlük” sağlamak için bir fırsat yaratmıyorsa hiçbir şey, tamamen doğal bir hareket çizgisi olarak görülmez. Bu ilkeye göre ticari girişimler planlanır ve yürütülür. Yararsız zenginliğe olan açgözlülükleri sebebiyle köleleştirilmiş olanların zihinlerinde Evrensel Kardeşlik fikri, kapitalizmin kaldırılması gibi onlar için kabus olan bir düşünce uyandırır. Bu düşünceyle birlikte diğerlerinin sömürülmesi ve “ticari intereseler”in mahvolması akıllarına gelir. “Köleleştirilmiş” kelimesi tam olarak bu durumu ifade eder. İncil’e göre insan, Dünya’ya hükmetmelidir. Ancak pek çok durumda bunun tersi geçerlidir, Dünya insanlara hükmeder. Mülke sahip her insan, aklı başında anlarında, kendisini daima endişelendirecek hiçbir nedenin bulunmadığını, mülkiyetini devam ettirebilmesi için sürekli planlar yapmakta olduğunu veya en azından “keskin pratiklerle” onu çalınmaktan koruduğunu itiraf eder. Zira bilir ki diğerleri, arzuladıkları bu hedefe ulaşmak için sürekli dolaplar çevirmektedirler. Bu adam, bilinçsiz bir ironiyle “mülkü” olarak adlandırdıklarının kölesidir. Gerçekte mülkleri ona sahiptir. Haklı olarak Concord Bilge’si şöyle söylemiştir: “Şeyler, eyerde oturur ve insanlığı sürerler”. 
+
+Bu durum, kendi yasa sistemiyle Irk-dinlerinin sonucudur. Bu yüzden tüm bu dinler, “Gelmesi Gereken Biri”sinin yolunu gözlerler. YALNIZCA Hristiyan Dini, gelecek birisini değil, tekrar gelecek birisini bekler. Bu ikinci gelişin zamanı, Kilise’nin kendisini devletten kurtarabilmesine bağlıdır. Özellikle Avrupa’da Kilise, devlet arabasına bağlanmış durumdadır (1909). Rahipler ekonomik düşüncelerle zincirlenmişlerdir ve çalışmalarının ortaya çıkardığı gerçekleri açıklamaya cesaret edememektedirler. 
+
+Danimarka Kopenhag’a seyahate giden bir kişi geçenlerde bir kiliseye kabul âyinine şahit oldu. Orada Kilise devlet kontrolü altındadır ve tüm rahipler devlet tarafından atanır. Cemaat üyelerinin bu konuda hiçbir söz hakkı yoktur. İnsanlar kiliseye gidip gitmemekte serbesttirler, ancak onu desteklemek için vergi vermeye mecburdurlar. 
+
+Kilise ayinlerinin devlet yardımıyla yapılmasına ek olarak bahsettiğimiz kilisenin papazına Kral tarafından çeşitli nişanlar verilmişti. Bu nişanların parlayan yıldızları, onun Devlete uşaklığının ölçüsünü gösteren sessiz tanıklardı. Ayin boyunca o, ülkenin doğru yönetilmesi için Kral ve parlamenterlere dua etti. Krallar ve parlamenterler varolduğu sürece onlar için dua etmek herhâlde yerindedir, ancak papazın bunlara bir de şu duayı eklediğini duymak, bahsettiğimiz ziyaretçi için büyük bir şoktu: “... ve, her şeye kâdir Tanrı, Kara ve Deniz Kuvvetlerimizi korusun ve güçlendirsin!”. 
+
+Böyle bir dua açıkça göstermektedir ki, burada tapınılan Tanrı, Irk-ruhu olan Kabile ya da Ulus Tanrısıdır. Zira sevgili İsa’nın son eylemi, kendisini korumak isteyen arkadaşının kılıcını tutmak oldu. O, kendisinin barış değil bir kılıç getirdiğini söylediğinde militan “Hristiyan” uluslarının, öğretilerini yanlış anlayarak oluşturacakları kan deryalarını önceden görmüştü. Çünkü yüksek idealler insanlık tarafından hemen kavranılamaz. Savaşın toplu kıyımları ve benzeri canavarlıklar zalimcedir, ancak bunlar, Sevgi’nin bizi neden kurtarabileceğine dair güçlü örneklerdir. 
+
+İsa Mesih’in sözleri, “ben barış getirmek için gelmedim, bir kılıç getirdim” ile İsa’nın doğumunu haber veren göksel ilahi “Yerde barış, insana iyi niyet” arasında görünürde açık bir çelişki var gibi görünmektedir. Ancak bu sadece görünüşte böyledir. 
+
+“Şimdi ortalığı toplayacağım ve temizlik yapacağım”, diyen bir kadının sözlerinde de yine aynı şekilde görünürde bir çelişki vardır. Çünkü o hemen, halıları kaldırmaya, sandalyeleri birbiri üzerine koymaya ve önceden düzenli bir evde genel bir dağınıklık yaratmaya başlayacaktır. Onun bu işinin sadece bu kısmını gören birisi haklı olarak şunu söyleyecektir: “O, ortalığı toplamak yerine dağıtmaktadır”. Fakat kadının çalışmasının amacı anlaşıldığında bu kişi, geçici dağınıklığı anlayacaktır. En sonunda da kadının evi, dağınıklıktan sonra daha iyi düzenlenmiş olacaktır. 
+
+Benzer şekilde şunu akılda tutmalıyız ki, İsa Mesih’in gelişinden bu yana geçmiş olan zaman, yalnızca bir Tezahür Günüyle karşılaştırıldığında bile bir anlık kalır. Biz, Whitman’ın yaptığı gibi “zamanın bolluğunu bilmeyi” öğrenmeliyiz. Ama aynı zamanda birbirleriyle savaşan mezheplerin geçmişteki ve şimdiki zulümlerinin ve kıskançlıklarının ötesine, ışıldayan Evrensel Kardeşlik Çağı’na bakmayı öğrenmeliyiz. Bu Çağ insanın, topraktan Tanrı’ya, protoplazmadan Baba ile bilinçli birliğe olan uzun ve mucizevi yolculuğunun bir sonraki büyük adımıdır. O Baba ki, ... tüm yaratımın kendisine doğru hareket ettiği Çok uzak ve ilahi bir olay. 
+
+Burada şunu da ekleyebiliriz ki, yukarıda anlattığımız papaz, öğrencilerini kiliseye kabul ayininde onlara, İsa Mesih’in birleşik bir birey olduğunu, İsa’nın ölümlü ve insani olan kısım; Mesih’in ise ölümsüz tanrısal Ruh kısmı olduğunu öğretmekteydi. O, kendisiyle bu konu tartışılmış olsaydı, okült bir gerçeği bildirmesine rağmen herhâlde bunu savunamazdı. 
+
+#### <h4 id="the-star-of-bethlehem">Bethlehem Yıldızı</h4>
+
+İsa’nın birleştirici etkisi, üç büyücünün ya da “Doğu’nun üç bilgesi”ne ilişkin hikâye ile simgelenmiştir. Bu hikâye, General Lew Wallace tarafından güzel hikâyesi “Ben Hur”da büyük bir ustalıkla işlenmiştir. 
+
+Üç Bilge adam – Caspar, Melchior ve Balthasar- beyaz, sarı ve siyah Irkların temsilcileridirler ve tümü Yıldız tarafından “birgün herkesin önünde diz çökmek zorunda kalacağı” ve “her dilin kabul edeceği” Dünya’nın Kurtarıcısına götürülen Avrupa, Asya ve Afrika halklarını simgelerler. O, tüm dağılmış ulusları Barış ve İyi niyet bayrağı altında toplayacak ve insanların, “kılıçlarını saban; mızraklarını da budama bıçkısı” olarak kullanmalarını sağlayacaktır (Jes. 2,4). 
+
+Bethlehem’in Yıldızı’nın, İsa’nın doğumunda göründüğü ve üç bilge adamı Kurtarıcı’ya götürdüğü söylenmektedir. 
+
+Bu Yıldız’ın doğasına ilişkin çok fazla spekülasyon yapılmıştır. Materyalist bilimadamlarının pek çoğu onun bir efsane olduğunu açıklamışlardır. Diğerleri de eğer o bir efsane değilse bunun bir “rastlantı” olabileceğini söylemişlerdir. Onlara göre iki ölü güneş çarpışmış ve dev bir alev topuna dönüşmüş olabilir. Her ne olursa olsun her Mistik kişi, sadece İsa ve İsa Mesih’in yaşamıyla bağlantılı semboller olarak değil kendi kişisel deneyiminden “Yıldız”ı –ve tabii “Haç”ı da– bilir. 
+
+Paul şöyle der: “İsa sende biçimleninceye kadar”. Ve Mistik Angelus Silesius bunu şöyle tekrarlar: 
+
+    Ve İsa Bethlehem’de bin kez de doğmuş olsa   
+    Sende doğmadıkça ruhun ümitsizdir   
+    Golgotha’daki Haç’a boşuna bakıyorsun   
+    O senin içinde tekrar kurulmadıkça   
+
+Richard Wagner, sanatçının sezgisel bilişini, Parsifal’in “Kase [50] kimdir?” sorusuna Gurnemanz’ın verdiği cevapta gösterir: 
+
+    Bunu biz söyleyemeyiz   
+    Fakat eğer sen onun tarafından seçildiysen   
+    Gerçek sana gizli kalmayacak   
+    Ülkedeki hiçbir yol ona götürmez   
+    Ve kimse O’nu tarif edemez   
+    O’nun kendisi Rehber olmadıkça   
+
+“Eski inanç sistemi” altında İnisiyasyon yolu açık değildi. Bu yol, sadece birkaç seçilmiş içindi. Yolu arayanlar oldu, ancak sadece Kâhin’lerin tapınağa rehberlik ettiği kişiler girişi buldular. İsa’nın gelişinden önce herkesi kapsayan “kim olursan ol gel” gibi bir çağrı yoktu. 
+
+Kan Golgotha’ya aktığı anda (birazdan açıklayacağımız sebeplerden) “tapınağın perdesi yırtıldı” ve o zamandan beri kim girmek isterse oraya girecektir. 
+
+Sır Tapınaklarında kâhin, öğrencilerine güneşin içinde fiziksel bir güç olduğu kadar spritüel bir gücün de olduğunu öğretirdi. Güneş ışınlarının fizik gücü, Doğa’nın dölleyici ilkesidir. O, bitki krallığının büyümesini sağlar ve böylelikle de hayvan ve insan krallıklarının da yaşamasını sağlar. O, tüm fizik güçlerin kaynağı olan yapıcı enerjidir. 
+
+Bu fiziksel Güneş enerjisi en yüksek ifadesine yaz ortasında, günler en uzun ve geceler de en kısa olduğu zamanda ulaşır. Çünkü güneş ışınları Kuzey yarımküreye doğrudan düşerler. Bu zamanda ruhsal güçler de en durgun konumlarındadırlar. 
+
+Diğer yandan Aralık’ta uzun kış geceleri esnasında Güneş ışınlarının fizik gücü uykudadır ve ruhsal güçler, etkinliklerinin zirvesine ulaşırlar. 
+
+24 Aralık’ı 25 Aralık’a bağlayan gece, - en yüksek zirvede- tüm yılın “En Kutsal Gece”sidir. Tertemiz göksel Bâkire’nin burçlar kuşağı sembolü, geceyarısı civarında doğudaki ufuktadır. Sonra da Yeni Yılın Güneşi doğar ve en güneydeki noktadan kuzey yarımküreye doğru olan yolculuğuna, insanlığın bu kısmını, fiziksel karanlık ve kıtlıktan kurtarmak için başlar. Eğer o, sürekli ekvatorun güneyinde kalsaydı kuzey yarımküredeki insanlar için karanlık ve kıtlık kaçınılmaz olurdu. 
+
+Şimdi sahip olduğumuz tüm dinlerin ortaya çıktığı kuzey yarımkürenin insanları için Güneş, doğrudan Yer’in altındadır ve kuzeyde ruhsal etkiler, 24 Aralık geceyarısında en kuvvetli konumdadır. 
+
+Bu yüzden açıktır ki, inisiyasyona erişimede adım atmaya kararlı olanlar için bu anda ruhsal Güneş’le bilinçli temasa geçmek, özellikle de bu temas ilk defa aranıyorsa çok kolaydır. 
+
+Bu yüzden (bu gecede), İnisiyasyon için hazır olan öğrenciler, Sırların Kâhinlerinin himâyesi altına alınıyorlardı. Öğrenciler tapınakta yapılan âyinler aracılığıyla fizik hâlleri aşarak bir vecd hâline yükseltiliyorlardı. Ruhsal vizyonlarında katı Dünyâ şeffaflaşıyordu ve geceyarısında Güneş’i, yâni “Yıldız”ı görüyorlardı. Onların ruhsal gözleriyle gördükleri fizik güneş değildi. Nasıl fizik güneş onların fiziksel Kurtarıcıları ise gördükleri Güneş’teki Rûh, yâni Mesih de onların Ruhsal Kurtarıcılarıydı. 
+
+Bu, o kutsal gecede parlayan Yıldız’dır ve Mistik kişiye gecenin karanlığında hâlâ görünmektedir. Fiziksel faaliyetlerin gürültüsü ve karmaşası durduğunda, mistik kişi hücresine girer ve Barış kralının yolunu arar. Parlayan Yıldız, ona kılavuzluk etmek için hep oradadır ve onun ruhu, şu kâhince şarkıyı duyar: “Dünya’da Barış ve İnsan’a İyi niyet”. 
+
+Barış ve iyi niyet, istisnasız herkese! Artık düşmanlık ve itilmişliğe yer yok! İnsanlığı böyle yüksek bir ideale eğitmenin zorluğu bir mucize midir? Savaşın, bencilliğin ve nefretin şimdiki durumuyla (1909) karşılaştırıldığında Barış, iyi niyet ve sevgi’nin güzelliği ve gerekliliği için daha iyi bir kanıt var mıdır? 
+
+Işık ne kadar güçlüyse onun gölgesi de o kadar derindir. İdeallerimiz ne kadar yüksekse, kusurlarımızı da o kadar açık görürüz. 
+
+Ne yazık ki gelişimin şimdiki aşamasında insanlık, sadece en sert deneyimlerden bir şeyler öğrenir. Bir Irk olarak o, tıpkı insanın, sağlığı için minnettar olabilmesi için hastalığı bilmesi gerektiği gibi mutlaka çok bencil olmalıdır ki, diğerlerinin bencilliklerinin yolaçtığı en keskin acıları bilebilsin. 
+
+Haksız yere Hristiyanlık olarak adlandırılan din, bu yüzden bilinen dinlerin (ki buna, bu açıdan biraz bizim yanlış uygulanmış hıristiyanlığa benzeyen Muhammedilik de dahildir) en kanlısı olmuştur.[51] Savaş alanında ve Engizisyonda uysal Nâsıralı adına sayısız ve tarifsiz zulümler yapılmıştır. Kılıç ve Şarap Kadehi –saptırılmış Haç ve Komünyon Kadehi– en güçlü ve sözde Hristiyan halkları tarafından putperest halklar ve hatta kendilerinden daha zayıf Hristiyan halklar üzerinde kurdukları egemenliğin araçları olmuştur. Grek-Latin, Kelt ve Anglo-Sakson Irklarının tarihine şöyle bir bakmak bile bu sonuca ulaşmak için yeterlidir. 
+
+İnsan, Irk-dinlerinin tam egemenliği altında bulunurken her halk, birleşik bir bütündü. Kişisel ilgi alanları, bilerek topluluğun ilgi alanlarının altına konulmuştu. Herkes “yasa altında” bulunuyordu. Herkes ilk planda kendi kâbilesinin üyesiydi ve ancak ikinci planda bireydi. 
+
+Zamanımızda diğer uca, “kendini” başka her şeyin üstüne yüceltmeye doğru aşırı bir eğilim vardır. Bunun sonucu da tüm ulusların karşı karşıya olduğu ve çözümünü istedikleri ekonomik ve endüstriyel problemlerle kendisini göstermektedir. 
+
+Her insanın kendisini tamamıyla ayrı bir birlik, bir Ego olarak hissettiği ve kendi yolunu yalnız olarak takip ettiği gelişim seviyesi zorunlu bir geçiş aşamasıdır. Evrensel Kardeşliğin gerçek olabilmesi için önce ulusun, kâbilenin ve ailenin birliği önce çözülmelidir. Baba gibi davranış rejiminin (Paternalizm) yerini büyük ölçüde bireyselliğin egemenliği almıştır. Uygarlığımız ilerledikçe bireyselliğin kötülüğünü de daha iyi tanıyabiliyoruz. İş dağılımındaki sistemsiz yöntem, birkaç kişinin açgözlülüğü ve kitlelerin sömürülmesi gibi sosyal suçlar, iç barışı yokeden düşük beslenme, endüstriyel depresyonlar ve iş rahatsızlıklarına yolaçmaktadır. Günümüzdeki endüstriyel savaş, ulusların askeri savaşlarından çok daha fazla kişiyi etkilemekte ve çok daha yıkıcı olmaktadır. 
+
+#### <h4 id="the-heart-as-an-anomaly">Bir Rahatsızlık Olarak Kalp</h4>
+
+İnsan, onun gerçekliğini yüzeysel olarak kabul etse bile kalbi onu hasret ve acılık içinde öğrenmedikçe hiçbir dersin, bir değeri yoktur ve faal bir yaşam prensibi olarak etkili olamaz. İnsanın bu yolla alması gereken ders, herkes için hayırlı olabilecek bir şeyin, bir birey için asla tam anlamıyla hayırlı olamayacağıdır. Yaklaşık 2000 yıl boyunca “kötülüğe iyilikle karşılık verme” gibi ilkelere göre yaşamamız gerektiğine ağzımızla kolaylıkla razı olduk. Kalp, merhamet ve sevgi isterken akıl, kavga ve öç alma peşindedir. Eğer akıl öç aramazsa, en azından aynı düşmanlığın tekrarlanmasını önleme yolları arar. Kalp ve Beyin arasındaki bu ayrılık, gerçek bir Evrensel Kardeşlik duygusunun büyümesini ve Sevgi’nin Efendisi olan Mesih’in öğretilerinin benimsenmesini engeller. 
+
+Zihin, kendisi aracılığıyla Ego’nun maddi evrende bilinç sahibi olduğu odak noktasıdır. Her bir krallıkta bilgi edinme aracı olarak zihin, paha biçilemez bir enstrümandır. Fakat o kendisine, insanlar arasındaki ilişkileri yöneten bir diktatör rolü biçerse ya da diktatör olursa durum, Güneş’in fotoğrafını çeken astronoma bir merceğin şöyle demesi gibi olur: “Sen beni yanlış odakladın. Güneş’e doğru olarak bakmıyorsun. Güneş’in fotoğrafını çekmenin doğru olduğunu düşünmüyorum ve beni Jüpiter’e doğrultmanı istiyorum. Güneşin ışınları beni çok ısıtıyor ve bana zarar verebilir”. 
+
+Eğer astronom kendi iradesini kabul ettirirse ve teleskobu dilediği gibi yönlendirir, ona – yapacağı işe uygun şekilde– kendisine isabet eden güneş ışınlarını yansıtmayı emreder ve fakat aynı zamanda başarıyı da ona bırakırsa, çalışma başarıya ulaşacaktır. Ancak mercek kendi iradesini kabul ettirir ve teleskopun mekanizması da onunla birleşirse astronum ciddi zorluklarla karşılaşacaktır. Ve de asi bir enstrümanla savaşmak zorunda kalacak ve az değerli ve hatta değersiz bozuk resimler elde edecektir. 
+
+Ego’yla ilgili olarak da durum böyledir. O, üçüz bir beden içinde çalışır ve bu bedeni zihin aracılığıyla kontrol eder ya da en azından kontrol etmesi gerekir. Ancak ne yazık ki bu bedenin bir iradesi vardır ve zihin de ona suç ortaklığı yapar. Böylece Ego’nun amaçlarına engel olurlar. 
+
+Bu düşman “düşük irade”, arzu bedenin yüksek kısmının bir ifadesidir. Lemurya Çağı’nın başlangıcında Güneş, Ay ve Dünya’nın ayrılmaları gerçekleştiğinde oluşan insanlığın daha gelişmiş kısmı, arzu bedenin yüksek ve alçak iki kısma bölünmesini deneyimledi. İnsanlığın kalanı da Atlantis Çağı’nın ilk zamanlarında aynı deneyimi yaşadı. 
+
+Arzu bedenin bu yüksek kısmı, bir çeşit hayvan ruhu oldu. O, serebro-spinal (cerebro- spinal) sinir sistemini ve istençli kasları inşa etti ve bağlantı aracı olan zihin kendisine verilinceye kadar bu araçlarla üçüz bedenin alt kısmını kontrol etti. Daha sonra zihin, bu hayvan ruhuyla “koalisyon” yaptı ve hükümdarlardan biri oldu. 
+
+Böylelikle zihin, arzuya bağlanmış oldu. O, bencil ve düşük doğanın kapanına kısılmış oldu ve bu, ruhun bedene hükmetmesini zorlaştırdı. Odak olarak işgören ve yüksek doğa ile müttefik olması gereken zihin, düşük doğa ile ittifak yapıp arzunun kölesi olunca yüksek doğaya yabancılaştırıldı. 
+
+Irk dinleri yasası zihni arzudan kurtarmak için verildi. “Tanrı korkusu”, “etin arzuları”nın karşısına konuldu. Fakat bu da, bedenin efendisi olmak ve onun gönüllü işbirliği için yeterli olmadı. Ruh için, bedende arzu doğasının hâkimiyeti altında olmayan başka bir destek noktası bulmak zorunlu oldu. Tüm kaslar arzu bedenin ifadesidirler ve içinde hain zihnin, arzu ile birleştiği ve hakimiyet kurduğu şehre giden düz bir yoldurlar. 
+
+Eğer ABD Fransa ile savaşta olsaydı, birliklerini İngiltere’ye çıkarıp da bu şekilde Fransa’yı yenebileceğini düşünmezdi. Birliklerini doğrudan Fransa’ya çıkartır ve orada savaşırdı. 
+
+Akıllı bir general gibi Ego da benzer bir operasyon planını takip eder. O, savaşa salgı bezlerinden birini ele geçirerek başlamaz. Çünkü salgı bezleri yaşam bedenin ifadeleridirler. İstemli kasların kontrolünü ele geçirmek de imkânsızdır, çünkü onlar, düşman tarafından çok iyi yapılmış birer kaledirler. Tüm sempatik sinir sistemi tarafından kontrol edilen istençsiz kas sistemi de bu amaç için işe yaramaz. O, mutlaka serebro-spinal sinir sistemi ile bağlantı sağlamalıdır. Buna erişmek için ve düşman topraklarında bir harekât üssü edinmek için istençli sinir sistemi ile bağlantılı olan, ancak kendisi istençsiz olan bir kası kontrol etmelidir. Böyle bir kas da kalptir. 
+
+İki tür kastan bahsettik: istençli ve istençsiz. İstençsiz kaslar, uzunlamasına şeritler şeklindedirler ve irade tarafından kontrol edilmeyen sindirim, boşaltım ve solunum gibi fonksiyonlarla bağlantılı kaslardır. İstençli kaslar ise irade tarafından istençli sinir sistemi aracılığıyla kontrol edilen, el ve kol kasları gibi kaslardır. Bu kaslar hem enlemesine hem de uzunlamasına şeritler halinde bulunurlar. 
+
+Bu, bedendeki istençsiz bir kas olan kalp haricindeki bütün kaslar için geçerlidir. Normal olarak kan dolaşımını kontrol edemeyiz. Normal koşullar altında kalp atışları, belli bir sayıdadır ve sabittir. Ancak fizyologları hayrete düşüren bir şekilde kalp, istençli bir kas gibi çapraz çizgili bir kastır. O, bedende bu özelliği gösteren tek organdır. Fakat tıpkı susan bir sfenks gibi bu bilmecenin çözümüne ilişkin bir ipucu vermemektedir. 
+
+Okült bilgin ise bu ipucunu doğanın hafızasında kolayca bulur. O, bu hafızadan öğrenir ki, Ego ilk olarak kalpte bir kale aramıştır ve kalp, o zamanlar tüm istençsiz kaslar gibi sadece uzunlamasına kaslara sahipti. Fakat Ego, kalp üzerinde hep daha fazla kontrol sahibi oldukça çapraz şeritler de aşama aşama gelişti. Bu şeritler, arzu bedenin tam egemenliği altında bulunan kaslar kadar çok ve onlar kadar gelişmiş değildirler. Fakat sevgi ve kardeşliğin özveri duygusu güçlendikçe ve yavaş yavaş arzu temelli aklı bertaraf ettikçe bu çapraz şeritler, sayıca artarlar ve daha belirgin hale gelirler. 
+
+Önceden de söylendiği gibi yoğun bedenin tohum-atomu kalpte yeralır ve tüm yaşam boyunca kalptedir. Tohum-atom, sadece ölümle bulunduğu yerden ayrılır. Ego’nun aktif çalışması kandadır. Şimdi, akciğerleri hariç tutarsak kalp, bedende her dolaşımda tüm kanın içinden geçtiği tek organdır. 
+
+Kan, yaşam bedenin en yüksek ifadesidir, çünkü tüm fizik organizmayı besler. Aynı zamanda bilinçaltı hafızanın bir anlamda aracıdır. Kan, doğanın hafızasıyla içsel bir bağlantıya sahiptir. Bu bağlantı en yüksek eter bölgesinde bulunur. Ve de kan, ataların yaşamından resimleri, damarlarında birbirleri arasında evlenme sonucu oluşan ortak kanın aktığı torunlarına nesiller boyu aktarır. 
+
+Başın içinde, ruhun üç görünümünden herbirinin oturduğu özel üç nokta vardır (Şekil 17’ye bakınız). İkinci ve üçüncü görünümler, buna ek olarak ikincil birer yere daha sahiptirler. 
+
+Arzu beden Ego’nun ters ifadesidir. O, ruhun “Kişiliğini” “bencilliğe” çevirir. Kişilik, diğerlerinin zararına kendi çıkarını aramaz. İnsan ruhunun yeri birinci olarak beyin epifizinde ve ikinci olarak da beyinde ve istençli kasları yöneten serebro-spinal sinir sistemindedir. 
+
+Yaşam Ruhu Âleminde sevgi ve birlik, aldatıcı karşılıklarını yaşam beden aracılığıyla bağlı olduğumuz Eter Bölgesinde bulurlar. Yaşam beden, seks sevgisini ve seks birliğini teşvik eder. Yaşam ruhu yeri, birinci olarak hipofiz, ikinci olarak da kalpte kasları besleyen kanın girdiği yerdir. 
+
+Aktif olmayan Tanrısal Ruh - Sessiz Bekçi- kendi maddi ifadesini yoğun bedenin pasif, atıl ve reaksiyon göstermeyen iskeletinde bulur. İskelet, diğer bedenlerin uysal enstrümanıdır, ancak kendiliğinden bir şeye girişme gücü yoktur. Tanrısal Ruh’un burun kökünde sahip olduğu girilemez bir nokta vardır. 
+
+Gerçekte sadece bir Ruh vardır, o da Ego’dur. Fizik Âlem’den baktığımızda O, açıklandığı gibi çalışan üç görünüme sahiptir. 
+
+Kan, her dolaşımda, her saatte tüm yaşam boyunca kalpten geçerken taşıdığı resimleri, daha o resimler taze iken tohum-atoma kazır. Böylece de yaşamın doğru bir kaydını yapmış olur. Bu kayıt da ölüm sonrası varoluşta silinemez bir şekilde ruha kazınır. Kan, sevginin ve birliğin ruhu olan yaşam Ruhuyla her zaman en yakın temastadır. Bu yüzden kalp, özverili sevginin evidir. 
+
+Bu resimler, içinde doğanın gerçek hafızası bulunan Yaşam Ruhu Âlemine giderken yavaş fizik duyulardan geçerek değil, doğrudan nefes aldığımız havada bulunan dördüncü eterden geçerler. Yaşam Ruhu Âleminde yaşam rûhu, şeyleri yoğun âlemlerde görebildiğinden çok daha açık görür. Kendi yüksek evinde o, Kozmik Bilgelik ile temastadır ve herhangi bir durumda ne yapılması gerektiğini hemen bilir ve doğru eylemi söyleyen rehber mesajını kalbe geri yollar. Kalp mesajı hemen pneumo-gastrik sinir üzerinden beyne yollar. Bu da “ilk izlenim” denen ve her zaman iyi olan sezgisel tepiye (impulse) yolaçar. Her zaman iyidir, çünkü direkt olarak Kozmik Bilgelik ve Sevgi kaynağından çekilmiştir. 
+
+Yavaş aklın “durumu kavramaya” zamanı olmadan önce kalbin kontrolü elde tutmaya devam etmesi için bu, çok hızlı gerçekleşir. “İnsan kalbinde düşünür” derler, insanın “böyle olduğu” doğrudur. İnsan kendi doğasında bâkir bir ruhtur: her açıdan iyi, asil ve gerçek. Bâkir rûh bize her zaman doğru öğüt verir. İyi olmayan her şey, Ego’nun aldatıcı yansıması olan aşağı doğadan gelir. Eğer sadece kalbin tepisini (impulse) - ilk düşünceyi - takip edebilsek, Evrensel Kardeşlik şimdi ve burada gerçekleşmiş olurdu. 
+
+Ancak bu, tam da zorlukların başladığı noktadır. İlk düşüncenin iyi öğüdünden sonra beyin düşünmeye başlar ve durumların büyük çoğunluğunda kalp yenilgiye uğrar. Teleskop kendi odağını ayarlar ve astronoma rağmen bu odağa doğru yönelir. Zihin ve arzu beden, kontrolü ele alarak ruhun ruhun planlarını engellerler ve Ruhun bilgeliği olmadan hem ruh ve hem de beden acı çeker. 
+
+Fizyologlar, beynin belli bölgelerinin düşünme faaliyetleri için ayrıldığını tespit etmiştir. Frenolojistler de bu bilim dalını daha da ileriye taşımışlardır. Şimdi bilinmektedir ki düşünce, sinir dokularını parçalamakta ve yıkmaktadır. Bedenin bu ve diğer atıkları kan tarafından değiştirilmektedir. Kalp gelişerek istençli bir kas haline geldiğinde kan dolaşımı, en sonunda birleştirici yaşam ruhunun (Sevgi Ruhu) mutlak kontrolü altına girecektir. Böylelikle yaşam ruhu, kanı beynin bencil amaçlara hizmet eden o bölgelerinden uzak tutma gücüne erişecektir. Bunun sonucunda da bu düşünce merkezleri aşama aşama körelecektir. 
+
+Diğer yandan ruh için, zihinsel faaliyetler özverili faaliyetler olduğunda kan akışını arttırmak mümkün olacaktır. Böylece de fedakârlığa hizmet eden bölgeler inşa edilecektir. Sonunda zamanla arzu doğasına galip gelinecek ve zihin, sevgi sayesinde arzu köleliğinden kurtulacaktır. Sadece sevgi aracılığıyla tamamen özgür olmak insanı, yasanın üstüne yükseltebilir ve insanın kendisini bir yasa yapabilir. Kendini yendiğinde o, tüm Dünyâ’yı yenecektir. 
+
+Okült eğitim içinde belli alıştırmalarla kalbin çapraz şeritleri yapılabilir. Fakat bu alıştırmalardan bazıları tehlikeli olduklarından sadece tecrübeli bir öğretmenin gözetimi altında yapılmalıdırlar. Bu kitabın hiçbir okuyucusunun dolandırıcılar tarafından aldatılmaması amacıyla, isteyenlere bu alıştırmaları öğretebileceğini açıklayan kişiler için bir kez daha tekrar edelim ki, hiçbir gerçek okült kişi övünmez ve okült güçlerini reklamlarla duyurmaz. O, kendi okült bilgilerini veya verdiği dersleri bir kurs için çok fazla olan paralarla satmaz ve de tiyatral gösterilere razı olmaz. O, mümkün olan en dikkat çekmeyecek şekilde ve kendini düşünmeksizin sadece başkalarına yardım etmek için bu işi yapar. 
+
+Bu bölümün başında da söylendiği gibi yüksek bilgiyi ciddiyetle talep eden insanlar emin olsunlar ki, aramayı istediklerinde yolu açık bulacaklardır. Mesih’in Kendisi bu yolu, “isteyen herkes için” hazırlamıştır. O, Evrensel Kardeşlik için çalışmaya hazır olan ve gerçekten arayan herkese yardım edecek ve onları memnuniyetle karşı- layacaktır. 
+
+#### <h4 id="the-mystery-of-golgotha">Golgotha’nın Esrarı</h4>
+
+Geçen iki bin yıl boyunca “arındırıcı kan” hakkında pek çok şey söylendi. Mesih’in kanı, tüm günahlar için çare ve günahlar ile kurtuluş için tek yol olarak kürsüden övüldü. 
+
+Fakat Yenidendoğuş ile Sebep ve Sonuç Yasaları, gelişen varlıkların ektiklerini biçmeleri şeklinde çalışıyorsa, eğer evrim tepisi insanlığı en sonunda mükemmelliğe erişmek için hep daha yükseğe taşıyorsa burada kurtuluş ve günahlardan arınma gereksinimi nerededir? Eğer böyle bir gereksinim varsa bile bir bireyin ölümü geri kalan diğerlerine nasıl yardım edebilir? Başka birisinin arkasına saklanmak yerine kişinin kendi eyleminin sonuçlarını taşıması daha asilce olmaz mıydı? Bunlar, İsa Mesih’in kanı aracılığıyla kefaret kurbanı ve günah öğretisine yapılan itirazlardan birkaçıdır. Bu öğretinin Sebep ve Sonuç yasası ile Kefâret arasındaki mantıksal uyumunu göstermeden önce bu soruyu yanıtlamaya çalışacağız. 
+
+Her şeyden önce şu kesin olarak doğrudur ki, evrimsel tepi (impulse) herkes için nihai mükemmelliği gerçekleştirmek için çalışır. Ancak sürekli olarak geride kalanlar da olur. Şu anda maddeciliğin en son noktasını henüz geçtik ve on altı Irk içinde yol alıyoruz. “Yıkımın on altı yolu” üzerinde bulunuyoruz ve bu yüzden geride kalma konusunda bu noktada, evrim yolculuğundaki diğer noktalardan çok daha ciddi tehlikeyle karşı karşıyayız. 
+
+Soyutta zaman hiçbir şeydir. Belli sayıdaki Varlık, kendi yaşam dalgaları tarafından terk edilmesi gerekecek derecede geri kalabilir. Onlar, mükemmelliyet yolculuklarına devam edebilecekleri bundan sonraki evrimlerini başka bir planda sürdürürler. Yine de bu, başlangıçta onlar için öngörülmüş bir evrim değildi. Fakat evrimimizden sorumlu olan yüce Varlıkların, kendi sorumlulukları altındaki varlıkların olabildiğince çoğunu emniyetle varması gereken yere ulaştırmak için her yolu deneyeceklerini kabul etmek mantıklıdır. 
+
+Sıradan evrimde Yenidendoğuş ile Sebep ve Sonuç Yasaları yaşam dalgasının büyük çoğunluğunu mükemmelliğe götürmede tamamen yeterlidir. Fakat bu yasalar, farklı Irklarda geri kalan Geri Kalmışlar için yeterli gelmez. Ayrılık yanılsamasının ( illüzyon) zirvesi olan bireysellik aşamasında tüm insanlık ek bir yardıma ihtiyaç duyar. Ancak Geri Kalmışlar için bazı ek özel yardımlar sağlanmalıdır. 
+
+Geri Kalmışlara bu özel yardımı sağlamak ve onları, bedelini ödeyerek kurtarmak Mesih’in misyonuydu. O, tüm kaybolmuş olanları aramak ve kurtarmak için geldiğini söyledi. Ve de İnisiyasyon yoluna girmek isteyen herkese bu yolu açtı. 
+
+Vekil kefâreti’nin karşıtları, birisinin arkasına saklanmanın korkakça olduğunu ileri sürmektedir. Onlara göre her insan kendi eylemlerinin sonuçlarına katlanmalıdır. 
+
+Buna benzer bir durum düşünelim. Büyük Amerikan göllerinin suları Niyagara şelalesinde birleşir. Yaklaşık 32 km boyunca dev su kütlesi büyük bir hızla Niyagara Şelalesine akar. Nehir yatağı kayalıklarla doludur. Bu nehre düşen kişiler eğer belli bir noktanın ilerisine dek gelebilmişse, yani nehrin hızla akan bölümlerinde hayatını kaybetmeden şelaleye dek gelebilmiş olsa bile şelaleden aşağı düşerek mutlaka hayatını kaybedecektir. 
+
+Varsayalım ki, nehrin kurbanlarına acıyan bir adam ortaya çıktı ve şelalenin üstüne bir ip gerdi. Bu adam bu işi yaparken de sonunda kesin olarak ölüm olduğunu bilmesine rağmen, kendi hayatını sevinçle ve gönülden feda ediyor. O, şelalenin üstüne ipi geriyor ve önceki durumu değiştiriyor. Böylece önceden çaresiz kurbanlar, artık ipe tutunabilir ve kurtarılabilirler. Artık hiçbiri yokolup gitmeye mahkûm değildir. 
+
+Suya kendi dikkatsizliği sonucu düşmüş ve tüm gücüyle kıyıya ulaşmaya çabalayan ve şunları söyleyen bir adam hakkında ne düşünürdük? “Ne! Kendimi kurtarayım da kendi dikkatsizliğimin cezasını çekmekten kaçmaya mı çalışayım? Kendisinin yapmadığı hata yüzünden acı çeken ve benim gibi biri için yaşamını feda eden başka birinin gücüyle kendimi kurtarayım? Hayır, asla! Bu ‘erkekçe’ olmaz! Ben hakettiğim cezayı istiyorum!” Bu adamın aptalca davrandığı konusunda hepimiz hemfikir değil miyiz? 
+
+Böyle bir kurtuluşa herkesin ihtiyacı yoktur. Mesih, çoğu kişinin bu anlamda bir kurtuluşa ihtiyacı olmadığını herhalde biliyordu. Aynı şekilde Sebep ve Sonuç yasasının işleyişi altında olan ve bu yolla mükemmelliğe erişenler doksan dokuz kişi olsa da, maddeye “batmış” ve ip olmadan kurtulamayacak olan “günahkârlar” da vardır. Mesih, onları kurtarmak ve herkese barış ve iyi niyet getirmek için geldi. Bunun için O, onları gerekli ruhsallığa yükselterek arzu bedenlerinde bir değişiklik meydana getirdi ve böylece kalplerinde yaşam rûhunun etkisini daha da güçlü kıldı. 
+
+Onun erkek kardeşleri olan Güneş Rûhları, yâni Yüce Melekler insanın arzu bedeninde Irk- ruhları olarak çalıştılar, ancak bu çalışma dışarıdan yapıldı. Bu sadece, tıpkı Ay ışığının, yansıyan Güneş ışığı olduğu gibi yansımış ruhsal Güneş gücüydü. Mesih, yani Güneş Ruhlarının baş İnisiyesi, doğrudan Yerin yoğun bedenine girdi ve Güneş gücünü direkt getirdi. Böylelikle O’nun, bizim arzu bedenlerimizi içeriden etkilemesi mümkün oldu. 
+
+İnsan, kör olmadan uzun süre güneşe bakamaz, çünkü onun titreşimleri o kadar yüksektir ki, gözdeki retinayı harap eder. Fakat o, herhangi bir zarara uğramadan Ay’a bakabilir. Zira Ay’ın titreşimleri çok daha yavaştır. Ay’dan gelen ışınlar da Güneş ışınlarıdır, ancak yüksek titreşimler Ay tarafından alınır ve Ay, sadece kalanı bize yansıtır. 
+
+İnsana gelişiminde yardım eden ruhsal tepilerde de durum böyledir. Dünyamız, Güneş’den atılmıştır, çünkü insanlığımız, Güneş’in muazzam fiziksel ve ruhsal tepilerine dayanamamıştır. Dünya ile Güneş arasına çok büyük bir mesafe konulduktan sonra bile ruhsal tepi, Ay’ın Hükümdarı Yehova tarafından insanın yararına kullanılmak üzere ilk olarak Ay’a yönlendirilmemiş olsaydı insan için çok güçlü olacaktı. Belli sayıdaki Yüce Melekler (sıradan Güneş Ruhları), bu ruhsal tepileri Güneş’ten Dünya’nın insanları üzerine, Yehova’ya özgü Irk-dinleri biçiminde yansıtmada Yehova’ya yardımcı oldular. 
+
+Yüce Melekler’in en düşük araçları arzu bedendir. Bizim arzu bedenimiz, Yehova’nın en yüksek İnisiye olduğu Ay Evresi’nde bize eklendi. Bu yüzden Yehova, insanın arzu bedeni aracılığıyla etkin olabilir. Yehova’nın en düşük aracı insan ruhudur ( Şekil 14’e bakınız) ve onun karşılığı da arzu bedendir. Yüce Melekler O’nun yardımcılarıdır, çünkü onlar, ruhsal Güneş güçlerini yönetebilmektedirler ve arzu beden onların en düşük araçlarıdır. Böylece onlar, insanlıkla çalışarak onu, ruhsal tepileri, Ay’ın aracılığı olmaksızın doğrudan Güneş ışığından alabilecekleri zamana hazırlayabilirler. 
+
+Güneş Evresi’nin en yüksek İnisiyesi olarak Mesih, bu tepiyi dışarı yollamak görevine sahipti. Yehova’nın yansıttığı tepi, Mesih tarafından dışarı yollandı. Böylece O, Dünya’yı ve insanlığı Kendi direkt girişine hazırladı. 
+
+“Dünya’yı hazırladı” ifadesi, bir gezegen üzerindeki tüm evrimin, o gezegenin kendi evrimi ile beraber gittiği anlamına gelir. Eğer yetenekli bir gözlemci, ruhsal bir bakışla uzaktaki bir yıldızdan gezegenimizi takip edebilseydi, onun arzu bedenindeki değişiklikleri fark edebilirdi. 
+
+Eski inanç sistemi altında insanların arzu bedenleri yasa yardımıyla genel olarak iyileştirildi. Bu çalışma halen, onları bu yolla daha yüksek bir yaşama hazırlamak için insanların çoğunda devam ettirilmektedir. 
+
+Ancak bu daha yüksek yaşam (inisiyasyon), yaşam beden üzerindeki çalışma başlamadan başlamayacaktır. Bu faaliyeti harekete geçiren Sevgi, ya da daha doğrusu Fedakârlıktır. “Aşk” kelimesi o kadar güçlü şekilde yanlış kullanıldı ki, bu kelime artık burada ifade edilmek isteneni anlatmaktan uzaktır. 
+
+Eski inanç sisteminde İnisiyasyon yolu, seçilmiş birkaç kişi dışında kimseye açık ve serbest değildi. Sırların Kâhinleri belli aileleri Tapınaklar etrafında topladılar ve onları, diğer insanlardan izole ettiler. Bu seçilmiş aileler, belli ritüeller ve seremonileri sürdürme konusunda çok sıkı bir şekilde korundular. Onların evlilikleri ve cinsel ilişkileri de kâhinler tarafından düzenlenmekteydi. 
+
+Tüm bunlar, yoğun ve yaşam bedenleri arasında uygun bir gevşekliğe sahip bir Irk meydana getirmek için yapıldı. Arzu beden, uyku esnasında uyuşukluk durumundan uyandırıldı. Böylece bu özel birkaç kişi İnisiyasyon’a hazır hale getirildi ve herkese verilemeyen fırsatlara sahip oldular. Bu metodun örneklerini Yahudiler arasında Tapınak için seçilmiş soy olan Levililer’de ve Hindular arasında tek rahip sınıfı olan Brahminler kastında görüyoruz. 
+
+Mesih’in misyonu, sadece kaybolanları kurtarmak değil, İnisiyasyon’u herkes için mümkün kılmaktı. Bu yüzden İsa, rahipliği miras olarak devralan sınıfın bir üyesi, yani Levi değildi. O, halkın arasından çıktı ve öğretmenler sınıfından olmamasına rağmen öğretisi, Musa’dan daha yüksekti. 
+
+İsa Mesih ne Musa’yı, ne yasayı ve ne de peygamberleri inkâr etti. Tam aksine O, onların doğruluğunu onayladı ve onları şahit olarak gösterdi. Çünkü hepsi gelecek olan Birisine işaret ediyorlardı. O, halka o şeylerin amaçlarını yerine getirdiklerini ve şimdi Yasa’nın yerini Sevgi’nin alması gerektiğini söyledi. 
+
+İsa Mesih öldürüldü. Bu olguyla bağlantılı olarak O’nunla, içlerinde Irk-ruhları doğmuş olan O’ndan önceki öğretiler arasındaki çok büyük ve temel farka gelelim. Onların hepsi öldü ve halklarının kaderlerini taşımasına yardım etmeye devam etmek için tekrar tekrar doğmak zorunda kaldılar. Yüce Melek Mikail ( Yahudilerin Irk-ruhu) ölmek için Nebo Dağı’na alınan Musa’yı yükseltti. Musa, İlyas olarak yeniden doğdu. İlyas, Vaftizci Yahya olarak geri geldi. Buda öldü ve Shankaracharya olarak yeniden doğdu. Shri Krishna şöyle söyler: “Ne zaman ki Dharma’da bozulma başlar, ... ve ... Adharma’nın yükseltilmesi, o zaman ben kendim, Dharma’yı azimle kurmak için iyiyi korumak ve kötülük yapanları yok etmek amacıyla ortaya çıkarım. Ben çağdan çağa doğarım.” 
+
+Ölüm geldiğinde Musa’nın yüzü parladı, Buda’nın ise vücudu ışıl ışıl oldu. Onların hepsi, ruhun içeriden parlamaya başladığı bir seviyeye eriştiler, ancak bundan sonra da öldüler. 
+
+İsa Mesih bu seviyeye Tecelli[52] Dağı’nda erişti. Onun asıl eserinin bu olaydan sonra meydana gelmesi, çok büyük bir anlam ifade eder. O, acı çekti, öldürüldü ve yeniden dirildi. 
+
+Öldürülmüş olmak, ölmekten çok daha farklı bir şeydir. Irk-ruhunun aracı olan kan, akmalı ve bu kirletici etkiden arınmalıydı. Diğer babalar ve anneler dışındaki baba ve anne sevgisi kaybolmalıydı. Aksi takdirde Evrensel Kardeşlik ve her şeyi kapsayan Özverili Sevgi, hiçbir zaman gerçek olamazdı. 
+
+#### <h4 id="the-cleansing-blood">Arındırıcı Kan</h4>
+
+Kurtarıcı İsa Mesih çarmıha gerildiğinde bedeni, beş yerinden, yani yaşam beden akımlarının aktığı beş merkezden delindi ve dikenli tacın basıncı da altıncı merkezden kanın akmasına neden oldu. (Bu, bu akımları önceden tanıyanlar için bir ipucudur. Bu konuda tam bir açıklama zamanımızda kamuoyuna açıkça verilemez.) 
+
+Kan bu merkezlerden aktığında, büyük Güneş rûhu Mesih, İsa’nın fizik aracından kurtuldu ve Kendisini kendi araçlarıyla birlikte Yer’in içinde buldu. Önceden varolan gezegen araçlarına Kendi araçları ile girdi ve göz açıp kapayıncaya kadar Kendi arzu bedenini gezegenin dışına kadar yaydı. Bu O’nun, Dünya ve onun insanlığı üzerinde içeriden çalışabilmesini mümkün kıldı. 
+
+O anda, ruhsal Güneş ışığının çok büyük bir dalgası Dünya’ya aktı. Bu da Irk-ruhunun, çok az seçilmiş haricindeki herkesi dışarıda bırakmak için Tapınağın önüne astığı perdeyi yırttı. O zamandan beri İnisiyasyon Yolu, bu yola girmek isteyen herkese açıktır. Bu dalga, Yer’in ruhsal koşullarını bir şimşek çakması gibi dönüştürmüştür. Ancak yoğun ve somut koşullar elbette ki çok daha yavaş etkilenirler. 
+
+Tüm hızlı ve yüksek ışık titreşimleri gibi bu büyük dalga da göz kamaştırcı parlaklığıyla halkı körleştirdi. Bu yüzden “Güneş’in karardığı” söylendi. Gerçekte olansa bunun tam tersiydi. Güneş kararmamıştı, tersine büyük bir ihtişamla parladı. Aşırı ışık halkın gözlerini kamaştırdı ve ancak tüm Yer, parlak Güneş ruhunun arzu bedenini içine aldıktan sonra titreşim, normal durumuna geri döndü. 
+
+“İsa Mesih’in arındırıcı kanı” ifadesi şu anlama gelir: Golgatha’da akan kan, büyük Güneş ruhu Mesih’in aracıdır ve O, bu araç sayesinde Yer’in içine girişini güvence altına aldı ve o zamandan itibaren de onun Hükümdârı oldu. O, kendi arzu bedenini gezegenin her tarafına yaydı ve bu sayede Yer’i, Irk-ruhunun yönetimi altında büyümüş olan bütün kötü etkilerden arındırdı. 
+
+Şekil 14A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Yasa altında herkes günah işledi. Hayır, dahası günah işlemek zorundaydılar. Onlar, Sevgi uğruna doğru davranabilecek kadar gelişmemişlerdi. Arzu doğası o kadar güçlüydü ki, ona tamamiyle hükmetmek imkânsızdı. Bu yüzden onların borçları, Sebep ve Sonuç Yasası altında birikerek çok korkunç oranlara ulaştı. Eğer yardım almasalardı, Evrim çok kötü derecede gecikecek ve birçokları bizim yaşam dalgamızda tamamen yitip gideceklerdi. 
+
+Bu yüzden, “kayıp olanları aramak ve kurtarmak için” Mesih geldi. O, Yer’e ve onun insanlığına girişini sağlayan Kendi arıtıcı kanı ile Dünya’nın günahlarını kaldırdı. O, koşulları temizledi. Arzu bedenimiz için öncekinden daha saf arzu-maddesi toplayabilmemizi O’na borçluyuz. Ve O, dış çevremizi sürekli hep daha saf bir hale getirerek bize yardım etmek için çalışmaya devam ediyor. 
+
+Şekil 14B!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Bu, O’nun büyük acılar çekmesi pahasına meydana geldi ve gelmektedir. Mümkün olan en iyi ve en saf araçta olsa dahi bu Büyük Rûh’un fiziksel varoluşun engelli koşullarının içine girmesiyle dayanmak durumunda olduğu sınırlamaları çok az da olsa anlayabilen hiçkimse bundan kuşku duyamaz. O’nun, Yer’in Hükümdârı olarak şimdiki sınırlamaları da bir o kadar acı doludur. Şu bir gerçektir ki O, aynı zamanda Güneş’in Hükümdârıdır ve bu yüzden sadece kısmen Yer’e bağlıdır, ancak yoğun gezegenimizin O’na kramp veren yavaş titreşimleri, O’nun için neredeyse dayanılmaz olmalıdır. 
+
+İsa Mesih kendi eceliyle ölmüş olsaydı, O’nun için bu işi yapmak mümkün olmayacaktı, fakat Hristiyanların, ölümden dirilmiş bir Kurtarıcı’ları vardır. Bu Kurtarıcı, Kendi İsmini çağıranlara yardım etmek için daima vardır. Bizim gibi acı çektiği ve gereksinimlerimizi tamamen bildiği için bizim hatalarımıza ve başarısızlıklarımıza karşı, iyi bir Hayat yaşamaya çalıştığımız sürece toleranslıdır. Şunun her zaman bilincinde olmalıyız ki, tek gerçek hata, çabalamayı bırakmaktır. 
+
+İsa Mesih’e ait yoğun bedenin ölümünden sonra tohum-atom ilk sahibine, yani Nâsıralı İsâ’ya geri verildi. Bundan sonra Nâsıralı İsâ, geçici olarak aldığı yaşam bedeninde Mesih’in bıraktığı yeni inancın özünü öğretti. Nâsıralı İsâ o zamandan itibaren, Avrupa’da her yerde ortaya çıkan ezoterik kolların yönetimini üstlenmiştir. 
+
+Birçok yerde Yuvarlak Masa Şövalyeleri [53] yeni Din Sistemi Sırlarının yüksek İnisiyeleriydiler. Arimathea’lı Joseph’in, İsa’nın son akşam yemeğinde kullandığı kâseyi verdiği Kutsal Kâse Şövalyeleri de öyleydi. Onlar daha sonra O’nun böğrünü delen mızrağa ve yaralarındaki kanın aktığı kaba da sahip oldular. 
+
+İrlanda Druid’leri ve Kuzey Rusya Trott’ları, Üstad İsa’nın, kendileri aracılığıyla “Karanlık Çağlar” olarak adlandırılan dönemde çalıştığı ezoterik okullardı. Fakat karanlık olsa da ruhsal tepi (impulse) yayıldı. Ve de okült ilmin bakış açısından, fizik bilginin sınırsız şekilde arttığı, fakat Ruhun Işığının neredeyse söndüğü son 300 yılın büyüyen materyalizmi ile karşılaştırıldığında o dönem, bir “Aydınlık Çağ”dı. 
+
+“Kutsal Kâse”, “Yuvarlak Masa Şövalyeleri” ve diğerleri ile şimdilerde bâtıl inanç olarak alay ediliyor ve maddesel olarak kanıtlanamayacak her şey, inanca aykırı olarak görülüyor. Modern bilimlerin keşifleri ne kadar muhteşemse, bu keşifler için ödenen bedel de o kadar yüksektir. Ruhsal sezgi yokedildi ve ruhsal bakış açısından bakıldığında, bundan daha karanlık bir gün hiç doğmamıştı. 
+
+Şekil 15!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Aralarında İsa’nın da olduğu Büyük Biraderler, bu korkunç etkiyi gidermek için mücadele ettiler ve ediyorlar. Bu mücadele tıpkı kuşu felç ederek kendine av yapan yılanın bakışlarına benziyor. İnsanları aydınlatmak ve onlarda yaşamın ruhsal yanını geliştirme arzusu uyandırmak için yapılan her girişim Büyük Birader’lerin faaliyetinin bir kanıtıdır. 
+
+Onların çabaları başarıyla taçlansın ve modern bilimin ruhsallaşacağı ve maddedeki araştırmaları ruhsal açıdan yürüteceği günün gelişini çabuklaştırsın. Ancak ondan sonra ve ondan önce değil bilim, dünyanın gerçek bilgisine ulaşacaktır. 
+
+### <h3 id="chapter-16">16. Bölüm: Gelecekteki Gelişim ve İnisiyasyon</h3>
+
+#### <h4 id="the-seven-days-of-creation">Yaratılışın Yedi Günü</h4>
+
+Gülhaçcı, Yer Evresi’nden Mars-Merkür Evresi olarak sözeder. Büyük Yaratım Günü, haftanın günlerinin isimlerinde cisimleşmiştir. Zira bu günler, bâkir ruhların maddeye olan hac yolcu- luklarındaki evrimsel aşamalara göre adlandırılmıştır. 
+
+Vülken Evresi, bizim evrim planımızın son Evresidir. Bundan önceki tüm Evrelerin özeti, spirallerin tekrarı olarak anlaşılabilir. Tüm kürelerin en sonuncusunun son Devri Yedinci Çağ’da bitmeden önce yeni bir çalışma başlamaz. Bu yüzden Vülken Evresi’nin, tüm günleri de kapsayan haftaya karşılık geldiği söylenebilir. 
+
+Astrologların, haftanın günlerinin, belli gezegenler tarafından yönetildiğine ilişkin iddialarının geçerli bir nedeni vardır. Antik çağlar da bu okült bilgiye aşina idiler. Bu onların, haftanın günlerinin tanrıların isimleriyle bağlantılı olduğu mitolojilerinde de görülmektedir. Cumartesi (ingilizce Saturday), açıkça “Satürn’ün Günü” demektir. Pazar (ingilizce Sunday) güneş (ing. Sun) ile ve Pazartesi de (ingilizce Monday) Ay ( ing. Mond) ile ilişkilidir. Latin halkları, Salı’yı (Tuesday) “Dies Martis” olarak adlandırırlar. Bu açıkça onların savaş tanrısı Mars’a işaret eder. “Tuesday” (Salı) kelimesi ise “Tirstag”dan türemiştir ve Norveçlilerin savaş tanrısı “Tir” veya “Tyr”den gelmektedir. Çarşamba ( ingilizce Wednesday ) ise aslında “Wotanstag” idi ve yine bir Norveç tanrısı olan “Wotan”dan türemiştir. Lâtin halkları Çarşamba’yı, “Dies Mercurii”, yani Merkür’le ilişkili olarak Merkür günü olarak adlandırırlardı. 
+
+Perşembe (ingilizce Thursday) ya da “Thorstag”, Norveç şimşek tanrısı “Donar” veya “Thor”a göre adlandırılmıştır. Bugün, Latin halkları tarafından şimşek tanrıları “Jove” veya “Jupiter”den “Dies Jovis” olarak adlandırılmıştır. 
+
+Cuma (ingilizce “Friday”) ise Norveç güzellik tanrıçası “Freya”dan gelir ve aynı sebeplerden Latin halkları onu “Dies Veneris”, ya da Venüs günü olarak adlandırmışlardır. 
+
+Bu Evre isimlerinin fizik gezegenlerle bir ilgisi yoktur. Onlar, Yer’in geçmiş, şimdiki ve gelecek enkarnasyonlarına işaret ederler. Bir kere daha “yukarıda nasılsa aşağıda öyledir” hermetik ilkesini uygularsak, Makrokozmos da, tıpkı Mikrokozmos insan gibi enkarnasyonlardan geçmek zorundadır. Okült ilim, 777 enkarnasyonun olduğunu öğretir, fakat bu, Yer’in 777 dönüşümden geçeceği anlamına gelmez. Bu, gelişen yaşamın, 7 Evre’nin 7 Küresi etrafında 7 Devir yapacağı anlamına gelir. 
+
+İnvolüsyon ve Evrim’le, İnisiyasyon’un “kısa yolu” da dahil olmak üzere yapılan bu hac yolculuğu, Kadüs veya “Merkür’ün Asası”nda cisimleşmiştir. Böyle adlandırılır, çünkü bu okült sembol, Yer Evresi’nin ancak Merkür yarısının başlangıcından beri insana açık olan İnisiyasyon yoluna işaret eder. Küçük sırların birkaçı ilk Lemuryalılara ve Atlantislilere verildi, ancak onlara Dört Büyük İnisiyasyon verilmemiştir. 
+
+Şekil 15’deki siyah yılan, involüsyonun dolambaçlı ve çevrimsel yolunu gösterir ve Satürn, Güneş, Ay Evreleri ile Yer Evresi’nin Mars yarısını kapsar. Gelişen yaşam bu Evreler boyunca araçlarını inşa etmiştir, ancak Atlantis Çağı’nın ikinci yarısına kadar dış dünyaya karşı açıkça bilinçli değildir. 
+
+Şekil 15A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Beyaz yılan ise insanlığın, Yer Evresi’nin Merkür yarısında ve Jüpiter, Venüs ve Vülken Evre’lerinde katedeceği yolu gösterir. Bu yolculukta da insan bilinci, her şeyi bilen bir Yaratıcı Varlık olacaktır. 
+
+Yılan yolu, büyük çoğunluk tarafından takip edilen yoldur. Fakat etrafında yılanların dolandığı “Merkür Âsası”, “düz ve dar yolu”, yani İnisiyasyon yolunu gösterir. Bu yol, kendisini takip edenleri, insanların çoğunun milyonlarca yıla ihtiyaç duydukları şeye birkaç yaşamda erişebilmeyi sağlar. 
+
+İnisiyasyon âyinlerinin açıklamasının verilemeyeceğini söylemeye herhalde pek gerek yoktur. İnisiye kişinin ilk andı susmaktır. Fakat konuşmaya izin verilmiş olsaydı da, bu mesele bizim için önemli olmazdı. Evrim yoluna kuş bakışı bakarsak âyinlerin sonuçlarını tespit etmenin bizim ödevimiz olduğunu görürüz. 
+
+İnisiyasyonların tüm sonucu, ruhsal tâliplere daha yüksek yeteneklerini ve güçlerini kısa zamanda katı eğitimlerle geliştirmek için bir fırsat vermek ve böylece tüm insanlığın en sonunda mutlaka sahip olacağı bilinç genişlemesini onun için şimdiden sağlamaktır. Fakat büyük çoğunluk, bilinç genişlemesini normal evrimin yavaş süreci boyunca edinmeyi seçer. Tâlip, birbiri ardınca başarılı büyük İnisiyasyonlardan geçtikçe, ulaştığı bilinç hallerini ve o hallere eşlik eden güçleri bilebilir. Doğal olarak bilmeliyiz ki, gelecekteki bu haller ve güçler, ileride herkesin sahip olacağı güçler olacaktır. Birkaç ipucu önceden verildi ve birkaçı daha Uygunluklar (Correspondences) yasası uygulanarak hepimizin gelecekte yaşayacağı evrimin oldukça genel bir resmini vermek ve İnisiyasyonda büyük adımların önemini göstermek için mantıksal olarak çıkarılabilir. Burada, insan bilincinin çeşitli Evrelerden geçerken kaydettiği gelişiminde attığı adımlara bir göz atmak faydalı olacaktır. 
+
+Satürn Evresi’nde insan bilinçsizliğinin, yoğun bedenin en derin trans haline sokulduğu durumdaki bilinçsizliği gibi olduğunu hatırlayalım. Bunu Güneş Evresi’nde uykusuz-rüya bilinci takip etti. Ay Evresi’nde, dıştaki şeylerin içsel resimleri aracılığıyla ilk uyanış pırıltıları kendini gösterdi. Tüm bilinç, dış şeylerin, renklerin ya da seslerin bu şekilde içsel resimlerinden oluşuyordu. Atlantis Çağı’nın ikinci yarısında bu resim-bilinci nihayet, şimdiki tam uyanık-bilinç ile değiştirildi. Şimdi insan, nesneleri boşlukta kaba hatlarıyla açık ve birbirlerinden ayrı olarak algılayabiliyordu. Bu nesnel-bilince sahip olduğunda insan, bir dış dünyanın farkına vardı ve ilk defa “kendi” ve “diğerleri” arasındaki farkı tamamiyle anladı. O, bundan sonra ayrı olduğunu fark etti ve o zamandan beri onun için en önemli şey “Ben” bilinci, yani bencillik oldu. O zamana dek bir dış dünya ile ilgili olan düşünceler veya fikirler yoktu, Bu yüzden olayların anısı diye bir şey de yoktu. 
+
+İçsel resim bilincinden nesnel-öz-bilince geçiş, onun önemiyle orantılı olarak çok yavaş bir süreçte etkili oldu. Bu süreç, Ay Evresi’nin 3. Devrinde C Küre’sindeki varoluştan Atlantis Çağı’nın ikinci yarısına dek devam etti. 
+
+Bu zaman boyunca gelişen yaşam, insan aşamasına erişmeden önce dört büyük hayvan- benzeri gelişim aşamasından geçti. Geçmişin bu adımları, dört inisiyasyona ve daha önceden geçilmiş dört aşamaya karşılık geliyordu. 
+
+Önceden geçilmiş olan bu dört bilinç aşamasının içinde toplam olarak 13 adım vardır. Şimdiki durumundan son Büyük İnisiyasyon’a erişinceye kadar da insanın önünde 13 İnisiyasyon vardır. Bunlardan dokuzu küçük Sırlar aşaması ve diğerleri de dört büyük İnisiyasyon’dur. 
+
+Bizim şimdiki hayvan âleminde de Form aracılığıyla takip edilebilecek benzer bir bölünme vardır. Form, yaşamın ifadesi olduğu için doğal olarak gelişiminin her adımı, bilinç genişlemesinin bir adımına karşılık gelir. 
+
+Hayvan krallığını (Hayvanlar Âlemi) dört büyük ana sınıfa ayıran ilk kişi Cuvier’di. Ancak o, bu ana sınıfların alt bölmelendirmesinde o kadar başarılı değildi. Embriyolog Karl Ernst von Baer, Profesör Agassiz ve diğer bilimadamları hayvan krallığını aşağıdaki gibi dört ana sınıfa ve onüç altsınıfa ayırmaktadır: 
+
+İlk üç bölüm, Yer Evresi’nin Merkür yarısındaki kalan üç Devir’e karşılık gelir. Onun dokuz basamağı da küçük Sırların, insanlığın geneli tarafından Yer Evresi’nin son Devrine ulaşıldığında erişilecek olan dokuz derecesine karşılık gelir. 
+
+Hayvan krallığının dördüncü bölümü dört alt-bölüme sahiptir: Balıklar, Sürüngenler, Kuşlar ve Memeliler. Bilinçteki bu şekilde gösterilmiş adımlar; insanlığın Yer, Jüpiter, Venüs ve Vülken Evre’lerinde erişeceği ve şimdi de vasıflı her insanın inisiyasyonla erişebileceği gelişim aşamalarına karşılık gelirler. Büyük İnisiyasyonlardan ilki, sıradan insanlık tarafından Yer Evresi’nin sonunda edinilebilecek olan bilinç aşamasını verir. İkincisi, Jüpiter Evresi’nin sonunda edinilebilecek olan bilinç aşamasını; üçüncüsü ise Venüs Evresi’nin sonunda edinilebilecek olan bilinç genişlemesini; dördüncü ve sonuncusu da çoğunluğun ancak Vülken Evresi’nin sonunda ulaşabileceği Gücü ve Her şeyi Bilme’yi inisiye kişiye verir. 
+
+Kendisi sayesinde dış dünyanın bilgisine sahip olduğumuz Nesnel Bilinç (Objective- Consciousness), bizim duyularımız aracılığıyla algıladıklarımıza bağlıdır. Bunu biz, bize içsel bilincimiz aracılığıyla gelen düşüncelerin ve fikirlerin zıttı olarak “gerçek” diye adlandırıyoruz. Bu düşüncelerin ve fikirlerin gerçeklikleri bizim için, bir kitabın, bir masanın veya uzayda görülebilir ve elle tutulabilir herhangi bir şeyin gerçekliği kadar açık ve belli değildir. Düşünceler ve fikirler bize bulanık ve hayali olarak görünürler. Bu yüzden “sadece” bir düşünceden veya “sadece” bir fikirden bahsederiz. 
+
+Ancak günümüzün fikirleri ve düşünceleri de bir evrime sahiptir. Onlar için de şimdi dış dünyanın, fiziksel duyularımız aracılığıyla algıladığımız herhangi bir nesnesi gibi gerçek, açık ve somut olmaları amaçlanmıştır. Zamanımızda bir şeyin veya bir rengin, hafıza tarafından içsel bilincimize sunulan resmi, gerçekliğin sadece bulanık ve gölgeli bir yansımasıdır. 
+
+Jüpiter Evresi’nin başlangıcıyla birlikte bu açıdan belirgin bir değişiklik meydana gelecektir. Zira Ay Evresi’nin rüya-resimleri geri gelecekler, fakat bu defa düşünenin çağrısına itaat edecekler ve sadece dış nesnelerin birer kopyası olmayacaklardır. Böylece Ay Evresi’ndeki resimler ile Yer Evresi’nde bilinçli olarak geliştirilen düşünce ve fikirlerin bir kombinasyonu meydana gelecektir. Yani bir öz-bilinçli resim-bilinci sahibi olacağız. 
+
+Jüpiter Evresi’nin insanı “kırmızı” dediğinde veya bir şeyin ismini söylediğinde, onun kırmızının düşündüğü tonunun tam bir kopyası meydana gelir veya düşündüğü şey, onun içsel vizyonuna sunulur. Bu şey aynı zamanda belirtilen kişiyi duyanlar tarafından açıkça görülebilecektir. Konuşulan sözcüklerin yanlış anlaşılması artık olmayacaktır. Düşünceler ve fikirler canlı ve görünür olacaklar, bu yüzden ikiyüzlülük ve dalkavukluk tamamen ortadan kalkacaktır. İnsanlar, oldukları gibi görüneceklerdir. Hem iyi, hem de kötü insanlar olacak, ancak bu iki özellik bir insanda karışmayacak. Her iki türden de insanlar varolacaktır: tamamen iyi insanlar ve tamamen kötü insanlar. Bu zamanın en önemli sorunlarından biri de bu tamamen kötü insanların nasıl üstesinden gelineceği olacaktır. Ruhsallıkta Gülhaçcı’lardan daha yüksek bir tarikat olan Maniche’ler daha şimdiden bu problemle ilgilenmektedirler. İstenilen duruma ilişkin bir fikir, efsanelerinin kısa bir özetinden kazanılabilir. (Tüm mistik tarikatların, idealleri ve amaçları için simgesel bir efsaneleri vardır.) 
+
+Şekil 15B!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Maniche’lerin efsanesinde iki krallık vardır: Işık-cüceleri ve Gece-cüceleri. Gece-cüceleri, Işık-cücelerine saldırır, ancak onların yenilgiye uğratılıp cezalandırılmaları gerekir. Fakat Gece cüceleri tamamen kötü olduğu gibi Işık cüceleri de tamamen iyi oldukları için düşmanlarına herhangi bir kötülük yapamazlar. Bu yüzden onları “iyilik” ile cezalandırmaları gerekmektedir. Bu yüzden ışık-cücelerinin krallıklarının bir kısmını Gece-cücelerinin krallığına katarlar. Bu yolla da kötü, zamanla bertaraf edilecektir. Nefret nefrete boyun eğmez, ancak onu Sevgi yenmelidir. 
+
+Ay Evresi’nin içsel resimleri, insanın dış çevresinin belli bir ifadesiydi. Jüpiter Evresi’nde ise resimler içeriden tezahür edecektir. Bu resimler, insanın içsel yaşamının bir sonucu olacaktır. O aynı zamanda Yer Evresi’nde edindiği, şeyleri kendisinin dışında ve dışarıdan görme yetisine de sahip olacaktır. Ay Evresi’nde o, somut şeyleri değil, sadece bu şeylerin ruhsal özelliklerini görebiliyordu. Jüpiter Evresi’nde her ikisini birden görebilecek ve böylelikle tam bir algıya ve çevresinin tam bir anlayışına sahip olacaktır. Aynı Evre’nin sonraki bir aşamasında bu algılama yeteneğini daha da yüksek bir durum takip edecektir. Renklerin, Seslerin ve Şeylerin açık ruhsal düşüncelerini biçimlendirme gücü ona, çeşitli hiyerarşilerden duyularüstü varlıklarla iletişim kurmasına, onları etkilemesine, onların kendisine itaat etmelerine ve onların güçlerini istediği gibi kullanmasına olanak sağlayacaktır. O, niyetlerini gerçekleştirmek için kendisinden dışarıya güçlerini gönderemeyecek, ancak kendi hizmetinde olan bu varlıkların yardımına bağlı olacaktır. 
+
+Venüs Evresi’nin sonunda resimlerine kendi gücünden yaşam verme yetisine sahip olacak ve onları kendisi dışındaki şeyler olarak uzaya koyacaktır. O, bundan sonra Nesnel, Öz-bilinçli, Yaratıcı-Bilinç sahibi olacaktır. 
+
+Venüs Evresi’nin sonunda elde edilecek olan Yüksek ruhsal bilinç ile ilgili olarak çok az şey söylenebilir. Bu bilinç, şimdiki anlayışımızın çok ötesindedir. 
+
+#### <h4 id="spirals-within-spirals">Spiraller İçinde Spiraller</h4> 
+
+Bu bilinç hallerinin, ait oldukları Evre’nin başlangıcıyla birlikte başladığı ve Evre’nin bitimiyle sona erdikleri sanılmamalıdır. Her zaman Tekrarlamalar ( Recapitulation) vardır ve bu yüzden yükselen derecelerde onlara karşılık gelen bilinç halleri olmalıdır. Her Evre’nin Satürn Devri, A Küre’sindeki ikametin ve her bir Küre’nin ilk Çağı da, Satürn Evresi’ndeki gelişim hallerinin tekrarlarıdırlar. Güneş Devri, B Küresi’ndeki ikametin ve her Küre’nin ikinci Çağı da, Güneş Evresi’ndeki gelişim hallerinin tekrarlarıdır. Ve bu böyle tüm Evre’ler boyunca ( Ay Evresi, Yer Evresi vs ) devam eder. Böylece her bir Evre’nin kendine has ve özel sonucu olan bilinç, tüm Tekrarlamalar yapılmadan gelişmeye başlamaz. Yer Evresi’nin uyanık bilinci, yaşam dalgası dördüncü Küre olan D Küre’sini erişmeden ve bu Küre’de dördüncü Çağ olan Atlantis Çağı’nın Dördüncü Devre’sinden önce başlamadı. 
+
+Jüpiter Evresi’ndeki Jüpiter bilinci, beşinci Küre olan E Küre’sine ulaşılmadan ve bu Küre’de beşinci Çağın beşinci Devri’ne gelinmeden önce başlamayacaktır. 
+
+Benzer şekilde Venüs bilinci de 6. Küre’nin 6. Çağı’nda 6. Devir gelene kadar başlamayacaktır. Vülken Evre’sinin çalışması da son Küre’nin son çağında Tezâhür Günü’nden hemen öncesi ile sınırlı olacaktır. 
+
+Bu ayrı ayrı Evre’leri geçmek için gereken zaman, herbir Evre için büyük farklılıklar gösterir. Bâkir rûhlar maddeye ne kadar batarlarsa, ilerlemeleri o kadar yavaş ve geçmeleri gereken aşamalar veya adımlar da o kadar çok olur. Maddi varoluşun en alt noktası geçildikten sonra ve yaşam dalgası, daha ince ve daha mobil koşullara çıktıkça ilerleme de o kadar hızlanacaktır. Güneş Evresi, Satürn Evresi’nden biraz daha uzun sürer. Ay Evresi de Güneş Evresi’nden daha uzundur. Yer Evresi’nin Mars yani birinci yarısı, tüm Evrelerin en uzun yarısıdır. Bundan sonra zaman tekrar kısalmaya başlar. Böylece Yer Evresi’nin Merkür yarısı, yani son 3,5 Devir, Mars yarısına göre daha az zaman alır. Jüpiter Evresi Ay Evresi’nden daha kısa sürecektir. Venüs Evresi, kendisine karşılık gelen Güneş Evresi’nden daha kısa olacaktır. Vülken Evresi ise tüm Evrelerin en kısası olacaktır. 
+
+Her bir Evre’nin bilinç halleri aşağıdaki gibi sınıflandırılabilir: 
+
+Önümüzdeki üç buçuk Evre’deki bilinç hallerine genel bir bakıştan sonra şimdi de bu bilinç hallerine sahip olmak için kullanılan araçlarına bakalım. 
+
+#### <h4 id="alchemy-and-soul-growth">Simya ve Ruhun Büyümesi</h4> 
+
+Yoğun bedenin varoluşunun başlangıcı Satürn Evresi’ndedir. O, Güneş ve Ay Evresi’nde çeşitli dönüşümlerden geçmiştir ve en yüksek gelişimine Yer Evresi’nde ulaşacaktır. 
+
+Yaşam bedenin varoluşunun başlangıcı ise Güneş Evresi’nin İkinci Devridir. O, Güneş ve Ay Evrelerinde yeniden inşa edilmiştir ve Yer Evresi nasıl yoğun bedenin dördüncü aşaması ise o da mükemmelliğe, dördüncü aşaması olan Jüpiter Evresi’nde ulaşacaktır. 
+
+Arzu bedenin varoluşunun başlangıcı da Ay Evresi’dir ve o, Yer Evresi’nde tekrar inşa edilmiştir. Jüpiter Evresi’nde daha da değişikliğe uğrayacak ve mükemmelliğe Venüs Evresi’nde ulaşacaktır. 
+
+Zihin ise Yer Evresi’nde varolmaya başlamıştır. Jüpiter ve Venüs Evre’lerinde değişecek ve Vülken Evresi’nde mükemmelliğe erişecektir. 
+
+Şekil 8’e baktığımızda görürüz ki, Jüpiter Evresi’nin en aşağıdaki Küresi, Eter Bölgesi’nde bulunur. Bu yüzden Jüpiter Evresi’nde yoğun fizik bedeni kullanmak mümkün değildir, zira Eter Bölgesi’nde ancak yaşam beden kullanılabilir. Ancak insanın, Satürn Evresi’nin başlangıcından Yer Evresi’nin sonuna dek geçen sürede fizik bedeni tamamlaması ve mükemmelliğe eriştirmesinden sonra, bu bedenin atıldığı ve insanın “daha yüksek” bir araç içinde çalıştığı düşünülmemelidir. 
+
+Doğada hiçbir şey atılmaz. Jüpiter Evresi’nde yoğun bedenin güçleri yaşam bedene taşınacak, böylece yaşam beden de mükemmelliğe erişecek. Bu araç, kendi güçlerine ek olarak yoğun bedenin fizik güçlerine de sahip olacak ve bu yüzden üçüz ruhun ifadesi için, sanki sadece kendi güçlerinden inşa edilmiş gibi çok daha değerli bir enstrüman olacaktır. 
+
+Benzer şekilde Venüs Evresi’nin D Küresi Arzu Âleminde bulunur ( Şekil 8’e bakınız), bu yüzden ne bir yoğun beden ve ne de bir yaşam beden, bu Evre’de bilincin bir enstrümanı olarak kullanılabilir. Bu yüzden mükemmelleşmiş yoğun bedenin ve yaşam bedenin özleri arzu beden içine dahil edilir. Böylelikle aşkın niteliklere sahip, olağanüstü uyum sağlayabilen ve içinde oturan ruhun en ufak isteklerine bile, bizim en ileri anlayışımızın bile kavrayamayacağı bir şekilde hemen yanıt verebilen bir araç meydana gelmiş olur. 
+
+Ancak bu şahane aracın gücü bile, onun özü Venüs Evresi’nde yoğun ve yaşam bedenlerin özü ile birlikte zihin bedene katıldığında aşılacaktır. Böylece bu araç, insanın en yüksek aracı olacak ve kendi içerisinde diğer tüm araçların şimdiye dek en iyi olanlarının özüne sahip olacaktır. Venüs Evresi aracı bizim kavrayış gücümüzün ötesindedir. Vülken Evresi’nde tanrısal Varlıkların hizmetinde olacak araç ise, bu aracın da ötesindedir. 
+
+İnvolüsyon esnasında yaratıcı Hiyerarşiler insana üçüz ruhunu, yani Ego’sunu faaliyete geçirmede, üçüz bedenini inşa etmede ve zihin bağı edinmede yardım ettiler. Ancak şimdi ( İncil’in dilini kullanırsak) yedinci Gün’de Tanrı dinlenmektedir. İnsan şimdi kendi kurtuluşunu sağlamak zorundadır. Üçüz ruh, Tanrılar tarafından başla- tılmış olan planı sonuca ulaştırmak zorundadır. 
+
+Ay Evresi’ndeki İnvolüsyon esnasında uyandırılmış olan insan ruhu, Jüpiter Evresi’ndeki evrim esnasında ruhun üç görünümünün en belirgini olacaktır, çünkü o, Ay Evresi’nin spiralinin yükselen kavisinde bulunmaktadır. Güneş Evresi’nde faaliyete geçirilen yaşam ruhu, ana faaliyetini Güneş Evresi’ne karşılık gelen Venüs Evresi’nde ortaya koyacak ve Tanrısal Rûhun özel etkileri Vülken Evresi’nde en yüksek seviyeye erişecektir, çünkü ona, Satürn Evresi’nde yaşam verilmiştir. 
+
+Ruhun her üç görünümü de evrim esnasında her zaman aktiftirler, fakat herbir görünümün ana faaliyeti, özel bir Evre’de ortaya çıkmıştır, çünkü orada yapılması gereken iş, onun özel görevidir. 
+
+Üçüz ruh, üçüz bedeni geliştirdiğinde ve onun üzerindeki kontrolü zihin odağı aracılığıyla kazandığında, üçüz insan ruhunu içten çalışarak geliştirmeye başladı. Bir insanın ne kadar çok veya ne kadar az ruhu olduğu, insan ruhunun bedenlerde şimdiye kadar ortaya koyduğu çalışmaya bağlıdır. Bu konu, ölümden sonraki deneyimlerin anlatıldığı bölümde işlendi. 
+
+Arzu bedenin, üzerinde Ego’nun çalıştığı kısmı, arzu ruhuna dönüştürülecek ve en sonunda, özel aracı arzu beden olan insan ruhu tarafından bu ruhun içinde eritilecektir. 
+
+Yaşam bedenin, üzerinde yaşam ruhunun çalıştığı kısmı, zihin ruhuna dönüşecek ve yaşam ruhunu inşa edecektir. Çünkü üçüz ruhun bu görünümü, yaşam bedende kendi benzerine sahiptir. 
+
+Yoğun bedenin, üzerinde Tanrısal Ruhun çalıştığı kısmına Bilinçli ruh adı verilir. Yoğun beden en sonunda Tanrısal Ruhla birleşecektir, çünkü o, Tanrısal Ruhun maddi ışımasıdır (emanation). 
+
+Bilinçli ruh, eylemle, dış etkilerle ve deneyimle büyür. 
+
+Duygusal ruh, eylemler ve deneyimlerin yarattığı duygu ve heyecanla büyür. 
+
+Yukarıda bahsedilen iki ruh arasında bir aracı olan Zihinsel ruh, geçmişteki ve şimdiki deneyimleri birbirine bağlamasını sağlayan hafızanın kullanımıyla büyür. Böylece meydana getirilen duygular, hafıza dışında varolması mümkün olmayan “sempati” ve “antipati”yi yaratırlar, çünkü yalnızca deneyimden gelen duygular geçicidirler. 
+
+İnvolüsyon esnasında ruh, bedenlerin büyümesiyle gelişti. Fakat evrim, ruhun büyümesine, bedenlerin ruha dönüşmesine bağlıdır. Ruh, tabiri caizse özdür, bedenin gücü veya kuvvetidir ve bir beden, tamamıyle inşa edildiğinde ve yukarıda anlatılan Evreler ve aşamalardan geçerek mükemmelliğe eriştiğinde ruh, ondan tamamen çıkarılır ve ruhun üç görünümünden bu bedeni üreten görünümü tarafından yutulur. Böylece; 
+
+Bilinçli ruh, Tanrısal ruh tarafından Jüpiter Evresi’nin yedinci Devrinde yutulacak; 
+
+Zihinsel ruh, Yaşam ruhu tarafından Venüs Evresi’nin altıncı Devrinde yutulacak; 
+
+Duygusal ruh da, İnsan ruhu tarafından Vülken Evresi’nin beşinci Devrinde yutulacaktır. 
+
+#### <h4 id="the-creative-word">Yaratıcı Kelime</h4>
+
+Zihin, rûhun sahip olduğu en önemli enstrümandır. O, ruhun yaratım işindeki özel enstrümanıdır. Ruhsallaştırılmış ve mükemmelleştirilmiş gırtlak, yaratıcı Kelime’yi konuşacak, fakat onun Form’unun nasıl olacağına ve titreşiminin büyüklüğüne mükemmelleşmiş zihin karar verecek ve böylece belirleyici faktör olacaktır. Hayalgücü (imagination), yaratıcı çalışmayı yöneten ruhsallaşmış yeti haline gelecektir. 
+
+Günümüzde hayalgücü yeteneğine küçümseyerek bakma yönünde güçlü bir eğilim vardır. Ancak o, uygarlığımızın en önemli faktörlerinden biridir. Eğer hayalgücünün faaliyeti olmasaydı, biz hâlâ çıplak vahşilerdik. Hayalgücü evlerimizi, giysilerimizi, taşıma ve iletişim araçlarımızı tasarladı. Eğer mucitler zihnin ve hayalgücünün yardımıyla zihinsel resimler oluşturamasalardı, iyileştirmeler asla somut gerçeklikler olamazlardı. Maddeci çağımızda hayalgücü fazlasıyla horgörüldü (1909). Hiçkimse onun etkisini mucitlerden daha şiddetli hissedemez. Genelde mucitler “kaçık” olarak görüldüler, ancak onlar, Fizik Âlemin zaptedilmesinde ve sosyal çevremizin bugünkü hale gelmesinde ana faktörlerdir. Ruhsal veya fiziksel koşullardaki her iyileştirme, gerçekleştirilebilmesinden önce bir olasılık olarak hayal edilmelidir. 
+
+Eğer öğrenci Şekil 1’e dönerse bu olgu daha da aydınlanacaktır. Burada farklı insan araçlarının işlevleri ile projektörün parçaları karşılaştırıldığında zihin, projektörün lensine karşılık gelir. Zihin, ruh tarafından işlenmiş fikirlerin kendisi aracılığıyla maddi evrene yansıtıldığı odaklayıcı orta-noktadır. İlk başlangıçta onlar yalnızca düşünce formlarıdır, ancak hayal edilmiş olasılıkları gerçekleştirme arzusu insanı Fizik Âlem’de çalışmak üzere harekete geçirdiğinde onlar, bizim somut “gerçek” olarak adlandırdığımız şeyler haline gelirler. 
+
+Ancak günümüzde zihin, ruhun tasarladığının açık ve gerçek resmini vermeye odaklanmamıştır. Onun odağı hassas bir şekilde ayarlanmamıştır ve bize net resimler değil, sisli ve bulanık resimler verir. Bu yüzden ruh tarafından zihin maddesinde üretilen resim, fizik maddeye taşınana kadar ilk anlayışın yetersizliklerini göstermek ve yeni tasarımlar ve fikirler meydana getirmek için yeni denemeler yapmak zorunludur. 
+
+Zihinle en fazla Form’la ilişkili resimler yapabiliriz, zira insan zihni ancak Yer Evresi’nde ortaya çıkmıştır ve bu yüzden o şimdi kendi Form konumunda veya “maden” aşamasındadır. Bu yüzden faaliyetlerimizde formlarla veya madenlerle sınırlıyız. Madensel Formlarla üç alt krallıkta çalışmak için vasıta ve yolları hayalgücüyle bulabiliriz, fakat yaşayan bedenler üzerinde çok az şey yapabiliriz ve hatta hiçbir şey yapamayız. Yine de canlı bir ağacın dalını aşılayabiliriz ya da bir insanın veya hayvanın canlı bir parçasını başka bir insana veya hayvana nakledebiliriz. Fakat burada yaşamla değil formla çalışmaktayız. Farklı yaşam koşulları yaratırız, fakat Formda oturan yaşamın kendisi dokunulmamış olarak kalır. Yaşam yaratmak, zihin canlı hale gelene kadar insanın yapamayacağı bir şey olarak kalacaktır. 
+
+Jüpiter Evresi’nde zihin belli bir ölçüde canlandırılacak ve insan, bundan sonra hayalgücüyle bitkiler gibi yaşayıp büyüyen Formlar yaratacaktır. 
+
+Venüs Evresi’nde zihni “duygu” kazandığında insan; yaşayan, büyüyen ve hisseden şeyler yaratabilecektir. 
+
+Vülken Evresi’nin sonunda mükemmelliğe eriştiğinde ise yaşayan, büyüyen, hisseden ve düşünen varlıkları hayalgücüyle varedebilecektir. 
+
+Şimdi insan olan yaşam dalgası, evrimine Satürn Evresi’nde başladı. Bu Evre’de Zihnin Efendileri insan aşamasında idiler. Onlar, o zamanlar maden olan insanlığımız üzerinde çalıştılar. Zamanımızda ise onların aşağı krallıklarla bir ilgisi yoktur ve yalnızca bizim insan gelişimimizle ilgilenmektedirler. 
+
+Bizim şimdiki hayvanlarımız, madensel varoluşlarına Güneş Evresi’nde başladılar. Bu Evre’de Yüce Melekler insan idiler ve bu yüzden onlar, şimdiki hayvanların hükümdârı ve rehberleridirler, fakat bitki ve madenlerle bir ilgileri yoktur. 
+
+Şimdiki bitkiler maden varlıklarına Ay Evresi’nde başladılar. Ay Evresi’nde melekler insan idiler ve bu yüzden onların ilgileri de şimdi bitkilerde oturan yaşam dalgası ve onu insan aşamasına getirmek üzerinedir. Ancak meleklerin madenlerle bir ilgileri yoktur. 
+
+Şimdiki insanlığımız, evrime şimdiki Yer Evresi’nde başlamış ve madenlere ruh veren yeni yaşam dalgası ile çalışmak durumunda kalacaktır. Şimdi hayalgücü yetimiz yardımıyla onlar üzerinde çalışıyoruz. Onlara Form veriyoruz, onlardan gemiler, köprüler, demiryolları, evler vs yapıyoruz. 
+
+Jüpiter Evresi’nde ise bitki krallığının evrimini yöneteceğiz, zira şimdi madensel olan, bitki benzeri bir varlık Formuna sahip olacak ve meleklerin şimdiki bitki krallığında çalıştıkları gibi onların üzerinde çalışmak zorunda kalacağız. Hayalgücümüz o kadar gelişmiş olacak ki, onun yardımıyla yalnızca Formlar yaratmayacağız, onlara ayrıca yaşam da vereceğiz. 
+
+Venüs Evresi’nde bizim şimdiki madensel yaşam dalgamız, bir adım daha ilerlemiş olacak ve biz onlar üzerinde, şimdiki Yüce Melekler’in hayvanlar üzerinde olduğu gibi çalışacağız ve onlara, yaşayan ve hisseden Formlar vereceğiz. 
+
+En sonunda Vülken Evresi’nde de, tıpkı Zihnin Efendileri’nin bize vermiş olduğu gibi biz de onlara tohum halinde bir zihin verme ayrıcalığına sahip olacağız. Şimdiki madenler bu işlemden sonra Vülken Evresi’nin insanlığı olacaklar ve biz de şimdi Melekler ve Yüce Melekler tarafından geçilmiş aşamaları geçeceğiz. Bundan sonra da evrimde, Zihnin Efendileri’nin şu anda bulunduğu noktadan daha yüksek bir noktaya erişeceğiz. Zira hatırlanacağı gibi evrende hiçbir yerde tam olarak aynı bir tekrar yoktur. Sadece, spiral biçimli gelişim yolu sebebiyle hep daha fazla ilerleyen bir gelişim vardır. 
+
+Tanrısal Ruh, Jüpiter Evresi’nin sonunda insan ruhunu yutacak. Venüs Evresi’nin sonunda da yaşam ruhunu ile tüm bu yedi Evre boyunca süren hac yolculuğu esnasında edinilmiş her şeyi kapsayan mükemmelleştirilmiş zihni yutacaktır. (Bu ifade ile arzu ruhunun insan ruhu tarafından Vülken Evresi’nin beşinci Devre’sinde yutulacağı ifadesi arasında bir çelişki yoktur. Zira insan ruhu o zaman Tanrısal Ruhun içinde olacaktır.) 
+
+Bunu, uzun bir öznel faaliyet dönemi takip edecektir. Bu dönemde bâkir ruh, aktif tezâhürün yedi Evresinin tüm meyvelerini özümseyecektir. Bundan sonra da o, Kendisinden geldiği Tanrı’ya, başka bir Büyük Gün’ün şafağında O’nun Yüce yardımcılarından biri olarak tekrar ortaya çıkarak karışacaktır. Geçmiş evrimi boyunca onun gizil olasılıkları, dinamik güçlere dönüşmüştür. O, maddeye olan hac yolculuğunda Ruh-gücüne ve bir Yaratıcı Zihne sahip olmuştur. Güçsüzlükten her şeye gücü yetme konumuna, cahillikten her şeyi bilme konumuna gelmiştir. 
+
+### <h3 id="chapter-17">17. Bölüm: Bilgiyi İlk Elden Edinmenin Yöntemi</h3>
+
+#### <h4 id="the-first-steps">İlk Adımlar</h4>
+
+Tüm bireylere, kendi araştırmaları ile bu kitapta anlatılan tüm gerçekleri öğrenmenin yolunu göstermenin zamanı gelmiştir. Başta da belirtildiği gibi sadece bir insana verilmiş özel “yetenekler” yoktur. Herkes, ruhun hac yolculuğu, dünyanın geçmiş gelişimi ve gelecekte nasıl olacağı hakkında başkalarının anlattıklarına güvenmek zorunda kalmaksızın kendi kendine bilgi edinebilir. Bu değerli yeteneğin edinilebileceği bir metod vardır. Onun aracılığıyla ciddi bir öğrenci, bu metodu izlerse, onun aracılığıyla fizikötesi âlemleri araştırabilir hale gelir. Bu yöntemi devamlı olarak kullandığında kişi, bir Tanrı’nın güçlerini kendisinde geliştirebilir. 
+
+Basit bir örnek bize ilk adımları gösterebilir. En iyi tamirci bile mesleğinin araç gereçleri olmazsa çaresizdir. İyi bir zanaatkâr, kullandığı âletlerinin durumu ve kalitesi konusunda titizdir. Çünkü bilir ki yaptığı işin niteliği, kendi yeteneğine olduğu kadar bu âletlerin mükemmel olmasına da bağlıdır. 
+
+Ego’nun çeşitli araçları vardır: Bir yoğun beden, bir yaşam beden, bir arzu beden ve bir zihin. Bunlar onun âletleridir ve Ego’nun her yaşamda deneyim toplama görevini ne kadar çok veya ne kadar az yerine getireceği bu âletlerin kalitelerine ve bulunduğu durumlara bağlıdır. Eğer enstrümanlar zayıf ve körelmiş iseler, sadece küçük bir ruhsal büyüme gerçekleşecek ve yaşam, ruhsal açıdan meyvesiz olacaktır. 
+
+Genelde “başarılı” bir yaşamı; yüklü bir banka hesabı, istenilen sosyal statünün elde edilmesi ya da tasasız bir varoluş ve korunmuş bir çevrenin sonucu olan mutluluk olarak değerlendiririz. 
+
+İnsan, yaşama bu şekilde bakarsa sonsuzluk değeri olan her şeyi unutacaktır. Ve de geçici olan şeylerle ve yanılsamalarla (illusion) körleşecektir. Yüklü bir banka hesabı çok büyük bir başarı olarak görünebilir, ancak şu gerçek unutulmuştur ki Ego, bedeni terk ettiği andan itibaren, daha önceden sahip olduğu altın veya başka herhangi bir dünya malına artık sahip değildir. Ve hatta bunlara nasıl sahip olduğu konusunda sorguya çekilebilir ve geride kalanların onları nasıl harcadığını gördüğünde çok acı çekebilir. Unutulan bir başka şey de gümüş kordon çözüldüğünde itibarlı sosyal mevki de yokolacaktır. Önceden ona dalkavukluk edenler şimdi kendisini küçümseyebilirler ve hatta ona yaşarken sadık kalanlar bile, ölenle bir saat geçirme düşüncesinden bile ürkebilirler. Bu yaşamdan olan her şey boştur. Sadece eşiği geçerken yanımızda ruhsal hazine olarak götürebileceğimiz şeylerin gerçek bir değeri vardır. 
+
+Serada yetişen bitki, korunaklı cam evinde çok güzel görünebilir. Fakat ısıtma sisteminin yakıtı tükendiğinde kuruyarak ölmek durumunda kalır. Halbuki yağmurda ve güneşte, fırtınada ve dinginlikte büyüyen bitki, kışı atlatacak ve her yıl yeniden çiçek açacaktır. Ruhun bakış açısından mutluluk ve korunmuş bir çevre, kötü koşullar demektir. Evde beslenmiş ve şımartılmış köpek, sürekli hastalıklara yakalanırken, çöp tenekesindeki yiyecek için savaşmak zorunda olan sokak köpeği bu hastalıkları hiç tanımaz. Sokak köpeğinin yaşamı çetindir, fakat onu hep tetikte kılan, diri ve becerikli yapan deneyimler kazanır. Onun yaşamı olaylar bakımından zengindir ve şımartılmış ev köpeği zamanını korkunç bir monotonlukta geçirirken o, birçok deneyim toplar. 
+
+İnsanın durumu da buna benzer. Yoksulluk ve açlıkla savaşmak zorunda kalmak kolay değildir. Fakat ruhun bakış açısından bu yaşam, tembel ve lüks bir yaşama göre sonsuz derecede üstündür. Eğer zenginlik ancak, insanı gerçekten yükselten, iyi düşünülmüş hayırseverliğin hizmetçisi ise kişiye büyük bir hayır sağlayabilir ve bu, zenginliğin sahibinin büyümesi için bir vasıta olabilir. Fakat zenginlik bencil amaçlarla ve başkalarına zulmetmek için kullanılırsa tam bir belâ olarak değerlendirilebilir. 
+
+Ruh, enstrümanları aracılığıyla deneyim toplamak için buradadır. Bu enstrümanlar, doğumda herkese verilen aletlerdir. Bu aletler, geçmiş deneyimlerimiz aracılığıyla onları yapmayı nasıl öğrendiğimize bağlı olarak iyi, kötü veya vasat olabilirler. Şimdi onları oldukları gibi kullanmak zorundayız. 
+
+Alışılagelmiş uyuşukluktan silkelendiğimizde ve ilerleme kaydetmek için çabaladığımızda şu soru doğal olarak ortaya çıkar: Ne yapmalıyım? 
+
+İyi ve korunmuş aletler olmadan tamirci iyi bir iş yapamaz. Aynı şekilde Ego’nun enstrümanları da temizlenmeli ve kuvvetlendirilmelidirler. Ancak bundan sonra bir amaç için çalışmaya başlayabiliriz. Bu harika aletlerle çalışıldığında onlar, uygun kullanımla daha da iyi duruma gelirler ve çalışmada hep daha etkili bir yardımcı olurlar. Bu çalışmanın amacı, Yüksek Benlik ile Birleşme’dir. 
+
+Bu çalışmanın Doğayı yenmesinde üç adım vardır, ancak bu adımlar tamamen birbiri ardına atılmazlar. Onlar sadece belli bir anlamda birbirlerini takip ederler. Öyle ki şimdiki aşamada en fazla dikkati birinci adım alır, ikinci adım daha az ve üçüncü adım da en az dikkati alır. Zamanla, ilk adım mükemmel bir şekilde atılmış olduğunda, doğal olarak diğer iki adıma daha fazla dikkat verilebilir. 
+
+Bu üç adımı atmak için üç yardım bulunmaktadır. Bu yardımlar, insanlığın Büyük Liderlerinin kendi yerlerini verdikleri dış dünyada görülebilirler. 
+
+İlk yardım, Irk-dinidir. O, arzu bedeni yenmede insana yardım eder ve insanı Kutsal Rûhla birleşmeye hazırlar. 
+
+Bu yardımın tüm etkinliği Hamsin (Pentecost) Günü’nde görülür. Kutsal Rûh, Irk Tanrısı olduğu için tüm diller onun ifadesidirler. Bu yüzden bütün havariler, Kutsal Rûhla tam olarak birleştiklerinde ve O’nunla dolduklarında farklı topluluklara onların dilleriyle konuşmuşlar ve onları inandırabilmişlerdir. Onların arzu bedenleri, istenen birleşmeyi sağlayabilmeleri için yeterince arınmıştı. Bu tüm dilleri konuşma gücüne ciddi bir öğrenci de birgün mutlaka erişecektir. Talip kişi de birgün mutlaka buna erişecek ve aynı şekilde tüm dilleri konuşabilecektir. Buna tarihsel bir örnek olarak da (kutsal tarikatımızın kurucusu Christian Rosenkreuz’un sonraki enkarnasyonlarından biri olan) Sen Jermen Kontu verilebilir. O, tüm dilleri konuşabiliyordu, öyle ki onu ziyaret eden herkes, onu kendi halkından sanıyordu. O da Kutsal Ruh’la birleşmeyi başarmıştı. 
+
+Uzak-kuzey (Hyperborean) Çağı’nda insan bir arzu bedene sahip olmadan önce sadece bir iletişim yöntemi vardı. Arzu beden yeterince arındırıldığında tüm insanlar, tekrar birbirlerini anlayabileceklerdir. Farklı Irk ayrımı da böylece son bulacaktır. 
+
+İnsanlığın şu anda sahip olduğu ikinci yardım da Oğul’un Dini, yani Hristiyanlık’tır. Bu dinin hedefi, arzu bedenin temizlenmesi ve kontrolü aracılığıyla Mesih’le birleşmektir. 
+
+Paul, şunları söylediğinde gelecekteki bu duruma işaret etti: “İsa sende şekilleninceye kadar” (Gal 4:19). O takipçilerini, kendilerini her türlü ağırlıktan kurtarmaları konusunda teşvik etti. Zira onlar, bir yarışta olan insanlara benziyorlardı. 
+
+Yaşam bedenin yapımında temel ilke, tekrarlamadır. Tekrar eden deneyimler, hafıza yaratmak için onun üzerinde çalışırlar. Biz farkında olmaksızın bize belli alıştırmalar vermek isteyen İnsanlık Liderleri, yaşam bedende saf ve yüce düşünceleri çalıştırmak için duayı bir araç olarak belirlediler. Ayrıca insanlardan, “düzenli olarak dua etmelerini” talep ettiler. Çoğu kez insanlar alaycı bir şekilde dua etmenin neden gerekli olduğunu sordular. Onlara göre, Tanrı eğer her şeyi bilen ise bizim ihtiyaçlarımızı da bilecektir, eğer her şeyi bilen değilse de bizim dualarımız ona büyük bir ihtimalle ulaşamayacaktır. Eğer O, her şeyi bilen değilse her şeye gücü yeten de değildir ve bizim dualarımızı da duyamaz. Bazı ciddi Hristiyanlar da Tanrı’nın Tahtı’nı sürekli rahatsız etmenin yanlış olacağını düşünmüş olabilirler. 
+
+Bu fikirler, gerçeklerin yanlış anlaşılmasından kaynaklanmaktadır. Tanrı gerçekten her şeyi bilendir. O, bizim gereksinimlerimizi hatırlatmamıza ihtiyaç duymaz. Fakat doğru şekilde dua edersek, kendimizi O’na yükseltir ve yaşam bedenlerimiz üzerinde çalışarak onu arındırırız. Fakat burada büyük bir zorluk da bulunmaktadır. Genelde bizler geçici şeylerle, ruhsal yükselişimizle olduğumuzdan çok daha fazla ilgiliyizdir. Kiliseler yağmur duası için özel âyinler düzenlemekteler. Ve hatta birbirlerine karşıt ordudaki papaz yardımcıları savaştan önce, silahlarının başarılı olması için dua etmektedirler. 
+
+Bu, Irk Tanrı’sına yapılan duadır. Irk Tanrı’sı, kendi halkının savaşları için mücadele eder, onların sürülerini fazlalaştırır, ambarlarını doldurur ve maddi isteklerini yerine getirir. Böyle dualar arındırıcı bile değillerdir ve arzu bedenden kaynaklanırlar. Arzu beden içinde bulunduğu durumu şöyle kavrar: “Efendim ben emirlerini, elimden gelenin en iyisiyle yerine getiriyorum ve Senin de bunun için kendi üzerine düşeni yapmanı istiyorum.” 
+
+Mesih insanlığa, kendisi gibi tek ve her şeyi saran bir dua verdi. Bu duanın içinde yedi açık ve ayrı dua vardır. Bu yedi duanın her biri, insandaki yedi ilkeden birini, yani üçüz bedeni, üçüz ruhu ve zihin bağlantısını içermektedir. Her dua, bileşik insanın ilgili olduğu kısmını geliştirmeye özel olarak uygundur. 
+
+Üçüz bedenlerle ilgili duanın amacı, bu bedenlerin ruhsallaştırılması ve onlardan üçüz ruhun çıkarılmasıdır. 
+
+Üçüz insan ruhuyla (canla) ilişkili olan dualar, üçüz insan ruhunu çıkarılmış özü, yani üçüz ruhu almaya hazırlarlar. 
+
+Zihin için olan duanın amacı, zihnin yüksek ve alçak doğa arasında bağlantı olma işini düzgün olarak yapmaya devam etmesini sağlamaktır. 
+
+İnsanlığa verilen üçüncü yardım da Baba’nın Dîni olacaktır. Onun ne olacağı hakkında çok az bilgimiz vardır. Sadece onun idealinin Kardeşlikten daha yüksek bir şey olacağını ve yoğun bedenin onun aracılığıyla ruhsallaşacağını söyleyebiliriz. 
+
+Kutsal Rûhun Dinleri olan Irk Dinleri, belli bir grupla sınırlı (aile, aşiret veya ulus) akrabalık duygusu yoluyla insan ırkını yükseltmeye çalıştılar. 
+
+Mesih’in, yani Oğul’un dininin amacı, ayrı bireylerin Evrensel Kardeşliğini oluşturana dek insanlığı yükseltmektir. 
+
+Baba’nın Dini’nin ideali de bütün ayrılıkların giderilmesi olacaktır. Her şey Bir’in içinde eriyecektir. Ne bir “Ben” ve ne de bir “Sen” olacaktır. Herkes gerçekte Bir olacaktır. Bu, biz fizik yerde bulunduğumuz sürece değil, gelecekteki bir durumda herkesle birliğimizi gerçekleştirdikten sonra meydana gelecektir. Bundan sonra herkes, ayrı bireyler tarafından edinilmiş bilgiye erişebilecektir. Elmasın bir yüzeyi, diğer yüzeylerden giren tüm ışınlara nasıl erişebiliyorsa, nasıl bu yüzey diğerleriyle bir, ancak çizgilerle sınırlı ise ve nasıl bu çizgiler ona, diğerlerinden ayrı olmadan belli bir bireysellik veriyorsa, aynı şekilde bireysel ruh da, özel deneyimlerine ait anıları tutacak ve aynı zamanda diğer herkese bireysel varoluşunun meyvelerini verecektir. 
+
+Bunlar, kendileri aracılığıyla insanlığın, farkında olmadan götürüldüğü aşamalar ve adımlardır. 
+
+Geçmiş çağlarda Irk ruhu, tek başına hükümdarlık etti. İnsan, kendisinin bir pay sahibi olmadığı ataerkil ve babadan kalma bir yönetimden hoşnuttu. Şimdi tüm dünyada eski sistemin çöküşünün işaretlerini görüyoruz. İngiltere ve Hindistan’da kale olan kast sistemi parçalanıyor. Küçük gruplara bölünmek yerine insanlar birleşerek zalimlerin gitmesini talep ediyor. (1909) Halklar, halktan ve halk için seçim olan bir egemenlik istiyorlar. Rusya, diktatör ve zorba bir yönetimden kurtulmak için yapılan özgürlük savaşlarıyla parçalanıyor. Türkiye uyandı ve özgürlüğe doğru büyük bir adım attı. Burada, ülkemiz Kuzey Amerika’da, kendisine diğer halkların gıpta ile baktığı ve onun için mücadele ettiği özgürlüklerden henüz memnun değiliz. Zorba bir monarşiden başka zalim yönetim biçimlerinin de olduğunu görüyoruz. Hâlâ kazanmamız gereken endüstri özgürlüğümüzün olduğunu ve karteller ile sağlıksız bir rekabet sistemi altında inlediğimizi görüyoruz. Vakıflar tarafından kendi sınırları ve kendi yararları içerisinde uygulanan işbirliğine doğru gidiyoruz. “Herkesin kendi asması ve incir ağacının altında” oturabileceği ve kimsenin korkmadığı bir sosyal topluma özlem duyuyoruz. 
+
+Böylece tüm dünyada, ataerkil yönetimlerin eski sistemleri değişiyor. Uluslar, bu şekilde kendi zirvelerine eriştiler ve bilmeden, görünmez Liderlerimizin planına uygun olarak Evrensel Kardeşlik için çalıştılar. Bu Liderler, Birleşmiş Milletler’de bulunmasalar da olayların biçimlendirilmesinde güçleri ondan daha az değildir. 
+
+Bunlar, kendileri aracılığıyla insanlığın farklı bedenlerinin tümden arındırıldığı yavaş etkili olan yöntemlerdir. Fakat yüksek bilgiye talip olanlar, bu hedefe ulaşmak için kendi yapılarına göre iyi tanımlanmış yöntemlerle bilinçli olarak çalışırlar. 
+
+#### <h4 id="western-methods-for-western-people">Batı İnsanı için Batılı Yöntemler</h4>
+
+Hindistan’da belirli Yoga sistemleri altında belirli yöntemler kullanılmaktadır. Yoga, Birlik anlamına gelir. Batı’da olduğu gibi orada da talip kişinin hedefi, kendi Yüksek Benliği ile birleşmektir. Bu birliği sağlamak için kullanılan metodlar, eğer etkili iseler hep farklı farklı olmak zorundadırlar. Bir Hindu’nun araçları, bir Kafkas’ınkinden çok farklıdır. Hindular, binlerce yıl boyunca bizimkinden tamamen farklı bir çevre ve iklimde yaşadılar. Onlar çok farklı bir düşünce yöntemi izlediler ve uygarlıkları, çok yüksek bir basamakta olmasına karşın, etkileri yönünden bizimkinden çok farklıdırlar. Bu yüzden onların yöntemlerini benimsemenin bizim için bir yararı yoktur. Bu yöntemler en yüksek okült bilginin ürünü olsalar ve onlara mükemmel bir şekilde uysalar da onlar, Batı insanı için bir aslana yulaf diyeti vermek gibidir. 
+
+Örneğin bazı sistemlerde yoginin, belirli kozmik akımların belli bir biçimde bedeninden akması ve belirli kesin sonuçları elde etmesi için belli duruşlarda oturması gerekir. Ancak bu bilgi bir Kafkaslı için tamamen yararsızdır, çünkü o, yaşam tarzıyla belirtilen akımlara tamamen duyarsızdır. Ve de bir sonuç elde etmek istiyorsa araçlarının yapısına uygun yöntemlerle çalışmak zorundadır. Bu yüzden “Sırlar”, Orta Çağ’da Avrupa’nın farklı bölgelerinde yerleşti. Simyacılar, yüksek okült ilmine sahip derin öğrencilerdi. Onların çalışmalarının ve deneylerinin hedefinin düşük metalleri altına çevirmek olduğuna ilişkin genel görüş, onların gerçek işi olan düşük doğanın ruha çevrilmesine ait sembolik ifadelerinden doğdu. Bu böyle söylendi, çünkü yalan söylemeden rahiplerin şüphelerinin yatıştırılması gerekiyordu. Gülhaçcıların, görevi “bilgelik taşı” yapma formülünün bulunması olan bir cemaat oluşturdukları tespiti doğruydu ve halen de doğrudur. Şu da doğrudur ki, pek çok insan bu hârikulade taşa eriştiler ve erişiyorlar. Bu ortak bir taştır, ancak onu sadece kendisi için yapanlara yarar sağlar. Formülü ezoterik eğitimde verilmektedir ve bu açıdan bir Gülhaçcı, diğer herhangi bir okült okulun üyesinden ayrılmaz. Herkes bu çok istenen taşı yapmaya uğraştı, ancak herkes kendi yöntemini kullandığından ve aynı iki insan olmadığından kendi alanı içinde gerçekten etkin bir çalışma hep bireysel kaldı. 
+
+Tüm okült okullar, tıpkı yaşamın “ışınları” bâkir ruhlar gibi yediye ayrılırlar. Her Okul veya her Tarikat, insanlığımızın her bir bölümü gibi bu yedi ışından birine aittir. Bu yüzden bu okült topluluklardan birisine girmek isteyen bir kişi, eğer “kardeşleri” kendi ışın grubuna ait değilse pek bir yarar sağlamayacaktır. Bu grupların üyeleri, diğer gruplardaki insanlara göre daha yakın bir anlamda birbirlerinin kardeşleridirler. 
+
+Belki bu yedi Işın, tayfın yedi rengiyle karşılaştırılabilir. Böylece onların birbirleri arasındaki ilişki daha iyi anlaşılabilir. Örneğin kırmızı bir Işın, yeşil bir Işınla birleşmek istediğinde uyumsuzluk meydana gelirdi. Aynı şey ruhlar için de geçerlidir. Herkes, bu tezahürde ait olduğu grupla çalışmalıdır, ancak onların hepsi birdir. Nasıl beyaz ışıkta tüm renkler bulunuyorsa ve atmosferimizin yansıtıcı özelliği onu yedi renge ayrılmış olarak gösteriyorsa, aynı şekilde somut varoluşun aldatıcı özelliği de bakir ruhları ayrı gruplar halinde gösterir ve bu gruplar, bu durumda olduğumuz sürece de varolmaya devam edeceklerdir. 
+
+Şekil 16!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Gülhaç Tarikatı, özellikle yüksek dereceli zihinsel gelişimleri, kalbi reddetmelerine yolaçmış olan kişiler için kurulmuştur. Zihin zorba bir şekilde her şeyin, dünyanın gizeminin, yaşam ve ölüm sorunlarının izahını ister. Varoluşun nedenleri ve hareket yöntemleri, “Tanrı’nın sırlarını bilmeye çalışma” şeklindeki papaz emriyle açıklanamaz. 
+
+Araştıran bir zihne sahip olma lütfuna erişmiş her erkeğin veya kadının, çok istedikleri her bilgiyi öğrenmeleri çok büyük önem taşır. Böylece ancak kafa sustuktan sonra kalp konuşabilir. Zihinsel bilgi, hedefe varmak için bir araçtır, yoksa hedefin kendisi değildir. Bu yüzden bir Gülhaçcı, bilgiye susamış kişiyi ilk olarak bu evrendeki her şeyin mantıklı bir açıklaması olduğuna ikna etmeye çalışır. Böylelikle de o, âsi zihne galip gelir. Zihin eleştirmeyi kestiğinde, şu anda direkt olarak doğruluğu kanıtlanamayacak saptamaların doğru olabileceğini geçici olarak kabul etmeye hazırdır. Ancak bundan sonra insanın, inanç aşamasında ilk elden bilgi aşamasına geçişini sağlayacak olan yüksek yetilerinin geliştirilmesinde ezoterik eğitim etkili olacaktır. Fakat bundan sonra bile ortaya çıkacaktır ki, ilk elden bilgi edinmedeki gelişimine ve kendi başına araştırabilir olmasına rağmen kişi, yine de sürekli olarak anlayışının üstündeki gerçeklerle karşılaşacak ve onlara inanmak zorunda kalacaktır. Çünkü onları araştırmak için henüz yeterince gelişmiş değildir. 
+
+Öğrenci her zaman şunun bilincinde olmalıdır ki, evrende mantıksız hiçbir şey varolamaz ve bu mantık, bütün âlemlerdeki en güvenilir rehberdir. Fakat aynı zamanda unutmamalıdır ki, onun yetenekleri sınırlıdır ve kendi mantık gücü çoğu zaman verilen ve tam olarak çözülebilecek bir problem için yetmez. Öğrenci, gelişiminin bu aşamasında henüz kapasitesinin ötesindeki düşünce çizgilerine uyma yeteneğine sahip değildir. Akılda tutulması gereken bir başka nokta da öğretmene sarsılmaz bir güven duyulmasının zorunlu olmasıdır. 
+
+Yukarıda söylenenlerin, yüksek bilgiye ilk adımları atmaya girişen herkes tarafından özellikle dikkate alınması tavsiye edilir. Eğer kişi verilen talimatları tam olarak yerine getirmek istiyorsa, bu talimatların onun hedefine ulaşmasında etkili bir araç olduğuna inancı tam olmalıdır. Talimatlara yarım yamalak uymanın hiçbir yararı yoktur. İnançsızlık, ruhun yetiştirdiği en güzel çiçeği bile öldürür. 
+
+Eşzamanlı olarak insanın farklı bedenler üzerinde çalışması da devam eder. Bir bedeni, diğer bedenleri etkilemeden etki altına alamazsınız. Ancak ana çalışma bu bedenlerden herhangi biri üzerinde yapılabilir. 
+
+Hijyen ve beslenmeye titizlikle dikkat edilirse bundan temel olarak yoğun beden etkilenir. Ancak hijyen ve beslenmenin aynı zamanda yaşam ve arzu beden üzerinde de bir tesiri vardır. Yoğun bedenin inşa edildiği madde ne kadar saf ve ne kadar iyi ise, daha saf gezegen eterindeki ve arzu maddesindeki parçacıklar da o kadar saf ve iyi olur. Böylece de yaşam ve arzu bedenlerin gezegen kısımları da daha saf olur. Kişi sadece beslenmeye ve hijyene dikkat ederse kişisel yaşam ve arzu bedenleri neredeyse önceki kadar temiz kalır. Bu kişinin, ağır yemekler yiyen bir kişiye göre iyi ile temas etmesi biraz daha kolay olur. 
+
+Öte yandan bütün sinir bozucu şeylere rağmen kişi sakin bir mizaç geliştirirse ve edebi ve sanatsal bir beğeni sahibi olursa yaşam beden, fiziksel meselelerde bir zarafet ve titizlik etkisi üretecektir ve böylece arzu bedende asil duygular ve hisler oluşacaktır. 
+
+Kişi duygu ve hislerini dizginlemeyi öğrenmeye çalışırsa bu, diğer bedenler üzerinde de etkisini gösterecek ve onları daha iyi hale getirmeye yardımcı olacaktır. 
+
+#### <h4 id="the-science-of-nutrition">Beslenme Bilimi</h4>
+
+Yoğun bedenle başlarsak ve onu geliştirmek ve ruh için mümkün olan en uygun araç haline getirmek için mevcut fizik araçları gözönünde bulundurursak ve sonra da aynı hedefe götüren ruhsal araçları incelersek diğer tüm araçları da konuya dahil etmiş oluruz. Bu yüzden şu yöntemi takip etmek istiyoruz: 
+
+İnsan embriyosunun ilk gözle görünebilir durumu, yumurta akına benzeyen yumuşak veya jel benzeri bir küçük küredir. Bu küçük yumuşak kürede, daha katı maddelerden yapılmış çeşitli parçacıklar görünür. Bunlar, yavaş yavaş birbirlerine değene kadar büyüklük ve yoğunluk olarak çoğalmaya başlarlar. Bu temasın farklı noktaları yavaş yavaş eklemleri oluşturur ve böylelikle katı maddeden belirgin bir çatı, yani iskelet meydana gelir. 
+
+Bu çatının oluşumu esnasında etraftaki yumuşak madde birikir ve formun içinde, bizim cenin olarak adlandırdığımız gelişim aşamasına değin değişir. Cenin büyür, daha katı hale gelir ve bebekliğin başlayacağı doğum zamanına dek hep daha mükemmel organize olur. 
+
+İlk görünür varoluş aşamasıyla başlamış olan aynı yoğunlaşma süreci hâlâ devam eder. Varlık; bebeklik, çocukluk, gençlik, erkeklik veya kadınlık, yaşlılık ve en sonunda da ölüm olarak adlandırılan değişim gibi farklı aşamalardan geçer. 
+
+Bu aşamalardan herbiri, artan derecede katılık ve sağlamlıkla nitelendirilebilir. 
+
+Kemiklerin, tendonların, kıkırdakların, bağların, dokuların, zarların, derinin, ve hatta mide, karaciğer, akciğerler ve diğer organların maddelerinin, yoğunluk ve sıkılık bakımından dereceli bir artışı meydana gelir. Eklemler sertleşir ve kurur. Hareket ettirildiklerinde çatırdamaya ve çıtlamaya başlarlar, zira onları yağlayan ve yumuşatan eklem sıvısı miktar bakımından azalır ve onları, amaçlarını yerine getirmek için çok kalın ve yapışkan kılar. 
+
+Kalp, beyin ve tüm kas sistemi, omurilik, sinirler, gözler ve diğerleri de aynı yoğunlaşma sürecine katılırlar ve büyüyerek hep daha katı bir hale gelirler. Bir ağacın dalları gibi dallanıp budaklanan ve tüm vücuda yayılan milyonlarca küçük kılcal damar yavaş yavaş tıkanırlar ve kanın nüfuz edemediği katı doku lifleri haline gelirler. 
+
+Daha geniş kan damarları, hem atardamarlar ve hem de toplardamarlar sertleşirler, esnekliklerini yitirirler, içleri daha dar bir hale gelir ve gerekli miktardaki kanı taşıyamaz hale gelirler. Vücut sıvıları yoğunlaşır, çürür ve yersel madde ile dolar. Deri solar, buruşur ve kurur. Saç, yağ eksikliği sebebiyle dökülür. Diş çürür ve kıkırdak eksikliği sebebiyle dökülür. Motor sinirler, iyice kurumaya başlarlar ve bedenin hareketleri hantallaşır ve yavaşlar. Duyular güçten düşerler. Kan dolaşımı yavaşlar. Kan durgunlaşır ve damarlarda pıhtılaşır. Bedenin önceki gücü sürekli azalmaktadır. Önceleri esnek, sağlıklı, tetikte, uysal, aktif ve duyarlı olan beden, katı, yavaş ve duyarsız bir hale gelir. En sonunda da yaşlılıktan ölür. 
+
+Burada şu soru ortaya çıkar: Bedenin bu derece derece katılaşarak sertlik, gerileme ve en sonunda da ölümüne sebep olan nedir? 
+
+Sadece fiziksel bakış açısından bakarsak kimyacılar, sebebin asıl kaynağının kalsiyum fosfat (kemiğin maddesi), kalsiyum karbonat (bildiğimiz kireç) ve kalsiyum sülfat (alçı) ile bazen de bir miktar magnezyum oksit ile önemsiz miktardaki diğer yersel maddelerin artışı olduğu konusunda hemfikirdirler. 
+
+Yaşlılıktaki beden ile çocukluktaki beden arasındaki tek fark, yaşlılıktaki bedende daha çok yoğunluk, katılaşma ve sertleşme bulunmasıdır. Bu, çocukluktaki bedenin oluşumunda üretilen büyük miktardaki kireçli, yersel maddenin vücuda girmesinden kaynaklanır. Bir çocuğun kemiklerinin dörtte üçü kıkırdaktan ve dörtte biri yersel maddeden meydana gelir. Yaşlılıkta bu oran tam tersidir. Katı maddenin bu ölümcül birikiminin kaynağı nedir? 
+
+Şu kesindir ki, tüm beden kandan beslenir ve bedende varolan her şey, doğası ne olursa olsun ilk önce kanda bulunmak zorundadır. Kanın, katılaşmaya da yolaçan benzer türdeki yersel maddeleri de kendisiyle birlikte taşıdığını bir araştırma göstermiştir. Ve de temiz kanın ( atardamar kanı), kirli kandan (toplardamar kanı) daha fazla yersel madde içerdiği görülmüştür. 
+
+Bu, oldukça önemlidir ve her dolaşımda kanın yersel maddeleri vücuda bıraktığını gösterir. Bu yüzden organizmayı tıka basa dolduran, genel taşıyıcı olan kandır. Fakat onun yersel madde stoğu tekrar doldurulmak zorundadır, aksi takdirde bunu yapmaya devam edemezdi. Kan, bu ölümcül yükünü nereden bulur? Bu sorunun tek bir cevabı olabilir, bunun bundan başka bir cevabı kesinlikle yoktur. 
+
+Bu cevap, bedeni besleyen yiyecek ve içeceklerdir. Bunlar aynı zamanda, kan tarafından tüm sistemde depolanan ve çöküş ile en sonunda ölüme sebep olan kireçli maddenin ana kaynaklarıdır. Fizik yaşamı devam ettirebilmek için yemek ve içmek zorundayız. Ancak çok çeşit yiyecek ve içecek bulunduğundan, belirtilen gerçeklerin ışığında mümkün olduğunca besinlerin hangi çeşitlerinde bu yıkıcı maddenin en az oranlarda bulunduğunun tespit edilmesi gerekir. Böyle besinleri bulabilirsek ömrümüzü uzatabiliriz ve okült bakış açısından her yoğun bedende mümkün olan en uzun süre yaşamak arzu edilir, özellikle de kişi, yolda (inisiyasyon yolu) yürümeye başlamışsa. İçinde bulunulan herbir yoğun bedeni, çocukluk ve fırtınalı gençlik boyunca, en sonunda ruh, onun üzerinde kendi hâkimiyetini sağlayana kadar yetiştirmek çok uzun yıllar alır. Bu yüzden ruhun ilhamına göre hareket edebilen bir bedene ne kadar uzun süre sahip olabilirsek, o kadar iyidir. Bu sebeple öğrencinin, sertleştirici maddeyi en az oranda içeren ve aynı zamanda boşaltım organlarını faal tutan yiyecek ve içecekleri besin olarak alması oldukça önemlidir. 
+
+Cilt ve boşaltım sistemi, insanı erken bir mezardan kurtaran kurtarıcılardır. Onların faaliyetleri sayesinde bu yersel maddenin büyük çoğunluğu bedenimizden uzaklaştırılmasaydı, hiçbirimiz 10 yaşımıza erişemezdik. 
+
+Sıradan damıtılmamış kaynak suyunun içerdiği karbonat ve öteki kireç bileşenleri o kadar yüksektir ki, bir insan tarafından günlük çay, kahve, çorba vb. tarafından alınan ortalama miktarın 40 yılda iri bir adamın katı alçıdan veya mermerden heykelini yapacak kadar olduğu tahmin edilmektedir. Şu da önemli bir olgudur ki, kalsiyum fosfat yetişkinlerin idrarında bulunmasına karşın çocukların idrarında izine rastlanmamıştır. Çünkü çocuklarda hızlı kemik biçimlenmesi, bu tuzun vücutta tutulmasını gerektirir. Hamilelik evresi boyunca annenin idrarında çok az yersel madde bulunur, zira yersel maddeler, ceninin inşasında kullanılmaktadır. Bununla birlikte olağan koşullarda bir yetişkinin idrarında oldukça çok yersel madde mevcuttur. Bu sayede fizik yaşam, günümüzdeki uzunluğuna erişmektedir. 
+
+Damıtılmamış su, dahili olarak kullanıldığında insanın en kötü düşmanıdır, fakat harici olarak (ağızdan) kullanıldığında insanın en iyi dostu haline gelir. O, deri gözeneklerinin açık kalmasını sağlar, kan dolaşımını düzenler ve yersel ve ölümcül kalsiyum fosfat depolanması için en iyi fırsat olan durgunluğu önler. 
+
+Kan dolaşımını keşfeden Harvey, sağlığın, özgür kan dolaşımının ve hastalığın da engellenmiş bir kan dolaşımının işaretleri olduğunu söylemiştir. 
+
+Banyo küvetinin, bedenin sağlığını korumasına büyük katkısı vardır ve daha yüksek yaşamlara tâlip olanlar tarafından serbestçe kullanılmalıdır. Bilinçli ve bilinçsiz terleme, başka herhangi bir yoldan daha fazla yersel maddeyi vücuttan dışarı atar. İnsan, ateşi beslediği ve onu küllerini temizlediği sürece ateş yanacaktır. Külleri bedenden uzaklaştırmada böbrekler çok büyük öneme sahiptirler. Ancak idrar tarafından büyük miktarda yersel maddenin vücuttan uzaklaştırılmasına rağmen birçok durumda yine de mesanede, şiddetli acılara ve çoğu kez de ölüme yolaçan taş oluşmasına yetecek kadar madde kalır. 
+
+Kimse, suyun kaynatıldığında daha az kireç içerdiğine aldanmamalıdır. Çaydanlığın tabanında oluşan kireç, buharlaşmış su tarafından orada bırakılmıştır. Eğer buharı yoğunlaştırmış olsaydık, bedenin genç kalmasında önemli bir etken olan damıtılmış suya sahip olurduk. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Ne damıtılmış suda, ne yağmur suyunda ve ne de kar ve doluda (çatılardan toplananlar hariç) kesinlikle yersel madde yoktur. Fakat çeşme suyuyla yapılan kahve, çay veya çorba, ne kadar uzun kaynatılırsa kaynatılsın yersel maddelerden arınmış olmazlar. Tam tersine ne kadar uzun kaynatılırsa, o kadar çok külle yüklenmiş olacaktır. İdrarla ilgili rahatsızlığı olanların, kesinlikle damıtılmış sudan başka su içmemeleri gerekir. 
+
+Genel olarak söylenebilir ki, bedenimize aldığımız katı yiyeceklerden taze sebze ve olgun meyvelerin, en yüksek oranda besleyici madde ve en düşük oranda yersel madde içerdiği söylenebilir. 
+
+Herkes için değil, daha yüksek bir yaşama tâlip olanlar için yazdığımızdan, aynı zamanda denilebilir ki, mümkünse hayvansal yiyeceklerden tümüyle kaçınılmalıdır. Öldüren hiç kimse, kutsallık yolunda çok ilerilere gidemez. Hatta et yediğimizde, onu öldürenin yaptığından daha kötü bir eylem yapmış oluruz, zira kendimizi öldürme eylemi işlemekten koruyarak o eylemin meyvalarını yemekle bir hemcinsimizi, ekonomik zorunluluktan dolayı tüm zamanını öldürme eylemine vermeye zorlamış ve onun, bir dereceye kadar acımasız- laşmasına sebep oluruz. Öyle ki Amerikan yasaları, can almaya artık alışkın olduklarından dolayı bu kişilerin, idamla cezalandırılabilecek suçlarda jüri üyesi olarak görev yapmalarını yasaklamaktadır (1909). 
+
+Aydınlanmış kişi bilir ki, hayvanlar onun, kendisinden daha küçük kardeşleridirler ve Jüpiter Evresi’nde insan olacaklardır. Biz onlara, tıpkı Ay Evresi’nde bir zamanlar insan olan Meleklerin şimdi bize yardım ettikleri gibi yardım etmeliyiz. Yüksek ideallere tâlip olan bir kişi için öldürmek, şahsen veya vekâleten kesinlikle sözkonusu olamaz. 
+
+Hayvanlardan elde edilen süt, peynir ve tereyağı gibi çeşitli çok önemli besin ürünleri tüketilebilirler. Zira bu ürünler, yaşam süreçlerinin sonuçlarıdır ve onları besine çevirmek için, o hayvana bir trajedi yaşatmak gerekmez. Okült öğrenci için önemli bir besin olan süt, çok önemsiz bir miktarda yersel madde içerir ve vücut üzerinde, başka hiçbir besin maddesinin olmadığı kadar büyük bir etkiye sahiptir. 
+
+Ay Evresi boyunca insan, Doğa’nın sütüyle beslendi. Bu evrensel besin, onun tarafından alındı ve süt tüketimi onun, Kozmik güçlerle bağlantıya geçmesini ve başkalarına şifa vermesini sağladı. 
+
+Genelde şeker veya başka bir tatlandırıcı maddenin, özellikle dişlerin çürümesine ve diş ağrılarına sebep olduğu için sağlığa zararlı olduğu zannedilir. Bu, sadece belli koşullar altında doğrudur. Şeker, safra kesesi rahatsızlıkları ve diyabet (şeker hastalığı) gibi belirli hastalıklarda zararlıdır. O, insan bir şekerleme olarak ağızda uzun süre tuttuğunda zarar verir. Fakat onu sağlıklı bir insan ölçülü oranda yerse ve yediği miktarı, midesinin o miktara alışacağı şekilde yavaş yavaş arttırırsa, çok besleyicidir. Zencilerin sağlığı, şeker kamışının hasat zamanında ağır işe rağmen belirgin ölçüde düzelir. Bu, onların şeker kamışı suyuna olan düşkünlüklerine bağlanmaktadır. Aynı şey, bu bölgede yaşayan ve şeker kamışı atıklarını çok seven atlar, inekler ve diğer hayvanlar için de geçerlidir. Hayvanlar hasat zamanında şişmanlamakta ve tüyleri parlaklaşmaktadır. Birkaç hafta boyunca kaynatılmış havuçla beslenen atlar, havuçta bulunan sakarin sebebiyle ipek gibi tüylere sahip olmaktadırlar. Şeker, besleyici ve yararlı bir besindir ve herhangi bir kül içermez. 
+
+Meyveler ideal besinlerdir. Onlar aslında insanlar ve hayvanlar tarafından yenilmek üzere ağaçların geliştirdiği araçlardır. Böylelikle ağaçların tohumu uzaklara yayılmış olur. Benzer amaçla çiçekler de arıları kendilerine çekmektedirler. 
+
+Taze meyve, en iyi ve en saf türden suyu içerir. Bu su, organizmaya mükemmel bir şekilde nufüz etme yeteneğine sahiptir. Üzüm suyu özellikle olağanüstü bir çözücüdür. O, kanı inceltir ve kurumuş ve tıkanmış kılcal damar yollarını açar. Tabii eğer bu kuruma ve tıkanma süreci çok ilerlememişse. Fermente edilmemiş üzümsuyu tedavisi ile çökük gözlere, kırışık bir deriye ve kötü bir ten rengine sahip olan insanlar dolgun, al yanaklı ve canlı olmaktadırlar. Artan geçirgenlik rûhun kendisini daha serbest ifade etmesine ve yenilenmiş enerjiyle etkin olmasına imkân vermektedir. Son sütun hariç tüm verileri Amerikan Tarım Dairesi tarafından yayımlanan verilerden alınmış olan ve aşağıda yeralan tablo öğrenciye, çeşitli faaliyetler için ne kadar yemenin gerekli olduğu hakkında bir fikir verecektir. Tablo aynı zamanda belirtilen çeşitli yiyeceklerin bileşenlerini de göstermektedir. 
+
+Sırf fiziksel bakış açısından ele alırsak bedeni, yakıtı yiyecek olan kimyasal bir fırın gibi düşünebiliriz. Beden ne kadar çalıştırılıyorsa o kadar çok da yakıta ihtiyacı vardır. Beslenme biçimi kendisini yıllarca iyi beslemiş bir insanın, kendisi için en iyi beslenme biçiminin ne olduğuna dikkat etmeksizin eski beslenme biçimini bırakarak başka bir beslenme biçimi edinmesi aptalca olurdu. Sıklıkla et yiyen insanlar et yemekten men edilirlerse şüphesiz ki aralarından pek çoğunun sağlığına zarar gelir. Burada tek güvenli yol, denemeler yapmak, meseleyi önce temelden incelemek ve ayırdetme yeteneğini iyi kullanmaktır. Bu konuda hiçbir sabit kural yoktur ve beslenme biçimi, diğer bütün tipik özellikler gibi kişiden kişiye değişir. Yapılabilecek tek şey, besin değerleri tablosu vermek ve herbir kimyasal elementin genel etkisini anlatmaktır. Bu, tâlip olan kişinin kendi metodunu bulmasına yardım edecektir. 
+
+Bir insanın görünüşünün, onun sağlık durumu hakkındaki yargımızı etkilemesine izin de vermemeliyiz. Sağlıklı bir kişinin nasıl görünmesi gerektiğine dair kabul görmüş, belirli genel fikirler vardır, ancak bu şekilde bir yargıya varmak için geçerli bir sebep yoktur. Al yanaklar bir insanda sağlıklı oluşun işareti olabileceği gibi bir başka insanda hastalığa işaret edebilir. Bir insanın sağlık durumunu bilebileceğimiz genel kural yoktur. Görünüş değil, bireyin kendi hissettiği rahatlık ve mutluluk duygusu onun sağlıklı olduğuna işaret eder. 
+
+Burada verilen yiyecek tablosu, beş kimyasal bileşenle ilgilidir. Su, büyük çözücüdür. 
+
+Azot veya protein, etin ana inşa edicisidir, ancak bir miktar yersel madde içerir. 
+
+Karbonhidratlar veya şekerler de ana güç üreticileridirler. 
+
+Yağlar ısı üreticileridirler ve depolanan gücün saklayıcılarıdırlar. 
+
+Kül, mineraldir, yerseldir ve organizmayı tıkar. Kemik oluşumu için ondan yeterince vücudumuza alamamamız durumunda korkmamıza gerek yoktur. Tam tersine ondan vücudumuza olabildiğince az almamız konusunda hep dikkatli olmalıyız. 
+
+Kalori, basit ısı birimidir ve tablo, pazara getirilen herbir kalemin içerdiği kalori miktarını gösterir. Örneğin bir pound (yaklaşık 480 gr) Brezilya fındığında toplam ağırlığın %49,6’sı kabuktur ve işe yaramaz. Fakat kalan %50,4’lük kısım, 1485 kalori içerir. Bu, alınan şeyin yarısının atık olduğu, diğer yarısının da belirtilen kalori değerini içerdiği anlamına gelir. Yiyeceklerimizden en yüksek oranda fayda sağlayabilmek için onların içerdiği kalori miktarına dikkat etmeliyiz. Zira günlük işlerimizi yapabilmemiz için gerekli enerjiyi yiyeceklerden alırız. Bedenimizi ayakta tutmak için farklı koşullar altında gereken günlük kalori miktarı aşağıdaki tabloda günlük olarak verilmiştir: 
+
+Çok ağır kas işindeki erkek: 5500 Kalori 
+
+Orta derecede ağır kas işindeki erkek: 4150 Kalori 
+
+Orta derecedeki kas işindeki erkek: 3400 Kalori 
+
+Orta derecedeki hafif kas işindeki erkek: 3050 Kalori 
+
+Oturarak çalışan erkek: 2700 Kalori 
+
+Hiç kas faaliyeti olmayan erkek: 2450 Kalori 
+
+Hafiften orta dereceye kadar elle çalışan kadın: 2450 Kalori 
+
+Tabloya göre sahip olduğumuz en besleyici yiyeceğin çikolata olduğu ortaya çıkmaktadır. Aynı zamanda toz halindeki kakao da tüm yiyeceklerin içinde en tehlikelisidir, zira diğer ürünlerin pek çoğundan on kat ve bazılarından da üç kat daha fazla maden içerir. O, güçlü bir besin ve güçlü bir zehirdir. Zira sistemi, başka herhangi bir maddeden daha hızlı tıkar. 
+
+Elbette ki, bireysel olarak kişiye en uygun beslenmeyi seçmek başlangıçta biraz çalışma gerektirecektir. Ancak bunun karşılığı, yüksek şeylerin öğrenimine ve uygulanmasına imkân veren sağlık, uzun yaşam ve bedenin özgürce kullanımı olarak alınacaktır. Bir süre sonra talip kişi, ona özel bir dikkat vermeyecek kadar konuya aşina olacaktır. 
+
+Yukarıdaki tablo, her bir besinin kimyasal madde oranlarını göstermekte iken hatırlanmalıdır ki, her şey sistemde kullanım için uygun değildir. Zira beden, belli oranlardan fazla sindirim yapamaz. 
+
+Sebzelerde proteinin yalnızca yaklaşık %83’ünü, yağın %90’ını ve karbonhidratların da %95’ini sindiririz. 
+
+Meyvelerde ise proteinin yalnızca yaklaşık %85’ini, yağın %90’ını ve karbonhidratların da %90’ını sindiririz. 
+
+Beyin, kendisi aracılığıyla bedenin hareketlerinin kontrol edildiği ve fikirlerimizin ifade edildiği birleştirici bir mekanizmadır. O, diğer tüm beden kısımlarıyla aynı maddelerden yapılmıştır. Beyinde ayrıca beyinin kendisine özgü olarak fosfor bulunur. 
+
+Bunun mantıksal sonucu olarak da Ego, fosfor aracılığıyla düşünceyi ifade edebilir ve yoğun fizik bedeni etkileyebilir. Şu da bir gerçektir ki, bu maddenin oranı ve değişme miktarı, bireyin zeka durumu ve seviyesi ile orantılıdır. Ruhsal olarak zayıf insanların beyinlerinde çok az miktarda; akıllı düşünürlerde ise fazla miktarda fosfor vardır. Hayvanlar âleminde de zekâ ve bilinç derecesi, beyinde bulunan fosforla orantılıdır. 
+
+Bu yüzden, bedenini zihinsel ve ruhsal çalışmada kullanmak isteyen talip kişinin, bedeninin bu amaçlar için gerekli madde ihtiyacını karşılaması büyük önem taşır. Sebze ve meyvelerin pekçoğu belirli bir oranda fosfor içerir. Ancak fosforun daha büyük oranda genelde çöpe atılan yapraklarda bulunması garip bir gerçektir. Fosfor üzüm, soğan, adaçayı, fasulye, sarımsak ve ananasta, ayrıca bir çok sebzenin yaprakları ile dallarında önemli oranda bulunur. Ayrıca rafine şekerde değil ama şeker kamışı suyunda da vardır. 
+
+Aşağıdaki tablo, fosforik asidin bazı maddelerde bulunma oranını göstermektedir: 
+
+100.000 parçada bulunma sayısı 
+
+Kurutulmuş arpa: 210 parça 
+
+Fasulye: 292 parça 
+
+Şekerpancarı: 167 parça 
+
+Şekerpancarı yaprağı 690 parça 
+
+Karabuğday 170 parça 
+
+Kurutulmuş havuç 395 parça 
+
+Havuç yaprağı 963 parça 
+
+Ketentohumu 880 parça 
+
+Ketentohumu yaprağı 118 parça 
+
+Yabani havuç 111 parça 
+
+Yabani havuç yaprakları 1784 parça 
+
+Bezelye 190 parça 
+
+Yukarıda verilmiş olan kanıtların özü, kısaca şu şekilde ifade edilebilir: 
+
+Tüm yaşam evresi boyunca beden, kesintisiz bir yoğunlaşma süreci içinde bulunmaktadır. 
+
+Bu süreç, yersel maddelerin, özellikle de fosfat ve kalsiyum karbonatın kan tarafından bedende depolanmasıyla oluşur. Zira bu maddeler aracılığıyla vücudun çeşitli kısımları katılaşarak kemik vb. yapıları oluşturmaktadır. 
+
+Bu kemiğe dönüşme olayı, damarlar, kaslar ve bedendeki diğer hareketli parçaların esnekliğini yokeder. Kanı koyulaştırır, küçük kılcal damarları tamamen tıkar. Öyle ki sıvı dolaşımı ve organizmanın faaliyeti azalır. Bu sürecin sonu da ölümdür. 
+
+Bu katılaşma süreci yavaşlatılabilir ve yaşam süresi, çok fazla kül içeren besin maddelerinden özenle kaçınılmasıyla, yeme ve içme için damıtılmış su kullanılmasıyla ve deri yoluyla terlemelerde sık sık banyo yapılmasıyla uzatılabilir. 
+
+Bazı dinlerin neden tekrarlanan yıkanmaları dinsel faaliyet olarak emrettikleri buradan anlaşılmaktadır. Zira bu yıkanmalar yoğun bedeni temizlemekte ve sağlıklı olmaya katkıda bulunmaktadırlar. Oruç da aynı amaçla emredilmiştir. O, mide için gerekli dinlenmeyi ona bir süreliğine sağlar, atık maddeleri atması için bedene imkân tanır ve böylelikle çok sık ve çok uzun olmadığı sürece kişiyi sağlıklı kılar. Ancak genel olarak vücuda, en iyi ilaç olan uygun besin verildiğinde de bütün bunlara erişilebilir. 
+
+Doktor her şeyden önce doğanın, bedeni besinle alınan zehirlerden kurtarmak için temel yöntemi olan boşaltımın düzgün olup olmadığına bakar. 
+
+Sonuç olarak talip kişi, sindirimi kolay besinler seçmelidir. Zira besindeki enerji ne kadar kolay çıkarılırsa yeniden bedene besin vermek gerekmeden önce organizmanın onu vücudun yapımında kullanma süresi de o kadar uzun olacaktır. Süt hiçbir zaman bir bardak su içer gibi içilmemelidir. Zira böyle yapıldığında midede büyük bir peynir oluşturur ve de mide asitlerinin faaliyetini engeller. Süt, tıpkı çay ve kahve gibi yudum yudum içilmelidir. Ancak o zaman midede çok sayıda kolayca sindirilebilen küçük küreler halinde bulunur. Uygun kullanıldığında süt, en iyi besinlerden biridir. Turunçgiller de güçlü antiseptiklerdir ve tahıllar, özellikle de pirinç, çok etkili antitoksindir. 
+
+Beden için neyin gerekli olduğunu yalnız maddi bakış açısından inceledikten sonra, aynı konuyu okült taraftan da inceleyelim ve yoğun bedenimizi tamamen içine almış olan iki görünmez bedenimizin etkilerini ele alalım. 
+
+Arzu bedenin özel kalesi, daha önce de belirtildiği gibi kaslarda ve serebrospinal (beyin- omurilik) sinir sistemindedir. Büyük bir heyecan veya öfke içinde olan bir insan tarafından ortaya çıkarılan enerji, bunun kanıtıdır. Bu durumlarda tüm kas sistemi gerilmiştir. Hiçbir ağır işte kaslar, “öfkeye kapılmaya uygun” durumdaki kadar gergin değildir. O, bazen bedeni haftalarca güçsüz bırakır. Bu da, öfke kontrolüyle arzu bedenin daha iyi bir hale getirilebileceğinin kanıtıdır. Böylece arzu bedenin kontrolsüz hareketlerinden doğacak olan dertlerden yoğun bedeni korumamızı sağlar. 
+
+Meseleyi okült bakış açısından ele alırsak görürüz ki, Fizik Âlemdeki tüm bilinç, arzu beden ve yaşam beden arasındaki sürekli bir savaşın sonucudur. 
+
+Yaşam bedenin amacı, rahatlatmak ve inşa etmektir. Onun kendisini ifade etmedeki ana araçları kan, bezeler ve kalbi istençli bir kasa çevirmeye başladığında arzu bedenin kalesine (kas ve istençli sinir sistemlerine) giriş elde eden sempatik sinir sistemidir. 
+
+Arzu bedenin amacı ise germektir. O da yaşam bedenin bölgesine istila etmiş ve dalağa sahip olmuştur. Bu sayede de akyuvarları yapmıştır. Akyuvarlar, bilimin bugün (1909) kabul ettiği gibi “organizmanın koruyucu polisleri” değil, aksine onun yokedicileridirler. Arzu beden, bu çok küçük yokedicilerin tüm bedene yayılması için kanı kullanır. Kızgınlık hissedildiğinde ve özellikle de büyük öfke anlarında onlar, atardamarların ve toplardamarların duvarlarından geçerler. Sonra da arzu bedenin güçleri saldırarak damarları şişirirler ve bedenin dokularına akyuvarların girmesi için yolu açarlar. Burada onlar, bedeni öldüren yersel madde için bölgeler oluştururlar. 
+
+Aynı miktarda ve aynı çeşit besinle beslenen insanlardan sakin ve neşeli olanlar daha uzun yaşayacaklar, daha sağlıklı olmanın keyfini sürecekler ve acı çeken ve kendini kaybeden insanlardan daha aktif olacaklardır. Bu sonuncular, öncekilerden daha fazla sayıda yokedici akyuvar yapacaklar ve vücutlarına daha fazla yayacaklardır. Bir bilimadamı her iki insanın bedenlerini incelemiş olsaydı, iyi huylu kişinin bedeninde, kötü huylununkine göre çok daha az yersel madde bulacaktı. 
+
+Bu yokediş sürekli devam eder ve tüm yokedicileri bertaraf etmek mümkün değildir. Böyle bir şey de amaçlanmamıştır. Eğer yaşam beden sürekli hakimiyete sahip olsaydı, sürekli bedeni inşa eder ve tüm enerjisini bu amaç için kullanırdı. Hiçbir bilinç ve düşünce de olmazdı. Arzu beden iç kısmı kontrol ettiği ve sertleştirdiği için bilinç gelişebilmektedir. 
+
+Çok çok eski geçmişteki bir zamanda araçlarımız maddeleşmeye başladığında ve beden henüz tıpkı yumuşakçalar gibi yumuşak, esnek ve kemiksizdi. Fakat o zamanda da tıpkı şimdiki yumuşakçaların sahip olduğu gibi sadece donuk ve sönük bilince sahiptik. Biz gelişmeden önce bedenimizde katı kısımlara sahip olmamız gerekli oldu. Herhangi bir varlığın bilinç aşamasının, o varlığın içindeki kemik sistemiyle orantılı olduğu bir gün bulunacaktır. Ego, yarı akışkan kırmızı ilikli katı kemiklere sahip olmalıdır ki kendisini ifade etmek için kırmızı kan yuvarlarını oluşturabilsin. 
+
+Bu, yoğun bedenin en yüksek gelişimidir. Bu bağlamda hayvanların en yüksek sınıfa ait olanlarının benzer bir içsel kemik sisteminin olması, ancak içlerinde oturan bir rûhun bulunmaması hiçbir anlam ifade etmez. Onlar, başka bir yaşam dalgasına aittirler. 
+
+#### <h4 id="the-law-of-assimilation">Sindirim Yasası</h4>
+
+Sindirim yasası, herhangi bir maddenin biz ona ruh olarak galip gelip kendimize tabi kılmadan bedenimizin bir parçası olmasına izin vermez. Bu alanda faaliyet gösteren güçler, hatırlayacağımız gibi aslında, “cennete” gitmiş olan ve orada Dünya’daki kullanım için bedenler inşa etmeyi öğrenen “ölülerimizdir”. Ancak onlar, kaçınamayacakları belirli yasalara göre çalışırlar. Bedenimize aldığımız her besin parçasında yaşam vardır. Bu yaşamı sindirim süreciyle bedenimizin bir parçası kılmadan önce onu yenmeli ve kendimize tabi kılmalıyız. Aksi takdirde bedende uyum olmazdı. Her parça, tıpkı onları bağlayıcı yaşam geri çekildiğinde yaptığı gibi birbirinden bağımsız hareket ederdi. O zaman bu, bizim çürüme olarak adlandırdığımız ve sindirimin tam karşıtı olan bozunum süreci olurdu. Sindirilen parçacık ne kadar bireyselleşmiş ise onu sindirmek için o kadar fazla enerji gerekecek ve organizmaya kendisini toplaması için o kadar az zaman kalacaktır. 
+
+İnsan varlığı katı madenlerden yaşayabilecek şekilde düzenlenmemiştir. Tuz gibi saf madensel bir madde yenildiğinde bedenden geçip gider ve bedende çok az kalıntı bırakır. Yine de geride kalan bu kalıntı çok zararlı bir karaktere sahiptir. İnsan için sadece madenlerden beslenmek mümkün olsaydı bu bizim için, madenlerin sabitliği ve onları yenmek ve bedenin yaşamına tabi kılmak için gereken düşük enerji sebebiyle ideal bir durum olurdu. Biz de şimdikinden çok daha seyrek ve çok daha az yeme durumunda olurduk. Laboratuvarlarımız bir gün bizi, şu anda sahip olduğumuz yiyeceklerden daha üstün ve daha taze kimyasal bir besinle besleyecektir. Yüksek bitkilerden ve onlardan daha yüksek hayvan krallığından edindiğimiz besinler, çürümelerinin hızlı olmasından dolayı mide bulandırıcıdırlar. Bu çürümeye, bileşik bütünden kaçan bireysel parçacıklar sebep olurlar. 
+
+Bitki krallığı, madenlerin hemen üstünde yer alan krallıktır. O, Yerin madensel kısmını sindirebilen bir organizasyona sahiptir. İnsanlar ve hayvanlar, bitkileri sindirebilirler. Böylece kendi bedenlerini ayakta tutmak için gerekli kimyasal bileşimleri almış olurlar. Bitkilerin bilinç seviyesi, rüyasız uyku bilinci olduğu için herhangi bir direnç göstermezler. Bu parçaları sindirmek için çok az bir enerjiye ihtiyaç vardır ve çok az bir bireyselliğe sahip olduklarından onlara ruh veren yaşam, yüksek gelişime sahip formlardan edinilen yiyeceklerde olduğu gibi bedenimizden hemen kaçmaya çalışmaz. O yüzden bir meyve ve sebze beslenmesinden alınan güç, bir et beslenmesinden alınan güçten çok daha kalıcıdır. Bitkisel beslenme, diğer beslenme türlerinden göreceli olarak daha fazla enerji verir, çünkü sindiriminde daha az enerjiye ihtiyaç duyar. 
+
+Hayvan bedenlerinden oluşan yiyecekler, bir bireysel arzu bedenin üzerinde çalıştığı ve nüfuz ettiği parçacıklar içerirler. Bu yüzden bu parçacıklar, bitki parçacıklarından çok daha yüksek bir dereceye kadar bireyselleşmişlerdir. Hayvanın tutku ve arzularının nüfuz ettiği bir bireysel hücre ruhu vardır. Ve de onu asimile edebilecek derecede yenebilmek için ilk anda önemli bir enerji gerekir. Yine de o hiçbir zaman, güçlü bireysel eğilimlere sahip olmayan bitki hücreleri gibi bedenin hücre devletine tamamen dahil olamaz. Bunun sonucu olarak etle beslenen kişi, vejetaryen kişiye göre daha çok ve daha sık yemek zorundadır. Üstelik et parçalarının çıkardığı iç savaş, genelde bedende büyük huzursuzluğa yolaçar. Böylece et yiyen kişi daha pasif olur ve dayanıklılığı da vejetaryen kişiden daha azdır. Her iki yolun taraftarları arasındaki tüm tartışmalarda bu ispatlanmıştır. 
+
+Otobur hayvanların eti, besin olarak görece kısa süreli olsa da, hücreleri daha da bireyselleşmiş etobur hayvanların etini yediğimizde onu çok miktarda tüketmek zorunda kalırdık. Yemek, zamanımızın en büyük kısmını alırdı ve buna rağmen hep zayıf ve aç olurduk. Zayıflıkları ve açlıklarıyla bilinen kurt ve akbaba bunun ispatıdırlar. Yamyamlar insan eti yer (1909), fakat bunu uzun aralıklarla ve zevk olarak yaparlar. Yamyamlar, açlıkları ile bilinmelerine karşın, hep sadece et yemediği için insanın eti, etobur bir hayvanın eti gibi değildir. 
+
+Eğer otoburun etinde, bitkilerde iyi olanın özü bulunmuş olsaydı, mantıken etoburun etinin tüm besinlerin en iyisi olması gerekirdi. Kurt ve akbaba eti böylece en âlâ yiyecek olurdu. Ancak biliyoruz ki durum bunun tam tersidir. Ne kadar çok bitki krallığından beslenirsek besinden o kadar fazla enerji alabiliriz. Eğer tersi olsaydı etobur hayvanların eti, çok aranan bir et olurdu. Fakat doğada çok nadir olarak “köpek köpeği yer”. 
+
+#### <h4 id="live-and-let-live">Yaşamak ve Yaşatmak</h4>
+
+Okült ilmin ilk yasası, “öldürmemelisin”dir ve bu yasa yüksek yaşam talipleri için en büyük öneme sahip olmalıdır. Biz bir toz parçacığını bile yaratamayız. Peki nasıl olur da en küçük bir formu bile yoketme hakkımız olabilir? Bütün Formlar, Bir Olan Yaşamın, yani Tanrı’nın Yaşamının bir ifadesidirler. Bizim, Yaşamın, onun aracılığıyla deneyimler topladığı bir Formu yoketmeye ve Yaşamı, kendisini yeni araç yapmaya zorlamaya hakkımız yoktur. 
+
+Ella Wheeler Wilcox, bu okült ilkeyi bütün çok ileri ruhların merhametiyle şu güzel sözleri söyleyerek savunmaktadır: 
+
+    Ben sessizliğin sesiyim   
+    Benden konuşsun dilsiz   
+    Sağır Dünya’nın kulağına   
+    Duyuncaya ve   
+    Tarifsiz acıları kavrayıncaya kadar   
+    Aynı güç serçeyi biçimlendirdi   
+    O şekillendiren adam, kral   
+    Bir ruh kıvılcımı verdi   
+    Her şeyin Tanrısı   
+    Hayvana ve havadaki kuşa   
+    Ve ben kardeşimin koruyucusuyum   
+    Ve onun savaşını vereceğim   
+    Dünya’ya bunu bağıracağım   
+    Ve onu hiç rahat bırakmayacağım   
+    Dünya şeyleri doğru yapana kadar   
+
+Bazen, sebze ve meyve yenilince de yaşamın yokedildiği iddia edilir. Bu ifade gerçeklerin tamamen yanlış anlaşılmasına dayanmaktadır. Meyve olgunlaştığında tohuma rahim olma görevini yerine getirmiş olur. Eğer yenilmezse çürüyecek ve boşa gidecektir. Hatta meyve, hayvan ve insan krallıklarına yemek olarak hizmet vermek için tasarlanmıştır; böylelikle o, tohumunun saçılarak verimli topraklarda büyüme fırsatına sahip olmasını sağlar. Ayrıca o, tıpkı yeniden bedenlenen Ego’nun tohum atomuna ve Ego’nun yaşam bedenin rahmine sahip olmayan insan yumurtası ve spermi gibi kendiliğinden yaşamdan yoksundur. Fakat ona küvöz veya toprağın uygun koşulları sağlanırsa grup rûhunun yaşamı onun içine akacak ve kendisine verilen yoğun bir beden yapma fırsatını kaçırmayacaktır. Eğer yumurta veya tohum pişirilir, kırılır veya yaşam için gerekli koşullar kendisine verilmezse fırsat kaçırılmıştır. Ancak hepsi budur. 
+
+Evrim yolculuğumuzun şimdiki aşamasında her insan doğuştan bilmektedir ki, öldürmek kötüdür. İnsan hayvanları, açgözlülüğü ve bencilce çıkarlarının kendisini onların haklarına körleştir- mediği her durumda sever ve korur. Yasa bir kedi veya bir köpeği bile vahşi zulüm karşısında korumaktadır. Hayvanlara karşı zulümlerimizin en vahşisi olan “spor” haricindeki hayvan zulümlerinde onların öldürülmeleri veya öldürmeye zorlanmaları sadece para içindir. “Spora” düşkün olanlar, çaresiz hayvanları yalnızca avcının yiğitliğine ilişkin yanlış bir fikre sahip olmaları sebebiyle vurmaktadırlar. Normalde akıllı ve iyi görünen insanların bir süreliğine diğer tüm iyi içgüdülerini unutarak nasıl kana susamış vahşiliğe döndüklerini ve sadece kan dökme zevki ve yoketme sevinciyle öldürdüklerini anlamak zordur. Bunun, en aşağı hayvansal içgüdülere dönüş olduğu ve güçlü bir ulusun normalde insancıl ve saygıdeğer lideri tarafından yapılsa bile hiçbir şekilde “erkekçe” olan bir şeyle en uzaktan bile karşılaştırılamayacağı kesindir. 
+
+İnsana, zayıfın arkadaşı ve koruyucusu olma giysisinden daha güzel ne yakışırdı? New York şehrindeki Central Park’ı, orada bulunan ve kimsenin kendilerine saldırmayacağını bilmenin güveni içinde oradan oraya koşuşan yüzlerce sincabı sevmek, okşamak ve beslemek için kim ziyaret etmek istemez? Ve sincaplar için asılmış şu levhaya kim memnun olmaz: “Sincapları avlayan köpekler vurulacaktır”. Bu, köpeklere karşı sert bir uygulamadır, ancak zayıfların korunması gerektiği duygusunun büyüdüğünün bir kanıtıdır. Levhada sincapların insanlardan zarar görme olasılığına değinilmemiştir, çünkü böyle bir şey onlar için düşünülemez bile. Küçük hayvanların, kimsenin kendisine zarar vermeyeceğine dair insan türüne olan güveninin etkisi bu kadar kuvvetlidir. 
+
+#### <h4 id="the-lords-prayer">Efendi’nin Duası</h4>
+
+İnsani ilerlemeye olan ruhsal yardım incelememize dönersek, Efendi’nin Duası, insanın tüm araçlarının yükseltilmesi ve arındırılması için soyut ve cebirsel bir formül olarak düşünülebilir. Bu duada yoğun bedenin ihtiyaçları için şu kelimeler söylenmektedir: “Bize bugün günlük ekmeğimizi ver!” 
+
+Yaşam bedenin ihtiyaçlarıyla ilgili olarak ise şöyle denilmektedir: “Bize karşı suç işleyenlerin suçlarını bağışladığımız gibi bizim suçlarımızı bağışla!” 
+
+Yaşam beden, hafızanın bulunduğu yerdir. Onda yaşamımızın iyi veya kötü tüm geçmiş olaylarının bilinçaltı kayıtları depolanır. Bize yapılmış tüm kötülükler, tüm iyilikler ve bizim yaptığımız ve bize yapılan tüm iyilikler burada yeralır. Hatırlayalım ki, yaşam kaydı resimlerden oluşur ve bu resimler, ölüm esnasında yoğun bedeni terk ederken belirttiğimiz kayıtlardan alınır. Ölümden sonraki varoluşta yaşanan tüm acılar, bu resimlerin bize gösterdiği olayların sonuçlarıdır. 
+
+Eğer sürekli dua ederek başkalarına yaptığımız haksızlık bağışlandığında, yaptığımız haksızlığı olabildiğince telafi etmeye çalıştığımızda, bize haksızlık edenleri bağışlayarak yaşam bedenimizi arındırdığımızda ve tüm kötü duygulardan kurtulduğumuzda, ölümden sonraki büyük sefaletten kendimizi kurtarmış oluruz. Ayrıca da kendimizi kısmen yaşam bedenin arzu beden üzerindeki zaferine bağlı olan Evrensel Kardeşlik için hazırlamış oluruz. Hafıza formunda arzu beden, yaşam bedene intikam düşüncelerini sokar. Günlük yaşamın çeşitli sıkıntıları ortasında kişinin soğukkanlılığını muhafaza etmesi onun böyle bir zafere ulaştığını gösterir. Bu yüzden talip kişi, her iki araçla çalıştığından kendi tabiatını kontrol etmeyi öğrenmelidir. Efendi’nin Duası aynı zamanda bunu da içerir. Başkalarını incittiğimizi gördüğümüzde etrafımıza bakar ve bunun nedenini görmeye çalışırız. Kendi kontrolünü kaybetmek bu nedenlerden biridir ve o, arzu bedende başlar. 
+
+İnsanların büyük çoğunluğu yoğun bedeni, onun içine girdikleri huylarıyla terk ederler. Fakat talip kişi, arzu bedenin hakimiyeti ele geçirmek için yaptığı tüm girişimleri sistematik olarak yenmelidir. Bu ise ancak yüksek ideallere yoğunlaşmakla yapılabilir. Bu yoğunlaşma yaşam bedeni güçlendirir ve kilisenin sıradan dualarından çok daha etkilidir. Okült bilge, konsantrasyonu duaya tercih eder. Zira konsantrasyon ancak soğuk ve duygusuz zihnin yardımıyla gerçekleştirilebilir. Halbuki dua, duygu tarafından belirlenir. Ancak kendini saf ve bencilce olmayan bir şekilde yüksek ideallere adama tarafından yönlendirildiğinde dua, soğuk konsantrasyondan çok daha üstündür. Dua hiçbir zaman soğuk olamaz, zira o, mistik kişinin gönlünden taşar ve Sevgi’nin kanatları onu Tanrı’ya kadar taşır. 
+
+Arzu bedenin duası şudur: “Bizi yoldan saptırma!” Arzu insanoğlunun büyük ayartıcısıdır. O, bütün eylemlerin büyük dürtüsüdür ve eylemler, ruhun amaçlarına hizmet ettiği sürece iyidir de. Fakat arzu, doğayı yozlaştıran alçaltıcı bir şey içinse, o zaman bizim saptırılmamamız için ettiğimiz bu dua gerçekten yerindedir. 
+
+Sevgi, Varlık, Güç ve Şöhret! Bunlar insan eyleminin dört büyük dürtüleridir. Bunlardan birine veya birkaçına olan istek, insanın yaptığı veya yapılmamış bıraktığı her şeyin temel dürtüsüdür. İnsanlığın büyük Liderleri onları bize bilgece dürtüler olarak vermişlerdir ki, insan onlarla öğrensin ve deneyim kazanabilsin. Onlar gereklidirler ve talip kişi onları eylem dürtüleri olarak emniyetle kullanmaya devam edebilir, fakat onları daha yüksek bir şeye dönüştürmelidir. Kişi, başka bir bedene sahip olmayı arayan bencilce sevgiyi ve aynı şekilde sınırlı ve kişisel nedenlerden kaynaklanan tüm varlık, güç ve şöhret arzularını daha soylu isteklerle yenmelidir. 
+
+Onun hasretini çekmesi gereken sevgi, yalnızca rûhun sevgisi olmalıdır. Ve bu sevgi, yüksek ya da alçak bütün varlıkları kuşatmalı ve sevgiyi alan varlığın gereksinimi oranında artmalıdır. 
+
+İnsanın hemcinslerine hizmet etme fırsatlarının çok olması zenginliktir. 
+
+Güç, tüm insanlığın yükseltilmesine çabalamaktır. 
+
+Şöhret ancak bize, acı çekenlerin kalplerindeki acılara çabucak teselli bulabileceklerine dair iyi haberler yayabilmemizde yardımcı olan bir şeydir. 
+
+Zihnin duası şöyledir: “Bizi kötülükten kurtar!” Zihnin insanın yüksek ve alçak doğası arasındaki bağlantı olduğunu söyledik. Hayvanlara, herhangi bir kısıtlama olmaksızın arzularını takip etme izni verilmiştir. Onlar için iyi ve kötü yoktur, zira bir zihne, ayırt etme yeteneğine sahip değillerdir. Öldüren ve çalan hayvanlarla ilgili kendimizi koruma yöntemi, aynı şeyleri yapan insanlarla ilgili olarak kullandığımızkinden farklıdır. Hatta zihinden yoksun bir insan varlığı bile yaptıklarından sorumlu tutulamaz. Onun, yaptığı yanlışın farkında olmadığı gerçeği kabul edilir ve de sadece bunları yapması engellenmeye çalışılır. 
+
+Ancak ruhsal gözleri açıldıktan ve iyi ve kötünün bilgisini elde ettikten sonra insan, yaptıklarından sorumlu olur. Zihin bağı kişinin Yüksek Benliği ile bağlandıktan ve onun emirlerini yerine getirdikten sonra karşımıza yüksek ahlaklı bir kişi çıkar. Bunun tersi olarak da zihnin düşük arzu doğasıyla birleşmesi de kötü düşünceli kişiyi yaratır. Bu yüzden, zihnin arzu beden ve arzu bedenle ilişkili her şeyden kaynaklanan deneyimlerden kurtarılmamız için dua ederiz. 
+
+Daha yüksek bir yaşamın tâlibi, yüksek ve düşük doğaların birliğini, yüksek konular üzerinde Meditasyon yaparak gerçekleştirir. Bu bağlantı, derin düşünme (tefekkür) ile daha da pekişir. Belirttiğimiz iki durumu, Rûhu tek başına Tahta yücelten Tapınma ile aşarız. 
+
+Kilisenin genel kullanımı için verilen “Efendi’nin Duası”, düşük araçların gereksinimlerini ifade eden bir duayı sunmak için gerekli olan ruhsal yükselişe erişebilmede, tapınmayı birinci sıraya koyar. Üçüz rûhun birinciden başlayarak herbir görünümü tapınmada, kendisine karşılık gelen Tanrı görünümüne çıkar. Üçüz rûhun her üç görünümü de Rahmet Tahtı’nın önünde dizildiklerinde herbiri, kendi maddi sûretlerinin gereksinimlerine uygun duaları bildirirler ve zihin için kapanış duasında birleşirler. 
+
+İnsan rûhu kendi kopyasına, Kutsal Rûh’a (Yehova) çıkar ve şöyle der: “İsmin kutsanmış olsun”. 
+
+Yaşam rûhu kendi kopyası olan Oğul (Mesih) önünde, “senin krallığın gelsin” diyerek eğilir. 
+
+Tanrısal rûh, kendi kopyası olan Baba önünde eğilir: “Senin iraden gerçekleşsin”. 
+
+Sonra en yüksek olan Tanrısal Rûh, Tanrı’nın en yüksek görünümü Baba’ya, kendi sûreti olan yoğun beden için yalvarır: “Bize günlük ekmeğimizi ver.” 
+
+Ondan sonraki en yüksek olan yaşam rûhu, kendi kopyası Oğul’a, düşük doğadaki sûreti için yalvarır: “Bize karşı işlenmiş olan günahları affettiğimiz gibi sen de bizim günahlarımızı affet.” 
+
+Sonra da rûhun en düşük görünümü olan insan rûhu, Tanrı’nın en düşük görünümüne üçüz bedenden en yüksekteki olan arzu beden için yalvarır: “Bizi yoldan saptırma.” 
+
+Son olarak insandaki üçüz rûhun üçüz görünümlerinin tümü, duaların en önemlisi olan zihin duasını söylerler: “Bizi kötülükten kurtar.” 
+
+“Babamız, Sen cennettesin” girişi, yalnızca zarftaki bir adrese benzer. Kapanış olan, “Çünkü Senindir Krallık ve Güç ve Görkem sonsuza kadar, amin” kısmı Mesih tarafından verilmemiştir, fakat üçüz rûhun kapanış duası için çok uygundur. Zira Tanrı’ya doğrudan seslenme ile sona ermektedir. 
+
+Şekil 16, yukarıda söylemiş olduklarımızı basit ve kolayca hatırlanabilecek şekilde göstermektedir ve farklı dualarla onlara karşılık gelen araçlar arasındaki bağlantıyı, herbir dua ile ona karşılık gelen aracı aynı renklerle gösterek belirtmektedir. 
+
+#### <h4 id="the-vow-of-celibacy">Evlenmeme Yemini</h4>
+
+Okültistlerin, seks gücünün bir yarısının beyni inşa ettiğini ifade eden iddialarının doğruluğunun bir kanıtı da seks sapığı veya seks manyağıdır. Bu kişi bir ahmak olur ve düşünmek ona zor gelir. İnsanda, normalde üreme ve nesli devam ettirme amacıyla cinsel organlar aracılığıyla kullanılan ve cinsiyete göre negatif (alıcı) veya pozitif (verici) olan bir cinsel güç bulunur. Belirttiğimiz kişinin ahmak olmasına ve düşünememesine, sadece cinsel gücü harcaması değil, ayrıca buna ek olarak beyni inşa etmesi gereken ve beynin düşünce üretmesine imkân veren gücün bir kısmını da harcaması sebep olur. Bundan da zekâ geriliği meydana gelir. 
+
+Öte yandan kendisini ruhsal çalışmaya adayan kişi de, cinsel gücü üreme için kullanmak istemez. Çünkü bu kişi, ancak böylelikle cinsel gücün kendisinde bulunan ve kullanmadığı yarısını ruhsal güce dönüştürebilir. 
+
+İşte bu, gelişimin belirli bir aşamasında bulunan inisiye kişinin, evlenmeme yemini etmesinin sebebidir. Bu kolay bir yemin değildir ve de ruhsal gelişime istekli her kişinin kolaylıkla yapabileceği bir şey de değildir. Yüksek yaşam için henüz olgunlaşmamış birçok kişi, cahilce kendisini cinsel perhizi uyguladıkları bir yaşama bağlamıştır. Bir taraftan geri zekâlı seks manyakları topluma ve kendilerine ne kadar tehlikeli ise bunlar da diğer taraftan o kadar tehlikelidirler. 
+
+İnsan evriminin şimdiki aşamasında cinsellik fonksiyonu, kendisiyle rûhların deneyim kazanabildiği bedenlerin sağlandığı bir araçtır. En doğurgan ve yaratıcı içgüdüyü sınırsızca takip edenler, en alt tabakadırlar. Bu yüzden bedenlenme amacıyla inen rûhlar için yeteneklerini, kendilerine ve diğer insanlara sürekli olarak faydalı olacak şekilde ortaya çıkarabilmelerine izin veren bir çevrede iyi araçlar bulmak zordur. Çocuklarına daha iyi koşullar sunabilecek olan varlıklıların büyük çoğunluğu da ya çok az çocuğa sahiptir, ya da hiç çocuğu yoktur. Bu, onların cinsel perhiz uygulamalarından değil, tamamen bencilce nedenlerden kaynaklanmaktadır. Bu kişiler çocuk istememektedirler, çünkü çok daha rahat ve serbest bir biçimde ve bir aile yükü olmadan sınırsızca cinsel zevklerini yaşamaktadırlar. Daha az varlıklı orta sınıf arasında da ailelerin sayıca büyümesi sınırlıdır, fakat bu sınırlılık ekonomik gerekçelerden kaynaklanır. Onlar bir ya da iki çocuğa eğitim ve diğer avantajları sunabilirler. Zenginlikleri dört veya beş çocuğa yetmez. 
+
+Böylece insan, tanrısal ayrıcalığını kullanır ve doğaya karmaşa getirir. Yaşama adım atan Ego, bazen kendisine sunulan en elverişsiz şartlar altındaki fırsatı kullanmak zorundadır. Bunu yapamayan diğer Egolar, elverişli çevreler oluşana kadar beklemek zorundadırlar. Böylece eylemlerimizle birbirimizi etkileriz ve sonuçta babaların günahları oğullarından çıkar. Zira Kutsal Rûh, doğadaki yaratıcı enerjidir ve cinsel enerji, onun insandaki yansımasıdır ve onun yanlış veya kötü kullanılması, affedilmeyecek günahtır. O, bize yaratıcı gücün kutsallığını tamamen öğretene kadar araçların faaliyetini bozarak intikam alır. 
+
+Yüksek yaşama tâlip olanlar, soylu bir ruhsal hayat yaşamak için kararlı bir arzuyla doludurlar ve cinsel fonksiyona korkuyla bakarlar. Zira tüm bu sefâlet, insanlığın onu kötüye kullanmasının ürünüdür. Onlar, tiksintiyle pis olarak gördükleri şeyden yüz çeviremezler ve kesinlikle onlar gibi olan insanların (araçlarını, uygun ve sağlıklı yiyeceklerle, yüksek ve iyi düşüncelerle ve saf ve ruhsal yaşamlarla iyi bir duruma getirmiş kimseler) enkarnasyon (bedenlenme) arayan varlıkların gelişimi için gerekli yoğun bedenleri üretmeye en uygun kişiler oldukları gerçeğini gözden kaçırırlar. Okült bilginler arasında bilinen bir gerçektir ki, bir ırkın çöküşünde, sırf kendileri için gerekli fizik araçları kendilerine sağlayabilecek derecede arınmış ebeveynler bulamadıkları için birçok yüksek sınıftan Ego’nun enkarnasyondan (bedenlenmeden) uzak durmalarının büyük payı vardır. 
+
+Yukarıda belirtilen sebepten dolayı insanlığa olan görevlerini yerine getirmekten kaçınan insanlar güneş lekesini o kadar büyütmektedirler ki, Güneş’in kendisini unutmaktadırlar. Cinsel faaliyetin Dünyâ’nın idaresinde büyük yeri vardır. Uygun kullanıldığında Ego için bundan büyük nimet yoktur. Zira o, bu sayede insanlığın, gelişimi için ihtiyaç duyduğu temiz ve sağlıklı bedenlerin karşılanmasını sağlar. Ancak kötüye kullanıldığında da ondan daha büyük lânet yoktur. Zira o, bedenin miras bıraktığı en büyük kötülük kaynağıdır. 
+
+“Hiçbir insanın kendisi için yaşamadığı” bir gerçektir. Sözlerimizle ve eylemlerimizle sürekli olarak diğerlerini etkileriz. Göre- vimizi uygun bir şekilde yerine getirerek veya ihmal ederek yaşamı yokederiz veya destekleriz. Bu yaşam, öncelikle çevremizdekilerin, sonra bütün Dünya sâkinlerinin ve hatta daha fazlasının yaşamıdır. Ailesine, ülkesine ve insanlığa karşı görevini yerine getirmeyen hiçbir insanın yüksek yaşamı aramaya hakkı yoktur. Kişinin bencilce başka her şeyi bir kenara bırakması ve sadece kendi ruhsal ilerlemesi için yaşaması, ruhsal yaşamla hiç ilgilenmeyen kişinin davranışı kadar kınanması gereken bir davranıştır. Hayır, hatta daha da kötüdür. Zira günlük yaşamdaki vazifelerini ellerinden gelenin en iyisiyle yapmaya çalışanlar ve kendilerini, bakmakla yükümlü oldukları kişilerin refahına adayanlar, sadakatin asıl niteliğini geliştirmeye çalışmaktadır. Onlar şüphesiz ki zamanı gelene kadar ruhsal gereklilikler için uyanacakları bir noktaya kadar gelişecekler ve sonra da başka bir alanda edindikleri sadakati ruhsal alana taşıyacaklardır. Şimdiki sorumluluklarına ruhsal bir yaşam sürmek için sırtını dönmeye kararlı bir adam, yanlışlıkla kendisinden saptığı görev yoluna tekrar dönmeye kesinlikle zorlanacaktır. Bu kişi için, o dersi öğrenmeden bir kaçış mümkün değildir. 
+
+Şekil 17!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Bazı Hint kabilelerinde yaşam mükemmel bir şekilde bölümlere ayrılmıştır. İlk 20 yıl, kişiyi yetiştirmek içindir. 20 yaşından 40 yaşına kadar olan süre, bir aile kurmaya harcanır. Kalan zaman da herhangi bir fiziksel endişe zihni rahatsız etmeden veya onun dikkatini dağıtmadan ruhsal gelişime adanır. 
+
+İlk dönem boyunca çocuğa aile bakar. İkinci dönemde kişi, kendi ailesine ek olarak, kendilerini daha yüksek şeylere vermiş olan anne babasına da bakar. Ve yaşamının kalanında da kendisine çocukları bakarlar. 
+
+Bu, çok akıllıca bir yöntem gibi görünmektedir. Ve de sâkinlerinin, beşikten mezara kadar ruhsal gelişime ihtiyaç duydukları bir ülkede oldukça tatminkârdır. Bu ihtiyaç öyle şiddetlidir ki, bu ülkenin insanları yanılgıyla en büyük sefaletler tarafından zorlanmadıkça maddi gelişimi ihmal etmişlerdir. Çocuklar sevinçle anne babalarına bakarlar, zira sıra onlara geldiğinde kendilerinin de çocukları tarafından bakılacağını ve ülkelerine ve insanlığa karşı görevlerini tamamladıktan sonra kendilerini tamamen yüksek yaşamlara adayabileceklerini bilirler. Ancak gelişimin maddi çizgilerini takip etmekte olduklarından sıradan insanların hiçbir ruhsal ihtiyaç hissetmediği Batı Dünyası’nda böyle bir yaşam biçimini uygulamak imkânsızdır. 
+
+Ruhsal istek, zamanı olgunlaşana kadar gelmez ve bu istek daima, eğer yapabilirsek onu yerine getirebildiğimiz özel koşullar altında gelir. Bizi görünüşte geri bırakan engeller ve görevlere tahammül etmeliyiz. Eğer ailesine bakması kişinin, daha yüksek bir yaşama, dilediği şekilde tamamen kendisini adamasını engelliyorsa bu kişi, ailesine olan görevini ihmal etmek ve tüm zamanını ve enerjisini ruhsal amaçlar için kullanmak hakkına kesinlikle sahip değildir. Bu istekleri, aileye karşı olan göreve engel olmadan yerine getirmeye gayret edilmelidir. 
+
+Bir başkasıyla evli olan bir kişide eşsiz bir yaşam sürme arzusu meydana gelirse bu kişi, evliliğin gerektirdiği görevleri unutmamalıdır. Böyle bir durumda görevini uygun bir şekilde yerine getirmekten kaçmaya çalışmak ve evliliği bırakmak çok yanlıştır. Fakat cinsel birleşmeye gelince, daha yüksek yaşama tâlip olanlar için, sıradan erkek veya kadınlardan farklı bir ölçü vardır. 
+
+İnsanların büyük çoğunluğu evliliği, cinsel arzunun doyurulması için sınırsız bir izin olarak görürler. Yasal açıdan bu doğru olabilir, fakat insan yapımı hiçbir yasa ve hiçbir gelenek, bu meselede bir hüküm verme hakkına sahip değildir. Okült ilim, cinsel fonksiyonun asla duyuların tatmini için kullanılmaması, yalnızca çocuk yapmak için kullanılmasını öğretir. Bu yüzden daha yüksek yaşama tâlip olan kişinin, eşiyle de olsa cinsel ilişkiyi reddetmeye hakkı vardır. Ancak çocuk yapmak için cinsel birleşmede durum başkadır. Yalnız bunun için her iki eşin de fizik, etik ve ruhsal yönden sağlıklı olmaları zorunludur. Aksi takdirde bu birleşme, zayıf veya bozulmuş bir bedenin meydana gelmesiyle sonuçlanabilir. 
+
+Her kişi kendi bedeninin sahibidir ve kendi bedenini zayıf iradeyle bir başkasına bırakması ile sonuçlanan her kötüye kullanmadan Sebep ve Sonuç Yasası’na karşı sorumludur. 
+
+Yukarıda sözü edilenlerin ışığında ve okült ilmin bakış açısından bakarak şunu söyleyebiliriz: Sağlıklarının ve imkânlarının elverdiği oranda olabildiğince çok varlık için araç (beden) yapmak, bedensel ve ruhsal olarak sağlıklı tüm insanlar için hem bir görev ve hem de (fırsata şükrederek yapılması gereken ) bir nimettir. Daha önce de belirtildiği gibi bu açıdan özellikle daha yüksek yaşama tâlip olanlar bunu yapmakla yükümlüdür, zira temiz yaşamları bedenlerine de işlemiştir. Bu yüzden onlar, temiz araçlar yaratmaya diğer insanlardan daha uygundurlar. Onlar, bekleyen Ego’lara bedenlenme fırsatı sunarak ve onların etkilerini olabileceğinden daha erken bir dönemde göstermelerini sağlayarak yüksek ve üstün varlıkların uygun araçlar bulmalarına ve böylece insanlığa gelişiminde yardım etmelerine imkân verir. 
+
+Eğer cinsel güç bu şekilde kullanılırsa bir yaşam boyunca cinsel birleşme çok az sayıda meydana gelecek ve tüm cinsel güç, ruhsal amaçlar için kullanılabilecektir. Bu gücün kullanılması değil, fakat kötüye kullanılması rahatsızlıklara yolaçar ve ruhsal hayata engel olur. Bu yüzden eşsiz yaşayamayan kişinin ruhsal yaşamı bırakması gerekli de değildir. Küçük İnisiyasyonları geçerken kişi katı bir biçimde cinsel perhiz yapmak zorunda değildir. Mutlak cinsel perhiz yemini sadece büyük İnisiyasyonlar için geçerlidir ve bundan sonra bile Mesih’in bedeninin sağlanması için olduğu gibi bir fedakârlık eylemi olarak bazen bir cinsel birleşme eylemi gerekli olabilir. 
+
+Ve hatta denilebilir ki, evlilik yaşamını ölçülü bir şekilde yaşamak yerine yakıcı bir arzu altında ve sürekli olarak canlı bir şekilde cinsel arzunun tatminini düşünmek daha kötüdür. Mesih, iffetsiz düşüncelerin iffetsiz eylemler kadar ve hatta onlardan daha kötü olduklarını öğretmiştir. Çünkü düşünceler sınırsızca tekrarlanabilirler, halbuki eylemlerin tekrarlanması yasalarla sınırlıdır. 
+
+Daha yüksek yaşama tâlip olan kişi, kendi düşük doğasını zaptedebildiği oranda başarılı olabilir. Ancak diğer aşırılıklardan da kaçınmalıdır. 
+
+#### <h4 id="the-pituitary-body-and-the-pineal-gland">Hipofiz ve Epifiz</h4>
+
+Beyinde bulunan ve Şekil 17’de yerleri yaklaşık olarak gösterilen ve hipofiz ve epifiz olarak adlandırılan iki küçük organ vardır. Tıp bilimi bu kanalsız salgılara ilişkin çok az şey bilmektedir. Epifiz’i de “körelmiş üçüncü göz” olarak adlandırmaktadır. Ancak ne epifiz ve ne de hipofiz körelmiş değildir. Bu, bilimadamları için çok şaşırtıcıdır, zira doğa, gereksiz hiçbir şeyi tutmaz. Tüm bedende körelen veya gelişen organlara rastlarız. Körelen organlar, insanın bir bakıma şimdiki gelişim aşamasına ulaşmak için geldiği yol boyunca bulunan kilometre taşlarıdır. Gelişen organlar ise gelecekteki gelişmeye ve iyileşmeye işaret ederler. Örneğin hayvanların kulaklarını hareket ettirmek için kullandıkları kaslar insanda da vardır, fakat körelmişlerdir ve çok az insan bu kasları kullanabilir. Kalp, gelecekteki gelişimi işaret eden organlardandır, daha önce ifade edildiği gibi o, istençli bir kas olma yolundadır. 
+
+Hipofiz ve epifiz ise, zamanımızda ne körelen ve ne de gelişen, ancak uykuda bulunan başka bir organ grubuna aittirler. Uzak bir geçmişte insan, “iç” boyutlarla temas halindeyken bu organlar, “iç” boyutlara giriş araçlarıydı. Onlar, gelecekte ileriki bir aşamada aynı amaç için iş göreceklerdir. Bu organlar, istençsiz veya sempatik sinir sistemiyle bağlantıdaydılar. İnsan, iç âlemleri Ay Evresi’nde, Lemurya Çağı’nın son bölümünde ve Atlantis Çağı’nın başında görmekteydi. Resimler kendilerini insan iradesinden tamamen bağımsız olarak gösteriyorlardı. Arzu bedenin duyu merkezleri, tıpkı “Medyumların” duyu merkezleri (negatif, pasif alıcı) gibi saatin tersi yönde (kendi ekseni üzerinde saat yönünde dönen Dünya hareketinin tersi yönünde) günümüze dek döndüler. İnsanların büyük çoğunluğunda bu duyu merkezleri aktif değildir, fakat daha önce açıklandığı gibi doğru bir gelişimle saatin dönüşü yönünde harekete geçirilebilirler. Burada pozitif durugörürlük (aktif dinamik) geliştirmenin zorluğu yatmaktadır. 
+
+Medyumluğun gelişimi çok daha kolaydır, çünkü bu sadece, uzak geçmişte insanın sahip olduğu ayna benzeri bir faaliyetin yeniden canlandırılmasıdır. Bu faaliyette dış dünya iradedışı olarak onun içinde yansıtılır ve sonra, yakın akraba evliliği ile tutulur. Şimdiki medyumlarda bu güç aralıklarla gider gelir. Bu da onların neden bazen “görebildiklerini” ve bazen de hiçbir sebep olmadan tamamen başarısızlığa uğradıklarını izah eder. Bazen müşterisinin güçlü isteği, onun aradığı bilgiyle temas sağlamasına izin verir. Bu durumlarda medyumlar doğru görürler. Fakat onlar her zaman dürüst değildirler. Kira ve diğer giderler ödenmek zorundadır ve (üzerinde bilinçli bir kontrole sahip olmadıkları) güçleri kendilerini yarı yolda bıraktığında bazıları hileye başvururlar ve müşterilerini memnun etmek ve onların paralarını almak için akıllarına gelen saçmalıkları söylerler. Böylece bazı zamanlarda gerçekten gördükleri şeye güvensizliğe sebep olurlar. 
+
+Ruhsal görüş ve kavrayışa tâlip olan kişi, her şeyden önce özgecillik (unselfishness, bencil olmamak) kanıtlamalıdır, zira eğitilmiş durugörürün başarısız olduğu gün yoktur. O en azından yoluna gelen resimlere bağlı olan ayna benzeri bir şey değildir. O, her zaman ve her yönde araştırma ve başkalarının düşüncelerini ve planlarını okuma yeteneğine sahiptir, yeter ki dikkatini bu yola yöneltsin. 
+
+Onu haketmeyen bir kişi tarafından bu gücün gelişigüzel kullanımından doğacak büyük toplumsal tehlike kolayca anlaşılamaz. Bu kişi, başkalarının en gizli düşüncelerini bile okuyabilir. Bu yüzden inisiye kişi en büyük yeminlerle, bu gücü asla kendi kişisel ilgileri için en küçük derecede bile olsun kullanmamak veya kendi acısını dindirmek için ondan yararlanmamakla mükelleftir. O istediğinde beşbin kişiyi doyurabilir, ancak kendisini doyurmak için bir taşı ekmeğe dönüştüremez. O, diğerlerini felç ve cüzzamdan kurtarabilir, ancak Evrenin Yasaları ona kendi ölümcül yaralarını iyileştirmeyi yasaklamıştır. O, ettiği mutlak özgecillik (unselfishness) yemini ile bağlı olduğundan inisiye kişi, başkalarını kurtarmasına rağmen kendisini kurtaramayacağı kuralı her zaman geçerlidir. 
+
+Gerçekten vereceği bir şey olan eğitimli durugörür, hiçbir zaman kendi yeneklerini belli bir ücret karşılığı sunacağı tabela asmaz. O yardım arayan kişinin Sebep ve Sonuç Yasası altında yarattığı kadere uygun olduğu sürece ona karşılıksız olarak serbestçe verir. 
+
+Eğitilmiş durugörürlük okült gerçeklerin araştırılması için kullanılır ve o, okült gerçeklerin araştırılmasında yararlı olan tek yöntemdir. Bu yüzden tâlip kişi, boş bir merak giderme isteği değil, onun yerine insanlığa yardım etmek için kutsal ve özgecil (unselfish) bir istek hissetmelidir. Böyle bir istek varolana dek bilinçli durugörürlük edinmede hiçbir ilerleme kaydedilemez. 
+
+Lemurya Çağı’ndan bu yana geçmiş olan dönemlerde insanlık, iradenin kontrolü altında olan serebrospinal (beyin-omurilik) sinir sistemini inşa etti. Atlantis çağının ikinci yarısında bu sistem o kadar geliştirildi ki, Ego için yoğun bedene tam olarak egemen olmak mümkün oldu. Bu, arzu bedendeki nokta ile yoğun bedenin burun kökündeki nokta (daha önce ifade edildiği gibi) ilişkiye geçtiğinde meydana geldi. İçteki Rûh, Fizik Âlemde uyandı. Fakat buna karşılık insanlığın büyük kısmı için iç Âlemlerin bilinci kayboldu. 
+
+O zamandan beri epifiz ve hipofizin serebro-spinal sinir sistemi ile olan bağlantısı yavaş yavaş inşa edildi ve günümüzde bu bağlantı neredeyse tamamlanmıştır. 
+
+İç Âlemlerle teması tekrar kazanmak için artık gereken tek şey, epifiz ve hipofizi tekrar uyandırmaktır. Bu gerçekleştirildiğinde insan, yüksek âlemlerdeki algılama yetisine yeniden sahip olacaktır. Ancak bu, öncekinden çok daha büyük bir oranda gerçekleşecektir, zira bu defa o, istençli sinir sistemi ile bağlantıda olacak ve bu yüzden kendi İrade’sinin kontrolü altında meydana gelecektir. Bu içsel algılama yetisi aracılığıyla ona, tüm bilgi yolları açılacaktır. O, kendisiyle karşılaştırıldığında diğer tüm araştırma yöntemlerinin çocuk oyuncağı gibi kaldığı bir bilgi edinme yöntemine sahip olacaktır. 
+
+Bu organların uyandırılması, şimdi bütün insanlara anlatılabileceği kadar anlatacağımız Ezoterik Eğitimle gerçekleştirilir. 
+
+#### <h4 id="esoteric-training">Ezoterik Eğitim</h4>
+
+İnsanların çoğunluğunda cinsel gücün, mantıklı olarak yaratıcı organlar tarafından kullanılması gereken kısmı, duyuların tatmini için harcanır. Bu yüzden Şekil 17’de gösterildiği gibi böyle insanlarda, yükselen akımdan çok az miktarda vardır. 
+
+Daha yüksek yaşamlara tâlip olan kişi bu aşırılıkları gitgide daha fazla zaptetmeye başladığında ve dikkatini ruhsal düşüncelere ve çabalara ayırdığında, kullanılmayan cinsel gücün ondaki yükselişi eğitimli bir durugörür tarafından görülebilir. Bu güç, Şekil 17’de oklarla gösterilmiş olan yol boyunca hep daha fazla miktarda akar ve kalbi ve gırtlağı geçer veya belkemiği ve gırtlağı, ya da ikisini de geçer. Sonra da doğrudan hipofiz ve epifiz arasından burun kökündeki karanlık noktaya, en yüksek rûh olan “Sessiz Bekçi”nin oturduğu yere ulaşır. 
+
+Bu akımlar genellikle, şekilde belirtilmiş olan iki akımdan birinden geçerek ötekini tamamen yok saymaz. Fakat normal olarak cinsel akımların hacminin daha büyük olan kısmı, tâlip kişinin mizacına göre iki yoldan birinden geçer. Sırf entelektüel yolları arayan kişide akım özellikle omurilik üzerinden gider ve yalnızca küçük bir kısım kalp üzerinden geçer. Bilmekten ziyade hisseden mistik kişide ise akım, kalpten geçerek yükselir. 
+
+Her ikisi de anormal bir şekilde gelişirler ve herbiri tam bir mükemmelliğe ulaşmak için, ihmal ettiği gelişimi günün birinde tamamlamak zorundadır. Bu yüzden Gülhaçcıların hedefi, ana çabaları entelektüel kişilere yönelik olmasına karşın her iki grubu da doyuracak öğretiler vermektir. Zira entelektüel kişilerin buna ihtiyacı, mistik kişilerden daha fazladır. 
+
+Bununla birlikte bu akım kendi kendisine, Niyagara şelalesi kadar büyük olsa ve kıyamet gününe dek aksa bile yararsızdır. Ancak bu akım, sadece zorunlu olarak oluşması gereken bir şey değil, aynı zamanda iç Âlemdeki bilinçli çalışma için bir ön şarttır. Gerçek ezoterik eğitimin başlayabilmesinden önce onun belli bir ölçüde geliştirilmesi gerekir. Böylece görülecektir ki, metafizik âlemlerin bilgisinin kendisine ilk elden verilmesi ve onun insanlığın yardımcısı olabilmesine imkân tanınması işine başlamadan önce tâlip kişi, belli bir süre ruhsal düşünceye adanmış ahlaklı bir yaşam sürmüş olmalıdır. 
+
+Eğer aday kişi, ruhsal güç akımın üretilebileceği kadar yeterli bir süre boyunca böyle bir yaşam sürerse ve ezoterik dersleri almak için saygın ve vasıflı bulunuyorsa ona, hipofizi titreştirecek belli uygulamalar öğretilir. Bu titreşim hipofizin, en yakınındaki güç çizgisini etkilemesine ve onu biraz bozmasına neden olacaktır (Şekil 17). Bu da onun en yakınındaki güç çizgisini etkileyecek ve bu işlem, titreşim gücü tükenene dek devam edecektir. Bu, piyanodaki bir notaya basılmasıyla titreşimlerin, uygun akort aralıklarında bulunan diğer tellere sıçrayarak tüm bir seri üst tonun üretilmesi ile aynı süreçtir. 
+
+Hipofizin titreşimlerinin yükseltilmesiyle güç çizgileri, epifize ulaşmaya yetecek kadar bozulduğunda hedefe ulaşılmıştır ve bu iki organ arasına bir köprü kurulmuş olur. Bu, Duyu Âlemi ile Arzu Âlemi arasındaki köprüdür. Bu köprü inşa edildiği andan itibaren kişi durugörür olur ve bakışını istediği yere yönlendirebilir. Katı nesneleri, hem dışarıdan ve hem de içeriden görebilir. Bu kişi için mekân ve katı madde, gözlem engelleri olmaktan çıkmıştır. 
+
+O henüz eğitimli bir durugörür değildir, ancak o, iradi bir durugörür, yani istençli bir durugörürdür. İradedışı bir durugörür olan ve yalnızca kendisine gelen kimseyi veya şeyi görebilen ve en iyi durumda bu sırf negatif yetiden sadece biraz daha fazlası olan medyumun sahip olduğu yetiden çok daha farklı bir yetiye sahiptir. Ancak kendisinde bir kere bu köprünün kurulduğu kişi, iç Âlemlerle her zaman güvenli bir şekilde temastadır, bağlantıyı istediği gibi kurabilir veya kesebilir. Zamanla gözlemci hipofiz titreşimlerini kontrol etmeyi öyle bir şekilde öğrenir ki, iç Âlemlerin görmek istediği bölgesi ile bağlantı kurabilir. Yeti, tamamen onun kontrolü altındadır. Onun, bilincini Arzu Âleme yükseltmek için transa geçmesi ya da herhangi anormal bir şey yapması gerekli değildir. O basitçe görmek ister ve görür. 
+
+Kitabın önceki bölümlerinde açıklandığı gibi acemi kişi, Arzu Âleminde görmeyi öğrenmelidir veya daha iyisi orada gördüklerini anlamayı öğrenmelidir. Fizik Âlemde nesneler yoğun ve katıdırlar ve göz açıp kapayıncaya kadar değişmezler. Arzu Âleminde ise en şaşırtıcı biçimde değişirler. Negatif istençdışı durugörür için burası sonsuz bir karmaşa kaynağıdır. Bir öğretmenin rehberliği altında buraya giren acemi kişide bile durum böyledir. Fakat öğretmenin verdiği dersler sayesinde öğrenci öyle bir noktaya gelir ki, Form istediği kadar ve sıklıkla değişirse değişsin o, değişime neden olan Yaşamı algılayabilir ve onu, tüm olası ve şaşırtıcı değişimlere rağmen ne ise o olarak bilir. 
+
+Bir başka ve önemli bir fark daha vardır. Kişinin bir âlemde nesneleri algılamasını mümkün kılan güçle, kişinin o âleme girmesini ve o âlemde çalışmasını mümkün kılan güç aynı değildir. İstençli (iradi) durugörür, kendisine öğretilen birkaç alıştırmaya sahip olmuş olabilir ve Arzu Âleminde o, doğruyu yanlıştan ayırabiliyor olabilir, ancak pratik olarak orada parmaklıklar arkasındaki bir mahkumla aynı durumdadır. Görebilir, ancak orada çalışamaz. Bu yüzden ezoterik eğitim tâlip kişinin yalnızca içsel gözünü açmaz, fakat iç âlemlerde kendisi aracılığıyla tam bilinçli bir şekilde çalışabileceği bir araca sahip olması için uygun zamanda kendisine daha ileri alıştırmalar verilir. 
+
+#### <h4 id="how-the-inner-vehicle-is-built">İçsel Araç Nasıl Yapılır</h4>
+
+Günlük yaşamda insanların büyük çoğunluğu yemek, içmek ve cinsel tutkularını sınırsız bir şekilde doyurmak için yaşarlar ve en ufak bir tahrikte kendilerini kaybederler. Bu insanlar dıştan çok saygın olmalarına karşın yaşamlarının neredeyse her gününde bünyelerinde tam bir karmaşaya sebep olurlar. Tüm uyku süresi gündüz arzu ve yaşam bedenlere verilen hasarı onarmakla harcanır ve uykuda, herhangi bir başka iş yapmak için zaman kalmaz. Fakat kişi, daha yüksek bir ruhsal yaşam ihtiyacını duyar, cinsel gücünü ve öfkesini kontrol eder, sakin tabiatlı olmayı geliştirirse uyanık saatler boyunca araçlarda daha az tahribat meydana gelir. Sonuç olarak da hasarın uyku boyunca tamiri için daha az süre gerekir. Böylece kişinin uyuduğu saatler boyunca yoğun bedeni daha uzun sürelerde terk etmek ve iç Âlemlerde yüksek araçlar içinde çalışmak mümkün olur. Arzu beden ve zihin henüz tam olarak gelişmedikleri için bağımsız bilinç araçları olarak kullanılamazlar. Yaşam beden de yoğun bedeni terk edemez, çünkü bu ölüme sebep olur. Bu yüzden kolay hareket ettirilebilen ve tıpkı Fizik Âlem’deki yoğun beden gibi iç Âlemlerde Ego’nun gereksinimlerine göre yapılmış hareketli organize bir araç edinmek için tedbirler alınmak zorundadır. 
+
+Böyle organize bir beden de yaşam bedendir. Ölüme yolaçmadan onu yoğun bedenden çözme imkânı bulunsa sorun halledilmiş olurdu. Ayrıca yaşam beden, hafızanın bulunduğu yerdir. Ve hafıza olmadan metafizik deneyimlerin, onlardan tam fayda sağlayabilmek için anısını bizim fizik bilincimize getirmek mümkün olmazdı. 
+
+Eski Sır Tapınaklarındaki rahiplerin, Brahminler ve Levililer gibi halkın bir kısmını kastlara ve boylara ayırdıklarını hatırlayalım. Bu şekilde İnisiyasyona hazır olacak derecede gelişmiş Egoların kullanması için bedenler hazırlıyorlardı. Bu, tıpkı Yer Evresi’nin başlangıcında tüm insanlığın arzu bedenlerinde olduğu gibi yaşam bedenin ikiye bölünmesiyle gerçekleşti. Rahip öğrencileri vücutlarından çıkardığında yaşam bedenin birinci ve ikinci eteri kapsayan bir parçasını vücutta bırakırdı. Bu parça sadece hayvansal işlevleri yerine getirmekteydi (Bunlar, sadece uyku esnasında aktif olan işlevlerdir). Bu şekilde öğrenci, yoğun bedenin duyu merkezleri ile irtibatlı olan ve algılama ile hatırlama kabiliyetine sahip bir aracı yanına almaktaydı. Bu araç hafızayı kontrol edebiliyordu, çünkü duyu algılaması ve hafıza ortamları olan ışık eter ve yansıtıcı eterden meydana gelmişti. 
+
+Bu aslında yaşam bedenin, tâlip kişinin yaşamdan yaşama kendisine kalan ve Entelektüel Rûh olarak ölümsüzleştirdiği parçasıdır. 
+
+Mesih geldiğinden ve “dünyanın günahını aldığından” (bireyin günahını değil) ve gezegenimizin arzu bedenini arındırdığından beri tüm yoğun bedenler ile yaşam bedenler arasındaki bağ o kadar gevşedi ki, eğitimle yukarıda belirtildiği şekilde ayrılabilir hale geldi. Bu yüzden şimdi İnisiyasyon herkese açıktır. 
+
+Arzu bedenin, Duygusal Rûhu oluşturan daha ince kısmı insanların büyük çoğunluğunda ayrılabilir durumdadır (hatta bu Mesih’in gelişinden önce de böyleydi). Araçların ince kısımlarının uyku esnasında veya konsantrasyon ve uygun formulün kullanılmasıyla herhangi bir zamanda ayırıldıklarında arzu ve yaşam bedenlerin düşük kısımları vücutta kalmaya devam ederler. Bunlar, yoğun bedendeki sırf hayvansal kısmın onarım işlemini devam ettirirler. 
+
+Gördüğümüz gibi yaşam bedenin yoğun bedenden ayrılan kısmı yüksek derecede organizedir. O, yoğun bedenin tam bir kopyasıdır. Henüz hiçbir organa sahip olmayan arzu beden ve zihin, ancak yüksek derecede organlaşmış olan yoğun bedenle bağlı olduklarında kullanılabilirler. Ve de onlar, yoğun bedenden ayırıldıklarında değersiz enstrümanlardır. Bu yüzden insan, yoğun bedenden dışarı çekilmeden önce arzu bedenin duyu merkezleri uyandırılmalıdır. 
+
+Günlük yaşamda Ego kendi bedenleri içerisindedir ve onun gücü dışarıya dönüktür. İnsanın tüm iradesi ve enerjisi dış Dünyâ’yı kontrol altına almaya yöneliktir. O, kendisini dış çevresinin etkilerinden kurtarma ve böylece uyanık olduğu saatlerde kendi üzerinde çalışmak için serbestlik kazanma imkânına sahip değildir. Böyle bir fırsatın doğduğu uyku esnasında yoğun beden dünyâ bilincini kaybettiği için Ego, bedenlerinin dışarısında bulunur. Eğer insanın hep kendi araçları üzerinde çalışması gerekiyorsa bu, ona dış dünya uykudaki gibi kapalı olduğunda, ancak ruhun araçların içerisinde kaldığı ve uyanık durumdaki gibi yetileri üzerinde tam hâkimiyeti bulunduğunda gerçekleşmelidir. Bu duruma erişilmeden önce ruh için içsel olarak çalışmak ve araçlarını uygun bir şekilde duyarlı hale getirmek mümkün değildir. 
+
+Konsantrasyon böyle bir durumdur. Kişi konsantre olduğunda duyular yatışır ve insan, dıştan en derin uykudaki gibi bir konumdadır, ancak rûh, tam bilinçli olarak içeridedir. İnsanların çoğu en azından bir dereceye kadar kitap okumaya daldıklarında bu hâli deneyimlemişlerdir. Onlar bu durumda yazarın anlattığı olaylarda yaşarlar ve kendi çevreleri için kayıptırlar. Kendileriyle konuşulduğunda cevap vermezler. Hem seslerin ve hem de çevrelerindeki olayların farkında değillerdir. Ancak onlar okudukları şeylere tamamen uyanıktırlar. Yazarın yarattığı görünmez bir dünyada yaşamaktadırlar ve eserin farklı karakterlerinin kalp atışlarını hissederler. Ancak onlar hür değildirler, herhangi birisinin kitapla yarattığı bir yaşama bağlıdırlar. 
+
+Yüksek yaşama tâlip kişi, kendi iradesiyle seçtiği herhangi bir nesne içinde veya daha iyisi sıradan herhangi bir nesne değil, kendi hayal ettiği çok basit bir nesne üzerinde yoğunlaşma yetisini geliştirir. Böylece kişi, duyularının tamamen sessiz olduğu uygun bir koşula eriştiğinde veya bir şey üzerinde tam yoğunlaşma noktasına ulaştığında düşüncesini arzu bedenin duyu merkezleri üzerinde yoğunlaştırır ve bu merkezler dönmeye başlarlar. 
+
+İlk başta onların hareketleri yavaştır ve zor meydana getirilebilir. Fakat derece derece arzu bedenin duyu merkezleri yoğun bedende ve yaşam bedende kendilerine yer açarlar ve bu faaliyete uyum sağlamayı öğrenirler. Sonra bir gün uygun yaşam, yaşam bedenin yüksek ve alçak kısımları arasında gerekli olan gevşemeyi geliştirdiğinde iradenin olağanüstü bir çabası oluşur. Birçok yönde spiral biçimli bir hareket meydana gelir ve tâlip kişi kendi yoğun bedeninin dışındadır ve onu başka bir kişiymiş gibi görür. Onun hapishanesinin kapıları açılmıştır. Gelmek ve gitmek konusunda özgürdür ve içsel Âlemlerde de tıpkı Fizik Âlemdeki gibi serbestçe hareket edebilir, orada istediği gibi davranabilir ve bu âlemlerden herhangi birinde onun hizmetini isteyen herkese yardımcı olabilir. 
+
+Tâlip kişi, bedenini kendi isteğiyle terk etmeyi öğrenmeden önce uyku esnasında arzu bedeninde çalışabiliyor olmalıdır. Zira bazı insanlarda yaşam bedende ayrımın gerçekleşebilmesinden önce arzu beden organize olur. Bu koşullar altında öznel (sübjektif) deneyimleri uyanık bilince taşımak imkânsızdır. Fakat genelde gelişimin ilk aşaması olarak fark edilecektir ki, tüm karışık rüyalar son bulacaktır. Ardından bir süre sonra rüyalar daha canlı ve tamamen mantıklı olacaklardır. Tâlip kişi rüyasında (kendisi uyanıkken bildiği veya bilmediği) çeşitli yerlerde ve mekânlarda bulunduğunu ve sanki uyanıkmış gibi mantıklı davrandığını görecektir. Rüyasında gördüğü yer, onun uyandığında gidebileceği bir yerse ve gördüğü rüyadaki fiziksel ayrıntılara dikkat ederse bazen kendisi için rüyasının doğruluğuna ilişkin kanıtları uyanıkken bulmak ve gece gördüğü şeylerin doğruluğunu ertesi gün görmek mümkün olacaktır. 
+
+Ardından uyku saatleri boyunca yeryüzünde istediği herhangi bir yeri gezebildiğini ve orayı, yoğun bedeniyle yapabileceğinden çok daha ayrıntılı bir şekilde araştırabileceğini görecektir. Zira arzu bedeninde o, kilitlere ve sürgülere aldırmadan her yere girebilir. Eğer kişi sebat ederse, en sonunda artık araçları arasındaki bağı çözmek için uykuyu beklemek zorunda olmadığı ve bu bağı kendi kendine bilinçli olarak çözebileceği gün gelir. 
+
+Yüksek araçların serbest kalmasına yönelik özel talimatlar rastgele verilemez. Ayrım, sözcüklerdeki sabit bir formül aracılığıyla değil daha çok bir irade eylemi aracılığıyla gerçekleşir. İradenin yönlendirilme biçimi kişiye özgüdür ve bu yüzden ancak ehil bir öğretmen tarafından bu iş yapılabilir. Diğer tüm gerçek ezoterik bilgiler gibi bu da asla satılamaz, ancak öğrenciye o bilgiyi almaya kendisini hazır hale getirmesinin sonucu olarak verilir. Burada yapılabilecek tek şey, istençli durugörürlük yetisine sahip olmaya götürecek yolun ilk adımlarına işaret etmektir. 
+
+Bu çalışma için en uygun zaman, günlük yaşamın üzüntüleri ve dertleri zihne girmeden önce ve sabah uyandıktan hemen sonraki zaman dilimidir. Kişi iç Âlemlerden henüz gelmiştir ve bu yüzden, sabah uyandıktan sonra günün başka herhangi bir zamanından daha kolayca tekrar iç Âlemlerle bağlantı kurması sağlanabilir. Kişi önce giyinmeyi beklememeli ve yataktan kalkmamalıdır. Bedenini tamamen gevşetmeli ve ilk uyanık haldeki düşüncesiyle alıştırmaya başlamalıdır. Gevşeme, sadece rahat bir konumda olma anlamına gelmez. Beklentinin her kası germesi mümkündür. Bu da başarıyı daha baştan engeller. Zira bu durumda arzu beden kasları tutar. O, biz zihni sakinleştirmeden önce de başka hiçbir şey yapamaz. 
+
+#### <h4 id="concentration">Konsantrasyon</h4>
+
+İlk alıştırma, kişinin düşüncelerini bir ideale yöneltmesi ve başka yere saptırtmadan orada tutmasıdır. Bu olağanüstü zor bir ödevdir, ancak daha fazla ilerlemenin mümkün olabilmesi için en azından belli bir dereceye kadar yerine getirilmelidir. Düşünce, fikirlerimize uygun resimler ve düşünce formları yaratmak için kullandığımız güçtür. O bizim ana gücümüzdür ve onun üzerinde mutlak kontrol sahibi olabilmeyi öğrenmeliyiz ki, ürettiğimiz şey, dış koşulların sebep olduğu dağınık yanılsama (ilüzyon) değil, ruh tarafından içeriden üretilen gerçek hayalgücü olsun (Şekil 1’e bakınız). 
+
+Skeptikler her şeyin hayal olduğunu söylerler. Ancak önceden de söylendiği gibi telefonu bulan kişi onu hayal etmeseydi, bugün biz ne telefona ve ne de başka bir şeye sahip olabilirdik. Onun hayal ettikleri ilk başta doğru veya gerçek değildi, aksi takdirde icatlar daha başından başarılı bir şekilde fonksiyonlarını yerine getirirler ve birçok kusur ve görünüşte yararsız deneyler olmazdı. Bu deneyler neredeyse daima pratik ve yararlı bir aletin veya bir makinenin üretiminden önce yapılmaktadır. Gelişen okültistin hayalgücü de başlangıçta doğru değildir. Onu doğru kılabilmenin tek yolu günbegün kesintisiz çalışmadır. Ayrıca irade de başka her şeyi dışlayarak bir şeye, bir nesneye veya bir fikre odaklanmasını öğrenir. Düşünce, bizim kendisini boşa harcamayı alışkanlık haline getirdiğimiz büyük bir güçtür. Biz düşüncelerimize amaçsızca akıp gitme izni veririz. Bu düşünceler tıpkı suyun, bir su değirmenini döndürmeden önce şelaleden uçuruma akıp gitmesine benzer. 
+
+Tüm yeryüzüne dağılan güneş ışınları yalnızca orta dereceli bir sıcaklık üretir. Fakat bu ışınların sadece birkaç tanesi bile bir büyüteç yardımıyla biraraya toplanırsa, odak noktasında ateş oluşturabilirler. 
+
+Düşünce-gücü, bilgi edinmenin en güçlü aracıdır. O, bir konu üzerine yoğunlaştırıldığında yolu üzerindeki bütün engelleri yakar ve problemi çözer. Gerekli düşünce-gücü miktarına erişildiğinde insan idrakının ötesinde hiçbir şey yoktur. Onu saçıp savurduğumuz sürece düşünce- gücünün bize çok az faydası vardır. Ancak onu kullanma olgunluğuna eriştiğimizde tüm bilgi bizimdir. 
+
+İnsanların sık sık şöyle bağırdıklarını duyarız: “Yüz tane şeyi bir anda düşünemem ki!”. Ancak aslında onların yaptıkları hata tam da budur ve bu, yakındıkları rahatsızlığa yolaçar. İnsanlar sürekli olarak ellerinde olandan başka yüz şeyi daha düşünürler. Her başarı, istenen hedefe sürekli konsantrasyonla sağlanır. 
+
+Bu, yüksek yaşama tâlip kişi tarafından mutlaka öğrenilmelidir. Bunun başka bir yolu yoktur. İlk önceleri o, kendisini güneş altındaki konsantre olmayı kararlaştırdığı fikir dışındaki her şeyi düşünürken bulacaktır, ama bu onu yıldırmamalıdır. Zamanla duyularını yatıştırmak ve düşüncelerini sabitlemek onun için daha kolay olacaktır. Israrcılık, ısrarcılık ve daima ISRARCILIK en sonunda kazanacaktır. Fakat onsuz bir sonuç beklenemez. Alıştırmaları iki üç sabah veya hafta yapıp sonra aynı süre ihmal etmek kişiye hiçbir şey kazandırmaz. Etkili olabilmesi için onların sadakatla her sabah düzenli bir şekilde yapılması gerekir. 
+
+Tâlip kişinin doğasına ve zihinsel durumuna göre herhangi bir şey seçilebilir. Ancak seçilen şey saf ve düşünceler kişiyi yükseltici olmalıdır. Bazıları bunun için Mesih’i seçeceklerdir. Diğerleri özellikle çiçekleri severler ve onlar için konsantrasyon öznesi olarak çiçekleri seçmek onlara kolay gelecektir. Konsantrasyon için seçilen şeyin çok az önemi vardır. Ne türden olursa olsun, onu gerçek hayatta olduğu durumuyla tüm detaylarına kadar kafamızda canlandırmalıyız. Eğer konsantrasyon için Mesih’i seçmişsek gerçek bir Mesih’i canlı özellikleri, bakıştaki yaşam ve taştan ve ölü olmayan bir ifade ile kafamızda canlandırmalıyız. Bir heykel değil, canlı bir ideal inşa etmeliyiz. Eğer bir çiçeği seçmişsek hayalimizde tohumu almalıyız, onu toprağa gömmeliyiz ve zihnimizi onun üzerinde sürekli olarak sabitlemeliyiz. Yakında onun yarıldığını ve Yer’in içine spiral şeklinde köklerini uzattığını göreceğiz. Köklerin ana damarlarından ayrılan ve tüm yönlere budaklanan onbinlerce kökçük oluşumunu izleyeceğiz. Sonra gövde yukarıya doğru filizlenmeye başlayacak. Yeryüzünü yarıp çıkacak ve küçücük yeşil bir sap olarak günyüzüne çıkacaktır. Bitki büyümektedir. Sonra bir filiz görürüz, küçük bir dal, ana gövdeden filizlenir ve büyür. Bir başka filiz ve bir dal ortaya çıkar. Sonunda dallardan, uçlarında tomurcuklarla küçük yaprak sapları görünür. Kısa süre sonra bir sürü yaprak oluşur. Sonra tepede bir gonca meydana gelir ve çatlayıncaya kadar ve yeşilin altında gülün kırmızı yaprakları görününceye dek büyür. Sonra gül, duyularımızla tamamen algıladığımız çok güzel bir koku yayarak havada açılır. Bu koku, zihnin gözleri önünde güzel yaratımı hafifçe sallayan yumuşak bir yaz meltemi gibidir. 
+
+Yalnızca bu şekilde açık ve eksiksiz detaylarla “kafamızda canlandırırsak” ( imagine) konsantrasyon ruhu içine gireriz. O, belli belirsiz ve soluk bir kopya olmamalıdır. 
+
+Hindistan’a gitmiş olan kişiler, Hint fakirlerinin kendilerine, hayretler içindeki izleyicilerin gözleri önünde ekilen ve meyveler verene dek büyütülen, sonra da o meyvelerden yedikleri bir tohum gösterdiklerinden bahsetmektedirler. Bu, öyle yoğun bir konsantrasyonla gerçekleştirilmektedir ki resim, sadece Hint fakirinin kendisine değil, aynı zamanda izleyicilere de görünür olmaktadır. Bir bilimadamları kurulu üyelerinin kendi gözleri önünde ve hilenin mümkün olmadığı koşullar altında meydana gelen harikulade şeylerin oluşmasına şahit oldukları bir olay bildirilmiştir. Ancak bu olay esnasında çekilen fotoğraflarda hiçbir şey çıkmamıştır. Işığa duyarlı fotoğraf levhalarında hiçbir iz yoktu, zira maddi somut nesneler yoktu. 
+
+Tâlip kişinin oluşturduğu resimler ilk başlarda aslının belli belirsiz ve kötü kopyalarıdır. Fakat o, sonunda konsantrasyon ile Fizik Âlemdekinden daha gerçek ve canlı bir resmi hayalinde yapabilir. 
+
+Tâlip kişi böyle resimler biçimlendirebilmeyi başardığında ve zihnini başarıyla bu üretilmiş resimler üzerinde tutabildiğinde resmi birden bırakmayı denemeli ve zihnini her türlü düşünceden uzak tutarak boşluğa şimdi neyin gireceğini beklemelidir. 
+
+Uzun bir süre hiçbir şey görünmeyebilir ve tâlip kişi kendisini dikkatle, kendi vizyonlarını oluşturmaktan korumalıdır. Ve o, sadakat ve sabırla her sabah alıştırma yaparsa, resmi hayalinden bıraktığı anda etrafındaki Arzu Âlem’in onun içsel gözüne bir anda açıldığı bir zaman gelecektir. Başlangıçta bu, bir anlık görme olabilir, fakat daha sonra istenildiğinde gelecek olanın habercisidir. 
+
+#### <h4 id="meditation">Meditasyon</h4>
+
+Tâlip kişi bir süre konsantrasyon alıştırması yaptığında ve zihnini herhangi basit bir şeye odaklamayı öğrendiğinde hayalgücü aracılığıyla canlı bir düşünce formu inşa eder. Bundan sonra o, meditasyon veya derin düşünme sayesinde bu şekilde yaratılmış nesne hakkında her şeyi öğrenecektir. 
+
+Tâlip kişi, konsantrasyonla Mesih’in görüntüsünü hayalinde canlandırdığında artık meditasyonla O’nun yaşamındaki olayları, acıları ve dirilişini hafızaya geri çağırmak çok kolaydır. Ayrıca kişi meditasyonla çok şey öğrenebilir. Kimsenin önceden rüyasında bile görmediği bilgiler kişinin rûhuna muhteşem bir ışıkla sel gibi akacaktır. Ancak kişinin alıştırma için kendisini hiç ilgilendirmeyen ve kendisinde herhangi olağanüstü bir şey uyandırmayan nesneleri, örneğin bir kibrit çöpünü veya sıradan bir masayı seçmesi daha iyidir. 
+
+Masanın görüntüsü zihinde açıkça biçimlendirildiğinde onun hangi ağaçtan olduğunu ve nereden geldiğini düşün! Onun küçük bir tohum halinde kesilmiş bir ağaçtan orman toprağına düştüğü zamana git! Yıldan yıla büyümesini, kış aylarında karla kaplı olmasını ve yaz güneşiyle ısınmasını ve sürekli olarak göğe doğru büyümesini ve bu arada köklerinin yeraltında sürekli yayılmasını izle. İlk başlarda o, rüzgârla sallanan hassas bir fidandır. Sonra genç bir ağaç olarak havaya ve günışığına doğru hep daha yükseğe uzar. Yıllar geçtikçe gövdesinin kalınlığı artar. Sonunda bir gün balta ve testeresiyle oduncu gelir. Kış güneşi balta ve testerenin üzerlerine yansımaktadır. Ağacımız kesilir ve dalları budanır. Sadece gövdesi kalır. Bu gövde kütükler halinde kesilir ve nehir kıyısına kadar donmuş yollar boyunca taşınır. İlkbaharda eriyen karların akıntıyı yükselteceği zamana dek de burada kalır. Kütüklerden büyük bir sal yapılır, aralarında bizim ağacımızın kütükleri de vardır. Onların en küçük detaylarını bile biliriz. Binlercesi arasından bile onları hemen tanırdık. Zihnimize onları bu kadar açık kaydettik. Salla birlikte akıntıyı takip ediyoruz, geçip gittiğimiz manzarayı fark ediyoruz ve salı idare eden ve bu yüzen yüklerden yapılmış küçük barakalarda uyuyan adamlarla tanışıyoruz. En sonunda onun bir bıçkıhaneye ulaştığını ve orada doğrandığını görüyoruz. Kütükler birer birer uzun zincirlere bağlanmış kancalar tarafından yakalanıyor ve sudan çıkartılıyor. Burada kütüklerden bir tanesi geliyor, bu kütüğün en geniş yerinden masamızın üst tahtası yapılacak. O, sudan çıkartılıyor ve kütüklerin yığıldığı yere uzun kancalı adamlar tarafından yuvarlanıyor. Büyük yuvarlak testerelerin acıkmış vızıltılarını duyuyoruz. O kadar hızlı dönüyorlar ki gözlerimiz onları ancak bulanık halkalar olarak görüyorlar. Bizim kütüğümüz bir vagona konuluyor ve vagonlardan biri tarafından itilerek çelik dişlerin kendilerini yolları boyunca parçaladığı ve onları kalaslara ve tahtalara böldüğü yere geliyor. Bazı kısımlar ev inşasında kullanılmak üzere seçiliyor, ancak en iyi kısımlar mobilya fabrikalarına gönderiliyor ve buharla kurutulmanın yapıldığı bir fırına konuluyor ki bir mobilya haline getirildikten sonra boyutları küçülmesin. Sonra oradan çıkarılır ve birçok keskin bıçağa sahip büyük bir planya makinesinde düzleştirilir. Ardından farklı uzunluklarda kesilerek parçalara ayrılır ve masanın üst yüzeyini oluşturması için zamklanır. Ayaklar daha kalın parçalardan yapılır ve üst yüzeyi destekleyen çerçeveye takılır. Sonra tüm masa tekrar zımpara kağıdı ile düzleştirilir, verniklenir ve cilalanır. Böylece masa hazır hale gelir. Bundan sonra o, diğer mobilya parçaları ile birlikte onu alacağımız mağazaya getirilir. En sonunda da onun nasıl evimize getirildiğini ve yemek salonumuzda nasıl yerini aldığını takip ederiz. 
+
+Böylece meditasyon aracılığıyla, bir ağacı bir mobilyaya dönüştürmek için gerekli olan çeşitli endüstri dallarına aşina olduk. Tüm makineleri ve insanları gördük ve çeşitli yerlerin özelliklerini inceledik. Hatta bu ağacın küçücük bir tohumdan büyüdüğü yaşam sürecini takip ettik ve oldukça sıradan şeylerin de büyük ve olağanüstü enteresan bir hikâyesi olabileceğini öğrendik. Bir toplu iğne, kendisiyle gaz lâmbalarını yaktığımız kibrit, gazın kendisi ve gazın yakıldığı yer. Bunların hepsinin öğrenilmeye değer ilginç hikâyeleri vardır. 
+
+#### <h4 id="observation">Gözlem</h4>
+
+İstekli kişiye uğraşılarında yardım edecek en önemli şeylerden biri de gözlemdir. İnsanların pekçoğu körlüğe uğramış gibi yaşamdan geçip giderler. Bunlar için, “gözleri vardır görmezler, (...) kulakları vardır duymazlar” sözü kelimesi kelimesine doğrudur. İnsanların çoğunluğu üzerinde acınacak derecede bir gözlem eksikliği vardır. 
+
+İnsanların pek çoğu bir dereceye kadar mazur görülebilir, çünkü görme yetenekleri normal değildir. Şehir yaşamı gözlere çok büyük zararlar vermiştir. Şehir dışlarında çocuk, göz kaslarını tam ölçüde kullanmayı öğrenir. Bu kasları, görmek istedikleri nesnenin uzaklığına bağlı olarak, açık arazide uzakta olmasına ya da yakında bulunmasına göre genişletip daraltırlar. Buna karşın şehir çocuğu her şeyi yakından görür. Onun göz kasları, çok uzaklardaki nesnelere bakmada nadir kullanılır. Bu yüzden bu yetenek de büyük ölçüde kaybolur. Bu da miyop ( uzağı görememe) ve diğer göz rahatsızlıklarının yaygın olmasına sebebiyet verir. 
+
+Yüksek yaşama tâlip olan bir kişi için etrafındaki nesneleri açık ve belirli hatlarla ve tüm detaylarıyla görebilmesi çok önemlidir. Eksik görme yeteneğine sahip bir kişi için gözlük kullanmak, yeni bir dünyanın ona açılması gibidir. Bu kişi, önceki bulanıklığın yerine her şeyi keskin ve açık görür. İki farklı odağa sahip camların olması gereken durumlarda kişi, yakın ve uzak görme için sık sık birinin çıkarılıp diğerinin takılmasını gerektiren iki farklı gözlük taşımamalıdır. Bu durum, sadece gözlüklerin birinin çıkarılıp diğerinin çıkartılmasının vereceği bıkkınlıktan değil, aynı zamanda evden çıkarken gözlüklerden birisinin kolayca unutulabilmesinden dolayı da dezavantajlıdır. Her iki odak, çift odak notasına sahip camları olan bir gözlükte birleştirilebilir ve kişi, etrafındaki ayrıntıların gözlemini kolaylaştırmak için bu gözlüklerden takmalıdır. 
+
+#### <h4 id="discrimination">Ayırım</h4>
+
+İstekli kişi dikkatini görme yeteneğine verdiğinde sistematik olarak her şeyi ve herkesi gözlemeli, onların eylemlerinden sonuçlar çıkarmalı ve mantıklı düşünme yetisi geliştirmelidir. Mantık, Fizik Âlemdeki en iyi öğretmendir ve diğer bütün alemlerde de en güvenilir ve en kesin kılavuzdur. 
+
+Gözlem metodunu uygularken daima akılda tutulmalıdır ki bu metod, eleştiri amaçlı değil, ya da en azından kötü niyetli eleştiri amaçlı değil, yalnızca olguları toplamak için kullanılmalıdır. Hataları ve onlardan kaçınma yollarını gösteren yapıcı eleştiri, ilerlemenin temelidir. Fakat mükemmelliğe erişmeyi amaçlamayan ve kötü niyetle iyiyi ve kötüyü fark gözetmeden yokeden yıkıcı eleştiri, kişinin karakterindedeki bir ülserdir ve kökü kurutulmalıdır. Dedikodu ve boş gevezelik, engeldirler. Kimse bizden karaya ak dememimizi ve yanlış hareketi görmezden gelmemizi isteyemez. Eleştiri, kişiye yardım etmek için yapılmalıdır, yoksa küçük bir leke bulduğumuz için bir hemcinsimizin karakterini lekelemek için değil. Her zaman çuvaldız ve iğne örneğini hatırlamamız ve en acımasız eleştirileri kendimize yöneltmemiz gerektiğini hatırlamalıyız. Hiçkimse, artık daha da iyi bir hale gelemeyecek kadar mükemmel değildir. Kişi ne kadar masumsa başkalarında hata bulmaya, onlara taş atmaya o kadar az yatkındır. Herhangi bir kusura dikkat çeker ve onu iyileştirme yollarını gösterirsek bunu, hiçbir kişisel duyguya sahip olmaksızın yapmalıyız. Daima her şeyde saklı olan iyiyi aramalıyız. Bu ayırt etme davranışının geliştirilmesi özellikle önemlidir. 
+
+Talip kişi, ilk elden bilgiye göre belli bir süre konsantrasyon ve meditasyon uygulamaları yaptığında ve bunlarda belli bir başarı sağladığında, bir sonraki adıma geçmelidir. 
+
+Konsantrasyonun, düşünceyi tek bir nesne üzerine odaklamak olduğunu gördük. O, kendisi aracılığıyla, hakkında bilgi sahibi olmayı arzu ettiğimiz formun açık, objektif ve canlı bir görüntüsünü yapma yoludur. 
+
+Meditasyon, kendisi aracılığıyla, araştırdığımız nesnenin tarihini ortaya çıkarmamızı sağlayan uygulamadır. Meditasyona girerek onun, dünyayla genel olarak ilişkisine ait tabiri caizse her kanıt parçasını ortaya çıkarırız. 
+
+Bu iki zihinsel alıştırma, en derin ve en mükemmel bir şekilde nesnelerle ilgilenir. Onlar kişiyi, zihinsel gelişimin daha yüksek, daha derin ve daha ince (süptil) bir aşamasına ulaştırırlar. 
+
+Bu aşamanın ismi Derin Düşünme’dir (Tefekkür). 
+
+#### <h4 id="contemplation">Seyir (Contemplation)</h4>
+
+Seyirde meditasyonda olduğu gibi bilgi edinmek için düşünceye dalma veya hayalinde canlandırma yoktur. O sadece nesneyi ruhsal gözümüz önünde tutmak ve onun ruhunun bize konuşmasını sağlamaktan ibarettir. Sessiz ve gevşemiş bir şekilde bir kanapeye veya yatağa uzanırız. Pasif değil tamamen uyanık bir durumdayızdır. Uygun gelişim seviyesine erişmişsek bize muhakkak gelecek olan bilgiyi alırız. Zira nesnenin Form’u kayboluyor gibi görünür ve sadece onun çalışmakta olan yaşamını görürüz. Meditasyon bize işin Form kısmını öğretirken Seyir bize Yaşam tarafını açıklar. 
+
+Bu aşamaya eriştiğimizde ve örneğin ormanda bulunan bir ağaç önümüzdeyken Form’u tamamen gözden kaybederiz ve sadece bu durumda bir grup ruhu olan Yaşam’ı görürüz. Şaşkınlıkla bulacağız ki, ağacın grup ruhu, ağaçtan beslenen çeşitli böcekleri de kapsamaktadır ve parazit ve onun evsahibi bir ve aynı grup rûhundan ortaya çıkmışlardır. Görünmez (gayb) âlemlerde ne kadar yükseğe çıkarsak ayrı ve farklı Formlar da o kadar azalır ve o kadar bütünüyle Bir Olan Yaşam ağır basar. Bu yaşam, araştırıcıya şu yüce gerçeği iletir: Sadece bu Bir Olan Yaşam, Tanrı’nın her şeyi kapsayan yaşamı vardır. Şu bir gerçektir ki, bu yaşamın içinde “yaşarız, hareket ederiz ve varlığımıza sahibiz”. Maden, bitki, hayvan ve insan, istisnasız hepsi Tanrı’nın tezahürleridirler ve bu gerçek, kardeşliğin asıl temelini oluşturur. Bu kardeşlik, atomdan Güneşe kadar her şeyi kapsar. Zira hepsi, Tanrı’dan çıkmışlardır. Okült bilgin’in, Evrensel Yaşam’ın varolan her şeye nasıl aktığını gördüğünde açıkça kavradığı gibi, sınıf ayrımları, Irk akrabalıkları, meslek toplulukları vs gibi başka bir temeli olan kardeşlik anlayışları bu temelin çok gerisinde kalırlar. 
+
+#### <h4 id="adoration">Tapınma (Adoration)</h4>
+
+Seyir ile bu yüksekliğe erişildiğinde ve talip kişi gerçekte her şeyi kapsayan Yaşam’daki Tanrı’yı gördüğünü açıkça kavradığında atılacak bir adım daha vardır. Bu en yüksek adım, tapınmadır. Onun aracılığıyla kişi, bütün şeylerin Kaynağı ile birleşir ve bu birleşme ile, büyük Tezahür Gününün sonunda kalıcı birlik meydana gelene kadar insan tarafından edinilebilecek mümkün olan en büyük hedefe erişir. 
+
+Yazarın görüşü, ne Seyir’in yüksekliklerine ve ne de son Tapınma adımına, bir öğretmenin yardımı olmadan erişilemeyeceğidir. Talip kişi, bir öğretmeni olmaması sebebiyle bu adımları atmada gecikmekten asla korkmamalıdır. Kendisine bir öğretmen aramak zorunda da değildir. Ondan talep edilen tek şey, kendisi üzerinde çalışmaya başlaması ve bu çalışmaya ciddiyetle ve ısrarla devam etmesidir. Bu şekilde o, kendi araçlarını arındıracaktır. Bu araçlar iç Âlemlerde parlamaya başlayacak ve bu, tam da hep bu durumları gözleyen öğretmenlerin dikkatini çekecektir. Bu öğretmenler, kendilerini arındırmada ciddi çabalarının karşılığı olarak yardım alma hakkını kazanmış kişilere yardım etmeye çok isteklidirler ve bundan mutlu olurlar. İnsanlık, şiddetle iç Âlemlerden çalışabilen yardımcılara ihtiyaç duymaktadır, bu yüzden “arayın, bulacaksınız”. Ancak aramak, bir mesleki öğretmenden diğerine dolaşıp durmak demek değildir. Bu anlamda “aramak”, bu karanlık Dünya’da hiçbir işe yaramaz. Biz kendimiz ışık yakmalıyız, gerçekten talip bir kişinin araçlarından sürekli olarak yayılan bir ışık. İşte bu, bizi öğretmene götürecek olan yıldızdır, daha doğrusu öğretmeni bize getirecek olan yıldızdır. 
+
+Alıştırmalarda başarıya ulaşmak için gereken zaman kişiden kişiye değişir. Bu başarı, onun uygulamasına, evrimdeki aşamasına ve kader kitabındaki kaydına bağlıdır. Bu yüzden genel bir süre verilemez. Zaten hazır olan bir kısım, birkaç günde veya haftada sonuç alırken, diğerleri herhangi bir görünür bir başarıya ulaşmaksızın aylar, yıllar ve hatta tüm ömürleri boyunca çalışmak zorundadırlar. Ancak başarılar oradadır ve sadakatle sebat eden talip kişi, bu veya bir başka yaşamda birgün sabrının ve sadakatinin ödülünü görecektir. İçsel Âlem onun bakışına açılacak ve o kendisini, fırsatların Fizik Âlemle kıyaslanmayacak kadar büyük olduğu krallıkların yurttaşı olarak bulacaktır. 
+
+Bu andan itibaren, uykuda veya uyanık olsun, ölü veya diri olsun bilinç kesintisiz olacaktır. O, bilinçli olarak sürekli bir varoluş sürecektir ve ırkın yükseltilmesinde kullanılmak üzere hep daha yüksek güven makamlarına daha hızlı ilerlemeyi destekleyen tüm koşullardan fayda sağlayacaktır. 
+
+### <h3 id="chapter-18">18. Bölüm: Yerin Yapısı ve Yanardağ Püskürmeleri</h3>
+
+Okült bilginler bile Yer’in gizemli yapısını araştırmayı, en zor problemlerden biri olarak kabul ederler. Her okült bilgin bilir ki, Arzu Âlemini ve Somut Düşünce Bölgesini ayrıntılı ve kesin olarak araştırmanın ve araştırmanın sonuçlarını Fizik Âleme getirmek, fizik gezegenimizin sırlarını bütünüyle araştırmaktan çok daha kolaydır. Zira bu ikincisini tamamiyle yapmak için kişi, dokuz küçük İnisiyasyondan ve Büyük İnisiyasyonların ilkinden geçmiş olmalıdır. 
+
+Modern bilimadamları bu konu hakkında çok az bilgiye sahiptirler. Deprem fenomeni hakkındaki teorilerini durmadan değiştirirler, zira sürekli olarak önceki varsayımlarını çürüten sebepler keşfederler. Her zamanki olağanüstü dikkatleriyle onlar, Yer’in en dış tabakasını yalnızca pek az bir derinliğe kadar araştırdılar. Volkanik püskürmeleri, başka her şeyi anlamaya çalışırken yaptıkları gibi sırf mekanik bir şekilde açıklamaya çalıştılar. Onlar, Yer merkezini alevli bir fırın gibi düşündüler ve püskürmelerin, suyun Yer merkezine tesadüfen girişi ve diğer benzer yollarla oluştuğu sonucuna vardılar. 
+
+Belirli bir anlamda bu teorileri bir temele sahiptir. Ancak onlar, ne bu durumda ve ne de diğer durumlarda okültist kişiye gerçek olarak görünen ruhsal sebeplere dokunamazlar. Okültist için Yer, “ölü” olmaktan çok uzaktır. Tam tersine her köşeye, her yarığa gezegenin üzerinde ve içinde değişimlere yolaçan maya olan rûh nüfuz etmiştir. 
+
+Farklı kuvars türleri, metaller, çeşitli katmanların yapısı – her şeyin, maddeci araştırmacının kavrayabileceğinden çok daha büyük bir anlamı vardır. Okült bilginler için bu maddelerin diziliş yöntemi çok büyük anlama sahiptir. Diğer tüm şeylerde olduğu gibi bu konuda da okült ilim modern bilimle, fizyoloji ile anatomi arasındaki ilişkiye benzer bir ilişki içerisindedir. Anatomi, bütün detaylarıyla her kemiğin, her kasın, her bağın ve her sinirin tam yerini ve bir diğerine olan konumunu bildirir. Ancak bedenleri oluşturan kısımların kullanımının anlaşılmasına ilişkin herhangi bir anahtar vermez. Diğer yandan fizyoloji, sadece bedenin her bir kısmının konumunu ve yapısını açıklamaz, aynı zamanda onun bedendeki kullanımını da anlatır. 
+
+Yer’in farklı katmanlarını ve gökteki gezegenlerin birbirlerine olan konumlarını, onların kullanımı, yaşamdaki anlamı ve Evren’deki amacını bilmeden bilmek, onların bedendeki kullanımını bilmeden sadece kemiklerin, sinirlerin vs yerlerini bilmeye benzer. 
+
+#### <h4 id="the-number-of-the-beast">Hayvanların Sayısı</h4>
+
+Sırların çeşitli derecelerine İnisiye olmuş kişinin deneyimli durugörür bakışına Yer, tıpkı soğan gibi katman katman yapılmış görünür. Bu katmanlardan Yer’de dokuz tane vardır ve merkezi çekirdek ile toplamda on sayısına ulaşılır. Bu katmanlar İnisiye kişiye kademeli olarak açılır. Her İnisiyasyonda bir katman onun için erişilebilir hale gelir. Böylece o, dokuz küçük İnisiyasyon ile tüm katmanların ustası olur, ancak hâlâ çekirdeğin sırlarına erişememiştir. 
+
+Eski tabirde bu dokuz adım “küçük Sırlar” olarak adlandırılır. Onlar yola yeni giren kişiyi bilinçli olarak kendi geçmiş evrimi ve involusyon zamanındaki varoluş faaliyeti ile ilgili her şeyden geçirirlerdi. Ki böylece o, o zamanlar bilinçsiz olarak yaptığı işin biçimini ve anlamını anlayabilsin. O, şimdiki dokuzlu yapının (üçüz beden, üçüz can ve üçüz ruh) nasıl varedildiğini, büyük yaratıcı Hiyerarşilerin nasıl bakir ruh üzerinde çalıştığını, onda Ego’yu uyandırdığını ve onun bedeni biçimlendirmesine yardım edişini ve aynı zamanda insanın, üçüz bedenden şu anda sahip olduğu bu kadar çok şeyi ruhtan çıkarabilmek için kendi gerçekleştirdiği çalışmanın nasıl olduğunu öğrenir. Adım adım küçük Sırların dokuz basamağından, Yer’in dokuz katmanından geçirilir. 
+
+Şekil 18!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+9 sayısı şimdiki gelişim aşamamızın temel sayısıdır. O, sistemimizde başka hiçbir sayının olmadığı kadar özel bir öneme sahiptir. 9, Âdem’in, insan aşamasına Yer Evresi’nde erişmiş olan yaşamın sayısıdır. Yunanca’da olduğu gibi İbranice’de de rakamlar yoktur, ancak herbir harfin bir sayısal değeri vardır. İbranice’de “Âdem”, “ADM” şeklinde yazılır. “A”nın değeri 1; “D”nin 4 ve “M”nin değeri de 40’dır. Eğer bunları toplarsak 1+4+4+0+9=9’u, yani Âdem’in veya insanlığın sayısını buluruz. 
+
+Eğer insanın uzak geçmişte yaratımıyla ilgilenen Yaratılış Kitabı’ndan, onun gelecekte erişecekleriyle ilgilenen Vahiyler Kitabı’na dönersek insanı engelleyen canavarın sayısını 666 olarak buluruz (Esin 13:7) Buradaki rakamları toplarsak, 6+6+6= 18 ve tekrar 1+8= 9, kendisini ilerlemesinde engelleyen tüm kötülüğün kaynağı olarak yine insanlığın sayısını buluruz. Kurtarılacakların sayısına bakarsak onun sayısının 144.000 olduğunu görürüz. Yine önceki gibi toplarsak 1+4+4+000= 9, yine insanlığın sayısı... Böylece burada insanlığın toptan kurtarılacağı pratik olarak gösterilmektedir. Şimdiki evrimimizdeki ilerleme gücüne sahip olmayanların sayısı, tüm toplamla karşılaştırıldığında önemsiz bir sayıdır ve başarısızlığa uğrayan bu az sayı da kayıp değildirler, sonraki bir yaşam dalgasında ilerleyeceklerdir. 
+
+Maden ve bitki bilinci gerçekte bilinçsizliktir. İlk bilinç pırıltısı Hayvan krallığında başlar. En çağdaş sınıflandırmalara göre Hayvan krallığında 13 sınıf bulunduğunu görmüştük (1909): Radyal Simetrili’lerden (Radiata) üç grup, Yumuşakçalar’dan üç grup, Eklemliler’den üç grup ve Omurgalılar’dan dört grup. 
+
+Eğer insanı başlı başına bir grup olarak sayar ve insandan Tanrı’ya, bilinçli ve yaratıcı bir varlık olmaya başladığı andan itibaren onüç İnisiyasyon bulunduğunu hatırlarsak yine 9 sayısını buluruz: 13 + 1 + 13 = 27, 2 + 7 = 9. 
+
+9 sayısı aynı zamanda İsa Mesih’in yaşında da saklıdır; 33: 3 x 3 = 9 ve aynı şekilde Masonların derecelerinde de 33 bulunur. Eski zamanlarda Masonluk, daha önce de gördüğümüz gibi 
+
+9 dereceye sahipti ve küçük Sırlar için bir İnisiyasyon sistemiydi. Fakat inisiyeler çoğu kez 33 dereceden bahsetmişlerdir. Benzer şekilde Gülhaçcıların 18. derecelerinden bahsedildiğini okuruz. Ki bu derece, inisiye olmayan bir kişi için yalnızca bir perdedir. Çünkü herhangi bir küçük Sırda asla 
+
+9’dan fazla derece bulunamaz. Günümüzün Mason derecelerinde okült ritüelden çok az şey kalmıştır. 
+
+Aynı zamanda hamileliğin 9 ayına da sahibiz. Bu zaman süresince insan bedeni şimdiki derecesine kadar inşa edilir. Ayrıca bedenimizde 9 tane delik de bulunmaktadır: İki göz, iki burun deliği, iki kulak, bir ağız ve iki alt delik. 
+
+Gelişen insan, 9 küçük İnisiyasyondan geçtikten ve böylelikle Yer’in tüm katmanlarına erişim kazandıktan sonra, Yer’in en içine de girmek zorundadır. Bu ona, dört büyük İnisiyasyondan birincisi yoluyla açılır. Bu İnisiyasyonda o, varlığının Yer’de başlayan kısmı olan zihnin sırrını öğrenir. İlk büyük İnisiyasyona hazır olduğunda zihni, Yer Evresi sonunda tüm insanların erişeceği bir dereceye kadar gelişmiştir. Bu İnisiyasyonda ona bir sonraki aşamanın anahtarı verilir. Ve bundan sonra onun gerçekleştireceği bütün çalışma, genel olarak Jüpiter Evresi insanlığı tarafından da gerçekleştirilecektir ve şu an için bizi ilgilendirmemektedir. 
+
+Büyük İnisiyasyonundan sonra artık o bir üstad olmuştur. İkinci, üçüncü ve dördüncü İnisiyasyonlar, sıradan insanlık tarafından Jüpiter, Venüs ve Vülken Evrelerinde sıradan insanlığın ulaşacağı gelişim aşamalarına aittir. 
+
+Bu onüç İnisiyasyon, sembolik olarak Mesih ve O’nun oniki Havarisinde ifade edilmiştir. Yahuda İskariyot, acemi kişinin düşük doğasının haince eğilimlerini simgeler. Aziz Yuhanna Venüs inisiyasyonunu ve Mesih’in kendisi de Vülken Evresi’nin Tanrısal İnisiyas- yonunu simgelerler. 
+
+Okült ilmin değişik okullarında İnisiyasyon ritüelleri ve aynı zamanda İnisiyasyon sayısı hakkındaki görüşleri de birbirlerinden farklıdır. Fakat bu sadece bir sınıflandırma meselesidir. Kişi, verilebilecek böyle belirsiz tariflerin, daha yükseğe çıktıkça hep daha belirsiz ve daha genel olacağını fark edecektir. Yedi ve daha fazla dereceden bahsedildiğinde altıncı İnisiyasyona dair neredeyse hiçbir şey söylenmemekte ve onun ötesinden ise hiç mi hiç bahsedilmemektedir. Bu, başka bir sınıflandırmaya dayanır: Altı “Hazırlık” adımı ve aday’ı, Yer Evresi’nin sonunda üstadlığa götüren dört İnisiyasyon. Ayrıca eğer okulun veya cemaatin felsefesi bu kadar ileri gitmişse, üç tane daha adım olmalıdır. Ancak yazar Gülhaçcılardan başka, Yer Evresi’nden önceki üç Evreye ilişkin, bu Evrelerin varlığı dışında söyleyecekleri bir şey olan hiç kimseyi bilmemektedir. Bununla birlikte bu Evreler kesinlikle şimdiki varoluşumuzla ilişkilendirilmişlerdir. Aynı şekilde diğer okült öğretiler, sadece üç evrim şeması daha olacağını söylerler, ancak detaya girmezler. Elbette ki bu koşullar altında son üç İnisiyasyon’dan bahsedilmez. 
+
+Şekil 18, Yer Katmanlarının dizilimine ilişkin bir fikir verecektir. Merkezi çekirdek, dokuzuncu tabakadaki akımların kelebek eğrisi biçimlenmesini daha açık gösterebilmek amacıyla çıkarılmıştır. Şekilde katmanların tümü, bazılarının diğerlerinden çok daha ince olmalarına rağmen eşit kalınlıkta gösterilmişlerdir. Bu katmanlar, en dıştan başlayarak şu şekilde sıralanırlar: 
+
+1. Madensel Yer: Bu, yerin taştan kabuğudur. Onun içine girebildiği ölçüde Jeoloji’nin inceleme alanıdır. 
+
+2. Sıvı Katman: Bu katmanın maddesi, dış kabuktan daha sıvıdır. Ancak sulu değildir ve daha çok katı bir hamura benzer. Bu tabakanın, aşırı patlayıcı özelliği olan bir gaz gibi genişleme özelliği vardır ve ancak dış kabuğun muazzam basıncı altında birarada tutulur. Bu kabuk kaldırılmış olsaydı tüm sıvı tabaka çok büyük bir patlamayla uzayda kaybolurdu. Bu tabaka, fizik Âlemin Kimyasal ve Eterik Bölgelerine karşılık gelir. 
+
+3. Buhar Katmanı: Birinci ve ikinci katmanda gerçekten bilinçli yaşam yoktur. Fakat bu katmanda, tıpkı Dünyamızı çevreleyen ve ona nüfuz etmiş olan Arzu Âlemi’nde olduğu gibi hep akan ve titreşen bir yaşam bulunur. 
+
+4. Su Katmanı: Bu katmanda Yer yüzeyinde varolan her şeyin tohum halindeki olasılıkları bulunur. Grup ruhlarının arkasında bulunan arketip (model) güçler buradadır. Madenlerin arketip güçleri de burada bulunur, çünkü bu tabaka, Somut Düşünce Bölgesinin doğrudan fizik ifadesidir. 
+
+5. Tohum Katmanı: Maddi bilimadamları, yaşamın kökenini, ölü maddeden ilk canlı şeylerin nasıl meydana geldiğini keşfetme çabalarında genellikle yanılmışlardır. Gerçekte evrimin okült açıklamasına göre soru, nasıl olup da “ölü” şeylerin oluştuğu şeklinde olmalıydı. Yaşam, ölü Formlardan önce vardı . O, bedenlerini Yer’in katı kabuğunda katılaşmadan çok önce ince, buharlı maddeden yaptı. Ancak yaşam, kendilerini terk ettikten sonra formlar kristalleştiler, katı ve ölü hale geldiler. Kömür kristalleşmiş bitki bedeninden başka bir şey değildir. Mercan da hayvan formlarının kristalleşmesidir. Yaşam, formları terk eder ve formlar ölür. Yaşam hiçbir zaman bir forma, onu yaşama uyandırmak için gelmez. Yaşam formlardan ayrılır ve formlar ölür. Böylece “ölü” şeyler meydana gelir. Bu beşinci tabakada yaşamın, ilk kaynağı bulunur. Yer’deki tüm formları inşa eden güdü ondan gelmiştir. 
+
+6. Ateş Katmanı: Tuhaf görünse de bu katman, duygulara sahiptir. Zevk ve acı, sempati ve antipati, Yer’i buradan etkiler. Genel olarak Yer’in, hiçbir koşulda herhangi bir duyguya sahip olamayacağı sanılır. Ancak okült kişi olgun ekinlerin hasadını ya da sonbaharda ağaçlardan meyvelerin toplanmasını ya da çiçeklerin koparılmasını gördüğünde, aynı zamanda Yer’in kendisinin hissettiği hazzı da görür. Bu haz, doluluktan patlayan memelerini buzağısına emziren bir ineğin duyduğu hazzın aynıdır. Yer, Formların soyları için besin vermesinin hazzını duyar. Bu haz, hasat zamanı zirveye ulaşır. 
+
+Öte yandan okült kişi bilir ki, bitkiler köklerinden koparıldığında Yer, iğne sokması şeklinde bir acı duyar. Bu sebepten dolayı okült kişi, yeraltında büyüyen bitkisel yiyecekleri yemez. İlk olarak bu yiyecekler tamamen Yer gücüdürler ve onlarda Güneş gücü eksiktir. Ayrıca kökleriyle birlikte koparıldıklarında zehirli bir hale gelirler. Bunun tek istisnası, idareli olarak yenilebilecek olan patatestir. Bu sebze başlangıçta Yer yüzeyinde büyür ve ancak toplanmadan görece kısa bir süre önce yeraltında büyümeye başlar. Okült kişiler, bedenlerini Güneş’e doğru büyüyen meyvelerle beslemeye gayret ederler, zira bu besinler daha yüksek Güneş gücü içerirler ve Yer’in herhangi bir acı duymasına yolaçmazlar. 
+
+Madenciliğin Yer için çok acı verici olduğu zannedilebilir, ancak durum tam tersidir. Katı kabuğun her parçalanması, kurtulma hissine yolaçar ve her katılaşma, bir acı kaynağıdır. Bir dağ nehri toprağı sürükleyip onu düzlüklere taşıdığında Yer, kendini daha özgür hisseder. Tıpkı büyük bir nehrin başka bir nehirle ya da denizle birleştiği yerde oluşan kum yığınları gibi parçalanmış madde tekrar depolandığında, bu depolamaya eş olarak bir huzursuzluk duygusu oluşur. 
+
+İnsanlar ve hayvanlar duyu algılamalarını nasıl ayrı yaşam bedenlerine borçlularsa, aynı şekilde Yer’in duygusu da Yaşam Rûhu Âlemine karşılık gelen altıncı katmanda özellikle etkindir. Maden çalışmalarında sert kayalar parçalandığında hissedilen hazzı ve kum birikintileri yığıldığında hissedilen acıyı anlamak için Yer’in, büyük bir Rûhun yoğun bedeni olduğunu hatırlamamız gerekir. İçinde yaşayabileceğimiz ve deneyim kazanabileceğimiz bir çevre sağlamak için o, bedenini şimdiki katı haline kristalleştirmek zorundaydı. 
+
+Evrimin ilerlemesiyle insanın, bu somutlaşmanın zirvesine uyan dersleri öğrenmesinden sonra Yer, hep daha yumuşak olacak ve onun rûhu hep daha fazla özgürleşecektir. Bu Paulus’un, kurtuluş gününü inleyerek ve sancı çekerek bekleyen tüm yaratımdan bahsettiğinde kastettiği şeydir. 
+
+7. Yansıtıcı Katman: Yer’in bu kısmı, Tanrısal Rûh Âlemi’ne karşılık gelir. Burada okült ilimde “Yedi Söylenemez Sır” olarak bilinen şeyler bulunur. Bu sırları bilmeyen ve onların anlamlarından haberi olmayanlara bu katmanın nitelikleri özellikle anlamsız ve tuhaf görünürler. Onda bizim ahlaki ya da daha doğrusu ahlak dışı olarak bildiğimiz “Doğa Yasaları” adlı güçlerin tamamı bulunur. İnsanın bilinçli kariyerinin başında onlar, şimdikinden çok daha kötü idiler. Fakat öyle görünmektedir ki, insanlık ahlak yönünden geliştikçe bu güçler de aynı şekilde iyileşmektedirler. Ahlaka herhangi bir tecavüz, bu Doğa güçlerinin serbest kalmasına ve Yer üzerinde tahribatlar yapmasına yolaçmaktadır. Yüksek idealler için çalışmak, onların insanlığa karşı düşmanca tutumunu yumuşatır. Bu katmandaki güçler, insanlığın ahlaki durumunun tam bir yansımasıdır. Okült bakış açısından Sodom ve Gomorra’yı vuran “Tanrı’nın Eli”, aptalca bir hurafe değildir. Zira her bir birey, yaptıklarının iyi ve kötü sonuçlarını kendisine veren Sebep ve Sonuç Yasası karşısında bireysel olarak sorumlu olduğu gibi, toplumsal ve ulusal olarak da sorumludur. İnsan topluluklarının ortak eylemleri, bu eylemlere karşılık gelen sonuçları ortaya çıkarır. Doğa güçleri bu cezalandırıcı adaletin genel temsilcileridirler. Onlar, haketmeye bağlı olarak seller ve depremler, ya da hayırlı olarak petrol veya kömür oluşmasına yolaçarlar. 
+
+8. Atomistik Katman: Bu isim, Gülhaçcılar tarafından Yer’in, Bâkir Rûhlar Âlemi’nin ifadesi olan sekizinci katmanına verilmiştir. Bu katman, kendi içerisinde şeyleri çoğaltma yetisine sahip gibi görünmektedir. Ancak bu, sadece kesin anahatlarla biçimlendirilmiş şeyler için geçerlidir. Biçimsiz bir odun parçası veya yontulmamış bir taş, burada bir varoluşa sahip değildir. Fakat biçimlendirilmiş olan ve Yaşam ile Form’u olan her şey ( bir çiçek veya bir resim gibi) üzerinde bu katmanın hayret verici derecede çoğaltma etkisi vardır. 
+
+9. Yer Rûhunun Maddi İfadesi: Burada insan ırkının beyni, kalbi ve cinsel organları ile içsel olarak bağlı olan lemniskat (kelebek eğrisi) akımları bulunur. Burası Tanrı Âlemine karşılık gelir. 
+
+10. Yer Rûhu Varlığının Merkezi: Şu an için burası hakkında, burasının Yer üstünde ve altındaki her şeyin en son tohum toprağı olduğu ve Mutlak’a karşılık geldiğinden fazlası söylenemez. 
+
+Altıncı veya ateş katmanından Yeryüzeyine farklı yerlerde, bitimleri “volkanik kraterler” olarak adlandırılan ve belli bir sayıda olan bacalar çıkmaktadır. Yedinci katmandaki Doğa güçleri, kendilerini volkanik patlamalar olarak açığa vurabilmeleri için salıverildiklerinde ateş katmanını harekete geçirirler ve bu hareket, kraterin ağzına kadar devam eder. Maddenin ana kısmı ikinci katman tarafından alınır. Zira nasıl insanın ikinci aracı olan yaşam beden, yaşam ruhunun daha yoğun bir kopyası ise bu katman da altıncı katmanın daha yoğun bir kopyasıdır. Bu akışkan katman, genişleme ve yüksek patlayıcı olma özelliği ile volkanın patlama noktasında sınırsız madde deposudur. Maddenin, dış atmosfer ile temasta boşluğa fışkırtılmayan ve Lav ile tozu oluşturan kısmı, en sonunda tıpkı bir yaradan akan kanın pıhtılaşması ve kan akışını durdurması gibi lavın yerin iç kısımlarından gelen açıklığı mühürleyerek kapatacak şekilde sertleşir. 
+
+Yedinci Yer katmanındaki Doğa güçlerinin yokedici faaliyetini uyandıran insanlığın yansıtılmış ahlaksızlığı ve anti-ruhsal eğilimleridir. Bu olgudan da fark edilebileceği gibi bu felâketlere uğrayanlar, genellikle sefih ve yozlaşmış insanlardır. Onlar, kendi ürettikleri kaderin Sebep ve Sonuç Yasası hükmünce zor bir ölümü gerektirdiği diğerleriyle insanüstü güçler tarafından birçok ülkeden volkanik patlamanın meydana geleceği yere toplanırlar. Örneğin Vezüv’ün volkanik patlamaları, bu tespitin doğruluğunu ispatlayacaktır. 
+
+Son 2000 yıl boyunca (1909’a kadar) meydana gelmiş bu volkanik püskürmelerin listesi, onların oluşma sıklıklarının maddeciliğin (materyalizm) büyümesiyle arttığını gösterir. Özellikle maddeci bilimin, ruhsal her şeyi küstah ve radikal bir şekilde inkar ettiği son 60 yılda, volkanik püskürmelerin sayısı yükselmiştir. Mesih’den sonraki 1000 yılda yalnızca 6 volkanik patlama meydana gelmişken, gösterileceği gibi son 5 patlama, sadece 51 yıl içinde meydana gelmiştir (1909). 
+
+Milattan sonraki ilk volkanik patlama, Herculaneum ve Pompei şehirlerini yokeden ve yaşlı Plinius’un da can verdiği 79 yılında meydana gelen volkanik patlamadır. Diğer patlamalar şu yıllarda meydana gelmiştir: 203, 472, 512, 652, 982, 1036, 1158, 1500, 1631, 1737, 1794, 1822, 1855, 1872, 1885, 1891, 1906. 
+
+Önce de belirttiğimiz gibi Milattan sonraki ilk 1000 yılda 6, ikinci 1000 yılda ise 12 volkanik patlama meydana gelmiştir. Bu 12 patlamanın 5’i, son 51 yıl içinde olmuştur. 
+
+Toplam 18 volkanik patlamadan ilk dokuzu sözde “karanlık çağda” vuku bulmuştur. 1600 yıl süren bu dönemde Batı Dünyası’na hükmedenler, ya genel olarak “kâfir” olarak adlandırılanlar, ya da Katolik Roma Kilisesidir. Kalan süre de maddeci eğilimleri ile modern bilimin başlangıcı ve yükselişiyle tüm ruhsallığı özellikle 19. yüzyılın ikinci yarısında Dünya’dan kovduğu 300 yıllık dönemdir. Bu yüzden de volkanik patlamaların neredeyse üçte biri bu dönemde gerçekleşmiştir. 
+
+Bu moral bozucu etkiye karşı koymak için insanlığa bu süre zarfında, daima insanlığın hayrına çalışan Bilgeliğin Büyük Biraderleri tarafından okült öğretilerin büyük bir kısmı verilmiştir. Bu bilginin verilmesi ve bu bilgiyi almak isteyen birkaç kişinin yetiştirilmesi ile materyalizmle başedilebileceği düşünülmüştür. Aksi takdirde materyalizmin savunucuları için çok ciddi sonuçlar doğabilir. Uzun süre ruhsallığın varlığını inkar etmiş olan insanlar, yoğun bedenlerinden mahrum kaldıklarında hâlâ yaşıyor olduklarını fark ettiklerinde kendi dengelerini bulamazlar. Bu insanların hissesine öyle bir kader düşebilir ki, onu kayıtsızlıkla izlemek çok üzücüdür. Çok korkulan “beyaz vebâ”nın sebeplerinden biri de bu materyalizmdir. Belki onun insanların şimdiki yaşamıyla ilgisi kanıtlanamaz, ancak geçmiş materyalist inanç ve iddiaların sonucu olduğu kesindir. 
+
+Pompei’nin yokolduğu zamanda yaşlı Plinius’un ölümünden bahsettik. Bir bireyin değil ama böyle bir bilgin’in kaderini izlemek, onun ışığı ne şekilde saçtığını, Doğa’nın hafızasının okült bilgin tarafından okunduğunu, belirtilerin nasıl onun üzerine işlendiği ve geçmiş özelliklerin etkisinin kendisini nasıl şimdiki eğilimlerde gösterdiğini görmek enteresandır. 
+
+Bir insan öldüğünde onun yoğun bedeni parçalanmaya başlar. Ancak bu insanın güçlerinin tamamı Yer’in yedinci ya da yansıtıcı katmanında bulunur. Bu katmanın geçmiş formları güçler olarak bulunduran bir depo olduğu söylenebilir. Bir kişinin ölüm saatini biliyorsak ve bu depoyu araştırırsak onun formunu da burada bulmamız mümkündür. Onu sadece burada değil, çoklayıcı katman olan sekizinci ya da atomik katmanda da bulabiliriz. Burada o, diğerleri tarafından kopyalanabilmesi ve değiştirilebilmesi için çoğaltılır. Böylece o, tekrar tekrar diğer bedenlerin biçimlendirilmesinde kullanılır. Yaşlı Plinius gibi bir adamın beyin eğilimleri bin yıl sonra tekrarlanmış ve kısmen şimdiki materyalist bilginler akımının sebebi olmuş olabilir. 
+
+Çağdaş maddeci bilimadamlarının daha öğrenecekleri ve inandıklarından vazgeçecekleri çok şey vardır. Alay ederek okült ilmin gerçeklerini “yanıltıcı fikirler” olarak adlandırıp, onlarla sonuna kadar savaşmalarına karşın, onların gerçek olduklarını birer birer tanıyıp kabul etmeye zorlanacaklardır. Er ya da geç onların tamamını kabul etmek zorunda kalacaklardır. 
+
+Büyük Biraderler tarafından gönderilmiş olan Mesmerle sınırsızca alay edildi. Fakat materyalistler onun tarafından keşfedilen gücü “Mesmerizm” yerine “hipnotizm” olarak adlandırdıklarında Mesmer bir anda “bilimsel” oluverdi. 
+
+Doğu öğretmenlerinin sadık bir öğrencisi olan Bayan Blavatsky 1889 yılında Dünya’nın, gündüz, gece ve mevsimleri yaratan iki hareketine ek olarak üçüncü bir hareketi daha olduğunu söyledi. Ve de Yer Ekseni’nin eğik olmasının zamanla kuzey kutbunu şimdi ekvatorun bulunduğu yere ve daha sonra da şimdi güney kutbunun bulunduğu yere getireceğini bildirdi. Yine belirtti ki, bu olay eski Mısırlıların bildiği bir şeydi ve Dendera’daki meşhur düzlemküre onların, Dünya’nın bu üç hareketinden haberdar olduklarını göstermektedir. Bu tespitler, onun eşsiz eseri “Gizli Doktrin” gibi haykır- maktadır. 
+
+Birkaç yıl önce Bombay’dan astronom G. E. Sutcliffe, Laplace’ın hesaplamalarında bir hata yaptığını keşfetti ve bunu matematiksel olarak ispat etti. Bu hatanın keşfi ve düzeltilmesi, H. P. Blavatsky’nin iddia ettiği gibi Dünya’nın üçüncü bir hareketinin varlığını matematiksel olarak onayladı. Bu aynı zamanda şimdiye kadar şaşırtıcı bir durum olan, kutup bölgelerinde tropik hayvan ve bitki kalıntılarının bulunmasına da bir açıklama getiriyordu. Böyle bir hareket zamanla Yer’in tüm kısımlarında, Güneş’e göre değişen konumlarına uygun olarak tropik ve buzul dönemler oluşturmaktadır. Bay Sutcliffe makalesini ve ispatını “Nature” adlı bir dergiye gönderdi. Ancak dergi onları basmayı kabûl etmedi. Fakat Bay Sutcliffe keşfini bir kitapçık halinde yayımladığında toplumda bir öfke dalgası uyandı. Onun “Gizli Doktrin”i detaylı olarak çalıştığı biliniyordu. Bu da makaleye gösterilen düşmanca tavrı ve onun kaçınılmaz sonuçlarını izah etmektedir. 
+
+Ancak daha sonra astronom değil mekanikçi olan bir Fransız, böyle bir hareketin varolma olasılığının çok büyük olduğunu gösteren bir âlet yaptı. Bu alet, Saint Louis’deki “Louisiana Purchase Exhibition”da sergilendi ve Bayan Camille Flammarion tarafından araştırmaya değer kaydıyla çok sıcak bir şekilde desteklendi. Burada biraz somut ve “mekanik” bir şey vardı, ancak “The Monist”in editörü, onun muciti olan kişiyi “mistik yanılsamalar” içindeki bir adam olarak sunmasına rağmen (o da eski Mısırlıların bu üçüncü hareketi bildiklerine inanıyordu) yine de onun bu özelliğine cömertçe göz yumarak, bu yüzden Bay Beziau’nun teorisine olan inancını kaybetmediğini söyledi. Bay Beziau bir okültist olarak kesinlikle “afişe edilmedi”, bu yüzden de onun keşfi desteklendi. 
+
+Okült bir bilgiyi maddi bilimin sonradan nasıl doğruladığına dair birçok örnek verilebilir. Bunlardan biri de Yunan felsefelerinde ve daha sonra da “Gizli Doktrin”de savunulan atom teorisidir. O sözümona 1897’de Profesör Thomson tarafından “keşfedilmiştir”. 
+
+Bay A. P. Sinnett’in 1896’da yayımlanan değerli eseri “Ruhun Büyümesi”nde Neptün’ün yörüngesi dışında iki gezegenin bulunduğu ve yazarın görüşüne göre onlardan yalnızca birinin çağdaş astronomlar tarafından keşfedilebileceği belirtilmiştir. Nature adlı dergi 1906 Ağustos’unda Projesör Barnard’ın 36 inch’lik Lick-reflaktörü ile 1892’de böyle bir gezegen keşfettiğini yazdı. O, bu konuda yanılmamıştı, ancak keşfini ilan etmek için ondört yıl bekledi. Ancak bunun için üzülmeye gerek yok. Temel nokta olan gezegen buradadır ve Profesör Barnard’ın iddiasından on yıl önce A. P. Sinnett onu kitabında yazmıştı. Herhalde yeni keşfedilen gezegenin 1906’dan önce bildirilmesi genel olarak kabul edilmiş teoride karışıklığa yolaçacaktı! 
+
+Böyle birçok teori vardır. Kopernik’in teorisi tamamen doğru değildir ve yalnızca, çok övülen Nebula Teorisi ile açıklanamayan birçok olgu vardır. Meşhur danimarkalı astronom Tycho Brahe, Kopernik teorisini kabul etmemiştir. Onun, Batlamyus sistemine sadık kalmak için çok iyi nedenleri vardı. Çünkü Batlamyus Teorisinde gezegenlerin hareketleri tamamen doğru hesaplanabiliyorken, Kopernik Teorisi’nde bunun için bir düzeltme tablosuna gereksinim vardı. Batlamyus Teorisi, Arzu Âlemi’nin bakış açısından doğrudur ve Fizik Âlemde gereken bazı noktalara sahiptir. 
+
+Yukarıdaki sayfalarda açıklananlar birçokları için fantastik olarak görülebilirler. Öyle olsa da zaman, burada sunulan gerçeklerin bilgisini herkese getirecektir. Bu kitap, aklını ortodoks bilimin ve ortodoks dinin zincirlerinden kurtarmış ve bu öğretileri yanlış oldukları kanıtlanmadığı sürece almaya hazır olan çok az kişi için yazılmıştır. 
+
+### <h3 id="chapter-19">19. Bölüm: Christian Rosenkreuz ve Gülhaç Tarikatı</h3>
+
+#### <h4 id="ancient-truths-in-modern-dress">Modern Elbise İçindeki Antik Gerçekler</h4>
+
+Kamuoyunda Gülhaç Tarikatı hakkında bir şeyler öğrenmek için yaygın bir talep bulunduğundan ve Gülhaç Biraderlerinin Batı uygarlığında sahip olduğu önemli yer, kendi öğrencilerimiz arasında bile çok az anlaşıldığından konu hakkında doğru bilgi vermek iyi olacaktır. 
+
+Dünya’daki her şey yasalara tâbidir. Bizim evrimimiz bile yasalara göre yönlendirilmektedir. Ruhsal ve fizik gelişim el ele giderler. Güneş, fizik ışık kaynağıdır ve bildiğimiz gibi doğudan batıya doğru gidiyor görünerek Yer’in bir kısmından diğerine ışık ve yaşam getirir. Fakat nasıl insanın görünür bedeni, onun çok parçalı yapısının yalnızca bir parçası ise görünür güneş de güneşin yalnızca bir parçasıdır. Işınları, birbiri ardına Yer’in kısımları üzerindeki ruhun büyümesini sağlayan görünmez ve ruhsal bir güneş vardır. Bu ruhsal tepi (impulse) fizik güneş ile aynı yönde, doğudan batıya doğru gider. 
+
+İsa’dan altı ya da yedi yüzyıl önce Pasifik Okyanusunun batı kıyısı yakınlarında yeni bir ruhsallık dalgası harekete geçirildi. Onun amacı Çin halkına aydınlanmayı getirmekti. Konfüçyüs’ün dinini göksel krallıkta günümüze dek milyonlarca kişi benimsedi. Daha sonra bu dalganın etkisini Buda’nın dininde gördük. Bu din, milyonlarca Hindu’nun ve batılı Çinlinin ruhsal çabalarını uyandırmaya yönelik bir öğretiydi. Batıya doğru olan yolunda daha entelektüel olan Yunanlılar arasında Pisagor ve Plato’nun yüksek felsefesinde göründü. Ve en sonunda insan ırkının öncüleri arasında Hristiyan dininin yüce formunu aldığı Batı Dünyası’na yayıldı. 
+
+Hristiyan dini Batı’ya doğru ruhsal çabaların toplandığı ve yoğunlaştırıldığı Pasifik Okyanusu’nun kıyılarına kadar yayıldı. Orada bunlar, okyanus üzerinde yeni bir sıçrama yapmadan önce Doğu’da, Dünya’nın herhangi bir yerinde varolandan daha yüksek ve daha azametli ruhsal bir uyanışı başlatmak için bir zirve noktasına ulaşacaklar. 
+
+Gündüz ve gece, Yaz ve Kış, Med ve Cezir, nasıl değişen çevrimler yasasına göre birbirlerini hiç kesintisiz takip ediyorlarsa, aynı şekilde bir ruhsal uyanış dalgasının Dünya’nın herhangi bir bölgesindeki görünmesini de, gelişimimizin tek taraflı olmaması için bir maddi tepkiler evresi takip eder. 
+
+Din, Sanat ve Bilim, insan eğitiminin en önemli üç aracıdırlar. Ve onlar, araştırdığımız herhangi bir konuda bakış açımızı kaybetmezsek birbirlerinden ayrılamayacak bir şekilde birlik içinde üçlüdürler. Gerçek din, hem sanatı ve hem de bilimi kapsar, zira o, doğa yasaları ile uyum içinde güzel bir yaşamı öğretir. 
+
+Gerçek bilim, en yüksek anlamda sanatsal ve dinseldir. Zira o bize, bizim mutluluğumuzu yöneten yasalara saygı duymamızı ve onlara uymamızı öğretir. Ve de dinsel bir yaşamın neden sağlık ve güzellik getirdiğini açıklar. 
+
+Gerçek sanat, bilim kadar eğiticidir ve etki olarak din kadar yükselticidir. Mimarlıkta, evrendeki kozmik güç çizgilerinin en yüksek sunumunu buluruz. O, ruhsal bakan kimseyi Tanrısallığın büyüklük ve görkeminin huşu uyandıran anlayışından kaynaklanan güçlü bir sadakat ve tapınma duygusu ile doldurur. Heykeltıraşlık ve ressamlık, müzik ve edebiyat bizi, tüm bu güzel Dünya’nın değişmez kaynağı ve hedefi olan Tanrı’nın güzelliğinin üstün bir sezgisiyle doldurur. 
+
+Ancak böyle her şeyi kapsayan bir öğreti insanlığın gereksinimlerine sürekli olarak cevap verebilir. Yunanlılarınki kadar geç bir çağda bile Gizem Tapınaklarında Din, Sanat ve Bilim birleşik olarak öğretiliyordu. Fakat sonradan her birinin daha iyi gelişmesi için belli bir süreliğine ayrılmaları zorunlu oldu. 
+
+Sözde “karanlık çağlar” boyunca tek egemen Din’di. Bu zaman boyunca o, Bilim ve Sanat’ın ellerini ve ayaklarını bağladı. Sonra Rönesans dönemi geldi ve tüm dallarıyla Sanat, başa geçti. Ancak Din hâlâ çok güçlüydü ve Sanat, Din’in hizmetinde çok fazla kötüye kullanıldı. Son olarak da modern Bilim dalgası geldi ve Din’i demir elle hükmü altına aldı. 
+
+Dinin Bilimi zincirlemesi Dünya’yı geriletmişti. Cehalet ve Hurafe, tarifsiz acıya neden oldu. Yine de insan, yüce bir ruhsal ideale değer verdi ve daha yüksek ve daha iyi bir yaşamı umut etti. Ancak Bilim’in Din üzerindeki yıkıcı etkisi çok daha korkunç oldu. Zira Tanrıların Pandora’nın kutusunda bıraktıkları tek ihsan olan umut bile Materyalizm ve Agnostisizm karşısında yok olabilir. 
+
+Böyle bir durum devam edemez. Tepki ortaya çıkmalıdır. Eğer bu olmazsa anarşi, Evreni parçalayacaktır. Din, Bilim ve Sanat, bir felâketi önlemek için İyi’nin, Gerçeğin ve Güzelin birbirlerinden ayrılmadan önce edindiklerinden daha da yüksek bir ifadesinde tekrar birleşmelidir. 
+
+Gelen olaylar gölgelerini gösteriyor. İnsanlığın Büyük Liderleri, Batı Dünyasında her tarafa yayılmış ultramateryalizm eğilimini gördüklerinde bu tehlikeli zamanda ona karşı koymak ve onu dönüştürmek için belli adımlar atacaklardır. Onlar, yeni tomurcuklanan Bilim Din’i nasıl öldürdüyse onu da öyle öldürmeyi dilemediler. Zira onlar, gelişmiş bir Bilimin tekrar Din ile aynı safta çalıştığında nihai İyi’nin ortaya çıkacağını gördüler. 
+
+Ancak yağ suyla ne kadar karışabilirse ruhsal bir Din de materyalist bilimle o kadar karışabilir. Bu yüzden Bilimi ruhsallaştırmak ve Dini de bilimselleştirmek için çeşitli adımlar atıldı. 
+
+Onüçüncü yüzyılda sembolik ismi Christian Rosenkreuz (Mesihçi Gül-Haç) olan yüksek bir ruhsal öğretmen bu işe başlamak için Avrupa’da göründü. O, okült ışığı yanlış anlaşılmış olan Hristiyanlık Dini üzerine tutmak ve Yaşamın ve Varlığın gizemini Din ile uyum içerisindeki bilimsel bir bakış açısından araştırmak gayesiyle gizemli Gülhaç Tarikatını kurdu. 
+
+Onun Christian Rosenkreuz olarak doğumundan ve Gülhaçcı Gizem Okulu’nu kurmasından bu yana yüzlerce yıl geçti ve onun varlığı birçokları tarafından bile hâlâ bir efsane olarak görülüyor. Ancak onun Christian Rosenkreuz olarak doğumu Batı Dünyasının ruhsal yaşamında yeni bir çağın başlangıcını ifade ediyor. Bu özel Ego, o zamandan beri kesintisiz olarak fizik varlığıyla birinden diğerine Avrupa ülkelerinde bulunuyor. Eski araçları kullanılamaz hale gelince veya koşullar faaliyet gösterdiği bölgeyi değiştirmesini gerektirdiğinde kendisine yeni bir beden alıyor. Üstelik o, bugün de yüksek dereceden bir İnisiye olarak bedenlenmiş durumda ve Dünya bunu bilmese de Batı’nın bütün meselelerinde etkin bir faktördür. 
+
+O, modern Bilimin uyanmasından yüzyıllar önce simyagerlerle çalıştı ve bir aracı vasıtasıyla Bacon’un günümüzde bozulmuş eserlerini ona ilham etti. Jacob Boehme ve diğerlerinin eserleri, onun aracılığıyla aldıkları ilham sayesinde ruhsal yönden bu kadar parlak hâle geldi. Ölümsüz Goethe’nin eserlerinde ve Wagner’in şaheserlerinde de aynı etkiyi buluruz. Kendisini ne ortodoks bilim veya ortodoks din tarafından zincirlere vurdurtmayan, kabuklarını kıran ve kötülük ve dalkavukluk yapmadan ruhsal çekirdeğe nüfuz eden tüm korkusuz ruhlar, Christian Rosenkreuz’da da bulunan yüce Rûh ile aynı kaynaktan kendi ilhamlarını aldılar. 
+
+Onun ismi bile günümüz insanının Tanrısal Üstün insana dönüşme yöntemi ve aracının bir simgesidir. Bu sembol, 
+
+    “Christian Rosen Kreuz”   
+    Mesihçi Gül Haç   
+
+Bize insan evriminin amacını ve hedefini, yani gidilmesi gereken yolu ve kendisi aracılığıyla bu hedefin erişilebileceği yöntemi gösterir. Siyah haç, bitkinin yeşil içinde haçı çevreleyen kökü, dikenler, kan kırmızısı gül.. Tüm bunlarda Dünya’nın Gizeminin gizli çözümü yatmaktadır: İnsanın geçmişteki gelişimi, şimdiki bileşimi ve her şeyden önce gelecekteki gelişiminin sırrı. 
+
+O, inançsızdan gizlidir, fakat İnisiye kişiye, kendisini mücevherlerin en nâdiri olan Filozof Taşı (Kohinor’dan daha değerli, hayır, Dünya’nın tüm hazinelerinden daha değerli) yapmak için gün be gün nasıl çalışması gerektiğini gösterecek kadar açıktır. O ona insanlığın cahilliğiyle elindeki bu paha biçilmez mücevheri oluşturmada kullanılabilecek malzemeyi devamlı boşa harcadığını hatırlatır. 
+
+İnsanın yaşamın her zorluğunda sâbit ve sâdık kalması için Gülhaç, bir ilham olarak galip gelen kişinin muhteşem mükemmelliğine işaret eder. Ve de Umut Yıldızı olarak Mesih’i, İsa’nın bedenine girdiğinde bu olağanüstü taşı yapanın “ilk meyvelerini” gösterir. 
+
+Araştırmalarla bulunmuştur ki, tüm dinsel sistemler, yalnızca o dinin din adamları için olan ve kitlelere verilmemiş bir öğretiyi içermektedir. Mesih de halka, bazı şeyleri doğrudan söylememiş ve benzetmelerle konuşmuştur. O Havarilerine bu benzetmelerin içsel anlamlarını, kendi gelişmiş ruhlarına uygun olarak derin bir anlayış onlarda uyandırmak için açıklamıştır. 
+
+Paul bebeklere ya da cemaatin genç üyelerine “süt”, fakat daha derine inmiş olan güçlülere “et” verdi. Bu şekilde daima bir iç ve bir dış öğreti vardı. Bu içsel öğreti, içinde bulundukları ve etkilemek istedikleri halkın gereksinimlerine uymak için zamana göre değişen Gizem Okullarına verildi. 
+
+Gülhaç Tarikatı yalnızca gizli bir cemiyet değildir. O, Gizem Okullarından biridir. Ve de Biraderler, Küçük Sırların rahipleri ve Kutsal Öğretilerin Bekçileridirler. Onlar, Batı Dünyası’nın yaşamında herhangi bir görünür hükümetten, hükümetler gibi insanların hür iradelerine müdahale etmemelerine rağmen daha kuvvetli olan ruhsal bir güçtürler. 
+
+Gelişim yolu daima talip kişinin karakterine bağlı olduğundan mistik ve entelektüel olmak üzere iki yol vardır. Mistik kişi genellikle entelektüel bilgiden yoksundur. O, kalbinin emirlerine uyar ve Tanrı’nın iradesini, onu hissettiği şekilde gerçekleştirmeye uğraşır. Herhangi bir belirli hedefin bilincinde olmaksızın yükselir ve sonunda bilgiye erişir. Ortaçağda halklar, günümüzde bizim olduğumuz kadar entelektüel değillerdi ve daha yüksek bir yaşamın çağrısını hisseden kişiler mistik yoldan gittiler. Fakat son birkaç yüzyılda modern bilimin yükselişi ile Dünya daha entelektüel bir insanlıkla doldu. Beyin, Kalp üzerinde tamamen egemen oldu, materyalizm tüm ruhsal tepileri boyunduruğu altına aldı. Aydın insanların çoğunluğu dokunmak, tat almak veya hissetmekten başka herhangi bir şey yapabileceklerine inanmıyor. Bu yüzden şimdi zihne bir çağrı yapma zamanıdır. Kalbin, zihnin onayladığı şeye inanmasına izin verilmelidir. Bu isteğe göre Gülhaç Gizem öğretileri bilimsel olguları ruhsal gerçeklerle ilişkilendirme amacındadır. 
+
+Geçmişte bu öğretiler sadece birkaç İnisiye kişi haricinde herkesten saklı tutuldu ve bugün bile Batı Dünyası için hâlâ çok gizemli ve bilinmezdirler. Geçmişin, Gülhaç sırlarını ortaya çıkardığını iddia eden tüm sözde “keşifleri” ya sahteydiler ya da onun anahtarına sahip olmayan herkes için anlaşılmaz olan sohbetlerin bazı kısımlarına kulak misafiri olan tarikat dışından kişilerin ihanetlerinin sonucuydular. Kişinin herhangi bir okuldan bir İnisiye kişi ile aynı çatı altında ve en yakın samimiyet içinde yaşaması mümkündür. Fakat İnisiye kişinin göğsündeki sır, arkadaşı Birader İnisiye olabileceği basamağa erişene dek onda saklı kalacaktır. Sırların açılması İnisiye kişinin iradesine değil, talip kişinin niteliklerine bağlıdır. 
+
+Diğer tüm Sır Cemaatleri gibi Gülhaç Tarikatı da evrensel yasalara uyar. Aynı büyüklükte topları alır ve bir tanesini gizlemek için onu çevreleyen kaç tane topa ihtiyaç duyacağımızı incelersek görürüz ki onüçüncü topu gizlemek için oniki tane top gereklidir. Fizik maddenin en küçük parçası olan ve gezegenler arası bölgede bulunan gerçek atom, aynı şekilde Bir’in etrafında Oniki şeklinde gruplanmıştır. Güneş Sistemimizi Oniki Burç sarar. Müzik gamının Oniki yarım tonu, oktavları kapsar. Mesih’in etrafında Oniki Havari toplanmıştır. Bu şekilde bize 12 ve 1 ilişkisini gösteren başka örnekler de vardır. Bu yüzden Gülhaç Tarikatı da 12 Birader ve bir 13. Birader’den oluşur. 
+
+Ancak başka bölümlemeler de gözlenebilir. Bizim evrim şemamızda faal olan Oniki Yaratıcı Hiyerarşinin oluşturduğu Göksel Melekler topluluğundan beş Yaratıcı Hiyerarşinin yeniden özgürlüğe döndüklerini ve sadece yedi Hiyerarşi’nin, bizim bundan sonraki gelişimimizle ilgilenmek için kaldıklarını daha önce görmüştük. Buna uygun olarak günümüz insanı, içte oturan Ego, mikrokozmos, bedenindeki yedi görünür delik aracılığıyla dışarıya doğru faal olur: İki göz, iki kulak, iki burun deliği ve bir ağız. Diğer beş delik ise tamamen veya kısmen kapalıdır: Meme uçları, göbek ve iki boşaltım organı. 
+
+Güzel amblemimizi süsleyen yedi gül ve onun arkasında parlayan beş kollu yıldız, gelişen insan ruhuna önceki maden, bitki ve hayvan aşamalarında ve bilinçsiz durumunda kendi kendisi ile en küçük bir derecede bile ilgilenmekten yoksun bir halde iken yardım eden oniki Büyük Yaratıcı Hiyerarşi’yi simgelerler. Bu Oniki Yüce Varlık grubundan üçü insanın üzerinde ve içinde kendi istekleriyle ve herhangi bir yükümlülükleri bulunmaksızın çalıştılar. 
+
+Bunlar amblemimizde yıldızın yukarıyı gösteren üç ucuyla simgelenmişlerdir. İki Büyük Hiyerarşi daha geri çekilme noktasındadırlar ve bunlar da yıldızın aşağıya bakan iki ucuyla gösterilmişlerdir. Yedi gül, halen yedi Büyük Yaratıcı Hiyerarşi’nin Yeryüzeyindeki varlıkların gelişiminde aktif oldukları gerçeğini açığa vurur. En küçüğünden en büyüğüne kadar tüm bu çeşitli Hiyerarşilerden varlıklar, bizim Tanrı dediğimiz bütünün parçaları olduklarından tüm amblem Tanrı’nın açığa çıkarılmış bir sembolüdür. 
+
+Hermetik ilke şöyle der: “Yukarıda nasılsa, aşağıda öyledir”. İnsanlığın küçük öğretmenleri de 7, 5 ve 1’in aynı kozmik çizgileri üzerinde gruplanmışlardır. Yer üzerinde küçük Gizemlerin yedi, büyük Gizemlerin de beş okulu vardır. Bunların tümü, Kurtarıcı (Liberator) olarak adlandırılan bir tek merkezi Başkan etrafında toplanmışlardır. 
+
+Gülhaç Tarikatı, durum gerektirdiğinde Dünya’ya daima yedi Birader yollanmıştır. Onlar insanlar arasında ihtiyaca göre ya insan olarak görünmüşler veya görünmez araçlarında diğerleriyle birlikte veya diğerleri üzerinde çalışmışlardır. Fakat her zaman şunun bilincinde olunması gerekir ki, onlar hiç kimseyi o kimsenin iradesinin veya arzularının aksine zorlamamışlardır, sadece İyi’yi, her nerede buldularsa orada güçlendirmişlerdir. 
+
+Kalan beş Birader ise tapınağı hiçbir zaman terk etmemiştir ve fizik bedenlere sahip olmalarına karşın tüm çalışmalarını iç Âlemlerden yürütmüşlerdir. 
+
+Onüçüncüsü Tarikatın Başıdır ve Büyük Gizem Rahiplerinden oluşan daha yüksek bir Merkezi Meclis ile bağlantıyı sağlar. Bu meclis sıradan insanlıkla hiçbir biçimde uğraşmaz ve ancak küçük Gizemlerin mezunları ile ilgilenir. 
+
+Tarikatın başı, tıpkı örneğimizde belirttiğimiz merkezi top gibi dış dünyadan Oniki Birader aracılığıyla saklıdır. Okulun öğrencileri bile onu asla görmezler, ancak Tapınaktaki gece yapılan dini ayinlerde içeriye girdiğinde herkes tarafından hissedilir, ki bu da ayinin başlangıcının işaretidir. 
+
+Gülhaç Biraderlerinin etrafında öğrencileri olarak belli bir sayıda “gönüllü Birader” toplanır. Onlar, Batı Dünyası’nın çeşitli bölgelerinde yaşayan ve bedenlerini bilinçli olarak terk etme yetisine sahip insanlardır. Âyinlerde hazır bulunurlar ve tapınaktaki ruhsal çalışmaya katılırlar. Onlardan herbiri, Büyük Biraderler’den biri tarafından burada “inisiye edilmiştir”. Ve de çoğu tüm bu olanları hatırlayabilir. Fakat birkaç durumda, bedeni terk etme yetisi önceki erdemli yaşamlardan birinde kazanılmış olanların durumuyla, bir uyuşturucu bağımlılığı veya şimdiki yaşamda oluşmuş bir hastalığın, yoğun bedeninin dışındayken kişinin beyninin bu çalışmanın izlenimlerini almasını engellediği durumlarda kişi tapınakta olanları hatırlamayabilir. 
+
+#### <h4 id="initiation">İnisiyasyon</h4>
+
+Genel olarak inisiyasyonda, kişinin gizli bir cemaatin üyesi olduğu âyin düşünülür. Belli bir bedel (pek çok durumda belli bir para) ödemeye razı olan herkesin bu âyinle inisiye olabileceği zannedilir. 
+
+Bu, kardeşlik tarikatlarında ve sahte okült tarikatların büyük çoğunluğundaki sözde inisiyasyon için geçerli olabilir. Ancak bunun, gerçek okült Kardeşliklerin çeşitli derecelerdeki inisiyasyonları için de geçerli olduğunu düşünmek tamamen yanlıştır. Gerçek gereksinimleri ve onların akla yatkınlığını biraz anlamak, bunu hemen açıklığa kavuşturacaktır. 
+
+İlk olarak tapınak için altın anahtar yoktur. Burada para değil liyakat önemlidir. Liyakat de bir günde kazanılmaz. O, geçmişteki iyi eylemlerin birikmesinin bir sonucudur. İnisiyasyon adayı genelde bir aday olduğunun farkında bile değildir. O genellikle toplum içinde hayatını sürer ve günler ve yıllar boyunca herhangi bir saklı düşüncesi olmaksızın hemcinslerine hizmet eder. 
+
+Şekil G!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Bir gün bir küçük Gizemler Rahibi onun yaşamına girer. Bu, onun içinde yaşadığı ülkeye uygun olarak gerçekleşir. Aday kendisinde belirli yetiler geliştirmiştir, belirli ayin ve yardım güçleri depolamıştır. Ancak genelde bu güçlerin bilincinde değildir ya da onları nasıl değerlendireceğini bilemez. İnisiye edecek kişinin işi şimdi basittir. O, adaya gizil yetileri, uykudaki güçleri gösterir ve bu güçlerin kullanımına onu inisiye eder. Durağan (statik) enerjisini uyandırarak onu nasıl devingen (dinamik) enerji haline getirebileceğini ona ilk defa açıklar veya gösterir. 
+
+İnisiyasyon bir ayinle gerçekleştirilebilir ya da gerçekleştirilemeyebilir. Ancak şuna özellikle dikkat edilmelidir ki, uzun ruhsal çabaların kaçınılmaz zirvesi olan İnisiyasyon, hiçbir zaman bilinçli veya bilinçsiz olarak adayda, zorunlu içsel gelişim gizil güçleri biriktirmeden önce asla tamamen gerçekleşemez. İnisiyasyon, bu güçleri dinamik olarak kullanmayı öğretir. Mermiyle önceden yüklenmediği sürece bir silahta tetiği çekmek patlamaya yol açmaz. 
+
+Zorunlu gelişimi elde etmiş herhangi bir kişinin, öğretmenin gözünden kaçması hiçbir tehlike yaratmaz. Her iyi ve bencilce olmayan eylem, adayın aura’sının parlaklık ve titreşim gücünü olağanüstü arttırır. Mıknatısın topluiğneyi çekmesi ne kadar gerçekse, aura ışığının parlak oluşunun da öğretmeni getirecek olması o kadar gerçektir. 
+
+Elbette ki genel halk için yazılmış bir kitapta Gülhaç İnisiyasyon’un aşamalarını anlatmak mümkün değildir. Bunu yapmak, güveni kötüye kullanmak olurdu. Ayrıca kelimelerin yetesizliğinden dolayı bu İnisiyasyonları yeterince açık anlatmak da mümkün olmazdı. Fakat İnisiyasyonun ana hatlarını vermek ve onun amacını göstermek hoşgörülebilir. 
+
+Küçük Gizemler insanlığın yalnızca Yer Evresi’ndeki gelişimi ile ilgilenir. Yaşam dalgasının yedi Küre etrafındaki yolculuğunun ilk üçbuçuk Devrinde Bâkir Ruhlar henüz bilinç elde edemediler. Bu yüzden bugünkü durumumuza nasıl eriştiğimiz konusunda bilgisiziz. Tâlip kişiye bu nokta açıklanmalıdır. Râhibin büyüsüyle ilk dereceye inisiyasyon esnasında bilinç, Doğa’nın Hafızasının, içerisinde Satürn Evresi’ndeki gelişimi tekrarladığımız birinci Devir kayıtlarının bulunduğu sayfaya yönlendirilir. Kişi hâlâ günlük bilincine tam olarak sahiptir ve yirminci yüzyıl yaşamının gerçeklerini bilir ve hatırlar, ancak şu anda bilinçli olarak Satürn Devrinde ait olduğu gelişen Bâkir Ruhların ilerlemesini izlemektedir. Böylece o, Yer Evresi’nde ilk adımların nasıl atıldığını öğrenir. Bu gelişimin hedefi, daha sonra gerçekleştirilecek bir adımda ifşa edilecektir. 
+
+10. Bölüm’de anlatılmış olan öğretileri öğrendikten sonra aday, bu konu hakkında ilk elden bilgiyi edinmiş ve Yaratıcı Hiyerarşilerle ve onların insanla ve insan üzerindeki çalışmalarıyla doğrudan temasa geçmiştir. Bu yüzden şimdi aday için onların rahmet dolu çalışmalarının değerini bilmesi ve belli ölçüde onlarla aynı çizgiye gelerek bu şekilde onların yardımcısı olması mümkündür. 
+
+Onun için ikinci derece İnisiyasyon zamanı geldiğinde benzer şekilde dikkati, Yer Evresi’nin, Doğa’nın Hafızasında kopyalanmış olan ikinci Devri’ne yöneltilir. Ve de o, tam bilinçli bir şekilde bu süre boyunca Bakir Ruhlar tarafından kaydedilen gelişmeyi izler. Ve bunu George du Maurier’in bir kitabı olan “Peter Ibbetson”un kahramanı Peter Ibbetson gibi yapar. Bu, okunmaya değer bir kitaptır, zira bilinçaltının belli aşamalarının canlı bir anlatımını vermektedir. Kitabın kahramanı geceleri, “gerçek rüyalarında” kendi çocukluk yaşamını izlemektedir. Üçüncü derecede kişi, üçüncü Devir olan Ay Devri’nin evrimini takip eder ve dördüncü derecede de dördüncü Devir olan Yer Devri’nin yarısı boyunca kaydettiğimiz gelişmeyi görür. 
+
+Ancak her derecede bir adım daha atılır. Öğrenci her bir Devirde gerçekleştirilen işe ek olarak halihazırda bulunduğumuz D Küresi’nde, yani Yer Küresi’nde, bu Devir’e karşılık gelen Çağda yapılan işleri de görür. 
+
+İlk derecede Satürn Devri’ndeki çalışmayı ve onun Polar Çağdaki en son bitişini izler. 
+
+İkinci derecede Güneş Devri’ndeki çalışmayı ve onun kopyası olan Uzak-kuzey (Hiperboreik) Çağı’nı izler. 
+
+Üçüncü derecede de Ay Devri’nde gerçekleştirilen çalışmayı izler ve onun nasıl Lemurya Çağı’ndaki yaşamın temeli olduğunu görür. 
+
+Dördüncü derecede ise son yarı Devir’deki gelişimi ve şimdi Dünya’da bulunuşumuzda ona karşılık gelen zaman dönemini, yani Atlantis Çağı’nın ilk yarısını görür. Atlantis Çağı’nın ilk yarısı, Atlantis’in yoğun ve sisli atmosferinin çözülmesiyle sona ermiş ve güneş ilk defa kıta ve deniz üzerinde parlamıştı. Ve böylece bilinçsizliğin gecesi artık bitmiş ve içte oturan Ego’nun gözleri tamamiyle açılmıştı. Böylece Ego, artık aklın ışığını Dünya’nın fethedilmesi sorununa çevirebilirdi. Bu, şimdiki bildiğimiz insanın ilk defa doğduğu zamandı. 
+
+Eski İnisiyasyon sistemlerinde adayın üçbuçuk gün boyunca trans halinde kaldığını duyduğumuzda bunun, yukarıda tarif ettiğimiz inisiyasyon ile ilişkili olduğunu görebiliriz. Bu üçbuçuk gün, kesinlikle 24 saatlik bir gün değildir ve geçilmiş olan aşamalarla ilgilidir. Gelişimin gerçek süresi her adayda farklıdır. Ona geçmiş Devirler boyunca insanlığın bilinçsiz gelişimi gösterilir ve onun dördüncü gün güneş doğarken uyandırıldığı söylendiğinde de mistik olarak şu ifade edilmektedir: İnsanın istençsiz gelişim çalışmasına inisiyasyonu, tam Atlantis’in berrak atmosferi üzerinde ilk defa güneş doğduğu anda sona ermiştir. Sonra da aday, “ilk defa doğan” olarak selamlanır. 
+
+Öğrenci geçmişte yürüdüğümüz yolu öğrendikten sonra beşinci derece onu Yer Evresi’nin sonuna dek götürür. Bundan sonra da görkemli bir insanlık, bu Evre’nin meyvelerini toplayabilecek ve onları, evrim boyunca her bir Tezahür gününde üzerinde bulunduğumuz yedi Küre’den, karanlık Küre’lerden Kozmik gecelerde bizim evlerimiz olacak olan birincisine alacaktır. Bunlardan en yoğunu Soyut Akıl Bölgesi’ndedir ve aslında Bölüm 11’de ve sonraki sayfalarda bahsettiğimiz “Kaos”dur. Bu Küre aynı zamanda Üçüncü Göktür ve Paul, üçüncü göğe yükseltildiğinden ve orada yasalara göre ifşa edemeyeceği şeyleri gördüğünden bahsettiğinde, şimdiki Gülhaçcıların beşinci inisiyasyon basamağına karşılık gelen deneyimleri anlatmaktaydı. 
+
+Beşinci derecenin sonu gösterildikten sonra adaya, kendileriyle Yer Evresi’nin kalan üçbuçuk Devir’inde bu hedefe erişebileceği araçlar bildirilir. Kalan dört inisiyasyon derecesi onun bu konuda aydınlatılmasına ayrılmıştır. 
+
+Bu şekilde kazandığı idrak ile o, İyi için çalışan güçlerle bilinçli olarak işbirliği yapabilir ve bu şekilde Özgürlüğümüzün geleceği günü çabuklaştırmaya yardımcı olabilir. 
+
+Genel bir yanlış kanıyı ortadan kaldırmak için öğrenciye bizim Gülhaçcı olmadığımızı açıklamak isteriz. Zira biz sadece onların öğretilerini araştırıyoruz. Tapınağa giriş hakkı bile bize, kendimizi Gülhaçcı olarak adlandırma iznini vermez. Örneğin kitabın yazarı yalnızca bir rahip yardımcısı ve bir öğrencidir ve hiçbir şekilde kendisini Gülhaçcı olarak adlandırmamaktadır. 
+
+İlköğretim okulundan mezun olmuş olan bir erkek çocuğun, bu sebeple öğretmen olamayacağını iyi biliriz. O önce lise ve üniversiteyi bitirmelidir. Bundan sonra bile kendisini öğretmen olarak hissetmeyebilir. Benzer şekilde yaşam okulunda da Gülhaçcı Gizem Okulu’ndan mezun olmuş bir kişi bile henüz Gülhaçcı sayılmaz. Küçük Gizemlerin çeşitli okullarından mezun olanlar, büyük Gizemlerin beş okuluna terfi ederler. Onlar, ilk dört aşamada dört büyük İnisiyasyon’dan geçerler ve sonunda Kurtarıcı’ya ulaşırlar. Bu seviyede diğer evrim yollarıyla ilgili bilgi edinirler. Burada kalıp Biraderlerine yardım etme veya başka bir evrim yoluna Yardımcı olarak girme tercihi kendilerine bırakılmıştır. Kalmaya karar verenlere, yeteneklerine ve doğal eğilimlerine göre çeşitli makamlar verilir. Bu Merhametli’ler arasında Gülhaç Biraderleri de bulunur ve biz onun yüce öğretilerinin sadece öğrencileriyken Gülhaçcı ismini, onu kendimiz için kullanarak çamura çekmek büyük bir saygısızlıktır. 
+
+Son birkaç yüzyıl boyunca Biraderler insanlık için gizli olarak çalıştılar. Her gece yarısında tapınakta bir ayin gerçekleştirilir. Rahip olmayan ve Dünya’daki işlerini bırakabilen yardımcı biraderlerin de (zira onlardan çoğu Gülhaç tapınağında geceyarısı iken gündüzü yaşayan ülkelerde bulunuyorlar) yardımıyla Büyük Biraderler Batı Dünyası’ndaki her yerden şehvet, açgözlülük, bencillik ve materyalizm düşüncelerini topluyorlar. Ve de bunları saf sevgi, yardımseverlik, fedakarlık ve ruhsal amaçlara dönüştürmeye çalışıyorlar ve de onları Dünya’ya geri yolluyorlar ve böylelikle İyi olan her şeyi yükseltiyor ve yüreklendiriyorlar. Böyle bir ruhsal titreşim kaynağı olmasaydı materyalizm çoktan bütün ruhsal çabaları boğmuştu. Zira ruhsal bakış açısından materyalizmin bu son 300 yılından daha karanlık bir çağ hiç olmamıştı. 
+
+Ancak şimdi gizli uğraşılar yönteminin, daha doğrudan bir çaba ve belirli, mantıklı ve dizisel bir öğretiyi yayarak tamamlanmasının zaman geldi. Bu öğreti, Dünya’nın ve insanın kökeni, evrimi ve gelecekteki gelişimini açıklar, hem bilimsel ve hem de ruhsal tarafı gösterir. Akıl ve mantıkla desteklenmeyecek hiçbir şey iddia etmeyen ve akla, tüm sırların mantıklı bir çözümünü sunarak onu tatmin eden bir öğreti. O sorulardan ne kaçınır ve ne de onları inkar eder, ve de onlara getirdiği açıklamalar hem derin ve hem de açıktır. 
+
+Fakat, bu çok önemli bir “fakat”tır, Güçhaçcılar Tanrı’yı ve Evren’i zihinsel olarak anlamayı kendileri için bir nihai hedef olarak görmezler. Bilakis zihin ne kaday büyükse, onun kötüye kullanılma tehlikesi de o kadar büyüktür. Bu yüzden insanın, beyninin onayladığına kalbinde inanması ve dinsel bir yaşam sürmeye başlaması için bu bilimsel, mantıklı ve kapsamlı öğreti ona verilir. 
+
+#### <h4 id="the-rosicrucian-fellowship">Gülhaç Cemaati</h4>
+
+Bu öğretiyi yaymak için Gülhaç cemaati kurulmuştur ve bir HİPNOZCU, profesyonel MEDYUM, FALCI, EL FALCISI veya ASTROLOG olmayan herkes, bir Başlangıç Kursu Öğrencisi olarak kaydını yaptırabilir. İnisiyasyon için bir ücret veya aidat yoktur. Para bizim öğretimizi satın alamaz ve gelişme liyâkate bağlıdır. 
+
+Başlangıç Kursu’nu tamamladıktan sonra kişi, iki yıllık bir süre boyunca Düzenli Öğrenci listesine konulur. Bu süre sonunda Gülhaç öğretilerinin doğruluğunu tamamen anladıktan sonra diğer bütün okült ve dinsel tarikatlarla olan bağlantısını koparmaya hazırdır (Hristiyan kiliseleri ve kardeşlik öğretileri bundan hariçtir ). Böylece o, kendisine Stajyer derecesini veren yükümlülükleri üstlenebilir. 
+
+GÜL-HAÇ CEMAATİ YERLEŞİM ŞEMASI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+
+Yukarıdaki tümce ile diğer tüm okültizm okullarının değerinin olmadığını söylemeyi amaçlamıyoruz. Bilakis, Roma’ya çıkan çok yol vardır. Fakat biz bunu, bir yoldan diğerine geçip durarak zikzak çizmek yerine tek bir Gizem Okulu’nu takip ederek çok daha az bir çabayla yapıyoruz. İlk olarak zamanımız ve enerjimiz kısıtlıdır ve dahası kendi gelişimimiz için asla ihmal etmememiz gereken ailevi ve toplumsal görevlerimiz bizi engeller. Kendimize kullanabileceğimiz azıcık enerjiyle idare etmek ve kullanabildiğimiz kısıtlı anları boşa harcamaktan kaçınmak için öğretmenlerimiz kişiden, diğer tüm tarikatlardan çekilmesini talep ederler. 
+
+Dünya bir fırsatlar toplamıdır. Fakat bu fırsatların herhangi birinden fayda sağlayabilmemiz için çabalarımızı belli bir yöne yönlendirmeliyiz. Ruhsal güçlerimizin gelişimi bize, bizden daha zayıf hemcinslerimize yardım edebilmemizi veya onlara zarar verebilmemizi sağlar. Ancak bu sadece İnsanlık Hizmetinde bir yarar sağlıyorsa haklı görülebilir. 
+
+Gülhaçcıların mükemmelliğe ulaşma yöntemi, diğer sistemlerden özel bir noktada ayrılır. O, en baştan itibaren öğrenciyi başkalarına bağımlılıktan kurtarmak ve ona en yüksek derecede Özgüven aşılamak amacındadır. Böylelikle öğrenci, her türlü koşul altında tek başına ayakta kalabilir ve her türlü durumla başedebilir. Yalnızca güçlü ve dengeli bir kişi zayıflara yardım edebilir. 
+
+Bir bölgedeki belli sayıdaki insan, kendi gelişimleri için Negatif çizgiler boyunca buluştuklarında kısa bir sürede başarı elde ederler. Zira “akıntıyla birlikte hareket etmek, ona karşı hareket etmekten zordur” ilkesi burada belirleyici olur. Ancak Medyum burada kendi hareketlerinin efendisi değil, bir ruhsal kontrolün kölesidir. Bu yüzden Stajyerlerin bu toplantılardan kaçınması gerekir. 
+
+Büyük Biraderler tarafından zihnin pozitif akışında buluşan topluluklar bile önerilmemektedir, zira bu toplantılarda tüm katılımcıların gizil güçleri biraraya gelir ve içsel âlemlerin orada bulunan herhangi birisi tarafından alınabilecek vizyonları kişi, kısmen orada bulunan insanların yetilerine borçludur. Ateşin ortasındaki bir kömürün ısısı, onu çevreleyen diğer kömürlerin ısısı ile arttırılır ve böyle bir ortamda ortaya çıkan durugörür, pozitif olsa da bir sera bitkisine benzer. Onun kendisi de diğerlerine yardım edebilmek için başkalarına muhtaçtır. 
+
+Bu yüzden Gülhaç Cemaatindeki her Stajyer kendi uygulamalarını inzivada ve kendi odasında yalnızken yapar. Belki bu sistemle daha yavaş başarı elde edilir, ancak onlar ortaya çıktıklarında kendilerini, tek başına elde edilmiş ve başkalarından bağımsız olarak kullanılabilecek güçler olarak gösterirler. Ayrıca Gülhaç metodları aynı zamanda ruhsal gelişimle uyum içinde karakter de inşa ederler ve böylece öğrenciyi ayartılmaktan ve tanrısal güçleri dünyevi prestij için kötüye kullanmaktan korurlar. 
+
+Stajyer, zorunlu isteklere uyarsa ve (en az 5 sene süren) staj dönemini tamamlarsa Genel Sekreterlik üzerinden Büyük Biraderlerin kişisel talimatlarını rica edebilir (Bu ricaya cevap verilirse Stajyer, Müritliğe yükselir ve aşama aşama görünmez Yardımcı olarak etkinlik gösterme yetisini kazanır). 
+
+#### Gülhaç Cemaati Uluslararası Genel Merkezi 
+
+Gülhaç tarikatı bu kitapta verilen öğretileri yaymak ve öğrencilere kendi ilerleme yollarında yardım etmek amacıyla kuruldu. Bu işi yapmak için kalıcı bir ev bulmak zorunlu oldu. Bunun için uygun bir arazi, Amerika’da Kaliforniya’nın, Los Angeles’ın 162 km güneyinde ve San Diego’nun 72 km kuzeyinde bulunan ve Birleşik Devletlerin en güneybatısındaki kasaba olan Oceanside’da bir arazi satın alındı. 
+
+Bu arazide Genel Merkez bulunmaktadır ve batıda büyük Pasifik Okyanusu ve doğuda da karla kaplı güzel dağların bulunduğu harikulade bir manzaraya sahiptir. 
+
+Güney Kaliforniya ruhsal büyüme için özel fırsatlar sunar, çünkü buradaki eter atmosfer, Dünya’nın başka herhangi bir bölgesinden daha yoğundur. Ve Gülhaç Cemaati Genel Merkezi’nin Ecclesia Dağı olarak adlandırdığı yer, bu açıdan özellikle tercih edilmektedir. 
+
+Genel Merkez çalışmasına 1911’in sonuna doğru başlandı. Bugüne kadar (1973) pek çok yapı inşa edildi Bunlardan bazıları artık mevcut değildir. Ecclesia Dağı’ndaki ilk yapılardan biri olan ve 1913 yılında inşa edilen kilisemiz Pro Ecclesia’da ilk kurulduğundan beri günde iki kez 15’er dakikalık dinsel törenler yapılmaktadır. Bu yapı 1962’de tamamen onarılmıştır. Vaazın da olduğu ibadet hizmeti her Pazar yapılmaktadır. 1917’de iki katlı İdare binası tamamlanmıştır ve 1962’de onarılmıştır. İkinci katta çeşitli bölümlere ait ofisler bulunmaktadır: Ezoterik, Mektupla Öğretim, Yazı işleri, Yabanci Diller ve Muhasebe. Birinci katta da Denizaşırı birimi ve ders, broşür vs’nin basıldığı matbaa bulunmaktadır. 1972’de bir ofset baskı makinesi de kurulmuştur. 
+
+Yemek Salonu 1914’de inşa edilmiştir ve 30’lu yılların sonunda genişletilmiştir. 1962 yılında da onarılmıştır. Her akşam bir şifa ayininin yapıldığı Şifa Tapınağı da 1920 yılında tamamlanmıştır. Konukların ve çalışanların kullanımı için Gülhaç Misafir Evi de 1924’de inşa edildi. Şimdi çoğunlukla kitap deposu olarak kullanılmaktadır. Sağlıkevi binası 1939’da açıldı ve uzun yıllar bulaşıcı olmayan hastalıkları tedavi etmek için kullanıldı. Şimdi ise çalışanlar ve üyeler tarafından Misafir Evi olarak kullanılıyor. 1962’den beri çok sayıda kulübe de inşa edildi. Bunlarda da büyük oranda Ecclesia Dağı’nda çalışanlar ikamet etmekte. Şifa departmanı binası da 1940’da yapıldı. Burada bizim şifa çalışmalarımız yürütülüyor. 
+
+#### <h4 id="symbolism-of-the-rose-cross">Gülhaç Sembolizmi</h4>
+
+Okült değere sahip herhangi bir söylencenin, efsanenin veya sembolün anlamını araştırırken şunu kesinkes anlamak zorundayız ki, nasıl üç boyutlu Dünya’da her nesneye, o nesne hakkında tam bir bilgiye sahip olmak için bütün taraflarından bakmak zorundaysak aynı şekilde tüm sembollerin de belli bir sayıda görünümleri vardır. Her bakış açısı diğerlerinden farklı bir aşamayı açığa vurur ve gözönüne alırken her bakış açısına eşit hak tanınmalıdır. 
+
+Bütün olarak gözlendiğinde bu harika sembol, tekâmül yöntemiyle birlikte insanın geçmiş evrimi, şimdiki bileşimi ve gelecekteki gelişiminin anahtarını içermektedir. Merkezdeki bir tek gül ile gösterildiğinde o, kendisinden dört aracı yansıtan Rûhu simgeler. Bu araçlar; yoğun beden, yaşam beden, arzu beden ve zihindir. Rûh, kendi araçları içerisine girmiş ve içeride ikamet eden insan ruhu olmuştur. Ancak üçüz rûhun, kendi araçları üzerinde yüzdüğü ve onların içine giremediği bir zaman da vardı. O zamanlar haç, gülsüz olarak tek başına duruyordu ve Atlantis’in üç döneminden ilkini simgeliyordu. Ve haçın üst kolunun eksik olduğu bir zaman bile vardı ve insanın bileşimi, Tau (T) ile gösteriliyordu. Bu Lemurya Çağı’ndaydı ve insanın yalnızca yoğun, yaşam ve arzu bedeni vardı, ancak onda zihin eksikti. O zamanlar hayvan doğası üstündü. İnsan sınırsızca arzularını takip ediyordu. Daha da önceki bir zamanda, Uzak-Kuzey Çağı’nda onun arzu bedeni de yoktu. O zamanlar da sadece yoğun beden ve yaşam bedene sahipti. Oluşum sürecindeki insan, bitki gibiydi: İffetliydi ve arzudan yoksundu. Onun o zamanlardaki yapısı bir haçla simgelenemez. Onun sembolü düz bir sütun, bir oktu (I). 
+
+Bu sembol, ona tapınan insanların ahlaksızlığını gösteren bir penis sembolü olarak görüldü. Gerçekten bu bir üreme sembolüdür, ancak üreme hiçbir şekilde aşağılık bir şeyle eşanlamlı değildir. Bilakis dikey sütun, haçın alt organıdır ve oluşum sürecindeki insanın bitki benzeri halini simgeler. Bitki, tutku ve arzunun bilincinde değildir ve masumdur. Kendi türüyle öyle saf ve iffetli bir şekilde ürer ve çoğalır ki, düşmüş ve hırslı insanlık için, onda bir ideale tapmak için doğru anlaşılmış bir modeldir. Ve bu amaçla önceki insan ırklarına verilmiştir. Yunan Gizem Tapınaklarında sembol olarak kullanılmış olan Fallus ve Yona, rahipler tarafından bu ruhla verilmiştir. Bu tapınaklarda şu esrarengiz kelimeler yazılıydı: “İnsan! Kendini bil!” Bu, doğru anlaşıldığında Gülhaç ile aynı anlamdadır. Zira insanın neden arzu, tutku ve günaha düştüğünü gösterir ve güller haçta nasıl kurtuluş yolunu işaret ediyorlarsa aynı şekilde onun kurtuluş anahtarını verir. 
+
+Bitki masumdur, fakat iffetli değildir. Onun ne arzusu ve ne de seçim hakkı vardır. İnsan ise ikisine de sahiptir. İnsan kendi kendisinin efendisi olması için dilediği gibi arzularını takip edebilir. 
+
+Bitki benzeri ve çift cinsiyetli olduğu için o, bir başkasının yardımı olmaksızın kendiliğinden üreyebilir. Fakat bitkiler kadar iffetli ve onlar kadar masum olmasına rağmen onlar gibi bilinçsiz ve âtıldır. Gelişmek için kendisini dürten arzulara ve kendisine rehberlik eden bir zihne sahip olmalıdır. Bu yüzden onun ruhsal gücünün yarısı, bir beyin ve bir gırtlak yapmak için alıkonulmuştur. O zamanlar o, bir embriyo gibi yuvarlak bir şekle sahipti. Şimdiki gırtlak, vücut düzleştiğinde kafaya yapışık olan üreme organının bir parçasıydı. Her ikisi arasındaki ilişki bugün de görülmektedir. Üreme gücünün pozitif kutbunu ifade eden erkek çocuğun, ergenliğe girdiğinde sesi değişir. Aynı gücün dışarıya yönlendirilmesinin yeni bir bedenin inşasını sağladığını, alıkonulmasının ise beyni inşa ettiğini dikkate alırsak, seks düşkünlüğünün neden ruh hastalığına yolaçtığını ve derin düşünürlerin bu cinsel faaliyetlere neden bu kadar az meyilli olduklarını anlarız. Derin düşünürler tüm yaratıcı güçlerini, duyularını tatmin edip boşa harcayarak değil düşünce üretmek için kullanırlar. 
+
+İnsan, yaratıcı gücünün yarısını, yukarıda belirttiğimiz amaç için kendisinde tutmaya başladığı zaman bilinci, organlar yapmak için içeri doğru yönelmişti. O, bu organları görebiliyordu. Yaratıcı Hiyerarşilerin talimatları doğrultusunda o, aynı gücü organlar tasarlamak ve bu tasarımları gerçekleştirmek için kullandı. Bugün o, bu gücü dış Dünya’da zeplinler, evler, arabalar, otomobiller, telefonlar vs tasarlamak için kullanıyor. O zamanlar o, yaratıcı gücün yarısının dışarıya gönderilerek bir başka beden üretiminde nasıl kullanıldığının bilincinde değildi. 
+
+Üreme, Meleklerin rehberliği altında sürdürüldü. Oluşmakta olan insanlar, yılın belli zamanlarında büyük tapınaklarda biraraya geliyorlardı ve burada cinsel birleşme gerçekleştiriliyordu. İnsan, olayın bilincinde değildi. Gözleri henüz açılmamıştı ve üreme için gerekli olan ve organlar yapabilmek için kendisinde tuttuğu gücün yarısına veya öteki kutbuna sahip bir eşe gereksinim duymasına rağmen ilk zamanlar eşini tanımıyordu. Fizik Dünya gözönüne alındığında günlük yaşamda o, kendi içine kapanıktı. Fakat üreme faaliyetinde olduğu gibi bir başkasıyla ilişkiye ve yakın temasa getirildiğinde durum farklılaşıyordu. Zira bir an için ruh, etin perdesini kaldırıyor ve Âdem, eşini tanıyordu. O, kendisini bilmeyi bıraktı, böylelikle bilinci hep daha fazla, daha fazla, daha fazla dış dünyaya odaklandı ve içsel algısını kaybetti. Bu içsel algı insanın, üremede artık bir eşe gereksinim duymadığı ve tüm yaratıcı gücünü istediği gibi kullanmaya başladığı aşamaya ulaştığında tekrar tamamen kazanılacaktır. Bundan sonra o, bitki benzeri varoluş aşamasında olduğu gibi yine kendisini bilecektir. Ancak bu defa çok önemli bir fark olacaktır. O, yaratıcı yetisini bilinçli olarak kullanacak ve onu yalnızca kendi türünün yaratımı için değil, istediği her şeyin yaratımı için kullanacaktır. Şimdiki cinsel organlarını bu iş için kullanmayacaktır. Gırtlak, yaratıcı kelimeyi konuşacaktır. Bu, ruh tarafından, beynin ruhla birlikte çalışan mekanizması aracılığıyla gerçekleştirilecektir. Böylece herbiri yaratıcı gücün bir yarısı ile yapılmış olan iki cinsel organ zamanla insanın sonuçta bağımsız, bilinçli bir yaratıcı olma araçları olacaktır. 
+
+Günümüzde bile insan, düşünceleri ve sesi ile maddeyi biçimlendirebilir. Bu, bilimsel araştırmalarla kanıtlanmıştır. Bu araştırmalarda düşünceler fotoğraf klişesi üzerinde görüntüler oluşturmuş ve insan sesi kum üzerinde geometrik şekiller meydana getirmiştir. İnsan ne kadar özgecil (kendini düşünmeyen) olursa, zincirlenmiş yaratıcı gücünü o kadar fazla özgürleştirecektir. Bu ona ekstra düşünce gücü verecek ve onu, diğer insanları alçaltmak yerine yükseltmek için kullanma imkânı verecektir. O, kendisinin efendisi olmayı öğrenecek ve başkalarına, kendi bencil amacı için değil onların iyiliği için geçici olarak olanların dışında hükmetmeye çalışmayı bırakacaktır. Ancak kendisinin efendisi olan kişi, başkalarına hükmetmek için gerekli niteliklere sahiptir ve bunun ne zaman ve nasıl yapılması gerektiğine karar verme yetkisi de onda bulunmaktadır. 
+
+Böylece görmekteyiz ki, şimdiki aşırı tutkulu üreme şeklinin yerini daha saf ve daha etkili bir yöntem alacaktır. Bu da, gülün dört kolun arasına konulduğu Gül ve Haç’da simgelenmiştir. Uzun kol vücudu, iki yatay kol vücudun iki kolunu ve üst taraftaki kısa kol da başı temsil eder. Gül burada gırtlağın olduğu yerdedir. 
+
+Diğer tüm çiçekler gibi Gül de bitkinin üreme organıdır. Onun yeşil sapı, renksiz ve tutkusuz bitki kanını taşır. Kan kırmızısı gül, insan ırkının tutku dolu kanını gösterir, fakat güldeki yaşam sıvısı tensel değildir, aksine iffetli ve saftır. Böylece gül, insanın, kanını arzudan arındırıp temizleyerek masum, saf ve Mesih gibi olduğunda erişeceği saf ve kutsal durumundaki cinsel organların mükemmel bir sembolüdür. 
+
+Bu yüzden Gülhaçcılar büyük bir özlemle gülün, insanlığın haçında açacağı günü beklemektedirler. Bu yüzden Büyük Biraderler çalışan ruhu Gülhaçcıların şu selamıyla selamlarlar: “Haçında güller açsın”. Bu yüzden de aynı selam cemaat merkezlerindeki toplantılarda başkan tarafından tüm öğrencilere, stajerlere ve müritlere verilir. Onlar da selama, “seninkinde de” diye karşılık verirler. 
+
+Yuhanna, Tanrı’dan doğmuş olan kendisinin günah işleyemeyeceğini, çünkü tohumlarını O’nun kendinde tuttuğunu söylediğinde arınmasından bahsetmişti. Tâlip kişinin ilerlemesi için iffetli olması mutlak bir zorunluluktur. Ancak şu da akıldan çıkarılmamalıdır ki, mutlak bekârlık, insan ancak büyük İnisiyasyonlara hazır olduğu bir seviyeye ulaştığında kendisinden talep edilir ve ırkın devamını sağlamak bütüne karşı bir borcumuzdur. Eğer zihinsel, ahlâken, fiziksel ve finansiyel olarak gücümüz yetiyorsa cinsel birleşmeye duyusal zevk için değil ama insanlığın sunağına konulmuş kutsal bir kurban olarak yaklaşabiliriz. Ve de cinsel birleşme, hosgörüsüz ve yasak bir düşünce yapısı içinde gerçekleştirilmemelidir, aksine yeniden doğumu arayan bir arkadaşa gelişimi için ihtiyaç duyduğu beden ve çevre sağlama ayrıcalığının mutluluğu içinde yapılmalıdır. Böylece onun da haçı üzerinde güller açmasına yardım etmiş oluruz. 
+
+[1] Saffat (Saflar), 164, 165, 166. 
+
+[2] Vâkıa (Kıyâmet olayı) sûresi, 57, 58, 59, 60, 61. âyetler 
+
+[3] Hepiniz Türksünüz, Gene D. Matlock, Hermes Yayınları-İst. Aralık 2008, s. 18. 
+
+[4] Hepiniz Türksünüz, Gene D. Matlock, Hermes Yayınları-İst. Aralık 2008, s. 128-129. 
+
+[5] Bu konudaki detaylı açıklamalar için ‘Perispri’ hakkında bilgi içeren kitaplara bakabilirsiniz. 
+
+[6] Bu konuda daha detaylı bilgi için Hermes Yayınları’ndan Ekim 2007’de çıkan Hanîf Din - İslâm ve Mesajı Kurân’ı Kerîm eserinin 8. Bölümünü okuyabilirsiniz. s.437-488. 
+
+[7] Bakara (İnek) sûresi, 62, 111, 112. 
+
+[8] Maide (Gök sofrası) sûresi, 69. 
+
+[9] Gök gürültüsü (Râd), 16. 
+
+[10] Ayıran (Fâtır), 19, 20. 
+
+[11] Gök gürültüsü (Râd) sûresi -19., Yusuf-111. 
+
+[12] Dünyasal Siyasi Boyutlarına burada girmiyorum, isteyenler bu konuyu kendileri araştırabilirler, zaten bizi burada bu tarafı değil evrensel bâtınî felsefeleri ilgilendiriyor. 
+
+[13] Havass’ın üç derecesi vardır; ‘Havass-ül Havass (Üstad, Havass’ların Havass’ı), Enhas-ül Havass (En üst), Ehl-i Havass.’ 
+
+[14] Bu konuda çok daha detaylı bilgi almak için lütfen araştırmacı yazar Sn. Aytunç Altındal’ın Gül ve Haç Kardeşliği isimli eserini okuyunuz. 
+
+[15] Rüzgârlar, (Zariyat), 24,>>28, 31, 32. 
+
+[16] Bu âyetteki ‘tastamam bir insan’ sözünden maksat, tüm organ ve uzuvları ile eksiksiz ve işlev sahibi olarak göründü şeklinde idrak edilmelidir. 
+
+[17] Asabiyyet: kendi akraba, vatan, din ve milliyetini aşırıcı derecede kayırma gayreti. 
+
+[18] Sığırlar (En’am), 133. 
+
+[19] Nebiler (Enbiya), 105. 
+
+[20] Bu gnostik/okült eserde verilmek istenen mesajı bundan sonra çıkaracağım eserimde Kuran ve Doğu öğretisinin “içyüzü”ne, yani aslına göre şimdiye kadar hiç yorumlanmamış birleştirici şekliyle inşâllah sunmak istiyorum. 
+
+[21] Golem, Kabala’daki, Tanrı isimlerinde bulunan harf ve hecelerin yaratıcı güç ile ilgili bir etkisi olduğuna dair işaretlerden yola çıkan bazı ortaçağ okültist ve kabalistlerinin kutsal isimlerin kullanıldığı majik yöntemlere başvurarak canlandırmaya veya hareket ettirmeye çalıştıkları yapay yaratıklara verilen İbranice isimdir. Genellikle insan suretinde yapılan bu yaratıkların okült terminolojideki ismi ‘homonculus’tur. Kabalist Moses Cordovero’ya göre, insanlar goleme canlılık (vitality) verebilir, ama ona tanrısal ruhu veremezler. 
+
+[22] Gök gürültüsü (Rad, 11.). 
+
+[23] Göğün yarılması (İnfitar) 10,11,12. 
+
+[24] Şafak, Tan yerinin ağarması (Fecr, 14.). 
+
+[25] Yunus, 61. 
+
+[26] Hud, 5. 
+
+[27] Rahmân suresi, 29. 
+
+[28] Tekvin, “Fiat Lux”(Latince), ilâhi ışık, ilahi Rûh. 
+
+[29] Yıldız (Necm) suresi, 39. 
+
+[30] ‘Shambhala’; ‘Özlerin yurdu’, ‘Mutluluk yurdu’, ‘Bilgeler Yurdu/Ülkesi’ anlamındadır. Batıda değişik yorumuyla ‘Agarta’ öğretisi olarak da bilinse de Şambala ile birbirine zıt yollar olarak yorumlanmıştır. 
+
+[31] Lütfen burada, ‘şeyh uçmaz mürit uçurur’ halk deyişini de unutmadan bir kenara not alıp cahillerin överek göklere çıkardıkları yapay kurtarıcılar için hatırlayınız. 
+
+[32] Ezoterik: bâtıni, içrek, içsel. 
+
+[33] Durugörür: İnsanüstü algılama yetenekleri ile normal insanların göremediği metafizik şeyleri görebilen ve gelecekle ilgili kehânette bulunabilen kimse. (İng. Clairvoyant, Alm. Hellseher’in karşılığı [çev.]) 
+
+[34] Yeti: meleke (ing. faculty) 
+
+[35] Bir seri test yardımıyla zihinsel yeteneği ve psikolojik özellikleri ölçen kimse (çev.) 
+
+[36] Bir saatin içinde bulunan ve onun düzenli olarak çalışmasını sağlayan çark (Çev.). 
+
+[37] Aslında ingilizcedeki purgatory (Alm. Fegefeuer) tam olarak Araf’ın karşılığı değildir. Araf, İslam inancında sadece toplanma yerini ifade ederken purgatory, cennete girmeden önce günahların bedelini ateşle ödeyerek arınma yeridir. (çev.) 
+
+[38] Eskiden denize dalanlar tarafından ters çevrilmiş ve içi hava dolu bir kovanın, su altında hava almak amacıyla kullanıldığı sistem (çev). 
+
+[39] Presesyon: Ekliptik (güneşin yörüngesi) boyunca ekinoks (gün-gece eşitliği) noktalarının geri hareketi. Bunun sonucunda her yıl ekinoks, daha erken meydana gelir. 
+
+[40] Kutup yıldızı, Yerin ekseninin gösterdiği yıldıza verilen addır (çev.). 
+
+[41] Yıldız falı. 
+
+[42] Bu kitabın yazılmasından bu yana yapılan astronomik keşifler, Uranüs’ün 4 uyduya; Satürn’ün 9 uyduya ve Jüpiter’in 11 uyduya sahip olduğunu ortaya çıkarmıştır. 
+
+[43] Max Heindel burada “robot”u kastediyor, ancak o zamanlar robot kelimesi ve kavramı olmadığı için “otomat” kelimesini kullanıyor (çev.). 
+
+[44] İsa ile aynı zamanda tutuklanmış olan suçlu. Roma Valisi Yahudiler’e, “ikisinden hangisini affedeyim” diye sorduğunda onlar, Vali’nin İsa’yı değil de Barabbas’ı affetmesini istemişlerdir (çev.). 
+
+[45] Tıpkı Arapça’da olduğu gibi. Örneğin Arapça’da kitab, “ktb” şeklinde yazılır (Çev.). 
+
+[46] Tevrat’ın ibranice adı (çev.). 
+
+[47] Eski Ahit’in ilk kitabı (çev.) 
+
+[48] Tek hücreli varlık (Çev.). 
+
+[49] İsa’nın çarmıha gerildiği tepeye verilen ad (çev.). 
+
+[50] İsa’nın Son Yemek’te kullandığı kase veya çanak (çev.). 
+
+[51] M. Heindel burada her iki dinin de dış yüzünde yanlış uygulandığını ve haksız yere peygamberlerin adlarıyla İsevîlik ve Muhammedilik olarak adlandırıldığını ifade etmeye çalışmaktadır. Yani her iki dinin de içyüzü anlaşılamadığını belirtmek istemektedir (Çev.). 
+
+[52] Transfiguration; İsa’nın görünümünün değişmesi (çev.) 
+
+[53] Kral Arthur’un sarayındaki şövalyeler (çev.).
