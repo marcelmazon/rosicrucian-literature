@@ -1414,7 +1414,9 @@ Böyle bir inceleme yapmak, son derece zordur ve bu konuyla ilgili eserleri okum
 
 Tanrılığın “Baba”, “Oğul” ve “Kutsal Rûh” olarak üçe bölünmesi de kafa karıştırıcıdır. Bu isimlerle anılan Varlıklar, insanın sonsuz derecede yukarısında olmalarına ve insanın, Tanrısallığın en yüksek kavrayışıyla yapabileceği bütün yüceltmelere ve tapınımlara lâyık olmalarına karşın Onlar, birbirlerinden farklıdırlar. 
 
-Şekil 6 ve Şekil 11 belki bu konuyu daha açık ifade edebilir. Âlemler ve Kozmik Planlar’ın uzayda birbirlerinin üzerlerinde bulunmadığı unutulmamalıdır. Aksine yedi Kozmik Plan, birbirlerine ve yedi âleme nüfuz etmiş bir halde bulunmaktadırlar. Onlar rûh-maddesi’nin, birbirlerine nüfuz etmiş olan halleridirler. Böylece Tanrı ve belirttiğimiz diğer yüce Varlıklar, uzayda birbirlerinden ayrı değildirler. Onlar, kendi âlemlerinin her kısmını ve kendilerinden daha yoğun âlemleri kaplamışlardır. Ve onların tümü, dünyâmızda da bulunmaktadırlar ve bize “ellerimizden ve ayaklarımızdan daha yakın”dırlar. Şu apaçık bir hakikattir: “O’nda yaşarız, hareket ederiz ve O’nda varoluruz”. Çünkü hiçbirimiz, dünyâmızı kaplayan ve ayakta tutan bu yüce Varlıkların ( Intelligence) dışında varolamayız. Eter Bölge’nin, yoğun Dünyamızın atmosferinin dışına dek uzandığını; Arzu Âlemi’nin uzayda Eter Bölge’nin ötesine dek ulaştığını ve Düşünce Âleminin de bu iki âlemin ötesine, uzayda gezegenler arasındaki boşluğa dek uzandığını söylemiştik. Elbette ki daha ince maddeden oluşan âlemler uzayda, kendilerinden daha yoğun âlemlerden daha fazla yer kaplarlar, çünkü daha yoğun âlemler, kristalleşmiş ve yoğunlaşmışlardır ve bu yüzden de daha az yer işgal ederler. 
+Şekil 6 ve Şekil 11 belki bu konuyu daha açık ifade edebilir. Âlemler ve Kozmik Planlar’ın uzayda birbirlerinin üzerlerinde bulunmadığı unutulmamalıdır. Aksine yedi Kozmik Plan, birbirlerine ve yedi âleme nüfuz etmiş bir halde bulunmaktadırlar. Onlar rûh-maddesi’nin, birbirlerine nüfuz etmiş olan halleridirler. Böylece Tanrı ve belirttiğimiz diğer yüce Varlıklar, uzayda birbirlerinden ayrı değildirler. Onlar, kendi âlemlerinin her kısmını ve kendilerinden daha yoğun âlemleri kaplamışlardır. Ve onların tümü, dünyâmızda da bulunmaktadırlar ve bize “ellerimizden ve ayaklarımızdan daha yakın”dırlar. Şu apaçık bir hakikattir: “O’nda yaşarız, hareket ederiz ve O’nda varoluruz”. Çünkü hiçbirimiz, dünyâmızı kaplayan ve ayakta tutan bu yüce Varlıkların ( Intelligence) dışında varolamayız. 
+
+Eter Bölge’nin, yoğun Dünyamızın atmosferinin dışına dek uzandığını; Arzu Âlemi’nin uzayda Eter Bölge’nin ötesine dek ulaştığını ve Düşünce Âleminin de bu iki âlemin ötesine, uzayda gezegenler arasındaki boşluğa dek uzandığını söylemiştik. Elbette ki daha ince maddeden oluşan âlemler uzayda, kendilerinden daha yoğun âlemlerden daha fazla yer kaplarlar, çünkü daha yoğun âlemler, kristalleşmiş ve yoğunlaşmışlardır ve bu yüzden de daha az yer işgal ederler. 
 
 Aynı ilke Kozmik Planlar için de geçerlidir. Onları yukarıdan aşağıya doğru birden itibaren numarandırırsak, hepsinin içerisinde en yoğun olanı yedincidir. Ancak biz şekilde yedinci planı diğerlerinden daha büyük gösterdik, çünkü bu plan bizim en yakından ilişkili olduğumuz plandır ve onun herbir alt-bölümü şekilde tek tek gösterilmek istenmiştir. Fakat gerçekte bu plan, uzayda diğer Kozmik Planlardan daha az yer kaplar. Ancak hatırlanmalı ve dikkate alınmalıdır ki, boyutsal olarak tüm planların en küçüğü olmasına karşın bu plan bile, yine de tahmin edilemeyecek ölçüde büyüktür ve büyüklüğü, insan zihninin kavrayabileceğinin çok ötesindedir. O, bizimkine benzeyen milyonlarca Güneş Sistemi’ni kaplar. Bu Güneş Sistemleri bizim evrim seviyemize yakın birçok farklı derecedeki varlıkların evrim alanlarıdır. 
 
@@ -1429,8 +1431,6 @@ Gezegensel Rûhlar olarak belirttiğimiz Büyük Ruhsal Zekâlar bizim evrimimiz
 Bizim Güneş Sistemimizin Mimarının kaynağını keşfetmeye çalıştığımızda yedi Kozmik Plan’dan en yüksekte olanına gitmemiz gerekir. En yüksekteki Kozmik Plan, Mutlak’tan (ZÂT) çıkmış olan En Yüce Varlığın (ALLAH) âlemidir. 
 
 Mutlak, her türlü anlayışın ötesindedir. Anlayabileceğimiz hiçbir tanım, hiçbir benzetme onunla ilgili herhangi bir fikri bize iletemez. Açıklama, daima sınırlama da içerir. Bu yüzden Mutlak’ı en iyi, ‘Sınırsız Varlık’ ve ‘Varoluşun Kökü’ olarak niteleyebiliriz. 
-
-Şekil 7!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 Varoluşun Kökü’nden yâni Mutlak’tan, tezâhür’ün (manifestasyon) başlangıcında ilk olarak Yüce Varlık açığa çıkar. O, BİR’dir. 
 
@@ -1460,8 +1460,6 @@ Bir Tezâhür Günü’nün (yaratım günü) başlangıcında, (Batı’da Tanr
 
 O, Kendi Varlığında çok sayıda görkemli Hiyerarşi içerir. Bu Hiyerarşiler bizim kavramlarımıza göre ifade edilemeyecek ölçüde büyük ruhsal güç ve görkem sahibidirler. Ve de aynı Varlığın daha önceki tezâhürlerinin meyveleridirler. Aynı şekilde O’nda gelişimin aşağıya doğru alçalan evrelerinde varlıklar da bulunurlar. En düşük evrelerdeki varlıklar, insanlığın şimdiki bilinç seviyesine ulaşmamış varlıklar da vardır. Onlar, evrimlerini bizim Sistemimizde tamamlayamayacaklar. Tanrı’da, yâni bu büyük ve kollektif Varlıkta, her zekâ seviyesinden ve her bilinç seviyesinden varlıklar bulunur. Bu seviyeler, Her şeyi Bilme seviyesinden başlar, en derin trans hâlinden daha derin bilinçsizlik seviyesine kadar iner. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Şu anda ilgilendiğimiz tezâhür dönemi boyunca çeşitli derecelerden bu varlıklar, bu varoluş döneminin başında sahip oldukları deneyimi arttırmaya çalışırlar. Önceki varoluşlarında en yüksek bilinç seviyesine erişmiş olanlar, henüz hiç bilinç geliştirmemiş olanlar üzerinde çalışırlar. Bu ilk grup, ikinci gruptakilerin içinde bir öz-bilinç hâli uyandırır ve bu durum da onların kendilerini geliştirmeye devam edebilmelerini sağlarlar. Evrimlerine daha önceki bir Tezâhür Gününde başlamış, ancak çok ileriye gidememiş olanlar, şimdi bu işlerine devam ederler. Bu, bizim her sabah günlük işimize, bir önceki akşam bıraktığımız yerden devam etmemize benzer. 
 
 Ancak bu çeşitli Varlıkların tümü, evrimlerine yeni bir tezâhürün ilk aşamalarında hemen başlayamazlar. Onlardan bazıları, evrimlerinin devamı için gerekli koşulları kendilerinden ileride olanların yaratmalarını beklerler. Doğada hiçbir işlem birdenbire olup bitmez. Her şey, olağanüstü yavaş bir açılım ve olağanüstü yavaş meydana gelse de kesinlikle nihai mükemmelliğe erişmeyi hedefleyen bir gelişmedir. Nasıl insanın yaşamında ilerleyen aşamalar –çocukluk, gençlik, yetişkinlik ve yaşlılık- varsa makrokozmos’ta da, mikrokozmik yaşamın çeşitli dönemlerine karşılık gelen farklı aşamaları buluruz. 
@@ -1472,7 +1470,9 @@ Bir çocuk, babalık veya annelik görevlerini üstlenemez. Henüz gelişmemiş 
 
 Öz-bilinçli kişisel Ego onun varlığına girdiği andan itibaren varlık, artık dışarıdan yardım almadan devam etmek ve bilincini genişletmek zorundadır. Artık dış öğretmenlerin yerini deneyim ve düşünce alır ve kişinin edinebileceği şan, güç ve ihtişamın sınırı yoktur. 
 
-Öz-bilincin kazanıldığı ve Rûhun insanda tezâhür edebilmesini sağlayan araçların yapıldığı zaman dönemine “İnvolüsyon” (involution) denir. Bu dönemden sonra gelen ve bireysel insan varlığının öz-bilincini, tanrısal Her şeyi bilme durumuna geliştirdiği yaşam dönemine de “Evrim” (evolution) denir. 
+Öz-bilincin kazanıldığı ve Rûhun insanda tezâhür edebilmesini sağlayan araçların yapıldığı zaman dönemine “İnvolüsyon” (involution) denir. 
+
+Bu dönemden sonra gelen ve bireysel insan varlığının öz-bilincini, tanrısal Her şeyi bilme durumuna geliştirdiği yaşam dönemine de “Evrim” (evolution) denir. 
 
 Gelişen varlığın içinde bulunan güç, evrimi tam anlamıyla gerçekleştirir. Bu güç sayesinde evrim, sadece tohumda varolan gizil olasılıkların açılımı olmaktan çıkar. Ve bu güç, her bir bireyin evrimini, diğer bireylerin evriminden farklı kılar. Ayrıca orijinallik unsurunu sağlar. Bu güç, yaratıcı yeteneklere faaliyet alanı sağlar. Gelişen varlık, bir Tanrı olabilmek için bu yaratıcı yeteneğini ilerletmelidir. Bu güç, “Dehâ” olarak adlandırılır ve önceden açıklandığı gibi “Epigenesis” (hücreden yaratım) olarak tezâhür eder. 
 
@@ -1518,19 +1518,13 @@ Kimyasal Bölgede yaptığı çalışmayla hazır olduğunda, ilerlemesinin sonr
 
 Gülhaç Literatüründe yedi Evre’nin isimleri aşağıdaki gibidir: 
 
-Satürn Evresi 
-
-Güneş Evresi 
-
-Ay Evresi 
-
-Yer Evresi 
-
-Jüpiter Evresi 
-
-Venüs Evresi 
-
-Vülken Evresi 
+1. Satürn Evresi 
+2. Güneş Evresi 
+3. Ay Evresi 
+4. Yer Evresi 
+5. Jüpiter Evresi 
+6. Venüs Evresi 
+7. Vülken Evresi 
 
 Bu evreler, Yer’imizin birbirini takip eden Yeniden Doğuşlarıdır. 
 
@@ -1616,8 +1610,6 @@ Bu kitap gibi Büyük Âlem Sırrının en derin aşamalarını açıklayan tür
 
 Satürn Evresi’nin Küreleri, Şekil 7 ve Şekil 8’den de gördüğümüz gibi Dünyâ’mızın maddesinden çok daha seyrek ve çok daha ince maddelerden meydana gelir. Öğrenciye bu iki şekli sürekli elinin altında bulundurmasını tavsiye ederiz, çünkü metinde ona sık sık başvuracağız. Bu Evre’nin en yoğun Küresi, Düşünce Âlemi’nin şimdiki Evremizde en seyrek Küre’nin bulunduğu kısmıyla aynı kısımda, Somut Düşünce Bölgesi’nde yeralıyordu. Bu Kürelerin, bizim duyu organlarıyla algılayabileceğimiz bir yoğunlukları yoktu. “Sıcaklık”, bu kadim Satürn Evresi fikrine en yakın kelimedir. Bu evre karanlıktı ve bir kişi bu Küre’nin bulunduğu yere girebilseydi, hiçbir şey göremezdi. Etrafındaki her şey karanlık olacaktı, fakat o, sıcaklığı hissedebilecekti. 
 
-Şekil 11!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Bir materyalist için böyle bir şeyi “Küre” olarak adlandırmak ve onun, Form ve Yaşam’ın evrim alanı olduğunu öne sürmek elbette ki saçmalık olurdu. Güneş Sisteminin bulut şeklindeki bir madde yığınından meydana geldiğini öne süren Bulut Teori’sine bakarsak bulutun, ışıkla parlamadan önce karanlık olması gerektiğini ve alevlenmeden önce de sıcak olması gerektiğini kavrarız. Bu sıcaklık, hareket tarafından meydana getirilmiş olmalıdır ve hareket, yaşamdır. 
 
 Bilinci ve formu geliştirmeleri gereken bâkir rûhların bu Küre’nin içerisine yerleşmiş olduklarını söyleyebiliriz. Ve hatta, nasıl ahududu çok sayıdaki küçük ahudududan meydana geliyorsa tüm Küre’nin de bu şekilde bâkir rûhlardan oluştuğunu söyleyebiliriz. Onlar Küre’ye dahil olmuşlardır, tıpkı Dünyâ’mızdaki madene hayat veren yaşam gibi. Bu yüzden Okültist kişi, Satürn Evresi’nde insanın maden aşamasından geçtiğini söyler. 
@@ -1640,9 +1632,9 @@ Bu yüzden “Alev’in Efendileri”nin çalışması, tohum hâlindeki bilinci
 
 Kozmik Gece’nin, içinde hiçbir faaliyetin olmadığı bir evre olarak görülmemesi gerektiğini bir kez daha tekrarlayalım. Bireyin ölümden yeni bir doğuma gidişinde gördüğümüz gibi o, eylemsiz bir varoluş durumu değildir. Bir Evredeki tüm Kürelerin büyük ölümü de, daha güçlü öznel faaliyetin açığa çıkması için sadece faal tezâhürün sona ermesi demektir. 
 
-Bu öznel faaliyetin doğasına ilişkin belki de en iyi fikri, olgun bir meyve toprağa düştüğünde neler olduğunu gözleyerek edinebiliriz. Bu olayda meyvenin etli kısmının fermantasyonu ve çürümesi başlar. Fakat bu kaostan, havaya ve güneş ışığına doğru filizlenen yeni bir bitki meydana gelir. Bir Evre sona erdiğinde de durum böyledir. Görünürde her şey kaosta çözülmektedir ve onun içindeki düzenin bilincine varmak bizim için imkânsızdır. Ancak uygun bir zamanda yeni bir Evrenin Küreleri oluşturulur ve insanların yerleşimi için hazırlanır. Gelişen yaşam, Kozmik Gece boyunca içinden geçtiği beş karanlık Küre’den buraya taşınır. Böylece o, değişik bir çevrede, Kozmik Gece faaliyetleri sayesinde hazırlandığı ve dışa vurduğu (externalized) yeni bir yaratım gününün faaliyetlerine başlar. Meyvedeki fermentasyon güçlerinin tohumu kuvvetlendirmesi ve tohumun büyüyeceği toprağı verimli kılması gibi Alev’in Efendileri de Tanrısal Rûh’un tohumunu da özellikle Satürn ve Güneş Evreleri arasındaki Kozmik Gece esnasında kuvvetlendirdiler ve faaliyetlerini de Güneş Evresi’nin birinci Devir’inin ortasına kadar devam ettirdiler. 
+Bu öznel faaliyetin doğasına ilişkin belki de en iyi fikri, olgun bir meyve toprağa düştüğünde neler olduğunu gözleyerek edinebiliriz. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+Bu olayda meyvenin etli kısmının fermantasyonu ve çürümesi başlar.Fakat bu kaostan, havaya ve güneş ışığına doğru filizlenen yeni bir bitki meydana gelir. Bir Evre sona erdiğinde de durum böyledir. Görünürde her şey kaosta çözülmektedir ve onun içindeki düzenin bilincine varmak bizim için imkânsızdır. Ancak uygun bir zamanda yeni bir Evrenin Küreleri oluşturulur ve insanların yerleşimi için hazırlanır. Gelişen yaşam, Kozmik Gece boyunca içinden geçtiği beş karanlık Küre’den buraya taşınır. Böylece o, değişik bir çevrede, Kozmik Gece faaliyetleri sayesinde hazırlandığı ve dışa vurduğu (externalized) yeni bir yaratım gününün faaliyetlerine başlar. Meyvedeki fermentasyon güçlerinin tohumu kuvvetlendirmesi ve tohumun büyüyeceği toprağı verimli kılması gibi Alev’in Efendileri de Tanrısal Rûh’un tohumunu da özellikle Satürn ve Güneş Evreleri arasındaki Kozmik Gece esnasında kuvvetlendirdiler ve faaliyetlerini de Güneş Evresi’nin birinci Devir’inin ortasına kadar devam ettirdiler. 
 
 #### <h4 id="recapitulation">Tekrarlama</h4>
 
@@ -1690,9 +1682,7 @@ Aynı zamanda kaydedelim ki, her Evre’nin birinci devri olan Satürn Devri, yo
 
 Oluşan insan, Satürn Evresi’nde varoluşun maden aşamasından geçmiştir. Yani onun, madenin sahip olduğu anlamda sadece bir yoğun bedeni vardı. İnsanın bilinci de şimdiki madenin bilinciyle aynıydı. 
 
-Aynı şekilde ve benzer sebeplerden, insanın Güneş Evresi’nde de bitki aşamasından geçtiği söylenebilir. O, tıpkı bitkilerde olduğu gibi bir yoğun bedene ve bir yaşam bedene sahipti ve bilinci de tıpkı bitkilerin bilinci gibi rüyasız uyku bilinciydi. Öğrenci, dört krallıkla ilgili bölümdeki Şekil 
-
-4’ü incelerse bu karşılaştırmayı tamamen anlayacaktır. Şekil 4’de maden, bitki, hayvan ve insanın sahip olduğu bilinç araçları, bu araçlara sahip olmayla oluşan bilinç halleriyle birlikte şematik olarak gösterilmiştir. 
+Aynı şekilde ve benzer sebeplerden, insanın Güneş Evresi’nde de bitki aşamasından geçtiği söylenebilir. O, tıpkı bitkilerde olduğu gibi bir yoğun bedene ve bir yaşam bedene sahipti ve bilinci de tıpkı bitkilerin bilinci gibi rüyasız uyku bilinciydi. Öğrenci, dört krallıkla ilgili bölümdeki Şekil 4’ü incelerse bu karşılaştırmayı tamamen anlayacaktır. Şekil 4’de maden, bitki, hayvan ve insanın sahip olduğu bilinç araçları, bu araçlara sahip olmayla oluşan bilinç halleriyle birlikte şematik olarak gösterilmiştir. 
 
 Güneş Evresi sona erdiğinde, içinde sindirimin gerçekleştiği bir başka Kozmik Gece onu takip etti. Ayrıca bu Gecede, Ay Evresi’nin başlamasından önce gerekli olan öznel ( sübjektif) faaliyet de gerçekleşir. Bu, süre bakımından nesnel (objektif) tezahürün önceki Evre’sine eşittir. 
 
@@ -1711,8 +1701,6 @@ Ay Evresi’nde, içine bir arzu bedenin girebilmesi ve bir sinir sistemi, kasla
 Üçüncü devirde Ay Evresi’nin gerçek çalışması başladı. Bireyselliğin Efendileri kendilerinden bir madde ışımasını sağladılar. Bu sayede gelişen bilinçsiz insanın, bir tohum arzu beden edinmesine ve onu kendisine katmasına yardım ettiler. Ayrıca bu tohum arzu bedenin, insanın önceden sahip olduğu birleşik yaşam beden ve yoğun bedenle birleştirilmesi işlemi de onların yardımıyla gerçekleşti. Bu çalışma, Ay Evresinin üçüncü ve dördüncü devirlerinin tamamı boyunca sürdü. 
 
 Bilgeliğin Efendileri gibi Bireyselliğin Efendileri de, ondan çok yüce olmalarına rağmen kendi evrimlerini tamamlamak için insanın üzerinde ve içinde çalıştılar. Onlar, düşük araçları geliştirebilme yeteneğine sahip olmalarına karşın yüksek araçlarla çalışma konusunda acizdiler. Ve de insanda üçüz ruhun üçüncü görünümünü uyandırmak için gerekli olan ruhsal tepiyi (impulse) veremediler. Bu yüzden Ay Evresi’nin beşinci devrinde, bizim geçtiğimiz evrim gibi bir evrime kendi gelişimleri için gereksinim duymayan, dolayısıyla Alev’in Efendileri ve Kerrubim gibi kendiliklerinden bu evrime katkı sağlayan başka bir varlık sınıfı insana yardım etmek için devreye girdi. Bu varlıklar “Seraphim” olarak adlandırılırlar. Onlar, insanda ruhun üçüncü görünümü olan insan ruhunun tohumunu uyandırdılar. 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 Ay Evresinin altıncı devrinde Kerrubim tekrar göründü ve yeni edinilmiş olan insan ruhu tohumunu yaşam ruhuna bağlamak için Bireyselliğin Efendileri ile birlikte çalıştılar. 
 
@@ -1756,7 +1744,9 @@ Başka bir yaratıcı Hiyerarşi, gelişimlerinde ilerleyen yoğun, yaşam ve ar
 
 Evrim çalışmasında, Satürn Evresi’nin başlangıcında oniki büyük Yaratıcı Hiyerarşi faaldi. Bu Hiyerarşilerden ikisi en başta yardımcı oldular. Onların ne yaptığına ve kim olduklarına ilişkin hiçbir bilgi verilmemiştir. Sadece bu çalışmayı gönüllü olarak yaptıkları ve bundan sonra da sınırlı varoluştan tekrar özgürlüğe döndükleri belirtilmiştir. 
 
-Bu iki Hiyerarşiyi, şimdiki Yer Evresinin başlangıcına kadar üç Yaratıcı Hiyerarşi takip etti: Alev’in Efendileri, Kerrubim ve Seraphim. Bunlar, Yer Evresi başladığında aktif hizmette yedi Hiyerarşi’yi geride bıraktılar. (Şekil 9, Oniki Yaratıcı Hiyerarşi ve onların durumları hakkında daha da açık bir fikir verecektir). 
+Bu iki Hiyerarşiyi, şimdiki Yer Evresinin başlangıcına kadar üç Yaratıcı Hiyerarşi takip etti: Alev’in Efendileri, Kerrubim ve Seraphim. Bunlar, Yer Evresi başladığında aktif hizmette yedi Hiyerarşi’yi geride bıraktılar. 
+
+(Şekil 9, Oniki Yaratıcı Hiyerarşi ve onların durumları hakkında daha da açık bir fikir verecektir). 
 
 Zihnin Efendileri “zihin maddesinden” bedenler inşa etmede, tıpkı bizim aynı sebepten kimyasal maddeden bedenler inşa etmede uzmanlaştığımız gibi uzmanlaştılar. Somut Düşünce Bölgesi, Satürn Evresi’nde erişilmiş olan ve maddenin en yoğun halinin bulunduğu bölgeydi. Bu Evre’de onlar insandılar ve kimyasal bölge, insanlığımız tarafından temas edilebilecek en yoğun madde haliydi. 
 
@@ -1796,17 +1786,17 @@ Satürn Evresi’nin sonunda tanrısal ruhun kendi içlerinde uyandırılmasına
 
 Böylece Ay Evresinin başlangıcında aşağıdaki sınıflar oluştu: 
 
-Satürn ve Güneş Evrelerinden başarıyla geçen Öncüler. Bunlar, tohumsal faaliyetteki bir yoğun bedene, bir yaşam bedene, bir tanrısal ruha ve bir yaşam ruhuna sahiptiler. 
+1\. Satürn ve Güneş Evrelerinden başarıyla geçen Öncüler. Bunlar, tohumsal faaliyetteki bir yoğun bedene, bir yaşam bedene, bir tanrısal ruha ve bir yaşam ruhuna sahiptiler. 
 
-Güneş Evresinin Geri Kalmışları. Bunlar, tümü tohum halinde olan bir yoğun bedene, bir yaşam bedene ve bir de tanrısal ruha sahiptiler. 
+2\. Güneş Evresinin Geri Kalmışları. Bunlar, tümü tohum halinde olan bir yoğun bedene, bir yaşam bedene ve bir de tanrısal ruha sahiptiler. 
 
-Güneş Evresi’nin yedinci devrinde terfi etmiş olan Satürn Evresi’nin Geri Kalmışları. Bir yoğun beden ve bir yaşam beden tohumuna sahiptiler. 
+3\. Güneş Evresi’nin yedinci devrinde terfi etmiş olan Satürn Evresi’nin Geri Kalmışları. Bir yoğun beden ve bir yaşam beden tohumuna sahiptiler. 
 
-Yeni Yaşam Dalgası’nın Öncüleri. 3. gruptakilerle aynı araçlara sahiptiler, ancak bizimkinden farklı bir evrim planına aitlerdi. 
+4\. Yeni Yaşam Dalgası’nın Öncüleri. 3. gruptakilerle aynı araçlara sahiptiler, ancak bizimkinden farklı bir evrim planına aitlerdi. 
 
-Yeni Yaşam Dalgasının Geri Kalmışları. Sadece yoğun beden tohumuna sahiptiler. 
+5\. Yeni Yaşam Dalgasının Geri Kalmışları. Sadece yoğun beden tohumuna sahiptiler. 
 
-Yeni Bir Yaşam Dalgası. Evrimlerine Ay Evresi’nin başlangıcında başladılar ve günümüzdeki Bitkilere rûh vermektedirler. 
+6\. Yeni Bir Yaşam Dalgası. Evrimlerine Ay Evresi’nin başlangıcında başladılar ve günümüzdeki Bitkilere rûh vermektedirler. 
 
 Doğanın yavaş yavaş geliştiğini hatırlayalım. Doğa, formlarda ani değişimler gerçekleştirmez. Onun için zaman hiçbir şey, mükemmelliğe erişilmesi ise her şeydir. Bir maden, bir sıçrayışta bir bitkiye dönüşmez. Bu dönüşüm basamak basamak ve neredeyse ayırt edilmeyecek derecelerle gerçekleşir. Bir bitki bir gecede bir hayvana dönüşmez. Değişimlerin meydana gelmesi için milyonlarca yıl gerekir. Bu yüzden doğada daima basamakların ve alt-basamakların tamamı birarada bulunur. Varoluşun merdiveni, protoplazmadan Tanrı’ya kadar kesintisiz bir şekilde uzanır. 
 
@@ -1818,7 +1808,7 @@ Bu tespit, yukarıda Ay’ı ıslak olarak tarif etmiş olmamızla ya da Ay Evre
 
 Listemizdeki 5. sınıf, neredeyse madendi fakat Güneş Evresi’nde maden durumunu geçtiği için birkaç bitki özelliğine de sahipti. 
 
-4. sınıf ise hemen hemen bitkiydi ve Ay Evresi bitmeden önce bitki durumuna çıktı. Ancak maden krallığına, yüksek krallıkları oluşturan üstteki iki basamaktan daha yakındı. Bu yüzden dördüncü ve beşinci sınıfları birleştirebiliriz ve onları bir tür ara basamak olarak bir “maden-bitki” krallığı olarak adlandırabiliriz. Bu krallık, Ay Evresi’nin eski Gezegeninin yüzeyini oluşturmaktaydı. O, günümüzdeki maden ve bitki arasındaki bir durum olan bataklık kömürü benzeri bir şeydi. Maden- bitki krallığı, Ay Evresinin sulu olması gerçeğine uygun olarak yaş ve ıslaktı. 
+4\. sınıf ise hemen hemen bitkiydi ve Ay Evresi bitmeden önce bitki durumuna çıktı. Ancak maden krallığına, yüksek krallıkları oluşturan üstteki iki basamaktan daha yakındı. Bu yüzden dördüncü ve beşinci sınıfları birleştirebiliriz ve onları bir tür ara basamak olarak bir “maden-bitki” krallığı olarak adlandırabiliriz. Bu krallık, Ay Evresi’nin eski Gezegeninin yüzeyini oluşturmaktaydı. O, günümüzdeki maden ve bitki arasındaki bir durum olan bataklık kömürü benzeri bir şeydi. Maden- bitki krallığı, Ay Evresinin sulu olması gerçeğine uygun olarak yaş ve ıslaktı. 
 
 Böylece dördüncü, beşinci ve altıncı sınıflar, Ay Evresi’nde maden krallığının farklı alt- basamaklarını oluşturdular. En yüksektekiler neredeyse bitki durumuna ulaştılar. En alttakiler ise bu zamanın en sert maden maddesini meydana getirdiler. 
 
@@ -1842,7 +1832,9 @@ Hristiyanlık dini “kurtuluş”tan bahsederken bizim şimdiki evrim dalgamız
 
 Okült bilgin’in en büyük endişesi materyalizmdir. Eğer materyalizm çok ileri giderse sadece ilerlemeyi durdurmayla kalmayacak, aynı zamanda bakir ruhun yedi aracının tamamını yokededecek ve onu çıplak bırakacaktır. O zaman bu ruh, yeni evrimde tekrar en baştan başlamak zorunda kalacaktır. Onun Satürn Evresi’nden beri yaptığı bütün çalışma tamamen ziyan olacaktır. Bu yüzden bizim insanlığımız için şimdiki evre, tüm evreler içerisinde en kritik olanıdır. Bu yüzden okült bilgin, bir tanesi de cermen-anglosakson olan on altı ırktan, “yokedilmenin on altı olasılığı” olarak bahseder. Okuyucu umarız ki tüm bunları emin bir şekilde geçer. Zira onun zincirleri, gelecek devirdeki gecikmeden daha kötüdür. 
 
-Genel olarak belirtmek gerekirse, son gösterilen listede Sınıf 5, yedinci devirde Alev’in Efendileri tekrar göründüğünde tanrısal ruh tohumunu alacaktır. Bu yüzden onlar, Ay Evresinin başlangıcında gelişmeye başlamış olan son evrim dalgasının öncüleriydiler. Orada maden varoluşundan geçtiler. Böylece o yaşam dalgasının Geri kalmışları, sadece yoğun bir beden tohumuna sahip olarak kaldılar. 
+Genel olarak belirtmek gerekirse, son gösterilen listede Sınıf 5, yedinci devirde Alev’in Efendileri tekrar göründüğünde tanrısal ruh tohumunu alacaktır. Bu yüzden onlar, Ay Evresinin başlangıcında gelişmeye başlamış olan son evrim dalgasının öncüleriydiler. Orada maden varoluşundan geçtiler. 
+
+Böylece o yaşam dalgasının Geri kalmışları, sadece yoğun bir beden tohumuna sahip olarak kaldılar. 
 
 Yukarıdakilere ek olarak, yeni bir yaşam dalgası ( bizim şimdiki maden krallığımız) daha geldi ve evrimine Yer Evresi’nin başında başladı. 
 
@@ -1898,8 +1890,6 @@ Kan, yaşam bedenin en yüksek ifadelerinden biridir. Ego, kendi yoğun enstrüm
 
 Ayrıca görülecektir ki Ego, kanı en büyük faaliyeti sürdürdüğü yere sürmektedir. Bir durum, ani düşünce ve eylem gerektirdiğinde kan hemen kafaya sürülmektedir. Ağır bir yemeğin sindirilmesi gerektiğinde ise kanın büyük bir kısmı kafayı terk eder ve sindirim organları etrafında birikir. Ego çalışmalarını, yararsız yiyeceklerden bedenin kurtarılması üzerinde yoğunlaştırır. Bu yüzden ağır bir yemekten sonra insan iyi düşünemez. Uykulu bir hale gelir, çünkü beyinden çok fazla kan çekilmiştir ve beyinde kalan kan, tam uyanık bilinç için gerekli fonksiyonları devam ettirmede yetersizdir. Ayrıca neredeyse tüm yaşam enerjisi (ki bu, dalak tarafından salgılanan Güneş Enerjisidir) kandan alınır. Dalak, yemekten sonra bu enerjiyi, diğer zamankinden daha fazla salgılar. Böylece bedenin geri kalan kısmı, sindirim esnasında büyük bir ölçüde yaşam sıvısından mahrum kalır. Kanı beyne süren Ego’dur. Bunu şöyle ispatlayabiliriz: Bir insanı, iki ayağı üzerinde terazi biçiminde dengede bulunan bir masaya yatıralım. Beden uykuya daldığında masa, ayaklar yönünde aşağıya inecek, kafa da yukarıya çıkacaktır. Cinsel birleşme sırasında kan, cinsel organlar etrafında birikir. Tüm bu örnekler Ego’nun, uyanık olunan saatler boyunca kan aracılığıyla yoğun bedende çalıştığını ve onu kontrol ettiğini gösterir. Kanın büyük kısmı Ego’nun o an üzerinde faaliyet gösterdiği organa gider. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Yer Evresi’nin Satürn Devrinde yoğun bedenin yeniden oluşturulmasının amacı, yoğun bedenin zihin tarafından kapsanabilmesini sağlamaktır. Satürn Devri, beynin ön tarafının inşası ve sinir sisteminde yeni başlayan bölünme için ilk tepiyi (impulse) verir. Bundan sonra sinir sistemi, iki alt-bölümle (istençli ve sempatik) görünür hale gelir. Sadece sempatik sinir sistemi Ay Evresi’nde hazırlanmıştır. Yoğun bedeni sadece, dışarıdan uyarıcıların kontrolü altında otomatik hareket eden bir makine olmaktan çıkarıp olağanüstü uyumlu ve Ego tarafından yönlendirilebilen ve kontrol edilebilen bir enstrüman haline dönüştüren istençli sinir sistemi, şimdiki Yer Evresi’ne kadar insana eklenmemişti. 
 
 Bu yeniden inşa çalışmasının ana kısmı Form’un Efendileri tarafından gerçekleştirildi. Satürn Evresi’nde en aktif Yaratıcı Hiyerarşi, Alev’in Efendileri; Güneş Evresi’nde Bilgeliğin Efendileri, Ay Evresi’nde Bireyselliğin Efendileri iken Yer Evresi’nde en aktif Yaratıcı Hiyerarşi, Form’un Efendileri’dir. 
@@ -1915,8 +1905,6 @@ Ay Evresi’nde insan olan melekler, bu yeniden inşada Form’un Efendileri’n
 Biz eleştirmek istemiyoruz, ancak evriminin şimdiki safhasında insan, normalde yaşam bedeni ayrı bir araç olarak kullanamaz. Çünkü o, her zaman yoğun bedenin içinde kalır. Yaşam beden, yoğun bedenden tamamen çekip çıkarılabilseydi bu, yoğun bedenin ölümüne yolaçardı. Ancak, yaşam bedenin yoğun bedenle çok sıkı bir şekilde bağlı olmadığı bir zaman da vardı ve biz hemen bu zamandan bahsedelim. 
 
 Bizim dünyâmızın, önceden Lemurya ve Atlantis Çağları olarak adlandırdığımız çağları boyunca insan, iradedışı bir durugörürdü. Bunun nedeni de onun, yoğun bedeni ile yaşam bedeni arasındaki gevşek bağdı. (O zamanın öğretmenleri, iradeli öğrencilere bu bağın nasıl daha da gevşetileceğini öğretiyorlardı.) 
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 O zamandan sonra insanların büyük çoğunluğunda yaşam beden, yoğun bedenle çok daha sıkı olarak bağlandı. Ancak duyuların tamamında bağlantı gevşektir. Ruhsal insanla sıradan insan arasındaki farkı yaratan da bu gevşek bağdır. Sıradan insan beş duyu dışındaki titreşimleri algılayamaz. Tüm insanlar, taşıyıcılarla olan bu sıkı bağlantı evresinden geçmek ve bundan dolayı meydana gelen bilincin sınırlılığını deneyimlemek zorundadırlar. Bu yüzden iki tür duyu vardır: Birincisi henüz maddenin tuzağına tam bir şekilde düşmemiş olanlar. Buna örnek olarak Hinduların ve Kızılderililerin pekçoğunu verebiliriz. Onlar, belli düşük bir derecede durugörürlüğe sahiptirler, doğanın seslerine karşı duyarlıdırlar ve evrimin öncü kolunda bulunanlardır. İkinci tür duyu da maddenin en derin noktasından ortaya çıkar ve kendi arasında ikiye ayrılır: Zayıf iradeyle pasif bir şekilde gelişmiş olanlar. Bunlar başkalarının yardımıyla istençsiz sinir sistemiyle bağlantılı olan solar pleksus’u ya da diğer organları yeniden uyandırırlar. Bunlar, yetenekleri üzerinde kontrole sahip olmayan istençsiz durugörürler ve medyumlardır. Ve de geriye doğru giderler. Diğer grup da kendi iradesi ve kendi bilinciyle istençli sinir sistemiyle bağlantılı organların titreşimsel güçlerini açığa çıkaranlardır. Bunlar deneyimli okültistlerdir ve kendi bedenlerini kontrol ederler ve kendi durugörür yetilerini ne zaman isterlerse kullanabilirler. Ve de istençli veya eğitimli durugörürler olarak adlandırılırlar. 
 
@@ -1990,10 +1978,12 @@ Kaos, geçmişte olmuş olan ve artık zamanımızda kaybolmuş bir durum değil
 
 Bilinen bir prensiptir ki, “ne kadar sık ölürsek, o kadar iyi yaşarız”. Şair-İnisiye olan Goethe der ki: 
 
-    Ve buna sahip olmadığın sürece   
-    Bu ölüme ve oluşa   
-    Kederli bir misafirsin sadece   
-    Karanlık Dünya’da   
+```
+Ve buna sahip olmadığın sürece   
+Bu ölüme ve oluşa   
+Kederli bir misafirsin sadece   
+Karanlık Dünya’da   
+```
 
 Ve Paul der ki: “Ben hergün ölüyorum”. 
 
@@ -2031,7 +2021,9 @@ Beyaz üçgenin içinde bir mavi, bir kırmızı ve bir sarı çember bulunmakta
 
 Şekil 11’de de görüldüğü gibi bu üç renk karışırsa dört renk ortaya çıkar. Bu renklerden üçü, iki ana rengin karışımı olan ara renklerdir. Diğer dördüncüsü ise tüm renk skalasını içeren, yani spektrumun tüm yedi rengine de sahip olan çivittir (indigo). Bu yedi renk, Tahtın Önündeki Yedi Ruhu temsil eder. Renkler gibi herbiri Tanrı’nın Krallığında, yani Güneş Sistemimizde farklı bir misyona sahip olan Yedi Ruh da farklıdır. 
 
-Güneşin etrafında dönen yedi gezegen, yedi gezegen ruhunun yoğun bedenleridir. Bunların isimleri şöyledir: Bir uydulu Uranüs, sekiz uydulu Satürn, dört uydulu Jüpiter, iki uydulu Mars, tek uydulu Dünya, Venüs ve Merkür. (1909)[42] 
+Güneşin etrafında dönen yedi gezegen, yedi gezegen ruhunun yoğun bedenleridir. Bunların isimleri şöyledir: Bir uydulu Uranüs, sekiz uydulu Satürn, dört uydulu Jüpiter, iki uydulu Mars, tek uydulu Dünya, Venüs ve Merkür. (1909)[42]*
+
+*[42] Bu kitabın yazılmasından bu yana yapılan astronomik keşifler, Uranüs’ün 4 uyduya; Satürn’ün 9 uyduya ve Jüpiter’in 11 uyduya sahip olduğunu ortaya çıkarmıştır. 
 
 Yaratılan bedenin, daima yaratıldığı amaca uygun olduğu görülmüştür. Bu yüzden yedi gezegen ruhunun yoğun bedenleri küre biçimlidir. Böylece bu form, gezegenlerin uzayda çok yüksek hareket hızlarına en iyi uyan formdur. Örneğin Dünya, yörüngesinde saatte yaklaşık 119.000 km hızla hareket eder. 
 
@@ -2169,9 +2161,7 @@ Tüm insanlara doğu bilgeliğinin öğretilerini getiren Okültizm hakkındaki 
 
 İnsan evriminin, şu anda Dünya’mızdaki yaşam dalgası ile tamamlanacak olan kısmı, yedi büyük basamağa veya çağa ayrılır. Ancak bu ayrımlar ırk olarak adlandırılamazlar. Bu ismin doğru olarak kullanılabileceği hiçbir şey, Lemurya Çağı’nın sonundan önce ortaya çıkmamıştır. Ancak Lemurya Çağı’ndan itibaren farklı ırklar Atlantis ve Âri Çağları boyunca birbiri ardına meydana gelmişlerdir ve altıncı büyük Çağa kadar önemlerini yitirmiş olsalar da devam edeceklerdir. 
 
-Bizim evrim planımızın içerisinde bulunan geçmiş, şimdi ve gelecekteki ırkların toplam sayısı 
-
-16’dır. Bunlardan biri Lemurya Çağı’nın sonuna, yedisi Atlantis Çağı’na, yedisi şimdiki Âri Çağımıza ve biri de Altıncı Çağın başlangıcına aittir. Altıncı Çağın başlangıcından sonra artık ırk olarak adlandırılabilecek bir şey varolmayacaktır. 
+Bizim evrim planımızın içerisinde bulunan geçmiş, şimdi ve gelecekteki ırkların toplam sayısı 16’dır. Bunlardan biri Lemurya Çağı’nın sonuna, yedisi Atlantis Çağı’na, yedisi şimdiki Âri Çağımıza ve biri de Altıncı Çağın başlangıcına aittir. Altıncı Çağın başlangıcından sonra artık ırk olarak adlandırılabilecek bir şey varolmayacaktır. 
 
 Yer Evresi’nden önceki evrelerde ırklar yoktu. Bundan sonraki evrelerde de ırk olmayacaktır. Sadece burada, maddesel varoluşun en alt noktasında insanla insan arasındaki fark, ırklara ayrımı gerektirecek kadar büyüktür. 
 
@@ -2439,15 +2429,11 @@ Orta Asya, ilk Sâmilerin torunları olan Âri ırklarının beşiğiydi. Burada
 
 Beşinci çağ boyunca günümüze kadar Yer üzerinde yayılmış olan ırklar şunlardır: 
 
-Güneye, Hindistan’a gitmiş olan Âri ırkı. 
-
-Bâbil-Asur-Kaldean ırkı. 
-
-Fars-Yunan-Latin ırkı. 
-
-Kelt ırkı. 
-
-Cermen-Anglo-Sakson (yazarın da ait olduğu ırk) 
+1\. Güneye, Hindistan’a gitmiş olan Âri ırkı. 
+2\. Bâbil-Asur-Kaldean ırkı. 
+3\. Fars-Yunan-Latin ırkı. 
+4\. Kelt ırkı. 
+5\. Cermen-Anglo-Sakson (yazarın da ait olduğu ırk) 
 
 Şu anda ABD’de meydana gelmekte olan farklı ulusların karışımından, Altıncı Çağın başlangıcında son ırkın “tohum”u çıkacaktır. 
 
@@ -2499,7 +2485,9 @@ Irk zincirlerinden kurtulmaları için son bir teşebbüs olarak, gelecek Irkın
 
 İsa’yı reddetmeleri Yahudilerin Irk köleliklerinin en büyük kanıtıdır. Bundan sonra da özel Peygamberler ve Öğretmenlerle onları toptan kurtarma çabalarına son verilmiştir. Onları toplu hâlde sürgün etmenin yararsızlığı da ortaya çıkınca son çare olarak Yahudiler, Dünya’daki halkların arasına parça parça dağıtılmışlardır. Yine de tüm bunlara rağmen bu halkın aşırı inadı günümüze dek baskın çıkmıştır. Yahudilerin çoğunluğu halen ortodokstur. Ancak Amerika’dakilerinde yavaş yavaş değişim gözlenmektedir. Genç nesiller, kendi Irkları dışındakilerle evlenmeye başladılar. Böylece geçmişin Yahudileri’nin yeniden bedenlenen ruhları için zamanla hep daha az Irk özelliklerine sahip artan sayıda beden olması sağlanacaktır. Bu şekilde, kendilerine rağmen onlar, kurtarılmış olacaklardır. Onlar, aşağı Irklarla evlendikleri için “kayıp” hâline geldiler, kendilerinden ileri Irklarla kaynaşarak kurtarılacaklardır. 
 
-Şimdiki Âri Irkları, mantıklı düşünen insani Varlıklardır. Ve önceki deneyimlerinden yararlanabilme yeteneğine sahiptirler. Önceki gelişim basamakları ve söz dinlemez Yahudileri yakalayan kader onlara anlatıldığında, kendilerine mantıklı düşünme aracı verilmiş olur. Bu asilerin, Liderlerinin onlarla nasıl uğraştıklarını anlatan kitapları vardır. Bu kitap, onların nasıl seçilmiş olduklarını, ve asi olduklarını, nasıl cezalandırıldıklarını ve de nasıl kurtuluşu beklediklerini gösterir. Bu kayıtlar, nasıl davranmamamız gerektiğini görmek için bizim tarafımızdan başarıyla kullanılabilir. Çağlar boyunca bu kayıtların bozulmuş olması ve günümüz Yahudilerinin hâlâ “seçilmiş insanlar” olma yanılgısı içinde olmaları önemli değildir. Onların deneyimlerinden çıkarılabilecek dersler, bu yüzden değerinden bir şey kaybetmez. “Seçilmiş bir halkın” Liderini nasıl bezdirebileceğini ve plânlarını mahvedebileceğini ve bu halkın çağlar boyunca bir Irk’a nasıl bağlı kalabileceğini onlardan öğrenebiliriz. Onların deneyimleri, gelecekteki herhangi bir “seçilmiş topluluğa” bir uyarı olmalıdır. Paul bunu yanlış anlaşılamayacak kadar açık kelimelerle ifade etmiştir: “Çünkü melekler aracılığıyla bildirilmiş olan söz geçerli olduysa, her suç ve her itaatsizlik hakettiği karşılığı aldıysa, bu kadar büyük kurtuluşu görmezden gelip nasıl kurtulabiliriz?” (İbraniler, 2:3-4) Paul burada Hristiyanlara konuşmaktadır, zira mektubu yazdığı Yahudiler, Hristiyanlığa geçmişlerdi. Onlar Paul’un, gelecekteki bir Dünya yaşamında yeni “seçilmiş Halk” arasında olmalarını beklediği insanlardı. Bu halk, bir Lideri seve seve takip eden ve Sevgi ile ruhsal idrak (spiritual perception) yeteneğini geliştiren bir halk olacaktır. Ruhsal idrak, bencillik ile aklın yerine geçecek sezgidir (intuition). 
+Şimdiki Âri Irkları, mantıklı düşünen insani Varlıklardır. Ve önceki deneyimlerinden yararlanabilme yeteneğine sahiptirler. Önceki gelişim basamakları ve söz dinlemez Yahudileri yakalayan kader onlara anlatıldığında, kendilerine mantıklı düşünme aracı verilmiş olur. Bu asilerin, Liderlerinin onlarla nasıl uğraştıklarını anlatan kitapları vardır. Bu kitap, onların nasıl seçilmiş olduklarını, ve asi olduklarını, nasıl cezalandırıldıklarını ve de nasıl kurtuluşu beklediklerini gösterir. Bu kayıtlar, nasıl davranmamamız gerektiğini görmek için bizim tarafımızdan başarıyla kullanılabilir. Çağlar boyunca bu kayıtların bozulmuş olması ve günümüz Yahudilerinin hâlâ “seçilmiş insanlar” olma yanılgısı içinde olmaları önemli değildir. Onların deneyimlerinden çıkarılabilecek dersler, bu yüzden değerinden bir şey kaybetmez. “Seçilmiş bir halkın” Liderini nasıl bezdirebileceğini ve plânlarını mahvedebileceğini ve bu halkın çağlar boyunca bir Irk’a nasıl bağlı kalabileceğini onlardan öğrenebiliriz. Onların deneyimleri, gelecekteki herhangi bir “seçilmiş topluluğa” bir uyarı olmalıdır.
+
+Paul bunu yanlış anlaşılamayacak kadar açık kelimelerle ifade etmiştir: “Çünkü melekler aracılığıyla bildirilmiş olan söz geçerli olduysa, her suç ve her itaatsizlik hakettiği karşılığı aldıysa, bu kadar büyük kurtuluşu görmezden gelip nasıl kurtulabiliriz?” (İbraniler, 2:3-4) Paul burada Hristiyanlara konuşmaktadır, zira mektubu yazdığı Yahudiler, Hristiyanlığa geçmişlerdi. Onlar Paul’un, gelecekteki bir Dünya yaşamında yeni “seçilmiş Halk” arasında olmalarını beklediği insanlardı. Bu halk, bir Lideri seve seve takip eden ve Sevgi ile ruhsal idrak (spiritual perception) yeteneğini geliştiren bir halk olacaktır. Ruhsal idrak, bencillik ile aklın yerine geçecek sezgidir (intuition). 
 
 Yeni Ahit’in Hristiyan öğretisi özellikle Batı Dünyası’nın öncü Irkları için uygundur. Bu Irklar özellikle Birleşik Devletler halkına aşılanmışlardır. Altıncı Çağın yeni ırkının amacı, bütün Irkların birleştirilmesi olacaktır. Birleşik Devletler, içinde dünyanın bütün uluslarının kaynaşacağı bir “pota” olacaktır ve bu karışımdan da bundan sonraki “seçilmiş halk”ın çekirdeği meydana gelecektir. 
 
@@ -2511,7 +2499,7 @@ Böylelikle görebiliriz ki Kutsal Kitap, Yahudi Irkının Eski Ahit’te kayded
 
 #### <h4 id="limitations-of-the-bible">Kutsal Kitap’ın Kısıtlamaları</h4>
 
-13. Bölüme kadar İncil, nispeten az referans gösterildi. Fakat şimdi dikkatimizi belli bir süreliğine onun üzerinde yoğunlaştıracağız. Ancak bununla (günümüzde genellikle bilinen biçimde) Tanrı’nın sanki bir tek gerçek ve vahyedilmiş kitabı imiş gibi İncil’in savunulması amaçlanmamıştır. Yine de şu bir gerçektir ki İncil, çok değerli okült bilgiler içermektedir. Bu bilgiler, büyük oranda ana metnin arkasına gizlenmiştir ve sonradan eklenen ve doğruluğu şüpheli olan (“apocryphal”) kısımların metne ilavesiyle karartılmıştır. Kastedilen anlamı bilen okült bilgin, elbette ki hangi parçaların orijinal ve hangilerinin sonradan ekleme olduklarını kolaylıkla görebilir. Ve de birinci bölüm olan Yaratım Bölümü’nü sahip olduğumuz en iyi çeviriyle ele alırsak görürüz ki, bu bölüm, bu eserin ilk kısmında açıklanmış olanla aynı evrim plânını ortaya çıkarmıştır. Ve de ilk kısımda Evreler, Devirler ve Irklar vs’ye ilişkin okült bilgilerle tam uyumludur. Verilmiş olan anahatlar çok kısa ve rafine bilgilerdir ve bir Evre’nin tamamını birkaç kelimeyle ifade etmiştir. Ancak yine de anahatlar vardır. 
+13\. Bölüme kadar İncil, nispeten az referans gösterildi. Fakat şimdi dikkatimizi belli bir süreliğine onun üzerinde yoğunlaştıracağız. Ancak bununla (günümüzde genellikle bilinen biçimde) Tanrı’nın sanki bir tek gerçek ve vahyedilmiş kitabı imiş gibi İncil’in savunulması amaçlanmamıştır. Yine de şu bir gerçektir ki İncil, çok değerli okült bilgiler içermektedir. Bu bilgiler, büyük oranda ana metnin arkasına gizlenmiştir ve sonradan eklenen ve doğruluğu şüpheli olan (“apocryphal”) kısımların metne ilavesiyle karartılmıştır. Kastedilen anlamı bilen okült bilgin, elbette ki hangi parçaların orijinal ve hangilerinin sonradan ekleme olduklarını kolaylıkla görebilir. Ve de birinci bölüm olan Yaratım Bölümü’nü sahip olduğumuz en iyi çeviriyle ele alırsak görürüz ki, bu bölüm, bu eserin ilk kısmında açıklanmış olanla aynı evrim plânını ortaya çıkarmıştır. Ve de ilk kısımda Evreler, Devirler ve Irklar vs’ye ilişkin okült bilgilerle tam uyumludur. Verilmiş olan anahatlar çok kısa ve rafine bilgilerdir ve bir Evre’nin tamamını birkaç kelimeyle ifade etmiştir. Ancak yine de anahatlar vardır. 
 
 Bir analize başlamadan önce şunu söylemek zorunludur ki, İbrani dilinin kelimeleri, özellikle eski stilden olanları, içiçe geçmişlerdir ve bizim dillerimizde olduğu gibi ayrı değildirler. Buna ek olarak İbranice’de sesli harfler kelimelerde yazılmamaktadırlar[45]. Bu yüzden de metin, okunuşunda sesli harflerin nereye ve nasıl konulacağına çok bağlıdır. İlk anlamı kesin bir şekilde tespit etmenin zorluğunun ne kadar büyük olduğu da gösterilecektir. Ufak bir değişiklik, neredeyse her cümlenin anlamını değiştirebilir. 
 
@@ -2625,7 +2613,7 @@ Yer’in Güneş’ten ve Ay’dan ayrılmasından sonra Yer’e dışarıdan ge
 
 Lemurya Çağı beşinci günün işi olarak anlatılmaktadır. Bu üçüncü Çağ, bir anlamda Ay Evresi’nin bir tekrarıdır. Ve İncil’in öyküsünde Ay Evresi’nde bahsedilmiş olan su, ateş bulutsusu ve hareket eden ve nefes alan Yaşam’ın ilk çabaları yeralır. 
 
-20. ve 21. ayetler bize şöyle der: “Elohim dedi, Su’da canlı varlıklar oluşsun, (...) ve kuşlar (...) ; ve Elohim hem suda hem de karada yaşayabilen büyük varlıkları (amphibian), türlerine göre tüm canlıları ve kanatlı tüm kuşları yarattı.” 
+20\. ve 21. ayetler bize şöyle der: “Elohim dedi, Su’da canlı varlıklar oluşsun, (...) ve kuşlar (...) ; ve Elohim hem suda hem de karada yaşayabilen büyük varlıkları (amphibian), türlerine göre tüm canlıları ve kanatlı tüm kuşları yarattı.” 
 
 Bu aynı zamanda maddi bilimin, hem suda hem de karada yaşayabilen büyük varlıkların kuşlardan önce geldiğini belirten öğretisiyle uyuşmaktadır. 
 
@@ -2643,7 +2631,7 @@ Bu, Formların yaratıldığı hikâye sunumunu sonlandırır. Önümüzdeki bö
 
 #### <h4 id="jehovah-and-his-mission">Yehova ve Misyonu</h4>
 
-1. bölümdeki Yaratılış hikâyesi ile 2. bölümün 4. âyetiyle başlayan kısım arasındaki çelişki ve özellikle de bunların yazarları hakkında birçok ilmi tartışma meydana gelmiştir. Bu iki bölümün farklı kişiler tarafından yazıldığı tespit edilmiştir. Çünkü çevirmenlerin birinci ve ikinci bölümde diğer dillere “Tanrı” olarak tercüme ettiği Varlık ya da Varlıklar, İbranice metnin birinci bölümünde “Elohim”, ikinci bölümde de “Yehova” olarak adlandırılmışlardır. Bunun için aynı yazarın Tanrı kelimesi için iki farklı sözcük kullanmayacağı savunulmuştur. 
+1\. bölümdeki Yaratılış hikâyesi ile 2. bölümün 4. âyetiyle başlayan kısım arasındaki çelişki ve özellikle de bunların yazarları hakkında birçok ilmi tartışma meydana gelmiştir. Bu iki bölümün farklı kişiler tarafından yazıldığı tespit edilmiştir. Çünkü çevirmenlerin birinci ve ikinci bölümde diğer dillere “Tanrı” olarak tercüme ettiği Varlık ya da Varlıklar, İbranice metnin birinci bölümünde “Elohim”, ikinci bölümde de “Yehova” olarak adlandırılmışlardır. Bunun için aynı yazarın Tanrı kelimesi için iki farklı sözcük kullanmayacağı savunulmuştur. 
 
 Yazar her iki durumda da aynı Tanrı’yı kastetmiş olsaydı bile, muhtemelen yine farklı sözcükler kullanacaktı. Fakat o Tektanrıcı (Monotheist) değildi. O herhâlde Tanrı’yı basitçe, göğü taht ve yeri de ayak iskemlesi olarak kullanan üstün bir insan olarak düşünemeyeceğini biliyordu. Yehova hakkında yazarken de, Yaratım işinin özel bir kısmının sorumluluğu kendisine verilmiş ve belirtilen bölümde anlatılmış olan Lideri kastediyordu. Yehova, Elohim’den biriydi ve halen de onlardan biridir. O, Ay Evresi’nde insan olan Meleklerin Lideriydi ve bizim Ay’ımızın Hükümdarıdır. Yehova’nın konumunu ve bileşimini daha iyi anlamak için okuyucu Şekil 14’e başvurmalıdır. 
 
@@ -2717,13 +2705,17 @@ Düşük maymunlar, daha yüksek türlerin ataları değillerdir, aksine bir zam
 
 Nispeten benzer koşullar hayvan krallığında da bulunur. Evrime Güneş Evresi’nde girmiş olan yaşam dalgasının Öncüleri, günümüzün memelileridirler. Farklı dereceler, bir zamanlar insan tarafından çıkılmış basamaklara karşılık gelir. Fakat Geri Kalmışlar tarafından kullanıldıklarında bütün Formlar yozlaşırlar. Benzer şekilde evrime Ay Evresi’nde girmiş olan yaşam dalgasının Öncüleri de, meyve veren ağaçlarda bulunmaktadırlar. Bu yaşam dalgasının Geri Kalmışları ise diğer tüm bitki formlarında bulunurlar. 
 
-Şekil 13!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Bununla birlikte her yaşam dalgası kendi sınırları içerisinde kalır. Önceden bizimle aynı yaşam dalgasında olduklarından maymunlar, bize yetişebilir ve insan olabilirler. Fakat başka hiçbir hayvan, bizim özel gelişim noktasına erişemeyecek. Onlar benzer bir aşamaya ancak Jüpiter Evresi’nde farklı koşullarda ulaşacaklar. Şimdiki bitkiler Venüs Evresi’nin insanlığı olacak ve madenler de Vülken Evresi’nin koşulları altında insan aşamasına erişeceklerdir. 
 
 Modern evrim teorisi, özellikle de Haeckel’inki, tam tersine çevrilebilseydi, okült ilmin bilgisiyle hemen hemen tamamen uyum içerisinde olacaktı. 
 
-Maymun, insandan yozlaştı. Polipler, memeli hayvanların son yozlaşma basamaklarıdır. Yosunlar, bitki krallığının en aşağısındaki yozlaşmalarıdır. Maden krallığı, tüm krallıklarda yozlaşmanın zirvesine ulaşmış olan Formların son hedefidir. 
+Maymun, insandan yozlaştı. 
+
+Polipler, memeli hayvanların son yozlaşma basamaklarıdır.
+
+Yosunlar, bitki krallığının en aşağısındaki yozlaşmalarıdır.
+
+Maden krallığı, tüm krallıklarda yozlaşmanın zirvesine ulaşmış olan Formların son hedefidir. 
 
 Buna örnek olarak bir zamanlar bitki ya da bitki formları olan kömürü, taşlaşmış odunu ve farklı hayvanlardan geriye kalmış fosilleri verebiliriz. Hiçbir bilimadamının, kökeninin başka bir krallıkta olduğunu kabul etmeyeceği basit taş veya kayanın kökeni başka bir krallıktadır ve okült araştırmacı için o, kömürün kendisi kadar madenleşmiş bir bitkidir. Maden bilimci, eğitimine dayanarak onun hordblende, feldispat ve mikadan oluştuğunu söyleyecektir. Ancak onu doğanın hafızasında milyonlarca yıl geriye kadar izleyebilen deneyimli bir durugörür, bu tespite şunu da ekleyebilir: Evet, sizin maden olarak adlandırdığınız bu maddeler, tarihöncesi çiçeklerin yaprakları ve saplarıdırlar. Mika ise, çiçeklerin yapraklarından geriye kalan her şeydir. 
 
@@ -2761,7 +2753,9 @@ Yehova tarafından yapılan iş, zaten varolan yumuşak bedene, yoğun ve sert k
 
 #### <h4 id="adams-rib">Adem’in Kaburgası</h4>
 
-İncil’in yaygın versiyonlarında ve bu durum için Masoretik metinde de, cinsiyetlerin ayrılmasının gülünç ve olanaksız bir şekilde anlatılması, eski İbranice metinlere sesli harflerin yanlış konulmasının nelere yolaçabileceğini gösteren bir başka örnektir. Burada kullanılan sözcüğün bir türlü okunuşunun anlamı gerçekten “kaburga”dır. Fakat en az bu anlam kadar önemli ve ayrıca sağduyuya hitap eden öteki anlam ise “yan”dır. Bunu, insanın eril-dişil olduğunu ve Yehova’nın her insanda bir “yan”ı ya da bir cinsiyeti gizil ve gelişmemiş (latent) bıraktığını gözönüne alarak yorumlarsak, “kaburga” hikâyesini nasıl kabul edeceğimiz konusunda kendimizi zorlamamış oluruz. 
+İncil’in yaygın versiyonlarında ve bu durum için Masoretik metinde de, cinsiyetlerin ayrılmasının gülünç ve olanaksız bir şekilde anlatılması, eski İbranice metinlere sesli harflerin yanlış konulmasının nelere yolaçabileceğini gösteren bir başka örnektir. 
+
+Burada kullanılan sözcüğün bir türlü okunuşunun anlamı gerçekten “kaburga”dır. Fakat en az bu anlam kadar önemli ve ayrıca sağduyuya hitap eden öteki anlam ise “yan”dır. Bunu, insanın eril-dişil olduğunu ve Yehova’nın her insanda bir “yan”ı ya da bir cinsiyeti gizil ve gelişmemiş (latent) bıraktığını gözönüne alarak yorumlarsak, “kaburga” hikâyesini nasıl kabul edeceğimiz konusunda kendimizi zorlamamış oluruz. 
 
 Kelimenin bu anlamı kabul edildiğinde okült öğreti İncil’le uyuşmakta ve her ikisi de modern bilimin, bir zamanlar insanın, bir cinsiyeti geliştirmek için diğer cinsiyeti gizil bırakmadan önce çift cinsiyetli olduğu öğretisiyle örtüşmektedir. Bununla ilgili bir başka kanıt da ceninin belli bir noktaya kadar çift cinsiyetli olması ve bu noktadan sonra bir cinsiyetin üstün gelerek diğerinin geri kalmasıdır. Her insan karşıt cinsel organlara da temel bir formda sahiptir ve bu yüzden, tıpkı ilk insan gibi o da çift cinsiyetlidir. 
 
@@ -2853,13 +2847,13 @@ Bu yüzden yukarıda belirtilmiş olan sebeplerden dolayı yavaş yavaş başka 
 
 Bunun dört nedeni şunlardı: 
 
-1. Atlantis kıtasının sisli atmosferinin değişerek sissiz ve açık bir hale gelmesi. 
+1\. Atlantis kıtasının sisli atmosferinin değişerek sissiz ve açık bir hale gelmesi. 
 
-2. Burun kökündeki nokta ile yaşam bedenin ona karşılık gelen noktası birbirleriyle çakışacak şekilde yaşam bedenin, yoğun beden içine çekilmesi. 
+2\. Burun kökündeki nokta ile yaşam bedenin ona karşılık gelen noktası birbirleriyle çakışacak şekilde yaşam bedenin, yoğun beden içine çekilmesi. 
 
-3. Yakın akrabalardan çocuk sahibi olmanın kaldırılması ve onun yerine aile ve kabile dışından evlilikler yapılması 
+3\. Yakın akrabalardan çocuk sahibi olmanın kaldırılması ve onun yerine aile ve kabile dışından evlilikler yapılması 
 
-4. Sarhoş edici maddelerin kullanılması. 
+4\. Sarhoş edici maddelerin kullanılması. 
 
 Irk ruhu, insanda hâlâ yaşamakta ve insanla çalışmaktadır. Ancak bir ulus ne kadar ilerlemişse bireye de o kadar çok özgürlük verilmiştir. Ulusları en kuvvetli şekilde zincirlenmiş ülkelerde Irk ruhu hâlâ en güçlü konumdadır. İnsan, Sevgi yasası ile ne kadar çok uyum içinde olursa, idealleri ne kadar yüksek olursa kendisini Irk ruhundan o kadar kurtarır. Kendi içinde iyi bir şey olan yurtseverlik, Irk ruhunun bir zinciridir. Kendisini bir ülke veya ırkla özdeşleştirmeyen Evrensel Kardeşlik ideali, insanı zincirlerden kurtuluşa götüren tek yoldur. 
 
@@ -2900,8 +2894,6 @@ Beyni inşa etmek için çiftleşmeye düşüş zorunluydu. Fakat bu, bilgi kaza
 İnvolüsyon’un alçalan evresi boyunca tezahür etmiş her şey, evrimin yükselen eğrisinin başladığı noktaya erişilene kadar kalacaktır. Şimdiki cinsiyet organları körelecektir. İlk olarak dişil organ, ayrı bir birim olarak varolmuştu. “Birinciler, sonuncu olacak” şeklindeki yasaya göre en son onlar körelecek. Son olarak eril organ farklılaşmıştı ve daha şimdiden kendini bedenden ayırmaya başlamıştır. Şekil 13’den bunu daha açık şekilde görebiliriz. 
 
 <h2 id="part-3">3. KISIM: İnsanın Gelecekteki Gelişimi ve İnisiyasyon</h2>
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 ### <h3 id="chapter-15">15. Bölüm: Mesih ve Misyonu</h3>
 
@@ -4374,7 +4366,7 @@ Yuhanna, Tanrı’dan doğmuş olan kendisinin günah işleyemeyeceğini, çünk
 
 [41] Yıldız falı. 
 
-[42] Bu kitabın yazılmasından bu yana yapılan astronomik keşifler, Uranüs’ün 4 uyduya; Satürn’ün 9 uyduya ve Jüpiter’in 11 uyduya sahip olduğunu ortaya çıkarmıştır. 
+
 
 [43] Max Heindel burada “robot”u kastediyor, ancak o zamanlar robot kelimesi ve kavramı olmadığı için “otomat” kelimesini kullanıyor (çev.). 
 
