@@ -60,7 +60,9 @@ Als Faust, aan het slot van het stuk, door Mefistofeles mee naar de hel wordt ge
 
 Maar weinig mensen weten dat Gounods [Ch. F. 1818-1893] opera op het door Goethe [J.W. von 1749-1832] geschreven toneelstuk is gebaseerd. Zij, die beide kanten van de voorstelling van Faust hebben bestudeerd, krij gen een heel andere opvatting van de handeling als die van de opera. Al leen diegenen die verlichte mystici zijn, zien in het door Goethe geschre ven stuk de duidelijk waarneembare hand van een verlichte mede-inge wijde. Zij begrijpen de grote kosmische betekenis die erin ligt opgesloten volledig. 
 
-U dient vooral goed te begrijpen dat de geschiedenis van Faust een my the is, zo oud als de mensheid. Goethe presenteerde haar in een mystiek kleed om een van de grootste vraagstukken van nu, de strijd tussen vrij metselarij en katholicisme op te helderen, die al in Vrijmetselarij en katholi cisme vanuit een ander standpunt werd belicht. Al eerder werd in onze li teratuur gezegd dat een mythe een versluierd symbool is dat een grote kosmische waarheid bevat, die volkomen afwijkt van wat algemeen wordt aangenomen. Zoals prentenboeken aan kinderen worden gegeven om door aanschouwing lessen te leren die hun begrip nog te boven gaan, zo gaven de leraren van de kindmensheid geïllustreerde symbolen, en wer den de voorgestelde idealen op deze manier onbewust op hun fijnere voer tuigen gegrift. 
+U dient vooral goed te begrijpen dat de geschiedenis van Faust een my the is, zo oud als de mensheid. Goethe presenteerde haar in een mystiek kleed om een van de grootste vraagstukken van nu, de strijd tussen vrij metselarij en katholicisme op te helderen, die al in Vrijmetselarij en katholi cisme vanuit een ander standpunt werd belicht. 
+
+Al eerder werd in onze li teratuur gezegd dat een mythe een versluierd symbool is dat een grote kosmische waarheid bevat, die volkomen afwijkt van wat algemeen wordt aangenomen. Zoals prentenboeken aan kinderen worden gegeven om door aanschouwing lessen te leren die hun begrip nog te boven gaan, zo gaven de leraren van de kindmensheid geïllustreerde symbolen, en wer den de voorgestelde idealen op deze manier onbewust op hun fijnere voer tuigen gegrift. 
 
 Zoals een zaadje onzichtbaar in de aarde ontkiemt voordat zij boven het aardoppervlak zichtbaar wordt en kan bloeien, zo hebben deze mythische indrukken op onze fijnere voertuigen ons ontvankelijk gemaakt, waardoor wij deze hogere idealen aannemen om ons boven de materiële wereld te verheffen. Als zij niet door de werking van mythen als Faust, Parsival en soortgelijke verhalen levend worden gehouden, zouden deze idealen door onze lagere natuur begraven en vernietigd worden. 
 
@@ -70,189 +72,211 @@ Het is altijd mijn gewoonte geweest zo dicht mogelijk bij mijn onderwerp te blij
 
 In de openingsscène worden drie zonen van God, planeetgeesten, voor gesteld, die zich buigen voor de grote bouwmeester van het heelal, die lie deren van de sferen zingen in hun aanbidding van dit onuitsprekelijke we zen dat de bron is van het leven, de Schepper van alles wat geopenbaard is. Goethe laat een van deze hoge stergeesten zeggen: 
 
-    De zon weerklinkt naar oude wijze,   
-    dingt mee in broedersferen zang.   
-    En haar voorgeschreven reize   
-    voltooit zij met donderende gang.   
+```
+De zon weerklinkt naar oude wijze,   
+dingt mee in broedersferen zang.   
+En haar voorgeschreven reize   
+voltooit zij met donderende gang.   
+```
 
-Door proefneming met behulp van wetenschappelijke instrumenten is aangetoond dat lichtgolven in geluid kunnen worden omgezet. Zo wordt in de stoffelijke wereld het gelijk van deze mystieke spreuk van Openbaring gedemonstreerd. Dit besef, dat vroeger alleen voor de wijze, die in staat was zijn bewustzijn in het gebied van de concrete gedachte te verheffen, duidelijk was, wordt ook door de wetenschapper onderkend. De muziek van de sferen, voor het eerst door Pythagoras vermeld, moet niet als een holle frase, ontstaan in een te levendige verbeelding van dichterlijke gees ten, noch als zinsbegoocheling van een gestoorde geest worden be schouwd. 
+Door proefneming met behulp van wetenschappelijke instrumenten is aangetoond dat lichtgolven in geluid kunnen worden omgezet. Zo wordt in de stoffelijke wereld het gelijk van deze mystieke spreuk van Openbaring gedemonstreerd. Dit besef, dat vroeger alleen voor de wijze, die in staat was zijn bewustzijn in het gebied van de concrete gedachte te verheffen, duidelijk was, wordt ook door de wetenschapper onderkend. De muziek van de sferen, voor het eerst door Pythagoras vermeld, moet niet als een holle frase, ontstaan in een te levendige verbeelding van dichterlijke gees ten, noch als zinsbegoocheling van een gestoorde geest worden be schouwd. Goethe meende wat hij zei. Elke ster heeft zijn eigen grondtoon, en zij draaien met zulke verschillende snelheden om de zon dat hun zelfde po sitie pas na zevenentwintigduizend jaar terugkomt. De harmonie van de hemel verandert dus elk moment van de dag. En daarmee veranderen eveneens de ideeën en idealen van de wereld. De kringloop van de voortsnellende planeten op de wijs van de door hen veroorzaakte hemelse symfonie, geven de vooruitgang van de mens op het pad van ontwikkeling aan die wij evolutie noemen. 
 
-Goethe meende wat hij zei. Elke ster heeft zijn eigen grondtoon, en zij draaien met zulke verschillende snelheden om de zon dat hun zelfde po sitie pas na zevenentwintigduizend jaar terugkomt. De harmonie van de hemel verandert dus elk moment van de dag. En daarmee veranderen eveneens de ideeën en idealen van de wereld. De kringloop van de voortsnellende planeten op de wijs van de door hen veroorzaakte hemelse symfonie, geven de vooruitgang van de mens op het pad van ontwikkeling aan die wij evolutie noemen. 
+Maar het is onjuist te veronderstellen dat voortdurende harmonie aan genaam is. Muziek op die manier vertolkt wordt eentonig en wij zouden van de altijd durende harmonie moe worden. Als er niet af en toe wan klanken te horen waren zou zij haar bekoring verliezen. Hoe dichter een componist bij disharmonie kan komen, zonder die als het ware in de mu ziek te vervlechten, des te aangenamer zijn compositie is als die door mu ziekinstrumenten tot leven komt. Dat geldt eveneens voor de zang van de sferen. Zonder goddelijke disharmonie zouden wij nooit individuali teit en zelfstandigheid, waarnaar elke ontwikkeling streeft, kunnen berei ken. 
 
-Maar het is onjuist te veronderstellen dat voortdurende harmonie aan genaam is. Muziek op die manier vertolkt wordt eentonig en wij zouden van de altijd durende harmonie moe worden. Als er niet af en toe wan klanken te horen waren zou zij haar bekoring verliezen. Hoe dichter een componist bij disharmonie kan komen, zonder die als het ware in de mu ziek te vervlechten, des te aangenamer zijn compositie is als die door mu ziekinstrumenten tot leven komt. Dat geldt eveneens voor de zang van de sferen. Zonder goddelijke disharmonie zouden wij nooit individuali teit en zelfstandigheid, waarnaar elke ontwikkeling streeft, kunnen berei ken. Daarom noemt het boek Job Satan een van de zonen van God. De Faust mythe noemt Lucifer als een van de aanwezigen in de vergadering die in het beginhoofdstuk van de geschiedenis plaatsheeft. Van hem komt de reddende wanklank die een contrast vormt met de hemelse harmonie. Zoals het helderste licht de donkerste schaduw geeft, zo verhoogt de stem van Lucifer de schoonheid van de hemelse zang. 
+Daarom noemt het boek Job Satan een van de zonen van God. De Faust mythe noemt Lucifer als een van de aanwezigen in de vergadering die in het beginhoofdstuk van de geschiedenis plaatsheeft. Van hem komt de reddende wanklank die een contrast vormt met de hemelse harmonie. Zoals het helderste licht de donkerste schaduw geeft, zo verhoogt de stem van Lucifer de schoonheid van de hemelse zang. 
 
 Terwijl de andere planeetgeesten in aanbidding buigen als zij de werken van de Meester-Bouwer aandachtig bekijken zoals die in het heelal zijn ge openbaard, laat Lucifer in de volgende woorden, op kritieke toon, zijn af keuring horen, gericht tegen Gods meesterstuk, de koning van het gescha pene, de mens: 
 
-    Van zonnen en werelden weet ik niets te zeggen.   
-    Ik zie alleen hoe de mensen zich kwellen.   
-    De kleine god op aarde blijft steeds van hetzelfde slag   
-    en is zo zonderling als op de eerste dag.   
-    Hij zou wat beter moeten leven,   
-    hebt u hem niet het schijnsel van het hemelse gegeven?   
-    Hij noemt het verstand en gebruikt het alleen   
-    om dierlijker dan welk dier ook te zijn.   
+```
+Van zonnen en werelden weet ik niets te zeggen.   
+Ik zie alleen hoe de mensen zich kwellen.   
+De kleine god op aarde blijft steeds van hetzelfde slag   
+en is zo zonderling als op de eerste dag.   
+Hij zou wat beter moeten leven,   
+hebt u hem niet het schijnsel van het hemelse gegeven?   
+Hij noemt het verstand en gebruikt het alleen   
+om dierlijker dan welk dier ook te zijn.   
+```
 
 Vanuit het gezichtspunt van vorige generaties mag dit als heiligschennis klinken. Maar in het licht van de moderne tijd kunnen wij begrijpen, dat zelfs in zo’n verheven wezen dat met de naam God wordt genoemd, groei moet zijn. Wij kunnen het streven naar steeds grotere capaciteiten waar nemen, de overpeinzing van toekomstige werelden die een betere moge lijkheid bieden voor de ontwikkeling van andere maagdelijke geesten, die het gevolg zijn van onvolmaaktheden opgemerkt in het plan van openba ring bij zijn verheven Schepper. ‘Want in hem leven wij, bewegen wij en zijn wij.’ Hand. 17:28. Zo moet dus ook de wanklank door de luciferische geesten voortgebracht, in hem opstijgen. Het kon geen invloed van bui tenaf zijn die de aandacht vestigde op fouten, of hem op fouten opmerk zaam maakten of hem om verantwoording vroegen, maar zijn eigen god delijke erkenning van een tekortkoming die in iets beters moet worden veranderd. 
 
 In de Bijbel wordt Job een rechtschapen mens genoemd en in de Faust mythe is Faust een dienaar van God, want natuurlijk moet het probleem van de ontwikkeling, de grotere groei, door de verst gevorderden worden opgelost. De gewone mens, of zij die een lager niveau van ontwikkeling hebben, moeten dat deel van de weg nog afleggen. Personen als Faust en Job, die de voorhoede van het ras vormen, hebben dit al achter de rug en worden door de gewone mens net zo gezien als Lucifer hen beschrijft: namelijk als dwazen en zonderlingen: 
 
-    Werkelijk! hij dient u op bijzondere wijze,   
-    de dwaas gebruikt geen aardse drank of spijze   
-    Hem drijft de onrust heinde en ver.   
-    Hij is zich van zijn dwaasheid half bewust.   
-    Van de hemel vraagt hij de mooiste sterren   
-    en van de aarde elke hoogste lust.   
-    En noch wat na is, noch veraf is   
-    bevredigt niet de diepbewogen borst.   
+```
+Werkelijk! hij dient u op bijzondere wijze,   
+de dwaas gebruikt geen aardse drank of spijze   
+Hem drijft de onrust heinde en ver.   
+Hij is zich van zijn dwaasheid half bewust.   
+Van de hemel vraagt hij de mooiste sterren   
+en van de aarde elke hoogste lust.   
+En noch wat na is, noch veraf is   
+bevredigt niet de diepbewogen borst.   
+```
 
 Voor dergelijke mensen moet een nieuw en hoger pad worden geopend om hen grotere mogelijkheden tot groei te geven. Vandaar dat God ant woordt: 
 
-    Al dient hij mij ook nu nog verward   
-    Ik zal hem weldra naar de helderheid leiden.   
-    De tuinman weet dat als het bloempje groen wordt   
-    dat bloei en vrucht [hem] de komende jaren sieren.   
+```
+Al dient hij mij ook nu nog verward   
+Ik zal hem weldra naar de helderheid leiden.   
+De tuinman weet dat als het bloempje groen wordt   
+dat bloei en vrucht [hem] de komende jaren sieren.   
+```
 
 ### <h3 id="chapter-2">2. De smarten van de zoekende ziel, deel 1</h3>
 
 Zoals voor het ontwikkelen van de spieren in het lichaam oefening noodzakelijk is, zo worden door middel van verzoekingen morele vaardig heden ontwikkeld. De geest, die de vrijheid om te kiezen heeft gekregen, kan die in elke richting gebruiken die hij wil, omdat hij zowel door zijn fouten als door juist te handelen leert. Daarom wordt in de mythe van Job de Duivel toegestaan hem in verleiding te brengen. In de Faust my the doet hij het verzoek: 
 
-    Waarom gewed? die zult u nog verliezen   
-    als u mij de toestemming geeft   
-    hem zachtjes op mijn pad te leiden!   
+```
+Waarom gewed? die zult u nog verliezen   
+als u mij de toestemming geeft   
+hem zachtjes op mijn pad te leiden!   
+```
 
 Waarop de Heer antwoordt: 
 
-    Nou goed, het zij u vrijgelaten!   
-    Leidt deze geest van zijn oorsprong af,   
-    en voer hem, als u hem in uw greep kan krijgen,   
-    op uw weg mee, bergaf.   
-    En sta beschaamd, als u bekennen moet:   
-    een goed mens in zijn blind verlangen   
-    is zich van het rechte pad bewust.   
+```
+Nou goed, het zij u vrijgelaten!   
+Leidt deze geest van zijn oorsprong af,   
+en voer hem, als u hem in uw greep kan krijgen,   
+op uw weg mee, bergaf.   
+En sta beschaamd, als u bekennen moet:   
+een goed mens in zijn blind verlangen   
+is zich van het rechte pad bewust.   
 
 --------- 
 
-    U mag ook daar alleen vrij verschijnen.   
-    Ik heb de gelijke van u nooit gehaat.   
-    Van alle geesten die ontkennen   
-    is de schalk mij het minst tot last.   
-    De menselijke bezigheid kan veel te licht verslappen,   
-    Hij houdt al gauw van absolute rust;   
-    Daarom geef ik hem graag de gezel.   
-    Die prikkelt en werkt en moet als duivel presteren.   
-    Maar u, de echte godenzoon,   
-    verheug u op het levendige, rijke, mooie!   
-    Het wordende dat eeuwig werkt en leeft,   
-    omgeef u met lieflijke barrières der liefde   
-    en wat in wisselende verschijning zweeft   
-    bevestigend in blijvende gedachten.   
+U mag ook daar alleen vrij verschijnen.   
+Ik heb de gelijke van u nooit gehaat.   
+Van alle geesten die ontkennen   
+is de schalk mij het minst tot last.   
+De menselijke bezigheid kan veel te licht verslappen,   
+Hij houdt al gauw van absolute rust;   
+Daarom geef ik hem graag de gezel.   
+Die prikkelt en werkt en moet als duivel presteren.   
+Maar u, de echte godenzoon,   
+verheug u op het levendige, rijke, mooie!   
+Het wordende dat eeuwig werkt en leeft,   
+omgeef u met lieflijke barrières der liefde   
+en wat in wisselende verschijning zweeft   
+bevestigend in blijvende gedachten.   
+```
 
 Zo is het complot klaar en staat Faust op het punt in de valstrik te raken, die het pad verspert van iedereen die zoekt. De volgende tekst toont het weldadige doel en de noodzaak van beproeving aan. De geest is een geïn tegreerd deel van God. In eerste instantie onschuldig, maar niet deugd zaam. Deugd is een positieve eigenschap, die door het aannemen van een standvastige houding wordt ontwikkeld voor wat juist is als men wordt be proefd; of door lijden ondergaan als gevolg van verkeerd handelen. Dus de inleiding in de hemel geeft aan de Faust mythe zijn hoogste waarde als gids, en zijn aanmoediging aan de zoekende ziel. Hij toont de eeuwige be doeling achter de aardse omstandigheden die pijn en verdriet veroorzaken. 
 
 Goethe stelt ons daarop Faust zelf voor, die in zijn verduisterde studeer kamer staat en bezig is met innerlijke zelfwaarneming en terugblikt. 
 
-    Nu heb ik dan filosofie,   
-    rechten en medicijnen   
-    en helaas ook nog theologie   
-    goed bestudeerd, en er erg mijn best op gedaan.   
-    Daar sta ik nu, ik arme dwaas.   
-    En ben zo wijs als voorheen.   
-    Men noemt mij magister, zelfs doktor   
-    En al jaren neem ik mijn leerlingen bij de neus.   
+```
+Nu heb ik dan filosofie,   
+rechten en medicijnen   
+en helaas ook nog theologie   
+goed bestudeerd, en er erg mijn best op gedaan.   
+Daar sta ik nu, ik arme dwaas.   
+En ben zo wijs als voorheen.   
+Men noemt mij magister, zelfs doktor   
+En al jaren neem ik mijn leerlingen bij de neus.   
 
-    En zie dat wij niets weten kunnen.   
-    Dat wil mij bijna het hart verbranden   
+En zie dat wij niets weten kunnen.   
+Dat wil mij bijna het hart verbranden   
 
-    --------- 
+--------- 
 
-    Daarvoor is mij ook alle vreugde ontnomen   
-    Beeld me niet in te weten wat juist is.   
-    ‘k beeldde me niet in, dat ik   
-    de mensen kon leren zich te beteren en bekeren.   
-    Ook heb ik noch bezit noch geld   
-    noch eer en heerlijkheid van de wereld.   
-    Geen hond zou zo nog langer willen leven!   
-    Daarom heb ik me in de magie begeven.   
-    Of mij door geestkracht en mond   
-    niet menig geheim bekend wordt.   
-    Dat ik niet meer in het zure zweet   
-    hoef te zeggen, wat ik niet weet.   
+Daarvoor is mij ook alle vreugde ontnomen   
+Beeld me niet in te weten wat juist is.   
+‘k beeldde me niet in, dat ik   
+de mensen kon leren zich te beteren en bekeren.   
+Ook heb ik noch bezit noch geld   
+noch eer en heerlijkheid van de wereld.   
+Geen hond zou zo nog langer willen leven!   
+Daarom heb ik me in de magie begeven.   
+Of mij door geestkracht en mond   
+niet menig geheim bekend wordt.   
+Dat ik niet meer in het zure zweet   
+hoef te zeggen, wat ik niet weet.   
 
-    ---------- 
+---------- 
 
-    Ach! zit ik nog in de kerker?   
-    vervloekt duf muurhol,   
-    waar zelfs het lieve hemelslicht   
-    droef door gekleurde ruitjes breekt!   
+Ach! zit ik nog in de kerker?   
+vervloekt duf muurhol,   
+waar zelfs het lieve hemelslicht   
+droef door gekleurde ruitjes breekt!   
 
-    ------------ 
+------------ 
 
-    Vlucht! Op! Naar buiten in het weidse land!   
-    En dit geheimzinnige boek   
-    van Nostradamus eigen hand,   
-    is het u geen geleide genoeg?   
-    Neem de loop van de sterren dan waar.   
-    En als de natuur je onderwijst   
-    dan komt de zielenkracht bij je op.   
-    Hoe spreekt een geest tot een andere geest?   
+Vlucht! Op! Naar buiten in het weidse land!   
+En dit geheimzinnige boek   
+van Nostradamus eigen hand,   
+is het u geen geleide genoeg?   
+Neem de loop van de sterren dan waar.   
+En als de natuur je onderwijst   
+dan komt de zielenkracht bij je op.   
+Hoe spreekt een geest tot een andere geest?   
+```
 
 Levenslange studie heeft Faust niet tot echte kennis geleid. De gebruike lijke bronnen van studie blijken uiteindelijk nutteloos te zijn. De geleerde mag God overtollig vinden. Hij kan geloven dat het leven bestaat uit che mische acties en reacties, dat wil zeggen, als hij begint. Maar hoe dieper hij in de materie doordringt, des te groter worden de mysteries die op zijn pad komen. Tot slot zal hij gedwongen worden om verder onderzoek te staken of in God te geloven als een geest van wie zijn leven elk atoom omgeeft. Faust heeft dit punt bereikt. Hij zegt dat hij niet voor goud heeft gewerkt, noch voor schatten, noch voor eer en roem of genoegen. Zijn streven kwam voort uit liefde voor het onderzoek, en is op het punt gekomen waar hij ziet dat er om ons een geestenwereld is. Door middel van magie, streeft hij nu door deze wereld tot hogere, echte kennis te komen dan die in boeken staat. 
 
 Hij heeft een dik boek, door Nostradamus geschreven, in zijn hand. Als hij het opent ziet hij het teken van de macrokosmos. De kracht daarin o pent voor zijn bewustzijn een deel van de wereld die hij zoekt. Opgeto gen en vol blijdschap roept hij uit: 
 
-    Ha! wat een gelukzaligheid stroomt op dit ogenblik   
-    opeens door al mijn zinnen!   
-    Ik voel me jong, heilig levensgeluk   
-    opnieuw gloeiend door mijn zenuwen en aderen stromen.   
+```
+Ha! wat een gelukzaligheid stroomt op dit ogenblik   
+opeens door al mijn zinnen!   
+Ik voel me jong, heilig levensgeluk   
+opnieuw gloeiend door mijn zenuwen en aderen stromen.   
 
-    ------- 
+------- 
 
-    Nu pas zie ik in, wat de wijze spreekt:   
-    De geestenwereld is niet afgesloten.   
-    Je oog is dicht, je hart is dood!   
-    Kom op, baadt, leerling, niet ontmoedigd   
-    je aardse borst in het morgenrood!   
-    Hoe alles zich in het geheel vormt,   
-    geheel in de ander werkt en leeft!   
-    Hoe hemelkrachten op en neer stijgen   
-    en elkaar de gouden emmer reiken!   
-    Met zegen geurende vleugels   
-    vanuit de hemel door de aarde dringen,   
-    harmonisch heel het heelal doorklinken!   
+Nu pas zie ik in, wat de wijze spreekt:   
+De geestenwereld is niet afgesloten.   
+Je oog is dicht, je hart is dood!   
+Kom op, baadt, leerling, niet ontmoedigd   
+je aardse borst in het morgenrood!   
+Hoe alles zich in het geheel vormt,   
+geheel in de ander werkt en leeft!   
+Hoe hemelkrachten op en neer stijgen   
+en elkaar de gouden emmer reiken!   
+Met zegen geurende vleugels   
+vanuit de hemel door de aarde dringen,   
+harmonisch heel het heelal doorklinken!   
+```
 
 Maar weer zwaait de slinger terug. Zoals een poging om in het schitte rende licht van de zon te staren de vernietiging van het netvlies van het oog tot gevolg heeft, zo loopt de gedurfde poging om het oneindige te door gronden op een mislukking uit en wordt de zoekende ziel van de vreugde volle verrukking in de duisternis van de wanhoop geworpen. 
 
-    Welk schouwspel! Maar ook niet meer dan dat!   
-    Waar grijp ik u, oneindige natuur?   
-    Jullie borsten, waar? Jullie bronnen van alle leven,   
-    aan welke de hemel en aarde hangt,   
-    daarheen de verlepte borst zich dringt -   
-    u ontspringt, u drenkt, en smacht ik zo te vergeefs?   
+```
+Welk schouwspel! Maar ook niet meer dan dat!   
+Waar grijp ik u, oneindige natuur?   
+Jullie borsten, waar? Jullie bronnen van alle leven,   
+aan welke de hemel en aarde hangt,   
+daarheen de verlepte borst zich dringt -   
+u ontspringt, u drenkt, en smacht ik zo te vergeefs?   
+```
 
-Wij moeten eerst de lagere wetenschap begrijpen voordat wij met goed resultaat naar een hogere kunnen streven. Razen en tieren over andere we relden en over fijnere lichamen als wij weinig begrip hebben van de voer tuigen waarin wij dagelijks werken, en van de omgeving waarin wij leven, is de grootste dwaasheid. ‘Mens ken uzelf’ is een gezonde leerstelling. De enige veiligheid ligt in het sport voor sport beklimmen van de ladder en nooit een nieuwe stap doen voordat wij ervan verzekerd zijn dat wij ons evenwicht bewaren op die waarop wij staan. Menigeen kent uit eigen er varing de vertwijfeling die uit de woorden van Faust spreekt. Hij begon, dom genoeg, van boven. Hij heeft teleurstelling ondervonden, maar be grijpt nog niet dat hij onderaan moet beginnen. Hij roept dan ook de Aard geest aan: 
+Wij moeten eerst de lagere wetenschap begrijpen voordat wij met goed resultaat naar een hogere kunnen streven. Razen en tieren over andere we relden en over fijnere lichamen als wij weinig begrip hebben van de voer tuigen waarin wij dagelijks werken, en van de omgeving waarin wij leven, is de grootste dwaasheid. ‘Mens ken uzelf’ is een gezonde leerstelling. De enige veiligheid ligt in het sport voor sport beklimmen van de ladder en nooit een nieuwe stap doen voordat wij ervan verzekerd zijn dat wij ons evenwicht bewaren op die waarop wij staan. Menigeen kent uit eigen er varing de vertwijfeling die uit de woorden van Faust spreekt. 
 
-    Hoe anders werkt dit teken op mij in!   
-    U, geest van de aarde, bent mij nader;   
-    -- 
+Hij begon, dom genoeg, van boven. Hij heeft teleurstelling ondervonden, maar be grijpt nog niet dat hij onderaan moet beginnen. Hij roept dan ook de Aard geest aan: 
 
-    Ik voel moed mij in de wereld te wagen,   
-    het aardse leed, het aards geluk te dragen.   
-    Met stormen ruzie te hebben   
-    en in de schipbreuk knarsen(tanden) niet te aarzelen.   
-    Het betrekt hier boven mij.   
-    De maan verbergt zijn licht.   
-    De lamp vermindert!   
-    Het nevelt! – Er flakkeren rode stralen   
-    om mijn hoofd – het waait   
-    een bui van het uitspansel naar omlaag   
-    en grijpt mij vast!   
-    Ik voel het, je zweeft om mij, o gesmeekte geest.   
-    Onthul u!   
-    Ha, hoe het mijn hart opwekt!   
-    tot nieuwe gevoelens.   
-    Al mijn zinnen woelen!   
-    Ik voel geheel mijn hart u weggegeven!   
-    je moet, je moet, al kost het mij mijn leven!   
+```
+Hoe anders werkt dit teken op mij in!   
+U, geest van de aarde, bent mij nader;   
+-- 
+
+Ik voel moed mij in de wereld te wagen,   
+het aardse leed, het aards geluk te dragen.   
+Met stormen ruzie te hebben   
+en in de schipbreuk knarsen(tanden) niet te aarzelen.   
+Het betrekt hier boven mij.   
+De maan verbergt zijn licht.   
+De lamp vermindert!   
+Het nevelt! – Er flakkeren rode stralen   
+om mijn hoofd – het waait   
+een bui van het uitspansel naar omlaag   
+en grijpt mij vast!   
+Ik voel het, je zweeft om mij, o gesmeekte geest.   
+Onthul u!   
+Ha, hoe het mijn hart opwekt!   
+tot nieuwe gevoelens.   
+Al mijn zinnen woelen!   
+Ik voel geheel mijn hart u weggegeven!   
+je moet, je moet, al kost het mij mijn leven!   
+```
 
 Zoals in De wereldbeschouwing der Rozenkruisers uitgelegd wordt, en in de Rozenkruisersleer de vraag is verduidelijkt die handelt over het Latijnse ri tuaal in de rooms-katholieke kerk, is een naam een geluid. Op de juiste manier uitgesproken - het doet er niet toe door wie - heeft zij een onweer staanbare invloed op het wezen met die naam. Het woord dat bij elke in wijdingsgraad wordt gegeven, geeft iemand toegang tot een bepaalde tril lingssfeer, die door een bepaald soort geesten bevolkt wordt. Evenals een stemvork reageert op eenzelfde noot van een andere, gelijkgestemde stem vork, zo opende Fausts bewustzijn zich bij het noemen van de naam van de alles doordringende Aardgeest. 
 
@@ -264,67 +288,77 @@ In De ster van Betlehem, een mystiek feit, [hoofdstuk 16 uit: Rozenkruisers Chri
 
 De woorden van de Aardgeest tot Faust, als door Goethe verwoord, vor men prachtige stof tot overdenking, want zij geven esoterisch weer wat de kandidaat voelt als hij voor het eerst de reële werkelijkheid van de Aard geest als een levende geest beseft, die steeds met onze lotsverbetering be zig is. 
 
-    In levensstromen, in daden storm,   
-    borrel ik op en af,   
-    weef heen en weer.   
-    Geboorte en graf,   
-    een eeuwige zee,   
-    een wisselend weven,   
-    een gloeiend leven,   
-    zo werk ik aan het schietende weefgestoelte van de tijd   
-    en werk aan het levende kleed van de Godheid.   
+```
+In levensstromen, in daden storm,   
+borrel ik op en af,   
+weef heen en weer.   
+Geboorte en graf,   
+een eeuwige zee,   
+een wisselend weven,   
+een gloeiend leven,   
+zo werk ik aan het schietende weefgestoelte van de tijd   
+en werk aan het levende kleed van de Godheid.   
+```
 
 Natuurlijk moet men zich de Aardgeest niet als een groter mens voor stellen of in een andere stoffelijke vorm dan die van de aarde zelf. Het le venslichaam van Jezus, waarin de Christusgeest vóór zijn werkelijke intre de in de aarde was samengetrokken, heeft de gewone menselijke vorm en wordt bewaard, en wordt op een bepaald punt van zijn ontwikkelingsni veau, aan de kandidaat getoond. Op zekere dag, in de verre toekomst, zal het de welwillende Christusgeest weer tot verblijf dienen op zijn terugkeer uit het midden van de aarde als wij etherisch zijn en hij klaar is om naar de hogere sferen op te stijgen, waarna wij de leer van de Vader ontvangen, die hoger is dan de christelijke godsdienst. 
 
 De esoterische waarheid, dat als een geest door een bepaalde ingang bin nentreedt hij ook weer langs dezelfde weg terug moet gaan, wordt door Goethe, in verband met de eerste verschijning van Mefistofeles, aan Faust geleerd. Faust is niet op het gebruikelijke pad van inwijding. Hij heeft geen toelating verdiend, noch de hulp van de Oudere Broeders. Door zijn on geduld zoekt hij aan de verkeerde deur. Daarom wordt hij, als hij ogen schijnlijk geslaagd is, door de Aardgeest afgewezen. Van het toppunt van vreugde in de diepste wanhoop geworpen beseft hij dat hij echt gefaald heeft. 
 
-    Ik, evenbeeld van de godheid, die zich al   
-    heel dicht waande bij de spiegel van de eeuwige waarheid,   
-    zijn zelf genoot in hemelse glans en klaarheid   
-    en afgeschud de aardenzoon;   
-    Ik, meer als cherubijn, die zijn vrije kracht   
-    al door de aderen van de natuur stromen.   
-    En slapend, godenleven te genieten   
-    zich vol voorgevoelens vermetel, hoe moet ik het boeten!   
-    Een donderwoord heeft mij weggerukt.   
+```
+Ik, evenbeeld van de godheid, die zich al   
+heel dicht waande bij de spiegel van de eeuwige waarheid,   
+zijn zelf genoot in hemelse glans en klaarheid   
+en afgeschud de aardenzoon;   
+Ik, meer als cherubijn, die zijn vrije kracht   
+al door de aderen van de natuur stromen.   
+En slapend, godenleven te genieten   
+zich vol voorgevoelens vermetel, hoe moet ik het boeten!   
+Een donderwoord heeft mij weggerukt.   
 
-    Niet mag ik u tot mijn gelijke aanmatigen!   
-    Had ik de kracht u aan te trekken bezeten,   
-    zo had ik, om u te behouden, geen kracht.   
-    In ieder zalig ogenblik   
-    voel ik mij zo klein, zo groot;   
-    U stoot mij meedogenloos terug,   
-    in het ongewisse mensenlot.   
-    Wie leert mij? Wat moet ik mijden?   
+Niet mag ik u tot mijn gelijke aanmatigen!   
+Had ik de kracht u aan te trekken bezeten,   
+zo had ik, om u te behouden, geen kracht.   
+In ieder zalig ogenblik   
+voel ik mij zo klein, zo groot;   
+U stoot mij meedogenloos terug,   
+in het ongewisse mensenlot.   
+Wie leert mij? Wat moet ik mijden?   
+```
 
 Hij denkt dat de bronnen van kennis uitgeput zijn en dat hij nooit ware kennis krijgt. Uit angst voor de sombere eentonigheid van een moeizaam, alledaags bestaan, grijpt hij een flesje vergif. Op het punt ervan te drinken verkondigt zang buiten, de opstanding van Christus, want het is paasmor gen. Bij de gedachte sterkt nieuwe hoop zijn geest. Hij wordt ook verder in zijn voornemen gestoord door het kloppen van zijn vriend Wagner. 
 
 Als hij met zijn vriend wandelt, geeft Faust lucht aan zijn vertwijfeling, eigen aan elke zoekende ziel, in de vreeslijke strijd tussen zijn hogere en lagere aard. Zolang wij een werelds leven leiden, zonder hogere verlangens, heerst er vrede in ons binnenste. Maar als wij eenmaal de roep van onze geest gewaarworden, dan is ons evenwicht verstoord. Hoe vuriger wij naar de graal zoeken, des te heviger is deze innerlijke strijd. Paulus beschouwde zich als een ongelukkig mens omdat de lagere, vleselijke begeerten zijn ho ger, geestelijk streven, bestreden. De woorden van Faust zijn van een zelf de strekking: 
 
-    Twee zielen wonen, ach in mijn borst.   
-    De ene wil zich van de andere scheiden;   
-    De ene houdt in grove mingenot   
-    zich aan de wereld met vastgeklampte organen;   
-    de andere heft zich gewelddadig uit het stof   
-    tot de landstreek van hogere voorouders.   
+```
+Twee zielen wonen, ach in mijn borst.   
+De ene wil zich van de andere scheiden;   
+De ene houdt in grove mingenot   
+zich aan de wereld met vastgeklampte organen;   
+de andere heft zich gewelddadig uit het stof   
+tot de landstreek van hogere voorouders.   
+```
 
 Maar hij beseft niet dat er geen eenvoudige manier is om dat te bereiken. Dat iedereen het pad naar vrede alleen moet bewandelen. Hij denkt dat geesten hem zielenkracht kunnen geven, klaar voor het gebruik. 
 
-    O zijn er geesten in de lucht,   
-    die zich tussen aarde en hemel heersend bewegen,   
-    zo daal neder uit de gouden sfeer   
-    en voer mij weg naar een nieuw, kleurrijk leven!   
-    Ja, was maar een tovermantel de mijne!   
-    en droeg hij mij naar vreemde landen,   
-    Mij zou hij om de kostelijkste gewaden,   
-    niet te koop voor een koningsmantel zijn!   
+```
+O zijn er geesten in de lucht,   
+die zich tussen aarde en hemel heersend bewegen,   
+zo daal neder uit de gouden sfeer   
+en voer mij weg naar een nieuw, kleurrijk leven!   
+Ja, was maar een tovermantel de mijne!   
+en droeg hij mij naar vreemde landen,   
+Mij zou hij om de kostelijkste gewaden,   
+niet te koop voor een koningsmantel zijn!   
+```
 
 Omdat hij naar anderen uitkijkt en hulp van buiten zoekt is hij tot teleur stellingen gedoemd. ‘Als u Christus bent, help uzelf’ is de gulden regel. De belangrijkste deugd die de aspirant in de westerse mysterieschool moet aankweken is zelfvertrouwen. Niemand wordt toegestaan op meesters te steunen, noch om blindelings leiders te volgen. De Broeders van het Ro zenkruis streven ernaar om degenen die tot hen komen, zelfstandig te ma ken, hen op te leiden, sterker te maken, en tot medewerkers te maken. Mensenvrienden zijn dun gezaaid. Wie van een Leraar meer verwacht dan het wijzen van de weg, zal teleurstelling ondervinden. Ongeacht wat zij beweren, en in hun lichaam of als geest verschijnen, het doet er niet toe hoe geestelijk zij schijnen, leraren kunnen de goede daden die voor zie lengroei vereist zijn, beslist niet voor ons doen, deze assimileren; noch de zielenkracht daaruit voortgevloeid gebruiksklaar geven, evenmin als zij ons lichaamskracht kunnen geven door ons voedsel te eten. Het is waar, Faust, de zoeker, trekt een geest aan die bereid is hem te dienen. Maar deze geest is van een ongewenste soort: Lucifer. Als Faust zijn naam vraagt dan ant woordt hij: 
 
-    Een deel van die kracht,   
-    die steeds het kwade wil en steeds het goede voortbrengt!   
-    ------------------ 
-    Ik ben de geest die steeds ontkent. 
+```
+Een deel van die kracht,   
+die steeds het kwade wil en steeds het goede voortbrengt!   
+------------------ 
+Ik ben de geest die steeds ontkent. 
+```
 
 Mensen of geesten die aanbieden om aan onze wensen te voldoen, heb ben meestal een doel voor ogen. 
 
@@ -334,17 +368,22 @@ Door de verstandige houding van Faust aangetrokken, volgt Lucifer hem in zijn st
 
 De zwartmagiër, die geen ziel en ook geen zielenkracht bezit, gebruikt eveneens zijn seksuele kracht. Hij verlaat en keert in zijn lichaam terug, via zijn voeten en het zilveren koord, dat zich uit zijn geslachtsorgaan naar buiten uitsteekt. Daarom is het pentagram of de vijfpuntige ster met twee punten naar boven, het symbool van zwarte magie. Lucifer had geen moei te om de studeerkamer van Faust binnen te komen, maar toen hij die na zijn gesprek wilde verlaten, versperde de enkele punt hem de weg. Hij ver zoekt Faust het symbool te verwijderen, waarop Faust vraagt: 
 
-    Faust: 
-    Doet het pentagram u pijn?   
-    Hé, zeg mij zoon van de hel,   
-    als het u betovert, hoe kwam u dan binnen?   
-    Hoe wordt zo’n geest bedrogen?   
-    -------------- 
-    Maar, waarom ga je niet door het raam?   
-    Mephisto/Lucifer: 
-    ’t is een wet van duivels en spoken:   
-    waar ze naar binnen glippen, daar moeten ze ook naar buiten.   
-    Het eerste staat ons vrij, bij het tweede zijn wij knechten.   
+```
+Faust: 
+
+Doet het pentagram u pijn?   
+Hé, zeg mij zoon van de hel,   
+als het u betovert, hoe kwam u dan binnen?   
+Hoe wordt zo’n geest bedrogen?   
+-------------- 
+Maar, waarom ga je niet door het raam?   
+
+Mephisto/Lucifer: 
+
+’t is een wet van duivels en spoken:   
+waar ze naar binnen glippen, daar moeten ze ook naar buiten.   
+Het eerste staat ons vrij, bij het tweede zijn wij knechten.   
+```
 
 Vóór het jaar 33 leidde Jehova onze planeet in haar baan, en de mensheid op het pad van ontwikkeling, van buitenaf. Christus trad op Golgota in de aarde die hij nu van binnenuit leidt, en dit zal blijven doen totdat er vol doende mensen hun zielenkracht hebben ontwikkeld die nodig is om de aarde zwevend te houden en onze jongere broeders te leiden. Dit vereist het vermogen om in een levenslichaam te leven, dat tot levitatie of zich in de lucht te verheffen, in staat is. Het levenslichaam van Jezus, waardoor Christus de aarde binnendrong, is zijn enige middel om naar de zon in te rug te keren. De terugkomst zal dus in het levenslichaam van Jezus zijn. 
 
@@ -364,30 +403,36 @@ Faust zoekt echter eerst contact met de macrokosmos, die de Vader is. Evenals de
 
 Zoals hiervoor al werd opgemerkt, is hij echter te onwetend om blijvend zijn meesterschap te behouden. Geestkracht ruimt snel de hindernissen uit de weg en laat Mefisto, Lucifer, vrij. Hoewel hij uit de kamer van Faust ver trekt komt hij al weer gauw terug om met de zoekende geest te ruilen. In vurige voorbeelden laat hij Faust zien hoe die zijn leven kan overdoen, hoe hij zijn hartstocht en begeerten kan bevredigen. Faust, die weet dat Lucifer niet belangeloos handelt, vraagt welke vergoeding hij wenst. Hierop ant woordt Lucifer: 
 
-    Ik wil u hier ten dienste zijn,   
-    Op uw wenken mij geen rust gunnen;   
-    als wij elkaar daarginds weervinden,   
-    dan worden de rollen omgedraaid.   
+```
+Ik wil u hier ten dienste zijn,   
+Op uw wenken mij geen rust gunnen;   
+als wij elkaar daarginds weervinden,   
+dan worden de rollen omgedraaid.   
+```
 
-Faust zelf voegt een schijnbaar vreemde voorwaarde hieraan toe, over de tijd wanneer de dienst van Lucifer zal ophouden en zijn eigen leven op aar de zal eindigen. Zo vreemd als het schijnt hebben wij in de overeenkomst van Lucifer en de clausule door Faust voorgesteld, basiswetten van ont wikkeling te zien. Door de wet van aantrekking komen wij zowel hier als in het hiernamaals, met soortgelijke geesten in aanraking. Als wij hier de goede krachten dienen en aan onze geestelijke ontwikkeling werken vin den wij gelijkgezind gezelschap, zowel hier als in de andere wereld. Maar als wij de duisternis boven het licht verkiezen zullen wij ons hier zowel als daar met de onderwereld verbonden vinden. Hieraan valt niet te ontko men. 
+Faust zelf voegt een schijnbaar vreemde voorwaarde hieraan toe, over de tijd wanneer de dienst van Lucifer zal ophouden en zijn eigen leven op aar de zal eindigen. 
+
+Zo vreemd als het schijnt hebben wij in de overeenkomst van Lucifer en de clausule door Faust voorgesteld, basiswetten van ont wikkeling te zien. Door de wet van aantrekking komen wij zowel hier als in het hiernamaals, met soortgelijke geesten in aanraking. Als wij hier de goede krachten dienen en aan onze geestelijke ontwikkeling werken vin den wij gelijkgezind gezelschap, zowel hier als in de andere wereld. Maar als wij de duisternis boven het licht verkiezen zullen wij ons hier zowel als daar met de onderwereld verbonden vinden. Hieraan valt niet te ontko men. 
 
 Bovendien zijn wij tempelbouwers die onder leiding van God en zijn ge volmachtigden, de goddelijke hiërarchieën, werken. Als wij ons aan de ons in dit leven gestelde taak onttrekken, worden wij in omstandigheden ge plaatst die ons dwingen om te leren. Op het pad van ontwikkeling is rust noch duur. Als wij plezier en vreugde zoeken in plaats van ons levenswerk te doen, zal de dood gauw komen. Als wij ooit op het punt terechtkomen dat wij de tijd willen laten stilstaan, en wij zo tevreden zijn met de omstan digheden van nu, dat wij ophouden ons in te spannen voor vooruitgang, wordt ons voortbestaan snel beëindigd. Men ziet vaak dat mensen die zich uit hun zaak terugtrekken om plezierig te leven van wat zij hebben bijeen gebracht, spoedig heengaan; terwijl de persoon die zijn beroep opgeeft voor een roeping meestal langer leeft. Niets is zo geschikt om een eind aan je leven te maken als inactiviteit. Daarom zijn, als gezegd, de natuurwetten uitgedrukt in de overeenkomst van Lucifer en de daaraan toegevoegde voorwaarden van Faust. 
 
-    Zou ik al luierend rustig worden,   
-    dan is het ook gelijk met mij gedaan!   
-    Kun je mij ooit al vleiend voorliegen,   
-    zodat ik bij mijzelf in de smaak val.   
-    Kan jij mij met genot bedriegen:   
-    dan is ’t voor mij de laatste dag!   
+```
+Zou ik al luierend rustig worden,   
+dan is het ook gelijk met mij gedaan!   
+Kun je mij ooit al vleiend voorliegen,   
+zodat ik bij mijzelf in de smaak val.   
+Kan jij mij met genot bedriegen:   
+dan is ’t voor mij de laatste dag!   
 
-    Zou ik op het ogenblik zeggen:   
-    Blijf toch! je bent zo mooi!   
-    Dan mag je mij in de boeien slaan,   
-    dan wil ik graag te gronde gaan!   
-    Dan mag de doodsklok luiden,   
-    dan ben je vrij van dienst,   
-    de klok mag stilstaan, de wijzer vallen,   
-    dan is de tijd voor mij voorbij!   
+Zou ik op het ogenblik zeggen:   
+Blijf toch! je bent zo mooi!   
+Dan mag je mij in de boeien slaan,   
+dan wil ik graag te gronde gaan!   
+Dan mag de doodsklok luiden,   
+dan ben je vrij van dienst,   
+de klok mag stilstaan, de wijzer vallen,   
+dan is de tijd voor mij voorbij!   
+```
 
 Mephisto, Lucifer, vraagt aan Faust om met een druppel bloed te teke nen. Als naar de reden daarvan wordt gevraagd antwoordt hij listig: ‘Bloed is een zeer bijzondere vloeistof.’ De Bijbel noemt het de zetel van de ziel. [Lev. 17:11] 
 
@@ -405,45 +450,53 @@ Faust probeert, met de hulp van anderen, snel macht te krijgen. Daar mee raakt h
 
 In een zorgeloze stemming verkerend antwoordt Faust minachtend op de vraag van Lucifer om zijn handtekening met bloed onder hun overeen komst te zetten, hem met de volgende woorden: 
 
-    Wees niet bang dat ik dit bondgenootschap verbreek!   
-    Het streven van mijn hele kracht   
-    is precies dat, wat ik beloof.   
-    Ik heb me te hoog opgeblazen;   
-    in jouw stand hoor ik slechts.   
-    De grote Geest heeft mij versmaad.   
-    Voor mij sluit de natuur zich af.   
-    De draad van mijn denken is verscheurd.   
-    Ik heb al lange tijd afkeer van alle kennis.   
-    Laat in het diepe van de zinnelijkheid   
-    ons gloeiende hartstocht bevredigen!   
-    In ondoordringbare toveromhulsels   
-    is elk wonder hetzelfde bereid!   
-    Storten wij ons in het bruisen van de tijd,   
-    in het rollen van de gebeurtenis!   
+```
+Wees niet bang dat ik dit bondgenootschap verbreek!   
+Het streven van mijn hele kracht   
+is precies dat, wat ik beloof.   
+Ik heb me te hoog opgeblazen;   
+in jouw stand hoor ik slechts.   
+De grote Geest heeft mij versmaad.   
+Voor mij sluit de natuur zich af.   
+De draad van mijn denken is verscheurd.   
+Ik heb al lange tijd afkeer van alle kennis.   
+Laat in het diepe van de zinnelijkheid   
+ons gloeiende hartstocht bevredigen!   
+In ondoordringbare toveromhulsels   
+is elk wonder hetzelfde bereid!   
+Storten wij ons in het bruisen van de tijd,   
+in het rollen van de gebeurtenis!   
+```
 
 Afgewezen door de machten die voor het goede werken maar vurig bezield naar eerstehands kennis, naar werkelijke macht, is hij tot alles bereid. Maar God zegt in de proloog: 
 
-    Een goed mens in zijn duistere drang   
-    is zich het rechte pad wel bewust.   
+```
+Een goed mens in zijn duistere drang   
+is zich het rechte pad wel bewust.   
+```
 
 Faust is de strevende ziel, en de ziel kan niet voorgoed van het pad van ont wikkeling worden afgeleid. 
 
 De verklaring van Faust van zijn voornemen, bevestigt de bewering dat hij een hoog ideaal heeft. Zelfs wentelend in de modder hunkert hij naar ervaring: 
 
-    Je hoort het toch, van vrede is geen sprake.   
-    De roes ben ik toegewijd, het pijnlijke genot,   
-    verliefde haat, verkwikkende ergernis.   
-    Mijn boezem die van weetgierigheid genezen is,   
-    Zal voor geen pijn zich voortaan sluiten,   
-    en wat de hele mensheid toebedeeld is,   
-    wil ik in mijn diepste zelf genieten,   
-    met mijn geest het hoogste en diepste grijpen,   
-    uw wel en wee op mijn boezem stapelen.   
+```
+Je hoort het toch, van vrede is geen sprake.   
+De roes ben ik toegewijd, het pijnlijke genot,   
+verliefde haat, verkwikkende ergernis.   
+Mijn boezem die van weetgierigheid genezen is,   
+Zal voor geen pijn zich voortaan sluiten,   
+en wat de hele mensheid toebedeeld is,   
+wil ik in mijn diepste zelf genieten,   
+met mijn geest het hoogste en diepste grijpen,   
+uw wel en wee op mijn boezem stapelen.   
+```
 
 Voordat iemand echt meelevend kan zijn, moet hij voelen, zoals Faust wenst te voelen. Men moet zowel de diepte van het verdriet van de men selijke ziel kennen als de uitzinnigste vreugde. Want alleen als wij deze ui tersten van de menselijke gevoelsuitingen kennen, kunnen wij mededogen voelen voor hen die aan de verheffing van de mensheid willen meehelpen. Met behulp van Lucifer is Faust in staat zowel vreugde als smart te leren kennen. En Lucifer heeft gelijk als hij zegt: 
 
-    … Een deel van die kracht,   
-    die steeds het kwade wil en steeds het goede doet.   
+```
+… Een deel van die kracht,   
+die steeds het kwade wil en steeds het goede doet.   
+```
 
 Door het ingrijpen van de luciferische geesten in het ontwikkelingsplan, werd de hartstocht bij de mens gewekt, versterkt en in een baan geleid die alle zorgen en ziekten in de wereld heeft veroorzaakt. Toch heeft dit de mens van zijn individualiteit bewust gemaakt en hem van de leibanden van de engelen bevrijd. Ook Faust wordt door de hulp van Lucifer van de ge bruikelijke wegen afgeleid en wordt daardoor een individu. Als de over eenkomst tussen Faust en Lucifer is gesloten hebben wij een herhaling van de zonen van Kaïn, die de nakomelingen en volgelingen van de luciferische geesten zijn, zoals in Vrijmetselarij en katholicisme is te lezen. 
 
@@ -457,19 +510,25 @@ Ooit stond de hele mensheid op het punt waar de geleerde meent dat de ontbrekend
 
 Soms moet de strevende ziel de heksenkeuken ingaan, zoals Faust deed, om het praktische voorbeeld van het gevolg van kwaad te zien, wat door de mensapen wordt weergegeven. De geest wordt dan toestemming ge geven om Margaretha in de tuin te ontmoeten om in verleiding te bren gen en verleid te worden; te kiezen tussen reinheid en hartstocht. Te val len, als Faust, of stand te houden zoals Parsival. Onder de wet van veref fening zal zij dan haar beloning ontvangen voor de daden die zij in haar lichaam deed. Geluk en verdienste zijn echt tweelingen, zoals Lucifer aan Faust te kennen geeft. Ware wijsheid wordt alleen door geduldig volhou den in goed doen verkregen. 
 
-    Hoe zich verdienste en geluk verbinden,   
-    dat valt de dwaas nooit in,   
-    als zij de steen der wijzen hadden,   
-    ontbrak de wijze de steen.   
+```
+Hoe zich verdienste en geluk verbinden,   
+dat valt de dwaas nooit in,   
+als zij de steen der wijzen hadden,   
+ontbrak de wijze de steen.   
+```
 
 Trouw aan zijn voornemen om het leven te bestuderen in plaats van boeken, vraagt Faust aan Lucifer om hem toegang tot de woning van Mar garetha te verlenen. Hij begint haar genegenheid te winnen door haar een vorstelijk geschenk van juwelen te geven die door Lucifer in haar kamer gesmokkeld zijn. De broer van Margaretha is afwezig om voor zijn land te strijden. Haar moeder is niet in staat om te beslissen wat het beste met het geschenk kan worden gedaan en brengt het naar de geestelijke raadgever in de kerk. Die houdt meer van schitterende edelstenen dan van de kostbare zieltjes die aan zijn zorg zijn toevertrouwd. Hij komt zijn plicht niet na vanwege een parelsnoer, omdat hij liever de edelstenen voor de versiering van een afgod behoudt, dan het kind van de kerk tegen de haar omringen de morele gevaren te bewaken. Zo wint Lucifer zijn spel en rijpt de belo ning in bloed en mensenzielen. Want om toegang tot de kamer van Mar gereta te krijgen, spoort Faust hem aan om haar moeder een slaapdrankje te geven, wat de dood tot gevolg heeft. Valentijn, Margeretas broer, wordt door Faust in een duel gedood. Margaretha wordt in de gevangenis gewor pen en veroordeeld tot de doodstraf. 
 
-Als wij bedenken dat bloed de zetel van de ziel is en dat die zich aan het vlees van een persoon die een plotselinge en voortijdige dood vindt, met dezelfde vasthoudendheid vastkleeft als waarmee de pit van een onrijpe vrucht aan het vruchtvlees is gehecht, is duidelijk te zien dat een dergelij ke dood met veel leed vergezeld gaat. De luciferische geesten scheppen genoegen in heftige gevoelens, en ontwikkelen daardoor. De aard van de ontroering is niet zo belangrijk als de hevigheid, voor zover het het doel betreft. Daarom wakkeren zij de lage hartstochten van de mens aan, die in het tegenwoordige stadium van onze ontwikkeling heviger zijn dan de ge voelens van vreugde en liefde. Hier vloeit uit voort dat zij tot oorlog en bloedvergieten aanzetten en nu slecht schijnen. Maar in wezen dienen zij als middel om hogere en edeler idealen te bereiken. Want door zorg en lijden, zoals in de boezem van Margaretha veroorzaakt, rijst de ziel hoger op de trap van ontwikkeling. Zij leert de waarde van deugd door een mis stap in de richting van de ondeugd. Met oprechte waardering voor dit feit schreef Goethe: 
+Als wij bedenken dat bloed de zetel van de ziel is en dat die zich aan het vlees van een persoon die een plotselinge en voortijdige dood vindt, met dezelfde vasthoudendheid vastkleeft als waarmee de pit van een onrijpe vrucht aan het vruchtvlees is gehecht, is duidelijk te zien dat een dergelij ke dood met veel leed vergezeld gaat. De luciferische geesten scheppen genoegen in heftige gevoelens, en ontwikkelen daardoor. De aard van de ontroering is niet zo belangrijk als de hevigheid, voor zover het het doel betreft. Daarom wakkeren zij de lage hartstochten van de mens aan, die in het tegenwoordige stadium van onze ontwikkeling heviger zijn dan de ge voelens van vreugde en liefde. Hier vloeit uit voort dat zij tot oorlog en bloedvergieten aanzetten en nu slecht schijnen. Maar in wezen dienen zij als middel om hogere en edeler idealen te bereiken. Want door zorg en lijden, zoals in de boezem van Margaretha veroorzaakt, rijst de ziel hoger op de trap van ontwikkeling. Zij leert de waarde van deugd door een mis stap in de richting van de ondeugd. 
 
-    Wie nooit zijn brood met tranen at,   
-    wie nooit in kommervolle nachten,   
-    wenend op zijn sponde zat,   
-    die kent u niet, gij hemelse machten.   
+Met oprechte waardering voor dit feit schreef Goethe: 
+
+```
+Wie nooit zijn brood met tranen at,   
+wie nooit in kommervolle nachten,   
+wenend op zijn sponde zat,   
+die kent u niet, gij hemelse machten.   
+```
 
 ### <h3 id="chapter-6">6. Het loon van de zonde en de wegen van verlossing</h3>
 
@@ -489,47 +548,52 @@ In het tweede bedrijf van Faust vinden wij de held geestelijk gebroken door het 
 
 Ontevreden echter om onder de bestaande omstandigheden een ander te dienen, neemt Faust de duivelse krachten onder zijn bevel om een land te scheppen, dit uit zee te verheffen, en een nieuwe aarde te maken. Hij droomt een niet te verwezenlijken droom over hoe dit vrije land het te huis van een vrij volk zal zijn, dat daar in vrede en tevredenheid zal wonen, en dat voldoet aan de hoogste levensidealen. 
 
-Deze idealen ontstaan in zijn geest door de liefde van een persoon, He lena geheten, dat een liefde van de verhevenste en de meest geestelijke soort is, losstaand van de gedachte aan sekse of hartstocht. Na verloop van tijd ziet hij het land uit de zee oprijzen, maar zijn ogen worden blind, want hij is bezig zijn starende blik van de aardse, voor de hemelse toestanden te veranderen. Terwijl hij zo de krachten door Lucifer samengebracht beziet, dag en nacht aan zijn opdracht zwoegend, beseft Faust dat hij de vordering van Lucifer heeft waargemaakt, dat is: 
-
-    Een deel van iedere kracht,   
-    die steeds het kwade wil en steeds het goede doet …   
+Deze idealen ontstaan in zijn geest door de liefde van een persoon, He lena geheten, dat een liefde van de verhevenste en de meest geestelijke soort is, losstaand van de gedachte aan sekse of hartstocht. Na verloop van tijd ziet hij het land uit de zee oprijzen, maar zijn ogen worden blind, want hij is bezig zijn starende blik van de aardse, voor de hemelse toestanden te veranderen. Terwijl hij zo de krachten door Lucifer samengebracht beziet, dag en nacht aan zijn opdracht zwoegend, beseft Faust dat hij de vordering van Lucifer heeft waargemaakt, dat is: "Een deel van iedere kracht, die steeds het kwade wil en steeds het goede doet …  " 
 
 Hij ziet zijn werk met de lagere krachten hun voltooiing naderen, maar zijn gezicht wordt zwakker. Met het sterke verlangen van de geest die de vrucht van zijn werk wil zien, wil hij zijn gezicht te behouden tot alles vol bracht is en zijn utopische droom werkelijkheid is geworden. Vandaar dat hij, terwijl hij het visioen – het uit zee oprijzende land en het gelukkige volk dat er in goede kameraadschap leeft – voor zijn ogen ziet verdwijnen, de noodlottige woorden uitspreekt, in zijn verbond met Lucifer genoemd: 
 
-    Zou ik op het ogenblik zeggen:   
-    blijf toch! je bent zo mooi!   
-    Dan mag je mij in de boeien slaan,   
-    dan wil ik graag te gronde gaan!   
-    Dan mag de doodsklok luiden.   
-    Dan ben je vrij van dienst.   
-    De klok mag stilstaan, de wijzer vallen.   
-    Dan is de tijd voor mij voorbij!   
+```
+Zou ik op het ogenblik zeggen:   
+blijf toch! je bent zo mooi!   
+Dan mag je mij in de boeien slaan,   
+dan wil ik graag te gronde gaan!   
+Dan mag de doodsklok luiden.   
+Dan ben je vrij van dienst.   
+De klok mag stilstaan, de wijzer vallen.   
+Dan is de tijd voor mij voorbij!   
+```
 
 Als Faust, naar aanleiding van de voorwaarden van dat verbond, de be slissende woorden heeft uitgesproken zijn de krachten van de hel vrij van hun verplichtingen tegenover hem en wordt hij op zijn beurt hun prooi; ten minste, zo lijkt het. Maar in de loop van de tijd wenst Faust niet van zinnelijke genoegens te blijven genieten, noch zelfzuchtige verlangens te bevredigen, zoals in de afspraak was overeengekomen. Het was voor de verwezenlijking van een altruïstisch en edel ideaal dat hij tijdelijk wilde blijven. Daarom is hij echt vrij van Lucifer. Een strijd tussen de krachten van de engelen en de schare van Lucifer eindigt uiteindelijk met de over winning van de engelen die de zoekende ziel naar de veilige haven in het koninkrijk van Christus voeren, onder het uiten van de volgende woorden: 
 
-    Gered is het edele lid   
-    van de geestenwereld van het kwaad:   
-    Waar steeds streven zich inspant,   
-    dan kunnen wij bevrijd worden.   
-    En had aan hem de liefde ook nog   
-    van boven deelgenomen,   
-    komt hem de zalige schare tegemoet   
-    met hartelijk welkom.   
+```
+Gered is het edele lid   
+van de geestenwereld van het kwaad:   
+Waar steeds streven zich inspant,   
+dan kunnen wij bevrijd worden.   
+En had aan hem de liefde ook nog   
+van boven deelgenomen,   
+komt hem de zalige schare tegemoet   
+met hartelijk welkom.   
+```
 
 Dus de Faust in de mythe is totaal verschillend van de Faust uit de ope ra. Het stuk, dat in de hemel begint, waar aan Lucifer toegestaan werd om hem te beproeven, zoals Job in het verre verleden beproefd werd, eindigt ook in de hemel nadat de beproeving is doorstaan en de geest tot zijn Va der is teruggekeerd. 
 
 Goethe, de grote mysticus, eindigt zijn versie toepasselijk met het meest mystieke van alle strofen uit de literatuur: 
 
-    Al het vergankelijke   
-    is maar een gelijkenis;   
-    Het onbereikbare   
-    wordt hier bereikbaar.   
-    Het onbeschrijflijke,   
-    is hier gedaan.   
-    Het eeuwig vrouwelijke   
-    trekt ons omhoog.   
+```
+Al het vergankelijke   
+is maar een gelijkenis;   
+Het onbereikbare   
+wordt hier bereikbaar.   
+Het onbeschrijflijke,   
+is hier gedaan.   
+Het eeuwig vrouwelijke   
+trekt ons omhoog.   
+```
 
-Dit vers verbijstert iedereen die niet in staat is in de gebieden, waar het verondersteld wordt gezongen te worden, door te dringen, namelijk in de hemel. Het noemt al het vergankelijke maar een gelijkenis, dat wil zeggen, de stoffelijke vormen die aan dood en verandering onderworpen zijn, zijn maar een gelijkenis van de oertypen die in de hemel zijn te zien. Het onbe reikbare is hier vervuld. Datgene wat op aarde onmogelijk scheen is in de hemel vervuld. Niemand weet dat beter dan iemand die in staat is in dat gebied te functioneren, want daar draagt elke hoge en verheven aspiratie vruchten. De onbeschrijflijke verlangens, gedachten en ervaringen van de geest, die zij voor zichzelf niet kan uitdrukken, worden in de hemel duide lijk omlijnd. Het eeuwig vrouwelijke, de grote scheppende kracht in de na tuur, de moeder God die ons langs het pad van ontwikkeling voert, wordt hier werkelijkheid. Zo vertelt de Faust mythe ons het verhaal van de we reldtempel die de twee klassen mensen aan het opbouwen zijn en die ten slotte de nieuwe hemel en de nieuwe aarde zullen zijn, voorspeld in de hei lige Schrift. 
+Dit vers verbijstert iedereen die niet in staat is in de gebieden, waar het verondersteld wordt gezongen te worden, door te dringen, namelijk in de hemel. 
+
+Het noemt al het vergankelijke maar een gelijkenis, dat wil zeggen, de stoffelijke vormen die aan dood en verandering onderworpen zijn, zijn maar een gelijkenis van de oertypen die in de hemel zijn te zien. Het onbe reikbare is hier vervuld. Datgene wat op aarde onmogelijk scheen is in de hemel vervuld. Niemand weet dat beter dan iemand die in staat is in dat gebied te functioneren, want daar draagt elke hoge en verheven aspiratie vruchten. De onbeschrijflijke verlangens, gedachten en ervaringen van de geest, die zij voor zichzelf niet kan uitdrukken, worden in de hemel duide lijk omlijnd. Het eeuwig vrouwelijke, de grote scheppende kracht in de na tuur, de moeder God die ons langs het pad van ontwikkeling voert, wordt hier werkelijkheid. Zo vertelt de Faust mythe ons het verhaal van de we reldtempel die de twee klassen mensen aan het opbouwen zijn en die ten slotte de nieuwe hemel en de nieuwe aarde zullen zijn, voorspeld in de hei lige Schrift. 
 
 <h2 id="parsifal">Parsival</h2>
 
@@ -543,7 +607,13 @@ Er bestaan ook drie kunstvormen die het goede, het ware, en het mooie in deze dr
 
 De beeldhouwer, die met de vorm te maken heeft, probeert in een mar meren standbeeld de schoonheid uit te drukken dat de tand van de tijd dui zenden jaren zal weerstaan. Maar een marmeren standbeeld is koud en spreekt maar enkele, hoog ontwikkelde mensen, aan die het beeld zelf kun nen belevendigen. 
 
-De schilderkunst werkt vooral met kleur. Zij geeft aan haar schepping geen tastbare vorm. De vorm op een schilderij is, vanuit stoffelijk stand punt bezien, een illusie. Voor de meeste mensen is zij werkelijker dan het tastbare standbeeld omdat de vormen van de schilder levend zijn. Het schilderij van een groot kunstenaar bevat een levende schoonheid waarvan veel mensen kunnen genieten en die kunnen waarderen. Maar een schilde rij verandert van kleur. De tijd wist op de duur haar frisheid uit en houdt ook niet zo lang stand als een standbeeld. Toch is er in de kunsten die met vorm en kleur te maken hebben een schepping voor eens en voor altijd. Dat hebben zij gemeen, en zij onderscheiden zich hierin wezenlijk van de toonkunst. Muziek is zo vluchtig dat zij elke keer, als wij ervan willen ge nieten, opnieuw voortgebracht moet worden. Maar hier staat tegenover dat zij het vermogen heeft alle mensen op een manier aan te spreken die boven de beide andere kunstvormen uitgaat. Zij verhoogt onze grootste vreugde en verzacht onze diepste smart. Zij kan de gevoelens van de on stuimigste aard van de woesteling kalmeren en de grootste lafaard moed ingeven. Zij bezit de grootste kracht om mensen te beïnvloeden hoewel zij vanuit stoffelijk standpunt bezien overbodig is, zoals Darwin en Spen cer hebben aangetoond. Alleen als wij achter het zichtbare toneel gaan en beseffen dat de mens een samengesteld wezen is van geest, ziel en lichaam, kunnen wij begrijpen waarom wij zo verschillend door de voortbrengselen van de drie kunsten worden getroffen. 
+De schilderkunst werkt vooral met kleur. Zij geeft aan haar schepping geen tastbare vorm. De vorm op een schilderij is, vanuit stoffelijk stand punt bezien, een illusie. Voor de meeste mensen is zij werkelijker dan het tastbare standbeeld omdat de vormen van de schilder levend zijn. Het schilderij van een groot kunstenaar bevat een levende schoonheid waarvan veel mensen kunnen genieten en die kunnen waarderen. 
+
+Maar een schilde rij verandert van kleur. De tijd wist op de duur haar frisheid uit en houdt ook niet zo lang stand als een standbeeld. 
+
+Toch is er in de kunsten die met vorm en kleur te maken hebben een schepping voor eens en voor altijd. Dat hebben zij gemeen, en zij onderscheiden zich hierin wezenlijk van de toonkunst. Muziek is zo vluchtig dat zij elke keer, als wij ervan willen ge nieten, opnieuw voortgebracht moet worden. Maar hier staat tegenover dat zij het vermogen heeft alle mensen op een manier aan te spreken die boven de beide andere kunstvormen uitgaat. Zij verhoogt onze grootste vreugde en verzacht onze diepste smart. Zij kan de gevoelens van de on stuimigste aard van de woesteling kalmeren en de grootste lafaard moed ingeven. Zij bezit de grootste kracht om mensen te beïnvloeden hoewel zij vanuit stoffelijk standpunt bezien overbodig is, zoals Darwin en Spen cer hebben aangetoond. 
+
+Alleen als wij achter het zichtbare toneel gaan en beseffen dat de mens een samengesteld wezen is van geest, ziel en lichaam, kunnen wij begrijpen waarom wij zo verschillend door de voortbrengselen van de drie kunsten worden getroffen. 
 
 Terwijl de mens in de wereld van vorm een leven van vorm te midden van andere vormen leidt, heeft hij ook een geestelijk leven, dat veel belang rijker voor hem is. Een leven waarin zijn gedachten en gevoelens steeds wisselende schilderijen en tonelen voor zijn geestelijk gezicht te voorschijn roepen. Hoe voller dit geestelijk leven is, des te minder een mens behoefte aan ander gezelschap voelt, omdat hij zelf zijn beste gezelschap is. Onaf hankelijk van uiterlijk amusement voor hen van wie hun geestelijk leven arm is, die veel mensen kennen, maar voor zichzelf vreemden zijn en voor hun eigen gezelschap bang zijn. 
 
@@ -553,7 +623,9 @@ Net zoals de stoffelijke wereld de basis van bevoorrading vormt waaruit de stoff
 
 Dit besef van het wezen van muziek is nodig voor de juiste waardering van zo’n groot meesterwerk als Richard Wagners Parsival, waarin de mu ziek en de personages met elkaar verbonden zijn als in geen ander modern muziekstuk. 
 
-Wagners drama is gebaseerd op de legende van Parsival waarvan de oor sprong verborgen ligt in het mysterie dat de kindheid van het menselijk ras overschaduwt. Het is onjuist om te denken dat een mythe een verzinsel van de menselijke verbeelding is zonder enige grond. Integendeel, een mythe is een kistje dat soms de kostbaarste juwelen van geestelijke waarheid bevat. Parels van schoonheid zo zeldzaam en etherisch dat zij het niet verdragen om aan het materiële verstand te worden overgeleverd. Om hen te be schermen en tegelijkertijd op de mensheid te laten inwerken voor haar geestelijke verheffing, geven de grote Leraren die onze ontwikkeling lei den, ongezien maar effectief, de opgroeiende mensheid gehuld in de schil derachtige symboliek van de mythe de geestelijke waarheid, zodat die op onze gevoelens kan inwerken tot aan het moment dat onze ontluikende verstandelijke vermogens voldoende ontwikkeld en vergeestelijkt zijn zo dat wij ze zowel kunnen voelen als begrijpen. Volgens hetzelfde principe leren wij onze kinderen morele lessen door middel van prentenboeken en sprookjes, het directe onderricht voor later bewarend. 
+Wagners drama is gebaseerd op de legende van Parsival waarvan de oor sprong verborgen ligt in het mysterie dat de kindheid van het menselijk ras overschaduwt. Het is onjuist om te denken dat een mythe een verzinsel van de menselijke verbeelding is zonder enige grond. Integendeel, een mythe is een kistje dat soms de kostbaarste juwelen van geestelijke waarheid bevat. Parels van schoonheid zo zeldzaam en etherisch dat zij het niet verdragen om aan het materiële verstand te worden overgeleverd. Om hen te be schermen en tegelijkertijd op de mensheid te laten inwerken voor haar geestelijke verheffing, geven de grote Leraren die onze ontwikkeling lei den, ongezien maar effectief, de opgroeiende mensheid gehuld in de schil derachtige symboliek van de mythe de geestelijke waarheid, zodat die op onze gevoelens kan inwerken tot aan het moment dat onze ontluikende verstandelijke vermogens voldoende ontwikkeld en vergeestelijkt zijn zo dat wij ze zowel kunnen voelen als begrijpen. 
+
+Volgens hetzelfde principe leren wij onze kinderen morele lessen door middel van prentenboeken en sprookjes, het directe onderricht voor later bewarend. 
 
 Wagner deed meer dan alleen maar de legende overschrijven. Legenden en dergelijke verliezen hun schoonheid door overzetting. Het is eveneens een blijk van Wagners grootheid dat hij in zijn weergave nooit door mode of geloof gehinderd werd. Hij liet steeds het talent van de kunst in onbe lemmerde en vrije uitbeelding gelden. 
 
@@ -565,20 +637,22 @@ De dageraad breekt aan en wij zien Gurnemanz, de oudste graalridder, met twee jo
 
 In de eerste akte is zij gekleed in een gewaad van slangenvellen, het sym bool van de leer van wedergeboorte. Want zoals de slang zijn vel keer op keer aflegt, dat zij vanuit zichzelf afscheidt, zo scheidt ook het ego op zijn ontwikkelingstocht uit zichzelf het ene lichaam na het andere af. Zoals de slang zijn huid, als dat verhard is, stijf en gekristalliseerd zodat het zijn nut heeft verloren, zo komt op de evolutionaire levensreis van het ego het ene lichaam na het andere uit hemzelf voort. Dit idee is ook gekoppeld aan de leer van oorzaak en gevolg die ons doet oogsten wat wij hebben gezaaid. Het luidt het antwoord van Gurnemanz in, op de openlijke bekentenis van wantrouwen van de jonge schildknaap tegenover Kundry: 
 
-    Ja, een vervloekte mag zij zijn.   
-    Hier leeft zij nu, misschien vernieuwd,   
-    om schuld te boeten uit een vorig leven   
-    die haar daarginds nog niet zijn vergeven.   
-    Doet zij nu boete, in zulke daden’   
-    die ons ridderschap tot zegen geraken.   
-    Goed doet zij dan en zeker, beslist,   
-    dient ons en helpt ook zichzelf.   
+```
+Ja, een vervloekte mag zij zijn.   
+Hier leeft zij nu, misschien vernieuwd,   
+om schuld te boeten uit een vorig leven   
+die haar daarginds nog niet zijn vergeven.   
+Doet zij nu boete, in zulke daden’   
+die ons ridderschap tot zegen geraken.   
+Goed doet zij dan en zeker, beslist,   
+dient ons en helpt ook zichzelf.   
+```
 
-Als Kundry op het toneel verschijnt haalt zij uit haar borststuk een fles je, dat zij zegt vanuit Arabië te hebben meegebracht en dat, naar zij hoopt, een balsem voor de wond in de zij van Amfortas is, de koning van de graal, die hem ontzettend veel pijn veroorzaakt en niet kan genezen. Dan wordt de lijdende koning op het toneel gedragen, liggend op een draagbaar. Hij is op weg naar zijn dagelijkse bad in het meer dichtbij, waar twee zwanen zwemmen, die het water genezend maken, wat zijn vreeslijke pijn verzacht. 
+Als Kundry op het toneel verschijnt haalt zij uit haar borststuk een fles je, dat zij zegt vanuit Arabië te hebben meegebracht en dat, naar zij hoopt, een balsem voor de wond in de zij van Amfortas is, de koning van de graal, die hem ontzettend veel pijn veroorzaakt en niet kan genezen. Dan wordt de lijdende koning op het toneel gedragen, liggend op een draagbaar. Hij is op weg naar zijn dagelijkse bad in het meer dichtbij, waar twee zwanen zwemmen, die het water genezend maken, wat zijn vreeslijke pijn verzacht. Amfortas bedankt Kundry, maar maakt duidelijk dat er voor hem geen verlichting is, totdat de redder komt, die door de graal voorspeld is als ‘een kuise dwaas door medelijden verlicht.’ Maar Amfortas denkt dat hij, voor dat de redder komt, dood zal zijn. 
 
-Amfortas bedankt Kundry, maar maakt duidelijk dat er voor hem geen verlichting is, totdat de redder komt, die door de graal voorspeld is als ‘een kuise dwaas door medelijden verlicht.’ Maar Amfortas denkt dat hij, voor dat de redder komt, dood zal zijn. 
+Amfortas wordt weggedragen, en vier jonge schildknapen verdringen zich om Gurnemanz en vragen hem om hun de geschiedenis van de graal en de wond van Amfortas te vertellen. Ze liggen allen onder de boom en Gurnemanz begint: 
 
-Amfortas wordt weggedragen, en vier jonge schildknapen verdringen zich om Gurnemanz en vragen hem om hun de geschiedenis van de graal en de wond van Amfortas te vertellen. Ze liggen allen onder de boom en Gurnemanz begint: ‘In de nacht toen onze heer en redder, Jezus Chris tus, de laatste maaltijd met zijn leerlingen gebruikte, dronk hij wijn uit een bepaalde kelk die Jozef van Arimatea later gebruikte om het bloed op te vangen dat uit de wond in de zijde van de redder vloeide. Hij bewaarde ook de bebloede speer waarmee de wond was toegebracht en droeg deze relieken, met veel gevaar en vervolgingen, met zich mee. Ten slotte wer den die door de engelen in bewaring genomen, die ze bewaakten totdat op zeker nacht een van God gezonden boodschapper verscheen en aan Titurel, de vader van Amfortas, verzocht om een kasteel voor ontvangst en de veilige bewaring van deze relieken te bouwen. Zo werd het kasteel Mont Salvat op een hoge berg gebouwd en werden de relieken onder de hoede van Titurel, met een groep heilige en kuise ridders die hij om zich heen had verzameld, bewaard. Het werd een centrum van waaruit krach tige, geestelijke invloeden naar de buitenwereld uitgingen. 
+‘In de nacht toen onze heer en redder, Jezus Chris tus, de laatste maaltijd met zijn leerlingen gebruikte, dronk hij wijn uit een bepaalde kelk die Jozef van Arimatea later gebruikte om het bloed op te vangen dat uit de wond in de zijde van de redder vloeide. Hij bewaarde ook de bebloede speer waarmee de wond was toegebracht en droeg deze relieken, met veel gevaar en vervolgingen, met zich mee. Ten slotte wer den die door de engelen in bewaring genomen, die ze bewaakten totdat op zeker nacht een van God gezonden boodschapper verscheen en aan Titurel, de vader van Amfortas, verzocht om een kasteel voor ontvangst en de veilige bewaring van deze relieken te bouwen. Zo werd het kasteel Mont Salvat op een hoge berg gebouwd en werden de relieken onder de hoede van Titurel, met een groep heilige en kuise ridders die hij om zich heen had verzameld, bewaard. Het werd een centrum van waaruit krach tige, geestelijke invloeden naar de buitenwereld uitgingen. 
 
 Maar er woonde in het heidedal verderop een zwarte ridder, die niet kuis was, maar toch graalridder wilde worden en zich voor dat doel ontmand had. Hij beroofde zich van het vermogen om zijn hartstocht te bevredi gen; maar de hartstocht bleef. Koning Titurel zag dat zijn hart met zwar te begeerte vervuld was en weigerde hem de toegang. Klingsor zwoer daar op dat als hij de graal niet kon dienen, de graal hém zou dienen. Hij bouw de een kasteel met een tovertuin en bevolkte die met beeldschone maag den die als bloemen geurden. Zij belaagden de graalridders - die op de heen en terugweg naar Mont Salvat het kasteel moesten passeren – om hen te verleiden om af te zien van hun trouw, en hun gelofte van kuisheid te bre ken. Zo werden zij de gevangenen van Klingsor. Er bleven nog maar een paar ridders over om de graal te verdedigen. 
 
@@ -592,50 +666,24 @@ Op dat moment wordt er geroepen: ‘de zwaan; o, de zwaan!’ en fladdert er een
 
 In alle godsdiensten wordt de ontwakende geest als een vogel gesymbo liseerd. Toen Jezus’ lichaam bij de doop in het water was, daalde de geest van Christus als een duif op hem neer. ‘De geest beweegt op het water,’ een vloeibare middenstof, zoals de zwanen zich bewegen op het meer be neden de Yggdrasil, de levensboom uit de Noorse mythologie; of op het water van het meer in de graallegende. De vogel is daarom een rechtstreek se vertegenwoordiging van de hoogste geestelijke invloed en de ridders betreuren het verlies dan ook diep. De waarheid is veelzijdig. Er zijn min stens zeven deugdelijke verklaringen voor elke mythe; één voor iedere wereld. Gezien vanuit de stoffelijke, letterlijke kant, tekent het opgewekte mededogen in Parsival, en het breken van zijn boog is een duidelijke stap in het geestelijk leven. Niemand kan echt mededogen hebben en een helper in de evolutie of ontwikkeling zijn terwijl hij doodt om te eten, of een an der dat laat doen. Een onschuldig leven is beslist een wezenlijke noodzaak die aan een hulpvaardig leven voorafgaat. 
 
-Gurnemanz begint Parsival dan te ondervragen over wie hij is en hoe hij naar Mont Salvat is gekomen. Parsival toont verbazingwekkende onwe tendheid. Gurnemanz ondervraagt hem verder: 
+Gurnemanz begint Parsival dan te ondervragen over wie hij is en hoe hij naar Mont Salvat is gekomen. Parsival toont verbazingwekkende onwe tendheid. Gurnemanz ondervraagt hem verder: "Nu vertel! Je weet niets van wat ik je vraag: Nou, zeg wat je weet; want je moet toch iets weten." Daarop antwoordt Parsival: "Ik heb een moeder die Herzleide heet: in het bos en op het wilde weiland was ons tehuis." Gurnemanz is erover verbaasd dat zijn moeder hem niet leerde om beter met een wapen om te gaan dan alleen maar met pijl en boog. "De vaderloze doet zich voor als de moeder, als in de strijd doodgeslagen Gamuret voor dezelfde vroege heldendood de zoon te bewaren, wapenvreemd uit verveling voedde zij hem op als dwaas – de zottin."
 
-    Nu vertel! Je weet niets van wat ik je vraag:   
-    Nou, zeg wat je weet;   
-    want je moet toch iets weten.   
-
-Daarop antwoordt Parsival: 
-
-    Ik heb een moeder die Herzleide heet:   
-    in het bos en op het wilde weiland was ons tehuis.   
-
-Gurnemanz is erover verbaasd dat zijn moeder hem niet leerde om beter met een wapen om te gaan dan alleen maar met pijl en boog. 
-
-    De vaderloze doet zich voor als de moeder,   
-    als in de strijd doodgeslagen Gamuret   
-    voor dezelfde vroege heldendood   
-    de zoon te bewaren, wapenvreemd   
-    uit verveling voedde zij hem op als dwaas – de zottin.   
-
-En Parsival vervolgt: 
-
-    Ja, en eenmaal voorbij de woudzoom,   
-    op mooie dieren zittend,   
-    kwamen schitterende mannen;   
-    op hen wil ik lijken.   
-    Ze lachten en jachten daarvandaan.   
-    Toen liep ik hen achterna, maar ik kon ze niet bereiken.   
-    Door wildernis kwam ik, bergop, dal in.   
-    Vaak was het nacht, dan weer dag:   
-    Mijn boog moest mij van nut zijn   
-    tegen wild en grote mannen …   
+En Parsival vervolgt: "Ja, en eenmaal voorbij de woudzoom, op mooie dieren zittend, kwamen schitterende mannen; op hen wil ik lijken. Ze lachten en jachten daarvandaan. Toen liep ik hen achterna, maar ik kon ze niet bereiken. Door wildernis kwam ik, bergop, dal in. Vaak was het nacht, dan weer dag: Mijn boog moest mij van nut zijn tegen wild en grote mannen …"
 
 In deze geschiedenis hebben wij een uitstekend beeld van het zoeken van de ziel naar de werkelijkheid van het leven. Gamuret en Parsival vertegen woordigen verschillende fasen in het leven van de ziel. Gamuret is de man van de wereld, maar hij werd bijtijds nauw met Herzleide verbonden. Met andere woorden, hij werd door hartenleed getroffen. Hij ondervindt ver driet en sterft voor de wereld, zoals iedereen die het geestelijk leven bin nentreedt. Terwijl het levensschip over het rustige water glijdt en ons be staan één grote zoete zang lijkt, is er geen prikkel om ons op het geeste lijke te richten. Elke vezel in ons lichaam roept uit: Dit is voor mij goed ge noeg. Maar wanneer de woeste golven van tegenspoed rond ons beuken en elke golf die volgt ons dreigt te verzwelgen, dan zijn wij met hartenleed verenigd en worden wij mensen die pijn lijden, gereed om als een Parsival te worden geboren, de kuise dwaas of de geest die de wereldwijsheid is ver geten en zoekt naar geestelijk leven. Zolang iemand geld verzamelt of ge noegens najaagt, wordt hij volgens de wereldse wijsheid zonder goede grond wijs genoemd. Maar wanneer hij zich richt op geestelijke zaken wordt hij in de ogen van de wereld een dwaas genoemd. Hij vergeet alles uit zijn verleden en laat zijn zorgen achter zich, zoals Parsival Herzleide achterliet. Men zegt dat zij stierf toen Parsival niet naar haar terugkeerde. Zo sterven de zorgen als zij de strevende ziel die de wereld ontvlucht, tot leven hebben gewekt. Hij kan in de wereld zijn om zijn plicht te vervullen, maar is niet ván de wereld. 
 
 Gurnemanz is nu vervuld van de gedachte dat Parsival de bevrijder van Amfortas zal worden en neemt hem mee naar het kasteel van de graal. Op Parsivals vraag wie de graal is, antwoordt hij: 
 
-    Dat zegt men niet;   
-    maar als je zelf door hem bent uitverkoren,   
-    blijft je de boodschap niet verloren.   
-    En zie!   
-    Mij dunkt, dat ik je juist herken:   
-    Geen weg leidt naar hem door het land,   
-    en niemand kan het bewandelen,   
-    die hij niet zelf kan vergezellen.   
+```
+Dat zegt men niet;   
+maar als je zelf door hem bent uitverkoren,   
+blijft je de boodschap niet verloren.   
+En zie!   
+Mij dunkt, dat ik je juist herken:   
+Geen weg leidt naar hem door het land,   
+en niemand kan het bewandelen,   
+die hij niet zelf kan vergezellen.   
+```
 
 Hier worden wij door Wagner teruggevoerd naar de dagen vóór Christus. Want voor de komst van Christus was inwijding niet voor iedereen vrij ‘die maar wilde’, vooropgesteld dat men op de juiste manier zocht, maar was aan sommige uitverkorenen, zoals de brahmanen en levieten, voorbehou den die bepaalde voorrechten genoten in ruil voor hun toewijding aan de tempeldienst. De komst van Christus bracht echter bepaalde veranderin gen in de lichamelijke gesteldheid van de mens waardoor nu iedereen in staat is om het pad van inwijding te betreden. Dit kon niet anders toen in ternationale huwelijken in de plaats kwamen van het kastenstelsel. 
 
@@ -645,51 +693,19 @@ Gevoelens en emoties die niet door het verstand in bedwang worden ge houden zijn
 
 In het tweede bedrijf zien wij Klingsor die Kundry roept omdat hij ge zien heeft dat Parsival op weg is naar zijn kasteel. Hij is banger voor hem dan voor iemand anders omdat hij een dwaas is. Een man die wereldwijs is wordt door de valstrikken van de bloemenmeisje gemakkelijk in de val ge lokt, maar de argeloosheid van Parsival beschermt hem. Als de bloemen meisjes om hem heen zwermen vraagt hij argeloos: ‘Zijn jullie bloemen? Jullie ruiken zo lekker.’ Tegen hem zijn de voortreffelijke listen van Kun dry nodig. Hoewel zij smeekt, protesteert en zich verzet, wordt ze ge dwongen Parsival te beproeven en verschijnt daarom als een buitenge woon knappe vrouw en noemt Parsival bij zijn naam. Die naam roept bij hem herinneringen uit zijn kinderjaren op, de liefde van zijn moeder. Kun dry wenkt hem naast haar te komen zitten en begint geraffineerd op zijn gevoel te werken door visioenen in zijn geheugen op te roepen van de liefde van zijn moeder en het verdriet dat zij had bij zijn vertrek, dat een einde aan haar leven maakte. Dan vertelt ze hem van de andere liefde, die kan dienen als tegenwicht. Van de liefde van een man voor een vrouw. Uit eindelijk drukt ze hem een lange, hartstochtelijke kus op zijn lippen. 
 
-Toen volgde er een diepe en vreeslijke stilte alsof het lot van de hele we reld door die hartstochtelijke kus op het spel stond. Terwijl zij hem in haar armen houdt ondergaat zijn gezicht een geleidelijke verandering en ver trekt van pijn. Plotseling springt hij op alsof die kus zijn wezen met nieu we pijn getroffen heeft. De lijnen in zijn bleek gezicht worden dieper en hij klemt zijn beide handen strak tegen zijn kloppend hart alsof ze een on draaglijke pijn willen onderdrukken. Voor zijn ogen verschijnt de graalkelk en vervolgens Amfortas met dezelfde ondraaglijke pijn. Dan roept hij uit: 
+Toen volgde er een diepe en vreeslijke stilte alsof het lot van de hele we reld door die hartstochtelijke kus op het spel stond. Terwijl zij hem in haar armen houdt ondergaat zijn gezicht een geleidelijke verandering en ver trekt van pijn. Plotseling springt hij op alsof die kus zijn wezen met nieu we pijn getroffen heeft. De lijnen in zijn bleek gezicht worden dieper en hij klemt zijn beide handen strak tegen zijn kloppend hart alsof ze een on draaglijke pijn willen onderdrukken. Voor zijn ogen verschijnt de graalkelk en vervolgens Amfortas met dezelfde ondraaglijke pijn. Dan roept hij uit: "Amfortas! De wond! – De wond! – ze brandt in mijn hart. – Oh, klacht! Klacht! Vreselijke klacht! Uit het diepst van mij schreeuwt zij mij toe. Oh! – Oh! Ellende! Jammerlijkste! De wond zag ik bloeden: - Nu bloedt zij in mij! – Hier! – hier!"   
 
-    Amfortas!   
-    De wond! – De wond! –   
-    ze brandt in mijn hart. –   
-    Oh, klacht! Klacht!   
-    Vreselijke klacht!   
-    Uit het diepst van mij schreeuwt zij mij toe.   
-    Oh! – Oh!   
-    Ellende! Jammerlijkste!   
-    De wond zag ik bloeden: -   
-    Nu bloedt zij in mij! –   
-    Hier! – hier!   
-    Nee! Nee! niet de wond is het.   
-    Vloeit uw bloed in stromen daarheen!   
-    Hier! Hier in het hart de brand!   
-    Dat hunkeren, dat vreselijke hunkeren,   
-    dat al mijn zintuigen grijpt en dwingt!   
-    Oh! – kwelling van de liefde! –   
-    Hoe alles huivert, beeft en trilt   
-    in zondig verlangen! …   
+"Nee! Nee! niet de wond is het. Vloeit uw bloed in stromen daarheen! Hier! Hier in het hart de brand! Dat hunkeren, dat vreselijke hunkeren, dat al mijn zintuigen grijpt en dwingt! Oh! – kwelling van de liefde! – Hoe alles huivert, beeft en trilt in zondig verlangen! …" * * * Nu weet ik hoe de hele wereld wordt opgezweept, verscheurd, geschokt en zich in verschrikkelijke hartstocht wikkelt en zich in schaamte verliest. 
 
-Nu weet ik hoe de hele wereld wordt opgezweept, verscheurd, geschokt en zich in verschrikkelijke hartstocht wikkelt en zich in schaamte verliest. Maar nu niet langer geaarzeld. Parsival is ontwaakt. Hij weet goed van kwaad te onderscheiden en antwoord Kundry: 
+Nogmaals verzoekt Kundry hem: "Dus was het mijn kus die je wereldhelderziend maakte? Mijn volle liefdesomhelzing laat je dan Godheid verkrijgen!" 
 
-    In eeuwigheid   
-    was jij met mij verdoemd.   
-    Voor een uur   
-    niet te denken aan mijn zending   
-    in je armen omhelst! –   
-    Ook naar jou ben ik tot zegen gezonden,   
-
-En letterlijk gaat hij verder: ‘Om ook jou te redden van de vloek van de hartstocht, want de liefde die in je brandt is alleen maar zinnelijk. Tussen dit en de ware liefde van zuivere harten gaapt een afgrond zoals tussen he mel en hel.’ Nogmaals verzoekt Kundry hem: 
-
-    Dus was het mijn kus   
-    die je wereldhelderziend maakte?   
-    Mijn volle liefdesomhelzing   
-    laat je dan Godheid verkrijgen!   
+Maar nu niet langer geaarzeld. Parsival is ontwaakt. Hij weet goed van kwaad te onderscheiden en antwoord Kundry: "In eeuwigheid was jij met mij verdoemd. Voor een uur niet te denken aan mijn zending in je armen omhelst! – Ook naar jou ben ik tot zegen gezonden," En letterlijk gaat hij verder: ‘Om ook jou te redden van de vloek van de hartstocht, want de liefde die in je brandt is alleen maar zinnelijk. Tussen dit en de ware liefde van zuivere harten gaapt een afgrond zoals tussen he mel en hel.’ 
 
 Als Kundry uiteindelijk moet toegeven verslagen te zijn, wordt ze woedend. Ze roept Klingsor te hulp die met de heilige speer verschijnt die hij naar Parsival toewerpt. Maar omdat Parsival zuiver van hart is, kan niets hem schade toebrengen. In plaats van hem te treffen zweeft de speer rustig boven zijn hoofd. Hij grijpt hem, maakt er het teken van het kruis mee waarna het kasteel en de tovertuin van Klingsor in puin stor ten. 
 
 Het derde bedrijf begint vele jaren later op een Goede Vrijdag. Een met stof bedekte, rondtrekkende ridder, met een zwarte maliënkolder, betreedt het grondgebied van Mont Salvat waar Gurnemanz in een hut woont. Hij neemt zijn helm af en het blijkt Parsival te zijn. Hij plant zijn speer voor zich in de grond en legt zijn schild en zwaard daar voor en knielt neer in gebed. Gurnemanz, die met Kundry thuis komt die hij even tevoren in het struikgewas slapend had aangetroffen, herkent Parsival met de heilige speer en verwelkomt hem uitbundig en vraagt waar hij vandaan komt. 
 
-Bij het eerste bezoek van Parsival had hij diezelfde vraag gesteld waar op Parsival toen antwoordde dat hij dat niet wist. Maar deze keer is dat an ders, want Parsival antwoordt: ‘Door zoeken en lijden kwam ik hier.’ 
-
-Het eerste voorval beschrijft een inkijk die de ziel van de werkelijkheid van het geestelijke leven krijgt. Het tweede is het bewust bereiken van een hoger niveau van geestelijke activiteit die de mens krijgt die zich door ver driet en lijden heeft ontwikkeld. Parsival vervolgt hoe hij vaak door vijan den dicht omringd was en zich dikwijls door gebruik te maken van de speer had kunnen redden, maar hier vanaf zag omdat zij een hulpmiddel voor genezing en niet om te verwonden is. De speer is de geestelijke kracht die aan het reine hart en leven wordt gegeven. Maar zij mag alleen voor onzelf zuchtige doeleinden gebruikt worden. Onzuiverheid en hartstocht ver oorzaken zijn verlies zoals dat bij Amfortas het geval was. Hoewel de per soon die hem bezit hem bij gelegenheid mag gebruiken om vijfduizend hongerige mensen te voeden [Matt. 14:19] mag hij er geen steen mee ver anderen in brood om zijn eigen honger te stillen. [Matt. 4:8]. Hoewel hij hem mag gebruiken om het bloeden te stelpen dat van het afgesneden oor van een gerechtsdienaar vloeit, mag hij hem niet gebruiken om het bloed te stoppen dat uit zijn eigen zij stroomt. Van zo iemand wordt gezegd dat hij anderen redde, maar zichzelf niet kon of wilde helpen. 
+Bij het eerste bezoek van Parsival had hij diezelfde vraag gesteld waar op Parsival toen antwoordde dat hij dat niet wist. Maar deze keer is dat an ders, want Parsival antwoordt: ‘Door zoeken en lijden kwam ik hier.’ Het eerste voorval beschrijft een inkijk die de ziel van de werkelijkheid van het geestelijke leven krijgt. Het tweede is het bewust bereiken van een hoger niveau van geestelijke activiteit die de mens krijgt die zich door ver driet en lijden heeft ontwikkeld. Parsival vervolgt hoe hij vaak door vijan den dicht omringd was en zich dikwijls door gebruik te maken van de speer had kunnen redden, maar hier vanaf zag omdat zij een hulpmiddel voor genezing en niet om te verwonden is. De speer is de geestelijke kracht die aan het reine hart en leven wordt gegeven. Maar zij mag alleen voor onzelf zuchtige doeleinden gebruikt worden. Onzuiverheid en hartstocht ver oorzaken zijn verlies zoals dat bij Amfortas het geval was. Hoewel de per soon die hem bezit hem bij gelegenheid mag gebruiken om vijfduizend hongerige mensen te voeden [Matt. 14:19] mag hij er geen steen mee ver anderen in brood om zijn eigen honger te stillen. [Matt. 4:8]. Hoewel hij hem mag gebruiken om het bloeden te stelpen dat van het afgesneden oor van een gerechtsdienaar vloeit, mag hij hem niet gebruiken om het bloed te stoppen dat uit zijn eigen zij stroomt. Van zo iemand wordt gezegd dat hij anderen redde, maar zichzelf niet kon of wilde helpen. 
 
 Parsival en Gurnemanz gaan de Graalburcht binnen waar men er bij Amfortas op aandringt de gewijde ritus te verrichten, maar hij weigert om zich de pijn te besparen die hij krijgt bij het zien van de heilige graal. Terwijl hij zijn borst ontbloot smeekt hij zijn volgelingen om hem te doden. Op dat moment stap Parsival naar voren en raakt met zijn speer de wond aan, waardoor die geneest. Hij onttroont Amfortas echter en neemt zelf de be waking van de heilige graal en de heilige speer op zich. Alleen zij die vol komen onzelfzuchtig zijn, verbonden met juist onderscheidingsvermogen zijn geschikt om geestelijke macht te bezitten, gesymboliseerd door de speer. Amfortas zou die gebruikt hebben om een vijand aan te vallen en te verwonden. Parsival zou haar zelfs niet uit zelfverdediging hebben ge bruikt. Daarom is hij in staat te genezen, terwijl Amfortas in de kuil viel die hij voor Klingsor had gegraven. 
 
@@ -697,29 +713,31 @@ In het laatste bedrijf zegt Kundry, die het lagerzelf voorstelt, maar één woor
 
 Oliver Wendell Holmes heeft in zijn prachtige gedicht: The Chambered Nautilus, dit idee van aanhoudende vooruitgang in steeds betere voertuigen en de uiteindelijke bevrijding hiervan, weergegeven. De nautilus, een po liepslak met een platte schelp, bouwt haar spiraalvormige schelp met ka mers. Als hij uit een kamer is gegroeid verlaat hij die steeds weer voor een grotere die hij heeft maakt. 
 
-    Jaar in jaar uit sloeg ik de stille arbeid gade   
-    die zijn flonkerende winding ontrolde.   
-    Stil, naarmate de spiraal groeide,   
-    verliet hij zijn verblijf van het vorige jaar voor het nieuwe.   
-    Sloop met zachte tred door zijn glinsterende, overwelfde gang.   
-    Bouwde zijn blinde deur.   
-    Strekte zich uit in zijn pas gevonden woning en kende de oude niet meer.   
+```
+Jaar in jaar uit sloeg ik de stille arbeid gade   
+die zijn flonkerende winding ontrolde.   
+Stil, naarmate de spiraal groeide,   
+verliet hij zijn verblijf van het vorige jaar voor het nieuwe.   
+Sloop met zachte tred door zijn glinsterende, overwelfde gang.   
+Bouwde zijn blinde deur.   
+Strekte zich uit in zijn pas gevonden woning en kende de oude niet meer.   
 
-    Dank voor de hemelse boodschap door u gebracht,   
-    kind van de rusteloze zee.   
-    Losgescheurd uit haar troosteloze schoot!   
-    Van uw stomme lippen wordt een helderder toon geboren   
-    dan Triton ooit uit zijn omkranste hoorn blies!   
-    Terwijl die in mijn oren klinkt   
-    hoor ik uit het diepst van mijn gedachte een stem die zingt:   
+Dank voor de hemelse boodschap door u gebracht,   
+kind van de rusteloze zee.   
+Losgescheurd uit haar troosteloze schoot!   
+Van uw stomme lippen wordt een helderder toon geboren   
+dan Triton ooit uit zijn omkranste hoorn blies!   
+Terwijl die in mijn oren klinkt   
+hoor ik uit het diepst van mijn gedachte een stem die zingt:   
 
-    Bouw steeds grootsere verblijven, o mijn ziel!   
-    Terwijl de jaren snel voorbijgaan!   
-    Verlaat uw vroegere laaggewelfde stulp.   
-    Laat iedere nieuwe tempel, verhevener dan de vorige,   
-    u door een steeds grootsere koepel met de hemel verbinden,   
-    totdat u tenslotte vrij bent   
-    en uw uitgegroeide schelp in ’s levens rusteloze zee achterlaat   
+Bouw steeds grootsere verblijven, o mijn ziel!   
+Terwijl de jaren snel voorbijgaan!   
+Verlaat uw vroegere laaggewelfde stulp.   
+Laat iedere nieuwe tempel, verhevener dan de vorige,   
+u door een steeds grootsere koepel met de hemel verbinden,   
+totdat u tenslotte vrij bent   
+en uw uitgegroeide schelp in ’s levens rusteloze zee achterlaat   
+```
 
 <h2 id="ring-of-the-niebelung">De ring van de Nibelung</h2>
 
@@ -733,11 +751,13 @@ Het begeertelichaam is een latere aanwinst, vandaar dat het niet zo ge kristalli
 
 Omdat wij door deze wet van toenemende inwerking ons voordeel kun nen doen, nemen wij als studie nog een mythe die op een andere manier licht werpt op een levensmysterie, waardoor wij kunnen horen waar wij vandaan komen, waarom wij hier zijn en, of wij volmaakter worden dan daarvoor. 
 
-Als eerder gezegd zijn alle mythen overbrengers van geestelijke waarheid onder allegorieën, symbolen en afbeeldingen verborgen, en zijn daarom, zonder erbij na te denken, te begrijpen. Zoals sprookjes een middel zijn om kinderen te leren, zo werden deze grote mythen gebruikt om geestelijke waarheid aan de jonge mensheid te brengen. De groepsgeest werkt door middel van hun begeertelichaam op de dieren in door het oproepen van beelden die aan het dier een gevoel en aanwijzingen geven wat het doen moet. Op dezelfde manier legden de allegorische beelden, die in mythen vervat zijn, in de mens de grondslag voor zijn tegenwoordige en toekom stige ontwikkeling. Deze mythen werkten op zijn onderbewustzijn in en brachten hem op de hoogte waarop hij nu staat. Zonder deze voorberei ding zou de mens ongeschikt zijn geweest om het werk te doen waarmee hij nu mee bezig is. 
+Als eerder gezegd zijn alle mythen overbrengers van geestelijke waarheid onder allegorieën, symbolen en afbeeldingen verborgen, en zijn daarom, zonder erbij na te denken, te begrijpen. Zoals sprookjes een middel zijn om kinderen te leren, zo werden deze grote mythen gebruikt om geestelijke waarheid aan de jonge mensheid te brengen. 
+
+De groepsgeest werkt door middel van hun begeertelichaam op de dieren in door het oproepen van beelden die aan het dier een gevoel en aanwijzingen geven wat het doen moet. Op dezelfde manier legden de allegorische beelden, die in mythen vervat zijn, in de mens de grondslag voor zijn tegenwoordige en toekom stige ontwikkeling. Deze mythen werkten op zijn onderbewustzijn in en brachten hem op de hoogte waarop hij nu staat. Zonder deze voorberei ding zou de mens ongeschikt zijn geweest om het werk te doen waarmee hij nu mee bezig is. 
 
 Deze mythen werken nu nog om ons op de toekomst voor te bereiden. Maar sommige mensen zijn meer onder hun bekoring dan andere. Het pad van macht en beschaving heeft de loop van de zon van oost naar west ge volgd. In de etherische atmosfeer aan de kust van de Grote Oceaan [Cali fornië] zijn deze mythische voorstellingen bijna verdwenen en komt de mens bewust in contact met de geestelijke werkelijkheid. Verder naar het Oosten, vooral in Europa, treffen wij nog de atmosfeer aan van mystiek die boven het land hangt. Daar houdt de bevolking van oude mythen die hen op een manier aanspreken die voor de westerling onbegrijpelijk is. Het zielenleven van de mensen tussen de fjorden en fjelden 1 van Noorwegen, op de heide en veengronden van Schotland, in de verre uithoeken van het Zwarte Woud in Duitsland, en de door gletsjers omgeven alpenhellingen, is nu nog even diep en mystiek als duizend jaar geleden. Door hun gevoel staan zij in nauwer contact met de natuurgeesten en andere fabelwezens dan wij, die door rechtstreekse kennis voortgaan op het pad van aspiratie. Als wij dit gevoel weer oproepen en het samenvoegen met onze kennis, hebben wij daar voordeel van. Laten wij daarom proberen ons te vereen zelvigen met een van de diepst mystieke geschiedenissen uit het verleden, De ring van de Nibelungen, de grote [Germaanse] heldensage van Noord Europa. Zij vertelt de geschiedenis van de mens vanaf de tijd dat hij in At lantis woonde, tot de tegenwoordige wereld door een grote vuurzee aan zijn eind zal komen, en het koninkrijk van de hemelen zal worden geves tigd, zoals in de Bijbel wordt voorspeld. 
 
-1 Fjorden zijn smalle, tussen steile rotsachtige oevers diep in het land dringende inham men in zee het resultaat van ondergelopen gletsjerdalen. Fjielden zijn de woeste hoge bergvlaken daar. 
+() - 1 Fjorden zijn smalle, tussen steile rotsachtige oevers diep in het land dringende inham men in zee het resultaat van ondergelopen gletsjerdalen. Fjielden zijn de woeste hoge bergvlaken daar. 
 
 De Bijbel vertelt ons van de Hof van Eden [het paradijs] waar onze al lereerste voorouders in nauw contact met God verbleven, zuiver en on schuldig als kinderen. Hij verhaalt ons hoe deze tijd werd afgesloten en hoe verdriet, zonde en dood in de wereld kwamen. In de oude mythen, zoals in De ring van de Nibelungen, wordt de mensheid voorgesteld toen zij onder dezelfde omstandigheden van kinderlijke onschuld leefde. De ope ningsscène van Wagners opera stelt het leven in de Rijn, onder water, voor waar de Rijnmaagden, met ritmische bewegingen, zingend rondzwemmen waarbij de op- en neergaande deining de dansende beweging van de gol ven weergeven. Het water wordt door een grote klomp glimmend goud verlicht, waar de Rijnmaagden omheen cirkelen, zoals de planeten zich om de centrale zon bewegen. Want hier hebben wij het kleine heelal, de micro kosmos, het evenbeeld van het grote heelal, de macrokosmos, waarin de hemellichamen zich in een majestueuze cirkeldans rond de centrale licht gever bewegen. 
 
@@ -749,9 +769,9 @@ Maar deze situatie kon niet blijven voortbestaan, want dan zou er geen ontwikkel
 
 De Noorse mythe vertelt ons het verhaal op een andere manier. Maar hoewel het gezichtspunt verschilt, komen de hoofdlijnen van het verhaal op hetzelfde neer. In het paradijs dachten onze voorouders niet zelfstan dig. Zij gehoorzaamden trouw de bevelen die hun door de goddelijke leiders werden gegeven, zoals ook een klein kind aanvankelijk doet wat zijn ouders zeggen omdat het nog geen zelfbewustzijn heeft. Het mist individualiteit. Volgens de Bijbel kreeg men die, toen Lucifer hen van het idee doordrong dat zij zoals de goden konden worden, en goed en kwaad kennen. 
 
-In de Germaanse mythe wordt verteld dat Alberich - één van de kinderen van de Nibel, nebel, nevel, mist; ung betekent jong of afstammeling, kind2; zij werden zo genoemd omdat zij in de mistige atmosfeer van At lantis leefden - het goud begeerde, dat met schittering in de Rijn glinster de. Hij had gehoord dat degene die het goud wist te bemachtigen en dit in een ring omvormde, daardoor de macht zou krijgen om de wereld te veroveren en alle anderen, die deze schat niet bezaten, te overwinnen. Dus zwom hij naar de grote rots waar het goud lag, greep het en zwom snel naar de oppervlakte, achtervolgd door de Rijndochters die erg bedroefd waren over het verlies van de schat. 
+In de Germaanse mythe wordt verteld dat Alberich - één van de kinderen van de Nibel, nebel, nevel, mist; ung betekent jong of afstammeling, kind 2; zij werden zo genoemd omdat zij in de mistige atmosfeer van At lantis leefden - het goud begeerde, dat met schittering in de Rijn glinster de. Hij had gehoord dat degene die het goud wist te bemachtigen en dit in een ring omvormde, daardoor de macht zou krijgen om de wereld te veroveren en alle anderen, die deze schat niet bezaten, te overwinnen. Dus zwom hij naar de grote rots waar het goud lag, greep het en zwom snel naar de oppervlakte, achtervolgd door de Rijndochters die erg bedroefd waren over het verlies van de schat. 
 
-2 Heindel meent dat het Duitse woord: ‘ungen’ kinderen betekent. Dat is onjuist. Het Ne derlandse woordenboek van Van Dale zegt: ‘-eling achter persoonsnamen ‘in de zin van behorende tot door het grondwoord uitgedrukt en dan vooral persoonsnamen die afge leid zijn van de vader als Karo-lingen.’ Bijvoorbeeld: ellendeling, gunsteling, oproerling. 
+() - 2 Heindel meent dat het Duitse woord: ‘ungen’ kinderen betekent. Dat is onjuist. Het Ne derlandse woordenboek van Van Dale zegt: ‘-eling achter persoonsnamen ‘in de zin van behorende tot door het grondwoord uitgedrukt en dan vooral persoonsnamen die afge leid zijn van de vader als Karo-lingen.’ Bijvoorbeeld: ellendeling, gunsteling, oproerling. 
 
 Toen de dief Alberich aan de oppervlakte van het water kwam, hoorde hij een stem die hem zei dat alleen iemand het goud in de vereiste ring kon omvormen om daardoor de wereld te overmeesteren, als hij de liefde af zwoer. Dat deed hij meteen en begon op staande voet de aarde van haar schat te beroven om aan zijn begeerte naar rijkdom en macht te voldoen. 
 
@@ -807,9 +827,7 @@ Na verloop van tijd komt Siegmund toevallig in het huis van Hunding en vindt zij
 
 Volgens hun opvatting reikte deze boom van de aarde tot aan de hemel. Eén van zijn wortels was in de onderwereld bij Hel, een verschrikkelijke heks die over diegenen heerste die aan ziekten overleden en daarom on waardig waren om met Wodan in Walhalla te wonen. Zij vertegenwoor digen de klasse mensen die traag zijn en nalaten de levensstrijd tot het laatste toe te strijden. Hel was een van de drie kinderen van de god Loki, die we al kennen als Loge, de geest van het vuur, het bedrog en de waan. Zijn drie kinderen zijn gelijkgestemd, en bestrijden steeds de goden die het welzijn van de mensen aan het hart gaat. Zij zijn de symbolen van de elementen die de stoffelijke wereld uitmaken, waar alleen de dood heerst. De Midgaardslang, een andere dochter van Loki, is een geweldig monster, dat de aarde omringt en in zijn eigen staart bijt: het is de oceaan. Het derde kind van Loki is de wolf Fenris, die zo ijl is maar zo sterk dat niets hem kan vasthouden: hij vertegenwoordigt de atmosfeer om de aarde en de wind die niet bedwongen kan worden, dus het element lucht. Loge, die wij al kennen, is de geest van het vuur, het bedrog, en de waan. De ande re tak van Iggdrasil staat in verbinding met de reuzen van ijs en vorst in de Chaos, waaruit dit hele universum is voortgekomen. De derde tak staat in verbinding met de goden. 
 
-Onder de wortel, bij Hel, ligt de slang Nidhog te knauwen. Hij is de geest van de afgunst en kwaadaardigheid die het goede wil vernietigen. Nid bete kent afgunst, nijd, en hog vellen. Omdat Yggdrasil de levensboom uit O penbaringen, door - liefde leeft, zouden afgunst en ondeugd de boom vel len en naar beneden leiden, tot de dood en de hel. Maar onder de wor tels, bij de goden, is de fontein Urd, waaruit de drie Nornen of schikgodin nen het levenswater halen, de geestelijke beweegkracht waarmee de boom van water wordt voorzien en zijn bladeren fris en groen blijven. 
-
-De namen van deze drie Nornen zijn Urd, Skuld en Verdande. Urd komt van het Duitse Ur, oer, de vroegere, oorspronkelijke of maagdelijke staat met betrekking tot de mens en het heelal. Zij spint de draad van het lot, door ons in het verleden gevormd, op haar wiel Skuld, een naam die schuld betekent, zij is de tweede Norn die het heden voorstelt. Aan haar levert Urd de draad van het lot van de afgelopen levens, die wij in de te genwoordige belichaming moeten verwerken, dat is onze boete. Dan wordt de draad doorgegeven aan Verdande, de derde Norn, wiens naam een afleiding is van werdende, het Duitse woord voor wordend. Zij stelt de toekomst voor. Als de draad van het lot, die de in het tegenwoordige leven betaalde schuld symboliseert, aan haar wordt doorgegeven, snijdt zij het er stuk voor stuk vanaf. Dus dit geweldige symbool zegt ons dat, als de oor zaak van de schulden, in vorige levens opgedaan, in dit leven tenietgedaan worden, de schuld voor alle komende tijden ongedaan is gemaakt. 
+Onder de wortel, bij Hel, ligt de slang Nidhog te knauwen. Hij is de geest van de afgunst en kwaadaardigheid die het goede wil vernietigen. Nid bete kent afgunst, nijd, en hog vellen. Omdat Yggdrasil de levensboom uit O penbaringen, door - liefde leeft, zouden afgunst en ondeugd de boom vel len en naar beneden leiden, tot de dood en de hel. Maar onder de wor tels, bij de goden, is de fontein Urd, waaruit de drie Nornen of schikgodin nen het levenswater halen, de geestelijke beweegkracht waarmee de boom van water wordt voorzien en zijn bladeren fris en groen blijven. De namen van deze drie Nornen zijn Urd, Skuld en Verdande. Urd komt van het Duitse Ur, oer, de vroegere, oorspronkelijke of maagdelijke staat met betrekking tot de mens en het heelal. Zij spint de draad van het lot, door ons in het verleden gevormd, op haar wiel Skuld, een naam die schuld betekent, zij is de tweede Norn die het heden voorstelt. Aan haar levert Urd de draad van het lot van de afgelopen levens, die wij in de te genwoordige belichaming moeten verwerken, dat is onze boete. Dan wordt de draad doorgegeven aan Verdande, de derde Norn, wiens naam een afleiding is van werdende, het Duitse woord voor wordend. Zij stelt de toekomst voor. Als de draad van het lot, die de in het tegenwoordige leven betaalde schuld symboliseert, aan haar wordt doorgegeven, snijdt zij het er stuk voor stuk vanaf. Dus dit geweldige symbool zegt ons dat, als de oor zaak van de schulden, in vorige levens opgedaan, in dit leven tenietgedaan worden, de schuld voor alle komende tijden ongedaan is gemaakt. 
 
 De Noorse mythologie vertelt verder dat er behalve deze drie hoofdnor nen nog veel andere Nornen waren. En dat er bij elke geboorte één van hen actief was en zich dan verder met het lot van het geboren kind belastte. Ook wordt ons gezegd dat deze Nornen of schikgodinnen, niet volgens eigen wil werken, maar onderworpen waren aan de voorschriften van de onzichtbare Oorlog. De naam is een verbastering van Ur, dat oorspronke lijk betekent, en log is wet. Wij zien dus dat het Noorse symbool leert dat de Nornen niet aan de goden onderworpen waren en dat ons lot niet be heerst wordt door een gril, maar door een onverbiddelijke natuurwet, de wet van oorzaak en gevolg. 
 
@@ -823,10 +841,12 @@ De waarheid staat dus in haar strijd tegen de bekende standpunten van de kerk en
 
 Ondertussen is Wodan, die niet de macht heeft om Walhalla, de ring van het geloof, te verlaten, gedwongen om Brünnhilde, de geest van de waar heid die hem ongehoorzaam is geweest, te verstoten. Want het is een voorwaarde van het geloof om alleenheerser te zijn en geen tegenspraak te dulden. Maar omdat alle godsdiensten onafscheidelijk met de geest van liefde en een oprechte begeerte om de mensheid te dienen en te verhef fen vervuld zijn, voelt Wodan een overstelpend verdriet bij de stap die noodzakelijk is voor de door hem gekozen weg en die hij trouw blijft, on danks de hartverscheurende pleidooien van Brünnhilde. Het is iets ver schrikkelijks zich van de waarheid los te maken. Beiden voelen dit scherper dan woorden kunnen uitdrukken, als de arme, aan het geloof gebonden Wodan, Brünnhilde gedwongen te slapen moet leggen met de woorden: 
 
-    De lafaard vlucht   
-    Brünnhildes rots!   
-    Want één maar huwt de bruid,   
-    de minnaar als ik, de God!   
+```
+De lafaard vlucht   
+Brünnhildes rots!   
+Want één maar huwt de bruid,   
+de minnaar als ik, de God!   
+```
 
 In het volgende gezegde openbaart zich de voornaamste voorwaarde voor het zoeken naar waarheid. ‘Wie geen afstand doet van al zijn bezit tingen, kan mijn leerling niet zijn.’ [Lucas 14:33] Alle beperkingen moeten zijn weggevaagd voordat wij kunnen verwachten met goed gevolg naar de waarheid te zoeken. 
 
@@ -852,11 +872,9 @@ Maar hoewel de zoekende geest van de wereld afstand mag doen, zoals Herzleide, d
 
 Nooit eerder is er op aarde een periode geweest waarin dit gedeelte van de grote mythe zich zo algemeen afspeelde als nu. Er zijn duizenden men sen die in zich Siegfried en Mime, Dr Jekyl en Mr Hyde 3 vertegenwoordi gen. Zij zijn min of meer tot het besef van de krachten van de geest geko men, van hun goddelijke natuur en eigenschappen zoals Siegfried, maar de lagere aard van hun karakter; Mime gaat voort met plannen maken voor materieel welzijn. 
 
-3 Dr. Jekyll en Mr. Hyde, Robert Louis Stevenson, Nederlandse Boekenclub, ’s Graven hage, zonder jaartal. In het Engels verschenen in 1886. 
+() - 3 Dr. Jekyll en Mr. Hyde, Robert Louis Stevenson, Nederlandse Boekenclub, ’s Graven hage, zonder jaartal. In het Engels verschenen in 1886. 
 
-Of wij dit het gebruik van de goddelijke krachten noemen, christelijk, of het een andere naam geven, het is niet de wetenschap van de ziel. 
-
-Wij behoren tegenover onszelf eerlijk te zijn en het feit te erkennen dat hij, die geen plaats had om zijn hoofd neer te leggen en die de ware beli chaming van de aantrekkende Christuskracht was, weigerde deze kracht voor zijn eigen welzijn te gebruiken. Zelfs op het moment van sterven liet hij dit na. Men zegt van hem dat hij anderen redde, maar zichzelf kon hij, of wilde hij niet redden, omdat de wet van opoffering boven de wet van zelfbehoud gaat: ‘Wat heeft een mens eraan als hij de hele wereld wint, maar er het leven bij inschiet?’ Marcus 8:36. 
+Of wij dit het gebruik van de goddelijke krachten noemen, christelijk, of het een andere naam geven, het is niet de wetenschap van de ziel. Wij behoren tegenover onszelf eerlijk te zijn en het feit te erkennen dat hij, die geen plaats had om zijn hoofd neer te leggen en die de ware beli chaming van de aantrekkende Christuskracht was, weigerde deze kracht voor zijn eigen welzijn te gebruiken. Zelfs op het moment van sterven liet hij dit na. Men zegt van hem dat hij anderen redde, maar zichzelf kon hij, of wilde hij niet redden, omdat de wet van opoffering boven de wet van zelfbehoud gaat: ‘Wat heeft een mens eraan als hij de hele wereld wint, maar er het leven bij inschiet?’ Marcus 8:36. 
 
 Op het moment waarop wij serieus het pad betreden, is over onze lage re natuur, ondanks alle pogingen en listen zichzelf te redden, het oordeel geveld. Als Mime plannen maakt om Siegfried tegen de draak Fafner, de geest van begeerte, op te trekken, heeft hij in feite zijn eigen lot bezegeld; want als de geest de begeerte naar werelds bezit heeft overwonnen, zijn wij dood voor de wereld, zelfs al leven wij nog hier en al doen wij ons werk in de wereld. Wij zijn dan ìn, maar niet vàn de wereld. 
 
@@ -868,17 +886,23 @@ Als de waarheidszoeker op het hier beschreven punt is gekomen, staat hij niet la
 
 ### <h3 id="chapter-12">12. De strijd tussen waarheid en dwaling</h3>
 
-Er zijn geen passende woorden geschikt om een idee te geven van wat de ziel voelt als zij in die aanwezigheid staat, ver boven deze wereld, waar de sluier van het vlees de levende werkelijkheid onder een masker verbergt. Ook buiten de wereld van begeerte en begoocheling, waar fantastische en bedrieglijke vormen ons misleiden om te veronderstellen dat zij iets geheel anders schijnen dan zij in werkelijkheid zijn. Alleen in het gebied van de concrete gedachte, waar de oertypen van alle dingen zich verenigen, in dat grote hemelse koor, waarvan Pythagoras sprak als van ‘de harmonie van de sferen’, vinden wij de waarheid, in al haar schoonheid geopenbaard. Maar de geest kan daar niet altijd blijven. Deze waarheid en werkelijkheid die zo vurig door iedereen wordt verlangd die door een innerlijke drang, sterker dan de banden van vriendschap, verwantschap, of een andere re latie, tot onderzoek wordt aangespoord, is alleen maar een middel tot een doel. De waarheid moet naar het gebied van de stoffelijke vorm worden overgebracht, opdat zij van werkelijk nut in het werk van de wereld moge worden. Daarom wordt Siegfried, de waarheidszoeker, gedwongen de rots van Brünnhilde te verlaten, terug te keren door het vuur van de begooche ling en opnieuw de stoffelijke wereld te betreden om beproefd en gebon den te worden, om te bewijzen dat hij aan de belofte van liefde tussen hem en de opnieuw ontwaakte Walkure gedaan, trouw zal blijven. Het is een harde strijd die voor hem ligt. De wereld is niet klaar voor de waarheid, hoe heftig zij dat ook betuigt, zij beraamt en probeert met alle middelen binnen haar bereik, om iedereen te onderdrukken die haar de waarheid voorlegt. Want er zijn weinig instanties die de verblindende glans van haar licht kun nen verdragen. Zelfs de goden kunnen dit niet, zoals Brünnhilde tot haar verdriet weet. Want was zij niet door Wodan verbannen omdat zij had ge weigerd om haar kracht in dienst van de overeenkomst te gebruiken! Ie dereen die op overeenkomsten vertrouwt om de waarheid hoog te hou den, zal bemerken dat de hele wereld tegen hem is en dat hij alleen staat. Wodan was haar vader en zei haar innig lief te hebben. Ja, hij had haar lief op zijn manier, maar hij hield meer van de kracht door Walhalla ge symboliseerd. De ring van het geloof, waardoor hij de mensheid kon be heersen, was in zijn ogen begeerlijker dan Brünnhilde, de geest van de waarheid. Daarom legde hij haar achter de vlammenkring der begooche ling te slapen. 
+Er zijn geen passende woorden geschikt om een idee te geven van wat de ziel voelt als zij in die aanwezigheid staat, ver boven deze wereld, waar de sluier van het vlees de levende werkelijkheid onder een masker verbergt. Ook buiten de wereld van begeerte en begoocheling, waar fantastische en bedrieglijke vormen ons misleiden om te veronderstellen dat zij iets geheel anders schijnen dan zij in werkelijkheid zijn. Alleen in het gebied van de concrete gedachte, waar de oertypen van alle dingen zich verenigen, in dat grote hemelse koor, waarvan Pythagoras sprak als van ‘de harmonie van de sferen’, vinden wij de waarheid, in al haar schoonheid geopenbaard. 
 
-Als de houding van de goden zo is, wat kan er dan van mensen worden verwacht, die niet zulke hoge en edele idealen bezitten als de goden, de be wakers van de godsdienst, hen voorhouden? Dit alles, en meer dan wij in woorden kunnen uitdrukken – veel waarover u goed doet om over na te denken – schoot door Brünnhildes geest op het moment van Siegfrieds vertrek. Om hem tenminste een kans in de levensstrijd te geven, magneti seert zij als het ware, zijn hele lichaam om hem onkwetsbaar te maken. Alle plekken zijn op die manier beschermd, behalve een plek op zijn rug tus sen de schouders. Wij hebben hier met eenzelfde geval te doen als bij Achilles wiens hele lichaam onkwetsbaar was, behalve één van zijn hie len. In dit feit schuilt een diepe betekenis. Want zolang als de soldaat van de waarheid zijn pantser, waarvan Paulus spreekt, in de levensstrijd draagt en zijn vijanden dapper tegemoet treedt, is het zeker dat hij, hoe hard hij ook bestookt wordt, uiteindelijk zal overwinnen. Want door de wereld te weerstaan en zijn borst voor de pijlen van vijandschap, laster en smaad te ontbloten, toont hij de moed van de overtuiging die hij heeft. Een macht, groter dan hij, de macht die steeds ten goede werkt, zal hem beschermen, ongeacht de omvang van de woeste aanvallen die hij heeft te weerstaan. Maar wee hem, als hij zich op een bepaald moment omkeert. Dan, als hij op de woedende aanvallen van de vijand van de waarheid geen acht meer slaat, zal die de kwetsbare plek vinden, zij het in de hiel of tussen de schou ders. Daarom past het ons en iedereen die de waarheid bemint, uit deze mooie symboliek een les te leren en onze verantwoordelijkheid te besef fen om steeds de waarheid boven alles lief te hebben. Vriendschap, ver wantschap en allerlei andere afwegingen behoren bij ons niet van belang te zijn in vergelijking met dit ene grote werk, mét de waarheid en vóór de waarheid. Christus, die de belichaming van de waarheid in eigen persoon was, zei tot zijn leerlingen: ‘Jullie zullen door iedereen worden gehaat om wille van mijn naam.’ Lucas 21:17. Laten wij onszelf daarom niet misleiden: het pad van principe is een oneffen weg en kost inspanning om te begaan. Als wij op weg zijn zullen wij waarschijnlijk het contact met iedereen die ons lief en dierbaar is verliezen. Hoewel er godsdienstvrijheid is, is vervol ging nog niet beëindigd. Geloof en dogmatiek zijn nog machtig en staan klaar om iedereen te vervolgen die niet de gebruikelijke wegen bewandelt. Maar zolang wij hen weerstaan en ons pad zonder vrees voor kritiek ver volgen, zal de waarheid altijd ongeschonden uit de strijd komen. Alleen als wij ons bang en laf tonen, zullen deze bedreigende krachten ons op deze kwetsbare plekken de doodssteek toebrengen. 
+Maar de geest kan daar niet altijd blijven. Deze waarheid en werkelijkheid die zo vurig door iedereen wordt verlangd die door een innerlijke drang, sterker dan de banden van vriendschap, verwantschap, of een andere re latie, tot onderzoek wordt aangespoord, is alleen maar een middel tot een doel. De waarheid moet naar het gebied van de stoffelijke vorm worden overgebracht, opdat zij van werkelijk nut in het werk van de wereld moge worden. Daarom wordt Siegfried, de waarheidszoeker, gedwongen de rots van Brünnhilde te verlaten, terug te keren door het vuur van de begooche ling en opnieuw de stoffelijke wereld te betreden om beproefd en gebon den te worden, om te bewijzen dat hij aan de belofte van liefde tussen hem en de opnieuw ontwaakte Walkure gedaan, trouw zal blijven. 
+
+Het is een harde strijd die voor hem ligt. De wereld is niet klaar voor de waarheid, hoe heftig zij dat ook betuigt, zij beraamt en probeert met alle middelen binnen haar bereik, om iedereen te onderdrukken die haar de waarheid voorlegt. Want er zijn weinig instanties die de verblindende glans van haar licht kun nen verdragen.
+
+Zelfs de goden kunnen dit niet, zoals Brünnhilde tot haar verdriet weet. Want was zij niet door Wodan verbannen omdat zij had ge weigerd om haar kracht in dienst van de overeenkomst te gebruiken! Ie dereen die op overeenkomsten vertrouwt om de waarheid hoog te hou den, zal bemerken dat de hele wereld tegen hem is en dat hij alleen staat. Wodan was haar vader en zei haar innig lief te hebben. Ja, hij had haar lief op zijn manier, maar hij hield meer van de kracht door Walhalla ge symboliseerd. De ring van het geloof, waardoor hij de mensheid kon be heersen, was in zijn ogen begeerlijker dan Brünnhilde, de geest van de waarheid. Daarom legde hij haar achter de vlammenkring der begooche ling te slapen. 
+
+Als de houding van de goden zo is, wat kan er dan van mensen worden verwacht, die niet zulke hoge en edele idealen bezitten als de goden, de be wakers van de godsdienst, hen voorhouden? Dit alles, en meer dan wij in woorden kunnen uitdrukken – veel waarover u goed doet om over na te denken – schoot door Brünnhildes geest op het moment van Siegfrieds vertrek. Om hem tenminste een kans in de levensstrijd te geven, magneti seert zij als het ware, zijn hele lichaam om hem onkwetsbaar te maken. Alle plekken zijn op die manier beschermd, behalve een plek op zijn rug tus sen de schouders. Wij hebben hier met eenzelfde geval te doen als bij Achilles wiens hele lichaam onkwetsbaar was, behalve één van zijn hie len. In dit feit schuilt een diepe betekenis. Want zolang als de soldaat van de waarheid zijn pantser, waarvan Paulus spreekt, in de levensstrijd draagt en zijn vijanden dapper tegemoet treedt, is het zeker dat hij, hoe hard hij ook bestookt wordt, uiteindelijk zal overwinnen. Want door de wereld te weerstaan en zijn borst voor de pijlen van vijandschap, laster en smaad te ontbloten, toont hij de moed van de overtuiging die hij heeft. Een macht, groter dan hij, de macht die steeds ten goede werkt, zal hem beschermen, ongeacht de omvang van de woeste aanvallen die hij heeft te weerstaan. Maar wee hem, als hij zich op een bepaald moment omkeert. Dan, als hij op de woedende aanvallen van de vijand van de waarheid geen acht meer slaat, zal die de kwetsbare plek vinden, zij het in de hiel of tussen de schou ders. Daarom past het ons en iedereen die de waarheid bemint, uit deze mooie symboliek een les te leren en onze verantwoordelijkheid te besef fen om steeds de waarheid boven alles lief te hebben. Vriendschap, ver wantschap en allerlei andere afwegingen behoren bij ons niet van belang te zijn in vergelijking met dit ene grote werk, mét de waarheid en vóór de waarheid. Christus, die de belichaming van de waarheid in eigen persoon was, zei tot zijn leerlingen: ‘Jullie zullen door iedereen worden gehaat om wille van mijn naam.’ Lucas 21:17. 
+
+Laten wij onszelf daarom niet misleiden: het pad van principe is een oneffen weg en kost inspanning om te begaan. Als wij op weg zijn zullen wij waarschijnlijk het contact met iedereen die ons lief en dierbaar is verliezen. Hoewel er godsdienstvrijheid is, is vervol ging nog niet beëindigd. Geloof en dogmatiek zijn nog machtig en staan klaar om iedereen te vervolgen die niet de gebruikelijke wegen bewandelt. Maar zolang wij hen weerstaan en ons pad zonder vrees voor kritiek ver volgen, zal de waarheid altijd ongeschonden uit de strijd komen. Alleen als wij ons bang en laf tonen, zullen deze bedreigende krachten ons op deze kwetsbare plekken de doodssteek toebrengen. 
 
 Nog een punt: als Siegfried de rots van de Walkure verlaat om de we reld in te trekken, geeft hij de ring van de Nibelungen aan Brünnhilde. De ze ring was, zoals u zich zult herinneren, van Rijngoud gemaakt - dat de universele geest symboliseert - door de Nibelung Alberich. U zult u even eens herinneren dat hij deze goudklomp geen vorm kon geven omdat hij de liefde afzwoer. Want vriendschap en liefde hielden op toen de universe le geest door de ring van egoïsme omgeven werd. Vanaf dat moment is de strijd om het bestaan in al zijn verschrikkingen gevoerd. Uit egoïsme hief iedereen zijn hand op tegen zijn broeder, dat iedereen dwingt uit eigenbe lang te handelen, zonder rekening met een ander te houden. 
 
 Maar als de geest de waarheid heeft gevonden, en in aanraking met de goddelijke werkelijkheid is gekomen, als hij het gebied van de concrete gedachte heeft betreden, wat de hemel is, en de ene grote waarheid heeft gezien – waar alle dingen één zijn, al schijnen zij hier apart te zijn – name lijk dat er een onzichtbare band is die iedereen met elkaar verbindt. Als de geest op deze manier de alomvattendheid en liefde heeft hervonden, kan hij niet langer afgescheiden blijven. Als hij dus het rijk van de waar heid verlaat laat hij een gevoel van afgescheidenheid en ‘ikzelf’ achter zich, gesymboliseerd door de ring. Vanuit zijn wezen wordt hij dus universeel. Hij kent geen familie noch vaderland, maar voelt zoals de vaak niet be grepen Thomas Paine als die zegt: ‘De wereld is mijn vaderland en goed doen mijn geloof.’ Deze instelling wordt zinnebeeldig voorgesteld op het moment dat Siegfried de ring van de Nibelung aan Brünnhilde geeft. 
 
-Zoals u zich zult herinneren, waren de Walkuren dochters van Wodan, de belangrijkste god uit de Noorse mythologie. Zij reden met hoge snel heid op paarden door de lucht, overal naartoe waar een dodelijk gevecht tussen twee of meer partijen in aantocht was. Zodra er een strijder gesneu veld was, tilden zij hem voorzichtig in zijn zadel en brachten hem naar het Walhalla, de verblijfplaats van de goden, waar hij werd opgewekt en eeuwig in gelukzaligheid leefde. 
-
-U zult zich eveneens herinneren dat de naam Walkure betekent: met al gemeen stemmen gekozen worden. Zij die de levensstrijd tot aan het bit tere einde gevochten hebben, werden eenstemmig tot metgezellen van de goden gekozen. 
+Zoals u zich zult herinneren, waren de Walkuren dochters van Wodan, de belangrijkste god uit de Noorse mythologie. Zij reden met hoge snel heid op paarden door de lucht, overal naartoe waar een dodelijk gevecht tussen twee of meer partijen in aantocht was. Zodra er een strijder gesneu veld was, tilden zij hem voorzichtig in zijn zadel en brachten hem naar het Walhalla, de verblijfplaats van de goden, waar hij werd opgewekt en eeuwig in gelukzaligheid leefde. U zult zich eveneens herinneren dat de naam Walkure betekent: met al gemeen stemmen gekozen worden. Zij die de levensstrijd tot aan het bit tere einde gevochten hebben, werden eenstemmig tot metgezellen van de goden gekozen. 
 
 Brünnhilde was het hoofd van deze dochters van Wodan. Haar paard Grane was het snelste van alle strijdrossen. Dit dier, dat zo trouw de geest van de waarheid had gedragen, gaf zij aan haar echtgenoot, want de waarheid kan geacht worden eens de bruid te zijn van degene die haar heeft gevonden. Daarom is een paard het symbool van snelheid en beslist heid waardoor degene die met de waarheid gehuwd is, in staat is een juiste keuze te maken en waarheid van dwaling te onderscheiden, maar alleen als men trouw blijft. 
 
@@ -890,36 +914,48 @@ Het hof van Gunther ligt langs het pad naar Siegfried. Alberich snelt vooruit en
 
 ### <h3 id="chapter-13">13. Wedergeboorte en de bedwelmende drank</h3>
 
-    De geboorte is alleen maar een slaap, een vergeten.   
-    De ziel die met ons opgaat, onze levensster,   
-    heeft ergens anders haar plaats gehad   
-    en komt van ver.   
+```
+De geboorte is alleen maar een slaap, een vergeten.   
+De ziel die met ons opgaat, onze levensster,   
+heeft ergens anders haar plaats gehad   
+en komt van ver.   
 
-    Wordsworth 
+Wordsworth 
+```
 
 Als Siegfried de rots van de Walkure verlaat en het wereldse hof van Gun ther bereikt, wordt hem een drank gegeven met de bedoeling hem alles over zijn vorige levens en Brünnhilde - de geest van de waarheid, die hij voor zijn ware zelf had gewonnen - te doen vergeten. 
 
 Er wordt vaak verondersteld dat de leer van wedergeboorte alleen in de oude godsdiensten van het Oosten geleerd wordt, maar een studie van de Scandinavische mythologie zal deze misvatting vlug doen verdwijnen. In derdaad geloofden zij zowel in wedergeboorte als in de wet van oorzaak en gevolg en haar toepassing op het zedelijk gedrag, totdat het christen dom deze leerstellingen omsluierden. De redenen daarvoor worden in hoofdstuk 4 van De wereldbeschouwing der Rozenkruisers verklaard. Het is merkwaardig om over de verwarring te lezen die ontstond toen de oude godsdienst van Wodan door de christelijke kerk opzij werd geschoven. De mensen geloofden in hun hart aan wedergeboorte, maar verwierpen die voor het uiterlijk, zoals het volgende verhaal van de heilige Olaf, koning van Noorwegen, een van de vroegste en ijverigste bekeerlingen tot het christendom, aantoont. Toen Asta, de vrouw van koning Harold, in ba rensnood was en de bevalling niet op gang wilde komen, kwam er een man met juwelen aan het hof, waarover hij het volgende vertelde. Koning Olaf Geirstad, die vele jaren daarvoor in Noorwegen had geregeerd en de recht streekse voorvader van Harold was, was hem in een droom verschenen en had hem opgedragen de grote aardheuvel waarin zijn lichaam lag, te ope nen, en met een zwaard zijn hoofd van zijn lichaam te scheiden, en bepaal de juwelen, die hij in de kist zou vinden, over te dragen aan de koningin, waarna dan haar pijnen zouden beëindigen. De juwelen werden naar de kamer van de koningin gebracht en kort daarop bracht zij een mannelijk kind ter wereld, dat Olaf genoemd werd. Het algemeen geloof was, dat de geest van Olaf Geirstad in het lichaam van het kind, dat naar hem genoemd was, was overgegaan. 
 
-Vele jaren later, toen Olaf koning van Noorwegen werd en het christen dom met enthousiasme begroette, reed hij op een dag, zoals hij vaak deed, langs de heuvel waar zijn voorvader begraven lag. Een hoveling, die toen bij hem was, vroeg: ‘Is het waar, majesteit, dat u ooit in deze heuvel hebt gelegen?’ ‘Mijn geest heeft nooit in twee lichamen gewoond’ antwoordde de koning. ‘Toch wordt gezegd, dat men u heeft horen zeggen toen u deze heuvel passeerde: ‘Hier was ik; hier leefde ik.’ ‘Dat heb ik nooit gezegd’, antwoordde de koning en ‘dat zal ik ook nooit zeggen.’ 
+Vele jaren later, toen Olaf koning van Noorwegen werd en het christen dom met enthousiasme begroette, reed hij op een dag, zoals hij vaak deed, langs de heuvel waar zijn voorvader begraven lag. Een hoveling, die toen bij hem was, vroeg: 
+
+‘Is het waar, majesteit, dat u ooit in deze heuvel hebt gelegen?’
+
+‘Mijn geest heeft nooit in twee lichamen gewoond’ antwoordde de koning. 
+
+‘Toch wordt gezegd, dat men u heeft horen zeggen toen u deze heuvel passeerde: ‘Hier was ik; hier leefde ik.’ 
+
+‘Dat heb ik nooit gezegd’, antwoordde de koning en ‘dat zal ik ook nooit zeggen.’ 
 
 Hij was erg uit het veld geslagen en reed haastig weg, waarschijnlijk om een gesprek over een geestelijke overtuiging, die alle dogma’s van het nieu we geloof niet konden uitroeien, te vermijden. 
 
 Omdat helderziendheid toen meer voorkwam is het een feit, dat de oude volken zowel in het Oosten als in het Westen, veel over dood en geboor te wisten, wat in de nieuwe tijd vergeten is. Tot nog toe bijvoorbeeld, be weren veel kleine boeren in Noorwegen de geest als een lange, smalle, witte wolk uit het lichaam te kunnen zien treden, wat natuurlijk het levensli chaam is. De Rozenkruisersleer: dat de overledenen na hun overlijden enige tijd rond hun aardse verblijf dolen, dat zij een verlicht lichaam aan nemen en erg aangedaan worden door het verdriet van degenen die hen lief zijn, was onder de Noren algemeen bekend. Toen de overleden koning Helge van Denemarken een stoffelijke vorm aannam, zich materialiseerde om het verdriet van zijn weduwe te verzachten en angstig uitriep: ‘De dauw van de dood heeft zijn krijgsmanslichaam gebaad,’ antwoordde hij: 
 
-    Jij alleen, Sigrun van Sewafjoll,   
-    jij stralende zon in gouden tooi   
-    bent de schuld, die Helgi von Harmtau treft;   
-    Dagelijks ween je, dochter van het zuiden,   
-    voordat je naar bed gaat, bittere tranen;   
-    Als bloed valt elk op de borst van de vorst,   
-    koud en ijzig en kommerzwaar.   
+```
+Jij alleen, Sigrun van Sewafjoll,   
+jij stralende zon in gouden tooi   
+bent de schuld, die Helgi von Harmtau treft;   
+Dagelijks ween je, dochter van het zuiden,   
+voordat je naar bed gaat, bittere tranen;   
+Als bloed valt elk op de borst van de vorst,   
+koud en ijzig en kommerzwaar.   
+```
 
 Als men het feit van wedergeboorte beseft, is men over het algemeen benieuwd te weten waarom de herinnering aan voorgaande levens is ge wist. Veel mensen zijn met een bijna overweldigend verlangen vervuld om het verleden te kennen. Zij kunnen de weldaad, voortvloeiend uit de be dwelmende drank van de vergetelheid niet begrijpen en kijken jaloers naar hen die beweren hun vorige levens te kennen, als zij verkondigen konin gen, koninginnen, filosofen, priesters en zo voort geweest te zijn. Er ligt echter een uiterst weldadig doel in deze vergetelheid, want geen ervaring in het leven is van waarde behalve voor de indruk die zij in het louterings proces na de dood achterlaat. Deze indruk werkt dan op zo’n manier, dat hij op de juiste tijd een bepaalde manier van handelen aangeeft, daar te gen waarschuwt, of er toe aanspoort. Deze waarschuwing of aansporing werkt sneller dan de gedachte, hoewel los van de ervaring. 
 
 Om dit punt te verduidelijken kunnen wij de indruk op deze geestelijke lichamen gegrift, misschien vergelijken met een fonografische 4 opname, die weergegeven, een aantal stemvorken in de nabijheid zal doen trillen op dezelfde manier als wanneer een noot wordt aangeslagen. Uiterlijk bezien is er geen reden waarom een bepaalde groeve op een grammofoonplaat met een andere op een stemvork moet overeenkomen. Als de naald in die groeve valt wordt er een bepaald geluid voortgebracht dat de stemvork in trilling brengt. Maar of wij dit al of niet begrijpen, toont demonstratie aan dat er een geluidsverband bestaat tussen de groeve en de stemvork. Dit hangt niet af van een wetenschap. Dit is niet afhankelijk van kennis hoe dit geluid op de plaat werd vastgelegd, of wat de stemvork in trilling bracht. Het bestaat, of wij nu weten hoe dat kan of niet. 
 
-4 De fonograaf werd in 1877 door Edison uitgevonden. Het is een toestel dat met behulp van een wasrol geluid opneemt en kan weergeven. Het is de voorloper van de grammo foon, ook platenspeler en pick-up genoemd. 
+() - 4 De fonograaf werd in 1877 door Edison uitgevonden. Het is een toestel dat met behulp van een wasrol geluid opneemt en kan weergeven. Het is de voorloper van de grammo foon, ook platenspeler en pick-up genoemd. 
 
 Op dezelfde manier wordt een bepaalde levenservaring, hetzij vreugde of verdriet, in de ervaring na de dood verdicht en laat daarbij een indruk op de ziel achter om te waarschuwen als de ervaring gelouterd moet wor den, of om aan te sporen als zij hemels is. Als in een volgend leven zich een soortgelijke ervaring voordoet als die welke de indruk veroorzaakte, wordt de trilling door de ziel gevoeld. Zij wekt de toon van pijn of genot op, zoals het geval was in het verslag uit het voorgaande leven. Dit is veel sneller en nauwkeuriger dan wij ons de gebeurtenis herinneren. Want zelfs nu zijn wij niet in staat de ervaring in het juiste licht te zien omdat wij door de sluier van het vlees daarin gehinderd worden. De vrucht van onze ervaring in hemel of louteringsgebied, vertelt ons duidelijk of wij ons ver leden moeten proberen te evenaren of juist vermijden. 
 
@@ -933,7 +969,9 @@ Een dier neemt ongehinderd alles wat hij verlangt. Hij zondigt niet en is niet v
 
 Als wij die gave wensen om het verleden te kennen, zullen wij ervaren dat wij niet meer gerechtigd zijn deze gave voor verheffing te gebruiken dan om die gave te gebruiken om aardse rijkdom of macht te krijgen. Daarom is het leven, of de levens die wij hebben geleid, met een bepaald doel voor ons verborgen, totdat wij weten hoe wij de deur moeten openen. Als wij de sleutel hebben, zullen wij die waarschijnlijk niet willen gebruiken. 
 
-Om die reden werd de bedwelmende drank aan Siegfried gegeven op het moment dat hij het hof van Gunther betreedt. Onmiddellijk vergeet hij de dwerg Mime uit zijn vorige leven, die beweerde zijn zoon te zijn. Hij ver geet hoe hij het toverzwaard ‘de moed der wanhoop’ smeedde, dat hem in het gevecht met Fafner, de geest van hartstocht en begeerte, zo goed van pas kwam. Hij vergeet dat hij zo de ring van de Nibelungen, het symbool van egoïsme had gekregen, waarbij hij kennis van zijn ware geestelijke identiteit had verkregen. En Mime doodde de persoon die valselijk be weerde zijn voorvader te zijn. Hij vergeet hoe hij als onverschrokken vrije geest de speer van Wodan, de bewaarder van het geloof, brak en de vogel van intuïtie naar de woonplaats van de slapende geest van de waarheid volgde. Hij vergeet zijn huwelijk met haar en eveneens de eed van on baatzuchtigheid toen hij haar de ring gaf. Maar elk belangrijk voorval heeft een indruk op zijn geest achtergelaten en moet nu beproefd wor den of deze indruk diep genoeg was of oppervlakkig. Leven na leven wor den wij beproefd, tot de schat, in de hemel opgelegd, door verzoeking op aarde beproefd en getest of hij al dan niet weerstand aan mot en roest zal bieden. Toen de Christusgeest na de doop in het lichaam van Jezus was neergedaald, werd hij in de woestijn geleid om beproefd te worden en zijn sterkte of zwakte te tonen. Wij moeten op dezelfde manier, na iedere he melse ervaring, verwachten naar de aarde te worden teruggevoerd, zodat zal blijken of wij in de vuurproef van de smart zullen standhouden of be zwijken. 
+Om die reden werd de bedwelmende drank aan Siegfried gegeven op het moment dat hij het hof van Gunther betreedt. Onmiddellijk vergeet hij de dwerg Mime uit zijn vorige leven, die beweerde zijn zoon te zijn. Hij ver geet hoe hij het toverzwaard ‘de moed der wanhoop’ smeedde, dat hem in het gevecht met Fafner, de geest van hartstocht en begeerte, zo goed van pas kwam. Hij vergeet dat hij zo de ring van de Nibelungen, het symbool van egoïsme had gekregen, waarbij hij kennis van zijn ware geestelijke identiteit had verkregen. En Mime doodde de persoon die valselijk be weerde zijn voorvader te zijn. Hij vergeet hoe hij als onverschrokken vrije geest de speer van Wodan, de bewaarder van het geloof, brak en de vogel van intuïtie naar de woonplaats van de slapende geest van de waarheid volgde. Hij vergeet zijn huwelijk met haar en eveneens de eed van on baatzuchtigheid toen hij haar de ring gaf. 
+
+Maar elk belangrijk voorval heeft een indruk op zijn geest achtergelaten en moet nu beproefd wor den of deze indruk diep genoeg was of oppervlakkig. Leven na leven wor den wij beproefd, tot de schat, in de hemel opgelegd, door verzoeking op aarde beproefd en getest of hij al dan niet weerstand aan mot en roest zal bieden. Toen de Christusgeest na de doop in het lichaam van Jezus was neergedaald, werd hij in de woestijn geleid om beproefd te worden en zijn sterkte of zwakte te tonen. Wij moeten op dezelfde manier, na iedere he melse ervaring, verwachten naar de aarde te worden teruggevoerd, zodat zal blijken of wij in de vuurproef van de smart zullen standhouden of be zwijken. 
 
 ### <h3 id="chapter-14">14. Godenschemering</h3>
 
@@ -943,36 +981,42 @@ Als eerder gezegd verandert als wij vooruitgaan ons begrip van wat waar heid is.
 
 Het eerste deel van het Atlantische tijdvak, toen de mensheid als on schuldige kinderen van de nevel, Nibelungen, in de mistige dalen van de aarde leefde, wordt vertegenwoordigd door het Rijngoud. De latere At lantische tijd is een tijdvak van wreedheid waarin de mensheid de liefde had afgezworen, zoals Alberich deed, en de ring van egoïsme vormt waar in zij haar krachten wijdt aan stoffelijk gewin, gesymboliseerd door de schat van de Nibelungen waar reuzen, goden en mensen met wilde wreed heid en lage listen om vechten, als in de Walkure wordt beschreven. 
 
-Het eerste deel van het Arische tijdvak kenmerkt de geboorte van de ide alist, door de Walsungs Siegmund, Sieglinda en Siegfried, een nieuw ras dat met een heilige ijver naar nieuwe en hogere dingen streeft; onver schrokken ridders die de moed van hun overtuiging hadden en steeds be reid waren voor de waarheid, zoals zij die zagen, te vechten en hun leven te verpanden om naar hun overtuiging te handelen zoals zij die zagen. Dus de tijd van realistische barbaarsheid maakte plaats voor een tijdvak van idealistisch ridderschap. Wij zitten nu in het laatste deel van het Arische tijdvak. De waarheidszoekers van het verleden hebben de met vuur omge ven rots van Brünnhilde weer verlaten. Wij hebben de sluier van het vlees weer omgedaan en van de bedwelmende drank geproefd. Wij nemen nu daadwerkelijk deel aan het laatste gedeelte van het grote heldendicht: De godenschemering, even belangrijk als onze christelijke Openbaring. Aan ons is het evangelie van het koningschap verkondigd. De weg, de waarheid en het leven zijn voor ons geopend evenals voor Siegfried. Wij worden nu be proefd zoals hij aan het hof van Gunther, om te zien of wij willen leven ‘met de waarheid gehuwd’ dan wel haar uit haar stil verblijf willen trek ken en haar verlagen zoals Siegfried deed. Om uiteindelijk de hand van Gutrune te winnen, ontrukt hij het embleem van zelfzucht de ring van de Nibelungen, aan Brünnhildes hand en deed die weer aan zijn vinger. Hij bond haar vast en voerde haar naar Gunther om diens vrouw te worden. Hij misbruikte haar en beging zelf overspel met Gutrune; want eenmaal met de waarheid gehuwd is het geestelijk overspel om naar wereldse eer te streven. 
+Het eerste deel van het Arische tijdvak kenmerkt de geboorte van de ide alist, door de Walsungs Siegmund, Sieglinda en Siegfried, een nieuw ras dat met een heilige ijver naar nieuwe en hogere dingen streeft; onver schrokken ridders die de moed van hun overtuiging hadden en steeds be reid waren voor de waarheid, zoals zij die zagen, te vechten en hun leven te verpanden om naar hun overtuiging te handelen zoals zij die zagen. Dus de tijd van realistische barbaarsheid maakte plaats voor een tijdvak van idealistisch ridderschap. 
+
+Wij zitten nu in het laatste deel van het Arische tijdvak. De waarheidszoekers van het verleden hebben de met vuur omge ven rots van Brünnhilde weer verlaten. Wij hebben de sluier van het vlees weer omgedaan en van de bedwelmende drank geproefd. Wij nemen nu daadwerkelijk deel aan het laatste gedeelte van het grote heldendicht: De godenschemering, even belangrijk als onze christelijke Openbaring. Aan ons is het evangelie van het koningschap verkondigd. De weg, de waarheid en het leven zijn voor ons geopend evenals voor Siegfried. Wij worden nu be proefd zoals hij aan het hof van Gunther, om te zien of wij willen leven ‘met de waarheid gehuwd’ dan wel haar uit haar stil verblijf willen trek ken en haar verlagen zoals Siegfried deed. Om uiteindelijk de hand van Gutrune te winnen, ontrukt hij het embleem van zelfzucht de ring van de Nibelungen, aan Brünnhildes hand en deed die weer aan zijn vinger. Hij bond haar vast en voerde haar naar Gunther om diens vrouw te worden. Hij misbruikte haar en beging zelf overspel met Gutrune; want eenmaal met de waarheid gehuwd is het geestelijk overspel om naar wereldse eer te streven. 
 
 Hemel en aarde zijn beledigd door dit grote verraad aan de waarheid. De grote wereldes, de levensboom en zijn wezen, schudt op zijn wortel waar Urd, Skuld en Verdande - het verleden, heden en de toekomst - de draad van het lot spinnen. Het wordt donker op aarde; Hagens speer vindt het enige kwetsbare punt van Siegfrieds lichaam; zijn leven is het pand. Daar het geestelijke ideaal van het geslacht heeft gefaald, heeft het geen nut de bestaande orde van zaken te laten voortbestaan. Daarom blaast Heimdal, de hemelse wachter, op zijn trompet en rijden de goden voor de laatste keer, in plechtige optocht over de brug van de regenboog om de reuzen in de eindstrijd, die de vernietiging van hemel en aarde meebrengt, te ont moeten. 
 
-Dit is een erg belangrijk punt. Aan het begin van het toneelstuk treffen wij de Nibelungen op de bodem van de rivier aan. Later smeedt Alberich de ring in vuur, dat alleen in de heldere atmosfeer zoals wij die in het Ari sche tijdvak hebben, kan branden. Tijdens dit tijdvak houden de goden ook hun gewijde vergadering op de brug van de regenboog, die de weer schijn van het hemelse vuur is. Toen Noach de oorspronkelijke Semieten door de zondvloed leidde, ontstak hij het eerste vuur. Toen werd de re genboog in de wolken geplaatst om er tijdens dat tijdvak te blijven. Er werd overeengekomen dat tijdens die tijd de afwisselde cycli: zomer en winter; dag en nacht; enzovoort, niet zouden ophouden. In Openbaring 4:1- 3 wordt aan Johannes getoond ‘wat hierna zal gebeuren’ door iemand die daar zat … met een regenboog om zich heen.5 En later, 10:1- 6 kondigt ‘een mach tige engel … met een regenboog om zijn hoofd’, plechtig het einde van de tijd aan.6 Uit de Noorse mythe, en de christelijke leer, blijkt dus duidelijk dat het tijdvak begon toen de regenboog in de wolken werd geplaatst. Als de regenboog wordt weggenomen, zal het tijdvak eindigen en een nieuwe orde van dingen worden ingevoerd, zowel lichamelijk als geestelijk. Het andere verschijnsel dat met deze moeilijke tijd gepaard gaat, wordt in de oude mythe getoond. Loge, de geest van begoocheling, heeft drie kin deren: de midgaardslang die de aarde omringt en in zijn eigen staart bijt. Dit is de oceaan, die elk voorwerp dat erin wordt ondergedompeld, op tisch breekt en vervormt. De mensen zijn bang voor dit verraderlijke element; hun wangen verbleken steeds bij de gedachte wat er kan gebeu ren als zij wordt losgelaten. De wolf Fenris, de atmosfeer, is ook een kind van optische begoocheling. Het vreeslijke geloei van de storm kan het moedigste hart vrees aanjagen. Hel, de dood, is het derde kind van Logi en de koningin der verschrikkingen. Voordat de mens het stoffelijk be staan betrad, zoals in het begin van de grote mythe en in Genesis wordt beschreven, is zijn bewustzijn in de geestelijke werelden samengetrokken, waar de bedrieglijke elementen Loge, vuur, Fenris, lucht, en de slang, wa ter, niet bestaan. Vandaar dat de dood ook onbekend was. Maar in het tegenwoordige tijdvak, waarin de samenstelling van het menselijk lichaam aan de werking van de elementen is onderworpen, oefent de dood ook zijn invloed uit. 
+Dit is een erg belangrijk punt. Aan het begin van het toneelstuk treffen wij de Nibelungen op de bodem van de rivier aan. Later smeedt Alberich de ring in vuur, dat alleen in de heldere atmosfeer zoals wij die in het Ari sche tijdvak hebben, kan branden. Tijdens dit tijdvak houden de goden ook hun gewijde vergadering op de brug van de regenboog, die de weer schijn van het hemelse vuur is. Toen Noach de oorspronkelijke Semieten door de zondvloed leidde, ontstak hij het eerste vuur. Toen werd de re genboog in de wolken geplaatst om er tijdens dat tijdvak te blijven. Er werd overeengekomen dat tijdens die tijd de afwisselde cycli: zomer en winter; dag en nacht; enzovoort, niet zouden ophouden. In Openbaring 4:1- 3 wordt aan Johannes getoond ‘wat hierna zal gebeuren’ door iemand die daar zat … met een regenboog om zich heen. 5 En later, 10:1- 6 kondigt ‘een mach tige engel … met een regenboog om zijn hoofd’, plechtig het einde van de tijd aan. 6 Uit de Noorse mythe, en de christelijke leer, blijkt dus duidelijk dat het tijdvak begon toen de regenboog in de wolken werd geplaatst. Als de regenboog wordt weggenomen, zal het tijdvak eindigen en een nieuwe orde van dingen worden ingevoerd, zowel lichamelijk als geestelijk.
 
-5 Openb. 4:3: ‘Degene die daar zat had een uiterlijk als van Jaspis en sarder, en rond de troon was een regenboog die eruit zag als een smaragd.’ 
+() - 5 Openb. 4:3: ‘Degene die daar zat had een uiterlijk als van Jaspis en sarder, en rond de troon was een regenboog die eruit zag als een smaragd.’ 
 
-6 Openb. 10:1: ‘Ik zag een andere machtige engel uit de hemel neerdalen. Een wolk om hulde hem en de regenboog was om zijn hoofd. 
+() - 6 Openb. 10:1: ‘Ik zag een andere machtige engel uit de hemel neerdalen. Een wolk om hulde hem en de regenboog was om zijn hoofd.
 
-Op het geluid van Heimdals trompet, haasten alle agenten der vernieti ging zich naar het Vigridveld, de tegenhanger van Armageddon, waar de goden van het geloof en hun gezworen helpers verzameld zijn om de laat ste tegenstand te bieden. De zonen van Muspel, het natuurlijke vuur, dringen vanuit het zuiden op en verwoesten de brug van de regenboog. De vorstreuzen naderen vanuit het noorden. Fenris, de tot storm aangedre ven atmosfeer, snelt met een verschrikkelijk geloei over de aarde. Zijn snelheid is zo verschrikkelijk, dat de wrijving vuur veroorzaakt, daarom zegt men dat zijn onderste klauw op de aarde staat en zijn bovenste tot de zon reikt, en het vuur uit zijn neusgaten briest. Hij verzwelgt Wodan, de beschermheer van het luchttijdperk toen de boog in de wolken was. De midgaardslang of het waterelement, wordt door Thor, de god van donder en bliksem overwonnen. Maar als ten slotte de elektrische ontladingen het element water hebben verbruikt, kan er geen donder en bliksem meer zijn. Vandaar dat de Noorse mythe ons meedeelt dat Thor sterft van de rook van de slang. 
+Het andere verschijnsel dat met deze moeilijke tijd gepaard gaat, wordt in de oude mythe getoond. Loge, de geest van begoocheling, heeft drie kin deren: de midgaardslang die de aarde omringt en in zijn eigen staart bijt. Dit is de oceaan, die elk voorwerp dat erin wordt ondergedompeld, op tisch breekt en vervormt. De mensen zijn bang voor dit verraderlijke element; hun wangen verbleken steeds bij de gedachte wat er kan gebeu ren als zij wordt losgelaten. De wolf Fenris, de atmosfeer, is ook een kind van optische begoocheling. Het vreeslijke geloei van de storm kan het moedigste hart vrees aanjagen. Hel, de dood, is het derde kind van Logi en de koningin der verschrikkingen. Voordat de mens het stoffelijk be staan betrad, zoals in het begin van de grote mythe en in Genesis wordt beschreven, is zijn bewustzijn in de geestelijke werelden samengetrokken, waar de bedrieglijke elementen Loge, vuur, Fenris, lucht, en de slang, wa ter, niet bestaan. Vandaar dat de dood ook onbekend was. Maar in het tegenwoordige tijdvak, waarin de samenstelling van het menselijk lichaam aan de werking van de elementen is onderworpen, oefent de dood ook zijn invloed uit. 
 
-In Openbaring horen wij eveneens van donder en bliksem, en wordt ge zegd dat er tenslotte ‘geen zee meer zal zijn’. 
+Op het geluid van Heimdals trompet, haasten alle agenten der vernieti ging zich naar het Vigridveld, de tegenhanger van Armageddon, waar de goden van het geloof en hun gezworen helpers verzameld zijn om de laat ste tegenstand te bieden. De zonen van Muspel, het natuurlijke vuur, dringen vanuit het zuiden op en verwoesten de brug van de regenboog. De vorstreuzen naderen vanuit het noorden. Fenris, de tot storm aangedre ven atmosfeer, snelt met een verschrikkelijk geloei over de aarde. Zijn snelheid is zo verschrikkelijk, dat de wrijving vuur veroorzaakt, daarom zegt men dat zijn onderste klauw op de aarde staat en zijn bovenste tot de zon reikt, en het vuur uit zijn neusgaten briest. Hij verzwelgt Wodan, de beschermheer van het luchttijdperk toen de boog in de wolken was. De midgaardslang of het waterelement, wordt door Thor, de god van donder en bliksem overwonnen. Maar als ten slotte de elektrische ontladingen het element water hebben verbruikt, kan er geen donder en bliksem meer zijn. Vandaar dat de Noorse mythe ons meedeelt dat Thor sterft van de rook van de slang. In Openbaring horen wij eveneens van donder en bliksem, en wordt ge zegd dat er tenslotte ‘geen zee meer zal zijn’. 
 
 Maar zoals de feniks weer verjongd en mooi uit zijn as verrijst, zo werd ook de verrijzing van onze nieuwe aarde uit de vuurzee, ‘waarin de elemen ten door gloeiende hitte smelten’, mooier en etherischer, door de oude profeten gezien. Gimle noemden zij haar. Nog was de aarde niet zonder bevolking. Want terwijl de vuurzee voortwoedde, werden een man en een vrouw: Lif en Liftharaser (lift betekent leven), gered en uit hen ontspringt een nieuw ras, dat in vrede en in Gods nabijheid leeft. 
 
-    Een gebouw zie ‘k staan - de zon overstraalt haar –   
-    met goud bedekt op de berg Gimle.   
-    Daar zullen dappere mensen wonen   
-    en geluk genieten dat nooit vergaat.   
-    Van boven komt de almachtige   
-    hoogheid heerser naar het hoogste gericht,   
-    voor ieder denkend, kondigt hij zijn gerechtelijk vonnis af;   
-    strijd eindigt - er heerst eeuwige vrede.   
+```
+Een gebouw zie ‘k staan - de zon overstraalt haar –   
+met goud bedekt op de berg Gimle.   
+Daar zullen dappere mensen wonen   
+en geluk genieten dat nooit vergaat.   
+Van boven komt de almachtige   
+hoogheid heerser naar het hoogste gericht,   
+voor ieder denkend, kondigt hij zijn gerechtelijk vonnis af;   
+strijd eindigt - er heerst eeuwige vrede.   
+```
 
 De oude Noorse mythe leert dus, zij het van een ander standpunt, de zelfde waarheden zoals ze in de voltooiing van de tijd [Ef. 1:10] in de chris telijke geschriften van Genesis tot en met Openbaring staan beschreven. Het is belangrijk dat wij de waarheid van deze verhalen beseffen. Helaas zijn er nog teveel mensen, in de categorie door Petrus beschreven, die zeggen: ‘Waar blijft hij nu? Hij had toch beloofd te komen? De generatie voor ons is al gestorven maar alles is nog steeds zoals het sinds het begin van de schepping geweest is.’ 2 Petrus 3:4. Er zijn maar weinig mensen die het be lang beseffen van het feit in het tweede hoofdstuk van Genesis [2:5- 6]: ‘de Heer had het nog niet laten regenen op de aarde … wel was er water dat uit de aarde opwelde 7 en de aardbodem overal bevloeide.’ Het feit dat de kinderen van de nevel, de Nibelungen, lichamelijk hebben moeten ver schillen van de hedendaagse mens die sinds de zondvloed lucht inademde toen de nevel condenseerde en de zee ontstond. Maar even zeker als deze veranderingen in het verleden tot stand kwamen, is er nu een andere ver andering op komst. Het is juist dat dit niet in onze tijd zal gebeuren: Matt. 24:36: ‘Niemand weet wanneer die dag en dat moment zullen aanbreken, ook de hemelse engelen, en de Zoon niet, alleen de Vader weet het.’ De waarschuwing van Noach wordt ons in dit verband bij herhaling voorge houden. In die tijd at en dronk men, huwde en werd ten huwelijk gegeven, maar plotseling verzwolgen de wateren hen. Iedereen die de lichamelijke vereisten, de longen, niet ontwikkeld hadden, nodig om onder de nieuwe omstandigheden te kunnen leven, kwamen om. De ark loodste de pioniers veilig door de catastrofe. 
 
-7 Statenvertaling 2010; 4e druk 2012: ‘een damp steeg uit de aarde op ...’ 
+() - 7 Statenvertaling 2010; 4e druk 2012: ‘een damp steeg uit de aarde op ...’ 
 
-Om de volgende verandering veilig door te komen wordt een bruilofts kleed vereist. Het is van het grootste belang dat wij daaraan werken. Het zelfde soma psuchicon of zielenlichaam dat Paulus in 1 Kor. 15:44 noemt, is een etherisch lichaam dat van het allergrootste belang is. Want als de te genwoordige elementen in de komende verandering opgelost zullen zijn, hoe zullen wij dat dan kunnen overleven als wij alleen maar in een stoffe lijk lichaam, zoals wij nu bezitten, kunnen functioneren? Natuurlijk zal het Germaans-Anglo-Saksische ras nog door twee anderen gevolgd worden, voordat het zesde tijdvak definitief wordt ingeluid. Maar nu en uit onze gelederen wordt het zaad voor het nieuwe geslacht voorbereid. Het is precies de opdracht van de Orde van het Rozenkruis, die werkt door de Rosicrucian Fellowship, om een wetenschappelijke ontwikkelingsmetho de, speciaal geschikt voor westerlingen, bekend te maken, waardoor dit bruiloftskleed kan worden gevormd, zodat wij de terugkeer van Christus kunnen bespoedigen. 
+Om de volgende verandering veilig door te komen wordt een bruilofts kleed vereist. Het is van het grootste belang dat wij daaraan werken. Het zelfde soma psuchicon of zielenlichaam dat Paulus in 1 Kor. 15:44 noemt, is een etherisch lichaam dat van het allergrootste belang is. Want als de te genwoordige elementen in de komende verandering opgelost zullen zijn, hoe zullen wij dat dan kunnen overleven als wij alleen maar in een stoffe lijk lichaam, zoals wij nu bezitten, kunnen functioneren? 
+
+Natuurlijk zal het Germaans-Anglo-Saksische ras nog door twee anderen gevolgd worden, voordat het zesde tijdvak definitief wordt ingeluid. Maar nu en uit onze gelederen wordt het zaad voor het nieuwe geslacht voorbereid. Het is precies de opdracht van de Orde van het Rozenkruis, die werkt door de Rosicrucian Fellowship, om een wetenschappelijke ontwikkelingsmetho de, speciaal geschikt voor westerlingen, bekend te maken, waardoor dit bruiloftskleed kan worden gevormd, zodat wij de terugkeer van Christus kunnen bespoedigen. 
 
 <h2 id="tannhauser">Tannhäuser</h2>
 
@@ -996,66 +1040,74 @@ Onze gedachten zijn als stemvorken; zij roepen weerklank in anderen op die in st
 
 Evenals in Een Midzomernachtdroom van Shakespeare, is de geschiedenis - hoe hij de Venusberg 8 vindt, hoe hij door de betoverend mooie godin wordt veroverd en door haar bekoring in de ketenen van de hartstocht wordt gehouden - niet helemaal op fantasie gebaseerd. Er zijn geesten in de lucht, in het water en in het vuur. Onder bepaalde voorwaarden komt de mens met hen in aanraking. Misschien niet zo vaak in de elektrische at mosfeer van Amerika, maar over heel Europa, vooral in het Noorden, hangt een mystieke atmosfeer, waardoor de bevolking enigszins voor het zien van deze elementen vatbaar is. De godin van de schoonheid, Venus, waarvan hier sprake is, is echt een van de etherische wezens die leven van de uitwaseming van lagere begeerten die bij de bevrediging van de schep pingskracht ruimschoots wordt vrijgemaakt. Veel geleidegeesten, die een medium in bezit nemen en aanzetten tot zedenloosheid en misbruik, die als hun zielenminnaars optreden en hun slachtoffer erg verzwakken, beho ren tot dezelfde klasse die, op zijn zachtst gezegd, buitengewoon gevaarlijk is. Paracelsus [1493-1541] noemt ze incubi 9 en succubi. 
 
-8 Berg in Thüringen, Dld., waarin volgens de oude Duitse legende Venus woont. 
+() - 8 Berg in Thüringen, Dld., waarin volgens de oude Duitse legende Venus woont. 
 
-9 Incubus: nachtmerrie, obsessie; succubus: overspelige geest, hoer. 
+() - 9 Incubus: nachtmerrie, obsessie; succubus: overspelige geest, hoer. 
 
 De openingsscene van Tannhäuser stelt ons een tomeloze losbandigheid in de grot van Venus voor. Tannhäuser knielt voor de godin, die uitge strekt op een bank ligt. Hij ontwaakt als uit een droom. Zijn droom heeft bij hem het verlangen gewekt om de aarde weer eens te bezoeken. Dit ver telt hij aan de godin Venus, die antwoordt: 
 
-    --- Wat een dwaas beklag   
-    ben je zo snel het lieftallig wonder moe   
-    die mijn liefde jou bereidt? ---   
-    Ben je zo snel vergeten, hoe je ooit   
-    geleden hebt, terwijl jij je nu verheugt?   
-    Op, mijn zanger, grijp je harp!   
-    De liefde vieren, die je zo schitterend bezingt,   
-    dat je de lieve godin zelf verovert!   
-    De liefde viert, daar haar hoogste prijs de jouwe wordt!   
+```
+--- Wat een dwaas beklag   
+ben je zo snel het lieftallig wonder moe   
+die mijn liefde jou bereidt? ---   
+Ben je zo snel vergeten, hoe je ooit   
+geleden hebt, terwijl jij je nu verheugt?   
+Op, mijn zanger, grijp je harp!   
+De liefde vieren, die je zo schitterend bezingt,   
+dat je de lieve godin zelf verovert!   
+De liefde viert, daar haar hoogste prijs de jouwe wordt!   
+```
 
 Met nieuwe ijver bezield, grijpt Tannhäuser de harp en zingt haar lof: 
 
-    Jouw tonen lof! de wonderen zijn geprezen,   
-    die je macht mij gelukkig voortbracht!   
-    De zoete gelukzaligheid, die uit je gunst voortspruit,   
-    verhef mijn lied met luide jubelkreet!   
-    Naar vreugde, ach, naar heerlijk genieten   
-    verlangt mijn hart, mijn zintuigen dorsten:   
-    Daar, waar alleen goden ooit jou bewijzen,   
-    gaf je gunst mij sterfelijke daarheen.   
-    Maar sterfelijk, ach! ben ik gebleven,   
-    en enorm is mij je liefde.   
-    Als steeds een god genieten kan,   
-    ben ik onderdanig aan de verandering,   
-    niet alleen lust ligt mij aan het hart.   
-    Uit blijdschap verlang ik naar pijn.   
-    Uit jouw rijk moet ik vluchten.   
-    O koningin, godin! laat mij gaan!   
+```
+Jouw tonen lof! de wonderen zijn geprezen,   
+die je macht mij gelukkig voortbracht!   
+De zoete gelukzaligheid, die uit je gunst voortspruit,   
+verhef mijn lied met luide jubelkreet!   
+Naar vreugde, ach, naar heerlijk genieten   
+verlangt mijn hart, mijn zintuigen dorsten:   
+Daar, waar alleen goden ooit jou bewijzen,   
+gaf je gunst mij sterfelijke daarheen.   
+Maar sterfelijk, ach! ben ik gebleven,   
+en enorm is mij je liefde.   
+Als steeds een god genieten kan,   
+ben ik onderdanig aan de verandering,   
+niet alleen lust ligt mij aan het hart.   
+Uit blijdschap verlang ik naar pijn.   
+Uit jouw rijk moet ik vluchten.   
+O koningin, godin! laat mij gaan!   
+```
 
 Toen de mensheid Atlantis verliet en de lucht van Aryana binnentrad, stond de regenboog de eerste tijd, als een teken van het nieuwe tijdvak, aan de hemel. In die tijd zei men dat de verandering van de seizoenen zou voortduren zolang de boog in de wolken stond: dag en nacht, zomer en winter, eb en vloed; en alle andere wisselingen in de natuur elkaar onaf gebroken, afwisselend zouden opvolgen. In de muziek kan niet altijd har monie zijn. Dissonanten komen af en toe voor om de melodie die volgt te waarderen. Zo is het ook met zaken als pijn en zorg, vreugde en geluk: zij zijn eveneens afwisselingmaatstaven. Wij kunnen niet leven zonder naar het ander te verlangen. Net zo min als wij in de hemel zouden kunnen blij ven zonder ervaring op te doen, wat alleen op aarde kan. Het is deze in nerlijke drang, deze slingerbeweging van vreugde naar verdriet en omge keerd, die Tannhäuser uit de grot van Venus drijft zodat hij opnieuw de strijd en worsteling van de wereld kan beleven. Dat hij op aarde de erva ring kan opdoen die alleen door zorg kan worden geven, en de genoegens kan vergeten die hem geen zielenkracht kunnen geven. Het is echter op merkelijk, maar de lagere krachten proberen altijd de geest, tegen zijn wil, te beïnvloeden. Zij benutten iedere kans om de geest van het rechte pad af te houden. Daarom zegt Venus, die in de opera Tannhäuser deze krach ten vertegenwoordigt, waarschuwend en ontradend: 
 
-    Weldra wijkt de trots uit je ziel,   
-    deemoedig zie ik je mij nabij,   
-    Berouwvol, vertrapt zoek je mij op,   
-    smeekt om de betovering van mijn macht.   
+```
+Weldra wijkt de trots uit je ziel,   
+deemoedig zie ik je mij nabij,   
+Berouwvol, vertrapt zoek je mij op,   
+smeekt om de betovering van mijn macht.   
+```
 
 Maar Tannhäuser is vast in zijn voornemen. Zijn innerlijke drang is zo sterk, dat niets hem kan weerhouden. Hoewel hij de betovering nog voelt, roept hij vol vuur uit: 
 
-    Steeds zal alleen jij, alleen jij mijn lied weerklinken!   
-    Gezongen luid is slechts je prijs voor mij!   
-    Je zoete aantrekkingskracht is bron van al het schone,   
-    en ieder lieftallig wonder stamt van jou.   
-    De gloed die jij mij in mijn hart gegoten   
-    als vlammen oplaaien hel zij jou alleen.   
-    Ja, tegen iedereen wil niet ontmoedigd,   
-    voortaan ik nu je dappere strijder zijn.   
-    Maar heen moet ik naar de wereld van de aarde,   
-    bij jou kan ik alleen maar slaaf worden;   
-    naar vrijheid echter verlang ik,   
-    naar vrijheid, vrijheid verlang ik;   
-    ten strijde en ruzie wil ik staan,   
-    zij het ook om dood ten onder te gaan.   
-    Daarom moet ik uit jouw rijk vluchten;   
-    O koningin, godin,! laat mij gaan.   
+```
+Steeds zal alleen jij, alleen jij mijn lied weerklinken!   
+Gezongen luid is slechts je prijs voor mij!   
+Je zoete aantrekkingskracht is bron van al het schone,   
+en ieder lieftallig wonder stamt van jou.   
+De gloed die jij mij in mijn hart gegoten   
+als vlammen oplaaien hel zij jou alleen.   
+Ja, tegen iedereen wil niet ontmoedigd,   
+voortaan ik nu je dappere strijder zijn.   
+Maar heen moet ik naar de wereld van de aarde,   
+bij jou kan ik alleen maar slaaf worden;   
+naar vrijheid echter verlang ik,   
+naar vrijheid, vrijheid verlang ik;   
+ten strijde en ruzie wil ik staan,   
+zij het ook om dood ten onder te gaan.   
+Daarom moet ik uit jouw rijk vluchten;   
+O koningin, godin,! laat mij gaan.   
+```
 
 Dus als Tannhäuser de grot van Venus verlaat is hij een voorvechter van de lage en zinnelijke kant van de liefde, die hij in de wereld gaat verkondi gen. Want dat is de menselijke natuur: waar het hart vol van is, loopt de mond van over. 
 
@@ -1069,80 +1121,91 @@ Als Tannhäuser hoort dat liefde het onderwerp van de zangwedstrijd is en Elisab
 
 Toen Tannhäuser de grot van Venus ontvluchtte, was het eerste geluid dat zijn oor trof het gezang van pelgrims op weg naar Rome om vergeving van hun zonden te krijgen. Dit deed in hem een overweldigend gevoel van zijn eigen schuld ontwaken. Daarom knielt hij neer en uit, in diep berouw, de jammerklacht: 
 
-    Almachtige, u zij geprezen!   
-    Groot zijn de wonderen van uw genade.   
-    - - - -   
-    Ach, zwaar drukt mij de last van de zonden.   
-    Ik kan die niet langer meer verdragen,   
-    daarom wil ik ook geen rust noch duur   
-    en kies graag voor moeite en plagen.   
-
+```
+Almachtige, u zij geprezen!   
+Groot zijn de wonderen van uw genade.   
+- - - -   
+Ach, zwaar drukt mij de last van de zonden.   
+Ik kan die niet langer meer verdragen,   
+daarom wil ik ook geen rust noch duur   
+en kies graag voor moeite en plagen.   
+```
 
 Terwijl hij zo terneergeslagen is en zich verdoemd voelt op grond van zijn zondige liefde voor Venus, gedoemd om alleen en ongezegend in de wereld rond te trekken, komen de minstrelen op hem af en herkennen hem. Zij proberen hem over te halen om hen naar de Warburg te verge zellen. Maar zoals al gezegd, was het de hartstochtelijke liefde voor Eli sabeth die hem in de Venusberg gedreven had en hij voelt dat hij haar nog niet mag naderen. Als laatste argument zegt Wolfram von Eschen bach [ 1170- 1220] tegen Tannhäuser, dat Elisabeth hem liefheeft. Sinds zijn vertrek is Elisabeth nooit meer op de zangwedstrijd verschenen en Wol fram von Eschenbach, een van de zuiverste en edelste karakters uit de Middeleeuwse geschiedenis, probeert het geluk van Elisabeth te verzeke ren door Tannhäuser naar haar terug te brengen, hoewel hij haar zelf be mint en zijn eigen hart breekt om dit te doen. Als hij dit hoort ontbrandt opnieuw de hartstocht in de ziel van Tannhäuser en hij zingt: 
 
-    Naar haar! Naar haar! Oh leidt mij naar haar.   
-    Ha, nu herken ik haar weer,   
-    De mooie wereld waaruit ik weggerukt ben.   
-    De hemel kijkt op mij neer.   
-    De akkers pronken rijk versierd.   
-    De lente met duizend lieflijke klanken   
-    trok jubelend in de ziel van mij;   
-    In zoete, onstuimige drang   
-    roept mijn hart luid: naar haar, naar haar!   
+```
+Naar haar! Naar haar! Oh leidt mij naar haar.   
+Ha, nu herken ik haar weer,   
+De mooie wereld waaruit ik weggerukt ben.   
+De hemel kijkt op mij neer.   
+De akkers pronken rijk versierd.   
+De lente met duizend lieflijke klanken   
+trok jubelend in de ziel van mij;   
+In zoete, onstuimige drang   
+roept mijn hart luid: naar haar, naar haar!   
+```
 
 Als hij in het kasteel Elizabeth tegenkomt, zegt ze tegen hem: 
 
-    Naar de wijze manieren van de zanger   
-    luisterde ik altijd graag en veel;   
-    Haar zingen en haar prijzen   
-    scheen mij een lieftallig spel.   
-    Maar wat voor een merkwaardig nieuw leven   
-    riep jullie lied op in mijn borst!   
-    Weldra wil het mij met pijn doortrillen,   
-    weldra dringt het in mij als onverwachte lust.   
-    Gevoelens, die ik nooit bespeurd heb!   
-    Verlangen, dat ik nooit kende!   
-    was vroeger mij lieflijk, was verdwenen   
-    voor genot, die nog nooit genoemd werd!   
-    en als zij nu van ons heengegaan.   
-    Was vrede mij en lust daarheen.   
-    De liederen die de zangers zongen   
-    leken mij mat, en haar betekenis somber.   
-    In dromen voelde ik doffe pijn.   
-    Mijn ontwaken was droefgeestige waan;   
-    De vreugde trok uit mijn hart –   
-    Hendrik! Wat deed je me aan?   
+```
+Naar de wijze manieren van de zanger   
+luisterde ik altijd graag en veel;   
+Haar zingen en haar prijzen   
+scheen mij een lieftallig spel.   
+Maar wat voor een merkwaardig nieuw leven   
+riep jullie lied op in mijn borst!   
+Weldra wil het mij met pijn doortrillen,   
+weldra dringt het in mij als onverwachte lust.   
+Gevoelens, die ik nooit bespeurd heb!   
+Verlangen, dat ik nooit kende!   
+was vroeger mij lieflijk, was verdwenen   
+voor genot, die nog nooit genoemd werd!   
+en als zij nu van ons heengegaan.   
+Was vrede mij en lust daarheen.   
+De liederen die de zangers zongen   
+leken mij mat, en haar betekenis somber.   
+In dromen voelde ik doffe pijn.   
+Mijn ontwaken was droefgeestige waan;   
+De vreugde trok uit mijn hart –   
+Hendrik! Wat deed je me aan?   
+```
 
 Daarop antwoordt Tannhäuser: 
 
-    De God van liefde moet je prijzen,   
-    Hij heeft de snaren in mij beroerd,   
-    Hij sprak tot mij uit mijn wijze   
-    tot jou heeft hij mij hierheen geleid!   
+```
+De God van liefde moet je prijzen,   
+Hij heeft de snaren in mij beroerd,   
+Hij sprak tot mij uit mijn wijze   
+tot jou heeft hij mij hierheen geleid!   
+```
 
 Elisabeth geeft dan toe: 
 
-    Geprezen zij het uur,   
-    geprezen zij de macht,   
-    die mij zo’n lieflijke tijding   
-    van uw nabijheid bracht.   
-    Door gelukzalige glans omgeven   
-    lacht mij de zonneschijn;   
-    ontwaakt voor het nieuwe leven,   
-    noem ik de vreugde mijn!   
+```
+Geprezen zij het uur,   
+geprezen zij de macht,   
+die mij zo’n lieflijke tijding   
+van uw nabijheid bracht.   
+Door gelukzalige glans omgeven   
+lacht mij de zonneschijn;   
+ontwaakt voor het nieuwe leven,   
+noem ik de vreugde mijn!   
+```
 
 Zo heeft Elisabeth dus in de harten van twee minstrelen liefde opgewekt: Wolfram en Tannhäuser. Maar hoe verschillend deze liefde is blijkt uit de manier waarop ieder in de zangwedstrijd het thema behandelt, dat in het tweede bedrijf volgt, waarin de landgraaf van de Wartburg met de volgende woorden begint: 
 
-    Erg veel en mooi was hier in deze zaal   
-    over jullie, jullie lieve zangers, al gezongen;   
-    in wijze raadsels zoals in vrolijke liederen   
-    verblijdt u even zinvol ons hart.   
-    ----------   
-    Bezorg ons heden dan ook een feest,   
-    ----------   
-    Kunnen jullie mij het wezen van de liefde verklaren?   
-    Wie dat kan, wie haar het plechtigst bezingt,   
-    aan diegene reikt Elisabeth de prijs uit.   
+```
+Erg veel en mooi was hier in deze zaal   
+over jullie, jullie lieve zangers, al gezongen;   
+in wijze raadsels zoals in vrolijke liederen   
+verblijdt u even zinvol ons hart.   
+----------   
+Bezorg ons heden dan ook een feest,   
+----------   
+Kunnen jullie mij het wezen van de liefde verklaren?   
+Wie dat kan, wie haar het plechtigst bezingt,   
+aan diegene reikt Elisabeth de prijs uit.   
+```
 
 In dit laatste vers krijgen wij een juist begrip van het doel en de opdracht van het ridderdom en de kunst van minstrelen. Het is de plicht van de rid ders om oorlog te voeren, iedereen met zijn zwaard te verdedigen als dat nodig is, met sterke arm de strijd voor de zwakkeren op te nemen. Voor zover een ridder de toen heersende voorschriften van eer volgde en de zwakkeren verdedigde, het vertrouwen van vriend en vijand had, leerde hij de lessen voor lichamelijke en in zekere zin ook zedelijke moed die voor de ontwikkeling van de ziel zo onontbeerlijk is. Iedereen die het pad van geestelijke volmaking betreedt, is eveneens een ridder van edele geboorte. Hij dient te beseffen dat hij dezelfde deugden moet bezitten die ook voor het ridderschap vereist waren. Want op het geestelijke pad zijn ook geva ren en oorden waar lichamelijke moed vereist wordt. Zonder lichamelijke ongemakken kan de geest niet tot bevrijding komen. Ziekte gaat meestal, in meer of mindere mate, met zielengroei samen. Het eist lichamelijke moed om het lijden te verdragen en zo het lichaam voor de ziel op te offe ren. 
 
@@ -1152,47 +1215,51 @@ Er waren natuurlijk uitzonderingen, maar Tannhäuser behoorde daar niet bij. Wij
 
 Er wordt geloot om uit te maken wie de wedstrijd zal beginnen. De naam van Wolfram komt voor op de strook die het eerst uit de doos wordt getrokken. Daarom begint hij als volgt: 
 
-    Kijk ik in het rond in deze edele kring,   
-    Welk hoge aanblik doet mijn hart ontbranden!   
-    Zoveel helden, dapper, Duits en wijs,   
-    een trots eikenbos, heerlijk, fris en groen.   
-    En lieflijk en deugdzaam aanschouw ik vrouwen,   
-    lieflijke bloesems, geurige bloemenkrans.   
-    Hier wordt de blik beneveld door het aanschouwen,   
-    mijn lied verstomt door zulke bekoorlijke glans.   
-    Daar kijk ik op naar een van de sterren,   
-    die aan de hemel staat en mij verblindt:   
-    het kalmeert mijn geest uit iedere verte,   
-    eerbiedig zinkt de ziel in gebed.   
-    En zie! Aan mij vertoont zich een wonderbron,   
-    waarin mijn geest vol grote bewondering kijkt.   
-    Uit hem schept hij gezegend gelukzaligheid,   
-    waardoor mijn hart zich onnoemelijk verkwikt.   
-    En nooit wil ik deze bron troebel maken,   
-    de wel niet beroeren met misdadige moed:   
-    In aanbidding wil ik mij offerend oefenen,   
-    vergieten blij mijn laatste hartenbloed.   
-    Gij edelen kunt in deze woorden lezen,   
-    hoe ik erken het reinste wezen van de liefde!   
+```
+Kijk ik in het rond in deze edele kring,   
+Welk hoge aanblik doet mijn hart ontbranden!   
+Zoveel helden, dapper, Duits en wijs,   
+een trots eikenbos, heerlijk, fris en groen.   
+En lieflijk en deugdzaam aanschouw ik vrouwen,   
+lieflijke bloesems, geurige bloemenkrans.   
+Hier wordt de blik beneveld door het aanschouwen,   
+mijn lied verstomt door zulke bekoorlijke glans.   
+Daar kijk ik op naar een van de sterren,   
+die aan de hemel staat en mij verblindt:   
+het kalmeert mijn geest uit iedere verte,   
+eerbiedig zinkt de ziel in gebed.   
+En zie! Aan mij vertoont zich een wonderbron,   
+waarin mijn geest vol grote bewondering kijkt.   
+Uit hem schept hij gezegend gelukzaligheid,   
+waardoor mijn hart zich onnoemelijk verkwikt.   
+En nooit wil ik deze bron troebel maken,   
+de wel niet beroeren met misdadige moed:   
+In aanbidding wil ik mij offerend oefenen,   
+vergieten blij mijn laatste hartenbloed.   
+Gij edelen kunt in deze woorden lezen,   
+hoe ik erken het reinste wezen van de liefde!   
+```
 
 Aan het einde van Wolframs zang schrikt Tannhäuser op als uit een droom. Hij staat op en zingt: 
 
-    Ook ik mag mij bevoorrecht noemen   
-    te zien, wat Wolfram, wat jij waarneemt.   
-    Wie wil niet de bron kennen?   
-    Hoor, haar deugden prijs ik luid!   
-    Maar zonder hartstocht te smachten   
-    Kan ik de bron niet nader komen   
-    Dit branden der dorst moet ik koelen,   
-    getroost leg ik mijn lippen aan.   
-    Met volle teugen drink ik het hoogste genot,   
-    waarin geen aarzelen zich ooit mengt.   
-    Want onuitputtelijk is de bron.   
-    Hoe mijn verlangen niet eindigt   
-    zodat mijn verlangens eeuwig branden,   
-    laaf ik mij eeuwig aan de bron:   
-    en weet Wolfram, en erken   
-    het diepste wezen van de liefde!   
+```
+Ook ik mag mij bevoorrecht noemen   
+te zien, wat Wolfram, wat jij waarneemt.   
+Wie wil niet de bron kennen?   
+Hoor, haar deugden prijs ik luid!   
+Maar zonder hartstocht te smachten   
+Kan ik de bron niet nader komen   
+Dit branden der dorst moet ik koelen,   
+getroost leg ik mijn lippen aan.   
+Met volle teugen drink ik het hoogste genot,   
+waarin geen aarzelen zich ooit mengt.   
+Want onuitputtelijk is de bron.   
+Hoe mijn verlangen niet eindigt   
+zodat mijn verlangens eeuwig branden,   
+laaf ik mij eeuwig aan de bron:   
+en weet Wolfram, en erken   
+het diepste wezen van de liefde!   
+```
 
 Hier hebben wij een juiste omschrijving van de beide uitersten van liefde: die van Wolfram, de liefde van geest tot geest, en die van Tannhäuser die de zinnelijke liefde is. De ene is de liefde die er naar streeft om te geven, de ander vraagt bezit om te kunnen ontvangen. Dit is nog maar het begin van de wedstrijd waarover wij straks meer zullen horen. Maar omdat dit omschrijvingen van de liefde zijn, afgegeven door de twee voornaamste vertolkers, is het wel van belang er op te wijzen dat Wolfram von Eschenbach opkomt voor de nieuwe en mooiere liefde die de aanvankelijke opvatting zal moeten vervangen. 
 
@@ -1200,10 +1267,7 @@ Zelf nu wordt helaas het oude idee nog gekoesterd dat bezit een teken van liefde
 
 ### <h3 id="chapter-17">17. De onvergeeflijke zonde</h3>
 
-Tijdens de wedstrijd wordt het sublieme en hemelse ideaal van het gezel schap van ziel met ziel door de meeste minstrelen bezongen. Bij elke voor stelling komt er van Tannhäuser een geestdriftige reactie die de zinnelijke kant van de liefde verdedigt. Ten slotte, opgewonden door hun blijkbare smakeloosheid die hij als sentimentele onzin beschouwt, roept hij uit: 
-
-    Armzaligen, die u liefde nooit genoten,   
-    ga weg, trek in de berg van Venus.   
+Tijdens de wedstrijd wordt het sublieme en hemelse ideaal van het gezel schap van ziel met ziel door de meeste minstrelen bezongen. Bij elke voor stelling komt er van Tannhäuser een geestdriftige reactie die de zinnelijke kant van de liefde verdedigt. Ten slotte, opgewonden door hun blijkbare smakeloosheid die hij als sentimentele onzin beschouwt, roept hij uit: "Armzaligen, die u liefde nooit genoten, ga weg, trek in de berg van Venus."   
 
 Met deze opmerking is zijn schuldig geheim er uit. Iedereen vat het zo op dat hij de slechtste fase van onvergeeflijke zonde op zijn geweten heeft, na melijk omgang met een etherisch wezen. Omdat zij aanvoelen dat hij te verdorven is voor verlossing, snellen zij met het zwaard in hun handen naar hem toe en zouden hem beslist vermoord hebben als Elizabeth niet tussenbeide was gekomen, pleitend dat hij niet in zonde van zijn leven be roofd mag worden, maar dat hem een kans tot inkeer gegeven moet wor den. Dan hoort men buiten het gezang van pelgrims en stemmen de min strelen toe dat, als hij wil, hij mag proberen vergeving te krijgen van de Hei lige Stoel te Rome zij zijn leven zullen sparen. 
 
@@ -1213,16 +1277,7 @@ De andere pelgrims zingen lofzangen, maar hij durft nauwelijks zijn blik in de r
 
 Uiteindelijk breekt de ochtend aan dat hij de heilige Vader, de paus, zal zien en reist er hoop in zijn hart. De hele dag staat hij geduldig te wach ten terwijl duizenden mensen voorbijtrekken, met een hemelse verruk king op hun gezicht omdat zij de vergeving hadden gekregen die zij vroe gen; met verlichte harten, klaar om een nieuw leven te beginnen. 
 
-Eindelijk is het zijn beurt. Hij stond in die verheven aanwezigheid en wachtte geduldig op de boodschap van de heilige Vader, in de hoop op een vriendelijk woord om daarna zijn weg verheugd te kunnen vervolgen. In plaats daarvan kwamen als een donderslag de woorden: 
-
-    Heb je zulke kwade lust gedeeld,   
-    je aan de hellegloed verwarmd,   
-    heb je je in de Venusberg opgehouden:   
-    Dan ben je nu eeuwig verdoemd!   
-    Zoals deze staf in mijn hand   
-    zich niet meer met fris groen tooit,   
-    kan hete brand uit de hel   
-    je verlossing nooit tot bloei komen!   
+Eindelijk is het zijn beurt. Hij stond in die verheven aanwezigheid en wachtte geduldig op de boodschap van de heilige Vader, in de hoop op een vriendelijk woord om daarna zijn weg verheugd te kunnen vervolgen. In plaats daarvan kwamen als een donderslag de woorden: "Heb je zulke kwade lust gedeeld, je aan de hellegloed verwarmd, heb je je in de Venusberg opgehouden: Dan ben je nu eeuwig verdoemd! Zoals deze staf in mijn hand zich niet meer met fris groen tooit, kan hete brand uit de hel je verlossing nooit tot bloei komen!"   
 
 Op deze harteloze mededeling sterft het laatste sprankje hoop in Tannhäusers gemoed, en steekt de wellust, een eigenschap van zijn bloed, de kop op. Zijn liefde verandert in haat, en kwaad vervloekt hij alles en ie dereen in de hemel en op aarde, terwijl hij zweert dat als hij geen echte lief de kan krijgen, hij naar de grot zal terugkeren om Venus opnieuw te be zoeken. Aan zijn mede pelgrims deelt hij mee dat hij hen verlaat. Hij neemt afscheid van hen en reist alleen naar zijn land terug. 
 
@@ -1236,7 +1291,7 @@ Vóór de zondeval kende de mens goed noch kwaad. Hij had gedaan wat hem werd ge
 
 In dit verband kan gezegd worden dat de maan de heerser is van het te ken Kreeft, en dat kanker in zijn kwaadaardigste vorm, ongeneeslijk is, on geacht hoeveel geneesmiddelen de wetenschap in de loop van de tijd ook op de markt zal brengen. Onderzoek bij personen die aan deze ziekte lij den heeft in elk geval aangetoond dat de betreffende personen in voor gaande levens uitzonderlijk sensueel waren, hoewel ik niet durf te beweren dat dit een wet is, omdat er nog niet genoeg onderzoek naar gedaan is. Toch is het tekenend dat Jehova, de heilige Geest, via de maan heerschap pij heeft over de geslachtsfuncties, dat de maan bij het teken Kreeft hoort en dat zij, die de geslachtsfunctie op een uitgesproken beestachtige manier misbruiken, later kanker krijgen; dat deze ziekte ongeneeslijk is en zo de uitdrukking in de Bijbel bevestigt dat alles vergeven kan worden, be halve de zonde tegen de heilige Geest. 10 
 
-10 Onvergeefbare zonde, Matt. 12:30-32; Marc. 3:28-30; Luc. 12:10 . 
+() - 10 Onvergeefbare zonde, Matt. 12:30-32; Marc. 3:28-30; Luc. 12:10 . 
 
 Er bestaat een mystiek verband tussen de cherubijnen met het vlammen de zwaard in de Hof van Eden of het paradijs, en de cherubijnen met de geopende bloem op de deur van de tempel van Salomo; tussen de speer en de graalkelk; tussen Aärons staf die uitliep en de staf van de paus die bloei de; en de dood van de kuise en zuivere Elisabeth waar door haar tussen komst de smet van de ziel van de dwalende Tannhäuser werd verwijderd. Iemand, die niet zelf de verschrikkelijke kwelling van de beproeving heeft ondervonden, kan zich niet de positie voorstellen van iemand die dat wel is overkomen. Christus zelf voelde, in het lichaam van Jezus, alle hartstoch ten en beproevingen waaraan wij blootstaan. Het is vastgesteld dat het doel hiervan was om hem, als hogepriester, genadig tegenover ons te maken. Dat hij beproefd werd bewijst dat beproeving op zichzelf geen zonde is. Het is het bezwijken dat zonde is. Daarom was hij zonder zonde. Wie zo kan worden beproefd en stand houdt, is natuurlijk hoog ontwikkeld. Maar bedenk dat niemand van de tegenwoordige mensheid dat niveau van vol maaktheid heeft bereikt. Wij zijn betere mannen en vrouwen omdat wij ge zondigd en daardoor geleden hebben, totdat wij ons bewust worden van het belangrijke feit dat de weg van de overtreder moeilijk is en ons op het pad van deugd zal doen terugkeren, het enige waarop de innerlijke vrede wordt gevonden. Zulke mannen en vrouwen zijn op een veel hoger ni veau van geestelijke ontwikkeling dan zij die zuivere levens hebben geleid omdat zij in een beschutte omgeving leefden. Hierop vestigde Christus de nadruk toen hij zei dat er meer vreugde is over één zondaar die zich be keert, dan over negenennegentig personen die geen bekering nodig heb ben. 
 
@@ -1246,10 +1301,12 @@ Er is een belangrijk onderscheid tussen onschuld en deugd. Wat nog be langrijker
 
 In de proloog van Faust zegt God in verband met de held: 
 
-    Al dient hij mij ook nu nog verward   
-    ik zal hem weldra naar de helderheid leiden.   
-    De tuinman weet dat als het boompje groen wordt   
-    dat bloei en vrucht het komende jaar sieren.   
+```
+Al dient hij mij ook nu nog verward   
+ik zal hem weldra naar de helderheid leiden.   
+De tuinman weet dat als het boompje groen wordt   
+dat bloei en vrucht het komende jaar sieren.   
+```
 
 Dit is echt een feit en betreft de hele mensheid. Op dit ogenblik dienen wij God gebrekkig door ons begrensd gezichtsvermogen. Wij hebben de ware, echte opvatting niet van dat wat nodig is, en hoe wij onze gaven, die wij gekregen hebben, moeten gebruiken. Toch leidt God ons voortdurend door het proces van ontwikkeling in een steeds groter licht. Geleidelijk zul len wij onze nietigheid afleggen. Wij zullen bloeien en vrucht dragen. Zo zullen wij in staat zijn God te dienen zoals het hoort en niet zoals wij het nu doen. 
 
@@ -1261,7 +1318,7 @@ De legende van de pauselijke staf kan vergeleken worden met het verhaal van de h
 
 Het verhaal vertelt hoe Lucifer, toen hij met de aartsengel Michaël om het lichaam van Mozes vocht, het mooiste juweel uit zijn kroon verloor. Tijdens de strijd was hij losgeraakt. Dit prachtige, met niets te vergelijken juweel, was een smaragd, Elixer genaamd. Het was in de afgrond geval len, maar werd door de engelen weer gevonden en gebruikt voor het ma ken van de beker of heilige graal, die later werd gebruikt om het reinigen de bloed in te bewaren dat uit de zijde van de Redder vloeide toen die met de speer van de hoofdman uit het Romeinse leger werd doorstoken. Merk allereerst op dat het juweel een smaragd was: groen. Groen is een combi natie van blauw en geel en is daarom de aanvullende kleur van de derde primaire kleur rood. In de stoffelijke wereld heeft rood de eigenschap te prikkelen en te activeren, terwijl groen een kalmerende en verzachtende werking heeft. Maar als wij de zaak vanuit de begeertewereld bezien is het tegendeel het geval. Daar is de aanvullende kleur actief en heeft op onze begeerten en gevoelens de uitwerking die wij aan de stoffelijke kleur toe schrijven. Dus de groene kleur van het juweel dat Lucifer heeft verloren toont het karakter en de werking daarvan. Deze steen is het tegenoverge stelde van de steen van de wijzen. Hij heeft de kracht hartstocht aan te trekken en liefde van het ene voor het andere geslacht voort te brengen, wat de ondeugd is tegenover de kuisheid en zuivere liefde, gesymboliseerd door de witte steen uit Openbaring 11, die de liefde van ziel tot ziel is. Daar deze uitwerking van aanvullende of complementaire kleuren bekend is, hoewel niet bewust wordt beseft, spreekt men ook van jaloersheid die door onzuivere liefde wordt veroorzaakt als van het monster met de groene ogen. 
 
-11 Openbaring 2:17. ‘Wie oren heeft, moet horen wat de Geest tegen de gemeente zegt. Wie overwint zal ik van het verborgen manna geven, en ook een wit steentje waar op een nieuwe naam staat die niemand kent, behalve degene die het ontvangt’ 
+() - 11 Openbaring 2:17. ‘Wie oren heeft, moet horen wat de Geest tegen de gemeente zegt. Wie overwint zal ik van het verborgen manna geven, en ook een wit steentje waar op een nieuwe naam staat die niemand kent, behalve degene die het ontvangt’ 
 
 De heilige graal heeft zijn evenbeeld in de kelk of zaaddoos van de plant, die groen is. Het scheppende vuur sluimert in de zaaddoos. Op dezelfde manier moet het verschijnsel zich in iedereen openbaren die naar de heili ge graal gaat zoeken. De wil is de mannelijke eigenschap van de ziel; ver beeldingskracht de vrouwelijke. Als de wil de krachtigste eigenschap is, draagt de ziel in een bepaald leven mannelijke kleding. En in een ander, waarin de eigenschap van de verbeeldingskracht groter is wordt het vrou welijke kleed aangenomen. Dus onder de in de tegenwoordige regenboog tijdperk heersende wet van afwisseling, draagt de ziel in opvolgende levens een verschillend kleed. Maar of het geslacht nu mannelijk of vrouwelijk is, het orgaan van de tegenovergestelde sekse is rudimentair of onontwikkeld aanwezig. Dus de mens is nu zowel mannelijk als vrouwelijk en zal dat blij ven zolang het stoffelijk lichaam blijft bestaan. 
 
@@ -1279,9 +1336,7 @@ Dat is de boodschap van het verhaal van Tannhäuser. Hartstocht is ver gif. Het 
 
 Laten wij bij het ten uitvoer brengen van dit ideaal bedenken dat onder drukking van de seksuele verlangens geen kuisheid is. Het verstand moet hiermee instemmen en wij moeten vrijwillig van onzuiverheid afzien. Dit kan men alleen doen door wat de mysticus noemt: ‘de vrouw in zichzelf vinden.’ Natuurlijk is dat voor vrouwen de man in zichzelf vinden. Als wij die gevonden hebben, komen wij op het punt dat wij hetzelfde zuivere le ven kunnen leiden als de bloem. 
 
-In dit verband is het verhelderend u eraan te herinneren dat de wachter op de drempel, waar wij tegenover komen te staan voordat wij de geestelij ke werelden kunnen betreden, altijd het uiterlijk van een wezen van het tegenovergestelde geslacht heeft. Toch schijnt het of wij het zelf zijn. Ook moet u begrijpen, dat hoe losbandiger of wellustiger wij geweest zijn, des te slechter het uiterlijk van dit monster is. 
-
-Toen Parsival voor Kundry stond toen zijn weigering om toe te geven haar in een helleveeg veranderde is in feite precies het punt waarop de kan didaat zich in rechtstreeks contact bevindt met de wachter, voordat hem de speer in handen wordt gegeven. 
+In dit verband is het verhelderend u eraan te herinneren dat de wachter op de drempel, waar wij tegenover komen te staan voordat wij de geestelij ke werelden kunnen betreden, altijd het uiterlijk van een wezen van het tegenovergestelde geslacht heeft. Toch schijnt het of wij het zelf zijn. Ook moet u begrijpen, dat hoe losbandiger of wellustiger wij geweest zijn, des te slechter het uiterlijk van dit monster is. Toen Parsival voor Kundry stond toen zijn weigering om toe te geven haar in een helleveeg veranderde is in feite precies het punt waarop de kan didaat zich in rechtstreeks contact bevindt met de wachter, voordat hem de speer in handen wordt gegeven. 
 
 <h2 id="lohengrin">Lohengrin</h2>
 
@@ -1291,7 +1346,9 @@ Onder de opera’s van Wagner is misschien geen andere zo geliefd als Lohengrin.
 
 Hoewel de laatstgenoemde werken een grote invloed op het geestelijk welzijn van de mensen uitoefenen - ongeacht of men zich hier al dan niet van bewust is - is het niettemin een feit, dat zij bij de meerderheid van het publiek, speciaal in Amerika waar de geest voor mystiek niet zo sterk is als in Europa, niet geliefd zijn. 
 
-Met Lohengrin is dat anders gesteld. Hier hebben wij een geschiedenis uit de tijd dat het ridderschap bloeide. Hoewel er in de aankomst van Lo hengrin en de zwaan, in antwoord op het gebed van Elsa, een betoveren de sfeer is, is dit niet meer dan een mooie dichterlijke verbeelding, zonder diepere betekenis. In de mythe wordt één van de hoogste eisen van inwij ding geopenbaard: vertrouwen. Wie deze deugd niet bezit zal nooit slagen. Haar bezit dekt een massa tekortkomingen in andere richtingen. 
+Met Lohengrin is dat anders gesteld. Hier hebben wij een geschiedenis uit de tijd dat het ridderschap bloeide. Hoewel er in de aankomst van Lo hengrin en de zwaan, in antwoord op het gebed van Elsa, een betoveren de sfeer is, is dit niet meer dan een mooie dichterlijke verbeelding, zonder diepere betekenis. In de mythe wordt één van de hoogste eisen van inwij ding geopenbaard: vertrouwen. 
+
+Wie deze deugd niet bezit zal nooit slagen. Haar bezit dekt een massa tekortkomingen in andere richtingen. 
 
 In het kort is de intrige als volgt: De erfgenaam van het hertogdom Bra bant is verdwenen. Hij is nog maar een kind en de broer van Elza, de heldin van het stuk, die in de openingsscène door Ortrud en Telramund - haar vijanden - wordt beschuldigd haar jongere broer uit de weg te hebben ge ruimd om in het bezit van het vorstendom te komen. Daardoor wordt zij voor de koninklijke raad gedaagd om zich tegen haar aanklagers te verde digen. Maar er heeft zich nog geen ridder aangemeld om haar zaak aan te nemen en haar lasteraars te verslaan. Dan verschijnt er een zwaan op de rivier, waarop een ridder staat die naar de plaats waar de raad gehouden wordt, gaat. Hij springt aan wal en biedt aan Elsa te verdedigen, op voorwaarde dat zij met hem trouwt. Ze stemt meteen toe, want hij is geen vreemde. Zij heeft hem vaak in haar dromen gezien en hem leren liefhebben. In het duel tussen de onbekende ridder en Telramund wordt de laatste verslagen, maar zijn leven wordt grootmoedig door de overwin naar gespaard, die dan Elsa als zijn bruid opeist. Hij had echter nog een an dere voorwaarde gesteld, namelijk dat zij hem nooit mocht vragen waar hij vandaan kwam. Omdat hij zo goed en zo edel schijnt en als antwoord op haar gebed gekomen is, verzet zij zich ook niet tegen deze voorwaarde, en het paar trekt zich in de bruidskamer terug. 
 
@@ -1299,13 +1356,7 @@ Hoewel voorlopig verslagen, geven Ortrud en Telramund in geen enkel opzicht hun 
 
 Zij beweren dat in zijn leven iets moet zijn waar hij zich voor schaamt, wat het daglicht niet kan verdragen. Waarom zou hij anders zijn identiteit en afkomst willen verbergen voor de enige aan wie hij zijn leven wil ver binden? 
 
-Met deze argumenten zaaien zij twijfel in Elsas ziel. Na nog wat gepraat gaat zij veranderd terug naar Lohengrin. Die merkt dat zij anders is en vraagt naar de oorzaak. Uiteindelijk bekent zij zich onzeker over hem te voelen, en dat zij graag zijn naam wil weten. Hiermee heeft zij de belofte die hij haar heeft opgelegd, verbroken. Hij deelt haar dan mee dat, omdat zij aan hem twijfelt, het voor hem onmogelijk is om te blijven. Voor haar, de koning, en de Brabanders bekent hij: 
-
-    Daarom werd ik van de graal naar jullie gezonden:   
-    Mijn vader Parsival draagt zijn kroon,   
-    ik, zijn ridder – werd Lohengrin genoemd.   
-
-Tranen noch verzet kunnen dit besluit veranderen zodat zij samen naar de rivier gaan, waar Lohengrin zijn trouwe zwaan roept. Als die verschijnt, maakt hij zijn herkomst bekend door te zeggen: ‘Ik ben Lohengrin, de zoon van Parsival.’ De zwaan die dan komt, is veranderd en staat als de broer van Elsa voor hen. Die wordt dan haar beschermer in plaats van de vertrekkende Lohengrin. 
+Met deze argumenten zaaien zij twijfel in Elsas ziel. Na nog wat gepraat gaat zij veranderd terug naar Lohengrin. Die merkt dat zij anders is en vraagt naar de oorzaak. Uiteindelijk bekent zij zich onzeker over hem te voelen, en dat zij graag zijn naam wil weten. Hiermee heeft zij de belofte die hij haar heeft opgelegd, verbroken. Hij deelt haar dan mee dat, omdat zij aan hem twijfelt, het voor hem onmogelijk is om te blijven. Voor haar, de koning, en de Brabanders bekent hij: "Daarom werd ik van de graal naar jullie gezonden: Mijn vader Parsival draagt zijn kroon, ik, zijn ridder – werd Lohengrin genoemd." Tranen noch verzet kunnen dit besluit veranderen zodat zij samen naar de rivier gaan, waar Lohengrin zijn trouwe zwaan roept. Als die verschijnt, maakt hij zijn herkomst bekend door te zeggen: ‘Ik ben Lohengrin, de zoon van Parsival.’ De zwaan die dan komt, is veranderd en staat als de broer van Elsa voor hen. Die wordt dan haar beschermer in plaats van de vertrekkende Lohengrin. 
 
 Zoals gezegd bevat de geschiedenis van Lohengrin een van de belang rijkste lessen die op het pad van inwijding geleerd moeten worden. Ie mand zal nooit ingewijd worden totdat deze les is geleerd. Laten wij om dit goed te begrijpen eerst het symbool van de zwaan bezien en nagaan wat daar achter schuilt en waarom dit symbool wordt gebruikt. Zij die de opera Parsival hebben gezien of de literatuur over de graal met aandacht hebben gelezen, zijn al bekend met het feit dat de zwaan het symbool is dat door alle graalridders werd gebruikt. 
 
