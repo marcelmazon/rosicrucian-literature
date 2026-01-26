@@ -145,11 +145,11 @@ Oceanside, California, 91054, USA
     - [Het hart als uitzonderingsgeval](#the-heart-as-an-anomaly)
     - [Het mysterie van Golgota](#the-mystery-of-golgotha)
     - [Het reinigende bloed](#the-cleansing-blood)
-    - [Diagram, "As Above, so Below"](#diagram-as-above-so-below)
+    - [Diagram 14a. Zo boven, zo beneden](#diagram-as-above-so-below)
   - [16: Toekomstige ontwikkeling en inwijding](#chapter-16)
     - [De zeven scheppingsdagen](#the-seven-days-of-creation)
-    - [Diagram 15. The Symbolism of the Caduceus](#diagram-15-the-symbolism-of-the-caduceus)
-    - [Radiates, Mollusks, Articulates and Vertebrates](#radiates-mollusks-articulates-and-vertebrates)
+    - [Diagram 15. De zeven scheppingsdagen en de vier grote inwijdingen](#diagram-15-the-symbolism-of-the-caduceus)
+    - [Diagram 15a. Klassenindeling van het dierenrijk](#radiates-mollusks-articulates-and-vertebrates)
     - [Spiralen in spiralen](#spirals-within-spirals)
     - [Alchemie en zielengroei](#alchemy-and-soul-growth)
     - [Het scheppende Woord](#the-creative-word)
@@ -157,15 +157,15 @@ Oceanside, California, 91054, USA
     - [De eerste schreden](#the-first-steps)
     - [Westerse methoden voor westerlingen](#western-methods-for-western-people)
     - [De voeding](#the-science-of-nutrition)
-    - [Voedingsmiddelentabel](#table-of-food-values-part-1)
-    - [Table of Food Values, Part II](#table-of-food-values-part-2)
+    - [Voedingsmiddelentabel - 1](#table-of-food-values-part-1)
+    - [Voedingsmiddelentabel - 2](#table-of-food-values-part-2)
     - [De wet van assimilatie](#the-law-of-assimilation)
     - [Leven en laten leven](#live-and-let-live)
     - [Het Onze Vader](#the-lords-prayer)
     - [Diagram 16, Het Onze Vader](#diagram-16-the-lords-prayer)
     - [De gelofte van het celibaat](#the-vow-of-celibacy)
     - [De hypofyse en epifyse](#the-pituitary-body-and-the-pineal-gland)
-    - [Diagram 17. Path of the Unused Sex Currents](#diagram-17-path-of-the-unused-sex-currents)
+    - [Diagram 17. De weg van de ongebruikte seksuele stromingen in: mysticus, occultist en adept](#diagram-17-path-of-the-unused-sex-currents)
     - [Esoterische training](#esoteric-training)
     - [Hoe het geestelijk lichaam wordt opgebouwd](#how-the-inner-vehicle-is-built)
     - [Concentratie](#concentration)
@@ -176,7 +176,7 @@ Oceanside, California, 91054, USA
     - [Aanbidding](#adoration)
   - [18: De samenstelling van de aarde en vulkanische uitbarstingen](#chapter-18)
     - [Het getal van het beest](#the-number-of-the-beast)
-    - [Diagram 18. The Constitution of the Earth](#diagram-18-the-constitution-of-the-earth)
+    - [Diagram 18. De samenstelling van de aarde](#diagram-18-the-constitution-of-the-earth)
   - [19: Christian Rosencreutz en de Orde van het Rozenkruis](#chapter-19)
     - [Oude waarheden in een nieuw gewaad](#ancient-truths-in-modern-dress)
     - [Inwijding](#initiation)
@@ -3003,7 +3003,9 @@ De stoffelijke persoonlijkheid had er ongetwijfeld niets mee te maken; inte gend
 
 Ook hebben wij gezien dat de trillingen in de tweede vork onder de voort durende geluidsinwerking van de eerste, steeds sterker werden en dat zelfs een glazen stolp de opwekking van het geluid niet belette. Onder de voortdurende inwerking van een kracht, die gelijk is aan die binnen in hem, heeft de liefde van God voor de mens de kracht van het altruïsme wakker geroepen en is steeds bezig haar in kracht te doen toenemen. 
 
-Men kan dus logischerwijze de gevolgtrekking maken, dat het eerst nood zakelijk was om de mens een godsdienst te geven die evenredig was aan zijn onwetendheid. Het zou op dat niveau nutteloos geweest zijn hem te vertellen van een God die één en al tederheid en liefde was. Vanuit zijn standpunt ge zien, waren die eigenschappen zwakheid en hij zou onmogelijk een God heb ben kunnen aanbidden die bezat wat hem minderwaardig toescheen. De God aan wie hij gehoorzaamde, moest een sterke God zijn, een God om te vre zen, een God die de donder deed rollen en de bliksem flitsen. Zo werd de mens er eerst toe gedreven om God te vrezen en kreeg hij godsdiensten die zijn gees telijk welzijn onder de zweepslagen van de vrees bevorderden. 
+Men kan dus logischerwijze de gevolgtrekking maken, dat het eerst nood zakelijk was om de mens een godsdienst te geven die evenredig was aan zijn onwetendheid. Het zou op dat niveau nutteloos geweest zijn hem te vertellen van een God die één en al tederheid en liefde was. Vanuit zijn standpunt ge zien, waren die eigenschappen zwakheid en hij zou onmogelijk een God heb ben kunnen aanbidden die bezat wat hem minderwaardig toescheen. De God aan wie hij gehoorzaamde, moest een sterke God zijn, een God om te vre zen, een God die de donder deed rollen en de bliksem flitsen. 
+
+Zo werd de mens er eerst toe gedreven om God te vrezen en kreeg hij godsdiensten die zijn gees telijk welzijn onder de zweepslagen van de vrees bevorderden. 
 
 De volgende stap was om in hem een soort onbaatzuchtigheid op te wekken, door hem een gedeelte van zijn wereldse goederen te laten afstaan als offer. Dit werd bereikt door hem de stam- of rasgod te geven, een god die jaloers is en de strengste onderdanigheid eiste naast het offeren van weelde, waaraan de groeiende mens zoveel waarde hechtte. Op zijn beurt echter was deze rasgod een vriend en machtig bondgenoot van de mens, die voor hem op de slagvel den streed en hem honderdvoudig de schapen, ossen en het graan vergoedde die de mens hem offerde. Hij had nog steeds niet het niveau bereikt waarop hij zou kunnen begrijpen dat alle schepselen met elkaar verwant zijn, maar de god van de stam leerde hem dat hij ten minste barmhartig moest zijn tegenover zijn broeder stamgenoot en gaf wetten die tot rechtvaardigheid en een rechtvaardi ge behandeling tussen mensen van hetzelfde ras leidden. 
 
@@ -3035,15 +3037,15 @@ Het tweede aanzicht van het Opperwezen openbaart zich in de stof als de kracht v
 
 Het Woord kon dit echter niet gedaan hebben, als het derde aanzicht van het Opperwezen niet vooraf de kosmische oerstof klaargemaakt had, door haar uit haar normale toestand van traagheid op te wekken en de ontelbare onscheid bare atomen om hun assen te doen wentelen die ten opzichte van elkaar onder verschillende hoeken stonden, zodat elke soort een bepaald trillingsgetal kreeg. 
 
-Deze verschillende standen van de assen en de verschillende trillingsgetallen stelden de kosmische oerstof in staat verschillende verbindingen te vormen, die de grondslag van de zeven grote kosmische gebieden zijn. Op elk gebied zijn de stand van de assen, en ook de trillingsmaat, verschillend. Als gevolg daarvan zijn, dank zij de activiteit van de eniggeboren Zoon, de toestanden en verbindingen op elk gebied verschillend van die op één van de andere gebie den. Diagram 14 laat ons zien dat: 
+Deze verschillende standen van de assen en de verschillende trillingsgetallen stelden de kosmische oerstof in staat verschillende verbindingen te vormen, die de grondslag van de zeven grote kosmische gebieden zijn. Op elk gebied zijn de stand van de assen, en ook de trillingsmaat, verschillend. Als gevolg daarvan zijn, dank zij de activiteit van de eniggeboren Zoon, de toestanden en verbindingen op elk gebied verschillend van die op één van de andere gebie den. 
+
+Diagram 14 laat ons zien dat: 
 
 De Vader, de hoogste ingewijde van de mensheid uit de Saturnusperiode is. De gewone mensheid uit die periode zijn nu de Heren van het Verstand. 
 
 De Zoon, Christus, is de hoogste ingewijde uit de Zonneperiode. De gewo ne mensheid uit die periode zijn nu de aartsengelen. 
 
 De heilige Geest, Jehova, is de hoogste ingewijde uit de Maanperiode. De gewone mensheid uit die periode zijn nu de engelen. 
-
-DIAGRAM 14!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 Uit dit diagram maken wij ook op wat de voertuigen van deze verschillen de orden van wezens zijn. Uit een vergelijking met diagram 8 blijkt, dat hun li chamen of voertuigen, op diagram 14 door langwerpige figuren aangegeven, met de bollen uit de periode, waarin zij het mensachtige niveau doormaakten, overeenkomen. Dit is altijd het geval wat de gewone mensheden betreft, want aan het einde van de periode waarin een bepaalde levensgolf tot mensachtige wezens geïndividualiseerd wordt, bezitten die wezens lichamen die overeen komen met de bollen waarop zij gefunctioneerd hebben. 
 
@@ -3075,9 +3077,7 @@ Dat is precies de reden waarom de tussenkomst van Christus nodig was. Onder het 
 
 Christus kon niet in een grofstoffelijk lichaam geboren worden, omdat hij nooit een dergelijke ontwikkeling als de Aardeperiode had doorgemaakt en dus eerst een grofstoffelijk lichaam zoals het onze, had moeten leren opbouwen. Maar als hij zelfs die kunst had verstaan, dan zou het niet raadzaam geweest zijn voor zo’n verheven wezen om daarvoor de energie, die nodig is voor het opbouwen van een lichaam tijdens de zwangerschap, kleutertijd en jeugd te verspillen om het pas bij volwassenheid te kunnen gaan gebruiken. Meestal ge bruikte hij geen voertuigen meer overeenkomend met onze menselijke geest, ons verstand en ons begeertelichaam, hoewel hij die in de Zonneperiode had leren opbouwen en ook het vermogen had behouden om ze op te bouwen en erin te werken als hij dit wilde of nodig achtte. Hij gebruikte dus al zijn eigen voertuigen, en nam alleen het levenslichaam en het grofstoffelijk lichaam van Jezus. Toen Jezus 30 jaar oud was, trad Christus deze lichamen binnen en ge bruikte ze tot aan het hoogtepunt van zijn opdracht op Golgota. Na de ver nietiging van het stoffelijk lichaam verscheen Christus onder zijn leerlingen in het levenslichaam en werkte daarin enige tijd. Wanneer hij terugkeert, zal hij een levenslichaam als voertuig gebruiken, want hij zal nooit meer een stoffe lijk lichaam aannemen. 
 
-Wij lopen hier eigenlijk vooruit op ons onderwerp als wij er op wijzen dat het eigenlijke doel van alle esoterische training is om zo op het levenslichaam in te werken dat de levensgeest wordt opgebouwd en de groei ervan wordt versneld. 
-
-Wanneer wij inwijding behandelen, kunnen wij misschien iets meer in bij zonderheden treden, maar nu kunnen wij niet verder op dit onderwerp ingaan. Bij het nagaan van de gebeurtenissen die aan het bestaan na de dood eigen zijn, hebben wij dit onderwerp al gedeeltelijk behandeld. U dient te bedenken, dat verondersteld wordt dat hij zijn begeertelichaam tot op grote hoogte over wonnen heeft, voor hij esoterische kennis nastreeft. Zijn esoterische training en de eerste inwijdingen zijn op het levenslichaam gericht en hebben de bouw van de levensgeest tot resultaat. Toen Christus het lichaam van Jezus binnen trad, was Jezus een leerling van hoge graad. Als gevolg daarvan was zijn le vensgeest goed georganiseerd. Zodoende waren het laagste voertuig waarin Christus werkte, en het best georganiseerde voertuig van de geestelijke voer tuigen van Jezus, gelijkwaardig, zodat Christus, toen hij het levenslichaam en het grofstoffelijk lichaam van Jezus aannam, in het bezit kwam van een vol ledige reeks voertuigen die de kloof tussen de wereld van de levensgeest en de grofstoffelijke wereld overbrugden. 
+Wij lopen hier eigenlijk vooruit op ons onderwerp als wij er op wijzen dat het eigenlijke doel van alle esoterische training is om zo op het levenslichaam in te werken dat de levensgeest wordt opgebouwd en de groei ervan wordt versneld. Wanneer wij inwijding behandelen, kunnen wij misschien iets meer in bij zonderheden treden, maar nu kunnen wij niet verder op dit onderwerp ingaan. Bij het nagaan van de gebeurtenissen die aan het bestaan na de dood eigen zijn, hebben wij dit onderwerp al gedeeltelijk behandeld. U dient te bedenken, dat verondersteld wordt dat hij zijn begeertelichaam tot op grote hoogte over wonnen heeft, voor hij esoterische kennis nastreeft. Zijn esoterische training en de eerste inwijdingen zijn op het levenslichaam gericht en hebben de bouw van de levensgeest tot resultaat. Toen Christus het lichaam van Jezus binnen trad, was Jezus een leerling van hoge graad. Als gevolg daarvan was zijn le vensgeest goed georganiseerd. Zodoende waren het laagste voertuig waarin Christus werkte, en het best georganiseerde voertuig van de geestelijke voer tuigen van Jezus, gelijkwaardig, zodat Christus, toen hij het levenslichaam en het grofstoffelijk lichaam van Jezus aannam, in het bezit kwam van een vol ledige reeks voertuigen die de kloof tussen de wereld van de levensgeest en de grofstoffelijke wereld overbrugden. 
 
 De betekenis van het feit dat Jezus verscheidene inwijdingen had doorge maakt, ligt in de gevolgen daarvan op het levenslichaam. Het levenslichaam van Jezus was al op de hoge trillingen van de levensgeest afgestemd. Het le venslichaam van een gewoon mens zou onder de hevige trillingen van de machtige geest die het lichaam van Jezus binnentrad, onmiddellijk ingestort zijn. Zelfs zijn lichaam, rein en fijnbesnaard als het was, kon die enorme in werking niet jaren lang verdragen. Als wij lezen hoe Christus zich soms tijde lijk van zijn leerlingen terugtrok en hoe hij later over de zee wandelde om zich weer bij hen te voegen, dan weet de esotericus dat hij zich uit de voertuigen van Jezus terugtrok om die een korte rust te gunnen onder behandeling van de Esseense broeders die beter met dergelijke voertuigen wisten om te gaan dan Christus. 
 
@@ -3093,23 +3093,25 @@ Nu kennen wij dus de eigenschappen van Christus. Hij is de hoogste inge wijde ui
 
 Alle rasgodsdiensten komen voort uit de heilige Geest. Zij zijn niet voldoende, omdat zij op de wet gebaseerd zijn, waarvan het gevolg is dat zij tot zonde lei den en dood, verdriet, en pijn brengen. 
 
-Alle rasgeesten weten dit en beseffen dat hun godsdiensten alleen maar tre den zijn naar iets beters. Dit blijkt uit het feit dat alle rasgodsdiensten, zonder uitzondering, wijzen op één die komen moet. De Perzische godsdienst wees op Mithra(s) 38, de Chaldeeuwse op Tammouz 39. De oude Noorse goden voorza gen de nadering van de godenschemering wanneer Sutr40, de lichtende zonne geest, hen zou vervangen en een nieuwe, heerlijker beschaving op Gimle41, de wedergeboren aarde ingesteld zou worden. De Egyptenaren keken uit naar Horus42, de nieuw geboren zon. Mithras en Tammuz worden ook door een zonneschijf gesymboliseerd en alle hoofdtempels waren naar het oosten ge richt, zodat de stralen van de opkomende zon rechtstreeks door de open deu ren zouden vallen; zelfs de Sint Pieter in Rome is zo geplaatst. Uit dit alles blijkt dat het algemeen bekend was dat hij, die komen zou, een zonnegeest was die de mensheid van de scheiding brengende invloeden, die onvermijde lijk alle rasgodsdiensten kenmerkten, zou verlossen. 
+Alle rasgeesten weten dit en beseffen dat hun godsdiensten alleen maar tre den zijn naar iets beters. Dit blijkt uit het feit dat alle rasgodsdiensten, zonder uitzondering, wijzen op één die komen moet. De Perzische godsdienst wees op Mithra(s) 38, de Chaldeeuwse op Tammouz 39. De oude Noorse goden voorza gen de nadering van de godenschemering wanneer Sutr 40, de lichtende zonne geest, hen zou vervangen en een nieuwe, heerlijker beschaving op Gimle 41, de wedergeboren aarde ingesteld zou worden. De Egyptenaren keken uit naar Horus42, de nieuw geboren zon. Mithras en Tammuz worden ook door een zonneschijf gesymboliseerd en alle hoofdtempels waren naar het oosten ge richt, zodat de stralen van de opkomende zon rechtstreeks door de open deu ren zouden vallen; zelfs de Sint Pieter in Rome is zo geplaatst. Uit dit alles blijkt dat het algemeen bekend was dat hij, die komen zou, een zonnegeest was die de mensheid van de scheiding brengende invloeden, die onvermijde lijk alle rasgodsdiensten kenmerkten, zou verlossen. 
 
-38 Mithra(s), Perzische lichtgod. Hij werd uit een rots geboren, streed met de zon, en maakte een stier buit die hij doodde. Toen ontsproot er aan zijn staart een korenaar, dat het vrij maken van het vruchtbare leven betekent. Ahriman, de heerser van de duisternis, probeer de het bloed en het sperma van de stier buit te maken, wat Mithra(s) wist te verhinderen. Bartelink, Mythologisch woordenboek. 
+() - 38 Mithra(s), Perzische lichtgod. Hij werd uit een rots geboren, streed met de zon, en maakte een stier buit die hij doodde. Toen ontsproot er aan zijn staart een korenaar, dat het vrij maken van het vruchtbare leven betekent. Ahriman, de heerser van de duisternis, probeer de het bloed en het sperma van de stier buit te maken, wat Mithra(s) wist te verhinderen. Bartelink, Mythologisch woordenboek. 
 
-39 Tammoez, Tammuz. Babylonisch-Assyrische natuurgod. Symbool van het jaarlijkse afster ven van de natuur. Ieder jaar begaf Isjtar zich naar de onderwereld op zoek naar Tam mouz, die ze bij het begin van de lente weer naar boven geleidde. Bartelink, Mythologisch woordenboek. 
+() - 39 Tammoez, Tammuz. Babylonisch-Assyrische natuurgod. Symbool van het jaarlijkse afster ven van de natuur. Ieder jaar begaf Isjtar zich naar de onderwereld op zoek naar Tam mouz, die ze bij het begin van de lente weer naar boven geleidde. Bartelink, Mythologisch woordenboek. 
 
-40 Sutr, Sutur. Zwarte reus die Muspelheim met een flammend zwaard bewaakte. Hij was de doodsvijand van Asen en rukte bij de godenschemering met het schip Naglfar tegen hen op. Hij stak de wereld-es Yggdrasil in brand. Bartelink, Mythologisch woordenboek. 
+() - 40 Sutr, Sutur. Zwarte reus die Muspelheim met een flammend zwaard bewaakte. Hij was de doodsvijand van Asen en rukte bij de godenschemering met het schip Naglfar tegen hen op. Hij stak de wereld-es Yggdrasil in brand. Bartelink, Mythologisch woordenboek. 
 
-41 Gimle, Gimel. De eeuwige gouden zaal waarin, na de godenschemering, een nieuw helden geslacht in volmaakt geluk leefde. Bartelink, Mythologisch woordenboek. 
+() - 41 Gimle, Gimel. De eeuwige gouden zaal waarin, na de godenschemering, een nieuw helden geslacht in volmaakt geluk leefde. Bartelink, Mythologisch woordenboek. 
 
-42 Horus, Egyptische zonnegod. Hij werd als havik afgebeeld. Aanvankelijk werd hij be schouwd als zoon van Re, later van Isis. Zijn vader was Osiris, de beschermer van de vruchtbaarheid van Egypte en het Nijldal; naderhand ook van de doden. Bartelink, Mytho logisch woordenboek. 
+() - 42 Horus, Egyptische zonnegod. Hij werd als havik afgebeeld. Aanvankelijk werd hij be schouwd als zoon van Re, later van Isis. Zijn vader was Osiris, de beschermer van de vruchtbaarheid van Egypte en het Nijldal; naderhand ook van de doden. Bartelink, Mytho logisch woordenboek. 
 
 Deze godsdiensten waren overgangsstadia die de mensheid moest doorlo pen om zich op de komst van Christus voor te bereiden. De mens moet eerst een zelf aankweken, voordat hij in waarheid onzelfzuchtig kan worden en het hogere stadium van universele broederschap - eenheid van doel en belangen  kan begrijpen, waarvoor Christus bij zijn eerste optreden de grondslag legde en die hij bij zijn terugkeer tot levende werkelijkheid zal maken. 
 
 Omdat het fundamentele beginsel in een rasgodsdienst afgescheidenheid is, met het kenmerk van zelfverwezenlijking ten koste van andere mensen en volken, spreekt het vanzelf dat wanneer dit beginsel tot het uiterste wordt doorgevoerd, het onvermijdelijk een steeds groeiende neiging tot vernietiging zal vertonen en ten slotte ontwikkeling zal beletten, tenzij hij door een op bouwender godsdienst vervangen wordt. 
 
-Daarom moeten de scheidingbrengende godsdiensten van de heilige Geest vervangen worden door de eenmakende godsdienst van de Zoon, de christe lijke godsdienst dus. Wet moet plaats maken voor liefde en de afgescheiden rassen en volken moeten tot een universele broederschap verenigd worden, met Christus als Oudste Broeder. 
+Daarom moeten de scheidingbrengende godsdiensten van de heilige Geest vervangen worden door de eenmakende godsdienst van de Zoon, de christe lijke godsdienst dus. 
+
+Wet moet plaats maken voor liefde en de afgescheiden rassen en volken moeten tot een universele broederschap verenigd worden, met Christus als Oudste Broeder. 
 
 De christelijke godsdienst heeft nog niet de tijd gehad om dit grootse doel te verwezenlijken. De mens zit nog steeds in de strikken van de overheersende rasgeest vast, en de idealen van het christendom zijn nog te hoog voor hem. Het verstand kan enkele juweeltjes waarnemen en stemt er graag mee in dat wij onze vijanden moeten liefhebben, maar de hartstochten van het begeerte lichaam zijn nog te sterk. Omdat de wet van de rasgeest oog om oog voor schrijft, zegt het gevoel ‘Ik zal het hem betaald zetten!’ Het hart bidt om lief de; het begeertelichaam hoopt op wraak. Het intellect ziet, abstract be schouwd, het mooie ervan in om onze vijand lief te hebben, maar in concrete gevallen reikt het de hand aan het wraakzuchtige gevoel van het begeerteli chaam en betoogt als excuus voor het betaald zetten dat de gemeenschap toch beschermd moet worden. 
 
@@ -3119,17 +3121,17 @@ Maar hoewel de wereld dus vooruitgaat, en de schrijver bijvoorbeeld betrek kelij
 
 De wereld in het algemeen is niet erg geneigd om aan iets, wat volgens haar ál te onzelfzuchtig is, aandacht te schenken. Er moet iets te halen zijn. Een ge dragslijn te volgen waarbij men geen voordeel van zijn medemensen kan trek ken, wordt als onnatuurlijk beschouwd. Commerciële ondernemingen berus ten op dat beginsel. Het idee van universele broederschap laat in de hersenen van iedereen die de slaaf is van zijn begeerte om nutteloze rijkdom te verzame len, schrikaanjagende visioenen opdoemen van afschaffing van het kapitalis me en zijn onvermijdelijke metgezel, exploitatie van anderen, naast de onder gang van alle handelsbelangen. De uitdrukking ‘de slaaf zijn van’ geeft deze toestand juist weer. Volgens de Bijbel kreeg de mens macht over de wereld, maar in de meeste gevallen is juist het omgekeerde waar: heeft de wereld macht over de mens. Ieder mens die eigendom bezit, zal in zijn heldere ogen blikken toegeven dat zij een eeuwige bron van zorg voor hem zijn. Dat hij voortdurend aan het bedenken is hoe hij zijn bezittingen in stand kan hou den of ten minste kan voorkomen dat hij ze door allerlei ‘intriges’ verliest, omdat hij weet dat anderen er voortdurend op uit zijn dat voor hen gewenste doel te bereiken. De mens is de slaaf van wat hij met onbewuste ironie ‘mijn bezittingen’ noemt, terwijl in werkelijkheid die bezittingen hem in hun macht hebben. Terecht zei de wijze van Concord 43, ‘Dingen zitten in het zadel en berijden de mensen!’ 
 
-43 Ralph Waldo Emerson, 1803-1842 . Amerikaans filosoof, theoloog, essayist en dichter. 
+() - 43 Ralph Waldo Emerson, 1803-1842 . Amerikaans filosoof, theoloog, essayist en dichter. 
 
 Deze stand van zaken is het gevolg van de rasgodsdiensten met hun stelsel van wet. Daarom ziet iedereen uit naar ‘Eén die komen zal.’ ALLEEN de chris telijke godsdienst ziet niet uit naar Eén die komen zal, maar naar Eén die we derkomen zal. Het tijdstip van deze terugkeer hangt af of het lang zal duren, voordat de Kerk zich van de Staat kan scheiden. De Kerk is, vooral in Euro pa, gebonden aan de triomfwagen van de Staat. De geestelijken zijn vanwege financiële beweegredenen gebonden en durven de waarheden, die zij door stu die verkregen, niet te verkondigen. 
 
 Iemand die onlangs Kopenhagen bezocht 44, woonde in de kerk een belijde nisdienst bij. Nu staat de Kerk daar onder staatstoezicht en alle geestelijken worden door de wereldlijke macht aangesteld. De gemeenteleden zelf heb ben er niets over te zeggen. Zij kunnen de kerk al of niet bezoeken, maar zij zijn verplicht de belastingen te betalen die de instellingen in stand houden. 
 
-44 Heindel zelf, toen hij in oktober 1907 zijn familie in Denemarken bezocht. 
+() - 44 Heindel zelf, toen hij in oktober 1907 zijn familie in Denemarken bezocht. 
 
 Behalve het feit dat de geestelijke van die kerk door de staat betaald werd, was hij in het bezit van verscheidene ridderorden die hem door de koning ver leend waren, waarvan de schitterende insignes een zwijgende maar welspre kende getuigenis aflegden van zijn grote afhankelijkheid van de staat. Tijdens de dienst bad hij voor de koning en de ministers, opdat zij het land wijs moch ten regeren. Een dergelijk gebed kan zeer geschikt zijn voor koningen en mi nisters, maar het was vrij ergerlijk hem er bij te horen voegen: ‘... en almachtige God, bescherm en sterk ons leger en onze vloot!’ 
 
-Uit een dergelijk gebed blijkt duidelijk, dat de aanbeden God de stam- of na tionale god is, de rasgeest, want de laatste daad van de zachtmoedige Jezus Christus was het zwaard tegen te houden van de vriend die hem daarmee wil de beschermen. Hij zei dat hij niet gekomen was om vrede te brengen maar het zwaard. Dat zei hij, omdat hij de stromen bloed voorzag die door de strijd lustige ‘christelijke’ volken, als gevolg van het verkeerd begrijpen van zijn leer, zouden worden vergoten en omdat verheven idealen nooit onmiddellijk door de mensheid bereikt kunnen worden. Het doden op grote schaal in oorlogs tijd en dergelijke gruwelen zijn monsterachtig, maar het zijn duidelijke voor beelden van wat de liefde zou kunnen afschaffen. 
+Uit een dergelijk gebed blijkt duidelijk, dat de aanbeden God de stam- of nationale god is, de rasgeest, want de laatste daad van de zachtmoedige Jezus Christus was het zwaard tegen te houden van de vriend die hem daarmee wil de beschermen. Hij zei dat hij niet gekomen was om vrede te brengen maar het zwaard. Dat zei hij, omdat hij de stromen bloed voorzag die door de strijd lustige ‘christelijke’ volken, als gevolg van het verkeerd begrijpen van zijn leer, zouden worden vergoten en omdat verheven idealen nooit onmiddellijk door de mensheid bereikt kunnen worden. Het doden op grote schaal in oorlogs tijd en dergelijke gruwelen zijn monsterachtig, maar het zijn duidelijke voor beelden van wat de liefde zou kunnen afschaffen. 
 
 Ogenschijnlijk is er een lijnrechte tegenspraak tussen de woorden van Jezus Christus: ‘Ik ben niet gekomen om vrede te brengen, maar het zwaard’ en de woorden van de hemelse zang die de geboorte van Jezus verkondigde: ‘Vre de op aarde voor alle mensen die hij liefheeft.’ Luc. 2:14. 
 
@@ -3137,10 +3139,12 @@ Toch is hier alleen maar sprake van schijnbare tegenspraak. De woorden van een v
 
 Zo moeten wij eveneens bedenken dat de tijd, die sinds de komst van Jezus Christus verlopen is, niet meer dan een enkel moment is in vergelijking met de duur van een dag van openbaring. Wij moeten zoals Whitman 45 deed, ‘de grote omvang van de tijd leren beseffen’ en over de wreedheden en jaloezie van de strijdende sekten in verleden en heden heen kijken naar de lichtende eeuw van de universele broederschap, die de volgende grote stap voorwaarts zal kenmerken op de lange, wonderbaarlijke reis van nietig schepsel tot God, van protoplasma tot bewuste eenheid met de Vader, die …. 
 
-45 Walt Whitman, 1819-1892, Amerikaans leraar en dichter. 
+() - 45 Walt Whitman, 1819-1892, Amerikaans leraar en dichter. 
 
-    ... ene, ver verwijderde, goddelijke gebeurtenis   
-    waarheen de hele schepping zich begeeft.   
+```
+... ene, ver verwijderde, goddelijke gebeurtenis   
+waarheen de hele schepping zich begeeft.   
+```
 
 Wij kunnen hier nog aan toevoegen dat de bovengenoemde geestelijke, on der de ceremonie van het aannemen van zijn leerlingen tot lidmaten van de kerk, hun leerde dat Jezus Christus een samengesteld wezen was; dat Jezus het sterfelijke, menselijke deel was, terwijl Christus de goddelijke, onsterfelij ke geest vertegenwoordigde. Vermoedelijk zou hij die verklaring niet volge houden hebben als over dit punt nader van gedachte zou zijn gewisseld, maar toen hij haar gaf constateerde hij evenwel een occult feit. 
 
@@ -3150,21 +3154,27 @@ De eenmakende invloed van Christus is verzinnebeeld in de mooie legende van de a
 
 De drie wijzen: Caspar, Melchior en Baltasar, zijn de vertegenwoordigers van het blanke, gele en zwarte ras en symboliseren de volken van Europa, Azië en Afrika, die alle door de ster naar de redder van de wereld geleid worden, voor wie uiteindelijk ‘iedere knie zal buigen’ en waarvan ‘elke tong zal getuigen’; die alle verspreide volken onder de banier van vrede en liefde zal verenigen en zal zorgen dat de mensen ‘hun zwaarden tot ploegijzers zullen omsmeden en hun speren tot snoeimessen.’ 
 
-Er wordt gezegd dat de ster van Betlehem op het tijdstip van de geboorte van Jezus verscheen en de drie wijzen de weg naar de redder wees. Over de aard van deze ster zijn heel wat veronderstellingen geopperd. De meeste mate rialisten hebben het voor een mythe gehouden, terwijl anderen beweerd heb ben dat als het iets meer dan een mythe was, het misschien een ‘toevallige sa menstand’ geweest kon zijn, twee uitgedoofde zonnen die misschien tegen elkaar gebotst waren, waardoor een sterk lichtschijnsel ontstond. Iedere mys ticus kent echter de ster en ook het kruis, niet alleen als symbool in verband met het leven van Jezus en Jezus Christus, maar uit eigen persoonlijke erva ring. Paulus zegt: ‘Zolang Christus geen gestalte in u krijgt,’ Galaten 4:19, en de mysticus Angelus Silesius herhaalt: 
+Er wordt gezegd dat de ster van Betlehem op het tijdstip van de geboorte van Jezus verscheen en de drie wijzen de weg naar de redder wees. 
 
-    Werd Christus ook honderd maal in Betlehem geboren   
-    en niet in uzelf, zo gaat uw ziel verloren;   
-    vergeefs hebt u het kruis op Golgota aanschouwd   
-    tenzij u in uzelf het weer hebt opgebouwd.   
+Over de aard van deze ster zijn heel wat veronderstellingen geopperd. De meeste materialisten hebben het voor een mythe gehouden, terwijl anderen beweerd heb ben dat als het iets meer dan een mythe was, het misschien een ‘toevallige sa menstand’ geweest kon zijn, twee uitgedoofde zonnen die misschien tegen elkaar gebotst waren, waardoor een sterk lichtschijnsel ontstond. Iedere mys ticus kent echter de ster en ook het kruis, niet alleen als symbool in verband met het leven van Jezus en Jezus Christus, maar uit eigen persoonlijke erva ring. Paulus zegt: ‘Zolang Christus geen gestalte in u krijgt,’ Galaten 4:19, en de mysticus Angelus Silesius herhaalt: 
+
+```
+Werd Christus ook honderd maal in Betlehem geboren   
+en niet in uzelf, zo gaat uw ziel verloren;   
+vergeefs hebt u het kruis op Golgota aanschouwd   
+tenzij u in uzelf het weer hebt opgebouwd.   
+```
 
 Richard Wagner toont de intuïtie van de kunstenaar, als op de vraag van Par sifal: ‘Wat is de graal?’ Gurnemanz antwoordt: 
 
-    Dat laat zich niet zeggen;   
-    maar ben je zelf tot hem verkoren   
-    dan heb je de kennis ...   
-    Geen stoffelijke weg voert er heen.   
-    En niemand kan hem bewandelen   
-    die zelf niet tot die weg geworden is ...   
+```
+Dat laat zich niet zeggen;   
+maar ben je zelf tot hem verkoren   
+dan heb je de kennis ...   
+Geen stoffelijke weg voert er heen.   
+En niemand kan hem bewandelen   
+die zelf niet tot die weg geworden is ...   
+```
 
 Onder de ‘oude bedeling’ [Jehova] was het pad van inwijding niet voor ieder een toegankelijk. Inwijding was alleen voor enkele uitverkorenen weggelegd. Een enkeling zocht misschien naar de weg, maar alleen zij die door de hiëro fanten naar de tempels geleid werden kregen toegang. Vóór de komst van Christus kende men een zo veelomvattende uitnodiging niet als: ‘Ieder die wil, mag komen.’ 
 
@@ -3210,7 +3220,9 @@ Als de astronoom zijn eigen zin doet en de telescoop richt zoals hij dat wil en 
 
 Zo is het ook met het ego. Het werkt met een drievoudig lichaam dat het be stuurt of liever dat het zou moeten besturen door middel van het verstand. Dit lichaam heeft echter helaas zijn eigen wil en wordt dikwijls bijgestaan en opgestookt door het verstand en verijdelt zodoende de plannen van het ego. 
 
-Deze tegenwerkende lagere wil is een uitdrukking van het hogere deel van het begeertelichaam. Toen de scheiding van zon, maan en aarde in het begin van het Lemurische tijdvak plaats vond, had bij de verst gevorderden van de mens in wording een splitsing van het begeertelichaam in een hoger en een lager deel plaats. Bij de rest van de mensheid was dit in het begin van het At lantische tijdvak eveneens het geval. Dit hogere deel van het begeertelichaam werd een soort van dierlijke ziel. Het bouwde het cerebrospinale zenuwstelsel en de willekeurige spieren op, en bestuurde op die manier het lagere deel van het drievoudige lichaam, tot de schakel van het verstand geschonken werd. Daarop groeide het verstand samen met deze dierlijke ziel en werd medebe stuurder. 
+Deze tegenwerkende lagere wil is een uitdrukking van het hogere deel van het begeertelichaam. Toen de scheiding van zon, maan en aarde in het begin van het Lemurische tijdvak plaats vond, had bij de verst gevorderden van de mens in wording een splitsing van het begeertelichaam in een hoger en een lager deel plaats. Bij de rest van de mensheid was dit in het begin van het At lantische tijdvak eveneens het geval. 
+
+Dit hogere deel van het begeertelichaam werd een soort van dierlijke ziel. Het bouwde het cerebrospinale zenuwstelsel en de willekeurige spieren op, en bestuurde op die manier het lagere deel van het drievoudige lichaam, tot de schakel van het verstand geschonken werd. Daarop groeide het verstand samen met deze dierlijke ziel en werd medebe stuurder. 
 
 Het verstand is dus nauw verbonden met begeerte en met de zelfzuchtige la gere aard verstrikt, wat het voor de geest erg moeilijk maakt om het lichaam te besturen. Het richtinggevende verstand, dat de bondgenoot van de geestelijke aard zou moeten zijn, wordt daarvan vervreemd door de lagere aard en is daar mee verbonden, ja, door begeerte tot slavernij gebracht. 
 
@@ -3232,10 +3244,7 @@ Het bloed is de hoogste uitdrukking van het levenslichaam, want het voedt het he
 
 In het hoofd zijn drie punten die elk de specifieke zetel van één van de drie aanzichten van de geest zijn - zie diagram 17 - terwijl het tweede en het derde aanzicht bovendien, als bijkomstigheid, een gunstige ligging hebben. 
 
-46 Er zijn drie gebieden waar zich een geheugen van de natuur bevindt:   
-- In de 7e sfeer van de stoffelijke wereld, in de weerspiegelende ether. Hierin ‘zien’ aanvan kelijk beginnelingen en mediums.   
-- In de 4e sfeer van het gebied van de concrete gedachte, waar zich de krachten van de oer typen bevinden. Hierin ‘zien’ de ingewijden.   
-- In de 7e sfeer van de wereld van de levensgeest. Hierin kunnen alleen de adepten en Ou dere Broeders ‘zien’.   
+() - 46 Er zijn drie gebieden waar zich een geheugen van de natuur bevindt: | - In de 7e sfeer van de stoffelijke wereld, in de weerspiegelende ether. Hierin ‘zien’ aanvan kelijk beginnelingen en mediums. | - In de 4e sfeer van het gebied van de concrete gedachte, waar zich de krachten van de oer typen bevinden. Hierin ‘zien’ de ingewijden. | - In de 7e sfeer van de wereld van de levensgeest. Hierin kunnen alleen de adepten en Ou dere Broeders ‘zien’.   
 
 Het begeertelichaam is de ontaarde uitdrukking van het ego. Het verandert het zelfbewustzijn van de geest in zelfzucht. Zelfbewustzijn zoekt zichzelf niet ten koste van anderen. Zelfzucht zoekt voordeel zonder zich om anderen te be kommeren. De zetel van de menselijke geest heerst op de eerste plaats in de epifyse of pijnappelklier en op de tweede plaats in de hersenen en het cerebro spinale zenuwstelsel dat de willekeurige spieren bestuurt. 
 
@@ -3249,7 +3258,7 @@ Terwijl het bloed het hele leven, kringloop na kringloop, uur na uur, door het h
 
 Wanneer deze beelden binnenwaarts naar de wereld van de levensgeest ver der gaan, waarin het eigenlijke geheugen van de natuur zetelt, gaan zij niet via de trage stoffelijke zintuigen, maar rechtstreeks via de vierde ether, een be standdeel van de lucht die wij inademen. In de wereld van de levensgeest ziet de levensgeest veel duidelijker dan in de grovere, dichtere werelden. In zijn verheven tehuis is hij in contact met de kosmische wijsheid, weet hij in alle omstandigheden onmiddellijk wat te doen en stuurt de boodschap wat de juiste manier van handelen betreft, of de waarschuwing, meteen door naar het hart dat haar even snel via de long-maagzenuw 47 naar de hersenen doorstuurt. Het gevolg hiervan is dat, wat men de ‘eerste opwelling’ zou kunnen noemen of wel de impuls van de intuïtie, die altijd goed is omdat hij rechtstreeks uit de bron van kosmische wijsheid en liefde ontstaat. 
 
-47 The pneumo-gastric nerv is de long-maagzenuw. Het is de nervus vagus of het 10e hersen zenuwpaar, ook zwervende of dwalende zenuw genoemd, die deelneemt aan vele functies van ademhaling, spijsvertering en hartwerking. Coëlho, Zakwoordenboek der geneeskunde, Den Haag 2006. 
+() - 47 The pneumo-gastric nerv is de long-maagzenuw. Het is de nervus vagus of het 10e hersen zenuwpaar, ook zwervende of dwalende zenuw genoemd, die deelneemt aan vele functies van ademhaling, spijsvertering en hartwerking. Coëlho, Zakwoordenboek der geneeskunde, Den Haag 2006. 
 
 Dit alles gaat zo snel in zijn werk, dat het hart al gesproken heeft voordat de tragere rede tijd heeft gehad om de situatie als het ware in zich op te nemen. Dit is de gedachte die de mens in zijn hart denkt en het is juist dat hij zo is. De mens is eigenlijk een maagdelijke geest, in elk opzicht goed, edel en waar. Alles wat niet goed is, komt uit de lagere aard, de bedrieglijke weerkaatsing van het ego. De maagdelijke geest geeft altijd wijze raad. Als wij maar altijd de in gevingen van ons hart - de eerste gedachte - konden volgen, dan zou universele broederschap, hier en nu, een feit zijn. 
 
@@ -3301,7 +3310,7 @@ De uitdrukking ‘die de aarde voorbereidde’, betekent dat elke ontwikkeling o
 
 Onder het oude bestel 48 werden verbeteringen in de begeertelichamen van de mensheid in het algemeen door middel van de wet tot stand gebracht. Dit gaat in de meeste mensen nog steeds zo door die aldus bezig zijn zich voor het geestelijk leven voor te bereiden. 
 
-48 Oude bestel, oude bedeling, oude verbond of oude testament, is het regiem onder Jehova. De nieuwe bedeling of het nieuwe testament is het bestel onder Christus. 
+() - 48 Oude bestel, oude bedeling, oude verbond of oude testament, is het regiem onder Jehova. De nieuwe bedeling of het nieuwe testament is het bestel onder Christus. 
 
 Het geestelijk leven - inwijding - begint echter pas als het werk aan het levens lichaam begint. Het vereiste middel om dat tot activiteit te prikkelen, is liefde, of juister gezegd altruïsme. Het woord liefde is al zo misbruikt, dat het niet langer de hier vereiste betekenis weergeeft. 
 
@@ -3347,20 +3356,17 @@ Op veel plaatsen waren de ridders van de Tafelronde hoge ingewijden in de nieuwe
 
 De Druïden 49 in Ierland en de Trotten 50 in Noord-Rusland waren esoteri sche scholen, waardoor Jezus tijdens de zogenoemde ‘duistere eeuwen’ werk te. Maar hoe donker zij ook waren, toch verspreidde de geestelijke impuls zich. En vanuit het standpunt van de occultist waren het ‘lichte eeuwen’ in vergelij king met het groeiend materialisme van de laatste 300 51 jaar, dat de kennis van de stoffelijke wereld ontzettend vermeerderd heeft, maar het ‘licht van de geest’ zo goed als heeft uitgedoofd. 
 
-49 De Druïden waren priesters bij de oude Kelten in Gallië en Brittannië die zich hoofdzake lijk in eikenbossen ophielden. Ze waren een aparte stand naast de ridders en speelden een belangrijke rol in het leven van het volk. Bartelink, Mythologisch woordenboek. 
+() - 49 De Druïden waren priesters bij de oude Kelten in Gallië en Brittannië die zich hoofdzake lijk in eikenbossen ophielden. Ze waren een aparte stand naast de ridders en speelden een belangrijke rol in het leven van het volk. Bartelink, Mythologisch woordenboek. 
 
-50 De Trotten waren een weinig bekende, geheime mysterievereniging in West-Rusland en Scandinavië. 
+() - 50 De Trotten waren een weinig bekende, geheime mysterievereniging in West-Rusland en Scandinavië. 
 
-51 Inmiddels 400 jaar; dus vanaf ongeveer 1600. 
+() - 51 Inmiddels 400 jaar; dus vanaf ongeveer 1600. 
 
 Verhalen over de graal, de ridders van de Tafelronde en dergelijke, worden nu voor bijgeloof uitgemaakt. Alles wat niet stoffelijk bewezen kan worden, wordt als waardeloos over boord gegooid. Hoe schitterend de ontdekkingen van de wetenschap ook mogen zijn, zij zijn gekocht tegen de ontzettend hoge prijs van de vernietiging van de geestelijke intuïtie. Vanuit een geestelijk standpunt bezien, zijn er nooit duisterder tijden geweest dan die van nu. 
 
-De Oudere Broeders, waartoe ook Jezus behoort, hebben hun best gedaan en zijn nog steeds bezig om deze invloed, die even hypnotiserend werkt als de ogen van de slang op zijn prooi, te bestrijden. Elke poging om de mensheid licht te brengen en in haar de begeerte te doen ontwaken om de geestelijke kant van het leven aan te kweken, wijst op de activiteit van de Oudere Broeders. Dat hun pogingen met succes bekroond moge worden en de dag bespoedigen waarop de wetenschap vergeestelijkt wordt en haar onderzoekingstocht van de materie vanuit het standpunt van de geest zal leiden. Want dan, en niet eer der, zal zij tot de ware kennis van de wereld komen. 
+De Oudere Broeders, waartoe ook Jezus behoort, hebben hun best gedaan en zijn nog steeds bezig om deze invloed, die even hypnotiserend werkt als de ogen van de slang op zijn prooi, te bestrijden. Elke poging om de mensheid licht te brengen en in haar de begeerte te doen ontwaken om de geestelijke kant van het leven aan te kweken, wijst op de activiteit van de Oudere Broeders. 
 
-Diagram 14a. Zo boven, zo beneden!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-De wereld, de mens en het atoom vallen onder dezelfde wet. Onze stoffelijke aarde is nu in haar vierde fase van verdichting. Het verstand, het begeertelichaam en het levenslichaam zijn minder dicht dan ons vierde voertuig, het grofstoffelijk lichaam. In het atoomgewicht van de scheikundige elementen bestaat een dergelijke rangschik king. De vierde groep geeft de grootste dichtheid aan. 
-
+Dat hun pogingen met succes bekroond moge worden en de dag bespoedigen waarop de wetenschap vergeestelijkt wordt en haar onderzoekingstocht van de materie vanuit het standpunt van de geest zal leiden. Want dan, en niet eer der, zal zij tot de ware kennis van de wereld komen. 
 
 ### <h3 id="chapter-16">16: Toekomstige ontwikkeling en inwijding</h3>
 
@@ -3368,19 +3374,34 @@ De wereld, de mens en het atoom vallen onder dezelfde wet. Onze stoffelijke aard
 
 De Rozenkruiser spreekt over de Aardeperiode als Mars-Mercurius. De grote scheppende dag van openbaring is in de namen van de dagen van de week beli chaamd, want onze weekdagen zijn genoemd naar de ontwikkelingsstadia die de maagdelijke geesten op hun levensreis door de stof doormaken. 
 
-Diagram 14b. De zeven scheppingsdagen!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+| Dag        | Komt overeen met                 | Wordt beheerst door |
+|------------|----------------------------------|----------------------|
+| Zaterdag   | Saturnusperiode                  | Saturnus             |
+| Zondag     | Zonperiode                       | De Zon               |
+| Maandag    | Maanperiode                      | Maan                 |
+| Dinsdag    | Eerste helft van de aardeperiode | Mars                 |
+| Woensdag   | Tweede helft van de aardeperiode | Mercurius            |
+| Donderdag  | Jupiterperiode                   | Jupiter              |
+| Vrijdag    | Venusperiode                     | Venus                |
+
 
 De Vulcanusperiode is de laatste periode van ons ontwikkelingsplan. De es sentie van alle voorafgaande perioden wordt door het spiraalvormige herha lingsproces eruit getrokken. In de allerlaatste rondte op de allerlaatste bol, en dan nog pas in het zevende tijdvak, wordt er geen nieuw werk begonnen. Daarom kan men zeggen dat de Vulcanusperiode overeenkomt met de hele week die alle zeven dagen in zich sluit. 
 
-De bewering van astrologen, dat de dagen van de week beheerst worden door de specifieke planeet waarnaar zij genoemd zijn, is juist. De oude Grieken waren ook met deze occulte leer bekend, zoals uit hun mythologie blijkt, en waarin de namen van de goden met de dagen van de week verbonden zijn. Za terdag is de benaming voor de dag van Saturnus. Zondag staat in verband met de zon, en maandag met de maan. In het Latijn heet dinsdag dies Martis, dat duidelijk op een verband met Mars, de god van de oorlog, wijst. De naam dins dag is afgeleid van Tirsdag, waarin Tir of Tyr de naam van de Noorse oor logsgod besloten ligt. Woensdag was Wodansdag, van Wodan, eveneens een Noorse god. In het Latijn heet woensdag dies Mercurii, waaruit ook het ver band met Mercurius blijkt. Donderdag of Torsdag heet naar Thor, de Noor se god van de donder en heet in het Latijn dies Jovis naar de god van de donder Jovis of Jupiter. Vrijdag is genoemd naar de Noorse godin van de schoonheid Freya en om gelijke redenen heet vrijdag in het Latijn dies Veneris of dag van Venus. 
+De bewering van astrologen, dat de dagen van de week beheerst worden door de specifieke planeet waarnaar zij genoemd zijn, is juist. De oude Grieken waren ook met deze occulte leer bekend, zoals uit hun mythologie blijkt, en waarin de namen van de goden met de dagen van de week verbonden zijn. Za terdag is de benaming voor de dag van Saturnus. Zondag staat in verband met de zon, en maandag met de maan. In het Latijn heet dinsdag dies Martis, dat duidelijk op een verband met Mars, de god van de oorlog, wijst. De naam dins dag is afgeleid van Tirsdag, waarin Tir of Tyr de naam van de Noorse oor logsgod besloten ligt. Woensdag was Wodansdag, van Wodan, eveneens een Noorse god. In het Latijn heet woensdag dies Mercurii, waaruit ook het ver band met Mercurius blijkt. 
+
+Donderdag of Torsdag heet naar Thor, de Noor se god van de donder en heet in het Latijn dies Jovis naar de god van de donder Jovis of Jupiter. 
+
+Vrijdag is genoemd naar de Noorse godin van de schoonheid Freya en om gelijke redenen heet vrijdag in het Latijn dies Veneris of dag van Venus. 
 
 De namen van de perioden hebben niets met de stoffelijke planeten uit te staan, maar slaan op vroegere, tegenwoordige of toekomstige belichamingen van de aarde, want als wij weer het hermetische axioma: zo boven zo beneden toepassen, dan moet de ma crokosmos evenals de microkosmos, de mens, zijn belichamingen hebben. 
 
 Het occultisme leert dat er 777 belichamingen zijn; dit wil echter niet zeggen dat de aarde 777 gedaanteverwisselingen ondergaat. Het wil zeggen dat het zich ontwikkelende leven 
 
+```
 7 rondten om de   
 7 bollen van de   
 7 wereldperioden maakt.   
+```
 
 Deze levensreis van involutie en evolutie met inbegrip van de kortere weg van inwijding, is belichaamd in de caduceus of mercuriusstaf - zie diagram 15  zo genoemd omdat dit occulte symbool wijst op het pad van inwijding, dat pas sinds het begin van de mercuriushelft van de Aardeperiode voor de mens o penstaat. Enkele kleine mysteriën werden aan de vroegere Lemuriërs en At lantiërs verleend, maar niet de vier grote inwijdingen. 
 
@@ -3396,8 +3417,6 @@ De bedoeling van inwijding is om degenen die geestelijk streven in de gele genhe
 
 Wij zagen dat in de Saturnusperiode de onbewustheid van de mens overeen kwam met die van het stoffelijk lichaam in de diepste trance. Dit werd in de Zonneperiode door een droomloos slaapbewustzijn gevolgd. In de Maanpe riode openbaarden de eerste glimp van waakbewustzijn zich als geestelijke beelden van dingen in de buitenwereld. Het hele bewustzijn bestond uit der gelijke geestelijke voorstellingen van uiterlijke voorwerpen, kleuren of gelui den. Ten slotte maakte dit beeldend bewustzijn in de laatste helft van het At lantische tijdvak plaats voor het tegenwoordige, volledige waakbewustzijn, waardoor voorwerpen in de buitenwereld helder en duidelijk omlijnd in de ruimte konden worden waargenomen. Toen dit bewustzijn voor voorwerpen werd bereikt, werd de mens zich van de buitenwereld bewust en besefte voor het eerst duidelijk het verschil tussen zichzelf en anderen. Toen besefte hij zijn afgescheidenheid, en vanaf dat moment voerde het ik-bewustzijn, egoïsme, de boventoon. Daar er vóór die tijd gedachten noch ideeën in verband met een uiterlijke wereld geweest waren, was er dus geen sprake van herinnering aan gebeurtenissen. 
 
-Diagram 15. De zeven scheppingsdagen en de vier grote inwijdingen!!!!!!!!!!!!!!! 
-
 De verandering van het geestelijk, beeldend bewustzijn in een objectief zelf bewustzijn kwam door een zeer langzaam proces tot stand, evenredig aan zijn belangrijkheid en duurde van het bestaan op bol C in de derde rondte van de Maanperiode, tot aan het laatst gedeelte van het Atlantische tijdvak. 
 
 In die tijd doorliep het zich ontwikkelend leven vier grote stadia van dierach tige ontwikkeling, voordat het het mensachtige stadium bereikte. Deze niveaus uit het verleden komen overeen met de vier stadia die wij nu nog moeten door maken, en met de vier grote inwijdingen. 
@@ -3408,19 +3427,35 @@ Van de vormzijde bezien, bestaat er bij onze tegenwoordige dieren ook een dergel
 
 Cuvier 52 was de eerste die het dierenrijk in vier hoofdklassen indeelde. Maar het indelen van deze klassen in onderafdelingen was niet zo geslaagd. De embryoloog Karel Ernst von Baer 53, professor Agassiz 54 en andere geleerden, rangschikken het dierenrijk als volgt in vier hoofd- en dertien onderafdelin gen: 
 
-52 Georges Cuvier, 1769-1832, Frankrijk. Zoöloog, paleontoloog en anatoom. Hij had de grootste anatomische verzameling van Europa. 
+() - 52 Georges Cuvier, 1769-1832, Frankrijk. Zoöloog, paleontoloog en anatoom. Hij had de grootste anatomische verzameling van Europa. 
 
-53 Karl Ernst von Baer, 1792-1876 . Duits zoöloog aanvankelijk (1822) professor in Königsberg en later ( 1929) in St. Petersburg. Grondlegger van de moderne embryologie. 
+() - 53 Karl Ernst von Baer, 1792-1876 . Duits zoöloog aanvankelijk (1822) professor in Königsberg en later ( 1929) in St. Petersburg. Grondlegger van de moderne embryologie. 
 
-54 Ludwig Johann Rudolf Agassiz, 1807-1873, Massachusetts. Zoöloog en paleontoloog in Cambridge, MA, waar hij een museum oprichtte. 
+() - 54 Ludwig Johann Rudolf Agassiz, 1807-1873, Massachusetts. Zoöloog en paleontoloog in Cambridge, MA, waar hij een museum oprichtte. 
+
+```
+I Stralingsdieren:  
+    1. Poliepen, zeeanemonen en koraal  
+    2. Acalefen, of kwallen  
+    3. Zeesterren, zee-egels  
+II Weekdieren:  
+    4. Acephala (oesters, enz.)  
+    5. Gasteropoda (slakken)  
+    6. Cephalopoda  
+III Geledingsdieren:  
+    7. Wormen  
+    8. Schaaldieren (kreeften, enz.)  
+    9. Insecten  
+IV Gewervelden:  
+    10. Vissen  
+    11. Reptielen  
+    12. Vogels  
+    13. Zoogdieren  
+```
 
 De eerste drie afdelingen komen met de overblijvende drie rondten uit de Mercuriushelft van de Aardeperiode overeen en de negen niveaus erin cor responderen met de negen graden van de kleine mysteriën die de meeste men sen tegen het midden van de laatste rondte van de Aardeperiode bereikt zal hebben. 
 
-De vierde afdeling op de lijst van het zich ontwikkelende dierenrijk heeft vier onderafdelingen: vissen, reptielen, vogels en zoogdieren. De hiermee aange geven niveaus van bewustzijn komen overeen met dergelijke toestanden van ontwikkeling, als de mensheid aan het einde van de Aarde-, Jupiter-, Venus en Vulcanusperiode bereikt zal hebben en die elke daarvoor geschikte persoon nu door inwijding kan verkrijgen. 
-
-Diagram 15a. Klassenindeling van het dierenrijk!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
-De eerste grote inwijding geeft het niveau van bewustzijn dat de gewone mensheid aan het eind van de Aardeperiode zal hebben bereikt; de tweede die iedereen aan het einde van de Jupiterperiode zal bereiken; de derde geeft die uitbreiding van bewustzijn, die aan het einde van de Venusperiode ver kregen zal worden, terwijl de laatste aan de ingewijde de macht en de alwe tendheid verschaft die de meeste mensen pas aan het eind van de Vulcanus periode zullen krijgen. 
+De vierde afdeling op de lijst van het zich ontwikkelende dierenrijk heeft vier onderafdelingen: vissen, reptielen, vogels en zoogdieren. De hiermee aange geven niveaus van bewustzijn komen overeen met dergelijke toestanden van ontwikkeling, als de mensheid aan het einde van de Aarde-, Jupiter-, Venus en Vulcanusperiode bereikt zal hebben en die elke daarvoor geschikte persoon nu door inwijding kan verkrijgen. De eerste grote inwijding geeft het niveau van bewustzijn dat de gewone mensheid aan het eind van de Aardeperiode zal hebben bereikt; de tweede die iedereen aan het einde van de Jupiterperiode zal bereiken; de derde geeft die uitbreiding van bewustzijn, die aan het einde van de Venusperiode ver kregen zal worden, terwijl de laatste aan de ingewijde de macht en de alwe tendheid verschaft die de meeste mensen pas aan het eind van de Vulcanus periode zullen krijgen. 
 
 Het objectieve bewustzijn, waardoor wij kennis van de buitenwereld opdoen, is afhankelijk van wat wij door middel van de zintuigen waarnemen. Dit noemen wij werkelijk, in tegenstelling tot onze gedachten en ideeën die door ons gees telijk bewustzijn tot ons komen; deze schijnen ons niet even werkelijk toe als een boek of een tafel of een ander zichtbaar of tastbaar voorwerp in de ruimte. Gedachten en ideeën schijnen vaag en onwerkelijk; daarom spreken wij van maar een gedachte of slechts een idee. 
 
@@ -3428,9 +3463,11 @@ De ideeën en gedachten van onze tijd hebben echter een ontwikkeling vóór zich
 
 Bij het aanbreken van de Jupiterperiode zal er in dit opzicht een merkbare verandering komen. Dan zullen de droombeelden uit de Maanperiode terug keren, maar zij zullen aan de oproep van de denker onderworpen zijn en niet alleen maar reproducties van uiterlijke voorwerpen. Zo zal er tussen de beel den uit de Maanperiode en de bewust ontwikkelde gedachten en ideeën uit de Aardeperiode een combinatie zijn, dat wil zeggen, het zal een zelfbewust beel dend bewustzijn zijn. 
 
-Wanneer een mens uit de Jupiterperiode ‘rood’ zegt of de naam van een ding uitspreekt, dan zal zich een heldere, juiste reproductie van die specifieke kleur rood waaraan hij denkt of van het voorwerp waarover hij spreekt, aan zijn geestelijk gezicht voordoen en ook voor de luisteraar duidelijk zichtbaar zijn. Er zal geen misverstand kunnen bestaan over de eigenlijke betekenis van de gesproken woorden. Gedachten en ideeën zullen levend en zichtbaar zijn en daardoor zullen huichelarij en vleierij voor goed verdwijnen. De mensen kun nen gezien worden precies zoals zij zijn. Er zal zowel goed als kwaad bestaan, maar de twee eigenschappen zullen niet in dezelfde persoon verenigd zijn. Er zullen alleen maar door en door goede mensen en volslagen slechte mensen zijn. Een van de ernstigste problemen van die tijd zal zijn, hoe die laatste ca tegorie aan te pakken. De Manicheeën55, een orde van nog verhevener gees telijkheid dan de Rozenkruisers, zijn momenteel bezig dat probleem te bestu deren. Uit een kort overzicht van hun legende kan men zich een idee van die toekomstige toestand vormen. Alle mystieke orden bezitten een legende, het sym- bool van hun idealen en streven. In de legende van de Manicheeën is sprake van twee natuurrijken: dat van de lichtelfen en dat van de nachtelfen. De nachtelfen vallen de lichtelfen aan. De nachtelfen worden verslagen en moeten gestraft worden. Omdat de lichtelfen echter evengoed zijn als de nach telfen slecht, kunnen zij hun vijanden geen kwaad aandoen, zodat ze met goed gestraft moeten worden. Daarom wordt een deel van het rijk van de lichtelfen bij dat van de nachtelfen ingelijfd en op die manier wordt het kwaad na verloop van tijd overwonnen. Haat, die zich niet aan haat wil onderwerpen, moet voor lief- de zwichten. 
+Wanneer een mens uit de Jupiterperiode ‘rood’ zegt of de naam van een ding uitspreekt, dan zal zich een heldere, juiste reproductie van die specifieke kleur rood waaraan hij denkt of van het voorwerp waarover hij spreekt, aan zijn geestelijk gezicht voordoen en ook voor de luisteraar duidelijk zichtbaar zijn. Er zal geen misverstand kunnen bestaan over de eigenlijke betekenis van de gesproken woorden. Gedachten en ideeën zullen levend en zichtbaar zijn en daardoor zullen huichelarij en vleierij voor goed verdwijnen. De mensen kun nen gezien worden precies zoals zij zijn. Er zal zowel goed als kwaad bestaan, maar de twee eigenschappen zullen niet in dezelfde persoon verenigd zijn. Er zullen alleen maar door en door goede mensen en volslagen slechte mensen zijn. Een van de ernstigste problemen van die tijd zal zijn, hoe die laatste ca tegorie aan te pakken. De Manicheeën 55, een orde van nog verhevener gees telijkheid dan de Rozenkruisers, zijn momenteel bezig dat probleem te bestu deren. Uit een kort overzicht van hun legende kan men zich een idee van die toekomstige toestand vormen. Alle mystieke orden bezitten een legende, het sym- bool van hun idealen en streven. 
 
-55 Gesticht door Mani, een Perzische prins ca. 215-275. Een stroming binnen het christendom. 
+() - 55 Gesticht door Mani, een Perzische prins ca. 215-275. Een stroming binnen het christendom. 
+
+In de legende van de Manicheeën is sprake van twee natuurrijken: dat van de lichtelfen en dat van de nachtelfen. De nachtelfen vallen de lichtelfen aan. De nachtelfen worden verslagen en moeten gestraft worden. Omdat de lichtelfen echter evengoed zijn als de nach telfen slecht, kunnen zij hun vijanden geen kwaad aandoen, zodat ze met goed gestraft moeten worden. Daarom wordt een deel van het rijk van de lichtelfen bij dat van de nachtelfen ingelijfd en op die manier wordt het kwaad na verloop van tijd overwonnen. Haat, die zich niet aan haat wil onderwerpen, moet voor lief- de zwichten. 
 
 De geestelijke beelden uit de Maanperiode waren tot op zekere hoogte een uitdrukking van de uiterlijke omgeving van de mens. In de Jupiterperiode zul len de beelden van binnenuit gevormd worden; zij zullen de vrucht zijn van het geestelijk leven van de mens. Bovendien zal hij het vermogen bezitten dat hij in de Aardeperiode aankweekte, namelijk om dingen in de ruimte buiten zich zelf waar te nemen. In de Maanperiode zag hij niet het concrete ding, maar en kel de zieleneigenschappen ervan. In de Jupiterperiode zal hij beide zien en zodoende zijn omgeving grondig waarnemen en begrijpen. In een later stadi um in diezelfde periode zal dit waarnemingsvermogen door een nog hogere fa se opgevolgd worden. Zijn vermogen om heldere, verstandelijke begrippen van kleuren, voorwerpen of tonen te vormen, zal hem in staat stellen met bo venzinnelijke wezens, van uiteenlopende orde, in aanraking te komen, hen te beïnvloeden, zich van hun gehoorzaamheid te verzekeren en hun krachten naar wens te gebruiken. Hij zal echter niet in staat zijn om uit zichzelf de krachten uit te zenden voor het ten uitvoer brengen van zijn ontwerpen en zal van de hulp van deze bovenstoffelijke wezens, die dan voor hem klaar zul len staan, afhankelijk zijn. 
 
@@ -3442,13 +3479,23 @@ Er kan heel weinig over het hooggeestelijke bewustzijn dat aan het eind van de V
 
 Men moet niet denken dat deze bewustzijnstoestanden aan het begin van de perioden waartoe zij behoren, beginnen en tot het einde ervan duren. Men moet altijd rekening houden met het herhalingsproces en de daarmee verge zeld gaande overeenkomstige bewustzijnstoestanden op een hoger niveau. De Saturnusrondte van elke periode, het verblijf op bol A en het eerste tijdvak op elke bol, zijn herhalingen van de ontwikkelingstoestanden uit de Satur nusperiode. De Zonnerondte, het verblijf op bol B en het tweede tijdvak op elke bol, zijn herhalingen van de ontwikkelingsstadia uit de Zonneperiode en zo voort, de hele weg lang. Daaruit zal men zien dat het bewustzijn dat het speciale, karakteristieke resultaat of product van een bepaalde periode is, zijn ontwikkeling niet begint voordat alle herhalingen achter de rug zijn. Het waak bewustzijn van de Aardeperiode begon zich pas te ontwikkelen na de vierde rondte, toen de levensgolf op de vierde bol (D) beland was, en op die bol in het vierde of Atlantische tijdvak was. 
 
-Het Jupiterbewustzijn zal in de Jupiterperiode pas in de vijfde rondte be ginnen, wanneer de vijfde bol (E) bereikt is en het vijfde tijdvak op die bol begint. Daaruit volgt dat het Venusbewustzijn niet beginnen zal voor de zes de rondte op de zesde bol het zesde tijdvak bereikt heeft; en zal het specifie ke Vulcanuswerk tot de allerlaatste bol en het allerlaatste tijdvak beperkt zijn, net voor het einde van de ‘dag van openbaring’. 
+Het Jupiterbewustzijn zal in de Jupiterperiode pas in de vijfde rondte be ginnen, wanneer de vijfde bol (E) bereikt is en het vijfde tijdvak op die bol begint. 
 
-Diagram 15b. Bewustzijnsniveau in de verschillende perioden!!!!!!!!!!!!!!!!!!!!! 
+Daaruit volgt dat het Venusbewustzijn niet beginnen zal voor de zes de rondte op de zesde bol het zesde tijdvak bereikt heeft; en zal het specifie ke Vulcanuswerk tot de allerlaatste bol en het allerlaatste tijdvak beperkt zijn, net voor het einde van de ‘dag van openbaring’. 
 
 De tijd die voor het doormaken van al deze perioden afzonderlijk nodig is, is zeer verschillend. Hoe dieper de maagdelijke geesten in de stof afdalen, des te langzamer is hun vooruitgang en des te talrijker zijn de niveaus of stadia op de weg van vooruitgang. Zodra het dieptepunt van stoffelijk bestaan voorbij is en de levensgolf tot ijlere en beweeglijker toestanden opstijgt, wordt de vooruitgang geleidelijk versneld. De Zonneperiode duurt iets langer dan de Saturnusperiode en de Maanperiode is weer langer dan de Zonneperiode. De Mars- of eerste helft van de Aardeperiode is de langste helft van alle perioden. Daarna begint de duur weer af te nemen, zodat de Mercuriushelft van de Aardeperiode - de overige drieëneenhalve rondten - minder tijd in beslag zal nemen dan de Marshelft. De Jupiterperiode zal korter duren dan de Maanpe riode. De Venusperiode weer korter dan de overeenkomstige Zonneperiode; terwijl de Vulcanusperiode het kortst van alle is. 
 
 De bewustzijnstoestanden van de verschillende periode kunnen als volgt in bovenstaande tabel gerangschikt worden. 
+
+| Period  | Corresponding consciousness                        |
+| ------- | -------------------------------------------------- |
+| Saturn  | Unconsciousness corresponding to deep trance       |
+| Sun     | Unconsciousness resembling dreamless sleep         |
+| Moon    | Picture consciousness corresponding to dream state |
+| Earth   | Waking, objective consciousness                    |
+| Jupiter | Self-conscious picture consciousness               |
+| Venus   | Objective, Self-conscious, Creative consciousness  |
+| Vulcan  | Highest Spiritual Consciousness                    |
 
 Na dit algemeen overzicht van de bewustzijnstoestanden, die in de volgen de drieënhalve rondten ontwikkeld moeten worden, zullen wij nu de middelen bezien om dat doel te bereiken. 
 
@@ -3484,17 +3531,15 @@ Het gedeelte van het levenslichaam dat de levensgeest bewerkt heeft, wordt verst
 
 Het gedeelte van het stoffelijk lichaam dat de goddelijke geest heeft be werkt, wordt de bewustzijnsziel genoemd en gaat ten slotte op in de godde lijke geest, omdat het grofstoffelijk lichaam zijn stoffelijke uitstraling is. 
 
-De bewustzijnsziel groeit door handeling, uiterlijke schokken en ervaring. De aandoeningsziel groeit door gevoelens en emoties die door handelingen en ervaring opgewekt worden. 
+De bewustzijnsziel groeit door handeling, uiterlijke schokken en ervaring. 
+
+De aandoeningsziel groeit door gevoelens en emoties die door handelingen en ervaring opgewekt worden. 
 
 De verstandsziel, als bemiddelaar tussen de beide andere, groeit door de oe fening van het geheugen, waardoor zij ervaringen uit verleden en heden en de daardoor opgewekte gevoelens aaneenschakelt en zodoende sympathie en an tipathie in het leven roept, die zonder het geheugen niet konden bestaan, om dat de gevoelens, die alleen uit ervaring zijn geboren, alleen maar van voorbij gaande aard zouden zijn. 
 
 Tijdens de involutie ontwikkelde de geest zich door steeds groeiende licha men. Evolutie is echter afhankelijk van zielengroei, de omzetting van de licha men in een ziel. De ziel is om zo te zeggen de essentie, de macht of de kracht van het lichaam. Wanneer een lichaam door alle stadia en perioden heen ge heel en al opgebouwd is en tot volmaaktheid is gebracht - zoals hierboven beschreven is - dan wordt de ziel daar volledig uit verwijderd en geabsorbeerd door die van de drie aanzichten van de geest, die het lichaam aanvankelijk in het leven riep. 
 
-De bewustzijnsziel zal dus in de zevende rondte van de Jupiterperiode door de goddelijke geest geabsorbeerd worden. 
-
-De verstandsziel zal in de zesde rondte van de Venusperiode door de levensgeest geabsorbeerd worden. 
-
-De aandoeningsziel zal in de vijfde rondte van de Vulcanusperiode door de menselijke geest geabsorbeerd worden. 
+De bewustzijnsziel zal dus in de zevende rondte van de Jupiterperiode door de goddelijke geest geabsorbeerd worden. De verstandsziel zal in de zesde rondte van de Venusperiode door de levensgeest geabsorbeerd worden. De aandoeningsziel zal in de vijfde rondte van de Vulcanusperiode door de menselijke geest geabsorbeerd worden. 
 
 #### <h4 id="the-creative-word">Het scheppende Woord</h4>
 
@@ -3554,11 +3599,15 @@ De ziel is hier om door middel van haar instrumenten ervaring op te doen. Deze i
 
 Zodra wij uit onze gebruikelijke geestelijke onverschilligheid wakker zijn ge schud en er naar verlangen om vooruit te komen, rijst vanzelf de vraag: wat moet ik doen? 
 
-Zonder goed onderhouden gereedschap kan de technicus geen goede arbeid verrichten. Zo moeten ook de instrumenten van het ego schoongemaakt en geslepen zijn, voor het met enige kans van slagen aan het werk kan gaan. Naarmate wij meer met deze prachtige instrumenten werken, verbeteren zij zich door juist gebruik en worden hoe langer hoe meer voor het werk geschikt. Het doel van dit werk is vereniging met het hoger zelf. De overwinning van de lage re aard gebeurt in drie stappen, maar zij worden niet precies na elkaar gezet. In zekere zin gaan zij naast elkaar, zodat op het tegenwoordige niveau de eerste de meeste aandacht vraagt, de tweede minder en de derde nog minder. Na ver loop van tijd kan, nadat de eerste stap geheel gezet is, ook meer aandacht aan de beide andere geschonken worden. 
+Zonder goed onderhouden gereedschap kan de technicus geen goede arbeid verrichten. Zo moeten ook de instrumenten van het ego schoongemaakt en geslepen zijn, voor het met enige kans van slagen aan het werk kan gaan. Naarmate wij meer met deze prachtige instrumenten werken, verbeteren zij zich door juist gebruik en worden hoe langer hoe meer voor het werk geschikt. 
+
+Het doel van dit werk is vereniging met het hoger zelf. De overwinning van de lage re aard gebeurt in drie stappen, maar zij worden niet precies na elkaar gezet. In zekere zin gaan zij naast elkaar, zodat op het tegenwoordige niveau de eerste de meeste aandacht vraagt, de tweede minder en de derde nog minder. Na ver loop van tijd kan, nadat de eerste stap geheel gezet is, ook meer aandacht aan de beide andere geschonken worden. 
 
 Om deze drie stadia te bereiken, zijn drie hulpmiddelen gegeven. Men kan ze in de buitenwereld vinden, waar de grote leiders van de mensheid ze ge plaatst hebben. 
 
-Het eerste hulpmiddel zijn de rasgodsdiensten, die de mensheid helpen het begeertelichaam te overwinnen en haar op die manier voor vereniging met de heilige Geest voor te bereiden. De volle werking van dit hulpmiddel bleek met Pinksteren. Daar de heilige Geest de rasgod is, zijn alle talen uitdrukking van hem. Daarom spraken de leerlingen, toen zij volkomen verenigd en vervuld waren met de heilige Geest, in verschillende talen en waren zij in staat hun toe hoorders te overtuigen. Hun begeertelichamen waren voldoende gelouterd om de gewenste vereniging tot stand te brengen. Dit is een voorproefje van wat de discipel eens zal bereiken: namelijk het vermogen om alle talen te spre ken. Als voorbeeld uit de geschiedenis kunnen wij aanhalen dat de graaf de St. Germain, een van de latere belichamingen van Christian Rosencreutz, de stichter van onze heilige Orde, alle talen kende, zodat iedereen tot wie hij sprak dacht dat hij tot hetzelfde land als zij behoorden. Hij had ook de vereni ging met de heilige Geest bereikt. 
+Het eerste hulpmiddel zijn de rasgodsdiensten, die de mensheid helpen het begeertelichaam te overwinnen en haar op die manier voor vereniging met de heilige Geest voor te bereiden. 
+
+De volle werking van dit hulpmiddel bleek met Pinksteren. Daar de heilige Geest de rasgod is, zijn alle talen uitdrukking van hem. Daarom spraken de leerlingen, toen zij volkomen verenigd en vervuld waren met de heilige Geest, in verschillende talen en waren zij in staat hun toe hoorders te overtuigen. Hun begeertelichamen waren voldoende gelouterd om de gewenste vereniging tot stand te brengen. Dit is een voorproefje van wat de discipel eens zal bereiken: namelijk het vermogen om alle talen te spre ken. Als voorbeeld uit de geschiedenis kunnen wij aanhalen dat de graaf de St. Germain, een van de latere belichamingen van Christian Rosencreutz, de stichter van onze heilige Orde, alle talen kende, zodat iedereen tot wie hij sprak dacht dat hij tot hetzelfde land als zij behoorden. Hij had ook de vereni ging met de heilige Geest bereikt. 
 
 In het Hyperborese tijdvak, de tijd voordat de mens een begeertelichaam be zat, was er maar één universele manier van communiceren. Zodra het be geertelichaam voldoende gelouterd is, zullen alle mensen weer in staat zijn el kaar te begrijpen, want dan zal het scheidingbrengende rasverschil weggeval len zijn. 
 
@@ -3606,7 +3655,7 @@ Evenals de stralen van het leven, de maagdelijke geesten, bestaan er zeven oc cu
 
 Als wij de zeven stralen met de zeven kleuren van het spectrum vergelijken, kan hun onderlinge verband misschien beter begrepen worden. Als een rode straal zich bijvoorbeeld met een groene straal verbindt, zal disharmonie het ge volg zijn. Hetzelfde principe geldt voor geesten. ledereen moet met de groep waartoe hij tijdens de openbaring 56 behoort, verdergaan, en toch zijn allen één. Zoals alle kleuren in het witte licht zitten, maar de straalbreking in onze at mosfeer er de oorzaak van is dat het zich schijnbaar in zeven kleuren verdeelt, zo zijn de bedrieglijke omstandigheden van het stoffelijke bestaan er de oor zaak van, dat de maagdelijke geesten in groepen verdeeld zijn. Deze schijnbare groepering zal blijven bestaan zolang wij in deze toestand verkeren. 
 
-56 Manifestation is manifestatie, openbaring. Heindel spreekt ook van ‘A new day of mani festation’, een nieuwe dag van openbaring, een scheppingsperiode. Hiermee wordt bedoeld een ontwikkelingscyclus vanaf het begin tot aan het einde van een scheppingsperiode. 
+() - 56 Manifestation is manifestatie, openbaring. Heindel spreekt ook van ‘A new day of mani festation’, een nieuwe dag van openbaring, een scheppingsperiode. Hiermee wordt bedoeld een ontwikkelingscyclus vanaf het begin tot aan het einde van een scheppingsperiode. 
 
 De Orde van het Rozenkruis werd speciaal gesticht voor hen waarvan hun hoge graad van intellectuele ontwikkeling maakte dat zij hun hart negeerden. Het intellect vraagt dringend om een logische verklaring van alles: het wereld mysterie; de vraagstukken van leven en dood. Door het priesterlijk gebod om ‘niet te proberen de mysteriën van God te weten te komen,’ werden niet de redenen voor, en de vraag van het bestaan verklaard. 
 
@@ -3624,8 +3673,6 @@ Wanneer men anderzijds, ondanks allerlei hinderpalen, een gelijkmatig hu meur en
 
 Een streven naar veredeling van de gevoelens heeft ook uitwerking op de andere voertuigen en helpt mee om ze te verbeteren. 
 
-Voedingsmiddelentabel!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 #### <h4 id="the-science-of-nutrition">De voeding</h4>
 
 Als we bij het stoffelijk lichaam beginnen en de stoffelijke middelen nagaan, waardoor wij het kunnen verbeteren en het een zo goed mogelijk instrument voor de geest maken en daarna de geestelijke middelen te bezien die tot dat zelfde doel leiden, dan geldt dit ook voor de andere voertuigen; daarom zul len wij die methode volgen. 
@@ -3636,7 +3683,9 @@ Tijdens de vorming van dit geraamte neemt de omgevende weke stof toe en verander
 
 Dit verdichtingsproces, dat vanaf de eerst zichtbare bestaanstoestand begon, gaat steeds door. Het wezen maakt de verschillende stadia van jeugd, volwas sen mannelijke of vrouwelijke leeftijd door en komt ten slotte aan de veran dering die men dood noemt. 
 
-Elk stadium kenmerkt zich door een toenemende mate van hardheid en vastheid. Er is een geleidelijke toename in dichtheid en stevigheid van de beenderen, pe zen, het kraakbeen, de gewrichten, weefsels, vliezen, omhulsels en zelfs van de weefsels van de maag, lever, longen en andere organen. De gewrichten worden stijf en droog. Ze beginnen bij het bewegen te kraken, omdat het ge wrichtsvocht, dat de gewrichten smeert en zacht maakt, afneemt en te dik en stroperig wordt. 
+Elk stadium kenmerkt zich door een toenemende mate van hardheid en vastheid. 
+
+Er is een geleidelijke toename in dichtheid en stevigheid van de beenderen, pe zen, het kraakbeen, de gewrichten, weefsels, vliezen, omhulsels en zelfs van de weefsels van de maag, lever, longen en andere organen. De gewrichten worden stijf en droog. Ze beginnen bij het bewegen te kraken, omdat het ge wrichtsvocht, dat de gewrichten smeert en zacht maakt, afneemt en te dik en stroperig wordt. 
 
 Het hart, de hersenen en het hele spierstelsel, het ruggenmerg, de zenuwen, de ogen enzovoort, delen in hetzelfde verhardingsproces en worden steeds stijver. De miljoenen haarvaten die, als de takken van een boom, over het he le lichaam vertakt en verspreid zijn, raken langzamerhand vernauwd en veran deren in dichtgeslibde adertjes, die niet langer het bloed doorlaten. 
 
@@ -3656,19 +3705,15 @@ Het eten en drinken waarmee het lichaam gevoed wordt, moet eveneens de voornaams
 
 De huid en de urinewegen behoeden de mens voor een vroegtijdige dood. Waren die er niet om het grootste gedeelte van de verhardende bestanddelen in ons voedsel te verwijderen, dan zou niemand ouder dan tien jaar worden. 
 
-Er wordt geschat dat gewoon, ongedistilleerd bronwater zoveel carbonaat en andere kalkhoudende bestanddelen bevat, dat de gewone hoeveelheid die door één mens per dag in de vorm van thee, koffie, soep, enzovoort gebruikt wordt, in veertig jaar een blok stevig krijt of marmer ter hoogte van een grote man vormt. Ook is het tekenend, dat hoewel kalkfosfaat altijd in de urine van volwassenen gevonden wordt, het bij kinderen niet in de urine voorkomt, om dat het voor de snelle botvorming nodig is dat deze kalk wordt vastgehouden. 
-
-Tijdens de zwangerschap is er in de urine van de moeder heel weinig aardse stof, omdat die voor het opbouwen van de foetus gebruikt wordt. In normale omstandigheden echter komt er veel aardse stof in de urine van volwassenen voor. Hieraan danken wij het feit dat het stoffelijk bestaan zo lang voortduurt. 
+Er wordt geschat dat gewoon, ongedistilleerd bronwater zoveel carbonaat en andere kalkhoudende bestanddelen bevat, dat de gewone hoeveelheid die door één mens per dag in de vorm van thee, koffie, soep, enzovoort gebruikt wordt, in veertig jaar een blok stevig krijt of marmer ter hoogte van een grote man vormt. Ook is het tekenend, dat hoewel kalkfosfaat altijd in de urine van volwassenen gevonden wordt, het bij kinderen niet in de urine voorkomt, om dat het voor de snelle botvorming nodig is dat deze kalk wordt vastgehouden. Tijdens de zwangerschap is er in de urine van de moeder heel weinig aardse stof, omdat die voor het opbouwen van de foetus gebruikt wordt. In normale omstandigheden echter komt er veel aardse stof in de urine van volwassenen voor. Hieraan danken wij het feit dat het stoffelijk bestaan zo lang voortduurt. 
 
 Ongedistilleerd water voor inwendig gebruik is de grootste vijand van de mens; bij uitwendig gebruik echter wordt het zijn beste vriend. Het houdt de poriën open, bevordert de bloedsomloop en belet de stremming die de hoofd oorzaak is van het afzetten van het verhardende, tot de dood leidende, kalkfos faat. 
 
 Harvey 57, de ontdekker van de bloedsomloop, zei dat gezondheid op een on belemmerde bloedsomloop wijst, terwijl ziekte het gevolg is van een slechte bloedcirculatie. 
 
-57 William Harvey, 1578-1657. Brits anatoom die in 1628 de bloedsomloop ontdekte. 
+() - 57 William Harvey, 1578-1657. Brits anatoom die in 1628 de bloedsomloop ontdekte. 
 
-Voor het bewaren van de gezondheid van het lichaam is het bad een goed hulpmiddel en moet door de aspirant naar geestelijk leven niet gemeden wor den. Transpiratie, merkbaar of niet, is het beste middel om afvalstoffen uit het lichaam te verwijderen. 
-
-Zolang er toevoer van brandstof is en het vuur vrij van as wordt gehouden, zal het branden. Bij het afvoeren van afvalstoffen uit het lichaam spelen de nieren een belangrijke rol. Maar ondanks de grote hoeveelheid aardse stof, die door de urine verwijderd wordt, blijft er vaak nog genoeg over voor het vormen van gruis en stenen in de blaas, waarvan ondragelijke pijn en soms de dood, het gevolg is. 
+Voor het bewaren van de gezondheid van het lichaam is het bad een goed hulpmiddel en moet door de aspirant naar geestelijk leven niet gemeden wor den. Transpiratie, merkbaar of niet, is het beste middel om afvalstoffen uit het lichaam te verwijderen. Zolang er toevoer van brandstof is en het vuur vrij van as wordt gehouden, zal het branden. Bij het afvoeren van afvalstoffen uit het lichaam spelen de nieren een belangrijke rol. Maar ondanks de grote hoeveelheid aardse stof, die door de urine verwijderd wordt, blijft er vaak nog genoeg over voor het vormen van gruis en stenen in de blaas, waarvan ondragelijke pijn en soms de dood, het gevolg is. 
 
 U moet niet denken dat water minder kalk bevat als het gekookt is. De kalk die zich op de bodem van de waterketel afzet, is daar door het verdampte wa ter, dat als stoom uit de ketel ontsnapte, achtergelaten. Als stoom conden seert krijgen wij gedistilleerd water, dat een belangrijke factor is om het lichaam jong te houden. 
 
@@ -3694,33 +3739,72 @@ Als wij het lichaam vanuit een zuiver stoffelijk standpunt bezien, zouden wij he
 
 Evenmin dienen wij de gezondheidstoestand van iemand naar zijn uiterlijk te beoordelen. Meestal gaat men af op enkele algemene kenmerken waaraan een gezond iemand moet voldoen om er gezond uit te zien, maar voor een dergelijk oordeel is geen enkele grond. Blozende wangen kunnen bij de een teken van gezondheid zijn en bij de ander een symptoom van ziekte. Er be staat geen enkele vaste regel waaraan men gezondheid kan herkennen, behal ve een behaaglijk gevoel en een gevoel van welzijn dat men zelf, ondanks alle uiterlijke schijn, heeft. 
 
-Water is het grote oplosmiddel. Eiwitten of proteïne is de eigenlijke bou wer van vlees, maar bevat ook enkele mineralen. Koolhydraten, als suikers, glucose en zetmeel, zijn de voornaamste energieleveranciers. Vetten produ ceren warmte en is de voorraadschuur van reservekracht. As is van minerale aard en verstopt het lichaam. Wij hoeven niet bang te zijn dat wij er niet ge noeg van binnenkrijgen om onze botten op te bouwen; integendeel. Wij kun nen niet voorzichtig genoeg zijn om er zo weinig mogelijk van binnen te krijgen. 
+The table of foods here given deals with five chemical compounds. 
 
-Een calorie is de voedingswaarde van levensmiddelen. 1 calorie is ongeveer 4,18 joule. Eén calorie is de hoeveelheid warmte die nodig is om 1 gram zui ver water 1 graad C in temperatuur te doen stijgen; 1 kilocalorie, kcal., om 1 kilogram water 1 graad C in temperatuur te doen stijgen. De voedingsmidde lentabel wijst het aantal kcal. aan dat in elk voedingsmiddel voorkomt. On gepelde noten hebben een groot percentage afval, de doppen; maar de kern bevat een groot aantal kilocalorieën. Om dus de grootste hoeveelheid voe dingswaarde uit ons voedsel te halen, moeten wij letten op het aantal kiloca lorieën dat het bevat, want daaruit putten wij de nodige energie voor ons da gelijks werk. Het aantal calorieën dat nodig is om ons lichaam onder verschil lende omstandigheden te onderhouden is weergegeven in de volgende calo rieëntabel: 
+Water is het grote oplosmiddel. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+Eiwitten of proteïne is de eigenlijke bou wer van vlees, maar bevat ook enkele mineralen. 
+
+Koolhydraten, als suikers, glucose en zetmeel, zijn de voornaamste energieleveranciers. 
+
+Vetten produ ceren warmte en is de voorraadschuur van reservekracht.
+
+As is van minerale aard en verstopt het lichaam. Wij hoeven niet bang te zijn dat wij er niet ge noeg van binnenkrijgen om onze botten op te bouwen; integendeel. Wij kun nen niet voorzichtig genoeg zijn om er zo weinig mogelijk van binnen te krijgen. 
+
+Een calorie is de voedingswaarde van levensmiddelen. 1 calorie is ongeveer 4,18 joule. Eén calorie is de hoeveelheid warmte die nodig is om 1 gram zui ver water 1 graad C in temperatuur te doen stijgen; 1 kilocalorie, kcal., om 1 kilogram water 1 graad C in temperatuur te doen stijgen. De voedingsmidde lentabel wijst het aantal kcal. aan dat in elk voedingsmiddel voorkomt. On gepelde noten hebben een groot percentage afval, de doppen; maar de kern bevat een groot aantal kilocalorieën. Om dus de grootste hoeveelheid voe dingswaarde uit ons voedsel te halen, moeten wij letten op het aantal kiloca lorieën dat het bevat, want daaruit putten wij de nodige energie voor ons da gelijks werk. Het aantal calorieën dat nodig is om ons lichaam onder verschil lende omstandigheden te onderhouden is weergegeven in de volgende calorieëntabel: 
+
+|                                        |               |
+| -------------------------------------- | ------------- |
+| Man at very hard muscular work         | 5500 Calories |
+| Man at moderately hard muscular work   | 4150 Calories |
+| Man at moderately active muscular work | 3400 Calories |
+| Man at moderately light work           | 3050 Calories |
+| Man at sedentary work                  | 2700 Calories |
+| Man without muscular exercise          | 2450 Calories |
+| Woman at light to moderate manual work | 2450 Calories |
 
 Uit de voedingsmiddelentabel blijkt dat chocolade het voedzaamste product is dat wij hebben, maar ook dat cacaopoeder het gevaarlijkste voedingsmiddel is omdat het drie- tot tienmaal zoveel as of mineralen bevat als de meeste ande re producten. Het is voedzaam voedsel, maar ook erg schadelijk, want het ver stopt het lichaam sneller dan welk ander voedingsmiddel ook. 
 
 Het zal in het begin natuurlijk wat studie vereisen voordat wij voor onszelf de juiste voeding hebben vastgesteld. Maar die moeite wordt beloond door ge zondheid en een lang leven. En biedt de zekerheid van een goed functione rend lichaam, waardoor het studie, en het zich wijden aan geestelijke zaken, mogelijk maakt. Na enige tijd bent u zo met dit onderwerp vertrouwd, dat u er geen speciale aandacht meer aan hoeft te besteden. 
 
-Hoewel de voedingsmiddelentabel de verhoudingen weergeeft van de schei kundige bestanddelen die elk product bevat, dient u te bedenken dat niet al les voor gebruik in ons lichaam geschikt is, omdat een bepaald gedeelte ervan niet wordt opgenomen. Van groenten verteren wij maar 83% van de prote inen (eiwitten), 90% van het vet, en 95% van de koolhydraten of suikers. Van vruchten assimileren wij ongeveer 85% van de eiwitten, 90% vet , en 90% suikers. 
+Hoewel de voedingsmiddelentabel de verhoudingen weergeeft van de schei kundige bestanddelen die elk product bevat, dient u te bedenken dat niet al les voor gebruik in ons lichaam geschikt is, omdat een bepaald gedeelte ervan niet wordt opgenomen. 
 
-De hersenen zijn het coördinerende stelsel waardoor de lichaamsbewegingen geregeld worden en onze ideeën worden uitgedrukt. Zij zijn uit dezelfde be standdelen opgebouwd als alle andere lichaamsdelen, maar bevatten boven dien fosfor, een stof die specifiek is voor de hersenen. De logische gevolg trekking is dat fosfor het specifieke element is waardoor het ego in staat is gedachten uit te drukken, en zijn grofstoffelijk lichaam te beïnvloeden. Ook blijkt dat de hoeveelheid fosfor gelijke tred houdt met de kwaliteit en het ni veau van intelligentie van iemand. Idioten hebben heel weinig fosfor in hun hersenen, scherpe denkers veel. Ook in het dierenrijk is het niveau van be wustzijn en intelligentie evenredig aan de hoeveelheid fosfor in hun herse nen. Het is daarom belangrijk dat u, die uw lichaam voor verstandelijk en gees telijk werk wilt gebruiken uw hersenen van fosfor voorziet. De meeste groen ten en vruchten bevatten een bepaalde hoeveelheid fosfor, maar het is merk waardig dat het loof, dat meestal wordt weggegooid, de grootste hoeveelheid hiervan bevat. Er zit veel fosfor in druiven, uien, salie, bonen, kruidnagelen, ananas, in de bladeren en stengels van veel groenten en in het vocht uit suiker riet, maar niet in geraffineerde suiker. 
+Van groenten verteren wij maar 83% van de prote inen (eiwitten), 90% van het vet, en 95% van de koolhydraten of suikers. 
 
-In onderstaande tabel ziet u de verhouding aan fosforzuur in enkele pro ducten: 
+Van vruchten assimileren wij ongeveer 85% van de eiwitten, 90% vet , en 90% suikers. 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
+De hersenen zijn het coördinerende stelsel waardoor de lichaamsbewegingen geregeld worden en onze ideeën worden uitgedrukt. Zij zijn uit dezelfde be standdelen opgebouwd als alle andere lichaamsdelen, maar bevatten boven dien fosfor, een stof die specifiek is voor de hersenen. 
+
+De logische gevolg trekking is dat fosfor het specifieke element is waardoor het ego in staat is gedachten uit te drukken, en zijn grofstoffelijk lichaam te beïnvloeden. Ook blijkt dat de hoeveelheid fosfor gelijke tred houdt met de kwaliteit en het ni veau van intelligentie van iemand. Idioten hebben heel weinig fosfor in hun hersenen, scherpe denkers veel. Ook in het dierenrijk is het niveau van be wustzijn en intelligentie evenredig aan de hoeveelheid fosfor in hun herse nen. 
+
+Het is daarom belangrijk dat u, die uw lichaam voor verstandelijk en gees telijk werk wilt gebruiken uw hersenen van fosfor voorziet. De meeste groen ten en vruchten bevatten een bepaalde hoeveelheid fosfor, maar het is merk waardig dat het loof, dat meestal wordt weggegooid, de grootste hoeveelheid hiervan bevat. Er zit veel fosfor in druiven, uien, salie, bonen, kruidnagelen, ananas, in de bladeren en stengels van veel groenten en in het vocht uit suiker riet, maar niet in geraffineerde suiker. 
+
+In onderstaande tabel ziet u de verhouding aan fosforzuur in enkele producten: 
+
+| 100,000 Parts of:   | contain, of phosphoric acid, |
+| ------------------- | ---------------------------- |
+| Barley, dry,        | 210 parts                    |
+| Beans               | 292 parts                    |
+| Beets               | 167 parts                    |
+| Beets, Leaves of    | 690 parts                    |
+| Buckwheat           | 170 parts                    |
+| Carrots, dry        | 395 parts                    |
+| Carrots, Leaves of  | 963 parts                    |
+| Linseed             | 880 parts                    |
+| Linseed, Stalks of  | 118 parts                    |
+| Parsnips            | 111 parts                    |
+| Parsnips, Leaves of | 1784 parts                   |
+| Peas                | 190 parts                    |
 
 De essentie van het voorgaande kan als volgt worden samengevat: 
 
-1. Het lichaam staat tijdens zijn hele leven bloot aan een verhardingsproces. 
+1\. Het lichaam staat tijdens zijn hele leven bloot aan een verhardingsproces. 
 
-2. Tijdens dit proces worden door het bloed minerale bestanddelen, vooral kalkfosfaat en kalkcarbonaat afgezet, waardoor de verschillende delen stijf en hard worden of verkalken. 
+2\. Tijdens dit proces worden door het bloed minerale bestanddelen, vooral kalkfosfaat en kalkcarbonaat afgezet, waardoor de verschillende delen stijf en hard worden of verkalken. 
 
-3. Deze verkalking doet de elasticiteit van de bloedvaten, spieren en bewegen de lichaamsdelen, teniet. Zij maakt het bloed stroperig en verstopt de haar vaten, zodat de circulatie vermindert, waarvan het einde de dood is. 
+3\. Deze verkalking doet de elasticiteit van de bloedvaten, spieren en bewegen de lichaamsdelen, teniet. Zij maakt het bloed stroperig en verstopt de haar vaten, zodat de circulatie vermindert, waarvan het einde de dood is. 
 
-4. Dit verhardingsproces kan worden vertraagd en men kan het leven verleng en door voedsel, dat veel mineralen bevat, te mijden en voor inwendig ge bruik gedistilleerd water te gebruiken. En door regelmatig douchen de uit scheiding via de huid te bevorderen. 
+4\. Dit verhardingsproces kan worden vertraagd en men kan het leven verleng en door voedsel, dat veel mineralen bevat, te mijden en voor inwendig ge bruik gedistilleerd water te gebruiken. En door regelmatig douchen de uit scheiding via de huid te bevorderen. 
 
 Het voorgaande is de reden waarom sommige godsdiensten regelmatige was singen als een godsdienstige oefening voorschreven. Zij bevorderen immers de gezondheid en reinigen het stoffelijk lichaam. Zo werd eveneens vasten voorgeschreven. Dit geeft de maag rust en stelt het lichaam in staat zich te ontslakken. Als dit niet te vaak wordt herhaald en te lang wordt volgehouden bevordert het de gezondheid. Men kan echter vaak meer bereiken door het lichaam van het juiste voedsel te voorzien, omdat dit het beste medicijn is. 
 
@@ -3766,23 +3850,25 @@ De eerste wet in het occultisme luidt: ‘Je zult niet doden.’ Dat moet voor d
 
 Ella Wheeler Wilcox, die bezield was met het ware mededogen dat alle ver gevorderde zielen kenmerkt, verdedigde deze occulte stelregel in de volgende fraaie bewoordingen: 
 
-    I am the voice of the voiceless; Ik ben de stem van de stemlozen,   
-    Through me the dumb shall speak de stommen spreken door mij.   
-    Till a deaf world’s ear Dat voor ‘s werelds dove oren   
-    Shall be made to hear mijn roepstem niet meer gaat verloren   
-    the wrongs of the wordless weak. voor wat hulpeloos is en onvrij.   
+```
+Ik ben de stem van de stemlozen,   
+de stommen spreken door mij.   
+Dat voor ‘s werelds dove oren   
+mijn roepstem niet meer gaat verloren   
+voor wat hulpeloos is en onvrij.   
 
-    The same force formed the sparrow De mus en de mens, de koning,   
-    That fashioned man, the king. hen schiep toch dezelfde kracht.   
-    The God of the Whole Heeft God niet aan allen gegeven   
-    gave a spark of soul hetzelfde verlangen tot leven,   
-    To furred and feathered thing. aan wie veren draagt of een vacht?   
+De mus en de mens, de koning,   
+hen schiep toch dezelfde kracht.   
+Heeft God niet aan allen gegeven   
+hetzelfde verlangen tot leven,   
+aan wie veren draagt of een vacht?   
 
-    And I am my brother’s keeper; En ik ben mijn broeders hoeder;   
-    And I will fight his fight, voor zwakken sta ik steeds op post.   
-    And speak the word Voor dieren zal ‘k blijven strijden,   
-    For beast and bird en aan hen mijn pleidooien wijden,   
-    Till the world shall set things right. totdat men hen van onrecht verlost.   
+En ik ben mijn broeders hoeder;   
+voor zwakken sta ik steeds op post.   
+Voor dieren zal ‘k blijven strijden,   
+en aan hen mijn pleidooien wijden,   
+totdat men hen van onrecht verlost.   
+```
 
 Soms hoort men de bedenking dat het leven ook ontnomen wordt wanneer men groenten en fruit eet, maar die gedachte is niet juist. Wanneer een vrucht rijp is heeft zij haar doel bereikt, namelijk als baarmoeder te dienen waarin het zaad kan rijpen. Wordt de vrucht niet gegeten, dan verrot zij en kun je haar weggooien. Bovendien is zij bestemd om als voedsel voor het dieren- en men senrijk te dienen, waardoor het zaad gelegenheid tot groei krijgt als het in een vruchtbare bodem wordt uitgestrooid. Zoals ook de eicel en het zaad van men selijke wezens zonder het zaadatoom van het ego dat geboren wil worden en de matrijs van zijn levenslichaam zonder uitwerking blijven, zo is elk ei of zaad op zichzelf zonder leven. Als men het de juiste voorwaarden van een broed machine geeft of een vruchtbare bodem, dan stroomt het leven van de groeps geest erin, waardoor de geboden gelegenheid tot het voortbrengen van een stoffelijk lichaam wordt benut. Wordt het ei of het zaad gekookt of gemalen, of krijgt het niet de voorwaarden die voor het leven nodig zijn, dan gaat de gelegenheid voorbij, dat is alles. 
 
@@ -3796,8 +3882,6 @@ Laten wij nu terugkeren naar onze beschouwing over de geestelijke hulpmid delen 
 
 Het gebed dat met de behoeften van het levenslichaam verband houdt, luidt: ‘Vergeef ons onze schulden zoals ook wij onze schuldenaren hebben verge ven.’ 
 
-Diagram 16, Het Onze Vader!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Het levenslichaam is de zetel van het geheugen. Daarin zijn de onderbewuste verslagen van alle afgelopen gebeurtenissen uit ons leven, of het nou goed of kwaad is, opgestapeld, inclusief al het aangedane of geleden onrecht, alle ont vangen of geschonken weldaden. Wij weten dat, zodra het leven het stoffelijk lichaam bij de dood verlaat, een verslag ervan aan deze beelden ontleend wordt en dat al het lijden van het post mortem bestaan het resultaat is van de gebeur tenissen die door deze beelden uitgedrukt worden. 
 
 Als wij door herhaald gebed vergeving krijgen voor het onrecht dat wij an deren aangedaan hebben; als wij het zoveel mogelijk goed maken, onze levens lichamen zuiveren door hen te vergeven die ons kwaad gedaan hebben en elk gevoel van wrok uitroeien, dan besparen wij ons veel ellende na de dood, ter wijl wij tegelijkertijd de weg voor universele broederschap bereiden, die hoofdzakelijk van de overwinning van het levenslichaam op het begeerteli chaam afhangt. Het begeertelichaam drukt het idee van vergelding in de vorm van geheugen op het levenslichaam af. Een gelijkmatig humeur onder de tal rijke ergernissen van het dagelijks leven, geeft blijk van een dergelijke over winning. Daarom moet u uw opvliegendheid leren beheersen, omdat dit een vooruitgang van beide lichamen betekent. Ook het Onze Vader heeft dit tot doel. Want zodra wij inzien dat wij anderen onrecht aandoen, kijken wij om ons heen en proberen wij de oorzaak op te sporen. Boos worden is één van de oorzaken en wortelt in het begeertelichaam. 
@@ -3808,7 +3892,13 @@ Het gebed voor het begeertelichaam luidt: ‘Breng ons niet in beproeving.’ Be
 
 Hartstocht, rijkdom, macht en roem, zijn de vier grote drijfveren tot mense lijk handelen. Begeerte naar een of meer hiervan is de drijfveer voor alles wat de mens doet of nalaat. De verheven leiders van de mensheid hebben ze wijse lijk als drijfveren tot handelen gegeven, zodat de mens ervaring kan opdoen en daardoor kan leren. Zij zijn noodzakelijk en u kunt dan ook veilig voortgaan met ze als drijfveer tot handelen te gebruiken, maar u moet ze in iets hogers omzetten. U moet de egoïstische liefde die streeft naar het bezit van het li chaam van een ander, door edeler aspiraties zien te overwinnen; evenals de be geerte naar rijkdom, macht en roem uit bekrompen, persoonlijke redenen. 
 
-U moet alleen maar verlangen naar die liefde die gericht is op de ziel, en ie dereen, van hoog tot laag, omvat en die groeit naarmate de behoeften van de ontvanger groter zijn. Alleen maar verlangen naar die rijkdom, die een over vloed aan gelegenheden biedt om de mensheid te dienen. Alleen verlangen naar die macht, die tot verheffing van de mensheid leidt. Alleen verlangen naar die roem die de bekwaamheid om het evangelie te verspreiden verhoogt, zo dat iedereen die lijdt snel verlichting voor de zorgen van zijn hart mag vinden. 
+U moet alleen maar verlangen naar die liefde die gericht is op de ziel, en ie dereen, van hoog tot laag, omvat en die groeit naarmate de behoeften van de ontvanger groter zijn. 
+
+Alleen maar verlangen naar die rijkdom, die een over vloed aan gelegenheden biedt om de mensheid te dienen. 
+
+Alleen verlangen naar die macht, die tot verheffing van de mensheid leidt. 
+
+Alleen verlangen naar die roem die de bekwaamheid om het evangelie te verspreiden verhoogt, zo dat iedereen die lijdt snel verlichting voor de zorgen van zijn hart mag vinden. 
 
 Het gebed voor het verstand is: ‘Bescherm ons tegen het kwaad.’ Wij heb ben gezien dat het verstand de schakel tussen de hogere en de lagere aard is. De dieren mogen hun begeerten onbelemmerd volgen. Voor hen bestaat noch goed, noch kwaad, omdat zij het verstand, het vermogen om te onderschei den, missen. De methode van zelfbescherming die wij volgen met betrekking tot dieren die moorden en stelen, is verschillend van die, welke wij met be trekking tot mensen, die hetzelfde doen, toepassen. Zelfs een mens, die van zijn verstand beroofd is, wordt als ontoerekeningsvatbaar beschouwd. Men erkent dat hij niet weet dat hij kwaad doet en daarom wordt het hem eenvou dig belet. 
 
@@ -3834,7 +3924,7 @@ Ten slotte stemmen alle drie de aanzichten van de drievoudige geest in de mens s
 
 De inleiding: ‘Onze Vader in de hemelen,’ is niets anders dan het adres op een envelop. De toevoeging58: ‘Want u is het koninkrijk en de kracht en de heerlijkheid, tot in eeuwigheid, Amen,’ werd niet door Christus zelf gegeven, maar is zeer geschikt als slot van de aanbidding van de drievoudige geest, waar hij zijn rechtstreekse gesprek tot God eindigt. 
 
-58 Deze toevoeging aan het einde van vers 13, is in de nieuwe vertaling weggelaten. 
+() - 58 Deze toevoeging aan het einde van vers 13, is in de nieuwe vertaling weggelaten. 
 
 Diagram 16 brengt het voorgaande op eenvoudige en gemakkelijk te onthou den manier in beeld en toont door gelijke kleuren het verband tussen de ver schillende gebeden en de overeenkomstige voertuigen. 
 
@@ -3846,9 +3936,7 @@ Als de mens zich daarentegen aan geestelijke gedachten overgeeft, dan is de neig
 
 Dat is de reden waarom de ingewijde op een bepaald niveau van zijn of haar ontwikkeling, de gelofte van het celibaat aflegt. Het is geen gemakkelijke gelof te, geen gelofte die iedereen, die begerig is naar geestelijke vooruitgang, zo maar lichtvaardig af kan leggen. Veel mensen die nog niet rijp zijn voor het geestelijk leven, hebben zich in onwetendheid tot een ascetisch leven verbon den. Aan de ene kant zijn zij even gevaarlijk voor de gemeenschap en voor zichzelf, als de geestelijk gestoorde seksuele maniak aan de andere kant is. 
 
-In het tegenwoordige stadium van onze ontwikkeling is de geslachtsfunctie het middel waardoor lichamen voortgebracht worden waardoor de geest erva ring op kan doen. 
-
-De mensen die het vruchtbaarst zijn en de voortplantingsdrang vrijuit bot vieren, behoren tot de laagste klassen. Zodoende is het moeilijk voor perso nen die geboren willen worden om goede voertuigen te vinden in een omge ving, waar zij hun vermogens op zo’n manier kunnen ontvouwen, dat zij zelf en de rest van de mensheid er blijvend nut van hebben. Want onder de beter gesitueerde klassen, die gunstiger omstandigheden kunnen bieden, zijn er ve len die weinig of helemaal geen kinderen hebben. Niet omdat zij zich van de geslachtsgemeenschap onthouden, maar om de louter egoïstische reden dat zij meer gemak en vrije tijd hebben, en zonder de last van een groot gezin aan onbeperkte seksuele bevrediging kunnen toegeven. Onder de minder gegoe de middengroep worden de gezinnen ook beperkt gehouden. Maar in dit ge val gedeeltelijk om economische redenen, zodat de ouders aan één of twee kinderen alle voordelen van opvoeding en dergelijke kunnen geven, waarin zij door hun beperkte inkomen er onmogelijk vier of vijf kunnen laten delen. 
+In het tegenwoordige stadium van onze ontwikkeling is de geslachtsfunctie het middel waardoor lichamen voortgebracht worden waardoor de geest erva ring op kan doen. De mensen die het vruchtbaarst zijn en de voortplantingsdrang vrijuit bot vieren, behoren tot de laagste klassen. Zodoende is het moeilijk voor perso nen die geboren willen worden om goede voertuigen te vinden in een omge ving, waar zij hun vermogens op zo’n manier kunnen ontvouwen, dat zij zelf en de rest van de mensheid er blijvend nut van hebben. Want onder de beter gesitueerde klassen, die gunstiger omstandigheden kunnen bieden, zijn er ve len die weinig of helemaal geen kinderen hebben. Niet omdat zij zich van de geslachtsgemeenschap onthouden, maar om de louter egoïstische reden dat zij meer gemak en vrije tijd hebben, en zonder de last van een groot gezin aan onbeperkte seksuele bevrediging kunnen toegeven. Onder de minder gegoe de middengroep worden de gezinnen ook beperkt gehouden. Maar in dit ge val gedeeltelijk om economische redenen, zodat de ouders aan één of twee kinderen alle voordelen van opvoeding en dergelijke kunnen geven, waarin zij door hun beperkte inkomen er onmogelijk vier of vijf kunnen laten delen. 
 
 Zo oefent de mens zijn goddelijk voorrecht uit, door wanorde in de natuur aan te brengen. Ego's die geboren willen worden, moeten zich vaak met on gunstige omstandigheden tevreden stellen. Andere ego's die dit niet kunnen doen, moeten wachten totdat er zich een gunstiger omgeving voordoet. Zo beïnvloeden wij elkaar door onze handelingen en laat ‘de schuld van de ou ders de kinderen en kleinkinderen boeten’ Ex. 34:7. Want omdat de heilige Geest de scheppende energie in de natuur is, is de scheppingskracht de weer kaatsing ervan in de mens. Misbruik van dat vermogen is dan ook een zonde die niet vergeven wordt, maar waarvoor in een verminderde werking van de verschillende voertuigen geboet moet worden, opdat wij de heiligheid van de scheppingskracht grondig zullen leren kennen. 
 
@@ -3898,7 +3986,9 @@ Daaruit volgt dat de geoefende helderziende, die echt iets te bieden heeft, nooi
 
 Geoefende helderziendheid wordt voor het onderzoeken van occulte feiten gebruikt en dit is het enige doel waarvoor het gebruikt mag worden. Daarom moet de kandidaat niet uit pure nieuwsgierigheid, maar door een zuiver en onzelfzuchtig verlangen om de mensheid te helpen, gedreven worden. Alleen als een dergelijk verlangen bestaat, kan werkelijke voorruitgang om ware, po sitieve helderziendheid te verkrijgen, gemaakt worden. 
 
-In de tijd die sinds het Lemurische tijdvak verlopen is, heeft de mensheid ge leidelijk het cerebrospinale zenuwstelsel, dat onder het gezag van de wil staat, opgebouwd. In het laatste gedeelte van het Atlantische tijdvak was dit zo ver ontwikkeld, dat het voor het ego mogelijk was volledig bezit van zijn grofstof felijk lichaam te nemen. Dit was de tijd, eerder beschreven, waarop het punt in het levenslichaam in contact kwam met het punt bij de neuswortel in het stoffelijk lichaam, en de inwonende geest in de stoffelijke wereld tot ontwa ken kwam. Maar bovendien de meerderheid van de mensheid het bewustzijn van de geestelijke werelden verloor. Sinds die tijd is de verbinding van de epify se en de hypofyse met het cerebrospinale zenuwstel langzaam gegroeid en is nu bijna voltooid. 
+In de tijd die sinds het Lemurische tijdvak verlopen is, heeft de mensheid ge leidelijk het cerebrospinale zenuwstelsel, dat onder het gezag van de wil staat, opgebouwd. In het laatste gedeelte van het Atlantische tijdvak was dit zo ver ontwikkeld, dat het voor het ego mogelijk was volledig bezit van zijn grofstof felijk lichaam te nemen. Dit was de tijd, eerder beschreven, waarop het punt in het levenslichaam in contact kwam met het punt bij de neuswortel in het stoffelijk lichaam, en de inwonende geest in de stoffelijke wereld tot ontwa ken kwam. Maar bovendien de meerderheid van de mensheid het bewustzijn van de geestelijke werelden verloor. 
+
+Sinds die tijd is de verbinding van de epify se en de hypofyse met het cerebrospinale zenuwstel langzaam gegroeid en is nu bijna voltooid. 
 
 Om opnieuw contact met de geestelijke werelden te krijgen, is het enige wat nog gedaan moet worden het opnieuw wakker schudden van de hypofy se en de epifyse. Zodra dat tot stand is gebracht, zal de mens opnieuw zijn waarnemingsvermogen van de geestelijke werelden terug krijgen, maar nu uit gebreider dan vroeger, omdat het dan met het cerebrospinale zenuwstelsel in verband staat en daardoor onder gezag van zijn wil staat. Door dit geestelijke waarnemingsvermogen, zullen alle wegen naar kennis voor hem open staan en zal hij over een middel tot het opdoen van kennis beschikken, waarbij vergeleken alle andere onderzoekingsmethoden kinderspel zijn. 
 
@@ -3910,8 +4000,6 @@ Bij de meeste mensen wordt het grootste gedeelte van de scheppingskracht, dat le
 
 Zodra de aspirant naar geestelijk leven deze buitensporigheden steeds meer begint te beteugelen en zijn aandacht aan geestelijk denken en streven gaat wij den, kan de geoefende helderziende waarnemen, dat de ongebruikte schep pingskracht omhoog begint te stijgen. Zij stroomt opwaarts in steeds grotere omvang langs de weg die door de pijltjes op diagram 17 aangegeven zijn, pas seert het hart en het strottenhoofd of het ruggenmerg en het strottenhoofd of beide en gaat dan rechtstreeks tussen de hypofyse en de epifyse door naar het donkere punt bij de neuswortel [voorhoofdsholte], waar ‘de stille wachter’, de hoogste geest, verblijf houdt. 
 
-Diagram 17. De weg van de ongebruikte seksuele stromingen in: mysticus, occultist en adept!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-
 Deze stromen volgen meestal niet uitsluitend één van de twee, op het dia gram aangegeven, paden maar meestal, volgens het temperament van de aspi rant, volgt de hoofdmassa van de seksuele stromingen één pad. Bij iemand, die langs zuiver verstandelijke lijnen naar verlichting streeft, gaat de stroom in hoofdzaak langs het ruggenmerg en volgt maar een klein gedeelte de weg door het hart. Bij de mysticus, die eerder voelt dan weet, gaan de stromen naar bo ven door het hart. 
 
 Beide ontwikkelingen zich abnormaal, en eens moeten zij beide, om volko men evenwichtig te zijn, de verzuimde ontwikkeling ter hand nemen. Daarom proberen de Rozenkruisers een leer te verspreiden, die beide richtingen te vreden stelt, hoewel zij in de eerste plaats degenen die verstandelijk ingesteld zijn proberen te bereiken, omdat zij er het meest behoefte aan hebben. 
@@ -3920,7 +4008,9 @@ Deze stroom is op zichzelf echter nutteloos, ook al neemt hij de omvang van een 
 
 Wanneer de kandidaat een bepaalde tijd een dergelijk leven geleid heeft, lang genoeg om de stroom van geestelijke kracht tot stand te brengen en waardig en geschikt bevonden is om esoterisch onderricht te ontvangen, worden hem enkele oefeningen gegeven om de hypofyse in trilling te brengen. Deze trilling maakt dat de hypofyse de dichtstbijzijnde krachtlijn raakt en enigszins doet af buigen. Zie diagram 17. Die raakt op haar beurt de volgende lijn aan en zo gaat het proces voort, tot alle trillingskracht verbruikt is. Dit verloop is te vergelij ken met wat plaats vindt als men een noot op de piano aanslaat; meteen zal door een trilling, die in de andere snaren ontstaan, een aantal boventonen gaan meeklinken, die er bepaalde intervallen mee vormen. 
 
-Als door verhoogde trilling van de hypofyse de krachtlijnen voldoende opzij gebogen zijn om de epifyse te raken, is het doel bereikt: de kloof tussen de bei de organen is overbrugd. Dit is de brug tussen de zintuiglijke wereld en de be geertewereld. Zodra die brug geslagen is, wordt de mens helderziend en is hij in staat zijn blik te richten waarheen hij wil. Vaste voorwerpen worden zowel van binnen als van buiten waargenomen. Voor hem hebben ruimte en dicht heid, als hinderpalen voor waarneming, opgehouden te bestaan. Hij is nog geen geschoolde helderziende, maar hij is helderziend wanneer hij wil, een be wust helderziende dus. Zijn vermogen is totaal verschillend van dat van een medium dat meestal onbewust helderziend is en alleen maar dat kan zien wat zich aan hem of haar vertoont en hoogstens niet veel meer dan het zuiver ne gatieve vermogen bezit. Degene in wie deze brug echter eenmaal gelegd is, is altijd in bewust contact met de geestelijke werelden en hij kan de verbinding maken en verbreken net zoals hij wil. Stap voor stap leert de waarnemer de tril ling van de hypofyse zo te beheersen, dat hij met elke sfeer van de geestelijke werelden, die hij wenst te bezoeken, in aanraking kan komen. Het vermogen staat geheel onder de beheersing van zijn wil. Om zijn bewustzijn tot de be geertewereld te verheffen, hoeft hij niet in trance te gaan of iets abnormaals te doen. Hij wil eenvoudig zien en hij ziet. 
+Als door verhoogde trilling van de hypofyse de krachtlijnen voldoende opzij gebogen zijn om de epifyse te raken, is het doel bereikt: de kloof tussen de bei de organen is overbrugd. Dit is de brug tussen de zintuiglijke wereld en de be geertewereld. Zodra die brug geslagen is, wordt de mens helderziend en is hij in staat zijn blik te richten waarheen hij wil. Vaste voorwerpen worden zowel van binnen als van buiten waargenomen. Voor hem hebben ruimte en dicht heid, als hinderpalen voor waarneming, opgehouden te bestaan. 
+
+Hij is nog geen geschoolde helderziende, maar hij is helderziend wanneer hij wil, een be wust helderziende dus. Zijn vermogen is totaal verschillend van dat van een medium dat meestal onbewust helderziend is en alleen maar dat kan zien wat zich aan hem of haar vertoont en hoogstens niet veel meer dan het zuiver ne gatieve vermogen bezit. Degene in wie deze brug echter eenmaal gelegd is, is altijd in bewust contact met de geestelijke werelden en hij kan de verbinding maken en verbreken net zoals hij wil. Stap voor stap leert de waarnemer de tril ling van de hypofyse zo te beheersen, dat hij met elke sfeer van de geestelijke werelden, die hij wenst te bezoeken, in aanraking kan komen. Het vermogen staat geheel onder de beheersing van zijn wil. Om zijn bewustzijn tot de be geertewereld te verheffen, hoeft hij niet in trance te gaan of iets abnormaals te doen. Hij wil eenvoudig zien en hij ziet. 
 
 Zoals in het begin van dit werk al uitgelegd werd, moet de neofiet in de be geertewereld leren zien, of juister uitgedrukt hij moet leren begrijpen wat hij daar ziet. In de stoffelijke wereld zijn de voorwerpen ondoordringbaar en mas sief en niet steeds aan verandering blootgesteld. In de begeertewereld verande ren zij op de meest grillige manier. Voor de negatief, onbewust helderziende is dit een bron van eindeloze verwarring, en zelfs voor de neofiet die dit gebied onder leiding van een Leraar betreedt; al gauw echter bereikt de leerling een hoogte waarop de vorm zo vaak veranderen mag als hij maar wil; hij kan het le ven dat de verandering veroorzaakt waarnemen en herkent het, ondanks alle mogelijke, verbijsterende gedaanteverwisselingen. 
 
@@ -3932,7 +4022,9 @@ In de regel leven de meeste mensen om te eten en te drinken; zij bevredigen hun 
 
 Het levenslichaam is zo'n georganiseerd voertuig. Als er een middel gevon den kon worden om het van het grofstoffelijk lichaam los te maken, zonder dat dit de dood veroorzaakt, dan zou het vraagstuk opgelost zijn. Bovendien is het levenslichaam de zetel van het geheugen. Zonder dat is het onmogelijk om in ons stoffelijk bewustzijn de herinnering aan bovenstoffelijke ervaringen terug te brengen en er dus al het voordeel uit te trekken. 
 
-Wij hebben gezien dat de hiërofanten van de oude mysterietempels een deel van de mensen - zoals de brahmanen en de levieten - in kasten en stammen af zonderden om lichamen te verschaffen voor die ego’s die ver genoeg gevor derd waren om ingewijd te worden. Daarvoor werd het levenslichaam in twee en gesplitst, zoals met de begeertelichamen van de hele mensheid bij het be gin van de Aardeperiode gedaan werd. Wanneer de hiërofanten de leerlingen uit hun lichamen lieten treden, lieten zij een deel van hun levenslichaam ach ter - bestaande uit de eerste en tweede ether, de enige die tijdens de slaap actief zijn - om de zuiver lichamelijke functies te vervullen. Tegelijkertijd nam de leerling een voertuig met zich mee, dat door zijn verband met de zintuiglijke centra van het stoffelijk lichaam, tot waarneming en ook tot geheugen in staat was. Het bezat deze vermogens, omdat het uit de derde en vierden ether, die de middelen tot zintuiglijke waarneming en geheugen zijn, samengesteld was. Dit is dan ook het gedeelte van het levenslichaam dat de aspirant leven na le ven behoudt en als verstandsziel onsterfelijk maakt. 
+Wij hebben gezien dat de hiërofanten van de oude mysterietempels een deel van de mensen - zoals de brahmanen en de levieten - in kasten en stammen af zonderden om lichamen te verschaffen voor die ego’s die ver genoeg gevor derd waren om ingewijd te worden. Daarvoor werd het levenslichaam in twee en gesplitst, zoals met de begeertelichamen van de hele mensheid bij het be gin van de Aardeperiode gedaan werd. Wanneer de hiërofanten de leerlingen uit hun lichamen lieten treden, lieten zij een deel van hun levenslichaam ach ter - bestaande uit de eerste en tweede ether, de enige die tijdens de slaap actief zijn - om de zuiver lichamelijke functies te vervullen. Tegelijkertijd nam de leerling een voertuig met zich mee, dat door zijn verband met de zintuiglijke centra van het stoffelijk lichaam, tot waarneming en ook tot geheugen in staat was. Het bezat deze vermogens, omdat het uit de derde en vierden ether, die de middelen tot zintuiglijke waarneming en geheugen zijn, samengesteld was. 
+
+Dit is dan ook het gedeelte van het levenslichaam dat de aspirant leven na le ven behoudt en als verstandsziel onsterfelijk maakt. 
 
 Vanaf de tijd dat Christus kwam en de zonden van de wereld wegnam - niet die van het individu - door het begeertelichaam van onze planeet te zuiveren, is het verband tussen het stoffelijk lichaam en het levenslichaam van alle mensen zoveel losser geworden, dat de bovenbeschreven splitsing door training tot stand kan worden gebracht. Daarom staat inwijding voor iedereen open. 
 
@@ -3962,23 +4054,29 @@ Het eerste wat wij moeten leren, is dat wij onze gedachten op het een of andere 
 
 Sceptici zullen zeggen dat dit alles verbeelding is. Maar als de uitvinder, zoals gezegd, niet in staat was geweest de telefoon in gedachten uit te beelden, dan zouden wij hem nu niet bezitten. De voorstellingen waren in het begin meestal niet juist of betrouwbaar, anders zouden de uitvindingen vanaf het begin suc ces hebben gehad, zonder de vele mislukkingen en schijnbaar nutteloze expe rimenten die bijna altijd aan de vervaardiging van het een of andere praktisch en nuttig instrument of machine vooraf gingen. Zo ook is de verbeeldings kracht van de aankomende occultist in het begin niet juist. De enige manier om de verbeelding betrouwbaar te maken, is door voortdurende oefening, dag in dag uit, waardoor de wil getraind wordt om het verstand zonder afdwalen, op één onderwerp, voorwerp of idee gericht te houden. Gedachte is een enor me kracht die wij meestal verspillen. Wij laten haar maar doelloos uitstromen, zoals water zich in een afgrond stort voordat men het aan de industrie dienst baar maakt. 
 
-De over de hele oppervlakte van de aarde verspreide zonnestralen geven be trekkelijk weinig warmte. Zodra echter maar een klein bundeltje door middel van een brandglas geconcentreerd wordt, zijn zij in staat in het brandpunt vuur op te wekken. Gedachtekracht is het doeltreffendste middel om kennis te ver krijgen. Concentreert men zich op één onderwerp, dan zal zij zich als vuur door elke hinderpaal een weg banen en het vraagstuk oplossen. Als de vereis te hoeveelheid gedachtekracht zich doet gelden, is er niets dat het menselijke bevattingsvermogen te boven gaat. Zolang wij haar zorgeloos verkwisten, is zij voor ons van weinig nut. Maar zodra wij ons de nodige moeite willen geven om haar te bundelen, is alle kennis van ons. 
+De over de hele oppervlakte van de aarde verspreide zonnestralen geven be trekkelijk weinig warmte. Zodra echter maar een klein bundeltje door middel van een brandglas geconcentreerd wordt, zijn zij in staat in het brandpunt vuur op te wekken. 
+
+Gedachtekracht is het doeltreffendste middel om kennis te ver krijgen. Concentreert men zich op één onderwerp, dan zal zij zich als vuur door elke hinderpaal een weg banen en het vraagstuk oplossen. Als de vereis te hoeveelheid gedachtekracht zich doet gelden, is er niets dat het menselijke bevattingsvermogen te boven gaat. Zolang wij haar zorgeloos verkwisten, is zij voor ons van weinig nut. Maar zodra wij ons de nodige moeite willen geven om haar te bundelen, is alle kennis van ons. 
 
 Vaak horen wij mensen ongeduldig uitroepen: ‘Nou, ik kan ook niet aan honderd dingen tegelijk denken!’ In feite hebben zij dat wel gedaan en is dat juist de oorzaak van alle last waarover zij zich beklagen. De mensen denken voortdurend aan andere dingen dan aan dat waarmee ze bezig zijn. Elk suc ces is te danken aan volgehouden concentratie op het gewenste doel. 
 
 Dit moet de aspirant naar geestelijk leven beslist leren. Er bestaat geen an dere weg. In het begin zal hij merken dat hij aan allerlei andere dingen denkt dan aan het ideaal waarop hij van plan is zich te concentreren. Maar daar door moet hij zich niet laten ontmoedigen. Langzamerhand zal het hem ge makkelijker vallen zijn zinnen het zwijgen op te leggen en zijn gedachten vast te houden. Volharding, volharding en nog eens volharding zal uiteindelijk tot de overwinning leiden. Zonder dat kan men geen resultaat verwachten. Het is nutteloos om de oefeningen twee of drie ochtenden of weken vol te hou den en ze dan even zo lang na te laten. Om resultaat te hebben, moeten zij trouw elke morgen gedaan worden, zonder één keer over te slaan. 
 
-Men kan elk willekeurig onderwerp nemen, in overeenstemming met uw temperament en geestelijke opvatting, als die zuiver en geestverheffend is. Sommige mensen zullen Christus kiezen; anderen, die veel van bloemen hou den, worden het gemakkelijkst geholpen door een bloem als onderwerp van concentratie te nemen. Het onderwerp doet er weinig toe, als men maar, wat ook genomen wordt, tot in de kleinste details naar het leven uitbeelden. Kiest men Christus, dan moeten wij ons een echte Christus voorstellen met be weeglijke gelaatstrekken, ogen vol leven en een uitdrukking die niet star of doods is. Wij moeten een levend ideaal opbouwen en geen standbeeld. Als wij een bloem kiezen, dan moeten wij het zaad in gedachte nemen en, nadat wij het gezaaid hebben, er onze gedachten vast op richten. Al gauw zien wij het zaad openbarsten en zijn wortels ontkiemen die de aarde op spiraalvormi ge manier doordringen. Uit de hoofdwortels zien wij de ontelbare, kleine scheuten uitspruiten en zich in alle richtingen vertakken. Dan begint de sten gel op te schieten, die zich door de aarde een weg naar buiten baant en te voor schijn komt als een nietig, groen stengeltje. Hij groeit op; al gauw komt er een spruitje uit de stam. Hij groeit; een nieuw spruitje en een takje komen te voor schijn. Uit de takken schieten twijgjes met knoppen aan het eind. Al gauw ver tonen zich een aantal blaadjes. Ten slotte vormt zich bovenaan een knop; die wordt dikker, tot hij openbarst en de rode blaadjes van de roos onder het groen verschijnen. De roos ontsluit zich en in de lucht verspreidt zich een heerlijke geur die wij duidelijk waarnemen. In onze gedachten beweegt de mooie crea tie zich door een zomerbriesje zachtjes heen en weer. Pas wanneer wij in zulke, duidelijke, scherp omlijnde trekken als deze, dingen voor onze geest kunnen halen, dringen wij tot het wezen van concentratie door. Het moet niet bij een onwerkelijke, vage gelijkenis blijven. 
+Men kan elk willekeurig onderwerp nemen, in overeenstemming met uw temperament en geestelijke opvatting, als die zuiver en geestverheffend is. Sommige mensen zullen Christus kiezen; anderen, die veel van bloemen hou den, worden het gemakkelijkst geholpen door een bloem als onderwerp van concentratie te nemen. Het onderwerp doet er weinig toe, als men maar, wat ook genomen wordt, tot in de kleinste details naar het leven uitbeelden. Kiest men Christus, dan moeten wij ons een echte Christus voorstellen met be weeglijke gelaatstrekken, ogen vol leven en een uitdrukking die niet star of doods is. Wij moeten een levend ideaal opbouwen en geen standbeeld. Als wij een bloem kiezen, dan moeten wij het zaad in gedachte nemen en, nadat wij het gezaaid hebben, er onze gedachten vast op richten. Al gauw zien wij het zaad openbarsten en zijn wortels ontkiemen die de aarde op spiraalvormi ge manier doordringen. Uit de hoofdwortels zien wij de ontelbare, kleine scheuten uitspruiten en zich in alle richtingen vertakken. Dan begint de sten gel op te schieten, die zich door de aarde een weg naar buiten baant en te voor schijn komt als een nietig, groen stengeltje. Hij groeit op; al gauw komt er een spruitje uit de stam. Hij groeit; een nieuw spruitje en een takje komen te voor schijn. Uit de takken schieten twijgjes met knoppen aan het eind. Al gauw ver tonen zich een aantal blaadjes. Ten slotte vormt zich bovenaan een knop; die wordt dikker, tot hij openbarst en de rode blaadjes van de roos onder het groen verschijnen. De roos ontsluit zich en in de lucht verspreidt zich een heerlijke geur die wij duidelijk waarnemen. In onze gedachten beweegt de mooie crea tie zich door een zomerbriesje zachtjes heen en weer. 
+
+Pas wanneer wij in zulke, duidelijke, scherp omlijnde trekken als deze, dingen voor onze geest kunnen halen, dringen wij tot het wezen van concentratie door. Het moet niet bij een onwerkelijke, vage gelijkenis blijven. 
 
 Reizigers verhalen van Indiase fakirs die hun een zaadje lieten zien en het daarna plantten. Voor de ogen van de verbaasde toeschouwers ontkiemde het zaadje en droeg vruchten die de reizigers zelfs proefden. Dit werd veroorzaakt door zo'n intense concentratie, dat het beeld niet alleen voor de fakir zelf zichtbaar was, maar ook voor de toeschouwers. Er is een geval bekend, dat leden van een wetenschappelijke commissie wonderlijke dingen zagen gebeu ren onder omstandigheden die goochelarij uitsloot. Toch mislukte de foto's die van het experiment genomen werden. Er vertoonde zich geen beeld op de negatieven, omdat er geen tastbare, stoffelijke voorwerpen geweest waren. 
 
 In het begin zullen de beelden die de aspirant opbouwt alleen maar een vage en gebrekkige overeenkomst vertonen, maar uiteindelijk zal concentratie een werkelijker en levendiger beeld voor de geest oproepen dan de dingen in de stoffelijke wereld zijn. 
 
-Wanneer de aspirant zulke beelden heeft leren vormen en erin geslaagd is zijn aandacht op het zo gevormde beeld gevestigd te houden, kan hij probe ren het beeld plotseling te laten vallen en zijn verstand zonder enige gedach te, onbeweeglijk te houden en afwachten wat er in dit niets zal opdoemen. Het kan geruime tijd duren voordat er iets verschijnt en de aspirant moet er zorgvuldig voor oppassen dat hij zelf geen visioenen schept. Als hij echter el ke morgen trouw en geduldig volhoudt zal er, zodra hij het uitgedachte beeld laat vallen, eens een tijd komen dat de hem omringende begeertewereld zich in een flits voor zijn geestelijk gezicht vertoont. In het begin is het misschien niet meer dan een glimp, maar het is een voorproefje van wat later naar wens kan worden opgeroepen. 
+Wanneer de aspirant zulke beelden heeft leren vormen en erin geslaagd is zijn aandacht op het zo gevormde beeld gevestigd te houden, kan hij probe ren het beeld plotseling te laten vallen en zijn verstand zonder enige gedach te, onbeweeglijk te houden en afwachten wat er in dit niets zal opdoemen. 
+
+Het kan geruime tijd duren voordat er iets verschijnt en de aspirant moet er zorgvuldig voor oppassen dat hij zelf geen visioenen schept. Als hij echter el ke morgen trouw en geduldig volhoudt zal er, zodra hij het uitgedachte beeld laat vallen, eens een tijd komen dat de hem omringende begeertewereld zich in een flits voor zijn geestelijk gezicht vertoont. In het begin is het misschien niet meer dan een glimp, maar het is een voorproefje van wat later naar wens kan worden opgeroepen. 
 
 #### <h4 id="meditation">Overpeinzing 60</h4>
 
-60 Meditation betekent in het Nederlands: overpeinzing, bespiegeling. 
+() - 60 Meditation betekent in het Nederlands: overpeinzing, bespiegeling. 
 
 Als u enige tijd concentratie hebt beoefend door uw verstand op een willekeu rig voorwerp te richten, om door middel van verbeeldingskracht een levende gedachtevorm op te bouwen, dan zal u door middel van overpeinzing het al dus geschapene door en door kunnen leren kennen. 
 
@@ -4008,7 +4106,9 @@ Zoals wij hebben gezien, bestaat concentratie eruit dat wij ons denken op één 
 
 Overpeinzing is die oefening, waardoor de geschiedenis van het betreffende voorwerp nagespeurd wordt en wij er zó in doordringen, dat wij elk greintje bewijs over zijn relatie tot de wereld eruit kunnen lichten. 
 
-Deze twee geestelijke oefeningen, ook al worden zij nog zo ernstig en gron dig uitgevoerd, houden verband met dingen. Zij voeren de mens tot een ho ger, dieper en subtieler stadium van verstandelijke ontwikkeling, dat in ver band staat met de ziel van de dingen zelf. De naam van dát stadium is bespiegeling. 
+Deze twee geestelijke oefeningen, ook al worden zij nog zo ernstig en gron dig uitgevoerd, houden verband met dingen. Zij voeren de mens tot een ho ger, dieper en subtieler stadium van verstandelijke ontwikkeling, dat in ver band staat met de ziel van de dingen zelf. 
+
+De naam van dát stadium is bespiegeling. 
 
 #### <h4 id="contemplation">Bespiegeling 61</h4>
 
@@ -4044,7 +4144,9 @@ Kennis van de verschillende strata of aardlagen en de onderlinge standen van de 
 
 Voor de geoefende helderziende blik van de ingewijde in de verschillende gra den van de mysteriën, vertoont de aarde zich in strata, de ene laag of stratum ligt om de andere, zo ongeveer als bij een ui. Er zijn negen van dergelijke stra ta plus de aardkern, dus tien in het geheel. Deze strata worden geleidelijk voor de ingewijde ontsluierd. Bij elke inwijding krijgt hij toegang tot een nieuw stra tum, zodat hij na afloop van de negen kleine inwijdingen alle lagen meester is, maar nog geen toegang heeft tot de geheimen van de kern. 
 
-Vroeger noemde men deze negen stappen de kleine mysteriën. Zij voeren de neofiet bewust door alles wat met zijn ontwikkeling in het verleden verband houdt, door de activiteiten van het onbewuste bestaan heen, zodat hij in staat is de manier en de betekenis van het werk dat hij toen onbewust deed, te be grijpen. Hij ziet hoe zijn tegenwoordige, negenvoudige samenstelling - het drie voudige lichaam, de drievoudige ziel en de drievoudige geest – ontstond. Hoe de grote scheppende hiërarchieën op de maagdelijke geest inwerkten, het ego in hem deden ontwaken en hem bij de vorming van een lichaam hielpen. Ook ziet hij het werk dat hij zelf gedaan heeft, door uit het drievoudige li chaam zoveel van de drievoudige ziel te halen als hij nu bezit. Stap voor stap wordt hij door de negen stappen van de kleine mysteriën, de negen strata, ge leid. Het getal negen is het wortelgetal van ons tegenwoordige ontwikkelings stadium. Het heeft in ons stelsel een betekenis als geen ander getal. Het is het getal van Adam, het leven, dat zijn ontwikkeling tot mens begon en tijdens de Aardeperiode het mensachtige stadium bereikte. Het Hebreeuws evenals het Grieks bestaan geen Romeinse cijfers, maar heeft elke letter een getalswaarde. In het Hebreeuws heet Adam, ADM . De waarde van A is 1; van D 4 en van M 40. Als wij deze cijfers optellen, dan krijgen wij 1 + 4 + 4 + 0 = 9, het getal van Adam of de mensheid. 
+Vroeger noemde men deze negen stappen de kleine mysteriën. Zij voeren de neofiet bewust door alles wat met zijn ontwikkeling in het verleden verband houdt, door de activiteiten van het onbewuste bestaan heen, zodat hij in staat is de manier en de betekenis van het werk dat hij toen onbewust deed, te be grijpen. Hij ziet hoe zijn tegenwoordige, negenvoudige samenstelling - het drie voudige lichaam, de drievoudige ziel en de drievoudige geest – ontstond. Hoe de grote scheppende hiërarchieën op de maagdelijke geest inwerkten, het ego in hem deden ontwaken en hem bij de vorming van een lichaam hielpen. Ook ziet hij het werk dat hij zelf gedaan heeft, door uit het drievoudige li chaam zoveel van de drievoudige ziel te halen als hij nu bezit. Stap voor stap wordt hij door de negen stappen van de kleine mysteriën, de negen strata, ge leid. 
+
+Het getal negen is het wortelgetal van ons tegenwoordige ontwikkelings stadium. Het heeft in ons stelsel een betekenis als geen ander getal. Het is het getal van Adam, het leven, dat zijn ontwikkeling tot mens begon en tijdens de Aardeperiode het mensachtige stadium bereikte. Het Hebreeuws evenals het Grieks bestaan geen Romeinse cijfers, maar heeft elke letter een getalswaarde. In het Hebreeuws heet Adam, ADM . De waarde van A is 1; van D 4 en van M 40. Als wij deze cijfers optellen, dan krijgen wij 1 + 4 + 4 + 0 = 9, het getal van Adam of de mensheid. 
 
 Als wij van het Boek Genesis, dat de schepping van de mens in een grijs ver leden behandelt, naar het Boek Openbaring gaan, dat zijn mogelijkheden in de toekomst aangeeft, dan zien wij daar dat het getal van het beest dat de ont wikkeling belemmert, 666 is. Openb. 13:18. Tellen wij deze cijfers op, 6 + 6 + 6 = 18 en verder 1 + 8 = 9 dan krijgen wij opnieuw het getal van de mensheid, die zelf de oorzaak van al het kwaad is dat haar eigen vooruitgang belemmert. Gaan wij verder, dan komen wij aan het punt waar het getal van hen die be houden zullen worden, opgegeven is en dit blijkt 144.000 te zijn. Tellen wij deze cijfers 1 + 4 + 4 + 000 = 9 weer op, dan krijgen wij ook het getal van de mens heid, wat aantoont dat zij eigenlijk in haar geheel behouden zal blijven, omdat het aantal, dat in onze tegenwoordige ontwikkeling niet verder kan, niets is in vergelijking met het geheel en dat zelfs de weinigen die falen, niet verloren zijn, maar in een later ontwikkelingsplan verder zullen gaan. 
 
@@ -4066,19 +4168,23 @@ In de verschillende occulte scholen variëren de inwijdingsriten, eveneens de op
 
 Diagram 18 geeft ons enig begrip van de ligging van de verschillende aardla gen; de aardkern is weggelaten om duidelijker de slingervormige stromingen in het negende stratum te kunnen zien. Op dit diagram zijn de strata voorgesteld alsof zij van gelijke dikte zijn; in werkelijkheid echter zijn sommige veel dunner dan andere. Van de buitenkant af gerekend is de volgorde als volgt: 
 
-1. De minerale aardbodem: dit is de steenachtige aardkorst waarmee de geo logie zich bezighoudt voor zover zij erin kan doordringen. 
+1\. De minerale aardbodem: dit is de steenachtige aardkorst waarmee de geo logie zich bezighoudt voor zover zij erin kan doordringen. 
 
-2. Het vloeibare stratum: de bestanddelen van dit stratum zijn vloeibaarder dan die van de buitenste korst, toch is het niet waterig maar eerder een dikke brei. Het bezit het vermogen uit te zetten, zoals een uiterst ontplof baar gas en het wordt enkel door de enorme druk van de buitenste korst op zijn plaats gehouden. Als die korst zou worden weggenomen, dan zou het hele vloeibare stratum met een ontzaglijke ontploffing in de ruimte ver dwijnen. Deze beide strata komen overeen met het scheikundig en het etherisch gebied van de stoffelijke wereld. 
+2\. Het vloeibare stratum: de bestanddelen van dit stratum zijn vloeibaarder dan die van de buitenste korst, toch is het niet waterig maar eerder een dikke brei. Het bezit het vermogen uit te zetten, zoals een uiterst ontplof baar gas en het wordt enkel door de enorme druk van de buitenste korst op zijn plaats gehouden. Als die korst zou worden weggenomen, dan zou het hele vloeibare stratum met een ontzaglijke ontploffing in de ruimte ver dwijnen. Deze beide strata komen overeen met het scheikundig en het etherisch gebied van de stoffelijke wereld. 
 
-3. Dampstratum: in het eerste en tweede stratum is eigenlijk geen bewust le ven. In dit stratum echter bestaat een stromend, kloppend leven, evenals in de begeertewereld die onze aarde omgeeft en doordringt. 
+3\. Dampstratum: in het eerste en tweede stratum is eigenlijk geen bewust le ven. In dit stratum echter bestaat een stromend, kloppend leven, evenals in de begeertewereld die onze aarde omgeeft en doordringt. 
 
-4. Waterstratum: in dit stratum liggen de mogelijkheden in de kiem van al wat op de oppervlakte van de aarde bestaat. Hier bevinden zich de krach ten van de oertypen die achter de groepsgeesten staan en ook de oerkrach ten van de mineralen, want dit is de rechtstreekse, stoffelijke uitdrukking van het gebied van de concrete gedachte. 
+4\. Waterstratum: in dit stratum liggen de mogelijkheden in de kiem van al wat op de oppervlakte van de aarde bestaat. Hier bevinden zich de krach ten van de oertypen die achter de groepsgeesten staan en ook de oerkrach ten van de mineralen, want dit is de rechtstreekse, stoffelijke uitdrukking van het gebied van de concrete gedachte. 
 
-5. Zaadstratum: de beoefenaars van de stoffelijke wetenschap zijn teleurge steld in hun pogingen de oorsprong van het leven te ontdekken, en te zien hoe de eerste levende dingen uit dode stof te voorschijn kwamen. Overeenkomstig de occulte verklaring van de evolutie of ontwikkeling zou de vraag eigenlijk moeten zijn, hoe de dode dingen ontstonden. Het leven was er vóór de dode vormen. Het bouwde zijn lichamen uit de ijle, dampachtige substantie lang voordat deze tot de vaste aardkorst condenseerde. Pas toen het leven de vormen verlaten had, konden zij kristalliseren en hard en dood worden. Steenkool is niets anders dan gekristalliseerde plantenlichamen; koraal is ook een kristallisatie, van dierlijke vormen. Het leven verlaat de vormen en de vormen sterven. Het leven kwam nooit in een vorm om die tot leven te doen ontwaken. Het leven trok zich terug uit de vormen en de vormen gingen dood. Zo kwamen dode dingen tot stand. 
+5\. Zaadstratum: de beoefenaars van de stoffelijke wetenschap zijn teleurge steld in hun pogingen de oorsprong van het leven te ontdekken, en te zien hoe de eerste levende dingen uit dode stof te voorschijn kwamen. 
+
+Overeenkomstig de occulte verklaring van de evolutie of ontwikkeling zou de vraag eigenlijk moeten zijn, hoe de dode dingen ontstonden. Het leven was er vóór de dode vormen. Het bouwde zijn lichamen uit de ijle, dampachtige substantie lang voordat deze tot de vaste aardkorst condenseerde. Pas toen het leven de vormen verlaten had, konden zij kristalliseren en hard en dood worden. 
+
+Steenkool is niets anders dan gekristalliseerde plantenlichamen; koraal is ook een kristallisatie, van dierlijke vormen. Het leven verlaat de vormen en de vormen sterven. Het leven kwam nooit in een vorm om die tot leven te doen ontwaken. Het leven trok zich terug uit de vormen en de vormen gingen dood. Zo kwamen dode dingen tot stand. 
 
 In dit vijfde stratum ligt de oerbron van het leven waaruit de stuwkracht opwelde en die alle vormen op aarde bouwde. Het komt overeen met het gebied van de abstracte gedachte. 
 
-6. Vuurstratum: hoe vreemd het ook mag schijnen, maar dit stratum bezit gewaarwording. Vreugde en verdriet, sympathie en antipathie doen hier hun invloed op de aarde gelden. Meestal wordt verondersteld dat de aar de, onder geen enkele omstandigheid, enige gewaarwording, van welke aard dan ook, kan hebben. Wanneer de occultist echter het oogsten van het rijpe koren, het verzamelen van vruchten in de boomgaarden in de herfst, of het plukken van bloemen gadeslaat, dan is hij zich bewust van de vreugde die de aarde daar zelf van ondervindt. Het is een zelfde ge waarwording van genot als de koe ondervindt als haar volle uier door het drinkende kalf ontlast wordt. De aarde ervaart het als genot als zij voedsel heeft voortgebracht voor haar kroost van vormen en dit genot bereikt zijn hoogtepunt in de oogsttijd. 
+6\. Vuurstratum: hoe vreemd het ook mag schijnen, maar dit stratum bezit gewaarwording. Vreugde en verdriet, sympathie en antipathie doen hier hun invloed op de aarde gelden. Meestal wordt verondersteld dat de aar de, onder geen enkele omstandigheid, enige gewaarwording, van welke aard dan ook, kan hebben. Wanneer de occultist echter het oogsten van het rijpe koren, het verzamelen van vruchten in de boomgaarden in de herfst, of het plukken van bloemen gadeslaat, dan is hij zich bewust van de vreugde die de aarde daar zelf van ondervindt. Het is een zelfde ge waarwording van genot als de koe ondervindt als haar volle uier door het drinkende kalf ontlast wordt. De aarde ervaart het als genot als zij voedsel heeft voortgebracht voor haar kroost van vormen en dit genot bereikt zijn hoogtepunt in de oogsttijd. 
 
 Wanneer daarentegen planten met wortel en al worden uitgetrokken, is het voor de occultist duidelijk dat de aarde een felle pijn voelt. Daarom eet hij ook geen plantaardig voedsel dat onder de aarde groeit. In de eerste plaats is het vol aardse invloed en heeft het een tekort aan zonnekracht, en bovendien is het vergiftigd, omdat het met wortel en al uitgetrokken is. De enige uitzondering op deze regel is, dat de occultist een spaarzaam ge bruik mag maken van aardappelen, die oorspronkelijk aan de oppervlakte groeiden en pas sinds betrekkelijk korte tijd onder de grond groeien. Oc cultisten proberen hun lichaam te voeden met vruchten die naar de zon toe groeien, omdat zij meer geestelijke zonnekracht bevatten en de aarde geen pijn veroorzaakt hebben. 
 
@@ -4088,21 +4194,19 @@ Zoals gevoel in dieren en mensen aan hun afzonderlijk levenslichaam te danken is
 
 Naarmate onze ontwikkeling voortgaat en de mens de lessen leert die bij dit hoogtepunt van stoffelijk bestaan horen, zal de aarde ook weker wor den en de geest ervan zich steeds meer vrijmaken. Dit bedoelde Paulus toen hij zei dat: ‘… de hele schepping nog altijd in barensweeën zucht en lijdt … in afwachting van de openbaring dat we kinderen van God zijn, de verlossing van ons sterfelijk bestaan.’ Rom. 8:22-23. 
 
-7. Weerspiegelend stratum: dit gedeelte van de aarde komt overeen met de wereld van de goddelijke geest. In het occultisme bestaan wat genoemd wordt: ‘de zeven onuitsprekelijke geheimen’. Voor hen die niet met deze geheimen bekend zijn en zelfs geen flauw idee hebben van hun betekenis, moeten de eigenschappen van dit stratum als bijzonder onzinnig en bela chelijk voorkomen. Hier bestaan alle krachten die wij als natuurkrachten kennen, als morele, of juister, als immorele krachten. In het begin van de bewuste levensloop van de mens waren die krachten veel slechter dan nu. Het blijkt echter, dat naarmate de mensheid zedelijk vooruitgaat, deze krachten zich eveneens verbeteren; ook dat verslapping van de moraal een neiging vertoont om deze natuurkrachten te ontketenen, zodat zij verwoes ting op aarde aanrichten, terwijl een streven naar geestelijke idealen hen, tegenover de mens, minder schadelijk maakt. 
+7\. Weerspiegelend stratum: dit gedeelte van de aarde komt overeen met de wereld van de goddelijke geest. In het occultisme bestaan wat genoemd wordt: ‘de zeven onuitsprekelijke geheimen’. Voor hen die niet met deze geheimen bekend zijn en zelfs geen flauw idee hebben van hun betekenis, moeten de eigenschappen van dit stratum als bijzonder onzinnig en bela chelijk voorkomen. Hier bestaan alle krachten die wij als natuurkrachten kennen, als morele, of juister, als immorele krachten. In het begin van de bewuste levensloop van de mens waren die krachten veel slechter dan nu. Het blijkt echter, dat naarmate de mensheid zedelijk vooruitgaat, deze krachten zich eveneens verbeteren; ook dat verslapping van de moraal een neiging vertoont om deze natuurkrachten te ontketenen, zodat zij verwoes ting op aarde aanrichten, terwijl een streven naar geestelijke idealen hen, tegenover de mens, minder schadelijk maakt. 
 
 De krachten in dit stratum zijn dus op elk tijdstip een nauwkeurige weer spiegeling van de bestaande morele stand van de mensheid. Vanuit occult standpunt bezien, is dus de hand van God die een Sodom of een Gomor ra treft, geen dwaas bijgeloof. Want zo zeker als er een persoonlijke ver antwoording aan de wet van oorzaak en gevolg bestaat - die aan iedereen de rechtvaardige gevolgen van zijn daden brengt, hetzij goed hetzij kwaad - zo is er ook een verantwoordelijkheid van een gemeenschap of land die over groepen mensen de bepaalde gevolgen van hun gemeenschappelijk handelen veroorzaakt. Natuurkrachten zijn de algemene veroorzakers van een dergelijke vergeldende gerechtigheid en zij brengen overstromingen of aardbevingen voort of bevorderen de zegenrijke vorming van olie of steen kool voor verschillende groepen, in verhouding tot hun verdiensten. 
 
-8. Atomisch stratum: dit is de naam die door de Rozenkruisers aan de acht ste aardlaag is gegeven die de uitdrukking is van de wereld van de maagde lijke geesten. Het schijnt de eigenschap te hebben om de dingen, die er zich in bevinden, vele malen te vermenigvuldigen. Het betreft echter alleen die dingen die een bepaalde vorm hebben. Een vormloos stuk hout of een on gehouwen steen kan daar niet bestaan, maar op elk ding dat gemodelleerd is of leven en vorm bezit - zoals een bloem of een schilderij - heeft dit stra tum in verbazingwekkende mate de uitwerking van vermenigvuldiging. 
+8\. Atomisch stratum: dit is de naam die door de Rozenkruisers aan de acht ste aardlaag is gegeven die de uitdrukking is van de wereld van de maagde lijke geesten. Het schijnt de eigenschap te hebben om de dingen, die er zich in bevinden, vele malen te vermenigvuldigen. Het betreft echter alleen die dingen die een bepaalde vorm hebben. Een vormloos stuk hout of een on gehouwen steen kan daar niet bestaan, maar op elk ding dat gemodelleerd is of leven en vorm bezit - zoals een bloem of een schilderij - heeft dit stra tum in verbazingwekkende mate de uitwerking van vermenigvuldiging. 
 
-9. Stoffelijke uitdrukking van de aardgeest: hier ontstaan achtvormige stro mingen, die met de hersenen, het hart en de geslachtsorganen van het men selijk ras nauw in verband staan. Het komt overeen met de wereld van God. 
+9\. Stoffelijke uitdrukking van de aardgeest: hier ontstaan achtvormige stro mingen, die met de hersenen, het hart en de geslachtsorganen van het men selijk ras nauw in verband staan. Het komt overeen met de wereld van God. 
 
-10. Centrum van Leven van de aardgeest: op het ogenblik kan hiervan niets anders gezegd worden dan dat het de uiteindelijke zaadbodem is van alles wat in en op de aarde bestaat en dat het overeenkomt met het Absolute. 
+10\. Centrum van Leven van de aardgeest: op het ogenblik kan hiervan niets anders gezegd worden dan dat het de uiteindelijke zaadbodem is van alles wat in en op de aarde bestaat en dat het overeenkomt met het Absolute. 
 
 Vanuit het zesde of vuurstratum tot aan de oppervlakte van de aarde lopen, op verschillende plaatsen, een aantal schachten. De uitgangen hiervan worden vulkanische kraters genoemd. Wanneer de natuurkrachten in het zevende stra tum de vrije loop wordt gelaten, zodat zij zich door een vulkanische uitbarsting kunnen uiten, brengen zij het zesde of vuurstratum in beweging en baant de spanning zich door de monding van de krater een weg naar buiten. Het ma teriaal wordt aan de substantie van het tweede stratum ontleend, want dat is de grovere tegenhanger van het zesde stratum, evenals het levenslichaam, het tweede voertuig van de mens, de grovere tegenhanger van de levensgeest, het zesde beginsel is. Dit vloeibare stratum met zijn uitzettende en hoogst ont plofbare eigenschappen, levert steeds een onbeperkte voorraad materiaal dat op het punt staat uit te barsten. Door aanraking met de buitenlucht verhardt dat gedeelte dat niet in de ruimte afgestoten wordt, waardoor lava en as ge vormd worden, totdat de lava ten slotte, evenals bloed uit een wond, de stroom doet stollen en tegenhoudt en de toegang tot het binnenste van de aarde afsluit. 
 
 Uit het feit dat een weerkaatsing van de verdorvenheid en de antigeestelijke neigingen van de mensheid de natuurkrachten in het zevende stratum tot ver nielende activiteit opwekken, kan men ook afleiden dat zedeloze en ontaarde personen meestal bij deze rampen omkomen. Zij, samen met anderen, van wie de lotsbestemming - zelf geschapen onder de wet van oorzaak en gevolg - om verschillende redenen een gewelddadige dood met zich brengt, worden door bovenmenselijke krachten uit vele landen bijeengebracht op de plek waar de uitbarsting zal plaatshebben. Men zal, na wat nadenken, bij de vulkanische uit barstingen van de Vesuvius, deze bewering bevestigd zien. 
-
-Diagram 18. De samenstelling van de aarde!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
 
 Een lijst van deze uitbarstingen over de laatste 2000 jaar toont aan dat het aan tal uitbarstingen, met de groei van het materialisme, steeds is toegenomen. Vooral in de laatste zestig jaar - naarmate de materialistische wetenschap zich het recht aanmatigde alles wat maar op geestelijkheid leek absoluut en radicaal te ontkennen - is het aantal sterk toegenomen. Terwijl er maar zes uitbarstin gen in de eerste 1000 jaar na Christus plaatsvonden, hebben de laatste vijf uit barstingen binnen 51 jaar plaats gehad, zoals wij dadelijk zullen zien. 
 
@@ -4120,37 +4224,35 @@ Wij spraken over de dood van Plinius de Oudere tijdens de verwoesting van Pompe�
 
 Als een mens sterft, ontbindt zijn grofstoffelijk lichaam, maar het totaal van de krachten ervan kan gevonden worden in het zevende of weerspiegelende stratum van de aarde dat als het ware een reservoir vormt waarin vormen uit het verleden, als krachten opgeslagen worden. Wanneer wij dus het tijdstip van de dood van iemand weten, kunnen wij in dit reservoir zijn vorm vinden. Deze vorm is niet alleen in het zevende stratum opgeborgen, maar hij wordt door het achtste of atomische stratum vermenigvuldigd, zodat elk bepaald ty pe door anderen gereproduceerd en veranderd kan worden. Zodoende wordt deze vorm steeds weer opnieuw bij de vorming van andere lichamen gebruikt. De hersencapaciteit van een man als Plinius de Oudere is misschien duizend jaar later opnieuw voortgebracht en gedeeltelijk de oorzaak geweest van het grote aantal materialistische geleerden van onze tijd. 
 
-Onze materialistische wetenschapsbeoefenaars hebben nog heel wat te le ren en af te leren. Hoewel zij tot het uiterste bestrijden wat zij minachtend de waanideeën van de occultist noemen, worden zij er onweerstaanbaar toe ge dwongen zijn waarheden te erkennen en stuk voor stuk te aanvaarden. Het is alleen nog maar een kwestie van tijd dat zij ze alle zullen moeten aanvaarden. Mesmer 63, die door de Oudere Broeder gezonden werd, werd meer dan bela chelijk gemaakt. Maar toen de materialisten de naam van de door hem ontdek te kracht veranderden en het nu hypnotisme in plaats van mesmerisme noem den, werd het opeens wetenschappelijk. 
+Onze materialistische wetenschapsbeoefenaars hebben nog heel wat te le ren en af te leren. Hoewel zij tot het uiterste bestrijden wat zij minachtend de waanideeën van de occultist noemen, worden zij er onweerstaanbaar toe ge dwongen zijn waarheden te erkennen en stuk voor stuk te aanvaarden. Het is alleen nog maar een kwestie van tijd dat zij ze alle zullen moeten aanvaarden. 
 
-63 Franz Anton Mesmer, 1734-1815 . Duits/Frans theoloog en medicus, tevens astrologiebeoe fenaar, ontdekte in 1776 het dierlijk magnetisme. Vanaf 1778 oefende hij in Parijs magneti sche gezondheidskuren uit, door middel van een magneet, ijzer, magnetiseren en hypnose. 
+Mesmer 63, die door de Oudere Broeder gezonden werd, werd meer dan bela chelijk gemaakt. Maar toen de materialisten de naam van de door hem ontdek te kracht veranderden en het nu hypnotisme in plaats van mesmerisme noem den, werd het opeens wetenschappelijk. 
+
+() - 63 Franz Anton Mesmer, 1734-1815 . Duits/Frans theoloog en medicus, tevens astrologiebeoe fenaar, ontdekte in 1776 het dierlijk magnetisme. Vanaf 1778 oefende hij in Parijs magneti sche gezondheidskuren uit, door middel van een magneet, ijzer, magnetiseren en hypnose. 
 
 Eind 19e eeuw verkondigde Mevrouw Blavatsky 64 - een toegewijde leerling van oosterse meesters - dat de aarde nog een derde beweging had behalve de twee die oorzaak zijn van de wisseling van dag en nacht, en de jaargetijden. Zij wees erop dat de helling van de aardas veroorzaakt wordt door een beweging, die langzamerhand de noordpool brengt waar nu de equator ligt en weer later op de plaats, waar nu de zuidpool ligt. Ze zei dat dit aan de oude Egyptenaren bekend was omdat uit de beroemde sterrenkaart van Dendera bleek dat zij met drie omwentelingsbewegingen rekening hielden. Deze beweringen evenals haar hele, ongeëvenaarde werk De geheime leer werden met gehoon begroet. 
 
-64 Helena Petrovna Blavatsky-Hahn, 1831-1891, Oekraïne, Rusland. Zij was mediamiek en schreef met behulp van de Oosterse Meesters Isis ontsluierd, 1877 en De geheime leer,1888 . Op 8 september 1875 stichtte zij, samen met Kolonel Olcott, de Theosofische Vereniging. 
+() - 64 Helena Petrovna Blavatsky-Hahn, 1831-1891, Oekraïne, Rusland. Zij was mediamiek en schreef met behulp van de Oosterse Meesters Isis ontsluierd, 1877 en De geheime leer,1888 . Op 8 september 1875 stichtte zij, samen met Kolonel Olcott, de Theosofische Vereniging. 
 
-Enige jaren geleden ontdekte de astronoom, G.E. Sutcliffe in Bombay, dat Laplace 65 in zijn berekeningen een fout had gemaakt en hij toonde dit wiskun dig aan. De ontdekking en verbetering van deze fout, bevestigde door wiskun dige bewijzen het bestaan van de derde beweging van de aarde, zoals Mevrouw Blavatsky verkondigd had. Ook gaf deze derde beweging een verklaring van het tot die tijd raadselachtige feit dat in de poolstreek tropische planten en fos sielen gevonden worden, omdat een dergelijke beweging natuurlijk langzamer hand op alle delen van de aarde, in overeenstemming met haar veranderde stand in verband met de zon, zowel tropische tijdperken als ijstijdperken doet ontstaan. Sutcliffe zond zijn stuk met bewijzen naar Nature, maar dit blad wei gerde het artikel te publiceren. Toen de schrijver zijn ontdekking door middel van een brochure bekend maakte, haalde hij zich een storm van verontwaardi ging op zijn hals. 
+Enige jaren geleden ontdekte de astronoom, G.E. Sutcliffe in Bombay, dat Laplace 65 in zijn berekeningen een fout had gemaakt en hij toonde dit wiskun dig aan. De ontdekking en verbetering van deze fout, bevestigde door wiskun dige bewijzen het bestaan van de derde beweging van de aarde, zoals Mevrouw Blavatsky verkondigd had. Ook gaf deze derde beweging een verklaring van het tot die tijd raadselachtige feit dat in de poolstreek tropische planten en fos sielen gevonden worden, omdat een dergelijke beweging natuurlijk langzamer hand op alle delen van de aarde, in overeenstemming met haar veranderde stand in verband met de zon, zowel tropische tijdperken als ijstijdperken doet ontstaan. Sutcliffe zond zijn stuk met bewijzen naar Nature, maar dit blad wei gerde het artikel te publiceren. Toen de schrijver zijn ontdekking door middel van een brochure bekend maakte, haalde hij zich een storm van verontwaardi ging op zijn hals. Hij is dan ook een openlijke en serieuze onderzoeker van De geheime leer en dat verklaart natuurlijk de vijandige ontvangst die zijn ontdekking kreeg en de on vermijdelijke gevolgen daarvan. 
 
-65 Pierre Simon Marquis Laplace, 1749-1827 . Frans wiskundige en astronoom. 
-
-Hij is dan ook een openlijke en serieuze onderzoeker van De geheime leer en dat verklaart natuurlijk de vijandige ontvangst die zijn ontdekking kreeg en de on vermijdelijke gevolgen daarvan. 
+() - 65 Pierre Simon Marquis Laplace, 1749-1827. Frans wiskundige en astronoom. 
 
 Later echter maakte een Fransman, geen astronoom maar een werktuigkun dige, een toestel dat de mogelijkheid van het bestaan van een dergelijke bewe ging duidelijk aantoonde. Het toestel werd op de tentoonstelling van werktuig kunde te Saint Louis in Louisiana geëxposeerd en door Camille Flammarion warm aanbevolen, die een onderzoek meer dan waard vond. Hier had men iets concreets, iets mechanisch. De redacteur van The Monist, al beschreef hij de uitvinding als van iemand die er enige mystieke dwaalbegrippen op nahield - de uitvinder geloofde namelijk dat de oude Egyptenaren deze derde bewe ging kenden - zag toch dat aspect van de zaak grootmoedig over het hoofd en zei dat hij in dat opzicht zijn vertrouwen in M. Beziaus theorie niet verloren had. Hij publiceerde een verklaring en een verhandeling van M. Beziau, waar in de beweging en de gevolgen ervan op het aardoppervlak in termen, die eens luidend waren met die van mevrouw Blavatsky en de heer Sutcliffe, beschreven werden. M. Beziau staat nog niet als occultist teboek en daarom kan zijn uit vinding er nog mee door. 
 
 Men zou heel wat voorbeelden kunnen opnoemen als bewijs hoe de occul te kennis later door de wetenschap bevestigd is. Eén ervan is de atoomtheorie, die in de Griekse filosofie en later in De geheime leer verdedigd wordt. Zij werd in 1897 door professor Thompson 66 ontdekt. 
 
-66 Sir Joseph Thomson, 1856-1940 . Engels natuurkundige en professor te Cambridge. Hij was medegrondlegger van de moderne atoomfysica; ontving in 1906 de Nobelprijs. 
+() - 66 Sir Joseph Thomson, 1856-1940 . Engels natuurkundige en professor te Cambridge. Hij was medegrondlegger van de moderne atoomfysica; ontving in 1906 de Nobelprijs. 
 
-In A.P. Sinnetts 67 waardevolle werk De groei van de ziel, uitgegeven in 1896, deelde de schrijver mee dat er twee planeten buiten de baan van Neptunus lig gen, waarvan er naar zijn mening maar één 68 door de astronomen zou worden ontdekt. 
+In A.P. Sinnetts 67 waardevolle werk De groei van de ziel, uitgegeven in 1896, deelde de schrijver mee dat er twee planeten buiten de baan van Neptunus lig gen, waarvan er naar zijn mening maar één 68 door de astronomen zou worden ontdekt. In het augustusnummer van 1906 van Nature wordt vermeld dat professor Barnard, met behulp van een 36-inch Lick kijker, een dergelijke planeet in 1892 ontdekt had. Er was geen vergissing in het spel, maar hij had veertien jaar ge wacht, voor hij zijn ontdekking bekend maakte! Niemand hoeft zich daar ech ter ongerust over te maken. De hoofdzaak is dat de planeet bestaat en dat het boek van de heer Sinnett dit verkondigde, tien jaar voordat professor Barnard op de ontdekking ervan aanspraak maakte. Waarschijnlijk zou vóór 1906 de aankondiging van de nieuw ontdekte planeet de één of andere, algemeen aan vaarde theorie hebben omvergeworpen! 
 
-67 Alfred Percy Sinnett 1840-1921. Engels theosoof, schrijver van o.a. Occult World, 1884; Es oteric Buddhism, en in 1896 The Growth of the Soul. 
+() - 67 Alfred Percy Sinnett 1840-1921. Engels theosoof, schrijver van o.a. Occult World, 1884; Es oteric Buddhism, en in 1896 The Growth of the Soul. 
 
-68 Pluto, ontdekt in 1930 door Tombaugh. 
-
-In het augustusnummer van 1906 van Nature wordt vermeld dat professor Barnard, met behulp van een 36-inch Lick kijker, een dergelijke planeet in 1892 ontdekt had. Er was geen vergissing in het spel, maar hij had veertien jaar ge wacht, voor hij zijn ontdekking bekend maakte! Niemand hoeft zich daar ech ter ongerust over te maken. De hoofdzaak is dat de planeet bestaat en dat het boek van de heer Sinnett dit verkondigde, tien jaar voordat professor Barnard op de ontdekking ervan aanspraak maakte. Waarschijnlijk zou vóór 1906 de aankondiging van de nieuw ontdekte planeet de één of andere, algemeen aan vaarde theorie hebben omvergeworpen! 
+() - 68 Pluto, ontdekt in 1930 door Tombaugh. 
 
 Er bestaan veel van dergelijke theorieën. De theorie van Copernicus is niet helemaal juist en er zijn heel wat feiten die niet door de veel geprezen nevel vlektheorie alléén, kunnen worden verklaard. Tycho Brahe69, de beroemde Deense astronoom, weigerde de leer van Copernicus te aanvaarden. Hij had een zeer goede reden om aan de leer van Ptolemaeus trouw te blijven, daar volgens zijn zeggen, de bewegingen van de planeten daardoor op de juiste ma nier berekend konden worden, terwijl men bij het gebruik van de leer van Copernicus een tabel met correcties moest naslaan. Vanuit het standpunt van de begeertewereld bezien is het stelsel van Ptolemaeus juist en het bevat enke le punten, waar men in de stoffelijke wereld gebruik van kan maken. 
 
-69 Tyge Ottesen Brahe, genoemd Tycho, 1546-1601. Deens astronoom, hofastronoom van keizer Rudolf II. Ontdekte de variatie in de maanbeweging en in 1572 een nova. Hij bleef aanhanger van het geocentrische wereldbeeld. Leraar van Johannes Kepler, 1571-1630. 
+() - 69 Tyge Ottesen Brahe, genoemd Tycho, 1546-1601. Deens astronoom, hofastronoom van keizer Rudolf II. Ontdekte de variatie in de maanbeweging en in 1572 een nova. Hij bleef aanhanger van het geocentrische wereldbeeld. Leraar van Johannes Kepler, 1571-1630. 
 
 Veel lezers zullen van de in de voorafgaande bladzijden gegeven uiteenzet ting misschien vinden dat ze op fantasie berusten. Het zij zo. Iedereen zal op de duur met de kennis van de hier neergelegde feiten bekend worden. Dit boek is alleen voor de weinigen die, nadat ze hun verstand van de boeien van de or thodoxe wetenschap en godsdienst hebben bevrijd, bereid zijn dit aan te ne men, totdat zij de onjuistheid ervan bewezen hebben. 
 
@@ -4168,9 +4270,7 @@ De christelijke godsdienst heeft zich langzamerhand een weg naar het Wes ten geb
 
 Zoals dag en nacht, zomer en winter, en eb en vloed elkaar volgens de wet van opeenvolgende cycli in eeuwige wisseling opvolgen, zo wordt ook de komst van een golf van geestelijk ontwaken ergens op de wereld door een pe riode van materiële reactie gevolgd, zodat onze ontwikkeling niet eenzijdig wordt. 
 
-Godsdienst, kunst en wetenschap zijn de drie belangrijkste middelen om de mens op te voeden. Zij vormen een drie-eenheid die niet gescheiden kan wor den zonder ons gezichtspunt van de dingen om ons heen te vervormen. 
-
-Ware godsdienst belichaamt zowel wetenschap als kunst, want hij leert een mooi leven in harmonie met de natuurwetten. 
+Godsdienst, kunst en wetenschap zijn de drie belangrijkste middelen om de mens op te voeden. Zij vormen een drie-eenheid die niet gescheiden kan wor den zonder ons gezichtspunt van de dingen om ons heen te vervormen. Ware godsdienst belichaamt zowel wetenschap als kunst, want hij leert een mooi leven in harmonie met de natuurwetten. 
 
 Ware wetenschap is in de hoogste betekenis van het woord artistiek en gods dienstig want zij leert ons om de wetten, die ons welzijn als doel hebben, te eerbiedigen en er ons bij aan te passen. Zij verklaart eveneens waarom het godsdienstig leven tot gezondheid en schoonheid moet leiden. 
 
@@ -4182,7 +4282,7 @@ In de duistere Middeleeuwen [500–1500] heerste de godsdienst oppermachtig en h
 
 Toen de godsdienst de wetenschap belemmerde was dat voor de wereld na delig. Onwetendheid en bijgeloof veroorzaakten heel veel lijden. Ondanks dat al les echter, koesterde de mens toen nog een hoog geestelijk ideaal. Hij hoopte op een hoger en beter leven. Het is veel erger dat de wetenschap nu bezig is de godsdienst te vernietigen. Want nu loopt zelfs de hoop, de enige gave van de goden die in de doos van Pandora overbleef, gevaar voor het materialisme en het agnosticisme 70 het veld te moeten ruimen. 
 
-70 Agnosticisme: De vooral door Spencer en Huxley ontwikkelde leer, dat we geen kennis kun nen hebben van een boven onze ervaring uitgaande orde. 
+() - 70 Agnosticisme: De vooral door Spencer en Huxley ontwikkelde leer, dat we geen kennis kun nen hebben van een boven onze ervaring uitgaande orde. 
 
 Een dergelijke toestand kan niet blijven bestaan, er moet een reactie komen. Gebeurt dat niet, dan zal anarchie of wetteloosheid de kosmos verscheuren. Om groot onheil te voorkomen moeten godsdienst, wetenschap en kunst zich in een hogere vorm dan voor de scheiding mogelijk was, verenigen; een uitdruk king van het goede, het ware en het schone. 
 
@@ -4196,21 +4296,13 @@ Sinds de geboorte van Christiaan Rozenkruis als de stichter van de mysterie scho
 
 Eeuwen voor de opkomst van de moderne wetenschap werkte hij met de al chemisten. Door een tussenpersoon inspireerde hij de nu verminkte werken van Bacon. Zo werden Jacob Boehme en anderen door hem bezield, wat hun werken zo geestverheffend maakt. In de werken van de onsterfelijke Goethe en de meesterwerken van Wagner zien wij diezelfde invloed. Allen moedige geesten die weigeren zich óf door de orthodoxe wetenschap óf door de or thodoxe godsdienst te laten belemmeren, die onverschillig voor laster of vleie rij het waardeloos omhulsel boos wegwerpen en tot de geestelijke kern door dringen, ontlenen hun inspiratie aan dezelfde bron als de machtige geest die Christiaan Rozenkruis bezielde en nog bezielt. 
 
-Zijn naam alleen al is een belichaming van de manier en de middelen waar door de tegenwoordige mens in de goddelijke supermens veranderd wordt. Dit symbool, 
+Zijn naam alleen al is een belichaming van de manier en de middelen waar door de tegenwoordige mens in de goddelijke supermens veranderd wordt. Dit symbool, CHRISTIAN ROSENCREUTZ [Het] christelijke Rozenkruis, toont ons het einddoel van de menselijke ontwikkeling, de weg die wij moeten afleggen en de middelen waardoor dat doel bereikt wordt. In het witte 71 kruis, de omhoog slingerende groene stengel van de plant, de doornen en de bloedrode rozen ligt de oplossing van het wereldmysterie ver borgen: de ontwikkeling van de mens in het verleden, zijn tegenwoordige sa menstelling en vooral het geheim van zijn toekomstige ontwikkeling. 
 
-CHRISTIAN ROSENCREUTZ 
-
-[Het] christelijke Rozenkruis, 
-
-toont ons het einddoel van de menselijke ontwikkeling, de weg die wij moeten afleggen en de middelen waardoor dat doel bereikt wordt. 
-
-In het witte 71 kruis, de omhoog slingerende groene stengel van de plant, de doornen en de bloedrode rozen ligt de oplossing van het wereldmysterie ver borgen: de ontwikkeling van de mens in het verleden, zijn tegenwoordige sa menstelling en vooral het geheim van zijn toekomstige ontwikkeling. 
-
-71 Op 3 juni 1913 werd tijdens de eerste proefleerlingendienst op Mount Ecclesia het zwarte kruis veranderd in een wit kruis. 
+() - 71 Op 3 juni 1913 werd tijdens de eerste proefleerlingendienst op Mount Ecclesia het zwarte kruis veranderd in een wit kruis. 
 
 Gesluierd voor de niet ingewijde, maar des te duidelijker voor de ingewijde, leert het hem hoe hij iedere dag moeizaam moet streven om voor zichzelf de steen der wijzen te maken; de kostbaarste van alle edelstenen, waardevoller dan de kohinoor 72, ja, kostbaarder zelfs dan de som van alle aardse rijkdom! Het herinnert hem eraan hoe de mensheid, in haar onwetendheid, altijd bezig is het daadwerkelijke, stoffelijke materiaal te verspillen dat voor de vorming van deze onbetaalbare schat gebruikt kan worden. 
 
-72 Kohinoor betekent ‘berg van licht’ in het Perzisch; het is de naam van een bijzonder grote diamant in de Engelse kroonjuwelen. 
+() - 72 Kohinoor betekent ‘berg van licht’ in het Perzisch; het is de naam van een bijzonder grote diamant in de Engelse kroonjuwelen. 
 
 Om de mens bij tegenspoed, standvastig en trouw te doen blijven, houdt het Rozenkruis, als inspiratie, de eervolle bekroning omhoog die de overwinnaar wacht en wijst op Christus als de ster van de hoop, de ‘eerst geborene’ die, toen hij het lichaam van Jezus ging bewonen, deze prachtige steen schiep. 
 
@@ -4244,7 +4336,7 @@ Het hoofd van de Orde wordt door de twaalf Broeders voor de buitenwe reld verbor
 
 Verzameld om de Broeders van het Rozenkruis als hun leerlingen, zijn een aantal lekenbroeders, mensen die in verschillende delen van de westerse we reld wonen, maar in staat zijn hun lichaam bewust te verlaten, de diensten bij te wonen, en aan het geestelijke werk in de Tempel deel te nemen daar zij elk afzonderlijk door één van de Oudere Broeders in de manier om dat te doen zijn ingewijd. De meeste ingewijden zijn in staat zich al het gebeurde te her inneren, maar er zijn een paar gevallen waarin het vermogen om uit het lichaam te treden in een vorig leven van weldoen werd verkregen, maar waar door verslaafdheid aan narcotica 73 of door een ziekte zich in het tegenwoordige be staan op de hals gehaald, de hersenen ongeschikt zijn om een indruk van het werk dat de man buiten zijn lichaam verricht, op te nemen. 
 
-73 Zie: Vragen en antwoorden, deel 2, vraag 138. 
+() - 73 Zie: Vragen en antwoorden, deel 2, vraag 138. 
 
 #### <h4 id="initiation">Inwijding</h4>
 
@@ -4254,7 +4346,9 @@ Hoewel dit geldt voor de zogeheten inwijding in broederschaporden en ook voor de
 
 In de eerste plaats past er geen gouden sleutel op de Tempel; verdienste telt, geen geld. Verdienste wordt niet in een dag verkregen; het is de uitkomst van eerder opeengestapelde goede daden. De kandidaat voor inwijding is er zich meestal totaal niet van bewust dat hij kandidaat is. Meestal leeft hij zijn leven in de samenleving en dient hij zijn medemens jaren lang zonder enige bijge dachte, tot op een goede dag de Leraar of hiërofant van de kleine mysteriën  afhankelijk van het land waarin hij woont - in zijn leven verschijnt. De kandi daat heeft tegen die tijd in zichzelf bepaalde eigenschappen aangekweekt, be paalde vermogens door dienstverlening en hulp opgebouwd, waarvan hij zich meestal niet bewust is of die hij niet op de juiste manier weet te gebruiken. De taak van de inwijder zal nu duidelijk zijn: hij toont de kandidaat de latente ei genschappen, zijn sluimerende vermogens, en wijdt hem in het gebruiken daarvan in; en hij verklaart of toont hem voor de eerste keer, hoe hij de statische energie in een dynamisch vermogen kan omzetten. 
 
-Inwijding kan al of niet door een ceremonie bereikt worden, maar laten wij vooral goed begrijpen, dat hoewel inwijding het onvermijdelijke hoogtepunt van volgehouden geestelijk streven is - hetzij bewust of onbewust van de kant van de kandidaat - de inwijding beslist nooit kan plaatsvinden voordat de ver eiste geestelijke ontwikkeling de latente vermogens heeft opgebouwd, die de kandidaat door inwijding dynamisch leert gebruiken; evenmin als het overha len van de trekker van een geweer, dat niet eerst geladen is, een ontlading kan veroorzaken. Evenmin bestaat er gevaar dat de Leraar iemand, die de vereis te ontwikkeling bereikt heeft, over het hoofd zal zien. Elke goede, onzelf zuchtige daad verhoogt de schittering en het trillingsvermogen van de aura van de kandidaat aanmerkelijk. Zo zeker als de magneet de naald aantrekt, zo ze ker zal de schittering van dat aurische licht de Leraar tot hem leiden. 
+Inwijding kan al of niet door een ceremonie bereikt worden, maar laten wij vooral goed begrijpen, dat hoewel inwijding het onvermijdelijke hoogtepunt van volgehouden geestelijk streven is - hetzij bewust of onbewust van de kant van de kandidaat - de inwijding beslist nooit kan plaatsvinden voordat de ver eiste geestelijke ontwikkeling de latente vermogens heeft opgebouwd, die de kandidaat door inwijding dynamisch leert gebruiken; evenmin als het overha len van de trekker van een geweer, dat niet eerst geladen is, een ontlading kan veroorzaken. 
+
+Evenmin bestaat er gevaar dat de Leraar iemand, die de vereis te ontwikkeling bereikt heeft, over het hoofd zal zien. Elke goede, onzelf zuchtige daad verhoogt de schittering en het trillingsvermogen van de aura van de kandidaat aanmerkelijk. Zo zeker als de magneet de naald aantrekt, zo ze ker zal de schittering van dat aurische licht de Leraar tot hem leiden. 
 
 Het is natuurlijk niet mogelijk om in een boek, dat voor het grote publiek bestemd is, de inwijdingsgraden van de Rozenkruisers te beschrijven. Dat zou in de eerste plaats een schending van vertrouwen zijn en in de tweede plaats zou het niet kunnen bij gebrek aan woorden waarin men zich behoorlijk kan uitdrukken. Het is echter wel geoorloofd ze in hoofdlijnen te schetsen en het doel van inwijding aan te geven. 
 
@@ -4264,7 +4358,7 @@ Nadat de kandidaat de les geleerd heeft, zoals in hoofdstuk 10 praktisch be schr
 
 Wanneer de tijd gekomen is dat hij de tweede graad kan krijgen, wordt hij op dezelfde manier in staat gesteld zijn aandacht op de omstandigheden van de tweede rondte van de Aardeperiode te richten, zoals die in het geheugen der natuur afgebeeld zijn. Dan slaat hij volkomen bewust de vorderingen van de maagdelijke geesten in die tijd gade, ongeveer zoals Peter Ibbetson - de hoofd persoon uit het boek Peter Ibbetson van George du Maurier 74 zijn kinderjaren in de nachten dat hij waar droomde, gadesloeg. Dit boek is de moeite van het le zen waard, omdat het sommige fasen van onderbewustzijn zeer juist beschrijft. In de derde graad volgt de kandidaat de ontwikkeling van de derde of Maan rondte en in de vierde graad ziet hij de vooruitgang die wij in de eerste helft van de vierde rondte gemaakt hebben. 
 
-74 Peter Ibbetson, Georg du Maurier, schrijver van Trilby, vertaald door Marly. Van Holkema en Warendorf, Amsterdam, z.j. Een, voor onze begrippen, langdradige roman waarvan hoofd stuk 4 interessant is. 
+() - 74 Peter Ibbetson, Georg du Maurier, schrijver van Trilby, vertaald door Marly. Van Holkema en Warendorf, Amsterdam, z.j. Een, voor onze begrippen, langdradige roman waarvan hoofd stuk 4 interessant is. 
 
 Toch gaat hij in iedere graad nog een stap verder. De leerling ziet, behalve het werk dat in elke rondte gedaan wordt, ook nog het werk dat in het overeen komstige tijdvak tijdens ons tegenwoordige verblijf op de aarde, bol D, tot stand werd gebracht. 
 
@@ -4280,7 +4374,9 @@ Als wij bij de vroegere inwijdingsstelsels lezen dat de kandidaat tijdens drie e
 
 Na dus met de weg, die wij in het verleden afgelegd hebben, vertrouwd te zijn geraakt, voert de vijfde graad de kandidaat naar het einde van de Aardepe riode, wanneer een verheerlijkte mensheid de vruchten van deze periode zal inzamelen en van de zeven bollen - waarop wij ons tijdens iedere dag van open baring ontwikkelen - overbrengen op de eerste van de vijf duistere bollen, die ons tijdens de kosmische nachten tot verblijfplaats dienen. De dichtste van deze bollen is in het gebied van de Abstracte gedachte gelegen, en is inder daad de Chaos waarvan al eerder werd gesproken. Deze bol is ook de derde hemel. Wanneer Paulus zegt, dat hij in de derde hemel opgestegen is en daar dingen ziet, waarvan hij het recht niet heeft ze te openbaren, 2 Kor. 12:2-5, dan verwijst hij naar dezelfde ervaringen als in de tegenwoordige Rozenkruisers mysteriën in de vijfde graad opgedaan worden. 
 
-Nadat de kandidaat in de vijfde graad het einddoel gezien heeft, worden hem de middelen getoond, waarmee hij dat einddoel tijdens de overige drie en een halve rondte van de Aardeperiode kan bereiken, terwijl de vier overige graden aan zijn verdere ontwikkeling in dit opzicht gewijd zijn. Door het inzicht dat hij zo gekregen heeft, is hij in staat verstandig met de krachten ten goede mee te werken en zal hij daardoor de dag van onze bevrijding helpen bespoedi gen. 
+Nadat de kandidaat in de vijfde graad het einddoel gezien heeft, worden hem de middelen getoond, waarmee hij dat einddoel tijdens de overige drie en een halve rondte van de Aardeperiode kan bereiken, terwijl de vier overige graden aan zijn verdere ontwikkeling in dit opzicht gewijd zijn. 
+
+Door het inzicht dat hij zo gekregen heeft, is hij in staat verstandig met de krachten ten goede mee te werken en zal hij daardoor de dag van onze bevrijding helpen bespoedi gen. 
 
 Om een veel voorkomende dwaling uit te roeien, willen wij u er vooral op wijzen dat wij geen Rozenkruisers zijn omdat wij hun leer bestuderen, noch dat toelating tot de Tempel ons het recht geeft die naam te dragen. Ik ben bij voorbeeld maar een lekenbroeder, een leerling, en zou mij onder geen enkele voorwaarde een Rozenkruiser durven noemen. 
 
@@ -4288,15 +4384,87 @@ Iedereen weet heel goed, dat wanneer een jongen de verschillende klassen van de 
 
 Tijdens de laatste paar eeuwen hebben de Broeders in het geheim voor de mensheid gewerkt. Elke nacht is er om twaalf uur in de Tempel een dienst, waar de Oudere Broeders, bijgestaan door de lekenbroeders, die in staat zijn hun dagelijkse werk te onderbreken - want velen van hen wonen in plaatsen waar het nog dag is, wanneer op de plaats waar de Tempel van het Rozen kruis gelegen is, het middernachtelijke uur slaat - alle gedachten van zinnelijk heid, begeerte, egoïsme en materialisme van heinde en ver in de westerse we reld te verzamelen. Zij proberen die in zuivere liefde, goedheid, altruïsme en geestelijke verlangens om te zetten en zenden ze daarna naar de wereld terug om al wat goed is te verheffen en aan te moedigen. Zonder deze krachtige bron van geestelijke trillingen zou het materialisme al lang het geestelijk streven vol ledig hebben verstikt. Want vanuit een geestelijk standpunt bezien, is er nooit een duisterder periode geweest dan de laatste drie honderd75 jaar van mate rialisme. 
 
-75 Drie eeuwen vóór 1910, dus sinds ca. 1600. 
+() - 75 Drie eeuwen vóór 1910, dus sinds ca. 1600. 
 
 Nu is echter de tijd aangebroken dat het werk, dat in het geheim wordt ver richt, aangevuld wordt door een rechtstreeksere poging om een duidelijke, lo gische en samenhangende leer over de oorsprong, de tegenwoordige, en toe komstige ontwikkeling van de wereld en de mens, bekend te maken. Een leer die zowel het geestelijke als wetenschappelijke standpunt weergeeft, die niets beweert wat niet door de rede en de logica bevestigd wordt. Een leer die het verstand bevredigt omdat zij een logische oplossing voor alle raadsels geeft, geen enkele vraag ontwijkt of zonder argument voor bewezen aanneemt, en alles op grondige en tegelijk heldere manier verklaart. 
 
 Maar, en dit maar is van zeer groot belang, de Rozenkruisers zien een verstande lijk begrip van God en het heelal niet als einddoel op zich. Integendeel. Hoe groter het intellect is, hoe groter het gevaar dat men het misbruikt. Deze wetenschappelijke, logische, diepgaande leer wordt dan ook alleen maar gegeven, zodat de mens in zijn hart zal geloven waarmee zijn hoofd heeft ingestemd en daardoor het ware geestelijke leven gaat lei den. 
 
-- o – O – o  
+#### <h4 id="the-rosicrucian-fellowship">THE ROSICRUCIAN FELLOWSHIP</h4>
+
+In order to promulgate this teaching the Rosicrucian Fellowship has been formed, and anyone who is not a Hypnotist, professional Medium, Clairvoyant, Palmist or Astrologer, may enroll as a Preliminary Course Student by writing to the General Secretary. There is no fee for Initiation, or dues. Money cannot buy our teaching, advancement depends on merit. 
+
+After completing the Preliminary Course one is put on the Regular Student list for a period of two years, after which if he has become so imbued with the verity of the Rosicrucian teachings that he is prepared to sever his connection with all other occult or religious orders--the Christian Churches and Fraternal Orders are excepted--he may assume the Obligation which admits him to the degree of Probationer. 
+
+We do not mean to insinuate by the foregoing clause that all other schools of occultism are of no account--far from it--many roads lead to Rome, but we shall attain with much less effort if we follow one of them than if we zigzag from path to path. Our time and energy are limited in the first place, and are still further curtailed by family and social duties not to be neglected for self-development. It is to husband the minim of energy which we may legitimately expend upon ourselves, and to avoid waste of the scanty moments at our disposal, that resignation from all other Orders is insisted upon by the leaders. 
+
+The world is an aggregate of opportunities, but to take advantage of any one of them we must possess efficiency in a certain line of endeavor. Development of our spiritual powers will enable us to help or harm our weaker brothers. It is only justifiable when efficiency in Service of Humanity is the object. 
+
+The Rosicrucian method of attainment differs from other system in one especial particular: It aims, even at the very start, to emancipate the pupil from dependence upon others, to make him self-reliant in the very highest degree, so that he may be able to stand alone under all circumstances and cope with all conditions. Only one who is thus strongly poised can help the weak. 
+
+When a number of people meet in a class or circle for self-development along negative lines, result are usually achieved in a short time on the principle that it is easier to drift with the tide than to breast the current. The medium is not master of his actions, however, but the slave of a spirit control. Hence such gatherings must be shunned by Probationers. 
+
+Even classes which meet in positive attitude of mind are not advised by the Elder Brothers, because the latent powers of all members are massed and visions of the inner worlds obtained by anyone there, are partly due to the faculties of others. The heat of coal in the center of a fire is enhanced by surrounding coals, and the clairvoyant produced in a circle, be it ever so positive, is a hot-house plant, too dependent himself to be trusted with the care of others. 
+
+Therefore each Probationer in the Rosicrucian Fellowship performs his exercises in the seclusion and privacy of his room. Results may be obtained more slowly by this system, but when they appear, they will be manifest as powers cultivated by himself, usable independently of all others. Besides, the Rosicrucian methods build character at the same time that they develop spiritual faculties and thus safeguard the pupil against yielding to temptation to prostitute divine powers for worldly prestige. 
+
+When the Probationer has compiled with the necessary requirements and completed the term of probation, he may send request for individual instruction by the Elder Brothers through the General Secretary. 
+
+#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">THE INTERNATIONAL HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP</h4>
+
+Having formed the Rosicrucian Fellowship for the purpose of promulgating the teaching given in this book, and aiding aspirants on the path of progression, it became necessary to find a permanent home and facilities requisite for doing this work. To this end a tract of land was purchased in the town of Oceanside, CA., ninety miles south of Los Angeles and forty miles north of San Diego, the southwesternmost city of the United States. 
+
+This tract occupies a commanding site having a most wonderful view of the great Pacific Ocean to the west and the beautiful snow capped mountains in the east. 
+
+Southern California offers exceptional opportunities for spiritual growth, because of the ether atmosphere being denser than in any other part of the world and Mount Ecclesia, as the Earth Fellowship Headquarters are called, is particularly favored in this respect. 
+
+#### <h4 id="our-buildings">OUR BUILDINGS</h4>
+
+The work at Headquarters was begun toward the end of 1911. To date (1973) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two 15-minute services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be conducted on Sundays. A two-story Administration Building was completed in 1917, and renovated in 1962. On the second floor are offices for the various departments: Esoteric, Correspondence Courses, Editorial, Foreign Languages, and Accounting. On the first floor are the Shipping Department and the print shop, where Lessons, RAYS, pamphlets, etc., are printed. An offset press was installed in 1972. 
+
+The Dining Hall was built in 1914, added to in the late 30's, and renovated in 1962. Vegetarian meals are served. The Healing Temple, where a healing service is conducted each evening, was completed in 1920. Rose Cross Lodge was built in 1924, for the use of guests and workers. It is now used largely for storing books. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from noncontagious diseases. It is now our Guest House, used by workers and members. Numerous cottages built since 1962, and some renovated ones provide living quarters for workers. The Healing Dept. Building was erected in 1940. Here secretaries conduct our healing work. 
+
+#### <h4 id="the-correspondence-school">THE CORRESPONDENCE SCHOOL</h4>
+
+In addition to publications of The Rosicrucian Fellowship noted in the back of this book there are three correspondence courses offered on the freewill basis: Rosicrucian Philosophy, Bible Interpretation, and Astrology. Information concerning these is furnished upon request. 
+
+#### <h4 id="the-symbolism-of-the-rose-cross">THE SYMBOLISM OF THE ROSE CROSS</h4>
+
+When inquiring into the meaning of any myth, legend or symbol of occult value, it is an absolute necessity that we should understand that, as any object in the three-dimensional world may, or rather must, be viewed from all points to obtain a full and complete comprehension thereof, so all symbols have a number of aspects. Each viewpoint reveals a different phase from the others, and all have an equal claim to consideration. 
+
+Viewed in its fullness, this wonderful symbol contains the key to man's past evolution, his present constitution and future development, together with the method of attainment. In the form where it is represented with a single rose in the center it symbolizes the spirit radiating from itself the four vehicles: the dense, vital and desire bodies plus the mind; where the spirit has drawn into its instruments and become the indwelling human spirit. But there was a time when that condition did not obtain, a time when the three-fold spirit hovered above its vehicles and was unable to enter. Then the cross stood alone without the rose, symbolizing the condition which prevailed in the early third of Atlantis. There was even a time when the upper limb of the cross was lacking and man's constitution was represented by the Tau (T) that was in the Lemurian epoch when he had only the dense, vital and desire bodies, but lacked the mind. Then the animal nature was paramount. Man followed desire without reserve. At a still earlier time, in the Hyperborean Epoch, he was also minus the desire body and possessed only the dense and vital bodies. Then man-in-the-making was like the plants: chaste and devoid of desire. At that time his constitution could not have been represented by a cross. It was symbolized by a straight shaft, a pillar (I). 
+
+This symbol has been considered phallic, an emblem showing the licentiousness of the people who worshiped it. Truly it is a symbol of generation, but generation is by no means synonymous with degradation--far from it--the pillar is the lower limb of the cross, symbolical of man-in-the-making when he was plantlike. The plant is unconscious of passion, desire, innocent of evil. It generates and perpetuates its species in a manner so pure, so chaste, that properly understood, it is a model for fallen and passionate humanity to worship as an ideal and it was given to earlier races with that intent. The Phallus and Yona used in the Greek mystery temples were given by the Hierophants in that spirit, and over the temple was placed the enigmatical words: "Man, know thyself," which motto, properly understood, is similar to that of the Rose Cross, for it shows the reason for man's fall into desire, passion and sin, and gives the key to his liberation in the same way that the roses upon the cross indicate the path of liberation. 
+
+The plant is innocent, but not virtuous; it has neither desire nor choice. Man has both. He may follow desire or not as he wishes, that he may learn to master himself. 
+
+While he was plant-like, a hermaphrodite, he could generate from himself without the help of another, but though he was as chaste and as innocent as the plants, he was also as unconscious and inert. In order to advance he must have desire to spur him on, and a mind to guide him, and therefore half his creative force was retained for the purpose of building a brain and a larynx. He had at that time a round shape similar to that of the embryo, and the present larynx was a part of the creative organ which adhered to the head when the body straightened out. The connection between the two is seen even today in the fact that the boy, who expresses the positive pole of the generative force, changes his voice at puberty. That the same force which builds another body when it is sent outwards builds the brain when retained is equally clear when we consider that sex mania leads to insanity, while the profound thinker will feel little inclination for amorous practices. He uses all his creative force to generate thought instead of wasting it in sense gratification. 
+
+At the time when man commenced to withhold half his creative force for the above mentioned purpose, his consciousness was directed inwards to build organs. He was capable of seeing these organs and he used the same creative force then under the direction of Creative Hierarchies in planning and in executing plans of organs, that he now uses in the outer world to build airships, houses, automobiles, telephones, etc. Then he was unconscious of how that half of the creative force was used which was sent outwards for generation of another body. 
+
+Generation was carried on under the guidance of Angels. At certain times of the year they herded the growing man together in great temples and there the generative act was performed. Man was unconscious of the fact. His eyes had not yet been opened, and though it was necessary for him to have a partner who had the half or other pole of the creative force available for generation which he retained to build organs within, he did not at first know his wife. In ordinary life he was shut within himself so far as the Physical World was concerned, but it was different when he was brought into such intimate and close touch with another, as in the case of the generative act. Then for the moment the spirit pierced the veil of flesh and Adam knew his wife. He had ceased to know himself--thus his consciousness became more and more and more centered outside himself in the outside world and he lost his inner perception. That cannot be fully regained until he has passed to the stage where it is no longer necessary to have a partner in generation, and he has reached the development where he can again utilize his whole creative force at will. Then he will again know himself as he did during his stage of plant-like existence, but with this all important difference that he will use his creative faculty consciously, and will not be restricted to using it solely for the pro-creation of his own species, but may create whatever he will. Neither will he use his present organs of generation, but the larynx will speak the creative word as directed by the spirit through the coordinating mechanism of the brain. Thus the two organs built by half the creative force will in time be the means whereby man will eventually become an independent self-conscious creator. 
+
+Even at the present time man molds matter both by thought and voice, as instanced in scientific experiments where thoughts have created an image on photographic plates, and where the human voice has created geometrical figures in sand, etc. In proportion as man becomes unselfish he will release the creative force held in leash. That will give him added thought power and enable him to utilize it for upliftment of others instead of to plan how to degrade and subject others to his will. He will learn how to master himself and cease to try to master others, except it be done temporarily for their good, but never for selfish ends. Only one who has mastered himself is qualified to rule others, and competent to judge when that should be done, and what is best for them. 
+
+Thus we see that in time the present passionate mode of generation will be again superseded by a pure and more efficient method than the present, and that also is symbolized in the Rose Cross where the rose is placed in the center between the four arms. The long limb represents the body, the two horizontals, the two arms, and the short upper limb, the head. The rose is in place of the larynx. 
+
+The rose, like any other flower, is the generative organ of the plant. Its green stem carries the colorless, passionless plant blood. The blood red rose shows the passion filled blood of the human race, but in the rose the vital fluid is not sensuous, it is chaste and pure. Thus it is an excellent symbol of the generative organ in the pure and holy state to which man will attain when he has cleansed and purified his blood from desire, when he has become chaste, pure and Christ-like. 
+
+Therefore the Rosicrucians look ardently forward to the day when the roses shall bloom upon the cross of humanity, therefore the Elder Brothers greet the aspiring soul with the words of the Rosicrucian Greeting: "May the Roses bloom upon your Cross," and therefore the greeting is given in the meetings of the Fellowship Centers by the leader to the assembled students, probationers and disciples who respond to the greeting by saying "And on yours, also." 
+
+John speaks of his purification (1st epistle, 3:9) and says that he who is born of God cannot sin, for he keepeth his seed within him. It is an absolute necessity to progress that the aspirant should be chaste. Yet it must be borne in mind, that absolute celibacy is not required of man until he has reached a point where he is ready for the great initiations, and that is a duty we owe to the whole to perpetuate the race. If we are mentally, morally, physically and financially able, we may approach the act of generation as a holy sacrifice laid upon the altar of humanity, but not for sensual pleasure. Neither should it be performed in an austere, forbidding frame of mind, but in glad giving up of oneself for the privilege of furnishing a friend seeking rebirth with the body and environment he needs for development. Thus we shall also help him cultivate the blooming roses upon his cross. 
 
 <h2 id="">Bijlagen</h2>
+
+The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
+
+Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
+
+The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
+
+By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
+
+[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
 
 ### <h3 id="addendum-a">De avond- en ochtendoefening voor de aspirant-rozenkruiser</h3>
 
@@ -4318,7 +4486,9 @@ Concentratie, de tweede oefening, wordt 's morgens gedaan, meteen nadat de aspir
 
 Tijdens de slaap is de begeertestof in stromende beweging, en de centra in het begeertelichaam wentelen met enorme snelheid rond. Maar zodra het be geertelichaam het stoffelijk lichaam binnentreedt komt - door de dichtheid van de materie en de zenuwstromen van het levenslichaam, die van en naar de hersenen signalen sturen - die beweging bijna tot stilstand. Het doel van deze oefening is om het stoffelijk lichaam in dezelfde staat van traagheid en onge voeligheid terug te brengen als tijdens de slaap, hoewel de inwonende geest klaarwakker, levendig en bewust is. Zo scheppen wij de voorwaarden waaron der de zinnenscentra van het begeertelichaam kunnen gaan wentelen, terwijl dit zich toch binnen het stoffelijk lichaam bevindt. 
 
-Concentratie is voor veel mensen een onduidelijk begrip, dat maar weinig mensen kennen en ik zal daarom proberen haar betekenis duidelijk te maken. Het woordenboek geeft verschillende verklaringen, die alle op dit begrip van toepassing zijn. Eén ervan: ‘in een middelpunt samentrekken’; een andere, vanuit de scheikunde: ‘opvoeren tot de grootst mogelijke zuiverheid en kracht door waardeloze bestanddelen te verwijderen.’ Toegepast op ons vraagstuk zegt één van bovengenoemde definities ons dat onze gedachten versterkt wor den als wij ze op één punt richten. Dit berust op hetzelfde principe, dat de kracht van zonnestralen vergroot worden door ze in het brandpunt van een lens te bundelen. Door voor een bepaalde tijd alle onderwerpen uit onze ge dachten te verwijderen, is onze hele denkkracht beschikbaar om het onder werp op te roepen, of het vraagstuk, waarop wij ons concentreren, op te los sen. Wij zouden zo in ons onderwerp kunnen opgaan dat wij een kanon schot, boven onze hoofden afgevuurd, niet zouden horen. Iemand kan zo volledig in een boek verdiept zijn, dat er voor hem niets ander bestaat. Zo moet de aspirant naar geestelijk gezicht zich het vermogen eigen maken net zo in het onderwerp waarop hij zich concentreert op te gaan, zodat hij de zintuigelijke wereld buiten zijn bewustzijn kan sluiten en zijn hele aandacht aan de geestelijke wereld kan geven. Wanneer hij hierin slaagt, zal hij de gees telijke kant van een voorwerp of idee door een geestelijk licht belicht zien. Zo verkrijgt hij kennis van de geestelijke structuur van de dingen, waar een we relds mens zelfs niet van droomt. Als hij dit punt van abstractie bereikt heeft, beginnen de waarnemingscentra in het begeertelichaam langzaam binnen het stoffelijk lichaam te wentelen en zullen zo voor zich een plaats veroveren. Op de duur zal dit steeds meer omlijnd worden, zodat het steeds minder moeite kost om de waarnemingscentra te laten draaien. 
+Concentratie is voor veel mensen een onduidelijk begrip, dat maar weinig mensen kennen en ik zal daarom proberen haar betekenis duidelijk te maken. Het woordenboek geeft verschillende verklaringen, die alle op dit begrip van toepassing zijn. Eén ervan: ‘in een middelpunt samentrekken’; een andere, vanuit de scheikunde: ‘opvoeren tot de grootst mogelijke zuiverheid en kracht door waardeloze bestanddelen te verwijderen.’ Toegepast op ons vraagstuk zegt één van bovengenoemde definities ons dat onze gedachten versterkt wor den als wij ze op één punt richten. Dit berust op hetzelfde principe, dat de kracht van zonnestralen vergroot worden door ze in het brandpunt van een lens te bundelen. Door voor een bepaalde tijd alle onderwerpen uit onze ge dachten te verwijderen, is onze hele denkkracht beschikbaar om het onder werp op te roepen, of het vraagstuk, waarop wij ons concentreren, op te los sen. Wij zouden zo in ons onderwerp kunnen opgaan dat wij een kanon schot, boven onze hoofden afgevuurd, niet zouden horen. Iemand kan zo volledig in een boek verdiept zijn, dat er voor hem niets ander bestaat. Zo moet de aspirant naar geestelijk gezicht zich het vermogen eigen maken net zo in het onderwerp waarop hij zich concentreert op te gaan, zodat hij de zintuigelijke wereld buiten zijn bewustzijn kan sluiten en zijn hele aandacht aan de geestelijke wereld kan geven. Wanneer hij hierin slaagt, zal hij de gees telijke kant van een voorwerp of idee door een geestelijk licht belicht zien. Zo verkrijgt hij kennis van de geestelijke structuur van de dingen, waar een we relds mens zelfs niet van droomt. 
+
+Als hij dit punt van abstractie bereikt heeft, beginnen de waarnemingscentra in het begeertelichaam langzaam binnen het stoffelijk lichaam te wentelen en zullen zo voor zich een plaats veroveren. Op de duur zal dit steeds meer omlijnd worden, zodat het steeds minder moeite kost om de waarnemingscentra te laten draaien. 
 
 Elk hoog en verheven ideaal kan onderwerp van concentratie zijn, maar moet van die aard zijn dat het de aspirant boven alle gewone dingen, boven tijd en ruimte, verheft. Er bestaat geen betere spreuk dan de eerste vijf verzen van het Johannesevangelie. Door die elke morgen, zin voor zin, als onderwerp te nemen, zal dit de aspirant na verloop van tijd een geweldig inzicht in het be gin van ons heelal en van de schepping geven, een inzicht dat boekenwijsheid ver overtreft. 
 
@@ -4331,6 +4501,8 @@ Een oude legende zegt dat het delven naar schatten in de nachtelijke stilte en v
 Tot slot: Zie de oefeningen nooit als een last. Schat hen naar waarde; ze zijn ons groot ste voorrecht. Alleen zo bezien kunnen wij ze eer aandoen en er de volle vruch ten van plukken. 
 
 ### <h3 id="concerning-the-origin-of-the-fellowship-teachings">Over het ontstaan van De wereldbeschouwing der Rozenkruisers</h3>
+
+Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
 
 In de jaren 1907-08 werd Max Heindel - na een proef te hebben ondergaan wat betreft de oprechtheid van zijn beweegredenen en het onbaatzuchtige verlan gen zijn medemens te helpen - door de Broeders van het Rozenkruis uitgeko zen om de westerse wijsheidsleer openbaar te maken en zo de mensheid te helpen zich op het komende tijdperk van universele broederschap voor te be reiden. Door middel van uiterste zelfdiscipline en toegewijde hulpvaardigheid verkreeg hij de status van lekenbroeder (ingewijde) in de verheven Orde van het Rozenkruis. 
 
@@ -4360,103 +4532,67 @@ Als de mysticus het licht van de dageraad ziet, beziet hij dit als de dagelijkse
 
 Ooit heeft iedereen de verschillende paden van het leven betreden. Eens hebben wij door het leven gewandeld onder de Marsstraal en zijn pad van activiteit en passie betreden, en hebben wij ons er niet om bekommerd welk leed of wat er van anderen terecht kwam. In een ander leven kwamen wij onder de lichtere straal van de Venuskleur en betraden het pad van de kant van de liefde, van het leven. Weer later het diepblauwe pad, of de Saturnusstraal en weer later de lichtblauwe straal van Jupiter. Zo kijkt iedereen uit naar geeste lijk inzicht, dat van de gele Uranusstraal komt, hoewel de meeste mensen nu nog niet in staat zijn die te ontvangen en tevreden moeten zijn met de don kerder kleur geel van de Mercuriusstraal. Wij werken geleidelijk naar het witte licht toe dat van de zon komt, dat de vereniging van alle kleuren is. Hier dienen wij naar te streven, want het licht van alle andere stralen komt op de tweede plaats. Alle dingen komen van de grote, centrale Bron. 
 
-‘En wat de duisternis betreft, is die slecht?’ kan iemand zich afvragen. Nee, er is niets slecht in Gods universum. Overdag ontvangen wij, door het licht van de zon, de schittering op onze kleine aarde die in de ruimte draait. Als er alleen maar licht zou zijn, zouden wij misschien niets anders dan deze aarde waar nemen en niet weten dat er meer is dan zon en maan. Maar wanneer de avond komt en de schittering van de dag geleidelijk verdwenen is, als de zon de hemel niet langer verlicht, kunnen wij ons, tot op zekere hoogte ten min ste, van de onmetelijkheid van de ruimte bewust worden. Wij kunnen werel den zien die miljoenen lichtjaren verwijderd zijn, en wordt de geest tot won derschone overgave aangezet, omdat wij de waarheid aanschouwen dat GOD ALLES IN ALLEN IS. 
+‘En wat de duisternis betreft, is die slecht?’ kan iemand zich afvragen. Nee, er is niets slecht in Gods universum. Overdag ontvangen wij, door het licht van de zon, de schittering op onze kleine aarde die in de ruimte draait. Als er alleen maar licht zou zijn, zouden wij misschien niets anders dan deze aarde waar nemen en niet weten dat er meer is dan zon en maan. Maar wanneer de avond komt en de schittering van de dag geleidelijk verdwenen is, als de zon de hemel niet langer verlicht, kunnen wij ons, tot op zekere hoogte ten min ste, van de onmetelijkheid van de ruimte bewust worden. Wij kunnen werel den zien die miljoenen lichtjaren verwijderd zijn, en wordt de geest tot won derschone overgave aangezet, omdat wij de waarheid aanschouwen dat GOD ALLES IN ALLEN IS. - Max Heindel 
 
-Max Heindel 
+### <h3 id="addendum-b">Reïncarnatie of wedergeboorte?</h3>
 
-### Reïncarnatie of wedergeboorte?
+Vraag 31. Ingrijpen in het lot: Is het verkeerd in ons karma in te grijpen? Of moeten wij onze goddelijkheid laten gelden en ons boven de omstandigheden verheffen door middel van onze goddelijke natuur? 
 
-Vraag 31. Ingrijpen in het lot 
+Antwoord: Bovenstaande vraag werd de heer Heindel gesteld tijdens één van zijn voordrachten in Los Angeles. Zijn antwoord luidde ongeveer als volgt: Hoewel alle grote godsdiensten door God gegeven werden, is er een wester se godsdienst voor de westerlingen en het hindoeïsme voor de mensen in In dia. Ik zie geen enkele reden waarom wij hun terminologie zouden overne men en de mensen hier zouden dwingen Sanskriet te leren als wij zelf een voortreffelijke taal hebben met woorden waarmee alles is uit te drukken. Om dit duidelijk te maken zullen wij een voorbeeld nemen van een gebeurtenis die zich enige jaren geleden afspeelde. In een bepaalde vereniging, die de fout maakte oosterse leringen te verspreiden en hun termen hier in het westen te gebruiken, was toen een meningsverschil. Het betrof de betekenis van het woord avyaktam. 
 
-Is het verkeerd in ons karma in te grijpen? Of moeten wij onze goddelijkheid laten gelden en ons boven de omstandigheden verheffen door middel van onze goddelijke natuur? 
-
-Antwoord: Bovenstaande vraag werd de heer Heindel gesteld tijdens één van zijn voordrachten in Los Angeles. Zijn antwoord luidde ongeveer als volgt: Hoewel alle grote godsdiensten door God gegeven werden, is er een wester se godsdienst voor de westerlingen en het hindoeïsme voor de mensen in In dia. Ik zie geen enkele reden waarom wij hun terminologie zouden overne men en de mensen hier zouden dwingen Sanskriet te leren als wij zelf een voortreffelijke taal hebben met woorden waarmee alles is uit te drukken. Om dit duidelijk te maken zullen wij een voorbeeld nemen van een gebeurtenis die zich enige jaren geleden afspeelde. In een bepaalde vereniging, die de fout maakte oosterse leringen te verspreiden en hun termen hier in het westen te gebruiken, was toen een meningsverschil. Het betrof de betekenis van het woord avyaktam. Zelfs onder de hindoes heerst geen eenstemmigheid over de betekenis van hun terminologie. Het kostte stapels papier en liters inkt om het geschil uit de weg te ruimen en het schijnt dat zij het eens werden over de volgende definitie: ‘Avyaktam is parabraham gehuld in mulaprakriti waar van de upahhis zijn gemaakt tijdens de manvantara en waarin zij weer oplos sen bij de komst van arolaya.’ Max Heindel zei toen dat hij hoopte dat de aanwezigen nu begrepen wat ‘avyaktam’ is. Toen zijn toehoorders lachten en hun hoofd schudden, zei de spreker dat het hem speet dat zij een zo geleerde uitleg niet begrepen. Maar hij wilde wel proberen of hij in huis-tuin-en-keuken Engels de zaak zou kunnen verduidelijken. ‘Avyaktam is de godheid gehuld in de oerstof waaruit tijdens de Dag van Openbaring de lichamen bestaan en waarin zij weer oplossen als de kosmische nacht aanbreekt.’ 
+Zelfs onder de hindoes heerst geen eenstemmigheid over de betekenis van hun terminologie. Het kostte stapels papier en liters inkt om het geschil uit de weg te ruimen en het schijnt dat zij het eens werden over de volgende definitie: ‘Avyaktam is parabraham gehuld in mulaprakriti waar van de upahhis zijn gemaakt tijdens de manvantara en waarin zij weer oplos sen bij de komst van arolaya.’ Max Heindel zei toen dat hij hoopte dat de aanwezigen nu begrepen wat ‘avyaktam’ is. Toen zijn toehoorders lachten en hun hoofd schudden, zei de spreker dat het hem speet dat zij een zo geleerde uitleg niet begrepen. Maar hij wilde wel proberen of hij in huis-tuin-en-keuken Engels de zaak zou kunnen verduidelijken. ‘Avyaktam is de godheid gehuld in de oerstof waaruit tijdens de Dag van Openbaring de lichamen bestaan en waarin zij weer oplossen als de kosmische nacht aanbreekt.’ 
 
 Toen de aanwezigen verklaarden deze uitleg te begrijpen, zei Max Heindel dat dit ook geldt voor het woord ‘karma’. Iedereen in de Verenigde Staten van Amerika, en in een groot deel van de rest van de wereld, weet zonder nadere uitleg wat ‘lotsbestemming’ is en er zijn verscheidene andere Engelse woorden die beter kunnen worden gebruikt dan het hindoese woord ‘karma’, waarvan het merendeel van de westerlingen de betekenis niet kent. De spreker was ook van mening dat woorden als ‘astraal’ en ‘incarnatie’ niet op hun plaats waren. Het speet hem dat het woord ‘reïncarnatie’ in een van zijn eerste geschriften, de Cosmo of De wereldbeschouwing der Rozenkruisers, was gebruikt. De Oudere Broeders, die hem hun leer in het Duits gaven, gebruikten altijd het woord ‘Wiedergeburt’, dat wedergeboorte betekent. Er is een groot verschil tussen beide woorden, wat op het eerste gezicht niet opvalt. 
 
 Een geest kan in het lichaam van een volwassene incarneren door de eige naar uit zijn voertuig te verdringen; dit is bezetenheid. Als wij spreken van we dergeboorte dan is er maar één betekenis mogelijk. Met het oog hierop dringt hij er bij zijn toehoorders op aan nooit het woord ‘reïncarnatie’ te gebruiken, maar altijd ‘wedergeboorte’. 
-
 ______ 
+
 Uit: De Leer der Rozenkruisers in vragen en antwoorden, deel 2, een artikel van Mevr. Heindel cite rend uit Echoes van maart 1915. 
 
-### De symboliek van het Rozenkruis 
+### <h3 id="addendum-c">Addendum C: Footnote to Chapter XIII (Regarding Race)</h3>
 
-19. Het Rozenkruisersembleem!!!!!!!!!!!!!!!!!!!!!! 
+The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
 
-Als wij de betekenis van de een of andere mythe, legende of occult symbool proberen te doorgronden, is het absoluut noodzakelijk dat wij begrijpen, dat alle symbolen verschillende kanten hebben, zoals elk voorwerp in de driedi mensionale wereld van alle kanten kan en dient bekeken te worden om er een volledig en juist beeld van te kunnen krijgen. 
+Growth never ceases. In the twenty-first century, we can look back and see the tremendous growth that has taken place in our world. These changes have taken place in accordance with spiritual principles outlined in this book. 
 
-In zijn geheel bevat dit Rozenkruiserssymbool de sleutel van de ontwikke ling van de mens in het verleden, zijn tegenwoordige samenstelling, en ontwik keling in de toekomst, en eveneens de methode waardoor dat einddoel bereikt kan worden. Afgebeeld met een enkele roos in het midden, symboliseert het de geest, die uit zichzelf de vier voertuigen: het stoffelijk lichaam, het levens lichaam, het begeertelichaam en het verstand uitstraalt; het punt waarop de geest zich in zijn lichamen teruggetrokken heeft en de inwonende geest is ge worden. Er is echter een tijd geweest dat dit nog niet zo was, maar dat de drievoudige geest boven zijn lichamen zweefde en niet de macht had er bin nen te treden. Toen was het kruis er alleen, zonder de roos, het symbool van de heersende toestand in het eerste derde gedeelte van Atlantis. Er was een tijd dat de top van het kruis ontbrak en de menselijke samenstelling door de Tau, Τ, werd voorgesteld. Dat was in het Lemurische tijdvak toen de mens al leen een stoffelijk lichaam, een levenslichaam en een begeertelichaam bezat, maar het verstand miste. Toen overheerste de dierlijke aard. De mens volgde onvoorwaardelijk zijn begeerten. Op een nóg vroeger tijdstip, in het Hyperbo rese tijdvak, miste de mens ook het begeertelichaam en bezat hij alleen het stoffelijk lichaam en het levenslichaam. Toen was de mens in wording gelijk aan de plant: rein en zonder begeerte. In die tijd werd de mens niet door een kruis voorgesteld. Hij werd door een rechte staak, een pilaar, Ι, voorgesteld. 
+During the Lemurian Epoch, Jehovah came with His Angels and Archangels and made the first great division into Races, giving to each group the guiding influence of a Race-spirit-an Archangel. For each virgin spirit he appointed one of the Angels to act as guardian until the individual spirit had grown strong enough to become emancipated from all outside influence. There will be a total of sixteen races. (Cosmo-Conception, page 352) 
 
-Men hield dit symbool voor een fallussymbool, zinnebeeld van de zedeloos heid van het volk dat het aanbad. Zeker, het is het symbool van de voortplan ting, maar voortplanting is volstrekt niet synoniem met ontaarding; verre van dat. De pilaar is de benedenarm van het kruis, het symbool van de mens in wording, toen hij plantachtig was. De plant kent geen hartstocht, begeerte of kwaad. Ze brengt voort en houdt haar soort op een kuise manier in stand zo dat het, als het goed begrepen wordt, als een ideaal voor een gevallen, zinne lijke mensheid gesteld kan worden en de vroegere rassen kregen het dan ook met die bedoeling. De fallus en Yona, die in de Griekse mysterietempels wer den gebruikt, werden door de hiërofanten met die bedoeling gegeven. Boven de tempel stonden de raadselachtige woorden: ‘Ken uzelf’, wat eigenlijk gelijk is aan het Rozenkruis, want het geeft de oorzaak van de val van de mens in begeerte, hartstocht en zonde aan, en is eveneens de sleutel tot zijn bevrijding, zoals de rozen op het kruis het pad van de bevrijding aangeven. 
+We must recognize that we are not bodies, or races, but virgin spirits striving for perfection. If, as a virgin spirit, we forget this and identify ourselves with our Race, clinging to it with fanatic patriotism, then there is a great likelihood that we will become enmeshed in and sink with it when our fellow virgin spirits have passed to greater heights on the Path of Attainment. (Cosmo-Conception, page 307) 
 
-De plant is onschuldig, maar niet deugdzaam; zij bezit geen begeerte, en kan geen keuzes maken. De mens heeft beide. Hij kan zijn begeerten volgen of er weerstand aan bieden, zodat hij zich zal leren beheersen. 
+The reader is requested to note carefully that it is the Forms which degenerate. There is a very important distinction to be kept in mind between the bodies (or forms) of a race, and the spirit which is reborn in those race-bodies. (Cosmo-Conception, page 289) 
 
-Toen de mens nog plantachtig was, een hermafrodiet, kon hij zich uit zichzelf voortplanten, zonder hulp van anderen. Maar hoewel hij even kuis en onschul dig was als de planten, was hij ook even onbewust en bewegingloos. Om voor uit te komen moest hij begeerten hebben om aangespoord te worden, en een verstand om hem te leiden en daarom werd de helft van zijn scheppingskracht voor de bouw van hersenen en een strottenhoofd gebruikt. In die tijd had de mens een ronde vorm die op het embryo leek. Het tegenwoordige strotten hoofd, dat deel uitmaakte van het voortplantingsorgaan, bleef bij het hoofd achter toen het lichaam langzamerhand de rechte stand aannam. Het verband tussen die twee blijkt zelfs nu nog uit het feit, dat de jongen, die de positieve pool van de voortbrengende kracht uitdrukt, tijdens de puberteit een andere stem krijgt. Dat dezelfde kracht die een ander lichaam opbouwt als zij naar bui ten gezonden wordt de hersenen opbouwt als zij vastgehouden wordt, is even eens duidelijk wanneer wij zien dat seksuele manie tot krankzinnigheid leidt, terwijl de diepzinnige denker weinig neiging tot amoureuze praktijken voelt. Hij gebruikt zijn hele scheppingskracht om zijn gedachten uit te dragen, in plaats van die kracht voor de bevrediging van zijn lusten te verspillen. 
+Max Heindel gives various examples of groups to whom the integrity of the race was insisted upon. He mentions the Jews, and other early nations, as well as the Scots, Vikings, and Germano-Anglo-Saxons. He points out that occult scientists refer to the Sixteen Races as "the sixteen paths to destruction"; and Max Heindel wishes that "the reader may safely pass them all, for their grip is worse than the retardation in the next revolution." (Cosmo-Conception, page 231) 
 
-Toen de mens de helft van zijn scheppingskracht voor bovengenoemd doel begon terug te houden, werd zijn bewustzijn naar binnen gericht om organen op te bouwen. Hij kon die organen zien en gebruikte toen, onder leiding van de scheppende hiërarchieën, dezelfde scheppende kracht voor het ontwerpen en uitvoeren van organen die hij nu in de buitenwereld gebruikt om vliegtuigen, huizen, auto's en telefoons te bouwen. Toen was hij er zich niet van bewust hoe die ene helft van zijn scheppingskracht, die naar buiten gezonden werd, ge bruikt werd voor de voortbrenging van een ander lichaam. 
+History is full of examples of "man's inhumanity to man". All Races have had individuals who have forgotten their spiritual heritage and have identified themselves with their Race and or Race-religion-"clinging to it with fanatic patriotism". Max Heindel gives the example of the white races who "have been guilty of fearful oppression against those other races, having in many cases massacred multitudes of the defenseless and unsuspecting natives-as witness the conduct of the Spaniards towards the ancient Peruvians and Mexicans, to specify but one of many instances". (Cosmo-Conception, page 290) 
 
-De voortplanting vond plaats onder leiding van de engelen. Op bepaalde tij den van het jaar brachten zij de zich ontwikkelende mensheid in grote tempels samen en daar vond de voortplanting plaats. De mens was zich hiervan niet be wust. Zijn ogen waren toen nog niet geopend. Hoewel hij een partner nodig had die de andere helft of de andere pool van de scheppingskracht bezat die hij voor het opbouwen van geestelijke organen terughield, kende hij aanvan kelijk zijn vrouw niet. In het gewone leven was hij, wat de stoffelijke wereld betrof, in zichzelf opgesloten, maar dit veranderde toen hij in zulk een intie me en nauwe aanraking met iemand anders gebracht werd, zoals bij de schep pingsdaad het geval was. Toen doorboorde de geest voor een ogenblik de vle selijke sluier en kende Adam zijn vrouw. Hij had opgehouden zichzelf te kennen en daardoor werd zijn bewustzijn hoe langer hoe meer buiten hem in de uiter lijke wereld geconcentreerd en verloor hij zijn geestelijk waarnemingsvermogen. Dat kan hij alleen helemaal terugkrijgen als hij tot het stadium opgeklommen is waarop bij de voortplanting een partner niet langer nodig is en hij een ontwik kelingsniveau bereikt heeft waarop hij weer zijn hele scheppingskracht kan ge bruiken als hij dit wil. Dan zal hij zichzelf weer kennen zoals tijdens het stadium van plantachtig bestaan het geval was, met dit belangrijke verschil echter, dat hij nu zijn scheppend vermogen bewust kan gebruiken en niet alleen beperkt zal zijn tot de voortbrenging van zijn eigen soort, maar scheppen kan wat hij maar wil. Ook zal hij zijn tegenwoordige voortplantingsorganen niet gebrui ken, maar het strottenhoofd zal het scheppende woord uitspreken, geleid door de geest van het coördinerende mechanisme van de hersenen. Zo zullen de twee organen, die door de helft van de scheppingskracht opgebouwd werden, eens het middel zijn waardoor de mens ten slotte een onafhankelijke, zelfbe wuste schepper wordt. 
+Christ came to prepare the way for the emancipation of humanity from the guidance of the differentiating Race and Family spirits, and to unite the whole human family in One Universal Brotherhood. (Cosmo-Conception, page 352) 
 
-Zelfs nu vormt de mens de materie, zowel door gedachten als door geluid, zoals uit wetenschappelijke experimenten blijkt, waarbij gedachten een beeld op een gevoelige plaat deden ontstaan of de menselijke stem geometrische fi guren in zand [op een glasplaat] vormde. Naarmate de mens onzelfzuchtiger wordt, zal hij de aan banden gelegde scheppingskracht vrijmaken. Dat zal zijn denkkracht verhogen en hem in staat stellen zijn denkkracht te gebruiken om anderen te verheffen in plaats van te bedenken hoe hij anderen zal verne deren en voor zijn wil zal doen buigen. Hij zal zichzelf leren beheersen en op houden te proberen over anderen te heersen, tenzij tijdelijk voor hun bestwil, maar nooit uit egoïstisch oogpunt. Alleen hij, die zichzelf overwonnen heeft, is bevoegd over anderen te heersen en te beoordelen wanneer dit nodig is en wanneer dat het beste voor hen is. 
+Let us be mindful of Max Heindel's words to us: 
 
-Zo zien wij dus dat de tegenwoordige, op hartstocht gebaseerde manier van voortplanting, weer door een reinere, volmaaktere methode dan die van nu zal worden vervangen. Ook dit wordt in het Rozenkruis met de roos in het midden, tussen de vier armen, gesymboliseerd. De lange arm stelt het lichaam voor, de twee horizontale balken de beide armen, en het bovenste korte stuk het hoofd. De roos bevindt zich op de plaats van het strottenhoofd. 
+```
+There's but one thing the world has need to know,
+There's but one balm for all our human woe,
+There's but one way that leads to heaven above.
+That way is Human Sympathy and Love.
+```
 
-De roos, net als elke andere bloem, is het voortplantingsorgaan van de plant. Door haar groene stengel stroomt het kleurloze, hartstochtloze plantenbloed. De bloedrode roos geeft het passievolle bloed van het menselijk ras weer, maar in de roos is het levensfluïdum niet zinnelijk, maar kuis en zuiver. De roos is dus een uitstekend symbool van het voortplantingsorgaan in de zuivere, heilige toestand waarnaar de mens zal opstijgen, wanneer hij zijn bloed van begeerte gereinigd en gezuiverd heeft, wanneer hij kuis, zuiver en aan Christus gelijk is geworden. 
+For further study:
 
-Daarom kijken de Rozenkruisers met vurig verlangen uit naar de dag waarop de bloemen op het kruis van de mensheid zullen bloeien; daarom begroeten de Oudere Broeders de strevende geest met de woorden van de Rozenkruisersgroet: ‘Moge de rozen bloeien op uw kruis’ en daarom spreekt op een samenkomst van een centrum de leider deze woorden tot de bijeenge komen studenten, proefleerlingen en discipelen, die deze groet beantwoor den door te zeggen: ‘en ook op het uwe’. 
+Page 5, "A Word to the Wise"
+Page 223, "Stragglers and Newcomers"
+Page 386, "The Lucifer Spirits"
+Page 306, "The Sixteen Paths to Destruction"
+Page 347, "Guardian Angels"
+Page 352, "Mixing Blood in Marriage"
+Page 367, "The Evolution of Religion"
+Page 383, "Not Peace But A Sword"
 
-Johannes spreekt over zijn reiniging – De eerste brief van Johannes, 3:9 - en zegt dat iedereen die uit God geboren is niet zondigen kan want zijn zaad blijft in hem. Om vooruit te komen is het absoluut noodzakelijk dat de aspirant kuis is. Men moet echter niet vergeten dat een absoluut celibaat niet van een mens geëist wordt voordat hij het punt bereikt heeft waarop hij klaar is voor de grote inwijdingen. En dat wij verplicht zijn ons ras in stand te houden. Als wij verstandelijk, moreel, lichamelijk en financieel hiertoe in staat zijn, kunnen wij de scheppingsdaad als een heilig offer op het altaar van de mensheid volbren gen en niet uit seksueel genot. Evenmin moeten wij de scheppingsdaad in een norse, onvriendelijke gemoedstoestand bedrijven, maar in blijde overgave van onszelf, omdat wij het voorrecht hebben aan een vriend of vriendin die gebo ren wenst te worden, het lichaam en de omgeving te verschaffen die hij of zij voor zijn of haar ontwikkeling nodig heeft. Dan zullen wij hem of haar ook helpen om de rozen op zijn of haar kruis te laten bloeien. 
+### <h3 id="addendum-d">Addendum D: Footnote to "Our Buildings"</h3>
 
-### The Rosicrucian Fellowship (Het Rozenkruisers Genootschap) 
+The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
 
-The Rosicrucian Fellowship werd op 8 augustus 1909 te Seattle, in de staat Wa shington, U.S.A, opgericht om de leer van het Rozenkruis bekend te maken. Iedereen die geen HYPNOTISEUR is, noch van beroep MEDIUM, HELDERZIENDE, HAND LIJNKUNDIGE of ASTROLOOG , kan zich als student laten inschrijven. Voor inwijding wordt geen bijdrage of contributie gevraagd. De Rozenkruisersleer is niet voor geld te koop; vooruitgang hangt alleen af van verdienste. 
+The Dining Hall was built in 1914, added to in the late 30's, renovated in 1962, with a sprouting room added in 1978. Here vegetarian meals are served to the workers and general public. In the Healing Temple, or Ecclesia, a healing service has been conducted each evening since the day of its dedication on Holy Night, December 24, 1920. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from non-contagious diseases. It is now called the Guest House and is used by workers and Fellowship members as living quarters and visitor accommodations. Numerous cottages have been built and renovated over the years to provide worker residences, the most recent structure being a two-level six-plex completed in 1976. 
 
-Na beëindiging van de voorbereidende cursus volgt inschrijving als student, dit voor een periode van twee jaar. Als u van de waarheid van de Rozenkrui sersleer bent doordrongen zodat u bereid bent het lidmaatschap met alle an dere occulte of godsdienstige orden te verbreken - de christelijke kerkgenootschap pen en broederschappen uitgezonderd - dan mag u de verbintenis op u nemen die u tot de graad van proefleerling toelaat. 
+The Healing Department Building was erected in 1938. Built in the shape of a cross, it contains offices for the secretaries, who respond to requests for spiritual healing, and a healing Chapel in which a healing service is held at 8:45 am Monday through Friday. Adjacent to the Administration Building is a one-story structure containing the Business Offices, which include the Editorial Office for the "Rays from the Rose Cross" magazine (which was published for the first time in 1911 by Mr. Heindel), the Accounting Office, and Retail and Dealer Sales. 
 
-Wij willen met de voorgaande bepaling niet zeggen dat alle andere occulte scholen geen waarde hebben, verre van dat. Er leiden veel wegen naar Rome. Maar wij zullen met minder inspanning ons doel bereiken als wij één bepaal de weg volgen dan wanneer wij van de ene naar de andere zwerven. In de eer ste plaats zijn onze tijd en energie beperkt en verder zijn wij nog door verplich tingen aan onze familie en de maatschappij gebonden; plichten die wij dienen na te komen om onszelf te ontwikkelen. De leiding eist dan ook, om zo zuinig mogelijk om te gaan met het minimum aan kracht dat wij aan onszelf kunnen besteden en om verspilling te vermijden van de schaarse ogenblikken waar over wij kunnen beschikken dat wij ons uit alle andere orden terugtrekken. 
-
-De wereld is één bonte verzameling van gelegenheden. Om echter met één van die gelegenheden ons voordeel te doen, moeten wij bekwaamheid op een bepaald gebied nastreven. Ontwikkeling van onze geestelijke vermogens zal ons in staat stellen onze zwakkere broeders te helpen. Die ontwikkeling is al leen gerechtvaardigd, wanneer doelmatigheid in helpen van mensen het doel is. 
-
-De Rozenkruisersmethode om iets te bereiken verschilt in één belangrijk opzicht van alle andere systemen: vanaf het allereerste begin streeft zij er naar de leerling onafhankelijk te maken van anderen, en een zo groot mogelijk zelfvertrouwen te ontwikkelen, zodat hij onder alle omstandigheden in staat is op eigen benen te staan en zich door alle moeilijkheden heen te slaan. Alleen degene die zo'n groot zelfvertrouwen heeft, kan de zwakken helpen. 
-
-Wanneer een aantal mensen in een groep of kring samenkomt voor zelf ontwikkeling langs negatieve lijnen, verkrijgt men meestal na korte tijd resultaat wat te danken is aan het feit dat het gemakkelijker is met de stroom mee te drijven dan tegen de stroom op te zwemmen. Een medium is echter geen meester over zijn/haar daden, maar de slaaf van een geleidegeest. Daarom moeten dergelijke bijeenkomsten door proefleringen gemeden worden. 
-
-Zelfs groepen, waarvan de leden een positieve manier van denken aankwe ken, worden door de Oudere Broeders niet raadzaam geacht, omdat de laten te vermogens van alle leden gebundeld worden, zodat wanneer iemand daar indrukken van de geestelijke werelden krijgt, die gedeeltelijk aan de vermogens van de anderen te danken zijn. De hitte van een brandende kool in het mid den van een vuur wordt door de omringende kolen aangewakkerd en de hel derziende die zijn of haar vermogen aan een kring te danken heeft, ook al werkt die nog zo positief, is een kasplant die zelf te afhankelijk is om de zorg voor anderen aan toe te vertrouwen. 
-
-Daarom doet elke proefleerling van de Rosicrucian Fellowship de oefenin gen in de afzondering en beslotenheid van zijn of haar kamer. Misschien ko men de resultaten op deze manier langzamer tot stand, maar wanneer zij ko men, verschijnen zij als zelfstandig aangekweekte vermogens, die men onaf hankelijk van anderen kan gebruiken. Bovendien bouwen de Rozenkruisers methoden, samen met de ontwikkeling van geestelijke eigenschappen, het ka rakter op en beschermen de leerling zodoende tegen de verleiding goddelijke vermogens voor werelds aanzien te misbruiken. 
-
-Als de proefleerling aan bepaalde voorwaarden heeft voldaan en zijn/haar proeftijd [na vijf jaar studie] van de Leer volbracht heeft, kan men in de jaar lijkse brief aan de Leraar [op 21 december] een verzoek indienen om persoon lijk onderricht door hem. [De daarbij behorende discipeloefeningen worden uitsluitend door de Leraar aan de proefleerling verstrekt op het moment dat hij of zij daarvoor geschikt wordt geacht. De volgende stap is dat men na verloop van tijd de eerste inwijding in de kleine mysteriën door de Oudere Broeders van het Rozenkruis ontvangt, men wordt dan een lekenbroeder. [De bevorderingen van discipel en lekenbroeder of zuster worden door de kandidaat bewust ervaren, zodat men daaraan nooit hoeft te twijfelen.] 
-
-### Het hoofdkwartier van The Rosicrucian Fellowship 
-
-Nadat the Rosicrucian Fellowship op 8 augustus 1909 te Seattle in de staat Washing ton werd gesticht met als doel de leer te verspreiden en aspiranten op het Pad bij hun vooruitgang te helpen, was het nodig een blijvend onderkomen te vin den met de nodige faciliteiten om dit werk uit te voeren. Met dit doel voor ogen werd in Oceanside, in de staat Californië, een stad 120 km ten zuiden van Los Angeles en 40 km ten noorden van San Diego - dus een plek in het ui terste zuidwesten van Amerika - een stuk land aangekocht. Hier werd op 28 oktober 1911 het hoofdkwartier van The Rosicrucian Fellowship gesticht met als naam Mount Ecclesia. Dit grondgebied heeft een wijds uitzicht, met in het westen de Grote of Stille Oceaan en in het oosten de met sneeuw bedekte bergtoppen. 
-
-Zuid-Californië biedt uitstekende mogelijkheden voor geestelijke ontwikke ling vanwege de ether in de atmosfeer die hier dichter is dan op enige andere plek op aarde. Vooral Mount Ecclesia, zoals het hoofdkwartier genoemd wordt, blinkt hierin uit. 
-
-Zie voor meer informatie de websites. 2222 Mission Avenue Oceanside, CA, 92058, U.S.A. e-mail: rosfshpbp@rosicrucianfellowship.org 
-
-website: http://www.rosicrucianfellowship.org In het Nederlandse taalgebied The Rosicrucian Fellowship e-mail: info@rosicrucianfellowship.nl website: www.rosicrucianfellowship.nl 
-
-### Biografische aantekeningen Max Heindel 
-
-De stichter van de Rosicrucian Fellowship werd op 23 juli 1865 te Aarhus in De nemarken geboren en op de 15e oktober van datzelfde jaar in de kathedraal van deze Deense stad met de naam Carl Louis Fredrik Grasshoff gedoopt. 
-
-Al in zijn vroegste jeugd van nog geen drie jaren oud, verloor hij, door een geiser die in de bakkerij ontplofte, zijn uit Berlijn afkomstige vader, Frantz Grasshoff die met de dochter van een Deense klompenmaker getrouwd was. Carl had nog een jongere broer, Frantz, en een halfzuster, Anna. 
-
-Toen hij 19 was vertrok Carl naar Glasgow in Schotland. Hier werkte hij aan vankelijk in een tabakswinkel en trouwde daar met de bijna 16 jarige Cathy Wallace. Na enige jaren verhuisde het gezin naar Liverpool, waar Carl als scheepswerktuigkundige bij de koopvaardij ging werken. Na terugkeer in Ko penhagen werden er, naast de twee dochters, nog een dochter en een zoon geboren. Hier werkte hij acht jaar met zijn broer Louis samen als importeur. 
-
-Zijn huwelijk strandde en in 1896 emigreerde hij naar Amerika. Een voorstad van Boston werd zijn woonplaats. Hij trouwde er met een Deense en liet zijn vier kinderen overkomen, die door zijn moeder werden verzorgd. Toen er twee jaar later in Californië goud werd gevonden, besloot Max Heindel, na zijn echtscheiding, daar werk te gaan zoeken. Hij nam toen de naam Max Hein del aan. 
-
-In Los Angeles werd in december 1903 zijn aandacht getrokken door een voordrachtencyclus van de theosoof Charles Leadbeater. Na het bijwonen hiervan sloot Heindel zich bij de Theosofische Vereniging aan en werd hij al snel vice-voorzitter in het centrum te Los Angeles. 
-
-Een vriendin nodigde hem uit, op haar kosten, mee naar Duitsland te gaan waar zij in de herfst van 1907 aankwamen. Vijf maanden bestudeerde Heindel in Berlijn daar de voordrachten en geschriften van dr. Rudolf Steiner en had circa zes maal een onderhoud met hem. Steiner beweerde in die periode dat hij een Rozenkruiser was, hetgeen Heindel had bewogen naar Duitsland te gaan. 
-
-Heindel trof in Steiners geschriften echter niet veel nieuws voor hem aan en wilde teleurgesteld weer naar Amerika terugkeren. Maar, zonder het te weten, was hij door een Oudere Broeder van de Orde van het Rozenkruis beproefd wat betreft de oprechtheid van zijn beweegredenen en het onbaatzuchtig ver langen zijn medemensen te helpen. Na zijn slagen werd hij uitgenodigd voor een bezoek aan de Tempel, aan de voet van het Ertsgebergte, in Saksen, Duits land, waar hij enige maanden verbleef en de leer ontving die in dit boek is weergegeven. 
-
-Na zijn terugkeer in Amerika werd in 1909 de eerste, te Chicago gedrukte uit gave van The Rosicrucian Cosmo-Conception, gepubliceerd. Kort daarop versche nen er diverse vertalingen. De eerste Nederlandse uitgave kwam in 1913 van de pers. 
-
-Op 8 augustus 1909 stichtte Heindel te Seattle The Rosicrucian Fellowship en werd er, na zijn huwelijk met Augusta Foss op 10 augustus 1910, in 1911 in Oce anside, Californië, een stuk land gekocht waarvan de grond op 28 oktober 1911 werd gewijd en vanaf toen het hoofdkwartier, genaamd Mount Ecclesia, ver rees. Door zijn eigen geestelijke ontwikkeling was Heindel in staat veel van wat in De wereldbeschouwing der Rozenkruisers geleerd wordt, voor zichzelf be vestigd te zien en aanvullende kennis te vergaren die in zijn vele boeken werd opgetekend. Vanuit het Hoofdkwartier in Oceanside werd de leer van het Rozenkruis, door lessen en boeken, over de hele wereld verspreid, en kort daarop vanuit vele Centra in Amerika en Europa. 
-
-Max Heindel overleed na een hartaanval, op 53-jarige leeftijd, te Oceanside, op 6 januari 1919. 
-
-Zie voor meer informatie de biografie: Max Heindel en The Rosicrucian Fellowship.
+End of "The Rosicrucian Cosmo-Conception"
