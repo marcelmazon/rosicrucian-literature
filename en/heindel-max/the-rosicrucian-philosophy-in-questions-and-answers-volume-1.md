@@ -1,10 +1,10 @@
 ---
-title: 'The Rosicrucian Philosophy in Questions and Answers Volume I'
-language: 'en'
+title: "The Rosicrucian Philosophy in Questions and Answers Volume I"
+language: "en"
 original_title: "The Rosicrucian Philosophy in Questions and Answers Volume I"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-philosophy-in-questions-and-answers-volume-1">The Rosicrucian Philosophy In Questions and Answers - Volume I</h1>
@@ -141,7 +141,7 @@ Oceanside, California, U.S.A., 92054
     - [Question No. 108: Please explain why the fatted calf was not killed for the righteous son instead of for the prodigal. Was that not given a reward for wrong doing?](#question-108)
     - [Question No. 109: Why did the lord commend the unjust steward, as related in the sixteenth chapter of Luke?](#question-109)
     - [Question No. 110: What is meant by sinning against the Holy Ghost?](#question-110)
-    - [Question No. 111: Is the Christian Creed authoritative?](#questino-111)
+    - [Question No. 111: Is the Christian Creed authoritative?](#question-111)
     - [Question No. 112: How do you reconcile the law of cause and effect with the doctrine of the forgiveness of sins?](#question-112)
     - [Question No. 113: By what power did Peter raise Dorcas from the dead?](#question-113)
     - [Question No. 114: Do you believe in conversion?](#question-114)
@@ -203,7 +203,7 @@ Oceanside, California, U.S.A., 92054
     - [Question No. 161: How is it possible to get on good terms with Saturn? The inquirer has been under his influence all his life. Sickness, poverty, loss of inheritance, and accidents are bad enough, but can Saturn also cause us trouble spiritually; can he put barriers up for our unfoldment when our spirit is struggling for the good, and are we liberated from his influence when we pass out at death?](#question-161)
     - [Question No. 162: How may we pray to or address Saturn when he is the ruling star causing us trouble and sorrow?](#question-162)
 
-- [SECTION VIII](#sectino-8)
+- [SECTION VIII](#section-8)
 
     - [Question No. 163: Why do animals, which are a lower evolution, have an instinct which seems so much more reliable than the reason of human beings?](#question-163)
     - [Question No. 164: Can you throw some light on what our attitude toward the lower forms of life should be? Have we the right to kill anything harmless, since every living thing is in a sense our brother? How about the venomous insects and reptiles?](#question-164)

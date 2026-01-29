@@ -1,10 +1,10 @@
 ---
 title: "Gleanings of a Mystic"
-language: 'en'
+language: "en"
 original_title: "Gleanings of a Mystic"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="gleanings-of-a-mystic">Gleanings of a Mystic</h1>

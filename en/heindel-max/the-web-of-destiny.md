@@ -1,10 +1,10 @@
 ---
-title: 'The Web of Destiny'
-language: 'en'
-original_title: 'The Web of Destiny'
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+title: "The Web of Destiny"
+language: "en"
+original_title: "The Web of Destiny"
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-web-of-destiny">THE WEB OF DESTINY</h1>
@@ -196,7 +196,7 @@ Full faith in this doctrine would take away untold misery from mankind, and we o
 
 It also sometimes occurs that an evil man embodies himself in a beast of prey and takes a fiendish delight in terrorizing a community. When the Christ walked upon earth, such cases of animal obsession by human spirits were met with every day, and the instances recorded in the Bible are not at all myths or foolishness to one endowed with spiritual sight and able to read in the Memory of Nature, for it is found that these things actually did happen; in fact, the ancient seers who observed this habitual entrance of people of low and evil character into the bodies of beasts when they had passed out of their own bodies at death, thought that this was the regular course of nature instead of being an anomalous condition, and they therefore formulated the doctrine of Transmigration. 
 
-### <h3 id="the-web-of-destiny-part-5">PART VI: THE CREATION OF ENVIRONMENT - THE GENESIS OF MENTAL AND PHYSICAL DISABILITIES</h3>
+### <h3 id="the-web-of-destiny-part-6">PART VI: THE CREATION OF ENVIRONMENT - THE GENESIS OF MENTAL AND PHYSICAL DISABILITIES</h3>
 
 It is a fact evident from the merest superficial observation that while animals act alike under like circumstances, because they are guided by a group spirit, the human being does not. In humanity there are as many species as there are individuals, each one being a law unto himself; and we can never predict from the actions of one, how another will act under similar circumstances; even the same individual may act differently, and probably will, under similar circumstances at different times. On that account it is difficult to handle or properly elucidate a subject like "The Web of Destiny," when we are only equipped with minds of such small capacity as human beings have at present. To fully understand this subject would require the wisdom of such great beings as the Recording Angels, who have charge of this intricate department of life. 
 

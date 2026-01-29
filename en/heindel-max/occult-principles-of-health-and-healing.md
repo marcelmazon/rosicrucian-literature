@@ -1,10 +1,10 @@
 ---
-title: 'Occult Principles of Health and Healing'
-language: 'en'
+title: "Occult Principles of Health and Healing"
+language: "en"
 original_title: "Occult Principles of Health and Healing"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="occult-principles-of-health-and-healing">Occult Principles Of Health And Healing</h1>
@@ -17,13 +17,13 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 This compilation of material concerning the health and healing of the human organism as considered from the occult viewpoint affords those interested in attaining and maintaining health a treasure chest of valuable information. Max Heindel, a trained clairvoyant and investigator of the super-physical worlds, devoted much time and effort to ascertaining the real causes of physical and mental disorders as revealed in the realm of cause, the higher or superphysical planes, and this volume contains the fruits of his labor. It embodies some of the most priceless truths in regard to the origin, functions, and proper care of the vehicles of man to be found on the printed page, and those concerned with the true art of healing will find it an indispensable addition to their libraries. 
 
 Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintaining health, when once gained or regained, requires a knowledge of "the Gospel," or laws of God, and it is therefore in the light of both parts of the command of the Great Teacher that this book is dedicated to the afflicted of humanity. May the contents of its pages, permeated as they are with the love and compassionate understanding of the mystic heart of the author, be the means of bringing new solace and relief to countless aching hearts and suffering bodies, as well as speed the day for the generation of more perfect human vehicles. 
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Contents</h3>
 
 - [Foreword](#foreword)
 
@@ -114,11 +114,11 @@ Christ admonished His disciples: "Preach the Gospel, and heal the sick." Maintai
 
 PLATES 
 
-<h2 id="part-1">PART I: MAN AND HIS VEHICLES</h2>
+<h2 id="part-1">Part I: Man and His Vehicles</h2>
 
-### <h3 id="chapter-1">CHAPTER I: THE DENSE BODY</h3>
+### <h3 id="chapter-1">Chapter I: The Dense Body</h3>
 
-#### <h4 id="chapter-1-introduction">INTRODUCTION:</h4>
+#### <h4 id="chapter-1-introduction">Introduction</h4>
 
 Occult science teaches that man is a complex being who possesses: 
 
@@ -132,7 +132,7 @@ Occult science teaches that man is a complex being who possesses:
 
 The Ego, which is the threefold Spirit which uses these vehicles to gather experience in the school of life. 
 
-#### <h4 id="evolution">EVOLUTION:</h4>
+#### <h4 id="evolution">Evolution:</h4>
 
 The dense body was the first vehicle built and has therefore an enormous period of evolution back of it. It is in its fourth stage of development and has now reached a great and marvelous degree of efficiency. It will, in time, reach perfection, but even at present it is the best organized of man's vehicles. It is a wonderfully constructed instrument and should be recognized as such by everyone pretending to have any knowledge of the constitution of man. 
 
@@ -184,7 +184,7 @@ The Akkadians were the sixth and the Mongolians were the seventh of the Atlantea
 
 Central Asia was the cradle of the Aryan Races, who descended from the original Semites. Thence have the different races gone out. It is unnecessary to describe them here, as historical researches have sufficiently revealed their main features. 
 
-#### <h4 id="the-brain-and-nervous-systems">THE BRAIN AND NERVOUS SYSTEMS:</h4>
+#### <h4 id="the-brain-and-nervous-systems">The Brain and Nervous Systems:</h4>
 
 In the Saturn Revolution of the Earth period the dense body was given the ability to form a brain and become a vehicle for the germ of mind which was to be added later. The impulse was given to building the frontal part of the brain. The brain and the nervous systems are the highest expression of the desire body. They call up pictures of the outside world, but in mental image-making, the blood brings the material for the pictures; therefore, when thought is active the blood flows to the head. 
 
@@ -204,7 +204,7 @@ Part of the involuntary muscular system is controlled by the sympathetic nervous
 
 The seat of the Human Spirit is primarily in the pineal gland and secondarily in the brain and the cerebrospinal nervous system, which controls the voluntary muscles. 
 
-#### <h4 id="the-blood">THE BLOOD:</h4>
+#### <h4 id="the-blood">The Blood:</h4>
 
 The study of the blood is very deep, far-reaching, and of supreme importance from whatever viewpoint we analyze it. Lucifer was decidedly right when he said that "blood is a most peculiar essence." It builds the physical body from the time the seed atom is deposited in the ovum till the rupture of the silver cord ends material existence, being one of the highest products of the vital body and the carrier of nourishment to every part of the body. It is the direct vehicle of the Ego, having injected into it every thought, feeling or emotion transmitted to the lungs. 
 
@@ -876,9 +876,9 @@ We call it criminal to give to a person addicted to the morphine habit more just
 
 For these reasons anyone who wishes to obtain and maintain health should make it a point to eat only two or three times a day and sparingly, taking care to secure an abundance of bulk rather than nutriment, for it is an actual fact that many, many more people die of too much nourishment than of too little. 
 
-### <h3 id="chapter-11">CHAPTER XI: ASTROLOGY AS AN AID TO HEALING</h3>
+### <h3 id="chapter-11">Chapter XI: Astrology as an Aid to Healing</h3>
 
-#### <h4 id="astrological-basis-for-healing">ASTROLOGICAL BASIS FOR HEALING:</h4>
+#### <h4 id="astrological-basis-for-healing">Astrological Basis for Healing:</h4>
 
 It is well known to the modern physician that the condition of the blood, and therefore the condition of the whole body, changes in sympathy with the state of mind of the patient, and the more the physician uses suggestion as an adjunct to medicine the more successful he is. Few perhaps would credit the further fact that both our mental and physical condition is influenced by planetary rays which change as the planets move. In these days since the principle of radio-activity has been established we know that everybody projects into space numberless little particles. Wireless telegraphy has taught us that etheric waves travel swiftly and surely through space and operate a key according to our will. We also know that the rays of the sun affect us differently in the morning when they strike us horizontally than at noon when they are perpendicular. If the light rays from the swift-moving sun produce physical and mental changes, may not the persistent rays of slower planets also have an effect? If they have, they are factors in health not to be overlooked by a thoroughly scientific healer, and we therefore maintain that results may be obtained more easily at certain times when the stellar rays are propitious for the healing of a particular disease or for treatment with remedies previously prepared under auspicious conditions. 
 
@@ -1035,9 +1035,9 @@ The invisible sound-vibrations have great power over concrete matter. They both 
 
 If one note or chord after another be sounded upon a musical instrument--a piano, or preferably a violin, for from it more gradations of tone can be obtained--a tone will finally be reached which will cause the hearer to feel a distinct vibration in the back of the lower part of the head. Each time that note is struck, the vibration will be felt. That note is the keynote of the person whom it so affects. If it be sounded in a dominant way, loud and long enough, it will kill as surely as a bullet from a pistol. If, on the other hand, it is struck slowly and soothingly it will build and rest the body, tone the nerves and restore health. 
 
-### <h3 id="chapter-13">CHAPTER XIII: SLEEP AND HEALTH</h3>
+### <h3 id="chapter-13">Chapter XIII: Sleep and Health</h3>
 
-#### <h4 id="the-value-of-sleep">THE VALUE OF SLEEP:</h4>
+#### <h4 id="the-value-of-sleep">The Value of Sleep:</h4>
 
 During the daytime the vital body specializes the colorless solar fluid which is all about us, through the organ we call the spleen. This vitality permeates the whole body and is seen by the clairvoyant as a fluid of a pale rose color, having been transmuted upon entering the physical body. It flows along every nerve, and when it is sent out by the brain centers in particularly large quantities it moves the muscles to which the nerves lead. 
 
@@ -1077,9 +1077,9 @@ It is a fact that an auric atmosphere surrounds every human being. We know that 
 
 But, alas, none of us are altogether good. We know only too well the war between the flesh and the Spirit. We cannot hide from ourselves the fact that like Paul, "the good that we would do, we do not, and the evil that we would shun, that we do." Far too often our good resolutions come to naught and we do wrong because it is easier. Therefore, we all have the nucleus of evil within ourselves, which affords the open sesame for evil forces to work upon. For that reason it is best for us not to expose ourselves unnecessarily at places where seances are held with Spirits invisible to us, no matter how fine their teachings may sound to the unsophisticated. Neither should we take part even as spectators at hypnotic demonstrations, for there also a negative attitude lays one liable to the danger of obsession. We should at all times follow the advice of Paul and put on the whole armor of God. We should be positive in our fight for the good against the evil and never let an occasion slip to aid the Elder Brothers by word or deed in the Great War for spiritual supremacy. 
 
-### <h3 id="chapter-14">CHAPTER XIV: MIND AND HEALING</h3>
+### <h3 id="chapter-14">Chapter XIV: Mind and Healing</h3>
 
-#### <h4 id="the-true-cause-of-contagion">THE TRUE CAUSE OF CONTAGION:</h4>
+#### <h4 id="the-true-cause-of-contagion">The True Cause of Contagion:</h4>
 
 There are many people of a supercilious nature who are always ready to crack a joke at the expense of those who practice methods of divine healing which teach one to cultivate a fearless attitude of mind under all conditions. But as a matter of actual fact, an enormous percentage of our sickness is actually due and traceable to feelings of fear upon the part of the patient. 
 
@@ -1167,17 +1167,17 @@ As a matter of fact, enlarged tonsils are due to conditions connected with the a
 
 In acute conditions we have always recommended the citrus fruits as the finest antiseptics known. This applies also and particularly to pineapple. Lemonade made of lemons and honey will be found to give great relief in this condition. Oranges, grapefruit, and pineapple should also be used freely when the child complains of throat trouble. A cold compress on the throat at night when the child goes to bed, supplemented by massage of the throat, will be found an effective treatment in all throat troubles. It goes without saying that the bowels should be kept open and clear. By the use of these simple treatments the trouble will probably be over in a few days, perhaps even without the necessity of putting the child to bed. Do not be afraid if white matter is expectorated during the process of this treatment. That is just what the child needs to get rid of, in order to be well. 
 
-### <h3 id="chapter-18">CHAPTER XVIII: FORM OF HEALING TO USE</h3>
+### <h3 id="chapter-18">Chapter XVIII: Form of Healing to Use</h3>
 
-#### <h4 id="chapter-18-introduction">INTRODUCTION:</h4>
+#### <h4 id="chapter-18-introduction">Introduction:</h4>
 
 The form of healing to advise depends upon the nature of the sickness and the temperament of the patient. If it is a case of a broken leg, a surgeon is obviously the one to call. If there is an internal disorder and it is possible to get a broad-minded physician, then in certain cases he is the one to get. If, on the other hand, a mental healer, Christian Science healer, or anyone else who is spiritually minded can be brought in, he may help a person who is himself strong in faith, for, as a tuning fork which is of a certain pitch will respond when another tuning fork of the same pitch is struck, so will the person filled with faith respond to the ministrations of these last named ones. But where faith in their methods is lacking in the patient, it is far better to send for a regular physician in whom the patient has confidence, for health or sickness depends almost altogether upon the state of mind, and in the conditions of sickness where a person is enfeebled, he becomes hypersensitive and should not be thwarted in his preferences. Besides, whatever good there is in any system of healing, the effects upon a certain person will be beneficial or the reverse in exact proportion to his faith in its healing power. 
 
-#### <h4 id="taking-medicine">TAKING MEDICINE:</h4>
+#### <h4 id="taking-medicine">Taking Medicine:</h4>
 
 Certainly, it is our duty to take medicine administered by a properly qualified person, or attempt to cure the ills from which we suffer in any other way possible that appeals to us. We should be doing decidedly wrong if we allowed our physical instrument to deteriorate for lack of proper care and attention. It is the most valuable tool we possess, and unless we use it circumspectly and care for it, we are amenable to the Law of Cause and Effect for that neglect. 
 
-#### <h4 id="laying-on-of-hands">LAYING ON OF HANDS:</h4>
+#### <h4 id="laying-on-of-hands">Laying on of Hands:</h4>
 
 There are two very common difficulties in the practice of osteopathy and kindred methods of treatment by the laying on of hands. In this process there are two distinct operations. One is a taking away from the patient of something that is poisonous and injurious, provocative of disease; and there is also a giving out of vital force by the doctor himself, or herself. Everybody who had done any work of this kind knows this because it has been felt and is felt by every one who is successful. Now, unless the doctor or healer is bubbling over with radiant health, two things are liable to happen; either the human miasma taken away from the patient may so overwhelm him or her that to use a common expression "he takes on the condition" of the patient, or he may give too much of his own vital force, and thus become entirely depleted. Both of these conditions may combine, and then there comes a day when the physician or healer finds himself or herself run down and forced to rest. 
 
@@ -1189,7 +1189,7 @@ So also with yourself; you are the electric battery in this case, and your hands
 
 From the foregoing it is evident that this laying on of hands is something that should not be done indiscriminately by any one who has not been trained in one of the many properly equipped schools of Osteopathy, Chiropractic, etc. Probationers who live worthy lives are trained under the special guidance of the Elder Brothers. 
 
-#### <h4 id="vaccination-and-antitoxin">VACCINATION AND ANTITOXIN:</h4>
+#### <h4 id="vaccination-and-antitoxin">Vaccination and Antitoxin:</h4>
 
 Bacteriologists have discovered that many diseases are caused by microorganisms which invade our body, and also that when this invading army begins to create a disturbance the body commences to manufacture germs of an opposing nature or a substance which will poison the invaders. It is them a question of which are the strongest, the invaders or the defenders. If the defending microbes are more numerous than the invaders or if the poison which is noxious to the invaders is manufactured in sufficient quantities, the patient recovers. If the defenders are vanquished on the body is unable to manufacture a sufficient quantity of the serum necessary to poison the invaders, the patient succumbs to the disease. It was further discovered than when a certain person has once successfully recovered from a specific malady, he is immune from renewed attacks of that disease for the reason that he has in his body the serum which is death to the germs that cause the disease he has once weathered. 
 
@@ -1213,9 +1213,9 @@ This emanation has been called N-rays, or Odic fluid, by scientist who have disc
 
 On the other hand, if we eat sparingly and choose the foods which are the most easily digestible, the diminution of the protective vital current will be correspondingly minimized and our immunity from disease will be much enhanced without the necessity of poisoning our body with vaccine. 
 
-### <h3 id="chapter-19">CHAPTER XIX: THE SCOPE OF HEALING</h3>
+### <h3 id="chapter-19">Chapter XIX: The Scope of Healing</h3>
 
-#### <h4 id="the-law-of-destiny">THE LAW OF DESTINY:</h4>
+#### <h4 id="the-law-of-destiny">The Law of Destiny:</h4>
 
 A large and increasing number of medical men are now convinced that the Law of Destiny is an important factor in producing disease and retarding recovery, though they are not believers in the fallacy of an inexorable fate. They recognize that God does not willingly afflict us nor aim to get even with the transgressor; they understand that all sorrow and suffering are designed to teach us lessons which we would not or could not learn in any other way. The stars show the period estimated as requisite to teach us the lesson; but even God cannot determine the exact time nor the amount of suffering necessary; we, ourselves, have a prerogative, for we are Divine. If we awake to our transgression and commence to obey the law before the stellar affliction ceases, we are cured of our mental, moral, or physical distemper; if we persist to the end of one stellar affliction without having learned our lesson, a more inimical configuration will enforce obedience at a later time. 
 
@@ -1238,7 +1238,7 @@ It is of utmost importance that we set the sails of the barque of life as we wan
 
 This disposes also of the idea of "affirmation" as a factor in life. This in itself is folly. It is work and action that we need in life, as you will readily see by this illustration. Suppose a little seed of those beautiful carnations were endowed with speech, and it came to you saying: "I am a carnation." Would you not answer: "No, you are not a carnation, you foolish little thing. You have the potentiality in you, but you will have to go out in the garden and bury yourself for awhile and grow. By that process alone you can become a carnation, never by affirmation." Similarly with ourselves. All the "affirmations" of divinity are vain unless accompanies by actions of a divine character, and they will prove our divinity as words never can. 
 
-#### <h4 id="relation-to-spirituality-to-health">RELATION TO SPIRITUALITY TO HEALTH:</h4>
+#### <h4 id="relation-to-spirituality-to-health">Relation to Spirituality to Health:</h4>
 
 The rupture of physically robust health is necessary before it is possible to attain poise in the spiritual world, and the stronger and more vigorous the instrument, the more drastic must be the method of breaking it down. Then come years when there is an unbalanced fluctuating condition of health, until finally we are able to adjust ourselves so as to maintain health in the Physical World while we retain the ability to function also in the higher realms. 
 
@@ -1246,15 +1246,15 @@ When we understand the higher philosophies, when we live the life that is taught
 
 There are cases, however, when a sickness is necessary to bring about certain changes in the body which are the precursors of a higher step in spiritual unfoldment, and under such conditions, of course, sickness is a blessing and not a curse. In general, however, it may be said that the study of the higher philosophy will always tend to better one's health, because "knowledge is power" and the more we know the better we are able to cope with all conditions, provided, of course, we bring our knowledge into practice and live the life--that we are not merely hearers of the word, but doers also, for no teaching is of benefit to us unless it is carried into our lives and lived from day to day. 
 
-#### <h4 id="nervousness-helped-by-exercises">NERVOUSNESS HELPED BY EXERCISES:</h4>
+#### <h4 id="nervousness-helped-by-exercises">Nervousness Helped by Exercises:</h4>
 
 If a person of a nervous temperament will endeavor to perform calmly and quietly the exercises of Retrospection and Concentration, he will experience a very beneficial effect, particularly if he will strive to relax every muscle of the body during the exercises. 
 
 If the patient will completely relax his muscles, calmly and quietly review the day's happenings in the evening exercise and concentrate upon a high ideal in the morning exercise, the nervousness will gradually disappear. 
 
-### <h3 id="chapter-20">CHAPTER XX: ON CONDUCTING HEALING CENTERS</h3>
+### <h3 id="chapter-20">Chapter XX: On Conducting Healing Centers</h3>
 
-#### <h4 id="general-suggestions">GENERAL SUGGESTIONS:</h4>
+#### <h4 id="general-suggestions">General Suggestions:</h4>
 
 As Probationers in various places have banded themselves together to study Astro-Diagnosis and Astro-Therapy with a view to forming Healing Centers when they shall have become sufficiently grounded in these sciences, it may be well to give a few suggestions for the conduct of such centers. 
 
@@ -1266,7 +1266,7 @@ Take The Imitation Of Christ, by Thomas a Kempis, or anything else of a thorough
 
 When taking up a horoscope for analysis, be sure you do not use the figures for Probationers attending the meetings, or their close relatives. For just as students in a medical college often by suggestion develop the symptoms of the diseases they are studying, so also members of the class are apt to suffer from neglect of the above precaution. Moreover, when a Probationer is ill and applies to the Center for healing, he or she may not be admitted to the classes while in ill health, for it is absolutely impossible to avoid accidental mention of symptoms from which such a one may suffer, and thus the disease may be aggravated in this manner. 
 
-#### <h4 id="advice-to-healers">ADVICE TO HEALERS</h4>
+#### <h4 id="advice-to-healers">Advice to Healers</h4>
 
 If letters of fire that would burn themselves into the consciousness of the reader were obtainable, we would spare no effort to procure them for the purpose of warning students on some particular points in connection with the practice of Medical Astrology; these are: 
 
@@ -1287,7 +1287,7 @@ The Elder Brothers know how to use the law to the best advantage, but cannot wor
 
 Association of Probationers in Center of Healing furnishes the material in which the Elder Brothers may kindle the Spiritual Fire required to heal physical, moral, and mental ailments. Single-handed there is small chance of doing good, but in numbers there is strength, particularly if all are fortified with a knowledge of diagnosis from the horoscope and how to apply treatment at propitious times. 
 
-#### <h4 id="healing-service-inaugurated">HEALING SERVICE INAUGURATED:</h4>
+#### <h4 id="healing-service-inaugurated">Healing Service Inaugurated:</h4>
 
 On Holy Night the spiritual power in the Sun culminates, pouring out a benediction upon the air. From the 25th of December to the 25th of June the physical activities are in the ascendant, gradually gathering force which culminates at the Summer Solstice; and then blesses man physically with the things needed for his material sustenance. During that time the spiritual activities are difficult to inaugurate, and therefore we waited quietly until the turn recently, holding the first evening healing service on Tuesday, the 23rd of June (1914), at half past seven, when the Moon was in the cardinal sign of Cancer. And in the future a healing service will be held in the Pro-Ecclesia each week at that hour on a day when the Moon is in one of the cardinal signs. We decided to have these services that we might utilize the little Pro-Ecclesia to the very utmost, and thus earn the privilege of having the Ecclesia, too. This was approved by the Teacher, and he suggested that the healing service be held when the Moon is in the cardinal signs. But we want to go a step further in our efforts to secure efficiency; and this is where we want to add the help of every earnest student in The Rosicrucian Fellowship. 
 
@@ -1295,9 +1295,9 @@ There is a passage in the ritual used at The Rosicrucian Fellowship services whi
 
 To secure the help of all earnest students and give them the privilege of helping, we will publish in the Echoes each month the date on which the healing services will be held, and if each student will sit down in his or her own home at half past seven, directing their thoughts to Mt. Ecclesia, to the little Pro-Ecclesia, where the symbol of the Invisible Helpers will then be unveiled, the love, sympathy, and strength thus given these workers will enable them to do a much greater service for humanity; each one of course then having part in that work. The symbol of the Invisible Helpers upon which we concentrate at Mt. Ecclesia is a snow-white cross, with the seven red roses and a pure white one in the center; the usual stars (the rays), goes out from the cross, and the background is blue, the whole being beautifully illuminated, thus making it an apt emblem of the effulgence of that soul body wherein these workers travel. It will not be necessary to make corrections in time for your place of residence, because the Sun will gather all the aspirations as he goes along, and when the rays at the proper angle arrive at Mt. Ecclesia the influence directed here will certainly transmit itself and unite with our aspirations taking place at this time and help us in the work. (NOTE: The time of this healing service has since been changed to half past six.) 
 
-<h2 id="part-4">PART IV: "THERE IS NO DEATH"</h2>
+<h2 id="part-4">Part IV: “There Is No Death”</h2>
 
-### <h3 id="chapter-21">CHAPTER XXI: THE REAL NATURE OF DEATH</h3>
+### <h3 id="chapter-21">Chapter XXI: The Real Nature of Death</h3>
 
 Amid all the uncertainties which are the characteristics of this world, there is but one certainty--Death. At one time or another, after a short or long life, comes this termination to the material phase of our existence, which is a birth into a new world, as that which we term "birth" is, in the beautiful words of Wordsworth, a forgetting of the past. 
 
@@ -1317,7 +1317,7 @@ That atom is called the "seed atom." The force within it moves the heart and kee
 
 The "silver cord" which unites the higher and lower vehicles terminates at the seed atom in the heart. When material life comes to an end in the natural manner the forces in the seed atom disengage themselves, pass outward along the pneumogastric nerve, the back of the head and along the silver cord, together with the higher vehicles. It is this rupture in the heart which marks physical death, but the connecting silver cord is not broken at once, in some cases not for several days. 
 
-### <h3 id="chapter-22">CHAPTER XXII: EFFECTS OF SUICIDE</h3>
+### <h3 id="chapter-22">Chapter XXII: Effects of Suicide</h3>
 
 When the Ego is coming down to rebirth it descends through the Second Heaven. There it is helped by the Creative Hierarchies to build an archetype for its coming body, and it instills into that archetype a life that will last for a certain number of years. These archetypes are hollow spaces and they have a singing, vibratory motion which draws the material of the Physical World into them and sets all the atoms in the body vibrating in tune with a little atom that is in the heart, called the seed-atom, which, like a tuning fork, gives the pitch to all the rest of the material in the body. At the time when the full life has been lived on the earth the vibrations in the archetype cease, the seed-atom is withdrawn, the dense body goes to decay and the desire body, wherein the Ego functions in Purgatory and in the First Heaven, takes upon itself the shape of the physical body. Then the man commences his work of expiating his evil habits and deeds in Purgatory and assimilating the good of his life in the First Heaven. 
 
@@ -1325,7 +1325,7 @@ The foregoing describes the ordinary conditions when the course of nature is und
 
 It is curious that the commission of suicide in one life and the consequent post-mortem suffering during the time when the archetype still exists often generate in such people a morbid fear of death in the next life; so that when the event actually occurs in the ordinary course of life, they seem frantic after they leave the body and so anxious to get back to the Physical World again that they frequently commit the crime of obsession in the most foolish and unthinking manner. 
 
-### <h3 id="chapter-23">CHAPTER XXIII: CAUSES OF DEATH DURING INFANCY</h3>
+### <h3 id="chapter-23">Chapter XXIII: Causes of Death During Infancy</h3>
 
 When a man passes out a death, he takes with him the mind, desire body, and vital body the latter being the storehouse of the pictures of his past life. And during the three and one-half days following death these pictures are etched into the desire body to form the basis of man's life in Purgatory and the First Heaven where the evil is expurgated and the good assimilated. The experience of the life itself is forgotten, as we have forgotten the process of learning to write, but have retained the faculty. So the cumulative extract of all his experiences, both during past earth lives and past existences in Purgatory and the various heavens, are retained by the man and form his stock in trade in the next birth. The pains he has sustained speak to him as the voice of conscience, the good he had done gives him a more and more altruistic character. 
 
@@ -1337,7 +1337,7 @@ That which has not been quickened cannot die, and so when a child dies before th
 
 As in the past man has been exceedingly warlike and not at all careful of the relatives who passed out at death because of his ignorance, holding wakes over those who died in bed, which were few, perhaps, compared to those who died on the battle field, there must necessarily on that account be an enormous amount of infant mortality, but as humanity arrives at a better understanding and realizes that we are never so much our brother's keeper as when he is passing out of this life and that we can help him enormously by being quiet and prayerful, so also will infant mortality cease to exist on such a large scale as at present. 
 
-### <h3 id="chapter-24">CHAPTER XXIV: PROPER CARE OF THE DECEASED</h3>
+### <h3 id="chapter-24">Chapter XXIV: Proper Care of the Deceased</h3>
 
 The vital body is the vehicle of sense-perception. As it remains with the body of feeling (the desire body) and the etheric cord connects them with the discarded dense body, it will be evident that until the cord is severed there must be a certain amount of feeling experienced by the Ego when its dense body is molested. Thus, it causes pain when the blood is extracted and embalming fluid injected, when the body is opened for post-mortem examination, and when the body is cremated. 
 

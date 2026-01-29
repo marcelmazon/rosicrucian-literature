@@ -1,10 +1,10 @@
 ---
-title: 'Teachings of an Initiate'
-language: 'en'
+title: "Teachings of an Initiate"
+language: "en"
 original_title: "Teachings of an Initiate"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="teachings-of-an-initiate">Teachings of an Initiate</h1>
@@ -17,7 +17,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 This volume of the writings of Max Heindel, the Western Mystic, is the concluding number embodying the messages he sent out through monthly lessons to his students. These lessons, reprinted since this great soul was called to a greater work in the higher worlds on January 6th, 1919, may be found in the following books in addition to the present volume: "Freemasonry and Catholicism"; "The Web of Destiny"; "The Mystical Interpretation of Christmas"; "The Mysteries of the Great Operas"; "The Gleanings of a Mystic"; and "Letters to Students". These writings comprise the later investigations of this seer. 
 
@@ -27,7 +27,7 @@ Max Heindel, who was the authorized messenger of the true Rosicrucian Brotherhoo
 
 \- Augusta Foss Heindel 
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [Foreword](#foreword) 
 - [Chapter I: The Days of Noah and of Christ](#chapter-1)
@@ -57,7 +57,7 @@ Max Heindel, who was the authorized messenger of the true Rosicrucian Brotherhoo
 - [Chapter XXV: The Responsibility of Knowledge](#chapter-25)
 - [Chapter XXVI: The Journey Through the Wilderness](#chapter-26)
 
-### <h3 id="chapter-1">CHAPTER I: THE DAYS OF NOAH AND OF CHRIST</h3>
+### <h3 id="chapter-1">Chapter I: The Days of Noah and of Christ</h3>
 
 When Nicodemus came to Christ and was told about the necessity of rebirth, he asked, "How can these things be?" And we also with our inquiring minds are often anxious for more light upon the various teachings concerning our future. It helps us if we can feel that these teachings fit into physical facts as we know them. Then we seem to have firmer ground for our faith in other things which we have not yet proved. 
 
@@ -655,7 +655,7 @@ When I returned to my rooms after having purchased my ticket, there stood my sli
 
 How directions were then given me to take a certain train at a certain depot and go to a place I had not heard of before, how I there met the Brother in the flesh, was taken to the Temple, and received the main instructions embodied in our literature, are matters of small interest. The point is that had I agreed to keep the instructions secret, I should naturally have been unfit to be a messenger of the Brothers, and they would have had to seek another. Likewise with any of us: if we hoard the spiritual blessings we have received, evil is at our door, so let us imitate the earth at this Easter time. Let us bring forth in the physical world of action the fruits of the spirit sown in our souls during the past wintry season. So shall we be more abundantly blessed from year to year. 
 
-### <h3 id="chapter-14">CHAPTER XIV: THE LESSON OF EASTER</h3>
+### <h3 id="chapter-14">Chapter XIV: The Lesson of Easter</h3>
 
 AND again it is Easter. The dark, dreary days of winter are past. Mother nature is taking the cold, snowy coverlids off the earth, and the millions and millions of seed sheltered in the soft soil are bursting its crust and clothing the earth in summer robes, a riot of gay and glorious colors, preparing the bridal bower for the mating of beasts and birds. Even in this war-torn year the song of life sounds loudly above the dirge of death. "O death, where is thy sting? O grave, where is thy victory?" Christ has risen--the first fruits. He is the resurrection and the life; whosoever believeth in him shall not perish but have everlasting life. 
 
@@ -727,7 +727,7 @@ David said, "if I ascend up into heaven thou art there; if I make my bed in the 
 
 This is nothing new to those who are seeking the Light, who have been doing their very best to live the life; but the danger lies in that they may become indifferent, may become spiritually common-place. Therefore, as the steersman at the helm of the ship is constantly wakeful and watching the guiding compass, so it is of the greatest importance that we continually shake ourselves lest we go to sleep and the ship of our life go off its course. Let us all set our faces firmly towards this star of hope, this great spiritual light, the real and only thing worth while--the life of God. 
 
-### <h3 id="chapter-18">CHAPTER XVIII: RELIGION AND HEALING</h3>
+### <h3 id="chapter-18">Chapter XVIII: Religion and Healing</h3>
 
 At various times and in different ways humanity has been given religions suited to spur them onward upon the path of evolution. In each the ideal was made just high enough to rouse the aspirations of the class of people to whom it was given, but not so high as to be beyond their appreciation, for then it would not have appealed to them at all. The savage, for instance, must have a strong God, one who wields the flaming sword of lightning with mighty hand. He can look up to such a God in fear, but would despise a God who would show love and mercy. 
 
@@ -741,7 +741,7 @@ The higher teachings are never given for a monetary consideration. Peter in olde
 
 During the past few years since we first commenced to disseminate the Rosicrucian teachings they have spread like wildfire over the civilized world. They are studied with avidity from the Cape of Good Hope to the Arctic Circle and beyond. They have found response in the hearts of all classes of people--in the snow-clad huts of Alaskan miners, in government houses where a tropical wind unfurls the British Lion, and in the capitals of Turkish autocracy and American democracy alike. Our adherents may be found in government institutions as well as in the humblest walks of life, all in lively correspondence and close touch with our movement and working for the promulgation of the deeper truths concerning life and being which are helping them. 
 
-#### <h4 id="the-rosicrucian-principles-of-healing">THE ROSICRUCIAN PRINCIPLES OF HEALING</h4>
+#### <h4 id="the-rosicrucian-principles-of-healing">The Rosicrucian Principles of Healing</h4>
 
 It is a trite saying that "man is of few days and full of trouble." Among all the vicissitudes of life none affect us more powerfully than loss of health. We may lose fortune or friends with comparative equanimity, but when health fails and death threatens, the strongest falter; realizing human impotence we are more ready to turn to divine power for succor then than at other times. Therefore the office of spiritual adviser has always been closely associated with healing. 
 
@@ -795,7 +795,7 @@ All of this and the way of attainment are symbolized in the rose cross before us
 
 When we attain to the purity of life there symbolized, we shall have freed ourselves from the cross of matter, and the ethereal conditions of the millennium will be here. It is the aim of the Rosicrucian Fellowship to hasten that glad day when sorrow, pain, sin, and death shall have ceased, and we shall have been redeemed from the fascinating, enthralling illusions of matter and awakened to the supreme truth of the reality of Spirit. May God speed and prosper our efforts. 
 
-### <h3 id="chapter-20">CHAPTER XX: OUR WORK IN THE WORLD - PART I - (ISSUED MAY, 1912)</h3>
+### <h3 id="chapter-20">Chapter XX: Our Work in the World – Part I (Issued May, 1912)</h3>
 
 Lately there has come to us a realization that the work of the Rosicrucian Fellowship is not our private work; it is the work of the Elder Brothers and every member of the Fellowship. In the accomplishment thereof is a wonderful opportunity for soul growth, and we have no more right to arrogate it to ourselves than we have to deprive members of material food; we must give all the opportunity to aid in the work physically, mentally, or financially according to time, talent, and ability. We also realize that unless we do, the work will be undone, and we shall be unprofitable servants of the Elder Brothers, for the burden is heavier than we can bear; and to prosper, the Great Work requires many laborers. I will therefore give in this lesson a history of the work to date, so that students may be able to view the future work in its true perspective. This will necessitate a liberal use of the capital "I", and students will kindly bear with me in this matter, for no one dislikes introduction of the personal element more than the writer, but in the present case it seems unavoidable. 
 
@@ -843,7 +843,7 @@ Thus it has been with me: strenuous work both physical and mental, even to the p
 
 I saw our headquarters and a procession of people coming from all parts of the world to receive the teaching. I saw them issuing thence to carry balm to afflicted ones near and far. While here in this world it is necessary to investigate in order to find out about anything, there the voice of each archetype brings with it as it strikes the spiritual consciousness a knowledge of what the archetype represents. Thus there came to me that night an understanding which is far beyond my words to express, for the world in which we live is based upon the principle of time, but in the high realm of the archetypes all is an eternal now. These archetypes do not tell their story as this is told, but there is borne in upon one an instant conception of the whole idea, much more luminous than can be given by the reciter in words. I have not dared to attempt telling it during the time which has since elapsed, but in the following chapter I shall endeavor to give you a picture thereof. 
 
-### <h3 id="chapter-22">CHAPTER XXII: OUR WORK IN THE WORLD - PART III</h3>
+### <h3 id="chapter-22">Chapter XXII: Our Work in the World – Part III</h3>
 
 The Region of Concrete Thought, as you will remember from our other teachings, is the realm of sound, where the harmony of the spheres, the celestial music, pervades all that is as the atmosphere of the earth surrounds and envelops everything terrestrial. Everything there may be said to be wrapped in and permeated by music. It lives by music and grows by music. The Word of God there sounds forth and forms all the various types which later crystallize into the things we behold in the terrestrial world. 
 
@@ -921,7 +921,7 @@ But let us brighten the darkness
 By shining just where we are.
 ```
 
-### <h3 id="chapter-24">CHAPTER XXIV: THE BOW IN THE CLOUD</h3>
+### <h3 id="chapter-24">Chapter XXIV: The Bow in the Cloud</h3>
 
 I have a few preliminary explanations to make, a few reasons why the subject of "The Bow in the Cloud" is taken up. I recently dictated the manuscript for a book which I have since been editing. In the course of the dictation there came up certain points that required investigation, one of them being the life force that enters the body through the spleen. Upon investigating it was seen that this force manifests in different colors, and that in different kingdoms of life it works differently; therefore much was to be looked up before making the information public. A friend, upon reading some of the manuscript, sent to his library in Seattle for a book published about forty years ago called "Babbitt's Principles of Light and Color." I referred to this book and found it most interesting, written by a man who was clairvoyant. After spending an hour studying the book, I turned to investigation myself, with the result that a great deal of new light was shed upon the subject. And it is a deep and profound subject, for the very life of God seems to be embodied in these colors. 
 
@@ -955,7 +955,7 @@ Let us look up and endeavor to forget the little worries of life, for the bow of
 
 We should remember that we each have within a latent spiritual power that is greater than any worldly power, and as it is unfolding, we are responsible for its use. To increase that power we should endeavor to devote part of our leisure time to the cultivation of the higher life, so that when the cloud of disaster comes upon us, we shall by the aid of that power find the bow within the cloud. As the bow is seen at the end of the storm, so when we have gained the power to see the bright rainbow in our cloud of disaster, the end of that disaster has come, and the bright side begins to appear. The greater the disaster, the greater the needed lesson. When on the path of wrong doing we sooner or later are kindly but firmly whipped into line by the realities of life, and forced to recognize that the path of truth is upward and not downward and that God rules the world. 
 
-### <h3 id="chapter-25">CHAPTER XXV: THE RESPONSIBILITY OF KNOWLEDGE</h3>
+### <h3 id="chapter-25">Chapter XXV: The Responsibility of Knowledge</h3>
 
 At the time in the far, dim past when we began our lives as human beings we had very little experience, and consequently we had very little responsibility. Responsibility depends upon knowledge. The animals, we find, are not amenable to the law of causation from the moral standpoint, although of course, if an animal jumps out of a window, it is amenable to the law of physical causation, inasmuch as when it falls upon the ground beneath, it may possibly break a limb or cause itself some injury. If a man should do the same thing, he would be amenable to the law of responsibility in addition to the law of cause and effect. There is for him a moral responsibility, for he knows better, and he has no right to injure the instrument that has been given him. So we see that we are morally responsible according to our knowledge. 
 
@@ -993,7 +993,7 @@ Thomas a Kempis has expressed this in a manner which only a mystic can do. He ha
 
 Therefore let us remember that we should not seek after knowledge simply for the sake of knowledge, but only as a means to the living of a better and a purer life, for that alone justifies it. 
 
-### <h3 id="chapter-26">CHAPTER XXVI: THE JOURNEY THROUGH THE WILDERNESS</h3>
+### <h3 id="chapter-26">Chapter XXVI: The Journey Through the Wilderness</h3>
 
 Our subject is taken from the Bible story of "The Temple in the Wilderness," and we shall endeavor to interpret it from the standpoint of the Rosicrucian teachings. It may seem to those who have not studied these teachings that one interpretation is as valid and as worthy of belief as another, but further consideration of the subject may give a somewhat different opinion. Peter, in his second Epistle, first chapter and 20th verse says: "Knowing this first, that no prophecy of the Scriptures is of any private interpretation." In our daily life we understand that if our opinion on any subject is to be considered valuable, that opinion must be based upon a certain amount of knowledge of the subject. The testimony of witnesses in a court is based upon this principle. If a person well qualified by study or experience expresses an opinion upon a subject, he is listened to with respect and receives due consideration. It should be the same with one interpreting the Scriptures. 
 

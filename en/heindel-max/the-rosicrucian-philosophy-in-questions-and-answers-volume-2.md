@@ -1,10 +1,10 @@
 ---
-title: 'The Rosicrucian Philosophy in Questions and Answers Volume II'
-language: 'en'
+title: "The Rosicrucian Philosophy in Questions and Answers Volume II"
+language: "en"
 original_title: "The Rosicrucian Philosophy in Questions and Answers Volume II"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-philosophy-in-questions-and-answers-volume-2">The Rosicrucian Philosophy In Questions and Answers - Volume II</h1>
@@ -199,7 +199,7 @@ by Max Heindel
     - [Question No. 165: Nature of the Myth](#question-165)
     - [Question No. 166: Prayer](#question-166)
 
-### LIST OF DIAGRAMS 
+### <h3 id="list-of-diagrams">LIST OF DIAGRAMS</h3>
 
 - [The Seven Days of Creation](#diagram-the-seven-days-of-creation)
 - [A Life Cycle](#diagram-a-life-cycle)
@@ -1518,7 +1518,7 @@ However, his offerings were not pleasing to the God Jehovah, who saw in him a po
 
 From this semi-divine progeny, Cain, there has descended a long line of sons who have originated all the industries, as you will see by consulting the Bible. They invented all the arts and all the sciences. To them all the material progress of the world has been due, and their line culminated at the time when Solomon, the son of man, sat upon the throne of Israel, in the birth of a son of a widow, called Hiram Abiff, which you will also find chronicled in the Bible. I do not mean Hiram of Tyre, but Hiram, the master workman, who was sent by King Hiram of Tyre to build the Temple of Solomon. He, then, was "the widow's son," and Solomon was the "son of man." At a later time both of these characters in the world drama were reborn. Solomon became Jesus of Nazareth, the Son of Man; Hiram Abiff became Lazarus. He was also the Widow's Son of Nain, and the two resurrections recorded are one event, referring to Initiation. 
 
-Since then these two characters, the Son of Man and the Son of a Widow, have worked for the same ends, but in different spheres. Jesus, the Son of man, has worked among the churches, and is doing so still. Christian Rosenkreuz is the later name of Hiram Abiff and Lazarus, the Son of a Widow. Jesus, the Son of Man, stands as the genius and protector of all church craft, whereby religion is fostered and man is brought back to God along the heart path of devotion. Christian Rosenkreuz, the Son of the Widow, works with the world powers, the industries, and science, in order to bring about the union of the temporal and spiritual power, the head and the heart, which must take place before Christ, the Son of God, can come again. 
+Since then these two characters, the Son of Man and the Son of a Widow, have worked for the same ends, but in different spheres. Jesus, the Son of Man, has worked among the churches, and is doing so still. Christian Rosenkreuz is the later name of Hiram Abiff and Lazarus, the Son of a Widow. Jesus, the Son of Man, stands as the genius and protector of all church craft, whereby religion is fostered and man is brought back to God along the heart path of devotion. Christian Rosenkreuz, the Son of the Widow, works with the world powers, the industries, and science, in order to bring about the union of the temporal and spiritual power, the head and the heart, which must take place before Christ, the Son of God, can come again. 
 
 By the way, about this union, I said in the Cosmo that the second coming of Christ would take place at a time when the State and the Church had been united, but that was not exactly a happy expression to use. You will remember that the teachings were given to me in German, and in such volume that it was very difficult to find the proper English expression for everything right off. I therefore occasionally translated too literally. The words state and church, as used by the Teacher, were meant to convey the idea that at some time the temporal and ecclesiastical power must work hand in hand and become more and more united; for at the time toward which we are looking, the Kingdom of Christ, there shall be only one ruler. He will then be both King and Priest, and therefore, naturally, the human race must be educated to such a point where their human rulers approach that ideal more and more, being wise enough to rule a state, and good enough to guide the hearts of men. Thus and thus alone can we approach the Kingdom of God, and that therefore, is the condition which Christian Rosenkreuz and Jesus are now endeavoring to bring about in the church and state. 
 

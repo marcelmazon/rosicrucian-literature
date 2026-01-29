@@ -1,10 +1,10 @@
 ---
 title: "Nature Spirits and Nature Forces"
-language: 'en'
+language: "en"
 original_title: "Nature Spirits and Nature Forces"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="nature-spirits-and-nature-forces">Nature Spirits And Nature Forces</h1>
@@ -37,7 +37,7 @@ Max Heindel is known as the most advanced of Western Mystics and has in his nume
 - [Chapter Six: Two Questions and Answers](#chapter-6)
 - [Chapter Seven: The Constitution of the Earth: and Volcanic Eruptions](#chapter-7)
 
-### <h3 id="chapter-1">CHAPTER ONE: THE ETHERS AND LAWS OF NATURE</h3>
+### <h3 id="chapter-1">Chapter One: The Ethers and Laws of Nature</h3>
 
 To speak of ethers as an avenue of forces conveys no meaning to the average mind, because force is invisible. But to an occult investigator the forces are not merely names such as steam, electricity, etc. He finds them to be intelligent beings of varying grades, both sub- and superhuman. What we call "laws of nature" are great intelligences which guide more elemental beings in accordance with certain rules designed to further their evolution. 
 
@@ -59,7 +59,7 @@ In the ether we may also observe the angels, whose densest body is made of that 
 
 As ether is the avenue of vital, creative forces, and as angels are such expert builders of ether, we may readily understand that they are eminently fitted to be warders of the propagative forces in plant, animal, and man. All through the Bible we find them thus engaged: Two *angels* came to Abraham and announced the birth of Isaac. They *promised* a child to the man who had obeyed God. Later *these same angels* destroyed Sodom for *abuse of the creative force*. *Angels* foretold *to the parents* of Samuel and Samson, the birth of these giants of brain and brawn. To Elizabeth came the *angel* (not archangel) Gabriel, and announced the birth of John; later he appeared also to Mary with the message that she was chosen to bear Jesus. 
 
-### <h3 id="chapter-2">CHAPTER TWO: HEAVEN WORLD ACTIVITY AND NATURE FORCES</h3>
+### <h3 id="chapter-2">Chapter Two: Heaven World Activity and Nature Forces</h3>
 
 We are wont to speak of evolution, but do we ever analyze what it is that makes evolution, why it does not stop in stagnation? If we do, we must realize that there are forces back of the visible which make the alteration in the flora and fauna, the climatic and topographical changes which are constantly going on; and it is then but a natural question, what or who are the forces or agents in evolution? 
 
@@ -89,7 +89,7 @@ Man's work in the Heaven World is not confined solely to the alteration of the s
 
 Thus we see that man *learns* to build his vehicles in the Heaven World, and to use them in the Physical World. Nature provides all phases of experience in such a marvelous manner and with such consummate wisdom that as we learn to see deeper and deeper into her secrets we are more and more impressed with our own insignificance and with an ever growing reverence for God, whose visible symbol nature is. 
 
-### <h3 id="chapter-3">CHAPTER THREE: THE MISSION OF CHRIST AND THE FESTIVAL OF THE FAIRIES</h3>
+### <h3 id="chapter-3">Chapter Three: The Mission of Christ and the Festival of the Fairies</h3>
 
 Whenever we are confronted by one of nature's mysteries which we are at a loss to explain, we simply add a new name to our vocabulary which we then use in learned juggling to hide our ignorance of the subject. Such are the ampere which we use to measure the volume of the electric current, the *volt* which we say indicates the strength of the current, and the *ohm* which we use to show what resistance a given conductor offers to the passage of the current. Thus by much study of words and figures, the master minds of electrical science attempt to persuade themselves and others that they have fathomed the mysteries of the elusive force which plays such an important part in the world's work; but when all is said and they are in a confidential mood, they admit that the brightest lights of electrical science know but very little more about it than the schoolboy who is just beginning to experiment with his cells and batteries. 
 
@@ -105,7 +105,7 @@ It is an axiom of science that nature tolerates nothing that is useless. Parasit
 
 Later, at the time of the winter solstice, we are at the other pole of the yearly cycle where the days are short and the nights long; physically speaking, darkness hangs over the Northern Hemisphere; but the wave of spiritual light and life which will be the basis of next year's growth and progress is now at its greatest height and power. On Christmas night at the winter solstice when the celestial sign of the Immaculate Virgin stands upon the eastern horizon at midnight, the sun of the new year is born to save humanity from the cold and the famine which would ensue were its beneficent light withheld. At that time the Christ Spirit is born into the earth and commences to leaven and fertilize the millions of seeds which the fairies build and water that we may have physical food. But, "Man shall not live by bread alone." Important as is the work of the fairies, it fades into insignificance compared with the mission of Christ who brings to us each year the spiritual food needed to advance us upon the path of progress, that we may attain perfection in love with all which that implies. 
 
-### <h3 id="chapter-4">CHAPTER FOUR: FORCES OF DIFFERENT PERIODS</h3>
+### <h3 id="chapter-4">Chapter Four: Forces of Different Periods</h3>
 
 In the Moon Period, contact of the heated sphere with cold Space generated moisture, and the battle of the elements commenced in all its fierceness. The heated ball of fire endeavored to evaporate the moisture, force it outwards and create a vacuum wherein to maintain its integrity and burn undisturbed. But there is and can be no void in nature, hence the outrushing steam condensed at a certain distance from the heated ball and was again driven inwards by the cold of Space, to be again evaporated and propelled outwards in a ceaseless round for ages and ages, as a shuttlecock between the separate Hierarchies of Spirits composing the various Kingdoms of Life, represented in the Fire-Sphere and Cosmic Space which is an expression of the Homogeneous Absolute Spirit. The Fire Spirits are actively striving to attain enlargement of consciousness. But the Absolute rests, ever clothed in the invisible garment of Cosmic Space. In "It" all powers and possibilities are latent, and It seeks to discourage and check any attempt at expenditure of *latent* power as dynamic energy required in the evolution of a solar system. Water is the agent It used to quench the fire of active spirits. The zone between the heated center of the separate Spirit Sphere, and the Point where its individual atmosphere meets Cosmic Space, is a battleground of evolving spirits at various stages of evolution. 
 
@@ -129,7 +129,7 @@ The internal pictures of the Moon Period were a certain expression of man's exte
 
 At the close of the Venus Period he will be able to use his own force to give his pictures life and to set them out from himself as objects in space. He will then possess an objective, self-conscious, creative-consciousness. 
 
-### <h3 id="chapter-5">CHAPTER FIVE: THE EARTH SPIRIT</h3>
+### <h3 id="chapter-5">Chapter Five: The Earth Spirit</h3>
 
 Most of us walk upon earth and see only a seemingly dead mass, but one of the first facts revealed in our consciousness by Initiation is the living reality of the Earth Spirit. As the surface of the body is dead compared to the organs within, so the outer envelope of the earth, being encrusted, gives no idea of the wonderful activity within. Upon the path of Initiation nine different layers are revealed, and in the center of this rolling sphere we meet the Spirit of the Earth face to face. It is actually true that it is "groaning and travailing" in the earth for the sake of all, working and anxiously waiting for our manifestation as Sons of God so that, as the seeking soul, which aspires to liberation is released from its dense body, the Earth Spirit also may be liberated from its body of death in which it is now confined for us. 
 
@@ -141,7 +141,7 @@ When Parsifal, the hero of another of these great soul myths, first visited the 
 
 That is the cardinal point which marks the great difference between persons who happen to come in contact with spirits from superphysical realms by chance or stumble upon the solution of a law of nature, and those who, by diligent research and particularly by *living the life*, attain to conscious Initiation into the secrets of nature. The former do not know how to use this power intelligently and are therefore helpless. The latter are always masters of the forces they wield, while the others are the sport of anyone who wishes to take advantage of them. 
 
-### <h3 id="chapter-6">CHAPTER SIX: TWO QUESTIONS AND ANSWERS</h3>
+### <h3 id="chapter-6">Chapter Six: Two Questions and Answers</h3>
 
 A student asks: "Is not nature guilty of frequent malformations in the plant and animal world as well as in the human race, and can there be a perfectly whole and sane intelligence with a forceful will in a diseased or malformed body?" 
 

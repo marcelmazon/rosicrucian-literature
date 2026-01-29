@@ -1,10 +1,10 @@
 ---
 title: "Archetypes"
-language: 'en'
+language: "en"
 original_title: "Archetypes"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 COMPILED INFORMATION CONCERNING

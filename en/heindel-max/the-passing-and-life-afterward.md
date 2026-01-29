@@ -1,11 +1,10 @@
 ---
-title: 'The Passing and Life Afterward'
-language: 'en'
+title: "The Passing and Life Afterward"
+language: "en"
 original_title: "The Passing and Life Afterward"
-original_language: 'en'
-author: '???'
-type: 'Compilation??? TODO'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-passing-and-life-afterward">The Passing And Life Afterward</h1>
@@ -17,7 +16,7 @@ International Headquarters Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-## CONTENTS
+### <h3 id="contents">Contents</h3>
 
 - [Introduction](#introduction)
 - [The Passing](#the-passing)
@@ -180,7 +179,7 @@ When the man dies and loses his dense and vital bodies, there is the same condit
 
 Not so, however, when the change is made from the First Heaven, which is in the Desire World, to the Second Heaven, which is in the Region of Concrete Thought. Then the man leaves his desire body. He is perfectly conscious. He passes into a great stillness. For the time being everything seems to fade away. He cannot think. No faculty is alive, yet he know that he IS. He has a feeling of standing in "The Great Forever"; of standing utterly alone, yet unafraid; and his being is filled with a wonderful peace, "which passeth all understanding." In occult science this is called *The Great Silence*. 
 
-Then comes the awakening. The Spirit is now in its home world--heaven. Here the first awakening brings to the Spirit the sound of "the music of the spheres." In our Earth life we are so immersed in the little noises and sounds of our limited environment that we are incapable of hearing the music of the marching orbs, but the occult scientist hears it. He knows that the twelve signs of the zodiac and the seven planets form the sounding-board and strings of "Apollo's seven-stringed lyre." He knows that were a single discord to mar the celestial harmony from that grand Instrument there would be "a wreck of matter and a crash of worlds. Celestial music is a fact and not a mere figure of speech. Pythagoras was not romancing when he spoke of the music of the sphere, for each one of the heavenly orbs has its definite tone, and together they sound the celestial symphony which Goethe also mentions in the prologue to his *Faus*t. 
+Then comes the awakening. The Spirit is now in its home world--heaven. Here the first awakening brings to the Spirit the sound of "the music of the spheres." In our Earth life we are so immersed in the little noises and sounds of our limited environment that we are incapable of hearing the music of the marching orbs, but the occult scientist hears it. He knows that the twelve signs of the zodiac and the seven planets form the sounding-board and strings of "Apollo's seven-stringed lyre." He knows that were a single discord to mar the celestial harmony from that grand Instrument there would be "a wreck of matter and a crash of worlds. Celestial music is a fact and not a mere figure of speech. Pythagoras was not romancing when he spoke of the music of the sphere, for each one of the heavenly orbs has its definite tone, and together they sound the celestial symphony which Goethe also mentions in the prologue to his *Faust*. 
 
 Echoes of that heavenly music reach us even here in the Physical World. They are our most precious possession, even though they are as elusive as a will-o-the-wisp, and cannot be *permanently* created here as can other works of art such as a statue or a book. The World of Thought, however, where the Second and Third Heavens are located, is the sphere of tone, and the musician here finally reaches the place where his art will express itself to the fullest extent. 
 

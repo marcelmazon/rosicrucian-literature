@@ -1,10 +1,10 @@
 ---
 title: "The Desire Body"
-language: 'en'
+language: "en"
 original_title: "The Desire Body"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-desire-body">THE DESIRE BODY</h1>
@@ -150,11 +150,11 @@ The three and one-half Periods already behind us have been spent in gaining our 
 
 We have seen that man is a very complex organism, consisting of: 
 
-1) The Dense Body, which is his tool in action.  
-2) The Vital Body, a medium of "vitality" which makes action possible.  
-3) The Desire Body, whence comes Desire and compels action.  
-4) The Mind, a brake on impulse, giving purpose to action.  
-5) The Ego, which acts and gathers experience from action.  
+1\) The Dense Body, which is his tool in action.  
+2\) The Vital Body, a medium of "vitality" which makes action possible.  
+3\) The Desire Body, whence comes Desire and compels action.  
+4\) The Mind, a brake on impulse, giving purpose to action.  
+5\) The Ego, which acts and gathers experience from action.  
 
 The Human Spirit and the desire body commenced to evolve in the Moon Period and are therefore the special wards of the Holy Spirit.  
 

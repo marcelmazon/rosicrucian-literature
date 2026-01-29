@@ -1,10 +1,10 @@
 ---
 title: "Mysteries of the Great Operas"
-language: 'en'
+language: "en"
 original_title: "Mysteries of the Great Operas"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="mysteries-of-the-great-operas">Mysteries of the Great Operas</h1>
@@ -21,7 +21,7 @@ Oceanside, California, 92054, U.S.A.
 
 ### <h3 id="table-of-contents">Table of Contents</h3>
 
-- [FAUST](#faust)
+- [Faust](#faust)
     - [Chapter I: Divine Discord](#chapter-1)
     - [Chapter II: The Sorrows of the Seeking Soul](#chapter-2)
     - [Chapter III: The Sorrows of the Seeking Soul (cont.)](#chapter-3) 
@@ -29,10 +29,10 @@ Oceanside, California, 92054, U.S.A.
     - [Chapter V: Selling His Soul to Satan (cont.)](#chapter-5)
     - [Chapter VI: The Wages of Sin and the Ways of Salvation](#chapter-6)
 
-- [PARSIFAL](#parsifal)
+- [Parsifal](#parsifal)
     - [Chapter VII: Wagner's Mystic Music Drama](#chapter-7)
 
-- [RING OF THE NIEBELUNG](#ring-of-the-niebelung)
+- [Ring of the Niebelung](#ring-of-the-niebelung)
     - [Chapter VIII: The Rhine Maidens](#chapter-8)
     - [Chapter IX: The Ring of the Gods](#chapter-9)
     - [Chapter X: The Valkuerie](#chapter-10)
@@ -41,13 +41,13 @@ Oceanside, California, 92054, U.S.A.
     - [Chapter XIII: Rebirth and the Lethal Drink](#chapter-13)
     - [Chapter XIV: The Twilight of the Gods](#chapter-14)
 
-- [TANNHAUSER](#tannhauser)
+- [Tannhauser](#tannhauser)
     - [Chapter XV: The Pendulum of Joy and Sorrow](#chapter-15)
     - [Chapter XVI: Minstrels, the Initiates of the Middle Ages](#chapter-16)
     - [Chapter XVII: The Unpardonable Sin](#chapter-17)
     - [Chapter XVIII: The Rod that Budded](#chapter-18)
 
-- [LOHENGRIN](#lohengrin)
+- [Lohengrin](#lohengrin)
     - [Chapter XIX: The Knight of the Swan](#chapter-19)
 
 <h2 id="faust">FAUST</h2>
@@ -504,8 +504,7 @@ In the second part of Faust we find the hero broken in spirit over the disaster 
 
 Not content, however, to serve another, under existing conditions, Faust sets the diabolical forces under his command to create a land, to raise it out of the sea and make a New Earth. He dreams a Utopian dream of how this free land shall be the home of a free people who shall dwell there in peace and contentment living up to the highest ideals of life. 
 
-These ideals are generated in his soul by the love of a character called Helen, which is a love of the loftiest and most spiritual nature, entirely separate from the thought of sex and passion. In the course of time he sees this land rise from the sea but his eyes are growing blind, for he is shifting this gaze from an earthly to a heavenly condition. While he thus stands looking at the forces marshalled by Lucifer, toiling at this behest day and night, Faust realizes that he has made real the claim of Lucifer, to be "The power that still 
-Works for good though scheming ill." 
+These ideals are generated in his soul by the love of a character called Helen, which is a love of the loftiest and most spiritual nature, entirely separate from the thought of sex and passion. In the course of time he sees this land rise from the sea but his eyes are growing blind, for he is shifting this gaze from an earthly to a heavenly condition. While he thus stands looking at the forces marshalled by Lucifer, toiling at this behest day and night, Faust realizes that he has made real the claim of Lucifer, to be "The power that still Works for good though scheming ill." 
 
 He sees his work with the lower forces nearing completion, but his sight grows dimmer, and with that intense longing which comes to the soul to see the fruitage of its works, he desires to retain his sight until all shall have been accomplished and his Utopian dream shall have become a reality. Therefore, as the vision before him--the land rising from the sea and the happy people who live upon it in good fellowship--fades from his sightless eyes, he utters the fateful words named by him in his bargain with Lucifer; 
 
@@ -967,7 +966,7 @@ The Germano-Anglo-Saxon race will of course be succeeded by two more before the 
 
 <h2 id="tannhauser">TANNHAUSER</h2>
 
-<h3 id="chapter-15">CHAPTER XV: THE PENDULUM OF JOY AND SORROW</h3>
+### <h3 id="chapter-15">CHAPTER XV: THE PENDULUM OF JOY AND SORROW</h3>
 
 In this drama we deal again with one of the ancient legends. It was given to humanity by the divine Hierarchies who guided us along the path of progress by pictorial terms so that mankind might subconsciously absorb the ideals for which, in later lives, they were to strive. 
 

@@ -7,7 +7,7 @@ author: 'Max Heindel'
 original_source_file: 'self'
 ---
 
-<h1 id="the-rosicrucian-principle-of-child-training">The Rosicrucian Principles Of Child Training</h1>
+<h1 id="the-rosicrucian-principles-of-child-training">The Rosicrucian Principles Of Child Training</h1>
 
 by Max Heindel [1865-1919] 
 
@@ -18,7 +18,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA   
 
-<h2 id="contents">CONTENTS</h2>
+### <h3 id="contents">CONTENTS</h3>
 
 - [Chapter I: Education of Children](#chapter-1)
 - [Chapter II: Heredity and the Problems of Childhood](#chapter-2)

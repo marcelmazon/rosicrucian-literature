@@ -1,10 +1,10 @@
 ---
 title: "Ancient and Modern Initiation"
-language: 'en'
+language: "en"
 original_title: "Ancient and Modern Initiation"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="ancient-and-modern-initiation">Ancient and Modern Initiation</h1> 
@@ -439,7 +439,7 @@ But the Christian Mystic who has just emerged from his Baptism in the Fountain o
 
 The Christian Mystic does not reason this out, however. As often stated, he has not reason, but he has a much safer guide in the interior voice which always speaks to him in moments when a decision must be made. "Man does not live by bread alone, but by every word that proceedeth from God";-another mystery. There is no need to partake of earthly bread for one who has access to the Fountain of Life. The more our thoughts are centered in God, the less we shall care for the so-called pleasures of the table, and by feeding our gross bodies sparingly on selected simple foods we shall obtain an illumination of spirit impossible to one who indulges in an excessive diet of coarse foods which nourish the lower nature. Some of the saints have used fasting and castigation as a means of soul growth, but that is a mistaken method for reasons given in an article on "Fasting for Soul Growth" published in the December 1915 number of "Rays from the Rose Cross." The Elder Brothers of humanity who understand the Law and live accordingly use food only at intervals measured by years. The word of God is to them a "living bread." So it becomes also to the Christian Mystic, and the Temptation instead of working his downfall has led him to greater heights. 
 
-### <h3 id="part-2-chapter-4">CHAPTER FOUR: THE TRANSFIGURATION</h3>
+### <h3 id="part-2-chapter-4">Chapter Four: The Transfiguration</h3>
 
 We remember that by the mystic processes of the true Spiritual Baptism the aspirant becomes so thoroughly saturated with the Universal Spirit that as a matter of actual fact, feeling, and experience he becomes one with all that lives, moves, and has its being, one with the pulsating divine Life which surges in rhythmic cadence through the least and the greatest alike; and having caught the keynote of the celestial song he is then endued with a power of tremendous magnitude, which he may use either for good or ill. It should be understood and remembered that though gunpowder and dynamite facilitate farming when used for blowing up tree stumps which would otherwise require a great deal of manual labor to extract, they may also be used for destructive purposes as in the great European war. Spiritual powers also may be used for good or ill depending upon the motive and character of the one who wields them. Therefore, whoever has successfully undergone the rite of Baptism and thereby acquired spiritual power is forthwith tempted that it may be definitely decided whether he will range himself upon the side of good or evil. At this point he becomes either a future "Parsifal," a "Christ," a "Herod," or a "Klingsor" who fights the Knights of the Holy Grail with all the powers and resources of the Black Brotherhood. 
 

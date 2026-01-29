@@ -1,10 +1,10 @@
 ---
 title: "Freemasonry and Catholicism"
-language: 'en'
+language: "en"
 original_title: "Freemasonry and Catholicism"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="freemasonry-and-catholicism">Freemasonry and Catholicism</h1>

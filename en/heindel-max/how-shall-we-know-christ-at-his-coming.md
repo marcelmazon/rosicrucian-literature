@@ -1,13 +1,13 @@
 ---
 title: "How Shall We Know Christ at His Coming?"
-language: 'en'
+language: "en"
 original_title: "How Shall We Know Christ at His Coming?"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
-<h1 id="how-shall-we-know-christ-at-his-coming">HOW SHALL WE KNOW CHRIST AT HIS COMING?</h1>
+<h1 id="how-shall-we-know-christ-at-his-coming">How shall we know Christ at His coming?</h1>
 
 by Max Heindel [1865-1919] 
 
@@ -17,7 +17,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="the-rosicrucian-fellowship">THE ROSICRUCIAN FELLOWSHIP - An Aquarian Movement</h3>
+### <h3 id="the-rosicrucian-fellowship">The Rosicrucian Fellowship - An Aquarian Movement</h3>
 
 There was a time, even as late as Greece, when Religion, Art and Science were taught unitedly in the Mystery temples. But it was necessary for the better development of each that they should separate for a time. 
 
@@ -35,7 +35,7 @@ In the thirteenth century a high spiritual teacher, having the symbolical name C
 
 In the past centuries the Rosicrucians have worked in secret, but now the time has come for giving out a definite, logical, and sequential teaching concerning the origin, showing both the spiritual and the scientific aspects: a teaching which makes no statements that are not supported by reason and logic. 
 
-### <h3 id="how-shall-we-know-christ-at-his-coming-h3">HOW SHALL WE KNOW CHRIST AT HIS COMING?</h3>
+### <h3 id="how-shall-we-know-christ-at-his-coming-h3">How shall we know Christ at His coming?</h3>
 
 Stenographic Report of a Lecture Delivered Before The Los Angeles Study Center, Rx., F., May 18TH, 1913, by Max Heindel 
 
@@ -62,7 +62,7 @@ HOW SHALL WE KNOW HIM AT HIS APPEARING?
 
 This will make it easier for those who have not studies the Western Wisdom Teaching to grasp the idea. 
 
-#### <h4 id="who-is-christ">I. WHO IS CHRIST?</h4>
+#### <h4 id="who-is-christ">I. Who Is Christ?</h4>
 
 The first point which we must settle is the identity of Christ as taught in the Western Mystery School. According to the chart, "The Seven Days of Creation," man has gone through a period of involution comprising the Saturn, Sun, and Moon Periods; also one-half of the Earth Period. In this pilgrimage through matter he has gathered the vehicles he today possesses. 
 
@@ -78,11 +78,11 @@ The humanity of the Sun Period could not descend any further into the sea of mat
 
 Having explained the identity of Christ and Jesus as stated in the Western Wisdom Teachings, our next problem is: 
 
-#### <h4 id="why-did-christ-come-here-in-the-first-place">II. WHY DID CHRIST COME HERE IN THE FIRST PLACE?</h4>
+#### <h4 id="why-did-christ-come-here-in-the-first-place">II. Why Did Christ Come Here in the First Place?</h4>
 
 On Golgotha, the physical body of Jesus was destroyed amid certain phenomena recorded in the Bible, and the Christ Spirit drew into the earth. Up to that time the earth had been worked upon from without. As the group spirits guide animals from without, so the earth had been guided in its orbit and mankind had been led on the path of evolution almost entirely by Jehovah, but from that time the Christ became our indwelling Earth Spirit. He now guides our planet in its orbit, and is endeavoring to replace the regime of war inaugurated by Jehovah, on the one hand, and the martial Lucifer Spirits, on the other, by a regime of altruism, a reign of Universal Friendship. We hear much about Universal Brotherhood, but it is not necessary to form societies to proclaim that we are brothers; everyone knows this; there is not need of calling attention to this fact. Brothers and sisters are not always harmonious, but they must be harmonious if they are to be friends, and therefore Christ instituted a much higher ideal when He called His disciples friends:"Ye are my friends if ye do whatsoever I have commanded you." 
 
-#### <h4 id="why-must-he-come-again">III. WHY MUST HE COME AGAIN?</h4>
+#### <h4 id="why-must-he-come-again">III. Why Must He Come Again?</h4>
 
 While we have the emphatic promise of Christ's return, there are many Christians who do not believe in the Second Advent, so it may be well to see if there is any reason compelling His return. 
 
@@ -135,7 +135,7 @@ According to the common view of the matter, Christ completed the Sacrifice of Go
 
 There is no warning in the Bible more emphatic than that given by Christ against claimants to Christhood. He declared that some would work signs and wonders which might deceive the very elect, and we cannot do better than bring His words to mind as we start consideration of our last question. 
 
-#### <h4 id="how-shall-we-know-christ-at-his-appearing">IV. HOW SHALL WE KNOW CHRIST AT HIS APPEARING?</h4>
+#### <h4 id="how-shall-we-know-christ-at-his-appearing">IV. How Shall We Know Christ at His Appearing?</h4>
 
 Christ said: Take heed lest any man deceive you; for many shall come in my name, saying, I am Christ; and shall deceive many. And if any man shall say to you, lo, here is Christ; or, lo, he is there; believe him not. For false Christs and false prophets shall rise, and shall show signs and wonders to seduce, if it were possible, the very elect . . . . then shall they see the Son of man coming in the clouds with great power and glory . . . . He shall send His angels and gather together His elect from the four winds . . . . But of that day and hour knoweth no man, no not the angels which are in heaven, neither the Son, but the Father. 
 

@@ -1,10 +1,10 @@
 ---
-title: 'The Vital Body'
-language: 'en'
+title: "The Vital Body"
+language: "en"
 original_title: "The Web of Destiny"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-vital-body">THE VITAL BODY</h1>
@@ -176,15 +176,15 @@ Mankind is now evolving in the Aryan Epoch. His vital body has functions, color,
 
 We have seen that man is a very complex organism, consisting of: 
 
-1) The dense body, which is his tool in action.  
+1\) The dense body, which is his tool in action.  
 
-2) The vital body, a medium of "vitality" which makes action possible.  
+2\) The vital body, a medium of "vitality" which makes action possible.  
 
-3) The desire body, whence comes desire and which compels action.  
+3\) The desire body, whence comes desire and which compels action.  
 
-4) The mind, a brake on impulse, giving purpose to action.  
+4\) The mind, a brake on impulse, giving purpose to action.  
 
-5) The Ego, which acts and gathers experience from action.  
+5\) The Ego, which acts and gathers experience from action.  
 
 The purpose of life is to transform the powers latent in the Ego into dynamic energy, whereby it may perfectly control its different vehicles and act as It pleases. We know that it does not have full sway now, or there would be no warfare in our breasts, as we say, between the Spirit and the flesh, but in reality, as we should say, between the Spirit and the desire body. It is this warfare that develops the spiritual muscle, as wrestling builds the physical muscle. It is easy to bid others do this and that, but to enforce obedience from oneself is the hardest task in the world, and it has been truly said that "the man who conquers himself is greater than he who takes a city." Goethe, the great initiate poet, gives us the reason why in the lines: 
 

@@ -1,10 +1,10 @@
 ---
-title: 'The Mystical Interpretation of Christmas'
-language: 'en'
+title: "The Mystical Interpretation of Christmas"
+language: "en"
 original_title: "The Mystical Interpretation of Christmas"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-mystical-interpretation-of-christmas">The Mystical Interpretation of Christmas</h1>

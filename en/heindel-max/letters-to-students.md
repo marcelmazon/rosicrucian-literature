@@ -1,10 +1,10 @@
 ---
 title: "Letters to Students"
-language: 'en'
+language: "en"
 original_title: "Letters to Students"
-original_language: 'en'
+original_language: "en"
 author: "Max Heindel"
-original_source_file: 'self'
+original_source_file: "self"
 ---
 
 <h1 id="letters-to-students">Letters To Students</h1>

@@ -1,10 +1,10 @@
 ---
-title: 'The Rosicrucian Cosmo-Conception'
-language: 'en'
+title: "The Rosicrucian Cosmo-Conception"
+language: "en"
 original_title: "The Rosicrucian Cosmo-Conception"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-cosmo-conception">The Rosicrucian Cosmo-Conception</h1>
@@ -185,7 +185,7 @@ Oceanside, California, 91054, USA
     - [Symbolism of Rose Cross](#symbolism-of-the-rose-cross)
 - [Topical Index]()
   - [Addendum A - Morning and Evening Exercises Performed by the Rosicrucian Aspirant](#addendum-a)
-  - [Concerning the Origin of the Fellowship Teachings]()
+  - [Concerning the Origin of the Fellowship Teachings](#concerning-the-origin-of-the-fellowship-teachings)
   - [Addendum B: Footnote to Chapter III](#addendum-b)
   - [Addendum C: Footnote to Chapter XIII (Regarding Race)](#addendum-c)
   - [Addendum D: Footnote to "Our Buildings"](#addendum-d)
@@ -420,7 +420,7 @@ Now it is almost certain that still further modifications will be found necessar
 
 This applies equally to all conditions of life--social, mercantile, and philanthropic. Many plans appear excellent to those conceiving them, and may even look well on paper, but when brought down in the actual test of utility they often fail. That however, should not discourage us. It is true that "we learn more from our mistakes than from our successes," and the proper light in which to regard this Physical World is as a school of valuable experience, in which we learn lessons of the utmost importance. 
  
-#### <h4 id="the-etheric-region-of-the-physical-world">THE ETHERIC REGION OF THE PHYSICAL WORLD.</h4>
+#### <h4 id="the-etheric-region-of-the-physical-world">THE ETHERIC REGION OF THE PHYSICAL WORLD</h4>
 
 As soon as we enter this realm of nature we are in the invisible, intangible World, where our ordinary senses fail us, hence this part of the Physical World is practically unexplored by material science. 
 
@@ -1518,13 +1518,13 @@ When he has fitted himself by his work in the Chemical Region, his next step in 
 
 In the Rosicrucian terminology, the names of the seven Periods are as follows: 
 
-1. The Saturn Period
-2. The Sun Period
-3. the Moon Period  
-4. The Earth Period   
-5. The Jupiter Period
-6. The Venus Period
-7. The Vulcan Period
+1\. The Saturn Period
+2\. The Sun Period
+3\. the Moon Period  
+4\. The Earth Period   
+5\. The Jupiter Period
+6\. The Venus Period
+7\. The Vulcan Period
 
 These periods are successive Rebirths of our Earth.
 
@@ -2247,7 +2247,7 @@ God's plan is not to be brought to naught, however. Every act is a seed-ground f
 
 Therefore, the "Fall" with its consequent pain and suffering is but a temporary state where we see through a glass darkly, but anon we shall behold again face to face the God within and without, who is ever perceived by the pure in heart. 
 
-#### <h4 id="the-fall-of-man">THE FALL OF MAN</h4>
+#### <h4 id="the-fall-of-man-1">THE FALL OF MAN</h4>
 
 This is cabalistically described as the experience of one pair who, of course, represent humanity. The key is given in the verse where the Messenger of the Gods says to the woman, "in sorrow thou shalt bring forth children;" the clue is also found in the sentence of death which was pronounced at that same time. 
 
@@ -2861,7 +2861,7 @@ Christ came to reunite the separated races in bonds of peace and good will, wher
 
 The present Christianity is not even a shadow of the true religion of Christ. That will remain in abeyance until all race feeling shall have been overcome. In the Sixth Epoch there will be but one Universal Brotherhood, under the Leadership of the Returned Christ, but the day and the hour no man knows, for it is not fixed, but depends upon how soon a sufficient number of people shall have commenced to live the life of Fellowship and Love, which is to be the hall-mark of the new dispensation. 
 
-#### <h4 id="the-fall-of-man">THE FALL OF MAN</h4>
+#### <h4 id="the-fall-of-man-2">THE FALL OF MAN</h4>
 
 In connection with the analysis of Genesis, a few more words must be said about "The Fall," which is the backbone and sinew of popular Christianity. Had there been no "Fall," there would have been no need for the "plan of salvation." 
 
@@ -3328,23 +3328,25 @@ There is a similar division among our present animals which can be traced throug
 
 Cuvier was the first to divide the animal kingdom into four primary classes, but was not so successful in his division of these classes into subclasses. The embryologist, Karl Ernst von Baer, also Professor Agassiz and other scientists, classify the animal kingdom into four primary and thirteen subdivisions, as follows: 
 
+```
 I RADIATES:
-  1-Polyps, Sea-anemones and Coral.
-  2-Acaleph, or Jelly-fish.
-  3-Starfish, Sea-urchins.
+    1-Polyps, Sea-anemones and Coral.
+    2-Acaleph, or Jelly-fish.
+    3-Starfish, Sea-urchins.
 II MOLLUSKS:
-  4-Acephala (oysters, etc.).
-  5-Gasteropoda (snails).
-  6-Cephalopoda.
+    4-Acephala (oysters, etc.).
+    5-Gasteropoda (snails).
+    6-Cephalopoda.
 III ARTICULATES:
-  7-Worms.
-  8-Crustacea (lobsters, etc.).
-  9-Insects.
+    7-Worms.
+    8-Crustacea (lobsters, etc.).
+    9-Insects.
 IV VERTEBRATES:
-  10-Fishes.
-  11-Reptiles.
-  12-Birds.
-  13-Mammals
+    10-Fishes.
+    11-Reptiles.
+    12-Birds.
+    13-Mammals
+```
 
 The first three divisions correspond to the remaining three Revolutions of the Mercury half of the Earth Period, and their nine steps correspond to the nine degrees of the lesser mysteries, which will have been taken by humanity in general when it has reached the middle of the last Revolutions of the Earth Period. 
 
@@ -4317,7 +4319,7 @@ By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception w
 
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
 
-### Addendum A: MORNING AND EVENING EXERCISES PERFORMED BY THE ROSICRUCIAN ASPIRANT
+### <h3 id="addendum-a">Addendum A: MORNING AND EVENING EXERCISES PERFORMED BY THE ROSICRUCIAN ASPIRANT
 
 #### <h4 id="">THE EVENING EXERCISE (Mentioned on page 111)</h4>
 
@@ -4383,9 +4385,9 @@ The mystic, as he sees the light of the morning dawn, looks upon it as the daily
 
 We have all trodden the different paths of life at some time. At one time we have walked through Life under the martial ray, and have trodden its path of activity and passion, not caring who suffered or what became of others. In another life we came under the lighter ray of the Venusian color, and trod the path along the love side of life. Later still, the path of the deep blue, or Saturn Ray, and still later the path of the lighter blue or Jupiter Ray. So we all look forward toward the higher perception which comes from the yellow Uranian Ray, though most of us are not at present capable of receiving it, but must be content with the lower deeper yellow of the Mercury Ray. We are all working gradually toward the white light that comes from the Sun, which is the union of all color. To this we must aspire, for the light from any of the other rays is but secondary. From the great central Source come all things. 
 
-"And what about the darkness," someone asks, "is that evil?" No, there is nothing evil in God's universe. During the day we perceive by the light of the Sun the glories of this little Earth that swings in space, and perhaps if there were only light, we should perceive nothing beyond this Earth and remain ignorant that there is more than the Sun and Moon. But when night comes, and the glories of the day have faded, when the Sun no longer illumines the sky, we can realize, to a certain extent at least, the immensity of space. We can see worlds millions and millions of miles away, and the Spirit is incited to wonderful devotion, as we dwell upon the Truth that GOD IS ALL IN ALL.-Max Heindel. 
+"And what about the darkness," someone asks, "is that evil?" No, there is nothing evil in God's universe. During the day we perceive by the light of the Sun the glories of this little Earth that swings in space, and perhaps if there were only light, we should perceive nothing beyond this Earth and remain ignorant that there is more than the Sun and Moon. But when night comes, and the glories of the day have faded, when the Sun no longer illumines the sky, we can realize, to a certain extent at least, the immensity of space. We can see worlds millions and millions of miles away, and the Spirit is incited to wonderful devotion, as we dwell upon the Truth that GOD IS ALL IN ALL. - Max Heindel. 
 
-### Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?
+### <h3 id="addendum-b">Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?</h3>
 
 Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
 
@@ -4400,7 +4402,7 @@ _____________________
 
 From The Rosicrucian Philosophy in Questions and Answers, Vol. 2, quoting an article by Mrs. Heindel in the March, 1915 "Echoes". 
 
-### Addendum C: Footnote to Chapter XIII (Regarding Race)
+### <h3 id="addendum-c">Addendum C: Footnote to Chapter XIII (Regarding Race)</h3>
 
 The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
 

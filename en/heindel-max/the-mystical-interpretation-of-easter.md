@@ -1,10 +1,10 @@
 ---
-title: 'The Mystical Interpretation of Easter'
-language: 'en'
+title: "The Mystical Interpretation of Easter"
+language: "en"
 original_title: "The Mystical Interpretation of Easter"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-mystical-interpretation-of-easter">The Mystical Interpretation of Easter</h1>
@@ -19,7 +19,7 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, U.S.A., 92054  
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 The information contained in this booklet is taken from the lectures and writings of Max Heindel, and has been previously published from time to time either in magazine or book form. The "Echoes" (magazine), first published by Mr. Heindel in June, 1913, contains a mine of knowledge and wisdom concerning this and other important occurrences of mystical significance. A few chapters on Easter are also to be found in *Gleanings of a Mystic* and *Teachings of an Initiate*. 
 

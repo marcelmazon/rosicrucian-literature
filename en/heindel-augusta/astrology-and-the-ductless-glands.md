@@ -27,7 +27,7 @@ Astrology was one of the seven sacred sciences cultivated by the initiates of th
 
 Two distinctive schools of Astrology have been recognized from the beginning of the historical period. With the decline of the late Atlantean and early Aryan priesthoods and the profaning of their mysteries, what are now called the sciences were separated from the parent body of religious tradition. Astrology and medicine were the first to establish independent institutions. The priests of the state religions no longer exercised a monopoly over the prophetic and medicinal arts. Beginning with Hippocrates new orders of soothsayers and healers arose who were entirely ignorant of the fundamental unity, yes, identity of the spiritual and physical sciences.
 
-The division of essential learning into competitive, or at least non- cooperative, fragments destroyed the synthesis of knowledge. Frustrated by division and discord, the whole structure of education broke into innumerable discordant parts. The science of medicine divided from its spiritual source deteriorated into the quackery and leechcraft of the Dark Ages, a condition of affairs so sorry that the Hermetic physician Paracelsus was moved to say, "Fortunate is the man whose physician does not kill him." Astrology was likewise corrupted into horoscope mongering. Divorced from its divine purpose it drifted along, performing a halfhearted and pointless work which consisted for the most part of the bleating forth of dire predictions and the compounding of planetary salves against the itch.
+The division of essential learning into competitive, or at least non-cooperative, fragments destroyed the synthesis of knowledge. Frustrated by division and discord, the whole structure of education broke into innumerable discordant parts. The science of medicine divided from its spiritual source deteriorated into the quackery and leechcraft of the Dark Ages, a condition of affairs so sorry that the Hermetic physician Paracelsus was moved to say, "Fortunate is the man whose physician does not kill him." Astrology was likewise corrupted into horoscope mongering. Divorced from its divine purpose it drifted along, performing a halfhearted and pointless work which consisted for the most part of the bleating forth of dire predictions and the compounding of planetary salves against the itch.
 
 A small group of enlightened and educated men preserved the esoteric secrets of medicine and astrology through those superstition ridden centuries we now call the Middle Ages. Of such mental stature were the Rosicrucians who honored Paracelsus as one of the chief of their "mind." Through Paracelsus and the Rosie Cross the spiritual secrets of nature were restored to the chief place among the ends of learning. Knowledge was interpreted mystically and the profane sciences were reflected as merely the outward forms of inward mysteries. The secrets of mystical interpretation were concealed from the vulgar and given only to those who yearned after things which are of the spirit. THE MYSTICAL DIVINITY of Dionysius the Arepagite became the textbook of an ever increasing number of devout and God-loving men and women who saw in all outer forms and institutions the shadows and semblances of inner truth.
 
@@ -57,7 +57,7 @@ The work which follows is a spiritual record of the function of the pituitary bo
 
 <img alt="Diagram: The Ductless Glands and their Rulers" src="../assets/mdgen006.gif">
 
-<p><cite>Diagram: The Ductless Glands and their Rulers</cite></p>
+<p><cite>Схема: Беспроводные (внутренней секреции) железы и их правители</cite></p>
 
 <h2 id="astrology-and-the-ductless-glands-h2">Astrology and the Ductless Glands</h2>
 
@@ -111,7 +111,7 @@ One of our students who is a doctor stated in a letter to the writer that that h
 
 The pituitary gland is connected directly with and has rule over the outer sheath of the brain and spinal column, the dura mater. This sheath embodies the great protective mother principle. It covers the brain and spinal cord, protecting them from outer impacts and also feeding the blood vessels and nerves.
 
-#### <h3 id="the-pineal-gland">The Pineal Gland</h3>
+#### <h4 id="the-pineal-gland">The Pineal Gland</h4>
 
 The pineal gland is a tiny cone-shaped body varying in size according to the mental and spiritual status of the person. It is named after the pine cone, which it resembles in appearance. It is larger in a child than in an adult and larger in females than in males. Its functions are almost unknown to science. Some claim that it has direct rule over the generative organs and the brain. Extracts of it when injected into the circulation produce a slight dilation of the blood vessels. It is large at birth and is fully developed at puberty. Its structural evolution begins at the age of seven years. Dana and Berkeley in their investigations found this organ small and lacking in substance in children who were backward mentally. Science has also been able to connect this gland with the functions of the interstitial gland and of the brain, but these conclusions are only speculative.
 

@@ -950,7 +950,7 @@ The desire-body is born about the 14th year, at the time of puberty. That is the
 
 It is now the time that he should be taught to investigate things for himself, and thus to form individual opinions. Let us always impress upon him the necessity of careful investigation before he judges, and also that the more fluidic he can keep his opinions, the better he will be able to examine new facts and acquire new knowledge. In this way he will reach his majority at 21, when the mind is also fully free, and will be able to take his place in the world as a full-fledged citizen, a credit to those whose loving care shielded him in his years of development, a thoroughbred man or woman. 
 
-### <h3 id="lecture-8">LECTURE EIGHT: THE SCIENCE OF NUTRITION, HEALTH, AND PROTRACTED YOUTH
+### <h3 id="lecture-8">LECTURE EIGHT: THE SCIENCE OF NUTRITION, HEALTH, AND PROTRACTED YOUTH</h3>
 
 In the previous lectures we have constantly tried to emphasize the value of the dense body; it is the most priceless of all our material possessions, and strange to say, it is the one we neglect most of all. To protect worthless property we will risk life and limb, throwing away the wheat to save the tares. But it is not our worse crime that we do that upon occasion; the greatest trouble arises from the neglect and disregard which we practice daily, from before birth, to the moment of death. 
 
