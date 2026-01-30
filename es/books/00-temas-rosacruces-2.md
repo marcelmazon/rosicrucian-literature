@@ -1,6 +1,12 @@
 # TEMAS ROSACRUCES Tomo 
 
-Segundo El Mundo del Deseo Los Habitantes de los Planos El Cordón de Plata y los Átomos Simientes El Sonido y los Éteres La Escala Musical La Palabra Clave: Astrología 
+Segundo 
+
+El Mundo del Deseo 
+Los Habitantes de los Planos 
+El Cordón de Plata y los Átomos Simientes 
+El Sonido y los Éteres La Escala Musical 
+La Palabra Clave: Astrología 
 
 MAX HEINDEL Este volumen está dedicado a Max Heindel en agradecimiento por las maravillosas enseñanzas dadas por él a sus estudiantes sinceros que nunca podrán expresar su gratitud por medio de palabras. Los trabajos aquí compilados fueron extraídos de sus diversos escritos. 
 
