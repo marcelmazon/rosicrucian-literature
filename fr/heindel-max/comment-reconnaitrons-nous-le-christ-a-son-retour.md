@@ -1,10 +1,10 @@
 ---
 title: "Comment Reconnaitron-Nous le Christ à son Retour?"
-language: 'en'
+language: "en"
 original_title: "How Shall We Know Christ at His Coming?"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="how-shall-we-know-christ-at-his-coming">Comment Reconnaitron-Nous le Christ à son Retour?</h1>

@@ -1,10 +1,10 @@
 ---
 title: "A Teia do Destino"
-language: 'pt'
+language: "pt"
 original_title: "The Web of Destiny"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-web-of-destiny.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-web-of-destiny.md"
 ---
 
 <h1 id="the-web-of-destiny">A Teia do Destino</h1>

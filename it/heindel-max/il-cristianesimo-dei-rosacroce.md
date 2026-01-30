@@ -1,10 +1,10 @@
 ---
-title: 'Il Cristianesimo dei Rosacroce'
-language: 'it'
+title: "Il Cristianesimo dei Rosacroce"
+language: "it"
 original_title: "The Rosicrucian Christianity Lectures"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-rosicrucian-christianity-lectures.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-rosicrucian-christianity-lectures.md"
 ---
 
 <h1 id="the-rosicrucian-cristianity-lectures">Il Cristianesimo dei Rosacroce</h1>

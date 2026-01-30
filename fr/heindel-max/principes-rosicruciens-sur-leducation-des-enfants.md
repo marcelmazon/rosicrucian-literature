@@ -1,10 +1,10 @@
 ---
 title: "Principes Rosicruciens sur l'Éducation des Enfants"
-language: 'fr'
+language: "fr"
 original_title: "The Rosicrucian Principles Of Child Training"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-rosicrucian-principles-of-child-traning.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-rosicrucian-principles-of-child-traning.md"
 ---
 
 <h1 id="the-rosicrucian-principles-of-child-training">Principes Rosicruciens sur l'Éducation des Enfants</h1>

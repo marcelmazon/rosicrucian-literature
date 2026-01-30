@@ -1,10 +1,10 @@
 ---
 title: "Mystères des Grands Opéras"
-language: 'fr'
+language: "fr"
 original_title: "Mysteries of the Great Operas"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'mysteries-of-the-great-operas.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "mysteries-of-the-great-operas.md"
 ---
 
 <h1 id="mysteries-of-the-great-operas">Mystères des Grands Opéras</h1>

@@ -1,10 +1,10 @@
 ---
-title: 'Le Corps Vital'
-language: 'fr'
+title: "Le Corps Vital"
+language: "fr"
 original_title: "The Web of Destiny"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-vital-body.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-vital-body.md"
 ---
 
 <h1 id="the-vital-body">Le Corps Vital</h1>

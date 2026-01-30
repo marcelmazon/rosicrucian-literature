@@ -1,10 +1,10 @@
 ---
 title: "O mistério das glândulas endócrinas"
-language: 'pt'
+language: "pt"
 original_title: "The Mystery of the Ductless Glands"
-original_language: 'en'
-author: 'A Student'
-original_source_file: 'the-mystery-of-the-ductless-glands.md'
+original_language: "en"
+author: "A Student"
+original_source_file: "the-mystery-of-the-ductless-glands.md"
 ---
 
 <h1 id="the-mystery-of-the-ductless-glands">O mistério das glândulas endócrinas</h1>

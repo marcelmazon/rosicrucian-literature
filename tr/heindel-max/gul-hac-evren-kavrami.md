@@ -1,6 +1,6 @@
 ---
 title: "Gül-Haç Evren Kavramı"
-language: "en"
+language: "tr"
 original_title: "The Rosicrucian Cosmo-Conception"
 original_language: "en"
 author: "Max Heindel"

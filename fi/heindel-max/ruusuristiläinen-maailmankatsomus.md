@@ -1,10 +1,10 @@
 ---
-title: 'Ruusuristiläinen Maailmankatsomus'
-language: 'fi'
+title: "Ruusuristiläinen Maailmankatsomus"
+language: "fi"
 original_title: "The Rosicrucian Cosmo-Conception"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-rosicrucian-cosmo-conception.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-rosicrucian-cosmo-conception.md"
 ---
 
 <h1 id="the-rosicrucian-cosmo-conception">Ruusuristiläinen Maailmankatsomus</h1>

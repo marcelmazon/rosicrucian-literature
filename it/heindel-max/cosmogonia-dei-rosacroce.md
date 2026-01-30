@@ -1,10 +1,10 @@
 ---
-title: 'La Cosmogonia dei Rosacroce'
-language: 'it'
+title: "La Cosmogonia dei Rosacroce"
+language: "it"
 original_title: "The Rosicrucian Cosmo-Conception"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-cosmo-conception">La Cosmogonia dei Rosacroce</h1>

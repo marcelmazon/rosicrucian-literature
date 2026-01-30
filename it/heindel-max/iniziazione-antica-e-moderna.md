@@ -1,10 +1,10 @@
 ---
 title: "Iniziazione Antica e Moderna"
-language: 'it'
+language: "it"
 original_title: "Ancient and Modern Initiation"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'ancient-and-modern-initiation.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "ancient-and-modern-initiation.md"
 ---
 
 <h1 id="ancient-and-modern-initiation">Iniziazione Antica e Moderna</h1>

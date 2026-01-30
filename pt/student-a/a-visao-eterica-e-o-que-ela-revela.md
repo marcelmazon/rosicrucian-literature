@@ -1,10 +1,10 @@
 ---
 title: "A visão etérica e o que ela revela"
-language: 'pt'
+language: "pt"
 original_title: "Etheric Vision and what it Reveals"
-original_language: 'en'
-author: 'A Student'
-original_source_file: 'etheric-vision-and-what-it-reveals.md'
+original_language: "en"
+author: "A Student"
+original_source_file: "etheric-vision-and-what-it-reveals.md"
 ---
 
 <h1 id="etheric-vision-and-what-it-reveals">A visão etérica e o que ela revela</h1>

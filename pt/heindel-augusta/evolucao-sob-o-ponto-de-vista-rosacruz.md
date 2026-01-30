@@ -1,10 +1,10 @@
 ---
 title: "Evolução sob o ponto de vista rosacruz"
-language: 'pt'
+language: "pt"
 original_title: "Evolution from the Rosicrucian Standpoint"
-original_language: 'en'
-author: 'Augusta Foss Heindel'
-original_source_file: 'evolution-from-the-rosicrucian-standpoint.md'
+original_language: "en"
+author: "Augusta Foss Heindel"
+original_source_file: "evolution-from-the-rosicrucian-standpoint.md"
 ---
 
 <h1 id="evolution-from-the-rosicrucian-standpoint">Evolução sob o ponto de vista rosacruz</h1>

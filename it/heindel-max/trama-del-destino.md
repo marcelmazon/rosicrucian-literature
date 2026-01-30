@@ -1,10 +1,10 @@
 ---
-title: 'La Trama del Destino'
-language: 'it'
-original_title: 'The Web of Destiny'
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+title: "La Trama del Destino"
+language: "it"
+original_title: "The Web of Destiny"
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-web-of-destiny">La Trama del Destino</h1>

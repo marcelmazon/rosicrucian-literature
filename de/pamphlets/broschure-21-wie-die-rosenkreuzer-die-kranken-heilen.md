@@ -1,7 +1,7 @@
 ---
 title: "Broschüre №21: Wie die Rosenkreuzer die Kranken heilen"
 language: "de"
-original_title: "Pamphlet №21: How the Rosicrucians Heal the Sick<"
+original_title: "Pamphlet №21: How the Rosicrucians Heal the Sick"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-21-how-the-rosicrucians-heal-the-sick.md"

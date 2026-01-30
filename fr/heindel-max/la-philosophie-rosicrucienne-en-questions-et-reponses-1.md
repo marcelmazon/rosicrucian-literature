@@ -1,10 +1,10 @@
 ---
-title: 'La Philosophie Rosicrucienne en Questions et Réponses - I'
-language: 'fr'
+title: "La Philosophie Rosicrucienne en Questions et Réponses - I"
+language: "fr"
 original_title: "The Rosicrucian Philosophy in Questions and Answers Volume I"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-rosicrucian-philosophy-in-questions-and-answers-volume-1.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-rosicrucian-philosophy-in-questions-and-answers-volume-1.md"
 ---
 
 <h1 id="the-rosicrucian-philosophy-in-questions-and-answers-volume-1">La Philosophie Rosicrucienne en Questions et Réponses - I</h1>

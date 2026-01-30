@@ -1,10 +1,10 @@
 ---
-title: "Cartas aos Estudantes "
-language: 'pt'
+title: "Cartas aos Estudantes"
+language: "pt"
 original_title: "Letters to Students"
-original_language: 'en'
+original_language: "en"
 author: "Max Heindel"
-original_source_file: 'letters-to-students.md'
+original_source_file: "letters-to-students.md"
 ---
 
 <h1 id="letters-to-students">Cartas aos Estudantes</h1>

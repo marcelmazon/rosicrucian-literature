@@ -1,10 +1,10 @@
 --- 
 title: "A escala musical e o esquema de evolução" 
-language: 'pt' 
+language: "pt"
 original_title: "The Musical Scale and the Scheme of Evolution" 
-original_language: 'en' 
-author: 'A Student' 
-original_source_file: 'the-musical-scale-and-the-scheme-of-evolution.md'
+original_language: "en"
+author: "A Student"
+original_source_file: "the-musical-scale-and-the-scheme-of-evolution.md"
 ---
 
 <h1 id="the-musical-scale-and-the-scheme-of-evolution">A escala musical e o esquema de evolução</h1>

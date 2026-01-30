@@ -1,10 +1,10 @@
 ---
-title: 'Teachings of an Initiate'
-language: 'fr'
+title: "Enseignements d'un Initié"
+language: "fr"
 original_title: "Teachings of an Initiate"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'teachings-of-an-initiane.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "teachings-of-an-initiane.md"
 ---
 
 <h1 id="teachings-of-an-initiate">Enseignements d'un Initié</h1>

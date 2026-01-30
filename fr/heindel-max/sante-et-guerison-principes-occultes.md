@@ -1,10 +1,10 @@
 ---
-title: 'Santé et Guérison - Principes Occulte'
-language: 'fr'
+title: "Santé et Guérison - Principes Occulte"
+language: "fr"
 original_title: "Occult Principles of Health and Healing"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'occult-principles-of-health-and-healing.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "occult-principles-of-health-and-healing.md"
 ---
 
 <h1 id="occult-principles-of-health-and-healing">Santé et Guérison - Principes Occultes</h1>

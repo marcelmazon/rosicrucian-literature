@@ -1,10 +1,10 @@
 ---
 title: "Le Corps du Désir"
-language: 'fr'
+language: "fr"
 original_title: "The Desire Body"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-desire-body.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-desire-body.md"
 ---
 
 <h1 id="the-desire-body">Le Corps du Désir</h1>

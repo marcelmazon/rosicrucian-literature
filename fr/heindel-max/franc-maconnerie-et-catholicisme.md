@@ -1,10 +1,10 @@
 ---
 title: "Franc-Maçonnerie et Catholicisme"
-language: 'fr'
+language: "fr"
 original_title: "Freemasonry and Catholicism"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'freemasonry-and-catholicism.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "freemasonry-and-catholicism.md"
 ---
 
 <h1 id="freemasonry-and-catholicism">Franc-Maçonnerie et Catholicisme</h1>

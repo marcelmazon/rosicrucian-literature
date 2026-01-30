@@ -1,5 +1,5 @@
 ---
-title: "Broschüre №47: DIE AUSWIRKUNGEN VON SELBSTMORD / EUTHANASIE"
+title: "Broschüre №47: Die Auswirkungen von Selbstmord / Euthanasie"
 language: "de"
 original_title: "Pamphlet №47: Suicide and Euthanasia"
 original_language: "en"

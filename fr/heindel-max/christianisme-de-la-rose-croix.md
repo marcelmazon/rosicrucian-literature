@@ -1,10 +1,10 @@
 ---
-title: 'Christianisme de la Rose-Croix'
-language: 'fr'
+title: "Christianisme de la Rose-Croix"
+language: "fr"
 original_title: "The Rosicrucian Christianity Lectures"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'the-rosicrucian-christianity-lectures.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-rosicrucian-christianity-lectures.md"
 ---
 
 <h1 id="the-rosicrucian-christianity-lectures">Christianisme de la Rose-Croix</h1>

@@ -1,10 +1,10 @@
 ---
 title: "L'astrologie et les glandes endocrines"
-language: 'fr'
+language: "fr"
 original_title: "Astrology and the Ductless Glands"
-original_language: 'en'
-author: 'Augusta Foss Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Augusta Foss Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="astrology-and-the-ductless-glands">L'astrologie et les glandes endocrines</h1>

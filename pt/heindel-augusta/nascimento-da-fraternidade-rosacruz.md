@@ -1,10 +1,10 @@
 ---
 title: "The Birth of the Rosicrucian Fellowship"
-language: 'pt'
+language: "pt"
 original_title: "The Birth of the Rosicrucian Fellowship"
-original_language: 'en'
-author: 'Augusta Foss Heindel'
-original_source_file: 'birth-of-the-rosicrucian-fellowship.md'
+original_language: "en"
+author: "Augusta Foss Heindel"
+original_source_file: "birth-of-the-rosicrucian-fellowship.md"
 ---
 
 <h1 id="the-birth-of-the-rosicrucian-fellowship">Nascimento da Fraternidade Rosacruz</h1>
