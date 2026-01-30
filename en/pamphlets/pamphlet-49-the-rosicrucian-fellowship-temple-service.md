@@ -63,29 +63,34 @@ We will now enter the silence together and concentrate on SERVICE for a few mome
 
 5\. At conclusion of lecture the reader returns to the platform and reads –
 
-### <h3 id="the-rosicrucian-fellowship-prayer"><em>THE ROSICRUCIAN FELLOWSHIP PRAYER</em></h3>
+### <h3 id="the-rosicrucian-fellowship-prayer"><em>The Rosicrucian Fellowship Prayer</em></h3>
 
 ```
 Not more of Light we ask, O God,
 But eyes to see what is;
 Not sweeter songs, but ears to hear
 The present melodies;
+
 Not greater strength but how to use
 the power that we possess;
 Not more of love, but skill to turn
 A frown to a caress;
+
 Not more of joy, but how to feel
 Its kindling presence near,
 To give to others all we have
 Of courage and of cheer
+
 No other gift, dear God, we ask,
 But only sense to see
 How best the precious gifts to use
 We have received from Thee
+
 Give us all fears to dominate,
 All holy joys to know,
 To be the friends we wish to be,
 To speak the truth we know,
+
 To love the pure, to seek the good,
 To lift with all our might,
 All souls to dwell in harmony
@@ -94,6 +99,6 @@ In freedom’s perfect light.
 
 All rise and sing the Rosicrucian Fellowship Closing Hymn (see separate card).
 
-### <h3 id="the-parting-admonition"><em>THE PARTING ADMONITION</em></h3>
+### <h3 id="the-parting-admonition"><em>The Parting Admonition</em></h3>
 
 And now my dear sisters and brothers, as we part to re-enter the material world, may we go out with a firmer resolve to express in our daily lives the high spiritual ideals we have received here, so that day by day we may become more worthy men and women, more worthy to be used as self-conscious channels for the beneficial workings of our Elder Brothers in the service of humanity. 
