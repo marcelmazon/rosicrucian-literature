@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №29: Learning Disabilities"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №29: Learning Disabilities"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-29-learning-disabilities">Pamphlet №29: Learning Disabilities</h1>

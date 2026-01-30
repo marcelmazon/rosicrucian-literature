@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №53: Interpretation of Rosicrucian Fellowship Hymns"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №53: Interpretation of Rosicrucian Fellowship Hymns"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-53-interpretation-of-rosicrucian-fellowship-hymns">Pamphlet №53: Interpretation of Rosicrucian Fellowship Hymns</h1>

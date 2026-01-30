@@ -1,10 +1,10 @@
 ---
-title: 'The Rosicrucian Principles Of Child Training'
-language: 'en'
+title: "The Rosicrucian Principles Of Child Training"
+language: "en"
 original_title: "The Rosicrucian Principles Of Child Training"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-principles-of-child-training">The Rosicrucian Principles Of Child Training</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №11: Clairvoyance"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №11: Clairvoyance"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-11-clairvoyance">Pamphlet №11: Clairvoyance</h1>

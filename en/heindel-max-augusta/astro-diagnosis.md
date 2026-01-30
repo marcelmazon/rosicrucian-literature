@@ -1,10 +1,10 @@
 ---
 title: "Astro-Diagnosis"
-language: 'en'
+language: "en"
 original_title: "Astro-Diagnosis"
-original_language: 'en'
-author: 'Max Heindel, Augusta Foss Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel, Augusta Foss Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="astro-diagnosis">ASTRO-DIAGNOSIS</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №50: The Power of Thought"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №50: The Power of Thought"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-50-the-power-of-thought">Pamphlet №50: The Power of Thought</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №46: Practical Methods of Achieving Success"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №46: Practical Methods of Achieving Success"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-46-practical-methods-of-achieving-success">Pamphlet №46: Practical Methods of Achieving Success</h1>

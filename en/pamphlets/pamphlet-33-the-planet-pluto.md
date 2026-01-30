@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №33: The Planet Pluto"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №33: The Planet Pluto"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-33-the-planet-pluto">Pamphlet №33: The Planet Pluto</h1>

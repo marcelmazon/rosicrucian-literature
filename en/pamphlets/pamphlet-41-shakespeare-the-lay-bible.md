@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №41: Shakespeare – The Lay Bible"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №41: Shakespeare – The Lay Bible"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-41-shakespeare-the-lay-bible">Pamphlet №41: Shakespeare – The Lay Bible</h1>

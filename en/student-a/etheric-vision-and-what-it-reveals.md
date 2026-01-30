@@ -1,10 +1,10 @@
 ---
 title: "Etheric Vision and what it Reveals"
-language: 'en'
+language: "en"
 original_title: "Etheric Vision and what it Reveals"
-original_language: 'en'
-author: 'A Student'
-original_source_file: 'self'
+original_language: "en"
+author: "A Student"
+original_source_file: "self"
 ---
 
 <h1 id="etheric-vision-and-what-it-reveals">Etheric Vision and What It Reveals</h1>
@@ -32,31 +32,31 @@ Man's immediate Utopia is no mere city on earth's surface, nor any of earth's la
 
 ### <h3 id="contents">Contents</h3>
 
-- [PART I — THE CHEMICAL ETHER](#part-1)
+- [Part I – The Chemical Ether](#part-1)
     - [1 - The Nature of Etheric Sight](#chapter-1)  
     - [2 - The Chemical Ether in the Human Body](#chapter-2)  
     - [3 - Atoms and Molecules](#chapter-3)  
-- [PART II — THE LIFE ETHER](#part-2)
+- [Part II — The Life Ether](#part-2)
     - [4 - The Life Ether and Genetics](#chapter-4)  
     - [5 - The Spiral of Life](#chapter-5)  
     - [6 - Organic versus Inorganic Magnetism](#chapter-6)  
     - [7 - The Life Ether and Cosmic Fire](#chapter-7)  
     - [8 - Star and Spiral](#chapter-8)  
-- [PART III — THE LIGHT ETHER](#part-3)
+- [Part III — The Light Ether](#part-3)
     - [9 - The Light Ether and the Sun](#chapter-9)  
     - [10 - The Occultist's View of the Light Ether](#chapter-10)  
     - [11 - Summary: The Three Ethers](#chapter-11)  
-- [PART IV — THE REFLECTING ETHER](#part-4)
+- [Part IV — The Reflecting Ether](#part-4)
     - [12 - Between Two Skies](#chapter-12)  
     - [13 - What the Reflecting Ether Reflects](#chapter-13)  
     - [14 - The Reflecting Ether and Records of Previous Incarnations](#chapter-14)  
     - [15 - The Reflecting Ether and its Relationship to Matter](#chapter-15)  
     - [16 - The Reflecting Ether and Archetypal Forces](#chapter-16)  
-    - [A Study of Cosmo-Conception Diagram No.1, page 52](#)
+        - [A Study of Cosmo-Conception Diagram No.1, page 52](#a-study-of-diagram-1)
 
-<h2 id="part-1">PART I - THE CHEMICAL ETHER</h2>
+<h2 id="part-1">Part I – The Chemical Ether</h2>
 
-### <h3 id="chapter-1">I - THE NATURE OF ETHERIC SIGHT</h3>
+### <h3 id="chapter-1">I – The Nature of Etheric Sight</h3>
 
 In 1918 Max Heindel wrote: "The process of preparation for the Aquarian Age has already commenced; and as Aquarius is an airy, scientific, intellectual sign, it is a foregone conclusion that the new faith must be rooted in reason and able to solve the riddle of life and death in a manner that will satisfy both the mind and the religious instinct." As we have in the past evolved five senses by means of which we contact the present visible world, so shall we in the far distant future evolve another sense which will enable us to see the denizens of the Etheric Region, including those of our dear ones who have left the physical body and inhabit the ether and lower Desire World during the first stage of their career in the spiritual realms.
 
@@ -96,7 +96,7 @@ And again (LETTERS TO STUDENTS p.82): "We do not see physical objects OUTSIDE th
 
 *Recent findings seem to suggest that the function of the retina is more analytical and selective than was formerly believed, but this does not affect the correctness of the above in reference to etheric sight.
 
-### <h3 id="chapter-2">2 - THE CHEMICAL ETHER IN THE HUMAN BODY</h3>
+### <h3 id="chapter-2">2 – The Chemical Ether in the Human Body</h3>
 
 The etheric region of the earth's planetary envelope is part and parcel of the physical Earth itself. It is no "spiritual" except in the sense that the entire living universe is the expression of God's beauty and wisdom. It is commonly called "the lowest" of the invisible "spirit" regions, and etheric sight is also called "the lowest" form of "spiritual" sight. "Lowest" it may be, but it reveals a world lying just beyond the borderline of physical sight, magical to those fortunate enough to gaze upon it.
 
@@ -122,21 +122,11 @@ It is at once apparent that the black miasma belongs to the Chemical Ether, whic
 
 Various persons have seen this ether lying like a blue glove upon the hand, as a blue envelope in which the body is embedded, and as blue fuzzy flames, like a low gas flame, appearing along wall surfaces. Now physicists have shown photographs of free electrons, and these free electrons have the appearance of blue flames--not perhaps exactly as described by persons having etheric vision, but something similar, and suggesting that the Chemical Ether does, in all probability, consist of atomic particles existing in a state yet undiscovered by physical science; not electrons alone, but an amalgam of particles. This Chemical Ether would be a kind of life-plasma, as shown in Max Heindel's description of the etheric "food stream" moving in or with the blood.*
 
-*The word "plasma" has several definitions in today's science.
+*The word "plasma" has several definitions in today's science. (1) Blood plasma, the liquid part of the blood used in blood transfusions. (2) A condition of matter in a molten state at high temperatures in which it becomes abnormally conductive of electricity. (3) A highly ionized gas, which produces a rosy glow (as seen in a stellerator), and is a medium in which radio waves can have a phase velocity greater than the speed of light in that medium. When microwaves are sent through the plasma of ionized gas, the increase in velocity is a measure of the density of the free electrons. (4) Astronomers similarly to definition three describe a sort of magnetic cloud in interplanetary space in which positive and negative particles are suspended, but the cloud as a whole is neutral in charge. (3) and (4) approach states which the occultist refers to as etheric.
 
 A great many people see the "dots" in the air, which seem to be gold or silver dust (or sometimes multicolored, and which sometimes move in great cloud-like masses before the vision. Ancient seers have described these clouds, out of which "the spirits of the ancestors" would condense and materialize before the physical eyes. This is again a view of the Chemical Ether, as it appears in materialization from etheric to physical formation.
 
-(1) Blood plasma, the liquid part of the blood used in blood transfusions.
-
-(2) A condition of matter in a molten state at high temperatures in which it becomes abnormally conductive of electricity.
-
-(3) A highly ionized gas, which produces a rosy glow (as seen in a stellerator), and is a medium in which radio waves can have a phase velocity greater than the speed of light in that medium. When microwaves are sent through the plasma of ionized gas, the increase in velocity is a measure of the density of the free electrons.
-
-(4) Astronomers similarly to definition three describe a sort of magnetic cloud in interplanetary space in which positive and negative particles are suspended, but the cloud as a whole is neutral in charge.
-
-(3) and (4) approach states which the occultist refers to as etheric.
-
-### <h3 id="chapter-3">3 - ATOMS AND MOLECULES</h3>
+### <h3 id="chapter-3">3 – Atoms and Molecules</h3>
 
 Without entering upon a discussion of atomic structure, which in any case demands specialized knowledge, it is evident that a rough correlation can be worked out as between the four ethers and the various atomic forces presently known. The greatest part of the mass of the atom resides in the nucleus, which consists of a complex of forces or particles: the heaviest are first the proton, weighing 1836 times as much as the electron, and then the neutron, which as its name suggests is neither positive nor negative. Protons and neutrons alike are called nucleons because they are part of the nucleus. Still smaller particles have been discovered, some in the nucleus and some falling through space. Scientists are searching among these for the "binder" of the nucleus, which as we have seen is not wholly positive as was originally believed, since it actually consists of more than just the positively charged proton.
 
@@ -172,9 +162,9 @@ The "forces" which act through and in the Chemical Ether will be described in a 
 
 Thus Max Heindel says that this miasma, when drawn from the patient's body, is subject to gravity and can be burned in a fire or carried away by water. "To the spiritual vision it is a dark or black jelly-like fluid. It lies shimmering and shivering on the floor. If now the patient gets up relieved, and goes over the place where this magnetism has been thrown away, then the miasma will re-enter the body and he or she will be in a worse condition than before."
 
-<h2 id="part-2">PART II - THE LIFE ETHER</h2>
+<h2 id="part-2">Part II – The Life Ether</h2>
 
-### <h3 id="chapter-4">4 - THE LIFE ETHER AND GENETICS</h3>
+### <h3 id="chapter-4">4 – The Life Ether and Genetics</h3>
 
 The Life Ether is the avenue for the operation of forces which have as their primary object the perpetuation of the species--in terms of humankind, the building of new racial forms. The cosmic force which works in the Life Ether is the third Principle of Deity, the Creative Energy of God. The lesser forces working in this ether are, briefly, the Solar-Lunar Race God Jehovah (who works with planets having moons, though His cosmic focus is the solar orb); the Archangelic Race Spirit; the mother and father of each reincarnating Ego; the incarnating Ego itself; Nature Spirits; Angels and Archangels; and spirits belonging to the plant life wave, including the plant Group Spirits. (Minerals generally do no possess a Life Ether).
 
@@ -200,6 +190,8 @@ Under the microscope the genes are seen within the cell as little cross bands on
 
 Of special interest to the occultist is the statement (Gamow) that the gene is perhaps a sort of "missing link" between living and non-living matter; hence it is also termed "the living molecule." So we can perhaps start to draw the line at this point between the common molecule which belongs to the field of the Chemical Ether and the LIVING molecule which belongs to the field of the Life Ether.*
 
+*It is rightly said that the laws of heredity show a mathematical simplicity and clearness which suggest that "we are dealing with one of the fundamental phenomena of life."
+
 The gene is the smallest unit of LIVING matter. Yet "it also possesses characteristics of the complex molecule (like those of proteins) which are subject to all the familiar laws of chemistry." (Gamow). It is estimated that the gene has about a million atoms. Occultists say that the genes and chromosomes are DEPOSITED by forces working in the Life Ether.
 
 Therefore the two lower ethers do in fact constitute a "vital" or "life" body which acts as a matrix, in terms of a network or meshwork of force, into which the atoms of the body are collected in a living pattern or organism. It is taught that the blood and ductless (endocrine) glands are in a special sense the highest product of the vital body; and among the ductless glands the pituitary body, located in the head, is in the words of modern biophysicists the most powerful sex organ in the body. Its secretions govern the fertility cycles in both men and women. It is the focus of the Life Spirit (Macrocosmic Christ) in man, WHICH IS A FIRE. (OCCULT PRINCIPLES OF HEALTH AND HEALING p. 127). The vital body AS A WHOLE is the "reflection" or "emanation." (we might even say, condensation) of the same Principle. (THE VITAL BODY pp. 52-53). All hormones secreted and released into the blood stream by the ductless glands are expressions of the Life Ether, but those like the pituitary body and gonads, which secrete sex hormones are especially so; for these are the active participants, with the genes and chromosomes, in the reproductive cycles of the individual and the race. Eventually the Cosmic Christ Life must of necessity supplant the Jehovistic Race Principle, in its entirety.
@@ -207,8 +199,6 @@ Therefore the two lower ethers do in fact constitute a "vital" or "life" body wh
 The number of chromosomes in each cell differs from one species of life to another. Only the human body contains 46 chromosomes. The entire development and practically all properties of the adult organism are determined by the set of genes hidden in each chromosome in every body cell. Every animal or plant "grows around its genes."
 
 This has been compared with the way a lump of inorganic matter is formed. For example certain atomic nuclei carrying a charge of six positive electric units will surround themselves with atomic envelopes of six electrons each, which cause the atoms to tend to arrange themselves in a regular hexagonal pattern, forming the crystals that we call diamonds. It goes without saying that even the very simplest living organism is far more complex than the diamond, "but in both cases we have the TYPICAL PHENOMENA OF MACROCOSMIC ORGANIZATION BEING DETERMINED TO THE LAST DETAIL BY MICROSCOPIC CENTERS OR ORGANIZING ACTIVITY." (Gamow).
-
-*It is rightly said that the laws of heredity show a mathematical simplicity and clearness which suggest that "we are dealing with one of the fundamental phenomena of life."
 
 ### <h3 id="chapter-5">5 - THE SPIRAL OF LIFE</h3>
 
@@ -238,7 +228,7 @@ The etheric atom and the physical atom are as a rule tightly intertwined, but oc
 
 Everywhere in Nature one finds the Law of the Spiral; from nebulae and galaxies in the heavens to the spiraling growth of leaf and bud in plants, right down into the helix of chromosomes on which the genes are strung like beads, and down still farther to ions--and to the atomic bases of substances which live or once had life. There we discover again that the carbon atom seems to be a special agent of the spiraling habit. For although there are some non-living molecules and ions which also show the spiraling habit, this characteristic is frequently the sign of the life forces. We quote: "What started the right-handedness and left-handedness now so vital to living things? If some life process must accompany the separation of right-handed from left-handed materials, how could life begin in the first place? If everything now right-handed were suddenly made left-handed, would life proceed without interruption and without change? These are deeply studied problems. Some good guesses have been made, but they have not produced the full answer. The guesses have come--and perhaps the full answer will come--from examining the symmetries of the forces acting on matter, along with the symmetries of the matter on which they act. Crystals furnish one of the most beautiful examples of order and symmetry. Thinking further, you will find that order and symmetry have very far-reaching application in all the natural sciences. Today physicists think of the symmetries of the fundamental particles of which the universe is made, of the fields of force in which those particles find themselves, and of the mathematical equations which describe the resulting behavior of the world. Chemists think of the symmetries of the molecules, simple and complicated, made of those particles. And biologists think of those symmetries--that orderliness--in their effort to understand the origin and behavior of life itself." (CRYSTALS AND CRYSTAL GROWING, Holden and Singer, pages 274-275).
 
-### <h3 id="chapter-6">6 - ORGANIC VS. INORGANIC MAGNETISM</h3>
+### <h3 id="chapter-6">6 – Organic vs. Inorganic Magnetism</h3>
 
 Although we may speak of the magnetic rain as "solar ether," it is not a property of sunlight. It is seen falling through space in dense darkness as well as in the light. This is why occult science classifies it with the Life Ether is the particular avenue for its specialization. Its fluidic magnetism is the source of what is commonly known as "sex attraction," which occult science views as an activity of the positive and negative poles of the Life Ether. Polarity, as such, however, is not limited to the Life Ether or to the sexuality of organically propagating creatures; it is found on higher spiritual planes as well, where it manifests in a different way.
 
@@ -278,7 +268,7 @@ Biochemists naturally assume that all of the electromagnetic phenomena of the bo
 
 But if the theory of a floating magnetic field seems strange, we may recall that astronomers now postulate that magnetic fields exist in interstellar space which--if they do nothing else--speed the cosmic rays on their way through the universe.
 
-### <h3 id="chapter-7">7 - THE LIFE ETHER AND COSMIC FIRE</h3>
+### <h3 id="chapter-7">7 - The Life Ether and Cosmic Fire</h3>
 
 Mention has been made several times of the "Life Fire" which burns in the Life Ether. It is not merely a physical heat, but a Fire which denotes the presence of a living spirit. In the so-called "Lost Sayings of Jesus" discovered in Egypt in 1904 (and again in 1945) the statement occurs: "Wherever there are two, they are not without God, and wherever there is one I say I am with him. Raise the stone and there thou shalt find me; cleave the rock and there I am." There is still in use in certain churches an Easter Ceremonial in which part of the ritual consists of striking a spark from a rock, and lighting the Easter candles from the flame built from the spark; suggesting that the Cosmic Fire (Life Spirit) is meant in these verses.
 
@@ -298,7 +288,7 @@ Other colors may also appear in these two lower ethers but those mentioned are b
 
 When the solar ether pours through the spleen and is refracted in the seed atom of the vital body in the solar plexus, it pours through the body so that every atom of the body, both physical and etheric, receives its stimulation. The excess force then radiates outward in rose-colored lines. Mr. Heindel's first thought when studying the ethers was that this force took on its rosy hue by refraction through each prismatic ether atom: later he decided the change occurred in the solar plexus seed atom, and a cluster of atoms around it. (COSMO-CONCEPTION, p. 10) He had not completed his researches at the time of his sudden death in January, 1919.
 
-#### <h4 id="summary">SUMMARY</h4>
+#### <h4 id="summary">Summary</h4>
 
 Now let us turn once more to the view of the vital body available to the etheric sight of the occult scientist. Necessarily the vital body atom is seen in conjunction with the physical atom, with which the etheric atom is tightly entwined. To picture the physical and etheric atom of the body, imagine a pear-shaped wire basket having walls of spirally curved wire running obliquely from pole to pole. This is the physical part of the atom. It is shaped nearly like our Earth and the prismatic vital body atom is inserted at the top, which is widest, and corresponds to the positive pole of the earth. Since the vital prism is inserted at the top, the point of the prism extends toward the bottom of the "basket," which is termed the negative pole. The whole atom, thus interpenetrated, resembles a top swinging, swaying, and vibrating, in a note which is set by the archetype and the Sounding Flame in the medulla oblongata.
 
@@ -322,7 +312,7 @@ The atoms of the physical body have a very slow vibration; the ether atom prods 
 
 Occult science has not yet clarified the relationship between the planetary, solar, and ether magnetism of living things on Earth. Horoscopes for persons born in the southern hemisphere are traditionally reversed, so that where a northern chart shows Aries rising, for example, the southern chart would show Libra. Is this, perhaps, an effect of planetary polarity? This is one of the many mysteries still to be solved by the occult science of the future.
 
-### <h3 id="chapter-8">8 - STAR AND SPIRAL</h3>
+### <h3 id="chapter-8">8 - Star and Spiral</h3>
 
 We have seen in an earlier chapter what modern science has to say about the Spiral. It is a curious fact that the five-pointed Star, always of great importance to esotericism, is also recognized as a special feature of life on this planet, as we learn in the new biology. Let us explore a little further into the part which this symbol plays in the world about us.
 
@@ -362,9 +352,9 @@ Thus to the student in the Mystery School, THE STAR AND THE SPIRAL, in addition 
 
 With the dawn, the Helper returns to his body, and as he hovers over it, feeling the magnetic pull of the vital body drawing him down into the fleshly sheath, he is aware of the rotating of many wheels of force in his aura; and while these wheels rotate, he settles gently, with no shock or discomfort, into the dense physical instrument which lies upon the bed. He there awakens, to take up anew the cross of the body in the world of time and space.
 
-<h2 id="part-3">PART III - THE LIGHT ETHER</h2>
+<h2 id="part-3">Part III – The Light Ether</h2>
 
-### <h3 id="chapter-9">9 - THE LIGHT ETHER AND THE SUN</h3>
+### <h3 id="chapter-9">9 - The Light Ether and the Sun</h3>
 
 In our chapter on the Life Ether we learned something about what Max Heindel designated "the colorless solar ether" and "solar fluid," and we noted that this solar fluid was visible to etheric sight under several varying states or conditions: as a kind of "rain" of cosmic force it rushes in through the etheric spleen, and turns a rose color in the solar plexus. We noted further that this solar fluid was magnetic, and was felt as such by the etheric senses, and that although it is called a "solar" ether it is studied in connection with the Life Ether rather than with the Light Ether, because the Life Ether is the particular avenue through which it is specialized. As magnetism it belongs to the "dark" spectrum which exists below and above the normal range of light visible to the human eye. In cold-blooded creatures and in the plant kingdom, the solar ether seems "colorless" and "cold" as viewed by the etheric senses. We can draw a parallel with this condition if we take in our hands an ordinary iron magnet. This magnet will have a north and a south pole, or positive and negative, and will pick up iron filings; yet ordinarily we can neither see light nor feel any sort of sensation emanating from the magnet. The iron is cold and dark, despite its magnetic field which is so easily demonstrated.
 
@@ -396,7 +386,7 @@ Hoyle goes on to say that more infrared rays than other rays do reach the ground
 
 Astronomers say that our Sun is a "yellow" or "orange" star, one of the class known as "Orange" or "Yellow Dwarfs," among the most unstable of stars. Sunlight is therefore not really "white," but tinged with yellow or gold; and the Light Ether is also described by the scientist as golden or yellow, although like sunlight again, it does possess a complete band of colors, visible to ordinary eyesight as color or as light, but visible to etheric sight as vibration and sparkling points of energy.
 
-### <h3 id="chapter-10">10 - THE OCCULTIST'S VIEW OF THE LIGHT ETHER</h3>
+### <h3 id="chapter-10">10 - The Occultist’s View of the Light Ether</h3>
 
 Although all of the four ethers have work to do in every part of the living organism, each ether has one special work of its very own. The Chemical Ether is the avenue for forces concerned with upbuilding and nourishing the entire body; but its special field of action is the bony structure, or skeleton. The Life Ether promotes growth activities and the perpetuation of the species; its special area consists of the blood and other liquids of the body, the generative system, and the endocrine glands. The Light Ether is the avenue for the COSMIC forces related to sunlight, color, and heat--all tremendously important in our evolution, but its special area is the nervous system, both voluntary and sympathetic. The pineal gland and the brain as a whole are the seat of the Human Spirit (Ego). The brain is the great central receiving and coordinating center of the nervous system, organizing all sensations as reported from the sense organs by way of the nerves. We noted in our last chapter that the tiny thalamus body is thought to be the original brain, and that instincts and psychic powers still have a focus there, while the upper brain governs all later evolution of sensory powers.
 
@@ -432,7 +422,7 @@ The following quotation is of interest: "Light Ether is a substance of a peculia
 
 It may help the student to observe this ether for the first time if he will lie prone upon a bed and gaze into the corner of the ceiling in a room full of light. His eye will not then come to rest upon a surface, but will rest within space itself, and soon he will begin to see waves and sparkles of the Light Ether. Eye strain should be avoided.
 
-### <h3 id="chapter-11">11 - SUMMARY: THE THREE ETHERS</h3>
+### <h3 id="chapter-11">11 - Summary: The Three Ethers</h3>
 
 Before entering upon a discussion of the Reflecting Ether, let us review the salient features of the three lower ethers as known to physical and occult sciences. First: light belongs to what is called the electromagnetic spectrum, of which only a small segment, or band, is visible to human eyesight, for the reason that this band represents the radiation from our Sun, in whose field our senses were evolved. Had our race evolved on a planet belonging to a giant red sun, for example, we might have evolved eyesight in the infrared range. It is a curious fact that when etheric sight begins to unfold, it is the invisible aspect of light in our own solar spectrum that is usually first seen: the actual waves of light themselves, and the nuclei of energy sparkling in the waves. The waves of light ether are actually made up of units, or packets, of energy, which are waves and particles at one and the same time. Both are visible, simultaneously, to the etheric vision. The unit of energy is called the "photon," and it is not merely the unit of solar light, but it is the unit of all electromagnetic waves.
 
@@ -468,9 +458,9 @@ Science has gone down to the far-red limit of the spectrum, but has not yet foun
 
 Wave-lengths of color will one day be used to open up the spiritual faculties, for as we have shown, these also belong to the Light Ether forces, supersensory perception as well as common sensory perception being dependent upon this Ether, so far as consciousness in the body is concerned.
 
-<h2 id="part-4">PART IV - THE REFLECTING ETHER</h2>
+<h2 id="part-4">Part IV – The Reflecting Ether</h2>
 
-### <h3 id="chapter-12">12 - BETWEEN TWO SKIES</h3>
+### <h3 id="chapter-12">12 – Between Two Skies</h3>
 
 As far back as there is any written record, we find references to "reflection" and "images" as illustrating the way in which God's creative Ideas become objectified in space and time. Now when we look into a pool of clear water--man's first mirror--we see that the sky which is farthest above us is the bottom-most part of the reflected scene in the water; while other objects, including ourselves, occupy intermediate positions BETWEEN TWO SKIES.
 
@@ -504,7 +494,7 @@ The student must therefore exercise discrimination as regards the stream of imag
 
 Note that not all of these images are "records." They include, sometimes, actual scenes and real people living on earth; and again they may include faces and forms of those who have passed on, and scenes of the inner worlds. For this Ether may be likened to a two-way mirror, as Max Heindel says, reflecting the outer universe on the one hand and the inner, spiritual worlds on the other.
 
-### <h3 id="chapter-13">13 - WHAT THE REFLECTING ETHER REFLECTS</h3>
+### <h3 id="chapter-13">13 - What the Reflecting Ether Reflects</h3>
 
 It is often said that every observer colors (by his own mental bias) his observations of the world as it exists both without and within himself. There can be no argument about this. Of course we see the world, we experience the world, through what we are. It cannot be otherwise. But the philosopher of modern science goes beyond this in saying that it is not only that impressions of the outside world depend on his mental bias as well as on the individual sensorium seated in the brain, but that the OUTSIDE OR OBJECTIVE WORLD ITSELF IS REALLY AND LITERALLY CHANGED BY THE ACT OF OBSERVATION AND EXPERIMENTATION, through the interaction of physical forces, and the pressure of mentally generated forces as in telekinesis. How can this be?
 
@@ -562,7 +552,7 @@ Or as Max Heindel puts it in his camera analogy, the Light Ether pictures are fo
 
 Since Light Ether and Space are "almost synonymous" we see that the "pictures" in "space" imprint their images upon the film of the Reflecting Ether, flowing in two directions, one toward the past, the other toward the future.
 
-### <h3 id="chapter-14">14 - THE REFLECTING ETHER AND RECORDS OF PREVIOUS INCARNATIONS</h3>
+### <h3 id="chapter-14">14 - The Reflecting Ether and Records of Previous Incarnations</h3>
 
 Not only does the reflecting Ether contain the records pertaining to daily life, it also contains the records of the hours that are spent in sleep, which in the case of the occultist are hours of great activity. Few students remember the activities of the night hours when as Invisible Helpers they are working, or studying, in the spiritual worlds. The Invisible Helpers have a choice of action, and while all of them show an interest in the healing work, some have other fields of activity as well. They attend classes, and also are given the opportunity of visiting the regions of Purgatory and First Heaven, to observe conditions there. Even after the First Initiation, Max Heindel said, his memory was not yet perfect, and required further training.
 
@@ -590,7 +580,7 @@ We may assume that the seers were people who had, in very truth, lived in Egypt 
 
 Thus we see that there is a MEMORY OF EMOTION as well as a memory of thought and action, and this also is touched upon in the Reflecting Ether clairvoyance; though this emotion-memory is for most people more rarely experienced than the other. However, when the image of the past is not merely viewed, but entered into in the way described, the emotion-memory comes into play. Now since most of us identify ourselves with our emotions and feelings to an even greater degree than with body-sensations and thought, it is natural that, feeling a strong emotion emanating from a pictured character, we assume an identity which is not really ours, and thus ridiculous situations arise such as that of the several women who thought they were Cleopatra.
 
-### <h3 id="chapter-15">15 - THE REFLECTING ETHER AND ITS RELATIONSHIP TO MATTER</h3>
+### <h3 id="chapter-15">15 - The Reflecting Ether and Its Relationship to Matter</h3>
 
 Note that every object in the outer universe has its clear and unmistakable replica in the Reflecting Ether. It is not only the Soul Body or Golden Wedding Garment that is found there. Everything in the universe has its reflection in this ether. The laws of reflection in the hyper-ether, however, are not a simple mirror-type image, although this is the analogy upon which teachers base their explanations. We suggest that science's newest theories about matter and anti-matter pivot about this ether; and that as anti-matter has anti-gravity one may read here a possible explanation of the old saying that levitation is accomplished by means of the astral light. A current theory has it that in the beginning matter and anti-matter existed together in a sort of "cosmic egg," and were separated by some kind of repulsive force as yet unknown. Max Heindel has said that levitation is accomplished by the reversal of the polarity of atoms.
 
@@ -622,9 +612,9 @@ The term "Astral Light" is not (as is well known) an orientalism, but was ancien
 
 We deem it important that oriental and medieval European occultists have claimed that heavy bodies can be levitated by means of the Astral Light, besides noting its function in promoting the other supersensory powers. We may study the various chemical and electromagnetic properties and processes of the body singly or collectively; but the root of the mystery is found nowhere else than in the Reflecting Ether; in the negative pole, which is the Cosmic Reflector, and in the positive pole which projects the creatively working archetypal image that represents the future.
 
-### <h3 id="chapter-16">16 - THE REFLECTING ETHER AND ARCHETYPAL FORCES</h3>
+### <h3 id="chapter-16">16 - The Reflecting Ether and Archetypal Forces</h3>
 
-A STUDY OF DIAGRAM NO.1, PAGE 52 OF THE ROSICRUCIAN COSMO-CONCEPTION
+#### <h4 id="a-study-of-diagram-1">A Study of Diagram No. 1, Page 52 of The Rosicrucian Cosmo-Conception</h4>
 
 In this final chapter on the Reflecting Ether we turn again to Max Heindel's statement that "this ether is the medium through which thought makes an impression upon the human brain. IT IS MOST INTIMATELY CONNECTED WITH THE FOURTH SUBDIVISION OF THE WORLD OF THOUGHT. This is the highest of the four subdivisions contained in the Region of Concrete Thought and is the home world of the human mind. There a much clearer version of the Memory of nature is found."
 

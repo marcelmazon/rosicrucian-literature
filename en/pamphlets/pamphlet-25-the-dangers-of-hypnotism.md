@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №25: The Dangers of Hypnotism"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №25: The Dangers of Hypnotism"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-25-the-dangers-of-hypnotism">Pamphlet №25: The Dangers of Hypnotism</h1>

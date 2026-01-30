@@ -1,10 +1,10 @@
 ---
 title: "Christ or Buddha?"
-language: 'en'
+language: "en"
 original_title: "Christ or Buddha?"
-original_language: 'en'
-author: 'Annet C. Rich'
-original_source_file: 'self'
+original_language: "en"
+author: "Annet C. Rich"
+original_source_file: "self"
 ---
 
 <h1 id="christ-or-buddha-h1">CHRIST OR BUDDHA?</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №21: How the Rosicrucians Heal the Sick"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №21: How the Rosicrucians Heal the Sick"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-21-how-the-rosicrucians-heal-the-sick">Pamphlet №21: How the Rosicrucians Heal the Sick</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №24: The Newer Hygiene of Living"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №24: The Newer Hygiene of Living"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-24-the-newer-hygiene-of-living">Pamphlet №24: The Newer Hygiene of Living</h1>

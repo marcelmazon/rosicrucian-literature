@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №1: The Pros and Cons of Abortion"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №1: The Pros and Cons of Abortion"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-1-the-pros-and-cons-of-abortion">Pamphlet №1: The Pros and Cons of Abortion</h1>

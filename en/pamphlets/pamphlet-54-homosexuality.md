@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №54: Homosexuality"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №54: Homosexuality"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-54-homosexuality">Pamphlet №54: Homosexuality</h1>

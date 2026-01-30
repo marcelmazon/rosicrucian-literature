@@ -1,10 +1,10 @@
 ---
 title: "Memoirs about Max Heindel and the Rosicrucian Fellowship"
-language: 'en'
+language: "en"
 original_title: "Memoirs about Max Heindel and the Rosicrucian Fellowship"
-original_language: 'en'
-author: 'Augusta Foss Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Augusta Foss Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="memoirs-about-max-heindel-and-the-rosicrucian-fellowship">Memoirs about Max Heindel and the Rosicrucian Fellowship</h1>

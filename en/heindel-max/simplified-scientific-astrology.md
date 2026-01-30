@@ -1,10 +1,10 @@
 ---
 title: "Simplified Scientific Astrology"
-language: 'en'
+language: "en"
 original_title: "Simplified Scientific Astrology"
-original_language: 'en'
+original_language: "en"
 author: "Max Heindel"
-original_source_file: 'self'
+original_source_file: "self"
 ---
 
 <h1 id="simplified-scientific-astrology">Simplified Scientific Astrology</h1>

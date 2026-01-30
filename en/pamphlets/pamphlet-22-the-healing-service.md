@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №22: The Healing Service"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №22: The Healing Service"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-22-the-healing-service">Pamphlet №22: The Healing Service</h1>

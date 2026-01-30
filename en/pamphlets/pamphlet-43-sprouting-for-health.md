@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №43: Sprouting for Health"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №43: Sprouting for Health"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-43-sprouting-for-health">Pamphlet №43: Sprouting for Health</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №16: Eastern and Western Spiritual Alternatives"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №16: Eastern and Western Spiritual Alternatives"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-16-eastern-and-western-spiritual-alternatives">Pamphlet №16: Eastern and Western Spiritual Alternatives</h1>

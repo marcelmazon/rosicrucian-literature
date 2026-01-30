@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №42: Spiritual Growth and Psychic Development"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №42: Spiritual Growth and Psychic Development"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-42-spiritual-growth-and-psychic-development">Pamphlet №42: Spiritual Growth and Psychic Development</h1>

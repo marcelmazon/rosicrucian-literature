@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №47: Suicide and Euthanasia"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №47: Suicide and Euthanasia"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="suicide-and-euthanasia">Pamphlet №47: Suicide and Euthanasia</h1>

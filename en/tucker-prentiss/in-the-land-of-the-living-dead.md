@@ -1,10 +1,10 @@
 ---
-title: 'In the Land of the Living Dead'
-language: 'en'
+title: "In the Land of the Living Dead"
+language: "en"
 original_title: "In the Land of the Living Dead"
-original_language: 'en'
-author: 'Prentiss Tucker'
-original_source_file: 'self'
+original_language: "en"
+author: "Prentiss Tucker"
+original_source_file: "self"
 ---
 
 <h1 id="in-the-land-of-the-living-dead">In The Land of The Living Dead</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №12: Concentration, Meditation, and Prayer"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №12: Concentration, Meditation, and Prayer"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-12-concentration-meditation-and-prayer">Pamphlet №12: Concentration, Meditation, and Prayer</h1>

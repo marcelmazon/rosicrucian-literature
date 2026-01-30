@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №32: Obsession"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №32: Obsession"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-32-obsession">Pamphlet №32: Obsession</h1>

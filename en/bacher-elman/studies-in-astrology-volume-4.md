@@ -1,10 +1,10 @@
 ---
 title: "Studies in Astrology - Volume IV"
-language: 'en'
+language: "en"
 original_title: "Studies in Astrology - Volume IV"
-original_language: 'en'
-author: 'Elman Bacher'
-original_source_file: 'self'
+original_language: "en"
+author: "Elman Bacher"
+original_source_file: "self"
 ---
 
 <h1 id="studies-in-astrology-volume-4">Studies in Astrology - Volume 4</h1>

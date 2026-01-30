@@ -1,10 +1,10 @@
 ---
 title: "The Birth of the Rosicrucian Fellowship"
-language: 'en'
+language: "en"
 original_title: "The Birth of the Rosicrucian Fellowship"
-original_language: 'en'
+original_language: "en"
 author: "Augusta Foss Heindel"
-original_source_file: 'self'
+original_source_file: "self"
 ---
 
 <h1 id="the-birth-of-the-rosicrucian-fellowship">The Birth of the Rosicrucian Fellowship</h1>

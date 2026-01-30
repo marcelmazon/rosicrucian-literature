@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №14: The Science of Death"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №14: The Science of Death"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-14-the-science-of-death">Pamphlet №14: The Science of Death</h1>

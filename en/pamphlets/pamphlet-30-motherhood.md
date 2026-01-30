@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №30: Motherhood"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №30: Motherhood"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-30-motherhood">Pamphlet №30: Motherhood</h1>

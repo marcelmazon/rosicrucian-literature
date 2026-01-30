@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №51: Organ Transplants"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №51: Organ Transplants"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-51-organ-transplants">Pamphlet №51: Organ Transplants</h1>

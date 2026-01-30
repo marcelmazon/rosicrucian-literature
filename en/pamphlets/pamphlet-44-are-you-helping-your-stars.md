@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №44: Are You Helping Your Stars?"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №44: Are You Helping Your Stars?"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-44-are-you-helping-your-stars">Pamphlet №44: Are You Helping Your Stars?</h1>

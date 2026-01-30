@@ -1,10 +1,10 @@
 --- 
 title: "Pamphlet №5: The Aquarian Age" 
-language: 'en' 
+language: "en"
 original_title: "Pamphlet №5: The Aquarian Age" 
-original_language: 'en' 
-author: '???' 
-original_source_file: 'self' 
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-5-the-aquarian-age">Pamphlet №5: The Aquarian Age</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №23: The Heart: A Wonderful Organ"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №23: The Heart: A Wonderful Organ"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-23-the-heart-a-wonderful-organ">Pamphlet №23: The Heart: A Wonderful Organ</h1>

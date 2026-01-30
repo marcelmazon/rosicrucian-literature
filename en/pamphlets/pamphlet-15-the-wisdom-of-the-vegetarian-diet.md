@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №15: The Wisdom of the Vegetarian Diet"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №15: The Wisdom of the Vegetarian Diet"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-15-the-wisdom-of-the-vegetarian-diet">Pamphlet №15: The Wisdom of the Vegetarian Diet</h1>

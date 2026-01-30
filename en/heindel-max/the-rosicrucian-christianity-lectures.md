@@ -1,10 +1,10 @@
 ---
-title: 'The Rosicrucian Christianity Lectures'
-language: 'en'
+title: "The Rosicrucian Christianity Lectures"
+language: "en"
 original_title: "The Rosicrucian Christianity Lectures"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-christianity-lectures">The Rosicrucian Christianity Lectures</h1>

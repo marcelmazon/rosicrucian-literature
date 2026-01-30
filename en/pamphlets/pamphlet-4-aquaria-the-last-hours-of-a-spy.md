@@ -1,10 +1,10 @@
 --- 
 title: "Pamphlet №4: Aquaria - The Last Hours of a Spy" 
-language: 'en' 
+language: "en"
 original_title: "Pamphlet №4: Aquaria - The Last Hours of a Spy" 
-original_language: 'en' 
-author: 'Max Heindel' 
-original_source_file: 'self' 
+original_language: "en" 
+author: "Max Heindel"
+original_source_file: "self" 
 ---
 
 <h1 id="pamphlet-4-aquaria-the-last-hours-of-a-spy">Pamphlet №4: Aquaria - The Last Hours of a Spy</h1>

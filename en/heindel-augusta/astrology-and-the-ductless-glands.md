@@ -1,10 +1,10 @@
 ---
 title: "Astrology and the Ductless Glands"
-language: 'en'
+language: "en"
 original_title: "Astrology and the Ductless Glands"
-original_language: 'en'
-author: 'Augusta Foss Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Augusta Foss Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="astrology-and-the-ductless-glands">Astrology and the Ductless Glands</h1>

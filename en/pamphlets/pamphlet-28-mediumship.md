@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №28: Mediumship"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №28: Mediumship"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-28-mediumship">Pamphlet №28: Mediumship</h1>

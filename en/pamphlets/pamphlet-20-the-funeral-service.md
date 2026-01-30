@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №20: The Funeral Service"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №20: The Funeral Service"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-20-the-funeral-service">Pamphlet №20: The Funeral Service</h1>

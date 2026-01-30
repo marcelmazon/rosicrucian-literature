@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №13: The Rosicrucian Method of Caring for the Dead"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №13: The Rosicrucian Method of Caring for the Dead"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-13-the-rosicrucian-method-of-caring-for-the-dead">Pamphlet №13: The Rosicrucian Method of Caring for the Dead</h1>

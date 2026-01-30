@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №36: Rebirth, the Master Key"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №36: Rebirth, the Master Key"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-36-rebirth-the-master-key">Pamphlet №36: Rebirth, the Master Key</h1>

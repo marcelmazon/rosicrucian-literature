@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №37: Responsibility and the Spiritual Aspirant"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №37: Responsibility and the Spiritual Aspirant"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-37-responsibility-and-the-spiritual-aspirant">Pamphlet №37: Responsibility and the Spiritual Aspirant</h1>

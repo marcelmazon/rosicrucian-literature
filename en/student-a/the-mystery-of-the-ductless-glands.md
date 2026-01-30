@@ -1,10 +1,10 @@
 ---
 title: "The Mystery of the Ductless Glands"
-language: 'en'
+language: "en"
 original_title: "The Mystery of the Ductless Glands"
-original_language: 'en'
-author: 'A Student'
-original_source_file: 'self'
+original_language: "en"
+author: "A Student"
+original_source_file: "self"
 ---
 
 <h1 id="the-mystery-of-the-ductless-glands">The Mystery of the Ductless Glands</h1>

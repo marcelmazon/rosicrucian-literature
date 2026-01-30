@@ -1,10 +1,10 @@
 ---
 title: "Evolution from the Rosicrucian Standpoint"
-language: 'en'
+language: "en"
 original_title: "Evolution from the Rosicrucian Standpoint"
-original_language: 'en'
+original_language: "en"
 author: "Augusta Foss Heindel"
-original_source_file: 'self'
+original_source_file: "self"
 ---
 
 <h1 id="evolution-from-the-rosicrucian-standpoint">Evolution from the Rosicrucian Standpoint</h1>

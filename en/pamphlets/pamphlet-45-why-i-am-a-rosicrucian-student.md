@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №45: Why I Am a Rosicrucian Student"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №45: Why I Am a Rosicrucian Student"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-45-why-i-am-a-rosicrucian-student">Pamphlet №45: Why I Am a Rosicrucian Student</h1>

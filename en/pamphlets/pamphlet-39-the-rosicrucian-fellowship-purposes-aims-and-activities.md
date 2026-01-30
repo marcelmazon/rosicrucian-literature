@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №39: Rosicrucian Fellowship - Purposes, Aims, and Activities"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №39: Rosicrucian Fellowship - Purposes, Aims, and Activities"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-39-rosicrucian-fellowship-purposes-aims-and-activities">Pamphlet №39: Rosicrucian Fellowship - Purposes, Aims, and Activities</h1>

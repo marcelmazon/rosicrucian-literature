@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №48: Help Spread the Rosicrucian Teachings!"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №48: Help Spread the Rosicrucian Teachings!"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-48-help-spread-the-rosicrucian-teachings">Pamphlet №48: Help Spread the Rosicrucian Teachings!</h1>

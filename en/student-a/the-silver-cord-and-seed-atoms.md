@@ -1,10 +1,10 @@
 ---
-title: 'The Silver Cord and Seed Atoms'
-language: 'en'
+title: "The Silver Cord and Seed Atoms"
+language: "en"
 original_title: "The Silver Cord and Seed Atoms"
-original_language: 'en'
-author: 'A Student'
-original_source_file: 'self'
+original_language: "en"
+author: "A Student"
+original_source_file: "self"
 ---
 
 <h1 id="the-silver-cord-and-seed-atoms">The Silver Cord and Seed Atoms</h1>
@@ -16,7 +16,7 @@ MT. ECCLESIA
 P.O. BOX 713
 OCEANSIDE, CALIFORNIA, 92054, USA
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 As the years have gone by much valuable material brought out by the investigations of Max Heindel and some of his early students has been lost sight of, in the pages of old magazines, in lecture notes, and in personal reminiscences handed down from disciple to disciple. In this booklet we have brought together the essential points on the Silver Cord and Seed Atoms, using materials which is not readily available to the present- day student.
 
@@ -26,7 +26,7 @@ The student will do well to re-read all that Max Heindel has published on the Si
 
 We also invite our readers to correspond with us on anything which seems to them of value in research on the subject of Silver Cord and Seed Atom. Research must go on without pause, and each one of us has a duty to the future to retain and pass on every item of scientific knowledge which can be of use.
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Contents</h3>
 
 - [Foreword](#foreword)
 - [Chapter I: The Silver Cord and Seed Atoms at Birth](#chapter-1)
@@ -37,8 +37,7 @@ We also invite our readers to correspond with us on anything which seems to them
 - [Chapter VI: Genesis of the Seed Atoms: Our Cosmic Heredity](#chapter-6)
 - [Chapter VII: The Future of Man and his Seed Atoms](#chapter-7)
 
-
-### <h3 id="chapter-1">CHAPTER I: AT BIRTH</h3>
+### <h3 id="chapter-1">Chapter I: At Birth</h3>
 
 We are told in the COSMO-CONCEPTION (page 10) that the Silver Cord grows anew each life: "Other new and important discoveries have been made: for instance, we know now that the Silver Cord is grown anew in each life (i.e., during the uterine period); that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that BOTH PARTS MEET IN THE SEED ATOM OF THE VITAL BODY IN THE SOLAR PLEXUS, AND THAT THIS UNION OF THE HIGHER AND LOWER VEHICLES CAUSES THE QUICKENING. Further development of the cord between the heart and solar plexus during the first seven years has an important bearing on the mystery of child life, likewise its FULLER growth from the liver to the solar plexus, which takes place during the second septenary period (seven to fourteen), is a contributory cause of adolescence. Completion of the Silver Cord marks the end of child life, and from that time the solar energy, which enters through the spleen and is tinted by refraction through the prismatic seed atom of the vital body located in the solar plexus, commences to give a distinctive and individual coloring to the aura which we observe in adults."
 
@@ -72,7 +71,7 @@ Max Heindel says again that of the four points where the Cord is attached-- hear
 
 During the daytime when we are awake in the body, the threefold Silver Cord is COILED IN A SPIRAL WITHIN THE DENSE BODY, principally about the solar plexus or epigastrium; but at night when the Ego withdraws from its dense and vital bodies, leaving them on the bed to recuperate after the labors of the day, the Silver Cord protrudes from the skull. The ovoid desire body usually floats above, or near, the sleeping body, resembling a captive balloon.
 
-### <h3 id="chapter-2">CHAPTER II: DURING GROWTH</h3>
+### <h3 id="chapter-2">Chapter II: During Growth</h3>
 
 In this chapter brief reference will be made to statements found in notes which Max Heindel left, and which were not verified by his later research. Please consider them with this fact in mind. The description of the threefold Cord given in Chapter I is substantially the whole of the material which Mr. Heindel himself published. In this chapter we use the same basic published data, with the addition of the unverified material, care being taken to let the student know when the latter material is used.
 
@@ -114,7 +113,7 @@ It would seem that reports of an excessively bulky Silver Cord arise from a misu
 
 Max Heindel states that an improper cleavage takes place when the wrong method of development us used, as in mediumistic classes. Negative development means that a cleavage takes place between the Chemical Ether and the body, or between the Chemical and Life Ethers, and this is the wrong cleavage which may result in various physical illnesses such as tuberculosis, heart trouble, nerve exhaustion, or mental derangement. The proper cleavage, which takes place between the two higher and the two lower ethers, results from the discipline of the positive training of the Mystery Schools, which includes the work of Meditation and Contemplation, and further includes the Evening and Morning exercises, and the esoteric instruction from the teacher when the pupil qualifies. But note this: even the Evening and Morning Exercises alone actually bring about the right cleavage when faithfully performed if the pupil is living a spiritually oriented life.
 
-### <h3 id="chapter-3">CHAPTER III: DURING SLEEP</h3>
+### <h3 id="chapter-3">Chapter III: During Sleep</h3>
 
 A point to be kept in mind concerning the Silver Cord is that the higher parts of the Cord BELONG TO THE HIGHER VEHICLES AND GO WITH THEM. For example: the desire-stuff part of the major Cord connects the seed atom of the desire body in the great vortex in the liver with the seed atom of the vital body in the solar plexus. It is not that they connect liver with solar plexus; they connect desire body with vital body, by way of the Cord and seed atoms. This segment passing from liver to solar plexus (as seen in the body) is made up of desire-stuff, and is the means, obviously, by which the harmonic essence of the Desire World is able to pass down and work upon the etheric body and, eventually, the physical organism.
 
@@ -150,7 +149,7 @@ The Silver Cord has a very special correlation with this sympathetic nervous sys
 
 Just as occult scientists have identified, or perhaps confused, etheric centers with the nerve ganglia of the body, with which they are so intimately concerned, so also clairvoyants who observed the Silver Cord and who learned of the nature and extent of the vagus (wandering) nerve in the autonomic system thought that the one was, perhaps, a reflection or counterpart of the other, and in this they were not wholly at fault.
 
-### <h3 id="chapter-4">CHAPTER IV: AT DEATH</h3>
+### <h3 id="chapter-4">Chapter IV: At Death</h3>
 
 Death of the physical body takes place when, as a result of the collapse of the archetype, the vital body collapses completely and the seed atom in the apex of the heart is ruptured, the Ego rising out of the body in its astral aura and taking the etheric matrix with it. When the seed atom is ruptured, it is the result of the Ego's taking out of that atom its "forces," which hold the permanent record of the Ego's entire evolution, from the very beginning in the Saturn Period. The etheric cord is still attached to the ruptured shell of the seed atom in the apex of the heart, however, and for not more than three and one-half days after death the vital body, enclosed in the desire body, may still be seen floating above the body. The floating "double" is in a deep sleep. During this time it reviews its panorama of the life just past which has been taken out of the heart's seed atom of the Reflecting Ether.
 
@@ -186,7 +185,7 @@ We are told the work of Initiation includes releasing the Ego at all those point
 
 Observe that the heart, as a physical organ, lies directly in the center of the chest, but IT IS TILTED TO THE LEFT SIDE, so that the apex, or point of the heart, protrudes from under the breast bone, and that is why we feel it most clearly there and here it beating there. In the apex the seed atom of the physical body is placed as has been noted. Some day the heart will be upright in the chest, the point which is now off to the left will move to the center of the body, and the heart will be aligned with the organs of spiritual vision in the head. In meditation, it is the upper part of the heart, which is in the center of the chest, that is important; and students often feel the currents which are active in that area.
 
-### <h3 id="chapter-5">CHAPTER V: THE SILVER CORD AND SEED ATOMS IN EVOLUTION</h3>
+### <h3 id="chapter-5">Chapter V: The Silver Cord and Seed Atoms in Evolution</h3>
 
 Most of what Max Heindel has given concerning the evolution of the Silver Cord in past epochs is found in the second volume of QUESTIONS AND ANSWERS, pages 425-432, which also recapitulates material in the COSMO. There we read:
 
@@ -218,7 +217,7 @@ Concerning the forces which reside in the seed atom of the heart, Max Heindel wr
 
 "That atom is called the seed atom. The force within it moves the heart and keeps the organism alive. All the other atoms in the whole body must vibrate in tune with this atom. The forces of the seed atom have been immanent in every dense body ever possessed by the particular Ego to whom it is attached, and upon its plastic tablet are inscribed all the experiences of that particular Ego in all its lives. When we return to God, when we shall all have become one in God once more, that record, which is peculiarly God's record,will still remain and thus we shall retain our individuality. Our experiences we transmute....into faculties; the evil is transmuted into good and the good we retain as power for higher good, but the RECORD of the experience is OF God, and IS God, in the most intimate sense."
 
-### <h3 id="chapter-6">CHAPTER VI: GENESIS OF THE SEED ATOMS: OUR COSMIC HEREDITY</h3>
+### <h3 id="chapter-6">Chapter VI: Genesis of the Seed Atoms: Our Cosmic Heredity</h3>
 
 In the foregoing chapters we have discussed the Silver Cord and Seed Atoms from the point of view of the importance of the Cord. In the final chapters we will discuss the seed atoms themselves, in terms of their evolution, present condition, and future development.
 
@@ -252,7 +251,7 @@ Finally, in the lowest, the fourth or Earth Period, the Lords of Form were given
 
 The masses of mankind received the germ of mind in the Atlantean Epoch. The germ of mind is the seed atom of the mind. The pioneers, however, received the germ of mind in Lemuria. ["In this Epoch (Lemurian)....the Lords of Mind GAVE the germ of Mind to the greater part of the pioneers...."--COSMO, p. 265.] At the end of our evolution in the Vulcan Period, the mind will embody ALL powers of ALL the perfected lower vehicles. This is foreshown in the fact that, between embodiments of rebirths on Earth, the Ego takes with it into the Third Heaven the seed atoms of all of the four vehicles, and that the mid-region of the World of Thought is called the REGION OF ARCHETYPAL FORCES, and the point where Spirit focuses into matter. This region is the most important to the evolution of the seed atoms. Each seed atom is worked over and improved in each World Period.
 
-### <h3 id="chapter-7">CHAPTER VII: THE FUTURE OF MAN AND HIS SEED ATOMS</h3>
+### <h3 id="chapter-7">Chapter VII: The Future of Man and His Seed Atoms</h3>
 
 When, after receiving the germ of mind from the Lords of Mind from Sagittarius, infant mankind was led astray by the martian Lucifer Spirits, certain ones of the more advanced humanity of the planets Venus and Mercury came to our assistance. We say, a more advanced HUMANITY of those planets, because our life wave of Virgin Spirits (to the number of about sixty billion monads) is distributed on all the planets of out solar system, with the exception of the two outer "mystery" planets, so-called: Neptune and Pluto. Evolution differs from planet to planet, however, so the Egos are not all equal in development, the Venusians and Mercurians being ahead of earth humanity in civilization. However, even among these advanced races some were less advanced than others, and their backward ones, at first exiled, so to speak, to their moons, later were sent to earth to finish their karmic lessons here by aiding us. Meanwhile, the moons which once circled the two inner planets, dissolved and gradually were swept up into the asteroid belt, according to occult findings. Moons from other planets may also be there, as from Mars, Jupiter, and Saturn.
 

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №9: The Brothers of the Rose Cross"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №9: The Brothers of the Rose Cross"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-9-the-brothers-of-the-rose-cross">Pamphlet №9: The Brothers of the Rose Cross</h1>

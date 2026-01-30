@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №27: Life More Abundant"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №27: Life More Abundant"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-27-life-more-abundant">Pamphlet №27: Life More Abundant</h1>

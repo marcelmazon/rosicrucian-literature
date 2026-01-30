@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №8: The Bow in the Cloud"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №8: The Bow in the Cloud"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-8-the-bow-in-the-cloud">Pamphlet №8: The Bow in the Cloud</h1>

@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №10: Rosicrucian Interpretation of Christianity"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №10: Rosicrucian Interpretation of Christianity"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-10-rosicrucian-interpretation-of-christianity">Pamphlet №10: Rosicrucian Interpretation of Christianity</h1>

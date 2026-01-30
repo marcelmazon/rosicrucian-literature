@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №38: Retrospection and Concentration"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №38: Retrospection and Concentration"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-38-retrospection-and-concentration">Pamphlet №38: Retrospection and Concentration</h1>

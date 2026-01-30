@@ -1,10 +1,10 @@
 ---
 title: "The Message of the Stars"
-language: 'en'
+language: "en"
 original_title: "The Message of the Stars"
-original_language: 'en'
-author: 'Max Heindel, Augusta Foss Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel, Augusta Foss Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-message-of-the-stars">THE MESSAGE OF THE STARS</h1>

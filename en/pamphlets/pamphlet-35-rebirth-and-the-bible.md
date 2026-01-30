@@ -3,8 +3,8 @@ title: "Pamphlet №35: Rebirth and the Bible"
 language: "en"
 original_title: "Pamphlet №35: Rebirth and the Bible"
 original_language: "en"
-author: '???'
-original_source_file: 'self'
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-35-rebirth-and-the-bible">Pamphlet №35: Rebirth and the Bible</h1>

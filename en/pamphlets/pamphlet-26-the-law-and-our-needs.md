@@ -1,10 +1,10 @@
---- 
-title: "Pamphlet №26: The Law and our Needs" 
-language: 'en' 
-original_title: "Pamphlet №26: The Law and our Needs" 
-original_language: 'en' 
-author: '???' 
-original_source_file: 'self' 
+---
+title: "Pamphlet №26: The Law and our Needs"
+language: "en"
+original_title: "Pamphlet №26: The Law and our Needs"
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-26-the-law-and-our-needs">Pamphlet №26: The Law and our Needs</h1>

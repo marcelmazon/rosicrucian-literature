@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №49: The Rosicrucian Fellowship Temple Service"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №49: The Rosicrucian Fellowship Temple Service"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-49-the-rosicrucian-fellowship-temple-service">Pamphlet №49: The Rosicrucian Fellowship Temple Service</h1>

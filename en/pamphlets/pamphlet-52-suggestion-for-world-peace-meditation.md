@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №52: Suggestion For World Peace Meditation"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №52: Suggestion For World Peace Meditation"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-52-suggestion-for-world-peace-meditation">Pamphlet №52: Suggestion For World Peace Meditation</h1>

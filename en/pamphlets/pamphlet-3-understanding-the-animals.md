@@ -1,10 +1,10 @@
 ---
 title: "Pamphlet №3: Understanding the Animals"
-language: 'en'
+language: "en"
 original_title: "Pamphlet №3: Understanding the Animals"
-original_language: 'en'
-author: '???'
-original_source_file: 'self'
+original_language: "en"
+author: "???"
+original_source_file: "self"
 ---
 
 <h1 id="pamphlet-3-understanding-the-animals">Pamphlet №3: Understanding the Animals</h1>
