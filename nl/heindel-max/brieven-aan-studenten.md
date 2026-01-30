@@ -19,9 +19,9 @@ Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Inhoudsopgave</h3>
 
-- [Foreword](#foreword)
+- [Voorwoord](#foreword)
 - [1. Vriendschap als ideaal](#letter-1)
 - [2. Zielengroei door te handelen](#letter-2)
 - [3. Belangeloze hulp aan anderen](#letter-3)

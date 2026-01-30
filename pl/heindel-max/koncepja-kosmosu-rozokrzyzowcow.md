@@ -1,10 +1,10 @@
 ---
-title: 'Koncepja Kosmosu Różokrzyżowców'
-language: 'pl'
+title: "Koncepja Kosmosu Różokrzyżowców"
+language: "pl"
 original_title: "The Rosicrucian Cosmo-Conception"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-cosmo-conception">Koncepja Kosmosu Różokrzyżowców</h1>

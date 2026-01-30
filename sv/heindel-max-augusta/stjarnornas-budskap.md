@@ -1,10 +1,10 @@
 ---
 title: "Stjärnornas Budskap"
-language: 'sv'
+language: "sv"
 original_title: "The Message of the Stars"
-original_language: 'en'
-author: 'Max Heindel, Augusta Foss Heindel'
-original_source_file: 'the-message-of-the-stars.md'
+original_language: "en"
+author: "Max Heindel, Augusta Foss Heindel"
+original_source_file: "the-message-of-the-stars.md"
 ---
 
 <h1 id="the-message-of-the-stars">Stjärnornas Budskap<h1>

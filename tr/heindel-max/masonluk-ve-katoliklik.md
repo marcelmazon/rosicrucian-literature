@@ -1,10 +1,10 @@
 ---
 title: "Masonluk ve Katoliklik"
-language: 'tr'
+language: "tr"
 original_title: "Freemasonry and Catholicism"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'freemasonry-and-catholicism'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "freemasonry-and-catholicism"
 translator: "Burhan Yentürk"
 ---
 

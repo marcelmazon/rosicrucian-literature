@@ -1,10 +1,10 @@
 ---
 title: "Okkulte Prinzipien der Gesundheit und Heilung"
-language: 'de'
+language: "de"
 original_title: "Occult Principles of Health and Healing"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="occult-principles-of-health-and-healing">Okkulte Prinzipien der Gesundheit und Heilung</h1>

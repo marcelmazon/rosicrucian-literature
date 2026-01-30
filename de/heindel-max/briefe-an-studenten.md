@@ -1,10 +1,10 @@
 ---
-title: 'Briefe An Studenten'
-language: 'de'
+title: "Briefe An Studenten"
+language: "de"
 original_title: "The Rosicrucian Cosmo-Conception"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'letters-to-students.md'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "letters-to-students.md"
 ---
 
 <h1 id="letters-to-students">Briefe An Studenten</h1>

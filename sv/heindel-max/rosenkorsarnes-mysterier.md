@@ -1,10 +1,10 @@
 --- 
-title: 'Rosenkorsarnes Mysterier' 
-language: 'sv' 
+title: "Rosenkorsarnes Mysterier"
+language: "sv" 
 original_title: "The Rosicrucian Mysteries" 
-original_language: 'en' 
-author: 'Max Heindel' 
-original_source_file: 'self' 
+original_language: "en" 
+author: "Max Heindel"
+original_source_file: "the-rosicrucian-mysteries.md"
 ---
 
 <h1 id="the-rosicrucian-mysteries">Rosenkorsarnes Mysterier</h1>

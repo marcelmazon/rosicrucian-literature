@@ -1,10 +1,10 @@
 ---
-title: 'Die Rosenkreuzer-Weltanschauung'
-language: 'de'
+title: "Die Rosenkreuzer-Weltanschauung"
+language: "de"
 original_title: "The Rosicrucian Cosmo-Conception"
-original_language: 'en'
-author: 'Max Heindel'
-original_source_file: 'self'
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "self"
 ---
 
 <h1 id="the-rosicrucian-cosmo-conception">Die Rosenkreuzer-Weltanschauung</h1>
