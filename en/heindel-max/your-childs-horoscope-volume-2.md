@@ -1,0 +1,3070 @@
+CONTENTS
+
+Foreword 3
+Virginia E. S. 7
+Clarence W. J. 9
+Wolcott B. 11
+Marie Elizabeth H. 13
+Donald R. D. 15
+Alice Louise J. 18
+Harold A. B. 22
+Elizabeth R. B. 24
+James M. J. 27
+Stephana Endora H. 29
+John Allen Heine 33
+Janet Barbara H. 35
+Victor L. S. 38
+Doris A. 41
+Linzee G. 43
+Marion S. 47
+Carlos De U. 50
+Henry F. 52
+
+
+Josephine M. ................................ 54
+Frances W. ................................ 56
+Henry B. W. ................................ 58
+Mildred Costa I. ................................ 60
+Robert Leonard L. ................................ 63
+Arminae B. ................................ 65
+Sarah June W. ................................ 71
+Harriet Josephine B. ................................ 75
+Albert P. ................................ 77
+Albion W. L. ................................ 80
+Nicholas A. D. ................................ 83
+Carl R. M. ................................ 85
+Homer H. M. ................................ 87
+Virginia H. ................................ 89
+Richard L. ................................ 92
+Edmond A. W. ................................ 94
+
+
+YOUR CHILD'S HOROSCOPE
+
+VIRGINIA, E. S. - Born May 4, 1910, 12:30 a.m.,
+Schenectady, New York.
+
+At the time Virginia was born, the saturnine sign Capri-
+corn was rising with Uranus, the erratic, spasmodic planet,
+sextile to Venus and square Saturn, the planet of obstruction.
+The cardinal signs always give a great deal of energy and this
+spends itself without trouble so long as it is allowed to go its
+rhythmic way, but when it is checked in its flow by Uranus'
+spasmodic vibrations it becomes like a horse held in leash.
+chafing and tugging at the bit, impatient and out of sorts.
+So it is with Virginia. There is a great deal of energy latent
+in her nature which is denied expression by the obstruction
+of Saturn, and this paves the way for the irritable vibrations
+of Uranus, so that she is often gloomy and out of patience
+with everything and everybody about her.
+
+It is the privilege and the duty of her parents to help her
+form the habit of cheerfulness. Above all, she should not be
+scolded so long as there is any possibility of correcting her
+by reasoning, for harsh words will cause her to brood over
+real and fancied injuries and thus she will form a very bad
+habit.
+
+The Moon is square to Mercury, the planet of mind, but
+trine to Mars, the planet of dynamic energy; thus we see that
+there is an inner struggle of the mind and an aspiration which
+seeks an avenue of expression. This is also shown by Jupiter
+
+
+8 YOUR CHILD'S HOROSCOPE
+
+being trine to Mercury; and that the basic nature is benevo-
+lent we may judge from the fact of this configuration, for
+Jupiter represents the higher idealistic side of being.
+Venus is the planet of attraction and beauty. She is placed
+in her exaltation sign in the watery Pisces, a fact which accen-
+tuates the basic characteristics of her nature. She is also in the
+second house which deals with finance; thus we may judge
+that Virginia will always attract money. She will have no
+occasion to worry concerning the amount of money which she
+may spend within reason, but Venus is square to Mars, the
+planet of dynamic energy, showing that Virginia will want
+to throw the money out of the window as fast or faster than
+it can come in by the door; also, she will spend it on dress
+and finery. This is a tendency which the parents ought to
+discourage by all means in their power. Dress serves a useful
+purpose in developing the artistic nature, but is bad when
+it is overdone and becomes a mania. There are many other
+things in life which are of greater importance that call for
+attention.
+
+The Moon is the principal significator of health for a
+woman, and we find in the case of Virginia that the Moon
+is trine to Mars, the planet of dynamic energy. Therefore,
+we may conclude that she will have a considerable store of
+vitality, which is something unusual for a Capricorn person,
+as they are generally lacking in life force on account of the
+saturnine obstruction. Saturn, the planet of obstruction, is
+also sextile to Mars, assuring Virginia quick recovery when
+sickness does overtake her.
+
+
+YOUR CHILD'S HOROSCOPE
+CLARENCE W. J. - Born Sept. 3, 1914, 5:30 p.m.,
+Winifred, Montana.
+Here we have a youngster of a fine, kindly disposition,
+for Jupiter, the planet of benevolence, is rising in the humani-
+tarian sign Aquarius. It is trine to Mars, the planet of
+dynamic energy, which gives us our temper if we have one.
+But in Clarence's case, Mars' influence is softened because
+he is in the gentle Venus sign Libra. Therefore, he will
+not express temper, but his energy will be used in benevolent
+channels as indicated by the trine to Jupiter. This is an
+exceedingly fortunate configuration, for he who has the
+spirit of philanthropy which makes him love to do good
+thereby attracts the same from others, and will therefore live
+an exceedingly happy and prosperous life. There is only one
+flaw in this matter: Mars is impulsive, Uranus is still more
+so, and we find Uranus conjoined with Jupiter, trine to Mars.
+This configuration of Uranus with Mars and Jupiter will give
+Clarence the tendency to throw discrimination to the winds,
+and what he gives to, or does for, people will probably not
+do half the good it would do if expended with care.
+
+But it costs money to be philanthropic in a large way,
+and the question, "Where is he going to get it?" is therefore
+pertinent. The same planets which show how he is inclined
+to spend also indicate the source of supply. Mars in Libra,
+and unafflicted, is very constructive; he tends to make that
+which is beautiful. His trine to Uranus, the planet which
+governs electricity, the ether, and all the new inventions
+which will make the Aquarian age a thousand times more
+wonderful than the dreams of Jules Verne, will put Clarence
+
+
+10 YOUR CHILD'S HOROSCFPE
+
+in touch with the World of Abstract Thoughts and Ideas.
+From the cosmic mind he will learn principles and laws of
+which we do not dream, also how to embody such things in
+epoch-making inventions. Moreover, he is not alone in that
+line, for during the seven years Uranus is going through the
+sign Aquarius, there is being born a new race of such marvels.
+When they grow up to be 15, 20, or 25 years of age, the world
+will hear from them. Things we never imagined in our
+wildest dreams will become part of our everyday life, and
+probably the present wonders of the world will be out of date
+altogether.
+
+Mars, which gives Clarence the required energy to work
+out his plans, is ruler of the second house, which governs
+finances; his trine to Jupiter, the planet of opulence, guar-
+antees abundance of funds; and as Jupiter rules Sagittarius,
+which is on the tenth house, indicating social honor, we may
+also judge that Clarence will be highly esteemed in the world.
+We find another trine between Saturn, Venus, and the
+Moon; each is so placed that it is trine to the other two.
+The Moon is a significator of the mind; it is conjoined with
+the benefic Dragon's Head in the first house, and trine to
+Saturn. This adds depth to the instinctual mind and will
+probably act as a needed brake upon impulse, for the close
+conjunction of Mercury, the planet of reason, with the Sun,
+makes it certain that he will not be guided by logic, but
+will do as he feels is right.
+
+The saturnine Dragon's Tail in conjunction with the Sun,
+in the sign Virgo, which rules the intestinal region, gives a
+tendency to digestive trouble; this testimony is further aug-
+mented by the square of Neptune and Venus. Neptune
+
+
+YOUR CHILD'S HOROSCOPE 11
+is on the cusp between Cancer, which rules the stomach,
+and Leo, which rules the heart. This shows that Clarence
+will be overfond of dainty things to eat, and that the system
+is likely to become clogged in consequence. The distended
+stomach pressing upon the heart will then add to the distress.
+Dyspepsia is the bane of many a life which would otherwise
+be happy, and the parents should practice frugality so that
+Clarence may learn in childhood, by their example, to form
+wise eating habits, and thus save himself much misery.
+
+WOLCOTT B. - Born June 28, 1905, 12:45 p.m.
+New York City.
+
+The editor has often held that the so-called "bad" aspects
+in a horoscope are our best teachers in Life's School, for they
+bring out the noblest virtues in us when we have had their
+whippings; also, that where there are no "bad" aspects, the
+person is so good that he is good for nothing. Looking at
+Wolcott's horoscope and seeing the many splendid aspects
+we became concerned at first that there was nothing "bad,"
+till we found Uranus in opposition to the Sun and Neptune,
+also Saturn conjoined with the Dragon's Tail. That saves
+him, and we know he is going to be all right.
+The first thing we note in Wolcott's horoscope is the two
+groups of three planets each in the eighth and ninth houses,
+highly elevated, and therefore in strong positions to affect
+him for good or ill according to the aspects. There is Mer-
+cury, the planet of reason, conjoined with Neptune, its higher
+octave, which gives a deep insight into spiritual things that is
+
+
+12 YOUR CHILD'S HOROSCOPE
+much higher than the intuition generated by Uranus, the
+octave of Venus. Mercury is also conjoined with the Sun,
+the source of all light and knowledge, yet not so closely as
+to be combust. Thus we have the full strength of these
+three planets focused through the ninth house, which rules the
+mind and religion. Furthermore, they are all trine to Mars,
+the planet of dynamic energy, and two of them are trine to
+Saturn, the planet of tact and diplomacy, giving Wolcott
+an active, well-balanced mind of a very unusual calibre. As
+this powerful configuration occurs in the ninth house, it is
+a question whether the mentality will seek its expression in
+the service of the state, as judge or legislator, or, in the
+church as a minister. Jupiter and Venus, the planets of
+rhythm and beauty, conjoined with the Moon in the sign
+Taurus, which governs the vocal organ, shows that he has a
+beautiful voice either for speaking or singing. So he has the
+oratorical power necessary to clothe his thoughts in speech
+in such a maner that he will attract attention in whatever
+field he chooses. But Neptune, the mystic planet, conjoined
+with Mercury, and the Sun in the psychic sign Cancer, will
+inevitably draw Wolcott to the church, but not to one of the
+orthodox variety, and in this field he will be a powerful leader.
+Jupiter, the planet of opulence, is usually generous in all
+directions. His influence makes one feel that he has plenty,
+and need not be stingy. Venus is also inclined to be bounti-
+ful, and these characteristics may be expressed toward the
+person himself, as well as with respect to others. Here Jupiter,
+Venus, and the Moon are in Taurus, the sign which rules
+the palate. Wolcott will therefore be very fond of the so-
+called "good" things to eat. He likes his food highly seasoned,
+
+
+YOUR CHILD'S HOROSCOPE 13
+
+rich, and generously supplied. This inevitably leads to
+trouble. Saturn, the planet of obstruction, is conjoined with
+the saturnine Dragon's Tail in Pisces. This reacts on the
+opposite sign, Virgo, which rules the intestines, and interferes
+with the process of digestion, making him dyspeptic. At
+least, that is the tendency, if you do not take adequate steps
+to curb his appetite and teach him self-control in that respect.
+He may take up fads in food, and add to the trouble, as shown
+by Uranus opposition the Sun and Neptune in Cancer, the
+sign which rules the stomach. It is the parents' duty to set
+a good example for him by eating wisely.
+Jupiter, Venus, and the Moon in the eighth house show
+that Wolcott is in line for some legacies. Mars essentially
+dignified on the cusp of the second house, which rules finance,
+and trine to the Sun, shows that he will have a splendid
+earning capacity, too. However, it also shows that he will
+be prone to spend it impulsively, as fast as it comes.
+
+MARIE ELIZABETH H. - Born July 31, 1911, New-
+ton, Mass.
+
+Here we have a rather delicate little girl who will need
+special care from her parents, for Cancer, a sign of low
+vitality, is rising, and the Moon, which rules the Ascendant,
+is square to Neptune and Uranus. The Sun, which is the
+great reservoir of life, is also square Mars, the planet of
+dynamic energy. But do not be afraid that she may not live,
+because we enumerate all these malefie influences; we are
+just taking stock and looking the facts in the face, so that
+
+
+14 YOUR CHILD'S HOROSCOPE
+
+we may govern ourselves accordingly. One person may start
+out in life with a great big fortune, and by riotous living
+dissipate it all in a few years, while another, who has but little
+to begin with, may husband it skillfully and acquire a com-
+petence before the close of life. As it is with money, so also
+with our bodies and life force: riotous living will undermine
+the strongest health, and intelligent care will make a weak
+body strong. Thousands and thousands drag out existences
+of miserable invalidism or go down to early graves because
+their parents were ignorant of the need of strengthening their
+bodies in early childhood. Perhaps they thought that some-
+how their child would "grow out of it," when, had they but
+known, the horoscope showed a basically weak constitution
+which should have been strengthened by persistent systematic
+efforts during childhood – the earlier begun the better.
+The root of Elizabeth's trouble is a weak heart and poor
+circulation of the blood, as shown by the square of the Sun
+to Mars, the energizer, and Jupiter, which governs the arterial
+circulation. Too vigorous exercise will make her heart pal-
+pitate and should therefore be avoided, but carefully graded
+gentle calisthenic movements, practised daily under the proper
+guidance, will work wonders. At the same time, careful
+attention should be paid to her diet, for Neptune is in Cancer,
+the sign which rules the stomach, and the Moon, which
+governs Cancer, is square to it from Libra, the sign rul-
+ing the kidneys. This shows that, as a result of the im-
+paired vitality, digestion will be weak and the elimination
+of fluids by way of the kidneys will not be good. She needs
+good nourishment, which at the same time is easily digestible.
+If you can possibly get it, we suggest milk fresh from the cow,
+
+
+YOUR CHILD'S HOROSCOPE 15
+
+or better still, goats' milk. There is nothing to equal it for
+building her up. Coarse, whole-wheat bread is also needed,
+both for its nourishing qualities, and its stimulating effect
+on the peristaltic action. Mars in opposition to Jupiter,
+which is in Scorpio, the sign ruling the rectum, conjunction
+with the saturnine Dragon's Tail, shows the need of this.
+We also find that the Sun is in conjunction with the
+Ascelli, a nebulous spot in Leo six degrees, and square to
+Mars. The Moon, the other luminary, is square Neptune.
+This indicates that care should be taken of Elizabeth's eyes
+during childhood. Guard them against strong sunlight, and
+go with her to school to see that she is so placed that the light
+does not hurt her eyes. This configuration also indicates that
+her spiritual sight may be easily developed, but the adverse
+aspects show that it would not be desirable. She should
+never be allowed to attend spiritualistic or kindred meetings.
+To sum up, you have a child that needs all the care you
+can give her in all directions, but forewarned is forearmed.
+There is no cause for alarm if reasonable precautions are
+taken before trouble develops.
+
+DONALD R. D. - Born May 26, 1912, 7:50 p.m.,
+Tonopah, Nevada.
+
+At Donald's birth the zodiacal sign Cancer was rising.
+This is a sign of scant vitality, but as Mars, the great energizer,
+is in the first house and sextile to the Sun, the life-giver,
+Donald will have plenty of vitality, notwithstanding. This
+configuration will strengthen the heart, for Mars is on the
+
+
+16 YOUR CHILD'S HOROSCOPE
+
+cusp of Leo, the sign which rules that vital organ. Were
+it not for this sextile, the opposition of Mars, from the sign
+of the heart, to Uranus, the planet of irregularity, would
+have caused palpitation, which is happily averted. It would
+be well, nevertheless, to guard him against violent exertion
+during the years of growth.
+While on the subject of health, we may also note the
+conjunction of Saturn and Venus in Taurus. Taurus rules
+the throat, and Saturn, the stellar agency of obstruction, is
+also naturally cold. Therefore, this configuration warns us
+that Donald will be subject to swollen tonsils, which will
+obstruct the throat, and that is the point where he is liable
+to catch cold. When he is sixteen or seventeen years of age
+this condition will be the worst, because then the Moon will
+be passing through Taurus and vivify the affliction. But
+be not alarmed, the planets have shown you the weak spots,
+and you have ample time and the best of opportunities to
+strengthen that part of the constitution.
+It is best to inure the throat to cold from childhood, and
+above all, do not allow the tonsils to be removed. They
+serve a purpose in the body and by patient rational treatment,
+such as massage, the circulation can be kept free in the
+earliest years until the weakness has been overcome. Usually
+an affliction in one sign carries with it a weakness in the
+region governed by the opposite sign. Thus, an affliction in
+Taurus, which rules the throat, would also affect the part
+of the body which is under Scorpio, namely, the eliminative
+organs, causing obstruction of the urine or constipation. In
+this horoscope, however, we find the disturbing factor, Saturn,
+beneficently configured with Mars, the ruler of Scorpio,
+
+
+YOUR CHILD'S HOROSCOPE 17
+and we may therefore judge that Donald will not be troubled
+by this reflex action. That is a great point in the preservation
+of health, for where there is regular and thorough elimina-
+tion of waste from the body, disease does not easily take root.
+Donald will never be a good reasoner, for Mercury, the
+planet of logic, is in an intercepted sign, and unaspected,
+but the Moon, which rules the instinctual mind, is in good
+aspect to Jupiter, the planet of benevolence. The cosmic
+light-giver, the Sun, is also in favorable configuration with
+Uranus, the planet of intuition. Thus Donald will be guided
+by impressions and feelings: his nature will be psychic and
+sensitive, as shown also by Neptune being placed in the first
+house in the psychic sign Cancer. He will therefore be unfit
+for ordinary worldly life, and will tend to shut himself off
+from others at an early point in his life. He will be a lonely
+boy, misunderstood in his surroundings, and he needs the
+sympathetic care of his parents in a greater degree than most
+children on that account.
+This lonely, introspective childhood will prepare him fo
+his work in the world, an important humanitarian work, as
+shown by the second, sixth, and tenth houses. On the second
+house governing finance, we find Leo, the sign of the heart,
+and, did you ever know anyone with a big heart that had
+also a full pocketbook? That kind is, we believe, scarcer than
+the proverbial "hen's teeth." The ruler of the second house,
+the Sun, is in opposition to Jupiter, the planet of opulence,
+and Mars, the planet of prodigality, is on the second cusp,
+showing that Donald will always be poor in the world's
+wealth because he will be extremely open-handed. We learn
+also, though, that he will be rich in heavenly treasure, which
+
+
+18 YOUR CHILD'S HOROSCOPE
+he will not have to leave behind when death marks the time
+of reaping what he has sown, for Jupiter, the planet of benev-
+olence and idealism, is essentially dignified in Sagittarius,
+in the sixth house. Jupiter is in good aspect with the Moon,
+the planet of fecundation, and Sagittarius is the sign of
+religion, philanthropy, etc. This shows that a life rich in
+opportunity for noble service awaits Donald.
+He may never become widely known, for Jupiter, the
+ruler of the tenth house, which governs social standing, has
+only two aspects, but I would rather have his horoscope than
+that of a multi-millionaire philanthropist who spends money
+on "institutes" and kindred grand schemes which advertise the
+donor widely The kindly, personal touch of a true Samaritan
+who feels with, and for, his suffering brother is worth more
+in actual soul-growth than all such impersonal charities, and
+Donald has one of the "luckiest" horoscopes I have ever come
+across. May he live up to it and grasp the opportunities
+it presents.
+
+ALICE LOUISE J. — Born May 3, 1910, 6:30 a.m.,
+Providence, R. I.
+
+Here we have a little lady with a mind as bright as a new
+dollar, for the intellectual, scientific sign Gemini is rising
+with Mercury, its ruler, near the ASC, and trine to Jupiter,
+another significator of mind, in the sign Libra. This position
+of Mercury, the planet of speech and reason, will also give
+Alice the ability to express herself. She will indeed have an
+unusually glib tongue, for Mars, the planet of dynamic
+energy, is parallel to Mercury; that brightens and quickens
+
+
+YOUR CHILD'S HOROSCOPE 19
+both wit and speech to a wonderful degree.
+People who have that configuration alone are often veri-
+table chatterboxes, whose tongues are continually wagging
+unmeaning words at somebody. This is not the case with
+Alice, though, for Saturn, the planet of obstruction, is in
+Aries, which rules the head and brain, and sextile to the
+Moon, another significator of mind. This adds depth to
+the mind and makes her tactful, self-reliant, and persistent,
+so that whatever end she seeks to gain, she will always per-
+severe until her object is attained, particularly since the Moon
+is situated in the MC, which governs the social position.
+This shows also that Alice will be fitted for a trusted position
+of a public nature, and the ruler of the rising sign trine to
+Jupiter, the planet of expansion, shows that there will be a
+general success in the whole life. The planets being scattered
+over the whole horoscope shows that she is of a versatile
+nature who can fit in any place, and such people are always
+sought. In all probability she will choose a literary career,
+and it would be well to shape her studies accordingly.
+Regarding the nature of the faults latent within her,
+we learn from the square of Mars to Jupiter and Venus that
+she will be inordinately fond of dress and pleasures, exceed-
+ingly extravagant, and so generous that she may give away
+her last dollar, even though in want herself. Also, she is apt
+to be insanely jealous concerning anyone she loves. Mars
+square Venus also gives a liability to suffer from slander, and
+Mars square Jupiter shows a tendency to loss through in-
+discreet speculation. When you know these latent faults,
+naturally you will also realize how best to apply the remedy.
+With respect to this inordinate fondness for dress, it may
+
+
+20 YOUR CHILD'S HOROSCOPE
+probably be curbed considerably, or else led into a construc-
+tive channel, by teaching her how to make her own clothes
+and design them in an artistic manner. The parallel of
+Mars and Mercury makes her extremely dexterous, quick,
+and bright. She will without a doubt enjoy the opportunity
+to exercise her creative ability in an artistic direction and
+from the years of childhood her dolls should be given to her
+with material from which she must make the clothing for
+them herself. Then she will naturally in later years use the
+faculty to adorn her own person.
+
+With regard to the impulsive generosity shown by Mars
+square Jupiter, the planet of benevolence, it would probably
+also be best to teach her by object lessons. If you let her
+give her things away and then feel the loss, it is likely to
+cure her, for a child of her nature will feel very intensely
+upon any subject. The tendency to excessive jealousy can
+also be dealt with in the home, especially if there are a num-
+ber of brothers and sisters. Do whatever you can to eradicate
+this trait, for it is one of the most painful feelings and the
+victims thereof are very much to be pitied.
+
+With respect to her speculative tendency we would ad-
+vise that you allow no card games in the home and speak
+disparagingly of gambling and speculation outside the regular
+channels of business. So much can be done toward moulding
+the character in the earlier years, and any fault which is not
+too firmly ingrained can be eradicated by the precepts and
+example of the parents, especially the latter.
+
+Venus, the planet of love and art, is in favorable aspect
+to Uranus, the planet of intuition and inspiration. This will
+make Alice very intuitive, so that as a rule she will not need
+
+
+YOUR CHILD'S HOROSCOPE 21
+to reason things out, but will have the solution as soon as the
+problem is presented. From the aspects between these two
+planets (Venus and Uranus), Alice will also receive a marked
+musical ability. The positions and aspects of Mercury,
+already spoken of, give her great dexterity and so, without
+a doubt she will become a high class performer, as well as an
+inspirational interpreter of music. We have no doubt that
+you will give her every opportunity to cultivate this latent
+talent.
+Uranus is the ruler of the eleventh house sign, which
+governs friends, and Venus, the planet of love and attraction,
+is in the eleventh house in Pisces, its exaltation sign. This
+position and the aspect of Uranus shows that Alice will have
+many friends who will be of great benefit to her, and her
+success in life will come through their efforts as well as by
+her own capabilities. But, as we said before, she is also
+liable to be slandered publicly. Saturn, the planet of obstruc-
+tion, is in the twelfth house, the house of sorrow, trouble, and
+self-undoing, and a person who has these configurations
+should be far more circumspect in his or her conduct than
+other people. Actions which may seem perfectly innocent
+and natural in one may be taken up and made much of in
+the other. You may, therefore, save her a great deal of
+sorrow if you can get her to understand this point and avoid
+all app erance of evil just as much as she would the evil itself.
+With respect to health, we find that Saturn, the planet
+of obstruction, is in Aries square to Uranus, the planet of
+spasmodic action, in Capricorn. It is a rule that planets which
+are in signs that govern parts below the trunk have a reflex
+action in their opposite signs, and we may therefore judge
+
+
+22 YOUR CHILD'S HOROSCOPE
+
+that Uranus will be active in Cancer, which rules the stomach.
+On that account Alice will be subject to severe attacks of
+headache at uncertain intervals, and you will also find that a
+great deal of the trouble comes from the stomach. There-
+fore, she should be taught the virtue of frugality from the
+earliest childhood, for the stomach is also afflicted by the
+presence of Mars and Neptune in Cancer. There is no more
+miserable person on earth than a dyspeptic forced to eat and
+unable to digest; life is truly a burden for such people, and
+anything you can do to aid Alice in averting that fate will
+surely be a worthwhile blessing to her.
+
+HAROLD A. B. --Born Nov. 6, 1913, 3:10 a.m., Colum-
+bus, Ohio.
+
+This is a young man who is going to let people know
+when he is about. No quiet little mouse is one who has
+cardinal signs on the angles! Harold wants the center of the
+stage, and with Mars, the planet of dynamic energy right up
+in the midheaven, you may be sure he will secure attention
+and push to the front. From this it is not to be inferred that
+he is a bombastic braggart—not at all. Venus on the ASC,
+essentially dignified in the polite, pleasing sign Libra, and
+well aspected to Moon and Saturn, will give him an attrac-
+tive personality that will naturally bring attention. Saturn
+in the mercurial sign Gemini will give him tact and balance,
+and the Moon in the intellectual sign Aquarius makes him
+quickwitted.
+
+Thus Harold is bound to become a very fine young man
+who will merit the leadership to which he lays claim. Mer-
+
+
+YOUR CHILD'S HOROSCOPE 23
+cury, the planet of the concrete mind, is in good aspect to
+Uranus, the planet of intuition; this will make him very
+intuitive and quick to grasp whatever he wishes to investigate.
+The Sun in the energetic sign Scorpio, which occupies the
+second house, rules finances, and it is also in this house, well
+aspected to Jupiter, the planet of opulence. This indicates
+that Harold will have an abundance of this world's goods.
+But wealth is a responsibility. Blessed is the man who
+sees in it a trust, and holds it as a steward would hold his
+master's property. If we abuse it, it may become a curse
+and ruin us, soul and body. This is the danger Harold is
+facing, for Mars, the ruler of the second house, is highly
+elevated and square to Venus on the ASC. This tends to
+make him very domineering, especially with the opposite sex,
+yet prone to lavish presents on them, for his own ends. This
+position also indicates a liability to contract disease on account
+of amorous indulgences. On that account it will be neces-
+sary for the parents to lay aside all false modesty and educate
+Harold thoroughly in this matter. He should be taught to
+reverence the generative function, to feel the sanctity of
+motherhood and fatherhood, to look with the deepest respect
+upon all women, and to know the frightful consequences of
+abuse of the divine function of procreation. Thank God,
+the horoscope shows only tendencies which may be fostered
+or suppressed by will, and there is every reason to hope that
+you will be successful in training him rightly if you apply
+yourselves to the task, for the configuration occurs in cardinal
+signs. Had the signs been fixed it would have been much
+more difficult to overcome the tendency.
+Saturn, the planet of cold and obstruction, is in Gemini,
+
+
+24 YOUR CHILD'S HOROSCOPE
+
+the sign which rules the lungs. This shows a tendency to
+cold which will settle in the lungs; but as Saturn is well
+asspected to Venus and the Moon in the other airy signs,
+Libra and Aquarius, there is no danger of any serious trouble.
+At the same time it is well to be careful, especially in the
+earlier years. Mars in Cancer, the sign which rules the
+stomach, square Venus and Jupiter, shows that Harold will
+enjoy the pleasures of the table more than is good for him;
+teach him to eat with discrimination. He has a keen wit,
+and will see the wisdom in time if you practice the precepts
+you preach to him. However, it will not help him if you
+teach him to be frugal and live to please your own palates.
+Then he will probably be all the more determined to have
+his fling when your authority over him has passed with the
+waning years.
+
+ELIZABETH B. B. Born Nov. 19, 1910, 8:30 a.m.,
+Long. 91 W., Lat. 41 N.
+
+At the time of Elizabeth's birth Sagittarius was rising, but
+even though its ruler, Jupiter, is the most elevated planet,
+we must consider the Sun life ruler, for Jupiter is in aspect
+with only two of the planets, while the Sun is unafflicted
+and in aspect with four. The saturnine sign Capricorn is in
+the first house, and if there were no other configuration to
+offset this influence, it would make Elizabeth gloomy and
+morose, but the powerful position of the Sun dispels the
+gloom and changes the nature. The Sun is conjoined with
+Mercury, the planet of reason, and Venus, the planet of love
+
+
+and beauty; it is sextile to Uranus, the planet of intuition,
+and trine to Neptune, the planet of spiritual perception.
+Thus it is plain that Elizabeth will have a kindly nature,
+good reasoning faculty, reliable intuition, and deep spiritual
+perception. These faculties will come to the surface with
+the passing years.
+The Moon also lends her aid in forming the mind and
+disposition. We find her in the psychic sign Cancer, trine
+Jupiter and Mars. This makes the mind still more benev-
+olent and gives activity. Elizabeth will not content herself
+with dreams, though she will have them in abundance, but
+she will strive to make her dreams come true, with regard to
+both spiritual and material things. She will not have a great
+deal of this world's goods to do with, for Saturn, the planet
+of obstruction, is in opposition to Jupiter, the planet of
+opulence. However, that is no drawback, for one who gives
+herself bestows a greater gift than gold. The Sun, Venus,
+and Mercury in the eleventh house, denoting friends, hopes,
+wishes, and aspirations, show that Elizabeth will have the love
+and help of a host of friends who will aid her to realize all
+she ever can dream of. Thus her life will be lived to an
+unusual fullness.
+It is said that a prophet is not without honor save in his
+own country, and unusual characters are often misunderstood
+in their homes, where they are looked upon as "odd." Saturn,
+the planet of obstruction, is principal ruler of the first house
+which describes conditions during childhood. He is in the
+fourth house, which signifies one of the parents, and in op-
+position to Jupiter in the tenth house, which describes the
+other. This shows that there is a difference of opinion
+
+
+26 YOUR CHILD'S HOROSCOPE
+
+between the parents, or that it will develop, so that one will
+want to restrain Elizabeth's tendencies and mold them in the
+conventional channels as shown by Saturn, while the other
+will favor expansion as signified by Jupiter. Caution and
+conservatism are good, but too many “don’ts” are apt to
+spoil life for children and make them long to break away.
+The parents thus lose their chance to guide an Ego that came
+to them for help. Parents should realize that it is wrong to
+demand that, because they love a child, that child must efface
+itself entirely and do just as the parents wish. The child
+has come into the world to get a certain experience, and must
+work out its own destiny. It is a crime to deprive it of this
+right, and it is reprehensible to a superlative degree to use filial
+love as a whip to enforce obedience.
+
+The opposition of Uranus, the planet of spasmodic action,
+to Neptune, the planet which, physically considered, brings
+confusion, in the sign Cancer, which rules the stomach, shows
+that Elizabeth will develop a strange taste in food. How-
+ever, there is nothing to show that her method will have a
+detrimental effect on the system, and it must therefore be
+rational, whatever it is. Saturn, the planet of obstruction is
+in Taurus, the sign which governs the throat. He is opposed
+by Jupiter, the planet of expansion. This shows a tendency
+to enlarged tonsils. Be careful not to remove them, for at
+the time of puberty they will become normal again. The
+Sun, Mars, and Jupiter in Scorpio, the sign which rules the
+private parts, shows that the menses will be extremely copious,
+but do not be alarmed; there is no indication of danger, and
+in time the condition will subside. Be careful to strengthen
+the throat in childhood; that may prevent the swollen tonsils.
+
+
+YOUR CHILD'S HOROSCOPE 27
+
+JAMES M. J. - BORN Nov. 19, 1911, LOS ANGELES, CALIF.
+
+Here we have a youngster with Saturn rising in Taurus,
+opposition to the Moon. An afflicted Saturn is cruel, relent-
+less, and obstructive. Taurus is fixed and stubborn, deter-
+mined to have its own way; Scorpio is also unfeeling and
+without sympathy, and the Moon takes on the nature of the
+sign it is in. So if there were no other influences to be
+considered, we would have to judge that James is extremely
+selfish, cruel, and unsympathetic. But Venus, the planet of
+love, is in good aspect to Mercury, the planet of mind. This
+at once takes the edge off the indication of cruelty, and the
+spiritual influence of the Sun conjunction Jupiter, the planet
+of benevolence, cannot be underestimated as a factor in
+mellowing the nature. Thus, by synthesizing the auguries,
+we come to the conclusion that James is going to be very
+strong-willed, and determined to have his own way, but
+although he may at times, under adverse planetary conditions,
+seem cruel and unsympathetic, there is nevertheless a noble
+and kindly side to his nature. This side should be fostered
+by the parents to the utmost of their ability.
+Scorpio, the great healing sign, being so strongly fortified
+by the presence of the Sun, Moon, and Jupiter, shows that
+James will make an excellent surgeon, and that is a vocation
+where there is more scope for kindness and cruelty than in
+any other profession. By vivisection and experimental opera-
+tion a surgeon may cause unspeakable misery to his fellow-
+men and animals. He may also earn the everlasting gratitude
+of sufferers by constructive surgery. If the parents can sup-
+
+
+28 YOUR CHILD'S HOROSCOPE
+
+press the cruel side of James' nature and foster the kindly
+side, they may make him a great benefactor to the world
+and make it possible for him to attain a most wonderful soul-
+growth. They have a great opportunity, and a great respon-
+sibility. May God help them to bring out the best in their
+child.
+Should it appear, however, that he does not soften as
+readily as hoped for, beware of letting him go into the medical
+profession, for when he sees blood it will harden his nature
+further. God has provided another way for him which will
+automatically soften the nature. We find Venus, the planet
+of art and music, in her own sign, Libra, which expresses the
+beautiful and noble. She is well aspected by Mercury, the
+planet of mind, and Mars, the planet of dynamic energy,
+showing that James has musical ability. The Sun and
+Jupiter are also in good aspect to Neptune and Uranus from
+the seventh house, which indicates the public. Neptune gives
+an unusual touch to the musical temperament, which makes
+those who have it different from the general run of musicians.
+This is perhaps the safest road for James, or it may be that
+with music as a safeguard he will be all right as a healer.
+That will be for the parents to judge, but they should not
+by any means neglect cultivation of the musical talent even
+if it is decided to let him pursue the medical profession.
+Saturn in Taurus will make James frugal in his food; the
+Moon in Scorpio will make elimination of waste almost too
+free, and as the Sun, the giver of life, is conjoined with the
+expansive Jupiter, we may judge that James will have a very
+long life and good health. Saturn in Taurus gives him a
+tendency to cold in the throat, and Mars in Gemini shows
+
+
+YOUR CHILD'S HOROSCOPE 29
+that it may settle in the apex of the lungs. Look out for him
+in those respects, and should the tonsils swell, use massage;
+once he is past the fifteenth year, that trouble will disappear.
+With respect to the financial prospects we find that James
+will be well taken care of, for the Sun is conjoined with
+Jupiter, the planet of opulence, and anyone with Saturn
+on the ASC is bound to be thrifty. If he spends his money,
+he is going to get full value. Mercury, the ruler of the
+second house in good aspect to Venus, the planet of art,
+shows that he may become a collector of art and use consid-
+erable money to gratify that desire. This will be good as
+it brings out the best side of his nature.
+
+STEPHANA ENDORA H. — Born January 14, 1913,
+6:25 a.m., Denver, Colorado.
+
+Capricorn was rising at the time of Endora's birth, and
+that is not usually very propitious as it favors gloom and
+timidity. In this case, however, we find that Mars, the planet
+of dynamic energy, which is exalted in Capricorn, is right on
+the ASC, in conjunction with Mercury, the planet of reason,
+and Jupiter, the jovial planet always ready with a hearty
+hand-shake and a beaming smile. This makes Endora dif-
+ferent, particularly as all these planets are sextile to Venus,
+the planet of love. The Sun is also in the first house to
+brighten the temperament and disposition. This will give
+Endora a very happy childhood, but she will have to hew her
+own road to success in life. Of course, she will be the better
+for it, as it will give her more strength and self-reliance
+
+
+30 YOUR CHILD'S HOROSCOPE
+wherewith to overcome the underlying Capricornian timidity.
+The Sun signifies the Spirit, the individual Self, and it
+is trine to Saturn, the planet of persistence, showing that no
+matter what obstacles may be placed in her way, she will in a
+quiet, persistent manner achieve her own ends in the course
+of time. Mercury, the planet which governs the reasoning
+mind, being in conjunction with Mars, the planet of dynamic
+energy, and Jupiter, the planet of benevolence, shows that she
+has a keen, noble mind, extremely alert, both to the practical,
+artistic, and idealistic sides of life. The practical side comes
+from Mars, the love of beauty from Venus, and the elevated
+ideals and general success in life are shown by the conjunc-
+tion of Mercury with Jupiter.
+Venus, the planet of love and attraction, is in the second
+house in Pisces, her exaltation sign, where she is particularly
+strong, and her sextile to the three above named planets,
+particularly her configuration with Jupiter, the planet of
+opulence, shows that Endora will have an affluence with
+which she will be very generous. The trine of the Sun to
+Saturn, the planet of tact and diplomacy, in the fifth house,
+the house of speculation, shows also that she will be thrifty
+and will be capable of making shrewd investments to make
+what she has earn a still further increment.
+We know that every rose has its thorn, however, and that
+nothing in life is perfect as yet. Therefore it is not surprising
+to find that there is also another side to Endora's mind and
+disposition, and the lessons she has to learn are shown by the
+Moon in Aries, square to Mercury, the planet of mind, from
+the third house. This house signifies the mentality and also
+travel. The Moon shows the instinctual mind and it is
+
+
+YOUR CHILD'S HOROSCOPE 31
+strengthened by being in Aries, the part of the zodiac which
+governs the head and brain. From this configuration we
+learn, in the first place, that it will be best for Endora not to
+travel, as change will always bring her loss and trouble.
+That is not the worst, though. It gives her a superficiality,
+so that at times she will want to flit from subject to subject,
+taking up this, that, and the other study or work, and
+finishing nothing when transits or progressed positions of
+the planets bring this configuration into activity. If this
+habit is allowed to grow, it will interfere seriously with her
+work, and her memory will also be affected. It should,
+therefore, be the aim of the parents to look out for and dis-
+courage this tendency, while fostering the other good sides
+of the mentality of the child.
+
+Besides the splendid mental qualities which are shown
+in this horoscope, you will also find that Endora will develop
+a surprising dexterity. She will be able to turn her hand to
+anything, and the way she will make work fly with little or
+no seeming effort will be amazing to all who see it.
+
+Among other things, too, you will find that the exaltation
+position of Venus in Pisces with the configuration to Mer-
+cury, Mars, and Jupiter, will make her quite an able musician
+with an uncommon spirit in the rendition of the themes
+she chooses.
+
+There is one field of life, however, where her path will
+be the very reverse of smooth: courtship. Saturn, the planet
+of obstruction, in the fifth house, which governs the attrac-
+tion of the sexes, always makes matters very difficult, if it
+does not entirely forbid them. In this case though, we find
+that Saturn is trine to the Sun, which is the significator of
+
+
+32 YOUR CHILD'S HOROSCOPE
+marriage for a woman. Therefore, we may judge that
+Endora will by patience and persistence finally find the
+craved companionship — and she will crave it. There is in
+her a very strong love nature, shown by the sextile of Venus
+to Mars, Mercury, and Jupiter. Therefore the denial of this
+relationship would be to her a loss of all that is worth while
+in life. However, no matter how good the aspect of Saturn
+is to any planet except Mercury or possibly the Moon, where
+it steadies and deepens the mind, there is always some little
+hitch in the benefit received. It is the nature of Saturn to
+restrain, and in a case like this where he is configurated with
+the Sun in a woman's horoscope, we may judge that however
+kind and good the husband may be, he tends to act as a
+damper upon her in a certain sense, especially as the Sun
+is in the saturnine sign Capricorn. You will find that the
+women born between December 21st and January 21st, when
+the Sun is in Capricorn, usually marry men who hold a
+heavy restraining hand over them, especially if the Sun is
+adversely configurated with Saturn by conjunction, square,
+or opposition. Even the trine, as here in Endora's horoscope,
+will make itself felt to some extent. Usually it is most difficult
+to escape from the things signified by Saturn, but there may
+be an escape for Endora from this condition if you instill
+into her from babyhood the idea that we are all Spirits and
+equal in the scheme of evolution, so that no matter if for
+the present life one is manifesting in a male or a female
+body, everyone has the same fundamental rights and pre-
+rogatives; no one is entitled by marriage or any other rela-
+tionship to dominate anyone else. Teach her that it is the
+duty of everyone to guard his or her own individual rights
+
+
+YOUR CHILD'S HOROSCOPE 33
+and refuse to submit to undue influence or authority, because
+now it is our task to evolve individuality, and habits of self-
+abusement are subversive of attainment of that end.
+Endora's general health will be good except at such times
+when the erratic streak spoken of comes to the surface and
+makes her restless. Then the Moon square to Mercury,
+which has rule over the nervous system, is apt to cause a
+temporary general state of nervousness. The position of the
+Sun and Neptune affecting the region of Cancer, which
+governs the stomach, shows also that at such times an attack
+of nervous indigestion may manifest itself. In this case,
+however, there is little wrong with the body. What you will
+have to work with is the mental condition, for that will be
+the cause of any passing disturbance to the health.
+
+JOHN ALLEN HEINE-Born August 4, 1913, 2:30 a.m.
+New York City.
+
+The first thought that strikes us on seeing this horoscope
+is a doubt if John will live, for Cancer, a sign of slight vitality,
+is rising, with its ruler, the Moon, squared by Saturn, the
+destroyer. Doubt is soon dispelled though, by the observa-
+tion that Saturn receives the sextile of the life-giving Sun,
+and the Moon is well aspected with Jupiter, the planet of
+vital magnetism. These aspects give John sufficient life force
+to carry him through. At the same time, it is evident that
+he requires more than ordinary care, and as the affliction
+of Saturn comes from Gemini, which rules the lungs, he
+should be specially guarded against cold for it is apt to settle
+
+
+34 YOUR CHILD'S HOROSCOPE
+in the chest. If it is possible to migrate to a less rigorous
+climate, it would undoubtedly be well to do so. Breathing
+exercises and gymnastics rationally practiced during childhood
+will strengthen the chest and give him resistance in later life.
+If right methods are followed John will be as strong as any
+ordinary boy.
+When we investigate John from the standpoint of men-
+tality, we meet with a very different person; there he is
+almost a giant. Mars, the energizer, in the mercurial sign
+Gemini, trine to Uranus, the planet of intuition, in the
+intellectual sign Aquarius, shows that John has an energetic,
+quick mind which grasps things instantly the moment they
+are presented. Saturn, the planet of obstruction, in Mercury's
+sign Gemini and sextile to that planet, gives depth to the
+mind and the ability to reason correctly. The Moon, signi-
+fying the instinctual mind, is also in a mercurial sign, Virgo,
+trine to Jupiter, the philosophic planet, adding its testimony
+to the excellency of John's mental capacity. John will have
+some very advanced ideas on social and economic problems,
+which will bring him into a public work of a benevolent
+nature. He will be successful in that work. This is shown
+by Jupiter, ruler of the sixth and tenth houses (which
+signify the nature of the service one renders in the world
+and the social standing), trine the Moon, ruler of the second
+house, which shows the financial reward of service. Saturn,
+the planet of deceit, in the twelfth house, the house of sorrow
+and secret enemies, square the Moon, shows that he will not
+escape the usual fate of all who endeavor to work for the
+uplift of their fellowmen. He will be slandered and traduced,
+but as Christ said: "Blessed are ye when men shall accuse
+
+
+YOUR CHILD'S HOROSCOPE 35
+you falsely for my sake.”
+There is only one thing about this horoscope which we
+regret: Venus, the planet of love in its ordinary human
+application, is unaspected in the twelfth house. John will
+meet sincere regard from all who come in contact with him
+in his work, but few, if any, will reach into his life and love
+John for himself; he will be a recluse and a lonely soul. At
+least, such is the tendency, and the mother should endeavor
+to supply the want of love if possible. Every human being
+craves in its innermost heart that deepest of all sympathy, and
+no matter how well we may have fixed our hearts in God, we
+feel poor without that human touch. Christ Jesus felt sadder
+in Gethsemane because His disciples could sleep while He
+was in such anguish, and everyone who has been through
+the smaller gardens of aloneness knows what that means. If
+he will let you be his companion on those occasions, you will
+both be blessed.
+
+JANET BARBARA H. — Born January 1, 1904, 11:50
+a.m., Leicester, England.
+
+At Janet's birth we find the martial sign Aries rising and
+the three other cardinal signs are on the other angles, show-
+ing that she has an abundance of energy and that the life
+will be a very active one. The planets in her horoscope are
+scattered all over the figure, so that she will be versatile and
+able to take care of herself under any and all circumstances.
+If she does not succeed in one thing she will take up some-
+thing else and never become discouraged.
+The Sun is at the zenith point, to endow her with vitality
+
+
+36 YOUR CHILD'S HOROSCOPE
+and give her good cheer throughout life. The Moon, which
+is the particular significator of health for a woman, is trine
+to Mars, the reservoir of dynamic energy, and Saturn, the
+great obstructer, is unaspected, so that there is every prospect
+of a long life in good health before Janet. However, Saturn
+always does some damage to the part of the body where he
+is located, or its opposite point, and as he is in Aquarius,
+we may therefore judge that in the latter part of life he will
+obstruct the circulation in the ankles and slightly check the
+heart. Seeing that he is unaspected, however, the effect will
+probably be very slight, so that it may scarcely even be felt.
+With respect to the mental capacities, we note that Venus
+is sextile to Mercury and Moon; Mercury and Venus are
+parallel so that she will be of a kindly and sympathetic dis-
+position. Because of Moon trine Mars, she will always seek
+the friendship and companionship of man in preference to
+woman, and she will benefit by them, for Mars is in the
+eleventh house signifying friends. This configuration also gives
+her a good income, but she will be rather prodigal with it and
+therefore liable to financial ups and downs.
+The Sun near the Midheaven in the cardinal sign Capri-
+corn shows that Janet will rise in life by the help of people
+in a higher social position, and she will probably obtain em-
+ployment in connection with the government.
+We find Jupiter, the planet of benevolence, in Pisces, the
+twelfth house sign, intercepted in the twelfth house and
+square the Moon. This gives us the key to Janet's principal
+fault and the trouble it will give her in life unless it is over-
+come. Being so extremely efficient herself, she will find it
+hard to allow for the deficiencies of others, and this lack of
+
+
+YOUR CHILD'S HOROSCOPE 37
+
+tolerance will make enemies for her. Though they will not
+be able to hurt her permanently, we cannot escape the fact
+that we always suffer ourselves in some way when we hurt
+others. If you will impress upon her the necessity of being
+tactful and tolerant of other people's feelings there is no
+question that it will help her considerably in life.
+According to the horoscope, there is no tendency to indis-
+cretion in her association with young men whom, as said, she
+will seek in preference to young women, and we do not think
+that ever the breath of slander will come near her. Never-
+theless, Mercury and Venus are in Scorpio, the sign which
+rules the generative organs, showing that sex will play some
+part in the attraction, and it would, therefore, be well to
+show her the womanly woman as an ideal so that by a cor-
+rect manner and conduct she will be her own protection.
+Uranus, the planet of intuition, and the Moon, the symbol
+of the dreamer, are in Gemini and Sagittarius, the signs signi-
+fying mind. This shows that Janet will be intuitive and may
+probably seek to delve into the occult, but as the Sun is in
+opposition to Neptune, the latter in the psychic sign Cancer,
+she ought especially to beware of ever becoming entangled
+with spirit controls. However, upon second thought, we
+believe that Janet will be quite safe in this respect, on account
+of her otherwise positive nature. But forewarned is fore-
+armed, and should ever the occasion arise, it will be best
+for her not to have anything to do with spiritualistic phe-
+nomena, for that is playing with fire.
+
+
+38 YOUR CHILD'S HOROSCOPE
+
+VICTOR, L. S. — Born Sept. 17, 1913, 12:14 p.m., Los
+Angeles, California.
+
+At the time of Victor's birth the aspirational sign, Sagit-
+tarius, was rising, with Jupiter, its ruler and the planet of
+opulence, in the first house. This is a very fortunate posi-
+tion so far as health and vitality are concerned, for the opu-
+lence which expresses itself in financial fortune to the favorites
+of Jupiter is also operative in giving health and strength when
+it comes from the angle which determines these factors in
+life. As wealth can never compensate for health, one on
+whom Jupiter bestows the latter is surely much more to be
+congratulated than when it merely takes the form of material
+means, which is often a source of evil in other directions.
+Therefore, we may say that Victor drew a good prize in this
+life when he was born with a fundamentally healthy consti-
+tution. Saturn, the obstructer, is in Gemini, the sign which
+rules the lungs, but he is sextile to both Venus and the Moon.
+This should offset his square to the Sun and give Victor a
+life of general good health, and when sickness does come at
+rare intervals he should be able to throw off the effects and
+recuperate easily.
+
+With respect to the disposition, a number of conflicting
+influences are noted. Venus, the planet of love, is trine to
+the Moon, which is the significator of the instinctual mind,
+showing an underlying kindly disposition. But we find Saturn,
+the planet of obstruction, square to the Sun, which is the
+giver of life, light, and joy. This shows gloom and the
+gloom is deepened by the fact that the Sun is in conjunc-
+tion with the saturnine Dragon's Tail, and with Mercury
+(combust), the significator of the concrete mind. We also
+find that this configuration takes place in the ninth house,
+ruling the higher mind. Thus we have before us an Ego that
+tends to wrap itself in a garment of gloom and draw apart
+from its fellows, an exceedingly unfortunate tendency, for
+
+
+YOUR CHILD'S HOROSCOPE 39
+by the process of brooding over their troubles, whether they
+are real or fancied, these people build around them a shell
+which is really and truly like a cage in which the Spirit is
+imprisoned. Furthermore, such people are exceedingly diffi-
+cult to help, for they resent any effort to get them out of
+their shell as an insult or an injury, and regard those who
+want to befriend them as their worst enemies.
+Fortunately, though you have come to us at a very early
+age of your child, The invisible vehicles are still in the mak-
+ing, so we hope and pray that you may be able to save this
+Ego from such a terrible fate. In the first place, no matter
+what he does, be sure that you do not scold him, for he
+will be exceedingly sensitive to harsh treatment and take the
+slightest words very much to heart. Do everything you can
+to make his childhood cheerful, and particularly see that:
+he spends as much time as possible out of doors with the
+birds and the flowers. The trine of the Moon to Venus,
+the planet of art and beauty, will give him a keen sense of
+enjoyment in that direction, and we hope it will keep the
+door to his heart open so that the sunshine of life will dis-
+pel the gloom of Saturn.
+Another configuration which we find bearing upon Vic-
+tor's mental condition is Neptune sextile to the Sun and
+Mercury. Mercury, the planet of reason, is, as said, afflicted
+by its conjunction to the saturnine Dragon's Tail and is also
+combust, too closely under the Sun's rays, a position that
+burns up the qualities of the planet so placed. There-
+fore, we may judge that Victor will not be a good reasoner
+but will have something better to guide him. Neptune is
+the higher octave of Mercury, and the sextile mentioned
+will give him the solution to his problems without the ne-
+cessity of reasoning them out beforehand, but after he has
+arrived at a conclusion he will be able to give a reason why
+that is the best way out in a given situation. That is the
+difference between the actions of Uranus and Neptune. Both
+
+
+40 YOUR CHILD'S HOROSCOPE
+planets enable us under certain configurations to solve our
+problems without the process of reasoning. When we ar-
+rive at a result through the medium of Uranus, we know
+only that so-and-so is the best solution, or that so-and-so
+is a fact; we cannot tell why. If the Neptunian ray is used
+to solve our difficulties, we know both the answers to our
+problems and the reason, without having recourse to the
+faculty of logic.
+In his dealings with others, the sextile of Saturn, the
+planet of tact and diplomacy, to the Moon, will give Vic-
+tor these qualities so that he will not act on impulse, but
+always deliberately and with forethought.
+When we look for his faults in order to help him by
+suppressing them before they have a chance to make them-
+selves manifest, we find that Mars, the planet of dynamic
+energy, is square Mercury, the planet of reason. This
+shows that there will be an abundance of mental activity.
+He will conceive thousands of schemes and will make res-
+olutions, but will lack the patience and persistence to carry
+them out. If this tendency is allowed to manifest and ma-
+ture, it is going to be the worst drawback to his success in
+life; you must therefore endeavor to help him to develop
+constancy of purpose. Saturn, the planet of persistence, sex-
+tile to the Moon, helps to minimize the tendency, but it
+will nevertheless require considerable work on your part to
+impress upon him from the earliest childhood that what-
+ever he starts he must carry out to the end. Do not let him
+start to build a house with blocks and tear it down before
+it is half finished to make a gate, leave that partly done and
+go on to doing something else, but coax him, help him,
+
+
+YOUR CHILD'S HOROSCOPE 41
+prod him, do whatever you can to get him to finish the
+the house first—and use a similar method in all other re-
+spects. Teach him to do one thing at a time and devote his
+whole energy to that, to the exclusion of everything else, until
+that thing has been completed.
+
+DORIS A. — Born March 26, 1915, 4 a.m., Texas.
+
+At Doris’ birth, four common signs were on the angles,
+and the Moon, which is the planet of dreams, was in con-
+junction with Neptune on the cusp between the psychic
+sign Cancer and Leo. This will give Doris a tendency to
+dream her life away. She will want to live in a beautiful
+fairyland of sublime visions, but will not be inclined to exert
+herself so that her dreams may come true. She is going
+to have an easy life for there is not a single unfavorable as-
+pect in the figure. It is from such aspects that we get the
+shocks and jolts which cause us to exert ourselves and climb
+the pathway of life. Therefore, in kindness to her you must
+supply the missing incentive so that she will have to do her
+share of the world’s work in looking after herself, and after
+others as well; the only real happiness comes by feeling that
+you have some mission and are filling a place in the family
+or community.
+
+The Sun is strong in his exaltation sign Aries on the
+second cusp, where he has rule over the finances. He is
+trine to the Moon, which is placed in Leo in his own sign.
+This shows that Doris will always have plenty of the world’s
+goods to do with, which gives her an added responsibility,
+
+
+42 YOUR CHILD'S HOROSCOPE
+for in the final analysis we are only stewards of that which
+we possess. Unless we put it to good use we shall some-
+times have to give an account for our misconduct of the
+affairs entrusted to us. Therefore Doris’ education ought to
+include the right use of money, how to distinguish between
+thrift and meanness, generosity and lavishness, discrimina-
+tion in giving, etc. She will be so placed in life that she
+will have the opportunity to give to others, but no matter
+how generous she may be, unless she learns to give herself
+with her gifts it will have no value from the spiritual point
+of view. This will require an expenditure of energy which
+she may not like to make unless her early training develops
+a sense of duty which will impel her from within to over-
+come the tendency to self-indulgence shown by the horoscope.
+Doris' mental qualities are good, for Mars, planet
+of dynamic energy, and Jupiter, the planet of benevo-
+lence, are in conjunction with Mercury, planet of the
+concrete mind. Mercury rises before the Sun, which along
+with the trine configuration of the Sun with the Moon,
+shows an un-commonly bright mind. Moreover, Saturn is in
+the mercurial sign Gemini and thereby strengthens the power
+of concentration so that Doris is going to make herself felt in
+whatever circle she is placed in life. Everyone instinctively
+recognizes and bows to a superior mentality, especially when it
+is not domineering but kindly and considerate, as indicated
+by Jupiter conjunction Mercury. Venus, the planet of love,
+in the humane sign Aquarius and in the twelfth house which
+denotes prisons and hospitals, gives us the impression that she
+may eventually takes up some work in connection with insti-
+tutions of that class. At any rate, whatsoever work she may
+
+
+YOUR CHILD'S HOROSCOPE 43
+do in the world will have some connection with charity.
+With respect to the health, we find that Doris has an ex-
+cellent constitution. Jupiter, Mercury, and Mars on the As-
+cendant, as also the placement of the Sun in its exaltation
+sign Aries in the first house, in trine to the Moon, which rules
+the female functions, are all evidences of a splendid constitu-
+tion, which will stand all the ravages of time. Should at any
+period of life passing planetary conditions cause illness, it will
+be short, and she will recuperate so quickly that it will sur-
+prise all.
+The weakest point in the chart is shown by Saturn in
+Gemini, which rules the lungs, but even there a trine to Venus
+protects her. So, taken in its entirety, this is an extremely good
+horoscope, save for the fact that it shows none of the troubles
+which we need to make life really worth while from the
+spiritual point of view. We therefore trust that Doris will
+find in other people's lives the sorrows that will awaken in
+her the needed sympathy.
+
+LINZEE G. - Born April 1, 1911, 11 a.m., Hyannis,
+Massachusetts.
+At the time of Linzee's birth the weak sign Cancer was
+rising, with Neptune there square to Mercury. If this were
+the only testimony concerning her constitution, it would show
+a very low vitality, but the Sun, which is the giver of life,
+and Mars, the planet of dynamic energy, were both elevated
+at the time of Linzee's birth, and in good aspect. Both of
+these planets are strong vital energizers and their position
+
+
+44 YOUR CHILD'S HOROSCOPE
+and aspect will do much to counteract the other influences
+and strengthen the brain and constitution.
+While we are upon the subject of health, we may also
+note that Saturn is singularly free from bad aspects in this
+horoscope, so that in this way there is also an indirect strength-
+ening of the nature. However, it is a rule, which we have
+never known to fail, that even apart from bad aspects the
+place where Saturn is found in the horoscope is always a
+weak point and apt to bring suffering. We may, therefore,
+judge that the presence of Saturn in Taurus, the sign which
+rules the throat, shows a liability to cold in that part of the
+body, and probably a swelling of the glands which may some-
+times obstruct the passages. Do not, however, wrap her up
+in order to save her from colds, but instead, try to inure
+her to cold and strengthen the throat so that she may be-
+come immune.
+The Moon and Venus are placed in Taurus in opposi-
+tion to Jupiter in Scorpio, the sign which governs the gen-
+erative organs. As the Moon rules the tides in the universe,
+so does it rule the fluids of the body and particularly the
+periodical flow at the monthly periods, and this opposition
+will have a tendency to make the menstrual flow exceedingly
+copious. It will, therefore, be particularly wise to instruct
+this child concerning the changes which take place at puberty,
+so that she may not be unduly frightened and will know how
+to care for herself when that time comes.
+With respect to the mind, we find that Saturn, the planet
+of obstruction, is in conjunction with the Moon, signifying
+the instinctual mind. This gives equipoise and the ability to
+
+
+YOUR CHILD'S HOROSCOPE 45
+
+concentrate. It may, therefore, be called a very fortunate con-
+figuration with respect to the mental qualities, but Mercury,
+the planet of reason, is square to Uranus, the planet of intui-
+tion. This position also gives mental activity, but makes the
+person who has it apt to jump at the wrong conclusion and
+to become critical, sarcastic, skeptical, and impulsive in
+speech. Naturally a person of such a turn of mind is not a
+favorite among her associates, and if that phase of her char-
+acter is allowed to develop, it will bring her trouble with
+friends and relatives, make her exceedingly restless under all
+conditions, and anxious to seek new fields, no matter how
+well she may be off where she is. That is an extremely un-
+fortunate trend, and you should do your best to counter-
+act it by discouraging, under all conditions, criticism and
+sarcasm. Teach her that no matter where she goes there will
+always be troubles with someone, that nothing is perfect in
+this world, and therefore it will be better for her to try to fit
+into conditions where she is than to run from one place to
+another.
+
+Mercury is also square to Neptune, its higher octave, and
+this position will tend to make her irresolute, vacillating, and
+dreamy; psychic phenomena will have an almost uncanny
+attraction for her. When anyone approaches the invisible
+world under such a configuration, he or she always comes
+into contact with the least desirable element there. Medium-
+ship is an exceedingly dangerous matter, and you should never
+allow her to attend any place, meeting, or circle where there
+is the slightest chance that she may come in touch with those
+undesirable conditions.
+
+
+46 YOUR CHILD'S HOROSCOPE
+The Sun is the general significator of the marriage part-
+ner for a woman, and the sextile between the Sun and Mars
+will make Linzee exceedingly attractive to the opposite sex;
+this constitutes a danger during courtship. We find also that
+Jupiter, the planet of benevolence, attraction, expansion, and
+joviality is in the fifth house, which governs courtship, in the
+sign Scorpio, which rules the generative organs, in adverse as-
+pect with Mars, which signifies the suitors. This shows that
+no matter how good and pure her own thoughts and ideals
+may be, she will be extremely liable to insults. The Moon
+and Venus in opposition to Jupiter, together with Mercury
+square Neptune, shows that she is apt to be slandered whether
+or not she has done wrong. This is a very sad fate which
+has spoiled and embittered many a life, and the parents should
+therefore endeavor to teach Linzee from the earliest child-
+hood days the virtue of circumspection and the avoidance
+of even the slightest appearance of evil.
+Fortunately, as we have often said before, the horoscope
+shows only tendencies. The stars have no power to compel
+us to do anything contrary to our own will, and we may
+therefore alter our horoscope by sufficient will power. There
+is no configuration so evil that it may not be turned into
+a stepping stone to good, especially when the matter is taken
+in hand during the days of childhood, and we therefore trust
+that you may be able to guide your child clear of the rocks
+by knowing just where they are placed.
+
+
+YOUR CHILD'S HOROSCOPE 47
+MARION S. – Born April 16, 1904, 11:30 a.m., Denver,
+Colorado.
+
+At the time of Marion's birth, the celestial sign Leo was
+rising, and its ruler, the Sun, was at the same time near the
+zenith in its exaltation sign, Aries. This will give Marion an
+abundance of vitality, force, and strength, so that she will ex-
+perience very little sickness in her life. When her health does
+fail under unfavorable planetary configurations it will only be
+for a short time and she will recuperate quickly. Saturn is
+square to Mercury from Taurus and Aquarius, both signs of
+voice. This shows that her throat will be one of the weakest
+points in her anatomy and that she will be liable to colds
+which will affect the voice. We also find that Mars, the planet
+of dynamic energy, is in conjunction with the Moon, which
+governs the female functions, and as this conjunction occurs
+in Taurus we may judge that there will be a reflex action
+felt in the opposite sign, Scorpio, which rules the genitals. This
+will indicate a tendency to copious menses, and the child
+is just now at the age when she ought be prepared for that
+event so that she will not be unduly frightened when it hap-
+pens.
+
+We find Jupiter, the planet of benevolence, and Venus, the
+planet of love in the ninth house, which governs the higher
+mind. This shows that Marion's disposition is basically kind
+and good. However, Mars and the Moon in Taurus, a sign
+which governs the tongue, voice, and expression, shows that
+she has a way of expressing herself impulsively and bluntly,
+so that she is exceedingly apt to give offense to people without
+meaning to do so at all. This is a tendency which you should
+
+
+48 YOUR CHILD'S HOROSCOPE
+
+by all means try to curb in her, for people naturally resent
+anything we may say when our manner is rough. We make
+enemies of them no matter how good our intentions were
+in the first place. It is always better to clothe one's words
+in a cloak of politeness and suavity, which will make friends
+for us, than to ride rough-shod over people and turn them
+into enemies. Seeing that this configuration occurs in a fixed
+sign, you will find it very difficult to change her and it will
+probably require hard knocks of life and experience. Never-
+theless, if you can point out to her how this is shown in
+her horoscope and the way to overcome it, perhaps it may
+have the effect of bringing about a cure quicker than would
+otherwise be the case. At any rate, there is no harm in trying.
+
+We also find that Saturn, the planet of diplomacy, is
+square to Mercury, the planet of mind and reason. This will
+give Marion a tendency to be untruthful, a proclivity which
+should certainly be curbed, for no one who practises decep-
+tion can ever be really happy and contented. There must
+always be a fear of detection and consequent disgrace, and
+then there is the penalty thereto that when people find a
+person to be a prevaricator, they never rely on his state-
+ment after that, taking everything else he says with a grain
+of salt.
+
+Marion has a good mind and a quick wit, for the Sun
+and Moon are highly elevated and parallel, both of them in
+their exaltation signs, even the square of Mercury to Saturn
+deepens the mind and makes it more capable of concentra-
+tion. Therefore, if you can reason these things out with her,
+we believe she will listen and take heed. Neptune is in the
+
+
+YOUR CHILD'S HOROSCOPE 49
+
+psychic sign Cancer and placed in the twelfth house, which
+denotes mediumship. It is square to Venus in the ninth house
+which governs the higher mind. This shows that Marion is
+sensitive, but if you should allow her to come into a spiritual-
+istic circle where there are invisible spirit-controls they would
+be very apt to seize upon her and force her into mediumship.
+You should, therefore, be very careful not to allow her to at-
+tend such seances or in other ways associate with people who
+have already attracted that kind of Spirits.
+
+With regard to Marion's financial circumstances, you may
+feel easy, for the Sun, which rules the second house, is high-
+ly elevated, exalted, and parallel to the Moon, all signs which
+show comfortable circumstances. The Sun is trine to Uranus
+in the fifth house, which indicates, among other things, edu-
+cational enterprises. Uranus is the planet of science. It is
+in the sign Sagittarius, which denotes religion, law or philos-
+ophy. The Sun signifies the government or employer in a
+high position. Therefore, we may judge that Marion will
+find her vocation in a government position connected with
+science and education, and she ought to shape her study with
+that end in view. This should be easy for her, for the Sun
+trine Uranus, the planet of intuition, will give her a quick
+solution to all her problems without the necessity of reason-
+ing them out.
+
+It is doubtful if Marion will want to marry, for Saturn
+is in the seventh house. If she does, it will be to a person
+much older than herself, and while it may advance her social-
+ly because the Sun is in the tenth house (the Sun is the gen-
+eral significator of marriage for a woman and the tenth house
+
+
+50 YOUR CHILD'S HOROSCOPE
+signifies the social position), it will be best for her not to
+enter into such a union, which is sacrilege unless there is
+mutual love. Besides, as said, she will by her own efforts
+become very comfortably situated and be much happier with-
+out marriage.
+
+
+50 YOUR CHILD'S HOROSCOPE
+signifies the social position), it will be best for her not to
+enter into such a union, which is sacrilege unless there is
+mutual love. Besides, as said, she will by her own efforts
+become very comfortably situated and be much happier with-
+out marriage.
+
+CARLOS DE U. - Born April 18, 1915, 10:15 p.m.,
+Brighton, England.
+
+Seeking the mental caliber of Carlos, we find that Mer-
+cury is in the martial sign Aries and that it rises before the
+Sun. This always makes for a bright mind. We also find the
+Moon in the mercurial sign Gemini and sextile to Mercury.
+This is another favorable indication. Then we find that Ura-
+nus, the planet of intuition, is in the intellectual sign Aquar-
+ius sextile to Mercury and trine to the Moon, showing that
+the youngster will have an exceptionally brilliant mind. Fur-
+thermore, Saturn, the planet of obstruction, is also in Gemini
+and sextile to the Sun so that it is absolutely safe to designate
+Carlos as a genius of an exceptional nature. Moreover, he
+will not be erratic, on account of the restraining hand of
+Saturn already mentioned.
+
+We would urge you, however, to be careful to restrain
+him during the earlier years, for both Mars and Sun are in
+Aries, which rules the head. This gives too much heat in
+the brain, and there is a square aspect between Saturn and
+Mars demanding caution. Let him learn whatever he wants
+to himself, be it little or much, but do not force him and
+try to make an infant prodigy of him, for that may have
+
+
+YOUR CHILD'S HOROSCOPE 51
+serious consequences. It is far better to train his body dur-
+ing the earlier years so that it may become a fit instrument of
+a great mind later in life. You should be especially careful
+in respect to his food, for Saturn is on the cusp of Cancer,
+which rules the stomach, and that means there is a tendency
+to indigestion if Carlos is allowed to have his own way with
+food. He will want to eat more than he can take care of on
+account of Mars in Aries.
+You will find that he is not going to be an easy child to
+bring up, with Mars, the planet of dynamic energy, in Aries,
+together with the Sun. He will be very impulsive and self-
+willed and Saturn being about to enter Cancer, the fourth
+sign which signifies the home, will render him resentful of
+parental authority in particular. We would therefore ad-
+vise that you mark out a definite line of conduct which
+will allow him freedom in all unessential things, so that you
+may not form the habit of always saying "Don't." But, on
+the other hand, the things which you settle by careful study
+of the matter as being essential and requiring obedience for
+the child's good should be enforced from the earliest child-
+hood.
+We do not believe in corporal punishment, but every
+child likes certain things which are delicacies, and if a dis-
+obedience is always followed by a denial of these things the
+child usually learns to bow to the will of the parents. You
+will also find that he has a temper, and if this makes it im-
+possible to guide him by ordinary means, it is a good plan to
+place a mirror in a corner of the room and seat the child so
+that he is forced to look into this glass and there see his face
+distorted with tears and anger. This treatment will quickly
+
+
+52
+YOUR CHILD'S HOROSCOPE
+make him smile and he can then be taken out of the corner.
+When you buy toys for Carlos, select those which are
+mechanical and electrical in preference to others, for as
+Uranus and the Moon are sextile to Mercury and placed in
+airy signs, it is evident that his talents will lie in the direc-
+tion of inventions that have to do with electricity and the air.
+For that reason toys of the nature suggested will help to bring
+out in him the latent ability to a much better advantage than
+if he were given dolls and blocks to play with. Neptune in
+the eighth house and in the psychic sign Cancer will give him
+a love of the occult, but as the Sun is square from the sign
+Aries which governs the head, his experiences in this direction
+will have a mentally disturbing influence. He is apt to be pes-
+tered by spirit controls and he should, therefore, be kept away
+from such things.
+
+HENRY F. - Born July 4, 1905, 12:30 a.m., Schenec-
+tady, New York.
+
+Here we have a youngster coming into the world amid the
+rejoicing incidental to the nation's birthday, with Taurus on
+the ascendant and the gentle Venus and Jupiter rising,
+sextile to the Moon and Mercury, significators of mind, thus
+giving him a benevolent optimistic disposition. Although this
+is somewhat toned down by the square of Saturn, the planet
+of obstruction, to Jupiter, the planet of benevolence, it will,
+nevertheless, have the tendency to turn the corners of Henry's
+mouth upward and give him a feeling of optimism even under
+trying circumstances. Thus he will become popular among
+
+
+YOUR CHILD'S HOROSCOPE 53
+his associates, for such people are always well received and
+much sought after. There is no truer saying than "Laugh
+and the world laughs with you, weep and you weep alone."
+Mercury is ruler of the second house, which governs fi-
+nances, and the Moon always brings into action any planet
+wherewith she is in aspect. We may therefore judge that the
+aspect of the Moon and Mercury to Jupiter, the planet of
+opulence, will give Henry an ample income. However, the
+eleventh house position of Saturn in the twelfth-house sign
+Pisces, square to Jupiter, shows that Henry's friends, particu-
+larly people who are older than himself, will cause him fi-
+nancial trouble unless he can learn in time to keep out of their
+clutches. He should be taught to discriminate between friends
+who only seek him for their own self-interest and to his detri-
+ment, and those who really seek him for himself.
+The conjunction of Neptune with the Sun in the psychic
+sign, Cancer, shows Henry to be mystically inclined, and the
+sextile of Mercury and the Moon to Jupiter and Venus will
+further accentuate the religious tendencies. Moreover, since
+Henry is not by any means a negative character he will profit
+considerably from these configurations without danger to
+himself.
+The indications regarding Henry's health are exceedingly
+favorable. Venus and Jupiter rising in the rugged sign Tau-
+rus give him a strong robust body, and the Sun, which is the
+giver of life, trine to Mars, the planet of dynamic energy,
+shows that he will have an abundance of vital energy all
+through life. There is only one adverse testimony: Saturn,
+the planet of obstruction, is square to Jupiter, the planet
+which governs the arterial circulation. This we believe is more
+
+
+54 YOUR CHILD'S HOROSCOPE
+than offset by the trine of Sun and Mars though it may give
+Henry poor circulation in the feet, which are governed by
+the sign Pisces, where Saturn is found. The sextile of Jupiter
+and Venus placed in the ASC in Taurus, sextile to Mercury
+and the Moon, shows musical talent, which should be cul-
+tivated. Probably that is the best vocation for Henry, for we
+find Virgo and Libra in the sixth house, indicating that his
+service to the world should come from Venus and Mercury.
+
+JOSEPHINE M. - Born May 10, 1905, 4:15 p.m.,
+Mountain Home, Idaho.
+
+Here we have a young lady with an exceedingly well-
+fortified seventh house. There we find the Sun, which for a
+woman is the significator of the marriage partner; Jupiter,
+the planet of benevolence; Venus, the planet of love and coa-
+lition, and Mercury, the principal significator of the mind.
+There can, therefore, be no question that Josephine's sphere
+of life is in the home. There are all the elements of suc-
+cess for her in this life. The Sun and Jupiter, the planet of
+opulence, on the cusp of the eighth house which indicates
+the finances of the marriage partner, shows that he will be
+well-to-do and generous.
+
+There is also an element of trouble immanent in this figure,
+though, which will come from Josephine herself, and unless
+it is checked it will mar her happiness. Mars, the planet of
+dynamic energy, is in Scorpio in opposition to the Sun and
+Jupiter. This will give her a very violent temper, and the
+marriage partner will be the particular victim thereof. We
+
+
+YOUR CHILD'S HOROSCOPE 55
+find the Moon, which is one of the significators of mind, in the
+sign of the heart, Leo, and square to Mercury and Venus in
+Aries, the sign of the head, showing that Josephine will de-
+velop an exceedingly jealous nature which may eventually
+cause a rupture in the marriage relation. On account of these
+indications, it is the first duty of the parents to strive from
+the very earliest childhood to teach her control of temper. She
+is now at an age where these things can be explained to her
+by the object lessons which, unfortunately, are only too fre-
+quent occurrences in our social life. She also has a strong
+tendency toward reckless extravagance on account of the in-
+fluence of Mars in the second house, which governs finances.
+This ought to be checked as much as possible.
+With regard to her health, Mars in Scorpio, opposition the
+Sun, shows a tendency toward copious menses, for Scorpio
+governs the genitals. It would therefore be well for the parents
+to instruct her carefully in advance of the occurrence so that
+she may know how to take care of herself and not become
+unduly frightened. Saturn in Pisces, the sign which governs
+the feet, shows a tendency to cold in these extremities, and
+for one with the aforementioned tendency that may cause
+serious consequences, which you would do well to guard
+her against in the severe northern climate where you are
+living. The Moon square Venus and Mercury also indicates
+disturbances to the health, particularly through over-indul-
+gence in pleasure and worry. There is a tendency to be
+very sarcastic and quicken-spoken, which you should en-
+deavor to curb by reasoning with her, for such an attitude of
+mind causes unpopularity, and the worry that follows has a
+reflex action upon the health. Fortunately, however, it is
+
+
+56 YOUR CHILD'S HOROSCOPE
+possible for a person who has the will to modify the influ-
+ences indicated in the horoscope and thus change the unde-
+sirable tendencies to something better.
+
+FRANCES W.- Born September 15, 1903, at 11 p.m.,
+Seattle, Washington
+
+Here we have a young lady of unusual ability in the occult
+direction. Uranus in the mental sign Sagittarius, sextile to
+Mercury, the significator of mind, shows her to be a very
+ingenious, independent, and original thinker; Jupiter, the
+planet of religion, in the zenith position, essentially dignified
+in the mystic sign Pisces, trine to Neptune on the ASC in the
+psychic sign Cancer, shows in another way an extreme oc-
+cult ability. Furthermore, as the tenth house shows the social
+position and prestige, we judge from Jupiter's presence there
+that she may in time attain a national or perhaps an interna-
+tional reputaton. The aspects being from watery signs show
+a great deal of travel in connection therewith, though it
+should not be forgotten that these testimonies are somewhat
+minimized by the fact that Jupiter is retrograde. However,
+it is certain that she has an unusual ability to delve into the
+occult.
+
+Frances' inspiration and intuition are far above the nor-
+mal, and the Sun conjunction Venus in the mercurial sign
+Virgo shows her to be of a kind-hearted and sympathetic na-
+ture, though the Moon square Mercury indicates that she
+may be very quick-spoken and impatient of others who do
+not grasp things as quickly as she. This tendency should be
+checked for it will make her unpopular if indulged and al-
+lowed to grow. From this aspect she also gets a tendency to
+worry over things which never come to pass, but perhaps that
+is natural for sensitives. They are very much exposed to the
+conditions of others, it being difficult to differentiate between
+
+
+YOUR CHILD'S HOROSCOPE
+57
+what really affects oneself and what comes from other peo-
+ple. At least, it takes an effort to make the distinction, which
+one is not always prepared to make, nor is one always con-
+scious that such an effort is necessery.
+The Sun and Venus sextile to Mars shows that Frances
+will be very popular and attractive to the opposite sex, which
+is both proper and legitimate. There is also a square of Sun
+and Venus to Uranus, the planet which loves liberty and hates
+conventionality. This means that unless she is very circum-
+spect she is likely to be taken advantage of and become the
+subject of a scandal. You will, therefore, do well to instruct
+her in regard to these matters and look after her very care-
+fully until she has finally settled down. However, you need
+have no fear regarding the ultimate outcome. The Sun con-
+junction Venus in the fourth house is one of the best testi-
+monies of a home life filled with love and happiness, especial-
+ly in the latter part of life, for it makes the fortunate person
+who has it so loving and companionable that all about her
+feel her charm. This aspect is also a good indication of com-
+fortable financial circumstances, so that, though there may be
+some trouble in life, it may be said that on the whole Fran-
+ces has a most fortunate life before her.
+With respect to health, we find that the Moon is rising
+in Cancer and square to Mercury in Libra. This shows a
+somewhat delicate constitution with the stomach and kidneys
+neys as the weaker points from which trouble may be expected.
+The constitution, however, is considerably strengthened by
+Mars, the planet of dynamic energy, sextile to the lifegiving
+Sun. Saturn is fortunately unaspected and retrograde but,
+nevertheless, he always makes some trouble wherever he is
+
+
+58 YOUR CHILD'S HOROSCOPE
+placed or from the opposite point. As he is in Aquarius and
+the opposite sign is Leo, which governs the heart, we may
+judge that it will have a slightly obstructive effect upon the
+circulation, and this will most probably be felt in the ankles
+which are governed by Aquarius. More damage is done to
+the heart during careless, impatient, impulsive youth than in
+after years, and as the constitution of Frances is none too
+strong, every slightest strain counts. We would, therefore,
+advise you to acquaint her with these facts so that she may
+learn to husband her energy from the earliest possible time,
+and thus prevent trouble in the later years.
+
+HENRY B. W. - Born Nov. 6, 1914, 9:20 a.m., Luling,
+Texas.
+
+Here is a youngster with a well-developed wanderlust, in-
+dicated by an essentially dignified Mars in the watery sign
+Scorpio on the ASC, trine to Neptune in the ninth house,
+which governs travel. The wandering Moon is posited in the
+mercurial sign Gemini to further accentuate this tendency,
+and the Sun square to Uranus, which is the great inculcator
+of personal freedom and liberty, shows that Henry will al-
+ways be looking for a change, always hastening toward the
+far fields that look so much greener than the ones where he
+happens to be. This is so ingrained in his nature that we
+believe it will be useless for you or him to combat it. It is
+not a bad tendency, either, for it certainly gives breadth of
+view and experience. It makes life interesting. People with such
+tendencies are rolling stones that gather no moss in the shape
+
+
+YOUR CHILD'S HOROSCOPE 59
+of worldly possessions, but they usually accumulate a fund of
+knowledge that is very valuable to the Spirit. After all is said
+and done that is what counts, for no one can take his mate-
+rial possessions along with him when he passes through the
+gate of death, but whatever knowledge he has acquired will
+stay with him through eternity. The trine aspect between
+Mars and Neptune shows, however, that Henry will enjoy
+the roving life and find a happiness therein, so that even from
+the standpoint of present conditions there are no regrets nec-
+essary.
+
+Mars, the planet of dynamic energy, rising in its own sign,
+Scorpio, will give Henry an abundant fund of physical vital-
+ity, but it will also give him the tendency to be quick-tem-
+pered and impatient with others. This tendency is modified
+by the mental significations, however, which are quite inter-
+esting. Mercury, the planet of mind and reason, goes be-
+fore the Sun, which is good, but it is too close to the Day-star
+and square to Jupiter. The Moon also, though placed in the
+mercurial sign Gemini, is unasepected. Thus Henry will never
+be a good reasoner. If he should rely upon that faculty in his
+dealings with the world he would always be subject to trouble
+and loss. But Venus, the planet of love, is sextile to Uranus,
+the planet of intuition, and Jupiter, the planet of benevol-
+ence. This modifies the other mental significations and
+smoothes out the temper indicated by Mars on the ASC in
+Scorpio, so that Henry will intuitively and without the use of
+his reasoning faculties arrive at conclusions which will gen-
+erally be found to be correct. We say generally, because the
+square aspect between Jupiter and Mercury affects this in-
+
+
+60 YOUR CHILD'S HOROSCOPE
+dication in a slightly adverse manner, but he will grow up
+to be an exceedingly bright young man with an inclination
+toward invention, particularly in the line of electricity and
+aerial instruments. The square aspect of Jupiter to the Sun
+and Mercury in the twelfth house shows that he ought to
+be careful in the way he handles these forces, for otherwise
+they will be somewhat dangerous to him.
+With respect to health we find that Saturn is in the sign
+Cancer, which rules the stomach. This shows that Henry
+ought to be careful in his diet or indigestion will result in time.
+If you teach him frugality by your own example and also
+preach this doctrine to him during childhood it will undoubt
+edly have a beneficial effect and save him much misery. Mars
+in Scorpio on the ASC shows a strong tendency toward con
+stipation, which is an adjunct of indigestion. The child should
+be taught from the earliest years to be regular in his elimina
+tion and always follow the call of nature, no matter where
+he is. Save for these two weak points the constitution is
+strong, and the general health will be good if he is taught to
+overcome the weakness indicated.
+
+MILDRED COSTA I. - Born Jan. 20, 1916, 9:38 p.m.,
+Los Angeles, California.
+
+Four cardinal signs were on the angles at the time of
+Mildred's birth, giving her an inherently active and rest
+less disposition. Uranus, the intuitional, spasmodic planet, is
+in conjunction with Mercury in the intellectual sign Aquarius.
+This gives her an original, intuitive, quick, and alert mind,
+
+
+YOUR CHILD'S HOROSCOPE 61
+with a tendency, however, to be very independent and resent-
+ful of restraint and restriction. She will want her way re-
+gardless of the conventionalities.
+The Moon, which is another significator of mind, is in
+opposition to Uranus. This will further strengthen the imag-
+ination and make it exceedingly fertile, so that we have be-
+fore us a very unusual character which the parents will find
+it very difficult if not impossible to train. Most of the planets
+are in fixed signs, and the saying "If she will she will, and
+you can depend upon it, if she won't she won't, and that's
+the end on it," applies with particular force to Mildred.
+However, you have seven years at least before you in which
+much good work may be done, and you have some unusual-
+ly promising material to work with before the vital body,
+which is the vehicle of habit, has set and the undesirable
+tendencies have become ingrained. She is very much in need
+of poise and self control to guide her unusual ability into
+proper channels, and now is the time for her to learn it, if
+ever. Be sure that you use moderation, though.
+Mildred has Saturn, the planet of obstruction, in Cancer,
+the fourth sign signifying the home. This shows the restrain-
+ing hand of parents, but it should be laid on as lightly as
+possible, for there is nothing that kills ambition and breaks
+the progressive spirit in a child as much as the parental
+"Don't, don't, don't."
+Financially, Mildred will be well taken care of, for the
+Sun, which infuses life into all things it touches and that come
+in contact with its rays, is sextile to Jupiter, the planet of
+opulence. Jupiter's position in the sixth house, which gov-
+erns service, shows that she will always be popular with em-
+
+
+62 YOUR CHILD'S HOROSCOPE
+
+ployers and other employees. She will indeed be so well liked
+that people in high and fixed positions signified by the Sun
+will, by their influence, secure her promotion to a place of
+prominence. Should she become an employer herself or have
+charge over other employees she will be very successful, and
+popular in the management of them, gaining much through
+them. Not se with respect to friends, though, for in the
+eleventh house we find the Moon in opposition to Uranus,
+and Mars in opposition to Venus. This shows that her friends
+will always seek to use her for their own benefit and then
+slander her behind her back. Therefore, Mildred should be
+very careful in the selection of her friends. People who have
+such original dispositions are always likely to be misunder-
+stood and therefore be the subject of slander.
+
+With respect to health, we find Uranus in conjunction
+with Mercury and in opposition to the Moon from the signs
+Leo and Aquarius, which govern the spinal column, and Nep-
+tune is in opposition to the Sun, which is also on the cusp of
+Aquarius. This will give Mildred a supersensitive, nervous dis-
+position which should not be unduly taxed. It is like a fine
+watch or chronometer which needs to be in a balanced frame.
+It is much more valuable than a cheap alarm clock but can-
+not stand the same rough treatment. So it is with Mildred.
+She is too sensitive to withstand severe nervous strain, and
+during the school period it will be best for her not to study
+too hard. She will learn far more intuitively than her school-
+mates by the hardest kind of a grind.
+
+The Moon, which governs the female functions, is in op-
+position to Uranus, the spasmodic planet, and therefore you
+may find her irregular in her menses, but the life-giving Sun
+is sextile to Jupiter, the planet of plenty. This gives good
+fortune and good measure in health as in wealth and hap-
+piness, counter-balancing the minor tendencies, so that on the
+whole Mildred will enjoy good health through life.
+
+
+YOUR CHILD'S HOROSCOPE 63
+ROBERT LEONARD L. - Born Oct. 18, 1907, 9:30
+a.m., Spokane, Washington.
+
+One glance at this horoscope is sufficient to show us that
+Robert will be a very versatile character. The planets are
+scattered over the greater part of the horoscope, and we find
+Mercury, the planet of reason, in the martial sign Scorpio,
+showing that he is mentally energetic, quick, and alert, though
+not impulsive, for Mercury is singularly well-aspected. It has
+a trine to Saturn, the planet of obstruction, which gives cau-
+tion, tact, diplomacy, forethought, and the ability to concen-
+trate deeply upon any subject so that he may know what he
+is going into before actually taking the venture. Mercury is
+also trine to the Moon, which is co-significator with him of the
+mind. This helps to strengthen the imagination and gives the
+ability to visualize the thoughts and ideas conceived by him.
+Finally, Mercury is trine to its higher octave Neptune, which
+is placed in the psychic sign Cancer. This will have a tenden-
+cy to bring Robert in touch with occultism, for the configu-
+ration occurs from the eighth and twelfth houses. It will make
+him sensitive to the vibrations from the invisible worlds and
+may be the means of giving him psychic experiences of a na-
+ture that will benefit him spiritually.
+
+We find Jupiter, the planet of religion and philosophy, in
+the ninth house, governing the higher mind. This will make
+Robert's nature benevolent, helpful, and sympathetic. It will
+give him high aspirations and bring him much esteem in the
+community in connection with social and religious work. The
+Sun and Venus placed in the eleventh house, the house
+of friends, hopes, and aspirations, is a good omen in that re-
+
+
+64 YOUR CHILD'S HOROSCOPE
+spect. Robert will meet with many friends, people higher in
+the social scale, who will help him advance in life. He will
+also find many friends among the opposite sex, but as Venus is
+sextile to Uranus, the planet of originality and independence,
+we may judge that his relations with them will be rather too
+unconventional.
+Venus in Scorpio square Mars, the ruler of Scorpio, will
+give him unusually strong sexual tendencies, and there are in-
+dications that this may bring him into trouble, besides sapping
+his vitality. We believe it would be wise for you to take
+Robert to a physician that it may be determined whether cir-
+cumcision is advisable. Where there is a superfluity of flesh
+there is also an irritation which additionally excites an already
+abnormal tendency, and the removal thereof does much to re-
+lieve the person afflicted with an intense passional nature.
+Saturn in Pisces, which governs the feet, shows that Robert
+will have a poor circulation in the extremities, which may
+react in the intestines governed by the opposite sign Virgo,
+but as Saturn is unafflicted there will probably be no serious
+inconvenience. Had this been a female horoscope the conjunc-
+tion with the Moon would have affected the health much more
+seriously by obstruction of the female functions. As it is, the
+effect will probably be confined to cold feet.
+In respect to finances, we see Uranus in the second house
+and sextile to Venus, and Mars also in the second, square to
+Venus. This shows that Robert will always have considerable
+money. He has an excellent earning power, but we also find
+that there will be a tendency to squander his substance on the
+opposite sex. He has already passed the plastic age, and un-
+fortunately the indications occur from fixed signs so that you
+
+
+YOUR CHILD'S HOROSCOPE 65
+will probably find it difficult to change him now. However,
+it is better to make the attempt late than not at all. We would
+advise that when you give him an allowance you should re-
+quire him to give an account of how he has spent it and advise
+him what is right and what is wrong in that respect. There
+is one blessing: he has a reasonable mind and you may be
+able to show him logically which is the best course for him to
+pursue. We would also advise that you teach him the sacred-
+ness of sex, together with the dreadful consequences attend-
+ant upon the abuse thereof. He has a very strong will power,
+and if you can convince him of these matters, it is quite pos-
+sible that he may be able to rule his stars in that respect. At
+least he will not go blindly into something with which he is
+unacquainted. His eyes will be opened and there is the pos-
+sibility that he may catch himself up sooner than if he is not
+warned at all.
+
+ARMINAE B. - Born June 11, 1915, 5:24 p.m., Seattle,
+Washington.
+
+At the time of Arminae's birth we find the energetic sign
+Scorpio rising and Mars, the ruler, sextile to Mercury. This
+gives her a quick and alert mind, able to grasp an idea the
+moment it is presented. At the same time, she is not impul-
+sive, for Mercury, the planet of reason, is in conjunction with
+Saturn, the planet of obstruction. This acts as a brake upon
+impulse and gives her the ability to concentrate upon what-
+ever subject comes under her notice, but unfortunately, this
+position also carries with it the tendency to the blues and evil
+
+
+66 YOUR CHILD'S HOROSCOPE
+forebodings, especially when placed in the lunar sign Cancer.
+The Moon, planet of imagination, is in the mercurial sign
+Gemini, trine to Uranus, the planet of intuition, placed in the
+intellectual sign Aquarius. This further sharpens the intellec-
+tual faculties so that it will not be necessary for her to reason
+upon things in order to arrive at a correct conclusion; she will
+gain the solution to her problems mostly by intuition. This
+configuration will also give her originality and independence
+of thought.
+
+With respect to marriage, we find that Venus, the planet
+of love, is essentially dignified in her own sign Taurus, sex-
+tile to Jupiter, the planet of benevolence, also essentially dig-
+nified in the sign Pisces. Venus is placed in the seventh house,
+indicating the condition of marriage, sextile to Neptune in
+the fourth sign Cancer, and Jupiter is in the fourth house.
+Thus conditions are extremely favorable for a happy
+marriage and a contented home life. But the Sun, which
+indicates the marriage partner in a woman's horoscope
+is on the cusp of the eighth house, indicating his financial
+condition, and square to Jupiter, the planet of opulence, in
+the fourth house. This shows that there is a liability to finan-
+cial difficulties and loss, but there are no indications of pover-
+ty. Quite the contrary.
+
+There does not seem to be any particular or glaring fault in
+Arminae, and the general state of the health is also good. Sat-
+urn in Cancer always gives a tendency toward some peculiarity
+in the choice of food, and if this is indulged in his conjunction
+with Mercury will cause nervous indigestion. But even this
+will probably not be of a very aggravated nature in her case,
+as the planets are full six degrees apart and therefore weak
+
+
+YOUR CHILD'S HOROSCOPE 67
+in their operation. So to sum up: the life is shown to be a
+quiet and contented one, passed mostly in the home and filled
+with the cares and pleasures of a family.
+
+ELLIS ELDON D. - Born Feb. 25, 1907, 3p.m., Harper
+County, Oklahoma.
+
+This is a strong horoscope, strong for good and for bad.
+There are four cardinal signs on the angles, giving Ellis an
+active, energetic nature. Saturn, the ruler of the Capricorn
+ASC, is in conjunction with Mercury. This deepens the mind
+and gives him power of concentration, but also a tendency to
+look upon the dark side of things. This, however, is consider-
+ably modified by a sextile to Venus, the planet of love, light,
+and cheerfulness, so that probably the gloom will not be as
+deep as otherwise. Furthermore, the life-giving Sun is trine to
+Jupiter, the planet of optimism, also to Neptune, and sextile
+to Uranus, the planet of intuition. These are all influences
+which brighten the disposition and throw sunshine into the
+life.
+
+However, Mars, the planet of dynamic energy, is in the
+twelfth house, indicating sorrow and self-undoing, square to
+Saturn, the planet of obstruction. This indicates that Ellis
+will have an unusually quick and violent temper, which is apt
+to bring him into trouble. It makes the nature cruel, selfish,
+and deceptive, and on that account it breeds enmity with those
+about him. It even indicates a liability to imprisonment. Un-
+fortunately, he is already ten years of age, and the best period
+for work with him is therefore past. Nevertheless, the afflic-
+
+
+68 YOUR CHILD'S HOROSCOPE
+tion occurs from common or flexible signs, and there are so
+many other good traits in this horoscope, that it seems that
+even now you should be able to mould his character in such
+a manner that you will at least minimize the tendency. Prob-
+ably you have already noticed these characteristics in em-
+bryonic manifestation and have already battled with them. In
+that case, it should be possible to help him overcome. Above
+all things, try to each him how to curb his temper, for without
+doubt whatever trouble comes to him will be because he loses
+control of himself and acts rashly on the impulse of the mo-
+ment.
+So far as the financial fortunes go, Ellis will have many
+ups and downs in life. The Sun is trine to Jupiter, the planet
+of opulence, so that at times fortune will smile upon him and
+give him abundantly of the world's goods, often in the most
+sudden and unexpected manner, as indicated by the sextile of
+the Sun and Uranus. But then, the square of Mars from the
+twelfth house, the house of sorrow, will bring losses and finan-
+cial difficulties. He will have a considerable amount of
+money, but will not be able to keep it.
+Concerning health, the constitution is physically strong,
+but the square of Mars to the Sun and Saturn shows a liability
+to colds and fevers, inflammatory diseases and accidents, a sen-
+sual nature which will sap his vitality. In short, as we said in
+the beginning of the horoscope reading, it is a strong nature
+divided between good and bad, and according to whatever he
+chooses the life will be happy or unhappy. There is one bless-
+ing, though, in that this horoscope shows a considerable
+amount of latitude of free will, so that Ellis will have a chance
+to choose for himself without being very seriously handicapped.
+
+
+YOUR CHILD'S HOROSCOPE 69
+
+If you can only aid him in the matter of self-control, you will
+minimize the tendencies to trouble wonderfully, and enhance
+his chances for a successful and happy life in the same degree.
+
+MILDRED B. – Born April 6, 1905, 11:15 a.m., Wichita,
+Kansas.
+
+Here we have an interesting young lady who is a natural in-
+spirational musician, as shown by the four planets in Taurus,
+the sign of art and music. We find Venus, the planet of love
+and harmony, there, and in this sign she is essentially dig-
+nified; we also find the Moon, which fructifies everything on
+earth, talents included. There is also Mercury, the planet of
+expression and dexterity, giving Mildred the ability not only
+to learn music and love music, but to perform and express
+herself in that manner, and last but not least, Jupiter, the
+planet of devotion and ideals. These planets are all in the
+eleventh house which rules hopes, wishes, and aspirations,
+showing that Mildred's ideals and ambitions will be real-
+ized, and we may also say that the Sun is in its exaltation
+sign Aries, where it is very strong and powerful. It travels one
+degree a year approximately from the time of birth. Thus at
+fourteen years of age it enters the sign Taurus, and at eighteen
+comes in conjunction with Mercury, then the Moon, then
+Jupiter and Venus. So from the age of eighteen to twenty-
+five Mildred may expect her dreams to be coming true in a
+most wonderful manner, and at twenty-nine when the Sun
+comes in conjunction with Venus she will meet a life com-
+panion and gain her heart's desires, for the Sun in a fe-
+male horoscope always signifies the marriage partner.
+
+
+70 YOUR CHILD'S HOROSCOPE
+
+Mildred is not one who floats in the skies and dreams
+dreams only, for Saturn, the planet of tact and diplomacy,
+concentration, system, virtue, etc., is sextile to Mercury, the
+Moon, and Jupiter. This will give her a level head and
+clear, keen reasoning powers. There is, however, a "but"
+to all this and an "if." That is to say, we find that the Sun,
+which is the giver of life, and Mars, which is the planet of
+dynamic energy, are unaspected. Both of them are strong,
+the Sun is highly elevated and exalted, and Mars is essen-
+tially dignified in Scorpio, but being unaspected they are not
+as strong factors in the horoscope as when configurated with
+other planets. Therefore she may not have or express the
+proper energy necessary to realize all the best there is in her
+life, and she should be made to realize clearly that the
+horoscope only shows tendencies but does not bring things to
+pass unless we work with it.
+It is necessary for everyone to help their stars, or their
+stars cannot help them. Let us take an illustration.. The
+human system is to a great extent automatic, and when we
+have accustomed ourselves to eat dinner at twelve o'clock,
+then we will automatically feel hunger at that time. Thus
+we are being urged by this craving for food to go and get
+our dinner, but though the craving may appear, unless we
+walk to the table and do the physical work of eating and
+masticating our food, the hunger will remain. It is the same
+with the aspects in the horoscope. They will give the inner
+urge and the opportunity for the realization of every quality
+and everything good or bad, but unless we ourselves help
+to bring these things about they will remain latent. Mildred
+is old enough now to understand this point and realize that
+
+
+YOUR CHILD'S HOROSCOPE 71
+she must do some work herself or otherwise the things in-
+dicated in her horoscope cannot come to pass. She cannot
+develop her musical faculties by just simply sitting down and
+dreaming of some day being in a grand concert hall where
+she is the cynosure of all eyes and all ears while she is pro-
+ducing marvelous symphonies. She must go through the
+usual course and begin with little things before she can do
+great ones. She must do the work and then in time she will
+realize her ambition.
+The parents ought to prod her on and encourage her in
+every possible manner to study. She will be most attracted to
+and most successful in encompassing the devotional side of
+music, particularly on the pipe organ. This is shown by
+the placement of Saturn in the ninth house governing church
+or religious work, and the inspiration comes from his trine
+with Neptune in Cancer, the inspirational, psychic sign.
+At the time of Mildred's birth, Neptune was rising in
+Cancer. This configuration suggests a tendency to colds, and
+Cancer is a sign of poor vitality; hence it will be well to guard
+Mildred against these tendencies. It also gives a tendency to
+trouble with the stomach, and Mars in Scorpio is apt to pro-
+duce hemorrhoids if her desire for highly spiced food is in-
+dulged.
+
+SARAH JUNE W. - Born June 14, 1914, 2:30 p.m.,
+Skandaken, New York.
+
+At the time of Sarah's birth, four cardinal signs were on
+the angles, giving her an active nature and showing that she
+
+
+72 YOUR CHILD'S HOROSCOPE
+will be a leader among her associates in whatever sphere of
+life she may be placed. However, we find the planets grouped
+in two clusters. One is up in the ninth and tenth houses near
+to the zenith; the other is in the fourth and fifth houses, close
+to the nadir. This shows that Sarah will exert herself partic-
+ularly in two certain directions; she will not be versatile like
+the people who have planets scattered all over their horo-
+scopes.
+The next thing that strikes us is that we have here a per-
+son of an unusual mentality, for Mercury and the Moon, which
+are significators of the mind, aspect each other by a trine,
+and Jupiter, the ruler of the ninth sign, is in the intellectual
+sign Aquarius and trine to the Sun and Saturn, which are in
+the mercurial sign Gemini. This aspect makes for general
+success in life and imparts many of the most valuable quali-
+ties to the mind and disposition, so that Sarah has a mind of
+a very deep and profound nature capable of understanding
+the most abstruse problems and grappling with the deepest
+phases of learning. It will make her honest, sincere, and just
+in her dealings with all about her, and will give her a finan-
+cial ability that will ensure her success in life or make her com-
+fortably situated in that respect. Furthermore, she will not
+squander whatever means she may possess, but will use them
+with care and conservatism. From the Sun trine Jupiter she
+will gain friendship from people in influential positions who
+will be able to help her materially in life, and she will always
+conduct herself with such circumspection that she will keep
+the esteem of people, for she will have a great desire to stand
+well in the eyes of the community.
+In the horoscope of a woman this aspect also offers suc-
+
+
+YOUR CHILD'S HOROSCOPE 73
+
+cess in marriage with a rise in the social scale through that
+event, for the Sun in a woman's horoscope signifies the mar-
+riage partner. In the horoscope of a man, it affects the health
+as the Sun rules that matter in the male figure. The Sun trine
+Jupiter will also give Sarah a religious disposition and an op-
+timistic attitude of mind, but unfortunately, this aspect is
+modified by the conjunction of the Sun and Saturn. This al-
+ways has a tendency to impart gloom to the nature. There-
+fore it may be expected that Sarah will at times feel gloomy
+and downcast in mind, though not to a very alarming degree,
+for this aspect should be more than offset by the sextile of
+Mars, the planet of dynamic energy, and the trine of Jupiter
+to the Sun. Their optimism and action tend to counteract the
+gloomy forces of Saturn. The Sun conjunction Saturn in
+Gemini will also give Sarah some difficulty in expressing her-
+self. She will never be a chatterbox, and may not have even
+the ordinary fluency of speech, but what she says will count
+for it will be the fruit of profound thought.
+
+The conjunction of Venus, the planet of love, art, and
+beauty, with Neptune and Mercury, which occurs in the emo-
+tional and inspirational sign Cancer, shows us that Sarah has
+musical ability of no mean order, and that she will probably
+not only be a performer of other people's compositions, but will
+also be an original composer. This talent should by all means
+be cultivated, and there is no doubt that she will come to the
+front. Mars, the planet of dynamic energy in the bold and
+intrepid sign of the Lion, sextile to the Sun and Saturn, shows
+that there is not only energy but also a great deal of persis-
+tence which will enable her to attain her object in life. She
+
+
+74 YOUR CHILD’S HOROSCOPE
+will rise by the sheer force of her ambition, but this remark
+also brings us to her faults.
+She is liable, through the forcefulness of her character and
+the way in which she may have to battle to get to the front,
+to become domineering and bombastic, as seen by the opposi-
+tion of Mars to Jupiter. This tenth house position of Mars
+and the opposition of Jupiter shows that on that account she
+will lay herself liable to public criticisms, scandal, and other
+unpleasantness. You will therefore help her materially if you
+try to teach her self control, patience, and forbearance. It
+should not be difficult with a logical, fair, and powerful mind
+such as she has, to keep her unworthy emotions in check, and
+thus save herself a great deal of trouble in the future.
+With respect to health, we find that the Moon is in con-
+junction with the Dragon's Head. This is in its effect like the
+Sun and Jupiter, therefore very good. The Moon is also trine
+to Mercury and thus we see that the nervous system is of an
+excellent nature. But the Sun and Saturn being in conjunc-
+tion in the mercurcial sign Gemini shows that there is a ten-
+dency to some obstruction in the lungs, though as already said,
+the sextile of Mars and the trine of Jupiter will do very much
+to offset that, so even this configuration may not show itself
+in any marked manner. An ounce of prevention, however,
+is worth more than a pound of cure, and in view of this you
+should therefore take precautions in childhood so that she
+does not catch cold, or if she does, see that she is properly
+taken care of. You will then probably save her an attack of
+illness in later life. Taken all in all, it is a very fortunate
+horoscope, showing a success in life above the average.
+
+
+YOUR CHILD'S HOROSCOPE 75
+HARRIET JOSEPHINE B. — Born January 31, 1904, 10
+p.m., New York City, New York.
+
+At the time of Harriet's birth, four cardinal signs were
+on the angles and this is usually a sign of an active life. Un-
+fortunately, however, in her case, Mars, the great reservoir
+of dynamic energy, is in the common sign Pisces and un-
+aspected. The Sun, which is the lifegiver is also conjoined
+with the obstructive Saturn. This takes away a great deal of
+her energy, and Uranus, the planet of spasmodic action, is
+conjoined with Venus and square to Jupiter. Thus the na-
+ture is basically listless and self-indulgent. Therefore, it must
+be your part as parents to stir her into action, for it is a true
+saying that an idle brain is the devil's workshop, and idle
+hands are his choicest tools.
+
+No matter how difficult the task may prove, she must be
+kept employed in a constructive manner or there will be great
+trouble in her life. She is now at the age of puberty, and
+the tendency denoted by Uranus in conjunction with Venus,
+the planet of love, is particularly dangerous for her at the
+present time, when she is young and altogether inexperienced.
+This configuration gives her a tendency to be led astray and
+she should be very carefully guarded. Mercury, the planet of
+reason, is sextile to Jupiter. Thus the mind is basically up-
+right, humane, and benevolent. But there is a tendency to
+see things from the wrong viewpoint with this conjunction of
+Uranus and Venus; this will also give her a jealous disposition
+which is likely to bring about estrangement from friends and
+kindred and difficultly all through life.
+
+Uranus square to Jupiter gives Harriet high aspirations and
+
+
+76 YOUR CHILD'S HOROSCOPE
+
+noble ideals, but it makes the disposition too listless to work
+for their realization and consequently she is liable to delays
+and disappointments. This is not a very cheerful reading but
+you should remember in the first place that the stars do not
+compel, they only impel; if we can bring our will power to
+bear, then we may overcome the tendency. This is the object
+of these readings: to show parents where their children's faults
+lie, so that they may be corrected and their latent virtues cul-
+tivated. Harriet is no dunce by any means, and if you can
+show her what the tendencies in her life are and bring her
+to realize that it is necessary for her to use her will-power and
+infuse energy and activity into her life or it may be a failure,
+then you may perhaps save her many a heartache. At the
+same time, you must show her that you are really her friends.
+Saturn in the fourth house shows a tendency on the part
+of the parents to throw a wet blanket on the ambitions of the
+child. There is a constant admonition, "Don't do this, don't
+do that, don't do the other things", but this should be changed.
+Instead, you ought to indicate a line of action that she could
+take, perhaps that will bring her in line with the life you
+would like to have her lead. There is no particular glory in
+bringing up a child that is docile or very near perfection, but
+when a difficult child comes to us then we have a chance of
+laying up for ourselves a great deal of treasure in heaven
+through helping that Ego to surmount the obstacles in its path
+and live a successful life. We hope that you will see this in
+the right light and endeavor to do the very best for Harriet,
+for she certainly needs your help, particularly in the years that
+are just ahead of her. You can do her no better service than
+to make the home so attractive to her that she will never
+
+
+YOUR CHILD'S HOROSCOPE 77
+
+care to go out. If she is at any time visiting in other people's
+homes, she will involuntarily make comparisons between them
+and her home and say to herself, "There is no place like
+home." This you can do for her, and then you may save
+her a great deal of trouble in the next few years from the
+conjunction of Uranus and Venus, which is the most dan-
+gerous aspect in her life at the present time.
+
+ALBERT P. Born July 18, 1911, 4:55 p.m., Seattle,
+Washington.
+
+At the time of Albert's birth we find Uranus, the planet
+of independence and originality, in oppostion to Neptune and
+the Sun, which indicates the individuality, also square with
+Mars and the Moon. This shows that he is of an exceedingly
+independent and original nature that will not easily submit to
+restraint. It will be worse than folly to attempt to rule him
+by force; there is only one way you can reach him and that
+is by kindness.
+
+Uranus square to the wandering Moon shows that he will
+have an intense wanderlust, probably from the very earliest
+years of childhood, and unless you use extreme moderation
+he is bound to run away from his home and cause you a great
+deal of trouble in that way. Nor need you expect to keep him
+at home when he has reached the age at which it is possible
+for him to leave, for to him far fields will always look the
+greenest and the desire to roam is stronger than any other in-
+fluence in this horoscope. But this is not to be depreciated,
+for Jupiter, the planet of good fortune and success, is highly
+
+
+78 YOUR CHILD'S HOROSCOPE
+
+elevated in this horoscope and sextile to Venus, which is in the
+ninth house governing travel. This shows that he will always
+gain by his changes, and whatever happiness or good fortune
+there is to be in this life will come through travel and resi-
+dence in foreign countries. So it would be wrong to try to
+keep him in the home place.
+This horoscope shows two very distinct personalities, as
+opposite to one another as day is to night. When under the
+influence of Jupiter, sextile to Venus and Saturn, sextile to
+Neptune, Albert will be of a highly inspirational nature with
+a leaning toward the occult and mystical, fond of art and
+music, with high ideals and ambitions, fond of pleasures and
+having the ability to win others by his inimitable manner. On
+the other hand, when he respnds to the aspects of Sun and
+Neptune square to the Moon, and Mars opposition Jupiter,
+also Uranus square to Mars, he will show a disregard of all
+the conventionalities, a lack of restraint, and will then be very
+prodigal with his money and inclined to gamble. The result
+will be that he will lose the esteem of his employers and
+friends, he will find himself without money, and every time
+that happens he will leave the place where he has disgraced
+himself and go somewhere else where his better self will soon
+win him new friends and another start on the upward path.
+Such are the tendencies shown in the horoscope, but you,
+as parents, have a great deal to do with moulding the char-
+acter of this child. It has come to you for help, and a stan-
+dard by which it can pattern its life; therefore, you have a great
+responsibility and you cannot help him to overcome his faults
+by harsh and strenuous measures. There is only one way left
+for you, and that is to work on his Jupiter-Venus combination
+
+
+YOUR CHILD'S HOROSCOPE 79
+and win him by appeal to his higher self through love; show
+him by your own example a patient perseverance even when
+he is ungovernable and defiant, that he may see there is a
+better way.
+The Spirit comes to its parents with all its qualities gar-
+nered in former lives, good, bad, and indifferent, as capital to
+start with. All that the parents do is give it a body and help
+it until it is capable of governing itself. We certainly do not
+own our children, nor are we responsible for them any fur-
+ther than to work with them and for them. When Albert has
+left home in response to the ungovernable wanderlust which
+possesses him he will often think of you with gratitude if you
+have helped him and been kind to him. Furthermore, he now
+gives to you an opportunity for an immense amount of soul-
+growth, as Christ said that "whatsoever ye have done to one
+of these little ones, ye have done unto Me." Albert is an Ego
+that has come to you for help, and he needs more help, for-
+bearance, and patience than most children, for he has an un-
+usually vivid imagination, shown by the Moon, ruling the
+imagination, in Aires, the sign governing the head, square to
+Uranus, planet of unconventionality, and Neptune, the planet
+of psychism and inspiration. He will see things in such an
+odd and different light that from his standpoint there ap-
+pears to be no other way of acting than the one he takes and
+which is contrary to the ordinary conventional method.
+With respect to health, we find Saturn and Mars in
+Taurus indicating throat trouble. Do not allow anyone to
+operate upon him for tonsillitis. The tonsils are very necessary
+in the economy of Nature, as we have contended for many
+years and as medical science is now beginning to find out.
+
+
+80 YOUR CHILD'S HOROSCOPE
+Whatever the enlargement, it will subside in due time. The
+Sun square to the Moon shows that he is not very strong con-
+stitutionally and will need all the generous care you can give
+him. Uranus, the planet of unconventionality, square to the
+Moon, shows a tendency to trouble arising from illicit inter-
+course, and he should be taught the proper relationships be-
+tween the sexes and the sacredness of the generative function.
+It would also be well to warn him that when he is traveling
+he is very much more liable to accidents than the general run
+of people. Fire, lightning, and electricity will also be dan-
+gerous for him. However, as said, these are only tendencies
+shown by the horoscope, and proper care will enable Albert
+as well as other people to rule the stars and overcome the
+things which are unfortunate from the ordinary human point of
+view. From the spiritual point of view there is nothing unfortu-
+nate, for all things work together for good in God's kingdom,
+and what appears as evil is really only good in the making.
+
+ALBION WARWICK L. – Born May 4, 1905. 10 a.m.,
+Broetkton, Mass.
+
+At the time of Albion's birth, we find seven of the nine
+planets above the horizon and cardinal signs on the angles.
+This shows that he will lead an active, busy life.
+The mental characteristics are indicated by Mercury and
+the Moon. We find them both highly elevated in the sign
+Taurus, which tends to gives stability. Mercury is conjoined
+with Venus. This configuration will give him the ability to
+express himself in beautiful language, and were it not that
+
+
+YOUR CHILD'S HOROSCOPE 81
+these planets are also configured with Saturn by sextile, he
+would have a fine musical voice and ability as an inspirational
+instrumental performer. Saturn, however, is the planet of ob-
+struction, and although the configuration is by sextile and
+therefore good, there may be some drawback in regard to
+singing-ability. With regard to the mind, Saturn sextile to
+Mercury has a decidedly beneficial effect, making Albion tact-
+ful, systematic, and methodical.
+
+Mercury is also sextile to its higher octave Neptune, and
+has a weak trine with Uranus, the planet of intuition. This
+will further strengthen the mind and show Albion to be un-
+commonly intuitive and inspirational. The conjunction of the
+Sun, Moon, and Jupiter, and of Mercury and Venus in the
+sign Taurus, gives a kind, philanthropic disposition and a
+noble nature which will make Albion very popular and bring
+him many sincere friends.
+
+The Sun is the ruler of the second house which deter-
+mines the financial status in life, and we find it in the sec-
+ond sign, Taurus, conjoined with the Moon and Jupiter. This
+shows excellent prospects for financial comfort during life, and
+as the sign Taurus and these planets are situated in the
+eleventh house, which governs friends, hopes, wishes, and as-
+pirations, we may judge that Albion will have many influen-
+tial friends in high positions who will be interested in him
+and help him in such a way that he attains prosperity and
+the accomplishment of his hopes, wishes, and aspirations. Sat-
+urn is placed in the twelfth sign Pisces, sextile to Uranus, the
+planet of intuition, and trine to Neptune, the planet of in-
+spiration. These configurations show a very deep side to Al-
+bion's nature. He will at some time take up the study of the
+
+
+82 YOUR CHILD'S HOROSCOPE
+
+occult philosophies and evolve some of his latent faculties by
+sheer patience and persistence.
+With respect to Albion's health, we find that Mars is in
+the sign Scorpio, which is on the fifth house, the house that
+rules courtship and the attraction of the sexes before mar-
+riage. Mars is in opposition to the Moon and Jupiter. This
+shows that Albion has a very passionate nature which ought
+by all means to be curbed or it will cause sorrow, trouble,
+and disappointment. You should teach him the sacredness of
+sex and should not mince matters concerning the dreadful
+consequences of abuse of this holy function.
+Having the weak, watery sign Cancer rising, Albion by no
+means has over-abundant vitality in the first place, though the
+placement of the Sun, Moon, and Jupiter in the fixed sign
+Taurus helps a great deal; nevertheless, Albion ought to hus-
+band his vitality if he would conserve his health. The di-
+gestive functions are not basically strong, for Cancer rules the
+stomach, and the opposition of Neptune and Uranus shows
+that a breakdown in health would be accompanied by nerv-
+ous dyspepsia, which makes life a burden and a misery. There-
+fore teach him also to be frugal and sparing in his meals and
+guided by proper judgment in selecting articles of food, other-
+wise Mars in Scorpio will cause bleeding piles which will add
+to his misery; he should avoid heating and highly seasoned
+food, which is irritating to the rectum. Saturn in Pisces gives a
+tendency to cold feet, but if you keep him warm and teach
+him to eat properly, these tendencies may not work them-
+selves into effects. Whether these constitutional weaknesses re-
+main latent depends much upon whether the body is abused
+or taken care of. Albion has a splendid mind, he will see the
+
+
+YOUR CHILD'S HOROSCOPE 83
+point and probably may overcome the weaknesses and escape
+the trouble both morally and phyiscally.
+
+NICHOLAS ANTONIO D. — Born June 10, 1908, 8:20
+a.m., Villa de Cura, Venezuela.
+
+At the time of Nicholas' birth, we find Mercury, the
+planet of reason, conjoined with Venus and Mars, also with
+Neptune, its higher octave, in the psychic sign Cancer.
+Uranus, the planet of intuition, is also conjoined with the
+Moon, which is the planet of imagination. Thus we learn
+from the horoscope that Nicholas has a bright and fertile mind,
+a vivid imagination, and good reasoning powers.
+
+We see also that there are four fixed signs on the angles,
+giving him a very determined disposition, high ideals, and
+something amounting almost to genius. On the other hand
+it should not be forgotten that genius is a very extreme con-
+dition of sensitiveness, and great care should be taken not to
+overburden him mentally. He will have very high ideals and
+considerable musical and artistic ability, which may make
+quite a name for him, provided he is not overtaxed. In
+that case he will encounter a great danger of becoming un-
+balanced, as shown by the fact that the Moon and Uranus
+are in the sixth house indicating the health, in opposition to
+the other planets named. Neptune, Mars, Mercury, and
+Venus, are placed in the twelfth house, which indicates con-
+finement, trouble, and self-undoing.
+
+Thus a great deal will depend upon the training he re-
+ceives in his home. Parents are too prone to prod their infant
+
+
+84 YOUR CHILD'S HOROSCOPE
+prodigies to the maximum exertion, with the inevitable re-
+sult that they become mentally dulled and are below the or-
+dinary standard in later life. This you should guard against.
+Do not make over him because of his talents, or show him
+off to your friends so that you generate in him the inordinate
+love of applause only too common in those who possess ex-
+traordinary gifts. Try to keep his feet on earth, and above
+everything else do not ever allow him to attend spiritualistic
+seances where there are negative or mediumistic people
+through whom he might come in touch with the spirit world.
+Saturn is square to Neptune in the twelfth house, and the op-
+position of Neptune from Cancer to Uranus is certain to at-
+tract the entities from the invisible world, but only those
+who are of an undesirable nature. In that case the conjunc-
+tion of the four planets in the twelfth house may work out
+in such a manner that Nicholas would become obsessed and
+unable to free himself from the undesirable spiritual entities
+that are attracted.
+
+The Sun in Gemini in the eleventh house, the house of
+friends, hopes, and wishes, shows that he will meet people
+above him in the social scale who will be able to help him
+along the path toward a realization of his desires in life.
+Saturn in trine with Jupiter, the planet of philanthropy and
+benevolence, shows that he will have a basically kind and
+philanthropic spirit which will probably lead him into some
+humanitarian work. This configuration is the saving point
+in Nicholas' horoscope and will stand him in good stead
+through every hour of need.
+
+With respect to health, we note that Saturn is square
+to Neptune in Cancer and Uranus in Capricorn. Cancer
+
+
+YOUR CHILD'S HOROSCOPE 85
+
+rules the stomach and thus we may infer that the digestion
+will be interfered with unless Nicholas is taught to live the
+simple life in the home. If he leaves the straight and nar-
+row path of sensible diet he will later on in life experience
+a great deal of trouble from dyspepsia and rheumatism, par-
+ticularly in the knees. His circulation is good, as shown by
+the vital sign Leo rising with Jupiter on the Ascendant, and
+the Sun unafflicted and elevated in Gemini. If he will only
+be careful not to abuse his stomach, he will enjoy good health
+through life.
+
+CARL R. M. - Born March 25, 1916, 3:20 p.m., Al-
+bany, Oregon.
+
+Here we have a versatile little youngster with a suave and
+very pleasing manner, a fine address and the latent ability
+to express himself well, an interesting conversationalist. These
+things we learn from the fact that the planets are scattered
+over three quarters of the horoscope, which imparts versatility,
+and Venus, the planet of love and harmony, is higly elevated
+in her own sign Taurus, sextile to Mercury the planet of rea-
+son and speech, which is placed in the seventh house in Pis-
+ces, the sign where Venus is exalted. This configuration be-
+tween Mercury and Venus will also give Carl musical abil-
+ity above the average, which ought to be cultivated as a pro-
+fession.
+
+The placement of Mercury in the twelfth house sign, Pis-
+ces, and sextile to Venus, however, shows that Carl tends to
+be mentally lazy and very fond of pleasure. You will find
+
+
+86 YOUR CHILD'S HOROSCOPE
+
+it very difficult, if not impossible, to get him to study any
+subject that requires brain work, and the Moon placed in
+Sagittarius and in the fourth house, indicating the home, shows
+that he will be very restless and desirous of getting out in
+society, among friends, and in an artistic environment.
+Unfortunately, his friends will be a detriment to him, for
+we find Saturn, the planet of treachery, in the eleventh house
+which rules friends, hopes, and wishes, square to Jupiter and
+the Sun, which are placed in the eighth house ruling legacies.
+This shows that Carl will receive a legacy sometime in life
+but that he is likely to lose it through the underhanded
+treachery of supposed friends. He should, therefore, be warned
+that everybody who speaks fair is not to be trusted. It is
+particularly those who are older than himself who are to be
+guarded against in this connection, for Saturn always signifies
+an older person. It may also be said, however, that Carl will
+never want money, for the ruler of his second house (oc-
+cupied principally by Libra) is Venus, and she is exalted, es-
+sentially dignified, and highly elevated, as well as. sex tile to
+Mercury, his ruler. So he will always have plenty for the day
+and the way.
+The configuration between Saturn in Cancer with the
+Sun and Jupiter in Aries also affects the health. Cancer rules
+the stomach, Jupiter the arterial circulation, and the Sun the
+vitality. Venus in Taurus, ruling the palate, will make Carl
+very fond of fine food, but Saturn in Cancer shows that there
+will be digestive trouble on that account, a corruption of the
+blood and lowering of the vitality, if these tastes are indulged.
+The utmost care should be taken to show him that the simple
+life must be lived if health is to be maintained. There is
+
+
+YOUR CHILD'S HOROSCOPE 87
+also another thing, the very worst in this whole horoscope, and
+requires a great deal of help from parents. Venus is square
+to Uranus, the latter planet placed in the sixth house in-
+dictating disease. This shows that Carl will have a very amo-
+rous nature and be apt from earliest youth to indulge it re-
+gardless of the conventions; he is also likely through this ex-
+cess to contract disease of the most dangerous nature. It is
+the duty of the parents to instruct him very carefully as soon
+as he can possibly grasp the idea in matters regarding sex
+and sex hygiene. He needs very careful watching to save him
+from the unfortunate consequence of such abuses.
+
+HOMER H. M. - Born March 5, 1915 at 12:20 a.m.,
+San Diego, California.
+
+This is an attractive little fellow, for his life-ruler, Jupi-
+ter, the planet of philanthropy and benevolence, is conjoined
+with the Sun and trine to the Moon, giving him an unusual
+magnetism and an expansive, jovial nature. He also has a
+splendid mentality, for we find Mars, the planet of dynamic
+energy, conjoined with Mercury, the planet of reason, in the
+intellectual sign Aquarius, and these are placed in the third
+house which denotes the mind, also trine to Saturn in the
+mercurial sign Gemini. This shows that Homer is very quick
+to grasp a point, smart and resourceful in overcoming diffi-
+culties, enterprising and energetic in carrying out whatever
+project he has in mind. The saturnine trine gives him an
+unusual ability to think profoundly and concentrate with
+ease upon whatever problem confronts him, and see through
+
+
+88 YOUR CHILD'S HOROSCOPE
+even the most abstruse proposition.
+These qualities will naturally make him very successful
+in life. He will not be a follower by any means, but a leader.
+We always find that whenever there are four common signs
+on the angles, as in this case, the person prefers not to work
+with his hands, and Saturn in Gemini, which rules these mem-
+bers, shows that Homer has the same disposition. To offset
+this, though, he has the genius wherewith to direct the labors
+of others so as to make a mark for himself in the doing of
+the world's work. Uranus is also in the sign Aquarius, and
+this third house configuration shows that he will take up some
+inventive vocation of an unusual nature, probably electricity,
+navigation of the air, or maybe some things which we are not
+even dreaming of at the present time.
+But Homer is not without faults either, and this is where
+the parents must come in and help him, not alone to cultivate
+the talents which he possesses, but also to overcome, or rather,
+to prevent the faults which are latent from coming to an ex-
+pression. In this horoscope we find the planet Neptune in
+Cancer, a watery sign, indicating fluids. It is in opposition to
+Venus, the planet of love, placed in the second house which
+rules finances, and both of these planets are square to the
+Moon which is placed in Scorpio, ruling the generative organs.
+This shows that Homer will be very fond of wine, women,
+and song, that he will spend his money lavishly in gratifica-
+tion of these desires, and that he will meet the usual reward
+which comes with such indulgence. It is the duty of the
+parents to educate him to the fact that such a course of life
+will eventually bring sorrow and suffering, cloud the mind
+and impair the health.
+
+
+YOUR CHILD'S HOROSCOPE 89
+
+This child has exceptionally good vitality, for Jupiter, his
+life ruler, is conjoined with the Sun, the giver of life, trine to
+the Moon. It will take a great deal to break down such a
+constitution, but it may be done, and we therefore trust you
+will use all your good offices in warning him and educating
+him to live the right life.
+Saturn, the planet of obstruction, is located in Gemini,
+which rules the lungs; it is unafflicted and even well-aspected,
+and therefore we may conclude that he will not have any
+serious trouble from this source. It has been noticed, how-
+ever, that wherever Saturn is placed there is always a weak
+spot, so it will be well for you to guard him particularly dur-
+ing the days of childhood. If he does contract a cold do not
+allow it to hang on without taking proper steps to eradi-
+cate it.
+On the whole we may say that this is a very fortunate
+horoscope and the parents are certainly to be congratulated
+in having attracted such a fine Spirit to their home.
+
+VIRGINIA H. - Born January 17, 1912, 1:57 a.m.,
+Seattle, Washington.
+
+At the time of Virginia's birth, Mercury and the Moon,
+which are significators of the mind, were in conjunction in
+the saturnine sign Capricorn. The Sun also was in conjunc-
+tion with Uranus, the planet of intuition, trine to Mars, the
+planet of dynamic energy. Thus it is seen that Virginia will
+have a quick, active, and intuitive mind of a very resource-
+ful nature, which will enable her to grasp anything she de-
+
+
+90 YOUR CHILD'S HOROSCOPE
+sires to understand and to cope with all the problems and dif-
+ficulties in life. The saturnine influence of the sign Capricorn,
+where these planets are located, will give her quite a deep in-
+sight, and thus she has one of the greatest fortunes to be found,
+something that no one can deprive her of and which will stand
+her in good stead all through her existence—a good mind.
+It is said that it is better to be born lucky than rich, because
+one may lose riches that are inherited, but if one has luck,
+then riches will come and all good things in life. This we
+may modify to fit this child's case and say that it is better to be
+born with a good mind than a large fortune, for having that,
+all other good things are more apt to come to her.
+But, Virginia is not neglected at all in the matter of for-
+tune, either, for Jupiter, the great benefic planet of benevo-
+lence, and Venus, the planet of love, beauty, and harmony,
+are in the second house, Jupiter being essentially dignified.
+This shows that she is going to have a good share of the
+world's wealth, sufficient to give her a comfortable income all
+through life, and she will probably have many friends who
+will help her in that respect and make life pleasant for her.
+Seeing that these configurations occur mostly in the second
+house, and that the Sun, which is the significator of marriage
+for women, is trine to Mars, the planet situated in the sev-
+enth house, which governs marriage, it is safe to say that Vir-
+ginia will be very benefitted by marriage—that she will mar-
+ry an energetic, ambitions man who will furnish the where-
+withal to carry out her designs and ambitions.
+The ninth house is the house of dreams, visions, and fan-
+cies, and we find in Virginia's horoscope that Neptune is there
+in the psychic sign Cancer. This will give her very vivid
+
+
+YOUR CHILD'S HOROSCOPE 91
+
+dreams and imagination, but on account of the opposition of
+the Sun and Uranus these are apt to be of an undesirable,
+weird, and horrible nature. This configuration also tends to
+make her mediumistic and an easy prey to spirit controls. You
+should therefore guard her against any possible contact with
+such undesirable entities. Do not take her to spiritualistic
+seances or allow anyone who is of a negative, mediumistic na-
+ture to be much in her company. The dreams and visions may
+perhaps also be discouraged if you will be careful that she eats
+only a light meal in the evening, and that quite a long while
+before she goes to bed. This configuration of the Sun, Uranus,
+and Neptune from the third and ninth houses also has an in-
+fluence on traveling. It makes her liable to accidents and,
+knowing this, you can perhaps help her by teaching her to
+be very careful in getting on and alighting from conveyances
+when she comes to the age where she will be out by herself.
+While she is under your care you can, of course, look after her.
+With respect to health, we find Saturn and Mars in the
+sign which governs the neck and throat. This shows that there
+may be trouble in that region, and particularly that she will be
+susceptible to colds and inflammations. On that account do
+not wrap her up, but rather strive to inure that throat to cold
+by discriminate exposure. Her vital powers are good, how-
+ever, on account of the trine of the Sun, which is the giver
+of life, to Mars, the planet of dynamic energy, and anything
+that may happen to her will only be of a passing nature; her
+recuperative powers will very soon assert themselves and dis-
+pel the cloud of sickness. With four fixed signs on the angles
+and Saturn and Mars in the fixed sign Taurus, the prinicpal
+fault is that of being set and stubborn and determined to have
+
+
+92 YOUR CHILD'S HOROSCOPE
+
+her own will, but you still have several years of the flexible in-
+fant stage in which to teach her adaptability. If you can do
+this it will benefit her much in later life.
+
+RICHARD L. - Born February 20, 1916, 4:20 a.m.,
+Seattle, Washington.
+
+At the time of Richard's birth, Mercury, the planet of
+reason, and Uranus, planet of intuition, were rising in the
+first house, which governs the personal characteristics. This
+gives him a very high-strung, nervous temperament along with
+an ingenious, original, and intuitive mind, and he would be
+all right if he would only listen to that inner voice and obey
+it unquestioningly. But, unfortunately, we find the Sun op-
+posite the Moon. This adds to his ambitious nature, but makes
+him hesitate and vacillate, particularly as the lights are in com-
+mon signs. Thus whenever a course of action is to be decided
+upon, he will not be equal to making the decision, but will
+be torn between two desires, hesitating and fearful to make
+a choice. This is a serious handicap as regards success in life,
+and we would urge you by all means to begin right away to
+teach him to make a decision in the little things that now call
+for action in his life. Then he may acquire the virtue of sta-
+bility and not be like a reed tossed hither and thither by the
+winds of indecision when everything may depend upon prompt
+action in one of the crises of life.
+
+There is also shown the possibility of financial loss and
+poverty, unless this tendency can be corrected. If you can put
+sufficient backbone in him, the sextile of Mercury and the
+
+
+YOUR CHILD'S HOROSCOPE 93
+trine of Neptune to the planet of opulence, Jupiter, which is
+placed in the second house governing finance, may over-rule
+the opposition of the Sun and Moon, and give a comfort-
+able income through life.
+Saturn, the planet of obstruction, square to Venus, the
+planet of love, shows that Richard will meet with trouble and
+disappointment in courtship, and the position of Saturn, Nep-
+tune, and Mars in the seventh house governing marriage shows
+that this state is not going to be one of pleasure for him, but
+is bound to bring sorrow, trouble, and disappointment. It
+will therefore be better if you can make him understand that
+it will not be advantageous for him to enter into it. All these
+things do not sound very encouraging for Richad, but remem-
+ber that the horoscope shows only tendencies, and that we
+are aiming to help by showing where trouble may lie.
+But there are also favorable things in Richard's horoscope.
+The Sun, which is the giver of life, is trine to Saturn. This
+brings out all the saturnine virtues and gives them to Richard
+so that he will have a systematic conservative, diplomatic
+disposition, likely to make a great many friends for him who
+will help him much. This aspect occurs from the seventh
+house, so it is probable that he wil" take part in local munici-
+pal affairs and win much honor and friendship thereby, be-
+coming a highly valued member of the community. It is only
+in his own inner nature that the indecision is felt and par-
+ticularly regarding his own affairs. Thus, his life from his
+standpoint and to the general outward appearance may be
+very happy in another way than the conventional life usually
+lived by people who marry and devote themselves to their
+families alone.
+
+
+94 YOUR CHILD'S HOROSCOPE
+
+With respect to health, we find that Saturn is in Cancer,
+the sign which rules the stomach, and square to Venus in Aires,
+the sign which rules the head. This shows that there will be
+poor circulation of blood in that part of the body, with the
+result that he will be likely to suffer from headaches, and that
+the basic cause of headaches and poor circulation will be a
+wrong diet. We are, therefore, glad to have his horoscope so
+early in life, for during the first seven years the greatest num-
+ber of habits are formed. Now, if you will be very careful
+with his diet and teach him to eat carefully, for the sake of
+nourishment, instead of to please his palate, you may help him
+to overcome this difficulty.
+
+EDMOND A. W. — Born December 13, 1911, 9:15 p.m.,
+Los Angeles, California.
+
+At the time of Edmond's birth, four fixed signs were on
+the angles, with Leo on the Ascendant, showing him to be
+very strong-willed and determined. There is in the Leo at
+times a cruel strain, but usually they are extremely soft-hearted
+and kind, particularly to the family and those they love. Where
+they love they love dearly, but they can also hate.
+We find Mercury, the planet of reason, in the saturnine
+sign Capricorn, trine to Saturn, which is in Taurus in the
+tenth house. As we have often said, Saturn in a good aspect
+to Mercury is one of the most benefic configuration with re-
+spect to the mental qualities, for Saturn obstructing the flighty
+mind gives ability to concentrate and apply oneself to the
+deeper and more profound problems of life; it brings out in
+the person the best of the saturnine virtues: system, method,
+
+
+YOUR CHILD'S HOROSCOPE 95
+order, memory, tact diplomacy, and love of justice, so that Ed-
+mond is particularly fortunate in having this configuration.
+As Saturn is in Taurus, it may give him a little hesitancy in
+speech, and debar him from giving fluent expression to his
+ideas, but they will be of such depth and value that every
+word he will utter counts.
+We also find Uranus, the planet of intuition, trine to
+Mars, the planet of dynamic energy, placed in the tenth
+house, which denotes the social standing. This shows that
+Edmond will have an intuitive grasp of things far beyond
+the power of reason. He will be of a very original turn of
+mind, and possess talents that will bring him before the pub-
+lic. He will be very ambitious, but there is only one thing to
+be guarded against; if he allows himself to be carried away
+by an inordinate desire for publicity, this may bring about his
+downfall. Saturn and Mars in the tenth house are always
+dangerous in that respect. They give the person the ambition
+to rise and the inherent power to do so, but they also usually
+bring about a fall. However, in the case of Edmond we find
+no bad aspects of either Saturn or Mars. On the contrary,
+they are extremely well aspected and therefore let us hope
+that this will not apply in this case. It will do no harm for
+you, however, to sound the voice of warning from time to
+time so that he may not become too egotistical with success.
+The Moon is square to Mercury; this operates upon the
+mind in such a manner that under certain planetary con-
+ditions Edmond will be subject to worry and indecision, also
+a lack of continuity and mental stability, but the other mer-
+curial aspects are so good that this needs scarcely to be taken
+into consideration. It will be only a very passing phase of
+
+
+96 YOUR CHILD'S HOROSCOPE
+
+his consciousness. Mercury is also sextile to Venus, and this
+of itself will give a cheerful nature that will dispel any gloom
+that may gather Uranus is close to the cusp of Aquarius
+where it is particularly strong, and it is sextile to Jupiter, the
+planet of optimism and benevolence. Jupiter is also strong
+in Sagittarius, and therefore this configuration makes for
+general success in connection with the houses where they are
+placed; the third and sixth. This shows that Edmond is
+likely to benefit by a legacy and that he will have general
+success through life in financial matters. His occupation
+is also shown to be something connected with sixth house
+matters, as a doctor or surgeon or in charge of some institu-
+tion where the sick are cared for or in chemical laboratory
+work. Of these occupations, the Uranus-Mars configuration
+seems to favor the vocation of surgeon.
+
+With respect to health we find that Edmond is very well
+fixed. The strong sign Leo rising, with Mars, the planet of
+dynamic energy, highly elevated and well-aspected, and the
+Sun in the fiery sign Sagittarius, gives good vitality and shows
+that he will readily recuperate if anything happens to disturb
+his health. But Saturn in Taurus shows that the throat is the
+weakest point in his anatomy, and it will be well for you to
+guard him against colds. Not, however, by muffling him up,
+but by strengthening him so that he will not feel the changes
+of weather.
+
+With Neptune in the twelfth house of sorrow, trouble, and
+self-undoing, in opposition to Uranus in the sixth house, it
+would be dangerous for him to enter spiritualistic circles, for
+he might be seized upon by the visiting spirits, who would
+probably find him an easy victim.
+
+
