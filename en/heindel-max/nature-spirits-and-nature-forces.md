@@ -18,7 +18,7 @@ International Headquarters Mt. Ecclesia
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 This volume contains mystical writings of Max Heindel on the little understood subject of Nature Spirits and Nature Forces. It is a correlation from his many books, lovingly collected in one volume by one of Max Heindel's students. 
 
@@ -26,7 +26,7 @@ Max Heindel is known as the most advanced of Western Mystics and has in his nume
 
 \- Augusta Foss Heindel, April 15, 1937
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Contents</h3>
 
 - [Foreword by Augusta Foss Heindel](#foreword)
 - [Chapter One: The Ethers and Laws of Nature](#chapter-1)
@@ -169,7 +169,7 @@ The undines which live in the water and the sylphs of the air are also subject t
 
 However, this has no connection at all with the Elberfeld horses or kindred animal prodigies. These are the wards of their respective group spirits and it is probably the last time they will seek embodiment in an animal form. When that happens, such spirits are relegated to Chaos where they must wait during the Cosmic Night for their less gifted brothers until the time when it is possible to begin their human evolution in the Jupiter Period. 
 
-### <h3 id="chapter-7">CHAPTER SEVEN: THE CONSTITUTION OF THE EARTH: AND VOLCANIC ERUPTIONS</h3>
+### <h3 id="chapter-7">Chapter Seven: The Constitution of the Earth and Volcanic Eruptions</h3>
 
 Even among occult scientists it is counted among the most difficult problems to investigate the mysterious construction of the earth. Every occult scientist knows how much easier it is to thoroughly and accurately investigate the Desire World and the Region of Concrete Thought and bring back the results into the Physical World than to investigate completely the secrets of our physical planet, because to do that fully, one must have passed through the nine lesser Mysteries and the first of the Great Initiations. 
 

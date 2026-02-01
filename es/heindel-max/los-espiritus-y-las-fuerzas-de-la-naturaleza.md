@@ -11,14 +11,14 @@ original_source_file: "nature-spirits-and-nature-forces.md"
 
 por Max Heindel [1865-1919]
 
-Foreword by Augusta Foss Heindel
+Prólogo por Augusta Foss Heindel
 
 THE ROSICRUCIAN FELLOWSHIP  
 International Headquarters Mt. Ecclesia  
 P.O. Box 713  
 Oceanside, California, 92054, USA  
 
-### <h3 id="foreword">PRÓLOGO</h3>
+### <h3 id="foreword">Prólogo</h3>
 
 Este volumen contiene los escritos místicos de Max Heindel sobre el poco entendido tema de los Espíritus de la Naturaleza y las Fuerzas Naturales. Es, en realidad, una correlación de sus muchas obras, que han sido compiladas en un volumen por uno de los estudiantes del autor. 
 
@@ -37,7 +37,7 @@ Se reconoce generalmente a Max Heindel como el más adelantado de los Místicos 
 - [Capítulo VI: Dos preguntas y sus respuestas](#chapter-6)
 - [Capítulo VII: La constitución de la Tierra y las erupciones volcánicas](#chapter-7)
 
-### <h3 id="chapter-1">CAPÍTULO I: LOS ÉTERES Y LAS LEYES DE LA NATURALEZA</h3>
+### <h3 id="chapter-1">Capítulo I: Los éteres y las leyes de la naturaleza</h3>
 
 Hablar del éter como medio de transmitir fuerzas, no dice nada a la mentalidad corriente, porque la fuerza es invisible. Pero para el investigador oculto, las fuerzas no son puramente nombres tales como vapor, electricidad, etc., sino que descubre que son seres inteligentes, de diversos grados, tanto sub como suprahumanos. Lo que llamamos leyes de la Naturaleza son Grandes Inteligencias que guían y dirigen a seres más elementales, de acuerdo con ciertas reglas, determinadas para acelerar su evolución. 
 
@@ -59,7 +59,7 @@ En el éter podemos también observar a los ángeles, cuyo cuerpo más denso est
 
 Y así como el éter es el canal o conductor de las fuerzas vitales creadoras y como los ángeles son los más hábiles y experto en manipular el éter, podemos comprender fácilmente que están especialmente en condiciones de ser los guardianes de las fuerzas de propagación en las plantas, los animales y el ser humano. En la Biblia siempre los encontramos en relación con esto. Dos ángeles vinieron a Abrahán a anunciarle el nacimiento de Isaac. Ellos prometían hijos a los hombres que obedecían a Dios. Mas tarde esos mismos ángeles destruyeron a Sodoma por el abuso de las fuerzas creadoras. Angeles fueron los que anunciaron a los padres de Samuel y de Sansón el nacimiento de estos gigantes de la inteligencia y del músculo. Y a Isabel vino el ángel (no el Arcángel) Gabriel y le anuncio el nacimiento de Juan., apareciéndosele más tarde a María con el mensaje de que Ella había sido elegida para concebir a Jesús. 
 
-### <h3 id="chapter-2">CAPÍTULO II: LA ACTIVIDAD EN LOS MUNDOS CELESTIALES Y LAS FUERZAS DE LA NATURALEZA</h3>
+### <h3 id="chapter-2">Capítulo II: La actividad en los mundos celestiales y las fuerzas de la naturaleza</h3>
 
 Estamos acostumbrados a hablar de Evolución, pero ¿acaso nos detenemos a analizar lo que constituye le Evolución misma y por qué esta no se detiene y paraliza? Si lo hacemos, nos veremos obligados a reconocer que hay ciertas fuerzas tras todo lo visible que son las causantes de la alteración de la flora y de la fauna, de los cambios climáticos y topográficos que están produciéndose constantemente, y entonces es muy natural que nos preguntemos cuales o quiénes son las fuerzas o agentes en evolución. 
 
@@ -89,7 +89,7 @@ El trabajo del hombre en el Mundo Celestial no se reduce meramente a la transfor
 
 Vemos, pues, que así es como el hombre aprende a construir sus vehículos en el Mundo Celestial, para poderlos luego usar en el Mundo Físico. La Naturaleza provee todas las fases de experiencia posible de una manera maravillosa y con una sabiduría tan consumada que conforme vamos ahondando más y más profundamente en sus secretos, nos quedamos más y más impresionados con nuestra propia insignificancia, lo que da nacimiento a una reverencia cada vez mayor hacia Dios, cuyo símbolo visible es la Naturaleza. 
 
-### <h3 id="chaptetr-3">CAPÍTULO III: LA MISIÓN DEL CRISTO Y EL FESTIVAL DE LAS HADAS</h3>
+### <h3 id="chaptetr-3">Capítulo III: La misión del Cristo y el festival de las hadas</h3>
 
 Cada vez que nos enfrentamos con uno de los misterios de la Naturaleza que no podemos explicar, nos limitamos simplemente a agregar un nombre nuevo a nuestro vocabulario, que utilizamos en nuestras discusiones eruditas para ocultar nuestra supina ignorancia sobre esa materia.Así sucede con la palabra ampere que usamos para medir el volumen de la corriente eléctrica; el voltio, con la que indicamos la fuerza de la corriente, y el ohm, que empleamos para indicar la resistencia que un determinado conductor ofrece al paso de la corriente. Y de esta manera, con mucho estudio de palabras y cifras, los maestros de la ciencia de la electricidad tratan de persuadirse a sí mismo y a los demás de que ya han aprendido los misterios de la fuerza evasiva que desempeña un papel tan importante en el trabajo del mundo. Pero una vez dicho todo, cuando se encuentran en un estado de ánimo comunicativo y confidencial, confiesan que el más reputado científico en electricidad sabe acerca de ésta poco más que el niño que va a la escuela y que empieza a hacer experimentos con sus pilas y acumuladores. 
 
@@ -107,7 +107,7 @@ Es un axioma de la ciencia que la Naturaleza no tolera nada inútil. Los parási
 
 Mas tarde, en el Solsticio de Invierno, nos encontramos en el otro polo del ciclo anual, en el que los días son cortos y las noches largas. Físicamente hablando, las Tinieblas envuelven al Hemisferio Norte, pero la oleada de Luz y Vida Espirituales que constituirán la base del crecimiento y progreso del mismo año, se encuentran ahora en su máxima potencia y tensión. En la Noche de Navidad, durante el Solsticio de Invierno, cuando el signo celestial de la Virgen Inmaculada se eleva en el horizonte oriental a Media Noche, nace el Sol del nuevo año para salvar a la humanidad del frío y del hambre que se producirían de faltar su luz. En ese tiempo el Espíritu de Cristo nace en la Tierra y comienza a ejercer su acción, fertilizando los millones de simientes que los espíritus de la Naturaleza construyen y riegan para que haya alimento físico. Pero "no solo de pan vive el hombre." Por más importante que sea el trabajo de dicho espíritus, se desvanece en la mayor insignificancia al compararlo con la misión del Cristo, que nos trae cada año el alimento espiritual necesario para hacernos adelantar en la senda del progreso, para que lleguemos ha alcanzar la perfección del amor con todo lo que ello implica. 
 
-### <h3 id="chapter-4">CAPÍTULO IV: LAS FUERZAS DE LOS DISTINTOS PERÍODOS</h3>
+### <h3 id="chapter-4">Capítulo IV: Las fuerzas de los distintos períodos</h3>
 
 Durante el Periodo Lunar, el contacto de la esfera caliente con el frío del Espacio género humedad y entonces comenzó la batalla de los elementos con toda su fuerza. La Esfera de Fuego trataba de evaporar la humedad y expulsarla hacia el exterior, creando un vacío dentro del cual pudiera mantener su integridad y arder imperturbablemente. Pero no hay ni puede haber vacío alguno en la Naturaleza y así la corriente de vapor que brotaba hacía el exterior se condensaba a cierta distancia de la Esfera Ardiente y era nuevamente impulsada hacía adentro por el frío del Espacio, para ser nuevamente evaporada y repelida hacía afuera en un ciclo incesante durante edades y edades como un volante o rehilete entre las distintas jerarquías de Espíritu que componen los varios Reinos de la Vida, representados en la Esfera Ignea y en el Espacio Cósmico, que es una expresión del Espíritu Homogéneo Absoluto. Los Espíritus del Fuego están luchando activamente para lograr la expansión de la conciencia. Pero el Absoluto reposa, envuelto siempre en la invisible vestidura del Espacio Cósmico. En "El" existen latentes todos los poderes y las posibilidades, y El trata de desanimar y reprimir toda tentativa de gastar los poderes latentes como energía dinámica requerida para la Evolución de nuestro Sistema Solar. El Agua es el agente que El emplea para apagar el fuego de los espíritus activos. La zona entre el Centro Ardiente de la Esfera separada de los Espíritus y el Punto en que su atmósfera individual choca contra el Espacio Cósmico, es el campo de batalla de los espíritus evolucionantes en diversos grados de desarrollo. 
 
@@ -131,7 +131,7 @@ Las imágenes internas del Periodo Lunar eran una forma de expresión del ambien
 
 Al final del Periodo de Venus podrá usar su propia fuerza para dar vida a sus propias imágenes y exteriorizarlas objetivamente, como cosas en el espacio. Entonces poseerá una conciencia creadora, objetiva y consciente de sí. 
 
-### <h3 id="chapter-5">CAPÍTULO V: EL ESPÍRITU DE LA TIERRA</h3>
+### <h3 id="chapter-5">Capítulo V: El espíritu de la Tierra</h3>
 
 La mayoría de nosotros marchamos sobre la Tierra y vemos solo una masa muerta en apariencia, pero uno de los primeros hechos que se revelan a la conciencia del iniciado es la realidad viviente del Espíritu de la Tierra. Así como la superficie del cuerpo está muerta en comparación con los órganos internos, así también la envoltura exterior de la Tierra, encostrada, no nos da ninguna idea de la maravillosa actividad que hay en su interior. En el sendero de la iniciación se van revelando nueve estratos diferentes y en el centro mismo de esta esfera rodante encontramos al Espíritu de la Tierra frente a frente. Es absolutamente cierto que "está gimiendo penosamente" en la Tierra para beneficio de todos, trabajando y esperando ansiosamente por la manifestación de los Hijos de Dios, de manera que, igual como el alma que busca y aspira a la liberación, es liberada de su cuerpo denso, así el Espíritu de la Tierra pueda también ser liberado de su cuerpo de muerte, en el que está actualmente confinado por nosotros. 
 
@@ -143,7 +143,7 @@ Cuando Parsifal, el héroe de otro de esos grandes mitos anímicos, visita por p
 
 Este es el gran punto cardinal que señala la gran diferencia entre las personas que accidentalmente se ponen en contacto con los espíritus de los reinos suprafísicos o quienes, por pura casualidad, tropiezan con la solución de alguna ley de la Naturaleza, y aquellos que mediante una búsqueda diligente y particularmente por vivir la vida exigida, alcanzan la Iniciación consciente en los secretos de la Naturaleza. Los primeros no saben como emplear ese poder inteligentemente y se encuentran por lo tanto desvalidos. Los últimos son siempre dueños de las fuerzas que manejan, en tanto que los otros son simples muñecos para el que quiera aprovecharse de ellos. 
 
-### <h3 id="chapter-6">CAPÍTULO VI: DOS PREGUNTAS Y SUS RESPUESTAS</h3>
+### <h3 id="chapter-6">Capítulo VI: Dos preguntas y sus respuestas</h3>
 
 Un estudiante pregunta: "¿ No es la Naturaleza la culpable de las deformaciones en el Reino Vegetal y Animal, lo mismo que en la raza humana? ¿Puede existir una inteligencia perfectamente equilibrada y sana juntamente con una voluntad poderosa en un cuerpo deforme?" 
 
@@ -171,7 +171,7 @@ Las ondinas, que viven en las aguas y los silfos del aire también están sujeto
 
 Sin embargo, todo esto nada tiene que ver con los caballos de Elberfeld u otros animales prodigios. Estos constituyen la vanguardia de sus respectivos Espíritus -colectivos o grupales, y probablemente es la última vez que se han encarnado en forma animal. Cuando se producen estos casos, esos espíritus son relegados al Caos, donde tendrán que esperar durante la Noche Cósmica, hasta que sus hermanos menos dotados lleguen al estado de desenvolvimiento necesario para comenzar su evolución humana en el Periodo de Júpiter. 
 
-### <h3 id="chapter-7">CAPÍTULO VII: LA CONSTITUCIÓN DE LA TIERRA Y LAS ERUPCIONES VOLCÁNICAS</h3>
+### <h3 id="chapter-7">Capítulo VII: La constitución de la Tierra y las erupciones volcánicas</h3>
 
 Aun entre los mismos ocultistas se considera como uno de los problemas más difíciles el de investigar la misteriosa constitución de la Tierra. Todo ocultista sabe cuanto más fácil es investigar completa y correctamente el Mundo del Deseo y la Región del Pensamiento Concreto, trayendo los resultados de esas investigaciones al Mundo Físico, que investigar completamente los secretos de nuestro planeta físico, porque para poder hacerlo así completamente uno tiene que haber pasado por los nueve Misterios Menores y la primera de las Grandes Iniciaciones. 
 
@@ -189,15 +189,15 @@ Cuando el hombre en su marcha ha pasado por las nueve iniciaciones menores, obte
 
 El diagrama que va en la página 151 nos dará una idea de la disposición de los estratos terrestre, omitiéndose el corazón central para indicar con más claridad la forma de lemniscata de las corrientes en el noveno estrato. En el diagrama aparecen los estratos como si fueran del mismo grosor, aunque en realidad algunos son mucho más delgados que los otros. Empezando con el más exterior, aparecen en el orden siguiente: 
 
-1.- La Tierra Mineral: Esta es la costra pétrea de la Tierra, de la que se ocupa la geología hasta donde logra penetrar. 
+1\. La Tierra Mineral: Esta es la costra pétrea de la Tierra, de la que se ocupa la geología hasta donde logra penetrar. 
 
-2.- El Estrato Fluídico: La sustancia de este estrato es más fluídica que la costra externa, pero no es como el agua, sino más bien como una pasta espesa. Tiene la cualidad de la expansión, como la de un gas extremadamente explosivo, y se mantiene en su lugar gracias a la enorme presión de la costra externa. Si se sacara la costra externa, todo el Estrato Fluídico desaparecería en el espacio con una formidable explosión. Corresponde a las Regiones Química y Etérica del Mundo Físico. 
+2\. El Estrato Fluídico: La sustancia de este estrato es más fluídica que la costra externa, pero no es como el agua, sino más bien como una pasta espesa. Tiene la cualidad de la expansión, como la de un gas extremadamente explosivo, y se mantiene en su lugar gracias a la enorme presión de la costra externa. Si se sacara la costra externa, todo el Estrato Fluídico desaparecería en el espacio con una formidable explosión. Corresponde a las Regiones Química y Etérica del Mundo Físico. 
 
-3.- Estrato Vaporoso: En el primer y segundo estratos no existe realmente vida consciente, pero en este estrato hay una vida pulsante y fluyente, como en el Mundo de Deseos que rodea e interpenetra nuestra Tierra. 
+3\. Estrato Vaporoso: En el primer y segundo estratos no existe realmente vida consciente, pero en este estrato hay una vida pulsante y fluyente, como en el Mundo de Deseos que rodea e interpenetra nuestra Tierra. 
 
-4.- Estrato Acuoso: En este estrato existen las posibilidades germinales de todo cuanto existe en la superficie de la Tierra. Aquí están las fuerzas arquetípicas que están tras lo Espíritus-grupo o colectivos, así como las fuerzas arquetípicas de los minerales, porque este es la expresión física directa de la Región del Pensamiento Concreto. 
+4\. Estrato Acuoso: En este estrato existen las posibilidades germinales de todo cuanto existe en la superficie de la Tierra. Aquí están las fuerzas arquetípicas que están tras lo Espíritus-grupo o colectivos, así como las fuerzas arquetípicas de los minerales, porque este es la expresión física directa de la Región del Pensamiento Concreto. 
 
-5.- Estrato Germinal: Los científicos materialistas han fracasados en todos sus esfuerzos para descubrir el origen de la vida, estos es, como vinieron primeramente a la existencia las cosas vivientes surgiendo de la materia muerta. 
+5\. Estrato Germinal: Los científicos materialistas han fracasados en todos sus esfuerzos para descubrir el origen de la vida, estos es, como vinieron primeramente a la existencia las cosas vivientes surgiendo de la materia muerta. 
 
 En realidad., de acuerdo con las explicaciones ocultas de la Evolución, la pregunta debería referirse a como se originaron las cosas "muertas." La vida estaba allí antes que las formas muertas. Formó sus cuerpos con la tenue sustancia vaporosa, antes de que ella se condensara en la sólida costra terrestre. Solo cuando la vida había abandonado las formas, pudieron éstas cristalizarse y convertirse en cosas duras y muertas. 
 
@@ -205,7 +205,7 @@ El carbón mineral no es otra cosa que el cuerpo cristalizado de los cuerpos veg
 
 En este quinto estrato está la fuente primordial de la vida de donde surgió el ímpetu que construyó todas las formas de la Tierra. Corresponde a la Región del Pensamiento Abstracto. 
 
-6.- Estrato Igneo: Por extraño que parezca, este estrato posee sensación. El placer y el dolor, la simpatía y la antipatía tienen su efecto aquí en la Tierra. Se supone generalmente que la Tierra no puede tener sensaciones de ninguna especie, sean cuales fueren las circunstancias. El Ocultista, sin embargo, mientras observa la siega del grano maduro o la recolección de las frutas en el Otoño, o el corte de las flores, conoce el placer que experimenta la Tierra misma con ello. Es un placer similar al que siente la vaca cuando el ternero chupa la leche de sus ubres repletas. La Tierra siente placer al haber proveído la nutrición necesario para su progenie de formas, y este placer alcanza su máximo durante el tiempo de la cosecha. 
+6\. Estrato Igneo: Por extraño que parezca, este estrato posee sensación. El placer y el dolor, la simpatía y la antipatía tienen su efecto aquí en la Tierra. Se supone generalmente que la Tierra no puede tener sensaciones de ninguna especie, sean cuales fueren las circunstancias. El Ocultista, sin embargo, mientras observa la siega del grano maduro o la recolección de las frutas en el Otoño, o el corte de las flores, conoce el placer que experimenta la Tierra misma con ello. Es un placer similar al que siente la vaca cuando el ternero chupa la leche de sus ubres repletas. La Tierra siente placer al haber proveído la nutrición necesario para su progenie de formas, y este placer alcanza su máximo durante el tiempo de la cosecha. 
 
 Por otro lado, cuando se arranca a las plantas de raíz, es evidente para el ocultista que la Tierra siente un pinchazo de dolor. Por esa razón no quiere comer alimentos vegetales que crezcan bajo la tierra. En primer lugar, están llenos de energía terrestre y son escasos de fuerzas solar, estando además emponzoñados por el hecho de haber sido arrancados de raíz. La única excepción a esta regla es la patata, que originalmente creció en la superficie de la tierra y que solo en tiempos comparativamente recientes empezó a desarrollarse bajo el suelo. Los Ocultistas tratan siempre de nutrir sus cuerpos con frutos que crezcan al sol, porque contienen mayor cantidad de la superior energía solar y no han causado dolor alguno a la Tierra. 
 
@@ -215,14 +215,14 @@ Como la sensación en los animales y el ser humano se debe a sus respectivos cue
 
 Conforme prosiga la Evolución y el hombre aprenda las lecciones correspondientes a este punto máximo de concreción, entonces la Tierra se irá ablandando y su Espíritu se liberará más y mas. Esto es lo que quería decir San Pablo cuando hablaba de que toda la creación está gimiendo penosamente, esperando por el día de la liberación. 
 
-7.- Estrato Reflector: Esta parte de la Tierra corresponde al Mundo del Espíritu Divino. Existen en la Ciencia Oculta lo que se denomina "Los Siete Secretos Indecibles." Para los que no conozcan estos secretos o no tengan por lo menos una vislumbre de su importancia, las propiedades de este estrato deben parecerles peculiarmente absurdas y grotescas. En este estrato existen todas las fuerzas morales o más bien inmorales que conocemos como las "Leyes de la Naturaleza." Al principio de la carrera consciente del hombre, estas fuerzas eran muchísimo peores que actualmente, pero parece que conforme la humanidad progresa éticamente, estas fuerzas mejoran correspondientemente, y cualquier relajamiento que se produzca en la moral tiene cierta tendencia a desencadenar estas Fuerzas de la Naturaleza, provocando caos terribles en la Tierra, mientras que el anhelo y la lucha ferviente por altos ideales convierte a esas fuerzas en menos enemigas del ser humano. 
+7\. Estrato Reflector: Esta parte de la Tierra corresponde al Mundo del Espíritu Divino. Existen en la Ciencia Oculta lo que se denomina "Los Siete Secretos Indecibles." Para los que no conozcan estos secretos o no tengan por lo menos una vislumbre de su importancia, las propiedades de este estrato deben parecerles peculiarmente absurdas y grotescas. En este estrato existen todas las fuerzas morales o más bien inmorales que conocemos como las "Leyes de la Naturaleza." Al principio de la carrera consciente del hombre, estas fuerzas eran muchísimo peores que actualmente, pero parece que conforme la humanidad progresa éticamente, estas fuerzas mejoran correspondientemente, y cualquier relajamiento que se produzca en la moral tiene cierta tendencia a desencadenar estas Fuerzas de la Naturaleza, provocando caos terribles en la Tierra, mientras que el anhelo y la lucha ferviente por altos ideales convierte a esas fuerzas en menos enemigas del ser humano. 
 
 Las fuerzas de este estrato son, en todo momento, un reflejo exacto del estado de la moral existente en la humanidad. Desde el punto de vista oculto, la "Mano de Dios" que castigó a Sodoma y Gomorra, no es una superstición estúpida, porque así como existe una responsabilidad individual para la Ley de Consecuencia que atrae a cada persona los justos resultados de sus obras, sean buenas o malas, así también existe una responsabilidad comunal y nacional, que atrae sobre los grupos correspondientes de seres humanos los resultados ineludibles de sus actos colectivos. Las fuerzas de la Naturaleza constituyen los agentes generales de esa justicia retributiva, causando inundaciones, terremotos o bien las provechosas formaciones de yacimientos petrolíferos o carboníferos para varios grupos, de acuerdo con sus merecimientos. 
 
-8.- Estrato Atómico: Este es el nombre dado por los Rosacruces a la octava capa de la Tierra, que es la expresión del Mundo de los Espíritus Virginales. Parece tener la propiedad de multiplicar muchas veces las cosas que hay allí. Esto se aplica, sin embargo, solamente a las cosas que han sido definitivamente formadas. Un trozo informe de madera, o una piedra bruta, no tiene existencia allí, pero todo lo que ha sido esculpido o modelado o tiene vida y forma como una flor o un cuadro, este estrato lo multiplica hasta un grado asombroso. 
+8\. Estrato Atómico: Este es el nombre dado por los Rosacruces a la octava capa de la Tierra, que es la expresión del Mundo de los Espíritus Virginales. Parece tener la propiedad de multiplicar muchas veces las cosas que hay allí. Esto se aplica, sin embargo, solamente a las cosas que han sido definitivamente formadas. Un trozo informe de madera, o una piedra bruta, no tiene existencia allí, pero todo lo que ha sido esculpido o modelado o tiene vida y forma como una flor o un cuadro, este estrato lo multiplica hasta un grado asombroso. 
 
-9.- Expresión Material del Espíritu Terrestre: Existen aquí corrientes lemniscatas (en forma de 8) que están íntimamente relacionadas con el cerebro, el corazón y los órganos sexuales de la raza humana. Corresponde al mundo de Dios. 
+9\. Expresión Material del Espíritu Terrestre: Existen aquí corrientes lemniscatas (en forma de 8) que están íntimamente relacionadas con el cerebro, el corazón y los órganos sexuales de la raza humana. Corresponde al mundo de Dios. 
 
-10.-Centro del Ser del Espíritu Terrestre: Nada más puede decirse acerca de éste, sino que es el estrato germinal ultérrimo de todo cuanto hay en la Tierra y corresponde al Absoluto. 
+10\. Centro del Ser del Espíritu Terrestre: Nada más puede decirse acerca de éste, sino que es el estrato germinal ultérrimo de todo cuanto hay en la Tierra y corresponde al Absoluto. 
 
 Fin 
