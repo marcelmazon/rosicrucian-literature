@@ -57,7 +57,7 @@ The work which follows is a spiritual record of the function of the pituitary bo
 
 <img alt="Diagram: The Ductless Glands and their Rulers" src="../assets/mdgen006.gif">
 
-<p><cite>Схема: Беспроводные (внутренней секреции) железы и их правители</cite></p>
+<p><cite>Diagram: The Ductless Glands and their Rulers</cite></p>
 
 <h2 id="astrology-and-the-ductless-glands-h2">Astrology and the Ductless Glands</h2>
 
