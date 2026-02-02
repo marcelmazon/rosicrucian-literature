@@ -7,9 +7,9 @@ author: "???"
 original_source_file: "pamphlet-19-rosicrucian-fundamentals-in-questions-and-answers.md"
 ---
 
-<h1 id="fundamentos-rosacruces-en-preguntas-y-respuesta">Folleto №19: Fundamentos Rosacruces en Preguntas y Respuestas</h1>
+<h1 id="pamphlet-19-rosicrucian-fundamentals-in-questions-and-answers">Folleto №19: Fundamentos Rosacruces en Preguntas y Respuestas</h1>
 
-### <h3 id="fundamentos-rosacruces-en-preguntas-y-respuesta">Fundamentos Rosacruces en Preguntas y Respuesta</h3>
+### <h3 id="rosicrucian-fundamentals-in-questions-and-answers">Fundamentos Rosacruces en Preguntas y Respuesta</h3>
 
 <strong><em>Pregunta:</em> Quiénes son los Rosacruces y qué significa su nombre?</strong>
 

@@ -7,9 +7,9 @@ author: "???"
 original_source_file: "pamphlet-41-shakespeare-the-lay-bible.md"
 ---
 
-<h1 id="shakespeare-la-biblia-laica">Folleto №41: Shakespeare - La Biblia Laica</h1>
+<h1 id="pamphlet-41-shakespeare-the-lay-bible">Folleto №41: Shakespeare - La Biblia Laica</h1>
 
-### <h3 id="shakespeare-la-biblia-laica">Shakespeare - La Biblia Laica</h3>
+### <h3 id="shakespeare-the-lay-bible">Shakespeare - La Biblia Laica</h3>
 
 Los trabajos de Shakespeare y la Biblia son tesoros de la vida cultural y espiritual estrechamente relacionados con la vida cultural y espiritual de los pueblos occidentales. Ambos sobresalen entre las fuerzas que han construido las características más finas y más duraderas de nuestra actual civilización. Incorporando todos los grandes principios fundamentales que subyacen en el propio corazón de la vida, se han entretejido en las fibras de nuestro pensamiento y aspiración. Incontables expresiones se han dado mediante estos principios en el arte y literatura que han sido inspiradas directamente, de una parte por las sagradas escrituras por un lado y por la Biblia laica de Shakespeare.
 

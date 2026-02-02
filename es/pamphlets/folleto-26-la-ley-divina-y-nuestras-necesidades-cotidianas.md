@@ -1,7 +1,7 @@
 ---
 title: "Folleto №26: La Ley Divina y Nuestras Necesidades Cotidianas"
 language: "es"
-original_title: "Pamphlet №26: THE LAW AND OUR NEEDS"
+original_title: "Pamphlet №26: The Law and our Needs"
 original_language: "en"
 author: "???"
 original_source_file: "pamphlet-26-the-law-and-our-needs.md"

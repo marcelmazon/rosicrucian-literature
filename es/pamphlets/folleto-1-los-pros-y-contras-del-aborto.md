@@ -7,9 +7,9 @@ author: "???"
 original_source_file: "pamphlet-1-the-pros-and-cons-of-abortion.md"
 ---
 
-<h1 id="los-pros-y-contras-del-aborto">Folleto №1: Los Pros y Contras del Aborto</h1>
+<h1 id="pamphlet-1-the-pros-and-cons-of-abortion">Folleto №1: Los Pros y Contras del Aborto</h1>
 
-### <h3 id="las-decisiones-de-los-tribunales">Las decisiones de los Tribunales</h3>
+### <h3 id="court-decisions">Las decisiones de los Tribunales</h3>
 
 Se ha dicho tanto, y se sigue diciendo, escribiendo, emitiendo por radio y televisión y argumentando en los estrados sobre el aborto, que uno se siente inclinado a pensar que cualquier nueva mención del tema resulta molesta para la mayor parte de la gente. Sin embargo, la decisión sobre la materia, del Tribunal Supremo de los Estados Unidos que, en efecto, anula leyes restrictivas del aborto de varios estados, hace más consciente que nunca al estudiante de las profundas verdades de la vida y del ser, de la imperativa necesidad de aumentar la comprensión de los factores intervinientes y de las deplorables consecuencias involucradas en esta práctica no cristiana, que se ha convertido alarmantemente en frecuente y normal.
 
@@ -19,19 +19,19 @@ En su histórica decisión, el Tribunal mantuvo que la prohibición del aborto t
 
 Como esta materia es de tan vital importancia para toda la raza humana, tanto ahora como en el futuro, y sus consecuencias tan condicionantes del futuro lejano y tan contrarias al desarrollo espiritual, sería sumamente beneficioso para todo adulto, que considerase el asunto con mente abierta, en sus aspectos físicos y espirituales. La referencia del tribunal al “presente momento del conocimiento humano” alude, seguramente, al conocimiento “aceptado” por el público en general. Afortunadamente, hay seres humanos que han progresado espiritualmente lo suficiente para haber adquirido conocimientos, aún no aceptados por la mayoría de la humanidad. Entre esos hombres evolucionados se encuentran los Hermanos de la Rosa Cruz, Adeptos que trabajan constantemente por el bienestar de la Humanidad y que han impartido las Enseñanzas de la Sabiduría Occidental en sus esfuerzos por contrarrestar los insidiosos efectos del materialismo y por hacer avanzar la evolución espiritual en general.
 
-### <h3 id="las-leyes-de-renacimiento-y-de-consecuencia">Las leyes de Renacimiento y de Consecuencia</h3>
+### <h3 id="laws-of-rebirth-and-consequence">Las leyes de Renacimiento y de Consecuencia</h3>
 
 Entre esas Enseñanzas destacan las relativas a las dos leyes gemelas de Renacimiento y de Consecuencia. La doctrina del renacimiento enseña que cada Ego es una parte integrante de Dios, desarrollando todas sus divinas posibilidades; que, mediante existencias repetidas en cuerpos cada vez más perfectos, esas posibilidades latentes se van transformando en poderes dinámicos; que nadie se pierde en ese proceso, sino que toda la Humanidad alcanzará finalmente la meta de la perfección y la reunión con Dios. Lo que somos, lo que poseemos y nuestras buenas cualidades son el resultado de nuestras acciones del pasado. Lo que nos falta física, mental o moralmente, puede ser nuestro en el futuro. Lo que sembramos es lo que recogemos. Cada vida nos proporciona las experiencias necesarias para nuestro progreso evolutivo. Y, si no se nos permite encarnar en un cuerpo físico, no podemos vivir esas experiencias.
 
 La idea, generalmente aceptada, sobre el hecho de matar (excepto para la mente muy materialista que sólo acepta la forma) es la de que la “vida” termina simplemente porque el cuerpo no puede seguir funcionando. Pero esto es un error. La vida es eterna, como enseñan, tanto la Biblia como la ciencia oculta; y el espíritu individual, que ocupa un cuerpo, o que empieza a ocuparlo, no puede ser destruido. Pero, por supuesto, la forma en la cual ha de vivir en la Tierra para conseguir la experiencia necesaria para su progreso, puede ser, y frecuentemente lo es, destruida. El hacer esto es tan reprensible como infringir cualquier otra de las leyes espirituales que gobiernan el universo. “No matarás” es una ley básica de la Humanidad, aunque se trate sólo de la forma, y los que la desafían, mediante el aborto o de cualquier otro modo, tendrán que experimentar en el futuro un grave castigo.
 
-### <h3 id="la-santa-fuerza-creadora">La Santa Fuerza Creadora</h3>
+### <h3 id="holy-creative-force">La Santa Fuerza Creadora</h3>
 
 Otro punto de vital importancia, a tener en cuenta en relación con la práctica del aborto, es la santidad de la fuerza creadora en el ser humano. Es el aspecto Espíritu Santo, tanto en Dios como en el hombre, de que se habla en numerosos pasajes de la Biblia (Mateo 1:18; Marcos 1:8; Lucas 1:15; Juan 14:26; Hechos 2:4, etc.), el poder empleado, no sólo para crear cuerpos físicos sino, en un nivel más elevado, grandes obras literarias, poéticas, artísticas, musicales, científicas, etc. El mal uso de ese sagrado poder, para la gratificación de los sentidos, es la “gran transgresión” de que se habla en el Salmo 19:3. Es el “pecado (acto contrario a la ley espiritual) imperdonable”, que debe expiarse mediante el sufrimiento que suponen las enfermedades y mediante futuras incapacidades físicas y mentales. Como Cristo dijo explícitamente: “A los hombres se les podrá perdonar cualquier pecado o blasfemia, pero la blasfemia contra el Espíritu Santo no tendrá perdón” (Mateo 12:31).
 
 Cuando se considera el intrincado e inspirador proceso que tiene lugar en los mundos invisibles, y que incluye las actuaciones de los ángeles y sus ayudantes, para traer de nuevo un Ego a un cuerpo físico, y todas las pasadas causas y efectos que intervienen en este acontecimiento, uno debería reflexionar antes de destruir el vehículo infantil, aunque lleve poco tiempo formándose. Permítasenos exponer brevemente cómo describe este proceso la ciencia oculta.
 
-### <h3 id="preparación-del-ego-para-el-renacimiento">Preparación del Ego para el renacimiento</h3>
+### <h3 id="egos-preparation-for-rebirth">Preparación del Ego para el renacimiento</h3>
 
 Tras haberse llenado de fuerza en la inefable armonía del elevado mundo llamado Tercer Cielo (mencionado por San Pablo en II Corintios 12:2), el Ego siente deseos de nuevas experiencias en el mundo físico y empieza a considerar un nuevo nacimiento. Ello conjura ante su visión una serie de imágenes y, ante él se despliega un panorama de la futura vida, conteniendo los acontecimientos principales, y que empieza en la cuna y termina en la tumba. En algunos casos, son varios los panoramas entre los que el Ego avanzado puede escoger.
 
@@ -41,7 +41,7 @@ El cuerpo vital, una vez moldeado por los Señores del Destino, dará forma al c
 
 Una vez ha tenido lugar la fecundación del óvulo, el cuerpo de deseos de la madre trabaja en él durante un período entre dieciocho y veintiún días, permaneciendo el Ego fuera, en su cuerpo de deseos y su cubierta mental, aunque en estrecho contacto con la madre. Los vehículos en forma de campana descienden sobre la cabeza del cuerpo vital y la campana se cierra por el fondo. El Ego gravita sobre su futuro vehículo, manteniendo su individualidad y resistiendo la formación, por la madre, de las células nucleadas de la sangre. Esas células van desapareciendo gradualmente de modo que, cuando el Cordón de Plata queda anudado con el avivamiento del feto, todas las células nucleadas han desaparecido ya y el Ego es el dueño absoluto de su vehículo, que constituye una preciosa herencia.
 
-### <h3 id="transmutando-la-fuerza-sexual">Transmutando la fuerza sexual</h3>
+### <h3 id="transmuting-the-sex-force">Transmutando la fuerza sexual</h3>
 
 Vemos, pues que el aborto, si bien no mata al espíritu, que es inmortal, destruye la forma, esencial para su empleo en la Tierra, e impide la consecución de la necesaria experiencia, lo cual constituye un acto pecaminoso y degradante. No importa en qué momento de su crecimiento se destruya el feto: las consecuencias son igualmente terribles.
 

@@ -7,9 +7,9 @@ author: "???"
 original_source_file: "pamphlet-9-the-brothers-of-the-rose-cross.md"
 ---
 
-<h1 id="los-hermanos-de-la-rosa-cruz">Folleto №9: Los Hermanos de la Rosa Cruz</h1>
+<h1 id="pamphlet-9-the-brothers-of-the-rose-cross">Folleto №9: Los Hermanos de la Rosa Cruz</h1>
 
-### <h3 id="los-hermanos-de-la-rosa-cruz">Folleto №9: Los Hermanos de la Rosa Cruz</h3>
+### <h3 id="the-brothers-of-the-rose-cross">Folleto №9: Los Hermanos de la Rosa Cruz</h3>
 
 Todo el que aspira y se siente atraído “en espíritu y en verdad”, por la Fraternidad Rosacruz y sus Enseñanzas, se sitúa en la esfera de atención y de influencia de los iluminados de la raza humana, que conocemos como Hermanos Mayores de la Rosa Cruz. Es muy importante para nosotros el darnos cuenta del verdadero significado de este hecho y el tratar de obtener el máximo beneficio de tan maravilloso privilegio. Podemos atraer su ayuda si dedicamos el tiempo suficiente a meditar sobre ellos y sus actos humanitarios, enviándoles nuestro amor y gratitud y dedicándonos a cooperar en sus constantes esfuerzos en favor de la elevación de la Humanidad.
 

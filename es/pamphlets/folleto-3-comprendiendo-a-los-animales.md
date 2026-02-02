@@ -98,7 +98,8 @@ Ella Wheeler Wilcox expone en estas hermosas palabras la justa reclamación de t
 ```
 “Soy la voz de los sin voz; 
 por mi medio hablará el mudo 
-hasta que su sordo oído del mundo sea capaz de escuchar 
+hasta que su sordo oído del mundo 
+sea capaz de escuchar 
 las injusticias con los débiles que no hablan.”
 “La misma fuerza formó al gorrión 
 e hizo al hombre rey. 
