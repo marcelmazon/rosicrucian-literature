@@ -1,6 +1,6 @@
 ---
 title: "Información de interés general"
-language: "en"
+language: "es"
 original_title: "???"
 original_language: "???"
 author: "???"
