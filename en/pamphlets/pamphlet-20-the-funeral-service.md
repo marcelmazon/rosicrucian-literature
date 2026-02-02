@@ -9,7 +9,7 @@ original_source_file: "self"
 
 <h1 id="pamphlet-20-the-funeral-service">Pamphlet №20: The Funeral Service</h1>
 
-### <h3 id="the-funeral-service">THE FUNERAL SERVICE</h3>
+### <h3 id="the-funeral-service">The Funeral Service</h3>
 
 Order of Funeral Service conducted by The Rosicrucian Fellowship and its Centers, and by friends desiring to use it.
 
@@ -30,7 +30,7 @@ Nearer to Thee!
 
 Unveil Emblem–White Cross with white rose in center. Rosicrucian Greeting by Reader: “My dear Sisters and brothers: May the Roses bloom upon your Cross.” Response by People: “And upon yours, also.” Reader: Let us devote a moment to silent meditation upon the thought of love, peace, and tranquility.
 
-### <h3 id="address">ADDRESS</h3>
+### <h3 id="address">Address</h3>
 
 “But I would not have you to be ignorant, brethren concerning them which are asleep, that ye sorrow not, even as others which have no hope. For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with Him.” (I Thess. 4:13-14.)
 
@@ -50,7 +50,7 @@ We rejoice when a soul is born, that is, encased in a robe of clay; but we weep 
 
 If weeping is to be indulged in, then we should weep when the spirit is born into this world; but we should rejoice when death comes to liberate it from the pain and discomfort of physical existence. if we could see and know the relief which our loved ones feel when they are freed from a suffering body, we should truly rejoice, and no longer weep. Think of a poor soul, who has been chained to a bed of sickness, when it awakens in the invisible world where it is able to move about freely whither it will, and free from pain. Should we not bid such a soul Godspeed and not weep?
 
-It has pleased God to call our friend,………………………….., to a greater work, to broader fields, in another world where he (or she) has no need for a physical body, and he (or she) has therefore laid this garment away.
+It has pleased God to call our friend, _________, to a greater work, to broader fields, in another world where he (or she) has no need for a physical body, and he (or she) has therefore laid this garment away.
 
 (Short talk here relative to the qualities and past activities of the departed person.)
 
@@ -97,7 +97,7 @@ Let us send up a prayer asking the aid of God in speeding our departed brother (
 
 (Close by singing the last verse of the Rosicrucian Fellowship Closing Hymn.)
 
-### <h3 id="god-be-with-you-till-we-meet-again">GOD BE WITH YOU TILL WE MEET AGAIN</h3>
+### <h3 id="god-be-with-you-till-we-meet-again">God Be with You till We Meet Again</h3>
 
 ```
 God be with you till we meet again
