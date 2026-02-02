@@ -1,7 +1,7 @@
 --- 
 title: "Astrological Keyword System of Analyzing Character and Destiny" 
 language: "en" 
-original_title: "Astrological Keyword System" 
+original_title: "Astrological Keyword System of Analyzing Character and Destiny" 
 original_language: "en" 
 author: "J.D." 
 original_source_file: "self" 
@@ -117,7 +117,6 @@ Water Signs - Spiritual and psychic qualities, emotion.
 *Basic* - Position, honors, ambition.   
 *Pos.* - Justice, organization, caution, economy, authority.   
 *Neg.* - Pride, suspicion, resentfulness, pessimism, unforgiveness, justice without mercy.  
-
 
 #### <h4 id="aquarius">Aquarius</h4>
 
