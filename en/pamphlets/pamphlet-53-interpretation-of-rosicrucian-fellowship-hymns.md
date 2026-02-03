@@ -59,7 +59,7 @@ The Sunday Evening Service at Headquarters always begins with those in attendanc
 
 The key of D Major, dominated by Venus love, may be likened to a tuning fork. When its tone is struck all other tuning forks within radius of its vibratory waves (those in the audience) will sing in unison if of identical pitch.
 
-Note that the key power of Venus, which dominates the Libran life wave, is i&gt;love. Love is correlated to the second aspect of God and man. Man therefore responds to this love power when it is sounded in the keynote of Libra, probably very faint at first; but gradually this continually sounding force will awaken the love power in man, and in time will develop its full expression, which includes harmony and unity. This much to be desired result accounts for the reason why every Sunday evening without fail the Rosicrucian Opening Hymn is sung.
+Note that the key power of Venus, which dominates the Libran life wave, is love. Love is correlated to the second aspect of God and man. Man therefore responds to this love power when it is sounded in the keynote of Libra, probably very faint at first; but gradually this continually sounding force will awaken the love power in man, and in time will develop its full expression, which includes harmony and unity. This much to be desired result accounts for the reason why every Sunday evening without fail the Rosicrucian Opening Hymn is sung.
 
 The words of this hymn were written by Max Heindel and contain much illuminating information. Let us examine its stanzas and find just what they do contain:
 
