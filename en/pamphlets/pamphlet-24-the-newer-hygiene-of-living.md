@@ -39,19 +39,19 @@ The average proportions of food principles in a good diet are: carbohydrates, 60
 
 ### <h3 id="food-constituents">Food Constituents</h3>
 
-I. CARBOHYDRATES
+I. Carbohydrates
 
 Function: to produce heat and energy.
 
 Sources: sugars and starches; sugar cane, beets, sweet fruits, honey, cereals, breadstuffs, potatoes, and starchy vegetables.
 
-FATS
+II. Fats
 
 Function: to produce heat and energy.
 
 Sources: butter, cream, vegetable oils, olive oil, nuts, nut products, cotton seed oil products, chocolate, coconut, avocado.
 
-PROTEIN
+III. Proteins
 
 Function: to build and repair tissue.
 
@@ -149,7 +149,7 @@ Insufficient amounts and improper kinds of foods.
 
 Physical defects, such as poor teeth, infected tonsils, enlarged adenoids.
 
-Faulty habits of eating and living which include: lack of fresh air and sunshine; inattention to personal cleanliness; unpleasant surroundings; unwholesome mental attitudes; too little recreation; improper elimination
+Faulty habits of eating and living which include: lack of fresh air and sunshine; inattention to personal cleanliness; unpleasant surroundings; unwholesome mental attitudes; too little recreation; improper elimination.
 
 ### <h3 id="menu-planning">Menu Planning</h3>
 
@@ -241,11 +241,11 @@ To keep the body in a state of health and high resistance to disease, the normal
 
 ### <h3 id="alkaline-producing-foods">Alkaline-Producing Foods</h3>
 
-Lima Beans, Dates, Spinach and other Greens, fresh Beets, Milk, Molasses, Raisins, Almonds, Parsnips, Coconuts, Pineapple, Sweet Potatoes, Plums, Cabbage, Bananas, Oranges, Tomatoes, Lemons, String Beans, Peas, Cottage Cheese, Watercress, Carrots, Figs, Rutabagas, Turnips, Cucumbers, Apples, Pears, Radishes, Onions, Peas, Celery, Melons, Squash, Lettuce, Potatoes, Peaches, Mushrooms, Grape Juice
+Lima Beans, Dates, Spinach and other Greens, fresh Beets, Milk, Molasses, Raisins, Almonds, Parsnips, Coconuts, Pineapple, Sweet Potatoes, Plums, Cabbage, Bananas, Oranges, Tomatoes, Lemons, String Beans, Peas, Cottage Cheese, Watercress, Carrots, Figs, Rutabagas, Turnips, Cucumbers, Apples, Pears, Radishes, Onions, Peas, Celery, Melons, Squash, Lettuce, Potatoes, Peaches, Mushrooms, Grape Juice.
 
 ### <h3 id="acid-producing-foods">Acid-Producing Foods</h3>
 
-Meats, Corn, Fish and Shell Fish, Walnuts, Poultry, Cheddar Cheese, Cereals, Breads, Flour Products, Egg Yolks, Barley, Rice, Spaghetti, Butter, Lentils, Peanuts, Cranberries, Prunes, Rhubarb, Pastry, Macaroni
+Meats, Corn, Fish and Shell Fish, Walnuts, Poultry, Cheddar Cheese, Cereals, Breads, Flour Products, Egg Yolks, Barley, Rice, Spaghetti, Butter, Lentils, Peanuts, Cranberries, Prunes, Rhubarb, Pastry, Macaroni.
 
 ### <h3 id="neutral-foods">Neutral Foods</h3>
 
@@ -263,7 +263,7 @@ The ash results of prunes, cranberries, and rhubarb are alkaline in nature, but 
 
 ### <h3 id="mental-health">Mental Health</h3>
 
-A healthy mental Age can be developed just as surely as firm, strong muscle. though R b not easy, most persons can so direct their thoughts and order their lives to gradually build a high order of self-control.
+A healthy mental state can be developed just as surely as firm, strong muscle. Though not as easy, most persons can so direct their thoughts and order their lives to gradually build a high order of self-control. 
 
 Mental training means a training in control, in removing unwholesome states, and in substituting wholesome plans and purposes and gratifying interests.
 
