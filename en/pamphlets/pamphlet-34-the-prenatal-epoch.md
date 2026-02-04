@@ -15,7 +15,7 @@ The primary principle of the Prenatal Epoch has been stated by Max Heindel in <e
 
 This law was known to the ancients as the “Truitine of Hermes,” from Hermes Trismegistus, who first correctly formulated and stated the law as follows: “The place of the Moon at conception becomes the birth ascendant or its opposite point.”
 
-“But this proved to be but one-half of a very important law, for while the Ascendant at birth was the place of the Moon at a certain Epoch, the Ascendant or its opposite point at this Epoch was the place of the Moon at birth – <em>a very remarkable interchange of factors</em>.” –E.H. Bailey.
+“But this proved to be but one-half of a very important law, for while the Ascendant at birth was the place of the Moon at a certain Epoch, the Ascendant or its opposite point at this Epoch was the place of the Moon at birth – <em>a very remarkable interchange of factors</em>.” – E.H. Bailey.
 
 According to the Ancient Wisdom, “The World-Breath has a definite and periodic pulsation, a systole and diastole action, whereby birth and death are controlled.” This idea of periodicity, well established by modern science, furthers the idea that birth can take place only in respect to any single locality at intervals, that these intervals are in accord with lunar motion, and that only every seventh impulse of the World-Breath permits of human births.
 
@@ -101,7 +101,7 @@ Moon below the earth and increasing in light.
 
 Period of gestation is 273 days plus “x”.
 
-“Count is to AC, because increasing and is 115 degrees. This divided by 13 equals 9 days the period is lengthened. Hence”Epoch Date” falls 9 days before “Index Date.”
+“Count is to AC, because increasing and is 115 degrees. This divided by 13 equals 9 days the period is lengthened. Hence ”Epoch Date” falls 9 days before “Index Date.”
 
 #### <h4 id="order-no-4">Order No. 4</h4>
 
@@ -246,7 +246,7 @@ Up to this time we have been dealing with the regular Epoch, that is, when there
 
 A third class of Epochs comprises those which are more strictly designated “Sex Epochs.” Here the interchange of the two factors is wholly and exclusively governed by the sex of the areas in which both the Moon and the Ascendant are placed, taken in conjunction with the sex of the subject. Sometimes the interchange will be regular, but in others either of the three irregular methods will obtain, while the sex of the quadrant of the Moon held at Epoch is brought into use in a very large number of cases. This class includes the large majority of cases where the period of gestation is increased or decreased by periods longer than the usual fourteen days.” – Bailey.
 
-All that is now necessary in order to compute the actual date of Epoch is to find the class of Epoch required to fit each given case. This is done according to the following rules and gives us, Six Classes of Epochs
+All that is now necessary in order to compute the actual date of Epoch is to find the class of Epoch required to fit each given case. This is done according to the following rules and gives us, Six Classes of Epochs.
 
 ### <h4 id="six-classes-of-epochs">Six Classes of Epochs</h4>
 
