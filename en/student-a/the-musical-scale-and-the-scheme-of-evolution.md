@@ -27,21 +27,21 @@ Mt. Ecclesia, November 19.
 
 - [Dedication](#dedication)
 - [Foreword](#foreword)
-- [I. AS IT WAS IN THE BEGINNING](#chapter-1)
-- [II. MAN'S MONOCHORD](#chapter-2)
-- [III. THE POWER OF MUSIC](#chapter-3)
-- [IV. CORRELATION OF MUSIC TO THE SOLAR GOD](#chapter-4)
-- [V. OUR MUSICAL ARCHETYPES](#chapter-5)
-- [VI. MUSICAL OCTAVES AND THE COSMIC SCHEME](#chapter-6)
-- [VII. OUR GROUP SPIRIT, JEHOVAH, AND OUR OWN LIFE WAVE](#chapter-7)
-- [VIII. THE HARMONY OF THE SPHERES](#chapter-8)
-- [IX. THE ARCHETYPES AND THE PHYSICAL BODY](#chapter-9)
-- [X. THE CURATIVE POWER OF MUSIC](#chapter-10)
-- [XI. INVISIBLE HELPERS AND HEALING](#chapter-11)
-- [XII. MUSIC AS A BUILDING POWER](#chapter-12)
-- [XIII. THE BRAIN, MAN'S PHYSICAL WORKSHOP](#chapter-13)
-- [XIV. DEVELOPING THE EFFICIENCY OF THE MIND AND BRAIN](#chapter-14)
-- [XV. MAN'S VEHICLES, A COMPOSITE MUSICAL INSTRUMENT](#chapter-15)
+- [I. As It Was in the Beginning](#chapter-1)
+- [II. Man’s Monochord](#chapter-2)
+- [III. The Power of Music](#chapter-3)
+- [IV. Correlation of Music to the Solar God](#chapter-4)
+- [V. Our Musical Archetypes](#chapter-5)
+- [VI. Musical Octaves and the Cosmic Scheme](#chapter-6)
+- [VII. Our Group Spirit, Jehovah, and Our Own Life Wave](#chapter-7)
+- [VIII. The Harmony of the Spheres](#chapter-8)
+- [IX. The Archetypes and the Physical Body](#chapter-9)
+- [X. The Curative Power of Music](#chapter-10)
+- [XI. Invisible Helpers and Healing](#chapter-11)
+- [XII. Music as a Building Power](#chapter-12)
+- [XIII. The Brain, Man’s Physical Workshop](#chapter-13)
+- [XIV. Developing the Efficiency of the Mind and Brain](#chapter-14)
+- [XV. Man’s Vehicles, a Composite Musical Instrument](#chapter-15)
 
 ### <h3 id="illustrations">ILLUSTRATIONS</h3>
 
@@ -55,7 +55,7 @@ Mt. Ecclesia, November 19.
 - [Thought Form Made by a Blessing](#thought-form-made-by-a-blessing)
 - [Startled Thought Form Caused by Fear](#startled-thought-form-caused-by-fear)
 
-### <h3 id="chapter-1">CHAPTER I: AS IT WAS IN THE BEGINNING</h3>
+### <h3 id="chapter-1">Chapter I: As It Was in the Beginning</h3>
 
 ``` 
 The whole solar system is one vast musical instrument, spoken of in Greek Mythology a "the seven-stringed lyre of Apollo." The signs of the zodiac may be said to be the sounding board of the Cosmic harp and the seven planets are the strings; they emit different sounds as they pass through the various signs, and therefor they influence mankind in diverse manner Should the harmony fail for one single moment should there be the slightest discord in the heavenly band, the whole universe as such must crumble - Max Heindel. 
@@ -85,7 +85,7 @@ Music produces tone expressions of both God's and man's highest power--the will,
 
 Architecture may well be likened to frozen music, seulpture to imprisoned music, painting to music struggling for release, and music to the free, floating manifestation of sound.
 
-### <h3 id="chapter-2">CHAPTER II: MAN'S MONOCHORD</h3>
+### <h3 id="chapter-2">Chapter II: Man’s Monochord</h3>
 
 THE single string of the monochord finds its counterpart in man's spinal cord, the lower part of which is connected with the organs of re- production, and the upper part with the brain, which physical organ is related to thought. Working par- ticularly with this cord are the Lucifer Spirits, who govern that part of the cord which controls the motor (action) nerves that expend the dynamic energy stored in the body by the blood. The section of the cord which governs the function that has to do particularly with the upkeep and welfare of the body is under control of the Angels, The part of the cord that marks and registers the sensations carried by the nerves is controlled by the Mercurians. The spinal spirit gas which fills the central canal of the spinal cord is the field of action of the great spiritual hierarchy from Neptune.
 
@@ -105,7 +105,7 @@ PICTURE!!!!!!!!!!!!!
 
 In the Bible we note how the seven-stringed harp of David represents astrologically the keynotes of the sevenfold planetary chain. The keynote of each planet is composed of the quintessence of its aggre- gate sounds. An amalgamation of the sorrows and joys of our earth, the sounds of its winds and seas; the rhythm of all its living forces combined, form its tone or keynote. In like marner and on an ever ascending scale, sound the notes of the entire plane- tary chain, their union constituting the sublime Music of the Spheres... "There's not the smallest erb which thou beholdest, but in its motion like an angel sings." So wrote the great poet-initiate, Shakes- peare. This celestial music is the product of that Word of which St. John wrote when he said: "In the beginning was the Word, and the word was with God, and the Word was God . . . . and without him was not anything made that was made." (John I: 1-3)
 
-### <h3 id="chapter-3">CHAPTER III: THE POWER OF MUSIC</h3>
+### <h3 id="chapter-3">Chapter III: The Power of Music</h3>
 
 ``` 
 Music is thus, in her health, the teacher of perfect order, and is the voice of the obedience of angels, and the companion of the course of the spheres of heaven; and in her depravity she is also the teacher of perfect disorder and disobedience - Ruskin. 
@@ -125,7 +125,7 @@ In discarding the ragtime, jazz, swing, bebop, et cetera noises, nothing of real
 
 The three primary divisions of music - melody harmony, and rhythm are correlated to the three primary powers of God, namely: will, love-wisdom and activity. Will, which includes intellect and reason, united with love-wisdom produces a mode of activity correlated to the poised, balanced, celestial rhythm (activity) of God which marshaled the atoms of our solar system into the matrix of the various forms prepared for them by the energy-love powers of the Creator. Divorce will (melody) from love (harmony) and unite love with activity (rhythm), and the two, being bereft of the guiding power of will (intellect and reason), may produce any sort of monstrosity which the evil forces may desire to bring into being. Unchecked, their malevolent activi- ties will in time certainly wreck a nation. No attempt to revolutionize the art of music can produce desired results unless it begins with the artistic principle of coherence and a correct balancing of the three elements of which music is composed, namely: melody, harmony, and rhythm.
 
-### <h3 id="chapter-4">CHAPTER IV: THE CORRELATION OF MUSIC TO THE SOLAR GOD</h3>
+### <h3 id="chapter-4">Chapter IV: The Correlation of Music to the Solar God</h3>
 
 | Music	     | God        | Powers      | Expression      | 
 | ---------- | ---------- | ----------- | --------------- | 
@@ -161,7 +161,7 @@ The God of our solar system creates in life waves consisting of an untold number
 
 The time required to carry on the work of certain phases of evolution is divided into periods, namely: The Saturn Period, followed by the Sun Period, then the Moon Period, next the Earth Period, then the Jupiter Period, next the Venus Period, and last the Vulcan Period, which is followed by a cosmic night of rest.
 
-### <h3 id="chapter-5">CHAPTER V: OUR MUSICAL ARCHETYPES</h3>
+### <h3 id="chapter-5">Chapter V: Our Musical Archetypes</h3>
 
 NOTHING has existed since the dawn of creation until an archetype was first built. In forming a solar system the first power of God, the will, wills to create, and it arouses the second power, wisdom- love. This second force, through the power of imagination, conceives the idea (archetype) of a solar system; then the third power, activity, working in Cosmic substance produces motion, and the melodie, harmonious, rhythmic power builds a separate archetype for all that takes form, from clod to God.
 
@@ -197,7 +197,7 @@ The first inner or spiritual sense to be contacted by man's objective waking con
 
 DIAGRAM!!!!!!!!!!!!!!!!!!!!!
 
-### <h3 id="chapter-6">CHAPTER VI: THE MUSICAL OCTAVES AND THE COSMIC SCHEME</h3>
+### <h3 id="chapter-6">Chapter VI: The Musical Octaves and the Cosmic Scheme</h3>
 
 THE piano is not the result of man's endeavor to reproduce the tones of his own inner self dimly remembered, but it is a product of man's materialized perception of music, and accordingly it is a purely earthborn instrument. Therefore it is not only a convenient instrument, but a most valuable one to those truly great musicians who are able to contact real heaven world music, bring it down to earth, and make a man-made, material-constructed machine reproduce it.
 
@@ -347,7 +347,7 @@ The following life waves through the power of their respective musical tones inc
 
 At this time man was still outside of his vehicles and all work done by him was automatic, and directed entirely by the great Beings mentioned above, who were in charge of his evolution.
 
-### <h3 id="chapter-7">CHAPTER VII: OUR GROUP SPIRIT, JEHOVAH, AND OUR OWN LIFE WAVE</h3>
+### <h3 id="chapter-7">Chapter VII: Our Group Spirit, Jehovah, and Our Own Life Wave</h3>
 
 TOWARD the end of the Moon Period there was a division in the globe or planet on which we were evolving, and this smaller planet was thrown out into space. This planet condensed very rapidly and remained the field of our evolution until the end of the Moon Period.
 
@@ -475,7 +475,7 @@ Mind, keynote F major, ruling Life Wave Sagittarius.
 
 The chords related to the three powers of the Spirit and man's four vehicles, also all music written in the keynote of the chords can be effectively used in developing man's three spirit powers and the powers of his four vehicles.
 
-### <h3 id="chapter-8">CHAPTER VIII: THE HARMONY OF THE SPHERES</h3>
+### <h3 id="chapter-8">Chapter VIII: The Harmony of the Spheres</h3>
 
 THE Harmony of the Spheres is not a monotone; it varies from day to day and from month to month as the Sun and planets pass from sign to sign. There are also yearly epochal variations due to the pre- cession of the equinoxes. There is truly an infinite variety in the Song of the Spheres, as indeed there must be, for the constant change of spiritual vibration is the basis of all physical and spiritual evolution. In spring the tones of Aries and Mars, stirring, active -conducive to germination, newness of life and growth in all kingdoms, from man to plant inclusive, predominate. If you would catch a faint idea of what the Music of the Spheres is like at this time listen to such Easter songs as:
 
@@ -535,7 +535,7 @@ The Region of Concrete Thought is the realm of sound, where the Harmony of the S
 
 All of this clearly demonstrates that our earth music did not just happen, but that it has been established on a basis found in the higher spiritual worlds, the origin of which is the spoken word of God, the Creator of our solar system.
 
-### <h3 id="chapter-9">CHAPTER IX: THE ARCHETYPE AND THE PHYSICAL BODY</h3>
+### <h3 id="chapter-9">Chapter IX: The Archetype and the Physical Body</h3>
 
 NOTE that the letters of the musical alphabet are: NC,D,E,F,G,A,B, which form an interval of seven tones, the basis of the Harmony of the Seven Spheres. Uranus and Neptune's vibrations had no part in man's material progress until much later than Pythagoras' time. However, the most advanced of mankind are beginning to sense their vibrations. The tones of these two planets, added to the seven, make nine, the number of humanity.
 
@@ -561,7 +561,7 @@ The lessons belonging to the fourth or middle octave tones, Earth Period, have t
 
 Ordinarily the mind forms a perfect connection between the Spirit and its four vehicles, but it is possible for this connection to become faulty or even entirely disconnected. Then serious mental trouble is likely to be the result. Mental diseases are traccable to the union of the uncontrolled mind with the desire body, or the prolonged violent sounding of any or all of the planetary vibrations either of the Moon, Mercury, Uranus, or Neptune. Used in this way they have the power to wreck not only the mind itself but also the desire body, the vital body, and the physical vehicle, while low, gentle, rhythmic vibrations of those planets will both soothe and heal.
 
-### <h3 id="chapter-10">CHAPTER X: THE CURATIVE POWER OF MUSIC</h3>
+### <h3 id="chapter-10">Chapter X: The Curative Power of Music</h3>
 
 VIBRATION is life manifested, and is the origin of all created things that are, or ever have been. Inertia, its opposite, results in separation, disin- tegration, and decay. Music and color are both the product of certain rates of vibratory power. Harmoni- ous vibratory rates are healthful, constructive, and building; but discordant ones are destructive and disintegrating even to the point of dissolution. Sound is the origin of color and only clear, melodious sound can produce a beautiful, attractive, inspiring color.
 
@@ -593,7 +593,7 @@ Aquarius rules the ankles, the limbs from the knees to the ankles, and also has 
 
 Pisces governs the feet and toes. It also has a reflex effect on the abdominal region governed by the opposite sign Virgo, hence afflictions in this sign indicate trouble and deformities of the feet, intestinal diseases and dropsy; also desire for drink and drugs which may bring about delirium tremens. Music played softly in the keynote of B major is best for combating the diseases herein mentioned.
 
-### <h3 id="chapter-11">CHAPTER XI: INVISIBLE HELPERS AND HEALING</h3>
+### <h3 id="chapter-11">Chapter XI: Invisible Helpers and Healing</h3>
 
 SPIRITUAL healing as carried on by the Rosicrucian Fellowship is done by the probationers, who work at night while out of their dense bodies which are asleep. They are called Invisible Helpers, because they cannot be seen by ordinary vision. Their healing work depends on the following prime factors: The vital body pitch of the patient and that of the probationer Invisible Helper healer must be in perfect harmony. (This is taken care of by the Elder Brothers.) The probationer Invisible Helper in his or her waking consciousness must have decided to become a ready healing helper on the invisible plane Such helpers must be probationers for the reason that at the time they dedicate themselves to pro- bationership they begin to vibrate in unison with the Elder Brothers of the Rose Cross Order, and each morning, when they perform their morning exercise of concentration, they strengthen this vibration.
 
@@ -623,7 +623,7 @@ Three of the ductless glands are closely con- nected with the mind of man. The s
 
 DIAGRAM!!!!!!!!!!!!!
 
-### <h3 id="chapter-12">CHAPTER XII: MUSIC AS A BUILDING POWER</h3>
+### <h3 id="chapter-12">Chapter XII: Music as a Building Power</h3>
 
 IN the evolutionary progress of humanity there are four distinct classses of people at the present time, namely: the failures, those who have definitely lost out in the present scheme and will have to go back to the beginning (another Saturn Period) and com- mence all over again; the stragglers, who, if they work hard enough, have a chance to catch up and go on in our present scheme of evolution; the masses, who are slowly learning their lessons and will without doubt make the grade; and the pioneers, who have forged ahead and consequently are in the vanguard of evolution. The last group are becoming teachers and leaders of humanity. Chief among them are the lay brothers, adepts, and Elder Brothers composing the members of the seven Lesser Mystery Schools and the five Greater Ones which exist on earth today.
 
@@ -672,7 +672,7 @@ Mars works with the solar forces and his rays act directly upon the third power 
 
 According to the foregoing it will be noted that the Lucifers gained connection with humanity for two principal reasons, namely: that they might gain contact with his brain and glean knowledge through his experiences in the physical world, and that they might induce strong passion in him and further evolve by the intensity of feeling that it aroused.
 
-### <h3 id="chapter-13">CHAPTER XIII: THE BRAIN, MAN'S PHYSICAL WORKSHOP</h3>
+### <h3 id="chapter-13">Chapter XIII: The Brain, Man’s Physical Workshop</h3>
 
 THE brain is divided into three main primary divisions, namely, the cerebrum (large upper brain), the cerebellum (smail middle brain), and the medulla oblongata (small lower brain).
 
@@ -712,7 +712,7 @@ The only way to get rid of such unwelcome thoughts is through indifference. If o
 
 Thought forms directed toward an individual pro- duce a most interesting result. Either they find en- trance into the aura of the individual, or else they rebound from that person's aura and return to the sender. Every thought form carries a particular rate of vibration, and can only affect an individual in whom a like vibration exists. It a thought form is generated by an evil motive and sent to some certain person, if there is no like vibration within the person's aura to whom it is sent, then it cannot affect that person's aura at all. Consequently it returns to its originator, rebounding with the same force with which it was sent. All outside impacts reach the Spirit of an individual through the vital body, the two higher ethers of which, the light and reflecting, form the soul body. It is this vehicle which repels all evil thoughts, provided it is sufficiently organized, for then it acts as a boomerang and recoils to the one who sent the evil thought, bringing to him or her the evil which the creator of the evil thought desired to bring on the person to whom the thought was sent. If the frequenters of low dance halls, gambling dens, and similar places of iniquity could see the swarms of evil thought forms darting hither and yon, and hear the blatant, sensual, suggestive tones emitted by them, they would flee from such places as quickly as they would from a pesthouse, or a building infected with bubonic plague; and well they might, for such demoralizing vibrations serve no purpose but to in- stigate evil and to strengthen it wherever it already exists.
 
-### <h3 id="chapter-14">CHAPTER XIV: DEVELOPING THE EFFICIENCY OF THE MIND AND BRAIN</h3>
+### <h3 id="chapter-14">Chapter XIV: Developing the Efficiency of the Mind and Brain</h3>
 
 UNFORTUNATELY at the present time none of us is altogether good, and we cannot hide from our- selves the fact that ofttimes the good we would do, we do not, and the evil acts we should shun, we often do. Far too often our good resolutions are not carried out, and we do wrong because it seems the easiest or most enjoyable thing to do; all of which points out the fact that we are all activated to some extent by the lower self; this opens up the way for evil thoughts to reach us and try out their influence.
 
@@ -762,7 +762,7 @@ Evil thought forms in the aura have a centrifugal motion. Good thought forms hav
 
 As the thought forms of each individual are keyed to his or her particular keynote, the time is coming when we shall all be able to trace every thought form which we contact to its originator by means of its own specific tone. Then truly, as the Bible states, the things which we think are hidden shall be proclaimed not from the housetops, but from our own individual aura.
 
-### <h3 id="chapter-15">CHAPTER XV: MAN'S VEHICLES, A COMPOSITE MUSICAL INSTRUMENT</h3>
+### <h3 id="chapter-15">Chapter XV: Man’s Vehicles, a Composite Musical Instrument</h3>
 
 THOUGHT belongs to the highest power of the Spirit, which is will. Therefore as the potential powers of the will develop, so does thought power; and the time is coming when man will be able by means of thought power and imagination to speak things into existence. All things in nature have been spoken into existence by means of the Word of God which was made flesh. Sound (music), or spoken thought, will be humanity's next force in manifesta- tion, a force that will make mankind creative God men. But this step in advancement cannot be taken until man's development in life's school has fitted him to use this enormous power for the good of all, regardless of self-interest. Therefore it is most neces- sary that each individual learn for himself how to accomplish this development in the quickest, safest way. The method has been made known to man, but it depends on the individual whether he or she puts it into practice.
 
