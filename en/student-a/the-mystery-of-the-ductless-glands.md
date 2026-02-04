@@ -30,34 +30,34 @@ Mt. Ecclesia, June 1940
 
 - [Dedication](#dedication)
 - [Foreword](#foreword)
-- [Chapter I: MAN'S DEVELOPMENT](#chapter-1)
+- [Chapter I: Man's Development](#chapter-1)
     - [Individual Work of the Spirit](#the-individual-work-of-the-spirit)
     - [The Adrenals](#the-adrenals)
-- [Chapter II: TYPES PRODUCED BY THE DUCTLESS GLANDS](#chapter-2)
+- [Chapter II: Types Produced by the Ductless Glands](#chapter-2)
     - [Adrenal Type of Personality](#adrenal-type-of-personality)
-- [Chapter III: THE SPLEEN](#chapter-3)
+- [Chapter III: The Spleen](#chapter-3)
     - [Personality Type](#personality-type)
-- [Chapter IV: THE THYMUS GLAND](#chapter-4)
+- [Chapter IV: The Thymus Gland](#chapter-4)
     - [The Gland of Child Development](#the-gland-of-child-development)
     - [Thymus Type of Personality](#thymus-type-of-personality)
-- [Chapter V: THE THYROID GLAND](#chapter-5)
+- [Chapter V: The Thyroid Gland](#chapter-5)
     - [The Gland of Energy](#the-gland-of-energy)
     - [Comparison of Thyroid and Pituitary](#comparison-of-thyroid-and-pituitary)
     - [Thyroid Type of Personality](#thyroid-type-of-personality)
-- [Chapter VI: THE PITUITARY BODY](#chapter-6)
+- [Chapter VI: The Pituitary Body](#chapter-6)
     - [Pituitary Types of Personality](#pituitary-types-of-personality)
-- [Chapter VII: THE PINEAL GLAND](#chapter-7)
+- [Chapter VII: The Pineal Gland](#chapter-7)
     - [Pineal Type of Personality](#pineal-type-of-personality)
-- [Chapter VIII: SPIRITUAL CORRESPONDENCES](#chapter-8)
-    - [Ductless Glands and Their Rulers](#ductless-glands-and-their-rulers)
-    - [Adrenal Glands--Physical World--Jupiter](#adrenal-glands--physical-world--jupiter)
-    - [Spleen--Etheric Region--Sun](#spleen--etheric-region--sun)
-    - [Thymus--Desire World--Venus](#thymus--desire-world--venus)
-    - [Thyroid--World-of-Thought--Mercury](#thyroid--world-of-thought--mercury)
-    - [Pituitary--World-of-Life-Spirit--Uranus](#pituitary--world-of-life-spirit--uranus)
-    - [Pineal--World-of-Divine-Spirit--Neptune](#pineal--world-of-divine-spirit--neptune)
+- [Chapter VIII: Spiritual Correspondences](#chapter-8)
+    - [Ductless Glands and Their Rulers](#the-ductless-glands-and-their-rulers)
+    - [Adrenal Glands - Physical World - Jupiter](#the-adrenal-glands-physical-world)
+    - [Spleen - Etheric Region - Sun](#the-spleen-etheric-region)
+    - [Thymus - Desire World - Venus](#the-thymus-gland-desire-world)
+    - [Thyroid - World of Thought - Mercury](#the-thyroid-gland-world-of-thought)
+    - [Pituitary - World of Life Spirit - Uranus](#the-pituitary-body-world-of-life-spirit)
+    - [Pineal - World of Divine Spirit - Neptune](#the-pineal-gland-world-of-divine-spirit)
 
-### <h3 id="Illustrations">ILLUSTRATIONS</h3>
+### <h3 id="Illustrations">Illustrations</h3>
 
 - [Adrenal Type](#adrenal-type)
 - [Thymus Type](#thymus-type)
@@ -68,7 +68,7 @@ Mt. Ecclesia, June 1940
 
 <h2 id="the-mystery-of-the-ductless-glands-h2">The Mystery of the Ductless Glands</h2>
 
-### <h3 id="chapter-1">CHAPTER I: MAN'S DEVELOPMENT</h3>
+### <h3 id="chapter-1">Chapter I: Man's Development</h3>
 
 ```
 When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; What is man, that thou art mindful of him? and the son of man, that thou visitest him?
@@ -86,7 +86,7 @@ Man's latent potentialities are developed in two ways, namely, through his own e
 
 Just as it is necessary to take food in order to develop the physical body, so is it necessary to give food to the vital and desire bodies. The vital body gets its food directly from the sun; the etheric spleen of each individual attracts as much of the solar life forces as it requires. In the Desire World there is an essence corresponding to the vital fluid which sustains the vital body, and in this elixir of life the desire body steeps itself while the dense body sleeps.
 
-#### <h4 id="the-individual-work-of-the-spirit">THE INDIVIDUAL WORK OF THE SPIRIT</h4>
+#### <h4 id="the-individual-work-of-the-spirit">The Individual Work of the Spirit</h4>
 
 It was impossible for the spirit to develop its potentialities until it had built its three lower vehicles, the dense, vital, and desire bodies; for it is from them that it obtains the food on which to nourish and develop its potential powers. This food essence is called soul.
 
@@ -104,7 +104,7 @@ It is less than fifty years since the scientists began a real study of the ductl
 
 The principal ductless glands are the pineal, pituitary, thyroid, thymus, spleen, and the two adrenals. The adrenals, spleen, and thymus gland belong to the personality. The pituitary and pineal are correlated with the spiritual side of the nature, and the thyroid forms a link between the two.
 
-#### <h4 id="the-adrenals">THE ADRENALS</h4>
+#### <h4 id="the-adrenals">The Adrenals</h4>
 
 We will begin our study of the glands with the adrenals. They are a pair of cocked-hat shaped glands capping the upper end of the kidneys. They are easily recognized because of their yellowish fatty color. For centuries these important glands were not given a separate status as organs but were passed up as a part of the fat ensheathing the kidneys. In childhood and youth they are relatively larger and more prominent than in the adult. At all ages the amount of blood passing through the adrenals is very great in comparison with their size. Their tremendous importance in the body economy cannot be overestimated. The great value of these glands is better understood when it is known that death occurs very quickly after their removal.
 
@@ -150,7 +150,7 @@ Dr. Louis Berman in discussing like cases says:
 
 "It is all as if into some fermentable medium or solution a little yeast were dropped that changed the quiet calm of its surface into a bubbling, effervescing revolution. It suggests at once that the transformation of the child into a man or woman must be due to the pouring into the blood and the body fluids of some substance which acts like yeast in the fermentable solution. The adrenal cortex is one source of the 'maturity producing' internal secretions. If trouble in the adrenals starts after puberty, phenomena of the same type as that of the girls and boys mentioned, but of a different order, exhibit themselves. Suppose a woman in the thirties, for instance, becomes affected. Slowly or quickly her body will be covered with an abundant growth of hair, more or less of a beard or mustache will appear on the face, the voice will become deep and penetrating, the muscles hardened, and she will show a capacity for hard physical labor. Menstruation ceases. Sexually she appears to be made over. Masculinity now predominates in her make-up. She will have to shave regularly, and is not bothered in the least by the lack of feminine charms, for the change in her physical organization makes her immune to feminine desires. The cause of such a transformation in one previously normal woman was found to be due to a tumor on the adrenal cortex."
 
-### <h3 id="chapter-2">CHAPTER II: TYPES PRODUCED BY THE DUCTLESS GLANDS</h3>
+### <h3 id="chapter-2">Chapter II: Types Produced by the Ductless Glands</h3>
 
 In the case of the pure type, one particular gland, either by its excessive action or its subnormal activity exercises a dominating influence upon the traits of the individual; and either as the strongest link in the chain of glands or the weakest, it becomes the ruler and all of the others must accommodate themselves to its dominancy. Among all the others as the chief commander of growth, development, and normal function, it holds the balance of power. It dominates every emergency by its strength or weakness, and in this way it creates its own type of individual with characteristics and attributes peculiar to itself. The pure types are the adrenal, the thyroid, the pituitary, the pineal, and the thymus.
 
@@ -176,7 +176,7 @@ Relative to the activities of the ductless glands, Max Heindel has stated:
 
 "Science is gradually learning the truths previously taught by the occult science and their attention is being more and more directed to the ductless glands which will give them the solution to many mysteries, but they do not seem to be aware as yet that there is a physical connection between the pituitary body, the principal organ of assimilation and therefore of growth, and the adrenals which eliminate the waste and assimilate the proteins. These are also physically connected both with the spleen and the thymus and thyroid glands. It is significant in this connection, from the astrological point of view, that the pituitary body is ruled by Uranus which is the octave of Venus, the ruler of the solar plexus where the seed atom of the vital body is located. Thus Venus keeps the gate of the vital fluid coming direct from the Sun through the spleen, and Uranus is warder of the gate where enters the physical food, and it is the blending of these two streams which produces the latent power stored up in our vital body until converted to dynamic energy by the martial desire nature."
 
-### <h3 id="chapter-3">CHAPTER III: THE SPLEEN</h3>
+### <h3 id="chapter-3">Chapter III: The Spleen</h3>
 
 The spleen is the largest ductless gland. It is located at the left end of the stomach, between it and the diaphragm. It is bean-shaped and has a deep bluish-red color. It weighs from five to six ounces, is about five inches in length and three inches in breadth. It is soft, spongy, and fragile. Normally, the spleen is movable within certain limits. It moves with respiration or breathing. it may become greatly enlarged during disease, such as typhoid or malarial fever, or during a disease of the organ itself, such as leukemia, an affection in which the white corpuscles of the blood are greatly increased in number, accompanied by enlargement of the spleen itself. The spleen permanently enlarges during prolonged ague, and then becomes the so-called "ague cake." Enlargement of the spleen of infants is often due to syphilis, and if it occurs at the age of two or three months it is usually due to that cause. The spleen always enlarges during digestion. This gland is fed by the splenic artery, and its veins empty into the portal vein which discharges its contents into the liver.
 
@@ -202,13 +202,13 @@ The desire body is constantly destroying and breaking down physical tissue, whic
 
 The way the desire body works in forming white blood corpuscles in the spleen is as follows: Evil thoughts, fear, and anger interfere with the power of evaporation in the spleen. The desire body seizes the opportunity and forms a speck of plasm, the sticky material of an animal cell, which becomes the foundation of the white corpuscle. This is at once seized by a thought elemental, which forms a nucleus and embodies itself therein. Then the elemental commences to live a life of destruction, coalescing with waste products and decaying elements wherever obtainable, making the physical body a charnel house instead of the temple of an indwelling spirit. Every white corpuscle which has thus been formed and taken possession of by an outside entity is to the spirit a lost opportunity; and the more of the lost opportunities there are in the physical body the less that vehicle is under the control of the Ego. White blood corpuscles are always present in large numbers in all diseases.
 
-#### <h4 id="personality-type">PERSONALITY TYPE</h4>
+#### <h4 id="personality-type">Personality Type</h4>
 
 The spleen has no personality type; but owing to the fact that it attracts an excessive amount of solar force during mealtime and digestion in order that the food eaten may be taken care of, the gourmand with his excess of fat and his unwieldy body might possibly be considered as the representative of a type which may develop if the appetite is not controlled; however, if control is used, a high type, forceful and strong will be developed.
 
-### <h3 id="chapter-4">CHAPTER IV: THE THYMUS GLAND</h3>
+### <h3 id="chapter-4">Chapter IV: The Thymus Gland</h3>
 
-#### <h4 id="the-gland-of-child-development">THE GLAND OF CHILD DEVELOPMENT</h4>
+#### <h4 id="the-gland-of-child-development">The Gland of Child Development</h4>
 
 The thymus gland is situated in the chest between the two lungs and behind the upper part of the sternum or breastbone. It descends and covers the upper portion of the heart, overlapping the great vessels at the top of the latter. It is a brownish mass, which when cut, has the appearance of a sweetbread. It is placed over the trachea or windpipe. It rises as a growth from the wall of the third pouch of the pharynx (a funnel-shaped cavity in the alimentary canal beginning behind the mouth); it reaches its greatest at the beginning of puberty. At birth it weighs about half an ounce. At puberty it weighs a little over an ounce. It is about two inches in length, an inch and a half broad, and a fourth of an inch thick. It is readily found in dissection until the twentieth year. Its gradual disappearance thereafter is marked by a loss of glandular structure, which is replaced by fibrous and adipose tissue. Vestiges of the characteristic thymus tissue, however, persist and some of the secreting cells remain throughout life.
 
@@ -238,7 +238,7 @@ This type of individual is misunderstood and misjudged; and usually a hopeless m
 
 The heart of the thymo-centric is small and the blood vessels remarkably fragile. This prevents the flow of blood from responding to an emergency and these people sometimes die suddenly owing to ruptures in their vessels caused by the attempt to force an excessive flow of blood through them. Any sudden shock, fright, or the administration of an anesthetic is likely to produce a collapse, in many instances resulting in death.
 
-#### <h4 id="thymus-type-of-personality">THYMUS TYPE OF PERSONALITY</h4>
+#### <h4 id="thymus-type-of-personality">Thymus Type of Personality</h4>
 
 Up to the time the permanent teeth make their appearance the thymus is the dominant gland, and it is noticeable that the child's form in both sexes is very much alike. After this a gradual differentiation takes place although the change does not become marked until the time of puberty. Ordinarily from this time on the thymus functions less and less, and the other glands increase in their activity. But many times the thymus gland does not cease in its action, in which cases we have individuals whose whole life is dominated by this gland. Such people belong to the thymus centered type. The features of these individuals remain rounded and childlike; the children belonging to it are well proportioned and perfectly formed, with delicately chiseled features. The skin is transparent and flushes readily; the hair is long and silky. Such children are the embodiment of beauty. They are the "angel children" who are admired for the coarse conflicts of life and usually die young.
 
@@ -250,9 +250,9 @@ The thymus type is essentially feminine. The figure, sometimes medium height, an
 
 We wish to reiterate that this type of individual does not have great endurance; and therefore the best of care should be given to the physical body.
 
-### <h3 id="chapter-5">CHAPTER V: THE THYROID GLAND</h3>
+### <h3 id="chapter-5">Chapter V: The Thyroid Gland</h3>
 
-#### <h4 id="the-gland-of-energy">THE GLAND OF ENERGY</h4>
+#### <h4 id="the-gland-of-energy">The Gland of Energy</h4>
 
 The thyroid gland consists of two maroon colored masses astride the upper end of the windpipe, close to the larynx. These are connected just below the Adam's apple by a narrow isthmus of the same tissue. This gland arises from the same tissue and almost from the same spot as the anterior lobe of the pituitary body. it weighs about an ounce. Each lobe of the thyroid is about two inches in length, and from an inch to an inch and a quarter in thickness. The thyroid is almost the first organ to become distinct in the human embryo. It is first distinguished as a groove in the floor of the mouth as early as the third week in the life of the fetus, and by the time the embryo is a fourth of an inch long, the thyroid tissue becomes severed and the cavity closed up.
 
@@ -332,7 +332,7 @@ Before man became upright he was double-sexed and his entire creative force was 
 
 The sex pervert or sex-maniac is proof of the correctness of the contention of the correctness of the contention of the occultist that one part of the sex force built and sustains the brain and larynx and that there is a connection between these organs and the force expressed through the lower creative organ. The unfortunate pervert becomes an idiot, unable to think because of drawing and sending out, not only the negative or positive part of the sex force (according to whether male or female) which is normally to be used through the organs of reproduction for propagation, but in addition to that he draws down and uses part of the force that should be turned upward and used in building the brain, enabling it to produce thought; hence his mental deficiency. On the other hand it the individual is given to spiritual thought the tendency to use the generative force for propagation is slight, and whatever part of it that is not used in that way may be transmuted into spiritual power.
 
-#### <h4 id="comparison-of-thyroid-and-pituitary">COMPARISON OF THYROID AND PITUITARY</h4>
+#### <h4 id="comparison-of-thyroid-and-pituitary">Comparison of Thyroid and Pituitary</h4>
 
 Again it is interesting to note that this same thyroid gland which was once a sex gland arises in the embryo from the same tissue and almost the same spot as does the anterior lobe of the pituitary body, the thyroid being an outgrowth in front, the anterior pituitary an outgrowth behind the same tissue. The anterior lobe of the pituitary body has been called the gland of intellectuality, meaning the capacity of the mind to control its environment by means of concepts and abstract ideas. All of which bears out Max Heindel's statement that the nature of the generative force is creative whether manifesting through the brain or the organs of reproduction.
 
@@ -340,7 +340,7 @@ The thyroid bears more directly upon the inner and outer coverings of the body, 
 
 The life force necessary to create both thought and physical forms comes from the sun and the yearly liberated Christ force in the earth. This force is attracted to the individual by the thyroid gland. It is the spiritual solar life essence contained in thyroxin that gives balance to the brain and the life to the organs of reproduction. The secretion of this gland is as necessary to the proper mental activity and reproduction of species as ether is to the transmission of electricity. Without this spirit essence there can be no complexity of thought, no learning, no education, no habit formation, no responsive energy to meet situations, as well as no development of faculty and physical function; also no reproduction of any kind, with no sign of adolescence at the proper age, and no exhibition of sex tendencies thereafter.
 
-#### <h4 id="thyroid-type-of-personality">THYROID TYPE OF PERSONALITY</h4>
+#### <h4 id="thyroid-type-of-personality">Thyroid Type of Personality</h4>
 
 During childhood the normal thyroid type of individual is healthy, slender, yet strikingly robust, energetic, active, fair complexioned, eyes large, brilliant with an inclination to protrude, nose straight and high-bridged, teeth firm, regular, and white with a pearly translucent enamel.
 
@@ -358,7 +358,7 @@ Sexually this type is well differentiated and susceptible. Noticeable emotivity,
 
 Shelley was only thirty years old when he was drowned yet the number of his literary compositions was greater than those of many who have spent a lifetime engaged in the same kind of work. Queen Elizabeth's reign was noted for its commercial enterprise and intellectual activity. Mankind owes much to these restless, energetic people, for in a certain sense they are the leaven that energizes the world.
 
-### <h3 id="chapter-6">CHAPTER VI: THE PITUITARY BODY</h3>
+### <h3 id="chapter-6">Chapter VI: The Pituitary Body</h3>
 
 The pituitary body or hypophysis is a lump of tissue about the size of a pea, situated almost exactly in the center of the head at the base of the brain and just behind the root of the nose. it hangs SUSPENDED from the under side of the brain like a cherry from the limb of a tree. It is a grayish-yellow color. It increases in size until about the thirtieth year, and in the adult weighs about five grains, or 1/1400 of a pound. During pregnancy the gland increases somewhat in size. It lies in a saddle-like depression in the sphenoid bone called the SELLA TURCICA and is enclosed in a strong membranous tissue called DURA MATER. The pituitary body can be traced from the most primitive form of life to man. Humanity has brought this gland and the salt of the blood in its development all the way from the sea to its present state.
 
@@ -414,7 +414,7 @@ The prepituitary: (1) stimulates growth of skeleton and supporting tissues; (2) 
 
 The postpituitary: (1) secretes pituitrin, which controls tone (vigor) of flat smooth muscles fibres of bladder and uterus; (2) raises blood pressure; (3) increases flow of urine, and milk in breast; (4) tonic to both brain cells and sex cells; (5) increases heart contractions but decreases force of systole.
 
-#### <h4 id="pituitary-types-of-personality">PITUITARY TYPES OF PERSONALITY</h4>
+#### <h4 id="pituitary-types-of-personality">Pituitary Types of Personality</h4>
 
 <img src="../../assets/mystery-of-the-ductless-glands/mdgen004.gif" alt="Pituitary Type" id="pituitary-type">
 
@@ -432,7 +432,7 @@ The anterior pituitary dominating in woman produces a masculine type and counter
 
 Thrice blessed are the men and women who have normal, balanced pituitary glands.
 
-### <h3 id="chapter-7">CHAPTER VII: THE PINEAL GLAND</h3>
+### <h3 id="chapter-7">Chapter VII: The Pineal Gland</h3>
 
 The pineal gland is most astonishing in its nature. As its name implies, it is a cone-shaped body (Conarium pinealis, pine cone). It is reddish in color, about a half inch in length, and not much larger than a grain of wheat. It is attached to the roof of the third ventricle of the brain. It weighs about two grains. It is hidden away at the base of the brain (to which it is attached by the hollow pineal stalk) in a tiny cave behind and above the pituitary body. it is composed, in part, of nerve cells containing a pigment similar to that present in the cells of the retina which is an expression of the optic nerve-- this strengthening the argument for its ancient function as an eye. The lower part of the gland points backward.
 
@@ -446,7 +446,7 @@ The pineal also produces the normal physical and mental development of the brain
 
 To summarize: The pineal gland secretion (1) prevents a too early sex development in the child, and thereby promotes normal puberty; (2) it favors activity of the creative force, which tends to develop both the brain and the organs of reproduction normally; (3) it gives the vigor which tones up the muscles; (4) it influences the body by varying the degree of light ray reaction; that is, it controls the susceptibility of the body to light; (5) it influences the skin pigment by causing a marked transparency of it due to a contraction of the pigment cells.
 
-#### <h4 id="the-pineal-type-of-personality">THE PINEAL TYPE OF PERSONALITY</h4>
+#### <h4 id="the-pineal-type-of-personality">The Pineal Type of Personality</h4>
 
 Generally speaking, the pineal gland is masculine but there are some women who come under its domination, as we shall see when we take up the study of the spiritual activities of this organ.
 
@@ -460,7 +460,7 @@ The artist Raphael was a perfect example of the spiritually developed pineal typ
 
 The name of this unusual man still remains the greatest in the art of painting. In his TRANSFIGURATION the discerning eyes discover the mystery of his greatness, for here is plainly revealed his knowledge of and direct touch with supernatural realms. This marvelous picture, the beauty of which must be FELT as well as seen, was Raphael's swan-song on canvas. He painted it while he was dying. When looking at this marvelous production, one wonders if he did not paint that beautiful, holy, compassionate face of the Christ just as he saw Him in the ethers, waiting to carry into paradise the spirit of the noble man who had done so much for the glory of Christianity both by the unsurpassed holy pictures that he painted on canvas and the noble unselfish life he led.
 
-### <h3 id="chapter-8">CHAPTER VIII: SPIRITUAL CORRESPONDENCES</h3>
+### <h3 id="chapter-8">Chapter VIII: Spiritual Correspondences</h3>
 
 We will now consider the spiritual connection which the ductless glands have with the development of the LATENT POTENTIALITIES of the Ego. Let us not forget that the principal ductless glands are seven in number, namely: the two adrenals, the spleen, the thymus, the thyroid, the pituitary, and the pineal. Max Heindel tells us that these glands have a great and particular interest for the occult student and that they may be termed the seven roses on the cross of the vital body, for they are intimately connected with the occult development of humanity.
 
@@ -468,7 +468,7 @@ All that we see about us in our entire solar system had been created by the WORD
 
 The Word of God sounds forth through the medium of these seven Planetary Spirits and forms all the various types which later crystallize into the manifold things which we behold in the Physical World. Thus we see that the Word manifests in seven great tones sounded by the seven Planetary Spirits. Each planet has its own keynote and emits a sound varying from that of every other planet. These are all building tones. All the music in the world is based on these seven tones emitted by the seven Planetary Spirits, and all form is created by them, and after the form is created they assist the indwelling Ego in developing its LATENT POTENTIALITIES, all of which are embryonic God-powers. This assistance is given to humanity largely through the medium of the ductless glands.
 
-#### <h4 id="the-ductless-glands-and-their-rulers">THE DUCTLESS GLANDS AND THEIR RULERS</h4>
+#### <h4 id="the-ductless-glands-and-their-rulers">The Ductless Glands and Their Rulers</h4>
 
 <img src="../../assets/mystery-of-the-ductless-glands/mdgen006.gif" alt="The Ductless Glands and Their Rulers" id="the-ductless-glands-and-their-rulers">
 
@@ -476,7 +476,7 @@ The Word of God sounds forth through the medium of these seven Planetary Spirits
 
 Each ductless gland has a dominant keynote within itself, which when awakened, will develop certain latent potentialities in the Ego. Each of these keynotes is attuned to that of one of the Planetary Spirits and the sounding forth of the keynote of that particular Planetary Spirit is gradually awakening the keynote of the gland which is attuned to it. When the keynote of the gland is awakened it will develop in the Ego the specific energies which this particular Planetary Spirit expresses. These energies are forces which the Ego must learn TO CONTROL and DIRECT, for according to their USE DO THEY MANIFEST AS GOOD OR EVIL. Remember that all evil is MISDIRECTED good.
 
-#### <h4 id="adrenal-glands--physical-world--jupiter">THE ADRENAL GLANDS---PHYSICAL WORLD</h4>
+#### <h4 id="the-adrenal-glands-physical-world">The Adrenal Glands — Physical World</h4>
 
 The adrenal glands are ruled by Jupiter. The energies expressed by Jupiter manifest principally as benevolence, vision, expansion, optimism, honor, philanthropy, courtesy, generosity, cheerfulness, ability to comprehend the working out of cosmic law, ideation (the power to form and relate ideas), and religious understanding.
 
@@ -492,7 +492,7 @@ A KNOWING that the GOOD OF ALL is the GOOD OF EACH has developed in the consciou
 
 The work of Jupiter in relation to our humanity at present is connected with the physical plane. Through the medium of the spiritual power generated by the adrenal glands, he furnishes the Ego with the strength necessary to perfect its dense body and conquer the physical world, all of which completes its evolution on this mundane sphere. The spiritual center in the adrenals vibrates to blue.
 
-#### <h4 id="the-spleen-etheric-region">THE SPLEEN - ETHERIC REGION</h4>
+#### <h4 id="the-spleen-etheric-region">The Spleen — Etheric Region</h4>
 
 The spleen is the entrance gate of the solar forces specialized by each individual and circulated through the physical body as the vital fluid without which no being can live. This gland is therefore ruled by the sun which is the source of all vitality. The energies of this great planet manifest chiefly as will, vitality, individuality, authority, courage, generosity, dignity, loyalty, faithfulness, parental instinct, leadership, and responsibility.
 
@@ -516,7 +516,7 @@ To summarize: the powers developed through the influence of the sun upon the spl
 
 When these powers have been developed it is possible for the individual to put them to wrong use. He may get so enamored with himself that he becomes arrogant, overbearing, ostentatious, proud, pompous, domineering--a veritable despot. But if he does, again he reaps a harvest of sorrow and suffering until at last, humble and contrite, he becomes a most valuable SERVER ready and eager to apply his knowledge to the betterment of the world. The spiritual center in the spleen vibrates to golden yellow.
 
-#### <h4 id="the-thymus-gland-desire-world">THE THYMUS GLAND - DESIRE WORLD</h4>
+#### <h4 id="the-thymus-gland-desire-world">The Thymus Gland — Desire World</h4>
 
 Venus controls the thymus gland. The emotions are developed by the Venus love ray. The seat of the emotions is the desire body, and the desire body connects the individual with the Desire World. When the keynote of Venus arouses into activity the keynote of the thymus gland, the individual develops the highest form of love, artistic ability, beauty, harmony, cheerfulness, charm, attraction, cohesion, and coalition.
 
@@ -530,7 +530,7 @@ The keynote of Venus impinging upon that of the thymus gland begins to gradually
 
 Here, also, the individual consciously contacts the archangelic life wave, of which Christ is the highest Initiate, and learns of its various activities, particularly of those which pertain to the work of the various group and race spirits who although unseen here are nevertheless very closely associated with the activities of animal and man. he watches the two great forces of attraction and repulsion in action, and sees the drawing power of interest and the withering effect of indifference. Here he learns a truth whose value is beyond all estimation--that NOTHING BUT GOOD ULTIMATELY SURVIVES, and all energy expended for any other purpose is not only wasted, so far as actual accomplishment is concerned, but that it reacts disastrously upon him who tries to divert its use for evil. The spiritual center in the thymus gland vibrates to yellow.
 
-#### <h4 id="the-thyroid-gland-world-of-thought">THE THYROID GLAND - WORLD OF THOUGHT</h4>
+#### <h4 id="the-thyroid-gland-world-of-thought">The Thyroid Gland — World of Thought</h4>
 
 The thyroid gland is ruled by Mercury's planetary Spirit. The powers of this great Being when developed in man, manifest principally as reason, intellect, thoughtfulness, good memory, studiousness, quick wit, eloquence, dexterity, self-expression through speech and writing, the acquirement of knowledge by means of reason, and self-mastery. the wrong use of these powers expresses itself chiefly as conceit, cunning, shiftlessness, carelessness, lack of principle, gossiping, profanity, dishonesty, gambling, indecision, and nervousness.
 
@@ -540,7 +540,7 @@ He now fully realizes that his own creative force is a God power implanted in hi
 
 The individual has now gained control of his mind and holds the balance of power between the organs of generation and the brain. The Spirit is now the ruler of his lower self and is able to direct all of its activities into fields of endeavor that will produce true spiritual growth. The spiritual center in the thyroid gland vibrate to violet.
 
-#### <h4 id="the-pituitary-body-world-of-life-spirit">THE PITUITARY BODY - WORLD OF LIFE SPIRIT</h4>
+#### <h4 id="the-pituitary-body-world-of-life-spirit">The Pituitary Body — World of Life Spirit</h4>
 
 The pituitary body is under the rulership of Uranus. The keynote of this great planetary Spirit expresses itself on the physical plane as originality, universality, love of liberty for all, compassion, ingenuity, independence, reformation, progression, inventiveness, sudden action, intuition, clairvoyance, mysticism, and altruism.
 
@@ -558,7 +558,7 @@ The pituitary body is closely connected with the mystic path leading to Initiati
 
 Thus it is clearly to be seen that the arousing of the pituitary body into action is one of the most important accomplishments to be attained in the development of the feminine, love-wisdom powers of the Spirit.
 
-#### <h4 id="the-pineal-gland-world-of-divine-spirit">THE PINEAL GLAND - WORLD OF DIVINE SPIRIT</h4>
+#### <h4 id="the-pineal-gland-world-of-divine-spirit">The Pineal Gland — World of Divine Spirit</h4>
 
 The pineal gland is ruled by Neptune, the light bearer for the spiritual sun which is the Father. By nature this planet is occult, prophetic, and spiritual.
 
