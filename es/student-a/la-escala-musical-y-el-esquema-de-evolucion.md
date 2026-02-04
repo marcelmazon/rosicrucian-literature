@@ -297,7 +297,7 @@ La escala de Si b bemol contiene dos bemoles pero notemos que las letras excepto
 | Sib       | La        | Sib       | Sib       | Sib       | Fa           | Sib       |
 | Fa        | Fa        | Fa        | Sol       | Fa        | Mib          | Fa        |
 | Re        | Do        | Re        | Mib       | Re        | Do           | Re        |
-| Sib ch.   | Fa ch.    | Sib ch.   | Mib ch.   | Sib ch.   | Fa 7ma ch.   | Sib ch.   |
+| Sib ac.   | Fa ac.    | Sib ac.   | Mib ac.   | Sib ac.   | Fa 7ma ac.   | Sib ac.   |
 
 Leo, Señores de la Llama, ejercitaron regencia durante el Período de Saturno y como su escala musical La sostenido -Si bemol- contenían los sonidos usados para despertar el Poder del Espíritu Divino, que es la Voluntad, entonces, estos mismos tonos, son de inmenso valor para un mayor desarrollo de este Poder Superior del Espíritu: la Voluntad. 
 
@@ -309,7 +309,7 @@ En el segundo descenso en la materia -Revolución- del Período Solar, Virgo -Se
 | Sol       | Si        | Sol       | La        | Sol       | Sol       | Sol       |
 | Mi        | Sol       | Mi        | Fa        | Mi        | Fa        | Mi        |
 | Do        | Re        | Do        | Do        | Do        | Re        | Do        |
-| Do ch.    | Sol ch.   | Do ch.    | Fa ch.    | Do ch.    | Sol 7ma   | Do ch.    |
+| Do ac.    | Sol ac.   | Do ac.    | Fa ac.    | Do ac.    | Sol 7ma   | Do ac.    |
 
 Algunas de las posibilidades del cuerpo vital son: crecimiento y desarrollo de las percepciones sensoriales, propagación, desarrollo y acción de las glándulas y todos los órganos en la substancia etérica -contra parte- de cuerpo Físico. 
 
@@ -333,7 +333,7 @@ La tercer octava de la escala cromática proveyó los sonidos musicales usados d
 | La         | La         | La         | Si         | La         | Sol        | La         |
 | Fa#        | Mi         | Fa#        | Sol        | Fa#        | Mi         | Fa#        |
 | Re         | Do#        | Re         | Re         | Re         | Do#        | Re         |
-| Re ch.     | Mi ch.     | Re ch.     | Sol ch.    | La ch.     | La 7ma ch. | Re ch.     |
+| Re ac.     | Mi ac.     | Re ac.     | Sol ac.    | La ac.     | La 7ma ac. | Re ac.     |
 
 Las notas que se encuentran en los acordes de Re mayor, van a ayudar a desarrollar el cuerpo de Deseos, de acuerdo con un designio Cósmico perfecto. 
 
@@ -377,7 +377,7 @@ La Oleada de Vida de Escorpio, los Señores de la Forma, se hicieron cargo del t
 | Mi          | Re#         | Mi          | La          | Mi          | Si          | Mi          |
 | Si          | Si          | Si          | Do#         | Si          | La          | Si          |
 | Sol#        | Fa#         | Sol#        | Mi          | Sol#        | Fa#         | Sol#        |
-| Mi ch.      | Si ch.      | Mi ch.      | La ch.      | Si ch.      | Si ch.      | Mi ch.      |
+| Mi ac.      | Si ac.      | Mi ac.      | La ac.      | Si ac.      | Si ac.      | Mi ac.      |
 
 Durante el cuarto descenso -o Revolución- en la materia, durante la época Atlante, la Oleada de Vida de Sagitario, los Señores de la Mente, radiaron de Ellos mismos en nuestro propio ser, el núcleo de material con el cual ahora estamos buscando construir una mente organizada. La mente está formada con substancia de las cuatro divisiones del Pensamiento Concreto. La segunda división contiene los Arquetipos de la Vitalidad Universal; la tercera contiene los Arquetipos de la Vitalidad Universal; la tercera contiene los Arquetipos de la Vitalidad Universal; la tercera contiene los Arquetipos del Deseo y la Emoción; la cuarta contiene las fuerzas Arquetípicas de la Mente humana; la primera, o más baja Región contiene los Arquetipos de la Forma. La Región de las Ideas Germinales, en la Región del Pensamiento Abstracto, se refleja en la primera Región del Pensamiento Concreto, las Ideas Germinales, en la Región del Pensamiento Abstracto, se refleja en la primera Región del Pensamiento Abstracto, se refleja en la primera Región del Pensamiento Concreto, las Ideas Germinales de Vida en la Región del Pensamiento Abstracto son reflejadas en la segunda Región del Pensamiento Concreto y la Región Abstracta de Ideas Germinales de Deseos, se refleja en la tercer Región del Pensamiento Concreto. En la última parte de la Época Lemúrica, una pequeña parte de nuestra humanidad, estaba suficientemente avanzada de manera que el Germen de la Mente le podía ser dado. 
 
@@ -389,7 +389,7 @@ La nota-clave de los Sagitarios es Fa mayor y tiene una bemol, que es Sí. Los a
 | Fa          | Mi          | Fa          | Fa          | Fa          | Do          | Fa          |
 | Do          | Do          | Do          | Re          | Do          | Sib         | Do          |
 | La          | Sol         | La          | Sib         | La          | Sol         | La          |
-| Fa ch.      | Do ch.      | Fa ch.      | Sib ch.     | Fa ch.      | Do 7ma ch.  | Fa ch.      |
+| Fa ac.      | Do ac.      | Fa ac.      | Sib ac.     | Fa ac.      | Do 7ma ac.  | Fa ac.      |
 
 Notemos que éste acorde está relacionado con la mente, el último vehículo adquirido por el hombre y el menos desarrollado de los cuatro que posee; aquí tenemos la clave para un desarrollo mental rápido. Los acordes de Fa mayor que contienen Si bemol. 
 
@@ -407,7 +407,7 @@ Los Arcángeles son expertos en producir la substancia para los vehículos de De
 | Sol         | Fa#         | Sol         | Sol         | Sol         | Re          | Sol         |
 | Re          | Re          | Re          | Mi          | Re          | Do          | Re          |
 | Si          | La          | Si          | Do          | Si          | La          | Si          |
-| Sol ch.     | Re ch.      | Sol ch.     | Do ch.      | Sol ch.     | Re 7ma ch.  | Sol ch.     |
+| Sol ac.     | Re ac.      | Sol ac.     | Do ac.      | Sol ac.     | Re 7ma ac.  | Sol ac.     |
 
 Los Ángeles están completamente experimentados en construir cuerpos Vitales porque en el Período Lunar, cuando ellos eran humanos, el éter era la condición de materia más densa. Debido a su habilidad de construir y dar forma al éter, ellos son considerados los maestros del hombre, el animal y las plantas, en relación con sus funciones Vitales, incluyendo la propagación y la nutrición. La nota-clave de los Ángeles, los Acuarianos, es La mayor, su escala tiene tres sostenidos, Fa – Re -Sol sostenidos y sus acordes son: 
 
@@ -447,7 +447,7 @@ La nota-clave de la Oleada de Vida de Tauro, es Mi bemol mayor, y su escala cont
 | Mib         | Re          | Mib         | Mib         | Mib         | Sib           | Mib         |
 | Sib         | Sib         | Sib         | Do          | Sib         | Lab           | Sib         |
 | Sol         | Fa          | Sol         | Lab         | Sol         | Fa            | Sol         |
-| Mib ch.     | Sib ch.     | Mib ch.     | Lab ch.     | Sib ch.     | Sib 7ma ch.   | Mib ch.     |
+| Mib ac.     | Sib ac.     | Mib ac.     | Lab ac.     | Sib ac.     | Sib 7ma ac.   | Mib ac.     |
 
 Cada parte del cuerpo humano, ha sido construida por las notas-claves de las doce Grandes Oleadas de Vida, asistidas por los Siete Espíritus delante del Trono, es decir: Urano, Saturno, Júpiter, Marte, Tierra, Venus, Mercurio más el trabajo de Neptuno y el de la Luna -nuestro satélite- Los Poderes Espirituales del hombre han sido despertados por algunas de las doce Oleadas de Vida como se ha mencionado en los capítulos anteriores. Este trabajo ha sido y está siendo llevado a cabo ahora con toda la humanidad sin importar en qué signo de la carta natal del individuo se encuentra el Sol; Los Grandes Guías han estado y están llevando a cabo Sus Actividades bajo la Dirección del Dios de nuestro Sistema Solar y son sus embajadores en la tierra. 
 
@@ -619,7 +619,7 @@ En el Período de la Tierra los Señores de la Mente radiaron de ellos mismos en
 | La          | Sol         | La          | Sib         | La          | Sol           | La          |
 | Fa          | Mi          | Fa          | Fa          | Fa          | Mi            | Fa          |
 | Do          | Do          | Do          | Re          | Do          | Do            | Do          |
-| Fa ch.      | Do ch.      | Fa ch.      | Sib ch.     | Do ch.      | Do 7ma ch.    | Fa ch.      |
+| Fa ac.      | Do ac.      | Fa ac.      | Sib ac.     | Do ac.      | Do 7ma ac.    | Fa ac.      |
 
 El espíritu actúa completamente en el Mundo Físico cuando vive su Vida terrestre, excepto cuando el cuerpo está durmiendo o está inconsciente por cualquiera otra causa. Durante las horas vigílicas el Espíritu reside y se conecta con el mundo externo a través del Poder de la Mente. Cuando más desarrollada está la Mente mejor se conecta el Espíritu con el mundo externo. En el estado presente la Mente es una nube informe que penetra y rodea la cabeza. La Mente hasta ahora no ha desarrollado ningún órgano. Actúa como un espejo que refleja el mundo externo permitiendo al Espíritu transmitir sus órdenes, pensamientos, palabras, y acción. El Espíritu genera el pensamiento, lo trasmite a la Mente y la Mente lo enfoca en cierto modo a los centros cerebrales; estos lo transforman en incentivo para la acción. 
 
@@ -649,7 +649,7 @@ El Espíritu guiado y dirigido por los Ángeles construyó el cerebro y la larin
 | La          | Sol         | La          | Sib         | La          | Sol           | La          |
 | Fa          | Mi          | Fa          | Fa          | Fa          | Mi            | Fa          |
 | Do          | Do          | Do          | Re          | Do          | Do            | Do          |
-| Fa ch.      | Do ch.      | Fa ch.      | Sib ch.     | Do ch.      | Do 7ma ch.    | Fa ch.      |
+| Fa ac.      | Do ac.      | Fa ac.      | Sib ac.     | Do ac.      | Do 7ma ac.    | Fa ac.      |
 
 La Oleada de Vida Angélica, nota-clave LA mayor -tres sostenidos-, acordes y sonidos: “Allí está el hogar”. 
 
@@ -658,7 +658,7 @@ La Oleada de Vida Angélica, nota-clave LA mayor -tres sostenidos-, acordes y so
 | La          | Si          | La          | La          | La          | Sol#          | La          |
 | Mi          | Sol#        | Mi          | Fa#         | Mi          | Mi            | Mi          |
 | Do#         | Mi          | Do#         | Re          | Do#         | Re            | Do#         |
-| La ch.      | Mi ch.      | La ch.      | Si ch.      | Mi ch.      | Mi 7ma ch.    | La ch.      |
+| La ac.      | Mi ac.      | La ac.      | Si ac.      | Mi ac.      | Mi 7ma ac.    | La ac.      |
 
 La nota-clave de la humanidad SI mayor -cinco sostenidos-, acordes y canto: “Estrellas brillando como insignias”: 
 
@@ -668,7 +668,7 @@ La nota-clave de la humanidad SI mayor -cinco sostenidos-, acordes y canto: “E
 | Si          | La#         | Si          | Si          | Si          | Fa#           | Si          |
 | Fa#         | Fa#         | Fa#         | Sol#        | Fa#         | Mi            | Fa#         |
 | Re#         | Do#         | Re#         | Mi          | Re#         | Do#           | Re#         |
-| Si ch.      | Fa# ch.     | Si ch.      | Mi ch.      | Si ch.      | Fa# 7ma ch.   | Si ch.      |
+| Si ac.      | Fa# ac.     | Si ac.      | Mi ac.      | Si ac.      | Fa# 7ma ac.   | Si ac.      |
 
 Y cualquier música escrita en SI mayor -cinco sostenidos- es hasta el presente difícil de encontrar. Ejemplos de música escrita en LA mayor -tres sostenidos- Oleada de Vida Angélica expresan... ¿Había estrellas en mi Corona?, ¡Oh! Piensen en el Hogar allí y Vengan todos los que tengan Fe. 
 
