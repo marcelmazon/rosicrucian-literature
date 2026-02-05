@@ -149,7 +149,7 @@ We are too much in the habit of looking to an outside Saviour while harboring a 
 ### <h3 id="chapter-4">CHAPTER IV: THE COSMIC MEANING OF EASTER (PART II)</h3>
 
 ```
-The sign of the cross shall be in heaven when the Lord cometh to   judgment. Then all servants of the cross, who in life have conformed themselves to the crucified, shall draw nigh until Christ with great boldness.  
+The sign of the cross shall be in heaven when the Lord cometh to judgment. Then all servants of the cross, who in life have conformed themselves to the crucified, shall draw nigh until Christ with great boldness.  
 
 - Thomas a Kempis 
 ```
