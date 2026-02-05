@@ -21,7 +21,7 @@ Oceanside, California, 92054, USA
 
 The contents of this booklet are composed of the various writings concerning archetypes by Max Heindel, authorized messenger of the Brothers of the Rose Cross, and founder of The Rosicrucian Fellowship. Covering in a comprehensive manner the illuminating subject of archetypes and archetypal forces, the information in this little pamphlet will be found a valuable addition to the reference library of any occult student. 
 
-### <h3 id="archetypes-subtitle">ARCHETYPES</h3>
+### <h3 id="archetypes-subtitle">Archetypes</h3>
 
 FOREWORD--Archetypes are created by archetypal forces working in the four lower Regions of Concrete Thought. Archetypes live, move, and create as a mechanical appliance made by man works--but without reason. When the archetype is built it is set into vibration, and as long as it continues to vibrate the form which it sustains continues to live. When the archetype ceases to vibrate the form disintegrates. 
 
