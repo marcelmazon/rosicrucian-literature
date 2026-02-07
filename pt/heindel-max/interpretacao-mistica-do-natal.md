@@ -23,7 +23,11 @@ Oceanside, California, 92054, USA
 
 O conteúdo desse livro foi enviado em forma de cartas periódicas pelo autor aos Estudantes. Elas abrangem somente cinco[1] das suas noventa e nove composições em forma de carta. A principal característica dessas lições é o nascimento místico e a morte do grande Espírito Cristo, abordados sob o ponto de vista de um Clarividente. O autor recebeu essas preciosidades raras da verdade por meio da iluminação divina. O materialista mais pronunciado deve se tornar convencido da divindade do ser humano, após ler essas revelações do autor sobre a significância espiritual do Cristo e dos princípios que Ele proclamou.
 
+() - [1] N.T.: na 10ª Edição foi acrescentada mais uma carta, totalizando seis cartas.
+
 Dezessete desses folhetos foram impressos em forma de livro sob o título: A Teia do Destino, incluindo os temas: O Efeito Oculto das Nossas Emoções, A Oração – Uma Invocação Mágica e Métodos Práticos para se Alcançar o Sucesso. Nove foram publicadas sob o título: Maçonaria e Catolicismo, como visto por de trás do cenário. As restantes sessenta e oito lições publicaremos no segundo volume da coletânea, conforme o tempo o permita[2].
+
+() - [2] N.T.: Depois de 1920: dezenove no livro Os Mistérios das Grandes Óperas; vinte e quatro sob o título: Coletâneas de Um Místico.
 
 Nós temos a esperança de que a leitura cuidadosa e atenta desse volume sobre a vida sagrada de Cristo estimule uma maior veneração pela Religião Cristã, tornando-a mais aceitável à razão por meio da obra inspirada desse autor, cujo principal objetivo, enquanto viveu, foi o de trazer o ideal de Cristo e a vida simples de um serviço mais próximo dos corações das pessoas.
 
@@ -42,20 +46,30 @@ Augusta Foss Heindel
 
 ### <h3 id="chapter-1">Capítulo I – A significância[3] cósmica do Natal</h3>
 
+() - [3] N.T.: a riqueza da experiência.
+
 Mais uma vez, no decorrer de um ano, estamos às vésperas do Natal. A visão de cada um de nós sobre essa festividade não é a mesma e nem semelhante entre uma e outra. Para o religioso devoto é um período santificado, sagrado e repleto de mistério, não menos sublime por ser incompreendido. Para o ateu é uma tola superstição. Para o puramente intelectual é um enigma, pois está além da razão.
 
 Nas igrejas a história é narrada de como na noite mais santa do ano, Nosso Senhor e Salvador, imaculadamente concebido, nasceu de uma virgem. Nenhuma outra explicação é fornecida; o assunto é deixado a critério do ouvinte que o aceita ou rejeita, de acordo com o seu temperamento. Se a Mente e a razão prevalecem, a fé é excluída; se ele pode acreditar apenas no que pode ser demonstrado aos sentidos, então, é forçado a rejeitar a narrativa como absurda e desarmônica com as várias e imutáveis leis da natureza.
 
 Várias interpretações diferentes foram fornecidas para satisfazerem a Mente, principalmente as de natureza astronômica. Elas estabelecem de como na noite de 24 para 25 de dezembro, o Sol começa sua jornada do sul para o norte. Ele é a “Luz do Mundo”. O frio e a fome inevitavelmente exterminariam a Onda de Vida humana se o Sol permanecesse sempre no Sul[4]. Por isso, é um motivo de grande regozijo quando ele começa sua jornada em direção ao norte. Ele é, então, aclamado o “Salvador”, pois vem “salvar o mundo”, vem para dar o “pão da vida”, quando amadurece “o grão e a uva”. Assim, “Ele dá a sua vida” na cruz (quando cruza) do equador (no Equinócio de Setembro) e começa sua ascensão no céu (norte). Na noite em que começa sua jornada em direção ao norte, o Signo de Virgem, a Virgem Celestial, a “Rainha do Céu”, está no horizonte oriental à meia-noite e é, então, astrologicamente falando, seu “Signo Ascendente”. Portanto Ele “nasce de uma virgem”, sem intermediários, sendo assim “concebido imaculadamente”.
 
+() - [4] N.T.: para o hemisfério norte e para os extremos do hemisfério sul isso é um fato inquestionável. Para o restante do hemisfério sul, também, só que aqui seria pelo fortíssimo calor e pela fome, por sua resultante escassez.
+
 Essa explicação pode satisfazer a Mente quanto à origem da suposta superstição, mas o dolorido vazio que existe no coração de todo cético, esteja ou não ciente do fato, deve permanecer até que a iluminação espiritual seja alcançada, a qual fornecerá uma explicação aceitável tanto ao Coração como à Mente. Derramar tal luz sobre esse mistério sublime será nosso esforço nas páginas seguintes. A Imaculada Concepção será o assunto de uma lição futura; por hora queremos mostrar como as forças materiais e espirituais fluem e refluem alternadamente no decurso do ano, e porque o Natal é verdadeiramente um “dia santo”.
 
 Digamos que concordamos com a interpretação astronômica como sendo válida, desse ponto de vista, como o que se segue é verdadeiro, quando contemplamos o mistério do nascimento sob outro ângulo. O Sol nasce, ano após ano, na noite mais escura. O Salvador do Mundo Cristo também nasce, quando a escuridão espiritual da Humanidade é a maior. Há um terceiro aspecto de suprema importância, isto é, não há nenhuma futilidade nas palavras de S. Paulo quando ele fala do Cristo sendo “formado em você”[5]. É um fato sublime que todos somos Cristos-em-formação, de modo que quando compreendemos que temos que cultivar o Cristo interno antes que possamos perceber o Cristo externo, mais apressaremos o dia da nossa iluminação espiritual. Nesse sentido, novamente citamos o nosso aforismo preferido, de Angelus Silesius[6], cuja sublime percepção espiritual fê-lo proferir:
 
-    “Ainda que Cristo nasça mil vezes em Belém,  
-    Se não nascer dentro de ti, tua alma segue extraviada.  
-    Olharás em vão a Cruz do Gólgota,  
-    Enquanto ela não se erguer dentro de ti mesmo novamente.”  
+() - [5] N.R.: Gl 4:4
+
+() - [6] N.R.: Pseudônimo de Johannes Scheffler (1624-1667) – Místico cristão, filósofo, médico, poeta, jurista alemão.
+
+```
+“Ainda que Cristo nasça mil vezes em Belém,  
+Se não nascer dentro de ti, tua alma segue extraviada.  
+Olharás em vão a Cruz do Gólgota,  
+Enquanto ela não se erguer dentro de ti mesmo novamente.”  
+```
 
 No Solstício de Junho a Terra está mais distante do Sol, mas o raio solar a atinge quase em ângulo reto, em relação ao seu eixo no hemisfério norte, assim resultando no alto grau da atividade física. Nessa ocasião, as radiações espirituais do Sol são oblíquas nessa parte da Terra e são tão fracas como os raios físicos, quando esses são oblíquos.
 
@@ -63,7 +77,11 @@ Por outro lado, no Solstício de Dezembro, a Terra está mais perto do Sol. Os r
 
 Se nadarmos quando a maré está mais forte, alcançaremos uma distância maior e com menos esforço do que em qualquer outra ocasião. É de grande importância para o Estudante esotérico saber e compreender as condições particularmente favoráveis que prevalecem na época do Natal. Sigamos a exortação de S. Paulo, no Capítulo 12 da Epístola aos Hebreus[7], jogando fora toda carga à mais, como fazem as pessoas que participam de corridas. Batamos no ferro enquanto ele está quente; isso significa que devemos, nessa época do ano, concentrar todas as nossas energias nos esforços espirituais e para colher o que não conseguiríamos obter em nenhuma outra ocasião do ano.
 
+() - [7] N.T.: Hb 12:1-2 – “também nós, com tal nuvem de testemunhas ao nosso redor, rejeitando todo fardo e o pecado que nos envolve, corramos com perseverança para o certame que nos é proposto, com os olhos fixos naquele que é o autor e realizador da fé, Cristo Jesus”.
+
 Lembremo-nos, também, que o autoaperfeiçoamento não deve ser a nossa única consideração. Nós somos Discípulos de Cristo. Se aspirarmos a tal distinção, lembremo-nos do que Ele disse: “Aquele que quiser ser o maior entre vós, seja o servo de todos”[8]. Há um sentimento muito grande de tristeza e sofrimento à nossa volta; há muitos corações solitários e doloridos em nosso círculo de conhecidos. Busquemo-los de maneira discreta. Em nenhuma outra época do ano eles serão mais acessíveis aos nossos apelos. Espalhemos a luz do Sol em seus caminhos. Desse modo, ganharemos suas bênçãos e também as dos nossos Irmãos Maiores. Por sua vez, as vibrações resultantes promoverão um crescimento espiritual impossível de ser atingido de qualquer outro modo.
+
+() - [8] N.R.: Mt 20:27; Lc 22:26; Mc 9:15
 
 ### <h3 id="chapter-2">Capítulo II – Luz espiritual – O novo elemento e a nova substância</h3>
 
@@ -93,17 +111,17 @@ A indiscutível religiosidade dos Católicos é verificável, em parte, na prát
 
 Não foi por acaso que os instrutores da Escola de Mistério Grega denominaram assim essa substância luminosa que conhecemos por fósforo. Para eles era patente que “Deus é Luz” – a palavra grega designativa de luz é phos. Portanto, muito apropriadamente, eles denominaram a substância do cérebro, que é a avenida de ingresso do impulso divino, phos-phorus, literalmente “portador da luz”. Na medida em que formos capazes de assimilar essa substância, nos tornamos cheios de luz e começamos a brilhar a partir de dentro, nos circundando, então, de um halo como uma marca de santidade. O fósforo, contudo, é apenas um meio físico que possibilita a luz espiritual se expressar por meio do cérebro físico, sendo a luz, em si mesma, um produto do crescimento anímico. Entretanto, o crescimento anímico capacita o cérebro a assimilar quantidades crescentes de fósforo; assim, o método para a aquisição dessa substância, em maiores quantidades, não deve ser pelo metabolismo químico e sim pelo processo alquímico do crescimento anímico, o que foi totalmente esclarecido por Cristo quando Ele disse a Nicodemos:
 
-“Pois Deus não enviou o seu Filho ao mundo para julgar o mundo… Quem nele crê não é julgado; quem não crê, já está julgado.
-
-… Este é o julgamento: a luz veio ao mundo, mas os homens preferiram mais trevas à luz…
-
-… Pois quem faz o mal odeia a luz e não vem para a luz, para que suas obras não sejam demonstradas como culpáveis. Mas quem pratica a verdade vem para a luz, para que se manifeste que suas obras são feitas em Deus” (Jo 3:17-21).
+“Pois Deus não enviou o seu Filho ao mundo para julgar o mundo… Quem nele crê não é julgado; quem não crê, já está julgado. … Este é o julgamento: a luz veio ao mundo, mas os homens preferiram mais trevas à luz… … Pois quem faz o mal odeia a luz e não vem para a luz, para que suas obras não sejam demonstradas como culpáveis. Mas quem pratica a verdade vem para a luz, para que se manifeste que suas obras são feitas em Deus” (Jo 3:17-21).
 
 O Natal é a época do ano da luz espiritual mais intensa que há. Durante esta Época de ciclos alternantes há marés altas e baixas de luz espiritual, como acontece com as águas do oceano. A primitiva Igreja Cristã marcou a concepção no mês de setembro, de modo que até hoje o evento é celebrado pela Igreja Católica, quando a grande Onda de Vida e luz espirituais começa a sua descida na Terra. O ponto máximo de maré é alcançado no Natal, que é verdadeiramente a época santa do ano, a ocasião em que essa luz espiritual é mais facilmente contatada e especializada pelo Aspirante, por meio dos atos de compaixão, gentileza e amor. As oportunidades para praticar esses atos não faltam, nem mesmo para os mais pobres, porque, conforme enfatizam frequentemente os Ensinamentos Rosacruzes, o serviço conta mais que os auxílios financeiros, que pode até ser prejudicial a quem o recebe. Todavia, a quem muito é dado, muito será exigido e, se alguém foi abençoado com abundância de bens do mundo, uma cuidadosa distribuição dos mesmos deveria, necessariamente, ser observada em qualquer oportunidade de servir. Recordemos, ainda, as palavras de Cristo: “Em verdade vos digo, sempre que fizerdes isto a um destes meus pequeninos irmãos, a mim o fazeis”[9]. Então, nós devemos segui-Lo como luzes ardentes e brilhantes, mostrando o caminho para a Nova Era.
+
+() - [9] N.T.: Mt 25:40
 
 ### <h3 id="chapter-3">Capítulo III – O sacrifício anual de Cristo</h3>
 
 Você já esteve ao lado do leito de um amigo ou parente que se encontrasse preste a passar desse Mundo para o além? Muitos de nós já tivemos essa experiência, pois qual o lar que não foi visitado pelo Pai Tempo? Nem é incomum a fase que se segue ao ocorrido, à qual devemos prestar atenção especial. A pessoa prestes a passar desse Mundo para o além, muitas vezes fica em estado de estupor[10]; então desperta e vê não apenas esse Mundo, mas também o Mundo em que está preste a entrar; é muito significante que nesses momentos ela vê as pessoas que foram suas amigas ou parentes durante a parte da sua vida – filhos, filhas, esposa (ou marido) ou qualquer pessoa que lhe tenha sido realmente muito próxima ou muito querida – postadas ao redor do seu leito e aguardando o momento da transição. A mãe poderá estender os braços: “Oh! É o João e como ele cresceu! Que rapaz esplêndido e enorme ele está!”. E, desse modo, ela reconhecerá, um após outro, todos os filhos já falecidos. Estes estão reunidos em volta da sua cama à espera que ela vá se unir a eles, animados pela mesma sensação que assalta as pessoas quando uma criança está prestes a nascer nesse Mundo: o regozijo pela chegada de alguém que eles sentem, instintivamente, ser um amigo que está voltando para eles.
+
+() - [10] N.T.: estado de inconsciência profunda, com desaparecimento da sensibilidade ao meio ambiente e da faculdade de exibir reações motoras. A pessoa não consegue pensar, falar, ver ou ouvir com clareza.
 
 Assim, o mesmo se dá com as pessoas que, tendo passado antes ao além, se reúnem para receber um amigo (ou uma amiga) que está prestes a cruzar a fronteira e se juntar a eles do outro lado do véu. Vemos, assim, que o nascimento em um Mundo é morte, sob o ponto de vista do outro Mundo, isto é, a criança que vem a nós morre para o Mundo espiritual, e a pessoa que sai do alcance dos nossos olhos, ao transpor o véu pela morte, nasce em um novo Mundo e se junta a seus amigos lá.
 
@@ -117,11 +135,17 @@ Agora, observe as igrejas; nunca suas velas brilham tanto quanto nesse dia mais 
 
 “Deus é Luz”[11], diz o inspirado Apóstolo e nenhuma outra descrição é capaz de comunicar ou expressar tanto da natureza de Deus quanto essas três pequenas palavras. A luz invisível, que se encontra envolvida pela chama sobre o altar, é uma representação apropriada de Deus, o Pai. Nos sinos, temos um símbolo muito apropriado de Cristo, a Palavra, pois suas línguas metálicas proclamam a mensagem do Evangelho da paz e boa vontade, enquanto o incenso, simbolizando um maior fervor espiritual, representa o poder do Espírito Santo. Por conseguinte, a Trindade é simbolicamente parte da celebração que faz do Natal a época do ano de maior regozijo espiritual, sob o ponto de vista da Onda de Vida humana que está envolvida e trabalhando, atualmente, no Mundo Físico.
 
+() - [11] N.R.: IJo 1:5
+
 Todavia, não se deve esquecer, conforme dissemos no terceiro parágrafo desse capítulo, que o nascimento de Cristo na Terra é a Sua morte para a glória dos céus; que, quando nos rejubilamos pelo Seu regresso anual a nós, de fato Ele toma novamente sobre Si o pesado fardo físico que cristalizamos ao nosso redor, e que é agora a nossa habitação – a Terra. Nesse pesado corpo, Ele é incrustado e espera, ansiosamente, pelo dia da libertação final. Podemos compreender, naturalmente, que existem dias e noites, tanto para os maiores Espíritos quanto para os seres humanos; que, do mesmo modo que vivemos em nossos Corpos durante o dia, cumprindo o destino que nós mesmos criamos no Mundo Físico e somos liberados à noite para nos recuperarmos nos Mundos superiores, assim também existe essa alternância para o Espírito de Cristo. Parte do ano Ele habita o interior do nosso globo, e depois se retira para os Mundos superiores. Assim, o Natal é para Cristo o começo de um dia de vida física, o início de um período de restrição.
 
 Qual deveria ser, portanto, a aspiração do místico devotado e iluminado, que percebe a grandeza do Seu sacrifício, a grandeza desse dom que está sendo concedido à Humanidade por Deus nessa época do ano; que percebe esse grande sacrifício de Cristo por nossa causa; essa dádiva de Si mesmo Se sujeitando a uma morte virtual para que possamos viver esse maravilhoso amor que está sendo derramado sobre a Terra nessa época? Unicamente a de imitar, mesmo que em pequena escala, as maravilhosas obras de Deus! Ele deveria aspirar fazer de si mesmo um servo da Cruz como jamais o fora antes; mais disposto a seguir o Cristo em todas as coisas, se sacrificando pelos seus irmãos e irmãs; colaborando, dentro de sua esfera imediata de trabalho, para a elevação da Humanidade, de modo a apressar o dia da libertação pela qual o Espírito de Cristo está esperando, gemendo e trabalhando penosamente. Estamos aqui falando de uma libertação permanente, do dia e do advento de Cristo.
 
 Para alcançarmos essa aspiração na medida mais ampla, avancemos pelo ano que está a nossa frente plenos de autoconfiança e fé. Se até aqui temos sentido que não há esperanças sobre a nossa capacidade de trabalhar para Cristo, ponhamos de lado esse sentimento, pois afinal Ele nos disse: “Maiores obras que estas vós o fareis!”[12]. Ele, que era a Palavra da Verdade, teria dito tais coisas, se elas não fossem possíveis de serem alcançadas? Todas as coisas são possíveis àqueles que amam a Deus. Se realmente trabalharmos em nossa própria pequena esfera, não buscando coisas maiores até havermos feito aquelas que estão à mão, então descobriremos que um maravilhoso crescimento anímico pode ser atingido, de forma que as pessoas que nos rodeiam possam ver em nós algo que não saberão definir, mas que, não obstante, lhes será evidente – elas verão a luz do Natal, a luz do Cristo recém-nascido brilhando dentro da nossa esfera de ação. Isso pode ser conseguido; depende apenas de nós mesmos aceitá-Lo por meio da Sua palavra, cumprindo o que Ele ordenou: “Sede perfeitos como perfeito é o vosso Pai que está nos céus”[13]. A perfeição pode parecer uma longa caminhada; nós podemos perceber mais agudamente quando olhamos para Ele quão longe estamos de viver de acordo com nossos ideais. Mesmo assim, é pelo esforço diária, hora após hora, que finalmente chegaremos lá, e a cada dia algum progresso pode ser feito, algo pode ser realizado; de um modo ou de outro podemos deixar a nossa luz brilhar para que os seres humanos possam vê-la como faróis na escuridão do Mundo. Possa Deus nos ajudar durante o próximo ano a alcançar uma semelhança com Cristo maior do que jamais conseguimos antes. Possamos viver a vida de tal modo que, quando outro ano tiver passado, quando contemplarmos novamente as luzes do Natal e ouvirmos os sinos chamando para as cerimônias da Noite Santa, possamos sentir que não temos vivido em vão.
+
+() - [12] N.R.: Jo 14:12
+
+() - [13] N.R.: Mt 5:8
 
 Cada vez que nos damos ao serviço em benefício dos outros, acrescentamos brilho aos nossos Corpos-Alma, que são feitos de Éter. É o Éter de Cristo que permite esse nosso globo flutuar, e recordemos que, se quisermos trabalhar por Sua libertação, devemos, juntos com uma quantidade suficiente de pessoas, desenvolver nossos Corpos-Alma até ao ponto em que essa quantidade de pessoas possa fazer flutuar a Terra. Desse modo poderemos tomar o Seu fardo e O livrar da dor da existência física.
 
@@ -129,16 +153,21 @@ Cada vez que nos damos ao serviço em benefício dos outros, acrescentamos brilh
 
 Exotericamente, e desde tempos imemoriais, o Sol é venerado como o dador de vida, porque a multidão era incapaz de ver, além do símbolo material, uma grande verdade espiritual. Contudo, além daqueles que adoravam a órbita celeste, que é vista com os olhos físicos, sempre houve e continua a haver uma pequena, mas crescente minoria, um sacerdócio consagrado mais pela retidão do que pelos rituais, que viu e vê as eternas verdades espirituais, por trás das formas temporais e evanescentes que revestem essas verdades, nas mudanças das vestes cerimoniais, conforme o momento, e às pessoas a que foram, originalmente, destinadas. Para eles, a lendária Estrela de Belém brilha todos os anos como o Místico Sol da Meia-Noite, quando os três atributos divinos: Vida, Luz e Amor penetram em nosso Planeta no Solstício de Dezembro e começam a irradiar do centro do nosso globo. Esses raios de esplendor e poder espirituais inundam o nosso globo com uma luz sobrenatural que envolve todos sobre a Terra, do mais insignificante ao mais importante, sem distinção alguma. Todavia, nem todos podem participar desse maravilhoso dom na mesma medida; alguns conseguem mais, outros menos e alguns nem participam da grande oferta de amor que o Pai preparou para nós em Seu Filho Unigênito, porque ainda não desenvolveram o imã espiritual, o Cristo menino interno, que sozinho pode nos guiar ao Caminho, à Verdade e à Vida.
 
-    “Que adianta o Sol brilhar,  
-    Se eu não tiver olhos para ver?  
-    Como saberei que o Cristo é meu,  
-    a não ser através do Cristo em mim?  
-    Essa voz silenciosa dentro do meu coração  
-    é o penhor do pacto  
-    entre Cristo e eu – ela transmite  
-    para a fé a força do Feito”  
+```
+“Que adianta o Sol brilhar,  
+Se eu não tiver olhos para ver?  
+Como saberei que o Cristo é meu,  
+a não ser através do Cristo em mim?  
+
+Essa voz silenciosa dentro do meu coração  
+é o penhor do pacto  
+entre Cristo e eu – ela transmite  
+para a fé a força do Feito”  
+```
 
 Essa é, sem dúvida, uma experiência mística que soa verdadeira para muitos de nossos Estudantes, tão verdadeira como a noite segue ao dia e ao inverno segue o verão. A menos que tenhamos Cristo dentro de nós, a menos que um maravilhoso pacto fraternal de sangue tenha sido consumado, não podemos ter parte no Salvador, embora os sinos de Natal nunca parem de soar. Contudo, quando Cristo se formar em nós, quando a Imaculada Concepção se tornar uma realidade em nossos próprios corações, quando nós nos prostrarmos aos pés do Cristo recém-nascido, para Lhe oferecer os nossos presentes, dedicando a natureza inferior ao serviço do Eu Superior, então, e só então, as festividades natalinas serão compartilhadas por nós, ano após ano. E, quanto mais arduamente tenhamos trabalhado na “Vinha do Mestre”, mais clara e distintamente poderemos ouvir a voz silenciosa dentro dos nossos corações, sussurrando o convite: “Vinde a Mim, todos os que estais cansados e oprimidos, e Eu vos aliviarei. Tomai sobre vós o Meu jugo… porque o Meu jugo é suave e o Meu fardo é leve.”[14]. Então, ouviremos uma nova nota nos sinos de Natal como nunca ouvimos antes, pois em todo ano não há dia mais feliz do que o do Nascimento de Cristo, quando Ele renasce na Terra, trazendo com Ele presentes para os filhos dos seres humanos – presentes que significam a continuação da vida física; porque sem essa vitalizante e energizante influência do Espírito de Cristo, a Terra permaneceria fria e árida; não haveria uma nova canção da primavera, nem os pequeninos coristas da floresta para alegrar os nossos corações à chegada do verão; a pressão gélida dos polos Boreais manteria a Terra agrilhoada e muda para sempre, nos impossibilitando de prosseguir em nossa evolução material, tão necessária para aprendermos a usar o poder do pensamento por meio de apropriados canais criativos.
+
+() - [14] N.R.: Mt 11:29-30
 
 O espírito de Natal é, pois, uma realidade viva para todo aquele que já desenvolveu o Cristo interno. O homem e a mulher comuns sentem esse espírito somente nas proximidades das festas natalinas, mas o místico iluminado pode vê-lo e senti-lo meses antes e meses depois do seu ponto culminante na Noite Santa. Em setembro ocorre uma mudança na atmosfera terrestre; uma luz começa a reluzir nos céus; essa luz parece permear todo o universo solar; gradualmente, vai crescendo em intensidade, parecendo envolver o nosso globo; então, ela penetra na superfície do Planeta e, pouco a pouco, se concentra no centro da Terra, onde os Espíritos-grupo das plantas residem. Na Noite Santa ela alcança o mínimo de seu tamanho e o máximo de seu esplendor. Então, começa a irradiar a luz concentrada, fornecendo nova vida à Terra para que essa prossiga com as atividades da Natureza no ano entrante.
 
@@ -154,6 +183,14 @@ Em abril, quando o Sol cruza o equador celestial e entra no Signo de Áries – 
 
 Esse é o grande destino colocado diante de nós; cada um é um Cristo-em-formação, se o quiser ser, porque como disse Cristo aos Seus Discípulos: “Aquele que crer em Mim fará também as obras que faço, e maiores ainda.”[15]. Além disso, e de acordo com a máxima: “A necessidade do ser humano é a oportunidade de Deus”, nunca houve tão grande oportunidade de imitar o Cristo, de fazer as obras que Ele fez, como nos dias atuais, quando todo o continente europeu vive sob o paroxismo de uma guerra mundial[16] e quando o maior de todos os cânticos de Natal: “Paz na Terra e boa vontade entre os homens”[17] parece mais longe de se concretizar do que nunca. Temos em nós o poder de apressar o dia da paz ao falar, pensar e viver em PAZ, pois a ação conjunta de milhares de pessoas transmite uma impressão ao Espírito de Raça, quando a ele é direcionada, especialmente quando a Lua está em Câncer, Escorpião ou Peixes, que são os três grandes Signos psíquicos mais apropriados para trabalhos ocultos dessa natureza. Usemos os dois dias e meio que a Lua transita por cada um desses Signos para propósito de meditar sobre a paz – “paz na Terra e boa vontade entre os homens”. Todavia, ao fazê-lo, estejamos certos de não tomar partido, a favor ou contra, por quaisquer das nações conflitantes; lembremos a todo instante que cada um dos seus membros é nosso irmão. Cada um merece o nosso amor tanto quanto o outro. Vamos manter o foco do pensamento de que nós queremos é ver a Fraternidade Universal ser realizada sobre a Terra, ou seja, “a paz na Terra e boa vontade entre os homens”, a despeito de terem os combatentes nascidos de um lado ou de outro das linhas imaginárias traçadas nos mapas, ou como eles se expressam nesse, naquele ou em qualquer outro idioma. Oremos para que a paz possa reinar sobre a Terra; uma paz duradoura e uma boa vontade entre todos os seres humanos, não importando quaisquer diferenças de raça, cor ou religião. Na medida em que tenhamos êxito em formular com os nossos corações, e não apenas com os nossos lábios, essa prece impessoal a favor da paz, anteciparemos a chegada do Reinado de Cristo para recordar que é a Ele que estamos todos destinados na época oportuna – o Reino dos Céus, onde Cristo é “Rei dos reis e Senhor dos senhores”[18].
 
+() - [15] N.T.: Jo 14:12
+
+() - [16] N.T.: Refere-se à Primeira Grande Guerra
+
+() - [17] N.T.: Lc 2:14
+
+() - [18] N.T.: Apo 19:16
+
 ### <h3 id="chapter-5">Capítulo V – A missão de Cristo e o festival das fadas</h3>
 
 Sempre que nos defrontamos com um dos mistérios da natureza que não conseguimos explicar, simplesmente acrescentamos um novo termo ao nosso vocabulário, uma espécie de truque para ocultar a nossa ignorância a respeito do assunto. Tal ocorre com a palavra ampère que utilizamos para medir o volume da corrente elétrica, o volt que empregamos para medir a força da corrente, e o ohm que empregamos para demonstrar o grau de resistência que um dado condutor oferece à passagem da corrente. Dessa maneira, depois de muito estudar a respeito de palavras e figuras, as Mentes mestras da Ciência elétrica tentam se persuadir e persuadir aos demais que compreenderam o que significa tais coisas após pensarem muito sobre tal penetrando no mistério dessa força difícil de descrever e que desempenha um papel tão importante no trabalho do mundo; mas, depois de tudo dito e eles entrarem em consenso, esses seres humanos iminentes admitem que as mais brilhantes luzes da Ciência elétrica não conhecem senão um pouquinho mais do que uma criança da escola primária, quando começa a experiência com pilhas e baterias.
@@ -162,7 +199,11 @@ O mesmo se passa com as outras Ciências; os anatomistas não podem distinguir o
 
 Para conceber a ideia de como esses agentes trabalham e da sua relação conosco, podemos citar um exemplo mencionado no Livro Mistérios Rosacruzes: “suponhamos que um carpinteiro está construindo uma mesa, e um cachorro, que é um Espírito em evolução pertencente à outra Onda de Vida, está observando-o. Ele vê o processo de cortar tábuas; gradualmente a mesa é formada desse material e finalmente fica pronta. No entanto, ainda que o cachorro esteja atento ao trabalho do carpinteiro, ele não tem um conceito claro de como esse trabalho foi feito, nem do uso final da mesa. Suponhamos, ainda mais, que o cachorro estivesse dotado somente de uma limitada visão e incapaz de perceber o carpinteiro e suas ferramentas; veria somente as tábuas de madeira, gradualmente, sendo divididas em partes, depois se juntarem e ficarem dispostas de outra maneira até a mesa tomar forma e ficar pronta. Ele veria o processo da formação e o objeto terminado, mas não teria ideia que a ação ativa do carpinteiro foi necessária para transformar a madeira em mesa”. Se o cachorro pudesse falar, explicaria a origem da mesa como Topsy[19] se referiu a si mesma dizendo: “simplesmente cresceu”.
 
+() - [19] N.R.: Personagem do romance A Cabana do Pai Tomás, (em inglês: Uncle Tom’s Cabin; or, Life Among the Lowly), livro da escritora estadunidense Harriet Beecher Stowe.
+
 Nossa relação com as forças da natureza é semelhante àquela do cachorro com o invisível carpinteiro, e também nós somos tão capazes de explicar os mistérios da natureza, como Topsy o fez. Nós, cultamente, narramos às crianças como o calor do Sol evapora a água dos rios e oceanos, fazendo que esse vapor ascenda às regiões mais frias do ar onde se condensa em nuvens, que se tornam, finalmente, tão saturadas de umidade que elas gravitam em direção à terra em forma de chuva para encher os rios e oceanos, e novamente a água é evaporada. É tudo perfeitamente simples: um belo processo automático de movimento contínuo. Contudo, é só isso? Não há, nessa teoria, um número de omissões? Sabemos que sim, embora não possamos nos desviar muito do nosso assunto para discuti-lo. Uma coisa que está faltando explicar completamente é a ação das, nomeadamente, semi-inteligente Sílfides[20] que levantam as delicadas partículas da água volatilizada em vapor de água preparadas pelas Ondinas, e que as levam o mais alto possível antes que aconteça a condensação parcial e as nuvens são formadas. Essas partículas de água são guardadas pelas Sílfides, até que as Ondinas as forcem a libertá-las. Quando dizemos que há tempestades, na verdade, batalhas estão sendo travadas na superfície do mar e no ar, algumas vezes com a ajuda das Salamandras, para acender a tocha do relâmpago da separação entre hidrogênio e oxigênio, e enviar seu aterrorizante zigue-zague através da negra escuridão, seguida do poderoso troar do trovão na atmosfera clareada, enquanto as Ondinas, triunfalmente, lançam as resgatadas gotas de água sobre a terra, para que elas possam novamente se unir ao seu elemento materno.
+
+() - [20] N.R.: ou Silfos
 
 Os pequenos Gnomos são necessários para construir as plantas e as flores. Seu trabalho é pintá-las com matizes inumeráveis de cores, que deleitam os nossos olhos. Eles, também, cortam os cristais em todos os minerais e elaboram as gemas valiosas que cintilam nos diademas preciosos. Sem eles não haveria ferro para nossas máquinas e nem ouro com que pagá-las. Eles estão em todas as partes e a proverbial abelha não é tão atarefada como eles. Enquanto para a abelha é dado todo o crédito pelo trabalho que ela faz, os pequenos Espíritos da Natureza, que desempenham uma parte imensamente importante no trabalho do mundo, são desconhecidos, salvo por alguns que são chamados de sonhadores ou loucos.
 
@@ -173,6 +214,10 @@ Na maior de todas as noites da alegre estação do verão, as Fadas se reúnem v
 É um axioma científico que a natureza não tolera o que é inútil; os parasitas e os zangões são uma abominação; o órgão que se torna supérfluo se atrofia, assim também acontece com o membro ou o olho que não é usado. A natureza tem um trabalho a fazer e necessita da colaboração de todos que se propuseram a justificar suas existências, pois todos são partes desse trabalho. Isso se aplica à planta, ao Planeta, ao ser humano, ao animal e também às Fadas. Elas têm seu trabalho a cumprir; elas são hostes ativas e suas atividades são a solução para muitos mistérios da natureza, como já foi explicado.
 
 Nós estamos agora no outro polo do ciclo anual, quando os dias são curtos e as noites mais longas[21]; fisicamente falando, a escuridão cai sobre o hemisfério norte, mas a onda espiritual de luz e vida, que será à base do crescimento e progresso do próximo ano, agora está na maior altura e força. Na Noite de Natal, no Solstício de Dezembro, quando o celestial Signo da Virgem Imaculada está no horizonte oriental à meia noite, o Sol do novo ano nasce para salvar a Humanidade do frio e da fome, que continuariam se a manifestação dessa luz fosse suprimida. Nessa ocasião, o Espírito Cristo nasce na Terra e começa a fermentar e fertilizar os milhões de sementes que as Fadas prepararam e regaram para que possamos ter alimento físico. No entanto, “o ser humano não vive somente de pão”[22]. Importante como é o trabalho das Fadas, se torna insignificante comparado com a missão de Cristo, que nos traz, a cada ano, o alimento espiritual necessário para que avancemos no caminho do progresso, para que possamos alcançar a perfeição no amor com tudo o que ele implica.
+
+() - [21] N.R.: Para o hemisfério norte
+
+() - [22] N.R.: Mt 4:4
 
 É o advento dessa maravilhosa luz de amor que nós simbolizamos pelas lamparinas acesas no altar e pelo soar dos sinos do Natal que, a cada ano, anunciam as boas novas do nascimento do Salvador, pois no sentido espiritual, luz e som são inseparáveis; a luz é colorida e o som é modificado de acordo com o tom vibratório. A luz do Natal que brilha sobre a Terra é dourada, induzindo os sentimentos de altruísmo, alegria e paz, os quais nem mesmo a grande guerra consegue obscurecer.
 
@@ -200,52 +245,6 @@ O Cristo do ano anterior não nos pode livrar da fome física, como as chuvas da
 
 Entretanto, o amor divino jorra infinitamente. Como um pai se apieda de seus filhos, assim também nosso Pai Celeste se compadece de nós, pois Ele conhece a nossa fragilidade e dependências física e espiritual. Por conseguinte, esperamos mais uma vez, confiantemente, o nascimento místico do Cristo que virá com renovada vida e renovado amor. O Pai O envia a nós acudindo a fome física e espiritual que sofreríamos, se não tivéssemos d’Ele essa amorosa oferenda anual.
 
-As almas jovens, via de regra, acham difícil separar em suas Mentes as personalidades de Deus, de Cristo e do Espírito Santo, de modo que algumas podem amar apenas a Jesus, o homem. Esquecem Cristo, o Grande Espírito, que introduziu uma Nova Era na qual as nações estabelecidas sob o regime de Jeová serão destroçadas, a fim de que a sublime estrutura da Fraternidade Universal possa ser edificada sobre as suas ruínas. No devido tempo, o mundo inteiro saberá que “Deus” é Espírito, para ser adorado em “Espírito e em verdade”. É bom que amemos Jesus e O imitemos; desconhecemos ideal mais nobre e alguém mais digno. Se pudesse ter sido encontrado alguém mais nobre, não teria sido Ele o escolhido para ser o veículo do Grande Unigênito, Cristo, em que reside a Divindade. Fazemos bem em seguir “Seus passos”.
+As almas jovens, via de regra, acham difícil separar em suas Mentes as personalidades de Deus, de Cristo e do Espírito Santo, de modo que algumas podem amar apenas a Jesus, o homem. Esquecem Cristo, o Grande Espírito, que introduziu uma Nova Era na qual as nações estabelecidas sob o regime de Jeová serão destroçadas, a fim de que a sublime estrutura da Fraternidade Universal possa ser edificada sobre as suas ruínas. No devido tempo, o mundo inteiro saberá que “Deus” é Espírito, para ser adorado em “Espírito e em verdade”. É bom que amemos Jesus e O imitemos; desconhecemos ideal mais nobre e alguém mais digno. Se pudesse ter sido encontrado alguém mais nobre, não teria sido Ele o escolhido para ser o veículo do Grande Unigênito, Cristo, em que reside a Divindade. Fazemos bem em seguir “Seus passos”. Ao mesmo tempo devemos exaltar Deus em nossas próprias consciências, aceitando a afirmação bíblica de que Ele é Espírito e que não podemos tentar representar a Sua imagem, nem retratá-Lo, pois Ele a nada se assemelha, quer nos céus quer na Terra. Podemos ver os veículos de Jeová circulando como satélites em volta de diversos Planetas. Também podemos ver o Sol, que é o veículo visível de Cristo. Contudo, o Sol invisível, que é o veículo do Pai e fonte de tudo, esse só pode ser visto pelos maiores Clarividentes e apenas como a oitava superior da fotosfera do Sol, revelando-se como um anel de luminosidade azul-violeta por trás do Sol. Contudo, nós não precisamos vê-Lo. Podemos sentir Seu amor e essa sensação nunca é tão grande como na época do Natal, quando Ele nos está dando o maior de todos os presentes: o Cristo do novo ano.
 
-Ao mesmo tempo devemos exaltar Deus em nossas próprias consciências, aceitando a afirmação bíblica de que Ele é Espírito e que não podemos tentar representar a Sua imagem, nem retratá-Lo, pois Ele a nada se assemelha, quer nos céus quer na Terra. Podemos ver os veículos de Jeová circulando como satélites em volta de diversos Planetas. Também podemos ver o Sol, que é o veículo visível de Cristo. Contudo, o Sol invisível, que é o veículo do Pai e fonte de tudo, esse só pode ser visto pelos maiores Clarividentes e apenas como a oitava superior da fotosfera do Sol, revelando-se como um anel de luminosidade azul-violeta por trás do Sol. Contudo, nós não precisamos vê-Lo. Podemos sentir Seu amor e essa sensação nunca é tão grande como na época do Natal, quando Ele nos está dando o maior de todos os presentes: o Cristo do novo ano.
-
-FIM
-
-[1] N.T.: na 10ª Edição foi acrescentada mais uma carta, totalizando seis cartas.
-
-[2] N.T.: Depois de 1920: dezenove no livro Os Mistérios das Grandes Óperas; vinte e quatro sob o título: Coletâneas de Um Místico.
-
-[3] N.T.: a riqueza da experiência.
-
-[4] N.T.: para o hemisfério norte e para os extremos do hemisfério sul isso é um fato inquestionável. Para o restante do hemisfério sul, também, só que aqui seria pelo fortíssimo calor e pela fome, por sua resultante escassez.
-
-[5] N.R.: Gl 4:4
-
-[6] N.R.: Pseudônimo de Johannes Scheffler (1624-1667) – Místico cristão, filósofo, médico, poeta, jurista alemão.
-
-[7] N.T.: Hb 12:1-2 – “também nós, com tal nuvem de testemunhas ao nosso redor, rejeitando todo fardo e o pecado que nos envolve, corramos com perseverança para o certame que nos é proposto, com os olhos fixos naquele que é o autor e realizador da fé, Cristo Jesus”.
-
-[8] N.R.: Mt 20:27; Lc 22:26; Mc 9:15
-
-[9] N.T.: Mt 25:40
-
-[10] N.T.: estado de inconsciência profunda, com desaparecimento da sensibilidade ao meio ambiente e da faculdade de exibir reações motoras. A pessoa não consegue pensar, falar, ver ou ouvir com clareza.
-
-[11] N.R.: IJo 1:5
-
-[12] N.R.: Jo 14:12
-
-[13] N.R.: Mt 5:8
-
-[14] N.R.: Mt 11:29-30
-
-[15] N.T.: Jo 14:12
-
-[16] N.T.: Refere-se à Primeira Grande Guerra
-
-[17] N.T.: Lc 2:14
-
-[18] N.T.: Apo 19:16
-
-[19] N.R.: Personagem do romance A Cabana do Pai Tomás, (em inglês: Uncle Tom’s Cabin; or, Life Among the Lowly), livro da escritora estadunidense Harriet Beecher Stowe.
-
-[20] N.R.: ou Silfos
-
-[21] N.R.: Para o hemisfério norte
-
-[22] N.R.: Mt 4:4
+Fim
