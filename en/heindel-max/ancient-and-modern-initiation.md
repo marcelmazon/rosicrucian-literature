@@ -17,7 +17,7 @@ Mt. Ecclesia
 PO Box 713  
 Oceanside, California, 92054, U.S.A.  
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 Within the pages of this little volume are to be found some of the most priceless gems belonging to the deepest phases of the Christian religion. These gems are the result of the spiritual investigations of that inspired and illumined Seer, Max Heindel, the authorized messenger of the Elder Brothers of the Rose Cross, who are working to disseminate throughout the Western World the deeper spiritual meanings which are both concealed and revealed within the Christian religion. 
 
@@ -31,11 +31,11 @@ May its Truth enlighten, its Wisdom guide, and its Love enfold all those who com
 
 "The kingdom of heaven is like unto a merchantman, seeking goodly pearls. Who, when he had found one pearl of great price, went and sold all that he had and bought it." 
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [Foreword](#foreword)
 
-- [PART I: THE TABERNACLE IN THE WILDERNESS](#part-1)
+- [Part One: The Tabernacle in the Wilderness](#part-1)
     - [Chapter I: The Atlantean Mystery Temple](#part-1-chapter-1)
         - [The Tabernacle in the Wilderness](#the-tabernacle-in-the-wilderness)  
         - [The Court of the Tabernacle](#the-court-of-the-tabernacle)  
@@ -54,7 +54,7 @@ May its Truth enlighten, its Wisdom guide, and its Love enfold all those who com
         - [The Full Moon as a Factor in Soul Growth](#the-full-moon-as-a-factor-in-soul-growth)  
     - [Chapter VI: The New Moon and Initiation](#part-1-chapter-6)
 
-- [PART II: THE CHRISTIAN MYSTIC INITIATION](#part-2)
+- [Part II: The Christian Mystic Initiation](#part-2)
     - [Chapter I: The Annunciation and Immaculate Conception](#part-2-chapter-1)
         - [The Annunciation and Immaculate Conception](#the-annunciation-and-immaculate-conception)  
     - [Chapter II: Mystic Rite of Baptism](part-2-chapter-2)
@@ -64,7 +64,7 @@ May its Truth enlighten, its Wisdom guide, and its Love enfold all those who com
     - [Chapter VI: Gethsemane, the Garden of Grief](#part-2-chapter-6)
     - [Chapter VII: The Stigmata and the Crucifixion](#part-2-chapter-7)
 
-### <h3 id="illustrations">ILLUSTRATIONS</h3>
+### <h3 id="illustrations">Illustrations</h3>
 
 - [The Tabernacle in the Wilderness](#illustration-the-tabernacle-in-the-wilderness)
 - [The Brazen Laver](#illustration-the-brazen-layer)
@@ -75,9 +75,9 @@ May its Truth enlighten, its Wisdom guide, and its Love enfold all those who com
 - [The Nine Steps of the Christian Mystic Initiation](#illustration-the-nine-steps-of-the-christian-mystic-initiation)
 - [The Process of Transfiguration](#illustration-the-process-of-transfiguration)
 
-<h2 id="part-1">PART ONE: THE TABERNACLE IN THE WILDERNESS</h2>
+<h2 id="part-1">Part One: The Tabernacle in the Wilderness</h2>
 
-### <h3 id="part-1-chapter-1">CHAPTER ONE: THE ATLANTEAN MYSTERY TEMPLE</h3>
+### <h3 id="part-1-chapter-1">Chapter One: The Atlantean Mystery Temple</h3>
 
 Ever since mankind, the prodigal spirit sons of our Father in Heaven, wandered into the wilderness of the world and fed upon the husks of its pleasures, which starve the body, there has been within man's heart a soundless voice urging him to return; but most men are so engrossed in material interests that they hear it not. The Mystic Mason who has heard this inner voice feels impelled by an inner urge to seek for the Lost Word; to build a house of God, a temple of the spirit, where he may meet the Father face to face and answer His call. 
 
@@ -89,7 +89,7 @@ It is obvious that our mental attitude today depends on how we thought yesterday
 
 It is in recognition of this fact that modern Masonry harks back to the temple of Solomon. That is very well as far as it goes, but in order to gain the fullest perspective we must also take into consideration the ancient Atlantean Mystery Temple, the Tabernacle in the Wilderness. We must understand the relative importance of that Tabernacle, also of the first and second temples, for there were vital differences between them, each fraught with cosmic significance; and within them all was the foreshadowing of the cross, sprinkled with blood, which was turned to roses. 
 
-#### <h4 id="the-tabernacle-in-the-wilderness">THE TABERNACLE IN THE WILDERNESS</h4>
+#### <h4 id="the-tabernacle-in-the-wilderness">The Tabernacle in the Wilderness</h4>
 
 We read in the Bible the story of how Noah and a remnant of his people with him were saved from the flood and formed the nucleus of the humanity of the Rainbow Age in which we now live. It is also stated that Moses led his people out of Egypt, the land of the Bull, Taurus, through waters which engulfed their enemies and set them free as a chosen people to worship the Lamb, Aries, into which sign the sun had then entered by precession of the equinox. These two narratives relate to one and the same incident, namely, the emergence of infant humanity from the doomed continent of Atlantis into the present age of alternating cycles where summer and winter, day and night, ebb and flow, follow each other. As humanity had then just become endowed with mind, they began to realize the loss of the spiritual sight which they had hitherto possessed, and they developed a yearning for the spirit world and their divine guides which remains to this day, for humanity has never ceased to mourn their loss. Therefore the ancient Atlantean Mystery Temple, the Tabernacle in the Wilderness, was given to them that they might meet the Lord when they had qualified themselves by service and subjugation of the lower nature by the Higher Self. Being designed by Jehovah it was the embodiment of great cosmic truths hidden by a veil of symbolism which spoke to the inner or Higher Self. 
 
@@ -105,7 +105,7 @@ The great care and attention to detail regarding the construction of the Taberna
 
 In order that we may gain a proper conception of this sacred place we must consider the Tabernacle itself, its furniture and its court. The illustration opposite page 33 may assist the student to form a better conception of the arrangement within. 
 
-#### <h4 id="the-court-of-the-tabernacle">THE COURT OF THE TABERNACLE</h4>
+#### <h4 id="the-court-of-the-tabernacle">The Court of the Tabernacle</h4>
 
 This was an enclosure which surrounded the Tabernacle. Its length was twice its width, and the gate was at the east end. This gate was enclosed by a curtain of blue, scarlet, and purple fine twined linen, and these colors show us at once the status of this Tabernacle in the Wilderness. We are taught in the sublime gospel of John that "God is Light," and no description or similitude could convey a better conception or one more enlightening to the spiritual mind than these words. When we consider that even the greatest of modern telescopes have failed to find the borders of light, though they penetrate space for millions and millions of miles, it gives us a weak but comprehensive idea of the infinitude of God. 
 
@@ -113,7 +113,7 @@ We know that this light, which is God, is refracted into three primary colors by
 
 Thus the colors on the veils of the Temple, both at the gate and at the entrance of the Tabernacle, showed that this structure was designed for a period previous to the time of Christ, for it had only the blue and the scarlet colors of the Father and the Holy Spirit together with their mixture, purple. But white is the synthesis of all colors, and therefore the yellow Christ ray was hidden in that part of the veil until in the fullness of time Christ should appear to emancipate us from the ordinances that bind, and initiate us into the full liberty of Sons of God, Sons of Light, Children of Light, Phree Messen or Mystic Masons. 
 
-### <h3 id="part-1-chapter-2">CHAPTER TWO: THE BRAZEN ALTAR AND LAVER</h3>
+### <h3 id="part-1-chapter-2">Chapter Two: The Brazen Altar and Laver</h3>
 
 The Brazen Altar was placed just inside the eastern gate, and it was used for the sacrifice of animals during the temple service. The idea of using bulls and goats as sacrifices seems barbaric to the modern mind, and we cannot realize that they could ever have had any efficacy in that respect. The Bible does indeed hear out this view of the matter, for we are told repeatedly that God desires not sacrifice but a broken spirit and a contrite heart, and that He has no pleasure in sacrifices of blood. In view of this fact it seems strange that sacrifices should ever have been commanded. But we must realize that no religion can elevate those whom it is designed to help if its teachings are too far above their intellectual or moral level. To appeal to a barbarian, religion must have certain barbaric traits. A religion of love could not have appealed to those people, therefore they were given a law which demanded "an eye for an eye, and a tooth for a tooth." 
 
@@ -150,7 +150,7 @@ During the ancient dispensation all the sacrifices were rubbed with salt before 
 
 It is also noteworthy that when anyone had committed a grievous crime and fled to the sanctuary, he found safety in the shadow of the Altar of sacrifice, for there only the divinely enkindled fire could execute judgment. He escaped the hands of man by putting himself under the hand of God. Similarly also, the aspirant who acknowledges his wrongdoing nightly by fleeing to the altar of living judgment thereby obtains sanctuary from the law of cause and effect, and "though his sins be as scarlet they shall be white as snow." 
 
-#### <h4 id="the-brazen-layer">THE BRAZEN LAVER</h4>
+#### <h4 id="the-brazen-layer">The Brazen Layer</h4>
 
 The Brazen Laver was a large basin which was always kept full of water. It is said in the Bible that it was carried on the backs of twelve oxen, also made of brass, and we are told that their hind parts were toward the center of the vessel. It appears from the Memory of Nature, however, that those animals were not oxen but symbolical representations of the twelve signs of the zodiac. Humanity was at that time divided into twelve groups, one group for each zodiacal sign. Each symbolic animal attracted a particular ray, and as the holy water used today in Catholic churches is magnetized by the priest during the ceremony of consecration, so also the water in this Laver was magnetized by the divine Hierarchies who guided humanity. 
 
@@ -158,7 +158,7 @@ There can be no doubt concerning the power of holy water prepared by a strong an
 
 "Many are called but few are chosen." We have the example of the rich young man who came to Christ asking what he must do to be perfect. He asserted that he had kept the law, but when Christ gave the command, "Follow me," he could not, for he had many riches which held him fast as in a vise. Like the great majority he was content if he could only escape condemnation, and like them he was too lukewarm to strive for commendation merited by service. The Brazen Laver is the symbol of sanctification and consecration of the life to service. As Christ entered upon His three years' ministry through the baptismal waters, so the aspirant to service in the ancient Temple must sanctify himself in the sacred stream which flowed from the Molten Sea. And the mystic Mason endeavoring to build a temple "without sound of hammer" and to serve therein must also consecrate himself and sanctify himself. He must be willing to give up all earthly possessions that he may follow the Christ within. Though he may retain his material possessions he must regard them as a sacred trust to be used by him as a wise steward would use his master's possessions. And we must be ready in everything to obey this Christ within when he says, "Follow me," even though the shadow of the Cross looms darkly at the end, for without this utter abandonment of the life to the Light, to the higher purposes, there can be no progress. Even as the Spirit descended upon Jesus when he arose from the baptismal water of consecration, so also the mystic Mason who bathes in the Laver of the Molten Sea begins dimly to hear the voice of the Master within his own heart teaching him the secrets of the Craft that he may use them for the benefit of others. 
 
-### <h3 id="part-1-chapter-3">CHAPTER THREE: EAST ROOM OF THE TEMPLE</h3>
+### <h3 id="part-1-chapter-3">Chapter Three: East Room of the Temple</h3>
 
 Having mounted the first steps upon the path the aspirant stands in front of the veil which hangs before the mystic Temple. Drawing this aside he enters into the East Room of the sanctuary, which was called the Holy Place. No window or opening of any sort was provided in the Tabernacle to let in the light of day, but this room was never dark. Night and day it was brightly illuminated by burning lamps. 
 
@@ -174,15 +174,15 @@ It was not simple frankincense which was burned, but a compound of this with oth
 
 This Altar was placed directly before the veil on the outside of it, but before the Mercy Seat, which was within the second veil; for though he that ministered at the Altar of Incense could not see the Mercy Seat because of the interposing veil, yet he must look toward it and direct his incense that way. And it was customary when the cloud of fragrant incense rose above the temple for all the people who were standing without in the Court of the Sanctuary to send up their prayers to God, each one silently by himself. 
 
-#### <h4 id="the-mystic-significance-of-the-east-room-and-its-furniture">THE MYSTIC SIGNIFICANCE OF THE EAST ROOM AND ITS FURNITURE</h4>
+#### <h4 id="the-mystic-significance-of-the-east-room-and-its-furniture">The Mystic Significance of the East Room and Its Furniture</h4>
 
-##### <h5 id="the-golden-candlestick">THE GOLDEN CANDLESTICK</h5>
+##### <h5 id="the-golden-candlestick">The Golden Candlestick</h5>
 
 As previously said, when the priest stood in the center of the East Room of the Tabernacle, the Seven-branched Candlestick was on his left toward the south. This was symbolical of the fact that the seven lightgivers or planets which tread the mystic circle dance around the central orb, the sun, travel in the narrow belt comprising eight degrees on either side of the sun's path, which is called the zodiac. "God is Light," and the "Seven Spirits before the Throne" are God's ministers; therefore they are Messengers of Light to humanity. Furthermore, as the heavens are ablaze with light when the moon in its phases arrives at the "full" in the eastern part of the heavens, so also the East Room of the Tabernacle was filled with light, indicating visibly the presence there of God and His seven Ministers, the Star Angels. 
 
 We may note, in passing, the light of the Golden Candlestick, which was clear and the flame odorless, and compare it with the smoke-enveloped flame on the Altar of Burnt Offerings, which in a certain sense generated darkness rather than dispelled it. But there is a still deeper and more sublime meaning in this fire symbol, which we will not take up for discussion until we come to the Shekinah Glory, whose dazzling brilliance hovered over the Mercy Seat in the West Room. Before we can enter into this subject, we must understand all the symbols that lie between the Golden Candlestick and that sublime Father Fire which was the crowning glory of the Holy of Holies, the most sacred part of the Tabernacle in the Wilderness. 
 
-##### <h5 id="the-table-of-shewbread">THE TABLE OF SHEWBREAD</h5>
+##### <h5 id="the-table-of-shewbread">The Table of Shewbread</h5>
 
 The East Room of the Temple may be called the Hall of Service, for it corresponds to the three years' ministry of Christ, and contains all the paraphernalia for soul growth, though, as said, furnished with only three principal articles. Among the chief of these is the Table of Shewbread. Upon this table, as we have already seen, there were two piles of shewbread, each containing six loaves, and upon the top of each pile there was a little heap of frankincense. The aspirant who came to the Temple door "poor, naked, and blind" has since been brought to the light of the Seven-branched Candlestick, obtaining a certain amount of cosmic knowledge, and this he is required to use in the service of his fellow men; the Table of Shewbread represents this in symbol. 
 
@@ -196,11 +196,11 @@ There is a time each month which is particularly propitious for extracting the f
 
 Let the Mystic Mason take particular note, however, that the loaves of shewbread were not the musings of dreamers; they were not the product of speculation upon the nature of God or light. They were the product of actual toil, of orderly systematic work, and it behooves us to follow the path of actual service if we would garner treasure in heaven. Unless we really WORK and serve humanity, we shall have nothing to bring, no bread to "shew," at the Feast of the Full Moon; and at the mystic marriage of the higher to the lower self we shall find ourselves minus the radiant golden soul body, the mystic wedding garment without which the union with Christ can never be consummated. 
 
-##### <h5 id="the-altar-of-incense">THE ALTAR OF INCENSE</h5>
+##### <h5 id="the-altar-of-incense">The Altar of Incense</h5>
 
 At the Altar of Incense, as we saw in the general description of the Tabernacle and its furniture, incense was offered before the lord continually, and the priest who stood before the altar ministering was at that time looking toward the mercy Seat over the Ark, though it as impossible for him to see it because of the second veil which was interposed between the first and second apartments of the Tabernacle, the Holy Place and the Holy of Holies. We have also seen in the consideration of the "shewbread" that incense symbolizes the extract, the aroma of the service we have rendered according to our opportunities; and just as the sacrificial animal upon the Brazen Altar represents the deeds of wrongdoing committed during the day, so the incense burned upon the Golden Altar, which is a sweet savor to the Lord, represents the virtuous deeds of our lives. 
 
-### <h3 id="part-1-chapter-4">CHAPTER FOUR: THE ARK OF THE COVENANT</h3>
+### <h3 id="part-1-chapter-4">Chapter Four: The Ark of the Covenant</h3>
 
 It is noteworthy and fraught with great mystic significance that the aroma of voluntary service is represented as sweet-smelling, fragrant incense, while the odor of sin, selfishness, and transgression of the law, represented by compulsory sacrifice upon the Altar of service, is nauseating; for it needs no great imagination to understand that the cloud of smoke which went up continually from the burning carcasses of the sacrificial animals created a nauseating stench to show the exceeding loathsomeness of it, while the perpetual incense offered upon the Altar before the second veil showed by antithesis the beauty and sublimity of selfless service, thus exhorting the Mystic Mason, as a child of light, to shun the one and cleave to the other. 
 
@@ -220,7 +220,7 @@ When the aspirant has qualified to enter into this place behind the second veil,
 
 As the Cherubim and the Father Fire which hover above the Ark represent the divine Hierarchies which overshadow mankind during his pilgrimage through the wilderness, so the Ark which is found there represents man in his highest development. There were, as already said, three things within the Ark: the Golden Pot of Manna, the Budding Rod, and the Tables of the Law. When the aspirant stood at the eastern gate as a child of sin, the law was without as a taskmaster to bring him to Christ. It exacted with unrelenting severity an eye for an eye and a tooth for a tooth. Every transgression brought a just recompense, and man was circumscribed on every hand by laws commanding him to do certain things and refrain from doing others. But when through sacrifice and service he has finally arrived at the stage of evolution represented by the Ark in the western room of the Tabernacle, the tables of the law are within. He has then become emancipated from all outside interference with his actions; not that he would break any laws, but because he works with them. Just as we have learned to respect the property right of others and have therefore become emancipated from the commandment. "Thou shalt not steal," so he who keeps all laws because he wants to do so has on that account no longer need of an exterior taskmaster, but gladly renders obedience in all things because he is a servant of the law and works with it, from choice and not through necessity. 
 
-#### <h4 id="the-golden-pot-of-manna">THE GOLDEN POT OF MANNA</h4>
+#### <h4 id="the-golden-pot-of-manna">The Golden Pot of Manna</h4>
 
 Manas, mensch, mens, or man is readily associated with the MANNA that came down from heaven. it is the Human Spirit that descended from our Father above for a pilgrimage through matter, and the Golden Pot wherein it was kept symbolizes the golden aura of the soul body. 
 
@@ -228,7 +228,7 @@ Although the Bible story is not in strict accordance with the events, it gives t
 
 Christ also explained at that time in mystic but unmistakable language what that living bread, or manna, was, namely, the Ego. This explanation will be found in verses thirty-three and thirty-five, where we read: "For the bread of God is he which cometh down from heaven and giveth light unto the world--I am (Ego Sum) the Bread of Life." This, then, is the symbol of the Golden Pot of Manna which was found in the Ark. This manna is the Ego or Human Spirit, which gives life to the organisms that we behold in the physical world. It is hidden within the Ark of each human being, and the Golden pot or soul body or "wedding garment" is also latent within every one. It is made more massive, lustrous, and resplendent by the spiritual alchemy whereby service is transmuted to soul growth. It is the house not made with hands, eternal in the heavens, wherewith Paul longed to be clothed, as said in the Epistle to the Corinthians. Every one who is striving to aid his fellow men thereby garners within himself that golden treasure, laid up in heaven, where neither moth nor rust can destroy it. 
 
-#### <h4 id="aarons-rod">AARON'S ROD</h4>
+#### <h4 id="aarons-rod">Aaron’s Rod</h4>
 
 An ancient legend relates that when Adam was expelled from the Garden of Eden, he took with him three slips of the Tree of Life, which were then planted by Seth. Seth, the second son of Adam, is, according to the Masonic legend, father of the spiritual hierarchy of churchmen working with humanity through Catholicism, while the sons of Cain are the craftsmen of the world. The latter are active in Freemasonry, promoting material and industrial progress, as builders of the temple of Solomon, the universe, should be. 
 
@@ -253,7 +253,7 @@ The wand of the magician, the holy spear of Parsifal the Grail king, and the bud
 
 An that is the attitude of everyone who develops within him the budding Rod of Aaron. Though he may turn this spiritual faculty to good account in order to provide bread for a multitude, he would never think of turning a single stone to bread for himself that his hunger might be appeased. Though he were nailed to the cross to die, he would not free himself by spiritual power which he had readily exercised to save others from the grave. Though he were reviled every day of his life as a fraud or charlatan, he would never misuse his spiritual power to show a sign whereby the world might know without the shadow of a doubt that he was regenerate or heaven-born. This was the attitude of Christ Jesus, and its has been and is imitated by everyone who is a Christ-in-the-making. 
 
-### <h3 id="part-1-chapter-5">CHAPTER FIVE: THE SACRED SHEKINAH GLORY</h3>
+### <h3 id="part-1-chapter-5">Chapter Five: The Sacred Shekinah Glory</h3>
 
 The Western Room of the Tabernacle was as dark as the heavens are at the time when the lesser light, the moon, is in the western portion of sky at eventide with the sun; that is to say, at the new moon, which begins a new cycle in a new sign of the zodiac. In the westernmost part of this darkened sanctuary stood the Ark of the Covenant, with the Cherubim hovering above, and also the fiery Shekinah Glory, out of which the Father of Light communed with His worshipers, but which to the physical vision was invisible and therefore dark. 
 
@@ -261,7 +261,7 @@ We do not usually realize that the whole world is afire, that fire is in the wat
 
 At this point it may be expedient to mark the difference between the Tabernacle in the Wilderness, Solomon's Temple, and the later Temple built by Herod. There is a very vital difference. Both the miraculously enkindled fire on the Brazen Altar in the eastern part of the Tabernacle and the invisible Shekinah Glory in the distant western part of the sanctuary were also present in Solomon's Temple. These were thus sanctuaries in a sense not equaled by the Temple built by Herod. The latter was, nevertheless, in a sense the most glorious of the three, for it was graced by the bodily presence of our Lord, Christ Jesus, in whom dwelt the Godhead. Christ made the first self-sacrifice, thereby abrogating the sacrifice of animals, and finally at the consummation of His work in the visible world rent the veil and opened a way into the Holy of Holies, not only for the favored few, the priests and Levites, but that whosoever will may come and serve the Deity whom we know as our Father. Having fulfilled the law and the prophets Christ has done away with the outward sanctuary, and from henceforth the Altar of Burnt Offerings must be set up within the heart to atone for wrongdoing; the Golden Candlestick must be lighted within the heart to guide us upon our way, as the Christ within, the Shekinah Glory of the Father, must dwell within the sacred precincts of our own God Consciousness. 
 
-#### <h4 id="the-shadow-of-the-cross">THE SHADOW OF THE CROSS</h4>
+#### <h4 id="the-shadow-of-the-cross">The Shadow of the Cross</h4>
 
 Paul in his letter to the Hebrews gives a description of the Tabernacle and much information about the customs used there which it would benefit the student to know. Among other things note that he calls the Tabernacle "a shadow of good things to come." There is in this ancient Mystery Temple a promise given which has not yet been fulfilled, a promise that holds good today just as well as upon the day it was given. If we visualize in our mind the arrangement of things inside the Tabernacle, we shall readily see the shadow of the Cross. Commencing at the eastern gate there was the Altar of Burnt Offerings; a little farther along the path to the Tabernacle itself we find the Laver of Consecration, the Molten Sea, in which the priests washed. Then upon entering the East Room of the Temple we find an article of furniture, the Golden Candlestick, at the extreme left, and the Table of Shewbread at the extreme right, the two forming a cross with the path we have been pursuing toward and within the Tabernacle. In the center in front of the second veil we find the Altar of Incense, which forms the center of the cross, while the Ark placed in the westernmost part of the West Room, the Holy of Holies, gives the short or upper limb of the cross. In this manner the symbol of spiritual unfoldment which is our particular ideal today was shadowed forth in the ancient Mystery Temple, and that consummation which is attained at the end of the cross, the achievement of getting the law WITHIN as it was within the Ark itself, is the one that we must all concern ourselves with at the present time. The light that shines over the Mercy Seat in the Holy of Holies at the head of the cross, at the end of the path in this world, is a light or reflection from the invisible world into which the candidate seeks to enter when all the world has grown dark and black about him. Only when we have attained to that stage where we perceive the spiritual light that beckons us on, the light that floats over the Ark, only when we stand in the shadow of the cross, can we really know the meaning, the object, and the goal of life. 
 
@@ -269,7 +269,7 @@ At present we may take the opportunities which are offered and perform service m
 
 Similar it is with ourselves at this day. We at times attain glimpses of the things that are in store for us and the things we must do to follow Christ to that place where He went. You remember that He said to His disciples: Ye cannot follow me now, but ye shall follow me later. And so it is with us. We have to look again and again into the darkened temple, the Holy of Holies, before we are really fit to stay there; before we are really fitted to take the last step and leap to the summit of the cross, the place of the skull, that point in our heads where the spirit takes its departure when it finally leaves the body, or off and on as an Invisible Helper. That Golgotha is the ultimate of human attainment, and we must be prepared to enter the darkened room many times before we are fitted for the final climax. 
 
-#### <h4 id="the-full-moon-as-a-factor-in-soul-growth">THE FULL MOON AS A FACTOR IN SOUL GROWTH</h4>
+#### <h4 id="the-full-moon-as-a-factor-in-soul-growth">The Full Moon as a Factor in Soul Growth</h4>
 
 Let us now consider the Path of Initiation as symbolically shown in the ancient Temples with the Ark, Fire, and Shekinah, and in the later Temples where Christ taught. Note first that when man was expelled from the Garden of Eden because he had eaten of the Tree of Knowledge, Cherubim guarded the entrance with a flaming sword. Passages like the following, "Adam knew Eve, and she bore Abel"; "Adam knew Eve, and she bore Seth"; "Elkanah knew Hannah, and she bore Samuel"; also Mary's question to the angel Gabriel, "How shall I conceive seeing that I know not a man?" all show plainly that indulgence of the passions in the creative act was meant by the phrase, "eating the Tree of Knowledge." When the creative act was performed under inauspicious planetary rays it was a sin committed against the laws of nature, which brought pain and death into the world, estranged us from our primal guardians, and forced us to roam the wilderness of the world for ages. 
 
@@ -283,7 +283,7 @@ When we speak of the soul body we mean exactly what we say, and this vehicle is 
 
 To this inner something Christ referred when He said: No man cometh to me except my Father draw him. Just as the true fire is hidden in the flame that encloses it, so that unnameable, intangible something hides in the soul body and burns up the frankincense extracted from the shewbread; thus it lights the fire which makes the soul body luminous. And the aroma of loving service to others penetrates the veil as a sweet savor to God, who dwells in the Shekinah Glory similar created above the Ark in the innermost sanctuary, the Holy of Holies. 
 
-### <h3 id="part-1-chapter-6">CHAPTER SIX: THE NEW MOON AND INITIATION</h3>
+### <h3 id="part-1-chapter-6">Chapter Six: The New Moon and Initiation</h3>
 
 When the candidate entered at the eastern gate of the Temple looking for light, he was confronted by the fire on the Altar of Burnt Offerings, which emitted a dim light enveloped in clouds of smoke. He was then in the spiritually darkened condition of the ordinary man; he lacked the light within and therefore it was necessary to give him the light without. But when he has arrived at the point when he is ready to have evolved the luminous soul body in the service of humanity. Then he is thought to have the light within himself, "the light that lighteth every man." Unless he has that, he cannot enter the dark room of the Temple. 
 
@@ -317,9 +317,9 @@ But through this ancient Temple stands no longer upon the plains where the wande
 
 Nor need the lack of gold wherewith to build distress anyone, for now the true tabernacle must be built in heaven-and "heaven is within you." To build well and true, according to the rules of the ancient craft of Mystic Masonry, the aspirant must learn first to build within himself the altar with its sacrifices, then he must watch and pray while patiently waiting for the divine fire to consume offering. Then he must bathe himself with tears of contrition till he has washed away the stains of sin. Meanwhile he must keep the lamp of divine guidance filled that he may perceive how, when, and where to serve; he must work hard to have abundance of "bread of shew," and the incense of aspiration and prayer must be ever in his heart and on his lips. Then Yom Kippur, the Great Day of At-one-ment, will surely find him ready to go to his Father, and learn how better to help his younger brothers to ascent the Path. 
 
-<h2 id="part-2">PART II: THE CHRISTIAN MYSTIC INITIATION</h2>
+<h2 id="part-2">Part II: The Christian Mystic Initiation</h2>
 
-### <h3 id="part-2-chapter-1">CHAPTER ONE: THE ANNUNCIATION AND IMMACULATE CONCEPTION</h3>
+### <h3 id="part-2-chapter-1">Chapter One: The Annunciation and Immaculate Conception</h3>
 
 Much is said in certain classes of the Western World about Initiation. This in the minds of most people seems usually to be associated with the occultism taught in the religions of the far East; something that is peculiar to the devotees of Buddhism, Hinduism, and kindred systems of faith, and which in nowise appertains to the religion of the Western World, particularly to the Christian religion. 
 
@@ -341,7 +341,7 @@ The goal attained through the Christian Mystic Initiation is the same, but the m
 
 There are nine definite steps in the Christian Mystic Initiation, commencing with the Baptism, which is dedicatory. The Annunciation and Immaculate Conception precede as matters of course for reasons given later. Having prepared our minds by the foregoing consideration, we are now ready to consider each stage separately in this glorious process of spiritual unfoldment. 
 
-#### <h4 id="the-annunciation-and-immaculate-conception">THE ANNUNCIATION AND IMMACULATE CONCEPTION</h4>
+#### <h4 id="the-annunciation-and-immaculate-conception">The Annunciation and Immaculate Conception</h4>
 
 The Christian Mystic is emphatically not the product of one life, but the flower of many preparatory existences, during which he has cultivated that sublime compassion which makes him feel the whole world's woe, and conjures up before his spiritual vision the Christ Ideal as the true balm of Gilead, its practice the only palladium against all human grief and sorrow. Such a soul is watched over special care by the divine Hierarchies who have charge of our progression along the path of evolution, and when the time is ripe for him to enter that life in which he is to run the final race to reach the goal and become a Savior of his kind, angels are indeed watching, waiting, and singing hosannas in joyful anticipation of the great event. 
 
@@ -365,7 +365,7 @@ On the night between the 24th and 25th of December, the sun having commenced to 
 
 From what has been said it is evident that a great period of preparation precedes the entrance of a Christian Mystic into the present sphere of human life, though he in his physical consciousness is usually entirely unaware of the fact of the great adventure in store for him. In all probability his childhood days and early youth will pass in obscurity, while he lives an inner life of unusual depth, unconsciously preparing himself for the Baptism, which is the first of the nine steps of this method of attainment. 
 
-### <h3 id="part-2-chapter-2">CHAPTER TWO: MYSTIC RITE OF BAPTISM</h3>
+### <h3 id="part-2-chapter-2">Chapter Two: Mystic Rite of Baptism</h3>
 
 It is noteworthy that nearly all religious systems have prescribed ablutions previous to the performance of religious duties, and the worship performed in the ancient Atlantean Mystery Temple, the Tabernacle in the Wilderness, was no exception, as we have seen from the previous articles on "Symbols of Ancient and Modern Initiation." After having obtained justification by sacrifice on the Brazen Altar, the candidate was compelled to wash in the Laver of Consecration, the Molten Sea, before he was allowed to enter upon the duties of his ministry in the sanctuary proper. And it is in conformity with this rule that we find the Hero of the Gospels going to the river Jordan, where He underwent the mystic rite of Baptism. When He rose, we learn that the Spirit descended upon Him. Therefore it is obvious that those who follow the Christian Mystic Path of Initiation must also be similarly baptized before they can receive the Spirit, which is to be their true guide through all the trials before them. 
 
@@ -417,7 +417,7 @@ But to show the way, we must know the way; without a true understanding of the c
 
 But when we say Baptism, we do not necessarily mean a physical Baptism where the candidate is either sprinkled or immersed and where he makes certain promises to the one who baptizes him. The Mystic Baptism may take place in a desert as easily on an island, for it is a spiritual process to attain a spiritual purpose. It may take place at any time during the night or day, in summer or winter, for it occurs at the moment when the candidate feels with sufficient intensity the longing to know the cause of sorrow and alleviate it. Then the Spirit is conducted under the waters of Atlantis, where it sees the primal condition of brotherly love and kindness; where it perceives God as the great Father of His children, who are there surrounded by His wonderful love. And by the conscious return to this Ocean of Love, the candidate becomes so thoroughly imbued with the feeling of kinship that the spirit of egoism is banished from him forever. It is because of this saturation with the Universal Spirit that is able later to say: "If a man takes your coat, give him you cloak also; if he asks you to walk one mile with him, go with him two miles." Feeling himself one and all, the candidate does not even consider the murder of himself as mistreatment, but can say: "Father, forgive them." They are identical with himself, who suffers by their action; he is the aggressor as well as the victim. Such is the true Spiritual Baptism of the Christian Mystic, and any other baptism that does not produce this universal fellow feeling is not worthy of the name. 
 
-### <h3 id="part-2-chapter-3">CHAPTER THREE: THE TEMPTATION</h3>
+### <h3 id="part-2-chapter-3">Chapter Three: The Temptation</h3>
 
 We often hear about devout Christians complain of their periods of depression. At times they are almost in the seventh heaven of spiritual exaltation, they all but see the face of Christ and feel as if He were guiding their every step; then without any warning and without any cause that they can discover the clouds gather, the Savior hides His face, and the world grows black for a period. They cannot work, they cannot pray; the world has no attraction, and the gate of heaven seems shut against them, with the result that life appears worthless so long as this spiritual expression lasts. The reason is, of course, that these people live in their emotions, and under the immutable Law of Alternation the pendulum is bound to swing as far to one side of the neutral point as it has swung to the other. The brighter the light, the deeper the shadow, and the greater the exaltation, the deeper the depression of spirit which follows it. Only those who by cold reason restrain their emotions escape the periods of depression, but they never taste the heavenly bliss of exaltation either. And it is this emotional outpouring of himself which furnished the Christian Mystic with the dynamic energy to project himself into the invisible worlds, where he becomes one with the spiritual ideal which has beckoned him on and awakened in his soul the power to rise to it, as the sun built the eye wherewith we perceive it. The nestling takes many a tumble before it learns to use its wings with assurance, and the aspirant upon the path of Christian Mysticism may soar to the very throne of God times out of number and then fall to the lowest pit of hell's despair. But some time he will overCome the world, defy the Law of Alternation, and rise by the power of the Spirit to the Father of Spirits, free from the toils of emotion, filled with the peace that passeth understanding. 
 
@@ -471,7 +471,7 @@ All who are upon the Path, whether the path of occultism or of mysticism, are we
 
 This view gives us a deeper insight into the Transfiguration reported in the Gospels. We should remember distinctly that it was the vehicles of Jesus which were transfigured temporarily by the indwelling Christ Spirit. But even while allowing for the enormous potency of the Christ Spirit in effecting the Transfiguration it is evident that Jesus must be a sublime character without a peer. The Transfiguration as seen in the Memory of Nature reveals his body as a dazzling white, thus showing his dependence upon the Father, the Universal Spirit. There is a great diversity in present attainments, but in the kingdom of Christ the differences will gradually disappear, and a uniform color indicating both knowledge and devotion will be acquired by all. This color will correspond to the pink color seen by occultists as the Spiritual Sun, the vehicle of the Father. When this has been accomplished, the Transfiguration of humanity will be complete. We shall then be one with our Father, and His kingdom will have come. 
 
-### <h3 id="part-2-chapter-5">CHAPTER FIVE: THE LAST SUPPER AND THE FOOTWASHING</h3>
+### <h3 id="part-2-chapter-5">Chapter Five: The Last Supper and the Footwashing</h3>
 
 We are told in the Gospels which relate the story of the Christian Mystic Initiation, how on the night when Christ had partaken of the Last Supper with His disciples, His ministry being finished at that time, He rose from the table and girded Himself with a towel, then poured water into a basin and commenced to wash His disciples' feet, an act of the most humble service, but prompted by an important occult consideration. 
 
@@ -491,7 +491,7 @@ The Philosopher's Stone then is not a body of the same nature as the plant, thou
 
 Students will realize that this is part of the process which eventually culminates in the Transfiguration, but it should also be realized that in the Christian Mystic Initiation there are no set and definite degrees. The candidate looks to the Christ as the author and finisher of his faith, seeking to imitate Him and follow in His steps through every moment of existence. Thus the various stages which we are considering are reached by processes of soul growth which simultaneously bring him to higher aspects of all these steps that we are now analyzing. In this respect the Christian Mystic Initiation differs radically from the processes in vogue among the Rosicrucians, in which an understanding upon the part of the candidate of that which is to take place is considered indispensable. But there comes a time at which the Christian Mystic must and does realize the path before him, and that is what constitutes Gethsemane, which we will consider in the next chapter. 
 
-### <h3 id="part-2-chapter-6">CHAPTER SIX: GETHSEMANE, THE GARDEN OF GRIEF</h3>
+### <h3 id="part-2-chapter-6">Chapter Six: Gethsemane, the Garden of Grief</h3>
 
 And when they had sung a hymn, they went out into the Mount of Olives. "And Jesus saith unto them, All ye shall be offended because of me this night; for it is written, I will smite the Shepherd, and the sheep shall be scattered. But after that I am risen I will go before you into Galilee. 
 
@@ -515,7 +515,7 @@ That is the moment of realization. Having drunk the cup of sorrow to the dregs, 
 
 But when we are on the pinnacle of grief we are nearest to the throne of grace. The agony and grief, the sorrow and the suffering borne within the Christian Mystic's breast are more priceless and precious than the wealth of the Indies, for when he has lost all human companionship and when he has given himself over unreservedly to the Father a transmutation takes place: the grief is turned to compassion, the only power in the world that can fortify a man about to mount the hill of Golgotha and give his life for humanity, not a sacrifice of death but a living sacrifice, lifting himself by lifting others. 
 
-### <h3 id="part-2-chapter-7">CHAPTER SEVEN: THE STIGMATA AND THE CRUCIFIXION</h3>
+### <h3 id="part-2-chapter-7">Chapter Seven: The Stigmata and the Crucifixion</h3>
 
 As we said in the beginning of this series of articles, the Christian Mystic Initiation differs radically from the Occult Initiation undertaken by those who approach the Path from the intellectual side. But all paths converge at Gethsemane, where the candidate for Initiation is saturated with sorrow which flowers into compassion, a yearning mother love which has only one all-absorbing desire; to pour itself out for the alleviation of the sorrow of the world to save and to succor all that are weak and heavy-laden, to comfort them and give them rest. At that point the eyes of the Christian Mystic are opened to a full realization of the world's woe and his mission as a Savior; and the occultist also finds here the heart of love which alone can give zest and zeal in the quest. By the union of the mind and the heart both are ready for the next step, which involved the development of the stigmata, a necessary preparation for the mystic death and resurrection. 
 

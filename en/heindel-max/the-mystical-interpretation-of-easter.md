@@ -37,7 +37,7 @@ This humble effort is intended to be an inspiration to those who have glimpsed t
 - [Chapter VIII. What Became of the Physical Body of Jesus?](#chapter-8)
 - [The Resurrection](#the-resurrection)
 
-### <h3 id="chapter-1">CHAPTER I: THE COSMIC CHRIST</h3>
+### <h3 id="chapter-1">Chapter I. The Cosmic Christ</h3>
 
 ```
 "Though Christ a thousand times in Bethlehem be born, 
@@ -72,7 +72,7 @@ For those who have chosen to work knowingly and intelligently with Cosmic Law, E
  
 To the enlightened ones Easter brings a keen realization of the fact that all humanity are pilgrims on the Earth, that the real home of the spirit is in the heaven realm, and that to reach that realm all should endeavor to learn the lessons in life's school as quickly as possible so that they may be able to look for the dawn of a day that will permanently release them from the bondage of the Earth. Then like the liberated Christ they will come to a realization of that glorious immortality which is the reward of the perfected Spirit. To the illuminated ones Easter symbolizes the dawning of a glad day when all mankind, as well as the Christ, will be permanently freed from the cramping confines of materiality, and will ascent to heavenly realms to become pillars of strength in the Father's house, from which they shall no more go out. 
  
-### <h3 id="chapter-2">CHAPTER II: AN EVENT OF MYSTIC SIGNIFICANCE</h3>
+### <h3 id="chapter-2">Chapter II: An Event of Mystic Significance</h3>
 
 ```
 Whither I go, thou canst not follow me now; but thou shalt follow me afterwards . . . . he that believeth on me, the works that I do shall he do also; and greater works than these shall he do.
@@ -112,7 +112,7 @@ You will remember that Christ gave not the cup to the multitude, but to His disc
 
 When the Atlantean Age was drawing to a close and mankind left its childhood home where it had been under the direct guidance of the Divine Teachers, the old covenant was made, giving them flesh and wine, and these two, together with the unrestrained use of the sex force, have made the Aryan Age an age of death and destruction. We are now drawing to an end of that era; we are looking for the Kingdom of Heaven, the New Galilee, and in order to prepare us for that time Christ has given the *bread and the water of life,* bidding us at the same time not to lust. Having given this new covenant He went to the cross of liberation leaving behind Him the *body of death*, to soar away in a *vehicle of life*, the vital body. He gave His followers the assurance that though they could not follow Him then, where He went they should follow later. Everyone is a Christ in the making and some day will be "Easter" for each of us. 
 
-### <h3 id="chapter-3">CHAPTER III : THE COSMIC MEANING OF EASTER (PART I)</h3>
+### <h3 id="chapter-3">Chapter III: The Cosmic Meaning of Easter (Part I)</h3>
 
 ```
 The whole life of Christ was a cross and a martyrdom, and dost thou seek for thyself Rest And Joy? The higher a man hath advanced in the spirit, the heavier crosses he will often find, because the sorrow of his banishment increaseth with the strength of his love.  
@@ -146,7 +146,7 @@ Certainly we believe in the Christ; we love Him with our whole heart and soul, b
 
 We are too much in the habit of looking to an outside Saviour while harboring a devil within; but till Christ be formed in us, as Paul says, we shall seek in vain, for as it is impossible for us to perceive light and color, though they are all about us, unless our optic nerve registers their vibrations, and as we remain unconscious of sound when the tympanum of our ear is insensitive, so also must we remain blind to the presence of Christ and deaf to His voice until we arouse our dormant spiritual natures within. But once these natures have become awakened, they will reveal the Lord of Love as a prime reality; this on the principle that when a tuning fork is struck, another of identical pitch will also commence to sing, while tuning forks of different pitches will remain mute. Therefore, the Christ said that His sheep knew the sound of His voice and responded, but the voice of the stranger they heard not. (John 10:5) No matter what our creed, we are all brethren of Christ, so let us rejoice, the Lord has risen! Let us seek Him and forget our creeds and other lesser differences. 
 
-### <h3 id="chapter-4">CHAPTER IV: THE COSMIC MEANING OF EASTER (PART II)</h3>
+### <h3 id="chapter-4">Chapter IV: The Cosmic Meaning of Easter (Part II)</h3>
 
 ```
 The sign of the cross shall be in heaven when the Lord cometh to judgment. Then all servants of the cross, who in life have conformed themselves to the crucified, shall draw nigh until Christ with great boldness.  
@@ -174,7 +174,7 @@ With these ideals firmly fixed in our minds, Easter time becomes a season when i
 
 This is a gigantic task; the contemplation of it may well daunt the bravest heart, and were we alone it could not be accomplished; but the divine hierarchies who have guided humanity upon the path of evolution from the beginning of our career are still active and working with us from their sidereal worlds, and with their help we shall eventually be able to accomplish this elevation of humanity as a whole and attain to an individual realization of glory, honor, and immortality. Having this great hope within ourselves, this great mission in the world, let us work as never before to make ourselves better men and women, so that by our example we may waken in others a desire to lead a life that brings liberation. 
 
-### <h3 id="chapter-5">CHAPTER V: THE LESSON OF EASTER</h3>
+### <h3 id="chapter-5">Chapter V: The Lesson of Easter</h3>
 
 ```
 For if thou be dead with Him, thou shalt also live with Him, and if thou be a partaker of His sufferings, thou shalt be also of His glory.  
@@ -198,7 +198,7 @@ We are wont to think of a miser as one who hoards gold, and such people are gene
 
 There is thus a certain obligation to pass on what we have of knowledge, and "to whom much is given of him much will be required." If we hoard the spiritual blessings we have received, evil is at our door, so let us imitate the Earth at this Easter time. Let us bring forth in the physical world of action the fruits of the spirit sown in our souls during the past wintry season. So shall we be more abundantly blessed from year to year. 
 
-### <h3 id="chapter-6">CHAPTER VI: THE SYMBOL OF THE EGG</h3>
+### <h3 id="chapter-6">Chapter VI: The Symbol of the Egg</h3>
 
 ```
 So when the corruptible shall have put on incorruption, and this mortal shall have put on immortality, Then shall be brought to pass the saying that is written, death is swallowed up in victory.  
@@ -222,7 +222,7 @@ When we have the true knowledge conveyed by the egg symbol that life is uncreate
 
 We must realize that death is a cosmic necessity under the present circumstances for if we were imprisoned in a body of the kind we now use, and placed in an environment such as we find today, there to live forever, the infirmities of the body and the unsatisfactory nature of the environment would very soon make us so tired of life that we would cry for release. It would block all progress and make it impossible for us to evolve to greater heights such as we may evolve to by re-embodiment in new vehicles and placement in new environments which give us new possibilities for growth. Thus we may thank God that so long as birth into a concrete body is necessary for our further development, release by death has been provided to free us from the outgrown instrument, while resurrection and a new birth under the smiling skies of a new environment furnish another chance to begin life with a clean slate and learn the lessons which we failed to master before. By this method we shall some time become perfect as is the risen Christ. He commanded it, and He will aid us to achieve it. 
 
-### <h3 id="chapter-7">CHAPTER VII: THE CROSS OF CHRIST</h3>
+### <h3 id="chapter-7">Chapter VII: The Cross of Christ</h3>
 
 ```
 If any man will come after me, let him deny himself, and take up his cross, and follow me.   
@@ -234,7 +234,7 @@ According to an ancient legend Adam took with him three cuttings from the tree o
 
 There is a very great significance in this ancient legend. The first cutting represents the spiritual power wielded by the Divine Hierarchs in the days when mankind was in its infancy, wielded then for our benefit by *others.* The second cutting was to be used in Solomon's temple. No one could appreciate it except the Queen of Sheba, no place could be found for it, for Solomon's temple is the consummation of the arts and crafts, and in a material civilization nothing spiritual is appreciated. The sons of Cain are working out their salvation along material lines, and therefore they have no use for spiritual powers. So *"it was used as a bridge across the brook."* There are always souls, the real, the true *Mystic Masons,* who have been able to make use of that bridge, which leads from the visible to the invisible, who are able to return to the Garden of Eden, to Paradise, across that bridge. It was the third cutting from the tree of life which formed the cross of Christ. By climbing that cross, He gained liberation from this physical existence, and entered into higher spheres. Likewise, we also, when we take up our cross and follow Him shall develop our soul power and enter a larger sphere of usefulness in the invisible world. May we all strive so that day by day we shall be found kneeling, and overcome, clinging to the cross of Christ, so that one day not far distant we shall climb our own cross and from this attain the glorious liberation, the resurrection of life of which the Christ was and is the first fruits for every believing soul. This is the real, the true Easter message, and every one of us should realize that we are Christs in the making, and that when the Christ is really and truly *born within,* that Christ will show us the way to the cross where we may attain and advance from the tree of knowledge, which brought death to the tree of life in the vital body, which brings immortality. 
 
-### <h3 id="chapter-8">CHAPTER VIII: WHAT BECAME OF THE PHYSICAL BODY OF JESUS?</h3> 
+### <h3 id="chapter-8">Chapter VIII: What Became of the Physical Body of Jesus?</h3> 
 
 ```
 For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.  
@@ -275,7 +275,7 @@ Similarly Christ was free to choose His vehicle of entrance to the Earth where H
 
 In the meantime Jesus has been the loser of all the soul-growth accomplished during his thirty years on Earth prior to the baptism and contained in the vehicle given Christ. This was, and is a great sacrifice made for us, but like all good deeds it will rebound to a greater glory in the future, because this vehicle so used and which is to be again used by Christ when He comes to establish and perfect the Kingdom of God, will be so spiritualized and glorified that when it is again restored to Jesus at the time when Christ turns the Kingdom over to the Father, it will be the most wonderful of all human vehicles, and though this has not been taught, the writer believes that Jesus will be the highest fruitage of the Earth Period on that account, and that Christian Rosenkreuz will come next. For "greater love has no man than that he lay down his life," and giving not only the dense body, but also the vital body, and for so long a time, is surely the ultimate sacrifice. 
 
-### <h3 id="the-resurrection">THE RESURRECTION</h3>
+### <h3 id="the-resurrection">The Resurrection</h3>
 
 There is one glory of the sun, and another glory of the moon, and another glory of the stars; for one star differeth from another star in glory. 
 
@@ -285,4 +285,4 @@ It is sown a natural body; it is raised a spiritual body. There is a natural bod
 
 And so it is written; the first man Adam was made a living soul; the last Adam was made a quickening spirit. 
 
-Fin
+End

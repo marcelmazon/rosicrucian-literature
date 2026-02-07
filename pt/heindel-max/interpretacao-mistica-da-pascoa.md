@@ -39,16 +39,20 @@ Esse humilde esforço pretende ser uma inspiração para aqueles que tenham visl
 
 ### <h3 id="chapter-1">Capítulo I: O Cristo cósmico</h3>
 
-    “Ainda que Cristo nascesse mil vezes em Belém,  
-    se não nasce dentro de ti, tua alma segue extraviada.  
-    Olharás em vão a Cruz do Gólgota,  
-    enquanto não fizeres um Gólgota de teu coração também”.  
+```
+“Ainda que Cristo nascesse mil vezes em Belém,  
+se não nasce dentro de ti, tua alma segue extraviada.  
+Olharás em vão a Cruz do Gólgota,  
+enquanto não fizeres um Gólgota de teu coração também”.  
 
-Angelus Silésius[1]
+- Angelus Silésius[1]
+```
 
 A canção popular de hoje, que todo mundo canta com entusiasmo, mas que é esquecida amanhã; o espetáculo que é levado à cena, talvez, cem noites seguidas, para depois ser abandonado e relegado ao pó, e todas as outras coisas que são evanescentes demonstram, claramente, que não tem um valor intrínseco. O brilho de uma estrela cadente ilumina o céu por um momento, mas embora o brilho das outras estrelas seja mais fraco e atraia menos a nossa atenção, suas luzes confortam ao caminhante, noite após noite, através dos tempos. Somente as canções que, por seu valor, são reproduzidas sempre de novo, cuja música não nos cansa nunca, têm realmente algo de valioso na vida. O mesmo acontece nos ciclos cósmicos que sempre se repetem, marcados pelas festas do ano. Como elas são recorrentes, sempre nos ensinam as mesmas antigas lições, sempre sob um novo ponto de vista.
 
 O impulso de vida do Cristo Cósmico que entrou na Terra no último mês de setembro, manifestou-se no nascimento Místico no Natal e realizou sua maravilhosa magia de fecundação do mês de setembro até março e se libertou da cruz da matéria para ascender novamente ao trono do Pai, na Páscoa deixa a Terra coberta de uma glória verde dos próximos meses, pronta para as atividades físicas[1].
+
+() - [1] N.R.: Independentemente da inversão das estações, uma coisa que se mantém idêntica no Norte e no Sul: a distância maior ou menor, a que o Sol se encontra da Terra. No Solstício de Dezembro, o Sol se encontra mais próximo da Terra: a Terra é permeada mais fortemente pela aura do Sol Espiritual (inspiração de crescimento anímico nos seres humanos). No Solstício de Junho, a Terra no máximo afastamento do Sol: diminuição de espiritualidade com a intensificação de vitalidade física.
 
 Como é em cima, assim também é em baixo. Os processos que se desenvolvem em larga escala na Terra manifestam-se, também, no ser humano. Durante os meses de setembro a março nós fomos completamente impregnados pelas vibrações espirituais que predominaram nos últimos meses, muito mais do que foi possível sob as condições mais materiais que prevalecem entre março e setembro. Chegou-nos em setembro com um novo impulso para a vida superior; culminou na Noite Santa, e sua magia trabalhou dentro de nós e em nossas naturezas na proporção que aproveitamos nossas oportunidades. De acordo com a nossa aplicação ou descuido no último período, o progresso será acelerado ou atrasado no próximo período, porque não existem palavras mais verdadeiras do que aquelas que nos ensinam que somos exatamente aquilo que fizermos de nós mesmos. O serviço que prestamos ou deixamos de prestar determina se a nova oportunidade, para um serviço maior, nos proporciona um impulso mais forte para cima; e não será nunca demais repetir que é inútil esperar libertação da cruz da matéria, antes que tenhamos usado nossas oportunidades aqui e, então obter uma mais ampla capacidade de sermos úteis. Os “cravos” que prendem a Cristo na Cruz do Calvário prendem você e eu, até que o impulso dinâmico de amor flua de nós em ondas e correntes rítmicas, tal como a maré de amor que, anualmente, entra na Terra, e a impregna com vida renovada.
 
@@ -58,11 +62,19 @@ A mesma coisa acontece com o Cristo Cósmico, que dirige Sua atenção para a no
 
 Durante os meses de setembro, outubro, novembro e dezembro Ele sofre agonias de torturas, “gemendo, trabalhando e esperando pelo dia da libertação”[2], a qual chega no tempo em que nós falamos nas igrejas ortodoxas: Semana da Paixão, mas nós afirmamos que, de acordo com os ensinamentos místicos, essa semana é exatamente a culminação ou ponto mais alto dos Seus sofrimentos, e que Ele, então, sai de Sua prisão; e quando o Sol cruza o Equador, Ele é suspenso na Cruz, exclamando: “Consummatum est!” – “Está consumado!”[3]; ou “Está cumprido!”. Isto quer dizer que o Seu trabalho, para aquele dia, foi cumprido. Não é um grito de agonia, mas um grito de triunfo, um grito de alegria, pois a hora da libertação chegou e, mais uma vez, Ele pode se elevar, por mais um período, se livrando da prisão e do peso do nosso Planeta.
 
+() - [2] N.R.: Rm 8:22
+
+() - [3] N.R.: Jo 19:30
+
 O ponto para o qual desejo chamar vossa atenção é que deveríamos nos alegrar com Ele, nessa grande, gloriosa e triunfante hora, a hora da libertação, quando Ele exclama: “Está cumprido”. Sintonizemos os nossos corações para esse grande acontecimento Cósmico; alegremo-nos com o Cristo, nosso Salvador, que o tempo de Seu sacrifício anual se completou, mais uma vez; sintamo-nos agradecidos, do fundo dos nossos corações, que Ele está, agora, prestes a ser libertado da prisão terrena; pois a vida que Ele imbuiu no nosso Planeta é suficiente para conservar-se até o próximo Natal.
 
 A Natureza é a expressão simbólica de Deus. Por isso, quando queremos conhecer a Deus precisamos estudar a Natureza, lembrando-nos sempre que existe um propósito emtoda a manifestação; que a vida é uma escola e aprendendo suas muitas lições a humanidade evolui lentamente de uma chispa divina para a Divindade. Se tivéssemos aprendido as lições da vida, tal como nos foram dadas, não teria havido necessidade do grande sacrifício que foi feito e que é anualmente repetido pelo Espírito de Cristo, que é a personificação do Amor. Por egoísmo, desobediência às Leis e práticas do mal fomos cristalizando rapidamente, não somente nossos corpos, mas, também a Terra na qual vivemos, a um nível que ambos estavam se tornando inúteis como meios de evolução. Quando já não nos podíamos salvar dos resultados dos nossos próprios erros, o Cristo compassivo ofereceu a Si mesmo e o seu grande Poder de Amor para romper essas condições cristalizadas dos corpos humanos e da Terra. Durante três anos Ele ensinou a Humanidade pela palavra, pelo preceito e exemplo.
 
 Quando Ele foi crucificado no Gólgota o seu Grande Sacrifício pela humanidade apenas começou. Cada ano, desde esse tempo, quando o Sol passa do Signo zodiacal de Virgem para o de Libra, o Espírito de Cristo, retornando à nossa Terra, toca a sua atmosfera. Ele começa a sua jornada de descida em torno de 21 de junho[4], no Solstício de Junho, quando o Sol entra no Signo de Câncer. Ele chega ao centro da nossa Terra à meia-noite de 24 de dezembro. Aí Ele fica por três dias e, depois, começa a voltar. Esta volta completa-se na Páscoa. Da Páscoa até o Solstício de Junho Ele está passando pelos Mundos Espirituais e chega ao Mundo do Espírito Divino, o Trono do Pai, a 21 de junho[5]. Durante julho e agosto, quando o Sol está em Câncer e Leão, Ele reconstrói o seu veículo Espírito de Vida, que Ele trará ao mundo, novamente, e, com esse veículo, Ele voltará a rejuvenescer a Terra e os reinos de vida que nela evolucionam. Do Natal até a Páscoa Ele se dá a Si mesmo sem limitações nem medida, imbuindo com vida, não apenas as sementes adormecidas, mas todas as coisas sobre e dentro da Terra.
+
+() - [4] O Solstício de Junho varia entre 20 e 21 de junho, dependendo do ano.
+
+() - [5] N.R.: ou 20, dependendo do ano.
 
 Sem essa infusão da vida e energia Divinas, todos os seres viventes da nossa Terra morreriam imediatamente, e todo o progresso seria frustrado, no que concerne à nossa presente linha de desenvolvimento. Essa atividade germinativa da vida do Pai, que nos é trazida por Cristo e entregue amplamente no tempo da Páscoa, que renova o crescimento e intensifica a atividade na planta, no animal e no ser humano, nessa especial parte do ano. Cristo não deixa a Terra na Páscoa senão depois de dar de Si Mesmo até ao máximo. É, então, que a infusão de Sua Vida, junto com os raios quase verticais do Sol, faz as sementes germinarem; as árvores florirem; os pássaros acasalarem, dirigidos pelos seus Espíritos-Grupo, e construírem seus ninhos. A humanidade, então, é fortificada e imbuída com a energia e a coragem necessárias para enfrentar, aproveitar e crescer por meio das experiências inesperadas providas pelos diversos e perplexos problemas da vida.
 
@@ -72,12 +84,11 @@ Para as almas iluminadas a Páscoa traz uma profunda compreensão do fato de que
 
 ### <h3 id="chapter-2">Capítulo II: Um acontecimento de sentido místico</h3>
 
-    Para onde eu vou não podes agora seguir-me; mas  
-    depois me seguirás … Aquele que crê em mim  
-    também fará as obras que eu faço  
-    e as fará maiores do que estas.  
+```
+Para onde eu vou não podes agora seguir-me; mas depois me seguirás … Aquele que crê em mim também fará as obras que eu faço e as fará maiores do que estas.  
 
-    Jo 13:36; 14:12  
+- Jo 13:36; 14:12  
+```
 
 Se fôssemos a uma igreja ortodoxa num Domingo de Páscoa, provavelmente ouviríamos a história de Jesus, o Filho de Deus, concebido sem pecado e que, com a idade de 30 anos, assumiu um sacerdócio que durou três anos e que terminou em crucificação e morte por nós; que através de seu sangue podemos ser salvos. Provavelmente, poderíamos ouvir, também, que no dia da Páscoa ele levantou-se novamente dos mortos, subindo depois para o Pai onde está agora sentado à direita da majestade de Deus, de onde retornará para julgar os vivos e os mortos na última Ressurreição.
 
@@ -97,6 +108,8 @@ Purificar o sangue do egoísmo é o Mistério no Gólgota. O processo começou q
 
 Na velha Dispensação só a água era usada nos serviços do templo, mas com o tempo o vinho tornou-se um fator na evolução humana. Um deus do vinho – Baco – passou a ser adorado, e orgias da mais brutal natureza eram celebradas para que, sufocando as aspirações do Espírito, o ser humano se voltasse mais para a conquista do Mundo Físico. Mesmo sob a Dispensação mosaica os sacerdotes eram rigorosamente proibidos de usar o vinho enquanto oficiassem no templo, mas Cristo em sua primeira aparição em público mudou a água em vinho, aprovando deste modo o seu uso na ordem de coisas então existentes. Note-se, todavia, que isso foi feito em público, e que esse foi Seu primeiro ato como sacerdote do povo, mas na última reunião esotérica de Cristo com Seus Discípulos, quando o novo pacto foi dado, não havia nem carne de carneiro (Áries) – conforme estabelecia a ordem Mosaica – nem vinho, mas tão somente pão, um produto vegetal e o cálice do qual falaremos após ouvirmos as palavras que Ele proferiu naquela ocasião: “Não mais beberei deste fruto da videira até o dia em que hei de beber, novo, convosco no Reino dos Céus”[6]. O suco novo, recém-espremido da uva, não contém o Espírito da fermentação e da decomposição, mas é um alimento vegetal nutritivo e puro. Por conseguinte, os seguidores da doutrina esotérica foram instruídos por Cristo a não consumirem alimentos cárneos nem alcoólicos.
 
+() - [6] N.R.: Mt 26:26-29
+
 Geralmente supõe-se que o cálice usado por Cristo na Última Ceia continha vinho, muito embora não haja fundamento bíblico para tal suposição. Existem três relatos dos preparativos para a Páscoa. Mesmo que Marcos e Lucas refiram-se aos mensageiros enviados a certa cidade em busca de um homem que carregava um cântaro de água, nenhum dos evangelistas diz que o cálice continha vinho. Além disso, investigações na Memória da Natureza mostram que a água é que foi usada, e no que diz respeito aos esoteristas o vinho não tinha mais vez. Daquele ato, data também a inauguração do movimento de temperança, pois tais mudanças cósmicas envolvem longos preparativos nos Mundos Espirituais internos antes que possam manifestar-se nas sociedades do Mundo externo. Assim, milhares de anos quase nada significam nesses processos.
 
 O uso da água na Última Ceia também se harmoniza com os requisitos astrológicos e éticos. O Sol saía de Áries – o Signo do Cordeiro – e entrava em Peixes, um Signo de Água. Ia soar uma nova nota de aspiração. Na Era de Peixes entrante ia iniciar-se uma nova fase de soerguimento humano. A autoindulgência ia ser suplantada pela autonegação. O pão, a matéria da vida, que é feito do grão gerado imaculadamente, não estimula paixões como a carne, nem nosso sangue se agita tão apaixonadamente quando recebe água do que quando recebe vinho. Portanto, pão e água são os alimentos e símbolos apropriados aos ideais da Era Peixes-Virgem, pois representam pureza. A Igreja Católica dá aos seus fiéis a água de Peixes na porta dos templos, como dá também o pão da Virgem no altar, mas nega-lhes o cálice de vinho do ofício. Todavia, as considerações acima não conduzem no âmago do mistério oculto no “Cálice do Novo Pacto”.
@@ -113,18 +126,23 @@ Quando a Época Atlante se aproximava do seu fim e a humanidade abandonava o lar
 
 ### <h3 id="chapter-3">Capítulo III: O significado cósmico da Páscoa – Primeira parte</h3>
 
-    “Toda a vida de Cristo foi uma cruz e um martírio,  
-    e tu buscas para ti mesmo folga e prazer? Quanto  
-    maior o avanço espiritual de um indivíduo mais  
-    pesadas as cruzes com que ele se depara frequentemente,  
-    pois as dores do seu desterro aumentam  
-    com o fortalecimento do seu amor”.  
+```
+“Toda a vida de Cristo foi uma cruz e um martírio, e tu buscas para ti mesmo folga e prazer? Quanto maior o avanço espiritual de um indivíduo mais pesadas as cruzes com que ele se depara frequentemente, pois as dores do seu desterro aumentam com o fortalecimento do seu amor”.  
 
-    Thomas de Kempis[7]
+- Thomas de Kempis[7]
+```
+
+() - [7] N.R.: Também conhecido como Tomás de Kempen, Thomas Hemerken, Thomas à Kempis, ou Thomas von Kempen (1379 ou 1380-1471) foi Monge e escritor alemão.
 
 Na manhã da Sexta-Feira Santa de 1857, Richard Wagner[8], o maior artista do século dezenove, sentou-se à varanda de uma vivenda suíça que se debruçava às bordas do lago de Zurich[9]. O panorama que se descortinava ao redor estava banhado por um glorioso brilho do Sol; paz e boa vontade pareciam vibrar por toda a Natureza. A criação inteira palpitava de vida e o ar estava carregado da deliciosa fragrância dos bosques de pinho – bálsamo gratificante para um coração atormentado e uma Mente agitada.
 
+() - [8] N.R.: Wilhelm Richard Wagner (1813-1883) – maestro, compositor, diretor de teatro e ensaísta alemão.
+
+() - [9] N.R.: ou Zurique é a maior cidade da Suíça, um país do hemisfério norte.
+
 Então, de súbito, como um raio caído do céu azul, surgiu na alma profundamente mística de Wagner a lembrança do execrável significado daquele dia – o mais sombrio e mais doloroso do ano Cristão. Essa lembrança o inundou de tristeza, pelo contraste com o que via. Era uma incongruência marcante entre o alegre cenário que tinha diante de si, a clara atividade notável da Natureza, em luta pela renovação da vida após o longo sono hibernal, e o mortal esforço do Salvador torturado na cruz; entre os gorjeios plenos de vida e amor dos milhares de cantores de pena do bosque, na charneca e no prado, e os hediondos gritos de ódio duma turba enfurecida que insultava e zombava do mais nobre ideal que o mundo já conheceu; entre a maravilhosa energia criadora manifestada pela Natureza na primavera[10] e o elemento destruidor no ser humano, que assassinou o caráter mais nobre que já agraciou a Terra.
+
+() - [10] N.R.: a Suíça fica no hemisfério norte, onde, em março, é a estação da primavera.
 
 Enquanto Wagner meditava assim sobre os paradoxos da vida, ocorreu-lhe a pergunta: “há alguma relação entre a morte do Salvador por crucificação, na Páscoa, e a energia vital que se manifesta tão abundantemente na primavera quando a Natureza começa a vida de um novo ano?”.
 
@@ -132,7 +150,15 @@ Mesmo que Wagner não percebesse, conscientemente, o significado total da relaç
 
 Na noite mais escura do ano, quando a Terra dorme mais profundamente no abraço do frio Boreal, quando as atividades materiais descem ao nível mais baixo, uma onda de energia espiritual transporta em sua crista a “Palavra do Céu”, divina e criadora, para um nascimento místico no Natal. Então, como uma nuvem luminosa, o impulso espiritual paira sobre o mundo que “não o conheceu”[11] porque ele “brilha nas trevas”[12] do inverno, quando a Natureza está paralisada e muda.
 
+() - [11] N.R.: Jo 1:10
+
+() - [12] N.R.: Jo 1:5
+
 Essa divina “Palavra” criadora contém uma mensagem e tem uma missão. Nasceu para “salvar o mundo”[13] e “para dar sua vida pelo mundo”. Deve, necessariamente, sacrificar sua palavra para conseguir o rejuvenescimento da Natureza. Gradativamente sepulta-se na Terra e passa a infundir sua própria energia vital nas milhões de sementes que jazem adormecidas no solo. Sussurra a “palavra de vida” nos ouvidos dos animais e pássaros, até que o evangelho das boas novas tenha sido pregado a todas as criaturas. O sacrifício se completa totalmente na época do ano em que o Sol cruza seu nódulo oriental no Equinócio de Março. Então a divina palavra criadora expira. Em um sentido místico, ela morre na cruz da Páscoa, emitindo um último brado de triunfo: “Está Consumado”[14] (Consummatum est).
+
+() - [13] N.R.: Jo 12:47
+
+() - [14] N.R.: Jo 19:30
 
 Porém, do mesmo modo que o eco volta a nós, muitas vezes, repetido, assim também o canto celestial de vida se repete sobre a Terra. A criação inteira entoa um cântico de louvor, que é repetido sem cessar pelo coro de uma legião de línguas. As pequeninas sementes no seio da Mãe Terra começam a germinar, brotando e despontando em todas as direções, e logo um maravilhoso mosaico de vida, um tapete verde aveludado bordado de flores multicores, toma o lugar da mortalha do imaculado branco gelado. Dos animais de pelo e pena, em todos a palavra de vida ressoa como uma canção de amor, impelindo-os ao acasalamento. Geração e multiplicação é o lema em toda parte – o Espírito libertou-se para uma vida mais abundante.
 
@@ -150,19 +176,23 @@ Estamos muito habituados a buscar um Salvador externo ao mesmo tempo que abrigam
 
 ### <h3 id="chapter-4">Capítulo IV: O significado cósmico da Páscoa – Segunda parte</h3>
 
-    O sinal da Cruz estará no céu quando o Senhor  
-    vier para julgar. Então, todos os que servem a  
-    Cruz e que na vida se tenham harmonizado com o  
-    Crucificado poderão aproximar-se de Cristo com  
-    toda coragem.  
+```
+O sinal da Cruz estará no céu quando o Senhor vier para julgar. Então, todos os que servem a Cruz e que na vida se tenham harmonizado com o Crucificado poderão aproximar-se de Cristo com toda coragem.  
 
-    Thomas de Kempis
+- Thomas de Kempis
+```
 
 Mais uma vez chegamos ao ato final do drama cósmico que envolve a descida do Raio solar de Cristo ao interior da matéria de nossa Terra, o qual se completa no nascimento místico celebrado no Natal e na Morte Mística e Libertação, celebradas logo após o Equinócio de Março, quando o Sol do novo ano inicia sua ascenção às esferas superiores dos céus setentrionais, depois de verter sua vida para salvar a humanidade e revigorar todas as coisas sobre a Terra. Nessa época do ano uma nova vida, uma energia intensificada, circula com força irresistível nas veias e artérias de todos os seres vivos, inspirando e instilando neles novas esperanças, novas ambições e nova vida, e impelindo-os a novas atividades pelas quais possam aprender novas lições na escola da experiência. Consciente ou inconscientemente, tudo o que tem vida beneficia-se desse manancial de energia fortalecida. Até a planta responde por um aumento de circulação de seiva, que resulta em uma renovação de folhas, flores e frutos, meios pelos quais esta classe de vida expressa-se a si mesma e evolui para um estado superior de consciência.
 
 Mas ainda que maravilhosas sejam essas manifestações físicas externas, e ainda que possa ser chamada de gloriosa essa transformação da Terra de um deserto de neve e gelo em um formoso jardim florido, isso é insignificante diante das atividades espirituais paralelas que se efetuam ao mesmo tempo. As características salientes do drama cósmico são idênticas em termos de época com os efeitos materiais do Sol nos quatro Signos Cardeais (Áries, Câncer, Libra e Capricórnio), porque os eventos mais significativos ocorrem nos pontos equinociais e solsticiais.
 
 Realmente, é de fato verdadeiro que “em Deus vivemos, nos movemos e temos o nosso ser”[15]. Fora d’Ele não poderíamos existir; vivemos por e através de Sua vida; movimentamo-nos e agimos por e através de sua fortaleza; é o Seu poder que sustenta nossa morada, a Terra, e sem Seus incessantes e invariáveis esforços o universo desintegrar-se-ia por si mesmo. Sabemos que o ser humano foi feito à semelhança de Deus, e nos é dado compreender que, consoante a lei de analogia, possuímos internamente certos poderes latentes idênticos àqueles que vemos tão poderosamente manifestados pela Deidade na obra do universo. Isso desperta, em nós, um particular interesse no drama cósmico anual em que envolve a morte e ressurreição do Sol. A vida do Deus-Homem, Cristo-Jesus, foi moldada de conformidade com a história solar e prenuncia, de modo idêntico, tudo o que pode acontecer ao Homem-Deus, a quem Cristo-Jesus profetizou quando disse: “As obras que eu faço vós fareis também, e maiores ainda[16]; para onde vou agora vós não podeis ir, mas depois podereis seguir-me”[17].
+
+() - [15] N.R.: At 17:28
+
+() - [16] N.R.: Jo 14:12
+
+() - [17] N.R.: Jo 13:36
 
 A Natureza é a expressão simbólica de Deus. Ela nada faz em vão ou arbitrariamente, mas existe um propósito por trás de todas as coisas e de todos os atos. Por conseguinte, devemos estar alertas e considerar cuidadosamente os sinais nos céus, porque eles possuem um significado profundo e importante referentes às nossas próprias vidas. A compreensão inteligente desses propósitos capacita-nos a trabalhar mais eficazmente com Deus em Seus maravilhosos esforços para emancipar nossa raça da escravidão das leis da Natureza e, mediante essa liberação, alcançarmos a plena estatura de filhos de Deus, coroados de glória, honra e imortalidade; livres do poder do pecado, da doença e do sofrimento que agora encurtam nossas existências terrenas em razão de nossa ignorância e de inconformidade às leis de Deus. O propósito divino visa essa emancipação, e ser ela conseguida através do longo e tedioso processo evolutivo ou ser alcançada através do caminho muitíssimo mais curto da Iniciação, isso depende da nossa vontade de cooperar ou não. A maioria da humanidade atravessa a vida com olhos que não veem e ouvidos que não ouvem. Segue absorvida em seus negócios materiais, comprando e vendendo, trabalhando e divertindo-se sem a devida apreciação ou compreensão dos propósitos da existência e, ainda que tais propósitos se tornassem claros, é provável que dificilmente se conformasse em virtude do sacrifício que isso envolve.
 
@@ -180,11 +210,11 @@ Esta é uma tarefa gigantesca. Enfrentá-la pode muito bem desalentar o mais val
 
 ### <h3 id="chapter-5">Capítulo V: A lição de Páscoa</h3>
 
-    “Porque se morreres com Ele, também com Ele  
-    viverás, e se partilhares dos Seus sofrimentos,  
-    da Sua glória também partilharás”.  
+```
+“Porque se morreres com Ele, também com Ele viverás, e se partilhares dos Seus sofrimentos, da Sua glória também partilharás”.  
 
-    Thomas de Kempis
+- Thomas de Kempis
+```
 
 Outra vez a Terra alcança o Equinócio de Março, em seu movimento anual de translação em torno do Sol, e assim chegamos à Páscoa. O raio espiritual emitido pelo Cristo Cósmico nesse período, para reativar a esgotada vitalidade da Terra, está quase subindo de volta ao Trono do Pai. Às atividades espirituais de fecundação e germinação, levadas a efeito durante os últimos seis meses, seguir-se-ão os processos de crescimento físico e amadurecimento durante os próximos seis meses, sob a influência do Espírito da Terra. O ciclo termina no “Lar da Colheita”. Deste modo o grande Drama do Mundo é encenado e reencenado ano após ano, numa eterna disputa entre a vida e a morte, sendo cada uma por vez vencedora e vencida na sequência dos ciclos.
 
@@ -200,15 +230,19 @@ Existe um perigo nesta atitude mental. Se permitirmos que ela nos domine, é pos
 
 Estamos acostumados a pensar no avaro como alguém que junta ouro, sendo essa classe de pessoas objeto de desprezo, de modo geral. Mas há indivíduos que lutam tão tenazmente para adquirir conhecimento, quanto se esforça o avaro para acumular ouro, não hesitando em usar qualquer meio ou subterfúgio para alcançar seu intento e guardando consigo seus conhecimentos, tão egoisticamente quanto o avaro guarda o seu tesouro. Não compreendem que por tal método eles fecham de fato as portas à uma sabedoria maior. A antiga teologia nórdica continha uma parábola que, simbolicamente, esclarece o assunto. Dizia que todos os que morriam no campo de batalha (as almas fortes que combateram o bom combate até o fim) eram levados ao Valhalla[18], a estar com os deuses, enquanto os que morriam na cama ou por doenças (as almas fracas, que vagavam pela vida) iam para o lúgubre Niflheim. No Valhalla, os valentes guerreiros banqueteavam-se diariamente com a carne de um javali chamado Scrimner, que se caracterizava por uma particularidade: sempre se cortava um pedaço de suas carnes, imediatamente outro crescia no lugar, de modo que seu corpo nunca era consumido, não importa quanto se cortasse dele. Isto simbolizava adequadamente o “conhecimento”, pois, não importa quanto dele possamos dar aos outros, o original sempre fica conosco.
 
+() - [18] N.R.: Valhala, Valíala, Valhalla ou Palácio dos Einherjar (em português “Palácio dos mortos heroicos”), na mitologia nórdica e nas religiões pagãs nórdicas, como a popular Ásatrú, é um palácio com enorme salão com 540 quartos — situado em Asgard e dominado pelo deus Odin — no qual metade dos guerreiros mais nobres e destemidos mortos em batalha são levados pelas valquírias após a morte para viverem com Odin (enquanto a outra metade vai para os campos Folkvang da deusa Freia), onde participam de combates diários, para manter o exercício da luta e preparar-se para o dia de Ragnarök (em português “o dia do fim do mundo”).
+
 Existe, portanto, certa obrigação de transmitirmos os conhecimentos que possuímos, pois “àquele a quem muito foi dado, muito lhe será pedido”[19]. Se acumularmos as bênçãos espirituais que temos recebido, o mal nos ronda, por isso imitemos a Terra nesta época da Páscoa. Externemos no Mundo Físico da ação, os frutos do Espírito semeados em nossas almas durante os meses de dezembro, janeiro e fevereiro. Habilitemo-nos a receber bênçãos cada vez maiores de ano para ano.
+
+() - [19] N.R.: Lc 12:48
 
 ### <h3 id="chapter-6">Capítulo VI: O símbolo do ovo</h3>
 
-    “E quando este corpo incorruptível se revestir de incorruptibilidade,  
-    e o que é mortal se revestir de imortalidade,  
-    e o que é mortal se revestir de imortalidade, então se cumprirá a palavra que está escrita: Tragada foi a morte na vitória”.  
+```
+“E quando este corpo incorruptível se revestir de incorruptibilidade, e o que é mortal se revestir de imortalidade, e o que é mortal se revestir de imortalidade, então se cumprirá a palavra que está escrita: Tragada foi a morte na vitória”.  
 
-    ICor 15 :54
+- ICor 15 :54
+```
 
 Para os nossos irmãos e irmãs do hemisfério norte passaram-se os sombrios e monótonos dias do inverno (meses de dezembro, janeiro e fevereiro). A Mãe Natureza remove o manto frio de gelo que cobre a terra, permitindo a milhões e milhões de sementes abrigadas no chão macio, romperem sua crosta e vestirem o solo com trajes de verão numa orgia de cores alegres e vistosas, preparando as “câmaras nupciais” para os animais e aves se acasalarem.
 
@@ -228,10 +262,11 @@ Devemos admitir que a morte é uma necessidade cósmica nas atuais circunstânci
 
 ### <h3 id="chapter-7">Capítulo VII: A cruz de Cristo</h3>
 
-“Se alguém quiser vir após mim,  
-negue-se a si mesmo, tome a sua cruz e siga-me”.  
+```
+“Se alguém quiser vir após mim, negue-se a si mesmo, tome a sua cruz e siga-me”.  
 
-Mt 16:24
+- Mt 16:24
+```
 
 De acordo com uma antiga lenda, quando expulso do Paraíso, Adão levou consigo três mudas da árvore da vida, as quais, plantadas pelo seu filho Seth, vingaram e cresceram. De uma delas se fez mais tarde o cajado de Aarão, com o qual este operou milagres diante do Faraó. Outra foi levada ao Templo de Salomão para servir de pilar ou coisa semelhante ali, mas, como não serviu para nada no interior do edifício, foi então utilizada como uma ponte sobre um regato que corria fora do Templo. A terceira foi usada para fazer-se a cruz de Cristo, sobre a qual Ele sofreu por nós, libertou-se finalmente, penetrou na Terra e tornou-se o Espírito Planetário do nosso globo, no qual Ele agora sofre e geme esperando o dia da libertação.
 
@@ -239,15 +274,17 @@ Existe um grande significado nessa lenda antiga. A primeira muda da árvore repr
 
 ### <h3 id="chapter-8">Capítulo VIII: Que foi feito do corpo físico de Jesus?</h3>
 
-    “Sabemos que, se a nossa casa terrestre deste Tabernáculo se desfizer,  
-    temos da parte de Deus um edifício,  
-    casa não feita por mãos, eterna, nos céus”.  
+```
+“Sabemos que, se a nossa casa terrestre deste Tabernáculo se desfizer, temos da parte de Deus um edifício, casa não feita por mãos, eterna, nos céus”.  
 
-    IICor 5: 1
+- IICor 5: 1
+```
 
 Que fim teve o Corpo Denso de Jesus, colocado no túmulo, mas não encontrado na manhã do domingo de Páscoa? E se o Corpo Vital de Jesus foi preservado para ser usado novamente por Cristo, como pode ele, Jesus, estar nesse meio tempo funcionando num Corpo Vital? Não teria sido mais fácil conseguir para Cristo, em Sua segunda vinda, outro Corpo Vital?
 
 Essas perguntas foram respondidas assim, no “Ecos” de 1914[20]:
+
+() - [20] N.R.: Boletim Echoes de Mount Ecclesia – The Rosicrucian Fellowship.
 
 Estudos nas Escrituras revelam o fato de que Cristo costumava afastar-se de Seus Discípulos e que estes ignoravam para onde Ele ia nessas ocasiões ou, se não ignoravam, isso jamais foi mencionado. O motivo desses afastamentos, porém, era que, sendo Ele um Espírito tão glorioso, Suas vibrações eram demasiado elevadas mesmo para o melhor e mais puro dos veículos físicos, fazendo-se, portanto, necessário retirar-se deste veículo, frequentemente, para um período de completo repouso, de modo que o padrão vibratório de seus átomos pudesse baixar ou voltar ao normal. Por conseguinte, Cristo habitualmente buscava os Essênios em tais momentos, aos cuidados de quem deixava o Corpo, uma vez que eles eram peritos em lidar com o Corpo Denso. Cristo nada sabia de como tratar o veículo que recebera de Jesus. Não fora esses repousos e os cuidados recebidos, o corpo de Jesus ter-se-ia desintegrado bem antes de se haverem completado os três anos do Seu ministério, e assim o Gólgota não teria sido alcançado.
 
@@ -265,8 +302,10 @@ Ao morrer o Corpo Denso de Jesus, os Átomos-semente retomaram ao seu primitivo 
 
 A razão pela qual o Corpo Vital de Jesus é conservado para a segunda vinda de Cristo ao invés de Lhe providenciar um novo veículo pode ser encontrada em “Fausto”, mito que apresenta em sentido figurado grandes verdades espirituais de valor inestimável à alma sedenta. Fausto, em seu esforço para obter poder espiritual antes de merecê-lo, atrai um Espírito disposto a auxiliá-lo em seus desejos mediante uma compensação, pois em tal classe de Espírito o altruísmo é uma virtude que simplesmente não existe. Quando Lúcifer se volta para sair, nota apavorado a existência de um pentagrama diante da porta, uma das pontas em sua direção. Pede, então, a Fausto que retire dali o símbolo para que ele possa sair, ao que este lhe pergunta por que não sai pela janela ou pela chaminé. Lúcifer, relutantemente, admite que:
 
-    Para os fantasmas e Espíritos é lei  
-    que por onde entramos, devemos sair.  
+```
+Para os fantasmas e Espíritos é lei  
+que por onde entramos, devemos sair.  
+```
 
 Quando, no curso natural dos acontecimentos, o Espírito volta a nascer, ele entra no Corpo Denso pela cabeça, trazendo consigo os veículos superiores. Ao deixar o corpo à noite, sai pelo mesmo lugar, para reentrar do mesmo modo na manhã seguinte. O Auxiliar Invisível também sai do seu corpo e nele reentra da mesma maneira. E quando por fim nossa vida terrena chega a seu termo, é pela cabeça que saímos do nosso corpo pela última vez. Vemos, pois, que a cabeça é a porta natural do corpo e, por conseguinte, o pentagrama com uma ponta para cima é o símbolo da magia branca, que atua em harmonia com a lei de progressão.
 
@@ -276,46 +315,16 @@ De maneira análoga, Cristo era livre para escolher Seu veículo para entrar na 
 
 Nesse meio tempo Jesus perdeu todo o crescimento anímico alcançado durante seus trinta anos na Terra, antes do batismo, e contido no veículo dado a Cristo. Isto foi e continua sendo um grande sacrifício feito por nós, mas redundará em glória maior no futuro, como todas as boas ações. Porque esse veículo, utilizado como foi, e a ser usado novamente por Cristo em Sua vinda para estabelecer e aperfeiçoar o Reino de Deus será tão espiritualizado e glorificado que, quando for devolvido a Jesus na época em que Cristo entregar o Reino ao Pai será também o mais maravilhoso de todos os veículos humanos. E, ainda que isto não tenha sido ensinado, o autor acredita que Jesus será, por isso mesmo, o mais alto fruto do Período Terrestre, seguido de Christian Rosenkreuz. Porque “nenhum homem tem maior amor do que aquele que dá a própria vida”[21] e dar não somente o Corpo Denso, mas também o Corpo Vital, e por tempo tão prolongado, certamente é o máximo dos sacrifícios.
 
-FIM
+() - [21] N.R.: Jo 15:13
 
-[1] N.R.: Independentemente da inversão das estações, uma coisa que se mantém idêntica no Norte e no Sul: a distância maior ou menor, a que o Sol se encontra da Terra. No Solstício de Dezembro, o Sol se encontra mais próximo da Terra: a Terra é permeada mais fortemente pela aura do Sol Espiritual (inspiração de crescimento anímico nos seres humanos). No Solstício de Junho, a Terra no máximo afastamento do Sol: diminuição de espiritualidade com a intensificação de vitalidade física.
+### <h3 id="the-resurrection">The Resurrection</h3>
 
-[2] N.R.: Rm 8:22
+There is one glory of the sun, and another glory of the moon, and another glory of the stars; for one star differeth from another star in glory. 
 
-[3] N.R.: Jo 19:30
+So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption; it sown in dishonor; it is raised in glory; it is sown in weakness; it is raised in power. 
 
-[4] O Solstício de Junho varia entre 20 e 21 de junho, dependendo do ano.
+It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body. 
 
-[5] N.R.: ou 20, dependendo do ano.
+And so it is written; the first man Adam was made a living soul; the last Adam was made a quickening spirit. 
 
-[6] N.R.: Mt 26:26-29
-
-[7] N.R.: Também conhecido como Tomás de Kempen, Thomas Hemerken, Thomas à Kempis, ou Thomas von Kempen (1379 ou 1380-1471) foi Monge e escritor alemão.
-
-[8] N.R.: Wilhelm Richard Wagner (1813-1883) – maestro, compositor, diretor de teatro e ensaísta alemão.
-
-[9] N.R.: ou Zurique é a maior cidade da Suíça, um país do hemisfério norte.
-
-[10] N.R.: a Suíça fica no hemisfério norte, onde, em março, é a estação da primavera.
-
-[11] N.R.: Jo 1:10
-
-[12] N.R.: Jo 1:5
-
-[13] N.R.: Jo 12:47
-
-[14] N.R.: Jo 19:30
-
-[15] N.R.: At 17:28
-
-[16] N.R.: Jo 14:12
-
-[17] N.R.: Jo 13:36
-
-[18] N.R.: Valhala, Valíala, Valhalla ou Palácio dos Einherjar (em português “Palácio dos mortos heroicos”), na mitologia nórdica e nas religiões pagãs nórdicas, como a popular Ásatrú, é um palácio com enorme salão com 540 quartos — situado em Asgard e dominado pelo deus Odin — no qual metade dos guerreiros mais nobres e destemidos mortos em batalha são levados pelas valquírias após a morte para viverem com Odin (enquanto a outra metade vai para os campos Folkvang da deusa Freia), onde participam de combates diários, para manter o exercício da luta e preparar-se para o dia de Ragnarök (em português “o dia do fim do mundo”).
-
-[19] N.R.: Lc 12:48
-
-[20] N.R.: Boletim Echoes de Mount Ecclesia – The Rosicrucian Fellowship.
-
-[21] N.R.: Jo 15:13
+Fim
