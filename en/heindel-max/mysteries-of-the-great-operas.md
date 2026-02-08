@@ -50,9 +50,9 @@ Oceanside, California, 92054, U.S.A.
 - [Lohengrin](#lohengrin)
     - [Chapter XIX: The Knight of the Swan](#chapter-19)
 
-<h2 id="faust">FAUST</h2>
+<h2 id="faust">Faust</h2>
 
-### <h3 id="chapter-1">CHAPTER I: DIVINE DISCORD</h3>
+### <h3 id="chapter-1">Chapter I: Divine Discord</h3>
 
 When the name Faust is mentioned, the majority of educated people at once think of Gounod's presentations upon the stage. Some admire the music, but the story itself does not seem to particularly impress them. As it appears there, it seems to be the unfortunately all too common story of a sensualist who betrays a young unsuspecting girl and then leaves her to expiate her folly and suffer for her trustfulness. The touch of magic and witchery which enters into the play is thought of by most people as only the fancies of an author who has used them to make the sordid, everyday conditions more interesting. 
 
@@ -121,7 +121,7 @@ When buds the sapling doth the gardener know,
 That flow'r and fruit shall grace its coming years." 
 ```
 
-### <h3 id="chapter-2">CHAPTER II: THE SORROWS OF THE SEEKING SOUL</h3>
+### <h3 id="chapter-2">Chapter II: The Sorrows of the Seeking Soul</h3>
 
 As exercise is necessary to the development of physical muscle, so development of the moral nature is accomplished through temptation. The Ego being given choice, may exercise it in whatever direction it chooses, for it learns just as well by its mistakes as by right action in the first place, perhaps even better. Therefore, in the Job myth, the devil is permitted to tempt; and in the Faust myth he makes the request: 
 
@@ -247,7 +247,7 @@ As we have said in The Rosicrucian Cosmo-Conception, and as we have further eluc
 
 And be it remembered that Faust's experience is not an isolated instance of what may happen under abnormal conditions. He is a symbol of the seeking soul. You and I are Fausts in a certain sense, for at some stage in our evolution we shall meet the Earth Spirit and realize the power of His name, properly uttered. 
 
-### <h3 id="chapter-3">CHAPTER III: THE SORROWS OF THE SEEKING SOUL (CONTINUED)</h3>
+### <h3 id="chapter-3">Chapter III: The Sorrows of the Seeking Soul (Continued)</h3>
 
 In the Star of Bethlehem, a mystic fact, we endeavored to give students a glimpse of a certain phase of Initiation. Most of us walk about upon Earth and see only a seemingly dead mass, but one of the first facts revealed in our consciousness by Initiation is the living reality of the Earth Spirit. As the surface of our body is dead compared to the organs within, so the outer envelope of the Earth, being encrusted, gives no idea of the wonderful activity within. Upon the path of Initiation nine different layers are revealed, and in the center of this rolling sphere we meet the Spirit of the Earth face to face. It is actually true that it is "groaning and travailing" in the Earth for the sake of all, working and anxiously waiting for our manifestation as Sons of God so that, as the seeking soul which aspires to liberation is released from its dense body, the Earth Spirit also may be liberated from its body of death in which it is now confined for us. 
 
@@ -346,7 +346,7 @@ slaves are we.
 
 Before A.D. 33 Jehovah guided our planet in its orbit and mankind on the path of evolution from without. On Golgotha, Christ entered the Earth which He now guides from within, and will until a sufficient number of our humanity have evolved the soul power necessary to float the Earth and guide our younger brothers. This requires ability to live in vital bodies, capable of levitation. The vital body of Jesus through which Christ entered the Earth is His only avenue of return to the Sun. Hence the Second Advent will be in Jesus' vital body. 
 
-### <h3 id="chapter-4">CHAPTER IV: SELLING HIS SOUL TO SATAN</h3>
+### <h3 id="chapter-4">Chapter IV: Selling His Soul to Satan</h3>
 
 The Faust myth presents a curious situation in the meeting of the hero, who is the seeking soul, with different classes of Spirits. The Spirit of Faust, inherently good, feels drawn to the higher orders; it feels akin to the benevolent Earth Spirit, and bemoans the inability to detain it and learn from it. Face to face with the spirit of negation, who is only too willing to teach and to serve, he finds himself master in a certain sense, because that spirit cannot leave, over the symbol of the five pointed star in the position it is placed upon the floor. But both his inability to detain the Earth Spirit and obtain tuition from that exalted Being, and his mastery over the spirit of negation, are due to he fact that he has come into contact with them by chance and not by soul power evolved from within. 
 
@@ -404,7 +404,7 @@ But there is this great difference: that while the aspirant in the schools of th
 
 Faust aims to acquire power quickly by the aid of others, hence he contacts the danger point, just as everyone does today, who runs after self-styled "adepts" or "masters," who are ready to pander to the lowest appetites of their dupes--for a consideration--as Lucifer offers to serve Faust. But they can give no soul powers no matter what they claim. That comes from within, by patient persistence in well-doing, a fact which cannot be too often reiterated. 
 
-### <h3 id="chapter-5">CHAPTER V: SELLING HIS SOUL TO SATAN (CONTINUED)</h3>
+### <h3 id="chapter-5">Chapter V: Selling His Soul to Satan (Continued)</h3>
 
 Being in a reckless mood, Faust answers contemptuously the demand of Lucifer for his signature in blood to the pact between them, with the following words: 
 
@@ -486,7 +486,7 @@ Weeping, waiting for the morrow,
 He knows ye not, ye heavenly powers." 
 ``` 
 
-### <h3 id="chapter-6">CHAPTER VI: THE WAGES OF SIN AND THE WAYS OF SALVATION</h3>
+### <h3 id="chapter-6">Chapter VI: The Wages of Sin and the Ways of Salvation</h3>
 
 "The wages of sin is death," says the Bible, and when we sow to the flesh we must expect to reap corruption. Neither should we be surprised that one who is negative of character, like the class described as the Sons of Seth, represented by Marguerite in the Faust myth, falls a prey to this law of nature at an early date after his measure of sin has been filled. The speedy apprehension of Marguerite for the crime of matricide is an illustration of how the law works. The holy horror of the church that was remiss in not guarding her while there was yet time, is an example of how society seeks to cover up its negligence, and holds up its hands, shocked by the crimes for which it is itself, in a great measure, responsible. 
 
@@ -551,9 +551,9 @@ This stanza puzzles all who are not able to penetrate into the realms where it i
 
 It speaks of all that is perishable being but a likeness, that is to say, the material forms which are subject to death and transmutation are but a likeness of the archetype seen in heaven. "The unattainable here is accomplished"--that which seemed impossible on Earth is accomplished in heaven. No one knows that better than one able to function in the realm, for there every high and lofty aspiration finds fruition. The indescribable longings, ideas and experiences of the soul, which even it cannot express to itself are clearly defined in heaven; the Eternal Feminine, the great Creative Force in Nature, the mother God, which draws us along the path of evolution, becomes there a reality. Thus the Faust myth tells the story of the World Temple, which the two classes of people are building and which will be finally the New Heaven and the New Earth prophesied in the Book of Books. 
 
-<h2 id="parsifal">PARSIFAL</h2>
+<h2 id="parsifal">Parsifal</h2>
 
-### <h3 id="chapter-7">CHAPTER VII: PARSIFAL: WAGNER'S FAMOUS MYSTIC MUSIC DRAMA</h3>
+### <h3 id="chapter-7">Chapter VII: Parsifal — Wagner’s Famous Mystic Music Drama</h3>
 
 As we look about us in the material universe we see a myriad of forms and all these forms have a certain color and many of them emit a definite tone; in fact all do, for there is sound even in so-called inanimate Nature. The wind in the tree tops, the babbling of the brook, the swell of the ocean are all definite contributions to the harmony of Nature. 
 
@@ -691,9 +691,9 @@ Till thou at length art free,
 Leaving thine outgrown shell by life's unresting sea! 
 ```
 
-<h2 id="the-ring-of-the-niebelung">THE RING OF THE NIEBELUNG</h2>
+<h2 id="the-ring-of-the-niebelung">The Ring of the Nibelung</h2>
 
-### <h3 id="chapter-8">CHAPTER VIII: THE RHINE MAIDENS</h3>
+### <h3 id="chapter-8">Chapter VIII: The Rhine Maidens</h3>
 
 Repetition is the keynote of the vital body and the extract of the vital body is the intellectual soul, which is the pabulum of the Life Spirit, the true Christ principle in man. As it is the particular work of the Western World to evolve this Christ principle, to form the Christ within that it may shine through the material darkness of the present time, reiteration of ideas is absolutely essential. Unconsciously the whole world is obeying this law. 
 
@@ -727,7 +727,7 @@ As said before, the gold, as it lay in its unformed state upon the rock of the R
 
 Alberich is not alone is his desire to draw a ring around himself for the purpose of gaining power, however. "As above so below" and vice versa, says the Hermetic axiom. The gods are also evolving. They also have aspirations for power--a desire to draw a ring around themselves--for there is war in heaven as well as upon Earth. Different cults seek to master the souls of men and their limitations are also symbolized by rings. 
 
-### <h3 id="chapter-9">CHAPTER IX: THE RING OF THE GODS</h3>
+### <h3 id="chapter-9">Chapter IX: The Ring of the Gods</h3>
 
 By appropriating a part of the Rhinegold, representing the Universal Spirit and forming it into a ring symbolical of the fact that it (the Spirit) has neither beginning nor end, the Ego came into existence as a separate entity. Within the confines of this auric ring it is supreme ruler, self-sufficient, and resents encroachment upon its domain. Thus, it placed itself beyond the pale of fellowship. Like the prodigal son, it wandered far from the Father, but even before it realized that it was feeding upon the husks of matter, religion stepped in to guide it back to its eternal home, to free it from the illusion and delusion incidental to material existence, to redeem it from the death incurred in this phase of the dense embodiment, and to show it the way to truth and life eternal. 
 
@@ -757,7 +757,7 @@ Thus the curse of the Ring (egoism and selfishness) has tainted even the gods. F
 
 The gods have indeed regained Freya, but she is no longer the pure goddess of love. She has been prostituted; hence; she is but the semblance of her former self and fails to satisfy those whose intuition sees deeper than the surface; such are called Walsungs in the Scandinavian myth. The first syllable is the derivation of the German word, walhlen, to choose or the Scandinavian, vaelge. The last syllable means children. They are children of desire for free will and choice, who want to choose their own path and who seek to follow their own divine instinct. 
 
-### <h3 id="chapter-10">CHAPTER X: THE VALKUERIE</h3>
+### <h3 id="chapter-10">Chapter X: The Valkyrie</h3>
 
 "The Valkuerie" is the name of the second part of Wagner's great musical drama, founded upon the northern myth of the Niebelungs, and the bearers of the name were children of Wotan, as were also the Walsungs. 
 
@@ -795,7 +795,7 @@ In the meantime, Wotan powerless to abandon Valhal, the Ring of Creed, is forced
 
 And in that saying he discloses the principal requirement in the quest of truth. "Unless a man leave father and mother," said Christ, "He cannot become my disciple." All limitations must have been swept away before we can hope for success in the quest of truth. 
 
-### <h3 id="chapter-11">CHAPTER XI: SIEGFRIED, THE TRUTH SEEKER</h3>
+### <h3 id="chapter-11">Chapter XI: Siegfried, the Truth Seeker</h3>
 
 We have seen that it is necessary to set aside all limitations of religion, family, environment, and whatever else hinders in order to be able to grasp truth, but there is still another great requirement, or one which perhaps is comprehended in the first. We cling to our religion, our friends, and our families through fear of standing alone. We obey conventions because we fear to follow the dictates of the inner voice that urges us on toward the higher things which are incomprehensible to the majority; and therefore in reality, fear is the chief obstacle which prevents us from getting at truth and living it. 
 
@@ -827,7 +827,7 @@ Freed from the mortal coil, the Spirit is able to understand the language of Nat
 
 When the truth seeker has come to the point here described, he will no longer allow himself to be thwarted in his quest, whether the opposing power be devils like Fafner or gods like Wotan. Every obstacle he removes with ruthless hand for he has only one desire in the world, an overweaning craving to know truth. Therefore, after shattering the spear of Wotan, he presses onward, led by the bird of intuition, until he comes to the circle of flame hiding Brunhilde, the sleeping spirit of truth. Neither is he daunted at sight of Loge's flames of illusion and hallucination. He plunges boldly through, and behold! there lies that for which he has panted during many lives. He stoops, gathers Brunhilde in his strong, yet tender arms, and with a fervent kiss he awakens the spirit of truth from her age long sleep. 
 
-### <h3 id="chapter-12">CHAPTER XII: THE BATTLE OF TRUTH AND ERROR</h3>
+### <h3 id="chapter-12">Chapter XII: The Battle of Truth and Error</h3>
 
 There are no words adequate to convey a conception of what the soul feels when it stands in that presence, far above this world (where the veil of flesh hides the living realities under a mask) also, beyond the world of desire and illusion where fantastic and illusory shapes mislead us into believing that they are something very different from what they are in reality. Only in the Region of Concrete Thought, where the archetypes of all things unite in that grand celestial choir which Pythagoras spoke of as "the harmony of the spheres," do we find truth revealed in all its beauty. 
 
@@ -855,7 +855,7 @@ Let us now turn our eyes from heaven, from Siegfried and Brunhilde, to Earth, wh
 
 The court of Gunther lies directly in the path of Siegfried, and Alberich speeds ahead and informs Hagen that the last known possessor of the Ring is coming. Together, they scheme how to find out its whereabouts and obtain possession, but each in his black heart, also plots how to outwit the other and obtain the treasure for himself alone; for there is no honor in the battle of the separate self; each is against all others regardless of who they are. Though in the world we find cooperation for a common purpose, the question that is uppermost in the mind of every one who participates is: What can I get out of it? Unless this is plain and a personal reward is in sight, the great majority of mankind are unwilling to work. The apostle tells us, "not to be concerned with the things for self alone, but also, to be mindful of the things of others." and we have given intellectual assent in the Christian countries, but, alas! how few are willing to live up to the ideal of unselfish service. 
 
-### <h3 id="chapter-13">CHAPTER XIII: REBIRTH, AND THE LETHAL DRINK</h3>
+### <h3 id="chapter-13">Chapter XIII: Rebirth, and the Lethal Drink</h3>
 
 ```
 "Birth is but a sleep and a forgetting.  
@@ -916,7 +916,7 @@ For that reason, then, Siegfried is given the lethal drink the moment he enters 
 
 But each and every one of these important events has left its impress upon his soul, and now it is to be tested: whether that impress has been deep or superficial. Temptation comes to us, life after life, until the treasure laid up in heaven has been tested and tried by temptation on Earth--whether or not it will withstand the moth of corruption. After the Baptism, when the Spirit of Christ had descended into the fleshy body of Jesus, it was taken into the wilderness of temptation to prove its weakness or its strength. And, similarly, after each heavenly experience we must expect to be brought back to Earth, that it may be learned whether we shall stand or fall in the furnace of affliction. 
 
-### <h3 id="chapter-14">CHAPTER XIV: THE TWILIGHT OF THE GODS</h3>
+### <h3 id="chapter-14">Chapter XIV: The Twilight of the Gods</h3>
 
 When Siegfried reaches the court of Gunther, Gutrune, the fair sister of the king hands him the magic cup of forgetfulness. Forthwith, he loses memory of the past and of Brunhilde, the spirit of truth, and stands a naked soul ready to fight the battle of life. But he is armed with the sublimated essence of former experience. The sword of Nothung, the courage of despair, wherewith he fought greed and creed symbolized by Fafner, the dragon, and Wotan the god, is still with him; also Tarncap, or the helmet of illusion, which is an apt symbol of what we in modern times call hypnotic power, for whoever put this magic cap on his head appeared to others in whatever shape he desired; and he has Brunhilde's horse Grane, discernment, whereby he, himself, might always perceive truth and distinguish it from error and illusion. He still has powers which he may use for good or evil according to choice. 
 
@@ -964,9 +964,9 @@ To make the next change safely, a Wedding Garment is required, and it is of utmo
 
 The Germano-Anglo-Saxon race will of course be succeeded by two more before the Sixth Epoch is definitely ushered in, but today, and from our stock, there is being prepared the seed for the New Age. It is exactly the mission of the Rosicrucian Order working through the Rosicrucian Fellowship, to promulgate a scientific method of development suited particularly to the Western people whereby this Wedding Garment may be wrought, so that we may hasten the day of the Lord. 
 
-<h2 id="tannhauser">TANNHAUSER</h2>
+<h2 id="tannhauser">Tannhauser</h2>
 
-### <h3 id="chapter-15">CHAPTER XV: THE PENDULUM OF JOY AND SORROW</h3>
+### <h3 id="chapter-15">Chapter XV: The Pendulum of Joy and Sorrow</h3>
 
 In this drama we deal again with one of the ancient legends. It was given to humanity by the divine Hierarchies who guided us along the path of progress by pictorial terms so that mankind might subconsciously absorb the ideals for which, in later lives, they were to strive. 
 
@@ -1051,7 +1051,7 @@ After awhile he meets a band of minstrels who are walking in the woods, and thes
 
 Hearing that the subject of the song contest is to be love, and furthermore, that the prize will be given to the winner by the hand of the beautiful daughter of the lord, namely Elizabeth, (the lady Tannhauser has loved so ardently and who so inflamed his soul in past days that it drove him to the cave of Venus) he hopes by the ardor with which he is inspired, to induce the beautiful maiden to hear his plaint. As we always reap a harvest of pain whenever we go contrary to the laws of progress, Tannhauser, by this act, is sowing the seed that will one day bring him the harvest of pain he coveted in the cave of Venus. 
 
-### <h3 id="chapter-16">CHAPTER XVI: MINSTRELS, INITIATES OF MIDDLE AGES</h3>
+### <h3 id="chapter-16">Chapter XVI: Minstrels, Initiates of the Middle Ages</h3>
 
 When Tannhauser emerged from the cave of Venus one of the first sounds which greeted him was the chant of a band of pilgrims going to Rome to obtain forgiveness for their sins, and this awakened within him an overpowering sense of his own delinquency. Therefore he kneels and exclaims in deep contrition: 
 
@@ -1188,7 +1188,7 @@ Here we have the true description of the two extremes of love; that of Wolfram b
 
 Even to this day, unfortunately, the ancient idea is entertained that possession is the signature of love. Those who believe in rebirths in alternate sexes, should by this fact be sufficiently convinced that, as the soul is bisexual and our bodies contain rudimentary organs belonging to the opposite sex, so it is no more than proper and just that each human being regardless of the polarity of the present garb, should have the same privileges as the other. 
 
-### <h3 id="chapter-17">CHAPTER XVII: THE UNPARDONABLE SIN</h3>
+### <h3 id="chapter-17">Chapter XVII: The Unpardonable Sin</h3>
 
 During the contest the sublime and heavenly ideals of the companionship of soul with soul, is sung by the majority of the minstrels, and at each presentation there comes from Tannhauser a passionate retort defending the sensual phase of love. At last, enraged at their seeming insipidity, which he regards as sentimental nonsense, he cries, "Go to Venus. She will show you love." 
 
@@ -1218,7 +1218,7 @@ There is a mystic connection between the Cherubim with the flaming sword at the 
 
 There is a very important distinction between innocence and virtue, and what is more important still, is that we should realize the fallacy of the double standard of conduct which gives liberties to or rather condones them in a man, while insisting that one misstep will ruin a woman for life. Were I to choose a wife today, and later learn that her life had been clouded by a mistake for which she had suffered, I should know that such a one had learned to know sorrow, and had engendered compassion and forbearance thereby, and had thus acquired qualities which would make her a better and more sympathetic companion than one who stood "innocent" upon the threshold of life, liable to fall a prey to the first temptation that befell her. 
 
-### <h3 id="chapter-18">CHAPTER XVIII: THE ROD THAT BUDDED</h3>
+### <h3 id="chapter-18">Chapter XVIII: The Rod That Budded</h3>
 
 In the prologue of Faust, God is represented as saying, concerning the hero: 
 
@@ -1257,9 +1257,9 @@ In carrying out this ideal let us remember, however, that suppression of the sex
 
 In this connection it may also be very illuminating to remember that the "Dweller on the Threshold" which we must confront before we can enter the superphysical worlds always has the appearance of a creature of the opposite sex. Yet it seems to be ourselves. It should also be understood that the more licentious or lustful we have been, the worse will be the appearance of this monster, and Parsifal standing before Kundry, when his refusal of compliance has turned her into a virago, is in fact at the very point where the candidate finds himself face to face with the dweller, before the spear is given into his hands. 
 
-<h2 id="lohengrin">LOHENGRIN</h2>
+<h2 id="lohengrin">Lohengrin</h2>
 
-### <h3 id="chapter-19">CHAPTER XIX: THE KNIGHT OF THE SWAN</h3>
+### <h3 id="chapter-19">Chapter XIX: The Knight of the Swan</h3>
 
 Among the operas of Wagner there is, perhaps, none which is so universally enjoyed by the large majority of people who see it, as Lohengrin. This is probably because the story seems, on cursory examination, to be very simple and beautiful. The music is of an unusually exquisite character, which appeals to all in a manner which is not equaled by the author's other operas founded upon myths such as Parsifal, the Ring of the Niebelung, or even Tannhauser. 
 
