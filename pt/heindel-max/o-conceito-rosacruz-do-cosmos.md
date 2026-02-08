@@ -192,48 +192,57 @@ Oceanside, California, 91054, USA
 
 ### <h3 id="creed-or-christ">Credo ou Cristo?</h3>
 
-    Todas as Religiões são dádivas abençoadas de Deus  
-    e Cristo é o Caminho, a Verdade e a Vida.  
-    Por Deus mandado para aliviar o que leva pesado fardo  
-    e dar paz ao triste, ao pecador e ao que luta.  
+```
+Não ama a Deus quem ao semelhante odeia;
+espezinhando-lhe a alma e o coração;
+aquele que algema, nubla ou tolda a mente
+pelo medo do inferno, não entendeu a divina direção.
 
-    Eis que o Espírito Universal veio  
-    a todas as igrejas; não a uma apenas;  
-    no dia de Pentecostes uma língua de chama,  
-    como um halo, brilhou sobre todos os Apóstolos.  
+Todas as religiões são abençoadas e mandadas por Deus;
+e Cristo, o Caminho, a Verdade, a Vida,
+foi enviado por Ele para aliviar o pesado fardo
+do triste, do pecador, dando-lhes a paz pedida.
 
-    Desde então, quais abutres famintos e vorazes,  
-    temos combatido por um nome sem sentido  
-    e procurado, com dogmas, editos, cultos ou credos,  
-    enviar uns aos outros às chamas da fogueira inextinguível.  
+Eis que o Espírito Universal veio
+a todas as igrejas e não a uma somente;
+No dia de Pentecostes, uma língua de chama brilhante
+envolveu cada apóstolo, em um halo cintilante.
 
-    Está Cristo dividido? Foi Cephas ou Paulo  
-    crucificado para salvar o Mundo?  
-    Então, por que tantas divisões?  
-    O amor de Cristo nos envolve a ambos, a mim e a ti.  
+Desde então, como abutres famintos,
+por um nome vão, muitas vezes vamos lutar,
+procurando com dogmas, éditos ou credos,
+uns aos outros às inextinguíveis chamas enviar.
 
-    Seu puro e doce amor não está confinado pelos credos  
-    que separam e elevam muralhas.  
-    Seu amor envolve e abraça toda a humanidade.  
-    Não importa o nome que a Ele ou a nós mesmos, dermos.  
+Cristo então é dois? Foram Cephas, Paulo,
+para salvar o mundo, à cruz pregados?
+Por que então existem, aqui, tantas divisões?
+Se pelo amor de Cristo todos somos abraçados.
 
-    Então, por que não seguimos a Sua palavra?  
-    Por que nos atermos em credos que desunem?  
-    Só uma coisa importa, atentemos:  
-    é que cada coração seja repleto de amor fraternal  
+Seu amor puro e doce não está limitado
+a credos que segregam e muros que levantamos.
+Seu amor envolve todos e abraça a espécie humana
+não importa como a nós ou a Ele O chamamos.
 
-    Só uma coisa o Mundo necessita conhecer:  
-    apenas um bálsamo existe para curar toda a humana dor;  
-    apenas um caminho há que conduz, acima, aos céus:  
-    Este caminho é: a COMPAIXÃO e o AMOR.  
+Por que então não aceitá-Lo na Sua doce palavra?
+Por que manter credos que trazem desuniões?
+Uma só coisa importa e deve ser ouvida!
+Que o amor fraternal encha todos corações.
 
-    Max Heindel
+Mas há ainda uma coisa que o mundo precisa saber;
+há um só bálsamo para toda a humana dor,
+há um só caminho que conduz ao céu,
+este caminho é a solidariedade humana e o amor.
+
+- Max Heindel
+```
 
 ### <h3 id="a-word-to-the-wise">Uma palavra ao sábio</h3>
 
 O fundador da Religião Cristã emitiu uma máxima oculta quando disse: “Quem não receber o Reino de Deus como uma criança, não entrará nele” (Mc 10:15). Todos os ocultistas reconhecem a imensa importância desse ensinamento de Cristo, e tratam de “vivê-lo” dia a dia.
 
-Quando uma nova filosofia se apresenta ao Mundo é encarada de forma diferente pelas mais diversas pessoas. Algumas se apoderam avidamente de qualquer novo esforço filosófico, procurando ver em que proporção ele serve de apoio às suas próprias ideias. Para essas a filosofia em si mesma é de pouca valia. Terá valor se reforçar as SUAS ideias. Se a obra os satisfizer a esse respeito, adotá-la-ão entusiasticamente, a ela aderindo com o mais desarrazoado partidarismo. Caso contrário, afastarão o livro, aborrecidos e desapontados como se o autor os tivesse ofendido pessoalmente.
+Quando uma nova filosofia se apresenta ao Mundo é encarada de forma diferente pelas mais diversas pessoas. 
+
+Algumas se apoderam avidamente de qualquer novo esforço filosófico, procurando ver em que proporção ele serve de apoio às suas próprias ideias. Para essas a filosofia em si mesma é de pouca valia. Terá valor se reforçar as SUAS ideias. Se a obra os satisfizer a esse respeito, adotá-la-ão entusiasticamente, a ela aderindo com o mais desarrazoado partidarismo. Caso contrário, afastarão o livro, aborrecidos e desapontados como se o autor os tivesse ofendido pessoalmente.
 
 Outras adotam uma atitude cética tão logo descobrem que a obra contém alguma coisa a cujo respeito nada leram nem ouviram anteriormente, ou sobre a qual ainda não lhes ocorrera pensar. E, provavelmente, repelirão como extremamente injustificável a acusação de que sua atitude mental é o cúmulo da autossatisfação e da intolerância. Contudo, esse é o caso, e desse modo fecham suas Mentes à verdade que eventualmente possa estar contida naquilo no que rejeitam.
 
@@ -253,13 +262,11 @@ Dizer que essa exposição é infalível seria o mesmo que pretender que o autor
 
 A Fraternidade Rosacruz tem a concepção mais lógica e ampla sobre o mistério do mundo, e a tal respeito o autor adquiriu algum conhecimento durante os muitos anos que consagrou exclusivamente ao estudo do assunto. Pelo que pôde investigar por si próprio, os ensinamentos desse livro estão de acordo com os fatos tais como ele os conhece. Todavia, tem a convicção de que o Conceito Rosacruz do Cosmos está longe de ser a última palavra sobre esse assunto e de que, à medida que avançamos, se apresentam aos nossos olhos novos aspectos e se esclarecem muitas coisas que, antes, só víamos “como em espelho, obscuramente”[1]. Ao mesmo tempo crê firmemente que todas as outras filosofias do futuro seguirão as linhas mestras dessa filosofia, por lhe parecerem absolutamente certas.
 
+() - [1] N.T.: ICor 13:12
+
 Ante o exposto, compreender-se-á claramente que o autor não considera essa obra como o Alfa e o Ômega, ou o máximo do conhecimento oculto. Embora tenha por título “O Conceito Rosacruz do Cosmos”, deseja o autor salientar com firmeza que essa filosofia não deve ser entendida como uma “crença entregue de uma vez para sempre” aos Rosacruzes pelo fundador da Ordem ou por qualquer outro indivíduo. Convém enfatizar que essa obra encerra apenas a compreensão do autor sobre os Ensinamentos Rosacruzes relativos ao mistério do mundo, revigorados por suas investigações pessoais nos mundos internos, a respeito dos estados pré-natal e pós-morte do ser humano, etc. O autor tem plena consciência da responsabilidade em que incorre quem, bem ou mal, guia intencionalmente a outrem, desejando ele se precaver contra tal contingência e, também, prevenir aos outros para que não venham a errar.
 
 O que nessa obra se afirma deve ser aceito ou rejeitado pelo leitor segundo o seu próprio critério. se pôs todo o empenho em tornar compreensíveis os ensinamentos e foi necessário muito trabalho para poder expressá-los em palavras de fácil compreensão. Por esse motivo, em toda a obra se usa o mesmo termo para expressar a mesma ideia. A mesma palavra tem o mesmo significado em qualquer parte. Quando pela primeira vez o autor emprega uma palavra que expressa determinada ideia, apresenta a definição mais clara que lhe foi possível encontrar. Empregando as palavras mais simples e expressivas, o autor cuidou constantemente de apresentar descrições tão exatas e definidas quanto lhe permitia o assunto em apreço, a fim de eliminar qualquer ambiguidade e para apresentar tudo com clareza. O Estudante poderá julgar em que extensão o autor logrou o seu intento. Entretanto, tendo-se esforçado o possível para sugerir as ideias verdadeiras, se considera também na obrigação de se defender da possibilidade de a obra vir a ser considerada como uma exposição literal dos Ensinamentos Rosacruzes. Sem essa recomendação esse trabalho teria mais valor para alguns Estudantes, mas isto não seria justo nem para a Fraternidade nem para o leitor. Poder-se-ia manifestar certa tendência para atribuir à Fraternidade a responsabilidade dos erros que nesse trabalho, como em toda obra humana, possam ocorrer. Daí a razão dessa advertência.
-
-Segundo uma narrativa hindu, aquele que tenha duas linhas semicirculares na palma da mão, na articulação exterior do polegar “leva consigo um grão de arroz”. Isto quer dizer que será bem recebido e hospitaleiramente tratado aonde quer que vá. O autor tem o sinal mencionado e, no seu caso, o prognóstico se cumpriu maravilhosamente. Em todos os lugares encontrou amigos, e por eles foi bem tratado. O mesmo aconteceu com o “Conceito Rosacruz do Cosmos”. A Dra. Alma Von Brandis facilitou os meios para a primeira aproximação com os Ensinamentos Rosacruzes. Comandante Kingsmill e Jessie Brewster auxiliaram-no lealmente na parte literária, Mrs. M. E. Rath Merril e Miss Allen Merril executaram certo número de desenhos, e quanto a Wm. M. Patterson não só prestou ao autor serviços pessoais, mas ainda prestou o seu auxílio financeiro para que esse livro pudesse ser oferecido pelo preço de custo. Esse trabalho foi, portanto, produzido com Amor. Ninguém, com ele relacionado, recebeu e deve receber um centavo de recompensa. Todos, desinteressadamente, deram tempo e dinheiro. Portanto, o autor deseja expressar todo o reconhecimento a eles, esperando que venham a encontrar outras e maiores oportunidades de exercerem os seus préstimos com igual desinteresse.
-
-Max Heindel
 
 Acréscimo nas Edições Posteriores: Durante os quatro anos decorridos, desde que foram escritos os parágrafos anteriores, o autor continuou suas investigações nos Mundos invisíveis e experimentou a expansão de consciência relativa a esses Reinos da natureza, o que se consegue mediante a prática dos preceitos ensinados pela Escola de Mistérios do Ocidente. Outros que também seguiram o método de desenvolvimento anímico aqui prescrito, e particularmente apropriado aos povos ocidentais, de igual modo foram capazes de constatar, por si mesmos, muitas das coisas expostas nessa obra. Desse modo o autor teve certa confirmação do que compreendera dos ensinamentos ditados pelos Irmãos Maiores, lhe parecendo que esses ensinamentos foram substancialmente corretos, pelo que se julga no dever de dar essa explicação para que sirva de estímulo aos que ainda não são capazes de ver por si próprios.
 
@@ -267,9 +274,9 @@ Seria mais exato dizer que o Corpo Vital é formado por prismas em vez de pontos
 
 Fizeram-se outras novas e importantes descobertas. Por exemplo: sabemos agora que em cada vida nasce um novo Cordão Prateado; que uma parte desse Cordão Prateado surge do Átomo-semente do Corpo de Desejos, situado no grande vórtice do fígado; que a outra parte surge do Átomo-semente do Corpo Denso, no coração; que as duas partes se encontram no Átomo-semente do Corpo Vital no Plexo Solar[2], e que essa união dos veículos superiores com os inferiores produz o despertar do feto. O desenvolvimento ulterior do Cordão entre o coração e o Plexo Solar, durante os primeiros sete anos, tem importante relação com o mistério da infância, assim como o seu maior desenvolvimento, do fígado ao Plexo Solar, que ocorre no segundo período setenário, é fator contribuinte para a adolescência. A formação total do Cordão Prateado marca o fim da vida infantil. A partir desse momento a energia solar que entra pelo baço, e que se cobre pela refração através do Átomo-semente prismático do Corpo Vital situado no Plexo Solar, começa a dar um colorido individual e característico à aura que observamos nos adultos.
 
-[1] N.T.: ICor 13:12
+() - [2] N.T.: Também chamado de Plexo Celíaco (vulgarmente conhecido como “boca do estômago”), um dos principais plexos responsáveis pela inervação de órgãos da porção retrodiafragmática do sistema digestório, principalmente do estômago, intestinos, glândulas anexas (fígado e pâncreas) e ainda contribui para a inervação do baço.
 
-[2] N.T.: Também chamado de Plexo Celíaco (vulgarmente conhecido como “boca do estômago”), um dos principais plexos responsáveis pela inervação de órgãos da porção retrodiafragmática do sistema digestório, principalmente do estômago, intestinos, glândulas anexas (fígado e pâncreas) e ainda contribui para a inervação do baço.
+<h2 id="part-1">Primeira Parte – Constituição atual do ser humano e o método do seu desenvolvimento</h2>
 
 ### <h3 id="introduction">Introdução</h3>
 
@@ -278,6 +285,8 @@ O mundo ocidental é, sem dúvida, a vanguarda da Raça humana e, por motivos qu
 Buda, grande e sublime, pode ser a “Luz da Ásia”, mas Cristo ainda será reconhecido como a “Luz do Mundo”. Assim como o Sol ofusca a luz das mais brilhantes estrelas nos céus e dissipa todo o vestígio de trevas, iluminando e vivificando todos os seres, assim, em futuro não muito distante, a verdadeira Religião de Cristo há de superar e anular todas as outras Religiões, para eterno benefício da Humanidade.
 
 Em nossa civilização, o abismo que se abre entre a Mente e o Coração se torna maior e mais profundo e, enquanto a Mente voa de uma à outra descoberta nos domínios da ciência, o abismo se aprofunda e se amplia ainda mais, ficando o Coração cada vez mais distante. A Mente busca com ansiedade e se satisfaz apenas com explicações materialmente demonstráveis acerca do ser humano e demais seres do Mundo fenomenal. O Coração sente instintivamente que algo de maior existe, e anela por aquilo que pressente como verdade de ordem tão elevada que só pode ser compreendida pela Mente. A Alma humana subiria nas asas etéreas da intuição e banhar-se-ia na eterna fonte de luz espiritual e amor; mas os modernos pontos de vista científicos lhe cortaram as asas, deixando-a acorrentada e silenciosa, atormentada por aspirações insatisfeitas, tal como o abutre em relação ao fígado de Prometeu[1].
+
+() - [1] N.T.: Segundo Hesíodo foi dada a Prometeu e a seu irmão Epimeteu a tarefa de criar os homens e todos os animais. Epimeteu se encarregou da obra e Prometheus se encarregou de supervisioná-la. Na obra, Epimeteu atribuiu a cada animal os dons variados de coragem, força, rapidez, sagacidade; asas a um, garras outro, uma carapaça protegendo um terceiro, etc. Porém, quando chegou a vez do homem, formou-o do barro. Mas como Epimeteu gastou todos os recursos nos outros animais, recorreu a seu irmão Prometeu. Este então roubou o fogo dos deuses e deu-o aos homens. Isto assegurou a superioridade dos homens sobre os outros animais. Todavia o fogo era exclusivo dos deuses. Como castigo a Prometeu, Zeus ordenou a Hefesto que o acorrentasse no cume do monte Cáucaso, onde todos os dias uma águia (ou abutre) dilacerava seu fígado que, todos os dias, regenerava-se. Esse castigo devia durar 30 000 anos.
 
 É necessário que seja assim? Não haverá um terreno comum onde possam se encontrar “Cabeça” e “Coração”, a fim de que, se ajudando mutuamente, possam se tornar mais eficientes na investigação da verdade universal, se satisfazendo por igual?
 
@@ -302,6 +311,8 @@ Todavia, se pelo estudo e prática eles são considerados aptos a emitir parecer
 O testemunho irrefutável de tal perito vale muitíssimo mais do que o de uma dezena ou o de um milhão de pessoas que nada sabem do assunto, posto que o nada mesmo quando multiplicado por um milhão, sempre resulta em nada. Isto é tão certo em matemática como em qualquer outro assunto.
 
 Como já afirmamos, acatamos prontamente argumentos dessa natureza quando se referem a assuntos materiais, mas quando se discutem coisas acima do Mundo dos sentidos[2], coisas sobre os Mundos suprafísicos, ou quando se tem de demonstrar as relações entre Deus e o ser humano, e explicar os mistérios mais íntimos da divina centelha imortal impropriamente chamada Alma, todos esperam que suas opiniões sejam ouvidas, que se dê toda consideração às suas ideias sobre coisas espirituais. E que lhes conceda tanto valor como às emitidas pelo sábio o qual, mediante uma vida paciente e laboriosa investigação, adquiriu sabedoria de tão elevadas coisas.
+
+() - [2] N.R.: Região Química do Mundo Físico
 
 Ainda mais, muitos não se contentarão em pedir igual mérito às próprias opiniões, mas tentarão até escarnecer e ridicularizar as palavras do sábio, buscando impugnar o seu testemunho como fraudulento e, com a suprema confiança da mais profunda ignorância, afirmarão que como eles nada sabem sobre tal assunto é também absolutamente impossível que qualquer outra pessoa o saiba.
 
@@ -329,15 +340,9 @@ Esse é o primeiro e fundamental requisito que todo Aspirante ao conhecimento oc
 
 Sem possuir tais qualificações – especialmente a última – em certa medida, qualquer tentativa para seguir o caminho árduo do ocultismo seria um empreendimento perigoso. Outro pré-requisito para aspirar ao conhecimento direto é o estudo do ocultismo indiretamente. A investigação direta requer certos poderes ocultos que permitem estudar os assuntos relacionados com os estados pré-natal e pós-morte do ser humano, mas ninguém deve se desesperar por não ter desenvolvido ainda poderes ocultos para adquirir conhecimento direto sobre esses assuntos. Assim como uma pessoa pode conhecer a África indo lá pessoalmente ou lendo as descrições de viajantes que ali estiverem, assim também, para conhecer os Mundos suprafísicos, visita-os, se estiver habilitado para fazê-lo, ou estuda o que outros já capacitados contam como resultado de suas investigações.
 
-Cristo disse: “a Verdade vos libertará”, mas a Verdade não é encontrada de uma vez e para sempre. A Verdade é eterna e eterna deve ser a sua busca. O ocultismo desconhece qualquer “crença transmitida de uma vez e para sempre”. Há certas verdades básicas que permanecem, mas que podem ser encaradas sob diversos ângulos, cada um apresentando um aspecto diferente que complementa os anteriores. Portanto, naquilo que até o presente podemos saber, não há meio possível de se chegar a última Verdade. Embora essa obra seja diferente de outras obras filosóficas, as diferenças resultam de pontos de vista também diferentes. Contudo, respeitosamente nos inclinamos ante as ideias e conclusões emitidas por outros investigadores. É sincero desejo do autor que o estudo das páginas seguintes possa tornar as ideias dos Estudantes mais completas e amplas do que eram antes.
+Cristo disse: “a Verdade vos libertará”, mas a Verdade não é encontrada de uma vez e para sempre. A Verdade é eterna e eterna deve ser a sua busca. O ocultismo desconhece qualquer “crença transmitida de uma vez e para sempre”. Há certas verdades básicas que permanecem, mas que podem ser encaradas sob diversos ângulos, cada um apresentando um aspecto diferente que complementa os anteriores. Portanto, naquilo que até o presente podemos saber, não há meio possível de se chegar a última Verdade. 
 
-[1] N.T.: Segundo Hesíodo foi dada a Prometeu e a seu irmão Epimeteu a tarefa de criar os homens e todos os animais. Epimeteu se encarregou da obra e Prometheus se encarregou de supervisioná-la. Na obra, Epimeteu atribuiu a cada animal os dons variados de coragem, força, rapidez, sagacidade; asas a um, garras outro, uma carapaça protegendo um terceiro, etc. Porém, quando chegou a vez do homem, formou-o do barro. Mas como Epimeteu gastou todos os recursos nos outros animais, recorreu a seu irmão Prometeu. Este então roubou o fogo dos deuses e deu-o aos homens. Isto assegurou a superioridade dos homens sobre os outros animais. Todavia o fogo era exclusivo dos deuses. Como castigo a Prometeu, Zeus ordenou a Hefesto que o acorrentasse no cume do monte Cáucaso, onde todos os dias uma águia (ou abutre) dilacerava seu fígado que, todos os dias, regenerava-se. Esse castigo devia durar 30 000 anos.
-
-[2] N.R.: Região Química do Mundo Físico
-
-*********************************************************************
-
-<h2 id="part-1">Primeira Parte – Constituição atual do ser humano e o método do seu desenvolvimento</h2>
+Embora essa obra seja diferente de outras obras filosóficas, as diferenças resultam de pontos de vista também diferentes. Contudo, respeitosamente nos inclinamos ante as ideias e conclusões emitidas por outros investigadores. É sincero desejo do autor que o estudo das páginas seguintes possa tornar as ideias dos Estudantes mais completas e amplas do que eram antes.
 
 ### <h3 id="chapter-1">Capítulo I – Os Mundos: Visível e Invisíveis</h3>
 
@@ -369,43 +374,41 @@ No entanto, isto não é tudo. Para se compreender o Mundo Físico que é o Mund
 
 Se colocarmos um prato de água gelada numa atmosfera de baixíssima temperatura, logo começarão a se formar cristais de gelo e poderemos observar o processo da formação desses cristais. As linhas em que a água se cristaliza foram, durante todo o tempo, linhas de força invisíveis até o momento do congelamento da água. As maravilhosas “flores de gelo”[1] em uma vidraça são manifestações visíveis das correntes dos Mundos superiores que atuam constantemente sobre nós e, embora ignoradas pela maioria, nem por isso são menos poderosas.
 
+() - [1] N.T.: também chamado de “flores de geada” são formações também são conhecidas como faces de gelo, castelos de gelo ou cristalofolia. Tipos de flores de geada incluem: gelo agulha, pilares de geada ou colunas de geada, extrudados de poros no solo e fitas de gelo, geada de coelho ou gelo de coelho, extrudados de fissuras lineares em caules de plantas. Embora o termo “flor de gelo” também seja usado como sinônimo de fitas de gelo, também pode ser usado para descrever o fenômeno não relacionado da geada da janela. são finas camadas (talvez da espessura de um cartão de crédito) de gelo que são extrudadas através de fendas dos caules de plantas brancas ou amarelas, entre outras. Sua formação requer temperatura do ar congelante, solo úmido ou úmido, mas não congelado, e caule de uma planta que não tenha sido previamente congelado. (Praticamente falando, um evento uma vez por ano, embora nem todos os indivíduos produzam flores de geada no primeiro dia de boas condições). A água no caule da planta é puxada para cima por ação capilar do solo. Ele se expande à medida que congela e divide o caule verticalmente e congela em contato com o ar. À medida que mais água é retirada do solo através da divisão, ela expeli uma camada de gelo fina como papel para mais longe do caule. O comprimento da divisão determina se a flor da geada é uma faixa estreita ou larga de gelo. Ele se enrola de forma imprevisível à medida que é extrudado, talvez por atrito desigual ao longo dos lados da divisão, para formar “pétalas”. Essas flores, não há duas iguais, são frágeis e duram apenas até sublimarem ou derreterem.
+
 Os Mundos superiores são, portanto, os mundos das causas, das forças, de forma que não poderemos compreender bem esse Mundo inferior[2] sem conhecer os outros e sem compreender as forças e as causas, das quais todas as coisas materiais são meros efeitos.
+
+() - [2] N.T.: a Região Química do Mundo Físico
 
 Tais Mundos superiores, comparada a sua realidade com a do Mundo Físico, são na verdade, por estranho que pareça muito mais reais, e embora para a maioria sejam miragens, ou pelo menos pouco substanciais, certo é serem os objetos que neles se encontram muito mais permanentes e indestrutíveis do que os objetos do Mundo Físico. Isto será facilmente compreendido por meio de um exemplo. Na construção de uma casa, o arquiteto não começa adquirindo ao acaso os materiais necessários, e contratando os trabalhadores para levantarem-na, sem previamente idealizar ou traçar um plano de construção. Primeiramente ele “idealiza a casa”, que gradualmente assume uma forma em sua Mente. Finalmente surge uma ideia clara da casa, isto é, um pensamento-forma da casa.
 
 A casa é ainda invisível para todos, menos para o arquiteto, que a torna objetiva no papel. Ele desenha o plano, e por meio dessa imagem objetiva do seu pensamento-forma os trabalhadores constroem a casa de madeira, de ferro, ou de pedra, exatamente de acordo com esse pensamento-forma originado pelo arquiteto. Assim o pensamento-forma se converte em realidade material.
 
-O materialista afirmará que a casa construída é muito mais real, durável e substancial que sua imagem criada na Mente do arquiteto. No entanto, vejamos: A casa não poderia ter sido construída sem esse pensamento-forma. O objeto material pode ser destruído pela dinamite, pelo terremoto, pelo fogo ou pelo tempo, mas o pensamento-forma subsistirá. Subsistirá enquanto o arquiteto viver, e por meio desse pensamento poderão ser construídas inúmeras casas iguais àquela que foi destruída. Nem mesmo o próprio arquiteto poderia destruí-lo, pois até depois de sua morte esse seu pensamento-forma pode ser recuperado por aquele que, suficientemente desenvolvido, seja capaz de ler na Memória da Natureza, da qual nos ocuparemos mais adiante. Visto, portanto quanto é razoável a existência de tais Mundos, que existem em volta e perto de nós, convencidos de sua realidade, de sua permanência e da utilidade de um conhecimento acerca deles, examinemo-los distinta e separadamente, começando pelo Mundo Físico.
+O materialista afirmará que a casa construída é muito mais real, durável e substancial que sua imagem criada na Mente do arquiteto. No entanto, vejamos: A casa não poderia ter sido construída sem esse pensamento-forma. O objeto material pode ser destruído pela dinamite, pelo terremoto, pelo fogo ou pelo tempo, mas o pensamento-forma subsistirá. Subsistirá enquanto o arquiteto viver, e por meio desse pensamento poderão ser construídas inúmeras casas iguais àquela que foi destruída. Nem mesmo o próprio arquiteto poderia destruí-lo, pois até depois de sua morte esse seu pensamento-forma pode ser recuperado por aquele que, suficientemente desenvolvido, seja capaz de ler na Memória da Natureza, da qual nos ocuparemos mais adiante. 
 
-[1] N.T.: também chamado de “flores de geada” são formações também são conhecidas como faces de gelo, castelos de gelo ou cristalofolia. Tipos de flores de geada incluem: gelo agulha, pilares de geada ou colunas de geada, extrudados de poros no solo e fitas de gelo, geada de coelho ou gelo de coelho, extrudados de fissuras lineares em caules de plantas. Embora o termo “flor de gelo” também seja usado como sinônimo de fitas de gelo, também pode ser usado para descrever o fenômeno não relacionado da geada da janela. são finas camadas (talvez da espessura de um cartão de crédito) de gelo que são extrudadas através de fendas dos caules de plantas brancas ou amarelas, entre outras. Sua formação requer temperatura do ar congelante, solo úmido ou úmido, mas não congelado, e caule de uma planta que não tenha sido previamente congelado. (Praticamente falando, um evento uma vez por ano, embora nem todos os indivíduos produzam flores de geada no primeiro dia de boas condições). A água no caule da planta é puxada para cima por ação capilar do solo. Ele se expande à medida que congela e divide o caule verticalmente e congela em contato com o ar. À medida que mais água é retirada do solo através da divisão, ela expeli uma camada de gelo fina como papel para mais longe do caule. O comprimento da divisão determina se a flor da geada é uma faixa estreita ou larga de gelo. Ele se enrola de forma imprevisível à medida que é extrudado, talvez por atrito desigual ao longo dos lados da divisão, para formar “pétalas”. Essas flores, não há duas iguais, são frágeis e duram apenas até sublimarem ou derreterem.
-
-[2] N.T.: a Região Química do Mundo Físico
-
-*******
+Visto, portanto quanto é razoável a existência de tais Mundos, que existem em volta e perto de nós, convencidos de sua realidade, de sua permanência e da utilidade de um conhecimento acerca deles, examinemo-los distinta e separadamente, começando pelo Mundo Físico.
 
 #### <h4 id="chemical-region-of-the-physical-world">A Região Química do Mundo Físico</h4>
 
 Nos Ensinamentos Rosacruzes, o Universo divide-se em sete diferentes Mundos ou estados de matéria, a saber:
 
+```
 1. Mundo de Deus
-
 2. Mundo dos Espíritos Virginais
-
 3. Mundo do Espírito Divino
-
 4. Mundo do Espírito de Vida
-
 5. Mundo do Pensamento
-
 6. Mundo do Desejo
-
 7. Mundo Físico
+```
 
 Essa divisão não é arbitrária, mas necessária, porque a substância de cada um desses Mundos está sujeita às leis que são praticamente inoperantes nos outros. Por exemplo, no Mundo Físico a matéria está sujeita à gravidade, à contração e à expansão. No Mundo do Desejo não existem frio nem calor, e as formas levitam tão facilmente como gravitam. Distância e tempo são fatores predominantes no Mundo Físico, mas quase inexistentes no Mundo do Desejo.
 
 A matéria desses Mundos varia em densidade também, sendo o Mundo Físico o mais denso dos sete.
 
-Cada Mundo subdivide-se em sete Regiões, ou subdivisões de matéria. No Mundo Físico os sólidos, os líquidos e os gases formam as três subdivisões mais densas, e as quatro restantes são constituídas por Éteres de densidades variadas. Nos outros Mundos são necessárias subdivisões idênticas porque a densidade da matéria de que são compostos não é uniforme.
+Cada Mundo subdivide-se em sete Regiões, ou subdivisões de matéria. 
+
+No Mundo Físico os sólidos, os líquidos e os gases formam as três subdivisões mais densas, e as quatro restantes são constituídas por Éteres de densidades variadas. Nos outros Mundos são necessárias subdivisões idênticas porque a densidade da matéria de que são compostos não é uniforme.
 
 Há ainda duas distinções a fazer. As três subdivisões densas do Mundo Físico (sólidos, líquidos e gases) constituem o que se chama de Região Química. A substância dessa Região é a base de todas as Formas densas.
 
@@ -429,8 +432,6 @@ Agora, é quase certo haver necessidade de novas modificações antes que a máq
 
 Isto se aplica, igualmente, a todas as condições da vida: sociais, comerciais e filantrópicas. Muitos projetos, parecendo excelentes a quem os concebe e continuando a parecer bons quando trasladados para o papel, ao serem experimentados na prática frequentemente falham. Isto, porém, não deve desanimar-nos. É certo que “aprendemos mais com os nossos erros do que com os nossos êxitos”. Devemos, pois contemplar o Mundo Físico através da luz apropriada; considerá-lo uma valiosa escola de experiências, onde aprendemos lições da mais alta importância.
 
-*******
-
 #### <h4 id="etheric-region-of-the-physical-world">A Região Etérica do Mundo Físico</h4>
 
 Logo que entramos nesse Reino da Natureza, estamos num Mundo invisível e intangível, onde os nossos sentidos comuns são inoperantes. Daí ser essa parte do Mundo Físico praticamente inexplorável pela ciência material.
@@ -441,27 +442,27 @@ Por certo são maravilhosas as conquistas da ciência moderna. Contudo, a melhor
 
 Para o Clarividente exercitado o Éter é tão tangível como os sólidos, os líquidos e os gases da Região Química o são para o ser humano comum. Ele vê as forças vitais – que dão vida às formas minerais, vegetais, animais e humanas – fluindo nestas formas por meio de quatro estados de Éter. Os nomes e funções específicas desses quatro Éteres são os seguintes:
 
--Éter Químico: Esse Éter é, simultaneamente, positivo e negativo em suas manifestações. As forças que produzem a assimilação e a excreção agem por seu intermédio. Assimilação é o processo por meio do qual os diferentes elementos nutritivos do alimento são incorporados no Corpo da planta, do animal ou do ser humano. Essa operação é levada a efeito por forças que conheceremos mais adiante. Elas agem pelo polo positivo do Éter Químico, atraindo os elementos necessários e modelando-os em formas apropriadas. Tais forças não atuam cega ou mecanicamente, mas de modo seletivo (muito conhecido dos cientistas por seus efeitos), realizando assim o seu propósito, que é o crescimento e a manutenção do Corpo. A excreção é efetuada por forças da mesma espécie, mas atuantes pelo polo negativo do Éter Químico. Por meio desse polo são expelidos do Corpo os materiais que, contidos no alimento, são impróprios para o seu uso ou que, tendo prestado toda a utilidade ao organismo, devem ser eliminados do sistema. Estes processos, como todos os independentes da vontade humana, são também sábios, seletivos e não exclusivamente mecânicos em sua atuação, o que se pode verificar, por exemplo, na ação dos rins. Quando estes órgãos estão sadios só a urina é filtrada, mas sabe-se que quando estão doentes a valiosa albumina escapa também com a urina. Assim, não há seleção apropriada em consequência dessa condição anormal.
+(1) Éter Químico: Esse Éter é, simultaneamente, positivo e negativo em suas manifestações. As forças que produzem a assimilação e a excreção agem por seu intermédio. Assimilação é o processo por meio do qual os diferentes elementos nutritivos do alimento são incorporados no Corpo da planta, do animal ou do ser humano. Essa operação é levada a efeito por forças que conheceremos mais adiante. Elas agem pelo polo positivo do Éter Químico, atraindo os elementos necessários e modelando-os em formas apropriadas. Tais forças não atuam cega ou mecanicamente, mas de modo seletivo (muito conhecido dos cientistas por seus efeitos), realizando assim o seu propósito, que é o crescimento e a manutenção do Corpo. 
 
--Éter de Vida: Assim como o Éter Químico é o meio que possibilita a ação das forças que mantêm a forma individual, assim também o Éter de Vida é o meio pelo qual atuam as forças de propagação, cujo objetivo é a manutenção das espécies.
+A excreção é efetuada por forças da mesma espécie, mas atuantes pelo polo negativo do Éter Químico. Por meio desse polo são expelidos do Corpo os materiais que, contidos no alimento, são impróprios para o seu uso ou que, tendo prestado toda a utilidade ao organismo, devem ser eliminados do sistema. Estes processos, como todos os independentes da vontade humana, são também sábios, seletivos e não exclusivamente mecânicos em sua atuação, o que se pode verificar, por exemplo, na ação dos rins. Quando estes órgãos estão sadios só a urina é filtrada, mas sabe-se que quando estão doentes a valiosa albumina escapa também com a urina. Assim, não há seleção apropriada em consequência dessa condição anormal.
+
+(2) Éter de Vida: Assim como o Éter Químico é o meio que possibilita a ação das forças que mantêm a forma individual, assim também o Éter de Vida é o meio pelo qual atuam as forças de propagação, cujo objetivo é a manutenção das espécies.
 
 Como o Éter Químico, esse Éter tem também seus polos positivo e negativo. As forças que trabalham pelo polo positivo são aquelas que atuam na fêmea durante o período de gestação, capacitando-a para o trabalho ativo e positivo de formação de um novo ser. Por outro lado, as forças que trabalham pelo polo negativo do Éter de Vida dão ao macho a capacidade de produzir o sêmen.
 
 No trabalho de impregnação dos óvulos animal e humano, bem como no da semente da planta, as forças que atuam pelo polo positivo do Éter de Vida produzem plantas, animais e seres humanos do sexo masculino, enquanto as forças que se expressam pelo polo negativo geram fêmeas.
 
--Éter de Luz: Esse Éter é também positivo e negativo. As forças que atuam pelo seu polo positivo são as que geram o calor do sangue nos animais superiores e no ser humano, convertendo-os em fontes individuais de calor. As forças que atuam pelo seu polo negativo operam através dos sentidos, se manifestando como funções passivas de visão, audição, tato, olfato e paladar. São também as que constroem e nutrem os olhos.
+(3) Éter de Luz: Esse Éter é também positivo e negativo. As forças que atuam pelo seu polo positivo são as que geram o calor do sangue nos animais superiores e no ser humano, convertendo-os em fontes individuais de calor. As forças que atuam pelo seu polo negativo operam através dos sentidos, se manifestando como funções passivas de visão, audição, tato, olfato e paladar. São também as que constroem e nutrem os olhos.
 
 Nos animais de sangue frio, o polo positivo do Éter de Luz é o veículo das forças que fazem circular o sangue. Quanto às forças negativas, estas atuam do mesmo modo que nos animais superiores ou no ser humano com relação aos olhos. Onde estes não existem, as forças que trabalham pelo polo negativo do Éter de Luz, possivelmente, constroem e nutrem outros órgãos sensoriais, conforme o faz em tudo o que possui tais órgãos.
 
 Nas plantas, as forças que atuam pelo polo positivo desse Éter de Luz produzem a circulação da seiva. Portanto no inverno, quando o Éter de Luz carece de Luz solar, a seiva deixa de fluir, até que o Sol do verão volte a recarregá-lo com sua força. As forças que atuam pelo polo negativo do Éter de Luz formam a clorofila – a substância verde das plantas – e, também, cobrem as flores. Numa palavra, todas as cores de qualquer Reino da Natureza são criadas mediante a ação do polo negativo do Éter de Luz. Por esse motivo os animais têm as cores mais acentuadas no dorso, e as flores as têm no lado mais exposto à luz solar. Nas regiões polares da Terra, onde os raios do Sol são mais fracos, todas as cores são atenuadas. No caso de alguns animais elas se acham tão parcamente formadas que no inverno chegam a desaparecer, ficando brancos esses animais.
 
--Éter Refletor: Afirmamos, anteriormente, que a ideia de uma casa, que existia como imagem mental, pode ser recuperada da Memória da Natureza mesmo após a morte do arquiteto. Todo acontecimento deixa, depois de si, sua imagem indelével nesse Éter Refletor. Assim como os gigantescos fetos da infância da Terra deixaram suas marcas no carvão petrificado, e tal como a marcha de uma geleira de eras remotas pode ser determinada pelos sinais que deixou nas rochas, assim também os pensamentos e atos de todos os seres humanos são gravados indelevelmente pela Natureza nesse Éter Refletor, onde o vidente treinado pode ler a história de cada um com exatidão proporcional à sua habilidade.
+(4) Éter Refletor: Afirmamos, anteriormente, que a ideia de uma casa, que existia como imagem mental, pode ser recuperada da Memória da Natureza mesmo após a morte do arquiteto. Todo acontecimento deixa, depois de si, sua imagem indelével nesse Éter Refletor. Assim como os gigantescos fetos da infância da Terra deixaram suas marcas no carvão petrificado, e tal como a marcha de uma geleira de eras remotas pode ser determinada pelos sinais que deixou nas rochas, assim também os pensamentos e atos de todos os seres humanos são gravados indelevelmente pela Natureza nesse Éter Refletor, onde o vidente treinado pode ler a história de cada um com exatidão proporcional à sua habilidade.
 
 Por mais de uma razão o Éter Refletor é assim denominado, pois as imagens nele encontradas são apenas reflexos da Memória da Natureza. A verdadeira Memória da Natureza se encontra em Reino muito mais elevado. Nenhum Clarividente muito desenvolvido se preocupa em ler esse Éter, que apresenta imagens nebulosas e vagas comparadas com as do Reino superior. Nesse Éter Refletor leem os que não têm escolha, os que na realidade não sabem em que estão lendo. Como de regra, os psicômetras e os médiuns obtêm suas informações nesse Éter. Até certo ponto o Estudante das escolas ocultistas, nos primeiros estágios do seu desenvolvimento, também investiga nesse Éter Refletor, mas é prevenido pelo instrutor da insuficiência do mesmo como meio de adquirir informações corretas, o que evita que ele venha a tirar conclusões erradas.
 
 Esse Éter é também o meio pelo qual o pensamento impressiona o cérebro humano. Está intimamente relacionado com a quarta subdivisão do Mundo do Pensamento, a mais elevada das quatro subdivisões contidas na Região do Pensamento Concreto – a pátria da Mente humana. Ali se encontra uma versão muito mais clara da Memória da Natureza do que no Éter Refletor.
-
-*******
 
 #### <h4 id="the-desire-world">O Mundo do Desejo</h4>
 
@@ -476,6 +477,8 @@ Embora seja certo que a matéria do Mundo do Desejo é um grau menos densa do qu
 Embora a montanha e a margarida, o ser humano, o cavalo e uma barra de ferro sejam compostos de uma única e final substância atômica, isto não quer significar que a margarida seja uma forma de ferro mais sutil. Semelhantemente, é impossível explicar com palavras a mudança ou diferença que ocorre na matéria física quando convertida em matéria de desejos. Se não houvesse tal diferença, a última estaria sujeita às leis do Mundo Físico, o que de fato não acontece.
 
 A lei que rege a matéria da Região Química é a da inércia, ou seja, a tendência a permanecer em status quo. É necessária certa soma de força para se vencer essa inércia e se movimentar um Corpo em repouso, ou para se deter outro que esteja em movimento. Tal não acontece com a matéria do Mundo do Desejo. Essa matéria em si própria é quase vivente. Está em movimento incessante, fluídico, tomando todas as formas imagináveis e inimagináveis, com inconcebível facilidade e rapidez, brilhando ao mesmo tempo com milhares de cores coruscantes, sem termo de comparação com qualquer coisa que conhecemos nesse estado físico de consciência. As irradiações iridescentes de uma concha de nácar[1] em movimento sob a luz do Sol dar-nos-iam talvez uma pálida ideia dessa matéria.
+
+() - [1] N.R.: Madrepérola ou nácar é uma substância, dura, irisada, rica em calcário, produzida por alguns moluscos, no interior de sua concha.
 
 Isto é o Mundo do Desejo: luz e cor sempre cambiantes, onde as forças do animal e do ser humano se misturam com as forças de inumeráveis Hierarquias de seres espirituais que não aparecem no Mundo Físico, mas que são tão ativas no Mundo do Desejo como nós o somos aqui. De algumas delas falaremos mais adiante, assim como de sua relação com a evolução do ser humano.
 
@@ -521,17 +524,17 @@ Por conseguinte, bem podemos ver quanto é importante o nosso sentimento em rela
 
 Os nomes das três Regiões Superiores do Mundo do Desejo são: “Região da Vida Anímica”, “Região da Luz Anímica” e “Região do Poder Anímico”. Nestas Regiões habitam a Arte, o Altruísmo, a Filantropia e todas as atividades superiores da vida anímica. Quando pensamos nessas Regiões como irradiando sobre as formas das Regiões inferiores as qualidades indicadas pelos seus nomes, podemos compreender de forma exata as atividades superiores e inferiores. Não obstante, o poder anímico pode ser empregado durante algum tempo com propósitos maléficos, assim como pode ser empregado para o bem. Contudo, finalmente a Força de Repulsão destrói o vício, e sobre as desoladas ruínas, a Força de Atração edifica a virtude. Todas as coisas, em última análise, trabalham em conjunto para o bem.
 
-O Mundo Físico e o Mundo do Desejo não são separados um do outro pelo espaço. Estão “mais próximos do que as mãos e os pés”. Não é necessário se deslocar para ir de um a outro, nem para ir de uma Região a outra que lhe seja próxima. Assim como em nosso Corpo se encontram os sólidos, os líquidos e os gases, se interpenetrando uns aos outros, assim também estão as diferentes Regiões do Mundo do Desejo dentro de nós. Podemos, outra vez, comparar as linhas de força pelas quais os cristais de gelo se formam na água com as causas invisíveis originárias do Mundo do Desejo, as quais aparecem no Mundo Físico e dão-nos incentivo para agir em qualquer direção. O Mundo do Desejo, com seus inúmeros habitantes, compenetra o Mundo Físico como as linhas de força compenetram a água – invisível, mas presente e potente em toda parte como “causa” de tudo no Mundo Físico.
+O Mundo Físico e o Mundo do Desejo não são separados um do outro pelo espaço. Estão “mais próximos do que as mãos e os pés”. Não é necessário se deslocar para ir de um a outro, nem para ir de uma Região a outra que lhe seja próxima. Assim como em nosso Corpo se encontram os sólidos, os líquidos e os gases, se interpenetrando uns aos outros, assim também estão as diferentes Regiões do Mundo do Desejo dentro de nós. Podemos, outra vez, comparar as linhas de força pelas quais os cristais de gelo se formam na água com as causas invisíveis originárias do Mundo do Desejo, as quais aparecem no Mundo Físico e dão-nos incentivo para agir em qualquer direção. 
 
-[1] N.R.: Madrepérola ou nácar é uma substância, dura, irisada, rica em calcário, produzida por alguns moluscos, no interior de sua concha.
-
-*******
+O Mundo do Desejo, com seus inúmeros habitantes, compenetra o Mundo Físico como as linhas de força compenetram a água – invisível, mas presente e potente em toda parte como “causa” de tudo no Mundo Físico.
 
 #### <h4 id="the-world-of-thought">O Mundo do Pensamento</h4>
 
 O Mundo do Pensamento também se compõe de sete Regiões de diversas qualidades e densidades e, à semelhança do Mundo Físico, o Mundo do Pensamento é dividido em duas principais divisões: a Região do Pensamento Concreto, que compreende as quatro Regiões mais densas, e a Região do Pensamento Abstrato, que compreende as três Regiões de substâncias mais sutis. O Mundo do Pensamento é o Mundo central dos cinco Mundos onde o ser humano obtém seus veículos. Aqui se unem Espírito e Corpo. Esse Mundo é também o mais elevado dos três onde presentemente tem lugar a evolução humana. Os outros dois Mundos superiores, no que diz respeito ao ser humano em geral, são ainda praticamente uma esperança.
 
-Sabemos que os materiais da Região Química são empregados para construir todas as formas físicas. A estas formas são dadas vida e o poder de movimento pelas forças que atuam na Região Etérica. Algumas dessas formas viventes são impelidas à ação pelos sentimentos gêmeos do Mundo do Desejo. A Região do Pensamento Concreto proporciona a matéria mental em que se envolvem as ideias geradas na Região do Pensamento Abstrato. Manifestando-se como pensamentos-formas, atuam como reguladores e equilibradores dos impulsos originados no Mundo do Desejo pelos impactos recebidos do Mundo dos fenômenos.
+Sabemos que os materiais da Região Química são empregados para construir todas as formas físicas. A estas formas são dadas vida e o poder de movimento pelas forças que atuam na Região Etérica. Algumas dessas formas viventes são impelidas à ação pelos sentimentos gêmeos do Mundo do Desejo. 
+
+A Região do Pensamento Concreto proporciona a matéria mental em que se envolvem as ideias geradas na Região do Pensamento Abstrato. Manifestando-se como pensamentos-formas, atuam como reguladores e equilibradores dos impulsos originados no Mundo do Desejo pelos impactos recebidos do Mundo dos fenômenos.
 
 Vemos, pois, como os três Mundos em que o ser humano presentemente evolui se completam, formam um todo, o que demonstra a Suprema Sabedoria do Grande Arquiteto do Sistema Solar a que pertencemos e a Quem reverenciamos pelo santo nome de Deus.
 
@@ -547,13 +550,9 @@ A “Região das Forças Arquetípicas” é a quarta divisão da Região do Pen
 
 Como seu nome indica, essa Região é o lar das Forças Arquetípicas que dirigem a atividade dos Arquétipos na Região do Pensamento Concreto. Dessa Região é que o espírito trabalha na matéria de maneira formativa. O Diagrama 1 demonstra essa ideia em forma esquemática: as formas, nos Mundos inferiores, sendo reflexos do Espírito nos Mundos superiores. A quinta Região, que é a mais próxima do ponto focal pelo lado do Espírito, se reflete na terceira Região, a mais próxima do ponto focal pelo lado da Forma. A sexta Região se reflete na segunda, e a sétima na primeira.
 
-Diagrama 1 – O Mundo Material: um reflexo reverso dos Mundos Espirituais!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 Toda a Região do Pensamento Abstrato é refletida no Mundo do Desejo; o Mundo do Espírito de Vida na Região Etérica do Mundo Físico e o Mundo do Espírito Divino na Região Química do Mundo Físico.
 
 O Diagrama 2 dá uma ideia compreensível dos sete Mundos que formam a esfera do nosso desenvolvimento, contudo, devemos fixar cuidadosamente que esses Mundos não estão colocados uns acima dos outros, como o Diagrama sugere, mas se interpenetram. Isto é, relacionando o Mundo Físico ao Mundo do Desejo e comparando o Mundo do Desejo com as linhas de força na água em congelamento e a água em si mesma com o Mundo Físico, podemos, igualmente, imaginar essas linhas de força equivalendo a qualquer um dos sete Mundos e a água, segundo o nosso exemplo, correspondendo ao próximo Mundo mais denso na escala. Talvez outro exemplo torne esse assunto mais claro.
-
-Diagrama 2 – Os Sete Mundos!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Tomemos uma esponja esférica para representar a Terra densa – a Região Química – e imaginemo-la compenetrada por areia que ultrapasse um pouco toda sua periferia. Essa areia representaria a Região Etérica que, de modo semelhante, compenetrando a Terra densa, se estende além da atmosfera.
 
@@ -563,13 +562,11 @@ Sabendo que na água existe ar, se imaginarmos o ar contido na água (do nosso e
 
 Finalmente, imaginando o vaso que contém a esponja, a areia e a água, colocado no centro de outro vaso esférico maior, o ar existente entre ambos os vasos representaria a parte do Mundo do Pensamento que se estende para além do Mundo do Desejo.
 
-Cada um dos Planetas do nosso Sistema Solar tem esses três Mundos que se interpenetram. Se imaginarmos cada um desses Planetas consistindo em três Mundos como sendo esponjas individuais, e o quarto Mundo – o Mundo do Espírito de Vida – como sendo a água contida em um vaso maior, na qual nadem separadas, essas esponjas Tríplices, compreenderemos que, assim como a água do recipiente maior enche o espaço compreendido entre as esponjas e as compenetra, assim também o Mundo do Espírito de Vida se difunde pelos espaços interplanetários e interpenetra os Planetas individuais. Esse Mundo estabelece um vínculo comum entre os Planetas e do mesmo modo que para se ir da América à África é necessário se ter um barco e poder dirigi-lo, assim também se requer um veículo apropriado ao Mundo do Espírito de Vida, sob controle consciente, para se poder viajar de um a outro Planeta. De maneira semelhante àquela pela qual o Mundo do Espírito de Vida nos põe em relação com os outros Planetas do nosso Sistema Solar, o Mundo do Espírito Divino nos correlaciona com os outros Sistemas Solares. Podemos comparar os Sistemas Solares a esponjas separadas, submersas no Mundo do Espírito Divino. Compreenderemos assim que, para se poder viajar de um Sistema Solar a outro é necessária a capacidade de se atuar, conscientemente, no mais elevado dos veículos do ser humano, o Espírito Divino.
+Cada um dos Planetas do nosso Sistema Solar tem esses três Mundos que se interpenetram. Se imaginarmos cada um desses Planetas consistindo em três Mundos como sendo esponjas individuais, e o quarto Mundo – o Mundo do Espírito de Vida – como sendo a água contida em um vaso maior, na qual nadem separadas, essas esponjas Tríplices, compreenderemos que, assim como a água do recipiente maior enche o espaço compreendido entre as esponjas e as compenetra, assim também o Mundo do Espírito de Vida se difunde pelos espaços interplanetários e interpenetra os Planetas individuais. Esse Mundo estabelece um vínculo comum entre os Planetas e do mesmo modo que para se ir da América à África é necessário se ter um barco e poder dirigi-lo, assim também se requer um veículo apropriado ao Mundo do Espírito de Vida, sob controle consciente, para se poder viajar de um a outro Planeta. 
 
-*******
+De maneira semelhante àquela pela qual o Mundo do Espírito de Vida nos põe em relação com os outros Planetas do nosso Sistema Solar, o Mundo do Espírito Divino nos correlaciona com os outros Sistemas Solares. Podemos comparar os Sistemas Solares a esponjas separadas, submersas no Mundo do Espírito Divino. Compreenderemos assim que, para se poder viajar de um Sistema Solar a outro é necessária a capacidade de se atuar, conscientemente, no mais elevado dos veículos do ser humano, o Espírito Divino.
 
 ### <h3 id="chapter-2">Capítulo II – Os Quatro Reinos</h3>
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Os três Mundos do nosso Planeta são atualmente o campo onde se processa a evolução de diversos Reinos de vida em vários graus de desenvolvimento. Destes, só quatro nos interessam presentemente, a saber: o Mineral, o Vegetal, o Animal e o Humano.
 
@@ -599,6 +596,8 @@ Quando analisamos o ser humano, vemos que os quatro Éteres são dinamicamente a
 
 O Corpo Vital do vegetal, do animal e do ser humano se estende além da periferia do Corpo Denso, do mesmo modo que a Região Etérica, que é o Corpo Vital de um Planeta, se estende além da parte densa deste, o que demonstra, mais uma vez, a veracidade do axioma Hermético: “Como em cima, assim é embaixo”. A distância dessa extensão do Corpo Vital do ser humano é cerca de uma polegada e meia[1]. A parte que está fora do Corpo Denso é muito luminosa, e aparenta a cor da flor recém-aberta do pessegueiro. Ela é vista muitas vezes por pessoas que possuem certa Clarividência involuntária. O autor verificou, ao falar com tais pessoas, que as mesmas, não crendo se tratar de algo incomum, frequentemente não compreendem o que veem.
 
+() - [1] N.R.: cerca de 3,8 centímetros
+
 O Corpo Denso, construído na matriz do Corpo Vital durante a vida pré-natal, com uma exceção, é a cópia exata, molécula por molécula, do Corpo Vital. Assim como as linhas de força na água congelada são os condutores para a formação dos cristais de gelo, as linhas de força no Corpo Vital determinam a forma do Corpo Denso. Durante toda a vida o Corpo Vital é o construtor e restaurador da forma densa. Se não fosse pelo coração etérico, o coração denso romper-se-ia rapidamente em consequência da tensão que lhe impomos continuamente. Todos os abusos praticados com o Corpo Denso são neutralizados pelo Corpo Vital, tanto quanto é possível, o qual trava uma luta constante contra a morte do Corpo Denso.
 
 A exceção referida consiste no fato de que o Corpo Vital do homem é feminino ou negativo, enquanto o da mulher é masculino ou positivo. Nisso reside a chave de numerosos e intrincados problemas da vida. A mulher dá vazão às suas emoções pela polaridade indicada devido ao seu Corpo Vital positivo que gera um excesso de sangue. Isso a obriga a trabalhar sob enorme pressão interna, a qual romperia o envoltório físico se não houvesse uma válvula de segurança. Essa válvula é, por um lado, o fluxo periódico e, por outro, as lágrimas que em ocasiões especiais limitam a pressão, posto que ambos: fluxo periódico e lágrimas são, realmente, uma “hemorragia branca”.
@@ -615,9 +614,7 @@ Em certos casos o Corpo Vital deixa parcialmente o Corpo Denso como, por exemplo
 
 Quando se usam anestésicos, o Corpo Vital é parcialmente expulso juntamente com os demais veículos superiores. Se a aplicação é excessiva, o Éter de Vida é expelido e a morte sobrevém. O mesmo fenômeno pode ser observado nos médiuns materializantes. Na realidade a diferença entre o médium materializante e as pessoas comuns é a seguinte: no homem ou mulher comum os Corpos: Vital e Denso, no atual estado da evolução, se acham firmemente interligados um no outro, enquanto no médium essa conexão é mais fraca. Nem sempre foi assim, e tempo virá novamente em que o Corpo Vital poderá abandonar normalmente o Corpo Denso, mas presentemente esse processo ainda não se completou. Quando um médium permite que seu Corpo Vital seja usado por entidades do Mundo do Desejo que querem se materializar, esse Corpo geralmente “sai” pelo lado esquerdo – pelo baço – a sua “porta” particular. Então, as forças vitais não podendo fluírem por todo o Corpo como habitualmente o fazem, o médium fica extenuado. Por isso alguns recorrem até ao uso de estimulantes para contrabalançar esses efeitos se convertendo, com o tempo, em beberrões incuráveis.
 
-A força vital do Sol que nos rodeia como um fluido incolor é absorvida pelo Corpo Vital através da contraparte etérica do baço, onde passa por uma curiosa transformação de cor. se torna rosa-pálido e se espalha pelos nervos, percorrendo todo o Corpo Denso. Em relação ao Sistema Nervoso, a força vital é o mesmo que a eletricidade para o telégrafo. Embora haja fios, aparelhos e telegrafistas, tudo em boa ordem, se não houver eletricidade será impossível enviar mensagens.
-
-O Ego, o cérebro e o Sistema Nervoso podem estar, aparentemente, em perfeita ordem, mas se falta força vital para levar a mensagem do Ego através dos nervos aos músculos, o Corpo Denso permanecerá inerte. É precisamente isto o que sucede quando se paralisa uma parte do Corpo Denso, o Corpo Vital adoeceu e a força vital já não pode fluir. Em tais casos, como na maioria das enfermidades, a perturbação está nos veículos invisíveis. O reconhecimento desse fato, consciente ou inconscientemente, dá motivos a que médicos, dos mais famosos, empreguem a sugestão – atuando sobre os veículos superiores – como medicação auxiliar. Quanto mais fé e esperança o médico possa incutir no paciente, tanto mais rapidamente poderá desaparecer a doença e dar lugar à perfeita saúde.
+A força vital do Sol que nos rodeia como um fluido incolor é absorvida pelo Corpo Vital através da contraparte etérica do baço, onde passa por uma curiosa transformação de cor. se torna rosa-pálido e se espalha pelos nervos, percorrendo todo o Corpo Denso. Em relação ao Sistema Nervoso, a força vital é o mesmo que a eletricidade para o telégrafo. Embora haja fios, aparelhos e telegrafistas, tudo em boa ordem, se não houver eletricidade será impossível enviar mensagens. O Ego, o cérebro e o Sistema Nervoso podem estar, aparentemente, em perfeita ordem, mas se falta força vital para levar a mensagem do Ego através dos nervos aos músculos, o Corpo Denso permanecerá inerte. É precisamente isto o que sucede quando se paralisa uma parte do Corpo Denso, o Corpo Vital adoeceu e a força vital já não pode fluir. Em tais casos, como na maioria das enfermidades, a perturbação está nos veículos invisíveis. O reconhecimento desse fato, consciente ou inconscientemente, dá motivos a que médicos, dos mais famosos, empreguem a sugestão – atuando sobre os veículos superiores – como medicação auxiliar. Quanto mais fé e esperança o médico possa incutir no paciente, tanto mais rapidamente poderá desaparecer a doença e dar lugar à perfeita saúde.
 
 Durante a saúde o Corpo Vital especializa uma superabundância de força vital que, depois de atravessar o Corpo Denso, se irradia em linhas retas em todas as direções desde sua periferia, como os raios que se irradiam do centro de um círculo. Contudo, nos casos de doença, o Corpo Vital se atenua e, então, não pode absorver a mesma quantidade de força, para continuar alimentando o Corpo Denso. Então, as linhas do fluido vital que sobressaem do Corpo se curvam e decaem, mostrando a falta de força que se produziu. Em estado saudável, a grande força destas irradiações repele os germes e micróbios, inimigos da saúde do Corpo Denso, mas na enfermidade, quando a força vital é fraca, essas emanações não conseguem eliminar com a mesma facilidade os germes da doença. Portanto, é maior o perigo de contrair uma doença quando são baixas as forças vitais do que quando a saúde é robusta.
 
@@ -625,13 +622,19 @@ Nos casos de amputação de partes do Corpo Denso, o Éter planetário é o úni
 
 Tendo observado as relações dos Quatro Reinos com a Região Etérica do Mundo Físico, estudemos agora sua relação com o Mundo do Desejo.
 
-Tanto os minerais quanto os vegetais carecem de Corpo de Desejos separado. Estão compenetrados unicamente pelo Corpo de Desejos planetário, ou seja, pelo Mundo do Desejo. Não possuindo veículo separado, são incapazes de sentir, de desejar, de se emocionar, faculdades estas que pertencem ao Mundo do Desejo. A pedra nada sente quando é quebrada, mas seria errôneo se deduzir que não há qualquer sentimento relacionado com tal ato. Essa é a opinião do materialista e da massa incompreensiva. O cientista ocultista sabe que não há ato algum, grande ou pequeno, que não seja sentido através do universo. Embora por falta de um Corpo de Desejos individual a pedra não possa sentir, o Espírito da Terra sente, porque é o seu Corpo de Desejos que compenetra a pedra. Se um ser humano corta o dedo, esse não sente dor simplesmente por não ter Corpo de Desejos separado, mas o ser humano sente, porque seu Corpo de Desejos compenetra o dedo. Se uma planta é arrancada pela raiz, o Espírito da Terra sente de modo equivalente ao ser humano a quem arranquem um cabelo. A Terra é um Corpo vivo e sensível. Todas as formas sem Corpo de Desejos separado, por meio do qual o espírito pode sentir, estão inclusas no Corpo de Desejos da Terra, e esse Corpo de Desejos possui sensibilidade. Quebrar uma pedra ou cortar uma flor causa prazer à Terra, ao passo que arrancar uma planta pela raiz causa sofrimento. A razão disto será esclarecida na última parte dessa obra, pois nesse ponto qualquer explicação seria incompreensível para a maioria dos leitores.
+Tanto os minerais quanto os vegetais carecem de Corpo de Desejos separado. Estão compenetrados unicamente pelo Corpo de Desejos planetário, ou seja, pelo Mundo do Desejo. Não possuindo veículo separado, são incapazes de sentir, de desejar, de se emocionar, faculdades estas que pertencem ao Mundo do Desejo. 
+
+A pedra nada sente quando é quebrada, mas seria errôneo se deduzir que não há qualquer sentimento relacionado com tal ato. Essa é a opinião do materialista e da massa incompreensiva. O cientista ocultista sabe que não há ato algum, grande ou pequeno, que não seja sentido através do universo. Embora por falta de um Corpo de Desejos individual a pedra não possa sentir, o Espírito da Terra sente, porque é o seu Corpo de Desejos que compenetra a pedra. Se um ser humano corta o dedo, esse não sente dor simplesmente por não ter Corpo de Desejos separado, mas o ser humano sente, porque seu Corpo de Desejos compenetra o dedo. Se uma planta é arrancada pela raiz, o Espírito da Terra sente de modo equivalente ao ser humano a quem arranquem um cabelo. A Terra é um Corpo vivo e sensível. Todas as formas sem Corpo de Desejos separado, por meio do qual o espírito pode sentir, estão inclusas no Corpo de Desejos da Terra, e esse Corpo de Desejos possui sensibilidade. Quebrar uma pedra ou cortar uma flor causa prazer à Terra, ao passo que arrancar uma planta pela raiz causa sofrimento. A razão disto será esclarecida na última parte dessa obra, pois nesse ponto qualquer explicação seria incompreensível para a maioria dos leitores.
 
 O Mundo do Desejo planetário pulsa através dos Corpos Denso e Vital do animal e do ser humano, da mesma maneira que compenetra o mineral e a planta. Contudo, além disso, o animal e o ser humano possuem Corpos de Desejos separados que os capacitam a sentir desejos, emoções e paixões. Contudo, existe uma diferença entre eles: o Corpo de Desejos do animal é inteiramente formado por matéria das Regiões mais densas do Mundo do Desejo, enquanto no do ser humano, mesmo nas Raças mais inferiores, um pouco da matéria das Regiões superiores entra em sua composição. Os sentidos dos animais e das Raças humanas inferiores se focalizam quase inteiramente na satisfação dos desejos e paixões mais inferiores, cuja expressão se encontra na matéria das Regiões inferiores do Mundo do Desejo. Por isso e para que possam ter emoções mais elevadas, educá-las e dirigi-las para objetivos superiores, necessitam da matéria correspondente em seus Corpos de Desejos. À medida que o ser humano progride na escola da vida suas experiências ensinam-no, e seus desejos se tornam melhores, mais puros. Dessa forma, gradativamente, a matéria do Corpo de Desejos passa por uma correspondente modificação. A matéria mais pura e brilhante das Regiões superiores do Mundo do Desejo substitui as cores sombrias da parte inferior. O Corpo de Desejos aumenta de tamanho, de modo que o de um santo se torna verdadeiramente algo glorioso a ser observado, de transparência luminosa, e de uma pureza de cores incomparável, impossível de descrever. Só o vendo é possível apreciá-lo.
 
 Atualmente, na composição do Corpo de Desejos da grande maioria dos seres humanos entra matéria das Regiões superiores e inferiores. Ninguém é tão mau que não tenha algo de bom. Isto é expressão da matéria das Regiões superiores que encontramos em seus Corpos de Desejos. Por outro lado, são muito poucos os tão bons que não empreguem alguma matéria das Regiões inferiores.
 
 Do mesmo modo que os Corpos: Vital e de Desejos planetários interpenetram a matéria densa da Terra, como vimos no exemplo da esponja, da areia e da água, assim também os Corpos: Vital e de Desejos interpenetram o Corpo Denso do vegetal, do animal e do ser humano. Contudo, durante a vida, o Corpo de Desejos do ser humano não tem a mesma forma que seus Corpos Denso e Vital. Somente após a morte ele assume essa forma. Durante a vida tem simplesmente a aparência de um ovoide luminoso que, nas horas de vigília, envolve completamente o Corpo Denso, assim como no ovo a clara envolve a gema. Se estende de doze a dezesseis polegadas[2] além do Corpo Denso. Nesse Corpo de Desejos existe certo número de centros sensoriais que ainda se encontram em estado latente na maioria dos seres humanos. O despertar destes centros de percepção corresponde ao descerrar dos olhos no cego do nosso exemplo anterior. A matéria do Corpo de Desejos humano permanece em movimento contínuo de incrível rapidez. Nem há nele um lugar estável para qualquer partícula, como no Corpo Denso. A matéria que num determinado momento está na cabeça, se encontra nos pés ao instante seguinte, para voltar outra vez. Não há órgão algum no Corpo de Desejos, como nos Corpos Denso e Vital, mas há centros de percepção que ao entrarem em atividade parecem vórtices, sempre permanecendo na mesma posição em relação ao Corpo Denso. A maioria desses vórtices se encontra em volta da cabeça. Na maioria das pessoas esses centros não passam de simples remoinhos, sem utilidade como meios de percepção. Podem ser despertados, contudo, ainda que dos métodos usados dependam os resultados conseguidos.
+
+() - [2] N.R.: em torno de 31 a 41 centímetros
+
+Diagrams: 
 
 No Clarividente involuntário, desenvolvido no sentido negativo e impróprio, estes vórtices giram da direita para a esquerda, ou seja, na direção oposta à dos ponteiros de um relógio.
 
@@ -651,9 +654,7 @@ Onde há vitalidade e movimento, mas não sangue vermelho, não existe Corpo de 
 
 Nos animais de sangue frio, que têm fígado e sangue vermelho existe um Corpo de Desejos separado, e o Espírito-Grupo dirige as correntes para dentro, porque nesse caso o espírito separado (do peixe ou do réptil individual, por exemplo) está completamente fora do veículo denso.
 
-Quando o organismo evolui ao ponto de o espírito separado poder começar a entrar em seus veículos, então o espírito individual começa a dirigir as correntes para fora. É o princípio da existência passional e do sangue quente. O sangue vermelho e quente, no fígado do organismo suficientemente evoluído para ter um espírito interno, o qual energiza as correntes de matéria de desejo que se exteriorizam, é que leva o ser humano e o animal a manifestar desejos e paixões. Nos animais, o espírito não está completamente dentro dos seus veículos. Isto só ocorrerá quando os pontos do Corpo Vital e do Corpo Denso se corresponderem, como se explica no Capítulo XII. Por essa razão o animal não é um “ser vivente”, isto é, não vive tão completamente como o ser humano, nem é capaz de ter desejos e emoções tão sutis como as do ser humano, porque não tem plena consciência.
-
-Os mamíferos atuais se encontram em plano superior ao do ser humano quando passou pela fase animal de sua evolução. Isto é devido a terem sangue vermelho e quente, o que naquele estágio o ser humano não possuía. Essa diferença de condição se deve ao caminho em espiral da evolução. Isto explica ainda por que o ser humano é agora um tipo de Humanidade superior à que formaram os Anjos atuais quando se encontravam no estágio chamado humano. Os mamíferos de hoje, que alcançaram sangue vermelho e quente e são capazes de, até certo ponto, experimentarem desejos e emoções, serão no Período de Júpiter um tipo de Humanidade melhor e mais pura do que essa que atualmente somos. Todavia, alguns da nossa Humanidade atual, mesmo no Período de Júpiter, serão abertamente malvados. Não poderão, como agora, ocultar suas paixões, mas serão desavergonhados em relação ao mal que farão.
+Quando o organismo evolui ao ponto de o espírito separado poder começar a entrar em seus veículos, então o espírito individual começa a dirigir as correntes para fora. É o princípio da existência passional e do sangue quente. O sangue vermelho e quente, no fígado do organismo suficientemente evoluído para ter um espírito interno, o qual energiza as correntes de matéria de desejo que se exteriorizam, é que leva o ser humano e o animal a manifestar desejos e paixões. Nos animais, o espírito não está completamente dentro dos seus veículos. Isto só ocorrerá quando os pontos do Corpo Vital e do Corpo Denso se corresponderem, como se explica no Capítulo XII. Por essa razão o animal não é um “ser vivente”, isto é, não vive tão completamente como o ser humano, nem é capaz de ter desejos e emoções tão sutis como as do ser humano, porque não tem plena consciência. Os mamíferos atuais se encontram em plano superior ao do ser humano quando passou pela fase animal de sua evolução. Isto é devido a terem sangue vermelho e quente, o que naquele estágio o ser humano não possuía. Essa diferença de condição se deve ao caminho em espiral da evolução. Isto explica ainda por que o ser humano é agora um tipo de Humanidade superior à que formaram os Anjos atuais quando se encontravam no estágio chamado humano. Os mamíferos de hoje, que alcançaram sangue vermelho e quente e são capazes de, até certo ponto, experimentarem desejos e emoções, serão no Período de Júpiter um tipo de Humanidade melhor e mais pura do que essa que atualmente somos. Todavia, alguns da nossa Humanidade atual, mesmo no Período de Júpiter, serão abertamente malvados. Não poderão, como agora, ocultar suas paixões, mas serão desavergonhados em relação ao mal que farão.
 
 À luz dessa exposição sobre as relações entre o fígado e a vida do organismo, é digno de nota o fato de que em várias línguas europeias (inglês, alemão e escandinavo) a palavra fígado (liver) significa tanto esse órgão do Corpo quanto “aquele que vive”.
 
@@ -671,17 +672,11 @@ Os Espíritos-Grupo dos três Reinos inferiores estão diferentemente situados n
 
 Assim, os chamados Corpos “superiores”, tão refinados e sutis que chegam a ser invisíveis, não são, de maneira alguma, “emanações” do Corpo Denso. Os veículos densos de todos os Reinos correspondem à concha do caracol que é a cristalização dos seus sucos. O caracol representa o espírito, e seus sucos em via de cristalização representam a Mente, o Corpo de Desejos e o Corpo Vital. Estes diversos veículos foram emanados pelo espírito de si mesmo, com o propósito de adquirir experiência através deles. É o espírito que move o Corpo Denso à vontade, como o caracol move a sua concha, e não o Corpo que governa os movimentos do espírito. Quanto mais estreitamente pode o Espírito se pôr em contato com o seu veículo, mais pode dominá-lo e se expressar por seu intermédio, e vice-versa. Essa é a chave dos diferentes estados de consciência nos diferentes Reinos. O estudo dos Diagramas 3 e 4 dará uma compreensão clara dos veículos de cada Reino, da maneira como estão correlacionados com os diferentes Mundos e dos estados de consciência resultantes.
 
-Diagrama 3 – Os Veículos dos Quatro Reinos!!!!!!!!!!!!!!!!!!!!!!!!!
-
 O Diagrama 3 mostra que o Ego separado é segregado definitivamente dentro do Espírito Universal na Região do Pensamento Abstrato, e que unicamente o ser humano possui a cadeia completa de veículos que o correlaciona com todas as divisões dos três Mundos. O animal carece de um elo dessa cadeia: a Mente; a planta carece de dois elos: a Mente e o Corpo de Desejos; e o mineral carece de três dos elos da cadeia necessária para funcionar conscientemente no Mundo Físico: a Mente, o Corpo de Desejos e o Corpo Vital.
 
 A razão das várias diferenças é que o Reino Mineral é a expressão da última corrente de vida evolutiva; o Reino Vegetal é animado por uma Onda de Vida mais antiga no Caminho de Evolução; a Onda de Vida do Reino Animal tem um passado mais antigo ainda; e o ser humano, isto é, a vida que se expressa atualmente através da forma humana, tem atrás de si, a mais longa jornada de todos os quatro Reinos, seguindo, portanto, na dianteira. Em seu devido tempo as três Ondas de Vida que agora animam os três Reinos inferiores alcançarão o estado humano, e nós teremos passado a um estado de desenvolvimento superior.
 
-Para compreendermos o grau de consciência que resulta da posse dos veículos empregados pela vida evolutiva nos quatro Reinos, dirijamos nossa atenção ao Diagrama 4.
-
-Diagrama 4 – A Consciência dos Quatro Reinos!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-O ser humano – o Ego, o Pensador – desceu à Região Química do Mundo Físico e, nela começando a dirigir os seus veículos, obteve o estado de consciência de vigília e continua aprendendo a controlar esses veículos. Os órgãos do Corpo de Desejos e os da Mente não se desenvolveram ainda. O último nem sequer é ainda um Corpo. Atualmente não é mais do que um simples elo, um envoltório, que o Ego usa como ponto focal. É o último dos veículos que se formaram. O espírito trabalha gradualmente da substância mais sutil a mais densa, construindo assim os veículos, primeiro em substância sutil e depois em substância cada vez mais densa. O Corpo Denso foi o primeiro a ser construído e chegou agora ao seu quarto grau de densidade; o Corpo Vital se encontra em seu terceiro estágio; o Corpo de Desejos está no segundo sendo, portanto, ainda como uma nuvem; e o envoltório mental é ainda mais sutil. Como esses veículos não desenvolveram ainda quaisquer órgãos fica evidente que isolados seriam inúteis como veículos de consciência. Entretanto, o Ego penetra dentro do Corpo Denso, liga tais veículos sem órgãos com os centros físicos dos sentidos, e assim obtém o estado de consciência de vigília no Mundo Físico.
+Para compreendermos o grau de consciência que resulta da posse dos veículos empregados pela vida evolutiva nos quatro Reinos, dirijamos nossa atenção ao Diagrama 4. O ser humano – o Ego, o Pensador – desceu à Região Química do Mundo Físico e, nela começando a dirigir os seus veículos, obteve o estado de consciência de vigília e continua aprendendo a controlar esses veículos. Os órgãos do Corpo de Desejos e os da Mente não se desenvolveram ainda. O último nem sequer é ainda um Corpo. Atualmente não é mais do que um simples elo, um envoltório, que o Ego usa como ponto focal. É o último dos veículos que se formaram. O espírito trabalha gradualmente da substância mais sutil a mais densa, construindo assim os veículos, primeiro em substância sutil e depois em substância cada vez mais densa. O Corpo Denso foi o primeiro a ser construído e chegou agora ao seu quarto grau de densidade; o Corpo Vital se encontra em seu terceiro estágio; o Corpo de Desejos está no segundo sendo, portanto, ainda como uma nuvem; e o envoltório mental é ainda mais sutil. Como esses veículos não desenvolveram ainda quaisquer órgãos fica evidente que isolados seriam inúteis como veículos de consciência. Entretanto, o Ego penetra dentro do Corpo Denso, liga tais veículos sem órgãos com os centros físicos dos sentidos, e assim obtém o estado de consciência de vigília no Mundo Físico.
 
 O Estudante deve notar, de modo especial, que estes veículos superiores têm valor presentemente porque estão conectados com o Corpo Denso, cujo mecanismo é tão esplendidamente organizado. Desse modo não cometerá o erro, tão frequente em muitas pessoas, de menosprezar o Corpo Denso ao saber que existem Corpos superiores, dele falando como de coisa “grosseira” e “vil” e dirigindo os olhos ao céu ansioso por abandonar logo esse amálgama de barro terreno para voar nos seus “veículos superiores”.
 
@@ -735,13 +730,7 @@ O madeiro inferior da Cruz indica a planta, que tem suas raízes no solo químic
 
 O ser humano é representado pela haste superior da cruz: uma planta invertida. A planta absorve seus alimentos pelas raízes. O ser humano recebe-os pela cabeça. A planta dirige seus órgãos de geração para o Sol. O ser humano, a planta invertida, volve-os para o centro da Terra. Enquanto a planta é sustentada pelas correntes espirituais do Espírito-Grupo desde o centro da Terra, as quais nela penetram pela raiz, o ser humano, como mais tarde mostraremos, recebe do Sol a influência espiritual mais elevada pela cabeça, como planta invertida que é, já que o Sol lhe envia seus raios de cima para baixo. A planta absorve o venenoso dióxido de carbono expirado pelo ser humano e exala, em troca, o vivificante oxigênio que esse utiliza.
 
-O animal, simbolizado pelo madeiro horizontal da cruz, está entre a planta e o ser humano. Sua espinha dorsal é horizontal, e através dela passam as correntes do Espírito-Grupo animal que circulam em torno da Terra.
-
-Nenhum animal pode permanecer em posição vertical, porque nessa posição as correntes do Espírito-Grupo não podiam guiá-lo. Morreria por não estar suficientemente individualizado a ponto de suportar as correntes espirituais que penetram através da medula espinhal humana. O veículo de expressão de um Ego individual necessita possuir três coisas: a marcha em posição vertical, para se pôr em contato com as correntes mencionadas; a laringe vertical, por ser tal laringe a única capaz de falar (os papagaios e estorninhos são exemplos de laringe vertical); e, em virtude das correntes solares, deve ter sangue quente. Esse último é da maior importância para o Ego, o que, logicamente, será explicado e ilustrado mais adiante. Tais requisitos são aqui mencionados apenas como remate final sobre a posição dos quatro Reinos em relação um ao outro e aos diversos Mundos.
-
-[1] N.R.: cerca de 3,8 centímetros
-
-[2] N.R.: em torno de 31 a 41 centímetros
+O animal, simbolizado pelo madeiro horizontal da cruz, está entre a planta e o ser humano. Sua espinha dorsal é horizontal, e através dela passam as correntes do Espírito-Grupo animal que circulam em torno da Terra. Nenhum animal pode permanecer em posição vertical, porque nessa posição as correntes do Espírito-Grupo não podiam guiá-lo. Morreria por não estar suficientemente individualizado a ponto de suportar as correntes espirituais que penetram através da medula espinhal humana. O veículo de expressão de um Ego individual necessita possuir três coisas: a marcha em posição vertical, para se pôr em contato com as correntes mencionadas; a laringe vertical, por ser tal laringe a única capaz de falar (os papagaios e estorninhos são exemplos de laringe vertical); e, em virtude das correntes solares, deve ter sangue quente. Esse último é da maior importância para o Ego, o que, logicamente, será explicado e ilustrado mais adiante. Tais requisitos são aqui mencionados apenas como remate final sobre a posição dos quatro Reinos em relação um ao outro e aos diversos Mundos.
 
 ### <h3 id="chapter-3">Capítulo III – O Ser Humano e o Método de Evolução</h3>
 
@@ -753,8 +742,6 @@ O próximo mais elevado ou sexto Reino é o Mundo dos Espíritos Virginais. Essa
 
 Os cinco Mundos constituem o campo da evolução humana, sendo os três inferiores, ou mais densos, o cenário da atual fase do seu desenvolvimento. Examinemos agora as relações do ser humano com esses cinco Mundos por meio dos seus veículos apropriados recordando que, para cada uma das duas grandes divisões em que dois desses Mundos estão divididos, o ser humano possui um veículo.
 
-Diagrama – A Constituição Sétupla do Ser Humano!!!!!!!!!!!!!!!!!!!!!!!!
-
 No estado de vigília esses veículos estão todos juntos. Interpenetram-se uns aos outros assim como o sangue, a linfa e outros sucos do Corpo se interpenetram. Desse modo capacita-se o Ego a atuar no Mundo Físico.
 
 Nós mesmos, como Egos, funcionamos diretamente na substância sutil da Região do Pensamento Abstrato, que especializamos dentro da periferia da nossa aura individual. Dessa Região nós observamos, através dos sentidos, as impressões produzidas pelo Mundo exterior sobre o Corpo Vital, como também os sentimentos e emoções gerados por elas no Corpo de Desejos e refletidos na Mente.
@@ -763,23 +750,25 @@ Dessas imagens mentais formamos as nossas conclusões na substância da Região 
 
 A Mente é como as lentes projetoras de um estereoscópio. A imagem é projetada em uma das três direções de acordo com a vontade do pensador que anima o pensamento-forma.
 
-1ª-Pode se projetar sobre o Corpo de Desejos a fim de despertar o sentimento que impele à ação imediata.
+1\. Pode se projetar sobre o Corpo de Desejos a fim de despertar o sentimento que impele à ação imediata.
 
-a)Se o pensamento desperta Interesse, uma das forças gêmeas – Atração ou Repulsão – deverá atuar.
+a. Se o pensamento desperta Interesse, uma das forças gêmeas – Atração ou Repulsão – deverá atuar.
 
-a1) Se a Atração, a força centrípeta for a despertada, ela toma o pensamento, impele-o para o Corpo de Desejos, acrescenta vida à imagem e envolve-a em matéria de desejos. Então o pensamento está apto a atuar sobre o cérebro etérico impelindo através dos centros cerebrais apropriados e dos nervos, força vital aos músculos voluntários, os quais executarão a ação necessária. Desse modo se consome a força do pensamento, mas sua imagem fica impressa no Éter do Corpo Vital como memória do ato e do sentimento que o causou.
+a1. Se a Atração, a força centrípeta for a despertada, ela toma o pensamento, impele-o para o Corpo de Desejos, acrescenta vida à imagem e envolve-a em matéria de desejos. Então o pensamento está apto a atuar sobre o cérebro etérico impelindo através dos centros cerebrais apropriados e dos nervos, força vital aos músculos voluntários, os quais executarão a ação necessária. Desse modo se consome a força do pensamento, mas sua imagem fica impressa no Éter do Corpo Vital como memória do ato e do sentimento que o causou.
 
-a2) Repulsão é a força centrífuga. Se despertada pelo pensamento haverá uma luta entre a força espiritual (a vontade do ser humano) dentro do pensamento-forma, e o Corpo de Desejos. Essa é a batalha entre a consciência e o desejo, entre a natureza superior e a inferior. Apesar da resistência, a força espiritual procurará envolver o pensamento-forma na matéria de desejos necessária para manipular o cérebro e os músculos. A força de Repulsão tentará dispersar essa matéria e expulsar o pensamento. Contudo, se a energia espiritual é forte, pode romper caminho através dos centros cerebrais e envolver o pensamento-forma em matéria de desejos enquanto põe em movimento a força vital, compelindo-a desse modo à ação. Então deixará na memória uma impressão bem vivida da batalha e da vitória. Se a energia espiritual se esgotar antes de produzir a ação, a força de Repulsão prevalecerá. Então será arquivada na memória, como todos os outros pensamento-formas quando esgotam sua energia.
+a2. Repulsão é a força centrífuga. Se despertada pelo pensamento haverá uma luta entre a força espiritual (a vontade do ser humano) dentro do pensamento-forma, e o Corpo de Desejos. Essa é a batalha entre a consciência e o desejo, entre a natureza superior e a inferior. Apesar da resistência, a força espiritual procurará envolver o pensamento-forma na matéria de desejos necessária para manipular o cérebro e os músculos. A força de Repulsão tentará dispersar essa matéria e expulsar o pensamento. Contudo, se a energia espiritual é forte, pode romper caminho através dos centros cerebrais e envolver o pensamento-forma em matéria de desejos enquanto põe em movimento a força vital, compelindo-a desse modo à ação. Então deixará na memória uma impressão bem vivida da batalha e da vitória. Se a energia espiritual se esgotar antes de produzir a ação, a força de Repulsão prevalecerá. Então será arquivada na memória, como todos os outros pensamento-formas quando esgotam sua energia.
 
-b)Se o pensamento-forma depara com o deprimente sentimento de Indiferença, fica então na dependência de sua própria energia espiritual que tanto pode compeli-lo à ação como pode apenas deixar uma leve impressão sobre o Éter Refletor do Corpo Vital, após ter esgotado sua energia cinética.
+c. Se o pensamento-forma depara com o deprimente sentimento de Indiferença, fica então na dependência de sua própria energia espiritual que tanto pode compeli-lo à ação como pode apenas deixar uma leve impressão sobre o Éter Refletor do Corpo Vital, após ter esgotado sua energia cinética.
 
-2ª-Quando as imagens mentais dos impactos externos não provocam uma ação imediata, podem se projetar diretamente sobre o Éter Refletor, junto com os pensamentos por elas originados, para serem utilizadas no futuro. O Espírito, trabalhando através da Mente, tem acesso instantâneo ao arquivo da Memória Consciente, podendo, a qualquer instante, ressuscitar qualquer das imagens que ali se encontrem, lhes infundir nova força espiritual e projetá-la no Corpo de Desejos para compelir à ação. Cada vez que tais imagens são assim usadas, mais força, eficiência e nitidez elas ganham e mais prontamente podem compelir à ação apropriada à natureza de cada uma, do que nas ocasiões anteriores, porque abrem, por assim dizer, sulcos no cérebro e produzem o fenômeno do pensamento, “conquistando-nos” ou “crescendo” em nós pela repetição.
+2\. Quando as imagens mentais dos impactos externos não provocam uma ação imediata, podem se projetar diretamente sobre o Éter Refletor, junto com os pensamentos por elas originados, para serem utilizadas no futuro. O Espírito, trabalhando através da Mente, tem acesso instantâneo ao arquivo da Memória Consciente, podendo, a qualquer instante, ressuscitar qualquer das imagens que ali se encontrem, lhes infundir nova força espiritual e projetá-la no Corpo de Desejos para compelir à ação. Cada vez que tais imagens são assim usadas, mais força, eficiência e nitidez elas ganham e mais prontamente podem compelir à ação apropriada à natureza de cada uma, do que nas ocasiões anteriores, porque abrem, por assim dizer, sulcos no cérebro e produzem o fenômeno do pensamento, “conquistando-nos” ou “crescendo” em nós pela repetição.
 
-3ª-A terceira maneira de empregar o pensamento-forma é quando o pensador o projeta na direção de outra Mente, para atuar como sugestão, proporcionar informações, etc., como na telepatia. Se dirigido sobre o Corpo de Desejos de outra pessoa pode forçá-la à ação, como é o caso do hipnotizador que influencia sua vítima à distância. Nesse caso, o pensamento-forma atuará exatamente como se fosse o próprio pensamento da vítima. Se estiver de acordo com as tendências desta, atuará da maneira mencionada na alínea “a)” do lº parágrafo. Se for contrário à sua natureza atuará do modo como foi descrito nas alíneas “b)” ou “c)” do mesmo parágrafo.
+3\. A terceira maneira de empregar o pensamento-forma é quando o pensador o projeta na direção de outra Mente, para atuar como sugestão, proporcionar informações, etc., como na telepatia. Se dirigido sobre o Corpo de Desejos de outra pessoa pode forçá-la à ação, como é o caso do hipnotizador que influencia sua vítima à distância. Nesse caso, o pensamento-forma atuará exatamente como se fosse o próprio pensamento da vítima. Se estiver de acordo com as tendências desta, atuará da maneira mencionada na alínea “a” do lº parágrafo. Se for contrário à sua natureza atuará do modo como foi descrito nas alíneas “b” ou “c” do mesmo parágrafo.
 
 Quando o ato correspondente a tal pensamento-forma tenha se realizado, ou esgotado sua energia em vãs tentativas de realização, gravitará de volta ao seu criador, trazendo consigo a recordação indelével da jornada. Seu êxito ou fracasso imprimir-se-á nos átomos negativos do Éter Refletor do Corpo Vital, onde, por vezes denominada Mente Subconsciente, formará parte do registro da vida e atos do pensador.
 
 Esse registro é muito mais importante do que a memória a que temos acesso consciente, a chamada Memória Voluntária ou Mente Consciente[1], porque essa última é formada das imperfeitas e ilusórias percepções dos sentidos.
+
+() - [1] N.T.: também chamada Memória Consciente.
 
 A Memória Involuntária ou Mente Subconsciente (ou Memória Subconsciente) se forma de uma maneira diferente, estando atualmente fora do nosso controle. Do mesmo modo que o Éter leva uma impressão da paisagem fidelíssima nos menores detalhes à sensível película de uma máquina fotográfica, sem ter em conta se o fotógrafo os observou ou não, assim o Éter, contido no ar que aspiramos, leva consigo uma imagem fiel e detalhada de tudo o que está em volta de nós. Não só das coisas materiais, mas também das condições existentes em nossa aura a cada momento. O mais fugaz pensamento, sentimento ou emoção é transmitido aos pulmões, de onde é injetado no sangue. O sangue é um dos produtos mais elevados do Corpo Vital, tanto por ser o condutor de alimento para todas as partes do Corpo quanto por ser o veículo direto do Ego. As imagens nele contidas se imprimem nos átomos negativos do Corpo Vital, para servirem como árbitros do destino do ser humano no estado pós-morte.
 
@@ -801,8 +790,6 @@ Contudo, acontece, às vezes, que o Corpo de Desejos não se retira totalmente, 
 
 Durante a vida o Tríplice Espírito, o Ego, trabalha sobre e no Corpo Tríplice ao qual está ligado pelo elo da Mente. Esse trabalho traz à existência a Tríplice Alma. A Alma é, pois, o produto espiritualizado do Corpo.
 
-Diagrama 5 – O Tríplice Espírito, o Tríplice Corpo e a Tríplice Alma!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
-
 Como o alimento apropriado nutre o Corpo no sentido material, assim também a atividade do espírito no Corpo Denso, manifestada como reta ação, promove o crescimento da Alma Consciente. Como as forças solares atuam no Corpo Vital e o nutrem para que possa atuar no Corpo Denso, assim também a memória dos atos praticados no Corpo Denso; dos desejos, sentimentos e das emoções do Corpo de Desejos e dos pensamentos e das ideias na Mente produzem o crescimento da Alma Intelectual. Por forma semelhante, os desejos e as emoções mais elevados do Corpo de Desejos formam a Alma Emocional.
 
 A Tríplice Alma, por sua vez, amplia a consciência do Tríplice Espírito.
@@ -813,27 +800,27 @@ A Alma Intelectual amplia o poder do Espírito de Vida porque a Alma Intelectual
 
 A Alma Consciente aumenta a consciência do Espírito Divino, pois (a Alma Consciente) é o extrato do Corpo Denso, que por sua vez é a contraparte do Espírito Divino.
 
-[1] N.T.: também chamada Memória Consciente.
-
-*******
-
 #### <h4 id="death-and-purgatory">Morte e Purgatório</h4>
 
 Assim, o ser humano constrói e semeia até que a morte chega. Então o tempo da sementeira e os períodos de crescimento e amadurecimento ficaram para trás. É chegado o tempo da colheita, quando o esquelético espectro da morte surge com sua foice e sua ampulheta. Esse é um bom símbolo. O esqueleto simboliza a parte do Corpo de relativa permanência; a foice representa o fato de que essa parte permanente a qual está prestes a ser colhida pelo espírito, é o fruto da vida que vai terminar; a ampulheta indica que a hora soará somente depois que todo o tempo da vida tenha decorrido, em harmonia com leis imutáveis. Quando chega esse momento os veículos se separam. Como a vida no Mundo Físico terminou o ser humano não necessita mais do seu Corpo Denso. O Corpo Vital que, conforme já explicado, também pertence ao Mundo Físico, se retira pela cabeça, deixando o Corpo Denso inanimado.
 
 Os veículos superiores – Corpo Vital, Corpo de Desejos e Mente – podem ser vistos abandonando o Corpo Denso com um movimento em espiral, levando consigo a Alma de um átomo denso. Não o átomo em si, mas as forças que através dele atuavam. O resultado das experiências vividas no Corpo Denso durante a existência que acaba de terminar ficou impresso nesse átomo particular. Enquanto todos os demais átomos do Corpo Denso se renovam periodicamente, esse átomo continua subsistindo. E permanece estável não somente através de uma vida, mas das de todos os Corpos Densos já usados por qualquer Ego em particular. Esse átomo é retirado após a morte e despertará somente na aurora de uma próxima vida física para servir novamente como núcleo de mais um Corpo Denso, a ser usado pelo mesmo Ego, por isso é chamado “Átomo-semente”. Durante a vida o Átomo-semente se localiza no ventrículo esquerdo do coração, próximo do ápice. Ao ocorrer a morte sobe ao cérebro pelo nervo pneumogástrico, abandonando o Corpo Denso juntamente com os veículos superiores por entre as comissuras entre os ossos parietal e occipital[1].
 
-Quando os veículos superiores abandonam o Corpo Denso, permanecem ainda ligados a ele por meio de um cordão delgado, brilhante, prateado, muito semelhante à figura de dois seis invertidos, um na vertical e outro na horizontal, ambos ligados pelas extremidades do gancho (veja o Diagrama 5-A).
+() - [1] N.R.: Também chamada de sutura lambdoide (é uma sutura entre os ossos parietal e occipital do crâneo), marca as bordas entre o osso parietal e o osso occipital.
 
-Diagrama 5-A – O Cordão Prateado!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Quando os veículos superiores abandonam o Corpo Denso, permanecem ainda ligados a ele por meio de um cordão delgado, brilhante, prateado, muito semelhante à figura de dois seis invertidos, um na vertical e outro na horizontal, ambos ligados pelas extremidades do gancho (veja o Diagrama 5-A).
 
 Um extremo desse Cordão se prende ao coração por meio do Átomo-semente. É a ruptura do Átomo-semente que produz a paralisação do coração. O Cordão só se rompe depois que todo o Panorama da Vida passada, contido no Corpo Vital, foi contemplado.
 
-Todavia, se deve ter muito cuidado em não cremar ou embalsamar o Corpo antes de decorridos, no mínimo, três dias e meio após a morte, porque enquanto o Corpo Vital e os Corpos superiores permanecerem unidos ao Corpo por meio do Cordão Prateado, o ser humano, em certa medida, sentirá qualquer exame pós-morteou ferimento no Corpo Denso. A cremação deveria ser evitada nos três primeiros dias e meio depois da morte porque tende a desintegrar o Corpo Vital, que deve permanecer intacto até que se tenha imprimido, no Corpo de Desejos, o Panorama da Vida que passou.
+Todavia, se deve ter muito cuidado em não cremar ou embalsamar o Corpo antes de decorridos, no mínimo, três dias e meio após a morte, porque enquanto o Corpo Vital e os Corpos superiores permanecerem unidos ao Corpo por meio do Cordão Prateado, o ser humano, em certa medida, sentirá qualquer exame pós-morteou ferimento no Corpo Denso. 
+
+A cremação deveria ser evitada nos três primeiros dias e meio depois da morte porque tende a desintegrar o Corpo Vital, que deve permanecer intacto até que se tenha imprimido, no Corpo de Desejos, o Panorama da Vida que passou.
 
 O Cordão Prateado se rompe no ponto de união dos dois seis, metade permanecendo com o Corpo Denso e a outra metade com os veículos superiores. A partir do momento que o Cordão se rompe o Corpo Denso fica completamente morto.
 
 Em princípios de 1906 o Dr. McDougall[2] fez uma série de experiências no Hospital Geral de Massachusetts a fim de verificar se algo invisível abandonava o Corpo por ocasião da morte. Com esse propósito construiu uma balança capaz de registrar até um décimo de onça.
+
+() - [2] N.R.: Dr. Duncan “Om” MacDougall (c.1866-1920) – médico americano
 
 A pessoa agonizante foi colocada com seu leito num dos estrados da balança, e no outro puseram pesos até o equilíbrio. Em todos os casos notou-se, que no momento preciso em que a pessoa agonizante exalava o último suspiro, o estrado contendo os pesos descia subitamente, elevando o leito e o Corpo colocados no outro estrado. Demonstrava, pois, que alguma coisa invisível, mas ponderável tinha abandonado o Corpo. Os jornais logo anunciaram em letras garrafais, por todo o país, que o Dr. McDougall tinha “pesado a Alma”.
 
@@ -844,6 +831,8 @@ Contudo, essa “alguma coisa invisível” não é a Alma. Existe uma grande di
 O que os cientistas pesaram foi o Corpo Vital, que é formado por quatro Éteres que pertencem ao Mundo Físico.
 
 Como já vimos, há certa quantidade desse Éter “sobreposta” ao Éter que envolve as partículas do Corpo humano, aí permanecendo durante a vida do Corpo físico[3], o que aumenta ligeiramente o peso do Corpo Denso das plantas, dos animais e do ser humano. Pela morte, ele escapa. Daí a diminuição de peso observada pelo Dr. McDougall nas pessoas das suas experiências, quando expiravam.
+
+() - [3] N.R.: que é o Corpo Denso
 
 O Dr. McDougall também experimentou pesar animais agonizantes. Contudo, nestes não notou qualquer diminuição de peso, embora um deles fosse um grande cão S. Bernardo. Afirmou-se então que os animais não tinham Alma. Pouco depois, porém, o professor La V. Twining, chefe do Departamento Científico da Escola Politécnica de Los Angeles, fez experiências com ratos e gatinhos, que encerrou em frascos de cristal hermeticamente fechados. Suas balanças eram as mais sensíveis que pôde encontrar, e foram colocadas dentro de uma grande caixa de vidro donde se extraiu toda a umidade. Observou-se então que todos os animais também perdiam peso quando morriam. Um rato que pesava 12,886 gramas perdeu subitamente 3,1 miligramas quando morreu.
 
@@ -871,6 +860,8 @@ Quando o Espírito deixa o Corpo Vital, o processo é muito parecido ao que se v
 
 Se o moribundo pudesse deixar todos os desejos para trás, descartaria logo o seu Corpo de Desejos, ficando livre para entrar nos Mundos Celestes, mas, isso geralmente não acontece. Muitas pessoas, principalmente quando morrem no vigor da vida, têm muitos laços e muitos interesses na vida terrena. Como perder o Corpo físico[4] não altera os desejos, pelo contrário, muitas vezes os aumenta, sentem um desejo intensíssimo de voltar. Isso produz o seu efeito: sujeita tais pessoas mais ao Mundo do Desejo de modo muito desagradável, embora desafortunadamente não possam compreender. Por outro lado, as pessoas idosas, decrépitas e todos aqueles debilitados por longa enfermidade e que estão cansados da vida passam por ele muito rapidamente.
 
+() - [4] N.R.: que é o Corpo Denso
+
 A seguinte ilustração permite compreender melhor o assunto: uma semente se separa facilmente do fruto maduro porque a polpa não está aderente, enquanto numa fruta verde a semente se apega com tenacidade à polpa. Assim é especialmente difícil para as pessoas se verem privadas de seu Corpo por um acidente, quando se encontram na plenitude de suas forças e saúde física: comprometidas de várias maneiras com as atividades da vida física, presas por laços à esposa ou ao marido, à família, aos parentes, aos amigos, realizando negócios e em busca de prazeres.
 
 O suicida, que procurou fugir da vida, apenas descobre que está mais vivo do que nunca, e que se encontra na mais lastimável condição. É capaz de observar aqueles a quem, com seu ato, talvez tenham prejudicado e, pior que tudo, tem uma inexplicável sensação de estar “oco”. A parte da aura ovoide, que geralmente contém o Corpo Denso, está vazia e, ainda que o Corpo de Desejos tenha tomado a forma do Corpo Denso descartado, ele se sente como uma concha vazia, pois o Arquétipo criador do Corpo persiste, por assim dizer, como um molde vazio na Região do Pensamento Concreto por tanto tempo quanto deveria viver o Corpo Denso. Quando uma pessoa morre de morte natural, mesmo no vigor da vida, a atividade do Arquétipo cessa e o Corpo de Desejos por si mesmo se ajusta para ocupar toda a forma. Contudo, no caso do suicida, o horrível sentimento de “vazio” permanece até o tempo em que deveria ocorrer a morte natural.
@@ -885,7 +876,11 @@ Consideremos o caso de uma pessoa alcoólatra. Ela é tão aficionada aos intoxi
 
 Vemos, assim, que não há nenhuma Deidade vingativa que tenha criado o Purgatório ou inferno para nós, mas sim que fomos nós próprios que os criamos com nossos maus atos e hábitos. Da intensidade dos nossos desejos depende o tempo e o sofrimento necessários para a sua expurgação. No caso acima, a pessoa alcoólatra nada sofreria se perdesse seus bens materiais, pois se os tinha, a eles não se apegou. Quanto à pessoa avara, tampouco lhe causaria o menor sofrimento se ver privado de bebidas alcoólicas. se pode até assegurar que não lhe importaria absolutamente se não existisse no mundo uma só gota de álcool. Contudo, ela se preocupou, isso sim, com o seu ouro, e a pessoa alcoólatra com a bebida. Assim, a infalível lei dá a cada um aquilo que necessita para se purificar de seus maus desejos e hábitos.
 
-Esta é a lei que, simbolizada pela gadanha da segadora, a morte, diz: “o que o ser humano semear, isto também colherá”[5].  É a Lei de Causa e Efeito, que regula todas as coisas nos três Mundos e em cada Reino da natureza: físico, moral e mental. Por toda parte atua inexoravelmente, ajustando todas as coisas e restabelecendo o equilíbrio, onde quer que o menor ato tenha produzido um distúrbio. O resultado dessa atuação da Lei pode se manifestar imediatamente ou tardar anos ou vidas inteiras, porém, algum dia e em algum lugar, far-se-á justiça e a equivalente retribuição. O Estudante deve notar, de modo especial, que o trabalho da Lei é inteiramente impessoal. No universo não existe nem recompensa, nem castigo. Tudo é resultado da Lei invariável. A ação desta Lei será elucidada, completamente, no próximo capítulo, onde a veremos associada à outra grande Lei do Cosmos que também opera na evolução do ser humano. A Lei que agora consideramos é a Lei de Consequência.
+Esta é a lei que, simbolizada pela gadanha da segadora, a morte, diz: “o que o ser humano semear, isto também colherá”[5].  É a Lei de Causa e Efeito, que regula todas as coisas nos três Mundos e em cada Reino da natureza: físico, moral e mental. Por toda parte atua inexoravelmente, ajustando todas as coisas e restabelecendo o equilíbrio, onde quer que o menor ato tenha produzido um distúrbio. O resultado dessa atuação da Lei pode se manifestar imediatamente ou tardar anos ou vidas inteiras, porém, algum dia e em algum lugar, far-se-á justiça e a equivalente retribuição. O Estudante deve notar, de modo especial, que o trabalho da Lei é inteiramente impessoal. 
+
+() - [5] N.T.: Gl 6:7
+
+No universo não existe nem recompensa, nem castigo. Tudo é resultado da Lei invariável. A ação desta Lei será elucidada, completamente, no próximo capítulo, onde a veremos associada à outra grande Lei do Cosmos que também opera na evolução do ser humano. A Lei que agora consideramos é a Lei de Consequência.
 
 No Mundo do Desejo ela age purificando ou purgando o ser humano de seus desejos inferiores, corrigindo as debilidades e vícios que retardam o seu progresso, fazendo-o sofrer da maneira mais conveniente a esse propósito. Aquele que fez outros sofrerem ou que com eles se comportou injustamente, sofrerá de maneira idêntica. se deve notar, porém que se uma pessoa domina os seus vícios, ou se arrepende e, tanto quanto possível, desfaz o mal causado a outrem, a reforma, o arrependimento e a restituição purgam-no desses vícios e más ações. Porque assim o equilíbrio é restabelecido e a lição aprendida durante esta encarnação, não mais podendo isso, portanto, causar sofrimento depois da morte.
 
@@ -897,6 +892,10 @@ Durante a sua vida no Mundo do Desejo, as imagens também se desenrolam para tr�
 
 Há outra característica peculiar a essa fase da existência pós-morte, intimamente relacionada com o fato, já referido, de que a distância é quase nula no Mundo do Desejo. Quando um ser humano morre, lhe parece crescer imensamente em seu Corpo Vital até adquirir proporções colossais. Essa sensação não se deve ao fato de que esse Corpo cresça realmente. Na verdade, ele não cresce. As faculdades de percepção é que recebem tantas impressões de várias fontes que tudo parece estar ao seu alcance. O mesmo acontece com o Corpo de Desejos. Parece ao ser humano estar presente ante todas as pessoas de suas relações na Terra, e com as quais de algum modo tem uma dívida a corrigir. Se injuriou um ser humano em S. Francisco[6] e outro em Nova York[7], sentirá como se uma parte de si mesmo estivesse em cada uma dessas cidades. Isto lhe produz uma estranha sensação de estar sendo dividido em pedaços.
 
+() - [6] San Francisco – cidade do estado da Califórnia, EUA
+
+() - [7] New York – cidade do estado de New York, EUA
+
 O Estudante pode, agora, compreender a importância do Panorama da Vida passada durante a existência purgatorial onde esse panorama se traduz em sentimentos definidos. Se ao morrer deixarem a pessoa tranquila, sem perturbação, a completa, profunda e clara impressão do panorama gravado como resultado no Corpo de Desejos fará que a vida no Mundo do Desejo seja muito mais vivida e consciente, e que a purificação seja mais perfeita. A expressão de desespero e as lamentações dos que rodeiam o leito de morte, dentro do período de três dias e meio mencionado, só podem resultar em que o ser humano obtenha uma impressão vaga da vida passada. O Espírito que tenha estampado uma gravação clara e profunda no seu Corpo de Desejos compreenderá os erros da vida passada muito mais clara e definidamente do que se as imagens gravadas resultarem indistintas, pelo fato de sua atenção ter sido desviada por lamentos e sofrimentos daqueles que o rodeavam. Os sentimentos relativos às coisas que causam sofrimento no Mundo do Desejo serão muito mais definidos se forem extraídos de uma impressão panorâmica bem distinta do que se a duração do processo fosse insuficiente.
 
 Esse agudo e preciso sentimento será de valor imenso nas vidas futuras. Ele estampa no Átomo-semente do Corpo de Desejos uma impressão indelével de si mesmo. As experiências serão esquecidas nas vidas futuras, mas o Sentimento subsistirá, de modo que quando novas oportunidades para repetir os erros das vidas passadas se apresentarem, esse Sentimento falará com toda a clareza e de maneira inequívoca. Essa é “a pequenina voz silenciosa” que nos adverte, ainda que não saibamos por que, mas quanto mais claro e definido tenha sido o panorama das vidas passadas tanto mais amiúde, forte e claramente, ouviremos essa voz. Vemos assim quão importante é proporcionarmos ao espírito em transição um ambiente de absoluta quietude. Assim fazendo, ajudamo-lo a colher o máximo benefício da vida que terminou e a evitar a repetição dos mesmos erros em vidas futuras. Lamentações histéricas e egoístas podem privá-lo de grande parte do valor da vida que passou.
@@ -907,23 +906,9 @@ Há um benefício inestimável em conhecer o método e o objetivo da purgação,
 
 Revendo os acontecimentos do dia e censurando-nos pelo malfeito, não devemos esquecer a aprovação impessoal do bem praticado, determinando-nos a agir ainda melhor. Desse modo fortificamos o bem pela aprovação, assim como debilitamos o mal pela reprovação.
 
-O arrependimento e a reforma são fatores poderosos para encurtar a existência no Purgatório, pois a Natureza jamais despende esforços em processos inúteis. Quando compreendemos o erro de certos hábitos ou atos em nossa vida passada e nos determinamos a eliminá-los ou a desfazer o malfeito, expurgamos suas imagens da Memória Subconsciente, de modo que depois da morte já não estarão ali para julgar-nos. Ainda que não possamos dar compensação por um erro cometido, a sinceridade do nosso arrependimento bastará. A Natureza não visa desforra ou busca vingança. Pode ser dada à vítima uma recompensa em outra forma. Muitos progressos, normalmente reservados para vidas futuras, serão conseguidos pelo ser humano que aproveita uma oportunidade sem hesitação, se julgando a si mesmo e eliminando os vícios pela reforma do seu caráter. Essa prática é enfaticamente recomendada. É, talvez, o ensinamento mais importante dessa obra.
+O arrependimento e a reforma são fatores poderosos para encurtar a existência no Purgatório, pois a Natureza jamais despende esforços em processos inúteis. Quando compreendemos o erro de certos hábitos ou atos em nossa vida passada e nos determinamos a eliminá-los ou a desfazer o malfeito, expurgamos suas imagens da Memória Subconsciente, de modo que depois da morte já não estarão ali para julgar-nos. Ainda que não possamos dar compensação por um erro cometido, a sinceridade do nosso arrependimento bastará. A Natureza não visa desforra ou busca vingança. Pode ser dada à vítima uma recompensa em outra forma. 
 
-[1] N.R.: Também chamada de sutura lambdoide (é uma sutura entre os ossos parietal e occipital do crâneo), marca as bordas entre o osso parietal e o osso occipital.
-
-[2] N.R.: Dr. Duncan “Om” MacDougall (c.1866-1920) – médico americano
-
-[3] N.R.: que é o Corpo Denso
-
-[4] N.R.: que é o Corpo Denso
-
-[5] N.T.: Gl 6:7
-
-[6] San Francisco – cidade do estado da Califórnia, EUA
-
-[7] New York – cidade do estado de New York, EUA
-
-*******
+Muitos progressos, normalmente reservados para vidas futuras, serão conseguidos pelo ser humano que aproveita uma oportunidade sem hesitação, se julgando a si mesmo e eliminando os vícios pela reforma do seu caráter. Essa prática é enfaticamente recomendada. É, talvez, o ensinamento mais importante dessa obra.
 
 #### <h4 id="the-borderland">A Região Limítrofe</h4>
 
@@ -931,9 +916,7 @@ O Purgatório ocupa as três Regiões inferiores do Mundo do Desejo. O Primeiro 
 
 Tais pessoas se encontram realmente em estado lastimável. Estão além do alcance de qualquer auxílio, e sofrem por muito mais tempo do que qualquer outra. Além disso, dispõem de pouquíssima vida nos Mundos Celestes, onde se ensina a construção de Corpos para uso futuro; então elas concentram todos os seus pensamentos cristalizantes sobre o Corpo que constroem para a vida futura e, assim, é construído um Corpo que tem tendências endurecedoras, como a que observamos na consumpção (progressivo definhamento do organismo por doenças). Às vezes, o sofrimento incidente em tais Corpos assim decrépitos poderão direcionar os pensamentos dessas entidades que os animam para Deus ajudando-as a prosseguir em sua evolução; mas, a Mente materialista corre o terrível perigo de perder todo o contato com o Espírito, convertendo a pessoa se tornar um proscrito, um pária. Por isso os Irmãos Maiores se preocuparam seriamente com o destino do Mundo ocidental durante o último século, e se não fosse a sua ação benéfica e especial havia um cataclismo social, comparado com o qual a Revolução Francesa seria uma brincadeira de crianças. O Clarividente desenvolvido pode observar quão dificilmente a Humanidade tem escapado de desastres tão devastadores que os continentes ter-se-iam submergidos no mar. O leitor encontrará uma exposição mais detalhada da relação do materialismo com as erupções vulcânicas no Capítulo XVIII, onde a lista de erupções do Vesúvio[1] corrobora tal relação, a menos que se atribua isso a meras “coincidências”, atitude geralmente tomada pelos cépticos quando enfrentam fatos e números que não podem explicar.
 
-[1] Vesúvio – vulcão localizado no golfo de Nápoles, Itália, a cerca de nove quilômetros a oeste de Nápoles.
-
-*******
+() - [1] Vesúvio – vulcão localizado no golfo de Nápoles, Itália, a cerca de nove quilômetros a oeste de Nápoles.
 
 #### <h4 id="the-first-heaven">O Primeiro Céu</h4>
 
@@ -941,79 +924,97 @@ Quando termina a existência purgatorial, o espírito purificado ascende ao Prim
 
 Deve-se sempre recordar que o poder de dar não pertence exclusivamente ao ser humano rico. Dar dinheiro sem discernimento pode ser até um mal. É um bem dar dinheiro para um propósito que consideremos benéfico, porém um serviço prestado vale mil vezes mais. Como disse Whitman[1]:
 
-    “Atenção, não dou palestras nem faço um pouco de caridade,  
-    Quando dou algo, dou-me por inteiro.”  
+() - [1] N.R.: do poema Song of Myself, part 40 de Walt Whitman (1819-1892) – poeta, ensaísta e jornalista americano.
+
+```
+“Atenção, não dou palestras nem faço um pouco de caridade,  
+Quando dou algo, dou-me por inteiro.”  
+```
 
 Um olhar carinhoso, expressões de confiança, uma simpática e amorosa ajuda são coisas que todos podem dar, seja qual for a fortuna de cada um. Todavia devemos ajudar o necessitado de maneira que ele possa ajudar a si próprio, seja física, financeira, moral ou mentalmente, para que não dependa mais de nós nem dos outros.
 
 A ética de dar, produzindo uma lição espiritual sobre aquele que dá, foi descrita de forma belíssima em “Visão de Sir Launfal”, de Lowell[2]. O jovem e ambicioso cavaleiro, Sir Launfal, envergando brilhante armadura e vestido com luxuosas roupas, parte do seu castelo em busca do “Santo Graal”. No seu escudo resplandece a cruz, o símbolo da benignidade e ternura do Nosso Salvador, o Ser amoroso e humilde, mas o coração do cavaleiro está repleto de orgulho e desdém para com os pobres e necessitados. Ele encontra um leproso mendigando e com um gesto de desdém lhe atira uma moeda, como se atirasse um osso a um cão faminto. Porém…
 
-    O leproso não ergueu o ouro do pó:  
-    “Melhor para mim é a côdea de pão que o pobre me dá,  
-    e melhor sua mão que me abençoará,  
-    ainda que de mãos vazias de sua porta me deva afastar.  
-    As esmolas que só com as mãos ofertadas,  
-    não são as verdadeiras.  
-    Inúteis são o ouro e as riquezas dadas  
-    apenas como um dever a cumprir.  
-    A mão, porém, não consegue a esmola abarcar,  
-    quando vem daquele que reparte o pouco que tem,  
-    que dá o que não é possível visualizar.  
-    – esse fio de Beleza que tudo sabe unir,  
-    que tudo sustenta, penetra e mantém –  
-    o coração ansioso e estende a mão  
-    quando Deus acompanha a doação,  
-    alimentando a Alma faminta, que sucumbia só, na escuridão”.  
+() - [2] N.R.: James Russell Lowell (1819-1891) – poeta romântico, crítico, satírico, escritor, diplomata e abolicionista americano.
+
+```
+O leproso não ergueu o ouro do pó:  
+“Melhor para mim é a côdea de pão que o pobre me dá,  
+e melhor sua mão que me abençoará,  
+ainda que de mãos vazias de sua porta me deva afastar.  
+As esmolas que só com as mãos ofertadas,  
+não são as verdadeiras.  
+Inúteis são o ouro e as riquezas dadas  
+apenas como um dever a cumprir.  
+A mão, porém, não consegue a esmola abarcar,  
+quando vem daquele que reparte o pouco que tem,  
+que dá o que não é possível visualizar.  
+– esse fio de Beleza que tudo sabe unir,  
+que tudo sustenta, penetra e mantém –  
+o coração ansioso e estende a mão  
+quando Deus acompanha a doação,  
+alimentando a Alma faminta, que sucumbia só, na escuridão”.  
+```
 
 Ao regressar, Sir Launfal encontra seu castelo ocupado por outro, sendo impedido de entrar nele.
 
-    Já velho, claudicante e alquebrado,  
-    da busca do Santo Graal, ele voltou  
-    pouco lhe importando o que para trás deixou.  
-    Não mais luzia a cruz sobre seu manto,  
-    mas fundo em seu coração a marca ficou:  
-    a divisa do pobre e seu triste pranto.  
+```
+Já velho, claudicante e alquebrado,  
+da busca do Santo Graal, ele voltou  
+pouco lhe importando o que para trás deixou.  
+Não mais luzia a cruz sobre seu manto,  
+mas fundo em seu coração a marca ficou:  
+a divisa do pobre e seu triste pranto.  
+```
 
 De novo encontra o leproso que, outra vez, lhe pede uma esmola. No entanto, o cavaleiro agora responde de outro modo.
 
-    E Sir Launfal lhe disse: “Vejo em ti  
-    a imagem d’Aquele que na cruz morreu.  
-    Tu, também, tens a coroa de espinhos de quem padeceu,  
-    muitos escárnios tens também sofrido  
-    e o desprezo do mundo hás sentido.  
-    As feridas em tua vida não faltaram  
-    nos pés, nas mãos, no corpo, elas te machucaram.  
-    Filho da clemente Maria reconhece quem eu sou  
-    e vê que, através do pobre, é a Ti que eu dou.”  
+```
+E Sir Launfal lhe disse: “Vejo em ti  
+a imagem d’Aquele que na cruz morreu.  
+Tu, também, tens a coroa de espinhos de quem padeceu,  
+muitos escárnios tens também sofrido  
+e o desprezo do mundo hás sentido.  
+
+As feridas em tua vida não faltaram  
+nos pés, nas mãos, no corpo, elas te machucaram.  
+Filho da clemente Maria reconhece quem eu sou  
+e vê que, através do pobre, é a Ti que eu dou.”  
+```
 
 Um olhar aos olhos do leproso lhe traz recordações e reconhecimento, e:
 
-    Seu coração era só cinza e pó.  
-    Ele partiu, em duas, sua única côdea de pão,  
-    ele quebrou o gelo da beira do córrego  
-    e ao leproso deu de comer e beber.  
-    Uma transformação, enfim, ocorreu:  
-    Não mais o leproso ao seu lado se curvava  
-    Mas, à frente dele, glorioso se levantava.  
+```
+Seu coração era só cinza e pó.  
+Ele partiu, em duas, sua única côdea de pão,  
+ele quebrou o gelo da beira do córrego  
+e ao leproso deu de comer e beber.  
+```
 
-    (…)
+Uma transformação, enfim, ocorreu:  
 
-    E a Voz, ainda mais doce que o silêncio:  
-    “Vê, Sou Eu, não temas!  
-    Na busca do Santo Graal, em muitos lugares  
-    Gastaste tua vida, sem nada lucrares.  
-    Olha! Ei-lo aqui: o cálice que acabaste de encher  
-    com a límpida água do regato que Me desse de beber.  
-    Esta côdea de pão é Meu Corpo  
-    que foi para ti partido.  
-    Esta água é Meu sangue  
-    que na cruz para ti foi vertido.  
-    A Santa Ceia é mantida, na verdade,  
-    por tudo que ajudamos o outro em sua necessidade.  
-    Pois a dádiva, só tem valor  
-    Quando com ela vem o doador  
-    e a três pessoas ela alimenta assim:  
-    ao faminto, a si própria e a Mim.”  
+```
+Não mais o leproso ao seu lado se curvava  
+Mas, à frente dele, glorioso se levantava.  
+(…)
+
+E a Voz, ainda mais doce que o silêncio:  
+“Vê, Sou Eu, não temas!  
+Na busca do Santo Graal, em muitos lugares  
+Gastaste tua vida, sem nada lucrares.  
+Olha! Ei-lo aqui: o cálice que acabaste de encher  
+com a límpida água do regato que Me desse de beber.  
+Esta côdea de pão é Meu Corpo  
+que foi para ti partido.  
+Esta água é Meu sangue  
+que na cruz para ti foi vertido.  
+A Santa Ceia é mantida, na verdade,  
+por tudo que ajudamos o outro em sua necessidade.  
+Pois a dádiva, só tem valor  
+Quando com ela vem o doador  
+e a três pessoas ela alimenta assim:  
+ao faminto, a si própria e a Mim.”  
+```
 
 O Primeiro Céu é um lugar de alegria, sem vestígios sequer de amargura. O espírito está além das influências materiais e terrestres e, ao reviver sua vida passada, assimila todo o bem nela contido. Aqui se realizam em toda amplitude todos os empreendimentos nobres a que o ser humano aspirou. É um lugar de repouso, e quanto mais dura tenha sido a vida, maior será o descanso que gozará. Enfermidade, tristeza e dor são coisas desconhecidas no Primeiro Céu. É a pátria de veraneio dos espiritualistas. Os pensamentos do devoto Cristão construíram ali a Nova Jerusalém. Formosas casas, flores, etc., são o prêmio dos que a elas aspiraram, e que eles mesmos construíram com o pensamento, se utilizando da sutilíssima matéria de desejos. Contudo são para eles tão reais e tangíveis como são para nós as casas materiais. Todos desfrutam ali a satisfação daquilo que não puderam alcançar na vida terrestre.
 
@@ -1023,14 +1024,24 @@ Para tais crianças o Primeiro Céu é uma sala de espera onde permanecem de um 
 
 Quando uma criança morre há sempre alguém da família à sua espera. No entanto, na falta disto, sempre existe quem a adote com sentimento maternal porque gostava também de fazê-lo em sua existência terrena, se satisfazendo em cuidar de um pequeno desamparado. A extrema plasticidade da matéria de desejos permite formar com a maior facilidade maravilhosos brinquedos viventes para as crianças, tornando suas vidas um formoso divertimento: contudo sua instrução não fica descuidada. Elas são agrupadas em classes de acordo com os seus temperamentos, sem se considerar a idade. No Mundo do Desejo é muito fácil ministrar lições objetivas da influência do bem e das más paixões sobre a conduta e a felicidade. Estas lições se imprimem, indelevelmente, sobre o sensitivo e emotivo Corpo de Desejos da criança e acompanham-na depois do renascimento. Assim, muitos dos que levam uma vida nobre devem-na ao fato de terem sido submetidos a esse treinamento. Quando nasce um espírito débil é comum os Seres Compassivos (os Líderes Invisíveis que dirigem nossa evolução) fazerem-no morrer em tenra idade para que possa ter esse treinamento extra, ajudando-o a se adaptar ao que talvez possa ser para ele uma vida dura. Parece ser esse o caso especialmente quando a impressão no Corpo de Desejos foi fraca, em decorrência de perturbações das lamentações dos parentes em volta do moribundo, ou por ter morrido em acidente ou num campo de batalha. Sob tais circunstâncias ele não pode experimentar, em sua existência pós-morte, a intensidade de sentimentos apropriados, por isso quando nasce e morre a seguir, em tenra idade, a perda se recobra na forma acima indicada. Muitas vezes, o dever de cuidar dessas crianças na vida celeste recai sobre aqueles que foram a causa dessas anomalias, pois assim lhe são proporcionadas oportunidades para repararem uma falta e aprenderem a agir melhor. Ou talvez venham a serem os pais daquele que prejudicaram, devendo cuidar dele nos poucos anos que viva. Nesse caso não importará que se lamentem histericamente por causa de sua morte, porque não há imagens no Corpo Vital infantil que produzam consequências.
 
-Esse céu é também lugar de progresso para todos os estudiosos, para os artistas e para os altruístas. O Estudante e o filósofo têm acesso instantâneo a todas as bibliotecas do mundo. O pintor observa, com inefável delícia, as combinações de cores sempre cambiantes. Logo aprende que seus pensamentos formam e misturam essas cores à vontade. Suas criações brilham e cintilam com uma vividez impossível de ser conseguida pelos que trabalham com as monótonas cores da Terra. Está, por assim dizer, pintando com matéria viva, resplandecente, sendo por isso mesmo capaz de executar suas obras com uma facilidade que lhe inunda a Alma de deleite. O músico não chegou ainda ao lugar em que sua arte se expressa a si mesma em toda a extensão. O Mundo Físico é o mundo da Forma. O Mundo do Desejo, onde se acham o Purgatório e o Primeiro Céu, é especialmente o mundo da cor; mas, o Mundo do Pensamento, onde estão localizados o Segundo Céu e o Terceiro Céu, é a esfera do som. A música celeste é um fato e não mera figura de retórica. Pitágoras não fantasiava quando falou da música das esferas, porque cada um dos Corpos celestiais tem seu tom definido e, juntos, formam a sinfonia celestial que Goethe[3] também menciona no prólogo do seu “Fausto”[4], onde na cena do céu o Arcanjo Rafael diz:
+Esse céu é também lugar de progresso para todos os estudiosos, para os artistas e para os altruístas. O Estudante e o filósofo têm acesso instantâneo a todas as bibliotecas do mundo. O pintor observa, com inefável delícia, as combinações de cores sempre cambiantes. Logo aprende que seus pensamentos formam e misturam essas cores à vontade. 
 
-    “Sol entoa sua velha canção  
-    Entre os cânticos rivais das esferas irmãs,  
-    Seu caminho predestinado vai trilhar  
-    Através dos anos, em retumbante marchar”.  
+Suas criações brilham e cintilam com uma vividez impossível de ser conseguida pelos que trabalham com as monótonas cores da Terra. Está, por assim dizer, pintando com matéria viva, resplandecente, sendo por isso mesmo capaz de executar suas obras com uma facilidade que lhe inunda a Alma de deleite. O músico não chegou ainda ao lugar em que sua arte se expressa a si mesma em toda a extensão. O Mundo Físico é o mundo da Forma. O Mundo do Desejo, onde se acham o Purgatório e o Primeiro Céu, é especialmente o mundo da cor; mas, o Mundo do Pensamento, onde estão localizados o Segundo Céu e o Terceiro Céu, é a esfera do som. A música celeste é um fato e não mera figura de retórica. Pitágoras não fantasiava quando falou da música das esferas, porque cada um dos Corpos celestiais tem seu tom definido e, juntos, formam a sinfonia celestial que Goethe[3] também menciona no prólogo do seu “Fausto”[4], onde na cena do céu o Arcanjo Rafael diz:
+
+() - [3] N.R.: Johann Wolfgang von Goethe (1749-1832) – autor e estadista alemão que também fez incursões pelo campo da ciência natural.
+
+() - [4] N.R.: Ao mencionar o nome de Fausto, a maioria da gente culta pensa na adaptação teatral desta ópera, feita por Gounod. Alguns admiram a música, mas o argumento não parece impressionar ninguém, de modo particular. Tal como se apresenta nesta ópera, a história parece ser demasiadamente comum: um homem sensual atraiçoa uma donzela ingênua e abandona-a, depois, para que expie sua loucura e sofra o resultado do seu excesso de confiança. A magia e bruxaria de algumas cenas da obra são consideradas, pela maioria das pessoas, como fantasias de um autor, aí introduzidas para dar às ações sórdidas mais vigor e interesse. Quando Fausto é levado por Mefistófeles aos infernos e Margarida sobe ao céu nas asas angelicais, no final, as pessoas imaginam que esta é a moral que convém para concluir dignamente a obra. Todavia, pouca gente sabe que a ópera de Gounod está baseada no drama de Goethe (um poema trágico do escritor alemão Johann Wolfgang von Goethe, dividido em duas partes. Está redigido como uma peça de teatro com diálogos rimados, pensado mais para ser lido que para ser encenado. É considerado uma das grandes obras-primas da literatura alemã.). Os que estudaram esse drama, forma dele uma ideia muito diferente da que o argumento da ópera sugere. Somente os poucos místicos iluminados veem na obra de Goethe a mão inequívoca de um companheiro Iniciado e iluminado e reconhecem, perfeitamente, a grande significação cósmica da obra. É preciso compreender, claramente, que a história de Fausto é um mito, tão antigo como a Humanidade. Goethe apresentou-o numa forma mística apropriada, esclarecendo um dos mais antigos problemas da atualidade: a relação e a luta entre a Maçonaria e o Catolicismo, já examinada, sob outro ponto de vista, num livro anteriormente publicado “A Maçonaria e o Catolicismo-Max Heindel-Fraternidade Rosacruz”.
+
+```
+“Sol entoa sua velha canção  
+Entre os cânticos rivais das esferas irmãs,  
+Seu caminho predestinado vai trilhar  
+Através dos anos, em retumbante marchar”.  
+```
 
 Os ecos desta música celeste chegam até nós, aqui no Mundo Físico, e são o nosso bem mais precioso, ainda que fugazes como o fogo-fátuo[5]. A música não pode ser criada permanentemente, a exemplo de outras obras de arte – uma estátua, um quadro, ou um livro. No Mundo Físico, o som morre logo que nasce. No Primeiro Céu, porém, esses ecos são muito mais formosos e permanentes, daí o músico poder ouvir ali os mais doces acordes que jamais ouviu em toda sua vida terrena.
+
+() - [5] N.R.: também chamado de fogo tolo ou, no interior do Brasil, fogo corredor, boitatá ou João-galafoice, é uma luz azulada que pode ser avistada em pântanos, brejos, etc. “Quando um corpo orgânico entra em decomposição, ocorre uma liberação de gás metano (CH4). Se em algum local houver condições de concentração do metano, o gás começará a concentrar, e se o clima estiver relativamente quente, ocorrerá uma explosão espontânea.”.
 
 As experiências do poeta são semelhantes às do músico, pois a poesia é expressão dos mais íntimos sentimentos da Alma em palavras. Estas se ordenam consoante às mesmas leis de harmonia e ritmo que regem a expressão do espírito na música. Além disso, o poeta encontra uma inspiração magnífica nas imagens e cores, que são as características principais do Mundo do Desejo. Dali tomará os materiais para usá-los em seu próximo renascimento aqui. De maneira idêntica o escritor acumula material e faculdade. O filantropo concebe seus planos altruístas para a elevação do ser humano. Se falhou em uma vida, verá a razão do fracasso no Primeiro Céu, e aprenderá ali a superar os obstáculos e a evitar os erros que tornaram seus planos impraticáveis.
 
@@ -1040,19 +1051,9 @@ Como já foi relatado, as forças do Átomo-semente são retiradas. Para o mater
 
 Matéria é espírito cristalizado.
 
-Força é o mesmo espírito ainda não cristalizado. Isto já foi dito antes, mas nunca será demais incutir na Mente. Nesta relação, a ilustração do caracol é muito proveitosa. A matéria, que é espírito cristalizado, corresponde à concha do caracol, que vem a ser cristalizada. Outra boa comparação: a força química que move a matéria, tornando-a apta para a construção da forma, corresponde ao caracol que move sua casa. Portanto, o que atualmente é caracol será concha daqui a algum tempo, e o que agora é força será matéria quando se cristalizar futuramente. O processo inverso de transmutação de matéria em Espírito também se processa continuamente. A fase mais elementar desse processo nós vemos na decomposição, quando o ser humano abandona seus veículos: o Espírito de um átomo se separa facilmente do Espírito mais inferior que se manifestava como matéria.
+Força é o mesmo espírito ainda não cristalizado. 
 
-[1] N.R.: do poema Song of Myself, part 40 de Walt Whitman (1819-1892) – poeta, ensaísta e jornalista americano.
-
-[2] N.R.: James Russell Lowell (1819-1891) – poeta romântico, crítico, satírico, escritor, diplomata e abolicionista americano.
-
-[3] N.R.: Johann Wolfgang von Goethe (1749-1832) – autor e estadista alemão que também fez incursões pelo campo da ciência natural.
-
-[4] N.R.: Ao mencionar o nome de Fausto, a maioria da gente culta pensa na adaptação teatral desta ópera, feita por Gounod. Alguns admiram a música, mas o argumento não parece impressionar ninguém, de modo particular. Tal como se apresenta nesta ópera, a história parece ser demasiadamente comum: um homem sensual atraiçoa uma donzela ingênua e abandona-a, depois, para que expie sua loucura e sofra o resultado do seu excesso de confiança. A magia e bruxaria de algumas cenas da obra são consideradas, pela maioria das pessoas, como fantasias de um autor, aí introduzidas para dar às ações sórdidas mais vigor e interesse. Quando Fausto é levado por Mefistófeles aos infernos e Margarida sobe ao céu nas asas angelicais, no final, as pessoas imaginam que esta é a moral que convém para concluir dignamente a obra. Todavia, pouca gente sabe que a ópera de Gounod está baseada no drama de Goethe (um poema trágico do escritor alemão Johann Wolfgang von Goethe, dividido em duas partes. Está redigido como uma peça de teatro com diálogos rimados, pensado mais para ser lido que para ser encenado. É considerado uma das grandes obras-primas da literatura alemã.). Os que estudaram esse drama, forma dele uma ideia muito diferente da que o argumento da ópera sugere. Somente os poucos místicos iluminados veem na obra de Goethe a mão inequívoca de um companheiro Iniciado e iluminado e reconhecem, perfeitamente, a grande significação cósmica da obra. É preciso compreender, claramente, que a história de Fausto é um mito, tão antigo como a Humanidade. Goethe apresentou-o numa forma mística apropriada, esclarecendo um dos mais antigos problemas da atualidade: a relação e a luta entre a Maçonaria e o Catolicismo, já examinada, sob outro ponto de vista, num livro anteriormente publicado “A Maçonaria e o Catolicismo-Max Heindel-Fraternidade Rosacruz”.
-
-[5] N.R.: também chamado de fogo tolo ou, no interior do Brasil, fogo corredor, boitatá ou João-galafoice, é uma luz azulada que pode ser avistada em pântanos, brejos, etc. “Quando um corpo orgânico entra em decomposição, ocorre uma liberação de gás metano (CH4). Se em algum local houver condições de concentração do metano, o gás começará a concentrar, e se o clima estiver relativamente quente, ocorrerá uma explosão espontânea.”.
-
-*******
+Isto já foi dito antes, mas nunca será demais incutir na Mente. Nesta relação, a ilustração do caracol é muito proveitosa. A matéria, que é espírito cristalizado, corresponde à concha do caracol, que vem a ser cristalizada. Outra boa comparação: a força química que move a matéria, tornando-a apta para a construção da forma, corresponde ao caracol que move sua casa. Portanto, o que atualmente é caracol será concha daqui a algum tempo, e o que agora é força será matéria quando se cristalizar futuramente. O processo inverso de transmutação de matéria em Espírito também se processa continuamente. A fase mais elementar desse processo nós vemos na decomposição, quando o ser humano abandona seus veículos: o Espírito de um átomo se separa facilmente do Espírito mais inferior que se manifestava como matéria.
 
 #### <h4 id="the-second-heaven">O Segundo Céu</h4>
 
@@ -1060,134 +1061,13 @@ Finalmente o ser humano, o Ego, o Tríplice Espírito, entra no Segundo Céu. Es
 
 Quando o ser humano, ao morrer, perde seus Corpos Denso e Vital, encontra-se nas mesmas condições de uma pessoa adormecida. O Corpo de Desejos, conforme explicado, não possui órgãos próprios para uso. De um ovoide transforma-se então numa figura parecida com o Corpo Denso abandonado. Facilmente se compreende que deve haver um intervalo de inconsciência semelhante ao sono antes de o ser humano despertar no Mundo do Desejo. Por conseguinte, não é raro acontecer a certas pessoas permanecerem, durante longo tempo, incertas do que se passou com elas. Notam que podem pensar e mover-se, mas não compreendem que morreram. Às vezes é até muito difícil conseguir fazê-las crer que estão realmente “mortas”. Compreendem, sim, que algo está diferente, mas não são capazes de entender o que seja.
 
-Quando termina a existência purgatorial, o espírito purificado ascende ao Primeiro Céu, que está situado nas três Regiões mais elevadas do Mundo do Desejo. Os resultados dos sofrimentos são incorporados ao Átomo-semente do Corpo de Desejos, o que lhe comunica a qualidade de reto sentimento que atuará, no futuro, como impulso para o bem e repulsão ao mal. Aqui o panorama do passado se desenrola de novo para trás, mas então as boas obras da vida são à base dos sentimentos. Ao chegarmos às cenas em que ajudamos a outrem, viveremos de novo toda a alegria que isto nos proporcionou, como também sentiremos toda a gratidão emitida por aqueles a quem ajudamos. Quando contemplamos de novo as cenas em que fomos ajudados por outros, voltamos a sentir toda a gratidão que emitimos ao nosso benfeitor. Desse modo vemos a importância de apreciar os favores com que outros nos cumularam, porque a gratidão produz crescimento anímico. Nossa felicidade no céu depende da felicidade que tenhamos proporcionado a outros, e do valor que demos àquilo que outros fizeram por nós.
-
-Deve-se sempre recordar que o poder de dar não pertence exclusivamente ao ser humano rico. Dar dinheiro sem discernimento pode ser até um mal. É um bem dar dinheiro para um propósito que consideremos benéfico, porém um serviço prestado vale mil vezes mais. Como disse Whitman[2]:
-
-    “Atenção, não dou palestras nem faço um pouco de caridade,  
-    Quando dou algo, dou-me por inteiro.”  
-
-Um olhar carinhoso, expressões de confiança, uma simpática e amorosa ajuda são coisas que todos podem dar, seja qual for a fortuna de cada um. Todavia devemos ajudar o necessitado de maneira que ele possa ajudar a si próprio, seja física, financeira, moral ou mentalmente, para que não dependa mais de nós nem dos outros.
-
-A ética de dar, produzindo uma lição espiritual sobre aquele que dá, foi descrita de forma belíssima em “Visão de Sir Launfal”, de Lowell[3]. O jovem e ambicioso cavaleiro, Sir Launfal, envergando brilhante armadura e vestido com luxuosas roupas, parte do seu castelo em busca do “Santo Graal”. No seu escudo resplandece a cruz, o símbolo da benignidade e ternura do Nosso Salvador, o Ser amoroso e humilde, mas o coração do cavaleiro está repleto de orgulho e desdém para com os pobres e necessitados. Ele encontra um leproso mendigando e com um gesto de desdém atira-lhe uma moeda, como se atirasse um osso a um cão faminto. Porém…
-
-    O leproso não ergueu o ouro do pó:  
-    “Melhor para mim é a côdea de pão que o pobre me dá,  
-    e melhor sua mão que me abençoará,  
-    ainda que de mãos vazias de sua porta me deva afastar.  
-    As esmolas que só com as mãos ofertadas,  
-    não são as verdadeiras.  
-    Inúteis são o ouro e as riquezas dadas  
-    apenas como um dever a cumprir.  
-    A mão, porém, não consegue a esmola abarcar,  
-    quando vem daquele que reparte o pouco que tem,  
-    que dá o que não é possível visualizar.  
-    – esse fio de Beleza que tudo sabe unir,  
-    que tudo sustenta, penetra e mantém –  
-    o coração ansioso e estende a mão  
-    quando Deus acompanha a doação,  
-    alimentando a Alma faminta, que sucumbia só, na escuridão”.  
-
-Ao regressar, Sir Launfal encontra seu castelo ocupado por outro, sendo impedido de nele entrar.
-
-    Já velho, claudicante e alquebrado,  
-    da busca do Santo Graal, ele voltou  
-    pouco lhe importando o que para trás deixou.  
-    Não mais luzia a cruz sobre seu manto,  
-    mas fundo em seu coração a marca ficou:  
-    a divisa do pobre e seu triste pranto.  
-
-De novo encontra o leproso que, outra vez, lhe pede uma esmola. No entanto, o cavaleiro agora responde de outro modo.
-
-    E Sir Launfal lhe disse: “Vejo em ti  
-    a imagem d’Aquele que na cruz morreu.  
-    Tu, também, tens a coroa de espinhos de quem padeceu,  
-    muitos escárnios tens também sofrido  
-    e o desprezo do mundo hás sentido.  
-    As feridas em tua vida não faltaram  
-    nos pés, nas mãos, no corpo, elas te machucaram.  
-    Filho da clemente Maria reconhece quem eu sou  
-    e vê que, através do pobre, é a Ti que eu dou.”  
-
-Um olhar aos olhos do leproso lhe traz recordações e reconhecimento, e:
-
-    Seu coração era só cinza e pó.  
-    Ele partiu, em duas, sua única côdea de pão,  
-    ele quebrou o gelo da beira do córrego  
-    e ao leproso deu de comer e beber.  
-    Uma transformação, enfim, ocorreu:  
-    Não mais o leproso ao seu lado se curvava  
-    Mas, à frente dele, glorioso se levantava.  
-
-    (…)  
-
-    E a Voz, ainda mais doce que o silêncio:  
-    “Vê, Sou Eu, não temas!  
-    Na busca do Santo Graal, em muitos lugares  
-    Gastaste tua vida, sem nada lucrares.  
-    Olha! Ei-lo aqui: o cálice que acabaste de encher  
-    com a límpida água do regato que Me desse de beber.  
-    Esta côdea de pão é Meu Corpo  
-    que foi para ti partido.  
-    Esta água é Meu sangue  
-    que na cruz para ti foi vertido.  
-    A Santa Ceia é mantida, na verdade,  
-    por tudo que ajudamos o outro em sua necessidade.  
-    Pois a dádiva, só tem valor  
-    Quando com ela vem o doador  
-    e a três pessoas ela alimenta assim:  
-    ao faminto, a si própria e a Mim.”  
-
-O Primeiro Céu é um lugar de alegria, sem vestígios sequer de amargura. O espírito está além das influências materiais e terrestres e, ao reviver sua vida passada, assimila todo o bem nela contido. Aqui se realizam em toda amplitude todos os empreendimentos nobres a que o ser humano aspirou. E um lugar de repouso, e quanto mais dura tenha sido a vida maior será o descanso que gozará. Enfermidade, tristeza e dor são coisas desconhecidas no Primeiro Céu. É a pátria de veraneio dos espiritualistas. Os pensamentos do devoto Cristão construíram ali a Nova Jerusalém. Formosas casas, flores, etc., são o prêmio dos que a elas aspiraram, e que eles mesmos construíram com o pensamento, utilizando-se da sutilíssima matéria de desejos. Contudo são para eles tão reais e tangíveis como são para nós as casas materiais. Todos desfrutam ali a satisfação daquilo que não puderam alcançar na vida terrestre.
-
-Há uma classe de seres que goza uma vida especialmente formosa no Primeiro Céu: as crianças. Se pudéssemos vê-las, logo cessariam nossos pesares. Quando uma criança morre antes do nascimento do Corpo de Desejos, isto é, antes dos catorze anos, não vai além do Primeiro Céu porque não é responsável pelos seus atos, do mesmo modo que o feto que se contorce no útero não é responsável pelo incômodo que causa à sua mãe. Portanto, a criança não tem existência purgatorial. O que não foi vivificado não pode morrer, portanto o Corpo de Desejos de uma criança, junto com a Mente, persistirá até o novo nascimento. Por essa razão, essas crianças são capazes de recordar suas vidas anteriores, como é o caso que se narra em outro lugar.
-
-Para tais crianças o Primeiro Céu é uma sala de espera onde permanecem de um a vinte anos, até que se apresente uma nova oportunidade para renascerem. Entretanto, é algo mais do que uma simples sala de espera, porque, nesse ínterim realiza-se ali um grande progresso.
-
-Quando uma criança morre há sempre alguém da família à sua espera. No entanto, na falta disto, sempre existe quem a adote com sentimento maternal porque gostava também de fazê-lo em sua existência terrena, satisfazendo-se em cuidar de um pequeno desamparado. A extrema plasticidade da matéria de desejos permite formar com a maior facilidade maravilhosos brinquedos viventes para as crianças, tornando suas vidas um formoso divertimento: contudo sua instrução não fica descuidada. Elas são agrupadas em classes de acordo com os seus temperamentos, sem considerar-se a idade. No Mundo do Desejo é muito fácil ministrar-se lições objetivas da influência do bem e das más paixões sobre a conduta e a felicidade. Estas lições imprimem-se indelevelmente sobre o sensitivo e emotivo Corpo de Desejos da criança e acompanham-na depois do renascimento. Assim, muitos dos que levam uma vida nobre devem-na ao fato de terem sido submetidos a esse treinamento. Quando nasce um espírito débil é comum os Compassivos Seres (os Líderes Invisíveis que dirigem nossa evolução) fazerem-no morrer em tenra idade para que possa ter esse treinamento extra, ajudando-o a adaptar-se ao que talvez possa ser para ele uma vida dura. Parece ser esse o caso especialmente quando a impressão no Corpo de Desejos foi fraca, em decorrência de perturbações das lamentações dos parentes em volta do moribundo, ou por ter morrido em acidente ou num campo de batalha. Sob tais circunstâncias ele não pode experimentar, em sua existência pós-morte, a intensidade de sentimentos apropriados, por isso quando nasce e morre a seguir, em tenra idade, a perda se recobra na forma acima indicada. Muitas vezes, o dever de cuidar dessas crianças na vida celeste recai sobre aqueles que foram a causa dessas anomalias, pois assim são-lhe proporcionadas oportunidades para repararem uma falta e aprenderem a agir melhor. Ou talvez venham a serem os pais daquele que prejudicaram, devendo cuidar dele nos poucos anos que viva. Nesse caso não importará que se lamentem histericamente por causa de sua morte porque não há imagens no Corpo Vital infantil que produzam consequências.
-
-Esse céu é também lugar de progresso para todos os estudiosos, para os artistas e para os altruístas. O Estudante e o filósofo têm acesso instantâneo a todas as bibliotecas do mundo. O pintor observa, com inefável delícia, as combinações de cores sempre cambiantes. Logo aprende que seus pensamentos formam e misturam essas cores à vontade. Suas criações brilham e cintilam com uma vividez impossível de ser conseguida pelos que trabalham com as monótonas cores da Terra. Está, por assim dizer, pintando com matéria viva, resplandecente, sendo por isso mesmo capaz de executar suas obras com uma facilidade que lhe inunda a Alma de deleite. O músico não chegou ainda ao lugar em que sua arte se expressa a si mesma em toda a extensão. O Mundo Físico é o mundo da Forma. O Mundo do Desejo, onde se acham o Purgatório e o Primeiro Céu, é especialmente o mundo da Cor; mas, o Mundo do Pensamento, onde estão localizados o Segundo Céu e o Terceiro Céu, é a esfera do Som. A música celeste é um fato e não mera figura de retórica. Pitágoras não fantasiava quando falou da música das esferas, porque cada um dos Corpos celestiais tem seu tom definido e, juntos, formam a sinfonia celestial que Goethe[4] também menciona no prólogo do seu “Fausto”, onde na cena do céu o Arcanjo Rafael diz:
-
-    “Sol entoa sua velha canção  
-    Entre os cânticos rivais das esferas irmãs,  
-    Seu caminho predestinado vai trilhar  
-    Através dos anos, em retumbante marchar”.  
-
-Os ecos desta música celeste chegam até nós, aqui no Mundo Físico, e são o nosso bem mais precioso, ainda que fugazes como o fogo-fátuo. A música não pode ser criada permanentemente, a exemplo de outras obras de arte – uma estátua, um quadro, ou um livro. No Mundo Físico, o som morre logo que nasce. No Primeiro Céu, porém, esses ecos são muito mais formosos e permanentes, daí o músico poder ouvir ali os mais doces acordes que jamais ouviu em toda sua vida terrena.
-
-As experiências do poeta são semelhantes às do músico, pois a poesia é expressão dos mais íntimos sentimentos da Alma em palavras. Estas se ordenam consoante às mesmas leis de harmonia e ritmo que regem a expressão do espírito na música. Além disso, o poeta encontra uma inspiração magnífica nas imagens e cores, que são as características principais do Mundo do Desejo. Dali tomará os materiais para usá-los em sua próxima encarnação. De maneira idêntica o escritor acumula material e faculdade. O filantropo concebe seus planos altruístas para a elevação do ser humano. Se falhou em uma vida, verá a razão do fracasso no Primeiro Céu, e aprenderá ali a superar os obstáculos e a evitar os erros que tornaram seus planos impraticáveis.
-
-Com o tempo, chega-se a um ponto em que o resultado da dor e do sofrimento no Purgatório, junto ao sentimento feliz extraído das boas ações da vida passada, integram-se ao Átomo-semente do Corpo de Desejos. Juntos eles constituem o que chamamos consciência, essa força propulsora que nos põe em guarda contra o mal, o produtor de sofrimentos, e nos inclina para o bem, o gerador de felicidade e alegria. Tal como abandonou os Corpos Denso e Vital, assim o ser humano abandona seu Corpo de Desejos, que se desintegra. Dele, leva consigo unicamente as forças do Átomo-semente, que formarão o núcleo do futuro Corpo de Desejos, como o foi a partícula permanente de percepção dos seus veículos anteriores.
-
-Como já foi relatado, as forças do Átomo-semente são retiradas. Para o materialista, força e matéria são inseparáveis. O ocultista vê as coisas diferentemente. Para ele não são dois conceitos totalmente distintos e separados, mas os dois polos de um só espírito.
-
-Matéria é espírito cristalizado.
-
-Força é o mesmo espírito ainda não cristalizado. Isto já foi dito antes, mas nunca será demais incutir na Mente. Nesta relação, a ilustração do caracol é muito proveitosa. A matéria, que é espírito cristalizado, corresponde à concha do caracol, que vem a ser cristalizada. Outra boa comparação: a força química que move a matéria, tornando-a apta para a construção da forma, corresponde ao caracol que move sua casa. Portanto, o que atualmente é caracol será concha daqui a algum tempo, e o que agora é força será matéria quando se cristalizar futuramente. O processo inverso de transmutação de matéria em espírito processa-se também continuamente. A fase mais elementar desse processo nós vemos na decomposição, quando o ser humano abandona seus veículos: o espírito de um átomo separa-se facilmente do espírito mais inferior que se manifestava como matéria.
-
-[1] Vesúvio – vulcão localizado no golfo de Nápoles, Itália, a cerca de nove quilômetros a oeste de Nápoles.
-
-[2] N.R.: do poema Song of Myself, part 40 de Walt Whitman (1819-1892) – poeta, ensaísta e jornalista americano.
-
-[3] N.R.: James Russell Lowell (1819-1891) – poeta romântico, crítico, satírico, escritor, diplomata e abolicionista americano
-
-[4] N.R.: Johann Wolfgang von Goethe (1749-1832) – autor e estadista alemão que também fez incursões pelo campo da ciência natural
-
-*******
-
-#### O Segundo Céu
-
-Finalmente o ser humano, o Ego, o Tríplice Espírito, entra no Segundo Céu. Está envolto na Mente, que contém os três Átomos-sementes – a quintessência dos três veículos abandonados.
-
-Quando o ser humano, ao morrer, perde seus Corpos Denso e Vital, ele se encontra nas mesmas condições de uma pessoa adormecida. O Corpo de Desejos, conforme explicado, não possui órgãos próprios para uso. De um ovoide se transforma então numa figura parecida com o Corpo Denso abandonado. Facilmente se compreende que deve haver um intervalo de inconsciência semelhante ao sono antes de o ser humano despertar no Mundo do Desejo. Por conseguinte, não é raro acontecer a certas pessoas permanecerem, durante longo tempo, incertas do que se passou com elas. Notam que podem pensar e mover-se, mas não compreendem que morreram. Às vezes é até muito difícil conseguir fazê-las crer que estão realmente “mortas”. Compreendem, sim, que algo está diferente, mas não são capazes de entender o que seja.
-
 Tal não acontece quando se efetua a passagem do Primeiro Céu – no Mundo do Desejo –, para o Segundo Céu, na Região do Pensamento Concreto. Abandonando seu Corpo de Desejos, o ser humano está, então, perfeitamente consciente. Passa a um grande silêncio, e durante esse intervalo tudo parece desvanecer-se, ele não pode pensar. Nenhuma das suas faculdades se acha ativa, mas sabe que é. Tem a sensação de se encontrar no “Eterno Agora”, de se achar completamente só, todavia sem temor, e sua Alma se inunda de uma paz inefável, “que excede toda compreensão[1]”.
+
+() - [1] N.R.: Fp 4:7
 
 A Ciência Oculta chama isso “O Grande Silêncio”.
 
-Então, vem o despertar. O Espírito está agora em sua pátria, seu lar – os Mundos Celestes. E o despertar lhe traz ao Espírito o som da música das esferas.
-
-Na existência terrena vivemos tão absorvidos pelos pequenos ruídos e sons do nosso restrito ambiente, que somos incapazes de ouvir a música dos Astros em movimento, mas o ocultista ouve-a. Ele sabe que os doze Signos do Zodíaco e os sete Planetas formam a caixa de ressonância e “as sete cordas da lira de Apolo”. Sabe também que um simples desacorde na harmonia celestial desse grande Instrumento poderia produzir “um aniquilamento da matéria e uma colisão de mundos”.
+Então, vem o despertar. O Espírito está agora em sua pátria, seu lar – os Mundos Celestes. E o despertar lhe traz ao Espírito o som da música das esferas. Na existência terrena vivemos tão absorvidos pelos pequenos ruídos e sons do nosso restrito ambiente, que somos incapazes de ouvir a música dos Astros em movimento, mas o ocultista ouve-a. Ele sabe que os doze Signos do Zodíaco e os sete Planetas formam a caixa de ressonância e “as sete cordas da lira de Apolo”. Sabe também que um simples desacorde na harmonia celestial desse grande Instrumento poderia produzir “um aniquilamento da matéria e uma colisão de mundos”.
 
 O poder da vibração rítmica é bem conhecido de todo àquele que já dedicou ao mesmo assunto um estudo superficial. Por exemplo: quando soldados atravessam uma ponte se ordena a eles que rompam o compasso da marcha, porque seu passo rítmico poderia destruir a estrutura mais forte. O relato bíblico do efeito das trombetas de chifre de carneiro, enquanto marchavam ao redor dos muros da cidade de Jericó não é coisa sem nexo para o ocultista. Em alguns casos semelhantes coisas já aconteceram sem provocar o riso geral de desdenhosa incredulidade. Há poucos anos uma banda de música estava ensaiando num jardim, junto ao sólido muro de um castelo antigo. Em dado momento, uma nota muito penetrante e demoradamente foi emitida e, então, o muro do castelo ruiu de súbito. Os músicos tinham tocado a nota-chave do muro com a intensidade e o prolongamento suficientes para derrubá-lo.
 
@@ -1205,19 +1085,25 @@ Essa espiritualização dos veículos se realiza por meio do cultivo das faculda
 
 O Segundo Céu é o verdadeiro lar do ser humano – o Ego, o Pensador. Aqui ele permanece durante séculos, assimilando o fruto da última vida e preparando as condições terrenas mais apropriadas para o seu próximo passo no progresso. O som ou tom que permeia essa Região, se patenteando por toda parte como cor é, por assim dizer, o seu instrumento. Essa harmoniosa vibração sonora, qual elixir de vida, amalgama no Tríplice Espírito a quintessência do Tríplice Corpo, da qual depende o seu crescimento.
 
-A vida no Segundo Céu é extraordinariamente ativa e variada em numerosos sentidos. O Ego assimila os frutos de sua última vida terrena e prepara o ambiente para uma nova existência física. Não basta dizer que as novas condições serão determinadas pela conduta e atos da última vida. É necessário que os frutos do passado sejam aplicados no Mundo Físico, que será o próximo campo de atividade do Ego, e onde esse adquirirá novas experiências físicas e colhendo mais frutos.
-
-Portanto, todos os habitantes dos Mundos Celestes trabalham sobre os modelos da Terra – a totalidade dos quais se encontra na Região do Pensamento Concreto – lhe alterando as formas físicas e lhe produzindo mudanças graduais no aspecto. Assim, em cada retorno à vida física eles encontram um ambiente diferente onde podem adquirir novas experiências. O clima, a flora e a faunasão alterados pelo ser humano sob a direção de Seres elevados que mais tarde descreveremos. Por conseguinte, o mundo é exatamente o que nós próprios, individual e coletivamente, temos feito dele, e será tal e qual como o fizermos. Em tudo quanto ocorre, o ocultista vê uma causa de natureza espiritual se manifestando a si mesma, inclusive o alarmante aumento de frequência das perturbações sísmicas, que têm origem no pensamento materialista da ciência moderna.
+A vida no Segundo Céu é extraordinariamente ativa e variada em numerosos sentidos. O Ego assimila os frutos de sua última vida terrena e prepara o ambiente para uma nova existência física. Não basta dizer que as novas condições serão determinadas pela conduta e atos da última vida. É necessário que os frutos do passado sejam aplicados no Mundo Físico, que será o próximo campo de atividade do Ego, e onde esse adquirirá novas experiências físicas e colhendo mais frutos. Portanto, todos os habitantes dos Mundos Celestes trabalham sobre os modelos da Terra – a totalidade dos quais se encontra na Região do Pensamento Concreto – lhe alterando as formas físicas e lhe produzindo mudanças graduais no aspecto. Assim, em cada retorno à vida física eles encontram um ambiente diferente onde podem adquirir novas experiências. O clima, a flora e a faunasão alterados pelo ser humano sob a direção de Seres elevados que mais tarde descreveremos. Por conseguinte, o mundo é exatamente o que nós próprios, individual e coletivamente, temos feito dele, e será tal e qual como o fizermos. Em tudo quanto ocorre, o ocultista vê uma causa de natureza espiritual se manifestando a si mesma, inclusive o alarmante aumento de frequência das perturbações sísmicas, que têm origem no pensamento materialista da ciência moderna.
 
 É certo que causas puramente físicas podem produzir tais perturbações, mas tal explicação será a última palavra sobre o assunto? Podemos explicar, amplamente, as coisas só pela observação daquilo que aparentam, superficialmente? Certamente que não! Vejamos: dois homens discutem na rua. Subitamente um esmurra o outro, fazendo-o cair. Um observador poderá afirmar que um pensamento de ódio foi a causa original do golpe. Outro poderá sustentar que viu o braço se erguer, os músculos se contraírem, se seguindo ao soco que derrubou a vítima. Isto também é verdade, porém é mais certo se dizer que o golpe não teria sido desfechado se não houvera existido primeiramente um pensamento de ódio. De modo equivalente, diz o ocultista, se não houvesse como causa o materialismo não se produziriam as convulsões sísmicas.
 
 O trabalho do ser humano nos Mundos Celestes não se limita apenas à alteração da superfície da Terra, que será o campo de suas futuras lutas para dominar o Mundo Físico. Ele se ocupa também, ativamente, em aprender como construir um Corpo que tenha os melhores meios de expressão. O destino do ser humano é se converter em Inteligência Criadora e para tal se aplica a sua aprendizagem todo o tempo. Durante a vida celeste aprende a construir toda classe de Corpos, inclusive o humano.
 
-Falamos atrás das forças que trabalham pelos polos positivo e negativo dos diferentes Éteres. O ser humano mesmo é uma parte dessas forças. Aqueles a quem chamamos “mortos” são os que nos ajudam a viver. Por sua vez eles são ajudados pelos chamados “espíritos da natureza” aos quais governam. Instrutores das mais elevadas Hierarquias Criadoras dirigem o trabalho do ser humano. Ajudaram-no a construir seus veículos antes de ter alcançado consciência de si mesmo, do mesmo modo que ele próprio constrói atualmente seus veículos durante o sono. No entanto, no transcurso de sua vida celeste esses instrutores ensinam-no conscientemente.
+Falamos atrás das forças que trabalham pelos polos positivo e negativo dos diferentes Éteres. O ser humano mesmo é uma parte dessas forças. Aqueles a quem chamamos “mortos” são os que nos ajudam a viver. Por sua vez eles são ajudados pelos chamados “espíritos da natureza” aos quais governam. Instrutores das mais elevadas Hierarquias Criadoras dirigem o trabalho do ser humano. Ajudaram-no a construir seus veículos antes de ter alcançado consciência de si mesmo, do mesmo modo que ele próprio constrói atualmente seus veículos durante o sono. No entanto, no transcurso de sua vida celeste esses instrutores ensinam-no conscientemente. Ao pintor, ensinam como construir um olho apurado, capaz de captar perspectivas perfeitas, e distinguir cores e matizes em um grau inconcebível para os que não se interessam por cor ou luz.
 
-Ao pintor, ensinam como construir um olho apurado, capaz de captar perspectivas perfeitas, e distinguir cores e matizes em um grau inconcebível para os que não se interessam por cor ou luz.
+Ao matemático que tem de lidar com o espaço, ensinam o delicado ajuste dos três canais semicirculares[2], os quais estão situados dentro do ouvido interno, que apontando, cada um, em uma das três direções do espaço, dão a faculdade da percepção abstrata. O pensamento lógico e a habilidade matemática estão em proporção à precisão do ajuste desses canais semicirculares. A habilidade musical depende também do mesmo fator, mas além da necessidade do devido ajuste dos canais semicirculares, o músico precisa do órgão de Corti[3] extremamente delicado. Há no ouvido humano cerca de dez mil dessas fibras, e cada uma pode diferençar cerca de vinte e cinco gradações de tons. No ouvido da maioria das pessoas essas fibras não respondem senão de três a dez das gradações possíveis. 
 
-Ao matemático que tem de lidar com o espaço, ensinam o delicado ajuste dos três canais semicirculares[2], os quais estão situados dentro do ouvido interno, que apontando, cada um, em uma das três direções do espaço, dão a faculdade da percepção abstrata. O pensamento lógico e a habilidade matemática estão em proporção à precisão do ajuste desses canais semicirculares. A habilidade musical depende também do mesmo fator, mas além da necessidade do devido ajuste dos canais semicirculares, o músico precisa do órgão de Corti[3] extremamente delicado. Há no ouvido humano cerca de dez mil dessas fibras, e cada uma pode diferençar cerca de vinte e cinco gradações de tons. No ouvido da maioria das pessoas essas fibras não respondem senão de três a dez das gradações possíveis. Entre os músicos comuns o maior grau de eficiência é de uns quinze sons por fibra, mas um maestro, que é capaz de interpretar e traduzir a música dos Mundos Celestes requer maior grau de acuidade para distinguir entre as diferentes notas e perceber a mais ligeira desarmonia nos mais complicados acordes. Pessoas que requerem órgãos de tão extrema delicadeza para expressão de suas faculdades devem receber o maior cuidado, como exigem seu mérito e elevado grau de desenvolvimento. Nenhuma outra classe é tão elevada quanto à dos músicos, o que é muito lógico, pois enquanto o pintor atrai sua inspiração principalmente do mundo da cor – o mais próximo, o Mundo do Desejo – o músico tenta trazer-nos, traduzida em sons terrenos, a atmosfera do nosso lar celeste, a que, como espíritos, pertencemos. É sua a missão mais elevada, pois como meio de expressão da vida anímica, a música reina suprema. Compreende-se que a música seja diferente e a mais elevada de todas as artes se considerarmos que uma estátua ou um quadro, uma vez criado, são permanentes. Sendo evocações do Mundo do Desejo eles são, por conseguinte, mais facilmente cristalizados. Já a música, sendo dos Mundos Celestes, é mais evasiva e deve, portanto, ser recriada cada vez que a queiramos ouvir. Não pode ser aprisionada, conforme o demonstram as tentativas infrutíferas de fazê-lo parcialmente por meio de aparelhos mecânicos, tais como o fonógrafo[4] ou pianola[5]. A música assim reproduzida perde muito da comovente doçura e frescor do seu próprio mundo e que traz à Alma recordações de sua verdadeira pátria, lhe falando numa linguagem tal que nenhuma beleza expressa em mármore ou tela pode igualar.
+() - [2] N.R.: são três tubos ósseos ocos dispostos perpendiculares entre si, interconectados e cheios de líquido, endolinfa, que fazem parte do aparelho vestibular da orelha. São 3 em cada ouvido: horizontal, superior e posterior. Os dutos semicirculares fornecem informações sensoriais para experiências de movimentos rotatórios. Eles são orientados ao longo dos eixos de inclinação, rotação e inclinação. Cada canal é preenchido com um fluido chamado endolinfa e contém sensores de movimento dentro dos fluidos.
+
+() - [3] N.R.: ou “órgão espiral” é o órgão sensorioneural da cóclea, ou seja, é parte da cóclea, da orelha interna. É um composto de células sensoriais (células ciliadas) e fibras nervosas que fazem sinapse entre si, além de estruturas anexas e de suporte. O órgão foi nomeado em homenagem ao anatomista italiano Marquês Alfonso Giacomo Gaspare Corti (1822-1876), que conduziu a pesquisa microscópica do sistema auditivo dos mamíferos e o descobriu em 1850. Esse órgão é encontrado apenas em mamíferos. Nos humanos, o órgão de Corti se desenvolve da 9ª semana à 30ª semana de gestação. O órgão de Corti é a estrutura que transforma a energia mecânica, que chega da orelha média, para energia elétrica. As vibrações mecânicas se tornam ondas de pressão hidráulica que se propagam pela endolinfa, gerando um potencial de ação que é transmitido pela via auditiva para que se processe o som nos centros auditivos do tronco encefálico e do córtex cerebral.
+
+Entre os músicos comuns o maior grau de eficiência é de uns quinze sons por fibra, mas um maestro, que é capaz de interpretar e traduzir a música dos Mundos Celestes requer maior grau de acuidade para distinguir entre as diferentes notas e perceber a mais ligeira desarmonia nos mais complicados acordes. Pessoas que requerem órgãos de tão extrema delicadeza para expressão de suas faculdades devem receber o maior cuidado, como exigem seu mérito e elevado grau de desenvolvimento. Nenhuma outra classe é tão elevada quanto à dos músicos, o que é muito lógico, pois enquanto o pintor atrai sua inspiração principalmente do mundo da cor – o mais próximo, o Mundo do Desejo – o músico tenta trazer-nos, traduzida em sons terrenos, a atmosfera do nosso lar celeste, a que, como espíritos, pertencemos. É sua a missão mais elevada, pois como meio de expressão da vida anímica, a música reina suprema. Compreende-se que a música seja diferente e a mais elevada de todas as artes se considerarmos que uma estátua ou um quadro, uma vez criado, são permanentes. Sendo evocações do Mundo do Desejo eles são, por conseguinte, mais facilmente cristalizados. Já a música, sendo dos Mundos Celestes, é mais evasiva e deve, portanto, ser recriada cada vez que a queiramos ouvir. Não pode ser aprisionada, conforme o demonstram as tentativas infrutíferas de fazê-lo parcialmente por meio de aparelhos mecânicos, tais como o fonógrafo[4] ou pianola[5]. A música assim reproduzida perde muito da comovente doçura e frescor do seu próprio mundo e que traz à Alma recordações de sua verdadeira pátria, lhe falando numa linguagem tal que nenhuma beleza expressa em mármore ou tela pode igualar.
+
+() - [4] N.R.: O fonógrafo é um aparelho inventado em 1877 por Thomas Edison para a gravação e reprodução de sons através de um cilindro. Ele foi o primeiro aparelho capaz de gravar e reproduzir sons. A invenção do fonógrafo por Thomas Edison foi o ponto culminante de uma série de inventos que primeiro tentaram realizar a tarefa de gravar de forma mecânica em algum meio as vibrações sonoras. A grande inovação do fonógrafo se encontra em sua capacidade de também reproduzir os sons que gravava, abrindo novas possibilidades de utilização comercial do som.
+
+() - [5] N.R.: A pianola, também chamada piano mecânico, é um piano que executa músicas automaticamente, por meio de motores a vácuo, mecanismos pneumáticos, ou eletromecânicos que operam o piano através de rolos de pianola, que são feitos de papel perfurado, ou, mais raramente, de metal. Versões mais modernas do instrumento podem incluir implementos usando música gravada em formato MIDI, que é armazenada em discos rígidos ou flexíveis, ou ainda em CDs. Frequentemente o instrumento permite determinadas regulações, que são executadas por um músico através de pedais e alavancas manuais.
 
 O ser humano percebe a música através do mais perfeito órgão dos sentidos do Corpo humano. A visão pode não ser perfeita, mas a audição o é, no sentido de não deformar o som que ouve, enquanto o olho altera muitas vezes o que vê.
 
@@ -1225,27 +1111,19 @@ Além do ouvido musical, o músico deve também aprender a construir mãos finas
 
 É lei da natureza: ninguém pode habitar um Corpo mais eficiente do que aquele que é capaz de construir. Aprende-se, primeiramente, a construir uma determinada classe de Corpo e depois a viver nele. Desta maneira se percebem os defeitos e se aprende a corrigi-los.
 
-Todos os seres humanos trabalham inconscientemente na construção dos seus Corpos durante a vida pré-natal, até chegar o momento em que a retida quintessência dos Corpos anteriores seja neles amalgamada. Então passam a trabalhar conscientemente. Compreende-se, pois, que quanto mais o ser humano avança e quanto mais trabalha em seus veículos, tornando-os assim imortais, mais poder tem de construí-los para uma nova vida. O discípulo avançado de uma escola oculta, às vezes, começa a construir por si mesmo tão logo se complete o trabalho das três primeiras semanas de vida pré-natal (que pertence exclusivamente à mãe). Assim, passado o período inconsciente, é apresentada ao ser humano uma oportunidade de exercer seu nascente poder criador, e aí começa o verdadeiro processo criativo, “original”, a “Epigênese”. Vemos, pois que o ser humano aprende a construir seus veículos nos Mundos Celestes e a usá-los no Mundo Físico. A Natureza fornece toda classe de experiências de maneira tão maravilhosa e com sabedoria tão consumada que, quanto mais profundamente penetramos nos seus segredos, mais impressionados ficamos com a nossa própria insignificância e mais cresce nossa reverência a Deus, cujo símbolo visível é a Natureza. Quanto mais aprendemos Suas maravilhas, mais compreendemos que esta estrutura universal não é a vasta e perpétua máquina em movimento, que os irrefletidos querem fazer crer. Seria tão pouco lógico como imaginar que, se atirando ao ar uma caixa de tipos[6], os caracteres se organizassem por si sós quando caíssem ao chão, formando um formoso poema. Quanto maior a complexidade do plano mais poderoso o argumento em favor da teoria de um Inteligente e Divino Autor.
+Todos os seres humanos trabalham inconscientemente na construção dos seus Corpos durante a vida pré-natal, até chegar o momento em que a retida quintessência dos Corpos anteriores seja neles amalgamada. Então passam a trabalhar conscientemente. Compreende-se, pois, que quanto mais o ser humano avança e quanto mais trabalha em seus veículos, tornando-os assim imortais, mais poder tem de construí-los para uma nova vida. O discípulo avançado de uma escola oculta, às vezes, começa a construir por si mesmo tão logo se complete o trabalho das três primeiras semanas de vida pré-natal (que pertence exclusivamente à mãe). Assim, passado o período inconsciente, é apresentada ao ser humano uma oportunidade de exercer seu nascente poder criador, e aí começa o verdadeiro processo criativo, “original”, a “Epigênese”. 
 
-[1] N.R.: Fp 4:7
+Vemos, pois que o ser humano aprende a construir seus veículos nos Mundos Celestes e a usá-los no Mundo Físico. A Natureza fornece toda classe de experiências de maneira tão maravilhosa e com sabedoria tão consumada que, quanto mais profundamente penetramos nos seus segredos, mais impressionados ficamos com a nossa própria insignificância e mais cresce nossa reverência a Deus, cujo símbolo visível é a Natureza. Quanto mais aprendemos Suas maravilhas, mais compreendemos que esta estrutura universal não é a vasta e perpétua máquina em movimento, que os irrefletidos querem fazer crer. Seria tão pouco lógico como imaginar que, se atirando ao ar uma caixa de tipos[6], os caracteres se organizassem por si sós quando caíssem ao chão, formando um formoso poema. Quanto maior a complexidade do plano mais poderoso o argumento em favor da teoria de um Inteligente e Divino Autor.
 
-[2] N.R.: são três tubos ósseos ocos dispostos perpendiculares entre si, interconectados e cheios de líquido, endolinfa, que fazem parte do aparelho vestibular da orelha. São 3 em cada ouvido: horizontal, superior e posterior. Os dutos semicirculares fornecem informações sensoriais para experiências de movimentos rotatórios. Eles são orientados ao longo dos eixos de inclinação, rotação e inclinação. Cada canal é preenchido com um fluido chamado endolinfa e contém sensores de movimento dentro dos fluidos.
-
-[3] N.R.: ou “órgão espiral” é o órgão sensorioneural da cóclea, ou seja, é parte da cóclea, da orelha interna. É um composto de células sensoriais (células ciliadas) e fibras nervosas que fazem sinapse entre si, além de estruturas anexas e de suporte. O órgão foi nomeado em homenagem ao anatomista italiano Marquês Alfonso Giacomo Gaspare Corti (1822-1876), que conduziu a pesquisa microscópica do sistema auditivo dos mamíferos e o descobriu em 1850. Esse órgão é encontrado apenas em mamíferos. Nos humanos, o órgão de Corti se desenvolve da 9ª semana à 30ª semana de gestação. O órgão de Corti é a estrutura que transforma a energia mecânica, que chega da orelha média, para energia elétrica. As vibrações mecânicas se tornam ondas de pressão hidráulica que se propagam pela endolinfa, gerando um potencial de ação que é transmitido pela via auditiva para que se processe o som nos centros auditivos do tronco encefálico e do córtex cerebral.
-
-[4] N.R.: O fonógrafo é um aparelho inventado em 1877 por Thomas Edison para a gravação e reprodução de sons através de um cilindro. Ele foi o primeiro aparelho capaz de gravar e reproduzir sons. A invenção do fonógrafo por Thomas Edison foi o ponto culminante de uma série de inventos que primeiro tentaram realizar a tarefa de gravar de forma mecânica em algum meio as vibrações sonoras. A grande inovação do fonógrafo se encontra em sua capacidade de também reproduzir os sons que gravava, abrindo novas possibilidades de utilização comercial do som.
-
-[5] N.R.: A pianola, também chamada piano mecânico, é um piano que executa músicas automaticamente, por meio de motores a vácuo, mecanismos pneumáticos, ou eletromecânicos que operam o piano através de rolos de pianola, que são feitos de papel perfurado, ou, mais raramente, de metal. Versões mais modernas do instrumento podem incluir implementos usando música gravada em formato MIDI, que é armazenada em discos rígidos ou flexíveis, ou ainda em CDs. Frequentemente o instrumento permite determinadas regulações, que são executadas por um músico através de pedais e alavancas manuais.
-
-[6] N.T.: Caixa de tipos é um conjunto de letras e elementos em metal utilizado na tipografia e se referem aos tipos de caracteres, símbolos e números e seus estilos únicos e padronizados e podemos classificá-los em diversas categorias como: Com serifa: possuem elementos como traços e extensões nas letras, facilitando a legibilidade
-
-*******
+() - [6] N.T.: Caixa de tipos é um conjunto de letras e elementos em metal utilizado na tipografia e se referem aos tipos de caracteres, símbolos e números e seus estilos únicos e padronizados e podemos classificá-los em diversas categorias como: Com serifa: possuem elementos como traços e extensões nas letras, facilitando a legibilidade.
 
 #### <h4 id="the-third-heaven">O Terceiro Céu</h4>
 
 Tendo assimilado todos os frutos de sua vida passada e alterado a aparência da Terra de maneira a lhe proporcionar o ambiente requerido em seu próximo passo em busca da perfeição; tendo também aprendido, pelo trabalho nos Corpos dos outros, a construir um Corpo apropriado à sua manifestação no Mundo Físico; e tendo, por último, dissolvido a Mente na essência do Tríplice Espírito, o Espírito individual sem envolturas ascende a mais elevada Região do Mundo do Pensamento – o Terceiro Céu. Aqui, pela harmonia inefável desse Mundo mais elevado, se fortifica para a próxima imersão na matéria.
 
 Depois de algum tempo, vem o desejo de novas experiências e a contemplação de um novo nascimento. Isso evoca uma série de quadros ante a visão do Espírito – um panorama da nova vida que o espera. Contudo, note-se bem, esse panorama contém somente os acontecimentos principais. Quanto aos detalhes, o Espírito tem plena liberdade. É como se um ser humano, para ir a uma cidade distante, tivesse uma passagem com tempo determinado para lá chegar, mas com liberdade inicial de escolher o caminho. Depois de tê-lo escolhido e começado a viagem já não poderia mudar de caminho durante a jornada. Poderia se deter em todos os lugares que quisesse dentro do tempo marcado, mas não poderia voltar atrás. Assim, cada avanço na viagem limitaria ainda mais as condições da escolha feita. Se escolheu viajar numa embarcação a vapor movida à carvão betuminoso, seguramente chegará ao seu destino sujo e manchado. Se, ao contrário, tivesse escolhido uma embarcação a vapor movida à carvão antracite[1] ou uma movida à eletricidade, chegaria mais limpo. Assim acontece com o ser humano em cada nova vida. Talvez encontre pela frente uma vida muito dura, porém pode escolher entre vivê-la limpamente ou se chafurdar na lama. Outras condições estão também sob o seu arbítrio, embora igualmente sujeitas às limitações das escolhas e ações passadas.
+
+() - [1] N.R.: A antracite ou o antracito, é uma variedade compacta e dura do mineral carvão que possui elevado lustre. Difere do carvão betuminoso por conter pouco ou nenhum betume, o que faz com que arda com uma chama quase invisível. É o carvão mineral que apresenta o teor de carbono fixo mais alto (92% a 98%) e baixo conteúdo de substâncias voláteis. Os espécimes mais puros são compostos quase inteiramente por carbono. Possui alto poder calorífico.
 
 Os quadros do panorama da próxima vida, que acabamos de mencionar, começam no berço e terminam na sepultura. Seguem em direção oposta àquelas do panorama que se segue à morte, como já foi explicada, imediatamente após o Espírito se libertar do Corpo Denso. A razão desta diferença radical entre os dois panoramas é que no panorama pré-natal o objetivo é mostrar ao Ego que regressa como certas causas ou atos produzem sempre certos efeitos. No caso do panorama pós-morte o objetivo é oposto, isto é, mostrar como cada acontecimento da vida que findou foi efeito de alguma causa anterior da vida. A Natureza, ou Deus, nada faz sem uma razão lógica, de modo que quanto mais investiguemos mais se evidencia que a Natureza é uma mãe sábia, empregando sempre os melhores meios para a realização dos seus fins.
 
@@ -1263,13 +1141,11 @@ Esse é o método pelo qual o Estudante de ocultismo deve aprender, ao invés de
 
 A escolha é nossa, porém enquanto não aprendemos tudo o que nos cumpre aprender nesse mundo, nós devemos voltar. Não podemos permanecer e aprender nos Mundos superiores enquanto não tenhamos dominado as lições da vida terrena. Isto seria tão sem sentido como mandar uma criança ao jardim de infância num dia e à faculdade no dia seguinte. A criança deve voltar ao jardim de infância dia após dia, e frequentar anos inteiros as escolas de primeiro e segundo graus, antes que o estudo tenha desenvolvido nela a capacidade de compreender os ensinamentos da faculdade.
 
-O ser humano também está numa escola – a escola da experiência. A ela deve voltar muitas vezes antes que possa conseguir dominar todo o conhecimento do Mundo dos sentidos. Não há vida terrena, por mais rica que seja de experiência, que forneça esse conhecimento. Por isso a Natureza decreta que terá de voltar à Terra depois de intervalos de repouso, a fim de prosseguir o trabalho no ponto em que o deixou, da mesma maneira que uma criança prossegue o estudo na escola a cada dia, após o intervalo de uma noite de sono. Não é argumento contra esta teoria dizer que o ser humano não recorda as vidas anteriores, uma vez que não podemos relembrar sequer todos os acontecimentos da nossa vida atual! Não recordamos das dificuldades que tivemos para aprender a escrever, contudo dominamos a arte de escrever, o que prova que a aprendemos. Todas as faculdades que possuímos demonstram que as adquirimos, alguma vez em algum lugar. Contudo, existem pessoas que se recordam do seu passado, conforme se relata num exemplo notável ao fim do capítulo seguinte, e que não é senão um entre tantos casos conhecidos. Além do mais, se não houvesse volta à Terra que utilidade teria a vida? Por que lutar por nada? Por que uma existência feliz num céu eterno deveria ser a recompensa de uma boa vida? Que benefício poderia produzir uma boa vida num céu onde todos são felizes? É fora de dúvida que num lugar onde todo mundo é feliz e contente não há necessidade alguma de simpatia, de sacrifícios, nem de bons conselhos! Ninguém ali precisaria disso. Contudo, na Terra há muitos que os necessitam e as qualidades humanitárias e altruísticas são da maior utilidade para a Humanidade que luta. Portanto, a Grande Lei[2] que trabalha para o bem traz o ser humano de volta ao mundo com os tesouros que adquiriu para benefício dele mesmo e dos demais, ao invés de permitir que tais tesouros se desperdicem no céu, onde ninguém deles necessita.
+O ser humano também está numa escola – a escola da experiência. A ela deve voltar muitas vezes antes que possa conseguir dominar todo o conhecimento do Mundo dos sentidos. Não há vida terrena, por mais rica que seja de experiência, que forneça esse conhecimento. Por isso a Natureza decreta que terá de voltar à Terra depois de intervalos de repouso, a fim de prosseguir o trabalho no ponto em que o deixou, da mesma maneira que uma criança prossegue o estudo na escola a cada dia, após o intervalo de uma noite de sono. Não é argumento contra esta teoria dizer que o ser humano não recorda as vidas anteriores, uma vez que não podemos relembrar sequer todos os acontecimentos da nossa vida atual! Não recordamos das dificuldades que tivemos para aprender a escrever, contudo dominamos a arte de escrever, o que prova que a aprendemos. Todas as faculdades que possuímos demonstram que as adquirimos, alguma vez em algum lugar. Contudo, existem pessoas que se recordam do seu passado, conforme se relata num exemplo notável ao fim do capítulo seguinte, e que não é senão um entre tantos casos conhecidos. 
 
-[1] N.R.: A antracite ou o antracito, é uma variedade compacta e dura do mineral carvão que possui elevado lustre. Difere do carvão betuminoso por conter pouco ou nenhum betume, o que faz com que arda com uma chama quase invisível. É o carvão mineral que apresenta o teor de carbono fixo mais alto (92% a 98%) e baixo conteúdo de substâncias voláteis. Os espécimes mais puros são compostos quase inteiramente por carbono. Possui alto poder calorífico.
+Além do mais, se não houvesse volta à Terra que utilidade teria a vida? Por que lutar por nada? Por que uma existência feliz num céu eterno deveria ser a recompensa de uma boa vida? Que benefício poderia produzir uma boa vida num céu onde todos são felizes? É fora de dúvida que num lugar onde todo mundo é feliz e contente não há necessidade alguma de simpatia, de sacrifícios, nem de bons conselhos! Ninguém ali precisaria disso. Contudo, na Terra há muitos que os necessitam e as qualidades humanitárias e altruísticas são da maior utilidade para a Humanidade que luta. Portanto, a Grande Lei[2] que trabalha para o bem traz o ser humano de volta ao mundo com os tesouros que adquiriu para benefício dele mesmo e dos demais, ao invés de permitir que tais tesouros se desperdicem no céu, onde ninguém deles necessita.
 
-[2] N.R.: As Leis gêmeas: Lei de Consequência (Lei de Causa e Efeito) e a Lei do Renascimento.
-
-*******
+() - [2] N.R.: As Leis gêmeas: Lei de Consequência (Lei de Causa e Efeito) e a Lei do Renascimento.
 
 #### <h4 id="preparations-for-rebirth">Preparações para o Renascimento</h4>
 
@@ -1281,26 +1157,28 @@ Se passamos um ímã sobre uma mistura de limalhas de: latão, prata, ouro, ferr
 
 O material selecionado pelo Tríplice Espírito toma a forma de um grande sino aberto na base, tendo no topo o Átomo-semente. Se concebermos a ilustração espiritualmente, podemos compará-la a um sino de mergulhador[1] descendo num mar composto de fluidos de crescente densidade. Tais fluidos correspondem às diferentes subdivisões de cada Mundo. A matéria atraída pelo Corpo em forma de sino torna-o mais pesado, e assim ele mergulha na próxima subdivisão inferior e toma desta a cota de material apropriado. se torna, então, ainda mais pesado, pelo que submerge mais profundamente, até atravessar as quatro subdivisões da Região do Pensamento Concreto. Então o invólucro da nova Mente do ser humano está completo. A seguir se despertam as forças no Átomo-semente do Corpo de Desejos, localizado no topo do sino, por dentro. Em sua volta se agrupam os materiais da sétima Região do Mundo do Desejo. Daí submerge na sexta Região, onde atrai mais materiais. Esse processo continua até que alcance a primeira Região do Mundo do Desejo. O sino tem agora duas camadas – o da Mente por fora e a do novo Corpo de Desejos por dentro.
 
+() - [1] N.R.: um sino de mergulhador molhado que é uma câmara suspensa por cabo, aberta na parte inferior como uma estrutura que é submersa na água para funcionar como uma base ou um meio de transporte para mergulhadores.
+
 O Átomo-semente do Corpo Vital é o próximo a entrar em atividade, porém aqui o processo de formação não é tão simples como no caso da Mente e do Corpo de Desejos, pois, como devemos recordar, estes veículos estão comparativamente desorganizados, enquanto o Corpo Vital e o Corpo Denso, além de mais organizados, são muito complexos. O material, em quantidade e qualidade determinadas, é atraído da mesma maneira e sob a ação da mesma lei que atuou nos Corpos superiores, mas a construção do novo Corpo e sua colocação no ambiente apropriado são executadas por quatro grandes Seres de incomensurável sabedoria, que são os Anjos Relatores – os “Senhores do Destino”. Eles incorporam o Éter Refletor no Corpo Vital de tal maneira, que as cenas da vida que vai começar nele se reflitam. O Corpo Vital é construído pelos habitantes dos Mundos Celestes e pelos espíritos elementais de modo a formar um tipo especial de cérebro. Contudo, observe bem: o próprio Ego renascente incorpora em si mesmo a quintessência de seus anteriores Corpos Vitais e, mais ainda, realiza um pequeno trabalho original. Assim é feito para que na vida futura haja lugar para a expressão original e individual, aquela não predeterminada por ações passadas.
 
 É muito importante lembrar esse fato porque existe uma grande tendência para pensar que tudo o que atualmente existe é resultado de algo que existiu antes. Entretanto, se assim fosse não haveria margem para esforços novos e originais e para novas causas. A cadeia de causas e efeitos não é uma repetição monótona. Há sempre um influxo contínuo de causas novas e originais. Esta é a espinha dorsal da evolução – a única realidade que lhe dá sentido e a converte em algo mais que a simples expansão de qualidades latentes. É a “Epigênese” – o livre arbítrio, a liberdade para inaugurar algo inteiramente novo e não uma simples escolha entre dois cursos de ação. Esse importante fator é o único que pode explicar de modo satisfatório o sistema a que pertencemos. A Involução e Evolução por si mesmas são insuficientes, mas juntas com a Epigênese formam uma perfeita tríade de esclarecimento.
 
 O destino de um indivíduo gerado sob a Lei de Consequência é de grande complexidade, e envolve associação com outros Egos, encarnados e desencarnados, de todos os tempos. Igualmente, os encarnados em um determinado tempo podem não estar vivendo na mesma localidade, o que torna impossível cumprir o destino de um indivíduo em uma só vida ou em um só lugar. Por isso o Ego é trazido a um ambiente e a uma família com que esteja de algum modo relacionado. Sobre o destino a ser cumprido, às vezes, é indiferente em qual dos diversos ambientes o Ego renasça. Em tal caso, e tanto quanto possível, lhe é permitido escolher; mas uma vez a escolha feita, os agentes dos Senhores do Destino vigiam-no invisivelmente, a fim de que nenhum ato de sua livre vontade frustre o cumprimento da porção do destino escolhido. Se por nossos atos buscamos esquivar-nos a esse destino, Eles efetuam outra mudança, de modo a forçar-nos ao cumprimento de nosso destino. Nunca é demais repetir, contudo, que isto não faz do ser humano um desamparado. Trata-se simplesmente da mesma lei que rege o disparo de uma arma: uma vez disparada não há como se deter a bala, ou mesmo desviá-la da sua trajetória. A direção foi determinada pela posição da arma em nossas mãos quando disparamos. Poderíamos ter mudado essa posição antes de apertar o gatilho. Até esse instante tínhamos o controle total. Isto se aplica igualmente a novas ações que produzem o destino futuro. Até certo ponto podemos modificar e até frustrar certas causas já posta em movimento, mas uma vez começadas, se outras medidas não forem tomadas, ficarão fora do nosso controle. Isso é chamado de destino “maduro” e é a esse tipo que se refere quando se diz que os Senhores do Destino restringem todas as tentativas de evitá-lo. Assim, estamos sujeitos ao passado em grande extensão, mas quanto ao futuro temos controle total sobre nossos atos, salvo naquilo em que estejamos limitados por nossas ações anteriores. Pouco a pouco, porém, aprendendo a nos conhecer como causadores de nossas próprias tristezas e alegrias; despertamos à necessidade de harmonizar nossas vidas com as leis de Deus, sobrepondo-nos, assim, às leis do Mundo Físico. Esta é a chave da emancipação; como disse Goethe:
 
-    De todo o poder que mantêm todo o mundo agrilhoado,  
-    o ser humano se liberta quando o autocontrole há conquistado.  
+```
+De todo o poder que mantêm todo o mundo agrilhoado,  
+o ser humano se liberta quando o autocontrole há conquistado.  
+```
 
 O Corpo Vital, tendo sido modelado pelos Senhores do Destino, proporcionará a forma do Corpo Denso, órgão por órgão. Esse molde ou matriz é então colocado no útero da futura mãe. O Átomo-semente do Corpo Denso está na cabeça triangular de um dos espermatozoides do sêmen paterno. Somente esse espermatozoide possibilita a fertilização, o que explica a esterilidade de muitas uniões sexuais. Os constituintes químicos do fluido seminal e do óvulo são sempre os mesmos, e se estes fossem os únicos requisitos necessários à fecundação não se encontraria, no Mundo Físico e visível, explicação para o fenômeno da esterilidade. Isto, porém se torna evidente quando compreendemos que as moléculas da água congelam somente segundo as linhas de forças nela existentes, formando cristais de gelo ao invés de uma massa homogênea, como seria o caso se não houvesse tais linhas de força. Assim, também, o Corpo Denso não poderia se formar se não houvesse um Corpo Vital para modelar a matéria física. Deve haver, também, um Átomo-semente do Corpo Denso que atue como determinador da quantidade e qualidade da matéria designada para construir esse Corpo Denso. Ainda que no presente estágio de desenvolvimento nunca haja completa harmonia entre os materiais do Corpo, o que resultaria num Corpo perfeito, contudo a desarmonia não deve ser tão grande que possa causar a desorganização do organismo.
 
 A hereditariedade diz respeito unicamente ao Corpo Denso, não às qualidades anímicas, que são completamente individuais. Não obstante, o Ego renascente também executa certa soma de trabalho em seu Corpo Denso ao lhe incorporar a quintessência das qualidades físicas do passado. Assim, nenhum Corpo é mescla exata das características físicas dos pais, ainda que o Ego se veja restringido a usar os materiais tomados dos Corpos deles. Daí o músico renascer onde possa conseguir material para uma mão delicada e um ouvido apurado com Órgão de Corti suprassensíveis e esmerado ajuste dos três canais semicirculares. O aproveitamento desses materiais, porém, é executado, até certo ponto, sob o controle do Ego. É situação semelhante à de um carpinteiro a quem se dê uma pilha de madeiras para que construa sua casa, deixando, todavia a seu critério o tipo de casa a ser erguida.
 
-Salvo no caso de um ser de muito elevado desenvolvimento, esse trabalho do Ego, no presente estágio evolutivo do ser humano, é quase insignificante. Maior margem lhe é dada na construção do Corpo de Desejos; muito pouca na do Corpo Vital e quase nenhuma na de seu Corpo Denso. Se bem que esse pouco seja suficiente para fazer cada indivíduo uma expressão do seu próprio Espírito e diferente dos pais. Fecundado o ovócito secundário[2], o Corpo de Desejos da mãe trabalha sobre ele durante um período de dezoito a vinte e um dias. Até aqui o Ego permanece fora, em seu Corpo de Desejos e sua Mente, embora em íntimo contato com a mãe. Terminado esse tempo o Ego entra no Corpo materno. Os veículos em forma de sino se juntam, então, sobre a cabeça do Corpo Vital, e o “sino” se fecha pela parte inferior. Daí em diante o Ego paira sobre seu futuro instrumento até o nascimento da criança e uma nova vida terrestre do Ego renascido começa.
+Salvo no caso de um ser de muito elevado desenvolvimento, esse trabalho do Ego, no presente estágio evolutivo do ser humano, é quase insignificante. Maior margem lhe é dada na construção do Corpo de Desejos; muito pouca na do Corpo Vital e quase nenhuma na de seu Corpo Denso. Se bem que esse pouco seja suficiente para fazer cada indivíduo uma expressão do seu próprio Espírito e diferente dos pais. 
 
-[1] N.R.: um sino de mergulhador molhado que é uma câmara suspensa por cabo, aberta na parte inferior como uma estrutura que é submersa na água para funcionar como uma base ou um meio de transporte para mergulhadores.
+Fecundado o ovócito secundário[2], o Corpo de Desejos da mãe trabalha sobre ele durante um período de dezoito a vinte e um dias. Até aqui o Ego permanece fora, em seu Corpo de Desejos e sua Mente, embora em íntimo contato com a mãe. Terminado esse tempo o Ego entra no Corpo materno. Os veículos em forma de sino se juntam, então, sobre a cabeça do Corpo Vital, e o “sino” se fecha pela parte inferior. Daí em diante o Ego paira sobre seu futuro instrumento até o nascimento da criança e uma nova vida terrestre do Ego renascido começa.
 
-[2] N.R.: também chamado de, simplesmente, óvulo.
-
-*******
+() - [2] N.R.: também chamado de, simplesmente, óvulo.
 
 #### <h4 id="birth-of-the-dense-body">Nascimento do Corpo Denso</h4>
 
@@ -1312,17 +1190,17 @@ Durante os primeiros anos as forças que operam pelo polo negativo do Éter Refl
 
 É deplorável que as crianças sejam obrigadas a mentir – ou pelo menos a negar a verdade – devido à incredulidade dos “sábios” mais velhos. Investigações da Sociedade de Pesquisas Psíquicas[1] provaram que as crianças dispõem, muitas vezes, de invisíveis companheiros de brinquedos, as quais visitam-nas, frequentemente, durante alguns anos. Nesse período, a Clarividência delas tem o mesmo caráter negativo da dos médiuns.
 
+() - [1] N.R.: Society for Psychical Research (SPR) é uma organização sem fins lucrativos que se iniciou no Reino Unido e depois se constituiu em outros países. O seu fim declarado é a compreensão dos “eventos e habilidades comumente descritas como psíquicas ou paranormais através da promoção e apoio a importantes pesquisas nesta área” e “examinar alegados fenômenos paranormais de maneira científica e imparcial.”
+
 A mesma coisa se dá com as forças que atuam no Corpo de Desejos. A sensação passiva de dor física está presente, enquanto o poder de sentir emoções está ausente quase por completo. A criança pode, naturalmente, demonstrar emoção a mais leve provocação, mas a duração dessa emoção é apenas momentânea. Tudo está na superfície.
 
 A criança possui também o elo da Mente, mas é quase incapaz de atividade mental individual. Sendo extremamente sensível às forças que agem pelo polo negativo e é, por isso mesmo, imitadora e ensinável.
 
 Isto explica por que todas as qualidades negativas são ativas no ente recém-nascido, porém, antes que possa usar seus diferentes veículos, suas qualidades positivas devem ser amadurecidas.
 
-Cada veículo é, portanto, levado a um determinado grau de maturidade pela atividade do correspondente veículo macrocósmico, o qual age como sua matriz até que esse grau seja alcançado. Desde o primeiro até o sétimo ano o Corpo Vital vai crescendo e amadurecendo lentamente dentro da matriz do Corpo Vital macrocósmico e, devido à grande sabedoria desse veículo macrocósmico, o Corpo da criança é mais bem formado e mais bem organizado nesse período do que no resto da vida.
+Cada veículo é, portanto, levado a um determinado grau de maturidade pela atividade do correspondente veículo macrocósmico, o qual age como sua matriz até que esse grau seja alcançado. 
 
-[1] N.R.: Society for Psychical Research (SPR) é uma organização sem fins lucrativos que se iniciou no Reino Unido e depois se constituiu em outros países. O seu fim declarado é a compreensão dos “eventos e habilidades comumente descritas como psíquicas ou paranormais através da promoção e apoio a importantes pesquisas nesta área” e “examinar alegados fenômenos paranormais de maneira científica e imparcial.”
-
-*******
+Desde o primeiro até o sétimo ano o Corpo Vital vai crescendo e amadurecendo lentamente dentro da matriz do Corpo Vital macrocósmico e, devido à grande sabedoria desse veículo macrocósmico, o Corpo da criança é mais bem formado e mais bem organizado nesse período do que no resto da vida.
 
 #### <h4 id="birth-of-the-vital-body">Nascimento do Corpo Vital e o Crescimento</h4>
 
@@ -1330,19 +1208,13 @@ Enquanto o Corpo Vital macrocósmico guia o crescimento do Corpo da criança, es
 
 Se o Corpo Vital dominasse irrestrita e continuamente no Reino Humano, como o faz no Reino Vegetal, o ser humano alcançaria um tamanho enorme. Houve um tempo, no passado remoto, em que o ser humano tinha constituição semelhante à das plantas, possuindo somente o Corpo Denso e o Corpo Vital. As tradições da mitologia e das lendas de todo o mundo a respeito de gigantes nos tempos antiquíssimos são absolutamente certas, porque, então, e pela razão exposta acima, o ser humano crescia tanto quanto as árvores.
 
-*******
-
 #### <h4 id="birth-of-the-desire-body">Nascimento do Corpo de Desejos e a Puberdade</h4>
 
 O Corpo Vital da planta constrói folha após folha, elevando o tronco cada vez mais alto. Continuaria crescendo indefinidamente se, em certo ponto, o Corpo de Desejos macrocósmico não o limitasse, controlando todo o crescimento ulterior. A força não empregada no crescimento é então utilizada para outros propósitos: construir a flor e formar a semente. A mesma coisa sucede com o Corpo Vital humano: depois do sétimo ano quando o Corpo Denso fica sob sua influência, faz crescê-lo rapidamente até que, próximo aos catorze anos, o Corpo de Desejos individual nasce da matriz do Corpo de Desejos macrocósmico, ficando então livre para trabalhar no seu Corpo Denso. O crescimento excessivo é controlado e a força, até aí utilizada para tal propósito, pode ser agora empregada na propagação, no florescimento e na frutificação da planta humana. Por isso o nascimento do Corpo de Desejos pessoal marca o período da puberdade. Daí em diante começa a atração pelo sexo oposto, especialmente desenfreada e ativa nesse terceiro período setenário da vida – de catorze aos vinte e um anos – por não ter nascido, ainda, a Mente refreadora.
 
-*******
-
 #### <h4 id="birth-of-the-mind">Nascimento da Mente e a Maioridade</h4>
 
 Depois dos catorze anos a Mente, envolvida e nutrida pela Mente macrocósmica, começa a desenvolver suas possibilidades latentes para se tornar capaz de emitir pensamentos originais. As forças dos diferentes veículos do indivíduo amadureceram, agora, a tal ponto que ele poderá empregá-las na sua evolução. Portanto, aos vinte e um anos é que o Ego toma posse completa dos seus veículos. Isso se efetua por meio do calor do sangue e pela produção individual desse sangue, o que se realiza simultaneamente com o pleno desenvolvimento do Éter de Luz.
-
-*******
 
 #### <h4 id="the-blood-the-vehicle-of-the-ego">O Sangue – Veículo do Ego</h4>
 
@@ -1362,10 +1234,6 @@ O calor apropriado para a expressão real do Ego não se manifesta enquanto a Me
 
 No presente grau de desenvolvimento humano o ser humano passa por esses diversos estágios em cada ciclo de vida, de um nascimento a outro.
 
-Diagrama – Um Ciclo de Vida!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-***************************************************************************************************************
-
 ### <h3 id="chapter-4">Capítulo IV – O Renascimento e a Lei de Consequência</h3>
 
 Somente três teorias dignas de nota foram formuladas para resolver o enigma da vida e da morte.
@@ -1374,17 +1242,15 @@ No capítulo anterior apresentamos, até certo ponto, uma dessas três teorias: 
 
 Qualquer grande lei da natureza deve estar, necessariamente, em harmonia com todas as demais. Portanto, é muito útil ao investigador examinar as relações dessas teorias com as admitidas “leis conhecidas da natureza”, observadas nesta parte do universo que nos é mais familiar. Para isso descrevemos, primeiramente, as três teorias:
 
-1. Teoria Materialista: sustenta que a vida é uma viagem do berço ao túmulo; que a Mente é o resultado de certas correlações da matéria; que o ser humano é a mais elevada inteligência do Cosmos, e que a sua inteligência perece quando o Corpo se desintegra, após a morte.
+1\. Teoria Materialista: sustenta que a vida é uma viagem do berço ao túmulo; que a Mente é o resultado de certas correlações da matéria; que o ser humano é a mais elevada inteligência do Cosmos, e que a sua inteligência perece quando o Corpo se desintegra, após a morte.
 
-2. Teoria Teológica: afirma que em cada nascimento uma Alma recém-criada por Deus entra na arena da vida, passando pelas portas do nascimento, a esta existência visível; que ao fim de um curto período de vida no Mundo material passa, através dos portais da morte, ao invisível além, de onde não volta mais; que sua felicidade ou desgraça ali é determinada para a toda eternidade pelas ações que tenha praticado durante o período infinitesimal que vai do nascimento à morte.
+2\. Teoria Teológica: afirma que em cada nascimento uma Alma recém-criada por Deus entra na arena da vida, passando pelas portas do nascimento, a esta existência visível; que ao fim de um curto período de vida no Mundo material passa, através dos portais da morte, ao invisível além, de onde não volta mais; que sua felicidade ou desgraça ali é determinada para a toda eternidade pelas ações que tenha praticado durante o período infinitesimal que vai do nascimento à morte.
 
-3. Teoria do Renascimento: ensina que cada Alma é uma parte integrante de Deus, contendo em si todas as potencialidades divinas, do mesmo modo que a semente contém a planta; que por meio de repetidas existências em Corpos terrestres de qualidade gradualmente melhor, as possibilidades latentes se convertem lentamente em poderes dinâmicos; que ninguém se perde nesse processo, mas que toda a Humanidade alcançará, por fim, a meta da perfeição e a união, novamente, com Deus.
+3\. Teoria do Renascimento: ensina que cada Alma é uma parte integrante de Deus, contendo em si todas as potencialidades divinas, do mesmo modo que a semente contém a planta; que por meio de repetidas existências em Corpos terrestres de qualidade gradualmente melhor, as possibilidades latentes se convertem lentamente em poderes dinâmicos; que ninguém se perde nesse processo, mas que toda a Humanidade alcançará, por fim, a meta da perfeição e a união, novamente, com Deus.
 
 A primeira destas teorias é monística. Procura explicar todos os fatos da existência como processos dentro do Mundo material. As outras duas teorias são dualísticas, isto é, atribuem certos fatos e fases da existência a estados suprafísicos e invisíveis, se bem que difiram amplamente em outros pontos.
 
-Comparando a teoria materialista com as leis conhecidas do Universo, notamos que tanto a continuidade da força como as da matéria estão bem determinadas, além de qualquer necessidade de elucidação. Sabemos também que força e matéria são inseparáveis no Mundo Físico. Isto é contrário à teoria materialista, para a qual a Mente perece ao ocorrer a morte. Se nada pode ser destruído, também a Mente não o poderá. Ademais, sabemos que a Mente é superior à matéria, posto que ela modela a face tornando-a uma reflexão ou espelho da Mente. Sabe-se que as partículas dos nossos Corpos são continuamente trocadas e que, pelo menos uma vez em cada sete anos, todos os átomos do Corpo são substituídos.
-
-Se a teoria materialista fosse verdadeira a consciência também deveria sofrer uma completa mudança, não podendo conservar a memória do passado, pelo que em qualquer tempo só poderíamos recordar os acontecimentos dos últimos sete anos. Contudo, bem sabemos que tal não acontece. Recordamos até os acontecimentos da nossa infância. Pessoas há que relatam incidentes dos mais triviais, esquecidos da consciência comum, recordados distintamente numa visão rápida e retrospectiva da vida quando estiveram a ponto de perecer afogadas. Experiências similares, em estado de transe, são também muito comuns. O materialismo não pode explicar essas fases de sub e supraconsciência. Simplesmente as ignora. Contudo, ignorar a existência desses fenômenos, quando a investigação científica moderna os tem comprovado fora de qualquer dúvida, é séria falha numa teoria que proclama poder resolver o maior problema da vida – a Vida em si mesma.
+Comparando a teoria materialista com as leis conhecidas do Universo, notamos que tanto a continuidade da força como as da matéria estão bem determinadas, além de qualquer necessidade de elucidação. Sabemos também que força e matéria são inseparáveis no Mundo Físico. Isto é contrário à teoria materialista, para a qual a Mente perece ao ocorrer a morte. Se nada pode ser destruído, também a Mente não o poderá. Ademais, sabemos que a Mente é superior à matéria, posto que ela modela a face tornando-a uma reflexão ou espelho da Mente. Sabe-se que as partículas dos nossos Corpos são continuamente trocadas e que, pelo menos uma vez em cada sete anos, todos os átomos do Corpo são substituídos. Se a teoria materialista fosse verdadeira a consciência também deveria sofrer uma completa mudança, não podendo conservar a memória do passado, pelo que em qualquer tempo só poderíamos recordar os acontecimentos dos últimos sete anos. Contudo, bem sabemos que tal não acontece. Recordamos até os acontecimentos da nossa infância. Pessoas há que relatam incidentes dos mais triviais, esquecidos da consciência comum, recordados distintamente numa visão rápida e retrospectiva da vida quando estiveram a ponto de perecer afogadas. Experiências similares, em estado de transe, são também muito comuns. O materialismo não pode explicar essas fases de sub e supraconsciência. Simplesmente as ignora. Contudo, ignorar a existência desses fenômenos, quando a investigação científica moderna os tem comprovado fora de qualquer dúvida, é séria falha numa teoria que proclama poder resolver o maior problema da vida – a Vida em si mesma.
 
 Podemos, pois passar tranquilamente da teoria materialista à teoria seguinte visto ser aquela inadequada à solução do mistério da vida e da morte.
 
@@ -1393,6 +1259,8 @@ Uma das maiores objeções que se faz à doutrina teológica ortodoxa, tal como 
 Nada há na Natureza que se pareça a tal método: criar para, em seguida, destruir o que foi criado. Imagina-se que Deus deseja a salvação de TODOS, e que é contrário à destruição de qualquer um, tanto que para salvá-los “deu Seu Único Filho”. Assim sendo, esse “glorioso plano de salvação” falha pela base!
 
 Se um transatlântico, com duas mil Almas a bordo enviasse uma mensagem sem fio de que estava afundando na saída de Sandy Hook[1], poder-se-ia considerar um “glorioso plano de salvação” enviar em seu socorro apenas um rápido barco a motor, capaz de salvar só duas ou três pessoas? Certamente que não! Pelo contrário, seria considerado um “plano de destruição” não providenciar meios adequados para salvar, pelo menos, a maioria dos passageiros em perigo.
+
+() - [1] N.R.: uma península a leste de Nova Jersey, na entrada da baía de Nova York, NY, EUA.
 
 O plano de salvação dos teólogos, porém é muitíssimo pior do que isso, uma vez que dois ou três em dois mil é uma proporção imensamente maior do que o plano teológico ortodoxo de salvar unicamente 144.000 dentre todas as miríades de Almas criadas. Podemos, pois, sem medo de errar, rejeitar esta teoria também, já que é inexata, porque é irrazoável. Se Deus é onisciente Ele deve ter desenvolvido um plano mais eficaz. E assim Ele o fez. O que ficou dito é apenas teoria dos teólogos. Os ensinamentos da Bíblia são, conforme veremos adiante, muito diferentes.
 
@@ -1432,7 +1300,15 @@ Não tem significado o não recordar os esforços feitos para adquirir uma facul
 
 O gênio é um indício da Alma avançada que, por meio de duro esforço em muitas vidas anteriores, desenvolveu em si mesmo algo mais além das realizações normais da Raça. Ele revela um vislumbre do grau de realização que será posse comum da Raça futura. Ele não pode ser explicado pela hereditariedade, pois essa se relaciona apenas parcialmente com o Corpo Denso, não com as qualidades anímicas. Se o gênio pudesse ser explicado pela hereditariedade, por que não há uma longa linhagem comum de mecânicos entre os ancestrais de Thomas Edison[2], cada qual mais capacitado do que seu predecessor? Por que o gênio não se propaga? Por que não é Siegfried[3], o filho, maior que Richard Wagner[4], o pai?
 
+() - [2] N.R.: Thomas Alva Edison (1847-1931) – inventor e empresário americano. Entre as suas contribuições mais universais para o desenvolvimento tecnológico e científico se encontra a lâmpada elétrica incandescente, o fonógrafo, o cinescópio ou cinetoscópio, o ditafone e o microfone de grânulos de carvão para o telefone. Edison é um dos precursores da revolução tecnológica do século XX. Teve também um papel determinante na indústria do cinema.
+
+() - [3] N.R.: Siegfried Wagner (1869-1930) foi um compositor e maestro alemão, filho de Richard Wagner.
+
+() - [4] N.R.: Wilhelm Richard Wagner (1813-1883) – maestro, compositor, diretor de teatro e ensaísta alemão.
+
 Quando a expressão do gênio depende da posse de órgãos especialmente construídos, que requerem longo tempo de desenvolvimento, o Ego renasce naturalmente em uma família de Egos que tenham trabalhado gerações inteiras para construir organismos semelhantes. Esta é a razão de terem nascido, na família Bach[5], vinte e nove músicos, mais ou menos geniais, durante um período de duzentos e cinquenta anos. Que o gênio é uma expressão da Alma e não do Corpo é demonstrado pelo fato de que essa faculdade não se aperfeiçoou gradativamente, alcançando sua máxima expressão na pessoa de Johann Sebastian Bach. Antes, sua proficiência estava muito acima não só da dos antecessores como dos sucessores.
+
+() - [5] N.R.: Bach – A Família Bach foi de grande importância na história da música por cerca de duzentos e cinquenta anos, com mais de 50 músicos e vários compositores notáveis. Seu membro mais proeminente, e quiçá o mais notável compositor da história, foi Johann Sebastian Bach (1685-1750). A dinastia musical começou com o trisavô de Johann Sebastian, Veit Bach (nascido antes de 1545 e morto por volta de 1576), e se extinguiu com seu neto Wilhelm Friedrich Ernst Bach (1759-1845).
 
 O Corpo é simplesmente um instrumento, cujo trabalho depende do Ego que o guia, assim como a qualidade de uma melodia depende da habilidade do músico e do timbre do instrumento. Um bom músico não pode se expressar plenamente num instrumento pobre, assim como nem todos os músicos podem tocar de modo igual o mesmo instrumento. Que um Ego procure renascer como filho de um grande músico não significa necessariamente que venha a ser um gênio maior que o pai, o que forçosamente sucederia se o gênio fosse herança física e não uma qualidade anímica.
 
@@ -1446,34 +1322,50 @@ A explicação disso é a seguinte: durante as vidas terrenas o Ego estabelece r
 
 Desta maneira as leis gêmeas – de Renascimento e de Consequência – resolvem de forma razoável todos os problemas incidentais à vida humana conforme o ser humano avança firmemente para o seu próximo estágio evolutivo – o de “super-homem”[6]. O rumo do progresso humano é sempre para frente e para cima, diz esta teoria – não como creem alguns que confundem a doutrina do Renascimento com disparatadas crenças de algumas tribos hindus, as quais acreditam que o ser humano renasce em Corpos animais ou vegetais. Isto seria um retrocesso. Nem na natureza, nem nos livros sagrados de qualquer Religião se encontra qualquer coisa que sustente semelhante doutrina retrógrada. Apenas em um (um somente) dos manuscritos religiosos da Índia se toca nesse ponto. No Kathopanishad[7] (capítulo V, versículo 9) lê-se: “Alguns homens, de acordo com suas ações, vão à matriz; os outros ao ‘Sthanu’”. “Sthanu” é uma palavra sânscrita que significa “imóvel”, mas também significa “um pilar”. Isto tem sido interpretado como indicando que alguns homens, devido a seus pecados, retrocedem ao imóvel Reino Vegetal.
 
+() - [6] N.R.: Homem, aqui, no sentido antropológico.
+
+() - [7] N.R.: Livro onde narra a origem das tradições do Vedanta, do Yoga e do Samkhya; registra o pensamento de uma época quando estas ideias ainda não estavam rigidamente divididas em sistemas autônomos.
+
 Os espíritos encarnam somente para adquirir experiência, conquistar o mundo, se sobrepor ao “Eu inferior” e alcançar o domínio próprio. Quando nos conscientizarmos disso poderemos compreender que, futuramente, não haverá mais necessidade de renascer, porque então todas as lições terão sido aprendidas. Os ensinamentos do Kathopanishad indicam que, ao invés de permanecer ligado à roda de nascimentos e mortes, o ser humano chegará um dia ao estado de imobilidade a que chamam “Nirvana”.
 
 No Livro da Revelação[8] encontramos estas palavras: “Ao vencedor, fá-lo-ei coluna no santuário do meu Deus, e jamais sairá”[9], que se referem à completa libertação da existência concreta. Em parte alguma se encontra afirmação autorizada para a doutrina da transmigração das Almas. O ser humano que evoluiu tanto a ponto de possuir uma Alma separada e individual não pode retroceder, em seu progresso, e ocupar um Corpo animal ou vegetal, uma vez que estes ainda estão subordinados a Espíritos-Grupo: O espírito individual é uma evolução superior à do Espírito-Grupo, e o menor não pode conter o maior.
 
+() - [8] N.R.: O Apocalipse
+
+() - [9] N.R.: Ap 3:12
+
 Oliver Wendel Holmes[10], no seu formosíssimo poema “The Chambered Nautilus”[11], concretiza a ideia do constante progresso em veículos cada vez melhores e da final libertação. O náutilo constrói sua concha espiralada com seções ou compartimentos separados, abandonando constantemente o menor, que já não o comporta, para ocupar o último construído:
 
-    Ano após ano, sempre no silêncio  
-    prossegue na labuta de ampliar as suas reluzentes espirais;  
-    e, à medida que elas crescem mais,  
-    deixa a morada do ano que passou e na nova vai habitar.  
-    Com suaves passadas deslizando através dos  
-    umbrais construídos com vagar,  
-    acomoda-se outra vez em novo lar  
-    e não mais o anterior vai recordar.  
-    Pela mensagem celeste que me trazes, graças te dou  
-    filho do oceano, lançado do teu meio desolado!  
-    Dos teus lábios mortos nasce uma nota mais clara  
-    que quaisquer das que Tritão já tirou do seu corno espiralado!  
-    Enquanto em meus ouvidos ela soar,  
-    através das cavernas profundas do pensamento,  
-    ouço uma voz a cantar:  
-    “Constrói Alma minha, as mais belas mansões  
-    Enquanto as estações se sucedem!  
-    Deixa teu humilde passado!  
-    Que cada novo templo, mais nobre que o anterior,  
-    Te separe dos céus com um domo mais amplo,  
-    Até que, por fim, possas ficar livre,  
-    Abandonando tua pequena concha no revolto mar da vida!”  
+() - [10] N.R.: (1809-1894) – médico americano, professor, palestrante e autor.
+
+() - [11] N.R.: O Náutilo Enclausurado
+
+```
+Ano após ano, sempre no silêncio  
+prossegue na labuta de ampliar as suas reluzentes espirais;  
+e, à medida que elas crescem mais,  
+deixa a morada do ano que passou e na nova vai habitar.  
+Com suaves passadas deslizando através dos  
+umbrais construídos com vagar,  
+acomoda-se outra vez em novo lar  
+e não mais o anterior vai recordar.  
+
+Pela mensagem celeste que me trazes, graças te dou  
+filho do oceano, lançado do teu meio desolado!  
+Dos teus lábios mortos nasce uma nota mais clara  
+que quaisquer das que Tritão já tirou do seu corno espiralado!  
+Enquanto em meus ouvidos ela soar,  
+através das cavernas profundas do pensamento,  
+ouço uma voz a cantar:  
+
+“Constrói Alma minha, as mais belas mansões  
+Enquanto as estações se sucedem!  
+Deixa teu humilde passado!  
+Que cada novo templo, mais nobre que o anterior,  
+Te separe dos céus com um domo mais amplo,  
+Até que, por fim, possas ficar livre,  
+Abandonando tua pequena concha no revolto mar da vida!”  
+```
 
 A necessidade, já mencionada, de obter um organismo de natureza específica faz lembrar um aspecto interessante das leis gêmeas: do Renascimento e de Consequência. Estas leis estão relacionadas com o movimento dos Corpos Cósmicos, isto é, o Sol, os Planetas e os Signos do Zodíaco. Todos se movem em harmonia com estas leis, guiados em suas órbitas por suas inteligências espirituais internas – os Espíritos Planetários.
 
@@ -1497,6 +1389,8 @@ O autor foi, por aquele tempo, ao norte de Seattle, e uns poucos dias antes da d
 
 A seguinte comunicação sobre o caso veio de um amigo comum: no dia 28 de julho o Sr. L. fora à Sierra Madre[12] num bonde, o qual se chocou com um trem. O Sr. L. sofreu exatamente os ferimentos previstos e mais um que não lhe fora anunciado: o seccionamento de um tendão da perna esquerda.
 
+() - [12] N.R.: nome dado a várias cadeias montanhosas do México.
+
 A questão era averiguar porque o Sr. L., tendo completa fé na predição, não dera melhor atenção ao aviso. A explicação veio três meses após, quando se recompôs suficientemente para poder escrever. Na carta dizia: “Eu julguei que o dia 28 era 29”.
 
 Nenhuma dúvida na opinião do autor: se tratava de uma parte do “Destino Maduro”, impossível de evitar, tal como fora prenunciado pelas estrelas.
@@ -1505,53 +1399,31 @@ As estrelas, portanto, podem ser chamadas de “O Relógio do Destino”. Os doz
 
 Nunca é demais insistir que, embora haja alguns casos que não podem ser evitados, o ser humano dispõe de certa margem de livre arbítrio para modificar algumas causas já postas em movimento. Como disse a poeta[13]:
 
-    Um barco sai para Leste e um outro para Oeste  
-    Com o mesmíssimo vento que sopra, numa única direção.  
-    É a posição certa das velas e não a direção do vento  
-    que determina o sentido que eles vão.  
-    Os caminhos do destino são como os ventos do mar  
-    conforme nós navegamos ao longo e através da vida.  
-    É a ação da Alma que determina o objetivo  
-    e não a calmaria ou o constante lutar.  
-    O importante é compreender que nossas ações atuais determinam as condições futuras.  
+() - [13] N.R.: Ella Wheeler Wilcox
+
+```
+Um barco sai para Leste e um outro para Oeste  
+Com o mesmíssimo vento que sopra, numa única direção.  
+É a posição certa das velas e não a direção do vento  
+que determina o sentido que eles vão.  
+
+Os caminhos do destino são como os ventos do mar  
+conforme nós navegamos ao longo e através da vida.  
+É a ação da Alma que determina o objetivo  
+e não a calmaria ou o constante lutar.  
+```
+
+O importante é compreender que nossas ações atuais determinam as condições futuras.  
 
 Os religiosos ortodoxos, e até os que não professam Religião alguma, consideram como um dos mais fortes argumentos contra a Lei do Renascimento ser ela ensinada na Índia a “pagãos ignorantes” que nela creem. Não obstante, se é uma lei natural não pode haver nenhuma objeção, por mais forte que seja, que a invalide ou a impeça de atuar. Antes de falarmos de “pagãos ignorantes” ou de enviarmos missionários a eles, seria conveniente que examinássemos um pouco os nossos próprios conhecimentos. Os educadores queixam-se, por toda a parte, da superficialidade de conhecimento dos nossos Estudantes. O prof. Wilbur L. Cross[14], de Yale, menciona, entre outros casos de ignorância, o fato de, em uma classe de quarenta alunos, nenhum ser capaz de “localizar” Judas Iscariotes, no quadro da Santa Ceia.
+
+() - [14] N.R.: Wilbur Lucius Cross (1862-1942) – Crítico Literário americano
 
 Quer parecer para nós que seria mais proveitoso se os missionários, em vez de se esforçarem nos países “pagãos” e no trabalho em favelas, dirigissem esses esforços no sentido de levar iluminação à juventude estudantil de nosso próprio país. Seguindo os princípios de que a “caridade começa em casa” e como “Deus não permitirá que os pagãos ignorantes pereçam”, bem melhor seria deixá-los na ignorância que lhes assegura o céu do que, pretendendo esclarecê-los, lhes proporcionar muitas oportunidades de irem para o inferno em legiões. Seguramente esse é o caso em que “onde a ignorância é uma bênção, é loucura ser sábio”. Prestaríamos um notável serviço aos pagãos e a nós mesmos se os deixássemos entregues a si mesmos e fôssemos procurar um Cristão ignorante mais próximo de nossa casa.
 
 Além disso, chamá-la de doutrina de pagãos não a compromete. Por outro lado, sua prioridade no Oriente não é argumento contra ela, da mesma forma que a solução exata de um problema matemático não é invalidada simplesmente por não simpatizarmos com a pessoa que o resolveu. A questão é apenas esta: a solução está certa? Se estiver, é absolutamente indiferente de onde ela tenha vindo.
 
 Todas as demais Religiões não foram mais que condutoras à Religião Cristã. Eram Religiões de Raça e continham somente em parte o que o Cristianismo tem em maior grau. O verdadeiro Cristianismo Esotérico ainda não foi ensinado publicamente, nem o será enquanto a Humanidade não ultrapassar o estado materialista e esteja mais preparada para recebê-lo. As leis do Renascimento e da Consequência têm sido ensinadas secretamente em todos os tempos, mas por ordem direta do próprio Cristo; como veremos essas duas leis não foram publicamente ensinadas no Mundo Ocidental durante os dois mil anos passados.
-
-[1] N.R.: uma península a leste de Nova Jersey, na entrada da baía de Nova York, NY, EUA.
-
-[2] N.R.: Thomas Alva Edison (1847-1931) – inventor e empresário americano. Entre as suas contribuições mais universais para o desenvolvimento tecnológico e científico se encontra a lâmpada elétrica incandescente, o fonógrafo, o cinescópio ou cinetoscópio, o ditafone e o microfone de grânulos de carvão para o telefone. Edison é um dos precursores da revolução tecnológica do século XX. Teve também um papel determinante na indústria do cinema.
-
-[3] N.R.: Siegfried Wagner (1869-1930) foi um compositor e maestro alemão, filho de Richard Wagner.
-
-[4] N.R.: Wilhelm Richard Wagner (1813-1883) – maestro, compositor, diretor de teatro e ensaísta alemão.
-
-[5] N.R.: Bach – A Família Bach foi de grande importância na história da música por cerca de duzentos e cinquenta anos, com mais de 50 músicos e vários compositores notáveis. Seu membro mais proeminente, e quiçá o mais notável compositor da história, foi Johann Sebastian Bach (1685-1750). A dinastia musical começou com o trisavô de Johann Sebastian, Veit Bach (nascido antes de 1545 e morto por volta de 1576), e se extinguiu com seu neto Wilhelm Friedrich Ernst Bach (1759-1845).
-
-[6] N.R.: Homem, aqui, no sentido antropológico.
-
-[7] N.R.: Livro onde narra a origem das tradições do Vedanta, do Yoga e do Samkhya; registra o pensamento de uma época quando estas ideias ainda não estavam rigidamente divididas em sistemas autônomos.
-
-[8] N.R.: O Apocalipse
-
-[9] N.R.: Ap 3:12
-
-[10] N.R.: (1809-1894) – médico americano, professor, palestrante e autor.
-
-[11] N.R.: O Náutilo Enclausurado
-
-[12] N.R.: nome dado a várias cadeias montanhosas do México.
-
-[13] N.R.: Ella Wheeler Wilcox
-
-[14] N.R.: Wilbur Lucius Cross (1862-1942) – Crítico Literário americano
-
-*******
 
 #### <h4 id="wine-as-a-factor-in-evolution">O Vinho como Fator da Evolução</h4>
 
@@ -1581,7 +1453,11 @@ Caim é descrito como um agricultor. Ele simboliza o ser humano da Segunda Époc
 
 Na Terceira Época o alimento era obtido de animais vivos para suplementar o antigo alimento vegetal. O leite foi o meio utilizado para desenvolver o Corpo de Desejos, o que tornou a Humanidade daquele tempo análoga ao animal. Esse é o significado da frase bíblica “Abel era um pastor”[1]. Contudo, em parte alguma se diz que ele matava animais.
 
+() - [1] N.R.: Gn 4:2
+
 Na Quarta Época o ser humano evoluiu além do estado animal – ele tinha a Mente. A atividade do pensamento esgota as células nervosas; mata, destrói e leva à decomposição. Por isso, o alimento do Atlante era, por analogia, constituído de carcaças mortas. Ele matava para comer e é por isso que a Bíblia afirma que “Nimrod era um caçador poderoso”[2]. Nimrod representa o ser humano da Quarta Época.
+
+() - [2] N.R.: Também grafado como: Ninrode, Nemrod (Gn 10:9).
 
 Nesse meio tempo o ser humano desceu mais profundamente na matéria. Seu primeiro Corpo etéreo formou o esqueleto interno que se tornou sólido. Perdeu também gradativamente a visão espiritual que possuía nas Épocas anteriores, pois assim estava determinado, isto é, ele estava destinado a recuperá-la num estágio superior, mais a consciência própria que até então não possuía. Tinha, porém, durante as primeiras quatro Épocas, um conhecimento maior dos Mundos espirituais. Sabia, por exemplo, que não morria e que quando seu Corpo se gastava era como as folhas secas sendo descartadas pela árvore no outono – outro Corpo nascia e ocupava seu lugar. Portanto ele não apreciava realmente as vantagens e oportunidades da existência concreta na vida terrena.
 
@@ -1615,19 +1491,13 @@ Cristo fazia distinção entre o Corpo do ser humano fisicamente cego e o Deus i
 
 O Corpo físico[3] não tinha cometido pecado algum. O Deus interno, sim, cometera algum ato que originou aquela forma de sofrimento. Não é forçar a questão chamar um ser humano de Deus. S. Paulo disse: “Não sabeis que sois Deuses? “[4]. E referiu-se ao Corpo humano como sendo o “Templo de Deus”, o templo do Espírito interno.
 
+() - [3] N.R.: que é o Corpo Denso
+
+() - [4] N.R.: ICor 3:16
+
 Finalmente, ainda que a maioria das pessoas não recorde suas vidas passadas, algumas há que recordam. E todos podem consegui-lo, desde que vivam de modo a poderem obter esse conhecimento. Requer grande fortaleza de caráter conhecer o destino iminente, que pode estar suspenso sobre nossas cabeças, negro e sinistro para alguns, se manifestando como horrendo desastre. A Natureza ocultou-nos bondosamente o passado e o futuro para não nos roubar a paz da Mente, impedindo o sofrimento antecipado daquilo que nos está reservado. Quando alcançamos maior desenvolvimento aprendemos a aceitar com equanimidade todas as coisas, vendo em todo infortúnio o resultado de nossos passados erros. Então, sentir-nos-emos gratos por termos pago obrigações contraídas, sabendo que delas restarão cada vez menos, até o dia da libertação da roda dos nascimentos e mortes.
 
 Quando uma pessoa morre na infância frequentemente recorda essa vida no próximo renascimento, pois as crianças que morrem antes dos quatorze anos não percorrem a totalidade de um ciclo de vida, o que implicaria na construção da série completa de veículos novos. Simplesmente passam às Regiões superiores do Mundo do Desejo e ali esperam um novo renascimento, o que geralmente ocorre entre um e vinte anos depois da morte. Quando renascem trazem consigo a Mente e o Corpo de Desejos. Se prestássemos atenção à tagarelice das crianças, muitas vezes poderíamos descobrir e recompor histórias tais como a seguinte:
-
-[1] N.R.: Gn 4:2
-
-[2] N.R.: Também grafado como: Ninrode, Nemrod (Gn 10:9).
-
-[3] N.R.: que é o Corpo Denso
-
-[4] N.R.: ICor 3:16
-
-*******
 
 #### <h4 id="a-remarkable-story">Uma História Notável</h4>
 
@@ -1640,8 +1510,6 @@ Era a vez de o Sr. Roberts contar a sua história: há dezoito anos vivera em Lo
 Muito tempo se passou até que as autoridades atendessem seus constantes rogos para que fossem buscar sua esposa e filha, as quais já presumia quase mortas de fome naquele país selvagem e isolado. Mais tarde, uma expedição foi enviada à cabana e não encontraram mais que os esqueletos de ambas. Entrementes o pai do Sr. Roberts havia morrido e, embora o houvesse deserdado, seus irmãos dividiram com ele a herança. Então, completamente aniquilado, viajou para a América.
 
 O Sr. Roberts exibiu na ocasião algumas fotos suas, de sua esposa e da filha. Por sugestão do Sr. “X” foram elas misturadas com certo número de outras e mostradas à menina, que sem vacilar assinalou as fotografias de seus antigos pais, mesmo tendo o Sr. Roberts mudado bastante em seu aspecto físico.
-
-*************************************************************************************************************
 
 <h2 id="part-2">Segunda Parte – Cosmogênese e Antropogênese</h2>
 
