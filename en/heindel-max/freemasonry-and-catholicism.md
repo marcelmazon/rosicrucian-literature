@@ -18,7 +18,7 @@ International Headquarters
 P.O. Box 713  
 Oceanside, California, 92054, U.S.A.  
 
-### <h3 id="table-of-contents">TABLE OF CONTENTS</h3>
+### <h3 id="table-of-contents">Table of Contents</h3>
 
 - [Part I: Lucifer, the Rebel Angel](#part-1)
 - [Part II: The Masonic Legend](#part-2)
@@ -257,7 +257,7 @@ When the aspirant to the higher life had been instructed in these mysteries of s
 
 There are many other symbols and similes taken from the world of chemistry and applied to the processes of spiritual growth which eventually makes men living stones in the temple of God. But enough has been said in the foregoing to show what was meant by the ancient alchemists by such terms and the reason why they clothed their teachings in symbolical language. The way of initiation is, however, and has always been open to anyone who really and truly seeks for enlightenment and is willing to pay the price in the coin of self-denial and self-sacrifice. Therefore, seek the temple door and you shall find it; knock and it shall be opened unto you. If you seek prayerfully, if you knock persistently and if you labor manfully you will in time reach the goal and you will become The Philosopher's Stone. 
 
-#### <h4 id="celibacy-and-marriage">CELIBACY AND MARRIAGE</h4>
+#### <h4 id="celibacy-and-marriage">Celibacy and Marriage</h4>
 
 In order to avoid misunderstanding, it should be said that this lesson was only given to the aspirant to discipleship to show him the reason why it is necessary for him to live a pure and chaste life. It does not apply to the masses who have no spiritual aspirations and are as yet unable to restrain their passions. The Rosicrucians do not even advocate an entirely celibate life for their pupils; indeed they regard it as a religious duty for the enlightened mystic, man or woman, to wed a kindred spirit if such can be found, and thus furnish incoming souls a particularly advantageous opportunity for rebirth. When such a devoted couple perform the generative act in a spirit of aspiration to serve a waiting ego, when the prenatal conditions are pure mentally, morally and physically, when the early childhood days of the ego thus born are spent in a home atmosphere of high and noble thought, both parents and children are making wonderful progress. And as great souls cannot be born to ignoble parents any more than water can sink below its level, it would, indeed, be very wrong for aspirants to discipleship to live an entirely celibate life for the sake of self-advancement when conditions permit them to wed; furthermore, the expenditure of the creative force at the few times in a life when it is legitimately required for propagation would not seriously interfere with the spiritual development undertaken to become The Philosopher's Stone, and the soul-growth gained by assuming the duties of parenthood would far outweigh any possible loss. 
 
@@ -303,7 +303,7 @@ But we know that our dense body gravitates towards the center of the earth, ther
 
 This change may have been accomplished through a life of simple helpfulness and prayer as practiced by devoted Christians, no matter with what church they are affiliated if they follow the path of the Sons of Seth. Others have attained by following the specific exercises given by the Rosicrucians. And thus the process of the unification of the two streams is already under way. But the war between the flesh and the spirit is still raging in the breast of most people as fiercely as it was in the days when Paul gave vent to his pent up feelings, and told us how the flesh was warring against the spirit within himself, and how he did the wrong things which he would not do, and omitted good deed which he aspired so ardently to perform. Nor will the struggle ever cease for the Mystic Mason until he has learned to build the Temple made without hands, which is not completed until he has come to the Eighteenth (1 plus 8) Degree, which is the Degree of the Rose Croix. This is the ultimate of the Thirty-third Degree, for three times three are nine, and one plus eight are nine. Nine being the highest degree in the Lesser Mysteries, he who has passed this degree of the genuine Mystic Order is then, and then only, the widow's Son of Nine, or Nain, ready to be raised by the strong grip of the paw of the Lion of Judah, to the Kingdom of the Heavens, there to receive the "well done, thou good and faithful servant, enter into the joy of your Lord" for "Him that overcometh will I make a pillar in the House of God, thence he shall no more go out." He is then immortal, loosed from the wheel of Birth and Death. 
 
-### <h3 id="summary">SUMMARY</h3>
+### <h3 id="summary">Summary</h3>
 
 In conclusion, it may be well to sum up the points which have been made in these articles on Freemasonry and Catholicism, it being understood that the term "Catholicism" as here used does not refer to the Roman Catholic Church alone, "Catholic" being taken in the sense of Universal, so that the term includes all movements inaugurated by the Sons of Seth, the Priestcraft. 
 
