@@ -72,14 +72,14 @@ O autor tem o hábito de ater-se e concentrar-se o mais possível sobre cada ass
 
 Na cena de abertura, três dos Filhos de Deus, Espíritos Planetários, são vistos curvando-se ante o Grande Arquiteto do Universo, cantando a música das esferas em sua adoração ao Ser Inefável, que é a fonte de vida, o autor de todas as manifestações. Goethe apresenta um desses sublimes Espíritos estelares dizendo: 
 
-    "O Sol entoa sua velha canção,   
-    Entre os cânticos rivais das esferas irmãs,   
-    Seu caminho predestinado vai trilhar   
-    Através dos anos, em retumbante marchar".   
+```
+"O Sol entoa sua velha canção,   
+Entre os cânticos rivais das esferas irmãs,   
+Seu caminho predestinado vai trilhar   
+Através dos anos, em retumbante marchar".   
+```
 
-Modernos instrumentos científicos foram inventados, por meio dos quais, em testes de laboratório, ondas de luz são transmutadas em som, demonstrando assim no Mundo Físico o aforismo místico da identidade dessas manifestações. O que antes era evidente apenas para o místico capaz de elevar sua consciência para a Região do Pensamento Concreto, agora também é percebido pelos cientistas. Portanto, o canto das esferas, primeiramente mencionado por Pitágoras, não deve ser encarado como uma ideia vaga concebida por uma imaginação poética, nem como uma alucinação de um cérebro demente. 
-
-Goethe pôs um significado em toda a palavra que proferiu. As estrelas têm, cada uma, sua própria nota-chave e viajam em torno do Sol à velocidades tão diversas que suas posições de agora não se repetirão até que se passem 27.000 anos. Assim, a harmonia dos céus muda a cada momento e, ao mudar, o mundo altera também suas ideias e ideais. A dança circular dos orbes em movimento, ao som da sinfonia celestial criada por elas, marca o progresso do homem ao longo do caminho que chamamos evolução. 
+Modernos instrumentos científicos foram inventados, por meio dos quais, em testes de laboratório, ondas de luz são transmutadas em som, demonstrando assim no Mundo Físico o aforismo místico da identidade dessas manifestações. O que antes era evidente apenas para o místico capaz de elevar sua consciência para a Região do Pensamento Concreto, agora também é percebido pelos cientistas. Portanto, o canto das esferas, primeiramente mencionado por Pitágoras, não deve ser encarado como uma ideia vaga concebida por uma imaginação poética, nem como uma alucinação de um cérebro demente.  Goethe pôs um significado em toda a palavra que proferiu. As estrelas têm, cada uma, sua própria nota-chave e viajam em torno do Sol à velocidades tão diversas que suas posições de agora não se repetirão até que se passem 27.000 anos. Assim, a harmonia dos céus muda a cada momento e, ao mudar, o mundo altera também suas ideias e ideais. A dança circular dos orbes em movimento, ao som da sinfonia celestial criada por elas, marca o progresso do homem ao longo do caminho que chamamos evolução. 
 
 Mas é uma ideia errada pensar que a harmonia constante é agradável. A música assim expressa tornar-se-ia monótona; ficaríamos fatigados com a harmonia contínua. Na verdade, a música perderia seu atrativo se não fossem as dissonâncias entremeadas frequentemente. Quanto mais próximo da dissonância o compositor puder chegar, sem realmente incorporá- la à partitura, mais agradável será sua composição quando esta criar vida através de instrumentos musicais. O mesmo acontece no canto das esferas; nós nunca atingiríamos a individualidade para a qual toda a evolução se dirige, sem a dissonância divina. 
 
@@ -87,139 +87,162 @@ Portanto, o Livro de Job designa Satã como sendo um dos Filhos de Deus. E o mit
 
 Enquanto os outros Espíritos Planetários inclinam-se em adoração quando contemplam as obras do Mestre Arquiteto reveladas no Universo, Lúcifer emite a nota de crítica, de censura, nas palavras dirigidas contra a obra-prima de Deus, o rei das criaturas, o homem: 
 
-    "Dos sóis e dos mundos nada tenho a dizer,   
-    Vejo apenas quanto o homem se atormenta:   
-    Esse pequeno deus do mundo, sua marca quer reter,   
-    Tão surpreendente agora como no primeiro dia.   
-    Pobre ser, se ele pudesse ter-se afastado, melhor seria,   
-    Tivesses Tu conservado nele a luz celestial,   
-    Que ele chama de razão mas não a usa,   
-    E cresce mais grosseiro que o irracional".   
+```
+"Dos sóis e dos mundos nada tenho a dizer,   
+Vejo apenas quanto o homem se atormenta:   
+Esse pequeno deus do mundo, sua marca quer reter,   
+Tão surpreendente agora como no primeiro dia.   
+Pobre ser, se ele pudesse ter-se afastado, melhor seria,   
+Tivesses Tu conservado nele a luz celestial,   
+Que ele chama de razão mas não a usa,   
+E cresce mais grosseiro que o irracional".   
+```
 
 Considerado sob o ponto de vista de gerações anteriores, isto pode soar como sacrilégio, mas, sob a luz dos tempos modernos, podemos entender que mesmo num ser tão exaltado que é designado pelo nome de Deus, deve haver crescimento. Podemos sentir o esforço para maiores aptidões, a contemplação de futuros universos oferecendo maiores facilidades para a evolução de outros Espíritos Virginais, que são o resultado das imperfeições notadas no esquema de manifestação por seu exaltado Autor. Além disso, como "em Deus vivemos, nos movemos e temos nosso ser", assim também a nota dissonante emitida pelos Espíritos de Lúcifer elevar-se-ia dentro Dele. Não seria um agente externo que chamaria a atenção para erros ou O censuraria, mas Seu próprio e divino reconhecimento de uma imperfeição a ser transmutada em bem maior. 
 
 Lemos na Bíblia que Job era um homem perfeito, e no mito de Fausto, o detentor do papel principal é designado como um servidor de Deus, pois naturalmente o problema do desabrochar, de maior crescimento, deve ser solucionado pelos mais avançados. Pessoas comuns, ou aqueles que estão mais baixo na escala da evolução, ainda têm que percorrer a parte da estrada já vencida por outros, como Fausto e Job, que são a vanguarda da raça e que são considerados pela humanidade comum da mesma maneira que Lúcifer os descreve, isto é, como tolos e esquisitos. 
 
-    "Pobre tolo, sua comida e bebida não são da terra,   
-    UM impulso interno para frente o empurra;   
-    Ele próprio, meio consciente de seu humor exaltado.   
-    Pela mais linda estrela do céu tem ansiado.   
-    O melhor e o mais alto da terra têm desejado,   
-    E tudo o que está perto e está longe, do mesmo jeito;   
-    Nada pode acalmar os anseios do seu peito".   
+```
+"Pobre tolo, sua comida e bebida não são da terra,   
+UM impulso interno para frente o empurra;   
+Ele próprio, meio consciente de seu humor exaltado.   
+Pela mais linda estrela do céu tem ansiado.   
+O melhor e o mais alto da terra têm desejado,   
+E tudo o que está perto e está longe, do mesmo jeito;   
+Nada pode acalmar os anseios do seu peito".   
+```
 
 Para tais pessoas deve ser aberto um novo e mais elevado caminho para lhes dar maiores oportunidades de crescimento; daí a resposta de Deus: 
 
-    "Embora, em perplexidade, ele me sirva agora,   
-    Para onde aparecer a luz, Eu logo o guiarei;   
-    Quando a árvore nova tiver brotos, o jardineiro sabe,   
-    Com flores e frutos seus anos vindouros beneficiarei".   
+```
+"Embora, em perplexidade, ele me sirva agora,   
+Para onde aparecer a luz, Eu logo o guiarei;   
+Quando a árvore nova tiver brotos, o jardineiro sabe,   
+Com flores e frutos seus anos vindouros beneficiarei".   
+```
 
 ### <h3 id="chapter-2">Capítulo II: As Tristezas da Alma que Procura</h3>
 
 Como o exercício é necessário ao desenvolvimento dos músculos físicos, assim o desenvolvimento da natureza moral é realizado pela tentação. Ao ser dada uma alternativa ao Ego, este poderá exercitá-la em qualquer direção que escolher, pois aprende tanto por seus erros como por seus atos corretos, e estes são bem mais proveitosos. Portanto, no mito de Job, o demônio tem permissão para tentar, e no mito de Fausto, ele pede: 
-    "Meu Senhor, se eu puder conduzi-lo a meu gosto,   
-    Tu o perderás, eu aposto".   
+
+```
+"Meu Senhor, se eu puder conduzi-lo a meu gosto,   
+Tu o perderás, eu aposto".   
+```
+
 Ao que o Senhor responde: 
 
-    "Consinto-o!   
-    Desvia este espírito da original fonte,   
-    Podes dominá-lo, exerce o teu poder,   
-    Se ele por tua direção for descer.   
-    Mas ficarás envergonhado   
-    Quando a reconhecer fores forçado,   
-    Que um homem bom em sua mais escura aberração   
-    Conhece ainda o caminho que o conduz à salvação.   
-    Vai, és livre para agir sem controle enfim.   
-    Pelos que são como tu, não nutro aversão;   
-    De todos os espíritos de negação   
-    O cínico é o menos aborrecido vara Mim.   
-    Do trabalho, o homem é inclinado a se esquivar   
-    Ele viveria de bom grado, tranquilo a descansar.   
-    Por isso, de propósito, Eu te dou este companheiro   
-    Que se agita, se excita e como um demônio deve trabalhar.   
-    Mas vós, ó fiéis Filhos de Deus, a ninguém ides ofender,   
-    Regozijai-vos em toda a imortal beleza,   
-    O imortal, tão próprio e crescente em grandeza;   
-    Preparai-vos agora com amor e no dever".   
+```
+"Consinto-o!   
+Desvia este espírito da original fonte,   
+Podes dominá-lo, exerce o teu poder,   
+Se ele por tua direção for descer.   
+Mas ficarás envergonhado   
+Quando a reconhecer fores forçado,   
+Que um homem bom em sua mais escura aberração   
+Conhece ainda o caminho que o conduz à salvação.   
+Vai, és livre para agir sem controle enfim.   
+Pelos que são como tu, não nutro aversão;   
+De todos os espíritos de negação   
+
+O cínico é o menos aborrecido vara Mim.   
+Do trabalho, o homem é inclinado a se esquivar   
+Ele viveria de bom grado, tranquilo a descansar.   
+Por isso, de propósito, Eu te dou este companheiro   
+Que se agita, se excita e como um demônio deve trabalhar.   
+Mas vós, ó fiéis Filhos de Deus, a ninguém ides ofender,   
+Regozijai-vos em toda a imortal beleza,   
+O imortal, tão próprio e crescente em grandeza;   
+Preparai-vos agora com amor e no dever".   
+```
 
 A trama está pronta e Fausto está prestes a ser enredado nas armadilhas que cercam o caminho de toda alma que procura. As linhas seguintes mostram o propósito benéfico e a necessidade da tentação. O Espírito é uma parte integral de Deus; originalmente inocente, mas não virtuoso. A virtude é uma qualidade positiva, desenvolvida ao tornar-se uma posição firme diante da tentação ou pelo sofrimento suportado em consequência dos erros cometidos. Assim, o prólogo no céu dá ao mito Fausto seu mais alto valor como um guia, e também o encorajamento à alma que procura. Mostra o objetivo eterno que está por detrás das condições terrenas que nos causam dor e tristeza. 
 
 Em seguida, Goethe apresenta-nos o próprio Fausto, que está de pé em seu escuro gabinete. Ele está empenhado na introspecção e na retrospecção: 
 
-    "Eu tenho, ai de mim, filosofia, medicina e lei,   
-    Teologia também eu estudei!   
-    Agora aqui estou com todo o meu saber,   
-    Um tolo, não mais sábio do que antes.   
-    Pensei a humanidade melhorar   
-    E a mente humana elevar;   
-    Por proveitos ou tesouros nunca trabalhei,   
-    Nem por honras mundanas, posição ou prazer;   
-    Com livros toda vida eu batalhei.   
-    Mas, agora, às mágicas eu me dou;   
-    Espero, através do espírito, pela voz e poder,   
-    Segredos velados à luz trazer.   
-    Que eu não mais com semblante dolorido   
-    Necessite falar do que não hei sabido.   
-    Pobre de mim! Ainda prisioneiro desta escuridão estou   
-    Neste abominável e bolorento quarto gelado,   
-    Onde a querida luz do céu passou   
-    Obscuramente através do vidro pintado.   
-    Avante! Em frente para a terra distante.   
-    Não é este o livro de mistérios   
-    Que pela mágica mão de Nostradamus   
-    Será um guia suficiente?   
-    Verás o curso das estrelas e saberás, então,   
-    Quando a natureza for seus pensamentos revelar   
-    A ti. Tua alma se elevará e irá procurar   
-    Ter com ela uma elevada e duradoura comunhão".   
+```
+"Eu tenho, ai de mim, filosofia, medicina e lei,   
+Teologia também eu estudei!   
+Agora aqui estou com todo o meu saber,   
+Um tolo, não mais sábio do que antes.   
+Pensei a humanidade melhorar   
+E a mente humana elevar;   
+Por proveitos ou tesouros nunca trabalhei,   
+Nem por honras mundanas, posição ou prazer;   
+Com livros toda vida eu batalhei.   
+Mas, agora, às mágicas eu me dou;   
+Espero, através do espírito, pela voz e poder,   
+Segredos velados à luz trazer.   
+Que eu não mais com semblante dolorido   
+Necessite falar do que não hei sabido.   
+Pobre de mim! Ainda prisioneiro desta escuridão estou   
+Neste abominável e bolorento quarto gelado,   
+Onde a querida luz do céu passou   
+Obscuramente através do vidro pintado.   
+Avante! Em frente para a terra distante.   
+Não é este o livro de mistérios   
+Que pela mágica mão de Nostradamus   
+Será um guia suficiente?   
+Verás o curso das estrelas e saberás, então,   
+Quando a natureza for seus pensamentos revelar   
+A ti. Tua alma se elevará e irá procurar   
+Ter com ela uma elevada e duradoura comunhão".   
+```
 
-Uma vida inteira de estudos não trouxe a Fausto um conhecimento real. As fontes convencionais de aprendizado provaram ser estéreis no resultado final. O cientista pode considerar Deus desnecessário, uma redundância; pode acreditar que a vida consiste só de ação e reação química - isto acontece quando ele está no começo. Mas, quanto mais se aprofunda na matéria, maiores são os mistérios que encontra em seu caminho, e, ao fim, será forçado a abandonar algumas pesquisas ou passa a acreditar em Deus como um Espírito cuja vida envolve cada átomo de matéria. Fausto chegou a esse ponto. Ele diz que não tem trabalhado por ouro, "nem tesouros", nem honras mundanas, posição ou prazer". Esforçou-se pelo amor à pesquisa e atingiu o ponto em que percebe que um mundo espiritual está todo ao seu alcance; e, através desse mundo, por magia, ele aspira agora um conhecimento mais elevado e mais real do que aquele contido nos livros. Tem em sua mão um volume escrito pelo famoso Nostradamus, e ao abri-lo contempla o emblema do macrocosmo. O poder nele contido abre em sua consciência uma parte do mundo que ele está procurando e, num êxtase de alegria, exclama: 
+Uma vida inteira de estudos não trouxe a Fausto um conhecimento real. As fontes convencionais de aprendizado provaram ser estéreis no resultado final. O cientista pode considerar Deus desnecessário, uma redundância; pode acreditar que a vida consiste só de ação e reação química - isto acontece quando ele está no começo. Mas, quanto mais se aprofunda na matéria, maiores são os mistérios que encontra em seu caminho, e, ao fim, será forçado a abandonar algumas pesquisas ou passa a acreditar em Deus como um Espírito cuja vida envolve cada átomo de matéria. Fausto chegou a esse ponto. Ele diz que não tem trabalhado por ouro, "nem tesouros", nem honras mundanas, posição ou prazer". Esforçou-se pelo amor à pesquisa e atingiu o ponto em que percebe que um mundo espiritual está todo ao seu alcance; e, através desse mundo, por magia, ele aspira agora um conhecimento mais elevado e mais real do que aquele contido nos livros. 
 
-    "Ah! A este espetáculo através de todos os sentidos,   
-    Que súbito êxtase de alegria está fluindo;   
-    Sinto novo enlevo, abençoado e intenso.   
-    Do mundo do homem sábio o sentido estou aprendendo:   
-    O mundo do espírito e o saber são revelados,   
-    Teu coração está morto, teus sentidos fechados;   
-    Avante, estudante! Com zelo imorredouro vem banhar   
-    Teu peito terrestre no rubro amanhecer.   
-    Como tudo que vive e produz estão sempre a combinar,   
-    Tece um grande todo da ampla gama do Ser,   
-    Que a força celeste, subindo e descendo, possas ver,   
-    Suas taças douradas incessantemente cruzando.   
-    Seu voo no enlevo de sussurrantes asas vagando,   
-    Do céu à terra, o ritmo trazer".   
+Tem em sua mão um volume escrito pelo famoso Nostradamus, e ao abri-lo contempla o emblema do macrocosmo. O poder nele contido abre em sua consciência uma parte do mundo que ele está procurando e, num êxtase de alegria, exclama: 
+
+```
+"Ah! A este espetáculo através de todos os sentidos,   
+Que súbito êxtase de alegria está fluindo;   
+Sinto novo enlevo, abençoado e intenso.   
+Do mundo do homem sábio o sentido estou aprendendo:   
+O mundo do espírito e o saber são revelados,   
+Teu coração está morto, teus sentidos fechados;   
+Avante, estudante! Com zelo imorredouro vem banhar   
+Teu peito terrestre no rubro amanhecer.   
+Como tudo que vive e produz estão sempre a combinar,   
+Tece um grande todo da ampla gama do Ser,   
+Que a força celeste, subindo e descendo, possas ver,   
+Suas taças douradas incessantemente cruzando.   
+Seu voo no enlevo de sussurrantes asas vagando,   
+Do céu à terra, o ritmo trazer".   
+```
 
 Mas, novamente o pêndulo oscila para trás. Como a tentativa de fitar diretamente a brilhante luz do Sol resultaria na destruição da retina, assim a audaciosa tentativa de penetrar o Infinito resulta em malogro e a alma que procura é lançada do êxtase da alegria para a escuridão do desespero: 
 
-    "Um maravilhoso espetáculo, mas, ah! um espetáculo somente.   
-    Onde poderei agarrar-te, natureza infinita, onde?   
-    Teu peito, tu és fonte de toda a vida   
-    Onde se apoiam os céus e a terra, onde o coração debilitado   
-    Por consolo anseia, e tu ainda tens partilhado   
-    De tuas doces e encorajadoras marés: onde estás. onde te ouvir?   
-    Tu jorras, e, em desespero, eu hei de me consumir".   
+```
+"Um maravilhoso espetáculo, mas, ah! um espetáculo somente.   
+Onde poderei agarrar-te, natureza infinita, onde?   
+Teu peito, tu és fonte de toda a vida   
+Onde se apoiam os céus e a terra, onde o coração debilitado   
+Por consolo anseia, e tu ainda tens partilhado   
+De tuas doces e encorajadoras marés: onde estás. onde te ouvir?   
+Tu jorras, e, em desespero, eu hei de me consumir".   
+```
 
 Antes de podermos com sucesso aspirar a um conhecimento superior, devemos primeiro entender o inferior. Falar e delirar sobre os mundos além, sobre corpos mais sutis, quando temos só uma leve ideia dos veículos com os quais trabalhamos todos os dias e do ambiente em que nos movimentamos, é ignorar a realidade. "Homem, conhece-te a ti mesmo", é um ensinamento sábio. A única segurança está em galgarmos a escada, degrau por degrau, nunca tentando dar um novo passo enquanto não nos sentirmos firmes e equilibrados naquele em que estamos. Muitas almas podem repetir, pela sua própria experiência, o desespero personificado nas palavras de Fausto. 
 
 Ingenuamente, ele começou pelo ponto mais alto. Sofreu a decepção, mas ainda assim não compreendeu que devia começar pela base. Portanto, inicia uma evocação ao Espírito da Terra: 
 
-    "Espírito da Terra, Tu para mim estás mais perto,   
-    Ainda agora minha força está crescendo,   
-    Coragem eu sinto para em toda parte do mundo ousar,   
-    O infortúnio e a bem-aventurança da terra suportar;   
-    Lutar contra as tempestades, e com bravura o fulgor do raio     enfrentar,   
-    Em meio ao fragor do naufrágio não desesperar.   
-    Nuvens acumulam-se sobre mim, a luz do luar ocultando   
-    O fulgor da lâmpada que se extingue com a escuridão da noite,   
-    Erguem-se brumas, uma emanação vermelha e lampejante   
-    Em minha cabeça esses feixes de luz vão penetrar;   
-    Estou dominado por um trêmulo pavor angustiante.   
-    Espírito, compelido pela prece, Tu que vais pairar   
-    Por perto, revela-te agora, por favor,   
-    Meu coração jubilosamente vou-Te entregar;   
-    Deves aparecer, se livre a vida for".   
+```
+"Espírito da Terra, Tu para mim estás mais perto,   
+Ainda agora minha força está crescendo,   
+Coragem eu sinto para em toda parte do mundo ousar,   
+O infortúnio e a bem-aventurança da terra suportar;   
+Lutar contra as tempestades, e com bravura o fulgor do raio     enfrentar,   
+Em meio ao fragor do naufrágio não desesperar.   
+Nuvens acumulam-se sobre mim, a luz do luar ocultando   
+O fulgor da lâmpada que se extingue com a escuridão da noite,   
+Erguem-se brumas, uma emanação vermelha e lampejante   
+Em minha cabeça esses feixes de luz vão penetrar;   
+Estou dominado por um trêmulo pavor angustiante.   
+Espírito, compelido pela prece, Tu que vais pairar   
+Por perto, revela-te agora, por favor,   
+Meu coração jubilosamente vou-Te entregar;   
+Deves aparecer, se livre a vida for".   
+```
 
 Como dissemos no 'Conceito Rosacruz do Cosmos', e como já elucidamos na Filosofia Rosacruz uma questão concernente ao ritual latino na Igreja Católica, um nome é um som. Corretamente proferido, não importa por quem, tem uma forte influência sobre a inteligência que representa, e a palavra usada em cada grau de Iniciação, dá ao homem acesso a uma particular esfera de vibração Povoada por certas classes de Espíritos. Portanto, como um diapasão corresponde a uma nota de igual intensidade, assim também Fausto ao pronunciar o nome do Espírito da Terra, abre sua consciência à essa presença totalmente penetrante. 
 
@@ -229,60 +252,70 @@ Devemos lembrar que a experiência de Fausto não é um exemplo isolado do que p
 
 Em A Estrela de Belém, um Fato Místico, tentamos transmitir aos estudantes uma noção de certa fase da Iniciação. A maioria das pessoas caminha na Terra e vê apenas uma massa aparentemente morta. Mas, um dos primeiros fatos revelados em nossa consciência pela Iniciação, é a realidade viva do Espírito da Terra. Como a superfície de nosso corpo é morta comparada com os órgãos internos, assim também o invólucro externo da Terra não dá ideia da maravilhosa atividade interna. No caminho da Iniciação nove camadas diferentes são reveladas, e no centro desta esfera giratória deparamos, face a face, com o Espírito da Terra. É verdade que ele está "gemendo e sofrendo" na Terra por todos nós, trabalhando e esperando ansiosamente por nossa manifestação como Filhos de Deus para que, assim como a alma que procura e aspira a libertação é desprendida de seu corpo denso, também o Espírito da Terra possa ser libertado de seu corpo mortal no qual está agora confinado por nós. Para Fausto, as palavras do Espírito da Terra, ditas por Goethe, oferecem esplêndido material para meditação, pois representam misticamente o que o candidato sente quando percebe pela primeira vez a verdadeira realidade do Espírito da Terra como uma presença viva, trabalhando sempre ativamente para nossa elevação. 
 
-    "Nas correntes da vida, na ação da tempestade,   
-    Eu flutuo e balanço em movimento ondulado;   
-    Nascimento e túmulo, um oceano ilimitado;   
-    Um constante tecer em oportunidade abundante,   
-    Uma Vida ardente, um movimento incessante,   
-    Zunindo o tear do tempo, eu tenho continuamente seguido;   
-    O vivo traje de Deus, é assim por mim tecido".   
+```
+"Nas correntes da vida, na ação da tempestade,   
+Eu flutuo e balanço em movimento ondulado;   
+Nascimento e túmulo, um oceano ilimitado;   
+Um constante tecer em oportunidade abundante,   
+Uma Vida ardente, um movimento incessante,   
+Zunindo o tear do tempo, eu tenho continuamente seguido;   
+O vivo traje de Deus, é assim por mim tecido".   
+```
 
 Naturalmente, o Espírito da Terra não é para ser idealizado com o aspecto de um homem grande, ou como tendo uma forma física que não seja a da própria Terra. O corpo vital de Jesus, o qual o Espírito Cristo utilizou antes de seu ingresso na Terra, tem a forma humana comum; está preservado e é mostrado ao candidato num certo ponto de sua escalada. Algum dia, num futuro distante, abrigará novamente o benevolente Espírito Cristo em Seu retorno do centro da Terra. Isto acontecerá quando nós nos tivermos eterizado, e quando Ele estiver pronto para ascender à esferas mais elevadas, deixando-nos para que sejamos instruídos sobre o Pai, cuja religião será mais elevada do que a religião Cristã. 
 
 A verdade esotérica de que quando um Espírito entra por uma determinada porta, deve também retornar da mesma maneira, é ensinada por Goethe em relação à aparição inicial de Mefistófeles a Fausto. Fausto não está no caminho regular da Iniciação. Não recebeu permissão nem ajuda dos Irmãos Maiores; está batendo na porta errada devido à sua impaciência. Portanto é rejeitado pelo Espírito da Terra e, quando pensa ter conseguido entrar, é lançado dos píncaros da alegria ao abismo do desespero, onde compreende que realmente falhou. 
 
-    "Eu, a própria imagem de Deus, desta labuta de barro   
-    Já liberto, eu que saudei   
-    O espelho da eterna verdade e a revelei,   
-    Em meio ao dia celestial e à luz fulgurando,   
-    Eu, cuja alma está se libertando   
-    E. com olhar penetrante, aspirei fluir   
-    Pelas veias da natureza, e ainda criando   
-    Conheço a vida dos deuses ... agora estão a me punir,   
-    Uma fulminante palavra afastou-me do caminho!   
-    Espírito. eu não ouso elevar-me à tua esfera, sozinho;   
-    E embora meu poder te compelisse a aparecer   
-    Minha arte foi inútil para aqui conseguir te deter.   
-    Cruelmente, do reino do pensamento senti o arremessar   
-    De volta ao destino incerto da humanidade!   
-    Quem agora vai me ensinar? A que devo eu renunciar?"   
+```
+"Eu, a própria imagem de Deus, desta labuta de barro   
+Já liberto, eu que saudei   
+O espelho da eterna verdade e a revelei,   
+Em meio ao dia celestial e à luz fulgurando,   
+Eu, cuja alma está se libertando   
+E. com olhar penetrante, aspirei fluir   
+Pelas veias da natureza, e ainda criando   
+Conheço a vida dos deuses ... agora estão a me punir,   
+Uma fulminante palavra afastou-me do caminho!   
+Espírito. eu não ouso elevar-me à tua esfera, sozinho;   
+E embora meu poder te compelisse a aparecer   
+Minha arte foi inútil para aqui conseguir te deter.   
+Cruelmente, do reino do pensamento senti o arremessar   
+De volta ao destino incerto da humanidade!   
+Quem agora vai me ensinar? A que devo eu renunciar?"   
+```
 
 Ele pensa que as fontes de informação estão exauridas e que nunca poderá atingir o verdadeiro conhecimento. E, temendo a depressiva monotonia de uma existência trabalhosa e comum, agarra um frasco de veneno e está prestes a bebê-lo, quando canções do lado de fora proclamam a ascensão de Cristo, pois é manhã de Páscoa. A este pensamento, nova esperança agita sua alma. Além disso, é também perturbado em seu propósito pela chegada de Wagner, seu amigo. 
 
 Caminhando em direção a ele, Fausto emite o grito de agonia arrancado de toda alma aspirante na terrível luta entre as naturezas superior e inferior. Enquanto vivemos nossa vida mundana, sem aspirações elevadas, há paz em nosso íntimo. Mas, uma vez sentido o chamado do Espírito, nosso equilíbrio é alterado, e quanto mais ardentemente persistimos na procura do Graal, mais violenta é esta luta interna. Paulo considerava-se um homem desditoso porque os desejos inferiores da carne combatiam as suas mais elevadas aspirações espirituais. As palavras de Fausto têm um significado semelhante: 
 
-    "Duas almas, oh! moram dentro do meu peito,   
-    E aí lutam por um indivisível reino;   
-    Uma aspira pela terra, com vontade apaixonada   
-    Às íntimas entranhas ainda está ligada.   
-    Acima das névoas, a outro aspira, de certeza,   
-    Com ardor sagrado por esferas onde reine a pureza".   
+```
+"Duas almas, oh! moram dentro do meu peito,   
+E aí lutam por um indivisível reino;   
+Uma aspira pela terra, com vontade apaixonada   
+Às íntimas entranhas ainda está ligada.   
+Acima das névoas, a outro aspira, de certeza,   
+Com ardor sagrado por esferas onde reine a pureza".   
+```
 
 Mas ele não percebe que o caminho para obter a realização desejada é árduo e que cada um deve trilhá-lo sozinho para alcançar a paz. Julga que os Espíritos podem dar-lhe o poder da alma, pronto para ser usado: 
 
-    "Oh! Há Espíritos no ar,   
-    Que flutuam entre o céu e a terra em domínio atuando?   
-    Inclinai-vos de vossa atmosfera dourada e levai-me   
-    Para cenários, nova vida e em plena rendição ireis me guiando.   
-    Se eu Possuísse um manto mágico, simplesmente,   
-    Para transportar-me como que em invisíveis asas, largamente,   
-    Muito mais do que custosas vestes eu o prezaria,   
-    E nem por um manto real o trocaria".   
+```
+"Oh! Há Espíritos no ar,   
+Que flutuam entre o céu e a terra em domínio atuando?   
+Inclinai-vos de vossa atmosfera dourada e levai-me   
+Para cenários, nova vida e em plena rendição ireis me guiando.   
+Se eu Possuísse um manto mágico, simplesmente,   
+Para transportar-me como que em invisíveis asas, largamente,   
+Muito mais do que custosas vestes eu o prezaria,   
+E nem por um manto real o trocaria".   
+```
 
 Por esperar assim a ajuda dos outros, está condenado à desilusão. Se és Cristo, ajuda-te a ti mesmo", é a regra universal, e a autoconfiança é a virtude fundamental a qual os aspirantes são exortados a cultivar na Escola de Mistérios Ocidental. Ninguém deve apoiar-se nos Mestres ou seguir cegamente os Guias. Os Irmãos da Rosacruz procuram emancipar as almas que a eles recorrem; dispõem-se a orientá-las, fortalecê-las e torná-las co- participantes diretas nesse trabalho. Filantropos não aparecem facilmente e quem pretender do Mestre mais do que uma orientação, terá uma decepção. Não importa as pretensões que alguns mestres possam ter, não importa se eles vêm fisicamente ou como Espíritos, não importa quão espirituais pareçam, os Mestres positivamente não podem fazer por nós as boas ações necessárias para o crescimento anímico, nem dar-nos o conseqüente poder da alma pronto para ser usado, do mesmo modo que não podem conferir-nos força física ingerindo nosso alimento. Na verdade, Fausto, a alma que procura, atrai um Espírito pronto para servi-lo, mas é um Espírito de natureza indesejável: Lúcifer. Quando Fausto pergunta seu nome, ele responde: 
 
-    "O Espírito de Negação: a força que mesmo o mal planejando,   
-    Para o bem está trabalhando".   
+```
+"O Espírito de Negação: a força que mesmo o mal planejando,   
+Para o bem está trabalhando".   
+```
 
 Pessoas ou Espíritos que se dispõem a satisfazer nossos desejos, geralmente têm um fim em vista. 
 
@@ -292,15 +325,22 @@ Atraído pela atitude mental de Fausto, Lúcifer segue-o em seu gabinete. No ch�
 
 O mago negro, que não tem alma nem poder de alma, também usa a força do sexo. Ele deixa e entra em seu corpo pelos pés, o cordão prateado projetando-se do órgão sexual. Portanto, o pentagrama com duas pontas para cima é o símbolo da magia negra. Lúcifer não teve dificuldade para entrar no gabinete de Fausto, mas, quando ele quer sair depois de dialogar com seu interlocutor, uma única ponta barra seu caminho. Ele pede a Fausto para remover o símbolo e este pergunta: 
 
-    Fausto: "O Pentagrama tua Paz perturba,   
-    Explica-me, filho do inferno,   
-    Se ele tua saída impede, como pudeste entrar?   
-    Onde está a armadilha,   
-    Por que pela janela não te podes retirar?"   
-    Lúcifer: "Para os fantasmas e espíritos é uma lei   
-    Por onde entrarmos, por aí sair devemos.   
-    Somos livres para a primeira entrada escolher,   
-    Mas da segunda, escravos vamos ser".   
+```
+Fausto: 
+
+"O Pentagrama tua Paz perturba,   
+Explica-me, filho do inferno,   
+Se ele tua saída impede, como pudeste entrar?   
+Onde está a armadilha,   
+Por que pela janela não te podes retirar?" 
+
+Lúcifer: 
+
+"Para os fantasmas e espíritos é uma lei   
+Por onde entrarmos, por aí sair devemos.   
+Somos livres para a primeira entrada escolher,   
+Mas da segunda, escravos vamos ser".   
+```
 
 Até o ano 33 D.C., Jeová guiou nosso planeta em sua órbita e a humanidade no caminho da evolução, de fora. No Gólgota, Cristo entrou na Terra, que Ele agora guia de dentro, e continuará até que um número suficiente de nossa humanidade tenha desenvolvido a força de alma necessária para pairar na Terra e guiar nossos irmãos mais jovens. Isto requer habilidade para viver em corpos vitais, capazes de levitação. O corpo vital de Jesus, através do qual Cristo entrou na Terra, é Seu único meio de retornar ao Sol. Portanto, o Segundo Advento será no corpo vital de Jesus. 
 
@@ -320,10 +360,12 @@ No entanto, Fausto procura primeiro comunicar-se com o macrocosmo, que é o Pai.
 
 Mas, como foi dito antes, está totalmente despreparado para manter o domínio com êxito, e o poder do espírito rapidamente desobstrui o caminho e liberta Lúcifer. Mas este, embora saia do gabinete de Fausto, logo volta, pronto para negociar com a alma que procura. Ele descreve, diante dos olhos de Fausto, quadros brilhantes de como viver a vida, como poderá satisfazer suas paixões e desejos. Fausto, sabendo que Lúcifer não está desinteressado, pergunta que compensação ele quer. A isto, Lúcifer responde: 
 
-    " Eu me comprometo a ser teu servo aqui, enfim,   
-    E a todo o teu aceno e chamado, alerta vou estar;   
-    Mas, quando na esfera além nos formos encontrar,   
-    Então, tu farás o mesmo para mim".   
+```
+" Eu me comprometo a ser teu servo aqui, enfim,   
+E a todo o teu aceno e chamado, alerta vou estar;   
+Mas, quando na esfera além nos formos encontrar,   
+Então, tu farás o mesmo para mim".   
+```
 
 O próprio Fausto acrescentou uma condição aparentemente singular com respeito à época em que o serviço de Lúcifer terminar, e quando sua própria vida terrestre tiver chegado ao fim. 
 
@@ -331,20 +373,22 @@ Embora pareça estranho, nós temos na aquiescência de Lúcifer e na cláusula 
 
 Além disso, somos todos "construtores do templo" trabalhando sob a direção de Deus e Seus ministros, as divinas Hierarquias. Se evitarmos a tarefa que nos foi imposta na vida, seremos colocados sob condições que nos forçarão a aprender. Não há descanso nem paz no caminho da evolução e se procurarmos prazer e alegria a ponto de excluir o trabalho da vida, o dobrar fúnebre dos sinos logo será ouvido. Se chegarmos, alguma vez, a um ponto em que estejamos inclinados a ordenar que as horas parem ou se estamos tão satisfeitos com a nossa vida que até cessamos nossos esforços para progredir, nossa existência estará rapidamente terminada. Observamos que as pessoas que se retiram dos negócios vivendo apenas para aproveitar o que acumularam, logo morrem; enquanto que o homem que troca sua profissão por uma outra ocupação, geralmente vive mais tempo. Nada é tão fácil para encerrar uma existência do que a inatividade. Como já foi dito, as Leis da Natureza são enunciadas no acordo de Lúcifer e na condição acrescentada por Fausto: 
 
-    "Se eu me satisfizer com a indolência e o lazer,   
-    Que seja essa, então, a última hora que eu possa ter.   
-    Quando tu com lisonjas me fores adular   
-    Até que auto-complacente eu venha a ser;   
-    Quando tu com prazeres me puderes enganar,   
-    Seja esse o meu dia final.   
-    Sempre que a hora for passando   
-    Eu digo: 'Oh! fica, és tão leal!'   
-    Assim, a força a ti eu vou dando   
-    De levar-me ao mais profundo desespero.   
-    Meu dobrar de sinos não o deixes prolongar,   
-    De meu serviço, livre irás ficar;   
-    E quando do relógio o ponteiro indicador tiver caído,   
-    Esteja, então, o meu tempo concluído".   
+```
+"Se eu me satisfizer com a indolência e o lazer,   
+Que seja essa, então, a última hora que eu possa ter.   
+Quando tu com lisonjas me fores adular   
+Até que auto-complacente eu venha a ser;   
+Quando tu com prazeres me puderes enganar,   
+Seja esse o meu dia final.   
+Sempre que a hora for passando   
+Eu digo: 'Oh! fica, és tão leal!'   
+Assim, a força a ti eu vou dando   
+De levar-me ao mais profundo desespero.   
+Meu dobrar de sinos não o deixes prolongar,   
+De meu serviço, livre irás ficar;   
+E quando do relógio o ponteiro indicador tiver caído,   
+Esteja, então, o meu tempo concluído".   
+```
 
 Lúcifer pede a Fausto que assine o contrato com uma gota de sangue. E quando perguntado por que, diz astuciosamente: "O sangue é uma essência muitíssimo peculiar". A Bíblia diz que é assento da alma. 
 
@@ -362,43 +406,51 @@ Fausto tenciona adquirir poder rapidamente com o auxílio de outros, tocando num
 
 Por estar aborrecido, Fausto responde com desdém à exigência de Lúcifer de assinar com sangue o pacto entre eles e, então, profere as seguintes palavras: 
 
-    "Não temas que faltar à minha palavra eu vá.   
-    O propósito de toda a minha energia   
-    Em inteira concordância com meu juramento está.   
-    Levianamente, muito alto tenho aspirado;   
-    Estou no mesmo nível que tu;   
-    Eu, o Grande Espírito escarnecido; desafiado.   
-    A própria Natureza se escondeu de mim.   
-    Rasgada está a teia do pensamento; minha mente   
-    Abomina toda a classe de conhecimento.   
-    Nas profundezas. de prazeres sensuais mergulhadas   
-    Deixemos ficar nossas paixões incendiadas,   
-    Envoltas nos abismos de mágicos véus formosos,   
-    E que nossos sentidos vibrem em encantos assombrosos".   
+```
+"Não temas que faltar à minha palavra eu vá.   
+O propósito de toda a minha energia   
+Em inteira concordância com meu juramento está.   
+Levianamente, muito alto tenho aspirado;   
+Estou no mesmo nível que tu;   
+Eu, o Grande Espírito escarnecido; desafiado.   
+A própria Natureza se escondeu de mim.   
+Rasgada está a teia do pensamento; minha mente   
+Abomina toda a classe de conhecimento.   
+Nas profundezas. de prazeres sensuais mergulhadas   
+Deixemos ficar nossas paixões incendiadas,   
+Envoltas nos abismos de mágicos véus formosos,   
+E que nossos sentidos vibrem em encantos assombrosos".   
+```
 
 Tendo sido desdenhado pelas forças que conduzem ao bem e estando completamente dominado pelo desejo de obter conhecimento direto e de verdadeiro poder, está disposto a ir até as últimas conseqüências. Mas Deus está sempre presente, como foi dito no prólogo: 
 
-    "Um homem bom em sua mais escura aberração,   
-    Conhece ainda o caminho que o conduz à salvação".   
+```
+"Um homem bom em sua mais escura aberração,   
+Conhece ainda o caminho que o conduz à salvação".   
+```
 
 Fausto é a alma aspirante, e a alma não pode ser permanentemente desviada do caminho da evolução. 
 
 A declaração de Fausto sobre seu objetivo corrobora,a afirmação de que ele tem um ideal elevado, mesmo quando chafurda na lama. Ele quer experiência: 
 
-    "O fim que eu aspiro não é o prazer.   
-    Agonizante bem-aventurança - eu anseio por realização.   
-    Ódio enamorado, rápido aborrecimento.   
-    Purgado do amor do saber, minha vocação.   
-    De hoje em diante, o objetivo de todos os meus poderes vai ser   
-    Livrar meu peito de toda angústia, conhecer   
-    Todo o infortúnio e o bem estar humanos no âmago do meu coração.   
-    O sublime e o profundo em pensamento abraçar,   
-    Os vários destinos do homem em meu peito acumular".   
+```
+"O fim que eu aspiro não é o prazer.   
+Agonizante bem-aventurança - eu anseio por realização.   
+Ódio enamorado, rápido aborrecimento.   
+Purgado do amor do saber, minha vocação.   
+De hoje em diante, o objetivo de todos os meus poderes vai ser   
+Livrar meu peito de toda angústia, conhecer   
+Todo o infortúnio e o bem estar humanos no âmago do meu coração.   
+O sublime e o profundo em pensamento abraçar,   
+Os vários destinos do homem em meu peito acumular".   
+```
 
 Antes que alguém possa ser realmente compassivo, deve sentir, como Fausto também o deseja, tanto a profundidade das tristezas da alma humana como suas elevadas alegrias; pois, somente quando conhecemos estes extremos dos sentimentos humanos podemos sentir a compaixão necessária por aqueles que precisam ser ajudados, e assim colaborar na elevação da humanidade. Através de Lúcifer, Fausto é capaz de conhecer tanto a alegria como a tristeza. Lúcifer também admite isto quando diz: 
 
-    "A força que mesmo o mal planejando   
-    Para o bem está trabalhando".   
+```
+"A força que mesmo o mal planejando   
+Para o bem está trabalhando".   
+```
 
 Pela interferência dos Espíritos de Lúcifer no esquema da evolução, as paixões da humanidade foram despertadas, intensificadas e conduzidas para um canal que tem causado todas as tristezas e enfermidades no mundo. Não obstante, isso despertou a individualidade no homem e libertou-o das condições liderantes dos Anjos. Fausto, pela ajuda de Lúcifer, é afastado dos caminhos convencionais, tornando-se assim individualizado. Quando o pacto entre Fausto e Lúcifer foi concluído, tivemos a réplica dos Filhos de Caim, que são os descendentes e protegidos dos Espíritos de Lúcifer, como vimos em "Maçonaria e Catolicismo". 
 
@@ -412,10 +464,12 @@ Houve uma época em que toda a humanidade passou pelo ponto onde os cientistas a
 
 Alguma vez, a alma aspirante deve entrar na cozinha das bruxas como o fez Fausto, e encarar o objetivo da lição que nos leva a considerar a conseqüência do mal, representada pelo macaco. A alma tem, então, permissão para encontrar-se com Margarida no jardim, para tentar e ser tentada, para escolher entre a pureza e a paixão, para cair como Fausto, ou permanecer firmemente na pureza, como fez Parsifal. Sob a Lei da Compensação receberá sua recompensa pelas ações praticadas no corpo. De fato, a sorte é irmã gêmea do merecimento, como Lúcifer mostra a Fausto, e a verdadeira sabedoria só se conquista com paciente perseverança na prática do bem. 
 
-    "Quão ligada está a sorte ao merecimento,   
-    Isso ao tolo jamais ocorreria.   
-    Eu juro, tivesse ele a pedra do homem sábio,   
-    A pedra do filósofo não seria".   
+```
+"Quão ligada está a sorte ao merecimento,   
+Isso ao tolo jamais ocorreria.   
+Eu juro, tivesse ele a pedra do homem sábio,   
+A pedra do filósofo não seria".   
+```
 
 Fiel a seu propósito de estudar a vida em vez de livros, Fausto pede a Lúcifer que consiga introduzi-lo na casa da Margarida. Tenta conquistar a afeição dela com um principesco presente de jóias, que Lúcifer introduziu às escondidas em seu armário. O irmão de Margarida está ausente, lutando por sua pátria. Sua mãe não é capaz de decidir o que fazer com o presente, e o leva ao seu guia espiritual na igreja. Este aprecia mais o brilho das gemas do que as preciosas almas a ele confiadas. Negligencia seu dever à vista de um colar de pérolas, mais ansioso em garantir as jóias para o adorno de um ídolo, do que defender uma filha da igreja contra o perigo moral que a cerca. Assim, Lúcifer vence e rapidamente recebe uma recompensa de sangue e, em seguida, de almas humanas. Para conseguir acesso aos aposentos de Margarida, Fausto a persuade a dar à sua mãe uma poção para dormir, o que causa a esta, a morte. Valentino, o irmão de Margarida, é morto por Fausto. Margarida é encarcerada e sentenciada a sofrer pena capital. 
 
@@ -423,10 +477,12 @@ Quando uma semente adere à polpa de uma fruta ainda verde, é doloroso retirá-
 
 Foi com verdadeira compreensão deste fato que Goethe escreveu: 
 
-    "Quem nunca comeu seu pão em amargo afã,   
-    Quem nunca, acordado, a meia-noite viu passar,   
-    Chorando, esperando pelo amanhã,   
-    Os Poderes celestiais não sabe ainda avaliar".   
+```
+"Quem nunca comeu seu pão em amargo afã,   
+Quem nunca, acordado, a meia-noite viu passar,   
+Chorando, esperando pelo amanhã,   
+Os Poderes celestiais não sabe ainda avaliar".   
+```
 
 ### <h3 id="chapter-6">Capítulo VI: O Preço do Pecado e os Caminhos da Salvação</h3>
 
@@ -446,43 +502,46 @@ Na segunda parte de Fausto, encontramos o herói com o espírito alquebrado pela
 
 Fausto, contudo, não satisfeito em servir outros sob as condições existentes, invoca as forças diabólicas sob seu comando para criar uma região, emergi-la do mar e fazer uma Nova Terra. Ele sonha uma utopia, pretendendo que este lugar livre seja o lar de um povo livre que a habitará em paz e alegria, vivendo à altura dos mais elevados ideais da vida. 
 
-Estes ideais são originados em sua alma pelo amor de uma personagem chamada Helena, um amor da mais sublime e espiritual natureza, inteiramente separado do pensamento de sexo e paixão. Com o decorrer do tempo, ele vê esta terra elevar-se do mar, mas seus olhos estão ficando cegos, pois está substituindo sua contemplação de uma condição terrestre para uma celestial. Enquanto fica assim contemplando as forças dirigidas por Lúcifer, labutando em seu comando dia e noite, Fausto compreende que tornou real a predição de Lúcifer para ser: 
-
-    "A força que mesmo o mal planejando,   
-    Para o bem está trabalhando".   
+Estes ideais são originados em sua alma pelo amor de uma personagem chamada Helena, um amor da mais sublime e espiritual natureza, inteiramente separado do pensamento de sexo e paixão. Com o decorrer do tempo, ele vê esta terra elevar-se do mar, mas seus olhos estão ficando cegos, pois está substituindo sua contemplação de uma condição terrestre para uma celestial. Enquanto fica assim contemplando as forças dirigidas por Lúcifer, labutando em seu comando dia e noite, Fausto compreende que tornou real a predição de Lúcifer para ser: "A força que mesmo o mal planejando, Para o bem está trabalhando".   
 
 Ele percebe que seu trabalho com as forças inferiores está chegando ao término e que sua visão está diminuindo. Mas, com o desejo veemente que se apodera da sua alma para ver o fruto de suas obras, ele quer reter a visão até que tudo esteja completado e seu sonho utópico convertido em realidade. Porém, como a visão que tem diante de si - a terra surgindo do mar e o feliz povo que nela vive em fraternidade - se desvanece sob seus olhos quase cegos, ele profere as palavras fatídicas que disse quando de seu pacto como Lúcifer: 
 
-    "Sempre que a hora for passando Eu digo: 'Oh! fica! és tão leal',   
-    Assim, a força a ti eu vou dando   
-    De levar-me ao mais profundo desespero.   
-    Meu dobrar de sinos não o deixes prolongar,   
-    De meu serviço, livre irás ficar;   
-    E quando do relógio o ponteiro indicador tiver caído,   
-    Esteja, então, o meu tempo concluído".   
+```
+"Sempre que a hora for passando Eu digo: 'Oh! fica! és tão leal',   
+Assim, a força a ti eu vou dando   
+De levar-me ao mais profundo desespero.   
+Meu dobrar de sinos não o deixes prolongar,   
+De meu serviço, livre irás ficar;   
+E quando do relógio o ponteiro indicador tiver caído,   
+Esteja, então, o meu tempo concluído".   
+```
 
 Pelos termos desse pacto, quando Fausto proferiu as palavras fatídicas, as forças do inferno soltaram-se da escravidão e foram para ele que, por sua vez, tornou-se vítima delas. Pelo menos assim parecia ser. Mas Fausto não desejou deter a marcha do tempo com o objetivo de desfrutar os prazeres sensuais, nem de satisfazer desejos egoístas, como foi projetado no pacto. Para a realização de um ideal altruístico e nobre, ele desejou deter a hora que passava. Por conseguinte, está realmente livre de Lúcifer, e uma batalha entre as forças angélicas e as hostes lucíferas termina finalmente com o triunfo das primeiras, que conduzem a alma que procura para o porto do descanso no reino de Cristo, enquanto proferem as seguintes palavras: 
 
-    "A nobre alma está salva do mal,   
-    Nosso espírito ressurge. Todo aquele   
-    Que se esforça para adiante, com desejo de mudar,   
-    Nós podemos libertá-lo.   
-    E, se nele, o amor celestial tomou lugar,   
-    Para encontrá-lo desçam os anjos do céu   
-    Com afeto cordial, eles o vão saudar".   
+```
+"A nobre alma está salva do mal,   
+Nosso espírito ressurge. Todo aquele   
+Que se esforça para adiante, com desejo de mudar,   
+Nós podemos libertá-lo.   
+E, se nele, o amor celestial tomou lugar,   
+Para encontrá-lo desçam os anjos do céu   
+Com afeto cordial, eles o vão saudar".   
+```
 
 Assim, o Fausto do mito é uma personalidade inteiramente diferente do Fausto do palco; e o drama que começa no céu, onde foi dada permissão a Lúcifer para tentá-lo, como Job foi tentado na antiguidade, também acaba no céu quando a tentação foi vencida e a alma voltou para seu Pai. 
 
 Goethe, o grande místico, finaliza apropriadamente sua versão com o mais místico de todos os versos encontrados em qualquer literatura: 
 
-    "Tudo que é perecível,   
-    É somente uma ilusão.   
-    O inatingível,   
-    É aqui consumação.   
-    O indescritível,   
-    Aqui ele é ação.   
-    O Eterno Feminino,   
-    É para nós uma atração".   
+```
+"Tudo que é perecível,   
+É somente uma ilusão.   
+O inatingível,   
+É aqui consumação.   
+O indescritível,   
+Aqui ele é ação.   
+O Eterno Feminino,   
+É para nós uma atração".   
+```
 
 Esta estrofe confunde todos os que não são capazes de penetrar nos reinos onde ela é cantada, isto é, no céu. 
 
@@ -510,11 +569,7 @@ Somente quando nos encontramos atrás dos bastidores do visível e compreendemos
 
 Enquanto o homem vive uma vida exterior no mundo da forma, uma vida de forma entre outras formas, também vive uma vida interior, que é muito mais importante para ele. Uma vida onde seus sentimentos, pensamentos e emoções criam diante de sua "visão interna" quadros e cenas em contínua mudança. Quanto mais intensa for esta vida interior, menos necessidade terá o homem de procurar companhia fora de si mesmo, pois ele é seu melhor companheiro, independente de entretenimento exterior, tão ansiosamente procurado por aqueles cuja vida interior é árida, que conhecem legiões de outras pessoas, mas sentem-se estranhas a elas, receosas de sua própria companhia. 
 
-Se analisarmos esta vida interior veremos que ela é dupla: 
-
-1. A vida da Alma, que lida com os sentimentos e emoções. 
-
-2. A atividade do Ego, que dirige todas as ações pelo pensamento. 
+Se analisarmos esta vida interior veremos que ela é dupla: (1) A vida da Alma, que lida com os sentimentos e emoções. (2) A atividade do Ego, que dirige todas as ações pelo pensamento. 
 
 Assim como o mundo material é a base de suprimento de onde os materiais para nosso corpo denso são extraídos (e que é preeminentemente o mundo da forma), existe também um mundo da alma, chamado Mundo do Desejo entre os Rosacruzes, que é a base de onde as vestes sutis do Ego, que chamamos a alma, foram tiradas, e este é, particularmente, o mundo da cor. O ainda mais sutil Mundo do Pensamento é o lar do Espírito Humano, o Ego, e o reino do som. Portanto, das três artes, a música exerce o maior poder sobre o homem. Nesta vida terrestre nós estamos exilados de nosso lar celestial e, freqüentemente, esquecemos nossa herança Divina quando envolvidos em atividades materiais, mas, então, ouvimos música e sentimos o fragrante odor carregado de memórias inexprimíveis. Como um eco vindo do lar, ela faz-nos lembrar aquela terra esquecida, onde tudo é alegria e Paz e, mesmo que possamos olvidar tais idéias em nossa mente material, o Ego conhece cada nota abençoada como uma mensagem vinda da terra natal, e alegra-se com isso. 
 
@@ -534,12 +589,14 @@ Amanhece e vemos Gurnemanz, o mais velho dos Cavaleiros do Graal, com dois joven
 
 No primeiro ato, ela está vestida com um manto de pele de serpente, símbolo da doutrina do renascimento, Pois, assim como a serpente troca sua própria pele expelindo camada por camada, assim também o Ego em sua peregrinação evolucionária emana de si próprio um corpo após outro, expelindo cada veículo como a serpente expele sua pele quando esta se torna dura, rígida e cristalizada, perdendo assim sua eficiência. Esta idéia também se insere nos ensinamentos da Lei de Conseqüência, que devolve-nos, como colheita, tudo o que semeamos, e isto está explícito na resposta de Gurnemanz ao jovem escudeiro pela confissão da falta de confiança em Kundry: 
 
-    "Sob uma maldição ela bem pode estar   
-    De alguma vida passada que não vemos,   
-    Procurando do pecado o grilhão soltar,   
-    Por ações pelas quais melhor passemos.   
-    Certamente este bem, assim ela o está seguindo,   
-    Ajudando-se à si mesma, enquanto à nós servindo".   
+```
+"Sob uma maldição ela bem pode estar   
+De alguma vida passada que não vemos,   
+Procurando do pecado o grilhão soltar,   
+Por ações pelas quais melhor passemos.   
+Certamente este bem, assim ela o está seguindo,   
+Ajudando-se à si mesma, enquanto à nós servindo".   
+```
 
 Quando Kundry entra em cena, retira do seio um frasco que diz ter trazido da Arábia, esperando que seja um bálsamo para o ferimento que Amfortas, o Rei do Graal, tem num lado do corpo e que lhe causa sofrimentos indizíveis e não cicatriza. O rei sofredor é então carregado para o palco e deitado num sofá. Está a caminho de seu banho diário, no lago próximo, onde dois cisnes nadam e transformam a água numa loção curativa que alivia seus terríveis sofrimentos. Amfortas agradece a Kundry, mas acredita que não há alívio para ele até que venha o libertador profetizado pelo Graal: "Um simplório puro, iluminado pela piedade". Mas Amfortas pensa que a morte virá antes da libertação. 
 
@@ -559,24 +616,30 @@ Ouvem-se gritos: "O cisne! Oh, o cisne!" e um cisne cruza o palco em grande agit
 
 Em todas as religiões, o espírito vivificante tem sido simbolicamente representado por uma ave. No Batismo, quando o corpo de Jesus estava na água, o Espírito de Cristo desceu sobre ele na forma de uma pomba. "O Espírito move-se sobre as águas", um meio fluídico, como os cisnes se movem no lago debaixo do Yggdrasil, a árvore da vida da mitologia nórdica, ou sobre as águas do lago na lenda do Graal. A ave é, portanto, a representação direta da mais alta influência espiritual e, com razão, os cavaleiros entristeceram-se com a perda. A verdade tem muitas facetas. Há pelo menos sete interpretações válidas para cada mito, uma para cada mundo. Encarada pelo lado material e literal, a compaixão gerada em Parsifal e o ato de quebrar seu arco, marcam um passo definido para a vida mais elevada. Ninguém pode ser verdadeiramente compassivo e almejar a evolução, enquanto matar para comer, seja de forma pessoal ou indireta. A vida inofensiva é um requisito absoluto e essencial para a vida prestativa. 
 
-Gurnemanz começa a questioná-lo: quer saber quem é ele e como chegou ao Monte Salvat. Parsifal demonstra a mais surpreendente ignorância. A todas as perguntas, responde: "Eu não sei". Por fim, Kundry diz em voz alta: "Eu posso dizer-vos quem ele é. Seu pai era o nobre Gamuret, um príncipe entre os homens, que morreu combatendo na Arábia enquanto este jovem estava ainda no ventre de sua mãe, Lady Herzleide. Em seu último suspiro, seu pai chamou-o Parsifal, o simplório puro. Sua mãe temendo que ele pudesse crescer, aprender as artes da guerra e ser afastado dela, criou-o numa densa floresta na ignorância de armas e guerras". Aqui Parsifal interrompe e diz: "Sim, um dia eu vi alguns homens montados em belos animais e quis ser igual a eles, por isso segui-os por muitos dias até que cheguei aqui e tive que lutar com muitos monstros semelhantes aos homens". 
+Gurnemanz começa a questioná-lo: quer saber quem é ele e como chegou ao Monte Salvat. Parsifal demonstra a mais surpreendente ignorância. A todas as perguntas, responde: "Eu não sei". Por fim, Kundry diz em voz alta: "Eu posso dizer-vos quem ele é. Seu pai era o nobre Gamuret, um príncipe entre os homens, que morreu combatendo na Arábia enquanto este jovem estava ainda no ventre de sua mãe, Lady Herzleide. Em seu último suspiro, seu pai chamou-o Parsifal, o simplório puro. Sua mãe temendo que ele pudesse crescer, aprender as artes da guerra e ser afastado dela, criou-o numa densa floresta na ignorância de armas e guerras". 
+
+Aqui Parsifal interrompe e diz: "Sim, um dia eu vi alguns homens montados em belos animais e quis ser igual a eles, por isso segui-os por muitos dias até que cheguei aqui e tive que lutar com muitos monstros semelhantes aos homens". 
 
 Nesta história temos um excelente quadro da alma à procura das realidades da vida. Gamuret e Parsifal são fases diferentes da vida da alma. Gamuret é o homem do mundo que se casou com Herzleide, que representa um coração aflito. Conhece o infortúnio e morre para o mundo, como todos nós fazemos quando ingressamos numa vida superior. Enquanto a barca da vida flutua nos mares do verão e nossa existência parece uma bela e doce melodia, não há incentivo para voltarmo-nos para a vida superior; cada fibra em nosso corpo grita "Isto é suficientemente bom para mim". Mas, quando os vagalhões da adversidade elevam-se à nossa volta e cada nova onda ameaça tragar-nos, então, unidos às aflições do coração, tornamo-nos homens sofredores e estamos prontos para nascer como Parsifal, o simplório ou a alma pura que esqueceu a sabedoria do mundo e está à procura da vida superior. Enquanto o homem procurar acumular dinheiro ou aproveitar a vida, como tão equivocadamente se diz, ele torna-se sábio pela sabedoria do mundo; mas, quando passa a encarar as coisas do Espírito, torna-se um simplório aos olhos do mundo. Esquece tudo sobre sua vida passada e deixa para trás suas tristezas, como Parsifal deixou Herzleide, que morreu quando Parsifal não voltou para ela. Assim, a tristeza morre quando dá nascimento à alma aspirante que foge do mundo. O homem pode estar no mundo para cumprir seu dever, mas não ser do mundo. 
 
 Gurnemanz está imbuído com a idéia de que Parsifal vai ser o libertador de Amfortas e o leva ao Castelo do Graal. E, à pergunta de Parsifal: "O que é o Graal?" ele responde: 
 
-    "Não podemos dizê-lo; mas se por Ele tu foste enviado.   
-    De ti a verdade não ficará escondida.   
-    Julgo que tua face me é conhecida.   
-    Nenhum caminho conduz ao Seu Reino,   
-    E a procura d'Ele mais distante te vai levar,   
-    Se não for Ele próprio a te guiar".   
+```
+"Não podemos dizê-lo; mas se por Ele tu foste enviado.   
+De ti a verdade não ficará escondida.   
+Julgo que tua face me é conhecida.   
+Nenhum caminho conduz ao Seu Reino,   
+E a procura d'Ele mais distante te vai levar,   
+Se não for Ele próprio a te guiar".   
+```
 
 Aqui vemos Wagner levando-nos de volta aos tempos anteriores ao Cristianismo. Antes do advento de Cristo, a Iniciação não estava liberada para "quem quisesse" procurá-la, mas era reservada para alguns escolhidos, como os Brâmanes e os Levitas, aos quais foram dados privilégios especiais como recompensa por terem sido dedicados ao serviço do templo. Contudo, a vinda de Cristo estabeleceu certas mudanças definidas na constituição da humanidade, de modo que agora todos podem entrar no caminho da Iniciação. De fato, tinha que ser assim, quando os casamentos entre as várias nacionalidades dissolveram as castas. 
 
 No Castelo do Graal, Amfortas está sendo pressionado de todos os lados para oficiar o rito sagrado do Graal, para descobrir o cálice sagrado à cuja visão possa ser renovado o ardor dos cavaleiros impulsionando-os a atos de serviço espiritual. Mas, ele se esquiva, com medo da dor que a visão lhe irá causar. O ferimento sempre volta a sangrar à vista do Graal, como a dor do remorso aflige a todos nós quando pecamos contra o nosso ideal. Finalmente, ele cede aos rogos conjuntos de seu pai e dos cavaleiros. Celebra o rito sagrado, embora durante todo o tempo sofra a mais torturante agonia. Parsifal, que está a um canto, sente, por compaixão, a mesma dor, sem compreender a razão. Depois da cerimônia, Gurnemanz pergunta-lhe ansiosamente o que ele viu, mas ele permanece mudo e, por ter ficado desapontado, o velho cavaleiro irado expulsa-o do castelo. 
 
-As emoções e os sentimentos não controlados pelo conhecimento são fontes férteis de tentação. A própria inocência e a sinceridade da alma que aspira, freqüentemente tornam-se uma presa fácil do pecado. Para o crescimento da alma é necessário que surjam essas tentações, a fim de revelar nossos pontos fracos. Se caímos, sofremos como Amfortas sofreu. Mas a dor desenvolve a consciência e traz aversão ao pecado, tornando-nos fortes contra a tentação. Toda criança é inocente porque não foi tentada. Porém, só quando tivermos sido tentados e permanecermos puros, ou quando após a queda arrependermo-nos e corrigimo-nos, é que somos virtuosos. Conseqüentemente, Parsifal deve ser tentado. No segundo ato, vemos Klingsor no momento de invocar Kundry, pois percebeu que Parsifal vem em direção ao seu castelo, e ele o teme mais do que a qualquer outro que tenha vindo antes, porque ele é um simplório. Um homem prudente, conhecedor do mundo, não é facilmente levado pelas tentações, mas a ingenuidade de Parsifal o protege. E, quando as meninas flores agrupam-se em torno dele, ele inocentemente pergunta: "Vocês são flores? Vocês cheiram tão bem!" Contra ele é necessária a astúcia refinada de Kundry e, embora ela implore, proteste e se rebele, é forçada a tentar Parsifal. Para isso apresenta-se como uma mulher de grande beleza, chamando Parsifal pelo nome. Esse nome desperta- lhe lembranças de sua infância, do amor de sua mãe. Kundry chama-o para perto de si e começa a trabalhar sutilmente sobre seus sentimentos, fazendo voltar à sua memória visões do amor de sua mãe e da tristeza que ela sentiu com sua partida, o que pôs termo à sua vida. Depois, fala-lhe sobre um outro amor. o que pode compensá-lo , o amor do homem pela mulher, e, por fim, dá- lhe um longo, ardoroso e apaixonado beijo. 
+As emoções e os sentimentos não controlados pelo conhecimento são fontes férteis de tentação. A própria inocência e a sinceridade da alma que aspira, freqüentemente tornam-se uma presa fácil do pecado. Para o crescimento da alma é necessário que surjam essas tentações, a fim de revelar nossos pontos fracos. Se caímos, sofremos como Amfortas sofreu. Mas a dor desenvolve a consciência e traz aversão ao pecado, tornando-nos fortes contra a tentação. Toda criança é inocente porque não foi tentada. Porém, só quando tivermos sido tentados e permanecermos puros, ou quando após a queda arrependermo-nos e corrigimo-nos, é que somos virtuosos. Conseqüentemente, Parsifal deve ser tentado. 
+
+No segundo ato, vemos Klingsor no momento de invocar Kundry, pois percebeu que Parsifal vem em direção ao seu castelo, e ele o teme mais do que a qualquer outro que tenha vindo antes, porque ele é um simplório. Um homem prudente, conhecedor do mundo, não é facilmente levado pelas tentações, mas a ingenuidade de Parsifal o protege. E, quando as meninas flores agrupam-se em torno dele, ele inocentemente pergunta: "Vocês são flores? Vocês cheiram tão bem!" Contra ele é necessária a astúcia refinada de Kundry e, embora ela implore, proteste e se rebele, é forçada a tentar Parsifal. Para isso apresenta-se como uma mulher de grande beleza, chamando Parsifal pelo nome. Esse nome desperta- lhe lembranças de sua infância, do amor de sua mãe. Kundry chama-o para perto de si e começa a trabalhar sutilmente sobre seus sentimentos, fazendo voltar à sua memória visões do amor de sua mãe e da tristeza que ela sentiu com sua partida, o que pôs termo à sua vida. Depois, fala-lhe sobre um outro amor. o que pode compensá-lo , o amor do homem pela mulher, e, por fim, dá- lhe um longo, ardoroso e apaixonado beijo. 
 
 Segue-se um silêncio profundo e terrível, como se o destino de todo o mundo estivesse pendente desse beijo apaixonado. Enquanto ela o prende em seus braços, o rosto de Parsifal muda gradualmente e torna-se a estampa da dor. De repente, ele salta como se esse beijo tivesse causado em seu ser uma nova dor, as linhas de sua face pálida acentuam-se, e ambas as mãos apertam fortemente seu coração palpitante, como para reprimir uma terrível agonia - o cálice do Graal surge diante de sua visão. Depois, Amfortas aparece na mesma terrível agonia, e, por fim, ele grita: "Amfortas, oh. Amfortas! Agora eu sei - o ferimento da lança no teu lado - ele queima meu coração, ele queima minha própria alma ... Oh dor! Oh miséria! Angústia indescritível! A ferida está sangrando aqui no meu próprio lado!" 
 
@@ -594,28 +657,35 @@ Tinha feito a mesma pergunta na primeira visita de Parsifal e a resposta fora: "
 
 Parsifal e Gurnemanz entram no Castelo do Graal onde Amfortas está sendo instado para celebrar o rito sagrado, mas ele se recusa, pois quer salvar-se da dor que sempre o aflige quando vê o Santo Graal. Descobrindo seu peito, implora a seus seguidores que o matem Neste momento, Parsifal aproxima-se dele e toca seu ferimento com a lança, curando-o. Contudo, destrona Amfortas e assume a guarda do Santo Graal e da Lança Sagrada. Somente aqueles dotados do mais perfeito altruísmo, unido ao melhor discernimento, estão aptos a receber o poder espiritual simbolizado pela lança. Amfortas tê-la-ia usado para atacar e ferir um inimigo. Parsifal não a usaria nem para defender-se. Portanto, ele está apto a curar, enquanto Amfortas caiu na cova que havia aberto para Klingsor. 
 
-No último ato, Kundry, que representa a natureza inferior, diz apenas uma palavra: Serviço. Por seu trabalho perfeito ela ajuda Parsifal, o Espírito, a realizar-se. No primeiro ato, ela adormeceu quando Parsifal visitou o Graal. Nesse estágio, o Espírito não pode elevar-se aos céus, a não ser quando o corpo está adormecido ou morto. Mas, no último ato, Kundry, o corpo, também vai ao Castelo do Graal, que é dedicado ao Eu superior, e quando o Espírito, como Parsifal, alcançou a meta, ele conseguiu atingir o estágio de libertação mencionado na Revelação: "Aquele que vencer, Eu o converterei num pilar na casa de meu Deus, e dali não sairá mais". Esse alguém irá trabalhar para a humanidade desde os mundos superiores; não necessitará mais do corpo denso; estará além da Lei do Renascimento e, conseqüentemente, Kundry morre. Em seu lindo poema "The Chambered Nautilus", (O Náutilo Enclausurado), Oliver Wendell Holmes personificou esta idéia de progressão constante em veículos gradativamente melhorados, e a libertação final. O náutilo constrói sua concha espiralada dividida em compartimentos, deixando constantemente as menores - que tornaram-se pequenas pelo seu crescimento - pela última que construiu. 
+No último ato, Kundry, que representa a natureza inferior, diz apenas uma palavra: Serviço. Por seu trabalho perfeito ela ajuda Parsifal, o Espírito, a realizar-se. No primeiro ato, ela adormeceu quando Parsifal visitou o Graal. Nesse estágio, o Espírito não pode elevar-se aos céus, a não ser quando o corpo está adormecido ou morto. Mas, no último ato, Kundry, o corpo, também vai ao Castelo do Graal, que é dedicado ao Eu superior, e quando o Espírito, como Parsifal, alcançou a meta, ele conseguiu atingir o estágio de libertação mencionado na Revelação: "Aquele que vencer, Eu o converterei num pilar na casa de meu Deus, e dali não sairá mais". Esse alguém irá trabalhar para a humanidade desde os mundos superiores; não necessitará mais do corpo denso; estará além da Lei do Renascimento e, conseqüentemente, Kundry morre. 
 
-    "Ano após ano, sempre no silêncio   
-    prossegue na labuta de ampliar suas reluzentes espirais;   
-    e, à medida que elas crescem mais,   
-    deixa a morada do ano que passou e na nova vai habitar.   
-    Com suaves passadas deslizando através dos umbrais construídos     com vagar,   
-    acomoda-se outra vez em novo lar   
-    e não mais o anterior vai recordar.   
-    Pela mensagem celeste que me trazes, graças te dou, filho do     oceano,   
-    lançado do teu meio desolado!   
-    Dos teus lábios mortos nasce uma nota mais clara   
-    que quaisquer das que Tritão já tirou do seu corno espiralado!   
-    Enquanto em meus ouvidos ela soar,   
-    através das cavernas profundas do pensamento     ouço uma voz, a cantar:   
-    "Oh! Minh'alma, constrói Par ti mansões mais majestosas.   
-    enquanto as estações passam ligeiramente!   
-    Abandona o teu invólucro finalmente;   
-    Deixa cada novo templo, mais nobre que o anterior,   
-    com cúpula celeste com domo bem maior,   
-    e que te libertes decidida,   
-    largando tua concha superada nos agitados mares desta vida".   
+Em seu lindo poema "The Chambered Nautilus", (O Náutilo Enclausurado), Oliver Wendell Holmes personificou esta idéia de progressão constante em veículos gradativamente melhorados, e a libertação final. O náutilo constrói sua concha espiralada dividida em compartimentos, deixando constantemente as menores - que tornaram-se pequenas pelo seu crescimento - pela última que construiu. 
+
+```
+"Ano após ano, sempre no silêncio   
+prossegue na labuta de ampliar suas reluzentes espirais;   
+e, à medida que elas crescem mais,   
+deixa a morada do ano que passou e na nova vai habitar.   
+Com suaves passadas deslizando através dos umbrais 
+construídos com vagar,   
+acomoda-se outra vez em novo lar, e não mais o anterior vai recordar.   
+
+Pela mensagem celeste que me trazes, graças te dou, 
+filho do oceano,   
+lançado do teu meio desolado!   
+Dos teus lábios mortos nasce uma nota mais clara   
+que quaisquer das que Tritão já tirou do seu corno espiralado!   
+Enquanto em meus ouvidos ela soar,   
+através das cavernas profundas do pensamento ouço uma voz, a cantar:   
+
+"Oh! Minh'alma, constrói Par ti mansões mais majestosas.   
+enquanto as estações passam ligeiramente!   
+Abandona o teu invólucro finalmente;   
+Deixa cada novo templo, mais nobre que o anterior,   
+com cúpula celeste com domo bem maior,   
+e que te libertes decidida,   
+largando tua concha superada nos agitados mares desta vida".   
+```
 
 <h2 id="ring-of-the-niebelung">O Anel do Niebelungo</h2>
 
@@ -681,9 +751,7 @@ Mas, enquanto a maioria da humanidade está sendo orientada pelas religiões ort
 
 Assim, a maldição do Anel (egocentrismo e egoísmo) maculou até mesmo os deuses. Por causa do Anel (poder), Albérico, o Niebelungo, rejeitou o amor. Oprimiu seus irmãos e governou-os com disciplina férrea. A religião, por seu lado, renegou o amor vendendo Freya e enganando, aviltou-se para forçar os governantes do mundo a pagar tributo. Quando o Anel dos Niebelungos passou às mãos dos gigantes, o mau destino o acompanhou, pois um irmão mata o outro para ser o único possuidor das riquezas do mundo. 
 
-Os deuses, na verdade, resgataram Freya, mas ela não é mais a pura deusa do amor. Foi prostituída; portanto, ela é apenas a imagem do que foi, e não consegue satisfazer aqueles cuja intuição vêem além da aparência. 
-
-Na mitologia escandinava estes são chamados Walsungs. A primeira sílaba é derivada da palavra alemã wahlen, escolher, ou da escandinava vaelge. A última sílaba significa filhos. Eles são filhos do desejo por livre vontade e escolha, e querem escolher seu próprio caminho procurando seguir sua intuição divina. 
+Os deuses, na verdade, resgataram Freya, mas ela não é mais a pura deusa do amor. Foi prostituída; portanto, ela é apenas a imagem do que foi, e não consegue satisfazer aqueles cuja intuição vêem além da aparência. Na mitologia escandinava estes são chamados Walsungs. A primeira sílaba é derivada da palavra alemã wahlen, escolher, ou da escandinava vaelge. A última sílaba significa filhos. Eles são filhos do desejo por livre vontade e escolha, e querem escolher seu próprio caminho procurando seguir sua intuição divina. 
 
 ### <h3 id="chapter-10">Capítulo X: As Valquírias</h3>
 
@@ -715,7 +783,11 @@ Quando Siegmund e Sieglinda, fortificados com a espada mágica - a coragem do de
 
 A verdade está sempre ao lado de quem a procura e também em sua batalha contra os convencionalismos da igreja e costumes sociais. Mas, quando o poder da religião, que forneceu a coragem do desespero necessária para defender suas convicções, contrapõe- se ao poder da crença, simbolizado pela lança de Wotan, muitas almas fervorosas são vencidas, embora não persuadidas. Siegmund pode morrer e Sieglinda pode seguí-lo até a sepultura com o coração partido, mas, assistida por Brunilda, dá a luz a Siegfried, o vitorioso. Como já mencionamos, a sede pela verdade, uma vez sentida, não pode ser saciada enquanto não for totalmente satisfeita. 
 
-Nesse ínterim, Wotan, impossibilitado de abandonar Valhal, o Anel do Credo, é forçado a afastar de si Brunilda, o espírito da verdade, que o desobedeceu, pois é uma condição do credo ser autocrático e não tolerar contestações. Como todas as religiões estão inerentemente imbuídas de um espírito de amor e um desejo sincero de beneficiar e elevar a humanidade, Wotan sente uma esmagadora tristeza por essa providência, que é necessária para a continuação da política por ele adotada e à qual ele adere apesar das angustiantes súplicas de Brunilda. É uma coisa terrível ter que separar-se da verdade, e ambos sentem muito mais do que as palavras podem expressar, quando o credo mesquinho obrigou Wotan a adormecer Brunilda, dizendo: "Nunca será despertada até que venha alguém mais livre do que eu". 
+Nesse ínterim, Wotan, impossibilitado de abandonar Valhal, o Anel do Credo, é forçado a afastar de si Brunilda, o espírito da verdade, que o desobedeceu, pois é uma condição do credo ser autocrático e não tolerar contestações. Como todas as religiões estão inerentemente imbuídas de um espírito de amor e um desejo sincero de beneficiar e elevar a humanidade, Wotan sente uma esmagadora tristeza por essa providência, que é necessária para a continuação da política por ele adotada e à qual ele adere apesar das angustiantes súplicas de Brunilda. É uma coisa terrível ter que separar-se da verdade, e ambos sentem muito mais do que as palavras podem expressar, quando o credo mesquinho obrigou Wotan a adormecer Brunilda, dizendo: 
+
+```
+"Nunca será despertada até que venha alguém mais livre do que eu". 
+```
 
 Com essas palavras, ele revela o requisito principal para a busca da verdade. "A menos que um homem deixe pai e mãe", disse Cristo, "não pode tornar-se meu discípulo". Todas as limitações devem ser primeiramente eliminadas, para podermos obter sucesso na busca da verdade. 
 
@@ -781,13 +853,16 @@ A corte de Gunther situa-se exatamente no caminho que Siegfried percorre e Albé
 
 ### <h3 id="chapter-13">Capítulo XIII: O Renascimento e a Bebida Letal</h3>
 
-    Nosso nascimento não é mais que um sonho e um esquecimento.   
-    A alma que conosco se eleva, nossa Estrela da vida,   
-    Teve seu pôr-do-sol em qualquer outro lugar   
-    E vem de longe.   
-    Não está em completo esquecimento,   
-    Nem em total nudez parece estar.   
-    -Wordsworth 
+```
+Nosso nascimento não é mais que um sonho e um esquecimento.   
+A alma que conosco se eleva, nossa Estrela da vida,   
+Teve seu pôr-do-sol em qualquer outro lugar   
+E vem de longe.   
+Não está em completo esquecimento,   
+Nem em total nudez parece estar.   
+
+- Wordsworth 
+```
 
 Quando Siegfried deixa a rocha da Valquíria e chega à corte mundana de Gunther, dão-lhe uma bebida preparada para fazê-lo esquecer tudo sobre sua vida passada e sobre Brunilda, o Espírito da Verdade, a quem ele havia conquistado para si. 
 
@@ -795,34 +870,37 @@ Supõe-se que a doutrina do renascimento foi ensinada apenas nas antigas religi�
 
 Muitos anos depois, quando Olaf se tornou Rei da Noruega e abraçou o Cristianismo, cavalgava um dia, como fazia com freqüência, pelo outeiro onde jazia seu ancestral, e um cortesão que o acompanhava perguntou: 
 
-    - "É verdade, meu senhor, que vós em outra época jazíeis neste     outeiro?" 
+\- "É verdade, meu senhor, que vós em outra época jazíeis neste     outeiro?" 
 
-    - "Nunca meu espírito habitou dois corpos", respondeu o rei. 
+\- "Nunca meu espírito habitou dois corpos", respondeu o rei. 
 
-    - "Contudo, conta-se que ouviram-vos dizer, ao passar por este     outeiro: "Eu estava aqui. Aqui eu vivia". 
+\- "Contudo, conta-se que ouviram-vos dizer, ao passar por este     outeiro: "Eu estava aqui. Aqui eu vivia". 
 
-    - "Eu jamais disse isto", retorquiu o rei, "eu nunca direi tal coisa". 
+\- "Eu jamais disse isto", retorquiu o rei, "eu nunca direi tal coisa". 
 
 Estava muito embaraçado e cavalgou em outra direção, provavelmente para evitar discutir uma convicção íntima que todos os dogmas da nova fé não conseguiram erradicar. 
 
-A verdade é que todos os povos antigos, tanto no Leste como no Oeste, sabiam muito sobre nascimento e morte, o que foi esquecido nos tempos modernos porque a segunda visão era, então, mais predominante. Até hoje, muitos camponeses da Noruega asseguram ter capacidade de ver o Espírito saindo do corpo na ocasião da morte, como uma nuvem branca, comprida e estreita, que é certamente o corpo vital. Os Ensinamentos Rosacruzes - de que os mortos pairam em torno de suas moradas terrestres por algum tempo depois da morte, que assumem um corpo luminoso e que ficam extremamente afligidos pelo pesar de seus entes queridos - eram de conhecimento geral entre os antigos nórdicos. Quando o finado rei Helge da Dinamarca materializou-se para mitigar o pesar de sua viúva, e ela exclamou angustiada: 
+A verdade é que todos os povos antigos, tanto no Leste como no Oeste, sabiam muito sobre nascimento e morte, o que foi esquecido nos tempos modernos porque a segunda visão era, então, mais predominante. Até hoje, muitos camponeses da Noruega asseguram ter capacidade de ver o Espírito saindo do corpo na ocasião da morte, como uma nuvem branca, comprida e estreita, que é certamente o corpo vital. Os Ensinamentos Rosacruzes - de que os mortos pairam em torno de suas moradas terrestres por algum tempo depois da morte, que assumem um corpo luminoso e que ficam extremamente afligidos pelo pesar de seus entes queridos - eram de conhecimento geral entre os antigos nórdicos. Quando o finado rei Helge da Dinamarca materializou-se para mitigar o pesar de sua viúva, e ela exclamou angustiada: "O orvalho da morte banhou teu corpo de guerreiro", ele respondeu:  
 
-    "O orvalho da morte banhou teu corpo de guerreiro", ele respondeu:   
-    "És tu, Sigruna,   
-    A causa única   
-    De que Helge. seja banhado   
-    Pelo orvalho da tristeza.   
-    Não queres pôr fim a teu pesar,   
-    Nem as amargas lágrimas secar.   
-    Cada lágrima ensangüentada.   
-    Cai em meu peito gelada.   
-    Elas não me deixam descansar".   
+```
+"És tu, Sigruna,   
+A causa única   
+De que Helge. seja banhado   
+Pelo orvalho da tristeza.   
+Não queres pôr fim a teu pesar,   
+Nem as amargas lágrimas secar.   
+Cada lágrima ensangüentada.   
+Cai em meu peito gelada.   
+Elas não me deixam descansar".   
+```
 
 Quando os estudantes compreendem o renascimento, geralmente perguntam porque a memória de vidas passadas é apagada, e muitos sentem um desejo quase incontrolável de conhecer o passado. Eles não podem entender o benefício que decorre da bebida letal do esquecimento, e olham com inveja as pessoas que alegam conhecer suas vidas passadas - quando asseguram haver sido reis, rainhas, filósofos, padres, etc. Contudo, há um propósito altamente benéfico neste esquecimento, pois nenhuma experiência tem valor na vida, exceto pela impressão que ela deixa na vivência "post-mortem", no purgatório ou no céu. Esta impressão atua de tal maneira que, em determinado momento, dirige, adverte ou impele a uma certa linha de ação. Este aviso ou impulso, embora dissociado da experiência da, qual foi extraído, age com maior rapidez do que aquela do pensamento. 
 
 Para esclarecer este ponto, talvez possamos comparar este registro, gravado em nossos mais sutis veículos, a um disco, cujo movimento faz com que uma bateria de diapasões colocada perto dele vibre quando cada nota é tocada. Do ponto de vista externo, parece não haver razão por que um certo denteado num disco deva corresponder a um outro no diapasão e, quando a agulha cai nesse denteado, um determinado som deve ser produzido, o que fará o diapasão vibrar. Mas, entendamos ou não, a demonstração indica uma ligação de tonalidade entre esse pequeno denteado e o diapasão. E isto não depende de um conhecimento de como a impressão foi gravada no disco, ou o que fez o diapasão responder a essa vibração. Ela está lá, quer conheçamos ou não todos os fatos sobre isso. 
 
-De igual maneira, quando tivemos uma certa experiência na vida, tenha sido alegre ou não, ela é condensada na experiência "post- mortem", deixando uma determinada impressão na alma que serve para prevenir, se a experiência for purgatorial, e para estimular, se for celestial. Numa vida posterior, quando uma experiência surge semelhante à que causou a impressão, a vibração é sentida pela alma, despertando o tom da dor ou do prazer no registro da vida passada, de forma mais rápida e exata do que se a própria experiência fosse evocada perante nossa visão mental. Atualmente, ainda não somos capazes de ver a experiência na sua luz verdadeira, pois estamos impedidos pelo véu da carne. Mas o fruto da experiência colhido no céu ou no inferno diz-nos, sem perigo de errar, se devemos repetir ou evitar nosso passado. Além disso, se nós realmente conhecêssemos nossas vidas passadas e por nossos atuais esforços tivéssemos conquistado a faculdade de viver bem e dignamente, mesmo sabendo que pautamos nossas vidas pela devassidão, crueldade, crime e egoísmo; e agora, em conseqüência disso, as pessoas nos desprezassem, nós acharíamos que elas não deveriam julgar-nos pelo passado. e estariam erradas em condenar-nos ao ostracismo. Argüiríamos que o julgamento deveria ser baseado nos esforços meritórios de nossa vida presente, com exclusão de condições anteriores, e nisto estaríamos totalmente certos. Pela mesma razão, por que deveríamos exigir honras na vida presente, adulação ou admiração, só porque em vidas anteriores fomos reis e rainhas? Mesmo se fosse verdade que tivéssemos ocupado essas posições, por quê deveríamos expor-nos ao ridículo dos céticos contando essas histórias? Portanto, quer tenhamos ou não memória de nossas vidas passadas, é melhor concentrarmos nossos esforços sobre as possibilidades mais elevadas de hoje. 
+De igual maneira, quando tivemos uma certa experiência na vida, tenha sido alegre ou não, ela é condensada na experiência "post- mortem", deixando uma determinada impressão na alma que serve para prevenir, se a experiência for purgatorial, e para estimular, se for celestial. Numa vida posterior, quando uma experiência surge semelhante à que causou a impressão, a vibração é sentida pela alma, despertando o tom da dor ou do prazer no registro da vida passada, de forma mais rápida e exata do que se a própria experiência fosse evocada perante nossa visão mental. Atualmente, ainda não somos capazes de ver a experiência na sua luz verdadeira, pois estamos impedidos pelo véu da carne. Mas o fruto da experiência colhido no céu ou no inferno diz-nos, sem perigo de errar, se devemos repetir ou evitar nosso passado. 
+
+Além disso, se nós realmente conhecêssemos nossas vidas passadas e por nossos atuais esforços tivéssemos conquistado a faculdade de viver bem e dignamente, mesmo sabendo que pautamos nossas vidas pela devassidão, crueldade, crime e egoísmo; e agora, em conseqüência disso, as pessoas nos desprezassem, nós acharíamos que elas não deveriam julgar-nos pelo passado. e estariam erradas em condenar-nos ao ostracismo. Argüiríamos que o julgamento deveria ser baseado nos esforços meritórios de nossa vida presente, com exclusão de condições anteriores, e nisto estaríamos totalmente certos. Pela mesma razão, por que deveríamos exigir honras na vida presente, adulação ou admiração, só porque em vidas anteriores fomos reis e rainhas? Mesmo se fosse verdade que tivéssemos ocupado essas posições, por quê deveríamos expor-nos ao ridículo dos céticos contando essas histórias? Portanto, quer tenhamos ou não memória de nossas vidas passadas, é melhor concentrarmos nossos esforços sobre as possibilidades mais elevadas de hoje. 
 
 Não há dúvida de que a pessoa que for capaz de investigar a Memória da Natureza, e o fizer pela investigação ligada ao progresso e evolução do homem, cedo ou tarde entrará em contato com vislumbres de seu próprio passado. Mas, um verdadeiro servidor, que sente ser um trabalhador na vinha de Cristo, nunca se desviará do caminho do serviço para seguir a trilha da curiosidade. O discípulo que recebe os ensinamentos dos Irmãos Maiores é advertido, na primeira Iniciação, a nunca empregar seu poder para satisfazer a curiosidade, e, em todas as suas visitas subseqüentes ao Templo, esta idéia lhe é relembrada. 
 
@@ -858,22 +936,24 @@ Ao som da trombeta de Heimdal, todos os fatores de destruição atacam a planíc
 
 Mas, como a Fenix ressurge rejuvenescida e formosa de suas próprias cinzas, assim também uma nova Terra, visualizada pela antiga profetiza, ressurgirá da grande conflagração, mais bela e mais etérica, onde "os elementos derretem-se com o calor ardente". Ela chamou essa Terra de "Gimle", onde não faltaram habitantes, pois, enquanto a grande conflagração acontecia, um homem e uma mulher chamados Lif e Liftharaser (lif significa vida) foram salvos, e deles surge uma nova raça que vive em paz e perto de Deus. 
 
-    "Um vestíbulo eu vejo,   
-    Mais brilhante que o Sol,   
-    Com ouro revestido,   
-    No cume de Gimle,   
-    Lá viverá   
-    Uma raça virtuosa e, na verdade,   
-    Abençoada será   
-    Até a eternidade.   
-    "Dela vem o Onipotente - o Todo - o Pai,   
-    Para a reunião dos deuses,   
-    Na Sua força que do alto vem.   
-    Ele, que por todos pensa bem,   
-    Emite opiniões, sabe julgar;   
-    Com as desavenças consegue acabar,   
-    A paz estabelecer   
-    E para sempre durar".   
+```
+"Um vestíbulo eu vejo,   
+Mais brilhante que o Sol,   
+Com ouro revestido,   
+No cume de Gimle,   
+Lá viverá   
+Uma raça virtuosa e, na verdade,   
+Abençoada será   
+Até a eternidade.   
+"Dela vem o Onipotente - o Todo - o Pai,   
+Para a reunião dos deuses,   
+Na Sua força que do alto vem.   
+Ele, que por todos pensa bem,   
+Emite opiniões, sabe julgar;   
+Com as desavenças consegue acabar,   
+A paz estabelecer   
+E para sempre durar".   
+```
 
 O antigo mito nórdico ensina, mas por um ângulo diferente, as mesmas verdades encontradas em maior plenitude nas Escrituras Cristãs, desde o Gênesis até o Apocalipse, e é importante que percebamos a verdade destes contos. Infelizmente, há muitos no grupo descrito por Pedro que dizem: "Onde está a promessa de Sua vinda? Desde que os antepassados adormeceram, todas as coisas continuam como eram no princípio". Há poucos que compreendem a importância da afirmação no segundo capítulo do Gênesis, de que "uma névoa elevou-se do solo e molhou a terra antes que chovesse", e que, portanto, os filhos da névoa devem ter sido fisiologicamente diferentes dos homens de hoje, que respiram ar desde "o dilúvio", quando a névoa condensou-se e tornou-se mar. Mas, com a mesma certeza de que ocorreram essas mudanças no passado, assim também estamos na iminência de novas mudanças. É verdade que poderá não acontecer em nossos tempos - "essa hora não a conhece o homem, nem os Anjos, nem o Filho" - e, repetidamente, o aviso de Noé é-nos apresentado nesta passagem. Naquele dia, eles comeram e beberam, casaram e foram dados em matrimônio, mas, subitamente, as águas os envolveram e todos os que não haviam desenvolvido os requisitos fisiológicos, pulmões, necessários para viver na nova condição, pereceram. A Arca conduziu os pioneiros em segurança através da catástrofe. 
 
@@ -905,50 +985,61 @@ Tal como em Um Sonho de Uma Noite de Verão de Shakespeare, esta história conta
 
 A cena de abertura de Tannhauser mostra-nos uma orgia na Caverna de Vênus. Tannhauser está ajoelhado diante da deusa que está deitada num sofá. Ele desperta como que de um sonho, sentindo uma ânsia de visitar novamente a Terra. Ele diz isso à deusa Vênus, que responde: 
 
-    "Que tolo lamento! Do meu amor estás tu cansado?   
-    Lá em cima, pela tristeza, teu coração foi esmagado.   
-    Levanta-te, menestrel,   
-    pega tua harpa e as bem-aventuranças divinas vem cantar.   
-    Pois a deusa do amor é tua, o maior tesouro de amar".   
-    Inflamado com novo ardor, Tannhauser pega sua harpa e canta     louvores a ela:   
-    "Todos os louvores a ti! A ti aguarda imortal celebridade.   
-    Hinos de louvor a ti sempre cantarei.   
-    Cada meigo encanto que me proporcionou tua doce bondade,   
-    Enquanto o tempo e o amor forem jovens, minha harpa despertarei;   
-    Para a doce alegria do amor e a satisfação de agradar,   
-    Minha razão ansiou, meu coração suspirou;   
-    E tu, cujo amor só um Deus pode avaliar,   
-    A mim tu o deste e com esta felicidade estou banhado.   
-    Mas, mortal eu sou, e um amor divino,   
-    É muito imutável para com o meu ficar casado.   
-    Um deus pode amar sem interrupção,   
-    Mas, sob leis alternantes,   
-    Tanto de dor como de prazer temos o nosso quinhão,   
-    Nós mortais precisamos disso em medidas variantes.   
-    Repleto de alegria, novamente pela dor estou a suspirar,   
-    Portanto, Rainha, eu não posso aqui ficar".   
+```
+"Que tolo lamento! Do meu amor estás tu cansado?   
+Lá em cima, pela tristeza, teu coração foi esmagado.   
+Levanta-te, menestrel,   
+pega tua harpa e as bem-aventuranças divinas vem cantar.   
+Pois a deusa do amor é tua, o maior tesouro de amar".  
+```
+
+Inflamado com novo ardor, Tannhauser pega sua harpa e canta     louvores a ela:   
+
+```
+"Todos os louvores a ti! A ti aguarda imortal celebridade.   
+Hinos de louvor a ti sempre cantarei.   
+Cada meigo encanto que me proporcionou tua doce bondade,   
+Enquanto o tempo e o amor forem jovens, minha harpa despertarei;   
+Para a doce alegria do amor e a satisfação de agradar,   
+Minha razão ansiou, meu coração suspirou;   
+E tu, cujo amor só um Deus pode avaliar,   
+A mim tu o deste e com esta felicidade estou banhado.   
+Mas, mortal eu sou, e um amor divino,   
+É muito imutável para com o meu ficar casado.   
+Um deus pode amar sem interrupção,   
+Mas, sob leis alternantes,   
+Tanto de dor como de prazer temos o nosso quinhão,   
+Nós mortais precisamos disso em medidas variantes.   
+Repleto de alegria, novamente pela dor estou a suspirar,   
+Portanto, Rainha, eu não posso aqui ficar".   
+```
 
 Quando a humanidade emergiu da Atlântida e alcançou a atmosfera de Ariana, o arco-íris apareceu pela primeira vez no céu como sinal da nova era. Nessa época dizia-se que enquanto este arco estivesse nas nuvens, as estações não cessariam de mudar; dia e noite, verão e inverno, vazante e enchente e todas as outras medidas alternantes da Natureza seguir-se-iam umas às outras em sucessão ininterrupta. Na música nem sempre pode haver harmonia. De vez em quando há uma dissonância para ressaltar a melodia. Isso também acontece na questão da dor e da tristeza, da alegria e da felicidade: elas também são medidas de alternação. Não podemos viver numa, sem desejar a outra, como também não poderíamos permanecer no céu e aí adquirir as experiências apenas encontradas na Terra. É este impulso interno, este balanço do pêndulo da alegria para a tristeza, e da tristeza para a alegria, que afasta Tannhauser da caverna de Vênus. Ele precisa conhecer novamente a rivalidade e a luta do mundo; precisa adquirir a experiência que só a tristeza pode oferecer e assim esquecer os prazeres que não lhe trazem poder anímico. Entretanto, é característica das forças inferiores tentar sempre influenciar negativamente a alma; usar todos os meios para afastá-la do caminho da retidão; e Vênus, que aparece no drama de Tannhauser como representante destes poderes, adverte-o tentando dissuadi-lo: 
 
-    "No pó, tua alma em breve será humilhada,   
-    A adversidade teu orgulho irá cortar,   
-    Então, com o ardor esmagado, a vontade subjugada,   
-    Para sentir meu fascínio, novamente virás suplicar".   
+```
+"No pó, tua alma em breve será humilhada,   
+A adversidade teu orgulho irá cortar,   
+Então, com o ardor esmagado, a vontade subjugada,   
+Para sentir meu fascínio, novamente virás suplicar".   
+```
 
 Mas Tannhauser está firme em seu propósito. A ansiedade dentro dele é tão forte que nada pode detê-lo e, embora ainda sinta o fascínio, exclama com grande fervor: 
 
-    "Enquanto eu tiver vida, só a ti minha harpa irá louvar,   
-    Em nenhum outro tema minha canção vai se inspirar   
-    A não ser em ti, fonte de beleza e de suave graça,   
-    O desejo de amor estimula-se com a mais doce canção;   
-    Uma chama no altar arderá só para ti,   
-    Pelo fogo que acendeste em meu coração.   
-    Com tristeza agora eu te deixarei,   
-    Mas, teu herói eu sempre serei,   
-    Se aqui permanecer, ser escravo será minha sorte;   
-    Anseio pela vida na terra, por isso devo partir.   
-    Tenho sede de liberdade, ainda que signifique a morte,   
-    Portanto, ó Rainha, de ti eu vou fugir!"   
+```
+"Enquanto eu tiver vida, só a ti minha harpa irá louvar,   
+Em nenhum outro tema minha canção vai se inspirar   
+A não ser em ti, fonte de beleza e de suave graça,   
+O desejo de amor estimula-se com a mais doce canção;   
+Uma chama no altar arderá só para ti,   
+Pelo fogo que acendeste em meu coração.   
+Com tristeza agora eu te deixarei,   
+
+Mas, teu herói eu sempre serei,   
+Se aqui permanecer, ser escravo será minha sorte;   
+Anseio pela vida na terra, por isso devo partir.   
+Tenho sede de liberdade, ainda que signifique a morte,   
+Portanto, ó Rainha, de ti eu vou fugir!"   
+```
 
 Assim, quando Tannhauser deixa a caverna de Vênus, ele é o herói comprometido com o lado sensual e inferior do amor, e isto ele vai ensinar ao mundo, pois esta é a natureza da humanidade: tudo o que o coração sente deve ser externado. 
 
@@ -962,67 +1053,79 @@ Sabendo que o tema para esta competição da canção será o amor e que o prêm
 
 Qaundo Tannhauser saiu da caverna de Vênus, um dos primeiros sons que ouviu foi o canto de um grupo de peregrinos que estavam indo para Roma, para obter o perdão de seus pecados e isto despertou-lhe um sentimento muito forte de sua própria culpabilidade. Por isso, ajoelha-se e exclama em profunda contrição: 
 
-    "Todo-Poderoso, a Ti louvores eu dou,   
-    Peço-Te que Tua misericórdia me seja mostrada.   
-    Pelo senso do pecado oprimido estou,   
-    A carga para mim é muito pesada.   
-    Não tenho paz, descanso não posso ter   
-    Até que o perdão de Ti, eu venha a receber".   
+```
+"Todo-Poderoso, a Ti louvores eu dou,   
+Peço-Te que Tua misericórdia me seja mostrada.   
+Pelo senso do pecado oprimido estou,   
+A carga para mim é muito pesada.   
+Não tenho paz, descanso não posso ter   
+Até que o perdão de Ti, eu venha a receber".   
+```
 
 Enquanto se sente abatido e infame, condenado a vagar solitário e amaldiçoado pelo mundo por causa de seu profano amor por Vênus, os menestréis aproximam-se dele e, reconhecendo-o, tentam persuadi-lo a acompanhá-los a Wartburg. Mas, como já foi dito, foi o apaixonado amor por Elizabeth que o levou aquele lugar, e ele se sente desencorajado a aproximar-se dela. Como argumento final, Wolfram, von Eschenbach diz a Tannhauser que Elizabeth o ama. Elizabeth não havia assistido a nenhum torneio de canções desde que Tannhauser partiu, e Wolfram von Eschenbach, uma das mais puras e belas personalidades da história medieval, procura assegurar a felicidade de Elizabeth trazendo Tannhauser de volta para ela, apesar dele mesmo amá-la e, ao fazê-lo, despedaça seu próprio coração. Ao ouvir isto, a paixão inflama novamente a alma de Tannhauser, e ele canta: 
 
-    "Oh! sorri-me novamente!   
-    Mundo radiante que eu perdi!   
-    Oh, sol dos céus, tu não escapas mais de mim.   
-    Por nuvens tormentosas há tanto atravessadas,   
-    É Maio, doce Maio. Milhares de cantos em louvor,   
-    Libertam meus pesares alegremente.   
-    Um raio novo de invulgar esplendor   
-    Ilumina minha alma, Oh, alegria, é ela finalmente!"   
+```
+"Oh! sorri-me novamente!   
+Mundo radiante que eu perdi!   
+Oh, sol dos céus, tu não escapas mais de mim.   
+Por nuvens tormentosas há tanto atravessadas,   
+É Maio, doce Maio. Milhares de cantos em louvor,   
+Libertam meus pesares alegremente.   
+Um raio novo de invulgar esplendor   
+Ilumina minha alma, Oh, alegria, é ela finalmente!"   
+```
 
 Encontrando Tannhauser no castelo, Elizabeth diz-lhe:   
 
-    "Agora para mim o mundo está na escuridão.   
-    O repouso e a alegria afastaram-se de mim.   
-    Desde que com ternura ouvi tua canção,   
-    As angústias da beatitude e do infortúnio conheci;   
-    Quando desta terra desertaste,   
-    A paz também sumiu do meu coração.   
-    Nenhum menestrel minha alma conseguiu despertar,   
-    Suas canções parecem tristes e sem vida para mim,   
-    Quase sempre de coração partido ia repousar.   
-    Ao acordar, cada angústia era sempre recordada;   
-    Toda a alegria desapareceu de minha vida assim.   
-    Oh! diz-me, por que estou tão fascinada!   
+```
+"Agora para mim o mundo está na escuridão.   
+O repouso e a alegria afastaram-se de mim.   
+Desde que com ternura ouvi tua canção,   
+As angústias da beatitude e do infortúnio conheci;   
+Quando desta terra desertaste,   
+A paz também sumiu do meu coração.   
+Nenhum menestrel minha alma conseguiu despertar,   
+Suas canções parecem tristes e sem vida para mim,   
+Quase sempre de coração partido ia repousar.   
+Ao acordar, cada angústia era sempre recordada;   
+Toda a alegria desapareceu de minha vida assim.   
+Oh! diz-me, por que estou tão fascinada!   
+```
 
 A isto, Tannhauser responde: 
 
-    "Todo o elogio ao amor por esta doce lembrança!   
-    Minha harpa com mágica doçura o amor tocou.   
-    Por minha canção, o amor a ti falou   
-    Rendo-me aos teus pés, tudo em ti me cativou".   
+```
+"Todo o elogio ao amor por esta doce lembrança!   
+Minha harpa com mágica doçura o amor tocou.   
+Por minha canção, o amor a ti falou   
+Rendo-me aos teus pés, tudo em ti me cativou".   
+```
 
 Elizabeth então confessa: 
 
-    "Oh! Abençoada hora do encontro!   
-    Oh! Abençoado poder do amor!   
-    Finalmente te venho saudar   
-    Para não mais te ver vagar.   
-    A vida novamente despertada   
-    Dentro deste meu coração;   
-    A nuvem de tristeza dissipada,   
-    E o sol da alegria brilha com emoção".   
+```
+"Oh! Abençoada hora do encontro!   
+Oh! Abençoado poder do amor!   
+Finalmente te venho saudar   
+Para não mais te ver vagar.   
+A vida novamente despertada   
+Dentro deste meu coração;   
+A nuvem de tristeza dissipada,   
+E o sol da alegria brilha com emoção".   
+```
 
 Assim, Elizabeth inspirou amor nos corações de dois dos menestréis, Wolfram e Tannhauser, mas o quanto este amor é diferente, será visto no modo pelo qual cada um trabalha o tema no torneio de canções, que acontece no segundo ato, onde Senhor de Wartburg abre o concurso com as seguintes palavras: 
 
-    "Como sempre em tempo de guerra, a morte enfrentamos,   
-    E para manter a honra como cavaleiros lutamos,   
-    Assim vós, menestréis, tendes lutado e a virtude salvaguardado.   
-    E com doces melodias de vozes e de harpas, a verdadeira fé     elevado.   
-    Novas canções compondes e entoais novamente   
-    Descrevei o verdadeiro amor, para que o possamos conhecer;   
-    Aquele que o cantar mais nobremente,   
-    A princesa vai a ele o prêmio oferecer".   
+```
+"Como sempre em tempo de guerra, a morte enfrentamos,   
+E para manter a honra como cavaleiros lutamos,   
+Assim vós, menestréis, tendes lutado e a virtude salvaguardado.   
+E com doces melodias de vozes e de harpas, a verdadeira fé     elevado.   
+Novas canções compondes e entoais novamente   
+Descrevei o verdadeiro amor, para que o possamos conhecer;   
+Aquele que o cantar mais nobremente,   
+A princesa vai a ele o prêmio oferecer".   
+```
 
 Nesta poesia compreendemos o verdadeiro alcance da missão e da dignidade dos cavaleiros e dos menestréis. Era dever do cavaleiro ir à guerra, defender com a espada todos aqueles que necessitassem de ajuda, e lutar com braço forte a batalha do fraco. Desde que o cavaleiro seguisse o código de honra prevalecente na época, defendendo o fraco, mantendo fidelidade para com o amigo e com o inimigo, ele aprendia as lições de coragem física e, de certo modo, de coragem moral, tão necessária para o desenvolvimento da alma. Quem trilhar o caminho da realização espiritual é considerado também um cavaleiro de nascimento nobre, cabendo- lhe entender que deve cultivar as mesmas virtudes requeridas pela classe dos cavaleiros, pois, no caminho espiritual, também há perigos e lugares onde a coragem física é necessária. O Espírito, por exemplo, não pode alcançar a libertação sem incômodo físico. A doença geralmente acompanha o crescimento da alma em maior ou menor extensão, e requer coragem física suportar e aceitar o sofrimento que incide sobre esta realização pela qual todos lutamos e, muitas vezes, temos de sacrificar o corpo para obter esse crescimento anímico. 
 
@@ -1032,47 +1135,52 @@ Naturalmente haviam exceções, mas Tannhauser não era um destes. Ele era realm
 
 Muitos foram atraídos para ver quem começaria o torneio e o nome de Wolfram apareceu na primeira ficha tirada da caixa. Assim ele começa: 
 
-    "Esta nobre assembléia contemplando,   
-    Como o coração se expande ao ver esta cena!   
-    Estes galantes heróis, valentes, sábios e gentis,   
-    Como majestosas florestas frescas e verdes crescendo,   
-    E, em torno deles, em doce perfeição florescendo,   
-    Uma guirlanda de damas e lindas jovens vejo.   
-    Suas glórias combinadas deslumbram o espectador,   
-    Meu canto é mudo diante desta rara visão.   
-    Elevo meus olhos para uma, cuja brilhante esplendor   
-    Neste céu resplandecente brilha com meigo sorriso,   
-    E. contemplando essa pura e carinhosa radiação,   
-    Mergulha em devotos e santos sonhos meu coração.   
-    E assim a fonte de todo prazer e poder   
-    É, então, à minha alma reverente revelada.   
-    De cujas inescrutáveis profundezas, toda a alegria derrama   
-    O suave bálsamo pelo qual toda mágoa é sanada.   
-    Oh! que eu nunca suas límpidas águas possa turvar   
-    Nem com desejos selvagens impetuosamente eu as possa agitar.   
-    Eu te venerarei, genuflexo, com alma devotada.   
-    A viver e morrer por ti, meu coração aspira.   
-    Não sei se estas minhas pobres palavras podem traduzir   
-    O verdadeiro e suave amor que tenho estado a sentir".   
+```
+"Esta nobre assembléia contemplando,   
+Como o coração se expande ao ver esta cena!   
+Estes galantes heróis, valentes, sábios e gentis,   
+Como majestosas florestas frescas e verdes crescendo,   
+E, em torno deles, em doce perfeição florescendo,   
+Uma guirlanda de damas e lindas jovens vejo.   
+Suas glórias combinadas deslumbram o espectador,   
+Meu canto é mudo diante desta rara visão.   
+Elevo meus olhos para uma, cuja brilhante esplendor   
+
+Neste céu resplandecente brilha com meigo sorriso,   
+E. contemplando essa pura e carinhosa radiação,   
+Mergulha em devotos e santos sonhos meu coração.   
+E assim a fonte de todo prazer e poder   
+É, então, à minha alma reverente revelada.   
+De cujas inescrutáveis profundezas, toda a alegria derrama   
+O suave bálsamo pelo qual toda mágoa é sanada.   
+Oh! que eu nunca suas límpidas águas possa turvar   
+Nem com desejos selvagens impetuosamente eu as possa agitar.   
+Eu te venerarei, genuflexo, com alma devotada.   
+A viver e morrer por ti, meu coração aspira.   
+Não sei se estas minhas pobres palavras podem traduzir   
+O verdadeiro e suave amor que tenho estado a sentir".   
+```
 
 No fim do canto de Wolfram, Tannhauser sobressalta-se como se desperto de um sonho. Levanta-se e canta: 
 
-    "Eu também bebi desta fonte de prazer;   
-    Suas águas, Wolfram, eu as conheço bem;   
-    Quem tem vida, ousa isto não saber?   
-    Suas virtudes vou tentar mostrar:   
-    Mas perto de sua borda eu não me vou retirar,   
-    A não ser que o desejo minha alma consumisse;   
-    Somente, então, sua onda me refrescaria,   
-    E nova e completa a minha vida ficaria.   
-    Ó onda de alegria, deixa-me possuir-te!   
-    Todo medo e dúvida tua presença faz desaparecer:   
-    Deixa que os teus insondáveis enlevos me abençoem!   
-    Por ti somente meu coração vai bater,   
-    Para que eu possua teu brilhante esplendor,   
-    Deixa-me com este desejo veemente sempre arder.   
-    Eu te digo, Wolfram, assim vou descrever   
-    O que eu aprendi sobre o verdadeiro amor".   
+```
+"Eu também bebi desta fonte de prazer;   
+Suas águas, Wolfram, eu as conheço bem;   
+Quem tem vida, ousa isto não saber?   
+Suas virtudes vou tentar mostrar:   
+Mas perto de sua borda eu não me vou retirar,   
+A não ser que o desejo minha alma consumisse;   
+Somente, então, sua onda me refrescaria,   
+E nova e completa a minha vida ficaria.   
+Ó onda de alegria, deixa-me possuir-te!   
+Todo medo e dúvida tua presença faz desaparecer:   
+Deixa que os teus insondáveis enlevos me abençoem!   
+Por ti somente meu coração vai bater,   
+Para que eu possua teu brilhante esplendor,   
+Deixa-me com este desejo veemente sempre arder.   
+Eu te digo, Wolfram, assim vou descrever   
+O que eu aprendi sobre o verdadeiro amor".   
+```
 
 Aqui temos a verdadeira descrição dos dois extremos do amor; o de Wolfram é o amor da alma pela alma, o de Tannhauser é o amor dos sentidos. Um é o amor que anseia dar, o outro exige a posse que almeja receber. Este é apenas o começo da competição, sobre a qual ouviremos falar, integralmente, mais adiante. Mas, sendo estas as definições dadas em primeiro lugar pelos dois principais expoentes do amor, convém notar que Wolfram von Eschenbach representa o expoente do novo e mais lindo amor que deve suplantar a concepção primitiva. 
 
@@ -1112,10 +1220,12 @@ Há uma distinção muito significativa entre inocência e virtude e o que é ma
 
 No prólogo de Fausto, referindo-se ao herói, Deus é representado dizendo: 
 
-    "Embora, em perplexidade, ele me sirva agora,   
-    Para onde aparecer a luz, Eu logo o guiarei;   
-    Quando a árvore nova tiver brotos, o jardineiro sabe,   
-    Com flores e frutos seus anos vindouros beneficiarei".   
+```
+"Embora, em perplexidade, ele me sirva agora,   
+Para onde aparecer a luz, Eu logo o guiarei;   
+Quando a árvore nova tiver brotos, o jardineiro sabe,   
+Com flores e frutos seus anos vindouros beneficiarei".   
+```
 
 Este é um fato real concernente a toda humanidade. Na época atual, todos nós servimos a Deus imperfeitamente por causa de nossa visão limitada. Não temos a real e verdadeira percepção do que seremos, e de que modo deveríamos usar os talentos com os quais somos dotados. No entanto, Deus, através do processo de evolução, está constantemente dirigindo-nos para uma luz cada vez maior e, gradativamente, deixaremos de ser espiritualmente estéreis: floresceremos e daremos frutos. Assim, seremos capazes de servir a Deus como deveríamos e não como o fazemos. 
 
@@ -1127,9 +1237,7 @@ Há nesta lenda do cajado do Papa uma semelhança com o conto do Santo Graal e d
 
 A história conta como Lúcifer, quando lutou com o Arcanjo Miguel sobre o corpo de Moisés, perdeu a pedra mais preciosa de sua coroa. Ela caiu durante a luta. Esta linda e incomparável gema era uma esmeralda chamada "Exilir". Foi lançada ao abismo, mas foi recuperada pelos Anjos, e dela foi feito o cálice ou Santo Graal, que mais tarde foi usado para conter o Sangue Purificador que fluiu do lado do Salvador quando foi ferido pela lança do centurião. Notemos que esta jóia era uma esmeralda: era verde, e verde é uma combinação do azul com o amarelo e é, portanto, a cor complementar da terceira cor primária, o vermelho. No Mundo Físico, o vermelho tem a tendência de excitar e energizar, enquanto que o verde tem um efeito refrescante e calmante, mas o oposto é verdadeiro, quando vemos o assunto do ponto de vista do Mundo do Desejo. Aí, a cor complementar é ativa e tem o efeito sobre nossos desejos e emoções que atribuímos à cor física. Portanto, a cor verde da gema perdida por Lúcifer mostra seu efeito e sua natureza. Esta pedra é a antítese da Pedra Filosofal. Tem o poder de atrair a paixão e gera o amor do sexo para sexo, que é o vício oposto ao amor casto e puro, simbolizado pela pedra branca apocalíptica, cujo final é o amor da alma para alma. Como este efeito das cores complementares é bem conhecido, embora não percebido conscientemente, falamos também do ciúme, que é gerado pelo amor impuro, caracterizado como um monstro de olhos verdes. 
 
-O Santo Graal tem sua réplica no cálice ou na casca da semente da planta, que é verde. O fogo criador está adormecido dentro da casca. Igualmente, o mesmo fenômeno deve manifestar-se dentro de cada um que começa a procura do Santo Graal. Vontade é a qualidade masculina da alma; imaginação é a qualidade feminina. Quando a vontade é o atributo mais forte, a alma, durante uma certa vida, usa um revestimento masculino e, em outra, onde a qualidade da imaginação é maior, uma forma feminina. Pela Lei de Alternância que prevalece nesta presente era do arco-íris, a alma usa trajes diferentes em vidas alternadas mas, quer seja feminino ou masculino, o órgão do sexo oposto está sempre presente em estado 
-
-latente. Por conseguinte, o homem é agora e será tanto masculino como feminino, enquanto o corpo denso permanecer. 
+O Santo Graal tem sua réplica no cálice ou na casca da semente da planta, que é verde. O fogo criador está adormecido dentro da casca. Igualmente, o mesmo fenômeno deve manifestar-se dentro de cada um que começa a procura do Santo Graal. Vontade é a qualidade masculina da alma; imaginação é a qualidade feminina. Quando a vontade é o atributo mais forte, a alma, durante uma certa vida, usa um revestimento masculino e, em outra, onde a qualidade da imaginação é maior, uma forma feminina. Pela Lei de Alternância que prevalece nesta presente era do arco-íris, a alma usa trajes diferentes em vidas alternadas mas, quer seja feminino ou masculino, o órgão do sexo oposto está sempre presente em estado  latente. Por conseguinte, o homem é agora e será tanto masculino como feminino, enquanto o corpo denso permanecer. 
 
 No passado, quando sua consciência estava focalizada no mundo espiritual, ele era uma perfeita unidade criadora com os dois órgãos sexuais igualmente desenvolvidos, como muitas flores o têm ainda hoje. Portanto, era capaz de gerar um novo corpo quando o antigo já estivesse gasto, mas, nessa época, ele não estava ciente, como está hoje, do fato de que possuía um corpo. Os pioneiros - alguns que viram mais claro do que os outros - contaram a seus companheiros a extraordinária história de que o homem tinha um corpo e é natural que tenham enfrentado o mesmo ceticismo que hoje enfrentam aqueles que afirmam que o homem possui uma alma. 
 
@@ -1159,9 +1267,7 @@ Apesar dessas obras afetarem poderosamente as pessoas que as ouvem pelo seu cont
 
 Quem não possuir esta virtude não poderá obter a Iniciação, e quem a possuir verá atenuadas muitas de suas faltas. 
 
-O resumo do enredo é o seguinte: o herdeiro do Ducado de Brabant desapareceu. É apenas uma criança e irmão de Elsa, a heroína da peça, que no início da cena é acusada por seus inimigos, Ortrud e Telramund, de ter feito desaparecer esse irmão mais novo para que ela pudesse obter a posse do principado. Em conseqüência, foi intimada a comparecer perante a corte real para defender-se de seus acusadores. Na cena de abertura, nenhum cavaleiro havia ainda aparecido para defender sua causa e matar seus caluniadores. Então, aparece no rio um cisne com um cavaleiro que se aproxima do lugar onde está havendo o julgamento. Ele salta em terra e oferece-se para defender Elsa com a condição de que se casem. Ela logo concorda, pois ele não lhe é estranho; ela o tem visto freqüentemente em seus sonhos e aprendeu a amá-lo. No duelo entre o cavaleiro desconhecido e Telramund, este último é derrubado, mas sua vida é magnanimamente poupada pelo vencedor, que depois reivindica Elsa como sua noiva. Contudo, havia imposto outra condição, isto é, que ela nunca perguntasse quem ele era e de onde viera. 
-
-bom e nobre, e como viera em resposta às suas preces, ela também não faz objeção a esta condição, e o casal se retira para os aposentos nupciais. 
+O resumo do enredo é o seguinte: o herdeiro do Ducado de Brabant desapareceu. É apenas uma criança e irmão de Elsa, a heroína da peça, que no início da cena é acusada por seus inimigos, Ortrud e Telramund, de ter feito desaparecer esse irmão mais novo para que ela pudesse obter a posse do principado. Em conseqüência, foi intimada a comparecer perante a corte real para defender-se de seus acusadores. Na cena de abertura, nenhum cavaleiro havia ainda aparecido para defender sua causa e matar seus caluniadores. Então, aparece no rio um cisne com um cavaleiro que se aproxima do lugar onde está havendo o julgamento. Ele salta em terra e oferece-se para defender Elsa com a condição de que se casem. Ela logo concorda, pois ele não lhe é estranho; ela o tem visto freqüentemente em seus sonhos e aprendeu a amá-lo. No duelo entre o cavaleiro desconhecido e Telramund, este último é derrubado, mas sua vida é magnanimamente poupada pelo vencedor, que depois reivindica Elsa como sua noiva. Contudo, havia imposto outra condição, isto é, que ela nunca perguntasse quem ele era e de onde viera. Como ele parece tão bom e nobre, e como viera em resposta às suas preces, ela também não faz objeção a esta condição, e o casal se retira para os aposentos nupciais. 
 
 Embora temporariamente vencidos, Ortrud e Telramund não desistem da conspiração contra Elsa, e seu próximo passo é envenenar sua mente contra seu nobre protetor, para que ela o mande embora e fique novamente à mercê deles. Esperam, futuramente, ficar de posse do principado do qual Elsa e seu irmão são os legítimos herdeiros. Com este propósito em vista, ambos se apresentam à porta de Elsa e conseguem ser ouvidos por ela. Aparentam estar extremamente arrependidos pelo que fizeram e muito solícitos pelo seu bem-estar. Dizem sentir muito que ela tenha desposado alguém cujo nome nem mesmo sabe, e que tem tanto medo de que sua identidade seja conhecida, que a proibiu de perguntar seu nome, sob pena de ser abandonada por ele. 
 
