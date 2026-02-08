@@ -1525,11 +1525,11 @@ A divisão da Divindade em “Pai”, “Filho” e “Espírito Santo” é tam
 
 Os Diagramas 6 e 11 talvez esclareçam melhor o assunto. Tenha-se, porém em mente que os Mundos e Planos Cósmicos não estão acima uns dos outros, no espaço, mas que os sete Planos Cósmicos se interpenetram uns aos outros e todos eles interpenetram os sete Mundos. São estados de espírito-matéria se compenetrando uns aos outros, pelo que Deus e os outros Grandes Seres mencionados não se encontram distantes no espaço. Eles permeiam cada parte dos seus próprios Reinos e até Reinos de maior densidade do que os seus próprios. Todos estão presentes em nosso Mundo, e de fato “mais próximos de nós do que os nossos pés e mãos”. É uma verdade literal que “n’Ele vivemos, nos movemos e temos o nosso ser”[1], porque nenhum de nós pode existir fora das Grandes Inteligências que, com Sua Vida, interpenetram e sustentam o nosso Mundo.
 
+() - [1] N.R.: At 17:28
+
 Conforme exposto, a Região Etérica se estende além da atmosfera da nossa Terra densa; o Mundo do Desejo se prolonga no espaço para além da Região Etérica; e o Mundo do Pensamento se estende no espaço interplanetário ainda mais que os outros. Naturalmente os Mundos de substâncias mais rarefeitas ocupam maior espaço do que os Mundos mais densos, que se condensaram e cristalizaram.
 
 O mesmo princípio atua nos Planos Cósmicos. O mais denso deles é o sétimo (contando de cima para baixo). É representado no Diagrama como o maior de todos por ser o Plano com que estamos mais relacionados e, também, para indicar suas principais subdivisões. Contudo, na realidade ocupa menos espaço do que qualquer um dos outros Planos Cósmicos. Entretanto, apesar disso, devemos ter em mente que é incomensuravelmente vasto, para além de quanto a Mente humana possa conceber. Sua amplitude abarca milhões de Sistemas Solares semelhantes ao nosso, Campos de Evolução de muitas categorias de seres cujas condições são aproximadamente idênticas às nossas.
-
-Diagrama 6 – O Ser Supremo, os Planos Cósmicos e Deus!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Nada sabemos dos seis Planos Cósmicos superiores ao nosso. se diz que são os campos de atividade de grandes Hierarquias de Seres de indescritível esplendor.
 
@@ -1547,6 +1547,10 @@ Dessa Raiz da Existência – o Absoluto – procede o Ser Supremo, na aurora da
 
 No primeiro Capítulo de S. João, esse grande Ser é chamado Deus. Desse Ser Supremo emanou o Verbo, o Fiat Criador, “sem o qual nada do que foi feito se fez”[2]. Esse Verbo é o Filho unigênito nascido do Pai (o Ser Supremo) antes de todos os Mundos, mas positivamente não é o Cristo. Grande e glorioso como Cristo é, se elevando muito acima da mera natureza humana, Ele não é esse Exaltado Ser. Certamente o “Verbo se fez carne”[3], não no sentido limitado da carne de um Corpo, mas carne de tudo quanto existe nesse e em milhões de outros Sistemas Solares.
 
+() - [2] N.R.: Joa 1:3
+
+() - [3] N.R.: Joa 1:14
+
 O primeiro aspecto do Ser Supremo pode ser caracterizado como PODER. Desse procede o segundo aspecto, o VERBO, e de ambos procede o terceiro aspecto, o MOVIMENTO.
 
 Desse Tríplice Ser Supremo procedem os Sete Grandes Logos. Estes contêm, em si mesmos, todas as grandes Hierarquias, as quais se diferenciam mais e mais conforme vão se difundindo através dos vários Planos Cósmicos. (Veja o Diagrama 6). Há quarenta e nove Hierarquias no Segundo Plano Cósmico; no terceiro há trezentas e quarenta e três Hierarquias. Cada uma destas é, por sua vez, capaz de divisões e subdivisões setenárias. Desse modo, no Plano Cósmico inferior, em que se manifestam os Sistemas Solares, o número de divisões e subdivisões é quase infinito.
@@ -1555,19 +1559,9 @@ No Mundo mais elevado do sétimo Plano Cósmico habita o Deus do nosso Sistema S
 
 Cada um dos sete Espíritos Planetários que procedem de Deus e têm a seu cargo a evolução da vida em um dos sete Planetas, é também Tríplice e diferencia em si mesmo Hierarquias Criadoras que seguem uma evolução setenária. O processo evolutivo originado por um dos Espíritos Planetários difere dos métodos de desenvolvimento empregados pelos outros.
 
-Pode-se acrescentar que, pelo menos no particular esquema planetário ao qual pertencemos, as entidades mais evoluídas nos primeiros estágios, as que alcançaram elevado grau de perfeição em evoluções anteriores, assumem as funções do Espírito Planetário original e continuam a evolução.
-
-O Espírito Planetário original se retira de toda participação ativa, mas continua guiando os seus Regentes.
+Pode-se acrescentar que, pelo menos no particular esquema planetário ao qual pertencemos, as entidades mais evoluídas nos primeiros estágios, as que alcançaram elevado grau de perfeição em evoluções anteriores, assumem as funções do Espírito Planetário original e continuam a evolução. O Espírito Planetário original se retira de toda participação ativa, mas continua guiando os seus Regentes.
 
 Os ensinamentos que se seguem se referem a todos os Sistemas Solares, porém atendo-nos especialmente ao Sistema Solar particular a que pertencemos, o que vem a seguir o vidente suficientemente treinado pode comprovar por si mesmo mediante investigação pessoal na Memória da Natureza.
-
-[1] N.R.: At 17:28
-
-[2] N.R.: Joa 1:3
-
-[3] N.R.: Joa 1:14
-
-***************************************************************************************************************
 
 ### <h3 id="chapter-6">Capítulo VI – O Esquema de Evolução</h3>
 
@@ -1583,9 +1577,7 @@ Ele inclui em seu próprio Ser hostes de gloriosas Hierarquias, para nós, de in
 
 Durante o período de manifestação com o qual estamos relacionados, esses vários graus de seres trabalham para adquirir mais experiência do que a que possuíam no começo desse período de existência. Aqueles que, em manifestações anteriores alcançaram um grau de desenvolvimento maior, ajudam os que ainda não desenvolveram consciência alguma, lhes induzindo um estado de consciência própria a partir do qual podem estes, por si mesmos, dar prosseguimento à obra. Quanto aos que principiaram sua evolução num anterior Dia de Manifestação, mas não tinham avançado bastante quando esse Dia findou, prosseguem agora a tarefa, do mesmo modo que continuamos com o nosso trabalho, a cada manhã, a partir do ponto em que o deixamos na noite anterior.
 
-Todavia, nem todos esses diferentes Seres continuam sua evolução no início de uma nova manifestação. Alguns precisam esperar até que tenham sido criadas, pelos que os precederam, as condições necessárias ao seu progresso ulterior.
-
-Não há nenhum processo instantâneo na Natureza. Tudo se desenvolve com extraordinária lentidão. Contudo, embora lentíssimo, esse progresso é absolutamente seguro e alcançará a suprema perfeição. Tal como existem estágios progressivos na vida humana – infância, adolescência, virilidade e velhice – assim também existem no macrocosmo diferentes estágios correspondentes a diversos períodos da vida microcósmica.
+Todavia, nem todos esses diferentes Seres continuam sua evolução no início de uma nova manifestação. Alguns precisam esperar até que tenham sido criadas, pelos que os precederam, as condições necessárias ao seu progresso ulterior. Não há nenhum processo instantâneo na Natureza. Tudo se desenvolve com extraordinária lentidão. Contudo, embora lentíssimo, esse progresso é absolutamente seguro e alcançará a suprema perfeição. Tal como existem estágios progressivos na vida humana – infância, adolescência, virilidade e velhice – assim também existem no macrocosmo diferentes estágios correspondentes a diversos períodos da vida microcósmica.
 
 Uma criança não pode tomar a cargo os deveres da paternidade ou da maternidade. Suas pouco desenvolvidas condições físicas e mentais incapacitam-na para tal mister. O mesmo acontece com os seres menos desenvolvidos no princípio de manifestação. Precisam esperar até que os mais evoluídos criem para eles as condições apropriadas. Quanto menor o grau de inteligência de um ser que está evoluindo tanto maior a dependência de ajuda externa.
 
@@ -1597,9 +1589,9 @@ O período dedicado à aquisição de consciência do “Eu” e à construção
 
 O período subsequente de existência, durante a qual o ser humano individual desenvolve consciência própria até convertê-la em divina onisciência, é chamada “Evolução”.
 
-A força interna do ser que está evoluindo faz com que a evolução seja o que é: não apenas um mero desenvolvimento de possibilidades germinais latentes; ela faz com que a evolução de cada indivíduo difira da de qualquer outro; ela provê o elemento de originalidade e dá lugar à habilidade criadora que o ser, que esteja evoluindo, cultive para que possa se tornar um Deus. Essa força é chamada “Gênio” e, conforme já exposto, sua manifestação é a “Epigênese”. Muitas das filosofias avançadas dos tempos modernos reconhecem a involução e a evolução. A ciência só reconhece a última porque se dedica unicamente à Forma, a sua manifestação. A involução pertence à Vida. Os cientistas mais avançados, porém, consideram a Epigênese fato demonstrável. O Conceito Rosacruz do Cosmos combina as três, necessárias que são para se compreender plenamente o desenvolvimento passado, presente e futuro do Sistema a que pertencemos.
+A força interna do ser que está evoluindo faz com que a evolução seja o que é: não apenas um mero desenvolvimento de possibilidades germinais latentes; ela faz com que a evolução de cada indivíduo difira da de qualquer outro; ela provê o elemento de originalidade e dá lugar à habilidade criadora que o ser, que esteja evoluindo, cultive para que possa se tornar um Deus. Essa força é chamada “Gênio” e, conforme já exposto, sua manifestação é a “Epigênese”. 
 
-*******
+Muitas das filosofias avançadas dos tempos modernos reconhecem a involução e a evolução. A ciência só reconhece a última porque se dedica unicamente à Forma, a sua manifestação. A involução pertence à Vida. Os cientistas mais avançados, porém, consideram a Epigênese fato demonstrável. O Conceito Rosacruz do Cosmos combina as três, necessárias que são para se compreender plenamente o desenvolvimento passado, presente e futuro do Sistema a que pertencemos.
 
 #### <h4 id="the-seven-worlds">Os Sete Mundos</h4>
 
@@ -1623,8 +1615,6 @@ Os Mundos superiores são criados em primeiro lugar, e como a involução objeti
 
 Os Mundos superiores (mais sutis, mais etéreos, mais próximos da perfeição) são os primeiros a serem criados e os últimos a serem eliminados, enquanto os três Mundos mais densos em que se efetua nossa atual fase evolutiva são, comparativamente falando, fenômenos fugazes, inerentes à imersão do Espírito na matéria.
 
-*******
-
 #### <h4 id="the-seven-periods">Os Sete Períodos</h4>
 
 O esquema evolutivo é realizado através desses cinco Mundos em sete grandes Períodos de Manifestação, durante os quais o Espírito Virginal, ou vida que está evoluindo, se converte primeiramente em um ser humano, depois em um Deus.
@@ -1643,19 +1633,13 @@ Um dia, quando tenha terminado seu trabalho da Região Química, seu próximo pa
 
 Na terminologia Rosacruz os nomes dos sete Períodos são os seguintes:
 
-1. Período de Saturno
-
-2. Período Solar
-
-3. Período Lunar
-
-4. Período Terrestre
-
-5. Período de Júpiter
-
-6. Período de Vênus
-
-7. Período de Vulcano
+1\. Período de Saturno
+2\. Período Solar
+3\. Período Lunar
+4\. Período Terrestre
+5\. Período de Júpiter
+6\. Período de Vênus
+7\. Período de Vulcano
 
 Estes Períodos são Renascimentos sucessivos da nossa Terra
 
@@ -1667,7 +1651,9 @@ Os três Períodos e meio já passados foram empregados na aquisição dos nosso
 
 A peregrinação dos Espíritos Virginais desde a inconsciência até a onisciência, convertendo suas possibilidades latentes em energia cinética, é um processo de maravilhosa complexidade, de modo que, somente um esboço rudimentar pode ser dado aqui. Todavia, conforme progredirmos em nosso estudo, iremos acrescentando maiores detalhes, até que a descrição seja tão completa quanto o autor for capaz de fazê-la. Chamamos a atenção do Estudante para as definições dos termos empregados, pedimos que as fixe bem porque estamos apresentando ideias novas. E rogamos também que se familiarize com estas ideias, já que nossa intenção é simplificar o assunto, empregando nomes ou palavras simples e familiares para designar a mesma ideia em toda a obra. Os nomes descreverão tanto quanto possível estritamente a ideia encerrada, esperando assim poder evitar muitas das confusões que as múltiplas terminologias têm produzido. Dedicando estrita atenção à definição dos termos não será muito difícil, mesmo às pessoas de mediana inteligência, conhecer ao menos em linhas gerais o Esquema de Evolução.
 
-Que tal conhecimento é da maior importância cremos que qualquer indivíduo inteligente pode admitir. Esse Mundo em que vivemos é governado por Leis da Natureza. Sob essas leis devemos viver e trabalhar, e somos impotentes para modificá-las. Por conseguinte, se as conhecermos bem e cooperarmos inteligentemente com elas, essas Forças da Natureza se tornarão nossas servidoras mais valiosas, como acontece, por exemplo, com a eletricidade ou a força expansiva do vapor. Se, pelo contrário, não as compreendermos, e em nossa ignorância agirmos contrariamente a elas, essas podem se converter nas mais perigosas inimigas nossas, capazes de destruições terríveis. Assim sendo, quanto mais conhecermos com os métodos de trabalho da natureza, que nada mais é do que o símbolo visível do Deus invisível, tanto mais seremos capazes em aproveitar as oportunidades que se oferecem para o crescimento e poder; para a emancipação das limitações e para a elevação ao entendimento completo de tudo.
+Que tal conhecimento é da maior importância cremos que qualquer indivíduo inteligente pode admitir. Esse Mundo em que vivemos é governado por Leis da Natureza. Sob essas leis devemos viver e trabalhar, e somos impotentes para modificá-las. Por conseguinte, se as conhecermos bem e cooperarmos inteligentemente com elas, essas Forças da Natureza se tornarão nossas servidoras mais valiosas, como acontece, por exemplo, com a eletricidade ou a força expansiva do vapor. Se, pelo contrário, não as compreendermos, e em nossa ignorância agirmos contrariamente a elas, essas podem se converter nas mais perigosas inimigas nossas, capazes de destruições terríveis. 
+
+Assim sendo, quanto mais conhecermos com os métodos de trabalho da natureza, que nada mais é do que o símbolo visível do Deus invisível, tanto mais seremos capazes em aproveitar as oportunidades que se oferecem para o crescimento e poder; para a emancipação das limitações e para a elevação ao entendimento completo de tudo.
 
 ### <h3 id="chapter-7">Capítulo VII – O Caminho de Evolução</h3>
 
@@ -1677,8 +1663,6 @@ Não será demais fazer aqui uma recomendação relativa aos diagramas empregado
 
 O Período de Saturno é o primeiro dos sete Períodos. Nesse primeiro estágio os Espíritos Virginais dão o primeiro passo na evolução da Consciência e da Forma. Conforme mostra o Diagrama 7, esse impulso evolutivo dá sete voltas ao redor dos sete Globos, A, B, C, D, E, F e G, na direção indicada pelas setas.
 
-Diagrama 7 – O Período de Saturno!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 Primeiramente uma parte da evolução se realiza no Globo A, situado no Mundo do Espírito Divino, o mais sutil dos cinco Mundos que formam o nosso Campo de Evolução. Então, gradualmente, a vida que está evoluindo é transferida ao Globo B, que se situa no Mundo do Espírito de Vida, algo mais denso, onde ela passa por outro estágio evolutivo. No devido tempo, a vida que está evoluindo está pronta para entrar na arena do Globo C, composto da substância ainda mais densa da Região do Pensamento Abstrato, onde está situado. Depois de aprender as lições correspondentes a esse estado de existência, a Onda de Vida segue até o Globo D, formado da substância da Região do Pensamento Concreto, onde também está situado. Esse é o grau mais denso de matéria alcançado pela Onda de Vida durante o Período de Saturno.
 
 Desse ponto a Onda de Vida é levada para cima novamente, ao Globo E, situado na Região do Pensamento Abstrato tal como o Globo C, embora as condições não sejam as mesmas. Esse é o estágio involucionário de modo que a substância dos Mundos se faz cada vez mais densa. Ao longo do tempo tudo tende a se fazer cada vez mais denso e mais sólido. Entretanto, como o caminho evolutivo é uma espiral, é claro que, ainda que se passe pelos mesmos pontos, nunca mais se apresentam as mesmas condições, mas outras em plano superior e mais avançado.
@@ -1686,8 +1670,6 @@ Desse ponto a Onda de Vida é levada para cima novamente, ao Globo E, situado na
 Completado o trabalho no Globo E, se efetua o passo seguinte para o Globo F, situado no Mundo do Espírito de Vida como o Globo B, dali subindo ao Globo G. Quando se efetuou esse trabalho, a Onda de Vida deu uma volta em torno dos sete Globos; uma vez para baixo e outra para cima, através dos quatro Mundos, respectivamente. Esta jornada da Onda de Vida se denomina uma Revolução, e sete Revoluções formam um Período. Durante um Período a Onda de Vida dá sete voltas descendo e subindo através de quatro Mundos.
 
 Quando a Onda de Vida deu sete voltas em torno dos sete Globos, completando as sete Revoluções, terminou o primeiro Dia da Criação. Seguiu-se uma Noite Cósmica de repouso e assimilação, depois da qual teve início o Período Solar.
-
-Diagrama 8 – Os 7 Mundos, os 7 Globos e os 7 Períodos!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Como a noite de sono entre dois dias da vida humana e o intervalo de repouso entre duas vidas terrestres, esta Noite Cósmica, de repouso, depois de completado o Período de Saturno, não foi um tempo de inatividade, mas uma fase de preparação para a atividade a ser desenvolvida no próximo Período Solar, em que o ser humano em formação precisava submergir mais profundamente na matéria. Portanto, se fizeram necessários novos Globos, cujas posições nos sete Mundos tinham que ser diferentes das ocupadas pelos Mundos do Período de Saturno. A preparação desses Globos novos e as demais atividades subjetivas estiveram a cargo dos espíritos que estão evoluindo durante o intervalo entre os Períodos – a Noite Cósmica. Como isso se processa podemos ver a seguir:
 
@@ -1715,8 +1697,6 @@ Quando a Onda de Vida completar sua obra no Período Terrestre e a Noite Cósmic
 
 Outras evoluções maiores seguir-se-ão, mas só podemos tratar dos sete Períodos mencionados.
 
-***************************************************************************************************************
-
 ### <h3 id="chapter-8">Capítulo VIII – A Obra de Evolução</h3>
 
 #### <h4 id="ariadnes-thread">O Fio de Ariadne</h4>
@@ -1733,19 +1713,17 @@ O que foi dito anteriormente é a chave para a compreensão do que segue.
 
 A perfeita compreensão do Esquema de Evolução planetária bosquejado nas páginas precedentes é de imenso valor para o Estudante. Ainda que alguns crentes nas Leis de Consequência e Renascimento julguem que a posse de tais conhecimentos não é essencial e seja até de pouca utilidade, todavia eles são da maior importância para quem estuda seriamente essas duas Leis. Exercita a Mente em pensamentos abstratos e eleva-a acima das coisas sórdidas da existência concreta, ajudando a imaginação a se alçar sobre as traiçoeiras malhas do interesse próprio. Como já indicado no estudo do Mundo do Desejo, o Interesse é a mola da ação, se bem que no presente grau de desenvolvimento o Interesse é geralmente despertado pelo egoísmo. Algumas vezes é de natureza mui sutil, mas incita à ação de várias maneiras. Toda ação inspirada pelo Interesse gera certos efeitos que atuam sobre nós e, em consequência, estamos limitados pelas ações que se relacionam com os Mundos concretos. Entretanto, se ocuparmos as nossas Mentes com assuntos tais como a matemática, ou com esse estudo das fases planetárias da evolução, nós estamos laborando na Região do Pensamento puramente Abstrato, que fica além da influência do Sentimento, se dirigindo para o alto, rumo aos Reinos espirituais e à libertação. Extrair raízes cúbicas, multiplicar algarismos, ou meditar sobre Períodos, Revoluções, etc., não gera Sentimentos a tal respeito. Não brigamos para que duas vezes dois sejam quatro. Se envolvêssemos nisso os nossos sentimentos, talvez pretendêssemos que o produto fosse cinco, e questionaríamos com quem, por razões pessoais, quisesse talvez que fosse três. Contudo, em matemática a Verdade é clara, aparente, e o sentimento está eliminado. Por isso, ao comum dos seres humanos, desejosos de viver seus sentimentos, a matemática é árida e sem interesse. Pitágoras ensinava aos seus discípulos que vivessem no Mundo do Espírito Eterno, e exigia primeiramente dos que desejavam instrução, o estudo da matemática. Uma Mente capaz de compreender a matemática se coloca acima da mentalidade comum, e é capaz de se elevar ao Mundo do Espírito, porque não está presa ao Mundo do sentimento e do desejo[1]. Quanto mais nos acostumamos a pensar em termos dos Mundos Espirituais, tanto mais facilmente poderemos sobrepor-nos às ilusões que nos rodeiam nesta existência concreta, onde os sentimentos gêmeos de Interesse e Indiferença obscurecem a Verdade e nos sugestionam, assim como a refração de luz dos raios luminosos através da atmosfera da Terra nos dá uma ideia errônea sobre a posição ocupada pelo luminar que os emite.
 
+() - [1] N.T.: ou Mundo do Desejo
+
 Portanto, o Estudante que deseja conhecer a Verdade; que almeja penetrar e investigar os Reinos do Espírito; que anela se libertar das preocupações da carne tão rapidamente quanto seja possível fazê-lo com segurança e para o seu próprio crescimento, deve estudar o que segue com o máximo cuidado, a fim de assimilar e fixar bem as concepções mentais desses Mundos, Globos e Períodos. Se deseja progredir nesse caminho, o estudo da matemática e “A Quarta Dimensão” de Hinton[2] são, também, admiráveis exercícios de pensamento abstrato. Essa obra de Hinton (ainda que basicamente incorreta, visto que o Mundo do Desejo, de quatro dimensões, não pode realmente ser determinado por métodos tridimensionais) tem aberto os olhos de muitas pessoas que a tem estudado, levando-as à Clarividência. Além disso, recordando que a lógica é o melhor mestre em qualquer Mundo, certamente o indivíduo que consiga entrar nos Mundos suprafísicos por meio de tais estudos, por meio do pensamento abstrato, não ficará confuso, mas, antes, poderá permanecer em perfeito domínio próprio sob quaisquer circunstâncias.
+
+() - [2] N.R.: Charles Howard Hinton (1853-1907) – matemático e escritor de ficção científica britânico.
 
 Um estupendo esquema está aqui desenvolvido e, à medida que se lhe acrescentem mais e mais detalhes, sua complexidade far-se-á quase inconcebível. Quem for capaz de compreendê-lo será bem recompensado, por maior que seja o esforço feito. Portanto, o Estudante deverá ler lentamente, repetir a leitura com frequência, meditar muito e profundamente.
 
 Esse livro, especialmente esse capítulo, não pode ser lido de maneira casual. Cada sentença tem seu valor e é o sustentáculo de tudo o que se segue, ao mesmo tempo em que pressupõe o conhecimento do que antecede. Se o livro não for estudado profunda e sistematicamente, se tornar-se-á a cada página mais incompreensível e confuso. Por outro lado, se ao longo da leitura se estuda e se medita bem, cada página será iluminada pelo acréscimo do conhecimento adquirido no estudo das precedentes.
 
 Nenhuma obra desta classe, que trate dos aspectos mais profundos do Grande Mistério do Mundo e dirigida à compreensão da Mente humana em seu atual estado de desenvolvimento, pode ser escrita de maneira a ser assimilada numa ligeira leitura. Contudo, as fases mais profundas que possamos compreender no momento nada mais são do que o “abc” do esquema, o que nos será revelado quando nossas Mentes forem capazes de melhor compreender em posteriores estados de desenvolvimento, como super-homens.
-
-[1] N.T.: ou Mundo do Desejo
-
-[2] N.R.: Charles Howard Hinton (1853-1907) – matemático e escritor de ficção científica britânico.
-
-*******
 
 #### <h4 id="the-saturn-period">O Período de Saturno</h4>
 
@@ -1763,6 +1741,8 @@ Esses Senhores da Chama estavam fora do escuro Globo de Saturno. Emitindo de seu
 
 Entretanto, por repetidos esforços durante a primeira Revolução, os Senhores da Chama conseguiram implantar na vida que está evoluindo o germe do nosso atual Corpo físico[1]. Esse germe se expandiu um tanto durante o resto das seis primeiras Revoluções, obtendo a capacidade de desenvolver os órgãos dos sentidos, especialmente o ouvido. Portanto, o ouvido é o órgão mais altamente desenvolvido que possuímos. É o instrumento que conduz à consciência, com maior exatidão, todas as impressões que recebe do exterior. Está menos sujeito às ilusões do Mundo Físico do que qualquer outro órgão sensorial.
 
+() - [1] N.R.: que é o Corpo Denso
+
 A consciência da vida que estava evoluindo nesse Período era semelhante à do mineral atual – um estado de inconsciência análogo ao dos médiuns no transe mais profundo – se bem que, durante as primeiras seis Revoluções, a vida que estava evoluindo trabalhasse no germe do Corpo Denso sob a direção e com ajuda das diferentes Hierarquias Criadoras. Na metade da sétima Revolução os Senhores da Chama, que estiveram inativos desde o momento em que proporcionaram o germe do Corpo Denso na primeira Revolução, se tornaram novamente ativos, desta vez com o objetivo de despertar no ser humano o princípio espiritual mais elevado. Assim, despertaram a atividade inicial do Espírito Divino no ser humano.
 
 Portanto o ser humano deve o mais elevado e o mais inferior dos seus veículos – o Espírito Divino e o Corpo Denso – à evolução do Período de Saturno. Os Senhores da Chama prestaram a essa manifestação auxílio voluntário, sem que nada os obrigasse a fazê-lo.
@@ -1773,11 +1753,9 @@ Assim, a obra dos Senhores da Chama, com objetivo de despertar a consciência ge
 
 Reafirmamos que uma Noite Cósmica não deve ser considerada um período de inatividade. Não é uma existência inerte, conforme vimos no caso de um indivíduo desde sua morte até o novo nascimento. O mesmo acontece na grande morte de todos os Globos de um Período: há uma cessação da manifestação ativa, a fim de que se possa desenvolver proporcionalmente uma atividade subjetiva e mais intensa.
 
-Talvez a melhor ideia da natureza dessa atividade subjetiva, nos seja proporcionada pela observação do que ocorre quando uma fruta madura é enterrada. Fermenta e desintegra-se, mas de todo esse caos brota a nova planta, que se eleva para o ar e para a luz do Sol. Assim também, ao fim de um Período, tudo se resume num conglomerado Caos aparentemente impossível de ser ordenado. Contudo, no devido tempo, se formam os Globos de um novo Período, que se convertem em Mundos habitáveis pelo ser humano. Depois a vida que está evoluindo se transfere dos cinco Globos escuros, nos quais atravessa a Noite Cósmica, para começar as atividades em um novo dia criador, em ambiente modificado, preparado e exteriorizado durante as atividades na Noite Cósmica. Assim como as forças produzidas pela fermentação da fruta estimulam a semente e fertilizam a terra em que ela cresce, assim também os Senhores da Chama estimularam o germe do Espírito Divino, especialmente durante a Noite Cósmica entre os Períodos de Saturno e Solar, continuando suas atividades até a metade da primeira Revolução do Período Solar.
+Talvez a melhor ideia da natureza dessa atividade subjetiva, nos seja proporcionada pela observação do que ocorre quando uma fruta madura é enterrada. 
 
-[1] N.R.: que é o Corpo Denso
-
-*******
+Fermenta e desintegra-se, mas de todo esse caos brota a nova planta, que se eleva para o ar e para a luz do Sol. Assim também, ao fim de um Período, tudo se resume num conglomerado Caos aparentemente impossível de ser ordenado. Contudo, no devido tempo, se formam os Globos de um novo Período, que se convertem em Mundos habitáveis pelo ser humano. Depois a vida que está evoluindo se transfere dos cinco Globos escuros, nos quais atravessa a Noite Cósmica, para começar as atividades em um novo dia criador, em ambiente modificado, preparado e exteriorizado durante as atividades na Noite Cósmica. Assim como as forças produzidas pela fermentação da fruta estimulam a semente e fertilizam a terra em que ela cresce, assim também os Senhores da Chama estimularam o germe do Espírito Divino, especialmente durante a Noite Cósmica entre os Períodos de Saturno e Solar, continuando suas atividades até a metade da primeira Revolução do Período Solar.
 
 #### <h4 id="recapitulation">Recapitulação</h4>
 
@@ -1794,8 +1772,6 @@ A atividade própria do Período só começa quando termina o trabalho de Recapi
 No último dos sete Períodos – o Período de Vulcano – somente a última Revolução será dedicada à obra real desse Período. Nas seis Revoluções anteriores será recapitulado o trabalho efetuado nos seis Períodos precedentes.
 
 Além disso, (e isto ajudará a memória do Estudante de modo especial) a Revolução de Saturno em qualquer Período se refere sempre ao desenvolvimento de alguma nova parte do Corpo Denso, por ter esse começado seu desenvolvimento numa primeira Revolução. Também qualquer sétima Revolução, ou Revolução de Vulcano, desenvolve especialmente alguma atividade relacionada com o Espírito Divino, porque o seu desenvolvimento se iniciou numa sétima Revolução. De igual modo veremos que há uma relação entre as diferentes Revoluções e todos os veículos humanos.
-
-*******
 
 #### <h4 id="the-sun-period">O Período Solar</h4>
 
@@ -1830,8 +1806,6 @@ No Período de Saturno o ser humano em formação atravessou a existência num e
 Da mesma maneira, e por análogas razões, se pode dizer que no Período Solar o ser humano atravessou a existência vegetal. Tinha um Corpo Denso e um Corpo Vital, identicamente às plantas. Sua consciência, como a destas, era a de sono sem sonhos. O Estudante compreenderá plenamente esta analogia estudando o Diagrama 4, no Capítulo intitulado “Os Quatro Reinos”. Nele se mostram, esquematicamente, os veículos de consciência que possuem os minerais, as plantas, os animais e o ser humano, e a consciência particular que resulta de sua posse em cada caso.
 
 Quando terminou o Período Solar houve outra Noite Cósmica de assimilação, juntamente com a atividade subjetiva necessária, antes de se iniciar o Período Lunar. Foi de igual duração à do Período de manifestação objetiva que a precedeu.
-
-*******
 
 #### <h4 id="the-moon-period">O Período Lunar</h4>
 
@@ -1891,19 +1865,19 @@ Outra Hierarquia Criadora cuidou especialmente dos três germes dos Corpos: Dens
 
 Havia doze grandes Hierarquias Criadoras ativas no trabalho da evolução ao princípio do Período de Saturno. Duas dessas Hierarquias executaram, no início, alguns trabalhos. Não há informação sobre o que fizeram nem se fala coisa alguma sobre elas, salvo que agiram livre e voluntariamente, se retirando depois da existência limitada para a libertação.
 
-Mais três Hierarquias Criadoras seguiram-nas no princípio do Período Terrestre: os Senhores da Chama, os Querubins e os Serafins, permanecendo sete Hierarquias em serviço ativo, quando começou o Período Terrestre. O Diagrama 9 dá uma ideia clara das doze Hierarquias Criadoras e de seus estados.
+Mais três Hierarquias Criadoras seguiram-nas no princípio do Período Terrestre: os Senhores da Chama, os Querubins e os Serafins, permanecendo sete Hierarquias em serviço ativo, quando começou o Período Terrestre. 
 
-Diagrama 9 – As Doze Hierarquias Criadoras!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+O Diagrama 9 dá uma ideia clara das doze Hierarquias Criadoras e de seus estados.
 
 Os Senhores da Mente se tornaram peritos na construção de Corpos de “matéria mental”, assim como nós estamos nos especializando na construção de Corpos de matéria química, e por uma razão similar: a Região do Pensamento Concreto era a mais densa condição de matéria alcançada no Período de Saturno, quando eles eram “humanos”, assim como a Região Química é o estado mais denso alcançado pela nossa Humanidade.
 
 No Período Terrestre os Senhores da Mente alcançaram o estado Criador e emitiram de si, dentro do nosso ser, o núcleo do material com o qual estamos procurando agora construir uma Mente organizada. “Poderes das Trevas” foi o nome que lhes deu S. Paulo[1], por terem surgido do escuro Período de Saturno. São considerados maus devido à tendência separatista, pertinente ao plano da razão, em contraste com a força unificadora do Mundo do Espírito de Vida, o Reino do Amor. Os Senhores da Mente trabalham com a Humanidade. Não atuam nos três Reinos inferiores.
 
-Os Arcanjos se tornaram peritos na construção de um Corpo de matéria de desejos, a mais densa do Período Solar. Portanto, são capazes de ensinar seres menos evoluídos, como o ser humano e o animal, ensinando-os a modelar e se utilizar do Corpo de Desejos. Os Anjos são perfeitamente aptos a construir o Corpo Vital porque no Período Lunar, quando eram humanos, o Éter era o estado mais denso da matéria. Esta capacidade habilita-os a serem Líderes apropriados do ser humano, dos animais e dos vegetais, relativamente às funções vitais de propagação, nutrição, etc.
+() - [1] N.R.: Col 1:13
 
-[1] N.R.: Col 1:13
+Os Arcanjos se tornaram peritos na construção de um Corpo de matéria de desejos, a mais densa do Período Solar. Portanto, são capazes de ensinar seres menos evoluídos, como o ser humano e o animal, ensinando-os a modelar e se utilizar do Corpo de Desejos. 
 
-***************************************************************************************************************
+Os Anjos são perfeitamente aptos a construir o Corpo Vital porque no Período Lunar, quando eram humanos, o Éter era o estado mais denso da matéria. Esta capacidade habilita-os a serem Líderes apropriados do ser humano, dos animais e dos vegetais, relativamente às funções vitais de propagação, nutrição, etc.
 
 ### <h3 id="chapter-9">Capítulo IX – Atrasados e Recém‑Chegados</h3>
 
@@ -1916,6 +1890,8 @@ Nas escolas, todos os anos, alguns alunos não conseguem alcançar a média nece
 Já no Período de Saturno houve alguns que falharam em alcançar o desenvolvimento suficiente para mais um passo. Naquele estágio os Seres Superiores trabalharam com a vida que era inconsciente de si mesma, mas essa inconsciência não impedia o retardamento de alguns dos Espíritos Virginais menos flexíveis, menos adaptáveis que os demais.
 
 Nessa única palavra: “Adaptabilidade”, temos o grande segredo do atraso ou do progresso. Todo adiantamento depende da flexibilidade e adaptabilidade do ser que está evoluindo, de ser capaz de se acomodar, por si, a novas condições ou estacionar e se cristalizar, se tornando incapaz de toda transformação. A adaptação é a qualidade que faz progredir, esteja a entidade num grau superior ou inferior de evolução. A falta de adaptação é a causa do atraso para o espírito e de retrocesso para a forma. Isso se aplica ao passado, ao presente e ao futuro, e a qualificação ou desqualificação é feita exata e impessoalmente, com toda justiça, pela Lei de Consequência. Nunca houve nem haverá uma distinção arbitrária entre as “ovelhas” e as “cabras”[1].
+
+() - [1] N.R.: Mt 25:31-46
 
 A endurecida receptividade, em alguns dos seres de Saturno, impediu o despertar do Espírito Divino, do que resultou permanecerem como simples minerais, pois só tinham o Corpo Denso, em germe.
 
@@ -1935,19 +1911,21 @@ Na sétima Revolução do Período Solar, os Senhores da Chama reapareceram para
 
 No princípio do Período Lunar existiam as seguintes classes:
 
-1. Os Pioneiros que passaram com êxito através dos Períodos de Saturno e Solar. Tinham os Corpos Vital e Denso, Espíritos de Vida e Divino, germinalmente ativos.
+1\. Os Pioneiros que passaram com êxito através dos Períodos de Saturno e Solar. Tinham os Corpos Vital e Denso, Espíritos de Vida e Divino, germinalmente ativos.
 
-2. Os Atrasados do Período Solar que tinham Corpos Denso e Vital e, também, Espírito Divino, todos germinais.
+2\. Os Atrasados do Período Solar que tinham Corpos Denso e Vital e, também, Espírito Divino, todos germinais.
 
-3. Os Atrasados do Período de Saturno que tinham sido promovidos na sétima Revolução do Período Solar. Possuíam os germes do Corpo Denso e do Espírito Divino.
+3\. Os Atrasados do Período de Saturno que tinham sido promovidos na sétima Revolução do Período Solar. Possuíam os germes do Corpo Denso e do Espírito Divino.
 
-4. Os Pioneiros da nova Onda de Vida Solar que tinham os mesmos veículos que os da classe 3, mas pertenciam a um Esquema de Evolução diferente do nosso.
+4\. Os Pioneiros da nova Onda de Vida Solar que tinham os mesmos veículos que os da classe 3, mas pertenciam a um Esquema de Evolução diferente do nosso.
 
-5. Os Atrasados da nova Onda de Vida Solar que tinham somente o germe do Corpo Denso.
+5\. Os Atrasados da nova Onda de Vida Solar que tinham somente o germe do Corpo Denso.
 
-6. Uma nova Onda de Vida que começou sua evolução ao princípio do Período Lunar e é a vida que anima atualmente as nossas plantas.
+6\. Uma nova Onda de Vida que começou sua evolução ao princípio do Período Lunar e é a vida que anima atualmente as nossas plantas.
 
 É bom recordar que a Natureza caminha muito devagar, não muda as formas subitamente. Para ela o tempo nada significa, o seu único objetivo é alcançar a perfeição. O mineral não chega ao estado vegetal de um salto, mas por gradações quase imperceptíveis. Uma planta não se converte em animal em uma noite. Milhões de anos são necessários para produzir a mudança. Em todos os tempos poderemos encontrar toda classe de estados e gradações na Natureza. A escala do ser eleva-se, sem descontinuidade, desde o protoplasma[2] até Deus.
+
+() - [2] N.R.: É um sistema físico-químico de natureza coloidal e pode passar facilmente do estado sólido ao líquido. Os principais constituintes químicos do protoplasma são as proteínas (ácidos aminados, polipeptídios, etc.), os carboidratos, os lipídios, as substâncias minerais e a água.
 
 Não vamos considerar seis Reinos diferentes por corresponderem às seis classes que entraram na arena da evolução ao princípio do Período Lunar. Trataremos somente de três Reinos: o Mineral, o Vegetal e o Animal.
 
@@ -1959,6 +1937,8 @@ A classe 5 da nossa lista era mineral, mas por ter passado além do mineral dura
 
 A classe 4 era quase vegetal, evoluía para planta antes do término do Período Lunar. Todavia, pertencia mais ao Reino Mineral que as duas classes imediatas, que formavam o Reino superior. Podemos agrupar as classes 4 e 5 e formar um Reino de grau intermediário, um Reino “vegetal-mineral”, constituinte da superfície do antigo Planeta do Período Lunar. Era algo semelhante à turfa[3], um estado intermediário entre o vegetal e o mineral, e muito úmido o que concorda com a afirmação já feita de que o Período Lunar era aquoso.
 
+() - [3] N.R.: é um material de origem vegetal, parcialmente decomposto, encontrado em camadas, geralmente em regiões pantanosas e, também, sob montanhas (turfa de altitude). É formada principalmente por Sphagnum (esfagno, grupo de musgos) e Hypnum, mas também de juncos, árvores, etc. Sob condições geológicas adequadas, se transformam em carvão, através de emanações de metano vindo das profundezas e da preservação em ambiente anóxico. Por ser inflamável, é utilizada como combustível para aquecimento doméstico.
+
 Assim, as classes sexta, quinta e quarta formavam as diversas gradações do Reino Mineral no Período Lunar, estando a mais elevada próxima do vegetal e a inferior da substância mineral mais densa daquele tempo.
 
 As classes terceira e segunda formavam o Reino Vegetal. Elas eram, realmente, algo mais do que plantas, mas não eram de todo animais. Cresciam sobre o solo mineral-vegetal e eram estacionárias como as plantas. Não teriam podido crescer nem se desenvolver sobre terreno puramente mineral, como fazem nossas plantas atuais. Podemos encontrar uma boa semelhança nas plantas parasitas: não podendo se desenvolver sobre um terreno puramente mineral procuram o alimento já especializado por um arbusto ou árvore.
@@ -1966,8 +1946,6 @@ As classes terceira e segunda formavam o Reino Vegetal. Elas eram, realmente, al
 A classe primeira era composta pelos pioneiros da Onda de Vida dos Espíritos Virginais. No Período Lunar passaram uma existência análoga à do animal. Assemelhavam-se aos animais dos nossos tempos por terem os mesmos veículos e por estarem sob a direção de um Espírito-Grupo, que abrangia toda a família humana. Sua aparência era muito diferente da dos animais atuais, conforme se viu pela descrição parcialmente dada no capítulo anterior. Não pousavam na superfície do Planeta, flutuavam suspensos por uma espécie de cordões umbilicais. Em vez de pulmões tinham brânquias e por elas respiravam o vapor quente da neblina ígnea. Tais condições de existência lunar ainda são recapituladas na atualidade, durante o período de gestação. Em certa altura do desenvolvimento, o embrião possui brânquias. Os seres lunares desse tempo tinham, como os animais, a espinha dorsal horizontal.
 
 Durante o Período Lunar se subdividiram diversas classes, mais do que nos períodos precedentes, porque, como é de supor, houve também atrasados, fracassados, os que não puderam se manter na vanguarda da onda evolutiva. Resultado: ao principiar o Período Terrestre havia cinco classes, contendo algumas delas várias divisões, como mostra o Diagrama 10. Essas divisões se sucederam nas seguintes épocas e pelas razões expostas.
-
-Diagrama 10 – Classes no início do Período Terrestre [4]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Em meados da quinta Revolução do Período Lunar, os Serafins forneceram o germe do Espírito Humano aos que se adaptaram para seguir avante, os pioneiros. Alguns não puderam receber o impulso espiritual que despertasse neles o Tríplice Espírito.
 
@@ -1993,24 +1971,6 @@ Durante o tempo transcorrido desde o princípio do Período Terrestre, o Reino H
 
 Foi assim que as diferentes classes adquiriram os veículos indicados no Diagrama 3, ao qual remetemos novamente o leitor.
 
-[1] N.R.: Mt 25:31-46
-
-[2] N.R.: É um sistema físico-químico de natureza coloidal e pode passar facilmente do estado sólido ao líquido. Os principais constituintes químicos do protoplasma são as proteínas (ácidos aminados, polipeptídios, etc.), os carboidratos, os lipídios, as substâncias minerais e a água.
-
-[3] N.R.: é um material de origem vegetal, parcialmente decomposto, encontrado em camadas, geralmente em regiões pantanosas e, também, sob montanhas (turfa de altitude). É formada principalmente por Sphagnum (esfagno, grupo de musgos) e Hypnum, mas também de juncos, árvores, etc. Sob condições geológicas adequadas, se transformam em carvão, através de emanações de metano vindo das profundezas e da preservação em ambiente anóxico. Por ser inflamável, é utilizada como combustível para aquecimento doméstico.
-
-[4]
-
-N.T.: Antropoides aqui se refere aos antropoides superiores ou primatas superiores (não possuem caudas): Orangotango, Gorila, Chimpanzé e Bonobo.
-
-Árvores e Arbustos de Folhas Perenes são plantas que vive mais de dois anos. O termo é frequentemente usado para diferenciar uma planta de plantas anuais e bienais de vida mais curta. O termo também é amplamente utilizado para distinguir plantas com pouco ou nenhum crescimento lenhoso (crescimento secundário na circunferência) de árvores e arbustos, que também são tecnicamente perenes. Notavelmente, estima-se que 94% das espécies de plantas se enquadram na categoria de plantas perenes, ressaltando a prevalência de plantas com expectativa de vida superior a dois anos no mundo botânico.
-
-Gramíneas, Relva e Ervas é um membro de uma grande família (Gramineae ou Poaceae) de plantas monocotiledôneas com folhas estreitas, caules ocos e cachos de flores muito pequenas, geralmente polinizadas pelo vento. As gramíneas incluem muitas variedades de plantas cultivadas para alimentação, forragem e cobertura do solo.
-
-Solos macios é um tipo especial de solo subconsolidado (p.exe, como o amplamente distribuído nas áreas costeiras da China) e possui características de alto teor de água, baixa resistência e grande deformação; geralmente não é adequado para uso em engenharia de construção. Estão incluídos aqui a argilas normalmente consolidadas ou ligeiramente superconsolidadas, argilas siltosas, siltes argilosos e turfas.
-
-**************************************************************************************************************
-
 ### <h3 id="chapter-10">Capítulo X – O Período Terrestre</h3>
 
 Os Globos do Período Terrestre estão situados nos quatro estados mais densos de matéria: a Região do Pensamento Concreto, o Mundo do Desejo e as Regiões Química e Etérica do Mundo Físico (veja o Diagrama 8). O Globo mais denso, o D, é nossa Terra atual.
@@ -2027,9 +1987,7 @@ Alguns dos minerais-vegetais avançaram completamente para o Reino Vegetal e for
 
 Os da classe 2, cujos Corpos de Desejos estavam em condições de serem divididos em duas partes (nesse caso, todos os da classe 1) e que podiam atuar em veículos humanos, avançaram para o grupo humano.
 
-Convém reparar cuidadosamente que, nos parágrafos anteriores, se faz referência às formas, não à vida, que anima as formas. O instrumento está graduado para servir à vida que o anima.
-
-Os da classe 2, em quem se podia efetuar a divisão mencionada, se elevaram ao Reino Humano, mas o Espírito interno lhes foi dado um pouco mais tarde do que aos da classe 1. Por consequência, não estão tão desenvolvidos como os da classe 1, e formam as Raças humanas inferiores.
+Convém reparar cuidadosamente que, nos parágrafos anteriores, se faz referência às formas, não à vida, que anima as formas. O instrumento está graduado para servir à vida que o anima. Os da classe 2, em quem se podia efetuar a divisão mencionada, se elevaram ao Reino Humano, mas o Espírito interno lhes foi dado um pouco mais tarde do que aos da classe 1. Por consequência, não estão tão desenvolvidos como os da classe 1, e formam as Raças humanas inferiores.
 
 Os que tinham seus Corpos de Desejos incapazes de divisão foram colocados nas mesmas condições das classes 3a e 3b; constituem os presentes antropoides. Entretanto, se alcançarem o suficiente grau de desenvolvimento antes do ponto crítico já mencionado, que virá a meados da quinta Revolução, poderão seguir com a nossa evolução. Caso não consigam, perderão todo contato com ela.
 
@@ -2055,17 +2013,21 @@ Quando se descobriu a seleção dos sucos gástricos, as pessoas que se dedicam 
 
 Por último, Starling[1] e Bayliss[2], em uma série de brilhantes experiências, provaram que o sangue tomava partes infinitesimais do alimento que penetrava pela boca e, levando-as diretamente às glândulas digestivas, originava a secreção do suco gástrico requerido.
 
+() - [1] N.R.: Ernest Henry Starling (1866-1927) – fisiologista inglês
+
+() - [2] N.R.: William Bayliss (1860-1924) – fisiologista inglês
+
 Porém, isto é somente o aspecto físico do fenômeno. Para compreendê-lo por completo, devemos recorrer à Ciência Oculta. Unicamente ela explica por que o sangue transporta esse sinal.
 
 O sangue é uma das mais elevadas expressões do Corpo Vital. O Ego guia e controla o instrumento denso por meio do sangue, portanto, é também o meio empregado para agir sobre o Sistema Nervoso. Durante parte da digestão, atua parcialmente através do Sistema Nervoso, mas, especialmente ao começar o processo digestivo, atua diretamente sobre o estômago. Quando, nas experiências científicas citadas, os nervos foram inibidos, foi através do sangue que permaneceu aberto o caminho direto e, por esse modo, o Ego recebeu a informação necessária.
 
-Outrossim, o sangue é dirigido a qualquer parte do organismo em que o Ego esteja desenvolvendo maior atividade. Quando em certa situação, é preciso pensar e agir rapidamente, o sangue se dirige rápido ao cérebro. Se temos de digerir uma comida copiosa, o sangue abandona a cabeça e outras partes do Corpo para se concentrar nos órgãos digestivos. O Ego concentra esforços para livrar o Corpo de todo excesso ou alimento inútil. Por isso, não é possível pensar bem depois de ter comido muito. Vem a sonolência, porque a maior parte do sangue é afastada do cérebro, e a que permanece é insuficiente para produzir as funções necessárias à plena consciência de vigília. Além disso, quase todo o fluido vital, energia solar especializada pelo baço, é absorvida pelo sangue que, depois das refeições, passa através desse órgão em maior volume. O resto do sistema também fica privado de fluido vital, em grande extensão, durante o processo digestivo.
-
-É o Ego que impele o sangue para o cérebro. Toda vez que o Corpo vai adormecer, o sangue abandona o cérebro, como se pode provar colocando um ser humano sobre um plano horizontal em equilíbrio. Ao adormecer, baixará do lado dos pés e levantar-se-á do lado da cabeça. Durante o ato sexual o sangue se concentra nos órgãos respectivos, etc.
-
-Estes exemplos tendem a provar que, durante as horas de vigília, o Ego controla o Corpo Denso por meio do sangue. A maior quantidade se dirige sempre ao ponto do Corpo em que, num determinado momento, o Ego desenvolve sua principal atividade.
+Outrossim, o sangue é dirigido a qualquer parte do organismo em que o Ego esteja desenvolvendo maior atividade. Quando em certa situação, é preciso pensar e agir rapidamente, o sangue se dirige rápido ao cérebro. Se temos de digerir uma comida copiosa, o sangue abandona a cabeça e outras partes do Corpo para se concentrar nos órgãos digestivos. O Ego concentra esforços para livrar o Corpo de todo excesso ou alimento inútil. Por isso, não é possível pensar bem depois de ter comido muito. Vem a sonolência, porque a maior parte do sangue é afastada do cérebro, e a que permanece é insuficiente para produzir as funções necessárias à plena consciência de vigília. Além disso, quase todo o fluido vital, energia solar especializada pelo baço, é absorvida pelo sangue que, depois das refeições, passa através desse órgão em maior volume. O resto do sistema também fica privado de fluido vital, em grande extensão, durante o processo digestivo. É o Ego que impele o sangue para o cérebro. Toda vez que o Corpo vai adormecer, o sangue abandona o cérebro, como se pode provar colocando um ser humano sobre um plano horizontal em equilíbrio. Ao adormecer, baixará do lado dos pés e levantar-se-á do lado da cabeça. Durante o ato sexual o sangue se concentra nos órgãos respectivos, etc. Estes exemplos tendem a provar que, durante as horas de vigília, o Ego controla o Corpo Denso por meio do sangue. A maior quantidade se dirige sempre ao ponto do Corpo em que, num determinado momento, o Ego desenvolve sua principal atividade.
 
 A reconstrução do Corpo Denso, na Revolução de Saturno do Período Terrestre, teve a finalidade de torná-lo apto para ser interpenetrado pela Mente. Recebeu o primeiro impulso para construção do Sistema Nervoso. Desde então, começaram a se objetivar o Sistema Nervoso Voluntário[3] e o Simpático[4]. Esse último, o Sistema Nervoso Simpático, já fora obtido no Período Lunar, mas o Sistema Nervoso Voluntárionão se obteve senão no atual Período Terrestre. Por intermédio do Sistema Nervoso Voluntário, o Corpo Denso, que era um mero autônomo agindo somente em função de estímulos exteriores, se transformou num instrumento extraordinariamente adaptável, capaz de ser guiado e governado pelo Ego, de dentro.
+
+() - [3] N.R.: ou Somático é uma das duas partes do Sistema Nervoso Periférico – está relacionado com os movimentos voluntários; a outra parte é chamada de Sistema Nervoso Autônomo.
+
+() - [4] N.R.: é uma das duas partes do Sistema Nervoso Autônomo. O Sistema Nervoso Simpático está relacionado com os movimentos involuntários dos músculos como não-estriado e estriado cardíaco, sistema endócrino e respiratório. De modo geral, estimulam ações que mobilizam energia, permitindo ao organismo responder a situações de estresse. Por exemplo, o sistema simpático é responsável pela aceleração dos batimentos cardíacos, pelo aumento da pressão sanguínea, pelo aumento da concentração de açúcar no sangue e pela ativação do metabolismo geral do corpo. a outra parte é chamada de Sistema Nervoso Parassimpático.
 
 O trabalho principal de tal reconstrução foi executado pelos Senhores da Forma. Esta Hierarquia é a mais ativa no atual Período Terrestre, assim como as mais ativas do Período de Saturno foram os Senhores da Chama; no Período Solar os Senhores da Sabedoria e no Período Lunar os Senhores da Individualidade.
 
@@ -2081,7 +2043,9 @@ Não desejando criticá-los, admitimos que essa afirmação parece ser justifica
 
 Durante aquelas Épocas da história da nossa Terra, que já mencionamos, as chamadas de Época Lemúrica e Época Atlante, o ser humano era um Clarividente involuntário, e foi precisamente essa frouxidão da conexão entre o Corpo Denso e o Corpo Vital que o tornou assim (Os Iniciadores daquelas Épocas ajudavam o candidato a afrouxar ainda mais essa conexão, como no Clarividente voluntário).
 
-Desde então, o Corpo Vital se ligou muito firmemente ao Corpo Denso na maioria das pessoas, mas não tanto nas chamadas sensitivas. É essa frouxidão que constitui a diferença entre a pessoa psíquica e a pessoa comum que está inconsciente de tudo que não sejam as vibrações contatadas por meio dos cinco sentidos. Todos os seres humanos têm que passar por esse período de estreita conexão dos seus veículos e experimentar a consequente limitação da consciência. Portanto, há duas classes de sensitivos: os que ainda não se submergiram firmemente na matéria, por exemplo, a maioria dos hinduístas, indianos, etc., que possuem certo baixo grau de Clarividência ou são sensíveis aos sons da Natureza, e aqueles outros que estão na vanguarda da evolução. Os vanguardeiros estão surgindo do pináculo da materialidade e podem ser divididos em duas classes: a primeira, que se desenvolve de maneira passiva e sem vontade própria. Com a ajuda de outros, novamente, despertam o Plexo Solar ou outros órgãos relacionados com o Sistema Nervoso involuntário. Esses são, portanto, os Clarividentes involuntários (como exemplo, os médiuns), que não tem controle sobre suas faculdades. Eles retrocederam. A outra classe é formada pelos que, por suas próprias vontades, desenvolvem os poderes vibratórios dos órgãos relacionados, atualmente, com o Sistema Nervoso voluntário e, assim, se convertem em ocultistas treinados, controlando seus próprios Corpos e exercendo a faculdade da Clarividência à sua vontade, como desejam. Eles são chamados de Clarividentes voluntários ou Clarividentes treinados. No Período de Júpiter, o ser humano funcionará em seu Corpo Vital, como funciona agora em seu Corpo Denso; e como nenhum desenvolvimento é súbito na Natureza, o processo de separação dos dois Corpos já começou. O Corpo Vital alcançará um elevado grau de eficiência muito maior do que tem agora o Corpo Denso. Por ser um veículo muito mais flexível, o Espírito poderá, então, utilizá-lo de uma forma que atualmente é impossível com o veículo denso.
+Desde então, o Corpo Vital se ligou muito firmemente ao Corpo Denso na maioria das pessoas, mas não tanto nas chamadas sensitivas. É essa frouxidão que constitui a diferença entre a pessoa psíquica e a pessoa comum que está inconsciente de tudo que não sejam as vibrações contatadas por meio dos cinco sentidos. Todos os seres humanos têm que passar por esse período de estreita conexão dos seus veículos e experimentar a consequente limitação da consciência. Portanto, há duas classes de sensitivos: os que ainda não se submergiram firmemente na matéria, por exemplo, a maioria dos hinduístas, indianos, etc., que possuem certo baixo grau de Clarividência ou são sensíveis aos sons da Natureza, e aqueles outros que estão na vanguarda da evolução. Os vanguardeiros estão surgindo do pináculo da materialidade e podem ser divididos em duas classes: a primeira, que se desenvolve de maneira passiva e sem vontade própria. Com a ajuda de outros, novamente, despertam o Plexo Solar ou outros órgãos relacionados com o Sistema Nervoso involuntário. Esses são, portanto, os Clarividentes involuntários (como exemplo, os médiuns), que não tem controle sobre suas faculdades. Eles retrocederam. A outra classe é formada pelos que, por suas próprias vontades, desenvolvem os poderes vibratórios dos órgãos relacionados, atualmente, com o Sistema Nervoso voluntário e, assim, se convertem em ocultistas treinados, controlando seus próprios Corpos e exercendo a faculdade da Clarividência à sua vontade, como desejam. Eles são chamados de Clarividentes voluntários ou Clarividentes treinados. 
+
+No Período de Júpiter, o ser humano funcionará em seu Corpo Vital, como funciona agora em seu Corpo Denso; e como nenhum desenvolvimento é súbito na Natureza, o processo de separação dos dois Corpos já começou. O Corpo Vital alcançará um elevado grau de eficiência muito maior do que tem agora o Corpo Denso. Por ser um veículo muito mais flexível, o Espírito poderá, então, utilizá-lo de uma forma que atualmente é impossível com o veículo denso.
 
 #### <h4 id="the-moon-revolution-of-the-earth-period">A Revolução Lunar do Período Terrestre</h4>
 
@@ -2117,23 +2081,11 @@ Na sempre crescente complexidade do esquema evolutivo, há sempre espirais dentr
 
 Contudo, as espirais dentro de espirais impediram que esse trabalho principiasse imediatamente depois da chegada da Onda de Vida do Globo C, porque o germe da Mente só foi obtido na quarta Época. Nas três primeiras Épocas foram recapitulados os Períodos de Saturno, Solar e Lunar.
 
-[1] N.R.: Ernest Henry Starling (1866-1927) – fisiologista inglês
-
-[2] N.R.: William Bayliss (1860-1924) – fisiologista inglês
-
-[3] N.R.: ou Somático é uma das duas partes do Sistema Nervoso Periférico – está relacionado com os movimentos voluntários; a outra parte é chamada de Sistema Nervoso Autônomo.
-
-[4] N.R.: é uma das duas partes do Sistema Nervoso Autônomo. O Sistema Nervoso Simpático está relacionado com os movimentos involuntários dos músculos como não-estriado e estriado cardíaco, sistema endócrino e respiratório. De modo geral, estimulam ações que mobilizam energia, permitindo ao organismo responder a situações de estresse. Por exemplo, o sistema simpático é responsável pela aceleração dos batimentos cardíacos, pelo aumento da pressão sanguínea, pelo aumento da concentração de açúcar no sangue e pela ativação do metabolismo geral do corpo. a outra parte é chamada de Sistema Nervoso Parassimpático.
-
-***************************************************************************************************************
-
 ### <h3 id="chapter-11">Capítulo XI – Gênese e Evolução do Nosso Sistema Solar</h3>
 
 #### <h4 id="chaos">Caos</h4>
 
-Nas páginas anteriores nada dissemos sobre o nosso Sistema Solar nem sobre os diferentes Planetas que o compõem porque, antes de chegar o Período Terrestre, não havia a diferenciação atual. O Período Terrestre é o pináculo da diferenciação.
-
-Ainda que não tenhamos falado senão de uma classe de Espíritos Virginais – daqueles que, no sentido mais estrito e limitado, estão relacionados com a evolução terrestre – há, na realidade, sete “Raios” ou correntes de vida. Seguem, todos, evoluções diferentes, embora pertencendo à mesma classe original de Espíritos Virginais de que faz parte a nossa Humanidade.
+Nas páginas anteriores nada dissemos sobre o nosso Sistema Solar nem sobre os diferentes Planetas que o compõem porque, antes de chegar o Período Terrestre, não havia a diferenciação atual. O Período Terrestre é o pináculo da diferenciação. Ainda que não tenhamos falado senão de uma classe de Espíritos Virginais – daqueles que, no sentido mais estrito e limitado, estão relacionados com a evolução terrestre – há, na realidade, sete “Raios” ou correntes de vida. Seguem, todos, evoluções diferentes, embora pertencendo à mesma classe original de Espíritos Virginais de que faz parte a nossa Humanidade.
 
 Nos Períodos anteriores, todas essas diferentes subclasses ou raios encontraram um ambiente apropriado para sua evolução no mesmo Planeta. Porém, no Período Terrestre as condições se tornaram tais que, para facilitar a cada classe o grau de calor e de vibração necessários à sua fase particular de evolução, foram segregados em diferentes Planetas, a diferentes distâncias do manancial central da Vida, o Sol. Esta é a razão de ser do nosso Sistema e de todos os outros Sistemas Solares do Universo.
 
@@ -2163,12 +2115,18 @@ O Caos não é um estado que, tendo existido no passado, agora tenha desaparecid
 
 É um axioma: “quanto mais nós morremos, melhor vivemos”. Goethe, o poeta Iniciado, disse:
 
-    “Morra e nasça, sem cessar”: enquanto  
-    Não cumpres esse destino,  
-    És sobre a terra sombria  
-    Qual sombrio peregrino.[1]  
+```
+“Morra e nasça, sem cessar”: enquanto  
+Não cumpres esse destino,  
+És sobre a terra sombria  
+Qual sombrio peregrino.[1]  
+```
+
+() - [1] N.R.: quinta estrofe do poema: Selige Sehnsucht (Anelo), de Johann Wolfgang von Goethe, in: West-Östlicher Diwan, 1814-1819. Com tradução de Manuel Bandeira, Poemas traduzidos. Rio de Janeiro: Edições de Ouro, 1966, p. 25.
 
 E S. Paulo disse: “Eu morro todos os dias”[2].
+
+() - [2] N.R.: ICor 15: 31
 
 Como Estudantes de Ciência Oculta, precisamos compreender que, mesmo durante a manifestação ativa, o Caos é a base de todo progresso. Nossa atividade durante o Caos decorre de nossa atuação na manifestação ativa. Vice-versa, tudo quanto somos capazes de realizar e de progredir durante a manifestação ativa é resultado da existência no Caos. A existência nos intervalos entre Períodos e Revoluções é muito mais importante para o crescimento da Alma do que a existência concreta, se bem que, sendo esta última a base da primeira, não poderíamos passar sem ela. A importância do intervalo Caótico advém, durante esse período, das entidades que estão evoluindo de todas as classes estarem tão estreitamente unidas que em realidade se unificam. Em consequência, estando em estreito contato com os seres mais altamente desenvolvidos, as classes que alcançaram pouco desenvolvimento durante a manifestação experimentam e se beneficiam de uma vibração superior à sua. Isto lhes permite reviver e assimilar as passadas experiências, o que era impossível enquanto estavam limitadas pela forma.
 
@@ -2178,17 +2136,31 @@ Uma palavra foi empregada originalmente para expressar o estado das coisas entre
 
 Alguém julgará que esta palavra é muito antiga e tenha sido usada quase sempre como sinônimo de um estado de matéria mais sutil do que os líquidos. Não, esta palavra foi empregada pela primeira vez em “Physica”[3], obra que apareceu em 1663, escrita por Comenius[4], um Rosacruz.
 
+() - [3] N.R.: Physicae Ad Lumen Divinum Reformatae Synopsis
+
+() - [4] N.R.: John Amos Comenius ou Iohannes Amos Comenius (1592-1670) – bispo protestante da Igreja Moraviana, educador, cientista e escritor checo.
+
 Comenius não se intitulava a si mesmo Rosacruz; nenhum verdadeiro Irmão o faz publicamente. Só o Rosacruz conhece o irmão Rosacruz. Nem ainda os mais íntimos amigos ou a própria família conhecem as relações de um ser humano com a Ordem. Os Iniciados, e só eles, conhecem os escritores do passado que foram Rosacruzes porque, por meio de suas obras, brilham as inconfundíveis palavras, frases e sinais indicativos da significação profunda, oculta para os não Iniciados. A Fraternidade Rosacruz é composta de Estudantes dos ensinamentos da Ordem, os quais são agora fornecidos publicamente, porque a inteligência do mundo está crescendo a um ponto necessário para compreendê-los. Essa obra é um dos primeiros fragmentos públicos dos conhecimentos Rosacruzes. Tudo o que tem sido publicado como tal nos últimos anos, é obra de charlatões ou traidores.
 
 Os Rosacruzes, tais como Paracelso[5], Comenius, Bacon[6], Helmont[7] e outros, deram vislumbres em suas obras e influenciaram a outros. A grande controvérsia sobre as obras de Shakespeare (que fez sujar tantas penas de ganso e gastar tanta tinta, muito melhor empregadas em outros propósitos) nunca teria vindo a lume se fosse conhecido que a semelhança entre Shakespeare e Bacon é efeito da influência exercida sobre ambos, por um mesmo Iniciado. Esse Iniciado também influenciou Jacob Böehme[8] e um pastor de Ingolstadt[9], Jacob Baldus, que viveu posteriormente à morte do “Bardo de Avon”[10] e escreveu versos líricos em latim. Lendo o primeiro poema de Jacob Baldus com certa chave, de baixo para cima, aparecerá a seguinte sentença: “Anteriormente falei do outro lado do mar, por meio do drama; agora me expressarei liricamente”.
+
+() - [5] N.R.: ou Paracelsus – Philippus Aureolus Theophrastus Bombastus von Hohenheim (1493-1521) – físico, botânico, alquimista, astrólogo e ocultista suíço-germânico.
+
+() - [6]  N.R.: Francis Bacon (1561-1626) – filósofo, estadista, cientista, jurista, orador, ensaísta e autor inglês.
+
+() - [7] N.R.: também escrito como Jan Baptista van Hellmond, Jan Baptista van Helmont (1579?-1644) – médico, químico e fisiologista belga. Na história da química ele é considerado o descobridor dos gases.
+
+() - [8]  N.R.: por vezes grafado como Jacob Boehme (1575-1624) – filósofo e místico luterano alemão.
+
+() - [9] N.R.: cidade ao sul da Alemanha atual.
+
+() - [10] N.R.: nome dado a Shakespeare em homenagem aonde ele nasceu: Stratford-on-Avon e o que mais fazia: Bard, quer dizer: escrever poesias e contador de estórias.
 
 Em sua “Physica”, o Rosacruz Comenius escreveu: “Ad huc spiritus incognitum Gas voco”, isto é: “A esse espírito desconhecido eu chamo Gás”. Mais adiante, diz na mesma obra: “Esse vapor a que chamo Gás, não faz muito tempo, foi tirado do Caos de que falavam os antigos”.
 
 Devemos aprender a pensar no Caos como o Espírito de Deus que compenetra todo o infinito. Segundo a máxima oculta, se ver-se-á que, em sua verdadeira luz, “o Caos é a sementeira do Cosmos”. E não mais nos perturbaremos ante a assertiva de que “se possa tirar alguma coisa do nada”, porque espaço não é sinônimo de “nada”. Mantém em si os germes de tudo quanto existe durante a manifestação física, embora não contenha tudo completamente. Da fusão do Caos com o Cosmos há sempre e de cada vez, algo novo que antes não existia, que não se percebia, que permanecia latente. O nome desse algo é: Gênio, a causa da Epigênese.
 
-Aparece em todos os Reinos e é a expressão do espírito progressivo no ser humano, no animal e na planta.
-
-O Caos, portanto, é um nome santo, um nome que significa a causa de tudo o que vemos na Natureza. Inspira um grande sentimento de devoção a todo o ocultista experiente, verdadeiro e treinado, que contempla o Mundo visível dos sentidos como uma revelação das potencialidades ocultas do Caos.
+Aparece em todos os Reinos e é a expressão do espírito progressivo no ser humano, no animal e na planta. O Caos, portanto, é um nome santo, um nome que significa a causa de tudo o que vemos na Natureza. Inspira um grande sentimento de devoção a todo o ocultista experiente, verdadeiro e treinado, que contempla o Mundo visível dos sentidos como uma revelação das potencialidades ocultas do Caos.
 
 #### <h4 id="the-birth-of-the-planets">O Nascimento dos Planetas</h4>
 
@@ -2196,25 +2168,23 @@ Para o ser humano poder se expressar no Mundo Físico denso era necessário dese
 
 Todos os seres na escala da existência, elevados ou inferiores, necessitam possuir veículos quando desejam se expressar em qualquer Mundo. Até os Sete Espíritos ante o Trono devem possuir apropriados veículos, aliás, diferentes para cada um deles. Coletivamente, Eles são Deus, formam a Trindade Divina, que, por meio de cada um, se manifesta de maneiras diferentes.
 
-Não existe contradição alguma em atribuir multiplicidade a Deus. Não pecamos contra a “unidade” da luz por distinguirmos as três cores primárias em que se divide. A luz branca do Sol contém as sete cores do espectro.
-
-O ocultista distingue até doze cores no espectro visível. Há cinco entre o vermelho e o violeta – fechando o círculo – além do vermelho, laranja, amarelo, verde, etc., de espectro visível. Quatro dessas cores são indescritíveis, mas a quinta, que está no meio dessas cinco, tem um tom parecido ao da flor de pessegueiro recém-aberta. É a cor do Corpo Vital. Os Clarividentes treinados, descrevendo-a como “cinza-azulado” ou “cinza-avermelhado”, procuram descrever uma cor que não tem equivalente no Mundo Físico, vendo-se, por conseguinte, obrigados a empregar os termos mais aproximados que lhes proporciona a linguagem comum.
+Não existe contradição alguma em atribuir multiplicidade a Deus. Não pecamos contra a “unidade” da luz por distinguirmos as três cores primárias em que se divide. A luz branca do Sol contém as sete cores do espectro. O ocultista distingue até doze cores no espectro visível. Há cinco entre o vermelho e o violeta – fechando o círculo – além do vermelho, laranja, amarelo, verde, etc., de espectro visível. Quatro dessas cores são indescritíveis, mas a quinta, que está no meio dessas cinco, tem um tom parecido ao da flor de pessegueiro recém-aberta. É a cor do Corpo Vital. Os Clarividentes treinados, descrevendo-a como “cinza-azulado” ou “cinza-avermelhado”, procuram descrever uma cor que não tem equivalente no Mundo Físico, vendo-se, por conseguinte, obrigados a empregar os termos mais aproximados que lhes proporciona a linguagem comum.
 
 A cor talvez nos permita conceber, melhor do que por outro modo qualquer, a unidade de Deus e dos Sete Espíritos ante o Trono. Veja o Diagrama 11, abaixo:
-
-Diagrama 11 – os 1, 3, 7 e 10 Aspectos de Deus e do Ser Humano!!!!!!!!!!!!!!!!!!!!!!!!!!!1111
 
 O branco de um triângulo surge de um fundo negro. O branco é uma síntese, contém todas as cores, como Deus contém em Si todas as coisas do nosso Sistema Solar.
 
 Dentro do triângulo branco há três círculos: azul, vermelho e amarelo. Todas as outras cores são simples combinações dessas três cores primárias. Esses círculos correspondem aos três aspectos de Deus, que não tem princípio e que terminam em Deus, se bem que só se exteriorizam durante a manifestação ativa.
 
-Tabela das Vibrações – Cujos efeitos são reconhecidos e estudados pela Ciência[11]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 Quando se misturam essas três cores, conforme se vê no Diagrama 11, aparecem quatro cores adicionais: três cores secundárias, mistura de duas primárias, e uma cor, o índigo, que contém toda a gama de cores, formada das sete cores do espectro. Essas diferentes cores representam os Sete Espíritos ante o Trono. Diferentes são também os Sete Espíritos, que têm diferentes missões no Reino de Deus, o nosso Sistema Solar.
 
-Os sete Planetas que gravitam em torno do Sol são os Corpos Densos dos Sete gênios Planetários. Seus nomes são: Urano, com um satélite; Saturno com oito luas; Júpiter, com quatro; Marte com duas; a Terra com uma Lua; Vênus e Mercúrio.
+Os sete Planetas que gravitam em torno do Sol são os Corpos Densos dos Sete gênios Planetários. Seus nomes são: Urano, com um satélite; Saturno com oito luas; Júpiter, com quatro; Marte com duas; a Terra com uma Lua; Vênus e Mercúrio.*
+
+*Astronomical discoveries since the writing of this book attribute 4 satellites to Uranus, 9 to Saturn, and 12 to Jupiter.
 
 Como os Corpos são sempre ajustados ao propósito de servir, os Corpos Densos dos Sete Espíritos Planetários são esféricos. É a forma que melhor se adapta à enorme velocidade de sua viagem pelo espaço. A Terra, por exemplo, caminha na sua órbita à razão de 66.000 milhas[12] por hora.
+
+() - [12] N.R.: 106.194 quilômetros
 
 O Corpo humano, no passado, teve formas diferentes da que tem atualmente. A do futuro será também distinta da forma presente. Durante a Involução era aproximadamente esférico, como ainda é durante a vida pré-natal. O desenvolvimento intrauterino é uma Recapitulação dos passados estados evolutivos. Nesse estado, o organismo se desenvolve em forma esférica porque, durante a Involução, as energias do ser humano eram dirigidas para dentro, para construção dos próprios veículos, assim como o embrião se desenvolve dentro da esfera do útero.
 
@@ -2222,15 +2192,13 @@ Os Corpos Denso e Vital do ser humano se tornaram eretos, mas os outros veículo
 
 Os prejuízos desta imperfeição ficariam grandemente diminuídos se o cérebro estivesse no centro do Corpo. As sensações e correspondentes respostas poderiam ser recebidas e transmitidas com muito maior rapidez. Nos Planetas esféricos, o Espírito Planetário dirige os movimentos de seu veículo a partir do centro. O ser humano do futuro se arredondará novamente, como se vê no Diagrama 12. se converter-se-á em esfera, o que lhe proporcionará muitas facilidades para se mover em todas as direções e, também, para combinar movimentos simultâneos.
 
-Diagrama 12 – Forma Corporal do Ser Humano no Passado, Presente e Futuro!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+O Conceito Rosacruz do Cosmos ensina que está reservada aos Planetas uma evolução ulterior. 
 
-O Conceito Rosacruz do Cosmos ensina que está reservada aos Planetas uma evolução ulterior. Quando os seres de um Planeta se desenvolvem até certo grau, o Planeta se converte em Sol, o centro fixo de um Sistema Solar. Se esses seres evoluem em maior grau ainda, aquele Sol alcança o máximo de esplendor, se transforma em Zodíaco, se convertendo, por assim dizer, em matriz de um novo Sistema Solar.
+Quando os seres de um Planeta se desenvolvem até certo grau, o Planeta se converte em Sol, o centro fixo de um Sistema Solar. Se esses seres evoluem em maior grau ainda, aquele Sol alcança o máximo de esplendor, se transforma em Zodíaco, se convertendo, por assim dizer, em matriz de um novo Sistema Solar.
 
-Dessa maneira, as grandes Hostes de Seres Divinos confinadas no Sol adquirem liberdade de ação sobre um número maior de estrelas, podendo afetar, de diversas maneiras, o sistema que está crescendo dentro da sua própria esfera de influência.
+Dessa maneira, as grandes Hostes de Seres Divinos confinadas no Sol adquirem liberdade de ação sobre um número maior de estrelas, podendo afetar, de diversas maneiras, o sistema que está crescendo dentro da sua própria esfera de influência. Os Planetas, mundos portadores de seres humanos, dentro do Zodíaco, estão, constantemente, sendo trabalhados por essas forças, de várias maneiras, de acordo com o grau de evolução alcançado.
 
-Os Planetas, mundos portadores de seres humanos, dentro do Zodíaco, estão, constantemente, sendo trabalhados por essas forças, de várias maneiras, de acordo com o grau de evolução alcançado.
-
-O nosso Sol não pôde converter que atualmente é enquanto não expulsou todos os seres insuficientemente evoluídos, incapazes de suportar o elevado grau de vibração e a grande luminosidade dos qualificados para aquela evolução. Todos os seres que O nosso Sol não pôde converter que atualmente é enquanto não expulsou todos os seres insuficientemente evoluídos, incapazes de suportar o elevado grau de vibração e a grande luminosidade dos qualificados para aquela evolução. se encontram nos diversos Planetas ter-se-iam consumidos se tivessem permanecido no Sol.
+O nosso Sol não pôde converter que atualmente é enquanto não expulsou todos os seres insuficientemente evoluídos, incapazes de suportar o elevado grau de vibração e a grande luminosidade dos qualificados para aquela evolução. Todos os seres que O nosso Sol não pôde converter que atualmente é enquanto não expulsou todos os seres insuficientemente evoluídos, incapazes de suportar o elevado grau de vibração e a grande luminosidade dos qualificados para aquela evolução. Se encontram nos diversos Planetas ter-se-iam consumidos se tivessem permanecido no Sol.
 
 O Sol visível é o Campo de Evolução de seres muito superiores ao ser humano, porém, seguramente, não é o Pai dos outros Planetas, como supõe a ciência material. Ao contrário, é uma emanação do Sol Central que é a fonte invisível de tudo que é no nosso Sistema Solar. O nosso Sol visível é como um espelho em que se refletem os raios de energia do Sol Espiritual. O Sol real é tão invisível como o “ser humano real”.
 
@@ -2250,32 +2218,6 @@ Netuno e seus satélites não pertencem propriamente ao nosso Sistema Solar. Os 
 
 Quando os atrasados que, desterrados, evoluem em alguma lua alcançam seu posto e voltam ao Planeta paterno, ou quando um retrocesso continuado origina a completa desintegração dos seus veículos, a Lua abandonada começa a dissolver-se. O impulso espiritual inicial que a lançou a uma órbita fixa durante milênios pode, igualmente, durar milênios depois de abandonada a lua. Do ponto de vista físico, girando ao redor do Planeta, a Lua abandonada pode parecer ainda um satélite. Não obstante, no transcurso do tempo, conforme diminua a força de atração exercida pelo nosso Sistema Solar, será lançada no espaço interplanetário, se dissolvendo no Caos. Tais mundos mortos são como escória, e a expulsão é análoga à de um Corpo estranho e duro que, introduzido no corpo humano, caminha e passa através da carne em direção à pele. Os asteroides ilustram esse ponto. São fragmentos de luas que um dia rodearam Vênus e Mercúrio. Os seres nelas confinados no passado são conhecidos esotericamente pelos nomes de “Senhores de Vênus” e de “Senhores de Mercúrio”. Alcançaram seu perdido desenvolvimento, na maior parte, graças ao serviço prestado à nossa Humanidade, como adiante será descrito. Agora, salvos, estão no Planeta progenitor, enquanto as luas em que habitaram se desintegraram parcialmente, se achando já além da órbita da Terra. Há outras luas “aparentes” no nosso sistema, porém o Conceito não as considera por estarem além do Campo de Evolução.
 
-[1] N.R.: quinta estrofe do poema: Selige Sehnsucht (Anelo), de Johann Wolfgang von Goethe, in: West-Östlicher Diwan, 1814-1819. Com tradução de Manuel Bandeira, Poemas traduzidos. Rio de Janeiro: Edições de Ouro, 1966, p. 25.
-
-[2] N.R.: ICor 15: 31
-
-[3] N.R.: Physicae Ad Lumen Divinum Reformatae Synopsis
-
-[4] N.R.: John Amos Comenius ou Iohannes Amos Comenius (1592-1670) – bispo protestante da Igreja Moraviana, educador, cientista e escritor checo.
-
-[5] N.R.: ou Paracelsus – Philippus Aureolus Theophrastus Bombastus von Hohenheim (1493-1521) – físico, botânico, alquimista, astrólogo e ocultista suíço-germânico.
-
-[6]  N.R.: Francis Bacon (1561-1626) – filósofo, estadista, cientista, jurista, orador, ensaísta e autor inglês.
-
-[7] N.R.: também escrito como Jan Baptista van Hellmond, Jan Baptista van Helmont (1579?-1644) – médico, químico e fisiologista belga. Na história da química ele é considerado o descobridor dos gases.
-
-[8]  N.R.: por vezes grafado como Jacob Boehme (1575-1624) – filósofo e místico luterano alemão.
-
-[9] N.R.: cidade ao sul da Alemanha atual.
-
-[10] N.R.: nome dado a Shakespeare em homenagem aonde ele nasceu: Stratford-on-Avon e o que mais fazia: Bard, quer dizer: escrever poesias e contador de estórias.
-
-[11] N.R.: William Crookes (1832-1919) foi um químico e físico britânico. Frequentou o Royal College of Chemistry em Londres, trabalhando em espectroscopia.
-
-[12] N.R.: 106.194 quilômetros
-
-**************************************************************************************************************
-
 ### <h3 id="chapter-12">Capítulo XII – Evolução da Terra</h3>
 
 #### <h4 id="the-polarian-epoch">A Época Polar</h4>
@@ -2289,6 +2231,8 @@ Dessa substância química, atenuada, do Sol, o ser humano construiu seu primeir
 O primeiro Corpo Denso do ser humano não se parecia, nem remotamente, com o atual veículo, tão esplendidamente organizado. Tal perfeição foi conseguida ao cabo de miríades de anos. O primeiro Corpo Denso era um objeto enorme e pesado. Por uma abertura na parte superior saía ou se projetava um órgão. Era uma espécie de órgão de orientação e direção. No transcurso do tempo, o Corpo Denso e o órgão se uniram mais estreitamente e esse se condensou um tanto. Quando o ser humano se aproximava de lugares onde não podia suportar o calor, o seu Corpo se desintegrava. Com o tempo, o órgão se tornou sensitivo e assinalava o perigo. O Corpo Denso, automaticamente, se movia para um lugar mais seguro.
 
 Esse órgão degenerou-se, se transformando no que agora conhecemos por Glândula Pineal[1]. Algumas vezes, essa Glândula é chamada o “terceiro olho”, mas é uma denominação imprópria, porque nunca foi um olho, mas sim, o órgão em que se localizava a percepção do calor e do frio, faculdade atualmente distribuída por todo o Corpo. Durante a Época Polar esse sentido estava localizado nesse órgão, assim como a visão está hoje localizada nos olhos e o sentido da audição nos ouvidos. A extensão da sensação do tato a todo Corpo, desde aquele tempo até hoje, indica a maneira como todo o Corpo Denso se desenvolverá. Os sentidos especializados indicam limitação, mas tempo chegará que qualquer parte do Corpo poderá perceber todas as coisas. Os sentidos da vista e da audição se estenderão por todo o Corpo, como acontece atualmente com o tato. O ser humano será todo “olhos e ouvidos”. Todavia, a percepção sensorial de todo o Corpo terá uma percepção relativa.
+
+() - [1] N.R.: também chamada de Epífise Neural
 
 Nos primeiros estágios de que estamos falando havia uma espécie de propagação. Aquelas imensas e saciformes criaturas se dividiam pela metade, em forma muito semelhante à divisão das células por cissiparidade, porém as porções separadas não cresciam; cada metade permanecia no tamanho original.
 
@@ -2314,9 +2258,7 @@ Ao princípio da Época Lemúrica, esses “fracassados” (note-se que eram fra
 
 Os sete Globos, de “A” a “G”, são o campo da evolução. A Lua é o campo de desintegração.
 
-A rapidez das vibrações do Globo original que é agora o Sol teria rapidamente desagregado os veículos humanos se a Terra não se desprendesse. Cresceriam com grande rapidez, comparado com a qual seria lentíssimo o crescimento dos cogumelos. Isto é, seriam velhos o tempo em que deveriam ser jovens.
-
-Esse efeito de excessivo Sol se observa na rapidez de crescimento nos trópicos. Alcança-se a maturidade e a decrepitude muito antes do que nas zonas temperadas. Quanto à Lua, se tivesse ficado ligado à Terra, o ser humano ter-se-ia cristalizado até se converter numa estátua. A enorme distância percorrida pelos raios do Sol até a Terra permite, ao ser humano, viver no grau de vibração apropriado e se desenvolver lentamente. As forças lunares, por sua vez, chegam da distância necessária para que o Corpo seja construído com a densidade conveniente. Estas últimas forças são ativas na construção da forma. A continuidade da sua ação acaba por cristalizar os tecidos orgânicos e, até, por ocasionar a morte.
+A rapidez das vibrações do Globo original que é agora o Sol teria rapidamente desagregado os veículos humanos se a Terra não se desprendesse. Cresceriam com grande rapidez, comparado com a qual seria lentíssimo o crescimento dos cogumelos. Isto é, seriam velhos o tempo em que deveriam ser jovens. Esse efeito de excessivo Sol se observa na rapidez de crescimento nos trópicos. Alcança-se a maturidade e a decrepitude muito antes do que nas zonas temperadas. Quanto à Lua, se tivesse ficado ligado à Terra, o ser humano ter-se-ia cristalizado até se converter numa estátua. A enorme distância percorrida pelos raios do Sol até a Terra permite, ao ser humano, viver no grau de vibração apropriado e se desenvolver lentamente. As forças lunares, por sua vez, chegam da distância necessária para que o Corpo seja construído com a densidade conveniente. Estas últimas forças são ativas na construção da forma. A continuidade da sua ação acaba por cristalizar os tecidos orgânicos e, até, por ocasionar a morte.
 
 O Sol age sobre o Corpo Vital. É força que trabalha pela vida, e luta contra as forças lunares que trabalham para a morte.
 
@@ -2342,7 +2284,9 @@ Contudo, não imaginemos que, ao alcançar esse ponto, o ser humano se tornou co
 
 #### <h4 id="separation-of-the-sexes">Separação dos Sexos</h4>
 
-Ao contrário da ideia geralmente aceita, o Ego é bissexual. Se o Ego fosse assexual, o Corpo seria necessariamente assexual também, por ser o símbolo externo do espírito interno. Nos Mundos internos, o Ego manifesta os sexos diferentemente, como duas qualidades distintas: Vontade e Imaginação. A Vontade é a força masculina, aliada às forças solares. A Imaginação é o poder feminino, sempre unido às forças lunares. Isto explica o predomínio da Imaginação na mulher e o poder especial que a Lua exerce sobre o organismo feminino.
+Ao contrário da ideia geralmente aceita, o Ego é bissexual. Se o Ego fosse assexual, o Corpo seria necessariamente assexual também, por ser o símbolo externo do espírito interno. 
+
+Nos Mundos internos, o Ego manifesta os sexos diferentemente, como duas qualidades distintas: Vontade e Imaginação. A Vontade é a força masculina, aliada às forças solares. A Imaginação é o poder feminino, sempre unido às forças lunares. Isto explica o predomínio da Imaginação na mulher e o poder especial que a Lua exerce sobre o organismo feminino.
 
 Quando na Época Hiperbórea, a matéria que depois formou a Terra e a Lua fazia ainda parte do Sol, o Corpo do ser humano nascente era plástico. As forças da parte que permaneceu como Sol e da parte que agora constitui a Lua agiam facilmente em todos os Corpos. O ser humano era hermafrodita, capaz de exteriorizar de si outro ser sem intervenção de qualquer outro.
 
@@ -2366,13 +2310,19 @@ Quando o Ego entrou na posse dos seus veículos, se tornou necessário empregar 
 
 Desta forma, a dual força criadora que, até então trabalhara em uma só direção, com o objetivo de criar outro ser, foi dividida. Uma parte se dirigiu para cima, para construção do cérebro e da laringe, o meio para o Ego pensar e comunicar pensamentos a outros seres.
 
-Como resultado dessa modificação somente uma parte da força essencial para a criação de outro ser estava disponível em cada indivíduo; portanto, se tornou necessário que cada indivíduo buscasse a cooperação de outro, que possuía a parte da força procriadora que lhe faltava. Assim, a entidade que está evoluindo obteve a consciência cerebral do Mundo externo à custa da metade do seu poder criador. Antes disso, ela usava dentro de si ambas as partes desse poder para externalizar outro ser. No entanto, como resultado dessa modificação ela evoluiu o poder de criar e de expressar o pensamento. Antes disso, ela era uma entidade criadora apenas no Mundo Físico; desde então, ela se tornou capaz de criar e de expressar pensamentos nos três Mundos.
+Como resultado dessa modificação somente uma parte da força essencial para a criação de outro ser estava disponível em cada indivíduo; portanto, se tornou necessário que cada indivíduo buscasse a cooperação de outro, que possuía a parte da força procriadora que lhe faltava. 
+
+Assim, a entidade que está evoluindo obteve a consciência cerebral do Mundo externo à custa da metade do seu poder criador. Antes disso, ela usava dentro de si ambas as partes desse poder para externalizar outro ser. No entanto, como resultado dessa modificação ela evoluiu o poder de criar e de expressar o pensamento. Antes disso, ela era uma entidade criadora apenas no Mundo Físico; desde então, ela se tornou capaz de criar e de expressar pensamentos nos três Mundos.
 
 #### <h4 id="the-races-and-their-leaders">As Raças e Seus Líderes</h4>
 
 Antes de considerar em detalhes a evolução dos lemurianos, será conveniente dar uma vista geral às Raças e seus Líderes.
 
 Algumas obras sobre Ocultismo, muito estimadas, trouxeram a público os ensinamentos da Sabedoria Oriental. Não obstante, contém certos erros, devidos à má interpretação dos que tiveram a felicidade de recebê-los e transmiti-los. Todos os livros não escritos diretamente pelos Irmãos Maiores estão sujeitos a tais erros. Todavia, considerando a extrema complexidade do assunto, são de admirar que os erros cometidos tenham sido tão poucos. Por isso, o autor não tem a menor intenção de criticar, reconhecendo que mais numerosos e mais graves erros podem ter sido incorporados nesta obra, devidos à errônea concepção do ensino recebido. O autor simplesmente indica, nos seguintes parágrafos, o que recebeu, e mostra como podem se conciliar os diferentes ensinamentos, aparentemente contraditórios, de obras tão preciosas como “A Doutrina Secreta”, de H. P. Blavatsky[2], e o “Budismo Esotérico” de A. P. Sinnett[3].
+
+() - [2] Elena Petrovna Blavatskaya (1831-1891) – mais conhecida como Helena Blavatsky ou Madame Blavatsky, responsável pela sistematização da moderna Teosofia e cofundadora da Sociedade Teosófica.
+
+() - [3] Alfred Percy Sinnett (1840-1921) – escritor e teósofo britânico
 
 A parte da evolução humana a ser realizada durante a jornada atual da Onda de Vida na Terra se estende por sete grandes estados ou Épocas. Esses estados de evolução não podem ser chamados propriamente Raças. Até próximo do final da Época Lemúrica, nada apareceu a que se possa propriamente aplicar esse nome. Desde aquele tempo, se sucederam diferentes Raças através das Épocas Atlante e Ária, e prolongar-se-ão ligeiramente na grande Sexta Época.
 
@@ -2420,11 +2370,9 @@ Encontramo-nos agora em condições de compreender as informações seguintes, r
 
 A atmosfera da Lemúria era ainda muito densa, parecida à névoa ígnea do Período Lunar, porém mais densa. A crosta terrestre começava a adquirir dureza e solidez em algumas partes, mas noutras estava ainda em fusão. Entre essas ilhas de crosta dura havia um mar de água em ebulição, erupções ardentes lutavam contra a formação da crosta que progredia e, rodeando, os aprisionava.
 
-O ser humano vivia sobre as partes mais duras e relativamente resfriadas, entre bosques gigantescos e animais de enorme tamanho. As formas dos animais e dos seres humanos eram muito plásticas. Já se formava o esqueleto, mas havia no ser humano um grande poder de modelar a carne do seu Corpo e dos animais. Ao nascer podia ouvir e tinha sensibilidade tátil, mas a percepção da luz só veio mais tarde. Atualmente, há casos análogos em animais; os filhotes de cães e gatos recebem o sentido da visão algum tempo depois de nascer. Os lemurianos não tinham olhos. Eram dois pontos, duas manchas pequenas, sensíveis à luz solar que difusa e vagamente atravessava a atmosfera de fogo da antiga Lemúria. Desde então, a construção dos olhos progrediu, mas, até o final da Época Atlante, não havia o sentido da visão, como hoje o conhecemos.
+O ser humano vivia sobre as partes mais duras e relativamente resfriadas, entre bosques gigantescos e animais de enorme tamanho. As formas dos animais e dos seres humanos eram muito plásticas. Já se formava o esqueleto, mas havia no ser humano um grande poder de modelar a carne do seu Corpo e dos animais. 
 
-Enquanto o Sol era interno e a Terra era parte do grande Globo luminoso o ser humano não precisava de nenhuma iluminação externa; ele era luminoso. Quando a Terra obscura foi separada do Sol, se tornou necessário poder perceber a luz e o ser humano a percebia quando os raios incidiam sobre ele.
-
-A Natureza construiu os olhos para receberam a luz, em resposta à função já existente, segundo princípio invariável, demonstrado habilmente pelo professor Huxley. A ameba não tem estômago e, entretanto, digere. Ela é todo estômago. A necessidade de digerir o alimento formou o estômago no transcurso do tempo, porém, a digestão existiu antes da formação do canal digestivo. De maneira análoga, a percepção da luz produziu os olhos. A luz criou e mantém o olho. Onde não há luz alguma não podem existir olhos. Em experiências com alguns animais que, metidos em cavernas, foram privados de toda luz, os olhos degeneraram a até se atrofiaram por não haver luz alguma para sustentá-los, já que os olhos são desnecessários em cavernas escuras. Os lemurianos necessitavam de olhos, tinham percepção da luz, e a luz começou a construir os olhos, como resposta àquela exigência.
+Ao nascer podia ouvir e tinha sensibilidade tátil, mas a percepção da luz só veio mais tarde. Atualmente, há casos análogos em animais; os filhotes de cães e gatos recebem o sentido da visão algum tempo depois de nascer. Os lemurianos não tinham olhos. Eram dois pontos, duas manchas pequenas, sensíveis à luz solar que difusa e vagamente atravessava a atmosfera de fogo da antiga Lemúria. Desde então, a construção dos olhos progrediu, mas, até o final da Época Atlante, não havia o sentido da visão, como hoje o conhecemos. Enquanto o Sol era interno e a Terra era parte do grande Globo luminoso o ser humano não precisava de nenhuma iluminação externa; ele era luminoso. Quando a Terra obscura foi separada do Sol, se tornou necessário poder perceber a luz e o ser humano a percebia quando os raios incidiam sobre ele. A Natureza construiu os olhos para receberam a luz, em resposta à função já existente, segundo princípio invariável, demonstrado habilmente pelo professor Huxley. A ameba não tem estômago e, entretanto, digere. Ela é todo estômago. A necessidade de digerir o alimento formou o estômago no transcurso do tempo, porém, a digestão existiu antes da formação do canal digestivo. De maneira análoga, a percepção da luz produziu os olhos. A luz criou e mantém o olho. Onde não há luz alguma não podem existir olhos. Em experiências com alguns animais que, metidos em cavernas, foram privados de toda luz, os olhos degeneraram a até se atrofiaram por não haver luz alguma para sustentá-los, já que os olhos são desnecessários em cavernas escuras. Os lemurianos necessitavam de olhos, tinham percepção da luz, e a luz começou a construir os olhos, como resposta àquela exigência.
 
 A linguagem era de sons análogos aos da Natureza. O murmúrio do vento nos bosques imensos, que cresciam luxuriantes naquele clima super-tropical, o ulular da tempestade, o ruído das cataratas, o rugido dos vulcões, todos esses sons eram para o ser humano de então como vozes dos Deuses, de quem sabia ter descendido.
 
@@ -2434,19 +2382,25 @@ Nada conhecia, portanto, sobre o Corpo e nem sequer sabia que tinha um Corpo, do
 
 Tudo quanto se relacionava com a propagação da Raça e com o nascimento era executado sob a direção dos Anjos, por sua vez, guiados por Jeová, o Regente da Lua. A função procriadora era exercitada em determinadas épocas do ano, quando as linhas de força de Planeta para Planeta formavam ângulo apropriado. Como a força criadora não encontrava obstáculo algum, o parto se realizava sem dor. O ser humano era inconsciente do nascimento, porque sua inconsciência do Mundo Físico era análoga à nossa, agora, durante o sono. Só mediante o íntimo contato das relações sexuais o espírito sentiu a carne, e o ser humano “conheceu” sua esposa. A isto se referem várias passagens da Bíblia, por exemplo: “Adão conheceu Eva e ela concebeu Seth”[4]; “Elkanah conheceu Hanah e ela concebeu Samuel”[5]; e a pergunta de Maria: “Como poderia conceber se não conheço homem algum?”[6]. Está aqui, também, a chave para o significado da “Árvore do Conhecimento”[7], o fruto, que abriu os olhos de Adão e Eva, a fim de poderem conhecer o bem e o mal. Anteriormente, conheciam somente o bem, mas, quando começaram a exercer a função criadora independentemente, sem o conhecimento das influências Astrais, como tem sido característica dos seus descendentes, conheceram o sofrimento e o mal. A suposta maldição de Jeová não foi maldição, de maneira alguma. Foi uma clara indicação do efeito que, inevitavelmente, produziria a força criadora quando empregada na geração de um novo ser, sem tomar em conta as determinantes dos Astros.
 
+() - [4] N.R.: Gn 4:25
+
+() - [5] N.R.: ISm 1:19
+
+() - [6] N.R.: Lc 1:34
+
+() - [7] N.R.: Gn 2:9
+
 Assim, o emprego ignorante da força geradora é o principal responsável pela dor, enfermidade e a tristeza.
 
 O lemuriano não conhecia a morte porque, no transcurso de longas eras, quando o Corpo se tornava inútil, entrava noutro, completamente inconsciente da mudança. Como a consciência não estava focada no Mundo Físico, para ele, abandonar seu Corpo para tomar outro Corpo era como a queda de uma folha seca de árvore, logo substituída por novo broto.
 
 A linguagem era algo santo, não, como a nossa, uma linguagem morta, um simples arranjo de sons. Cada som emitido pelos lemurianos tinha poder sobre os semelhantes, sobre os animais e sobre a Natureza circundante. Portanto, sob a orientação dos Senhores de Vênus, que foram os mensageiros de Deus – os agentes das Hierarquias Criadoras – o poder de expressão foi usado com grande reverência, como algo mais sagrado.
 
-A educação dos meninos diferia muito da educação das meninas. Os métodos educativos dos lemurianos seriam chocantes para nossa mais refinada sensibilidade. Para não ferir os sentimentos do leitor, falaremos unicamente do menos cruel de todos eles. Cumpre recordar que não estando os Corpos dos lemurianos tão altamente sensibilizados como os Corpos humanos dos nossos dias, só mediante práticas duríssimas, por extremamente desumanas que pareçam, se podia compelir sua consciência extremamente obscura e pesada para que ela se voltasse ao Mundo exterior.
+A educação dos meninos diferia muito da educação das meninas. Os métodos educativos dos lemurianos seriam chocantes para nossa mais refinada sensibilidade. Para não ferir os sentimentos do leitor, falaremos unicamente do menos cruel de todos eles. Cumpre recordar que não estando os Corpos dos lemurianos tão altamente sensibilizados como os Corpos humanos dos nossos dias, só mediante práticas duríssimas, por extremamente desumanas que pareçam, se podia compelir sua consciência extremamente obscura e pesada para que ela se voltasse ao Mundo exterior. No transcurso do tempo, a consciência foi se despertando, e essas práticas cruéis abandonadas por se tornarem desnecessárias, porém, naqueles tempos, foram indispensáveis para despertar as adormecidas forças do espírito à consciência do Mundo externo.
 
 A educação dos meninos era especialmente encaminhada ao desenvolvimento da Vontade. Faziam-nos lutar uns contra os outros, em lutas extremamente brutais. Eram empalados em espetos, mas deixados de maneira que pudessem se desempalar à vontade. Para exercitarem o poder da vontade, deveriam permanecer assim, apesar da dor. No mesmo sentido, aprendiam a manter seus músculos em tensão e a transportar imensas cargas.
 
 A educação das meninas se encaminhava ao desenvolvimento da faculdade imaginativa. Eram também sujeitas a práticas desumanas e severas: deixadas em bosques imensos para que o som do vento nas folhagens lhes falasse, abandonadas em meio à fúria das tempestades e de inundações. Dessa forma aprendiam a não temer os paroxismos da Natureza e a perceber, unicamente, a grandeza dos elementos em luta. A frequência das erupções vulcânicas era, também, de grande valor como meio educativo, especialmente para despertar a memória.
-
-No transcurso do tempo, a consciência foi se despertando, e essas práticas cruéis abandonadas por se tornarem desnecessárias, porém, naqueles tempos, foram indispensáveis para despertar as adormecidas forças do espírito à consciência do Mundo externo.
 
 Tais métodos educativos, que estavam completamente fora de sentido em nossos dias, não chocavam os lemurianos, desprovidos de memória. Não importava quão dolorosas ou aterrorizantes fossem as experiências suportadas. Uma vez passadas, eram imediatamente esquecidas. As terríveis experiências citadas acima imprimiam, no cérebro, impactos violentos e constantemente repetidos e tinham por objetivo despertar a memória, a necessária memória que, hoje, emprega as experiências do passado como guia da ação.
 
@@ -2458,7 +2412,9 @@ O lemuriano era um mago de nascimento, se reconhecia como um descendente dos Deu
 
 Embora o lemuriano fosse um mago nato, nunca empregou mal seus poderes, porque se sentia relacionado com os Deuses. Sob a direção dos Mensageiros de Deus, dos quais já falamos, suas forças foram dirigidas à construção de formas nos Reinos vegetal e animal. Para o materialista, pode ser mui difícil compreender como poderiam efetuar essa obra sem verem o mundo ambiente. É certo, eles não podiam ver, tal como compreendemos essa palavra ou como vemos atualmente os objetos exteriores com nossos olhos físicos. Não obstante, assim como as crianças, nos dias de hoje, são Clarividentes enquanto permanecem em inocência imaculada, sem pecado, assim também os lemurianos, que eram puros e inocentes, possuíam uma percepção interna que lhes proporcionava uma vaga ideia da forma externa de qualquer objeto, muito iluminada internamente, como qualidade anímica, por uma percepção espiritual nascida da pureza e da inocência.
 
-Entretanto, Inocência não é sinônimo de Virtude. Inocência é filha da Ignorância e essa não pode se conservar num universo que tem como propósito evolutivo a aquisição da Sabedoria. Para chegar a esse fim, é essencial conhecer o bem e o mal, o certo e o errado e, também, ter a liberdade de agir. Se o ser humano, possuindo o conhecimento e a liberdade de agir, defende o Bem e o Justo, cultiva a Virtude e a Sabedoria. Se cai na tentação e, conscientemente, faz o mal, desenvolve o vício.
+Entretanto, Inocência não é sinônimo de Virtude. Inocência é filha da Ignorância e essa não pode se conservar num universo que tem como propósito evolutivo a aquisição da Sabedoria. Para chegar a esse fim, é essencial conhecer o bem e o mal, o certo e o errado e, também, ter a liberdade de agir. 
+
+Se o ser humano, possuindo o conhecimento e a liberdade de agir, defende o Bem e o Justo, cultiva a Virtude e a Sabedoria. Se cai na tentação e, conscientemente, faz o mal, desenvolve o vício.
 
 O plano de Deus não pode ser reduzido a nada. Cada ato é uma semente para a Lei de Consequência. Nós colhemos o que semeamos. As ervas daninhas das más ações trazem em si tristeza e sofrimento; e quando as sementes delas caírem no coração castigado e forem umedecidas pelas lágrimas do arrependimento, a Virtude florescerá, definitivamente. Se no Reino do nosso Pai só o Bem pode perdurar, não é uma verdadeira bênção a certeza de que apesar do mal que façamos, o Bem triunfará por fim?
 
@@ -2492,9 +2448,9 @@ Os Anjos amam sem desejo, mas o ser humano teve de passar pelo egoísmo. Deve de
 
 Os Anjos ajudaram-no a se propagar ainda depois da subversão de parte da força anímica. Ajudaram-no, também, a construir o cérebro físico, mas não tinham conhecimento algum que pudesse ser transmitido por seu intermédio. Não sabendo como usar tal instrumento, não podiam falar diretamente a um ser com cérebro. Tudo o que eles podiam fazer era controlar a expressão física do amor do ser humano e guiá-lo, através das emoções, de um modo amoroso e inocente, para o salvarem da dor e do sofrimento decorrentes do exercício incorreto das funções sexuais.
 
-Contudo, se esse regime tivesse permanecido o ser humano continuaria sendo um autômato guiado por Deus, e nunca se teria convertido numa Personalidade, num indivíduo.
+Contudo, se esse regime tivesse permanecido o ser humano continuaria sendo um autômato guiado por Deus, e nunca se teria convertido numa Personalidade, num indivíduo. A conversão em indivíduo se deve a uma classe, muito criticada pelo próprio ser humano, de entidades angélicas, chamada Espíritos Lucíferos[8].
 
-A conversão em indivíduo se deve a uma classe, muito criticada pelo próprio ser humano, de entidades angélicas, chamada Espíritos Lucíferos[8].
+() - [8] N.R.: a crítica que se faz a eles é exagerada, já que eles também possuem boas qualidades. Veja mais no livro: Cristianismo Rosacruz – Conferência 14: Lúcifer – tentador ou benfeitor?
 
 #### <h4 id="the-lucifer-spirits">Os Espíritos Lucíferos</h4>
 
@@ -2502,17 +2458,19 @@ Esses espíritos eram uma classe de atrasados da Onda de Vida dos Anjos. No Per�
 
 Eles estavam, assim, em uma situação muito séria. O único caminho que puderam encontrar para se expressarem e adquirir conhecimento foi usar o cérebro físico do ser humano. Através dele podiam se fazer compreender por um ser físico dotado de cérebro, o que os Anjos não podiam fazer.
 
-Como dissemos, o ser humano, na última parte da Época Lemúrica, não podia ver o Mundo Físico, tal como nós o vemos atualmente, pois estava inconsciente do Mundo exterior. O Mundo do Desejo lhe era muito mais real. Tinha a consciência do sono com sonhos do Período Lunar, uma consciência pictórica interna. Os Lucíferos não encontraram dificuldade alguma em se manifestarem a essa consciência interna e lhe chamar a atenção para a forma exterior, que antes o ser humano não tinha percebido. Ensinaram-lhe como podia deixar de ser simplesmente o escravo dos poderes exteriores e como poderia se converter em seu próprio dono e senhor, se parecendo aos deuses, “conhecendo o bem e o mal”[9].
+Como dissemos, o ser humano, na última parte da Época Lemúrica, não podia ver o Mundo Físico, tal como nós o vemos atualmente, pois estava inconsciente do Mundo exterior. O Mundo do Desejo lhe era muito mais real. Tinha a consciência do sono com sonhos do Período Lunar, uma consciência pictórica interna. Os Lucíferos não encontraram dificuldade alguma em se manifestarem a essa consciência interna e lhe chamar a atenção para a forma exterior, que antes o ser humano não tinha percebido. Ensinaram-lhe como podia deixar de ser simplesmente o escravo dos poderes exteriores e como poderia se converter em seu próprio dono e senhor, se parecendo aos deuses, “conhecendo o bem e o mal”[9]. Outrossim, fizeram compreender que não devia ter apreensão quanto à morte do Corpo; que possuía em si a capacidade de formar novos Corpos, sem necessidade da intervenção dos Anjos. 
 
-Outrossim, fizeram compreender que não devia ter apreensão quanto à morte do Corpo; que possuía em si a capacidade de formar novos Corpos, sem necessidade da intervenção dos Anjos. Todas essas coisas os Lucíferos disseram com o único propósito de que o ser humano dirigisse sua consciência ao exterior, para que eles aproveitassem e adquirissem conhecimentos conforme o ser humano os fosse obtendo.
+() - [9] N.T.: Gn 3:22
 
-Estas experiências resultaram em dor e sofrimento, o que, antes, o ser humano não conhecia, mas deram também a inestimável bênção da emancipação das influências e direção alheias e o ser humano iniciou a evolução de seus poderes espirituais. Essa evolução, um dia, permitir-lhe-á construir por si próprio, com tanta sabedoria como os Anjos e os outros Seres que o guiaram antes de exercitar sua vontade.
+Todas essas coisas os Lucíferos disseram com o único propósito de que o ser humano dirigisse sua consciência ao exterior, para que eles aproveitassem e adquirissem conhecimentos conforme o ser humano os fosse obtendo. Estas experiências resultaram em dor e sofrimento, o que, antes, o ser humano não conhecia, mas deram também a inestimável bênção da emancipação das influências e direção alheias e o ser humano iniciou a evolução de seus poderes espirituais. Essa evolução, um dia, permitir-lhe-á construir por si próprio, com tanta sabedoria como os Anjos e os outros Seres que o guiaram antes de exercitar sua vontade.
 
 Antes dos seres humanos serem iluminados pelos Espíritos Lucíferos não conheciam enfermidades, nem dor, nem morte. Essas coisas foram o resultado do emprego ignorante da faculdade propagadora e de seu abuso na gratificação dos sentidos. Os animais em estado selvagem são livres de enfermidades e dores, porque se propagam sob o cuidado e direção dos sábios Espíritos-grupo, nas épocas do ano propícias a tal objetivo. A função sexual tem por única finalidade a perpetuação das espécies e não a gratificação dos desejos sensuais, seja qual for o prisma pelo qual se examine a questão.
 
 Se o ser humano continuasse sendo um autômato guiado por Deus, não teria conhecido, até hoje, nem a enfermidade, nem a dor, nem a morte, mas também não teria obtido a consciência cerebral e a independência resultante da iluminação proporcionada pelos Espíritos Lucíferos, os “dadores da luz”. Eles abriram o entendimento e ensinaram a empregar a obscura visão para obter conhecimento do Mundo Físico, o qual estavam destinados a conquistar.
 
-Desde esse tempo, duas forças agem no ser humano. Uma, a dos Anjos, se dirige para baixo, para a propagação e, por meio do Amor, forma novos seres na matriz. Os Anjos são, portanto, os perpetuadores da Raça. A outra força é a dos Espíritos Lucíferos, os investigadores de todas as atividades mentais. Dirige para cima, para o trabalho cerebral, a outra parte da força sexual.
+Desde esse tempo, duas forças agem no ser humano. Uma, a dos Anjos, se dirige para baixo, para a propagação e, por meio do Amor, forma novos seres na matriz. Os Anjos são, portanto, os perpetuadores da Raça. 
+
+A outra força é a dos Espíritos Lucíferos, os investigadores de todas as atividades mentais. Dirige para cima, para o trabalho cerebral, a outra parte da força sexual.
 
 Os Lucíferos são também chamados “serpentes”. Diversas mitologias assim os representam. Diremos mais sobre eles quando chegarmos à análise do Gênese. No momento já dissemos o bastante para encaminhar a investigação para o progresso evolutivo que trouxe o ser humano desde os tempos remotos, através das Épocas Atlante e Ária, até nossos dias.
 
@@ -2525,6 +2483,8 @@ Quando nasce uma Raça, as formas, animadas por certo grupo de espíritos têm a
 A razão disso não se encontra longe. Novos Corpos de Raça aparecem flexíveis e plásticos, que proporcionam, aos Egos neles renascentes, grande margem de condições para melhorar esses veículos e, por consequência, eles mesmos progredirem. Os Egos mais avançados nascem nesses Corpos e melhoram-nos o mais que podem. Contudo, sendo esses Egos unicamente aprendizes, não podem evitar que esses veículos se cristalizem lentamente, até chegar ao limite mínimo de eficiência que esse Corpo seja capaz de proporcionar. Então, novas formas são criadas para proporcionar aos Egos de uma nova Raça maior margem de experiência e desenvolvimento. Os Corpos descartados se convertem em habitações de Egos menos avançados, que os aproveitam como degraus do largo caminho do progresso. Desta sorte, os antigos Corpos de uma Raça vão sendo empregados por Egos de crescente inferioridade, e degeneram gradualmente, até que já não haja Egos suficientemente inferiores que possam obter algum proveito do renascimento em tais Corpos. As mulheres se tornam estéreis e os Corpos da Raça morrem.
 
 Podemos facilmente mostrar esse processo por meio de certos exemplos. A Raça teutônica-anglo-saxônica (especialmente o ramo americano) tem um Corpo mais brando e flexível e um Sistema Nervoso mais sensível do que qualquer outra Raça dos tempos atuais. Os indianos e os negros, por terem Corpos muito mais endurecidos e Sistema Nervoso mais rude, são muito menos sensíveis aos ferimentos. Um indiano continua lutando depois de receber ferimentos, cujo choque bastaria para derrubar ou matar um branco, enquanto o indiano se restabelece imediatamente. Os aborígines australianos (Bushmen[10]) são um exemplo palpável da morte de uma Raça, devido à esterilidade, apesar de todos os esforços que o governo britânico vem fazendo para perpetuá-los.
+
+() - [10] N.R.: Ou bushman que vivem na região rural, inexplorada, conhecida como “bush” da Austrália.
 
 Diz-se que onde entra a Raça branca as outras Raças desaparecem. Os brancos têm sido acusados de terríveis opressões sobre as outras Raças, tendo massacrado multidões de nativos indefesos e desprevenidos, como prova a conduta dos espanhóis com os antigos peruanos e mexicanos, se temos que apontar um entre tantos exemplos. As obrigações resultantes de tais abusos de confiança, de inteligência e de poder serão pagas até o último centavo, por aqueles que neles incorreram. Todavia, ainda que os brancos não tivessem massacrado, escravizado, martirizado e maltratado as antigas Raças, elas desapareceriam, sem bem que mais lentamente. Tal é a Lei da Evolução, a ordem da Natureza. No futuro, quando os Corpos das Raças brancas forem habitados por Egos que atualmente ocupam Corpos das Raças vermelha, negra, amarela ou parda, terão degenerado tanto que também desaparecerão, para serem substituídos por outros e melhores veículos.
 
@@ -2542,17 +2502,19 @@ Da parte sul do Planeta vinha o alento ardente dos vulcões, ainda muito ativos.
 
 Através dessa atmosfera nunca brilhava o Sol com claridade. Aparecia como que rodeado de uma aura de luz vaga, como acontece com as luzes das ruas, em tempo de neblina. O Atlante só podia ver a uma distância de poucos metros em qualquer direção, e os contornos de todos os objetos próximos pareciam indefinidos e incertos. O ser humano se guiava mais pela percepção interna do que pela visão externa.
 
-Não somente a Terra, também os seres humanos eram muito diferentes dos atuais. Tinham cabeça, mas quase nada de testa, o cérebro não tinha desenvolvimento frontal. A cabeça era inclinada para trás, desde acima dos olhos.
+Não somente a Terra, também os seres humanos eram muito diferentes dos atuais. Tinham cabeça, mas quase nada de testa, o cérebro não tinha desenvolvimento frontal. A cabeça era inclinada para trás, desde acima dos olhos. Comparados com a atual Humanidade, eram gigantes. Em proporções aos Corpos, tinham braços e pernas muito maiores do que os nossos. Em vez de caminhar, avançavam por pequenos saltos, semelhantes aos do canguru. Os olhos eram pequenos e pestanejantes. Seu cabelo era reto, negro, de secção redonda, enquanto os da Época Ária, se bem que possa diferir na cor, tem sempre a secção oval. Está última particularidade, a secção redonda dos cabelos, define, além de outras, os descendentes de Atlantes atualmente existentes. As orelhas dos Atlantes estavam muito mais para cima e para trás da cabeça do que as orelhas dos da Época Ária.
 
-Comparados com a atual Humanidade, eram gigantes. Em proporções aos Corpos, tinham braços e pernas muito maiores do que os nossos. Em vez de caminhar, avançavam por pequenos saltos, semelhantes aos do canguru. Os olhos eram pequenos e pestanejantes. Seu cabelo era reto, negro, de secção redonda, enquanto os da Época Ária, se bem que possa diferir na cor, tem sempre a secção oval. Está última particularidade, a secção redonda dos cabelos, define, além de outras, os descendentes de Atlantes atualmente existentes. As orelhas dos Atlantes estavam muito mais para cima e para trás da cabeça do que as orelhas dos da Época Ária.
+Os veículos superiores dos Atlantes primitivos não estavam, em relação ao Corpo Denso, na posição concêntrica dos nossos. O espírito não era um espírito interno porque estava parcialmente fora, então, em virtude disso, não podia exercer um controle de seus veículos, e dominá-los tão facilmente como se estivesse inteiramente dentro. A cabeça do Corpo Vital estava fora, mais acima do que a do Corpo físico[11]. Há um ponto, colocado na “raiz do nariz”, entre os arcos supraciliares, a um centímetro e meio abaixo da pele, que tem um correspondente no Corpo Vital. Esse ponto não é o Corpo Pituitário[12], que está muito mais para dentro da cabeça do Corpo Denso. Quando esses dois pontos, do Corpo Vital e do Denso se põem em correspondência, como acontece no ser humano atual, o Clarividente treinado pode ver ali uma mancha preta, ou, em outras palavras, um como que espaço vazio, semelhante ao núcleo invisível da chama de gás. É o assento do espírito interno do ser humano, o Santo dos Santos no Templo do Corpo humano, fechado para todos menos para o espírito interno do ser humano, o Ego, que nele habita. O Clarividente treinado pode ver, com maior ou menor acuidade segundo sua capacidade e treinamento, todos os diferentes Corpos que formam a aura humana, mas esse ponto, esse lugar, está oculto para ele. É a “Isis”, cujo véu ninguém pode erguer. O ser mais evoluído não pode erguer o véu do Ego, nem mesmo da mais humilde e menos desenvolvida criatura. Sobre a Terra, isso e somente isso, é tão sagrado que está completamente a salvo de toda e qualquer intromissão.
 
-Os veículos superiores dos Atlantes primitivos não estavam, em relação ao Corpo Denso, na posição concêntrica dos nossos. O espírito não era um espírito interno porque estava parcialmente fora, então, em virtude disso, não podia exercer um controle de seus veículos, e dominá-los tão facilmente como se estivesse inteiramente dentro. A cabeça do Corpo Vital estava fora, mais acima do que a do Corpo físico[11].
+() - [11] N.R.: que é o Corpo Denso
 
-Há um ponto, colocado na “raiz do nariz”, entre os arcos supraciliares, a um centímetro e meio abaixo da pele, que tem um correspondente no Corpo Vital. Esse ponto não é o Corpo Pituitário[12], que está muito mais para dentro da cabeça do Corpo Denso. Quando esses dois pontos, do Corpo Vital e do Denso se põem em correspondência, como acontece no ser humano atual, o Clarividente treinado pode ver ali uma mancha preta, ou, em outras palavras, um como que espaço vazio, semelhante ao núcleo invisível da chama de gás. É o assento do espírito interno do ser humano, o Santo dos Santos no Templo do Corpo humano, fechado para todos menos para o espírito interno do ser humano, o Ego, que nele habita. O Clarividente treinado pode ver, com maior ou menor acuidade segundo sua capacidade e treinamento, todos os diferentes Corpos que formam a aura humana, mas esse ponto, esse lugar, está oculto para ele. É a “Isis”, cujo véu ninguém pode erguer. O ser mais evoluído não pode erguer o véu do Ego, nem mesmo da mais humilde e menos desenvolvida criatura. Sobre a Terra, isso e somente isso, é tão sagrado que está completamente a salvo de toda e qualquer intromissão.
+() - [12] N.R.: também chamada de Hipófise
 
 Os dois pontos de que acabamos de tratar, um no Corpo Denso e outro na contraparte do Corpo Vital, estavam muito separados no ser humano dos primitivos tempos da Atlântida. Assim estão, atualmente, nos animais de nossos dias. A cabeça do Corpo Vital do cavalo está muito separada da cabeça de seu Corpo Denso. No cachorro estão mais próximos do que em qualquer outro animal, salvo talvez no elefante. Se chegarem a juntar-se, dão os casos de animais prodígios, que podem aprender a contar, reconhecer letras e palavras, etc.
 
 A separação desses dois pontos dava à percepção do Atlante poder muito mais agudo nos Mundos internos do que no Mundo Físico, ainda obscurecido por essa atmosfera de neblina densa e pesada. Com o decorrer do tempo, a atmosfera se foi tornando mais clara, e os pontos citados se aproximaram pouco a pouco. No mesmo ritmo, o ser humano perdeu o contato com os Mundos internos, que lhe pareciam mais obscuros à medida que o Corpo físico[13] se delineava. Finalmente no último terço da Época Atlante, o ponto do Corpo Vital se uniu ao ponto correspondente do Corpo Denso. Desde esse momento obteve a plena visão e percepção do Mundo Físico. A maioria perdeu gradualmente a capacidade de perceber os Mundos superiores.
+
+() - [13] N.R.: que é o Corpo Denso
 
 Nos primeiros tempos, o Atlante não percebia claramente as linhas de um objeto ou pessoa, mas via sua Alma e de uma vez percebia seus atributos, fossem ou não benéficos para ele. Sabia logo das disposições, amigáveis ou agressivas, do ser humano ou animal que o observava; se tornou conhecedor pela percepção espiritual; como devia tratar os demais e como podia escapar aos perigos. Portanto, quando os Mundos espirituais gradualmente se desvaneceram de sua consciência, grande foi sua tristeza e o seu embaraço pela perda da visão dos Mundos espirituais.
 
@@ -2568,15 +2530,11 @@ Os Toltecas formaram a terceira Raça atlante. Levaram mais adiante essas ideias
 
 A educação se efetuava evocando, ante a Alma do menino, os quadros de diversas fases da vida. A consciência dos primitivos Atlantes era predominantemente uma consciência interna pictórica. O poder do educador era preponderante para evocar esses quadros ante a Alma do menino. Dele dependiam as qualidades anímicas que possuíam o ser humano já maduro. Despertava-se o instinto e não a razão; por esse método de educação, o filho absorvia realmente as qualidades do pai. Portanto, se os filhos sempre herdavam a maior parte das boas qualidades de seus pais, havia fortes razões, naqueles tempos, para prestar honras aos descendentes de grandes homens. Infelizmente, não sucede isso nos tempos atuais, embora continuemos com o mesmo costume de honrar os filhos dos grandes homens. Agora não temos razão para fazê-lo.
 
-Entre os Toltecas, a experiência era considerada de grande valor. O ser humano que obtivesse as mais variadas experiências era o mais honrado e procurado. A memória era tão grande e exata que a da Humanidade atual em comparação nada é. Em qualquer emergência, um Tolteca de grande experiência e prática recordar-se-ia provavelmente de casos semelhantes ocorridos no passado, deduzindo imediatamente o que fazer. Tornava-se um inestimável conselheiro para a comunidade.
-
-Quando, em alguma situação, não tinham experiência anterior, ficavam incapazes de pensar ou deduzir por analogia o que deveriam fazer na emergência. E quando na comunidade não havia indivíduos daquela estirpe, se viam obrigados a experimentar para encontrarem a melhor solução.
+Entre os Toltecas, a experiência era considerada de grande valor. O ser humano que obtivesse as mais variadas experiências era o mais honrado e procurado. A memória era tão grande e exata que a da Humanidade atual em comparação nada é. Em qualquer emergência, um Tolteca de grande experiência e prática recordar-se-ia provavelmente de casos semelhantes ocorridos no passado, deduzindo imediatamente o que fazer. Tornava-se um inestimável conselheiro para a comunidade. Quando, em alguma situação, não tinham experiência anterior, ficavam incapazes de pensar ou deduzir por analogia o que deveriam fazer na emergência. E quando na comunidade não havia indivíduos daquela estirpe, se viam obrigados a experimentar para encontrarem a melhor solução.
 
 Em meados do último terço da Época Atlante, começavam a surgir as nações separadas. Grupos de pessoas entre si notavam gostos e costumes semelhantes, abandonavam os antigos lugares e fundavam uma nova colônia. Porém, recordavam os antigos costumes e, no possível, seguiam-nos em seus novos lugares, criando ao mesmo tempo outros novos, em harmonia com novas ideias e necessidades particulares.
 
-Os Líderes da Humanidade prepararam grandes Reis para o povo, revestidos de grande poder. As massas honravam esses reis com toda a reverência devida aos que, na verdade, eram reis “pela graça de Deus”. Tão feliz estado de coisas, entretanto, levava o germe da desintegração, porque os reis, com o decorrer do tempo, se tornaram soberbos. Esqueceram que o poder tinha sido posto em suas mãos pela graça de Deus, como coisa sagrada. Olvidaram que foram feitos reis para agir com justiça e ajudar o povo. Ao contrário, em vez de usarem os poderes para o bem comum, usaram-no para corrupção, com fins egoístas, para engrandecimento pessoal. Arrogavam-se privilégios e autoridade que nunca lhes tinham sido concedidos. À ambição e ao egoísmo sujeitaram-se. Abusaram dos poderes concedidos pela divindade, oprimindo e vingando-se. Assim procederam não só os reis, mas também os nobres e as classes mais elevados.
-
-É fácil compreender que tais abusos tinham de produzir terríveis condições, considerando a magnitude dos poderes que uns e outros possuíam sobre os seus súditos.
+Os Líderes da Humanidade prepararam grandes Reis para o povo, revestidos de grande poder. As massas honravam esses reis com toda a reverência devida aos que, na verdade, eram reis “pela graça de Deus”. Tão feliz estado de coisas, entretanto, levava o germe da desintegração, porque os reis, com o decorrer do tempo, se tornaram soberbos. Esqueceram que o poder tinha sido posto em suas mãos pela graça de Deus, como coisa sagrada. Olvidaram que foram feitos reis para agir com justiça e ajudar o povo. Ao contrário, em vez de usarem os poderes para o bem comum, usaram-no para corrupção, com fins egoístas, para engrandecimento pessoal. Arrogavam-se privilégios e autoridade que nunca lhes tinham sido concedidos. À ambição e ao egoísmo sujeitaram-se. Abusaram dos poderes concedidos pela divindade, oprimindo e vingando-se. Assim procederam não só os reis, mas também os nobres e as classes mais elevados. É fácil compreender que tais abusos tinham de produzir terríveis condições, considerando a magnitude dos poderes que uns e outros possuíam sobre os seus súditos.
 
 Os Turânios originais foram a quarta Raça atlante. Seu abominável egoísmo fazia-os caracteristicamente vis. Oprimiam muitíssimo as classes inferiores desamparadas, e levantaram templos onde os reis eram adorados como deuses. Florescia a magia negra, da pior classe e a mais nauseabunda. Todos os esforços eram encaminhados à gratificação da vaidade e da ostentação externa.
 
@@ -2614,7 +2572,13 @@ Durante as idades anteriores (desde o começo do Período de Saturno e através 
 
 O Guia chamou o povo. Reunindo, lhe dirigiu a palavra de forma que assim podemos expressar:
 
-“Anteriormente, vistes Aqueles que vos guiavam. Sabeis, porém, que há Líderes de maiores graus de esplendor, superiores aos primeiros, que nunca vistes, mas que vos guiaram sempre, grau a grau, na evolução da consciência. Exaltado e acima de todos esses Seres gloriosos está o Deus invisível, criador do Céu e da Terra sobre a qual estais. Ele quis dar-vos domínio sobre toda a Terra, para que possais frutificar e multiplicar-vos nela. Deveis adorar a esse Deus invisível, mas adorá-Lo em Espírito e Verdade, e não fazer nenhuma imagem d’Ele, nem procurar pintá-Lo semelhante a vós, porque ele está presente em todas as partes e além de toda comparação ou semelhança. Se seguirdes os Seus preceitos Ele vos abençoará abundantemente e vos cumulará de bens. Se vos afastardes dos Seus caminhos, os males virão sobre vós. A escolha é vossa. Sois livres, mas devereis sofrer as consequências de vossos próprios atos”.
+“Anteriormente, vistes Aqueles que vos guiavam. Sabeis, porém, que há Líderes de maiores graus de esplendor, superiores aos primeiros, que nunca vistes, mas que vos guiaram sempre, grau a grau, na evolução da consciência. 
+
+Exaltado e acima de todos esses Seres gloriosos está o Deus invisível, criador do Céu e da Terra sobre a qual estais. Ele quis dar-vos domínio sobre toda a Terra, para que possais frutificar e multiplicar-vos nela. 
+
+Deveis adorar a esse Deus invisível, mas adorá-Lo em Espírito e Verdade, e não fazer nenhuma imagem d’Ele, nem procurar pintá-Lo semelhante a vós, porque ele está presente em todas as partes e além de toda comparação ou semelhança. 
+
+Se seguirdes os Seus preceitos Ele vos abençoará abundantemente e vos cumulará de bens. Se vos afastardes dos Seus caminhos, os males virão sobre vós. A escolha é vossa. Sois livres, mas devereis sofrer as consequências de vossos próprios atos”.
 
 A educação do ser humano se efetua em quatro grandes etapas. Na primeira se age sobre ele, de fora, enquanto permanece inconsciente. Depois, é colocado sob a direção dos Mensageiros Divinos e Reis, a quem vê, e a cujas ordens devem obedecer. Em terceira etapa se ensina a ele a reverenciar as ordens de um Deus a Quem não vê. Finalmente, aprende a se elevar sobre toda ordem, a se converter em uma lei em si mesmo. Conquistando-se a si, aprende a viver voluntariamente, em harmonia com a Ordem da Natureza, que é a Lei de Deus.
 
@@ -2650,21 +2614,15 @@ No final da nossa Época atual, o mais elevado Iniciado aparecerá publicamente,
 
 Os nomes das Raças que apareceram sobre a Terra durante a Quinta Época, até agora, são os seguintes:
 
-1. A Ariana, que se dirigiu para o sul da Índia
-
-2. A Babilônica-Assíria-Caldaica
-
-3. A Persa-Greco-Latina
-
-4. A Céltica
-
-5. A Teuto-Anglo-Saxônica, à qual pertencem os norte-americanos
+1\. A Ariana, que se dirigiu para o sul da Índia
+2\. A Babilônica-Assíria-Caldaica
+3\. A Persa-Greco-Latina
+4\. A Céltica
+5\. A Teuto-Anglo-Saxônica, à qual pertencem os norte-americanos
 
 Da mescla das diferentes nações, como atualmente acontece nos Estados Unidos, virá a “semente” para a última Raça, no início da Sexta Época.
 
-Duas Raças mais se desenvolverão na nossa Época atual, sendo uma delas a Eslava. Quando, no transcurso de algumas centenas de anos, o Sol, devido à Precessão dos Equinócios, tenha entrado no Signo de Aquário, o povo russo e as Raças eslavas em geral alcançarão um grau de desenvolvimento espiritual que os levará muito além de sua condição atual. A música será o fator principal para que isso aconteça, pois nas asas da música a Alma, que está sintonizada com ela, pode voar para o próprio Trono de Deus, onde o mero intelecto não pode alcançar.
-
-Entretanto, o desenvolvimento assim obtido não é permanente, porque é unilateral e, portanto, não está em harmonia com a lei da evolução, que demanda que o desenvolvimento, para ser permanente, deve ser uniformemente equilibrado – em outras palavras, a espiritualidade deve se desenvolver através do, ou pelo menos igualmente com o, intelecto. Por esse motivo, a civilização eslava será de vida curta, mas será grande e muito feliz enquanto durar, porque terá nascido da dor e do sentimento de tristeza, de pesar e de sofrimento sem conta, e a lei de Compensação lhe levará ao oposto, a seu devido tempo.
+Duas Raças mais se desenvolverão na nossa Época atual, sendo uma delas a Eslava. Quando, no transcurso de algumas centenas de anos, o Sol, devido à Precessão dos Equinócios, tenha entrado no Signo de Aquário, o povo russo e as Raças eslavas em geral alcançarão um grau de desenvolvimento espiritual que os levará muito além de sua condição atual. A música será o fator principal para que isso aconteça, pois nas asas da música a Alma, que está sintonizada com ela, pode voar para o próprio Trono de Deus, onde o mero intelecto não pode alcançar. Entretanto, o desenvolvimento assim obtido não é permanente, porque é unilateral e, portanto, não está em harmonia com a lei da evolução, que demanda que o desenvolvimento, para ser permanente, deve ser uniformemente equilibrado – em outras palavras, a espiritualidade deve se desenvolver através do, ou pelo menos igualmente com o, intelecto. Por esse motivo, a civilização eslava será de vida curta, mas será grande e muito feliz enquanto durar, porque terá nascido da dor e do sentimento de tristeza, de pesar e de sofrimento sem conta, e a lei de Compensação lhe levará ao oposto, a seu devido tempo.
 
 Dos eslavos descenderá um povo que formará a última das sete Raças da Época Ária. Do povo dos Estados Unidos descenderá a última de todas as Raças desse Esquema de Evolução, que começará seu curso ao princípio da Sexta Época.
 
@@ -2676,44 +2634,17 @@ Nos Períodos, Revoluções e Épocas em que não há Raças, há mais tempo, a 
 
 Cristo é o Grande Unificador da Sexta Época e anunciou esta lei quando pronunciou estas palavras pouco compreendidas: “Se alguém vem a mim e não abandona seu pai, sua mãe, seus filhos, seus irmãos e irmãs, e até sua própria vida, não pode ser meu Discípulo”[14].
 
-    “Quem quiser ser meu Discípulo, que tome sobre si a sua cruz e siga-me”[15].
-    “… quem não abandonar tudo o que tenha não pode ser meu Discípulo”[16].
+() - [14] N.R.: Mt 10:37
+
+“Quem quiser ser meu Discípulo, que tome sobre si a sua cruz e siga-me”[15].
+
+() - [15] N.R.: Mt 16:24
+
+“… quem não abandonar tudo o que tenha não pode ser meu Discípulo”[16].
+
+() - [16] N.R.: Lc 14:26
 
 Isto não quer dizer que devemos deixar ou desprezar os laços familiares, mas que devemos elevar-nos acima deles. Pai e mãe são “Corpos” e todas as relações são questões da Raça, pertencentes à Forma. As Almas devem reconhecer que não são Corpos, nem Raças, mas sim Egos lutando pela perfeição. Se um ser humano se esquece disto e se identifica com a Raça – aderindo a ela com fanático patriotismo – é o mesmo que fossilizar-se, enquanto seus companheiros passam a outras alturas do Caminho da Realização.
-
-[1] N.R.: também chamada de Epífise Neural
-
-[2] Elena Petrovna Blavatskaya (1831-1891) – mais conhecida como Helena Blavatsky ou Madame Blavatsky, responsável pela sistematização da moderna Teosofia e cofundadora da Sociedade Teosófica.
-
-[3] Alfred Percy Sinnett (1840-1921) – escritor e teósofo britânico
-
-[4] N.R.: Gn 4:25
-
-[5] N.R.: ISm 1:19
-
-[6] N.R.: Lc 1:34
-
-[7] N.R.: Gn 2:9
-
-[8] N.R.: a crítica que se faz a eles é exagerada, já que eles também possuem boas qualidades. Veja mais no livro: Cristianismo Rosacruz – Conferência 14: Lúcifer – tentador ou benfeitor?
-
-[9] N.T.: Gn 3:22
-
-[10] N.R.: Ou bushman que vivem na região rural, inexplorada, conhecida como “bush” da Austrália.
-
-[11] N.R.: que é o Corpo Denso
-
-[12] N.R.: também chamada de Hipófise
-
-[13] N.R.: que é o Corpo Denso
-
-[14] N.R.: Mt 10:37
-
-[15] N.R.: Mt 16:24
-
-[16] N.R.: Lc 14:26
-
-************************************************************************************************************
 
 ### <h3 id="chapter-13">Capítulo XIII – Retorno à Bíblia</h3>
 
@@ -2727,17 +2658,23 @@ Na metade da Época Atlante, o espírito penetrou completamente nos seus veícul
 
 A transmutação da astúcia em razão não foi tarefa fácil. As primeiras transformações na natureza humana, sim, se efetuaram facilmente. A Humanidade podia ser guiada sem dificuldades porque não tinha desejos conscientes nem a Mente para se dirigir. Contudo, os Semitas Originais se tornaram suficientemente astutos para sentir as limitações de sua liberdade e para escapar, repetidas vezes, das medidas tomadas para mantê-los na linha evolutiva. A tarefa se tornou sumamente difícil por ser necessário que tivessem alguma liberdade de escolha a fim de, em devido tempo, poderem aprender a se dominar. Nesse sentido, foi decretada uma lei de recompensa imediata para a obediência e de castigo instantâneo para a violação dela. Desse modo, o ser humano foi ensinado a raciocinar e a compreender, embora de limitada maneira, que “o caminho do transgressor é muito duro” e que devia “temer a Deus” ou ao Guia condutor.
 
-De todos os escolhidos como “semente” da nova Raça só uns poucos permaneceram fiéis. A maioria se rebelou e, pelo que lhes tocava, frustraram completamente o propósito do Líder ao se casar com membros de outras Raças atlantes e ao transmitir, assim, sangue inferior aos seus descendentes. Isto é o que pretende significar a passagem da Bíblia, ao se referir aos “filhos de Deus” que se casaram com as “filhas dos homens”[1].
+De todos os escolhidos como “semente” da nova Raça só uns poucos permaneceram fiéis. A maioria se rebelou e, pelo que lhes tocava, frustraram completamente o propósito do Líder ao se casar com membros de outras Raças atlantes e ao transmitir, assim, sangue inferior aos seus descendentes. Isto é o que pretende significar a passagem da Bíblia, ao se referir aos “filhos de Deus” que se casaram com as “filhas dos homens”[1]. Em consequência dessa desobediência, foram abandonados e “perdidos”. Os que permaneceram fiéis também morreram, no que respeita ao Corpo, no Deserto de Gobi (o Deserto) na Ásia Central, o berço de nossa Raça atual e, renascendo como descendentes de si próprios, herdaram a “Terra Prometida”[2], a Terra, tal como é agora. Constituem as Raças árias, nas quais a razão se desenvolve para a perfeição.
 
-Em consequência dessa desobediência, foram abandonados e “perdidos”. Os que permaneceram fiéis também morreram, no que respeita ao Corpo, no Deserto de Gobi (o Deserto) na Ásia Central, o berço de nossa Raça atual e, renascendo como descendentes de si próprios, herdaram a “Terra Prometida”[2], a Terra, tal como é agora. Constituem as Raças árias, nas quais a razão se desenvolve para a perfeição.
+() - [1] N.T.: Gn 6:1-4
+
+() - [2] N.R.: Gn 12:7
 
 Os rebeldes abandonados foram os judeus, cuja maioria ainda é governada mais pela faculdade atlante da astúcia do que pela razão. Nesse, o sentimento de Raça é tão forte que só distinguem duas classes de povos: judeus e gentios. Desprezam as demais nações que, por sua vez, em vista da sua astúcia, egoísmo e avareza os desprezam também. Não se nega caridade, mas fazem-na, principalmente, se não exclusivamente, entre seu próprio povo, e poucas vezes internacionalmente, como aconteceu no caso dos desastres ocorridos na Itália em consequência dos terremotos, em cuja ocasião todas as barreiras de credos, Raças e nacionalidades foram esquecidas ante o sentimento de simpatia humana.
 
 Perante tais casos, como no desastre de S. Francisco[3], evidencia-se a natureza espiritual interna do ser humano, mais do que em quaisquer outras circunstâncias. O observador atento pode, então, discernir a tendência evolutiva. O coração sente e reconhece a grande verdade de que somos todos irmãos, e de que a desgraça de um é realmente sentida por todos, embora nos esqueçamos disso em meio das lutas de nossa vida diária. Tais incidentes são indicativos da direção evolutiva. Depois da razão o ser humano será dominado pelo amor que, atualmente, ainda age independentemente e, às vezes, até contrariando os ditados da razão. Essa anomalia ocorre porque atualmente, o amor é raras vezes altruísta e nem sempre nossa razão é certa. Na “Nova Galileia”, a próxima Sexta Época, o amor far-se-á altruísta e a razão aprovará seus ditames. A Fraternidade Universal realizar-se-á plenamente e cada um trabalhará para o bem de todos. O egoísmo será coisa do passado.
 
+() - [3] Cidade de São Francisco na Califórnia, Estados Unidos. Refere-se ao terremoto nessa cidade em 1906.
+
 Para alcançar esse esperado fim, será necessário selecionar outro “povo escolhido” nas atuais linhagens de reserva. Será o núcleo donde possa surgir a nova Raça. Tal escolha não se fará contra a vontade dos escolhidos, cada ser humano deve se eleger e entrar voluntariamente nas fileiras.
 
 As Raças são traços evanescentes da evolução. Antes de terminar a Época Lemúrica houve um povo eleito, o antecessor das Raças atlantes, diferente da Humanidade comum daquele tempo. Da quinta Raça atlante foi selecionado outro “povo escolhido”, de que descenderam as Raças árias. Cinco já passaram e haverá duas mais. Antes do começo de uma nova Época, haverá “um novo Céu e uma nova Terra”[4], isto é, mudar-se-ão os caracteres físicos da Terra. Sua densidade diminuirá também. Haverá uma Raça no princípio da próxima Época. Depois, desaparecerá todo o pensamento ou sentimento de Raça. A Humanidade constituirá uma vasta fraternidade sem qualquer distinção. As Raças são simples degraus evolutivos pelos quais devemos passar; caso contrário não haveria progresso algum para os espíritos que nelas renascem. Porém, embora necessários, são degraus extremamente perigosos e obrigam os Líderes da Humanidade a agir com muito cuidado. Eles chamam a essas dezesseis Raças “os dezesseis caminhos da destruição”, porque nas Épocas precedentes, quando não havia Raças, as mudanças só se efetivavam depois de enormes intervalos, o que permitia à maioria das entidades se prepararem com mais facilidade. As Raças, comparativamente, são fugazes. Por isso, se deve agir com muito cuidado a fim de impedir a aderência demasiada dos espíritos aos caracteres raciais.
+
+() - [4] N.R.: Ap 21:1
 
 Foi exatamente o que aconteceu com os espíritos renascidos nos Corpos da Raça judia. Ligaram-se a ela de modo tão firme que nela sempre renascem. “Uma vez judeu sempre judeu” é o seu lema. Esqueceram-se completamente de sua natureza espiritual e se gloriam do fato material de serem “sementes de Abraão”. Portanto, “não são carne nem peixe”. Não tomaram parte alguma do desenvolvimento da Raça Ária. Entretanto, são mais avançados do que os remanescentes dos povos Atlantes e Lemúricos, que ainda temos entre nós. Converteram-se num povo sem pátria, uma anomalia na Humanidade.
 
@@ -2745,9 +2682,17 @@ Limitados nessa ideia de Raça, o Líder do seu tempo se viu obrigado a abandon�
 
 Como tentativa final para persuadi-los a pôr de lado a aderência à Raça, encarnou entre eles, parecendo uma anomalia, o Guia da Raça seguinte, o Grande instrutor Cristo. Isto mostra também a compaixão e a sabedoria dos Grandes Seres que guiam a evolução. Entre todas as Raças da Terra não havia nenhuma outra “perdida” no mesmo sentido que os judeus, e nenhuma outra necessitava de tanta ajuda. Enviar-lhes um estrangeiro, alguém que não fosse de sua própria Raça, teria sido manifestamente inútil. Antecipadamente se concluiria que o rejeitariam. Assim como o grande espírito conhecido com o nome de Booker T. Washington[5] encarnou entre os negros e estes o receberam como um dos seus, habilitando-o a iluminá-los de maneira tal como nenhum branco poderia tê-lo feito, assim também os grandes Líderes esperavam que a aparição de Cristo entre os judeus, como um de sua própria Raça, pudesse fazê-los aceitar Seus ensinamentos e sair de sua adesão aos Corpos de Raça. Contudo, é muito triste ver como prevalecem os preconceitos humanos! “Ele veio através do seu próprio sangue” e eles escolheram a Barrabás[6]. Não glorificou Abraão nem nenhuma das antigas tradições. Falou-lhes de “outro mundo”, de uma nova Terra de Amor e Perdão, e repudiou a doutrina do “olho por olho”[7]. Não os incitou a se armarem contra César; se o tivesse feito talvez fosse aclamado como um libertador. A esse respeito, até seus Discípulos mal O compreenderam quando, dominados pelos romanos, lamentavam a perdida esperança de um Reino terrestre.
 
+() - [5] N.R.: Booker Taliaferro Washington (1856-1915) – educador, autor, orador e conselheiro americano
+
+() - [6] N.R.: personagem bíblico identificado nos Evangelhos como “salteador” ou “assassino”
+
+() - [7] N.R.: Ex 21:24
+
 A rejeição de Cristo pelos judeus foi a prova suprema da sua aderência à Raça. Daí por diante, todos os esforços para salvá-los em conjunto, lhes dando profetas especiais e instrutores, foram abandonados. Provada a inutilidade de mantê-los em bloco, foram, como último expediente, misturados entre todas as nações da Terra. Apesar de tudo, a extrema tenacidade desse povo prevaleceu até nossos dias e a maioria continua a ser ortodoxa. Na América vão perdendo ligeiramente esses sentimentos. As gerações mais novas estão começando a se casarem fora da Raça. Com o decorrer do tempo, prover-se-á um número sempre crescente de Corpos, com menores características de Raça, para os espíritos judeus que renasçam. Desta maneira salvar-se-ão, apesar deles mesmo. “Perderam-se” ao se casarem com Raças inferiores e serão salvos ao se amalgamarem com as Raças mais avançadas.
 
-Como as atuais Raças Árias são formadas de seres humanos racionais, capazes de se aproveitarem da experiência do passado, o meio mais lógico de ajudá-las é lhes falar dos estados de crescimento passados e do destino que recaiu sobre os desobedientes judeus. Esses rebeldes têm um memorial escrito de como trataram seus Líderes. Nele se conta como foram escolhidos, como se rebelaram e foram castigados, mas ainda estão cheios de esperança numa última redenção. Esses escritos podem ser aproveitados por nós, para aprendermos como não devemos agir. Não importa que no transcurso de idades tenham sido mutilados, e que os judeus de hoje tenham ainda a ilusão de ser um “povo escolhido”; a lição que podemos tirar de suas experiências não é por isso menos estimável. Podemos aprender como um “povo escolhido” pode desobedecer a seu Líder, frustrar seus planos e se limitar a uma Raça durante idades. Sua experiência deve ser uma boa recomendação para qualquer futuro “povo escolhido”. S. Paulo diz isso em termos inequívocos: “Porque se a palavra dos Anjos era firme e cada transgressão e desobediência recebia uma justa recompensa, como escaparemos dela se descuidarmos de tão grande salvação?” (Hb 2:3-4). S. Paulo falava aos Cristãos. Se os hebreus, para os quais tinha escrito isso, tivessem aceitado Cristo, poderiam ter alguma esperança de que, em alguma encarnação futura, se encontrariam entre o “novo povo escolhido”, aquele que acompanhará seu Líder voluntariamente, desenvolverá a percepção espiritual, o Amor é o sucedâneo da investigação e da razão, o poder intuitivo.
+Como as atuais Raças Árias são formadas de seres humanos racionais, capazes de se aproveitarem da experiência do passado, o meio mais lógico de ajudá-las é lhes falar dos estados de crescimento passados e do destino que recaiu sobre os desobedientes judeus. Esses rebeldes têm um memorial escrito de como trataram seus Líderes. Nele se conta como foram escolhidos, como se rebelaram e foram castigados, mas ainda estão cheios de esperança numa última redenção. Esses escritos podem ser aproveitados por nós, para aprendermos como não devemos agir. Não importa que no transcurso de idades tenham sido mutilados, e que os judeus de hoje tenham ainda a ilusão de ser um “povo escolhido”; a lição que podemos tirar de suas experiências não é por isso menos estimável. Podemos aprender como um “povo escolhido” pode desobedecer a seu Líder, frustrar seus planos e se limitar a uma Raça durante idades. Sua experiência deve ser uma boa recomendação para qualquer futuro “povo escolhido”. 
+
+S. Paulo diz isso em termos inequívocos: “Porque se a palavra dos Anjos era firme e cada transgressão e desobediência recebia uma justa recompensa, como escaparemos dela se descuidarmos de tão grande salvação?” (Hb 2:3-4). S. Paulo falava aos Cristãos. Se os hebreus, para os quais tinha escrito isso, tivessem aceitado Cristo, poderiam ter alguma esperança de que, em alguma encarnação futura, se encontrariam entre o “novo povo escolhido”, aquele que acompanhará seu Líder voluntariamente, desenvolverá a percepção espiritual, o Amor é o sucedâneo da investigação e da razão, o poder intuitivo.
 
 Os Ensinamentos Cristãos do Novo Testamento pertencem particularmente às Raças pioneiras do mundo ocidental. Estão sendo implantados especialmente entre o povo dos Estados Unidos porque, sendo objetivo da nova Raça da Sexta Época a unificação de todas as Raças, os Estados Unidos estão se convertendo em um lugar onde tudo se mescla, onde todas as nações da Terra se misturam, e desta mistura sairá o próximo “povo escolhido”.
 
@@ -2755,23 +2700,7 @@ Os espíritos de todos os países da Terra que se esforçam em seguir os ensinam
 
 A Bíblia, portanto, contém os ensinamentos de que necessitam, especialmente, os povos ocidentais. No terrível exemplo da Raça judia podem aprender uma lição, tal como se relata no Antigo Testamento. Podem aprender também a viver os ensinamentos de Cristo fornecidos no Novo Testamento, oferecendo voluntariamente seus Corpos como um sacrifício vivo sobre o altar da Fraternidade e do Amor.
 
-[1] N.T.: Gn 6:1-4
-
-[2] N.R.: Gn 12: 7
-
-[3] Cidade de São Francisco na Califórnia, Estados Unidos. Refere-se ao terremoto nessa cidade em 1906.
-
-[4] N.R.: Ap 21: 1
-
-[5] N.R.: Booker Taliaferro Washington (1856-1915) – educador, autor, orador e conselheiro americano
-
-[6] N.R.: personagem bíblico identificado nos Evangelhos como “salteador” ou “assassino”
-
-[7] N.R.: Ex 21:24
-
-***************************************************************************************************************
-
-### <h3 id="chapter-13">Capítulo XIV – Análise Oculta do Gênesis</h3>
+### <h3 id="chapter-14">Capítulo XIV – Análise Oculta do Gênesis</h3>
 
 #### <h4 id="limitations-of-the-bible">Limitações da Bíblia</h4>
 
@@ -2781,13 +2710,21 @@ Antes de proceder com uma análise, é necessário dizer que as palavras da lín
 
 Além dessas grandes dificuldades, devemos também saber que dos quarenta e sete tradutores da versão do Rei Jaime[1] (a mais comumente usada na Inglaterra e América) unicamente três conheciam bem o hebraico e, desses três, dois morreram antes da tradução dos Salmos. A ata que autorizava a tradução, tenhamos também em atenção, proibia aos tradutores todo o parágrafo que pudesse desviar grandemente ou perturbar as crenças já existentes. É evidente, portanto, que as probabilidades de se conseguir uma tradução correta eram bem escassas.
 
+() - [1] N.R.: Também conhecida como Versão Autorizada do Rei Jaime, é uma tradução inglesa da bíblia realizada em benefício da Igreja Anglicana, sob ordens do rei Jaime I, no início do século XVII.
+
 Tampouco foram mais favoráveis as condições na Alemanha. Lá, Martin Lutero[2], o único tradutor, mesmo ele não a traduziu do texto original hebraico, mas tão só de um texto latino. A maioria das versões empregadas pelos protestantes dos diversos países é simples traduções em diferentes idiomas da tradução de Lutero.
+
+() - [2] N.R.: ou Martinho Lutero (1483-1546) foi um monge agostiniano e professor de teologia germânico que se tornou uma das figuras centrais da Reforma Protestante.
 
 Certamente tem havido revisões, mas não tem melhorado grandemente a matéria. Além disso, há grande número de pessoas nesse país (EUA) que insiste em considerar o texto inglês da tradução do Rei Jaime como absolutamente exata, da primeira à última letra, como se a Bíblia tivesse sido escrita originalmente em inglês e a versão do Rei Jaime fosse uma cópia fidedigna do manuscrito original. Assim, os erros subsistem apesar dos esforços que se têm feito para eliminá-los.
 
 Deve-se também notar que os que originalmente escreveram a Bíblia não pretenderam dar a verdade de maneira a poder tê-la quem quisesse. Nada estava mais distante de sua Mente do que a ideia de escrever “um livro aberto de Deus”. Os grandes ocultistas que escreveram o Zohar[3] são muito categóricos nesse ponto. Os segredos do Thorah não podem ser compreendidos por todos, como provará a citação seguinte:
 
+() - [3] N.R.: É considerado como um dos trabalhos mais importantes da Cabalá, no misticismo judaico. E faz parte dos livros que seriam canônicos para os judeus.
+
 “Ai do ser humano que vê no Thorah[4] (a lei) só um simples recitativo de palavras comuns! Porque, em verdade, se fosse só isso, poderíamos escrever, ainda hoje, um Thorah muito mais digno de admiração. Contudo, não é assim. Cada palavra do Thorah tem um elevado significado e um mistério sublime…. Os versos do Thorah são como as vestes do Thorah. Ai daquele que toma essas vestes do Thorah pelo próprio Thorah! Os simples só notam os ornamentos e os versos do Thorah. Nada mais percebem. Não veem o que está encerrado nessas vestiduras. O ser humano mais esclarecido não presta atenção alguma às vestes, mas sim ao Corpo que encerram”.
+
+() - [4] N.R.: Ou Torah, ou, ainda, Torá é o nome dado aos cinco primeiros livros do Antigo Testamento, o Pentateuco: Gênesis, Êxodo, Levítico, Números e Deuteronômio e que constituem o texto central do judaísmo.
 
 As palavras anteriores dão a entender claramente a significação alegórica. S. Paulo também diz, inequivocamente, que a lenda de Abraão e dos dois filhos (de Sara e Hagar) são puramente alegóricos (Gl 4: 22-26). Muitas passagens estão veladas; outras devem ser entendidas literalmente; e ninguém, que não possua a chave oculta, pode decifrar as profundas verdades encobertas em coisas que amiúde aparentam feíssimas vestiduras.
 
@@ -2799,9 +2736,23 @@ Originalmente, a Bíblia Judaica foi escrita em hebraico, mas não possuímos ne
 
 Só depois da volta do desterro da Babilônia, começaram os escribas a compendiar as diferentes escrituras. Pelo ano 500 D.C. apareceu o Talmud[5], com o primeiro texto semelhante ao atual. Em vista dos fatos mencionados, não pode ser perfeito.
 
+() - [5] N.R.: ou Talmude é um livro sagrado dos judeus, um registro das discussões rabínicas que pertencem à lei, ética, costumes e história do judaísmo. É um texto central para o judaísmo rabínico.
+
 O Talmud esteve em mãos da escola Massorética[6] que, desde o ano 590 até 800 D.C., permaneceu, principalmente, em Tiberíades[7]. Depois de enorme e pacientíssimo trabalho, um Antigo Testamento Hebreu foi escrito, o mais próximo ao original que temos atualmente.
 
+() - [6] N.R.: dos massoretas ou massoréticos que eram escribas judeus que se dedicaram a preservar e cuidar das escrituras que, atualmente, constituem o Antigo Testamento.
+
+() - [7] N.R.: Cidade ao norte de Israel.
+
 Esse texto massorético será utilizado na elucidação seguinte sobre o Gênesis e, não confiando no trabalho de um único tradutor, será suplementado por uma tradução alemã de três eminentes estudiosos do hebreu: H. Arnheim[8], M. Sachs[9] e Jul. Furst[10] que cooperou com um quarto, Dr. Zunz[11], sendo esse último também o editor.
+
+() - [8] N.T.: Heymann Arnheim (1796–1869), tradutor e gramático alemão. Arnheim aprendeu sozinho alemão, francês, inglês, latim e grego, bem como um pouco de árabe.
+
+() - [9] N.T.: Michael Sachs (1808-1864) foi um rabino alemão, tradutor, poeta, talmudista, professor de religião, advogado, linguista e um importante pregador de sua época.
+
+() - [10] N.T.: Julius Fürst (1805-1873), nascido Joseph Alsari, era um orientalista judeu alemão. Fürst foi um distinto estudioso de línguas e literatura semíticas. Durante seus anos como professor no departamento de línguas orientais e literatura na Universidade de Leipzig (1864-1873), ele escreveu muitas obras sobre história literária e linguística.
+
+() - [11] N.T.: Leopold Zunz (1794-1886) foi o fundador dos Estudos Judaicos acadêmicos (Wissenschaft des Judentums), a investigação crítica da literatura, hinologia e ritual judaicos. Zunz publicou uma nova tradução da Bíblia e escreveu muitos ensaios que foram coletados posteriormente como Gesammelte Schriften.  Editou “Os Vinte e Quatro Livros da Escritura: Baseado nos Textos Massoréticos”, traduzido por H. Arnheim, Dr. Julius Fürst, Dr. M. Sachs.
 
 #### <h4 id="in-the-beginning">No Princípio</h4>
 
@@ -2811,9 +2762,7 @@ Há dois métodos bem conhecidos para ler essa sentença. Por um deles, a tradu�
 
 Para saber qual destas duas interpretações é correta muito se disse e escreveu. A dificuldade está na necessidade de algo concreto e definido para o povo. se diz que sendo uma explicação verdadeira todas as demais têm de ser falsas. Evidentemente, não é esse o caminho para chegar à verdade. Tendo muitos e múltiplos aspectos, cada verdade oculta requer exame de mui diferentes pontos de vista; cada um deles apresenta certa fase da verdade, e todos eles são necessários para se chegar a uma concepção completa e definida daquilo que se está considerando.
 
-Esta sentença do Thorah, como muitas outras, poderá ter muitos significados e confundir o não esclarecido. Para o que tem a chave é iluminadora porque, por seu intermédio, se vê a sabedoria transcendental e a maravilhosa inteligência dos que inspiraram o Thorah.
-
-Se tivessem sido colocadas as vogais e fossem divididas as palavras, haveria unicamente uma maneira de lê-las. Estes grandes e sublimes mistérios não poderiam ter sido ocultos nessas mesmas palavras. Essa teria sido a forma mais natural de redigir, se os autores tivessem resolvido escrever um livro “aberto” sobre Deus. Contudo, não foi esse o seu propósito, foi escrito unicamente para os Iniciados, e somente por eles pode ser bem compreendido. Muito menos habilidade seria necessária para escrever um livro claro do que para encobrir o seu significado. Porém, nenhum trabalho é mal-empregado para dar informações, em devido tempo, aos capazes de recebê-las, ao mesmo tempo em que permanecem ocultas para os que não alcançaram o direito de possuí-las.
+Esta sentença do Thorah, como muitas outras, poderá ter muitos significados e confundir o não esclarecido. Para o que tem a chave é iluminadora porque, por seu intermédio, se vê a sabedoria transcendental e a maravilhosa inteligência dos que inspiraram o Thorah. Se tivessem sido colocadas as vogais e fossem divididas as palavras, haveria unicamente uma maneira de lê-las. Estes grandes e sublimes mistérios não poderiam ter sido ocultos nessas mesmas palavras. Essa teria sido a forma mais natural de redigir, se os autores tivessem resolvido escrever um livro “aberto” sobre Deus. Contudo, não foi esse o seu propósito, foi escrito unicamente para os Iniciados, e somente por eles pode ser bem compreendido. Muito menos habilidade seria necessária para escrever um livro claro do que para encobrir o seu significado. Porém, nenhum trabalho é mal-empregado para dar informações, em devido tempo, aos capazes de recebê-las, ao mesmo tempo em que permanecem ocultas para os que não alcançaram o direito de possuí-las.
 
 #### <h4 id="the-nebular-theory">A Teoria Nebular</h4>
 
@@ -2861,7 +2810,9 @@ O segundo versículo do Gênesis diz: “A Terra era agreste e desabitada, e a o
 
 #### <h4 id="the-sun-period">O Período Solar</h4>
 
-O Período Solar está bem descrito também no terceiro versículo, que diz: “E os Elohim disseram: ‘Faça-se a luz, e a luz foi feita’”. Esta passagem se tem prestado a muitos gracejos, os mais ridículos e absurdos. Tem-se feito a seguinte pergunta: Como pôde haver luz na Terra se o Sol não foi criado senão no quarto dia? O narrador da Bíblia não fala somente da Terra, mas da massa ígnea central, da qual se formaram os Planetas do nosso Sistema Solar, inclusive a Terra. Quando a Nebulosa alcançou o estado de fogo brilhante e luminoso, no Período Solar não havia a menor necessidade de iluminação externa: a Luz estava dentro. No quarto versículo se lê: “Os Elohim separaram a luz das trevas”, isto porque o espaço exterior era obscuro, se distinguindo da brilhantíssima Nebulosa que existiu no Período Solar.
+O Período Solar está bem descrito também no terceiro versículo, que diz: “E os Elohim disseram: ‘Faça-se a luz, e a luz foi feita’”. Esta passagem se tem prestado a muitos gracejos, os mais ridículos e absurdos. Tem-se feito a seguinte pergunta: Como pôde haver luz na Terra se o Sol não foi criado senão no quarto dia? O narrador da Bíblia não fala somente da Terra, mas da massa ígnea central, da qual se formaram os Planetas do nosso Sistema Solar, inclusive a Terra. Quando a Nebulosa alcançou o estado de fogo brilhante e luminoso, no Período Solar não havia a menor necessidade de iluminação externa: a Luz estava dentro. 
+
+No quarto versículo se lê: “Os Elohim separaram a luz das trevas”, isto porque o espaço exterior era obscuro, se distinguindo da brilhantíssima Nebulosa que existiu no Período Solar.
 
 #### <h4 id="the-moon-period">O Período Lunar</h4>
 
@@ -2881,9 +2832,7 @@ Por complicado e confuso que isso possa parecer, não é difícil de compreender
 
 A Época Hiperbórea é descrita nos versículos 11 a 19, como trabalho efetuado no quarto dia. se diz ali que Elohim criou o Reino Vegetal, o Sol, a Lua e as estrelas.
 
-A Bíblia concorda com a ciência moderna ao dizer que as plantas vieram depois dos minerais. A diferença entre os dois ensinamentos se refere ao tempo em que a Terra foi expelida da massa central. A ciência afirma que foi expelida antes da formação da crosta sólida que pudesse se chamar de mineral ou vegetal. Se queremos designar por tais minerais ou vegetais os que atualmente conhecemos, essa afirmação é verdadeira. Não havia substância material densa, todavia, a primeira incrustação ou solidificação que teve lugar no Globo era mineral. O narrador da Bíblia indica somente os incidentes principais. Não se diz que a crosta sólida se fundiu quando foi expelida da massa central, como um anel que se quebrou, se reunindo depois os pedaços. Num Corpo tão pequeno como a Terra, o tempo preciso para a cristalização foi comparativamente curto. Por isso, o historiador não o menciona, assim como não relata o desmembramento que se produziu novamente quando a Lua foi expelida da Terra.
-
-Procedeu assim, provavelmente, pensando que todo o capacitado para os ensinamentos ocultos deve estar familiarizado com os detalhes menores.
+A Bíblia concorda com a ciência moderna ao dizer que as plantas vieram depois dos minerais. A diferença entre os dois ensinamentos se refere ao tempo em que a Terra foi expelida da massa central. A ciência afirma que foi expelida antes da formação da crosta sólida que pudesse se chamar de mineral ou vegetal. Se queremos designar por tais minerais ou vegetais os que atualmente conhecemos, essa afirmação é verdadeira. Não havia substância material densa, todavia, a primeira incrustação ou solidificação que teve lugar no Globo era mineral. O narrador da Bíblia indica somente os incidentes principais. Não se diz que a crosta sólida se fundiu quando foi expelida da massa central, como um anel que se quebrou, se reunindo depois os pedaços. Num Corpo tão pequeno como a Terra, o tempo preciso para a cristalização foi comparativamente curto. Por isso, o historiador não o menciona, assim como não relata o desmembramento que se produziu novamente quando a Lua foi expelida da Terra. Procedeu assim, provavelmente, pensando que todo o capacitado para os ensinamentos ocultos deve estar familiarizado com os detalhes menores.
 
 Na condensação da massa ígnea central, as plantas, por serem etéreas, não foram destruídas pelo processo de fusão. Assim como as linhas de força que orientam a cristalização do gelo, estão presentes na água, assim também, quando a Terra se cristalizou, as plantas etéreas estavam presentes. Eram os moldes que agruparam a matéria necessária para formar os Corpos vegetais da atualidade, e os do passado, enterrados nos Estratos geológicos do Globo Terrestre.
 
@@ -2897,7 +2846,9 @@ Isto também concorda com os ensinamentos da ciência material que diz: que os a
 
 Convidamos o Estudante a notar particularmente que as coisas formadas não eram Vida. Não se diz que se criou a Vida, mas “coisas” que respiravam e inalavam vida… A palavra hebraica para a substância que se inala é nephesh, e se deve notar cuidadosamente isto, porque a encontraremos mais tarde sob uma nova roupagem.
 
-A Época Atlante se refere ao trabalho do sexto dia. No versículo 24 é mencionada a criação dos mamíferos e a palavra nephesh aparece outra vez explicando que os mamíferos “inalavam vida”. Os Elohim disseram: ‘Que a Terra produza coisas que respirem vida’… mamíferos…” e no versículo 27 os Elohim formaram o ser humano à sua semelhança, isto é, fizeram-nos macho e fêmea como Eles (os Elohim). O historiador bíblico omitiu o estado humano assexual e hermafrodita e chega aos sexos separados tal como os conhecemos atualmente. Não podia ser doutra maneira porque está descrevendo aqui a Época Atlante, e no tempo desta Época que se alcançou esse estado de evolução já não havia homens assexuais nem hermafroditas. A diferenciação dos sexos ocorrera antes, na Época Lemúrica. Nos seus primeiros graus de desenvolvimento, o que depois se converteu em ser humano, mal se podia considerar como tal, diferia muito pouco dos animais. Portanto, a Bíblia não contradiz os fatos, quando afirma que o ser humano foi formado na Época Atlante.
+A Época Atlante se refere ao trabalho do sexto dia. No versículo 24 é mencionada a criação dos mamíferos e a palavra nephesh aparece outra vez explicando que os mamíferos “inalavam vida”. Os Elohim disseram: ‘Que a Terra produza coisas que respirem vida’… mamíferos…” e no versículo 27 os Elohim formaram o ser humano à sua semelhança, isto é, fizeram-nos macho e fêmea como Eles (os Elohim). 
+
+O historiador bíblico omitiu o estado humano assexual e hermafrodita e chega aos sexos separados tal como os conhecemos atualmente. Não podia ser doutra maneira porque está descrevendo aqui a Época Atlante, e no tempo desta Época que se alcançou esse estado de evolução já não havia homens assexuais nem hermafroditas. A diferenciação dos sexos ocorrera antes, na Época Lemúrica. Nos seus primeiros graus de desenvolvimento, o que depois se converteu em ser humano, mal se podia considerar como tal, diferia muito pouco dos animais. Portanto, a Bíblia não contradiz os fatos, quando afirma que o ser humano foi formado na Época Atlante.
 
 No versículo 28 (de todas as versões) encontramos um pequeno prefixo de uma muito grande significação: “Os Elohim disseram: ‘frutificai e RE-povoai a Terra’”. Isto mostra claramente que o escritor conhecia perfeitamente os ensinamentos ocultos de que a Onda de Vida tinha evolucionado no Globo D, o do Período Terrestre, nas Revoluções anteriores.
 
@@ -2909,9 +2860,7 @@ Assim termina a história no que respeita à manifestação das formas. No capí
 
 Tem havido muitas discussões eruditas a respeito da autoria e principalmente da discrepância entre a história da criação dada no primeiro capítulo e o que se diz no quarto versículo do segundo capítulo. se afirma que as duas descrições foram escritas por diferentes pessoas, porque o Ser ou Seres aos quais os tradutores deram o nome de “Deus”, no primeiro e segundo capítulos da versão inglesa, se denomina Elohim, no primeiro capítulo, e “Jeová” no segundo capítulo do texto hebraico. Argumenta-se, a esse respeito, que o mesmo narrador não teria nomeado Deus de duas maneiras diferentes.
 
-Realmente, se quisesse se referir ao mesmo Deus em ambos os casos, não o teria feito, mas o autor não era monoteísta. Sabia alguma coisa mais para pensar em Deus como um simples ser humano “superior” que tivesse o Céu como trono e a Terra como escabelo. Quando escreveu de Jeová se reportava ao Líder a quem estava a cargo esse trabalho particular da Criação que se descreve.
-
-Jeová era e é um dos Elohim. É o Líder dos Anjos, a Humanidade do Período Lunar e é o Regente da Lua atual. Remetemos o leitor ao Diagrama 14 para compreender facilmente a posição e natureza de Jeová.
+Realmente, se quisesse se referir ao mesmo Deus em ambos os casos, não o teria feito, mas o autor não era monoteísta. Sabia alguma coisa mais para pensar em Deus como um simples ser humano “superior” que tivesse o Céu como trono e a Terra como escabelo. Quando escreveu de Jeová se reportava ao Líder a quem estava a cargo esse trabalho particular da Criação que se descreve. Jeová era e é um dos Elohim. É o Líder dos Anjos, a Humanidade do Período Lunar e é o Regente da Lua atual. Remetemos o leitor ao Diagrama 14 para compreender facilmente a posição e natureza de Jeová.
 
 Dirige os Anjos e, como Regente da Lua, Ele tem a seu cargo os seres degenerados e malignos que nela existem. Com Ele estão também alguns Arcanjos, que constituíram a Humanidade do Período Solar. Estes são chamados “Espíritos de Raça”.
 
@@ -2923,9 +2872,7 @@ O Arcanjo Miguel é o Espírito da Raça Judia (Daniel 12-1) e Jeová não é o 
 
 Ele não os guiou fora do Egito. Essa história, que posteriormente se originou entre os descendentes dos “Semitas Originais”, é um relato confuso da jornada para leste, através das inundações e desastres que acabaram com a submergida Atlântida, até chegarem ao Deserto (de Gobi, na Ásia Central). Ali, esperaram os cabalísticos quarenta anos, antes de entrar na Terra Prometida. Há duplo e peculiar significado nessa palavra “prometida”. Chamou-se “Terra Prometida” porque, não existindo, naquele tempo, terra apropriada para ser ocupada pelos seres humanos, o povo eleito foi levado ao Deserto. Como parte da Terra estava submersa pelas inundações e outras partes deslocadas e modificadas pelas erupções vulcânicas, foi necessário esperar um período até que a nova Terra estivesse em condições de se converter em possessão da Raça Ária.
 
-Os Semitas Originais foram isolados e proibidos de se casarem com outras tribos ou povos, mas como povo teimoso e obstinado que se guiava quase exclusivamente pelo desejo e pela astúcia, desobedeceu à ordem. Sua Bíblia fala que os filhos de Deus se casaram com as filhas dos homens, os compatriotas de grau inferior da Atlântida.
-
-Foram expulsos por terem frustraram os desígnios de Jeová, e o fruto de tais cruzamentos se tornou inútil como semente de nova Raça.
+Os Semitas Originais foram isolados e proibidos de se casarem com outras tribos ou povos, mas como povo teimoso e obstinado que se guiava quase exclusivamente pelo desejo e pela astúcia, desobedeceu à ordem. Sua Bíblia fala que os filhos de Deus se casaram com as filhas dos homens, os compatriotas de grau inferior da Atlântida. Foram expulsos por terem frustraram os desígnios de Jeová, e o fruto de tais cruzamentos se tornou inútil como semente de nova Raça.
 
 Os nascidos desses cruzamentos, que agora falam de “tribos perdidas”, foram os progenitores dos judeus dos tempos atuais. Sabem que alguns dos componentes do núcleo original os abandonaram e foram para outra parte, mas desconhecem que foram esses precisamente, os que ficaram fiéis. A história das dez tribos perdidas é uma fábula. A maioria delas pereceu, mas os fiéis sobreviveram. Desse remanescente fiel descendem as atuais Raças Árias.
 
@@ -2943,9 +2890,13 @@ Em todo o transcurso da evolução, através dos períodos, Globos, Revoluções
 
 As primeiras duas palavras são familiares a todos os que estudaram a Vida e a Forma. Admite-se, geralmente, que a involução do espírito na matéria tem o objetivo de construir a forma, mas não se reconhece tão comumente que a Involução do Espírito corre paralela à Evolução da Forma.
 
-Desde o princípio do Período de Saturno até a Época Atlante, quando “os olhos do ser humano foram abertos”[12] pelos Espíritos Lucíferos, as atividades do ser humano (ou força-vital que se converteu em ser humano) eram dirigidas principalmente para dentro. Essa mesma força que o ser humano agora emprega ou irradia para construir estradas de ferro e vapores, se empregava internamente para construir um veículo através do qual pudesse manifestar-se. Esse veículo é Tríplice, analogamente ao Espírito que o construiu. A forma evoluiu, construída pelo espírito. Durante essa construção, o espírito involuiu até que, nela penetrando, partiu para a própria evolução. Os melhoramentos ou aperfeiçoamentos da forma são resultado da Epigênese.
+Desde o princípio do Período de Saturno até a Época Atlante, quando “os olhos do ser humano foram abertos”[12] pelos Espíritos Lucíferos, as atividades do ser humano (ou força-vital que se converteu em ser humano) eram dirigidas principalmente para dentro. Essa mesma força que o ser humano agora emprega ou irradia para construir estradas de ferro e vapores, se empregava internamente para construir um veículo através do qual pudesse manifestar-se. Esse veículo é Tríplice, analogamente ao Espírito que o construiu. A forma evoluiu, construída pelo espírito. 
+
+() - [12] N.R.: Gn 3:7
 
 Logo, o poder que o ser humano agora emprega para melhorar as condições externas foi empregado durante a Involução com propósitos de crescimento interno.
+
+Durante essa construção, o espírito involuiu até que, nela penetrando, partiu para a própria evolução. Os melhoramentos ou aperfeiçoamentos da forma são resultado da Epigênese.
 
 Há forte tendência em considerar tudo o que existe como resultado de algo que foi. Olha-se a Evolução como simples desenvolvimento de perfectibilidades germinais. Tal concepção exclui a Epigênese do esquema das coisas, não sucede possibilidade alguma de se construir algo novo, nenhuma margem para a originalidade.
 
@@ -2957,15 +2908,19 @@ Para se tornar um criador original e independente é necessário, no seu treinam
 
 A vanguarda da ciência se encontra a cada momento frente à Epigênese, como um fato em qualquer domínio da Natureza. Em 1759 Caspar Wolff[13] publicou sua “Theoria Generationis”, onde já demonstrava que no óvulo humano não há o menor traço do organismo em perspectiva, que sua evolução se traduz na adição de novas formações, enfim, na construção de algo que não está latente no óvulo.
 
+() - [13] N.R.: Caspar Friedrich Wolff (1733-1794) – biólogo e fisiologista alemão e um dos fundadores da embriologia.
+
 Haeckel[14], grande e valoroso Estudante da Natureza, e que esteve muito próximo do conhecimento da verdade completa sobre a evolução, diz da “Theoria Generationis”: “Apesar do seu pequeno alcance e da difícil terminologia, é uma das mais valiosas obras da literatura biológica”.
+
+() - [14] N.R.: Ernst Heinrich Philipp August Haeckel (1834-1919) – biólogo, naturalista, filósofo, médico, professor e artista alemão.
 
 Disse Haeckel em seu livro “Antropogênese”: “Em nossos dias é plenamente injustificado se chamar à Epigênese uma hipótese; estamos plenamente convencidos de que é um fato, e podemos demonstrá-lo, a qualquer momento, com auxílio do microscópio”.
 
 Um construtor seria um pobre expoente de sua habilidade se construísse casas se limitando a seguir um determinado modelo aprendido do seu mestre, e não pudesse alterá-lo para satisfazer novas exigências. Para alcançar êxito, deve poder desenhar casas novas e melhores, aperfeiçoando o que a experiência mostre como inútil nos edifícios anteriormente construídos. A força que o construtor dirige agora para fora, para construir casas cada vez mais adaptadas às novas condições e exigências, nos Períodos passados, foi empregada na construção de veículos novos e melhores para evolução do Ego.
 
-Partindo do mais simples organismo, a Vida, que é agora ser humano, construiu as Formas apropriadas às suas necessidades. Em devido tempo, à medida que as entidades progrediam, se tornou evidente que novos aperfeiçoamentos deveriam ser acrescentados às formas. Estes melhoramentos se tornaram incompatíveis com as linhas de construção anteriormente seguidas. Deveria ser iniciada a construção de novas formas, que não contivessem nenhum dos enganos anteriores. Conforme a experiência ensinou, tais enganos impediram o desenvolvimento posterior.
+Partindo do mais simples organismo, a Vida, que é agora ser humano, construiu as Formas apropriadas às suas necessidades. Em devido tempo, à medida que as entidades progrediam, se tornou evidente que novos aperfeiçoamentos deveriam ser acrescentados às formas. Estes melhoramentos se tornaram incompatíveis com as linhas de construção anteriormente seguidas. Deveria ser iniciada a construção de novas formas, que não contivessem nenhum dos enganos anteriores. Conforme a experiência ensinou, tais enganos impediram o desenvolvimento posterior. Dessa maneira, a vida que está evoluindo ficou apta a obter progressos posteriores em novas formas e por graus sucessivos vai aperfeiçoando seus veículos. 
 
-Dessa maneira, a vida que está evoluindo ficou apta a obter progressos posteriores em novas formas e por graus sucessivos vai aperfeiçoando seus veículos. Esse aprimoramento continua sem cessar, sempre adiante. Para estar na vanguarda do progresso, o ser humano construiu seus Corpos a partir de algo semelhante à ameba, daí até à forma humana do selvagem e, daí, através de sucessivos graus, até às Raças mais avançadas, as que estão usando atualmente os Corpos mais elevadamente organizados na Terra. Entre as mortes e nascimentos estamos constantemente construindo Corpos para funcionar em nossas vidas. Alcançarão um grau de eficiência maior do que o que tem atualmente. Se cometermos erros de construção, durante os nascimentos, far-se-ão evidentes quando empreguemos o Corpo na próxima vida terrestre. É de suma importância perceber e compreender nossos erros, para evitá-los vida após vida.
+Esse aprimoramento continua sem cessar, sempre adiante. Para estar na vanguarda do progresso, o ser humano construiu seus Corpos a partir de algo semelhante à ameba, daí até à forma humana do selvagem e, daí, através de sucessivos graus, até às Raças mais avançadas, as que estão usando atualmente os Corpos mais elevadamente organizados na Terra. Entre as mortes e nascimentos estamos constantemente construindo Corpos para funcionar em nossas vidas. Alcançarão um grau de eficiência maior do que o que tem atualmente. Se cometermos erros de construção, durante os nascimentos, far-se-ão evidentes quando empreguemos o Corpo na próxima vida terrestre. É de suma importância perceber e compreender nossos erros, para evitá-los vida após vida.
 
 Assim como o construtor de casas fracassaria comercialmente se não melhorasse continuamente seus métodos para corresponder às exigências do seu negócio, assim também os que aderem persistentemente às formas antigas fracassam, não podem se elevar com a Onda de Vida e são deixados para trás, como atrasados. Esses atrasados ocupam as formas abandonadas pelos pioneiros, como já se explicou anteriormente, e formam as Raças e espécies inferiores de qualquer Reino em que estejam evolucionando. Como a Vida que agora é a Humanidade passou através de estados análogos ao Reino Mineral, vegetal e animal e através das Raças humanas inferiores, os atrasados foram deixados ao longo do caminho já que falharam em alcançar o tipo necessário para se conservarem na vanguarda da evolução. Tomaram as formas abandonadas pelos pioneiros e, usando-as como graus intermediários, procuraram alcançar os primeiros, mas as Formas não estavam mais no mesmo grau. No progresso da Evolução não há lugares de espera. Na Vida que evoluciona, tal como no comércio, nada há que seja simplesmente ‘conservar o seu”. Processo ou Retrocesso é a Lei. A Forma que não é capaz de se aperfeiçoar deve Degenerar.
 
@@ -2981,6 +2936,8 @@ Os pioneiros da nossa Onda de Vida (as Raças Árias) progrediram desde que ocup
 
 Os monos[15] não são os progenitores das espécies superiores, são atrasados que ocupam os exemplares mais degenerados daquilo que foi antes forma humana. Não foi o ser humano que ascendeu dos antropoides; aconteceu o contrário: os antropoides são uma degeneração do ser humano. A ciência materialista, que trata só da forma, se equivocou e tirou conclusões errôneas sobre o assunto.
 
+() - [15] N.R.: primatas antropoides, sem cauda e de braços longos, como chimpanzé, orangotango, gorila e bonobo.
+
 As mesmas condições, relativamente, se encontram no Reino Animal. Os pioneiros da Onda de Vida que começou a evolução no Período Solar são os mamíferos atuais. Seus diferentes graus correspondem aos passos dados pelo ser humano, devendo notar que todas as formas, utilizadas pelos atrasados, estão degenerando. Semelhantemente, os pioneiros da Onda de Vida que entrou em evolução no Período Lunar se encontram entre as árvores frutíferas, enquanto os atrasados dessa Onda de Vida animam todas as outras formas vegetais.
 
 Cada Onda de Vida permanece, definidamente, confinada dentro de seus próprios limites. Os antropoides podem alcançar-nos e se converterem em seres humanos. Dos outros animais nenhum poderá alcançar nosso estado de desenvolvimento particular. Alcançarão um estado análogo, sob condições diferentes, no Período de Júpiter. Os vegetais atuais serão a Humanidade do Período de Vênus, sob condições ainda mais diferentes, e os minerais alcançarão o estado humano no Período de Vulcano.
@@ -2989,9 +2946,13 @@ Notar-se-á que a moderna teoria da evolução, especialmente a de Haeckel, se f
 
 O mono é um ser humano degenerado.
 
-Os pólipos são as últimas degenerações deixada pelos mamíferos. Os musgos são as últimas degenerações do Reino Vegetal.
+Os pólipos são as últimas degenerações deixada pelos mamíferos. 
 
-O Reino Mineral é a meta final das formas de todos os Reinos quando alcançam o máximo de degeneração. O carvão de pedra exemplifica isto: resulta de madeira petrificada ou de restos fossilizados de várias formas animais. O próprio granito, coisa que nenhuma pessoa que se dedica à ciência admitirá, é originalmente tão vegetal como o próprio carvão. O mineralogista erudito explicará que está composto de blenda, feldspato e mica, porém o Clarividente desenvolvido, que pode ler a Memória da Natureza milhões de anos atrás, poderá completar esta afirmação dizendo: “Sim, e o que chamais de blenda e feldspato não são mais do que as folhas e pedúnculos de flores pré-históricas, e a mica é tudo quanto resta de suas pétalas”.
+Os musgos são as últimas degenerações do Reino Vegetal.
+
+O Reino Mineral é a meta final das formas de todos os Reinos quando alcançam o máximo de degeneração. 
+
+O carvão de pedra exemplifica isto: resulta de madeira petrificada ou de restos fossilizados de várias formas animais. O próprio granito, coisa que nenhuma pessoa que se dedica à ciência admitirá, é originalmente tão vegetal como o próprio carvão. O mineralogista erudito explicará que está composto de blenda, feldspato e mica, porém o Clarividente desenvolvido, que pode ler a Memória da Natureza milhões de anos atrás, poderá completar esta afirmação dizendo: “Sim, e o que chamais de blenda e feldspato não são mais do que as folhas e pedúnculos de flores pré-históricas, e a mica é tudo quanto resta de suas pétalas”.
 
 Os ensinamentos ocultos sobre a evolução estão corroborados pela ciência embriológica, que mostra a vida pré-natal como uma Recapitulação de todos os estados passados de desenvolvimento. Não é possível distinguir a diferença entre o óvulo de um ser humano, o de alguns mamíferos superiores e, até o dos vegetais mais elevados, nem mesmo ao microscópio. Não se pode dizer se o óvulo examinado é animal ou humano. Mesmo depois de se desenvolverem algumas fases iniciais do crescimento embrionário os especialistas não podem indicar a diferença entre um embrião animal e humano.
 
@@ -3005,9 +2966,13 @@ Quando a Epigênese não atua, ou se torna inativa no indivíduo, na família, n
 
 De sorte que as duas descrições bíblicas sobre a Criação se harmonizam perfeitamente.
 
-Uma se refere à Forma, construída através da experiência mineral, vegetal e animal até, por último, chegar ao ser humano. A outra diz que a Vida, agora animando as formas humanas, se manifestou antes da Vida que anima as Formas dos demais Reinos.
+Uma se refere à Forma, construída através da experiência mineral, vegetal e animal até, por último, chegar ao ser humano. 
+
+A outra diz que a Vida, agora animando as formas humanas, se manifestou antes da Vida que anima as Formas dos demais Reinos.
 
 Uma só das duas descrições sobre a Criação não teria sido suficiente. Há, no segundo capítulo, particularidades muito importantes, ocultas na narrativa da criação do ser humano: “Então, Jeová formou o ser humano do barro da Terra e soprou suas narinas o alento (nephesh) e o ser humano se converteu em uma criatura que respirava (nephesh chayim) “[16].
+
+() - [16] N.R.: Gn 2:7
 
 Em outros pontos da versão do Rei Jaime, a palavra “nephesh” se traduz por “vida”. Nesse exemplo particular (Gn 2:7) se traduziu como “alma Vivente”, para sugerir a ideia de que há uma distinção a fazer entre a vida que anima a forma humana e a que anima as criações inferiores. Não há autoridade alguma que sustente essa diferença de tradução, puramente arbitrária. O alento de vida (nephesh) é o mesmo no ser humano e no animal. Isto se pode demonstrar mesmo àqueles que se baseiam firmemente na autoridade da Bíblia. Com efeito, na versão do Rei Jaime ainda se diz claramente: “assim como morre um, morre o outro; todos têm um alento (nephesh); assim, o ser humano não tem superioridade alguma sobre o animal… todos vão para o mesmo lugar.” (Ecl 3:19-20).
 
@@ -3015,7 +2980,9 @@ Os animais apenas são nossos “irmãos mais jovens”. Não estão atualmente 
 
 Argumenta-se que o homem recebeu sua Alma na forma descrita no versículo sétimo do segundo capítulo do Gênesis e que não poderia tê-la recebido doutra maneira. Vem a propósito perguntar: donde e quando recebeu a mulher a sua?
 
-O significado do capítulo e da insuflação do alento de vida por Jeová, além de oferecer a imensa vantagem de ser lógico, é muito claro e simples quando se emprega uma chave oculta. O Regente da Lua (Jeová), seus Anjos e Arcanjos foram os principais nessa obra, o que define o tempo em que se efetuou essa criação: entre o princípio e a metade da Época Lemúrica e, provavelmente, depois que a Lua foi arrojada da Terra, porque Jeová não tinha a seu cargo a geração dos Corpos antes da Lua ser expulsa. As formas eram mais etéreas. Não havia Corpos Densos e concretos. Só é possível fazer tais Corpos mediante as forças lunares endurecedoras e cristalizantes. Deve se ter realizado na primeira metade da Época Lemúrica, repetimos, porque a posterior separação dos sexos teve lugar em meados dessa época.
+O significado do capítulo e da insuflação do alento de vida por Jeová, além de oferecer a imensa vantagem de ser lógico, é muito claro e simples quando se emprega uma chave oculta. 
+
+O Regente da Lua (Jeová), seus Anjos e Arcanjos foram os principais nessa obra, o que define o tempo em que se efetuou essa criação: entre o princípio e a metade da Época Lemúrica e, provavelmente, depois que a Lua foi arrojada da Terra, porque Jeová não tinha a seu cargo a geração dos Corpos antes da Lua ser expulsa. As formas eram mais etéreas. Não havia Corpos Densos e concretos. Só é possível fazer tais Corpos mediante as forças lunares endurecedoras e cristalizantes. Deve se ter realizado na primeira metade da Época Lemúrica, repetimos, porque a posterior separação dos sexos teve lugar em meados dessa época.
 
 Nesse tempo, o ser humano nascente não tinha começado a respirar por pulmões. Tinha um aparelho semelhante a brânquias, o que presentemente, ainda se encontra no embrião humano, quando passa pelos estados ante natais correspondentes a essa Época. Não tinha sangue vermelho e quente (porque nesse estado não havia espírito individual) e toda sua forma era branda e flexível. Mesmo o esqueleto era mole como as cartilagens. Quando foi necessário separar a Humanidade em sexos, o esqueleto se tornou firme e sólido.
 
@@ -3051,13 +3018,19 @@ Jeová e Seus Arcanjos assumem, portanto, em relação às Raças, um papel seme
 
 Está no sangue o ponto de aderência ao Corpo Denso, tanto do Espírito-Grupo como de qualquer Ego. O texto massorético mostra que o autor do Levítico possuía esse conhecimento. No versículo décimo-quarto do capítulo décimo sétimo se proíbe aos judeus comerem sangue, porque “… a Alma de toda carne está no sangue...”. No versículo décimo-primeiro do mesmo capítulo, estas palavras: “… porque a Alma da carne está no sangue, o mesmo é o mediador da Alma” indicam que isto se aplica tanto ao ser humano como ao animal, porque a palavra empregada é neshamah, que significa “alma”, não “vida”, como se traduz na versão do Rei Jaime.
 
-Para guiar as Raças, os Espíritos de Raça agem sobre o sangue, assim como o Espírito-Grupo dirige os animais de cada espécie por meio do sangue.
+Para guiar as Raças, os Espíritos de Raça agem sobre o sangue, assim como o Espírito-Grupo dirige os animais de cada espécie por meio do sangue. O Ego governa o seu veículo por meio do sangue, mas com uma diferença: 
 
-O Ego governa o seu veículo por meio do sangue, mas com uma diferença: o Ego age por meio do calor do sangue, enquanto o Espírito de Raça (ou seja, tribal ou familiar) age por meio do ar, conforme esse penetra nos pulmões. Está é a razão de Jeová, ou Seus Mensageiros, terem “soprado seu alento nas narinas do ser humano”, assim assegurando a admissão do Espírito de Raça, dos Espíritos comunitários, etc.
+O Ego age por meio do calor do sangue, enquanto o Espírito de Raça (ou seja, tribal ou familiar) age por meio do ar, conforme esse penetra nos pulmões. Está é a razão de Jeová, ou Seus Mensageiros, terem “soprado seu alento nas narinas do ser humano”, assim assegurando a admissão do Espírito de Raça, dos Espíritos comunitários, etc.
 
 As diferentes classes de Espíritos de Raça dirigiram seus povos a vários climas e a diversas partes da Terra. O Clarividente treinado vê o Espírito tribal como uma nuvem que envolve e permeando a atmosfera da terra habitada pelo povo que está sob seu domínio. Assim se formam os diferentes povos e nações. S. Paulo fala do “Príncipe do Poder do Ar”[17], de “principados e poderes”, etc., demonstrando conhecer os Espíritos das Raças. Todavia, ainda não se procura compreender o que eles significam, apesar de se sentir fortemente a sua influência. O patriotismo é um dos sentimentos deles emanados. Seu poder sobre o povo já não é tanto como dantes. Algumas pessoas vão se libertando do Espírito de Raça e podem dizer como Thomas Paine[18]: “O mundo é minha pátria”. Outros podem abandonar seu pai e sua mãe, considerando todos os seres humanos como irmãos. Estão a se libertar do Espírito de Família, ou de Casta, que são entidades etéricas, diferentes do Espírito de Raça, uma entidade de desejos. Quem permanece fortemente subjugado à influência do Espírito de Raça ou de Família, sofre a mais terrível depressão quando abandona seu país ou respira o ar de outro Espírito de Raça ou Família.
 
+() - [17] N.R.: Ef 2:2
+
+() - [18] N.R.: Thomas Paine (1737-1809) – político britânico, além de panfletário, revolucionário, radical, inventor, intelectual.
+
 Quando o Espírito de Raça entrou nos Corpos humanos do Ego individualizado, começou a exercer ligeiro domínio sobre os seus veículos. Cada entidade humana foi se tornando cada vez mais consciente de ser uma entidade separada e distinta de qualquer outro ser humano. Contudo, durante muito tempo não pensou de si como de um Indivíduo. Em primeiro lugar, se sentia como pertencente a uma tribo ou família. O sufixo inglês de muitos sobrenomes atuais, “son” (filho) é um resto desse sentimento. Um ser humano não era simplesmente “João” ou “Jaime”, mas sim João Robertson ou Jaime Williamson. Em alguns países, a mulher não era “Mary” ou “Martha”, sim Mary Marthasdaughter ou Marth Marydaughter (daughter, em inglês: filha). Esse costume continua em alguns países da Europa, de algumas gerações até agora. O sufixo “son” ainda permanece e o nome de família é ainda muito considerado[19].
+
+() - [19] N.R.: em espanhol a terminação “ez” era normalmente utilizada para a ideia de descendência; por exemplo: o sobrenome Rodríguez tem este significado, filho de Rodrigo. Marquez: “filho de Marcos” ou “filho de Marcus”. Diaz significa “filho de Diego”, “filho de Diogo”. Hernández, “filho de Fernando”. González, “filho de Gonçalo”. Pérez, “filho de Pedro”. Em português são geralmente os sobrenomes terminados em “es”. Por exemplo Rodrigues (filho de Rodrigo), ou Fernandes (filho de Fernando). Em dinamarquês seriam geralmente os terminado em “sen”, por exemplo Larsen (filho de Lars). Em alemão se tem os seguintes exemplos de sobrenomes patronímicos: Georgi (filho de Georg), Petry (filho de Peter), Stephani (filho de Steffen), Sebastiany (filho de Sebastian).
 
 Entre os judeus, no tempo de Cristo, o Espírito de Raça era mais forte do que o espírito individual. Cada judeu pensava de si mesmo primeiramente como pertencente a certa tribo ou família. Sua maior honra era ser “semente de Abraão”. Tudo isso era obra do Espírito de Raça.
 
@@ -3075,6 +3048,10 @@ O Tríplice Espírito no ser humano, o Ego, é o Deus interno que o ser humano c
 
 Sob a direção do Espírito de Raça, tanto a nação, como a tribo ou a família prevaleciam, eram consideradas em primeiro lugar, e o indivíduo por último. A família devia ser conservada intacta. Se qualquer homem morresse sem sucessão que perpetuasse o seu nome, seu irmão devia “fecundar” a viúva, para que a família não morresse (Dt 25:5-10)[20]. Casar-se fora da família era, naqueles tempos, uma coisa horrorosa. Um membro de uma tribo não podia se casar com alguém de outra, sem perder sua própria casta. Não era nada fácil se fazer membro de outra família. Não somente entre os judeus e outras nações antigas se insistia em conservar a integridade da família, também em tempos mais modernos. Até recentemente, como já se mencionou, os escoceses aderiam tenazmente ao seu clã. Os antigos escandinavos Vikings[21] não admitiam ninguém em suas famílias se não tivesse feito com eles a “mescla de sangue”. Os efeitos espirituais da hemólise são desconhecidos para a ciência materialista, mas eram conhecidos dos antigos.
 
+() - [20] N.R.: Quando dois irmãos moram juntos e um deles morre, sem deixar filhos, a mulher do morto não sairá para se casar com um estranho à família; seu cunhado virá até ela e a tomará, cumprindo seu de- ver de cunhado. O primogênito que ela der à luz tomará o nome do irmão morto, para que o nome deste não se apague em Israel. Contudo, se o cunhado recusa desposar a cunhada, esta irá aos anciãos, na porta, e dirá: “Meu cunhado está recusando suscitar um nome para seu irmão em Israel! Não quer cumprir seu dever de cunhado para comigo!”. Os anciãos da cidade o convocarão e conversarão com ele. Se ele persiste, dizendo: “Não quero desposá-la!”., então a cunhada se aproximará dele na presença dos anciãos, tirar-lhe-á a sandália do pé, cuspirá em seu rosto e fará esta declaração: “É isto que se deve fazer a um homem que não edifica a casa do seu irmão”; e em Israel o chamarão com o apelido de “casa do descalçado”.
+
+() - [21] N.R.: Viking é o termo usado para se referir aos nórdicos que habitavam a Escandinávia em um período que abrange os anos de 793 d.C. a 1066 d.C, conhecido como Era Viking.
+
 Todos estes costumes eram o resultado do trabalho do Espírito de Raça e dos Espíritos de Tribo sobre o sangue comum. Admitir como membro alguém que não tivesse o sangue comum, teria produzido uma confusão de casta. Quanto mais pura era a genealogia (nesse sentido) maior era o poder do Espírito de Raça e mais fortes eram os laços que ligavam o indivíduo à Tribo, porque a força vital do ser humano está no sangue. A memória está intimamente relacionada com o sangue, a mais alta expressão do Corpo Vital.
 
 O cérebro e o Sistema Nervoso são as mais elevadas expressões do Corpo de Desejos. São receptores das cenas do Mundo externo, mas para formar as imagens mentais dessas cenas, o sangue transporta o material. Por isso, quando o pensamento está em atividade, o sangue flui à cabeça.
@@ -3084,6 +3061,8 @@ Quando a mesma corrente de sangue sem mescla flui nas veias de uma família dura
 Por meio desse sangue comum se diz que os seres humanos viviam durante muitas gerações. Através do sangue, os descendentes tinham acesso à Memória da Natureza, em que se conservavam essas recordações. Razão de se dizer, no quinto capítulo do Gênesis, que os patriarcas viveram durante centenas de anos. Adão, Matusalém e outros patriarcas não alcançaram pessoalmente tão grandes idades. Vivendo os antecessores na consciência dos descendentes, estes viam as vidas daqueles como se tivessem vivido suas vidas. Depois do período indicado, os descendentes não pensaram mais de si como sendo Adão ou Matusalém. A memória desses antecessores se apagou e por isso se diz que morreram.
 
 A “segunda vista” dos Escoceses Highlanders[22] demonstra que por meio da endogamia se retém a consciência dos Mundos internos. Eles realizaram o casamento dentro do clã até tempos recentes, tal como os ciganos que sempre se casam na tribo. Quanto menor é a tribo e mais pura a geração, mais pronunciada é a “vista”.
+
+() - [22] N.R.: Povo e Cultura das Terras Altas na Escócia (zona montanhosa do norte da Escócia). Caracterizavam-se até o século XVIII por um sistema feudal de famílias – os famosos clãs escoceses.
 
 As Raças primitivas não desobedeceram à ordem emanada do Deus de Tribo de não se casarem fora dela, nem tampouco tinham inclinação alguma para fazê-lo por não terem Mente própria.
 
@@ -3103,7 +3082,9 @@ Portanto, quando se juntam dois animais de espécies muito diferentes, o Espíri
 
 O espírito humano está individualizado, é um Ego desenvolvendo vontade livre e responsabilidade. Impelido a renascer pela irresistível Lei de Consequência, está além do poder do Espírito de Raça, de Comunidade ou de Família mantê-lo afastado da encarnação, no grau atual do desenvolvimento humano. Pela mistura de sangues obtida no matrimônio de indivíduos de diferentes tribos ou nações, os Líderes da Humanidade vão ajudando o Ego a se desprender gradualmente dos Espíritos de Família, de Tribo ou de Nação. Retirados esses espíritos do sangue, com Eles vai também a Clarividência involuntária. Consequentemente, se apagam as tradições das famílias que estavam a seu cargo. A mescla de sangue destruiu uma faculdade. Todavia, tal perda foi uma vantagem. Concentrou as energias do ser humano no Mundo material, onde aprende muito melhor suas lições do que aprenderia se continuasse distraído pela visão dos Reinos superiores.
 
-Quando o ser humano começa a emancipar-se, deixa também de pensar em si como “a semente de Abraão”, ou como da “Família de Stewart”, ou “Brahmin” ou “Levita” e aprende a se ver como um “eu”. Quanto mais cultivar esse Eu mais libertará o sangue do Espírito de Família ou Nacional e mais se bastará como habitante do mundo. Muitas tolices e até coisas perigosas têm sido ditas a respeito de sacrificar o “eu” ao “não-eu”. Só quando tivermos cultivado um “eu” poderemos sacrificá-lo, dando-o ao todo. Enquanto amarmos somente a própria família ou nação, seremos incapazes de amar aos demais. Rompamos os laços do sangue, ainda limitados pelos laços de parentesco e da pátria, afirmemo-nos e bastemo-nos, e poderemos converter-nos em servidores desinteressados da Humanidade. Quando o ser humano chega a tal cume, descobre que, em vez de perder a própria família, obteve todas as famílias do mundo. Todos serão para ele seus irmãos, seus pais, suas mães, de quem deve cuidar e a quem deve ajudar.
+Quando o ser humano começa a emancipar-se, deixa também de pensar em si como “a semente de Abraão”, ou como da “Família de Stewart”, ou “Brahmin” ou “Levita” e aprende a se ver como um “eu”. Quanto mais cultivar esse Eu mais libertará o sangue do Espírito de Família ou Nacional e mais se bastará como habitante do mundo. 
+
+Muitas tolices e até coisas perigosas têm sido ditas a respeito de sacrificar o “eu” ao “não-eu”. Só quando tivermos cultivado um “eu” poderemos sacrificá-lo, dando-o ao todo. Enquanto amarmos somente a própria família ou nação, seremos incapazes de amar aos demais. Rompamos os laços do sangue, ainda limitados pelos laços de parentesco e da pátria, afirmemo-nos e bastemo-nos, e poderemos converter-nos em servidores desinteressados da Humanidade. Quando o ser humano chega a tal cume, descobre que, em vez de perder a própria família, obteve todas as famílias do mundo. Todos serão para ele seus irmãos, seus pais, suas mães, de quem deve cuidar e a quem deve ajudar.
 
 Então, voltará a adquirir a visão dos Mundo espirituais que perdeu com a mescla de sangues, porém acrescida de uma faculdade mais elevada, uma Clarividência voluntária e inteligente, com a qual poderá ver o que quiser. Ela substituirá a faculdade negativa que, impressa em seu sangue pelo espírito de família, a esta o prendia e excluía de todas as demais famílias. Sua visão será universal e empregá-la-á para o bem de todos.
 
@@ -3113,13 +3094,13 @@ Ao atravessar esses estados e perder gradualmente o contato com os Mundos intern
 
 As quatro causas que contribuíram para isso foram:
 
-1. O clareamento da neblina atmosférica do continente Atlântico.
+1\. O clareamento da neblina atmosférica do continente Atlântico.
 
-2. A entrada do Corpo Vital no físico, pelo ajustamento do ponto da “raiz do nariz” com o mesmo ponto do Corpo Vital.
+2\. A entrada do Corpo Vital no físico, pelo ajustamento do ponto da “raiz do nariz” com o mesmo ponto do Corpo Vital.
 
-3. A eliminação da endogamia e a consequente substituição pelo matrimônio entre tribos ou famílias.
+3\. A eliminação da endogamia e a consequente substituição pelo matrimônio entre tribos ou famílias.
 
-4. O emprego de estimulantes tóxicos.
+4\. O emprego de estimulantes tóxicos.
 
 Os Espíritos de Raça ainda existem e trabalham com o ser humano. Nos países em que o povo é mais atrasado o Espírito de Raça é forte. Quanto mais avançada é uma nação, mais liberdade tem o Indivíduo. Quanto mais o ser humano está em harmonia com a lei do Amor, e mais elevados são os seus ideais, mais se liberta do Espírito de Raça. O patriotismo, se bem que bom em si, é uma cadeia do Espírito de Raça. O ideal da Fraternidade Universal, que não se identifica com nenhum país ou Raça, é o único caminho que conduz à emancipação.
 
@@ -3137,9 +3118,7 @@ Recorde-se: os Espíritos Lucíferos eram uma parte da Humanidade do Período Lu
 
 Esses espíritos entraram na coluna espinhal e no cérebro e falaram à mulher, cuja imaginação, conforme já se explicou, tinha sido despertada pelas práticas da Raça Lemúrica. Sendo a consciência predominantemente interna, pictórica, e porque tinham entrado em seu cérebro por meio da medula espinhal serpentina, a mulher viu aqueles espíritos como serpentes.
 
-No preparo da mulher estava incluído assistir e observar as perigosas lutas e feitos dos seres humanos que se exercitavam no desenvolvimento da vontade. Muito frequentemente os Corpos morriam nas lutas.
-
-A mulher se surpreendia ao ver essas coisas tão raras e tinha obscura consciência de que algo estranho acontecia. Embora consciente dos espíritos que perdiam seus Corpos, a imperfeita percepção do Mundo Físico não lhe dava poder para revelar aos amigos que seus Corpos físicos tinham sido destruídos.
+No preparo da mulher estava incluído assistir e observar as perigosas lutas e feitos dos seres humanos que se exercitavam no desenvolvimento da vontade. Muito frequentemente os Corpos morriam nas lutas. A mulher se surpreendia ao ver essas coisas tão raras e tinha obscura consciência de que algo estranho acontecia. Embora consciente dos espíritos que perdiam seus Corpos, a imperfeita percepção do Mundo Físico não lhe dava poder para revelar aos amigos que seus Corpos físicos tinham sido destruídos.
 
 Os Espíritos Lucíferos resolveram o problema “abrindo-lhe os olhos”. Fizeram-na ciente dos Corpos, o seu e o do homem, e ensinaram-na como podiam conquistar a morte, criando Corpos novos. A morte não poderia mais dominá-los porque, como Jeová, teriam o poder de criar à vontade.
 
@@ -3161,59 +3140,9 @@ Será um criador de verdade e não na forma relativa e convencional do presente.
 
 Tudo que se manifestou durante a curva descendente da involução subsiste até alcançar o ponto correspondente do arco ascendente da evolução. Os atuais órgãos de geração degenerarão e atrofiar-se-ão. Os órgãos femininos foram os primeiros a existir como unidade separada. De acordo com a lei que diz que “o primeiro será o último”, serão os órgãos femininos os últimos a atrofiar-se. Os órgãos masculinos começaram a se diferenciar depois e, já agora, começam a se separar do Corpo. O Diagrama 13 ilustrará esse ponto.
 
-Diagrama 13 – O Princípio e o Fim dos Sexos!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-[1] N.R.: Também conhecida como Versão Autorizada do Rei Jaime, é uma tradução inglesa da bíblia realizada em benefício da Igreja Anglicana, sob ordens do rei Jaime I, no início do século XVII.
-
-[2] N.R.: ou Martinho Lutero (1483-1546) foi um monge agostiniano e professor de teologia germânico que se tornou uma das figuras centrais da Reforma Protestante.
-
-[3] N.R.: É considerado como um dos trabalhos mais importantes da Cabalá, no misticismo judaico. E faz parte dos livros que seriam canônicos para os judeus.
-
-[4] N.R.: Ou Torah, ou, ainda, Torá é o nome dado aos cinco primeiros livros do Antigo Testamento, o Pentateuco: Gênesis, Êxodo, Levítico, Números e Deuteronômio e que constituem o texto central do judaísmo.
-
-[5] N.R.: ou Talmude é um livro sagrado dos judeus, um registro das discussões rabínicas que pertencem à lei, ética, costumes e história do judaísmo. É um texto central para o judaísmo rabínico.
-
-[6] N.R.: dos massoretas ou massoréticos que eram escribas judeus que se dedicaram a preservar e cuidar das escrituras que, atualmente, constituem o Antigo Testamento.
-
-[7] N.R.: Cidade ao norte de Israel.
-
-[8] N.T.: Heymann Arnheim (1796–1869), tradutor e gramático alemão. Arnheim aprendeu sozinho alemão, francês, inglês, latim e grego, bem como um pouco de árabe.
-
-[9] N.T.: Michael Sachs (1808-1864) foi um rabino alemão, tradutor, poeta, talmudista, professor de religião, advogado, linguista e um importante pregador de sua época.
-
-[10] N.T.: Julius Fürst (1805-1873), nascido Joseph Alsari, era um orientalista judeu alemão. Fürst foi um distinto estudioso de línguas e literatura semíticas. Durante seus anos como professor no departamento de línguas orientais e literatura na Universidade de Leipzig (1864-1873), ele escreveu muitas obras sobre história literária e linguística.
-
-[11] N.T.: Leopold Zunz (1794-1886) foi o fundador dos Estudos Judaicos acadêmicos (Wissenschaft des Judentums), a investigação crítica da literatura, hinologia e ritual judaicos. Zunz publicou uma nova tradução da Bíblia e escreveu muitos ensaios que foram coletados posteriormente como Gesammelte Schriften.  Editou “Os Vinte e Quatro Livros da Escritura: Baseado nos Textos Massoréticos”, traduzido por H. Arnheim, Dr. Julius Fürst, Dr. M. Sachs.
-
-[12] N.R.: Gn 3: 7
-
-[13] N.R.: Caspar Friedrich Wolff (1733-1794) – biólogo e fisiologista alemão e um dos fundadores da embriologia.
-
-[14] N.R.: Ernst Heinrich Philipp August Haeckel (1834-1919) – biólogo, naturalista, filósofo, médico, professor e artista alemão.
-
-[15] N.R.: primatas antropoides, sem cauda e de braços longos, como chimpanzé, orangotango, gorila e bonobo.
-
-[16] N.R.: Gn 2:7
-
-[17] N.R.: Ef 2:2
-
-[18] N.R.: Thomas Paine (1737-1809) – político britânico, além de panfletário, revolucionário, radical, inventor, intelectual.
-
-[19] N.R.: em espanhol a terminação “ez” era normalmente utilizada para a ideia de descendência; por exemplo: o sobrenome Rodríguez tem este significado, filho de Rodrigo. Marquez: “filho de Marcos” ou “filho de Marcus”. Diaz significa “filho de Diego”, “filho de Diogo”. Hernández, “filho de Fernando”. González, “filho de Gonçalo”. Pérez, “filho de Pedro”. Em português são geralmente os sobrenomes terminados em “es”. Por exemplo Rodrigues (filho de Rodrigo), ou Fernandes (filho de Fernando). Em dinamarquês seriam geralmente os terminado em “sen”, por exemplo Larsen (filho de Lars). Em alemão se tem os seguintes exemplos de sobrenomes patronímicos: Georgi (filho de Georg), Petry (filho de Peter), Stephani (filho de Steffen), Sebastiany (filho de Sebastian).
-
-[20] N.R.: Quando dois irmãos moram juntos e um deles morre, sem deixar filhos, a mulher do morto não sairá para se casar com um estranho à família; seu cunhado virá até ela e a tomará, cumprindo seu de- ver de cunhado. O primogênito que ela der à luz tomará o nome do irmão morto, para que o nome deste não se apague em Israel. Contudo, se o cunhado recusa desposar a cunhada, esta irá aos anciãos, na porta, e dirá: “Meu cunhado está recusando suscitar um nome para seu irmão em Israel! Não quer cumprir seu dever de cunhado para comigo!”. Os anciãos da cidade o convocarão e conversarão com ele. Se ele persiste, dizendo: “Não quero desposá-la!”., então a cunhada se aproximará dele na presença dos anciãos, tirar-lhe-á a sandália do pé, cuspirá em seu rosto e fará esta declaração: “É isto que se deve fazer a um homem que não edifica a casa do seu irmão”; e em Israel o chamarão com o apelido de “casa do descalçado”.
-
-[21] N.R.: Viking é o termo usado para se referir aos nórdicos que habitavam a Escandinávia em um período que abrange os anos de 793 d.C. a 1066 d.C, conhecido como Era Viking.
-
-[22] N.R.: Povo e Cultura das Terras Altas na Escócia (zona montanhosa do norte da Escócia). Caracterizavam-se até o século XVIII por um sistema feudal de famílias – os famosos clãs escoceses.
-
-**************************************************************************************************************
-
 <h2 id="part-3">Terceira Parte – Futuro Desenvolvimento e Iniciação do Ser Humano</h2>
 
 ### <h3 id="chapter-15">Capítulo XV – Cristo e Sua Missão</h3>
-
-Diagrama – Os Sete Dias da Criação!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 #### <h4 id="the-evolution-of-religion">A Evolução da Religião</h4>
 
