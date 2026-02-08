@@ -3156,6 +3156,10 @@ Disto, os materialistas deduziram que a Religião nunca teve uma origem superior
 
 Não há dúvida alguma: a lei para o Corpo é a “sobrevivência do mais apto”[1]. Contudo, para o Espírito a lei de evolução pede “Sacrifício”. Enquanto o ser humano acreditar que a “força é um direito”[2], a Forma prosperará, far-se-á forte, e derrubará todos os obstáculos sem a menor consideração pelos demais. Se o Corpo fosse tudo, tal maneira de viver seria a única possível. Além disso, incapaz de sentir a menor consideração pelos outros, resistiria pela força a qualquer tentativa de usurpação do que considerasse seus direitos: o direito do mais forte, o único tipo de justiça condizente com a lei da “sobrevivência dos mais aptos”. Para coisa alguma teria em conta os demais. Seria absolutamente insensível a qualquer força externa que tentasse levá-lo a executar um ato contrário à satisfação de um momentâneo prazer.
 
+() - [1] N.R.: é uma frase que resume um conceito relativo à competição pela sobrevivência ou predominância. Originalmente aplicada por Herbert Spencer no seu livro Principles of Biology (Princípios da Biologia) de 1864.
+
+() - [2] N.R.: Ponto de vista de Trasímaco, o irado sofista, em resposta a Sócrates nos diálogos de Platão, o que é a justiça. Ele definia: “Eu declaro que a força é um direito, e que a justiça é o interesse do mais forte”.
+
 É claro e manifesto: quando o ser humano se inclina para uma diretriz de conduta mais elevada no trato com os demais, o impulso deve vir de dentro, de uma fonte não idêntica à do Corpo. Do contrário não lutaria contra este, para fazer prevalecer esse impulso sobre os interesses mais óbvios do Corpo. Além disso, essa força tem que ser mais forte que a do Corpo, para triunfar e se sobrepor aos desejos, impelindo ao sacrifício em benefício dos fisicamente mais débeis.
 
 Que tal força existe ninguém poderá negar. E chegou a tal estado de desenvolvimento que, em vez de considerarmos a debilidade física um meio de tornar a vítima presa fácil e proveitosa, reconhecemos nessa mesma debilidade uma boa razão para proteger o débil. O egoísmo vai sendo corroído lenta mais seguramente pelo Altruísmo.
@@ -3186,9 +3190,7 @@ Primeiramente, o ser humano se viu impelido a temer a Deus. Para seu próprio be
 
 Depois, em segundo grau, ele foi induzido a certa classe de desinteresse que o coagiu a dar parte dos seus melhores bens como sacrifício. Isto foi conseguido pelo Deus de Raça ou Tribo, um Deus zeloso que exigia a mais estrita reverência e obediência, além do sacrifício dos bens que o ser humano ciosamente apreciava. Contudo, esse Deus de Raça era um amigo todo poderoso, ajudava os seres humanos em suas batalhas, e lhes devolvia multiplicados os carneiros e cereais que lhe eram sacrificados. O ser humano não chegara ainda ao estado de compreender que todas as criaturas são semelhantes, mas o Deus de Tribo lhe ensinou a tratar benevolamente seus irmãos de tribo e a fazer leis equitativas e amplas para os seres humanos da mesma Raça.
 
-Não imaginemos que estes progressivos passos do ser humano primitivo foram dados facilmente, sem rebeliões ou desobediências. Deve ter havido muitos fracassos e retrocessos sabendo como, até nossos dias, o egoísmo está enraizado na natureza inferior.
-
-Na Bíblia judaica podemos encontrar bons exemplos de como o ser humano se esqueceu dos seus deveres e de como o Espírito de Tribo o encaminhou, persistentemente, uma e outra vez. Só os extensos sofrimentos ditados pelo Espírito de Raça é que foram suficientemente capazes de encaminhá-lo dentro da lei, essa lei que tão poucas pessoas aprenderam a conhecer e a obedecer.
+Não imaginemos que estes progressivos passos do ser humano primitivo foram dados facilmente, sem rebeliões ou desobediências. Deve ter havido muitos fracassos e retrocessos sabendo como, até nossos dias, o egoísmo está enraizado na natureza inferior. Na Bíblia judaica podemos encontrar bons exemplos de como o ser humano se esqueceu dos seus deveres e de como o Espírito de Tribo o encaminhou, persistentemente, uma e outra vez. Só os extensos sofrimentos ditados pelo Espírito de Raça é que foram suficientemente capazes de encaminhá-lo dentro da lei, essa lei que tão poucas pessoas aprenderam a conhecer e a obedecer.
 
 Avançados há que necessitam de algo mais elevado. Quando são suficientemente numerosos, a evolução dá um novo passo. A evolução apresenta gradações diversas. Em certo tempo dos últimos dois mil anos, os mais avançados da Humanidade estavam aptos para mais um esforço e aprender a viver bem a vida, dentro de uma Religião que assegurasse uma recompensa futura, um estado de existência em que deviam ter fé.
 
@@ -3210,6 +3212,8 @@ Rogamos ao Estudante que observe o Diagrama 6. Notará que “O Único Gerado”
 
 Unicamente esse “Verbo” foi “engendrado por Seu Pai (o primeiro aspecto) antes de todos os Mundos”. “Sem Ele nada do que foi feito se fez”[3], nem mesmo o terceiro aspecto do Ser Supremo, que procede dos dois aspectos anteriores. Portanto, o “único engendrado” é o exaltado Ser que está além de todo o Universo, salvo unicamente o aspecto-Poder d’Aquele que O criou.
 
+() - [3] N.R.: Jo 1:3
+
 O primeiro aspecto do Ser Supremo concebe ou imagina o Universo antes do começo da manifestação ativa, incluindo os milhões de Sistemas Solares e as grandes Hierarquias que habitam os seis Planos Cósmicos de existência além do sétimo, o campo da nossa evolução (veja o Diagrama 6). Esta Força também dissolve tudo o que se tem cristalizado sem mais possibilidade de ulterior crescimento. Quando chega o final da manifestação ativa, ela reabsorve em Si mesma tudo que existe, até o alvorecer de outro novo Período de Manifestação.
 
 O segundo aspecto do Ser Supremo se manifesta na matéria como forças de atração e coesão, lhe dando a capacidade de se combinar em várias classes de formas. Esse é o Verbo, o “Fiat Criador”. Modela a Substância-Raiz-Cósmica primordial de modo semelhante ao que produz as figuras geométricas por meio de vibrações musicais, como antes se indicou o mesmo som originando sempre as mesmas figuras. Assim, o grande e primordial “Verbo” trouxe a existência, em sutilíssima matéria todos os diferentes Mundos e suas miríades de formas que, desde esse tempo, foram copiadas e trabalhadas em pormenores pelas inúmeras Hierarquias Criadoras.
@@ -3219,8 +3223,6 @@ Entretanto, o “Verbo” não podia fazer isso antes do terceiro aspecto do Ser
 Os diferentes ângulos de inclinação dos eixos e as intensidades vibratórias permitem à Substância-Raiz-Cósmica formar diferentes combinações. Tais combinações constituem a base dos sete grandes Planos Cósmicos. Havendo diferentes inclinações dos eixos e diferentes intensidades vibratórias em cada um desses Planos, as condições e combinações de cada um dos planos são diferentes das de qualquer outro, em consequência da atividade do “Único Engendrado”.
 
 Segundo o Diagrama 14:
-
-Diagrama 14 – O Pai, o Filho e o Espírito Santo!!!!!!!!!!!!!!!!!!!!!!!
 
 O “Pai” é o mais elevado Iniciado da Humanidade do Período de Saturno. À Humanidade ordinária daquele Período pertenciam os que são agora os Senhores da Mente.
 
@@ -3252,13 +3254,11 @@ Podemos dizer, num parêntese, que os Essênios constituíam uma terceira seita 
 
 É Lei do Cosmos: por mais elevado que seja, nenhum ser pode funcionar em qualquer Mundo sem um veículo construído do material desse Mundo (Ver os Diagramas 8 e 14). Por esse motivo, o Corpo de Desejos era o veículo mais baixo do grupo de espíritos que alcançaram o estado humano no Período Solar.
 
-Cristo, um desses espíritos, era incapaz de construir para Si um Corpo Vital e um Corpo Denso. Podia ter trabalhado sobre a Humanidade com um Corpo de Desejos, do modo que fizeram como Espíritos de Raça, seus irmãos mais jovens, os Arcanjos. Jeová Lhe teria aberto o caminho para entrar no Corpo Denso do ser humano. Todas as Religiões de Raça foram Religiões de leis, originadoras do pecado como consequência da desobediência a essas leis. Tais Religiões estavam sob a direção de Jeová que, tendo por veículo inferior o Espírito Humano, está correlacionado ao Mundo do Pensamento Abstrato, onde se origina o separatismo, conducente ao benefício próprio. A unidade era impossível. Precisamente por esta razão, foi necessária a intervenção de Cristo que possuía como veículo inferior o unificante Espírito de Vida. Por esse motivo, devia aparecer como um ser humano entre os seres humanos. Devia entrar num Corpo humano denso, porque unicamente de dentro é possível conquistar a Religião de Raça, que afeta o ser humano de fora.
+Cristo, um desses espíritos, era incapaz de construir para Si um Corpo Vital e um Corpo Denso. Podia ter trabalhado sobre a Humanidade com um Corpo de Desejos, do modo que fizeram como Espíritos de Raça, seus irmãos mais jovens, os Arcanjos. Jeová Lhe teria aberto o caminho para entrar no Corpo Denso do ser humano. Todas as Religiões de Raça foram Religiões de leis, originadoras do pecado como consequência da desobediência a essas leis. Tais Religiões estavam sob a direção de Jeová que, tendo por veículo inferior o Espírito Humano, está correlacionado ao Mundo do Pensamento Abstrato, onde se origina o separatismo, conducente ao benefício próprio. A unidade era impossível. 
 
-Cristo não podia nascer num Corpo Denso. Não tendo nunca passado por uma evolução semelhante à do Período Terrestre, teria de adquirir, primeiramente, a capacidade de construir um Corpo Denso como o nosso. Porém, ainda que tivesse essa capacidade, seria inconveniente para um Ser tão elevado empregar energia na construção do Corpo durante a vida pré-natal, a infância, a juventude, e levá-lo até a maturidade indispensável.
+Precisamente por esta razão, foi necessária a intervenção de Cristo que possuía como veículo inferior o unificante Espírito de Vida. Por esse motivo, devia aparecer como um ser humano entre os seres humanos. Devia entrar num Corpo humano denso, porque unicamente de dentro é possível conquistar a Religião de Raça, que afeta o ser humano de fora.
 
-Ele deixara de empregar ordinariamente o Espírito Humano, o Corpo Mental e o de Desejos, embora tivesse aprendido a construí-los no Período Solar e retivesse a capacidade de construí-los e de neles funcionar quando fosse necessário.
-
-Cristo usou todos esses veículos próprios e só tomou de Jesus os Corpos Vital e Denso. Quando Jesus atingiu trinta anos de idade, Cristo penetrou nesses Corpos e empregou-os até o final de Sua Missão, no Gólgota. Depois da destruição do Corpo Denso, Cristo apareceu entre os Discípulos em Corpo Vital, no qual funcionou ainda durante algum tempo. O Corpo Vital é o veículo que Ele empregará quando aparecer novamente. Nunca tomará outro Corpo Denso.
+Cristo não podia nascer num Corpo Denso. Não tendo nunca passado por uma evolução semelhante à do Período Terrestre, teria de adquirir, primeiramente, a capacidade de construir um Corpo Denso como o nosso. Porém, ainda que tivesse essa capacidade, seria inconveniente para um Ser tão elevado empregar energia na construção do Corpo durante a vida pré-natal, a infância, a juventude, e levá-lo até a maturidade indispensável. Ele deixara de empregar ordinariamente o Espírito Humano, o Corpo Mental e o de Desejos, embora tivesse aprendido a construí-los no Período Solar e retivesse a capacidade de construí-los e de neles funcionar quando fosse necessário. Cristo usou todos esses veículos próprios e só tomou de Jesus os Corpos Vital e Denso. Quando Jesus atingiu trinta anos de idade, Cristo penetrou nesses Corpos e empregou-os até o final de Sua Missão, no Gólgota. Depois da destruição do Corpo Denso, Cristo apareceu entre os Discípulos em Corpo Vital, no qual funcionou ainda durante algum tempo. O Corpo Vital é o veículo que Ele empregará quando aparecer novamente. Nunca tomará outro Corpo Denso.
 
 Com isto se relaciona o objetivo de todo Treinamento Esotérico, de que falaremos mais tarde, que é trabalhar sobre o Corpo Vital, para construir o Espírito de Vida e acelerar seu desenvolvimento. Quando tratarmos da Iniciação, será possível dar outros pormenores. Agora não é possível dizer mais sobre o assunto. Esse ponto já foi parcialmente tratado ao descrever os acontecimentos relativos à existência pós-morte. Rogamos ao Estudante tenha em conta o seguinte: se supõe que o ser humano, antes de entrar no esoterismo, já deve ter conquistado em grande extensão o seu Corpo de Desejos. O Treinamento Esotérico e as primeiras Iniciações são destinados a preparar o Corpo Vital, a fim de ser organizado o Espírito de Vida. Jesus, quando Cristo tomou o seu Corpo, era um Discípulo de grau elevado e, por conseguinte, seu Espírito de Vida estava em organizado. Vemos, portanto, que o veículo inferior em que funcionou Cristo e o mais bem organizado dos veículos superiores de Jesus eram idênticos. Cristo, ao tomar os Corpo Vital e o Corpo Denso de Jesus, se encontrou com uma série completa de veículos, desde o Mundo do Espírito de Vida até o Mundo Físico.
 
@@ -3276,9 +3276,7 @@ Assim, ficamos conhecendo a natureza de Cristo, o Iniciado mais elevado do Perí
 
 Todas as Religiões de Raça são do Espírito Santo. Baseadas na lei são insuficientes, porque produzem o pecado e acarretam a morte, a dor e a tristeza.
 
-Todos os Espíritos de Raça sabem disso e compreendem que suas Religiões são, tão somente, passos necessários para atingir algo melhor. Todas as Religiões de Raça, sem exceção, indicam Alguém que virá, o que demonstra a assertiva anterior. A Religião dos persas indica a Mithras; a dos Caldeus, a Tammuz. Os antigos deuses do norte previam a aproximação da “Luz dos Deuses”, quando Surt, o brilhante Sol-Espiritual viesse substituí-los e uma nova e mais formosa ordem se estabelecesse em “Gimle”, a Terra regenerada.
-
-Os egípcios esperavam a Horus, o Sol recém-nascido. Mithras e Tammuz são também simbolizados como órbitas solares e todos os templos principais eram construídos com frente para leste, para que os raios do Sol nascente pudessem brilhar diretamente através das portas abertas. O templo de S. Pedro, em Roma, foi assim edificado. Todos estes fatos demonstram que, geralmente, era sabido que Aquele que viria seria um Sol Espiritual, para salvar a Humanidade das influências separatistas das Religiões de Raça.
+Todos os Espíritos de Raça sabem disso e compreendem que suas Religiões são, tão somente, passos necessários para atingir algo melhor. Todas as Religiões de Raça, sem exceção, indicam Alguém que virá, o que demonstra a assertiva anterior. A Religião dos persas indica a Mithras; a dos Caldeus, a Tammuz. Os antigos deuses do norte previam a aproximação da “Luz dos Deuses”, quando Surt, o brilhante Sol-Espiritual viesse substituí-los e uma nova e mais formosa ordem se estabelecesse em “Gimle”, a Terra regenerada. Os egípcios esperavam a Horus, o Sol recém-nascido. Mithras e Tammuz são também simbolizados como órbitas solares e todos os templos principais eram construídos com frente para leste, para que os raios do Sol nascente pudessem brilhar diretamente através das portas abertas. O templo de S. Pedro, em Roma, foi assim edificado. Todos estes fatos demonstram que, geralmente, era sabido que Aquele que viria seria um Sol Espiritual, para salvar a Humanidade das influências separatistas das Religiões de Raça.
 
 Essas Religiões foram os passos necessários à Humanidade a fim de prepará-la para a vinda de Cristo. O ser humano deve primeiramente cultivar um “eu”, antes de poder ser desinteressado e compreender o aspecto superior da Fraternidade Universal, que exprime unidade de propósitos e interesses. Cristo lançou as primeiras bases da Fraternidade Universal em sua primeira vinda. Tal Fraternidade será coisa verdadeiramente realizada quando Ele voltar.
 
@@ -3296,24 +3294,34 @@ Embora o mundo esteja progredindo e, por exemplo, tenha sido fácil ao autor ass
 
 Em geral, o mundo não gosta de considerar coisas que julga “demasiado” altruísta. Deve haver uma razão para isso. Não considera norma de conduta natural a que não ofereça uma oportunidade de “conseguir alguma coisa dos seus semelhantes”. As empresas comerciais são planejadas e conduzidas segundo esse princípio. Ante a Mente desses que estão escravizados ao desejo de acumular riquezas inúteis, a ideia da Fraternidade Universal evoca as terríveis visões da abolição do capitalismo e sua inevitável consequência, a exploração dos demais, e enfim, o fatal naufrágio dos “interesses de negócios”. A palavra “escravizados” descreve exatamente a condição. De acordo com a Bíblia, o ser humano deveria ter domínio sobre o mundo, mas na grande maioria dos casos, o inverso é a verdade: o mundo é que tem domínio sobre o ser humano. Cada ser humano que tenha interesses próprios admitirá, em momentos de lucidez, que as posses constituem uma fonte inesgotável de aborrecimentos, que se vê constantemente obrigado a traçar planos para conservar seus bens, ou pelo menos cuidar deles para evitar perdê-los, pois sabe “por dura experiência” que os outros estão sempre procurando tomá-los. O ser humano é escravo de tudo aquilo que, por inconsciente ironia, chama de “minhas posses” quando, em realidade, são elas que o possuem. Bem disse o Sábio de Concord[4]: “São as coisas que vão montadas e cavalgam sobre a Humanidade”.
 
+() - [4] N.R.: Ralph Waldo Emerson (1803-1882) – escritor, filósofo e poeta estadunidense
+
 Esse estado resulta das Religiões de Raça e seus sistemas de leis; por isso, todas elas assinalam “Aquele que deve vir”. A Religião Cristã é a única que não espera Aquele que deve vir, mas sim Aquele que deve voltar. Sua volta se fará quando a Igreja se liberte do Estado. A Igreja, especialmente na Europa, está atrelada ao carro do Estado. Os ministros de Igreja se encontram coibidos por considerações econômicas, não se atrevem a proclamar as verdades que seus estudos lhes têm revelado.
 
 Recentemente, um viajante assistiu, em uma igreja de Copenhague (Dinamarca), a uma cerimônia de confirmação. Naquele país, a Igreja está sob o domínio do Estado e todos os seus ministros estão sob o poder temporal. Os fiéis nada têm a dizer sobre o assunto. Podem frequentar a igreja ou não, como queiram, mas são obrigados a pagar as taxas que sustentam a instituição.
 
-Além de efetuar os ofícios sob a direção do Estado, o pastor da igreja visitada era condecorado com várias ordens conferidas pelo rei. O brilho das faixas oficiais era um silencioso, mas eloquente testemunho da grande escravidão a que está submetida a Igreja pelo Estado. Durante a cerimônia, o pastor rogou pelo rei e pelos legisladores, para que estes pudessem reger o país sabiamente.
-
-Enquanto existirem reis e legisladores, essa oração será muito apropriada, mas foi muito chocante ouvi-lo exclamar ao final: “…e, o Todo-Poderoso Deus protege e fortifica nosso exército e armada”.
+Além de efetuar os ofícios sob a direção do Estado, o pastor da igreja visitada era condecorado com várias ordens conferidas pelo rei. O brilho das faixas oficiais era um silencioso, mas eloquente testemunho da grande escravidão a que está submetida a Igreja pelo Estado. Durante a cerimônia, o pastor rogou pelo rei e pelos legisladores, para que estes pudessem reger o país sabiamente. Enquanto existirem reis e legisladores, essa oração será muito apropriada, mas foi muito chocante ouvi-lo exclamar ao final: “…e, o Todo-Poderoso Deus protege e fortifica nosso exército e armada”.
 
 Uma oração semelhante só demonstra claramente que o Deus adorado é o Deus da Tribo ou Nacional, o Espírito de Raça. O último ato de Cristo Jesus foi arrancar a espada das mãos do amigo que queria protegê-lo, todavia, Ele disse que não tinha vindo para trazer a paz, mas uma espada. Disse-o por que previa os mares de sangue que as nações “cristãs” militantes provocariam, em consequência da má interpretação dos seus ensinamentos. Seus elevados ideais não podiam ser imediatamente alcançados pela Humanidade. São terríveis os assassínios nas guerras e outras atrocidades semelhantes, mas são também potentes ilustrações daquilo que o amor há de abolir.
 
 É aparente a contradição entre as palavras de Cristo Jesus (“Eu não venho trazer a paz, mas uma espada”[5]) e as palavras do cântico celestial que anunciava o nascimento de Jesus: “Paz na Terra, e boa vontade entre os homens”[6].
 
+() - [5] N.R.: Mt 10:34
+
+() - [6] N.R.: Lc 2:14
+
 É a mesma contradição aparente que existe entre as palavras e os atos de uma mulher que diz: “vou limpar toda a casa e arrumá-la”. E começa a tirar os tapetes, a empilhar as cadeiras, etc., produzindo uma desordem geral na casa anteriormente em ordem. Quem observasse unicamente esse aspecto, poderia exclamar justificadamente: “está pondo as coisas piores do que antes”. Contudo, quando compreender o propósito do trabalho, compreenderá também a momentânea desordem, sabendo que a casa ficará, depois, em melhores condições.
 
 Analogamente, devemos ter presente que o tempo transcorrido desde a vinda de Cristo Jesus não é mais do que um momento, quando comparado com um só Dia de Manifestação. Aprendemos a conhecer, como Whitman[7], “a amplitude do tempo”, e a olhar além das passadas e presentes crueldades e dos zelos das seitas em guerra, a caminho da Fraternidade Universal. Essa marcará o grande novo passo do progresso humano em sua larga e gloriosa jornada desde o barro até Deus, desde o protoplasma até a consciente unidade com o Pai, esse
 
-    “… distante e divino acontecimento,  
-    para o qual se move a criação inteira.”[8]  
+() - [7] N.R.: do poema Song of Myself, part 20 de Walt Whitman (1819-1892) – poeta, ensaísta e jornalista americano
+
+```
+“… distante e divino acontecimento,  
+para o qual se move a criação inteira.”[8]  
+```
+
+() - [8] N.R.: Final do poema: In Memoriam, Epilogue, [O true and tried, so well and long] de Alfred, Lord Tennyson (1809-1892).
 
 O pastor anteriormente mencionado, ao receber os fiéis na igreja lhes disse, durante a cerimônia, que Jesus-Cristo era um indivíduo composto: Jesus era a parte humana mortal, enquanto Cristo era o Espírito imortal e divino. Se o assunto fosse discutido, cremos, ele não sustentaria a afirmação, apesar de ter anunciado um fato oculto.
 
@@ -3321,33 +3329,61 @@ O pastor anteriormente mencionado, ao receber os fiéis na igreja lhes disse, du
 
 A unificante influência de Cristo foi simbolizada na formosa lenda da adoração dos três reis magos ou “sábios do Oriente”, tão maravilhosamente descrita pelo General Lew Wallace[9], em sua encantadora história “Ben Hur”.
 
+() - [9] N.R.: Lewis “Lew” Wallace (1827-1905) – escritor, militar, advogado e diplomata dos Estados Unidos da América, autor do romance Ben-Hur.
+
 Os três sábios, Gaspar, Melchior e Baltazar, representam as Raças branca, amarela e negra, e simbolizam os povos da Europa, Ásia e África guiados pela Estrela ao Salvador do Mundo, diante de Quem “todo joelho se dobraria”[10] e a Quem “toda língua louvaria”[11]. Aquele que uniria todas as nações debaixo da bandeira da Paz e da boa vontade. Aquele que levaria os seres humanos a “converter suas lanças em arados e suas espadas em foices”[12].
+
+() - [10] N.R.: Fp 2:10
+
+() - [11] N.R.: Fp 2:11
+
+() - [12] N.R.: Is 2:2-4
 
 Diz-se que a Estrela de Belém apareceu ao nascer Jesus e guiou os três sábios para o Salvador.
 
 Muito se especulou acerca da natureza dessa estrela. A maioria dos seres humanos que estudam a ciência materialista tem declarado que ela não passa de um mito, enquanto para outros, se fosse algo mais do que um mito, seria a simples “coincidência” de dois sóis mortos que, ao se chocarem teria produzido uma explosão. Não obstante, todo místico conhece a “Estrela”, sim, e a “Cruz” também, não somente como símbolos relacionados com a vida de Jesus e de Cristo Jesus, mas também por meio de suas experiências pessoais. S. Paulo disse: “até que o Cristo nasça de vós”[13]; e o místico Angelus Silesius[14] escreveu:
 
-    “Ainda que Cristo nasça mil vezes em Belém,  
-    Se não nascer dentro de ti, tua Alma segue extraviada.  
-    Olharás em vão a Cruz do Gólgota,  
-    Enquanto ela não se erguer dentro de ti mesmo novamente.”  
+() - [13] N.R.: Gl 4:19
+
+() - [14] N.R.: Pseudônimo de Johannes Scheffler (1624-1667) – Místico Cristão, filósofo, médico, poeta, jurista alemão.
+
+```
+“Ainda que Cristo nasça mil vezes em Belém,  
+Se não nascer dentro de ti, tua Alma segue extraviada.  
+Olharás em vão a Cruz do Gólgota,  
+Enquanto ela não se erguer dentro de ti mesmo novamente.”  
+```
 
 Richard Wagner mostrou seu conhecimento intuitivo de artista quando, à pergunta de Parsifal[15]: “Quem é o Graal?” – Responde Gurnemanz:
 
-    Não podemos dizer-te;  
-    porém, se foste guiado por Ele,  
-    não te será oculta a verdade.  
-    … Nenhum caminho conduz até Ele  
-    e procurá-Lo é inútil,  
-    salvo se Ele mesmo for o Guia.  
+() - [15] N.R.: ópera de três atos do com a música e libreto do compositor alemão Richard Wagner.
+
+```
+Não podemos dizer-te;  
+porém, se foste guiado por Ele,  
+não te será oculta a verdade.  
+… Nenhum caminho conduz até Ele  
+e procurá-Lo é inútil,  
+salvo se Ele mesmo for o Guia.  
+```
 
 Sob a “antiga dispensação” o Caminho da Iniciação não estava aberto senão para poucos escolhidos. Alguns podiam procurar o caminho, mas só os guiados ao Templo pelos Hierofantes podiam encontrar a entrada. Antes da vinda de Cristo, não havia convite algum semelhante ao atual: “Todo aquele que queira, pode vir”.
 
 No momento em que o sangue fluiu no Gólgota “o véu do Templo rasgou-se”[16] (por razões que agora serão explicadas) e, daí para diante, quem procura sua admissão, encontra-a.
 
-Nos Templos de Mistérios, os Hierofantes[17] ensinavam aos discípulos que no Sol há uma força espiritual além de energia física. Esta última, a dos raios solares, é o princípio fecundante da Natureza. Produz o crescimento das plantas, sustenta e conserva os Reinos animal e humano. É uma energia construtora, fonte de toda força física. Alcança a mais elevada expressão em meados do verão, quando os dias são maiores e mais curtas as noites, porque os raios solares caem diretamente sobre o hemisfério norte, em junho. Nesse tempo, as forças espirituais são mais inativas.
+() - [16] N.R.: Mt 27:51
+
+Nos Templos de Mistérios, os Hierofantes[17] ensinavam aos discípulos que no Sol há uma força espiritual além de energia física. Esta última, a dos raios solares, é o princípio fecundante da Natureza. Produz o crescimento das plantas, sustenta e conserva os Reinos animal e humano. É uma energia construtora, fonte de toda força física. 
+
+() - [17] N.R.: os sacerdotes da alta hierarquia dos mistérios
+
+Alcança a mais elevada expressão em meados do verão, quando os dias são maiores e mais curtas as noites, porque os raios solares caem diretamente sobre o hemisfério norte, em junho. Nesse tempo, as forças espirituais são mais inativas.
 
 Pelo contrário, em dezembro, durante as longas noites de inverno[18], a força física solar está adormecida e as forças espirituais alcançam seu grau máximo de intensidade[19].
+
+() - [18] N.R.: o autor se refere ao Hemisfério Norte.
+
+() - [19] N.R.: isso vale para todo o Planeta Terra, pois tem a haver com a distância entre a Terra e o Sol.
 
 A noite entre 24 e 25 de dezembro é, em todo o ano, a Noite Santa por excelência. O Signo zodiacal da imaculada Virgem Celestial está sobre o horizonte oriental à meia-noite, e o Sol do ano novo nasce e começa sua jornada do ponto mais austral, em direção ao hemisfério norte, para (fisicamente) salvar essa parte da Humanidade da obscuridade e da fome inevitáveis, caso permanecesse sempre abaixo do Equador.
 
@@ -3359,6 +3395,8 @@ Por esse motivo, nos antigos templos, os discípulos preparados para a Iniciaç�
 
 Essa Estrela que brilhou na Santa Noite ainda brilha para o místico na obscuridade da noite. Quando o ruído cessa e a confusão da atividade física se aquieta, então ele entra em seu interior e procura o caminho que conduz ao Reino da Paz. A brilhante Estrela está sempre ali para guiá-lo e sua Alma ouve a canção profética: “Paz na terra e boa vontade entre os homens.” [20].
 
+() - [20] N.R.: Lc 2:14
+
 Paz e boa vontade a todos, sem exceção, não excluindo nem os inimigos. É de admirar que custe muito a educar a Humanidade para esse tão elevado tipo de moral? Há algum meio melhor para demonstrar a beleza e a necessidade da paz, da boa vontade e do amor do que compará-los com o estado atual de guerras, egoísmos e ódios?
 
 Quanto mais forte é a luz, tanto mais profunda é a sombra que projeta. Quanto mais altos os ideais, mais claramente podemos ver nossos defeitos.
@@ -3366,6 +3404,8 @@ Quanto mais forte é a luz, tanto mais profunda é a sombra que projeta. Quanto 
 Lamentavelmente, em nosso atual estado de desenvolvimento, a Humanidade só pode aprender por meio de duríssimas experiências. Apegada à Raça, tem de se sentir absolutamente egoísta, para que possa provar as amarguras que lhe produz o egoísmo alheio, assim como é preciso conhecer a enfermidade para se reconhecer quanto vale a saúde.
 
 A Religião impropriamente chamada Cristã tem sido a mais sangrenta que se conhece, sem excetuar o Maometismo[21] que, a esse respeito, é muito parecido com o nosso mal praticado Cristianismo. Nos campos de batalha e durante a Inquisição se cometeram atrocidades inqualificáveis em nome do doce e meigo Nazareno. A espada e o vinho, isto é, a cruz e o cálice da comunhão pervertidos, foram os meios de que se valeram as poderosas nações chamadas cristãs para dominar os povos pagãos e as nações mais débeis que professavam a mesma fé que os seus conquistadores. O mais ligeiro exame da história greco-latina ou das Raças teuto-anglo-saxônicas corroborará amplamente essa afirmação.
+
+() - [21] N.R.: Religião fundada por Maomé. O mesmo que chamar de Islamismo ou Muçulmanismo.
 
 Enquanto o ser humano esteve plenamente sob o governo das Religiões de Raça de cada nação, cada uma destas era um conjunto unido. Os interesses individuais se subordinavam voluntariamente aos interesses da comunidade. Todos estavam “na lei”. Todos eram, em primeiro lugar, membros de suas respectivas tribos e, secundariamente indivíduos.
 
@@ -3375,9 +3415,7 @@ O estado de desenvolvimento em que o ser humano se sinta uma unidade absolutamen
 
 #### <h4 id="the-heart-as-an-anomaly">O Coração, uma Anomalia</h4>
 
-Nenhuma lição é de valor real como princípio ativo de vida se a sua verdade for aprendida superficialmente. Deverá ser assimilada através do coração, pela aspiração e pela amargura. A lição principal que, por esse modo, o ser humano deve aprender é: o que não beneficia a todos não beneficia realmente a ninguém.
-
-Durante cerca de dois mil anos temos concordado, de boca apenas, em agir e dirigir a vida segundo a máxima: “respondei ao mal com o bem”. O coração pede benevolência e amor. Contudo, a razão pede beligerância e medidas punitivas, se não como vingança, pelo menos como meio de prevenir uma repetição de hostilidades. Esse divórcio entre o Coração e a “Cabeça” impede o crescimento do verdadeiro sentimento de Fraternidade Universal e a adoração dos ensinamentos de Cristo, o Senhor do Amor.
+Nenhuma lição é de valor real como princípio ativo de vida se a sua verdade for aprendida superficialmente. Deverá ser assimilada através do coração, pela aspiração e pela amargura. A lição principal que, por esse modo, o ser humano deve aprender é: o que não beneficia a todos não beneficia realmente a ninguém. Durante cerca de dois mil anos temos concordado, de boca apenas, em agir e dirigir a vida segundo a máxima: “respondei ao mal com o bem”. O coração pede benevolência e amor. Contudo, a razão pede beligerância e medidas punitivas, se não como vingança, pelo menos como meio de prevenir uma repetição de hostilidades. Esse divórcio entre o Coração e a “Cabeça” impede o crescimento do verdadeiro sentimento de Fraternidade Universal e a adoração dos ensinamentos de Cristo, o Senhor do Amor.
 
 A Mente é o foco através do qual o Ego toma consciência do Mundo material. Como um instrumento para aquisição do conhecimento naqueles reinos da Mente é inestimável, mas quando a Mente se arroga ao papel de ditador da conduta do ser humano para com os semelhantes, ela está em caso análogo ao das lentes do telescópio que, em um processo para fotografar o Sol, dissessem ao astrônomo: “você focalizou impropriamente. Você não está olhando para o Sol corretamente. Nós não achamos que é uma boa ideia fotografar o Sol, e nós queremos que você nos aponte para Júpiter. Os raios do Sol nos esquentam demasiadamente e podem nos danificar”.
 
@@ -3389,6 +3427,10 @@ Essa antagônica “vontade inferior” é uma expressão da parte superior do C
 
 A parte superior do Corpo de Desejos se tornou uma espécie de alma-animal. Construiu o Sistema Nervoso cérebro-espinhal[22] e os músculos voluntários, dominando, por esse meio, a parte inferior do Tríplice Corpo, até que o elo, a Mente, foi dada ao ser humano[23]. Então, a Mente “se uniu firmemente” – coalescendo – a essa alma-animal e se tornou uma co-regente.
 
+() - [22] N.R.: ou Sistema Nervoso Central (SNC)
+
+() - [23] N.R.: o germe da Mente foi nos dada pela Hierarquia Criadora Senhores da Mente.
+
 Portanto, a Mente está limitada pelos desejos, submersa na egoísta natureza inferior, o que torna difícil ao Espírito o governo do Corpo. A Mente, o foco – que deveria se aliar à natureza superior, se afastou e está unida e secretamente trabalhando com a natureza inferior – escrava do desejo.
 
 As Religiões de Raça e suas leis foram dadas para emancipar o intelecto do desejo. O “temor a Deus” foi posto contra os “desejos da carne”. Isso, no entanto, não era suficiente para capacitar alguém a dominar o Corpo e garantir sua cooperação voluntária. se tornou necessário que o espírito encontrasse no Corpo outro ponto de apoio, que não estivesse sob o domínio do Corpo de Desejos. Não nos músculos porque são expressões do Corpo de Desejos, e formam um caminho direto até o ponto principal onde a Mente traidora está unida ao desejo e reina suprema.
@@ -3399,13 +3441,13 @@ Como um sábio general, o Ego segue um curso de ação similar. Não começa sua
 
 Já falamos anteriormente das duas classes de músculos: voluntários e involuntários. Esses últimos têm suas fibras em sentido longitudinal, e são relacionados com as funções que estão fora do domínio da vontade, como a digestão, a respiração, a excreção, etc. Os músculos voluntários, como os das mãos e dos braços, são dominados pela vontade, por meio do Sistema Nervoso voluntário[24]. Suas fibras estão dispostas longitudinalmente se cruzando com estrias transversais.
 
+() - [24] N.R.: ou Sistema Nervoso Somático
+
 Estas particularidades são exatas para todos os músculos menos para o coração, que é um músculo involuntário. Normalmente, nós não podemos controlar a circulação. Sob condições normais, a batida do coração é de uma quantidade constante, ainda que para confusão dos fisiólogos, o coração seja estriado, como se fosse um músculo voluntário. É o único órgão do Corpo que exibe essa peculiaridade, porém, como esfinge, recusará dar aos cientistas materialistas uma resposta que resolva o enigma.
 
 O ocultista pode encontrar facilmente a resposta na Memória da Natureza. Nessa fonte vê que o coração, quando o Ego procurou pela primeira vez se firmar aí era estriado apenas longitudinalmente, tal como qualquer outro músculo involuntário. À medida que o Ego foi adquirindo domínio sobre o coração, foram se desenvolvendo gradualmente as fibras transversais. Não são nem tão numerosas nem tão definidas como as dos músculos que estão debaixo do pleno domínio do Corpo de Desejos, mas, conforme os princípios altruísticos do amor e da fraternidade se vigorizem e gradualmente sobre passem a razão, baseada no desejo, essas estrias transversais serão mais numerosas e estruturadas.
 
-Como indicamos anteriormente, o Átomo-semente do Corpo Denso está situado no coração e abandona-o quando a morte ocorre. A obra ativa do Ego está no sangue.
-
-Com exceção dos pulmões, o coração é o único órgão do Corpo através do qual passa todo o sangue em cada ciclo.
+Como indicamos anteriormente, o Átomo-semente do Corpo Denso está situado no coração e abandona-o quando a morte ocorre. A obra ativa do Ego está no sangue. Com exceção dos pulmões, o coração é o único órgão do Corpo através do qual passa todo o sangue em cada ciclo.
 
 O sangue é a expressão mais elevada do Corpo Vital, porque nutre todo o organismo físico. Em certo sentido, é também o veículo da Memória Subconsciente e está em contato com a Memória da Natureza, situada na divisão mais elevada da Região Etérica. O sangue leva as recordações da vida dos antecessores aos descendentes durante gerações, quando é um sangue comum, como acontece na endogamia.
 
@@ -3413,7 +3455,11 @@ Na cabeça há três pontos que são o assento particular de cada um dos três a
 
 O Corpo de Desejos é expressão deturpada do Ego. Manifesta em “egoísmo” o que é a “Individualidade” do Espírito. A Individualidade não procura o seu em detrimento dos demais, enquanto o egoísta procura tudo possuir sem ter em conta os demais. O assento do Espírito Humano é, primariamente, a Glândula Pineal[25] e secundariamente, o cérebro, ou antes, o Sistema Nervoso cérebro-espinhal, que domina os músculos voluntários.
 
+() - [25] N.R.: também chamada de Epífise Neural
+
 O amor e a unidade do Mundo do Espírito de Vida encontram sua contraparte ilusória na Região Etérica, com a qual estamos relacionados pelo Corpo Vital, o originador do amor sexual e da união sexual. O Espírito de Vida assenta, primariamente, no Corpo Pituitário[26] e, secundariamente, no coração, o regente do sangue que nutre os músculos.
+
+() - [26] N.R.: também chamada de Hipófise
 
 O inativo Espírito Divino – o Observador Silencioso – encontra sua expressão material no passivo, inerte e insensível esqueleto do Corpo Denso, o obediente instrumento dos outros Corpos. Não tem o poder de atuar por iniciativa própria e tem sua fortaleza no impenetrável ponto da “raiz do nariz”.
 
@@ -3423,11 +3469,15 @@ O sangue, ao passar pelo coração, ciclo após ciclo, hora após hora, durante 
 
 Após essas imagens passarem para o Mundo do Espírito de Vida, em que se encontra a verdadeira Memória da Natureza, não voltam através dos lentos sentidos físicos, mas diretamente através do quarto Éter contido no ar que respiramos. No Mundo do Espírito de Vida o Espírito pode ver muito mais claramente do que nos Mundos mais densos. Nesse elevado plano, que lhe é próprio, está em contato com a Sabedoria Cósmica e, em qualquer situação, sabendo imediatamente o que há de fazer, envia sua mensagem de orientação e de ação que se deve executar ao coração que, instantaneamente, a retransmite ao cérebro por meio do nervo pneumogástrico[27], resultando nas “primeiras impressões”, os impulsos intuitivos, que são sempre bons, porque emanam diretamente da fonte de Sabedoria e Amor Cósmicos.
 
+() - [27] N.R.: ou nervo vago
+
 Isso é tão instantâneo que o coração tem tempo de efetuá-lo antes da razão, mais lenta, poder, por assim dizer, “considerar a situação”. Crê-se que o ser humano pensa em seu coração e é certo, porque “assim ele é”. O ser humano, inerentemente, em qualquer aspecto, é um Espírito Virginal, bom, nobre, verdadeiro. Tudo o que não é bom pertence à natureza inferior, o ilusório reflexo do Ego. O Espírito Virginal sempre está dando sábios conselhos. Se pudéssemos seguir os impulsos do coração – o primeiro pensamento – a Fraternidade Universal seria realizada aqui e agora.
 
 No entanto, precisamente nesse ponto começam as complicações. Depois do bom conselho dado pela primeira impressão, começa o raciocínio e, na maioria dos casos, o cérebro domina o coração. O telescópio controla o próprio foco e aponta para onde quer, sem atender ao astrônomo. A Mente e o Corpo de Desejos frustram os desígnios do Espírito e tomam a direção, mas, como carecem da sabedoria do Espírito, tanto o Espírito como o Corpo sofrem as consequências.
 
-Os fisiólogos notam que certas áreas do cérebro estão dedicadas a determinadas atividades mentais. Os frenólogos levaram esse ramo da ciência ainda mais além. Sabe-se também que o pensamento destrói o tecido nervoso e que esse desgaste do Corpo, como qualquer outro, é restaurado pelo sangue. Quando o coração se converter em músculo voluntário, a circulação do sangue ficará completamente sob o domínio do unificante Espírito de Vida, o Espírito do Amor. Então, terá o poder de impedir que o sangue flua a essas partes do cérebro dedicadas a propósitos egoístas. Esses centros mentais irão se atrofiando gradualmente. Por outro lado, ser-lhe-á possível ativar o sangue quando as elaborações mentais foram altruístas, o que restaurará e vigorizará esses centros. A natureza passional será conquistada e, pelo Amor, a Mente será emancipada da escravidão do desejo. Só se emancipando completamente pelo Amor, o ser humano poderá se elevar além da lei e se converter, ele mesmo, numa lei. Tendo-se conquistado a si, conquistará então todo o mundo.
+Os fisiólogos notam que certas áreas do cérebro estão dedicadas a determinadas atividades mentais. Os frenólogos levaram esse ramo da ciência ainda mais além. Sabe-se também que o pensamento destrói o tecido nervoso e que esse desgaste do Corpo, como qualquer outro, é restaurado pelo sangue. Quando o coração se converter em músculo voluntário, a circulação do sangue ficará completamente sob o domínio do unificante Espírito de Vida, o Espírito do Amor. Então, terá o poder de impedir que o sangue flua a essas partes do cérebro dedicadas a propósitos egoístas. Esses centros mentais irão se atrofiando gradualmente. 
+
+Por outro lado, ser-lhe-á possível ativar o sangue quando as elaborações mentais foram altruístas, o que restaurará e vigorizará esses centros. A natureza passional será conquistada e, pelo Amor, a Mente será emancipada da escravidão do desejo. Só se emancipando completamente pelo Amor, o ser humano poderá se elevar além da lei e se converter, ele mesmo, numa lei. Tendo-se conquistado a si, conquistará então todo o mundo.
 
 As estrias transversais do coração podem se formar mediante certos exercícios de treinamento oculto. Alguns desses exercícios são perigosos e devem ser levados a cabo unicamente sob a direção de um instrutor competente. É nosso desejo que nenhum leitor desta obra se deixe enganar por impostores habilidosos e desejosos de atrair discípulos. Para evitar esse engano voltamos a repetir, mui seriamente: nenhum verdadeiro ocultista se gaba, anuncia seus poderes ocultos, nem vende lições a tanto cada uma ou a tanto o curso, ou consentirá jamais em fazer exibições. Realiza seu trabalho com a maior discrição possível e somente com o propósito de ajudar legitimamente os demais, sem pensar nunca em si mesmo.
 
@@ -3437,9 +3487,7 @@ Como dissemos no princípio desse capítulo, todas as pessoas desejosas de obter
 
 Durante os últimos 2.000 anos, muito se tem escrito sobre o “sangue purificador”. O sangue de Cristo tem sido exaltado nos púlpitos como o soberano remédio do pecado, como o único meio de salvação e redenção.
 
-Se, de acordo com as leis do Renascimento e de Consequência, os seres evolucionados colhem do que têm semeado e, por outro lado, o impulso evolutivo está constantemente elevando a Humanidade até alcançar a perfeição, onde está a necessidade de redenção ou de salvação? E, ainda que essa necessidade existisse como pode a morte de um indivíduo ajudar os outros? Não seria mais nobre cada um sofrer as consequências dos próprios atos do que se escapar atrás do outro?
-
-Eis algumas objeções à doutrina da redenção (ou perdão) dos pecados por meio da substituição e da redenção pelo sangue de Cristo Jesus. Iremos lhes dar resposta antes de demonstrar a lógica e a harmonia existente na Lei de Consequência e na expiação de Cristo.
+Se, de acordo com as leis do Renascimento e de Consequência, os seres evolucionados colhem do que têm semeado e, por outro lado, o impulso evolutivo está constantemente elevando a Humanidade até alcançar a perfeição, onde está a necessidade de redenção ou de salvação? E, ainda que essa necessidade existisse como pode a morte de um indivíduo ajudar os outros? Não seria mais nobre cada um sofrer as consequências dos próprios atos do que se escapar atrás do outro? Eis algumas objeções à doutrina da redenção (ou perdão) dos pecados por meio da substituição e da redenção pelo sangue de Cristo Jesus. Iremos lhes dar resposta antes de demonstrar a lógica e a harmonia existente na Lei de Consequência e na expiação de Cristo.
 
 Em primeiro lugar, é absolutamente certo que o impulso evolutivo tem em vista levar todos os seres à suprema perfeição. Contudo, alguns estão ficando para trás. Atualmente, estamos ultrapassando o extremo ponto de materialidade e passando através das dezesseis Raças. Ao percorrer os “dezesseis caminhos para a destruição” estamos em grave perigo de atrasar-nos, muito mais do que em qualquer outro momento da jornada evolutiva.
 
@@ -3453,11 +3501,15 @@ Os que levantam objeções à doutrina da expiação dizem: é covardia se escon
 
 Consideremos o seguinte caso. As águas dos Grandes Lagos[28] afluem ao rio Niágara[29]. Esse enorme volume de água corre rapidamente para as cataratas, sobre um leito coberto de rochas, numa extensão de vinte milhas[30]. Se uma pessoa vai além de certo ponto e não perde a vida nos redemoinhos vertiginosos, perdê-la-á indubitavelmente ao cair na catarata.
 
+() - [28] N.R.: são um conjunto de cinco lagos situados na América do Norte, entre o Canadá e os Estados Unidos.
+
+() - [29] N.R.: rio no leste da América do Norte, na região dos Grandes Lagos
+
+() - [30] N.R.: em torno de 16 quilômetros
+
 Suponhamos que um ser humano, cheio de piedade pelas vítimas dessas águas, resolvesse colocar uma corda sobre as cataratas, ainda que soubesse serem tais as condições que não poderia depois escapar com vida. Apesar disso, de seu próprio gosto e livremente, sacrifica sua vida e coloca a corda, modificando o estado inicial. As vítimas abandonadas podem se agarrar à corda e salvar-se.
 
-Que pensaríamos de um ser humano que, tendo caído na água devido à sua falta de cuidado e estivesse lutando furiosamente contra a corrente, exclamasse: “Como? Salvar-me e procurar escapar ao castigo que a minha falta de cuidado merece? Amparar-me no sacrifício de quem sofreu sem culpa alguma e deu sua vida para que outros pudessem salvar-se? Não, nunca! Isso não seria digno de ‘um ser humano’! Assumirei as consequências dos meus erros! “.
-
-Não concordaríamos que esse ser humano deveria estar louco?
+Que pensaríamos de um ser humano que, tendo caído na água devido à sua falta de cuidado e estivesse lutando furiosamente contra a corrente, exclamasse: “Como? Salvar-me e procurar escapar ao castigo que a minha falta de cuidado merece? Amparar-me no sacrifício de quem sofreu sem culpa alguma e deu sua vida para que outros pudessem salvar-se? Não, nunca! Isso não seria digno de ‘um ser humano’! Assumirei as consequências dos meus erros! “. Não concordaríamos que esse ser humano deveria estar louco?
 
 Nem todos necessitam de salvação. Cristo sabia que um grande número não necessitaria se salvar dessa maneira. Porém, tão certo como noventa e nove por cento se deixa conduzir pelas leis do Renascimento e de Consequência e, por essa forma, alcança a perfeição, assim os “pecadores” se submergiram tanto na corrente do materialismo que não lhe poderiam fugir sem aquela ajuda. Cristo veio para trazer paz e boa vontade a todos, e para salvar esses pecadores elevando-os ao ponto necessário de espiritualidade, produzindo uma modificação em seus Corpos de Desejos que tornará mais forte a influência do Espírito de Vida em seus corações.
 
@@ -3467,7 +3519,9 @@ Se o ser humano encarasse o Sol durante muito tempo ficaria cego, porque as vibr
 
 O mesmo acontece com os impulsos espirituais que ajudam a evolução do ser humano. A Terra foi arrojada do Sol porque a Humanidade não podia suportar seus tremendos impulsos físicos e espirituais. Apesar de se encontrar a tão grande distância do Sol, o impulso espiritual seria ainda demasiado forte se não fosse enviado primeiramente à Lua para que Jeová, o Regente da Lua, o empregasse em benefício do ser humano. Certo número de Arcanjos (espíritos solares comuns) seguiu com Jeová, como auxiliares, para refletirem esses impulsos espirituais do Sol sobre a Humanidade da Terra, em forma de Religiões de Jeová ou de Raça.
 
-O veículo inferior dos Arcanjos é o Corpo de Desejos. Nosso Corpo de Desejos foi obtido no Período Lunar, que tinha Jeová como Iniciado mais elevado. Portanto, Jeová pode tratar do Corpo de Desejos do ser humano. O veículo inferior de Jeová é o Espírito Humano (veja o Diagrama 14) e sua contraparte é o Corpo de Desejos. Os Arcanjos são seus auxiliares e têm o poder de administrar as forças espirituais do Sol. Trabalham e preparam a Humanidade até chegar ao tempo em que receba os impulsos espirituais diretamente do Sol, sem intervenção da Lua. Cristo, o Iniciado mais elevado do Período Solar, tem a seu cargo a tarefa de enviar esse impulso. Jeová, ao refleti-lo, preparou a Terra e a Humanidade para a admissão direta de Cristo.
+O veículo inferior dos Arcanjos é o Corpo de Desejos. Nosso Corpo de Desejos foi obtido no Período Lunar, que tinha Jeová como Iniciado mais elevado. Portanto, Jeová pode tratar do Corpo de Desejos do ser humano. O veículo inferior de Jeová é o Espírito Humano (veja o Diagrama 14) e sua contraparte é o Corpo de Desejos. Os Arcanjos são seus auxiliares e têm o poder de administrar as forças espirituais do Sol. Trabalham e preparam a Humanidade até chegar ao tempo em que receba os impulsos espirituais diretamente do Sol, sem intervenção da Lua. 
+
+Cristo, o Iniciado mais elevado do Período Solar, tem a seu cargo a tarefa de enviar esse impulso. Jeová, ao refleti-lo, preparou a Terra e a Humanidade para a admissão direta de Cristo.
 
 A expressão “preparou a Terra” significa que toda evolução num Planeta é acompanhada pela evolução do próprio Planeta. Se algum observador, localizado em alguma estrela distante e dotado de visão espiritual, tivesse contemplado a evolução da Terra, teria notado uma mudança gradual em seu Corpo de Desejos.
 
@@ -3484,6 +3538,16 @@ A missão de Cristo, além de salvar os que estavam perdidos, foi tornar possív
 Cristo Jesus não negou Moisés, nem a Lei, nem os profetas. Pelo contrário, confirmando-os, demonstrou ao povo que eles, ao indicarem Aquele que deveria vir, foram seus predecessores. Disse ao povo que tais coisas já tinham servido aos seus propósitos e que, para o futuro, o Amor deveria suceder à lei.
 
 Cristo Jesus foi morto. Relativamente à sua morte, há uma diferença fundamental e suprema entre Ele e os antigos instrutores, em que se manifestaram os Espíritos de Raça. Tais instrutores morriam e deviam renascer uma e outra vez, para ajudar os seus povos no cumprimento de seu destino. Moisés, em quem se manifestou o Arcanjo Miguel (o Espírito de Raça dos judeus), foi conduzido ao Monte Nebo, onde deveria morrer. Moisés renasceu como Elias[31]; e Elias voltou como João Batista. Buda morreu e renasceu como Shankaracharya[32]. Shri Krishna[33] disse: “onde quer que decaia Dharma[34] (…) e (…) surge uma exaltação de Adharma[35], então Eu mesmo venho para proteger o bem e destruir os que fazem o mal, para salvaguardar o firme restabelecimento de Dharma. Eu nasço de tempos a tempos”.
+
+() - [31] N.R.: Elias (“Meu Deus é Javé”) foi um profeta e taumaturgo que viveu no reino de Israel durante o reinado de Acab (século IX A.C.).
+
+() - [32] N.R.: Também grafado como: Sancara, Sankaracharya, Sancaracarya, Shankaracharya, Sankara, Adi Sankara, Adi Shankaracharya e Adi Shankara, sendo também chamado de Bhagavatpada Acharya (788-820) foi um monge errante indiano. Sua vida se encontra envolta em mistérios e prodígios que a tornam semelhante às de outros insignes mestres espirituais da Humanidade.
+
+() - [33] N.R.: no Hinduísmo, é uma manifestação de Brahma, Vishnu e Shiva.
+
+() - [34] N.R.: Palavra em sânscrito que quer dizer: significa “Lei Natural”, “Realidade”, “Presente de Deus” ou “vida” no modo geral. Com respeito ao seu significado espiritual, pode ser considerado como o “Caminho para a Verdade Superior”.
+
+() - [35] N.R.: Antônimo em sânscrito de dharma, e significa vício ou pecado.
 
 Quando chegou a morte, o rosto de Moisés brilhou e o Corpo de Buda iluminou-se. Todos eles tinham chegado ao estado em que o espírito começa a brilhar de dentro e, então, morreram.
 
@@ -3507,6 +3571,8 @@ Sob a Lei, todos pecavam e, mais ainda, não podiam ser ajudados. Não se tinham
 
 Por tais motivos, Cristo veio para “buscar e salvar os que estavam perdidos”[36]. Limpou os pecados do mundo com o seu sangue purificador, o que lhe permitiu entrar na Terra e na Humanidade. A Ele, ao fazer essa purificação, devemos a possibilidade de atrair para os nossos Corpos de Desejos matéria emocional mais pura do que antes. Ele continua trabalhando para ajudar-nos, tornando o ambiente que nos rodeia cada vez mais puro.
 
+() - [36] N.R.: Mt 18:11
+
 Que isto se efetuou e continua se realizando à custa de um grande sofrimento para Ele, é coisa que ninguém pode duvidar; isso se for capaz de formar a mínima ideia das limitações suportadas por esse Grande Espírito ao entrar nas restritivas condições da existência física. A sua atual limitação como Regente da Terra não é menos dolorosa. Certamente, Ele é também Regente do Sol, pelo que só parcialmente fica confinado à Terra. Contudo, as limitações produzidas pelas lentíssimas vibrações do nosso Planeta denso devem ser quase insuportáveis.
 
 Se Cristo Jesus não ressurgisse ter-lhe-ia sido impossível executar Sua obra. Os Cristãos têm um Salvador ressuscitado; Alguém que está sempre presente para ajudar os que invoquem o Seu Nome. Tendo sofrido em tudo como nós e conhecendo plenamente todas as nossas necessidades, é o lenitivo para todos os nossos erros e fracassos, enquanto continuarmos lutando e procurando viver uma boa vida. Devemos ter sempre presente que o único verdadeiro fracasso é deixar de lutar.
@@ -3517,129 +3583,13 @@ Em vários lugares, os Cavaleiros da Távola Redonda foram altos Iniciados dos M
 
 Os Druidas[37] da Irlanda e os Trottes do Norte da Rússia constituíram, também, escolas esotéricas, nas quais trabalhou Jesus na chamada “Idade Média”. Na Idade Média, ainda que bárbara, fluía o impulso espiritual. Do ponto de vista oculto, era, em realidade, uma “Idade Brilhante”, comparada com o crescente materialismo dos últimos trezentos anos que, se aumentou imensamente os conhecimentos físicos, por outro lado, quase extinguiu a Luz do Espírito.
 
+() - [37] N.R.: povos de origem indo-europeia que habitava extensas áreas da Europa pré-romana, eram sacerdotes do lendário povo celta.
+
 Os relatos do Santo Graal, dos Cavaleiros da Távola Redonda, etc. são considerados como superstições, visto ser olhado como indigno de ser acreditado o que não pode ser demonstrado materialmente. Gloriosas como são as descobertas da ciência moderna, elas foram adquiridas ao elevado preço do aniquilamento da intuição espiritual. Do ponto de vista superior, nunca amanheceram dias tão tenebrosos como os atuais.
 
 Os Irmãos Maiores, Jesus entre Eles, têm lutado e lutam por equilibrar essa poderosa influência que semelhante aos olhos da serpente obriga o passarinho a cair em suas fauces. Cada tentativa para iluminar o povo, e para nele despertar o desejo de cultivar o lado espiritual da vida, é uma evidência da atividade dos Irmãos Maiores.
 
 Possam seus esforços ser coroados de êxito e apressar o dia em que a ciência moderna, espiritualizada, encaminhe as investigações sobre a matéria, do ponto de vista do espírito. Então, e não antes, compreenderemos e conheceremos, verdadeiramente, o mundo. 
-
-[1] N.R.: é uma frase que resume um conceito relativo à competição pela sobrevivência ou predominância. Originalmente aplicada por Herbert Spencer no seu livro Principles of Biology (Princípios da Biologia) de 1864.
-
-[2] N.R.: Ponto de vista de Trasímaco, o irado sofista, em resposta a Sócrates nos diálogos de Platão, o que é a justiça. Ele definia: “Eu declaro que a força é um direito, e que a justiça é o interesse do mais forte”.
-
-[3] N.R.: Jo 1:3
-
-[4] N.R.: Ralph Waldo Emerson (1803-1882) – escritor, filósofo e poeta estadunidense
-
-[5] N.R.: Mt 10:34
-
-[6] N.R.: Lc 2:14
-
-[7] N.R.: do poema Song of Myself, part 20 de Walt Whitman (1819-1892) – poeta, ensaísta e jornalista americano:
-
-    Quem vai ali? Cheio de realizações, tosco místico, nu;  
-    Como extraio energia da carne que consumo?  
-    O que é um homem afinal? O que sou eu? O que és tu?  
-    Tudo o que marco como sendo meu tu deves compensar  
-    com o que é teu.  
-    De outro modo seria perda de tempo me ouvir.  
-    Não lanço a lamúria da minha lamúria pelo mundo inteiro,  
-    De que os meses são vazios e o chão é lamaçal e sujeira.  
-    Choradeira e servilismo são encontrados junto com os  
-    remédios para inválidos, a conformidade polariza-se  
-    no ordinário mais remoto.  
-    Uso meu chapéu como bem entender dentro ou fora de casa.  
-    Por que eu deveria orar? Por que deveria venerar e ser cerimonioso?  
-    Tendo inquirido todas as camadas, analisado as minúcias,  
-    consultado os doutores e calculado com perícia,  
-    Não encontro gordura mais doce do que aquela que se prende aos meus próprios ossos.  
-    Em todas as pessoas enxergo a mim mesmo, em nenhuma vejo mais do que eu sou, ou um grão de cevada a menos.  
-    E o bem e o mal que falo de mim mesmo eu falo delas.  
-    Sei que sou sólido e sadio.  
-    Para mim os objetos convergentes do universo  
-    perpetuamente fluem,  
-    Todos são escritos para mim, e eu devo entender o que a escrita significa.  
-    Sei que sou imortal,  
-    Sei que a órbita do meu não pode ser varrida pelo  
-    compasso de um carpinteiro,  
-    Sei que não passarei como os círculos luminosos que as crianças fazem à noite, com gravetos em brasa.  
-    Sei que sou augusto.  
-    Não perturbo meu próprio espírito para que se defenda ou seja compreendido,  
-    Vejo que as leis elementares nunca pedem desculpas,  
-    (Reconheço que me comporto com um orgulho tão alto quanto o do nível com que assento a minha casa, afinal).  
-    Existo como sou, isso me basta,  
-    Se ninguém mais no mundo está ciente, fico satisfeito. 
-    E se cada um e todos estiverem cientes, satisfeito fico.  
-    Um mundo está ciente e esse é incomparavelmente o maior de todos para mim, e esse mundo sou eu mesmo,  
-    E se venho para o que é meu, ainda hoje ou dentro de dez mil anos, ou dez milhões de anos,  
-    Posso alegremente recebê-lo agora, ou esperá-lo com alegria igual.  
-    Meus pés estão espigados e encaixados no granito,  
-    Debocho daquilo que chamas de dissolução,  
-    E conheço a amplitude do tempo.  
-
-    Song of Myself – Walt Whitman
-
-[8] N.R.: Final do poema: In Memoriam, Epilogue, [O true and tried, so well and long] de Alfred, Lord Tennyson (1809-1892).
-
-[9] N.R.: Lewis “Lew” Wallace (1827-1905) – escritor, militar, advogado e diplomata dos Estados Unidos da América, autor do romance Ben-Hur.
-
-[10] N.R.: Fp 2:10
-
-[11] N.R.: Fp 2:11
-
-[12] N.R.: Is 2:2-4
-
-[13] N.R.: Gl 4:19
-
-[14] N.R.: Pseudônimo de Johannes Scheffler (1624-1667) – Místico Cristão, filósofo, médico, poeta, jurista alemão.
-
-[15] N.R.: ópera de três atos do com a música e libreto do compositor alemão Richard Wagner.
-
-[16] N.R.: Mt 27:51
-
-[17] N.R.: os sacerdotes da alta hierarquia dos mistérios
-
-[18] N.R.: o autor se refere ao Hemisfério Norte.
-
-[19] N.R.: isso vale para todo o Planeta Terra, pois tem a haver com a distância entre a Terra e o Sol.
-
-[20] N.R.: Lc 2:14
-
-[21] N.R.: Religião fundada por Maomé. O mesmo que chamar de Islamismo ou Muçulmanismo.
-
-[22] N.R.: ou Sistema Nervoso Central (SNC)
-
-[23] N.R.: o germe da Mente foi nos dada pela Hierarquia Criadora Senhores da Mente.
-
-[24] N.R.: ou Sistema Nervoso Somático
-
-[25] N.R.: também chamada de Epífise Neural
-
-[26] N.R.: também chamada de Hipófise
-
-[27] N.R.: ou nervo vago
-
-[28] N.R.: são um conjunto de cinco lagos situados na América do Norte, entre o Canadá e os Estados Unidos.
-
-[29] N.R.: rio no leste da América do Norte, na região dos Grandes Lagos
-
-[30] N.R.: em torno de 16 quilômetros
-
-[31] N.R.: Elias (“Meu Deus é Javé”) foi um profeta e taumaturgo que viveu no reino de Israel durante o reinado de Acab (século IX A.C.).
-
-[32] N.R.: Também grafado como: Sancara, Sankaracharya, Sancaracarya, Shankaracharya, Sankara, Adi Sankara, Adi Shankaracharya e Adi Shankara, sendo também chamado de Bhagavatpada Acharya (788-820) foi um monge errante indiano. Sua vida se encontra envolta em mistérios e prodígios que a tornam semelhante às de outros insignes mestres espirituais da Humanidade.
-
-[33] N.R.: no Hinduísmo, é uma manifestação de Brahma, Vishnu e Shiva.
-
-[34] N.R.: Palavra em sânscrito que quer dizer: significa “Lei Natural”, “Realidade”, “Presente de Deus” ou “vida” no modo geral. Com respeito ao seu significado espiritual, pode ser considerado como o “Caminho para a Verdade Superior”.
-
-[35] N.R.: Antônimo em sânscrito de dharma, e significa vício ou pecado.
-
-[36] N.R.: Mt 18:11
-
-[37] N.R.: povos de origem indo-europeia que habitava extensas áreas da Europa pré-romana, eram sacerdotes do lendário povo celta.
-
-***************************************************************************************************************
 
 ### <h3 id="chapter-16">Capítulo XVI – Desenvolvimento Futuro e A Iniciação</h3>
 
@@ -3669,25 +3619,25 @@ Esses nomes dos Períodos nada têm a ver com os Planetas físicos. Referem-se �
 
 A Ciência Oculta diz que há 777 encarnações, o que não quer significar que a Terra sofra 777 metamorfoses. Significa que a vida que está evoluindo faz:
 
+```
 7 Revoluções em torno dos
-
 7 Globos dos
-
 7 Períodos Mundiais
+```
 
 Esta peregrinação involutiva e evolutiva e o caminho reto da Iniciação estão simbolizados no Caduceu ou “Cetro de Mercúrio” (veja o Diagrama 15). É assim chamado porque esse símbolo oculto indica o Caminho da Iniciação, aberto unicamente desde o princípio da metade mercurial do Período Terrestre. Alguns Mistérios Menores foram dados aos primitivos lemurianos e atlantes, mas não as Quatro Grandes Iniciações.
 
-Diagrama 15 – O Simbolismo do Caduceu!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111
-
 A serpente negra do Diagrama 15 indica o caminho cíclico e tortuoso da Involução, e compreende os Período de Saturno, Solar, Lunar e a metade Marciana do Período Terrestre. Durante esse intervalo, a vida, que está evoluindo, construiu seus veículos, mas só adquiriu plena e clara consciência do Mundo externo na última parte da Época Atlante.
 
-A serpente branca representa o caminho que seguirá a Humanidade através da metade Mercurial do Período Terrestre e dos Períodos de Júpiter, de Vênus e de Vulcano. A consciência humana expandir-se-á durante esta peregrinação, até alcançar a onisciência, a Inteligência Criadora. Enquanto a grande maioria dos seres humanos segue o caminho serpenteante, o Cetro de Mercúrio em que se enrolam as serpentes mostra o “estreito e reto caminho”, o Caminho da Iniciação. Os que por ele viajam, realizam em poucas vidas o que requer milhões de anos para a maioria da Humanidade.
+A serpente branca representa o caminho que seguirá a Humanidade através da metade Mercurial do Período Terrestre e dos Períodos de Júpiter, de Vênus e de Vulcano. A consciência humana expandir-se-á durante esta peregrinação, até alcançar a onisciência, a Inteligência Criadora. 
 
-Não é possível fazer qualquer descrição das cerimônias Iniciáticas. O primeiro voto do Iniciado é o do silêncio. Contudo, ainda que o relato fosse permitido, não teria maior importância. Para nós, basta indicar os resultados de tais cerimônias para ter uma visão geral do caminho evolutivo. Em síntese, a Iniciação fornece ao Aspirante espiritual uma oportunidade de desenvolver, em curto tempo e por meio de um treinamento mui severo, suas faculdades e poderes superiores. Por ela se alcança a expansão da consciência que toda a Humanidade possuirá num futuro distante. A grande maioria só a conseguirá seguindo o lento processo da evolução comum. Podemos conhecer os estados de consciência e os poderes correspondentes alcançados pelo candidato que passa através das sucessivas Grandes Iniciações. Já demos alguns vislumbres. Outros mais podem ser deduzidos pela lei de correspondências de modo a poderem dar-nos uma visão de conjunto da evolução que nos aguarda e da magnitude dos grandes graus Iniciáticos. Nessa finalidade, talvez possa ajudar-nos a contemplação do passado e dos graus de consciência por que passou a Humanidade nos períodos precedentes.
+Enquanto a grande maioria dos seres humanos segue o caminho serpenteante, o Cetro de Mercúrio em que se enrolam as serpentes mostra o “estreito e reto caminho”, o Caminho da Iniciação. Os que por ele viajam, realizam em poucas vidas o que requer milhões de anos para a maioria da Humanidade.
 
-Recordemos que durante o Período de Saturno, o estado de inconsciência do ser humano era semelhante ao do Corpo Denso submerso em transe profundo. No Período Solar, esta consciência foi sucedida pela consciência do sono sem sonhos.
+Não é possível fazer qualquer descrição das cerimônias Iniciáticas. O primeiro voto do Iniciado é o do silêncio. Contudo, ainda que o relato fosse permitido, não teria maior importância. Para nós, basta indicar os resultados de tais cerimônias para ter uma visão geral do caminho evolutivo. 
 
-No Período Lunar se obteve o primeiro vislumbre da atual consciência de vigília. Era uma consciência pictórica interna das coisas externas, uma representação interna dos objetos, das cores e dos sons externos. Por último, na segunda parte da Época Atlante, essa consciência imaginativa deu lugar à consciência plena de vigília atual, em que os objetos podem ser observados fora, distintos e definidos. Quando obteve essa consciência objetiva, o ser humano percebeu a realidade do Mundo exterior e, pela primeira vez, vislumbrou a diferença entre si, o “eu” e os outros. O ser humano compreendeu que era separado e, desde então, a consciência do “eu”, o egoísmo, predomina. Anteriormente, não havia pensamentos nem ideias sobre esse Mundo externo, pelo que não existia também memória dos acontecimentos.
+Em síntese, a Iniciação fornece ao Aspirante espiritual uma oportunidade de desenvolver, em curto tempo e por meio de um treinamento mui severo, suas faculdades e poderes superiores. Por ela se alcança a expansão da consciência que toda a Humanidade possuirá num futuro distante. A grande maioria só a conseguirá seguindo o lento processo da evolução comum. Podemos conhecer os estados de consciência e os poderes correspondentes alcançados pelo candidato que passa através das sucessivas Grandes Iniciações. Já demos alguns vislumbres. Outros mais podem ser deduzidos pela lei de correspondências de modo a poderem dar-nos uma visão de conjunto da evolução que nos aguarda e da magnitude dos grandes graus Iniciáticos. Nessa finalidade, talvez possa ajudar-nos a contemplação do passado e dos graus de consciência por que passou a Humanidade nos períodos precedentes.
+
+Recordemos que durante o Período de Saturno, o estado de inconsciência do ser humano era semelhante ao do Corpo Denso submerso em transe profundo. No Período Solar, esta consciência foi sucedida pela consciência do sono sem sonhos. No Período Lunar se obteve o primeiro vislumbre da atual consciência de vigília. Era uma consciência pictórica interna das coisas externas, uma representação interna dos objetos, das cores e dos sons externos. Por último, na segunda parte da Época Atlante, essa consciência imaginativa deu lugar à consciência plena de vigília atual, em que os objetos podem ser observados fora, distintos e definidos. Quando obteve essa consciência objetiva, o ser humano percebeu a realidade do Mundo exterior e, pela primeira vez, vislumbrou a diferença entre si, o “eu” e os outros. O ser humano compreendeu que era separado e, desde então, a consciência do “eu”, o egoísmo, predomina. Anteriormente, não havia pensamentos nem ideias sobre esse Mundo externo, pelo que não existia também memória dos acontecimentos.
 
 A mudança da consciência pictórica interna para a consciência objetiva e do “eu”, foi efetuada muito lentamente, em gradação proporcional à sua magnitude, desde a permanência no Globo C, na terceira Revolução do Período Lunar, até a última parte da Época Atlante.
 
@@ -3699,13 +3649,39 @@ Uma divisão similar existe na forma dos animais atuais. Como a forma é a expre
 
 Primeiramente, Cuvier[1] dividiu o Reino Animal em quatro classes primárias, mas não soube dividir essas classes em subclasses. O embriologista Karl Ernst Von Baer[2], o Prof. Agassiz[3] e outros cientistas classificam o Reino Animal em quatro divisões primárias e treze subdivisões, como a seguir:
 
-I – RADIADOS - Pólipos (Anêmonas marinhas, Corais)Acaléfios (Alforrecas[4])Asteroides (Estrelas Marinhas, Ouriços do mar)
+() - [1] N.R.: Jean Léopold Nicolas Frédéric Cuvier (1769-1832) – naturalista e zoologista francês
 
-II – MOLUSCOS - Acéfalos (Ostras, etc.)[5]Gastrópodes (caracóis)[6]Cefalópodes[7]
+() - [2] N.R.: Karl Maksimovich Baer (1792-1876) – biólogo, geólogo, meteorologista e médico prussio-estoniano.
 
-III – ARTICULADOS - VermesCrustáceos (lagostas, etc.)Insetos
+() - [3] N.R.: Jean Louis Rodolphe Agassiz (1807-1873) – naturalista, geologista e professor suíço
 
-IV – VERTEBRADOS - PeixesRépteisAvesMamíferos
+```
+I – RADIADOS:
+    1. Pólipos (Anêmonas marinhas, Corais)
+    2. Acaléfios (Alforrecas[4])
+    3. Asteroides (Estrelas Marinhas, Ouriços do mar)
+II – MOLUSCOS:
+    4. Acéfalos (Ostras, etc.)[5]
+    5. Gastrópodes (caracóis)[6]
+    6. Cefalópodes[7]
+III – ARTICULADOS:
+    7. Vermes
+    8. Crustáceos (lagostas, etc.)
+    9. Insetos
+IV – VERTEBRADOS: 
+    10. Peixes
+    11. Répteis
+    12. Aves
+    13. Mamíferos
+```
+
+() - [4] N.R.: ou Acalefos; exe. Celenterados, Águas-vivas
+
+() - [5] N.R. – “sem cabeça”
+
+() - [6] N.R. – “pés nos intestinos”
+
+() - [7] N.R. – “pés na cabeça”; exe. Polvo
 
 As primeiras três divisões correspondem às três Revoluções da metade mercurial do Período Terrestre e suas nove subdivisões correspondem aos nove graus de Mistérios Menores, que serão alcançados pela Humanidade quando tenha chegado à metade da última Revolução do Período Terrestre.
 
@@ -3726,8 +3702,6 @@ Durante o Período Lunar, as imagens internas eram a expressão do ambiente exte
 Ao finalizar o Período de Vênus poderá empregar a própria força para dar vida a suas imaginações e para exteriorizá-las no espaço, como objetos. Possuirá, então, uma consciência objetiva, consciente e criadora.
 
 Muito pouco se pode dizer sobre a elevada consciência espiritual que se alcançará ao finalizar o Período de Vulcano. Estaria muito além da nossa atual compreensão.
-
-Diagrama – Como é em cima, é em baixo[8]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 #### <h4 id="spirals-within-spirals">Espirais dentro de Espirais</h4>
 
@@ -3750,7 +3724,6 @@ Os estados de consciência dos diferentes Períodos são os seguintes:
 | Júpiter   | Consciência própria e de imagens conscientes                   |
 | Vênus     | Consciência objetiva, autoconsciente, criadora                 |
 | Vulcano   | A mais elevada Consciência Espiritual                          |
-
 
 Tendo examinado de modo geral os estados de consciência que se desenvolverão nos três Períodos e meio restantes, estudaremos, agora, os meios de consegui-los.
 
@@ -3794,11 +3767,7 @@ A Alma Intelectual é um mediador entre as outras duas e cresce pelo exercício 
 
 Durante a Involução o espírito progrediu através da formação e aperfeiçoamento dos Corpos, mas a Evolução depende do crescimento da Alma, isto é, da transformação dos Corpos em Alma. A Alma é, por assim dizer, a quintessência, o poder ou força dos Corpos. Quando um Corpo foi completamente construído e alcançou a perfeição através dos diversos estados e Períodos, na forma já descrita, a Alma é extraída dele e absorvida pelo aspecto do Espírito que gerou o Corpo. Assim:
 
-A Alma Consciente será absorvida pelo Espírito Divino na sétima Revolução do Período de Júpiter.
-
-A Alma Intelectual será absorvida pelo Espírito de Vida na sexta Revolução do Período de Vênus.
-
-A Alma Emocional será absorvida pelo Espírito Humano na quinta Revolução do Período de Vulcano.
+A Alma Consciente será absorvida pelo Espírito Divino na sétima Revolução do Período de Júpiter. A Alma Intelectual será absorvida pelo Espírito de Vida na sexta Revolução do Período de Vênus. A Alma Emocional será absorvida pelo Espírito Humano na quinta Revolução do Período de Vulcano.
 
 #### <h4 id="the-creative-word">A Palavra Criadora</h4>
 
@@ -3828,27 +3797,13 @@ A Humanidade atual terá a seu cargo a evolução da Onda de Vida que começou n
 
 No Período de Júpiter guiaremos a evolução do Reino Vegetal. O que atualmente é mineral terá, então, uma existência análoga à das plantas. Deveremos trabalhar neles assim como, no presente, os Anjos estão fazendo com as plantas. Nossa faculdade imaginativa estará tão desenvolvida que, por seu intermédio, teremos a capacidade não só de criar formas como também de lhes insuflar vitalidade.
 
-A atual Onda de Vida mineral alcançará, no Período de Vênus, um novo grau. Dirigiremos os animais desse Período, como fazem atualmente os Arcanjos com os presentes animais, lhes dando vitalidade e formas sensíveis; por último, no Período de Vulcano, será nosso privilégio lhes dar uma Mente germinal, como os Senhores da Mente fizeram conosco. Os minerais de hoje serão a Humanidade do Período de Vulcano, e o ser humano terá passado através de estados análogos aos percorridos pelos Anjos e Arcanjos. Será alcançado um ponto evolutivo um pouco superior ao dos atuais Senhores da Mente. Recorde-se, que em nenhuma parte se repete uma condição igual. Na espiral evolutiva há sempre aperfeiçoamento progressivo.
+A atual Onda de Vida mineral alcançará, no Período de Vênus, um novo grau. Dirigiremos os animais desse Período, como fazem atualmente os Arcanjos com os presentes animais, lhes dando vitalidade e formas sensíveis.
 
-O Espírito Divino absorverá o Espírito Humano ao finalizar o Período de Júpiter e o Espírito de Vida, ao finalizar o Período de Vênus. A Mente aperfeiçoada, encerrando tudo quanto foi adquirido nos sete Períodos, será absorvida pelo Espírito Divino ao finalizar o Período de Vulcano. (Não há contradição alguma nesta afirmação, com referência à afirmação feita em outro lugar, de que a Alma Emocional será absorvida pelo Espírito Humano na quinta Revolução do Período de Vulcano, porque esse último estará, então, dentro do Espírito Divino). Seguir-se-á um largo intervalo de atividade subjetiva durante o qual os Espíritos Virginais absorverão todos os frutos do Período setenário de Manifestação. Passado esse intervalo, submergir-se-ão em Deus, de Quem vieram, para, ao alvorecer de outro Grande Dia, reemergirem como seus Gloriosos Colaboradores. Durante a passada evolução as possibilidades latentes foram transmutadas em poderes dinâmicos. Tendo adquirido Poder de Alma e Mente Criadora, frutos de sua peregrinação através da matéria, terão avançado da impotência à Onipotência, da ignorância à Onisciência.
+Por último, no Período de Vulcano, será nosso privilégio lhes dar uma Mente germinal, como os Senhores da Mente fizeram conosco. Os minerais de hoje serão a Humanidade do Período de Vulcano, e o ser humano terá passado através de estados análogos aos percorridos pelos Anjos e Arcanjos. Será alcançado um ponto evolutivo um pouco superior ao dos atuais Senhores da Mente. Recorde-se, que em nenhuma parte se repete uma condição igual. Na espiral evolutiva há sempre aperfeiçoamento progressivo.
 
-[1] N.R.: Jean Léopold Nicolas Frédéric Cuvier (1769-1832) – naturalista e zoologista francês
+O Espírito Divino absorverá o Espírito Humano ao finalizar o Período de Júpiter e o Espírito de Vida, ao finalizar o Período de Vênus. A Mente aperfeiçoada, encerrando tudo quanto foi adquirido nos sete Períodos, será absorvida pelo Espírito Divino ao finalizar o Período de Vulcano. (Não há contradição alguma nesta afirmação, com referência à afirmação feita em outro lugar, de que a Alma Emocional será absorvida pelo Espírito Humano na quinta Revolução do Período de Vulcano, porque esse último estará, então, dentro do Espírito Divino). 
 
-[2] N.R.: Karl Maksimovich Baer (1792-1876) – biólogo, geólogo, meteorologista e médico prussio-estoniano.
-
-[3] N.R.: Jean Louis Rodolphe Agassiz (1807-1873) – naturalista, geologista e professor suíço
-
-[4] N.R.: ou Acalefos; exe. Celenterados, Águas-vivas
-
-[5] N.R. – “sem cabeça”
-
-[6] N.R. – “pés nos intestinos”
-
-[7] N.R. – “pés na cabeça”; exe. Polvo
-
-[8] N.R.: Grupos – se refere à linha horizontal, na verdade Período, da Tabela Periódica de Química; Capacidade de combinação – nível de energia. A figura da direita é o Modelo do “Vis Generatrix” de William Crookes feito em 1898, construído por seu assistente, Gardiner (De: Proc. R. Soc. Lond. 63, 408): um modelo da Tabela Periódica em forma de dupla espiral, representando a ordem da evolução dos elementos.
-
-*************************************************************************************************************
+Seguir-se-á um largo intervalo de atividade subjetiva durante o qual os Espíritos Virginais absorverão todos os frutos do Período setenário de Manifestação. Passado esse intervalo, submergir-se-ão em Deus, de Quem vieram, para, ao alvorecer de outro Grande Dia, reemergirem como seus Gloriosos Colaboradores. Durante a passada evolução as possibilidades latentes foram transmutadas em poderes dinâmicos. Tendo adquirido Poder de Alma e Mente Criadora, frutos de sua peregrinação através da matéria, terão avançado da impotência à Onipotência, da ignorância à Onisciência.
 
 ### <h3 id="chapter-17">Capítulo XVII – Método para Adquirir o Conhecimento Direto</h3>
 
@@ -3862,13 +3817,9 @@ O Ego tem vários instrumentos: um Corpo Denso, um Corpo Vital, um Corpo de Dese
 
 Geralmente, se considera o “êxito” de uma vida pela conta corrente do banco, pela posição social adquirida ou pela felicidade resultante de um bom ambiente ou de uma vida sem cuidados.
 
-Quando se encara a vida dessa maneira, ficam esquecidas as coisas principais, as de existência permanente. A pessoa está cega pelo fugaz e ilusório. A conta do banco lhe parece um êxito real, esquecendo que para o Ego, ao abandonar o Corpo, nada vale o ouro ou qualquer tesouro terrestre, podendo ainda acontecer que tenha de responder pelos meios que empregou para acumular seu tesouro, sofrendo terrivelmente ao ver os demais gastá-lo. Esquece também que toda posição social se perde desde o momento que é cortado o Cordão Prateado, podendo ser que os adulados sejam depois escarnecidos.
+Quando se encara a vida dessa maneira, ficam esquecidas as coisas principais, as de existência permanente. A pessoa está cega pelo fugaz e ilusório. A conta do banco lhe parece um êxito real, esquecendo que para o Ego, ao abandonar o Corpo, nada vale o ouro ou qualquer tesouro terrestre, podendo ainda acontecer que tenha de responder pelos meios que empregou para acumular seu tesouro, sofrendo terrivelmente ao ver os demais gastá-lo. Esquece também que toda posição social se perde desde o momento que é cortado o Cordão Prateado, podendo ser que os adulados sejam depois escarnecidos. Quem tenha fé na vida pode se sentir estremecer ante o pensamento de dedicar uma única hora em refletir sobre a morte. Todavia, o que só pertença a esta vida é vaidade. De valor real é tão-só o que podemos levar para além do umbral da morte, como tesouro do espírito.
 
-Quem tenha fé na vida pode se sentir estremecer ante o pensamento de dedicar uma única hora em refletir sobre a morte. Todavia, o que só pertença a esta vida é vaidade. De valor real é tão-só o que podemos levar para além do umbral da morte, como tesouro do espírito.
-
-Poderão parecer preciosas as plantas e suas flores protegidas pela caixa de vidro de uma estufa. Contudo, se forem retiradas da estufa que as conserva em boa temperatura, gelar-se-ão e morrerão, enquanto as plantas que crescem sob a chuva e o sol, sob a calma e a tormenta, sobreviverão mesmo no inverno e florescerão cada ano.
-
-Do ponto de vista da Alma, a felicidade e o ambiente confortável são, de modo geral, circunstâncias desfavoráveis. O mimado cãozinho de luxo está sujeito a enfermidades que o cão sem casa e sem dono não conhece. A vida do segundo é muito dura, porém obtém experiências que o mantém alerta e cheio de recursos. Sua vida é rica em experiências e recolhe uma grande colheita, enquanto o cão mimado perde seu tempo numa espantosa monotonia.
+Poderão parecer preciosas as plantas e suas flores protegidas pela caixa de vidro de uma estufa. Contudo, se forem retiradas da estufa que as conserva em boa temperatura, gelar-se-ão e morrerão, enquanto as plantas que crescem sob a chuva e o sol, sob a calma e a tormenta, sobreviverão mesmo no inverno e florescerão cada ano. Do ponto de vista da Alma, a felicidade e o ambiente confortável são, de modo geral, circunstâncias desfavoráveis. O mimado cãozinho de luxo está sujeito a enfermidades que o cão sem casa e sem dono não conhece. A vida do segundo é muito dura, porém obtém experiências que o mantém alerta e cheio de recursos. Sua vida é rica em experiências e recolhe uma grande colheita, enquanto o cão mimado perde seu tempo numa espantosa monotonia.
 
 Com o ser humano acontece algo semelhante. Será muito duro lutar com a pobreza e com a fome, porém, do ponto de vista da Alma, é infinitamente preferível a uma vida de grande luxo. Quando a fortuna é um meio para pensar filantropicamente, para ajudar os demais seres humanos a se aperfeiçoar, pode constituir uma grande bênção para o seu possuidor. No entanto, quando é utilizada com propósitos egoístas e opressivos não pode ser considerada senão como terrível desgraça.
 
@@ -3886,13 +3837,19 @@ A primeira ajuda são as Religiões de Raça, com a qual a Humanidade pode domin
 
 A plena operação dessa ajuda pode ser vista no Dia de Pentecostes[1]. Como o Espírito Santo é o Deus de Raça, todas as línguas são expressões dele. Esta é a razão por que os Apóstolos, quando estavam plenamente unidos e submergidos no Espírito Santo, falavam diferentes línguas e podiam convencer os seus ouvintes. Seus Corpos de Desejos tinham sido suficientemente purificados para produzir a união desejada e isso é um vislumbre daquilo que o discípulo alcançará algum dia: o poder para falar todas as línguas. Como exemplo histórico moderno podemos citar o Conde de Saint Germain (um dos últimos renascimentos de Christian Rosenkreuz, o fundador da nossa sagrada Ordem) que falava todas as línguas. Todos aqueles a quem ele dirigia a palavra acreditavam que fosse da própria nacionalidade da pessoa. Ele também alcançou a união com o Espírito Santo.
 
+() - [1] N.R.: a descida do Espírito Santo sobre os Apóstolos de Jesus Cristo.
+
 Na Época Hiperbórea, antes do ser humano possuir um Corpo de Desejos, havia somente um único modo de comunicação e quando os Corpos de Desejos se purificarem o suficientemente, todos os seres humanos poderão compreender uns aos outros; então a diferenciação separatista das Raças deverá desaparecer.
 
 A segunda ajuda, que a Humanidade tem atualmente, é a Religião do Filho: a Religião Cristã, cuja finalidade é a união com Cristo, pela purificação e governo do Corpo Vital.
 
 S. Paulo se refere a esses estados futuros quando diz: “até que o Cristo nasça dentro de vós” [2] e exorta seus seguidores a se desembaraçarem de todos os empecilhos, como quando estamos participando de uma corrida.
 
+() - [2] N.R.: Gl 4:19
+
 O princípio fundamental para construir o Corpo Vital é a repetição. As experiências repetidas agindo nele criam a memória. Os Líderes da Humanidade, desejando nos prestar uma ajuda inconsciente por meio de certos exercícios, instituíram a oração, como um meio de produzir pensamentos puros e nobres que agem sobre o Corpo Vital. Por isso eles nos recomendaram que “orássemos sem cessar”. Os que zombam dessa recomendação têm perguntado, ironicamente e com frequência, porque será necessário estar sempre orando, porque se Deus é onisciente Ele deve conhecer todas as nossas necessidades e se Ele não é, Ele não é onipotente e, nesse caso, não poderia atender as orações. Aliás, se não for onipotente também não poderá, sequer, responder às orações. Muitos Cristãos sérios e fiéis podem, também, pensarem que é errado estar, continuamente, importunando o Trono da Graça[3].
+
+() - [3] N.R.: o Trono de Deus
 
 Tais ideias estão baseadas em um mal-entendido dos fatos. Deus é, verdadeiramente, onisciente e não necessita que ninguém Lhe recorde das nossas necessidades, mas, se nós oramos corretamente, nós mesmos é que nos elevamos à Ele e, assim, aperfeiçoamos e purificarmos os nossos Corpos Vitais. Se orarmos como devemos – aí está a grande questão. Geralmente, nos interessam muito mais as coisas temporais do que nos elevarmos espiritualmente. As igrejas celebrarão reuniões especiais para orar pedindo chuva e os capelães dos exércitos ou marinhas oponentes orarão, antes mesmo de uma batalha, para que eles tenham sucesso.
 
@@ -3917,6 +3874,8 @@ O ideal da Religião do Pai será a eliminação de toda separatividade, se subm
 Por meio destes passos e estados a Humanidade é guiada inconscientemente.
 
 Nas idades passadas, o Espírito de Raça reinava exclusivamente. O ser humano era limitado por um governo patriarcal e paternal, e nele não tomava parte alguma. Agora, em todo o mundo, vemos inequívocos sinais da queda desses antigos governos. O sistema de castas, que constitui o poder da Inglaterra na Índia, está sendo posto abaixo. Ali, em vez de continuar separado em pequenos grupos, o povo está se unindo e pede ao opressor que se retire e que o deixe viver livremente sob um governo do povo, para o povo e pelo povo. A Rússia, transtornada por lutas internas, pretende derrubar o governo autocrático ditador. A Turquia despertou e já deu um grande passo para a liberdade. Aqui, em nosso país, onde supõem que gozamos plena liberdade, estamos como os demais lutando por ela e não estamos ainda satisfeitos. Vamos aprendendo que há outras opressões, além das monarquias autocráticas. Vemos que ainda nos resta alcançar a liberdade industrial. Encontramo-nos esmagados sob os monopólios e o insano sistema de competição. Encaminhamo-nos para a cooperação que, atualmente, está sendo posta em prática pelos próprios monopólios, dentro dos próprios limites, para seu benefício exclusivo. Desejamos ardentemente uma sociedade na qual “todo ser humano se sentará debaixo da sua parreira e sob a sua figueira, e nada o amedrontará”[4].
+
+() - [4] N.R.: Mq 4:4
 
 Portanto, todos os sistemas paternais de governo estão mudando no mundo inteiro. As nações, como tais, já tiveram a sua vida. Estão agora trabalhando pela Fraternidade Universal, de acordo com os desígnios dos Líderes invisíveis. Certamente, estes não são os menos poderosos na precipitação dos acontecimentos, ainda que não se assentem oficialmente nos conselhos das nações.
 
@@ -3986,19 +3945,17 @@ A água não destilada usada como bebida é o pior inimigo do ser humano. Quando
 
 Harvey, o descobridor da circulação do sangue, disse que a circulação livre do sangue se traduz em saúde e que a enfermidade é o resultado de obstrução da mesma circulação.
 
-O banho geral é de grande valor como meio de conservar a saúde do Corpo. Deve ser tomado, frequentemente, pelo Aspirante à vida superior. A transpiração, sensível ou insensível, expulsa muito mais substâncias terrosas do que qualquer outra função.
+O banho geral é de grande valor como meio de conservar a saúde do Corpo. Deve ser tomado, frequentemente, pelo Aspirante à vida superior. A transpiração, sensível ou insensível, expulsa muito mais substâncias terrosas do que qualquer outra função. Um fogo a que se lance combustível e se mantenha livre de cinzas, continuará queimando. Os rins são muito importantes: expulsam as cinzas, mas apesar da grande quantidade de matérias calcárias que saem na urina, muitas pessoas retém o bastante para formar cálculos ou pedras nas vias urinárias – causa de dores indescritíveis e até da morte.
 
-Um fogo a que se lance combustível e se mantenha livre de cinzas, continuará queimando. Os rins são muito importantes: expulsam as cinzas, mas apesar da grande quantidade de matérias calcárias que saem na urina, muitas pessoas retém o bastante para formar cálculos ou pedras nas vias urinárias – causa de dores indescritíveis e até da morte.
+Não se deve crer que a água contenha menor quantidade de calcário por ter sido fervida. A crosta que se deposita no fundo da chaleira é deixada pela água evaporada, que sai como vapor. A água destilada é importantíssima para manter o Corpo jovem. 
 
-Não se deve crer que a água contenha menor quantidade de calcário por ter sido fervida. A crosta que se deposita no fundo da chaleira é deixada pela água evaporada, que sai como vapor.
-
-A água destilada é importantíssima para manter o Corpo jovem. Nesta água destilada, que se obtém pela condensação do vapor, não há absolutamente substância terrosa de nenhuma espécie, nem também, na água da chuva, da neve ou do granizo (salvo a que possa apanhar no contato com o solo, telhado, etc.). O café, o chá ou a sopa, não estão livres de substâncias terrosas quando feitos com água ordinária, por mais que seja fervida. Pelo contrário, quanto mais se ferva, tanto mais carregada fica. Quem sofre de enfermidades urinárias só deveria beber água destilada.
+Nesta água destilada, que se obtém pela condensação do vapor, não há absolutamente substância terrosa de nenhuma espécie, nem também, na água da chuva, da neve ou do granizo (salvo a que possa apanhar no contato com o solo, telhado, etc.). O café, o chá ou a sopa, não estão livres de substâncias terrosas quando feitos com água ordinária, por mais que seja fervida. Pelo contrário, quanto mais se ferva, tanto mais carregada fica. Quem sofre de enfermidades urinárias só deveria beber água destilada.
 
 Em termos gerais, dentre os alimentos sólidos, os vegetais frescos e as frutas maduras contêm a maior proporção de substâncias nutritivas e a menor quantidade de substâncias terrosas.
 
-Como estamos escrevendo estas linhas para o Aspirante à vida superior e não para o público em geral, podemos dizer também que os alimentos animais, se for possível, devem ser abolidos completamente.
+Como estamos escrevendo estas linhas para o Aspirante à vida superior e não para o público em geral, podemos dizer também que os alimentos animais, se for possível, devem ser abolidos completamente. Nenhum indivíduo que mate pode chegar muito acima no caminho da santidade. Notemos, todavia que, comendo a carne, agimos pior do que se realmente matássemos. Com efeito, para evitar cometer pessoalmente essas matanças, obrigamos um semelhante[5], forçado por necessidades econômicas, a dedicar sua vida inteira ao assassínio. Isso o brutaliza em tal extensão que a lei não lhe permite atuar como jurado nos julgamentos por crimes capitais, porque o seu trabalho o tem familiarizado demasiadamente com a matança.
 
-Nenhum indivíduo que mate pode chegar muito acima no caminho da santidade. Notemos, todavia que, comendo a carne, agimos pior do que se realmente matássemos. Com efeito, para evitar cometer pessoalmente essas matanças, obrigamos um semelhante[5], forçado por necessidades econômicas, a dedicar sua vida inteira ao assassínio. Isso o brutaliza em tal extensão que a lei não lhe permite atuar como jurado nos julgamentos por crimes capitais, porque o seu trabalho o tem familiarizado demasiadamente com a matança.
+() - [5] N.R.: um ser humano, um irmão ou irmã
 
 Os iluminados sabem que os animais são nossos irmãos mais jovens e que serão humanos no Período de Júpiter. Nesse tempo, ajudá-los-emos, tal como os Anjos, que eram seres humanos no Período Lunar, estão a ajudar-nos agora. Matar, para um Aspirante aos ideais elevados, seja pessoalmente ou por delegação, é coisa completamente fora de toda cogitação.
 
@@ -4008,11 +3965,11 @@ Durante o Período Lunar, o ser humano foi alimentado com o leite da Natureza, a
 
 Crê-se, geralmente, que o açúcar e outras substâncias sacarinas são prejudiciais à saúde, especialmente para os dentes, onde produzem dores e cáries. Isto é certo, mas sob certas circunstâncias. Podem ser prejudiciais em certas enfermidades como a biliosa ou a dispepsia, ou se é mantido muito tempo na boca, como o açúcar cande. Se for empregado discretamente durante a saúde, aumentando gradualmente a dose na medida em que o estômago se vá acostumando, ver-se-á que é muito nutritivo. A saúde dos trabalhadores melhora enormemente durante a safra, apesar de ser a época em que maus trabalham. Isto se atribui à alimentação com o suco doce da cana. A mesma coisa se pode dizer dos cavalos, vacas e outros animais dessas localidades, que gostam extraordinariamente do melado e dos resíduos da cana. se tornam gordos em pouco tempo e o pelo fica suave e brilhante. Os sucos sacarinos das cenouras tornam fino como seda o pelo dos cavalos alimentados durante algumas semanas como cenouras fervidas. O açúcar é um artigo nutritivo e benéfico à alimentação; não contém cinzas[6] de nenhuma espécie.
 
+() - [6] N.R.: As cinzas são minerais, calcários, terrosos, que endurecem todo o organismo. Não devemos temer a influência desses elementos na formação dos ossos; pelo contrário, devemos ser sumamente cautelosos e absorver somente o mínimo possível.
+
 As frutas são uma dieta ideal. As árvores produzem-nas para induzir o ser humano e os animais a comê-las, de maneira que as sementes se espalhem. As flores atraem as abelhas com análogos propósitos.
 
-A fruta fresca contém água da classe mais pura e melhor, capaz de penetrar no organismo de uma maneira maravilhosa. O suco de uvas é particularmente um solvente admirável. Purifica e estimula o sangue e lhe abre caminho nos capilares já secos e endurecidos, sempre que o processo de endurecimento não tenha ido demasiado longe. O tratamento pelo suco de uvas sem fermentar, torna fortes, vigorosas e cheias de vida as pessoas de olhos cansados, pálidas e de compleição pobre. A crescente permeabilidade permite ao Espírito se manifestar com mais liberdade e com renovada energia.
-
-A Tabela seguinte, com exceção da última coluna, foi copiada das publicações do Departamento de Agricultura dos Estados Unidos e dará ao Aspirante alguma ideia da quantidade de alimento que deve comer, conforme os diferentes graus de atividade, assim como mostra os constituintes dos diversos alimentos indicados.
+A fruta fresca contém água da classe mais pura e melhor, capaz de penetrar no organismo de uma maneira maravilhosa. O suco de uvas é particularmente um solvente admirável. Purifica e estimula o sangue e lhe abre caminho nos capilares já secos e endurecidos, sempre que o processo de endurecimento não tenha ido demasiado longe. O tratamento pelo suco de uvas sem fermentar, torna fortes, vigorosas e cheias de vida as pessoas de olhos cansados, pálidas e de compleição pobre. A crescente permeabilidade permite ao Espírito se manifestar com mais liberdade e com renovada energia. A Tabela seguinte, com exceção da última coluna, foi copiada das publicações do Departamento de Agricultura dos Estados Unidos e dará ao Aspirante alguma ideia da quantidade de alimento que deve comer, conforme os diferentes graus de atividade, assim como mostra os constituintes dos diversos alimentos indicados.
 
 Considerando o Corpo de um ponto de vista puramente físico ele se assemelha, ao que poderíamos chamar, a um forno químico, sendo o alimento o combustível. Quanto mais exercício faz, tanto mais combustível necessita. Seria tolice alguém mudar sua dieta normal alimentar, que usou durante anos, para seguir outra dieta, sem uma observação prévia e cuidadosa do melhor que possa servir aos seus propósitos. A mera eliminação da carne animal da dieta alimentar cotidiana para pessoas que estão acostumadas a comer carne animal, com toda a certeza, produziria desarranjos na saúde da maioria. A única maneira segura é, primeiramente, experimentar e estudar o assunto com discernimento. A alimentação é uma coisa tão individual que não é possível estabelecer regras fixas. Tudo o que podemos fornecer é uma Tabela de Valores Alimentícios e descrever a influência geral de cada elemento químico, mas cada Aspirante deve organizar seu próprio regime alimentar.
 
@@ -4030,9 +3987,7 @@ As gorduras produzem calor e conservam forças de reserva.
 
 As cinzas são minerais, calcários, terrosos, que endurecem todo o organismo. Não devemos temer a influência desses elementos na formação dos ossos; pelo contrário, devemos ser sumamente cautelosos e absorver somente o mínimo possível.
 
-A caloria é unidade de calor. A Tabela mostra a quantidade contida em cada substância alimentar, no estado em que se encontra nos mercados. Há em uma libra de castanha do Pará, por exemplo, 49,6% de resíduo (cascas). Os 50,4% restantes contém 1.485 calorias. Isto significa que cerca da metade do que se compra é inútil, mas a parte restante contém o número de calorias indicado. Para conseguir a maior soma de energia dos alimentos, devemos prestar atenção ao número de calorias para obtermos a energia precisa para o trabalho cotidiano.
-
-O número de calorias (por dia) necessário para sustentar o Corpo sob diferentes condições, se mostra na Tabela seguinte:
+A caloria é unidade de calor. A Tabela mostra a quantidade contida em cada substância alimentar, no estado em que se encontra nos mercados. Há em uma libra de castanha do Pará, por exemplo, 49,6% de resíduo (cascas). Os 50,4% restantes contém 1.485 calorias. Isto significa que cerca da metade do que se compra é inútil, mas a parte restante contém o número de calorias indicado. Para conseguir a maior soma de energia dos alimentos, devemos prestar atenção ao número de calorias para obtermos a energia precisa para o trabalho cotidiano. O número de calorias (por dia) necessário para sustentar o Corpo sob diferentes condições, se mostra na Tabela seguinte:
 
 |                                                      |          |
 |------------------------------------------------------|----------|
@@ -4043,11 +3998,6 @@ O número de calorias (por dia) necessário para sustentar o Corpo sob diferente
 | Ser humano com trabalho sedentário                   | 2.700    |
 | Ser humano que não faz exercício muscular            | 2.450    |
 | Mulher com trabalho manual leve ou moderado          | 2.450    |
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Segundo a Tabela de valores nutricionais dos alimentos, é evidente que o chocolate é o alimento mais nutritivo e o cacau em pó é o mais perigoso de todos os alimentos porque contém três vezes mais cinzas do que qualquer outro e dez vezes mais do que muitos deles. É um alimento poderoso, mas também um veneno poderoso porque endurece o sistema muito mais rapidamente do que qualquer outra substância.
 
@@ -4067,32 +4017,32 @@ Portanto, é de suma importância que o Aspirante ansioso de se empregar em trab
 
 A seguinte Tabela mostra a proporção de ácido fosfórico em alguns produtos alimentares:
 
-Em 100.000 partes de:
-
-|                                |             |
+| Em 100.000 partes de:          |             |
 |--------------------------------|-------------|
-| Cevada seca	                   | 210 partes  | 
+| Cevada seca	                 | 210 partes  | 
 | Feijões, favas, ervilhas       | 292 partes  |
 | Beterrabas                     | 167 partes  |
-| Folhas de beterraba	           | 690 partes  |
+| Folhas de beterraba	         | 690 partes  |
 | Trigo mourisco                 | 170 partes  |
 | Cenouras secas                 | 395 partes  |
 | Folhas de cenoura              | 963 partes  |
 | Linhaça                        | 880 partes  |
 | Talos de linho                 | 118 partes  |
-| Chirívia (Pastinaga)[7]	       | 111 partes  |
+| Chirívia (Pastinaga)[7]	     | 111 partes  |
 | Folhas de chirívia (Pastinaga) | 1784 partes |
 | Ervilhas frescas               | 190 partes  |               
 
+() - [7] N.R.: também chamado de Pastinaca ou Cherovia. Parece uma cenoura, mas é mais rústico e menos firme, tendo um formato cónico. Tom creme-esbranquiçado e um sabor a anis doce. É um legume de antigamente que está a ser recuperado pelas novas gerações.
+
 Todas as considerações precedentes podem ser assim resumidas:
 
-1. O Corpo está sujeito, durante toda a vida, a um processo de solidificação.
+1\. O Corpo está sujeito, durante toda a vida, a um processo de solidificação.
 
-2. Esse processo se traduz por depósito de substâncias terrosas trazidas pelo sangue, principalmente fosfatos e carbonatos de cálcio, com o que as diversas partes se endurecem, se transformando em matéria endurecida.
+2\. Esse processo se traduz por depósito de substâncias terrosas trazidas pelo sangue, principalmente fosfatos e carbonatos de cálcio, com o que as diversas partes se endurecem, se transformando em matéria endurecida.
 
-3. Essa transformação arruína a flexibilidade dos vasos, músculos e outras partes do Corpo sujeitas a movimento. Torna o sangue viscoso e, obstruindo completamente os diminutos capilares, restringe a circulação dos fluídos e o labor do sistema, terminando na morte.
+3\. Essa transformação arruína a flexibilidade dos vasos, músculos e outras partes do Corpo sujeitas a movimento. Torna o sangue viscoso e, obstruindo completamente os diminutos capilares, restringe a circulação dos fluídos e o labor do sistema, terminando na morte.
 
-4. Esse processo de solidificação pode ser retardado. A vida se prolonga desde que se evite todo o alimento que contenha muitas cinzas, se beba água destilada e se facilite a excreção através da pele por meio de banhos frequentes.
+4\. Esse processo de solidificação pode ser retardado. A vida se prolonga desde que se evite todo o alimento que contenha muitas cinzas, se beba água destilada e se facilite a excreção através da pele por meio de banhos frequentes.
 
 O que se disse explica a razão de algumas Religiões prescreverem abluções frequentes, como exercícios religiosos, visto promoverem a saúde e purificarem o Corpo Denso. Os jejuns são também prescritos com análogas finalidades. Proporcionam ao estômago um bem necessário e merecido descanso e permitem ao Corpo eliminar as substâncias gastas. Se não são frequentes ou demasiado prolongados, levantam a saúde. Como regra geral, é melhor dar ao Corpo os alimentos apropriados, que são os melhores de todos os remédios.
 
@@ -4114,9 +4064,7 @@ Com a mesma classe de alimentos, a pessoa serena e jovial viverá muito mais, go
 
 Essa destruição é constante porque não é possível evitar totalmente os destruidores, nem essa é, tampouco, a intenção. Se o Corpo Vital pudesse ininterruptamente construir, continuaria empregando todas as energias com esse propósito, mas não haveria consciência ou pensamento algum. A obstrução produzida pelo Corpo de Desejos e pelo endurecimento das partes internas é que desenvolve a consciência.
 
-Em tempo muito recuado, anterior àquele em que criamos as primeiras concreções, tínhamos, como os atuais moluscos, Corpos moles, flexíveis e sem ossos. Porém, a consciência era, como a deles, obscuríssima, vaga e tenuíssima. Para que pudéssemos avançar era necessário retermos as concreções.
-
-O estado de consciência de qualquer espécie está em proporção direta ao desenvolvimento do esqueleto interno. O Ego, para sua expressão, deve possuir sólidos ossos, com medula semifluídica e vermelha, a fim de poder formar corpúsculos sanguíneos vermelhos.
+Em tempo muito recuado, anterior àquele em que criamos as primeiras concreções, tínhamos, como os atuais moluscos, Corpos moles, flexíveis e sem ossos. Porém, a consciência era, como a deles, obscuríssima, vaga e tenuíssima. Para que pudéssemos avançar era necessário retermos as concreções. O estado de consciência de qualquer espécie está em proporção direta ao desenvolvimento do esqueleto interno. O Ego, para sua expressão, deve possuir sólidos ossos, com medula semifluídica e vermelha, a fim de poder formar corpúsculos sanguíneos vermelhos.
 
 Esse é o maior desenvolvimento do Corpo Denso. Isto não significa que os animais com esqueleto semelhante ao do ser humano, quanto à perfeição, possuam espírito interno. Eles não o têm pelo motivo de pertencerem a uma corrente diferente de evolução.
 
@@ -4126,9 +4074,7 @@ Segundo a lei da assimilação uma partícula forma parte do nosso Corpo quando,
 
 Os seres humanos não estão organizados de maneira a viver de minerais sólidos. Ao ingerirmos uma substância puramente mineral, o sal, por exemplo, passa através do Corpo deixando muito pouco atrás. Porém, o pouco que deixa é de natureza perigosa. Se os minerais pudessem ser empregados pelo ser humano como alimento seriam ideais por terem pouca estabilidade e ser necessária pouca energia para dominá-los e subjugá-los à vida do Corpo. Comeríamos muito menos e menor número de vezes do que agora fazemos. Algum dia, os laboratórios fornecerão alimentos químicos de tal qualidade que sobrepassarão quaisquer outros, além da vantagem de estarem sempre frescos. Os alimentos obtidos de plantas superiores e, sobretudo dos animais, Reino superior ao vegetal, é positivamente nauseabundo, por causa da rapidez da desintegração. Esse processo resulta dos esforços das partículas para se livrarem do conjunto.
 
-O Reino Vegetal, o próximo superior ao mineral, tem organização capaz de assimilar os compostos dos minerais da Terra. O ser humano e os animais podem decompor as plantas e assimilar e se nutrir dos seus compostos químicos, tendo em vista que o Reino Vegetal, que tem consciência de sono sem sonhos, não oferece resistência alguma à assimilação. É necessária pouca energia para assimilar suas partículas, e como tem muito pouca Individualidade própria, a vida que se anima não procura se escapar de nosso Corpo tão rapidamente como as dos alimentos derivados de formas mais desenvolvidas.
-
-A força obtida de uma dieta de vegetais ou de frutos permanece mais do que a derivada de uma dieta de carne. Não é necessário ingerir com tanta frequência quantidades de alimento vegetal. Proporcionalmente, esse alimento fornece mais energia porque, para assimilá-lo, é necessária menor energia.
+O Reino Vegetal, o próximo superior ao mineral, tem organização capaz de assimilar os compostos dos minerais da Terra. O ser humano e os animais podem decompor as plantas e assimilar e se nutrir dos seus compostos químicos, tendo em vista que o Reino Vegetal, que tem consciência de sono sem sonhos, não oferece resistência alguma à assimilação. É necessária pouca energia para assimilar suas partículas, e como tem muito pouca Individualidade própria, a vida que se anima não procura se escapar de nosso Corpo tão rapidamente como as dos alimentos derivados de formas mais desenvolvidas. A força obtida de uma dieta de vegetais ou de frutos permanece mais do que a derivada de uma dieta de carne. Não é necessário ingerir com tanta frequência quantidades de alimento vegetal. Proporcionalmente, esse alimento fornece mais energia porque, para assimilá-lo, é necessária menor energia.
 
 O alimento obtido de Corpos animais se compõe de partículas que foram trabalhadas e interpenetradas por um Corpo de Desejos individual, e individualizadas. Esta individualização é muito maior que a das partículas vegetais. No animal, cada célula se constitui numa Alma celular individual compenetrada pelas paixões, e desejos do animal. É necessária uma energia considerável, primeiramente para dominá-la e, depois, para poder ser assimilada. No entanto, nunca fica completamente incorporada ao Corpo como os constituintes duma planta, que não tem tendências individuais tão fortes. Resultado: o carnívoro necessita de quantidade maior de alimento que o frugívoro e tem de comer mais frequentemente. Ainda mais: a luta interna das partículas da carne provoca desgaste e destruição maior do Corpo, o que torna o carnívoro menos ativo e menos paciente do que o vegetariano, como tem sido demonstrado em provas realizadas pelos partidários de um e do outro regime.
 
@@ -4142,24 +4088,28 @@ A primeira lei da Ciência Oculta é “não matarás”. O Aspirante à vida su
 
 Ella Wheeler Wilcox[8], com a verdadeira compaixão de todas as Almas avançadas, defende essa máxima ocultista, nas seguintes e formosíssimas palavras:
 
-    Eu sou a voz dos que não falam.  
-    Por mim falarão os que são mudos.  
-    Minha voz ressoará nos ouvidos do mundo  
-    até o cansaço; até que escutem e saibam  
-    os erros que cometem com os débeis  
-    que não podem falar.  
+() - [8] N.R.: 1850-1919: escritora e poeta estadunidense; do livro Poems of Experience, chamado The Voice of the Voiceless.
 
-    O mesmo poder formou o pardal,  
-    o ser humano e o rei.  
-    O Deus do Todo deu uma  
-    Chispa anímica a todos  
-    os seres de pelo e pluma.  
+```
+Eu sou a voz dos que não falam.  
+Por mim falarão os que são mudos.  
+Minha voz ressoará nos ouvidos do mundo  
+até o cansaço; até que escutem e saibam  
+os erros que cometem com os débeis  
+que não podem falar.  
 
-    Eu sou o guardião dos meus irmãos.  
-    Lutarei sua batalha e farei  
-    a defesa do animal e da ave.  
-    Até que o mundo faça  
-    as coisas como se deve.  
+O mesmo poder formou o pardal,  
+o ser humano e o rei.  
+O Deus do Todo deu uma  
+Chispa anímica a todos  
+os seres de pelo e pluma.  
+
+Eu sou o guardião dos meus irmãos.  
+Lutarei sua batalha e farei  
+a defesa do animal e da ave.  
+Até que o mundo faça  
+as coisas como se deve.  
+```
 
 Objeta-se algumas vezes que também arrebatamos a vida dos vegetais e frutas que comemos. Objeção baseada numa imperfeita compreensão dos fatos. Quando a fruta está madura, já realizou o seu propósito: agir como matriz da semente. Se não é aproveitada, apodrece e perde-se. Além disso, destinada a servir de alimento ao animal e ao ser humano, ao cair no solo fértil proporciona à semente oportunidade de germinar. O óvulo e o sêmen dos seres humanos são estéreis sem o Átomo-semente do Ego renascido e sem a matriz do Corpo Vital. Assim também, qualquer ovo ou semente, se isolados, são desprovidos de vida. No entanto, se lhe são proporcionadas as condições necessárias de incubação, a vida do Espírito-Grupo neles penetra aproveitando a oportunidade para garantir a produção de um Corpo Denso. Se esmagarmos ou cozinhamos o ovo ou a semente, ou não lhe são proporcionadas as condições necessárias para a vida, a oportunidade se perde. Isto é tudo.
 
@@ -4169,9 +4119,9 @@ Não seria mais belo o ser humano assumir seu papel de um amigo e protetor do fr
 
 #### <h4 id="the-lords-prayer">A Oração do Senhor</h4>
 
-Voltamos a considerar as ajudas espirituais no progresso humano, podemos comparar a Oração do Senhor (Pai Nosso[9]) como uma fórmula abstrata ao melhoramento e purificação de todos os veículos do ser humano.
+Voltamos a considerar as ajudas espirituais no progresso humano, podemos comparar a Oração do Senhor (Pai Nosso[9]) como uma fórmula abstrata ao melhoramento e purificação de todos os veículos do ser humano. O cuidado a prestar ao Corpo Denso está expresso nas palavras: “o pão nosso de cada dia dai-nos hoje”.
 
-O cuidado a prestar ao Corpo Denso está expresso nas palavras: “o pão nosso de cada dia dai-nos hoje”.
+() - [9] N.R.: Mt 6: 9-13
 
 A oração que se refere às necessidades do Corpo Vital é: “perdoai as nossas dívidas, assim como nós perdoamos aos nossos devedores”.
 
@@ -4195,17 +4145,15 @@ A Fama pela qual se deve aspirar é a que possa aumentar nossa capacidade de tra
 
 A oração para a Mente é: “Livrai-nos do mal”. Como vimos, a Mente é a ligação entre as naturezas superiores e inferiores. Admite-se que os animais sigam os seus desejos sem nenhuma restrição. Nisso nada há de bom nem de mau porque lhes falta a Mente, a faculdade de discernir. Os meios de proteção empregados para com os animais que roubam e matam são muito diferentes do empregado em relação aos seres humanos que fazem tais coisas. Mesmo quando um ser humano de Mente anormal faz isso não se considera da mesma forma que ao animal. Agiu mal, mas porque não sabia o que fazia é isolado.
 
-O ser humano conheceu o bem e o mal quando seus olhos mentais se abriram. Aquele que realiza a ligação da Mente ao “Eu superior” permanentemente, é uma pessoa de elevado entendimento. Se, pelo contrário, a Mente está ligada à natureza emocional inferior, a pessoa tem mentalidade inferior.
-
-Por tais razões, a oração para a Mente traduz a aspiração de nos libertarmos das experiências resultantes da aliança da Mente com o Corpo de Desejos e de tudo quanto tal aliança origina.
+O ser humano conheceu o bem e o mal quando seus olhos mentais se abriram. Aquele que realiza a ligação da Mente ao “Eu superior” permanentemente, é uma pessoa de elevado entendimento. Se, pelo contrário, a Mente está ligada à natureza emocional inferior, a pessoa tem mentalidade inferior. Por tais razões, a oração para a Mente traduz a aspiração de nos libertarmos das experiências resultantes da aliança da Mente com o Corpo de Desejos e de tudo quanto tal aliança origina.
 
 No Aspirante à vida superior, a união entre as naturezas superior e inferior é realizada pela Meditação sobre assuntos elevados, pela Contemplação que consolida essa união e, depois, pela Adoração que, transcendendo os estados anteriores, eleva o espírito ao Trono.
 
-No “Pai Nosso”, geralmente utilizado na Igreja, a adoração está colocada em primeiro lugar, o que tem por fim alcançar a exaltação espiritual necessária para proferir uma petição que represente as necessidades dos veículos inferiores.
+No “Pai Nosso”, geralmente utilizado na Igreja, a adoração está colocada em primeiro lugar, o que tem por fim alcançar a exaltação espiritual necessária para proferir uma petição que represente as necessidades dos veículos inferiores. Cada aspecto do Tríplice Espírito, começando pelo inferior, expressa adoração ao aspecto correspondente da Divindade. Quando os três aspectos do espírito estão colocados ante o Trono da Graça, cada um emite uma oração apropriada às necessidades da sua contraparte material. No fim os três se unem para proferir a oração da Mente.
 
-Cada aspecto do Tríplice Espírito, começando pelo inferior, expressa adoração ao aspecto correspondente da Divindade. Quando os três aspectos do espírito estão colocados ante o Trono da Graça, cada um emite uma oração apropriada às necessidades da sua contraparte material. No fim os três se unem para proferir a oração da Mente.
+O Espírito Humano se eleva à sua contraparte, o Espírito Santo (Jeová), dizendo: “Santificado seja o Vosso Nome”. 
 
-O Espírito Humano se eleva à sua contraparte, o Espírito Santo (Jeová), dizendo: “Santificado seja o Vosso Nome”. O Espírito de Vida se reverencia ante sua contraparte, o Filho (Cristo), dizendo: “Venha a nós o Vosso Reino”.
+O Espírito de Vida se reverencia ante sua contraparte, o Filho (Cristo), dizendo: “Venha a nós o Vosso Reino”.
 
 O Espírito Divino se ajoelha ante sua contraparte, o Pai, e diz: “Seja feita a Vossa Vontade…”.
 
@@ -4221,13 +4169,13 @@ A introdução, “Pai nosso que estais no Céus” é somente um indicativo de 
 
 O Diagrama 16 ilustra a explicação antecedente de forma fácil e simples, mostrando a relação entre as diferentes orações, em suas respectivas cores e os veículos correspondentes.
 
-Diagrama 16 – O Pai Nosso!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 #### <h4 id="the-vow-of-celibacy">O Voto de Celibato</h4>
 
 O (a) pervertido (a) sexual, ou o (a) maníaco (a) sexual, comprova a afirmação dos ocultistas de que uma parte da força sexual constrói o cérebro. Ele (ela) se converte em um (a) idiota, incapaz de pensar, porque exterioriza não somente a parte negativa ou positiva da força sexual (seja homem ou mulher), empregada normalmente pelos órgãos sexuais para a propagação, mas exterioriza também parte da força que, dirigida ao cérebro, o organizaria e tornaria apto a pensar. Daí as deficiências mentais que apresenta.
 
-Se a pessoa se dedica a pensamentos espirituais, a tendência para empregar a força sexual na propagação é muito pequena. Qualquer parte dela que não use pode ser transformada em força espiritual. Por esta razão, em certo grau de desenvolvimento, o Iniciado faz o voto de celibato. Não é uma resolução fácil de tomar nem pode ser feita à ligeira por qualquer pessoa que deseje se desenvolver espiritualmente. Muitos seres humanos imaturos para a vida superior se encadearam quando se sujeitaram a uma vida ascética. Tais pessoas são tão perigosas para a comunidade como os erotomaníacos imbecis.
+Se a pessoa se dedica a pensamentos espirituais, a tendência para empregar a força sexual na propagação é muito pequena. Qualquer parte dela que não use pode ser transformada em força espiritual. 
+
+Por esta razão, em certo grau de desenvolvimento, o Iniciado faz o voto de celibato. Não é uma resolução fácil de tomar nem pode ser feita à ligeira por qualquer pessoa que deseje se desenvolver espiritualmente. Muitos seres humanos imaturos para a vida superior se encadearam quando se sujeitaram a uma vida ascética. Tais pessoas são tão perigosas para a comunidade como os erotomaníacos imbecis.
 
 No estado atual da evolução humana, a função sexual é o meio pelo qual são formados os Corpos usados pelo espírito para obter experiência. Geralmente, as pessoas mais prolíficas e que seguem os impulsos geradores sem reserva, são de categoria inferior. As entidades em via de renascimento dificilmente encontram ambientes que permitam desenvolver suas faculdades de forma a se beneficiarem e a beneficiarem a Humanidade. Muitas pessoas das classes ricas poderiam oferecer condições mais favoráveis, mas em geral têm poucos filhos ou nenhum. Não porque vivam uma vida sexualmente de abstinência, mas por razões completamente egoístas, para maior comodidade e para poderem se entregar à paixão sexual ilimitadamente, sem arcar com as dificuldades da família. Entre as classes médias, as famílias também são limitadas, mas nestas as razões são predominantemente econômicas. Procuram educar um ou dois filhos, lhes dando vantagens que não poderiam lhes proporcionar se tivessem quatro ou cinco.
 
@@ -4237,17 +4185,15 @@ Os Aspirantes à vida superior, ansiosos por viver uma nobre vida espiritual, mu
 
 A função sexual tem seu lugar na economia do mundo. Quando empregada devidamente, fornece Corpos, fortes e cheios de saúde que o ser humano necessita para o seu desenvolvimento. Não há maior bênção para o Ego. Quando, inversamente, dela se abusa, não há maior desgraça, se converte num manancial de todos os males, a verdadeira herança da carne.
 
-É uma grande verdade que “nenhum ser humano vive somente para si”. As nossas palavras e ações afetam constantemente os outros. Se agirmos retamente, podemos ajudar ou prejudicar vidas, mas se descuidamos nossos deveres podemos frustrá-las, primeiramente, dos que estão em imediato contato conosco e depois de todos os habitantes da Terra e, talvez ainda, outras além.
+É uma grande verdade que “nenhum ser humano vive somente para si”. As nossas palavras e ações afetam constantemente os outros. Se agirmos retamente, podemos ajudar ou prejudicar vidas, mas se descuidamos nossos deveres podemos frustrá-las, primeiramente, dos que estão em imediato contato conosco e depois de todos os habitantes da Terra e, talvez ainda, outras além. Ninguém tem o direito de procurar a vida superior sem ter cumprido antes seus deveres para com a família, o país e a Raça humana. Deixar tudo de lado, egoisticamente, e viver unicamente para o próprio desenvolvimento espiritual é tão repreensível como se desinteressar absolutamente pela vida espiritual. Antes, é ainda pior. Quem cumpre seus deveres na vida ordinária da melhor maneira que pode, se dedicando ao bem-estar dos que de si dependem, está cultivando a faculdade fundamental, o dever. E, certamente, avançará tanto que despertará à chamada da vida superior. Apoiado no dever anteriormente cumprido encontrará grande auxílio nesse trabalho. O ser humano que deliberadamente volta as costas aos deveres atuais para se dedicar à vida espiritual, com certeza será coagido a voltar ao caminho do dever, do qual se afastou equivocadamente. Não poderá escapar sem que tenha aprendido a lição.
 
-Ninguém tem o direito de procurar a vida superior sem ter cumprido antes seus deveres para com a família, o país e a Raça humana. Deixar tudo de lado, egoisticamente, e viver unicamente para o próprio desenvolvimento espiritual é tão repreensível como se desinteressar absolutamente pela vida espiritual. Antes, é ainda pior. Quem cumpre seus deveres na vida ordinária da melhor maneira que pode, se dedicando ao bem-estar dos que de si dependem, está cultivando a faculdade fundamental, o dever. E, certamente, avançará tanto que despertará à chamada da vida superior. Apoiado no dever anteriormente cumprido encontrará grande auxílio nesse trabalho. O ser humano que deliberadamente volta as costas aos deveres atuais para se dedicar à vida espiritual, com certeza será coagido a voltar ao caminho do dever, do qual se afastou equivocadamente. Não poderá escapar sem que tenha aprendido a lição.
+Certas tribos da Índia fazem muito boa divisão de sua vida: os primeiros 20 anos são dedicados à educação; dos 20 aos 40 se dedicam à criação da família, o resto do tempo é aplicado no desenvolvimento espiritual, sem nenhum cuidado físico que incomode ou distraia a Mente. 
 
-Certas tribos da Índia fazem muito boa divisão de sua vida: os primeiros 20 anos são dedicados à educação; dos 20 aos 40 se dedicam à criação da família, o resto do tempo é aplicado no desenvolvimento espiritual, sem nenhum cuidado físico que incomode ou distraia a Mente. Durante o primeiro período a criança é mantida por seus pais. No segundo, o ser humano, além de sustentar a família, cuida dos pais, enquanto eles estão dedicando sua atenção às coisas elevadas e, durante o resto da vida, é mantido por seus filhos.
+Durante o primeiro período a criança é mantida por seus pais. No segundo, o ser humano, além de sustentar a família, cuida dos pais, enquanto eles estão dedicando sua atenção às coisas elevadas e, durante o resto da vida, é mantido por seus filhos.
 
 É um método muito bom, completamente satisfatório para um povo que, totalmente, do berço ao túmulo, sente necessidades espirituais. Aliás, em tal extensão que equivocadamente descuidam o desenvolvimento material, salvo quando se veem impelidos pelo látego da necessidade. Os filhos sustentam carinhosamente os pais, seguros de que, por sua vez, serão sustentados pelos seus filhos e poderão se dedicar por completo à vida superior, depois de terem cumprido seus deveres para com o seu país e a Humanidade. No mundo ocidental, onde as necessidades espirituais não são sentidas e o ser humano corrente se desenvolve só materialmente, tal norma de vida seria impossível de realizar-se.
 
-A aspiração espiritual precisa ser amadurecida pelo tempo e só chega quando se obtém as condições particulares sob as quais devemos procurar satisfazê-la. É preciso suportar qualquer dever que pareça uma restrição. Se o cuidado da família impede alguém de se consagrar inteiramente àquilo que deseja, não seria justificado que o Aspirante descuidasse seus deveres, dedicando todo seu tempo e energia a propósitos espirituais.
-
-Devem-se fazer esforços para satisfazer tais aspirações, mas de modo a não interferirem com os deveres da família.
+A aspiração espiritual precisa ser amadurecida pelo tempo e só chega quando se obtém as condições particulares sob as quais devemos procurar satisfazê-la. É preciso suportar qualquer dever que pareça uma restrição. Se o cuidado da família impede alguém de se consagrar inteiramente àquilo que deseja, não seria justificado que o Aspirante descuidasse seus deveres, dedicando todo seu tempo e energia a propósitos espirituais. Devem-se fazer esforços para satisfazer tais aspirações, mas de modo a não interferirem com os deveres da família.
 
 Se o desejo de castidade nasce numa pessoa que mantém relações matrimoniais com outra, as obrigações de tais relações não podem ser esquecidas. Seria um grave erro viver castamente debaixo de tais circunstâncias, procurando fugir do apropriado cumprimento do dever. A respeito desse dever há uma linha de conduta para os Aspirantes à vida superior, diferente da do ser humano comum.
 
@@ -4257,9 +4203,7 @@ Sendo cada pessoa dona do próprio Corpo, é responsável, ante a Lei de Consequ
 
 Contemplando o assunto à luz do precedente, do ponto de vista da Ciência Oculta, as pessoas de Corpo e Mentes saudáveis têm o dever, e ao mesmo tempo o privilégio (que deve ser exercitado com gratidão pela oportunidade) de criar veículos para as entidades, tanto quanto seja compatível com a saúde e com a capacidade de assistência. Com indicamos, os Aspirantes à vida superior têm especialmente essa obrigação, porque a purificação produzida em seus Corpos qualifica-os, mais do que a Humanidade comum, para gerar veículos puros. Assim procedendo concedem veículos apropriados a entidades elevadas. Ao facilitarem a esses Egos oportunidades de renascerem e exercerem suas necessárias influências, eles ajudam à Humanidade.
 
-Empregando a força sexual do modo indicado, a função terá lugar muito poucas vezes na vida e, praticamente, toda a força sexual poderá ser empregada para fins espirituais. Não é o uso, mas o abuso que produz todas as perturbações e que interfere com a vida espiritual. Não há necessidade alguma de abandonar a vida superior quando não se possa ser casto, nem é necessário ser estritamente casto para passar pelas Iniciações Menores.
-
-O voto de absoluta castidade se relaciona unicamente com as Grandes Iniciações. Mesmo nestas, um só ato de fecundação pode ser necessário alguma vez, como um sacrifício, como aconteceu quando se preparou o Corpo para Cristo.
+Empregando a força sexual do modo indicado, a função terá lugar muito poucas vezes na vida e, praticamente, toda a força sexual poderá ser empregada para fins espirituais. Não é o uso, mas o abuso que produz todas as perturbações e que interfere com a vida espiritual. Não há necessidade alguma de abandonar a vida superior quando não se possa ser casto, nem é necessário ser estritamente casto para passar pelas Iniciações Menores. O voto de absoluta castidade se relaciona unicamente com as Grandes Iniciações. Mesmo nestas, um só ato de fecundação pode ser necessário alguma vez, como um sacrifício, como aconteceu quando se preparou o Corpo para Cristo.
 
 Pode-se acrescentar, também, que é pior estar sofrendo o abrasador desejo e pensando constante e vividamente na gratificação dos sentidos do que viver a vida matrimonial com moderação. Cristo ensinou que os pensamentos impuros são maus e talvez piores do que os atos impuros, porque os pensamentos podem ser repetidos indefinidamente, enquanto os atos têm sempre algum limite.
 
@@ -4267,13 +4211,19 @@ O Aspirante à vida superior só pode triunfar na medida da subjugação da natu
 
 #### <h4 id="the-pituitary-body-and-the-pineal-gland">O Corpo Pituitário e a Glândula Pineal</h4>
 
-No cérebro, aproximadamente na posição indicada pelo Diagrama 17, há dois pequenos órgãos chamados Corpo Pituitário[10] e Glândula Pineal[11]. A ciência médica não sabe quase nada delas ou das outras Glândulas Endócrinas[12] do Corpo.
+No cérebro, aproximadamente na posição indicada pelo Diagrama 17, há dois pequenos órgãos chamados Corpo Pituitário[10] e Glândula Pineal[11]. A ciência médica não sabe quase nada delas ou das outras Glândulas Endócrinas[12] do Corpo. A ciência chama à Glândula Pineal “terceiro olho atrofiado”, mas nem ela e nem o Corpo Pituitário estão atrofiando. Isso é um manancial de perplexidades para os cientistas, já que a Natureza nada conserva inútil. Por todo o Corpo encontramos órgãos que estão atrofiando ou se desenvolvendo. Sendo que os que estão atrofiando, por assim dizer, marcos ao longo do caminho que o ser humano percorreu até o seu estado atual de desenvolvimento, e os que estão se desenvolvendo apontam para melhorias e futuros aperfeiçoamentos. Por exemplo, os músculos que os animais empregam para mover as orelhas existem também no ser humano, mas como estão atrofiando, poucas pessoas podem usá-los. O coração pertence à classe dos que indica desenvolvimento futuro; como já foi mostrado, está se tornando um músculo voluntário.
 
-Diagrama 17 – Caminho das Forças Sexuais não empregada!!!!!!!!!!!!!!!!!!!!!!
+() - [10] N.R.: também chamada de Hipófise
 
-A ciência chama à Glândula Pineal “terceiro olho atrofiado”, mas nem ela e nem o Corpo Pituitário estão atrofiando. Isso é um manancial de perplexidades para os cientistas, já que a Natureza nada conserva inútil. Por todo o Corpo encontramos órgãos que estão atrofiando ou se desenvolvendo. Sendo que os que estão atrofiando, por assim dizer, marcos ao longo do caminho que o ser humano percorreu até o seu estado atual de desenvolvimento, e os que estão se desenvolvendo apontam para melhorias e futuros aperfeiçoamentos. Por exemplo, os músculos que os animais empregam para mover as orelhas existem também no ser humano, mas como estão atrofiando, poucas pessoas podem usá-los. O coração pertence à classe dos que indica desenvolvimento futuro; como já foi mostrado, está se tornando um músculo voluntário.
+() - [11] N.R.: também chamada de Epífise Neural ou Epífise Cerebral ou, ainda, conarium.
+
+() - [12] N.R.: são Glândulas cujas substâncias são lançadas diretamente na corrente sanguínea. São chamadas também por Glândulas de secreção interna, justamente por este motivo.
 
 O Corpo Pituitário[13] e a Glândula Pineal pertencem a outra classe de órgãos, que atualmente não estão evoluindo e nem degenerando, mas estão adormecidos. Num passado remoto, quando o ser humano estava em contato com os Mundos internos, esses órgãos eram o seu meio de ingresso neles, e eles servirão novamente a esse propósito em um estágio posterior. Estavam conectados com o Sistema Nervoso simpático ou involuntário[14]. No Período Lunar, na última parte da Época Lemúrica e na primeira da Época Atlante, o ser humano via os Mundos internos. As imagens se apresentavam a ele completamente independentes da sua vontade. Os centros dos sentidos do seu Corpo de Desejos giravam em direção contrária à dos ponteiros de um relógio (seguindo negativamente o movimento da Terra, que gira em torno do eixo, nessa direção) como os centros dos sentidos dos “médiuns” fazem até hoje. Na maioria dos seres humanos esses centros são inativos, mas o desenvolvimento apropriado os fará girar no sentido horário (na mesma direção em que giram os ponteiros de um relógio analógico), com se explicou anteriormente. Essa é a parte difícil no desenvolvimento da Clarividência positiva.
+
+() - [13] N.R.: também chamada de Hipófise
+
+() - [14] N.R.: É a parte do nosso Sistema Nervoso que controla os movimentos involuntários, como os batimentos do coração, os movimentos peristálticos, entre outros. É também chamado de sistema nervoso periférico autônomo, conhecido também como sistema nervoso periférico involuntário ou sistema nervoso periférico visceral.
 
 O desenvolvimento da mediunidade é muito mais fácil, porque é simples revivificação da função negativa que possuía o ser humano no antiquíssimo passado, pela qual o Mundo externo se refletia nele involuntariamente e cuja função era retida pela endogamia. Nos atuais médiuns essa faculdade é intermitente, o que explica porque eles, às vezes, podem “ver” e outras vezes, sem motivo aparente, falham completamente. Ocasionalmente, o intenso desejo da pessoa interessada que interpela o médium permite a esse se pôr em contato com a fonte de informação que procura e, nessas ocasiões, vê corretamente. Contudo, nem sempre o médium se porta honestamente. Tendo de pagar despesas de aluguel do lugar onde se encontra e outras despesas, quando lhe falta o poder (sobre o qual não tem o menor domínio ou controle consciente) recorre à fraude e diz qualquer absurdo que lhe ocorra para satisfazer a pessoa que está o interpelando e, algumas vezes, para perder o dinheiro, desacreditando aquilo que noutras ocasiões realmente viu.
 
@@ -4305,6 +4255,8 @@ Ambos estão se desenvolvendo anormalmente, e em algum momento deve se dedicar a
 
 Essas correntes, em si mesmas, ainda que assumissem as proporções de um Niágara[15], e fluíssem até o dia do Juízo Final, seriam inúteis. Mas ainda assim, como ela não é apenas um complemento necessário, mas um pré-requisito para o trabalho autoconsciente nos Mundos internos, deve ser cultivada em alguma extensão antes que o verdadeiro Treinamento Esotérico possa começar. Ver-se-á assim que um vida moral devotada ao pensamento espiritual deve ser vivida pelo Aspirante à vida superior por um certo período de tempo, antes que seja possível começar o trabalho que lhe proporcionará o conhecimento direto (ou em primeira mão) dos reinos suprafísicos e o capacitará para se tornar, em toda a sua plenitude, um Auxiliar Invisível da Humanidade.
 
+() - [15] N.R.: As Cataratas do Niágara são um agrupamento de grandes cataratas localizadas no rio Niágara.
+
 Quando o candidato tenha vivido desse modo o tempo suficiente para estabelecer a corrente de força espiritual, e está apto e qualificado para receber as instruções esotéricas, a ele são fornecidos alguns exercícios para pôr em vibração a Glândula Pituitária. Essa vibração faz a Glândula Pituitária chocar e desviar ligeiramente a linha de força mais próxima (veja no Diagrama 17). Essa, por sua vez, se choca com a próxima, e o processo continua até que a força da vibração se esgota. Isso é similar ao tocar uma nota num piano: ela produzirá um certo número de sons harmônicos, a intervalos apropriados, os quais, por sua vez, farão vibrar as cordas correspondentes do piano.
 
 Quando pela vibração crescente do Corpo Pituitário as linhas de força são desviadas suficientemente para alcançar a Glândula Pineal o objetivo foi alcançado: se estabelece uma ponte entre ambos os órgãos. Essa é a ponte entre o Mundo dos Sentidos e o Mundo do Desejo. Construída essa ponte, o ser humano se torna Clarividente e é capaz de dirigir seu olhar firme e intenso, com toda a atenção, para onde queira. Os objetos sólidos são vistos por dentro e por fora. Para ele o espaço e a solidez deixaram de serem impedimentos ou interferências para a observação.
@@ -4326,6 +4278,8 @@ Recordemos que os Hierofantes dos antigos Templos dos Mistérios segregavam das 
 Essa é, pois, de fato, a parte do Corpo Vital que o Aspirante retém vida após vida, e que imortaliza como Alma Intelectual.
 
 Desde que Cristo veio e “limpou os pecados do mundo”[16] (não os do indivíduo), purificando o Corpo de Desejos do nosso Planeta, a conexão entre os Corpos Denso e Vital de todos os seres humanos foram afrouxados, e a tal ponto que, pelo exercício, são capazes de se separar na forma acima descrita. Portanto, a Iniciação está aberta para todos.
+
+() - [16] N.R.: Jo 1:29
 
 A parte mais sutil do Corpo de Desejos, que constitui a Alma Emocional, é capaz de separação na maioria das pessoas (em realidade ela já possuía essa capacidade antes da vinda de Cristo). Assim, por meio da concentração e do emprego de fórmula apropriada, as partes mais sutis dos veículos foram isoladas para serem empregadas durante o sono ou em qualquer outra hora, deixando as partes inferiores dos Corpos Vital e de Desejos encarregadas dos processos de restauração do veículo denso, a parte simplesmente animal.
 
@@ -4387,6 +4341,8 @@ Dessa maneira, por meio da Meditação, familiarizamo-nos com os vários ramos d
 
 Um dos mais importantes auxílios ao Aspirante que se esforça é a observação. A maioria das pessoas atravessa a vida quase às cegas. É, literalmente, certo dizer delas: “têm olhos e não veem… têm ouvidos e não ouvem”[17]. Na maior parte da Humanidade há uma deplorável falta de observação.
 
+() - [17] N.R.: Mt 13: 13-14
+
 Até certo ponto, muitas pessoas podem se desculpar pela sua falta de visão normal. A vida urbana tem causado inúmeros danos aos olhos. No campo a criança aprende a usar os músculos dos olhos em toda a extensão, relaxando-os ou contraindo-os, conforme seja necessário para ver objetos a distâncias consideráveis ao ar livre ou ao alcance da mão, dentro e fora de casa. Contudo, o filho das cidades vê praticamente todas as coisas de perto, e os músculos dos seus olhos raramente são empregados para observar objetos a grandes distâncias. Por conseguinte, essa faculdade se perde em grande parte, resultando disso a miopia e outros problemas da visão.
 
 É muito importante que o Aspirante à vida superior possa ver todas as coisas ao redor de si de maneira clara, nítida, distinta, em todos os pormenores. Para os que sofrem da vista, o uso de lentes é como o se abrir um mundo novo à sua frente. Em vez da anterior nebulosidade, tudo é visto clara e definidamente. Se a condição da visão requer o emprego de dois focos, não deve a pessoa se contentar com dois pares de óculos, um para as coisas próximas e outro para as distantes, que obrigam a mudanças frequentes. Não somente porque as mudanças são incômodas, mas também porque se pode esquecer um dos pares ao sair de casa. Podem-se ter os dois focos num só par de lentes bifocais, e esses são os que devem ser usados para facilitar a observação dos pormenores.
@@ -4419,45 +4375,11 @@ Quando, por meio da Contemplação, se alcança esta altura, isto é, quando o A
 
 É opinião do autor que nem as alturas da Contemplação nem o passo final da Adoração podem ser alcançados sem a ajuda de um Mestre. O Aspirante nunca deve temer que, por falta de um Mestre, seu progresso seja retardado. Nem necessita se preocupar em procurar um Mestre. Tudo o que precisa fazer é começar a se aperfeiçoar, e continuar nesse trabalho diligente e persistentemente. Desse modo purificará seus veículos, que começarão a brilhar nos Mundos internos. Esse brilho não pode deixar de atrair a atenção dos Mestres, os quais, sempre atentos a tais casos, estão ansiosos e contentes por ajudar aqueles que, por seus sinceros esforços de purificação, adquiriram o direito de receber ajuda. A Humanidade está duramente necessitada de auxiliares que possam trabalhar nos Mundos internos. Portanto, “buscai e achareis”[18]. Contudo, não se imagine que a procura consiste em andar passando de um Mestre para outro. “Procurar”, no sentido da palavra, nada significa para esse mundo tenebroso. Nós mesmos é que temos de acender a luz – a luz que seguramente irradia dos veículos do Aspirante diligente. Essa é a estrela que nos conduzirá ao Mestre, ou melhor, que conduzirá o Mestre até nós.
 
-O tempo necessário para se alcançar resultados por meio dos diversos exercícios varia de indivíduo para indivíduo, e depende da sua aplicação, grau de desenvolvimento e dos seus registros no Livro do Destino, pelo que não se pode estabelecer um tempo-padrão. Alguns, que já estão quase prontos, obtêm resultados em poucos dias ou semanas. Outros têm que trabalhar durante meses, anos e talvez durante uma vida inteira, sem obter resultados visíveis. Não obstante, os resultados são uma realidade, de modo que se o Aspirante persistir fielmente obterá algum dia, nesta ou em futura vida, a recompensa de sua paciência e fidelidade: os Mundos internos abrir-se-ão aos seus olhos, se tornando cidadão de Reinos onde as oportunidades são imensamente maiores do que no Mundo Físico somente. Daí em diante – desperto ou adormecido, através de tudo que o ser humano chama vida e de tudo o que chama morte – sua consciência será ininterrupta. Levará uma vida de consciência contínua, se beneficiando de todas as condições que permitem um avanço mais rápido para posições cada vez mais elevadas, e a empregará na elevação da Humanidade.
+() - [18] N.R.: Lc 11:9
 
-[1] N.R.: a descida do Espírito Santo sobre os Apóstolos de Jesus Cristo.
+O tempo necessário para se alcançar resultados por meio dos diversos exercícios varia de indivíduo para indivíduo, e depende da sua aplicação, grau de desenvolvimento e dos seus registros no Livro do Destino, pelo que não se pode estabelecer um tempo-padrão. Alguns, que já estão quase prontos, obtêm resultados em poucos dias ou semanas. Outros têm que trabalhar durante meses, anos e talvez durante uma vida inteira, sem obter resultados visíveis. Não obstante, os resultados são uma realidade, de modo que se o Aspirante persistir fielmente obterá algum dia, nesta ou em futura vida, a recompensa de sua paciência e fidelidade: os Mundos internos abrir-se-ão aos seus olhos, se tornando cidadão de Reinos onde as oportunidades são imensamente maiores do que no Mundo Físico somente. 
 
-[2] N.R.: Gl 4: 19
-
-[3] N.R.: o Trono de Deus
-
-[4] N.R.: Mq 4:4
-
-[5] N.R.: um ser humano, um irmão ou irmã
-
-[6] N.R.: As cinzas são minerais, calcários, terrosos, que endurecem todo o organismo. Não devemos temer a influência desses elementos na formação dos ossos; pelo contrário, devemos ser sumamente cautelosos e absorver somente o mínimo possível.
-
-[7] N.R.: também chamado de Pastinaca ou Cherovia. Parece uma cenoura, mas é mais rústico e menos firme, tendo um formato cónico. Tom creme-esbranquiçado e um sabor a anis doce. É um legume de antigamente que está a ser recuperado pelas novas gerações.
-
-[8] N.R.: 1850-1919: escritora e poeta estadunidense; do livro Poems of Experience, chamado The Voice of the Voiceless.
-
-[9] N.R.: Mt 6: 9-13
-
-[10] N.R.: também chamada de Hipófise
-
-[11] N.R.: também chamada de Epífise Neural ou Epífise Cerebral ou, ainda, conarium.
-
-[12] N.R.: são Glândulas cujas substâncias são lançadas diretamente na corrente sanguínea. São chamadas também por Glândulas de secreção interna, justamente por este motivo..
-
-[13] N.R.: também chamada de Hipófise
-
-[14] N.R.: É a parte do nosso Sistema Nervoso que controla os movimentos involuntários, como os batimentos do coração, os movimentos peristálticos, entre outros. É também chamado de sistema nervoso periférico autônomo, conhecido também como sistema nervoso periférico involuntário ou sistema nervoso periférico visceral.
-
-[15] N.R.: As Cataratas do Niágara são um agrupamento de grandes cataratas localizadas no rio Niágara.
-
-[16] N.R.: Jo 1:29
-
-[17] N.R.: Mt 13: 13-14
-
-[18] N.R.: Lc 11:9
-
-*************************************************************************************************************
+Daí em diante – desperto ou adormecido, através de tudo que o ser humano chama vida e de tudo o que chama morte – sua consciência será ininterrupta. Levará uma vida de consciência contínua, se beneficiando de todas as condições que permitem um avanço mais rápido para posições cada vez mais elevadas, e a empregará na elevação da Humanidade.
 
 ### <h3 id="chapter-18">Capítulo XVIII – A Constituição da Terra e Erupções Vulcânicas</h3>
 
@@ -4467,9 +4389,7 @@ Os cientistas modernos sabem muito pouco sobre esse assunto. No que se referem a
 
 Em certo sentido suas teorias têm algum fundamento, mas, como sempre, negligenciam as causas espirituais, que para o ocultista são as únicas reais. Para este, o mundo está longe de ser uma coisa “morta”. Pelo contrário, qualquer recanto e fenda são compenetrados pelo Espírito, o fermento que causa as mudanças tanto dentro como sobre o Planeta.
 
-As diferentes espécies de quartzos, os metais, a disposição das várias camadas, tudo tem um significado muito maior do que aquilo que o investigador materialista jamais foi capaz de compreender. Para o cientista ocultista, o modo em que estes materiais estão dispostos é sumamente significativo. Nesse assunto, como em outro qualquer, a Ciência Oculta está para a ciência moderna assim como a fisiologia está para a anatomia.
-
-A anatomia indica minuciosamente a posição de cada osso, músculo, ligamento, nervo etc.; suas posições relativas uns aos outros; e assim por diante; porém, não dá indicação alguma sobre o funcionamento das diferentes partes que compõem o Corpo. A fisiologia, por sua vez, indica não somente a posição e estrutura de todas as partes do Corpo, mas também sua função no Corpo.
+As diferentes espécies de quartzos, os metais, a disposição das várias camadas, tudo tem um significado muito maior do que aquilo que o investigador materialista jamais foi capaz de compreender. Para o cientista ocultista, o modo em que estes materiais estão dispostos é sumamente significativo. Nesse assunto, como em outro qualquer, a Ciência Oculta está para a ciência moderna assim como a fisiologia está para a anatomia. A anatomia indica minuciosamente a posição de cada osso, músculo, ligamento, nervo etc.; suas posições relativas uns aos outros; e assim por diante; porém, não dá indicação alguma sobre o funcionamento das diferentes partes que compõem o Corpo. A fisiologia, por sua vez, indica não somente a posição e estrutura de todas as partes do Corpo, mas também sua função no Corpo.
 
 Conhecer os diversos Estratos da Terra e as posições relativas dos Planetas no firmamento, e não conhecer seu emprego e significado na vida e sua finalidade no Cosmos são tão inúteis quanto apenas conhecer as posições dos ossos, músculos, nervos etc., e não compreender as funções que desempenham na economia do Corpo.
 
@@ -4482,6 +4402,10 @@ Em termos antigos esses nove passos são chamados “Mistérios Menores”. Leva
 O número “nove” é o número raiz do nosso presente estágio de evolução. Em nosso sistema tem um significado que nenhum outro número possui. É o “número de Adão”, a vida que começou sua evolução como um Espírito Virginal e que alcançou o estágio humano durante o Período Terrestre. Em hebraico, assim como em grego, não há algarismos, porque cada letra exprime um valor numérico. Em hebraico, “Adão” é proferido “ADM”. O valor de “A” é 1; o de “D”, 4; e o de “M”, 40. Se somarmos esses algarismos 1+4+4+0=9, teremos o “número de Adão”, ou Humanidade.
 
 Se passarmos do livro do Gênesis, que trata da criação do ser humano em remotíssimo passado, para o Livro da Revelação[1], que trata de sua futura realização, veremos que o número da Besta, que freia ou dificulta o progresso do ser humano, é o “666”[2]. Somando esses algarismos 6+6+6 = 18, e 1+8 = 9, teremos novamente o número da Humanidade, em si mesma a causa de todo mal que obstrui seu próprio progresso. Mais ainda: o número dos que se salvarão se diz que é de 144.000. Somando-se como antes 1+4+4+000 = 9, temos outra vez o número da Humanidade, mostrando, praticamente, que ela será salva em sua totalidade, já que é insignificante a quantidade dos incapazes de progredir em nossa evolução atual. Mesmo os poucos que fracassam não estarão perdidos, mas progredirão num esquema evolutivo futuro.
+
+() - [1] N.R.: Livro do Apocalipse
+
+() - [2] N.R.: Ap 13:18
 
 A consciência do mineral e do vegetal é realmente inconsciência. O primeiro vislumbre de consciência começa no Reino Animal. Vimos, também, que, consoante a mais moderna classificação, há treze graus no Reino Animal: três classes de radiados; três classes de moluscos; três classes de articulados; e quatro classes de vertebrados.
 
@@ -4499,21 +4423,17 @@ Essas treze Iniciações são representadas, simbolicamente, por Cristo e seus d
 
 Nas diversas escolas de Ciência Oculta os ritos de Iniciação variam, como também o que estabelecem como o número de Iniciações, mas isso é apenas uma questão de classificação. Observar-se-á que as vagas descrições que podem ser dadas se tornam ainda mais vagas, à medida que avançamos cada vez mais alto nos graus de Iniciação. Ainda que se fale de sete ou mais graus, já da sexta Iniciação quase nada é dito e, absolutamente, nada das que estão mais acima. A razão disso advém de outra divisão: os seis passos de “Preparação”, e as quatro Iniciações que conduzem o candidato ao final do Período Terrestre, ao Adeptado. Portanto, sempre deverá haver mais três, caso a filosofia da escola ou sociedade vá tão longe. No entanto, o autor não conhece ninguém, além dos Rosacruzes, que tenha algo a dizer sobre os três Períodos que precederam o Período Terrestre, a não ser a simples afirmação de que esses Períodos existiram. Contudo, nem são postos em relação muito definida com a nossa fase atual de existência. Da mesma forma, outros ensinamentos ocultos afirmam, simplesmente, que haverá mais três Esquemas de Evolução, porém, nenhum detalhe é fornecido. Certamente, nessas circunstâncias, as três últimas Iniciações não são mencionadas.
 
-O Diagrama 18 dá uma ideia da disposição dos Estratos terrestres, omitindo informações sobre o núcleo central para mostrar mais claramente a formação de correntes em forma de lemniscata no nono Estrato.
+O Diagrama 18 dá uma ideia da disposição dos Estratos terrestres, omitindo informações sobre o núcleo central para mostrar mais claramente a formação de correntes em forma de lemniscata no nono Estrato. No Diagrama 18 os Estratos são representados como se tivessem igual espessura, mas em realidade uns são muito mais delgados do que outros. Começando pelo mais externo, aparecem na seguinte ordem:
 
-Diagrama 18 – A Constituição da Terra!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+1\. Terra Mineral: é a crosta pétrea da Terra, com que lida a Geologia no tanto que lhe tem sido possível penetrá-la.
 
-No Diagrama 18 os Estratos são representados como se tivessem igual espessura, mas em realidade uns são muito mais delgados do que outros. Começando pelo mais externo, aparecem na seguinte ordem:
+2\. Estrato Fluídico: a matéria desse Estrato é mais fluídica que a da crosta exterior, mas não é líquida e sim parecida a uma pasta espessa. Tendo a propriedade da expansão, como a de um gás excessivamente explosivo, é mantida em seu lugar pela enorme pressão da crosta externa de modo que, se esta fosse removida, todo o Estrato fluídico desapareceria no espaço com uma tremenda explosão. Esses Estratos correspondem às Regiões Químicas e Etérica do Mundo Físico.
 
-1. Terra Mineral: é a crosta pétrea da Terra, com que lida a Geologia no tanto que lhe tem sido possível penetrá-la.
+3\. Estrato Vaporoso: no primeiro e no segundo Estratos não há realmente vida consciente. Já nesse existe uma corrente de vida que flui e pulsa continuamente, como no Mundo do Desejo que rodeia e interpenetra nossa Terra.
 
-2. Estrato Fluídico: a matéria desse Estrato é mais fluídica que a da crosta exterior, mas não é líquida e sim parecida a uma pasta espessa. Tendo a propriedade da expansão, como a de um gás excessivamente explosivo, é mantida em seu lugar pela enorme pressão da crosta externa de modo que, se esta fosse removida, todo o Estrato fluídico desapareceria no espaço com uma tremenda explosão. Esses Estratos correspondem às Regiões Químicas e Etérica do Mundo Físico.
+4\. Estrato Aquoso: nesse Estrato estão as possibilidades germinais de tudo quanto existe na superfície da Terra. Aqui estão as forças arquetípicas que se ocultam atrás dos Espíritos-Grupo, como também as forças arquetípicas dos minerais, porque esta é a expressão física direta da Região do Pensamento Concreto.
 
-3. Estrato Vaporoso: no primeiro e no segundo Estratos não há realmente vida consciente. Já nesse existe uma corrente de vida que flui e pulsa continuamente, como no Mundo do Desejo que rodeia e interpenetra nossa Terra.
-
-4. Estrato Aquoso: nesse Estrato estão as possibilidades germinais de tudo quanto existe na superfície da Terra. Aqui estão as forças arquetípicas que se ocultam atrás dos Espíritos-Grupo, como também as forças arquetípicas dos minerais, porque esta é a expressão física direta da Região do Pensamento Concreto.
-
-5. Estrato Germinal: os cientistas materialistas têm sido frustrados em seus esforços para descobrir a origem da vida, como surgiram coisas viventes de matéria antes morta.
+5\. Estrato Germinal: os cientistas materialistas têm sido frustrados em seus esforços para descobrir a origem da vida, como surgiram coisas viventes de matéria antes morta.
 
 Na realidade, e de acordo com a explicação oculta da evolução, a questão deveria ser como se originaram as coisas “mortas”. A vida existia antes das formas mortas. Ela construiu seus Corpos de substância vaporosa e sutil, muito antes de se condensar na crosta sólida da Terra. Só quando a Vida abandona as formas, podem estas se cristalizar, se tornando duras e mortas.
 
@@ -4521,7 +4441,7 @@ O carvão nada mais é do que Corpo vegetal cristalizado. Os corais são também
 
 Nesse quinto Estrato existe a fonte primordial da vida, da qual brotou o impulso que construiu todas as formas da Terra. Corresponde à Região do Pensamento Abstrato.
 
-- Estrato Ígneo: por estranho que pareça esse Estrato possui sensações. O prazer e a dor, a simpatia e a antipatia produzem aqui seu efeito sobre a Terra. Geralmente se supõe que a Terra, em nenhuma circunstância, pode ter qualquer sensação. Contudo, quando o cientista ocultista observa colher o grão maduro, cortar as flores ou, no outono, colher as frutas das árvores, sabe do prazer experimentado pela Terra. É semelhante ao prazer que a vaca sente quando seus úberes cheios são aliviados pelo bezerro sugador. A Terra experimenta o deleite de nutrir sua progênie de Formas, e esse deleite culmina no tempo da colheita.
+6\. Estrato Ígneo: por estranho que pareça esse Estrato possui sensações. O prazer e a dor, a simpatia e a antipatia produzem aqui seu efeito sobre a Terra. Geralmente se supõe que a Terra, em nenhuma circunstância, pode ter qualquer sensação. Contudo, quando o cientista ocultista observa colher o grão maduro, cortar as flores ou, no outono, colher as frutas das árvores, sabe do prazer experimentado pela Terra. É semelhante ao prazer que a vaca sente quando seus úberes cheios são aliviados pelo bezerro sugador. A Terra experimenta o deleite de nutrir sua progênie de Formas, e esse deleite culmina no tempo da colheita.
 
 Por outro lado, quando se arrancam as plantas pela raiz, fica patente ao cientista-ocultista que a Terra sente dor. Por essa razão, ele não come alimentos vegetais que cresçam debaixo da Terra. Em primeiro lugar, porque esses vegetais são plenos de força terrestre e carentes de força solar; segundo, por terem sido extraídos com as raízes, são venenosos. A única exceção a esta regra é a batata, porque em seus primórdios crescia na superfície da terra, e só em tempos relativamente recentes começou a crescer debaixo do solo. Os ocultistas fazem o possível para alimentar seus Corpos com os frutos que crescem ao Sol, pois estes contêm mais força solar, e sua colheita não causa sofrimento algum à Terra.
 
@@ -4531,15 +4451,17 @@ Assim como a sensação, nos animais e no ser humano, é devida a seus Corpos Vi
 
 Contudo, na medida em que a evolução prossiga e o ser humano aprenda as lições correspondentes aos extremos de concretização, a Terra se tornar-se-á mais branda e seu espírito se libertar-se-á cada vez mais. Foi isto o que S. Paulo quis significar quando disse que toda a criação geme e sofre, esperando o dia da libertação.
 
-- Estrato Refletor: esta camada da Terra corresponde ao Mundo do Espírito Divino. Para aqueles que não estão familiarizados com o que na Ciência Oculta se conhece como “Os Sete Segredos Indizíveis”, ou que não tenham pelo menos um vislumbre de sua importância, as propriedades desse Estrato parecerão particularmente absurdas e grotescas. Nele, todas as forças que conhecemos como “Leis da Natureza” existem como forças morais, ou melhor, imorais. No princípio da existência consciente do ser humano, essas forças eram piores do que agora. Contudo, tudo indica que tais forças melhoram com o progresso moral da Humanidade, e que qualquer falha moral tem certa tendência a desencadear essas forças da Natureza produzindo devastações sobre a Terra, enquanto a busca de elevados ideais torna-as menos inimigas do ser humano.
+7\. Estrato Refletor: esta camada da Terra corresponde ao Mundo do Espírito Divino. Para aqueles que não estão familiarizados com o que na Ciência Oculta se conhece como “Os Sete Segredos Indizíveis”, ou que não tenham pelo menos um vislumbre de sua importância, as propriedades desse Estrato parecerão particularmente absurdas e grotescas. Nele, todas as forças que conhecemos como “Leis da Natureza” existem como forças morais, ou melhor, imorais. No princípio da existência consciente do ser humano, essas forças eram piores do que agora. Contudo, tudo indica que tais forças melhoram com o progresso moral da Humanidade, e que qualquer falha moral tem certa tendência a desencadear essas forças da Natureza produzindo devastações sobre a Terra, enquanto a busca de elevados ideais torna-as menos inimigas do ser humano.
 
 Por conseguinte, as forças desse Estrato são, em qualquer época, um reflexo exato do estado moral da Humanidade. Do ponto de vista oculto, a “mão de Deus” que se abateu sobre Sodoma e Gomorra[3] não é uma tola superstição, pois, tão certo como há uma responsabilidade individual ante a Lei de Consequência que traz a cada pessoa o justo resultado de suas ações, sejam boas ou más, assim também existe uma responsabilidade coletiva ou nacional, que atrai sobre os grupos humanos resultados equivalentes aos atos efetuados em conjunto. As forças da natureza são, em geral, os agentes de tal justiça retribuidora, causando inundações ou terremotos a um grupo, ou a benéfica formação de óleos ou carvões a outro, de acordo com os seus merecimentos.
 
-- Estrato Atômico: é o nome dado pelos Rosacruzes ao oitavo Estrato da Terra, a expressão do Mundo dos Espíritos Virginais. Parece ter a propriedade de multiplicar as coisas que nele estão, porém, isto se aplica somente às coisas já formadas definitivamente. Uma peça informe de madeira ou uma pedra bruta não tem existência ali, mas qualquer coisa já modelada ou que tenha vida e forma, tal como uma flor ou uma pintura, é multiplicada nesse Estrato em grau surpreendente.
+() - [3] N.R.: duas cidades que foram destruídas por Deus com fogo e enxofre descido do céu, devido à prática de atos imorais.
 
-- Expressão Material do Espírito Terrestre: aqui existem correntes em forma lemniscata, intimamente relacionadas com o cérebro, o coração e os órgãos sexuais da Raça humana. Corresponde ao Mundo de Deus.
+8\. Estrato Atômico: é o nome dado pelos Rosacruzes ao oitavo Estrato da Terra, a expressão do Mundo dos Espíritos Virginais. Parece ter a propriedade de multiplicar as coisas que nele estão, porém, isto se aplica somente às coisas já formadas definitivamente. Uma peça informe de madeira ou uma pedra bruta não tem existência ali, mas qualquer coisa já modelada ou que tenha vida e forma, tal como uma flor ou uma pintura, é multiplicada nesse Estrato em grau surpreendente.
 
-- Centro do Ser do Espírito Terrestre: nada mais pode ser dito presentemente a respeito, salvo que é a semente primeira e última de tudo quanto existe tanto dentro como sobre a Terra, e corresponde ao Absoluto.
+9\. Expressão Material do Espírito Terrestre: aqui existem correntes em forma lemniscata, intimamente relacionadas com o cérebro, o coração e os órgãos sexuais da Raça humana. Corresponde ao Mundo de Deus.
+
+10\. Centro do Ser do Espírito Terrestre: nada mais pode ser dito presentemente a respeito, salvo que é a semente primeira e última de tudo quanto existe tanto dentro como sobre a Terra, e corresponde ao Absoluto.
 
 Do sexto Estrato, o ígneo, até a superfície da Terra, há certo número de orifícios em diferentes lugares. Seus terminais na superfície são chamados “crateras vulcânicas”. Quando as forças da Natureza do sétimo Estrato são desencadeadas de modo a poderem se expressar por meio de uma erupção vulcânica, elas ativam o Estrato ígneo (o sexto), e então a agitação se exterioriza através da cratera. A maior parte do material é tomada da substância do segundo Estrato, por ser esse Estrato a contraparte mais densa do sexto Estrato, assim como o Corpo Vital, o segundo veículo do ser humano, é a contraparte mais densa do Espírito de Vida, o sexto princípio. Esse Estrato fluídico, com sua qualidade expansiva e sumamente explosiva, assegura um suprimento ilimitado de material no local da erupção. O contato com a atmosfera exterior endurece a parte que não se volatiliza no espaço, formando a lava e a poeira vulcânicas. E da mesma maneira que o sangue ao fluir de uma ferida se coagula e estanca, assim também a lava, ao final da erupção, cerra o caminho às partes internas da Terra.
 
@@ -4553,7 +4475,11 @@ Nos primeiros mil anos ocorreram seis erupções; nos seguintes mil anos acontec
 
 Do número total de 18 erupções, as nove primeiras ocorreram na assim chamada “Idade das Trevas”[4], isto é, nos 1.600 anos durante o qual o Mundo Ocidental foi dominado pelos comumente chamados “Bárbaros” pela Igreja Romana. As restantes se sucederam nos últimos trezentos anos, durante os quais o advento e desenvolvimento da ciência moderna, com suas tendências materialistas, quase apagaram os últimos vestígios de espiritualidade, de modo particular na última metade do Século XIX. Portanto, as erupções desse período compreendem quase um terço do número total das ocorridas em nossa Era.
 
+() - [4] N.R.: A “idade das trevas” é uma periodização histórica que enfatiza as deteriorações demográfica, cultural e econômica que ocorreram na Europa consequentes do declínio do Império Romano do Ocidente. O rótulo emprega o tradicional embate visual luz-versus-escuridão para contrastar a “escuridão” deste período com os períodos anteriores e posteriores de “luz”. É caracterizado por uma relativa escassez de registros históricos e outros escritos, pelo menos para algumas áreas da Europa, tornando-o, assim, obscuro para os historiadores. O termo “Era das Trevas” deriva do Latim saeculum obscurum, originalmente aplicado por Caesar Baronius em 1602 a uma época tumultuada entre os séculos V e IX.
+
 Para contrabalançar essa influência desmoralizadora, uma grande quantidade de informação oculta foi fornecida, durante todo esse tempo, pelos Irmãos Maiores, que estão sempre trabalhando pelo bem da Humanidade. Pensou-se que oferecendo esses conhecimentos e educando os poucos que ainda queriam recebê-los, seria possível deter a maré de materialismo a qual, caso contrário, poderia produzir consequências muito sérias aos seus partidários. Com efeito, tendo negado durante tanto tempo a existência espiritual, poderão não serem capazes de manter seu equilíbrio ao perceberem que, embora tendo sido privados do Corpo Denso pela morte, eles continuam mais vivos do que nunca. Tais pessoas podem ter de suportar um destino demasiado triste para ser contemplado com serenidade. Uma das causas da terrível “peste branca”[5] é esse materialismo, talvez não reconhecível na encarnação atual, mas resultado de crenças e afirmações materialistas anteriores.
+
+() - [5] N.R.: Também chamada de tísica pulmonar ou ‘doença do peito’ ou tuberculose.
 
 Falávamos da morte de Plínio, o Velho, quando da destruição de Pompéia. É interessante seguir o destino de tal cientista, não tanto pelo indivíduo em si, mas para compreendermos como o cientista ocultista lê a Memória da Natureza, de como as coisas nela se imprimem e os efeitos das características passadas sobre nossas tendências atuais.
 
@@ -4565,59 +4491,47 @@ Mesmer, enviado pelos Irmãos Maiores, foi mais do que ridicularizado. Contudo, 
 
 Há vinte anos a senhora Blavatsky, fidelíssima discípula dos Mestres Orientais, disse que a Terra tinha um terceiro movimento além dos dois que produzem o dia, a noite e as estações. Indicou também que a inclinação do eixo da Terra é causada por um movimento que, há seu tempo, levará o polo norte para onde atualmente está o equador, e mais tarde ainda o levará ao lugar ocupado agora pelo polo sul. Isto, afirmou ela, era conhecido pelos antigos egípcios, e se referiu ao famoso planisfério de Dendera[6], onde se encontram registradas essas três Revoluções. Tais afirmações, juntamente com toda a sua insuperável obra “A Doutrina Secreta”, foram escarnecidas.
 
+() - [6] N.R.: Baixo Relevo do Antigo Egito esculpido no teto do pórtico de uma câmara dedicada à Osíris no templo de Hathor de Dendera, no Egito.
+
 Há poucos anos atrás um astrônomo, Sr. G. E. Sutcliffe[7], de Bombaim, descobriu e demonstrou, matematicamente, que Laplace[8] havia se equivocado em seus cálculos. Seu descobrimento e a retificação do dito erro confirmaram por demonstrações matemáticas a existência do terceiro movimento da Terra, conforme revelado pela senhora Blavatsky. Isto explica o fato estranho de se encontrarem plantas tropicais e fósseis nas regiões polares, pois tal movimento produziria necessariamente, há seu tempo, períodos tropicais e glaciais em todas as partes da Terra, correspondentes às mudanças de posição em relação ao Sol. O Sr. Sutcliffe enviou sua carta e as demonstrações a “Nature”[9], mas essa revista se recusou a publicá-las. Quando o autor tornou pública sua descoberta por meio de um folheto, se levantou contra ele uma tremenda onda de protestos. Acontece que o Sr. Sutcliffe era um profundo e reconhecido Estudante de “A Doutrina Secreta”. Isto explica a recepção hostil e as consequências inevitáveis que teve a sua descoberta.
+
+() - [7] G. E. Sutcliffe – astrônomo indiano
+
+() - [8] N.R.: Pierre Simon Laplace (1749-1827) – matemático, astrônomo e físico francês.
+
+() - [9] N.R.: Nature: Revista mensal que ilustrava artigos populares sobre a natureza.
 
 Mais tarde, todavia, um francês que não era astrônomo, mas sim mecânico, construiu um aparelho que demonstrava ampla possibilidade da existência de tal movimento. O aparelho foi exibido na “Louisiana Purchase Exhibition”, de Saint Louis[10], e foi aprovado calorosamente por M. Camille Flammarion[11] como digno de investigação. Aqui já se via algo “concreto”, algo mecânico, e o editor do “The Monist[12]“, ainda que descrevesse o inventor como um ser humano que trabalhava sob “místicas ilusões” (por acreditar que os antigos egípcios conheciam esse terceiro movimento), esqueceu magnanimamente o fato e disse que isso não lhe tinha feito perder a fé na teoria de M. Beziau[13]. Publicou então um esclarecimento e um ensaio de M. Beziau, em que descrevia o movimento e seus efeitos sobre a superfície da Terra, em termos análogos aos empregados pela senhora Blavatsky e o Sr. Sutcliffe. Como M. Beziau não estava incluído categoricamente no rol dos ocultistas, sua descoberta pôde ser aceita.
 
+() - [10] N.R.: Exposição Universal de 1904 em Saint Louis, Louisiana, EUA
+
+() - [11] N.R.: Nicolas Camille Flammarion (1842-1925) – astrônomo, pesquisador psíquico e divulgador científico francês.
+
+() - [12] N.R.: Fundado em 1888, por Edward C. Hegeler, é um dos mais antigos e importantes jornais de filosofia.
+
+() - [13] N.R.: M. Pierre Bizeau – artigo publicado no The Monist: The Third Movement of the Earth – 1908.
+
 Podemos citar muitos exemplos de ensinamentos ocultos que mais tarde foram corroborados pela ciência. Um deles é a teoria atômica, defendida nas filosofias gregas e depois em “A Doutrina Secreta”, mas só “descoberta” em 1897, pelo professor Thompson[14].
+
+() - [14] N.R.: John “J. J.” Thomson (1856-1940) – físico inglês
 
 Na inestimável obra de A. P. Sinnett [15]– “The Growth of the Soul”[16] publicada em 1896, o autor afirmava que há dois Planetas além da órbita de Netuno, dos quais, ele acreditava que só um seria descoberto pelos astrônomos modernos. Em “Nature” de agosto de 1906, Professor Barnard[17] afirmava que, por meio de um refrator Lick de 36 polegadas, havia descoberto dito Planeta em 1892. Nada de mais nisso, entretanto ele esperou catorze anos para anunciar sua descoberta! Não pretendemos levantar nenhuma questão sobre o assunto. O importante é que o Planeta existe, e que o livro do Sr. Sinnett o anunciava dez anos antes de o Professor Barnard reivindicar a prioridade da sua descoberta. É provável que anunciar a descoberta de um novo Planeta antes de 1906 pudesse ter perturbado alguma teoria popularmente aceita!
 
+() - [15] N.R.: Alfred Percy Sinnett (1840-1921) – escrito e teósofo inglês
+
+() - [16] N.R.: O Crescimento da Alma
+
+() - [17] N.R.: Edward Emerson Barnard (1857-1923) – astrônomo americano
+
 Há muitas teorias semelhantes. A teoria de Copérnico[18] não é de todo exata, assim como há muitos fatos que a elogiada Teoria Nebular por si só não explica. Tycho Brahe[19], o famoso astrônomo dinamarquês, se recusou a aceitar a teoria de Copérnico. Tinha muito boas razões para ser fiel à teoria de Ptolomeu[20], pois, como dizia, através desta os movimentos dos Planetas são vistos corretamente, enquanto pela teoria de Copérnico é necessário se empregar uma Tabela de correções. O sistema de Ptolomeu é correto do ponto de vista do Mundo do Desejo e tem aspectos que são necessários no Mundo Físico.
 
+() - [18] N.R.: Nicolau Copérnico (1473-1543) – astrônomo e matemático polonês
+
+() - [19] N.R.: Tycho Brahe (1546-1601) – astrônomo dinamarquês
+
+() - [20] N.R.: Ptolomeu (90-?) – Cláudio Ptolemeu ou apenas Ptolemeu ou Ptolomeu, cientista grego: trabalhos em matemática, astrologia, astronomia, geografia e cartografia.
+
 Para muitos, as afirmações feitas nas páginas anteriores podem ser consideradas fantásticas. Que seja assim. Tempo virá em que todos os seres humanos possuirão os conhecimentos aqui oferecidos. Esse livro se destina aos poucos que, tendo libertado suas Mentes dos grilhões da ciência e da Religião ortodoxa, estão prontos a aceitá-lo, até que provem estar ele errado.
-
-[1] N.R.: Livro do Apocalipse
-
-[2] N.R.: Ap 13:18
-
-[3] N.R.: duas cidades que foram destruídas por Deus com fogo e enxofre descido do céu, devido à prática de atos imorais.
-
-[4] N.R.: A “idade das trevas” é uma periodização histórica que enfatiza as deteriorações demográfica, cultural e econômica que ocorreram na Europa consequentes do declínio do Império Romano do Ocidente. O rótulo emprega o tradicional embate visual luz-versus-escuridão para contrastar a “escuridão” deste período com os períodos anteriores e posteriores de “luz”. É caracterizado por uma relativa escassez de registros históricos e outros escritos, pelo menos para algumas áreas da Europa, tornando-o, assim, obscuro para os historiadores. O termo “Era das Trevas” deriva do Latim saeculum obscurum, originalmente aplicado por Caesar Baronius em 1602 a uma época tumultuada entre os séculos V e IX.
-
-[5] N.R.: Também chamada de tísica pulmonar ou ‘doença do peito’ ou tuberculose.
-
-[6] N.R.: Baixo Relevo do Antigo Egito esculpido no teto do pórtico de uma câmara dedicada à Osíris no templo de Hathor de Dendera, no Egito.
-
-[7] G. E. Sutcliffe – astrônomo indiano
-
-[8] N.R.: Pierre Simon Laplace (1749-1827) – matemático, astrônomo e físico francês.
-
-[9] N.R.: Nature: Revista mensal que ilustrava artigos populares sobre a natureza.
-
-[10] N.R.: Exposição Universal de 1904 em Saint Louis, Louisiana, EUA
-
-[11] N.R.: Nicolas Camille Flammarion (1842-1925) – astrônomo, pesquisador psíquico e divulgador científico francês.
-
-[12] N.R.: Fundado em 1888, por Edward C. Hegeler, é um dos mais antigos e importantes jornais de filosofia.
-
-[13] N.R.: M. Pierre Bizeau – artigo publicado no The Monist: The Third Movement of the Earth – 1908.
-
-[14] N.R.: John “J. J.” Thomson (1856-1940) – físico inglês
-
-[15] N.R.: Alfred Percy Sinnett (1840-1921) – escrito e teósofo inglês
-
-[16] N.R.: O Crescimento da Alma
-
-[17] N.R.: Edward Emerson Barnard (1857-1923) – astrônomo americano
-
-[18] N.R.: Nicolau Copérnico (1473-1543) – astrônomo e matemático polonês
-
-[19] N.R.: Tycho Brahe (1546-1601) – astrônomo dinamarquês
-
-[20] N.R.: Ptolomeu (90-?) – Cláudio Ptolemeu ou apenas Ptolemeu ou Ptolomeu, cientista grego: trabalhos em matemática, astrologia, astronomia, geografia e cartografia.
-
-***************************************************************************************************************
 
 ### <h3 id="chapter-19">Capítulo XIX – Christian Rosenkreuz e a Ordem dos Rosacruzes</h3>
 
@@ -4657,21 +4571,27 @@ Muitos séculos decorreram desde o seu nascimento como Christian Rosenkreuz, o F
 
 Trabalhou com os alquimistas séculos antes do advento da ciência moderna. Foi ele que, por um intermediário, inspiraram as, agora mutiladas, obras de Bacon[1]. Jacob Boehme[2] e outros receberam dele a inspiração que tão espiritualmente iluminou suas obras. Nos trabalhos do imortal Goethe[3] e nas obras-primas de Wagner[4] encontramos a mesma influência. Todos os espíritos intrépidos, que se recusam se subordinar a qualquer ciência ou Religião ortodoxa, que fogem das escravidões e procuram penetrar nos domínios espirituais sem pretensões de glória ou de vaidade, tiram sua inspiração da mesma fonte, como fez e faz o grande espírito que animou Christian Rosenkreuz.
 
-Seu próprio nome é a Corporificação da maneira e dos meios pelos quais o ser humano atual é transformado em Divino “Super-homem”. Esse símbolo,
+() - [1] N.R.: Francis Bacon (1561-1626) – político, filósofo e ensaísta inglês
 
-“Christian Rosen Kreuz”
+() - [2] N.R.: por vezes grafado como Jacob Boëhme (1575-1624) – filósofo e místico luterano alemão
 
-(O) Cristão Rosa Cruz
+() - [3] N.R.: Johann Wolfgang von Goethe (1749-1832) –  autor e estadista alemão que também fez incursões pelo campo da ciência natural.
 
-… mostra o fim e o objetivo da evolução humana; o caminho a ser percorrido e os meios pelos quais alcançará essa meta. A cruz negra, os galhos verdes da planta que a entrelaçam, os espinhos e as rosas vermelho-sangue ocultam a solução do Mistério do Mundo: a evolução passada do ser humano, a sua constituição presente e, particularmente, o segredo do seu futuro desenvolvimento.
+() - [4] N.R.: Wilhelm Richard Wagner (1813-1883) – maestro, compositor, diretor de teatro e ensaísta alemão
+
+Seu próprio nome é a Corporificação da maneira e dos meios pelos quais o ser humano atual é transformado em Divino “Super-homem”. Esse símbolo, “Christian Rosen Kreuz” (O) Cristão Rosa Cruz … mostra o fim e o objetivo da evolução humana; o caminho a ser percorrido e os meios pelos quais alcançará essa meta. A cruz negra, os galhos verdes da planta que a entrelaçam, os espinhos e as rosas vermelho-sangue ocultam a solução do Mistério do Mundo: a evolução passada do ser humano, a sua constituição presente e, particularmente, o segredo do seu futuro desenvolvimento.
 
 Esse segredo se oculta do profano, mas é revelado ao Iniciado tanto mais claramente quanto mais esse se esforce, dia a dia, em construir para si mesmo a mais valiosa de todas as gemas, a Pedra Filosofal – mais preciosa que o “Velocino de Ouro”[5]; mais preciosa ainda do que todas as riquezas terrestres! Isso lhe recorda como a Humanidade, em sua ignorância, está malgastando, a todo instante, o autêntico material concreto que poderia ser usado na formação desse tesouro inestimável.
+
+() - [5] N.R.: na mitologia grega é a lã de ouro do carneiro alado Crisómalo; ele é Áries, o primeiro Signo astrológico do Zodíaco; segundo Higino – autor romano da época de Augusto – acreditava-se que a constelação era o carneiro que carregou Frixo e Hele através do Helesponto. Este carneiro tinha pelo de ouro, e foi sacrificado a Júpiter quando Frixo chegou à corte do rei Eetes.
 
 Para mantê-lo firme – em sua confiabilidade, determinação e aderência – e verdadeiro, através de todas as adversidades, a Rosacruz se ergue ante ele como uma inspiração, como a gloriosa realização reservada para aquele que vence, e aponta para o Cristo como a Estrela da Esperança, “os primeiros frutos”, que lavrou essa maravilhosa Pedra, enquanto habitava no Corpo de Jesus.
 
 Após ser investigado se descobriu que em todos os sistemas religiosos sempre houve um ensinamento reservado ao sacerdócio, não acessível à multidão. Cristo também falou ao povo em parábolas, mas explicou o significado que ocultavam essas parábolas só aos Discípulos, lhes proporcionando, assim, uma compreensão mais profunda e adequada às suas Mentes desenvolvidas.
 
 S. Paulo dava “leite” às criancinhas, ou membros mais novos da comunidade, mas “carne”[6] para os fortes, os que tinham estudado mais profundamente. Assim, há sempre um ensinamento interno e um ensinamento externo, e esses ensinamentos internos foram fornecidos para as, assim chamadas, Escolas de Mistérios, as quais se modificam de tempos em tempos a fim de se adaptarem às necessidades dos povos entre os quais se destinam a operar.
+
+() - [6] N.R.: ICor 3:2
 
 A Ordem dos Rosacruzes não é meramente uma sociedade secreta; é uma das Escolas de Mistérios, e os Irmãos são Hierofantes dos Mistérios Menores, Guardiões dos Sagrados Ensinamentos e um Poder espiritual muito mais potente na vida do Mundo Ocidental do que qualquer governo visível, se bem que os Irmãos Maiores não interferem com a Humanidade a ponto de privá-la de seu livre arbítrio.
 
@@ -4717,9 +4637,9 @@ Os Mistérios Menores dizem respeito somente à evolução da Humanidade durante
 
 Tendo aprendido a lição praticamente, tal como descrita no Capítulo X, o candidato adquiriu conhecimento direto sobre esse assunto, e se pôs em contato direto com as Hierarquias Criadoras em sua atividade com e sobre o ser humano. se tornou assim capaz de apreciar seus esforços benéficos no Mundo e, até certo ponto, de se pôr em linha com eles, se convertendo, de fato, num colaborador.
 
-Quando chega o tempo de passar ao segundo grau, a ele é solicitado dirigir sua atenção às condições da segunda Revolução do Período Terrestre, conforme registradas na Memória da Natureza. Então, em plena consciência, observa os progressos alcançados nesse tempo pelos Espíritos Virginais, tal como Peter Ibbetson (o herói da obra “Peter Ibbetson”, de George du Maurier[7], cuja leitura recomendamos por ser uma descrição gráfica de certas fases de subconsciência) observava sua vida infantil durante as noites em que “sonhava de verdade”.
+Quando chega o tempo de passar ao segundo grau, a ele é solicitado dirigir sua atenção às condições da segunda Revolução do Período Terrestre, conforme registradas na Memória da Natureza. Então, em plena consciência, observa os progressos alcançados nesse tempo pelos Espíritos Virginais, tal como Peter Ibbetson (o herói da obra “Peter Ibbetson”, de George du Maurier[7], cuja leitura recomendamos por ser uma descrição gráfica de certas fases de subconsciência) observava sua vida infantil durante as noites em que “sonhava de verdade”. No terceiro grau o discípulo segue a evolução da terceira Revolução – ou Lunar – e no quarto grau vê os progressos feitos na metade da quarta Revolução, metade acabada de passar.
 
-No terceiro grau o discípulo segue a evolução da terceira Revolução – ou Lunar – e no quarto grau vê os progressos feitos na metade da quarta Revolução, metade acabada de passar.
+() - [7] N.R.: George du Maurier (1834-1896) – cartunista e autor franco-britânico.
 
 Há, porém, outro passo a mais em cada grau: o discípulo vê também, além do trabalho executado em cada Revolução, a obra realizada na época correspondente durante a nossa estada no Globo D, a Terra.
 
@@ -4753,7 +4673,11 @@ Mas, e esse é um “Mas” muito importante: os Rosacruzes não consideram a co
 
 Com o objetivo de promulgar esse ensinamento, foi organizada a Fraternidade Rosacruz. Qualquer pessoa, desde que não seja hipnotizador, ou que seja por profissão: médium, vidente, quiromante ou astrólogo, pode se inscrever como Estudante do Curso Preliminar sedirigindo à Secretaria Geral[8]. Para a Iniciação não há taxas ou outras obrigações. O dinheiro não pode comprar ensinamentos: o avanço depende do mérito.
 
+() - [8] N.T.: Atualmente, entrando aqui: https://fraternidaderosacruz.com/category/sobre-a-fraternidade/estude-filosofia-astrologia-espiritual-e-biblia-em-casa/como-se-inscrever/  e seguindo as instruções.
+
 Depois de completar o Curso Preliminar, o Estudante é matriculado como Estudante Regular por um período de dois anos. Findo esse, caso haja se compenetrado da verdade dos Ensinamentos Rosacruzes, e se preparado para cortar todos os laços com qualquer outra ordem oculta ou religiosa – se excetuando as Igrejas Cristãs e Ordens Fraternais[9] – pode assumir o Compromisso, que o admite no grau de Probacionista.
+
+() - [9] N.T.: Religiões Católica ou Protestante que professam o Cristianismo.
 
 Não pretendemos insinuar, no parágrafo anterior, que as demais escolas de ocultismo não contam. Longe disso. Muitos caminhos conduzem a Roma, mas chegaremos com menos esforço seguindo por um só deles do que ziguezagueando de um para outro. Primeiramente porque nosso tempo e nossas energias são limitados e, além disso, reduzidos por deveres familiares e sociais que não devemos descuidar para atender ao próprio desenvolvimento. A fim de economizar o mínimo de energia de que legitimamente gastaríamos para nós mesmos, e evitar a perda dos poucos momentos vagos que temos à nossa disposição, é que os líderes insistem para renunciarmos a todas as demais ordens.
 
@@ -4767,9 +4691,27 @@ Mesmo as reuniões em que se mantenha uma atitude mental positiva não são acon
 
 Portanto, todo Probacionista da Fraternidade Rosacruz efetua seus Exercícios Esotéricos sozinho, no isolamento do seu lar. Seguindo esse método, se obtêm resultados mais lentamente. Porém, quando tais resultados aparecerem, manifestar-se-ão como poderes cultivados por ele mesmo, e poderão ser empregados independentemente dos demais. Além disso, os métodos Rosacruzes constroem o caráter, ao mesmo tempo em que desenvolvem as faculdades espirituais, resguardando assim o Discípulo da tentação de perverter seus poderes divinos em busca de prestígio mundano.
 
-Quando o Probacionista tenha cumprido os requisitos exigidos e completado o prazo de provação, pode enviar um pedido de instrução individual aos Irmãos Maiores, por meio do Secretário Geral.
+Quando o Probacionista tenha cumprido os requisitos exigidos e completado o prazo de provação, pode enviar um pedido de instrução individual aos Irmãos Maiores, por meio do Secretário Geral. Quando esse pedido foi concedido o Probacionista se torna um Discípulo e está gradualmente habilitado para o trabalho como um Auxiliar Invisível.
 
-Quando esse pedido foi concedido o Probacionista se torna um Discípulo e está gradualmente habilitado para o trabalho como um Auxiliar Invisível.
+() - Incluído em edições posteriores inglesas e brasileiras:
+
+#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">A Sede Internacional da Fraternidade Rosacruz</h4>
+
+Tendo a Fraternidade Rosacruz sido fundada para promulgar os ensinamentos dados nesse livro, e para auxiliar os Aspirantes no caminho do progresso, se tornou necessário sediá-la num lugar permanente que facilitasse o trabalho requerido. Com esse objetivo foi comprada uma gleba de terra na cidade de Oceanside, Califórnia, 90 milhas ao Sul de Los Angeles e 40 milhas ao norte de San Diego, a cidade mais ao sudoeste dos Estados Unidos.
+
+Essa gleba, situada numa elevação, descortina a oeste, maravilhosa paisagem do grande Oceano Pacífico, e a leste lindas montanhas cobertas de neve.
+
+O sul da Califórnia oferece excepcionais oportunidades para crescimento espiritual porque o Éter contido em sua atmosfera é mais concentrado do que em qualquer outra parte do mundo. A esse respeito Mount Ecclesia, como se chama a Sede da Fraternidade Rosacruz, é particularmente favorecida.
+
+#### <h4 id="our-buildings">Os Edifícios</h4>
+
+O trabalho começou no fim de 1911. Até aqui (1978), numerosas construções foram erguidas, algumas das quais não mais existem. A Pro-Ecclesia, ou Capela, na qual são levados a efeito diariamente dois serviços de 15 minutos desde a sua consagração, em dezembro de 1913, foi totalmente reformada em 1962. Um serviço devocional com conferências continua a ser efetuado aos domingos. Um Edifício de Administração com dois andares foi terminado em 1917, e reformado em 1962. No segundo andar estão as Secretarias de vários departamentos: Esotérico, dos Cursos por Correspondência, Editorial, de Línguas Estrangeiras e Contábil. No primeiro andar se situam os Departamentos de Expedição e a Oficina Impressora, onde as Lições, a Revista “Rays from the Rose Cross”, os panfletos, etc., são impressos. Em 1972 foi instalada uma impressora “off-set”.
+
+No Refeitório, construído em 1914, ampliado nos anos 30 e renovado em 1962, são servidos pratos vegetarianos. O Templo de Cura, onde um serviço de cura é efetuado todas as noites, foi concluído em 1920. A Hospedaria Rosacruz, reservada aos visitantes e certos funcionários, foi construída em 1924. Presentemente vem sendo muito utilizada na estocagem de livros. O Prédio da Enfermaria foi levantado em 1939 e usado por alguns anos para o tratamento de enfermos portadores de doenças não contagiosas. Agora é a Casa do Visitante. Numerosas habitações individuais, construídas a partir de 1962, algumas já reformadas, são ocupadas por funcionários. A Sede do Departamento de Cura foi construída em 1940. Aqui os trabalhos de cura são conduzidos pelos secretários.
+
+#### <h4 id="the-correspondence-school">Cursos Por Correspondência</h4>
+
+Além de suas publicações constantes da Biblioteca Rosacruz, a Fraternidade proporciona, gratuitamente, cursos por correspondência, para aqueles que aspiram crescimento espiritual e a iluminação pelos estudos, na compreensão de matérias mais avançadas, que capacitarão o Estudante a penetrar mais profundamente nos mistérios da Vida e do Ser.
 
 #### <h4 id="symbolism-of-the-rose-cross">O Simbolismo da Rosacruz</h4>
 
@@ -4795,85 +4737,25 @@ Como qualquer outra flor, a rosa é o órgão gerador da planta. Seu caule verde
 
 Por isso os Rosacruzes[10] esperam, ardentemente, o dia em que as rosas floresçam na cruz da Humanidade; por isso os Irmãos Maiores saúdam a Alma Aspirante com as palavras de Saudação Rosacruz: “Que as Rosas Floresçam em Vossa Cruz”; e é por esse motivo que essa saudação é usada nas reuniões dos Núcleos da Fraternidade pelo oficiante do Ritual do dia, ocasião em que os Estudantes, Probacionistas e Discípulos presentesrespondem à saudação dizendo: “E na vossa também”.
 
+() - [10] N.R.: ou seja: os Irmãos Maiores da Ordem Rosacruz.
+
 Ao falar de sua purificação, S. João (IJo 3:9) diz que aquele que nasce de Deus não pode pecar, porque guarda dentro de si a sua semente. Para progredir é absolutamente necessário que o Aspirante seja casto. Todavia, se deve ter bem presente que a castidade absoluta não é exigida enquanto o ser humano não tenha alcançado o ponto em que esteja apto para as Grandes Iniciações, e que a perpetuação da Raça é um dever que temos para com o todo. Se estivermos aptos: mental, moral, financeira e fisicamente, podemos executar o ato da geração, não para gratificar a sensualidade, mas como um santo sacrifício oferecido no altar da Humanidade. Tampouco deve ser realizado austeramente, em repulsiva disposição mental, mas sim numa feliz entrega de si mesmo, pelo privilégio de oferecer a algum amigo que esteja desejando renascer, um Corpo e ambiente apropriados ao seu desenvolvimento. Desse modo estaremos também o ajudando a cultivar o florescimento das rosas em sua cruz.
 
-Incluído em edições posteriores inglesas e brasileiras:
+## Topical Index: Alphabetical List of Words Indexed
 
-#### <h4 id="">A Sede Internacional da Fraternidade Rosacruz</h4>
+The Topical Index is arranged with particular view to facilitate topical study, but at the same time alphabetical order has been adhered to as nearly as possible. We add an alphabetical list of the words indexed. 
 
-Tendo a Fraternidade Rosacruz sido fundada para promulgar os ensinamentos dados nesse livro, e para auxiliar os Aspirantes no caminho do progresso, se tornou necessário sediá-la num lugar permanente que facilitasse o trabalho requerido. Com esse objetivo foi comprada uma gleba de terra na cidade de Oceanside, Califórnia, 90 milhas ao Sul de Los Angeles e 40 milhas ao norte de San Diego, a cidade mais ao sudoeste dos Estados Unidos.
+Opposite each word in this list will be found a number, which refers to a page in the Index. On that page the word is grouped with others pertaining to the same topic. 
 
-Essa gleba, situada numa elevação, descortina a oeste, maravilhosa paisagem do grande Oceano Pacífico, e a leste lindas montanhas cobertas de neve.
+The student is particularly requested to note the consecutive arrangement of references. For instance, under the heading, "vital body," the first reference tells where that vehicle had its first inception, the last directs to a page which treats of its final spiritualization, and the intervening references point in orderly succession to the places where its gradual unfoldment is described. These references, in themselves, form an excellent syllabus of the vital body. 
 
-O sul da Califórnia oferece excepcionais oportunidades para crescimento espiritual porque o Éter contido em sua atmosfera é mais concentrado do que em qualquer outra parte do mundo. A esse respeito Mount Ecclesia, como se chama a Sede da Fraternidade Rosacruz, é particularmente favorecida.
+By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception will be found a most complete and exhaustive reference library, and we recommend students to study the Index as much as the book. The mere reading of references will often clear comprehension of a subject and reveal much that is hidden in a general reading of the book. 
 
-#### Os Edifícios
+[!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
 
-O trabalho começou no fim de 1911. Até aqui (1978), numerosas construções foram erguidas, algumas das quais não mais existem. A Pro-Ecclesia, ou Capela, na qual são levados a efeito diariamente dois serviços de 15 minutos desde a sua consagração, em dezembro de 1913, foi totalmente reformada em 1962. Um serviço devocional com conferências continua a ser efetuado aos domingos. Um Edifício de Administração com dois andares foi terminado em 1917, e reformado em 1962. No segundo andar estão as Secretarias de vários departamentos: Esotérico, dos Cursos por Correspondência, Editorial, de Línguas Estrangeiras e Contábil. No primeiro andar se situam os Departamentos de Expedição e a Oficina Impressora, onde as Lições, a Revista “Rays from the Rose Cross”, os panfletos, etc., são impressos. Em 1972 foi instalada uma impressora “off-set”.
+### <h3 id="addendum-a">Addendum A: Exercícios Noturno e Matinal Efetuados pelo Aspirante Rosacruz</h3>
 
-No Refeitório, construído em 1914, ampliado nos anos 30 e renovado em 1962, são servidos pratos vegetarianos. O Templo de Cura, onde um serviço de cura é efetuado todas as noites, foi concluído em 1920. A Hospedaria Rosacruz, reservada aos visitantes e certos funcionários, foi construída em 1924. Presentemente vem sendo muito utilizada na estocagem de livros. O Prédio da Enfermaria foi levantado em 1939 e usado por alguns anos para o tratamento de enfermos portadores de doenças não contagiosas. Agora é a Casa do Visitante. Numerosas habitações individuais, construídas a partir de 1962, algumas já reformadas, são ocupadas por funcionários. A Sede do Departamento de Cura foi construída em 1940. Aqui os trabalhos de cura são conduzidos pelos secretários.
-
-#### Cursos Por Correspondência
-
-Além de suas publicações constantes da Biblioteca Rosacruz, a Fraternidade proporciona, gratuitamente, cursos por correspondência, para aqueles que aspiram crescimento espiritual e a iluminação pelos estudos, na compreensão de matérias mais avançadas, que capacitarão o Estudante a penetrar mais profundamente nos mistérios da Vida e do Ser.
-
-#### Curso Preliminar de Filosofia
-
-Composto de 12 lições. Prepara o Estudante ao caminho da espiritualidade. Recebidas as respostas das lições, são estas examinadas, corrigidas e devolvidas ao Estudante com respostas impressas para sua comparação. Para esse curso se faz necessário o livro básico “Conceito Rosacruz do Cosmos”[11].
-
-#### Curso Suplementar de Filosofia
-
-Composto de 40 lições. São estas enviadas após a conclusão do Curso Preliminar, ocasião em que o Estudante se converte em Estudante Regular da Fraternidade Rosacruz. As lições têm também suas respostas devolvidas, depois de examinadas e corrigidas. Com esse curso, o Estudante ainda é inscrito na Sede Mundial – The Rosicrucian Fellowship – de onde também passa a receber correspondência. Depois de decorridos dois anos, o Estudante pode solicitar à Sede Mundial, o ingresso no Probacionismo, um caminho que proporciona estudos mais profundos.
-
-#### Curso de Estudos Bíblicos
-
-Composto de 28 lições, que serão devolvidas ao Estudante depois de examinadas e corrigidas.
-
-#### Curso de Astrologia Espiritual Educativa
-
-Elementar – composto de 26 lições
-
-Superior – composto de 12 lições
-
-Superior Suplementar composto de 13 lições.
-
-Todas as lições também são devolvidas ao Estudante depois de examinadas e corrigidas.
-
-Nota – Só depois de terminado o Curso Preliminar pode o Estudante, simultaneamente ou não, se inscrever nos demais cursos.
-
-Os cursos são ministrados nos idiomas: inglês, francês, alemão, italiano e espanhol, desde que solicitados a:
-
-The Rosicrucian Fellowship
-
-2222 Mission Avenue
-
-Oceanside, CA -92054 – U.S.A.
-
-Os mesmos cursos em português podem ser solicitados, no Brasil:
-
-Fraternidade Rosacruz em Campinas – SP
-
-Av. Francisco Glicério, 1326 – 8° andar – conj. 82
-
-Centro – 13012-100 – Campinas – SP – Brasil        
-
-E-mail: contato@fraternidaderosacruz.com – Tel.: 19 3886-3943
-
-ou
-
-Fraternidade Rosacruz em S. Paulo – SP
-
-Rua Asdrúbal do Nascimento, 196
-
-01316-030 – S. Paulo – SP – Brasil
-
-E-mail: esoteric@fraternidaderosacruz.com.br –Tel.: 11 3107-4740
-
-Todos os cursos são inteiramente gratuitos, visto que os gastos são cobertos pelas contribuições voluntárias, conforme os ditames do coração e as posses de cada um, cumprindo-se, assim, a lei de DAR e RECEBER.
-
-#### Exercícios Noturno e Matinal Efetuados pelo Aspirante Rosacruz
-
-##### O Exercício Noturno
+#### <h4 id="the-evening-exercise">O Exercício Noturno</h4>
 
 O exercício noturno, Retrospecção, é mais valioso do que qualquer outro método para adiantar o Aspirante no caminho da realização. Seu efeito é tão profundo que capacita a quem o pratica a aprender presentemente, não apenas as lições desta vida, mas também lições que normalmente estar-lhe-iam reservadas para vidas futuras.
 
@@ -4885,7 +4767,9 @@ O valor da Retrospecção é enorme – ultrapassa a imaginação. Em primeiro l
 
 “Os puros verão a Deus”[12], disse Cristo, e o Mestre abrirá prontamente os nossos olhos quando estivermos prontos para entrar no “Saguão do Saber”, o Mundo do Desejo, onde adquirimos nossas primeiras experiências de vida consciente sem o Corpo Denso.
 
-##### O Exercício Matinal
+() - [12] N.R.: Mt 5:8
+
+#### <h4 id="the-morning-exercise">O Exercício Matinal</h4>
 
 Concentração, o segundo exercício, deve ser realizado pela manhã, imediatamente depois que o Aspirante desperta. Não se deve levantar para abrir janelas nem fazer nenhum ato desnecessário. Se a posição do Corpo é confortável, deve relaxar imediatamente e começar a concentrar-se. Isto é muito importante, pois no momento de despertar, o espírito acaba de retornar do Mundo do Desejo, e nessa ocasião é mais fácil retomar o contato consciente com esse Mundo do que em qualquer outro momento do dia.
 
@@ -4897,6 +4781,8 @@ Atingido esse ponto de abstração, os centros de percepção do Corpo de Desejo
 
 O assunto da concentração pode ser qualquer ideal sublime e elevado, mas deve ser preferentemente de tal natureza que faça com que o Aspirante se afaste das coisas comuns dos sentidos, além do tempo e do espaço, e para isso não há melhor fórmula do que os cinco primeiros versículos do primeiro Capítulo do Evangelho de S. João[13]. Tomando-os como assunto de concentração, sentença por sentença, todas as manhãs, com o tempo proporcionará ao Aspirante uma maravilhosa percepção do princípio do nosso Universo e do método da criação – uma compreensão muito além da que se poderia obter através dos livros.
 
+() - [13] N.R.: “No princípio era o Verbo; e o Verbo estava com Deus; e o Verbo era Deus; Ele estava no princípio com Deus; Tudo que foi feito, foi feito por Ele; e nada do que tem sido feito, foi feito sem Ele; n’Ele estava a vida e a vida era a ‘luz dos homens’; a luz resplandece nas trevas; e as trevas não a compreenderam”.
+
 Depois de algum tempo, quando o Aspirante tenha aprendido a manter diante de si por uns cinco minutos ininterruptos o assunto em que se concentra, deve tentar abandonar abruptamente esse assunto, deixando a Mente em branco. Não deve pensar em nada mais, esperando simplesmente que alguma coisa preencha o vazio. No devido tempo, a visão de cenas do Mundo do Desejo preencherá o espaço vazio. Depois que o Aspirante tenha se acostumado a tal, poderá mandar que isto ou aquilo apareça diante de si. O que for, aparecerá, e então ele poderá investigá-lo à sua vontade.
 
 O importante, contudo, é que seguindo estas instruções, o Aspirante está se purificando; sua aura começará a brilhar e inevitavelmente atrairá a atenção do Mestre, o qual enviará alguém para ajudá-lo, onde necessário, a dar outro passo no caminho do progresso. Ainda que passem meses ou anos sem que apareçam resultados visíveis, estejamos certos de que nenhum esforço é feito em vão. Os Grandes Mestres veem e apreciam os nossos esforços. Eles estão exatamente tão ansiosos para terem a nossa ajuda quanto nós o estamos para servir. Podem também ver as razões da inconveniência de servirmos à Humanidade nesta vida. No entanto, algum dia as condições inibidoras terão passado e seremos admitidos à luz, onde poderemos ver por nós mesmos.
@@ -4905,68 +4791,99 @@ Diz uma antiga lenda que a procura de um tesouro deve ser feita no sossego da no
 
 Finalmente, evite considerar os exercícios como uma tarefa enfadonha. Repute-os em seu verdadeiro valor: eles são os nossos mais elevados privilégios. Somente quando assim considerados podemos lhes fazer justiça, e deles colher os mais amplos benefícios.
 
-Conforme publicação na 3ª edição em 1912
+### <h3 id="concerning-the-origin-of-the-fellowship-teachings">Concerning the Origin of the Fellowship Teachings</h3>
 
-### EPÍLOGO – O Poder de Cura Definitiva
+Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
 
-É uma inegável verdade que “o ser humano tem vida curta e atribulada”[14], e entre todas as vicissitudes da vida nenhuma tem o maior poder de fazer se voltar para Deus do que o sofrimento no Corpo. Podemos perder a nossa posição econômica ou os amigos com relativa equanimidade, mas quando nos falta a saúde e a morte nos ameaça, até os mais fortes vacilam. Compreendendo a impotência humana, e poderosamente movido por uma necessidade premente, sentimos necessidade de apelar para o socorro Divino, e quanto mais severamente a dor física nos aflige, mais insistentemente vamos pedir ajuda à Deus. Nada pode nos fazer orar tão fervorosamente como a dor no Corpo.
+In the years 1907-08, after being tested for sincerity of purpose and selfless desire to aid his fellowmen, Max Heindel was selected by the Brothers of the Rose Cross to give out publicly the Western Wisdom Teachings and thus help prepare humanity for the coming Age of Universal Brotherhood. By means of intense self-discipline and devotion to service he earned the status of Lay Brother (Initiate) in the exalted Rosicrucian Order. 
 
-Por isso, o ofício sacerdotal sempre esteve intimamente ligado à cura. Entre os selvagens, o sacerdote era também o “homem da medicina”; na Grécia antiga o templo de Esculápio[15] era famoso pelas curas que eram operadas lá; Cristo, em Seus dias, curava totalmente o doente. A igreja primitiva seguiu essa prática, como é evidente nas Epístolas; e certas ordens católicas continuaram no esforço de amenizar a dor, através dos séculos, desde aqueles tempos até os dias atuais.
+Under the direction of the Brothers of the Rose Cross, spiritual giants of the human race, Max Heindel wrote The Rosicrucian Cosmo-Conception, an epoch-making book which has now become the Western World's leading textbook on occultism. By means of his own spiritual development he was able to verify for himself much that was given in the Cosmo-Conception, as well as to gain additional knowledge that later become embodied in his numerous books. 
 
-Nos tempos modernos, a tendência é de se dissociar o consolador espiritual do sacerdote, quando de um Corpo doente. Por isso, o estreito contato e a calorosa simpatia entre o sacerdote e os paroquianos foram perdidos e, em consequência, ambos empobreceram, nesse sentido. Antigamente, nos momentos de doença, o “bom pai” era tido como um representante de nosso Pai Celeste. Provavelmente ele era não especializado em comparação com nossos médicos modernos, mas, se ele fosse um verdadeiro e santo sacerdote, seu coração seria caloroso e amoroso e suas orientações mais potentes, devido à fé do paciente em seu ofício sacerdotal e, após a recuperação, seu paciente também seria seu amigo e se aconselharia com ele a respeito das coisas espirituais, coisa que ele nunca faz, onde os “consultórios” do sacerdote e do médico estão dissociados.
+One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
 
-Não se pode negar que aquele consultório com essa dupla função deu aos titulares um poder e tanto sobre as pessoas, e que esse poder foi, por vezes, abusado. Também é patente que a arte da medicina atingiu um estágio de eficiência, o qual não poderia ter sido atingido, salvo pela devoção a um determinado fim e objetivo. As leis sanitárias, a extinção de insetos portadores de doenças, e consequente imunidade, são testemunhos monumentais do valor dos métodos científicos modernos. Portanto, pode parecer que tudo esteja bem e que não haveria necessidade de escrever sobre o assunto, mas, na realidade, até que a Humanidade, como um todo, desfrute de uma perfeita saúde, não existe nenhum problema mais importante do que a questão: como podemos conseguir e manter a saúde?
+### <h3 di="what-is-truth">What Is Truth?</h3>
 
-Além da escola regular de cirurgia e medicina, que depende exclusivamente de meios físicos para a cura da doença, outros sistemas surgiram que dependem inteiramente da cura total mental. Já se tornou costume corrente nas organizações que advogam a “cura mental”, a “cura natural” e outros a realização das “reuniões de troca de experiências” e a publicação em revistas especializadas com testemunhos de milhares de pessoas agradecidas que foram beneficiadas por tais “tratamentos”, e se os médicos da escola regular fizessem o mesmo não lhes faltariam testemunhos similares acerca das suas eficácias.
+Pilate asked the question "What is Truth?" and being incapable of knowing from within, he received no answer. 
 
-A opinião de milhares de pessoas é de grande valor, mas nada prova porque outros tantos milhares de pessoas podem sustentar exatamente o ponto de vista oposto. Ocasionalmente uma só pessoa pode ter razão, enquanto o resto do mundo está errado, como aconteceu quando Galileu[16] afirmou que a Terra se movia. Hoje em dia, todo o mundo se converteu à opinião pela qual Galileu foi perseguido como herege. Sustentamos que, sendo o ser humano um ser composto, a cura tem êxito na proporção em que se remedeiem os defeitos nos planos: físico, moral e mental do ser, e nós, também, afirmamos que resultados podem ser obtidos mais facilmente nos períodos quando os raios dos Astros são propícios para a cura definitiva de uma doença específica que faz uma pessoa sofrer. Ou doenças podem ser tratadas com mais sucesso por remédios previamente preparados sob condições propícias (ou favoráveis) do que quando o remédio é preparado sob condições astrais desfavoráveis.
+Christ Jesus said: "The Truth shall make you free," and Plato, with mystic intuition, said "God is Truth, and Light is His shadow." John said "God is Light," and as he was closer to the Master than the other disciples, he undoubtedly received teaching higher than the others were capable of receiving. We must remember that it matters not how much truth there may be, it is not for us unless we can receive it. Everyone may see the beauty of the numerous shades of light and color all about us, except those with the affliction of blindness. He who cannot perceive the world of color around him is poor indeed. So it is with Truth. Truth is everywhere, and can always be found if we are capable of perceiving it. In the exercises of the Rosicrucian Fellowship (Retrospection and concentration), we have been given a splendid means of coming in touch with Truth. 
 
-É fato bem conhecido do médico moderno que o estado do sangue e, por conseguinte, de todo o Corpo, muda de acordo com o estado mental do paciente, e quanto mais o médico empregar a sugestão como auxiliar dos remédios, tanto mais êxito obterá. Todavia, são poucos os que aceitariam o fato de que tanto nosso estado mental como o físico são influenciados pelos raios astrais, que mudam com o movimento dos respectivos Astros e, ainda, desde que foi reconhecida a existência da radioatividade, nós sabemos que todos os Corpos celestes lançam partículas radioativas no espaço. Na telegrafia sem fio nos demonstra que as ondas etéreas viajam segura e rapidamente através do espaço, atuando por meio de uma chave, de acordo com a nossa vontade. Sabemos, também, que os raios do Sol nos afetam de modo diferente pela manhã, quando nos atingem horizontalmente, do que ao meio-dia, quando caem sobre nós perpendicularmente. Se os raios luminosos do Sol, que se movem rapidamente, produzem mudanças físicas e mentais, por que não teriam efeito correspondente os raios persistentes dos Astros mais lentos? Se eles têm, então eles são fatores na saúde que não devem ser negligenciados por um verdadeiro curador científico.
+Plato and John said, "God is Light," and if we go to one of the great observatories, and with the best telescope made, look into space, we see that there is no boundary to light. It is everywhere, and with the symbol of light there expressed there comes the idea of omnipresence and magnitude of the God we worship. John, in the first five verses of his Gospel, says: "In the beginning was the Word," and therein we have a marvelous solution of the problem, for when we go back to the beginning, we are in the realm of Truth. 
 
-A enfermidade é uma manifestação da ignorância, o único pecado, e a cura definitiva é uma demonstração do conhecimento aplicado, que é a única salvação. Cristo é a manifestação do Princípio de Sabedoria e, na mesma proporção em que o Cristo se forme em nós, alcançaremos a saúde. Por conseguinte, a pessoa que cura deve ser espiritualizada e deve procurar infundir em seu paciente elevados ideais, para que gradualmente aprenda a se conformar com as leis de Deus, que governam o Universo, alcançando, assim, saúde permanente na vida atual bem como nas futuras.
+At the present time we have sunk into matter, and are incapable of coming into contact with that truth directly, but when we go back in thought to the beginning of things, then we are in thought with God and more capable of recognizing the Truth. Plato spoke of a time when "there was darkness." The Old Testament tells about darkness, that state of primordial matter, or "Arche," given form by God, the Grand Architect, the primordial Builder of the universe. 
 
-No entanto, “a fé sem obras é morta”. Se nós persistimos em viver sob condições não sanitárias a fé não nos salvará da febre tifoide, mas quando nós aplicamos medidas preventivas apropriadas e remédios para os doentes, nós estamos realmente mostrando nossa fé por obras.
+When we think of the One who built things in the beginning, we come into contact with Him, with God, in that "arche" in the first sentence of the five verses we take for meditation. In the next few words we come to the second proposition: the Word. The term "Word" is mistranslated in our present Bible, for it is not only "Word," but it is also the thought, the Greek word "Logos" used in that verse meaning both the word and the logical thought back of it. Before there can be a word, there must be a logical thought back of it. Before the word could come into existence, there had to be a thinker; therefore John used the words "in arche" and "Logos." They express what we wish to understand, that in the beginning there was a homogeneous mass of matter, and in that homogeneous matter was God; and God became the "Word," the rhythmic sound that goes out in the universe, and that shapes all things. 
 
-Está escrito em várias obras que os membros da Ordem dos Rosacruzes têm o objetivo de ajudar a Humanidade em obter a saúde do Corpo, e fazem o voto de curar definitivamente os outros gratuitamente. No entanto, como se vê em muitas das chamadas “revelações”, esta afirmação é inexata. Os Irmãos Leigos fazem o voto de assistir a todos com o melhor de sua capacidade gratuitamente. Esse voto inclui o trabalho de curar definitivamente, para os possuidores dessa aptidão, como foi o caso de Paracelso[17]. Ele tinha uma grande capacidade curadora e procurava combinar a eficiência dos remédios físicos, aplicados em fases Astrológicas favoráveis, com a orientação espiritual conveniente. Os que não possuem a faculdade sanadora trabalham em outros setores, mas todos têm uma característica em comum: nunca cobram pelos seus serviços e sempre trabalham em segredo, sem clarinadas e rufos de tambores.
+Farther on in the five verses is the statement: "in that was life." In the first place there was darkness; no vibration had been sent out into primordial matter, and there must of necessity have been darkness. But the first thing that comes into existence, we are told, is light, and light and sound are synonymous from the higher point of view. Some people, who are sensitive, never hear a sound without seeing a flash of light, and never see a flash of light without at the same time hearing a sound. So John writes mystically when he says "in the beginning"-in the primordial matter-"was God" and "God was the Word," and in that "was life," and the life became "the light of men." 
 
-Durante os últimos três anos nós trabalhamos assiduamente para escrever, publicar e disseminar oralmente os Ensinamentos Rosacruzes. Eles alcançaram, rapidamente, os mais remotos lugares da Terra em um ano e meio e agora são estudados desde a África do Sul até o Círculo Ártico e ainda além. Nós temos, também, seguida a prescrição de “não cobrar pelos ensinamentos” e, tendo encontrado “fidelidade em algumas coisas”, o Irmão Maior, que é a nossa inspiração no trabalho, confiou aos nossos cuidados a fórmula pela qual uma panaceia de cura definitiva espiritual pode ser feita, para aliviar o sofrimento e curar a doença – sempre gratuitamente.
+There we have the abstract truth, as near as we can get it, of the whole problem of creation. Inside the human body there is that light shining unto this day, the light that shines in darkness, the light that is hidden by the veil of Isis, and all around us are Spirits dwelling in darkness, unless through the window of the soul the glories of the universe are revealed. Then we perceive God as light, everything good as light, and the opposite as darkness. 
 
-Para executar esse serviço para a Humanidade será necessário estabelecer a sede e uma escola para educar os Auxiliares qualificados no uso da panaceia espiritual, Astrologia médica e higiene. Eles, então, levarão o auxílio e a cura definitiva para todos os lugares. Um número considerável de médicos já é afiliado à Fraternidade Rosacruz e talvez um número maior sentirá o chamado para praticar o método espiritual em combinação com seus procedimentos médicos tradicionais. Não é preciso que eles propagandeiem suas afiliações à Fraternidade Rosacruz ou as curas conseguidas.
+Light is not of one color, however, for there are seven Spirits before the Throne, each one being a light-bearer for a certain ray. Each one of us comes from one of the rays of light, and each one can better respond to one of the rays. Thus we each see Truth differently, and although we are all gradually moving toward the same source, which is God, we have, nevertheless, at different times, different viewpoints. Although we seem to be at variance one with another, yet in those five verses of John's Gospel is Truth: that we are all children of the light. Each one has within the divine spirit of light; each one is gradually learning to know that light, and with the help of the exercises, to express more of that light. 
 
-Até o presente momento, estamos prestes a garantir um pedaço de terra no sul da Califórnia, e assim que os fundos se tornarem disponíveis e adequados, a sede será erguida, com uma escola e um lugar para as orações. Enquanto isso, vamos buscar voluntários no trabalho que possam dar seu tempo e seus talentos.
+The mystic, as he sees the light of the morning dawn, looks upon it as the daily coming into his soul of the primordial Creative Fiat, "Let there be Light," and as the Light of day progresses and gradually wanes in the western sky, he sees in the glorious tapestry of the sunset a something beyond description by human tongue, a something that can be felt by the soul. If we let those five verses live within us, in the way they do in the mystic, we too, shall know the light, know the truth, as we know nothing else in the world. 
 
-FIM
+We have all trodden the different paths of life at some time. At one time we have walked through Life under the martial ray, and have trodden its path of activity and passion, not caring who suffered or what became of others. In another life we came under the lighter ray of the Venusian color, and trod the path along the love side of life. Later still, the path of the deep blue, or Saturn Ray, and still later the path of the lighter blue or Jupiter Ray. So we all look forward toward the higher perception which comes from the yellow Uranian Ray, though most of us are not at present capable of receiving it, but must be content with the lower deeper yellow of the Mercury Ray. We are all working gradually toward the white light that comes from the Sun, which is the union of all color. To this we must aspire, for the light from any of the other rays is but secondary. From the great central Source come all things. 
 
-[1] N.R.: Francis Bacon (1561-1626) – político, filósofo e ensaísta inglês
+"And what about the darkness," someone asks, "is that evil?" No, there is nothing evil in God's universe. During the day we perceive by the light of the Sun the glories of this little Earth that swings in space, and perhaps if there were only light, we should perceive nothing beyond this Earth and remain ignorant that there is more than the Sun and Moon. But when night comes, and the glories of the day have faded, when the Sun no longer illumines the sky, we can realize, to a certain extent at least, the immensity of space. We can see worlds millions and millions of miles away, and the Spirit is incited to wonderful devotion, as we dwell upon the Truth that GOD IS ALL IN ALL. - Max Heindel. 
 
-[2] N.R.: por vezes grafado como Jacob Boëhme (1575-1624) – filósofo e místico luterano alemão
+### <h3 id="addendum-b">Addendum B: Footnote to Chapter III – Reincarnation or Rebirth?</h3>
 
-[3] N.R.: Johann Wolfgang von Goethe (1749-1832) –  autor e estadista alemão que também fez incursões pelo campo da ciência natural.
+Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
 
-[4] N.R.: Wilhelm Richard Wagner (1813-1883) – maestro, compositor, diretor de teatro e ensaísta alemão
+Answer: A question like the above was asked Mr. Heindel at one of his recent lectures in Los Angeles and he answered about as follows: While all great religions are God-given, there is a Western religion for the Western people as well as Hinduism for the people of India and I can see no good reason why we should copy their terminology and force people here to learn Sanskrit when we have an excellent language of our own, with terms capable of explaining everything. To make the matter clear, we will take an instance which occurred a number of years ago. There was at that time a controversy in a certain society which makes the mistake of promulgating Eastern teachings and using their terms here in the West. The dispute was about the word "Avyaktam". 
 
-[5] N.R.: na mitologia grega é a lã de ouro do carneiro alado Crisómalo; ele é Áries, o primeiro Signo astrológico do Zodíaco; segundo Higino – autor romano da época de Augusto – acreditava-se que a constelação era o carneiro que carregou Frixo e Hele através do Helesponto. Este carneiro tinha pelo de ouro, e foi sacrificado a Júpiter quando Frixo chegou à corte do rei Eetes.
+Not even the Hindus are certain about the meaning of their terminology. Tons of paper and barrels of ink were used to settle the controversy and the following seems to be the definition upon which they finally compromised: "Avyaktam" is Parabraham clothed in Mulaprakriti, from which its UPAHHIS are made during the Manvantara and into which they are again resolved on arrival of the Arolaya." Mr. Heindel then said that he hoped the audience understood the meaning of "Avyaktam". When the audience laughed and shook their heads, the speaker expressed himself as being sorry for their lack of understanding of such a highly learned explanation, he would try the ordinary, garden variety of English and see if that would explain. "Avyaktam is Deity clothed in Cosmic Root Substance, from which its vehicles are made during the Day of Manifestation and into which they again resolve on arrival of the Cosmic Night." 
 
-[6] N.R.: ICor 3:2
+When the audience had declared they comprehended this explanation, Mr. Heindel said it is the same with the word "karma". Everybody in the U.S. and a large part of the world besides, knows what a "debt of destiny" is without explanation and there are a number of other English words which may be used with better effect than the Hindu word karma, which is meaningless to the majority of Westerners. The speaker also held that such words as "astral" and "incarnation" were out of place because they have been conceived to mean something not warranted. He was sorry that the word "incarnation" had been used in our earliest literature, notably in the Cosmo. The Elder Brothers who gave him the teaching in German always used the word "Wiedergeburt", which means rebirth, and there is a great deal of difference between the two terms which may not appear at first sight. 
 
-[7] N.R.: George du Maurier (1834-1896) – cartunista e autor franco-britânico.
+It is possible for a Spirit to incarnate in an adult body by ousting the owner from his vehicle, by obsessing the body, but when we say rebirth, there is, and can be, only one meaning. In view of these facts he urges upon students never to use the term "incarnation" but always the word rebirth. 
+_____________________
 
-[8] N.T.: Atualmente, entrando aqui: https://fraternidaderosacruz.com/category/sobre-a-fraternidade/estude-filosofia-astrologia-espiritual-e-biblia-em-casa/como-se-inscrever/  e seguindo as instruções.
+From The Rosicrucian Philosophy in Questions and Answers, Vol. 2, quoting an article by Mrs. Heindel in the March, 1915 "Echoes". 
 
-[9] N.T.: Religiões Católica ou Protestante que professam o Cristianismo.
+### <h3 id="addendum-c">Addendum C: Footnote to Chapter XIII (Regarding Race)</h3>
 
-[10] N.R.: ou seja: os Irmãos Maiores da Ordem Rosacruz.
+The Rosicrucian Cosmo-Conception was published in 1909. Many of the examples used by Max Heindel were taken from his era using words and definitions from the early twentieth century. Some of the wording in this chapter raises concerns; however, we should not allow this to distract us from the underlying message. The Rosicrucian Teachings promote Universal Brotherhood. We have added this addendum in order to provide additional information relating to Races and Race-religions, and their relationship to spiritual development. Additional references are listed at the end. 
 
-[11] N.T.: que você pode obter digitalmente aqui: https://fraternidaderosacruz.com/livro-conceito-rosacruz-do-cosmos-ou-cristianismo-mistico/ ou comprando enviando um e-mail para fraternidade@fraternidade.com 
+Growth never ceases. In the twenty-first century, we can look back and see the tremendous growth that has taken place in our world. These changes have taken place in accordance with spiritual principles outlined in this book. 
 
-[12] N.R.: Mt 5:8
+During the Lemurian Epoch, Jehovah came with His Angels and Archangels and made the first great division into Races, giving to each group the guiding influence of a Race-spirit-an Archangel. For each virgin spirit he appointed one of the Angels to act as guardian until the individual spirit had grown strong enough to become emancipated from all outside influence. There will be a total of sixteen races. (Cosmo-Conception, page 352) 
 
-[13] N.R.: “No princípio era o Verbo; e o Verbo estava com Deus; e o Verbo era Deus; Ele estava no princípio com Deus; Tudo que foi feito, foi feito por Ele; e nada do que tem sido feito, foi feito sem Ele; n’Ele estava a vida e a vida era a ‘luz dos homens’; a luz resplandece nas trevas; e as trevas não a compreenderam”.
+We must recognize that we are not bodies, or races, but virgin spirits striving for perfection. If, as a virgin spirit, we forget this and identify ourselves with our Race, clinging to it with fanatic patriotism, then there is a great likelihood that we will become enmeshed in and sink with it when our fellow virgin spirits have passed to greater heights on the Path of Attainment. (Cosmo-Conception, page 307) 
 
-[14] N.R.: Jo 14:1
+The reader is requested to note carefully that it is the Forms which degenerate. There is a very important distinction to be kept in mind between the bodies (or forms) of a race, and the spirit which is reborn in those race-bodies. (Cosmo-Conception, page 289) 
 
-[15] N.R.: o deus da Medicina e da cura da mitologia greco-romana
+Max Heindel gives various examples of groups to whom the integrity of the race was insisted upon. He mentions the Jews, and other early nations, as well as the Scots, Vikings, and Germano-Anglo-Saxons. He points out that occult scientists refer to the Sixteen Races as "the sixteen paths to destruction"; and Max Heindel wishes that "the reader may safely pass them all, for their grip is worse than the retardation in the next revolution." (Cosmo-Conception, page 231) 
 
-[16] N.R.: Galileu Galilei (1564-1542) – físico, matemático, astrônomo e filósofo italiano.
+History is full of examples of "man's inhumanity to man". All Races have had individuals who have forgotten their spiritual heritage and have identified themselves with their Race and or Race-religion-"clinging to it with fanatic patriotism". Max Heindel gives the example of the white races who "have been guilty of fearful oppression against those other races, having in many cases massacred multitudes of the defenseless and unsuspecting natives-as witness the conduct of the Spaniards towards the ancient Peruvians and Mexicans, to specify but one of many instances". (Cosmo-Conception, page 290) 
 
-[17] N.R.: ou Paracelsus – Philippus Aureolus Theophrastus Bombastus von Hohenheim (1493-1521) – físico, botânico, alquimista, astrólogo e ocultista suíço-germânico.
+Christ came to prepare the way for the emancipation of humanity from the guidance of the differentiating Race and Family spirits, and to unite the whole human family in One Universal Brotherhood. (Cosmo-Conception, page 352) 
+
+Let us be mindful of Max Heindel's words to us: 
+
+```
+There's but one thing the world has need to know,
+There's but one balm for all our human woe,
+There's but one way that leads to heaven above.
+That way is Human Sympathy and Love.
+```
+
+For further study:
+
+Page 5, "A Word to the Wise"
+Page 223, "Stragglers and Newcomers"
+Page 386, "The Lucifer Spirits"
+Page 306, "The Sixteen Paths to Destruction"
+Page 347, "Guardian Angels"
+Page 352, "Mixing Blood in Marriage"
+Page 367, "The Evolution of Religion"
+Page 383, "Not Peace But A Sword"
+
+### <h3 id="addendum-d">Addendum D: Footnote to "Our Buildings"</h3>
+
+The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
+
+The Dining Hall was built in 1914, added to in the late 30's, renovated in 1962, with a sprouting room added in 1978. Here vegetarian meals are served to the workers and general public. In the Healing Temple, or Ecclesia, a healing service has been conducted each evening since the day of its dedication on Holy Night, December 24, 1920. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from non-contagious diseases. It is now called the Guest House and is used by workers and Fellowship members as living quarters and visitor accommodations. Numerous cottages have been built and renovated over the years to provide worker residences, the most recent structure being a two-level six-plex completed in 1976. 
+
+The Healing Department Building was erected in 1938. Built in the shape of a cross, it contains offices for the secretaries, who respond to requests for spiritual healing, and a healing Chapel in which a healing service is held at 8:45 am Monday through Friday. Adjacent to the Administration Building is a one-story structure containing the Business Offices, which include the Editorial Office for the "Rays from the Rose Cross" magazine (which was published for the first time in 1911 by Mr. Heindel), the Accounting Office, and Retail and Dealer Sales. 
+
+Fim

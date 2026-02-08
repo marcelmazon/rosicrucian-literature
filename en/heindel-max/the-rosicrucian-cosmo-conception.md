@@ -1904,7 +1904,7 @@ The Angels, the humanity of the Moon Period, were aided by the Lords of Form in 
 
 While not desiring to criticize, and admitting that this contention is justified by the fact that man, at his present stage of evolution, cannot ordinarily use the vital body as a separate vehicle--because it always remains with the dense body and to extract it in toto would cause death of the dense body--yet there was a time when it was not so firmly incorporated with the latter, as we shall presently see. 
 
-During those epochs of our Earth's history which have already been mentioned as the Lemurian and the Atlantean, man was involuntarily clairvoyant, and it was precisely this looseness of connection between the dense and the vital bodies that made him so. (The Initiators of that time helped the candidate to loosen the connection still further, as in the voluntary clairvoyant. 
+During those epochs of our Earth's history which have already been mentioned as the Lemurian and the Atlantean, man was involuntarily clairvoyant, and it was precisely this looseness of connection between the dense and the vital bodies that made him so. (The Initiators of that time helped the candidate to loosen the connection still further, as in the voluntary clairvoyant). 
 
 Since then the vital body has become much more firmly interwoven with the dense body in the majority of people, but in all sensitives it is loose. It is that looseness which constitutes the difference between the psychic and the ordinary person who is unconscious of all but the vibrations contacted by means of the five senses. All human beings have to pass through this period of close connection of the vehicles and experience the consequent limitation of consciousness. There are, therefore, two classes of sensitives, those who have not become firmly enmeshed in matter, such as the majority of the Hindus, the Indians, etc., who possess a certain low grade of clairvoyance, or are sensitive to the sounds of nature, and those who are in the vanguard of evolution. The latter are merging from the acme of materiality, and are again divisible into two kind, one of which develops in a passive, weak-willed manner. By the help of others they re-awaken the solar plexus or other organs in connection with the involuntary nervous system. These are therefore involuntary clairvoyants, mediums who have no control of their faculty. They have retrograded. The other kind is made up of those who by their own wills unfold the vibratory powers of the organs now connected with the voluntary nervous system and thus become trained occultists, controlling their own bodies and exercising the clairvoyant faculty as they will to do. They are called voluntary or trained clairvoyants. 
 
@@ -4321,7 +4321,7 @@ By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception w
 
 ### <h3 id="addendum-a">Addendum A: Morning and Evening Exercises Performed by the Rosicrucian Aspirant</h3>
 
-#### <h4 id="">The Evening Exercise (Mentioned on page 111)</h4>
+#### <h4 id="the-evening-exercise">The Evening Exercise (Mentioned on page 111)</h4>
 
 The value of exercise, Retrospection, is of greater value than any other method in advancing the aspirant upon the path of attainment. It has such a far-reaching effect that it enables one to learn now, not only the lessons of this life, but lessons ordinarily reserved for future lives. 
 
@@ -4333,7 +4333,7 @@ The value of retrospection is enormous--far-reaching beyond imagination. In the 
 
 The pure shall see God, said Christ, and the Teacher will quickly open our eyes when we are fit to enter into the "Hall of Learning," the Desire World, where we obtain our first experiences of conscious life without the dense body. 
 
-#### <h4 id="">The Morning Exercise</h4>
+#### <h4 id="the-morning-exercise">The Morning Exercise</h4>
 
 Concentration, the second exercise, is performed in the morning at the very earliest moment possible after the aspirant awakes. He must not arise to open blinds or perform any other unnecessary act. If the body is comfortable he should at once relax and commence to concentrate. This is very  important, as the spirit has just returned from the Desire World at the moment of waking, and at that time the conscious touch with that world is more easily regained than at any other time of the day. 
 
@@ -4353,7 +4353,7 @@ An ancient legend says that digging for treasure must be done in the stillness o
 
 Finally, beware of regarding the exercises as a burdensome task. estimate them at their true worth; they are our highest privilege. Only when thus regarded can we do them justice and reap the full benefits from them. 
 
-### <h3 id="">Concerning the Origin of the Fellowship Teachings</h3>
+### <h3 id="concerning-the-origin-of-the-fellowship-teachings">Concerning the Origin of the Fellowship Teachings</h3>
 
 Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
 
@@ -4363,7 +4363,7 @@ Under the direction of the Brothers of the Rose Cross, spiritual giants of the h
 
 One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
 
-### <h3 di="">What Is Truth?</h3>
+### <h3 di="what-is-truth">What Is Truth?</h3>
 
 Pilate asked the question "What is Truth?" and being incapable of knowing from within, he received no answer. 
 
@@ -4440,7 +4440,7 @@ Page 352, "Mixing Blood in Marriage"
 Page 367, "The Evolution of Religion"
 Page 383, "Not Peace But A Sword"
 
-### Addendum D: Footnote to "Our Buildings"
+### <h3 id="addendum-d">Addendum D: Footnote to "Our Buildings"</h3>
 
 The work at Headquarters was begun toward the end of 1911. To date (1998) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two morning and afternoon services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be given on Sundays. A two-story Administration Building was completed in 1917, renovated in 1962, with an addition to the Shipping Department completed in 1976. The second floor provides offices for the Esoteric and Education Departments as well as Foreign Language and Astrology sections. In the earlier days, this floor served as Mr. and Mrs. Heindel's living quarters. On the first floor are the Shipping Department, photography room, bindery and print shop, where monthly lessons, the "Rays" magazine, pamphlets, and some books are printed. 
 
