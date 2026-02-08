@@ -34,7 +34,7 @@ Oceanside, California, 91054, USA
 
 - [Creed or Christ](#creed-or-christ)
 - [A Word to the Wise](#a-word-to-the-wise)
-- [PART I: MAN'S PRESENT CONSTITUTION AND METHOD OF DEVELOPMENT](#part-1)
+- [Part I: Man’s Present Constitution and Method of Development](#part-1)
   - [Diagram: The Four Kingdoms](#diagram-the-four-kingdoms)
   - [Introduction](#introduction)
   - [Chapter I - The Visible and Invisible Worlds](#chapter-1)
@@ -44,10 +44,10 @@ Oceanside, California, 91054, USA
     - [The World of Thought](#the-world-of-thought)
     - [Diagram 1. The Material World a Reverse Reflection of the Spiritual Worlds](#diagram-1-the-material-world-a-reverse-reflection-of-the-spiritual-worlds)
     - [Diagram 2. The Seven Worlds](#diagram-2-the-seven-worlds)
-  - [CHAPTER II - The Four Kingdoms](#chapter-2)
+  - [Chapter II - The Four Kingdoms](#chapter-2)
     - [Diagram 3. The Vehicles of the Four Kingdoms](#diagram-3-the-vehicles-of-the-four-kingdoms)
     - [Diagram 4. The Consciousness of the Four Kingdoms](#diagram-4-the-consciousness-of-the-four-kingdoms)
-  - [CHAPTER III - Man and the Method of Evolution.](#chapter-3)
+  - [Chapter III - Man and the Method of Evolution.](#chapter-3)
     - [Activities of Life; Memory and Soul-growth](#activities-of-life-memory-and-soul-growth)
     - [The Constitution of the Seven-fold Man](#constitution-of-the-seven-fold-man)
     - [Diagram 5. The Three-fold Spirit, the Three-fold Body and the Three-fold Soul](#diagram-5-the-three-fold-spirit-the-three-fold-body-and-the-three-fold-soul)
@@ -64,43 +64,43 @@ Oceanside, California, 91054, USA
     - [Birth of the Mind and Majority](#birth-of-the-mind)
     - [The Blood; the Vehicle of the Ego](#the-blood-the-vehicle-of-the-ego)
     - [A Life Cycle (diagram)](#diagram-a-life-cycle)
-  - [CHAPTER IV. Rebirth and the Law of Consequence](#chapter-4)
+  - [Chapter IV. Rebirth and the Law of Consequence](#chapter-4)
     - [Wine as a Factor in Evolution](#wine-as-a-factor-in-evolution)
     - [A Remarkable Story](#a-remarkable-story)
-- [PART II: COSMOGENESIS AND ANTHROPOGENESIS](#part-2)
-  - [CHAPTER V - The Relation of Man to God](#chapter-5)
+- [Part II: Cosmogensis and Anthropogenesis](#part-2)
+  - [Chapter V - The Relation of Man to God](#chapter-5)
     - [Diagram 6. The Supreme Being, the Cosmic Planes and God](#diagram-6-the-supreme-being-the-cosmic-planes-and-god)
-  - [CHAPTER VI - The Scheme of Evolution. ](#chapter-6)
+  - [Chapter VI - The Scheme of Evolution. ](#chapter-6)
     - [The Beginning](#the-beginning)
     - [The Seven Worlds](#the-seven-worlds)
     - [The Seven Periods](#the-seven-periods)
     - [Diagram 7. The Saturn Period](#diagram-7-the-saturn-period)
-  - [CHAPTER VII - The Path of Evolution](#chapter-7)
+  - [Chapter VII - The Path of Evolution](#chapter-7)
     - [Revolutions and Cosmic Nights](#revolutions-and-cosmic-nights)
     - [Diagram 8. The Seven Worlds, Seven Globes and Seven Periods](#diagram-8-the-seven-worlds-seven-globes-and-seven-periods)
-  - [CHAPTER VIII - The Work of Evolution.](#chapter-8)
+  - [Chapter VIII - The Work of Evolution.](#chapter-8)
     - [Ariadne's Thread](#ariadnes-thread)
     - [The Saturn Period](#the-saturn-period)
     - [Recapitulation](#recapitulation)
     - [The Sun Period](#the-sun-period)
     - [The Moon Period](#the-moon-period)
     - [Diagram 9. The Twelve Creative Hierarchies](#diagram-9-twelve-creative-hierarchies)
-  - [CHAPTER IX - Stragglers and Newcomers](#chapter-9)
+  - [Chapter IX - Stragglers and Newcomers](#chapter-9)
     - [Classes of Beings at the Beginning of the Moon Period](#classes-of-beings-at-the-beginning-of-the-moon-period)
     - [Diagram 10. Classes at the Beginning of Earth Period](#diagram-10-classes-at-the-beginning-of-earth-period)
-  - [CHAPTER X - The Earth Period](#chapter-10)
+  - [Chapter X - The Earth Period](#chapter-10)
     - [The Saturn Revolution of the Earth Period](#the-saturn-revolution-of-the-earth-period)
     - [The Sun Revolution of the Earth Period](#the-sun-revolution-of-the-earth-period)
     - [The Moon Revolution of the Earth Period](#the-moon-revolution-of-the-earth-period)
     - [Rest Periods Between Revolutions](#rest-periods-between-revolutions)
     - [The Fourth Revolution of the Earth Period](#the-fourth-revolution-of-the-earth-period)
-  - [CHAPTER XI - Genesis and Evolution of Our Solar System.](#chapter-11)
+  - [Chapter XI - Genesis and Evolution of Our Solar System.](#chapter-11)
     - [Chaos](#chaos)
     - [The Birth of the Planets](#the-birth-of-the-planets)
     - [Diagram 11. Aspects of God and Man](#diagram-11-aspects-of-god-and-man)
     - [Table of Vibrations](#table-of-vibrations)
     - [Diagram 12. A Man's Past, Present and Future Form](#diagram-12-a-mans-past-present-and-future-form)
-  - [CHAPTER XII. Evolution on the Earth.](#chapter-12)
+  - [Chapter XII. Evolution on the Earth.](#chapter-12)
     - [The Polarian Epoch](#the-polarian-epoch)
     - [The Hyperborean Epoch](#the-hyperborean-epoch)
     - [The Moon; the Eighth Sphere](#the-moon-the-eighth-sphere)
@@ -116,8 +116,8 @@ Oceanside, California, 91054, USA
     - [The Atlantean Epoch](#the-atlantean-epoch)
     - [The Aryan Epoch](#the-aryan-epoch)
     - [The Sixteen Paths to Destruction](#the-sixteen-paths-to-destruction)
-  - [CHAPTER XIII - Back to the Bible](#chapter-13)
-  - [CHAPTER XIV - Occult Analysis of Genesis.](#chapter-14)
+  - [Chapter XIII - Back to the Bible](#chapter-13)
+  - [Chapter XIV - Occult Analysis of Genesis.](#chapter-14)
     - [Limitations of the Bible](#limitations-of-the-bible)
     - [In the Beginning](#in-the-beginning)
     - [The Nebular Theory](#the-nebular-theory)
@@ -134,9 +134,9 @@ Oceanside, California, 91054, USA
     - [Mixing Blood in Marriage](#mixing-blood-in-marriage)
     - [The Fall of Man](#the-fall-of-man-2)
     - [Diagram 13. The Beginning and End of Sex](#diagram-13-the-beginning-and-end-of-sex)
-- [PART III: MAN'S FUTURE DEVELOPMENT AND INITIATION](#part-3)
+- [Part III: Man’s Future Development and Initiation](#part-3)
   - [Diagram. The Seven Days of Creation](#diagram-the-seven-days-of-creation)
-  - [CHAPTER XV - Christ and His Mission](#chapter-15)
+  - [Chapter XV - Christ and His Mission](#chapter-15)
     - [The Evolution of Religion](#the-evolution-of-religion)
     - [Jesus and Christ-Jesus](#jesus-and-christ-jesus)
     - [Diagram 14. The Father, the Son and the Holy Spirit](#diagram-14-the-father-the-son-and-the-holy-spirit)
@@ -146,14 +146,14 @@ Oceanside, California, 91054, USA
     - [The Mystery of Golgotha](#the-mystery-of-golgotha)
     - [The Cleansing Blood](#the-cleansing-blood)
     - [Diagram, "As Above, so Below"](#diagram-as-above-so-below)
-  - [CHAPTER XVI - Future Development and Initiation](#chapter-16)
+  - [Chapter XVI - Future Development and Initiation](#chapter-16)
     - [The Seven Days of Creation](#the-seven-days-of-creation)
     - [Diagram 15. The Symbolism of the Caduceus](#diagram-15-the-symbolism-of-the-caduceus)
     - [Radiates, Mollusks, Articulates and Vertebrates](#radiates-mollusks-articulates-and-vertebrates)
     - [Spirals within Spirals](#spirals-within-spirals)
     - [Alchemy and Soulgrowth](#alchemy-and-soul-growth)
     - [The Creative Word](#the-creative-word)
-  - [CHAPTER XVII - The Method of Acquiring First-Hand Knowledge](#chapter-17)
+  - [Chapter XVII - The Method of Acquiring First-Hand Knowledge](#chapter-17)
     - [The First Steps](#the-first-steps)
     - [Western Methods for Western People](#western-methods-for-western-people)
     - [The Science of Nutrition](#the-science-of-nutrition)
@@ -174,10 +174,10 @@ Oceanside, California, 91054, USA
     - [Discrimination](#discrimination)
     - [Contemplation](#contemplation)
     - [Adoration](#adoration)
-  - [CHAPTER XVIII - The Constitution of the Earth and Volcanic Eruptions](#chapter-18)
+  - [Chapter XVIII - The Constitution of the Earth and Volcanic Eruptions](#chapter-18)
     - [The Number of the Beast](#the-number-of-the-beast)
     - [Diagram 18. The Constitution of the Earth](#diagram-18-the-constitution-of-the-earth)
-  - [CHAPTER XIX - Christian Rosenkreuz and the Order of Rosicrucians](#chapter-19)
+  - [Chapter XIX - Christian Rosenkreuz and the Order of Rosicrucians](#chapter-19)
     - [Ancient Truths in Modern Dress](#ancient-truths-in-modern-dress)
     - [Initiation](#initiation)
     - [The Rosicrucian Fellowship](#the-rosicrucian-fellowship)
@@ -190,7 +190,7 @@ Oceanside, California, 91054, USA
   - [Addendum C: Footnote to Chapter XIII (Regarding Race)](#addendum-c)
   - [Addendum D: Footnote to "Our Buildings"](#addendum-d)
 
-### <h3 id="creed-or-christ">CREED OR CHRIST</h3>
+### <h3 id="creed-or-christ">Creed or Christ</h3>
 
 ```
 No man loves God who hates his kind,  
@@ -272,9 +272,9 @@ If we said that the vital body is built of prisms instead of points, it would ha
 
 Other new and important discoveries have also been made; for instance, we know now that the Silver Cord is grown anew in each life, that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that both parts meet in the seed atom of the vital body in the solar plexus, and that this union of the higher and lower vehicles causes the quickening. Further development of the cord between the heart and solar plexus during the first seven years has an important bearing on the mystery of childlife, likewise its fuller growth from the liver to the solar plexus, which takes place during the second septenary period, is a contributory cause of adolescence. Completion of the Silver Cord marks the end of childlife, and from that time the solar energy which enters through the spleen and is tinted by refraction through the prismatic seed atom of the vital body located in the solar plexus, commences to give a distinctive and individual coloring to the aura which we observe in adults.
 
-<h2 id="part-1">PART I: Man's Present Constitution and Method of Development</h2>
+<h2 id="part-1">Part I: Man's Present Constitution and Method of Development</h2>
 
-### <h3 id="introduction">INTRODUCTION</h3>
+### <h3 id="introduction">Introduction</h3>
 
 The Western world is undoubtedly the vanguard of the human race, and, for reasons given in the following pages, it is held by the Rosicrucian that neither Judaism nor "popular Christianity," but true Esoteric Christianity is to be its world-religion. 
 
@@ -336,7 +336,7 @@ Christ said, "The Truth shall make you free," but Truth is not found once and fo
 
 Wherein this work differs from some philosophical works the variations are caused by difference of viewpoint, and all respect is paid to the conclusions reached and the ideas set forth by other investigators. It is the earnest hope of the writer that the study of the following pages may help to make the student's ideas fuller and more rounded than they were before. 
 
-### <h3 id="chapter-1">CHAPTER I: THE VISIBLE AND INVISIBLE WORLDS</h3>
+### <h3 id="chapter-1">Chapter I: The Visible and Invisible Worlds</h3>
 
 The first step in Occultism is the study of the invisible Worlds. These Worlds are invisible to the majority of people because of the dormancy of the finer and higher senses whereby they may be perceived, in the same way that the Physical World about us is perceived through the physical senses. The majority of people are on a similar footing in regard to the superphysical Worlds as the man who is born blind is to our world of sense; although light and color are all about him, he is unable to see them. To him they are nonexistent and incomprehensible, simply because he lacks the sense of sight wherewith to perceive them. Objects he can feel; they seem real; but light and color are beyond his ken. 
 
@@ -376,7 +376,7 @@ Thus the thought-form becomes a material reality. The materialist would assert t
 
 Having thus seen the reasonableness of such Worlds existing around and about us, and having satisfied ourselves of their reality, their permanency, and of the utility of a knowledge concerning them, we shall now examine them severally and singly, commencing with the Physical World. 
 
-#### <h4 id="chemical-region-of-the-physical-world">CHEMICAL REGION OF THE PHYSICAL WORLD</h4>
+#### <h4 id="chemical-region-of-the-physical-world">Chemical Region of the Physical World</h4>
 
 In the Rosicrucian teaching the universe is divided into seven different Worlds, or states of matter, as follows: 
 
@@ -420,7 +420,7 @@ Now it is almost certain that still further modifications will be found necessar
 
 This applies equally to all conditions of life--social, mercantile, and philanthropic. Many plans appear excellent to those conceiving them, and may even look well on paper, but when brought down in the actual test of utility they often fail. That however, should not discourage us. It is true that "we learn more from our mistakes than from our successes," and the proper light in which to regard this Physical World is as a school of valuable experience, in which we learn lessons of the utmost importance. 
  
-#### <h4 id="the-etheric-region-of-the-physical-world">THE ETHERIC REGION OF THE PHYSICAL WORLD</h4>
+#### <h4 id="the-etheric-region-of-the-physical-world">The Etheric Region of the Physical World</h4>
 
 As soon as we enter this realm of nature we are in the invisible, intangible World, where our ordinary senses fail us, hence this part of the Physical World is practically unexplored by material science. 
 
@@ -452,7 +452,7 @@ The Reflecting Ether deserves its name for more than one reason, for the picture
 
 This ether is also the medium through which thought makes an impression upon the human brain. It is most intimately connected with the fourth subdivision of the World of Thought. This is the highest of the four subdivisions contained in the Region of Concrete Thought and the homeworld of the human mind. There a much clearer version of the memory of nature is found than in the Reflecting Ether. 
 
-#### <h4 id="the-desire-world">THE DESIRE WORLD</h4>
+#### <h4 id="the-desire-world">The Desire World</h4>
 
 Like the Physical World, and every other realm of nature, the Desire World has the seven subdivisions called "Regions," but unlike the Physical World, it does not have the great divisions corresponding to the Chemical and Etheric Regions. Desire-stuff in the Desire World persists through its seven subdivisions or regions as material for the embodiment of desire. As the Chemical Region is the realm of form and as the Etheric Region is the home of the forces carrying on life activities in those forms, enabling them to live, move and propagate, so the forces in the Desire World, working in the quickened dense body, impel it to move in this or that direction. 
 
@@ -514,7 +514,7 @@ The Physical and the Desire Worlds are not separated from each other by space. T
 
 The Desire World, with it innumerable inhabitants, permeates the Physical World, as the lines of force do the water--invisible, but everywhere present and potent as the cause of everything in the Physical World. 
 
-#### <h4 id="the-world-of-thought">THE WORLD OF THOUGHT</h4>
+#### <h4 id="the-world-of-thought">The World of Thought</h4>
 
 The World of Thought also consists of seven Regions of varying qualities and densities, and, like the Physical World, the World of Thought is divided into two main divisions--the Region of Concrete Thought, comprising the four densest Regions; and the Region of Abstract Thought, comprising the three Regions of finest substance. This World of Thought is the central one of the five Worlds from which man obtains his vehicles. Here spirit and body meet. It is also the highest of the three Worlds in which man's evolution is being carried forward at the present time, the two higher Worlds being practically in abeyance as yet, so far as man is concerned. 
 
@@ -552,7 +552,7 @@ Each of the planets in our solar system has three such interpenetrating Worlds, 
 
 In a manner similar to that in which the World of Life Spirit correlates us to the other planets in our own solar system does the World Divine Spirit correlate us to the other solar systems. We may regard the solar systems as separate sponges, swimming in a World of Divine Spirit, and thus it will be apparent that in order to travel from one solar system to another it would be necessary to be able to function consciously in the highest vehicle of man, the Divine Spirit. 
  
-### <h3 id="the-four-kingdoms">CHAPTER II: THE FOUR KINGDOMS</h3>
+### <h3 id="the-four-kingdoms">Chapter II: The Four Kingdoms</h3>
 
 The three Worlds of our planet are at present the field of evolution for a number of different kingdoms of life, at various stages of development. Only four of these need concern us at present, viz.: the mineral, plant, animal, and human kingdoms.
 
@@ -714,9 +714,9 @@ Man is represented by the upper limb; his is the inverted plant. The plant takes
 
 The animal, which is symbolized by the horizontal limb of the cross, is between the plant and the man. Its spine is in a horizontal position and through it play the currents of the animal group-spirit which encircle the Earth. No animal can be made to remain constantly upright, because in that case the currents of the group-spirit could not guide it, and if it were not sufficiently individualized to endure the spiritual currents which enter the vertical human spine, it would die. It is necessary that a vehicle for the expression of an individual Ego shall have three things--an upright walk, that it may come into touch with the currents just mentioned; an upright larynx, for only such a larynx is capable of speech (parrots and starlings are examples of this effect of the upright larynx); and, owing to the solar currents, it must have warm blood. The latter is of the utmost importance to the Ego, which will be logically explained and illustrated later. These requisites are simply mentioned here as the last words on the status of the four kingdoms in relation to each other and to the Worlds. 
 
-### <h3 id="chapter-3">CHAPTER III: MAN AND THE METHOD OF EVOLUTION</h3>
+### <h3 id="chapter-3">Chapter III: Man and the Method of Evolution</h3>
 
-#### <h4 id="activities-of-life-memory-and-soul-growth">ACTIVITIES OF LIFE; MEMORY AND SOUL-GROWTH</h4>
+#### <h4 id="activities-of-life-memory-and-soul-growth">Activities of Life; Memory and Soul‑Growth</h4>
 
 Our study thus far of the seven Worlds or states of matter has shown us that each serves a definite purpose in the economy of nature, and that God, the Great Spirit, in Whom we actually and in fact "live and move and have our being," is the Power that permeates and sustains the whole Universe with Its Life; but while that Life flows into and is immanent in every atom of the six lower Worlds and all contained therein, in the Seventh--the highest--the Triune God alone IS. 
 
@@ -780,7 +780,7 @@ The Intellectual Soul gives added power to the Life Spirit, because the Intellec
 
 The Conscious Soul increases the consciousness of the Divine Spirit because it (the Conscious Soul) is the extract of the dense body, which latter is the counterpart of the Divine Spirit. 
 
-#### <h4 id="death-and-purgatory">DEATH AND PURGATORY</h4>
+#### <h4 id="death-and-purgatory">Death and Purgatory</h4>
 
 So man builds and sows until the moment of death arrives. Then the seed-time and the periods of growth and ripening are past. The harvest time has come, when the skeleton specter of Death arrives with his scythe and hour-glass. That is a good symbol. The skeleton symbolizes the relatively permanent part of the body. The scythe represents the fact that this permanent part, which is about to be harvested by the spirit, is the fruitage of the life now drawing to a close. The hour-glass in his hand indicates that the hour does not strike until the full course has been run in harmony with unvarying laws. When that moment arrives a separation of the vehicles takes place. As his life in the Physical World is ended for the time being, it is not necessary for man to retain his dense body. The vital body, which as we have explained, also belongs to the Physical World, is withdrawn by way of the head, leaving the dense body inanimate. 
 
@@ -876,13 +876,13 @@ Repentance and reform are also powerful factors in shortening the purgatorial ex
 
 Much progress ordinarily reserved for future lives will be made by the man who thus takes time by the forelock, judging himself and eradicating vice by reforming his character. This practice is earnestly recommended. It is perhaps the most important teaching in the present work. 
 
-#### <h4 id="the-borderland">THE BORDERLAND</h4>
+#### <h4 id="the-borderland">The Borderland</h4>
 
 Purgatory occupies the three lower Regions of the Desire World. The first heaven is in the upper Regions. The central Regions is a sort of borderland--neither heaven nor hell. In this Region we find people who are honest and upright; who wronged no one, but were deeply immersed in business and thought nothing of the higher life. For them the Desire World is a state of the most indescribable monotony. There is no "business" in that world nor is there, for a man of that kind, anything that will take its place. He has a very hard time until he learns to think of higher things than ledgers and drafts. The men who thought of the problem of life and came to the conclusion that "death ends it all;" who denied the existence of things outside the material-sense world--these men also feel this dreadful monotony. They had expected annihilation of consciousness, but instead of that they find themselves with an augmented perception of persons and things about them. They had been accustomed to denying these things so vehemently that they often fancy the Desire World an hallucination, and may frequently be heard exclaiming in the deepest despair, "When will it end? When will it end?" 
 
 Such people are really in a pitiable state. They are generally beyond the reach of any help whatever and suffer much longer than almost anyone else. Besides, they have scarcely any life in the Heaven world, where the building of bodies for future use is taught, so they put all their crystallizing thoughts into whatsoever body they build for a future life, and thus a body is built that has the hardening tendencies we see, for instance, in consumption. Sometimes the suffering incident to such decrepit bodies will turn the thoughts of the entities ensouling them to God, and their evolution can proceed; but in the materialistic mind lies the greatest danger of losing touch with the spirit and becoming an outcast. Therefore the Elder Brothers have been very seriously concerned for the last century regarding the fate of the Western World and were it not for their special beneficent action in its behalf, we should have had a social cataclysm compared with which the French Revolution were child's play. The trained clairvoyant can see how narrowly humanity has escaped disasters of a nature so devastating that continents would have been swept into the sea. The reader will find a more extended and thorough exposition of the connection of materialism with volcanic outbursts in Chapter XVIII, where the list of the eruptions of Vesuvius would seem to corroborate the statement of such a connection, unless it is credited to "coincidence," as the skeptic generally does when confronted with facts and figures he cannot explain. 
 
-#### <h4 id="the-first-heaven">THE FIRST HEAVEN</h4>
+#### <h4 id="the-first-heaven">The First Heaven</h4>
 
 When the purgatorial existence is over the purified spirit rises into the first heaven, which is located in the three highest Regions of the Desire World, where the results of its sufferings are incorporated in the seed-atom of the desire body, thus imparting to it the quality of right feeling, which acts as an impulse to good and a deterrent from evil in the future. Here the panorama of the past again unrolls itself backward, but this time it is the good acts of life that are the basis of feeling. When we come to scenes where we helped others we realize anew all the joy of helping which was ours at the time, and in addition we feel all the gratitude poured out to us by the recipient of our help. When we come to scenes where we were helped by others, we again feel all the gratitude that we then felt toward our benefactor. Thus we see the importance of appreciating the favors shown us by others, because gratitude makes for soul-growth. Our happiness in heaven depends upon the joy we gave others, and the valuation we placed upon what others did for us. 
 
@@ -1005,7 +1005,7 @@ Force is the same spirit not yet crystallized.
 
 This has been said before, but it cannot be too strongly impressed upon the mind. In this connection the illustration of the snail is very helpful. Matter, which is crystallized spirit, corresponds to the snail's house, which is crystallized snail. The chemical force which moves matter, making it available for the building of form, and the snail which moves its house are also good correspondences. That which is now the snail will in time become the house, and that which is now force will in time become matter when it has crystallized further. The reverse process of resolving matter back into spirit is also going on continually. The coarser phase of this process we see as decay when a man is leaving his vehicles behind and at that time the spirit of an atom is easily detachable from the coarser spirit which has been manifesting as matter. 
 
-#### <h4 id="the-second-heaven">THE SECOND HEAVEN</h4>
+#### <h4 id="the-second-heaven">The Second Heaven</h4>
 
 At last the man, the Ego, the threefold spirit, enters the second heaven. He is clad in the sheath of mind, which contains the three seed-atoms--the quintessence of the three discarded vehicles. 
 
@@ -1055,7 +1055,7 @@ All men work unconsciously at the building of their bodies during antenatal life
 
 Thus we see that man learns to build his vehicles in the Heaven World, and to use them in the Physical World. Nature provides all phases of experience in such a marvelous manner and with such consummate wisdom that as we learn to see deeper and deeper into her secrets we are more and more impressed with our own insignificance and with an ever-growing reverence for God, whose visible symbol nature is. The more we learn of her wonders, the more we realize that this world system is not the vast perpetual motion machine unthinking people would have us believe. It would be quite as logical to think that if we toss a box of loose type into the air the characters will have arranged themselves into the words of a beautiful poem by the time they reach the ground. The greater the complexity of the plan the greater the argumental weight in favor of the theory of an intelligent Divine Author. 
 
-#### <h4 id="the-third-heaven">THE THIRD HEAVEN</h4>
+#### <h4 id="the-third-heaven">The Third Heaven</h4>
 
 Having assimilated all the fruits of his last life and altered the appearance of the Earth in such a manner as to afford him the necessary environment for his next step towards perfection; having also learned by work on the bodies of others, to build a suitable body through which to express himself in the Physical World and having at last resolved the mind into the essence which builds the three-fold spirit, the naked individual spirit ascends into the higher Region of the World of Thought--the third heaven, Here, by the ineffable harmony of this higher world, it is strengthened for its next dip into matter. 
 
@@ -1081,7 +1081,7 @@ Man is also in school--the school of experience. He must return many times befor
 
 Again, if their were no return to Earth, what is the use of living? Why strive for anything? Why should a life of happiness in an eternal heaven be the reward for a good life? What benefit could come from a good life in a heaven where everybody is already happy? Surely in a place where everybody is happy and contented there is no need for sympathy, self-sacrifice or wise counsel! No one would need them here; but on Earth there are many who need those very things and such humanitarian and altruistic qualities are of the greatest service to struggling humanity. Therefore the Great Law, which works for Good, brings man back to work again in the world for the benefit to himself and others, with his acquired treasures, instead of letting them go to waste in a heaven where no one needs them. 
 
-#### <h4 id="preparations-for-rebirth">PREPARATIONS FOR REBIRTH</h4>
+#### <h4 id="preparations-for-rebirth">Preparations for Rebirth</h4>
 
 Having thus seen the necessity for repeated embodiments, we will next consider the method by which this purpose is accomplished. 
 
@@ -1110,7 +1110,7 @@ Except in the case of a very highly developed being, this work of the Ego is alm
 
 When the impregnation of the ovum has taken place, the desire body of the mother works upon it for a period of from eighteen to twenty-one days, the Ego remaining outside in its desire body and mind sheath, yet always in close touch with the mother. Upon the expiration of that time the Ego enters the mother's body. The bell-shaped vehicles draw themselves down over the head of the vital body and the bell closes at the bottom. From this time the Ego broods over its coming instrument until the birth of the child and the new earth life of the returning Ego commences. 
 
-#### <h4 id="birth-of-the-dense-body">BIRTH OF THE DENSE BODY</h4>
+#### <h4 id="birth-of-the-dense-body">Birth of the Dense Body</h4>
 
 The vehicles of the new-born do not at once become active. The dense body is helpless for a long time after birth. Reasoning from analogy we can readily see that the same must be the case with the higher vehicles. The occult scientist sees it, but even without clairvoyance reason will show that this must be so. As the dense body is slowly prepared for the separate, individual life within the protecting cover of the womb, so the other bodies are gradually born and nurtured into activity, and while the times given in the following description are but approximate, they are nevertheless accurate enough for general purposes and show the connection between the Microcosm and the Macrocosm--the individual and the world. 
 
@@ -1130,21 +1130,21 @@ Each vehicle is therefore brought to a certain degree of maturity by the activit
 
 From the first to the seventh year the vital body grows and slowly matures within the womb of the macrocosmic vital body and because of the greater wisdom of this vehicle of the macrocosm the child's body is more rounded and well-built than in later life. 
 
-#### <h4 id="birth-of-the-vital-body">BIRTH OF THE VITAL BODY</h4>
+#### <h4 id="birth-of-the-vital-body">Birth of the Vital Body</h4>
 
 While the macrocosmic vital body guides the growth of the child's body it is guarded from the dangers which later threaten it when the unwise individual vital body takes unchecked charge. This happens in the seventh year, when the period of excessive, dangerous growth begins, and continues through the next seven years. During this time the macrocosmic desire body performs the function of a womb for the individual desire body. 
 
 Were the vital body to have continual and unrestrained sway in the human kingdom, as it has in the plant, man would grow to an enormous size. There was a time in the far distant past when man was constituted like a plant, having only a dense body and a vital body. The traditions of mythology and folk-lore all over the world concerning giants in olden times are absolutely true, because then men grew as tall trees, and for the same reason. 
 
-#### <h4 id="birth-of-the-desire-body">BIRTH OF THE DESIRE BODY</h4>
+#### <h4 id="birth-of-the-desire-body">Birth of the Desire Body</h4>
 
 The vital body of the plant builds leaf after leaf, carrying the stem higher and higher. Were it not for the macrocosmic desire body it would keep on in that way indefinitely, but the macrocosmic desire body steps in at a certain point and checks further growth. The force that is not needed for further growth is then available for other purposes and is used to build the flower and the seed. In like manner the human vital body, when the dense body comes under its sway, after the seventh year, makes the latter grow very rapidly, but about the fourteenth year the individual desire body is born from the womb of the macrocosmic desire body and is then free to work on its dense body. The excessive growth is then checked and the force theretofore used for that purpose becomes available for propagation, that the human plant may flower and bring forth. Therefore the birth of the personal desire body marks the period of puberty. From this period the attraction towards the opposite sex is felt, being especially active and unrestrained in the third septenary period of life--from the fourteenth to the twenty-first year, because the restraining mind is then still unborn. 
 
-#### <h4 id="birth-of-the-mind">BIRTH OF THE MIND</h4>
+#### <h4 id="birth-of-the-mind">Birth of the Mind</h4>
 
 After the fourteenth year, the mind is in turn brooded over and nurtured by the macrocosmic mind, unfolding its latent possibilities and making it capable of original thought. The forces of the individual's different vehicles have now been ripened to such a degree that he can use them all in his evolution, therefore at the twenty-first year the Ego comes into possession of its complete vehicle. It does this by means of the blood-heat and by developing individual blood. This is done in connection with the full development of the Light Ether. 
 
-#### <h4 id="the-blood-the-vehicle-of-the-ego">THE BLOOD THE VEHICLE OF THE EGO.</h4>
+#### <h4 id="the-blood-the-vehicle-of-the-ego">The Blood the Vehicle of the Ego</h4>
 
 In infancy, and up to the fourteenth year, the red marrow-bones do not make all the blood corpuscles. Most of them are supplied by the thymus gland, which is largest in the fetus and gradually diminishes as the individual blood-making faculty develops in the growing child. The thymus gland contains, as it were, a supply of blood corpuscles given by the parents, and consequently the child, which draws its blood from that source, does not realize its individuality. Not until the blood is made by the child does it think of itself as "I," and when the thymus gland disappears, at the age of fourteen, the "I" feeling reaches its full expression, for then the blood is made and dominated entirely by the Ego. The following will make clear the idea and its logic: 
 
@@ -1162,7 +1162,7 @@ The proper heat for the real expression of the Ego is not present until the mind
 
 At the present stage of human development the man goes through these principal stages in each life cycle, from one birth to the next. 
 
-### <h3 id="chapter-4">CHAPTER IV: REBIRTH AND THE LAW OF CONSEQUENCE</h3>
+### <h3 id="chapter-4">Chapter IV: Rebirth and the Law of Consequence</h3>
 
 Only three theories worthy of note have ever been brought forward to solve the riddle of Life and Death. 
 
@@ -1324,7 +1324,7 @@ Moreover, to call this heathen doctrine does not disprove it. Its assumed priori
 
 All other religions have been but leading up to the Christian religion. They were Race Religions and contain only in part that which Christianity has in fuller measure. The real Esoteric Christianity has not yet been taught publicly, nor will it be so taught until humanity has passed the materialistic stage and becomes fitted to receive it. The laws of Rebirth and Consequence have been secretly taught all the time, but, by the direct Command of Christ Himself, as we shall see, these two laws have not been publicly taught in the Western world for the past two thousand years. 
 
-#### <h4 id="wine-as-a-factor-in-evolution">WINE AS A FACTOR IN EVOLUTION</h4>
+#### <h4 id="wine-as-a-factor-in-evolution">Wine as a Factor in Evolution</h4>
 
 To understand the reason for this omission and the means employed to obscure these teachings, we must go back to the beginning of man's history and see how, for his good, he has been led by the Great Teacher of humanity. 
 
@@ -1390,7 +1390,7 @@ Finally, although most people do not remember their past lives, there are some w
 
 When a person dies in childhood in one life, he or she not infrequently remembers that life in the next body, because children under 14 years do not journey around the entire life cycle, which necessitates the building of a complete set of new vehicles. They simply pass into the upper Regions of the Desire World and there wait for a new embodiment, which usually takes place in from one to twenty years after death. When they return to birth, they bring with them the old mind and desire body, and if we listened to the prattle of children, we should often able to discover and reconstruct such stories as the following:
 
-#### <h4 id="a-remarkable-story">A REMARKABLE STORY</h4>
+#### <h4 id="a-remarkable-story">A Remarkable Story</h4>
 
 One day in Santa Barbara, CA., a man by the name of Roberts came to a trained clairvoyant who is also a lecturer on Theosophy and asked for help in a perplexing case. Mr. Roberts had been walking in the street the previous day when a little three-year old girl came up to him and put her arms around his knees, calling him papa. Mr. Roberts was indignant, thinking that someone was trying to father the child on him. But the mother of the child, who came up directly, was equally put out and tried to get the child away. The child, however, kept on clinging to Mr. R., insisting that he was her father. On account of circumstances to be told later Mr. R. could not put it out of his mind, and sought out the clairvoyant, who accompanied him to the house of the child's parents. Where the girl at once ran up to Mr. R. and again called him papa. The clairvoyant, whom I call X, first took the child over to the window to note whether the iris of the eye would expand and contract when he turned her to and from the light, in order to see whether another entity than the rightful owner was in possession of the child's body, for the eye is the window of the soul and no "obsessing" entity can secure control of that part. Mr. X. found however, that the child was normal and next proceeded to question the little one carefully. After patient work carried on intermittently during the afternoon, so as not to tire the child, this is the story she told: 
 
@@ -1402,9 +1402,9 @@ First then did the authorities take heed of his constant ravings about his wife 
 
 He then produced photographs of himself and his wife, and at the suggestion of Mr. X. they were mixed with a number of other photographs and shown to the little girl, who unhesitatingly picked out the photographs of both her alleged parents, although the photograph shown was very different from the present appearance of Mr. Roberts. 
 
-<h2 id="part-2">PART II. COSMOGENESIS AND ANTHROPOGENESIS</h2>
+<h2 id="part-2">Part II. Cosmogensis and Anthropogenesis</h2>
 
-### <h3 id="chapter-5">CHAPTER V: THE RELATION OF MAN TO GOD</h3>
+### <h3 id="chapter-5">Chapter V: The Relation of Man to God</h3>
 
 In the preceding chapters we have been considering man in relation to three of the five Worlds which form the field of his evolution. We have partly described these Worlds and noted the different vehicles of consciousness by means of which he is correlated to them. We have studied his relation to the other three Kingdoms--mineral, plant and animal--noting the difference in vehicles, and consequent difference in consciousness, between man and each of these Kingdoms. We have followed man through one life cycle in the three Worlds and have examined the operation of the twin laws of Consequence and Rebirth in their bearing upon the evolution of man. 
 
@@ -1448,9 +1448,9 @@ It may be further stated that, at least in the particular planetary scheme to wh
 
 The foregoing is the teaching relative to all the Solar Systems, but coming down to the particular System to which we belong, the following is the teaching which the sufficiently trained Seer can obtain for himself by personal investigation of the memory of nature. 
 
-### <h3 id="chapter-6">CHAPTER VI: THE SCHEME OF EVOLUTION</h3>
+### <h3 id="chapter-6">Chapter VI: The Scheme of Evolution</h3>
 
-#### <h4 id="the-beginning">THE BEGINNING</h4>
+#### <h4 id="the-beginning">The Beginning</h4>
 
 In harmony with the Hermetic axiom "As above, so below" and vice versa, Solar Systems are born, die and come to birth anew in cycles of activity and rest, as does man. 
 
@@ -1478,7 +1478,7 @@ The Force within the evolving being which makes evolution what it is and not a m
 
 Many of the advanced philosophies of modern times recognize involution and evolution. Science recognizes only the latter, because it (Science) deals only with the Form side of manifestation. Involution belongs to the Life side; but the most advanced scientists regard Epigenesis as a demonstrable fact. The Rosicrucian Cosmo-Conception combines all three as necessary to full understanding of the past, present and future development of the System to which we belong. 
 
-#### <h4 id="the-worlds">THE WORLDS</h4>
+#### <h4 id="the-worlds">The Worlds</h4>
 
 We might use a homely instance to illustrate the building of a Cosmos. Suppose a man wants to establish a home in which to live. He first selects a suitable location and then proceeds to build a house, dividing it into various rooms to serve certain purpose. He makes a kitchen, dining-room bedrooms and bathroom, and furnishes them all to suit the special purpose they are intended to serve. 
 
@@ -1500,7 +1500,7 @@ The highest Worlds are created first, and as involution is to slowly carry the l
 
 The highest (finest, rarest, most ethereal) Worlds are the first created and the last eliminated, while the three densest Worlds, in which our present phase of evolution is carried on, are but comparatively evanescent phenomena incident to the spirit's dip into matter. 
 
-#### <h4 id="the-seven-periods">THE SEVEN PERIODS</h4>
+#### <h4 id="the-seven-periods">The Seven Periods</h4>
 
 The evolutionary scheme is carried through these five Worlds in seven great Periods of Manifestation, during which the Virgin Spirit, or evolving life, becomes first, man--then, a God. 
 
@@ -1540,11 +1540,11 @@ That such a knowledge is of the utmost importance will, we think, be conceded by
 
 Therefore, the more we know of the working methods of nature, which latter is but the visible symbol of the invisible God, the better able we shall be to take advantage of the opportunities it offers for growth and power; for emancipation from bondage and for elevation to mastery. 
 
-### <h3 id="chapter-7">CHAPTER VII: THE PATH OF EVOLUTION</h3>
+### <h3 id="chapter-7">Chapter VII: The Path of Evolution</h3>
 
 A word of warning in regard to diagrams used for purposes of illustration may not be out of place. The student should remember that anything that is reduced into another dimension can never be accurate. The picture of a house would mean little or nothing to us if we had never seen a house. In that case we would see in the picture only lines and blotches. It would convey no meaning to us. Diagrams used to illustrate superphysical matters are much less true representations of the reality, for the simple reason that in the case of the picture, the three-dimensional house is only reduced to two dimensions, while in the case of diagrams of the Periods, Worlds and Globes, the realities possess from four to seven dimension, and the diagrams of two dimensions by which it is endeavored to represent them are thus so much further removed from the possibility of correctly portraying them. We must constantly bear in mind that these Worlds interpenetrate, that the Globes interpenetrate, and that the way they are shown in the diagram is analogous to taking all the wheels of a watch and laying them side by side in order to show how the watch keeps time. If these diagrams are to be of any use to the student they must be spiritually conceived. Otherwise they will be confusing instead of enlightening. 
 
-#### <h4 id="revolutions-and-cosmic-nights">REVOLUTIONS AND COSMIC NIGHTS</h4>
+#### <h4 id="revolutions-and-cosmic-nights">Revolutions and Cosmic Nights</h4>
 
 The Saturn Period is the first of the seven Periods, and at this early stage the Virgin Spirits take their first step towards the evolution of Consciousness and Form. By reference to diagram 7 it will be seen that the evolutionary impulse travels seven times around the seven Globes, A, B, C, D, E, F and G, the arrows showing the direction. 
 
@@ -1582,9 +1582,9 @@ When the life wave has completed its work in the Earth Period and the Cosmic Nig
 
 Other and grander evolutions will then follow, but we can deal only with the seven Periods described. 
 
-### <h3 id="chapter-8">CHAPTER VIII: THE WORK OF EVOLUTION</h3>
+### <h3 id="chapter-8">Chapter VIII: The Work of Evolution</h3>
 
-#### <h4 id="ariadnes-thread">ARIADNE'S THREAD</h4>
+#### <h4 id="ariadnes-thread">Ariadne’s Thread</h4>
 
 Having become acquainted with the Worlds, the Globes and the Revolutions which constitute the path of evolution during the seven Periods, we are now in a position to consider the work which is done in each Period, as well as the methods employed to accomplish it. 
 
@@ -1606,7 +1606,7 @@ This book, particularly this chapter, cannot be read in a casual manner. Every s
 
 No work of this kind, dealing with the deepest phases of the Great World Mystery that the human mind, at its present stage of development, it capable of grasping, can be written in such a manner that it will be light reading. Yet the deepest phases now comprehensible to us are but the A-B-C of the scheme as it will be revealed to us when our minds have become capable of understanding more, in later stages of our development as Supermen. 
 
-#### <h4 id="the-saturn-period">THE SATURN PERIOD</h4>
+#### <h4 id="the-saturn-period">The Saturn Period</h4>
 
 The Globes of the Saturn Period consisted of much rarer and finer substances than our Earth, as it will be evident from a study of diagram 7 and diagram 8, which the student is advised to keep close at hand for frequent reference while studying this subject. The densest Globe of that Period was located in the same portion of the World of Thought occupied by the rarest of Globes of the present Period--the Region of Concrete Thought. These Globes had no consistency such as we can sense. "Warmth" is the only word that approximates the idea of the ancient Saturn Period. It was dark; and if a person could have entered into the space it occupied, he would have seen nothing. All about him would have been darkness, but he would have felt its warmth. 
 
@@ -1636,7 +1636,7 @@ Perhaps the best idea of the nature of this subjective activity may be gained by
 
 Fermentation and decay of the flesh sets in, but out of that chaos comes the new plant, sprouting forth into the air and sunshine. So, when a Period is past, all is resolved into conglomerate chaos, apparently incapable of being reduced to order. At the proper time, however, the Globes of a new period are formed and made ready for occupancy as man-bearing Worlds. Hither the evolving life is transferred from five dark Globes which it traverses during the Cosmic Night, to commence the activities of a new creative day in an altered environment, prepared and externalized during the activities of the Cosmic Night. As the forces of fermentation in the fruit stimulate the seed and fertilize the soil in which it grows, so the Lords of the Flame stimulated the germ of Divine Spirit, particularly during the Cosmic Night between the Saturn and Sun Periods, continuing their activities until the middle of the first Revolution of the Sun Period. 
 
-#### <h4 id="recapitulation">RECAPITULATION</h4>
+#### <h4 id="recapitulation">Recapitulation</h4>
 
 Before the activity in any Period can be started, there is a recapitulation of all that has been gone through before. Owing to the spiral path of evolution, this activity takes place each time on a higher scale than the stage in progression which it rehearses. The necessity will become apparent when the actual work in recapitulation is described. 
 
@@ -1652,7 +1652,7 @@ In the last of the seven Periods--the Vulcan Period--only the last Revolution wi
 
 Moreover (and this will particularly help the student to remember), a Saturn Revolution in any Period has always to do with the development of some new feature of the dense body, because that was started in a first Revolution; and any seventh, or Vulcan Revolution, has for its particular work some activity in connection with the Divine Spirit, because that was started in a seventh Revolution. In the same way, we shall see that there is a connection between the different Revolutions and all the vehicles of man. 
 
-#### <h4 id="the-sun-period">THE SUN PERIOD</h4>
+#### <h4 id="the-sun-period">The Sun Period</h4>
 
 Conditions during the Sun Period differed radically from those of the Saturn Period. Instead of the "warmth-Globes" of the latter, the Sun Period Globes were glowing light-balls, of the consistency of gas. These great gas-balls contained all that had been evolved in the Saturn Period, and similarly, in the atmosphere were the creative Hierarchies. 
 
@@ -1686,7 +1686,7 @@ In the same way, and for analogous reasons, it may be said that in the Sun Perio
 
 When the Sun Period was past there came another Cosmic Night of assimilation, together with the subjective activity necessary before the opening of the Moon Period. This was equal in length to the preceding Period of objective manifestation. 
 
-#### <h4 id="the-moon-period">THE MOON PERIOD</h4>
+#### <h4 id="the-moon-period">The Moon Period</h4>
 
 As the chief characteristic feature of the dark Saturn Globes was described by the term "warmth," and that of the Sun Period Globes as "light" or glowing heat, so the chief characteristic feature of the Globes of the Moon Period may be best described by the term "moisture." There was no air such as we know. In the center was the hot fiery core. Next to that, and consequent upon contact with the cold of outside space, there was dense moisture. By contact with the fiery central core the dense moisture was changed into hot steam, which rushed outward to cool, and sink again toward the center. Therefore the occult scientist calls the Globes of the Moon Period "water" and describes the atmosphere of that time as "fire-fog." That was the scene of the next forward step of the evolving life. 
 
@@ -1756,7 +1756,7 @@ The Archangels became experts at building a body of desire-stuff: the densest ma
 
 The Angels are thoroughly experienced in building a vital body for the Moon period when they were human the ether was the densest condition of matter. On account of this ability they are properly the teachers of man, animal and plant with regard to the vital functions: propagation, nutrition, etc. 
 
-### <h3 id="chapter-9">CHAPTER IX: STRAGGLERS AND NEWCOMERS</h3>
+### <h3 id="chapter-9">Chapter IX: Stragglers and Newcomers</h3>
 
 In following through the preceding chapter the evolution of life, consciousness and form--the triple phase of manifestation of the virgin spirit--which is the Life that gathers the Form about itself and gains Consciousness thereby, we have spoken as though there were only one class; as though the Virgin Spirits, without exception, had made constant and uniform progress. 
 
@@ -1842,7 +1842,7 @@ At the end of the Moon Period these classes possessed the vehicles as they are c
 
 Thus have the different classes obtained the vehicles ascribed to them in diagram 3, to which the reader is referred. 
 
-### <h3 id="chapter-10">CHAPTER X: THE EARTH PERIOD</h3>
+### <h3 id="chapter-10">Chapter X: The Earth Period</h3>
 
 The Globes of the Earth Period are located in the four densest states of matter--the Region of Concrete Thought, the Desire World, the Etheric, and the Chemical Regions (See Diagram 8). The densest Globe (Globe D) is our present Earth. 
 
@@ -1868,7 +1868,7 @@ Where the desire body separated, the higher part became somewhat master over the
 
 Where there was a division of the desire body, the dense body gradually assumed a vertical position, thus taking the spine out of the horizontal currents of the Desire World in which the group-spirit acts upon the animal through the horizontal spine. The Ego could then enter, work in and express itself through the vertical spine and build the vertical larynx and brain for its adequate expression in the dense body. A horizontal larynx is also under the domination of the group-spirit. While it is true that some animals, as the starling, raven, parrot, etc., previously mentioned, are able, because of the possession of a vertical larynx, to utter words, they cannot use them understandingly. The use of words to express thought is the highest human privilege and can be exercised only by a reasoning, thinking entity like man. If the student will keep this in mind, it will be easier to follow the different steps which lead up to this result. 
 
-#### <h4 id="the-saturn-revolution-of-the-earth-period">THE SATURN REVOLUTION OF THE EARTH PERIOD</h4>
+#### <h4 id="the-saturn-revolution-of-the-earth-period">The Saturn Revolution of the Earth Period</h4>
 
 This is the Revolution during which, in each Period, the dense body is reconstructed. This time it was given the ability to form a brain and become a vehicle for the germ of mind which was to be added later. This addition constituted the final reconstruction of the dense body, rendering it capable of attaining the highest degree of efficiency possible to such a vehicle. 
 
@@ -1896,7 +1896,7 @@ The principal part of the reconstructive work was done by the Lords of Form. The
 
 The Earth Period is preeminently the Period of Form, for there the form or matter side of evolution reaches its greatest and most pronounced state. Here spirit is more helpless and suppressed and Form is the most dominant factor--hence the prominence of the Lords of Form. 
 
-#### <h4 id="the-sun-revolution-of-the-earth-period">THE SUN REVOLUTION OF THE EARTH PERIOD</h4>
+#### <h4 id="the-sun-revolution-of-the-earth-period">The Sun Revolution of the Earth Period</h4>
 
 During this Revolution the vital body was reconstructed to accommodate the germinal mind. The vital body was fashioned more in the likeness of the dense body, so that it could become fitted for use as the densest vehicle during the Jupiter Period, when the dense body will have become spiritualized. 
 
@@ -1910,7 +1910,7 @@ Since then the vital body has become much more firmly interwoven with the dense 
 
 In the Jupiter Period man will function in his vital body as he now does in his dense body; and as no development in nature is sudden, the process of separating the two bodies has already commenced. The vital body will then attain a much higher degree of efficiency than the dense body of today. As it is a much more pliable vehicle, the spirit will then be able to use it in a manner impossible of realization in the case of the present dense vehicle. 
 
-#### <h4 id="the-moon-revolution-of-the-earth-period">THE MOON REVOLUTION OF THE EARTH PERIOD</h4>
+#### <h4 id="the-moon-revolution-of-the-earth-period">The Moon Revolution of the Earth Period</h4>
 
 Here the Moon Period was recapitulated, and much the same conditions prevailed (on an advanced scale) as obtained on Globe D of that Period. There was the same kind of fire-fog atmosphere; the same fiery core; the same division of the Globe into two parts, in order to allow the more highly evolved beings a chance to progress at the proper rate and pace, which it would be impossible for beings such as our humanity to equal. 
 
@@ -1924,7 +1924,7 @@ The desire body was reconstructed to render it capable of being interpenetrated 
 
 As has been previously explained, the desire body is an unorganized ovoid, holding the dense body as a dark spot within its center, as the white of an egg surrounds the yolk. There are a number of sense centers in the ovoid, which have appeared since the beginning of the Earth Period. In the average human being these centers appear merely as eddies in a current and are not now awake, hence his desire body is of no use to him as a separate vehicle of consciousness; but when the sense centers are awakened they look like whirling vortices. 
 
-#### <h4 id="rest-periods-between-revolutions">REST PERIODS BETWEEN REVOLUTIONS</h4>
+#### <h4 id="rest-periods-between-revolutions">Rest Periods Between Revolutions</h4>
 
 Hitherto we have noted only the Cosmic Nights between Periods. We saw that there was an interval of rest and assimilation between the Saturn and the Sun Periods; another Cosmic Night between the Sun and the Moon Periods, etc. But in addition to these, there are also rests between the Revolutions. 
 
@@ -1938,15 +1938,15 @@ Freed from the crystallizing energy of the evolving spirits, the chemical forces
 
 Thus at the end of the Moon Revolution of the Earth Period, all the Globes and all life returned to Chaos, re-emerging therefrom at the beginning of the fourth Revolution. 
 
-#### <h4 id="the-fourth-revolution-of-the-earth-period">THE FOURTH REVOLUTION OF THE EARTH PERIOD</h4>
+#### <h4 id="the-fourth-revolution-of-the-earth-period">The Fourth Revolution of the Earth Period</h4>
 
 In the exceeding complexity of the scheme of evolution, there are always spirals within spirals, ad infinitum. So it will not be surprising to learn that in every Revolution the work of recapitulation and rest is applied to the different Globes. When the life wave reappeared on Globe A in this Revolution, it went though the development of the Saturn Period; then after a rest which, however did not involve the complete destruction of the Globe; but only an alteration, it appeared on Globe B, where the work of the Sun Period was recapitulated. Then after a rest, the life wave passed on to Globe C, and the work of the Moon Period was repeated. Finally, the life wave arrived on Globe D, which is our Earth, and not until then did the proper work of the Earth Period begin. 
 
 Even then, the spiral within the spiral precluded its beginning immediately on the arrival of the life wave from Globe C, for the bestowal of the germ of mind did not actually take place until the fourth Epoch, the first three Epochs being still further recapitulations of the Saturn, Sun and Moon Periods, but always on a higher scale. 
 
-### <h3 id="chapter-11">CHAPTER XI: THE GENESIS AND EVOLUTION OF OUR SOLAR SYSTEM</h3>
+### <h3 id="chapter-11">Chapter XI: The Genesis and Evolution of Our Solar System</h3>
 
-#### <h4 id="chaos">CHAOS</h4>
+#### <h4 id="chaos">Chaos</h4>
 
 In the previous pages nothing has been said about our Solar System, and of different planets which compose it, because it was not until the Earth Period was reached that the present differentiation was made. The Earth Period is the acme of diversification, and although we have been speaking of only one class of Virgin Spirits--those who, in the strictest and most limited sense, are concerned with the Earth evolution--there are in reality seven "Rays" or streams of life, all pursuing different evolutions, yet all belonging to the original class of Virgin Spirits to which our humanity belongs. 
 
@@ -2005,7 +2005,7 @@ We must learn to think of Chaos as the Spirit of God, which pervades every part 
 
 It appears in all kingdoms. It is the expression of progressive spirit in man, animal and plant. Chaos is therefore a holy name; a name that signifies the Cause of all we see in Nature and inspires a feeling of devotion in every tried, true and trained occultist. He regards the visible sense world as a revelation of the hidden potentialities of the Chaos. 
 
-#### <h4 id="the-birth-of-the-planets">THE BIRTH OF THE PLANETS</h4>
+#### <h4 id="the-birth-of-the-planets">The Birth of the Planets</h4>
 
 To express himself in the dense Physical World, it was necessary for man to evolve a suitable dense body. In a world like this he must have a body with limbs, organs, a muscular system by means of which to move about; also a brain to direct and coordinate his movements. If the conditions had been different the body would have been modified accordingly. 
 
@@ -2059,9 +2059,9 @@ Neptune and its satellites do not properly belong to our Solar System. The other
 
 When laggards inhabiting a Moon have retrieved their position and returned to the parent planet; or, when continued retrogression has caused complete disintegration of their vehicles, the abandoned Moon also commences to dissolve. The momentum of a spiritual impulse which propelled it in a fixed orbit for aeons, may endure for aeons after the Moon has been vacated, and from the physical point of view it may still seem to be a satellite of the planet it encircles. As the time goes on, however, and the power of attraction exercised by the parent planet diminishes, its orbit widens, until it reaches the limit of our solar system. It is then expelled into interstellar space; dissolved in Chaos. The expulsion of these cinder-like dead worlds is analogous to the manner in which hard and foreign bodies embedded in the human system make their way through the flesh to the skin. The Asteroids illustrate this point. They are fragments of Moons which once encircled Venus and Mercury. The beings once confined upon them are known in esotericism as "The Lords from Venus" and "The Lords from Mercury;" they retrieved their lost estate in a large measure by service to our humanity, as will be later described, and are now safe on their present planet, while the Moons they inhabited have partly disintegrated, and are already far outside the earth's orbit. There are other "seeming" moons in our system, but the Rosicrucian Cosmo-Conception does not notice them, as they are outside the pale of evolution. 
 
-### <h3 id="chapter-12">CHAPTER XII: EVOLUTION ON THE EARTH</h3>
+### <h3 id="chapter-12">Chapter XII: Evolution on the Earth</h3>
 
-#### <h4 id="the-polarian-epoch">THE POLARIAN EPOCH</h4>
+#### <h4 id="the-polarian-epoch">The Polarian Epoch</h4>
 
 While the material which now forms the Earth was yet a part of the Sun, it was, of course in a fiery condition; but as the fire does not burn spirit, our human evolution commenced at once, being confined particularly to the Polar Region of the Sun. 
 
@@ -2075,7 +2075,7 @@ This organ has now degenerated into what is called the Pineal Gland. Sometimes i
 
 At the early stage of which we are now speaking there was a kind of propagation. These immense baggy creatures divided in halves in a manner similar to the division of cells by fission, but the separated portions would not grow, each remaining only half as large as the original form. 
 
-#### <h4 id="the-hyperborean-epoch">THE HYPERBOREAN EPOCH</h4>
+#### <h4 id="the-hyperborean-epoch">The Hyperborean Epoch</h4>
 
 At different points on the fiery globe there began in the course of time the formation of crust-islands in a sea of fire. 
 
@@ -2093,7 +2093,7 @@ Mention has been made of the stragglers of various Periods who in later Periods 
 
 In the beginning of the Lemurian Epoch, these "failures" (note that they were failures, not merely stragglers) had crystallized that part of the Earth occupied by them to such a degree that it became as a huge cinder or clinker, in the otherwise soft and fiery Earth. They were a hindrance and an obstruction, so they, with the part of the Earth they had crystallized, were thrown out into space beyond recall. That is the genesis of the Moon. 
 
-#### <h4 id="the-moon-the-eighth-sphere">THE MOON - THE EIGHTH SPHERE</h4>
+#### <h4 id="the-moon-the-eighth-sphere">The Moon — The Eighth Sphere</h4>
 
 The seven Globes, A to G, inclusive, are the field of Evolution. The Moon is the field of Disintegration. 
 
@@ -2101,7 +2101,7 @@ If Earth had not segregated from the original Globe which is now the Sun, the ra
 
 The Sun works in the vital body and is the force which makes for life, and wars against the death-dealing Moon force. 
 
-#### <h4 id="the-lemurian-epoch">THE LEMURIAN EPOCH</h4>
+#### <h4 id="the-lemurian-epoch">The Lemurian Epoch</h4>
 
 In this Epoch appeared the Archangels (the humanity of Sun Period). and the Lords of Mind (the humanity of Saturn Period). These Hierarchies were assisted by the Lords of Form, who were given charge of the Earth Period. They helped man to build his desire body, and the Lords of Mind gave the germ of mind to the greater part of the pioneers who formed class 1, according to the classification in diagram 10. 
 
@@ -2111,7 +2111,7 @@ The Lords of Mind took charge of the higher part of the desire body and of the g
 
 We owe to the Lords of Mind the separate personality, with all the possibilities for experience and growth thus afforded. And this point marks the birth of the Individual. 
 
-#### <h4 id="birth-of-the-individual">BIRTH OF THE INDIVIDUAL</h4>
+#### <h4 id="birth-of-the-individual">Birth of the Individual</h4>
 
 Diagram 1 will make clear the fact that the personality is the reflected picture of the Spirit, the mind being the mirror, or focus. 
 
@@ -2121,7 +2121,7 @@ The Spirit came down from the higher Worlds during involution; and by concurrent
 
 Yet we must not suppose that this at once raised man to his present status in evolution, making him the self-conscious, thinking being he is today. Before that point could be reached a long and weary road had to be traveled, for at the time we are considering, organs were in their most rudimentary stage and there was no brain that could be used as an instrument of expression. Hence the consciousness was the dimmest imaginable. In short, the man of that day was very far from being as intelligent as our present-day animals. The first step in the direction of improvement was the building of a brain to use as an instrument of mind in the Physical World. That was achieved by separating humanity into sexes. 
 
-#### <h4 id="separation-of-the-sexes">SEPARATION OF THE SEXES</h4>
+#### <h4 id="separation-of-the-sexes">Separation of the Sexes</h4>
 
 Contrary to the generally accepted idea, the Ego is bisexual. Were the Ego sexless, the body would necessarily be sexless also, for the body is but the external symbol of the indwelling spirit. 
 
@@ -2131,7 +2131,7 @@ When the matter of which the Earth and the Moon were afterwards formed was still
 
 When the Earth separated from the Sun and shortly afterwards threw off the Moon, the forces from the two luminaries did not find equal expression in all, as formerly. Some bodies became more amenable to the forces from one, and some to those from the other. 
 
-#### <h4 id="influence-of-mars">INFLUENCE OF MARS</h4>
+#### <h4 id="influence-of-mars">Influence of Mars</h4>
 
 In the part of the Earth Period preceding the separation of the sexes--during the three and one-half Revolutions which intervened between the time when Mars was differentiated and the beginning of the Lemurian Epoch--Mars traveled in a different orbit from the present, and its aura (that part of its finer vehicles which extends beyond the dense planet) permeated the body of the central planet and polarized the iron with it. 
 
@@ -2153,7 +2153,7 @@ As a result of this change only one part of the force essential in the creation 
 
 Thus did the evolving entity obtain brain consciousness of the outside world at the cost of half its creative power. Previous to that time, it used within itself both parts of that power to externalize another being. As a result of that modification, however, it has evolved the power to create and express thought. Before then, it was a creator in the physical world only; since then it has become able to create in the three worlds. 
 
-#### <h4 id="the-races-and-their-leaders">THE RACES AND THEIR LEADERS</h4>
+#### <h4 id="the-races-and-their-leaders">The Races and Their Leaders</h4>
 
 Before considering in detail the evolution of the Lemurians it may be well to take a general survey of the Races and their Leaders. 
 
@@ -2179,7 +2179,7 @@ When under the tuition of these Beings mankind had reached a certain stage of pr
 
 At that time a Ruler held a sacred trust to educate and help his people; to alleviate and promote equity and well-being. He had the light of God to give him wisdom and guide his judgment. Hence, while those kings reigned, all things prospered, and it was indeed a Golden Age. Yet, as we follow the evolution of man in detail, we shall see that the present phase or period of development, though it cannot be called a golden age in any but a material sense, is nevertheless a necessary one, in order to bring man to the point where he will be able to rule himself, for self-mastery is the end and aim of all rulership. No man can safely remain ungoverned who has not learned to govern himself, and at the present stage of development, that is the hardest task that can be given him. It is easy to command others; it is hard to force obedience from oneself. 
 
-#### <h4 id="influence-of-mercury">INFLUENCE OF MERCURY</h4>
+#### <h4 id="influence-of-mercury">Influence of Mercury</h4>
 
 The purpose of the Lords of Mercury at that time, and of all Hierophants of Mysteries since then, as also all the occult schools of our day, was and is to teach the candidate the art of Self-Mastery. In the measure that a man has mastered himself, and in that measure only, is he qualified to govern others. Were the present rulers of the masses able to govern themselves we should again have the Millennium or Golden Age. 
 
@@ -2199,7 +2199,7 @@ Therefore occult science speaks of the Earth Period as Mars-Mercury, and so it m
 
 Mercury, now being in obscuration, is exercising very little influence on us, but it is emerging from a planetary rest and as time goes on its influence will be more and more in evidence as a factor in our evolution. The coming Races will have much help from the Mercurians, and the people of still later Epochs and Revolutions will have even more. 
 
-#### <h4 id="the-lemurian-race">THE LEMURIAN RACE</h4>
+#### <h4 id="the-lemurian-race">The Lemurian Race</h4>
 
 We are now in a position to understand the information which is to follow concerning the people who lived in the latter part of the Lemurian Epoch, whom we may call the Lemurian Race. 
 
@@ -2247,7 +2247,7 @@ God's plan is not to be brought to naught, however. Every act is a seed-ground f
 
 Therefore, the "Fall" with its consequent pain and suffering is but a temporary state where we see through a glass darkly, but anon we shall behold again face to face the God within and without, who is ever perceived by the pure in heart. 
 
-#### <h4 id="the-fall-of-man-1">THE FALL OF MAN</h4>
+#### <h4 id="the-fall-of-man-1">The Fall of Man</h4>
 
 This is cabalistically described as the experience of one pair who, of course, represent humanity. The key is given in the verse where the Messenger of the Gods says to the woman, "in sorrow thou shalt bring forth children;" the clue is also found in the sentence of death which was pronounced at that same time. 
 
@@ -2277,7 +2277,7 @@ The Angels helped him to propagate even after the subversion of part of the soul
 
 Had that regime lasted, man would have remained simply God-guided automaton and would never have become a personality--an individual. That he had become so is due to a much maligned class of entities called the Lucifer Spirits. 
 
-#### <h4 id="the-lucifer-spirits">THE LUCIFER SPIRITS</h4>
+#### <h4 id="the-lucifer-spirits">The Lucifer Spirits</h4>
 
 These spirits were a class of stragglers in the life wave of the Angels. In the Moon Period they worked themselves far ahead of the great mass of those who are now the most advanced of our humanity. They have not progressed as far as the Angels who were the pioneer humanity of the Moon Period, however, but they were so much in advance of our present humanity that it was impossible for them to take a dense body as we have done; yet they could not gain knowledge without the use of an inner organ, a physical brain. They were half-way between man who has a brain and the Angels who need none--in short, they were demigods. 
 
@@ -2311,7 +2311,7 @@ It has been said by white men against the white race, that wherever it goes the 
 
 Science speaks only of evolution. It fails to consider that lines of degeneration which are slowly but surely destroying such bodies as have crystallized beyond possibility of improvement. 
 
-#### <h4 id="the-atlantean-epoch">THE ATLANTEAN EPOCH</h4>
+#### <h4 id="the-atlantean-epoch">The Atlantean Epoch</h4>
 
 Volcanic cataclysms destroyed the greater part of the Lemurian continent and in its stead rose the Atlantean continent, where the Atlantic Ocean now is. 
 
@@ -2417,7 +2417,7 @@ As the heavy fogs, of Atlantis condensed more and more, the increased quantity o
 
 Great numbers were driven from the doomed continent by the floods, and wandered across Europe. The Mongolian races are the descendants of those Atlantean refugees. The Negroes and the savage races with curly hair, are the last remnants of the Lemurians. 
 
-#### <h4 id="the-aryan-epoch">THE ARYAN EPOCH</h4>
+#### <h4 id="the-aryan-epoch">The Aryan Epoch</h4>
 
 Central Asia was the cradle of the Aryan Races, who descended from the Original Semites. Thence have the different Races gone out. It is unnecessary to describe them here, as historical researches have sufficiently revealed their main features. 
 
@@ -2441,7 +2441,7 @@ Two more Races will be evolved in our present Epoch, one of them being the Slav.
 
 From the Slavs will descend a people which will form the last of the seven Races of the Aryan Epoch, and from the people of the United States will descend the last of all the Races in this scheme of evolution, which will run its course in the beginning of the Sixth Epoch. 
 
-#### <h4 id="the-sixteen-paths-to-destruction">THE SIXTEEN PATHS TO DESTRUCTION</h4>
+#### <h4 id="the-sixteen-paths-to-destruction">The Sixteen Paths to Destruction</h4>
 
 The sixteen Races are called the "Sixteen paths to destruction" because there is always, in each Race, a danger that the soul may become too much attached to the Race; that it may become so enmeshed in Race characteristics it cannot rise above the race idea, and will therefore fail to advance; that it may, so to speak, crystallize into that Race and consequently be confined to the Race bodies when they start to degenerate, as happened to the Jews. 
 
@@ -2455,7 +2455,7 @@ Christ is the great unifying Leader of the Sixth Epoch, and He enunciated this l
 
 Not that we are to leave, nor underestimate family ties, but that we are to rise above them. Father and mother are "bodies"; all relations are part of the Race--which belongs to Form. The souls must recognize that they are not Bodies, nor Races, but Egos striving for perfection. If a man forgets this, and identifies himself with his Race--clinging to it with fanatic patriotism--he is likely to become enmeshed in and sink with it when his compeers have passed to greater heights on the Path of Attainment. 
 
-### <h3 id="chapter-13">CHAPTER XIII: BACK TO THE BIBLE</h3>
+### <h3 id="chapter-13">Chapter XIII: Back to the Bible</h3>
 
 In our age the missionary spirit is strong. The Western churches are sending missionaries all over the world to convert the people of every nation to a belief in their creeds; nor are they alone in their proselyting efforts. The East has commenced a strong invasion of Western fields, and many Christians who have become dissatisfied with the creeds and dogmas taught by the clergy and impelled to search for truth to satisfy the demands of the intellect for an adequate explanation of the problems of life, have familiarized themselves with, and in many cases accepted, the Eastern teachings of Buddhism, Hinduism, etc. 
 
@@ -2495,9 +2495,9 @@ Those spirits, from all countries of the earth, who have striven to follow the t
 
 Thus we can see that the Bible contains the teaching peculiarly needed by the Western peoples, that they may be taught a lesson by the awful example of the Jewish Race as recorded in the Old Testament, and learn to live by the teachings of the Christ in the New, willingly offering up their bodies as a living sacrifice upon the altar of Fellowship and Love. 
 
-### <h3 id="chapter-14">CHAPTER XIV: THE OCCULT ANALYSIS OF GENESIS</h3>
+### <h3 id="chapter-14">Chapter XIV: The Occult Analysis of Genesis</h3>
 
-#### <h4 id="limitations-of-the-bible">LIMITATIONS OF THE BIBLE</h4>
+#### <h4 id="limitations-of-the-bible">Limitations of the Bible</h4>
 
 In our study thus far, previous to Chapter XIII, comparatively little reference has been made to the Bible, but we shall now devote our attention to it for some time. Not that it is intended to attempt a vindication of the Bible (in the form in which it is commonly known to use at the present day) as the only true and inspired Word of God, nevertheless it is true that it contains much valuable occult knowledge. This is, to great extent, hidden beneath interpolations and obscured by the arbitrary withholding of certain parts as being "apocryphal." The occult scientist, who knows the intended meaning, can, of course, easily see which portions are original and which have been interpolated. Yet, if we take the first chapter of Genesis even as it stands, in the best translations we possess, we shall find that it unfolds the identical scheme of evolution which has been explained in the preceding portion of this work and harmonized quite well with the occult information in regard to Periods, Revolutions, Races, Etc. The outlines given are necessarily of the briefest and most condensed character, an entire Period being covered in a score of words--nevertheless, the outlines are there. 
 
@@ -2527,7 +2527,7 @@ The Talmud was then taken in hand by the Masorete school, which from 590 to abou
 
 This Masoretic text will be used in the following elucidation of Genesis, and, not relying upon the work of one translator, it will be supplemented by a German translation, the work of three eminent Hebrew scholars--H. Arnheim, M. Sachs, and Jul. Furst, who cooperated with a fourth, Dr. Zunz, the latter being also the editor. 
 
-#### <h4 id="in-the-beginning">IN THE BEGINNING</h4>
+#### <h4 id="in-the-beginning">In the Beginning</h4>
 
 The opening sentence of Genesis is a very good example of what has been stated about the interpretation of the Hebrew text, which may be changed by differently placing the vowels and dividing the words in another way. 
 
@@ -2537,7 +2537,7 @@ Much has been said and written as to which of these two interpretations is corre
 
 The very fact that this sentence and many others in the vestment of the Torah can thus be made to yield many meanings, while confusing to the uninitiated, is illuminative to those who have the key, and the transcendental wisdom of the wonderful Intelligences Who inspired the Torah is thereby shown. Had the vowels been inserted, and a division made into words, there would have been only one way of reading it and these grand and sublime mysteries could not have been hidden therein. That would have been the proper method to pursue if the authors had meant to write an "open" book of God; but that was not their purpose. It was written solely for the initiated; and can be read understandingly by them only. It would have required much less skill to have written the book plainly than to have concealed its meaning. No pains are ever spared, however, to bring the information, in due time, to those who are entitled to it, while withholding it from those who have not year earned the right to possess it. 
 
-#### <h4 id="the-nebular-theory">THE NEBULAR THEORY</h4>
+#### <h4 id="the-nebular-theory">The Nebular Theory</h4>
 
 Regarded by the light thrown upon the genesis and evolution of our system, it is plain that both renderings of the opening sentence in the Book of Genesis are necessary to an understanding of the subject. The first tells that there was a beginning of our evolution, in which the heavens were created; the other interpretation supplements the first statement by adding that the heavens and the earth were created out of the "ever-existing essence," not out of "nothing," as is jeeringly pointed out by the materialist. The Cosmic Root-substance is gathered together and set in motion. The rings formed by the inertia of the revolving mass break away from the central part, forming planets, etc., as the modern scientist, with remarkable ingenuity, has reasoned out. Occult and modern science are in perfect harmony as to the modus operandi. There is nothing in these statements inconsistent with the two theories, as will presently be shown. Occult science teaches that God instituted the process of formation and is constantly guiding the System in a definite path. The modern scientist, in refutation of what he calls a foolish idea, and to demonstrate that a God is not necessary, takes a basin of water and pours a little oil into it. The water and the oil represent space and fire-mist respectively. He now commences to turn the oil around with a needle, bringing it into the form of a sphere. This, he explains, represents the Central Sun. As he turns the oil-ball faster and faster, it bulges at the equator and throws off a ring, the ring breaks and the fragments coalesce, forming a smaller ball, which circles around the Sun. Then he pityingly asks the occult scientist, "Do you not see how it is done?" There is not need for your God, or any supernatural force." 
 
@@ -2553,7 +2553,7 @@ When the first aspect of the Triune God manifests as the Will to create, It arou
 
 Thus we find the opening sentence of the Book of Genesis tells us that in the beginning, orderly, rhythmic motion, in Cosmic Root-substance, formed the universe. 
 
-#### <h4 id="the-creative-hierarchies">THE CREATIVE HIERARCHIES</h4>
+#### <h4 id="the-creative-hierarchies">The Creative Hierarchies</h4>
 
 The second interpretation of the opening sentence also gives us a fuller idea of God when it speaks of the "two fold energy," pointing to the positive and negative phases of the One Spirit of God in manifestation. In harmony with the teaching of occult science, God is represented as a composite Being. This is accentuated in the remaining verses of the chapter. 
 
@@ -2573,7 +2573,7 @@ After a description of each part of the work of Creation it is said: "and Elohim
 
 It is stated that on the seventh day "Elohim rested." This is all in accord with our occult teaching of the part taken by each of the creative Hierarchies in the work of evolution down to the present Period. It is also taught that in the present Epoch the Gods and creative Hierarchies have withdrawn from active participation, that man may work out his own salvation, leaving the necessary guidance of ordinary humanity to the "Elder Brothers," who are now the mediators between man and the Gods. 
 
-#### <h4 id="the-saturn-period">THE SATURN PERIOD</h4>
+#### <h4 id="the-saturn-period">The Saturn Period</h4>
 
 Having satisfied ourselves that the beginning of our System and the work of the creative Hierarchies, as described by occult science, harmonize with the teachings of the Bible, we will now examine the Bible account of different "Days of Creation" and see how they agree with the occult teachings relative to the Saturn, Sun, and Moon Periods; the three and one-half Revolutions of the Earth Period; and the Polarian, Hyperborean, Lemurian, and Atlantean Epochs, which have preceded the present Aryan Epoch. 
 
@@ -2581,19 +2581,19 @@ Naturally, a detailed account could not be given in a few lines like the first c
 
 The second verse proceeds: "The Earth was waste and uninhabited, and darkness rested upon the face of the deep; and the Spirits of the Elohim floated above the deep." In the beginning of manifestation that which is now the Earth was in the Saturn Period, and in exactly the condition described, as may be seen by referring to the descriptions already given of that Period. It was not "without form and void," as expressed in the King James version. It was hot, and thus well-defined and separate from the deep of space, which was cold. It is true that it was dark, but it could be dark and still be hot, for "dark" heat necessarily precedes glowing or visible heat. Above this dark Earth of the Saturn Period floated the creative Hierarchies. They worked upon it from the outside and molded it. The Bible refers to them as the "Spirits of the Elohim." 
 
-#### <h4 id="the-sun-period">THE SUN PERIOD</h4>
+#### <h4 id="the-sun-period">The Sun Period</h4>
 
 The Sun Period is well described in the third verse, which says, "And the Elohim said, Let there be Light; and there was Light." This passage has been jeered at as the most ridiculous nonsense. The scornful query has been put, How could there be light upon the Earth when the Sun was not made until the fourth day? The Bible narrator, however, is not speaking of the Earth alone. He is speaking of the central "Fire-mist," from which were formed the planets of our system including the Earth. Thus when the nebula reached a state of glowing heat, which it did in the Sun Period, there was no necessity for an outside illuminant, the Light was within. 
 
 In the fourth verse we read: "The Elohim differentiated between the light and the darkness." Necessarily, for the outside space was dark, in contradistinction to the glowing nebula which existed during the Sun Period. 
 
-#### <h4 id="the-moon-period">THE MOON PERIOD</h4>
+#### <h4 id="the-moon-period">The Moon Period</h4>
 
 The Moon Period is described in the sixth verse, as follows: "and Elohim said, Let there be an expansion (translated "firmament" in other versions) in the waters, to divide the water from the water." This exactly describes conditions in the Moon Period, when the heat of the glowing fire-mist and the cold of outside space had formed a body of water around the fiery core. The contact of fire and water generated steam, which is water in expansion, as our verse describes. It was different from the comparatively cool water, which constantly gravitated toward the hot, fiery core, to replace the outrushing stream. Thus there was a constant circulation of water held in suspension, and also an expansion, as the steam, rushing outward from the fiery core, formed an atmosphere of "fire-fog" condensed by contact with outside space, returning again to the core to be reheated and perform another cycle. Thus there were two kinds of water, and a division between them, as stated in the Bible. The dense water was nearest the fiery core; the expanded water or stream was on the outside. 
 
 This also harmonizes with the scientific theory of modern times. First the dark heat; then the glowing nebula; later the outside moisture and inside heat; and, finally incrustation. 
 
-#### <h4 id="the-earth-period">THE EARTH PERIOD</h4>
+#### <h4 id="the-earth-period">The Earth Period</h4>
 
 The Earth Period is next described, Before we take up its description, however, we have to deal with the Recapitulations. The verses quoted and the descriptions given will also correspond to the recapitulatory Periods. Thus what is said of the Saturn Period describes also the condition of the System when it emerges from any of the rest of the Periods. The descriptions of the Saturn, Sun, and Moon Periods would therefore correspond to the first three Revolutions of our present Earth Period, and the following would correspond with conditions on Earth in the present Revolution. 
 
@@ -2629,7 +2629,7 @@ The Aryan Epoch corresponds to the seventh day of Creation, when the Elohim rest
 
 This ends the story of the manner in which the Forms were produced. In the following chapter the story is told from the point of view which deals a little more with the Life side. 
 
-#### <h4 id="jehovah-and-his-mission">JEHOVAH AND HIS MISSION</h4>
+#### <h4 id="jehovah-and-his-mission">Jehovah and His Mission</h4>
 
 There has been much learned discussion concerning the discrepancy between, and especially the authorship of the creation story of the first chapter and that which starts at the fourth verse of the second chapter. It is asserted that the two accounts were written by different men, because the Being or Beings, the name of Whom the translators have rendered as "God" in both the first and second chapters of the English version, are, in the Hebrew text, called "Elohim" in the first chapter, and "Jehovah" in the second chapter. It is argued that the same narrator would not have named God in two different ways. 
 
@@ -2651,7 +2651,7 @@ These cross-breeds were the progenitors of the present Jews, who now speak of "l
 
 The contention of the opponents of the Bible, that it is a mere mutilation of the original writings, is cheerfully agreed to by occult science. Parts of it are even conceded to be entire fabrications and no attempt is made to prove its authenticity as a whole, in the form we now have it. The present effort is simply an attempt to exhume a few kernels of occult truth from the bewildering mass of misleading and incorrect interpretations under which they have been buried by the various translators and revisors. 
 
-#### <h4 id="involution-evolution-and-epigenesis">INVOLUTION, EVOLUTION AND EPIGENESIS</h4>
+#### <h4 id="involution-evolution-and-epigenesis">Involution, Evolution and Epigenesis</h4>
 
 Having in the foregoing paragraphs disentangled from the general confusion the identity and mission of Jehovah, it may be that we can now find harmony in the two seemingly contradictory accounts of the creation of man, as recorded in the first and second chapters of Genesis, in the first of which it is written that he was the last, and in the second that he was the first created of all living things. 
 
@@ -2727,7 +2727,7 @@ On the other hand, the Life which uses the human ovum had its mineral existence 
 
 Where Epigenesis is inactive in the individual, family, nation, or Race--there evolution ceases and degeneration commences. 
 
-#### <h4 id="a-living-soul">A LIVING SOUL?</h4>
+#### <h4 id="a-living-soul">A Living Soul?</h4>
 
 Thus the two Creation stories harmonize very well. 
 
@@ -2751,7 +2751,7 @@ At that time man-in-the-making had not yet commenced to breathe by means of lung
 
 The work done by Jehovah was to build dense, hard bone substance into the soft bodies already existing. Previous to this time, i.e., during the Polarian and Hyperborean Epochs, neither animal nor man had bones. 
 
-#### <h4 id="adams-rib">ADAM'S RIB</h4>
+#### <h4 id="adams-rib">Adam’s Rib</h4>
 
 The grotesque and impossible manner in which the separation of the sexes is said to have been accomplished (as described in the common versions of the Bible and, in this particular case, in the Masoretic text also) is another example of what may be dome by changing vowels in the old Hebrew text. 
 
@@ -2761,7 +2761,7 @@ When this alternation is made, the occult teaching as previously given harmonize
 
 Apparently the Bible narrator does not wish to give, in this second creation account, an accurate picture of the whole of evolution, but rather to particularize a little more what was said in the first chapter. He tells us that man did not always breathe as he does now; that there was a time when he was not separated into sexes; and that it was Jehovah Who effected the change, thus fixing the time of the occurrence. As we proceed, it will be found that much further information is given. 
 
-#### <h4 id="guardian-angels">GUARDIAN ANGELS</h4>
+#### <h4 id="guardian-angels">Guardian Angels</h4>
 
 During the earlier Epochs and Periods the great creative Hierarchies had worked upon humanity as it was unconsciously evolving. There had been only one common consciousness among ALL human beings; one group-spirit for all mankind, as it were. 
 
@@ -2797,7 +2797,7 @@ Previous to the advent of Jehovah, when the Earth was yet a part of the Sun, the
 
 Jehovah come with His Angel and Archangels and made the first great division into Races, giving to each group the guiding influence of a Race-spirit--an Archangel. For each Ego He appointed one of the Angels to act as guardian until the individual spirit had grown strong enough to become emancipated from all outside influence. 
 
-#### <h4 id="mixing-blood-in-marriage">MIXING BLOOD IN MARRIAGE</h4>
+#### <h4 id="mixing-blood-in-marriage">Mixing Blood in Marriage</h4>
 
 Christ came to prepare the way for the emancipation of humanity from the guidance of differentiating Race- and Family-spirit, and to unite the whole human family in One Universal Brotherhood. 
 
@@ -2861,7 +2861,7 @@ Christ came to reunite the separated races in bonds of peace and good will, wher
 
 The present Christianity is not even a shadow of the true religion of Christ. That will remain in abeyance until all race feeling shall have been overcome. In the Sixth Epoch there will be but one Universal Brotherhood, under the Leadership of the Returned Christ, but the day and the hour no man knows, for it is not fixed, but depends upon how soon a sufficient number of people shall have commenced to live the life of Fellowship and Love, which is to be the hall-mark of the new dispensation. 
 
-#### <h4 id="the-fall-of-man-2">THE FALL OF MAN</h4>
+#### <h4 id="the-fall-of-man-2">The Fall of Man</h4>
 
 In connection with the analysis of Genesis, a few more words must be said about "The Fall," which is the backbone and sinew of popular Christianity. Had there been no "Fall," there would have been no need for the "plan of salvation." 
 
@@ -2893,11 +2893,11 @@ Man will then be a creator in very truth. Not in the slow and toilsome manner of
 
 All that was manifested during the descending period of involution remains until the corresponding point on the ascending arc of evolution has been reached. The present generative organs will degenerate and atrophy. The female organ was the first to come into existence as a separate unit and, according to the law that "the first shall be last," will be the last to atrophy. The male organ was differentiated last and is even now commencing to divide itself from the body. Diagram 13 (below) will make this clear. 
 
-<h2 id="part-3">PART III. MAN'S FUTURE DEVELOPMENT AND INITIATION</h2>
+<h2 id="part-3">Part III. Man’s Future Development and Initiation</h2>
 
-### <h3 id="chapter-15">CHAPTER XV: CHRIST AND HIS MISSION</h3>
+### <h3 id="chapter-15">Chapter XV: Christ and His Mission</h3>
 
-#### <h4 id="the-evolution-of-religion">THE EVOLUTION OF RELIGION</h4>
+#### <h4 id="the-evolution-of-religion">The Evolution of Religion</h4>
 
 In the foregoing part of this work we have become familiar with the way in which our present outside world came into existence, and how man evolved the complicated organism with which he is related to outer conditions. We have also, in a measure, studies the Jewish Race-religion. We will next consider the last and greatest of the divine measures put forth for the uplifting of humanity, i.e., Christianity, which will be the Universal Religion of the future. 
 
@@ -2949,7 +2949,7 @@ Is it strange that people find it difficult to realize this high ideal of contin
 
 This idea is scouted by some very advanced philosophers, and the law of "Consequence" made paramount. If it so happens that the reader agrees with these philosophers, we request that he await the explanation herein set forth, showing how both are part of the scheme of upliftment. Suffice it to say, for the present, that this doctrine of atonement gives many an earnest soul the strength to strive and, in spite or repeated failures, to bring the lower nature under subjection. Let it be remembered that, for reasons given when the laws of Rebirth and Consequence were discussed, western humanity knew practically nothing of these laws. With such a great ideal before them as the Christ, and believing they had but a few short years in which to attain to such a high degree of development as this, would it not have been the greatest imaginable cruelty to leave them without help? Therefore, the GREAT SACRIFICE on Calvary--while it also served other purposes, as will be shown--become rightfully the Beacon of Hope for every earnest soul who is striving to achieve the impossible; to attain, in one short life, to the perfection demanded by the Christian religion. 
 
-#### <h4 id="jesus-and-christ-jesus">JESUS AND CHRIST-JESUS</h4>
+#### <h4 id="jesus-and-christ-jesus">Jesus and Christ‑Jesus</h4>
 
 To gain some slight insight into the Great Mystery of Golgotha, and to understand the Mission of Christ as the Founder of the Universal Religion of the future, it is necessary that we first become familiar with His exact nature and incidentally, with that of Jehovah, Who is the head of such Race-religions as Taoism, Buddhism, Hinduism, Judaism, etc.; also with the identity of "The Father," to Whom Christ is to give up the Kingdom, in due time. 
 
@@ -3019,7 +3019,7 @@ Christ is unique among all Beings in all the seven Worlds. He alone possess the 
 
 Thus do we know the nature of Christ. He is the highest Initiate of the Sun Period and He took the dense and vital bodies of Jesus that He might function directly in the Physical World and appear as a man among men. Had He appeared in a manifestly miraculous manner, it would have been contrary to the scheme of evolution, because at the end of the Atlantean Epoch humanity had been given freedom to do right or wrong. That they might learn to become self-governing, no coercion whatever could be used. They must know good and evil through experience. Before that time they had been led willy-nilly, but at that time they were given freedom under the different Race-religions, each religion adapted to the needs of its particular Tribe or Nation. 
 
-#### <h4 id="not-peace-but-a-sword">NOT PEACE BUT A SWORD</h4>
+#### <h4 id="not-peace-but-a-sword">Not Peace but a Sword</h4>
 
 All Race-religions are of the Holy Spirit. They are insufficient, because they are based on law, which makes for sin and brings death, pain and sorrow. 
 
@@ -3062,7 +3062,7 @@ To which the whole creation moves.
 
 It may be added that the above mentioned pastor, during the ceremony of receiving his pupils into the Church taught them that Jesus Christ was a composite individual; that Jesus was mortal, human part, while Christ was the divine, immortal Spirit. Presumably, if the matter had been discussed with him, he would not have supported this statement, nevertheless in making it he stated an occult fact. 
 
-#### <h4 id="the-star-of-bethlehem">THE STAR OF BETHLEHEM</h4>
+#### <h4 id="the-star-of-bethlehem">The Star of Bethlehem</h4>
 
 The unifying influence of the Christ has been symbolized in the beautiful legend of the worship of the three magi, or "wise men of the East," so skillfully woven by General Lew Wallace into his charming story, "Ben Hur." 
 
@@ -3124,7 +3124,7 @@ At the present time there is a tendency toward the other extreme--to exalt "self
 
 The state of development wherein every man feels himself an absolutely separate unit, an Ego, independently pursuing his own course, is a necessary stage. The national, tribal and family unity must first be broken up before Universal Brotherhood can become a fact. The regime of Paternalism has been largely superseded by the reign of Individualism. We are learning the evils of the latter more and more as our civilization advances. Our unsystematic method of distributing the products of labor, the rapacity of the few and the exploitation of many--these social crimes result in under-consumption, industrial depressions and labor disturbances, destroying internal peace. The industrial war of the present day is vastly more far-reaching and destructive than the military wars of the nations. 
 
-#### <h4 id="the-heart-as-an-anomaly">THE HEART AS AN ANOMALY</h4>
+#### <h4 id="the-heart-as-an-anomaly">The Heart as an Anomaly</h4>
 
 No lesson, though its truth may be superficially assented to, is of any real value as an active principle of the life until the heart has learned it in longing and bitterness, and the lesson man must so learn is that what is not beneficial to all can never be truly beneficial to any. For nearly 2,000 years we have lightly assented with our lips that we should govern our lives in accordance with such maxims as "Return good for evil." The Heart urges mercy and love, but the Reason urges belligerent and retaliatory measures, if not as revenge, at least as a means of preventing a repetition of hostilities. It is this divorce of head from heart that hinders the growth of a true feeling of Universal Brotherhood and the adoption of the teachings of Christ--the Lord of Love. 
 
@@ -3182,7 +3182,7 @@ The cross stripes of the heart may be built by certain exercises under occult tr
 
 As said in the beginning of this chapter, all persons earnestly desiring the higher knowledge may rest assured that if they will but seek, they will find the way open for them. Christ Himself prepared the way for "whosoever will." He will help and welcome all real seekers, who are willing to work for Universal Brotherhood. 
 
-#### <h4 id="the-mystery-of-golgotha">THE MYSTERY OF GOLGOTHA</h4>
+#### <h4 id="the-mystery-of-golgotha">The Mystery of Golgotha</h4>
 
 During the last 2,000 years much has been said about "the cleansing blood." The blood of Christ has been extolled from the pulpit as the sovereign remedy for sin; the only means of redemption and salvation. 
 
@@ -3238,7 +3238,7 @@ Christ Jesus reached that stage on the Mount of Transfiguration. It is of the ve
 
 Being killed is a very different thing from dying. The blood that had been the vehicle of the Race-spirit must flow and be cleansed of that contaminating influence. Love of father and mother, exclusive of other fathers and mothers, must go--otherwise Universal Brotherhood and an all-embracing Altruistic Love could never become an actuality. 
 
-#### <h4 id="the-cleansing-blood">THE CLEANSING BLOOD</h4>
+#### <h4 id="the-cleansing-blood">The Cleansing Blood</h4>
 
 When the Savior Christ Jesus was crucified His body was pierced in five places; in the five centers where the currents of the vital body flow; and the pressure of the crown of thorns caused a flow from the sixth also. (This is a hint to those who already know these currents. A full elucidation of this matter cannot be publicly given out at this time.) 
 
@@ -3270,9 +3270,9 @@ The Elder Brothers, Jesus among them, have striven and are striving to counterac
 
 May their efforts be crowned with success and speed the day when modern science shall be spiritualized and conduct its investigation of matter from the standpoint of spirit, for then, and not until then, will it arrive at a true knowledge of the world. 
 
-### <h3 id="chapter-16">CHAPTER XVI: FUTURE DEVELOPMENT AND INITIATION</h3>
+### <h3 id="chapter-16">Chapter XVI: Future Development and Initiation</h3>
 
-#### <h4 id="the-seven-days-of-creation">THE SEVEN DAYS OF CREATION</h4>
+#### <h4 id="the-seven-days-of-creation">The Seven Days of Creation</h4>
 
 The Rosicrucian speaks of the Earth Period as Mars-Mercury. The great creative Day of Manifestation is embodied in the names of the days of the week, for our week-days have been named after the evolutionary stages through which the Virgin Spirits pass in their pilgrimage through matter.
 
@@ -3368,7 +3368,7 @@ At the close of the Venus Period he will be able to use his own force to give hi
 
 Very little can be said about the high spiritual consciousness which will be attained at the close of the Vulcan Period; it would be quite beyond our present comprehension. 
 
-#### <h4 id="spirals-within-spirals">SPIRALS WITHIN SPIRALS</h4>
+#### <h4 id="spirals-within-spirals">Spirals Within Spirals</h4>
 
 It must not be supposed that these states of consciousness commence at the beginning of the Periods to which they belong and last until the end. There is always the Recapitulation, and therefore there must be the corresponding stages of consciousness on an ascending scale. The Saturn Revolution of any Period, the stay on Globe A, and the first Epoch on any Globe, are repetitions of the Saturn Period states of development. The Sun Revolution, the stay on Globe B, and the second Epoch on any Globe are Recapitulations of the Sun Period states of development, and so on, all the way through. Hence it will be seen that the consciousness which is to be the especial and peculiar result or product of any Period, does not begin to be evolved until all the Recapitulations have been made. The waking-consciousness of the Earth Period was not started until the Fourth Revolution, when the life wave had reached the Fourth Globe (D), and was in the Fourth or Atlantean Epoch on that Globe. 
 
@@ -3392,7 +3392,7 @@ The states of consciousness of the different Periods may be tabulated as follows
  
 Having taken a general survey of the states of consciousness to be developed in the next three and a half Periods, we will now study the means of attainment. 
 
-#### <h4 id="alchemy-and-soul-growth">ALCHEMY AND SOUL-GROWTH</h4>
+#### <h4 id="alchemy-and-soul-growth">Alchemy and Soul‑Growth</h4>
 
 The dense body was started in the Saturn Period, passed through various transformations in the Sun and Moon Periods, and will reach its highest development in the Earth Period.  
 
@@ -3434,7 +3434,7 @@ During involution the spirit progressed by growing bodies, but evolution depends
 
 The Conscious Soul will be absorbed by the Divine Spirit in the seventh Revolution of the Jupiter Period; The Intellectual Soul will be absorbed by the Life Spirit in the sixth Revolution of the Venus Period; The Emotional Soul will be absorbed by the Human Spirit in the fifth Revolution of the Vulcan Period. 
 
-#### <h4 id="the-creative-word">THE CREATIVE WORD</h4>
+#### <h4 id="the-creative-word">The Creative Word</h4>
 
 The mind is the most important instrument possessed by the spirit, and its special instrument in the work of creation. The spiritualized and perfected larynx will speak the creative Word, but the perfect mind will decide as to the particular form and the volume of vibration, and will thus be the determining factor. Imagination will be the spiritualized faculty directing the work of creation. 
 
@@ -3470,9 +3470,9 @@ The Divine Spirit will absorb the Human Spirit at the close of the Jupiter Perio
 
 Then will succeed the long interval of subjective activity during which the Virgin Spirit will assimilate all the fruits of the septenary Periods of active Manifestation. It is then merged in God, from Whom it came, to re-emerge at the dawn of another Great Day, as One of His glorious helpers. During its past evolution its latent possibilities have been transmuted to dynamic powers. It has acquired Soul-power and a Creative Mind as the fruitage of its pilgrimage through matter. It has advanced from impotence to Omnipotence, from nescience to Omniscience. 
 
-### <h3 id="chapter-17">CHAPTER XVII: THE METHOD OF ACQUIRING FIRSTHAND KNOWLEDGE</h3>
+### <h3 id="chapter-17">Chapter XVII: The Method of Acquiring Firsthand Knowledge</h3>
 
-#### <h4 id="the-first-steps">THE FIRST STEPS</h4>
+#### <h4 id="the-first-steps">The First Steps</h4>
 
 The time has now come for pointing out the way by which each individual may investigate for himself all the facts with which we have dealt thus far in our study. As stated in the beginning, there are no special "gifts" bestowed upon any. All may know for themselves the truth concerning the pilgrimage of the soul, the past evolution and future destiny of the world, without being compelled to depend upon the veracity of another. There is a method whereby this valuable faculty may be acquired, and the earnest student quality himself to investigate those superphysical realms; a method by which, if persistently followed, the powers of a God may be developed. 
 
@@ -3538,7 +3538,7 @@ Thus, all over the world, the old systems of paternal government are changing. N
 
 These are the slow means by which the different bodies of humanity at large are being purified, but the aspirant to the higher knowledge works consciously to attain to these ends, by well-defined methods, according to his constitution. 
 
-#### <h4 id="western-methods-for-western-people">WESTERN METHODS FOR WESTERN PEOPLE</h4>
+#### <h4 id="western-methods-for-western-people">Western Methods for Western People</h4>
 
 In India, certain methods under different systems of Yoga, are used. Yoga means Union and, as in the West, the object of the aspirant is union with the Higher Self; but to be efficacious, the methods of seeking that union must differ. The vehicles of a Hindu are very differently constituted from those of a Caucasian. The Hindus have lived for many, many thousands of years in an environment and climate totally different from ours. They have pursued a different method of thought and their civilization, though of a very high order, is different from ours in its effects. Therefore it would be useless for us to adopt their methods, which are the outcome of the highest occult knowledge and perfectly suited to them, but as unsuitable for the people of the West as a diet of oats would be for a lion. 
 
@@ -3564,7 +3564,7 @@ On the other hand if, despite annoyances, an equable temper is cultivated, also 
 
 Seeking to cultivate the emotions also reacts upon the other vehicles and helps to improve them. 
 
-#### <h4 id="the-science-of-nutrition">THE SCIENCE OF NUTRITION</h4>
+#### <h4 id="the-science-of-nutrition">The Science of Nutrition</h4>
 
 If we begin with the dense vehicle and consider the physical means available to improve it and make it the best possible instrument for the spirit and afterward consider the spiritual means to the same end, we shall be including all the other vehicles as well; therefore we shall follow that method. 
 
@@ -3719,7 +3719,7 @@ There was a time in the far, far past when we set out the concretions, as do the
 
 That is the highest development of the dense body. It signifies nothing in this connection that the highest class of animals have an internal bone formation similar to man's, but still have no indwelling spirit. They belong to a different stream of evolution. 
 
-#### <h4 id="the-law-of-assimilation">THE LAW OF ASSIMILATION</h4>
+#### <h4 id="the-law-of-assimilation">The Law of Assimilation</h4>
 
 The law of assimilation allows no particle to be built into our bodies that we, as spirits, have not overcome and made subject to ourselves. The forces active along these lines are, as we remember, principally our "dead," who have entered "heaven" and are learning there to build bodies to use here, but they work according to certain laws that they cannot circumvent. There is life in every particle of food that we take into our bodies, and before we can build that life into our bodies by the process of assimilation, we must overcome and make it subject to ourselves. Otherwise there could be no harmony in the body. All parts would act independently, as they do when the coordinating life has been withdrawn. That would be what we call decay, the process of disintegration, which is the direct opposite of assimilation. The more individualized is the particle to be assimilated, the more energy will it require to digest it and the shorter time will it remain before seeking to reassert itself. 
 
@@ -3733,7 +3733,7 @@ Therefore, when flesh food derived from the herbivore is such an unstable diet, 
 
 If the flesh of the herbivore were the essence of what is good in plants, then, logically, the flesh of the carnivore should be the quintessence. The meat of wolves and vultures would thus be the creme de la creme, and much to be desired. This we know is not the case, but quite the reverse. The nearer we get to the plant kingdom, the more strength we derive from our food. If the reverse were the case, the flesh of carnivorous animals would be sought by other beasts of prey, but examples of "dog eat dog" are very few throughout nature. 
 
-#### <h4 id="live-and-let-live">LIVE AND LET LIVE</h4>
+#### <h4 id="live-and-let-live">Live and Let Live</h4>
 
 The first law of occult science is "Thou shalt not kill," and that should have the greatest weight with the aspirant to the higher life. We cannot create so much as one particle of dust, therefore what right have we to destroy the very least form? All Form is an expression of the One Life--the Life of God. We have no right to destroy the Form through which the Life is seeking experience, and force it to build a new vehicle. 
 
@@ -3765,7 +3765,7 @@ At the present stage of the evolutionary journey, everyone knows inherently that
 
 How much more beautiful it would be for man to play the role of friend and protector of the weak. Who does not love to visit Central Park in New York City and pet, stroke and feed the hundreds of squirrels which are running about secure in the knowledge that they will not be molested? And who is not glad, for the sake of the squirrels, to see the sign, "Dogs found chasing the squirrels will be shot." This is hard on the dogs, but it is to be commended as an evidence of the growth of the sentiment favoring the protection of the weak against the unreasoning or merciless strong. Nothing is said on the sign about the squirrels being injured by men, because that would be unthinkable. So strong is the influence of the trust the little animals repose in the kindness of man, that no one would violate it. 
 
-#### <h4 id="the-lords-prayer">THE LORD'S PRAYER</h4>
+#### <h4 id="the-lords-prayer">The Lord’s Prayer</h4>
 
 Returning to our consideration of the spiritual aids to human progress, the Lord's Prayer, which may be considered as an abstract, algebraical formula for the upliftment and purification of all the vehicles of man, the idea of taking proper care of the dense body is expressed in the words: "Give us this day our daily bread." 
 
@@ -3815,7 +3815,7 @@ The introduction, "Our Father Who art in Heaven," is merely as the address on an
 
 Diagram 16 illustrates the foregoing explanation in a simple and easily remembered manner, showing the connection between the different prayers and the corresponding vehicles, which are similarly colored. This diagram is inserted opposite page 464. 
 
-#### <h4 id="the-vow-of-celibacy">THE VOW OF CELIBACY</h4>
+#### <h4 id="the-vow-of-celibacy">The Vow of Celibacy</h4>
 
 The sex-pervert, or sex-maniac, is a proof of the correctness of the contention of occultists that one part of the sex-force builds the brain. He becomes an idiot, unable to think because of drawing and sending out, not only the negative or positive part of the sex force (according to whether male or female) which is normally to be used through the sex-organ for propagation, but in addition to that, some of the force which should build up the brain, enabling it to produce thought--hence the mental deficiency. 
 
@@ -3855,7 +3855,7 @@ It may also be said that it is worse to suffer from a burning desire, to be cons
 
 The aspirant to the higher life can be successful only in proportion to the extent of the subjugation of the lower nature, but should beware of the other extreme. 
 
-#### <h4 id="the-pituitary-body-and-the-pineal-gland">THE PITUITARY BODY AND THE PINEAL GLAND</h4>
+#### <h4 id="the-pituitary-body-and-the-pineal-gland">The Pituitary Body and the Pineal Gland</h4>
 
 In the brain, and in approximately the positions shown in diagram 17, are two small organs called the pituitary body and the pineal gland. Medical science knows but little about these, or the other ductless glands of the body. It calls the pineal gland "the atrophied third eye," yet neither it nor the pituitary body are atrophying. This is very perplexing to scientists, for nature retains nothing useless. All over the body we find organs which are either atrophying or developing, the former being milestones, as it were, along the path which man has traveled to reach his present stage of development, the latter pointing out the lines for future improvement and development. For instance, the muscles which animals use to move the ears are present in man also, but as they are atrophying, few people can use them. The heart belongs to the class indicating future development; as already shown, it is becoming a voluntary muscle. 
 
@@ -3879,7 +3879,7 @@ To regain contact with the inner Worlds, all that remains to be done is the re-a
 
 The awakening of these organs is accomplished by Esoteric Training, which we will now describe, as far as may be done in public. 
 
-#### <h4 id="esoteric-training">ESOTERIC TRAINING</h4>
+#### <h4 id="esoteric-training">Esoteric Training</h4>
 
 In the majority of people, the greater part of the sex force which may legitimately be used through the creative organs is expended for sense-gratification; therefore in such people there is very little of the ascending current shown in diagram 17. 
 
@@ -3901,7 +3901,7 @@ As we explained in the earlier part of this work, the neophyte must learn to see
 
 There is also another and most important distinction to be made. The power which enables one to perceive the objects in a world is not identical with the power of entering that world and functioning there. The voluntary clairvoyant, though he may have received some training, and is able to distinguish from true from the false in the Desire World, is in practically the same relation to it as a prisoner behind a barred window is to the outside world--he can see it, but cannot function therein. Therefore esoteric training not only opens up the inner vision of the aspirant, but at the proper time further exercises are given to furnish him with a vehicle in which he can function in the inner Worlds in a perfectly self-conscious manner. 
 
-#### <h4 id="how-the-inner-vehicle-is-built">HOW THE INNER VEHICLE IS BUILT</h4>
+#### <h4 id="how-the-inner-vehicle-is-built">How the Inner Vehicle Is Built</h4>
 
 In ordinary life most people live to eat, they drink, gratify the sex-passion in an unrestrained manner, and lose their tempers on the slightest provocation. Though outwardly these people may be very "respectable," they are, nearly every day of their lives, causing almost utter confusion in their organization. The entire period of sleep is spent by the desire and the vital bodies in repairing the damage done in the day time, leaving no time for outside work of any kind. But as the individual begins to feel the needs of the higher life, control sex force, and temper, and cultivate a serene disposition, there is less disturbance caused in the vehicles during waking hours; consequently less time is required to repair the damage during sleep. Thus it becomes possible to leave the dense body for long periods during sleeping hours, and function in the inner Worlds in the higher vehicles. As the desire body and the mind are not yet organized, they are of no use as separate vehicles of consciousness. Neither can the vital body leave the dense body, as that would cause death, so it is evident that measures must be taken to provide an organized vehicle which is fluidic and so constructed that it will meet the needs of the Ego in the inner Worlds as does the dense body in the Physical World. 
 
@@ -3933,7 +3933,7 @@ Specific directions for freeing the higher vehicles cannot be given indiscrimina
 
 The most favorable time to exercise is on first awakening in the morning, before any of the worries and cares of daily life have entered the mind. At that time one is fresh from the inner Worlds and therefore more easily brought back into touch with them than at any other time of the day. Do not wait to dress, or sit up in bed, but relax the body perfectly and let the exercises be the first waking thought. Relaxation does not mean simply a comfortable position; it is possible to have every muscle tense with expectation and that of itself frustrates the object, for in that condition the desire body is gripping the muscles. It cannot do otherwise till we calm the mind. 
 
-#### <h4 id="concentration">CONCENTRATION</h4>
+#### <h4 id="concentration">Concentration</h4>
 
 The first thing to practice is fixing one's thoughts upon some ideal and holding them there without letting them swerve. It is an exceedingly hard task, but, to some extend at least, it must be accomplished before it is possible to make any further progress. Thought is the power we use in making images, pictures, thought forms, according to ideas from within. It is our principal power, and we must learn to have absolute control of it, so that what we produce is not wild illusion induced by outside conditions, but true imagination generated by the spirit from within (see diagram 1). 
 
@@ -3959,7 +3959,7 @@ When the aspirant has become able to form such pictures and has succeeded in hol
 
 For a long time nothing may appear and the aspirant must carefully guard against making visions for himself, but if he keeps on faithfully and patiently every morning, there will come a time when, the moment he has let the imaged picture drop, in a flash the surrounding Desire World will open up to his inner eye. At first it may be but a mere glimpse, but it is an earnest of what will later come at will. 
 
-#### <h4 id="meditation">MEDITATION</h4>
+#### <h4 id="meditation">Meditation</h4>
 
 When the aspirant has practiced concentration for some time, focusing the mind upon some simple object, building a living thought form by means of the imaginative faculty, he will, by means of Meditation, learn all about the object thus created. 
 
@@ -3969,7 +3969,7 @@ When the image of the table has been clearly formed in the mind, think what kind
 
 Thus, by meditation, we have become conversant with the various branches of industry necessary to convert a forest tree into a piece of furniture. We have seen all the machines and the men, and noted the peculiarities of the various places. We have even followed the life process whereby that tree has grown from a tiny seed, and have learned that back of seemingly very commonplace things there is a great and absorbingly interesting history. A pin; the match with which we light the gas; the gas itself; and the room in which that gas is burned--all have interesting histories, well worth learning. 
 
-#### <h4 id="observation">OBSERVATION</h4>
+#### <h4 id="observation">Observation</h4>
 
 One of the most important aids to the aspirant in its efforts is observation. Most people go through life blind-folded. Of them it is literally true that they "have eyes, and see not; . . . have ears, and hear not." Upon the part of the majority of humanity there is a deplorable lack of observation. 
 
@@ -3977,7 +3977,7 @@ Most people are, to some extent, excusable for this, because their sight is not 
 
 It is very important to one aspiring to the higher life that he be able to see all things about him in clear, definite outlines, and in full detail. To one suffering from defective sight, the use of glasses is like opening up a new world. Instead of the former mistiness, everything is seen clearly and definitely. If the condition of the sight requires the use of two foci, one should not be content with having two pairs of glasses, one for near and one for far seeing, thus necessitating frequent changes. Not only are the changes wearisome, but one is very apt to forget one pair when leaving home. The two foci can be had in one pair of bifocal glasses, and such should be worn, to facilitate observation of the minutest details. 
 
-#### <h4 id="discrimination">DISCRIMINATION</h4>
+#### <h4 id="discrimination">Discrimination</h4>
 
 When the aspirant has attended to his eyesight, he should systematically observe everything and everybody, drawing conclusions from actions, to cultivate the faculty of logical reasoning. Logic is the best teacher in the Physical World, as well as the safest and surest guide in any world. 
 
@@ -3993,13 +3993,13 @@ These two mental exercises deal, in the deepest and most thorough manner, imagin
 
 The name of that stage is Contemplation. 
 
-#### <h4 id="contemplation">CONTEMPLATION</h4>
+#### <h4 id="contemplation">Contemplation</h4>
 
 In contemplation there is no reaching out in thought or imagination for the sake of getting information, as was the case in Meditation. It is simply the holding of the object before our mental vision and letting the soul of it speak to us. We repose quietly and relaxed upon a couch or bed--not negatively, but thoroughly on the alert--watching for the information that will surely come if we have reached the proper development. Then the Form of the object seems to vanish and we see only the Life at work. Contemplation will teach us about the Life side, as Meditation taught us about the Form side. 
 
 When we reach this stage and have before us, say, a tree in the forest, we lost sight of the Form entirely, and see only the Life, which in this case is a group-spirit. We shall find, to our astonishment, that the group spirit of the tree includes the various insects which feed upon it; that the parasite and its host are emanations from one and the same group-spirit, for the higher we ascend in the invisible realms, the fewer the separate and distinct forms, and the more completely the One Life predominates, impressing upon the investigator the supreme fact that there is but the One Life--the Universal Life of God, in Whom it is an actual fact that "we live, and move, and have our being." Mineral, plant, animal, and man--all, without exception--are manifestations of God, and this fact furnishes the true basis of brotherhood--a brotherhood which includes everything from the atom to the Sun, because all are emanations from God. Conceptions of brotherhood based upon any other foundation, such as class distinctions, Race affinity, similarity of occupation, etc., fall far short of this true basis, as the occult scientist clearly realizes when he sees the Universal Life flowing in all that exists. 
 
-#### <h4 id="adoration">ADORATION</h4>
+#### <h4 id="adoration">Adoration</h4>
 
 When this height has been reached by Contemplation, and the aspirant has realized that he is in truth beholding God in the Life that permeates all things, there remains still to be taken the highest step, Adoration, whereby he unites himself with the Source of all things, reaching by that act the highest goal possible of attainment by man until the time when the permanent union takes place at the end of the great Day of Manifestation. 
 
@@ -4009,7 +4009,7 @@ The time required to bring results from the performance of the exercises varies 
 
 From that time--awake or asleep, through what men call life, and through what men call death--his consciousness will be unbroken. He will lead a consciously continuous existence, having the benefit of all the conditions which make for more rapid advancement to every higher positions of trust, to be used in the uplifting of the race. 
 
-### <h3 id="chapter-18">CHAPTER XVIII: THE CONSTITUTION OF THE EARTH; AND VOLCANIC ERUPTIONS</h3>
+### <h3 id="chapter-18">Chapter XVIII: The Constitution of the Earth; and Volcanic Eruptions</h3>
 
 Even among occult scientists it is counted amount the most difficult problems to investigate the mysterious construction of the Earth. Every occult scientist knows how much easier it is to thoroughly and accurately investigate the Desire World and the Region of Concrete Thought and bring back the results into the Physical World than to investigate completely the secrets of our physical planet, because to do that fully, one must have passed through the nine lesser Mysteries and the first of the Great Initiations. 
 
@@ -4021,7 +4021,7 @@ The different kinds of quartz, the metals, the disposition of the various strata
 
 To know the different strata of the Earth and the relative positions of the planets in the sky without having also a knowledge of their use and meaning in the life and purpose of the Cosmos, is as useless as to know merely the positions of bones, nerves, etc., without understanding also their use in the functional economy of the body. 
 
-#### <h4 id="the-number-of-the-beast">THE NUMBER OF THE BEAST</h4>
+#### <h4 id="the-number-of-the-beast">The Number of the Beast</h4>
 
 To the trained clairvoyant sight, of the Initiate of the various degrees of the Mysteries, the Earth appears built in strata, something like an onion, one layer or stratum outside another. There are nine such strata and the central core, making ten in all. These strata are revealed to the Initiate gradually. One stratum becomes accessible to him at each Initiation, so that at the end of the nine lesser Initiations he is master of all the layers, but has not yet access to the secrets of the core. 
 
@@ -4121,9 +4121,9 @@ There are many such theories. The Copernican theory is not altogether correct, a
 
 By many the statements made in the foregoing pages will be considered fantastic. Be it so. Time will bring to all a knowledge of the facts herein set forth. This book is only for the few who, having freed their minds from the shackles of orthodox science and religion, are ready to accept this until they have proven it wrong. 
 
-### <h3 id="chapter-19">CHAPTER XIX: CHRISTIAN ROSENKREUZ AND THE ORDER OF ROSICRUCIANS</h3>
+### <h3 id="chapter-19">Chapter XIX: Christian Rosenkreuz and the Order of Rosicrucians</h3>
 
-#### <h4 id="ancient-truths-in-modern-dress">ANCIENT TRUTHS IN MODERN DRESS</h4>
+#### <h4 id="ancient-truths-in-modern-dress">Ancient Truths in Modern Dress</h4>
 
 Having encountered among the public a widespread desire to learn something of the Order of Rosicrucians, and as there is a lack of understanding of the important place occupied by the Brothers of the Rose Cross in our Western civilization, even among our students, it may be well to furnish authentic information upon the subject. 
 
@@ -4195,7 +4195,7 @@ The Head of the Order is hidden from the outside world by the twelve Brothers, a
 
 Gathered around the Brothers of the Rose Cross, as their pupils, are a number of "lay brothers"; people who live in various parts of the Western World, but are able to leave their bodies consciously, attend the services and participate in the spiritual work at the temple; they having each and every one been "initiated" in the method of so doing by one of the Elder Brothers. Most of them are able to remember all that happens, but there are a few cases where the faculty of leaving the body was acquired in a previous life of well-doing and where a drug habit or a sickness contracted in the present existence has unfitted the brain to receive impression of the work done by the man when away. 
 
-#### <h4 id="initiation">INITIATION</h4>
+#### <h4 id="initiation">Initiation</h4>
 
 The general idea of initiation is that it is merely a ceremony which makes one member of a secret society; that it may be conferred upon anyone willing to pay a certain price, a sum of money in most cases. 
 
@@ -4243,7 +4243,7 @@ Now the time has come, however, when the method of secret endeavor is to be supp
 
 But, and this is a very important "But," the Rosicrucians do not regard an intellectual understanding of God and the Universe as an end in itself; far from it! The greater the intellect, the greater the danger of its misuse. Therefore, this scientific, logical and exhaustive teaching is given in order that man may believe in his heart that which his head has sanctioned and start to live the religious life. 
 
-#### <h4 id="the-rosicrucian-fellowship">THE ROSICRUCIAN FELLOWSHIP</h4>
+#### <h4 id="the-rosicrucian-fellowship">The Rosicrucian Fellowship</h4>
 
 In order to promulgate this teaching the Rosicrucian Fellowship has been formed, and anyone who is not a Hypnotist, professional Medium, Clairvoyant, Palmist or Astrologer, may enroll as a Preliminary Course Student by writing to the General Secretary. There is no fee for Initiation, or dues. Money cannot buy our teaching, advancement depends on merit. 
 
@@ -4263,7 +4263,7 @@ Therefore each Probationer in the Rosicrucian Fellowship performs his exercises 
 
 When the Probationer has compiled with the necessary requirements and completed the term of probation, he may send request for individual instruction by the Elder Brothers through the General Secretary. 
 
-#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">THE INTERNATIONAL HEADQUARTERS OF THE ROSICRUCIAN FELLOWSHIP</h4>
+#### <h4 id="the-international-headquarters-of-the-rosicrucian-fellowship">The International Headquarters of the Rosicrucian Fellowship</h4>
 
 Having formed the Rosicrucian Fellowship for the purpose of promulgating the teaching given in this book, and aiding aspirants on the path of progression, it became necessary to find a permanent home and facilities requisite for doing this work. To this end a tract of land was purchased in the town of Oceanside, CA., ninety miles south of Los Angeles and forty miles north of San Diego, the southwesternmost city of the United States. 
 
@@ -4271,17 +4271,17 @@ This tract occupies a commanding site having a most wonderful view of the great 
 
 Southern California offers exceptional opportunities for spiritual growth, because of the ether atmosphere being denser than in any other part of the world and Mount Ecclesia, as the Earth Fellowship Headquarters are called, is particularly favored in this respect. 
 
-#### <h4 id="our-buildings">OUR BUILDINGS</h4>
+#### <h4 id="our-buildings">Our Buildings</h4>
 
 The work at Headquarters was begun toward the end of 1911. To date (1973) numerous buildings have been erected, some of which now no longer exist. The Pro-Ecclesia, or Chapel, in which two 15-minute services have been held daily since its dedication in December, 1913, was thoroughly renovated in 1962. A devotional service with lecture continues to be conducted on Sundays. A two-story Administration Building was completed in 1917, and renovated in 1962. On the second floor are offices for the various departments: Esoteric, Correspondence Courses, Editorial, Foreign Languages, and Accounting. On the first floor are the Shipping Department and the print shop, where Lessons, RAYS, pamphlets, etc., are printed. An offset press was installed in 1972. 
 
 The Dining Hall was built in 1914, added to in the late 30's, and renovated in 1962. Vegetarian meals are served. The Healing Temple, where a healing service is conducted each evening, was completed in 1920. Rose Cross Lodge was built in 1924, for the use of guests and workers. It is now used largely for storing books. The Sanitarium Building was opened in 1939 and used for a number of years to treat patients suffering from noncontagious diseases. It is now our Guest House, used by workers and members. Numerous cottages built since 1962, and some renovated ones provide living quarters for workers. The Healing Dept. Building was erected in 1940. Here secretaries conduct our healing work. 
 
-#### <h4 id="the-correspondence-school">THE CORRESPONDENCE SCHOOL</h4>
+#### <h4 id="the-correspondence-school">The Correspondence School</h4>
 
 In addition to publications of The Rosicrucian Fellowship noted in the back of this book there are three correspondence courses offered on the freewill basis: Rosicrucian Philosophy, Bible Interpretation, and Astrology. Information concerning these is furnished upon request. 
 
-#### <h4 id="the-symbolism-of-the-rose-cross">THE SYMBOLISM OF THE ROSE CROSS</h4>
+#### <h4 id="the-symbolism-of-the-rose-cross">The Symbolism of the Rose Cross</h4>
 
 When inquiring into the meaning of any myth, legend or symbol of occult value, it is an absolute necessity that we should understand that, as any object in the three-dimensional world may, or rather must, be viewed from all points to obtain a full and complete comprehension thereof, so all symbols have a number of aspects. Each viewpoint reveals a different phase from the others, and all have an equal claim to consideration. 
 
@@ -4319,9 +4319,9 @@ By diligent and intelligent use of this index the Rosicrucian Cosmo-Conception w
 
 [!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ??? INDEX AND REFERENCES ??? CHECK TODO, NEED TO CONSIDER]
 
-### <h3 id="addendum-a">Addendum A: MORNING AND EVENING EXERCISES PERFORMED BY THE ROSICRUCIAN ASPIRANT
+### <h3 id="addendum-a">Addendum A: Morning and Evening Exercises Performed by the Rosicrucian Aspirant</h3>
 
-#### <h4 id="">THE EVENING EXERCISE (Mentioned on page 111)</h4>
+#### <h4 id="">The Evening Exercise (Mentioned on page 111)</h4>
 
 The value of exercise, Retrospection, is of greater value than any other method in advancing the aspirant upon the path of attainment. It has such a far-reaching effect that it enables one to learn now, not only the lessons of this life, but lessons ordinarily reserved for future lives. 
 
@@ -4333,7 +4333,7 @@ The value of retrospection is enormous--far-reaching beyond imagination. In the 
 
 The pure shall see God, said Christ, and the Teacher will quickly open our eyes when we are fit to enter into the "Hall of Learning," the Desire World, where we obtain our first experiences of conscious life without the dense body. 
 
-#### <h4 id="">THE MORNING EXERCISE</h4>
+#### <h4 id="">The Morning Exercise</h4>
 
 Concentration, the second exercise, is performed in the morning at the very earliest moment possible after the aspirant awakes. He must not arise to open blinds or perform any other unnecessary act. If the body is comfortable he should at once relax and commence to concentrate. This is very  important, as the spirit has just returned from the Desire World at the moment of waking, and at that time the conscious touch with that world is more easily regained than at any other time of the day. 
 
@@ -4353,7 +4353,7 @@ An ancient legend says that digging for treasure must be done in the stillness o
 
 Finally, beware of regarding the exercises as a burdensome task. estimate them at their true worth; they are our highest privilege. Only when thus regarded can we do them justice and reap the full benefits from them. 
 
-### <h3 id="">CONCERNING THE ORIGIN OF THE FELLOWSHIP TEACHINGS</h3>
+### <h3 id="">Concerning the Origin of the Fellowship Teachings</h3>
 
 Although the word "Rosicrucian" is used by several organizations, The Rosicrucian Fellowship has no connection with any of them. 
 
@@ -4363,7 +4363,7 @@ Under the direction of the Brothers of the Rose Cross, spiritual giants of the h
 
 One of the basic conditions on which the Western Wisdom Teachings were given to Max Heindel was that no price should be set on them. This condition was faithfully observed by him to the end of his life, and has since been carefully observed by those directing the affairs of the Rosicrucian Fellowship. Although the Fellowship books are sold, the correspondence courses and the service of our Healing Department have been kept on the free will offering plan. There are no membership fees. 
 
-### <h3 di="">WHAT IS TRUTH?</h3>
+### <h3 di="">What Is Truth?</h3>
 
 Pilate asked the question "What is Truth?" and being incapable of knowing from within, he received no answer. 
 
@@ -4387,7 +4387,7 @@ We have all trodden the different paths of life at some time. At one time we hav
 
 "And what about the darkness," someone asks, "is that evil?" No, there is nothing evil in God's universe. During the day we perceive by the light of the Sun the glories of this little Earth that swings in space, and perhaps if there were only light, we should perceive nothing beyond this Earth and remain ignorant that there is more than the Sun and Moon. But when night comes, and the glories of the day have faded, when the Sun no longer illumines the sky, we can realize, to a certain extent at least, the immensity of space. We can see worlds millions and millions of miles away, and the Spirit is incited to wonderful devotion, as we dwell upon the Truth that GOD IS ALL IN ALL. - Max Heindel. 
 
-### <h3 id="addendum-b">Addendum B: Footnote to Chapter III - REINCARNATION OR REBIRTH?</h3>
+### <h3 id="addendum-b">Addendum B: Footnote to Chapter III – Reincarnation or Rebirth?</h3>
 
 Question No. 31: Is it wrong to interfere with karma, or should we assert our divinity and rise above circumstances by affirmation of our Godhood?
 
