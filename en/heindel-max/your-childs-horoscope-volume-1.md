@@ -40,6 +40,18 @@ These astrological interpretations of horoscopes by Max Heindel, messenger of th
 - [Miriam S.](#miriam-s) 
 - [Margaret L.](#margaret-l) 
 - [Erman C.](#erman-c)
+- [James P. S.](#james-p-s)
+- [John G.](#john-g)
+- [Marion K.](#marion-k)
+- [Norman P.](#norman-p)
+- [Margery W.](#margery-w)
+- [Barbara S.](#barbara-s)
+- [Mary A. B.](#mary-a-b)
+- [Rosalynd W. McL.](#rosalynd-w-mcl)
+- [John Miller A.](#john-miller-a)
+- [Louis Martin P.](#louis-martin-p)
+- [Donald B.](#donald-b)
+- [Lillian A.](#lillian-a)
 
 <h2 id="your-childs-horoscope-h2">Your Child's Horoscope</h2>
 
