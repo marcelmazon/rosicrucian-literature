@@ -1,12 +1,24 @@
-# CRISTIANISMO ROSACRUZ
+---
+title: "Cristanismo Rosacruz"
+language: "pt"
+original_title: "The Rosicrucian Christianity Lectures"
+original_language: "en"
+author: "Max Heindel"
+original_source_file: "the-rosicrucian-christianity-lectures.md"
+---
+
+<h1 id="the-rosicrucian-christianity-lectures">Cristanismo Rosacruz</h1>
 
 por Max Heindel
 
-### PREFÁCIO
+THE ROSICRUCIAN FELLOWSHIP  
+International Headquarters Mt. Ecclesia  
+P.O. Box 713  
+Oceanside, California, 92054, USA  
 
-As conferências aqui apresentadas em forma de livro foram primeiramente escritas como textos de vinte Conferências proferidas por Max Heindel em Columbus, Ohio, durante o mês de novembro de 1908. Delas, também o conferencista extraiu cópias mimeografadas que distribuiu a todos os que assistiram às citadas Conferências, tanto naquela quanto em outras cidades.
+### <h3 id="foreword">Prefácio</h3>
 
-Após suas conferências em Seattle, Washington, um de seus amigos que atendia pelo nome de William M. Patterson viajou com ele até Chicago, Illinois, onde não apenas financiou a publicação, mas também ajudou ao Sr. Heindel na revisão das provas tanto do “Conceito Rosacruz do Cosmos” quanto  destas vinte Conferências. Estas últimas foram então publicadas na forma de livretos, enquanto que o “Conceito” foi entregue ao público na forma de livro encadernado em percalina.
+As conferências aqui apresentadas em forma de livro foram primeiramente escritas como textos de vinte Conferências proferidas por Max Heindel em Columbus, Ohio, durante o mês de novembro de 1908. Delas, também o conferencista extraiu cópias mimeografadas que distribuiu a todos os que assistiram às citadas Conferências, tanto naquela quanto em outras cidades. Após suas conferências em Seattle, Washington, um de seus amigos que atendia pelo nome de William M. Patterson viajou com ele até Chicago, Illinois, onde não apenas financiou a publicação, mas também ajudou ao Sr. Heindel na revisão das provas tanto do “Conceito Rosacruz do Cosmos” quanto  destas vinte Conferências. Estas últimas foram então publicadas na forma de livretos, enquanto que o “Conceito” foi entregue ao público na forma de livro encadernado em percalina.
 
 Max Heindel havia passado o inverno de 1907-1908 na Europa onde contatou os Irmãos Maiores da Ordem Rosa Cruz, dos quais recebeu os ensinamentos contidos nestas Conferências como também as maravilhosas verdades contidas no “Conceito Rosacruz do Cosmos”. Na época em que as recebeu, ele ainda não se dava conta da magnitude  do trabalho que lhe havia sido confiado: a transmissão desses ensinamentos a um mundo com a alma enferma.
 
@@ -21,29 +33,29 @@ Mrs. Max Heindel
 Mt. Ecclesia, 
 Outubro de 1939
 
-### <h3 id="table-of-contents">Table of Contents</h3>
+### <h3 id="table-of-contents">Índice</h3>
 
-- [Foreword by Mrs. Max Heindel](#foreword)
-- [Lecture One: The Riddle of Life and Death](#lecture-1)
-- [Lecture Two: Where are the Dead?](#lecture-2)
-- [Lecture Three: Spiritual Sight and the Spiritual Worlds](#lecture-3)
-- [Lecture Four: Sleep, Dreams, Trance, Hypnotism, Mediumship, and Insanity](#lecture-4)
-- [Lecture Five: Death, and Life in Purgatory](#lecture-5)
-- [Lecture Six: Life and Activity in Heaven](#lecture-6)
-- [Lecture Seven: Birth a Fourfold Event](#lecture-7)
-- [Lecture Eight: The Science of Nutrition, Health, and Protracted Youth](#lecture-8)
-- [Lecture Nine: Astronomical Allegories of the Bible](#lecture-9)
-- [Lecture Ten: Astrology: Its Scope and Limitations](#lecture-10)
-- [Lecture Eleven: Spiritual Sight and Insight](#lecture-11)
-- [Lecture Twelve: Parsifal: Wagner's famous Mystic Music Drama](#lecture-12)
-- [Lecture Thirteen: The Angels as Factors in Evolution](#lecture-13)
-- [Lecture Fourteen: Lucifer: Tempter or Benefactor?](#lecture-14)
-- [Lecture Fifteen: The Mystery of Golgotha and the Cleansing Blood](#lecture-15)
-- [Lecture Sixteen: The Star of Bethlehem, a Mystic Fact](#lecture-16)
-- [Lecture Seventeen: The Mystery of the Holy Grail](#lecture-17)
-- [Lecture Eighteen: The Lord's Prayer](#lecture-18)
-- [Lecture Nineteen: The Coming Force - Vril or what?](#lecture-19)
-- [Lecture Twenty: Fellowship and the Coming Race](#lecture-20)
+- [Prefácio](#foreword)
+- [Conferência I: O Enigma da Vida e da Morte](#lecture-1)
+- [Conferência II: Onde Estão os Mortos?](#lecture-2)
+- [Conferência III: Visão Espiritual e Mundos Espirituais](#lecture-3)
+- [Conferência IV: Sono, Sonhos, Transe, Hipnotismo, Mediunidade e Insanidade](#lecture-4)
+- [Conferência V: Morte – Vida no Purgatório](#lecture-5)
+- [Conferência VI: Vida e Atividade no Céu](#lecture-6)
+- [Conferência VII: Nascimento — Um Acontecimento Quádruplo](#lecture-7)
+- [Conferência VIII: A Ciência da Nutrição, da Saúde e da Juventude Prolongada](#lecture-8)
+- [Conferência IX: Alegorias Astronômicas da Bíblia](#lecture-9)
+- [Conferência X: Astrologia — Seu Alcance e Limitações](#lecture-10)
+- [Conferência XI: Visão e Compreensão Espirituais](#lecture-11)
+- [Conferência XII: Parsifal — Célebre Drama Musical Místico de Wagner](#lecture-12)
+- [Conferência XIII: Os Anjos como Fatores da Evolução](#lecture-13)
+- [Conferência XIV: Lúcifer — Tentador, Benfeitor ou Ambos?](#lecture-14)
+- [Conferência XV: O Mistério do Gólgota e o Sangue Purificador](#lecture-15)
+- [Conferência XVI: A Estrêla de Belém — Um Fato Místico](#lecture-16)
+- [Conferência XVII: O Mistério do Santo Graal](#lecture-17)
+- [Conferência XVIII: A Oração do Senhor](#lecture-18)
+- [Conferência XIX: A Força Futura – Vril o Que Será?](#lecture-19)
+- [Conferência XX: A Fraternidade e a Raça Futura](#lecture-20)
 
 ### <h3 id="diagrams">Diagrams</h3>
 
@@ -59,8 +71,8 @@ Outubro de 1939
 
 Note: These diagrams were taken from The Rosicrucian Cosmo-Conception, by Max Heindel, and in some instances are numbered as in that book.
 
-CONFERÊNCIA I
-O ENIGMA DA VIDA E DA MORTE
+### <h3 id="lecture-1">Conferência I: O Enigma da Vida e da Morte</h3>
+
 m cada nascimento, vem ao mundo o que aparenta ser uma “nova” vida. Pouco
 a pouco, a pequenina forma cresce, vive, movimenta-se entre nós e torna-se um
 fator em nossas vidas. Mas chega finalmente um momento em que a forma
@@ -68,15 +80,18 @@ cessa de mover-se e morre. A vida que veio - de onde não sabemos - volta
 novamente ao invisível Além. Então, amargurados e perplexos, fazemos a nós mesmos
 as três grandes perguntas relativas à nossa existência: “De onde viemos?” - “Por que
 estamos aqui?” - “Para onde vamos?”
+
 Através de cada umbral, o pavoroso espectro da Morte lança sua sombra. E visita
 igualmente tanto o palácio quanto o casebre. Dela, ninguém está a salvo: velhos e
 jovens, sãos e doentes, ricos e pobres. Todos, sem exceção, devem passar por sua
 sombria porta e, das mais remotas eras ao longo dos tempos, tem soado o pungente
 clamor por uma solução ao enigma da vida e ao enigma da morte.
+
 Infelizmente, vagas têm sido as especulações por parte de pessoas que pouco sabem.
 Em virtude disso, tornou-se popularmente aceita a opinião de que nada em definitivo
 se pode saber acerca da mais importante parte de nossa existência: a Vida antes de
 manifestar-se pelo nascimento e além dos umbrais da Morte.
+
 Tal idéia é errônea. O conhecimento direto, bem definido, está ao alcance de todo
 aquele que queira se dar ao trabalho de desenvolver o “sexto sentido”, latente em
 todos. Quando alcançamos tal percepção, abrem-se os nossos olhos espirituais, com os
@@ -88,6 +103,7 @@ mente indagadora, do mesmo modo que não é necessário ir-se à China para conh
 suas condições. Conhecemos as nações estrangeiras através de informações e de
 relatos de quem as visitou. E há tanta informação sobre os mundos internos quanto há
 sobre o interior da África, da Austrália ou da China.
+
 A solução do problema da Vida e do Ser, indicada nas páginas seguintes, baseia-se no
 testemunho concordante de muitos que já desenvolveram a faculdade acima
 mencionada e que, por isso mesmo, tornaram-se aptos para investigar cientificamente
@@ -111,15 +127,18 @@ Citemos primeiramente essas três teorias e depois vejamos sua concordância com
 fatos estabelecidos da vida, e até que ponto elas se harmonizam com as outras leis da
 Natureza já conhecidas. Se verdadeiras, podemos racionalmente esperar que se
 harmonizem, pois a discordância não tem lugar na Natureza.
+
 1) TEORIA MATERIALISTA - Assegura que a vida é uma grande jornada do ventre
 materno ao túmulo; que a mente é produto da matéria; que o homem é a mais
 elevada inteligência do Cosmos e que sua inteligência perece quando o corpo
 se desintegra pela morte.
+
 2) TEORIA TEOLÓGICA - Afirma que a cada nascimento mais uma alma recém-
 criada por Deus penetra na arena da vida; que ao fim de um breve período de
 existência no mundo material, ela passa ao invisível Além através dos portais
 da morte, para lá ficar, e que sua felicidade ou desgraça nesse Além são
 determinadas para sempre pela crença que alimentou antes de morrer.
+
 3) TEORIA DO RENASCIMENTO - Ensina que cada Espírito é parte integrante de
 Deus, contendo em si todas as possibilidades divinas, do mesmo modo que a
 semente contém as possibilidades da planta; que, por meio de repetidas
@@ -485,8 +504,8 @@ uma transitória e carnal roupagem
 e prossegue, para então herdar
 outra morada, outro novo lar!
 
-CONFERÊNCIA II
-ONDE ESTÃO OS MORTOS ?
+### <h3 id="lecture-2">Conferência II: Onde Estão os Mortos?</h3>
+
 Um pouco de reflexão logo tornará evidente a qualquer pesquisador
 que vivemos em um mundo de efeitos, os quais resultam de causas
 invisíveis. Podemos ver a MATÉRIA e a FORMA, mas a FORÇA que
@@ -494,6 +513,7 @@ modela e anima a matéria está invisível para nós. A vida não pode
 ser conhecida diretamente através dos sentidos, pois é invisível e
 existe por si mesma, independentemente da variedade de formas que
 vemos como manifestações suas.
+
 Eletricidade, magnetismo e vapor são nomes dados a forças que os
 olhos físicos nunca podem ver, embora, em conformidade a certas
 leis descobertas por experiências, possamos torná-las nossas mais
@@ -505,6 +525,7 @@ alcance em questão de segundos. Elas estão às nossas ordens a todo
 e qualquer tempo, infatigáveis e fiéis na execução de inúmeras
 tarefas mesmo que, conforme foi dito, nunca tenhamos podido ver
 essas valiosas servidoras.
+
 Essas forças da Natureza não são nem cegas nem destituídas de
 inteligência, como erradamente cremos. Há várias classes delas, e
 operam ao longo de diversas correntes de vida. Talvez uma
@@ -524,11 +545,10 @@ sentidos, um mundo até aqui invisível. Com telescópios de crescente
 poder, os astrônomos vêm vasculhando o espaço e descobrindo mais
 e mais mundos. Com admirável engenhosidade, têm acoplado
 câmeras aos telescópios, fotografando assim sóis a tão grandes
-
-
 distâncias que seus raios nem sequer chegam a impressionar nossos
 olhos, só podendo ser captados através da exposição da chapa
 fotográfica por várias horas.
+
 Na direção do infinitesimal, a crescente perfeição do microscópio tem
 alcançado análogos resultados; um mundo até agora invisível para
 nós foi descoberto, o qual contém uma atividade extraordinária de
@@ -1022,8 +1042,8 @@ pois tudo, neste Universo infinito de Deus,
 é vida - NÃO EXISTE A MORTE.
 
 
-CONFERÊNCIA III
-VISÃO ESPIRITUAL E MUNDOS ESPIRITUAIS
+### <h3 id="lecture-3">Conferência III: Visão Espiritual e Mundos Espirituais</h3>
+
 imos na Conferência I que a única teoria sobre a vida que suporta o foco luminoso da
 razão é a de que o Ego humano é imortal, que a vida terrena é uma escola à qual esse
 Ego retorna, vida após vida, para aprender suas lições por força das Leis gêmeas da
@@ -1383,9 +1403,8 @@ Natureza - sempre pronta a desvendar-nos suas maravilhas - expressará sua calor
 sobre cada um que, como auxiliar da evolução, alcance a cidadania nos reinos invisíveis.
 
 
-CONFERÊNCIA IV
-SONO, SONHOS, TRANSE, HIPNOTISMO, MEDIUNIDADE E
-INSANIDADE
+<h3 id="lecture-4">Conferência IV: Sono, Sonhos, Transe, Hipnotismo, Mediunidade e Insanidade</h3>
+
 Vimos que o homem é um organismo muito complexo, compondo-se de:
 1) Corpo Denso, que é seu instrumento de ação;
 2) Corpo Vital, o veículo da “vitalidade” que torna possível a ação;
@@ -1747,9 +1766,8 @@ A lição que nos fica da matéria acima é que devemos sempre manter-nos senhor
 mesmos e nunca, sob nenhum pretexto, permitirmos que qualquer agente externo nos
 hipnotize ou controle. O autodomínio é nossa meta e não o domínio sobre os outros.
 
+### <h3 id="lecture-5">Conferência V: Morte – Vida no Purgatório</h3>
 
-CONFERÊNCIA V
-MORTE - VIDA NO PURGATÓRIO
 ntre todas as incertezas que caracterizam este mundo, uma coisa apenas é certa: a
 Morte. A qualquer momento, após uma vida mais curta ou mais longa, chega o fim
 desta fase material de nossa existência, que é um nascimento em um novo mundo,
@@ -2140,9 +2158,8 @@ parte de Nemesis no drama do crime revivido.
 Assim, é o Ego purgado de toda classe de males pela ação impessoal da Lei de Consequência,
 ficando apto para entrar no Céu e fortalecer-se no bem, tal como foi enfraquecido no mal.
 
+### <h3 id="lecture-6">Conferência VI: Vida e Atividade no Céu</h3>
 
-CONFERÊNCIA VI
-VIDA E ATIVIDADE NO CÉU
 imos, no Capítulo anterior, como nossas más ações e hábitos indesejáveis são tratados
 pela impessoal Lei de Consequência que favorece o bem nas vidas futuras. Para ilustrar
 a atuação desta Lei, servimo-nos de casos tais como o do assassino, do suicida, do
@@ -2523,10 +2540,8 @@ Mente que fôra até ali a sua roupagem. E assim, inteiramente livre e desembara
 Terceiro Céu, que é o ponto mais elevado já atingido pelo homem em seu presente estágio de
 desenvolvimento. Segui-lo-emos até lá na próxima Conferência.
 
+### <h3 id="lecture-7">Conferência VII: Nascimento — Um Acontecimento Quádruplo</h3>
 
-2
-CONFERÊNCIA VII
-NASCIMENTO: UM ACONTECIMENTO QUÁDRUPLO
 uando deixamos o Ego em sua peregrinação através dos mundos invisíveis, havíamos
 alcançado o ponto em que ele ingressava no Terceiro Céu, após ter abandonado: o
 corpo denso ao morrer, o corpo vital logo a seguir, o corpo de desejos ao deixar o
@@ -2927,9 +2942,8 @@ libertar-se também, e será capaz de ocupar o seu lugar no mundo como um cidad�
 probo, graças àqueles que dele cuidaram amorosamente em seus anos de desenvolvimento:
 um homem ou uma mulher bem educados.
 
+### <h3 id="lecture-8">Conferência VIII: A Ciência da Nutrição, da Saúde e da Juventude Prolongada</h3>
 
-CONFERÊNCIA VIII
-A CIÊNCIA DA NUTRIÇÃO, DA SAÚDE E DA JUVENTUDE PROLONGADA
 as conferências anteriores, tentamos constantemente enfatizar o valor do
 corpo denso, que é o mais valioso de todos os nossos bens terrenos e, por
 estranho que pareça, é o de que mais nos descuidamos. Para proteger
@@ -3274,8 +3288,7 @@ notados, o que proporcionará maior amplitude e mais liberdade às faculdades
 mentais.
 
 
-Alegorias Astronômicas
-da Bíblia
+### <h3 id="lecture-9">Conferência IX: Alegorias Astronômicas da Bíblia</h3>
 
 
 Temos considerado o homem como uma unidade, mostrando
@@ -3790,13 +3803,13 @@ que eles fazem encarnar em uma forma corporal que criaram.
 (9)Pomba e Baleia: duas constelações.
 
 
-Astrologia
-Seu Alcance e Limitações
+### <h3 id="lecture-10">Conferência X: Astrologia — Seu Alcance e Limitações</h3>
 
 
 Astrologia
 Seu Alcance e Limitações
 por Max Heindel
+
 Conferência Pública ministrada em Seattle em 1908
 Nos dias de hoje a ciência da Astrologia vem sendo
 desacreditada e considerada uma falácia. Do mesmo
@@ -4319,8 +4332,7 @@ Conforme nós navegamos ao longo e através da vida
 E não a calmaria ou o constante lutar.
 
 
-CONFERÊNCIA XI
-VISÃO E COMPREENSÃO ESPIRITUAIS
+### <h3 id="lecture-11">Conferência XI: Visão e Compreensão Espirituais</h3>
 
 
 Quando falamos de visão espiritual, não o fazemos simbolicamente, referindo-nos
@@ -4797,8 +4809,7 @@ estreito contato com o movimento e que trabalham para difundir as profundas verd
 concernentes à Vida e ao Ser que os estão ajudando.
 
 
-PARSIFAL
-Célebre Drama Musical Místico de Wagner
+### <h3 id="lecture-12">Conferência XII: Parsifal - Célebre Drama Musical Místico de Wagner</h3>
 
 
 o olharmos ao nosso redor, no universo material,
@@ -5329,9 +5340,7 @@ decidida, largando tua concha superada nos agitados
 mares desta vida".
 
 
-2
-CONFERÊNCIA XIII
-OS ANJOS COMO FATORES DA EVOLUÇÃO
+### <h3 id="lecture-13">Conferência XIII: Os Anjos como Fatores da Evolução</h3>
 
 
 Quando se fala de evolução, a ideia que disso concebe o mundo ocidental é sobretudo
@@ -5643,9 +5652,9 @@ serão conscientemente Um em Deus, e o homem terá sido emancipado da tutela dos
 dos Arcanjos e dos Poderes ainda maiores.
 
 
-CONFERÊNCIA XIV
-LÚCIFER: TENTADOR, BENFEITOR OU AMBOS?
-ORIGEM E FINALIDADE DA TRISTEZA E DA DOR
+### <h3 id="lecture-14">Conferência XIV: Lúcifer — Tentador, Benfeitor ou Ambos?</h3>
+
+Origem e Finalidade da Tristeza e da Dor
 
 
 Ao olharmos o mundo ao nosso redor, constatamos que não há fato mais evidente do que
@@ -6001,8 +6010,7 @@ Em vão olharás a Cruz do Gólgota
 A menos que dentro de ti Ela seja novamente erguida.”
 
 
-Conferência XV
-O Mistério do Gólgota e o Sangue Purificador
+### <h3 id="lecture-15">Conferência XV: O Mistério do Gólgota e o Sangue Purificador</h3>
 
 
 Por todos os dois mil anos de religião cristã, e desde que a doutrina da expiação
@@ -6285,8 +6293,7 @@ benevolência que, gradativamente, toma o lugar do patriotismo e do egoísmo, e 
 conduz o mundo à Fraternidade Universal.
 
 
-Conferência XVI
-A Estrêla de Belém: Um Fato Místico
+### <h3 id="lecture-16">Conferência XVI: A Estrêla de Belém — Um Fato Místico</h3>
 
 
 Há mais de 2000 anos, nasceu uma criança na Palestina. Crianças nascem todos os dias,
@@ -6664,8 +6671,7 @@ Em vão olharás a Cruz do Gólgota
 a menos que dentro de ti Ela seja novamente erguida.”
 
 
-Conferência XVII
-O Mistério do Santo Graal
+### <h3 id="lecture-17">Conferência XVII: O Mistério do Santo Graal</h3>
 
 
 Neste capítulo, vamos considerar um dos Mistérios da antiguidade. Encontrando-se em
@@ -7060,8 +7066,7 @@ construtor”) Hiram Abiff, tendo sido destinado às abluções sacerdotais de e
 simbolicamente depurador.”
 
 
-Conferência XVIII
-A Oração do Senhor
+### <h3 id="lecture-18">Conferência XVIII: A Oração do Senhor</h3>
 
 
 Muitas pessoas que hoje meditam seriamente sobre os problemas da vida superior
@@ -7420,8 +7425,7 @@ Assim, pois, a Oração do Senhor satisfaz as várias partes constitutivas do ho
 necessidades de cada uma, mostrando a maravilhosa sabedoria contida em fórmula tão simples.
 
 
-Conferência XIX
-A Força Futura – VRIL ! O Que Será ?
+### <h3 id="lecture-19">Conferência XIX: A Força Futura – Vril o Que Será?</h3>
 
 
 Tanto se tem falado dos mundos internos sob o ponto de vista oculto, tanta ênfase tem-se
@@ -7788,8 +7792,7 @@ planeta, dominará o mundo. Para os estudantes de ocultismo há um insofismável
 
 
 
-Conferência XX
-A Fraternidade e a Raça Futura
+### <h3 id="lecture-20">Conferência XX: A Fraternidade e a Raça Futura</h3>
 
 
 De ínfimas partículas do caos

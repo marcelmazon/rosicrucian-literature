@@ -71,7 +71,7 @@ October, 1939
 
 Note: These diagrams were taken from The Rosicrucian Cosmo-Conception, by Max Heindel, and in some instances are numbered as in that book.
 
-### <h3 id="lecture-1">LECTURE ONE: THE RIDDLE OF LIFE AND DEATH</h3>
+### <h3 id="lecture-1">Lecture One: The Riddle of Life and Death</h3>
 
 At every birth, what appears to be a new life comes into the world. Slowly the little form grows, it lives and moves among us, it becomes a factor in our lives; but at last there comes a time when the form ceases to move and decays. The love that came, whence we know not, has again passed to the invisible beyond. Then, in sorrow and perplexity we ask ourselves the three great questions concerning our existence: Whence have we come? Why are we here? Whither are we going? 
 
@@ -184,7 +184,7 @@ And passeth on the inherit
 A residence afresh.
 ```
 
-### <h3 id="lecture-2">LECTURE TWO: WHERE ARE THE DEAD?</h3>
+### <h3 id="lecture-2">Lecture Two: Where Are the Dead?</h3>
 
 A little thought will soon make it apparent to any investigator that we live in a world of effect which is the result of invisible causes. Matter and form we see, but the force which molds the matter into form and quickens it is invisible to us. Life can not be cognized directly by the senses; it is invisible and self-existent, independent of the varied forms we see as its manifestations. 
 
@@ -331,7 +331,7 @@ For all God's boundless Universe
 Is Life--there are no dead.
 ```
 
-### <h3 id="lecture-3">LECTURE THREE: SPIRITUAL SIGHT AND THE SPIRITUAL WORLDS</h3>
+### <h3 id="lecture-3">Lecture Three: Spiritual Sight and the Spiritual Worlds</h3>
 
 In the first lecture we saw that the only theory of life which will bear the searchlight of reason is the theory that the human Ego is immortal, that Earth-life is a school and that the Ego returns to that school life after life to learn its lessons under the twin laws of Nature: the Laws of Consequence and Rebirth, thus progressing steadily towards the goal of Perfection. 
 
@@ -355,7 +355,7 @@ Besides, in the Physical World forms are stable and do not easily change, but in
 
 Before proceeding to the investigation of the invisible worlds, we must first state the Rosicrucian conception of the Physical World, as it differs somewhat from the generally accepted views. 
 
-#### <h4 id="the-chemical-region-of-the-physical-world">THE CHEMICAL REGION OF THE PHYSICAL WORLD</h4>
+#### <h4 id="the-chemical-region-of-the-physical-world">The Chemical Region of the Physical World</h4>
 
 In everyday life we distinguish between solids, liquids, and gases. These are grouped by science into about seventy inorganic elements, such as hydrogen, nitrogen, oxygen and carbon. From these elements all FORMS are built. 
 
@@ -375,7 +375,7 @@ Some scientists attribute feeling to minerals, to "dead" plants and "dead" anima
 
 Thus, if man possessed no more than the dense body he would be as incapable of manifesting life as are the chemical substance of which that body is composed, and if there were only this visible Physical World, there could never have been any other forms than the inert crystals. Plants, animals, and man would have been impossible achievements in Nature. 
 
-#### <h4 id="the-etheric-region-of-the-physical-world">THE ETHERIC REGION OF THE PHYSICAL WORLD</h4>
+#### <h4 id="the-etheric-region-of-the-physical-world">The Etheric Region of the Physical World</h4>
 
 The Rosicrucians, in harmony with other occult schools, divide each world into seven "regions" or states of matter. Our visible world comprises but three such regions, viz.: Solid, Liquid, and Gaseous. The invisible ether occupies the four remaining regions, and it is with the investigation of this fourfold ether that the research of occult science begins. 
 
@@ -399,7 +399,7 @@ The same is true of the other worlds. In order to function in them or express th
 
 Yet even the possession of a dense body and a vital body is not sufficient to account for all the facts of life. If there were no other realms in Nature, movable animal and human bodies would be impossibilities; and even if such had been created, having the power to move, the incentive to motion and action would be lacking. The occult scientist finds action has its inception in 
 
-#### <h4 id="the-desire-world">THE DESIRE WORLD</h4>
+#### <h4 id="the-desire-world">The Desire World</h4>
 
 Like the Physical World, this realm of Nature is also composed of seven regions which divide the matter according to relative density and other qualities. 
 
@@ -431,7 +431,7 @@ Thus we see that all action or refrainment from action (which is negative action
 
 Thus we see that a dense body formed of the inert substance of the Chemical Region, quickened and vitalized by the vital body composed of the ethers of the Etheric Region, receives the incentive to action from the desire body, an incentive which the animals follow absolutely, but which in man is checked by another factor--reason, which sometimes causes him to act contrary to desire. Were there no other realms in Nature but the Physical World and the Desire World, That factor would be non-existent. We could have mineral, plant, and animal, but man, a thinking, reasoning being, would be an impossibility in Nature. 
 
-#### <h4 id="the-world-of-thought">THE WORLD OF THOUGHT...</h4>
+#### <h4 id="the-world-of-thought">The World of Thought...</h4>
 
 must be taken into consideration to account for man. For from its substance the mind is formed to act as a brake upon the impulses of the desire body, dictating action contrary to the urge of the twin feelings because of wider viewpoint arrived at by reason. 
 
@@ -453,7 +453,7 @@ The mineral has only a dense body. It lacks three links to connect it with its G
 
 In conclusion, let us note that the three worlds in which we live are not separated by space. They are all about us, as light and color, imbedded in the physical matter; as lines of cleavage in the mineral. If we let a dish of water freeze, and examine it under a microscope, we shall see the ice crystals divided off from one another by lines. These were present though unseen in the water as lines of force, invisible until the proper condition brought them out. So one world lies imbedded in the next above, unseen to us until we provide the proper conditions; but when we have fitted ourselves, Nature, who is every ready to unfold to us her wonders, expresses ardent joy over everyone who as a helper in evolution thus attains to citizenship in the invisible realms. 
 
-### <h3 id="lecture-4">LECTURE FOUR: SLEEP, DREAMS, TRANCE, HYPNOTISM, MEDIUMSHIP AND INSANITY</h3>
+### <h3 id="lecture-4">Lecture Four: Sleep, Dreams, Trance, Hypnotism, Mediumship and Insanity</h3>
 
 We have seen that man is a very complex organism, consisting of: 
 
@@ -576,7 +576,7 @@ When the break is between the Ego and the mind, the latter takes charge of the t
 
 The object lesson to be learned from a knowledge of these matters is that we must remain our own masters and never under any pretext allow ourselves to be hypnotized or controlled by an outside agency; also that self-mastery is our goal, and not mastery over others. 
 
-### <h3 id="lecture-5">LECTURE FIVE: DEATH AND LIFE IN PURGATORY</h3>
+### <h3 id="lecture-5">Lecture Five: Death and Life in Purgatory</h3>
 
 Amid all the uncertainties which are the characteristics of the world, there is but one certainty--Death. At one time or another, after a short or a long life, comes this termination to the material phrase of our existence which is a birth into a new world, as that which we term "birth" is, in the beautiful words of Wordsworth, a forgetting past. 
 
@@ -674,7 +674,7 @@ The victim of murder escapes this suffering because he is in a comatose state as
 
 Thus the Ego is purged of evil of every kind, by the impersonal action of the Law of Consequence, made fit to enter heaven and become strengthened in good, as it has been discouraged in evil. 
 
-### <h3 id="lecture-6">LECTURE SIX: LIFE AND ACTIVITY IN HEAVEN</h3>
+### <h3 id="lecture-6">Lecture Six: Life and Activity in Heaven</h3>
 
 We saw in the last lecture how the evil acts of life and our undesirable habits are dealt with by the impersonal law of consequence, and make for good in future lives, and to illustrate we noted its operation in such cases as those of the murderer, suicide, drunkard, and miser. These are extreme cases, however, and there are many people who have lived good moral lives, tainted more by petty selfishness, which is the besetting sin of our age, than by actual pronounced evil, and for them the stay in the purgatorial regions of the Desire World is of course correspondingly shortened and the suffering incidental is lightened. Thus in time all pass to the upper regions of the Desire World where the First Heaven is located. 
 
@@ -834,7 +834,7 @@ Supposing, then, that an occasion offers 100 years before the time such an Ego s
 
 Having thus progressed through the Second Heaven, the Ego at last withdraws from the sheath of mind, which was its garment there, and thus entirely free and untrammeled enters the Third Heaven, which is the highest point attainable by man at his present stage of development. Thither we will follow him in the next lecture. 
 
-### <h3 id="lecture-7">LECTURE SEVEN: BIRTH: A FOURFOLD EVENT</h3>
+### <h3 id="lecture-7">Lecture Seven: Birth: A Fourfold Event</h3>
 
 When we left the Ego in its pilgrimage through the invisible worlds, we had reached the point where it entered the Third Heaven after having discarded the dense body at death, the vital body shortly afterwards, the desire body upon leaving Purgatory and the First Heaven, and finally before leaving the Second Heaven it also left the sheath of mind behind, and then entered the Third Heaven absolutely free of any encumbrance. All the discarded vehicles decay, only the Spirit persists, laving for a while in the great spiritual reservoir of force which we call the Third Heaven, in order to fortify itself for the next rebirth into Earth-life. 
 
@@ -950,7 +950,7 @@ The desire-body is born about the 14th year, at the time of puberty. That is the
 
 It is now the time that he should be taught to investigate things for himself, and thus to form individual opinions. Let us always impress upon him the necessity of careful investigation before he judges, and also that the more fluidic he can keep his opinions, the better he will be able to examine new facts and acquire new knowledge. In this way he will reach his majority at 21, when the mind is also fully free, and will be able to take his place in the world as a full-fledged citizen, a credit to those whose loving care shielded him in his years of development, a thoroughbred man or woman. 
 
-### <h3 id="lecture-8">LECTURE EIGHT: THE SCIENCE OF NUTRITION, HEALTH, AND PROTRACTED YOUTH</h3>
+### <h3 id="lecture-8">Lecture Eight: The Science of Nutrition, Health, and Protracted Youth</h3>
 
 In the previous lectures we have constantly tried to emphasize the value of the dense body; it is the most priceless of all our material possessions, and strange to say, it is the one we neglect most of all. To protect worthless property we will risk life and limb, throwing away the wheat to save the tares. But it is not our worse crime that we do that upon occasion; the greatest trouble arises from the neglect and disregard which we practice daily, from before birth, to the moment of death. 
 
@@ -1026,7 +1026,7 @@ Imagine two hotels, one run on the basis of cordiality and helpfulness, where th
 
 What wonder if travelers who were forced to enter such a hotel should get angry, cause trouble, and try to get away as soon as possible; what wonder that the man who sniffs and snorts at his food gets indigestion. Whose the fault for his condition but his own? Faultfinding and hate drive the good of our food away from us just as much as they estrange us from friends; enjoyment of food and friend will knit the ties with both closer. As the amount of work we may do in the world, both spiritual and material, depends upon the condition of our bodies, it is of the greatest importance that we cultivate health and prolong youth to the limit of our allotted stay here if it is possible. By following the general directions here given, it will soon be perceived that there is an improvement in the bodily condition which will give fuller and freer scope to the mental faculties. 
 
-### <h3 id="lecture-9">LECTURE NINE: THE ASTRONOMICAL ALLEGORIES OF THE BIBLE</h3>
+### <h3 id="lecture-9">Lecture Nine: The Astronomical Allegories of the Bible</h3>
 
 In the previous lectures we have been considering man as a unit, showing how man, a Spirit, has several bodies, or vehicles of consciousness besides the dense body, and how he uses these bodies in gathering experience as a workman uses tools; how experience is garnered in each life and assimilated between death and the next birth, so that in each new Earth-life, we have as faculty the sum of all our experience in our former lives; and how we are thus progressing towards the glorious goal of perfection, which all will eventually attain before we cease returning to this Earth, were each life in a dense body is as a day at school to a child. When we have learned all that is to be learned here, there are other and higher evolutions that we may enter, just as a child enters the grammar school after passing through kindergarten. Endless progress is before the Ego, limitations are unthinkable, for the human Spirit is a spark from the Infinite, enfolding all possibilities. 
 
@@ -1112,7 +1112,7 @@ This brings to mind the astronomical solution to that passage in Revelation, "I 
 
 Thus we see that the contest of Light and Darkness in the physical world is closely connected in the scriptures of the different religions with the contest of the powers of spiritual light and life against those of darkness and ignorance; that this truth is universally spread among all peoples in all ages. The myths of the dragon-slayers embody the same truth, where the Greeks tell of the victory of Apollo over Python, and of Hercules over the dragon of the Hesperides, the norseman tells of the contest of Beowulf slaying the fire-drake, of Siegfried slaying the dragon Fafner, and of St. George and the dragon. In our materialistic age these truths are temporarily relegated to oblivion or regarded as fairy stories without any basis in truth; but the time will come and is not far distant when these relics will again be restored to honor as embodiments of great spiritual truths. 
 
-### <h3 id="lecture-10">LECTURE TEN: ASTROLOGY: ITS SCOPE AND LIMITATIONS</h3>
+### <h3 id="lecture-10">Lecture Ten: Astrology: Its Scope and Limitations</h3>
 
 In modern times the Science of Astrology has come to be regarded as an exploded fallacy, and, like the clairvoyant, the astrologer is looked upon as a charlatan, and not without reason; for such advertisements as are found in almost any paper offering to cast a horoscope telling one's fortune from the cradle to the grave for the magnificent sum of ten cents or even for a postage stamp are enough to give a certain justification for the appellation "fakir," and this lecture is given to show another side, not popularly known, to this ancient and misjudged science; to show its uses and its limitations. 
 
@@ -1206,7 +1206,7 @@ As we voyage along through life,
 And not the calm or the strife.
 ```
 
-### <h3 id="lecture-11">LECTURE ELEVEN: SPIRITUAL SIGHT AND INSIGHT</h3>
+### <h3 id="lecture-11">Lecture Eleven: Spiritual Sight and Insight</h3>
 
 When we speak of spiritual sight we are not speaking symbolically, or of a vague something, an ecstatic feeling or the like, but of a definite faculty as real as physical sight and as necessary to perception of the spiritual worlds and to true insight into superphysical conditions as physical sight is indispensable to a comprehensive insight into material things. 
 
@@ -1254,7 +1254,7 @@ It depends upon the manner in which we have used our dense bodies in the daytime
 
 Thus we see the great importance of correct observation, of devotion to high ideals, of pure food, etc. All tend to harmonize the inner and outer vibrations. In proportion to our attainment in these directions, the time occupied in restoration is shortened and we are left free to work in the Desire World. 
 
-#### <h4 id="the-evening-exercise">THE EVENING EXERCISE</h4>
+#### <h4 id="the-evening-exercise">The Evening Exercise</h4>
 
 The evening exercise, Retrospection, is of greater efficiency than any other method in advancing the aspirant upon the path of attainment. It has such a far-reaching effect that it enables one to learn now, not only the lessons of this life, but lessons ordinarily reserved for future lives. 
 
@@ -1266,7 +1266,7 @@ The value of retrospection is enormous, far-reaching beyond imagination. In the 
 
 The pure shall see God, said Christ, and the Teacher will quickly open our eyes when we are fit to enter into the "Hall of Learning," the Desire World, where we obtain our first experiences of conscious life without the dense body. 
 
-#### <h4 id="the-morning-exercise">THE MORNING EXERCISE</h4>
+#### <h4 id="the-morning-exercise">The Morning Exercise</h4>
 
 Concentration, the second exercise, is performed in the morning at the very earliest moment after the aspirant awakes. He must not arise to open blinds or perform any other unnecessary act. If the body is comfortable he should at once relax and commence to concentrate. This is very important, as the Spirit has just returned from the Desire World at the moment of waking, and at that time the conscious touch with that world is more easily regained than at any other time of the day. 
 
@@ -1318,7 +1318,7 @@ Third, Disciples, who have completed the term of probation and been accepted by 
 
 During the past few years since we first began to disseminate the Rosicrucian teachings, they have spread over the whole civilized world. They are studied with avidity from the Cape of Good Hope to the Arctic Circle and beyond; they have found response in the hearts of all classes of people. They are known in the snow-clad huts of Alaska and in government houses where a tropical wind unfurls the British Lion. In the capitals of Turkish autocracy and American democracy alike, our adherents may be found, all in lively correspondence and close touch with our movement and working for promulgation of the deeper truths concerning Life and Being which are helping them. 
 
-### <h3 id="lecture-12">LECTURE TWELVE: PARSIFAL: WAGNER'S FAMOUS MYSTIC MUSIC DRAMA</h3>
+### <h3 id="lecture-12">Lecture Twelve: Parsifal: Wagner’s Famous Mystic Music Drama</h3>
 
 As we look about us in the material universe we see a myriad of forms and all these forms have a certain color; and many of them emit a definite tone; in fact, all do, for there is sound even in so-called inanimate Nature. The wind in the tree-tops, the babbling brook, the swell of the ocean, are all definite contributions to the harmony of Nature. 
 
@@ -1460,7 +1460,7 @@ Till thou at length art free.
 Leaving thine outgrown shell by life's unresting sea!
 ```
 
-### <h3 id="lecture-13">LECTURE THIRTEEN: THE ANGELS AS FACTORS IN EVOLUTION</h3>
+### <h3 id="lecture-13">Lecture Thirteen: The Angels as Factors in Evolution</h3>
 
 When we speak of evolution, the idea conveyed to the Western mind is mainly a materialistic one. We have accustomed ourselves to look at the matter from the purely scientific standpoint: that our solar system has proceeded from what was once a nebulous fire-mist, in which currents were generated in a spontaneous manner and started it into motion. It assumed a spherical shape and threw off rings as it contracted. These rings broke up and formed planets which cooled and solidified. At least one planet, our Earth, spontaneously generated simple organisms, which later by the process of evolution became more and more complex, ascending through the Radiates (starfish, sea-urchins) to Mollusks (oysters, clam), thence to Articulates (crab, lobster), into the Vertebrate species. After passing through the four classes of vertebrates--Fishes, Reptiles, Birds, and Mammals--this spontaneous evolutionary impulse reaches its highest present stage in man, who is regarded as the flower of evolution: the highest intelligence in the Cosmos. 
 
@@ -1560,9 +1560,9 @@ But Law makes for sin; it is separative, and besides, man must learn to do right
 
 When Christianity shall have fully spiritualized the vital body, a still higher step will be the religion of the Father, who as the Highest Initiate of the Saturn Period will help man to spiritualize the dense body which was started in the Saturn Period. Then even brotherhood will be transcended; there will be neither me nor thee, for all will be consciously one in God, and Man will have been emancipated by the help of Angels, Archangels, and higher Powers. 
 
-### <h3 id="lecture-14">LECTURE FOURTEEN: LUCIFER, TEMPTER OR BENEFACTOR OR BOTH?</h3>
+### <h3 id="lecture-14">Lecture Fourteen: Lucifer, Tempter or Benefactor or Both?</h3>
 
-#### <h4 id="origin-and-mission-of-sorrow-and-pain">ORIGIN AND MISSION OF SORROW AND PAIN</h4>
+#### <h4 id="origin-and-mission-of-sorrow-and-pain">Origin and Mission of Sorrow and Pain</h4>
 
 As we look about us in the world there is no fact more potent than that, as the Hebrew poet expressed it, "Man is of few days and full of trouble," and naturally we ask why this is so. 
 
@@ -1677,7 +1677,7 @@ The cross on Golgotha thou lookest to in vain
 Unless within thyself it be set up again.
 ```
 
-### <h3 id="lecture-15">LECTURE FIFTEEN: THE MYSTERY OF GOLGOTHA AND THE CLEANSING BLOOD</h3>
+### <h3 id="lecture-15">Lecture Fifteen: The Mystery of Golgotha and the Cleansing Blood</h3>
 
 All through the past two thousand years in which we have had the Christian religion among us, and since the doctrine of the vicarious atonement and the cleansing blood has come into our Western World, there has been a contention among many people, in the later centuries especially, about whether there is really any efficacy in that cleansing blood, or whether it is only a foolish story. We shall hope tonight to show that there is something vastly grander than ever anyone has imagined, when we come to turn the light of occultism and reason upon this doctrine. Afterwards we may let our hearts have full sway in belief of this grand and glorious idea of the cleansing blood and of the atonement that was effected two millenniums ago at the Place of the Skull, which is called Golgotha in the Hebrew. 
 
@@ -1751,7 +1751,7 @@ The body of Jesus was to be killed, and blood was to flow, in order that by that
 
 When that Great Being flowed out through the wounds of Jesus' body, that luminous Sun Spirit diffused itself all over the Earth. And that is why we hear of that great darkness, because that spiritual light was what men perceived as darkness. But gradually it was absorbed into the Earth, and took its place, permitting everything within its influence to return to its normal condition, so far as man could see; but the vibrations that had been set up there cleansed, purified, and set in rhythmic order the vibrations in the higher world, and gave a spiritual impulse that could not otherwise have been given, and that was the way that it cleansed, and "took away the sin of the world" by restoring the rhythmic vibrations in a measure and thus enabling man to progress. That influence is still working and cleansing the world; it is the source of altruism and benevolence which are gradually taking the place of patriotism and selfishness, bringing Universal Brotherhood and Fellowship to the World. 
 
-### <h3 id="lecture-16">LECTURE SIXTEEN: THE STAR OF BETHLEHEM: A MYSTIC FACT</h3>
+### <h3 id="lecture-16">Lecture Sixteen: The Star of Bethlehem: A Mystic Fact</h3>
 
 More than nineteen hundred years ago in Palestine there was born a little child. Children are born every day, every month, from one year's end to another, all over the face of the world, but this birth was something very, very different from any other. It was a birth that took place among and amid great spiritual manifestation. Angel choirs heralded this peacemaker, who was to give man the choicest of gifts--Peace on Earth and Good Will among men. How much it is needed! 
 
@@ -1844,7 +1844,7 @@ The cross on Golgotha thou lookest to in vain,
 Unless within thyself it be set up again.
 ```
 
-### <h3 id="lecture-17">LECTURE SEVENTEEN: THE MYSTERY OF THE HOLY GRAIL</h3>
+### <h3 id="lecture-17">Lecture Seventeen: The Mystery of the Holy Grail</h3>
 
 In this lecture we are to consider one of the old-time Mysteries which existed in many parts of the Western World during the Middle Ages, and which has existed, in different forms, in different countries, ever since the dawn of man's consciousness. 
 
@@ -1999,7 +1999,7 @@ The tree is almost purely carbon. Where did it get the carbon? From the carbon d
 
 If we could find a way of retaining that carbon we would become what the Hindu calls the Diamond Soul--the perfect immortal body. We should be manufacturing what the Rosicrucian calls the Philosopher's Stone, which is the liquor vitae, the panacea for all the world's woe. We should then know the meaning of the sea of glass in the New Jerusalem and understand the significance of "the molten sea" which was the last work of Hiram Abiff the Grand Architect of Solomon's Temple, built without hands. For these all express the same truth as the Holy Grail, and are only attainable by those who are pure in heart, who have overcome the world and are helpers of humanity. 
 
-### <h3 id="lecture-18">LECTURE EIGHTEEN: THE LORD'S PRAYER</h3>
+### <h3 id="lecture-18">Lecture Eighteen: The Lord’s Prayer</h3>
 
 Many people who have thought seriously upon the problems of the higher life have unfortunately forsaken the methods of their earlier days, they have ceased to believe in the teachings of the church regarding the atonement, the saving power of faith, the efficacy of prayer, and kindred dogmas. While from the standpoint of such people, who are honestly and sincerely seeking for truth, these ideas may seem palpably fallacious, we would nevertheless bespeak for the following views an unbiased hearing in order that they may then be judged. Thus viewed, the teachings of the Church will appear in a light probably not heretofore perceived which will give them a new, a grander meaning, more satisfactory to the heart and perfectly acceptable to the intellect. 
 
@@ -2101,7 +2101,7 @@ The animals follow desire blindly and commit no sin. To them there is not evil; 
 
 Thus does the Lord's Prayer cover the various parts of the human constitution and enunciate the need of the all, showing the marvelous wisdom laid down in that simple formula. 
 
-### <h3 id="lecture-19">LECTURE NINETEEN: THE COMING FORCE--VRIL OR WHAT?</h3>
+### <h3 id="lecture-19">Lecture Nineteen: The Coming Force — Vril or What</h3>
 
 So much is written and spoken of the inner worlds from the occult point of view, so much stress is laid upon the fact that we possess higher vehicles, are capable of developing them and functioning consciously in them, that it seems needful to emphasize at times the enormous value of the dense body and of the visible world to which it correlates us, to counteract as far as may be done the disdain with which some people regard the world in which we now live. 
 
@@ -2201,7 +2201,7 @@ When man has spiritualized his being under the influence of scientific and artis
 
 All things in Nature were spoken into existence by the Word which was made flesh (John 1). Sound or spoken Thought will be our next force in manifestation, a force that will make us creative God-men when through our present schooling we have fitted ourselves to use such an enormous power for the good of all, regardless of self-interest. 
 
-### <h3 id="lecture-20">LECTURE TWENTY: FELLOWSHIP AND THE COMING RACE</h3>
+### <h3 id="lecture-20">Lecture Twenty: Fellowship and the Coming Race</h3>
 
 ```
 Forth from little motes in chaos
