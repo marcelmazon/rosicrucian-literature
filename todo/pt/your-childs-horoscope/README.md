@@ -1,0 +1,1 @@
+The books here contain more horoscopes than those that were published in the English version. So for now won't publish these Portuguese booklets until I get to the bottom of this.
