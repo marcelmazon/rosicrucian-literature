@@ -7,7 +7,7 @@ author: "Max Heindel"
 original_source_file: "self"
 ---
 
-<h1 id="the-desire-body">THE DESIRE BODY</h1>
+<h1 id="the-desire-body">The Desire Body</h1>
 
 by Max Heindel [1865-1919] 
 
@@ -16,7 +16,7 @@ P.O. Box 713
 Mt. Ecclesia  
 Oceanside, California, 92054, USA  
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 Man, the indwelling Spirit, has at his present stage of development four vehicles through which he functions: the dense body, the vital body, the desire body, and the mind. Although these bodies are closely interrelated and are affected by each other, it is helpful to the student in understanding thoroughly their functions and possibilities to study each one separately and intensively. To facilitate such study Max Heindel's material concerning the desire body has been collected and published in this one convenient volume. 
 
@@ -24,21 +24,21 @@ The desire body of man is his vehicle of feelings, desires, wishes, and emotions
 
 The Western Wisdom Teachings therefore emphasize the transmuting of the lower desires into higher ones through service motivated by devotion to high ideals. This generates the Emotional Soul, essential nourishment for the evolving spirit. 
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Contents</h3>
 
 - [Foreword](#foreword)
-- [PART I: THE PLANETARY DESIRE WORLD](#part-1)
+- [Part I: The Planetary Desire World](#part-1)
     - [Chapter I: Its Relationship to Mineral, Plant, Animal, and Man](#part-1-chapter-1)
-- [PART II: ORIGIN AND DEVELOPMENT OF MAN'S DESIRE BODY](#part-2)
+- [Part II: Origin and Development of Man's Desire Body](#part-2)
     - [Chapter I: Through the Septenary Periods](#part-2-chapter-1)
-- [PART III: MAN'S DESIRE BODY IN THE PHYSICAL WORLD](#part-3)
+- [Part III: Man's Desire Body in the Physical World](#part-3)
     - [Chapter I: From Infancy to Puberty](#part-3-chapter-1)
     - [Chapter II: Its Appearance and Functions](#part-3-chapter-2)
     - [Chapter III: Effect of Emotions on Contour and Color](#part-3-chapter-3)
     - [Chapter IV: Influence of Thought](#part-3-chapter-4)
     - [Chapter V: Relationship to Consciousness](#part-3-chapter-5)
     - [Chapter VI: During Sleep](#part-3-chapter-6)
-- [PART IV: MAN'S DESIRE BODY IN THE INVISIBLE WORLD](#part-4)
+- [Part IV: Man's Desire Body in the Invisible World](#part-4)
     - [Chapter I: At Time of Death](#part-4-chapter-1)
     - [Chapter II: Causes of Infant Mortality](#part-4-chapter-2)
     - [Chapter III: Purgatory](#part-4-chapter-3)
@@ -47,14 +47,14 @@ The Western Wisdom Teachings therefore emphasize the transmuting of the lower de
     - [Chapter VI: The First Heaven](#part-4-chapter-6)
     - [Chapter VII: The Second Heaven](#part-4-chapter-7)
     - [Chapter VIII: On the Way to Rebirth](#part-4-chapter-8)
-- [PART V: SPIRITUALIZATION OF MAN'S DESIRE BODY](#part-5)
+- [Part V: Spiritualization of Man's Desire Body](#part-5)
     - [Chapter I: Higher Beings as Factors](#part-5-chapter-1)
-    - [Chapter II: Unreliability of Desire Body](#part-5-chapter-2)
+    - [Chapter II: Unreliability of the Desire Body](#part-5-chapter-2)
     - [Chapter III: Preparation for the Higher Life](#part-5-chapter-3)
 
-<h2 id="part-1">PART I: THE PLANETARY DESIRE WORLD</h2>
+<h2 id="part-1">Part I: The Planetary Desire World</h2>
 
-### <h3 id="part-1-chapter-1">CHAPTER I: ITS RELATIONSHIP TO MINERAL, PLANT, ANIMAL, AND MAN</h3>
+### <h3 id="part-1-chapter-1">Chapter I: Its Relationship to Mineral, Plant, Animal, and Man</h3>
 
 In the Rosicrucian teaching the universe is divided into seven different Worlds, or states of matter, as follows: 
 
@@ -128,9 +128,9 @@ Both animals and man have a desire body and are swayed by the twin feelings and 
 
 The desire body of an animal is composed solely of matter from the four lower regions of the Desire World. Hence it is incapable of feeling any but the animal desires for food, shelter, and the like. A saint would feel the keenest remorse if he had inadvertently spoken a hasty word; the tigress remains undisturbed by any sense of wrong, though she kills daily. The reason is that man's desire body is composed of the matter of all the seven regions of the Desire World so that he is capable of feeling in a higher sense than the animal. 
 
-<h2 id="part-2">PART II: ORIGIN AND DEVELOPMENT OF MAN'S DESIRE BODY</h2>
+<h2 id="part-2">Part II: Origin and Development of Man's Desire Body</h2>
 
-### <h3 id="part-2-chapter-1">CHAPTER I: THROUGH THE SEPTENARY PERIODS</h3>
+### <h3 id="part-2-chapter-1">Chapter I: Through the Septenary Periods</h3>
 
 The evolutionary scheme is carried through five Worlds in seven great Periods of Manifestation, during which the Virgin Spirit, or evolving life, becomes first man--then, a God. 
 
@@ -202,9 +202,9 @@ Globe D of the Venus Period is located in the Desire World (see below Diagram 8 
 
 Yet the efficiency of even this splendid vehicle will be transcended when in the Vulcan Period its essence, together with the essences of the dense and vital bodies, are added to the mind body, which becomes the highest of man's vehicles, containing within itself the quintessence of all that was best in all the vehicles. 
 
-<h2 id="part-3">PART III: MAN'S DESIRE BODY IN THE PHYSICAL WORLD</h2>
+<h2 id="part-3">Part III: Man's Desire Body in the Physical World</h2>
 
-### <h3 id="part-3-chapter-1">CHAPTER I: FROM INFANCY TO PUBERTY</h3>
+### <h3 id="part-3-chapter-1">Chapter I: From Infancy to Puberty</h3>
 
 The vehicles of the new-born do not at once become active. The dense body is helpless for a long time after birth. 
 
@@ -226,7 +226,7 @@ The desire body is born about the 14th year, at the time of puberty. That is the
 
 When a person dies in childhood in one life, he or she not infrequently remembers that life in the next body, because children under fourteen years do not journey around the entire life cycle, which necessitates the building of a complete set of new vehicles. They simply pass into the upper regions of the Desire World and there wait for a new embodiment, which usually takes place in from one to twenty years after death. When the return to birth, they bring with them the old mind and desire body. 
 
-### <h3 id="part-3-chapter-2">CHAPTER II: ITS APPEARANCE AND FUNCTIONS</h3>
+### <h3 id="part-3-chapter-2">Chapter II: Its Appearance and Functions</h3>
 
 In addition to the visible body and the vital body we also have a body made of desire stuff from which we form our feelings and emotions. This vehicle also impels us to seek sense gratification. But while the two instruments of which we have already spoken, are well organized, the desire body appears to spiritual sight as an ovoid cloud extending from sixteen to twenty inches beyond the physical body. It is above the head and below the feet so that our dense body sits in the center of this egg-shaped cloud as the yolk is in the center of an egg. 
 
@@ -254,7 +254,7 @@ In the involuntary clairvoyant developed along improper, negative lines, these v
 
 In the desire body of the properly trained voluntary clairvoyant, they turn in the same direction as the hands of a clock--clockwise, glowing with exceeding splendor, far surpassing the brilliant luminosity of the ordinary desire body. These centers furnish him with means for the perception of things in the Desire World and he sees, and investigates as he wills, while the person whose centers turn counter-clockwise is like a mirror, which reflects what passes before it. Such a person is incapable of reaching out for information. The above is one of the fundamental differences between a medium and a properly trained clairvoyant. It is impossible for most people to distinguish between the two; yet there is one infallible rule that can be followed by anyone: No genuinely developed seer will ever exercise this faculty for money or its equivalent; nor will he use it to gratify curiosity, but only to help humanity. 
 
-### <h3 id="part-3-chapter-3">CHAPTER III: EFFECT OF EMOTIONS ON CONTOUR AND COLOR</h3>
+### <h3 id="part-3-chapter-3">Chapter III: Effect of Emotions on Contour and Color</h3>
 
 Christ said, "Let your light shine." To the spiritual vision each human being appears as a flame of light, variously colored according to temperament, and of greater or less brilliancy in proportion to purity of character. Science has discovered that all matter is in a state of flux, that the particles which compose our bodies continually decay and are eliminated from the system, to be replaced by others which remain for a short time until they also decompose. Likewise our moods, emotions, and desires change with every passing moment, the old giving place to the new in an interminable succession. Therefore, they also must be composed of matter and subject to laws similar to those which govern visible physical substances. 
 
@@ -292,7 +292,7 @@ It is also a remarkable fact that though the men engaged in war suffer awful pri
 
 The red cloud of hate is lifting, the black veil of despair is gone, there are no volcanic outbursts of passion in either the living or the dead, but so far as the writer is able to read the signs of the times in the aura of the nations, there is a settled purpose to play the game to the end. Even in homes bereaved of many members, this seems to hold good. There is an intense longing for the friends beyond but no hatred for the earthly foe. This longing is shared by the friends in the unseen and many are piercing the veil, for the intensity of their longing is awakening in the "dead" the power to manifest by attracting a quantity of ether and gas which often is taken from the vital body of a "sensitive" friend, as materializing Spirits use the vital body of an entranced medium. Thus the eyes blinded by tears are often opened by a yearning heart so that loved ones now in the spirit world are met again face to face, heart to heart. This is Nature's method of cultivating the sixth sense which will eventually enable all to know that man is an immortal Spirit and continuity of life a fact in Nature. 
 
-### <h3 id="part-3-chapter-4">CHAPTER IV: INFLUENCE OF THOUGHT</h3>
+### <h3 id="part-3-chapter-4">Chapter IV: Influence of Thought</h3>
 
 It is a law in the Desire World that as a man thinketh, so is he--literally and without qualification. 
 
@@ -334,7 +334,7 @@ The mind is thus bound up in desire; is enmeshed in the selfish lower nature, ma
 
 The law of the Race Religions was given to emancipate intellect from desire. The "fear of God" was pitted against "the desires of the flesh." This, however, was not enough to enable one to become master of the body and secure its willing cooperation. It became necessary for the Spirit to find in the body another point of vantage, which was not under the sway of the desire nature. All muscles are expressions of the desire body and a straight road to the capital, where the traitorous mind is wedded to desire and reigns supreme. 
 
-### <h3 id="part-3-chapter-5">CHAPTER V: RELATIONSHIP TO CONSCIOUSNESS</h3>
+### <h3 id="part-3-chapter-5">Chapter V: Relationship to Consciousness</h3>
 
 To understand the degree of consciousness which results from the possession of the vehicles used by the life evolving in the four kingdoms, we turn our attention to Diagram 4, which shows that man, the Ego, the Thinker, has descended into the Chemical Region of the Physical World. Here he has marshaled all his vehicles, thereby attaining the state of waking consciousness. He is learning to control his vehicles. The organs of neither the desire body nor the mind are yet evolved. The latter is not yet even a body. At present it is simply a link, a sheath for the use of the Ego as a focusing point. It is the last of the vehicles that have been built. The Spirit works gradually from finer into coarser substance, the vehicles also being built in fine substance first, then in coarser and coarser substance. The dense body was built first and has now come into its fourth stage of density; the vital body is in its third stage. The desire body is in its second, hence it is still cloud-like, and the sheath of mind is filmier still. As those vehicles have not, as yet, evolved any organs, it is clear that they alone would be useless as vehicles of consciousness. The Ego, however, enters into the dense body and connects these organless vehicles with the physical sense centers and thus attains the waking state of consciousness in the Physical World. 
 
@@ -366,7 +366,7 @@ This destruction is constantly going on and it is not possible to keep all the d
 
 As has been previously explained, the desire body is an unorganized ovoid, holding the dense body as a dark spot within its center, as the white of an egg surrounds the yolk. There are a number of sense centers in the ovoid, which have appeared since the beginning of the Earth Period. In the average human being these centers appear merely as eddies in a current and are not awake, hence his desire body is of no use to him as a SEPARATE vehicle of consciousness; but when the sense centers are awakened they look like whirling vortices. 
 
-### <h3 id="part-3-chapter-6">CHAPTER VI: DURING SLEEP</h3>
+### <h3 id="part-3-chapter-6">Chapter VI: During Sleep</h3>
 
 The Desire World is an ocean of wisdom and harmony. Into this the Ego takes the mind and the desire body when the lower vehicles have been left in sleep. There the first care of the Ego is the restoration of the rhythm and harmony of the mind and the desire body. This restoration is accomplished gradually as the harmonious vibrations of the Desire World flow through them. There is an essence in the Desire World corresponding to the vital fluid which permeates the dense body by means of the vital body. The higher vehicles, as it were, steep themselves in this elixir of life. When strengthened, they commence work on the vital body, which was left with the sleeping dense body. Then the vital body begins to specialize the solar energy anew, rebuilding the dense body, using particularly the chemical ether as its medium in the process of restoration. 
 
@@ -394,9 +394,9 @@ It also happens that the Spirit goes upon a soul flight and omits to perform its
 
 In ordinary life most people live to eat. They drink, gratify the sex-passion in an unrestrained manner, and lose their tempers on the slightest provocation. Though outwardly these people may be very "respectable," they are, nearly every day of their lives, causing almost utter confusion in their organization. The entire period of sleep is spent by the desire and the vital bodies in repairing the damage done in the day time, leaving no time for outside work of any kind. But as the individual begins to feel the needs of the higher life, controls sex-force, and temper, and cultivates a serene disposition, there is less disturbance caused in the vehicles during waking hours. Consequently, less time is required to repair the damage during sleep. Thus it becomes possible to leave the dense body for long periods during sleeping hours, and function in the inner worlds in the higher vehicles. As the desire body and the mind are not yet organized, they are of no use as separate vehicles of consciousness. Neither can the vital body leave the dense body, as that would cause death, so measures must be taken to provide an organized vehicle which is fluidic and so constructed that it will meet the needs of the Ego in the inner worlds as does the dense body in the Physical World. 
 
-<h2 id="part-4">PART IV: MAN'S DESIRE BODY IN THE INVISIBLE WORLDS</h2>
+<h2 id="part-4">Part IV: Man's Desire Body in the Invisible Worlds</h2>
 
-### <h3 id="part-4-chapter-1">CHAPTER I: AT TIME OF DEATH</h3>
+### <h3 id="part-4-chapter-1">Chapter I: At Time of Death</h3>
 
 The silver cord which has grown from the seed atom of the dense body (located in the heart) since conception, is welded to the part (located in the liver), that has sprouted from the central vortex of the desire body, and when the silver cord is tied by the seed atom of the vital body (located in the solar plexus), the Spirit dies to life in the supersensible world, and quickens the body it is to use in its coming earth life. This life on Earth lasts until the course of events foreshadowed in the wheel of life, the horoscope, has been run; and when the Spirit again reaches the realm of Samael, the Angel of Death, the mystic eighth house, the silver cord is loosed, and the Spirit returns to God who gave it, until the dawn of another life-day in the School of Earth beckons it to a new birth that it may acquire more skill in the arts and crafts of temple-building. 
 
@@ -418,7 +418,7 @@ A cleavage takes place in the vital body (after death) similar to that made by t
 
 In leaving the vital body the process is much the same as when the dense body is discarded. The life forces of one atom are taken, to be used as a nucleus for the vital body of a future embodiment. Thus, upon his entrance into the Desire World the man has the seed atoms of the dense and the vital bodies, in addition to the desire body and the mind. 
 
-### <h3 id="part-4-chapter-2">CHAPTER II: CAUSES OF INFANT MORTALITY</h3>
+### <h3 id="part-4-chapter-2">Chapter II: Causes of Infant Mortality</h3>
 
 It is often asked why children die. There are many causes. One is death under the dreadful strain of accident, by fire, or on the battle field in a previous life, for under such circumstances the departing Ego could not properly concentrate upon the panoramic view of its past life. This is also the case where loud lamentations of relatives hinder. The result is of course a weak imprint of the life-experiences upon the desire body, with an insipid purgatorial and First Heaven life. 
 
@@ -448,7 +448,7 @@ To offset this great disaster the Spirit on entering its next Earth life is caus
 
 In the Desire World it is easy to give object-lessons in the influence of good and evil passions on conduct and happiness. These lessons are indelibly imprinted upon the child's sensitive and emotional desire body, and remain with it after rebirth, so that many a one living a noble life owes much of it to the fact that he was given this training. Often when a weak Spirit is born, the Compassionate Ones (the invisible Leaders who guide our evolution) cause it to die in early life that it may have this extra training to fit it for what may be perhaps a hard life. This seems to be the case particularly where the etching on the desire body was weak in consequence of a dying person having been disturbed by the lamentations of his relatives, or because he met death by accident or on the battle field. He did not under those circumstances experience the appropriate intensity of feeling in his post-mortem existence. Therefore, when he is born and dies in early life, the loss is made up as above. Often the duty of caring for such a child in the heaven life falls to those who were the cause of the anomaly. They are thus afforded a chance to make up for the fault and to learn better. Or perhaps they become the parents of the one they harmed and care for it during the few years it lives. It does not matter then if they do lament hysterically over its death, because there would be no pictures of any consequence in a child's vital body. 
 
-### <h3 id="part-4-chapter-3">CHAPTER III: PURGATORY</h3>
+### <h3 id="part-4-chapter-3">Chapter III: Purgatory</h3>
 
 The Ego after death gradually ascends through the various spiritual realms to the Third Heaven, and at the time of rebirth it gradually descends through the Region of Concrete Thought, the Desire World, and the ether to the physical plane....The writer.....feels certain that none of his acquaintances have ever mounted to the higher parts of the Desire World or the Region of Concrete Thought without first passing through the ether and the lower Desire World strata, namely the purgatorial region. 
 
@@ -560,7 +560,7 @@ This is the law that is symbolized in the scythe of the reaper, Death; the law t
 
 To sum up then we may say that all our debts are paid in Purgatory, so far as the commission of wrong is concerned; our debts of love, friendship, and service remain for liquidation in later lives. 
 
-### <h3 id="part-4-chapter-4">CHAPTER IV: EARTHBOUND SPIRITS AND THEIR PREY</h3>
+### <h3 id="part-4-chapter-4">Chapter IV: Earthbound Spirits and Their Prey</h3>
 
 To understand mediumship it is necessary to know that at death the same separation takes place as in sleep, but it is permanent. The so-called dead have Ego, mind, and desire body and are often conscious of the world they have left for some time after. Some cling to the earth life, and cannot set their minds to learn the new lessons; we call them "earthbound Spirits." They cannot function in the visible world without a body, however, and so they take advantage of the fact that all Spirits are not confined with equal rigor to the prison of the dense body. Those who are most closely bound are the rank materialists; those who cords do not bind them so tightly are "impressionists," capable of answering in some measure to spiritual vibrations. Persons of positive character thus constituted, if they develop, do so by their own will, and become trained occultists. Those of weak will can only develop by the aid of others, and in a negative way. They are the prey of earthbound Spirits who constitute themselves "Spirit guides" and develop their victims as "trance mediums," or, if the connection between the victim's dense and vital bodies be particularly lax, into "materializing mediums." 
 
@@ -592,7 +592,7 @@ The writer was at one time quite apprehensive of the effect which war might have
 
 Following the above investigations, the writer attempted a number of experiments with Spirits who were in the higher realms of the ether, having just passed out, and with people who had been in the Desire World for a longer or shorter time, some of them being almost ready for the First Heaven. A number of Spirits who had departed this life kindly cooperated as subjects. The aim of the experiments was to determine how far it would be possible for them to clothe themselves in the materials of the lower etheric and even the gaseous regions. It was noticed that those who had just passed out could quite readily endure the lower ether vibrations, although being of good character they were not well satisfied to remain there longer than necessary, for they were uncomfortable. But as we tried people from successively higher regions of the Desire World up to the First Heaven, it became more and more difficult to wrap themselves in ether or descent into it. The consensus of opinion was that it was like going down into a deep well, there to smother. It was also found that it was absolutely impossible for anyone in the physical to see them. We tried by every method of suggestion to arouse the people in rooms which we visited, to a sense of our presence, but we found no response, though in a number of cases the forms which we condensed were so opaque that it seemed to the writer as if they were nearly as dark as those physical people whom we desired to attract. We placed our experimental subjects between the physical people and the light; nevertheless, we had no success, either with those who were from the higher realms or with those who had passed out recently and were able to stay in the given position and density for a considerable time. 
 
-### <h3 id="part-4-chapter-5">CHAPTER V: THE BORDERLAND</h3>
+### <h3 id="part-4-chapter-5">Chapter V: The Borderland</h3>
 
 It is a mistake to think that heaven is a place of unallayed happiness for all. No one can reap any more happiness than he sowed on Earth. The measure of our joy there will be the good deeds we did in earth life. The panorama of life etched into our desire bodies just after death forms the basis of our enjoyment in heaven, as it was the decreer of our suffering in Purgatory. 
 
@@ -608,7 +608,7 @@ When he enters the Desire World after death he is too good to go to Purgatory an
 
 All that he gave to the churches, institutes, etc., counts as nothing because of his lack of heart. Only when we give for love will the gift avail to bring happiness hereafter. It is not the amount that we give, but the spirit that accompanies the gift, which matters. Therefore, it is within the power of everyone to give and thus benefit himself and others. Indiscriminate money giving, however, often causes people to become thriftless and indigent, but by giving heartfelt sympathy, by helping people to believe in themselves and start life with fresh ardor when they have fallen by the wayside, by giving ourselves in service rendered humanity, we lay up treasures in heaven and give more than gold. Christ said: "The poor are with us always." We may not be able to bring them from poverty to riches and that may not be best for them, but we can encourage them to learn the lesson that is to be learned in poverty. We can help them to a better view of life, and unless the man does that also, he will not be "all right" when he passes out. He will suffer that dreadful monotony in order to learn that he must fill his life with something of real value, and thus is a succeeding life his conscience will spur him on to do something better than to grind out dollars. However, he will not neglect his material duties, for that is as bad as to spurn spiritual endeavor. 
 
-### <h3 id="part-4-chapter-6">CHAPTER VI: THE FIRST HEAVEN</h3>
+### <h3 id="part-4-chapter-6">Chapter VI: The First Heaven</h3>
 
 During the earlier part of its evolution mankind committed the most atrocious crimes because actuated entirely by selfishness and disregard for other people's feelings. In those early lives we were cunning, cruel, and seldom did a good deed. In fact, it is recorded that at that time man spent the whole of the interval between lives in the purgatorial regions expiating the crimes he had committed during his physical life, and there was no heaven life to speak of. That was the condition spoke of in the Bible as "lost in trespasses and sin," which made it necessary for the Christ to enter the Earth and attempt the task of raising the vibrations, so that altruism might gradually conquer egoism and give us a heaven life upon which promotion and progression in our evolutionary career could be based. 
 
@@ -624,7 +624,7 @@ In the lower regions of the Desire World the whole body of each being may be see
 
 In the higher regions of the Desire World the confusion of tongues gives place to a universal mode of expression which absolutely prevents misunderstandings of our meaning. There each of our thoughts takes a definite form and color perceptible to all, and this thought symbol emits a certain tone, which is not a word, but it conveys our meaning to the one we address no matter what language he spoke on Earth. 
 
-### <h3 id="part-4-chapter-7">CHAPTER VII: THE SECOND HEAVEN</h3>
+### <h3 id="part-4-chapter-7">Chapter VII: The Second Heaven</h3>
 
 In the course of time every man makes ready to ascend into the Second Heaven, which is located in the Region of Concrete Thought. All good aspirations and desires of the past life are etched into and branded upon the mind, which then contains all that is of permanent value. The Ego withdraws from the desire body, which is then but an empty shell, and, clothed only in the mind, it ascends into the Second Heaven. 
 
@@ -638,7 +638,7 @@ The "Aerial Region" is the third division of the Region of Concrete Thought. Her
 
 Both color and form are there (in the Second Heaven), just as in the Physical World, but tone is the predominating feature of the World of Thought. Color is most accentuated in the Desire World and form in the Physical World, although it is true that the colors and forms of the Second Heaven are much more beautiful than in the other worlds. 
 
-### <h3 id="part-4-chapter-8">CHAPTER VIII: ON THE WAY TO REBIRTH</h3>
+### <h3 id="part-4-chapter-8">Chapter VIII: On the Way to Rebirth</h3>
 
 After a time (in the Third Heaven) comes the desire for new experience and the contemplation of a new birth. 
 
@@ -654,9 +654,9 @@ When the impregnation of the ovum has taken place, the desire body of the mother
 
 We know that the silver chord is grown anew in each life, that one part sprouts from the seed atom of the desire body in the great vortex of the liver, that the other part grows out of the seed atom of the dense body in the heart, that both parts meet in the seed atom of the vital body in the solar plexus, and that this union of the higher and lower vehicles causes the quickening. 
 
-<h2 id="part-5">PART V: SPIRITUALIZATION OF MAN'S DESIRE BODY</h2>
+<h2 id="part-5">Part V: Spiritualization of Man's Desire Body</h2>
 
-### <h3 id="part-5-chapter-1">CHAPTER I: HIGHER BEINGS AS FACTORS</h3>
+### <h3 id="part-5-chapter-1">Chapter I: Higher Beings as Factors</h3>
 
 The Archangels became experts at building a body of desire stuff, the densest matter of the Sun Period. Therefore, they are able to teach and guide such less evolved beings as man and animal how to mold and use a desire body. 
 
@@ -714,7 +714,7 @@ On the other hand, the Initiates have progressed and evolved for themselves high
 
 Christ could not be born in a dense body, because He had never passed through an evolution such as the Earth Period, therefore He would first have had to acquire the ability to build a dense body such as ours. But even had He possessed that ability, it would have been inexpedient for such an exalted Being to expend for that purpose the energy necessary for body-building through an ante-natal life, childhood and youth, to bring it to sufficient maturity for use. He had ceased to use, ordinarily, vehicles such as would correspond to our Human Spirit, mind, and desire body, although He had learned to build them in the Sun Period, and retained the ability to build and function in them wherever desired or required. He used all His own vehicles, taking only the vital and dense bodies from Jesus. When the latter was thirty years of age Christ entered these bodies and used them until the climax of his Mission of Golgotha. After the destruction of the dense body, Christ appeared among His disciples in the vital body, in which He functioned for some time. The vital body is the vehicle which He will use when He appears again, for He will never take another dense body. 
 
-### <h3 id="part-5-chapter-2">CHAPTER II: UNRELIABILITY OF DESIRE BODY</h3>
+### <h3 id="part-5-chapter-2">Chapter II: Unreliability of the Desire Body</h3>
 
 How then are we to unfold our spiritual power? What is the way, the truth, and the life? We have had the threefold path shown us in the glorious teaching of the Christ. Ordinary humanity all over the world are being worked up by law, which works upon the desire body and holds it in check. The thinker is pitted against the flesh. But under law no one can be saved. 
 
@@ -744,7 +744,7 @@ Recognizing the great and wonderful power of the emotional body and its amenabil
 
 Thus all efforts to elevate humanity by work upon the unstable desire body are and must always prove futile. This the occult schools of all ages have recognized and they have therefore addressed themselves to the changing of the vital body by working with its keynote, which is repetition. 
 
-### <h3 id="part-5-chapter-3">CHAPTER III: PREPARATION FOR THE HIGHER LIFE</h3>
+### <h3 id="part-5-chapter-3">Chapter III: Preparation for the Higher Life</h3>
 
 The expression, "prepared the Earth," means that all evolution on a planet is accompanied by the evolution of that planet itself. Had some observer gifted with spiritual sight watched the evolution of our Earth from some distant star, he would have noticed a gradual change taking place in the Earth's desire body. 
 
