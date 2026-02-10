@@ -7,7 +7,7 @@ author: "Max Heindel"
 original_source_file: "self"
 ---
 
-<h1 id="the-vital-body">THE VITAL BODY</h1>
+<h1 id="the-vital-body">The Vital Body</h1>
 
 by Max Heindel [1865-1919] 
 
@@ -16,15 +16,15 @@ MT. ECCLESIA
 P.O. BOX 713
 OCEANSIDE, CALIFORNIA, U.S.A., 92054
 
-### <h3 id="contents">CONTENTS</h3>
+### <h3 id="contents">Contents</h3>
 
 - [Foreword](#foreword)
 - [Introduction](#introduction)
-- [PART I: PAST EVOLUTION OF MAN'S VITAL BODY](#part-1)
+- [Part I: Past Evolution of Man’s Vital Body](#part-1)
     - [Chapter I: During Periods and Revolutions](#part-1-chapter-1)
     - [Chapter II: During Epochs](#part-1-chapter-2)
 
-- [PART II: MAN'S VITAL BODY IN PRESENT ARYAN EPOCH](#part-2)
+- [Part II: Man’s Vital Body in the Present Aryan Epoch](#part-2)
     - [Chapter I: General Nature and Function](#part-2-chapter-1)
     - [Chapter II: In Health and Sicknesses](#part-2-chapter-2)
     - [Chapter III: In Sleep and Dreams](#part-2-chapter-3)
@@ -32,33 +32,33 @@ OCEANSIDE, CALIFORNIA, U.S.A., 92054
     - [Chapter V: On Way to Rebirth](#part-2-chapter-5)
     - [Chapter VI: Of Children](#part-2-chapter-6)
 
-- [PART III: VITAL BODY OF ANIMALS AND PLANTS](part-3)
+- [Part III: Vital Body of Animals and Plants](part-3)
     - [Chapter I: General Nature and Function](part-3-chapter-1)
 
-- [PART IV: RELATION OF VITAL BODY TO SPIRITUAL DEVELOPMENT](#part-4)
+- [Part IV: Relation of the Vital Body to Spiritual Development](#part-4)
     - [Chapter I: An Important Factor](#part-4-chapter-1)
     - [Chapter II: Effect of Prayer, Rituals, and Exercises](#part-4-chapter-2)
     - [Chapter III: Ancient Initiation](#part-4-chapter-3)
     - [Chapter IV: Positive and Negative Development](#part-4-chapter-4)
 
-- [PART V: THE VITAL BODY OF JESUS](#part-5)
+- [Part V: The Vital Body of Jesus](#part-5)
     - [Chapter I: As a Vehicle for the Christ](#part-5-chapter-1)
 
-### <h3 id="foreword">FOREWORD</h3>
+### <h3 id="foreword">Foreword</h3>
 
 The Western Wisdom School teaches as its fundamental maxim that "all occult development begins with the vital body," stated Max Heindel initiate of the Order of the Rose Cross. It is therefore with the purpose of presenting in a concise and easily understood form all the important information which the founder of The Rosicrucian Fellowship wrote in his various letters, lessons, and books concerning the etheric vehicle that this compiled material is published in book form. To the layman in occult study, as well as to the advanced student, it offers much of practical value. 
 
 A number of earnest students of the Western Wisdom Teachings have given unselfishly and lovingly of their time and efforts in preparing this material for publication, and it is their prayer that a copy of the volume may carry its message of light and inspiration to every spiritual aspirant who is endeavoring to follow the Way of the Christ. 
 
-### <h3 id="introduction">INTRODUCTION</h3>
+### <h3 id="introduction">Introduction</h3>
 
 The Rosicrucian Philosophy teaches that man is a threefold Spirit, possessing a mind by means of which he governs a threefold body, which he emanated from himself to gather experience. This threefold body he transmutes into a threefold soul, upon which he nourishes himself from impotence to omnipotence. The Divine Spirit emanates from itself the dense body, extracting as pabulum the Conscious Soul; the Life Spirit emanates from itself the vital body, extracting as pabulum the Intellectual Soul; the Human Spirit emanates from itself the desire body, extracting as pabulum the Emotional Soul. The vital body is made of ether and pervades the visible body as ether permeates all other forms, except that human beings specialize a greater amount of the universal ether than other forms. That ethereal body is our instrument for specializing the vital energy of the Sun. 
 
 It is also taught in the Rosicrucian Philosophy that our evolutionary scheme is carried through five of the seven Worlds or states of matter (Physical, Desire, Thought, World of Life Spirit, and the World of Divine Spirit) in seven great Periods of Manifestation (Saturn, Sun, Moon, Earth, Jupiter, Venus, and Vulcan Periods), during which the Virgin Spirit, or evolving life, becomes first, a man--then, a God. We are now in the fourth, or Earth Period, which is divided into seven Revolutions, as well as the following seven Epochs: the Polarian, Hyperborean, Lemurian, Atlantean, and Aryan Epochs, and the New Galilee and the Kingdom of God yet to come. (See The Rosicrucian Cosmo-Conception, pages 177-364.) At the commencement of the Saturn Period twelve great Creative Hierarchies were active in the work of evolution. Two of these Hierarchies did some work to help at the very beginning....and then withdrew from limited existence into liberation. Three more of the Creative Hierarchies followed them at the beginning of the Earth Period: the Lords of Flame, the Cherubim, and the Seraphim, leaving seven Hierarchies in active service when the Earth Period began: the Lords of Wisdom, the Lords of Individuality, the Lords of Form, the Lords of Mind, the Archangels, the Angels, and the Virgin Spirits. 
 
-<h2 id="part-1">PART I: PAST EVOLUTION OF MAN'S VITAL BODY</h2>
+<h2 id="part-1">Part I: Past Evolution of Man’s Vital Body</h2>
 
-### <h3 id="part-1-chapter-1">CHAPTER I: DURING PERIODS AND REVOLUTIONS</h3>
+### <h3 id="part-1-chapter-1">Chapter I: During Periods and Revolutions</h3>
 
 The evolution of the vital body and the Life Spirit of which it is a counterpart was started in the second or Sun Period of the Seven Great Days of Manifestation. It has since been reconstructed and will reach perfection in the Jupiter Period. In a future stage mankind will no longer need this vehicle, but nevertheless, its quintessence will be retained. 
 
@@ -118,7 +118,7 @@ Similarly, Globe D of the Venus Period is located in the Desire World, hence nei
 
 Yet the efficiency of even this splendid vehicle will be transcended when in the Vulcan Period its essence, together with the essences of the dense and vital bodies, are added to the mind body, which becomes the highest of man's vehicles, containing within itself the quintessence of all that was best in all the vehicles. The vehicle of the Venus Period being beyond our present power of conception, how much more so is that which will be at the service of the divine beings of the Vulcan Period! 
 
-### <h3 id="part-1-chapter-2">CHAPTER II: DURING EPOCHS</h3>
+### <h3 id="part-1-chapter-2">Chapter II: During Epochs</h3>
 
 The Polarian, Hyperborean, Lemurian, and Atlantean Epochs were recapitulations of the stages through which the Virgin Spirits had passed. Consequently, the vital body underwent changes during those epochs. 
 
@@ -168,9 +168,9 @@ During the existence of this Race (the Original Semites) the atmosphere of Atlan
 
 In the ages that have passed since the Lemurian Epoch humanity has been gradually building the cerebrospinal nervous system, which is under control of the will. In the latter part of the Atlantean Epoch, this was so far evolved that it became possible for the Ego to take full possession of the dense body. That was the time (previously described) when the point in the vital body came in correspondence with the point at the root of the nose in the dense body and the indwelling Spirit became awake in the Physical World but, so far as the greater part of humanity was concerned, lost consciousness of the inner worlds. 
 
-<h2 id="part-2">PART II: MAN'S VITAL BODY IN PRESENT ARYAN EPOCH</h2>
+<h2 id="part-2">Part II: Man’s Vital Body in the Present Aryan Epoch</h2>
 
-### <h3 id="part-2-chapter-1">CHAPTER I: GENERAL NATURE AND FUNCTION</h3>
+### <h3 id="part-2-chapter-1">Chapter I: General Nature and Function</h3>
 
 Mankind is now evolving in the Aryan Epoch. His vital body has functions, color, form, atomic structure and polarity. Its existence can be proved. 
 
@@ -321,7 +321,7 @@ Finally, we may say that if you can find the conditions and are to go to the tro
 
 Though science has not directly observed this vital body of man, it has upon several occasions postulated the existence of such a vehicle as necessary to account for facts in life and the radiations have been observed by a number of scientists at different times and under varying conditions. Blondlot and Charpentier have called them N-rays after the city of Nantes, where the radiations were observed by these scientists, others have named them "the Odic fluid." Scientific investigators who have conducted researches into psychic phenomena have even photographed it when it has been extracted through the spleen by materializing Spirits. Dr. Hotz, for instance, obtained two photographs of a materialization through the German medium, Minna-Demmler. On one a cloud of ether is seen oozing out through the left side of the medium, shapeless and without form. The second picture, taken a few moments later, shows the materialized Spirit standing at the medium's side. Other photographs obtained by scientists from the Italian medium Eusapio Palladino show a luminous cloud over-hanging her left side. 
 
-### <h3 id="part-2-chapter-2">CHAPTER II: IN HEALTH AND SICKNESS</h3>
+### <h3 id="part-2-chapter-2">Chapter II: In Health and Sickness</h3>
 
 The vital body plays an important part in health and in sickness. It is affected by amputation, accidents, anesthetics, drowning, shock, regret and remorse. When it is not in a concentric position, in relation to the Ego's other vehicles, insanity and idiocy may result. 
 
@@ -439,7 +439,7 @@ As the force latent in gunpowder and kindred explosive substances may be used to
 
 But when a person who is not in perfect health makes a habit of bathing every day, perhaps even twice or three times, an excess of ether is taken from the vital body. The supply entering by way of the spleen is also diminished on account of the loss of tone of the seed atom located in the solar plexus and the attenuated condition of the vital body. Thus it is impossible for such people to recuperate between such oft repeated depletions, and as a consequence the health of the dense body suffers; they lose strength continually and are apt to become confirmed invalids. 
 
-### <h3 id="part-2-chapter-3">CHAPTER III: IN SLEEP AND DREAMS</h3>
+### <h3 id="part-2-chapter-3">Chapter III: In Sleep and Dreams</h3>
 
 The vital body is active in sleep as well as in the waking state and may be acted upon by the power of suggestion. Sleep may be induced by hypnosis. 
 
@@ -491,7 +491,7 @@ Looked at from the standpoint of one life, such methods as for instance those em
 
 But looking at it from the deeper standpoint of the occultist, who views this life as only one in many, and looking at it from the effect it has upon the invisible vehicles of man, the case is vastly different. When a man is put into a hypnotic sleep, the hypnotist makes passes over him which have the effect of expelling the ether from the head of his dense body and substituting the ether of the hypnotist. The man is then under the perfect domination of another; he has no free will, and, therefore, the so-called "suggestions" are in reality commands which the victim has no choice but to obey. Besides, when the hypnotist withdraws his ether and wakens the victim he is unable to remove all the ether he put into him. To use a simile, as a small part of the magnetism infused into an electric dynamo before it can be started for the first time is left behind and remains as residual magnetism to excite the fields of the dynamo every time it is started up, so also there remains a small part of the ether of the hypnotist's vital body in the medulla oblongata of the victim, which is a club the hypnotist holds over him all his life, and it is due to this fact that suggestions to be carried out at a period subsequent to the awakening of the victim are invariably followed. 
 
-### <h3 id="part-2-chapter-4">CHAPTER IV: AT DEATH AND IN INVISIBLE WORLDS</h3>
+### <h3 id="part-2-chapter-4">Chapter IV: At Death and in Invisible Worlds</h3>
 
 At death, there is a cleavage of the vital body and the higher parts enter the invisible worlds. Its seed atom is retained by the Ego when passing through the heaven worlds to be used as a nucleus for the vital body of a future embodiment. 
 
@@ -625,7 +625,7 @@ The red cloud of hate is lifting, the black veil of despair is gone, there are n
 
 At every death the tears that are shed serve to dissolve the veil that hides, the invisible world from our longing gaze. The deep-felt yearning and the sorrow at the parting of loved and loving ones on both sides of the veil are tearing this apart, and at some not far distant day the accumulated effect of all this will reveal the fact that there is no death, but that those who have passed beyond are as much alive as we. The potency of these tears, this sorrow, this yearning is not equal in all cases, however, and the effects differ widely according to whether the vital body has been awakened in any given person by acts of unselfishness and service according to the occult maxim that all development along spiritual lines begins with the vital body. This is the basis, and no superstructure can be built until the foundation has been laid. 
 
-### <h3 id="part-2-chapter-5">CHAPTER V: ON WAY TO REBIRTH</h3>
+### <h3 id="part-2-chapter-5">Chapter V: On Way to Rebirth</h3>
 
 When an Ego is on its way to rebirth the seed atom of the vital body gathers new material. The polarity of this material determines its sex during the coming life. 
 
@@ -641,7 +641,7 @@ When the Ego is on its way to rebirth through the Region of Concrete Thought, th
 
 The silver cord which has grown from the seed atom of the dense body (located in the heart) since conception, is welded to the part that has sprouted from the central vortex of the desire body, (located in the liver), and when the silver cord is tied by the seed atom of the vital body, (located in the solar plexus), the Spirit dies to life in the supersensible world, and quickens the body it is to use in its coming Earth life. 
 
-### <h3 id="part-2-chapter-6">CHAPTER VI: OF CHILDREN</h3>
+### <h3 id="part-2-chapter-6">Chapter VI: Of Children</h3>
 
 A child's vital body at birth is unorganized. Up until about the age of seven, when the individual vital body is born, it draws from the microcosmic vital body. 
 
@@ -669,9 +669,9 @@ When the vital body is born at the age of seven a period of growth begins and a 
 
 Children who die before the seventh year have been born only so far as the dense and vital bodies are concerned and are not responsible to the Law of Consequence. Even up to twelve or fourteen years the desire body is in process of gestation, as will be more fully explained in the next lecture, and as that which has not been quickened cannot die, the dense and vital bodies alone go to decay when a child dies. It retains its desire body and mind to the next birth. Therefore it does not go around the whole path which the Ego usually traverses in a life cycle, but only ascends to the First Heaven to learn needed lessons, and after a wait of from one to twenty years it is reborn, often in the same family as a younger child. 
 
-<h2 id="part-3">PART III: VITAL BODY OF ANIMALS AND PLANTS</h2>
+<h2 id="part-3">Part III: Vital Body of Animals and Plants</h2>
 
-### <h3 id="part-3-chapter-1">Chapter I: GENERAL NATURE AND FUNCTION</h3>
+### <h3 id="part-3-chapter-1">Chapter I: General Nature and Function</h3>
 
 Animals and plants have a vital body, too. Although this vehicle is lacking in the mineral, the disintegration of hard rock, etc., affects the vital body of the Earth. 
 
@@ -719,9 +719,9 @@ As sensation in animals and men is due to their separate vital bodies, so the fe
 
 The vital body of the plant is composed only of the two densest ethers--the Chemical Ether and the Life Ether--which enable the plant to grow and propagate, but it lacks the two higher ethers--the Light Ether and Reflecting Ether. Hence it has no sensation or memory of what passes around it. Therefore, amputation of a limb will not be felt by the plant, and in the case of the cliff which is blasted, only the Chemical Ether is present, so that the crystals will have no feelings at all. Still, it would be wrong to infer that there is no feeling in either of these cases, for though the plants and the minerals have no individual means of feeling, they are enveloped and interpenetrated by the ethers and the Desire World of the planet, and the Planetary Spirit feels everything, on the same principle that our finger, having no individual desire body, cannot feel, but we, the indwelling Spirits inhabiting the body, feel any hurt done to the finger. 
 
-<h2 id="part-4">PART IV: RELATION OF VITAL BODY TO SPIRITUAL DEVELOPMENT</h2>
+<h2 id="part-4">Part IV: Relation of Vital Body to Spiritual Development</h2>
 
-### <h3 id="part-4-chapter-1">CHAPTER I: AN IMPORTANT FACTOR</h3>
+### <h3 id="part-4-chapter-1">Chapter I: An Important Factor</h3>
 
 In order to progress spiritually, man must further develop his vital body. 
 
@@ -795,7 +795,7 @@ We have all become so much more impregnated with materialism than we realize, an
 
 When Christianity shall have fully spiritualized the vital body a still higher step will be the Religion of the Father, who as the highest Initiate of the Saturn Period will help man to spiritualize the dense body which was started in the Saturn Period. Then even brotherhood will be transcended; there will be neither me nor thee, for all will be consciously One in God, and man will have been emancipated by the help of Angels, Archangels, and higher Powers. 
 
-### <h3 id="part-4-chapter-2">CHAPTER II: EFFECT OF PRAYER, RITUALS, AND EXERCISES</h3> 
+### <h3 id="part-4-chapter-2">Chapter II: Effect of Prayer, Rituals, and Exercises</h3> 
 
 Prayer, rituals, and exercises are of value in spiritualizing the vital body. 
 
@@ -841,7 +841,7 @@ Years ago, when the writer started on the Path and was imbued with the character
 
 The vital body is like a mirror or, rather, like the film of a moving picture; it pictures alike the world without according to our faculty of observation, and the ideas of the indwelling Spirit from within according to the clarity and training of the mind. Devotion and discrimination, otherwise emotion and intellect, decide our attitude toward these pictures, and their balanced action leads to a well rounded development. When evolved to a certain point they inevitably bring about a process of purification. The man will realize that in order to attain the goal he must lay aside whatever clogs the wheels of progress. A good mechanic aims to have the best tools and keep them in perfect order, for he knows their value in producing good work. Our bodies are tools of the Spirit, and in proportion as they are clogged they hinder its manifestation. Discrimination teaches us what hinders, and devotion to the higher life helps to eliminate undesirable habits or traits of character by superseding mere desire. 
 
-### <h3 id="part-4-chapter-3">CHAPTER III: ANCIENT INITIATION</h3>
+### <h3 id="part-4-chapter-3">Chapter III: Ancient Initiation</h3>
 
 In ancient times, certain ceremonies were performed in the Temples to bring about the cleavage of the vital body. 
 
@@ -863,7 +863,7 @@ When Parsifal started to go with Gurnemanz to the Castle of the Grail, he asked 
 
 As ether is the avenue of vital, creative forces, and as Angels are such expert builders of ether, we may readily understand that they are eminently fitted to be warders of the propagative forces in plant, animal, and man. All through the Bible we find them thus engaged: Two angels came to Abraham and announced the birth of Isaac, they promised a child to the man who had obeyed God. Later these same angels destroyed Sodom for abuse of the creative force. Angels foretold to the parents of Samuel and Samson, the birth of these giants of brain and brawn. To Elizabeth came the angel (not Archangel) Gabriel and announced the birth of John. Later he appeared also to Mary with the message that she was chosen to bear Jesus. 
 
-### <h3 id="part-4-chapter-4">CHAPTER IV: POSITIVE AND NEGATIVE DEVELOPMENT</h3>
+### <h3 id="part-4-chapter-4">Chapter IV: Positive and Negative Development</h3>
 
 Spiritual development may be positive, as in Adepts, Initiates, and Invisible Helpers; or negative, as in the case of mediumship. 
 
@@ -919,9 +919,9 @@ God is the Grand Architect of the Universe and the Initiates of the White School
 
 The Black Magicians are despoilers, actuated by hatred and malice. They also need a nucleus for their nefarious operations, and this they obtain most easily from the vital body at spiritualistic or hypnotic seances, where the sitters relax, put themselves into a negative frame of mind, drop their jaws, and sink their individualities by other distinctly mediumistic practices. Even people who do not frequent such places are not immune, for there are certain products of the vital body which are ignorantly scattered by all and which may be used effectively by the Black Magicians. Chief in this category are the hair and finger nails. The Negroes in their voodoo magic use the placenta for similar evil purposes. One particularly evil man, whose practice were exposed a decade ago, obtained from boys the vital fluid which he used for his demoniac acts. Even so innocent a thing as a glass of water placed in close proximity to certain parts of the body of the prospective victim, while the Black Magician converses with him can be made to absorb a part of the victim's vital body. This will give the Black Magician the requisite nucleus, or it may be obtained from a piece of the person's clothing. The same invisible emanation contained in the garment, which guides the bloodhound upon the track of a certain person, will also guide the magician, white or black, to the abode of that person and furnish the magician with a key to the person's system whereby the former may help or hurt according to his inclination. 
 
-<h2 id="part-5">PART V: THE VITAL BODY OF JESUS</h2>
+<h2 id="part-5">Part V: The Vital Body of Jesus</h2>
 
-### <h3 id="part-5-chapter-1">CHAPTER I: AS A VEHICLE FOR THE CHRIST</h3>
+### <h3 id="part-5-chapter-1">Chapter I: As a Vehicle for the Christ</h3>
 
 The vital body of Jesus is very highly developed and was used by the Christ during His three years of ministry. 
 
