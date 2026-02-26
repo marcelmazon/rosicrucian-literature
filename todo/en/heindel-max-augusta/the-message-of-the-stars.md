@@ -142,43 +142,44 @@ Oceanside, California, 92049, U.S.A.
     - [Subtile Indications of Spiritual Sight](#subtile-indications-of-spiritual-sight)
     - [Disease of the Ears](#disease-of-the-ears)
     - [Thirty-six Example Horoscopes](#thirty-six-example-horoscopes)
-        No. 1. Conception in a Drunken Debauch
-        No. 2. Elemental Possession 
-        No. 3. Heart and Eye Trouble, Spiritual Sight 
-        No. 4. Eye Trouble 
-        No. 5. Eye Trouble 
-        Dragon's Head and Tail 
-        No. 6. Broken Femur 
-        No. 7. Ear Disease 
-        No. 8. Ear Disease, Kidney Trouble, Constipation 
-        No. 9. 10. and 11. Throat and Genitals 
-        Disorders of the Mind 
-        No. 12. Melancholy, Suicidal Tendency 
-        No. 13. St. Vitus Dance and Adolescence 
-        No. 14. Suicide and Alcoholism 
-        No. 15. St. Vitus Dance and Tuberculosis 
-        No. 16. Tuberculosis 
-        No. 17. Digestive Disorder and Asthma 
-        No. 18. Digestive Disorder 
-        No. 19. Heart Trouble 
-        No. 20. Curvature of the Spine 
-        No. 21. Kidney Trouble, Accidents 
-        No. 22. Accidental Fractures 
-        No. 23. Insanity and Spirit Control 
-        No. 24. Heart Failure, Spasms 
-        No. 25. Heart, Lung and Kidney Trouble 
-        No. 26. Tuberculosis 
-        No. 27. Adenoids and Constipation 
-        No. 28. Accidents to Head 
-        No. 29. Goiter 
-        No. 30. Eye and Ear Trouble, Weak Back 
-        No. 31. Eye and Ear Trouble, Poor Circulation 
-        No. 32. Blindness, Hemorrhoids 
-        No. 33. Heart Trouble, Dropsy 
-        No. 34. Diseased Throat and Genitals 
-        No. 35. Solitary Vice, Tuberculosis 
-        No. 36. Horny Venereal Growths 
-        Planetary Hours 
+		- [No. 1. Conception in a Drunken Debauch](#no-1)
+		- [No. 2. Elemental Possession](#no-2)
+		- [No. 3. Heart and Eye Trouble, Spiritual Sight](#no-3)
+		- [No. 4. Eye Trouble](#no-4)
+		- [No. 5. Eye Trouble](#no-5)
+		- [Dragon's Head and Tail](#dragons-head-and-tail)
+		- [No. 6. Broken Femur](#no-6)
+		- [No. 7. Ear Disease](#no-7)
+		- [No. 8. Ear Disease, Kidney Trouble, Constipation](#no-8)
+		- [No. 9–11. Throat and Genitals](#no-9-10-11)
+		- [Disorders of the Mind](#disorders-of-the-mind)
+		- [No. 12. Melancholy, Suicidal Tendency](#no-12)
+		- [No. 13. St. Vitus Dance and Adolescence](#no-13)
+		- [No. 14. Suicide and Alcoholism](#no-14)
+		- [No. 15. St. Vitus Dance and Tuberculosis](#no-15)
+		- [No. 16. Tuberculosis](#no-16)
+		- [No. 17. Digestive Disorder and Asthma](#no-17)
+		- [No. 18. Digestive Disorder](#no-18)
+		- [No. 19. Heart Trouble](#no-19)
+		- [No. 20. Curvature of the Spine](#no-20)
+		- [No. 21. Kidney Trouble, Accidents](#no-21)
+		- [No. 22. Accidental Fractures](#no-22)
+		- [No. 23. Insanity and Spirit Control](#no-23)
+		- [No. 24. Heart Failure, Spasms](#no-24)
+		- [No. 25. Heart, Lung and Kidney Trouble](#no-25)
+		- [No. 26. Tuberculosis](#no-26)
+		- [No. 27. Adenoids and Constipation](#no-27)
+		- [No. 28. Accidents to Head](#no-28)
+		- [No. 29. Goiter](#no-29)
+		- [No. 30. Eye and Ear Trouble, Weak Back](#no-30)
+		- [No. 31. Eye and Ear Trouble, Poor Circulation](#no-31)
+		- [No. 32. Blindness, Hemorrhoids](#no-32)
+		- [No. 33. Heart Trouble, Dropsy](#no-33)
+		- [No. 34. Diseased Throat and Genitals](#no-34)
+		- [No. 35. Solitary Vice, Tuberculosis](#no-35)
+		- [No. 36. Horny Venereal Growths](#no-36)
+		- [Planetary Hours](#planetary-hours)
+
 
 ### <h3 id="chapter-1">CHAPTER I: EVOLUTION AS SHOWN IN THE ZODIAC</h3>
 
@@ -194,23 +195,23 @@ From this teaching it is apparent that the great spiritual hierarchies which are
 
 Thus the Zodiac and the planets are as a book in which we may read the history of Humanity during past ages, and they also give a key to the future which is in store for us. In the famous Zodiac in the Temple of Denderah, Cancer is not pictured as we have it in modern days. There it is a beetle, a scarab. This was the emblem of the soul, and Cancer has always been known in ancient times, as well as among modern mystics, to be the sphere of the soul, the Gate of Life in the Zodiac whence the spirits coming into rebirth, enter our sub-lunary conditions. It is therefore aptly ruled by the Moon which is the planet of fecundation, and it is noteworthy that we find Capricorn, which is its opposite, ruled by Saturn the planet of death and Chaos, who is mystically depicted as "the reaper with his scythe and hour glass in hand." These two opposite signs are therefore turning points in the soul's career. Cancer and Capricorn respectively mark the highest ascent of the Sun into the Northern Hemisphere, and its lowest descent into the South. We observe that during the summer when the Sun is in the sphere of Cancer and allied signs, fecundation and growth are the order of the day. But when the Sun is in the South, in Capricorn, we have winter, when nature is dead. The fruits of the summer are then consumed and assimilated by us. As a circle dance of the Sun among the twelve signs determines the seasons of the year when direct, causing the germination of myriads of seeds cast in the earth, also the mating of the fauna, which then makes the world alive with the sights and sounds of manifested life, and at another time leaves the world dumb, dull and drear in winter's gloom, under the sway of Saturn, so by the slower backward movement, known as the Precession of the Equinox, does it produce the great changes which we know as Evolution. In fact, this precessional measure of the Sun marks the birth and death of races, nations and their religions, for the pictorial Zodiac is a symbolical presentation of our past, present and future development. 
 
-CAPRICORN
+#### <h4 id="capricorn">CAPRICORN</h4>
 
 Capricorn, the goat, is not a goat at all as we know that animal, but part fish and part goat. Its Saturnine rulership, and the fact that it receives the Sun at the dawn of each New Year, naturally by analogy associates it with the beginning of precessional epochs. It represents the stage in evolution covering transition from fish, through amphibian to the mammalian form. The belligerency of the goat is well known, and an apt symbol of the struggle for existence, in which the weak perish unless able to outdistance their foes. This phase of the matter is sometimes expressed in the symbol, when drawn as part fish and part antelope. Jacob, in the forty-ninth chapter of Genesis, pronounces blessings upon his children, which symbolize the twelve signs. There he speaks of Naphtali as a "hind" let loose; thus a very apt symbol of Capricorn, for when the Sun is there at each winter solstice, it is starting a race through the circle of twelve signs, which it must complete in a given time--a year. 
 
-SAGITTARIUS
+#### <h4 id="sagittarius">SAGITTARIUS</h4>
 
 When the Sun leaves Capricorn, by precession, it enters the sign Sagittarius, and this is pictured in the symbolical Zodiac as a Centaur, part horse and part man. Thus it shows aptly, the fact that we have evolved through the animal stage into the human. The centaur is in the act of drawing his bow, showing that there is something for which the human spirit, on its pilgrimage through matter, is seeking, that it aspires to something that lies beyond it, as a lofty ideal, for the bow points upward to the stars. 
 
-SCORPIO
+#### <h4 id="scorpio">SCORPIO</h4>
 
 The next step in human unfoldment is not so much along the physical lines as along the mental. Its nature is shown by the Sun's passage through the sign Scorpio, which is pictorially represented as a serpent or scorpion, emblems of cunning and subtlety. It is plain from this symbol that the faculty of the mind evolved by infant humanity was cunning, and we still see that that is a characteristic trait among the lower races, the lower classes and the lower natures even among our present-day humanity. 
 
-LIBRA
+#### <h4 id="libra">LIBRA</h4>
 
 But, when the Sun enters the sign Libra, 'the scales,' by precession, the balance of reason gives him a new start upon the evolutionary path. Under the care of divine instructors man had at that time advanced to the point where because of this new faculty, reason, he could be made fully responsible to nature's laws, and thus reap what he had sown, that he might learn the lesson of life by actual experience, be able to reason out the connection between cause and effect and in time learn to govern himself so as to progress further upon the path. 
 
-VIRGO
+#### <h4 id="virgo">VIRGO</h4>
 
 Thus, under the guidance of the spiritual hierarchies, focused through the signs of Capricorn, Sagittarius, Scorpio, and Libra, were his physical, moral and mental attributes acquired, and he was equipped to commence the spiritual side of his evolution. The germ of this progress is hidden in the celestial virgin, the sign Virgo, which is the vehicle of the immaculate conception, the heavenly mother of Christ; not of one Christ only, but of many. This is one of the most sublime signs of the Zodiac and one of the most mystical, so fraught with hidden meaning that its full import cannot be fully understood save when viewed by the internal light of spiritual illumination. Yearly, at the winter solstice, the immaculate Madonna is ascendant at midnight, when the new born Sun commences to rise to the task of growing the grain and grape, to save humanity from the cold and famine, which would inevitably result were he to remain in the southern declination. The Sun is therefore an apt symbol of the Savior, born to feed his flock on the spiritual bread of life. But, as we must have eyes attuned to light to see the sun, so must the Christ be born within before we can perceive spiritual light. As Angelus Silesius says: 
 
@@ -223,7 +224,7 @@ Unless within thyself it be set up again."
 
 Therefore, by the precessional passage of the Sun through the sign Virgo, the germinal impulse was given towards the birth of Christ within man. The Mystic Marriage of the lower self to the higher, the Immaculate Conception, and the Divine Motherhood, which nourishes deep in its bosom, unseen by a scoffing world, "the new born Christ," are actual experiences of a growing number of people. And without the celestial prototype, fructified by the solar precession, this would be an impossibility; neither has this ideal been realized in such fullness during the past ages as today. The reason of this will appear when we take up the joint consideration of opposite signs of the Zodiac. 
 
-LEO
+### <h4 id="leo">LEO</h4>
 
 A great future is in store for this offspring of the celestial virgin. Listen to the wonderful prophecy of Isaiah: "For unto us a child is born, unto us a Son is given, and the government shall be upon his shoulders and his name shall be called Wonderful, Counselor, the Mighty God, the Everlasting Father, the Prince of Peace. Of the increase of His government and peace there shall be no end." 
 
