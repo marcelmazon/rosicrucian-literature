@@ -20,7 +20,7 @@ First Edition
 - [Chapter I: A Visit to the Invisible Planes](#chapter-1)
 - [Chapter II: A Sergeant's Experience after ''Passing Out."](#chapter-2)
 - [Chapter III: A Soul Flight](#chapter-3)
-- [Chapter IV: Back to Earth— A Pretty Nurse](#chapter-4)
+- [Chapter IV: Back to Earth — A Pretty Nurse](#chapter-4)
 - [Chapter V: The Elder Brother in the Flesh](#chapter-5)
 - [Chapter VI: A Doughboy's Ideas on Religion](#chapter-6)
 - [Chapter VII: Helping a Slain Soldier to Comfort his Mother](#chapter-7)
@@ -127,7 +127,7 @@ He was "afraid to say it" however and he countered with--
 
 "Look here, Marjorie, don't fool me. How did you get over here in France?"
 
-"Truly, Jimmie, I am not 'fooling'; honest Injun, as we used to say, I was sent, really and truly I was, but I asked to be sent," she added. "You see the others were so busy and there was not much that I could do, but I knew that I could help you and I knew that you would be glad to see me, so I asked for permission ad the Elder Brother gave it to me; he is always so kind to me."
+"Truly, Jimmie, I am not 'fooling'; honest Injun, as we used to say, I was sent, really and truly I was, but I asked to be sent," she added. "You see the others were so busy and there was not much that I could do, but I knew that I could help you and I knew that you would be glad to see me, so I asked for permission and the Elder Brother gave it to me; he is always so kind to me."
 
 The insane asylum theory received a new impetus with this statement. The "Elder Brother" must be one of the doctors, but she didn't talk like an insane person. She was radiantly beautiful now, far more beautiful than she had been when he had seen her last, and she was talking rationally, but who in the dickens was this "Elder Brother"? She was an only child. It must be the doctor.
 
@@ -1087,8 +1087,10 @@ One said:
 
 "I don't believe death ends it all, but it don't seem to me like we've been given the right dope about it. I remember an old hymn I heard at a revival once. I forget just how it went, but it was something like this:
 
+<pre>
 'One moment here my soul shall be,
 The next, beyond the stars.'
+</pre>
 
 That's sure going some, ain't it? St. Peter wouldn't have no chance to fire any questions at a guy going such a pace as that!"
 

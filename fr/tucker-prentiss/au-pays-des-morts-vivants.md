@@ -233,9 +233,7 @@ Il se rapprocha d'elle, et lui toucha la main.
 
 Jimmie se retourna sur un geste de Marjorie, et il vit devant lui un homme d'âge moyen, même un peu plus, grand, droit, et dont l'aspect inspirait un sentiment de respect, de vénération, preuve évidente d'un grand pouvoir. Ce personnage salua légèrement, tandis que Marjorie et Jimmie se mettaient debout.
 
-\- Je vous connais très bien, Mr. Westman, affirma-t-il, surtout grâce à votre amie ici présente. Prononçant ces paroles, il caressa affectueusement les boucles de Marjorie.
-
-\- Je l'ai envoyée à votre rencontre, tout d'abord, mais il ne faut pas trop présumer de ses forces. Je désire que vous m'accompagniez pendant quelque temps, puis vous pourrez parler avec elle plus longuement.
+\- Je vous connais très bien, Mr. Westman, affirma-t-il, surtout grâce à votre amie ici présente. Prononçant ces paroles, il caressa affectueusement les boucles de Marjorie. Je l'ai envoyée à votre rencontre, tout d'abord, mais il ne faut pas trop présumer de ses forces. Je désire que vous m'accompagniez pendant quelque temps, puis vous pourrez parler avec elle plus longuement.
 
 Le ton, les manières du nouveau venu avaient un tel air d'autorité paisible, que Jimmie n'eut pas un seul instant l'idée de protester. Il répondit simplement au gracieux geste d'adieu de Marjorie, et accompagna l'homme que la jeune fille nommait le "Frère Aîné".
 
@@ -243,9 +241,9 @@ Ils marchèrent quelque temps en silence, silence que Jimmie respecta, car, d'un
 
 Ils parcoururent ainsi une certaine distance en marchant lentement avant de prononcer une parole. Jimmie avait jeté un coup d'oeil furtif pour essayer de revoir Marjorie, mais à sa grande surprise, il ne l'aperçut pas, bien que certain de pouvoir discerner qui que ce fût, à plusieurs kilomètres dans toutes les directions.
 
-- Vous vous êtes bien reposé, déclara finalement son compagnon, et ce ne sera pas trop exiger de vous, que de vous décrire brièvement certains des devoirs dont le privilège vous incombera au cours de cette nouvelle vie où vous entrez. Mais, avant cela, je vais vous montrer quelque peu ce qui est arrivé et arrivera; et aussitôt que vous serez prêt à recevoir d'autres informations, je vous expliquerai pourquoi fut permise cette guerre mondiale, et de quelle façon votre aide pourra être utilisée.
+\- Vous vous êtes bien reposé, déclara finalement son compagnon, et ce ne sera pas trop exiger de vous, que de vous décrire brièvement certains des devoirs dont le privilège vous incombera au cours de cette nouvelle vie où vous entrez. Mais, avant cela, je vais vous montrer quelque peu ce qui est arrivé et arrivera; et aussitôt que vous serez prêt à recevoir d'autres informations, je vous expliquerai pourquoi fut permise cette guerre mondiale, et de quelle façon votre aide pourra être utilisée.
 
-- Ici, les conditions d'existence sont légèrement différentes de celles auxquelles vous avez été habitué, et je désire attirer votre attention sur un point que Marjorie n'a fait qu'effleurer, c'est le mode de locomotion. Il n'est plus nécessaire que vous marchiez comme précédemment; il est bien plus pratique et plus rapide d'avancer par le moyen que vous a suggéré Marjorie: c'est-à-dire, glisser. Nous nous mouvons tous par ce moyen. Il ne demande qu'un léger effort de volonté; notre déplacement est plus rapide que la marche, elle-même plus rapide que l'action de se traîner sur les genoux et sur les mains. Il n'y a pour ainsi dire aucune limite à la vitesse du glissement, et sans lui, il nous serait impossible d'accomplir tout le travail qui doit se faire en ces temps si difficiles. Essayez donc.
+\- Ici, les conditions d'existence sont légèrement différentes de celles auxquelles vous avez été habitué, et je désire attirer votre attention sur un point que Marjorie n'a fait qu'effleurer, c'est le mode de locomotion. Il n'est plus nécessaire que vous marchiez comme précédemment; il est bien plus pratique et plus rapide d'avancer par le moyen que vous a suggéré Marjorie: c'est-à-dire, glisser. Nous nous mouvons tous par ce moyen. Il ne demande qu'un léger effort de volonté; notre déplacement est plus rapide que la marche, elle-même plus rapide que l'action de se traîner sur les genoux et sur les mains. Il n'y a pour ainsi dire aucune limite à la vitesse du glissement, et sans lui, il nous serait impossible d'accomplir tout le travail qui doit se faire en ces temps si difficiles. Essayez donc.
 
 A ces mots, il se mit à glisser tout comme Marjorie. Alors, Jimmie fit l'effort conseillé, et à sa surprise, il s'aperçut qu'il pouvait évoluer comme sur la glace, seulement, le mouvement ne dépendait que de sa volonté et ne nécessitait aucun exercice physique. L'acquisition de ce pouvoir le réjouissait comme un enfant et il se mit à glisser en patinant, pour tracer la figure bien connue du 8, et d'autres encore, avant de se remettre aux côtés de sa nouvelle connaissance.
 
@@ -253,29 +251,31 @@ Chez l'homme, le caractère de l'enfant qu'il a été est longtemps perceptible,
 
 Par respect pour son guide, il s'arrêta, un peu gêné de son enthousiasme, et fit indirectement des excuses.
 
-- Cette façon de glisser est tout à fait nouvelle pour moi, il me semble pourtant que c'est ce que j'ai toujours désiré faire. J'ai toujours rêvé cela; maintenant que je puis le faire, il me semble que j'y suis accoutumé depuis longtemps.
+\- Cette façon de glisser est tout à fait nouvelle pour moi, il me semble pourtant que c'est ce que j'ai toujours désiré faire. J'ai toujours rêvé cela; maintenant que je puis le faire, il me semble que j'y suis accoutumé depuis longtemps.
 
-- Vous ne vous trompez pas, c'est une faculté ancienne et familière.
+\- Vous ne vous trompez pas, c'est une faculté ancienne et familière.
 
-- Il se peut que la patinage me facilite ce geste et me le rende familier.
+\- Il se peut que la patinage me facilite ce geste et me le rende familier.
 
-- Non. Cela vous est naturel pour la raison que vous le faites souvent et que vous y êtes vraiment habitué. Pendant votre sommeil, vous étiez constamment de ce côté-ci, mais vous n'en étiez pas conscient alors, et pourtant, vous saviez en partie ce que vous aviez fait, bien que vous n'ayez pas été capable d'en ramener le souvenir avec vous, à votre réveil.
+\- Non. Cela vous est naturel pour la raison que vous le faites souvent et que vous y êtes vraiment habitué. Pendant votre sommeil, vous étiez constamment de ce côté-ci, mais vous n'en étiez pas conscient alors, et pourtant, vous saviez en partie ce que vous aviez fait, bien que vous n'ayez pas été capable d'en ramener le souvenir avec vous, à votre réveil.
 
-- Ah! c'est formidable!
+\- Ah! c'est formidable!
 
-- C'est un réel perfectionnement de la marche, n'est-ce-pas?
+\- C'est un réel perfectionnement de la marche, n'est-ce-pas?
 
-- En effet, je suis de votre avis. Je l'enseignerai à mes hommes lorsque je retournerai.
+\- En effet, je suis de votre avis. Je l'enseignerai à mes hommes lorsque je retournerai.
 
 A ces mots, il s'arrêta net, réalisant subitement qu'il n'y avait pas de retour possible.
 
-- Non, affirma le Frère Aîné, dont le visage rayonnait de sympathie, il n'y a pas de retour, mais je pense que lorsque vous verrez ce qui vous est réservé, bien plus élevé, plus idéal que ce que vous venez de quitter, vous ne désirerez plus retourner, vous désirerez de tout votre coeur et de toute votre âme aller de l'avant.
+Le visage du Frère Aîné rayonnait de sympathie
 
-- Je vais vous conduire à la tranchée où se trouve votre compagnie, car l'un de vos amis doit bientôt venir dans l'au-delà. Comme il ne passera pas de la même manière que vous, il recouvrera sa conscience presque immédiatement, et je désire que vous vous occupiez de lui. De cette façon, vous apprendrez une bonne partie des devoirs qui vous incomberont plus tard.
+\- Non, affirma le Frère Aîné, il n'y a pas de retour, mais je pense que lorsque vous verrez ce qui vous est réservé, bien plus élevé, plus idéal que ce que vous venez de quitter, vous ne désirerez plus retourner, vous désirerez de tout votre coeur et de toute votre âme aller de l'avant.
 
-- A présent, enchaîna-t-il, avant de commencer un travail actif, je désire bien vous pénétrer de l'idée que cette guerre était nécessaire, car il n'existait pas d'autre moyen de sauver la race humaine d'une imminente et accablante fatalité. Ce fait n'excuse néanmoins pas du tout ceux qui sont responsables de l'avoir déclarée, car ce grand conflit, ces souffrances terribles, font croire à certains que les pouvoirs du bien sont impuissants devant ceux du mal, et c'est pour cela que j'en parle. Il n'en est pourtant pas ainsi. Dieu gouverne toutes choses, et de même qu'un oiseau ne peut mourir sans Sa permission et sans Sa volonté, de même aucune guerre ne peut être déclarée sans qu'Il en ait connaissance et sans Sa volonté; mais, comme je viens de le dire, cela n'excuse pas ceux qui l'ont provoquée. Ici, son expression devint très austère, quoique compatissante, son regard devint lointain, comme si ses pensées traversaient le temps qui devait s'écouler avant que le bien devant résulter de cette lutte gigantesque put élaborer son dessin sur la trame des siècles futurs.
+\- Je vais vous conduire à la tranchée où se trouve votre compagnie, car l'un de vos amis doit bientôt venir dans l'au-delà. Comme il ne passera pas de la même manière que vous, il recouvrera sa conscience presque immédiatement, et je désire que vous vous occupiez de lui. De cette façon, vous apprendrez une bonne partie des devoirs qui vous incomberont plus tard.
 
-- Enfin, dit-il, nous allons voyager un peu plus rapidement et vous pourrez utiliser votre nouveau pouvoir.
+\- A présent, enchaîna-t-il, avant de commencer un travail actif, je désire bien vous pénétrer de l'idée que cette guerre était nécessaire, car il n'existait pas d'autre moyen de sauver la race humaine d'une imminente et accablante fatalité. Ce fait n'excuse néanmoins pas du tout ceux qui sont responsables de l'avoir déclarée, car ce grand conflit, ces souffrances terribles, font croire à certains que les pouvoirs du bien sont impuissants devant ceux du mal, et c'est pour cela que j'en parle. Il n'en est pourtant pas ainsi. Dieu gouverne toutes choses, et de même qu'un oiseau ne peut mourir sans Sa permission et sans Sa volonté, de même aucune guerre ne peut être déclarée sans qu'Il en ait connaissance et sans Sa volonté; mais, comme je viens de le dire, cela n'excuse pas ceux qui l'ont provoquée. Ici, son expression devint très austère, quoique compatissante, son regard devint lointain, comme si ses pensées traversaient le temps qui devait s'écouler avant que le bien devant résulter de cette lutte gigantesque put élaborer son dessin sur la trame des siècles futurs.
+
+\- Enfin, dit-il, nous allons voyager un peu plus rapidement et vous pourrez utiliser votre nouveau pouvoir.
 
 A ces mots, il se mit à glisser de plus en plus vite. Jimmie, à ses côtés, oubliant de maintenir sa pensée, songeait à autre chose, et la distraction qui en résultait l'amenait à s'arrêter tout à fait. Il comprit de lui-même, se disant que la marche, devenue une seconde nature, lui permettait auparavant de songer à autre chose, mais que glisser était si nouveau pour lui qu'il était obligé de fixer sa pensée sans arrêt sur cette façon de se mouvoir.
 
@@ -285,11 +285,13 @@ Dans ce décor familier, Jimmie crut un instant être encore le soldat d'hier, e
 
 Le Frère Aîné posa sa main sur le bras de Jimmie, lui désigna un homme ayant dépassé la quarantaine, portant l'uniforme de sergent, qui était assis tranquillement, occupé à fumer tout en lisant un vieux périodique. A ce moment précis, il jeta le dernier bout de sa cigarette, déposa son journal, se leva lentement et entra dans la tranchée. Se dirigeant vers le poste de feu, il releva la tête afin de regarder par la petite ouverture; en l'espace d'une seconde à peine, il fut traversé en plein front par une balle ennemie. Il resta immobile un instant, puis les muscles perdant leur vitalité, se détendirent, le corps se pencha, et s'affaissa finalement le long du parapet. A côté, le tirailleur de service considérait la scène avec effroi. Alors, Jimmie aperçut le sergent sortant tranquillement de son corps et regardant le tirailleur d'un air perplexe. Jimmie comprit tout de suite le fatal événement et salua le sergent Strew qui, le voyant, lui dit naturellement:
 
-- Holà! Jimmie, je suis heureux de vous revoir. Par où donc êtes-vous passé pour être ici? Je vous croyais à l'ouest.
+\- Holà! Jimmie, je suis heureux de vous revoir. Par où donc êtes-vous passé pour être ici? Je vous croyais à l'ouest.
 
-- Hello! vieux camarade, fit Jimmie, d'un ton désinvolte. J'arrive à l'instant et vous amène un ami. Se tournant vers le Frère Aîné:
+\- Hello! vieux camarade, fit Jimmie, d'un ton désinvolte. J'arrive à l'instant et vous amène un ami. 
 
-- Je vous présenterai à mon ami, le sergent Strew, si vous voulez bien me dire votre nom.
+Se tournant vers le Frère Aîné:
+
+\- Je vous présenterai à mon ami, le sergent Strew, si vous voulez bien me dire votre nom.
 
 Le sergent Strew ne semblait nullement étonné de voir ainsi Jimmie revenir à la tranchée, amenant avec lui un ami, comme si la première ligne de feu était un lieu de réunion, et les circonstances pourtant inusitées, ne semblèrent pas le surprendre davantage que de coutume. Il en est souvent ainsi de ceux qui sont passés depuis peu dans l'au-delà, et qui n'ont pas entraîné leur pouvoir d'observation et leur raisonnement. Le sergent savait qu'en réalité Jimmie était mort, du moins on le lui avait annoncé, et il n'avait aucune raison d'en douter. Néanmoins lorsque Jimmie lui apparut vivant, bien portant et apparemment très à l'aise, le sergent accepta simplement le fait sans la moindre hésitation. Cependant, s'il avait pu voir Jimmie avant que l'obus meurtrier n'eût rompu la connexion entre le corps physique et le corps vital, le cas aurait été tout à fait différent.
 
@@ -299,105 +301,101 @@ Il ne nous est pas possible de donner le nom réel indiqué, nous désignerons d
 
 Après les présentations, le Frère Aîné dit:
 
-- Jimmie, venez me voir dans une heure environ, et vous amènerez votre ami.
+\- Jimmie, venez me voir dans une heure environ, et vous amènerez votre ami.
 
-- Certainement, Monsieur, mais ma montre est arrêtée. Comment pourrai-je savoir l'heure? Et où vous trouverai-je?
+\- Certainement, Monsieur, mais ma montre est arrêtée. Comment pourrai-je savoir l'heure? Et où vous trouverai-je?
 
--Je vous préviendrai le moment venu.
+\- Je vous préviendrai le moment venu.
 
 Le Frère Aîné fit en apparence un pas vers le haut de la tranchée et se dirigea vers l'arrière. Le sergent bondit dans sa direction, criant de toutes ses forces, tâchant d'intervenir, mais Jimmie lui saisit le bras. Se retournant, Strew lui dit:
 
-- Arrêtez-le! Rappelez-le!
+\- Arrêtez-le! Rappelez-le!
 
-Laissez-le partir, dit Jimmie, et écoutez-moi.
+\- Laissez-le partir, dit Jimmie, et écoutez-moi.
 
-- Très bien, Lieutenant, puisque vous le voulez. Par Jupiter, je suis heureux de vous revoir. Dites donc, avez-vous remarqué de quelle façon votre ami a franchi la tranchée? D'un seul pas, dans toute sa hauteur! Quel homme!
+\- Très bien, Lieutenant, puisque vous le voulez. Par Jupiter, je suis heureux de vous revoir. Dites donc, avez-vous remarqué de quelle façon votre ami a franchi la tranchée? D'un seul pas, dans toute sa hauteur! Quel homme!
 
-- En effet.
+\- En effet.
 
-- Quelle grande joie pour les camarades de vous retrouver sain et sauf. Nous avons appris votre mort, survenue il y a trois jours. Je suis tout à fait heureux de voir que c'était une erreur. Mais où avez-vous été durant tout ce temps?
+\- Quelle grande joie pour les camarades de vous retrouver sain et sauf. Nous avons appris votre mort, survenue il y a trois jours. Je suis tout à fait heureux de voir que c'était une erreur. Mais où avez-vous été durant tout ce temps?
 
 Jimmie était arrivé à un moment où la rage de la bataille avait cessé, laissant place à une accalmie. Le cas du sergent était unique en ce moment. Strew, tellement absorbé dans sa conversation avec Jimmie, n'avait pas remarqué le groupe d'hommes réunis autour de son cadavre, et le jeune lieutenant se demandait comment il lui faudrait annoncer cette nouvelle, sans trop le brusquer. Jamais il n'avait songé qu'une tâche de ce genre aurait pu lui être confiée.
 
-- Eh! bien, voyez-vous, Sergent, le plus drôle dans tout cela est que ce qui vous a été annoncé est parfaitement exact.
+\- Eh! bien, voyez-vous, Sergent, le plus drôle dans tout cela est que ce qui vous a été annoncé est parfaitement exact.
 
-- Qu'est-ce qui est exact?
+\- Qu'est-ce qui est exact?
 
-- Mais..., que j'ai été tué.
+\- Mais..., que j'ai été tué.
 
-- Vous vous moquez de moi, je pense.
+\- Vous vous moquez de moi, je pense.
 
-- Non, pas le moins du monde, je vous dis la vérité. J'ai été tué.
+\- Non, pas le moins du monde, je vous dis la vérité. J'ai été tué.
 
-- Jimmie...retournez donc chez le toubib...qu'il vous soigne sérieusement, vous devez avoir "une araignée au plafond". J'aurais bien dû m'en rendre compte en vous voyant venir avec ce vieux monsieur plein d'allant, car vous le savez bien, c'est contraire aux règlements, tout lieutenant que vous êtes...et d'ailleurs, je ne comprends pas comment il a pu arriver jusqu'ici en dépit des officiers.
+\- Jimmie...retournez donc chez le toubib...qu'il vous soigne sérieusement, vous devez avoir "une araignée au plafond". J'aurais bien dû m'en rendre compte en vous voyant venir avec ce vieux monsieur plein d'allant, car vous le savez bien, c'est contraire aux règlements, tout lieutenant que vous êtes...et d'ailleurs, je ne comprends pas comment il a pu arriver jusqu'ici en dépit des officiers.
 
-- Vous voyez bien, Sergent, qu'il en est ainsi, beaucoup d'êtres meurent, et ne savent même pas ce qui leur arrive.
+\- Vous voyez bien, Sergent, qu'il en est ainsi, beaucoup d'êtres meurent, et ne savent même pas ce qui leur arrive.
 
-- Oui, oui, et d'autres, bien vivants, s'imaginent qu'ils sont tués. Voyons, Jimmie, si vous étiez mort, vous seriez maintenant un fantôme, et je ne pourrai ni vous voir, ni m'entretenir avec vous. Cela ne se peut pas, vous êtes tout aussi vivant que moi.
+\- Oui, oui, et d'autres, bien vivants, s'imaginent qu'ils sont tués. Voyons, Jimmie, si vous étiez mort, vous seriez maintenant un fantôme, et je ne pourrai ni vous voir, ni m'entretenir avec vous. Cela ne se peut pas, vous êtes tout aussi vivant que moi.
 
-- C'est vrai, Sergent, mais tournez-vous un instant et vous vous apercevrez que vous êtes aussi mort que moi.
+\- C'est vrai, Sergent, mais tournez-vous un instant et vous vous apercevrez que vous êtes aussi mort que moi.
 
 Jimmie, d'un geste, lui indiqua le cadavre déposé au fond de la tranchée, prêt à être transporté à l'arrière, la nuit, à la faveur d'un instant de répit et de calme. Le sergent se retourna, porta son regard dans cette direction, l'y maintint longuement, et tranquillement se dirigea vers le corps, le considérant avec soin. Il s'adressa à la sentinelle du poste de feu. Ne recevant aucune réponse, il l'interpella à nouveau plus sévèrement, peine perdue; alors, il marcha vers elle, mit sa main sur son épaule, tentant de secouer cet homme de son inadmissible torpeur; mais à la fin, pourtant, Strew remarquant que sa main passait à travers l'homme, abandonna sa tentative, et se retournant vers Jimmie, il lui dit, d'une manière toute naturelle:
 
-- Je crois que vous avez raison, j'ai succombé.
+\- Je crois que vous avez raison, j'ai succombé.
 
 Jimmie regarda Strew, et celui-ci contempla Jimmie. L'un et l'autre demeuraient muets. Cette situation était toute nouvelle, et si Jimmie se fut trouvé dans le cas d'offrir ses condoléances à un ami ayant perdu un être cher, c'eût été déjà une tâche assez difficile; mais comme l'ami lui-même était mort et que le consolateur l'était aussi, l'affaire prenait un tour plutôt comique. Jimmie avait un léger sourire. Bien que les choses fussent trop sérieuses pour en rire, la situation s'avérait si curieuse qu'elle le tenait en gaieté, et pourtant, l'humour et l'aspect de l'outre-tombe lui avaient toujours semblé être deux choses aussi opposées que les pôles. Personne à sa connaissance ne les avait réunies. Le sergent, néanmoins, demeurait très grave.
 
-- Ainsi donc, la chose est arrivée, se dit-il, tant pour lui que pour Jimmie. Finalement, l'événement s'est produit, et cela ne ressemble en rien à ce que j'avais cru. Dites donc, fit-il, en regardant Jimmie, vous êtes ici depuis trois jours déjà, vous devez vous sentir chez vous, à présent. Où sont-ils?
+\- Ainsi donc, la chose est arrivée, se dit-il, tant pour lui que pour Jimmie. Finalement, l'événement s'est produit, et cela ne ressemble en rien à ce que j'avais cru. Dites donc, fit-il, en regardant Jimmie, vous êtes ici depuis trois jours déjà, vous devez vous sentir chez vous, à présent. Où sont-ils?
 
-- Qui...quoi?
+\- Qui...quoi?
 
-- Mais...les cieux...bien que je suppose que nous autres, nous n'y parvenons pas directement, j'aimerais savoir où sont toutes ces choses que nous racontent les curés...l'enfer, le diable, et le reste? Ici, nous sommes exactement les mêmes que précédemment, je n'y vois pas grande différence, sauf que mon chien Milvane ne peut m'entendre lorsque je lui parle; mais que diable fait-on ici? Devons-nous aller à la recherche d'une harpe pour jouer des psaumes, ou bien continuer à nous battre? Supposez qu'une bande de fantômes allemands s'amène, que ferions-nous?
+\- Mais...les cieux...bien que je suppose que nous autres, nous n'y parvenons pas directement, j'aimerais savoir où sont toutes ces choses que nous racontent les curés...l'enfer, le diable, et le reste? Ici, nous sommes exactement les mêmes que précédemment, je n'y vois pas grande différence, sauf que mon chien Milvane ne peut m'entendre lorsque je lui parle; mais que diable fait-on ici? Devons-nous aller à la recherche d'une harpe pour jouer des psaumes, ou bien continuer à nous battre? Supposez qu'une bande de fantômes allemands s'amène, que ferions-nous?
 
-- Je n'en sais rien, par exemple, déclara Jimmie, à qui l'idée était bien neuve.
+\- Je n'en sais rien, par exemple, déclara Jimmie, à qui l'idée était bien neuve.
 
-- Bon! J'ignore ce que nous pouvons faire, mais je parie que je rosserai d'importance le premier pâle fantôme allemand ayant l'audace de se présenter.
+\- Bon! J'ignore ce que nous pouvons faire, mais je parie que je rosserai d'importance le premier pâle fantôme allemand ayant l'audace de se présenter.
 
 Jimmie eut une sensation particulière. Enfant, il n'avait jamais eu un langage vulgaire, et il était rare qu'il employât des termes très violents; mais à présent que le sergent prononçait des mots classés dans sa compagnie comme jurons, Jimmie ressentit comme une sensation de douleur. C'était une sensation mélangée qui, sans être une douleur physique, y ressemblait beaucoup; c'était bien plus que de la simple répugnance à quelque chose qu'il n'aurait même pas remarqué auparavant. Il se rappela l'invitation du Frère Aîné, se demandant si l'heure n'était pas passée et s'il pouvait amener son ami en la présence quelque peu austère de cet homme étrange. Ses doutes furent éclaircis par la soudaine apparition d'un petit enfant souriant, venu l'on ne sait d'où, qui s'approcha de lui en dansant et en chantonnant:
 
-- Venez, Jimmie, le Frère Aîné désire vous voir.
+\- Venez, Jimmie, le Frère Aîné désire vous voir.
 
 Jimmie se tourna vers Strew, ce dernier absorbé dans une tâche difficile: il tentait d'empêcher un soldat de déboucler le ceinturon encore attaché à son cadavre.
 
-- Venez donc Sergent, Mr. Campion désire vous voir.
+\- Venez donc Sergent, Mr. Campion désire vous voir.
 
-- Au diable votre ami! Regardez-moi cet imbécile qui essaye de me prendre toutes mes cartouches, sachant que dans l'une des pochettes se trouve mon tabac, c'est que je suis responsable de mon ceinturon! Lâche-ça! Morbleu! Ces mots s'adressaient au soldat à qui Strew lança un magistral soufflet. La gifle, en des circonstances normales, aurait assommé un boeuf, mais présentement, elle traversa l'homme qui n'y prêta aucune attention. Le sergent était dans une rage à ne pouvoir souffler mot.
+\- Au diable votre ami! Regardez-moi cet imbécile qui essaye de me prendre toutes mes cartouches, sachant que dans l'une des pochettes se trouve mon tabac, c'est que je suis responsable de mon ceinturon! Lâche-ça! Morbleu! Ces mots s'adressaient au soldat à qui Strew lança un magistral soufflet. La gifle, en des circonstances normales, aurait assommé un boeuf, mais présentement, elle traversa l'homme qui n'y prêta aucune attention. Le sergent était dans une rage à ne pouvoir souffler mot.
 
 Jimmie dut s'arrêter un instant pour se rendre compte de la situation, et en riant, s'interposa entre Strew en fureur et le voleur indifférent qui, d'ailleurs, ne faisait qu'accomplir des ordres reçus.
 
-- Venez donc, Sergent! Vous êtes mort! Croyez-moi, vous êtes mort! Vous ne pouvez rien contre ce garçon-là. Venez avec moi, vous êtes mort, vous dis-je.
+\- Venez donc, Sergent! Vous êtes mort! Croyez-moi, vous êtes mort! Vous ne pouvez rien contre ce garçon-là. Venez avec moi, vous êtes mort, vous dis-je.
 
 Le sergent recula de quelques pas embarrassé, considéra Jimmie, et se grattant la tête:
 
-- En effet...j'oubliais.
+\- En effet...j'oubliais.
 
-Jimmie sourit:
-
-- De toute façon, que pouvez-vous faire de votre tabac? Vous ne pouvez plus fumer, maintenant.
+Jimmie sourit: \- De toute façon, que pouvez-vous faire de votre tabac? Vous ne pouvez plus fumer, maintenant.
 
 Le sergent s'arrêta net, regardant Jimmie, les yeux hagards:
 
-- Mais, c'est l'enfer!
+\- Mais, c'est l'enfer!
 
 A ces mots, Jimmie éprouva à nouveau la sensation désagréable, et il se demanda s'il ferait bien d'emmener ce soldat profane, tout brave et courageux qu'il fut, en la présence du Frère Aîné, qui, selon son idée était un Guide Céleste ou un Evangéliste. A l'armée, on employait rarement le mot pasteur, et Jimmie avait adopté le langage de la caserne. Que penserait ce grand ami de Marjorie, si le Sergent Strew se reprenait tout à coup à jurer?
 
 De nouveau, il vit le petit être au visage souriant, qui tout en dansant lui répétait son message:
 
-- Venez, Jimmie, le Frère Aîné désire vous voir.
+\- Venez, Jimmie, le Frère Aîné désire vous voir.
 
 Cette fois-ci, Jimmie se décida à obéir.
 
-- Venez, Sergent, on me prie de vous emmener.
+\- Venez, Sergent, on me prie de vous emmener.
 
 Strew le suivit, grommelant quelque chose entre ses dents à propos du tabac, et pensant à l'inutilité des localités où ne peut se fumer l'herbe consolatrice. Il se mit pourtant à suivre Jimmie, demeurant très préoccupé, grimpant hors de la tranchée afin d'inspecter les alentours, regardant de toutes parts si sa vue n'inciterait pas les Allemands à reprendre le bombardement.
 
-- Ne craignez rien, fit Jimmie, remarquant son appréhension, les Allemands ne peuvent vous voir, et même si c'était le cas, ils ne pourraient vous faire aucun mal. Vous êtes aussi mort que possible.
+\- Ne craignez rien, fit Jimmie, remarquant son appréhension, les Allemands ne peuvent vous voir, et même si c'était le cas, ils ne pourraient vous faire aucun mal. Vous êtes aussi mort que possible.
 
-- C'est vrai, je n'y songe jamais. Je ne puis pas encore me faire à l'idée d'être mort.
+\- C'est vrai, je n'y songe jamais. Je ne puis pas encore me faire à l'idée d'être mort.
 
-Il leva lentement la main vers son front et poussa un soupir de consternation en sentant la blessure béante de sa tête; il retira sa main couverte de sang. Puis il tâta la plaie:
-
-- Dites, je ferais mieux de me faire mettre un pansement, c'est mauvais d'être atteint à cet endroit-là. J'aurais pu...C'est étonnant que je ne sois pas...
+Il leva lentement la main vers son front et poussa un soupir de consternation en sentant la blessure béante de sa tête; il retira sa main couverte de sang. Puis il tâta la plaie: \- Dites, je ferais mieux de me faire mettre un pansement, c'est mauvais d'être atteint à cet endroit-là. J'aurais pu...C'est étonnant que je ne sois pas...
 
 Il s'arrêta court et regarda Jimmie d'une manière pensive. Cette blessure l'avait évidemment effrayé, car malgré l'évidence, il n'avait pas encore réalisé qu'il était mort. Il faut parfois beaucoup de temps pour admettre un fait accompli. Bien que le sergent eût la certitude de n'être plus de ce monde, il n'avait pas encore appris à coordonner ses pensées avec ce qu'il savait être la vérité, et la vieille impulsion de soigner une plaie pour éviter les complications n'avait pu être repoussée.
 
@@ -409,102 +407,87 @@ Effectivement, la blessure était affreuse, non seulement là où la balle étai
 
 Quelque dévouée et bienfaisante que soit la Croix-Rouge, à présent il ne connaissait aucun hôpital où un homme invisible puisse se faire soigner une blessure mortelle qui avait déjà causé sa mort.
 
-- Où voulez-vous aller, Sergent? demanda-t-il. Où pensez-vous pouvoir vous faire soigner? Ne savez-vous pas que c'est ce qui vous a tué?
+\- Où voulez-vous aller, Sergent? demanda-t-il. Où pensez-vous pouvoir vous faire soigner? Ne savez-vous pas que c'est ce qui vous a tué?
 
-- N'y a-t-il pas d'hôpitaux de ce côté? demanda le sergent, où les revenants peuvent-ils se faire panser lorsqu'ils sont blessés?
+\- N'y a-t-il pas d'hôpitaux de ce côté? demanda le sergent, où les revenants peuvent-ils se faire panser lorsqu'ils sont blessés?
 
-- On n'est jamais blessé, ici.
+\- On n'est jamais blessé, ici.
 
-- Avec cela qu'on ne l'est jamais! Je suis blessé, vous le voyez bien. Si je ne panse pas ça, je pourrais en...en...
+\- Avec cela qu'on ne l'est jamais! Je suis blessé, vous le voyez bien. Si je ne panse pas ça, je pourrais en...en...
 
-- En quoi, Sergent? En revenir à la vie?
+\- En quoi, Sergent? En revenir à la vie?
 
-- Allez au diable, Jimmie! Cette chose me fait souffrir bougrement. C'est étonnant que vous ne fassiez pas signe à un brancardier, à une ambulance ou à n'importe qui, au lieu de ricaner comme un homme ivre. Il y a sans doute des ambulances de ce côté. Cela doit certainement exister.
+\- Allez au diable, Jimmie! Cette chose me fait souffrir bougrement. C'est étonnant que vous ne fassiez pas signe à un brancardier, à une ambulance ou à n'importe qui, au lieu de ricaner comme un homme ivre. Il y a sans doute des ambulances de ce côté. Cela doit certainement exister.
 
+### <h3 id="chapter-3">Chapitre III - Une Envolée de l'Âme</h3>
 
-  		Chapitre 3
-Table des Matières
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE III - UNE ENVOLÉE DE L'ÂME - pages 53 à 70
-
-- Non, il n'y a pas d'ambulance, Sergent, mais je vais vous conduire là où vous serez soigné.
+\- Non, il n'y a pas d'ambulance, Sergent, mais je vais vous conduire là où vous serez soigné.
 
 Jimmie, à ces mots, se retourna, et fut quelque peu étonné. Le Frère Aîné se trouvait tranquillement à ses côtés, ayant sur les lèvres la trace d'un léger sourire.
 
-- Veuillez me suivre tous les deux, je vous prie.
+\- Veuillez me suivre tous les deux, je vous prie.
 
 Ils emboîtèrent le pas naturellement, il ne leur vint pas à l'idée de questionner celui dont la voix était si douce et dont l'affabilité semblait contenir une note de pouvoir, d'autorité.
 
-- Prenez la main du sergent, Jimmie, dit le Frère Aîné, qui de son côté lui prit le bras. Jimmie fut émerveillé de voir la rapidité avec laquelle ils voyageaient. Comme il s'en souvint et le raconta plus tard, c'était foudroyant. Ils se trouvèrent sur une belle pelouse, à quelques centaines de mètres d'une grande construction érigée sur le mode grec ancien, avec d'énormes colonnes symétriques aux chapiteaux corinthiens. Une lueur irisée semblait entourer cette sorte de temple; Jimmie n'était pas très certain, au début, de la réalité du phénomène qu'il ne voyait pas de manière continue, et le sergent Strew, lui, semblait sortir d'un rêve, et n'avait pas du tout l'air de l'apercevoir.
+\- Prenez la main du sergent, Jimmie, dit le Frère Aîné, qui de son côté lui prit le bras. Jimmie fut émerveillé de voir la rapidité avec laquelle ils voyageaient. Comme il s'en souvint et le raconta plus tard, c'était foudroyant. Ils se trouvèrent sur une belle pelouse, à quelques centaines de mètres d'une grande construction érigée sur le mode grec ancien, avec d'énormes colonnes symétriques aux chapiteaux corinthiens. Une lueur irisée semblait entourer cette sorte de temple; Jimmie n'était pas très certain, au début, de la réalité du phénomène qu'il ne voyait pas de manière continue, et le sergent Strew, lui, semblait sortir d'un rêve, et n'avait pas du tout l'air de l'apercevoir.
 
 Se tenant toujours la main, ils traversèrent la pelouse, montèrent les marches entourant le bâtiment et s'engagèrent alors entre une série de colonnes, interminables, jusqu'à ce que le Frère Aîné ouvrit une porte, et leur fit signe d'entrer.
 
 Après avoir pénétré à son tour, il referma la porte, puis, se tournant vers le sergent Strew qui, vu la perte de son sang, était manifestement défaillant:
 
-- A présent, Sergent, vous devez m'excuser d'avoir attendu si longtemps pour soigner votre blessure.
+\- A présent, Sergent, vous devez m'excuser d'avoir attendu si longtemps pour soigner votre blessure.
 
 Il ouvrit une petite armoire et prit sur l'une des tablettes intérieures une petite fiole contenant une substance foncée de même consistance que la vaseline.
 
-- Voyez-vous, Sergent, de ce côté-ci du voile, nous pouvons obtenir des résultats plus rapides. Si vous m'écoutez, vous verrez votre blessure guérir sans laisser la moindre cicatrice.
+\- Voyez-vous, Sergent, de ce côté-ci du voile, nous pouvons obtenir des résultats plus rapides. Si vous m'écoutez, vous verrez votre blessure guérir sans laisser la moindre cicatrice.
 
 Se tenant devant le sergent, il prit un peu de pommade au bout de son doigt, et dit:
 
-- Veuillez rester tranquille, Sergent, et concentrer votre pensée sur l'état de votre front avant la blessure. Maintenez cette pensée et imaginez qu'il n'y a jamais eu de blessure.
+\- Veuillez rester tranquille, Sergent, et concentrer votre pensée sur l'état de votre front avant la blessure. Maintenez cette pensée et imaginez qu'il n'y a jamais eu de blessure.
 
 Il toucha légèrement du doigt le front du sergent. Celui-ci ferma les yeux, crispant le front, comme il s'imaginait devoir le faire lorsqu'on se concentre.
 
 Le Frère Aîné retira alors sa main; au grand étonnement de Jimmie, le front du sergent apparut aussi net et lisse que celui d'un enfant, à part bien entendu, quelques rides, rides produites par les contractions extraordinaires que fit Strew, en essayant d'obéir au commandement de se concentrer.
 
-- Très bien, très bien, dit Jimmie.
+\- Très bien, très bien, dit Jimmie.
 
 Le sergent ouvrit les yeux.
 
-- Votre blessure a disparu. C'est comme s'il n'y en avait jamais eu.
+\- Votre blessure a disparu. C'est comme s'il n'y en avait jamais eu.
 
-- Vraiment!
+\- Vraiment! Il tâta prudemment, doucement son front.
 
-Il tâta prudemment, doucement son front.
-
-- Docteur, vous pouvez être sûr, je vous recommanderai comme médecin de première classe. Vous feriez fortune aux Etats-Unis, mais vous êtes un sorcier!
+\- Docteur, vous pouvez être sûr, je vous recommanderai comme médecin de première classe. Vous feriez fortune aux Etats-Unis, mais vous êtes un sorcier!
 
 Le Frère Aîné sourit.
 
-- Mon ami, c'est vous-même, votre imagination, le pouvoir de votre volonté qui ont fait cette guérison, et non mon habileté.
+\- Mon ami, c'est vous-même, votre imagination, le pouvoir de votre volonté qui ont fait cette guérison, et non mon habileté.
 
 Le sergent Strew paraissait mystifié. Furtivement, il tâta encore son front, il doutait de la permanence du changement survenu par sa propre imagination, mais la blessure était bien guérie, aussi poussa-t-il un soupir de soulagement.
 
-- Eh! dit-il, si seulement j'avais connu cela plus tôt! Il se tourna vers le Frère Aîné:
+\- Eh! dit-il, si seulement j'avais connu cela plus tôt! Il se tourna vers le Frère Aîné: Vous me certifiez vraiment que je me suis guéri moi-même?
 
-- Vous me certifiez vraiment que je me suis guéri moi-même?
+\- Parfaitement, la substance avec laquelle je vous ai soigné n'était que pour vous aider à vous concentrer. Vous vous seriez présenté n'ayant qu'un bras, vous auriez pu remplacer le membre manquant avec autant de facilité que ce fût le cas pour votre blessure. La matière, de ce côté-ci, est merveilleusement soumise au pouvoir de la volonté. Et la tâche que je désire vous donner est justement celle d'aller à la rencontre de ceux de vos camarades qui quittent ce bas monde, de les tranquilliser, et de leur expliquer la manière de guérir leurs blessures, et aussi de les éloigner des champs de bataille.
 
-- Parfaitement, la substance avec laquelle je vous ai soigné n'était que pour vous aider à vous concentrer. Vous vous seriez présenté n'ayant qu'un bras, vous auriez pu remplacer le membre manquant avec autant de facilité que ce fût le cas pour votre blessure. La matière, de ce côté-ci, est merveilleusement soumise au pouvoir de la volonté. Et la tâche que je désire vous donner est justement celle d'aller à la rencontre de ceux de vos camarades qui quittent ce bas monde, de les tranquilliser, et de leur expliquer la manière de guérir leurs blessures, et aussi de les éloigner des champs de bataille.
+\- Pour ceux qui meurent, la guerre est finie, et il est de leur devoir comme de leur privilège d'aider, non pas en combattant, mais en obtenant de faire cesser la lutte, et de détourner leurs pensées de la terre afin de les diriger vers l'avenir et les devoirs qui en résultent.
 
-- Pour ceux qui meurent, la guerre est finie, et il est de leur devoir comme de leur privilège d'aider, non pas en combattant, mais en obtenant de faire cesser la lutte, et de détourner leurs pensées de la terre afin de les diriger vers l'avenir et les devoirs qui en résultent.
+\- Mais...Supposons que les Allemands fassent un raid...Que devrai-je faire? Comment pourrai-je aider à combattre?
 
-- Mais...Supposons que les Allemands fassent un raid...Que devrai-je faire? Comment pourrai-je aider à combattre?
+\- Simplement en refusant de vous battre. Vous n'êtes plus ici sur le plan physique où l'on pouvait vous y contraindre. Les Allemands ne peuvent vous blesser, même s'ils font un raid et s'ils vous environnent. Tout ce que vous avez à faire est d'obéir aux ordres; ignorez les Allemands à moins de connaître leur langue. Alors, votre devoir sera de les aider à cesser le combat, de les guérir, comme il est de votre devoir de secourir vos propres camarades.
 
-- Simplement en refusant de vous battre. Vous n'êtes plus ici sur le plan physique où l'on pouvait vous y contraindre. Les Allemands ne peuvent vous blesser, même s'ils font un raid et s'ils vous environnent. Tout ce que vous avez à faire est d'obéir aux ordres; ignorez les Allemands à moins de connaître leur langue. Alors, votre devoir sera de les aider à cesser le combat, de les guérir, comme il est de votre devoir de secourir vos propres camarades.
-
-- Rappelez-vous bien qu'en agissant ainsi, vous faites le travail du Maître, que son pouvoir, sa force vous environnent, de sorte que rien ne peut vous nuire. Si vous désobéissez, laissez votre colère prendre le dessus et essayez de faire tort à quelqu'un, alors vous pourriez être en difficultés vous-même. En quelques mots, obéissez aux ordres, et vous serez sain et sauf, même si votre travail vous conduit au milieu même de l'armée Allemande. Si, au contraire, vous désobéissez, si vos passions vous entraînent vers la haine et la colère, vous ne vous sentirez pas en sécurité même si vous êtes seul sur une île de l'Océan Pacifique. Comprenez-vous?
+\- Rappelez-vous bien qu'en agissant ainsi, vous faites le travail du Maître, que son pouvoir, sa force vous environnent, de sorte que rien ne peut vous nuire. Si vous désobéissez, laissez votre colère prendre le dessus et essayez de faire tort à quelqu'un, alors vous pourriez être en difficultés vous-même. En quelques mots, obéissez aux ordres, et vous serez sain et sauf, même si votre travail vous conduit au milieu même de l'armée Allemande. Si, au contraire, vous désobéissez, si vos passions vous entraînent vers la haine et la colère, vous ne vous sentirez pas en sécurité même si vous êtes seul sur une île de l'Océan Pacifique. Comprenez-vous?
 
 Le Frère Aîné était droit comme un soldat au garde-à-vous. Strew très impressionné, réunit les talons et salua en disant:
 
-- Vos ordres seront exécutés, Sir.
+\- Vos ordres seront exécutés, Sir.
 
-- Un instant, Sergent.
+\- Un instant, Sergent.
 
 Le Frère Aîné sembla réfléchir, il réfléchit pendant une minute environ. La porte s'ouvrit, et un homme en uniforme de soldat canadien parut.
 
-- Vous m'avez appelé, Sir?
+\- Vous m'avez appelé, Sir?
 
-- Oui, veuillez aller avec le Sergent Strew, et lui montrer comment nous travaillons. Vous ne serez pas appelé de sitôt en service actif, Sergent, dit le Frère Aîné, s'adressant à notre ami, mais les Allemands sont prêts à entreprendre une nouvelle attaque, et de part et d'autre, beaucoup d'hommes seront tués. Aussi, aurons-nous besoin de tous nos travailleurs et même davantage. Je suis certain que vous ferez de votre mieux: vous leur ferez cesser le combat et tourner leur attention ailleurs dès qu'ils se trouveront de ce côté-ci du voile.
+\- Oui, veuillez aller avec le Sergent Strew, et lui montrer comment nous travaillons. Vous ne serez pas appelé de sitôt en service actif, Sergent, dit le Frère Aîné, s'adressant à notre ami, mais les Allemands sont prêts à entreprendre une nouvelle attaque, et de part et d'autre, beaucoup d'hommes seront tués. Aussi, aurons-nous besoin de tous nos travailleurs et même davantage. Je suis certain que vous ferez de votre mieux: vous leur ferez cesser le combat et tourner leur attention ailleurs dès qu'ils se trouveront de ce côté-ci du voile.
 
 Le sergent Strew et le Canadien saluèrent et sortirent.
 
@@ -512,41 +495,41 @@ Quant à ce qui arriva au sergent, la manière avec laquelle il fut introduit, p
 
 Le Frère Aîné, après le départ du sergent, demeura un moment pensif. De son côté, Jimmie attendait qu'il parle. Après quelques minutes, ce fut Jimmie qui, le premier, rompit le silence.
 
-- Vous m'avez déclaré, Monsieur, que certains devoirs m'incombent également?
+\- Vous m'avez déclaré, Monsieur, que certains devoirs m'incombent également?
 
-- Oui, mais les vôtres sont différents de ceux du sergent. Vous devez apprendre le plus possible, car le champ de votre activité ne sera pas ici. Vous devrez retourner sur terre.
+\- Oui, mais les vôtres sont différents de ceux du sergent. Vous devez apprendre le plus possible, car le champ de votre activité ne sera pas ici. Vous devrez retourner sur terre.
 
-- Retourner?
+\- Retourner?
 
-- Oui, vous n'avez pas été tué, mais frappé d'une commotion violente, et lorsque le moment sera venu, on vous renverra à nouveau travailler dans votre propre corps, sur le plan physique. Là, votre très grand privilège sera de raconter, pour autant qu'il est en votre pouvoir, les choses merveilleuse qui vous seront montrées et enseignées ici.
+\- Oui, vous n'avez pas été tué, mais frappé d'une commotion violente, et lorsque le moment sera venu, on vous renverra à nouveau travailler dans votre propre corps, sur le plan physique. Là, votre très grand privilège sera de raconter, pour autant qu'il est en votre pouvoir, les choses merveilleuse qui vous seront montrées et enseignées ici.
 
-- Mais, si je ne suis pas mort, alors, tout cela n'est-il pas un rêve? Et...Marjorie me disait que j'étais mort... Est-ce que je n'aurais fait qu'imaginer voir Marjorie?
+\- Mais, si je ne suis pas mort, alors, tout cela n'est-il pas un rêve? Et...Marjorie me disait que j'étais mort... Est-ce que je n'aurais fait qu'imaginer voir Marjorie?
 
-- Non, vous avez réellement vu Marjorie et conversé avec elle, de plus vous êtes vraiment dans l'autre monde, car il n'est pas nécessaire de mourir pour venir ici. Marjorie s'est trompée très naturellement, car le fait est que, pendant quelque temps, on était incertain s'il serait possible de réintégrer assez rapidement votre corps éthérique. Mais votre travail est encore nécessaire sur terre; vous avez mérité cette chance dans des vies précédentes, et comme la nécessité s'est fait grandement sentir, une aide spéciale vous a été donnée. Ni vous, ni Marjorie, n'avez un instant pensé que vous n'étiez atteint d'aucune blessure.
+\- Non, vous avez réellement vu Marjorie et conversé avec elle, de plus vous êtes vraiment dans l'autre monde, car il n'est pas nécessaire de mourir pour venir ici. Marjorie s'est trompée très naturellement, car le fait est que, pendant quelque temps, on était incertain s'il serait possible de réintégrer assez rapidement votre corps éthérique. Mais votre travail est encore nécessaire sur terre; vous avez mérité cette chance dans des vies précédentes, et comme la nécessité s'est fait grandement sentir, une aide spéciale vous a été donnée. Ni vous, ni Marjorie, n'avez un instant pensé que vous n'étiez atteint d'aucune blessure.
 
-- C'est exact, déclara Jimmie, je songe en effet que je ne suis nullement blessé. Je n'y ai jamais pensé précédemment. Cependant, je me rappelle avoir vu sur le champ de bataille de nombreux morts, comme moi, sans aucune blessure.
+\- C'est exact, déclara Jimmie, je songe en effet que je ne suis nullement blessé. Je n'y ai jamais pensé précédemment. Cependant, je me rappelle avoir vu sur le champ de bataille de nombreux morts, comme moi, sans aucune blessure.
 
-- En effet, ils moururent d'une commotion d'obus. C'est cela même qui faillit vous tuer en chassant de votre corps physique le corps vital au point de rompre le cordon d'argent. Cependant, à cause des services que l'on attend de vous, une aide spéciale vous a été donnée, sinon, vous seriez tout à fait mort, comme vous dites; vous seriez de ce côté-ci du voile, sans aucune chance de retour. En raison de l'avance faite sur le Sentier au cours de vies précédentes, du serment de servir, de vos oeuvres, vous avez mérité que l'occasion vous soit donnée de servir davantage. Aussi, lorsque votre corps éthérique fut extériorisé par l'explosion, les particules de votre corps vital furent sauvegardées d'une dissolution complète; et lorsque le temps viendra pour vous de retourner dans votre corps physique qui se trouve actuellement dans un hôpital à l'arrière, vous serez aidé, afin de rapporter avec vous le souvenir de tout ce que vous avez entendu ou vu ici, de manière à travailler dans les meilleures conditions. Durant votre sommeil vous avez vu fréquemment Marjorie et avez parlé avec elle; et vous avez fréquemment voyagé avec elle durant vos rêves. Cette fois-ci, c'était tout différent et il n'est pas étonnant qu'elle se soit trompée.
+\- En effet, ils moururent d'une commotion d'obus. C'est cela même qui faillit vous tuer en chassant de votre corps physique le corps vital au point de rompre le cordon d'argent. Cependant, à cause des services que l'on attend de vous, une aide spéciale vous a été donnée, sinon, vous seriez tout à fait mort, comme vous dites; vous seriez de ce côté-ci du voile, sans aucune chance de retour. En raison de l'avance faite sur le Sentier au cours de vies précédentes, du serment de servir, de vos oeuvres, vous avez mérité que l'occasion vous soit donnée de servir davantage. Aussi, lorsque votre corps éthérique fut extériorisé par l'explosion, les particules de votre corps vital furent sauvegardées d'une dissolution complète; et lorsque le temps viendra pour vous de retourner dans votre corps physique qui se trouve actuellement dans un hôpital à l'arrière, vous serez aidé, afin de rapporter avec vous le souvenir de tout ce que vous avez entendu ou vu ici, de manière à travailler dans les meilleures conditions. Durant votre sommeil vous avez vu fréquemment Marjorie et avez parlé avec elle; et vous avez fréquemment voyagé avec elle durant vos rêves. Cette fois-ci, c'était tout différent et il n'est pas étonnant qu'elle se soit trompée.
 
-- Mais...je n'ai jamais rêvé d'elle...cela a toujours été un des grands regrets de ma vie.
+\- Mais...je n'ai jamais rêvé d'elle...cela a toujours été un des grands regrets de ma vie.
 
-- Effectivement. Bien que vous ne rêviez jamais d'elle, vous vous voyiez souvent et avez fait ensemble plusieurs longs voyages, car pendant le sommeil, nous sommes généralement éloignés de notre corps, dans le pays des rêves, mais bien peu de personnes sont à même de ramener le souvenir de leur visite au "Pays des Morts Vivants", et ceux qui commencent à réaliser la chose rapportent très fréquemment des souvenirs mélangés ou altérés. L'une des choses que j'espère vous voir apprendre bientôt, lorsque vous retournerez, c'est de garder votre conscience de ce monde-ci.
+\- Effectivement. Bien que vous ne rêviez jamais d'elle, vous vous voyiez souvent et avez fait ensemble plusieurs longs voyages, car pendant le sommeil, nous sommes généralement éloignés de notre corps, dans le pays des rêves, mais bien peu de personnes sont à même de ramener le souvenir de leur visite au "Pays des Morts Vivants", et ceux qui commencent à réaliser la chose rapportent très fréquemment des souvenirs mélangés ou altérés. L'une des choses que j'espère vous voir apprendre bientôt, lorsque vous retournerez, c'est de garder votre conscience de ce monde-ci.
 
-- Vous dites que cela peut se faire?
+\- Vous dites que cela peut se faire?
 
-- Certainement, c'est plus facile que cela ne paraît, particulièrement pour les âmes avancées. En effet, je m'étonne constamment de ne pas trouver plus de personnes capables de cette réalisation. Vous avez mérité ce dernier privilège durant vos deux ou trois vies précédentes, et cela ne sera pas pour vous une tâche bien difficile d'acquérir cette faculté.
+\- Certainement, c'est plus facile que cela ne paraît, particulièrement pour les âmes avancées. En effet, je m'étonne constamment de ne pas trouver plus de personnes capables de cette réalisation. Vous avez mérité ce dernier privilège durant vos deux ou trois vies précédentes, et cela ne sera pas pour vous une tâche bien difficile d'acquérir cette faculté.
 
-- Mes deux ou trois dernières vies? Qu'entendez-vous par là? Dois-je comprendre que j'ai déjà vécu précédemment?
+\- Mes deux ou trois dernières vies? Qu'entendez-vous par là? Dois-je comprendre que j'ai déjà vécu précédemment?
 
-- Exactement.
+\- Exactement.
 
-- Où cela?
+\- Où cela?
 
-- Sur terre. Votre dernière vie s'est passée non loin d'ici, c'est-à-dire dans le sud de l'Europe.
+\- Sur terre. Votre dernière vie s'est passée non loin d'ici, c'est-à-dire dans le sud de l'Europe.
 
-- Mais j'ai toujours pensé qu'après la mort, tout était fini, l'on montait au ciel, ou bien...l'on descendait vers l'autre endroit.
+\- Mais j'ai toujours pensé qu'après la mort, tout était fini, l'on montait au ciel, ou bien...l'on descendait vers l'autre endroit.
 
-- Non! Le plan de l'évolution humaine est bien plus grand et plus sublime que cela. Il est aussi infiniment plus complexe, et à cause du travail énorme à accomplir et du fait que vous pouvez y être de grande utilité, on vous aidera à retourner. Mais, avant, je désire que vous m'accompagniez encore un peu.
+\- Non! Le plan de l'évolution humaine est bien plus grand et plus sublime que cela. Il est aussi infiniment plus complexe, et à cause du travail énorme à accomplir et du fait que vous pouvez y être de grande utilité, on vous aidera à retourner. Mais, avant, je désire que vous m'accompagniez encore un peu.
 
 Le Frère Aîné fit signe à Jimmie, lui présenta sa main, et sortit, immédiatement suivi du jeune homme. Il y eut une période durant laquelle ils voyagèrent si rapidement que Jimmie ne put apercevoir que quelques paysages, très bas su-dessous d'eux et, en moins d'une minute, ils se trouvèrent dans une chambre pauvrement meublée, où une femme assise près d'une petite table, cousait, tandis que deux petits enfants jouaient par terre auprès d'elle. Pendant qu'elle travaillait, des larmes coulaient le long de ses joues, mais elle demeurait silencieuse, regardant de temps en temps vers la table où se trouvait une lettre ouverte.
 
@@ -554,19 +537,17 @@ Le Frère Aîné se tenait tranquillement dans un coin. Son visage grave exprima
 
 Instinctivement, il recula, par respect pour une douleur si grande. A ce moment, un homme en uniforme entra par la porte close, il se tenait là, les bras tendus vers sa femme, qui ne prit pas garde à lui. Sur sa tunique, juste au-dessus du coeur, était une petite ouverture ronde, tout le vêtement apparaissait souillé de sang.
 
-- Oh! Emma, dit le soldat, en rompant le silence. Emma, s'écria-t-il encore, d'une voix brisée.
+\- Oh! Emma, dit le soldat, en rompant le silence. Emma, s'écria-t-il encore, d'une voix brisée.
 
-La femme ne répondit pas, elle semblait mal à l'aise, et leva pourtant la tête, comme si elle entendait une voix inespérée. Le plus jeune enfant se traîna vers l'homme en uniforme, poussant de petits cris de bienvenue, qui, au bout de quelques mois d'exercice, auraient très bien pu signifier le familier "Papa". Dans un sanglot, la femme ramassa l'enfant.
+La femme ne répondit pas, elle semblait mal à l'aise, et leva pourtant la tête, comme si elle entendait une voix inespérée. Le plus jeune enfant se traîna vers l'homme en uniforme, poussant de petits cris de bienvenue, qui, au bout de quelques mois d'exercice, auraient très bien pu signifier le familier "Papa". 
 
-- Mon chéri, Papa n'est pas là. Il n'est pas encore de retour.
+\- Dans un sanglot, la femme ramassa l'enfant: Mon chéri, Papa n'est pas là. Il n'est pas encore de retour.
 
-- L'enfant le voit, déclara le Frère Aîné à Jimmie, mais non la femme, et peut-être cela vaut-il mieux.
-
--Lorsqu'elle ira ce soir se reposer, dit-il, se tournant vers l'homme en uniforme et lui touchant le bras, elle quittera son corps et sera avec vous jusqu'au moment où elle s'éveillera le matin. Vous vous en souviendrez mais pas elle. Chaque nuit, vous la retrouverez et pourrez lui parler, vous pourrez ainsi l'aider à supporter son fardeau. Entre temps, rappelez-vous que votre séparation n'est que temporaire, vous la verrez chaque nuit, elle et les enfants, alors qu'ils seront endormis. Vous voyez, votre départ n'est pas définitif. C'est elle qui a la peine la plus lourde à supporter.
+-\ L'enfant le voit, déclara le Frère Aîné à Jimmie, mais non la femme, et peut-être cela vaut-il mieux. Lorsqu'elle ira ce soir se reposer, dit-il, se tournant vers l'homme en uniforme et lui touchant le bras, elle quittera son corps et sera avec vous jusqu'au moment où elle s'éveillera le matin. Vous vous en souviendrez mais pas elle. Chaque nuit, vous la retrouverez et pourrez lui parler, vous pourrez ainsi l'aider à supporter son fardeau. Entre temps, rappelez-vous que votre séparation n'est que temporaire, vous la verrez chaque nuit, elle et les enfants, alors qu'ils seront endormis. Vous voyez, votre départ n'est pas définitif. C'est elle qui a la peine la plus lourde à supporter.
 
 L'homme tendit la main.
 
-- Je vous remercie, Monsieur, vous avez enlevé un terrible poids de mon coeur.
+\- Je vous remercie, Monsieur, vous avez enlevé un terrible poids de mon coeur.
 
 Le Frère Aîné se dirigea vers Jimmie. Tous deux quittèrent les lieux, en glissant selon le moyen familier, passant au travers des murs comme si ceux-ci étaient inexistants. Au dehors, ils se trouvèrent aux environs d'une grande ville, et le Frère Aîné se dirigea vers une rue ombragée, avançant lentement, marchant presque. Il n'y avait pas grand monde dans cette rue, et ceux qu'ils rencontraient ne prêtaient aucune attention à eux, ne les voyant pas. Au début, Jimmie évita assez facilement les piétons de la chaussée. Le Frère Aîné, lui, n'y prêtait pas plus attention que les passants ne se souciaient de lui, et il les traversait comme s'ils n'étaient que des ombres. Jimmie l'observa, essaya aussi, et finalement constata à sa grande satisfaction que cela ne causait aucun inconvénient, c'était même une chose tout à fait rationnelle.
 
@@ -578,25 +559,27 @@ Il se tut, son visage était auréolé de lumière. Jimmie remarqua ce nimbe dé
 
 "Combien scintillants, ces esprits glorieux resplendissent..."
 
-- Il est presque temps pour vous de retourner, continua le Frère Aîné, je ne puis, plus longtemps, converser avec vous. Aussi, je veux tenir ma promesse, vous allez revoir Marjorie un court instant, mais avant de nous quitter, je veux vous demander que dès votre rétablissement, vous me fassiez le plaisir de venir me voir à Paris. Voici mon adresse...
+\- Il est presque temps pour vous de retourner, continua le Frère Aîné, je ne puis, plus longtemps, converser avec vous. Aussi, je veux tenir ma promesse, vous allez revoir Marjorie un court instant, mais avant de nous quitter, je veux vous demander que dès votre rétablissement, vous me fassiez le plaisir de venir me voir à Paris. 
 
-- Mais, je pensais...je croyais que vous étiez...que vous étiez...tout à fait en ce monde.
+\- Voici mon adresse...
+
+\- Mais, je pensais...je croyais que vous étiez...que vous étiez...tout à fait en ce monde.
 
 Le Frère Aîné rit:
 
-- Non pas. Je suis encore dans un corps de chair et lorsque vous serez suffisamment rétabli, je vous verrai à Paris, et cela sera pour vous l'une des garanties que tout cela n'est pas un rêve, mais une réalité.
+\- Non pas. Je suis encore dans un corps de chair et lorsque vous serez suffisamment rétabli, je vous verrai à Paris, et cela sera pour vous l'une des garanties que tout cela n'est pas un rêve, mais une réalité.
 
 Il se mit en route rapidement, Jimmie le suivit, lui obéissant sur un geste, et bientôt ils se trouvèrent sur le pré légèrement vallonné ou le jeune homme avait repris connaissance.
 
-- Marjorie sera bientôt ici, je vous laisse avec elle. Elle vous expliquera certaines choses, mais vous ne devez pas considérer ce moment comme notre dernière rencontre, ni comme la seule introduction au pays des morts vivants. Votre connaissance des choses spirituelles s'est faite d'une façon toute différente de l'ordinaire, mais ce n'est pas un cadeau, vous l'avez mérité, et votre devoir sera de travailler dix fois plus encore que précédemment.
+\- Marjorie sera bientôt ici, je vous laisse avec elle. Elle vous expliquera certaines choses, mais vous ne devez pas considérer ce moment comme notre dernière rencontre, ni comme la seule introduction au pays des morts vivants. Votre connaissance des choses spirituelles s'est faite d'une façon toute différente de l'ordinaire, mais ce n'est pas un cadeau, vous l'avez mérité, et votre devoir sera de travailler dix fois plus encore que précédemment.
 
-- Il le fera certainement. N'est-ce pas, Jimmie?
+\- Il le fera certainement. N'est-ce pas, Jimmie?
 
 Marjorie qui s'était approchée, inaperçue, se tenait en face d'eux, souriante. Jimmie lui prit la main en souriant à son tour.
 
-- Certainement, Monsieur. J'accepte.
+\- Certainement, Monsieur. J'accepte.
 
-- Ainsi donc, au revoir, et à bientôt.
+\- Ainsi donc, au revoir, et à bientôt.
 
 Jimmie se retourna pour saluer le Frère Aîné, mais à sa grande surprise, ils étaient seuls.
 
@@ -608,23 +591,11 @@ Marjorie le rassura, et comme sa foi était si absolue en la sagesse du Frère A
 
 Ses yeux s'alourdirent, une somnolence irrésistible s'empara de lui; il essaya de s'en excuser, mais Marjorie lui sou rit. Son dernier souvenir fut celui de la jeune fille, debout, entourée d'un léger éclat lumineux, le visage radieux, lui disant:
 
-- Vous retournez sur terre.
+\- Vous retournez sur terre.
 
 Alors, les ténèbres semblèrent recouvrir le Pays des Morts Vivants.
 
-
-  		Chapitre 4
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE IV - DE RETOUR SUR LA TERRE - UNE JOLIE INFIRMIÈRE - pages 71 à 91
+### <h3 id="chapter-4">Chapitre IV - De Retour sur la Terre - Une Jolie Infirmière</h3>
 
 Une sensation de chute; de sombres nuées tourbillonnantes se firent sentir, pourtant invisibles; l'impression d'être précipité dans l'espace avec une rapidité vertigineuse, seul, parfois la tête la première, absolument incapable de contrôler ce terrible plongeon, Jimmie ne se sentait pas trop incommodé; il était simplement curieux de la fin de cette excursion précipitée, sans guide, vaguement conscient des ténèbres et de la rapidité qui diminuaient. Il entrevit, alors, une lueur croissante, graduelle, de demi-jour, venant l'on ne sait d'où, ne révélant rien de particulier. Un temps infini se passa; finalement, un rayon de soleil filtra au travers des nuages et du brouillard, puis peu à peu tout devint plus clair. Au fur et à mesure que le temps s'écoulait, les nuages se faisaient plus légers, plus roses; un lent changement transforma la pâle clarté du soleil en une lumière étincelante, reflet d'un globe éblouissant; il en fut de même des nuages roses qui se confondirent avec les parois et le plafond de sa chambre. Rien de plus n'était visible. Une ombre descendit des murs: une jeune déesse portant l'uniforme de la Croix-Rouge.
 
@@ -640,159 +611,157 @@ Cette infirmière de la Croix-Rouge lui souriait maintenant, mais elle n'irradia
 
 La jeune infirmière faisant sa ronde parmi ses malades avait remarqué que l'un d'eux, bien que n'ayant aucune blessure, se trouvait inconscient depuis plusieurs jours, souffrant d'une commotion d'obus; il n'avait pu encore être ramené à lui. Or, quelle ne fut pas sa surprise de voir ses yeux ouverts et lucides! Il attendait sa venue, ses lèvres remuèrent faiblement. Elle se pencha vers lui, mais put à peine entendre les mots:
 
-- Vous n'êtes pas radiante. Où est votre aura?
+\- Vous n'êtes pas radiante. Où est votre aura?
 
 L'infirmière caressa le front du jeune homme en se redressant, envahie par un grand sentiment de pitié pour cette pauvre épave de guerre. Ses lèvres remuaient encore...à nouveau elle se pencha pour écouter.
 
-- Excusez-moi. C'était une erreur. Vous l'avez maintenant...
+\- Excusez-moi. C'était une erreur. Vous l'avez maintenant...
 
-- Veuillez dormir à présent, vous allez beaucoup mieux.
+\- Veuillez dormir à présent, vous allez beaucoup mieux.
 
 Elle posa sa main sur la tête de Jimmie pendant quelques instants, et comme sa respiration régulière montrait qu'il avait suivi son conseil, elle poursuivit sa tournée. Un peu plus tard, en faisant son rapport à l'infirmière en chef, elle insista sur le fait que le no 32 avait repris connaissance, bien qu'il parût cependant un peu "perdu", ayant posé des questions insensées comme celle d'être irradiante et où se trouvait son aura.
 
-- Qu'est-ce qu'une aura? demanda-t-elle, il me semble avoir déjà entendu ce mot-là.
+\- Qu'est-ce qu'une aura? demanda-t-elle, il me semble avoir déjà entendu ce mot-là.
 
-- Je n'en sais rien, mon enfant. Je ne pense pas que cette chose existe. Il n'est pas encore bien revenu à lui.
+\- Je n'en sais rien, mon enfant. Je ne pense pas que cette chose existe. Il n'est pas encore bien revenu à lui.
 
 Jimmie s'éveilla quelques heures plus tard, la tête bien reposée et les idées assez nettes pour tout ce qui avait trait aux impressions extérieures, mais très confuses pour le reste. Il repassa néanmoins en sa mémoire ses expériences avec le sergent Strew, le Frère Aîné et Marjorie. Celles-ci étaient vives et distinctes, et il pouvaient se rappeler pour ainsi dire chaque mot, surtout ceux de Marjorie. Mais comment se trouvait-il ici, et quel était cet endroit? Il n'y avait pas d'hôpitaux de l'autre côté, cependant, il était dans l'un de ces établissements. D'ailleurs, l'infirmière marchait et ne glissait pas. De plus, elle ne possédait pas d'aura. Pourtant, lorsqu'elle s'était penchée sur lui et lui avait touché le front doucement, elle avait semblé rayonner. Oui, il se souvenait avoir vu soudainement qu'elle était entourée d'un nuage légèrement violet. Il lui avait dit quelques mots, mais ne s'en rappelait plus le sens. Enfin, il se rendit compte que ce qu'il avait de mieux à faire était de rester couché et de ne plus penser à rien. Cet endroit pouvait être le ciel, ou bien ne pas l'être, en tout cas, il était confortable.
 
 De nouveau, l'infirmière s'arrêta près de son lit. Il lui sourit, heureux de pouvoir lui sourire. Mais cette jeune personne, dans sa compréhension du devoir n'approuvait pas que les infirmières sourient à leurs malades, et réciproquement les malades à leurs infirmières. Elle voulait seulement s'enquérir de son état, de sa température, et regonfler ses oreillers, pour le réveiller doucement. Mais il s'en souciait peu. Qui pourrait être ennuyé par les attentions d'une déesse? Maintenant qu'il était suffisamment ranimé pour parler, il allait demander où il se trouvait. Il le demanderait avec une certaine diplomatie pour ne pas lui laisser deviner où il voulait en venir. Il parla, et elle était heureuse d'entendre une voix aussi forte.
 
-- Pourquoi ne glissez-vous pas?
+\- Pourquoi ne glissez-vous pas?
 
 Pauvre diable! Son timbre était clair, évidemment, mais l'esprit voyageait encore dans les lointains. Cependant, on pouvait parfois améliorer des cas de ce genre en y mettant un brin d'humour.
 
-- Pourquoi? croyez-vous qu'on nous permet de danser ici? et puis, on ne glisse plus maintenant. Les seules danses que nous ayons, d'ailleurs, sont la valse et quelques autres pas rythmés qui n'ont rien à voir avec une glissade qui n'est plus de mise actuellement.
+\- Pourquoi? croyez-vous qu'on nous permet de danser ici? et puis, on ne glisse plus maintenant. Les seules danses que nous ayons, d'ailleurs, sont la valse et quelques autres pas rythmés qui n'ont rien à voir avec une glissade qui n'est plus de mise actuellement.
 
 Il la regardait, éberlué. Peut-être que ce n'était pas le ciel. Peut-être était-ce...? non...ce n'était pas possible. Son visage semblait trop gentil et son maintien de même pour qu'il en fut ainsi.
 
-- Dites-moi...
+\- Dites-moi... // Penchée sur lui, pleine de pitié pour cet homme si jeune, cependant si malhabile à s'exprimer, elle s'attendait à quelques manifestations d'un esprit déréglé.
 
-Penchée sur lui, pleine de pitié pour cet homme si jeune, cependant si malhabile à s'exprimer, elle s'attendait à quelques manifestations d'un esprit déréglé.
-
-- Où suis-je donc?
+\- Où suis-je donc?
 
 Elle lui répondit en éclatant de rire:
 
-- Vous êtes dans une clinique américaine de Paris, en France, et il est certain que vous ne pouvez être dans un meilleur endroit: ici, tout est pour le mieux.
+\- Vous êtes dans une clinique américaine de Paris, en France, et il est certain que vous ne pouvez être dans un meilleur endroit: ici, tout est pour le mieux.
 
 De nouveau, en observant la jeune fille, il aperçut ce nuage coloré ressemblant à une aura de lumière pourpre, et il ne jugea pas nécessaire de lui expliquer ce qu'était l'aura, car elle était une vraie soeur, un de ces êtres compatissants qui consacrent leur temps à aider leur prochain, tout comme le Seigneur. Il savait sans toutefois pouvoir se l'expliquer, qu'un tel rayonnement si lumineux, si vibrant, si doux, ne pouvait être imité par un quelconque artifice, pouvoir, ni par aucune connaissance. Rien ne pouvait le produire, si ce n'étaient la pureté, la bienveillance, l'amour et le service. Aussi, pour le moment, en fut-il satisfait, et après s'être retourné sur son oreiller, il s'endormit aussitôt.
 
 C'est vingt-quatre heures après, qu'il s'éveilla, cette fois en pleine possession de ses sens et de sa mémoire, et lorsque l'aimable infirmière à la belle aura fit sa ronde, elle vit d'un coup d'oeil que Jimmie avait recouvré tous ses esprits.
 
-- Bonjour, dit-elle en souriant, comment va mon malade, commotionné? Divague-t-il toujours?
+\- Bonjour, dit-elle en souriant, comment va mon malade, commotionné? Divague-t-il toujours?
 
-Jimmie eut un large sourire.
-
-- Que vous ai-je donc dit hier?
+Jimmie eut un large sourire. - Que vous ai-je donc dit hier?
 
 Oh! Pas grand'chose. Vous m'avez demandé pourquoi je ne glissais pas, je ne dansais pas, où était mon aura, et la raison pour laquelle je ne rayonnais pas. Au fait, qu'est-ce qu'une aura? Cela existe-t-il en réalité, ou bien avez-vous imaginé seulement?
 
-- Je ne peux vous dire maintenant ce qu'est exactement l'aura, mais je vous l'expliquerai.
+\- Je ne peux vous dire maintenant ce qu'est exactement l'aura, mais je vous l'expliquerai.
 
 Trois jours plus tard, il fut permis à Jimmie Westman de sortir de l'hôpital pour une promenade. Il se sentait bien, mais il avait très faim. Il dut promettre que si on lui permettait de sortir, il n'en profiterait pas pour acheter quoi que ce soit à manger.
 
-- Je ne sais pas si je dois ou non me fier à vous, avait déclaré le docteur, il serait peut-être préférable que Mademoiselle Louise vous accompagne.
+\- Je ne sais pas si je dois ou non me fier à vous, avait déclaré le docteur, il serait peut-être préférable que Mademoiselle Louise vous accompagne.
 
-- Je crois aussi que cela vaudrait mieux, dit le jeune homme, avec une arrière-pensée. Je crois, en effet, que cela serait beaucoup plus sûr.
+\- Je crois aussi que cela vaudrait mieux, dit le jeune homme, avec une arrière-pensée. Je crois, en effet, que cela serait beaucoup plus sûr.
 
 Mademoiselle Louise ne sembla pas contrariée quand le docteur lui demanda si elle voulait bien accompagner son malade. Au fond, elle semblait plutôt fière de ce jeune lieutenant, dans son uniforme débarrassé de la boue des tranchées, net et impeccable.
 
-- De quel côté allons-nous? demanda-t-elle, en passant le portail de l'établissement.
+\- De quel côté allons-nous? demanda-t-elle, en passant le portail de l'établissement.
 
-- Connaissez-vous la rue d'Ex?
+\- Connaissez-vous la rue d'Ex?
 
-- Non, mais nous pouvons nous informer.
+\- Non, mais nous pouvons nous informer.
 
 Il posa la question dans son meilleur français de l'armée américaine, et elle fit la même demande, hésitante, avec son charmant accent et des sourcils interrogateurs relevés et charmeurs; mais ni l'un, ni l'autre ne purent enregistrer quelque chose d'utile avec les réponses qu'ils reçurent. Toutes demeuraient confuses, noyées dans un flot de paroles et de gestes, si bien qu'ils n'en furent pas plus avancés qu'auparavant.
 
-- Je connais la source de nos ennuis, affirma Jimmie, après une dizaine d'essais infructueux auprès des gens qui se contentaient, ignorant leur langue, de hausser les épaules et d'agiter leurs mains.
+\- Je connais la source de nos ennuis, affirma Jimmie, après une dizaine d'essais infructueux auprès des gens qui se contentaient, ignorant leur langue, de hausser les épaules et d'agiter leurs mains.
 
-- Qu'est-ce donc? je suis si ennuyée de mon mauvais français!
+\- Qu'est-ce donc? je suis si ennuyée de mon mauvais français!
 
-- Tout cela est votre faute.
+\- Tout cela est votre faute.
 
-- Ma faute...(Les sourcils se relevèrent à nouveau). Pourquoi, ma faute?
+\- Ma faute...(Les sourcils se relevèrent à nouveau). Pourquoi, ma faute?
 
-- Pourquoi? parce que ces gens vous regardent, ils en perdent la tête et bredouillent des bêtises. Je ne les blâme pas, d'ailleurs.
+\- Pourquoi? parce que ces gens vous regardent, ils en perdent la tête et bredouillent des bêtises. Je ne les blâme pas, d'ailleurs.
 
-- Ah! ça, suis-je donc si laide à regarder?
+\- Ah! ça, suis-je donc si laide à regarder?
 
--Je ne dis pas que vous êtes laide. Je dis qu'ils vous regardent et en perdent la tête.
+\- Je ne dis pas que vous êtes laide. Je dis qu'ils vous regardent et en perdent la tête.
 
-- Bon,, mais cela revient au même que d'affirmer que je suis laide. Je vous remercie Monsieur le Lieutenant James Westman, pour votre excellente opinion.
+\- Bon,, mais cela revient au même que d'affirmer que je suis laide. Je vous remercie Monsieur le Lieutenant James Westman, pour votre excellente opinion.
 
-- Fadaise!
+\- Fadaise!
 
-- Comment, fadaise! Qu'est-ce que vous voulez dire?
+\- Comment, fadaise! Qu'est-ce que vous voulez dire?
 
 Jimmie s'aperçut de son erreur et il s'en effraya. Il ne s'était pas représenté jusqu'alors à quel point il tenait à l'opinion de la jeune fille. Il se vit en danger et en devint nerveux.
 
-- Vous savez bien, Mademoiselle Louise, ce que je veux dire. Si vous l'ignorez, je vais vous le dire. Je veux dire juste ceci...dites-moi, vous n'aller pas vous fâcher, si je vous le dis?
+\- Vous savez bien, Mademoiselle Louise, ce que je veux dire. Si vous l'ignorez, je vais vous le dire. Je veux dire juste ceci...dites-moi, vous n'aller pas vous fâcher, si je vous le dis?
 
-- Je suis fâchée, réellement fâchée. Vous dites que je suis laide au point que personne ne peut me regarder sans perdre la tête.
+\- Je suis fâchée, réellement fâchée. Vous dites que je suis laide au point que personne ne peut me regarder sans perdre la tête.
 
-- Non, je n'ai pas dit cela, et je vais vous le dire maintenant, que vous en soyez fâchée ou non. Je veux dire ceci, c'est que vous êtes si jolie que naturellement...justement...
+\- Non, je n'ai pas dit cela, et je vais vous le dire maintenant, que vous en soyez fâchée ou non. Je veux dire ceci, c'est que vous êtes si jolie que naturellement...justement...
 
-- Justement quoi?
+\- Justement quoi?
 
-- Justement, les gens en perdent la tête, c'est bien cela. Maintenant, fâchez-vous, si vous voulez. - Silence.
+\- Justement, les gens en perdent la tête, c'est bien cela. Maintenant, fâchez-vous, si vous voulez.
 
-- Etes-vous fâchée? - Silence accentué.
+Silence.
 
-- Etes-vous...
+\- Etes-vous fâchée?
+
+Silence accentué.
+
+\- Etes-vous...
 
 Elle avait détourné la tête et quand il se pencha vers elle pour la réponse, il crut bien avoir entendu:
 
-- Non, pas très.
+\- Non, pas très.
 
 Avec sa nature primesautière, enthousiaste, Jimmie, emporté par la joie s'écria:
 
-- Et je vais vous en dire davantage, fâchez-vous si vous le voulez et autant que vous le voudrez. Je sais que je n'ai pas le droit de vous le dire, mais vous êtes bien la plus jolie, la plus charmante, la plus douce et la plus chère jeune fille que je connaisse au...au... A ce moment, la mémoire de Jimmie, frappée en plein par le souvenir de cette autre jeune fille trépidante de joie et de gaieté folle, la rayonnante Marjorie, dansant, glissant, de cette Marjorie tout en or, de cette Marjorie à la voix si douce... Ce souvenir, donc, le fit trébucher à la fin de sa phrase. Etait-il sincère? il pouvait en douter. Sa conscience en fut un peu émue. Etait-ce bien de parler d'amour à deux jeunes filles à la fois? Hésitant, il se reprit:
-
-- En France...termina-t-il, défaillant.
+\- Et je vais vous en dire davantage, fâchez-vous si vous le voulez et autant que vous le voudrez. Je sais que je n'ai pas le droit de vous le dire, mais vous êtes bien la plus jolie, la plus charmante, la plus douce et la plus chère jeune fille que je connaisse au...au... A ce moment, la mémoire de Jimmie, frappée en plein par le souvenir de cette autre jeune fille trépidante de joie et de gaieté folle, la rayonnante Marjorie, dansant, glissant, de cette Marjorie tout en or, de cette Marjorie à la voix si douce... Ce souvenir, donc, le fit trébucher à la fin de sa phrase. Etait-il sincère? il pouvait en douter. Sa conscience en fut un peu émue. Etait-ce bien de parler d'amour à deux jeunes filles à la fois? Hésitant, il se reprit: - En France...termina-t-il, défaillant.
 
 Louise sentit bien son hésitation. Elle se demandait si vraiment elle aimait cet homme ou non. Elle n'avait pas encore analysé ses sentiments, mais un moment, elle s'attendit à une déclaration d'amour et en demeura désappointée. Cette défaillance dans la voix du jeune homme résonnait faux, après les paroles enthousiastes, et bien qu'elle n'y comprit pas grand chose, elle en était à se demander si elle devait interpréter ces paroles dans leur sens formel ou tout autrement. Apparemment, il devait avoir laissé une fiancée aux Etats-Unis. Doucement, gentiment, elle se détacha de lui:
 
--Je crois que je ferai mieux de m'en aller de mon côté, Monsieur Westman.
+\- Je crois que je ferai mieux de m'en aller de mon côté, Monsieur Westman.
 
-- Louise! Oh! Louise! N'ayez pas une mauvaise opinion de moi, je vous en supplie. Je me doute de ce que vous pensez, ma chère Louise. Ne voulez-vous pas m'écouter?
+\- Louise! Oh! Louise! N'ayez pas une mauvaise opinion de moi, je vous en supplie. Je me doute de ce que vous pensez, ma chère Louise. Ne voulez-vous pas m'écouter?
 
 Elle hésitait, fâchée qu'il ait essayé de lui parler d'amour alors qu'il avait une fiancée en Amérique, et ne voulant pas non plus briser entièrement ses rapports avec lui, avant d'être certaine qu'il n'y eût pas de malentendu entre eux.
 
-- Eh bien, Monsieur Westman, en réalité, que voulez-vous me dire?
+\- Eh bien, Monsieur Westman, en réalité, que voulez-vous me dire?
 
-- Je veux vous affirmer que vous êtes la plus charmante jeune fille que je connaisse au monde.
+\- Je veux vous affirmer que vous êtes la plus charmante jeune fille que je connaisse au monde.
 
-- En France...voulez-vous dire.
+\- En France...voulez-vous dire.
 
-- Non, la seule qui soit dans l'univers tout entier.
+\- Non, la seule qui soit dans l'univers tout entier.
 
-- En êtes-vous certain? Ne voulez-vous pas dire en France?
+\- En êtes-vous certain? Ne voulez-vous pas dire en France?
 
-- Non, pas du tout, je veux bien dire de l'immense univers.
+\- Non, pas du tout, je veux bien dire de l'immense univers.
 
-- Mais alors, que deviendra la jeune fille restée aux Etats-Unis?
+\- Mais alors, que deviendra la jeune fille restée aux Etats-Unis?
 
-- Il n'y en a pas.
+\- Il n'y en a pas.
 
 Tout d'abord, elle le fixa, méditative, puis avec une lueur de mépris dans les yeux. Il le remarqua et jugea sa situation désespérée. A ce moment, Jimmie eut la sensation nette qu'il aimait cette jeune fille et qu'il ne devait la perdre à aucun prix.
 
-- Mais alors, pourquoi avez-vous hésité tout à l'heure? insinua-t-elle.
+\- Mais alors, pourquoi avez-vous hésité tout à l'heure? insinua-t-elle.
 
-- Bon! Je vais tout vous avouer, et vous comprendrez. Ecoutez-moi, je vous prie, écoutez-moi.
+\- Bon! Je vais tout vous avouer, et vous comprendrez. Ecoutez-moi, je vous prie, écoutez-moi.
 
-- Je vous écoute, mais je ne comprends pas grand'chose.
+\- Je vous écoute, mais je ne comprends pas grand'chose.
 
-- Dans ce cas, je m'expliquerai en chemin, en rentrant à l'hôpital.
+\- Dans ce cas, je m'expliquerai en chemin, en rentrant à l'hôpital.
 
-- Je ne crois pas, Monsieur Westman, je ne suis pas d'avis de perdre mon temps à écouter vos explications. Je crois que vous êtes assez bien portant maintenant pour marcher seul, et j'ai une course à faire. Je vous laisse donc et vais vaquer à mes affaires.
+\- Je ne crois pas, Monsieur Westman, je ne suis pas d'avis de perdre mon temps à écouter vos explications. Je crois que vous êtes assez bien portant maintenant pour marcher seul, et j'ai une course à faire. Je vous laisse donc et vais vaquer à mes affaires.
 
 Elle le quitta en dépit de ses protestations et tourna une rue pendant que Jimmie se tenait debout sur le trottoir, espérant qu'elle allait ralentir, se retourner ou lui faire un signe quelconque. Il attendit en vain.
 
 N'ayant rien d'autre à faire, il revint tristement vers l'hôpital, n'ayant même pas le goût d'aller se mêler aux groupes d'officiers d'un mess quelconque. Il désirait surtout demeurer seul et rechercher dans le silence quels arguments il pourrait développer à la jeune fille pour la convaincre de sa bonne foi. Soudain, les paroles du Frère Aîné lui revinrent à la mémoire:
 
-- Votre introduction à la vie spirituelle se fit pour vous par une voie inusitée, mais ce n'est pas un don qui vous est fait, car vous l'avez gagné par vos soins, et votre devoir sera de travailler dès maintenant dix fois plus qu'avant.
+\- Votre introduction à la vie spirituelle se fit pour vous par une voie inusitée, mais ce n'est pas un don qui vous est fait, car vous l'avez gagné par vos soins, et votre devoir sera de travailler dès maintenant dix fois plus qu'avant.
 
 Il s'aperçut alors qu'il avait oublié sa promesse, et le grand travail, quel qu'il soit, comportait en lui-même ce mot magique "devoir". De toute façon, il avait un peu négligé de penser à ses merveilleuses expériences, et avait fini par les considérer comme un rêve. Il avait simplement essayé de retrouver l'adresse du Frère Aîné puis avait calmement tout laissé de côté pour s'intéresser uniquement à faire la cour à une jeune fille! Mais une si jolie jeune fille! C'était là sa seule excuse! Tout cela était bien embrouillé. Il était amoureux de deux jeunes filles, toutes les deux jolies, charmantes et combien aimables, mais l'une sur terre, et l'autre... et bien disons, au paradis. Il ne pouvait épouser que l'une des deux. L'autre en serait-elle offensée? Est-ce que Louise le croira quand il lui confessera son second amour, en sera-t-elle jalouse ou non?. Il pensait, ou tout au moins, il espérait qu'elle tenait à lui, mais malgré tout, son histoire lui paraîtrait-elle vraisemblable?
 
@@ -808,39 +777,39 @@ En la voyant, Jimmie s'élança de sa chaise, et courut à sa rencontre. Qu'il y
 
 Alors, Jimmie qui s'était mis dans l'esprit que le plus simple était de raconter exactement ce qui lui était arrivé, la conduisit dans un petit jardin fréquenté par les convalescents, et là lui emplit les oreilles de l'histoire de son aventure depuis le moment où il se reconnut dans la prairie jusqu'à la minute où il reprit conscience dans son lit d'hôpital. Elle écoutait avec intérêt, surtout quand il parla de Marjorie.
 
-- Ainsi, ajouta-t-il, vous voyez combien il m'importe que je trouve cette adresse, parce que si cette rue existe, et si au numéro indiqué vit un certain Mr. Campion, cela prouvera la véracité de mon récit, et lui-même vous convaincra que l'histoire est vraie.
+\- Ainsi, ajouta-t-il, vous voyez combien il m'importe que je trouve cette adresse, parce que si cette rue existe, et si au numéro indiqué vit un certain Mr. Campion, cela prouvera la véracité de mon récit, et lui-même vous convaincra que l'histoire est vraie.
 
-- Ce n'est pas nécessaire, Monsieur Westman, car que les choses dont vous me parlez se soient produites ou non, tout ce que j'apprends maintenant me prouve votre entière sincérité. Je crois en la vérité de chacune de vos paroles, et votre aventure est vraiment merveilleuse. J'aimerais tant voir quelques-unes de ces belles couleurs que vous me décrivez, et aussi Marjorie, elle doit être si jolie!
+\- Ce n'est pas nécessaire, Monsieur Westman, car que les choses dont vous me parlez se soient produites ou non, tout ce que j'apprends maintenant me prouve votre entière sincérité. Je crois en la vérité de chacune de vos paroles, et votre aventure est vraiment merveilleuse. J'aimerais tant voir quelques-unes de ces belles couleurs que vous me décrivez, et aussi Marjorie, elle doit être si jolie!
 
 Le coeur de Jimmie se mit à battre violemment à cette révélation, Louise acceptait la véracité de son histoire, et en même temps lui pardonnait sa loyauté envers Marjorie. Evidemment, elle gardait un doute sur l'authenticité des faits, mais considérant la force et la chaleur de sa narration, elle demeurait persuadée que tout l'événement résultait de la commotion qu'il avait subie et elle était fermement convaincue qu'il croyait à cet événement. C'est tout ce qu'il lui fallait, et cela expliquait son hésitation, et son amour pour une autre jeune fille, aussi bien que pour elle-même, fait qu'en aucun cas elle n'aurait pardonné, si ce n'est que cette autre personne n'était que le fruit de son imagination et n'avait aucune existence réelle.
 
-- Louise! dites-moi, Louise...
+\- Louise! dites-moi, Louise...
 
-- Quoi donc?
+\- Quoi donc?
 
-- Je suis heureux que nous ayons pu nous expliquer, j'avais si peur de vous avoir fâchée!
+\- Je suis heureux que nous ayons pu nous expliquer, j'avais si peur de vous avoir fâchée!
 
-- Je l'ai été, en effet. Je pensais que vous essayiez de me faire la cour alors que vous aviez déjà une fiancée aux Etats-Unis.
+\- Je l'ai été, en effet. Je pensais que vous essayiez de me faire la cour alors que vous aviez déjà une fiancée aux Etats-Unis.
 
-- Je ne vous blâme pas. Mais, maintenant que vous savez tout, vous m'avez pardonné. N'est-ce pas?
+\- Je ne vous blâme pas. Mais, maintenant que vous savez tout, vous m'avez pardonné. N'est-ce pas?
 
-- Pourquoi, Monsieur Westman, c'est ridicule. Je n'avais rien à vous pardonner.
+\- Pourquoi, Monsieur Westman, c'est ridicule. Je n'avais rien à vous pardonner.
 
-- Mais je crois que si vous étiez fâchée parce que j'avais une fiancée, c'est que vous m'aimiez déjà un peu, sans cela, vous ne vous seriez pas fâchée. Est-ce vrai? Dites-moi, Louise... et il adoucit inconsciemment la prononciation de ce prénom.
+\- Mais je crois que si vous étiez fâchée parce que j'avais une fiancée, c'est que vous m'aimiez déjà un peu, sans cela, vous ne vous seriez pas fâchée. Est-ce vrai? Dites-moi, Louise... et il adoucit inconsciemment la prononciation de ce prénom.
 
-- Quoi donc?
+\- Quoi donc?
 
-- Ne croyez-vous pas, qu'après un moment, quand vous me connaîtrez mieux...
+\- Ne croyez-vous pas, qu'après un moment, quand vous me connaîtrez mieux...
 
-- Quoi donc?
+\- Quoi donc?
 
-- Ne pensez-vous pas... peut-être... serait-il possible... qu'un jour, vous pourriez m'aimer un peu plus?
+\- Ne pensez-vous pas... peut-être... serait-il possible... qu'un jour, vous pourriez m'aimer un peu plus?
 
 Silence. Il prit sa main alors qu'elle tournait la tête, regardant au loin.
 
-- Ne pensez-vous pas?
+\- Ne pensez-vous pas?
 
-- Peut-être.
+\- Peut-être.
 
 Le lendemain, Jimmie sollicita du docteur la permission de sortir, sortie où Louise l'accompagnerait, pour lui porter aide en cas d'une syncope qu'il redoutait parfois. Le docteur sembla hésiter tout d'abord, offrant aimablement d'envoyer une ordonnance ou un autre soldat convalescent qui ne serait pas sujet aux syncopes; mais devant l'évidente consternation du jeune officier, et comme c'était un homme vraiment humain et bienveillant, le docteur accorda la permission; puis il mécontenta Jimmie, par une anxiété vraiment superflue, prétendant que les "syncopes" pourraient provenir d'une maladie de coeur.
 
@@ -848,19 +817,7 @@ Dans l'intervalle, Louise et Jimmie avaient étudié le plan de Paris, et effect
 
 Tout en devisant de la sorte, leurs pas les conduisirent devant une demeure de la rue d'Ex, où ils s'arrêtèrent. La maison était bien là, avec son numéro, mais ce n'était pas encore une preuve. La porte d'entrée, sous un passage voûté, conduisait à une cour intérieure. Ils sonnèrent. Un peu de bruit à l'intérieur leur indiqua que quelqu'un venait ouvrir la porte. Les quelques instants qui suivraient leur donneraient la solution de l'énigme.
 
-
-  		Chapitre 5
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE V - LE "FRÈRE AÎNÉ" EN CHAIR ET EN OS - pages 93 à 108
+### <h3 id="chapter-5">Chapitre V - Le "Frère Aîné" en Chair et en Os</h3>
 
 Jimmie et Louise attendaient l'ouverture de la porte avec le même pressentiment, un peu sombre. La jeune infirmière ne croyait pas un seul mot de la merveilleuse histoire que lui avait racontée Jimmie, bien qu'elle fut convaincue que Jimmie y croyait, lui. D'autre part, Jimmie dont la mémoire demeurait vive, était bien sûr que la chose s'était réalisée, mais il se méfiait de la façon dont se terminerait cet essai concret. Il se demandait quelle excuse il invoquerait, si par hasard, comme il le craignait, la maison était habitée par des étrangers.
 
@@ -870,81 +827,77 @@ Jimmie, avait la même crainte, amassait dans son esprit des raisons plausibles 
 
 Devant eux se tenait l'homme de son rêve qui leur souhaita la bienvenu avec un léger sourire, comme s'il avait deviné leur perplexité. Il se montrait identique dans chaque détail de ses vêtements et dans ses traits si étranges et si puissants devenus si familiers à Jimmie dans le Pays des Morts Vivants. C'était bien le Frère Aîné.
 
-Sur une cordiale invite, ils entrèrent dans une bibliothèque bien garnie, et ce ne fut qu'à ce moment que Jimmie revint de son embarras pour présenter sa compagne. Néanmoins, il fut encore quelque peu embarrassé lorsqu'il lui fallut présenter Miss Louise Clayton.
+Sur une cordiale invite, ils entrèrent dans une bibliothèque bien garnie, et ce ne fut qu'à ce moment que Jimmie revint de son embarras pour présenter sa compagne. Néanmoins, il fut encore quelque peu embarrassé lorsqu'il lui fallut présenter Miss Louise Clayton. - Mon infirmière, dit-il; elle m'a si bien soigné durant ma convalescence, que j'ai cru bon de la mettre au courant de ma grande aventure.
 
-- Mon infirmière, dit-il; elle m'a si bien soigné durant ma convalescence, que j'ai cru bon de la mettre au courant de ma grande aventure.
-
-- Je suis très heureux que vous l'ayez fait, Lieutenant Westman, car Miss Clayton a été choisie pour être votre infirmière pour plusieurs raisons. Non seulement parce que Miss Clayton est une âme très avancée, mais aussi parce qu'il a été constaté que le travail de réintégration de votre corps vital serait fait beaucoup plus aisément et rapidement avec son aide que par celle de n'importe quelle autre infirmière. Vous voyez, Miss Clayton, que je suis très bien informé, quoique ne vous ayant jamais rencontrée précédemment.
+\- Je suis très heureux que vous l'ayez fait, Lieutenant Westman, car Miss Clayton a été choisie pour être votre infirmière pour plusieurs raisons. Non seulement parce que Miss Clayton est une âme très avancée, mais aussi parce qu'il a été constaté que le travail de réintégration de votre corps vital serait fait beaucoup plus aisément et rapidement avec son aide que par celle de n'importe quelle autre infirmière. Vous voyez, Miss Clayton, que je suis très bien informé, quoique ne vous ayant jamais rencontrée précédemment.
 
 Louise répondit poliment, quoiqu'un peu cérémonieusement; elle était tout à fait incapable de cacher son incrédulité au sujet des déclarations de Mr. Campion.
 
-Néanmoins, celui-ci continua, comme s'il répondait à certaines objections:
-
-- Vous avez été choisie, et la sagesse de ce choix est bien apparente dans le résultat. Votre aura est forte, bien développée, vos vibrations sont harmonieuses, étant donné certaines combinaisons stellaires dont vous êtes probablement inconsciente. Tout ceci a été d'un grand secours pour Jimmie. Vous vous rappelez probablement que, lorsque vous vous êtes penchée au-dessus de lui afin d'entendre ce qu'il murmurait, il vous demanda pourquoi vous n'étiez pas rayonnante, sans aura, puis, peu après, il s'excusa assurant qu'une lumière vous entourait.
+Néanmoins, celui-ci continua, comme s'il répondait à certaines objections: - Vous avez été choisie, et la sagesse de ce choix est bien apparente dans le résultat. Votre aura est forte, bien développée, vos vibrations sont harmonieuses, étant donné certaines combinaisons stellaires dont vous êtes probablement inconsciente. Tout ceci a été d'un grand secours pour Jimmie. Vous vous rappelez probablement que, lorsque vous vous êtes penchée au-dessus de lui afin d'entendre ce qu'il murmurait, il vous demanda pourquoi vous n'étiez pas rayonnante, sans aura, puis, peu après, il s'excusa assurant qu'une lumière vous entourait.
 
 Louise demeurait perplexe, car personne n'était alors présent pour entendre cette conversation. L'infirmière en chef n'était pas sortie de l'hôpital et n'avait pas rencontré cet homme pour lui relater les faits. Et elle, Louise, n'avait pas raconté beaucoup de choses à l'infirmière en chef, et n'en avait rien dit à qui que ce soit. Jimmie, elle en était sûre, n'avait pas quitté la clinique, excepté le jour où ils s'étaient querellés. Avait-il écrit à cet homme ou bien celui-ci lisait-il dans les pensées? Si Jimmie avait écrit, il l'aurait trompée. Et si l'homme était clairvoyant, il devait être d'une perspicacité inquiétante. Elle se tenait silencieuse, ne sachant que dire, mais ses regards parcouraient la chambre.
 
 Mr. Campion reprit la parole:
 
-- Miss Clayton, vous m'excuserez, j'en suis sûr, si j'essaie de tranquilliser votre esprit ainsi que celui de Jimmie. En agissant ainsi, il est nécessaire de faire un exposé qui ne peut être prouvé présentement et dont les explications demanderaient trop de temps, aussi, je vous prierai de m'écouter patiemment, et de réserver votre jugement pour plus tard.
+\- Miss Clayton, vous m'excuserez, j'en suis sûr, si j'essaie de tranquilliser votre esprit ainsi que celui de Jimmie. En agissant ainsi, il est nécessaire de faire un exposé qui ne peut être prouvé présentement et dont les explications demanderaient trop de temps, aussi, je vous prierai de m'écouter patiemment, et de réserver votre jugement pour plus tard.
 
-- D'abord, je vous affirme que vous n'êtes pas victime d'un complot prémédité. Jimmie ne m'a pas écrit et l'infirmière en chef n'a eu aucune arrière-pensée sur ce que vous lui avez relaté. Louise releva la tête, ses yeux grand-ouverts d'étonnement.
+\- D'abord, je vous affirme que vous n'êtes pas victime d'un complot prémédité. Jimmie ne m'a pas écrit et l'infirmière en chef n'a eu aucune arrière-pensée sur ce que vous lui avez relaté. Louise releva la tête, ses yeux grand-ouverts d'étonnement. D'autre part, votre surprise de rencontrer un homme clairvoyant sans le décor habituel de cet état, est parfaitement naturelle. 
 
-- D'autre part, votre surprise de rencontrer un homme clairvoyant sans le décor habituel de cet état, est parfaitement naturelle. Il n'y a ici aucun des accessoires du faiseur de miracles et vous chercheriez en vain un hibou empaillé, ou des crânes, ou de sombres draperies. Je puis vous assurer que pour un occultiste entraîné, la lecture de pensée n'est nullement difficile. Je vous dirai cependant que, lorsque Jimmie, reprenant conscience, vous a adressé ces quelques mots auxquels je viens de faire allusion, je n'ai pas lu en votre pensée, je savais ce que aviez dit pour la raison que j'étais présent.
+\- Il n'y a ici aucun des accessoires du faiseur de miracles et vous chercheriez en vain un hibou empaillé, ou des crânes, ou de sombres draperies. Je puis vous assurer que pour un occultiste entraîné, la lecture de pensée n'est nullement difficile. Je vous dirai cependant que, lorsque Jimmie, reprenant conscience, vous a adressé ces quelques mots auxquels je viens de faire allusion, je n'ai pas lu en votre pensée, je savais ce que aviez dit pour la raison que j'étais présent.
 
 Louise le regarda à nouveau, eut un geste de surprise, voulut parler, mais, à temps, elle se rappela la demande de Mr. Campion.
 
-- J'étais là, quoique invisible à vos regards, et je vous ai suivie lorsque vous êtes allée faire votre rapport à l'infirmière en chef. Si vous vous souvenez, elle était assise, occupée à écrire, et lorsque vous lui avez adressé la parole, vous étiez seule avec elle dans son bureau. San s se retourner vers vous, elle s'est tout simplement arrêtée d'écrire, lorsque vous lui avez parlé. Alors, elle vous a répondu: "Je ne pense pas qu'une telle chose existe, mon enfant". Ensuite, en sortant du bureau, vous avez rencontré deux ordonnances qui transportaient un blessé sur une civière, et juste à ce moment, l'un des hommes trébucha. Vous avez cru qu'il allait laisser choir son fardeau, vous avez eu une exclamation de surprise, puis vous avez continué votre chemin. - Il sourit en la regardant:
-
-- Je crois avoir pleinement justifié mon ami Jimmie, il ne pouvait pas m'écrire ces choses là.
+\- J'étais là, quoique invisible à vos regards, et je vous ai suivie lorsque vous êtes allée faire votre rapport à l'infirmière en chef. Si vous vous souvenez, elle était assise, occupée à écrire, et lorsque vous lui avez adressé la parole, vous étiez seule avec elle dans son bureau. San s se retourner vers vous, elle s'est tout simplement arrêtée d'écrire, lorsque vous lui avez parlé. Alors, elle vous a répondu: "Je ne pense pas qu'une telle chose existe, mon enfant". Ensuite, en sortant du bureau, vous avez rencontré deux ordonnances qui transportaient un blessé sur une civière, et juste à ce moment, l'un des hommes trébucha. Vous avez cru qu'il allait laisser choir son fardeau, vous avez eu une exclamation de surprise, puis vous avez continué votre chemin. - Il sourit en la regardant: - Je crois avoir pleinement justifié mon ami Jimmie, il ne pouvait pas m'écrire ces choses là.
 
 Louise eut un petit geste gracieux et inimitable de reddition.
 
-- Et maintenant, voici ce qui concerne la raison fondamentale de toutes ces choses étranges. La race humaine est composée d'une multitude d'esprits individuels qui évoluent par des naissances renouvelées dans des corps physiques, en ce monde, où ils apprennent à obéir aux grandes lois de notre Père Céleste, tout comme les enfants étudient leurs leçons journalières à l'école. Dans ce grand plan d'évolution, nous sommes soumis à l'activité de deux grandes lois: premièrement, celle de la réincarnation, qui nous ramène constamment vers le monde physique concret, dans des corps et dans un milieu s'améliorant lentement. Deuxièmement, la loi de conséquence qui décrète que nos souffrances sont le simple résultat de nos erreurs, qui, de façon usuelle, sont appelées péchés, et cela malgré un espace qui est parfois de plusieurs vies entre l'erreur et ses conséquences.
+\- Et maintenant, voici ce qui concerne la raison fondamentale de toutes ces choses étranges. La race humaine est composée d'une multitude d'esprits individuels qui évoluent par des naissances renouvelées dans des corps physiques, en ce monde, où ils apprennent à obéir aux grandes lois de notre Père Céleste, tout comme les enfants étudient leurs leçons journalières à l'école. Dans ce grand plan d'évolution, nous sommes soumis à l'activité de deux grandes lois: premièrement, celle de la réincarnation, qui nous ramène constamment vers le monde physique concret, dans des corps et dans un milieu s'améliorant lentement. Deuxièmement, la loi de conséquence qui décrète que nos souffrances sont le simple résultat de nos erreurs, qui, de façon usuelle, sont appelées péchés, et cela malgré un espace qui est parfois de plusieurs vies entre l'erreur et ses conséquences.
 
-- De manière à raccourcir cette période de naissance, de mort, d'apprentissage et de souffrances, toute l'aide possible est donnée à la race par de grandes légions d'êtres spirituels, qui eux-mêmes ont passé par de semblables écoles. A certaines époques (de même qu'aux examens de collège), lorsqu'un point décisif dans l'évolution est atteint, la race passe un examen afin de savoir quelles classes d'entités sont dignes de promotion.
+\- De manière à raccourcir cette période de naissance, de mort, d'apprentissage et de souffrances, toute l'aide possible est donnée à la race par de grandes légions d'êtres spirituels, qui eux-mêmes ont passé par de semblables écoles. A certaines époques (de même qu'aux examens de collège), lorsqu'un point décisif dans l'évolution est atteint, la race passe un examen afin de savoir quelles classes d'entités sont dignes de promotion.
 
-- Cette grande guerre est le plus prodigieux moment décisif de notre évolution, et plus que jamais l'aide et l'instruction sont nécessaires à la race. Elles peuvent être données plus efficacement par des membres avancés de cette même race, et c'est pour cette raison que plusieurs êtres reçoivent, précisément en ce moment, de l'avancement afin de donner à leur tour toute l'assistance et l'instruction qu'ils sont capables de donner. Le besoin est impérieux, beaucoup plus que vous et Jimmie ne le pensez, c'est pourquoi Jimmie fut renvoyé sur terre dans la vie physique, car normalement, il aurait dû rester en permanence de l'autre côté du voile. C'est dans cette intention que vous avez été amenée ici avec lui, car ne pensez pas que l'habitude des occultistes est de faire étalage de leurs pouvoirs uniquement pour divertir les gens.
+\- Cette grande guerre est le plus prodigieux moment décisif de notre évolution, et plus que jamais l'aide et l'instruction sont nécessaires à la race. Elles peuvent être données plus efficacement par des membres avancés de cette même race, et c'est pour cette raison que plusieurs êtres reçoivent, précisément en ce moment, de l'avancement afin de donner à leur tour toute l'assistance et l'instruction qu'ils sont capables de donner. Le besoin est impérieux, beaucoup plus que vous et Jimmie ne le pensez, c'est pourquoi Jimmie fut renvoyé sur terre dans la vie physique, car normalement, il aurait dû rester en permanence de l'autre côté du voile. C'est dans cette intention que vous avez été amenée ici avec lui, car ne pensez pas que l'habitude des occultistes est de faire étalage de leurs pouvoirs uniquement pour divertir les gens.
 
-- Jimmie et vous êtes tous deux des âmes avancées (je ne dis pas cela pour vous flatter) et dans quelques vies vous atteindrez naturellement le point auquel vous arriverez en cette vie-ci, si vous voulez réellement vous en donner la peine. L'aide vous sera donnée, mais vous devez vous rappeler les paroles du Maître: "A celui qui a beaucoup reçu, il sera beaucoup demandé". Ainsi le choix de s'engager dans le travail doit être purement volontaire, et non pas fait à la légère, car si le bénéfice est grand lorsque nous recevons cet enseignement dans les conditions requises, de même le danger l'est aussi si nous le recevons indignement.
+\- Jimmie et vous êtes tous deux des âmes avancées (je ne dis pas cela pour vous flatter) et dans quelques vies vous atteindrez naturellement le point auquel vous arriverez en cette vie-ci, si vous voulez réellement vous en donner la peine. L'aide vous sera donnée, mais vous devez vous rappeler les paroles du Maître: "A celui qui a beaucoup reçu, il sera beaucoup demandé". Ainsi le choix de s'engager dans le travail doit être purement volontaire, et non pas fait à la légère, car si le bénéfice est grand lorsque nous recevons cet enseignement dans les conditions requises, de même le danger l'est aussi si nous le recevons indignement.
 
 Jimmie et Louise se regardèrent l'un l'autre, chacun reconnaissant l'allusion aux belles paroles du service de la communion. Jimmie prit la parole:
 
-- Monsieur, vous m'avez parlé précédemment d'un grand travail, mais ne me l'avez pas décrit.
+\- Monsieur, vous m'avez parlé précédemment d'un grand travail, mais ne me l'avez pas décrit.
 
-- Non, car à ce moment, on était incertain si votre corps éthérique pourrait être réintégré à temps dans votre corps physique, et lorsque la chose fut accomplie, l'opportunité d'une telle instruction ne s'était pas présentée.
+\- Non, car à ce moment, on était incertain si votre corps éthérique pourrait être réintégré à temps dans votre corps physique, et lorsque la chose fut accomplie, l'opportunité d'une telle instruction ne s'était pas présentée.
 
 Durant plus d'une heure, Mr. Campion leur parla des différents plans d'existence, et des corps correspondant à ces plans. Il leur décrivit le travail des Aides Invisibles, aussi bien avec les vivants qu'avec les morts. Louise et Jimmie écoutaient, émerveillés, et graduellement, ce sentiment se changea en véritable déférence au fur et à mesure que leur était développé ce Plan prodigieux. Ils n'avaient jamais rien entendu de pareil. Cependant, cela leur semblait étrangement familier, tout comme s'ils l'avaient su depuis toujours. Comme Mr. Campion. continuait à leur développer ce plan, leur montrant comment il s'accordait avec les Ecritures et particulièrement avec les paroles du Christ, leur faisant comprendre les paraboles et éclairant les passages obscurs, les soupçons de Louise s'évanouirent, et elle se sentit honteuse de les avoir même élaborés. Elle ne demandait plus de preuves. Aucune n'était nécessaire. Aucun homme, quelque grand soit-il, n'aurait pu inventer un plan pareil. Pas même Mr. Campion, lisant dans la pensée, et occultiste, quelqu'un plus fort encore, n'aurait pu produire un plan si compliqué où tout s'emboîte ainsi. Il n'eut aucune difficulté à les convaincre que tout cela était vrai. La jeune fille connaissait ces choses, bien qu'elle ne put comprendre comment elle les connaissait. On y trouvait l'empreinte et la signature de la Divinité elle-même.
 
 Jimmie, lui aussi, avait écouté, tout absorbé. Ces faits développés par Mr. Campion expliquaient certaines contradictions apparentes qu'il avait observées durant son bref séjour de l'autre côté, et lorsque la théorie et la pratique de la libération dans les autres plans furent détaillées, il comprit qu'il n'était pas nécessaire de mourir pour prouver la réalité de l'immortalité.
 
-- Mais...pour quelle raison, demanda-t-il, s'il y a tellement de travail à exécuter de l'autre côté, s'est-on donné tant de mal pour me renvoyer ici-bas?
+\- Mais...pour quelle raison, demanda-t-il, s'il y a tellement de travail à exécuter de l'autre côté, s'est-on donné tant de mal pour me renvoyer ici-bas?
 
-- Parce que la nécessité la plus urgente est de trouver ceux qui, de ce côté du voile, connaissent le fait de l'immortalité, ont visité l'autre monde et en sont revenus, ont la volonté et sont capables de répandre leurs connaissances, qui peuvent consoler les mourants et particulièrement ceux qui restent. On a besoin de ceux qui peuvent dire: "Je sais" aussi bien que "je crois".
+\- Parce que la nécessité la plus urgente est de trouver ceux qui, de ce côté du voile, connaissent le fait de l'immortalité, ont visité l'autre monde et en sont revenus, ont la volonté et sont capables de répandre leurs connaissances, qui peuvent consoler les mourants et particulièrement ceux qui restent. On a besoin de ceux qui peuvent dire: "Je sais" aussi bien que "je crois".
 
-- Alors, si je persiste dans l'accomplissement des exercices que vous m'avez décrits, vous pensez que je développerai ma vision spirituelle?
+\- Alors, si je persiste dans l'accomplissement des exercices que vous m'avez décrits, vous pensez que je développerai ma vision spirituelle?
 
-- Sans aucun doute, vous le pourrez, et quoique je ne doive vous influencer en aucune manière, car le choix ne dépend que de vous, vous savez cependant combien j'aspire à vous voir volontaire dans la Grande Armée à laquelle vous êtes malgré tout enrôlé.
+\- Sans aucun doute, vous le pourrez, et quoique je ne doive vous influencer en aucune manière, car le choix ne dépend que de vous, vous savez cependant combien j'aspire à vous voir volontaire dans la Grande Armée à laquelle vous êtes malgré tout enrôlé.
 
 Jimmie comprit que le moment était sérieux. Il désirait servir. Son coeur était rempli de sympathie pour ceux qui souffrent et meurent, et cependant, sera-t-il capable de cette chose: "vivre la vie"? Lorsqu'il retournera à son régiment, et à sa compagnie, pourra-t-il continuer? Alors, un doute pénétra son esprit. Mr. Campion avait déclaré ou fait comprendre que, durant le sommeil, presque tous aident, plus ou moins, aussi pourquoi ne pourrait-il essayer de faire son possible, à l'état de veille, espérant être dans le sommeil, un aide invisible inconscient?
 
 Mr. Campion les observait. Louise le regardait sans le voir. Ses yeux avaient cette expression lointaine qui prouvait la préoccupation de son esprit. Elle prit la parole.
 
-- Veuillez me dire, Mr. Campion, je vous prie, pourquoi l'aide incarné qui est libre dans les autres plans est beaucoup plus précieux que le travailleur désincarné ou que l'aide qui ne peut visiter consciemment les mondes supérieurs? N'y a-t-il pas là un rapport avec le pouvoir de la volonté?
+\- Veuillez me dire, Mr. Campion, je vous prie, pourquoi l'aide incarné qui est libre dans les autres plans est beaucoup plus précieux que le travailleur désincarné ou que l'aide qui ne peut visiter consciemment les mondes supérieurs? N'y a-t-il pas là un rapport avec le pouvoir de la volonté?
 
-- C'est juste, Miss Clayton. L'aide incarné possède un pouvoir que la même personne qui perd son corps au décès, n'a plus. Ceci demanderait une explication un peu longue, mais vous vous en approchez en parlant du pouvoir de la volonté. De plus, les aides de l'au-delà sont en rapport constant avec ceux qui s'y trouvent déjà, venant de terminer leur vie ici-bas, et dont la période de rétrospection de la vie physique vient de commencer. Cependant, l'homme, de ce côté-ci du voile, peut influencer la vie de bien des êtres, qui s'abstiendront d'actes qu'autrement ils accompliraient. Ils éviteront ainsi bien des souffrances au purgatoire, résultant d'actions non accomplies qui auraient pu entraîner de lourdes dettes de destinée.
+\- C'est juste, Miss Clayton. L'aide incarné possède un pouvoir que la même personne qui perd son corps au décès, n'a plus. Ceci demanderait une explication un peu longue, mais vous vous en approchez en parlant du pouvoir de la volonté. De plus, les aides de l'au-delà sont en rapport constant avec ceux qui s'y trouvent déjà, venant de terminer leur vie ici-bas, et dont la période de rétrospection de la vie physique vient de commencer. Cependant, l'homme, de ce côté-ci du voile, peut influencer la vie de bien des êtres, qui s'abstiendront d'actes qu'autrement ils accompliraient. Ils éviteront ainsi bien des souffrances au purgatoire, résultant d'actions non accomplies qui auraient pu entraîner de lourdes dettes de destinée.
 
-Jimmie et Louise s'en retournèrent en silence à la clinique, chacun d'eux profondément pensif, continuant par intervalles, la conversation sur l'enseignement que leur avait donné Mr. Campion. En arrivant à la grande porte, Louise prit la parole:
+Jimmie et Louise s'en retournèrent en silence à la clinique, chacun d'eux profondément pensif, continuant par intervalles, la conversation sur l'enseignement que leur avait donné Mr. Campion. 
 
-- Jimmie! Je dois vous faire une confession.
+En arrivant à la grande porte, Louise prit la parole:
 
-- Qu'est-ce donc?
+\- Jimmie! Je dois vous faire une confession.
 
-- Savez-vous qu'avant de pénétrer dans cette maison, je tenais votre aventure pour de la pure imagination, rêve provenant de votre commotion.
+\- Qu'est-ce donc?
 
-- C'est ce que je craignais.
+\- Savez-vous qu'avant de pénétrer dans cette maison, je tenais votre aventure pour de la pure imagination, rêve provenant de votre commotion.
 
-- Mais, ne soyez plus inquiet. Maintenant, j'en crois chaque mot.
+\- C'est ce que je craignais.
+
+\- Mais, ne soyez plus inquiet. Maintenant, j'en crois chaque mot.
 
 La grande joie que ressentit Jimmie, exprimée sur son visage, était due à la satisfaction de savoir qu'elle ajoutait foi à son histoire. Cette expression joyeuse et animée de Jimmie provoqua certainement chez le portier de l'hôpital des réflexions hautement fantaisistes. L'on peut en juger par le sourire qui apparut sur son vieux visage tanné, lorsque les deux jeunes gens rentrèrent à la clinique, ou bien, il est possible encore que nous n'ayons pas entendu entièrement leur conversation.
 
@@ -958,135 +911,125 @@ Un jour qu'il écrivait dans un coin du mess, se trouvait à ses côté un paste
 
 Le pasteur s'était justement exalté, rempli d'un zèle ardent pour sauver les âmes de ces pauvres hommes égarés dans cette lutte sans merci, espérant enlever la torche du brasier. Ils devaient faire leur salut. Ils devaient accepter le Christ, sinon ils brûleraient éternellement en enfer comme enfants du diable. Ils devaient se convertir, recevoir la Grâce avant que ce ne soit trop tard. L'abîme s'ouvrait largement pour eux, avec ses feux éternels, et...
 
-- Au diable cette idée d'enfer!
+\- Au diable cette idée d'enfer!
 
 Cette interruption, faite par une voix impatiente attira l'attention de Jimmie, qui se tourna avec intérêt du côté du personnage.
 
-
-  		Chapitre 6
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE VI - LES IDÉES D'UN SOLDAT AMÉRICAIN SUR LA RELIGION - page 109 à 130
+### <h3 id="chapter-6">Chapitre VI - Les Idées d'un Soldat Américain sur la Religion</h3>
 
 Le ton de voix de l'interrupteur intrigua encore plus Jimmie qui écouta attentivement.
 
-- Que...que voulez-vous dire? balbutia le pasteur, choqué.
+\- Que...que voulez-vous dire? balbutia le pasteur, choqué.
 
-- Simplement ceci. Que pensez-vous de ce feu éternel? Ce n'est pas logique et ne se trouve pas dans les Ecritures, pas plus que dans la Bible, et ce n'est pas Chrétien. Le Dieu qui agirait de la manière que vous décrivez serait un démon et non pas un Dieu.
+\- Simplement ceci. Que pensez-vous de ce feu éternel? Ce n'est pas logique et ne se trouve pas dans les Ecritures, pas plus que dans la Bible, et ce n'est pas Chrétien. Le Dieu qui agirait de la manière que vous décrivez serait un démon et non pas un Dieu.
 
 Celui qui parlait ainsi était un garçon grand et mince. L'intervalle de silence causé par la stupéfaction du pasteur horrifié, qui réellement n'en pouvait croire ses oreilles, et était devenu comme frappé de mutisme, donna à Jimmie le temps de jeter un coup d'oeil sur le groupe avant que le garçon continue:
 
-- De toute façon, qui est Dieu?
+\- De toute façon, qui est Dieu?
 
-- Qui est Dieu? Qui est Dieu? Oh! mon pauvre frère! Pouvez-vous être si ignorant pour me poser une telle question?
+\- Qui est Dieu? Qui est Dieu? Oh! mon pauvre frère! Pouvez-vous être si ignorant pour me poser une telle question?
 
-- Vous voyez que je le suis. Vous avez l'air de connaître un tas de choses sur Lui; en tout cas, vous en avez la prétention. Or, dites-moi exactement qui Il est, et quelle est Son oeuvre?
+\- Vous voyez que je le suis. Vous avez l'air de connaître un tas de choses sur Lui; en tout cas, vous en avez la prétention. Or, dites-moi exactement qui Il est, et quelle est Son oeuvre?
 
-- Qui Il est! Qui Il est! Mais il gouverne le monde avec une baguette de fer et le façonne comme le potier modèle les contours d'un vase. Il vous a créé et livra son Fils unique à la mort pour vous sauver de la damnation éternelle, et vous me demandez qui Il est!
+\- Qui Il est! Qui Il est! Mais il gouverne le monde avec une baguette de fer et le façonne comme le potier modèle les contours d'un vase. Il vous a créé et livra son Fils unique à la mort pour vous sauver de la damnation éternelle, et vous me demandez qui Il est!
 
 Ecoutez-moi, pasteur. Je ne songe pas à être désobligeant ni irrévérencieux, mais j'ai subi cet enfer, là-bas, et j'ai vu mon camarade, le garçon le plus chic, le plus brave des hommes - ici, il se tourna, comme s'il défiait qui que ce soit de le désapprouver - le plus brave homme ayant jamais vécu. Je l'ai vu renversé par un obus qui lui coupa les deux jambes; il mourut là, dans mes bras. La chance lui a fait défaut. Oui, je l'ai vu mourir, j'ai décidé d'aller chez lui (si toutefois je suis encore vivant lorsque cette guerre sera finie) et de raconter à sa femme ainsi qu'à sa mère comment il mourut. Et vous me racontez que Dieu a créé le monde et qu'Il le gouverne, et Il permet la guerre! Pourquoi ne l'arrête-t-Il pas? S'Il est si grand et si saint que vous le prétendez, pourquoi n'arrête-t-Il pas les hommes qui déclenchèrent cette atrocité?
 
-- Mon pauvre, pauvre frère! Dieu ne permit pas cette guerre. C'est le diable, ce grand adversaire qui la provoqua!
+\- Mon pauvre, pauvre frère! Dieu ne permit pas cette guerre. C'est le diable, ce grand adversaire qui la provoqua!
 
-- Alors, Dieu ne gouverne pas le monde! Il nous a créés, mais en a fait une si pauvre chose qu'Il a dû envoyer Son Fils unique mourir pour nous sauver, et encore n'en a-t-Il sauvé que quelques-uns. Vous reconnaissez vous-même que la majorité s'en va en enfer. Je vous l'ai entendu affirmer lorsque vous décriviez le grand et facile chemin qui mène à la destruction.
+\- Alors, Dieu ne gouverne pas le monde! Il nous a créés, mais en a fait une si pauvre chose qu'Il a dû envoyer Son Fils unique mourir pour nous sauver, et encore n'en a-t-Il sauvé que quelques-uns. Vous reconnaissez vous-même que la majorité s'en va en enfer. Je vous l'ai entendu affirmer lorsque vous décriviez le grand et facile chemin qui mène à la destruction.
 
-- Mais, mon frère, tout ceci se trouve dans la Bible. Avez-vous l'intention de nier la parole de Dieu?
+\- Mais, mon frère, tout ceci se trouve dans la Bible. Avez-vous l'intention de nier la parole de Dieu?
 
-- Je ne sais pas au juste ce que je renie, mais je ne crois pas que la Bible affirme cela. Je crois que vous puisez dans la Bible tout juste ce que vous désirez y voir, et non pas ce que la Bible désir vous expliquer. Or, écoutez-moi un moment, et dites-moi si je me trompe. Dieu est tout puissant, est-ce bien cela?
+\- Je ne sais pas au juste ce que je renie, mais je ne crois pas que la Bible affirme cela. Je crois que vous puisez dans la Bible tout juste ce que vous désirez y voir, et non pas ce que la Bible désir vous expliquer. Or, écoutez-moi un moment, et dites-moi si je me trompe. Dieu est tout puissant, est-ce bien cela?
 
-- Oui, oui, Il l'est, et...
+\- Oui, oui, Il l'est, et...
 
-- Attendez une minute, pasteur, j'ai le droit de parler à mon tour, maintenant, car je cherche la vérité si possible. Or, je reprends, Dieu est tout puissant, ce qui signifie qu'Il est capable de faire toutes choses?
+\- Attendez une minute, pasteur, j'ai le droit de parler à mon tour, maintenant, car je cherche la vérité si possible. Or, je reprends, Dieu est tout puissant, ce qui signifie qu'Il est capable de faire toutes choses?
 
-- En effet.
+\- En effet.
 
-- Et j'ai entendu dire qu'Il était omnipotent?
+\- Et j'ai entendu dire qu'Il était omnipotent?
 
-- Oui.
+\- Oui.
 
-- Cela signifie qu'Il est tout-puissant, mais cela signifie encore davantage, également.
+\- Cela signifie qu'Il est tout-puissant, mais cela signifie encore davantage, également.
 
-- Hé! vous êtes un véritable avocat! dit un soldat du petit groupe.
+\- Hé! vous êtes un véritable avocat! dit un soldat du petit groupe.
 
-- En effet, j'ai beaucoup étudié le droit et l'ai pratiqué quelque peu, mais je ne me suis jamais entraîné à ce genre de discussion.
+\- En effet, j'ai beaucoup étudié le droit et l'ai pratiqué quelque peu, mais je ne me suis jamais entraîné à ce genre de discussion.
 
-- A présent, mon frère, permettez-moi de vous donner à lire quelques brochures.
+\- A présent, mon frère, permettez-moi de vous donner à lire quelques brochures.
 
-- Non, pasteur. Je ne désire pas lire vos brochures. Toutes ne font qu'éviter les grandes questions. Vous avez commencé cette conversation. Ayez le courage d'aller jusqu'au bout comme un homme qui désire voir clair, car je n'essaie pas de faire tort à la religion. Je cherche réellement et honnêtement la lumière, mais il me faut une lumière vraie, celle du Soleil, et non pas celle d'une chandelle. Je désire la Vérité. J'ai été en enfer dans ces tranchées, je me suis trouvé face à face avec la mort ainsi que tous ceux qui sont ici, et nous recherchons une réelle vérité des faits, une vérité sincère, non pas faussée. Or, j'ai le droit de vous dire, pasteur, que mon bonheur éternel est aussi valable pour moi que le vôtre l'est pour vous. Je n'ai aucune intention de vous choquer. Je désire la vérité, ainsi que la désirent tous ces garçons.
+\- Non, pasteur. Je ne désire pas lire vos brochures. Toutes ne font qu'éviter les grandes questions. Vous avez commencé cette conversation. Ayez le courage d'aller jusqu'au bout comme un homme qui désire voir clair, car je n'essaie pas de faire tort à la religion. Je cherche réellement et honnêtement la lumière, mais il me faut une lumière vraie, celle du Soleil, et non pas celle d'une chandelle. Je désire la Vérité. J'ai été en enfer dans ces tranchées, je me suis trouvé face à face avec la mort ainsi que tous ceux qui sont ici, et nous recherchons une réelle vérité des faits, une vérité sincère, non pas faussée. Or, j'ai le droit de vous dire, pasteur, que mon bonheur éternel est aussi valable pour moi que le vôtre l'est pour vous. Je n'ai aucune intention de vous choquer. Je désire la vérité, ainsi que la désirent tous ces garçons.
 
-- Mais, frère, je vous ai déclaré: acceptez le Christ, endossez l'armure des Evangiles, et vous résisterez à toutes les embûches de l'ennemi.
+\- Mais, frère, je vous ai déclaré: acceptez le Christ, endossez l'armure des Evangiles, et vous résisterez à toutes les embûches de l'ennemi.
 
-- Vous voilà, pasteur, en train d'éviter les questions finales qui sont: Qui est Dieu, pourquoi nous a-t-Il créés, pourquoi a-t-Il permis cette guerre?
+\- Vous voilà, pasteur, en train d'éviter les questions finales qui sont: Qui est Dieu, pourquoi nous a-t-Il créés, pourquoi a-t-Il permis cette guerre?
 
-- Oh! mais, vous êtes dans l'erreur. Il ne l'a pas permise. C'est contre Sa volonté.
+\- Oh! mais, vous êtes dans l'erreur. Il ne l'a pas permise. C'est contre Sa volonté.
 
-- Contre Sa volonté et Il est omnipotent? Non, pasteur, il faut nous donner une autre raison.
+\- Contre Sa volonté et Il est omnipotent? Non, pasteur, il faut nous donner une autre raison.
 
-- Mais, je vous le répète, frère, vous devez venir humblement vers le trône de Grâce. Acceptez le Christ avec droiture et cordialité et malgré tout vous serez sauvé.
+\- Mais, je vous le répète, frère, vous devez venir humblement vers le trône de Grâce. Acceptez le Christ avec droiture et cordialité et malgré tout vous serez sauvé.
 
 Le soldat regarda le ministre pendant un instant, soupira et s'en alla.
 
-- Cela se termine toujours de la même façon, dit-il à un autre du groupe, je n'ai jamais connu de pasteur qui puisse donner une explication plausible dans une discussion avec quelqu'un désirant connaître la vérité vraie, si elle existe. Ils vous échappent et s'esquivent toujours. Ainsi fait ce pasteur, fit-il, et il sortit.
+\- Cela se termine toujours de la même façon, dit-il à un autre du groupe, je n'ai jamais connu de pasteur qui puisse donner une explication plausible dans une discussion avec quelqu'un désirant connaître la vérité vraie, si elle existe. Ils vous échappent et s'esquivent toujours. Ainsi fait ce pasteur, fit-il, et il sortit.
 
 Rapidement, Jimmie plia sa lettre, la fourra dans sa poche, et suivit le soldat. C'était peut-être une occasion de commencer ici son grand travail. Le Frère Aîné lui avait dit que ce travail ne lui serait pas imposé, mais qu'on lui donnerait diverses occasions d'agir, s'il était assidu. Il rejoignit l'homme qui le salua tranquillement, et se mit à marcher à ses côtés.
 
-- J'ai entendu une partie de votre conversation avec le pasteur, et je voudrais savoir si, réellement, vous voulez ardemment connaître la vérité comme vous l'avez affirmé.
+\- J'ai entendu une partie de votre conversation avec le pasteur, et je voudrais savoir si, réellement, vous voulez ardemment connaître la vérité comme vous l'avez affirmé.
 
-- Certainement, lieutenant, mais je ne puis jamais rencontrer un ministre qui puisse répondre aux questions que je désire lui poser, quoiqu'elles me semblent raisonnables à mon point de vue.
+\- Certainement, lieutenant, mais je ne puis jamais rencontrer un ministre qui puisse répondre aux questions que je désire lui poser, quoiqu'elles me semblent raisonnables à mon point de vue.
 
-- Je crois pouvoir répondre à vos questions. Permettez-moi de prendre la place du pasteur et de toute façon, je crois que nous pourrons prendre plaisir à l'entretien.
+\- Je crois pouvoir répondre à vos questions. Permettez-moi de prendre la place du pasteur et de toute façon, je crois que nous pourrons prendre plaisir à l'entretien.
 
-- Très bien, Monsieur, dit le soldat d'un ton résigné. Jimmie comprit la situation. Le soldat avait dit vrai en disant qu'il désirait la lumière, mais il était ennuyé à l'idée qu'un si jeune lieutenant s'accapare du loisir déjà si restreint d'un soldat fatigué, pour poursuivre une discussion inutile sur un sujet dont il devait être complètement ignorant. Le soldat avait fréquemment demandé d'être éclairé par l'aumônier, et il n'avait jamais reçu que des réponses obscures. La prétention de ce lieutenant de posséder ce qu'aucun des ministres ne connaissait, ressemblait à celle d'un écolier offrant d'enseigner au général les rudiments de la stratégie. Cependant, le soldat était de bonne volonté et se décida d'endurer pendant quelques minutes cet entretien, question de savoir ce que le lieutenant avait à lui dire.
+\- Très bien, Monsieur, dit le soldat d'un ton résigné. 
+
+Jimmie comprit la situation. Le soldat avait dit vrai en disant qu'il désirait la lumière, mais il était ennuyé à l'idée qu'un si jeune lieutenant s'accapare du loisir déjà si restreint d'un soldat fatigué, pour poursuivre une discussion inutile sur un sujet dont il devait être complètement ignorant. Le soldat avait fréquemment demandé d'être éclairé par l'aumônier, et il n'avait jamais reçu que des réponses obscures. La prétention de ce lieutenant de posséder ce qu'aucun des ministres ne connaissait, ressemblait à celle d'un écolier offrant d'enseigner au général les rudiments de la stratégie. Cependant, le soldat était de bonne volonté et se décida d'endurer pendant quelques minutes cet entretien, question de savoir ce que le lieutenant avait à lui dire.
 
 Après un silence assez embarrassant, Jimmie prit la parole:
 
-- Vous savez, j'avais pitié de ce pauvre pasteur tout à l'heure. Vous lui posiez des questions bien ardues.
+\- Vous savez, j'avais pitié de ce pauvre pasteur tout à l'heure. Vous lui posiez des questions bien ardues.
 
 Le soldat se mit à rire:
 
-- Il était quelque peu interdit et fâché de ne pouvoir répondre.
+\- Il était quelque peu interdit et fâché de ne pouvoir répondre.
 
-- Evidemment, les réponses étaient très simples.
+\- Evidemment, les réponses étaient très simples.
 
-- Je désire que vous me les donniez.
+\- Je désire que vous me les donniez.
 
-- Bon, posez des questions.
+\- Bon, posez des questions.
 
-- Y a-t-il une vie après la mort?
+\- Y a-t-il une vie après la mort?
 
-- Oui.
+\- Oui.
 
-- Comment le savez-vous?
+\- Comment le savez-vous?
 
-- Parce que j'y suis allé et en suis revenu.
+\- Parce que j'y suis allé et en suis revenu.
 
-- Vous avez rêvé peut-être; mais en voici une autre: comment savez-vous que vous avez été là-bas, et que vous en êtes revenu?
+\- Vous avez rêvé peut-être; mais en voici une autre: comment savez-vous que vous avez été là-bas, et que vous en êtes revenu?
 
-- Je puis vous répondre. J'ai été de l'autre côté, j'en suis revenu, et je le sais parce que j'ai vu et parlé à des gens connus de moi dans la vie terrestre, de plus, j'ai conversé avec un homme qui se trouvait là et que je n'avais jamais connu précédemment. Il n'était pas encore débarrassé de son corps, et en suivant ses instructions, je l'ai revu plus tard dans ce corps physique. Mais je comprends très bien que ce qui est une preuve pour moi n'en est pas une pour vous, car vous n'avez pour gage que ma parole. Même si vous me connaissiez mieux et n'aviez aucun doute de ce que je vous dis, il y aurait encore, cependant, possibilité d'erreurs de jugement. Aussi, pour parler franc, il n'y a pas pour vous de preuves, excepté celles de vos propres expériences. Mais, il y a des preuves secondaires, des évidences de circonstances, pourrait-on dire, qui seraient dix fois plus convaincantes que tout ce que je pourrais vous affirmer, même si vous ne doutiez pas de mes paroles.
+\- Je puis vous répondre. J'ai été de l'autre côté, j'en suis revenu, et je le sais parce que j'ai vu et parlé à des gens connus de moi dans la vie terrestre, de plus, j'ai conversé avec un homme qui se trouvait là et que je n'avais jamais connu précédemment. Il n'était pas encore débarrassé de son corps, et en suivant ses instructions, je l'ai revu plus tard dans ce corps physique. Mais je comprends très bien que ce qui est une preuve pour moi n'en est pas une pour vous, car vous n'avez pour gage que ma parole. Même si vous me connaissiez mieux et n'aviez aucun doute de ce que je vous dis, il y aurait encore, cependant, possibilité d'erreurs de jugement. Aussi, pour parler franc, il n'y a pas pour vous de preuves, excepté celles de vos propres expériences. Mais, il y a des preuves secondaires, des évidences de circonstances, pourrait-on dire, qui seraient dix fois plus convaincantes que tout ce que je pourrais vous affirmer, même si vous ne doutiez pas de mes paroles.
 
-- Que voulez-vous dire?
+\- Que voulez-vous dire?
 
-- Voici: on vous a dit depuis votre jeune âge qu'il y avait un Dieu, qu'Il était la sagesse même, la connaissance, l'amour, etc...Or, vous voyez dans ce monde qui vous entoure, certains faits qu'il vous est difficile de concilier avec une telle idée de Dieu. Vous voyez l'injustice, la misère, la guerre, la souffrance, la tristesse, la séparation, vous voyez certaines gens ayant de la chance tout au long de leur vie, tandis que d'autres sont malchanceux quoique n'ayant commis aucune faute. Vous voyez toutes ces choses, et naturellement, vous désirez savoir pourquoi elles existent dans un monde créé par un Etre dont le nom est Amour. Vu que ces choses existent et ne sont nullement l'évidence de l'amour, vous prétendez que Dieu n'existe pas, ou alors qu'Il lui manque certains attributs que vous lui avez toujours prêtés, ou enfin qu'il y a un Pouvoir Rival des ténèbres, à peu près sinon aussi puissant que Dieu, Est-ce bien cela?
+\- Voici: on vous a dit depuis votre jeune âge qu'il y avait un Dieu, qu'Il était la sagesse même, la connaissance, l'amour, etc...Or, vous voyez dans ce monde qui vous entoure, certains faits qu'il vous est difficile de concilier avec une telle idée de Dieu. Vous voyez l'injustice, la misère, la guerre, la souffrance, la tristesse, la séparation, vous voyez certaines gens ayant de la chance tout au long de leur vie, tandis que d'autres sont malchanceux quoique n'ayant commis aucune faute. Vous voyez toutes ces choses, et naturellement, vous désirez savoir pourquoi elles existent dans un monde créé par un Etre dont le nom est Amour. Vu que ces choses existent et ne sont nullement l'évidence de l'amour, vous prétendez que Dieu n'existe pas, ou alors qu'Il lui manque certains attributs que vous lui avez toujours prêtés, ou enfin qu'il y a un Pouvoir Rival des ténèbres, à peu près sinon aussi puissant que Dieu, Est-ce bien cela?
 
-- C'est exactement mon idée, Lieutenant.
+\- C'est exactement mon idée, Lieutenant.
 
-- Vous demandez la raison pour laquelle de telles choses sont permises dans ce monde, et vous ne recevez pour toute réponse que des platitudes qui vous montrent que les hommes supposés les mieux instruits sur les choses de Dieu sont aussi ignorants que vous-même, mais n'ont pas toujours l'honnêteté de l'admettre. Ils croient à certaines choses, pour vous insuffisantes, et ils désirent que vous ayez exactement les mêmes croyances, mais sont incapables de répondre à une seule de vos questions, et ils se fâchent même de vous les voir poser. Cependant, tout cela devient clair comme le jour, si vous réalisez que nous sommes tous des esprits qui évoluent, des parties de Dieu tout comme le déclare la Bible, qui grandissent en expérience, connaissance et pouvoir, en vivant de nombreuses vies sur la terre, l'une après l'autre. Nous sommes assujettis à deux grandes lois, premièrement à celle de renaissance, c'est-à-dire à celle des renaissances nous ramenant toujours et encore sur le plan physique, deuxièmement celle des conséquences, qui décrète que nous récoltons tout juste ce que nous avons semé, comme la Bible nous l'enseigne. Dans l'intervalle de chacune de nos vies sur terre, nous sommes dans un autre état de conscience durant lequel l'expérience de la vie qui vient de se terminer est incorporée à notre esprit en tant que conscience. Le péché est le résultat de l'ignorance des lois de Dieu, et les souffrances qui en découlent instruisent à la longue sur la manière d'obéir à ces lois, tout à fait comme l'enfant qui s'est brûlé le doigt apprend à éviter de toucher un fourneau brûlant. D'autres êtres sont heureux parce qu'ils ont progressé davantage sur le sentier de l'évolution, ont appris plus de leçons, et sont ainsi devenus capables de vivre mieux en accord avec la loi de Dieu. Certains sont malheureux parce qu'ils ont mal agi dans des vies passées et se sont créé par là des dettes; ou plutôt parce qu'ils n'ont pas suffisamment progressé sur le sentier de l'évolution, et ne se sont, par conséquent, pas encore libérés d'autant de dettes que les autres, car personne dans le monde de Dieu n'est appelé à souffrir, à moins qu'il ne l'ai mérité par les actes de son passé; mais vous devez vous rappeler que le passé s'étend sur des centaines de vies. Dans le grand plan de l'évolution humaine, il est des tournants où une aide supplémentaire est donnée. Cette guerre est l'un de ces moments décisifs et elle fut permise parce que la race humaine s'embourbait dans le matérialisme, et il fallait un grand choc pour tourner à nouveau la pensée de l'humanité vers la seule chose réelle dans le monde: l'étude des lois divines, et les efforts pour y obéir. Et jamais, les lois de Dieu ne furent mieux résumées que par le Christ lorsqu'Il dit d'aimer Dieu par dessus tout et son prochain comme soi-même. Me suis-je bien fait comprendre?
+\- Vous demandez la raison pour laquelle de telles choses sont permises dans ce monde, et vous ne recevez pour toute réponse que des platitudes qui vous montrent que les hommes supposés les mieux instruits sur les choses de Dieu sont aussi ignorants que vous-même, mais n'ont pas toujours l'honnêteté de l'admettre. Ils croient à certaines choses, pour vous insuffisantes, et ils désirent que vous ayez exactement les mêmes croyances, mais sont incapables de répondre à une seule de vos questions, et ils se fâchent même de vous les voir poser. Cependant, tout cela devient clair comme le jour, si vous réalisez que nous sommes tous des esprits qui évoluent, des parties de Dieu tout comme le déclare la Bible, qui grandissent en expérience, connaissance et pouvoir, en vivant de nombreuses vies sur la terre, l'une après l'autre. Nous sommes assujettis à deux grandes lois, premièrement à celle de renaissance, c'est-à-dire à celle des renaissances nous ramenant toujours et encore sur le plan physique, deuxièmement celle des conséquences, qui décrète que nous récoltons tout juste ce que nous avons semé, comme la Bible nous l'enseigne. Dans l'intervalle de chacune de nos vies sur terre, nous sommes dans un autre état de conscience durant lequel l'expérience de la vie qui vient de se terminer est incorporée à notre esprit en tant que conscience. Le péché est le résultat de l'ignorance des lois de Dieu, et les souffrances qui en découlent instruisent à la longue sur la manière d'obéir à ces lois, tout à fait comme l'enfant qui s'est brûlé le doigt apprend à éviter de toucher un fourneau brûlant. D'autres êtres sont heureux parce qu'ils ont progressé davantage sur le sentier de l'évolution, ont appris plus de leçons, et sont ainsi devenus capables de vivre mieux en accord avec la loi de Dieu. Certains sont malheureux parce qu'ils ont mal agi dans des vies passées et se sont créé par là des dettes; ou plutôt parce qu'ils n'ont pas suffisamment progressé sur le sentier de l'évolution, et ne se sont, par conséquent, pas encore libérés d'autant de dettes que les autres, car personne dans le monde de Dieu n'est appelé à souffrir, à moins qu'il ne l'ai mérité par les actes de son passé; mais vous devez vous rappeler que le passé s'étend sur des centaines de vies. Dans le grand plan de l'évolution humaine, il est des tournants où une aide supplémentaire est donnée. Cette guerre est l'un de ces moments décisifs et elle fut permise parce que la race humaine s'embourbait dans le matérialisme, et il fallait un grand choc pour tourner à nouveau la pensée de l'humanité vers la seule chose réelle dans le monde: l'étude des lois divines, et les efforts pour y obéir. Et jamais, les lois de Dieu ne furent mieux résumées que par le Christ lorsqu'Il dit d'aimer Dieu par dessus tout et son prochain comme soi-même. Me suis-je bien fait comprendre?
 
-- O-u-i, mais si j'ai vécu précédemment, pourquoi ne puis-je m'en souvenir?
+\- O-u-i, mais si j'ai vécu précédemment, pourquoi ne puis-je m'en souvenir?
 
-- Et bien! les causes qui vous empêchent de vous souvenir de vos vies passées sont complexes, et il me faudrait beaucoup de temps pour vous les expliquer. Mais, le fait est qu'il s'agit d'une précaution charitable de la nature; car si vous vous rappeliez vraiment toutes vos vies passées, vous ne pourriez plus avancer, car les anciennes sympathies et haines d'autrefois vous force raient à commettre de mauvaises actions. Un écolier utilisera une ardoise jusqu'à ce qu'il ait dépassé le stade tout à fait primaire et qu'il ne se trompe plus dans la formation des chiffres. Plus tard, il emploiera un crayon et du papier, ensuite de l'encre. Il en est de même pour nous. Lorsque nous apprenons à vivre avec droiture, et commettons moins d'erreurs, lorsque nous sommes libérés de la passion et de la haine, de l'orgueil et de la vengeance, nous nous souviendrons de nos vies passées.
+\- Et bien! les causes qui vous empêchent de vous souvenir de vos vies passées sont complexes, et il me faudrait beaucoup de temps pour vous les expliquer. Mais, le fait est qu'il s'agit d'une précaution charitable de la nature; car si vous vous rappeliez vraiment toutes vos vies passées, vous ne pourriez plus avancer, car les anciennes sympathies et haines d'autrefois vous force raient à commettre de mauvaises actions. Un écolier utilisera une ardoise jusqu'à ce qu'il ait dépassé le stade tout à fait primaire et qu'il ne se trompe plus dans la formation des chiffres. Plus tard, il emploiera un crayon et du papier, ensuite de l'encre. Il en est de même pour nous. Lorsque nous apprenons à vivre avec droiture, et commettons moins d'erreurs, lorsque nous sommes libérés de la passion et de la haine, de l'orgueil et de la vengeance, nous nous souviendrons de nos vies passées.
 
-- Tout cela est bel et bien, mais je ne vois pas la raison pour laquelle je ne puis me souvenir d'avoir vécu précédemment.
+\- Tout cela est bel et bien, mais je ne vois pas la raison pour laquelle je ne puis me souvenir d'avoir vécu précédemment.
 
-- Pensez-y et peut-être la lumière vous sera-t-elle donnée.
+\- Pensez-y et peut-être la lumière vous sera-t-elle donnée.
 
 Jimmie estima qu'il était mieux d'abandonner le sujet et il quitta l'homme qui continua son chemin. Il était désappointé car, dans son enthousiasme, ce manque de compréhension d'une chose si claire était quelque peu décourageant. Il n'avait pas compris que chacun de nous a ses limitations, et que les limitations d'une personne sont à une distance du centre, qui est différente de celle d'une autre personne. Un grand cercle peut en contenir un plus petit, et peut le comprendre ainsi que l'espace contenu au-delà de celui-ci, mais le petit cercle ne peut contenir le grand, jusqu'au jour où, mis en présence de cercles encore plus petits que lui, il apprendra à raisonner sur le fait qu'il peut y avoir quelque chose au-delà de ses propres limitations. Il nous est facile de constater les limitations des autres, mais il nous est bien difficile de voir les nôtres, jusqu'à ce que nous ayons appris à ôter la poutre qui est dans notre oeil, avant de vouloir enlever la paille se trouvant dans celui du prochain.
 
@@ -1120,169 +1063,152 @@ Mais il n'était nullement préparé au choc qu'il ressentit lorsqu'il se retour
 
 Jimmie sursauta, balbutia un "Mais..." et tendit la main à son visiteur inattendu. Son étonnement était si grand qu'il ne put prononcer d'autres paroles. Mais Mr. Campion ne lui serra pas la main, et il lui fit signe avec un sourire de s'asseoir au bord de sa couchette.
 
-- Ici, je ne suis pas dans mon corps physique, de sorte que je ne puis vous serrer la main, mais je suis heureux de voir que vous me distinguez si nettement. Je suis venu vous chercher pour faire une petite excursion, si vous n'êtes pas effrayé de vous y aventurer, et comme nous n'avons que peu de temps, veuillez bien vous étendre sur votre couchette et vous endormir, et nous partirons immédiatement.
+\- Ici, je ne suis pas dans mon corps physique, de sorte que je ne puis vous serrer la main, mais je suis heureux de voir que vous me distinguez si nettement. Je suis venu vous chercher pour faire une petite excursion, si vous n'êtes pas effrayé de vous y aventurer, et comme nous n'avons que peu de temps, veuillez bien vous étendre sur votre couchette et vous endormir, et nous partirons immédiatement.
 
 Jimmie aurait pu poser quelques questions ou exprimer une certaine crainte, mais Mr. Campion avait utilisé la phrase "Si cela ne vous effraie pas...". Après cet appel, il senti que, pour un officier de l'armée Américaine, une reculade ne serait pas de mise. De sorte qu'il éteignit rapidement la lumière, s'allongeant confortablement, puis en un rien de temps, il se trouva debout, regardant son corps étendu, et toute la cabine complètement visible comme en plein jour. Mr. Campion ne sentant plus le besoin d'éviter le contact physique, se tenait à ses côtés, une main posée sur son épaule.
 
-- Voici votre première sortie consciente du corps, et vous ne devez craindre aucunement de ne pas retrouver le bateau ou qu'il arrive quoi que ce soit pendant votre absence. Donnez-moi la main, ayez une confiance absolue en moi et quoi que vous voyiez, ne vous laissez pas aller à la crainte. Venez.
+\- Voici votre première sortie consciente du corps, et vous ne devez craindre aucunement de ne pas retrouver le bateau ou qu'il arrive quoi que ce soit pendant votre absence. Donnez-moi la main, ayez une confiance absolue en moi et quoi que vous voyiez, ne vous laissez pas aller à la crainte. Venez.
 
 Ils s'élancèrent en avant, à travers la coque du navire, planant quelques instants au-dessus des mâts, contemplant le bateau, superbe à voir lorsqu'il plongeait à travers le roulis des vagues; ce spectacle était visible à leurs yeux éthériques.
 
 En dépit des assurances que lui avait données Mr. Campion, Jimmie se sentait un peu effrayé. Là gisait son corps couché dans sa cabine, assurément suffisamment protégé, et s'en allant d'un côté, tandis que lui partait d'un autre. Le temps était calme, mais les conditions atmosphériques n'étaient pour rien dans l'allure rapide du navire non éclairé. Supposez qu'un sous-marin... non, il n'y penserait pas. Bien souvent, Jimmie avait franchi la tranchée pour partir à l'assaut, mais jamais sans avoir peur, pourtant quiconque l'observait n'aurait pu dire que le Lieutenant Westman n'était pas courageux. Il avait le vrai courage de faire son devoir, bien que dominé par la crainte de ne pas agir avec assez de maîtrise de soi. Il avait entendu trop d'hommes braves admettre une peur constante pour être honteux d'y être lui-même accessible. Il eut été gêné de montrer qu'il avait peur, ce que, d'ailleurs, il ne fit jamais. Il décida donc que cette expérience ne l'entraînerait, en aucun cas, à manifester ses appréhensions, aussi se détourna-t-il du bateau, et regarda-t-il son guide en souriant, prêt à toute éventualité.
 
-
-  		Chapitre 7
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE VII - COMMENT LE "FRÈRE AÎNÉ" AIDA UN SOLDAT QUI VENAIT DE MOURIR À CONSOLER SA MÈRE - pages 131 à 149
+### <h3 id="chapter-7">Chapitre VII - Comment le "Frère Aîné" Aida un Soldat qui Venait de Mourir à Consoler sa Mère</h3>
 
 Mr. Campion se tourna vers Jimmie en souriant:
 
-- Vous n'avez pas oublié de glisser, je vois: aussi nous pouvons nous élancer.
+\- Vous n'avez pas oublié de glisser, je vois: aussi nous pouvons nous élancer.
 
 Ils partirent directement, avec une rapidité vertigineuse; Jimmie tenant la main de Mr. Campion, remarqua beaucoup plus d'autres gens, en route comme eux à travers l'espace, qu'il n'en avait remarqué lors de sa première visite au Pays des Morts Vivants. Il les voyait se dirigeant dans toutes les directions, les uns glissant vite, les autres lentement, certains s'en allant à la dérive, apparemment endormis. Sa propre allure était si rapide qu'il mémorisa simplement ces observations avec l'espoir d'en parler plus tard à Mr. Campion.
 
-En moins de temps qu'il n'en faut pour l'expliquer, ils se retrouvèrent sur la ligne du front, en France, et s'arrêtèrent en face d'une petite tranchée dans laquelle plusieurs hommes étaient en train de converser. Jimmie reconnut parmi eux le grand soldat qu'il avait rencontré au mess. D'après leur conversation, ces hommes s'attendaient sûrement d'un jour à l'autre à prendre part à une attaque, et ils discutaient des conditions d'existence dans l'au-delà, après s'être demandés, bien entendu, si cet au-delà était réel. Mais ils s'y prenaient d'une manière assez curieuse, semblant essayer de camoufler sous un verbiage insouciant leur soif de savoir. L'un d'entre eux déclara:
+En moins de temps qu'il n'en faut pour l'expliquer, ils se retrouvèrent sur la ligne du front, en France, et s'arrêtèrent en face d'une petite tranchée dans laquelle plusieurs hommes étaient en train de converser. Jimmie reconnut parmi eux le grand soldat qu'il avait rencontré au mess. D'après leur conversation, ces hommes s'attendaient sûrement d'un jour à l'autre à prendre part à une attaque, et ils discutaient des conditions d'existence dans l'au-delà, après s'être demandés, bien entendu, si cet au-delà était réel. Mais ils s'y prenaient d'une manière assez curieuse, semblant essayer de camoufler sous un verbiage insouciant leur soif de savoir. 
 
-- Je ne crois pas que la mort termine tout, mais il me semble qu'on ne nous a pas donné la vraie lumière à ce sujet. Je me rappelle un vieil hymne que j'entendis un jour. Je ne me souviens plus exactement des paroles, mais en voici le sens:
+L'un d'entre eux déclara:
 
+\- Je ne crois pas que la mort termine tout, mais il me semble qu'on ne nous a pas donné la vraie lumière à ce sujet. Je me rappelle un vieil hymne que j'entendis un jour. Je ne me souviens plus exactement des paroles, mais en voici le sens:
+
+<pre>
 "Un moment ici-bas mon âme se posera,
-
 Un moment après, elle sera au-delà des étoiles."
+</pre>
 
--Qu'en pensez-vous?
+\- Qu'en pensez-vous? En ce cas, Saint Pierre n'aura pas l'occasion de questionner ce malheureux allant à un pareil train!
 
-- En ce cas, Saint Pierre n'aura pas l'occasion de questionner ce malheureux allant à un pareil train!
+\- De plus, ce pauvre diable irait si vite qu'il traverserait le Ciel de part en part et se trouverait de l'autre côté avant de pouvoir s'arrêter.
 
-- De plus, ce pauvre diable irait si vite qu'il traverserait le Ciel de part en part et se trouverait de l'autre côté avant de pouvoir s'arrêter.
+\- Il n'aurait pas de chance, n'est-ce pas? Je crois que celui qui a écrit ces paroles n'en connaissait rien. Je ne crois pas que les gens se transforment à ce point lorsqu'ils meurent. Voyez Slim Johnson; ce type là est si lourd que naturellement il ne pourrait en un clin d'oeil perdre son poids; pensez-vous qu'il puisse devenir une fusée volante, s'il était tué? Il ne déploiera jamais une pareille vitesse. Il lui faudrait des semaines pour se rendre compte qu'il est mort. Je parie que, lorsqu'un homme vient de mourir, il est tout proche de son corps, puis va à droite ou à gauche.
 
-- Il n'aurait pas de chance, n'est-ce pas? Je crois que celui qui a écrit ces paroles n'en connaissait rien. Je ne crois pas que les gens se transforment à ce point lorsqu'ils meurent. Voyez Slim Johnson; ce type là est si lourd que naturellement il ne pourrait en un clin d'oeil perdre son poids; pensez-vous qu'il puisse devenir une fusée volante, s'il était tué? Il ne déploiera jamais une pareille vitesse. Il lui faudrait des semaines pour se rendre compte qu'il est mort. Je parie que, lorsqu'un homme vient de mourir, il est tout proche de son corps, puis va à droite ou à gauche.
+\- Où ça?
 
-- Où ça?
+\- Je n'en sais rien. Probablement là où il a à faire. Par exemple, certains désirent aller au Ciel jouer de la harpe et d'autres n'y tiennent pas. Quant à moi, je n'ai jamais joué de la harpe et ne sais pas chanter, en sorte que j'aimerais aller voir un peu partout comment cela se passe!
 
-- Je n'en sais rien. Probablement là où il a à faire. Par exemple, certains désirent aller au Ciel jouer de la harpe et d'autres n'y tiennent pas. Quant à moi, je n'ai jamais joué de la harpe et ne sais pas chanter, en sorte que j'aimerais aller voir un peu partout comment cela se passe!
+\- Il se peut que tu en sois empêché. Suppose que tu sois occupé quelque part, et qu'un gaillard te harcèle avec une grande fourche?
 
-- Il se peut que tu en sois empêché. Suppose que tu sois occupé quelque part, et qu'un gaillard te harcèle avec une grande fourche?
-
-- Non. Je ne crois pas en de telles histoires. Je n'ai aucune foi dans le diable. J'ai entendu certains anglais parler de choses qu'ils avaient vues la nuit, quand éclata cette guerre, et ils en furent tout transformés.
+\- Non. Je ne crois pas en de telles histoires. Je n'ai aucune foi dans le diable. J'ai entendu certains anglais parler de choses qu'ils avaient vues la nuit, quand éclata cette guerre, et ils en furent tout transformés.
 
 Le soldat questionneur de la cantine prit la parole:
 
-- Je crois que la vraie thèse est celle d'un lieutenant avec qui j'ai discuté il y a quelques semaines. Il déclarait que nous avions déjà vécu précédemment et que nous reviendrions de nouveau, conservant la même physionomie après la mort. Cela me sembla insensé alors, mais plus j'y pense, plus je suis convaincu qu'il avait raison.
+\- Je crois que la vraie thèse est celle d'un lieutenant avec qui j'ai discuté il y a quelques semaines. Il déclarait que nous avions déjà vécu précédemment et que nous reviendrions de nouveau, conservant la même physionomie après la mort. Cela me sembla insensé alors, mais plus j'y pense, plus je suis convaincu qu'il avait raison.
 
 A ce moment, Mr. Campion entraîna Jimmie.
 
-- Nous avons si peu de temps à perdre, dit-il, que nous devons en faire le meilleur usage.
+\- Nous avons si peu de temps à perdre, dit-il, que nous devons en faire le meilleur usage. Vous voyez que le grain que vous avez semé et que vous jugiez perdu a germé et a forcé cet homme à réfléchir. Plus tard, lorsqu'il viendra en contact avec l'enseignement occulte, ce ne sera plus une nouveauté pour lui et il sera prêt à l'accueillir.
 
-- Vous voyez que le grain que vous avez semé et que vous jugiez perdu a germé et a forcé cet homme à réfléchir. Plus tard, lorsqu'il viendra en contact avec l'enseignement occulte, ce ne sera plus une nouveauté pour lui et il sera prêt à l'accueillir.
-
-Pendant cette conversation, ils s'étaient déplacés avec une telle rapidité qu'ils se trouvèrent dans une chambre où était assis un vieux couple, assurément l'homme et la femme. Il était minuit passé, mais pour eux le sommeil avait fui. L'enveloppe officielle, ouverte, sur la table, aurait pu nous renseigner sur ce sujet si cela avait été nécessaire. La femme sanglotait bruyamment, l'homme pleurait silencieusement et les larmes coulaient doucement le long de ses joues. A leurs côtés se trouvaient un soldat dont l'uniforme était déchiré et couvert de boue, la poitrine trouée par une rafale de mitrailleuse. Il tressaillait de douleur et reculait lorsque la femme pleurait fort, lui tendait les bras et l'appelait:
-
-- Maman! Mais elle ne l'entendait pas.
+Pendant cette conversation, ils s'étaient déplacés avec une telle rapidité qu'ils se trouvèrent dans une chambre où était assis un vieux couple, assurément l'homme et la femme. Il était minuit passé, mais pour eux le sommeil avait fui. L'enveloppe officielle, ouverte, sur la table, aurait pu nous renseigner sur ce sujet si cela avait été nécessaire. La femme sanglotait bruyamment, l'homme pleurait silencieusement et les larmes coulaient doucement le long de ses joues. A leurs côtés se trouvaient un soldat dont l'uniforme était déchiré et couvert de boue, la poitrine trouée par une rafale de mitrailleuse. Il tressaillait de douleur et reculait lorsque la femme pleurait fort, lui tendait les bras et l'appelait: - Maman! Mais elle ne l'entendait pas.
 
 Mr. Campion s'approcha du soldat:
 
-- Mon ami, lui dit-il, et Jimmie pensa que jamais il n'avait entendu une voie si bienveillante, si douce.
+\- Mon ami, lui dit-il, et Jimmie pensa que jamais il n'avait entendu une voie si bienveillante, si douce.
 
 Le soldat se retourna:
 
-- Je ne puis me faire entendre! Je ne puis me faire entendre! si seulement elle pouvait savoir que je suis vivant et que je ne souffre pas. Elle pense que je suis mort! Mais cela n'est pas. Je suis aussi vivant que je ne le fus jamais, malheureusement, je ne puis me faire entendre!
+\- Je ne puis me faire entendre! Je ne puis me faire entendre! si seulement elle pouvait savoir que je suis vivant et que je ne souffre pas. Elle pense que je suis mort! Mais cela n'est pas. Je suis aussi vivant que je ne le fus jamais, malheureusement, je ne puis me faire entendre!
 
-- Mon ami!
+\- Mon ami!
 
 De nouveau cette voix aimable, si douce, sembla transformer les vibrations tendues de la chambre.
 
-- Vous n'êtes pas mort, en effet, mais vous avez perdu votre corps charnel, et je puis vous aider. Ecoutez-moi, faites exactement ce que je vous dis: imaginez-vous que vous êtes revêtu d'un uniforme tout neuf et propre, heureux, sans blessure, et essayez d'imprimer cette pensée sur l'esprit de votre mère.
+\- Vous n'êtes pas mort, en effet, mais vous avez perdu votre corps charnel, et je puis vous aider. Ecoutez-moi, faites exactement ce que je vous dis: 
+
+\- Imaginez-vous que vous êtes revêtu d'un uniforme tout neuf et propre, heureux, sans blessure, et essayez d'imprimer cette pensée sur l'esprit de votre mère.
 
 Lentement, sous les yeux de Jimmie, l'uniforme boueux redevint propre et frais, les blessures provoquées par les balles disparurent. Le visage de l'homme perdit cette expression douloureuse qui s'y était gravée. Il se regarda et jeta un cri de surprise.
 
-- A présent, continua Mr. Campion, pensez tout le temps que vous êtes heureux, et dites lui: Je t'aime, je t'aime, et d'ici peu de temps, lorsqu'elle s'endormira, vous pourrez lui parler, car à ce moment elle aura quitté son corps. Tâchez alors de lui faire comprendre que vous êtes vivant, que vous vous portez bien, et que vous l'aimez. L'amour est la plus grande force dans tous les mondes, et, avec le temps, vous adoucirez sa grande douleur. La nuit, lorsqu'elle dort, vous pouvez être près d'elle et lui parler.
+\- A présent, continua Mr. Campion, pensez tout le temps que vous êtes heureux, et dites lui: Je t'aime, je t'aime, et d'ici peu de temps, lorsqu'elle s'endormira, vous pourrez lui parler, car à ce moment elle aura quitté son corps. Tâchez alors de lui faire comprendre que vous êtes vivant, que vous vous portez bien, et que vous l'aimez. L'amour est la plus grande force dans tous les mondes, et, avec le temps, vous adoucirez sa grande douleur. La nuit, lorsqu'elle dort, vous pouvez être près d'elle et lui parler.
 
 Le soldat porta son regard sur Mr. Campion, et dans ce regard se manifestait une gratitude, un respect, qu'aucun mot ne saurait exprimer. Il s'appliqua ensuite à pratiquer les conseils reçus.
 
 Jimmie et Mr. Campion se retirèrent dans un coin, tandis que le soldat, se forçant à sourire, répétait la formule, en se penchant sur la femme en pleurs.
 
-Graduellement, les larmes cessèrent de couler, et un regard paisible les remplaça.
-
-- Henri, dit-elle à son mari, je sens que tout est bien pour lui. Il est vivant et parfaitement bien.
+Graduellement, les larmes cessèrent de couler, et un regard paisible les remplaça. - Henri, dit-elle à son mari, je sens que tout est bien pour lui. Il est vivant et parfaitement bien.
 
 De nouveau, Mr. Campion prit Jimmie par la main, et ils se mirent en route. Cette fois-ci, c'était le retour au bateau, et Jimmie se retrouva planant au-dessus du navire à bord duquel son propre corps dormait paisiblement, dans la petite cabine.
 
 La lune avait disparu. A la vision terrestre, la surface des flots devait paraître obscure, mais les voyageurs du Pays des Morts Vivants, n'ont pas besoin de lumière solaire, et la nuit l'obscurité ne les incommode pas.
 
-Les lois naturelles opèrent dans tout le cosmos, ce qui est une autre façon d'affirmer que Dieu gouverne partout. Mais le fonctionnement de certaines lois naturelles diffère suivant les mondes, et ceux qui soudain se trouvent projetés dans les - Vous voyez que le grain que vous avez semé et que vous jugiez perdu a germé et a forcé cet homme à réfléchir. Plus tard, lorsqu'il viendra en contact avec l'enseignement occulte, ce ne sera plus une nouveauté pour lui et il sera prêt à l'accueillir.
+Les lois naturelles opèrent dans tout le cosmos, ce qui est une autre façon d'affirmer que Dieu gouverne partout. Mais le fonctionnement de certaines lois naturelles diffère suivant les mondes, et ceux qui soudain se trouvent projetés dans les higher realms of being are often apt to be much surprised at the things they see and hear.
 
-Pendant cette conversation, ils s'étaient déplacés avec une telle rapidité qu'ils se trouvèrent dans une chambre où était assis un vieux couple, assurément l'homme et la femme. Il était minuit passé, mais pour eux le sommeil avait fui. L'enveloppe officielle, ouverte, sur la table, aurait pu nous renseigner sur ce sujet si cela avait été nécessaire. La femme sanglotait bruyamment, l'homme pleurait silencieusement et les larmes coulaient doucement le long de ses joues. A leurs côtés se trouvaient un soldat dont l'uniforme était déchiré et couvert de boue, la poitrine trouée par une rafale de mitrailleuse. Il tressaillait de douleur et reculait lorsque la femme pleurait fort, lui tendait les bras et l'appelait:
+Jimmie gazed at the beautiful sight which lay spread out below him where the great steamer was plunging onwards through the gently rolling ocean, all around her the interminable stretch of waters, ever restless, which ran brimming from horizon to horizon with no human eye to watch the slow dignity of their great rollers as they heaved themselves like mighty giants over the beautiful, foamy lacework where the combers broke.
 
-- Maman! Mais elle ne l'entendait pas.
+"Jimmie" said his companion as they hovered in the air, "some day perhaps I shall take you on a real journey through space and time, and I will show you old Atlantis and the things which happened there long before history had its beginning. We read tales of romance and of fiction, but I tell you that neither romance nor fiction ever could rival some of the wonderful things which happened in that strange old land which these very waves have traveled over. Now, let us go to your cabin."
 
-Mr. Campion s'approcha du soldat:
+\- They swept gently downward and entered the cabin where Jimmie stood looking down at his body which was quietly breathing in sleep.
 
-- Mon ami, lui dit-il, et Jimmie pensa que jamais il n'avait entendu une voie si bienveillante, si douce.
+\- "Queer thing, isn't it?"
 
-Le soldat se retourna:
+\- "What?" asked Mr. Campion.
 
-- Je ne puis me faire entendre! Je ne puis me faire entendre! si seulement elle pouvait savoir que je suis vivant et que je ne souffre pas. Elle pense que je suis mort! Mais cela n'est pas. Je suis aussi vivant que je ne le fus jamais, malheureusement, je ne puis me faire entendre!
+\- "Why, its queer what makes it go! There it is, breathing just as regularly as clockwork, and here I am, outside of it and disconnected, as you might say, and yet it's working just as nicely as ever."
 
-- Mon ami!
+\- "The sight of it this way may help you to realize that the body is only a tool to be used by the 'you' which is now standing before it. Later on you may grow to realize that the 'you' now standing here is only the tool of a still higher 'you.'"
 
-De nouveau cette voix aimable, si douce, sembla transformer les vibrations tendues de la chambre.
+\- "I wonder," said Jimmie musingly, "would I have known of it if the ship had been torpedoed and my body drowned while I was away from it?"
 
-- Vous n'êtes pas mort, en effet, mais vous avez perdu votre corps charnel, et je puis vous aider. Ecoutez-moi, faites exactement ce que je vous dis: imaginez-vous que vous êtes revêtu d'un uniforme tout neuf et propre, heureux, sans blessure, et essayez d'imprimer cette pensée sur l'esprit de votre mère.
+\- "You certainly would have known, had it happened, but it was because I knew that it would not happen that I came for you. Later I shall teach you to leave your body when you will."
 
-Lentement, sous les yeux de Jimmie, l'uniforme boueux redevint propre et frais, les blessures provoquées par les balles disparurent. Le visage de l'homme perdit cette expression douloureuse qui s'y était gravée. Il se regarda et jeta un cri de surprise.
+\- "Didn't I leave my body tonight?"
 
-- A présent, continua Mr. Campion, pensez tout le temps que vous êtes heureux, et dites lui: Je t'aime, je t'aime, et d'ici peu de temps, lorsqu'elle s'endormira, vous pourrez lui parler, car à ce moment elle aura quitté son corps. Tâchez alors de lui faire comprendre que vous êtes vivant, que vous vous portez bien, et que vous l'aimez. L'amour est la plus grande force dans tous les mondes, et, avec le temps, vous adoucirez sa grande douleur. La nuit, lorsqu'elle dort, vous pouvez être près d'elle et lui parler.
+\- "No. Not as I mean when I speak of leaving the body. Everyone leaves the body in sleep. You left yours after falling asleep and then I woke you, but you did not leave your body consciously. Had you done so you would have met the Dweller on the Threshold."
 
-Le soldat porta son regard sur Mr. Campion, et dans ce regard se manifestait une gratitude, un respect, qu'aucun mot ne saurait exprimer. Il s'appliqua ensuite à pratiquer les conseils reçus.
+\- "What is that?"
 
-Jimmie et Mr. Campion se retirèrent dans un coin, tandis que le soldat, se forçant à sourire, répétait la formule, en se penchant sur la femme en pleurs.
+\- "The sum of the evil of your past lives. But there is something else I want to speak of now instead of the Dweller, and that is this: What did you notice particularly about the soldier who was trying to make his mother hear him?"
 
-Graduellement, les larmes cessèrent de couler, et un regard paisible les remplaça.
+\- "Why,--er--I don't know. Let me see, he had been killed by a machine gun, was that it?"
 
-- Henri, dit-elle à son mari, je sens que tout est bien pour lui. Il est vivant et parfaitement bien.
+\- "No. I mean what lesson could you draw from him? Every time you are taken out on a trip into the Land of the Living Dead it is not to gratify your love for adventure but to teach you a lesson. Every time in the future when you are able to 'travel' alone you must be on the lookout for some lesson to learn. I showed you the inquisitive soldier for a purpose, and I took you to the other place also for a purpose.
 
-De nouveau, Mr. Campion prit Jimmie par la main, et ils se mirent en route. Cette fois-ci, c'était le retour au bateau, et Jimmie se retrouva planant au-dessus du navire à bord duquel son propre corps dormait paisiblement, dans la petite cabine.
+\- "After this you will have to search out the lessons for yourself, for a great part of the good they do is brought about by the trouble which is taken and the thought and concentration spent in looking for them. But this time, to show you what I mean and to start you right, I will help you.
 
-La lune avait disparu. A la vision terrestre, la surface des flots devait paraître obscure, mais les voyageurs du Pays des Morts Vivants, n'ont pas besoin de lumière solaire, et la nuit l'obscurité ne les incommode pas.
+\- "You must learn to look for the big little things, not for the little big things. You took un voyage merveilleux tel qu'on les décrit dans les "Mille et une nuits" et, bien des rois vous envieraient; vous avez vu un spectacle comme il y en a peu, mais ce voyage n'est pas l'essentiel, comparé au nombre de petites choses qu'apparemment vous n'avez pas remarquées.
 
-Les lois naturelles opèrent dans tout le cosmos, ce qui est une autre façon d'affirmer que Dieu gouverne partout. Mais le fonctionnement de certaines lois naturelles diffère suivant les mondes, et ceux qui soudain se trouvent projetés dans les un voyage merveilleux tel qu'on les décrit dans les "Mille et une nuits" et, bien des rois vous envieraient; vous avez vu un spectacle comme il y en a peu, mais ce voyage n'est pas l'essentiel, comparé au nombre de petites choses qu'apparemment vous n'avez pas remarquées.
+\- Les choses que vous devez rechercher sont celles qui contiennent de grandes vérités; les choses qui sont vraies pour chacun, pour tout le monde. Le voyage était important, en lui-même, mais il ne l'était que pour vous seul. Si vous racontiez cette merveilleuse aventure, les gens ne vous croiraient pas, et même s'ils vous croyaient, qu'auriez-vous accompli? Du point de vue de l'esprit qui évolue, vous n'auriez rien accompli.
 
-- Les choses que vous devez rechercher sont celles qui contiennent de grandes vérités; les choses qui sont vraies pour chacun, pour tout le monde. Le voyage était important, en lui-même, mais il ne l'était que pour vous seul. Si vous racontiez cette merveilleuse aventure, les gens ne vous croiraient pas, et même s'ils vous croyaient, qu'auriez-vous accompli? Du point de vue de l'esprit qui évolue, vous n'auriez rien accompli.
-
-- Mais, prenez un petit détail que vous avez remarqué, mais qui ne fit pas impression sur vous, car vous ne vous attendiez pas à ces choses - le petit fait que le soldat reculait lorsque sa mère sanglotait - prenez ce fait et demandez-vous: Pourquoi? Pourquoi agissait-il comme si quelqu'un lui donnait des coups de fouet? N'était-ce pas tout à fait naturel qu'elle pleure très fort? Si elle avait ri et souri, n'aurait-il pas eu le droit de se sentir profondément froissé, croyant qu'elle était satisfaite de se débarrasser de lui? Or, la clef réside en ceci; il se rendait compte, parce que plus sensible aux pensées de sa mère que lorsqu'il était dans son corps physique, qu'elle avait une peur sub-consciente que la mort soit la fin de tout, et que, une fois mort, il soit perdu pour elle, pour toujours. C'est cela qui lui causait une telle souffrance. C'est pourquoi il reculait et tressaillait ainsi. Il était vivant et il savait qu'il était vivant. Il était sur un autre plan d'existence, c'est vrai, mais il était vivant et non pas mort. S'il avait pu lui dire cela, se montrer à elle, vivant, ne fut-ce qu'un instant, l'intensité de sa douleur aurait diminué, l'aiguillon de la mort se serait émoussé, non pas de la moitié de son intensité, mais des neuf-dixièmes. Voilà la leçon, qu'en apprenez-vous?
+\- Mais, prenez un petit détail que vous avez remarqué, mais qui ne fit pas impression sur vous, car vous ne vous attendiez pas à ces choses - le petit fait que le soldat reculait lorsque sa mère sanglotait - prenez ce fait et demandez-vous: Pourquoi? Pourquoi agissait-il comme si quelqu'un lui donnait des coups de fouet? N'était-ce pas tout à fait naturel qu'elle pleure très fort? Si elle avait ri et souri, n'aurait-il pas eu le droit de se sentir profondément froissé, croyant qu'elle était satisfaite de se débarrasser de lui? Or, la clef réside en ceci; il se rendait compte, parce que plus sensible aux pensées de sa mère que lorsqu'il était dans son corps physique, qu'elle avait une peur sub-consciente que la mort soit la fin de tout, et que, une fois mort, il soit perdu pour elle, pour toujours. C'est cela qui lui causait une telle souffrance. C'est pourquoi il reculait et tressaillait ainsi. Il était vivant et il savait qu'il était vivant. Il était sur un autre plan d'existence, c'est vrai, mais il était vivant et non pas mort. S'il avait pu lui dire cela, se montrer à elle, vivant, ne fut-ce qu'un instant, l'intensité de sa douleur aurait diminué, l'aiguillon de la mort se serait émoussé, non pas de la moitié de son intensité, mais des neuf-dixièmes. Voilà la leçon, qu'en apprenez-vous?
 
 Jimmie hésitait, contemplant son corps endormi sur sa couchette. Il ne comprenait pas au juste quelle était cette leçon. Toutefois, le Frère Aîné n'attendit pas longtemps et continua:
 
 - Trouver la leçon est facile si vous procédez avec méthode. Tirez de cette situation les vérités permanentes, universelles; vous avez un fils qui a été tué, la mère qui sait qu'il a été tué; vous avez la mère qui manifeste un chagrin parfaitement naturel; et, comme vous étiez à même de voir des deux côtés du voile, vous avez vu le chagrin de la mère provoquer chez son fils, invisible pour elle, la souffrance la plus aiguë. Ces choses sont universelles comme la mort est universelle, car dans ce problème, la manière dont le fils est mort n'est pas une chose particulière. Il en résulte alors le fait qu'un intense chagrin provoque la souffrance chez le décédé. Nous notons aussi que les lamentations et gémissements pour les morts leur cause de la souffrance et détournent leur attention des nouvelles conditions qui les entourent, et par conséquent, les retardent dans leur évolution; ensuite, puisque la particulière intensité de ces lamentations est causée par la croyance ou la peur que la mort soit la fin de toutes choses, vous avez là une souffrance inutile et superflue, provenant de l'ignorance, nuisible aux morts et aux vivants. La chose devient-elle plus claire?
 
-- Oui, d'un certain point de vue. Je comprends que le chagrin trouble les morts, et comme les vivants souffrent bien plus qu'il n'est nécessaire, tout cela par ignorance, est-ce bien la leçon à en tirer?
+\- Oui, d'un certain point de vue. Je comprends que le chagrin trouble les morts, et comme les vivants souffrent bien plus qu'il n'est nécessaire, tout cela par ignorance, est-ce bien la leçon à en tirer?
 
-- En partie, mais en partie seulement. Dans l'au-delà, les souffrances sont plus aiguës que de ce côté-ci, pour la raison qu'elles ne sont pas atténuées par la chair; il en résulte que le défunt souffre beaucoup plus qu'il n'est nécessaire. De même, ceux qui restent souffrent beaucoup et inutilement, car ils ne savent pas que la mort n'est pas la fin. Mais il y a un côté positif. Non seulement ils souffrent sans nécessité, mais il perdent une grande partie des joies qu'ils pourraient avoir s'ils comprenaient la réalités des choses. La mère qui pleure son petit enfant cesserait de gémir si elle pouvait voir le bonheur extraordinaire du petit être dans le monde céleste. Son chagrin serait pour elle mais non pas pour l'enfant. En bien des cas, la mort est un avancement et non pas une perte, un bénéfice, une récompense, une chose dont on doit être reconnaissant. Il est nécessaire que nous nous débarrassions de cette vieille idée à laquelle nous sommes tous attachés: que la mort signifie un arrêt permanent de l'activité physique.
+\- En partie, mais en partie seulement. Dans l'au-delà, les souffrances sont plus aiguës que de ce côté-ci, pour la raison qu'elles ne sont pas atténuées par la chair; il en résulte que le défunt souffre beaucoup plus qu'il n'est nécessaire. De même, ceux qui restent souffrent beaucoup et inutilement, car ils ne savent pas que la mort n'est pas la fin. Mais il y a un côté positif. Non seulement ils souffrent sans nécessité, mais il perdent une grande partie des joies qu'ils pourraient avoir s'ils comprenaient la réalités des choses. La mère qui pleure son petit enfant cesserait de gémir si elle pouvait voir le bonheur extraordinaire du petit être dans le monde céleste. Son chagrin serait pour elle mais non pas pour l'enfant. En bien des cas, la mort est un avancement et non pas une perte, un bénéfice, une récompense, une chose dont on doit être reconnaissant. Il est nécessaire que nous nous débarrassions de cette vieille idée à laquelle nous sommes tous attachés: que la mort signifie un arrêt permanent de l'activité physique.
 
-- Cependant ce problème a un autre aspect. Lors d'une mort naturelle, ne résultant pas d'un accident, ou survenue sur le champ de bataille, l'âme revoit les évènements de la vie qui vient de prendre fin, et c'est cette rétrospection qui forme la base réelle de notre progrès dans l'évolution. Je vous l'ai déjà expliquée dans le long entretien Rue d'Ex. Vous vous rappelez que la mémoire sub-consciente, l'une des propriétés du corps vital ou éthérique, est gravée sur le corps du désir, tandis que l'âme revoit sa vie entière. Cette empreinte forme la base de la vie au purgatoire ainsi qu'au ciel. Lorsque l'attention du défunt est distraite par les lamentations de ceux qui restent, cet enregistrement n'est pas reproduit sur le corps du désir, de cette façon, les vies du purgatoire et du ciel ont perdu leur raison d'être dans une large mesure et, pour elles, la vie qui vient de prendre fin a été inutile. Vous avez vu combien les morts sont sensibles à la douleur des vivants; non pas à la souffrance calme de l'absence, mais au déchaînement de l'émotion et du désespoir. Voilà une des leçons qu'il faut apprendre. A l'avenir, quel que soit l'endroit où votre vie de service vous transporte, faites tout ce qui sera en votre pouvoir pour expliquer aux gens cette réalité, afin qu'avec le temps, cette terrible injustice infligée aux morts cesse. Pour autant que vous pourrez réaliser cela, vous serez à même d'aider l'évolution et d'avancer le grand Jour de la Libération.
+\- Cependant ce problème a un autre aspect. Lors d'une mort naturelle, ne résultant pas d'un accident, ou survenue sur le champ de bataille, l'âme revoit les évènements de la vie qui vient de prendre fin, et c'est cette rétrospection qui forme la base réelle de notre progrès dans l'évolution. Je vous l'ai déjà expliquée dans le long entretien Rue d'Ex. Vous vous rappelez que la mémoire sub-consciente, l'une des propriétés du corps vital ou éthérique, est gravée sur le corps du désir, tandis que l'âme revoit sa vie entière. Cette empreinte forme la base de la vie au purgatoire ainsi qu'au ciel. Lorsque l'attention du défunt est distraite par les lamentations de ceux qui restent, cet enregistrement n'est pas reproduit sur le corps du désir, de cette façon, les vies du purgatoire et du ciel ont perdu leur raison d'être dans une large mesure et, pour elles, la vie qui vient de prendre fin a été inutile. Vous avez vu combien les morts sont sensibles à la douleur des vivants; non pas à la souffrance calme de l'absence, mais au déchaînement de l'émotion et du désespoir. Voilà une des leçons qu'il faut apprendre. A l'avenir, quel que soit l'endroit où votre vie de service vous transporte, faites tout ce qui sera en votre pouvoir pour expliquer aux gens cette réalité, afin qu'avec le temps, cette terrible injustice infligée aux morts cesse. Pour autant que vous pourrez réaliser cela, vous serez à même d'aider l'évolution et d'avancer le grand Jour de la Libération.
 
-- Quelle était cette autre leçon dont vous parliez?
+\- Quelle était cette autre leçon dont vous parliez?
 
-- Je vous ai montré l'une d'elles, quant à l'autre, je pense que vous vous en souviendrez beaucoup mieux si vous la découvrez vous-même.
+\- Je vous ai montré l'une d'elles, quant à l'autre, je pense que vous vous en souviendrez beaucoup mieux si vous la découvrez vous-même.
 
-- Mais, je ne comprends pas bien comment se grave la mémoire sub-consciente. Vous me dites qu'elle forme la base de la vie au purgatoire, et que de l'acuité des impressions dans cette région dépend notre conquête sur nos péchés?
+\- Mais, je ne comprends pas bien comment se grave la mémoire sub-consciente. Vous me dites qu'elle forme la base de la vie au purgatoire, et que de l'acuité des impressions dans cette région dépend notre conquête sur nos péchés?
 
-- Exactement.
+\- Exactement.
 
-- Pourtant, dans les décès que j'ai pu observer de ce côté-ci, il n'y avait pas de rétrospection de la vie passée. Prenez par exemple le cas du sergent Strew: lorsqu'il fut tué, il sorti simplement de son corps et ce fut tout. Il n'y eut aucune lamentation, et il ne songea nullement à revoir sa vie. Alors, comment expliquer cela?
+\- Pourtant, dans les décès que j'ai pu observer de ce côté-ci, il n'y avait pas de rétrospection de la vie passée. Prenez par exemple le cas du sergent Strew: lorsqu'il fut tué, il sorti simplement de son corps et ce fut tout. Il n'y eut aucune lamentation, et il ne songea nullement à revoir sa vie. Alors, comment expliquer cela?
 
-- Par la cause exceptionnelle du décès. La Nature impose et utilise la méthode du décès, il s'ensuit une revue des activités et erreurs passées, qui se prolonge au purgatoire et au ciel. Voilà le système qu'emploie normalement l'évolution; mais l'homme, avec son privilège divin de libre arbitre et de choix, transgresse souvent, temporairement les plans de la Nature. Ordinairement, il n'est pas prévu que l'homme meurt par accident ou de façon violente. La mort sur le champ de bataille ou le décès par accident qui, soudain, enlève l'Ego d'un corps jeune et vigoureux, n'est pas la méthode normale projetée pour la race, car elle s'oppose à la révision post mortem. La mort provoquée par le feu, comme c'est le cas dans un incendie ou un déraillement de chemin de fer, peut terrifier et irriter l'âme, à ce point que même longtemps après la rupture de la corde d'argent, et longtemps après que la rétrospection soit devenue impossible, l'âme tient éperdument à la scène de sa séparation violente du corps physique.
+\- Par la cause exceptionnelle du décès. La Nature impose et utilise la méthode du décès, il s'ensuit une revue des activités et erreurs passées, qui se prolonge au purgatoire et au ciel. Voilà le système qu'emploie normalement l'évolution; mais l'homme, avec son privilège divin de libre arbitre et de choix, transgresse souvent, temporairement les plans de la Nature. Ordinairement, il n'est pas prévu que l'homme meurt par accident ou de façon violente. La mort sur le champ de bataille ou le décès par accident qui, soudain, enlève l'Ego d'un corps jeune et vigoureux, n'est pas la méthode normale projetée pour la race, car elle s'oppose à la révision post mortem. La mort provoquée par le feu, comme c'est le cas dans un incendie ou un déraillement de chemin de fer, peut terrifier et irriter l'âme, à ce point que même longtemps après la rupture de la corde d'argent, et longtemps après que la rétrospection soit devenue impossible, l'âme tient éperdument à la scène de sa séparation violente du corps physique.
 
-- Pour ceux qui meurent d'une commotion causée par un obus, la revue du passé est ordinairement impossible. Dans le cas du sergent Strew, il fut projeté hors de son corps instantanément, et n'en fut même pas conscient. Même s'il s'en était rendu compte, la violence des vibrations du moment aurait empêché toute vision rétrospective, même en l'absence de sa famille. Mais vous vous rappelez qu'il vous vit tout de suite, et venait à peine de vous saluer lorsqu'il fut énervé par les soldats qui s'occupaient de son corps. Cependant, si vous aviez été absent, il n'aurait pas eu la moindre vision du passé à cause de la soudaineté de cette mort accidentelle, et également à cause des vibrations néfastes sur toute la ligne de feu; d'autres raisons aussi y contribuaient, mais je ne les approfondirai pas aujourd'hui; mais vous voyez que la mort violente, accidentelle ou sur le champ de bataille est infortunée, car elle contrecarre le processus normal de la Nature. Cependant, celle-ci est trop puissante pour être entravée. Les moyens naturels peuvent être déviés de leur cours normal, mais ils ne peuvent être déjoués indéfiniment. La Nature emploie même ces conditions anormales pour arriver à ses fins. Tout compte fait, on peut voir que ce qui semblait momentanément une vie gaspillée ne l'était pas en réalité, mais que chaque moment en était utilisé. De sorte que, dans le grand univers de notre Père, nous trouvons l'évidence la plus merveilleuse de la sagesse régnant partout, sagesse sans limite, sagesse dont la profondeur et l'élévation nous restent inaccessibles.
+\- Pour ceux qui meurent d'une commotion causée par un obus, la revue du passé est ordinairement impossible. Dans le cas du sergent Strew, il fut projeté hors de son corps instantanément, et n'en fut même pas conscient. Même s'il s'en était rendu compte, la violence des vibrations du moment aurait empêché toute vision rétrospective, même en l'absence de sa famille. Mais vous vous rappelez qu'il vous vit tout de suite, et venait à peine de vous saluer lorsqu'il fut énervé par les soldats qui s'occupaient de son corps. Cependant, si vous aviez été absent, il n'aurait pas eu la moindre vision du passé à cause de la soudaineté de cette mort accidentelle, et également à cause des vibrations néfastes sur toute la ligne de feu; d'autres raisons aussi y contribuaient, mais je ne les approfondirai pas aujourd'hui; mais vous voyez que la mort violente, accidentelle ou sur le champ de bataille est infortunée, car elle contrecarre le processus normal de la Nature. Cependant, celle-ci est trop puissante pour être entravée. Les moyens naturels peuvent être déviés de leur cours normal, mais ils ne peuvent être déjoués indéfiniment. La Nature emploie même ces conditions anormales pour arriver à ses fins. Tout compte fait, on peut voir que ce qui semblait momentanément une vie gaspillée ne l'était pas en réalité, mais que chaque moment en était utilisé. De sorte que, dans le grand univers de notre Père, nous trouvons l'évidence la plus merveilleuse de la sagesse régnant partout, sagesse sans limite, sagesse dont la profondeur et l'élévation nous restent inaccessibles.
 
 Pendant que Jimmie regardait son ami parler, ce fut pour lui une nouvelle vision dans ce pays merveilleux. Il vit le corps de l'âme d'un Maître qui était ravi en adoration devant la Sagesse Divine et transporté d'amour pour le Divin Créateur.
 
@@ -1290,25 +1216,13 @@ Cette étincelante vision était d'une beauté au-delà de toute description. La
 
 Pris à l'improviste par une telle vision, Jimmie recula instinctivement, et il s'en serait fallu de peu qu'il ne s'agenouillât, s'il ne s'était souvenu des paroles de l'ange en de semblables circonstances: "Regarde et contemple.". De sorte qu'il n'adora point, mais se tint dans le respect, saisi d'étonnement, lorsque l'auréole s'affaiblit graduellement, tandis que ce même ami redevenu familier le regarda et, tendant la main, lui dit:
 
-- Pardonnez-moi, mon ami. Pendant un instant je ne pensais qu'au Père et à Son Divin amour, Sa clémence merveilleuse pour nous, et la Sagesse avec laquelle Il sait se servir de nos faiblesses et de nos échecs.
+\- Pardonnez-moi, mon ami. Pendant un instant je ne pensais qu'au Père et à Son Divin amour, Sa clémence merveilleuse pour nous, et la Sagesse avec laquelle Il sait se servir de nos faiblesses et de nos échecs.
 
-- Et maintenant, je vais vous quitter. Continuez les exercices que je vous ai indiqués. Recherchez l'autre leçon, et en parcourant le sentier, que la bénédiction du Père rejaillisse sur vous.
+\- Et maintenant, je vais vous quitter. Continuez les exercices que je vous ai indiqués. Recherchez l'autre leçon, et en parcourant le sentier, que la bénédiction du Père rejaillisse sur vous.
 
 Lentement, la cabine s'assombrit, s'obscurcit; le mouvement du vaisseau se fit sentir, Jimmie sentit les bords de sa couchette, la douceur de sa couverture, et sa main étendue toucha la paroi rigide. Ce fut le réveil.
 
-
-  		Chapitre 8
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE VIII - ÉTUDE D'AURAS - pages 151 à 161
+### <h3 id="chapter-8">Chapitre VIII - Étude d'Auras</h3>
 
 Jimmie ne dormit plus de la nuit. Il se mit à réfléchir à tout ce qui venait d'arriver et, graduellement, il eut la conviction que la plus grande leçon ne lui avait pas encore été expliquée, et qu'on la lui laissait découvrir.
 
@@ -1368,19 +1282,7 @@ Souvent Jimmie remarquait dans la rue un homme d'affaires élégamment vêtu, po
 
 Mentalement, Jimmie se fit alors la réflexion que la concrétisation de cette vérité était l'une de ces choses proposées par le Frère Aîné, et qu'il était prévu qu'il l'accomplisse. Peut-être bien était-ce une partie de sa réponse.
 
-
-  		Chapitre 9
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE IX - UNE EXPÉRIENCE AVEC LES ESPRITS DE LA NATURE - pages 163 à 175
+### <h3 id="chapter-9">Chapitre IX - Une Expérience avec les Esprits de la Nature</h3>
 
 La vie de Jimmie se passa comme un rêve éveillé durant les quelques mois qui suivirent, bien remplie par les exigences de son travail, et imprégnée d'un curieux sentiment que quelque chose allait bientôt se produire, un sentiment de malaise, d'attente et d'incertitude. Il écrivit à Louise régulièrement et reçut d'elle des réponses apparemment satisfaisantes, à en juger par le nombre de fois qu'il lisait et relisait chaque lettre. Durant sa "vie de sommeil", qui se faisait de plus en plus distincte et réelle, il se développait rapidement.
 
@@ -1438,23 +1340,13 @@ Voilà où en étaient les choses lorsque Jimmie entra en scène. Après avoir j
 
 Le gnome s'était affaissé lorsque Jimmie avait pris le combat en main mais, dans cette région éthérique, le pouvoir récupérateur est rapide, et les élémentaux avaient à peine disparu que le petit être se redressa et d'un bond se jeta dans les bras de Jimmie, s'accrochant à lui, sanglotant d'une façon incohérente comme un enfant; et comme la taille du gnome n'avait pas plus de soixante centimètres, le jeune homme eut l'impression d'avoir sauvé un enfant des crocs d'un chien méchant.
 
-C'était la première fois qu'un gnome le touchait, car ces petits êtres ont une nature plutôt timide. Mais maintenant que son amitié était prouvée, la petite créature se cramponnait à lui caressant ses joues, ses cheveux, répétant sans cesse: "Jimmie, mon ami, Jimmie, mon ami".
+C'était la première fois qu'un gnome le touchait, car ces petits êtres ont une nature plutôt timide. Mais maintenant que son amitié était prouvée, la petite créature se cramponnait à lui caressant ses joues, ses cheveux, répétant sans cesse: 
+
+\- "Jimmie, mon ami, Jimmie, mon ami".
 
 Ils marchèrent quelques minutes, et comme le gnome, étant une entité éthérique, n'avait aucun poids, Jimmie le porta plus facilement qu'il l'aurait fait d'un enfant; il essaya de le calmer gentiment et de l'aider à se remettre de sa frayeur. Les choses en étaient là, lorsque une troupe entière de ces petits êtres sortit en dansant de la forêt épaisse et les aperçus.
 
-
-  		Chapitre 10
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE X - CHAGRIN D'AMOUR - page 177 à 192
+### <h3 id="chapter-10">Chapitre X - Chagrin d'Amour</h3>
 
 Lorsque la troupe de gnomes aperçut le spectacle le plus inouï qui les attendait, au moment où il quittèrent la couverture des bois et arrivèrent face à Jimmie tenant son nouveau petit ami dans ses bras, ils montrèrent les signes de la plus vive indignation.
 
@@ -1464,7 +1356,7 @@ Son petit ami comprenait, et de ce fait, manifestait d'indiscutables signes de d
 
 Ainsi Jimmie vit la scène, accompagnée de gestes et du récit le plus rapide qu'il lui fût donné d'écouter en sa vie. Le petit gnome aurait été un incomparable acteur, s'il avait sauté un échelon et possédé un corps plus matériel. Ce fut, tout d'abord, la surprise par les horribles élémentaux; la recherche désespérée d'une issue en vue d'échapper au terrible combat, puis la certitude affreuse de la mort; les hideuses grimaces du cercle hostile autour de lui, et le désespoir qui le saisit lorsque chaque tentative de fuite était bloquée; puis enfin, l'immense soulagement lorsque soudain, ce grand géant d'être humain, avec tout son terrible pouvoir de volonté, prit place à ses côtés dans l'inégale bataille.
 
-- Voyez-vous, s'écria à la fin le gnome, tout est bien, il est mon ami, vous voyez!
+\- Voyez-vous, s'écria à la fin le gnome, tout est bien, il est mon ami, vous voyez!
 
 Ici son enthousiasme fut si fort que, d'un bond prodigieux, il s'élança sur les épaules de Jimmie, et commença à sauter de l'une à l'autre, lui donnant au passage de petites tapes amicales. Cette gymnastique du petit corps éthérique n'avait pour Jimmie aucun inconvénient et semblait amuser énormément la foule des gnomes.
 
@@ -1478,9 +1370,9 @@ Jimmie ne savait pas exactement ce qu'il devait faire pour paraître aussi natur
 
 Pendant ce temps, quelques-uns se détachaient de la troupe, venaient, mais hors de portée de sa main, et lui parlant de leur bizarre petite voix, ils lui donnaient de légères tapes dans le dos, tiraillant son ceinturon, ses vêtements. C'était possible bien que les petits personnages ne soient pas sur le plan physique. L'étrangeté du fait n'apparut à Jimmie que plus tard, car lorsque nous constatons la réalité d'un fait, nous l'acceptons sans nous poser de question, négligeant de considérer que selon la théorie et la raison il pourrait être une chimère.
 
-- Dites, Vif-Argent, demande Jimmie au petit gnome qu'il avait sauvé des élémentaux, qu'ont-ils donc, vos amis? Ils semblent avoir peur de moi! Faites-leur savoir que je ne leur ferai pas de mal.
+\- Dites, Vif-Argent, demande Jimmie au petit gnome qu'il avait sauvé des élémentaux, qu'ont-ils donc, vos amis? Ils semblent avoir peur de moi! Faites-leur savoir que je ne leur ferai pas de mal.
 
-- Oh! qu'ils sont bêtes! Ils ont peur! Vous ne pouvez leur faire de mal, vous êtes un ami!
+\- Oh! qu'ils sont bêtes! Ils ont peur! Vous ne pouvez leur faire de mal, vous êtes un ami!
 
 Il commença une harangue enthousiaste en son langage; le résultat ne se fit point attendre. Trois gnomes vinrent et s'assirent sur les guêtres de Jimmie, tandis que les autres, bien que se tenant assez loin, étaient néanmoins prêts à sauter au moment propice.
 
@@ -1488,11 +1380,13 @@ Jimmie était assis, parfaitement calme, ne bougeant aucun muscle, excepté lors
 
 Petit à petit, le bavardage et l'assurance de Vif-Argent firent leur effet, et les autres gnomes commencèrent à ne plus avoir peur du grand être humain qui avait sauvé leur camarade d'une situation si terrible. Ils s'approchèrent davantage et prirent plus d'intérêt à la conversation. Jimmie en profita pour demander à Vif-Argent ce qui lui serait arrivé si les élémentaux avaient remporté la victoire. Il se demandait si la mort était possible pour un être qui n'avait pas de corps physique, mais le grand soulagement et la gratitude ressentis par Vif-Argent prouvaient clairement qu'une issue contraire de la bataille auraient été pour le gnome fortement désagréable.
 
-Mais Vif-Argent détestait penser à ce qui aurait pu arriver. Il n'aimait pas apparemment avoir à utiliser son imagination. Comme un enfant absorbé au jeu, il était ennuyé de toute tentative faite pour l'amener à penser sérieusement et ne songeait qu'à jouer. Son irresponsabilité semblait la clef de sa manière d'être, et la concentration sur une chose particulière, sauf lorsqu'il lui arrivait d'y être intéressé, était pour lui fastidieuse. Finalement, Jimmie renonça, et entrepris de se créer des amis, dans le reste de la bande. En cela, il eut un grand succès; les gnomes perdirent leur peur et s'approchèrent sans craindre désormais un geste hostile.
+Mais Vif-Argent détestait penser à ce qui aurait pu arriver. Il n'aimait pas apparemment avoir à utiliser son imagination. Comme un enfant absorbé au jeu, il était ennuyé de toute tentative faite pour l'amener à penser sérieusement et ne songeait qu'à jouer. Son irresponsabilité semblait la clef de sa manière d'être, et la concentration sur une chose particulière, sauf lorsqu'il lui arrivait d'y être intéressé, était pour lui fastidieuse. Finalement, Jimmie renonça, et entrepris de se créer des amis, dans le reste de la bande. 
 
-- Vif-Argent, dit enfin Jimmie, expliquez-moi pourquoi les autres avaient si peur de moi...Quel mal pouvais-je leur faire?
+En cela, il eut un grand succès; les gnomes perdirent leur peur et s'approchèrent sans craindre désormais un geste hostile.
 
-- Voyez-vous, cria Vif-Argent, c'est le pouvoir de votre volonté qui est trop fort. C'est pour cela. Ils ne savaient pas ce que je sais...
+\- Vif-Argent, dit enfin Jimmie, expliquez-moi pourquoi les autres avaient si peur de moi...Quel mal pouvais-je leur faire?
+
+\- Voyez-vous, cria Vif-Argent, c'est le pouvoir de votre volonté qui est trop fort. C'est pour cela. Ils ne savaient pas ce que je sais...
 
 Il fallut beaucoup de questions pour obtenir une réponse au sujet de la timidité des gnomes; mais, Vif-Argent, aidé de ceux qui avaient pris part à la conversation, éclaira finalement Jimmie sur la cause du déplaisir qu'éprouvait leur race à une association avec les mortels.
 
@@ -1518,9 +1412,7 @@ Il la saisit vivement, et fut un peu étonné en la voyant si mince, mais l'éto
 
 Il lut les premières lignes, son visage s'altéra et la lettre lui échappa des mains. Il ne dit rien, mais alla s'appuyer contre le mur. Un instant après, il ramassait la missive, et la lut en entier. Elle était d'une cruelle brièveté:
 
-"Cher Monsieur Westman,
-
-"Je vais retourner en Amérique par le prochain paquebot et vous écris pour vous demander de ne plus m'adresser de lettres en France. J'ai réfléchi et je suis convaincue que notre engagement mutuel n'était pas basé sur une connaissance d'assez longue durée. Aussi, je vous rends libre, pensant qu'il est préférable d'en finir ici sur ce sujet. Je n'attends plus de nouvelles de votre part, j'espère que vous prendrez mes désirs en considération, et oublierez mon bref passage dans votre vie. Avec mes souhaits les meilleurs pour votre bonheur futur... etc..."
+"Cher Monsieur Westman, je vais retourner en Amérique par le prochain paquebot et vous écris pour vous demander de ne plus m'adresser de lettres en France. J'ai réfléchi et je suis convaincue que notre engagement mutuel n'était pas basé sur une connaissance d'assez longue durée. Aussi, je vous rends libre, pensant qu'il est préférable d'en finir ici sur ce sujet. Je n'attends plus de nouvelles de votre part, j'espère que vous prendrez mes désirs en considération, et oublierez mon bref passage dans votre vie. Avec mes souhaits les meilleurs pour votre bonheur futur... etc..."
 
 Jimmie en resta étourdi. Les précédentes lettres de Louise étaient généralement courtes, parce qu'elle était surchargée de travail; cela, il le savait, en tenait compte, mais en ces lettres brèves, elle n'avait jamais exprimé un mot de regret sur l'engagement qui les liait. Toutes ces raisons ne traversaient son esprit que pour être rejetées comme indignes de lui ou de Louise.
 
@@ -1546,19 +1438,7 @@ Cette condition apparemment anormale provenait du fait que, chaque nuit, elle po
 
 Mais Jimmie trouvait sa joie décidément trop éclatante. Il se sentait, lui, misérable, ou plutôt croyait l'être, et il avait besoin de sympathie. De plus, bien qu'il ne voulût pas l'admettre, il espérait que Marjorie lui aurait dit quelque chose à propos de Louise et pourquoi elle avait agit ainsi. Il pensait que Marjorie devait savoir. Il n'aurait pas trouvé convenable de lui demander, mais peut-être lui dirait-elle volontiers, de son propre gré, quelques mots de réconfort. Cette pensée n'échappa pas à Marjorie, et c'est ce qui la fit rire. Soudain une idée vint à l'esprit de Jimmie; tout ce qui venait de se produire devait contenir une leçon considérable pour lui.
 
-
-  		Chapitre 11
-Table des Matières
-
-
-
-AU PAYS DES MORTS VIVANTS
-Une Histoire Occulte
-par
-Prentiss Tucker
-
-
-CHAPITRE XI - LA LUMIÈRE REVENUE - pages 193 à 203
+### <h3 id="chapter-11">Chapitre XI - La Lumière Revenue</h3>
 
 Jimmie recherchait la sympathie. Il se sentait blessé et avait appelé Marjorie avec la vague idée que Marjorie pourrait peut-être lui dire pourquoi Louise avait agit de façon si extraordinaire. Dans les royaumes élevés, la connaissance ne s'acquiert pas toujours de la même manière que sur le plan physique, mais l'âme avancée peut très souvent savoir certaines choses en tournant simplement son attention vers elles.
 
@@ -1568,45 +1448,45 @@ Mais il restait une petite chance pour que Marjorie sût quelque chose à ce suj
 
 Cependant, bien que Marjorie ait accouru à son appel, elle n'était pas venue pour ce qu'il en attendait. Il savait qu'elle pourrait distinguer, à l'intensité des vibrations l'environnant, la profondeur de son trouble, et il s'attendait à la voir emplie de sympathie et d'intérêt à son égard, prête à lui prodiguer son aide. Il fut donc un peu choqué de la voir si heureuse, si pleine de joie de vivre. La sympathie était apparemment bien éloignée de son esprit.
 
-- Oh! Jimmie, je suis si contente que vous m'ayez appelée! Je me demandais si vous alliez revenir bientôt, j'ai tant à vous dire! Les plus belles choses auxquelles vous ayez jamais rêvé!
+\- Oh! Jimmie, je suis si contente que vous m'ayez appelée! Je me demandais si vous alliez revenir bientôt, j'ai tant à vous dire! Les plus belles choses auxquelles vous ayez jamais rêvé!
 
 Jimmie la regarda, contemplatif, mais demeura silencieux.
 
-- Ils m'ont donné de l'avancement, Jimmie. N'est-ce pas magnifique? Maintenant, je peux travailler davantage et être réellement de quelque utilité. Ils m'ont donné une petite classe à éduquer, quelques-uns des petits enfants récemment arrivés de ce côté, ce sont de si chers petits! Ils étaient épouvantés et égarés! Mais je leur ai montré qu'ici il n'y avait rien à craindre, rien, mais que l'amour les entourait. C'est si beau de les voir abandonner leur terreur, et s'épanouir comme de petites fleurs sous le soleil! Je suis si heureuse que je ne peux rester en place!
+\- Ils m'ont donné de l'avancement, Jimmie. N'est-ce pas magnifique? Maintenant, je peux travailler davantage et être réellement de quelque utilité. Ils m'ont donné une petite classe à éduquer, quelques-uns des petits enfants récemment arrivés de ce côté, ce sont de si chers petits! Ils étaient épouvantés et égarés! Mais je leur ai montré qu'ici il n'y avait rien à craindre, rien, mais que l'amour les entourait. C'est si beau de les voir abandonner leur terreur, et s'épanouir comme de petites fleurs sous le soleil! Je suis si heureuse que je ne peux rester en place!
 
 Quelle leçon objective ce serait pour les affligés de la terre, s'ils pouvaient voir cette radieuse jeune fille possédant l'amour et le bonheur du plan sur lequel elle vivait, transfigurée par la joie du royaume dans lequel elle conduisait ces petits êtres chassés de leur corps par la dureté des conditions du plan physique. Si les parents de ces enfants pouvaient la voir, ils manifesteraient leur peine et leur sympathie, non pas à ceux qui sont "morts", mais à ceux qui sont restés pour faire face à la longue lutte et aux rudes expériences de la terre.
 
 Jimmie essaya d'entrer dans les même dispositions et réussit à la féliciter de l'oeuvre qu'on lui avait assignée, mais la pensée dominante en son esprit ne pouvait être bannie si aisément, et il avoua:
 
-- Je suis affligé, Marjorie...
+\- Je suis affligé, Marjorie...
 
 Instantanément, le visage de Marjorie devint grave. Jimmie poursuivit:
 
-- Auriez-vous vu Louise récemment?
+\- Auriez-vous vu Louise récemment?
 
-- Non, Jimmie, je ne l'ai pas vue. J'ai été si occupée. Puis, d'ailleurs, vous savez que je ne peux redescendre ainsi sur le plan terrestre. Le seul moment où il m'est possible de voir quelques-uns de mes anciens amis est la nuit, lorsqu'ils viennent ici dans leur sommeil, mais bien souvent ils oublient de venir. Je suis certaine que rien ne vous afflige sérieusement. Puisque vous et Louise êtes tous deux sur le plan physique, il ne vous est pas difficile d'aller la voir si vous le désirez. Il est heureux pour vous que je veuille bien oublier immédiatement votre question. Mais si vous aviez posé cette question de pure curiosité au Frère Aîné, qu'aurait-il pensé?
+\- Non, Jimmie, je ne l'ai pas vue. J'ai été si occupée. Puis, d'ailleurs, vous savez que je ne peux redescendre ainsi sur le plan terrestre. Le seul moment où il m'est possible de voir quelques-uns de mes anciens amis est la nuit, lorsqu'ils viennent ici dans leur sommeil, mais bien souvent ils oublient de venir. Je suis certaine que rien ne vous afflige sérieusement. Puisque vous et Louise êtes tous deux sur le plan physique, il ne vous est pas difficile d'aller la voir si vous le désirez. Il est heureux pour vous que je veuille bien oublier immédiatement votre question. Mais si vous aviez posé cette question de pure curiosité au Frère Aîné, qu'aurait-il pensé?
 
 Son visage s'éclaira et elle recommença à se moquer de lui, mais elle l'avait tout de même un peu choqué.
 
-- Marjorie, j'envie ces petits enfants. Un de ces jours, si je le peux, je reviendrai voir votre classe. Maintenant, je vais repartir et tenir compte de votre avis car vous m'avez aidé plus que vous ne le croyez peut-être, et plus que je ne l'attendais. Vous êtes une chère, véritable amie, Marjorie.
+\- Marjorie, j'envie ces petits enfants. Un de ces jours, si je le peux, je reviendrai voir votre classe. Maintenant, je vais repartir et tenir compte de votre avis car vous m'avez aidé plus que vous ne le croyez peut-être, et plus que je ne l'attendais. Vous êtes une chère, véritable amie, Marjorie.
 
 Après avoir réintégré son corps physique, Jimmie repassa dans son esprit les paroles de la jeune fille et comprit mieux combien son égoïsme l'avait égaré. "Curiosité!" Une "question de pure curiosité!" Certainement, c'en était une. La seule chose défendue, il l'avait accomplie. Et sans le repousser ni insister sur sa faute, elle lui avait gentiment, avec indulgence, indiqué son erreur. Il se promit de ne jamais renouveler à l'avenir une telle faute, ni oublier le grand mot d'ordre "Service".
 
-- Mère, je peux voir! Oh! Maman, Maman! Je vois!
+\- Mère, je peux voir! Oh! Maman, Maman! Je vois!
 
-- Vous le pouvez, chérie! Est-ce sûr? Ne fatiguez pas vos yeux! Rappelez-vous ce qu'a ordonné le docteur, et laissez-moi vous remettre le bandage.
+\- Vous le pouvez, chérie! Est-ce sûr? Ne fatiguez pas vos yeux! Rappelez-vous ce qu'a ordonné le docteur, et laissez-moi vous remettre le bandage.
 
-- Non, non. Je ne veux pas porter plus longtemps cet affreux pansement. Je peux voir, je vous assure. J'ai vu le vieux pin sur la crête aussi bien qu'autrefois. Ne me remettez pas le pansement, je vous en supplie! Je garderai les yeux fermés, et ce sera tout aussi bien. Je vous le promets vraiment, sincèrement, et je vais aller faire une petite promenade, toute seule. Je vous promets encore de ne pas regarder beaucoup, de tenir mes yeux clos la plupart du temps.
+\- Non, non. Je ne veux pas porter plus longtemps cet affreux pansement. Je peux voir, je vous assure. J'ai vu le vieux pin sur la crête aussi bien qu'autrefois. Ne me remettez pas le pansement, je vous en supplie! Je garderai les yeux fermés, et ce sera tout aussi bien. Je vous le promets vraiment, sincèrement, et je vais aller faire une petite promenade, toute seule. Je vous promets encore de ne pas regarder beaucoup, de tenir mes yeux clos la plupart du temps.
 
-- Vous êtes une enfant capricieuse! N'y allez pas! Laissez-moi plutôt vous remettre votre bandage et allongez-vous un instant.
+\- Vous êtes une enfant capricieuse! N'y allez pas! Laissez-moi plutôt vous remettre votre bandage et allongez-vous un instant.
 
-- Rappelez-vous, Maman, que je suis infirmière et possède quelques connaissances. Je n'abîmerai pas mes yeux du tout, mais j'irai faire cette petite promenade, Maman, sinon je crois que je vais mourir ! Je connais le chemin les yeux bandés, aussi n'aurais-je besoin de regarder que très peu.
+\- Rappelez-vous, Maman, que je suis infirmière et possède quelques connaissances. Je n'abîmerai pas mes yeux du tout, mais j'irai faire cette petite promenade, Maman, sinon je crois que je vais mourir ! Je connais le chemin les yeux bandés, aussi n'aurais-je besoin de regarder que très peu.
 
-- Où voulez-vous aller?
+\- Où voulez-vous aller?
 
-- Seulement jusqu'au vieux pin sur la crête, et je reviendrai aussitôt. Je connais le chemin dans l'obscurité. J'irai seule toucher le vieil arbre, je serai tellement heureuse!
+\- Seulement jusqu'au vieux pin sur la crête, et je reviendrai aussitôt. Je connais le chemin dans l'obscurité. J'irai seule toucher le vieil arbre, je serai tellement heureuse!
 
-- Bien, très bien, mais n'allez pas plus loin, où je vous rejoindrai. Surtout n'essayez pas d'ouvrir les yeux, ils sont trop faibles encore.
+\- Bien, très bien, mais n'allez pas plus loin, où je vous rejoindrai. Surtout n'essayez pas d'ouvrir les yeux, ils sont trop faibles encore.
 
 Le soleil brillait au-dessus de la petite maison où avait lieu cette conversation, imprégnant la campagne riante de toute sa gloire estivale. Ses rayons, jouant à travers les arbres, faisaient des taches d'or sur le sol, et communiquaient aux maisons un relief aussi pittoresque qu'inattendu. Et par dessus tout le grand pin dressait sa fière tête plusieurs fois centenaire se détachant sur le fond des masses boisées.
 
@@ -1622,11 +1502,11 @@ Maintenant, le chapeau de soleil se trouvait tout près de l'arbre, prêt sans n
 
 Cet après-midi là, ils s'assirent ensemble sous la véranda et les choses devinrent plus claires. Jimmie voulait tout d'abord se faire conduire à la maison, mais il avait changé d'idée et décidé d'aller à pied.
 
-- Et voyez-vous, j'allais justement prendre la grand'route, lorsque l'un de mes petits amis, Vif-Argent, sortit des bois, m'appela et me montra l'allée.
+\- Et voyez-vous, j'allais justement prendre la grand'route, lorsque l'un de mes petits amis, Vif-Argent, sortit des bois, m'appela et me montra l'allée.
 
-- Vif-Argent, Vif-Argent, dit Louise, amusée, mais je ne connais personne portant ce nom.
+\- Vif-Argent, Vif-Argent, dit Louise, amusée, mais je ne connais personne portant ce nom.
 
-- Non, ceci est une autre histoire que je vous conterai un de ces jours, mais Vif-Argent pensait qu'il me devait un bon service et m'a parfaitement payé sa dette.
+\- Non, ceci est une autre histoire que je vous conterai un de ces jours, mais Vif-Argent pensait qu'il me devait un bon service et m'a parfaitement payé sa dette.
 
 Louise avait aussi une histoire à conter. On avait un grand besoin d'infirmières, et elle avait été envoyée dans un cantonnement tout près du front, qui devait servir d'hôpital, où docteurs et infirmières travaillaient jusqu'à la limite de leurs forces. Une nuit, un avion ennemi avait lâché un certain nombre d'engins sur l'établissement et l'un d'entre eux était tombé près de Louise, tandis qu'elle essayait d'aider les blessés à gagner l'abri où ils devaient être mieux protégés. Un grand éclair, un bruit violent, un souffle brutal au-dessus de sa tête, et elle perdit connaissance jusqu'au moment où elle s'éveilla enfin dans un hôpital, à Paris, pour trouver ses yeux étroitement bandés et sa vue presque complètement disparue.
 
@@ -1636,15 +1516,10 @@ La défiguration guérit par un traitement approprié, mais la faiblesse visuell
 
 Mais ces derniers jours, elle avait pu discerner une petite lumière, et ce matin ayant tranquillement enlevé le bandage, elle s'était aperçue que, quoique brouillée, faussée encore, sa vue revenait.
 
-- Et... Oh! Dieu est bon pour moi, Jimmie. Il m'a rendu la vue, et Il m'a donné autre chose bien plus précieux et digne que cela.
+\- Et... Oh! Dieu est bon pour moi, Jimmie. Il m'a rendu la vue, et Il m'a donné autre chose bien plus précieux et digne que cela.
 
-- Quoi donc?
+\- Quoi donc?
 
-- Aimeriez-vous le savoir?
+\- Aimeriez-vous le savoir?
 
 Ce récit n'est pas seulement une histoire d'amour, mais une histoire du Pays des Morts Vivants. Alors, comment les séparer? Car tout l'amour vient de Dieu dont le nom est Amour, et pour ceux qui font Sa volonté, il n'est rien dans l'univers, dans ce monde ou dans l'autre, qui ne soit Amour. Il y a le sacrifice et le service, mais ils sont les témoignages de l'Amour, le montrant lui-même en action. Au Pays des Morts Vivants l'Amour existe aussi, et aucune histoire de ce pays ne peut être réelle si elle n'y présente pas l'Amour qui vibre et palpite à travers ces mondes merveilleux. Et même dans les royaumes des ténèbres dont il n'a pas été parlé ici, filtre une faible lumière, et la souffrance actuelle n'est autre que la préparation pour l'Amour qui, un jour, emplira tout l'Univers, lorsque la connaissance de Dieu couvrira la Terre comme les eaux couvrent les abîmes de la mer.
-
-
-  		Table des Matières
-
-
