@@ -1,0 +1,1962 @@
+---
+title: "Estudios de Astrología - Volumen III"
+language: "es"
+original_title: "Studies in Astrology - Volume III"
+original_language: "en"
+author: "Elman Bacher"
+original_source_file: "studies-in-astrology-volume-3.md"
+---
+
+<h1 id="studies-in-astrology-volume-3">Elman Bacher – Estudios de Astrología III</h1>
+
+by Elman Bacher
+
+### <h3 id="table-of-contents">Índice</h3>
+
+- [Capítulo I: El Astrólogo](#chapter-1)
+- [Capítulo II: El Mandala Astrológico](#chapter-2)
+- [Capítulo III: Astrología de Luz Blanca](#chapter-3)
+- [Capítulo IV: El Astrólogo trata sobre la Enseñanza](#chapter-4)
+- [Capítulo V: El Ascendente](#chapter-5)
+- [Capítulo VI: La Segunda Casa](#chapter-6)
+- [Capítulo VII: La Quinta Casa](#chapter-7)
+- [Capítulo VIII: La Octava Casa](#chapter-8)
+- [Capítulo IX: Retrogradación Planetaria](#chapter-9)
+
+### <h3 id="chapter-1">Capítulo I: El Astrólogo</h3>
+
+El astrólogo pertenece a uno de tantos grupos de personas que motivadas por el
+amor impersonal procuran incrementar el mejoramiento de las condiciones humanas. El ha
+alcanzado un grado de desarrollo en que sus recursos internos destilados de encarnaciones
+pasadas son de tal cualidad y esfera que es preciso sean divulgados; en otras palabras, una
+parte de su conciencia ya no puede encontrar satisfacción en los niveles de experiencia
+puramente personales o biológicos. (Desde luego, su servicio impersonal es una expresión
+de su desarrollo y experiencia como un ser humano; pero sus propósitos son para el mundo
+de los seres humanos en conjunto).
+
+Consideremos al astrólogo a la luz de los “diseños astrológicos”:
+
+En un círculo en blanco trace los diámetros horizontal y vertical. La cruz formada
+por estas dos líneas simboliza la seidad humana del Astrólogo: Un hombre - o una mujer -
+encarnado con propósitos de desenvolvimiento tratando con problemas, pruebas y
+tentaciones como hace cualquier otro; tal vez sujeto a una o muchas clases de pruebas a
+través del sufrimiento. Todo esto atañe a su parte personal, pero cuando añadimos la
+cúspide de la novena casa a este “patrón de la cruz” vemos que el astrólogo emerge de la
+limitación de un mero ser humano. El símbolo de Júpiter colocado en la novena casa de
+este diseño describe su identidad esencial: Él es “hermano mayor” y maestro.
+
+En su seidad humana sobre este plano, él es hermano de todos los que vienen a él en
+busca de orientación. Él reconoce que huella los mismos senderos esenciales que los
+demás; pero lo que lo diferencia de ellos es el compuesto de su cualidad amorosa
+impersonal, su margen de comprensión de las condiciones humanas y sus facultades
+mentales abstractas. Este compuesto eleva su conciencia a un nivel que trasciende las
+motivaciones biológicas básicas del pensamiento y el sentimiento; él ve a través de los
+conceptos de raza, religiones de grupo, castas, moldes de familia, patrones de relación
+física y aún del sexo mismo. Su acercamiento a sus “hermanos y hermanas menores” se
+basa en el estudio y comprensión de los patrones vibratorios de éstos - en otras palabras,
+sus conciencias.
+
+Su estudio fundamental es el de la naturaleza vibratoria de la entidad que llamamos
+humanidad en sus miríadas de expresiones y variaciones, manifestadas por impresiones y
+sentimientos subconscientes, gustos emocionales, cualidades y condiciones físicas y
+patrones de reacción a todos los departamentos de experiencia y de relación comunes a
+todos los seres humanos en su progreso evolutivo. La humanidad no solo es una familia - es
+una cosa, un patrón particular de expresión de la vida.
+
+El astrólogo es desde luego, una faceta de esa cosa; pero por la percepción y el
+entendimiento, él está en relación con la mayor parte de las otras facetas de esa cosa como
+está una persona en la ama de una montaña con aquellos que escalan la misma montaña o
+con aquellos que permanecen aún abajo en el valle. Él ya ha destilado, en su nivel evolutivo
+particular, algo que los trepadores en la falda de la montaña y aquellos en el valle están
+destilando: Conciencia de principios universales y su expresión a través de los procesos de
+la vida humana. Él a su vez tiene aún montañas delante, y hay otros que han alcanzado
+atalayas que están más altas que el punto ocupado por él ahora. Pero la conciencia
+impersonal es el denominador común de todos ellos. Esa es la esencia de la fraternidad que
+lo relaciona con aquellos que aún están trepando y los que van en su delantera. Él es
+hermano mayor para los primeros y hermano menor para los que van adelante. Pero todos
+ellos son hermanos para los que permanecen en los valles de conciencia puramente
+biológica y materialista.
+
+La novena casa simboliza en nuestro diseño, el aspecto de conocimiento o sabiduría
+del astrólogo; su aspecto de amor está señalado por la undécima casa. Agregue al diseño el
+símbolo de Acuario sobre la cúspide de la undécima casa y coloque el símbolo de Urano en
+esa casa; sombree la novena y undécima casas para que sobresalgan del resto de la rueda;
+conecte estas dos casas añadiendo las líneas de las cúspides de la tercera y quinta casas, así
+indicando un compuesto de dos patrones de polaridad:
+(1) El conocimiento elevado a su expresión trascendente de la sabiduría destilada de
+la experiencia;
+(2) El amor personal, como expresión creadora, elevado a su nivel espiritualizado del
+amor impersonal infinito a la humanidad - prescindiendo de los niveles de manifestación y
+de desarrollo de esta última.
+
+El aspecto amoroso de la conciencia del astrólogo - designado por la undécima casa
+y la esencia vibratoria de Urano - es la culminación de todas las casas de relación y la más
+espiritualizada expresión de los signos de aire. La casa undécima es la Relación Humana en
+su expresión más proteica. Ella es la destilación de todos los patrones de relación - el poder
+del amor en su expresión como las “aguas de Vida”, la panacea de toda experiencia
+emocional, la meta final de todo amor humano -. Nosotros llamamos a este estado
+“Amistad” - la esencia de lo mejor que puede derivarse de la convivencia de la gente, no
+importa quien o lo que puedan ser ellos como individuos -.
+
+Este aspecto de amor es por su propia naturaleza, la esencia fundida de los aspectos
+de amor de ambos sexos - o polaridades -. El astrólogo ha destilado hasta cierto punto por
+medio de su experiencia intensificada de encarnaciones pasadas, la comprensión de las
+características concernientes a los atributos masculinos y femeninos. Para cumplir su
+servicio él debe estar capacitado para penetrar en los problemas de los hombres y las
+mujeres y percibir los rumbos de la regeneración y la corrección.
+
+La conciencia del astrólogo con respecto a este aspecto de amor, puede ser
+delineada más claramente por medio de otro diseño. (El que hemos estado considerando se
+refiere más particularmente a los rumbos evolutivos o senderos que deben atravesarse por
+uno que busca rendir servicio a través de la interpretación astrológica). El florecimiento de
+la conciencia amorosa del astrólogo es indicado por una rueda en blanco en la que las
+cúspides de la tercera, séptima y undécima casas son conectadas por líneas rectas formando
+un triángulo equilátero. Es interesante que un punto del triángulo - la tercera cúspide - está
+en el hemisferio inferior o hemisferio de la conciencia del ego; la séptima cúspide marca un
+punto de equilibrio, siendo opuesta al Ascendente; la undécima cúspide, representando el
+nivel de conciencia de relación más alto, está en el hemisferio superior, o hemisferio de la
+conciencia anímica. Hay un elemento - un denominador común - de “fraternidad”,
+enlazando estas tres casas entre sí. La tercera casa es, en niveles biológicos, “hermanos y
+hermanas”; en una expresión más impersonal, ella es los “parientes y vecinos”; aún más
+impersonal, son los “condiscípulos” - personas de cualquier edad o condición que están
+aprendiendo de la misma fuente de conocimientos, o que se están espiritualizando por la
+misma interpretación religiosa o filosófica -. La séptima casa es la relación fraternal de una
+persona - o conciencia - con una expresión complementaria - sexual o vibratoria -. La
+“fraternidad del matrimonio” puede describirse de esta manera: Un hombre y una mujer
+desempeñan en la convivencia, la progresión de la vida en experiencia amorosa y
+procreación. Marido y mujer, en este servicio de la vida, son verdaderamente hermano y
+hermana como una expresión de la conciencia de la tercera casa intensificada por los
+poderes compuestos de la atracción del deseo y la liberación del amor. La undécima casa,
+en el hemisferio de la conciencia anímica, es la trascendencia de los dos primeros puesto
+que ella es la conciencia de amor expresada hacia la entidad completa que llamamos
+humanidad y no está limitada en su expresión por estar confinada a una sola parte - o a
+partes selectas - de esa entidad como su objeto.
+
+Por lo tanto el astrólogo de motivación espiritual debe mantenerse como un símbolo
+viviente de ese amor que no reconoce barreras ni limitaciones de ninguna clase, para su
+expresión.
+
+Consideremos ahora un diseño que pueda tomarse como la representación de un
+retrato simbólico del astrólogo en sus factores compuestos de conciencia humana y
+conciencia espiritual. Utilizando una rueda con las casas en papel blanco, llene las primeras
+seis casas con un color oscuro-pardo, azul, etc., llene la séptima y octava casas en rojo -
+simbolizando los “fuegos” de la relación y la regeneración; las restantes cuatro casas
+quedarán en blanco - símbolo de la conciencia espiritualizada. El cuadro resultante es el de
+un ser humano cuyos elementos vibratorios y ambientales son esencialmente los mismos de
+cualquier otra persona; el ha experimentado gran desarrollo a través de la transmutación de
+sus vibraciones inferiores por los poderes espiritualizantes del idealismo, el amor, el
+servicio, el sacrificio, la autodisciplina y el cumplimiento de la responsabilidad. El ha sido
+muchas cosas - como trabajador; él ha realizado la mayor parte de los patrones de
+experiencia en la relación amorosa - como varón y como hembra; él es - o ha sido - algo de
+artista porque sus percepciones mentales incluyen un entendimiento de lo simbólico y de lo
+abstracto. El está consciente del drama de la vida y es sensible a los matices de los
+pensamientos y sentimientos humanos tal como se presentan en los problemas que él
+estudia. El conoce el mal; pero su mente y su corazón están puestos en el bien. El estudia
+problemas para cumplir el propósito de encontrar sus soluciones. Como su motivación es
+amorosa él irradia estimulo, neutraliza el temor, ilumina la conciencia de sus hermanos y
+hermanas poniéndolos alerta de sus fuerzas y poderes. El es - y sé da cuenta que es - una
+“puerta abierta” a través de la cual todos aquellos que lo deseen pueden pasar de la
+oscuridad de sus patrones irredimidos a la luz del conocimiento propio. El no aprueba ni
+rechaza nada de lo que ve en cualquier horóscopo - él mantiene el sentimiento personal
+fuera del cuadro - porque reconoce que todo mapa es una representación del bien por llegar
+a ser.
+
+Con respecto al cliente que pide su ayuda lo vemos representado por este diseño:
+Una rueda con las primeras seis casas coloreadas o sombreadas, las seis casas superiores
+quedando en blanco. En este diseño las casas inferiores sombreadas representan al cliente
+con su problema; las casas en blanco representan al astrólogo y su conciencia
+espiritualizada. Todos los problemas humanos están arraigados en expresiones irredimidas
+de las primeras seis casas; ellos son traídos a su foco más intenso a través de la acción
+compuesta de la séptima y octava casas y las soluciones son encontradas en los poderes
+regeneradores de las últimas cuatro casas. En este diseño el astrólogo refleja las
+potencialidades regeneradoras del cliente. De este modo él está representado como el otro
+yo, o yo superior del cliente. La acción magnética del poder amoroso atrajo el cliente al
+astrólogo, que está pendiente de auxiliar a todos los que lo necesitan y por los poderes
+destilados de su conciencia regeneradora, él está capacitado para estudiar el mapa del
+cliente y de arrojar un rayo de luz hacia los rincones obscuros y percibir el correctivo
+espiritual necesitado para la conciencia del cliente hacia su problema.
+
+El astrólogo, que está en contacto con el cliente, tiene la responsabilidad de
+descartar todos los patrones de perturbación personal mientras lleva a cabo la tarea de leerle
+el horóscopo. Él debe ser el hemisferio blanco y en el caso que esté tratando con una
+perturbación personal profunda seria mejor plan diferir la lectura hasta que él pueda
+establecer el equilibrio interno. Reconociendo la cualidad impersonal de su servicio, él sabe
+que él es un instrumento por el cual lo bueno del cliente se pone de manifiesto y él no tiene
+realmente ningún derecho de imponer al ya perturbado o aprensivo cliente sus propias
+fricciones internas. Su responsabilidad es reflejar la luz, claramente, poderosamente y
+firmemente.
+
+Ya que todas las formas de servicio acarrean ciertos patrones característicos de
+prueba para los aspirantes, sería bueno considerar alguna de las pruebas principales que
+tarde o temprano habrán de encararse por todos los astrólogos.
+
+La gran responsabilidad del astrólogo es mantener su punto de vista libre de todo
+falso reclamo de orgullo y exceso de poder. Estas tentaciones son muy sutiles y pueden ser
+muy difíciles de notarse conscientemente. Para leer un horóscopo sensiblemente pone en
+las manos del astrólogo cierto poder sobre la mente y emociones de su cliente; el último
+siendo hasta cierto punto dependiente del astrólogo, puede tender a sentir y expresar cierta
+reverencia hacia el astrólogo que puede ser muy lisonjera a su conciencia humana. El
+astrólogo debe mantener respeto a su propia instrumentación; si lo hace no caerá en la
+trampa de permitir que su habilidad se convierta en fuente de halago a vanidades latentes;
+él por el contrario la dejará permanecer como una “vela ardiendo brillantemente en el altar
+del servicio espiritual”.
+
+El astrólogo sirve mejor si puede mantener el rendimiento de su servicio libre de
+todo reclamo limitador de remuneración financiera. Si él puede ganarse la vida de otro
+modo y hace su trabajo astrológico como una expresión creadora, él tiene una oportunidad
+mucho mejor de mantener sus canales abiertos y despejados. El cliente tiene perfecto
+derecho de compensar si así lo desea, ya que él quiere establecer el equilibrio en relación
+con el astrólogo por lo que él considere recto intercambio y para expresar su aprecio. No
+obstante, la remuneración financiera no se debe dejar convertir en un factor estático para el
+astrólogo si éste ha de mantenerse como un símbolo de ofrenda universal. Desde el
+momento en que él establece un plan de cargo específico por sus servicios se arriesga a
+aislarse de mucha gente que puede necesitar su ayuda; pero que no la pueden pedir porque
+no pueden pagarla. En resumen, el astrólogo que mantiene sus canales de servicios abiertos
+y libres es el que sirve mejor, más completamente, más felizmente y más espiritualmente.
+
+### <h3 id="chapter-2">Capítulo II: El Mándala Astrológico</h3>
+
+Un mándala es un diseño abstracto utilizado por el artista creador para la
+concentración y la meditación. El mándala pinta la esencia de un concepto artístico;
+mediante la meditación sobre éste el artista concentra sus facultades inspiradoras a las
+cuales da forma posteriormente por medio de la pintura, la escultura o cualquier medio que
+use el artista para su expresión.
+
+El astrólogo es un artista interpretador cuyo mándala esencial es el diseño conocido
+comúnmente como el horóscopo natural. Coloque en una rueda, los símbolos de los signos
+zodiacales sobre las cúspides en el orden corriente, empezando con Aries en la cúspide del
+Ascendente, Tauro en la segunda, etc. Entonces ponga los símbolos del Sol, la Luna y los
+planetas en los signos y casas de su dignidad: Marte en Aries, primera casa; Venus en
+Tauro y en Libra, segunda y séptima casas; Mercurio en Géminis y Virgo, tercera y sexta
+casas; la Luna en Cáncer, cuarta casa; el Sol en Leo, quinta casa; Plutón en Escorpión,
+octava casa; Júpiter en Sagitario, novena casa; Saturno en Capricornio, décima casa; Urano
+en Acuario, undécima casa; Neptuno en Piscis, duodécima casa.
+
+El autor considera que el diseño resultante de la ubicación de estos símbolos
+alrededor de un círculo conteniendo doce secciones iguales, es el mándala más grande
+creado por la mente del hombre. Es el símbolo compuesto de la naturaleza vibratoria de la
+entidad que llamamos humanidad. El horóscopo calculado para la encamación de cualquier
+ser humano es una variación de este mándala; los mismos elementos esenciales se
+encuentran en todo horóscopo humano, cualificado en sus cálculos sólo por las
+especializaciones de fecha, hora y lugar de nacimiento.
+
+Este “Gran Mándala”, como lo llamaremos, es un símbolo compuesto de tal
+magnitud y complejidad que la imaginación se hace vacilante en su contemplación. Es
+bueno crear el mándala paso a paso desde su comienzo:
+
+En una hoja de papel en blanco calcule el centro exacto y ponga ahí un punto. Este
+punto es el símbolo de la Conciencia que hace posible la manifestación de una galaxia, de
+un sistema solar o la encamación de un ser humano. Es el símbolo esencial de la “seidad”
+en todos los planos.
+
+Trace un línea vertical a través del punto a todo lo largo del papel; esta línea
+representa el principio dinámico, vigorizante de la Naturaleza - el símbolo de la generación
+cósmica, la “seidad” en el proceso de tomar forma, el símbolo esencial del sexo masculino-.
+Ahora trace levemente una línea horizontal a través del punto a todo lo ancho del papel;
+esta línea es el aspecto subjetivo de la “seidad”, el símbolo esencial de la Forma misma, el
+principio femenino de la Naturaleza - aquello que es vigorizado o sobre lo cual se actúa -.
+El cuadro representa hasta aquí una irradiación desde un punto central - la Conciencia, un
+compuesto de los principios dinámicos y subjetivos, las líneas de fuerza esenciales por las
+cuales se efectúa la manifestación, el patrón de la cruz que representa el símbolo eterno de
+a “seidad objetivada” -. Esta parte del diseño - un abstracto geométrico - puede
+denominarse el mándala básico y puede ser utilizado para la meditación por todos los
+astrólogos. Él es el esqueleto de toda la estructura horoscópica, la representación de la
+Paternidad-Maternidad de Dios y el símbolo esencial del sexo cósmico que resulta en la
+manifestación física.
+
+Existe algo indefinido acerca de la apariencia del mándala básico antes descrito; las
+líneas desde el punto central pueden extenderse indefinidamente - de este modo, se
+transmite una impresión de caos o algo sin forma -. Como quiera que la manifestación
+(encarnación) sirve el propósito de la evolución y las fuerzas evolutivas siempre requieren
+formas específicas como instrumentos, nosotros ahora damos el siguiente paso para crear
+un campo de propósitos evolutivos en nuestro mándala básico.
+
+Con la punta de un compás en el punto descrito, trace, un círculo cuya
+circunferencia por supuesto interceptará dos veces las líneas: vertical-dinámica y la
+horizontal-subjetiva. Como todos los puntos en la circunferencia de un círculo están
+equidistantes del centro, nosotros ahora hemos creado simbólicamente un campo perfecto
+designando un instrumento para las fuerzas evolutivas; todos los cuatro sectores del círculo
+son iguales en área como los son los hemisferios superiores en inferior y los dos laterales o
+verticales.
+
+Borre ahora las líneas leves fuera del círculo, intensifique la circunferencia del
+círculo y las líneas vertical y horizontal dentro de éste. El resultado puede denominarse el
+“Mándala de la Encarnación”. Su forma es definida - una cosa encerrada en la que pueden
+operar ciertas especializaciones de las fuerzas evolutivas -. Este Mándala de la Encarnación
+puede usarse como un punto focal para la meditación desde dos puntos de vista: (1) Desde adentro hacia afuera y (2) desde afuera hacia adentro.
+El astrólogo debe hacer su habilidad interpretadora de tal flexibilidad que nunca
+pierda de vista la significación espiritual de cualquier mapa que estudie.
+
+(1) Desde adentro hacia afuera: La Voluntad creadora de Dios expresándose a través
+de una manifestación específica para propósitos evolutivos, la espiritualidad esencial de
+toda manifestación; la chispa de Dios inherente en la conciencia de todo ser humano
+irradiando en todo factor de la experiencia del individuo.
+
+(2) Desde afuera hacia adentro: El Amor Divino y la Sabiduría Divina cobijando e
+interpretando todo, punto de manifestación; estando la manifestación “encerrada dentro de
+los Brazos Divinos y Siempre a la vista de los Ojos Divinos”; el ser humano mira en su
+conciencia para buscar la fuente de sus condiciones y los canales para sus mejores
+expresiones; él se vuelve hacia adentro para darse cuenta de sus poderes y potencialidades;
+su conciencia es reflejada por su condición externa - las irradiaciones desde el Centro - pero
+el Centro permanece eternamente el origen de todo lo que él experimenta. La “Vida” de un
+horóscopo está dentro de la circunferencia, no fuera de ella; por lo tanto, nosotros no
+encontramos nuestras soluciones esenciales fuera de nosotros mismos, sino en nuestra
+expresión particular de la Conciencia Eterna y nuestra percepción cada vez más profunda
+de ella.
+
+Aunque parece sencillo, el circulo con su división en cuadrantes por dos líneas
+rectas es un mándala de enorme complejidad. Si consideramos que el círculo mismo es
+activado al ser bisecado por la línea horizontal, los dos hemisferios mismos resultantes de
+esta bisección son indiferenciados e inactivados; su activación se hace posible por la línea
+vertical.
+
+Cada bisección simboliza el Principio Cósmico de Dualidad - “duo-unicidad” -. Lo
+“Dinámico” y “Subjetivo” son atributos inherentes de cualquier parte de cualquier
+manifestación. Como tales estas dos palabras en conjunto, son expresadas por la palabra
+“sexo” cuando se refieren a la Vida encarnada. El sexo, activado es generación y
+regeneración - la progresión de la Vida -. Cualquiera de los dos pares de hemisferios en
+contigüidad resulta en el Uno compuesto, ninguno de los cuales puede representar la Vida
+funcionando creadoramente sin la ignición “friccional” del otro par. Para la meditación
+trace círculos con estas bisecciones representadas individualmente; cada par de hemisferios
+puede tomarse como la imagen de una expresión de generación cósmica.
+
+Ahora se le dará abstractamente dimensión adicional a la representación plana, de
+dos dimensiones del círculo cuadrado.
+
+El Mándala de la Encarnación es una matriz esencial; pero la encarnación implica la
+expresión de esa matriz en forma física. Los términos longitud, altura y fondo son
+generalmente tomados como tres expresiones diferentes de dimensión física. Cuando
+consideramos que toda manifestación física es tridimensional comprendemos que la
+longitud, altura y fondo son tres atributos de una dimensión esencial - la dimensión de la
+manifestación física -. Cada uno de los cuatro cuadrantes del Mándala de la Encarnación es
+un nivel especializado de Conciencia, y correspondientemente, de experiencias. Como
+quiera que la experiencia es reflejada en la dimensión de la manifestación física e
+interpretada por la conciencia, le aplicaremos el principio de tres dimensiones en una al
+Mándala de la Encarnación.
+
+Desde el centro del círculo o por cuatro diámetros más de polaridad, subdividido
+cada cuadrante en tres secciones iguales. Esta acción es la división dúo-décupla de la rueda
+que nosotros usamos como las casas ambientales del horóscopo. Las tres dimensiones de
+cada sector no son largo, altura y fondo, sino que son en términos de los signos,
+dimensiones de conciencia reflejadas por las casas como dimensiones de experiencia.
+
+La dimensión de la primera casa de cada cuadrante (primera, cuarta, séptima y
+décima casas) es la declaración del Ser - el “Yo Soy”: Primera casa, yo soy un individuo;
+cuarta casa, yo soy un aspecto individual de una entidad llamada grupo de familia o
+conciencia de familia; séptima casa, yo soy uno de los dos factores de un patrón de relación
+emocional intensamente enfocado; décima casa, yo soy un aspecto individual de la entidad
+llamada humanidad.
+
+La dimensión de la segunda casa de cada cuadrante (segunda, quinta, octava y
+undécima casas) es la posesión de recurso emocional por la cual es sostenida la vida de la
+casa previa cardinal. Segunda casa, mi vida física es sostenida materialmente por el
+ejercicio de mi conciencia de posesión o mayordomía y por intercambio con otras personas;
+quinta casa, mi conciencia de familia sostenida por las liberaciones de mi recurso de amor
+creador; octava casa, mi conciencia de relación es sostenida por la transmutación de mis
+fuerzas de deseo a través del ejercicio de mi conciencia amorosa en intercambio emocional
+con mis complementos; undécima casa, mi identidad como un aspecto de la entidad
+universal - la humanidad - es sostenida por el ejercicio de mi conciencia amorosa
+impersonal, espiritualizada.
+
+La dimensión de la tercera casa de cada cuadrante (la tercera, sexta, novena y
+duodécima casas) es la destilación impersonal de las dos casas previas. Tercera casa:
+facultades intelectuales por las cuales yo identifico el mundo de las formas; sexta casa, mi
+creación expresada como servicio a la vida mediante lo mejor que pueda como trabajador;
+novena casa, sabiduría – comprensión espiritual - destilada de la regeneración del deseo a
+través de la relación amorosa; casa duodécima, mi conciencia de servir universalmente, mis
+redenciones necesitadas de la encarnación anterior que ha impelido la presente, el grado de
+conciencia cósmica destilado del cumplimiento perfecto de todas las responsabilidades a
+través del amor espiritualizado.
+
+La dimensión trina es expresada con respecto a la rueda en conjunto por los “gran
+trinos”; los triángulos equiláteros que se forman conectando las cúspides de: 1) la primera,
+quinta y novena casas; 2) la segunda, sexta y décima casas; 3) la tercera, séptima y
+undécima casas; y 4) la cuarta, octava y duodécima casas. Estos trinos pertenecen
+respectivamente, a los cuatro elementos: 1) Fuego: Espíritu; 2) Tierra: Conciencia de
+evaluación de las formas; 3) Aire: Conciencia de identificación y relación; 4) Agua:
+Respuesta emocional - el principio de la vibración simpática.
+
+Se sugiere aquí unos patrones de mándala básicos:
+
+(1) Doce ruedas, cada una con los signos en las cúspides en orden, cada una con un
+Ascendente diferente; cada uno de estos mándalas puede ser utilizado para la meditación,
+en las cruces cardinal, tija y común, en los trinos de fuego, de tierra, de aire y de agua, y los
+sectores de fuego-aire y tierra-agua.
+
+(2) Mándala planetario ambiental - un principio planetario expresándose a través de
+una casa particular - puede encontrarse en diez grupos de doce ruedas cada uno: Cada
+grupo pertenece a la ubicación de cada uno de los diez planetas (el Sol, la Luna y ocho
+planetas) en cada una de las doce casas, omitiendo la colocación de los signos.
+
+(3) Mándalas planetarios vibratorios pueden ser creados por medio de ruedas con los
+signos en las cúspides - colocando el planeta bajo consideración en cada uno de los doce
+signos y estudiarlo prescindiendo de la ubicación en la casa -.
+
+(4) Síntesis de los grupos 2 y 3: Mándalas para la meditación sobre la regencia del
+Ascendente: Doce ruedas con los signos en sucesión para cada uno de los diez planetas
+como regente del Ascendente - habiendo de colocarse el regente en cada una de las doce
+casas -.
+
+(5) Elaboración del número 4 en concepto de meditación sobre el regente del
+Ascendente por su ubicación por sector: (1) las casas primera, segunda y tercera; (2) las casas
+cuarta, quinta y sexta; (3) las casas séptima, octava y novena; (4) las casas décima, undécima
+y duodécima.
+
+Pueden extraerse mándalas simples y complejos de cualquier horóscopo natal. He
+aquí algunas sugerencias por las cuales el estudiante puede concentrar su habilidad
+sintetizante:
+
+(1) Tome de un mapa dado todos los planetas dignificados y colóquelos en una rueda
+con las posiciones de los signos natales en las cúspides; medite sobre la ubicación de estas
+esencias vibratorias concentradas en el sentido de la regencia de sus casas, casa de
+ubicación y sector o cuadrante de ubicación.
+
+(2) De un mapa natal dado, extraiga cualquier cuadratura u oposición específica y
+cualquiera de sus medios regeneradores (un planeta formando un trino o sextil con
+cualquiera de los planetas afligidos); medite sobre este mándala desde todo punto de vista
+posible que abra su conciencia a las pistas de alivio para el patrón afligido.
+
+(3) Se sugiere se extraiga el mándala de Saturno de todo mapa natal estudiado
+colocando a Saturno y todos los planetas que lo aspecten en una rueda con los signos en las
+cúspides. Interprete a Saturno como el principio del cumplimiento de responsabilidad, y
+medite sobre su significación en el mapa desde todos los acercamientos.
+
+(4) Los más importantes de todos los mándalas extraídos de un horóscopo natal son
+aquellos que pertenecen a la duodécima casa. En conjunto estos dan las pistas para el por
+qué y la razón de la encarnación presente. Se sugiere un mándala para ser aplicado a una
+rueda con cúspides de signo natal para factor aislado perteneciente a la casa duodécima del
+horóscopo natal: signo, casa y sector de ubicación del regente; colocación vibratoria y
+ambiental de cada planeta formando aspecto al regente; cada condición concerniente a
+cualquier planeta en la duodécima casa y por último, un mándala compuesto de los signos
+en la duodécima cúspide y el Ascendente, y la ubicación de sus regentes planetarios.
+
+### <h3 id="chapter-3">Capítulo III: Astrología de Luz Blanca</h3>
+
+La esencia del servicio espiritual de cualquier clase es efectuada por la persona que
+transmuta las áreas negativas de su propio subconsciente, fortalece y disciplina sus
+facultades mentales, mantiene su conciencia del corazón animada con el poder del amor y
+busca siempre percibir lo mejor en los otros. La percepción del bien verdadero o del bien
+potencial en los otros es una ignición que tarde o temprano hace posible la expresión de ese
+bien. La esencia del progreso evolutivo es la conciencia siempre en desarrollo del Bien;
+nosotros como individuos contribuimos al progreso de la raza en conjunto cuando, por
+medio de la conciencia regenerada, podemos alertar a otros al reconocimiento de sus más
+altas potencialidades para la realización de talentos y habilidades, la salud, el amor y el
+éxito en cualquier campo de actividad.
+
+El término “luz blanca” es una expresión simbólica de esta conciencia. El blanco es
+el compuesto de todas las refracciones del color; en su forma más pura representa el
+símbolo de la vibración de la conciencia que está centrada en Dios. Las refracciones de la
+luz blanca pueden mencionarse o considerarse como cualidades anímicas, correspondiendo
+espiritualmente con las variaciones encontradas en los espectros de los colores. Cada uno
+de estos colores manifiesta el principio de la diversidad como una expresión de unidad, en
+que cada cualidad tiene sus esferas vibratorias desde los aspectos irredimidos más
+primitivos a los más regenerados y altamente espiritualizados. Mientras mayor grado de
+pureza de los compuestos blancos luminosos, mejores expresiones vibratorias visuales
+como símbolo de conciencia perfeccionada.
+
+El astrólogo, en su estudio de horóscopos de seres humanos, está en realidad
+estudiando, analizando, sintetizando e interpretando patrones vibratorios de cualidades
+anímicas que representan todas las posibles esferas de desarrollo y su reflexión en el mundo
+de las formas, como patrones de experiencia. La conciencia artística del pintor por ejemplo,
+es reflejada por lo que aparece en sus lienzos; la del músico se manifiesta por lo que brota
+de su instrumento.
+
+El astrólogo, que también es un artista interpretador, expresa su conciencia por la
+manera en que interpreta los horóscopos de otros; los horóscopos son sus instrumentos -
+correspondientes al pincel, los colores y el lienzo del pintor, y al violín del músico -. La
+conciencia del bien, del astrólogo, corresponde al compuesto de las percepciones artísticas
+del interpretador estético. La inspiración es la ignición de todas las conciencias que están
+ajustadas a la verdad y a la belleza; para el astrólogo, esta ignición se hace posible cuando
+él carga su conciencia con el deseo de interpretar el horóscopo de acuerdo con lo mejor de
+todas sus potencialidades. Esto significa que él hace de su meta interpretativa fundamental
+la de alertar al cliente hada el reconocimiento de lo mejor y más fino de los tonos y colores
+anímicos de este último.
+
+La impersonalidad del servicio del astrólogo hace imperativo que cuando él está en
+su labor eleve su conciencia de los patrones degradantes de sentimiento y emoción
+personales. Sugerimos como técnica preparatoria para desarrollar esta facultad, la
+meditación sobre el mándala siguiente: un círculo en blanco, pero con un punto redondo en
+el centro exacto. Este mándala es la representación impersonal más perfecta que puede
+hacerse del horóscopo. No transmite patrón de experiencia, patrón emocional, ni tampoco
+fricción, pena ni dificultad. El punto en el centro puede representar el propósito de la tarea
+del astrólogo. Es de un solo punto, condensado e indiferenciado. Ese propósito ha de ser
+una fuente de iluminación espiritual para el cliente y cuando se enfoca y se concentra la
+meditación misma sobre ese propósito las degradaciones personales se desvanecen de la
+conciencia del astrólogo. De esta manera, el astrólogo se hace “luz blanca”, su siguiente
+paso es hacer “luz blanca” a su cliente. Él lo hace añadiendo al mándala mencionado los
+diámetros vertical y horizontal; el resultado es el retrato más abstracto e impersonal que
+puede hacerse de un ser humano. Este mándala es un cuadro compuesto de la conciencia
+espiritual - el punto central; el estado de encarnación física es la cruz formada por las líneas
+rectas, y la envoltura del círculo perfecto es el poder divino, el amor divino y la sabiduría
+divina. El mándala representa a un ser humano que está consciente de su origen espiritual y
+de la espiritualidad de la encarnación. La conciencia de luz blanca del astrólogo hacia el
+cliente se despliega mediante la meditación sobre este cuadro.
+
+El siguiente paso en el desarrollo de conciencia de luz blanca es que el astrólogo
+agregue los otros diámetros al mándala en referencia, completando así la rueda horoscópica
+dúo-décupla. El mándala presenta ahora el cuadro del cliente como sujeto a los mismos
+patrones generales de experiencia y relación que son comunes a todos los demás seres
+humanos. Estas doce “casas” son los “cuartos” de la casa en que vive durante la
+encarnación la entidad Humanidad. Cada una es tan necesaria como todas las otras, cada
+una tiene su significación particularizada en la experiencia, y cada una es un taller para la
+creación de mayor bien en todos los planos de expresión y realización humanos.
+
+El mándala tal como aparece ahora, es el patrón esencial de todos los horóscopos.
+La meditación sobre él, como una representación de la vida humana, puede hacerse por
+todos los astrólogos de modo que la realización del propósito evolutivo en la vida humana
+pueda hacerse más honda y más clara cada día. Todo horóscopo percibido como una
+“expresión de variación” de su mándala tiene mucho mejor oportunidad de ser interpretado
+sensitiva e intuitivamente; sin esta preparación de “Iluminación Blanca del patrón básico”,
+el astrólogo corre el riesgo de enredarse mentalmente entre todos los factores complejos de
+un horóscopo natal. Además - y esto es importante - puesto que los horóscopos representan
+a personas, el astrólogo desarrolla la sensibilidad de hacerla automáticamente “luz blanca”
+a la gente cuando se relaciona con ella en su vida diaria. Esto es un desarrollo natural de su
+meditación diaria de luz blanca sobre el mándala astrológico porque él arroja hacia la gente
+una conciencia que se ha ido enfocando más y más en perfecciones.
+
+Con el diseño abstracto ahora empezamos a aplicar la técnica de luz blanca a las
+variaciones personales; dejamos el patrón universal para considerar patrones particulares.
+
+La vieja admonición: “la caridad empieza por casa”, puede repetirse aquí de esta
+manera: el desarrollo de la técnica de luz blanca empieza con la meditación del astrólogo
+sobre su propio mapa. Él, un ser humano, tiene el mismo patrón esencial que cualquier otro
+ser humano. Pero sus particulares difieren hasta cierto punto de aquellos de cualquier otro.
+
+El ser un astrólogo no lo exime automáticamente de sus patrones de sentimientos
+personales en la forma de prejuicio, resentimiento, falso orgullo, envidia, etc. Sin embargo,
+el hecho de ser un astrólogo le impone la responsabilidad de trascender estos negativos tan
+pronto y tan completamente como le sea posible. Sus negativos pueden congelar y
+cristalizar como los de cualquier otra persona, así que él, el astrólogo, debe tomar su
+conciencia impersonal a sí mismo, el ser humano. Esta es una verdad: al grado que un
+astrólogo permanece fijo en patrones reaccionales negativos él limita sus habilidades
+interpretadoras. En ese estado él transpone sus propios negativos a patrones similares que él
+puede encontrar en el mapa de otro. Por ejemplo: un astrólogo varón se ha fijado en un
+patrón de aversión hacia una expresión femenina específica de la vida humana. Él tiene un
+profundo sentimiento subconsciente de aversión o animosidad hacia esa expresión - el
+resultado de su reacción a la experiencia de un problema en alguna ocasión del pasado -. Él
+no ha descargado nunca ese sentimiento de fricción de su subconsciente. Nos preguntamos:
+¿cómo puede él interpretar adecuadamente y resolver psicológica o espiritualmente una
+condición similar que él encuentra en el mapa de otro varón? Hay astrólogos que,
+motivados por hondos impulsos hacia la autodefensa y autojustificación no pueden
+interpretar correctamente ciertos patrones en sus mapas que otros pueden ver de una ojeada.
+Se necesita urgentemente un poquito de luz blanca en ese punto.
+
+Nosotros los astrólogos, como cosa general, no encontramos dificultad en “alumbrar
+con luz blanca” las doce casas del mapa. Las casas representan cuadros de patrones de
+experiencia básicos y como tales transmiten un significado impersonal más directo. Pero
+parece que algunos de nosotros lo tomamos para ciertos planetas y aspectos planetarios.
+¿Por qué? Porque los planetas son los enfoques de la conciencia y algunos de los patrones
+que forman en relación entre si pintan la fricción y las pruebas de los patrones de la
+conciencia. Nosotros tenemos la tendencia de considerar malo, perverso o infortunado
+cualquier patrón de experiencia que enciende nuestros niveles de conciencia irredimidos,
+así haciéndonos experimentar reacciones de dolor. Aquellas que encienden nuestros niveles
+regeneradores de conciencia las interpretamos como benéficas, afortunadas y felices. El
+compuesto simbólico que llamamos negro - perverso, doloroso o malo - debe trabajarse a
+través de la alquimia de la experiencia regeneradora y transmutarse en lo que llamamos
+blanco. ¿Por qué entonces no aprendemos a percibir la blancura inherente en todas las
+cualidades y relaciones planetarias? Esto abarca la fase interpretativa de la astrología de luz
+blanca.
+
+La blancura de cualquier planeta es el principio de vida que está simbolizado por
+ese planeta. La diversidad de expresión de cualquier planeta es simplemente otra forma de
+decir: la diversidad de expresión de la conciencia humana. Usted está consciente de estos
+principios de acuerdo con su desarrollo; de acuerdo con su falta de desarrollo usted no está
+consciente del sentido y significación de estos principios. El propósito de alumbrar con luz
+blanca cualquier cosa es para hacerse más consciente de su sentido espiritual.
+
+Por más claramente que usted como astrólogo pueda delinear y entender el mapa de
+otra persona, se sugiere que se adopte un plan por el cual usted se haga más perceptivo de
+su propia blancura. Este plan implica la meditación sobre varios mándalas extraídos de su
+propio mapa; un mándala para cada uno de sus planetas. Estos mándalas no implicarán el
+uso de números en ninguna forma ya que el número implica limitación y la blancura es
+ilimitada. No permita el uso de una sola palabra clave negativa y degradante en estas
+interpretaciones. Use solamente palabras que transmitan niveles de conciencia
+espiritualizada.
+
+El mándala para la posición de su Sol será un círculo con las doce casas: el símbolo
+de Leo en su cúspide de Leo; el símbolo del Sol colocado en la casa y signo donde usted lo
+tiene; el símbolo de su signo Solar colocado en su cúspide apropiada. Este es el cuadro
+concentrado de su Sol visto con la luz blanca. Sintetice por palabras-clave espirituales cada
+factor de este cuadro – es la esencia espiritualizada de su conciencia Solar, su fuerza de
+voluntad y propósitos, la irradiación del amor creador.
+
+El mándala de su Venus: una rueda como la mencionada antes con los símbolos de
+Tauro y Libra en las cúspides apropiadas para su mapa; el símbolo de Venus - el símbolo
+abstracto de la conciencia femenina realizada, los refinamientos del alma, la conciencia
+estética, la capacidad para la cooperación, etc., para ser colocado en la casa y signo donde
+usted lo tiene, el símbolo del signo que contiene a Venus colocado en la cúspide apropiada
+para su mapa -. Y así sucesivamente, un mándala para cada uno de los otros planetas.
+
+La impresión transmitida por cada uno de sus mándalas planetarios es la de un color
+puro - una luz flameando sin impedimento -. No hay complicaciones ni limitaciones
+implicadas para la habilidad del planeta de irradiar a toda su capacidad.
+
+Su horóscopo de luz blanca es el compuesto de lodos sus mándalas planetarios: una
+rueda con sus signos en las cúspides, sus planetas colocados de acuerdo con las casas y los
+signos en que usted lo tiene. Utilizando los principios más espirituales como palabras-clave,
+usted ahora interpreta su mapa como una representación de lo más elevado y mejor que
+usted es capaz de experimentar y realizar en esta encarnación. Su mapa en esta forma es un
+retrato astrológico de su yo ideal.
+
+El siguiente paso es extraer un mándala de luz blanca, de la misma manera, que
+antes descrito, para cada uno de sus aspectos de cuadratura y oposición; nosotros
+llamaremos estos patrones mándalas de aspecto. No coloque los grados planetarios en el
+mándala de aspecto, pero medite con palabras-clave espirituales sobre los dos planetas
+implicados. Como cada planeta en un mándala de aspecto llamea con la misma luz pura
+esencial que en su propio mándala, usted está ejercitando ahora la facultad de la síntesis de
+iluminar con luz blanca un patrón doble. Siga el mismo plan en la aplicación a sus aspectos
+compuestos (implicando tres o más planetas).
+
+Una vez hecha la preparación de luz blanca, las cuadraturas y oposiciones en su
+mapa natal se verán clara y verdaderamente que son el proceso de experiencia y reacciones
+a la experiencia por las cuales usted regenera su vida en todos los planos. En conclusión, se
+ofrece esta exposición para su consideración espiritual: la regeneración de la conciencia no
+es para el propósito de hacer trinos para el futuro, sino que es para el propósito de
+desenvolver la conciencia de Dios a través de la expresión de sus planetas de acuerdo con
+los principios de luz blanca espiritualizados de éstos.
+
+### <h3 id="chapter-4">Capítulo IV: El Astrólogo Trata sobre la Enseñanza</h3>
+
+Júpiter como regente abstracto de la novena casa, es el símbolo astrológico del
+maestro. Como quiera que la consideración de temas abstractos es auxiliada por la
+meditación sobre un símbolo trazado, o “exteriorización”, se sugiere que se utilicen cuatro
+diseños astrológicos en la continuación de este material.
+
+El primero será una rueda con las casas numeradas; el símbolo de sagitario en la
+novena cúspide, el símbolo de Júpiter en la novena casa. En la consideración de este diseño
+encontramos que nuestro punto de concentración está en el hemisferio superior del
+horóscopo, o digamos, en la parte de la conciencia anímica del patrón de vida. Es la
+expresión trascendente de su polaridad inferior, la tercera casa. Nosotros podemos hablar de
+la novena casa y quedarnos perplejos para siempre si no nos “arraigamos” en la
+consideración de la tercera casa que está regida abstractamente por Mercurio a través del
+signo de Géminis.
+
+Ahora le añadimos a nuestro diseño original el signo de Géminis en la tercera
+cúspide y colocamos el símbolo de Mercurio en la tercera casa. Ya hemos establecido un
+“diseño de polaridad” por el cual un punto en la mitad inferior de la rueda es dirigido a la
+mitad superior. Este diseño significa un “sendero de evolución” por el cual un aspecto de la
+“conciencia separativa” evoluciona hacia un aspecto de conciencia “impersonal” o
+conciencia “anímica”.
+
+La primera casa es “Yo Soy” - el reconocimiento de la conciencia individual, del
+Ser -. La segunda casa es “Yo tengo” - una identificación emocional con la vida por la
+conciencia de “apego a través de la posesión” -. La tercera casa es la “percepción de la
+Vida” a través del ejercicio de la facultad no emocional del intelecto. Marte y Venus, como
+regentes abstractos de la primera y segunda casas son “expresiones emocionales”;
+Mercurio, como regente abstracto de la tercera es aún en los niveles primitivos, la primera
+percepción de conciencia impersonal no emocional.
+
+Mercurio por lo tanto es nuestra capacidad para la “identificación no emocional”.
+Por medio de su ejercicio nosotros le damos nombre a las cosas, ya sean concretas o
+abstractas. También identificamos las cosas en términos de medida, cualidad y función.
+Mercurio no es un medio por el cual nosotros nos identificamos con la Vida; él es el medio
+por el cual nosotros relacionamos las objetivaciones de la Vida con nosotros mismos para
+nuestras utilizaciones y comunicaciones.
+
+Visto desde este punto de vista. Mercurio (como regente de la tercera casa del
+primer cuadrante o “cuadrante de cosecha” de la rueda) es el símbolo de toda instrucción.
+Es la facultad por medio de la cual los hechos son transmitidos de la mentalidad de una
+persona a la mentalidad de otra. El es correspondientemente, la facultad por la cual los
+hechos son comprendidos por la mentalidad que recibe la instrucción o información.
+Mercurio es lenguaje, expresado concretamente por la palabra hablada, el gesto o la
+imagen; abstractamente, por la palabra escrita. Es el símbolo de la relación universal de la
+gente entre sí en concepto de concordancia mental. Es el símbolo de todo estudiante y como
+tal, simboliza esotéricamente la esencia de todas las relaciones fraternales. (Todos nosotros
+somos, prescindiendo de relaciones exteriores, paralelos entre sí - fraternalmente porque
+todos somos estudiantes de la experiencia de la vida).
+
+La consideración adicional de este diseño demostrará que toda enseñanza tiene sus
+raíces en la facultad de aprender y que el desarrollo de la destreza como maestro depende
+del mantener activa esta facultad. Las corrientes de polaridad (en la conciencia) entre los
+hemisferios inferior y superior deben mantenerse estimuladas para que puedan florecer las
+capacidades de la mitad superior. Nosotros nunca estamos separados de ninguna parte de
+nuestro horóscopo; aun cuando pasemos veinte horas cada día en la profesión de la
+enseñanza, las corrientes de “ingreso” no deben dejarse agotar ni descuidarse. El aprender
+es una ignición de conciencia de hechos e identificaciones; puede compararse a una
+inhalación respiratoria. Cualquiera que esté verdadera y fuertemente motivado para
+enseñar, mantendrá viva esta “facultad de la tercera casa”. En otras palabras él no
+desperdiciará ninguna oportunidad para aprender más. Detener el “ingreso” es asegurar un
+paro eventual de cristalización de la habilidad de enseñar. (He aquí una lección de
+sinceridad y humildad: Maestros, tomen esto en cuenta).
+
+Si Mercurio es el símbolo del “ingreso mental” entonces Júpiter - vital, radiante y
+dinámico - es la abstracción de la “exhalación”: la transmisión de conocimiento o ignición
+de conciencia intelectual ampliada y enriquecida por la madurez de la comprensión
+espiritual. El conocimiento de los hechos más la conciencia de los principios. Con respecto
+a esto debemos añadir otro factor a nuestro diseño: el signo de Virgo en la cúspide de la
+sexta casa, creando una cruz en T, dos extremos de la cual están en el hemisferio inferior
+regido por Mercurio.
+
+Aquí el símbolo abstracto de los “condiscípulos” está expresado en una forma
+ampliada para representar la “fraternidad de los trabajadores”. El trabajo considerado
+espiritualmente es, más que labor física - es el servicio que cada persona puede rendir como
+contribución al mejoramiento de la Vida para todos.
+
+Virgo, como signo de tierra, tiene una connotación claramente práctica: “Yo trabajo
+para ganar dinero y sostener mi vida física y la de aquellos a quienes amo”. Mientras la
+actitud hacia el servicio de la enseñanza sea “Yo aprendo algo para enseñarlo y ganar
+dinero”, el aspecto de cuadratura de Géminis-Virgo amenaza el desenvolvimiento de las
+capacidades del maestro porque lo mantiene identificado en la conciencia con la percepción
+“friccional” de “consideraciones prácticas”. La redención de este patrón de cuadratura se
+encuentra en el hecho de que la sexta casa es la última casa del hemisferio inferior y es la
+“modulación” hacia el hemisferio superior de regeneración emocional y conciencia
+espiritual. La sexta sigue a la quinta casa que es la del poder del Amor; cuando la
+conciencia de la “labor de hacer dinero” es cargada con la creación del Amor y expresada
+como servicio para el mejoramiento de la Vida, se toma en expresiones de redención. Por
+medio de las experiencias de servicio amoroso nosotros adquirimos comprensión de
+nuestro tema que en comparación hace del mero estudio de los libros una cáscara sin vida.
+Esta comprensión es lo que el verdadero maestro irradia a sus discípulos.
+
+Ahora completamos este diseño añadiendo el símbolo de Piscis a la cúspide de la
+duodécima casa y colocando el símbolo de Neptuno ahí: la cruz de los signos comunes. Por
+medio del primer brazo - Géminis - Mercurio simboliza al alumno”; su “exhalación” es
+Júpiter como abstracción de la novena. Mercurio, a través de Virgo es el “alumno de
+experiencia del Servicio”; su “exhalación” es Neptuno como la abstracción de la duodécima
+casa. Diremos más de esto inmediatamente.
+
+Para considerar el tema más concretamente, observemos algunos de los problemas
+que tarde o temprano son encarados por aquellos que experimentan el impulso de enseñar.
+
+Puesto que la enseñanza es en primer lugar una expresión dinámica de sabiduría, el
+motivo debe ser de iluminación. Cualquiera que responda al impulso de iluminar debe
+aceptar el reto de esos patrones de conciencia que representan la ignorancia: cristalización
+mental, formalismo inflexible de opinión y actitud, prejuicio, la clase de ignorancia que
+forma una base de indiferencia hacia las necesidades impersonales o espirituales de los
+estudiantes. Este patrón de experiencia sirve como un reto a la integridad y el valor del
+maestro.
+
+El impulso de realizar un servicio impersonal debe ser probado tarde o temprano por
+la propia conciencia de los factores económicos de la persona. Esta prueba es uno de los
+puntos más significativos en la evolución de cualquiera que tenga aspiración espiritual en
+cualquier patrón de trabajo. Considerando nuevamente el diseño con los signos comunes
+vemos que los aspectos de oposición están arraigados por Mercurio a través de Géminis y
+Virgo. Mercurio irredimido, en su alianza con el primer sector de la rueda, es “lo práctico”,
+“la conveniencia”, “la exactitud literal” y “la evaluación superficial”. Estas palabras-clave
+atañen a niveles de conciencia que aún no han alcanzado lo impersonal. Las personas que
+están movidas hacia la profesión de la enseñanza y que permanecen en esta expresión de
+Mercurio son aquellas cuya actitud básica es de interés propio. “¿Cuál empleo paga más?”,
+“¿cuál empleo abre el camino para el mayor prestigio académico?”, “retiro más temprano”,
+la “pensión más grande”, “los alrededores más placenteros”, etc. Estas consideraciones son
+sostenidas por todos durante un tiempo en su progreso evolutivo; pero el punto señalado
+aquí es que eventualmente la actitud hacia el trabajo debe ser regenerada en Servicio
+Amoroso. Hasta tanto se tome ese paso, la función de la enseñanza no podrá ser cumplida
+verdaderamente. Lo antes mencionado puede traducirse astrológicamente de esta manera:
+hasta que el interés propio sea trascendido, el ciclo que comienza con Mercurio-Géminis no
+puede encontrar su cumplimiento espiritual en Neptuno-Piscis, a través de Júpiter-Sagitario.
+
+Puesto que Júpiter, como símbolo del maestro, se encuentra en el hemisferio
+superior de la rueda, las pruebas del maestro verdaderamente motivado son mucho más
+“internas” que “externas”. Sus problemas más significativos son problemas del alma.
+Algunas de estas pruebas surgen de la necesidad de regenerar lo que podrían llamarse
+cualidades de un Júpiter negativo, tales como:
+
+Orgullo intelectual, por el cual el maestro se fija en niveles egotistas debido al
+sentimiento de superioridad sobre aquellos a quienes enseña. Esta tendencia puede
+remediarse por un “cambio en la conciencia” mediante el cual el maestro intensifique su
+percepción de que él no es ni podrá ser nunca un repositorio para todo el conocimiento de
+su tema particular; sino que es en realidad un hermano mayor para aquellos a quienes
+enseña - y cualquiera de ellos puede ser su superior innato en sabiduría esencial -. Él
+reconoce que es un precursor del desarrollo de sus discípulos y que él sirve como “punto de
+modulación” por el cual ellos se mueven de niveles de inocencia a niveles de percepción de
+su propia sabiduría. Él nunca debe olvidar que él ha atravesado en alguna época el mismo
+camino de instrucción y en concepto de su propio desarrollo personal debe ser aún un
+estudiante. En otras palabras, él debe mantener su actitud fluida y dinámica hacia su trabajo
+de enseñanza - expandiéndose, mejorando y ampliándose. De ese modo él utiliza
+palabras-clave regeneradoras de Júpiter para evitar las cristalizaciones causadas por el
+orgullo.
+
+El engrandecimiento propio a través del deseo de reconocimiento y elogio es una
+expresión de Júpiter como vanidad y codicia. En este nivel, el maestro busca continuamente
+sobresalir sobre sus colegas para compensar su envidia a ellos. Él desea la adulación de sus
+alumnos; él utiliza su trabajo para ganarse la buena opinión de la gente. El impulso de
+mejorar su destreza y ampliar su esfera está motivado básicamente por su deseo de que se le
+tenga en buen concepto. Este punto de vista “introspectivo” lleva las semillas de su propia
+desintegración puesto que resulta automáticamente en una experiencia que servirá para
+destrozar la motivación fija y limitadora.
+
+El propósito de la enseñanza no es el engrandecimiento propio, sino la iluminación
+de la conciencia de otros. El maestro que tiene una actitud basada en su integridad como
+trabajador posee lo que puede llamarse una humildad sana - él respeta el trabajo que está
+haciendo; él cultiva su destreza de modo que el trabajo mejore; él agradece todas las
+sugerencias que se le den y está dispuesto a tomarlas en consideración -. Su actitud hacia
+sus colegas es de apreciación por su valor para el trabajo, no una actitud de competencia, ya
+que él reconoce que cada maestro tiene su propia contribución única que aportar. Él
+auxilia a cada uno cuando puede y está dispuesto a aprender de cada uno cuando puede. En
+otras palabras, él utiliza la palabra clave Jupiteriana de “mejoramiento” y mantiene sus
+motivaciones espiritualizadas y regeneradas.
+
+La verdadera actitud del maestro hacia sus discípulos nunca es la de “ejercer poder
+Sobre ellos”. Es cierto que él lo tiene, ya que ellos son susceptibles a sus palabras y a su
+influencia; pero su motivación es ponerlos alerta a la percepción de sus propios poderes y
+habilidades y a las maneras y medios por los cuales ellos puedan expresar sus mejores
+potencialidades. Su actitud hacia sus discípulos, motivada por el amor, es de benevolencia;
+el progreso de ellos es su regocijo. Él aprecia la significación de la salida de sus discípulos
+de un nivel de entendimiento a uno más elevado. Su deseo es ayudar al crecimiento - nunca
+“mantener en sumisión”. Su “rendimiento” como maestro está respaldado por el aprecio
+amoroso de sus discípulos - como estudiantes y como personas - quienes a su vez,
+contribuirán al adelanto del trabajo que es el objeto de su devoción mutua - el altar en el
+cual él y ellos han encendido sus velas.
+
+El símbolo del sendero del maestro en sus expresiones más sutilmente
+espiritualizadas se encuentra en el cuarto cuadrante de la cruz común: Júpiter en la novena
+a Neptuno en la duodécima. Este es el patrón de experiencia del Hermano “Mayor - el
+iluminador de Almas, la irradiación de Sabiduría de las Filosofías y las Artes; universal en
+su esfera de poder redentor -. En este sector del desarrollo, el conocimiento intelectual ha
+sido abarcado y trascendido. El discípulo está interesado en los Principios de la Vida y sus
+aspiraciones - no sus deseos o ambiciones - son encendidos por el contacto con la
+Inteligencia iluminada y la conciencia espiritualizada del maestro.
+
+Un diseño más: Aries en la primera cúspide. Leo en la quinta y Sagitario en la
+novena; Marte en la primera casa, el Sol en la quinta y Júpiter en la novena. Esta es la
+trinidad de los signos de fuego. Marte dice: “Yo Soy una expresión manifestada del Uno”.
+El Sol dice: “Yo Soy el poder radiante del Amor”, Júpiter dice: “Yo Soy la irradiación de la
+sabiduría”.
+
+Este diseño triangular exterioriza la conciencia dinámica; Júpiter como maestro
+simboliza aquí la paternidad espiritual: el padre que guía el desarrollo e ilumina la
+conciencia evolutiva de sus “hijos”, sus “hermanos y hermanas menores”. En términos
+humanos Júpiter aparece aquí simbolizando las responsabilidades espirituales de la
+paternidad - y la responsabilidad de todos los padres de proporcionar el pan espiritual así
+como también el físico a aquellos que han encarnado a través de ellos.
+
+El diseño demuestra, en niveles impersonales, la paternidad espiritual inherente de
+todos los maestros hacia sus discípulos, quienes en niveles mentales, son sus hijos. Los
+padres deben ser maestros; todos los verdaderos maestros traen a sus discípulos una
+irradiación de poder de Amor que contribuye a la más completa realización de su Servicio
+de Enseñanza.
+
+### <h3 id="chapter-5">Capítulo V: El Ascendente</h3>
+
+Estudiantes, esta es una exposición sobre ustedes.
+
+La horizontal izquierda de la rueda, horoscópica, extendiéndose desde el centro de
+la circunferencia, es la salida de usted de los planos internos - como una expresión de la
+idea que llamamos Humanidad - a la objetivación en la encarnación; el punto Ascendente
+es su aparición en este plano a la hora de su nacimiento.
+
+Cuando usted emitió su primer grito, usted decía: “¡Mirad, Mundo, aquí Estoy Yo
+de nuevo!”, ese grito fue su “aurora”, la Luz vuestra apareciendo en el mundo de otras
+Luces humanas como ha aparecido muchas veces en el pasado. Usted vino a expresar una
+cualidad más brillante y más clara de su Luz que nunca antes, y aquellos que lo recibieron
+con Amor lo hicieron en verdad por la promesa inherente en vuestra Luz para el
+mejoramiento de la Vida humana durante los años de su encarnación. Cada encarnación es
+una expresión del amor y de la fe de la Humanidad hacia la Luz que es su Origen y su
+Morada.
+
+Su encarnación recibió la nota clave vibratoria del signo zodiacal que cubre el punto
+Ascendente de su horóscopo. Cada uno de los doce signos es uno de los tres aspectos
+(Seidad, Amor, Sabiduría) de la dimensión de Polaridad (Positiva/Negativa) en concepto de
+Generó (Masculino/Femenino). Y - el propósito vibratorio principal de un ser humano en la
+encamación es cumplir lo mejor que pueda, la potencialidad del signo Ascendente a través
+del capitulo de experiencia y la ubicación vibratoria del planeta que rige al signo
+Ascendente -. (Por ubicación vibratoria se da a entender el signo en el cual está colocado
+ese planeta); la cualidad de la expresión está indicada por la naturaleza del planeta que lo
+“disposita”; si el regente está en Tauro o Libra, está “dispositado” por Venus; en Acuario,
+está “dispositado” por Urano y así sucesivamente.
+
+Haga tres mándalas, uno para los signos cardinales, uno para los signos fijos y otro
+para los signos comunes. Esto se hace trazando tres círculos; cada uno tiene los símbolos de
+una de estas tres clasificaciones de los signos tal como aparecen en su orden zodiacal; los
+puntos de los signos son conectados por líneas rectas, dándonos las tres variaciones de un
+cuadrado.
+
+Los signos cardinales con los puntos decisivos en nuestro recorrido alrededor de la
+rueda desde el punto Ascendente; ellos representan los cuatro puntos básicos de los
+cambios de estación durante todo el año y representan también los cuatro puntos básicos de
+la estructura de la relación humana: la masculina-femenina de los padres
+(Capricornio/Cáncer) y la masculina-femenina de aquello que es engendrado por los padres
+(Aries/Libra). Las personas que tienen un signo cardinal en el Ascendente (a menos que
+haya intercepciones y que también el signo Ascendente esté en la duodécima cúspide) han
+llegado a esta hora para tomar una “nueva dirección” en su evolución - su signo Ascendente
+inicia una nuevo cuadrante del zodiaco para el cuadrante de las tres primeras casas -.
+(Aquellos que tienen el signo Ascendente cardinal también en la duodécima cúspide están
+simplemente continuando aquello que fue inaugurado como punto crítico en la encarnación
+previa).
+
+Cada uno de los cuatro signos cardinales es el aspecto de la “Seidad” del elemento a
+que pertenece: Aries-Fuego; Cáncer-Agua; Libra-Aire y Capricornio-Tierra. Aries y
+Capricornio son los “signos varones” de los cuales Aries es el masculino y Capricornio el
+femenino; Cáncer y Libra son los “signos hembras” de los cuales Libra es el masculino y
+Cáncer el femenino.
+
+Los signos fijos son el “aspecto del Amor” de los elementos - siendo cada uno el
+quinto signo desde el cardinal de su elemento -. En paralelo: Aries-Leo; Capricornio-Tauro;
+Cáncer-Escorpión y Libra-Acuario. Puesto que todo horóscopo es el resultado del ejercicio
+de la conciencia en la pasada encarnación y nosotros realmente damos “vuelta tras vuelta a
+la rueda” a través de nuestras encarnaciones, vemos que desde un punto de vista evolutivo,
+Leo es el primer signo fijo, Escorpión el segundo, Acuario el tercero y Tauro el cuarto. En
+un mándala con los doce signos en orden - desde Aries alrededor de la rueda - trace cuatro
+líneas rectas como sigue:
+(1) de Aries a Leo (cúspide de la primera a la cúspide de la quinta);
+(2) de Cáncer a Escorpión (cúspide de la cuarta a la cúspide de la octava);
+(3) Libra a Acuario (cúspide de la séptima a la cúspide de la undécima); y
+(4) Capricornio a Tauro (cúspide de la décima a la cúspide de la segunda).
+De esta manera vemos una “película” del eslabonamiento entre una encarnación y la
+siguiente, ya que la línea que conecta a Capricornio con Tauro retrocede al ciclo zodiacal a
+través de la décima, undécima, duodécima y primera casas. En realidad nosotros no vamos
+repetidamente alrededor de un círculo; nosotros nos desenvolvemos a través de un proceso
+espiral de una “octava” a la octava superior; cada “octava” nos trae más y más cerca del
+“retorno al Centro” que es nuestro “Edén perdido”; en verdad, nosotros somos re-
+absorbidos, en la Conciencia, en nuestro Origen.
+
+Los signos comunes son el aspecto de Sabiduría de los elementos, porque cada
+signo común es el noveno desde su signo cardinal inicial. Ahora tracemos en el mándala en
+consideración otras cuatro líneas rectas como sigue:
+(1) De Leo a Sagitario, cúspides de la quinta y novena;
+(2) de Escorpión a Piscis, cúspides de la octava y duodécima;
+(3) Acuario a Géminis, cúspides de la undécima y tercera; y
+(4) Tauro a Virgo, cúspides de la segunda y sexta.
+Ahora tenemos la representación de los cuatro elementos, en sus aspectos trinos, los
+aspectos de la Seidad, el Amor y la Sabiduría de las dos “expresiones” de Polaridad y las
+cuatro “combinaciones” de Género. Aplique esta fórmula a su signo Ascendente y forme
+una imagen clara de la “cualidad trina” y la “cualidad de género” de su signo.
+
+Su planeta regente es el significador del enfoque, y expresando la vibración de su
+signo Ascendente y su Principio, representa una función básica que usted debe cumplir en
+esta encarnación. Sin embargo, usted tiene otro regente que está correlacionado con su
+regente planetario: ese es el planeta que “disposita” a su regente; podemos denominar este
+planeta como el “regente vibratorio” de su mapa, puesto que es a través de su cualidad
+genérica que su regente planetario debe expresarse. (Por supuesto, a menos que el regente
+planetario esté en su propio signo de dignificación, en cuyo caso es regente “doble”).
+
+El requisito ambiental para el desenvolvimiento y la realización de las
+potencialidades de su personalidad está indicado por la casa en que está colocado su regente
+planetario. El estudiante de astrología debe aprender las palabras-clave de cada casa para
+que conozca dónde ha de cumplirse progresivamente su “esencia” personal. No importa
+adonde vayamos en este plano, llevamos con nosotros nuestro horóscopo entero dentro de
+nosotros mismos, por la sencilla razón de que el horóscopo es la representación de nuestra
+conciencia y nosotros no podemos escapamos nunca de nuestra conciencia. Nosotros
+podemos sin embargo, permanecer establecidos en los requisitos de nuestro regente
+planetario si percibimos que cualquier lugar o asociación con cualquier grupo de personas
+contiene posibilidades para ejercitar las potencialidades del regente planetario. El hombre
+debe utilizar el plano físico. Él no debe ser utilizado por éste; pero se congestionará y se
+limitará en él si no establece su conciencia propia representada por la combinación de las
+cualidades del signo Ascendente, el regente planetario cualificado por su “dispositor” y su
+significación por ubicación en cierta casa.
+
+El diseño astrológico nos demuestra una cosa extraña y maravillosa - la llamada
+“base psicológica”: la cúspide de la cuarta casa del mapa natal -. Esta cúspide, desde un
+punto de vista oculto, puede estudiarse por la Ley de Causa y Efecto como la significadora
+de una condición que enlaza esta encarnación con la pasada - así demostrándonos cómo
+podemos fortalecer nuestro sentido de “continuidad” de la encarnación pasada a la
+presente.
+
+Recordemos primeramente, que nosotros encarnamos sin ninguna percepción de lo
+que provenimos; el supra-consciente lleva todas nuestras memorias del pasado y la
+“revivificación” de estas memorias es lo que nos hace posible relacionarnos
+conscientemente con cierto nivel de nuestro ser vibratorio que está íntimamente conectado
+con nuestras memorias de progreso logrado en la encarnación pasada. Veamos ahora cómo
+puede representarse esto abstractamente como un Principio de Vida:
+
+Un mándala conteniendo solamente las cúspides de la duodécima y primera casas;
+coloque el símbolo de Piscis en la duodécima y el símbolo de Aries en la primera; conecte
+los dos puntos en la circunferencia por una línea recta. Este es el cuadro esencial del
+residuo de ideales irrealizados que hicieron necesaria la presente encarnación. Añada ahora
+la vertical inferior - la cúspide de la cuarta casa - y coloque el símbolo de Cáncer en su
+cúspide; conecte este punto por líneas rectas con las cúspides de la duodécima y la primera.
+La “linea de Aries” es la involución en la presente encarnación al punto donde está
+establecida la identidad con la familia y la herencia vibratoria - el sentido de “ocupación de
+morada” - y la identificación de relación con la cualidad vibratoria de los padres (la cuarta
+cúspide es por supuesto la mitad de la rama completa de los antecesores que para
+completarse se extiende a la vertical superior hasta el signo de Capricornio, la cúspide de la
+décima casa).
+
+La línea de Piscis en el mándala precedente es la matriz espiritualizada: una de tres
+líneas y dos de tres puntos del trino de agua-Cáncer, Escorpión y Piscis. Por lo tanto, puesto
+que el primer punto vuelto hacia arriba en el ciclo desde el Ascendente es la cúspide de la
+cuarta casa, vemos que la matriz espiritualizada, derivada de lo mejor de nosotros en el
+pasado es representada directamente en lo mejor de nuestra herencia vibratoria. Conocer
+solamente lo peor de nuestros padres en términos humanos es hacerse intensamente
+consciente de lo peor en nosotros mismos porque nosotros encamamos a través de ellos por
+las Leyes de Causa y Efecto y de Simpatía Vibratoria. Permanecer establecidos en nuestros
+peores sentimientos sobre nosotros mismos como “expresiones” de nuestros padres, es
+permanecer congestionados en el pasado negativo. No podemos hacer progreso espiritual y
+vibratorio hasta que reconozcamos nuestras potencialidades para el progreso; lograr ese
+progreso implica la necesidad de hacernos conscientes de nuestros recursos
+espiritualizados.
+
+Ahora traduzca este mándala al concepto de su propio mapa - los signos en las
+cúspides de su duodécima, primera y cuarta casas -. A menos que haya la complicación de
+intercepciones en ciertos arreglos, los signos en la duodécima y cuarta casas representan
+dos aspectos de uno de los cuatro trinos elementales. Un análisis detallado - por el valor
+genérico y espiritual - de estos dos signos en relación con el regente del mapa nos da el
+cuadro de cómo lo mejor de nuestro pasado debe continuarse en esta encarnación como
+“pábulo” para la expresión progresiva y ascendente del regente planetario.
+
+Voltee su mapa natal de modo que la cuarta cúspide aparezca como Ascendente - un
+cuarto de vuelta hacia la derecha -. La (aparente) duodécima casa es realmente la tercera
+casa del mapa natal y es la novena casa desde la séptima natal - la “novena casa”
+representando el “aspecto de Sabiduría” -. Esta es la representación del recurso de sabiduría
+desde la última vez que usted encarnó en el sexo físico opuesto a su expresión actual. La
+tercera casa del mapa natal es el desenvolvimiento intelectual presente; pero es también
+como se ve en el anterior, una clave para comprender algo de lo mejor de su polaridad
+complementaria porque refleja una de las “octavas más altas” de usted mismo expresando
+el sexo opuesto. Su habilidad de aprender ahora está condicionada y cualificada por su
+destilación de sabiduría en encarnaciones pasadas (aprender es, en la mayor parte,
+“recordar”) y lo que usted ha “aprendido por la experiencia” en el pasado (Sabiduría) tiene
+una conexión directa con sus habilidades mentales presentes.
+
+Así vemos que la cuarta casa del horóscopo natal contiene tanta información
+concerniente a lo mejor de nosotros mismos traducidos del pasado al presente. Nosotros nos
+atrasamos si ignoramos esta potencialidad; comenzamos el ascenso hacia la madurez
+psicológica si la utilizamos.
+
+Las condiciones horoscópicas antes descritas se refieren al mapa individualizado - el
+“ustedismo” de su retrato vibratorio -. Pero hay otra manera de aprender a decir “Yo Soy” y
+se encuentra en la consideración del hecho de que no importa cual fuere el verdadero
+Ascendente y regente planetario, todo horóscopo tiene el diámetro de Aries-Libra en algún
+sitio - y Aries, a través de su regencia por el dinámico y expresivo Marte - es la abstracción
+de “Yo Soy”. En niveles primitivos de conciencia, el “Yo Soy” de la humanidad es
+manifestado en términos de fricción, resistencia, contención, defensa propia y destrucción
+de aquello a lo que se teme porque no se comprende. El hombre ha peleado por su
+supervivencia - aparentemente contra el mundo, otra gente y condiciones -. Él ha resistido
+realmente las exteriorizaciones de su propia ignorancia de los Principios de Vida; él nunca
+ha combatido a otras personas, sino que ha luchado contra su temor a ellas, ya que ellas,
+“sus enemigos”, nunca son otra cosa que los espejos de sus negativos. Cuando él ama
+verdaderamente lo que él es en realidad y su amar es una expresión de ese amor, entonces
+sus “enemigos” desaparecen y toda la gente es reconocida como sus amigos hermanos.
+
+Marte, a través de su regencia a Aries es el regente abstracto del horóscopo de la
+humanidad. Por medio de esta vibración decimos no solo “Yo Soy”, sino “Yo Estoy
+determinado a sobrevivir y perpetuar mi existencia”. La potencialidad de Marte en todo
+horóscopo es la “sangre roja” de la conciencia, el sentido vital de Seidad, la masculinidad
+esencial de la vibración genérica, la capacidad de vitalizar, de estimular, de impregnar (en
+cualquier plano), de contender con degradaciones internas y externas y por último, a través
+de sus destilaciones espirituales, es el valor nacido de la fe, la aspiración del Espíritu de
+progresar y de vivir en octavas eternamente ascendentes de la conciencia de la Vida Una, el
+Amor Uno y la Sabiduría Una.
+
+La significación de la cúspide que lleva a Aries en su mapa demuestra que, sin
+tomar en cuenta su sexo físico el cumplimiento de la experiencia exige el ejercicio de la
+cualidad masculina genérica más vital; usted debe aprender a ejercitar el valor, debe
+desarrollar la confianza propia, encarar sus temores, aprender a comprender el origen de
+éstos en su conciencia y dominarlos por medio de las transmutaciones y las expresiones
+constructivas; usted debe desarrollar y ejercitar la cualidad básica Marciana de la iniciativa
+- respecto del arranque de Aries como primer signo del Horóscopo Abstracto; en este punto
+usted debe aprender - y eventualmente aprenderá - lo que significa impelerse a si mismo sin
+esperar sugerencias, acicate o estímulo de los otros; a través de la casa que lleva la cúspide
+de su Aries usted es el “pajarillo” que salta del nido protector y ejercita su poder de volar;
+una vez en el aire y fuera de su nido, él ha de volar o caer a tierra; nadie ni nada puede
+mantenerlo en el aire excepto su propia fuerza y su aclimatación al elemento que ha de ser
+su campo natural para vivir y moverse.
+
+Como quiera que la cúspide de Aries pueda estar en cualquier sitio de la rueda y la
+potencialidad de Marte en cualquier mapa puede ser pequeña o grande en esfera, hay una
+posible variedad de infinita “Marcialidad”. Al grado que su Marte esté “congestionado” por
+aspectos de cuadraturas o de oposición y al grado que planetas en Aries (dispositados por
+Marte) estén congestionados tendrá usted que aprender a ejercitar la virtud del valor como
+una expresión de su Sabiduría de Amor interna; pelear no por la resistencia a personas que
+usted cree son enemigos, sino pelear sin resistencia por expresiones transmutadas de su
+conciencia; permanecer fiel a sus convicciones (si son verídicas) como una expresión de su
+integridad y sobre todas las cosas respetar el derecho de otras personas a expresarse de
+acuerdo con su recurso vibratorio. Un Marte fuerte e integrado nunca trata de congestionar,
+inhibir, limitar o aprisionar el cumplimiento de otro, sino que busca siempre alentar por su
+Sabiduría Amorosa la ignición de sus mejores y más finas potencialidades en todos los
+planos. La persona que conoce el Valor del Amor y el Valor de la Sabiduría es la que
+verdaderamente sabe lo que significa “Yo Soy”; todos nosotros debemos alcanzar tarde o
+temprano la conciencia de este sentido espiritualizado de identidad con nuestro Origen -
+nuestro Padre-Madre Dios.
+
+### <h3 id="chapter-6">Capítulo VI: La Segunda Casa</h3>
+
+Las condiciones pertenecientes a la segunda casa de la rueda horoscópica enfocan
+una gran parte de lo que el astrólogo está obligado a interpretar en su servicio. Puesto que
+toda fase del horóscopo tiene su principio particular, se sugiere que le demos flexibilidad a
+nuestro concepto de la segunda casa más allá del acercamiento tradicional que lo considera
+como dinero y posesiones.
+
+Para poner la segunda casa en el esquema de las cosas consideremos en primer lugar
+un mándala hecho de la siguiente manera: una rueda con las casas; coloque los símbolos de
+Aries, Tauro, Géminis, Cáncer, Leo y Virgo sobre las primeras seis cúspides; trace una
+línea recta de la cúspide de la primera a la cúspide de la quinta; otra línea de la quinta a la
+séptima cúspide. El sector de las primeras cuatro casas es análogo a los grados de escuela
+elemental que todos nosotros cursamos durante la niñez como base de nuestra experiencia
+educativa. El sector adicional de la quinta y sexta casas podría considerarse análogo a
+nuestra educación de escuela secundaria y de colegio, tal como es iniciada por el impulso
+vital de la quinta casa. El acondicionamiento interno indicado por estas primeras seis casas
+encuentra su expresión en el hemisferio superior, iniciado por la séptima casa de la
+conciencia de asociación; es análogo a la experiencia en el mundo al que entramos después
+de completar nuestra educación formal; nosotros ponemos a trabajar nuestro conocimiento.
+El compuesto de estas seis casas es lo que traemos a toda experiencia madura para la
+regeneración y el perfeccionamiento, así como traemos a nuestra experiencia madura como
+adultos todo el entrenamiento, acondicionamiento y educación que hemos aprendido y
+adquirido en nuestros años de crecimiento. Las expresiones no espiritualizadas de las
+primeras seis casas - particularmente las primeras cuatro - indican la raíz cuadrada esencial
+de todos nuestros problemas.
+
+Cuando consideramos que la conciencia humana primitiva expresa la quinta casa
+como una expresión instintiva - como un recurso de la cuarta casa - en lugar de creación
+consciente no debe uno maravillarse de que la humanidad tienda a funcionar mayormente
+en la conciencia de las primeras cinco casas. Para la mayoría de la gente, aún la casa sexta
+es una expresión de sostenimiento material en vez de una expresión de contribución
+impersonal en servido. Hay tanto de la conciencia de relación humana primordialmente
+arraigada en la conciencia de identidad de la cuarta casa con la familia y la raza, que las
+decisiones se hacen en concepto del sentimiento de grupo en vez de hacerse por los
+requisitos de desarrollo personal y los impulsos de expresar la conciencia de integridad
+personal. Puesto que la conciencia física es el reino en el que tiende a vivir la gente, la
+segunda casa enfoca gran parte de sus patrones de experiencia y sus patrones de problemas
+porque la segunda casa es el símbolo esencial de la conciencia de sostenimiento para la
+rueda entera, concentrada por su significación en el sector de las primeras cuatro casas. Las
+tres primeras casas pueden llamarse adecuadamente el cuadrante de la cosecha -
+representando los procesos del plano interior por los cuales nos integramos con la
+dimensión triuna de la manifestación física.
+
+La “posesión” y la “propiedad” son términos que identifican la conciencia de la
+mayor parte de la gente en la expresión de su segunda casa. El principio verdadero de la
+segunda casa se revela, no obstante, cuando consideramos el punto filosófico de que
+nosotros no poseemos ni nos pertenece ninguna cosa física. Nuestra única posesión es la
+conciencia. La cualidad de esa posesión se encuentra en nuestras reacciones hacia cualquier
+fase de la vida, nuestra mayordomía sobre ella está en la regeneración. La vida de la
+humanidad es una cosa interna; la expresión material es su vehículo. Así pues, lo que
+nosotros llamamos “deseo de poseer las cosas” es una forma primitiva de decir que
+nosotros deseamos experiencia por la cual ejercer nuestra facultad de mayordomía de las
+formas físicas y el progreso que es proporcionado por la regeneración.
+
+Como todo factor que se encuentre en la rueda horoscópica es una cosa necesaria en
+la vida de la humanidad, no existe factor alguno que sea “erróneo” o “malo”. La segunda
+casa - como un capítulo de experiencia y un nivel de conciencia - es un símbolo del Espíritu
+tanto como pueda serlo cualquiera otra casa. Ella transmite esencialmente, la conciencia
+emocional o conciencia de deseos por medio de la cual la humanidad trata de atraerse las
+cosas necesarias para el sostenimiento. Decir “Yo Tengo” es una extensión de la conciencia
+de “Yo Soy” de la primera casa. El impulso subyacente de “Yo Soy” es sostenerse a sí
+mismo; poder continuar diciendo “Yo Soy” y perpetuar esa conciencia en el mundo de las
+formas. Para algunas personas “mis hijos” o “mi mujer” se dice con el mismo grado de
+conciencia de posesión que se dice “mi dinero”. Ambas frases implican la perpetuación
+propia y la expresión propia.
+
+La esencia de cualquier factor astrológico se halla en la consideración del principio
+espiritual inherente en ese factor. Como la segunda casa tiene su “espiritualidad” particular,
+consideremos tres mándalas extraídos del mapa natural o arquetípico. (Esta es una rueda
+con 30° de cada signo contenidos dentro de la casa correspondiente, comenzando con Aries
+en la primera cúspide; los regentes planetarios están relacionados con las casas y signos de
+su dignidad).
+
+El primer mándala será una rueda en blanco excepto para las cúspides de las
+primeras cuatro casas formando el primer cuadrante. Los símbolos de Aries, Tauro y
+Géminis son colocados en las cúspides de las tres primeras casas respectivamente. Nuestras
+frases clave serán: Primera casa: Yo soy una conciencia individualizada. Segunda casa: Yo
+deseo mantener mi conciencia en las dimensiones físicas. Tercera casa: Yo aprendo cómo
+hacer posible este sostenimiento. Este cuadrante de “cosecha” representa nuestro proceso
+de “sentar raíces” en cualquier ciclo de evolución.
+
+Venus, regente de Tauro y regente abstracto de la segunda casa, es el principio de la
+atracción; su significación respecto a esta segunda casa es el impulso de atraer hacia
+nosotros los medios de sostenimiento material, o de atraer la afluencia de la abundancia
+material. La manifestación que nosotros no hacemos dinero no es más evidente en ninguna
+otra forma. Nosotros en realidad hacemos algo a cambio de dinero. Esto trae a nuestra
+atención el gran principio de la vibración venusiana: el equilibrio a través del intercambio.
+Visto como una expresión de este gran principio, el dinero es intercambio material entre
+personas, y no posesión material; en otras palabras algo recibido a cambio de algo que se
+ha hecho. El cumplimiento perfecto de acuerdo mutuo sobre este punto es la esencia del
+recto uso del dinero. El Mandamiento “no robarás”, fue dado como una prohibición contra
+la violación de una expresión material de un principio universal.
+
+Para ampliar nuestra apreciación de la segunda casa ahora la enlazamos con la otra
+casa que está regida abstractamente por Venus a través del signo de Libra, la séptima casa.
+
+El mándala será: la rueda de doce casas; los símbolos de Tauro y Libra en las
+cúspides de la segunda y séptima casas respectivamente. El símbolo de Venus en estas dos
+casas; sombree levemente estas casas para que sobresalgan del resto de la rueda. Aquí
+tenemos el arquetipo del mándala de Venus - el cuadro abstracto del foco de influencia de
+la diosa sobre la experiencia de la vida de la humanidad -. La segunda casa representa el
+Principio de Atracción en la conciencia del hombre de atraer material para el sostenimiento
+propio; la séptima casa es la unión de personas que se complementan mutuamente. En otras
+palabras, la Vida en los procesos de relación humana logra el equilibrio a través del
+intercambio amoroso de los complementarios.
+
+La séptima casa identifica abstractamente todos los pares de los que dan y los que
+reciben. El empleado da su trabajo, el patrono da el pago. La vida física del empleado se
+sostiene por el uso del dinero que recibe; la vida del negocio del patrono es sostenida por
+los esfuerzos de aquellos que trabajan para él. Cuando se mantiene una mutualidad
+provechosa en tales relaciones, todas las personas implicadas se benefician entre sí a través
+de los rectos intercambios. Cuando se violan los principios de cualquiera de los dos factores
+el resultado es la inarmonía y el desbalance. Esto se evidencia en todos los planos: entre
+individuos, entre dos grupos o entre dos naciones.
+
+Debemos tener presente que el dinero - nuestro símbolo de posesión material - es
+realmente un “fluido” en el sentido que hay intercambio entre personas en todas partes y en
+todos los tiempos. Es como la sangre que circula a través del cuerpo físico para sostener la
+vida. Si se detiene la circulación de la sangre se detiene la expresión de vida del individuo.
+Si se paraliza o se congestiona la circulación del dinero en la vida económica usted
+observará los resultados. Estos serán evidentes donde quiera.
+
+La circulación de la sangre a través del cuerpo físico comienza con el
+“rendimiento”; el “retorno” se hace cuando el impulso inicial ha completado su trabajo. La
+circulación de dinero entre personas, comienza cuando primero se hace algo por lo cual se
+recibe dinero en pago. La humanidad para funcionar con éxito monetario debe aprender a
+estar dispuesta a lograr el mejor rendimiento en cualidad de servicio a rendirse. La sexta
+casa forma el primer aspecto de trino con la segunda y la sexta casa preludia la séptima, el
+símbolo abstracto de la experiencia de relación.
+
+El éxito en la ganancia monetaria comienza con la integridad mutua de, conciencia
+de intercambio y conciencia de servicio. La deficiencia o corrupción de esa conciencia
+asegura eventualmente “problemas monetarios” en la forma de remordimiento
+subconsciente, pérdida de confianza propia, desconfianza de los otros (recuerdo de falta de
+honradez en el pasado), avaricia y la clase de extravagancia que es toda “producción” sin
+tomar en consideración el equilibrio del intercambio. Estos cuadros monetarios negativos
+son el resultado de violaciones perpetradas en el pasado contra el Principio de Intercambio
+Mutuo y son manifestaciones de “desamor” hacia el prójimo. Estos cuadros actúan como
+magnetos para experiencia negativa, pérdida y limitación y hasta tanto sean regenerados
+por el principio asegurarán la experiencia continua de negativos monetarios.
+
+El mándala de Venus es la representación astrológica del dicho que “el amor al
+dinero es la raíz de todo mal”. No el dinero en sí, porque el dinero en sí no tiene poder.
+Pero cuando la conciencia de una persona está “arraigada” en la segunda casa su conciencia
+amorosa está arraigada a los apegos de sus posesiones.
+
+De esa manera la alquimia del Amor en la relación del individuo con otras personas
+es impedida y de esa manera con el tiempo se congestiona a tal grado que casi toda cosa o
+persona se verá como una amenaza a sus pertenencias. Su codicia, desconfianza, avaricia,
+el temor, y así sucesivamente lo impele a crear cuadros mentales muy torcidos de la gente y
+automáticamente los arroja más y más lejos de él. El mal crece al grado que nuestra
+conciencia nos separa de los demás. Por lo tanto vemos que el dinero no es justamente un
+medio de intercambio material, sino que da, por la manera en que es usado, una indicación
+directa de la conciencia amorosa de la persona.
+
+La persona ama la posesión de posesiones más que lo que ama y respeta a la gente o
+en ciertos patrones de relación - a los padres, la mujer, los hijos, etc., - ella ejercita una
+conciencia amorosa fecunda, pero en los negocios tiene una conciencia de pirata; o su
+conciencia está integrada hacia los fines de mantener relaciones balanceadas y armoniosas
+con toda la gente. Nosotros le servimos a Dios mediante el ejercicio del poder redentor del
+Amor o le servimos al Becerro de Oro esclavizándonos a la ilusión de poseer las cosas.
+Mientras esta ilusión domine la conciencia nos atraemos experiencia de índole negativa y
+dolorosa.
+
+Tan pronto como la recta actitud hacia otras personas y la recta relación con ellas se
+conviertan en el punto focal de la conciencia, las corrientes del poder de Amor iniciarán un
+proceso alquímico por el cual se logrará la liberación de la esclavitud de “ser poseído por
+las posesiones”. Prescindiendo de lo que cualquiera otro haga todo ser humano debe lograr
+a su debido tiempo la conciencia del valor espiritual del recto uso del dinero. Cuando llega
+ese momento se manifestará la seguridad de la relación recta entre las personas. La
+honradez es un florecimiento del corazón humano por la cual la conciencia puede interpelar
+las cosas de la Vida como son realmente. Una mujer o un hombre honesto ven las cosas tal
+como son con respecto al principio y como expresiones de los principios. Ellos que son
+gente verdaderamente honrada no necesitan que se les “legisle” hacia la acción honrada,
+por las leyes o por la amenaza de castigo; ellos funcionan con la conciencia del intercambio
+recto y respetuoso con otras personas en todas las formas.
+
+El proceso implicado en la lectura astrológica puede exponerse de esta manera:
+primero, una comprensión firme de la significación abstracta o espiritual de cada factor en
+el mapa; entonces la aplicación del entendimiento abstracto a los detalles del mapa bajo
+consideración. Esto es porque cada horóscopo humano es una variación del Horóscopo
+Arquetípico, que es el Gran Símbolo Vibratorio de la entidad que llamamos Humanidad.
+Este arquetipo es la rueda de doce casas con los símbolos de los signos colocados en las
+cúspides, comenzando con cero de Aries en la primera, cero de Tauro en la segunda y así
+sucesivamente con los otros diez signos y casas. El Arquetipo se completa colocando los
+planetas en las casas y signos de su dignidad. Cada factor es exactamente tan importante
+como cualquier otro factor puesto que todos son expresiones de conciencia en la
+encarnación. Todos son espirituales, todos son buenos y todos son necesarios. Los
+astrólogos deben fundamentarse en esta comprensión si desean desarrollar la habilidad de
+percibir las potencialidades espirituales delineadas en los mapas que ellos estudian así
+como las causas y propósitos que han de encontrarse.
+
+Uno de los servicios más significativos que el astrólogo puede rendir es revelar los
+secretos de la segunda casa, porque la humanidad en su mayor parte está atada a la
+servidumbre del deseo de posesiones. La conciencia de posesión es el nivel primitivo del
+principio de la segunda casa; el principio en sí es mayordomía - la responsabilidad del uso
+recto y el intercambio perfecto -. Cuando se lee un horóscopo desde el punto de vista de la
+posesión, el factor de acumulación es acentuado - o puede acentuarse - en la mente. El
+astrólogo no debe descuidar su oportunidad de alertar al cliente sobre el principio. El
+conocimiento del principio es el que abre la conciencia para las soluciones y
+reorientaciones.
+
+La facultad de la segunda casa puede verse claramente por la consideración del
+siguiente mándala: una rueda de doce casas; los símbolos de Aries, Tauro y Géminis sobre
+las cúspides de la primera, segunda y tercera casas respectivamente; una línea recta conecta
+las cúspides de la primera y cuarta casas, creando un contenido de las primeras tres casas.
+La segunda casa transmite una implicación emocional: el deseo de sostener la vida física.
+La tercera casa es mental: el proceso de aprender cómo efectuar este sostenimiento.
+Nosotros sostenemos la vida física mediante el uso de las cosas de la Tierra, no
+apegándonos a ellas. En el análisis final, nosotros no podemos adherirnos a cosa física
+alguna, pero nuestro uso de las cosas físicas - y el dinero - representan nuestra conciencia
+de esclavitud al sentido de posesión o la libertad interna de usar las cosas de la tierra con
+juicio e inteligencia.
+
+La lectura de cualquier casa puede ser un asunto complicado. Analicemos los
+factores pertenecientes a los patrones de la segunda casa y considerémoslos en orden. Este
+análisis implicará la creación de varios mándalas de luz blanca. Use solamente las
+posiciones planetarias por signo y casa, no los grados; nosotros vamos a tratar de percibir
+las operaciones del principio a través de los patrones de la segunda casa y no queremos
+limitar nuestra conciencia por el efecto psicológico negativo de impresionar nuestras
+mentes con los “malos” aspectos.
+
+Primer mándala: el símbolo del signo de la segunda casa sobre la segunda cúspide;
+coloque el símbolo de su regente planetario en su signo y casa apropiados. Este es el
+“mándala esencial de la segunda casa” de cualquier horóscopo; él transmite, por medio del
+signo en la cúspide, la conciencia de la persona con respecto al dinero y las posesiones; la
+posición de su regente indica dónde y en qué capacidad esta conciencia ha de hallar el más
+completo cumplimiento del poder de atraer los medios de la tierra a través del ejercicio del
+intercambio perfecto. Sirve además para delinear el departamento de experiencia que
+enfocará lo mejor de la conciencia financiera de la persona y esencialmente demuestra a
+qué grado sé expresa o puede expresarse el nivel espiritual de mayordomía de la persona.
+Demuestra también si la persona tiende a expresar posesividad o uso de posesión.
+
+Segundo mándala (o grupo): un mándala para cada planeta en la segunda casa y en
+el signo de la segunda casa. Coloque los símbolos de los signos sobre las cúspides de las
+casas regidas por estos planetas. Estos planetas enfocan la conciencia de posesión mucho
+más intensamente que ningún otro patrón porque el capítulo de experiencia sincroniza con
+el patrón de la conciencia. Este mándala acentúa muy poderosamente las experiencias de
+las finanzas; estas experiencias pueden incluir finanzas de propiedad, finanzas de inversión
+- en breve toda clase de experiencias que son enfoques de la conciencia financiera -. La
+regeneración de las casas regidas por los planetas depende definitivamente de la
+regeneración de la conciencia posesiva.
+
+Tercer mándala: un mándala para cada planeta en el signo de la segunda casa, pero
+en la primera casa. Esta es una fase de la conciencia financiera en formación. El desarrollo
+personal - o desenvolvimiento de la personalidad - es preparar experiencia financiera para
+el futuro. La habilidad financiera se ve como un punto de evolución personal en vez de la
+facultad de adquisición por su propia causa.
+
+Cuarto mándala: los planetas en la segunda casa pero en él signo de la tercera casa:
+la educación y el desarrollo mental son enfocados a través de las experiencias financieras.
+Se han de encontrar disciplinas mentales en experiencias relacionadas con hacer dinero. El
+acercamiento mental en un patrón tal tiende a ser coloreado por la cualidad de deseo de
+obtener y retener. El tercer y cuarto mándalas son patrones de retroceso porque los planetas
+así colocados están en casas que preceden a la casa a la cual están relacionados por signos.
+El cuarto mándala nos indica que la persona no está aún hasta cierto punto puramente
+integrada en la intelección abstracta o impersonal; ella tiende a “pensar en conceptos de sus
+deseos de posesión y evaluación financiera”.
+
+Estos cuatro mándalas son todos focos de patrones de experiencia de la segunda
+casa. El desarrollo armonioso de este factor en nuestra experiencia de la Tierra está
+demostrado que es de gran significación en el crecimiento anímico cuando recordamos que
+la segunda casa es el primer paso en la formación del Gran Trino del Elemento Tierra. La
+base de esté trino es una horizontal conectando las cúspides de la segunda y sexta casas; la
+implicación simbólica es que el Principio de Servicio Perfecto (una fase de la conciencia
+impersonal) depende directamente del ejercicio recto de la conciencia monetaria. El vértice
+del trino de Tierra es la décima casa - la Sociedad y sus expresiones perfeccionadas como
+una entidad universal -. Los defectos de la segunda y sexta casas aseguran defectos en la
+décima. La frase el “Capital (la segunda casa) contra la Labor (la sexta casa)” es tan
+negativa como cualquier otra. Debe convertirse en “Capital y Labor”, funcionando juntos
+en intercambio perfecto entre todos los factores de modo que el vértice de cualquier
+sociedad o civilización pueda lograr lo mejor. La regencia natural o abstracta de la décima
+casa por Saturno y la exaltación de Saturno en Libra - el signo regido por Venus que
+además rige abstractamente la segunda casa - es algo sobre lo cual todos nosotros podemos
+meditar. Ella representa el significado esencial de la palabra civilización: “Las relaciones
+civiles entre todas las personas en su trato con las cosas de la tierra y todos los intercambios
+relacionados con ellas”.
+
+Prescindiendo del signo sobre la segunda cúspide y los planetas implicados
+debemos tener en mente que Venus es el símbolo arquetípico de la segunda casa como un
+factor de la conciencia espiritual. En este punto es apropiado decir que los regentes
+naturales o abstractos de los signos y casas condensan - o concentran - las significaciones
+esotéricas de las casas como capítulos de nuestro desenvolvimiento. Por lo tanto nuestra
+consideración de la lectura de la segunda casa no puede estar completa sin estudiar las
+posiciones y patrones, de Venus; además, debemos intensificar nuestra conciencia de la
+significación de Venus como el “Principio del Equilibrio” (Armonía y Balance) a través del
+intercambio.
+
+Quinto mándala - el mándala de Venus -: Tauro sobre la segunda cúspide, Libra
+sobre la séptima. Estudie este mándala volteando la rueda de manera que cada cúspide en
+cambio se convierta en el Ascendente. Perciba cómo los dos signos - formando el aspecto
+de 150° - se relacionan con la rueda en conjunto en estas posiciones diferentes. Tauro y
+Libra componen la “conciencia del dinero” y la “conciencia de relación”. El principio,
+como se ha dicho antes, es “Equilibrio por medio de la mutualidad de dar y recibir” - el
+Principio del Matrimonio -, Medite sobre el mándala de Venus de cualquier mapa que se le
+pida delinear desde un punto de vista financiero, para llegar a raíces de la conciencia básica
+de intercambio de la persona. Las posiciones de Venus por casa y signo - prescindiendo de
+sus aspectos - le dará a usted una clave sobre las razones esotéricas para la manifestación de
+la falta o deficiencia monetaria. Los planetas que están afligiendo a Venus deben
+regenerarse para poder remover la raíz de la conciencia de pobreza. Las aflicciones a Venus
+demuestran solamente cómo expresó la persona en sus encarnaciones pasadas desbalance e
+inarmonía en sus relaciones con los otros. Las condiciones relacionadas con la segunda casa
+son peculiares a esta encarnación, pero Venus es el símbolo arquetípico de recta relación en
+todas las fases y en todos los planos. Ayude a su cliente a hacerse más consciente de la
+verdad de este principio, hacerlo es una de sus más grandes responsabilidades.
+
+Para concluir esta exposición: utilice las palabras clave de los planetas según ellos
+expresan regencia o ubicación de las condiciones de la segunda casa; esto asegura la
+percepción del propósito esotérico del dinero en esta encarnación de su cliente. No lo
+debilite haciéndole decisiones financieras - hacerlo es una violación a su propio Principio
+del Servicio -. Póngalo alerta a su propia conciencia de Principio y estimúlelo a tomar su
+propio camino (financiero), seguir los caminos del ejercicio de su inteligencia financiera lo
+mejor posible, en buena voluntad, honradez, e intercambio perfecto con todos los demás.
+
+### <h3 id="chapter-7">Capítulo VII: La Quinta Casa</h3>
+
+La quinta casa del horóscopo abstracto es el segundo punto para la cuadratura de
+signo fijo y para los signos de fuego. La descarga de sus potencialidades proporciona una
+canalización excelente para la progresión espiritual.
+
+La quinta casa está bajo el horizonte - en el hemisferio norte - y a la derecha de la
+vertical de la rueda: oeste. Es la casa central del cuadrante iniciado por la cuarta casa; este
+cuadrante es llamado - o puede tomar se como él - sector de la familia. Como está bajo el
+horizonte la quinta casa queda en el hemisferio que atañe a la conciencia del yo separado.
+Estando en el oeste ella es el hemisferio del destino - aquellos capítulos de experiencia que
+la Vida nos trae para abordarlos lo mejor posible -; nosotros no ejercitamos la
+autodeterminación en estos patrones tanto como lo hacemos o podemos hacer con aquellos
+en el hemisferio este.
+
+Los cuatro signos fijos - Tauro, Leo, Escorpión y Acuario - y sus casas
+correspondientes - la segunda, quinta, octava y undécima - son los signos y casas de
+recurso y sostenimiento por los cuales son “nutridos” los cuadrantes iniciados por los
+cardinales. La primera casa inicia la conciencia de “Yo Soy un individuo”; la cuarta casa
+dice: “Yo Soy un factor individual en un patrón de familia, herencia y aspecto”. Los
+recursos posibilitados por la quinta casa capacitan a la Humanidad para comprender: “Yo
+tengo el poder de contribuir a la corriente de vida por medio del ejercicio de mi conciencia
+amorosa y de sostener mis creaciones por mi propio recurso del poder amoroso”. El Sol, el
+cual rige abstractamente la quinta casa a través del signo de Leo, es el símbolo esencial de
+Poder de cualquier clase, así como el Sol es exactamente la fuente radiante de vida para
+nuestro sistema solar, su creación. Nosotros estamos impulsados a descargar de este recurso
+energías dadoras de vida por medio del ejercicio del amor de los padres y damos
+encarnación a otros Egos que vienen como hijos nuestros. Nosotros también damos vida a
+expresiones impersonales en la creación artística. Estas descargas son todas expresiones del
+aspecto creador del poder amoroso, ya sean biológicas o impersonales, en el amor a
+nuestros hijos o en el amor a nuestra creación y al trabajo a que nos hemos dedicado.
+
+Los patrones irredimidos envueltos en estas expresiones implican una intensidad
+correspondiente de Karma debido a los recursos de la potencialidad intensa significada por
+los cuatro signos fijos y sus casas. La palabra clave esencial implicada por Leo irredimido
+es el mal uso del poder a través del ejercicio del egotismo. (Por “Leo irredimido” se da a
+entender patrones de fricción concernientes a planetas en Leo o al Sol mismo, donde quiera
+que aparezca en el mapa). El símbolo que nosotros usamos para el “aspecto de cuadratura”
+- un cuadrado con base horizontal - cuando aplicado a la rueda cae de tal manera que los
+ángulos coinciden con los puntos medios de las casas fijas; la segunda de éstas - el punto
+medio de Leo - proporciona el punto critico hacia arriba mientras recorremos alrededor de
+la rueda en contra de las manecillas del reloj desde el Ascendente. En este cuadro estamos
+advertidos de la importancia de la regeneración de la quinta casa: hasta que esa
+potencialidad sea regenerada, la conciencia permanece fija en niveles de posesión y
+egotismo - la segunda y quinta casas, ambas bajo el horizonte -. Si podemos imaginarnos la
+cuadratura fija “detenida” en la sexta cúspide y las corrientes “cortadas”, las energías que -
+simbólicamente - tratarán de subir al cuadrante de relación sobre el horizonte son frustradas
+y agitadas de un lado a otro dentro de las primeras cinco casas y el Yo Soy de la primera
+casa permanece fijo en una expresión limitadora de deseo de posesión y deseo de poder; las
+posesiones se convierten en objetos de conciencia amorosa y las personas que deben ser
+amadas y sostenidas por el amor se convierten en los objetos de la conciencia de poder,
+para ser dominados y utilizados, como lo son las posesiones inanimadas. En este patrón
+frustrado está indicado un gran símbolo: la historia del Hombre de inhumanidad a
+humanidad; el aprisionamiento del Hombre por sí mismo.
+
+Cuando la humanidad identifica sus posesiones como Símbolo de poder y a los hijos
+como objetos de poder en vez de objetos de amor, vemos la conciencia de egotismo
+pasando por la experiencia humana. Esta conciencia, activada por las primeras cuatro casas
+y sostenida - si eso puede llamarse sostenimiento - por niveles irredimidos de la quinta casa
+representa en forma simbólica el concepto de dinastía: grupos de individuos unidos en
+vibración por medio de un patrón de familia o un patrón nacional, que están sujetos a un
+molde de familia como expresión de poder y egotismo. El individuo y sus derechos
+esenciales son considerados como una cifra - o a lo mejor como una prenda - en el
+mantenimiento de su plan fijo y rígidamente organizado. El matrimonio es basado en la
+posición, la herencia y las posesiones; la religión es una conformidad al ritual y al dogma,
+por la cual el poder y la supremacía del patrón son acentuadas continuamente; la educación
+es un instrumento para amoldar las mentes de acuerdo con la conveniencia del plan. En
+realidad la tercera casa en este símbolo es cercada entre la primera y la quinta casas. No
+teniendo escape más allá de la quinta casa la educación permanece puramente como una
+cosa de rutina, tradición y repetición de una organización intelectual limitada. La historia
+cuenta este relato una y otra vez; todos nosotros hemos atravesado fases en las que
+funcionamos y nos sentimos como cifras en una familia o patrón nacionalista; es realmente
+una expresión de la conciencia tribal de la humanidad. Como tal ella lleva a cabo una
+necesidad evolutiva y como tal ella es buena. Sin embargo a su debido tiempo debe ser
+trascendida para que la raza evolucione. Aquellos que han reconocido hasta cierto punto sus
+poderes inherentes, pero que permanecen irredimidos son los que actúan como los tiranos,
+déspotas y autócratas de familia, grupos y naciones; ellos son los que “esgrimen el látigo”.
+Aquellos que permanecen en las primeras cuatro casas y que aún no se han dado cuenta de
+sus poderes son las víctimas de los otros; ellos son los supersticiosos y los crédulos, los
+esbirros y los esclavos. Ellos viven en su conciencia superficial, en sus deseos y
+necesidades físicas, su subordinación a todo lo que temen o no comprenden. En breve ellos
+aún no se han dado cuenta que ellos son recursos de poder y de autodeterminación. Ellos
+están escasamente conscientes de la potencialidad individual. Existen como factores en un
+patrón que todo lo abarca y que existe como modelo para sus experiencias.
+
+Cuando las personas llegan al punto de sentirse insatisfechas, inquietas y abrumadas
+con los patrones cristalizados con los cuales han estado viviendo, y desean encontrar un
+escape más satisfactorio y amplio para sus energías, estudien entonces el mapa con miras al
+análisis de las potencialidades de la quinta casa. Este análisis debe incluir por supuesto un
+estudio del Sol porque el Sol es el símbolo abstracto de la habilidad para la
+autodeterminación. Muchas personas se cristalizan porque han puesto sus vidas en canales
+que ellas realmente no desean; en otras palabras, ellas se han desviado hacia un patrón
+artificial y hastiadas de sus propios errores están ansiosas de volver a su verdadero yo y
+empezar a vivir constructiva y felizmente en concordancia con las mejores potencialidades
+de sus mapas. Algunas de estas personas se han desviado debido a una reacción de miedo o
+de sometimiento a una voluntad más fuerte, la cual ha tratado de forzarlas fuera de su
+camino debido a ignorancia o a una falta de comprensión simpática de sus necesidades. La
+autodeterminación puede decirse que es un aspecto del valor – la quinta casa es una
+expresión propia respaldada por las cualidades regeneradas de la primera casa -. Sin
+embargo cuando el propósito es electrizado en la conciencia, se hacen descargas de
+esperanza, de valor y de entusiasmo renovado y la persona siente que en verdad ha “nacido
+de nuevo”. Ella debe saber lo que desea hacer con su vida, y si continúa cumpliendo con
+sus patrones de responsabilidad, ella tiene todo derecho a determinar de nuevo su progreso
+ascendente. Cuando bregue con un mapa semejante haga mándalas de todos, los aspectos
+del Sol; determine a qué grado puede la persona reorientar un nuevo curso de vida y
+ayúdela a comprender el por qué ella fue impelida a desviarse de su camino recto para que
+ella pueda afrontar los retos de sus aspectos de conciencia con mayor éxito en el futuro.
+
+Con respecto a los patrones de fricción que implican a la quinta casa, uno en
+particular puede ser tratado aquí: la ayuda que el astrólogo como amigo filósofo puede
+rendir a los padres que están azotados por lo que quizás es la forma más patética de
+sufrimiento humano - su reacción de pena a la transición de un niño o bebé amado -. Todo
+ser humano encarna específicamente a través de sus padres por medio de la Ley de la
+Simpatía Vibratoria. Aquellas personas quienes como marido y mujer extienden
+amorosamente a otro Ego una invitación para su encarnación pueden tener tras de ellos una
+historia de posesividad y de dominio de los padres sobre sus hijos en el pasado. La mente
+consciente puede no reconocerlo - y por lo general no lo reconoce -; pero si se interrumpe
+una nueva encarnación, los padres desde un punto de vista filosófico no deben sentir que su
+experiencia de padres ha sido frustrada. Esa transición fue hecha por Ley, así como lo fue la
+encarnación.
+
+La interpretación oculta nos dice que muchos Egos encarnan por corto tiempo para
+restablecer contacto con esta dimensión de modo que su progreso pueda lograrse con mayor
+eficacia. Semejantes niños vienen a padres quienes por alguna razón interna deben aprender
+a desprenderse y conformarse. En alguna parte en el pasado hubo exceso de subyugación
+como una expresión de autoridad o poder de los padres y tal vez el progreso del niño en el
+pasado fue inhibido o frustrado. También, cuando un Ego hace la transición a través de un
+medio súbito o violento y el cuerpo físico es destruido, la persona puede volver pronto a
+establecer sus nexos y entonces no siendo el propósito permanecer por un lapso completo
+de experiencia de encarnación, él prosigue su progreso. Estimule en las mentes de
+semejantes padres un modo más elástico de ver las cosas; aliéntelos a renovar si es posible
+la expresión de su poder amoroso en alguna forma. Estimúlelos sobre todo a neutralizar las
+tendencias de prolongar la pena y el pesar melancólico y desintegrante e indicarles que
+mientras ellos mismos estén encarnados, ellos no necesitan interrumpir las expresiones de
+su potencialidad amorosa. En otras palabras, traté de ayudarlos a mantener viva y expresiva
+la conciencia de su quinta casa. Mantener la quinta casa viva significa mantener vivo el
+corazón.
+
+En el mándala de los signos de fuego conectamos las cúspides de la primera, quinta
+y novena casas, formando un triángulo equilátero, la ascendente del cual es la vertical desde
+la quinta a la novena.
+
+Cuando el aspecto de poder de la quinta casa es ampliado por la conciencia
+amorosa, la insignia simbólica de la potencialidad para él júbilo es trazada. Sugerimos en
+este punto que nosotros consideramos el júbilo como mucho más significativo que un
+simple sentimiento - usualmente temporal - de bienestar o satisfacción. El júbilo es un
+estado espiritual en el cual - o por el cual - el Yo Superior de la Humanidad puede expresar
+su liberación constructiva prescindiendo de condiciones y asuntos externos, porque el júbilo
+es uno de los atributos de la conciencia de amor. Él permite la descarga de poder para el
+mayor bien de todos los concernidos porque el amor esclarece las percepciones a una
+conciencia del bien inherente en todas las personas y de las potencialidades y
+significaciones mejores de cualquier experiencia.
+
+Lo mejor de Leo - y la quinta casa - es el “corazón sonriente”, el entusiasmo
+radiante y desbordante de alta espiritualidad que colman la vida humana - y las relaciones -
+con amabilidad, animación y encanto. Es la insignia del placer y la lozanía por los cuales la
+conciencia del Hombre expresa su percepción de la amplitud - interna y externa -. Es la
+“casa de los entretenimientos” puesto que un entretenimiento en el verdadero sentido de la
+palabra es el escape creador de un interés intenso, un pasatiempo amado, una actividad
+recreativa y armonizadora. Una reorientación psicológica puede ofrecerse a personas que se
+han estancado por excesiva preocupación sobre la rutina, cumplimiento de responsabilidad
+y las cosas prácticas. Todos pueden encontrar una canalización para la descarga de los
+impulsos creadores y recreativos si desean verdaderamente organizar en conformidad sus
+vidas. La psicología ha probado una y otra vez el poder de un entretenimiento de vibración
+sincronizada para infundir en la vida humana una nueva conciencia de júbilo, entusiasmo y
+bienestar en todos los planos.
+
+La primera casa es conciencia propia; la quinta es expresión propia creadora; la
+novena es el aspecto creador de sabiduría, destilada de la experiencia. La primera es el ser -
+Yo Soy -; la quinta es el ser jubiloso - Yo Amo -; la novena es el ser sabio - Yo Comprendo.
+
+La quinta casa es el amor en su expresión más singular. Es una irradiación de la
+conciencia individual que es una descarga de poderes para la persona de quien ellos emanan
+y un calor y estímulo para aquellos que la reciben. La quinta casa es llamada
+tradicionalmente la “casa de los hijos”. Esa interpretación no obstante es un derivado. En el
+mapa de un individuo específico la quinta casa es la insignia de su potencialidad creadora
+de amor: ella pinta el cuadro de su conciencia de los hijos como un factor en su conciencia
+de relación - es su potencialidad como un amoroso dador de vida -. El Amor por el cual
+nosotros procreamos otros Egos es nuestro nivel de esa expresión Divina de Amor por la
+cual un sistema solar es encarnado. Aquí puede verse por qué el egotismo de parte de
+padres y maestros puede ser un medio mortífero para las vidas de los hijos y los discípulos.
+El egotismo es retroactivo; retrocede violentamente a los niveles de la auto-glorificación y
+el interés propio. El Amor está interesado en el verdadero bienestar y adelanto de aquellos a
+quienes les da vida. Kahlil Gibran se refiere a los padres que aman verdaderamente como
+“arcos de los cuales brotan flechas”; para proseguir en su desarrollo y cumplir sus propios
+propósitos y destinos.
+
+Debemos apreciar más que nunca antes, esa expresión de Amor que hizo posible
+nuestra encarnación. Aprendamos sobre el amor de los padres de aquellos que han ido antes
+que nosotros y reconozcamos que nuestro progreso fue posible porque ellos respondieron a
+la vida en su liberación del amor. Y debemos reconocer que nosotros también ya como
+padres o no, creamos una belleza más espléndida para todos cuando sacamos nuestros
+recursos de alegría espiritual; al hacerlo creamos realmente el regocijo de las personas que
+se relacionan con nosotros, por medio de los procesos de la vibración simpática. Nosotros
+queremos vivir la vida en conceptos de júbilo, valientemente, generosamente y
+hermosamente. Para lograrlo debemos expresar el centro del corazón y vivir amorosamente.
+
+### <h3 id="chapter-8">Capítulo VIII: La Octava Casa</h3>
+
+La experiencia de la transición de la dimensión física a los planos invisibles es una
+experiencia que la humanidad en su mayor parte, considera con un sentimiento de ansiedad,
+miedo y en algunos casos puro terror. En ninguna fase del servicio astrológico necesita el
+astrólogo ser más sensitivo, más impersonalmente compasivo y más verdaderamente
+misericordioso que en aquellos momentos en que es llamado a interpretar un mapa de
+alguien cuya reacción de desconsuelo ante la muerte de un ser querido ha neutralizado
+temporalmente su capacidad para el progreso. Puesto que cada casa en la rueda tiene sus
+principios básicos - como patrón de experiencia - este material es presentado con la
+esperanza de que ayudará a los estudiantes y prácticos de astrología a una realización más
+clara de esta la más oculta de las casas y así ampliar su habilidad de tratar con personas que
+están “recorriendo el sendero oscuro”.
+
+El principio de la octava casa es la regeneración; y aquí puede ofrecerse una palabra
+de explicación.
+
+Un excelente hombre a quien el autor conoce ha demostrado espléndidamente el
+poder del punto de vista regenerador ante una separación desgarradora. Su honorable
+esposa tuvo su transición en un momento en que ella estaba en la culminación de su fama y
+su fortuna, amada y respetada por mucha gente. Podemos decir, que ella tenía todo por que
+vivir; sin embargo la Vida la separó de este capítulo bajo circunstancias drásticas y
+calamitosas. Hace poco más de un año el horóscopo de esta excelente mujer fue puesto al
+alcance del autor, que trató de descifrar el secreto de esta experiencia transicional
+particular. Enfocando el análisis del mapa en los patrones de la séptima y octava,
+duodécima y primera casas, se llegó a esta conclusión: más allá y sobre toda fama mundana
+lograda por ella, esta mujer era una verdadera alma grande quien como un gesto de servicio
+amoroso eligió efectuar su transición en esta forma drástica para alcanzar una gran
+redención. Es muy posible que esta hazaña heroica haya proporcionado la posibilidad de
+grandes realizaciones para ella en el futuro. Este mapa particular es un maravilloso ejemplo
+del enlace de patrones de relación del pasado y su cumplimiento en la presente encarnación.
+El reto al valor e integridad de espíritu del marido fue enfrentado gallardamente y en
+consecuencia él fue movido a un gesto de servicio que habiendo sido realizado, ya se ha
+probado que es una fuente de regeneración y de renovación por su notable trabajo.
+
+Para llegar a la esencia de la octava casa prepare un mándala como sigue: una rueda
+de doce casas en blanco; enumere la primera, segunda, séptima y octava casas; intensifique
+el diámetro formado por las cúspides de la segunda y octava. Esto es un cuadro simple de la
+octava casa y su polaridad, la segunda. Voltee la rueda de modo que la octava cúspide se
+convierta en el Ascendente; la séptima casa entonces aparece como la duodécima. Los
+significados esenciales de la duodécima casa son: (1) El eslabón entre la encarnación pasada y la presente; (2) Redención necesitada que impele a la presente encarnación.
+Desde este punto de vista el significado de la octava casa de la presente encarnación
+se ve que es la regeneración de imágenes de deseos que son las memorias ocultas de
+reacciones a experiencias matrimoniales y de relación en la encarnación pasada. Estos
+cuadros de deseos tienen sus raíces en los instintos sexuales y en la conciencia de posesión,
+los cuales alcanzan en las relaciones matrimoniales o sexuales un máximo de intensidad
+mayor que el que alcanzan a través de cualquier otra fase de experiencia.
+
+Refiriéndonos al mándala original: la polaridad u oposición hecha por la relación de
+la octava y segunda casas entre si puede interpretarse de esta manera: el enemigo (aspecto
+de oposición) de la regeneración (octava casa) es el apego (fase primitiva de la segunda
+casa); el enemigo (aspecto de oposición) de la mayordomía (segunda casa) es el fracaso de
+regenerar el deseo (octava casa negativa). La mayordomía es el “recto uso de los
+materiales” - ingreso y egreso proporcionado y equilibrado -; el apego a los materiales es
+todo ingreso y ningún egreso, un estado de desbalance por el cual la conciencia se “cerca de
+tierra” eventualmente en su preocupación por las evaluaciones materiales.
+
+Los negativos de estas dos casas se “alimentan mutuamente”; el deseo sin Amor, el
+sexo sin fruición permanecen fijos en la posesividad; el deseo intenso por el dinero y las
+cosas sin una salida balanceada a través del intercambio, congestiona los cuadros de
+ingreso, y una especie de parálisis resulta debida a las demandas cada vez mayores de la
+naturaleza de deseos. La persona amada es considerada como una posesión; el enfoque
+sobre el dinero o las posesiones con la exclusión de la recta relación personal neutraliza
+gradualmente la potencialidad del amor y en cualquiera de los dos casos el resultado es la
+congestión, la cual a su vez engendra toda clase de males en todos los planos de la
+conciencia humana. Los poderes simbolizados por la octava casa son los que proveen la
+descarga de las congestiones de la naturaleza del deseo. Esta descarga es simbolizada por la
+vibración dinámica de Marte: acción constructiva; a través de Venus: mutualidad.
+
+La transición que nosotros estamos acostumbrados a llamar la muerte es en realidad
+una expresión en gran escala del Principio de Regeneración que es a la vez la esencia de la
+espiral hacia adelante y hacia arriba de toda expresión de Vida. Nuestros cuerpos están
+renovándose y regenerándose constantemente cuando están en estado de salud; la
+congestión - o “falta de progresión” - es lo que causa la enfermedad. En el plano de la
+reacción, emocional la congestión es cualquier reacción que resulta de la incapacidad o
+desinclinación de la persona de mantenerse adaptable, sensible, receptiva y entusiasta hacia
+toda nueva experiencia. Si nos adherimos, en el sentimiento, a cosas que ya no toman parte
+en nuestro vivir constructivo, nos congestionamos en alguna forma. Si no obstante, nos
+mantenemos receptivos y sensibles a la significación de lo nuevo, nosotros acogemos el
+advenimiento a nuestras vidas, de otros moldes en los cuales podemos derramar nuestras
+potencialidades.
+
+La congestión como una reacción a la transición de un ser amado resulta en
+manifestaciones tales como compasión propia, cavilación morbosa sobre el pasado,
+resentimientos y tendencia al auto-aislamiento. Estos en cambio acumulan las energías en
+montones de polvo de misantropía, desesperación, tendencia al escape y confusiones neuro-
+mentales. Cuando nos apegamos a aquello que la vida ha demostrado que está anticuado, no
+nos estancamos, sino que retrocedemos. Nosotros estamos con la vida en generación y
+regeneración o contra la vida en la degeneración congestionada. La transición de la persona
+amada por su cliente no es problema de su cliente; su problema es extraer los recursos de
+poder interno que han de resultar en la neutralización de sus patrones reaccionales
+decadentes. Es una parte vital de su responsabilidad ayudar a semejante persona a
+comprender que “no existe la muerte, qué sólo existe la vida”. Grabe en su conciencia la
+eterna animación de la vida y la importancia de nuestra responsabilidad de adaptarnos al
+cambio de circunstancias y liberar lo mejor de nuestras posibilidades progresivas.
+
+Haga que su conversación con tal persona sea completamente dadora, de vida;
+nunca prediga la transición ni aún trate de describir los medios por los cuales puede
+sobrevenir. No se debe participar de la curiosidad mórbida sobre este punto. (Como quiera
+que sea, desde un punto de vista puramente astrológico, no es prudente intentar esta clase
+de interpretación; el mismo patrón que designa la muerte también designa la salida de lo
+viejo a lo nuevo durante la encarnación).
+
+Usted como astrólogo deberá tener una perspectiva clara y limpia sobre la transición
+y sus significaciones si usted ha de auxiliar en alguna forma. No se debe permitir que el
+temor a la muerte se aloje en su subconsciente si usted está desempeñando el servicio de
+“arrojar Luz sobre la conciencia obscurecida de otro”. Apóyese por completo en una
+conciencia de vida eterna y si en alguna ocasión experimenta una tendencia a reaccionar
+con una conmoción, temor o ansiedad a un cuadro de muerte, entrénese para neutralizarla
+inmediatamente por los medios más eficaces (filosóficos y psicológicos) a su disposición.
+
+Otro acercamiento a la octava casa puede lograrse cuando comprendemos que ésta
+proporciona una llave para resolver problemas de todas clases que pueden estar indicados
+en el mapa. Un problema es el resultado de la energía dirigida erróneamente; debido a la
+intensidad de la cualidad implicada en el patrón de la octava casa, una pequeña
+reorientación en ese punto podría tener un efecto notable en la reorientación de casi todas
+las otras condiciones negativas demostradas en el mapa. En realidad todos nuestros
+patrones de relación son ahora consecuencias del pasado y están en últimos análisis
+arraigados en nuestra conciencia de deseos de muchas encarnaciones de experiencias de
+relación. Nuestros deseos recorren todo el teclado: la conservación propia y el
+mantenimiento propio; obsesiones de todas clases; poder sobre materiales y personas;
+satisfacción sexual y posesividad mutua de dos personas entre sí; propiedad y prestigio ante
+el mundo; fama y renombre, y así sucesivamente todos estos cuadros de deseos e
+impresiones y memorias nos han impelido a patrones específicos de relación con otras
+personas desde el principio; congestiones en cualquiera de estos puntos han sido “muertes
+internas” de las cuales hemos tenido que encontrar liberación de una manera o de otra.
+
+En el corazón humano hay algo que busca continuamente la iluminación y cuando el
+astrólogo tiene que tratar con un “problema de aflicción” él reconoce que su primera y
+mayor responsabilidad es estimular la capacidad de la persona acongojada para el valor y la
+adaptabilidad inteligente. Cuando comprendemos que la octava casa es llamada también la
+casa de la experiencia de los sueños, reconocemos el valor de nuestro período diario de
+sueño como un medio regenerador. En vez de continuar en la miasma dé miedo mientras
+enfrenta lo “desconocido” (incidentalmente, que ha sido enfrentado por todos nosotros
+muchas veces en el pasado) cualquier persona acongojada está buscando instintivamente un
+entendimiento más claro de su patrón de experiencia que lo que había buscado antes; él
+continuará verdaderamente buscando hasta encontrar la contestación, ya sea en esta
+encarnación o en la décima desde ahora. Ayúdelo, por lo tanto, a ver la transición de su ser
+querido en la más misericordiosa luz; recuérdele los momentos en que él estaba tan agotado
+por el esfuerzo físico o el dolor que deseaba más unas horas de sueño que todo el oro de la
+tierra. Entonces preséntele el cuadro de la conciencia del ser amado (que se ha manifestado
+durante millones de años) en necesidad de dormir unas horas antes de reasumir la siguiente
+fase de experiencia. Haga que la “muerte” sea conocida en su conciencia como una fase de
+experiencia rítmica, natural y necesaria. Luego dirija su atención a la casa octava del cliente
+porque él aún está aquí y debe proseguir con su vida. Se sugiere que usted “alumbre con luz
+blanca” al regente de su octava casa y estudie de conformidad su posición por signo y casa.
+Se sugiere esto, porque es su oportunidad de ponerlo sobre aviso de lo mejor de sus
+posibilidades progresivas - y usted debe abarcar esta parte de su mapa lo más
+inclusivamente posible.
+
+No cometa el error en semejantes delineaciones de insertar su propia reacción
+personal al patrón de relación destrozado de su cliente. Reconozca que una mujer puede
+amar a su marido sobre todas las demás personas, aún sus hijos; un hombre puede amar a su
+madre más que a nadie, aún su esposa. Recuerde que no importa cuan profundamente el
+cliente amaba al fenecido, la partida de éste último proporciona más amplitud en la vida del
+cliente para extender sus potencialidades de amor en otras direcciones y es evidente que tal
+extensión es requerida en ese momento. Estudie los aspectos de los eclipses solares
+formados antes de la transición; esto indicará que si el eclipse estaba en conjunción a un
+planeta, se manifestaría una prueba severa entre éste y el siguiente eclipse. Pero recuerde
+también que el eclipse previo puede haber formado un trino o sextil con un planeta en el
+mapa del cliente; esto es una promesa de una “inauguración de experiencia” muy
+significativa. La transición puede haber hecho posible esa inauguración.
+
+Los aspectos de la Luna progresada en curso durante la transición (esto es, presentes
+en el mapa del cliente) deben observarse cuidadosamente. Lo que él pone en acción durante
+un aspecto de Luna progresada produce fruto muy significativo. Si su reacción a la
+transición lo impele a una acción retrógrada él sella su conciencia con una impresión de ese
+aspecto más profunda que nunca antes. Por eso decimos de nuevo, que las personas deben
+ser estimuladas a descargar en acción constructiva para una mutualidad del bien cuando
+están en operación patrones regeneradores.
+
+### <h3 id="chapter-9">Capítulo IX: Retrogradación Planetaria</h3>
+
+La retrogradación planetaria como es estudiada en astrología es una acción
+periódica, rítmica, que ilustra el gran principio evolutivo de recapitulación.
+
+En el uso mundano corriente la retrogradación se considera como sinónimo de
+retrogresión, que implica un proceso de decadencia, degeneración, marcha hacia la inercia,
+devolución o contra evolución. Sin embargo, esta interpretación está usada erróneamente
+cuando se aplica a la vida dentro de la forma o al movimiento orbital de los planetas. Es
+cierto que cuando un vehículo de manifestación ha cumplido el propósito para el cual fue
+creado, su sustancia, forma y función orgánica emprenden un proceso de retrogresión; el
+retiro de las fuerzas de Vida inicia un proceso de desintegración del vehículo. Pero la
+esencia de la Vida que no puede morir ni desintegrarse aguarda un nuevo vehículo
+apropiado para su expresión y experiencia evolutivas adicionales.
+
+Cuando observamos y consideramos cabalmente el gran principio de recapitulación
+nosotros reconocemos que este es un patrón o modo por el cual la Naturaleza asegura la
+perfección de los procesos evolutivos. Aquello que fue realizado en una ronda de un ciclo
+dado es recapitulado o revisado en el resumen de la nueva actividad para que la integridad
+completa de los poderes orgánicos pueda ser establecida. Cuando se ha pasado la
+recapitulación, aquello que fue establecido se convierte en la base de aquello que está por
+establecerse; el programa evolutivo del organismo o entidad se hace de ese modo continuo
+sin hoyos ni roturas. Este principio es la gran defensa de la Naturaleza para un proceso
+evolutivo completo y minucioso. En el plano de la mentalidad humana este principio se
+revela en la facultad de la memoria, en el plano del funcionamiento orgánico se revela en el
+patrón cíclico del nacimiento, el crecimiento, la madurez y la transición que es sufrida por
+toda entidad evolutiva en cada encarnación o ciclo de manifestación. Max Heindel ofrece
+una exposición maravillosa de este principio en sus escritos sobre los grandes períodos que
+marcan la involución y evolución de nuestro planeta y de la vida que éste nutre. Con el
+comienzo de cada nuevo período, el período previo es recapitulado de modo que pueda ser
+establecida la integridad de la función.
+
+En la actividad de la oración el principio de recapitulación es defendido por muchas
+escuelas espirituales. Repasar en la memoria los pensamientos, palabras y acciones del día
+previo no significa que el aspirante vaya hacia atrás o retrograde; él hace un repaso honrado
+de sus experiencias de pensamiento, palabra y acción para destilar de éstas el valor
+espiritual. Él analiza, compara y evalúa no sólo sus pensamientos, palabras y acciones, sino
+sus motivos; cuando él aprecia que un motivo es impuro, él expele ese motivo de su
+conciencia por la realización; la claridad de la realización se convertirá alquímicamente en
+una fuerza de Espíritu por la cual él evitará en el futuro tomar en consideración y actuar
+sobre esa motivación particular. ¿Ha retrogradado él al hacer su revisión espiritual?. Por el
+contrario, al hacer del repaso una cosa constructiva él ha ido hacia adelante, aún cuando la
+recapitulación pueda haber incluido un escrutinio de algo muy desagradable - aún
+aborrecible - a sus más finas sensibilidades. La palabra “reconocimiento” significa
+“conocer de nuevo” y el reconocimiento podría muy bien ser identificado como el
+propósito básico de todos los procesos de recapitulación. El reconocimiento, por la
+recapitulación, está asegurado por la Naturaleza para todos los planos, modos y grados de
+conciencia evolutiva.
+
+Debe aclararse un punto desde el principio. La astrología no enseña que los planetas
+de nuestro sistema vayan a veces hacia atrás. La acción retrógrada de los planetas es un
+movimiento periódico aparente debido a la rotación axial y orbital de la Tierra - no es real-.
+Sin embargo, debido a los cambios de observación relativos - relativos en el sentido que los
+planetas en astrología geocéntrica se observan zodiacalmente desde la Tierra y no desde el
+Sol - cada uno de los planetas parece retroceder periódicamente una porción de su recorrido
+zodiacal, permanecer estacionario por un periodo y entonces moverse de nuevo hacia
+adelante sobre el área retrocedida y hacia adelante en un área nueva.
+
+Como la Tierra y cada planeta tienen su propia velocidad orbital y distancia
+alrededor del Sol, estos períodos retrógrados y estacionarios siguen un plan rítmico de
+orden regular que, para una ilustración, no es diferente a los períodos humanos de actividad
+consciente durante la vigilia y de actividad subconsciente durante el sueño, o el plan
+rítmico de los cambios estacionales a través de la sucesión de los años. Debemos recordar
+que cada principio ilustrado por la astrología tiene sus correspondencias en la vida del
+universo, porque el universo es la creación de la Conciencia, y la astrología es el estudio
+simbólico de la Conciencia. El cuadro de cada factor en un horóscopo natal humano es un
+cuadro del Principio, o la Ley, revelado; si es necesaria la encarnación adicional para la
+evolución de un ser humano, entonces la encarnación está sujeta a las leyes percibidas
+como Espacio y Tiempo. La hora y lugar de la encarnación que incluye el registro de un
+planeta “retrógrado” en el horóscopo natal revela al lector algo sobre la evolución de
+conciencia de esa persona así como lo hace su signo Solar, su signo Lunar, el Ascendente o
+cualquier aspecto planetario.
+
+La significación más completa del Principio de Recapitulación puede obtenerse
+considerando la evolución de conciencia a ser representada como un proceso espiral. El
+cambio es la única cosa constante que puede verse a través de la vida y la espiral representa
+el compuesto del “hacia arriba, hacia adelante y siempre”, que caracteriza todos los
+procesos de vida. La involución que es la, fase preparatoria necesaria, es tanto una parte del
+hacia adelante como es la evolución - así como los estudios, las lecciones y la práctica son
+la realización de un talento artístico o profesional -. En cualquier línea de esfuerzo, o
+expresión de la vida orgánica, los programas y objetivos involutivos y evolutivos siempre
+contienen áreas periódicas de recapitulación, pero el arranque de la primera recapitulación
+es siempre una extensión desde el punto inicial y cada recapitulación sucesiva es una
+extensión de las previas correspondientes. De ese modo se forman y se integran los enlaces;
+las formas espirales con continuidad intacta como conciencia individualizada ganan
+percepción creciente de su Yo a través de la experiencia orgánica.
+
+Se puede presentar una pregunta sobre este punto: ¿Qué hay sobre los rezagados, no
+están ellos retrogradando hacia la inercia?. Los fenómenos de la conciencia individualizada
+que no pueden ir a la par con los compañeros de su ola de vida, deben considerarse también
+desde un punto de vista relativo. Estas entidades han demorado o pospuesto su programa
+evolutivo por un período de tiempo tremendo, pero como fueron individualizados en otro
+tiempo, algún día han de retornar en la conciencia, a su origen. Desde su individualización
+con otros en su ola de vida ellas prosiguieron durante un tiempo en el programa evolutivo -
+ellas han tenido alguna experiencia evolutiva -. Por lo tanto, cuando comiencen de nuevo su
+recapitulación inicial, las moverá hacia adelante más rápidamente que lo que se movieron
+en su primera tentativa. Estas entidades no están “perdidas para siempre”; ellas son canales
+para la Luz y Vida de su creador como todas las otras; ellas están retrogradando solamente
+en relación con el progreso de sus hermanos en evolución. Ellas están obteniendo la
+experiencia que es la apropiada para ellas y tendrán su individualización, recapitulaciones
+y etapas progresivas repetidas en su debido tiempo. Recuerde: que en función orgánica y en
+la conciencia, la retrogresión o retrogradación es relativa, no absoluta.
+
+Desde el punto de vista de la observación geocéntrica, el Sol y la Luna se observan
+siempre en moción “directa”; ninguno de ellos forma nunca la retrogradación periódica que
+caracteriza la acción aparente de los planetas. El Sol transita el Zodíaco una vez al año y
+recapitula su posición natal en cada aniversario del individuo; la Luna, por tránsito,
+recapitula su posición natal cada veintisiete días y un tercio, por progresión,
+(aproximadamente) cada veintisiete años y un tercio. Moviéndose hacia adelante desde su
+posición natal al final de su primer recorrido progresado del Zodíaco entra al segundo ciclo
+y recapitula ahí todos los aspectos al natal combinados con los factores adicionales de un
+arreglo diferente de aspectos planetarios progresados, tránsitos mayores y eclipses solares.
+
+La recapitulación solar y lunar es revelada también en patrones formados por
+eclipses solares y Lunas Llenas en esta forma: por ejemplo, eclipse solar, agosto de 1952,
+en Leo 28°; Luna Llena, febrero de 1954, en Leo 28°. Este patrón abarcó un lapso de
+dieciocho meses y la Luna Llena recapituló el eclipse. Los aspectos formados al mapa natal
+por el eclipse en un caso así formará la nota clave de experiencia de la persona durante ese
+subsiguiente lapso de muchos meses y en el tiempo de la recapitulación de Luna Llena, el
+astrólogo de mente espiritualizada hará bien en hacer un repaso de evaluación de su
+experiencia, destilar valor constructivo de ese y construir con eso su cuerpo de alma. Los
+períodos que están caracterizados por la recapitulación de un eclipse solar por una Luna
+Llena se encuentra que generalmente cubren de dieciocho a veinticuatro meses de tiempo;
+el eclipse solar de Cáncer en julio de 1953 fue recapitulado por la Luna Llena en Cáncer,
+enero de 1955.
+
+El Sol y la Luna revelan un movimiento hacia atrás constante en estas formas: el
+Sol por presesión, se mueve hacia atrás a través del Zodíaco y las sucesiones de eclipse,
+Lunas Nuevas y Lunas Llenas se observará que ocurren en posiciones “contra-zodiacales”.
+Sólo los planetas revelan el movimiento periódico “retrógrado-estacionario-hacia adelante”.
+
+Todos nosotros hemos observado casos de estudiantes que han sido rebajados de
+grado en la escuela debido a lo que parecía ser una dificultad insuperable con alguna
+asignatura o fase de alguna asignatura. La necesidad para tal descenso no indicó que el niño
+fuera básicamente estúpido, subnormal o “malo”. Simplemente indicó que él no estaba
+debidamente preparado para cumplir el requisito de ese grado para esa asignatura
+particular. Por lo tanto, puesto que se le requería obtener ese conocimiento específico, fue
+necesario dejarlo recapitular volviendo atrás a la fase precedente de la asignatura, estudiar y
+digerir de nuevo aquel material y de esa manera cualificar habiéndose preparado para el
+progreso.
+
+Nuestra experiencia encarnada es enseñanza evolutiva. Así como no podemos
+asimilar todo el material sobre una asignatura dada en un semestre, del mismo modo no
+podemos entrar en todas las fases de la experiencia humana en una vida. Todo lo demás a
+un lado, el hecho de que nosotros estamos polarizados orgánicamente como varones y
+hembras, haría imposible la experiencia total. No obstante, por medio de una larga sucesión
+de encarnaciones durante las cuales podemos encarnar de acuerdo con la necesidad
+evolutiva y el requisito kármico como varón o como hembra, nosotros tenemos la
+oportunidad de cumplir todas las fases de la experiencia concerniente al género. Puesto que
+la concentración de pensamiento y de esfuerzo es necesaria para el éxito y la realización de
+nuestros talentos y esfuerzos profesionales, nosotros usamos cada encarnación para
+especializarnos y poder enfocar nuestra conciencia y así derivar el beneficio y desarrollo
+máximo de lo que hacemos en el trabajo u otras actividades y esfuerzos. Sin embargo, así
+como la individualización de conciencia exige realización evolutiva eventual, del mismo
+modo cualquier aceptación de experiencia exige cumplimiento. Y muy a menudo, el
+Principio de Recapitulación debe utilizarse cuando después de aceptar y vivir cierta fase de
+experiencia, nosotros la abandonamos por un tiempo para enfocar nuestra atención en otras
+fases. Aquello que fue dejado en suspenso no fue olvidado; se dejó más bien permanecer
+latente en espera de futura aceptación y resolución. Aquí se encuentra una clave filosófica
+para el estudio interpretativo de la retrogradación planetaria.
+
+Retrógrado natal, permaneciendo retrógrado por progresión durante toda la vida: 
+
+Las
+condiciones indicadas por la casa regida por este planeta están indicadas a ser de
+importancia secundaria para el cumplimiento de la presente misión de vida; sin embargo,
+puesto que todos los factores planetarios tienen propósito espiritual y evolutivo y deben ser
+utilizados por la entidad, tal parece que está indicada alguna forma de cumplimiento vicario
+por este tipo de retrogresión; en una vida futura la plenitud de expresión representada por
+este planeta marcará un factor mayor de la misión de vida - en la vida presente -, el factor
+de experiencia representado por el planeta y la casa que este rige, es mantenido en latencia
+relativa para que esos factores que comprenden la misión evolutiva mayor para esta vida,
+sean enfocados.
+
+Retrógrado natal, estacionario por progresión al final de la vida: 
+
+La indicación es que
+esta misión de recapitulación activa será asumida en la vida siguiente. El período de
+suspenso termina en esta vida y la vida siguiente encontrará a la persona cualificada para
+reasumir por recapitulación, aquellos factores de experiencia que han sido mantenidos en
+suspenso quizás por varias vidas; este tipo de progresión indica que la persona asumirá un
+factor nuevo de mayor significación en la siguiente misión de vida, siendo uno que él
+empezó y después cambió por algún tiempo en una vida pasada; éste contendrá
+considerable contenido kármico, restante del pasado remoto y tal vez pueden ser necesarias
+varias vidas para cumplir esta misión.
+
+Retrógrado natal, progresa estacionario y luego directo en esta vida: 
+
+La indicación es
+que la misión de recapitulación activa debe asumirse en la vida presente; el período de
+suspenso está terminado y la experiencia representada por el planeta se convierte en un
+factor evolutivo mayor de la presente misión de vida cuando el planeta se mueva hacia
+adelante del período estacionario a moción directa. El factor astrológico dará atención muy
+cuidadosa a la regulación del tiempo de la moción directa progresada, relacionándola con
+los aspectos planetarios progresados corrientes, ciclo de eclipse solar corriente y el
+cuadrante de la Luna progresada. Este tipo de progresión planetaria es uno de los más
+importantes desde un punto de vista evolutivo porque señala la segunda tentativa de la
+persona en asuntos relacionados con la casa regida por este planeta, y lo que sea hecho en
+los años restantes de esta vida respecto a él creará mucho karma obstructivo o regenerador
+a ser utilizado en el futuro. Este tipo de progresión marca un punto crítico evolutivo mayor
+en la historia cíclica de la conciencia individualizada.
+
+Natal retrógrado progresa estacionario, directo y después en conjunción con
+posición natal: 
+
+El final del período de latencia y recapitulación subjetiva, el florecimiento
+de recapitulación activa y expresión real directa y creadora del poder planetario;
+participación directa en el patrón de relación y factores de experiencia representados por el
+planeta, su casa de regencia y casa de Ubicación. El aspecto particular o fase de la
+conciencia anímica “es reconocida” y cada aspecto natal de cualidad regeneradora - sextil o
+trino - indicado por el planeta promete un oleaje de gran alegría. Las cuadraturas u
+oposiciones natales indicadas por el planeta traerán pruebas en ese período de vida; pero en
+sentido de una mayor habilidad para la persona bregar con ellas, haciendo producir todos
+los recursos de poder espiritual para las resoluciones necesarias. Cuando un planeta está
+directo, en el natal, pero se vuelve y permanece retrógrado por progresión, la indicación es
+que está vida ve una “separación” de los factores representados por los planetas; hablando
+en términos evolutivos, esta acción parece indicar que la persona va a enfocar su atención
+en otros factores. Si este planeta, por progresión retrógrada alcanza la conjunción de su
+posición natal en esta vida, la indicación es claramente que los factores planetarios
+especiales no han de ser de mayor importancia en la vida siguiente.
