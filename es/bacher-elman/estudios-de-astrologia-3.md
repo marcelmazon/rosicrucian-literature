@@ -9,7 +9,7 @@ original_source_file: "studies-in-astrology-volume-3.md"
 
 <h1 id="studies-in-astrology-volume-3">Elman Bacher – Estudios de Astrología III</h1>
 
-by Elman Bacher
+por Elman Bacher
 
 ### <h3 id="table-of-contents">Índice</h3>
 
